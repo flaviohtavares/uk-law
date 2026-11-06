@@ -45,13 +45,13 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and section 56(1) and (2) of the Finance Act 1973[^f00002], hereby make the following Regulations:
 
-## 1. Title, commencement and extent[^key-ea63dc0f1f63b0850d7ad69b0f998dcd]
+## 1. Title, commencement and extent[^c-ea63dc0f1f63b0850d7ad69b0f998dcd]
 
 (1) These Regulations may be cited as the Plant Health (Import Inspection Fees) (Scotland) Regulations 2005 and shall come into force on 6th May 2005.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-674f53765fe03c0085409adbf5eb63e1]
+## 2. Interpretation[^c-674f53765fe03c0085409adbf5eb63e1]
 
 (1) In these Regulations–
 
@@ -68,11 +68,11 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 (2) A reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication, as defined in the Electronic Communications Act 2000[^f00006], which has been recorded and is consequently capable of being reproduced.
 
-## 3. Consignments to which Regulations apply[^key-4d2c5f96d52284b33f7ba0740890cce3]
+## 3. Consignments to which Regulations apply[^c-4d2c5f96d52284b33f7ba0740890cce3]
 
 These Regulations apply to consignments of plants, plant products and other objects of a description specified in the first column of Schedule 1, landed in Scotland from a third country in respect of which Article 13d(1) of the Directive requires Member States to collect phytosanitary fees to cover the costs occasioned by documentary checks, identity checks and plant health checks.
 
-## 4. Fees[^key-7dff006c2c9906c27bed8c581d41578d]
+## 4. Fees[^c-7dff006c2c9906c27bed8c581d41578d]
 
 (1) An importer of a consignment to which these Regulations apply must pay to the Scottish Ministers the fees specified in this regulation.
 
@@ -88,11 +88,11 @@ These Regulations apply to consignments of plants, plant products and other obje
 
 (4) In respect of a documentary check or an identity check carried out on any consignment the fee payable shall be that specified for that check in the third column of Schedule 3.
 
-## 5. Mixed consignments[^key-c066a1cf00455aed658c9b270c625eb7]
+## 5. Mixed consignments[^c-c066a1cf00455aed658c9b270c625eb7]
 
 Where a consignment to which these Regulations apply does not consist exclusively of plants, plant products or other objects coming within one description in the first column of Schedule 1, those parts thereof consisting of plants, plant products or other objects coming within other descriptions in the first column of that Schedule shall be treated as separate consignments and subject to separate fees under regulation 4.
 
-## 6. Notification of consignments[^key-dd6999e416a995709c797abaf0e4bb84]
+## 6. Notification of consignments[^c-dd6999e416a995709c797abaf0e4bb84]
 
 An importer of a consignment to which these Regulations apply must submit to the Scottish Ministers such information relating to the consignment, in writing and in such form as the Scottish Ministers may reasonably require, and such information must be submitted at least 48 hours before the consignment is landed in Scotland.
 
@@ -104,7 +104,7 @@ Pentland House, Edinburgh
 
 14th April 2005
 
-## SCHEDULE 1 — IMPORT INSPECTION FEES FOR PLANT HEALTH CHECKS[^key-923169e4c71463816846395344ed3396]
+## SCHEDULE 1 — IMPORT INSPECTION FEES FOR PLANT HEALTH CHECKS[^c-923169e4c71463816846395344ed3396]
 
 Regulations 3, 4(2) and 5
 
@@ -131,7 +131,7 @@ Regulations 3, 4(2) and 5
 </tbody>
 </table>
 
-## SCHEDULE 2 — REDUCED IMPORT INSPECTION FEES FOR PLANT HEALTH CHECKS[^key-8fbeb69c8073ed6c08d2042db4e8efc0]
+## SCHEDULE 2 — REDUCED IMPORT INSPECTION FEES FOR PLANT HEALTH CHECKS[^c-8fbeb69c8073ed6c08d2042db4e8efc0]
 
 Regulation 4(3)
 
@@ -157,7 +157,7 @@ Regulation 4(3)
 </tbody>
 </table>
 
-## SCHEDULE 3 — IMPORT INSPECTION FEES FOR DOCUMENTARY CHECKS AND IDENTITY CHECKS[^key-12114f5e526e565bc37df6830c121149]
+## SCHEDULE 3 — IMPORT INSPECTION FEES FOR DOCUMENTARY CHECKS AND IDENTITY CHECKS[^c-12114f5e526e565bc37df6830c121149]
 
 Regulation 4(4)
 
@@ -192,9 +192,9 @@ No Regulatory Impact Assessment has been prepared in respect of these Regulation
 
 [^f00002]: Footnote: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51). The reference to a Government department in section 56(1) is to be read as a reference to the Scottish Administration by virtue of article 2(2) of the Scotland Act (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)) and the functions of the Minister transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998. The requirement to obtain the consent of the Treasury was removed by section 55 of the Scotland Act 1998.
 
-[^key-ea63dc0f1f63b0850d7ad69b0f998dcd]: Commencement: Reg. 1 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
+[^c-ea63dc0f1f63b0850d7ad69b0f998dcd]: Commencement: Reg. 1 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
 
-[^key-674f53765fe03c0085409adbf5eb63e1]: Commencement: Reg. 2 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
+[^c-674f53765fe03c0085409adbf5eb63e1]: Commencement: Reg. 2 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
 
 [^f00003]: Footnote: O.J. No. L 169, 10.7.00, p.1.
 
@@ -204,16 +204,16 @@ No Regulatory Impact Assessment has been prepared in respect of these Regulation
 
 [^f00006]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-4d2c5f96d52284b33f7ba0740890cce3]: Commencement: Reg. 3 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
+[^c-4d2c5f96d52284b33f7ba0740890cce3]: Commencement: Reg. 3 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
 
-[^key-7dff006c2c9906c27bed8c581d41578d]: Commencement: Reg. 4 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
+[^c-7dff006c2c9906c27bed8c581d41578d]: Commencement: Reg. 4 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
 
-[^key-c066a1cf00455aed658c9b270c625eb7]: Commencement: Reg. 5 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
+[^c-c066a1cf00455aed658c9b270c625eb7]: Commencement: Reg. 5 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
 
-[^key-dd6999e416a995709c797abaf0e4bb84]: Commencement: Reg. 6 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
+[^c-dd6999e416a995709c797abaf0e4bb84]: Commencement: Reg. 6 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
 
-[^key-923169e4c71463816846395344ed3396]: Commencement: Sch. 1 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
+[^c-923169e4c71463816846395344ed3396]: Commencement: Sch. 1 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
 
-[^key-8fbeb69c8073ed6c08d2042db4e8efc0]: Commencement: Sch. 2 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
+[^c-8fbeb69c8073ed6c08d2042db4e8efc0]: Commencement: Sch. 2 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
 
-[^key-12114f5e526e565bc37df6830c121149]: Commencement: Sch. 3 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)
+[^c-12114f5e526e565bc37df6830c121149]: Commencement: Sch. 3 in force at 6.5.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/216/regulation/1/1)

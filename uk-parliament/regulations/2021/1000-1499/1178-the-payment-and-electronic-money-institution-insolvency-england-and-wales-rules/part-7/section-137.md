@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Value of security[^key-5ecf2fb385dc2f3a7e61dad43cf3cfed]
+## 137. Value of security[^c-5ecf2fb385dc2f3a7e61dad43cf3cfed]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ecf2fb385dc2f3a7e61dad43cf3cfed]: Commencement: Rule 137 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-5ecf2fb385dc2f3a7e61dad43cf3cfed]: Commencement: Rule 137 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

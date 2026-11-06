@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Application of these Regulations[^key-7d94264001167522d28d7224b4e200dd]
+## 4. Application of these Regulations[^c-7d94264001167522d28d7224b4e200dd]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d94264001167522d28d7224b4e200dd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/3248/regulation/4) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-7d94264001167522d28d7224b4e200dd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/3248/regulation/4) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

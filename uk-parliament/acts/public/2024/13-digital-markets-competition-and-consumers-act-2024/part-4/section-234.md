@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 234. Enforcement of rights of redress[^key-2ab7d25bdef0f613a0d11cc3f4cd3ae3]
+## 234. Enforcement of rights of redress[^c-2ab7d25bdef0f613a0d11cc3f4cd3ae3]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ab7d25bdef0f613a0d11cc3f4cd3ae3]: Commencement: S. 234 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-2ab7d25bdef0f613a0d11cc3f4cd3ae3]: Commencement: S. 234 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

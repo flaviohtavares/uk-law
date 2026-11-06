@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Politically restricted posts: consequential amendments[^key-7e51ebf188484765d60d57d29a0d2809]
+## 203. Politically restricted posts: consequential amendments[^c-7e51ebf188484765d60d57d29a0d2809]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e51ebf188484765d60d57d29a0d2809]: Commencement: S. 203 in force at 1.4.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 4(m)](https://www.legislation.gov.uk/uksi/2008/172/article/4/m)
+[^c-7e51ebf188484765d60d57d29a0d2809]: Commencement: S. 203 in force at 1.4.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 4(m)](https://www.legislation.gov.uk/uksi/2008/172/article/4/m)

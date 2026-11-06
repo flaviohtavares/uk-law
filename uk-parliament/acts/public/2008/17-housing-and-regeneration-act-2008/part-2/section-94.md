@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Studies[^key-01d98fe86d3d7a51809d141db5267256]
+## 94. Studies[^c-01d98fe86d3d7a51809d141db5267256]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) The regulator may publish a report on a study.
 
-(3)[^key-0d4a2e672a5fc24b038dc2ac8f647cbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0d4a2e672a5fc24b038dc2ac8f647cbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-01d98fe86d3d7a51809d141db5267256]: Commencement: S. 94 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-01d98fe86d3d7a51809d141db5267256]: Commencement: S. 94 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-0d4a2e672a5fc24b038dc2ac8f647cbc]: Textual amendment: S. 94(3) omitted (1.10.2018) by virtue of [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/17) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))
+[^c-0d4a2e672a5fc24b038dc2ac8f647cbc]: Textual amendment: S. 94(3) omitted (1.10.2018) by virtue of [The Legislative Reform (Regulator of Social Housing) (England) Order 2018 (S.I. 2018/1040)](https://www.legislation.gov.uk/uksi/2018/1040), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1040/article/1/2), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2018/1040/schedule/paragraph/17) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2018/1040/part/4))

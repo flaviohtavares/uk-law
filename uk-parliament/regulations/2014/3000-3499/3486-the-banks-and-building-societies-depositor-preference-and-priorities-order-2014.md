@@ -44,23 +44,23 @@ Coming into force
 
 The Treasury are designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002], in relation to financial services.
 
-The Treasury, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, and section 90B(1) and (5) of the Building Societies Act 1986[^f00003], make the following Order.[^key-fdaaefb48d288225ab95f8f6d8d9b19e]
+The Treasury, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, and section 90B(1) and (5) of the Building Societies Act 1986[^f00003], make the following Order.[^c-fdaaefb48d288225ab95f8f6d8d9b19e]
 
-A draft of this Order has been laid before Parliament and approved by a resolution of each House of Parliament in accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 1972, and section 90B(6) of the Building Societies Act 1986.[^key-fdaaefb48d288225ab95f8f6d8d9b19e]
+A draft of this Order has been laid before Parliament and approved by a resolution of each House of Parliament in accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 1972, and section 90B(6) of the Building Societies Act 1986.[^c-fdaaefb48d288225ab95f8f6d8d9b19e]
 
 ## PART 1 — Introductory Provisions
 
-### 1. Citation and commencement[^key-c29e155d0b75bdf17bab22cc8c32429c]
+### 1. Citation and commencement[^c-c29e155d0b75bdf17bab22cc8c32429c]
 
 (1) This Order may be cited as the Banks and Building Societies (Depositor Preference and Priorities) Order 2014.
 
 (2) This Order comes into force on 1st January 2015.
 
-### 2. Extent[^key-692916632cbe7f56b45f22778ddc99e6]
+### 2. Extent[^c-692916632cbe7f56b45f22778ddc99e6]
 
 The amendments made by this Order have the same extent as the enactments amended.
 
-### 3. Transitional provision[^key-aeb517c2537a4f1a5a61f7fbaa7d4ee5]
+### 3. Transitional provision[^c-aeb517c2537a4f1a5a61f7fbaa7d4ee5]
 
 (1) This Order has no effect in relation to any insolvency proceedings commenced before the date on which this Order comes into force.
 
@@ -82,7 +82,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 ## PART 2 — Amendments of Insolvency Act 1986
 
-### 4. Decisions of meetings[^key-e93c56cd48edb763cf471873a7d1e033]
+### 4. Decisions of meetings[^c-e93c56cd48edb763cf471873a7d1e033]
 
 (1) Section 4 of the Insolvency Act 1986 (decisions of meetings)[^f00013] is amended as follows.
 
@@ -107,7 +107,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 (3) In subsection (7), after “preferential debts” insert “, ordinary preferential debts, secondary preferential debts”.
 
-### 5. Preferential debts[^key-c5fb967908df13e54a6b2d2dd75d0c2e]
+### 5. Preferential debts[^c-c5fb967908df13e54a6b2d2dd75d0c2e]
 
 (1) Section 175 of the Insolvency Act 1986 (preferential debts: general provision) is amended as follows.
 
@@ -129,7 +129,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 .
 
-### 6. Decisions of creditors’ meetings and preferential debts[^key-9c02b8720eb0f72ed13dc7ac058ae7e6]
+### 6. Decisions of creditors’ meetings and preferential debts[^c-9c02b8720eb0f72ed13dc7ac058ae7e6]
 
 (1) Section 258 of the Insolvency Act 1986 (decisions of creditors’ meeting)[^f00014] is amended as follows.
 
@@ -154,7 +154,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 (3) In subsection (7), for “has” substitute “, “ordinary preferential debt” and “secondary preferential debt” each has”.
 
-### 7. Priority of debts[^key-50c88df14eda1707836750b8fc53dd04]
+### 7. Priority of debts[^c-50c88df14eda1707836750b8fc53dd04]
 
 (1) Section 328 of the Insolvency Act 1986 (priority of debts) is amended as follows.
 
@@ -176,7 +176,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 .
 
-### 8. Categories of preferential debts[^key-6e5b137ab555e113396d7ed1d31c994f]
+### 8. Categories of preferential debts[^c-6e5b137ab555e113396d7ed1d31c994f]
 
 (1) Section 386[^f00015] of the Insolvency Act 1986 (categories of preferential debts) is amended as follows.
 
@@ -192,7 +192,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 (4) In subsection (2), for “that Schedule” substitute “Schedule 6”.
 
-### 9. Moratorium where directors propose voluntary arrangement and preferential debts[^key-713b26b77fc8022664a23a9d59eea63e]
+### 9. Moratorium where directors propose voluntary arrangement and preferential debts[^c-713b26b77fc8022664a23a9d59eea63e]
 
 (1) Schedule A1[^f00016] to the Insolvency Act 1986 (moratorium where directors propose voluntary arrangement) is amended as follows.
 
@@ -217,7 +217,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 (3) In paragraph 31(8), after “preferential debts” insert “, ordinary preferential debts, secondary preferential debts”.
 
-### 10. Administration and preferential debts[^key-1d8d95905a246350eed0ef176377b7f2]
+### 10. Administration and preferential debts[^c-1d8d95905a246350eed0ef176377b7f2]
 
 (1) Schedule B1[^f00017] to the Insolvency Act 1986 (administration), paragraph 73(1) is amended as follows.
 
@@ -239,7 +239,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 .
 
-### 11. Additional preferential debts[^key-66e70ea7c8035956e125e7141a7217cf]
+### 11. Additional preferential debts[^c-66e70ea7c8035956e125e7141a7217cf]
 
 (1) Schedule 6[^f00018] to the Insolvency Act 1986 (preferential debts) is amended as follows.
 
@@ -281,7 +281,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 ## PART 3 — Amendments of Insolvent Partnerships Order 1994
 
-### 12. Amendments of Schedule 1 to the Insolvent Partnerships Order 1994[^key-ffede9cc6a751515749010aa70cef751]
+### 12. Amendments of Schedule 1 to the Insolvent Partnerships Order 1994[^c-ffede9cc6a751515749010aa70cef751]
 
 (1) Schedule 1 to the Insolvent Partnerships Order 1994 (modified provisions of Part 1 of, and Schedule A1 to, the Insolvency Act 1986 (company voluntary arrangements) as applied by Article 4)[^f00021], is amended as follows.
 
@@ -306,7 +306,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 (3) In modified section 4(7) after “preferential debts” insert “, ordinary preferential debts, secondary preferential debts”.
 
-### 13. Amendments of Schedule 2 to the Insolvent Partnerships Order 1994[^key-fb86a3d6357a369bf9e5ae766e444b0a]
+### 13. Amendments of Schedule 2 to the Insolvent Partnerships Order 1994[^c-fb86a3d6357a369bf9e5ae766e444b0a]
 
 (1) Paragraph 25 of Schedule 2 to the Insolvent Partnerships Order 1994 (modified provisions of Part 2 of, and Schedule B1 to, the Insolvency Act 1986 (Administration) as applied by Article 6)[^f00022] is amended as follows.
 
@@ -327,7 +327,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
   .
 
-### 14. Amendments of Schedule 4 to the Insolvent Partnerships Order 1994[^key-48046741bf90835e8c870f56cd067153]
+### 14. Amendments of Schedule 4 to the Insolvent Partnerships Order 1994[^c-48046741bf90835e8c870f56cd067153]
 
 (1) Paragraph 23 of Schedule 4 to the Insolvent Partnerships Order 1994 (provisions of the Insolvency Act 1986[^f00023] which apply with modifications for the purposes of article 8 to winding up of insolvent partnership on creditor’s petition where concurrent petitions are presented against one or more members) is amended as follows.
 
@@ -347,7 +347,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 .
 
-### 15. Amendments of Schedule 7 to the Insolvent Partnerships Order 1994[^key-5a3656272fb911b921cf5766080a7053]
+### 15. Amendments of Schedule 7 to the Insolvent Partnerships Order 1994[^c-5a3656272fb911b921cf5766080a7053]
 
 (1) Paragraph 21 of Schedule 7 to the Insolvent Partnerships Order 1994 (provisions of the Insolvency Act 1986[^f00024] which apply with modifications for the purposes of article 11 where joint bankruptcy presented by individual members without winding up of partnership as unregistered company) is amended as follows.
 
@@ -369,7 +369,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 ## PART 4 — Amendments of Insolvency (Northern Ireland) Order 1989
 
-### 16. Decisions of meetings and preferential debts[^key-b470de10b2f4085553aa65d61479fa70]
+### 16. Decisions of meetings and preferential debts[^c-b470de10b2f4085553aa65d61479fa70]
 
 (1) Article 17 of the Insolvency (Northern Ireland) Order 1989 (decisions of meetings)[^f00025] is amended as follows.
 
@@ -394,7 +394,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 (3) In paragraph (7), for “has” substitute “, “ordinary preferential debt” and “secondary preferential debt” each has”.
 
-### 17. Preferential debts: general provision[^key-fd52de3faaa554ae3744a75f090c1157]
+### 17. Preferential debts: general provision[^c-fd52de3faaa554ae3744a75f090c1157]
 
 (1) Article 149 of the Insolvency (Northern Ireland) Order 1989 (preferential debts: general provision) is amended as follows.
 
@@ -416,7 +416,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 .
 
-### 18. Decisions of creditors’ meetings and preferential debts[^key-1e0510e57944badbb4938f04b69c5d77]
+### 18. Decisions of creditors’ meetings and preferential debts[^c-1e0510e57944badbb4938f04b69c5d77]
 
 (1) Article 232 of the Insolvency (Northern Ireland) Order 1989 (decisions of creditors’ meeting)[^f00026] is amended as follows.
 
@@ -441,7 +441,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 (3) In paragraph (9), for “has” substitute “, “ordinary preferential debt” and “secondary preferential debt” each has”.
 
-### 19. Priority of debts[^key-0b0866408e7689ac1bd54f4fd04e7a83]
+### 19. Priority of debts[^c-0b0866408e7689ac1bd54f4fd04e7a83]
 
 (1) Article 300 of the Insolvency (Northern Ireland) Order 1989 (priority of debts) is amended as follows.
 
@@ -463,7 +463,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 .
 
-### 20. Categories of preferential debts[^key-c17a3d22bd1b018d2958d328a020ef0a]
+### 20. Categories of preferential debts[^c-c17a3d22bd1b018d2958d328a020ef0a]
 
 (1) Article 346 of the Insolvency (Northern Ireland) Order 1989 (categories of preferential debts)[^f00027] is amended as follows.
 
@@ -477,7 +477,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 .
 
-### 21. Moratorium where directors propose voluntary arrangement and preferential debts[^key-2a3b0cd6e49f36325ebc845beaaa54a6]
+### 21. Moratorium where directors propose voluntary arrangement and preferential debts[^c-2a3b0cd6e49f36325ebc845beaaa54a6]
 
 (1) Schedule A1 to the Insolvency (Northern Ireland) Order 1989 (moratorium where directors propose voluntary arrangement)[^f00028] is amended as follows.
 
@@ -502,7 +502,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 (3) In paragraph 41(8), after “preferential debts” insert “, ordinary preferential debts, secondary preferential debts”.
 
-### 22. Administration and preferential debts[^key-ceaaae76c4eb0eab484637cc0cbae48a]
+### 22. Administration and preferential debts[^c-ceaaae76c4eb0eab484637cc0cbae48a]
 
 (1) Paragraph 74(1) of Schedule B1 to the Insolvency (Northern Ireland) Order 1989 (protection for preferential creditors)[^f00029] is amended as follows.
 
@@ -524,7 +524,7 @@ The amendments made by this Order have the same extent as the enactments amended
 
 .
 
-### 23. Additional preferential debts[^key-ef6b108ce6eeecc2d6a957f8da28a3cb]
+### 23. Additional preferential debts[^c-ef6b108ce6eeecc2d6a957f8da28a3cb]
 
 In Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (categories of preferential debts)[^f00030], after paragraph 17 insert—
 
@@ -567,7 +567,7 @@ In Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (categories of pre
 
 ## PART 5 — Amendments of Insolvent Partnerships Order (Northern Ireland) 1995
 
-### 24. Amendments of Schedule 1 to the Insolvent Partnerships Order (Northern Ireland) 1995[^key-fc42ec646fb01d0065cfef2a93afd99c]
+### 24. Amendments of Schedule 1 to the Insolvent Partnerships Order (Northern Ireland) 1995[^c-fc42ec646fb01d0065cfef2a93afd99c]
 
 (1) Schedule 1 to the Insolvent Partnerships Order (Northern Ireland) 1995[^f00035] (modified provisions of Part 2 of the Order (company voluntary arrangements) as applied by Article 4)[^f00036] is amended as follows.
 
@@ -592,7 +592,7 @@ In Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (categories of pre
 
 (3) In modified Article 17(7) for “has” substitute “,”ordinary preferential debt”, and “secondary preferential debt” each has”.
 
-### 25. Amendments of Schedule 2 to the Insolvent Partnerships Order (Northern Ireland) 1995[^key-ffcf87494a014eefffd39e02633a2929]
+### 25. Amendments of Schedule 2 to the Insolvent Partnerships Order (Northern Ireland) 1995[^c-ffcf87494a014eefffd39e02633a2929]
 
 (1) Paragraph 35 of Schedule 2 to the Insolvent Partnerships Order (Northern Ireland) 1995 (provisions of the Order which apply with modifications for the purposes of Article 6 to administration in relation to insolvent partnerships)[^f00037], is amended as follows.
 
@@ -613,7 +613,7 @@ In Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (categories of pre
 
   .
 
-### 26. Amendments of Schedule 4 to the Insolvent Partnerships Order (Northern Ireland) 1995[^key-b107cb386626e430dbdffb5d72296a98]
+### 26. Amendments of Schedule 4 to the Insolvent Partnerships Order (Northern Ireland) 1995[^c-b107cb386626e430dbdffb5d72296a98]
 
 (1) Paragraph 23 of Schedule 4 to the Insolvent Partnerships Order (Northern Ireland) 1995 (provisions of the Order which apply with modifications for the purposes of Article 8 to winding up of insolvent partnership on creditor’s petition where concurrent petitions are presented against one or more members)[^f00038] is amended as follows.
 
@@ -633,7 +633,7 @@ In Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (categories of pre
 
 .
 
-### 27. Amendments of Schedule 7 to the Insolvent Partnerships Order (Northern Ireland) 1995[^key-4686ccc5f61d88ce1a2205b794e22660]
+### 27. Amendments of Schedule 7 to the Insolvent Partnerships Order (Northern Ireland) 1995[^c-4686ccc5f61d88ce1a2205b794e22660]
 
 (1) Paragraph 21 of Schedule 7 to the Insolvent Partnerships Order (Northern Ireland) 1995 (provisions of the Order which apply with modifications for the purposes of Article 11 where joint bankruptcy petition is presented by individual members without winding up partnership as unregistered company)[^f00039] is amended as follows.
 
@@ -655,7 +655,7 @@ In Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (categories of pre
 
 ## PART 6 — Further amendments relating to Parts 2 to 5
 
-### 28. The Bankruptcy (Scotland) Act 1985[^key-392b64cf2b3764926bf4fca1bb6cbf89]
+### 28. The Bankruptcy (Scotland) Act 1985[^c-392b64cf2b3764926bf4fca1bb6cbf89]
 
 (1) The Bankruptcy (Scotland) Act 1985[^f00040] is amended as follows.
 
@@ -720,7 +720,7 @@ In Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (categories of pre
 
     .
 
-### 29. Housing Act 1996[^key-2c3d63b0178cffacc4fe348062909e92]
+### 29. Housing Act 1996[^c-2c3d63b0178cffacc4fe348062909e92]
 
 (1) The Housing Act 1996[^f00046] is amended as follows.
 
@@ -742,7 +742,7 @@ In Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (categories of pre
   ;
 - (e) after “references to preferential debts” insert “, ordinary preferential debts, secondary preferential debts”.
 
-### 30. Housing and Regeneration Act 2008[^key-d014a04044bac553b29e1fa91aee543c]
+### 30. Housing and Regeneration Act 2008[^c-d014a04044bac553b29e1fa91aee543c]
 
 (1) The Housing and Regeneration Act 2008[^f00047] is amended as follows.
 
@@ -773,7 +773,7 @@ In Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (categories of pre
 > | --- | --- |
 > | Secondary preferential debt | Section 275 |
 
-### 31. Housing (Scotland) Act 2010[^key-daffed644a919786c20a1779d1077e5f]
+### 31. Housing (Scotland) Act 2010[^c-daffed644a919786c20a1779d1077e5f]
 
 (1) Section 80 of the Housing (Scotland) Act 2010 (proposals: formulation)[^f00049] is amended as follows.
 
@@ -796,7 +796,7 @@ In Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (categories of pre
 
 ## PART 7 — Amendments of Schedule 15 to Building Societies Act 1986
 
-### 32. General mode of application of the companies winding up legislation[^key-e8ac61a41beec02c4b42fb1864fd7f21]
+### 32. General mode of application of the companies winding up legislation[^c-e8ac61a41beec02c4b42fb1864fd7f21]
 
 (1) Part 1 of Schedule 15 to the Building Societies Act 1986[^f00050] (general mode of application) is amended as follows.
 
@@ -819,7 +819,7 @@ In Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (categories of pre
 
 .
 
-### 33. Modified application of Part 4 of the Insolvency Act 1986[^key-0076524d34cdc640c571fe568eb34e04]
+### 33. Modified application of Part 4 of the Insolvency Act 1986[^c-0076524d34cdc640c571fe568eb34e04]
 
 (1) Part 2 of Schedule 15 to the Building Societies Act 1986 (modified application of Insolvency Act 1986, Parts 4 and 12) is amended as follows.
 
@@ -858,7 +858,7 @@ In Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (categories of pre
 
 .
 
-### 34. Modified application of Part 5 of the Insolvency (Northern Ireland) Order 1989[^key-4e9efb88b34f119689374876e97768df]
+### 34. Modified application of Part 5 of the Insolvency (Northern Ireland) Order 1989[^c-4e9efb88b34f119689374876e97768df]
 
 (1) Part 3 of Schedule 15 to the Building Societies Act 1986 (modified application of the Insolvency (Northern Ireland) Order 1989, Parts 5 and 11) is amended as follows.
 
@@ -899,7 +899,7 @@ In Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (categories of pre
 
 ## PART 8 — Building society rules
 
-### 35. Matters to be covered by the rules[^key-dac9657be2b7bee7a00c745798d41cc8]
+### 35. Matters to be covered by the rules[^c-dac9657be2b7bee7a00c745798d41cc8]
 
 (1) Paragraph 3(4) (table of matters to be covered by the rules) of Schedule 2 to the Building Societies Act 1986 (establishment, incorporation and constitution of building societies) is amended as follows.
 
@@ -911,7 +911,7 @@ In Schedule 4 to the Insolvency (Northern Ireland) Order 1989 (categories of pre
 
 .
 
-### 36. Supplementary and transitional provision in relation to rules[^key-fe7c3be563fcb19d847576eb46677d49]
+### 36. Supplementary and transitional provision in relation to rules[^c-fe7c3be563fcb19d847576eb46677d49]
 
 (1) A relevant rule has no effect in relation to the winding up of a building society commenced on or after 1st January 2015.
 
@@ -984,13 +984,13 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00003]: Footnote: [1986 c.53](https://www.legislation.gov.uk/ukpga/1986/53). Section 90B was inserted by section 2 of the Building Societies (Funding) and Mutual Societies (Transfers) Act [2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26).
 
-[^key-fdaaefb48d288225ab95f8f6d8d9b19e]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-fdaaefb48d288225ab95f8f6d8d9b19e]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-c29e155d0b75bdf17bab22cc8c32429c]: Commencement: Art. 1 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-c29e155d0b75bdf17bab22cc8c32429c]: Commencement: Art. 1 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
-[^key-692916632cbe7f56b45f22778ddc99e6]: Commencement: Art. 2 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-692916632cbe7f56b45f22778ddc99e6]: Commencement: Art. 2 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
-[^key-aeb517c2537a4f1a5a61f7fbaa7d4ee5]: Commencement: Art. 3 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-aeb517c2537a4f1a5a61f7fbaa7d4ee5]: Commencement: Art. 3 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00004]: Footnote: [1985 c.66 (S.)](https://www.legislation.gov.uk/ukpga/1985/66).
 
@@ -1010,31 +1010,31 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00012]: Footnote: Schedule B1 was inserted by Insolvency (Northern Ireland) Order 2005 ([S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455), Schedule 1.
 
-[^key-e93c56cd48edb763cf471873a7d1e033]: Commencement: Art. 4 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-e93c56cd48edb763cf471873a7d1e033]: Commencement: Art. 4 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00013]: Footnote: Section 4 was amended by the Insolvency Act [2000 (c.39)](https://www.legislation.gov.uk/ukpga/2000/39), Schedule 2, paragraphs 1 and 4.
 
-[^key-c5fb967908df13e54a6b2d2dd75d0c2e]: Commencement: Art. 5 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-c5fb967908df13e54a6b2d2dd75d0c2e]: Commencement: Art. 5 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
-[^key-9c02b8720eb0f72ed13dc7ac058ae7e6]: Commencement: Art. 6 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-9c02b8720eb0f72ed13dc7ac058ae7e6]: Commencement: Art. 6 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00014]: Footnote: Section 258 was amended by the Insolvency Act [2000 (c.39)](https://www.legislation.gov.uk/ukpga/2000/39), Schedule 3, paras 1 and 9.
 
-[^key-50c88df14eda1707836750b8fc53dd04]: Commencement: Art. 7 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-50c88df14eda1707836750b8fc53dd04]: Commencement: Art. 7 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
-[^key-6e5b137ab555e113396d7ed1d31c994f]: Commencement: Art. 8 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-6e5b137ab555e113396d7ed1d31c994f]: Commencement: Art. 8 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00015]: Footnote: Section 386 was amended by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), section 251(3), the Financial Services (Banking Reform) Act [2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33), section 13, and the Pension Schemes Act [1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48), Schedule 8, paragraph 18.
 
-[^key-713b26b77fc8022664a23a9d59eea63e]: Commencement: Art. 9 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-713b26b77fc8022664a23a9d59eea63e]: Commencement: Art. 9 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00016]: Footnote: Schedule A1 to the Insolvency Act 1986 was inserted by the Insolvency Act [2000 (c.39)](https://www.legislation.gov.uk/ukpga/2000/39), Schedule 1, paragraphs 1 and 4.
 
-[^key-1d8d95905a246350eed0ef176377b7f2]: Commencement: Art. 10 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-1d8d95905a246350eed0ef176377b7f2]: Commencement: Art. 10 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00017]: Footnote: Schedule B1 to the Insolvency Act 1986 was inserted by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), Schedule 16.
 
-[^key-66e70ea7c8035956e125e7141a7217cf]: Commencement: Art. 11 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-66e70ea7c8035956e125e7141a7217cf]: Commencement: Art. 11 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00018]: Footnote: Schedule 6 to the Insolvency Act 1986 was amended by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), section 251, and Schedule 26; the Pension Schemes Act [1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48), Schedule 8, paragraph 18; the Employment Rights Act [1996 (c.18)](https://www.legislation.gov.uk/ukpga/1996/18), Schedule 1, paragraph 29, the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), Schedule 19, paragraphs 1, 64; the Financial Services (Banking Reform) Act [2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33), section 13 and [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948); [1987/2093](https://www.legislation.gov.uk/uksi/1987/2093).
 
@@ -1042,47 +1042,47 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00020]: Footnote: OJ no L176, 27.6.2013, p.1. For corrigenda see OJ no L208, 2.8.2013 p.68 and OJ no L321, 30.11.2013 p. 6.
 
-[^key-ffede9cc6a751515749010aa70cef751]: Commencement: Art. 12 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-ffede9cc6a751515749010aa70cef751]: Commencement: Art. 12 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00021]: Footnote: [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421). Schedule 1 was substituted by [S.I. 2002/2708](https://www.legislation.gov.uk/uksi/2002/2708).
 
-[^key-fb86a3d6357a369bf9e5ae766e444b0a]: Commencement: Art. 13 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-fb86a3d6357a369bf9e5ae766e444b0a]: Commencement: Art. 13 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00022]: Footnote: Schedule 2 was substituted by [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516).
 
-[^key-48046741bf90835e8c870f56cd067153]: Commencement: Art. 14 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-48046741bf90835e8c870f56cd067153]: Commencement: Art. 14 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00023]: Footnote: Schedule 4 to [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421) has been amended, but those amendments are not relevant to this Order.
 
-[^key-5a3656272fb911b921cf5766080a7053]: Commencement: Art. 15 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-5a3656272fb911b921cf5766080a7053]: Commencement: Art. 15 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00024]: Footnote: Schedule 7 to [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421) has been amended, but those amendments are not relevant to this Order.
 
-[^key-b470de10b2f4085553aa65d61479fa70]: Commencement: Art. 16 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-b470de10b2f4085553aa65d61479fa70]: Commencement: Art. 16 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00025]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405). Article 17 was amended by [S.I. 2002/3152 (N.I. 6)](https://www.legislation.gov.uk/nisi/2002/3152).
 
-[^key-fd52de3faaa554ae3744a75f090c1157]: Commencement: Art. 17 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-fd52de3faaa554ae3744a75f090c1157]: Commencement: Art. 17 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
-[^key-1e0510e57944badbb4938f04b69c5d77]: Commencement: Art. 18 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-1e0510e57944badbb4938f04b69c5d77]: Commencement: Art. 18 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00026]: Footnote: Article 232 of [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405) was amended by [S.I. 2002/3152 (N.I. 6)](https://www.legislation.gov.uk/nisi/2002/3152).
 
-[^key-0b0866408e7689ac1bd54f4fd04e7a83]: Commencement: Art. 19 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-0b0866408e7689ac1bd54f4fd04e7a83]: Commencement: Art. 19 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
-[^key-c17a3d22bd1b018d2958d328a020ef0a]: Commencement: Art. 20 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-c17a3d22bd1b018d2958d328a020ef0a]: Commencement: Art. 20 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00027]: Footnote: Article 346 was amended by [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455).
 
-[^key-2a3b0cd6e49f36325ebc845beaaa54a6]: Commencement: Art. 21 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-2a3b0cd6e49f36325ebc845beaaa54a6]: Commencement: Art. 21 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00028]: Footnote: Schedule A1 was inserted by [S.I. 2002/3152 (N.I. 6)](https://www.legislation.gov.uk/nisi/2002/3152). There are a number of amendments to Schedule A1 but none are relevant to this Order.
 
-[^key-ceaaae76c4eb0eab484637cc0cbae48a]: Commencement: Art. 22 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-ceaaae76c4eb0eab484637cc0cbae48a]: Commencement: Art. 22 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00029]: Footnote: Schedule B1 was inserted by [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455), and amended by [S.I. 2007/2974](https://www.legislation.gov.uk/uksi/2007/2974) and [2008/948](https://www.legislation.gov.uk/uksi/2008/948).
 
-[^key-ef6b108ce6eeecc2d6a957f8da28a3cb]: Commencement: Art. 23 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-ef6b108ce6eeecc2d6a957f8da28a3cb]: Commencement: Art. 23 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00030]: Footnote: Schedule 4 was amended by [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455). There are other amendments not relevant to this Order.
 
@@ -1094,25 +1094,25 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00034]: Footnote: OJ no L176, 27/6/2013, p.1. For corrigenda see OJ no L208, 2/8/2013 p.68 and OJ no L321, 30/11/2013 p. 6.
 
-[^key-fc42ec646fb01d0065cfef2a93afd99c]: Commencement: Art. 24 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-fc42ec646fb01d0065cfef2a93afd99c]: Commencement: Art. 24 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00035]: Footnote: S.R. (NI)[1995 No 225](https://www.legislation.gov.uk/nisr/1995/225).
 
 [^f00036]: Footnote: [S.R. (NI) 1995 No. 225](https://www.legislation.gov.uk/nisr/1995/225) as amended by [S.R. (NI) 2003 No. 550](https://www.legislation.gov.uk/nisr/2003/550), [S.R. (NI) 2006 No. 515](https://www.legislation.gov.uk/nisr/2006/515).
 
-[^key-ffcf87494a014eefffd39e02633a2929]: Commencement: Art. 25 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-ffcf87494a014eefffd39e02633a2929]: Commencement: Art. 25 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00037]: Footnote: Schedule 2 was substituted by [S.R. (NI) 2006 No. 515](https://www.legislation.gov.uk/nisr/2006/515).
 
-[^key-b107cb386626e430dbdffb5d72296a98]: Commencement: Art. 26 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-b107cb386626e430dbdffb5d72296a98]: Commencement: Art. 26 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00038]: Footnote: Amended by [S.R. 2003 No.144](https://www.legislation.gov.uk/nisr/2003/144).
 
-[^key-4686ccc5f61d88ce1a2205b794e22660]: Commencement: Art. 27 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-4686ccc5f61d88ce1a2205b794e22660]: Commencement: Art. 27 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00039]: Footnote: Amended by [S.R. 2006 No.515](https://www.legislation.gov.uk/nisr/2006/515).
 
-[^key-392b64cf2b3764926bf4fca1bb6cbf89]: Commencement: Art. 28 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-392b64cf2b3764926bf4fca1bb6cbf89]: Commencement: Art. 28 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00040]: Footnote: [1985 c.66](https://www.legislation.gov.uk/ukpga/1985/66).
 
@@ -1126,21 +1126,21 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00045]: Footnote: OJ no L176, 27/6/2013, p.1. For corrigenda see OJ no L208, 2/8/2013 p.68 and OJ no L321, 30/11/2013 p. 6.
 
-[^key-2c3d63b0178cffacc4fe348062909e92]: Commencement: Art. 29 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-2c3d63b0178cffacc4fe348062909e92]: Commencement: Art. 29 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00046]: Footnote: [1996 c.52](https://www.legislation.gov.uk/ukpga/1996/52). There are amendments to section 44 which are not relevant to this Order.
 
-[^key-d014a04044bac553b29e1fa91aee543c]: Commencement: Art. 30 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-d014a04044bac553b29e1fa91aee543c]: Commencement: Art. 30 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00047]: Footnote: [2008 c.17](https://www.legislation.gov.uk/ukpga/2008/17).
 
 [^f00048]: Footnote: There are amendments to section 275, but those amendments are not relevant to this Order.
 
-[^key-daffed644a919786c20a1779d1077e5f]: Commencement: Art. 31 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-daffed644a919786c20a1779d1077e5f]: Commencement: Art. 31 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00049]: Footnote: [2010 asp 17](https://www.legislation.gov.uk/asp/2010/17).
 
-[^key-e8ac61a41beec02c4b42fb1864fd7f21]: Commencement: Art. 32 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-e8ac61a41beec02c4b42fb1864fd7f21]: Commencement: Art. 32 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00050]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
 
@@ -1148,21 +1148,21 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00052]: Footnote: Paragraph 20 is inserted into Schedule 4 to the 1989 Order by article 23 of this Order.
 
-[^key-0076524d34cdc640c571fe568eb34e04]: Commencement: Art. 33 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-0076524d34cdc640c571fe568eb34e04]: Commencement: Art. 33 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00053]: Footnote: Section 176ZA was inserted by the Companies Act [2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), section 1282(1).
 
 [^f00054]: Footnote: Section 176A was inserted by the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), section 252.
 
-[^key-4e9efb88b34f119689374876e97768df]: Commencement: Art. 34 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-4e9efb88b34f119689374876e97768df]: Commencement: Art. 34 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00055]: Footnote: Article 150ZA was inserted by the Companies Act 2006, section 1282(2).
 
 [^f00056]: Footnote: Article 150A was inserted by [S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455).
 
-[^key-dac9657be2b7bee7a00c745798d41cc8]: Commencement: Art. 35 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-dac9657be2b7bee7a00c745798d41cc8]: Commencement: Art. 35 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
-[^key-fe7c3be563fcb19d847576eb46677d49]: Commencement: Art. 36 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
+[^c-fe7c3be563fcb19d847576eb46677d49]: Commencement: Art. 36 in force at 1.1.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2)
 
 [^f00057]: Footnote: Paragraph 15 is inserted by article 35(3) of this Order.
 

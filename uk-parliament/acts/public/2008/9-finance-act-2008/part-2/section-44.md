@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Friendly societies[^key-3bea53998647a2e15bcffcfca960ae3c]
+## 44. Friendly societies[^c-3bea53998647a2e15bcffcfca960ae3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bea53998647a2e15bcffcfca960ae3c]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/2008/9/section/44) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(f)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/f/i)
+[^c-3bea53998647a2e15bcffcfca960ae3c]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/2008/9/section/44) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 18 para. 23(f)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/18/paragraph/23/f/i)

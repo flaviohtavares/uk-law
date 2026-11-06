@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Procedure for making certain orders[^key-a17996064dc30b5e04a15f9b4a5405ef]
+## 45. Procedure for making certain orders[^c-a17996064dc30b5e04a15f9b4a5405ef]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ and must give them a reasonable opportunity of submitting evidence and represent
 
 ## Annotations
 
-[^key-a17996064dc30b5e04a15f9b4a5405ef]: Commencement: S. 45 in force at 20.12.2006 by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/c)
+[^c-a17996064dc30b5e04a15f9b4a5405ef]: Commencement: S. 45 in force at 20.12.2006 by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/c)

@@ -48,11 +48,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 101 and 316(1) of the Marine and Coastal Access Act 2009[^f00001] and sections 54 and 165(1) of the Marine (Scotland) Act 2010[^f00002] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-8bdfeedfa5023acca382f08e646bcf85]
+## 1. Citation and commencement[^c-8bdfeedfa5023acca382f08e646bcf85]
 
 These Regulations may be cited as the Marine Licensing (Register of Licensing Information) (Scotland) Regulations 2011 and come into force on 6th April 2011.
 
-## 2. Interpretation[^key-35d082dc6aeff878f589a630318de6f2]
+## 2. Interpretation[^c-35d082dc6aeff878f589a630318de6f2]
 
 (1) In these Regulations—
 
@@ -70,11 +70,11 @@ These Regulations may be cited as the Marine Licensing (Register of Licensing In
 - (a) a particular numbered item “of the 2009 Act” is a reference to that numbered item in section 66(1) of the 2009 Act; and
 - (b) a particular numbered item “of the 2010 Act” is a reference to that numbered item in section 21(1) of the 2010 Act.
 
-## 3. Single register to be kept[^key-5b8ff31875c9602df7a7217e7ad284a7]
+## 3. Single register to be kept[^c-5b8ff31875c9602df7a7217e7ad284a7]
 
 The registers required to be maintained by the Scottish Ministers under section 101(1) of the 2009 Act and section 54(1) of the 2010 Act are to be maintained as a single register.
 
-## 4. The register and prescribed particulars[^key-3af2d83fd950cd7939f56e7e7097389c]
+## 4. The register and prescribed particulars[^c-3af2d83fd950cd7939f56e7e7097389c]
 
 (1) The register may be kept in any form.
 
@@ -90,7 +90,7 @@ The registers required to be maintained by the Scottish Ministers under section 
 
 (7) The Scottish Ministers must include in the register the particulars prescribed by regulations 5 to 14 as soon as reasonably practicable after receiving or generating the information in question.
 
-## 5. Any application and licence[^key-f6e10d835cd517425aad0fba1e95828f]
+## 5. Any application and licence[^c-f6e10d835cd517425aad0fba1e95828f]
 
 The particulars relating to any application and any licence are—
 
@@ -105,9 +105,9 @@ The particulars relating to any application and any licence are—
 - (i) details of any studies of the potential environmental and human health effects of the activity to be licensed supplied with the application;
 - (j) details of any information supplied or articles produced, and the results of any investigation, examination or test carried out, under section 67(4) of the 2009 Act or under section 25(3) or (4) of the 2010 Act.
 
-## 6. Deposit of substances or objects[^key-b20a09fb89c4cf996153cfe747a6a8e3]
+## 6. Deposit of substances or objects[^c-b20a09fb89c4cf996153cfe747a6a8e3]
 
-(1) This regulation applies in relation to applications and licences to carry on a licensable marine activity which falls within item 1, 2 or 3 of the 2009 Act or item 1, 2 or 11[^key-d1c4eb6a766ea62d38479cb16db9dafd] of the 2010 Act.
+(1) This regulation applies in relation to applications and licences to carry on a licensable marine activity which falls within item 1, 2 or 3 of the 2009 Act or item 1, 2 or 11[^c-d1c4eb6a766ea62d38479cb16db9dafd] of the 2010 Act.
 
 (2) The additional particulars are—
 
@@ -117,9 +117,9 @@ The particulars relating to any application and any licence are—
 - (d) where the activity falls within item 3 of the 2009 Act or item 2 of the 2010 Act, the location at which the loading is to take place;
 - (e) in the case of a deposit for the purpose of disposal, details of any alternative methods of disposal considered by the applicant and the reason for seeking to deposit the substance or object in the sea.
 
-## 7. Scuttling[^key-7b9687542d0fd0ab92b647150b2ef43f]
+## 7. Scuttling[^c-7b9687542d0fd0ab92b647150b2ef43f]
 
-(1) This regulation applies in relation to applications and licences to carry on a licensable marine activity which falls within item 4, 5 or 6 of the 2009 Act or item 3, 4 or 12[^key-cb300e6e35cf3a24bf658b09be65652a] of the 2010 Act.
+(1) This regulation applies in relation to applications and licences to carry on a licensable marine activity which falls within item 4, 5 or 6 of the 2009 Act or item 3, 4 or 12[^c-cb300e6e35cf3a24bf658b09be65652a] of the 2010 Act.
 
 (2) The additional particulars are—
 
@@ -128,18 +128,18 @@ The particulars relating to any application and any licence are—
 - (c) the location at which the vessel or floating container is to be scuttled;
 - (d) a description of any cargo of the vessel or floating container by reference to its composition and quantity.
 
-## 8. Construction, alteration or improvement of works[^key-0b02da169be3e5107204a387d752c37b]
+## 8. Construction, alteration or improvement of works[^c-0b02da169be3e5107204a387d752c37b]
 
-(1) This regulation applies in relation to applications and licences to carry on a licensable marine activity which falls within item 7 of the 2009 Act or item 5 or 13[^key-f30574228485509751beba6ef92b6fe3] of the 2010 Act.
+(1) This regulation applies in relation to applications and licences to carry on a licensable marine activity which falls within item 7 of the 2009 Act or item 5 or 13[^c-f30574228485509751beba6ef92b6fe3] of the 2010 Act.
 
 (2) The additional particulars are—
 
 - (a) a description of the works to be carried out, including dates;
 - (b) the location at which the construction, alteration or improvement of works is to take place.
 
-## 9. Use of vehicle etc to remove substances or objects from sea bed[^key-d6246a27094a08c4d2c3d52d1ee3e686]
+## 9. Use of vehicle etc to remove substances or objects from sea bed[^c-d6246a27094a08c4d2c3d52d1ee3e686]
 
-(1) This regulation applies in relation to applications and licences to carry on a licensable marine activity which falls within item 8 of the 2009 Act or item 6 or 14[^key-687e619678fd716d954230759ce1e37d] of the 2010 Act.
+(1) This regulation applies in relation to applications and licences to carry on a licensable marine activity which falls within item 8 of the 2009 Act or item 6 or 14[^c-687e619678fd716d954230759ce1e37d] of the 2010 Act.
 
 (2) The additional particulars are—
 
@@ -148,9 +148,9 @@ The particulars relating to any application and any licence are—
 - (c) the location from which the object or substance is to be removed;
 - (d) details of any alternative methods of removal considered by the applicant and the reason for seeking to remove the substance or object from the sea bed.
 
-## 10. Dredging[^key-a8e5f8c8c92bf71965b38fe668ac822c]
+## 10. Dredging[^c-a8e5f8c8c92bf71965b38fe668ac822c]
 
-(1) This regulation applies in relation to applications and licences to carry on a licensable marine activity which falls within item 9 of the 2009 Act or item 7 or 15[^key-2f1a80f175f77ae006199ffc7dc64172] of the 2010 Act.
+(1) This regulation applies in relation to applications and licences to carry on a licensable marine activity which falls within item 9 of the 2009 Act or item 7 or 15[^c-2f1a80f175f77ae006199ffc7dc64172] of the 2010 Act.
 
 (2) The additional particulars are—
 
@@ -158,9 +158,9 @@ The particulars relating to any application and any licence are—
 - (b) the location at which the dredging is to be carried out;
 - (c) any information held by the Scottish Ministers as to the contamination of the material to be dredged.
 
-## 11. Deposit or use of explosives[^key-7bee8118e87248c01186f87725c6eebd]
+## 11. Deposit or use of explosives[^c-7bee8118e87248c01186f87725c6eebd]
 
-(1) This regulation applies in relation to applications and licences to carry on a licensable marine activity which falls within item 10 of the 2009 Act or item 8 or 16[^key-6ad0cb961e3f9d16b43a010cfbfa4141] of the 2010 Act.
+(1) This regulation applies in relation to applications and licences to carry on a licensable marine activity which falls within item 10 of the 2009 Act or item 8 or 16[^c-6ad0cb961e3f9d16b43a010cfbfa4141] of the 2010 Act.
 
 (2) The additional particulars are—
 
@@ -168,9 +168,9 @@ The particulars relating to any application and any licence are—
 - (b) a description, including its quantity, of that explosive substance or article;
 - (c) details of the purpose of the deposit or use of that explosive substance or article.
 
-## 12. Incineration or loading vehicle etc. for incineration[^key-c6acd66c2c6a3cdec47cfe2b07843aef]
+## 12. Incineration or loading vehicle etc. for incineration[^c-c6acd66c2c6a3cdec47cfe2b07843aef]
 
-(1) This regulation applies in relation to applications and licences to carry on a licensable marine activity which falls within item 11, 12 or 13 of the 2009 Act or item 9, 10 or 17[^key-3ffddf200ed9b53c4307b2fb1ed3640e] of the 2010 Act.
+(1) This regulation applies in relation to applications and licences to carry on a licensable marine activity which falls within item 11, 12 or 13 of the 2009 Act or item 9, 10 or 17[^c-3ffddf200ed9b53c4307b2fb1ed3640e] of the 2010 Act.
 
 (2) The additional particulars are—
 
@@ -180,7 +180,7 @@ The particulars relating to any application and any licence are—
 - (d) where the activity falls within item 13 of the 2009 Act or item 10 of the 2010 Act, the location at which the loading is to take place;
 - (e) details of any alternatives to incineration considered by the applicant and the reason for seeking to incinerate the substance or object.
 
-## 13. Variation, revocation or suspension of licences[^key-2602574cd211f729f729407f348cf867]
+## 13. Variation, revocation or suspension of licences[^c-2602574cd211f729f729407f348cf867]
 
 The particulars in relation to any variation, revocation or suspension of a licence are—
 
@@ -189,7 +189,7 @@ The particulars in relation to any variation, revocation or suspension of a lice
 - (c) the reason for the variation, revocation or suspension;
 - (d) in the case of a variation, details of the variation.
 
-## 14. Transfer of licences[^key-8a9d403079c85219dd223765134481c6]
+## 14. Transfer of licences[^c-8a9d403079c85219dd223765134481c6]
 
 The particulars in relation to any transfer of a licence are—
 
@@ -197,7 +197,7 @@ The particulars in relation to any transfer of a licence are—
 - (b) the name and address of the person to whom the licence has been transferred;
 - (c) the date of the transfer.
 
-## 15. Convictions[^key-b46ce14471613fa82d17d148d7db2004]
+## 15. Convictions[^c-b46ce14471613fa82d17d148d7db2004]
 
 (1) The particulars in relation to any conviction for any offence under Part 4 of the 2009 Act or Part 4 of the 2010 Act are—
 
@@ -211,7 +211,7 @@ The particulars in relation to any transfer of a licence are—
 
 (2) In paragraph (1), “conviction” does not include a conviction that has been overturned on appeal.
 
-## 16. Other enforcement action[^key-0e0d98922f1644b6ac97ddccf53ffbcc]
+## 16. Other enforcement action[^c-0e0d98922f1644b6ac97ddccf53ffbcc]
 
 (1) The particulars in relation to any enforcement action taken in relation to Part 4 of the 2009 Act or Part 4 of the 2010 Act are—
 
@@ -223,7 +223,7 @@ The particulars in relation to any transfer of a licence are—
 
 (2) In paragraph (1), “enforcement action” means the issue of a compliance notice, remediation notice, stop notice, or emergency safety notice[^f00003], but does not include any such notice which has been overturned on appeal.
 
-## 17. Remedial action[^key-450ed3ffdd899825361859e3d1b2d420]
+## 17. Remedial action[^c-450ed3ffdd899825361859e3d1b2d420]
 
 The particulars relating to any works carried out by the Scottish Ministers under section 106 of the 2009 Act or section 59 of the 2010 Act are—
 
@@ -257,52 +257,52 @@ Regulation 5 prescribes the particulars that must be included in the register re
 
 [^f00002]: Footnote: [2010 asp 5](https://www.legislation.gov.uk/asp/2010/5).
 
-[^key-8bdfeedfa5023acca382f08e646bcf85]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-8bdfeedfa5023acca382f08e646bcf85]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
-[^key-35d082dc6aeff878f589a630318de6f2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/80/regulation/2) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-35d082dc6aeff878f589a630318de6f2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/80/regulation/2) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
-[^key-5b8ff31875c9602df7a7217e7ad284a7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/80/regulation/3) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-5b8ff31875c9602df7a7217e7ad284a7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/80/regulation/3) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
-[^key-3af2d83fd950cd7939f56e7e7097389c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/80/regulation/4) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-3af2d83fd950cd7939f56e7e7097389c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/80/regulation/4) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
-[^key-f6e10d835cd517425aad0fba1e95828f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/80/regulation/5) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-f6e10d835cd517425aad0fba1e95828f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/80/regulation/5) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
-[^key-b20a09fb89c4cf996153cfe747a6a8e3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/80/regulation/6) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-b20a09fb89c4cf996153cfe747a6a8e3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/80/regulation/6) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
-[^key-d1c4eb6a766ea62d38479cb16db9dafd]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2011/80/regulation/6/1) substituted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/172/article/3/2)
+[^c-d1c4eb6a766ea62d38479cb16db9dafd]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2011/80/regulation/6/1) substituted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/172/article/3/2)
 
-[^key-7b9687542d0fd0ab92b647150b2ef43f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/80/regulation/7) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-7b9687542d0fd0ab92b647150b2ef43f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/80/regulation/7) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
-[^key-cb300e6e35cf3a24bf658b09be65652a]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2011/80/regulation/7/1) substituted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [3(3)](https://www.legislation.gov.uk/ssi/2026/172/article/3/3)
+[^c-cb300e6e35cf3a24bf658b09be65652a]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2011/80/regulation/7/1) substituted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [3(3)](https://www.legislation.gov.uk/ssi/2026/172/article/3/3)
 
-[^key-0b02da169be3e5107204a387d752c37b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/80/regulation/8) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-0b02da169be3e5107204a387d752c37b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/80/regulation/8) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
-[^key-f30574228485509751beba6ef92b6fe3]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2011/80/regulation/8/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [3(4)](https://www.legislation.gov.uk/ssi/2026/172/article/3/4)
+[^c-f30574228485509751beba6ef92b6fe3]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2011/80/regulation/8/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [3(4)](https://www.legislation.gov.uk/ssi/2026/172/article/3/4)
 
-[^key-d6246a27094a08c4d2c3d52d1ee3e686]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/80/regulation/9) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-d6246a27094a08c4d2c3d52d1ee3e686]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/80/regulation/9) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
-[^key-687e619678fd716d954230759ce1e37d]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2011/80/regulation/9/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [3(5)](https://www.legislation.gov.uk/ssi/2026/172/article/3/5)
+[^c-687e619678fd716d954230759ce1e37d]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2011/80/regulation/9/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [3(5)](https://www.legislation.gov.uk/ssi/2026/172/article/3/5)
 
-[^key-a8e5f8c8c92bf71965b38fe668ac822c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/80/regulation/10) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-a8e5f8c8c92bf71965b38fe668ac822c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/80/regulation/10) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
-[^key-2f1a80f175f77ae006199ffc7dc64172]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/ssi/2011/80/regulation/10/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [3(6)](https://www.legislation.gov.uk/ssi/2026/172/article/3/6)
+[^c-2f1a80f175f77ae006199ffc7dc64172]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/ssi/2011/80/regulation/10/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [3(6)](https://www.legislation.gov.uk/ssi/2026/172/article/3/6)
 
-[^key-7bee8118e87248c01186f87725c6eebd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2011/80/regulation/11) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-7bee8118e87248c01186f87725c6eebd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2011/80/regulation/11) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
-[^key-6ad0cb961e3f9d16b43a010cfbfa4141]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2011/80/regulation/11/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [3(7)](https://www.legislation.gov.uk/ssi/2026/172/article/3/7)
+[^c-6ad0cb961e3f9d16b43a010cfbfa4141]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/ssi/2011/80/regulation/11/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [3(7)](https://www.legislation.gov.uk/ssi/2026/172/article/3/7)
 
-[^key-c6acd66c2c6a3cdec47cfe2b07843aef]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2011/80/regulation/12) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-c6acd66c2c6a3cdec47cfe2b07843aef]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2011/80/regulation/12) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
-[^key-3ffddf200ed9b53c4307b2fb1ed3640e]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/ssi/2011/80/regulation/12/1) substituted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [3(8)](https://www.legislation.gov.uk/ssi/2026/172/article/3/8)
+[^c-3ffddf200ed9b53c4307b2fb1ed3640e]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/ssi/2011/80/regulation/12/1) substituted (9.8.2026) by [The Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 (S.S.I. 2026/172)](https://www.legislation.gov.uk/ssi/2026/172), [arts. 1](https://www.legislation.gov.uk/ssi/2026/172/article/1), [3(8)](https://www.legislation.gov.uk/ssi/2026/172/article/3/8)
 
-[^key-2602574cd211f729f729407f348cf867]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2011/80/regulation/13) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-2602574cd211f729f729407f348cf867]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2011/80/regulation/13) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
-[^key-8a9d403079c85219dd223765134481c6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2011/80/regulation/14) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-8a9d403079c85219dd223765134481c6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2011/80/regulation/14) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
-[^key-b46ce14471613fa82d17d148d7db2004]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2011/80/regulation/15) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-b46ce14471613fa82d17d148d7db2004]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2011/80/regulation/15) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
-[^key-0e0d98922f1644b6ac97ddccf53ffbcc]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2011/80/regulation/16) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-0e0d98922f1644b6ac97ddccf53ffbcc]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2011/80/regulation/16) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
 
 [^f00003]: Footnote: See section 115(1) of the 2009 Act and sections 43, 44, 55 and 57 of the 2010 Act as to the meaning of these terms.
 
-[^key-450ed3ffdd899825361859e3d1b2d420]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2011/80/regulation/17) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)
+[^c-450ed3ffdd899825361859e3d1b2d420]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2011/80/regulation/17) in force at 6.4.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/80/regulation/1)

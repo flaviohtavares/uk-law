@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Transfer of Functions of the Council to the National Assembly[^key-224ca8da88af4fce37f60c508abbb59a]
+## 2. Transfer of Functions of the Council to the National Assembly[^c-224ca8da88af4fce37f60c508abbb59a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to article 9, on the transfer date all the functions of the Council are 
 
 ## Annotations
 
-[^key-224ca8da88af4fce37f60c508abbb59a]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2005/3238/article/2) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)
+[^c-224ca8da88af4fce37f60c508abbb59a]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2005/3238/article/2) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)

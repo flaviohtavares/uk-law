@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 261A. Help with communication at medical examination etc.[^key-f69959a69cadf6b73616cfd662eacf42]
+## 261A. Help with communication at medical examination etc.[^c-f69959a69cadf6b73616cfd662eacf42]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f69959a69cadf6b73616cfd662eacf42]: Textual amendment: [S. 261A](https://www.legislation.gov.uk/asp/2003/13/section/261A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 28(2)](https://www.legislation.gov.uk/asp/2015/9/section/28/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-f69959a69cadf6b73616cfd662eacf42]: Textual amendment: [S. 261A](https://www.legislation.gov.uk/asp/2003/13/section/261A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 28(2)](https://www.legislation.gov.uk/asp/2015/9/section/28/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

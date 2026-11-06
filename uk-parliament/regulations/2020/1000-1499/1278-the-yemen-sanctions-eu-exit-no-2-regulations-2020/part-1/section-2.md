@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-770a4b7520d99f59cac2231b9b9545ab][^key-36220eae063b28584ddf12107a13b1ff]
+## 2. Interpretation[^c-770a4b7520d99f59cac2231b9b9545ab][^c-36220eae063b28584ddf12107a13b1ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ In these Regulations—
 - “**the Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs;
 - “**the Committee**” means the Committee of the Security Council established in accordance with paragraph 19 of resolution 2140;
 - “**conduct**” includes acts and omissions;
-- “[^key-8e0858dcfa1d19c4c364470da6cd75c4]**director disqualification licence**” means a licence under regulation 33A;
+- “[^c-8e0858dcfa1d19c4c364470da6cd75c4]**director disqualification licence**” means a licence under regulation 33A;
 - “**document**” includes information recorded in any form and, in relation to information recorded otherwise than in legible form, references to its production include producing a copy of the information in legible form;
 - “**the EU Yemen Regulation**” means Council Regulation (EU) No 1352/2014 of 18 December 2014, concerning restrictive measures in view of the situation in Yemen [^c24334531], as it has effect in EU law;
 - “**final report of the comprehensive National Dialogue Conference**” means the final Outcomes Document of the comprehensive National Dialogue Conference held between 18 March 2013 and 25 January 2014 [^c24334541];
@@ -44,13 +44,13 @@ In these Regulations—
 
 ## Annotations
 
-[^key-770a4b7520d99f59cac2231b9b9545ab]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-770a4b7520d99f59cac2231b9b9545ab]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-36220eae063b28584ddf12107a13b1ff]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1278/regulation/2) in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/1)
+[^c-36220eae063b28584ddf12107a13b1ff]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1278/regulation/2) in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/1)
 
 [^c24334521]: Marginal citation: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2). Amendments have been made to this Act and are cited, where relevant, in respect of the applicable regulations.
 
-[^key-8e0858dcfa1d19c4c364470da6cd75c4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/1278/regulation/2) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/16/2)
+[^c-8e0858dcfa1d19c4c364470da6cd75c4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2020/1278/regulation/2) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/16/2)
 
 [^c24334531]: Marginal citation: OJ No. L 365, 19.12.2014, p.60.
 

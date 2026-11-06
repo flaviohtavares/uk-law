@@ -42,7 +42,7 @@ Coming into force in accordance with regulation 1
 
 [^c23524451]The Treasury make these Regulations in exercise of the powers conferred by section 8(1) of the European Union (Withdrawal) Act 2018 .
 
-In accordance with paragraph 1(1) of Schedule 7 to that Act a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^key-277722daeb7631b2425c19dddc9fe300][^key-36a783bf43f20d1ff8bff5a1181d0f60]
+In accordance with paragraph 1(1) of Schedule 7 to that Act a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^c-277722daeb7631b2425c19dddc9fe300][^c-36a783bf43f20d1ff8bff5a1181d0f60]
 
 ## PART 1 — Introduction
 
@@ -64,18 +64,18 @@ In these Regulations “**the SEPA Regulation**” means Regulation (EU) No 260/
 
 (2) In regulation 2 (interpretation), in paragraph (1)—
 
-- (a)[^key-130e2048d1305eb133628d74e0c2e6ef] in the definition of “the 2009 European Regulation”, for “2009 European” substitute “2009”;
+- (a)[^c-130e2048d1305eb133628d74e0c2e6ef] in the definition of “the 2009 European Regulation”, for “2009 European” substitute “2009”;
 - (b) in the definition of “the 2012 European Regulation”, for “2012 European” substitute “ 2012 ”;
-- (c)[^key-180a52a1766a04b7babf7c0faf0f8ef0] for the definition of “the European Regulations” substitute—
+- (c)[^c-180a52a1766a04b7babf7c0faf0f8ef0] for the definition of “the European Regulations” substitute—
 
   > - “the Regulations” means the 2009 Regulation or the 2012 Regulation;
 
-(3)[^key-8577ed7a40e215c8d2a993460ca7d2e9] In regulations 4 to 18—
+(3)[^c-8577ed7a40e215c8d2a993460ca7d2e9] In regulations 4 to 18—
 
 - (a) for “European Regulations” each time it appears, substitute “Regulations”;
 - (b) for “2012 European Regulation” each time it appears, substitute “2012 Regulation”.
 
-(4)[^key-6c36ff640fbddece0ad189ebd60772e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6c36ff640fbddece0ad189ebd60772e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Omit the following provisions—
 
@@ -110,8 +110,8 @@ In Article 1 (subject matter and scope), in paragraph 1, for the words from “w
 >
 > (A2) “**qualifying State**” means each of the following—
 >
-> - (a) the EEA states, [^key-569d806bb6f837078e423009b7dd84da]...
-> - (b) the United Kingdom; and[^key-bf6f31a4cd0363efc2715218e1d89e8c]
+> - (a) the EEA states, [^c-569d806bb6f837078e423009b7dd84da]...
+> - (b) the United Kingdom; and[^c-bf6f31a4cd0363efc2715218e1d89e8c]
 > - (c) Gibraltar;
 
 .
@@ -127,7 +127,7 @@ In Article 1 (subject matter and scope), in paragraph 1, for the words from “w
 > (8B) “**PSP**” means—
 >
 > - (a) a UK-regulated PSP, or
-> - (b) a PSP as defined by point (8), as it had effect immediately before IP completion day[^key-f9a330f3fc77b4325c2dd8709a902b9a];
+> - (b) a PSP as defined by point (8), as it had effect immediately before IP completion day[^c-f9a330f3fc77b4325c2dd8709a902b9a];
 
 .
 
@@ -309,7 +309,7 @@ Omit the following provisions—
   - (i) the SEPA Regulation,
   - (ii) the Payments in Euro (Credit Transfers and Direct Debits) Regulations 2012, and
   - (iii) these Regulations,
-- (b) “**PSP**” has the meaning given by Article 2(8) of the SEPA Regulation, as it had effect immediately before IP completion day[^key-abd74cbc5fc7f39391690988e5bc3f24], and
+- (b) “**PSP**” has the meaning given by Article 2(8) of the SEPA Regulation, as it had effect immediately before IP completion day[^c-abd74cbc5fc7f39391690988e5bc3f24], and
 - (c) “**UK-regulated PSP**” has the meaning given by Article 2(8A) of the SEPA Regulation.
 
 (3) Regulations under paragraph (1) may contain transitional provisions and savings.
@@ -334,9 +334,9 @@ An impact assessment of the effect that this instrument, and certain other instr
 
 [^c23524451]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-277722daeb7631b2425c19dddc9fe300]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1199) modified in part (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by S.I. 2020/1301, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-277722daeb7631b2425c19dddc9fe300]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1199) modified in part (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1)[(4)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/4)[(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by S.I. 2020/1301, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-36a783bf43f20d1ff8bff5a1181d0f60]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1199): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-36a783bf43f20d1ff8bff5a1181d0f60]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1199): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^c23537471]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -346,13 +346,13 @@ An impact assessment of the effect that this instrument, and certain other instr
 
 [^c23524461]: Marginal citation: [S.I. 2012/3122](https://www.legislation.gov.uk/uksi/2012/3122).
 
-[^key-130e2048d1305eb133628d74e0c2e6ef]: Textual amendment: Reg. 3(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(2)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/2/a)
+[^c-130e2048d1305eb133628d74e0c2e6ef]: Textual amendment: Reg. 3(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(2)(a)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/2/a)
 
-[^key-180a52a1766a04b7babf7c0faf0f8ef0]: Textual amendment: Reg. 3(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(2)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/2/b)
+[^c-180a52a1766a04b7babf7c0faf0f8ef0]: Textual amendment: Reg. 3(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(2)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/2/b)
 
-[^key-8577ed7a40e215c8d2a993460ca7d2e9]: Textual amendment: Reg. 3(3) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/3)
+[^c-8577ed7a40e215c8d2a993460ca7d2e9]: Textual amendment: Reg. 3(3) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/3)
 
-[^key-6c36ff640fbddece0ad189ebd60772e8]: Textual amendment: Reg. 3(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/4)
+[^c-6c36ff640fbddece0ad189ebd60772e8]: Textual amendment: Reg. 3(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [45(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/45/4)
 
 [^c23537501]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -360,13 +360,13 @@ An impact assessment of the effect that this instrument, and certain other instr
 
 [^c23537521]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-569d806bb6f837078e423009b7dd84da]: Textual amendment: Word in reg. 6(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2019/680/regulation/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-569d806bb6f837078e423009b7dd84da]: Textual amendment: Word in reg. 6(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2019/680/regulation/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bf6f31a4cd0363efc2715218e1d89e8c]: Textual amendment: Words in reg. 6(2) inserted (31.12.2020 immediately before IP completion day) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2019/680/regulation/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf6f31a4cd0363efc2715218e1d89e8c]: Textual amendment: Words in reg. 6(2) inserted (31.12.2020 immediately before IP completion day) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2019/680/regulation/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23524471]: Marginal citation: [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752).
 
-[^key-f9a330f3fc77b4325c2dd8709a902b9a]: Textual amendment: Words in reg. 6(5) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/5/a)
+[^c-f9a330f3fc77b4325c2dd8709a902b9a]: Textual amendment: Words in reg. 6(5) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/5/a)
 
 [^c23537531]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -390,4 +390,4 @@ An impact assessment of the effect that this instrument, and certain other instr
 
 [^c23537611]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-abd74cbc5fc7f39391690988e5bc3f24]: Textual amendment: Words substituted in reg. 15(2)(b) (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/5/b)
+[^c-abd74cbc5fc7f39391690988e5bc3f24]: Textual amendment: Words substituted in reg. 15(2)(b) (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/5/b)

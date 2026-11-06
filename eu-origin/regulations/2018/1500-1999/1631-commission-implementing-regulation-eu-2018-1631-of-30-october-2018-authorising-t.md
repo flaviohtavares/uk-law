@@ -35,22 +35,22 @@ authorising the placing on the market of cranberry extract powder as a novel foo
 
 (Text with EEA relevance) (revoked)
 
-[^key-1420c477239515663cf98054c9bbcd4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1420c477239515663cf98054c9bbcd4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-1420c477239515663cf98054c9bbcd4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1420c477239515663cf98054c9bbcd4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1420c477239515663cf98054c9bbcd4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1420c477239515663cf98054c9bbcd4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-1420c477239515663cf98054c9bbcd4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-1420c477239515663cf98054c9bbcd4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-1420c477239515663cf98054c9bbcd4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-1420c477239515663cf98054c9bbcd4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1420c477239515663cf98054c9bbcd4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1420c477239515663cf98054c9bbcd4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-1420c477239515663cf98054c9bbcd4c]
+## ANNEX[^c-1420c477239515663cf98054c9bbcd4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1420c477239515663cf98054c9bbcd4c]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 16](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/16) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-1420c477239515663cf98054c9bbcd4c]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 16](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/16) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

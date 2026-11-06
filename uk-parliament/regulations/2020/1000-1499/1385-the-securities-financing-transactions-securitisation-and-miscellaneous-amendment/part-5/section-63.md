@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. The Official Listing of Securities, Prospectus and Transparency (Amendment etc.) (EU Exit) Regulations 2019[^key-e696e84d7ae531ad1932ec4824a814d3]
+## 63. The Official Listing of Securities, Prospectus and Transparency (Amendment etc.) (EU Exit) Regulations 2019[^c-e696e84d7ae531ad1932ec4824a814d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Omit regulation 73 (prospectus approved before 21st July 2019 by competent autho
 
 ## Annotations
 
-[^key-e696e84d7ae531ad1932ec4824a814d3]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2020/1385/regulation/63) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-e696e84d7ae531ad1932ec4824a814d3]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2020/1385/regulation/63) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00055]: Footnote: [S.I. 2019/707](https://www.legislation.gov.uk/uksi/2019/707), as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234).

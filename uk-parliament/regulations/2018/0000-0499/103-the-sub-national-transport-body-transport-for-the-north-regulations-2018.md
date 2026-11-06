@@ -67,32 +67,32 @@ Accordingly, the Secretary of State makes the following Regulations:
 (1) In these Regulations—
 
 - “**constituent authorities**” means the following authorities—
-  - [^key-66230a2beebbec2139e170526d80f506]...
-  - [^key-66230a2beebbec2139e170526d80f506]...
-  - The Cheshire and Warrington Combined Authority[^key-48f5592daf4afc58e9ca124678195f25];
-  - [^key-65ad74b94f93174ebaa47901db45669a]...
-  - [^key-9f10918fd08ed5fc8d5eea3e877de857]...
-  - [^key-0491c52d24583dedf40ed0d5f90d40b5]...
-  - [^key-7d147416b6a845b067bf801026a28966]...
-  - [^key-89e0df079407c78fb25c619081220342]...
-  - Cumbria Combined Authority[^key-929afff63dbd2d71e62c548c7bc3969b]
+  - [^c-66230a2beebbec2139e170526d80f506]...
+  - [^c-66230a2beebbec2139e170526d80f506]...
+  - The Cheshire and Warrington Combined Authority[^c-48f5592daf4afc58e9ca124678195f25];
+  - [^c-65ad74b94f93174ebaa47901db45669a]...
+  - [^c-9f10918fd08ed5fc8d5eea3e877de857]...
+  - [^c-0491c52d24583dedf40ed0d5f90d40b5]...
+  - [^c-7d147416b6a845b067bf801026a28966]...
+  - [^c-89e0df079407c78fb25c619081220342]...
+  - Cumbria Combined Authority[^c-929afff63dbd2d71e62c548c7bc3969b]
   - Greater Manchester Combined Authority;
-  - The Hull and East Yorkshire Combined Authority[^key-068e517641aa3e26b8f3e075fcffc102];
-  - [^key-89e0df079407c78fb25c619081220342]...
-  - Lancashire Combined County Authority[^key-f044ebcfd1f652d5d8609b6b08b5c6fe];
-  - [^key-66230a2beebbec2139e170526d80f506]...
+  - The Hull and East Yorkshire Combined Authority[^c-068e517641aa3e26b8f3e075fcffc102];
+  - [^c-89e0df079407c78fb25c619081220342]...
+  - Lancashire Combined County Authority[^c-f044ebcfd1f652d5d8609b6b08b5c6fe];
+  - [^c-66230a2beebbec2139e170526d80f506]...
   - Liverpool City Region Combined Authority;
-  - [^key-ed703bcddba19d8dd5c56939bbe3a331]...
-  - North East Mayoral Combined Authority[^key-99bd611148f548122a79782dac9fcc3f]
-  - [^key-8e8e8bd0d9736782161c44e860691ade]...
-  - [^key-b9c1838e288ff2c6c390cb6b8d7366df]...
-  - [^key-9f10918fd08ed5fc8d5eea3e877de857]...
+  - [^c-ed703bcddba19d8dd5c56939bbe3a331]...
+  - North East Mayoral Combined Authority[^c-99bd611148f548122a79782dac9fcc3f]
+  - [^c-8e8e8bd0d9736782161c44e860691ade]...
+  - [^c-b9c1838e288ff2c6c390cb6b8d7366df]...
+  - [^c-9f10918fd08ed5fc8d5eea3e877de857]...
   - Sheffield City Region Combined Authority;
   - Tees Valley Combined Authority;
-  - [^key-65ad74b94f93174ebaa47901db45669a]...
+  - [^c-65ad74b94f93174ebaa47901db45669a]...
   - West Yorkshire Combined Authority;
-  - [^key-0491c52d24583dedf40ed0d5f90d40b5]...
-  - The York and North Yorkshire Combined Authority[^key-448b49de0b80ac1a00e2964abff85b0a]
+  - [^c-0491c52d24583dedf40ed0d5f90d40b5]...
+  - The York and North Yorkshire Combined Authority[^c-448b49de0b80ac1a00e2964abff85b0a]
 - “**TfN**” has the meaning given by regulation 3.
 
 (2) References in these Regulations to the area of TfN are to the area for which TfN is established (see regulation 3(1)).
@@ -470,35 +470,35 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c22917741]: Marginal citation: [2008 c. 26](https://www.legislation.gov.uk/ukpga/2008/26); these sections were inserted by the [Cities and Local Government Devolution Act 2016 (c.1)](https://www.legislation.gov.uk/ukpga/2016/1), [section 21](https://www.legislation.gov.uk/ukpga/2016/1/section/21).
 
-[^key-66230a2beebbec2139e170526d80f506]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) omitted (5.2.2025) by virtue of [The Lancashire Combined County Authority Regulations 2025 (S.I. 2025/118)](https://www.legislation.gov.uk/uksi/2025/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2), [16(2)(a)](https://www.legislation.gov.uk/uksi/2025/118/regulation/16/2/a)
+[^c-66230a2beebbec2139e170526d80f506]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) omitted (5.2.2025) by virtue of [The Lancashire Combined County Authority Regulations 2025 (S.I. 2025/118)](https://www.legislation.gov.uk/uksi/2025/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2), [16(2)(a)](https://www.legislation.gov.uk/uksi/2025/118/regulation/16/2/a)
 
-[^key-48f5592daf4afc58e9ca124678195f25]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) substituted (24.2.2026) by [The Cheshire and Warrington Combined Authority Order 2026 (S.I. 2026/159)](https://www.legislation.gov.uk/uksi/2026/159), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/159/article/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2026/159/article/11/2/a)
+[^c-48f5592daf4afc58e9ca124678195f25]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) substituted (24.2.2026) by [The Cheshire and Warrington Combined Authority Order 2026 (S.I. 2026/159)](https://www.legislation.gov.uk/uksi/2026/159), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/159/article/1/2), [11(2)(a)](https://www.legislation.gov.uk/uksi/2026/159/article/11/2/a)
 
-[^key-65ad74b94f93174ebaa47901db45669a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) omitted (24.2.2026) by virtue of [The Cheshire and Warrington Combined Authority Order 2026 (S.I. 2026/159)](https://www.legislation.gov.uk/uksi/2026/159), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/159/article/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2026/159/article/11/2/b)
+[^c-65ad74b94f93174ebaa47901db45669a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) omitted (24.2.2026) by virtue of [The Cheshire and Warrington Combined Authority Order 2026 (S.I. 2026/159)](https://www.legislation.gov.uk/uksi/2026/159), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/159/article/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2026/159/article/11/2/b)
 
-[^key-9f10918fd08ed5fc8d5eea3e877de857]: Textual amendment: Words in reg. 2(1) omitted (20.12.2023) by virtue of [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [23(2)(a)](https://www.legislation.gov.uk/uksi/2023/1432/article/23/2/a)
+[^c-9f10918fd08ed5fc8d5eea3e877de857]: Textual amendment: Words in reg. 2(1) omitted (20.12.2023) by virtue of [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [23(2)(a)](https://www.legislation.gov.uk/uksi/2023/1432/article/23/2/a)
 
-[^key-0491c52d24583dedf40ed0d5f90d40b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) omitted (24.2.2026) by virtue of [The Cumbria Combined Authority Order 2026 (S.I. 2026/158)](https://www.legislation.gov.uk/uksi/2026/158), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2), [10(2)(a)](https://www.legislation.gov.uk/uksi/2026/158/article/10/2/a)
+[^c-0491c52d24583dedf40ed0d5f90d40b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) omitted (24.2.2026) by virtue of [The Cumbria Combined Authority Order 2026 (S.I. 2026/158)](https://www.legislation.gov.uk/uksi/2026/158), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2), [10(2)(a)](https://www.legislation.gov.uk/uksi/2026/158/article/10/2/a)
 
-[^key-7d147416b6a845b067bf801026a28966]: Textual amendment: Words in reg. 2 omitted (7.5.2024) by virtue of [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2024/402/schedule/2/paragraph/3/a) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-7d147416b6a845b067bf801026a28966]: Textual amendment: Words in reg. 2 omitted (7.5.2024) by virtue of [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/2024/402/schedule/2/paragraph/3/a) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
 
-[^key-89e0df079407c78fb25c619081220342]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) omitted (5.2.2025) by virtue of [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [14(2)(a)](https://www.legislation.gov.uk/uksi/2025/113/article/14/2/a)
+[^c-89e0df079407c78fb25c619081220342]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) omitted (5.2.2025) by virtue of [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [14(2)(a)](https://www.legislation.gov.uk/uksi/2025/113/article/14/2/a)
 
-[^key-929afff63dbd2d71e62c548c7bc3969b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) inserted (24.2.2026) by [The Cumbria Combined Authority Order 2026 (S.I. 2026/158)](https://www.legislation.gov.uk/uksi/2026/158), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2), [10(2)(b)](https://www.legislation.gov.uk/uksi/2026/158/article/10/2/b)
+[^c-929afff63dbd2d71e62c548c7bc3969b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) inserted (24.2.2026) by [The Cumbria Combined Authority Order 2026 (S.I. 2026/158)](https://www.legislation.gov.uk/uksi/2026/158), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/158/article/1/2), [10(2)(b)](https://www.legislation.gov.uk/uksi/2026/158/article/10/2/b)
 
-[^key-068e517641aa3e26b8f3e075fcffc102]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) inserted (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2025/113/article/14/2/b)
+[^c-068e517641aa3e26b8f3e075fcffc102]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) inserted (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2025/113/article/14/2/b)
 
-[^key-f044ebcfd1f652d5d8609b6b08b5c6fe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) inserted (5.2.2025) by [The Lancashire Combined County Authority Regulations 2025 (S.I. 2025/118)](https://www.legislation.gov.uk/uksi/2025/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2025/118/regulation/16/2/b)
+[^c-f044ebcfd1f652d5d8609b6b08b5c6fe]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) inserted (5.2.2025) by [The Lancashire Combined County Authority Regulations 2025 (S.I. 2025/118)](https://www.legislation.gov.uk/uksi/2025/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2025/118/regulation/16/2/b)
 
-[^key-ed703bcddba19d8dd5c56939bbe3a331]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) omitted (5.2.2025) by virtue of [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2025/117/regulation/21/2/a)
+[^c-ed703bcddba19d8dd5c56939bbe3a331]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) omitted (5.2.2025) by virtue of [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2025/117/regulation/21/2/a)
 
-[^key-99bd611148f548122a79782dac9fcc3f]: Textual amendment: Words in reg. 2 inserted (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/uksi/2024/402/schedule/2/paragraph/3/c) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-99bd611148f548122a79782dac9fcc3f]: Textual amendment: Words in reg. 2 inserted (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/uksi/2024/402/schedule/2/paragraph/3/c) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
 
-[^key-8e8e8bd0d9736782161c44e860691ade]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) omitted (5.2.2025) by virtue of [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2025/117/regulation/21/2/b)
+[^c-8e8e8bd0d9736782161c44e860691ade]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/103/regulation/2/1) omitted (5.2.2025) by virtue of [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2025/117/regulation/21/2/b)
 
-[^key-b9c1838e288ff2c6c390cb6b8d7366df]: Textual amendment: Words in reg. 2 omitted (7.5.2024) by virtue of [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2024/402/schedule/2/paragraph/3/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-b9c1838e288ff2c6c390cb6b8d7366df]: Textual amendment: Words in reg. 2 omitted (7.5.2024) by virtue of [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2024/402/schedule/2/paragraph/3/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
 
-[^key-448b49de0b80ac1a00e2964abff85b0a]: Textual amendment: Words in reg. 2(1) inserted (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [23(2)(b)](https://www.legislation.gov.uk/uksi/2023/1432/article/23/2/b)
+[^c-448b49de0b80ac1a00e2964abff85b0a]: Textual amendment: Words in reg. 2(1) inserted (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [23(2)(b)](https://www.legislation.gov.uk/uksi/2023/1432/article/23/2/b)
 
 [^c22917751]: Marginal citation: [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73); [section 56](https://www.legislation.gov.uk/uksi/2018/103/section/56) was amended by the [Local Transport Act 2008 (c.26)](https://www.legislation.gov.uk/ukpga/2008/26), [Schedule 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4), [paragraph 12](https://www.legislation.gov.uk/ukpga/2008/26/paragraph/12), and the [Local Democracy, Economic Development and Construction Act 2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20), [Schedule 6](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6), [paragraph 6](https://www.legislation.gov.uk/ukpga/2009/20/paragraph/6).
 

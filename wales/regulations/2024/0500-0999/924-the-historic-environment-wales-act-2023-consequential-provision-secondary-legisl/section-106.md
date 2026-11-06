@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**106.**[^key-bcb383a5447ffe4acc88fa3cedd7ff39] For regulation 51(b) substitute—
+**106.**[^c-bcb383a5447ffe4acc88fa3cedd7ff39] For regulation 51(b) substitute—
 
 > - (b) section 178(2) of the 2023 Act (local inquiries);
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcb383a5447ffe4acc88fa3cedd7ff39]: Commencement: [Reg. 106](https://www.legislation.gov.uk/wsi/2024/924/regulation/106) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-bcb383a5447ffe4acc88fa3cedd7ff39]: Commencement: [Reg. 106](https://www.legislation.gov.uk/wsi/2024/924/regulation/106) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

@@ -116,7 +116,7 @@ Section 191
 - (a) a school within the meaning of the Education Act 1996 or the Education (Scotland) Act 1980;
 - (b) a college, or institution in the nature of a college, in a university;
 - (c) an institution designated by order made, or having effect as if made, under section 129 of the Education Reform Act 1988;
-- (ca)[^key-9ab55e96baea6ebe18b9f55d039ffbc9] a registered higher education provider of a description prescribed by regulations made for the purposes of section 39(1) of the Higher Education and Research Act 2017;
+- (ca)[^c-9ab55e96baea6ebe18b9f55d039ffbc9] a registered higher education provider of a description prescribed by regulations made for the purposes of section 39(1) of the Higher Education and Research Act 2017;
 - (d) a college of further education within the meaning of section 36 of the Further and Higher Education (Scotland) Act 1992;
 - (e) a university in Scotland;
 - (f) an institution designated by order under section 28 of the Further and Higher Education Act 1992 or section 44 of the Further and Higher Education (Scotland) Act 1992.
@@ -156,7 +156,7 @@ Section 191
 
 [^c21163221]: Commencement: Sch. 22 para. 3 wholly in force at 1.10.2012; Sch. 22 not in force at Royal Assent see s. 216; Sch. 22 in force for certain purposes at 1.10.2010 by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(14)(d)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/14/d) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15)); Sch. 22 in force for remaining purposes at 1.10.2012 by [S.I. 2012/1569](https://www.legislation.gov.uk/uksi/2012/1569), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/1569/article/3/f)
 
-[^key-9ab55e96baea6ebe18b9f55d039ffbc9]: Textual amendment: [Sch. 22 para. 3(6)(ca)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/22/paragraph/3/6/ca) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/1027/regulation/12)
+[^c-9ab55e96baea6ebe18b9f55d039ffbc9]: Textual amendment: [Sch. 22 para. 3(6)(ca)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/22/paragraph/3/6/ca) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [12](https://www.legislation.gov.uk/uksi/2019/1027/regulation/12)
 
 [^c21163231]: Commencement: [Sch. 22 para. 4](https://www.legislation.gov.uk/ukpga/2010/15/schedule/22/paragraph/4) wholly in force at 1.10.2012; [Sch. 22](https://www.legislation.gov.uk/ukpga/2010/15/schedule/22) not in force at Royal Assent see [s. 216](https://www.legislation.gov.uk/ukpga/2010/15/section/216); [Sch. 22](https://www.legislation.gov.uk/ukpga/2010/15/schedule/22) in force for certain purposes at 1.10.2010 by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(14)(d)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/14/d) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15)); [Sch. 22](https://www.legislation.gov.uk/ukpga/2010/15/schedule/22) in force for remaining purposes at 1.10.2012 by [S.I. 2012/1569](https://www.legislation.gov.uk/uksi/2012/1569), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/1569/article/3/f)
 

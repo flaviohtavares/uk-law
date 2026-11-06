@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Notice of meetings by advertisement only[^key-8bf269f804eff50bb9951f4c5ff454ac]
+## 25. Notice of meetings by advertisement only[^c-8bf269f804eff50bb9951f4c5ff454ac]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bf269f804eff50bb9951f4c5ff454ac]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2013/3208/rule/25) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-8bf269f804eff50bb9951f4c5ff454ac]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2013/3208/rule/25) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

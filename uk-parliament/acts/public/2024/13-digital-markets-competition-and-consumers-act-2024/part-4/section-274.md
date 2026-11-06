@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 274. Other remedies for breach by trader[^key-be93871c299d70868f136b4d3981c31b]
+## 274. Other remedies for breach by trader[^c-be93871c299d70868f136b4d3981c31b]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be93871c299d70868f136b4d3981c31b]: Commencement: S. 274 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-be93871c299d70868f136b4d3981c31b]: Commencement: S. 274 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

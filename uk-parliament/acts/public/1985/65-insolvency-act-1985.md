@@ -162,7 +162,7 @@ shall apply in relation to persons having privilege of Parliament or peerage as 
 
 #### 218. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c298990]
 
-#### 219. Amendments of Banking Act 1979.[^key-e23d216664eef85492d186d6b5d30e14]
+#### 219. Amendments of Banking Act 1979.[^c-e23d216664eef85492d186d6b5d30e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -196,7 +196,7 @@ shall apply in relation to persons having privilege of Parliament or peerage as 
 
 (1) This Act may be cited as the Insolvency Act 1985.
 
-(2)[^key-a36168cce840ff3c88ecb500f5fc1117][^c298997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a36168cce840ff3c88ecb500f5fc1117][^c298997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)—(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c298998]
 
@@ -224,7 +224,7 @@ Section 8.
 
 ## SCHEDULES 3—5 — . . .[^c299006]
 
-## SCHEDULE 6 — Amendments of 1985 Act[^key-3d846d470189491f7c0c4fdcd93f8436]
+## SCHEDULE 6 — Amendments of 1985 Act[^c-3d846d470189491f7c0c4fdcd93f8436]
 
 Section 109.
 
@@ -234,7 +234,7 @@ Section 109.
 
 **3.**[^M_F_242c2762-08bd-48bf-9805-9a0d8a5ad03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7008e6043a783e4845a827b76ae30ac3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7008e6043a783e4845a827b76ae30ac3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5, 6.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c299008]
 
@@ -242,7 +242,7 @@ Section 109.
 
 ### Voluntary arrangements
 
-**8.**[^key-b2f46cea70396a6579e1e70ea335e16c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b2f46cea70396a6579e1e70ea335e16c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Administration orders
 
@@ -250,9 +250,9 @@ Section 109.
 
 **10.**[^M_F_f2f6a461-ff3a-4c2e-f49d-8e9a489787e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-3d846d470189491f7c0c4fdcd93f8436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-3d846d470189491f7c0c4fdcd93f8436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-3d846d470189491f7c0c4fdcd93f8436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-3d846d470189491f7c0c4fdcd93f8436] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **13.**[^M_F_995fca68-81cc-4260-add0-2256db7398d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -296,7 +296,7 @@ Section 235.
 
 ### The Deeds of Arrangement Act 1914[^c299020]
 
-**2.**[^key-efdc79a8ed61744dd6069ea79408b201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-efdc79a8ed61744dd6069ea79408b201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Settled Land Act 1925[^c299022]
 
@@ -308,15 +308,15 @@ Section 235.
 
 ### The Land Registration Act 1925[^c299025]
 
-**5.**[^key-352ef5b5fe8b499ce5dcc8636d191c7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-352ef5b5fe8b499ce5dcc8636d191c7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Agricultural Credits Act 1928[^c299028]
 
 **6.** In section 7 of the Agricultural Credits Act 1928 (effect of floating charge), in paragraph (a)(i) of the proviso, for the words “receiving order in bankruptcy” there shall be substituted the words “bankruptcy order”.
 
-### ...[^key-914c50ced07780383cd41c36a7746a5c]
+### ...[^c-914c50ced07780383cd41c36a7746a5c]
 
-**7.**[^key-13a9545ce7252c32f2a2a9d0799db1b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-13a9545ce7252c32f2a2a9d0799db1b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c299029]
 
@@ -324,7 +324,7 @@ Section 235.
 
 ### The Arbitration Act 1950[^c299031]
 
-**10.**[^key-ce39c89abf2fc1c2dd093cda50e4d23e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ce39c89abf2fc1c2dd093cda50e4d23e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Administration of Justice Act 1956[^c299032]
 
@@ -335,7 +335,7 @@ Section 235.
 
 ### The Licensing Act 1964[^c299033]
 
-**12.**[^key-54c46da6a57105cc6b09f79e3bdd3fb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-54c46da6a57105cc6b09f79e3bdd3fb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Law of Property (Joint Tenants) Act 1964[^c299034]
 
@@ -343,7 +343,7 @@ Section 235.
 
 ### The General Rate Act 1967[^c299035]
 
-**14.**[^key-95afd7eefde129ed12990f973644e68f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-95afd7eefde129ed12990f973644e68f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Medicines Act 1968[^c299036]
 
@@ -357,7 +357,7 @@ Section 235.
 
 ### The Insolvency Services (Accounting and Investment) Act 1970[^c299040]
 
-**17.**[^key-e825651cd60ac444e2b294b8d5becc23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-e825651cd60ac444e2b294b8d5becc23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Conveyancing and Feudal Reform (Scotland) Act 1970[^c299041]
 
@@ -372,7 +372,7 @@ Section 235.
 
 ### The Road Traffic Act 1972[^c299044]
 
-**20.**[^key-8a533320f3b96a5ee11f78bc36faba3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-8a533320f3b96a5ee11f78bc36faba3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Land Charges Act 1972[^c299045]
 
@@ -403,7 +403,7 @@ Section 235.
 
 ### The Local Government Act 1972[^c299047]
 
-**22.**[^key-f08ffc28f4e0dbaf4e2fde954c15d3e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-f08ffc28f4e0dbaf4e2fde954c15d3e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Matrimonial Causes Act 1973[^c299048]
 
@@ -413,7 +413,7 @@ Section 235.
 
 ### The Solicitors Act 1974[^c299050]
 
-**25.**[^key-cd30946cbffd6e40ccfc103424157090] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-cd30946cbffd6e40ccfc103424157090] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Social Security Pensions Act 1975[^c299051]
 
@@ -451,7 +451,7 @@ Section 235.
 
 ### The Banking Act 1979
 
-**32.**[^key-fc14acc16ce9dfc31cc5551b525858cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-fc14acc16ce9dfc31cc5551b525858cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Estate Agents Act 1979[^c299076]
 
@@ -463,9 +463,9 @@ Section 235.
 
 **34.** In section 19(3) of the Public Passenger Vehicles Act 1981 (holder of PSV operator’s licence to give notice of bankruptcy etc.), after the word “estate” there shall be inserted the words “or the making of an administration order under Chapter III of Part II of the Insolvency Act 1985 in relation to the holder”.
 
-### The Senior Courts Act 1981[^c299078][^key-1a2af9081d8c95298a3e4f6810f7ebe3]
+### The Senior Courts Act 1981[^c299078][^c-1a2af9081d8c95298a3e4f6810f7ebe3]
 
-**35.**[^key-d014abd1054086c6904aee85dcb1fe3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-d014abd1054086c6904aee85dcb1fe3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Civil Jurisdiction and Judgments Act 1982[^c299079]
 
@@ -477,7 +477,7 @@ Section 235.
 
 **37.** (1) The Insurance Companies Act 1982 shall be amended as follows.
 
-(2)[^key-a0f0bd4c670936a20701cc3c35d0f402] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a0f0bd4c670936a20701cc3c35d0f402] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 56 (continuation of long term business of insurance companies in liquidation)—
 
@@ -499,7 +499,7 @@ Section 235.
 
 (3)[^c299084] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-18b929de897a2fd81648ad9d2fa1d821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-18b929de897a2fd81648ad9d2fa1d821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Housing Act 1985
 
@@ -583,7 +583,7 @@ Section 235.
 
 [^c298990]: Textual amendment: [S. 218](https://www.legislation.gov.uk/ukpga/1985/65/section/218) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
-[^key-e23d216664eef85492d186d6b5d30e14]: Textual amendment: [S. 219](https://www.legislation.gov.uk/ukpga/1985/65/section/219) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
+[^c-e23d216664eef85492d186d6b5d30e14]: Textual amendment: [S. 219](https://www.legislation.gov.uk/ukpga/1985/65/section/219) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
 
 [^c298992]: Marginal citation: [1984 c. 28](https://www.legislation.gov.uk/ukpga/1984/28).
 
@@ -595,7 +595,7 @@ Section 235.
 
 [^c298996]: Textual amendment: [Ss. 1–11](https://www.legislation.gov.uk/ukpga/1985/65/section/1), [15](https://www.legislation.gov.uk/ukpga/1985/65/section/15), [17](https://www.legislation.gov.uk/ukpga/1985/65/section/17), [19–107](https://www.legislation.gov.uk/ukpga/1985/65/section/19), [108(1)(3)–(7)](https://www.legislation.gov.uk/ukpga/1985/65/section/108/1/3), [109–212](https://www.legislation.gov.uk/ukpga/1985/65/section/109), [216](https://www.legislation.gov.uk/ukpga/1985/65/section/216), [221–234](https://www.legislation.gov.uk/ukpga/1985/65/section/221), [235(2)–(5)](https://www.legislation.gov.uk/ukpga/1985/65/section/235/2), [236(3)–(5)](https://www.legislation.gov.uk/ukpga/1985/65/section/236/3) repealed by [Insolvency Act 1986 (c. 45, SIF 66)](https://www.legislation.gov.uk/ukpga/1986/45), [s. 438](https://www.legislation.gov.uk/ukpga/1986/45/section/438), [Sch. 12](https://www.legislation.gov.uk/ukpga/1986/45/schedule/12)
 
-[^key-a36168cce840ff3c88ecb500f5fc1117]: Textual amendment: [S. 236(2)](https://www.legislation.gov.uk/ukpga/1985/65/section/236/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
+[^c-a36168cce840ff3c88ecb500f5fc1117]: Textual amendment: [S. 236(2)](https://www.legislation.gov.uk/ukpga/1985/65/section/236/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
 
 [^c298997]: Subordinate legislation: Power of appointment conferred by s. 236(2) exercised: [S.I. 1986/6](https://www.legislation.gov.uk/uksi/1986/6), 185, 463, 840 and 1924
 
@@ -613,19 +613,19 @@ Section 235.
 
 [^c299006]: Textual amendment: [Sch. 1 paras. 1–4](https://www.legislation.gov.uk/ukpga/1985/65/schedule/1/paragraph/1), [5(4)](https://www.legislation.gov.uk/ukpga/1985/65/schedule/1/paragraph/5/4), [Schs. 3–5](https://www.legislation.gov.uk/ukpga/1985/65/schedule/3), [Sch. 6 paras. 5](https://www.legislation.gov.uk/ukpga/1985/65/schedule/6/paragraph/5), [6](https://www.legislation.gov.uk/ukpga/1985/65/schedule/6/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/1985/65/schedule/6/paragraph/9), [15–17](https://www.legislation.gov.uk/ukpga/1985/65/schedule/6/paragraph/15), [20–22](https://www.legislation.gov.uk/ukpga/1985/65/schedule/6/paragraph/20), [25–44](https://www.legislation.gov.uk/ukpga/1985/65/schedule/6/paragraph/25), [48–52](https://www.legislation.gov.uk/ukpga/1985/65/schedule/6/paragraph/48), [Sch. 7](https://www.legislation.gov.uk/ukpga/1985/65/schedule/7), [Sch. 9 paras. 1](https://www.legislation.gov.uk/ukpga/1985/65/schedule/9/paragraph/1), [4–24](https://www.legislation.gov.uk/ukpga/1985/65/schedule/9/paragraph/4), [Sch. 10](https://www.legislation.gov.uk/ukpga/1985/65/schedule/10) repealed by [Insolvency Act 1986 (c. 45, SIF 66)](https://www.legislation.gov.uk/ukpga/1986/45), [s. 438](https://www.legislation.gov.uk/ukpga/1986/45/section/438), [Sch. 12](https://www.legislation.gov.uk/ukpga/1986/45/schedule/12)
 
-[^key-3d846d470189491f7c0c4fdcd93f8436]: Textual amendment: Sch. 6 repealed (6.4.2008 for the repeal of Sch. 6 paras. 11, 12 and further repealed 1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7)[12](https://www.legislation.gov.uk/uksi/2007/3495/article/12)); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7) [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8) [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
+[^c-3d846d470189491f7c0c4fdcd93f8436]: Textual amendment: Sch. 6 repealed (6.4.2008 for the repeal of Sch. 6 paras. 11, 12 and further repealed 1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7)[12](https://www.legislation.gov.uk/uksi/2007/3495/article/12)); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7) [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8) [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
 
 [^c299007]: Textual amendment: Sch. 2, Sch. 6 paras. 1, 2, 14, Sch. 9 paras. 2, 3 repealed by [Company Directors Disqualification Act 1986 (c. 46, SIF 27)](https://www.legislation.gov.uk/ukpga/1986/46), [s. 23(2)](https://www.legislation.gov.uk/ukpga/1986/46/section/23/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1986/46/schedule/4)
 
 [^M_F_242c2762-08bd-48bf-9805-9a0d8a5ad03c]: Textual amendment: Sch. 6 para. 3 repealed (1.10.2009) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 4](https://www.legislation.gov.uk/uksi/2008/2860/article/4), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/1/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7) [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8) [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2)) (which transitional provisions in Sch. 2 are amended (1.10.2009) by [S.I. 2009/2476](https://www.legislation.gov.uk/uksi/2009/2476), arts. 1(3), 2(3)(4) and by [S.I. 2009/1802](https://www.legislation.gov.uk/uksi/2009/1802), arts. 1, 18, Sch.)
 
-[^key-7008e6043a783e4845a827b76ae30ac3]: Textual amendment: Sch. 6 para. 4 repealed (6.4.2005) by [Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27), [s. 65(1)](https://www.legislation.gov.uk/ukpga/2004/27/section/65/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2004/27/schedule/8); [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2)
+[^c-7008e6043a783e4845a827b76ae30ac3]: Textual amendment: Sch. 6 para. 4 repealed (6.4.2005) by [Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27), [s. 65(1)](https://www.legislation.gov.uk/ukpga/2004/27/section/65/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2004/27/schedule/8); [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2)
 
 [^c299008]: Textual amendment: Sch. 1 paras. 1–4, 5(4), Schs. 3–5, Sch. 6 paras. 5, 6, 9, 15–17, 20–22, 25–44, 48–52, Sch. 7, Sch. 9 paras. 1, 4–24, Sch. 10 repealed by [Insolvency Act 1986 (c. 45, SIF 66)](https://www.legislation.gov.uk/ukpga/1986/45), [s. 438](https://www.legislation.gov.uk/ukpga/1986/45/section/438), [Sch. 12](https://www.legislation.gov.uk/ukpga/1986/45/schedule/12)
 
 [^c299009]: Textual amendment: Sch. 6 para. 7 repealed by [Company Directors Disqualification Act 1986 (c. 46, SIF 27)](https://www.legislation.gov.uk/ukpga/1986/46), [s. 23(2)](https://www.legislation.gov.uk/ukpga/1986/46/section/23/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1986/46/schedule/4) and also expressed to be repealed in part (subject to the transitional and saving provisions mentioned in [S.I. 1990/355](https://www.legislation.gov.uk/uksi/1990/355), [art. 5](https://www.legislation.gov.uk/uksi/1990/355/article/5)) by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 212](https://www.legislation.gov.uk/ukpga/1989/40/section/212), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2), [Sch. 24](https://www.legislation.gov.uk/ukpga/1989/40/schedule/24)
 
-[^key-b2f46cea70396a6579e1e70ea335e16c]: Textual amendment: Sch. 6 para. 8 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
+[^c-b2f46cea70396a6579e1e70ea335e16c]: Textual amendment: Sch. 6 para. 8 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
 
 [^c299010]: Textual amendment: Sch. 1 paras. 1–4, 5(4), Schs. 3–5, Sch. 6 paras. 5, 6, 9, 15–17, 20–22, 25–44, 48–52, Sch. 7, Sch. 9 paras. 1, 4–24, Sch. 10 repealed by [Insolvency Act 1986 (c. 45, SIF 66)](https://www.legislation.gov.uk/ukpga/1986/45), [s. 438](https://www.legislation.gov.uk/ukpga/1986/45/section/438), [Sch. 12](https://www.legislation.gov.uk/ukpga/1986/45/schedule/12)
 
@@ -667,7 +667,7 @@ Section 235.
 
 [^c299020]: Marginal citation: [1914 c. 47](https://www.legislation.gov.uk/ukpga/1914/47).
 
-[^key-efdc79a8ed61744dd6069ea79408b201]: Textual amendment: Sch. 8 para. 2 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(10)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/10) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-efdc79a8ed61744dd6069ea79408b201]: Textual amendment: Sch. 8 para. 2 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(10)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/10) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
 
 [^c299022]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18).
 
@@ -677,13 +677,13 @@ Section 235.
 
 [^c299025]: Marginal citation: [1925 c. 21](https://www.legislation.gov.uk/ukpga/1925/21).
 
-[^key-352ef5b5fe8b499ce5dcc8636d191c7b]: Textual amendment: Sch. 8 para. 5 repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-352ef5b5fe8b499ce5dcc8636d191c7b]: Textual amendment: Sch. 8 para. 5 repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c299028]: Marginal citation: [1928 c. 43](https://www.legislation.gov.uk/ukpga/1928/43).
 
-[^key-914c50ced07780383cd41c36a7746a5c]: Textual amendment: [Sch. 8 para. 7 crossheading](https://www.legislation.gov.uk/ukpga/1985/65/schedule/8/crossheading/the-third-parties-rights-against-insurers-act-1930) repealed (1.8.2016) by [Third Parties (Rights against Insurers) Act 2010 (c. 10)](https://www.legislation.gov.uk/ukpga/2010/10), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2010/10/section/21/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2010/10/schedule/4); [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-914c50ced07780383cd41c36a7746a5c]: Textual amendment: [Sch. 8 para. 7 crossheading](https://www.legislation.gov.uk/ukpga/1985/65/schedule/8/crossheading/the-third-parties-rights-against-insurers-act-1930) repealed (1.8.2016) by [Third Parties (Rights against Insurers) Act 2010 (c. 10)](https://www.legislation.gov.uk/ukpga/2010/10), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2010/10/section/21/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2010/10/schedule/4); [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
-[^key-13a9545ce7252c32f2a2a9d0799db1b0]: Textual amendment: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1985/65/schedule/8/paragraph/7) repealed (1.8.2016) by [Third Parties (Rights against Insurers) Act 2010 (c. 10)](https://www.legislation.gov.uk/ukpga/2010/10), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2010/10/section/21/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2010/10/schedule/4); [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
+[^c-13a9545ce7252c32f2a2a9d0799db1b0]: Textual amendment: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1985/65/schedule/8/paragraph/7) repealed (1.8.2016) by [Third Parties (Rights against Insurers) Act 2010 (c. 10)](https://www.legislation.gov.uk/ukpga/2010/10), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2010/10/section/21/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2010/10/schedule/4); [S.I. 2016/550](https://www.legislation.gov.uk/uksi/2016/550), [art. 2](https://www.legislation.gov.uk/uksi/2016/550/article/2)
 
 [^c299029]: Textual amendment: Sch. 8 para. 8 repealed by [Finance Act 1987 (c. 16, SIF 99:6)](https://www.legislation.gov.uk/ukpga/1987/16), [s. 72](https://www.legislation.gov.uk/ukpga/1987/16/section/72), [Sch. 16 Pt. XI](https://www.legislation.gov.uk/ukpga/1987/16/schedule/16/part/XI)
 
@@ -691,19 +691,19 @@ Section 235.
 
 [^c299031]: Marginal citation: [1950 c. 27](https://www.legislation.gov.uk/ukpga/1950/27).
 
-[^key-ce39c89abf2fc1c2dd093cda50e4d23e]: Textual amendment: Sch. 8 para. 10 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
+[^c-ce39c89abf2fc1c2dd093cda50e4d23e]: Textual amendment: Sch. 8 para. 10 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
 
 [^c299032]: Marginal citation: [1956 c. 46](https://www.legislation.gov.uk/ukpga/1956/46).
 
 [^c299033]: Marginal citation: [1964 c. 26](https://www.legislation.gov.uk/ukpga/1964/26).
 
-[^key-54c46da6a57105cc6b09f79e3bdd3fb9]: Textual amendment: Sch. 8 para. 12 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-54c46da6a57105cc6b09f79e3bdd3fb9]: Textual amendment: Sch. 8 para. 12 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c299034]: Marginal citation: [1964 c. 63](https://www.legislation.gov.uk/ukpga/1964/63).
 
 [^c299035]: Marginal citation: [1967 c. 9](https://www.legislation.gov.uk/ukpga/1967/9).
 
-[^key-95afd7eefde129ed12990f973644e68f]: Textual amendment: Sch. 8 para. 14 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
+[^c-95afd7eefde129ed12990f973644e68f]: Textual amendment: Sch. 8 para. 14 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
 
 [^c299036]: Marginal citation: [1968 c. 67](https://www.legislation.gov.uk/ukpga/1968/67).
 
@@ -713,7 +713,7 @@ Section 235.
 
 [^c299040]: Marginal citation: [1970 c. 8](https://www.legislation.gov.uk/ukpga/1970/8).
 
-[^key-e825651cd60ac444e2b294b8d5becc23]: Textual amendment: Sch. 8 para. 17 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
+[^c-e825651cd60ac444e2b294b8d5becc23]: Textual amendment: Sch. 8 para. 17 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
 
 [^c299041]: Marginal citation: [1970 c. 35](https://www.legislation.gov.uk/ukpga/1970/35).
 
@@ -723,7 +723,7 @@ Section 235.
 
 [^c299044]: Marginal citation: [1972 c. 20](https://www.legislation.gov.uk/ukpga/1972/20).
 
-[^key-8a533320f3b96a5ee11f78bc36faba3d]: Textual amendment: Sch. 8 para. 20 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
+[^c-8a533320f3b96a5ee11f78bc36faba3d]: Textual amendment: Sch. 8 para. 20 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
 
 [^c299045]: Marginal citation: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61).
 
@@ -731,7 +731,7 @@ Section 235.
 
 [^c299047]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-f08ffc28f4e0dbaf4e2fde954c15d3e8]: Textual amendment: Sch. 8 para. 22 repealed (1.4.2004) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2)
+[^c-f08ffc28f4e0dbaf4e2fde954c15d3e8]: Textual amendment: Sch. 8 para. 22 repealed (1.4.2004) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2)
 
 [^c299048]: Marginal citation: [1973 c. 18](https://www.legislation.gov.uk/ukpga/1973/18).
 
@@ -739,7 +739,7 @@ Section 235.
 
 [^c299050]: Marginal citation: [1974 c. 47](https://www.legislation.gov.uk/ukpga/1974/47).
 
-[^key-cd30946cbffd6e40ccfc103424157090]: Textual amendment: Sch. 8 para. 25 repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(v)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/v)
+[^c-cd30946cbffd6e40ccfc103424157090]: Textual amendment: Sch. 8 para. 25 repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(v)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/v)
 
 [^c299051]: Marginal citation: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60).
 
@@ -765,7 +765,7 @@ Section 235.
 
 [^c299073]: Textual amendment: Sch. 8 para. 31(4) repealed by [Employment Act 1989 (c. 38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. II](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/II)
 
-[^key-fc14acc16ce9dfc31cc5551b525858cd]: Textual amendment: Sch. 8 para. 32 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
+[^c-fc14acc16ce9dfc31cc5551b525858cd]: Textual amendment: Sch. 8 para. 32 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
 
 [^c299076]: Marginal citation: [1979 c. 38](https://www.legislation.gov.uk/ukpga/1979/38).
 
@@ -773,21 +773,21 @@ Section 235.
 
 [^c299078]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 
-[^key-1a2af9081d8c95298a3e4f6810f7ebe3]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-1a2af9081d8c95298a3e4f6810f7ebe3]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-d014abd1054086c6904aee85dcb1fe3d]: Textual amendment: Sch. 8 para. 35 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
+[^c-d014abd1054086c6904aee85dcb1fe3d]: Textual amendment: Sch. 8 para. 35 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
 
 [^c299079]: Marginal citation: [1982 c. 27](https://www.legislation.gov.uk/ukpga/1982/27).
 
 [^c299080]: Marginal citation: [1982 c. 50](https://www.legislation.gov.uk/ukpga/1982/50).
 
-[^key-a0f0bd4c670936a20701cc3c35d0f402]: Textual amendment: Sch. 8 para. 37(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
+[^c-a0f0bd4c670936a20701cc3c35d0f402]: Textual amendment: Sch. 8 para. 37(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
 
 [^c299081]: Marginal citation: [1984 c. 28](https://www.legislation.gov.uk/ukpga/1984/28).
 
 [^c299084]: Textual amendment: Sch. 8 para. 38(2)(3) repealed by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/I), Group I
 
-[^key-18b929de897a2fd81648ad9d2fa1d821]: Textual amendment: Sch. 8 para. 38(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
+[^c-18b929de897a2fd81648ad9d2fa1d821]: Textual amendment: Sch. 8 para. 38(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 6
 
 [^c299086]: Marginal citation: [1985 c. 61](https://www.legislation.gov.uk/ukpga/1985/61).
 

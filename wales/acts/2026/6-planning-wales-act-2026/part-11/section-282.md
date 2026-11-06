@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 282. Procedure before grant of planning permission[^key-5453be8dd15a65d571872f1ff6223f9a]
+## 282. Procedure before grant of planning permission[^c-5453be8dd15a65d571872f1ff6223f9a]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5453be8dd15a65d571872f1ff6223f9a]: Commencement: S. 282 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5453be8dd15a65d571872f1ff6223f9a]: Commencement: S. 282 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

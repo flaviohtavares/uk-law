@@ -26,8 +26,8 @@ Section 42.
 
 **1.**[^c23327611] (1) The Department may by regulations make provision—
 
-- (a) prohibiting administration charges which are of a specified class or description, or which exceed specified limits, from being imposed on members[^key-5b3d77e6749c6cf83e3bff6e26962929] of a relevant scheme;
-- (b) prohibiting a relevant scheme from containing provision under which administration charges which are of a specified class or description, or which exceed specified limits, will or may be imposed on members[^key-73f3d0a5621c90ed9af9c15cbe0f4a17] of the scheme.
+- (a) prohibiting administration charges which are of a specified class or description, or which exceed specified limits, from being imposed on members[^c-5b3d77e6749c6cf83e3bff6e26962929] of a relevant scheme;
+- (b) prohibiting a relevant scheme from containing provision under which administration charges which are of a specified class or description, or which exceed specified limits, will or may be imposed on members[^c-73f3d0a5621c90ed9af9c15cbe0f4a17] of the scheme.
 
 “**Specified**” means specified in the regulations.
 
@@ -45,7 +45,7 @@ Section 42.
 
 (5) In this paragraph—
 
-- “**administration charge**”, in relation to a member of a pension scheme, means any of the following to the extent that they may be used to meet the administrative expenses of the scheme, to pay commission or in any other way that does not constitute[^key-e219bfd4043e39abcd7083ee338fd0bf] the provision of pension benefits for or in respect of members or the making of transfer payments with a view to acquiring rights or entitlements to pension benefits under different pension schemes[^key-fd6addd066d17b61242a5b657f62c2fe] —
+- “**administration charge**”, in relation to a member of a pension scheme, means any of the following to the extent that they may be used to meet the administrative expenses of the scheme, to pay commission or in any other way that does not constitute[^c-e219bfd4043e39abcd7083ee338fd0bf] the provision of pension benefits for or in respect of members or the making of transfer payments with a view to acquiring rights or entitlements to pension benefits under different pension schemes[^c-fd6addd066d17b61242a5b657f62c2fe] —
   - (a) any payments made to the scheme by, or on behalf or in respect of, the member,
   - (b) any income or capital gain arising from the investment of such payments, or
   - (c) the value of the member's rights under the scheme;
@@ -94,7 +94,7 @@ Section 42.
 
 (2) In this Schedule “**relevant scheme**” is to be construed in accordance with paragraphs 1(5) and 2(5).
 
-(3)[^key-d8c539cbfd11b6fca147a1ff6e8bf701] Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (see section 52(2)(b) of that Act) is to be treated for the purposes of this Schedule as a separate scheme.
+(3)[^c-d8c539cbfd11b6fca147a1ff6e8bf701] Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (see section 52(2)(b) of that Act) is to be treated for the purposes of this Schedule as a separate scheme.
 
 ### Crown application
 
@@ -108,11 +108,11 @@ Section 42.
 
 **6.**[^c23327661] (1) The Department may by regulations provide that specified provisions override any provision of a relevant scheme to the extent that it conflicts with them.
 
-(1A)[^key-799295cde1b12f700883b527a239b389] The Department may by regulations provide that specified provisions override any term of a relevant contract to the extent that it conflicts with them.
+(1A)[^c-799295cde1b12f700883b527a239b389] The Department may by regulations provide that specified provisions override any term of a relevant contract to the extent that it conflicts with them.
 
-(2) A “specified provision” is a provision of regulations under this Schedule specified in regulations made under sub-paragraph (1) or (1A)[^key-4e32ee448e49756a00d30c53d84ad647].
+(2) A “specified provision” is a provision of regulations under this Schedule specified in regulations made under sub-paragraph (1) or (1A)[^c-4e32ee448e49756a00d30c53d84ad647].
 
-(3)[^key-9a84a49ef040349a0b9de1f424436991] “Relevant contract” means a contract between the trustees or managers of a relevant scheme and a person providing services in relation to the scheme.
+(3)[^c-9a84a49ef040349a0b9de1f424436991] “Relevant contract” means a contract between the trustees or managers of a relevant scheme and a person providing services in relation to the scheme.
 
 ### Other provision relating to regulations under this Schedule
 
@@ -183,13 +183,13 @@ Section 42.
 
 [^c23327611]: Commencement: Sch. 18 para. 1 in operation at 16.7.2015 by [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(n)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/n)
 
-[^key-5b3d77e6749c6cf83e3bff6e26962929]: Textual amendment: Word in [Sch. 18 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/1/1/a) substituted (11.2.2021 for specified purposes, 29.4.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 25(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/25/2); [S.R. 2022/173](https://www.legislation.gov.uk/nisr/2022/173), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/173/article/2/c)
+[^c-5b3d77e6749c6cf83e3bff6e26962929]: Textual amendment: Word in [Sch. 18 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/1/1/a) substituted (11.2.2021 for specified purposes, 29.4.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 25(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/25/2); [S.R. 2022/173](https://www.legislation.gov.uk/nisr/2022/173), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/173/article/2/c)
 
-[^key-73f3d0a5621c90ed9af9c15cbe0f4a17]: Textual amendment: Word in [Sch. 18 para. 1(1)(b)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/1/1/b) substituted (11.2.2021 for specified purposes, 29.4.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 25(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/25/2); [S.R. 2022/173](https://www.legislation.gov.uk/nisr/2022/173), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/173/article/2/c)
+[^c-73f3d0a5621c90ed9af9c15cbe0f4a17]: Textual amendment: Word in [Sch. 18 para. 1(1)(b)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/1/1/b) substituted (11.2.2021 for specified purposes, 29.4.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 25(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/25/2); [S.R. 2022/173](https://www.legislation.gov.uk/nisr/2022/173), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/173/article/2/c)
 
-[^key-e219bfd4043e39abcd7083ee338fd0bf]: Textual amendment: Word in [Sch. 18 para. 1(5)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/1/5) substituted (29.9.2021 for specified purposes, 1.10.2021 immediately before 1.10.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/15/2/a); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(2)](https://www.legislation.gov.uk/nisr/2021/271/article/2/2) (with [art. 10](https://www.legislation.gov.uk/nisr/2021/271/article/10))
+[^c-e219bfd4043e39abcd7083ee338fd0bf]: Textual amendment: Word in [Sch. 18 para. 1(5)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/1/5) substituted (29.9.2021 for specified purposes, 1.10.2021 immediately before 1.10.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/15/2/a); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(2)](https://www.legislation.gov.uk/nisr/2021/271/article/2/2) (with [art. 10](https://www.legislation.gov.uk/nisr/2021/271/article/10))
 
-[^key-fd6addd066d17b61242a5b657f62c2fe]: Textual amendment: Words in [Sch. 18 para. 1(5)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/1/5) inserted (29.9.2021 for specified purposes, 1.10.2021 immediately before 1.10.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/15/2/b); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(2)](https://www.legislation.gov.uk/nisr/2021/271/article/2/2) (with [art. 10](https://www.legislation.gov.uk/nisr/2021/271/article/10))
+[^c-fd6addd066d17b61242a5b657f62c2fe]: Textual amendment: Words in [Sch. 18 para. 1(5)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/1/5) inserted (29.9.2021 for specified purposes, 1.10.2021 immediately before 1.10.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(d)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/d)[(3)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/c), [Sch. 11 para. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/11/paragraph/15/2/b); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(2)](https://www.legislation.gov.uk/nisr/2021/271/article/2/2) (with [art. 10](https://www.legislation.gov.uk/nisr/2021/271/article/10))
 
 [^c23327621]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/2) in operation at 16.7.2015 by [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(n)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/n)
 
@@ -197,17 +197,17 @@ Section 42.
 
 [^c23327641]: Commencement: Sch. 18 para. 4 in operation at 16.7.2015 by [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(n)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/n)
 
-[^key-d8c539cbfd11b6fca147a1ff6e8bf701]: Textual amendment: [Sch. 18 para. 4(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/4/3) inserted (11.2.2021 for specified purposes, 29.4.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 25(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/25/3); [S.R. 2022/173](https://www.legislation.gov.uk/nisr/2022/173), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/173/article/2/c)
+[^c-d8c539cbfd11b6fca147a1ff6e8bf701]: Textual amendment: [Sch. 18 para. 4(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/4/3) inserted (11.2.2021 for specified purposes, 29.4.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 25(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/25/3); [S.R. 2022/173](https://www.legislation.gov.uk/nisr/2022/173), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/173/article/2/c)
 
 [^c23327651]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/5) in operation at 16.7.2015 by [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(n)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/n)
 
 [^c23327661]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/6) in operation at 16.7.2015 by [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(n)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/n)
 
-[^key-799295cde1b12f700883b527a239b389]: Textual amendment: [Sch. 18 para. 6(1A)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/6/1A) inserted (10.8.2021) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [ss. 41(2)](https://www.legislation.gov.uk/nia/2021/6/section/41/2), [44(1)(d)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/d)
+[^c-799295cde1b12f700883b527a239b389]: Textual amendment: [Sch. 18 para. 6(1A)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/6/1A) inserted (10.8.2021) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [ss. 41(2)](https://www.legislation.gov.uk/nia/2021/6/section/41/2), [44(1)(d)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/d)
 
-[^key-4e32ee448e49756a00d30c53d84ad647]: Textual amendment: Words in [Sch. 18 para. 6(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/6/2) inserted (10.8.2021) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [ss. 41(3)](https://www.legislation.gov.uk/nia/2021/6/section/41/3), [44(1)(d)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/d)
+[^c-4e32ee448e49756a00d30c53d84ad647]: Textual amendment: Words in [Sch. 18 para. 6(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/6/2) inserted (10.8.2021) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [ss. 41(3)](https://www.legislation.gov.uk/nia/2021/6/section/41/3), [44(1)(d)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/d)
 
-[^key-9a84a49ef040349a0b9de1f424436991]: Textual amendment: [Sch. 18 para. 6(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/6/3) added (10.8.2021) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [ss. 41(4)](https://www.legislation.gov.uk/nia/2021/6/section/41/4), [44(1)(d)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/d)
+[^c-9a84a49ef040349a0b9de1f424436991]: Textual amendment: [Sch. 18 para. 6(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/6/3) added (10.8.2021) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [ss. 41(4)](https://www.legislation.gov.uk/nia/2021/6/section/41/4), [44(1)(d)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/d)
 
 [^c23327671]: Commencement: [Sch. 18 para. 7](https://www.legislation.gov.uk/nia/2015/5/schedule/18/paragraph/7) in operation at 16.7.2015 by [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(n)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/n)
 

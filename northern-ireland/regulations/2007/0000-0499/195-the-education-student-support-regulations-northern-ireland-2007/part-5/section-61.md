@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Amount of the special support grant[^key-571c7c1e151fe3a78915ed9986e3ef7c]
+## 61. Amount of the special support grant[^c-571c7c1e151fe3a78915ed9986e3ef7c]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-571c7c1e151fe3a78915ed9986e3ef7c]: Commencement: [Reg. 61](https://www.legislation.gov.uk/nisr/2007/195/regulation/61) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-571c7c1e151fe3a78915ed9986e3ef7c]: Commencement: [Reg. 61](https://www.legislation.gov.uk/nisr/2007/195/regulation/61) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

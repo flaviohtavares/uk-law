@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Dog control orders: supplementary[^key-18c6e340b121440e1571a03b9ef3a273]
+## 41. Dog control orders: supplementary[^c-18c6e340b121440e1571a03b9ef3a273]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18c6e340b121440e1571a03b9ef3a273]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2011/23/section/41) in operation at 18.1.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-18c6e340b121440e1571a03b9ef3a273]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2011/23/section/41) in operation at 18.1.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)

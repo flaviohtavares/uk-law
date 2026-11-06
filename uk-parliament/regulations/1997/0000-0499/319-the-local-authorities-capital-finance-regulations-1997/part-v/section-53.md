@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Specified capital grants—all local authorities[^key-87b02e37f7861a5b873cc7e24ab146fc]
+## 53. Specified capital grants—all local authorities[^c-87b02e37f7861a5b873cc7e24ab146fc]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ Contributions paid to a local authority under section 569(1) of the Housing Act 
 
 ## Annotations
 
-[^key-87b02e37f7861a5b873cc7e24ab146fc]: Commencement: Reg. 53 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-87b02e37f7861a5b873cc7e24ab146fc]: Commencement: Reg. 53 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00045]: Footnote: Section 569 was amended by section 157(8) of the Local Government and Housing Act 1989 and section 138 of the Leasehold Reform, Housing and Urban Development Act [1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28).

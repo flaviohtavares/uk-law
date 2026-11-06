@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 135. Relationship with amounts to be disregarded under Schedule 8[^key-a801d16b16049a21738d508a6b0b71db]
+## 135. Relationship with amounts to be disregarded under Schedule 8[^c-a801d16b16049a21738d508a6b0b71db]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ No part of a student’s covenant income or grant income is to be disregarded un
 
 ## Annotations
 
-[^key-a801d16b16049a21738d508a6b0b71db]: Commencement: [Reg. 135](https://www.legislation.gov.uk/nisr/2008/280/regulation/135) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-a801d16b16049a21738d508a6b0b71db]: Commencement: [Reg. 135](https://www.legislation.gov.uk/nisr/2008/280/regulation/135) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

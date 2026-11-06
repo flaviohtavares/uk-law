@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Inspections at request of providers of childcare to young children[^key-1fd6192601105e3f8d98233759ad6f05]
+## 85. Inspections at request of providers of childcare to young children[^c-1fd6192601105e3f8d98233759ad6f05]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In section 49 of the Childcare Act 2006 (inspections of early years provision), 
 
 ## Annotations
 
-[^key-1fd6192601105e3f8d98233759ad6f05]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2014/6/section/85) in force at 13.5.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/889/article/5/d)
+[^c-1fd6192601105e3f8d98233759ad6f05]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2014/6/section/85) in force at 13.5.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/889/article/5/d)

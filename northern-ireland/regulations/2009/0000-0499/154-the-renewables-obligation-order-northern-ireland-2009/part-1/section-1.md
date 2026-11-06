@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-ae720166f3cdd59a4a150343700aee35]
+## 1. Citation and commencement[^c-ae720166f3cdd59a4a150343700aee35]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Renewables Obligation Order (Northern Ireland) 20
 
 ## Annotations
 
-[^key-ae720166f3cdd59a4a150343700aee35]: Commencement: Art. 1 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-ae720166f3cdd59a4a150343700aee35]: Commencement: Art. 1 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

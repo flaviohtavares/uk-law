@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Duty of highway authorities, etc., as respects bridges over certain railways or inland waterways.[^c15332531][^c15332541][^c15332551][^c15332561][^key-7c111eb3f2e076506b30a123743c1474][^key-ca338843879e60dd57e1a5b64ad5d8f1][^key-72530f88347db8ba29d740b08f9430e5][^key-2a3b073eb10067ca529a772b479ee1af][^key-dcf76ef168e993053305570762a1b4e7][^key-96fe16cc6a38a4e5efc1ad2d5a95a43a][^key-cfec4b11bb5259130cc75bcf6559ff37][^key-dc11b3abcf8ac2b32e8c60a71f0edb75][^c15332521]
+## 118. Duty of highway authorities, etc., as respects bridges over certain railways or inland waterways.[^c15332531][^c15332541][^c15332551][^c15332561][^c-7c111eb3f2e076506b30a123743c1474][^c-ca338843879e60dd57e1a5b64ad5d8f1][^c-72530f88347db8ba29d740b08f9430e5][^c-2a3b073eb10067ca529a772b479ee1af][^c-dcf76ef168e993053305570762a1b4e7][^c-96fe16cc6a38a4e5efc1ad2d5a95a43a][^c-cfec4b11bb5259130cc75bcf6559ff37][^c-dc11b3abcf8ac2b32e8c60a71f0edb75][^c15332521]
 
 *Extent: E+W*
 
 (1) This section applies to any bridge, including a bridge constructed after the day on which this section comes into force, which—
 
-- (a) carries a highway over one or more of the following, that is to say, a railway of the Railways Board, a railway of Transport for London[^key-4ffd9de7ce5ccbaa84171c7f120098c6] or an inland waterway of the Waterways Board; and
+- (a) carries a highway over one or more of the following, that is to say, a railway of the Railways Board, a railway of Transport for London[^c-4ffd9de7ce5ccbaa84171c7f120098c6] or an inland waterway of the Waterways Board; and
 - (b) belongs to the Minister, the Secretary of State, a local highway authority or some other person not being the Board or Boards whose railway or waterway is crossed by the bridge.
 
 (1A)[^c15332581] This section also applies to any bridge (whenever constructed) which—
@@ -32,14 +32,14 @@ summary: ''
 
 and in relation to any such bridge references in this section to any of the said Boards or a Board are to be read as references to the network owner.
 
-(1B)[^key-0db274742638e1e3c2d96a057bd4a09c] This section also applies to any bridge (whenever constructed) which —
+(1B)[^c-0db274742638e1e3c2d96a057bd4a09c] This section also applies to any bridge (whenever constructed) which —
 
 - (a) carries a highway over an inland waterway of Canal & River Trust, but
 - (b) does not belong to Canal & River Trust,
 
 and in relation to any such bridge references in this section to any of the said Boards or a Board are to be read as references to Canal & River Trust.
 
-(1C)[^key-b19a01aed8190e54547b7adee5fa89f1] This section also applies to any bridge (whenever constructed) which—
+(1C)[^c-b19a01aed8190e54547b7adee5fa89f1] This section also applies to any bridge (whenever constructed) which—
 
 - (a) carries a highway over a railway of the Secretary of State, but
 - (b) does not belong to the Secretary of State,
@@ -89,7 +89,7 @@ but none of the said Boards shall by virtue of this subsection interfere with th
 
 (12) Nothing in this section shall be taken as authorising any person to interfere with traffic lawfully using any bridge [^c15332591]. . ..
 
-## 118. Duty of highway authorities, etc., as respects bridges over certain railways or inland waterways.[^c15332431][^c15332441][^c15332451][^c15332461][^key-7c111eb3f2e076506b30a123743c1474][^key-ca338843879e60dd57e1a5b64ad5d8f1][^key-72530f88347db8ba29d740b08f9430e5][^key-2a3b073eb10067ca529a772b479ee1af][^key-dcf76ef168e993053305570762a1b4e7][^key-96fe16cc6a38a4e5efc1ad2d5a95a43a][^key-cfec4b11bb5259130cc75bcf6559ff37][^c15332421]
+## 118. Duty of highway authorities, etc., as respects bridges over certain railways or inland waterways.[^c15332431][^c15332441][^c15332451][^c15332461][^c-7c111eb3f2e076506b30a123743c1474][^c-ca338843879e60dd57e1a5b64ad5d8f1][^c-72530f88347db8ba29d740b08f9430e5][^c-2a3b073eb10067ca529a772b479ee1af][^c-dcf76ef168e993053305570762a1b4e7][^c-96fe16cc6a38a4e5efc1ad2d5a95a43a][^c-cfec4b11bb5259130cc75bcf6559ff37][^c15332421]
 
 *Extent: S*
 
@@ -194,31 +194,31 @@ but none of the said Boards shall by virtue of this subsection interfere with th
 
     Ss. 116-118 applied (with modifications) (12.8.2002) by [S.I. 2002/1997](https://www.legislation.gov.uk/uksi/2002/1997), [art. 9(1)](https://www.legislation.gov.uk/uksi/2002/1997/article/9/1)
 
-[^key-7c111eb3f2e076506b30a123743c1474]: Modification: Ss. 116-119 modified (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/4/4)
+[^c-7c111eb3f2e076506b30a123743c1474]: Modification: Ss. 116-119 modified (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/4/4)
 
-[^key-ca338843879e60dd57e1a5b64ad5d8f1]: Modification: Ss. 116-118 applied (with modifications) (3.8.2004) by [The Eden Valley Railway Order 2004 (S.I. 2004/1817)](https://www.legislation.gov.uk/uksi/2004/1817), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1817/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/1817/article/3/2)
+[^c-ca338843879e60dd57e1a5b64ad5d8f1]: Modification: Ss. 116-118 applied (with modifications) (3.8.2004) by [The Eden Valley Railway Order 2004 (S.I. 2004/1817)](https://www.legislation.gov.uk/uksi/2004/1817), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1817/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/1817/article/3/2)
 
-[^key-72530f88347db8ba29d740b08f9430e5]: Modification: Ss. 116-118 applied (with modifications) (30.11.2007) by [The East Kent Railway Order 2007 (S.I. 2007/3234)](https://www.legislation.gov.uk/uksi/2007/3234), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3234/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2007/3234/article/4/2)
+[^c-72530f88347db8ba29d740b08f9430e5]: Modification: Ss. 116-118 applied (with modifications) (30.11.2007) by [The East Kent Railway Order 2007 (S.I. 2007/3234)](https://www.legislation.gov.uk/uksi/2007/3234), [arts. 1](https://www.legislation.gov.uk/uksi/2007/3234/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2007/3234/article/4/2)
 
-[^key-2a3b073eb10067ca529a772b479ee1af]: Modification: Ss. 116-118 applied (16.8.2012) by [The Nene Valley Railway (Fletton Branch) Order 2012 (S.I. 2012/1993)](https://www.legislation.gov.uk/uksi/2012/1993), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1993/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2012/1993/article/3/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/1993/article/4))
+[^c-2a3b073eb10067ca529a772b479ee1af]: Modification: Ss. 116-118 applied (16.8.2012) by [The Nene Valley Railway (Fletton Branch) Order 2012 (S.I. 2012/1993)](https://www.legislation.gov.uk/uksi/2012/1993), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1993/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2012/1993/article/3/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/1993/article/4))
 
-[^key-dcf76ef168e993053305570762a1b4e7]: Modification: Ss. 116-118 applied (with modifications) (26.6.2014) by [The Swanage Railway Order 2014 (S.I. 2014/1604)](https://www.legislation.gov.uk/uksi/2014/1604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1604/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/1604/article/3/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/1604/article/5))
+[^c-dcf76ef168e993053305570762a1b4e7]: Modification: Ss. 116-118 applied (with modifications) (26.6.2014) by [The Swanage Railway Order 2014 (S.I. 2014/1604)](https://www.legislation.gov.uk/uksi/2014/1604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1604/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/1604/article/3/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/1604/article/5))
 
-[^key-96fe16cc6a38a4e5efc1ad2d5a95a43a]: Modification: [S. 118](https://www.legislation.gov.uk/ukpga/1968/73/section/118) applied (with modifications) (28.9.2015) by [The Ecclesbourne Valley Railway Order 2015 (S.I. 2015/1652)](https://www.legislation.gov.uk/uksi/2015/1652), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1652/article/1), [4(1)(c)](https://www.legislation.gov.uk/uksi/2015/1652/article/4/1/c) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2015/1652/article/6/5))
+[^c-96fe16cc6a38a4e5efc1ad2d5a95a43a]: Modification: [S. 118](https://www.legislation.gov.uk/ukpga/1968/73/section/118) applied (with modifications) (28.9.2015) by [The Ecclesbourne Valley Railway Order 2015 (S.I. 2015/1652)](https://www.legislation.gov.uk/uksi/2015/1652), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1652/article/1), [4(1)(c)](https://www.legislation.gov.uk/uksi/2015/1652/article/4/1/c) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2015/1652/article/6/5))
 
-[^key-cfec4b11bb5259130cc75bcf6559ff37]: Modification: [S. 118](https://www.legislation.gov.uk/ukpga/1968/73/section/118) applied (5.11.2020) by [The Wear Valley Railway (Transfer) Order 2020 (S.I. 2020/1137)](https://www.legislation.gov.uk/uksi/2020/1137), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1137/article/1), [9(1)](https://www.legislation.gov.uk/uksi/2020/1137/article/9/1) (with [arts. 6(2)](https://www.legislation.gov.uk/uksi/2020/1137/article/6/2), [9(2)](https://www.legislation.gov.uk/uksi/2020/1137/article/9/2))
+[^c-cfec4b11bb5259130cc75bcf6559ff37]: Modification: [S. 118](https://www.legislation.gov.uk/ukpga/1968/73/section/118) applied (5.11.2020) by [The Wear Valley Railway (Transfer) Order 2020 (S.I. 2020/1137)](https://www.legislation.gov.uk/uksi/2020/1137), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1137/article/1), [9(1)](https://www.legislation.gov.uk/uksi/2020/1137/article/9/1) (with [arts. 6(2)](https://www.legislation.gov.uk/uksi/2020/1137/article/6/2), [9(2)](https://www.legislation.gov.uk/uksi/2020/1137/article/9/2))
 
-[^key-dc11b3abcf8ac2b32e8c60a71f0edb75]: Textual amendment: Word in s. 118 heading substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 48(2)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/48/2) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-dc11b3abcf8ac2b32e8c60a71f0edb75]: Textual amendment: Word in s. 118 heading substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 48(2)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/48/2) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c15332521]: Modification: S. 118 amended by [Transport (London) Act 1969 (c. 35)](https://www.legislation.gov.uk/ukpga/1969/35), [Sch. 3 para. 1(1)(2)](https://www.legislation.gov.uk/ukpga/1969/35/schedule/3/paragraph/1/1/2)
 
-[^key-4ffd9de7ce5ccbaa84171c7f120098c6]: Textual amendment: Words in ss. 116-119 substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/4/2)
+[^c-4ffd9de7ce5ccbaa84171c7f120098c6]: Textual amendment: Words in ss. 116-119 substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/4/2)
 
 [^c15332581]: Textual amendment: S. 118(1A) inserted (20.3.1996) by [S.I. 1996/420](https://www.legislation.gov.uk/uksi/1996/420), [art. 2](https://www.legislation.gov.uk/uksi/1996/420/article/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/1996/420/schedule/paragraph/4)
 
-[^key-0db274742638e1e3c2d96a057bd4a09c]: Textual amendment: S. 118(1B) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 48(3)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/48/3) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-0db274742638e1e3c2d96a057bd4a09c]: Textual amendment: S. 118(1B) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 48(3)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/48/3) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-b19a01aed8190e54547b7adee5fa89f1]: Textual amendment: [S. 118(1C)](https://www.legislation.gov.uk/ukpga/1968/73/section/118/1C) inserted (30.9.2013) by [The Public Bodies (Abolition of BRB (Residuary) Limited) Order 2013 (S.I. 2013/2314)](https://www.legislation.gov.uk/uksi/2013/2314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2314/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2013/2314/article/5/3)
+[^c-b19a01aed8190e54547b7adee5fa89f1]: Textual amendment: [S. 118(1C)](https://www.legislation.gov.uk/ukpga/1968/73/section/118/1C) inserted (30.9.2013) by [The Public Bodies (Abolition of BRB (Residuary) Limited) Order 2013 (S.I. 2013/2314)](https://www.legislation.gov.uk/uksi/2013/2314), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2314/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2013/2314/article/5/3)
 
 [^c15332591]: Textual amendment: Words in s. 118(12) repealed (1.1.1993) by [New Roads and Street Works Act 1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/1991/22/schedule/9); (E.W.) [S.I. 1992/2984](https://www.legislation.gov.uk/uksi/1992/2984), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2984/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/2984/schedule/2).
 

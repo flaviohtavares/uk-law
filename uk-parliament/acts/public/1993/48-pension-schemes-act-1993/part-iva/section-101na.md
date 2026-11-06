@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101NA. Prohibition on excluding transfers of some rights without others etc[^key-fc08c9cf752d56f91a2dd9d25025ce43]
+## 101NA. Prohibition on excluding transfers of some rights without others etc[^c-fc08c9cf752d56f91a2dd9d25025ce43]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Except as mentioned in sections 96(4) and 101G(4), a pension scheme may not cont
 
 ## Annotations
 
-[^key-fc08c9cf752d56f91a2dd9d25025ce43]: Textual amendment: [S. 101NA](https://www.legislation.gov.uk/ukpga/1993/48/section/101NA) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/20) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-fc08c9cf752d56f91a2dd9d25025ce43]: Textual amendment: [S. 101NA](https://www.legislation.gov.uk/ukpga/1993/48/section/101NA) inserted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/20) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

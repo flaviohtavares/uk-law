@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371IB. Loans funded out of qualifying resources[^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371IB. Loans funded out of qualifying resources[^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,7 +62,7 @@ summary: ''
 
 is no less than the amount of the debt mentioned in subsection (8).
 
-(9A)[^key-85482eb1e0a743956a6f5e8a1df72a70] Subsection (9) does not apply if the debt incurred by the member of the CFC group as mentioned in subsection (8) represents the principal on a loan made to the member to which subsection (9B) or (9D) applies.
+(9A)[^c-85482eb1e0a743956a6f5e8a1df72a70] Subsection (9) does not apply if the debt incurred by the member of the CFC group as mentioned in subsection (8) represents the principal on a loan made to the member to which subsection (9B) or (9D) applies.
 
 (9B) This subsection applies to a loan if the member repays it within 48 hours of the loan being made.
 
@@ -102,6 +102,6 @@ except in subsection (6), references to the CFC group include references to the 
 
 ## Annotations
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
 
-[^key-85482eb1e0a743956a6f5e8a1df72a70]: Textual amendment: Ss. 371IB(9A)-(9D) inserted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 19](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/19), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)
+[^c-85482eb1e0a743956a6f5e8a1df72a70]: Textual amendment: Ss. 371IB(9A)-(9D) inserted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 19](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/19), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)

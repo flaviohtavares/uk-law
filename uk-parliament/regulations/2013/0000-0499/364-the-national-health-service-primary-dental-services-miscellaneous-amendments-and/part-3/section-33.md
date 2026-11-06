@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Amendment of regulation 17[^key-954fa8255e670dd264cd7992494550ac]
+## 33. Amendment of regulation 17[^c-954fa8255e670dd264cd7992494550ac]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In regulation 17 (finance)—
 
 ## Annotations
 
-[^key-954fa8255e670dd264cd7992494550ac]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2013/364/regulation/33) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-954fa8255e670dd264cd7992494550ac]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2013/364/regulation/33) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

@@ -1097,7 +1097,7 @@ Delegated Regulation (EU) 2015/2446 is amended as follows:
 
 It shall apply from 1 May 2016.
 
-[^key-eb6e064c8c6ae5cb6f944fbae847ef5c]...
+[^c-eb6e064c8c6ae5cb6f944fbae847ef5c]...
 
 ## ANNEX 1 — TABLE LEGEND
 
@@ -7496,7 +7496,7 @@ The supervising customs office receiving the request shall make available the fo
 
 [^c000002]: Textual amendment: Deleted by [Commission Delegated Regulation (EU) 2020/877 of 3 April 2020 amending and correcting Delegated Regulation (EU) 2015/2446 supplementing Regulation (EU) No 952/2013, and amending Delegated Regulation (EU) 2016/341 supplementing Regulation (EU) No 952/2013, laying down the Union Customs Code](https://www.legislation.gov.uk/eur/2020/877).
 
-[^key-eb6e064c8c6ae5cb6f944fbae847ef5c]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/341/signature) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [7(1)(a)](https://www.legislation.gov.uk/uksi/2019/715/regulation/7/1/a) (as amended by [S.I. 2020/1624](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1624/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb6e064c8c6ae5cb6f944fbae847ef5c]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/341/signature) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [7(1)(a)](https://www.legislation.gov.uk/uksi/2019/715/regulation/7/1/a) (as amended by [S.I. 2020/1624](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1624/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000003]: Textual amendment: Substituted by [Commission Delegated Regulation (EU) 2020/877 of 3 April 2020 amending and correcting Delegated Regulation (EU) 2015/2446 supplementing Regulation (EU) No 952/2013, and amending Delegated Regulation (EU) 2016/341 supplementing Regulation (EU) No 952/2013, laying down the Union Customs Code](https://www.legislation.gov.uk/eur/2020/877).
 

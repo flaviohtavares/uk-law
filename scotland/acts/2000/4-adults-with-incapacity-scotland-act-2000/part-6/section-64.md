@@ -33,8 +33,8 @@ summary: ''
 - (a) place the adult in a hospital for the treatment of mental disorder against his will; [^c18303771]...
 - (b) consent on behalf of the adult to any form of treatment in relation to which the authority conferred by section 47(2) does not apply by virtue of regulations made under section 48(2)[^c19652981];[^c18303811]
 - (c) make, on behalf of the adult, a request under section 4(1) of the Anatomy Act 1984 (c. 14);
-- (d) give, on behalf of the adult, an authorisation under, or by virtue of, section 6(1), 16F(1)(a),[^key-a75e4a16bf9a855b516fbac29d0363f6] 17, 29(1) or 42(1) of the Human Tissue(Scotland) Act 2006 (asp 4);
-- (da)[^key-3e5bb396169bf867fee8275ab6651b2e] withdraw an authorisation, on behalf of the adult, by virtue of section 6A(1) of that Act;
+- (d) give, on behalf of the adult, an authorisation under, or by virtue of, section 6(1), 16F(1)(a),[^c-a75e4a16bf9a855b516fbac29d0363f6] 17, 29(1) or 42(1) of the Human Tissue(Scotland) Act 2006 (asp 4);
+- (da)[^c-3e5bb396169bf867fee8275ab6651b2e] withdraw an authorisation, on behalf of the adult, by virtue of section 6A(1) of that Act;
 - (db) make, on behalf of the adult, an opt-out declaration by virtue of section 6B(1) of that Act;
 - (dc) withdraw an opt-out declaration, on behalf of the adult, by virtue of section 6C(1) of that Act; or
 - (e) make, on behalf of the adult, a nomination under section 30(1) of that Act
@@ -81,6 +81,6 @@ every month as to his exercise of those powers.
 
 [^c18303811]: Textual amendment: S. 64(2)(c)-(e) inserted (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 57(3)(b)](https://www.legislation.gov.uk/asp/2006/4/section/57/3/b), [62](https://www.legislation.gov.uk/asp/2006/4/section/62); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-a75e4a16bf9a855b516fbac29d0363f6]: Textual amendment: S. 64(2)(da)-(dc) inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 28(2)(b)(ii)](https://www.legislation.gov.uk/asp/2019/11/section/28/2/b/ii), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-a75e4a16bf9a855b516fbac29d0363f6]: Textual amendment: S. 64(2)(da)-(dc) inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 28(2)(b)(ii)](https://www.legislation.gov.uk/asp/2019/11/section/28/2/b/ii), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-3e5bb396169bf867fee8275ab6651b2e]: Textual amendment: Word in s. 64(2)(d) inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 28(2)(b)(i)](https://www.legislation.gov.uk/asp/2019/11/section/28/2/b/i), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-3e5bb396169bf867fee8275ab6651b2e]: Textual amendment: Word in s. 64(2)(d) inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 28(2)(b)(i)](https://www.legislation.gov.uk/asp/2019/11/section/28/2/b/i), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

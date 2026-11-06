@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Grounds hearing: non-acceptance of facts supporting ground[^key-3f912861d601768a0af1a63ff9bf469e]
+## 85. Grounds hearing: non-acceptance of facts supporting ground[^c-3f912861d601768a0af1a63ff9bf469e]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ In section 90 of the 2011 Act—
 
 ## Annotations
 
-[^key-3f912861d601768a0af1a63ff9bf469e]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2014/8/section/85) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)
+[^c-3f912861d601768a0af1a63ff9bf469e]: Commencement: [S. 85](https://www.legislation.gov.uk/asp/2014/8/section/85) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)

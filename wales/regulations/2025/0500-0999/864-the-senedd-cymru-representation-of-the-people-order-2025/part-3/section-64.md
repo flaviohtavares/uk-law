@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Inspection of returns and declarations[^key-4fb53b81e99ed1e0ff23f5d51394b69d]
+## 64. Inspection of returns and declarations[^c-4fb53b81e99ed1e0ff23f5d51394b69d]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fb53b81e99ed1e0ff23f5d51394b69d]: Commencement: Art. 64 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4fb53b81e99ed1e0ff23f5d51394b69d]: Commencement: Art. 64 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

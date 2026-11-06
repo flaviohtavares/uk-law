@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Amendment of the Human Medicines (Amendment etc.) (EU Exit) Regulations 2019[^key-cb8a4f28a963a7ae37d5e17037f4f525]
+## 4. Amendment of the Human Medicines (Amendment etc.) (EU Exit) Regulations 2019[^c-cb8a4f28a963a7ae37d5e17037f4f525]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 [^c24373811] are
 
 ## Annotations
 
-[^key-cb8a4f28a963a7ae37d5e17037f4f525]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-cb8a4f28a963a7ae37d5e17037f4f525]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
 
 [^c24373811]: Marginal citation: [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. National performance monitoring[^key-94eddd5a6b3ea702807219c49622530c]
+## 47. National performance monitoring[^c-94eddd5a6b3ea702807219c49622530c]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94eddd5a6b3ea702807219c49622530c]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2019/13/section/47) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
+[^c-94eddd5a6b3ea702807219c49622530c]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2019/13/section/47) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)

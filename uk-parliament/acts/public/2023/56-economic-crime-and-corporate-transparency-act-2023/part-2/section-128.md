@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Power for HMRC to obtain accounts[^key-ceb1ee6ce0bf0395bfb4622f3b005031]
+## 128. Power for HMRC to obtain accounts[^c-ceb1ee6ce0bf0395bfb4622f3b005031]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ After section 10F of the Limited Partnerships Act 1907 (inserted by section 126 
 
 ## Annotations
 
-[^key-ceb1ee6ce0bf0395bfb4622f3b005031]: Commencement: S. 128 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-ceb1ee6ce0bf0395bfb4622f3b005031]: Commencement: S. 128 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

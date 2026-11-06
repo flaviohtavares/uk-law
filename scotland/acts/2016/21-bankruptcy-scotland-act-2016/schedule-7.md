@@ -24,7 +24,7 @@ summary: ''
 
 ### Arrestments and attachments
 
-**1.**[^key-9704da5d4e0360698d6c38f80b964556] (1) Subject to sub-paragraph (2), all arrestments and attachments which have been executed within 60 days prior to the constitution of the apparent insolvency of the debtor, or within 4 months after its constitution, rank *pari passu* as if they had all been executed on the same date.
+**1.**[^c-9704da5d4e0360698d6c38f80b964556] (1) Subject to sub-paragraph (2), all arrestments and attachments which have been executed within 60 days prior to the constitution of the apparent insolvency of the debtor, or within 4 months after its constitution, rank *pari passu* as if they had all been executed on the same date.
 
 (2) Any such arrestment which is executed on the dependence of an action must be followed up without undue delay.
 
@@ -47,7 +47,7 @@ is accountable for the sum recovered to those who, by virtue of this Act, may ev
 
 ### Exemptions from stamp or other duties for conveyances, deeds etc. relating to sequestrated estates
 
-**2.**[^key-781d09e6dd0260a2a6db18aada6f1ff1] Any—
+**2.**[^c-781d09e6dd0260a2a6db18aada6f1ff1] Any—
 
 - (a) conveyance, assignation, instrument, discharge, writing or deed relating solely to the estate of a debtor which has been or may be sequestrated, under either this or any former Act, being estate which after the execution of the document in question is and remains the property of the debtor, for the benefit of the debtor's creditors, or of the trustee in the sequestration,
 - (b) discharge to the debtor,
@@ -60,6 +60,6 @@ is exempt from all stamp duties or other Government duty.
 
 ## Annotations
 
-[^key-9704da5d4e0360698d6c38f80b964556]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/7/paragraph/1) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-9704da5d4e0360698d6c38f80b964556]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/7/paragraph/1) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-781d09e6dd0260a2a6db18aada6f1ff1]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/asp/2016/21/schedule/7/paragraph/2) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-781d09e6dd0260a2a6db18aada6f1ff1]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/asp/2016/21/schedule/7/paragraph/2) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -36,7 +36,7 @@ Any of the following offences against an adult —
 - (f) an offence of inducement, threat or deception to procure sexual activity with a person with a mental disorder under section 34 of that Act, if the touching involved fell within subsection (2) of that section, and
 - (g) an offence of causing a person with a mental disorder to engage in or agree to engage in sexual activity by inducement, threat or deception under section 35 of that Act, if the activity fell within subsection (2) of that section.
 
-**1A.**[^key-9aacf1cd549d90d2f09681a663dafb03] Any of the following offences—
+**1A.**[^c-9aacf1cd549d90d2f09681a663dafb03] Any of the following offences—
 
 - (a) an offence of virginity testing under section 136 of the Health and Care Act 2022,
 - (b) an offence of offering to carry out virginity testing under section 137 of that Act,
@@ -57,7 +57,7 @@ An offence under section 1 (rape) and 18 (rape of a young child) of the Sexual O
 
 **6.** An offence under section 3 of the Sexual Offences (Amendment) Act 2000 [^c20747591] (abuse of trust).
 
-**6A.**[^key-2a1011c216c8da1323907fb06b9e1a38] Any of the following offences—
+**6A.**[^c-2a1011c216c8da1323907fb06b9e1a38] Any of the following offences—
 
 - (a) an offence of virginity testing under section 140 of the Health and Care Act 2022,
 - (b) an offence of offering to carry out virginity testing under section 141 of that Act,
@@ -76,7 +76,7 @@ An offence under Article 5 (rape) and Article 12 (rape of a child under 13) of t
 
 **10.** An offence contrary to Article 15 of the Criminal Justice (Evidence, etc) (Northern Ireland) Order 1988 [^c20747631] (possession of indecent photographs of children).
 
-**10A.**[^key-686867f25be956f56db7b5ca17a85eb7] Any of the following offences—
+**10A.**[^c-686867f25be956f56db7b5ca17a85eb7] Any of the following offences—
 
 - (a) an offence of virginity testing under section 144 of the Health and Care Act 2022,
 - (b) an offence of offering to carry out virginity testing under section 145 of that Act,
@@ -139,7 +139,7 @@ Regulation 26(7)
 
 ## Annotations
 
-[^key-9aacf1cd549d90d2f09681a663dafb03]: Textual amendment: [Sch. 4 Pt. 1 para. 1A](https://www.legislation.gov.uk/uksi/2011/581/schedule/4/part/1/paragraph/1A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [133(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/133/2/a)
+[^c-9aacf1cd549d90d2f09681a663dafb03]: Textual amendment: [Sch. 4 Pt. 1 para. 1A](https://www.legislation.gov.uk/uksi/2011/581/schedule/4/part/1/paragraph/1A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [133(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/133/2/a)
 
 [^c20747561]: Marginal citation: [2009 asp 9](https://www.legislation.gov.uk/asp/2009/9).
 
@@ -149,7 +149,7 @@ Regulation 26(7)
 
 [^c20747591]: Marginal citation: [2000 c.44](https://www.legislation.gov.uk/ukpga/2000/44). Section 3 was amended by paragraph 62 of Schedule 28 to the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) and repealed by Schedule 6 of the Sexual Offences (Scotland) Act 2009 (not yet in force).
 
-[^key-2a1011c216c8da1323907fb06b9e1a38]: Textual amendment: [Sch. 4 Pt. 1 para. 6A](https://www.legislation.gov.uk/uksi/2011/581/schedule/4/part/1/paragraph/6A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [133(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/133/2/b)
+[^c-2a1011c216c8da1323907fb06b9e1a38]: Textual amendment: [Sch. 4 Pt. 1 para. 6A](https://www.legislation.gov.uk/uksi/2011/581/schedule/4/part/1/paragraph/6A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [133(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/133/2/b)
 
 [^c20747601]: Marginal citation: [S.I. 2008/1769](https://www.legislation.gov.uk/uksi/2008/1769) (“**the 2008 Order**”).
 
@@ -159,4 +159,4 @@ Regulation 26(7)
 
 [^c20747631]: Marginal citation: [S.I. 1988/1847 (N.I.17)](https://www.legislation.gov.uk/nisi/1988/1847). Article 15 was amended by section 41(4) of the [Criminal Justice and Courts Services Act 2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), [section 84(11)](https://www.legislation.gov.uk/ukpga/2000/43/section/84/11) of the 1994 Act, paragraph 25 of Schedule 26 to the Criminal Justice and Immigration Act 2008 and article 42(7) of the 2008 Order.
 
-[^key-686867f25be956f56db7b5ca17a85eb7]: Textual amendment: [Sch. 4 Pt. 1 para. 10A](https://www.legislation.gov.uk/uksi/2011/581/schedule/4/part/1/paragraph/10A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [133(2)(c)](https://www.legislation.gov.uk/uksi/2022/634/regulation/133/2/c)
+[^c-686867f25be956f56db7b5ca17a85eb7]: Textual amendment: [Sch. 4 Pt. 1 para. 10A](https://www.legislation.gov.uk/uksi/2011/581/schedule/4/part/1/paragraph/10A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [133(2)(c)](https://www.legislation.gov.uk/uksi/2022/634/regulation/133/2/c)

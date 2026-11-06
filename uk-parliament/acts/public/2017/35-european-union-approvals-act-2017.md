@@ -32,18 +32,18 @@ European Union (Approvals) Act 2017 (repealed)
 
 2017 c. 35
 
-[^key-fb41496639e863874e6ce45cecaa6688]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb41496639e863874e6ce45cecaa6688]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Approval of draft decisions under Article 352 of TFEU[^key-fb41496639e863874e6ce45cecaa6688]
+## 1. Approval of draft decisions under Article 352 of TFEU[^c-fb41496639e863874e6ce45cecaa6688]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extent, commencement and short title[^key-fb41496639e863874e6ce45cecaa6688]
+## 2. Extent, commencement and short title[^c-fb41496639e863874e6ce45cecaa6688]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb41496639e863874e6ce45cecaa6688]: Textual amendment: Act repealed (28.11.2018) by [The European Union (Withdrawal) Act 2018 (Consequential Amendments) Regulations 2018 (S.I. 2018/1242)](https://www.legislation.gov.uk/uksi/2018/1242), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1242/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1242/schedule/1/part/1) (with [Sch. 1 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/1242/schedule/1/paragraph/2))
+[^c-fb41496639e863874e6ce45cecaa6688]: Textual amendment: Act repealed (28.11.2018) by [The European Union (Withdrawal) Act 2018 (Consequential Amendments) Regulations 2018 (S.I. 2018/1242)](https://www.legislation.gov.uk/uksi/2018/1242), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1242/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1242/schedule/1/part/1) (with [Sch. 1 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/1242/schedule/1/paragraph/2))

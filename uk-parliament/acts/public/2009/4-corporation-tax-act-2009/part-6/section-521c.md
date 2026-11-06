@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 521C. Shares accounted for as liabilities[^key-f4c34e97ba514f5b1f945ef25a810a36][^key-596eba3b2e03b2e5eb5b680e98204f9d]
+## 521C. Shares accounted for as liabilities[^c-f4c34e97ba514f5b1f945ef25a810a36][^c-596eba3b2e03b2e5eb5b680e98204f9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4c34e97ba514f5b1f945ef25a810a36]: Modification: S. 521C applied by 2010 c. 8, s. 371SQ(2) (as inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1))
+[^c-f4c34e97ba514f5b1f945ef25a810a36]: Modification: S. 521C applied by 2010 c. 8, s. 371SQ(2) (as inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1))
 
-[^key-596eba3b2e03b2e5eb5b680e98204f9d]: Textual amendment: Pt. 6 Ch. 6A inserted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/4)[12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)
+[^c-596eba3b2e03b2e5eb5b680e98204f9d]: Textual amendment: Pt. 6 Ch. 6A inserted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/4)[12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)

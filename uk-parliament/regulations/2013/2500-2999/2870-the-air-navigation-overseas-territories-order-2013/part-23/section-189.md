@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Application of the Order to Territory-controlled aircraft not registered in the Territory[^key-5bbc48c603ed0355037228fff3d27fdc]
+## 189. Application of the Order to Territory-controlled aircraft not registered in the Territory[^c-5bbc48c603ed0355037228fff3d27fdc]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bbc48c603ed0355037228fff3d27fdc]: Commencement: [Art. 189](https://www.legislation.gov.uk/uksi/2013/2870/article/189) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-5bbc48c603ed0355037228fff3d27fdc]: Commencement: [Art. 189](https://www.legislation.gov.uk/uksi/2013/2870/article/189) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

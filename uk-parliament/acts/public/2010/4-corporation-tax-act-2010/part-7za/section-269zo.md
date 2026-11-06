@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269ZO. Calculation of solvency loss[^key-df4edca86bcded2474d7f6ddaaeaa41e]
+## 269ZO. Calculation of solvency loss[^c-df4edca86bcded2474d7f6ddaaeaa41e]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ of variations in items of basic own funds for the purposes of the calculation.
 
 ## Annotations
 
-[^key-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)
+[^c-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)

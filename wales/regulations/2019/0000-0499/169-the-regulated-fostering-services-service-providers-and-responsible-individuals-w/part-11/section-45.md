@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Policies and procedures to foster parents[^key-aa0674a46388e230b97978ac951abed1]
+## 45. Policies and procedures to foster parents[^c-aa0674a46388e230b97978ac951abed1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must ensure that foster parents are familiar with and act i
 
 ## Annotations
 
-[^key-aa0674a46388e230b97978ac951abed1]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2019/169/regulation/45) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-aa0674a46388e230b97978ac951abed1]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2019/169/regulation/45) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

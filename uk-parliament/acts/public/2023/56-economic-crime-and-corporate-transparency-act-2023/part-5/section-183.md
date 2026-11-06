@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Money laundering: exemptions for mixed-property transactions[^key-aae8cdcf5877ce95bffc08c123d28407][^key-9f1ab46b348db5e6af97c806f452582e]
+## 183. Money laundering: exemptions for mixed-property transactions[^c-aae8cdcf5877ce95bffc08c123d28407][^c-9f1ab46b348db5e6af97c806f452582e]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aae8cdcf5877ce95bffc08c123d28407]: Commencement: S. 183 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-aae8cdcf5877ce95bffc08c123d28407]: Commencement: S. 183 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-9f1ab46b348db5e6af97c806f452582e]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2023/56/section/183) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/f)
+[^c-9f1ab46b348db5e6af97c806f452582e]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2023/56/section/183) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/f)

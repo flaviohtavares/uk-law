@@ -32,7 +32,7 @@ In the application of this Act to Northern Ireland—
 
 (4) References to a Government department shall be construed as including references to a Northern Ireland department[^c9690] and in relation to a Northern Ireland department references to the Treasury shall be construed as references to the Department of Finance and Personnel[^c9691]:
 
-(4A)[^key-d8f711a33ae652ad019c2e95bf084035] Any reference to a claimant includes a reference to a plaintiff.
+(4A)[^c-d8f711a33ae652ad019c2e95bf084035] Any reference to a claimant includes a reference to a plaintiff.
 
 (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c9692]
 
@@ -48,6 +48,6 @@ In the application of this Act to Northern Ireland—
 
 [^c9691]: Textual amendment: Words added by [Copyright, Designs and Patents Act 1988 (c. 48, SIF 67A)](https://www.legislation.gov.uk/ukpga/1988/48) s. 272, Sch. 3 para. 33(5)
 
-[^key-d8f711a33ae652ad019c2e95bf084035]: Textual amendment: S. 46(4A) inserted (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2006/1028/schedule/1/paragraph/6)
+[^c-d8f711a33ae652ad019c2e95bf084035]: Textual amendment: S. 46(4A) inserted (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2006/1028/schedule/1/paragraph/6)
 
 [^c9692]: Textual amendment: S. 46(5) repealed by [Northern Ireland Act 1962 (c. 30)](https://www.legislation.gov.uk/ukpga/1962/30), [Sch. 4 Pt. IV](https://www.legislation.gov.uk/ukpga/1962/30/schedule/4/part/IV).

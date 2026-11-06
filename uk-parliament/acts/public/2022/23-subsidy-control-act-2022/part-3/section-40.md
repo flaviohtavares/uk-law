@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Mergers and acquisitions[^key-776d3b10462c82f74d8e845ab6f29fc6][^key-af7c3d5787685e9b97b776489bf14239]
+## 40. Mergers and acquisitions[^c-776d3b10462c82f74d8e845ab6f29fc6][^c-af7c3d5787685e9b97b776489bf14239]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-776d3b10462c82f74d8e845ab6f29fc6]: Commencement: S. 40 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-776d3b10462c82f74d8e845ab6f29fc6]: Commencement: S. 40 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-af7c3d5787685e9b97b776489bf14239]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/23/section/40) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-af7c3d5787685e9b97b776489bf14239]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2022/23/section/40) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

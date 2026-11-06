@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. HMICS reports: other inquiries[^key-4383dc7b67036ff7bb93e81f48d54aa9]
+## 79. HMICS reports: other inquiries[^c-4383dc7b67036ff7bb93e81f48d54aa9]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4383dc7b67036ff7bb93e81f48d54aa9]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2012/8/section/79) in force at 1.1.2013 by [S.S.I. 2012/333](https://www.legislation.gov.uk/ssi/2012/333), [art. 2](https://www.legislation.gov.uk/ssi/2012/333/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/333/schedule) (with [Sch. 2 para. 2(7)](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/2/7)[3](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/3))
+[^c-4383dc7b67036ff7bb93e81f48d54aa9]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2012/8/section/79) in force at 1.1.2013 by [S.S.I. 2012/333](https://www.legislation.gov.uk/ssi/2012/333), [art. 2](https://www.legislation.gov.uk/ssi/2012/333/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/333/schedule) (with [Sch. 2 para. 2(7)](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/2/7)[3](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/3))

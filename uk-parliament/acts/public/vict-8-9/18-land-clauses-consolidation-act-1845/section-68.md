@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 68. †To be settled by arbitration or jury, at the option of the party claiming compensation.[^c5583681][^c5583691][^c5583701][^c5583711][^c5583721][^key-1decd1a163b58ed0f1861e29160b840e][^c5583671]
+## 68. †To be settled by arbitration or jury, at the option of the party claiming compensation.[^c5583681][^c5583691][^c5583701][^c5583711][^c5583721][^c-1decd1a163b58ed0f1861e29160b840e][^c5583671]
 
 *Extent: E+W+N.I.*
 
@@ -34,7 +34,7 @@ If any party shall be entitled to any compensation in respect of any lands, or o
 
 [^c5583721]: Modification: S. 68 excluded by [Town and Country Planning Act 1990 (c.8, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/8), [s. 237(4)](https://www.legislation.gov.uk/ukpga/1990/8/section/237/4)
 
-[^key-1decd1a163b58ed0f1861e29160b840e]: Modification: S. 68 applied (9.1.2014) by [The National Grid (King’s Lynn B Power Station Connection) Order 2013 (S.I. 2013/3200)](https://www.legislation.gov.uk/uksi/2013/3200), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3200/article/1), [19(4)(a)](https://www.legislation.gov.uk/uksi/2013/3200/article/19/4/a) (with [art. 19(5)](https://www.legislation.gov.uk/uksi/2013/3200/article/19/5))
+[^c-1decd1a163b58ed0f1861e29160b840e]: Modification: S. 68 applied (9.1.2014) by [The National Grid (King’s Lynn B Power Station Connection) Order 2013 (S.I. 2013/3200)](https://www.legislation.gov.uk/uksi/2013/3200), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3200/article/1), [19(4)(a)](https://www.legislation.gov.uk/uksi/2013/3200/article/19/4/a) (with [art. 19(5)](https://www.legislation.gov.uk/uksi/2013/3200/article/19/5))
 
 [^c5583671]: Modification: A dagger appended to a marginal note means that it is no longer accurate.
 

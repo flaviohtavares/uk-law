@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 304G. Sections 304D and 304E: exclusion of public from review proceedings[^key-bdb59840e419b2c9c45946b5c53e890c][^key-99a976f6c0eb62a36cf6e9caec64ec3b]
+## 304G. Sections 304D and 304E: exclusion of public from review proceedings[^c-bdb59840e419b2c9c45946b5c53e890c][^c-99a976f6c0eb62a36cf6e9caec64ec3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdb59840e419b2c9c45946b5c53e890c]: Textual amendment: Ss. 304F-304H inserted (16.10.2024) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 12](https://www.legislation.gov.uk/ukpga/2016/21/section/12), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)
+[^c-bdb59840e419b2c9c45946b5c53e890c]: Textual amendment: Ss. 304F-304H inserted (16.10.2024) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 12](https://www.legislation.gov.uk/ukpga/2016/21/section/12), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)
 
-[^key-99a976f6c0eb62a36cf6e9caec64ec3b]: Textual amendment: [Pt. 12A heading and s. 304A](https://www.legislation.gov.uk/ukpga/2006/52/part/12A) inserted (16.10.2024) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 7](https://www.legislation.gov.uk/ukpga/2016/21/section/7), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)
+[^c-99a976f6c0eb62a36cf6e9caec64ec3b]: Textual amendment: [Pt. 12A heading and s. 304A](https://www.legislation.gov.uk/ukpga/2006/52/part/12A) inserted (16.10.2024) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 7](https://www.legislation.gov.uk/ukpga/2016/21/section/7), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2024/1032](https://www.legislation.gov.uk/uksi/2024/1032), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/1032/regulation/2/1)

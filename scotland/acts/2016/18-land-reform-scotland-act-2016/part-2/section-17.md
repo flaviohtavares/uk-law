@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Committees[^key-62105e156a87e83198d58e511dad22fa]
+## 17. Committees[^c-62105e156a87e83198d58e511dad22fa]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62105e156a87e83198d58e511dad22fa]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/18/section/17) in force at 1.11.2016 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2016/250/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/250/regulation/3))
+[^c-62105e156a87e83198d58e511dad22fa]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/18/section/17) in force at 1.11.2016 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2016/250/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/250/regulation/3))

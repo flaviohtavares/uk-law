@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Additional smoke-free places in Northern Ireland[^key-5f1def03413fbccfd5479d4bbcf48e59]
+## 159. Additional smoke-free places in Northern Ireland[^c-5f1def03413fbccfd5479d4bbcf48e59]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f1def03413fbccfd5479d4bbcf48e59]: Commencement: S. 159 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)
+[^c-5f1def03413fbccfd5479d4bbcf48e59]: Commencement: S. 159 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)

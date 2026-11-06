@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Forfeiture: other terrorism offences and offences with a terrorist connection[^key-205f8fa0b2a709b132db7684e5358415]
+## 35. Forfeiture: other terrorism offences and offences with a terrorist connection[^c-205f8fa0b2a709b132db7684e5358415]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-205f8fa0b2a709b132db7684e5358415]: Commencement: S. 35 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+[^c-205f8fa0b2a709b132db7684e5358415]: Commencement: S. 35 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)

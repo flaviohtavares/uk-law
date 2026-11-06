@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Disregard of capital of child or young person[^key-49d2dcb9b3f2ab6ffc207db525ab8934]
+## 33. Disregard of capital of child or young person[^c-49d2dcb9b3f2ab6ffc207db525ab8934]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The capital of a child or young person who is a member of the claimant’s famil
 
 ## Annotations
 
-[^key-49d2dcb9b3f2ab6ffc207db525ab8934]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1991/2887/regulation/33) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-49d2dcb9b3f2ab6ffc207db525ab8934]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1991/2887/regulation/33) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)

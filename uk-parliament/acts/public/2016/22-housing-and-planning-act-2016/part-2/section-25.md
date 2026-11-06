@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Banned person may not hold HMO licence etc[^key-aecafd2aaeacca815b6e2c66d11ea1e9]
+## 25. Banned person may not hold HMO licence etc[^c-aecafd2aaeacca815b6e2c66d11ea1e9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 2 changes the rules about granting and revoking licences under Parts 2 
 
 ## Annotations
 
-[^key-aecafd2aaeacca815b6e2c66d11ea1e9]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2016/22/section/25) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-aecafd2aaeacca815b6e2c66d11ea1e9]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2016/22/section/25) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Modification of standard terms[^key-e05e6768ae462b077cfab04daf207524]
+## 78. Modification of standard terms[^c-e05e6768ae462b077cfab04daf207524]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e05e6768ae462b077cfab04daf207524]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2023/52/section/78) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-e05e6768ae462b077cfab04daf207524]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2023/52/section/78) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Operation of radio in aircraft[^key-6ac1b3e4362792167b74627234976cac]
+## 59. Operation of radio in aircraft[^c-6ac1b3e4362792167b74627234976cac]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ac1b3e4362792167b74627234976cac]: Commencement: [Art. 59](https://www.legislation.gov.uk/uksi/2015/870/article/59) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-6ac1b3e4362792167b74627234976cac]: Commencement: [Art. 59](https://www.legislation.gov.uk/uksi/2015/870/article/59) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

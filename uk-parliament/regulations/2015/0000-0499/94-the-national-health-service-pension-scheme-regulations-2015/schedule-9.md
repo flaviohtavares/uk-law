@@ -28,12 +28,12 @@ Regulation 24
 
 In this Schedule—
 
-- “[^key-1e97021c4b413d8c6c03f78408527b01]**index adjustment**” means—
+- “[^c-1e97021c4b413d8c6c03f78408527b01]**index adjustment**” means—
   - (a) in relation to the opening balance of earned pension for a scheme year (other than the opening balance of club transfer earned pension), the percentage increase or decrease in prices specified in an order (in respect of the NHS Pension Scheme 2015) made by the Treasury under section 9(2) of the 2013 Act in relation to the previous scheme year, plus 1.5%; and
   - (b) in relation to the opening balance of club transfer earned pension for a scheme year, the adjustment that is—
     - (i) equal to the adjustment that would apply to the opening balance of that amount of earned pension under the sending scheme for the previous scheme year, and
     - (ii) applied to the opening balance of club transfer earned on the date that the order (in respect of the NHS Pension Scheme 2015) made by the Treasury under section 9(2) of the 2013 Act in relation to the previous scheme year, has effect;
-- “**AP index adjustment**” means, in relation to the opening balance of additional pension for a scheme year, the percentage increase or decrease in prices specified in an order (in respect of the NHS Pension Scheme 2015)[^key-15b2fdd2bb20d33bcc3ef5f8896a7504] made by the Treasury under section 9(2) of the 2013 Act in relation to the previous scheme year;
+- “**AP index adjustment**” means, in relation to the opening balance of additional pension for a scheme year, the percentage increase or decrease in prices specified in an order (in respect of the NHS Pension Scheme 2015)[^c-15b2fdd2bb20d33bcc3ef5f8896a7504] made by the Treasury under section 9(2) of the 2013 Act in relation to the previous scheme year;
 - “**the leaving year**” means the scheme year in which the relevant last day falls;
 - “**the relevant last day**” means—
   - (a) for a member who has made a partial retirement application, the day before the entitlement day for a partial retirement pension; and
@@ -45,9 +45,9 @@ For the purpose of this Schedule, a person who re-enters pensionable service aft
 
 #### 3. Meaning of “leaver index adjustment”
 
-(1) Subject to sub-paragraph 2A, the[^key-a7bab61a0dcbdccad6588469f7d46864] leaver index adjustment for an amount of accrued earned pension other than an amount of club transfer accrued earned pension is an amount calculated as follows—
+(1) Subject to sub-paragraph 2A, the[^c-a7bab61a0dcbdccad6588469f7d46864] leaver index adjustment for an amount of accrued earned pension other than an amount of club transfer accrued earned pension is an amount calculated as follows—
 
-- *Step 1* Add 1.5 to the percentage increase or decrease in prices specified in an order (in respect of the NHS Pension Scheme 2015)[^key-ca2dd02fcd852af04ee1816d552dbed1] made by the Treasury under section 9(2) of the 2013 Act in relation to the leaving year.
+- *Step 1* Add 1.5 to the percentage increase or decrease in prices specified in an order (in respect of the NHS Pension Scheme 2015)[^c-ca2dd02fcd852af04ee1816d552dbed1] made by the Treasury under section 9(2) of the 2013 Act in relation to the leaving year.
 - *Step 2* Multiply the result at Step 1 by
 
   where—
@@ -58,12 +58,12 @@ For the purpose of this Schedule, a person who re-enters pensionable service aft
   The resulting percentage is the leaver index percentage.
 - *Step 3* Multiply the amount of accrued earned pension by the leaver index percentage. The resulting amount is the leaver index adjustment.
 
-(2)[^key-78d1ce0a7170012c04acfe5948960e09] Subject to sub-paragraph 2A, the leaver index adjustment for an amount of club transfer accrued earned pension is—
+(2)[^c-78d1ce0a7170012c04acfe5948960e09] Subject to sub-paragraph 2A, the leaver index adjustment for an amount of club transfer accrued earned pension is—
 
 - (a) equal to the adjustment that would apply under the sending scheme to an amount of accrued earned pension equal to the amount of club transfer accrued earned pension specified in the active member’s account at the end of the relevant last day; and
 - (b) applied to the amount of club transfer earned pension at the end of the relevant last day on the date that the order (in respect of the NHS Pension Scheme 2015) made by the Treasury under section 9(2) of the 2013 Act in relation to the previous scheme year, has effect.
 
-(2A)[^key-92ff2ac880aed0674b0a6694518ba763] If the amount of the leaver index adjustment under sub-paragraphs (1) or (2) is an amount that is less than zero, the amount of the leaver index adjustment for the purposes of those paragraphs is zero.
+(2A)[^c-92ff2ac880aed0674b0a6694518ba763] If the amount of the leaver index adjustment under sub-paragraphs (1) or (2) is an amount that is less than zero, the amount of the leaver index adjustment for the purposes of those paragraphs is zero.
 
 (3) In this paragraph, “**complete months**” includes an incomplete month that consists of at least 16 days.
 
@@ -74,7 +74,7 @@ For the purpose of this Schedule, a person who re-enters pensionable service aft
 (2) The leaver AP index adjustment is an amount equal to the amount of leaver index adjustment found if—
 
 - (a) the accrued additional pension were an accrued earned pension; and
-- (b) 1.5 is not added to the percentage increase or decrease in prices specified in an order (in respect of the NHS Pension Scheme 2015)[^key-47aeb8bc47d48442f20087e32a6908f3] made by the Treasury in Step 1 of paragraph 3(1).
+- (b) 1.5 is not added to the percentage increase or decrease in prices specified in an order (in respect of the NHS Pension Scheme 2015)[^c-47aeb8bc47d48442f20087e32a6908f3] made by the Treasury in Step 1 of paragraph 3(1).
 
 #### 5. Meaning of “full retirement earned pension”
 
@@ -177,12 +177,12 @@ In these Regulations, “**conversion amount**”, in relation to any pension co
 
 #### 15. Actuarial reduction buy-out
 
-In relation to a scheme year which falls within a buy-out period (see regulation 45(4) and (5))[^key-894da0467dc29f2a990efd3d6c13a391] the entry in the account relating to the standard earned pension must note—
+In relation to a scheme year which falls within a buy-out period (see regulation 45(4) and (5))[^c-894da0467dc29f2a990efd3d6c13a391] the entry in the account relating to the standard earned pension must note—
 
 - (a) that a buy-out election has effect (unless it is revoked); and
 - (b) the number of years in respect of which the actuarial reduction is to be bought out.
 
-### PART 2A — Active member’s account for unqualified members[^key-93f241adf3480ad37e7ae0cad30c8e36]
+### PART 2A — Active member’s account for unqualified members[^c-93f241adf3480ad37e7ae0cad30c8e36]
 
 #### 15A. Closure of an active member’s account
 
@@ -418,20 +418,20 @@ The deferred member's account must specify—
 
 ## Annotations
 
-[^key-1e97021c4b413d8c6c03f78408527b01]: Textual amendment: Words in [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/paragraph/1) substituted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2023/301/regulation/17/2/a)
+[^c-1e97021c4b413d8c6c03f78408527b01]: Textual amendment: Words in [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/paragraph/1) substituted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2023/301/regulation/17/2/a)
 
-[^key-15b2fdd2bb20d33bcc3ef5f8896a7504]: Textual amendment: Words in [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/paragraph/1) inserted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [17(2)(b)](https://www.legislation.gov.uk/uksi/2023/301/regulation/17/2/b)
+[^c-15b2fdd2bb20d33bcc3ef5f8896a7504]: Textual amendment: Words in [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/paragraph/1) inserted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [17(2)(b)](https://www.legislation.gov.uk/uksi/2023/301/regulation/17/2/b)
 
-[^key-a7bab61a0dcbdccad6588469f7d46864]: Textual amendment: Words in [Sch. 9 para. 3(1)](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/paragraph/3/1) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [46(2)(a)](https://www.legislation.gov.uk/uksi/2017/275/regulation/46/2/a)
+[^c-a7bab61a0dcbdccad6588469f7d46864]: Textual amendment: Words in [Sch. 9 para. 3(1)](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/paragraph/3/1) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [46(2)(a)](https://www.legislation.gov.uk/uksi/2017/275/regulation/46/2/a)
 
-[^key-ca2dd02fcd852af04ee1816d552dbed1]: Textual amendment: Words in [Sch. 9 para. 3(1)](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/paragraph/3/1) inserted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [17(3)(a)](https://www.legislation.gov.uk/uksi/2023/301/regulation/17/3/a)
+[^c-ca2dd02fcd852af04ee1816d552dbed1]: Textual amendment: Words in [Sch. 9 para. 3(1)](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/paragraph/3/1) inserted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [17(3)(a)](https://www.legislation.gov.uk/uksi/2023/301/regulation/17/3/a)
 
-[^key-78d1ce0a7170012c04acfe5948960e09]: Textual amendment: [Sch. 9 para. 3(2)](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/paragraph/3/2) substituted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [17(3)(b)](https://www.legislation.gov.uk/uksi/2023/301/regulation/17/3/b)
+[^c-78d1ce0a7170012c04acfe5948960e09]: Textual amendment: [Sch. 9 para. 3(2)](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/paragraph/3/2) substituted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [17(3)(b)](https://www.legislation.gov.uk/uksi/2023/301/regulation/17/3/b)
 
-[^key-92ff2ac880aed0674b0a6694518ba763]: Textual amendment: [Sch. 9 para. 3(2A)](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/paragraph/3/2A) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [46(2)(b)](https://www.legislation.gov.uk/uksi/2017/275/regulation/46/2/b)
+[^c-92ff2ac880aed0674b0a6694518ba763]: Textual amendment: [Sch. 9 para. 3(2A)](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/paragraph/3/2A) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [46(2)(b)](https://www.legislation.gov.uk/uksi/2017/275/regulation/46/2/b)
 
-[^key-47aeb8bc47d48442f20087e32a6908f3]: Textual amendment: Words in [Sch. 9 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/paragraph/4/2/b) inserted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2023/301/regulation/17/4)
+[^c-47aeb8bc47d48442f20087e32a6908f3]: Textual amendment: Words in [Sch. 9 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/paragraph/4/2/b) inserted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [17(4)](https://www.legislation.gov.uk/uksi/2023/301/regulation/17/4)
 
-[^key-894da0467dc29f2a990efd3d6c13a391]: Textual amendment: Words in Sch. 9 para. 15 substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [86](https://www.legislation.gov.uk/uksi/2016/245/regulation/86) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-894da0467dc29f2a990efd3d6c13a391]: Textual amendment: Words in Sch. 9 para. 15 substituted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [86](https://www.legislation.gov.uk/uksi/2016/245/regulation/86) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
 
-[^key-93f241adf3480ad37e7ae0cad30c8e36]: Textual amendment: [Sch. 9 Pt. 2A](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/part/2A) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [46(3)](https://www.legislation.gov.uk/uksi/2017/275/regulation/46/3)
+[^c-93f241adf3480ad37e7ae0cad30c8e36]: Textual amendment: [Sch. 9 Pt. 2A](https://www.legislation.gov.uk/uksi/2015/94/schedule/9/part/2A) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [46(3)](https://www.legislation.gov.uk/uksi/2017/275/regulation/46/3)

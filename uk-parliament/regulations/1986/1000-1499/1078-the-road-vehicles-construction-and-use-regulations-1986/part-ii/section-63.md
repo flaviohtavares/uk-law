@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. Wings[^key-1b392131efe1344e65e3d6bf78073ead]
+## 63. Wings[^c-1b392131efe1344e65e3d6bf78073ead]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) invalid carriages;
 - (b) heavy motor cars, motor cars and motor cycles, not being agricultural motor vehicles or pedestrian-controlled vehicles;
-- (c)[^key-f475ae902c389097b0bc7c8270ca15bd] agricultural motor vehicles, not being category T tractors, driven at more than 20 mph;
+- (c)[^c-f475ae902c389097b0bc7c8270ca15bd] agricultural motor vehicles, not being category T tractors, driven at more than 20 mph;
 - (ca) category T tractors driven at more than 40 km/h; and
 - (d) trailers.
 
@@ -37,7 +37,7 @@ summary: ''
 - (a) a works truck;
 - (b) a living van;
 - (c) a water cart;
-- (d) an agricultural trailer drawn by a motor vehicle which is not driven at a speed in excess of 40 km/h[^key-a35563c24dced8d932ba6caf0e4cc70a];
+- (d) an agricultural trailer drawn by a motor vehicle which is not driven at a speed in excess of 40 km/h[^c-a35563c24dced8d932ba6caf0e4cc70a];
 - (e) an agricultural trailed appliance;
 - (f) an agricultural trailed appliance conveyor;
 - (g) a broken down vehicle;
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1b392131efe1344e65e3d6bf78073ead]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/1986/1078/regulation/63) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-1b392131efe1344e65e3d6bf78073ead]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/1986/1078/regulation/63) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-f475ae902c389097b0bc7c8270ca15bd]: Textual amendment: [Reg. 63(1)(c)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/63/1/c)[(ca)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/63/1/ca) substituted for [reg. 63(1)(c)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/63/1/c) (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [20(1)](https://www.legislation.gov.uk/uksi/2015/142/regulation/20/1)
+[^c-f475ae902c389097b0bc7c8270ca15bd]: Textual amendment: [Reg. 63(1)(c)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/63/1/c)[(ca)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/63/1/ca) substituted for [reg. 63(1)(c)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/63/1/c) (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [20(1)](https://www.legislation.gov.uk/uksi/2015/142/regulation/20/1)
 
-[^key-a35563c24dced8d932ba6caf0e4cc70a]: Textual amendment: Words in [reg. 63(4)(d)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/63/4/d) substituted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/20/2)
+[^c-a35563c24dced8d932ba6caf0e4cc70a]: Textual amendment: Words in [reg. 63(4)(d)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/63/4/d) substituted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/20/2)

@@ -60,13 +60,13 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. Scope
 
-This Regulation applies to vehicles of categories M<sub>2</sub>, N<sub>2</sub>, M<sub>3</sub> and N<sub>3</sub>, as defined in Article 4 of Regulation (EU) 2018/858[^key-5d2c6c478ed7a80cbc98156361daa302], with the exception of the following:
+This Regulation applies to vehicles of categories M<sub>2</sub>, N<sub>2</sub>, M<sub>3</sub> and N<sub>3</sub>, as defined in Article 4 of Regulation (EU) 2018/858[^c-5d2c6c478ed7a80cbc98156361daa302], with the exception of the following:
 
 - ((1)) semi-trailer towing vehicles of category N<sub>2</sub> with a maximum mass exceeding 3,5 tonnes but not exceeding 8 tonnes;
 - ((2)) categories M<sub>2</sub> and M<sub>3</sub> vehicles of Class A, Class I and Class II;
 - ((3)) category M<sub>3</sub> articulated buses of Class A, Class I and Class II;
-- ((4)) off-road vehicles of categories M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> and N<sub>3</sub> as referred to in points 4.2 and 4.3 of Part A of Annex I to Regulation (EU) 2018/858[^key-e68745c347fa9f35e859f5db776f1fc2];
-- ((5)) special purpose vehicles of categories M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> and N<sub>3</sub> as referred to in point 5 of Part A of Annex I to Regulation (EU) 2018/858[^key-583560a19bd6e21d2d709028fd8e3ca2];
+- ((4)) off-road vehicles of categories M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> and N<sub>3</sub> as referred to in points 4.2 and 4.3 of Part A of Annex I to Regulation (EU) 2018/858[^c-e68745c347fa9f35e859f5db776f1fc2];
+- ((5)) special purpose vehicles of categories M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> and N<sub>3</sub> as referred to in point 5 of Part A of Annex I to Regulation (EU) 2018/858[^c-583560a19bd6e21d2d709028fd8e3ca2];
 - ((6)) vehicles of categories M<sub>2</sub>, M<sub>3</sub>, N<sub>2</sub> and N<sub>3</sub> with more than three axles.
 
 ## Article 2. Definitions
@@ -82,25 +82,25 @@ For the purposes of this Regulation, the following definitions shall apply in ad
 - ((4)) ‘rate of departure’ means the subject vehicle’s approach velocity at a right angle to the visible lane marking at the warning issue point;
 - ((5)) ‘common space’ means an area on which two or more information functions may be displayed, but not simultaneously.
 
-## Article 3. GB type-approval of a type of vehicle with regard to LDWS[^key-86cbef94f3d5d19f05dd6ca0e0a73bd0]
+## Article 3. GB type-approval of a type of vehicle with regard to LDWS[^c-86cbef94f3d5d19f05dd6ca0e0a73bd0]
 
-1. The manufacturer or his representative shall submit to the type-approval authority the application for GB[^key-fdf21f9565b0c782a1546cde85316c6a] type-approval of a vehicle with regard to lane departure warning systems.
+1. The manufacturer or his representative shall submit to the type-approval authority the application for GB[^c-fdf21f9565b0c782a1546cde85316c6a] type-approval of a vehicle with regard to lane departure warning systems.
 
 2. The application shall be drawn up in accordance with the model of the information document set out in Part 1 of Annex I.
 
-3. If the relevant requirements set out in Annex II to this Regulation are met, the approval authority shall grant a GB[^key-564ad3226b7022cbc9750e57585e9082] type-approval and issue a type-approval number in accordance with the numbering system set out in Annex IV to Commission Implementing Regulation (EU) 2020/683[^key-ee6ea8467c84ba3fc772961fd097d7b0].
+3. If the relevant requirements set out in Annex II to this Regulation are met, the approval authority shall grant a GB[^c-564ad3226b7022cbc9750e57585e9082] type-approval and issue a type-approval number in accordance with the numbering system set out in Annex IV to Commission Implementing Regulation (EU) 2020/683[^c-ee6ea8467c84ba3fc772961fd097d7b0].
 
-The approval authority[^key-a71c4ff8e93f020e707137b7363f7caf] may not assign the same number to another vehicle type.
+The approval authority[^c-a71c4ff8e93f020e707137b7363f7caf] may not assign the same number to another vehicle type.
 
-4. For the purposes of paragraph 3, the type-approval authority shall issue a GB[^key-86f391d2b73744f79cd11486f4e22036] type-approval certificate established in accordance with the model set out in Part 2 of Annex I.
+4. For the purposes of paragraph 3, the type-approval authority shall issue a GB[^c-86f391d2b73744f79cd11486f4e22036] type-approval certificate established in accordance with the model set out in Part 2 of Annex I.
 
-(5.)[^key-3e6013e70fb8ab28afe96716e3b60f95] Where an application for approval is made before 31st December 2026 under paragraph 1 in respect of a vehicle type which has been approved by the approval authority of a member State under Commission Regulation (EU) 351/2012, as that Regulation has effect in EU law, by way of derogation to point 2.2.3.1 of Annex II to this Regulation, the visible lane markings used in the lane departure tests of point 2.6 may be any one of those identified in the Appendix to Annex II, provided that the approval authority has been presented with documentary evidence in accordance with point 2.2.3.2 of Annex II demonstrating compliance with the UK lane markings specified in table 1 in the Appendix to Annex II.
+(5.)[^c-3e6013e70fb8ab28afe96716e3b60f95] Where an application for approval is made before 31st December 2026 under paragraph 1 in respect of a vehicle type which has been approved by the approval authority of a member State under Commission Regulation (EU) 351/2012, as that Regulation has effect in EU law, by way of derogation to point 2.2.3.1 of Annex II to this Regulation, the visible lane markings used in the lane departure tests of point 2.6 may be any one of those identified in the Appendix to Annex II, provided that the approval authority has been presented with documentary evidence in accordance with point 2.2.3.2 of Annex II demonstrating compliance with the UK lane markings specified in table 1 in the Appendix to Annex II.
 
 **Article 4.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-84634822ea9f09b8cc1e245d8c311df6]...
+[^c-84634822ea9f09b8cc1e245d8c311df6]...
 
-## ANNEX I — Standard models for the information document and the GB type-approval certificate[^key-45931ec9543147b4f47c4a20a582d351]
+## ANNEX I — Standard models for the information document and the GB type-approval certificate[^c-45931ec9543147b4f47c4a20a582d351]
 
 PART 1
 
@@ -108,7 +108,7 @@ PART 1
 
 **MODEL**
 
-Information document No … relating to the GB[^key-45931d61568866c957a22f64a18a220a] type-approval of a vehicle with regard to lane departure warning systems.
+Information document No … relating to the GB[^c-45931d61568866c957a22f64a18a220a] type-approval of a vehicle with regard to lane departure warning systems.
 
 The following information shall be supplied in triplicate and include a list of contents. Any drawings shall be supplied in appropriate scale and in sufficient detail on size A4 or on a folder of A4 format. Photographs, if any, shall show sufficient detail.
 
@@ -355,7 +355,7 @@ Communication concerning:
 
 of a type of vehicle with regard to lane departure warning systems
 
-with regard to Commission Regulation (EU) No 351/2012 as it forms part of domestic law, and as last amended by S.I. …./….[^key-d206427646a2a5018f8ac8f3d26f4d7a].
+with regard to Commission Regulation (EU) No 351/2012 as it forms part of domestic law, and as last amended by S.I. …./….[^c-d206427646a2a5018f8ac8f3d26f4d7a].
 
 GB type-approval Number: \_
 
@@ -441,7 +441,7 @@ Test report.
 
 Addendum
 
-to GB[^key-6f13a5a1d88135721fc095bd1f69e7ca] type-approval certificate No …
+to GB[^c-6f13a5a1d88135721fc095bd1f69e7ca] type-approval certificate No …
 
 1\.
 
@@ -610,11 +610,11 @@ Visible lane markings
 
 2.2.3.1.
 
-The visible lane markings used in the lane departure warning tests of point 2.6. shall be one of those identified in the Appendix to this Annex as being used in the United Kingdom[^key-cb2464cc876960d8b8447f4af153a87c], with the markings being in good condition and of a material conforming to the standard for visible lane markings applied in the United Kingdom[^key-e3306c9bd04ef5076ba5b7e548d2773d] concerned. The visible lane marking layout used for the testing shall be recorded.
+The visible lane markings used in the lane departure warning tests of point 2.6. shall be one of those identified in the Appendix to this Annex as being used in the United Kingdom[^c-cb2464cc876960d8b8447f4af153a87c], with the markings being in good condition and of a material conforming to the standard for visible lane markings applied in the United Kingdom[^c-e3306c9bd04ef5076ba5b7e548d2773d] concerned. The visible lane marking layout used for the testing shall be recorded.
 
 2.2.3.2.
 
-The vehicle manufacturer shall demonstrate, through the use of documentation, compliance with all the other lane markings identified in the Appendix to this Annex as being used in the United Kingdom[^key-9cf9770816bec15cefe37774b9d658c8]. Any such documentation shall be appended to the test report.
+The vehicle manufacturer shall demonstrate, through the use of documentation, compliance with all the other lane markings identified in the Appendix to this Annex as being used in the United Kingdom[^c-9cf9770816bec15cefe37774b9d658c8]. Any such documentation shall be appended to the test report.
 
 2.2.3.3.
 
@@ -710,31 +710,31 @@ Table 1 shall be used for approval in accordance with points 2.2. and 2.5. of An
 
 [^f00001]: Footnote: [OJ L 200, 31.7.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.200.01.0001.01.ENG).
 
-[^key-5d2c6c478ed7a80cbc98156361daa302]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2012/351/article/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(2)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/2/a)
+[^c-5d2c6c478ed7a80cbc98156361daa302]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2012/351/article/1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(2)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/2/a)
 
-[^key-e68745c347fa9f35e859f5db776f1fc2]: Textual amendment: Words in [Art. 1(4)](https://www.legislation.gov.uk/eur/2012/351/article/1/4) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(2)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/2/b)
+[^c-e68745c347fa9f35e859f5db776f1fc2]: Textual amendment: Words in [Art. 1(4)](https://www.legislation.gov.uk/eur/2012/351/article/1/4) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(2)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/2/b)
 
-[^key-583560a19bd6e21d2d709028fd8e3ca2]: Textual amendment: Words in [Art. 1(5)](https://www.legislation.gov.uk/eur/2012/351/article/1/5) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(2)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/2/c)
+[^c-583560a19bd6e21d2d709028fd8e3ca2]: Textual amendment: Words in [Art. 1(5)](https://www.legislation.gov.uk/eur/2012/351/article/1/5) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(2)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/2/c)
 
-[^key-86cbef94f3d5d19f05dd6ca0e0a73bd0]: Textual amendment: Word in Art. 3 heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(3)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/3/a)
+[^c-86cbef94f3d5d19f05dd6ca0e0a73bd0]: Textual amendment: Word in Art. 3 heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(3)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/3/a)
 
-[^key-fdf21f9565b0c782a1546cde85316c6a]: Textual amendment: Word in Art. 3(1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(3)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/3/a)
+[^c-fdf21f9565b0c782a1546cde85316c6a]: Textual amendment: Word in Art. 3(1) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(3)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/3/a)
 
-[^key-564ad3226b7022cbc9750e57585e9082]: Textual amendment: Words in Art. 3(3) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(3)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/3/c)
+[^c-564ad3226b7022cbc9750e57585e9082]: Textual amendment: Words in Art. 3(3) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(3)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/3/c)
 
-[^key-ee6ea8467c84ba3fc772961fd097d7b0]: Textual amendment: Words in Art. 3(3) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/3/b/i)
+[^c-ee6ea8467c84ba3fc772961fd097d7b0]: Textual amendment: Words in Art. 3(3) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/3/b/i)
 
-[^key-a71c4ff8e93f020e707137b7363f7caf]: Textual amendment: Words in Art. 3(3) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/3/b/ii)
+[^c-a71c4ff8e93f020e707137b7363f7caf]: Textual amendment: Words in Art. 3(3) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/3/b/ii)
 
-[^key-86f391d2b73744f79cd11486f4e22036]: Textual amendment: Words in Art. 3(4) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(3)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/3/c)
+[^c-86f391d2b73744f79cd11486f4e22036]: Textual amendment: Words in Art. 3(4) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(3)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/3/c)
 
-[^key-3e6013e70fb8ab28afe96716e3b60f95]: Textual amendment: Art. 3(5) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(3)(d)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/3/d)
+[^c-3e6013e70fb8ab28afe96716e3b60f95]: Textual amendment: Art. 3(5) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(3)(d)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/3/d)
 
-[^key-84634822ea9f09b8cc1e245d8c311df6]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/351/signature) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(4)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/4)
+[^c-84634822ea9f09b8cc1e245d8c311df6]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/351/signature) omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(4)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/4)
 
-[^key-45931ec9543147b4f47c4a20a582d351]: Textual amendment: Word in Annex 1 heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(5)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/5/a)
+[^c-45931ec9543147b4f47c4a20a582d351]: Textual amendment: Word in Annex 1 heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(5)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/5/a)
 
-[^key-45931d61568866c957a22f64a18a220a]: Textual amendment: Word in Annex 1 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(5)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/5/a)
+[^c-45931d61568866c957a22f64a18a220a]: Textual amendment: Word in Annex 1 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(5)(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/5/a)
 
 [^f00003]: Footnote: If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information document, such characters shall be represented in the documentation by the symbol ‘?’ (e.g. ABC??123??).
 
@@ -782,20 +782,20 @@ Table 1 shall be used for approval in accordance with points 2.2. and 2.5. of An
 
 [^f00016]: Footnote: Delete where not applicable.
 
-[^key-d206427646a2a5018f8ac8f3d26f4d7a]: Textual amendment: Words in Annex 1 Pt. 2 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(5)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/5/c)
+[^c-d206427646a2a5018f8ac8f3d26f4d7a]: Textual amendment: Words in Annex 1 Pt. 2 substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(5)(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/5/c)
 
 [^f00017]: Footnote: If the means of identification of type contains characters not relevant to describe the vehicle, component or separate technical unit types covered by this information, such characters shall be represented in the documentation by the symbol ‘?’ (e.g. ABC??123??).
 
 [^M_M_9f76176b-1df2-459a-b99f-0f019c5e2c02]: Marginal citation: As defined in \[Article 4 of Regulation (EU) 2018/858\] \[Words in Annex 1 Pt. 2 footnote substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(5)(d)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/5/d)\].
 
-[^key-6f13a5a1d88135721fc095bd1f69e7ca]: Textual amendment: Words in Annex 1 Addendum heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(5)(e)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/5/e)
+[^c-6f13a5a1d88135721fc095bd1f69e7ca]: Textual amendment: Words in Annex 1 Addendum heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(5)(e)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/5/e)
 
 [^f00019]: Footnote: [OJ L 116, 8.5.2010, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.116.01.0001.01.ENG).
 
-[^key-cb2464cc876960d8b8447f4af153a87c]: Textual amendment: Words in [Annex 2 point 2.2.3.1](https://www.legislation.gov.uk/eur/2012/351/annex/II) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(6)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/6/a/i)
+[^c-cb2464cc876960d8b8447f4af153a87c]: Textual amendment: Words in [Annex 2 point 2.2.3.1](https://www.legislation.gov.uk/eur/2012/351/annex/II) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(6)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/6/a/i)
 
-[^key-e3306c9bd04ef5076ba5b7e548d2773d]: Textual amendment: Words in [Annex 2 point 2.2.3.1](https://www.legislation.gov.uk/eur/2012/351/annex/II) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/6/a/ii)
+[^c-e3306c9bd04ef5076ba5b7e548d2773d]: Textual amendment: Words in [Annex 2 point 2.2.3.1](https://www.legislation.gov.uk/eur/2012/351/annex/II) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/6/a/ii)
 
-[^key-9cf9770816bec15cefe37774b9d658c8]: Textual amendment: Words in [Annex 2 point 2.2.3.2](https://www.legislation.gov.uk/eur/2012/351/annex/II) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(6)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/6/b)
+[^c-9cf9770816bec15cefe37774b9d658c8]: Textual amendment: Words in [Annex 2 point 2.2.3.2](https://www.legislation.gov.uk/eur/2012/351/annex/II) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [70(6)(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/70/6/b)
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Commission Regulation (EU) No 351/2012 of 23 April 2012 implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council as regards type-approval requirements for the installation of lane departure warning systems in motor vehicles (Official Journal of the European Union L 110 of 24 April 2012)](https://www.legislation.gov.uk/eur/2012/351/pdfs/eurcs_20120351_en_001.pdf).

@@ -33,7 +33,7 @@ summary: ''
 
 (3) The period starts on 13th January 2018 and ends at the end of—
 
-- (a)[^key-bb5214fc9795a695f58ab59d7a1d79d5] 14th September 2019; or
+- (a)[^c-bb5214fc9795a695f58ab59d7a1d79d5] 14th September 2019; or
 - (b) if earlier, the date on which—
   - (i) the FCA notifies the person of its decision in relation to an application for authorisation or registration, or for variation of an authorisation, in respect of the services, or
   - (ii) the person gives the FCA notice of the withdrawal of such application.
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb5214fc9795a695f58ab59d7a1d79d5]: Textual amendment: [Reg. 154(3)(a)](https://www.legislation.gov.uk/uksi/2017/752/regulation/154/3/a) substituted (31.12.2020) by [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 2 para. 67](https://www.legislation.gov.uk/uksi/2018/1201/schedule/2/paragraph/67) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/part/2)) (as amended by [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/56/regulation/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb5214fc9795a695f58ab59d7a1d79d5]: Textual amendment: [Reg. 154(3)(a)](https://www.legislation.gov.uk/uksi/2017/752/regulation/154/3/a) substituted (31.12.2020) by [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 2 para. 67](https://www.legislation.gov.uk/uksi/2018/1201/schedule/2/paragraph/67) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/part/2)) (as amended by [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/56/regulation/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Obstruction of construction of authorised works[^key-df89127f66f9c7184bf707ac895c79b2]
+## 46. Obstruction of construction of authorised works[^c-df89127f66f9c7184bf707ac895c79b2]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-df89127f66f9c7184bf707ac895c79b2]: Commencement: Art. 46 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-df89127f66f9c7184bf707ac895c79b2]: Commencement: Art. 46 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

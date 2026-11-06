@@ -32,7 +32,7 @@ summary: ''
 
 Urban Development
 
-The West Northamptonshire Development Corporation (Planning Functions) (Amendment) Order 2011 (revoked)[^key-0e05c73cb6f5831a1e767a6a83e2cda2]
+The West Northamptonshire Development Corporation (Planning Functions) (Amendment) Order 2011 (revoked)[^c-0e05c73cb6f5831a1e767a6a83e2cda2]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 1st April 2011
 
-[^key-0e05c73cb6f5831a1e767a6a83e2cda2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e05c73cb6f5831a1e767a6a83e2cda2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0e05c73cb6f5831a1e767a6a83e2cda2]
+## 1. Citation and commencement[^c-0e05c73cb6f5831a1e767a6a83e2cda2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0e05c73cb6f5831a1e767a6a83e2cda2]
+## 2. Interpretation[^c-0e05c73cb6f5831a1e767a6a83e2cda2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Order[^key-0e05c73cb6f5831a1e767a6a83e2cda2]
+## 3. Amendment of Order[^c-0e05c73cb6f5831a1e767a6a83e2cda2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment relating to interpretation[^key-0e05c73cb6f5831a1e767a6a83e2cda2]
+## 4. Amendment relating to interpretation[^c-0e05c73cb6f5831a1e767a6a83e2cda2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments relating to the planning functions area and planning functions of the development corporation[^key-0e05c73cb6f5831a1e767a6a83e2cda2]
+## 5. Amendments relating to the planning functions area and planning functions of the development corporation[^c-0e05c73cb6f5831a1e767a6a83e2cda2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional provision: applications to the development corporation[^key-0e05c73cb6f5831a1e767a6a83e2cda2]
+## 6. Transitional provision: applications to the development corporation[^c-0e05c73cb6f5831a1e767a6a83e2cda2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transitional provision: compensation[^key-0e05c73cb6f5831a1e767a6a83e2cda2]
+## 7. Transitional provision: compensation[^c-0e05c73cb6f5831a1e767a6a83e2cda2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0e05c73cb6f5831a1e767a6a83e2cda2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e05c73cb6f5831a1e767a6a83e2cda2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0e05c73cb6f5831a1e767a6a83e2cda2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e05c73cb6f5831a1e767a6a83e2cda2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0e05c73cb6f5831a1e767a6a83e2cda2]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/560) revoked (31.3.2012) by [The Urban Development Corporations (Planning Functions) Order 2012 (S.I. 2012/535)](https://www.legislation.gov.uk/uksi/2012/535), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/535/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2012/535/article/2/c) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2012/535/article/3))
+[^c-0e05c73cb6f5831a1e767a6a83e2cda2]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/560) revoked (31.3.2012) by [The Urban Development Corporations (Planning Functions) Order 2012 (S.I. 2012/535)](https://www.legislation.gov.uk/uksi/2012/535), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/535/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2012/535/article/2/c) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2012/535/article/3))

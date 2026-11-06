@@ -41,11 +41,11 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(1)
 
-The Treasury, in exercise of the powers conferred on them by paragraphs 13(1)(b)(iii), 14(1)(b), 17(a), (b) and (c), 18 and 22 of Schedule 3 to, and sections 417(1)[^f00001] and 426 to 428 of, the Financial Services and Markets Act 2000[^f00002], hereby make the following Regulations:[^key-676356688a31f8bcf9e46cdb4d578216][^key-938e84d29801337ac39a1705a1a3cc4a]
+The Treasury, in exercise of the powers conferred on them by paragraphs 13(1)(b)(iii), 14(1)(b), 17(a), (b) and (c), 18 and 22 of Schedule 3 to, and sections 417(1)[^f00001] and 426 to 428 of, the Financial Services and Markets Act 2000[^f00002], hereby make the following Regulations:[^c-676356688a31f8bcf9e46cdb4d578216][^c-938e84d29801337ac39a1705a1a3cc4a]
 
 ## PART I — General
 
-### 1. Citation, commencement and interpretation[^key-16256e9229f27d5cb22d1e2692bdd109]
+### 1. Citation, commencement and interpretation[^c-16256e9229f27d5cb22d1e2692bdd109]
 
 (1) These Regulations may be cited as the Financial Services and Markets Act 2000 (EEA Passport Rights) Regulations 2001, and come into force on the day on which section 19 of the Act comes into force.
 
@@ -53,7 +53,7 @@ The Treasury, in exercise of the powers conferred on them by paragraphs 13(1)(b)
 
 - “the 2BCD Regulations” means the Banking Coordination (Second Council Directive) Regulations 1992[^f00003];
 - “the Act” means the Financial Services and Markets Act 2000;
-- “authorised agent” means, in relation to an EEA firm or UK firm, an agent or employee of the firm who has authority to bind the firm in its relations with third parties, and to represent the firm in its relations with the FCA, the PRA[^key-696977781aa9740ae18aad42faf42ab7] or the host state regulator (as the case may be) and with the courts in the United Kingdom or the EEA State concerned (as the case may be);
+- “authorised agent” means, in relation to an EEA firm or UK firm, an agent or employee of the firm who has authority to bind the firm in its relations with third parties, and to represent the firm in its relations with the FCA, the PRA[^c-696977781aa9740ae18aad42faf42ab7] or the host state regulator (as the case may be) and with the courts in the United Kingdom or the EEA State concerned (as the case may be);
 - “claims representative”, in relation to a UK firm and an EEA State, means a person who has been designated as the firm’s representative in that EEA State, and has authority—
   - (a) to act on behalf of the firm and to represent, or to instruct others to represent, the firm in relation to any matters giving rise to claims made against policies issued by the firm, to the extent that they cover motor vehicles risks situated in the EEA State;
   - (b) to pay sums in settlement of such claims (but not to settle such claims); and
@@ -61,22 +61,22 @@ The Treasury, in exercise of the powers conferred on them by paragraphs 13(1)(b)
 - “commencement” means the beginning of the day on which section 19 of the Act comes into force;
 - “contract of insurance”, “contract of general insurance” and “contract of long-term insurance” have the same meaning as in the Regulated Activities Order;
 - “credit institution” means an EEA firm falling within paragraph 5(b) of Schedule 3;
-- [^key-1116a271850b4eb0b820b2ea07bba8d5]...
+- [^c-1116a271850b4eb0b820b2ea07bba8d5]...
 - “EEA activities” means—
   - (a) in relation to an EEA firm, activities which the firm is seeking to carry on in the United Kingdom in exercise of an EEA right;
   - (b) in relation to a UK firm, activities which the firm is seeking to carry on in another EEA State in exercise of an EEA right;
-- “[^key-efde115efaad24defb9b1a79a0a3cb0e]**EEA mortgage intermediary**” means a person falling within paragraph 5(i) of Schedule 3;
+- “[^c-efde115efaad24defb9b1a79a0a3cb0e]**EEA mortgage intermediary**” means a person falling within paragraph 5(i) of Schedule 3;
 - “financial institution” means an EEA firm falling within paragraph 5(c) of Schedule 3;
 - “the Friendly Societies Act” means the Friendly Societies Act 1992[^f00004];
 - “health insurance risks”, in relation to an EEA State, means risks of a kind mentioned in paragraph 2 of Schedule 1 to the Regulated Activities Order (sickness), where—
   - (a) contracts of insurance covering those risks serve as a partial or complete alternative to the health cover provided by the statutory social security system in that EEA State; and
-  - (b) the law of that EEA State requires such contracts to be operated on a technical basis similar to life assurance in accordance with all the conditions listed in Article 206(2) of the Solvency 2 Directive[^key-02ed48976bdcd62fcffd8e0d17c90cff];
+  - (b) the law of that EEA State requires such contracts to be operated on a technical basis similar to life assurance in accordance with all the conditions listed in Article 206(2) of the Solvency 2 Directive[^c-02ed48976bdcd62fcffd8e0d17c90cff];
 - “the Insurance Companies Act” means the Insurance Companies Act 1982[^f00005];
 - “insurance firm” means an EEA firm falling within paragraph 5(d) of Schedule 3;
-- “insurance intermediary” means an[^key-9fd422d671d58500e926db1cb91856d0] EEA firm falling within paragraph 5(e) of Schedule 3;
+- “insurance intermediary” means an[^c-9fd422d671d58500e926db1cb91856d0] EEA firm falling within paragraph 5(e) of Schedule 3;
 - “investment firm” means an EEA firm falling within paragraph 5(a) of Schedule 3;
 - “the ISD Regulations” means the Investment Services Regulations 1995[^f00006];
-- “[^key-82509380a13643a8308442967d06e669]**management company**” means an EEA firm falling within paragraph 5(f) of Schedule 3;
+- “[^c-82509380a13643a8308442967d06e669]**management company**” means an EEA firm falling within paragraph 5(f) of Schedule 3;
 - “national bureau”, in relation to an EEA State, means a professional organisation—
   - (a) which has been constituted in that EEA State in accordance with Recommendation No. 5 adopted on 25th January 1949 by the Road Transport Sub-committee of the Inland Transport Committee of the United Nations Economic Commission for Europe; and
   - (b) which groups together undertakings which in that EEA State are authorised to conduct the business of motor vehicle liability insurance;
@@ -89,28 +89,28 @@ The Treasury, in exercise of the powers conferred on them by paragraphs 13(1)(b)
   - (a) particulars of the programme of operations carried on, or to be carried on, from the branch, including a description of the particular EEA activities to be carried on, and of the structural organisation of the branch;
   - (b) the address in the EEA State in which the branch is, or is to be, established from which information about the business may be obtained; and
   - (c) the names of the managers of the business;
-- “Schedule 3” means Schedule 3 to the Act ;[^key-e1a0ee5675959cb50f35fa67c6b0789c]
-- “tied agent” has the meaning given in Article 4.1.29[^key-5cad72c49693a65d864423478bd18c71] of the markets in financial instruments directive;
+- “Schedule 3” means Schedule 3 to the Act ;[^c-e1a0ee5675959cb50f35fa67c6b0789c]
+- “tied agent” has the meaning given in Article 4.1.29[^c-5cad72c49693a65d864423478bd18c71] of the markets in financial instruments directive;
 - “UK investment firm” means a UK firm—
-  - (a) which is an investment firm (within the meaning of section 424A of[^key-633d147cb9e2f85fe5bf3204c913d3ea] the Act),
+  - (a) which is an investment firm (within the meaning of section 424A of[^c-633d147cb9e2f85fe5bf3204c913d3ea] the Act),
   - (b) whose EEA right derives from the markets in financial instruments directive.
 
 ## PART II — Exercise of Passport Rights by EEA Firms
 
 ### Contents of consent notice and regulator’s notice
 
-#### 2. Establishment of a branch: contents of consent notice[^key-8c64a706db18fb938666d1cede7825bc]
+#### 2. Establishment of a branch: contents of consent notice[^c-8c64a706db18fb938666d1cede7825bc]
 
-(1) The following information is prescribed for the purposes of paragraph 13(1)(b)(iii) of Schedule 3 (and is therefore to be included in a consent notice given to the appropriate[^key-aa76862eed567823508ab5f3484935a6] UK regulator within the meaning of that paragraph by a firm’s home state regulator pursuant to paragraph 13(1)(a) of Schedule 3).
+(1) The following information is prescribed for the purposes of paragraph 13(1)(b)(iii) of Schedule 3 (and is therefore to be included in a consent notice given to the appropriate[^c-aa76862eed567823508ab5f3484935a6] UK regulator within the meaning of that paragraph by a firm’s home state regulator pursuant to paragraph 13(1)(a) of Schedule 3).
 
 (2) In the case of an investment firm, the prescribed information is—
 
 - (a) a statement that the firm is an investment firm;
-- (b) the requisite details of the branch; [^key-1abea937b0ee70596fe81a12fa1cc9c6]...
-- (c)[^key-a7c9669211efcd81e69022fb82665245] details of the accredited compensation scheme of which the firm is a member in accordance with Directive [97/9/EC](https://www.legislation.gov.uk/european/directive/1997/0009) of the European Parliament and of the Council of 3rd March 1997 on investor-compensation schemes; and
+- (b) the requisite details of the branch; [^c-1abea937b0ee70596fe81a12fa1cc9c6]...
+- (c)[^c-a7c9669211efcd81e69022fb82665245] details of the accredited compensation scheme of which the firm is a member in accordance with Directive [97/9/EC](https://www.legislation.gov.uk/european/directive/1997/0009) of the European Parliament and of the Council of 3rd March 1997 on investor-compensation schemes; and
 - (d) a statement of whether the firm intends to use a tied agent established in the United Kingdom.
 
-(2A)[^key-e5189fba8e6f3df6e1f944d95377179f] In the case of a management company, the prescribed information is—
+(2A)[^c-e5189fba8e6f3df6e1f944d95377179f] In the case of a management company, the prescribed information is—
 
 - (a) a statement that the firm is a management company;
 - (b) the requisite details of the branch; and
@@ -120,22 +120,22 @@ The Treasury, in exercise of the powers conferred on them by paragraphs 13(1)(b)
 
 - (a) a statement that the firm is a credit institution;
 - (b) the requisite details of the branch;
-- (c) the amount of the firm’s own funds (as defined in Article 4(1)(118) of the capital requirements regulation[^key-2cee0068ba0a53fb25317eedfe8d6afc]); and
-- (d)[^key-e104b9bbf59f2ff7d573b6d9b78bd845] the own funds requirements under Article 92 of the capital requirements regulation of that institution.
+- (c) the amount of the firm’s own funds (as defined in Article 4(1)(118) of the capital requirements regulation[^c-2cee0068ba0a53fb25317eedfe8d6afc]); and
+- (d)[^c-e104b9bbf59f2ff7d573b6d9b78bd845] the own funds requirements under Article 92 of the capital requirements regulation of that institution.
 
 (4) In the case of a financial institution, the prescribed information is—
 
 - (a) a statement that—
   - (i) the firm is a financial institution;
-  - (ii) the firm is a subsidiary undertaking of a credit institution [^key-a563143857603705202c7d3da79b6124]... which is authorised in the EEA State in question and which holds at least 90 per cent of the voting rights in the firm (and for the purpose of this paragraph any two or more credit institutions which are authorised in that EEA State and hold voting rights in the firm are to be treated as a single credit institution, and as being “parent undertakings” of the firm);
+  - (ii) the firm is a subsidiary undertaking of a credit institution [^c-a563143857603705202c7d3da79b6124]... which is authorised in the EEA State in question and which holds at least 90 per cent of the voting rights in the firm (and for the purpose of this paragraph any two or more credit institutions which are authorised in that EEA State and hold voting rights in the firm are to be treated as a single credit institution, and as being “parent undertakings” of the firm);
   - (iii) the firm carries on in that EEA State the EEA activities in question;
   - (iv) the memorandum and articles of association, or other constituent instrument, of the firm permit it to carry on those activities;
   - (v) the consolidated supervision of the firm’s parent undertaking or, if more than one, any one of them effectively includes supervision of the firm;
   - (vi) the firm’s parent undertaking has guaranteed or, if more than one, they have jointly and severally guaranteed, the firm’s obligations, with the consent of the home state regulator;
   - (vii) the firm’s business is being conducted in a prudent manner;
 - (b) the requisite details of the branch;
-- (c) the amount of the firm’s own funds (as defined in Article 4(1)(118) of the capital requirements regulation[^key-ca378c64be52b6e9b90436428ceed2b4]); and
-- (d)[^key-e3334e7c4fa47bab7a3f3ec0771c1fba] the own funds requirements under Article 92 of the capital requirements regulation of the firm's parent undertaking.
+- (c) the amount of the firm’s own funds (as defined in Article 4(1)(118) of the capital requirements regulation[^c-ca378c64be52b6e9b90436428ceed2b4]); and
+- (d)[^c-e3334e7c4fa47bab7a3f3ec0771c1fba] the own funds requirements under Article 92 of the capital requirements regulation of the firm's parent undertaking.
 
 (5) In the case of an insurance firm, the prescribed information is—
 
@@ -143,12 +143,12 @@ The Treasury, in exercise of the powers conferred on them by paragraphs 13(1)(b)
 - (b) the name of the firm’s authorised agent;
 - (c) the address in the United Kingdom from which information about the business may be obtained, and a statement that this is the address for service on the firm’s authorised agent;
 - (d) in the case of a firm which intends to cover relevant motor vehicle risks, a declaration by the firm that it has become a member of the Motor Insurers' Bureau (being a company limited by guarantee and incorporated under the Companies Act 1929[^f00009] on the 14th June 1946); and
-- (e) a statement by the firm’s home state regulator attesting that the firm [^key-1c43db125e5c8e0bec9ba390b34decd5]... covers the Solvency Capital Requirement calculated in accordance with Article 100 of the Solvency 2 Directive and the minimum capital requirement calculated in accordance with Article 129 of that directive.[^key-f75154dc2c6ce89f670c6b73b0832b39]
+- (e) a statement by the firm’s home state regulator attesting that the firm [^c-1c43db125e5c8e0bec9ba390b34decd5]... covers the Solvency Capital Requirement calculated in accordance with Article 100 of the Solvency 2 Directive and the minimum capital requirement calculated in accordance with Article 129 of that directive.[^c-f75154dc2c6ce89f670c6b73b0832b39]
 
-(6)[^key-58e969f76207db0e4f8c52545a1da794] In the case of an EEA AIFM, the prescribed information is—
+(6)[^c-58e969f76207db0e4f8c52545a1da794] In the case of an EEA AIFM, the prescribed information is—
 
 - (a) a statement that the firm is an EEA AIFM;
-- (aa)[^key-449cf458959db79039da7b8e245f37c9] particulars of the programme of operations to be carried on through the branch, including a description of the particular EEA activities to be carried on;
+- (aa)[^c-449cf458959db79039da7b8e245f37c9] particulars of the programme of operations to be carried on through the branch, including a description of the particular EEA activities to be carried on;
 - (b) the identity of the AIFs that the EEA AIFM intends to manage;
 - (c) the organisational structure of the branch;
 - (d) the address in the home state of each AIF that the EEA AIFM intends to manage from which documents relating to that AIF may be obtained;
@@ -159,7 +159,7 @@ The Treasury, in exercise of the powers conferred on them by paragraphs 13(1)(b)
 - (a) the EEA State in which the AIF is authorised or registered, or in the case of multiple authorisations or registrations, the EEA State in which the AIF was first authorised or registered; or
 - (b) if the AIF is not authorised or registered in an EEA State, the EEA State in which it has its registered office or head office.
 
-(8)[^key-1e49f3ee5a5cae9ab50ad43d216e2940] In the case of an EEA mortgage intermediary, the prescribed information is—
+(8)[^c-1e49f3ee5a5cae9ab50ad43d216e2940] In the case of an EEA mortgage intermediary, the prescribed information is—
 
 - (a) a statement that the firm is an EEA mortgage intermediary;
 - (b) the requisite details of the branch;
@@ -167,35 +167,35 @@ The Treasury, in exercise of the powers conferred on them by paragraphs 13(1)(b)
 - (d) the name and address of the mortgage creditors (if any) to which the EEA mortgage intermediary is tied; and
 - (e) whether those mortgage creditors (if any) take full and unconditional responsibility for the activities of the EEA mortgage intermediary.
 
-(9)[^key-2acc6e974a1650fb40a7a9dba7de2e9a] In the case of an insurance intermediary, the prescribed information is—
+(9)[^c-2acc6e974a1650fb40a7a9dba7de2e9a] In the case of an insurance intermediary, the prescribed information is—
 
 - (a) a statement that the firm is an insurance intermediary;
 - (b) the requisite details of the branch, including the name, address, and where applicable, the registration number of the firm;
 - (c) the category of intermediary and if applicable, the name of any insurance or reinsurance undertaking represented; and
 - (d) if applicable, the relevant classes of insurance.
 
-#### 2A. Prescribed cases: establishment[^key-b40d9739e2ae95d686dd784356ff3337]
+#### 2A. Prescribed cases: establishment[^c-b40d9739e2ae95d686dd784356ff3337]
 
 (1) The case in paragraph (2) is prescribed for the purposes of paragraph 13(1C) of Schedule 3 to the Act (establishment).
 
-(2)[^key-2fa9805aa10885d4a376072eb1e0107c] The case is the receipt by the FCA of a consent notice in respect of an investment firm to which the obligation in Article 28(2) of the capital requirements directive applies, where the investment firm intends to provide services or activities in the United Kingdom which consist of or include dealing on its own account.
+(2)[^c-2fa9805aa10885d4a376072eb1e0107c] The case is the receipt by the FCA of a consent notice in respect of an investment firm to which the obligation in Article 28(2) of the capital requirements directive applies, where the investment firm intends to provide services or activities in the United Kingdom which consist of or include dealing on its own account.
 
-#### 3. Provision of services: contents of regulator’s notice[^key-6e97a5f6505c097953047b6ac1f1dc34]
+#### 3. Provision of services: contents of regulator’s notice[^c-6e97a5f6505c097953047b6ac1f1dc34]
 
-(1) The following information is prescribed for the purposes of paragraph 14(1)(b) of Schedule 3 (and is therefore to be included in a regulator’s notice given to the appropriate[^key-ffe7867f725e5c8d8fcb8e33d1ba5b23] UK regulator within the meaning of that paragraph by a firm’s home state regulator pursuant to that paragraph).
+(1) The following information is prescribed for the purposes of paragraph 14(1)(b) of Schedule 3 (and is therefore to be included in a regulator’s notice given to the appropriate[^c-ffe7867f725e5c8d8fcb8e33d1ba5b23] UK regulator within the meaning of that paragraph by a firm’s home state regulator pursuant to that paragraph).
 
-(2) Subject to paragraph (2ZA), in[^key-6ac81e3c447f3d46ec8ad38989b4f0b3] the case of an investment firm, the prescribed information is—
+(2) Subject to paragraph (2ZA), in[^c-6ac81e3c447f3d46ec8ad38989b4f0b3] the case of an investment firm, the prescribed information is—
 
-- (a) a statement that the firm is an investment firm; [^key-6425f67b5c44ee021c9d9ef4e8e3b86d]...
-- (b) particulars of the programme of operations to be carried on in the United Kingdom, including a description of the particular EEA activities to be carried on ; and[^key-e78ba177ff0f5377fd9d75f523a73ad8]
+- (a) a statement that the firm is an investment firm; [^c-6425f67b5c44ee021c9d9ef4e8e3b86d]...
+- (b) particulars of the programme of operations to be carried on in the United Kingdom, including a description of the particular EEA activities to be carried on ; and[^c-e78ba177ff0f5377fd9d75f523a73ad8]
 - (c) a statement of whether the firm intends to use a tied agent to provide services in the United Kingdom
 
-(2ZA)[^key-3acbb78af65f5447bdd650f81272adba] In the case of an investment firm exercising the right under Article 34.6[^key-c268ff8fbe0dbb9c6f5e812896fda40f] of the markets in financial instruments directive, the prescribed information is—
+(2ZA)[^c-3acbb78af65f5447bdd650f81272adba] In the case of an investment firm exercising the right under Article 34.6[^c-c268ff8fbe0dbb9c6f5e812896fda40f] of the markets in financial instruments directive, the prescribed information is—
 
 - (a) a statement that the firm is an investment firm; and
 - (b) a statement that the firm intends to exercise that right in the United Kingdom.
 
-(2A)[^key-35a5293a4e72e6ff9498a706a9e7f4ca] In the case of a management company, the prescribed information is—
+(2A)[^c-35a5293a4e72e6ff9498a706a9e7f4ca] In the case of a management company, the prescribed information is—
 
 - (a) a statement that the firm is a management company;
 - (b) particulars of the programme of operations to be carried on in the United Kingdom including a description of the particular EEA activities to be carried on; and
@@ -203,15 +203,15 @@ The Treasury, in exercise of the powers conferred on them by paragraphs 13(1)(b)
 
 (3) In the case of an insurance firm, the prescribed information is—
 
-- (a) a statement of the classes of business which the firm is authorised to carry on in accordance with Article 14 of the Solvency 2 Directive[^key-385b5dc3eac5fcb1c97304216e1affd9];
+- (a) a statement of the classes of business which the firm is authorised to carry on in accordance with Article 14 of the Solvency 2 Directive[^c-385b5dc3eac5fcb1c97304216e1affd9];
 - (b) the name and address of the firm;
 - (c) the nature of the risks or commitments which the firm proposes to cover in the United Kingdom;
 - (d) in the case of a firm which intends to cover relevant motor vehicle risks—
   - (i) the name and address of the claims representative; and
   - (ii) a declaration by the firm that it has become a member of the Motor Insurers' Bureau; and
-- (e) a statement by the firm’s home state regulator attesting that the firm [^key-92da2fb32cb20eab800081c76edc46a0]... covers the Solvency Capital Requirement calculated in accordance with Article 100 of the Solvency 2 Directive and the minimum capital requirement calculated in accordance with Article 129 of that directive.[^key-80deaf1a9d1b7df3be89424f93256e62]
+- (e) a statement by the firm’s home state regulator attesting that the firm [^c-92da2fb32cb20eab800081c76edc46a0]... covers the Solvency Capital Requirement calculated in accordance with Article 100 of the Solvency 2 Directive and the minimum capital requirement calculated in accordance with Article 129 of that directive.[^c-80deaf1a9d1b7df3be89424f93256e62]
 
-(4)[^key-c8b389576290aaf4b343e188f74e04d9] In the case of an insurance intermediary, the prescribed information is—
+(4)[^c-c8b389576290aaf4b343e188f74e04d9] In the case of an insurance intermediary, the prescribed information is—
 
 - (a) a statement that the firm is an insurance intermediary;
 - (b) the firm’s name, address and where applicable, its registration number;
@@ -219,7 +219,7 @@ The Treasury, in exercise of the powers conferred on them by paragraphs 13(1)(b)
 - (d) the Member State or Member States in which the intermediary intends to operate; and
 - (e) particulars of the services to be carried on including, if applicable, the relevant classes of insurance.
 
-(5)[^key-abb82d9e6e519a02da761746df8d57ab] In the case of an EEA AIFM, the prescribed information is—
+(5)[^c-abb82d9e6e519a02da761746df8d57ab] In the case of an EEA AIFM, the prescribed information is—
 
 - (a) a statement that the firm is an EEA AIFM;
 - (b) if the EEA AIFM wishes to manage an AIF in the United Kingdom—
@@ -229,7 +229,7 @@ The Treasury, in exercise of the powers conferred on them by paragraphs 13(1)(b)
   - (i) the documents and information set out in Annex IV to the alternative investment fund managers directive; and
   - (ii) a statement to the effect that the AIFM concerned is authorised to manage AIFs with a particular management strategy.
 
-(6)[^key-32d17de1b93785054eb01331f5378bdb] In the case of an EEA mortgage intermediary, the prescribed information is—
+(6)[^c-32d17de1b93785054eb01331f5378bdb] In the case of an EEA mortgage intermediary, the prescribed information is—
 
 - (a) a statement that the firm is an EEA mortgage intermediary;
 - (b) particulars of the services to be carried on in the United Kingdom;
@@ -237,7 +237,7 @@ The Treasury, in exercise of the powers conferred on them by paragraphs 13(1)(b)
 - (d) the name and address of the mortgage creditors (if any) to which the EEA mortgage intermediary is tied; and
 - (e) whether those mortgage creditors (if any) take full and unconditional responsibility for the activities of the EEA mortgage intermediary.
 
-#### 3A. Notice of qualification for authorisation[^key-707afa6ab36faf68339966c30ee57c40]
+#### 3A. Notice of qualification for authorisation[^c-707afa6ab36faf68339966c30ee57c40]
 
 The appropriate UK regulator must notify the other regulator when an EEA firm qualifies for authorisation where—
 
@@ -246,9 +246,9 @@ The appropriate UK regulator must notify the other regulator when an EEA firm qu
 
 ### Changes relating to EEA firms
 
-#### 4. Management companies, credit institutions and financial institutions: changes to branch details[^key-18bc2aa7b872d42bbb50db2c4f85fcdc][^key-95e24ea9ce45f2a49f6603de2aaf1ef4]
+#### 4. Management companies, credit institutions and financial institutions: changes to branch details[^c-18bc2aa7b872d42bbb50db2c4f85fcdc][^c-95e24ea9ce45f2a49f6603de2aaf1ef4]
 
-(1) A[^key-c297080ead2a02b2d7f87f04d5dd939e] management company[^key-5358b1f1b166f427cb3702f012dbd03f], credit institution or financial institution which has established a branch in the United Kingdom in exercise of an EEA right must not make a change in the requisite details of the branch, unless the relevant requirements have been complied with.
+(1) A[^c-c297080ead2a02b2d7f87f04d5dd939e] management company[^c-5358b1f1b166f427cb3702f012dbd03f], credit institution or financial institution which has established a branch in the United Kingdom in exercise of an EEA right must not make a change in the requisite details of the branch, unless the relevant requirements have been complied with.
 
 (2) Where the relevant requirements have been complied with, the firm’s permission is to be treated as varied accordingly.
 
@@ -256,17 +256,17 @@ The appropriate UK regulator must notify the other regulator when an EEA firm qu
 
 (4) The requirements of this paragraph are that—
 
-- (a) the firm has given a notice to the appropriate[^key-6a2f5df94e28179fbac398e908b8ea2d] UK regulator and to its home state regulator stating the details of the proposed change;
+- (a) the firm has given a notice to the appropriate[^c-6a2f5df94e28179fbac398e908b8ea2d] UK regulator and to its home state regulator stating the details of the proposed change;
 - (b) the appropriate UK regulator has received from the home state regulator a notice stating those details; and
 - (c) either the appropriate UK regulator has informed the firm that it may make the change, or the period of one month beginning with the day on which the firm gave the appropriate UK regulator the notice mentioned in sub-paragraph (a) has elapsed.
 
 (5) The requirements of this paragraph are that the firm has as soon as practicable (whether before or after the change) given a notice to the appropriate UK regulator and to its home state regulator, stating the details of the change.
 
-(6) The appropriate UK regulator must, as soon as practicable after receiving a notice from a[^key-96b722caf097b41ef25f3683ffcdbc55] management company[^key-78b278173ac7ff8c7d7e1ce6275302ec], credit institution or financial institution under this regulation, inform the firm of any consequential changes in the applicable provisions (within the meaning of paragraph 13 of Schedule 3).
+(6) The appropriate UK regulator must, as soon as practicable after receiving a notice from a[^c-96b722caf097b41ef25f3683ffcdbc55] management company[^c-78b278173ac7ff8c7d7e1ce6275302ec], credit institution or financial institution under this regulation, inform the firm of any consequential changes in the applicable provisions (within the meaning of paragraph 13 of Schedule 3).
 
-(7)[^key-06e3820230b3f635ede3050a565673e4] In this regulation, “the appropriate UK regulator” has the same meaning as in paragraph 13 of Schedule 3.
+(7)[^c-06e3820230b3f635ede3050a565673e4] In this regulation, “the appropriate UK regulator” has the same meaning as in paragraph 13 of Schedule 3.
 
-#### 4A. Investment firms: changes to branch details[^key-1e3e3792c298346481c94d2d60149c3c]
+#### 4A. Investment firms: changes to branch details[^c-1e3e3792c298346481c94d2d60149c3c]
 
 (1) An investment firm which has established a branch in the United Kingdom in exercise of an EEA right must not—
 
@@ -285,24 +285,24 @@ unless the requirements of paragraph (3) have been complied with.
 
 (4) Paragraph (1) does not apply to a change occasioned by circumstances beyond the firm’s control.
 
-#### 5. Management companies: changes to services[^key-4a00806832c1cc7a4d26dc846ddfa3c4][^key-4f3553291e7bcf6f2c3e28bd239a3868]
+#### 5. Management companies: changes to services[^c-4a00806832c1cc7a4d26dc846ddfa3c4][^c-4f3553291e7bcf6f2c3e28bd239a3868]
 
-(1)[^key-573bd400a0498bdebc350e87aae864b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-573bd400a0498bdebc350e87aae864b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-1b26e1fd393f29f4b4255dd752f41438] A management company which is providing services in the United Kingdom in the exercise of an EEA right must not make a change in any of the matters referred to in regulation 3(2A)(b), unless the relevant requirements have been complied with.
+(1A)[^c-1b26e1fd393f29f4b4255dd752f41438] A management company which is providing services in the United Kingdom in the exercise of an EEA right must not make a change in any of the matters referred to in regulation 3(2A)(b), unless the relevant requirements have been complied with.
 
 (2) Where the relevant requirements have been complied with, the firm’s permission is to be treated as varied accordingly.
 
 (3) For the purposes of this regulation, the “relevant requirements” are that—
 
-- (a) the firm has given a notice to the appropriate[^key-96d054a397aef902347a97b8f09d669f] UK regulator and to its home state regulator stating the details of the proposed change; or
+- (a) the firm has given a notice to the appropriate[^c-96d054a397aef902347a97b8f09d669f] UK regulator and to its home state regulator stating the details of the proposed change; or
 - (b) if the change is occasioned by circumstances beyond the firm’s control, it has as soon as practicable (whether before or after the change) given to the appropriate UK regulator and to its home state regulator a notice stating the details of the change.
 
-(4) The appropriate UK regulator must, as soon as practicable after receiving a notice from an investment firm or a management company[^key-f5c2adbadbef780570bed1ec9e1d8d27] under this regulation, inform the firm of any consequential changes in the applicable provisions (within the meaning of paragraph 14 of Schedule 3).
+(4) The appropriate UK regulator must, as soon as practicable after receiving a notice from an investment firm or a management company[^c-f5c2adbadbef780570bed1ec9e1d8d27] under this regulation, inform the firm of any consequential changes in the applicable provisions (within the meaning of paragraph 14 of Schedule 3).
 
-(5)[^key-87bc7ca77f58ad404fc5da699f60c89b] In this regulation, “the appropriate UK regulator” has the same meaning as in paragraph 14 of Schedule 3.
+(5)[^c-87bc7ca77f58ad404fc5da699f60c89b] In this regulation, “the appropriate UK regulator” has the same meaning as in paragraph 14 of Schedule 3.
 
-#### 5A. Investment firms: changes to services[^key-2ce0958489d55752b3cb3a4867bd7ff8]
+#### 5A. Investment firms: changes to services[^c-2ce0958489d55752b3cb3a4867bd7ff8]
 
 (1) An investment firm which is providing services in the United Kingdom in exercise of an EEA right must not—
 
@@ -321,7 +321,7 @@ unless the requirements of paragraph (3) have been complied with.
 
 (4) Paragraph (1) does not apply to a change occasioned by circumstances beyond the firm’s control.
 
-#### 6. Insurance firms: changes to branch details[^key-adeda8d307d07ff69f80da033c0bf378]
+#### 6. Insurance firms: changes to branch details[^c-adeda8d307d07ff69f80da033c0bf378]
 
 (1) An insurance firm which has established a branch in the United Kingdom in exercise of an EEA right must not make a change in any of the details referred to in regulation 2(5)(a) to (c) with respect to the branch, unless the relevant requirements have been complied with.
 
@@ -331,7 +331,7 @@ unless the requirements of paragraph (3) have been complied with.
 
 (4) The requirements of this paragraph are that—
 
-- (a) the firm has given a notice to the appropriate[^key-aacce21d81d88b139c1cf50ba059c2a3] UK regulator and to its home state regulator stating the details of the proposed change;
+- (a) the firm has given a notice to the appropriate[^c-aacce21d81d88b139c1cf50ba059c2a3] UK regulator and to its home state regulator stating the details of the proposed change;
 - (b) the appropriate UK regulator has received from the home state regulator a notice stating that it has approved the proposed change;
 - (c) the period of one month beginning with the day on which the firm gave the appropriate UK regulator the notice mentioned in sub-paragraph (a) has elapsed; and
 - (d) either—
@@ -345,9 +345,9 @@ unless the requirements of paragraph (3) have been complied with.
 - (a) acknowledge receipt of the documents sent under paragraph (4) or (5); and
 - (b) in the case of a notice under paragraph (5), inform the firm’s home state regulator of any consequential changes in the applicable provisions (within the meaning of paragraph 13 of Schedule 3).
 
-(7)[^key-8e12c6344df5c6f0d15cd4e150d9d652] In this regulation, “the appropriate UK regulator” has the same meaning as in paragraph 13 of Schedule 3.
+(7)[^c-8e12c6344df5c6f0d15cd4e150d9d652] In this regulation, “the appropriate UK regulator” has the same meaning as in paragraph 13 of Schedule 3.
 
-#### 7. Insurance firms: changes to services[^key-8427db1ede44fdbee80b7ad4eb3f0775]
+#### 7. Insurance firms: changes to services[^c-8427db1ede44fdbee80b7ad4eb3f0775]
 
 (1) An insurance firm which is providing services in the United Kingdom in exercise of an EEA right must not make a change in any of the matters referred to in regulation 3(3)(b), (c) or (d), unless the relevant requirements have been complied with.
 
@@ -358,13 +358,13 @@ unless the requirements of paragraph (3) have been complied with.
 (4) The requirements of this paragraph are that—
 
 - (a) the firm has given a notice to its home state regulator stating the details of the proposed change; and
-- (b) the home state regulator has passed to the appropriate[^key-6acba463f99b7b89cbd0ebff80bf2223] UK regulator the information contained in that notice.
+- (b) the home state regulator has passed to the appropriate[^c-6acba463f99b7b89cbd0ebff80bf2223] UK regulator the information contained in that notice.
 
 (5) The requirements of this paragraph are that the firm has as soon as practicable (whether before or after the change) given to its home state regulator a notice stating the details of the change.
 
-(6)[^key-d71b4cb188e277199ff38053d44ad800] In this regulation, “the appropriate UK regulator” has the same meaning as in paragraph 14 of Schedule 3.
+(6)[^c-d71b4cb188e277199ff38053d44ad800] In this regulation, “the appropriate UK regulator” has the same meaning as in paragraph 14 of Schedule 3.
 
-#### 7A. EEA AIFM: changes to branch details or services[^key-1b2438303c78d3a50c18d0e95d9ae3e4]
+#### 7A. EEA AIFM: changes to branch details or services[^c-1b2438303c78d3a50c18d0e95d9ae3e4]
 
 (1) An EEA AIFM which is exercising an EEA right in the United Kingdom deriving from the alternative investment fund managers directive must not make a material change to any of the matters referred to in regulation 2(6)(b) to (e) or 3(5)(b) or (c) unless the relevant requirement has been complied with.
 
@@ -374,7 +374,7 @@ unless the requirements of paragraph (3) have been complied with.
 
 (4) In this regulation “**the appropriate UK regulator**” has the same meaning as in paragraph 14 of Schedule 3.
 
-#### 7B. EEA mortgage intermediary: changes to branch details or services[^key-84aaa4fd147a1e63315b1d2de20c88f8]
+#### 7B. EEA mortgage intermediary: changes to branch details or services[^c-84aaa4fd147a1e63315b1d2de20c88f8]
 
 (1) An EEA mortgage intermediary which is exercising an EEA right in the United Kingdom deriving from the mortgages directive must not make a material change to any of the matters referred to in regulation 2(8)(b) to (e) or regulation 3(6)(b) to (e) unless the relevant requirements have been complied with.
 
@@ -393,7 +393,7 @@ unless the requirements of paragraph (3) have been complied with.
 
 (7) In this regulation “**the appropriate UK regulator**” has the same meaning as in paragraph 14 of Schedule 3.
 
-#### 7C. Insurance intermediary: changes to branch details or services[^key-e160a58c9684fb32f5cd92f1ca22827c]
+#### 7C. Insurance intermediary: changes to branch details or services[^c-e160a58c9684fb32f5cd92f1ca22827c]
 
 (1) An EEA firm which is exercising an EEA right in the United Kingdom deriving from the insurance distribution directive must not make a material change to any of the matters referred to in regulation 2(9) or regulation 3(4) as the case may be unless the relevant requirements have been complied with.
 
@@ -408,20 +408,20 @@ unless the requirements of paragraph (3) have been complied with.
 
 ### Cancellation of qualification for authorisation
 
-#### 8. EEA firms ceasing to carry on regulated activities in the United Kingdom[^key-25094def734fb240aefeab537559f9c3]
+#### 8. EEA firms ceasing to carry on regulated activities in the United Kingdom[^c-25094def734fb240aefeab537559f9c3]
 
 Where an EEA firm which is qualified for authorisation under Schedule 3—
 
 - (a) has ceased, or is to cease to carry on regulated activities in the United Kingdom, and
-- (b) gives notice of that fact to—[^key-49872a96589eac27a9d293b3dca09830]
+- (b) gives notice of that fact to—[^c-49872a96589eac27a9d293b3dca09830]
   - (i) in relation to an EEA firm which is a PRA-authorised person, the PRA;
   - (ii) in any other case, the FCA,
 
 the notice is to be treated as a request for cancellation of the firm’s qualification for authorisation under Schedule 3 (and hence as a request under section 34(2) of the Act).
 
-#### 9. Financial institutions giving up right to authorisation[^key-921c15f7f7b6e101ec0d41fd3bf54359]
+#### 9. Financial institutions giving up right to authorisation[^c-921c15f7f7b6e101ec0d41fd3bf54359]
 
-(1) The appropriate[^key-ec0416667533a0afe3beb52e9b557a4d] UK regulator may, on an application by a financial institution which is qualified for authorisation under Schedule 3, direct that the firm’s qualification for authorisation under Schedule 3 is cancelled from such date as may be specified in the direction.
+(1) The appropriate[^c-ec0416667533a0afe3beb52e9b557a4d] UK regulator may, on an application by a financial institution which is qualified for authorisation under Schedule 3, direct that the firm’s qualification for authorisation under Schedule 3 is cancelled from such date as may be specified in the direction.
 
 (2) The appropriate UK regulator must not give such a direction unless—
 
@@ -437,12 +437,12 @@ the notice is to be treated as a request for cancellation of the firm’s qualif
 
 (5) A firm in respect of which such a direction has been given may (notwithstanding subsection (3) of section 40 of the Act) apply for permission under that section, to take effect not earlier than the date referred to in paragraph (1).
 
-(6)[^key-dfd7258eedb57411664ed65f4f42dbbf] In this regulation, “the appropriate UK regulator” means—
+(6)[^c-dfd7258eedb57411664ed65f4f42dbbf] In this regulation, “the appropriate UK regulator” means—
 
 - (a) in relation to an EEA firm which is a PRA-authorised person, the PRA;
 - (b) in any other case, the FCA.
 
-#### 9A. EEA mortgage intermediaries giving up right to authorisation[^key-a34084e75e3cea1d031dc540b11dc8d6]
+#### 9A. EEA mortgage intermediaries giving up right to authorisation[^c-a34084e75e3cea1d031dc540b11dc8d6]
 
 (1) The appropriate UK regulator may, where paragraph (2) or (3) applies, direct that the qualification for authorisation given to an EEA mortgage intermediary under Schedule 3 is cancelled from such date as may be specified in the direction.
 
@@ -459,11 +459,11 @@ the notice is to be treated as a request for cancellation of the firm’s qualif
 
 ### Applications for approval under section 60 by EEA firms
 
-#### 10. Applications for approval under section 60 by EEA firms[^key-c035d035efab1f03b798b7a777da4745]
+#### 10. Applications for approval under section 60 by EEA firms[^c-c035d035efab1f03b798b7a777da4745]
 
 In section 60 of the Act (applications for approval for persons to perform controlled functions), “the authorised person concerned” includes—
 
-(a) an[^M_F_4f4349a8-ae19-4f97-bdce-cb75cd7d3289] EEA firm with respect to which the appropriate[^key-3c3e19815e36194a445f05596ecf88a3] UK regulator (within the meaning of the relevant paragraph of Schedule 3) has received a consent notice or regulator’s notice[^key-3575d70900216b31faee54e53997ed77] under paragraph 13 of Schedule 3 or a regulator’s notice under paragraph 14 of that Schedule, and which will be the authorised person concerned if it qualifies for authorisation under that Schedule; and[^M_F_19dc1388-4997-47d2-ccfe-98d4b8da6817]
+(a) an[^M_F_4f4349a8-ae19-4f97-bdce-cb75cd7d3289] EEA firm with respect to which the appropriate[^c-3c3e19815e36194a445f05596ecf88a3] UK regulator (within the meaning of the relevant paragraph of Schedule 3) has received a consent notice or regulator’s notice[^c-3575d70900216b31faee54e53997ed77] under paragraph 13 of Schedule 3 or a regulator’s notice under paragraph 14 of that Schedule, and which will be the authorised person concerned if it qualifies for authorisation under that Schedule; and[^M_F_19dc1388-4997-47d2-ccfe-98d4b8da6817]
 
 (b) an EEA firm which falls within paragraph 5(da) of Schedule 3 which establishes a branch in the United Kingdom.
 
@@ -471,16 +471,16 @@ In section 60 of the Act (applications for approval for persons to perform contr
 
 ### Changes relating to UK firms
 
-#### 10A. Meaning of “the appropriate UK regulator”[^key-f0bd922c21c37994b4c9cef1369527b0]
+#### 10A. Meaning of “the appropriate UK regulator”[^c-f0bd922c21c37994b4c9cef1369527b0]
 
 In this Part, “the appropriate UK regulator” means—
 
 - (a) in relation to a UK firm which is a PRA-authorised person, the PRA;
 - (b) in any other case, the FCA.
 
-#### 11. UK ... management companies, credit institutions and financial institutions: changes to branch details[^key-24d50045e80575de814e1b295385c762][^key-a6f6ed804daf798bfa38a66f56241612][^key-03a3ebf8415c57cad5e77ac01c20da7c]
+#### 11. UK ... management companies, credit institutions and financial institutions: changes to branch details[^c-24d50045e80575de814e1b295385c762][^c-a6f6ed804daf798bfa38a66f56241612][^c-03a3ebf8415c57cad5e77ac01c20da7c]
 
-(1) A UK firm which has exercised an EEA right, deriving from [^key-7dabd897b2282bc2e6f846e037a4c0a4]... the UCITS directive[^key-4f7a07d8693f301f3e111683117770ad] or the capital requirements directive[^key-85c057654956f57c36a583b355d59295], to establish a branch must not make a change in the requisite details of the branch unless the requirements of paragraph (2) or (if the change is occasioned by circumstances beyond the firm’s control) paragraph (3) have been complied with.
+(1) A UK firm which has exercised an EEA right, deriving from [^c-7dabd897b2282bc2e6f846e037a4c0a4]... the UCITS directive[^c-4f7a07d8693f301f3e111683117770ad] or the capital requirements directive[^c-85c057654956f57c36a583b355d59295], to establish a branch must not make a change in the requisite details of the branch unless the requirements of paragraph (2) or (if the change is occasioned by circumstances beyond the firm’s control) paragraph (3) have been complied with.
 
 (2) The requirements of this paragraph are that—
 
@@ -504,7 +504,7 @@ In this Part, “the appropriate UK regulator” means—
 
 (7) The Authority may not refuse to consent to the change unless, having regard to the change and to the EEA activities which the firm is seeking to carry on, it doubts the adequacy of the administrative structure or the financial situation of the firm; and in reaching a determination as to the adequacy of the administrative structure, the Authority may have regard to the adequacy of management, systems and controls and the presence of relevant skills needed for the EEA activities to be carried on.
 
-#### 11A. UK investment firms: changes to branch details[^key-fe0d9a670ea78cc5e92a97e93d783aec]
+#### 11A. UK investment firms: changes to branch details[^c-fe0d9a670ea78cc5e92a97e93d783aec]
 
 (1) A UK investment firm which has exercised an EEA right deriving from the markets in financial instruments directive to establish a branch must not—
 
@@ -523,16 +523,16 @@ unless the requirements of paragraph (2) have been complied with.
 
 (4) Paragraph (1) does not apply to a change occasioned by circumstances beyond the firm’s control.
 
-#### 12. UK ... management companies: changes to services[^key-33a139be7c5b555878d16702b0e6e6ce][^key-f4483440b2b749cf418ef0b05a532266][^key-dd992cf15ae3580fa342ccde5ab62450]
+#### 12. UK ... management companies: changes to services[^c-33a139be7c5b555878d16702b0e6e6ce][^c-f4483440b2b749cf418ef0b05a532266][^c-dd992cf15ae3580fa342ccde5ab62450]
 
-(1) A UK firm which is providing services in exercise of an EEA right, deriving from [^key-9640cdc4a3ff53fc0f2c73898eae53c7]... the UCITS directive[^key-52067f77a8515d7066e66bc3b5669054], must not make a change in the programme of operations, or the EEA activities, to be carried on in exercise of that right, unless the relevant requirements have been complied with.
+(1) A UK firm which is providing services in exercise of an EEA right, deriving from [^c-9640cdc4a3ff53fc0f2c73898eae53c7]... the UCITS directive[^c-52067f77a8515d7066e66bc3b5669054], must not make a change in the programme of operations, or the EEA activities, to be carried on in exercise of that right, unless the relevant requirements have been complied with.
 
 (2) For the purposes of this regulation, the “relevant requirements” are that—
 
 - (a) the firm has given a notice to the Authority and to the host state regulator stating the details of the proposed change; or
 - (b) if the change is occasioned by circumstances beyond the firm’s control, it has as soon as practicable (whether before or after the change) given a notice to the Authority and to the host state regulator, stating the details of the change.
 
-#### 12A. UK investment firms: changes to services[^key-f747340c6a720eb02c9bc2b254523cc0]
+#### 12A. UK investment firms: changes to services[^c-f747340c6a720eb02c9bc2b254523cc0]
 
 (1) A UK investment firm which is providing services in a particular EEA State in exercise of an EEA right deriving from the markets in financial instruments directive must not—
 
@@ -551,9 +551,9 @@ unless the requirements of paragraph (2) have been complied with.
 
 (4) Paragraph (1) does not apply to a change occasioned by circumstances beyond the firm’s control.
 
-#### 13. UK insurance firms: changes to relevant EEA details of branches[^key-8073f16571672ba06f8805be2152c974]
+#### 13. UK insurance firms: changes to relevant EEA details of branches[^c-8073f16571672ba06f8805be2152c974]
 
-(1) A UK firm which has exercised an EEA right, deriving from the Solvency 2 Directive[^key-fd09d39fd6684897ff76d484763bbef8], to establish a branch must not make a change in the relevant EEA details (as defined in regulation 14), unless the requirements of paragraph (2) or (if the change is occasioned by circumstances beyond the firm’s control) paragraph (3) have been complied with.
+(1) A UK firm which has exercised an EEA right, deriving from the Solvency 2 Directive[^c-fd09d39fd6684897ff76d484763bbef8], to establish a branch must not make a change in the relevant EEA details (as defined in regulation 14), unless the requirements of paragraph (2) or (if the change is occasioned by circumstances beyond the firm’s control) paragraph (3) have been complied with.
 
 (2) The requirements of this paragraph are that—
 
@@ -585,7 +585,7 @@ unless the requirements of paragraph (2) have been complied with.
 
 in relation to the business conducted, or to be conducted, through the branch.
 
-#### 14. Relevant EEA details for the purposes of regulation 13[^key-f8034c5b04bbb43a6b430ba67af52264]
+#### 14. Relevant EEA details for the purposes of regulation 13[^c-f8034c5b04bbb43a6b430ba67af52264]
 
 (1) For the purposes of regulation 13, the relevant EEA details, with respect to a branch, are—
 
@@ -620,18 +620,18 @@ in relation to the business conducted, or to be conducted, through the branch.
 - (b) estimates relating to premiums or contributions (both gross and net of all reinsurance ceded) and to claims (after all reinsurance recoveries); and
 - (c) estimates relating to the financial resources to cover underwriting liabilities.
 
-#### 15. UK insurance firms: changes to relevant UK details of branches[^key-6e272e60fb079bbe4743862ff67029a7]
+#### 15. UK insurance firms: changes to relevant UK details of branches[^c-6e272e60fb079bbe4743862ff67029a7]
 
-(1) A UK firm which has exercised an EEA right, deriving from the Solvency 2 Directive[^key-4d9b56b9c2a9d094c4e1c78e38730ffa], to establish a branch must not make a change falling within paragraph (2) with respect to the branch, unless—
+(1) A UK firm which has exercised an EEA right, deriving from the Solvency 2 Directive[^c-4d9b56b9c2a9d094c4e1c78e38730ffa], to establish a branch must not make a change falling within paragraph (2) with respect to the branch, unless—
 
 - (a) the firm has given a notice to the Authority stating the details of the proposed change at least one month before the change is effected; or
 - (b) if the change is occasioned by circumstances beyond the firm’s control, the firm has as soon as practicable (whether before or after the change) given a notice to the Authority stating the details of the change.
 
 (2) A change falls within this paragraph if it is a change in any of the information which the UK firm was required to provide to the Authority by or under paragraph 19(2) of Schedule 3, other than a change in the relevant EEA details referred to in regulation 13.
 
-#### 16. UK insurance firms: changes to services[^key-79d105016c40d6fcf9d168b16dce3142]
+#### 16. UK insurance firms: changes to services[^c-79d105016c40d6fcf9d168b16dce3142]
 
-(1) A UK firm which is providing services in exercise of an EEA right, deriving from the Solvency 2 Directive[^key-87f00706a88cb448930b8985018ffd49], must not make a change in the relevant details (as defined in regulation 17), unless the relevant requirements have been complied with.
+(1) A UK firm which is providing services in exercise of an EEA right, deriving from the Solvency 2 Directive[^c-87f00706a88cb448930b8985018ffd49], must not make a change in the relevant details (as defined in regulation 17), unless the relevant requirements have been complied with.
 
 (2) For the purposes of this regulation, the “relevant requirements” are those of paragraph (3) or (if the change is occasioned by circumstances beyond the firm’s control) paragraph (4).
 
@@ -654,7 +654,7 @@ in relation to the business conducted, or to be conducted, through the branch.
 - (a) the firm may refer the matter to the Tribunal; and
 - (b) the Authority must give notice to the firm of the refusal, stating the reasons for it, and giving an indication of the firm’s right to refer the matter to the Tribunal, and the procedure on such a reference.
 
-#### 17. Relevant details for the purposes of regulation 16[^key-37d9bb00bebd4555be9750a9a23770e6]
+#### 17. Relevant details for the purposes of regulation 16[^c-37d9bb00bebd4555be9750a9a23770e6]
 
 The relevant details for the purposes of regulation 16 are—
 
@@ -665,9 +665,9 @@ The relevant details for the purposes of regulation 16 are—
   - (ii) details of the firm’s membership of the national bureau and the national guarantee fund in the EEA State concerned; and
 - (d) if the insurer covers, or intends to cover, health insurance risks, the technical bases used, or to be used, for calculating premiums in respect of such risks.
 
-#### 17A. Full-scope UK AIFM: changes to branch details or services[^key-06b7b25858ba6ea626017aa8e7093f77]
+#### 17A. Full-scope UK AIFM: changes to branch details or services[^c-06b7b25858ba6ea626017aa8e7093f77]
 
-(1) A full-scope UK AIFM which has exercised an EEA right, deriving from the alternative investment fund managers directive, to establish a branch must not change any of the matters referred to in regulation 2(6)(aa) to (e)[^key-6cc4ab618ce858182d23492c5065a180] unless the relevant requirements have been complied with.
+(1) A full-scope UK AIFM which has exercised an EEA right, deriving from the alternative investment fund managers directive, to establish a branch must not change any of the matters referred to in regulation 2(6)(aa) to (e)[^c-6cc4ab618ce858182d23492c5065a180] unless the relevant requirements have been complied with.
 
 (2) A full-scope UK AIFM which is providing services in exercise of an EEA right deriving from the alternative investment fund managers directive, other than the EEA right to market an AIF, must not change—
 
@@ -730,7 +730,7 @@ as a result of which the AIFM no longer complies with an implementing provision,
 - “**master AIF**” has the meaning given in Article 4.1(y) of that directive;
 - “**retail investor**” has the meaning given in Article 4.1(aj) of that directive.
 
-#### 17B. UK firm exercising an EEA right under the mortgages directive: changes to branch details or services[^key-619d40145b0bcc4aec64c81fa216faaf]
+#### 17B. UK firm exercising an EEA right under the mortgages directive: changes to branch details or services[^c-619d40145b0bcc4aec64c81fa216faaf]
 
 (1) A mortgage intermediary which has exercised an EEA right deriving from the mortgages directive to establish a branch or provide services must not make any material change to the requisite details of the branch or to the services to be carried on in exercise of that EEA right unless the requirements of paragraph (2) have been complied with.
 
@@ -743,7 +743,7 @@ as a result of which the AIFM no longer complies with an implementing provision,
 
 (4) Paragraph (1) does not apply to a change occasioned by circumstances beyond the mortgage intermediary's control.
 
-#### 17C. UK firm exercising an EEA right under the insurance distribution directive: changes to branch details or services[^key-8dd938894c8d1101dce67a8c81d319c8]
+#### 17C. UK firm exercising an EEA right under the insurance distribution directive: changes to branch details or services[^c-8dd938894c8d1101dce67a8c81d319c8]
 
 (1) A UK firm which has exercised an EEA right deriving from the insurance distribution directive to establish a branch or provide services must not make any material change to the relevant details (as defined in regulation 17D) unless the requirements of paragraph (2) have been complied with.
 
@@ -765,9 +765,9 @@ The relevant details for the purposes of regulation 17C are—
   - (i) the address in the host Member State from which documents may be obtained; and
   - (ii) the name of any person responsible for the management of the branch or permanent presence.
 
-#### 18. Offences relating to failure to notify changes[^key-5a8b34a6b9f05d6b4ed8f48521cf7ca3]
+#### 18. Offences relating to failure to notify changes[^c-5a8b34a6b9f05d6b4ed8f48521cf7ca3]
 
-(1) If a UK firm which is not an authorised person contravenes the prohibition imposed by regulation 11(1), 11A(1),[^key-871348c06a66fcc904b9c89a1d79d3e6] 12(1), 12A(1), 13(1), 15(1), 16(1) or 17C(1)[^key-086c51241f4666cdbc9558cb2ad68d13] it is guilty of an offence, punishable—
+(1) If a UK firm which is not an authorised person contravenes the prohibition imposed by regulation 11(1), 11A(1),[^c-871348c06a66fcc904b9c89a1d79d3e6] 12(1), 12A(1), 13(1), 15(1), 16(1) or 17C(1)[^c-086c51241f4666cdbc9558cb2ad68d13] it is guilty of an offence, punishable—
 
 - (a) on summary conviction, by a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, by a fine.
@@ -776,7 +776,7 @@ The relevant details for the purposes of regulation 17C are—
 
 ### UK firms: scope of outward passport
 
-#### 19. UK firms: scope of outward passport[^key-4ca5f79b7c2f56d786311b91c40c6b75]
+#### 19. UK firms: scope of outward passport[^c-4ca5f79b7c2f56d786311b91c40c6b75]
 
 (1)[^M_F_37e6b271-7e3a-4bc8-fb1e-8b42bc13e4d6] Where—
 
@@ -787,12 +787,12 @@ the UK firm is to be treated, for the purposes of the exercise of its EEA right,
 
 (2)[^M_F_76eee191-5e75-4f24-a4bc-acb425ce6b9b] Where—
 
-- (a) the activities of a UK firm which pursues the activity of reinsurance (within the meaning of Article 13(7) of the Solvency 2 Directive[^key-bab0253271de20b790520cc43df54e86]) includes any activity which is not a regulated activity, and
+- (a) the activities of a UK firm which pursues the activity of reinsurance (within the meaning of Article 13(7) of the Solvency 2 Directive[^c-bab0253271de20b790520cc43df54e86]) includes any activity which is not a regulated activity, and
 - (b) that activity is one which the UK firm in question is able to carry on in the EEA State in question without contravening any provision of the law of the United Kingdom (or any part of the United Kingdom),
 
 the UK firm is to be treated, for the purpose of the exercise of its EEA right, as being authorised to carry on that activity.
 
-## PART 3A — TREATY FIRMS[^key-1eba383f1935d0a8cf50288b4590c7cb]
+## PART 3A — TREATY FIRMS[^c-1eba383f1935d0a8cf50288b4590c7cb]
 
 ### 19A. Notice of qualification for authorisation
 
@@ -803,7 +803,7 @@ The appropriate UK regulator must notify the other regulator when a Treaty firm 
 
 ## PART IV — Transitional Provisions
 
-### 20. Changes relating to EEA firms: procedures partly completed at commencement[^key-c2e19a9aa259172d728d096de8e01da7]
+### 20. Changes relating to EEA firms: procedures partly completed at commencement[^c-c2e19a9aa259172d728d096de8e01da7]
 
 (1) If before commencement—
 
@@ -819,7 +819,7 @@ the notice is to be treated as given under regulation 4(4)(a), and the other req
 
 the notice is to be treated as given under regulation 4(4)(a), and the other requirements set out in regulation 4(4) treated as satisfied to the extent to which the corresponding requirements in paragraph 5(1) of that Schedule had been satisfied.
 
-(3) In a case falling within paragraph (1) or (2), regulation 4(6) applies unless the Financial Services Authority[^key-ff26a65e8df7b5aca388b36d6aa280c7] had, before commencement, complied with the duty in regulation 8(3) of the 2BCD Regulations or regulation 8(4) of the ISD Regulations.
+(3) In a case falling within paragraph (1) or (2), regulation 4(6) applies unless the Financial Services Authority[^c-ff26a65e8df7b5aca388b36d6aa280c7] had, before commencement, complied with the duty in regulation 8(3) of the 2BCD Regulations or regulation 8(4) of the ISD Regulations.
 
 (4) If before commencement—
 
@@ -837,7 +837,7 @@ the notice is to be treated as given under regulation 6(4)(a), and the other req
 
 the notice is to be treated as given under regulation 7(4)(a).
 
-### 21. Changes relating to UK firms: procedures partly completed at commencement[^key-309615c39b7517cf3b6e8e951e1053e5]
+### 21. Changes relating to UK firms: procedures partly completed at commencement[^c-309615c39b7517cf3b6e8e951e1053e5]
 
 (1) If before commencement a UK firm gave notice under paragraph 5(1)(a) of Schedule 6 to the 2BCD Regulations or paragraph 6(1)(a) of Schedule 6 to the ISD Regulations (changes to details of branch)—
 
@@ -853,7 +853,7 @@ unless paragraph (2) applies.
 
 (3) If before commencement a UK firm gave notice under paragraph 2(2)(a) of Schedule 2G to the Insurance Companies Act[^f00011] or Schedule 13B to the Friendly Societies Act[^f00012] (changes to details of branch)—
 
-- (a) the notice is to be treated as given to the Financial Services Authority[^key-91bb27e6a5785f3ebfce5c2ba0b087d6] under regulation 13(2)(a), and
+- (a) the notice is to be treated as given to the Financial Services Authority[^c-91bb27e6a5785f3ebfce5c2ba0b087d6] under regulation 13(2)(a), and
 - (b) the other requirements set out in regulation 13(2) are to be treated as satisfied to the extent to which the corresponding requirements in paragraph 2(2) of Schedule 2G to the Insurance Companies Act or of Schedule 13B to the Friendly Societies Act had been satisfied,
 
 unless paragraph (4) applies.
@@ -896,262 +896,262 @@ Part IV makes transitional provision relating to cases where the procedures appl
 
 [^f00002]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Schedule 3 was amended by [SI 2000/2952](https://www.legislation.gov.uk/uksi/2000/2952), regulation 8, and by [SI 2001/1376](https://www.legislation.gov.uk/uksi/2001/1376).
 
-[^key-676356688a31f8bcf9e46cdb4d578216]: Modification: Regulations modified (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [4](https://www.legislation.gov.uk/uksi/2013/642/article/4)
+[^c-676356688a31f8bcf9e46cdb4d578216]: Modification: Regulations modified (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [4](https://www.legislation.gov.uk/uksi/2013/642/article/4)
 
-[^key-938e84d29801337ac39a1705a1a3cc4a]: Modification: Regulations extended (Gibraltar) (with modifications) (31.12.2020) by [S.I. 2001/3084](https://www.legislation.gov.uk/uksi/2001/3084), [arts. 2](https://www.legislation.gov.uk/uksi/2001/3084/article/2), [2A](https://www.legislation.gov.uk/uksi/2001/3084/article/2A), [3](https://www.legislation.gov.uk/uksi/2001/3084/article/3), [4](https://www.legislation.gov.uk/uksi/2001/3084/article/4), [5](https://www.legislation.gov.uk/uksi/2001/3084/article/5) (as amended by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2019/589/regulation/5), [6](https://www.legislation.gov.uk/uksi/2019/589/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/589/regulation/9) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)) (as amended (27.2.2025) by [S.I. 2025/82](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 4(f)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/4/f))
+[^c-938e84d29801337ac39a1705a1a3cc4a]: Modification: Regulations extended (Gibraltar) (with modifications) (31.12.2020) by [S.I. 2001/3084](https://www.legislation.gov.uk/uksi/2001/3084), [arts. 2](https://www.legislation.gov.uk/uksi/2001/3084/article/2), [2A](https://www.legislation.gov.uk/uksi/2001/3084/article/2A), [3](https://www.legislation.gov.uk/uksi/2001/3084/article/3), [4](https://www.legislation.gov.uk/uksi/2001/3084/article/4), [5](https://www.legislation.gov.uk/uksi/2001/3084/article/5) (as amended by [The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/589)](https://www.legislation.gov.uk/uksi/2019/589), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/589/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2019/589/regulation/5), [6](https://www.legislation.gov.uk/uksi/2019/589/regulation/6), [9](https://www.legislation.gov.uk/uksi/2019/589/regulation/9) (with [reg. 12](https://www.legislation.gov.uk/uksi/2019/589/regulation/12)) (as amended by [S.I. 2020/1274](https://www.legislation.gov.uk/uksi/2020/1274), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1274/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1274/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)) (as amended (27.2.2025) by [S.I. 2025/82](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 4(f)](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/4/f))
 
-[^key-16256e9229f27d5cb22d1e2692bdd109]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-16256e9229f27d5cb22d1e2692bdd109]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
 [^f00003]: Footnote: [SI 1992/3218](https://www.legislation.gov.uk/uksi/1992/3218), amended by the Bank of England Act [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11), Sch. 5 and Sch. 9, and by SIs [1993/1819](https://www.legislation.gov.uk/uksi/1993/1819), [1993/3225](https://www.legislation.gov.uk/uksi/1993/3225), [1995/1217](https://www.legislation.gov.uk/uksi/1995/1217), [1995/1442](https://www.legislation.gov.uk/uksi/1995/1442), [1995/1537](https://www.legislation.gov.uk/uksi/1995/1537), [1996/1669](https://www.legislation.gov.uk/uksi/1996/1669), [1997/816](https://www.legislation.gov.uk/uksi/1997/816), [1999/2094](https://www.legislation.gov.uk/uksi/1999/2094), [2000/2952](https://www.legislation.gov.uk/uksi/2000/2952) and [2001/1149](https://www.legislation.gov.uk/uksi/2001/1149).
 
-[^key-696977781aa9740ae18aad42faf42ab7]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/642/article/3/a)
+[^c-696977781aa9740ae18aad42faf42ab7]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/642/article/3/a)
 
-[^key-1116a271850b4eb0b820b2ea07bba8d5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) omitted (9.2.2011 for specified purposes, 30.4.2011 in so far as not already in force) by virtue of [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/99/regulation/1/2), [Sch. 4 para. 11(a)](https://www.legislation.gov.uk/uksi/2011/99/schedule/4/paragraph/11/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/99/regulation/3))
+[^c-1116a271850b4eb0b820b2ea07bba8d5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) omitted (9.2.2011 for specified purposes, 30.4.2011 in so far as not already in force) by virtue of [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/99/regulation/1/2), [Sch. 4 para. 11(a)](https://www.legislation.gov.uk/uksi/2011/99/schedule/4/paragraph/11/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/99/regulation/3))
 
-[^key-efde115efaad24defb9b1a79a0a3cb0e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/9/2) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-efde115efaad24defb9b1a79a0a3cb0e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/9/2) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
 [^f00004]: Footnote: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
 
-[^key-02ed48976bdcd62fcffd8e0d17c90cff]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/2)
+[^c-02ed48976bdcd62fcffd8e0d17c90cff]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/2)
 
 [^f00005]: Footnote: [1982 c. 50](https://www.legislation.gov.uk/ukpga/1982/50).
 
-[^key-9fd422d671d58500e926db1cb91856d0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) inserted (14.1.2005) by [The Insurance Mediation Directive (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/1473)](https://www.legislation.gov.uk/uksi/2003/1473), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1473/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2003/1473/regulation/8/2)
+[^c-9fd422d671d58500e926db1cb91856d0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) inserted (14.1.2005) by [The Insurance Mediation Directive (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/1473)](https://www.legislation.gov.uk/uksi/2003/1473), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1473/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2003/1473/regulation/8/2)
 
 [^f00006]: Footnote: S.I. [1995/3275](https://www.legislation.gov.uk/uksi/1995/3275), amended by the Bank of England [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11), s. 25, Sch. 5 and Sch. 9, S.I. [1996/1669](https://www.legislation.gov.uk/uksi/1996/1669) and S.I. [2000/1696](https://www.legislation.gov.uk/uksi/2000/1696).
 
-[^key-82509380a13643a8308442967d06e669]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/2/3)
+[^c-82509380a13643a8308442967d06e669]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/2/3)
 
 [^f00007]: Footnote: OJ No. L008, 11.1.1984, p.17. The text is subject to a corrigendum in OJ L043, 15.2.1984, p.27, and the directive was amended by Council Directive [90/232/EEC](https://www.legislation.gov.uk/european/directive/1990/0232) (OJ L129, 19.5.1990, p.33).
 
 [^f00008]: Footnote: S.I. [2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 
-[^key-e1a0ee5675959cb50f35fa67c6b0789c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2006/3385/regulation/3) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-e1a0ee5675959cb50f35fa67c6b0789c]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2006/3385/regulation/3) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-5cad72c49693a65d864423478bd18c71]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/5/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+[^c-5cad72c49693a65d864423478bd18c71]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/5/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
 
-[^key-633d147cb9e2f85fe5bf3204c913d3ea]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (Amendment) Regulations 2007 (S.I. 2007/763)](https://www.legislation.gov.uk/uksi/2007/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/763/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2007/763/regulation/8)
+[^c-633d147cb9e2f85fe5bf3204c913d3ea]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/2) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) (Amendment) Regulations 2007 (S.I. 2007/763)](https://www.legislation.gov.uk/uksi/2007/763), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/763/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2007/763/regulation/8)
 
-[^key-8c64a706db18fb938666d1cede7825bc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-8c64a706db18fb938666d1cede7825bc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-aa76862eed567823508ab5f3484935a6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/1) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/642/article/3/b)
+[^c-aa76862eed567823508ab5f3484935a6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/1) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/642/article/3/b)
 
-[^key-1abea937b0ee70596fe81a12fa1cc9c6]: Textual amendment: Word in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/2/b) omitted (1.4.2007) by virtue of [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2/a), [4(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/4/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-1abea937b0ee70596fe81a12fa1cc9c6]: Textual amendment: Word in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/2/b) omitted (1.4.2007) by virtue of [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2/a), [4(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/4/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-a7c9669211efcd81e69022fb82665245]: Textual amendment: [Reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/2/c)[(d)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/2/d) substituted for [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/2/c) (1.4.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2/a), [4(b)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/4/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-a7c9669211efcd81e69022fb82665245]: Textual amendment: [Reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/2/c)[(d)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/2/d) substituted for [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/2/c) (1.4.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2/a), [4(b)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/4/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-e5189fba8e6f3df6e1f944d95377179f]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/2A) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/3/2/a)
+[^c-e5189fba8e6f3df6e1f944d95377179f]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/2A) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/3/2/a)
 
-[^key-2cee0068ba0a53fb25317eedfe8d6afc]: Textual amendment: Words in [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/3/c) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 56(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/56/2/a/i)
+[^c-2cee0068ba0a53fb25317eedfe8d6afc]: Textual amendment: Words in [reg. 2(3)(c)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/3/c) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 56(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/56/2/a/i)
 
-[^key-e104b9bbf59f2ff7d573b6d9b78bd845]: Textual amendment: [Reg. 2(3)(d)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/3/d) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 56(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/56/2/a/ii)
+[^c-e104b9bbf59f2ff7d573b6d9b78bd845]: Textual amendment: [Reg. 2(3)(d)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/3/d) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 56(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/56/2/a/ii)
 
-[^key-a563143857603705202c7d3da79b6124]: Textual amendment: Words in [reg. 2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/4/a/ii) omitted (9.2.2011 for specified purposes, 30.4.2011 in so far as not already in force) by virtue of [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/99/regulation/1/2), [Sch. 4 para. 11(c)](https://www.legislation.gov.uk/uksi/2011/99/schedule/4/paragraph/11/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/99/regulation/3))
+[^c-a563143857603705202c7d3da79b6124]: Textual amendment: Words in [reg. 2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/4/a/ii) omitted (9.2.2011 for specified purposes, 30.4.2011 in so far as not already in force) by virtue of [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/99/regulation/1/2), [Sch. 4 para. 11(c)](https://www.legislation.gov.uk/uksi/2011/99/schedule/4/paragraph/11/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/99/regulation/3))
 
-[^key-ca378c64be52b6e9b90436428ceed2b4]: Textual amendment: Words in [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/4/c) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 56(2)(b)(i)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/56/2/b/i)
+[^c-ca378c64be52b6e9b90436428ceed2b4]: Textual amendment: Words in [reg. 2(4)(c)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/4/c) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 56(2)(b)(i)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/56/2/b/i)
 
-[^key-e3334e7c4fa47bab7a3f3ec0771c1fba]: Textual amendment: [Reg. 2(4)(d)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/4/d) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 56(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/56/2/b/ii)
+[^c-e3334e7c4fa47bab7a3f3ec0771c1fba]: Textual amendment: [Reg. 2(4)(d)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/4/d) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 56(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/56/2/b/ii)
 
 [^f00009]: Footnote: [1929 c. 23](https://www.legislation.gov.uk/ukpga/1929/23). Repealed by the Companies Act [1948 (c. 38)](https://www.legislation.gov.uk/ukpga/1948/38).
 
-[^key-1c43db125e5c8e0bec9ba390b34decd5]: Textual amendment: Words in [reg. 2(5)(e)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/5/e) omitted (1.1.2016) by virtue of [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(3)(a)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/3/a)
+[^c-1c43db125e5c8e0bec9ba390b34decd5]: Textual amendment: Words in [reg. 2(5)(e)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/5/e) omitted (1.1.2016) by virtue of [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(3)(a)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/3/a)
 
-[^key-f75154dc2c6ce89f670c6b73b0832b39]: Textual amendment: Words in [reg. 2(5)(e)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/5/e) inserted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(3)(b)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/3/b)
+[^c-f75154dc2c6ce89f670c6b73b0832b39]: Textual amendment: Words in [reg. 2(5)(e)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/5/e) inserted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(3)(b)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/3/b)
 
-[^key-58e969f76207db0e4f8c52545a1da794]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/7) inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/14/2)
+[^c-58e969f76207db0e4f8c52545a1da794]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/7) inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/14/2)
 
-[^key-449cf458959db79039da7b8e245f37c9]: Textual amendment: [Reg. 2(6)(aa)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/6/aa) inserted (22.7.2013) by [The Alternative Investment Fund Managers (Amendment) Regulations 2013 (S.I. 2013/1797)](https://www.legislation.gov.uk/uksi/2013/1797), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2013/1797/regulation/1/5), [5(a)](https://www.legislation.gov.uk/uksi/2013/1797/regulation/5/a)
+[^c-449cf458959db79039da7b8e245f37c9]: Textual amendment: [Reg. 2(6)(aa)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/6/aa) inserted (22.7.2013) by [The Alternative Investment Fund Managers (Amendment) Regulations 2013 (S.I. 2013/1797)](https://www.legislation.gov.uk/uksi/2013/1797), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2013/1797/regulation/1/5), [5(a)](https://www.legislation.gov.uk/uksi/2013/1797/regulation/5/a)
 
-[^key-1e49f3ee5a5cae9ab50ad43d216e2940]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/8) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/9/3) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-1e49f3ee5a5cae9ab50ad43d216e2940]: Textual amendment: [Reg. 2(8)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/8) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/9/3) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-2acc6e974a1650fb40a7a9dba7de2e9a]: Textual amendment: [Reg. 2(9)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/9) inserted (1.10.2018) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Order 2018 (S.I. 2018/546)](https://www.legislation.gov.uk/uksi/2018/546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/546/article/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2018/546/article/22/2)
+[^c-2acc6e974a1650fb40a7a9dba7de2e9a]: Textual amendment: [Reg. 2(9)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2/9) inserted (1.10.2018) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Order 2018 (S.I. 2018/546)](https://www.legislation.gov.uk/uksi/2018/546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/546/article/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2018/546/article/22/2)
 
-[^key-b40d9739e2ae95d686dd784356ff3337]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2A) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2013 (S.I. 2013/439)](https://www.legislation.gov.uk/uksi/2013/439), [regs. 1](https://www.legislation.gov.uk/uksi/2013/439/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/439/regulation/2/2)
+[^c-b40d9739e2ae95d686dd784356ff3337]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2A) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2013 (S.I. 2013/439)](https://www.legislation.gov.uk/uksi/2013/439), [regs. 1](https://www.legislation.gov.uk/uksi/2013/439/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/439/regulation/2/2)
 
-[^key-2fa9805aa10885d4a376072eb1e0107c]: Textual amendment: [Reg. 2A(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2A/2) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 56(3)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/56/3)
+[^c-2fa9805aa10885d4a376072eb1e0107c]: Textual amendment: [Reg. 2A(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/2A/2) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 56(3)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/56/3)
 
-[^key-6e97a5f6505c097953047b6ac1f1dc34]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-6e97a5f6505c097953047b6ac1f1dc34]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-ffe7867f725e5c8d8fcb8e33d1ba5b23]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/1) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/642/article/3/b)
+[^c-ffe7867f725e5c8d8fcb8e33d1ba5b23]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/1) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/642/article/3/b)
 
-[^key-6ac81e3c447f3d46ec8ad38989b4f0b3]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/2) substituted (1.4.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2/a), [5(a)(i)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/5/a/i) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-6ac81e3c447f3d46ec8ad38989b4f0b3]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/2) substituted (1.4.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2/a), [5(a)(i)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/5/a/i) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-6425f67b5c44ee021c9d9ef4e8e3b86d]: Textual amendment: Word in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/2/a) omitted (1.4.2007) by virtue of [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2/a), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/5/a/ii) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-6425f67b5c44ee021c9d9ef4e8e3b86d]: Textual amendment: Word in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/2/a) omitted (1.4.2007) by virtue of [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2/a), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/5/a/ii) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-e78ba177ff0f5377fd9d75f523a73ad8]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/2/c) and word inserted (1.4.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2/a), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/5/a/iii) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-e78ba177ff0f5377fd9d75f523a73ad8]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/2/c) and word inserted (1.4.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2/a), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/5/a/iii) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-3acbb78af65f5447bdd650f81272adba]: Textual amendment: [Reg. 3(2ZA)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/2ZA) inserted (1.4.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2/a), [5(b)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/5/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-3acbb78af65f5447bdd650f81272adba]: Textual amendment: [Reg. 3(2ZA)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/2ZA) inserted (1.4.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2/a), [5(b)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/5/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-c268ff8fbe0dbb9c6f5e812896fda40f]: Textual amendment: Word in [reg. 3(2ZA)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/2ZA) substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/5/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+[^c-c268ff8fbe0dbb9c6f5e812896fda40f]: Textual amendment: Word in [reg. 3(2ZA)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/2ZA) substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/uksi/2017/701/schedule/3/paragraph/5/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
 
-[^key-35a5293a4e72e6ff9498a706a9e7f4ca]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/2A) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/3/2/b)
+[^c-35a5293a4e72e6ff9498a706a9e7f4ca]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/2A) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/3/2/b)
 
-[^key-385b5dc3eac5fcb1c97304216e1affd9]: Textual amendment: Words in [reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/3/a) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(4)(i)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/4/i)
+[^c-385b5dc3eac5fcb1c97304216e1affd9]: Textual amendment: Words in [reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/3/a) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(4)(i)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/4/i)
 
-[^key-92da2fb32cb20eab800081c76edc46a0]: Textual amendment: Words in [reg. 3(3)(e)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/3/e) omitted (1.1.2016) by virtue of [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(4)(ii)(aa)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/4/aa)
+[^c-92da2fb32cb20eab800081c76edc46a0]: Textual amendment: Words in [reg. 3(3)(e)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/3/e) omitted (1.1.2016) by virtue of [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(4)(ii)(aa)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/4/aa)
 
-[^key-80deaf1a9d1b7df3be89424f93256e62]: Textual amendment: Words in [reg. 3(3)(e)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/3/e) inserted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(4)(ii)(bb)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/4/bb)
+[^c-80deaf1a9d1b7df3be89424f93256e62]: Textual amendment: Words in [reg. 3(3)(e)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/3/e) inserted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(4)(ii)(bb)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/4/bb)
 
-[^key-c8b389576290aaf4b343e188f74e04d9]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/4) substituted (1.10.2018) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Order 2018 (S.I. 2018/546)](https://www.legislation.gov.uk/uksi/2018/546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/546/article/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2018/546/article/22/3)
+[^c-c8b389576290aaf4b343e188f74e04d9]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/4) substituted (1.10.2018) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Order 2018 (S.I. 2018/546)](https://www.legislation.gov.uk/uksi/2018/546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/546/article/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2018/546/article/22/3)
 
-[^key-abb82d9e6e519a02da761746df8d57ab]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/5) inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/14/3)
+[^c-abb82d9e6e519a02da761746df8d57ab]: Textual amendment: [Reg. 3(5)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/5) inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/14/3)
 
-[^key-32d17de1b93785054eb01331f5378bdb]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/6) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 9(4)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/9/4) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-32d17de1b93785054eb01331f5378bdb]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3/6) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 9(4)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/9/4) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-707afa6ab36faf68339966c30ee57c40]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3A) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2013 (S.I. 2013/439)](https://www.legislation.gov.uk/uksi/2013/439), [regs. 1](https://www.legislation.gov.uk/uksi/2013/439/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/439/regulation/2/3)
+[^c-707afa6ab36faf68339966c30ee57c40]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/3A) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2013 (S.I. 2013/439)](https://www.legislation.gov.uk/uksi/2013/439), [regs. 1](https://www.legislation.gov.uk/uksi/2013/439/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/439/regulation/2/3)
 
-[^key-18bc2aa7b872d42bbb50db2c4f85fcdc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-18bc2aa7b872d42bbb50db2c4f85fcdc]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-95e24ea9ce45f2a49f6603de2aaf1ef4]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2001/2511/part/II/crossheading/changes-relating-to-eea-firms) heading substituted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/6/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-95e24ea9ce45f2a49f6603de2aaf1ef4]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2001/2511/part/II/crossheading/changes-relating-to-eea-firms) heading substituted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/6/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-c297080ead2a02b2d7f87f04d5dd939e]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4/1) substituted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/6/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-c297080ead2a02b2d7f87f04d5dd939e]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4/1) substituted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/6/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-5358b1f1b166f427cb3702f012dbd03f]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4/1) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/3/2/c/ii)
+[^c-5358b1f1b166f427cb3702f012dbd03f]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4/1) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/3/2/c/ii)
 
-[^key-6a2f5df94e28179fbac398e908b8ea2d]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(c)(i)](https://www.legislation.gov.uk/uksi/2013/642/article/3/c/i)
+[^c-6a2f5df94e28179fbac398e908b8ea2d]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(c)(i)](https://www.legislation.gov.uk/uksi/2013/642/article/3/c/i)
 
-[^key-96b722caf097b41ef25f3683ffcdbc55]: Textual amendment: Word in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4/6) substituted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/6/c) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-96b722caf097b41ef25f3683ffcdbc55]: Textual amendment: Word in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4/6) substituted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/6/c) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-78b278173ac7ff8c7d7e1ce6275302ec]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4/6) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/3/2/c/ii)
+[^c-78b278173ac7ff8c7d7e1ce6275302ec]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4/6) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/3/2/c/ii)
 
-[^key-06e3820230b3f635ede3050a565673e4]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4/7) inserted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2013/642/article/3/c/ii)
+[^c-06e3820230b3f635ede3050a565673e4]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4/7) inserted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2013/642/article/3/c/ii)
 
-[^key-1e3e3792c298346481c94d2d60149c3c]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4A) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2006/3385/regulation/7) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-1e3e3792c298346481c94d2d60149c3c]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/4A) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2006/3385/regulation/7) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-4a00806832c1cc7a4d26dc846ddfa3c4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/2511/regulation/5) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-4a00806832c1cc7a4d26dc846ddfa3c4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2001/2511/regulation/5) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-4f3553291e7bcf6f2c3e28bd239a3868]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2001/2511/part/II/crossheading/changes-relating-to-eea-firms) heading substituted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/8/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-4f3553291e7bcf6f2c3e28bd239a3868]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2001/2511/part/II/crossheading/changes-relating-to-eea-firms) heading substituted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/8/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-573bd400a0498bdebc350e87aae864b1]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/5/1) omitted (1.11.2007) by virtue of [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/8/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-573bd400a0498bdebc350e87aae864b1]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/5/1) omitted (1.11.2007) by virtue of [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/8/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-1b26e1fd393f29f4b4255dd752f41438]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/5/1A) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [3(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/3/2/d/ii)
+[^c-1b26e1fd393f29f4b4255dd752f41438]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/5/1A) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [3(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/3/2/d/ii)
 
-[^key-96d054a397aef902347a97b8f09d669f]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2001/2511/regulation/5) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(d)(i)](https://www.legislation.gov.uk/uksi/2013/642/article/3/d/i)
+[^c-96d054a397aef902347a97b8f09d669f]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2001/2511/regulation/5) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(d)(i)](https://www.legislation.gov.uk/uksi/2013/642/article/3/d/i)
 
-[^key-f5c2adbadbef780570bed1ec9e1d8d27]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/5/4) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [3(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/3/2/d/iii)
+[^c-f5c2adbadbef780570bed1ec9e1d8d27]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/5/4) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [3(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/3/2/d/iii)
 
-[^key-87bc7ca77f58ad404fc5da699f60c89b]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/5/5) inserted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(d)(ii)](https://www.legislation.gov.uk/uksi/2013/642/article/3/d/ii)
+[^c-87bc7ca77f58ad404fc5da699f60c89b]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/5/5) inserted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(d)(ii)](https://www.legislation.gov.uk/uksi/2013/642/article/3/d/ii)
 
-[^key-2ce0958489d55752b3cb3a4867bd7ff8]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/5A) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/3385/regulation/9) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-2ce0958489d55752b3cb3a4867bd7ff8]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/5A) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/3385/regulation/9) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-adeda8d307d07ff69f80da033c0bf378]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2001/2511/regulation/6) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-adeda8d307d07ff69f80da033c0bf378]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2001/2511/regulation/6) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-aacce21d81d88b139c1cf50ba059c2a3]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2001/2511/regulation/6) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(e)(i)](https://www.legislation.gov.uk/uksi/2013/642/article/3/e/i)
+[^c-aacce21d81d88b139c1cf50ba059c2a3]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2001/2511/regulation/6) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(e)(i)](https://www.legislation.gov.uk/uksi/2013/642/article/3/e/i)
 
-[^key-8e12c6344df5c6f0d15cd4e150d9d652]: Textual amendment: [Reg. 6(7)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/6/7) inserted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(e)(ii)](https://www.legislation.gov.uk/uksi/2013/642/article/3/e/ii)
+[^c-8e12c6344df5c6f0d15cd4e150d9d652]: Textual amendment: [Reg. 6(7)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/6/7) inserted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(e)(ii)](https://www.legislation.gov.uk/uksi/2013/642/article/3/e/ii)
 
-[^key-8427db1ede44fdbee80b7ad4eb3f0775]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2001/2511/regulation/7) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-8427db1ede44fdbee80b7ad4eb3f0775]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2001/2511/regulation/7) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-6acba463f99b7b89cbd0ebff80bf2223]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/7/4/b) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(f)(i)](https://www.legislation.gov.uk/uksi/2013/642/article/3/f/i)
+[^c-6acba463f99b7b89cbd0ebff80bf2223]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/7/4/b) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(f)(i)](https://www.legislation.gov.uk/uksi/2013/642/article/3/f/i)
 
-[^key-d71b4cb188e277199ff38053d44ad800]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/7/6) inserted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(f)(ii)](https://www.legislation.gov.uk/uksi/2013/642/article/3/f/ii)
+[^c-d71b4cb188e277199ff38053d44ad800]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/7/6) inserted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(f)(ii)](https://www.legislation.gov.uk/uksi/2013/642/article/3/f/ii)
 
-[^key-1b2438303c78d3a50c18d0e95d9ae3e4]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/7A) inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/14/4)
+[^c-1b2438303c78d3a50c18d0e95d9ae3e4]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/7A) inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/14/4)
 
-[^key-84aaa4fd147a1e63315b1d2de20c88f8]: Textual amendment: [Reg. 7B](https://www.legislation.gov.uk/uksi/2001/2511/regulation/7B) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 9(5)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/9/5) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-84aaa4fd147a1e63315b1d2de20c88f8]: Textual amendment: [Reg. 7B](https://www.legislation.gov.uk/uksi/2001/2511/regulation/7B) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 9(5)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/9/5) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-e160a58c9684fb32f5cd92f1ca22827c]: Textual amendment: [Reg. 7C](https://www.legislation.gov.uk/uksi/2001/2511/regulation/7C) inserted (1.10.2018) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Order 2018 (S.I. 2018/546)](https://www.legislation.gov.uk/uksi/2018/546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/546/article/1/2), [22(4)](https://www.legislation.gov.uk/uksi/2018/546/article/22/4)
+[^c-e160a58c9684fb32f5cd92f1ca22827c]: Textual amendment: [Reg. 7C](https://www.legislation.gov.uk/uksi/2001/2511/regulation/7C) inserted (1.10.2018) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Order 2018 (S.I. 2018/546)](https://www.legislation.gov.uk/uksi/2018/546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/546/article/1/2), [22(4)](https://www.legislation.gov.uk/uksi/2018/546/article/22/4)
 
-[^key-25094def734fb240aefeab537559f9c3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2001/2511/regulation/8) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-25094def734fb240aefeab537559f9c3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2001/2511/regulation/8) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-49872a96589eac27a9d293b3dca09830]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2001/2511/regulation/8) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(g)](https://www.legislation.gov.uk/uksi/2013/642/article/3/g)
+[^c-49872a96589eac27a9d293b3dca09830]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2001/2511/regulation/8) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(g)](https://www.legislation.gov.uk/uksi/2013/642/article/3/g)
 
-[^key-921c15f7f7b6e101ec0d41fd3bf54359]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2001/2511/regulation/9) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-921c15f7f7b6e101ec0d41fd3bf54359]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2001/2511/regulation/9) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-ec0416667533a0afe3beb52e9b557a4d]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2001/2511/regulation/9) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(h)(i)](https://www.legislation.gov.uk/uksi/2013/642/article/3/h/i)
+[^c-ec0416667533a0afe3beb52e9b557a4d]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2001/2511/regulation/9) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(h)(i)](https://www.legislation.gov.uk/uksi/2013/642/article/3/h/i)
 
-[^key-dfd7258eedb57411664ed65f4f42dbbf]: Textual amendment: [Reg. 9(6)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/9/6) inserted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(h)(ii)](https://www.legislation.gov.uk/uksi/2013/642/article/3/h/ii)
+[^c-dfd7258eedb57411664ed65f4f42dbbf]: Textual amendment: [Reg. 9(6)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/9/6) inserted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(h)(ii)](https://www.legislation.gov.uk/uksi/2013/642/article/3/h/ii)
 
-[^key-a34084e75e3cea1d031dc540b11dc8d6]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/9A) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 9(6)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/9/6) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-a34084e75e3cea1d031dc540b11dc8d6]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/9A) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 9(6)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/9/6) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-c035d035efab1f03b798b7a777da4745]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2001/2511/regulation/10) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-c035d035efab1f03b798b7a777da4745]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2001/2511/regulation/10) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
 [^M_F_4f4349a8-ae19-4f97-bdce-cb75cd7d3289]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2001/2511/regulation/10) renumbered as reg. 10(a) (10.12.2007) by [The Reinsurance Directive Regulations 2007 (S.I. 2007/3253)](https://www.legislation.gov.uk/uksi/2007/3253), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3253/regulation/1/1), [Sch. 2(a)(i)](https://www.legislation.gov.uk/uksi/2007/3253/schedule/2/a/i)
 
-[^key-3c3e19815e36194a445f05596ecf88a3]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2001/2511/regulation/10) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(i)](https://www.legislation.gov.uk/uksi/2013/642/article/3/i)
+[^c-3c3e19815e36194a445f05596ecf88a3]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2001/2511/regulation/10) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(i)](https://www.legislation.gov.uk/uksi/2013/642/article/3/i)
 
-[^key-3575d70900216b31faee54e53997ed77]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2001/2511/regulation/10) inserted (14.1.2005) by [The Insurance Mediation Directive (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/1473)](https://www.legislation.gov.uk/uksi/2003/1473), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1473/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2003/1473/regulation/8/4)
+[^c-3575d70900216b31faee54e53997ed77]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2001/2511/regulation/10) inserted (14.1.2005) by [The Insurance Mediation Directive (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/1473)](https://www.legislation.gov.uk/uksi/2003/1473), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1473/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2003/1473/regulation/8/4)
 
 [^M_F_19dc1388-4997-47d2-ccfe-98d4b8da6817]: Textual amendment: [Reg. 10(b)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/10/b) inserted (10.12.2007) by [The Reinsurance Directive Regulations 2007 (S.I. 2007/3253)](https://www.legislation.gov.uk/uksi/2007/3253), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3253/regulation/1/1), [Sch. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2007/3253/schedule/2/a/ii)
 
-[^key-f0bd922c21c37994b4c9cef1369527b0]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/10A) inserted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(j)](https://www.legislation.gov.uk/uksi/2013/642/article/3/j)
+[^c-f0bd922c21c37994b4c9cef1369527b0]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/10A) inserted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(j)](https://www.legislation.gov.uk/uksi/2013/642/article/3/j)
 
-[^key-24d50045e80575de814e1b295385c762]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2001/2511/regulation/11) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-24d50045e80575de814e1b295385c762]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2001/2511/regulation/11) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-a6f6ed804daf798bfa38a66f56241612]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2001/2511/part/III/crossheading/changes-relating-to-uk-firms) heading omitted (1.11.2007) by virtue of [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/10/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-a6f6ed804daf798bfa38a66f56241612]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2001/2511/part/III/crossheading/changes-relating-to-uk-firms) heading omitted (1.11.2007) by virtue of [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/10/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-03a3ebf8415c57cad5e77ac01c20da7c]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2001/2511/regulation/11) heading inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/4/2/a/i)
+[^c-03a3ebf8415c57cad5e77ac01c20da7c]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2001/2511/regulation/11) heading inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/4/2/a/i)
 
-[^key-7dabd897b2282bc2e6f846e037a4c0a4]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/11/1) omitted (1.11.2007) by virtue of [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/10/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-7dabd897b2282bc2e6f846e037a4c0a4]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/11/1) omitted (1.11.2007) by virtue of [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/10/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-4f7a07d8693f301f3e111683117770ad]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/11/1) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/4/2/a/ii)
+[^c-4f7a07d8693f301f3e111683117770ad]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/11/1) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/4/2/a/ii)
 
-[^key-85c057654956f57c36a583b355d59295]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/11/1) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 56(4)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/56/4)
+[^c-85c057654956f57c36a583b355d59295]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/11/1) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 56(4)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/56/4)
 
-[^key-fe0d9a670ea78cc5e92a97e93d783aec]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/11A) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2006/3385/regulation/11) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-fe0d9a670ea78cc5e92a97e93d783aec]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/11A) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2006/3385/regulation/11) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-33a139be7c5b555878d16702b0e6e6ce]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2001/2511/regulation/12) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-33a139be7c5b555878d16702b0e6e6ce]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2001/2511/regulation/12) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-f4483440b2b749cf418ef0b05a532266]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2001/2511/part/III/crossheading/changes-relating-to-uk-firms) heading omitted (1.11.2007) by virtue of [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/12/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-f4483440b2b749cf418ef0b05a532266]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2001/2511/part/III/crossheading/changes-relating-to-uk-firms) heading omitted (1.11.2007) by virtue of [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/12/a) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-dd992cf15ae3580fa342ccde5ab62450]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2001/2511/regulation/12) heading inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/4/2/b/i)
+[^c-dd992cf15ae3580fa342ccde5ab62450]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2001/2511/regulation/12) heading inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/4/2/b/i)
 
-[^key-9640cdc4a3ff53fc0f2c73898eae53c7]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/12/1) omitted (1.11.2007) by virtue of [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/12/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-9640cdc4a3ff53fc0f2c73898eae53c7]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/12/1) omitted (1.11.2007) by virtue of [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/12/b) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-52067f77a8515d7066e66bc3b5669054]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/12/1) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/4/2/b/ii)
+[^c-52067f77a8515d7066e66bc3b5669054]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/12/1) inserted (13.2.2004) by [The Collective Investment Schemes (Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2066)](https://www.legislation.gov.uk/uksi/2003/2066), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/1/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2003/2066/regulation/4/2/b/ii)
 
-[^key-f747340c6a720eb02c9bc2b254523cc0]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/12A) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2006/3385/regulation/13) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-f747340c6a720eb02c9bc2b254523cc0]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/12A) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2006/3385/regulation/13) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-8073f16571672ba06f8805be2152c974]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2001/2511/regulation/13) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-8073f16571672ba06f8805be2152c974]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2001/2511/regulation/13) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-fd09d39fd6684897ff76d484763bbef8]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/13/1) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(5)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/5)
+[^c-fd09d39fd6684897ff76d484763bbef8]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/13/1) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(5)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/5)
 
-[^key-f8034c5b04bbb43a6b430ba67af52264]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2001/2511/regulation/14) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-f8034c5b04bbb43a6b430ba67af52264]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2001/2511/regulation/14) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-6e272e60fb079bbe4743862ff67029a7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2001/2511/regulation/15) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-6e272e60fb079bbe4743862ff67029a7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2001/2511/regulation/15) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-4d9b56b9c2a9d094c4e1c78e38730ffa]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/15/1) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(5)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/5)
+[^c-4d9b56b9c2a9d094c4e1c78e38730ffa]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/15/1) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(5)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/5)
 
-[^key-79d105016c40d6fcf9d168b16dce3142]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2001/2511/regulation/16) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-79d105016c40d6fcf9d168b16dce3142]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2001/2511/regulation/16) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-87f00706a88cb448930b8985018ffd49]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/16/1) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(5)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/5)
+[^c-87f00706a88cb448930b8985018ffd49]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/16/1) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(5)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/5)
 
-[^key-37d9bb00bebd4555be9750a9a23770e6]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2001/2511/regulation/17) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-37d9bb00bebd4555be9750a9a23770e6]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2001/2511/regulation/17) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-06b7b25858ba6ea626017aa8e7093f77]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/17A) inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 14(5)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/14/5)
+[^c-06b7b25858ba6ea626017aa8e7093f77]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2001/2511/regulation/17A) inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 14(5)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/14/5)
 
-[^key-6cc4ab618ce858182d23492c5065a180]: Textual amendment: Words in [reg. 17A(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/17A/1) substituted (22.7.2013) by [The Alternative Investment Fund Managers (Amendment) Regulations 2013 (S.I. 2013/1797)](https://www.legislation.gov.uk/uksi/2013/1797), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2013/1797/regulation/1/5), [5(b)](https://www.legislation.gov.uk/uksi/2013/1797/regulation/5/b)
+[^c-6cc4ab618ce858182d23492c5065a180]: Textual amendment: Words in [reg. 17A(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/17A/1) substituted (22.7.2013) by [The Alternative Investment Fund Managers (Amendment) Regulations 2013 (S.I. 2013/1797)](https://www.legislation.gov.uk/uksi/2013/1797), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2013/1797/regulation/1/5), [5(b)](https://www.legislation.gov.uk/uksi/2013/1797/regulation/5/b)
 
-[^key-619d40145b0bcc4aec64c81fa216faaf]: Textual amendment: [Reg. 17B](https://www.legislation.gov.uk/uksi/2001/2511/regulation/17B) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 9(7)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/9/7) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-619d40145b0bcc4aec64c81fa216faaf]: Textual amendment: [Reg. 17B](https://www.legislation.gov.uk/uksi/2001/2511/regulation/17B) inserted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 9(7)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/9/7) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-8dd938894c8d1101dce67a8c81d319c8]: Textual amendment: [Regs. 17C](https://www.legislation.gov.uk/uksi/2001/2511/regulation/17C), [17D](https://www.legislation.gov.uk/uksi/2001/2511/regulation/17D) inserted (1.10.2018) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Order 2018 (S.I. 2018/546)](https://www.legislation.gov.uk/uksi/2018/546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/546/article/1/2), [22(5)](https://www.legislation.gov.uk/uksi/2018/546/article/22/5)
+[^c-8dd938894c8d1101dce67a8c81d319c8]: Textual amendment: [Regs. 17C](https://www.legislation.gov.uk/uksi/2001/2511/regulation/17C), [17D](https://www.legislation.gov.uk/uksi/2001/2511/regulation/17D) inserted (1.10.2018) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Order 2018 (S.I. 2018/546)](https://www.legislation.gov.uk/uksi/2018/546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/546/article/1/2), [22(5)](https://www.legislation.gov.uk/uksi/2018/546/article/22/5)
 
-[^key-5a8b34a6b9f05d6b4ed8f48521cf7ca3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2001/2511/regulation/18) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-5a8b34a6b9f05d6b4ed8f48521cf7ca3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2001/2511/regulation/18) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-871348c06a66fcc904b9c89a1d79d3e6]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/18/1) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2006/3385/regulation/14) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
+[^c-871348c06a66fcc904b9c89a1d79d3e6]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/18/1) inserted (1.11.2007) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2006 (S.I. 2006/3385)](https://www.legislation.gov.uk/uksi/2006/3385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/3385/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2006/3385/regulation/14) (with [reg. 15](https://www.legislation.gov.uk/uksi/2006/3385/regulation/15))
 
-[^key-086c51241f4666cdbc9558cb2ad68d13]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/18/1) substituted (1.10.2018) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Order 2018 (S.I. 2018/546)](https://www.legislation.gov.uk/uksi/2018/546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/546/article/1/2), [22(6)](https://www.legislation.gov.uk/uksi/2018/546/article/22/6)
+[^c-086c51241f4666cdbc9558cb2ad68d13]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/18/1) substituted (1.10.2018) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Order 2018 (S.I. 2018/546)](https://www.legislation.gov.uk/uksi/2018/546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/546/article/1/2), [22(6)](https://www.legislation.gov.uk/uksi/2018/546/article/22/6)
 
-[^key-4ca5f79b7c2f56d786311b91c40c6b75]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2001/2511/regulation/19) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-4ca5f79b7c2f56d786311b91c40c6b75]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2001/2511/regulation/19) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
 [^M_F_37e6b271-7e3a-4bc8-fb1e-8b42bc13e4d6]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2001/2511/regulation/19) renumbered as reg. 19(1) (10.12.2007) by [The Reinsurance Directive Regulations 2007 (S.I. 2007/3253)](https://www.legislation.gov.uk/uksi/2007/3253), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3253/regulation/1/1), [Sch. 2(b)(i)](https://www.legislation.gov.uk/uksi/2007/3253/schedule/2/b/i)
 
 [^M_F_76eee191-5e75-4f24-a4bc-acb425ce6b9b]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/19/2) inserted (10.12.2007) by [The Reinsurance Directive Regulations 2007 (S.I. 2007/3253)](https://www.legislation.gov.uk/uksi/2007/3253), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/3253/regulation/1/1), [Sch. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2007/3253/schedule/2/b/ii)
 
-[^key-bab0253271de20b790520cc43df54e86]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/19/2/a) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(6)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/6)
+[^c-bab0253271de20b790520cc43df54e86]: Textual amendment: Words in [reg. 19(2)(a)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/19/2/a) substituted (1.1.2016) by [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 13(6)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/13/6)
 
-[^key-1eba383f1935d0a8cf50288b4590c7cb]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2001/2511/part/3A) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2013 (S.I. 2013/439)](https://www.legislation.gov.uk/uksi/2013/439), [regs. 1](https://www.legislation.gov.uk/uksi/2013/439/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/439/regulation/2/4)
+[^c-1eba383f1935d0a8cf50288b4590c7cb]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2001/2511/part/3A) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (EEA Passport Rights) (Amendment) Regulations 2013 (S.I. 2013/439)](https://www.legislation.gov.uk/uksi/2013/439), [regs. 1](https://www.legislation.gov.uk/uksi/2013/439/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2013/439/regulation/2/4)
 
-[^key-c2e19a9aa259172d728d096de8e01da7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2001/2511/regulation/20) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-c2e19a9aa259172d728d096de8e01da7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2001/2511/regulation/20) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
-[^key-ff26a65e8df7b5aca388b36d6aa280c7]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2001/2511/regulation/20) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(k)](https://www.legislation.gov.uk/uksi/2013/642/article/3/k)
+[^c-ff26a65e8df7b5aca388b36d6aa280c7]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2001/2511/regulation/20) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(k)](https://www.legislation.gov.uk/uksi/2013/642/article/3/k)
 
 [^f00010]: Footnote: Schedule 2F was inserted by S.I. [1994/1696](https://www.legislation.gov.uk/uksi/1994/1696).
 
-[^key-309615c39b7517cf3b6e8e951e1053e5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2001/2511/regulation/21) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
+[^c-309615c39b7517cf3b6e8e951e1053e5]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2001/2511/regulation/21) in force at 1.12.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2511/regulation/1/1)
 
 [^f00011]: Footnote: Schedule 2G was inserted by S.I. [1994/1696](https://www.legislation.gov.uk/uksi/1994/1696) and amended by S.I. [1997/2781](https://www.legislation.gov.uk/uksi/1997/2781).
 
 [^f00012]: Footnote: Schedule 13B was inserted by S.I. [1994/1984](https://www.legislation.gov.uk/uksi/1994/1984) and amended by S.I. [1997/2849](https://www.legislation.gov.uk/uksi/1997/2849).
 
-[^key-91bb27e6a5785f3ebfce5c2ba0b087d6]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2001/2511/regulation/21) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(k)](https://www.legislation.gov.uk/uksi/2013/642/article/3/k)
+[^c-91bb27e6a5785f3ebfce5c2ba0b087d6]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/uksi/2001/2511/regulation/21) substituted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [3(k)](https://www.legislation.gov.uk/uksi/2013/642/article/3/k)

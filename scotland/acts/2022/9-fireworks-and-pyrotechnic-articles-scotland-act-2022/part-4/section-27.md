@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Firework control zones[^key-f4ed2eeb6461403a6e562464c4b306e4][^key-624cd5b7815049ed11a6403de95421bf]
+## 27. Firework control zones[^c-f4ed2eeb6461403a6e562464c4b306e4][^c-624cd5b7815049ed11a6403de95421bf]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4ed2eeb6461403a6e562464c4b306e4]: Commencement: S. 27 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-f4ed2eeb6461403a6e562464c4b306e4]: Commencement: S. 27 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-624cd5b7815049ed11a6403de95421bf]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2022/9/section/27) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)
+[^c-624cd5b7815049ed11a6403de95421bf]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2022/9/section/27) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)

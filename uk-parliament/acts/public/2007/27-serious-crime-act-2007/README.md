@@ -54,7 +54,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 5 — Type of provision that may be made by orders](part-1/section-5.md)
 - [Section 5A — Verification and disclosure of information](part-1/section-5a.md)
 
-#### Electronic monitoring requirements[^key-0c137f0edde2d1f4479247b8ca6a67da]
+#### Electronic monitoring requirements[^c-0c137f0edde2d1f4479247b8ca6a67da]
 
 - [Section 5B — Electronic monitoring requirements](part-1/section-5b.md)
 - [Section 5C — Conditions for imposing electronic monitoring requirements](part-1/section-5c.md)
@@ -81,7 +81,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 14 — Restrictions relating to other enactments](part-1/section-14.md)
 - [Section 15 — Restrictions on use of information obtained](part-1/section-15.md)
 
-#### Notification requirements: England and Wales[^key-151aa54da63765a308e9d5cd0f0b614a]
+#### Notification requirements: England and Wales[^c-151aa54da63765a308e9d5cd0f0b614a]
 
 - [Section 15A — Notification requirements: England and Wales](part-1/section-15a.md)
 
@@ -102,14 +102,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 21 — Powers of Crown Court to varyor replace orders on breach](part-1/section-21.md)
 - [Section 22 — Inter-relationship between different types of orders in England and Wales or Northern Ireland](part-1/section-22.md)
 
-#### Extension of jurisdiction: Scotland[^key-95a35c216d41d61806a6ff99ed7ab480]
+#### Extension of jurisdiction: Scotland[^c-95a35c216d41d61806a6ff99ed7ab480]
 
 - [Section 22A — Orders by High Court of Justiciary and sheriff on conviction](part-1/section-22a.md)
 - [Section 22B — Powers of High Court of Justiciary and sheriff to vary orders on conviction](part-1/section-22b.md)
 - [Section 22C — Powers of High Court of Justiciary and sheriff to vary or replace orders on breach](part-1/section-22c.md)
 - [Section 22D — Inter-relationship between different types of orders in Scotland](part-1/section-22d.md)
 
-#### Powers to extend orders where person charged[^key-dc283ea2e01b2881a4a04152a3aeb988]
+#### Powers to extend orders where person charged[^c-dc283ea2e01b2881a4a04152a3aeb988]
 
 - [Section 22E — Extension of orders pending outcome of criminal proceedings](part-1/section-22e.md)
 
@@ -163,7 +163,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 42 — Interpretation: Part 1](part-1/section-42.md)
 - [Section 43 — Index of defined expressions: Part 1](part-1/section-43.md)
 
-### Part 2 — Encouraging or assisting crime[^key-8fac712985455041598b9ce15117ddd2][^key-15c2ae8ed0efa9edf48dd831607b4f9b]
+### Part 2 — Encouraging or assisting crime[^c-8fac712985455041598b9ce15117ddd2][^c-15c2ae8ed0efa9edf48dd831607b4f9b]
 
 #### Inchoate offences
 
@@ -176,7 +176,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 48 — Proving an offence under section 46](part-2/section-48.md)
 - [Section 49 — Supplemental provisions](part-2/section-49.md)
 
-#### Defences[^key-c8f4b32f24c31a8b08a2941421fe5ba5]
+#### Defences[^c-c8f4b32f24c31a8b08a2941421fe5ba5]
 
 *Extent: E+W+N.I.*
 
@@ -306,16 +306,16 @@ SCHEDULES
 
 ## Annotations
 
-[^key-0c137f0edde2d1f4479247b8ca6a67da]: Textual amendment: [Ss. 5B-5D](https://www.legislation.gov.uk/ukpga/2007/27/section/5B) inserted (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2025/31/section/55/2), [65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-0c137f0edde2d1f4479247b8ca6a67da]: Textual amendment: [Ss. 5B-5D](https://www.legislation.gov.uk/ukpga/2007/27/section/5B) inserted (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2025/31/section/55/2), [65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
 
-[^key-151aa54da63765a308e9d5cd0f0b614a]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/ukpga/2007/27/section/15A) and cross-heading inserted (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2025/31/section/58/2), [65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
+[^c-151aa54da63765a308e9d5cd0f0b614a]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/ukpga/2007/27/section/15A) and cross-heading inserted (2.12.2025 for specified purposes) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2025/31/section/58/2), [65(3)(f)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/f)
 
-[^key-95a35c216d41d61806a6ff99ed7ab480]: Textual amendment: [Ss. 22A-22D](https://www.legislation.gov.uk/ukpga/2007/27/section/22A) and cross-heading inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/17); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f) (with [art. 5](https://www.legislation.gov.uk/uksi/2016/148/article/5))
+[^c-95a35c216d41d61806a6ff99ed7ab480]: Textual amendment: [Ss. 22A-22D](https://www.legislation.gov.uk/ukpga/2007/27/section/22A) and cross-heading inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/17); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f) (with [art. 5](https://www.legislation.gov.uk/uksi/2016/148/article/5))
 
-[^key-dc283ea2e01b2881a4a04152a3aeb988]: Textual amendment: S. 22E and cross-heading inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 49](https://www.legislation.gov.uk/ukpga/2015/9/section/49), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/h)
+[^c-dc283ea2e01b2881a4a04152a3aeb988]: Textual amendment: S. 22E and cross-heading inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 49](https://www.legislation.gov.uk/ukpga/2015/9/section/49), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/h)
 
-[^key-8fac712985455041598b9ce15117ddd2]: Modification: Pt. 2 restricted by 2007 c. 19, s. 18(1A) (as inserted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 62](https://www.legislation.gov.uk/ukpga/2007/27/section/62), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a))
+[^c-8fac712985455041598b9ce15117ddd2]: Modification: Pt. 2 restricted by 2007 c. 19, s. 18(1A) (as inserted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 62](https://www.legislation.gov.uk/ukpga/2007/27/section/62), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a))
 
-[^key-15c2ae8ed0efa9edf48dd831607b4f9b]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2007/27/part/2) applied (with modifications) by 2003 c. 42, Sch. 4 para. 6(3) (as inserted (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(5)](https://www.legislation.gov.uk/nia/2013/7/section/3/5), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1))
+[^c-15c2ae8ed0efa9edf48dd831607b4f9b]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2007/27/part/2) applied (with modifications) by 2003 c. 42, Sch. 4 para. 6(3) (as inserted (26.4.2013) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 3(5)](https://www.legislation.gov.uk/nia/2013/7/section/3/5), [15(1)](https://www.legislation.gov.uk/nia/2013/7/section/15/1))
 
-[^key-c8f4b32f24c31a8b08a2941421fe5ba5]: Textual amendment: [S. 50 cross-heading](https://www.legislation.gov.uk/ukpga/2007/27/part/2/crossheading/reasonableness-defence) substituted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 30(3)](https://www.legislation.gov.uk/ukpga/2023/32/section/30/3), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-c8f4b32f24c31a8b08a2941421fe5ba5]: Textual amendment: [S. 50 cross-heading](https://www.legislation.gov.uk/ukpga/2007/27/part/2/crossheading/reasonableness-defence) substituted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 30(3)](https://www.legislation.gov.uk/ukpga/2023/32/section/30/3), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

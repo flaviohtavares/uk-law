@@ -31,7 +31,7 @@ summary: ''
 
 of such training as is necessary for the eﬀective discharge of his functions under the Education Orders.
 
-(2) A board may provide to any such person as is mentioned in paragraph (1)(a) to (c)[^c17610741] such information as the Authority[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a] considers appropriate in connection with the discharge of his functions under the Education Orders.
+(2) A board may provide to any such person as is mentioned in paragraph (1)(a) to (c)[^c17610741] such information as the Authority[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a] considers appropriate in connection with the discharge of his functions under the Education Orders.
 
 (3) Without prejudice to paragraph (2), the Authority shall provide to—
 
@@ -53,7 +53,7 @@ of such training as is necessary for the eﬀective discharge of his functions u
 
 [^c17610741]: Textual amendment: [1997 NI 15](https://www.legislation.gov.uk/nisi/1997)
 
-[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c17610761]: Textual amendment: [1993 NI 12](https://www.legislation.gov.uk/nisi/1993)
 

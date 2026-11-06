@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Power to require pension levies to be paid in respect of past periods[^key-0fae6784b26427ac8182c83cc16f2cb0]
+## 45. Power to require pension levies to be paid in respect of past periods[^c-0fae6784b26427ac8182c83cc16f2cb0]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fae6784b26427ac8182c83cc16f2cb0]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2014/19/section/45) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(g)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/g)
+[^c-0fae6784b26427ac8182c83cc16f2cb0]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2014/19/section/45) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(g)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/g)

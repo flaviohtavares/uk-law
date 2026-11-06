@@ -26,9 +26,9 @@ summary: ''
 
 (3) Without prejudice to the generality of the said section 32, rules may make provision as to—
 
-- (a)[^key-907f6c970409b828c06e15e7f614093e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-907f6c970409b828c06e15e7f614093e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-907f6c970409b828c06e15e7f614093e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-907f6c970409b828c06e15e7f614093e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-907f6c970409b828c06e15e7f614093e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-907f6c970409b828c06e15e7f614093e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the persons to whom notice of an application for an exclusion order or, under section 79(3) of this Act, for the recall or variation of such an order or of anything done under section 77(2) of this Act shall be given;
 - (e) the period within which a hearing shall be held under subsection (5) of section 76 of this Act after the granting of an order under subsection (4) of that section;
 - (f) the service of any exclusion order on the named person and the appropriate person within such period as may be specified in the rules.
@@ -41,4 +41,4 @@ summary: ''
 
 [^c13127161]: Marginal citation: [1971 c.58](https://www.legislation.gov.uk/ukpga/1971/58).
 
-[^key-907f6c970409b828c06e15e7f614093e]: Textual amendment: [S. 91(3)(a)-(c)](https://www.legislation.gov.uk/ukpga/1995/36/section/91/3/a) repealed (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [sch. 6](https://www.legislation.gov.uk/asp/2011/1/schedule/6) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-907f6c970409b828c06e15e7f614093e]: Textual amendment: [S. 91(3)(a)-(c)](https://www.legislation.gov.uk/ukpga/1995/36/section/91/3/a) repealed (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [sch. 6](https://www.legislation.gov.uk/asp/2011/1/schedule/6) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

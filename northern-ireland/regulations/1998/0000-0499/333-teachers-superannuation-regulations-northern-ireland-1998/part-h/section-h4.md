@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## H4. Revaluation of guaranteed minimum in certain cases[^key-6e6b6cb346bc3ec4101b388d85517f3f]
+## H4. Revaluation of guaranteed minimum in certain cases[^c-6e6b6cb346bc3ec4101b388d85517f3f]
 
 *Extent: N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6e6b6cb346bc3ec4101b388d85517f3f]: Commencement: Reg. H4 in operation at 2.11.1998, see reg. A1
+[^c-6e6b6cb346bc3ec4101b388d85517f3f]: Commencement: Reg. H4 in operation at 2.11.1998, see reg. A1
 
 [^f00032]: Footnote: [S.I. 1975/1503 (N.I. 15)](https://www.legislation.gov.uk/nisi/1975/1503)
 

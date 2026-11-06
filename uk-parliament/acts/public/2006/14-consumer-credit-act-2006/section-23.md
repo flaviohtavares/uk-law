@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Definitions of ‘consumer credit business’ and ‘consumer hire business’[^key-6097d54b6be2702d0d4a5d959f8fd663]
+## 23. Definitions of ‘consumer credit business’ and ‘consumer hire business’[^c-6097d54b6be2702d0d4a5d959f8fd663]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ In section 189(1) of the 1974 Act (definitions)—
 
 ## Annotations
 
-[^key-6097d54b6be2702d0d4a5d959f8fd663]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2006/14/section/23) in force at 6.4.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3300/schedule/2)
+[^c-6097d54b6be2702d0d4a5d959f8fd663]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2006/14/section/23) in force at 6.4.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3300/schedule/2)

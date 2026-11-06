@@ -27,7 +27,7 @@ summary: ''
 
 TOWN AND COUNTRY PLANNING, WALES
 
-The Planning (Hazardous Substances) (Amendment) (Wales) Regulations 2010 (revoked)[^key-f56ef357e956cbdeb7aed9d9bf81a468]
+The Planning (Hazardous Substances) (Amendment) (Wales) Regulations 2010 (revoked)[^c-f56ef357e956cbdeb7aed9d9bf81a468]
 
 Made
 
@@ -41,33 +41,33 @@ Coming into force
 
 19 March 2010
 
-[^key-f56ef357e956cbdeb7aed9d9bf81a468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f56ef357e956cbdeb7aed9d9bf81a468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-f56ef357e956cbdeb7aed9d9bf81a468]
+## 1. Title, commencement, application and interpretation[^c-f56ef357e956cbdeb7aed9d9bf81a468]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f56ef357e956cbdeb7aed9d9bf81a468] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f56ef357e956cbdeb7aed9d9bf81a468] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Planning (Hazardous Substances) Regulations 1992[^key-f56ef357e956cbdeb7aed9d9bf81a468]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Transitional provision: existing consents[^key-f56ef357e956cbdeb7aed9d9bf81a468]
+## 3. Amendment of the Planning (Hazardous Substances) Regulations 1992[^c-f56ef357e956cbdeb7aed9d9bf81a468]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional exemptions[^key-f56ef357e956cbdeb7aed9d9bf81a468]
+## 4. Transitional provision: existing consents[^c-f56ef357e956cbdeb7aed9d9bf81a468]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f56ef357e956cbdeb7aed9d9bf81a468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 5. Transitional exemptions[^c-f56ef357e956cbdeb7aed9d9bf81a468]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f56ef357e956cbdeb7aed9d9bf81a468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-f56ef357e956cbdeb7aed9d9bf81a468]
+## SCHEDULE[^c-f56ef357e956cbdeb7aed9d9bf81a468]
 
 Regulation 3
 
@@ -75,8 +75,8 @@ Regulation 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-f56ef357e956cbdeb7aed9d9bf81a468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f56ef357e956cbdeb7aed9d9bf81a468]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f56ef357e956cbdeb7aed9d9bf81a468]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/450) revoked (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [30(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/30/1) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
+[^c-f56ef357e956cbdeb7aed9d9bf81a468]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/450) revoked (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [30(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/30/1) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))

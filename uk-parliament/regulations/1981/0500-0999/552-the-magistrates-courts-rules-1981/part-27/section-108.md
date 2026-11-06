@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Notice of order under s.104 of Road Traffic Act 1972[^key-42811eccf39020d5c636315671da2d20]
+## 108. Notice of order under s.104 of Road Traffic Act 1972[^c-42811eccf39020d5c636315671da2d20]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42811eccf39020d5c636315671da2d20]: Textual amendment: [Rule 108](https://www.legislation.gov.uk/uksi/1981/552/rule/108) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(p)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/p)
+[^c-42811eccf39020d5c636315671da2d20]: Textual amendment: [Rule 108](https://www.legislation.gov.uk/uksi/1981/552/rule/108) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(p)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/p)

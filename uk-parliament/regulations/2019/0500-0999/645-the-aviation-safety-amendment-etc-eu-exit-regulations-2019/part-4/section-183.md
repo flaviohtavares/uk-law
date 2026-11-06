@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Amendment of Article 2 of [Commission Regulation (EU) No 748/2012](https://www.legislation.gov.uk/eur/2012/0748)[^key-e9523ad3c939d48e8812bc051928cef9]
+## 183. Amendment of Article 2 of [Commission Regulation (EU) No 748/2012](https://www.legislation.gov.uk/eur/2012/0748)[^c-e9523ad3c939d48e8812bc051928cef9]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Article 2 (products, parts and appliances certification), in paragraph 2—
 
 ## Annotations
 
-[^key-e9523ad3c939d48e8812bc051928cef9]: Commencement: Reg. 183 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e9523ad3c939d48e8812bc051928cef9]: Commencement: Reg. 183 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

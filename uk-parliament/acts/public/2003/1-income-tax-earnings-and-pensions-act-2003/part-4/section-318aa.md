@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 318AA. Meaning of “relevant earnings amount” and “required time”[^key-5a876fa08ba983c438346b33dd798b7f]
+## 318AA. Meaning of “relevant earnings amount” and “required time”[^c-5a876fa08ba983c438346b33dd798b7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ where RD is the number of days in the period beginning with the day on which the
 
 ## Annotations
 
-[^key-5a876fa08ba983c438346b33dd798b7f]: Textual amendment: S. 318AA inserted (with effect in accordance with Sch. 8 paras. 7-10 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2011/11/schedule/8/paragraph/5)
+[^c-5a876fa08ba983c438346b33dd798b7f]: Textual amendment: S. 318AA inserted (with effect in accordance with Sch. 8 paras. 7-10 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2011/11/schedule/8/paragraph/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^key-7d71b80a4ec8836dd4aeaa24295c0065]
+## 94. Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^c-7d71b80a4ec8836dd4aeaa24295c0065]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 1(2) of the Social Security and Child Support (Decisions and Appea
 
 ## Annotations
 
-[^key-7d71b80a4ec8836dd4aeaa24295c0065]: Commencement: Reg. 94 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-7d71b80a4ec8836dd4aeaa24295c0065]: Commencement: Reg. 94 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00157]: Footnote: [S.R. (N.I.) 1999/162](https://www.legislation.gov.uk/nisr/1999/162). In regulation 1(2), the definition of “couple” was inserted by regulation 7 of [S.R. (N.I.) 2005/539](https://www.legislation.gov.uk/nisr/2005/539).

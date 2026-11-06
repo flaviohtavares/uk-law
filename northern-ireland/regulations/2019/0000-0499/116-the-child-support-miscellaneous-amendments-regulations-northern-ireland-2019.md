@@ -36,7 +36,7 @@ Family Law
 
 Child Support
 
-The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (revoked)[^key-2f44f53a0d47e83365edcb7eaf69b051]
+The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (revoked)[^c-2f44f53a0d47e83365edcb7eaf69b051]
 
 Made
 
@@ -44,44 +44,44 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-2f44f53a0d47e83365edcb7eaf69b051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f44f53a0d47e83365edcb7eaf69b051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — GENERAL[^key-2f44f53a0d47e83365edcb7eaf69b051]
+## PART 1 — GENERAL[^c-2f44f53a0d47e83365edcb7eaf69b051]
 
-### 1. Citation and commencement[^key-2f44f53a0d47e83365edcb7eaf69b051]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — AMENDMENTS RELATING TO THE GROUNDS FOR VARIATION OF A MAINTENANCE CALCULATION[^key-2f44f53a0d47e83365edcb7eaf69b051]
-
-### 2. Amendment of the Child Support Maintenance Calculation Regulations[^key-2f44f53a0d47e83365edcb7eaf69b051]
+### 1. Citation and commencement[^c-2f44f53a0d47e83365edcb7eaf69b051]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — AMENDMENTS RELATING TO DEDUCTIONS FROM JOINT AND BUSINESS ACCOUNTS[^key-2f44f53a0d47e83365edcb7eaf69b051]
+## PART 2 — AMENDMENTS RELATING TO THE GROUNDS FOR VARIATION OF A MAINTENANCE CALCULATION[^c-2f44f53a0d47e83365edcb7eaf69b051]
 
-### 3. Amendment of the Child Support (Collection and Enforcement) Regulations[^key-2f44f53a0d47e83365edcb7eaf69b051]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 4 — AMENDMENTS RELATING TO WRITE OFF OF ARREARS OF CHILD SUPPORT MAINTENANCE[^key-2f44f53a0d47e83365edcb7eaf69b051]
-
-### 4. Amendment of the Child Support (Management of Payments and Arrears) Regulations[^key-2f44f53a0d47e83365edcb7eaf69b051]
+### 2. Amendment of the Child Support Maintenance Calculation Regulations[^c-2f44f53a0d47e83365edcb7eaf69b051]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — REVOCATIONS[^key-2f44f53a0d47e83365edcb7eaf69b051]
+## PART 3 — AMENDMENTS RELATING TO DEDUCTIONS FROM JOINT AND BUSINESS ACCOUNTS[^c-2f44f53a0d47e83365edcb7eaf69b051]
 
-### 5. Revocation[^key-2f44f53a0d47e83365edcb7eaf69b051]
+### 3. Amendment of the Child Support (Collection and Enforcement) Regulations[^c-2f44f53a0d47e83365edcb7eaf69b051]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f44f53a0d47e83365edcb7eaf69b051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 4 — AMENDMENTS RELATING TO WRITE OFF OF ARREARS OF CHILD SUPPORT MAINTENANCE[^c-2f44f53a0d47e83365edcb7eaf69b051]
 
-[^key-2f44f53a0d47e83365edcb7eaf69b051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 4. Amendment of the Child Support (Management of Payments and Arrears) Regulations[^c-2f44f53a0d47e83365edcb7eaf69b051]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — REVOCATIONS[^c-2f44f53a0d47e83365edcb7eaf69b051]
+
+### 5. Revocation[^c-2f44f53a0d47e83365edcb7eaf69b051]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2f44f53a0d47e83365edcb7eaf69b051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2f44f53a0d47e83365edcb7eaf69b051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2f44f53a0d47e83365edcb7eaf69b051]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2019/116) revoked (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-2f44f53a0d47e83365edcb7eaf69b051]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2019/116) revoked (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)

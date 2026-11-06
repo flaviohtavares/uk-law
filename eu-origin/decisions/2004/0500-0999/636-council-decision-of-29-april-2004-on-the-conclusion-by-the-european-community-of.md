@@ -35,14 +35,14 @@ on the conclusion by the European Community of the Protocol on the accession of 
 
 (2004/636/EC) (revoked)
 
-[^key-d3b6a7e6a2c794b58ef6e4806a726a71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3b6a7e6a2c794b58ef6e4806a726a71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-d3b6a7e6a2c794b58ef6e4806a726a71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d3b6a7e6a2c794b58ef6e4806a726a71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d3b6a7e6a2c794b58ef6e4806a726a71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d3b6a7e6a2c794b58ef6e4806a726a71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d3b6a7e6a2c794b58ef6e4806a726a71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d3b6a7e6a2c794b58ef6e4806a726a71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d3b6a7e6a2c794b58ef6e4806a726a71]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [367](https://www.legislation.gov.uk/uksi/2019/459/regulation/367); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d3b6a7e6a2c794b58ef6e4806a726a71]: Textual amendment: Decision revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [367](https://www.legislation.gov.uk/uksi/2019/459/regulation/367); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

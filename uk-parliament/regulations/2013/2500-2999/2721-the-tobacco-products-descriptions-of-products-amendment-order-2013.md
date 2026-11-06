@@ -48,15 +48,15 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by section 1(3) of the Tobacco Products Duty Act 1979[^f00001].
 
-## 1. Citation and Commencement[^key-b644240727b3537cfcd6881e61a263fb]
+## 1. Citation and Commencement[^c-b644240727b3537cfcd6881e61a263fb]
 
 This Order may be cited as the Tobacco Products (Descriptions of Products) (Amendment) Order 2013 and comes into force on 1st January 2014.
 
-## 2. Amendment of the Tobacco Products (Descriptions of Products) Order 2003[^key-4a1b284db9964b40b3a24805b64ec456]
+## 2. Amendment of the Tobacco Products (Descriptions of Products) Order 2003[^c-4a1b284db9964b40b3a24805b64ec456]
 
 The Tobacco Products (Descriptions of Products) Order 2003[^f00002] is amended as follows.
 
-**3.**[^key-6c33cfdc022cbb74e65239582a2b8c91] (1) In article 4(2) (cigarettes) omit “, unless they are herbal smoking products”.
+**3.**[^c-6c33cfdc022cbb74e65239582a2b8c91] (1) In article 4(2) (cigarettes) omit “, unless they are herbal smoking products”.
 
 (2) In article 7(2) (other smoking tobacco) omit “, unless they are herbal smoking products”.
 
@@ -86,12 +86,12 @@ A Tax Information and Impact Note was published on 11 December 2012 alongside th
 
 [^f00001]: Footnote: [1979 c. 7](https://www.legislation.gov.uk/ukpga/1979/7); section 1(3) was amended by the Finance Act [1993 (c. 34)](https://www.legislation.gov.uk/ukpga/1993/34), section 14 and by the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), section 182.
 
-[^key-b644240727b3537cfcd6881e61a263fb]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2721/article/1) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2721/article/1)
+[^c-b644240727b3537cfcd6881e61a263fb]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2721/article/1) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2721/article/1)
 
-[^key-4a1b284db9964b40b3a24805b64ec456]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2721/article/2) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2721/article/1)
+[^c-4a1b284db9964b40b3a24805b64ec456]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/2721/article/2) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2721/article/1)
 
 [^f00002]: Footnote: [S.I. 2003/1471](https://www.legislation.gov.uk/uksi/2003/1471).
 
-[^key-6c33cfdc022cbb74e65239582a2b8c91]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2721/article/3) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2721/article/1)
+[^c-6c33cfdc022cbb74e65239582a2b8c91]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/2721/article/3) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2721/article/1)
 
 [^f00003]: Footnote: OJ No L 176, 5.7.11, p 24.

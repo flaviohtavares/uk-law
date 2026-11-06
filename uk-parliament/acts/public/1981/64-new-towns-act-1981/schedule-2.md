@@ -24,7 +24,7 @@ Section 2.
 
 ### Disposal of land
 
-**1.**[^key-f2e5464301428aef7372ba52e98d9393] (1) Subject to sub-paragraphs (2) to (4) below, the development corporation shall dispose of any land which it has acquired—
+**1.**[^c-f2e5464301428aef7372ba52e98d9393] (1) Subject to sub-paragraphs (2) to (4) below, the development corporation shall dispose of any land which it has acquired—
 
 - (a) which falls within the excluded land; and
 - (b) which the corporation does not require for purposes connected with the development of the new town or for the provision of services for the purposes of the new town.
@@ -54,7 +54,7 @@ Section 2.
 
 ### Licensing
 
-**2.**[^key-e9e3b449a536e1d6ed83e9784f472bdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e9e3b449a536e1d6ed83e9784f472bdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### “Excluded land”
 
@@ -62,7 +62,7 @@ Section 2.
 
 ## Annotations
 
-[^key-f2e5464301428aef7372ba52e98d9393]: Modification: Sch. 2 para. 1 functions made exercisable (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [regs. 1](https://www.legislation.gov.uk/uksi/2018/891/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/2))
+[^c-f2e5464301428aef7372ba52e98d9393]: Modification: Sch. 2 para. 1 functions made exercisable (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [regs. 1](https://www.legislation.gov.uk/uksi/2018/891/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/2))
 
 [^c253395]: Textual amendment: Word repealed by [New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123: 3, 4)](https://www.legislation.gov.uk/ukpga/1985/5), [s. 14(1)(2)](https://www.legislation.gov.uk/ukpga/1985/5/section/14/1/2), [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1985/5/schedule/3/paragraph/15)(*a*), Sch. 4
 
@@ -70,4 +70,4 @@ Section 2.
 
 [^c253397]: Textual amendment: Sch. 2 para. 1(7) repealed by [New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123: 3, 4)](https://www.legislation.gov.uk/ukpga/1985/5), [s. 14(2)](https://www.legislation.gov.uk/ukpga/1985/5/section/14/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1985/5/schedule/4)
 
-[^key-e9e3b449a536e1d6ed83e9784f472bdd]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1981/64/schedule/2/paragraph/2) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-e9e3b449a536e1d6ed83e9784f472bdd]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1981/64/schedule/2/paragraph/2) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))

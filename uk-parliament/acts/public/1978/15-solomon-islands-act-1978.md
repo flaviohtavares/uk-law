@@ -131,9 +131,9 @@ shall cease to be such a citizen on becoming a citizen of Solomon Islands.
 
 (1) . . . [^c908868]
 
-(2)[^key-bef96679de1c73e8ab96df103aa0b620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bef96679de1c73e8ab96df103aa0b620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-b79bee1d2602ea11bf277daa173158f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b79bee1d2602ea11bf277daa173158f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) On and after Independence Day the enactments specified in the Schedule to this Act have effect subject to the amendments there specified.
 
@@ -206,9 +206,9 @@ and, until express provision with respect to Solomon Islands is made by an Order
 
 [^c908868]: Textual amendment: S. 7(1) repealed by [Interpretation Act 1978 (c. 30, SIF 115:1)](https://www.legislation.gov.uk/ukpga/1978/30), [Sch. 3](https://www.legislation.gov.uk/ukpga/1978/30/schedule/3)
 
-[^key-bef96679de1c73e8ab96df103aa0b620]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1978/15/section/7/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-bef96679de1c73e8ab96df103aa0b620]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1978/15/section/7/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-b79bee1d2602ea11bf277daa173158f5]: Textual amendment: [S. 7(3)](https://www.legislation.gov.uk/ukpga/1978/15/section/7/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-b79bee1d2602ea11bf277daa173158f5]: Textual amendment: [S. 7(3)](https://www.legislation.gov.uk/ukpga/1978/15/section/7/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c908874]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1978/15/section/8) repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/I)
 

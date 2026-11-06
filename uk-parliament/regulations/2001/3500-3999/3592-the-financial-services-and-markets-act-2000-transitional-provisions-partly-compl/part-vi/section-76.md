@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Definition of “disciplinary measure”[^key-0a977fc3e1d3b7d67be3ef096f646225]
+## 76. Definition of “disciplinary measure”[^c-0a977fc3e1d3b7d67be3ef096f646225]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a977fc3e1d3b7d67be3ef096f646225]: Commencement: Art. 76 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-0a977fc3e1d3b7d67be3ef096f646225]: Commencement: Art. 76 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Failure of flight termination personnel to follow obligation to make a flight termination decision[^key-a36498b526ab35f92cba456d04ec97ce]
+## 125. Failure of flight termination personnel to follow obligation to make a flight termination decision[^c-a36498b526ab35f92cba456d04ec97ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A member of the flight termination personnel who fails, without reasonable excus
 
 ## Annotations
 
-[^key-a36498b526ab35f92cba456d04ec97ce]: Commencement: Reg. 125 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-a36498b526ab35f92cba456d04ec97ce]: Commencement: Reg. 125 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

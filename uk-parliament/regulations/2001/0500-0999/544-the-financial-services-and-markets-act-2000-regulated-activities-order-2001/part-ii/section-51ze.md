@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51ZE. Establishing etc. a collective investment scheme[^key-dc40b2381edc494a102ae76de171ecc0]
+## 51ZE. Establishing etc. a collective investment scheme[^c-dc40b2381edc494a102ae76de171ecc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Establishing, operating or winding up a collective investment scheme is a specif
 
 ## Annotations
 
-[^key-dc40b2381edc494a102ae76de171ecc0]: Textual amendment: Arts. 51ZA-51ZG substituted for arts. 51 and cross-heading (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 1(12)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/1/12)
+[^c-dc40b2381edc494a102ae76de171ecc0]: Textual amendment: Arts. 51ZA-51ZG substituted for arts. 51 and cross-heading (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 1(12)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/1/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Other offences relating to prison security[^key-f572520e9f5b738e7f1d0fabd69831a4]
+## 23. Other offences relating to prison security[^c-f572520e9f5b738e7f1d0fabd69831a4]
 
 *Extent: E+W*
 
@@ -100,4 +100,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f572520e9f5b738e7f1d0fabd69831a4]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2007/21/section/23) in force at 1.4.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(i)](https://www.legislation.gov.uk/uksi/2008/504/article/3/i)
+[^c-f572520e9f5b738e7f1d0fabd69831a4]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2007/21/section/23) in force at 1.4.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(i)](https://www.legislation.gov.uk/uksi/2008/504/article/3/i)

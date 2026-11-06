@@ -30,7 +30,7 @@ summary: ''
 - (d) section 287(1) (limit on exemption under Chapter 7 of Part 4: removal benefits and expenses),
 - (e) section 322(1) and (4) (suggestion awards: “the permitted maximum”),
 - (f) section 323(2) (long service awards),
-- (fa)[^key-743fcbcc6c5ab4a99c137dd216f2001b] section 323A(4) (trivial benefits provided by employers: cost of providing benefit),
+- (fa)[^c-743fcbcc6c5ab4a99c137dd216f2001b] section 323A(4) (trivial benefits provided by employers: cost of providing benefit),
 - (fb) section 323B(2) (trivial benefits provided by employers: annual exempt amount),
 - (g) section 324(6) (small gifts from third parties), and
 - (h) section 358(3)(b) (business entertainment and gifts: other exceptions).
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-743fcbcc6c5ab4a99c137dd216f2001b]: Textual amendment: [S. 716(2)(fa)](https://www.legislation.gov.uk/ukpga/2003/1/section/716/2/fa)[(fb)](https://www.legislation.gov.uk/ukpga/2003/1/section/716/2/fb) inserted (with effect in accordance with s. 13(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/13/3)
+[^c-743fcbcc6c5ab4a99c137dd216f2001b]: Textual amendment: [S. 716(2)(fa)](https://www.legislation.gov.uk/ukpga/2003/1/section/716/2/fa)[(fb)](https://www.legislation.gov.uk/ukpga/2003/1/section/716/2/fb) inserted (with effect in accordance with s. 13(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/13/3)

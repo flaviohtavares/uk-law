@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 71. Application of abatement policy to individual cases[^key-0f76ab7d38c21aaaf1200f43b67c6d52]
+## 71. Application of abatement policy to individual cases[^c-0f76ab7d38c21aaaf1200f43b67c6d52]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f76ab7d38c21aaaf1200f43b67c6d52]: Commencement: Reg. 71 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-0f76ab7d38c21aaaf1200f43b67c6d52]: Commencement: Reg. 71 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

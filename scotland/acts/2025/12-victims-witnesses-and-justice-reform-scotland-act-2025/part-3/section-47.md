@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Victim’s right to receive information under section 17D after representations[^key-10c4341ab9675f4e8e12c93c47e86b2b]
+## 47. Victim’s right to receive information under section 17D after representations[^c-10c4341ab9675f4e8e12c93c47e86b2b]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10c4341ab9675f4e8e12c93c47e86b2b]: Commencement: S. 47 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-10c4341ab9675f4e8e12c93c47e86b2b]: Commencement: S. 47 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

@@ -49,11 +49,11 @@ The Welsh Ministers make this Order in exercise of the powers conferred by secti
 
 The Welsh Ministers consider it expedient that references to the Community instruments implemented by these Regulations should have effect as references to those instruments as amended from time to time.
 
-## 1. Title, application and commencement[^key-511dd7db58c319eb5114c2876e0909b4]
+## 1. Title, application and commencement[^c-511dd7db58c319eb5114c2876e0909b4]
 
 The title of this Order is the Control of Salmonella in Turkey Flocks (Wales) Order 2010. It applies in relation to Wales and comes into force on 5 February 2010.
 
-## 2. Interpretation[^key-22943d8b709de228770a8039c6c56865]
+## 2. Interpretation[^c-22943d8b709de228770a8039c6c56865]
 
 (1) In this Order—
 
@@ -68,24 +68,24 @@ The title of this Order is the Control of Salmonella in Turkey Flocks (Wales) Or
 
 (2) In this Order, a reference to—
 
-- (a)[^key-3896ab2ccc83c8aeec6cec4e4e73fd3a] Regulation (EU) No 1190/2012 is a reference to [Commission Regulation (EU) No 1190/2012](https://www.legislation.gov.uk/european/regulation/2012/1190) concerning a Union target for the reduction of *Salmonella enteritidis* and *Salmonella typhimurium* in flocks of turkeys, as provided for in Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council, as amended from time to time,
-- (b)[^key-5236c8807a5f64f88bc11620548061f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3896ab2ccc83c8aeec6cec4e4e73fd3a] Regulation (EU) No 1190/2012 is a reference to [Commission Regulation (EU) No 1190/2012](https://www.legislation.gov.uk/european/regulation/2012/1190) concerning a Union target for the reduction of *Salmonella enteritidis* and *Salmonella typhimurium* in flocks of turkeys, as provided for in Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council, as amended from time to time,
+- (b)[^c-5236c8807a5f64f88bc11620548061f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) Regulation [(EC) No 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177) is a reference to Commission Regulation [(EC) No 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177) implementing Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council as regards requirements for the use of specific control methods in the framework of the national programmes for the control of Salmonella in poultry[^f00005],
 
 in each case as amended from time to time.
 
-## 3. Competent authority[^key-8ff8ab8ff9c652b26c1f5a8a5994f0ca]
+## 3. Competent authority[^c-8ff8ab8ff9c652b26c1f5a8a5994f0ca]
 
 The Welsh Ministers are the competent authority for the purposes of—
 
-- (za)[^key-6a61e520d03b31fc0710b6366c2b3e8e] Regulation (EU) No 1190/2012;
+- (za)[^c-6a61e520d03b31fc0710b6366c2b3e8e] Regulation (EU) No 1190/2012;
 - (a) Regulation [(EC) No 584/2008](https://www.legislation.gov.uk/european/regulation/2008/0584);
 - (b) Regulation [(EC) No 646/2007](https://www.legislation.gov.uk/european/regulation/2007/0646); and
 - (c) Regulation [(EC) No 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177).
 
-## 4. Sampling[^key-69d5710e091b6b709a1383a44f7e992a]
+## 4. Sampling[^c-69d5710e091b6b709a1383a44f7e992a]
 
-(1) The occupier must carry out sampling in accordance with points 1 and 2 of the Annex to Regulation (EU) No 1190/2012[^key-6d9acc5732ec3301be963194ea5df017] and must despatch samples to an approved laboratory in accordance with point 2.2.4[^key-1349fa59a896012cf7b5418da94ae377] of that Annex (and for the purposes of that point “express mail” includes first class post).
+(1) The occupier must carry out sampling in accordance with points 1 and 2 of the Annex to Regulation (EU) No 1190/2012[^c-6d9acc5732ec3301be963194ea5df017] and must despatch samples to an approved laboratory in accordance with point 2.2.4[^c-1349fa59a896012cf7b5418da94ae377] of that Annex (and for the purposes of that point “express mail” includes first class post).
 
 (2) In relation to each sample the occupier must provide the following information—
 
@@ -97,7 +97,7 @@ The Welsh Ministers are the competent authority for the purposes of—
 - (f) the date on which the flock moved onto the holding;
 - (g) the age of the flock.
 
-## 5. Records of samples[^key-5122672fe361beb3a179ee8ce8e34263]
+## 5. Records of samples[^c-5122672fe361beb3a179ee8ce8e34263]
 
 (1) The occupier must, as soon as is reasonably practicable after taking a sample, record—
 
@@ -110,7 +110,7 @@ The Welsh Ministers are the competent authority for the purposes of—
 
 (2) The occupier must record the result of each test when it is received from the laboratory.
 
-## 6. Records of movements[^key-95dec091336e5997879ce309bc07171a]
+## 6. Records of movements[^c-95dec091336e5997879ce309bc07171a]
 
 When birds are moved on to or off a holding the occupier must record for each flock—
 
@@ -122,31 +122,31 @@ When birds are moved on to or off a holding the occupier must record for each fl
 - (f) the identity of the building or group of buildings into or from which the birds were moved;
 - (g) the address of the holding that they came from or the slaughterhouse or holding they were sent to.
 
-## 7. Duties of the person in charge of a laboratory[^key-3c000ba06b29adae5a1bf03ccc1c175e]
+## 7. Duties of the person in charge of a laboratory[^c-3c000ba06b29adae5a1bf03ccc1c175e]
 
-Where a laboratory tests samples, the person in charge of the laboratory must ensure that they are tested in accordance with point 3 of the Annex to Regulation (EU) No 1190/2012, as amended from time to time[^key-5d1c601cb80b29306cca60fab969c645].
+Where a laboratory tests samples, the person in charge of the laboratory must ensure that they are tested in accordance with point 3 of the Annex to Regulation (EU) No 1190/2012, as amended from time to time[^c-5d1c601cb80b29306cca60fab969c645].
 
-## 8. Prohibition on the use of antimicrobials[^key-b546fa4ee98da2eaae010ac4b8def3f9]
+## 8. Prohibition on the use of antimicrobials[^c-b546fa4ee98da2eaae010ac4b8def3f9]
 
 No person may administer any antimicrobial to any turkeys as a specific method to control Salmonella in breach of Article 2(1) of Regulation [(EC) No 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177) (use of antimicrobials).
 
-## 9. Prohibition on the use of vaccines[^key-c0a177a03b751bdecc98714637ec324e]
+## 9. Prohibition on the use of vaccines[^c-c0a177a03b751bdecc98714637ec324e]
 
 No person may administer any live Salmonella vaccine to any turkeys in breach of Article 3(1) of Regulation [(EC) No 1177/2006](https://www.legislation.gov.uk/european/regulation/2006/1177) (use of vaccines).
 
-## 10. Records[^key-d1241bf9ffda6f90554c851950c923a3]
+## 10. Records[^c-d1241bf9ffda6f90554c851950c923a3]
 
 Any person required to keep a record under this Order must keep it for two years from the date it is made and must produce it on demand to an inspector or officer of the Welsh Ministers and allow a copy of it to be made or an extract from it to be taken.
 
-## 11. Tampering with samples[^key-2bd3b5a79ecf225a002320b1852ae155]
+## 11. Tampering with samples[^c-2bd3b5a79ecf225a002320b1852ae155]
 
 A person must not tamper with a sample or do anything to it that is likely to affect the result of any test required to be carried out under this Order.
 
-## 12. Powers of the Welsh Ministers in cases of default[^key-85f631534ee3de393c225835a1bc3e63]
+## 12. Powers of the Welsh Ministers in cases of default[^c-85f631534ee3de393c225835a1bc3e63]
 
 If any person fails to take any action required by this Order, an inspector may arrange for such action to be taken at the expense of the person in default.
 
-## 13. Enforcement[^key-4838d6b6c2e239be8fb1b8e585ebfc52]
+## 13. Enforcement[^c-4838d6b6c2e239be8fb1b8e585ebfc52]
 
 (1) This Order is enforced by the local authority.
 
@@ -176,45 +176,45 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-511dd7db58c319eb5114c2876e0909b4]: Commencement: Art. 1 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
+[^c-511dd7db58c319eb5114c2876e0909b4]: Commencement: Art. 1 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
 
-[^key-22943d8b709de228770a8039c6c56865]: Commencement: Art. 2 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
+[^c-22943d8b709de228770a8039c6c56865]: Commencement: Art. 2 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
 
-[^key-3896ab2ccc83c8aeec6cec4e4e73fd3a]: Textual amendment: [Art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2010/65/article/2/2/a) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [36(2)(a)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/36/2/a)
+[^c-3896ab2ccc83c8aeec6cec4e4e73fd3a]: Textual amendment: [Art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2010/65/article/2/2/a) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [36(2)(a)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/36/2/a)
 
-[^key-5236c8807a5f64f88bc11620548061f6]: Textual amendment: [Art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2010/65/article/2/2/b) omitted (17.12.2018) by virtue of [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [36(2)(b)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/36/2/b)
+[^c-5236c8807a5f64f88bc11620548061f6]: Textual amendment: [Art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2010/65/article/2/2/b) omitted (17.12.2018) by virtue of [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [36(2)(b)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/36/2/b)
 
 [^f00005]: Footnote: OJ No L 212, 2.8.2006, p. 3.
 
-[^key-8ff8ab8ff9c652b26c1f5a8a5994f0ca]: Commencement: Art. 3 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
+[^c-8ff8ab8ff9c652b26c1f5a8a5994f0ca]: Commencement: Art. 3 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
 
-[^key-6a61e520d03b31fc0710b6366c2b3e8e]: Textual amendment: [Art. 3(za)](https://www.legislation.gov.uk/wsi/2010/65/article/3/za) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [11](https://www.legislation.gov.uk/wsi/2019/463/regulation/11)
+[^c-6a61e520d03b31fc0710b6366c2b3e8e]: Textual amendment: [Art. 3(za)](https://www.legislation.gov.uk/wsi/2010/65/article/3/za) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [11](https://www.legislation.gov.uk/wsi/2019/463/regulation/11)
 
-[^key-69d5710e091b6b709a1383a44f7e992a]: Commencement: Art. 4 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
+[^c-69d5710e091b6b709a1383a44f7e992a]: Commencement: Art. 4 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
 
-[^key-6d9acc5732ec3301be963194ea5df017]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/wsi/2010/65/article/4/1) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [36(3)(a)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/36/3/a)
+[^c-6d9acc5732ec3301be963194ea5df017]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/wsi/2010/65/article/4/1) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [36(3)(a)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/36/3/a)
 
-[^key-1349fa59a896012cf7b5418da94ae377]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/wsi/2010/65/article/4/1) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [36(3)(b)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/36/3/b)
+[^c-1349fa59a896012cf7b5418da94ae377]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/wsi/2010/65/article/4/1) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [36(3)(b)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/36/3/b)
 
-[^key-5122672fe361beb3a179ee8ce8e34263]: Commencement: Art. 5 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
+[^c-5122672fe361beb3a179ee8ce8e34263]: Commencement: Art. 5 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
 
-[^key-95dec091336e5997879ce309bc07171a]: Commencement: Art. 6 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
+[^c-95dec091336e5997879ce309bc07171a]: Commencement: Art. 6 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
 
-[^key-3c000ba06b29adae5a1bf03ccc1c175e]: Commencement: Art. 7 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
+[^c-3c000ba06b29adae5a1bf03ccc1c175e]: Commencement: Art. 7 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
 
-[^key-5d1c601cb80b29306cca60fab969c645]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/wsi/2010/65/article/7) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [36(4)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/36/4)
+[^c-5d1c601cb80b29306cca60fab969c645]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/wsi/2010/65/article/7) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [36(4)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/36/4)
 
-[^key-b546fa4ee98da2eaae010ac4b8def3f9]: Commencement: Art. 8 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
+[^c-b546fa4ee98da2eaae010ac4b8def3f9]: Commencement: Art. 8 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
 
-[^key-c0a177a03b751bdecc98714637ec324e]: Commencement: Art. 9 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
+[^c-c0a177a03b751bdecc98714637ec324e]: Commencement: Art. 9 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
 
-[^key-d1241bf9ffda6f90554c851950c923a3]: Commencement: Art. 10 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
+[^c-d1241bf9ffda6f90554c851950c923a3]: Commencement: Art. 10 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
 
-[^key-2bd3b5a79ecf225a002320b1852ae155]: Commencement: Art. 11 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
+[^c-2bd3b5a79ecf225a002320b1852ae155]: Commencement: Art. 11 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
 
-[^key-85f631534ee3de393c225835a1bc3e63]: Commencement: Art. 12 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
+[^c-85f631534ee3de393c225835a1bc3e63]: Commencement: Art. 12 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
 
-[^key-4838d6b6c2e239be8fb1b8e585ebfc52]: Commencement: Art. 13 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
+[^c-4838d6b6c2e239be8fb1b8e585ebfc52]: Commencement: Art. 13 in force at 5.2.2010, see [art. 1](https://www.legislation.gov.uk/wsi/2010/65/article/1)
 
 [^f00006]: Footnote: OJ No L 162, 21.6.2008, p. 3.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86A. Seized personal property[^key-14040ddb5280c5db5ef8cfc3c820b5e3]
+## 86A. Seized personal property[^c-14040ddb5280c5db5ef8cfc3c820b5e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14040ddb5280c5db5ef8cfc3c820b5e3]: Textual amendment: [Ch. 3A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/3A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [28](https://www.legislation.gov.uk/uksi/2015/1750/article/28)
+[^c-14040ddb5280c5db5ef8cfc3c820b5e3]: Textual amendment: [Ch. 3A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/3A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [28](https://www.legislation.gov.uk/uksi/2015/1750/article/28)

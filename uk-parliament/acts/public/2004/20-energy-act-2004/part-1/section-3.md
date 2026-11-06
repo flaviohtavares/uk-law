@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Designated responsibilities[^key-fb988cfed5a995f293e4c52038b69c0b]
+## 3. Designated responsibilities[^c-fb988cfed5a995f293e4c52038b69c0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ anything the publication of which he considers to be against the interests of na
 
 ## Annotations
 
-[^key-fb988cfed5a995f293e4c52038b69c0b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2004/20/section/3) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-fb988cfed5a995f293e4c52038b69c0b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2004/20/section/3) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)

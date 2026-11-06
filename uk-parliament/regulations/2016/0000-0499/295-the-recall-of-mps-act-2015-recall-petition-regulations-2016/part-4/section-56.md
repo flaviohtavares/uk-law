@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Absent signers list: Northern Ireland[^key-a6f18ee0a9518b340aa8bf4991d9c1bd]
+## 56. Absent signers list: Northern Ireland[^c-a6f18ee0a9518b340aa8bf4991d9c1bd]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ together with (in each case) the names and addresses of those appointed as their
 
 ## Annotations
 
-[^key-a6f18ee0a9518b340aa8bf4991d9c1bd]: Commencement: Reg. 56 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-a6f18ee0a9518b340aa8bf4991d9c1bd]: Commencement: Reg. 56 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

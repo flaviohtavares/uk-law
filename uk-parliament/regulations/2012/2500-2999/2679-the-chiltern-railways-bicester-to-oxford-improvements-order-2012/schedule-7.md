@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — REPLACEMENT AND CLOSURE OF ROAD LEVEL CROSSINGS[^key-36e4d6613442a10dab7f52f642ea3fdd]
+## SCHEDULE 7 — REPLACEMENT AND CLOSURE OF ROAD LEVEL CROSSINGS[^c-36e4d6613442a10dab7f52f642ea3fdd]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ Article 15
 
 ## Annotations
 
-[^key-36e4d6613442a10dab7f52f642ea3fdd]: Commencement: Sch. 7 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-36e4d6613442a10dab7f52f642ea3fdd]: Commencement: Sch. 7 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

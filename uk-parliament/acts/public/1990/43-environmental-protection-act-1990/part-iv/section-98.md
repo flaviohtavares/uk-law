@@ -25,7 +25,7 @@ summary: ''
 (1A)[^c18890231] “**Appropriate person**” means—
 
 - (a) in relation to England, the Secretary of State;
-- (b) in relation to Wales, the Welsh Ministers *(Extent: E)*[^key-e4b05e356ef80d0f036613cf4f8aee8b].
+- (b) in relation to Wales, the Welsh Ministers *(Extent: E)*[^c-e4b05e356ef80d0f036613cf4f8aee8b].
 
 (2)[^c13746681] “**Educational institution**”, in relation to England and Wales, means—
 
@@ -55,14 +55,14 @@ summary: ''
 
 (4) “**Joint board**”, in relation to Scotland, has the meaning given by section 235(1) of the [^c13746821]Local Government (Scotland) Act 1973.
 
-(5) “**Highway**” (and “**highway maintainable at the public expense**”), “highway authority”,[^key-b974fd67416436353219237f9cfd8dfb] “**special road**” and “**trunk road**”, in relation to England and Wales, have the same meaning as in the [^c13746831]Highways Act 1980 and “**public road**”, “**special road**” and “**trunk road**”, in relation to Scotland, have the same meaning as in the [^c13746841]Roads (Scotland) Act 1984.
+(5) “**Highway**” (and “**highway maintainable at the public expense**”), “highway authority”,[^c-b974fd67416436353219237f9cfd8dfb] “**special road**” and “**trunk road**”, in relation to England and Wales, have the same meaning as in the [^c13746831]Highways Act 1980 and “**public road**”, “**special road**” and “**trunk road**”, in relation to Scotland, have the same meaning as in the [^c13746841]Roads (Scotland) Act 1984.
 
 (5A)[^c18891051] “**Litter**” includes—
 
 - (a) the discarded ends of cigarettes, cigars and like products, and
 - (b) discarded chewing-gum and the discarded remains of other products designed for chewing.
 
-(5B)[^key-fad11871c608f53f1d00eb273f567698] Strategic highways company” means a company for the time being appointed under Part 1 of the Infrastructure Act 2015.
+(5B)[^c-fad11871c608f53f1d00eb273f567698] Strategic highways company” means a company for the time being appointed under Part 1 of the Infrastructure Act 2015.
 
 (6) “**Statutory undertaker**” means—
 
@@ -72,7 +72,7 @@ summary: ''
 
 *Extent: S*
 
-(6A)[^key-54d971bcf647d6bdf479898757fa6b43] In subsection (6) above, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
+(6A)[^c-54d971bcf647d6bdf479898757fa6b43] In subsection (6) above, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
 
 ## Annotations
 
@@ -82,7 +82,7 @@ summary: ''
 
 [^c18890231]: Textual amendment: S. 98(1A) inserted (E.W.) (7.4.2005) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [s. 26](https://www.legislation.gov.uk/ukpga/2005/16/section/26)
 
-[^key-e4b05e356ef80d0f036613cf4f8aee8b]: Textual amendment: Words in [s. 98(1A)(b)](https://www.legislation.gov.uk/ukpga/1990/43/section/98/1A/b) substituted (1.4.2023 for E.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 68(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/68/4), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/381](https://www.legislation.gov.uk/uksi/2023/381), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/381/regulation/2/a)
+[^c-e4b05e356ef80d0f036613cf4f8aee8b]: Textual amendment: Words in [s. 98(1A)(b)](https://www.legislation.gov.uk/ukpga/1990/43/section/98/1A/b) substituted (1.4.2023 for E.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 68(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/68/4), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/381](https://www.legislation.gov.uk/uksi/2023/381), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/381/regulation/2/a)
 
 [^c13746681]: Modification: S. 98(2) applied (E.W.)(1.4.1994) by [S.I. 1994/653](https://www.legislation.gov.uk/uksi/1994/653), [reg. 42(1)](https://www.legislation.gov.uk/uksi/1994/653/regulation/42/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1994/653/schedule/part/I).
 
@@ -114,7 +114,7 @@ summary: ''
 
 [^c13746821]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-b974fd67416436353219237f9cfd8dfb]: Textual amendment: Words in s. 98(5) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 112(2)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/112/2); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-b974fd67416436353219237f9cfd8dfb]: Textual amendment: Words in s. 98(5) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 112(2)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/112/2); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13746831]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
@@ -122,8 +122,8 @@ summary: ''
 
 [^c18891051]: Textual amendment: S. 98(5A) inserted (E.W.) (7.6.2005) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 27](https://www.legislation.gov.uk/ukpga/2005/16/section/27), [108(4)(c)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/4/c)
 
-[^key-fad11871c608f53f1d00eb273f567698]: Textual amendment: S. 98(5B) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 112(3)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/112/3); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-fad11871c608f53f1d00eb273f567698]: Textual amendment: S. 98(5B) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 112(3)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/112/3); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13746851]: Marginal citation: [1986 c. 31](https://www.legislation.gov.uk/ukpga/1986/31).
 
-[^key-54d971bcf647d6bdf479898757fa6b43]: Textual amendment: S. 98(6A) inserted (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 40(8)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/40/8); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-54d971bcf647d6bdf479898757fa6b43]: Textual amendment: S. 98(6A) inserted (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 40(8)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/40/8); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

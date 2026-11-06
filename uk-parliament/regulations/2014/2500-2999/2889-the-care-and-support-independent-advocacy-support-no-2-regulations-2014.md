@@ -45,9 +45,9 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(1)
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by sections 67(7) and 125(7) and (8) of the Care Act 2014[^f00001].[^key-1ea8a219c1ee0f0b262193caa8f6bf35]
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 67(7) and 125(7) and (8) of the Care Act 2014[^f00001].[^c-1ea8a219c1ee0f0b262193caa8f6bf35]
 
-## 1. Citation, commencement and interpretation[^key-a5e90e63aad31adfb5da390680305ffe]
+## 1. Citation, commencement and interpretation[^c-a5e90e63aad31adfb5da390680305ffe]
 
 (1) These Regulations may be cited as the Care and Support (Independent Advocacy Support) (No. 2) Regulations 2014 and come into force immediately after section 67(2) of the Care Act 2014 comes into force.
 
@@ -57,7 +57,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - “assessment or planning function” means a function, in the exercise of which a local authority[^f00002] is required by a relevant provision to involve an individual;
 - “relevant provision” means a provision listed in section 67(3) of the Act.
 
-## 2. Requirements for a person to be an independent advocate[^key-21153e75e580aa7b5cfff965ac7e0f98]
+## 2. Requirements for a person to be an independent advocate[^c-21153e75e580aa7b5cfff965ac7e0f98]
 
 (1) A local authority must not make arrangements for a person to be an independent advocate[^f00003] under section 67(2) of the Act unless the authority is satisfied that the person—
 
@@ -86,7 +86,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (5) Where a local authority has made arrangements with any other person for that person to carry out the assessment or planning function on the local authority’s behalf, the references in paragraph (3)(a) and (b) to a local authority include a reference to that other person.
 
-## 3. Matters to which a local authority must have regard in deciding whether an individual would experience substantial difficulty of the kind mentioned in section 67(4) of the Act[^key-677a48a70d9bfe4ccda528b814b6a3e1]
+## 3. Matters to which a local authority must have regard in deciding whether an individual would experience substantial difficulty of the kind mentioned in section 67(4) of the Act[^c-677a48a70d9bfe4ccda528b814b6a3e1]
 
 In deciding whether an individual would experience substantial difficulty of the kind mentioned in section 67(4) of the Act (difficulty in understanding information etc.), a local authority must have regard to—
 
@@ -97,7 +97,7 @@ In deciding whether an individual would experience substantial difficulty of the
 - (e) where the assessment or planning function is the carrying out of an assessment, whether the individual has previously refused an assessment[^f00005]; and
 - (f) whether the individual is experiencing, or at risk of, abuse or neglect.
 
-## 4. Circumstances in which the exception in section 67(5) of the Act does not apply[^key-a6dfb55172aaa30518b5ee4adccc99ff]
+## 4. Circumstances in which the exception in section 67(5) of the Act does not apply[^c-a6dfb55172aaa30518b5ee4adccc99ff]
 
 (1) The exception in section 67(5) of the Act does not apply in the circumstances specified in paragraphs (2) and (3).
 
@@ -122,11 +122,11 @@ In deciding whether an individual would experience substantial difficulty of the
   - (c) any institution for the reception and treatment of persons during convalescence or persons requiring medical rehabilitation;
 - “the individual” refers to the individual in relation to whom the duty under section 67(2) of the Act would apply but for the exception in section 67(5) of the Act;
 - “NHS body” means—
-  - (a) NHS England[^key-f6e14d7eab62cd8211b9ee92a6bd29e3];
-  - (b) an integrated care board[^key-b2d5f550bcf89f6d4e704c1ccec915f8]; or
+  - (a) NHS England[^c-f6e14d7eab62cd8211b9ee92a6bd29e3];
+  - (b) an integrated care board[^c-b2d5f550bcf89f6d4e704c1ccec915f8]; or
   - (c) a NHS trust or foundation trust.
 
-## 5. Manner in which independent advocates are to carry out their functions[^key-a2fef06417da12d1d8901b6cb1635c43]
+## 5. Manner in which independent advocates are to carry out their functions[^c-a2fef06417da12d1d8901b6cb1635c43]
 
 (1) Independent advocates must perform their functions in the manner specified in this regulation.
 
@@ -165,7 +165,7 @@ In deciding whether an individual would experience substantial difficulty of the
 
 (8) Where the individual does not have capacity, or is not competent, to challenge a decision made in the exercise of the assessment or planning function, the independent advocate must challenge the decision if the independent advocate considers the decision to be inconsistent with the authority’s general duty under section 1 of the Act (duty to promote the individual’s well-being).
 
-## 6. Local authority’s dealings with the independent advocate[^key-cfc78cfb6c3e5f15a60aa2b1f5e1fe57]
+## 6. Local authority’s dealings with the independent advocate[^c-cfc78cfb6c3e5f15a60aa2b1f5e1fe57]
 
 (1) Where a local authority has arranged for an independent advocate under section 67(2) of the Act, it must, in exercising any assessment or planning function—
 
@@ -176,7 +176,7 @@ In deciding whether an individual would experience substantial difficulty of the
 
 (3) A local authority may make reasonable requests for information in connection with the performance of an independent advocate’s functions and the independent advocate must comply with such requests.
 
-## 7. Combined assessments[^key-e8f501fc953053ba0c7e66348d2e3e88]
+## 7. Combined assessments[^c-e8f501fc953053ba0c7e66348d2e3e88]
 
 (1) This regulation applies where—
 
@@ -193,7 +193,7 @@ In deciding whether an individual would experience substantial difficulty of the
 - (a) either of those individuals; or
 - (b) any independent advocate who has already begun to represent and support one of those individuals under arrangements made under section 67(2) of the Act.
 
-## 8. Revocation of the Care and Support (Independent Advocacy Support) Regulations 2014[^key-38f610354ccc9ebbeab393f48a33f1e7]
+## 8. Revocation of the Care and Support (Independent Advocacy Support) Regulations 2014[^c-38f610354ccc9ebbeab393f48a33f1e7]
 
 The Care and Support (Independent Advocacy Support) Regulations 2014 are revoked.
 
@@ -233,40 +233,40 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00001]: Footnote: [2014 c.23](https://www.legislation.gov.uk/ukpga/2014/23) (“the Act”). The powers to make regulations is exercisable by the Secretary of State - *see* section 125(1).
 
-[^key-1ea8a219c1ee0f0b262193caa8f6bf35]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/2889) applied (with modifications) (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Care and Support (Children’s Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2015/305/regulation/2/3/a)
+[^c-1ea8a219c1ee0f0b262193caa8f6bf35]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2014/2889) applied (with modifications) (coming into force in accordance with reg. 1(1) of the amending S.I.) by [The Care and Support (Children’s Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2015/305/regulation/2/3/a)
 
-[^key-a5e90e63aad31adfb5da390680305ffe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)
+[^c-a5e90e63aad31adfb5da390680305ffe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)
 
 [^f00002]: Footnote: *See* section 1(4) of the Act for the meaning of “local authority”; the definition is limited to local authorities in England.
 
-[^key-21153e75e580aa7b5cfff965ac7e0f98]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2889/regulation/2) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)
+[^c-21153e75e580aa7b5cfff965ac7e0f98]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2889/regulation/2) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)
 
 [^f00003]: Footnote: *See* section 67(2) of the Act for the meaning of “independent advocate”.
 
 [^f00004]: Footnote: [1997 c.50](https://www.legislation.gov.uk/ukpga/1997/50). Section 113B was inserted by the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), section 163(2) and sections 113BA and 113BB were inserted by the Safeguarding Vulnerable Groups Act [2006 (c.47)](https://www.legislation.gov.uk/ukpga/2006/47), section 63(1) and Schedule 9, paragraph 14(4).
 
-[^key-677a48a70d9bfe4ccda528b814b6a3e1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2889/regulation/3) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)
+[^c-677a48a70d9bfe4ccda528b814b6a3e1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2889/regulation/3) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)
 
 [^f00005]: Footnote: *See* sections 11, 28(7), 58(4), 60(3) and 63(4) of the Act.
 
-[^key-a6dfb55172aaa30518b5ee4adccc99ff]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2889/regulation/4) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)
+[^c-a6dfb55172aaa30518b5ee4adccc99ff]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2889/regulation/4) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)
 
 [^f00006]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14).
 
 [^f00007]: Footnote: [2008 c.14](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-f6e14d7eab62cd8211b9ee92a6bd29e3]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-f6e14d7eab62cd8211b9ee92a6bd29e3]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-b2d5f550bcf89f6d4e704c1ccec915f8]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2014/2889) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-b2d5f550bcf89f6d4e704c1ccec915f8]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2014/2889) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-a2fef06417da12d1d8901b6cb1635c43]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2889/regulation/5) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)
+[^c-a2fef06417da12d1d8901b6cb1635c43]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2889/regulation/5) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)
 
 [^f00010]: Footnote: *See* section 1(2) of the Act for the meaning of “well-being”.
 
 [^f00011]: Footnote: *See* section 67(9) of the Act for the meaning of “relevant record”.
 
-[^key-cfc78cfb6c3e5f15a60aa2b1f5e1fe57]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2889/regulation/6) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)
+[^c-cfc78cfb6c3e5f15a60aa2b1f5e1fe57]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2889/regulation/6) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)
 
-[^key-e8f501fc953053ba0c7e66348d2e3e88]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/2889/regulation/7) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)
+[^c-e8f501fc953053ba0c7e66348d2e3e88]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/2889/regulation/7) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)
 
-[^key-38f610354ccc9ebbeab393f48a33f1e7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/2889/regulation/8) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)
+[^c-38f610354ccc9ebbeab393f48a33f1e7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/2889/regulation/8) in force at 1.4.2015 in accordance with [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2889/regulation/1)

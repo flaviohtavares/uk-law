@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Electrical safety standards for residential properties let by landlords[^key-358a8d77c756f7d0733c0c1db244282a][^key-6743a12a61a99a5e1b8bd5890bb10bf9]
+## 122. Electrical safety standards for residential properties let by landlords[^c-358a8d77c756f7d0733c0c1db244282a][^c-6743a12a61a99a5e1b8bd5890bb10bf9]
 
 *Extent: E+W*
 
-(1) The Secretary of State may by regulations impose duties on a [^key-5253b5ffd3eed5c10dd78c68022e2e24]... landlord of residential premises in England to whom this section applies[^key-60fb494bc1f4c2098fe959ba7f2553fd] for the purposes of ensuring that electrical safety standards are met during any period when the premises are occupied under a tenancy.
+(1) The Secretary of State may by regulations impose duties on a [^c-5253b5ffd3eed5c10dd78c68022e2e24]... landlord of residential premises in England to whom this section applies[^c-60fb494bc1f4c2098fe959ba7f2553fd] for the purposes of ensuring that electrical safety standards are met during any period when the premises are occupied under a tenancy.
 
-(1A)[^key-fc620c1f5dbc022843a529fe53654e15] This section applies to a landlord who is—
+(1A)[^c-fc620c1f5dbc022843a529fe53654e15] This section applies to a landlord who is—
 
 - (a) a private landlord, or
 - (b) a registered provider of social housing.
@@ -53,12 +53,12 @@ summary: ''
 
 ## Annotations
 
-[^key-358a8d77c756f7d0733c0c1db244282a]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2016/22/section/122) in force at 25.10.2019 by [S.I. 2019/1359](https://www.legislation.gov.uk/uksi/2019/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1359/regulation/2)
+[^c-358a8d77c756f7d0733c0c1db244282a]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2016/22/section/122) in force at 25.10.2019 by [S.I. 2019/1359](https://www.legislation.gov.uk/uksi/2019/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1359/regulation/2)
 
-[^key-6743a12a61a99a5e1b8bd5890bb10bf9]: Textual amendment: Words in [s. 122 heading](https://www.legislation.gov.uk/ukpga/2016/22/part/5/crossheading/electrical-safety-standards) substituted (20.7.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/11/2), [46(1)(a)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/1/a)
+[^c-6743a12a61a99a5e1b8bd5890bb10bf9]: Textual amendment: Words in [s. 122 heading](https://www.legislation.gov.uk/ukpga/2016/22/part/5/crossheading/electrical-safety-standards) substituted (20.7.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/11/2), [46(1)(a)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/1/a)
 
-[^key-5253b5ffd3eed5c10dd78c68022e2e24]: Textual amendment: Word in [s. 122(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/122/1) omitted (20.7.2023) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2023/36/section/11/3/a), [46(1)(a)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/1/a)
+[^c-5253b5ffd3eed5c10dd78c68022e2e24]: Textual amendment: Word in [s. 122(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/122/1) omitted (20.7.2023) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2023/36/section/11/3/a), [46(1)(a)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/1/a)
 
-[^key-60fb494bc1f4c2098fe959ba7f2553fd]: Textual amendment: Words in [s. 122(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/122/1) inserted (20.7.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 11(3)(b)](https://www.legislation.gov.uk/ukpga/2023/36/section/11/3/b), [46(1)(a)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/1/a)
+[^c-60fb494bc1f4c2098fe959ba7f2553fd]: Textual amendment: Words in [s. 122(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/122/1) inserted (20.7.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 11(3)(b)](https://www.legislation.gov.uk/ukpga/2023/36/section/11/3/b), [46(1)(a)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/1/a)
 
-[^key-fc620c1f5dbc022843a529fe53654e15]: Textual amendment: [S. 122(1A)](https://www.legislation.gov.uk/ukpga/2016/22/section/122/1A) inserted (20.7.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2023/36/section/11/4), [46(1)(a)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/1/a)
+[^c-fc620c1f5dbc022843a529fe53654e15]: Textual amendment: [S. 122(1A)](https://www.legislation.gov.uk/ukpga/2016/22/section/122/1A) inserted (20.7.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2023/36/section/11/4), [46(1)(a)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/1/a)

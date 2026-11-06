@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**63.**[^key-928f9f866b1e2010ab1eecd58011ddb9] In section 17ZI(1) (section 17 services: provision after EHC plan no longer maintained) omit “in England”.
+**63.**[^c-928f9f866b1e2010ab1eecd58011ddb9] In section 17ZI(1) (section 17 services: provision after EHC plan no longer maintained) omit “in England”.
 
 ## Annotations
 
-[^key-928f9f866b1e2010ab1eecd58011ddb9]: Commencement: Reg. 63 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-928f9f866b1e2010ab1eecd58011ddb9]: Commencement: Reg. 63 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

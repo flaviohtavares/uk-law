@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Power of FCA to impose requirements[^key-f2d535d8bf2dd7a6e3e62880269f0d02]
+## 23. Power of FCA to impose requirements[^c-f2d535d8bf2dd7a6e3e62880269f0d02]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ it must give the securitisation repository written notice.
 
 ## Annotations
 
-[^key-f2d535d8bf2dd7a6e3e62880269f0d02]: Commencement: Reg. 23 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-f2d535d8bf2dd7a6e3e62880269f0d02]: Commencement: Reg. 23 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

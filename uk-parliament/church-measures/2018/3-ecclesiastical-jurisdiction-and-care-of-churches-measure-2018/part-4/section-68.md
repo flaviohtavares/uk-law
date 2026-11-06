@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 68. Conditions etc. on grant of faculty[^key-f683c23857008451058bfd8e76a305a2]
+## 68. Conditions etc. on grant of faculty[^c-f683c23857008451058bfd8e76a305a2]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f683c23857008451058bfd8e76a305a2]: Commencement: [S. 68](https://www.legislation.gov.uk/ukcm/2018/3/section/68) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-f683c23857008451058bfd8e76a305a2]: Commencement: [S. 68](https://www.legislation.gov.uk/ukcm/2018/3/section/68) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

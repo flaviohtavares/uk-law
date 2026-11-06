@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Criteria for granting warrants for entry: section 7 visits[^key-19d6dfec8238025e524d0caac4ac6833]
+## 38. Criteria for granting warrants for entry: section 7 visits[^c-19d6dfec8238025e524d0caac4ac6833]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19d6dfec8238025e524d0caac4ac6833]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2007/10/section/38) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-19d6dfec8238025e524d0caac4ac6833]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2007/10/section/38) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

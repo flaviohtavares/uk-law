@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35B. State maternity allowance for participating wife or civil partner of self-employed earner[^key-ddb29d09ade2df5b8b8e19c955daa82b]
+## 35B. State maternity allowance for participating wife or civil partner of self-employed earner[^c-ddb29d09ade2df5b8b8e19c955daa82b]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) for any part of the week in the case of at least 26 of the 66 weeks immediately preceding the expected week of confinement, W has worked with a person (S) who at the time of her doing so—
   - (i) was her spouse or civil partner, and
   - (ii) was engaged in employment as a self-employed earner; and
-- (c) S has paid[^key-03e7491ff8463de20c8f007236e7756c] a class 2 contribution in respect of the 26 weeks referred to in paragraph (1)(b); and
+- (c) S has paid[^c-03e7491ff8463de20c8f007236e7756c] a class 2 contribution in respect of the 26 weeks referred to in paragraph (1)(b); and
 - (d) W is not entitled to a maternity allowance under section 35, or statutory maternity pay, for the same week in respect of the same pregnancy.
 
 (2) In this section—
@@ -59,6 +59,6 @@ the 14-week period begins immediately after the day on which she ceases or refra
 
 ## Annotations
 
-[^key-ddb29d09ade2df5b8b8e19c955daa82b]: Textual amendment: [S. 35B](https://www.legislation.gov.uk/ukpga/1992/7/section/35B) inserted (1.4.2014 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Maternity Allowance) (Participating Wife or Civil Partner of Self-employed Earner) Regulations (Northern Ireland) 2014 (S.R. 2014/102)](https://www.legislation.gov.uk/nisr/2014/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/102/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2014/102/regulation/2/5)
+[^c-ddb29d09ade2df5b8b8e19c955daa82b]: Textual amendment: [S. 35B](https://www.legislation.gov.uk/ukpga/1992/7/section/35B) inserted (1.4.2014 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Maternity Allowance) (Participating Wife or Civil Partner of Self-employed Earner) Regulations (Northern Ireland) 2014 (S.R. 2014/102)](https://www.legislation.gov.uk/nisr/2014/102), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/102/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2014/102/regulation/2/5)
 
-[^key-03e7491ff8463de20c8f007236e7756c]: Textual amendment: Words in [s. 35B(1)(c)](https://www.legislation.gov.uk/ukpga/1992/7/section/35B/1/c) substituted (with effect for the tax year 2015-16 and subsequent tax years) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 paras. 16](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/16), [35](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/35)
+[^c-03e7491ff8463de20c8f007236e7756c]: Textual amendment: Words in [s. 35B(1)(c)](https://www.legislation.gov.uk/ukpga/1992/7/section/35B/1/c) substituted (with effect for the tax year 2015-16 and subsequent tax years) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 paras. 16](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/16), [35](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/35)

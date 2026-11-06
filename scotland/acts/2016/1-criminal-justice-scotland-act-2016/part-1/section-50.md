@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Duty not to detain unnecessarily[^key-07f703b46bd3c4dd4e6f9f25a5f2298a]
+## 50. Duty not to detain unnecessarily[^c-07f703b46bd3c4dd4e6f9f25a5f2298a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A constable must take every precaution to ensure that a person is not unreasonab
 
 ## Annotations
 
-[^key-07f703b46bd3c4dd4e6f9f25a5f2298a]: Commencement: S. 50 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-07f703b46bd3c4dd4e6f9f25a5f2298a]: Commencement: S. 50 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

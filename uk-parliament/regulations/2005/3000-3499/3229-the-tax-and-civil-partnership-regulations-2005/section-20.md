@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20.[^key-0c77b2faded95b2ed6d9e03f133c199f]
+## 20.[^c-0c77b2faded95b2ed6d9e03f133c199f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 109 (business property: successive transfers), in subsection (1)(b), 
 
 ## Annotations
 
-[^key-0c77b2faded95b2ed6d9e03f133c199f]: Commencement: Reg. 20 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-0c77b2faded95b2ed6d9e03f133c199f]: Commencement: Reg. 20 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

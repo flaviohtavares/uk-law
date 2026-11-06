@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Amendment of the Housing Benefit Regulations (Northern Ireland) 2006[^key-c2fc3283fb360ccfde1fc2d206f83ec2][^M_I_8bf19290-9c9b-413e-dcd2-843ce2e088dd]
+## 68. Amendment of the Housing Benefit Regulations (Northern Ireland) 2006[^c-c2fc3283fb360ccfde1fc2d206f83ec2][^M_I_8bf19290-9c9b-413e-dcd2-843ce2e088dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c2fc3283fb360ccfde1fc2d206f83ec2]: Commencement: Reg. 68 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-c2fc3283fb360ccfde1fc2d206f83ec2]: Commencement: Reg. 68 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_8bf19290-9c9b-413e-dcd2-843ce2e088dd]: Commencement: Reg. 68 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

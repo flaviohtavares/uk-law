@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. VRTS allowances and limits on VRTS allowances and VRTS activity[^key-ed58b4b403ac44d93121122662254c81]
+## 44. VRTS allowances and limits on VRTS allowances and VRTS activity[^c-ed58b4b403ac44d93121122662254c81]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed58b4b403ac44d93121122662254c81]: Commencement: Art. 44 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-ed58b4b403ac44d93121122662254c81]: Commencement: Art. 44 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

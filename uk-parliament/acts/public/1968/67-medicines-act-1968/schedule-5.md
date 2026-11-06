@@ -22,7 +22,7 @@ summary: ''
 
 Section 135(1)
 
-### 1. The Venereal Disease Act 1917 (c. 21).[^key-e08b828007985130261ed9d38a30bca8][^c999152]
+### 1. The Venereal Disease Act 1917 (c. 21).[^c-e08b828007985130261ed9d38a30bca8][^c999152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -56,7 +56,7 @@ at the end of the subsection there shall be inserted the words “or paragraph 2
 
 ## Annotations
 
-[^key-e08b828007985130261ed9d38a30bca8]: Textual amendment: Sch. 5 para. 1 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 7
+[^c-e08b828007985130261ed9d38a30bca8]: Textual amendment: Sch. 5 para. 1 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 7
 
 [^c999152]: Modification: The text of Sch. 5 paras. 1, 10, 13, 16, 7, Schs. 6, 8 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

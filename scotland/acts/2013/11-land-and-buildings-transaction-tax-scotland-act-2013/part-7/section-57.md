@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Linked transactions[^key-8c3218b0271c9d5538f19450579fce0d]
+## 57. Linked transactions[^c-8c3218b0271c9d5538f19450579fce0d]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c3218b0271c9d5538f19450579fce0d]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2013/11/section/57) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-8c3218b0271c9d5538f19450579fce0d]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2013/11/section/57) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71.[^key-266ced358887670a6d0ca830c13607a3]
+## 71.[^c-266ced358887670a6d0ca830c13607a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 14(2), for the words from “shall be” to the end substitute “ ma
 
 ## Annotations
 
-[^key-266ced358887670a6d0ca830c13607a3]: Commencement: Reg. 71 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
+[^c-266ced358887670a6d0ca830c13607a3]: Commencement: Reg. 71 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)

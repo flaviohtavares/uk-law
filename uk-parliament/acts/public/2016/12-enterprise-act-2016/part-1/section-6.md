@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Reports on complaints[^c22567801][^key-e930ec4e6e5f211c5b86eb35edef972c]
+## 6. Reports on complaints[^c22567801][^c-e930ec4e6e5f211c5b86eb35edef972c]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ See also section 7(7) which requires provision to be made about factors to be ta
 
 [^c22567801]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/12/section/6) in force at Royal Assent for specified purposes, see [s. 44(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1)
 
-[^key-e930ec4e6e5f211c5b86eb35edef972c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/12/section/6) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)
+[^c-e930ec4e6e5f211c5b86eb35edef972c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2016/12/section/6) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)

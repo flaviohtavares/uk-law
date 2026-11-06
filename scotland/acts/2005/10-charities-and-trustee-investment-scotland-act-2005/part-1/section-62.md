@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Third parties[^key-0700b191f498c8b2fe1acf613119bde2]
+## 62. Third parties[^c-0700b191f498c8b2fe1acf613119bde2]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0700b191f498c8b2fe1acf613119bde2]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2005/10/section/62) in force at 1.4.2011 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(3)(f)](https://www.legislation.gov.uk/ssi/2011/20/article/2/3/f)
+[^c-0700b191f498c8b2fe1acf613119bde2]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2005/10/section/62) in force at 1.4.2011 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(3)(f)](https://www.legislation.gov.uk/ssi/2011/20/article/2/3/f)

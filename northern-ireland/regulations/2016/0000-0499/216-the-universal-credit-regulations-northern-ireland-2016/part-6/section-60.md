@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Flat rate deductions for mileage and use of home and adjustment for personal use of business premises[^key-a0a644e7650ae88eed2c1111d3a842b5]
+## 60. Flat rate deductions for mileage and use of home and adjustment for personal use of business premises[^c-a0a644e7650ae88eed2c1111d3a842b5]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ and, if the motor vehicle is a car, the only deduction allowed for the acquisiti
 
 ## Annotations
 
-[^key-a0a644e7650ae88eed2c1111d3a842b5]: Modification: Pt. 6 Ch. 2 applied (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [regs. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h), [13(7)](https://www.legislation.gov.uk/nisr/2016/223/regulation/13/7)
+[^c-a0a644e7650ae88eed2c1111d3a842b5]: Modification: Pt. 6 Ch. 2 applied (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [regs. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h), [13(7)](https://www.legislation.gov.uk/nisr/2016/223/regulation/13/7)

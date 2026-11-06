@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — EQUIVALENCE DECISIONS[^key-2dc9639b11f8530f1d0d1bebe3408523]
+## SCHEDULE 2 — EQUIVALENCE DECISIONS[^c-2dc9639b11f8530f1d0d1bebe3408523]
 
 *Extent: N.I.*
 
@@ -24,16 +24,16 @@ summary: ''
 
 Regulation 8(4)(b)
 
-**1.**[^key-2dc9639b11f8530f1d0d1bebe3408523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2dc9639b11f8530f1d0d1bebe3408523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2dc9639b11f8530f1d0d1bebe3408523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2dc9639b11f8530f1d0d1bebe3408523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2dc9639b11f8530f1d0d1bebe3408523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2dc9639b11f8530f1d0d1bebe3408523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2dc9639b11f8530f1d0d1bebe3408523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2dc9639b11f8530f1d0d1bebe3408523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2dc9639b11f8530f1d0d1bebe3408523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2dc9639b11f8530f1d0d1bebe3408523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2dc9639b11f8530f1d0d1bebe3408523]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/199) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(d)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/d) (with [reg. 3](https://www.legislation.gov.uk/nisr/2011/438/regulation/3))
+[^c-2dc9639b11f8530f1d0d1bebe3408523]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/199) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(d)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/d) (with [reg. 3](https://www.legislation.gov.uk/nisr/2011/438/regulation/3))

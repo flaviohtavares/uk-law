@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 16[^key-caa05bee64e6b35711458956f71aa4dc]
+## SCHEDULE 16[^c-caa05bee64e6b35711458956f71aa4dc]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-caa05bee64e6b35711458956f71aa4dc]: Textual amendment: Sch. 16 repealed (with effect in accordance with Sch. 19 para. 7 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/13)
+[^c-caa05bee64e6b35711458956f71aa4dc]: Textual amendment: Sch. 16 repealed (with effect in accordance with Sch. 19 para. 7 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/13)

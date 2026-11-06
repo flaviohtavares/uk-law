@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Preparing and issuing the victims’ code[^key-5dc7a57c05cce9cb10e5614e2606b14f]
+## 3. Preparing and issuing the victims’ code[^c-5dc7a57c05cce9cb10e5614e2606b14f]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dc7a57c05cce9cb10e5614e2606b14f]: Commencement: S. 3 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-5dc7a57c05cce9cb10e5614e2606b14f]: Commencement: S. 3 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

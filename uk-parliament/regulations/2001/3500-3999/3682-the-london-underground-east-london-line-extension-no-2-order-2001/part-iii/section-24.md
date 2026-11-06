@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Disregard of certain interests and improvements[^key-8d17b409d521c1fe22656947a4cec946]
+## 24. Disregard of certain interests and improvements[^c-8d17b409d521c1fe22656947a4cec946]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 ## Annotations
 
-[^key-8d17b409d521c1fe22656947a4cec946]: Commencement: Art. 24 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-8d17b409d521c1fe22656947a4cec946]: Commencement: Art. 24 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

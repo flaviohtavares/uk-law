@@ -29,13 +29,13 @@ In these Regulations–
 - “**claimant**” means a person and any member of a couple who makes a claim, or on behalf of whom a claim is made, for a discretionary support award;
 - “**close relative**” means a member of a couple, parent, step-parent, grandparent, parent-in-law, son, step-son, son-in-law, daughter, step-daughter, daughter-in-law, brother, sister, or if any of the preceding persons is one member of a couple, the other member of that couple;
 - “**couple**” means—
-  - (a) subject to paragraph (e) , two people who are married to, or civil partners of,[^key-29dbdb1335a42cdd8428e084e9ebf8dd] each other and are members of the same household;
-  - (b) two people who are not married to, or civil partners of, each other but are living together as if spouses of each other;[^key-11cd750bd8d0f4bd85456855fc34422e]
-  - (c) [^key-2fa064e4034237571e8c8b87e4fe5654]...
-  - (d) [^key-2fa064e4034237571e8c8b87e4fe5654]...or
+  - (a) subject to paragraph (e) , two people who are married to, or civil partners of,[^c-29dbdb1335a42cdd8428e084e9ebf8dd] each other and are members of the same household;
+  - (b) two people who are not married to, or civil partners of, each other but are living together as if spouses of each other;[^c-11cd750bd8d0f4bd85456855fc34422e]
+  - (c) [^c-2fa064e4034237571e8c8b87e4fe5654]...
+  - (d) [^c-2fa064e4034237571e8c8b87e4fe5654]...or
   - (e) in a case where a person is a member of a polygamous marriage, that person and the member of the polygamous marriage to whom that person was first married,
 
-  [^key-205032f18aed64e9d175f188eb9ae6af]...
+  [^c-205032f18aed64e9d175f188eb9ae6af]...
 - “**disaster**” means a sudden and calamitous event causing loss of possessions or property;
 - “**discretionary support award**” means either an award of a grant or a loan;
 - “**discretionary support inspector**” means a person appointed by the Department in accordance with Article 136 of the Welfare Reform (Northern Ireland) Order 2015;
@@ -55,10 +55,10 @@ In these Regulations–
 
 ## Annotations
 
-[^key-29dbdb1335a42cdd8428e084e9ebf8dd]: Textual amendment: Words in reg. 3 substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [117(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/117/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-29dbdb1335a42cdd8428e084e9ebf8dd]: Textual amendment: Words in reg. 3 substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [117(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/117/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-11cd750bd8d0f4bd85456855fc34422e]: Textual amendment: Words in reg. 3 substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [117(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/117/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-11cd750bd8d0f4bd85456855fc34422e]: Textual amendment: Words in reg. 3 substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [117(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/117/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-2fa064e4034237571e8c8b87e4fe5654]: Textual amendment: Words in reg. 3 omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [117(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/117/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-2fa064e4034237571e8c8b87e4fe5654]: Textual amendment: Words in reg. 3 omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [117(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/117/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-205032f18aed64e9d175f188eb9ae6af]: Textual amendment: Words in reg. 3 omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [117(d)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/117/d) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-205032f18aed64e9d175f188eb9ae6af]: Textual amendment: Words in reg. 3 omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [117(d)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/117/d) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

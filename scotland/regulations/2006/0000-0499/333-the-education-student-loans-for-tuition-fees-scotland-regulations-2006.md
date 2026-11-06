@@ -32,7 +32,7 @@ summary: ''
 
 EDUCATION
 
-The Education (Student Loans for Tuition Fees) (Scotland) Regulations 2006 (revoked)[^key-94e9dc4449548424f9314977290ffb38]
+The Education (Student Loans for Tuition Fees) (Scotland) Regulations 2006 (revoked)[^c-94e9dc4449548424f9314977290ffb38]
 
 Made
 
@@ -46,118 +46,118 @@ Coming into force
 
 1st July 2006
 
-[^key-94e9dc4449548424f9314977290ffb38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94e9dc4449548424f9314977290ffb38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — GENERAL[^key-94e9dc4449548424f9314977290ffb38]
+## PART I — GENERAL[^c-94e9dc4449548424f9314977290ffb38]
 
-### 1. Citation and commencement[^key-94e9dc4449548424f9314977290ffb38]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-94e9dc4449548424f9314977290ffb38]
+### 1. Citation and commencement[^c-94e9dc4449548424f9314977290ffb38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — ELIGIBILITY AND APPLICATIONS[^key-94e9dc4449548424f9314977290ffb38]
-
-### 3. Eligible students[^key-94e9dc4449548424f9314977290ffb38]
+### 2. Interpretation[^c-94e9dc4449548424f9314977290ffb38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Designated courses[^key-94e9dc4449548424f9314977290ffb38]
+## PART II — ELIGIBILITY AND APPLICATIONS[^c-94e9dc4449548424f9314977290ffb38]
+
+### 3. Eligible students[^c-94e9dc4449548424f9314977290ffb38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Applications for loans[^key-94e9dc4449548424f9314977290ffb38]
+### 4. Designated courses[^c-94e9dc4449548424f9314977290ffb38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Transfers of eligibility[^key-94e9dc4449548424f9314977290ffb38]
+### 5. Applications for loans[^c-94e9dc4449548424f9314977290ffb38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Termination of eligibility[^key-94e9dc4449548424f9314977290ffb38]
+### 6. Transfers of eligibility[^c-94e9dc4449548424f9314977290ffb38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Information[^key-94e9dc4449548424f9314977290ffb38]
+### 7. Termination of eligibility[^c-94e9dc4449548424f9314977290ffb38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — LOANS[^key-94e9dc4449548424f9314977290ffb38]
-
-### 9. Maximum amounts of loans[^key-94e9dc4449548424f9314977290ffb38]
+### 8. Information[^c-94e9dc4449548424f9314977290ffb38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART IV — PAYMENTS[^key-94e9dc4449548424f9314977290ffb38]
+## PART III — LOANS[^c-94e9dc4449548424f9314977290ffb38]
 
-### 10. Payment of loans[^key-94e9dc4449548424f9314977290ffb38]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART V — INTEREST AND INSOLVENCY[^key-94e9dc4449548424f9314977290ffb38]
-
-### 11. Interest[^key-94e9dc4449548424f9314977290ffb38]
+### 9. Maximum amounts of loans[^c-94e9dc4449548424f9314977290ffb38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Insolvency[^key-94e9dc4449548424f9314977290ffb38]
+## PART IV — PAYMENTS[^c-94e9dc4449548424f9314977290ffb38]
+
+### 10. Payment of loans[^c-94e9dc4449548424f9314977290ffb38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-94e9dc4449548424f9314977290ffb38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART V — INTEREST AND INSOLVENCY[^c-94e9dc4449548424f9314977290ffb38]
+
+### 11. Interest[^c-94e9dc4449548424f9314977290ffb38]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Insolvency[^c-94e9dc4449548424f9314977290ffb38]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-94e9dc4449548424f9314977290ffb38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — ELIGIBLE STUDENTS[^key-94e9dc4449548424f9314977290ffb38]
+## SCHEDULE 1 — ELIGIBLE STUDENTS[^c-94e9dc4449548424f9314977290ffb38]
 
 Regulation 3(2)(a)
 
-**1.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — DESIGNATED COURSE[^key-94e9dc4449548424f9314977290ffb38]
+## SCHEDULE 2 — DESIGNATED COURSE[^c-94e9dc4449548424f9314977290ffb38]
 
 **Regulation 4(1)(a)**
 
-**1.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-94e9dc4449548424f9314977290ffb38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-94e9dc4449548424f9314977290ffb38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-94e9dc4449548424f9314977290ffb38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-94e9dc4449548424f9314977290ffb38]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2006/333) revoked (1.8.2022) by [The Student Support (Scotland) Regulations 2022 (S.S.I. 2022/157)](https://www.legislation.gov.uk/ssi/2022/157), [reg. 1](https://www.legislation.gov.uk/ssi/2022/157/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2022/157/schedule/5)
+[^c-94e9dc4449548424f9314977290ffb38]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2006/333) revoked (1.8.2022) by [The Student Support (Scotland) Regulations 2022 (S.S.I. 2022/157)](https://www.legislation.gov.uk/ssi/2022/157), [reg. 1](https://www.legislation.gov.uk/ssi/2022/157/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2022/157/schedule/5)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

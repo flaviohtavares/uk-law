@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-94baeb078c23616d3e93de234a2611ff]
+### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-94baeb078c23616d3e93de234a2611ff]
 
 <table>
 <thead>
@@ -36,7 +36,7 @@ Article 12
 </tbody>
 </table>
 
-### PART 2 — STREETS FOR WHICH NO SUBSTITUTE WILL BE PROVIDED[^key-3afdc093494e678dfc07cf8a6fd1e668]
+### PART 2 — STREETS FOR WHICH NO SUBSTITUTE WILL BE PROVIDED[^c-3afdc093494e678dfc07cf8a6fd1e668]
 
 <table>
 <thead>
@@ -54,6 +54,6 @@ Article 12
 
 ## Annotations
 
-[^key-94baeb078c23616d3e93de234a2611ff]: Commencement: Sch. 4 Pt. 1 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-94baeb078c23616d3e93de234a2611ff]: Commencement: Sch. 4 Pt. 1 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
 
-[^key-3afdc093494e678dfc07cf8a6fd1e668]: Commencement: Sch. 4 Pt. 2 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-3afdc093494e678dfc07cf8a6fd1e668]: Commencement: Sch. 4 Pt. 2 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation S3
 
-### PART I — ENACTMENTS HAVING EFFECT AS REGULATIONS UNDER SECTION 7 OF THE SUPERANNUATION ACT 1972[^key-a023156ab2672ff469b1cbecb6e2e3fe]
+### PART I — ENACTMENTS HAVING EFFECT AS REGULATIONS UNDER SECTION 7 OF THE SUPERANNUATION ACT 1972[^c-a023156ab2672ff469b1cbecb6e2e3fe]
 
 <table>
 <thead>
@@ -35,7 +35,7 @@ Regulation S3
 </tbody>
 </table>
 
-### PART II — INSTRUMENTS HAVING EFFECT AS REGULATIONS UNDER SECTION 7 OF THE SUPERANNUATION ACT 1972[^key-6ad3fe0119cbc7dcd322e7b344d98da3]
+### PART II — INSTRUMENTS HAVING EFFECT AS REGULATIONS UNDER SECTION 7 OF THE SUPERANNUATION ACT 1972[^c-6ad3fe0119cbc7dcd322e7b344d98da3]
 
 <table>
 <thead>
@@ -50,7 +50,7 @@ Regulation S3
 </tbody>
 </table>
 
-### PART III — OTHER INSTRUMENTS[^key-cd637c65160c562738e06516543c07f8]
+### PART III — OTHER INSTRUMENTS[^c-cd637c65160c562738e06516543c07f8]
 
 <table>
 <thead>
@@ -89,8 +89,8 @@ Regulation S3
 
 ## Annotations
 
-[^key-a023156ab2672ff469b1cbecb6e2e3fe]: Commencement: [Sch. 20 Pt. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/20/part/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-a023156ab2672ff469b1cbecb6e2e3fe]: Commencement: [Sch. 20 Pt. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/20/part/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-6ad3fe0119cbc7dcd322e7b344d98da3]: Commencement: [Sch. 20 Pt. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/20/part/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-6ad3fe0119cbc7dcd322e7b344d98da3]: Commencement: [Sch. 20 Pt. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/20/part/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-cd637c65160c562738e06516543c07f8]: Commencement: [Sch. 20 Pt. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/20/part/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-cd637c65160c562738e06516543c07f8]: Commencement: [Sch. 20 Pt. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/20/part/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

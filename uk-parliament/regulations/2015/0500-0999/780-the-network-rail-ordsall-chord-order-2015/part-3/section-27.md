@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Temporary use of land for construction of works[^key-525fe6d07d34f41c4167d55d8e2b971f]
+## 27. Temporary use of land for construction of works[^c-525fe6d07d34f41c4167d55d8e2b971f]
 
 *Extent: E+W+S*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-525fe6d07d34f41c4167d55d8e2b971f]: Commencement: Art. 27 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-525fe6d07d34f41c4167d55d8e2b971f]: Commencement: Art. 27 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
 
 [^f00028]: Footnote: As amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of, and Part 1 of Schedule 1 to, the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

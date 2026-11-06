@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Funding for pupils over compulsory school age[^key-cdbdf5c5a40141ae21dab3430f539bad]
+## 22. Funding for pupils over compulsory school age[^c-cdbdf5c5a40141ae21dab3430f539bad]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdbdf5c5a40141ae21dab3430f539bad]: Commencement: Reg. 22 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-cdbdf5c5a40141ae21dab3430f539bad]: Commencement: Reg. 22 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

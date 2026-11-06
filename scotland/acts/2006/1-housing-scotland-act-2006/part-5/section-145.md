@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 145. Power to require rectification of breach of HMO licence[^key-5b2f217eeb637b5037ffc5b319e7b136]
+## 145. Power to require rectification of breach of HMO licence[^c-5b2f217eeb637b5037ffc5b319e7b136]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b2f217eeb637b5037ffc5b319e7b136]: Commencement: [S. 145](https://www.legislation.gov.uk/asp/2006/1/section/145) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-5b2f217eeb637b5037ffc5b319e7b136]: Commencement: [S. 145](https://www.legislation.gov.uk/asp/2006/1/section/145) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

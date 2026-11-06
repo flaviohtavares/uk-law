@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. National marine plan and regional marine plans[^key-0cc7885c8a9c5c753b1971a5f52d82e9]
+## 5. National marine plan and regional marine plans[^c-0cc7885c8a9c5c753b1971a5f52d82e9]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cc7885c8a9c5c753b1971a5f52d82e9]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2010/5/section/5) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-0cc7885c8a9c5c753b1971a5f52d82e9]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2010/5/section/5) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)

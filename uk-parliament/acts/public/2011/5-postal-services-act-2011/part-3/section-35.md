@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Designation of universal service providers[^key-08df1555d1c46a968a5370cf006bbc89]
+## 35. Designation of universal service providers[^c-08df1555d1c46a968a5370cf006bbc89]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,10 +52,10 @@ summary: ''
 - (a) to be efficient, objective, proportionate and transparent, and
 - (b) not to involve, or to tend to give rise to, any undue discrimination against any person or description of persons.
 
-(11)[^key-eb0e55a7ecfe2a16cc66e2f9f7376342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-eb0e55a7ecfe2a16cc66e2f9f7376342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08df1555d1c46a968a5370cf006bbc89]: Commencement: S. 35 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-08df1555d1c46a968a5370cf006bbc89]: Commencement: S. 35 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-eb0e55a7ecfe2a16cc66e2f9f7376342]: Textual amendment: [S. 35(11)](https://www.legislation.gov.uk/ukpga/2011/5/section/35/11) omitted (31.1.2020) by virtue of [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2018/1417/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb0e55a7ecfe2a16cc66e2f9f7376342]: Textual amendment: [S. 35(11)](https://www.legislation.gov.uk/ukpga/2011/5/section/35/11) omitted (31.1.2020) by virtue of [The Postal and Parcel Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1417)](https://www.legislation.gov.uk/uksi/2018/1417), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1417/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2018/1417/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

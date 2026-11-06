@@ -50,13 +50,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — General
 
-### 1. Citation, commencement and extent[^key-8efb93de70f3baee322ea55a46ce3fb7]
+### 1. Citation, commencement and extent[^c-8efb93de70f3baee322ea55a46ce3fb7]
 
 (1) These Regulations may be cited as the Official Controls (Plant Protection Products) Regulations 2020 and come into force on 22nd June 2020.
 
 (2) These Regulations extend to Great Britain.
 
-### 2. Interpretation and scope[^key-182110aa2c0d2f2ae8f9f3f68d4edb84]
+### 2. Interpretation and scope[^c-182110aa2c0d2f2ae8f9f3f68d4edb84]
 
 (1) In these Regulations—
 
@@ -75,7 +75,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
   - (a) any vehicle, vessel, aircraft, hovercraft or marine structure, and
   - (b) any tent or moveable structure;
 - “professional use” and “professional user” have the same meaning as in the Plant Protection Products (Sustainable Use) Regulations 2012[^f00007];
-- “relevant legislation” means assimilated direct[^key-c3752f2cb62b8de8c691159bd62201a3] legislation and domestic legislation governing the requirements for the placing on the market and use of plant protection products and the sustainable use of pesticides, with the exception of pesticides application equipment.
+- “relevant legislation” means assimilated direct[^c-c3752f2cb62b8de8c691159bd62201a3] legislation and domestic legislation governing the requirements for the placing on the market and use of plant protection products and the sustainable use of pesticides, with the exception of pesticides application equipment.
 
 (2) These Regulations apply in relation to the area referred to in Article 1(2)(h).
 
@@ -85,7 +85,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (5) Any reference in these Regulations to an “Article” or “Title” is to an Article or Title of the OC Regulation.
 
-### 3. Designation for the purposes of Article 4[^key-87cd4dcfa8e05a1e9697c08c1b001418]
+### 3. Designation for the purposes of Article 4[^c-87cd4dcfa8e05a1e9697c08c1b001418]
 
 For the purposes of Article 4 in relation to the requirements for the placing on the market and use of plant protection products and components and the sustainable use of pesticides, with the exception of pesticides application equipment, the competent authority designated is—
 
@@ -93,13 +93,13 @@ For the purposes of Article 4 in relation to the requirements for the placing on
 - (b) the Scottish Ministers, for Scotland, and
 - (c) the Welsh Ministers, for Wales.
 
-### 4. Exchange of information[^key-0bb55588797caea2b04632eff115e6f5]
+### 4. Exchange of information[^c-0bb55588797caea2b04632eff115e6f5]
 
-The competent authorities may disclose information to each other and to other competent authorities in the United Kingdom [^key-6ade99112e5809344aea081d11622b87]... for the purposes of applying these Regulations and the Official Controls Regulations.
+The competent authorities may disclose information to each other and to other competent authorities in the United Kingdom [^c-6ade99112e5809344aea081d11622b87]... for the purposes of applying these Regulations and the Official Controls Regulations.
 
 ## PART 2 — List of operators
 
-### 5. List of operators[^key-32fd60547130a34abb7becd8226f349c]
+### 5. List of operators[^c-32fd60547130a34abb7becd8226f349c]
 
 (1) Each operator must notify the competent authority of—
 
@@ -116,19 +116,19 @@ The competent authorities may disclose information to each other and to other co
 
 ## PART 3 — Assistance and co-operation under Title IV and recovery of expenses incurred
 
-### 6. Facilitating assistance and co-operation[^key-a1be571877f51c7a52928acb8e5139ce]
+### 6. Facilitating assistance and co-operation[^c-a1be571877f51c7a52928acb8e5139ce]
 
-(1) For the purposes of assisting another competent authority[^key-64475dc204905145cc6c5063ec8aad12], or enabling the competent authority to do so, an authorised person exercising powers in relation to plant protection products and components to enter premises or to inspect records may—
+(1) For the purposes of assisting another competent authority[^c-64475dc204905145cc6c5063ec8aad12], or enabling the competent authority to do so, an authorised person exercising powers in relation to plant protection products and components to enter premises or to inspect records may—
 
-- (a) be accompanied by authorised officers of that other competent authority[^key-a611e6141f7b2c245fcb5a3367d3027f];
+- (a) be accompanied by authorised officers of that other competent authority[^c-a611e6141f7b2c245fcb5a3367d3027f];
 - (b) show records to such accompanying authorised officers; and
 - (c) make copies for them, or require copies to be made for them, of the records.
 
-(2)[^key-f01fccb3942f1c7509d4aeabe6c8efa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f01fccb3942f1c7509d4aeabe6c8efa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A person may be required to provide an authorised person with such assistance, information or facilities as the authorised person may reasonably require for the purpose of the execution or enforcement of these Regulations or the Official Controls Regulations.
 
-### 7. Expenses[^key-8603bec83c1a6540c075ca7120e05cfd]
+### 7. Expenses[^c-8603bec83c1a6540c075ca7120e05cfd]
 
 (1) Any expenses incurred by a competent authority in carrying out official controls or enforcement activities under these Regulations, or the Official Controls Regulations may be recovered from the relevant operator and such expenses must be paid on written demand.
 
@@ -139,7 +139,7 @@ The competent authorities may disclose information to each other and to other co
 
 ## PART 4 — Enforcement and penalties
 
-### 8. Enforcement[^key-822567836a109f8ea6620f3b421d20f6]
+### 8. Enforcement[^c-822567836a109f8ea6620f3b421d20f6]
 
 (1) Enforcement of these Regulations and the Official Controls Regulations is the responsibility of the competent authority.
 
@@ -178,7 +178,7 @@ The competent authorities may disclose information to each other and to other co
 - (b) in relation to Wales, a county council or a county borough council; and
 - (c) in relation to Scotland, a Council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00009].
 
-### 9. Powers of entry[^key-476bdd60b966fb45bc36cdfd42dfe6a6]
+### 9. Powers of entry[^c-476bdd60b966fb45bc36cdfd42dfe6a6]
 
 (1) An authorised person may enter any premises (except premises used wholly or mainly as a private dwelling) without prior notice, if the authorised person has reason to believe that it is necessary for the purpose of enforcement of these Regulations or the Official Controls Regulations.
 
@@ -186,7 +186,7 @@ The competent authorities may disclose information to each other and to other co
 
 (3) An authorised person who enters any unoccupied premises must leave it as effectively secured against unauthorised entry as it was before the authorised person’s entry.
 
-### 10. Search warrants[^key-d8a65af649177cef83782893b0bec6ab]
+### 10. Search warrants[^c-d8a65af649177cef83782893b0bec6ab]
 
 (1) A justice of the peace in England and Wales or a sheriff, summary sheriff or justice of the peace in Scotland, may issue a warrant permitting an authorised person to enter any premises if necessary by reasonable force, for the purpose of the enforcement of these Regulations or the Official Controls Regulations if satisfied that the authorised person has reasonable grounds for requiring entry and any of the conditions set out in paragraph (2) are satisfied.
 
@@ -221,7 +221,7 @@ The competent authorities may disclose information to each other and to other co
 
 (9) The court must provide two copies of the warrant certified as such.
 
-### 11. Execution of warrants[^key-95ea213dfe86c22c21f41828bf736f80]
+### 11. Execution of warrants[^c-95ea213dfe86c22c21f41828bf736f80]
 
 (1) Entry under a warrant must be within three months from the date of its issue.
 
@@ -246,7 +246,7 @@ The competent authorities may disclose information to each other and to other co
 
 (8) If during the period for which a warrant must be retained the occupier of the premises to which it relates asks to inspect it, such inspection must be allowed.
 
-### 12. General powers[^key-b232a75d0284515e687bbddb1e190f70]
+### 12. General powers[^c-b232a75d0284515e687bbddb1e190f70]
 
 (1) An authorised person exercising powers of entry pursuant to regulation 9(1), or in accordance with a warrant granted under regulation 10(1), may—
 
@@ -282,11 +282,11 @@ The competent authorities may disclose information to each other and to other co
 
 (9) No answer given by a person in pursuance of a requirement imposed under paragraph (6) is admissible in evidence in Great Britain against that person or their spouse or civil partner in proceedings for any offence.
 
-### 13. Protection of authorised persons[^key-45bbabe961e2838231670724edaddc94]
+### 13. Protection of authorised persons[^c-45bbabe961e2838231670724edaddc94]
 
 An authorised person is not liable in any civil or criminal proceedings for anything done in the purported performance of their functions as an authorised person if the court is satisfied that the act was done in good faith and that there were reasonable grounds for doing it.
 
-### 14. Enforcement notices[^key-a59c19f28f13e3ac7b602a397b3efe5b]
+### 14. Enforcement notices[^c-a59c19f28f13e3ac7b602a397b3efe5b]
 
 (1) If an authorised person has reason to believe that a person is in breach of the requirements of these Regulations or the Official Controls Regulations, the authorised person may serve on that person a notice, specifying the breach the authorised person believes has occurred, and directing that person to take either or both of the steps set out in paragraph (2).
 
@@ -301,7 +301,7 @@ An authorised person is not liable in any civil or criminal proceedings for anyt
 
 (5) An authorised person may serve a person with a notice under paragraph (1) even if a previous notice served on that person has been withdrawn.
 
-### 15. Offences and Penalties[^key-8a6706c3d355ced7e6fa8cf95f79cb74]
+### 15. Offences and Penalties[^c-8a6706c3d355ced7e6fa8cf95f79cb74]
 
 (1) A person is guilty of an offence if without reasonable excuse that person fails to provide the information required by regulation 5(1) to the competent authority within the time period specified in regulation 5(2) or (3), as appropriate.
 
@@ -321,7 +321,7 @@ An authorised person is not liable in any civil or criminal proceedings for anyt
 - (a) in England and Wales, to a fine; or
 - (b) in Scotland, to a fine not exceeding level 5 on the standard scale.
 
-### 16. Offences by bodies corporate[^key-df393a24b934ca25143c88323cb2e6a3]
+### 16. Offences by bodies corporate[^c-df393a24b934ca25143c88323cb2e6a3]
 
 (1) Where a body corporate is guilty of an offence under these Regulations and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
 
@@ -349,11 +349,11 @@ the individual, as well as the body corporate, Scottish partnership or unincorpo
 - (b) in relation to a Scottish partnership, a partner; or
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-### 17. Prosecutions[^key-e374a17423b117e1497557165e22a042]
+### 17. Prosecutions[^c-e374a17423b117e1497557165e22a042]
 
 An authorised person, if so authorised by the person authorising them, may, although not of counsel or a solicitor, prosecute before a magistrates’ court in England and Wales proceedings for an offence under these Regulations.
 
-### 18. Time limits for prosecution[^key-9dc2f702fa38bc6282ae408a08d62086]
+### 18. Time limits for prosecution[^c-9dc2f702fa38bc6282ae408a08d62086]
 
 A prosecution for an offence under these Regulations may begin no later than the earlier of the expiry of —
 
@@ -362,7 +362,7 @@ A prosecution for an offence under these Regulations may begin no later than the
 
 ## PART 5 — Supplementary
 
-### 19. Review[^key-e6b21f69710279474be710b0091fb038]
+### 19. Review[^c-e6b21f69710279474be710b0091fb038]
 
 (1) The Secretary of State, in relation to England, must from time to time—
 
@@ -382,7 +382,7 @@ A prosecution for an offence under these Regulations may begin no later than the
 
 (5) In this regulation, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
 
-### 20. Transitional provision[^key-0a776eacce073d146403d6b140f2f1b0]
+### 20. Transitional provision[^c-0a776eacce073d146403d6b140f2f1b0]
 
 Until IP completion day, the reference to retained direct EU legislation in the definition of relevant legislation in these Regulations, is to be read as a reference to EU legislation.
 
@@ -426,9 +426,9 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00004]: Footnote: [1973 c.51](https://www.legislation.gov.uk/ukpga/1973/51). Section 56(1) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), and prospectively amended by paragraph 17 of Schedule 8 to the European Union (Withdrawal) Act [2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16) from a date and time to be appointed.
 
-[^key-8efb93de70f3baee322ea55a46ce3fb7]: Commencement: Reg. 1 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-8efb93de70f3baee322ea55a46ce3fb7]: Commencement: Reg. 1 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-182110aa2c0d2f2ae8f9f3f68d4edb84]: Commencement: Reg. 2 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-182110aa2c0d2f2ae8f9f3f68d4edb84]: Commencement: Reg. 2 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
 [^f00005]: Footnote: OJ No. L 95, 7.4.2017, p.1, amended by Commission Delegated Regulation (EU) 2019/478 (OJ No. L 82, 25.3.2019, p.4).
 
@@ -436,54 +436,54 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00007]: Footnote: [S.I. 2012/1657](https://www.legislation.gov.uk/uksi/2012/1657).
 
-[^key-c3752f2cb62b8de8c691159bd62201a3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/2/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 47](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/47)
+[^c-c3752f2cb62b8de8c691159bd62201a3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/2/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 47](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/47)
 
-[^key-87cd4dcfa8e05a1e9697c08c1b001418]: Commencement: Reg. 3 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-87cd4dcfa8e05a1e9697c08c1b001418]: Commencement: Reg. 3 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-0bb55588797caea2b04632eff115e6f5]: Commencement: Reg. 4 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-0bb55588797caea2b04632eff115e6f5]: Commencement: Reg. 4 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-6ade99112e5809344aea081d11622b87]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2020/552/regulation/4) omitted (31.12.2020) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/9/2)
+[^c-6ade99112e5809344aea081d11622b87]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2020/552/regulation/4) omitted (31.12.2020) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/9/2)
 
-[^key-32fd60547130a34abb7becd8226f349c]: Commencement: Reg. 5 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-32fd60547130a34abb7becd8226f349c]: Commencement: Reg. 5 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-a1be571877f51c7a52928acb8e5139ce]: Commencement: Reg. 6 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-a1be571877f51c7a52928acb8e5139ce]: Commencement: Reg. 6 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-64475dc204905145cc6c5063ec8aad12]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/6/1) substituted (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/9/3/a)
+[^c-64475dc204905145cc6c5063ec8aad12]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/6/1) substituted (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/9/3/a)
 
-[^key-a611e6141f7b2c245fcb5a3367d3027f]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2020/552/regulation/6/1/a) substituted (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/9/3/b)
+[^c-a611e6141f7b2c245fcb5a3367d3027f]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2020/552/regulation/6/1/a) substituted (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/9/3/b)
 
-[^key-f01fccb3942f1c7509d4aeabe6c8efa1]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/552/regulation/6/2) omitted (31.12.2020) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/9/4)
+[^c-f01fccb3942f1c7509d4aeabe6c8efa1]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/552/regulation/6/2) omitted (31.12.2020) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/9/4)
 
-[^key-8603bec83c1a6540c075ca7120e05cfd]: Commencement: Reg. 7 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-8603bec83c1a6540c075ca7120e05cfd]: Commencement: Reg. 7 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-822567836a109f8ea6620f3b421d20f6]: Commencement: Reg. 8 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-822567836a109f8ea6620f3b421d20f6]: Commencement: Reg. 8 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867).
 
 [^f00009]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by section 120(1) of, and paragraph 232(1) of Schedule 22 to, the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-476bdd60b966fb45bc36cdfd42dfe6a6]: Commencement: Reg. 9 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-476bdd60b966fb45bc36cdfd42dfe6a6]: Commencement: Reg. 9 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-d8a65af649177cef83782893b0bec6ab]: Commencement: Reg. 10 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-d8a65af649177cef83782893b0bec6ab]: Commencement: Reg. 10 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-95ea213dfe86c22c21f41828bf736f80]: Commencement: Reg. 11 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-95ea213dfe86c22c21f41828bf736f80]: Commencement: Reg. 11 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-b232a75d0284515e687bbddb1e190f70]: Commencement: Reg. 12 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-b232a75d0284515e687bbddb1e190f70]: Commencement: Reg. 12 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-45bbabe961e2838231670724edaddc94]: Commencement: Reg. 13 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-45bbabe961e2838231670724edaddc94]: Commencement: Reg. 13 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-a59c19f28f13e3ac7b602a397b3efe5b]: Commencement: Reg. 14 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-a59c19f28f13e3ac7b602a397b3efe5b]: Commencement: Reg. 14 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-8a6706c3d355ced7e6fa8cf95f79cb74]: Commencement: Reg. 15 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-8a6706c3d355ced7e6fa8cf95f79cb74]: Commencement: Reg. 15 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-df393a24b934ca25143c88323cb2e6a3]: Commencement: Reg. 16 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-df393a24b934ca25143c88323cb2e6a3]: Commencement: Reg. 16 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-e374a17423b117e1497557165e22a042]: Commencement: Reg. 17 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-e374a17423b117e1497557165e22a042]: Commencement: Reg. 17 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-9dc2f702fa38bc6282ae408a08d62086]: Commencement: Reg. 18 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-9dc2f702fa38bc6282ae408a08d62086]: Commencement: Reg. 18 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
-[^key-e6b21f69710279474be710b0091fb038]: Commencement: Reg. 19 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-e6b21f69710279474be710b0091fb038]: Commencement: Reg. 19 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
 
 [^f00010]: Footnote: [2015.c26](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-0a776eacce073d146403d6b140f2f1b0]: Commencement: Reg. 20 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)
+[^c-0a776eacce073d146403d6b140f2f1b0]: Commencement: Reg. 20 in force at 22.6.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/552/regulation/1/1)

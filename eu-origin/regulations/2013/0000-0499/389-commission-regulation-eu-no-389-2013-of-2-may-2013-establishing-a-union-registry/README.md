@@ -264,11 +264,11 @@ HAS ADOPTED THIS REGULATION:
 
 - [Section Article 34 — Suspension of access to accounts](section-article-34.md)
 
-### TITLE II — PROVISIONS FOR THE REGISTRY[^key-6290963411a8b79d3c825aec93103031]
+### TITLE II — PROVISIONS FOR THE REGISTRY[^c-6290963411a8b79d3c825aec93103031]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Verified emissions and compliance[^key-268a711163bb5dd766b92048c15f71af]
+#### CHAPTER 1 — Verified emissions and compliance[^c-268a711163bb5dd766b92048c15f71af]
 
 *Extent: E+W+S+N.I.*
 
@@ -376,7 +376,7 @@ HAS ADOPTED THIS REGULATION:
 
 - [Section Article 71 — Implementation of linking arrangements](section-article-71.md)
 
-### TITLE 3 — SPECIFIC PROVISIONS FOR KP REGISTRIES[^key-8caeccc7bf5926cb7d0417dd2b3bb55a]
+### TITLE 3 — SPECIFIC PROVISIONS FOR KP REGISTRIES[^c-8caeccc7bf5926cb7d0417dd2b3bb55a]
 
 *Extent: E+W+S+N.I.*
 
@@ -393,7 +393,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 73g — Clearing Processes](section-article-73g.md)
 - [Section Article 73h — Clearing process for countries not parties to a joint fulfilment agreement](section-article-73h.md)
 
-### TITLE 4 — SPECIFIC PROVISIONS FOR ACCOUNTING TRANSACTIONS UNDER DECISION No 406/2009[^key-b8d530d844d90059e42d4fa109458d65]
+### TITLE 4 — SPECIFIC PROVISIONS FOR ACCOUNTING TRANSACTIONS UNDER DECISION No 406/2009[^c-b8d530d844d90059e42d4fa109458d65]
 
 *Extent: E+W+S+N.I.*
 
@@ -445,7 +445,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 99 — Suspension of processes](section-article-99.md)
 - [Section Article 99a — Suspension of linking agreements](section-article-99a.md)
 
-##### Section 3 — Completing of processes[^key-f96b4208c93f2662374fcb802444f21f]
+##### Section 3 — Completing of processes[^c-f96b4208c93f2662374fcb802444f21f]
 
 *Extent: E+W+S+N.I.*
 
@@ -455,7 +455,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 103 — Reconciliation - detection of inconsistencies by the EUTL](section-article-103.md)
 - [Section Article 104 — Finalisation of processes](section-article-104.md)
 
-##### Section 4 — Specifications and change management[^key-e43b1ca1032e061dfff9f88632b2afc5]
+##### Section 4 — Specifications and change management[^c-e43b1ca1032e061dfff9f88632b2afc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -539,14 +539,14 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^f00013]: Footnote: [OJ L 270, 14.10.2010, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.270.01.0001.01.ENG).
 
-[^key-6290963411a8b79d3c825aec93103031]: Textual amendment: [Title 2](https://www.legislation.gov.uk/eur/2013/389/title/II) heading substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/2)
+[^c-6290963411a8b79d3c825aec93103031]: Textual amendment: [Title 2](https://www.legislation.gov.uk/eur/2013/389/title/II) heading substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/2)
 
-[^key-268a711163bb5dd766b92048c15f71af]: Textual amendment: [Title 2 Ch. 1](https://www.legislation.gov.uk/eur/2013/389/title/II/chapter/1) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/3)
+[^c-268a711163bb5dd766b92048c15f71af]: Textual amendment: [Title 2 Ch. 1](https://www.legislation.gov.uk/eur/2013/389/title/II/chapter/1) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/3)
 
-[^key-8caeccc7bf5926cb7d0417dd2b3bb55a]: Textual amendment: [Title 3](https://www.legislation.gov.uk/eur/2013/389/title/3) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [6](https://www.legislation.gov.uk/uksi/2021/511/regulation/6)
+[^c-8caeccc7bf5926cb7d0417dd2b3bb55a]: Textual amendment: [Title 3](https://www.legislation.gov.uk/eur/2013/389/title/3) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [6](https://www.legislation.gov.uk/uksi/2021/511/regulation/6)
 
-[^key-b8d530d844d90059e42d4fa109458d65]: Textual amendment: [Title 4](https://www.legislation.gov.uk/eur/2013/389/title/4) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [7](https://www.legislation.gov.uk/uksi/2021/511/regulation/7)
+[^c-b8d530d844d90059e42d4fa109458d65]: Textual amendment: [Title 4](https://www.legislation.gov.uk/eur/2013/389/title/4) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [7](https://www.legislation.gov.uk/uksi/2021/511/regulation/7)
 
-[^key-f96b4208c93f2662374fcb802444f21f]: Textual amendment: [Title 5 Ch. 1 s. 3](https://www.legislation.gov.uk/eur/2013/389/title/V/chapter/1/section/3) heading substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(10)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/10)
+[^c-f96b4208c93f2662374fcb802444f21f]: Textual amendment: [Title 5 Ch. 1 s. 3](https://www.legislation.gov.uk/eur/2013/389/title/V/chapter/1/section/3) heading substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(10)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/10)
 
-[^key-e43b1ca1032e061dfff9f88632b2afc5]: Textual amendment: [Title 5 Ch. 1 s. 4](https://www.legislation.gov.uk/eur/2013/389/title/V/chapter/1/section/4) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(13)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/13)
+[^c-e43b1ca1032e061dfff9f88632b2afc5]: Textual amendment: [Title 5 Ch. 1 s. 4](https://www.legislation.gov.uk/eur/2013/389/title/V/chapter/1/section/4) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(13)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/13)

@@ -50,11 +50,11 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the power conferred by section 57(2) and (3) of the Bankruptcy and Debt Advice (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-2c113b13ffb11ba7f6a3fc3b9b4cb511]
+## 1. Citation and commencement[^c-2c113b13ffb11ba7f6a3fc3b9b4cb511]
 
 This Order may be cited as the Bankruptcy and Debt Advice (Scotland) Act 2014 (Commencement No. 2, Savings and Transitionals) Order 2014 and comes into force on 1st April 2015.
 
-## 2. Interpretation[^key-f9e3c0a1f9970c997aade3088f3b1b48]
+## 2. Interpretation[^c-f9e3c0a1f9970c997aade3088f3b1b48]
 
 (1) In this Order—
 
@@ -63,18 +63,18 @@ This Order may be cited as the Bankruptcy and Debt Advice (Scotland) Act 2014 (C
 
 (2) This Order is to be construed in accordance with section 73 (interpretation) of the 1985 Act[^f00003].
 
-## 3. Day appointed[^key-d2dd145e9d636ee0069432866e259ae0]
+## 3. Day appointed[^c-d2dd145e9d636ee0069432866e259ae0]
 
 The day appointed for the coming into force of the Act, insofar as not already in force, is 1st April 2015, except in respect of section 27 (recall of sequestration by Accountant in Bankruptcy) for the purpose of inserting section 17G(7) into the 1985 Act.
 
 ## Savings and transitional arrangements
 
-### 4. Sequestration before 1st April 2015[^key-dfb7752ff55fa3aa59a98b958308e5c9]
+### 4. Sequestration before 1st April 2015[^c-dfb7752ff55fa3aa59a98b958308e5c9]
 
 (1) Except as mentioned in paragraph (3) and article 6, nothing brought into force by this Order has effect as regards any sequestration in respect of which—
 
 - (a) the petition is presented before 1st April 2015; or
-- (b) a debtor application is[^key-a8a9588759a431e98a0465e827a0f757] made before that date.
+- (b) a debtor application is[^c-a8a9588759a431e98a0465e827a0f757] made before that date.
 
 (2) The 1985 Act, as in force immediately before 1st April 2015, continues to apply and have effect in relation to any such sequestration.
 
@@ -101,13 +101,13 @@ The day appointed for the coming into force of the Act, insofar as not already i
 
 (4) For the purposes of paragraph (1) the bankruptcy restrictions undertaking of a debtor is treated as sequestration of that debtor[^f00004].
 
-### 5. Money advice[^key-15e8b73826d95e9c5c938ee889d60184]
+### 5. Money advice[^c-15e8b73826d95e9c5c938ee889d60184]
 
 (1) A debtor application signed by the debtor before 1st April 2015 may be made on or after that date notwithstanding that the debtor has not obtained money advice in accordance with section 5C of the 1985 Act[^f00005].
 
 (2) To that extent it is to be treated as an incomplete application under section 11A(1) of the 1985 Act[^f00006].
 
-### 6. Common financial tool[^key-756dcbe65bb5c4059a30bebbdcb49f72]
+### 6. Common financial tool[^c-756dcbe65bb5c4059a30bebbdcb49f72]
 
 (1) This article applies to sequestrations to which article 4(1)(a) or (b) applies, unless they meet the conditions under section 5A of the 1985 Act (low income, low asset debtors)[^f00007].
 
@@ -129,7 +129,7 @@ the sheriff must have regard to the common financial tool[^f00008].
 
 (6) The introduction of the common financial tool is not itself a change in the debtor’s circumstances for the purposes of this article (or section 32(4) of the 1985 Act).
 
-### 7. Moratorium on diligence[^key-d6cc65eda8c2040e58634388a0682ee8]
+### 7. Moratorium on diligence[^c-d6cc65eda8c2040e58634388a0682ee8]
 
 Notice received by the Accountant in Bankruptcy on or after 1st April 2015 which is—
 
@@ -138,15 +138,15 @@ Notice received by the Accountant in Bankruptcy on or after 1st April 2015 which
 
 has effect as if given on 1st April 2015 notwithstanding that it was given before that date.
 
-### 8. Recall of sequestration[^key-6ac5200dd11251feb5478d1b1866c7ab]
+### 8. Recall of sequestration[^c-6ac5200dd11251feb5478d1b1866c7ab]
 
 Section 24(1) (replacement of Edinburgh Gazette recall requirement) of the Act does not apply to a petition for recall of sequestration presented before 1st April 2015.
 
-### 9. Applications for trustee directions[^key-e7e368e44bffd5e1939f3efd854b168a]
+### 9. Applications for trustee directions[^c-e7e368e44bffd5e1939f3efd854b168a]
 
 Section 25 of the Act (application for trustee directions) does not apply to any application to the sheriff for directions made before 1st April 2015 (and any appeal from any such direction).
 
-### 10. Review of decisions by Accountant in Bankruptcy[^key-e7efc3a8347e81655d9f0f6140cbb68a]
+### 10. Review of decisions by Accountant in Bankruptcy[^c-e7efc3a8347e81655d9f0f6140cbb68a]
 
 (1) The amendments in sections 38 to 42 of the Act (review of decisions by the Accountant in Bankruptcy) relevant to review by the Accountant in Bankruptcy of the following decisions of the Accountant in Bankruptcy do not apply—
 
@@ -160,11 +160,11 @@ Section 25 of the Act (application for trustee directions) does not apply to any
 
 (2) Sections 38 to 42 of the Act do not apply to any decision by the Accountant in Bankruptcy which is subject to court proceedings by way of appeal or review before 1st April 2015.
 
-### 11. Power of trustee in relation to debtor’s family home[^key-956c18ee190dcf776893ea96c8880ee4]
+### 11. Power of trustee in relation to debtor’s family home[^c-956c18ee190dcf776893ea96c8880ee4]
 
 Section 49 of the Act (procedure on power of trustee in relation to debtor’s family home) does not apply to any court proceedings commenced before 1st April 2015 (and any appeal in respect of those proceedings).
 
-### 12. Trust deeds granted before 1st April 2015[^key-66ff1cf6b0f8caab591b323cd452b949]
+### 12. Trust deeds granted before 1st April 2015[^c-66ff1cf6b0f8caab591b323cd452b949]
 
 (1) Nothing brought into force by this Order except section 8 (moratorium on diligence) has effect as regards any trust deed granted before 1st April 2015.
 
@@ -244,29 +244,29 @@ The following provisions of the 2014 Act were brought into force by commencement
 
 [^f00001]: Footnote: [2014 asp 11](https://www.legislation.gov.uk/asp/2014/11) (“the Act”). Section 8 of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10) allows the power to be exercised so as to appoint different days for different purposes.
 
-[^key-2c113b13ffb11ba7f6a3fc3b9b4cb511]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
+[^c-2c113b13ffb11ba7f6a3fc3b9b4cb511]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
 
-[^key-f9e3c0a1f9970c997aade3088f3b1b48]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/261/article/2) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
+[^c-f9e3c0a1f9970c997aade3088f3b1b48]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/261/article/2) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
 
 [^f00002]: Footnote: [1985 c.66](https://www.legislation.gov.uk/ukpga/1985/66) (“the 1985 Act”).
 
 [^f00003]: Footnote: Section 73 is relevantly amended by paragraph 35 of schedule 3 and schedule 4 to the Act. Section 73(1) defines “debtor application” for the purposes of the 1985 Act and section 73(6) and (6A) provides that any reference in the 1985 Act to a time when a petition is presented or a debtor application is made is to be construed as a reference to the time when the petition is received by the sheriff clerk or the application is received by the Accountant in Bankruptcy.
 
-[^key-d2dd145e9d636ee0069432866e259ae0]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/261/article/3) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
+[^c-d2dd145e9d636ee0069432866e259ae0]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/261/article/3) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
 
-[^key-dfb7752ff55fa3aa59a98b958308e5c9]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/261/article/4) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
+[^c-dfb7752ff55fa3aa59a98b958308e5c9]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/261/article/4) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
 
-[^key-a8a9588759a431e98a0465e827a0f757]: Textual amendment: Word in [art. 4(1)(b)](https://www.legislation.gov.uk/ssi/2014/261/article/4/1/b) substituted (1.4.2015) by [The Bankruptcy and Debt Advice (Scotland) Act 2014 (Commencement No. 2, Savings and Transitionals) Amendment Order 2015 (S.S.I. 2015/54)](https://www.legislation.gov.uk/ssi/2015/54), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/54/article/1/1), [2](https://www.legislation.gov.uk/ssi/2015/54/article/2)
+[^c-a8a9588759a431e98a0465e827a0f757]: Textual amendment: Word in [art. 4(1)(b)](https://www.legislation.gov.uk/ssi/2014/261/article/4/1/b) substituted (1.4.2015) by [The Bankruptcy and Debt Advice (Scotland) Act 2014 (Commencement No. 2, Savings and Transitionals) Amendment Order 2015 (S.S.I. 2015/54)](https://www.legislation.gov.uk/ssi/2015/54), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/54/article/1/1), [2](https://www.legislation.gov.uk/ssi/2015/54/article/2)
 
 [^f00004]: Footnote: Section 52 of and schedule 3, paragraph 3(b) and schedule 4 to the Act repeal provision for bankruptcy restrictions undertakings in Scotland.
 
-[^key-15e8b73826d95e9c5c938ee889d60184]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2014/261/article/5) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
+[^c-15e8b73826d95e9c5c938ee889d60184]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2014/261/article/5) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
 
 [^f00005]: Footnote: Section 5C is prospectively inserted by section 1 of the Act.
 
 [^f00006]: Footnote: Section 11A is prospectively inserted by section 10 of the Act.
 
-[^key-756dcbe65bb5c4059a30bebbdcb49f72]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2014/261/article/6) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
+[^c-756dcbe65bb5c4059a30bebbdcb49f72]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2014/261/article/6) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
 
 [^f00007]: Footnote: Section 5A was inserted by the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3) (“the 2007 Act”), section 15(2) and is repealed by schedule 4 to the Act.
 
@@ -278,17 +278,17 @@ The following provisions of the 2014 Act were brought into force by commencement
 
 [^f00011]: Footnote: Equivalent provisions apply on the making or variation of an income payment order under section 32(2) of the 1985 Act, in section 32(2A) and (3) of that Act.
 
-[^key-d6cc65eda8c2040e58634388a0682ee8]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2014/261/article/7) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
+[^c-d6cc65eda8c2040e58634388a0682ee8]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2014/261/article/7) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
 
 [^f00012]: Footnote: Section 4A and 4B are prospectively inserted by section 8 of the Act.
 
 [^f00013]: Footnote: See regulation 22 of the Bankruptcy (Scotland) Regulations 2014 ([S.S.I. 2014/225](https://www.legislation.gov.uk/ssi/2014/225)).
 
-[^key-6ac5200dd11251feb5478d1b1866c7ab]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2014/261/article/8) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
+[^c-6ac5200dd11251feb5478d1b1866c7ab]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2014/261/article/8) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
 
-[^key-e7e368e44bffd5e1939f3efd854b168a]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2014/261/article/9) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
+[^c-e7e368e44bffd5e1939f3efd854b168a]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2014/261/article/9) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
 
-[^key-e7efc3a8347e81655d9f0f6140cbb68a]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2014/261/article/10) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
+[^c-e7efc3a8347e81655d9f0f6140cbb68a]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2014/261/article/10) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
 
 [^f00014]: Footnote: Sections 13A and 13B are amended by section 38(1) and (2) of the Act.
 
@@ -304,6 +304,6 @@ The following provisions of the 2014 Act were brought into force by commencement
 
 [^f00020]: Footnote: Section 58A(4)(b) was inserted by the 1993 Act, Schedule 1, paragraph 25 and amended by the 2007 Act, schedule 6. Sections 57 and 58A are amended by section 42 of the Act.
 
-[^key-956c18ee190dcf776893ea96c8880ee4]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2014/261/article/11) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
+[^c-956c18ee190dcf776893ea96c8880ee4]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2014/261/article/11) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
 
-[^key-66ff1cf6b0f8caab591b323cd452b949]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2014/261/article/12) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)
+[^c-66ff1cf6b0f8caab591b323cd452b949]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2014/261/article/12) in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2014/261/article/1)

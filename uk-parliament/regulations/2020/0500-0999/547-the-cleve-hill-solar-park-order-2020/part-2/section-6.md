@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Application and modification of legislative provisions[^key-61558f7a0217ae6beac9b5899932a929]
+## 6. Application and modification of legislative provisions[^c-61558f7a0217ae6beac9b5899932a929]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The provisions of the Neighbourhood Planning Act 2017 [^c24507871] insofar as th
 
 ## Annotations
 
-[^key-61558f7a0217ae6beac9b5899932a929]: Commencement: Art. 6 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-61558f7a0217ae6beac9b5899932a929]: Commencement: Art. 6 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
 [^c24507871]: Marginal citation: [2017 c.20](https://www.legislation.gov.uk/ukpga/2017/20).

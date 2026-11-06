@@ -79,7 +79,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 4.** This Regulation shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.
 
-[^key-c500a3121d6975916e022b9094ecedc0]...
+[^c-c500a3121d6975916e022b9094ecedc0]...
 
 Done at Brussels, 8 October 2010.
 
@@ -245,4 +245,4 @@ Fermentation products and by-products (fermented feed materials after inactivati
 
 [^f00002]: Footnote: [OJ L 229, 1.9.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.229.01.0001.01.ENG).
 
-[^key-c500a3121d6975916e022b9094ecedc0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2010/892/signature) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [123](https://www.legislation.gov.uk/uksi/2019/654/regulation/123); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c500a3121d6975916e022b9094ecedc0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2010/892/signature) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [123](https://www.legislation.gov.uk/uksi/2019/654/regulation/123); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

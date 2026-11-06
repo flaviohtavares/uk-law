@@ -48,8 +48,8 @@ summary: ''
 
 (7) Paragraph (6) overrides anything to the contrary in these Regulations.
 
-(8)[^key-32d2e1d9c76b811d88d3dbe28e8b7098] This regulation is subject to regulation 10(6) of the Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (transfer payments out of the fund before 1st October 2023).
+(8)[^c-32d2e1d9c76b811d88d3dbe28e8b7098] This regulation is subject to regulation 10(6) of the Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (transfer payments out of the fund before 1st October 2023).
 
 ## Annotations
 
-[^key-32d2e1d9c76b811d88d3dbe28e8b7098]: Textual amendment: [Reg. 98(8)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/98/8) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [3(16)](https://www.legislation.gov.uk/uksi/2023/972/regulation/3/16)
+[^c-32d2e1d9c76b811d88d3dbe28e8b7098]: Textual amendment: [Reg. 98(8)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/98/8) inserted (1.10.2023) by [The Local Government Pension Scheme (Amendment) (No. 3) Regulations 2023 (S.I. 2023/972)](https://www.legislation.gov.uk/uksi/2023/972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/972/regulation/1/2), [3(16)](https://www.legislation.gov.uk/uksi/2023/972/regulation/3/16)

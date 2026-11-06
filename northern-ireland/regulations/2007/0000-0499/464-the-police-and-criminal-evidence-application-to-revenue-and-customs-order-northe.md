@@ -43,20 +43,20 @@ Coming into force
 
 1st December 2007
 
-The Treasury make the following Order in exercise of the powers conferred by Article 85 (1) and (2) of the Police and Criminal Evidence (Northern Ireland) Order 1989 [^f00001]:[^key-959eeb95e31c4b2ba6e86cbf9aa28a84]
+The Treasury make the following Order in exercise of the powers conferred by Article 85 (1) and (2) of the Police and Criminal Evidence (Northern Ireland) Order 1989 [^f00001]:[^c-959eeb95e31c4b2ba6e86cbf9aa28a84]
 
-## 1. Citation and commencement[^key-f8436f3e3a8c5f3ec0d5128031381f1a]
+## 1. Citation and commencement[^c-f8436f3e3a8c5f3ec0d5128031381f1a]
 
 This Order may be cited as the Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 and shall come into force on 1st December 2007.
 
-## 2. Interpretation[^key-03b6b8a5a81b8392cc16d350f662af7b]
+## 2. Interpretation[^c-03b6b8a5a81b8392cc16d350f662af7b]
 
 (1) In this Order—
 
 - “the 1989 Order” means the Police and Criminal Evidence (Northern Ireland) Order 1989;
 - “the Commissioners” means the Commissioners for Her Majesty’s Revenue and Customs;
 - “the customs and excise Acts” has the meaning given to it by section 1 of the Customs and Excise Management Act 1979[^f00002];
-- “former Inland Revenue matter” means a matter specified in section 54(4) (b) or (f) of, or in paragraphs 3, 7, 10, 14, 15[^key-b1ebbf3ea468dadb4ef6fb3b762ce80c], 19 or 24 to 29 of Schedule 1 to, the Commissioners for Revenue and Customs Act 2005[^f00003].
+- “former Inland Revenue matter” means a matter specified in section 54(4) (b) or (f) of, or in paragraphs 3, 7, 10, 14, 15[^c-b1ebbf3ea468dadb4ef6fb3b762ce80c], 19 or 24 to 29 of Schedule 1 to, the Commissioners for Revenue and Customs Act 2005[^f00003].
 - “office of Revenue and Customs” means premises wholly or partly occupied by Her Majesty’s Revenue and Customs;
 - “relevant indictable offence” means an indictable offence which relates to a matter in relation to which Her Majesty’s Revenue and Customs have functions apart from a former Inland Revenue matter.
 - “relevant investigation” means a criminal investigation conducted by officers of Revenue and Customs which relates to a matter in relation to which Her Majesty’s Revenue and Customs have functions apart from a former Inland Revenue matter.
@@ -68,7 +68,7 @@ This Order may be cited as the Police and Criminal Evidence (Application to Reve
 
 and is detained there or detained elsewhere in the charge of an officer of Revenue and Customs, and nothing shall prevent a detained person from being transferred between Revenue and Customs detention and police detention.
 
-## 3. Application[^key-e8acb113b5cbaf5dd6ed0b973d19a94f]
+## 3. Application[^c-e8acb113b5cbaf5dd6ed0b973d19a94f]
 
 (1) The provisions of the 1989 Order contained in Schedule 1 to this Order which relate to investigations of offences conducted by police officers or to persons detained by the police shall apply to relevant investigations conducted by officers of Revenue and Customs and to persons detained by such officers.
 
@@ -78,7 +78,7 @@ This is subject to the modifications in paragraphs (2) and (3) and Articles 4 to
 
 (3) Where in the 1989 Order any act or thing is to be done by a constable or police officer of a specified rank, that act or thing shall be done by an officer of Revenue and Customs of at least the grade specified in Column 2 of Part 2 of Schedule 2 to this Order, and the 1989 Order shall be construed accordingly.
 
-## 4. Exceptions[^key-d84d0d79babd60c5544d143270fa191f]
+## 4. Exceptions[^c-d84d0d79babd60c5544d143270fa191f]
 
 Nothing in the application of the 1989 Order to Revenue and Customs shall confer on an officer of Revenue and Customs any power—
 
@@ -86,7 +86,7 @@ Nothing in the application of the 1989 Order to Revenue and Customs shall confer
 - (b) to release a person on bail; or
 - (c) to detain a person for an offence after he has been charged with that offence.
 
-## 5. Seizure and retention of things found upon search[^key-8ef4d662102457fabb4693c98478307f]
+## 5. Seizure and retention of things found upon search[^c-8ef4d662102457fabb4693c98478307f]
 
 (1) Where in the 1989 Order a constable is given power to seize and retain any thing found upon a lawful search of person or premises, an officer of Revenue and Customs shall have the same power notwithstanding that the thing found is not evidence of an offence which relates to a matter in relation to which Her Majesty’s Revenue and Customs have functions.
 
@@ -94,7 +94,7 @@ Nothing in the application of the 1989 Order to Revenue and Customs shall confer
 
 (3) Article 23 of the 1989 Order (access and copying)[^f00004] shall not apply to any thing seized as liable to forfeiture under the customs and excise Acts.
 
-## 6. Excluded and special procedure material[^key-2ee3edfa7c7e8de5027134bc830c3c07]
+## 6. Excluded and special procedure material[^c-2ee3edfa7c7e8de5027134bc830c3c07]
 
 In its application by virtue of Article 3 above the 1989 Order shall have effect as if after Article 16 there were inserted—
 
@@ -104,7 +104,7 @@ In its application by virtue of Article 3 above the 1989 Order shall have effect
 
 .
 
-## 7. Restriction on other powers to apply for production of documents[^key-55b67ccc7659263a70b8855e55d63a75]
+## 7. Restriction on other powers to apply for production of documents[^c-55b67ccc7659263a70b8855e55d63a75]
 
 In its application by virtue of Article 3 above the 1989 Order shall have effect as if the following Article were inserted after Article 16A—
 
@@ -126,7 +126,7 @@ In its application by virtue of Article 3 above the 1989 Order shall have effect
 
 .
 
-## 8. Modification of Article 20 of the 1989 Order (entry and search after arrest)[^key-dd499ab730023f26695ce0392fde9e7b]
+## 8. Modification of Article 20 of the 1989 Order (entry and search after arrest)[^c-dd499ab730023f26695ce0392fde9e7b]
 
 (1) Article 20 of the 1989 Order (entry and search after arrest)[^f00012] is modified as follows.
 
@@ -139,7 +139,7 @@ In its application by virtue of Article 3 above the 1989 Order shall have effect
 
 .
 
-## 9. Modification of Article 50 of the 1989 Order (Records of detention)[^key-c164381233b14c129e57cb353ae47a77]
+## 9. Modification of Article 50 of the 1989 Order (Records of detention)[^c-c164381233b14c129e57cb353ae47a77]
 
 (1) Article 50 of the 1989 Order (records of detention)[^f00013] is modified as follows—
 
@@ -162,17 +162,17 @@ In its application by virtue of Article 3 above the 1989 Order shall have effect
 
 .
 
-## 10. Modification of Article 56 of the 1989 Order (Intimate searches)[^key-d1e82a75ed1fe5ef7522a5e20fb7fab9]
+## 10. Modification of Article 56 of the 1989 Order (Intimate searches)[^c-d1e82a75ed1fe5ef7522a5e20fb7fab9]
 
 (1) Article 56 of the 1989 Order (intimate searches)[^f00014] shall have effect as if it related only to things as are mentioned in paragraph (1)(a) of that Article.
 
 (2) The annual report of the Commissioners shall contain information about searches under Article 56 which have been carried out during the period to which the report relates.
 
-## 11. Modification of Article 75 of the 1989 Order (confessions by mentally handicapped persons)[^key-ae8e691953b9346117199dfda5210b4a]
+## 11. Modification of Article 75 of the 1989 Order (confessions by mentally handicapped persons)[^c-ae8e691953b9346117199dfda5210b4a]
 
 Article 75(3) of the 1989 Order (confessions by mentally handicapped persons)[^f00015] shall be modified to the extent that the definition of “independent person” shall, in addition to the persons mentioned therein, also include an officer of Revenue and Customs or any other person acting under the authority of the Commissioners.
 
-## 12. Use of reasonable force[^key-bd88a9ca68acbb26fa0d45f1dd129a2e]
+## 12. Use of reasonable force[^c-bd88a9ca68acbb26fa0d45f1dd129a2e]
 
 Where any provision of the 1989 Order as applied to Revenue and Customs—
 
@@ -181,7 +181,7 @@ Where any provision of the 1989 Order as applied to Revenue and Customs—
 
 the officer may use reasonable force, if necessary, in the exercise of the power.
 
-## 13. Arrest without warrant[^key-798852a91da0b36ab6a2a9de3878b3c6]
+## 13. Arrest without warrant[^c-798852a91da0b36ab6a2a9de3878b3c6]
 
 Article 26 (2) of the 1989 Order (arrest without warrant: constables)[^f00016] does not limit—
 
@@ -189,18 +189,18 @@ Article 26 (2) of the 1989 Order (arrest without warrant: constables)[^f00016] d
 - (b) section 20 and paragraph 4 of Schedule 3 to the Criminal Justice (International Co-operation) Act 1990; or
 - (c) any other enactment, including any enactment contained in subordinate legislation, for the time being in force which confers upon officers of Revenue and Customs the power to arrest or detain persons.
 
-## 14. Search of persons when warrant executed[^key-087f2e5b7e3287ff2d428c3cc680c394]
+## 14. Search of persons when warrant executed[^c-087f2e5b7e3287ff2d428c3cc680c394]
 
 Where an officer of Revenue and Customs searches premises under the authority of a warrant under Article 10 of, or paragraph 9 of Schedule 1 to, the 1989 Order[^f00017], he may search any person found on the premises—
 
 - (a) where he has reasonable cause to believe that person to be in possession of material which is likely to be of substantial value (whether by itself or together with other material) to the investigation of the offence;
 - (b) but no person should be searched except by a person of the same sex.
 
-## 15. Authorisation[^key-bb2609228fa0b12bc49c02f6e8413b64]
+## 15. Authorisation[^c-bb2609228fa0b12bc49c02f6e8413b64]
 
 Powers and functions in the provisions of the 1989 Order contained in Schedule 1 to this Order may be exercised only by officers of Revenue and Customs acting with the authority (which may be general or specific) of the Commissioners.
 
-## 16. Revocation[^key-74129b01aa5f625169c8d83b19c21a03]
+## 16. Revocation[^c-74129b01aa5f625169c8d83b19c21a03]
 
 The following instruments are revoked—
 
@@ -216,23 +216,23 @@ Two of the Lord’s Commissioners of Her Majesty’s Treasury
 
 8th November 2007
 
-## SCHEDULE 1 — Provisions of the 1989 Order applied to Revenue and Customs[^key-51859732021e149c4c13f889ea27297c]
+## SCHEDULE 1 — Provisions of the 1989 Order applied to Revenue and Customs[^c-51859732021e149c4c13f889ea27297c]
 
 Article 3(1)
 
-[^key-51859732021e149c4c13f889ea27297c]
+[^c-51859732021e149c4c13f889ea27297c]
 
 - Article 10 (power of justice of the peace to authorise entry and search of premises)[^f00021]
 - Article 11(1) and (2) (special provisions as to access) and Schedule 1 (special procedure)[^f00022]
 - Article 17 (search warrants-safeguards)[^f00023]
 - Article 18 (execution of warrants)[^f00024]
-- Article 19(1)(a)(i), (1)(b), (1)(ca), (1)(d), (2) and (3)[^key-cdf7f207e987571075246f2c5963c46f] (entry for purpose of arrest etc.)[^f00025]
+- Article 19(1)(a)(i), (1)(b), (1)(ca), (1)(d), (2) and (3)[^c-cdf7f207e987571075246f2c5963c46f] (entry for purpose of arrest etc.)[^f00025]
 - Article 20(1) to (8) (entry and search after arrest) (subject to the modification in Article 8)[^f00026]
 - Article 21 (general power of seizure etc.)[^f00027]
 - Article 22 (extension of powers of seizure to computerised information)[^f00028]
 - Article 23 (access and copying) (subject to the modification in Article 5)[^f00029]
-- Article 24 (1) to (4) and (7)[^key-6d0add6b049efcb1621d8cdbc2825650] (retention)
-- Article 26(2), (4), (5)[^key-08358da98655eba9f8c4914b70043746] (arrest without warrant: constables) (subject to the modifications in Article 13)[^f00030]
+- Article 24 (1) to (4) and (7)[^c-6d0add6b049efcb1621d8cdbc2825650] (retention)
+- Article 26(2), (4), (5)[^c-08358da98655eba9f8c4914b70043746] (arrest without warrant: constables) (subject to the modifications in Article 13)[^f00030]
 - Article 30 (information to be given on arrest)[^f00031]
 - Article 31 (voluntary attendance at police station etc.)[^f00032]
 - Article 32 (1) to (4)(a) and (5) to (14) (arrest elsewhere than at police station)[^f00033]
@@ -267,7 +267,7 @@ Article 3(1)
 
 Article 3(2)
 
-### PART 1 — Substitution of equivalent words and phrases in the 1989 Order.[^key-435664b8b7f269b9411cdebec9b67c93]
+### PART 1 — Substitution of equivalent words and phrases in the 1989 Order.[^c-435664b8b7f269b9411cdebec9b67c93]
 
 Where in the 1989 Order a word or phrase specified in Column 1 is used, in the application of the 1989 Order to Revenue and Customs, there shall be substituted the equivalent word or phrase in column 2—
 
@@ -290,7 +290,7 @@ Where in the 1989 Order a word or phrase specified in Column 1 is used, in the a
 </tbody>
 </table>
 
-### PART 2 — Equivalent grades of officers of Revenue and Customs[^key-70395639527bd393514262cdfd68525c]
+### PART 2 — Equivalent grades of officers of Revenue and Customs[^c-70395639527bd393514262cdfd68525c]
 
 Where in the 1989 Order an act or thing is to be done by a constable or police officer of the rank specified in Column 1, that same act or thing shall, in the application of the 1989 Order to Revenue and Customs, be done by an officer of Revenue and Customs of at least an equivalent grade specified in Column 2—
 
@@ -341,29 +341,29 @@ Article 16 provides for the revocation of earlier instruments.
 
 [^f00001]: Footnote: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341). Article 85(3) of the 1989 Order was repealed by section 50(6) of, and paragraph 40 of Schedule 4 to, the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11). Article 85 was amended by section 83 of the Finance Act [2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11).
 
-[^key-959eeb95e31c4b2ba6e86cbf9aa28a84]: Modification: Order applied in part (with modifications) (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 22](https://www.legislation.gov.uk/ukpga/2009/11/section/22), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
+[^c-959eeb95e31c4b2ba6e86cbf9aa28a84]: Modification: Order applied in part (with modifications) (21.7.2009) by [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [ss. 22](https://www.legislation.gov.uk/ukpga/2009/11/section/22), [58(1)](https://www.legislation.gov.uk/ukpga/2009/11/section/58/1) (with [s. 36(4)](https://www.legislation.gov.uk/ukpga/2009/11/section/36/4))
 
-[^key-f8436f3e3a8c5f3ec0d5128031381f1a]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1) in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-f8436f3e3a8c5f3ec0d5128031381f1a]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1) in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
-[^key-03b6b8a5a81b8392cc16d350f662af7b]: Commencement: Art. 2 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-03b6b8a5a81b8392cc16d350f662af7b]: Commencement: Art. 2 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
 [^f00002]: Footnote: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-b1ebbf3ea468dadb4ef6fb3b762ce80c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisr/2007/464/article/2) substituted (19.3.2010) by [The Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (Amendment) Order 2010 (S.R. 2010/42)](https://www.legislation.gov.uk/nisr/2010/42), [arts. 1](https://www.legislation.gov.uk/nisr/2010/42/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2010/42/article/2/2)
+[^c-b1ebbf3ea468dadb4ef6fb3b762ce80c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisr/2007/464/article/2) substituted (19.3.2010) by [The Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (Amendment) Order 2010 (S.R. 2010/42)](https://www.legislation.gov.uk/nisr/2010/42), [arts. 1](https://www.legislation.gov.uk/nisr/2010/42/article/1), [2(2)](https://www.legislation.gov.uk/nisr/2010/42/article/2/2)
 
 [^f00003]: Footnote: [2005 c.11](https://www.legislation.gov.uk/ukpga/2005/11). Former Inland Revenue matters are listed in Schedule 1 to the 2005 Act. Paragraph 26 of Schedule 1 was amended by section 11 of, and paragraph 61 of Schedule 1 to, the [Work and Families Act 2006(c.18)](https://www.legislation.gov.uk/ukpga/2006/18).
 
-[^key-e8acb113b5cbaf5dd6ed0b973d19a94f]: Commencement: Art. 3 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-e8acb113b5cbaf5dd6ed0b973d19a94f]: Commencement: Art. 3 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
-[^key-d84d0d79babd60c5544d143270fa191f]: Commencement: Art. 4 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-d84d0d79babd60c5544d143270fa191f]: Commencement: Art. 4 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
-[^key-8ef4d662102457fabb4693c98478307f]: Commencement: Art. 5 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-8ef4d662102457fabb4693c98478307f]: Commencement: Art. 5 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
 [^f00004]: Footnote: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341). Article 23(9) was inserted by Article 13(2) of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 ([S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
 
-[^key-2ee3edfa7c7e8de5027134bc830c3c07]: Commencement: Art. 6 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-2ee3edfa7c7e8de5027134bc830c3c07]: Commencement: Art. 6 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
-[^key-55b67ccc7659263a70b8855e55d63a75]: Commencement: Art. 7 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-55b67ccc7659263a70b8855e55d63a75]: Commencement: Art. 7 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
 [^f00005]: Footnote: [1970 c.9](https://www.legislation.gov.uk/ukpga/1970/9). Section 20BA and Schedule 1AA were inserted by section 149 of the Finance Act [2000 (c.17)](https://www.legislation.gov.uk/ukpga/2000/17).
 
@@ -379,35 +379,35 @@ Article 16 provides for the revocation of earlier instruments.
 
 [^f00011]: Footnote: [2003 c.14](https://www.legislation.gov.uk/ukpga/2003/14).
 
-[^key-dd499ab730023f26695ce0392fde9e7b]: Commencement: Art. 8 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-dd499ab730023f26695ce0392fde9e7b]: Commencement: Art. 8 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
 [^f00012]: Footnote: Article 20 of the1989 Order was amended by Article 9 of, and paragraph 1 of Schedule 1 to, the Criminal Justice (Northern Ireland) Order 2004 ([S.I 2004/1500 (N.I. 9)](https://www.legislation.gov.uk/nisi/2004/1500)).
 
-[^key-c164381233b14c129e57cb353ae47a77]: Commencement: Art. 9 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-c164381233b14c129e57cb353ae47a77]: Commencement: Art. 9 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
 [^f00013]: Footnote: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341). Article 50 of the 1989 Order was amended by section 78 of, and paragraph 10 of Schedule 6 to, the Police (Northern Ireland) Act [2000 (c.32)](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-d1e82a75ed1fe5ef7522a5e20fb7fab9]: Commencement: Art. 10 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-d1e82a75ed1fe5ef7522a5e20fb7fab9]: Commencement: Art. 10 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
 [^f00014]: Footnote: Article 56 of the 1989 Order was amended by Article 26(2) of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 ([S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)). There are other amendments which are not relevant to this Order.
 
-[^key-ae8e691953b9346117199dfda5210b4a]: Commencement: Art. 11 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-ae8e691953b9346117199dfda5210b4a]: Commencement: Art. 11 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
 [^f00015]: Footnote: Article 75(3) of the 1989 Order was amended by section 78 of, and paragraph 9 of Schedule 6 to, the Police (Northern Ireland) Act [2000 (c.32)](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-bd88a9ca68acbb26fa0d45f1dd129a2e]: Commencement: Art. 12 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-bd88a9ca68acbb26fa0d45f1dd129a2e]: Commencement: Art. 12 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
-[^key-798852a91da0b36ab6a2a9de3878b3c6]: Commencement: Art. 13 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-798852a91da0b36ab6a2a9de3878b3c6]: Commencement: Art. 13 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
 [^f00016]: Footnote: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341). Article 26 was amended by Article 15 of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 ([S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
 
-[^key-087f2e5b7e3287ff2d428c3cc680c394]: Commencement: Art. 14 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-087f2e5b7e3287ff2d428c3cc680c394]: Commencement: Art. 14 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
 [^f00017]: Footnote: Article 10 of the 1989 Order was amended by Article 7 of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 ([S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)). There are other amendments to Article 10 which are not relevant to this Order. Paragraph 1 of Schedule 9 to the 1989 Order was amended by Article 8 of the 2007 Order ([S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
 
-[^key-bb2609228fa0b12bc49c02f6e8413b64]: Commencement: Art. 15 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-bb2609228fa0b12bc49c02f6e8413b64]: Commencement: Art. 15 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
-[^key-74129b01aa5f625169c8d83b19c21a03]: Commencement: Art. 16 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-74129b01aa5f625169c8d83b19c21a03]: Commencement: Art. 16 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
 [^f00018]: Footnote: [S.R. 1989/465](https://www.legislation.gov.uk/nisr/1989/465)
 
@@ -415,7 +415,7 @@ Article 16 provides for the revocation of earlier instruments.
 
 [^f00020]: Footnote: [S.R. 1996/292](https://www.legislation.gov.uk/nisr/1996/292)
 
-[^key-51859732021e149c4c13f889ea27297c]: Commencement: Sch. 1 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-51859732021e149c4c13f889ea27297c]: Commencement: Sch. 1 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
 [^f00021]: Footnote: [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341). Article 10 was amended by Article 7 of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 ([S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)). There are other amendments to Article 10 which are not relevant to this Order.
 
@@ -425,7 +425,7 @@ Article 16 provides for the revocation of earlier instruments.
 
 [^f00024]: Footnote: Article 18 of the 1989 Order was amended by Article 10 of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 ([S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
 
-[^key-cdf7f207e987571075246f2c5963c46f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2007/464/schedule/1) substituted (19.3.2010) by [The Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (Amendment) Order 2010 (S.R. 2010/42)](https://www.legislation.gov.uk/nisr/2010/42), [arts. 1](https://www.legislation.gov.uk/nisr/2010/42/article/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2010/42/article/2/3/a)
+[^c-cdf7f207e987571075246f2c5963c46f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2007/464/schedule/1) substituted (19.3.2010) by [The Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (Amendment) Order 2010 (S.R. 2010/42)](https://www.legislation.gov.uk/nisr/2010/42), [arts. 1](https://www.legislation.gov.uk/nisr/2010/42/article/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2010/42/article/2/3/a)
 
 [^f00025]: Footnote: Article 19(1)(b) of the 1989 Order was amended by Article 11(2) of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 ([S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
 
@@ -437,9 +437,9 @@ Article 16 provides for the revocation of earlier instruments.
 
 [^f00029]: Footnote: Article 23 of the 1989 Order was amended by Article 13 of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 ([S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
 
-[^key-6d0add6b049efcb1621d8cdbc2825650]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2007/464/schedule/1) substituted (19.3.2010) by [The Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (Amendment) Order 2010 (S.R. 2010/42)](https://www.legislation.gov.uk/nisr/2010/42), [arts. 1](https://www.legislation.gov.uk/nisr/2010/42/article/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2010/42/article/2/3/b)
+[^c-6d0add6b049efcb1621d8cdbc2825650]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2007/464/schedule/1) substituted (19.3.2010) by [The Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (Amendment) Order 2010 (S.R. 2010/42)](https://www.legislation.gov.uk/nisr/2010/42), [arts. 1](https://www.legislation.gov.uk/nisr/2010/42/article/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2010/42/article/2/3/b)
 
-[^key-08358da98655eba9f8c4914b70043746]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2007/464/schedule/1) substituted (19.3.2010) by [The Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (Amendment) Order 2010 (S.R. 2010/42)](https://www.legislation.gov.uk/nisr/2010/42), [arts. 1](https://www.legislation.gov.uk/nisr/2010/42/article/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2010/42/article/2/3/c)
+[^c-08358da98655eba9f8c4914b70043746]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/2007/464/schedule/1) substituted (19.3.2010) by [The Police and Criminal Evidence (Application to Revenue and Customs) Order (Northern Ireland) 2007 (Amendment) Order 2010 (S.R. 2010/42)](https://www.legislation.gov.uk/nisr/2010/42), [arts. 1](https://www.legislation.gov.uk/nisr/2010/42/article/1), [2(3)(c)](https://www.legislation.gov.uk/nisr/2010/42/article/2/3/c)
 
 [^f00030]: Footnote: Article 26 was amended by Article 15 of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 ([S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
 
@@ -495,6 +495,6 @@ Article 16 provides for the revocation of earlier instruments.
 
 [^f00056]: Footnote: Article 84 of the 1989 Order was amended by section 74 of, and paragraph 18(6) of Schedule 4 to, the Police (Northern Ireland) Act [1998 (c.32)](https://www.legislation.gov.uk/ukpga/1998/32) and Article 39(2) of the Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 ([S.I. 2007/288 (N.I. 2)](https://www.legislation.gov.uk/nisi/2007/288)).
 
-[^key-435664b8b7f269b9411cdebec9b67c93]: Commencement: Sch. 2 Pt. 1 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-435664b8b7f269b9411cdebec9b67c93]: Commencement: Sch. 2 Pt. 1 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
 
-[^key-70395639527bd393514262cdfd68525c]: Commencement: Sch. 2 Pt. 2 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)
+[^c-70395639527bd393514262cdfd68525c]: Commencement: Sch. 2 Pt. 2 in force at 1.12.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/464/article/1)

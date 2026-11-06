@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-d302815e7321e9709182918ceefaba62]
+## 2. Interpretation[^c-d302815e7321e9709182918ceefaba62]
 
 *Extent: E+W+S*
 
@@ -80,7 +80,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d302815e7321e9709182918ceefaba62]: Commencement: Art. 2 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-d302815e7321e9709182918ceefaba62]: Commencement: Art. 2 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
 
 [^f00005]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33). Section 1 and subsections (A1), (1) and (3)-(6) of section 4 were amended by articles 5(1), (2) (6) of, and paragraphs 31, 37(a), 37(b), 38, 39(a), 39(b), 39(c), of Schedule 1 and Schedule 5 of Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 ([S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307)). There are other amendments to the 1961 Act which are not relevant to this Order.
 

@@ -89,14 +89,14 @@ summary: ''
 
 (7) Sections 103 (collective investment schemes, etc.), 111 (building society etc. shares), 182 to 184 (groups and associated companies) and 200 (oil industry assets) of that Act (all of which relate to indexation allowance) shall cease to have effect.
 
-(8)[^key-0fe62a229a0a7c1d2e0ca8a70de7b040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-0fe62a229a0a7c1d2e0ca8a70de7b040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-0fe62a229a0a7c1d2e0ca8a70de7b040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-0fe62a229a0a7c1d2e0ca8a70de7b040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-0fe62a229a0a7c1d2e0ca8a70de7b040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-0fe62a229a0a7c1d2e0ca8a70de7b040] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) This section shall have effect in relation to disposals made on or after 30th November 1993 and Schedule 12 to this Act (which gives transitional relief) shall have effect for the years 1993–94 and 1994–95.
 
 ## Annotations
 
-[^key-0fe62a229a0a7c1d2e0ca8a70de7b040]: Textual amendment: [S. 93(8)-(10)](https://www.legislation.gov.uk/ukpga/1994/9/section/93/8) repealed (19.7.2011) (with effect in accordance with Sch. 11 para. 11 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/10/a)
+[^c-0fe62a229a0a7c1d2e0ca8a70de7b040]: Textual amendment: [S. 93(8)-(10)](https://www.legislation.gov.uk/ukpga/1994/9/section/93/8) repealed (19.7.2011) (with effect in accordance with Sch. 11 para. 11 12 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/11/paragraph/10/a)

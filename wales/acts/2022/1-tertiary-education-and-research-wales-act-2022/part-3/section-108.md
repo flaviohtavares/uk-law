@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Financial support under sections 89, 97 and 104: further provision about terms and conditions[^key-08d746e5d2efc9f092456332a077e8e1][^key-76e5a64390128a89a26c180208518a10]
+## 108. Financial support under sections 89, 97 and 104: further provision about terms and conditions[^c-08d746e5d2efc9f092456332a077e8e1][^c-76e5a64390128a89a26c180208518a10]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-08d746e5d2efc9f092456332a077e8e1]: Commencement: S. 108 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-08d746e5d2efc9f092456332a077e8e1]: Commencement: S. 108 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-76e5a64390128a89a26c180208518a10]: Commencement: [S. 108](https://www.legislation.gov.uk/asc/2022/1/section/108) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(dd)](https://www.legislation.gov.uk/wsi/2026/62/article/2/dd)
+[^c-76e5a64390128a89a26c180208518a10]: Commencement: [S. 108](https://www.legislation.gov.uk/asc/2022/1/section/108) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(dd)](https://www.legislation.gov.uk/wsi/2026/62/article/2/dd)

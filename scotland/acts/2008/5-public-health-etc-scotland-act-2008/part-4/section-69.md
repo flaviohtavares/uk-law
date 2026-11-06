@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Offences arising from breach of orders under this Part[^key-796e68e8fdcdbd9fdbb3483e46146da5]
+## 69. Offences arising from breach of orders under this Part[^c-796e68e8fdcdbd9fdbb3483e46146da5]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-796e68e8fdcdbd9fdbb3483e46146da5]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2008/5/section/69) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-796e68e8fdcdbd9fdbb3483e46146da5]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2008/5/section/69) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

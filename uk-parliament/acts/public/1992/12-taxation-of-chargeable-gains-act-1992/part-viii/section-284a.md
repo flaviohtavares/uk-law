@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 284A. Concessions that defer a charge.[^key-00d1233d9ae151b4d3fdbaa5421a57f1]
+## 284A. Concessions that defer a charge.[^c-00d1233d9ae151b4d3fdbaa5421a57f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ that person’s rights subsequently to amend, appeal against or otherwise challe
 
 ## Annotations
 
-[^key-00d1233d9ae151b4d3fdbaa5421a57f1]: Textual amendment: Ss. 284A, 284B inserted (with effect in accordance with s. 76(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [s. 76(1)](https://www.legislation.gov.uk/ukpga/1999/16/section/76/1)
+[^c-00d1233d9ae151b4d3fdbaa5421a57f1]: Textual amendment: Ss. 284A, 284B inserted (with effect in accordance with s. 76(2) of the amending Act) by [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), [s. 76(1)](https://www.legislation.gov.uk/ukpga/1999/16/section/76/1)

@@ -41,7 +41,7 @@ Coming into operation
 
 The Lord Chancellor in exercise of the powers conferred upon him by Article 13 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00001], and all other powers enabling him in that behalf, on the advice of the Magistrates' Courts Rules Committee and after consultation with the Lord Chief Justice, hereby makes the following Rules:
 
-## 1. Citation, commencement and interpretation[^key-ba387883996820604523e3ca723fcc80]
+## 1. Citation, commencement and interpretation[^c-ba387883996820604523e3ca723fcc80]
 
 (1) These Rules may be cited as the Magistrates' Courts (Sexual Offences Act 2003) Rules (Northern Ireland) 2004 and shall come into operation on 17th May 2004.
 
@@ -50,14 +50,14 @@ The Lord Chancellor in exercise of the powers conferred upon him by Article 13 o
 - (a) “the Act” means the Sexual Offences Act 2003[^f00002] and a reference to a section by number means the section so numbered in the Act and expressions used have the same meaning as in the Act; and
 - (b) a reference to a Form by number means the Form so numbered in the Schedule to these Rules or a form to the like effect.
 
-## 2. Revocation[^key-8147899e13a6e21343b3a9973a97f317]
+## 2. Revocation[^c-8147899e13a6e21343b3a9973a97f317]
 
 The following Rules are hereby revoked –
 
 - (a) the Magistrates' Courts (Sex Offender Orders) Rules (Northern Ireland) 1999[^f00003]; and
 - (b) the Magistrates' Courts (Sex Offender Orders) (Amendment) Rules (Northern Ireland) 2003[^f00004].
 
-## 3. Notification orders and interim notification orders[^key-1861b49f444a9ac49d26a0c9518403d7]
+## 3. Notification orders and interim notification orders[^c-1861b49f444a9ac49d26a0c9518403d7]
 
 (1) A summons issued on foot of a complaint for –
 
@@ -72,7 +72,7 @@ shall be in Form 1.
 
 (4) An interim notification order shall be in Form 3.
 
-## 4. Sexual offences prevention orders and interim sexual offences prevention orders[^key-e500cfb322873d9800ccfed7e78a4675]
+## 4. Sexual offences prevention orders and interim sexual offences prevention orders[^c-e500cfb322873d9800ccfed7e78a4675]
 
 (1) A summons issued on foot of a complaint for –
 
@@ -87,7 +87,7 @@ shall be in Form 4.
 
 (4) An interim sexual offences prevention order shall be in Form 6.
 
-## 5. Foreign travel orders[^key-eccec2b3fcb47eb230308b0978b51e5a]
+## 5. Foreign travel orders[^c-eccec2b3fcb47eb230308b0978b51e5a]
 
 (1) A summons issued on foot of a complaint for a foreign travel order under section 114 of the Act shall be in Form 7.
 
@@ -95,7 +95,7 @@ shall be in Form 4.
 
 (3) A foreign travel order shall be in Form 8.
 
-## 6. Risk of sexual harm orders and interim risk of sexual harm orders[^key-17d4e0abee9722c211b27638bf86c73e]
+## 6. Risk of sexual harm orders and interim risk of sexual harm orders[^c-17d4e0abee9722c211b27638bf86c73e]
 
 (1) A summons issued on foot of a complaint for –
 
@@ -108,7 +108,7 @@ shall be in Form 9.
 
 (3) An interim risk of sexual harm order shall be in Form 11.
 
-## 7. Application for variation, renewal or discharge[^key-0dad5ddae8dbdb6fe7183acf35fe41ce]
+## 7. Application for variation, renewal or discharge[^c-0dad5ddae8dbdb6fe7183acf35fe41ce]
 
 A summons issued on foot of a complaint for the variation, renewal or discharge of –
 
@@ -121,7 +121,7 @@ A summons issued on foot of a complaint for the variation, renewal or discharge 
 
 shall be made in Form 12, and such proceedings shall be in a court of summary jurisdiction acting for the petty sessions district in which the order was made.
 
-## 8. Service of documents[^key-80fe9ea6912f2e4fbcf7d153662ad03f]
+## 8. Service of documents[^c-80fe9ea6912f2e4fbcf7d153662ad03f]
 
 (1) Subject to paragraph (2), service of a summons under these Rules may be effected –
 
@@ -163,7 +163,7 @@ Department for Constitutional Affairs
 
 Dated 28th April 2004
 
-## SCHEDULE[^key-2d63195c9f389739d1f843fd854134c3]
+## SCHEDULE[^c-2d63195c9f389739d1f843fd854134c3]
 
 FORM 1
 
@@ -311,28 +311,28 @@ Rule 8 prescribes the manner in which a summons or an order required to be serve
 
 [^f00001]: Footnote: S.I. [1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
-[^key-ba387883996820604523e3ca723fcc80]: Commencement: Rule 1 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
+[^c-ba387883996820604523e3ca723fcc80]: Commencement: Rule 1 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
 
 [^f00002]: Footnote: [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42)
 
-[^key-8147899e13a6e21343b3a9973a97f317]: Commencement: Rule 2 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
+[^c-8147899e13a6e21343b3a9973a97f317]: Commencement: Rule 2 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
 
 [^f00003]: Footnote: [S.R. 1999 No. 224](https://www.legislation.gov.uk/nisr/1999/224)
 
 [^f00004]: Footnote: [S.R. 2003 No. 32](https://www.legislation.gov.uk/nisr/2003/32)
 
-[^key-1861b49f444a9ac49d26a0c9518403d7]: Commencement: Rule 3 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
+[^c-1861b49f444a9ac49d26a0c9518403d7]: Commencement: Rule 3 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
 
-[^key-e500cfb322873d9800ccfed7e78a4675]: Commencement: Rule 4 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
+[^c-e500cfb322873d9800ccfed7e78a4675]: Commencement: Rule 4 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
 
-[^key-eccec2b3fcb47eb230308b0978b51e5a]: Commencement: Rule 5 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
+[^c-eccec2b3fcb47eb230308b0978b51e5a]: Commencement: Rule 5 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
 
-[^key-17d4e0abee9722c211b27638bf86c73e]: Commencement: Rule 6 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
+[^c-17d4e0abee9722c211b27638bf86c73e]: Commencement: Rule 6 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
 
-[^key-0dad5ddae8dbdb6fe7183acf35fe41ce]: Commencement: Rule 7 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
+[^c-0dad5ddae8dbdb6fe7183acf35fe41ce]: Commencement: Rule 7 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
 
-[^key-80fe9ea6912f2e4fbcf7d153662ad03f]: Commencement: Rule 8 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
+[^c-80fe9ea6912f2e4fbcf7d153662ad03f]: Commencement: Rule 8 in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
 
 [^f00005]: Footnote: [S.R. 1984 No. 225](https://www.legislation.gov.uk/nisr/1984/225), to which the most recent relevant amendment was made by [S.R. 2003 No. 477](https://www.legislation.gov.uk/nisr/2003/477)
 
-[^key-2d63195c9f389739d1f843fd854134c3]: Commencement: Sch. in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)
+[^c-2d63195c9f389739d1f843fd854134c3]: Commencement: Sch. in operation at 17.5.2004, see [rule 1](https://www.legislation.gov.uk/nisr/2004/203/rule/1)

@@ -66,11 +66,11 @@ The Lord Chancellor has consulted in accordance with section 92(5) and (6) of th
 
 In accordance with section 92(1) of the Courts Act 2003, sections 414(1) and 415(1) of the Insolvency Act 1986, section 42(6) of the Tribunals, Courts and Enforcement Act 2007 and section 54(1) of the Mental Capacity Act 2005, the Lord Chancellor has obtained the agreement, consent and sanction of the Treasury.
 
-## 1. Citation and commencement[^key-de179dd12b2a81fce2ce2938f4887899]
+## 1. Citation and commencement[^c-de179dd12b2a81fce2ce2938f4887899]
 
 This Order may be cited as the Courts and Tribunals Fee Remissions Order 2013 and shall come into force on 7th October 2013.
 
-## 2. Amendments[^key-66e29ee129b3f203f750514048a91d5b]
+## 2. Amendments[^c-66e29ee129b3f203f750514048a91d5b]
 
 For Schedule 2 of—
 
@@ -79,7 +79,7 @@ For Schedule 2 of—
 
 substitute the Schedule to this Order, numbered as Schedule 2.
 
-## 3. Amendments to the Non-Contentious Probate Fees Order 2004[^key-a8f75c7ff77f3246e14a48872a622efe]
+## 3. Amendments to the Non-Contentious Probate Fees Order 2004[^c-a8f75c7ff77f3246e14a48872a622efe]
 
 (1) The Non-Contentious Probate Fees Order 2004 [^f00009] is amended as follows.
 
@@ -87,7 +87,7 @@ substitute the Schedule to this Order, numbered as Schedule 2.
 
 (3) Omit article 5.
 
-## 4. Amendments to the Gender Recognition (Application Fees) Order 2006[^key-9bc4dabe2fd5f5933fa8518b5b385dd7]
+## 4. Amendments to the Gender Recognition (Application Fees) Order 2006[^c-9bc4dabe2fd5f5933fa8518b5b385dd7]
 
 (1) The Gender Recognition (Application Fees) Order 2006[^f00010] is amended as follows.
 
@@ -124,7 +124,7 @@ substitute the Schedule to this Order, numbered as Schedule 2.
 
 (7) Insert the Schedule to this Order.
 
-## 5. Amendments to the Court of Protection Fees Order 2007[^key-9821969078d977061b44dc11bc88ec86]
+## 5. Amendments to the Court of Protection Fees Order 2007[^c-9821969078d977061b44dc11bc88ec86]
 
 (1) The Court of Protection Fees Order 2007[^f00011] is amended as follows.
 
@@ -166,7 +166,7 @@ substitute the Schedule to this Order, numbered as Schedule 2.
 
 (8) At the end of sub-paragraph 16(3) of Schedule 2 so inserted, for “paying the fee”, substitute “the date of the order of the court which finally disposed of the proceedings”.
 
-## 6. Amendments to the Civil Proceedings Fees Order 2008[^key-df7dd5ce2604a020ea50c7f79ef8c314]
+## 6. Amendments to the Civil Proceedings Fees Order 2008[^c-df7dd5ce2604a020ea50c7f79ef8c314]
 
 (1) The Civil Proceedings Fees Order 2008[^f00012] is amended as follows.
 
@@ -192,7 +192,7 @@ substitute the Schedule to this Order, numbered as Schedule 2.
 
 (4) For Schedule 2 (remissions and part remissions), substitute the Schedule to this Order, numbered as Schedule 2.
 
-## 7. Amendments to the Supreme Court Fees Order 2009[^key-2f98cbac87f6c6ef55f0f78fcdac61a5]
+## 7. Amendments to the Supreme Court Fees Order 2009[^c-2f98cbac87f6c6ef55f0f78fcdac61a5]
 
 (1) The Supreme Court Fees Order 2009[^f00013] is amended as follows.
 
@@ -220,7 +220,7 @@ substitute the Schedule to this Order, numbered as Schedule 2.
 
 .
 
-## 8. Amendments to the Upper Tribunal (Lands Chamber) Fees Order 2009[^key-2738e1fd2d1524093cdc90fd96d6da38]
+## 8. Amendments to the Upper Tribunal (Lands Chamber) Fees Order 2009[^c-2738e1fd2d1524093cdc90fd96d6da38]
 
 (1) The Upper Tribunal (Lands Chamber) Fees Order 2009[^f00016] is amended as follows.
 
@@ -242,7 +242,7 @@ substitute the Schedule to this Order, numbered as Schedule 2.
 
 (7) After Schedule 1 (fees to be taken in the Lands Chamber of the Upper Tribunal) as numbered by this Order, insert the Schedule to this Order, numbered as Schedule 2.
 
-## 9. Amendments to the First-tier Tribunal (Gambling) Fees Order 2010[^key-ae949311b3f876b390c795b02f63f665]
+## 9. Amendments to the First-tier Tribunal (Gambling) Fees Order 2010[^c-ae949311b3f876b390c795b02f63f665]
 
 (1) The First-tier Tribunal (Gambling) Fees Order 2010[^f00017] is amended as follows.
 
@@ -262,7 +262,7 @@ substitute the Schedule to this Order, numbered as Schedule 2.
 
 (6) After Schedule 1 (fees to be taken) as numbered by this order, insert the Schedule to this Order, numbered as Schedule 2.
 
-## 10. Amendments to the Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^key-bb5954b41ba7e5823c5450f1a37d6c80]
+## 10. Amendments to the Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^c-bb5954b41ba7e5823c5450f1a37d6c80]
 
 (1) The Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^f00019] is amended as follows.
 
@@ -275,7 +275,7 @@ substitute the Schedule to this Order, numbered as Schedule 2.
 
 (3) For Schedule 2 (remissions), substitute the Schedule to this Order, numbered as Schedule 2.
 
-## 11. Amendments to the First-tier Tribunal (Property Chamber) Fees Order 2013[^key-762b3a3b66d20cb21513d22775dacd61]
+## 11. Amendments to the First-tier Tribunal (Property Chamber) Fees Order 2013[^c-762b3a3b66d20cb21513d22775dacd61]
 
 (1) The First-tier Tribunal (Property Chamber) Fees Order 2013[^f00020] is amended as follows.
 
@@ -292,7 +292,7 @@ substitute the Schedule to this Order, numbered as Schedule 2.
 
 .
 
-## 12. Amendments to the Employment Tribunals and the Employment Appeal Tribunal Fees Order 2013[^key-8eb9cddb6f73da4179ba1e08d0ece64a]
+## 12. Amendments to the Employment Tribunals and the Employment Appeal Tribunal Fees Order 2013[^c-8eb9cddb6f73da4179ba1e08d0ece64a]
 
 (1) The Employment Tribunals and the Employment Appeal Tribunal Fees Order 2013[^f00021] is amended as follows.
 
@@ -300,7 +300,7 @@ substitute the Schedule to this Order, numbered as Schedule 2.
 
 (3) In sub-paragraph 15(4) of Schedule 3 so inserted, after the words “notified in writing to the party”, insert “, or the fee group (as the case may be).”.
 
-## 13. Transitional provisions[^key-23a47090290d9c0e1eef4dbe7b391601]
+## 13. Transitional provisions[^c-23a47090290d9c0e1eef4dbe7b391601]
 
 (1) The Orders amended by articles 2 to 12 of this Order and in force immediately before 7th October 2013, continue to apply as if this Order had not been made in respect of—
 
@@ -331,7 +331,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 ## SCHEDULE — Remissions and Part Remissions
 
-### 1. Interpretation[^key-1554ababff7724947f790150c116778c]
+### 1. Interpretation[^c-1554ababff7724947f790150c116778c]
 
 (1) In this Schedule—
 
@@ -394,13 +394,13 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 (2) References to remission of a fee are to be read as including references to a part remission of a fee as appropriate and remit and remitted shall be construed accordingly.
 
-### 2. Fee remission[^key-f86d0060ca1cf26f7d82ff726a765535]
+### 2. Fee remission[^c-f86d0060ca1cf26f7d82ff726a765535]
 
 If a party satisfies the disposable capital test, the amount of any fee remission is calculated by applying the gross monthly income test.
 
 ### Disposable capital test
 
-#### 3. Disposable capital test[^key-4137e7e01c23e3f435d72f358bf29fb5]
+#### 3. Disposable capital test[^c-4137e7e01c23e3f435d72f358bf29fb5]
 
 (1) Subject to paragraph 4, a party satisfies the disposable capital test if—
 
@@ -422,20 +422,20 @@ If a party satisfies the disposable capital test, the amount of any fee remissio
   | £6,001 to £7,000 | £14,000 |
   | £7,001 or more | £16,000 |
 
-**4.**[^key-ff295b32b23b61b6bcf07eec9c9a6255] Subject to paragraph 14, if a party or their partner is aged 61 or over, that party satisfies the disposable capital test if that party’s disposable capital is less than £16,000.
+**4.**[^c-ff295b32b23b61b6bcf07eec9c9a6255] Subject to paragraph 14, if a party or their partner is aged 61 or over, that party satisfies the disposable capital test if that party’s disposable capital is less than £16,000.
 
-#### 5. Disposable capital[^key-75f1eed40076b9f9d453a7a83ff4ff31]
+#### 5. Disposable capital[^c-75f1eed40076b9f9d453a7a83ff4ff31]
 
 Subject to paragraph 14, disposable capital is the value of every resource of a capital nature belonging to the party on the date on which the application for remission is made, unless it is treated as income by this Order, or it is disregarded as excluded disposable capital.
 
-#### 6. Disposable capital - non-money resources[^key-3aa53bc8b3b15849f4414f94bea43850]
+#### 6. Disposable capital - non-money resources[^c-3aa53bc8b3b15849f4414f94bea43850]
 
 The value of a resource of a capital nature that does not consist of money is calculated as the amount which that resource would realise if sold, less—
 
 - (a) 10% of the sale value; and
 - (b) the amount of any borrowing secured against that resource that would be repayable on sale.
 
-#### 7. Disposable capital - resources held outside the United Kingdom[^key-c7fe7b0b1ed948560fbfabc1ea5dfe6f]
+#### 7. Disposable capital - resources held outside the United Kingdom[^c-c7fe7b0b1ed948560fbfabc1ea5dfe6f]
 
 (1) Capital resources in a country outside the United Kingdom count towards disposable capital.
 
@@ -443,15 +443,15 @@ The value of a resource of a capital nature that does not consist of money is ca
 
 (3) If there is a prohibition in that country against the transfer of a resource into the United Kingdom, the value of that resource is the amount that resource would realise if sold to a buyer in the United Kingdom.
 
-#### 8. Disposable capital - foreign currency resources[^key-68595e8d7c14efac769f824871087652]
+#### 8. Disposable capital - foreign currency resources[^c-68595e8d7c14efac769f824871087652]
 
 Where disposable capital is held in currency other than sterling, the cost of any banking charge or commission that would be payable if that amount were converted into sterling, is deducted from its value.
 
-#### 9. Disposable capital - jointly owned resources[^key-30dd4261a90bb8a12a13edd6239321bf]
+#### 9. Disposable capital - jointly owned resources[^c-30dd4261a90bb8a12a13edd6239321bf]
 
 Where any resource of a capital nature is owned jointly or in common, there is a presumption that the resource is owned in equal shares, unless evidence to the contrary is produced.
 
-#### 10. Excluded disposable capital[^key-0676457cf33a4ccd24152ae52c5caad4]
+#### 10. Excluded disposable capital[^c-0676457cf33a4ccd24152ae52c5caad4]
 
 The following things are excluded disposable capital—
 
@@ -475,7 +475,7 @@ The following things are excluded disposable capital—
 
 ### Gross monthly income test
 
-#### 11. Remission of fees—gross monthly income[^key-d3c4d24af2159025f4ca4f50c8ddb550]
+#### 11. Remission of fees—gross monthly income[^c-d3c4d24af2159025f4ca4f50c8ddb550]
 
 (1) If a party satisfies the disposable capital test, no fee is payable under this Order if, at the time when the fee would otherwise be payable, the party or their partner has the number of children specified in column 1 of Table 2 and—
 
@@ -496,7 +496,7 @@ The following things are excluded disposable capital—
 
 (4) This paragraph is subject to paragraph 12.
 
-#### 12. Gross monthly income cap[^key-9f7adbf338091fbc7a7845f1b3ee1cdc]
+#### 12. Gross monthly income cap[^c-9f7adbf338091fbc7a7845f1b3ee1cdc]
 
 (1) No remission is available if a party or their partner has the number of children specified in column 1 of Table 3 and—
 
@@ -513,7 +513,7 @@ The following things are excluded disposable capital—
 
 (2) If a party or their partner has more than 2 children, the relevant amount of gross monthly income is the appropriate amount specified in Table 3 for 2 children, plus the sum of £245 for each additional child.
 
-#### 13. Gross monthly income[^key-539efc940da919c14636ece453af29c6]
+#### 13. Gross monthly income[^c-539efc940da919c14636ece453af29c6]
 
 (1) Subject to paragraph 14, gross monthly income means the total monthly income, for the month preceding that in which the application for remission is made, from all sources, other than receipt of any of the excluded benefits.
 
@@ -528,13 +528,13 @@ in the month preceding that in which the application for remission is made.
 
 ### General
 
-#### 14. Resources and income treated as the party’s resources and income[^key-5b03f77dc8ef52101699acd7877b789e]
+#### 14. Resources and income treated as the party’s resources and income[^c-5b03f77dc8ef52101699acd7877b789e]
 
 (1) Subject to sub-paragraph (2), the disposable capital and gross monthly income of a partner of a party is to be treated as disposable capital and gross monthly income of the party.
 
 (2) Where the partner of a party has a contrary interest to the party in the matter to which the fee relates, the disposable capital and gross monthly income of that partner, if any, is not treated as the disposable capital and gross monthly income of the party.
 
-#### 15. Application for remission of a fee[^key-4510fb0af2e363e240402c4ed28d384b]
+#### 15. Application for remission of a fee[^c-4510fb0af2e363e240402c4ed28d384b]
 
 (1) An application for remission of a fee must be made at the time when the fee would otherwise be payable.
 
@@ -548,11 +548,11 @@ in the month preceding that in which the application for remission is made.
 
 (4) Where an application for remission is refused, or if part remission of a fee is granted, the amount of the fee which remains unremitted must be paid within the period notified in writing to the party.
 
-#### 16. Remission in exceptional circumstances[^key-2aa1149e05a2a79da3a3ec3ff07751d5]
+#### 16. Remission in exceptional circumstances[^c-2aa1149e05a2a79da3a3ec3ff07751d5]
 
 A fee specified in this Order may be remitted where the Lord Chancellor is satisfied that there are exceptional circumstances which justify doing so.
 
-#### 17. Refunds[^key-1df239644a09031c750a6b5b75237ea7]
+#### 17. Refunds[^c-1df239644a09031c750a6b5b75237ea7]
 
 (1) Subject to sub-paragraph (3), where a party pays a fee at a time when that party would have been entitled to a remission if they had provided the documentary evidence required by paragraph 15, the fee, or the amount by which the fee would have been reduced as the case may be, must be refunded if documentary evidence relating to the time when the fee became payable is provided at a later date.
 
@@ -562,7 +562,7 @@ A fee specified in this Order may be remitted where the Lord Chancellor is satis
 
 (4) The Lord Chancellor may extend the period of 3 months mentioned in sub-paragraph (3) if the Lord Chancellor considers that there is a good reason for a refund being made after the end of the period of 3 months.
 
-#### 18. Legal Aid[^key-15f9b877bb4f73ec65ac40da08882b4e]
+#### 18. Legal Aid[^c-15f9b877bb4f73ec65ac40da08882b4e]
 
 A party is not entitled to a fee remission if, under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00044], they are in receipt of the following civil legal services —
 
@@ -570,7 +570,7 @@ A party is not entitled to a fee remission if, under Part 1 of the Legal Aid, Se
 - (b) Family help (higher); or
 - (c) Family help (lower) in respect of applying for a consent order.
 
-#### 19. Vexatious litigants[^key-3f0818c3fafd734052cab6f58b0d94cf]
+#### 19. Vexatious litigants[^c-3f0818c3fafd734052cab6f58b0d94cf]
 
 (1) This paragraph applies where—
 
@@ -587,7 +587,7 @@ A party is not entitled to a fee remission if, under Part 1 of the Legal Aid, Se
 - (a) the fee paid; and
 - (b) the fee that would have been payable if this Schedule had been applied without reference to this paragraph.
 
-#### 20. Exceptions[^key-2826743d4f8be6fa5c2204ffe1b8ad22]
+#### 20. Exceptions[^c-2826743d4f8be6fa5c2204ffe1b8ad22]
 
 No remissions or refunds are available in respect of the fee payable for—
 
@@ -639,31 +639,31 @@ For fees paid and applications for remission received before 7th October 2013, t
 
 [^f00006]: Footnote: [2004 c. 7](https://www.legislation.gov.uk/ukpga/2004/7).
 
-[^key-de179dd12b2a81fce2ce2938f4887899]: Commencement: Art. 1 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-de179dd12b2a81fce2ce2938f4887899]: Commencement: Art. 1 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-66e29ee129b3f203f750514048a91d5b]: Commencement: Art. 2 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-66e29ee129b3f203f750514048a91d5b]: Commencement: Art. 2 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
 [^f00007]: Footnote: [S.I. 2008/1054](https://www.legislation.gov.uk/uksi/2008/1054), amended by section 59(5) of, and paragraph 1(2) of Part 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4) and relevant amending instruments are [S.I. 2008/2856](https://www.legislation.gov.uk/uksi/2008/2856), [2009/1499](https://www.legislation.gov.uk/uksi/2009/1499) and [2011/1045](https://www.legislation.gov.uk/uksi/2011/1045).
 
 [^f00008]: Footnote: [S.I. 2008/1052](https://www.legislation.gov.uk/uksi/2008/1052), amended by section 59(5) of, and paragraph 1(2) of Part 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4) and relevant amending instruments are [S.I. 2008/2855](https://www.legislation.gov.uk/uksi/2008/2855), [2009/1496](https://www.legislation.gov.uk/uksi/2009/1496) and [2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-a8f75c7ff77f3246e14a48872a622efe]: Commencement: Art. 3 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-a8f75c7ff77f3246e14a48872a622efe]: Commencement: Art. 3 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
 [^f00009]: Footnote: [S.I. 2004/3120](https://www.legislation.gov.uk/uksi/2004/3120), relevant amending instruments are [S.I. 2007/2174](https://www.legislation.gov.uk/uksi/2007/2174), [2009/1497](https://www.legislation.gov.uk/uksi/2009/1497) and [2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
-[^key-9bc4dabe2fd5f5933fa8518b5b385dd7]: Commencement: Art. 4 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-9bc4dabe2fd5f5933fa8518b5b385dd7]: Commencement: Art. 4 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
 [^f00010]: Footnote: [S.I. 2006/758](https://www.legislation.gov.uk/uksi/2006/758), amended by [S.R. 2008/412](https://www.legislation.gov.uk/nisr/2008/412), [S.I. 2008/1879](https://www.legislation.gov.uk/uksi/2008/1879) and [2012/920](https://www.legislation.gov.uk/uksi/2012/920).
 
-[^key-9821969078d977061b44dc11bc88ec86]: Commencement: Art. 5 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-9821969078d977061b44dc11bc88ec86]: Commencement: Art. 5 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
 [^f00011]: Footnote: [S.I. 2007/1745](https://www.legislation.gov.uk/uksi/2007/1745), amended by [S.I. 2009/513](https://www.legislation.gov.uk/uksi/2009/513).
 
-[^key-df7dd5ce2604a020ea50c7f79ef8c314]: Commencement: Art. 6 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-df7dd5ce2604a020ea50c7f79ef8c314]: Commencement: Art. 6 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
 [^f00012]: Footnote: [S.I. 2008/1053](https://www.legislation.gov.uk/uksi/2008/1053), amended by section 59(5) of, and paragraph 1(2) of Part 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), [S.I. 2008/2853](https://www.legislation.gov.uk/uksi/2008/2853), [2009/1498](https://www.legislation.gov.uk/uksi/2009/1498), [2013/388](https://www.legislation.gov.uk/uksi/2013/388) and [2013/1410](https://www.legislation.gov.uk/uksi/2013/1410).
 
-[^key-2f98cbac87f6c6ef55f0f78fcdac61a5]: Commencement: Art. 7 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-2f98cbac87f6c6ef55f0f78fcdac61a5]: Commencement: Art. 7 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
 [^f00013]: Footnote: [S.I. 2009/2131](https://www.legislation.gov.uk/uksi/2009/2131), amended by [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582) and [2013/388](https://www.legislation.gov.uk/uksi/2013/388).
 
@@ -671,31 +671,31 @@ For fees paid and applications for remission received before 7th October 2013, t
 
 [^f00015]: Footnote: [S.I. 1981/228 (N.I. 8)](https://www.legislation.gov.uk/nisi/1981/228).
 
-[^key-2738e1fd2d1524093cdc90fd96d6da38]: Commencement: Art. 8 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-2738e1fd2d1524093cdc90fd96d6da38]: Commencement: Art. 8 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
 [^f00016]: Footnote: [S.I. 2009/1114](https://www.legislation.gov.uk/uksi/2009/1114), amended by [S.I. 2010/2601](https://www.legislation.gov.uk/uksi/2010/2601) and [2013/1199](https://www.legislation.gov.uk/uksi/2013/1199).
 
-[^key-ae949311b3f876b390c795b02f63f665]: Commencement: Art. 9 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-ae949311b3f876b390c795b02f63f665]: Commencement: Art. 9 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
 [^f00017]: Footnote: [S.I. 2010/42](https://www.legislation.gov.uk/uksi/2010/42), amended by [S.I. 2010/633](https://www.legislation.gov.uk/uksi/2010/633).
 
 [^f00018]: Footnote: [2005 c. 19](https://www.legislation.gov.uk/ukpga/2005/19).
 
-[^key-bb5954b41ba7e5823c5450f1a37d6c80]: Commencement: Art. 10 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-bb5954b41ba7e5823c5450f1a37d6c80]: Commencement: Art. 10 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
 [^f00019]: Footnote: [S.I. 2011/2344](https://www.legislation.gov.uk/uksi/2011/2344).
 
-[^key-762b3a3b66d20cb21513d22775dacd61]: Commencement: Art. 11 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-762b3a3b66d20cb21513d22775dacd61]: Commencement: Art. 11 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
 [^f00020]: Footnote: [S.I. 2013/1179](https://www.legislation.gov.uk/uksi/2013/1179).
 
-[^key-8eb9cddb6f73da4179ba1e08d0ece64a]: Commencement: Art. 12 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-8eb9cddb6f73da4179ba1e08d0ece64a]: Commencement: Art. 12 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
 [^f00021]: Footnote: [S.I. 2013/1893](https://www.legislation.gov.uk/uksi/2013/1893).
 
-[^key-23a47090290d9c0e1eef4dbe7b391601]: Commencement: Art. 13 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-23a47090290d9c0e1eef4dbe7b391601]: Commencement: Art. 13 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-1554ababff7724947f790150c116778c]: Commencement: Sch. para. 1 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-1554ababff7724947f790150c116778c]: Commencement: Sch. para. 1 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
 [^f00022]: Footnote: [S.I. 2006/223](https://www.legislation.gov.uk/uksi/2006/223), amended by [S.I. 2009/3268](https://www.legislation.gov.uk/uksi/2009/3268) and [2012/818](https://www.legislation.gov.uk/uksi/2012/818).
 
@@ -741,42 +741,42 @@ For fees paid and applications for remission received before 7th October 2013, t
 
 [^f00043]: Footnote: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955).
 
-[^key-f86d0060ca1cf26f7d82ff726a765535]: Commencement: Sch. para. 2 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-f86d0060ca1cf26f7d82ff726a765535]: Commencement: Sch. para. 2 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-4137e7e01c23e3f435d72f358bf29fb5]: Commencement: Sch. para. 3 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-4137e7e01c23e3f435d72f358bf29fb5]: Commencement: Sch. para. 3 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-ff295b32b23b61b6bcf07eec9c9a6255]: Commencement: Sch. para. 4 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-ff295b32b23b61b6bcf07eec9c9a6255]: Commencement: Sch. para. 4 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-75f1eed40076b9f9d453a7a83ff4ff31]: Commencement: Sch. para. 5 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-75f1eed40076b9f9d453a7a83ff4ff31]: Commencement: Sch. para. 5 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-3aa53bc8b3b15849f4414f94bea43850]: Commencement: Sch. para. 6 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-3aa53bc8b3b15849f4414f94bea43850]: Commencement: Sch. para. 6 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-c7fe7b0b1ed948560fbfabc1ea5dfe6f]: Commencement: Sch. para. 7 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-c7fe7b0b1ed948560fbfabc1ea5dfe6f]: Commencement: Sch. para. 7 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-68595e8d7c14efac769f824871087652]: Commencement: Sch. para. 8 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-68595e8d7c14efac769f824871087652]: Commencement: Sch. para. 8 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-30dd4261a90bb8a12a13edd6239321bf]: Commencement: Sch. para. 9 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-30dd4261a90bb8a12a13edd6239321bf]: Commencement: Sch. para. 9 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-0676457cf33a4ccd24152ae52c5caad4]: Commencement: Sch. para. 10 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-0676457cf33a4ccd24152ae52c5caad4]: Commencement: Sch. para. 10 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-d3c4d24af2159025f4ca4f50c8ddb550]: Commencement: Sch. para. 11 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-d3c4d24af2159025f4ca4f50c8ddb550]: Commencement: Sch. para. 11 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-9f7adbf338091fbc7a7845f1b3ee1cdc]: Commencement: Sch. para. 12 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-9f7adbf338091fbc7a7845f1b3ee1cdc]: Commencement: Sch. para. 12 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-539efc940da919c14636ece453af29c6]: Commencement: Sch. para. 13 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-539efc940da919c14636ece453af29c6]: Commencement: Sch. para. 13 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-5b03f77dc8ef52101699acd7877b789e]: Commencement: Sch. para. 14 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-5b03f77dc8ef52101699acd7877b789e]: Commencement: Sch. para. 14 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-4510fb0af2e363e240402c4ed28d384b]: Commencement: Sch. para. 15 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-4510fb0af2e363e240402c4ed28d384b]: Commencement: Sch. para. 15 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-2aa1149e05a2a79da3a3ec3ff07751d5]: Commencement: Sch. para. 16 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-2aa1149e05a2a79da3a3ec3ff07751d5]: Commencement: Sch. para. 16 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-1df239644a09031c750a6b5b75237ea7]: Commencement: Sch. para. 17 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-1df239644a09031c750a6b5b75237ea7]: Commencement: Sch. para. 17 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-15f9b877bb4f73ec65ac40da08882b4e]: Commencement: Sch. para. 18 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-15f9b877bb4f73ec65ac40da08882b4e]: Commencement: Sch. para. 18 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
 [^f00044]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-3f0818c3fafd734052cab6f58b0d94cf]: Commencement: Sch. para. 19 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-3f0818c3fafd734052cab6f58b0d94cf]: Commencement: Sch. para. 19 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
 
-[^key-2826743d4f8be6fa5c2204ffe1b8ad22]: Commencement: Sch. para. 20 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)
+[^c-2826743d4f8be6fa5c2204ffe1b8ad22]: Commencement: Sch. para. 20 in force at 7.10.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2302/article/1)

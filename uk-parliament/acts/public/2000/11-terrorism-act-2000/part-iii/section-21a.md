@@ -86,7 +86,7 @@ came to him in the course of a business in the regulated sector.
 
 (13) An appropriate body is any body which regulates or is representative of any trade, profession, business or employment carried on by the alleged offender.
 
-(14) The reference to a constable includes a reference to a National Crime Agency officer[^key-4de5b4763eafcfb9248ca827c52b8f9d] authorised for the purposes of this section by the Director General of that Agency[^c16828071].
+(14) The reference to a constable includes a reference to a National Crime Agency officer[^c-4de5b4763eafcfb9248ca827c52b8f9d] authorised for the purposes of this section by the Director General of that Agency[^c16828071].
 
 (15)[^c19686951] In this section “ **relevant professional adviser** ” means an accountant, auditor or tax adviser who is a member of a professional body which is established for accountants, auditors or tax advisers (as the case may be) and which makes provision for—
 
@@ -109,7 +109,7 @@ came to him in the course of a business in the regulated sector.
 
 [^c19686931]: Textual amendment: Words in s. 21A(8) inserted (26.12.2007) by [The Terrorism Act 2000 and Proceeds of Crime Act 2002 (Amendment) Regulations 2007 (S.I. 2007/3398)](https://www.legislation.gov.uk/uksi/2007/3398), [reg. 2](https://www.legislation.gov.uk/uksi/2007/3398/regulation/2), [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/uksi/2007/3398/schedule/1/paragraph/3/5)
 
-[^key-4de5b4763eafcfb9248ca827c52b8f9d]: Textual amendment: Words in s. 21A(14) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 72](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/72); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-4de5b4763eafcfb9248ca827c52b8f9d]: Textual amendment: Words in s. 21A(14) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 72](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/72); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
 [^c16828071]: Textual amendment: Words in s. 21A(14) substituted (1.4.2006 subject to art. 4(2)-(7) of the commencing S.I.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 59](https://www.legislation.gov.uk/ukpga/2005/15/section/59), [Sch. 4 para. 128(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/128/b); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2006/378/schedule)
 

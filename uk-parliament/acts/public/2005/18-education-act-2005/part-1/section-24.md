@@ -44,8 +44,8 @@ summary: ''
 
 (5) A person guilty of an offence under subsection (4) is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-(6) An inspection of a school conducted under subsection (1) may not extend to any education of a kind to which the functions of the Chief Inspector under Part 2 of the Tertiary Education and Research (Wales) Act 2022 apply[^key-b0f0d2868d4093047af9f6e4ba71173e] that is provided by the school.
+(6) An inspection of a school conducted under subsection (1) may not extend to any education of a kind to which the functions of the Chief Inspector under Part 2 of the Tertiary Education and Research (Wales) Act 2022 apply[^c-b0f0d2868d4093047af9f6e4ba71173e] that is provided by the school.
 
 ## Annotations
 
-[^key-b0f0d2868d4093047af9f6e4ba71173e]: Textual amendment: Words in s. 24(6) substituted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 18(3)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/18/3) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxii)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxii)
+[^c-b0f0d2868d4093047af9f6e4ba71173e]: Textual amendment: Words in s. 24(6) substituted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 18(3)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/18/3) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)(xxxii)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww/xxxii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. The Chief Inspector of Drinking Water and the Drinking Water Inspectorate[^key-1767401f1e4a379a5fb62b5bfe84a9f1]
+## 57. The Chief Inspector of Drinking Water and the Drinking Water Inspectorate[^c-1767401f1e4a379a5fb62b5bfe84a9f1]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 (6) In subsection (4), for “person”, wherever it appears, there is substituted “ inspector ”.
 
-(7)[^key-0cdecc456f4892c31962910a541522b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-0cdecc456f4892c31962910a541522b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) After subsection (6) there is added—
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1767401f1e4a379a5fb62b5bfe84a9f1]: Commencement: S. 57 in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(m)](https://www.legislation.gov.uk/uksi/2004/641/article/3/m) (with [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/5)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-1767401f1e4a379a5fb62b5bfe84a9f1]: Commencement: S. 57 in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(m)](https://www.legislation.gov.uk/uksi/2004/641/article/3/m) (with [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/5)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-0cdecc456f4892c31962910a541522b3]: Textual amendment: [S. 57(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/57/7) omitted (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 101(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/101/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-0cdecc456f4892c31962910a541522b3]: Textual amendment: [S. 57(7)](https://www.legislation.gov.uk/ukpga/2003/37/section/57/7) omitted (12.3.2015) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 101(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/101/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

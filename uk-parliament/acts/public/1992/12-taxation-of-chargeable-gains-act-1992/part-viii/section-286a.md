@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 286A. Residence of companies[^key-4510a43998ca27f2e4c9ea31740062c6]
+## 286A. Residence of companies[^c-4510a43998ca27f2e4c9ea31740062c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ as it applies for the purposes of the Corporation Tax Acts.
 
 ## Annotations
 
-[^key-4510a43998ca27f2e4c9ea31740062c6]: Textual amendment: S. 286A inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 384](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/384) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-4510a43998ca27f2e4c9ea31740062c6]: Textual amendment: S. 286A inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 384](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/384) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Power to restore a register entry[^key-f669823c10889092dcaefc4eaa29ef34]
+## 96. Power to restore a register entry[^c-f669823c10889092dcaefc4eaa29ef34]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f669823c10889092dcaefc4eaa29ef34]: Commencement: S. 96 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-f669823c10889092dcaefc4eaa29ef34]: Commencement: S. 96 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

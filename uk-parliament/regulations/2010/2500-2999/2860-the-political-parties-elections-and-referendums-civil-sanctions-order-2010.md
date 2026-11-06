@@ -44,13 +44,13 @@ The Lord President of the Council makes the following Order in exercise of the p
 
 The Lord President of the Council has consulted the Electoral Commission pursuant to paragraph 17(1) and (3) of Schedule 19C to that Act.
 
-In accordance with section 156(4A) of that Act[^f00002], a draft of this Order has been laid before and approved by a resolution of each House of Parliament.[^key-94ee8b109e5968f2dd88ff474f1f4954][^key-6d33aacff284004e93df96664f67ec01]
+In accordance with section 156(4A) of that Act[^f00002], a draft of this Order has been laid before and approved by a resolution of each House of Parliament.[^c-94ee8b109e5968f2dd88ff474f1f4954][^c-6d33aacff284004e93df96664f67ec01]
 
-## 1. Citation and commencement[^key-a2bdf1737e711b7b58079a4faa5c409f]
+## 1. Citation and commencement[^c-a2bdf1737e711b7b58079a4faa5c409f]
 
 This Order may be cited as the Political Parties, Elections and Referendums (Civil Sanctions) Order 2010 and comes into force on 1st December 2010.
 
-## 2. Interpretation[^key-beb4855c9c083e3f9420cd0bd23022f9]
+## 2. Interpretation[^c-beb4855c9c083e3f9420cd0bd23022f9]
 
 In this Order—
 
@@ -60,7 +60,7 @@ In this Order—
 - “restoration notice” means a notice imposing a requirement under paragraph 5(5)(c) of Schedule 19C; and
 - “Schedule 19C” means Schedule 19C to the 2000 Act.
 
-## 3. Provision made by Schedule 1[^key-c87136ec1189a30f37a6d642ddfd6d4d]
+## 3. Provision made by Schedule 1[^c-c87136ec1189a30f37a6d642ddfd6d4d]
 
 (1) Part 1 of Schedule 1 makes provision for fixed monetary penalties[^f00003].
 
@@ -70,21 +70,21 @@ In this Order—
 
 (4) Part 4 of Schedule 1 makes provision for enforcement undertakings[^f00006].
 
-## 4. Prescribed offences and prescribed restrictions and requirements[^key-390b43b728e1d1190dd3ffe4e38a3749]
+## 4. Prescribed offences and prescribed restrictions and requirements[^c-390b43b728e1d1190dd3ffe4e38a3749]
 
-(1) Part 1 of Schedule 2 lists the offences prescribed for the purposes of paragraphs 1(1)(a) , (2)(a), (3)(a) and (4)(a)[^key-cf111e8ab3e474ecb74bf38aa948469e] (fixed monetary penalties), 5(1)(a) , (2)(a), (3)(a) and (4)(a)[^key-7595c3a83e215cba716e5cd41325fc3c] (discretionary requirements), 10(2)(b)(i) and (3)(b)(i) (stop notices) and 15(1)(a)(i) (enforcement undertakings) of Schedule 19C.
+(1) Part 1 of Schedule 2 lists the offences prescribed for the purposes of paragraphs 1(1)(a) , (2)(a), (3)(a) and (4)(a)[^c-cf111e8ab3e474ecb74bf38aa948469e] (fixed monetary penalties), 5(1)(a) , (2)(a), (3)(a) and (4)(a)[^c-7595c3a83e215cba716e5cd41325fc3c] (discretionary requirements), 10(2)(b)(i) and (3)(b)(i) (stop notices) and 15(1)(a)(i) (enforcement undertakings) of Schedule 19C.
 
 (2) Part 2 of Schedule 2 lists the restrictions and requirements prescribed for the purposes of paragraphs 1(1)(b), 5(1)(b), 10(2)(b)(ii) and (3)(b)(ii) and 15(1)(a)(ii) of Schedule 19C.
 
 (3) Part 3 of Schedule 2 lists the restrictions and requirements prescribed for the purposes of paragraphs 1(2)(b), (3)(b) and (4)(b) (fixed monetary penalties) and 5(2)(b), (3)(b) and (4)(b) (discretionary requirements) of Schedule 19C.
 
-## 5. Recovery of payments[^key-efa13141fb7c5a3f86339d8e81704698]
+## 5. Recovery of payments[^c-efa13141fb7c5a3f86339d8e81704698]
 
-(1) In England and Wales and Northern Ireland, the Commission[^f00007] may recover a fixed monetary penalty, variable monetary penalty[^f00008], non-compliance penalty,[^key-276adbe07b91b3c15d48608344168521] or any interest or other financial penalty for late payment on the order of a court, as if payable under a court order.
+(1) In England and Wales and Northern Ireland, the Commission[^f00007] may recover a fixed monetary penalty, variable monetary penalty[^f00008], non-compliance penalty,[^c-276adbe07b91b3c15d48608344168521] or any interest or other financial penalty for late payment on the order of a court, as if payable under a court order.
 
-(2) In Scotland, the Commission may recover a fixed monetary penalty, variable monetary penalty, non-compliance penalty,[^key-b873ae80253618615f6101c586c2b1f3] or any interest or other financial penalty for late payment as a civil debt.
+(2) In Scotland, the Commission may recover a fixed monetary penalty, variable monetary penalty, non-compliance penalty,[^c-b873ae80253618615f6101c586c2b1f3] or any interest or other financial penalty for late payment as a civil debt.
 
-## 6. Non-compliance penalties[^key-59eb8172fe882d46a542a26666ef7212]
+## 6. Non-compliance penalties[^c-59eb8172fe882d46a542a26666ef7212]
 
 (1) The amount of a non-compliance penalty[^f00009] must be determined by the Commission having regard to all the circumstances of the case and must not be less than £500 nor more than £20,000.
 
@@ -102,13 +102,13 @@ In this Order—
 
 (5) An appeal under paragraph 9(3) of Schedule 19C against a notice imposing a non-compliance penalty must be made within 28 days of the day on which the notice was received.
 
-## 7. Withdrawal or variation of notices[^key-1c7b5bbb3277658d613f82ce80d28cd0]
+## 7. Withdrawal or variation of notices[^c-1c7b5bbb3277658d613f82ce80d28cd0]
 
 (1) The Commission may by notice in writing at any time withdraw, reduce the monetary amount payable under, or reduce the steps to be taken under, any final notice.
 
 (2) The Commission may by notice in writing at any time withdraw a stop notice (without prejudice to their power to serve another in respect of the activity specified in the withdrawn notice).
 
-## 8. Appeals[^key-b00695a6f201c5e5638df526e6261a58]
+## 8. Appeals[^c-b00695a6f201c5e5638df526e6261a58]
 
 (1) Where an appeal under paragraph 13(1) or (2) of Schedule 19C is made, the stop notice is not suspended unless suspended or varied on the order of the county court or (in Scotland) the sheriff.
 
@@ -136,15 +136,15 @@ Article 3
 
 ### PART 1 — Fixed monetary penalties
 
-#### 1. Prescribed amount[^key-c4ba032ba9b68533da1df574c655ef9e]
+#### 1. Prescribed amount[^c-c4ba032ba9b68533da1df574c655ef9e]
 
 For the purposes of paragraph 1(5) of Schedule 19C (fixed monetary penalty) the amount prescribed is £200.
 
-#### 2. Discharge of liability[^key-1c17ef31afe9c4c7c6f11aff13401de2]
+#### 2. Discharge of liability[^c-1c17ef31afe9c4c7c6f11aff13401de2]
 
 For the purposes of paragraph 2(2) of Schedule 19C (sum by which penalty may be discharged) the sum prescribed is £200.
 
-#### 3. Appeals[^key-c84b06c324c81eab8249ba114cdb84f6]
+#### 3. Appeals[^c-c84b06c324c81eab8249ba114cdb84f6]
 
 (1) An appeal under paragraph 2(6) of Schedule 19C against the decision to impose a fixed monetary penalty must be made within 28 days of the day on which the final notice was received.
 
@@ -152,7 +152,7 @@ For the purposes of paragraph 2(2) of Schedule 19C (sum by which penalty may be 
 
 (3) The suspension has effect until the day on which the appeal is determined or withdrawn.
 
-#### 4. Late payment[^key-f52ac9f0ea4b628b9f8de7deb6282acc]
+#### 4. Late payment[^c-f52ac9f0ea4b628b9f8de7deb6282acc]
 
 (1) Subject to sub-paragraphs (4) and (5), the fixed monetary penalty must be paid within 28 days of the day on which the final notice was received.
 
@@ -166,11 +166,11 @@ For the purposes of paragraph 2(2) of Schedule 19C (sum by which penalty may be 
 
 ### PART 2 — Discretionary Requirements
 
-#### 5. Variable monetary penalties: maximum amount[^key-9d6ae58bce4dde0bc106dcaa775ee643]
+#### 5. Variable monetary penalties: maximum amount[^c-9d6ae58bce4dde0bc106dcaa775ee643]
 
 The maximum amount that the Commission may impose as a variable monetary penalty is £20,000.
 
-#### 6. Completion[^key-f6571508c1c622d87274aa1a51096918]
+#### 6. Completion[^c-f6571508c1c622d87274aa1a51096918]
 
 (1) Where, after the service of a compliance notice or a restoration notice on a person, the Commission are satisfied that the person has taken the steps specified in the notice, they must issue a certificate to that effect.
 
@@ -187,7 +187,7 @@ The maximum amount that the Commission may impose as a variable monetary penalty
 
 (6) The Commission may revoke a certificate if it was granted on the basis of inaccurate, incomplete or misleading information, and if the Commission revoke a certificate, the compliance notice or restoration notice has effect as if the certificate had not been issued.
 
-#### 7. Appeals[^key-121b486fccac282bb10cd60e46b879ab]
+#### 7. Appeals[^c-121b486fccac282bb10cd60e46b879ab]
 
 (1) An appeal under paragraph 6(6) of Schedule 19C against the decision to impose a discretionary requirement must be made within 28 days of the day on which the final notice was received.
 
@@ -195,7 +195,7 @@ The maximum amount that the Commission may impose as a variable monetary penalty
 
 (3) The suspension has effect until the day on which the appeal is determined or withdrawn.
 
-**8.**[^key-95edd163dff8fc2a4db6e0ec73f37944] (1) A person served with a compliance notice or a restoration notice may appeal to a county court or (in Scotland) the sheriff against a decision not to issue a certificate under paragraph 6 on the ground that the decision was—
+**8.**[^c-95edd163dff8fc2a4db6e0ec73f37944] (1) A person served with a compliance notice or a restoration notice may appeal to a county court or (in Scotland) the sheriff against a decision not to issue a certificate under paragraph 6 on the ground that the decision was—
 
 - (a) based on an error of fact;
 - (b) wrong in law; or
@@ -203,7 +203,7 @@ The maximum amount that the Commission may impose as a variable monetary penalty
 
 (2) An appeal must be made within 28 days of the day on which notification of the decision was received.
 
-#### 9. Late payment[^key-0e388197d1fa37287117e69c0d0d9f1d]
+#### 9. Late payment[^c-0e388197d1fa37287117e69c0d0d9f1d]
 
 (1) Subject to sub-paragraphs (4) and (5), the variable monetary penalty must be paid within 28 days of the day on which the final notice was received.
 
@@ -217,7 +217,7 @@ The maximum amount that the Commission may impose as a variable monetary penalty
 
 ### PART 3 — Stop notices
 
-#### 10. Completion certificates[^key-302eff3e8d256549ed31f29141eebec4]
+#### 10. Completion certificates[^c-302eff3e8d256549ed31f29141eebec4]
 
 (1) An application for a completion certificate[^f00010] must be accompanied by such information as is reasonably necessary to enable the Commission to determine whether the stop notice has been complied with.
 
@@ -226,9 +226,9 @@ The maximum amount that the Commission may impose as a variable monetary penalty
 - (a) the grounds for the decision not to issue a completion certificate; and
 - (b) rights of appeal.
 
-**11.**[^key-b650a1b71670f35b3a396b87626435c9] The Commission may revoke a completion certificate if it was granted on the basis of inaccurate, incomplete or misleading information, and if the Commission revoke a completion certificate, the stop notice has effect as if the certificate had not been issued.
+**11.**[^c-b650a1b71670f35b3a396b87626435c9] The Commission may revoke a completion certificate if it was granted on the basis of inaccurate, incomplete or misleading information, and if the Commission revoke a completion certificate, the stop notice has effect as if the certificate had not been issued.
 
-#### 12. Appeals[^key-9666488a0ee3fcca231ad6bfd3918980]
+#### 12. Appeals[^c-9666488a0ee3fcca231ad6bfd3918980]
 
 (1) An appeal under paragraph 13(1) of Schedule 19C against the decision to serve a stop notice must be made within 28 days of the day on which the notice was received.
 
@@ -236,7 +236,7 @@ The maximum amount that the Commission may impose as a variable monetary penalty
 
 ### PART 4 — Enforcement undertakings
 
-#### 13. Contents of an enforcement undertaking[^key-15faac3ad0c504359a664fec4c152f1c]
+#### 13. Contents of an enforcement undertaking[^c-15faac3ad0c504359a664fec4c152f1c]
 
 (1) An enforcement undertaking must be in writing and include—
 
@@ -248,11 +248,11 @@ The maximum amount that the Commission may impose as a variable monetary penalty
 
 (2) The enforcement undertaking may be varied or extended if both parties agree.
 
-#### 14. Publication of enforcement undertakings[^key-660fcd37ce2a623ae198da766e8edd2f]
+#### 14. Publication of enforcement undertakings[^c-660fcd37ce2a623ae198da766e8edd2f]
 
 The Commission may publish any enforcement undertaking which they accept in whatever manner they see fit.
 
-#### 15. Compliance with an enforcement undertaking[^key-9f9b8e2a620520bdfdf91098a00a9eb5]
+#### 15. Compliance with an enforcement undertaking[^c-9f9b8e2a620520bdfdf91098a00a9eb5]
 
 (1) Where, after accepting an enforcement undertaking from a person, the Commission are satisfied that the undertaking has been complied with in full they must issue a certificate to that effect.
 
@@ -269,7 +269,7 @@ The Commission may publish any enforcement undertaking which they accept in what
 
 (6) The Commission may revoke a certificate if it was granted on the basis of inaccurate, incomplete or misleading information, and if the Commission revoke a certificate, the enforcement undertaking has effect as if the certificate had not been issued.
 
-#### 16. Appeals[^key-79073b921dcaaf4d327c7f7dc443d043]
+#### 16. Appeals[^c-79073b921dcaaf4d327c7f7dc443d043]
 
 (1) A person who has given an enforcement undertaking may appeal to a county court or (in Scotland) the sheriff against a decision not to issue a certificate under paragraph 15 on the ground that the decision was—
 
@@ -281,7 +281,7 @@ The Commission may publish any enforcement undertaking which they accept in what
 
 ## SCHEDULE 2 — Prescribed Offences, Restrictions and Requirements
 
-### PART 1 — Prescribed Offences[^key-cf4b9cb87633e33b03847c59c5502a8c]
+### PART 1 — Prescribed Offences[^c-cf4b9cb87633e33b03847c59c5502a8c]
 
 Article 4(1)
 
@@ -322,7 +322,7 @@ Article 4(1)
 | section 92(3)(a) | paying claim in respect of controlled expenditure where failure to comply with procedure |
 | section 92(3)(b) | paying claim in respect of controlled expenditure outside specified time period |
 | section 94(2) or (4) | exceeding limits on controlled expenditure |
-| section 94E(2) or (3)[^key-7f41c6b3cf2a31ce0ab79701e821b664] | exceeding limits on targeted controlled expenditure when not authorised |
+| section 94E(2) or (3)[^c-7f41c6b3cf2a31ce0ab79701e821b664] | exceeding limits on targeted controlled expenditure when not authorised |
 | section 95C(1)(a) | failure of responsible person to deliver quarterly or weekly report to Commission |
 | section 95C(1)(b) | failure to deliver signed declaration with quarterly or weekly report to the Commission |
 | section 95C(1)(c) | failure of responsible person to deliver statement of accounts and auditor’s report to Commission |
@@ -364,7 +364,7 @@ Article 4(1)
 | paragraph 6(2) of Schedule 19A | giving notification or report that fails to comply with requirements of that Schedule |
 | paragraph 13(1) of Schedule 19B[^f00021] | failure to comply with investigation requirement |
 
-### PART 2 — Prescribed Restrictions and Requirements[^key-a75da1e1006e478986e4828a738bab36]
+### PART 2 — Prescribed Restrictions and Requirements[^c-a75da1e1006e478986e4828a738bab36]
 
 Article 4(2)
 
@@ -377,7 +377,7 @@ Article 4(2)
 | section 74(6) | requirement for the treasurer to notify the Commission of change of details |
 | paragraph 4(1) and (3) of Schedule 6 | requirement to give details of the nature and value of a non-cash donation |
 
-### PART 3 — Prescribed restrictions or requirements for which party or organisation may be liable for actions of an office holder or responsible person[^key-ba4ebf002defe97821b9f8748cf1d484]
+### PART 3 — Prescribed restrictions or requirements for which party or organisation may be liable for actions of an office holder or responsible person[^c-ba4ebf002defe97821b9f8748cf1d484]
 
 Article 4(3)
 
@@ -430,15 +430,15 @@ An impact assessment of the effect of this instrument is annexed to the Explanat
 
 [^f00002]: Footnote: Section 156(4A) is inserted by section 3(4) of the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12).
 
-[^key-94ee8b109e5968f2dd88ff474f1f4954]: Modification: [Order](https://www.legislation.gov.uk/uksi/2010/2860) applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 50](https://www.legislation.gov.uk/ukpga/2022/37/section/50), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-94ee8b109e5968f2dd88ff474f1f4954]: Modification: [Order](https://www.legislation.gov.uk/uksi/2010/2860) applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 50](https://www.legislation.gov.uk/ukpga/2022/37/section/50), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
 
-[^key-6d33aacff284004e93df96664f67ec01]: Modification: Order applied (with modifications) (S.) (17.11.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 56](https://www.legislation.gov.uk/asp/2025/4/section/56), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+[^c-6d33aacff284004e93df96664f67ec01]: Modification: Order applied (with modifications) (S.) (17.11.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 56](https://www.legislation.gov.uk/asp/2025/4/section/56), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
 
-[^key-a2bdf1737e711b7b58079a4faa5c409f]: Commencement: Art. 1 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-a2bdf1737e711b7b58079a4faa5c409f]: Commencement: Art. 1 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-beb4855c9c083e3f9420cd0bd23022f9]: Commencement: Art. 2 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-beb4855c9c083e3f9420cd0bd23022f9]: Commencement: Art. 2 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-c87136ec1189a30f37a6d642ddfd6d4d]: Commencement: Art. 3 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-c87136ec1189a30f37a6d642ddfd6d4d]: Commencement: Art. 3 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
 [^f00003]: Footnote: “Fixed monetary penalty” is defined at paragraph 1(5) of Schedule 19C.
 
@@ -448,65 +448,65 @@ An impact assessment of the effect of this instrument is annexed to the Explanat
 
 [^f00006]: Footnote: “Enforcement undertaking” is defined at paragraph 15(1)(b) of Schedule 19C.
 
-[^key-390b43b728e1d1190dd3ffe4e38a3749]: Commencement: Art. 4 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-390b43b728e1d1190dd3ffe4e38a3749]: Commencement: Art. 4 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-cf111e8ab3e474ecb74bf38aa948469e]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2010/2860/article/4/1) inserted (14.2.2014) by [The Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) Order 2014 (S.I. 2014/335)](https://www.legislation.gov.uk/uksi/2014/335), [arts. 1](https://www.legislation.gov.uk/uksi/2014/335/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2014/335/article/2/1/a)
+[^c-cf111e8ab3e474ecb74bf38aa948469e]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2010/2860/article/4/1) inserted (14.2.2014) by [The Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) Order 2014 (S.I. 2014/335)](https://www.legislation.gov.uk/uksi/2014/335), [arts. 1](https://www.legislation.gov.uk/uksi/2014/335/article/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2014/335/article/2/1/a)
 
-[^key-7595c3a83e215cba716e5cd41325fc3c]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2010/2860/article/4/1) inserted (14.2.2014) by [The Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) Order 2014 (S.I. 2014/335)](https://www.legislation.gov.uk/uksi/2014/335), [arts. 1](https://www.legislation.gov.uk/uksi/2014/335/article/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2014/335/article/2/1/b)
+[^c-7595c3a83e215cba716e5cd41325fc3c]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2010/2860/article/4/1) inserted (14.2.2014) by [The Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) Order 2014 (S.I. 2014/335)](https://www.legislation.gov.uk/uksi/2014/335), [arts. 1](https://www.legislation.gov.uk/uksi/2014/335/article/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2014/335/article/2/1/b)
 
-[^key-efa13141fb7c5a3f86339d8e81704698]: Commencement: Art. 5 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-efa13141fb7c5a3f86339d8e81704698]: Commencement: Art. 5 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
 [^f00007]: Footnote: “The Commission” is defined in section 1(1) of the 2000 Act.
 
 [^f00008]: Footnote: “Variable monetary penalty” is defined at paragraph 5(7) of Schedule 19C.
 
-[^key-276adbe07b91b3c15d48608344168521]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2010/2860/article/5/1) inserted (14.2.2014) by [The Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) Order 2014 (S.I. 2014/335)](https://www.legislation.gov.uk/uksi/2014/335), [arts. 1](https://www.legislation.gov.uk/uksi/2014/335/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/335/article/3/2)
+[^c-276adbe07b91b3c15d48608344168521]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2010/2860/article/5/1) inserted (14.2.2014) by [The Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) Order 2014 (S.I. 2014/335)](https://www.legislation.gov.uk/uksi/2014/335), [arts. 1](https://www.legislation.gov.uk/uksi/2014/335/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/335/article/3/2)
 
-[^key-b873ae80253618615f6101c586c2b1f3]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2010/2860/article/5/2) inserted (14.2.2014) by [The Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) Order 2014 (S.I. 2014/335)](https://www.legislation.gov.uk/uksi/2014/335), [arts. 1](https://www.legislation.gov.uk/uksi/2014/335/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/335/article/3/3)
+[^c-b873ae80253618615f6101c586c2b1f3]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2010/2860/article/5/2) inserted (14.2.2014) by [The Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) Order 2014 (S.I. 2014/335)](https://www.legislation.gov.uk/uksi/2014/335), [arts. 1](https://www.legislation.gov.uk/uksi/2014/335/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/335/article/3/3)
 
-[^key-59eb8172fe882d46a542a26666ef7212]: Commencement: Art. 6 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-59eb8172fe882d46a542a26666ef7212]: Commencement: Art. 6 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
 [^f00009]: Footnote: “Non-compliance penalty” is defined at paragraph 9(1) of Schedule 19C.
 
-[^key-1c7b5bbb3277658d613f82ce80d28cd0]: Commencement: Art. 7 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-1c7b5bbb3277658d613f82ce80d28cd0]: Commencement: Art. 7 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-b00695a6f201c5e5638df526e6261a58]: Commencement: Art. 8 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-b00695a6f201c5e5638df526e6261a58]: Commencement: Art. 8 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-c4ba032ba9b68533da1df574c655ef9e]: Commencement: Sch. 1 para. 1 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-c4ba032ba9b68533da1df574c655ef9e]: Commencement: Sch. 1 para. 1 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-1c17ef31afe9c4c7c6f11aff13401de2]: Commencement: Sch. 1 para. 2 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-1c17ef31afe9c4c7c6f11aff13401de2]: Commencement: Sch. 1 para. 2 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-c84b06c324c81eab8249ba114cdb84f6]: Commencement: Sch. 1 para. 3 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-c84b06c324c81eab8249ba114cdb84f6]: Commencement: Sch. 1 para. 3 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-f52ac9f0ea4b628b9f8de7deb6282acc]: Commencement: Sch. 1 para. 4 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-f52ac9f0ea4b628b9f8de7deb6282acc]: Commencement: Sch. 1 para. 4 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-9d6ae58bce4dde0bc106dcaa775ee643]: Commencement: Sch. 1 para. 5 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-9d6ae58bce4dde0bc106dcaa775ee643]: Commencement: Sch. 1 para. 5 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-f6571508c1c622d87274aa1a51096918]: Commencement: Sch. 1 para. 6 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-f6571508c1c622d87274aa1a51096918]: Commencement: Sch. 1 para. 6 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-121b486fccac282bb10cd60e46b879ab]: Commencement: Sch. 1 para. 7 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-121b486fccac282bb10cd60e46b879ab]: Commencement: Sch. 1 para. 7 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-95edd163dff8fc2a4db6e0ec73f37944]: Commencement: Sch. 1 para. 8 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-95edd163dff8fc2a4db6e0ec73f37944]: Commencement: Sch. 1 para. 8 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-0e388197d1fa37287117e69c0d0d9f1d]: Commencement: Sch. 1 para. 9 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-0e388197d1fa37287117e69c0d0d9f1d]: Commencement: Sch. 1 para. 9 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-302eff3e8d256549ed31f29141eebec4]: Commencement: Sch. 1 para. 10 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-302eff3e8d256549ed31f29141eebec4]: Commencement: Sch. 1 para. 10 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
 [^f00010]: Footnote: “Completion certificate” is defined at paragraph12(1) of Schedule 19C.
 
-[^key-b650a1b71670f35b3a396b87626435c9]: Commencement: Sch. 1 para. 11 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-b650a1b71670f35b3a396b87626435c9]: Commencement: Sch. 1 para. 11 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-9666488a0ee3fcca231ad6bfd3918980]: Commencement: Sch. 1 para. 12 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-9666488a0ee3fcca231ad6bfd3918980]: Commencement: Sch. 1 para. 12 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-15faac3ad0c504359a664fec4c152f1c]: Commencement: Sch. 1 para. 13 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-15faac3ad0c504359a664fec4c152f1c]: Commencement: Sch. 1 para. 13 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-660fcd37ce2a623ae198da766e8edd2f]: Commencement: Sch. 1 para. 14 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-660fcd37ce2a623ae198da766e8edd2f]: Commencement: Sch. 1 para. 14 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-9f9b8e2a620520bdfdf91098a00a9eb5]: Commencement: Sch. 1 para. 15 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-9f9b8e2a620520bdfdf91098a00a9eb5]: Commencement: Sch. 1 para. 15 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-79073b921dcaaf4d327c7f7dc443d043]: Commencement: Sch. 1 para. 16 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-79073b921dcaaf4d327c7f7dc443d043]: Commencement: Sch. 1 para. 16 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
-[^key-cf4b9cb87633e33b03847c59c5502a8c]: Commencement: Sch. 2 Pt. 1 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-cf4b9cb87633e33b03847c59c5502a8c]: Commencement: Sch. 2 Pt. 1 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
 [^f00011]: Footnote: Section 24(8) is amended by paragraph 3 of the Schedule to [S.I. 2004/366](https://www.legislation.gov.uk/uksi/2004/366).
 
@@ -520,7 +520,7 @@ An impact assessment of the effect of this instrument is annexed to the Explanat
 
 [^f00016]: Footnote: Section 71S is inserted by section 61(1) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22) and subsections (4) and (5) are amended by section 13(4)(a) of the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12).
 
-[^key-7f41c6b3cf2a31ce0ab79701e821b664]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2010/2860/schedule/2/part/1) inserted (19.9.2014) by [The Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) (No.2) Order 2014 (S.I. 2014/2448)](https://www.legislation.gov.uk/uksi/2014/2448), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2448/article/1), [2](https://www.legislation.gov.uk/uksi/2014/2448/article/2)
+[^c-7f41c6b3cf2a31ce0ab79701e821b664]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2010/2860/schedule/2/part/1) inserted (19.9.2014) by [The Political Parties, Elections and Referendums (Civil Sanctions) (Amendment) (No.2) Order 2014 (S.I. 2014/2448)](https://www.legislation.gov.uk/uksi/2014/2448), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2448/article/1), [2](https://www.legislation.gov.uk/uksi/2014/2448/article/2)
 
 [^f00017]: Footnote: Paragraph 1B is inserted by section 14(3) of the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12).
 
@@ -532,12 +532,12 @@ An impact assessment of the effect of this instrument is annexed to the Explanat
 
 [^f00021]: Footnote: Schedule 19B is inserted by Schedule 1 to the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12).
 
-[^key-a75da1e1006e478986e4828a738bab36]: Commencement: Sch. 2 Pt. 2 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-a75da1e1006e478986e4828a738bab36]: Commencement: Sch. 2 Pt. 2 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
 [^f00022]: Footnote: Section 31(3A) is inserted by paragraph 6(b) of the Schedule to [S.I. 2004/366](https://www.legislation.gov.uk/uksi/2004/366).
 
 [^f00023]: Footnote: Section 34(3) is amended by paragraph 143(2) of Part 7 of Schedule 1 to the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-ba4ebf002defe97821b9f8748cf1d484]: Commencement: Sch. 2 Pt. 3 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
+[^c-ba4ebf002defe97821b9f8748cf1d484]: Commencement: Sch. 2 Pt. 3 in force at 1.12.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2860/article/1)
 
 [^f00024]: Footnote: Section 45(1) is amended by section 54 of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).

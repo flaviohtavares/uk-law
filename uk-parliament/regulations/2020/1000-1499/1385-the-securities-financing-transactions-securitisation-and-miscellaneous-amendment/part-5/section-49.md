@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018[^key-5cb4fde227cf6a957e7bc4d4af248913]
+## 49. The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018[^c-5cb4fde227cf6a957e7bc4d4af248913]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5cb4fde227cf6a957e7bc4d4af248913]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2020/1385/regulation/49) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-5cb4fde227cf6a957e7bc4d4af248913]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2020/1385/regulation/49) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00028]: Footnote: [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).
 

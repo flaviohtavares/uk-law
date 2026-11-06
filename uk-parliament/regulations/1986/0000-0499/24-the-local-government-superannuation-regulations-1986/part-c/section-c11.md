@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C11. Deduction and recovery of employee's contributions[^key-e5d6b49db51eae3b8674f5ca32f178ef]
+## C11. Deduction and recovery of employee's contributions[^c-e5d6b49db51eae3b8674f5ca32f178ef]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5d6b49db51eae3b8674f5ca32f178ef]: Commencement: [Reg. C11](https://www.legislation.gov.uk/uksi/1986/24/regulation/C11) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-e5d6b49db51eae3b8674f5ca32f178ef]: Commencement: [Reg. C11](https://www.legislation.gov.uk/uksi/1986/24/regulation/C11) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

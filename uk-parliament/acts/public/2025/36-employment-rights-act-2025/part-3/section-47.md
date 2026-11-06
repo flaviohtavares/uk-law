@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Effect of regulations ratifying agreement[^key-52f6943324f944069ba67ba4acbb0149][^key-b5669caaea58836d1e1ededfd76acfcd]
+## 47. Effect of regulations ratifying agreement[^c-52f6943324f944069ba67ba4acbb0149][^c-b5669caaea58836d1e1ededfd76acfcd]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52f6943324f944069ba67ba4acbb0149]: Commencement: S. 47 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-52f6943324f944069ba67ba4acbb0149]: Commencement: S. 47 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-b5669caaea58836d1e1ededfd76acfcd]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2025/36/section/47) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(17)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/17)
+[^c-b5669caaea58836d1e1ededfd76acfcd]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2025/36/section/47) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(17)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/17)

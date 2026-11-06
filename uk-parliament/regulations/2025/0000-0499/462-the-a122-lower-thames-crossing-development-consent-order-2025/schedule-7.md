@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-ea7d6b69e8e06cf16f2bd53f5a2bdd01]
+## SCHEDULE 7 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-ea7d6b69e8e06cf16f2bd53f5a2bdd01]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ Article 24
 
 ## Annotations
 
-[^key-ea7d6b69e8e06cf16f2bd53f5a2bdd01]: Commencement: Sch. 7 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-ea7d6b69e8e06cf16f2bd53f5a2bdd01]: Commencement: Sch. 7 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

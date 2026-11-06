@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Household packaging waste disposal fees: modulation[^key-853febf96b85fad05e21a83bd17e67e0]
+## 64. Household packaging waste disposal fees: modulation[^c-853febf96b85fad05e21a83bd17e67e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ for the purposes in paragraph (4).
 - (c) the recyclability of the packaging;
 - (d) the environmental impacts of the manufacture, transportation and use of the packaging;
 - (e) the environmental impact of the packaging when it becomes waste.
-- (f)[^key-a53e2f2ab9afbeec4be5dfb8f94557ed] whether the amount of packaging material used is no more than reasonably necessary to fulfil the purpose of the packaging.
+- (f)[^c-a53e2f2ab9afbeec4be5dfb8f94557ed] whether the amount of packaging material used is no more than reasonably necessary to fulfil the purpose of the packaging.
 
 (8) Where a liable producer has not provided sufficient information to enable the scheme administrator to determine for the purposes of paragraph (4)(a) the degree of environmental sustainability of all the household packaging supplied by that producer in a packaging category, the scheme administrator is to treat that packaging as having the same degree of environmental sustainability as the least environmentally sustainable household packaging in that packaging category.
 
@@ -77,6 +77,6 @@ for the purposes in paragraph (4).
 
 ## Annotations
 
-[^key-853febf96b85fad05e21a83bd17e67e0]: Commencement: Reg. 64 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-853febf96b85fad05e21a83bd17e67e0]: Commencement: Reg. 64 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-a53e2f2ab9afbeec4be5dfb8f94557ed]: Textual amendment: [Reg. 64(7)(f)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/64/7/f) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/7/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-a53e2f2ab9afbeec4be5dfb8f94557ed]: Textual amendment: [Reg. 64(7)(f)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/64/7/f) inserted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/7/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

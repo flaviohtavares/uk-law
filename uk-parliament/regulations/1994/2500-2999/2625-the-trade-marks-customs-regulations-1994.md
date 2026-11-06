@@ -42,23 +42,23 @@ Coming into force
 
 31st October 1994
 
-The Commissioners of Customs and Excise, in exercise of the powers conferred on them by section 90(1), (2) and (3) of the Trade Marks Act 1994[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:[^key-943f161c17e7d0e8331d6650dc2c16bf]
+The Commissioners of Customs and Excise, in exercise of the powers conferred on them by section 90(1), (2) and (3) of the Trade Marks Act 1994[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:[^c-943f161c17e7d0e8331d6650dc2c16bf]
 
-**1.**[^key-a03b2223a26a7c55c001289c857da5ff] These Regulations may be cited as the Trade Marks (Customs) Regulations 1994 and shall come into force on 31st October 1994.
+**1.**[^c-a03b2223a26a7c55c001289c857da5ff] These Regulations may be cited as the Trade Marks (Customs) Regulations 1994 and shall come into force on 31st October 1994.
 
-**2.**[^key-ceb0731dfcc0d8ee40f1d3eeb0fd4dc6] If notice is given under section 89(1) of The Trade Marks Act 1994 by the proprietor or licensee of a registered trade mark in respect of certain goods it shall be in the form set out in the Schedule to these Regulations or a form to the like effect approved by the Commissioners; and separate notices shall be given in respect of each arrival of such goods.
+**2.**[^c-ceb0731dfcc0d8ee40f1d3eeb0fd4dc6] If notice is given under section 89(1) of The Trade Marks Act 1994 by the proprietor or licensee of a registered trade mark in respect of certain goods it shall be in the form set out in the Schedule to these Regulations or a form to the like effect approved by the Commissioners; and separate notices shall be given in respect of each arrival of such goods.
 
-**3.**[^key-0e6ffe6b75b02c10a1b1d99162db2f9f] A fee of £30 (plus value added tax) in respect of each notice shall be paid to the Commissioners at the time it is given.
+**3.**[^c-0e6ffe6b75b02c10a1b1d99162db2f9f] A fee of £30 (plus value added tax) in respect of each notice shall be paid to the Commissioners at the time it is given.
 
-**4.**[^key-0ba7c5766f753a70ff616e758fb4ac21] The person giving the notice shall give to the Commissioners such security or further security within such time and in such manner, whether by deposit of a sum of money or guarantee, as the Commissioners may require, in respect of any liability or expense which they may incur in consequence of the notice by reason of the detention of any goods or anything done to goods so detained: and if such security or further security is not given within the time specified by the Commissioners, then (but without prejudice to the operation of regulation 5 below) the notice shall have no effect.
+**4.**[^c-0ba7c5766f753a70ff616e758fb4ac21] The person giving the notice shall give to the Commissioners such security or further security within such time and in such manner, whether by deposit of a sum of money or guarantee, as the Commissioners may require, in respect of any liability or expense which they may incur in consequence of the notice by reason of the detention of any goods or anything done to goods so detained: and if such security or further security is not given within the time specified by the Commissioners, then (but without prejudice to the operation of regulation 5 below) the notice shall have no effect.
 
-**5.**[^key-37decdc570c5af3ea4c60bace53b768d] In every case, whether any security or further security is given or not, the person who has given the notice shall keep the Commissioners indemnified against all such liability and expense as is mentioned in regulation 4 above.
+**5.**[^c-37decdc570c5af3ea4c60bace53b768d] In every case, whether any security or further security is given or not, the person who has given the notice shall keep the Commissioners indemnified against all such liability and expense as is mentioned in regulation 4 above.
 
-**6.**[^key-83fd7063d5c7d0c59d7e6c34b121cf52] (1) The person giving the notice shall, either on giving notice or when the goods are imported, furnish the Commissioners with the certificate of registration (or a copy of it) issued by the Registrar of Trade Marks on the registration of the trade mark specified in the notice, together with evidence that such registration was duly renewed at all such times as it may have expired.
+**6.**[^c-83fd7063d5c7d0c59d7e6c34b121cf52] (1) The person giving the notice shall, either on giving notice or when the goods are imported, furnish the Commissioners with the certificate of registration (or a copy of it) issued by the Registrar of Trade Marks on the registration of the trade mark specified in the notice, together with evidence that such registration was duly renewed at all such times as it may have expired.
 
 (2) If such a certificate or copy and, where applicable, evidence of renewal is not furnished in accordance with paragraph (1) above then the goods shall not be detained, or, if detained, shall be released, and (but without prejudice to the operation of regulation 5 above) any notice given in respect of them shall have no effect.
 
-**7.**[^key-39db2084a3c53a0b21c4ecfbb8a24817] The Trade Marks (Customs) Regulations 1970[^f00002] are hereby revoked.
+**7.**[^c-39db2084a3c53a0b21c4ecfbb8a24817] The Trade Marks (Customs) Regulations 1970[^f00002] are hereby revoked.
 
 Leonard Harris
 
@@ -72,17 +72,17 @@ London SE1 9PJ.
 
 ## SCHEDULE — NOTICE UNDER SECTION 89 TRADE MARKS ACT 1994 REQUESTING INFRINGING GOODS, MATERIAL OR ARTICLES TO BE TREATED AS PROHIBITED GOODS
 
-### 1. Please read these notes before completing this notice[^key-d39d107f0f49aeba6a034a52054d71ee]
+### 1. Please read these notes before completing this notice[^c-d39d107f0f49aeba6a034a52054d71ee]
 
 This notice may only be given by the proprietor of a registered trade mark, or a licensee. A separate notice must be given in respect of each consignment.
 
-**2.**[^key-463eb8d2c918fc526b25ff0e38d9205f] Please note that in Part 3 it is not mandatory to provide details other than the time and place of expected arrival of infringing goods but it will greatly increase the prospect of intercepting the consignment concerned if all the details requested are given.
+**2.**[^c-463eb8d2c918fc526b25ff0e38d9205f] Please note that in Part 3 it is not mandatory to provide details other than the time and place of expected arrival of infringing goods but it will greatly increase the prospect of intercepting the consignment concerned if all the details requested are given.
 
-**3.**[^key-8646a3c6bc39513328651dad7fa4c756] A fee of £30 (plus VAT) is payable for each notice given. Please enclose a cheque for the required amount, made payable to “Commissioners of Customs and Excise”.
+**3.**[^c-8646a3c6bc39513328651dad7fa4c756] A fee of £30 (plus VAT) is payable for each notice given. Please enclose a cheque for the required amount, made payable to “Commissioners of Customs and Excise”.
 
-**4.**[^key-ce1210b7c640eeaa3cceb36121ad1e05] A copy of the certificate of registration for the trade mark, as well as the certificate of renewal (where applicable), is to be enclosed with the notice, **or** submitted when the goods are imported.
+**4.**[^c-ce1210b7c640eeaa3cceb36121ad1e05] A copy of the certificate of registration for the trade mark, as well as the certificate of renewal (where applicable), is to be enclosed with the notice, **or** submitted when the goods are imported.
 
-**5.**[^key-c6834eb1db3e1dba234f92f29e20294a] The person who has given notice shall keep the Commissioners of Customs and Excise indemnified against any liability or expense which they may incur in consequence of the notice by reason of the detention of any goods or anything done to goods detained. The person giving the notice may be required to provide a security to cover this indemnity.
+**5.**[^c-c6834eb1db3e1dba234f92f29e20294a] The person who has given notice shall keep the Commissioners of Customs and Excise indemnified against any liability or expense which they may incur in consequence of the notice by reason of the detention of any goods or anything done to goods detained. The person giving the notice may be required to provide a security to cover this indemnity.
 
 [image: see source](https://www.legislation.gov.uk/uksi/1994/2625/images/uksi_19942625_en_001) [image: see source](https://www.legislation.gov.uk/uksi/1994/2625/images/uksi_19942625_en_002)
 
@@ -100,33 +100,33 @@ The Regulations revoke The Trade Marks (Customs) Regulations 1970[^f00004] made 
 
 [^f00001]: Footnote: [1994 (c. 26)](https://www.legislation.gov.uk/ukpga/1994/26).
 
-[^key-943f161c17e7d0e8331d6650dc2c16bf]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1994/2625) modified (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 5 para. 18](https://www.legislation.gov.uk/uksi/2019/638/schedule/5/paragraph/18); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-943f161c17e7d0e8331d6650dc2c16bf]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1994/2625) modified (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 5 para. 18](https://www.legislation.gov.uk/uksi/2019/638/schedule/5/paragraph/18); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a03b2223a26a7c55c001289c857da5ff]: Commencement: Reg. 1 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
+[^c-a03b2223a26a7c55c001289c857da5ff]: Commencement: Reg. 1 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
 
-[^key-ceb0731dfcc0d8ee40f1d3eeb0fd4dc6]: Commencement: Reg. 2 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
+[^c-ceb0731dfcc0d8ee40f1d3eeb0fd4dc6]: Commencement: Reg. 2 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
 
-[^key-0e6ffe6b75b02c10a1b1d99162db2f9f]: Commencement: Reg. 3 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
+[^c-0e6ffe6b75b02c10a1b1d99162db2f9f]: Commencement: Reg. 3 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
 
-[^key-0ba7c5766f753a70ff616e758fb4ac21]: Commencement: Reg. 4 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
+[^c-0ba7c5766f753a70ff616e758fb4ac21]: Commencement: Reg. 4 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
 
-[^key-37decdc570c5af3ea4c60bace53b768d]: Commencement: Reg. 5 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
+[^c-37decdc570c5af3ea4c60bace53b768d]: Commencement: Reg. 5 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
 
-[^key-83fd7063d5c7d0c59d7e6c34b121cf52]: Commencement: Reg. 6 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
+[^c-83fd7063d5c7d0c59d7e6c34b121cf52]: Commencement: Reg. 6 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
 
-[^key-39db2084a3c53a0b21c4ecfbb8a24817]: Commencement: Reg. 7 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
+[^c-39db2084a3c53a0b21c4ecfbb8a24817]: Commencement: Reg. 7 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
 
 [^f00002]: Footnote: S.I. [1970/212](https://www.legislation.gov.uk/uksi/1970/212).
 
-[^key-d39d107f0f49aeba6a034a52054d71ee]: Commencement: Sch. para. 1 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
+[^c-d39d107f0f49aeba6a034a52054d71ee]: Commencement: Sch. para. 1 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
 
-[^key-463eb8d2c918fc526b25ff0e38d9205f]: Commencement: Sch. para. 2 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
+[^c-463eb8d2c918fc526b25ff0e38d9205f]: Commencement: Sch. para. 2 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
 
-[^key-8646a3c6bc39513328651dad7fa4c756]: Commencement: Sch. para. 3 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
+[^c-8646a3c6bc39513328651dad7fa4c756]: Commencement: Sch. para. 3 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
 
-[^key-ce1210b7c640eeaa3cceb36121ad1e05]: Commencement: Sch. para. 4 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
+[^c-ce1210b7c640eeaa3cceb36121ad1e05]: Commencement: Sch. para. 4 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
 
-[^key-c6834eb1db3e1dba234f92f29e20294a]: Commencement: Sch. para. 5 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
+[^c-c6834eb1db3e1dba234f92f29e20294a]: Commencement: Sch. para. 5 in force at 31.10.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/2625/regulation/1)
 
 [^f00003]: Footnote: [1994 (c. 26)](https://www.legislation.gov.uk/ukpga/1994/26).
 

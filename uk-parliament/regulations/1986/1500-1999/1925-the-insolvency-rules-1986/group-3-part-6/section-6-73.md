@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.73. General duty of official receiver[^key-234567e670a24def12c2bcfb92a7675b]
+## 6.73. General duty of official receiver[^c-234567e670a24def12c2bcfb92a7675b]
 
 *Extent: E+W*
 
-(1)[^key-174db35e42a0e9613ad1ba9cca3b10fa] In accordance with this Chapter, the official receiver shall, at least once after the making of the bankruptcy order, send a report to creditors with respect to the bankruptcy proceedings, and the state of the bankrupt's affairs.
+(1)[^c-174db35e42a0e9613ad1ba9cca3b10fa] In accordance with this Chapter, the official receiver shall, at least once after the making of the bankruptcy order, send a report to creditors with respect to the bankruptcy proceedings, and the state of the bankrupt's affairs.
 
-(2)[^key-b61d5c0973be6cb288ca6e4c345bca0f] The official receiver shall file in court a copy of any report sent under this Chapter.
+(2)[^c-b61d5c0973be6cb288ca6e4c345bca0f] The official receiver shall file in court a copy of any report sent under this Chapter.
 
 ## Annotations
 
-[^key-234567e670a24def12c2bcfb92a7675b]: Commencement: [Rule 6.73](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.73) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-234567e670a24def12c2bcfb92a7675b]: Commencement: [Rule 6.73](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.73) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-174db35e42a0e9613ad1ba9cca3b10fa]: Textual amendment: [Rule 6](https://www.legislation.gov.uk/uksi/1986/1925/rule/6).73 renumbered as rule 6.73(1) (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. para. 105](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/105)
+[^c-174db35e42a0e9613ad1ba9cca3b10fa]: Textual amendment: [Rule 6](https://www.legislation.gov.uk/uksi/1986/1925/rule/6).73 renumbered as rule 6.73(1) (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. para. 105](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/105)
 
-[^key-b61d5c0973be6cb288ca6e4c345bca0f]: Textual amendment: [Rule 6.73(2)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.73/2) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 105](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/105)
+[^c-b61d5c0973be6cb288ca6e4c345bca0f]: Textual amendment: [Rule 6.73(2)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.73/2) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 105](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/105)

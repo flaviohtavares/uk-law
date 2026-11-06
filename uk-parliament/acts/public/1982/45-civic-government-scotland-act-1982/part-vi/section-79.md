@@ -22,10 +22,10 @@ summary: ''
 
 In this Part of this Act—
 
-- “[^key-867b6efc85a967e799d72162b7d1913c]**chief constable**” means the chief constable of the Police Service of Scotland;
+- “[^c-867b6efc85a967e799d72162b7d1913c]**chief constable**” means the chief constable of the Police Service of Scotland;
 - “**finder**” has the meaning given by section 67 of this Act;
 - “**previous owner**” has the meaning given by section 71(2) of this Act.
 
 ## Annotations
 
-[^key-867b6efc85a967e799d72162b7d1913c]: Textual amendment: Words in s. 79 substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 6(6)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/6/6); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-867b6efc85a967e799d72162b7d1913c]: Textual amendment: Words in s. 79 substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 6(6)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/6/6); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Assignment of 2.6 GHz concurrent low power 10 MHz lots in the case where 2.6 GHz paired frequency lots were included in more than one winning principal stage bid[^key-b7b7998e026ec51b2cc59e407d352408]
+## 84. Assignment of 2.6 GHz concurrent low power 10 MHz lots in the case where 2.6 GHz paired frequency lots were included in more than one winning principal stage bid[^c-b7b7998e026ec51b2cc59e407d352408]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7b7998e026ec51b2cc59e407d352408]: Commencement: Reg. 84 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-b7b7998e026ec51b2cc59e407d352408]: Commencement: Reg. 84 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

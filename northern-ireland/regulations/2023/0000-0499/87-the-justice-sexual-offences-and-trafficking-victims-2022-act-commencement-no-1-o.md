@@ -37,11 +37,11 @@ Made
 
 The Department of Justice makes the following order in exercise of the power conferred by section 30(2) of the Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022[^f00001].
 
-## 1. Citation[^key-5cf0f9565db548ebe27b4b720bce9c7d]
+## 1. Citation[^c-5cf0f9565db548ebe27b4b720bce9c7d]
 
 This order may be cited as the Justice (Sexual Offences and Trafficking Victims) (2022 Act) (Commencement No.1) Order (Northern Ireland) 2023.
 
-## 2. Appointed day[^key-682a910fa9baec985b2d283f895bd090]
+## 2. Appointed day[^c-682a910fa9baec985b2d283f895bd090]
 
 The following provisions of the Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 come into operation on 26th June 2023 -
 
@@ -71,6 +71,6 @@ Schedule 4 to the Act makes a range of consequential amendments in light of the 
 
 [^f00001]: Footnote: [2022 c.19 (N.I.)](https://www.legislation.gov.uk/nia/2022/19)
 
-[^key-5cf0f9565db548ebe27b4b720bce9c7d]: Commencement: Art. 1 in operation at made date
+[^c-5cf0f9565db548ebe27b4b720bce9c7d]: Commencement: Art. 1 in operation at made date
 
-[^key-682a910fa9baec985b2d283f895bd090]: Commencement: Art. 2 in operation at made date
+[^c-682a910fa9baec985b2d283f895bd090]: Commencement: Art. 2 in operation at made date

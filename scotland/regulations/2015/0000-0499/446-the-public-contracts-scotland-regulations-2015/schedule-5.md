@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 5 — PROFESSIONAL AND TRADE REGISTERS ETC.[^key-74c845beba7b605891a54843e513386c]
+## SCHEDULE 5 — PROFESSIONAL AND TRADE REGISTERS ETC.[^c-74c845beba7b605891a54843e513386c]
 
 *Extent: S*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Regulations 59(5)
 
-[^key-74c845beba7b605891a54843e513386c]
+[^c-74c845beba7b605891a54843e513386c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-74c845beba7b605891a54843e513386c]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ssi/2015/446/schedule/5) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(62)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/62) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-74c845beba7b605891a54843e513386c]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ssi/2015/446/schedule/5) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(62)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/62) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

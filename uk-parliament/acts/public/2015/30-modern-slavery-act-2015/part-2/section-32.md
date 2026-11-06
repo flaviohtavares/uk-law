@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Rules of court[^key-280cd3a31b4de8ff85c1eb143fe8b854]
+## 32. Rules of court[^c-280cd3a31b4de8ff85c1eb143fe8b854]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-280cd3a31b4de8ff85c1eb143fe8b854]: Commencement: S. 32 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)
+[^c-280cd3a31b4de8ff85c1eb143fe8b854]: Commencement: S. 32 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)

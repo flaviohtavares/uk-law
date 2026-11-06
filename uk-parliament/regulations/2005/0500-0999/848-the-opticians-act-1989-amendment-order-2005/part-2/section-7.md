@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Register of optometrists[^key-033f28327145466d327baca43bd70996]
+## 7. Register of optometrists[^c-033f28327145466d327baca43bd70996]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-033f28327145466d327baca43bd70996]: Commencement: Art. 7 comes into force in accordance with art. 1(3)-(6)
+[^c-033f28327145466d327baca43bd70996]: Commencement: Art. 7 comes into force in accordance with art. 1(3)-(6)

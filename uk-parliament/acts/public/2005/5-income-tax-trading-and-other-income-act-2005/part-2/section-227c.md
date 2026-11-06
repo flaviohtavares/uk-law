@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227C. Application of Chapter where section 227B applies[^key-6919cea515a53a0407e91dd754f74caf]
+## 227C. Application of Chapter where section 227B applies[^c-6919cea515a53a0407e91dd754f74caf]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6919cea515a53a0407e91dd754f74caf]: Textual amendment: Ss. 227B, 227C inserted (16.11.2017) (with effect in accordance with Sch. 3 para. 13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2017/32/schedule/3/paragraph/7)
+[^c-6919cea515a53a0407e91dd754f74caf]: Textual amendment: Ss. 227B, 227C inserted (16.11.2017) (with effect in accordance with Sch. 3 para. 13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2017/32/schedule/3/paragraph/7)

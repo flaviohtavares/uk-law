@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357RG. Use of losses in later periods[^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357RG. Use of losses in later periods[^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,12 +34,12 @@ and references to losses in subsections (3) and (6) of that section are to be re
 - (a) any Northern Ireland losses of the trade of the period, or
 - (b) any mainstream losses of the trade of the period;
 
-and references to losses in subsections (5) , (5A)[^key-394896776465d0cbdc845004193b4597] and (6) of that section are to be read accordingly.
+and references to losses in subsections (5) , (5A)[^c-394896776465d0cbdc845004193b4597] and (6) of that section are to be read accordingly.
 
 (4) Subsection (6) of that section has effect, in relation to Northern Ireland losses, as if the reference to an additional deduction under Chapter 3 of Part 15 of that Act included a reference to a Northern Ireland supplementary deduction under this Chapter.
 
 ## Annotations
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
 
-[^key-394896776465d0cbdc845004193b4597]: Textual amendment: Words in s. 357RG(3) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 99](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/99)
+[^c-394896776465d0cbdc845004193b4597]: Textual amendment: Words in s. 357RG(3) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 99](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/99)

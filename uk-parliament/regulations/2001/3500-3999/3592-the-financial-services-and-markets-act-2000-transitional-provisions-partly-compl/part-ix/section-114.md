@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Task of the banking appeal tribunal in relation to a transitional Banking Act appeal[^key-1cf986bc1d95c372ab5f82583e16ea33]
+## 114. Task of the banking appeal tribunal in relation to a transitional Banking Act appeal[^c-1cf986bc1d95c372ab5f82583e16ea33]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ in the manner most appropriate to give effect to the determination of, and any d
 
 ## Annotations
 
-[^key-1cf986bc1d95c372ab5f82583e16ea33]: Commencement: Art. 114 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-1cf986bc1d95c372ab5f82583e16ea33]: Commencement: Art. 114 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

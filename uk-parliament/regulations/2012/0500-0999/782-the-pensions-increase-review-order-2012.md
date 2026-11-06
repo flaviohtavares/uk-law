@@ -48,11 +48,11 @@ In accordance with section 151(1) of the Social Security Administration Act 1992
 
 The Treasury now make the following Order in exercise of the powers conferred by section 59(1), (2), (5) and (5ZA) of the Social Security Pensions Act 1975[^f00004] and now vested in them[^f00005]:
 
-## 1. Citation and Commencement[^key-0c4c4da3dfdfadf074893b2a315a7b01]
+## 1. Citation and Commencement[^c-0c4c4da3dfdfadf074893b2a315a7b01]
 
 This Order may be cited as the Pensions Increase (Review) Order 2012 and comes into force on 9th April 2012.
 
-## 2. Interpretation[^key-a3183302c2079ce46939b6851711f97b]
+## 2. Interpretation[^c-a3183302c2079ce46939b6851711f97b]
 
 (1) In this Order—
 
@@ -69,7 +69,7 @@ This Order may be cited as the Pensions Increase (Review) Order 2012 and comes i
 
 (3) Where, for the purposes of this Order, it is necessary to calculate the number of complete months in any period an incomplete month shall be treated as a complete month if it consists of at least 16 days.
 
-## 3. Pension increases[^key-aa8ab48f132fde1ad4c40adfd0127e25]
+## 3. Pension increases[^c-aa8ab48f132fde1ad4c40adfd0127e25]
 
 (1) The pension authority may, if any of the conditions in paragraph (2) are fulfilled, increase the annual rate of an official pension in respect of any period on or after 9th April 2012 as follows—
 
@@ -91,7 +91,7 @@ This Order may be cited as the Pensions Increase (Review) Order 2012 and comes i
   - (ii) a substituted pension; or
   - (iii) a relevant injury pension.
 
-## 4. Increases in certain lump sums[^key-4cc42e98ca72fbea1722a73a9503b0ba]
+## 4. Increases in certain lump sums[^c-4cc42e98ca72fbea1722a73a9503b0ba]
 
 (1) This article applies to any lump sum or instalment of a lump sum which became payable on or after 11th April 2011 but before 9th April 2012.
 
@@ -104,7 +104,7 @@ where
 - (a) A is the number of complete months in the period between the beginning date for the lump sum or, if later, 11th April 2011 and the date on which it became payable; and
 - (b) B is 12.
 
-## 5. Reductions in respect of guaranteed minimum pensions[^key-bdb1d920d140d99fe256d0bc0945fc0f]
+## 5. Reductions in respect of guaranteed minimum pensions[^c-bdb1d920d140d99fe256d0bc0945fc0f]
 
 The amount by reference to which any increase in the rate of an official pension provided for by this Order is to be calculated shall, in the case of a person—
 
@@ -113,7 +113,7 @@ The amount by reference to which any increase in the rate of an official pension
 
 be reduced by an amount equal to the rate of the guaranteed minimum pension unless the Treasury[^f00013] otherwise direct, in accordance with the provisions of section 59A of the 1975 Act.
 
-## 6.[^key-f65a3044167e919699fd355b768f3c24]
+## 6.[^c-f65a3044167e919699fd355b768f3c24]
 
 The amount by reference to which any increase in the rate of a surviving spouse’s or surviving civil partner’s pension provided for by this Order is to be calculated shall, where the pensioner becomes entitled on the death of the deceased spouse or deceased civil partner to a guaranteed minimum pension, be reduced in accordance with section 59(5ZA) of the 1975 Act.
 
@@ -166,9 +166,9 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00005]: Footnote: By virtue of article 2(1)(c) and (d) of the Transfer of Functions (Minister for the Civil Service and Treasury) Order 1981 ([S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670)).
 
-[^key-0c4c4da3dfdfadf074893b2a315a7b01]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/782/article/1) in force at 9.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/782/article/1)
+[^c-0c4c4da3dfdfadf074893b2a315a7b01]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/782/article/1) in force at 9.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/782/article/1)
 
-[^key-a3183302c2079ce46939b6851711f97b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/782/article/2) in force at 9.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/782/article/1)
+[^c-a3183302c2079ce46939b6851711f97b]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/782/article/2) in force at 9.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/782/article/1)
 
 [^f00006]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
@@ -184,12 +184,12 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00012]: Footnote: Section 8(2) was amended by the Pensions (Miscellaneous Provisions) Act [1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7) section 1(5) and by the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), sections 39(1) and (4).
 
-[^key-aa8ab48f132fde1ad4c40adfd0127e25]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/782/article/3) in force at 9.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/782/article/1)
+[^c-aa8ab48f132fde1ad4c40adfd0127e25]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/782/article/3) in force at 9.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/782/article/1)
 
-[^key-4cc42e98ca72fbea1722a73a9503b0ba]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/782/article/4) in force at 9.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/782/article/1)
+[^c-4cc42e98ca72fbea1722a73a9503b0ba]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/782/article/4) in force at 9.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/782/article/1)
 
-[^key-bdb1d920d140d99fe256d0bc0945fc0f]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/782/article/5) in force at 9.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/782/article/1)
+[^c-bdb1d920d140d99fe256d0bc0945fc0f]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/782/article/5) in force at 9.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/782/article/1)
 
 [^f00013]: Footnote: [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
 
-[^key-f65a3044167e919699fd355b768f3c24]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2012/782/article/6) substituted: (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 56(u)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/56/u); and (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 35](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/35)
+[^c-f65a3044167e919699fd355b768f3c24]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2012/782/article/6) substituted: (E.W.) (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 56(u)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/56/u); and (S.) (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [Sch. 6 para. 35](https://www.legislation.gov.uk/uksi/2014/3229/schedule/6/paragraph/35)

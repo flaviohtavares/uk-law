@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Meaning of work and at work.[^c7813571][^c7813582][^c18643221][^c20459721][^key-0fe72d9a6077d9cfd7b83aac041509d3][^key-8d40c88b0a0319dc81753e7a8dc73bf1][^key-e7294dca4d75cba999cd802287726b57]
+## 52. Meaning of work and at work.[^c7813571][^c7813582][^c18643221][^c20459721][^c-0fe72d9a6077d9cfd7b83aac041509d3][^c-8d40c88b0a0319dc81753e7a8dc73bf1][^c-e7294dca4d75cba999cd802287726b57]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-fda1ff68185f48f25de65a315ce7d63a] For the purposes of this Part—
+(1)[^c-fda1ff68185f48f25de65a315ce7d63a] For the purposes of this Part—
 
 - (a) “**work**” means work as an employee or as a self-employed person;
 - (b) an employee is at work throughout the time when he is in the course of his employment, but not otherwise;
@@ -31,7 +31,7 @@ and, subject to the following subsection, the expressions “work” and “at w
 
 (2) Regulations made under this subsection may—
 
-- (a)[^key-3c07fb2bb9a40fc6a8f4c57f98289a2e] extend the meaning of “**work**” and “**at work**” for the purposes of this Part; and
+- (a)[^c-3c07fb2bb9a40fc6a8f4c57f98289a2e] extend the meaning of “**work**” and “**at work**” for the purposes of this Part; and
 - (b) in that connection provide for any of the relevant statutory provisions to have effect subject to such adaptations as may be specified in the regulations.
 
 (3)[^c7813601] The power to make regulations under subsection (2) above shall be exercisable by the Secretary of State [^c7813611] . . ..
@@ -46,17 +46,17 @@ and, subject to the following subsection, the expressions “work” and “at w
 
 [^c20459721]: Modification: Ss. 1-59, 80-82 applied (temp.) (5.8.2009) by The Health and Safety at [Work etc. Act 1974 (Application outside Great Britain) Order 2001 (S.I. 2001/2127)](https://www.legislation.gov.uk/uksi/2001/2127), [arts. 8A](https://www.legislation.gov.uk/uksi/2001/2127/article/8A), [8B](https://www.legislation.gov.uk/uksi/2001/2127/article/8B) (as inserted by [S.I. 2009/1750](https://www.legislation.gov.uk/uksi/2009/1750), [art. 2(3)](https://www.legislation.gov.uk/uksi/2009/1750/article/2/3))
 
-[^key-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
+[^c-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
 
-[^key-8d40c88b0a0319dc81753e7a8dc73bf1]: Modification: S. 52 extended (6.4.2022) by [S.I. 1992/2966](https://www.legislation.gov.uk/uksi/1992/2966), [reg. 3A](https://www.legislation.gov.uk/uksi/1992/2966/regulation/3A) (as inserted by [The Personal Protective Equipment at Work (Amendment) Regulations 2022 (S.I. 2022/8)](https://www.legislation.gov.uk/uksi/2022/8), [regs. 1](https://www.legislation.gov.uk/uksi/2022/8/regulation/1), [5](https://www.legislation.gov.uk/uksi/2022/8/regulation/5))
+[^c-8d40c88b0a0319dc81753e7a8dc73bf1]: Modification: S. 52 extended (6.4.2022) by [S.I. 1992/2966](https://www.legislation.gov.uk/uksi/1992/2966), [reg. 3A](https://www.legislation.gov.uk/uksi/1992/2966/regulation/3A) (as inserted by [The Personal Protective Equipment at Work (Amendment) Regulations 2022 (S.I. 2022/8)](https://www.legislation.gov.uk/uksi/2022/8), [regs. 1](https://www.legislation.gov.uk/uksi/2022/8/regulation/1), [5](https://www.legislation.gov.uk/uksi/2022/8/regulation/5))
 
-[^key-e7294dca4d75cba999cd802287726b57]: Modification: Pt. 1 modified (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/3) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-e7294dca4d75cba999cd802287726b57]: Modification: Pt. 1 modified (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/3) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
-[^key-fda1ff68185f48f25de65a315ce7d63a]: Modification: S. 52(1) applied (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 112(2)(a)](https://www.legislation.gov.uk/ukpga/2013/32/section/112/2/a), [156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1) (with [ss. 107](https://www.legislation.gov.uk/ukpga/2013/32/section/107), [111](https://www.legislation.gov.uk/ukpga/2013/32/section/111)); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-fda1ff68185f48f25de65a315ce7d63a]: Modification: S. 52(1) applied (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 112(2)(a)](https://www.legislation.gov.uk/ukpga/2013/32/section/112/2/a), [156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1) (with [ss. 107](https://www.legislation.gov.uk/ukpga/2013/32/section/107), [111](https://www.legislation.gov.uk/ukpga/2013/32/section/111)); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
 [^c7813591]: Textual amendment: S. 52(1)(bb) substituted for word in s. 52(1)(b) (E.W.S.) (1.7.1998) by [1997 c. 42](https://www.legislation.gov.uk/ukpga/1997/42), [s. 2](https://www.legislation.gov.uk/ukpga/1997/42/section/2); [S.I. 1998/1542](https://www.legislation.gov.uk/uksi/1998/1542), [art. 2](https://www.legislation.gov.uk/uksi/1998/1542/article/2)
 
-[^key-3c07fb2bb9a40fc6a8f4c57f98289a2e]: Modification: S. 52(2)(a) applied (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 112(2)(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/112/2/b), [156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1) (with [ss. 107](https://www.legislation.gov.uk/ukpga/2013/32/section/107), [111](https://www.legislation.gov.uk/ukpga/2013/32/section/111)); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-3c07fb2bb9a40fc6a8f4c57f98289a2e]: Modification: S. 52(2)(a) applied (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 112(2)(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/112/2/b), [156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1) (with [ss. 107](https://www.legislation.gov.uk/ukpga/2013/32/section/107), [111](https://www.legislation.gov.uk/ukpga/2013/32/section/111)); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
 [^c7813601]: Textual amendment: S. 52(3) substituted for s. 52(3)(4) by [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Sch. 15 para. 17](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15/paragraph/17)
 

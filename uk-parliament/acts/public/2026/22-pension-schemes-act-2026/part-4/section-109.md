@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Indexation of periodic compensation for pre-1997 service: Great Britain[^key-18b24472a5ff870c18fda2f024ba661b]
+## 109. Indexation of periodic compensation for pre-1997 service: Great Britain[^c-18b24472a5ff870c18fda2f024ba661b]
 
 *Extent: E+W+S*
 
@@ -229,4 +229,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18b24472a5ff870c18fda2f024ba661b]: Commencement: S. 109 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-18b24472a5ff870c18fda2f024ba661b]: Commencement: S. 109 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

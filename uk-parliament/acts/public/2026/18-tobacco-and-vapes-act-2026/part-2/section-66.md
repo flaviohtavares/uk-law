@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Alignment of definition of “filter” etc[^key-b8c0e9c9181e25eed97f0e981772b912]
+## 66. Alignment of definition of “filter” etc[^c-b8c0e9c9181e25eed97f0e981772b912]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8c0e9c9181e25eed97f0e981772b912]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2026/18/section/66) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-b8c0e9c9181e25eed97f0e981772b912]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2026/18/section/66) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

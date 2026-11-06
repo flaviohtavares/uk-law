@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Powers of disposal, agreements for operation, etc.[^key-314edea102357bee56d0db437de3cb67]
+## 38. Powers of disposal, agreements for operation, etc.[^c-314edea102357bee56d0db437de3cb67]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-314edea102357bee56d0db437de3cb67]: Commencement: Art. 38 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-314edea102357bee56d0db437de3cb67]: Commencement: Art. 38 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
 [^f00045]: Footnote: [1999 c.29](https://www.legislation.gov.uk/ukpga/1999/29).

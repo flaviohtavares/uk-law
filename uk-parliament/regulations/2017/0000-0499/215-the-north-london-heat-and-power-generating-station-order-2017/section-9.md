@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Defence to proceedings in respect of statutory nuisance[^key-7a80892a18271c83f7d490dd20c98741]
+## 9. Defence to proceedings in respect of statutory nuisance[^c-7a80892a18271c83f7d490dd20c98741]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7a80892a18271c83f7d490dd20c98741]: Commencement: Art. 9 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-7a80892a18271c83f7d490dd20c98741]: Commencement: Art. 9 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
 
 [^f00012]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). Subsection (1) of section 79 was amended by section 24 of the London Local Authorities Act 1996 (c.i), section 120 of, paragraphs 1 and 2(a) of Schedule 17 to, paragraph 89 of Schedule 22 to, and Schedule 24 to the Environment Act [2005 (c.25)](https://www.legislation.gov.uk/ukpga/2005/25), section 101 of the Clean Neighbourhoods and Environment Act [2005 (c.16)](https://www.legislation.gov.uk/ukpga/2005/16) and section 2 of the Noise and Statutory Nuisance Act [1993 (c.40)](https://www.legislation.gov.uk/ukpga/1993/40). Section 82 was amended by section 107 of and paragraphs 1 and 6 of Schedule 17 to, the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), section 5 of the Noise and Statutory Nuisance Act [1993 (c.40)](https://www.legislation.gov.uk/ukpga/1993/40), and section 103 of the Clean Neighbourhoods and Environment Act [2005 (c.16)](https://www.legislation.gov.uk/ukpga/2005/16). There are other amendments to this Act which are not relevant to this Order.
 

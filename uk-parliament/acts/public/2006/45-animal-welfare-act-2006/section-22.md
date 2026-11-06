@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Seizure of animals involved in fighting offences[^key-b1076c605a8fff5bc6ca652642d7eaf1][^key-b794a3c41413c47700c4cc7cfe98e3c0]
+## 22. Seizure of animals involved in fighting offences[^c-b1076c605a8fff5bc6ca652642d7eaf1][^c-b794a3c41413c47700c4cc7cfe98e3c0]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b1076c605a8fff5bc6ca652642d7eaf1]: Commencement: S. 22 in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/e)
+[^c-b1076c605a8fff5bc6ca652642d7eaf1]: Commencement: S. 22 in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/e)
 
-[^key-b794a3c41413c47700c4cc7cfe98e3c0]: Commencement: S. 22 in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-b794a3c41413c47700c4cc7cfe98e3c0]: Commencement: S. 22 in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

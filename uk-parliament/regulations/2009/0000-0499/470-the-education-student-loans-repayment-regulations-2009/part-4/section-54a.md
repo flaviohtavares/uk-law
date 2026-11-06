@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54A. Payments to and recoveries from HMRC for each income tax period by Real Time Information employers: returns under regulation 59F(5)[^key-150b89f2218dddb679732ae731b4b49d]
+## 54A. Payments to and recoveries from HMRC for each income tax period by Real Time Information employers: returns under regulation 59F(5)[^c-150b89f2218dddb679732ae731b4b49d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,10 +27,10 @@ summary: ''
 (3) If the value of the adjustment required by paragraph (2) is a negative amount, the employer may recover that amount—
 
 - (a) by setting it off against the amount the employer is liable to pay under regulation 54(1) for the income tax period in which the return is made; or
-- (b) from the Commissioners for HMRC[^key-7de1c1cfe4e3d72cfac8eb774cc5c4d3].
+- (b) from the Commissioners for HMRC[^c-7de1c1cfe4e3d72cfac8eb774cc5c4d3].
 
 ## Annotations
 
-[^key-150b89f2218dddb679732ae731b4b49d]: Textual amendment: Reg. 54A inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2012 (S.I. 2012/836)](https://www.legislation.gov.uk/uksi/2012/836), [regs. 1](https://www.legislation.gov.uk/uksi/2012/836/regulation/1), [12](https://www.legislation.gov.uk/uksi/2012/836/regulation/12)
+[^c-150b89f2218dddb679732ae731b4b49d]: Textual amendment: Reg. 54A inserted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2012 (S.I. 2012/836)](https://www.legislation.gov.uk/uksi/2012/836), [regs. 1](https://www.legislation.gov.uk/uksi/2012/836/regulation/1), [12](https://www.legislation.gov.uk/uksi/2012/836/regulation/12)
 
-[^key-7de1c1cfe4e3d72cfac8eb774cc5c4d3]: Textual amendment: Word in reg. 54A(3)(b) substituted (1.4.2026) by [The Education (Student Fees, Awards, Support and Loan Repayments) (Amendment) Regulations 2026 (S.I. 2026/130)](https://www.legislation.gov.uk/uksi/2026/130), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/130/regulation/1/4), [33(3)](https://www.legislation.gov.uk/uksi/2026/130/regulation/33/3)
+[^c-7de1c1cfe4e3d72cfac8eb774cc5c4d3]: Textual amendment: Word in reg. 54A(3)(b) substituted (1.4.2026) by [The Education (Student Fees, Awards, Support and Loan Repayments) (Amendment) Regulations 2026 (S.I. 2026/130)](https://www.legislation.gov.uk/uksi/2026/130), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2026/130/regulation/1/4), [33(3)](https://www.legislation.gov.uk/uksi/2026/130/regulation/33/3)

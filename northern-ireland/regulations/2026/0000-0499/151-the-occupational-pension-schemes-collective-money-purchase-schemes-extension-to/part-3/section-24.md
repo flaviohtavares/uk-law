@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Connected employers[^key-8030b822c8b00c5f6caadffa6937648d]
+## 24. Connected employers[^c-8030b822c8b00c5f6caadffa6937648d]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8030b822c8b00c5f6caadffa6937648d]: Commencement: Reg. 24 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-8030b822c8b00c5f6caadffa6937648d]: Commencement: Reg. 24 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00019]: Footnote: [2021 c. 1](https://www.legislation.gov.uk/ukpga/2021/1)
 

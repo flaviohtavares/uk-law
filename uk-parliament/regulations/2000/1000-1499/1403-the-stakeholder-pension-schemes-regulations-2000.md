@@ -70,72 +70,72 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 - “the Act" means the Welfare Reform and Pensions Act 1999 [^c16023101];
 - “the 1993 Act" means the Pension Schemes Act 1993;
 - “the 1995 Act" means the Pensions Act 1995;
-- “address” means postal address (except in the phrases “postal address”, “electronic address” and “website address”);[^key-f1a78540bb3bd681892dc285450761de]
+- “address” means postal address (except in the phrases “postal address”, “electronic address” and “website address”);[^c-f1a78540bb3bd681892dc285450761de]
 - “beneficiary", in relation to a stakeholder pension scheme, means any person who has rights under the scheme which have arisen as a result of the death of a member of the scheme;
-- [^key-a5d2ce2933e0f046a9687c3da36d3eb8]...
-- [^key-cb0581ddf0355e1280dd30b6d97c17cb]...
-- “dilution levy” has the meaning given by the[^key-de41475170d12a8cc9c928cf25cac7be] FCA Handbook;
-- “electronic communication” has the same meaning as in section 15(1) of the Electronic Communications Act 2000;[^key-b20ca01c548f82c01ed6e2141d02e9e1]
-- “the[^key-8061a48a02ba481c0992fd0415ac7392] FCA Handbook” means the Handbook made by the Financial Conduct Authority under the Financial Services and Markets Act 2000;
-- ‘illustration date’ means, in relation to any information provided, or to be provided, under regulation[^key-59cf35118bfd3c31f1ada8d0410696c0] 18A(2)[^key-c805eaec111330244b5747ccb787a429], the date specified by the trustees or manager as the date by reference to which amounts are calculated for the purpose of providing the information;
-- [^key-c7159631c0db33ed57d5d20251172d84]...
-- [^key-2564f6022a3d1e390feff10fadb6d98f]...
-- “insurer” means—[^key-9af531249d7f7a9f8a4f58b710c43416]
-  - (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to effect or carry out contracts of insurance, [^key-46106e6169c8c4fce5a39e95d4c88592]...
-  - (b) [^key-46106e6169c8c4fce5a39e95d4c88592]...
-- [^key-fd093dcfc5957dcd8a885d0a45b39fd4]...
-- “lifestyling” has the meaning given by regulation 10A(5);[^key-2a390cd0f743641fabb0695294fd1caa]
-- [^key-4071718cebf26b5e1df0a53272906bb9]...
-- [^key-4071718cebf26b5e1df0a53272906bb9]...
-- ‘non-contributing member’ means—[^key-1b8f79a26c316c65add0f37b2d3215f9]
-  - (a) [^key-c1b3c42985084097a1b5161ef597d7f2]...
-  - (b) [^key-8bb5e1c454b360d524c8d2d805a48194]... a member in respect of whom no further contributions to the scheme are due or expected after the illustration date;
+- [^c-a5d2ce2933e0f046a9687c3da36d3eb8]...
+- [^c-cb0581ddf0355e1280dd30b6d97c17cb]...
+- “dilution levy” has the meaning given by the[^c-de41475170d12a8cc9c928cf25cac7be] FCA Handbook;
+- “electronic communication” has the same meaning as in section 15(1) of the Electronic Communications Act 2000;[^c-b20ca01c548f82c01ed6e2141d02e9e1]
+- “the[^c-8061a48a02ba481c0992fd0415ac7392] FCA Handbook” means the Handbook made by the Financial Conduct Authority under the Financial Services and Markets Act 2000;
+- ‘illustration date’ means, in relation to any information provided, or to be provided, under regulation[^c-59cf35118bfd3c31f1ada8d0410696c0] 18A(2)[^c-c805eaec111330244b5747ccb787a429], the date specified by the trustees or manager as the date by reference to which amounts are calculated for the purpose of providing the information;
+- [^c-c7159631c0db33ed57d5d20251172d84]...
+- [^c-2564f6022a3d1e390feff10fadb6d98f]...
+- “insurer” means—[^c-9af531249d7f7a9f8a4f58b710c43416]
+  - (a) a person who has permission under Part 4 of the Financial Services and Markets Act 2000 to effect or carry out contracts of insurance, [^c-46106e6169c8c4fce5a39e95d4c88592]...
+  - (b) [^c-46106e6169c8c4fce5a39e95d4c88592]...
+- [^c-fd093dcfc5957dcd8a885d0a45b39fd4]...
+- “lifestyling” has the meaning given by regulation 10A(5);[^c-2a390cd0f743641fabb0695294fd1caa]
+- [^c-4071718cebf26b5e1df0a53272906bb9]...
+- [^c-4071718cebf26b5e1df0a53272906bb9]...
+- ‘non-contributing member’ means—[^c-1b8f79a26c316c65add0f37b2d3215f9]
+  - (a) [^c-c1b3c42985084097a1b5161ef597d7f2]...
+  - (b) [^c-8bb5e1c454b360d524c8d2d805a48194]... a member in respect of whom no further contributions to the scheme are due or expected after the illustration date;
 - “pension arrangement" means—
   - (a) an annuity contract;
   - (b) an insurance policy; or
-  - (c) a qualifying recognised overseas pension scheme as defined in section 169 of the Finance Act 2004;[^key-ef2993fd9ef1569f64199bb59d214d9f]
+  - (c) a qualifying recognised overseas pension scheme as defined in section 169 of the Finance Act 2004;[^c-ef2993fd9ef1569f64199bb59d214d9f]
 
   which has effect, or is capable of having effect, so as to provide benefits on termination of employment or on death or retirement, to or in respect of earners;
 - “property" includes land;
 - “qualifying scheme" shall, in respect of an employer, include any stakeholder pension scheme which has at any time been designated by the employer under section 3(2);
-- “[^key-35d3758b3502df1de282d8a1af01b4b2]**relevant guidance**” means the document entitled “AS TM1: Statutory Money Purchase Illustrations” that is adopted or prepared, and from time to time revised, by the Financial Reporting Council Limited;
+- “[^c-35d3758b3502df1de282d8a1af01b4b2]**relevant guidance**” means the document entitled “AS TM1: Statutory Money Purchase Illustrations” that is adopted or prepared, and from time to time revised, by the Financial Reporting Council Limited;
 - “reporting accountant" has the meaning given to it by regulation 11(3);
-- ‘retirement date’ means, in relation to a member—[^key-9f0718160af7a50065d4660a6a5d56d7]
-  - (a) the date which he has specified to the trustees or manager, and which is acceptable under the rules of the scheme, for the purpose of regulation 18A(2)[^key-99575439cc3a834b6a8516e2b1283b7b]; or
+- ‘retirement date’ means, in relation to a member—[^c-9f0718160af7a50065d4660a6a5d56d7]
+  - (a) the date which he has specified to the trustees or manager, and which is acceptable under the rules of the scheme, for the purpose of regulation 18A(2)[^c-99575439cc3a834b6a8516e2b1283b7b]; or
   - (b) where no acceptable date has been specified for that purpose, the date specified by the trustees or manager as being the appropriate date for the purpose of regulation 18A(2) ;
 - “scheme instruments” means instruments establishing a stakeholder pension scheme;[^c22574371]
-- “securities” means investments of the following kinds—[^key-ead344095ce69178957dabff121f1d61]
+- “securities” means investments of the following kinds—[^c-ead344095ce69178957dabff121f1d61]
   - (a) shares,
   - (b) instruments creating or acknowledging indebtedness,
   - (c) government and public securities,
   - (d) instruments giving entitlements to investments,
   - (e) certificates representing securities,
 
-  [^key-ec9a644c35eea5750cc850c8c89022a2]...;
-- “statement year” has the meaning given by regulation 18;[^key-1a75b47bff2be5f46e1305d255352f0a]
-- “tax relief” has the meaning given by Chapter 4 of Part 4 of the Finance Act 2004 (registered pension schemes: tax reliefs and exemptions);[^key-42b5cf0f6286c168cc093dc93f939703]
+  [^c-ec9a644c35eea5750cc850c8c89022a2]...;
+- “statement year” has the meaning given by regulation 18;[^c-1a75b47bff2be5f46e1305d255352f0a]
+- “tax relief” has the meaning given by Chapter 4 of Part 4 of the Finance Act 2004 (registered pension schemes: tax reliefs and exemptions);[^c-42b5cf0f6286c168cc093dc93f939703]
 - “transfer payment" means a payment in respect of a person’s accrued rights under a pension scheme or pension arrangement made with a view to acquiring rights under another pension scheme or pension arrangement for that person; and
-- “with-profits fund" means a fund, maintained by an insurer[^key-bb72fd97b47b614bc788b27abdd8ab71] in respect of a particular part of its long-term business for which—
+- “with-profits fund" means a fund, maintained by an insurer[^c-bb72fd97b47b614bc788b27abdd8ab71] in respect of a particular part of its long-term business for which—
   - (a) separate accounting records are maintained by the insurer in respect of all income and expenditure relating to that part of its business; and
   - (b) the benefits payable in respect of policies allocated to that fund are determined partly by reference to a discretion exercisable by any person.
 
-(3A)[^key-a4296012e783fff2167595ca435632fa] The definitions of “insurer” and “securities” in paragraph (3) must be read with—
+(3A)[^c-a4296012e783fff2167595ca435632fa] The definitions of “insurer” and “securities” in paragraph (3) must be read with—
 
 - (a) section 22 of the Financial Services and Markets Act 2000;
 - (b) any relevant order under that section; and
 - (c) Schedule 2 to that Act.
 
-(4)[^key-a5a176cd4efd2ec59b10aad1f5d9b021][^key-657998a246c3e654adca27b63b9da2e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a5a176cd4efd2ec59b10aad1f5d9b021][^c-657998a246c3e654adca27b63b9da2e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4A)[^key-a5a176cd4efd2ec59b10aad1f5d9b021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-a5a176cd4efd2ec59b10aad1f5d9b021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Sections 249 and 435 of the Insolvency Act 1986 (connected and associated persons) [^c16023171] and section 74 of the Bankruptcy (Scotland) Act 1985 (associated persons), apply for the purposes of regulation 4(3)[^key-f21a848d1b4e94e5a09736e9e5e5ccd0] as they apply for the purposes of those Acts respectively.
+(5) Sections 249 and 435 of the Insolvency Act 1986 (connected and associated persons) [^c16023171] and section 74 of the Bankruptcy (Scotland) Act 1985 (associated persons), apply for the purposes of regulation 4(3)[^c-f21a848d1b4e94e5a09736e9e5e5ccd0] as they apply for the purposes of those Acts respectively.
 
-(6) For the purposes of these Regulations and section 1(8) and (9) (which provide that stakeholder pension schemes must have tax-exemption or tax-approval and must not refuse to accept transfer payments except in so far as necessary to ensure that the scheme has such exemption or approval) “tax-registration” and “tax-registered” mean registration or, as the case may be, registered under section 153 of the Finance Act 2004.[^key-bbfb12febc689bf119dd48237b04e2a2]
+(6) For the purposes of these Regulations and section 1(8) and (9) (which provide that stakeholder pension schemes must have tax-exemption or tax-approval and must not refuse to accept transfer payments except in so far as necessary to ensure that the scheme has such exemption or approval) “tax-registration” and “tax-registered” mean registration or, as the case may be, registered under section 153 of the Finance Act 2004.[^c-bbfb12febc689bf119dd48237b04e2a2]
 
 (7) In these Regulations, unless the context otherwise requires, references to a section are to a section of the Act.
 
-(8)[^c22576281] [^key-ac68d394a41f70b3783813b8e209dd3c]...
+(8)[^c22576281] [^c-ac68d394a41f70b3783813b8e209dd3c]...
 
 ## PART II — CONDITIONS APPLYING TO STAKEHOLDER PENSION SCHEMES
 
@@ -143,9 +143,9 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 (1) A stakeholder pension scheme may (where not established under a trust) be established by means of one or more instruments in writing which provide for one or more contracts to be entered into between the manager of the scheme and each member of the scheme, or a person acting on his behalf.
 
-(2)[^key-13ee75140a788491eff152c63b17530d] The manager of the scheme must be a person who is mentioned in section 154(1)(b) of the Finance Act 2004 (persons by whom registered pension scheme may be established).
+(2)[^c-13ee75140a788491eff152c63b17530d] The manager of the scheme must be a person who is mentioned in section 154(1)(b) of the Finance Act 2004 (persons by whom registered pension scheme may be established).
 
-(3)[^key-13ee75140a788491eff152c63b17530d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-13ee75140a788491eff152c63b17530d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3. Requirements applying to all stakeholder pension schemes as regards instruments establishing such schemes
 
@@ -155,7 +155,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 (3) The scheme instruments must require that no member is required to make any choice as regards the investment under the scheme of any payment made to it by him or on his behalf, any amount credited to the member’s account in respect of a credit within the meaning of section 29 (pension sharing: creation of pension debits and credits), or any income or capital gain arising from the investment of such a payment or credit.
 
-(4) The scheme instruments must, except to the extent permitted under regulations 13, 14 or 14B[^key-edddd9e833a8ff1c0f407fca7c1aefef], prohibit the use of—
+(4) The scheme instruments must, except to the extent permitted under regulations 13, 14 or 14B[^c-edddd9e833a8ff1c0f407fca7c1aefef], prohibit the use of—
 
 - (a) any payment made to the scheme by or on behalf of a member;
 - (b) any amount credited to a member’s account in respect of a credit within the meaning of section 29 (pension sharing: creation of pension debits and credits);
@@ -166,7 +166,7 @@ in any way which does not result in the provision of benefits for or in respect 
 
 (5) The scheme instruments must require that—
 
-- (a) if the scheme ceases to be registered under section 2 the winding-up of the scheme be commenced on the date on which it is notified in writing by the [^key-f010c80845b2d2fe72f5eb10a1e8cdac]... Authority that it is no longer so registered;
+- (a) if the scheme ceases to be registered under section 2 the winding-up of the scheme be commenced on the date on which it is notified in writing by the [^c-f010c80845b2d2fe72f5eb10a1e8cdac]... Authority that it is no longer so registered;
 - (b) if the trustees or manager fix a time for winding-up a scheme for any reason other than because the scheme ceases to be registered under section 2, the winding-up of the scheme be commenced at the earliest time fixed by the trustees or manager as the time from which steps for the purposes of winding-up are to be taken;
 - (c) within 2 weeks of the date of commencement of any winding-up, the trustees or manager notify in writing any employers whom they know to have designated the scheme for the purposes of section 3 (duty of employers to facilitate access to stakeholder pension schemes) of the fact of, and the reason for, the winding-up including, where the scheme has ceased to be registered under section 2, the reason for the cessation of registration;
 - (d) any contributions made to a scheme after the date of commencement of any winding-up must be repaid—
@@ -177,9 +177,9 @@ in any way which does not result in the provision of benefits for or in respect 
   - (ii) in accordance with requests by one or more members or beneficiaries in respect of their rights, to the trustees or managers of pension schemes or pension arrangements which are not schemes mentioned in head (i) above,
 
   in accordance with paragraphs (6) and (7) below and regulation 6 or, where regulation 7 applies, with regulation 7; and
-- (f) if the scheme fails to complete winding-up within 12 months of commencing winding-up proceedings, the trustees or manager notify the [^key-2b544d0ff6f8b5d342a1a1640f05ca84]... Authority of that fact within one month of so failing to complete the winding-up.
+- (f) if the scheme fails to complete winding-up within 12 months of commencing winding-up proceedings, the trustees or manager notify the [^c-2b544d0ff6f8b5d342a1a1640f05ca84]... Authority of that fact within one month of so failing to complete the winding-up.
 
-(5A)[^c22579391] Subject to paragraph (10) and to regulation 17(1) and (5),[^c22579571] except to the extent necessary to ensure that the scheme maintains its tax-registration[^key-611da3d7305127525fc4aa511abb3d76], the scheme instruments must preclude membership of the scheme being restricted by reference to—
+(5A)[^c22579391] Subject to paragraph (10) and to regulation 17(1) and (5),[^c22579571] except to the extent necessary to ensure that the scheme maintains its tax-registration[^c-611da3d7305127525fc4aa511abb3d76], the scheme instruments must preclude membership of the scheme being restricted by reference to—
 
 - (a) financial status;
 - (b) the amount of contributions to be made to the scheme;
@@ -196,7 +196,7 @@ and (for the avoidance of doubt) for the purposes of this paragraph, those means
 
 (6) A transfer payment referred to in paragraph (5)(e) must be of an amount not less than the cash equivalent of the member’s rights under the scheme, as calculated and verified in a manner consistent with regulations made under section 97 of the 1993 Act (calculation of cash equivalents) [^c16023201] on the date on which the payment is made.
 
-(7)[^key-9c2d5b7da52fadf894c5a00e08be7da2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-9c2d5b7da52fadf894c5a00e08be7da2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Paragraph (5)(e) does not apply to rights to which effect is given under the scheme by the payment of an annuity (not being a deferred annuity) or a lump sum either to the member or, on or after his death, to another person.
 
@@ -245,34 +245,34 @@ and (for the avoidance of doubt) for the purposes of this paragraph, those means
 (4) This paragraph applies where—
 
 - (a) it is not possible for the trustees or manager to do what is needed to carry out what the member requires within 12 months of the date of commencement of winding-up;
-- (b) it would contravene the terms of the scheme’s tax-registration[^key-8f88fa9752b8398431e6c8872b23282a], or any provision of the scheme required to be included as a condition of any such registration[^key-c8b73cfdb250d55c99c0044d5661d753], for the trustees or manager to do what is needed to carry out what the member requires; or
+- (b) it would contravene the terms of the scheme’s tax-registration[^c-8f88fa9752b8398431e6c8872b23282a], or any provision of the scheme required to be included as a condition of any such registration[^c-c8b73cfdb250d55c99c0044d5661d753], for the trustees or manager to do what is needed to carry out what the member requires; or
 - (c) the member withdraws his application before the trustees have or the manager has done what is needed to carry out what he requires.
 
-(5) Where paragraph (4)[^key-a4e71d63d22bb064fec5f5c54bc3a834]... applies in relation to the first such application made by the member as is mentioned in paragraph (3), the trustees or manager shall as soon as practicable give notice to the member stating—
+(5) Where paragraph (4)[^c-a4e71d63d22bb064fec5f5c54bc3a834]... applies in relation to the first such application made by the member as is mentioned in paragraph (3), the trustees or manager shall as soon as practicable give notice to the member stating—
 
-- (a) where sub-paragraph (a) or (b) of paragraph (4) applies,[^key-92b70a001719b8ec70d736e3d70b04a6] that they cannot carry out what he requires and the reasons why not;
+- (a) where sub-paragraph (a) or (b) of paragraph (4) applies,[^c-92b70a001719b8ec70d736e3d70b04a6] that they cannot carry out what he requires and the reasons why not;
 - (b) that if he does not make a further application such as is mentioned in paragraph (3) they propose to make a transfer payment in respect of his rights as set out in the notice given in accordance with paragraph (2); and
 - (c) that, unless he makes such further application within one month of the date of the notice given in accordance with this paragraph, such a transfer payment may be made without his consent.
 
 (6) In any case where—
 
 - (a) the trustees do not or the manager does not receive any such application as is mentioned in paragraph (3) within 4 months of the date of the notice given in accordance with paragraph (2);
-- (b)[^key-e007350ca619471f6e2bbd64cfd8fcd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) paragraph (4)[^key-0161e7faf2616f0280f64d6c9f283dc7]... applied in respect of the first such application made by the member and—
-  - (i) the trustees or manager, having given notice to the member in accordance with[^key-f215cda6ae3593f3ed4e73518141c262] paragraph (5), do not receive any such further application as is mentioned in that paragraph within one month of the date of the notice; or
+- (b)[^c-e007350ca619471f6e2bbd64cfd8fcd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) paragraph (4)[^c-0161e7faf2616f0280f64d6c9f283dc7]... applied in respect of the first such application made by the member and—
+  - (i) the trustees or manager, having given notice to the member in accordance with[^c-f215cda6ae3593f3ed4e73518141c262] paragraph (5), do not receive any such further application as is mentioned in that paragraph within one month of the date of the notice; or
   - (ii) the trustees or manager, having given such notice, have received a further application such as is mentioned in paragraph (5) within one month of that date but paragraph (4) applies in respect of that further application,
 
   the trustees or manager may make a transfer payment in respect of the member’s rights to the pension scheme named in the notice mentioned in paragraph (2) as the scheme of their choice.
 
 (7) The trustees or manager shall, within one month of making a transfer payment under paragraph (3) or (6), give notice to the member stating the amount of the payment, the name and address of the scheme to which it has been made and the date on which it was made.
 
-(8)[^key-3806a6c6fe5b7eff467184771c6c4328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-3806a6c6fe5b7eff467184771c6c4328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) For the purposes of this regulation “member" includes “beneficiary".
 
 ### 7. Procedure for discharging on winding-up rights of members with whom the trustees or manager have lost contact
 
-(1)[^key-b6dfb4c196daca6af3b29764256d9ad7] This regulation applies in respect of any member—
+(1)[^c-b6dfb4c196daca6af3b29764256d9ad7] This regulation applies in respect of any member—
 
 - (a) whose present postal address and electronic address is not known to the trustees or manager;
 - (b) in respect of whom the trustees or manager have sent correspondence to their last known—
@@ -293,14 +293,14 @@ and (for the avoidance of doubt) for the purposes of this paragraph, those means
 - (a) within one calendar month of the date of the increase, a reference to the base rate immediately before the increase; and
 - (b) after that calendar month has elapsed, a reference to the base rate as increased.
 
-(4) The trustees or manager shall not directly hold, for the purposes of the scheme,[^key-576ea0c040434c2452f328e0fc107e77] units or shares in a collective investment scheme (within the meaning of section 235 of the Financial Services and Markets Act 2000[^key-3a31c879bff2427251f17eced36d2be5] (interpretation: definition of 'collective investment scheme’)) unless it is a requirement of the collective investment scheme that the purchase and sale price of those units or shares shall, at any given time, not differ from each other.
+(4) The trustees or manager shall not directly hold, for the purposes of the scheme,[^c-576ea0c040434c2452f328e0fc107e77] units or shares in a collective investment scheme (within the meaning of section 235 of the Financial Services and Markets Act 2000[^c-3a31c879bff2427251f17eced36d2be5] (interpretation: definition of 'collective investment scheme’)) unless it is a requirement of the collective investment scheme that the purchase and sale price of those units or shares shall, at any given time, not differ from each other.
 
-(5) The trustees or manager shall not directly hold, for the purposes of the scheme, rights under a contract of insurance which are expressed as units or shares in funds held by the insurer[^key-bfb412a70af32efa7f87ad8d4f9ddcca] unless it is a requirement of the contract of insurance that the purchase and sale price of those units or shares shall, at any given time, not differ from each other.
+(5) The trustees or manager shall not directly hold, for the purposes of the scheme, rights under a contract of insurance which are expressed as units or shares in funds held by the insurer[^c-bfb412a70af32efa7f87ad8d4f9ddcca] unless it is a requirement of the contract of insurance that the purchase and sale price of those units or shares shall, at any given time, not differ from each other.
 
 (6) In this regulation—
 
 - “base rate" means the rate for the time being quoted by the reference banks as applicable to sterling deposits or, where there is for the time being more than one such base rate, the rate which, when the base rate quoted by each bank is ranked in a descending sequence of seven, is fourth in the sequence;
-- “contract of insurance” means a contract—[^key-0dc7dbe78a311d10fcacae6ba049ea3b]
+- “contract of insurance” means a contract—[^c-0dc7dbe78a311d10fcacae6ba049ea3b]
   - (a) which, or any part of which, is of one or more of the following kinds—
     - (i) life and annuity,
     - (ii) linked long term,
@@ -310,15 +310,15 @@ and (for the avoidance of doubt) for the purposes of this paragraph, those means
     - (ii) paragraph 15 of Schedule 3 to that Act,
 
   to effect or carry out contracts of insurance of that kind;
-- [^key-3c4db71c229fe82b0a84b6f9a1e4bc14]...
-- “reference banks” means the seven largest persons for the time being who—[^key-b4a5ebaa7a1746d48284b15463b710f0]
+- [^c-3c4db71c229fe82b0a84b6f9a1e4bc14]...
+- “reference banks” means the seven largest persons for the time being who—[^c-b4a5ebaa7a1746d48284b15463b710f0]
   - (a) have permission under Part 4 of the Financial Services and Markets Act 2000 to accept deposits,
   - (b) are incorporated in the United Kingdom and carrying on there a regulated activity of accepting deposits; and
   - (c) quote a base rate applicable to sterling deposits,
 
   and for the purpose of this definition the size of a person at any time is to be determined by reference to the gross assets denominated in sterling of that person, together with any subsidiary (as defined in section 736 of the Companies Act 1985) [^c16023291], as shown in the audited end of year accounts last published before that time.
 
-(7)[^key-dd9eff0fabbd190fcde00093ff137291] References to a “deposit” in this regulation, together with the definitions of “contract of insurance” and “reference banks” in paragraph (6) must be read with—
+(7)[^c-dd9eff0fabbd190fcde00093ff137291] References to a “deposit” in this regulation, together with the definitions of “contract of insurance” and “reference banks” in paragraph (6) must be read with—
 
 - (a) section 22 of the Financial Services and Markets Act 2000;
 - (b) any relevant order under that section; and
@@ -371,10 +371,10 @@ and (for the avoidance of doubt) for the purposes of this paragraph, those means
 
 (5) For the purposes of this regulation[^c22579741]“proper advice" means—
 
-- (a)[^key-557eead71641fe21115c9c167fcdd77f] where the giving of advice constitutes a regulated activity of advising on investments (or would constitute such a regulated activity but for the identity of the person carrying on that activity), advice given by a person who may give that advice without contravening the prohibition imposed by section 19 of the Financial Services and Markets Act 2000;
+- (a)[^c-557eead71641fe21115c9c167fcdd77f] where the giving of advice constitutes a regulated activity of advising on investments (or would constitute such a regulated activity but for the identity of the person carrying on that activity), advice given by a person who may give that advice without contravening the prohibition imposed by section 19 of the Financial Services and Markets Act 2000;
 - (b) in any other case, the advice of a person whom the manager or person managing funds held for the purposes of the scheme reasonably believes to be qualified by his ability in and practical experience of financial matters and to have the appropriate knowledge and experience of the management of the investments of pension schemes.
 
-(5A)[^key-e1dc927b4cd5a0c98d741e1d8180b693] Paragraph (5)(a) must be read with—
+(5A)[^c-e1dc927b4cd5a0c98d741e1d8180b693] Paragraph (5)(a) must be read with—
 
 - (a) section 22 of the Financial Services and Markets Act 2000;
 - (b) any relevant order under that section; and
@@ -401,7 +401,7 @@ and (for the avoidance of doubt) for the purposes of this paragraph, those means
 - (b) paragraph (4A)(a) unless the determination to be made by him under that paragraph is recorded by him in writing;
 - (c) paragraph (4A)(b) unless the advice to be obtained and considered by him under that paragraph is given or (by the giver of the advice) confirmed in writing.
 
-### 10A. Requirement as regards the investment strategy for members nearing retirement[^key-93015b2f69cd248b416396d312935944]
+### 10A. Requirement as regards the investment strategy for members nearing retirement[^c-93015b2f69cd248b416396d312935944]
 
 (1) Subject to regulation 10B, for the purposes of section 1(1)(b) it shall be a condition of a scheme being a stakeholder pension scheme that the requirements of this regulation are complied with.
 
@@ -502,7 +502,7 @@ the trustees or manager may opt to continue the application of lifestyling as if
 
 (3)[^c22579911] There shall be appointed as reporting accountant for the scheme (“the reporting accountant”), by the trustees or manager of the scheme, a person who is eligible under paragraph (4) for such appointment.
 
-(4)[^key-051fc7922d929d6af0030cd3feeb8e39] A person is eligible for appointment as the reporting accountant only if he is eligible (but subject to paragraph (10)) under section 25 of the Companies Act 1989 for appointment as a company auditor.
+(4)[^c-051fc7922d929d6af0030cd3feeb8e39] A person is eligible for appointment as the reporting accountant only if he is eligible (but subject to paragraph (10)) under section 25 of the Companies Act 1989 for appointment as a company auditor.
 
 (5) The reporting accountant shall be appointed in writing and the notice of appointment shall specify—
 
@@ -510,27 +510,27 @@ the trustees or manager may opt to continue the application of lifestyling as if
 - (b) to whom the reporting accountant is to report; and
 - (c) from whom the reporting accountant is to take instructions.
 
-(6) The trustees or manager[^c22579951] shall procure from the reporting accountant by the end of one month beginning with the date he received[^key-7a86deb8d3c616723fdaf6888b2c8591] his notice of appointment a statement—
+(6) The trustees or manager[^c22579951] shall procure from the reporting accountant by the end of one month beginning with the date he received[^c-7a86deb8d3c616723fdaf6888b2c8591] his notice of appointment a statement—
 
 - (a) acknowledging in writing his receipt of his notice of appointment; and
 - (b) confirming in writing that he will notify the trustees or manager of any conflict of interest to which he is subject in relation to the scheme immediately he becomes aware of its existence.
 
-(7) It shall be a condition of the appointment of the reporting accountant that he agrees, in the event of his resignation [^key-1dbdd651aef83d499ae5e84570a8775f]..., to serve on the trustees or manager a written notice of resignation containing—
+(7) It shall be a condition of the appointment of the reporting accountant that he agrees, in the event of his resignation [^c-1dbdd651aef83d499ae5e84570a8775f]..., to serve on the trustees or manager a written notice of resignation containing—
 
 - (a) a statement specifying any circumstances connected with the resignation which in his opinion significantly affect the interests of the members or prospective members of, or of beneficiaries under, the scheme, or
 - (b)[^c22580011] a declaration that he knows of no such circumstances,
 
-(7A)[^c22580031] Where the reporting accountant is or becomes ineligible, by virtue of not or no longer being a person defined in paragraph (11) who satisfies the condition[^key-db54e20f78228bd52f2211e985fb5fb2] in paragraph (4), for his appointment as such—
+(7A)[^c22580031] Where the reporting accountant is or becomes ineligible, by virtue of not or no longer being a person defined in paragraph (11) who satisfies the condition[^c-db54e20f78228bd52f2211e985fb5fb2] in paragraph (4), for his appointment as such—
 
 - (a) he shall not act as the reporting accountant (except if required to do so under paragraph (6), and except as required by his agreement under paragraph (7) and as required by sub-paragraphs (c) and (d));
 - (b) anything done for the purposes of these Regulations by him acting as such while ineligible in contravention of sub-paragraph (a) shall by the trustees or manager be taken for those purposes not to have been done;
-- (c)[^key-7606739e83ae48b4c4fc44222d3eae22] he shall resign (with immediate effect) by notice in writing immediately he becomes aware that he is ineligible;
+- (c)[^c-7606739e83ae48b4c4fc44222d3eae22] he shall resign (with immediate effect) by notice in writing immediately he becomes aware that he is ineligible;
 - (d) he shall state in that notice—
   - (i) that he is resigning by reason of ineligibility; and
   - (ii) the ground on which he is or has become so ineligible;
-- (e) [^key-8261a094e56a13920b1978fa5aae2e8a]... if he is still in place when the trustees or manager [^key-22c2011e1158649bc62982c2c71223b8]... become aware[^key-a5970215060bbde06e286416ccc7b97c]... that he is or has become so ineligible, the trustees or manager shall remove him immediately.
+- (e) [^c-8261a094e56a13920b1978fa5aae2e8a]... if he is still in place when the trustees or manager [^c-22c2011e1158649bc62982c2c71223b8]... become aware[^c-a5970215060bbde06e286416ccc7b97c]... that he is or has become so ineligible, the trustees or manager shall remove him immediately.
 
-(8)[^key-49c3722e7e1d02c0146bc33a516faa59] Except in cases falling within paragraph (9), where the reporting accountant is removed by the trustees or manager or resigns or dies, the trustees or manager shall appoint, in accordance with this regulation, another reporting accountant—
+(8)[^c-49c3722e7e1d02c0146bc33a516faa59] Except in cases falling within paragraph (9), where the reporting accountant is removed by the trustees or manager or resigns or dies, the trustees or manager shall appoint, in accordance with this regulation, another reporting accountant—
 
 - (a) as soon as is required in order to ensure that the provisions of regulation 12(2)(b) and (8) are complied with; and
 - (b) in any event, by the end of 3 months beginning with the date of that removal, resignation or death.
@@ -540,11 +540,11 @@ the trustees or manager may opt to continue the application of lifestyling as if
 - (a) as soon as is required in order to ensure that the provisions of regulation 12(2)(b) and (8) are complied with; and
 - (b) in any event, by the end of one month beginning with the date of that resignation or removal.
 
-(10) For the purposes of paragraph (4)[^key-e6ea7bd3f690733431841f315a813518], a person is not eligible under section 25 of the 1989 Act for appointment as a company auditor if section 34 of that Act applies to him (individuals retaining only authorisation under section 13(1) of the Companies Act 1967).
+(10) For the purposes of paragraph (4)[^c-e6ea7bd3f690733431841f315a813518], a person is not eligible under section 25 of the 1989 Act for appointment as a company auditor if section 34 of that Act applies to him (individuals retaining only authorisation under section 13(1) of the Companies Act 1967).
 
 (11) In this regulation references to a person are references to an individual, a body corporate or a partnership.
 
-### 12. Requirement for declaration by trustees or manager[^key-97b41f2813b80e61d159d643d13f6b3e]
+### 12. Requirement for declaration by trustees or manager[^c-97b41f2813b80e61d159d643d13f6b3e]
 
 (1) For the purposes of section 1(1)(b), it shall be a condition of a scheme being a stakeholder pension scheme that the requirements of this regulation are complied with.
 
@@ -566,14 +566,14 @@ the trustees or manager may opt to continue the application of lifestyling as if
 (5) The statements specified in paragraph (2)(a) shall be—
 
 - (a) a statement that in the opinion of the trustees or manager there are systems and controls in place which provide reasonable assurance that—
-  - (i) regulations 13, 14 and 14B[^key-b97aeaccdf743d7838ef53ccb30e6245] have been complied with in relation to the scheme;
+  - (i) regulations 13, 14 and 14B[^c-b97aeaccdf743d7838ef53ccb30e6245] have been complied with in relation to the scheme;
   - (ii) transactions for the purposes of the scheme in securities, property or other assets have occurred at a fair market value;
   - (iii) the value of members' rights has been determined in accordance with the provisions in the instruments establishing the scheme; and
-  - (iv) adequate records have been maintained for the purposes of providing to members the statement required by regulation 18A(1)[^key-84a5bb10c65d961958136164ee09f346];
+  - (iv) adequate records have been maintained for the purposes of providing to members the statement required by regulation 18A(1)[^c-84a5bb10c65d961958136164ee09f346];
 - (b) a statement describing the process that the trustees or manager have or has undertaken in order to arrive at the opinion expressed in the statement described in paragraph (5)(a);
 - (c) a statement that in the opinion of the trustees or manager there are systems and controls in place which provide reasonable assurance that the scheme has complied with the conditions in section 1(1) of the Act, apart from those conditions that are covered by the statement in paragraph (5)(a); and
 - (d) a statement which explains that—
-  - (i) regulations 13, 14 and 14B[^key-3584e3311e9f338214eefca5a05cb183] impose limits on the amount of charges and deductions which may be made by a stakeholder pension scheme and on the manner in which charges may be made by such a scheme; and
+  - (i) regulations 13, 14 and 14B[^c-3584e3311e9f338214eefca5a05cb183] impose limits on the amount of charges and deductions which may be made by a stakeholder pension scheme and on the manner in which charges may be made by such a scheme; and
   - (ii) regulation 18A(1) requires a stakeholder pension scheme to provide an annual benefit statement to each member.
 
 (6) The trustees or manager shall provide the reporting accountant with documentation to demonstrate that the process described in the statement in paragraph (5)(b) has taken place.
@@ -604,7 +604,7 @@ whichever is later.
 
 ### 13. Expenses, commission etc.—principles
 
-(1) Except to the extent permitted by regulation 14 or 14B[^key-b24f589befa68b6d666302b69a385d96]—
+(1) Except to the extent permitted by regulation 14 or 14B[^c-b24f589befa68b6d666302b69a385d96]—
 
 - (a) no payment made to a stakeholder pension scheme by or on behalf of any member;
 - (b) no income or capital gain arising from the investment of such a payment;
@@ -616,15 +616,15 @@ shall be used in any way which does not result in the provision of benefits for 
 (2) Paragraph (1) does not apply—
 
 - (a) to the extent that section 31 (pension sharing: pension debits), or any enactment in force in Northern Ireland corresponding to that section, applies to reduce the benefits or future benefits to which a member may be entitled under the scheme; or
-- (b) to prevent the trustees or manager of a scheme from complying with an order of the court[^key-8ebf9175c4bd6b3cc47c5a5623d5c2b5]
+- (b) to prevent the trustees or manager of a scheme from complying with an order of the court[^c-8ebf9175c4bd6b3cc47c5a5623d5c2b5]
 
 (2A)[^c22580291] Nothing in paragraph (1) shall be taken to prevent that which is permitted by or under any of the provisions mentioned in paragraph (4).
 
-(3) In this regulation and in regulations 14 and 14B[^key-ffc90db2a4a8b831ce6a2fb1d41ef2ce] below “member" includes “beneficiary".
+(3) In this regulation and in regulations 14 and 14B[^c-ffc90db2a4a8b831ce6a2fb1d41ef2ce] below “member" includes “beneficiary".
 
 (4)[^c22580311] The provisions referred to in paragraph (2A) are—
 
-- (a)[^key-1a396123ac211a233c910fa40056c133] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-1a396123ac211a233c910fa40056c133] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 159 of the 1993 Act (inalienability of guaranteed minimum pension and protected rights payments);
 - (c) sections 91 to 94 of the 1995 Act and regulations under those sections (inalienability and forfeiture of occupational pensions); and
 - (d) in the case of a pension scheme established under a trust which—
@@ -633,11 +633,11 @@ shall be used in any way which does not result in the provision of benefits for 
 
   sections 91, 92 and 94 of the 1995 Act and the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations 1997 (inalienability and forfeiture of occupational pensions) as those sections and Regulations have effect by virtue of section 6(3) of, and Schedule 1 to, the Act and of regulation 32.
 
-(5)[^key-7e9643d638afd425ae8aa142e7354680] This regulation and regulations 14 to 14C do not apply in the circumstances set out in regulation 14D.
+(5)[^c-7e9643d638afd425ae8aa142e7354680] This regulation and regulations 14 to 14C do not apply in the circumstances set out in regulation 14D.
 
-### 14. Charges etc.—permitted reductions in members’ rights[^key-1b8a0df1f01962896fe643a1554359f3]
+### 14. Charges etc.—permitted reductions in members’ rights[^c-1b8a0df1f01962896fe643a1554359f3]
 
-(1) The value of a member’s rights under the scheme may be reduced in the circumstances, and to the extent, set out in paragraphs (2) to (5A)[^key-a62aadec12aff65ca0448ce3b3649702] of this regulation.
+(1) The value of a member’s rights under the scheme may be reduced in the circumstances, and to the extent, set out in paragraphs (2) to (5A)[^c-a62aadec12aff65ca0448ce3b3649702] of this regulation.
 
 (2) To the extent that a member’s rights are represented by a fund allocated to him to the exclusion of other members, the value of those rights may be reduced by the making of deductions from that fund which, when added to the amount of any indirect charges attributable to the member’s rights, are no greater than, at the choice of the trustees or manager—
 
@@ -669,11 +669,11 @@ shall be used in any way which does not result in the provision of benefits for 
 - (e) where any charges or expenses are incurred by the trustees or manager directly or indirectly in maintaining or repairing any land or buildings in which the fund is invested, or in connection with the collection of rent, service charge or other sums due under the terms of a lease from occupiers of any such land or buildings, by the amount of such of those charges or expenses as—
   - (i) are attributable to the member’s rights, and
   - (ii) are not the subject of an election by the trustees or manager under regulation 14B(1)(b);
-- (f) by the amount of any dilution levy charged, or, in the case of rights represented by rights in a with-profits fund, by the amount of any market value adjustment occurring in relation to the fund; and[^key-ac20998d5dfec84cac4cb50a00c554ae]
-- (g) where the member is the transferor for the purposes of section 29 (pension sharing: creation of pension debits and credits), by the amount of any payment made to discharge the liability of the trustees or manager in respect of a credit within the meaning of that section, [^key-376e925abfacedc768179acf5367c3a5]...
-- (h)[^key-f01f27b0d280da4f28951be68e833190] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) by the amount of any dilution levy charged, or, in the case of rights represented by rights in a with-profits fund, by the amount of any market value adjustment occurring in relation to the fund; and[^c-ac20998d5dfec84cac4cb50a00c554ae]
+- (g) where the member is the transferor for the purposes of section 29 (pension sharing: creation of pension debits and credits), by the amount of any payment made to discharge the liability of the trustees or manager in respect of a credit within the meaning of that section, [^c-376e925abfacedc768179acf5367c3a5]...
+- (h)[^c-f01f27b0d280da4f28951be68e833190] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5A)[^key-3c8a9bcd06164408eb28647413e5c04a] The value of a member’s rights under the scheme may be reduced by the amount of any payment made to discharge the liability of the trustees or managers in respect of any tax liability under the Finance Act 2004 in relation to that member.
+(5A)[^c-3c8a9bcd06164408eb28647413e5c04a] The value of a member’s rights under the scheme may be reduced by the amount of any payment made to discharge the liability of the trustees or managers in respect of any tax liability under the Finance Act 2004 in relation to that member.
 
 (6) In paragraphs (2) to (4), “indirect charges” means management charges deducted from a fund in which a fund held for the purposes of the scheme is invested, directly or indirectly.
 
@@ -724,7 +724,7 @@ by the amount of those charges or expenses.
 
 For the purposes of any calculation under regulation 14 or 14B, values and amounts may be determined, at the option of the trustees or manager, by rounding down any fraction of a penny less than one half and rounding up any other such fraction.
 
-### 14D. Disapplication of regulations 13 to 14C in certain circumstances[^key-2d3fe9493a55b97aec0f04d000ece433]
+### 14D. Disapplication of regulations 13 to 14C in certain circumstances[^c-2d3fe9493a55b97aec0f04d000ece433]
 
 (1) The circumstances referred to in regulation 13(5) are as follows.
 
@@ -743,31 +743,31 @@ For the purposes of any calculation under regulation 14 or 14B, values and amoun
 
 (2) A stakeholder pension scheme shall not invest any assets in a with-profits fund that includes non-stakeholder pension scheme assets.
 
-(3) Prior to entering into any agreement whereby any assets of the scheme will be invested in a with-profits fund, the trustees or manager of that scheme shall take such steps as are necessary to ensure that they obtain a written contract from the insurer[^key-b04526c04f821b6740dbd16947467289] maintaining the with-profits fund which provides that the insurer will, in respect of any period that the stakeholder pension scheme has assets invested in the with-profits fund—
+(3) Prior to entering into any agreement whereby any assets of the scheme will be invested in a with-profits fund, the trustees or manager of that scheme shall take such steps as are necessary to ensure that they obtain a written contract from the insurer[^c-b04526c04f821b6740dbd16947467289] maintaining the with-profits fund which provides that the insurer will, in respect of any period that the stakeholder pension scheme has assets invested in the with-profits fund—
 
 - (a) provide such information to the trustees or manager of the stakeholder pension scheme as is necessary to allow the trustees or manager to operate in compliance with the requirements of regulations 13 or 14;
 - (b) ensure that members of the stakeholder pension scheme will not be treated less favourably than any other members of stakeholder pension schemes who may have assets invested in the with-profits fund;
-- (c) provide to the trustees or manager of the stakeholder pension scheme any certificates from the auditor and actuary to the insurer[^key-fad95ad0db60484088c1dde3042d1927] that are necessary to allow the trustees or manager to make the declaration mentioned in regulation 12(2)(a)[^key-4ad7e95eff2845377fbeb6825375c156];
+- (c) provide to the trustees or manager of the stakeholder pension scheme any certificates from the auditor and actuary to the insurer[^c-fad95ad0db60484088c1dde3042d1927] that are necessary to allow the trustees or manager to make the declaration mentioned in regulation 12(2)(a)[^c-4ad7e95eff2845377fbeb6825375c156];
 - (d) ensure that no investments are made in the fund other than the investment of stakeholder pension scheme assets; and
 - (e) take such steps as are necessary to comply with paragraph (4).
 
-(4) The insurer[^key-6218c60c540aacc2eb6b8787ad337628] must, at least annually, provide the trustees or manager of the stakeholder pension scheme with a certificate from [^c22580511]... the [^key-8b82e3b978a2a3ce9c58a709093ed3a0]... actuary to the insurer certifying that the insurer has systems which and controls which are of a design such that, and used such that[^c22580531]—
+(4) The insurer[^c-6218c60c540aacc2eb6b8787ad337628] must, at least annually, provide the trustees or manager of the stakeholder pension scheme with a certificate from [^c22580511]... the [^c-8b82e3b978a2a3ce9c58a709093ed3a0]... actuary to the insurer certifying that the insurer has systems which and controls which are of a design such that, and used such that[^c22580531]—
 
-- (a) proper accounting records are maintained in respect of all income and expenditure relevant to regulations 13, 14 and 14B[^key-593f681a1588dbc1661b388829542285] and the terms of the contract referred to in paragraph (3);
-- (b) the records referred to in sub-paragraph (a) are provided to the auditor of the scheme if requested by the auditor, trustees or manager[^key-ecc2bfd2cd00a33cd6b55a9a755a0c90] ;
+- (a) proper accounting records are maintained in respect of all income and expenditure relevant to regulations 13, 14 and 14B[^c-593f681a1588dbc1661b388829542285] and the terms of the contract referred to in paragraph (3);
+- (b) the records referred to in sub-paragraph (a) are provided to the auditor of the scheme if requested by the auditor, trustees or manager[^c-ecc2bfd2cd00a33cd6b55a9a755a0c90] ;
 - (c) no expenditure is charged to the with-profits fund where that expenditure would be contrary to the requirements of regulation 13 or 14; and
 - (d) the terms of the contract referred to in paragraph (3) have been complied with.
 
 (5) Where the insurer does not comply with the agreement referred to in paragraph (3), the trustees or manager must take such steps as are necessary to ensure that the insurer does so comply.
 
-(6)[^key-12a1c58943ac85edf9e18f3b698a4c40] In this regulation the “actuary to the insurer” means a person appointed to perform, in relation to the insurer, either or both of the functions specified in paragraph 4.3.1 of the Supervision Sourcebook made by the Prudential Regulation Authority under the Financial Services and Markets Act 2000.
+(6)[^c-12a1c58943ac85edf9e18f3b698a4c40] In this regulation the “actuary to the insurer” means a person appointed to perform, in relation to the insurer, either or both of the functions specified in paragraph 4.3.1 of the Supervision Sourcebook made by the Prudential Regulation Authority under the Financial Services and Markets Act 2000.
 
 ### 16. Requirements as regards the provision of other services
 
 For the purposes of section 1(1)(b), it shall be a condition of a scheme being a stakeholder pension scheme that—
 
 - (a) the scheme does not provide any service other than the management of the scheme and its funds unless—
-  - (i) any such service is provided under a contract separate from any contract of membership of the scheme, is provided free of charge or is consistent with regulations 13, 14 and 14B[^key-b7b2ac4170eb70a175ce7b71097838f0]; and
+  - (i) any such service is provided under a contract separate from any contract of membership of the scheme, is provided free of charge or is consistent with regulations 13, 14 and 14B[^c-b7b2ac4170eb70a175ce7b71097838f0]; and
   - (ii) any contract for such service is in writing and sets out the amount of any charge for the service and the terms on which it is to be paid; and
 - (b) it is not a condition of membership of the scheme that any person enter into any contract, whether with the trustees or manager of the scheme or any other person, other than the contract of membership of the scheme.
 
@@ -775,13 +775,13 @@ For the purposes of section 1(1)(b), it shall be a condition of a scheme being a
 
 (1) Subject to paragraph (2), the scheme instruments[^c22580591] may permit the trustees or manager to refuse to accept a payment to the scheme of less than £20.
 
-(2) Paragraph (1) does not permit the trustees or manager to refuse to accept any payment made to the scheme by the Inland Revenue by way of tax relief[^key-e6175e85e08129f13276fdaf9b4479c3]....
+(2) Paragraph (1) does not permit the trustees or manager to refuse to accept any payment made to the scheme by the Inland Revenue by way of tax relief[^c-e6175e85e08129f13276fdaf9b4479c3]....
 
-(3) For the purposes of paragraph (1), amounts in respect of income tax deducted and retained by a member as permitted by section 192 of the Finance Act 2004 (relief at source)[^key-75ab24089e6fef49c95f84c7d367fcf0] shall not be treated as payments to the scheme.
+(3) For the purposes of paragraph (1), amounts in respect of income tax deducted and retained by a member as permitted by section 192 of the Finance Act 2004 (relief at source)[^c-75ab24089e6fef49c95f84c7d367fcf0] shall not be treated as payments to the scheme.
 
-(4) The trustees or manager of a stakeholder pension scheme may refuse to accept any contribution if its acceptance would contravene the terms of the scheme’s tax-registration[^key-8bc1d579c726c6afffe93479dc2ecb8e].
+(4) The trustees or manager of a stakeholder pension scheme may refuse to accept any contribution if its acceptance would contravene the terms of the scheme’s tax-registration[^c-8bc1d579c726c6afffe93479dc2ecb8e].
 
-(4A)[^key-0aeb27eaf3a2c131cd5d8c34a9866a6e] the trustees or manager of a stakeholder pension scheme may refuse to accept any contribution by, or on behalf of any member of the scheme who—
+(4A)[^c-0aeb27eaf3a2c131cd5d8c34a9866a6e] the trustees or manager of a stakeholder pension scheme may refuse to accept any contribution by, or on behalf of any member of the scheme who—
 
 - (a) has not given the declaration specified in regulation 5(2) of the Registered Pension Schemes (Relief at Source) Regulations 2005 (declaration of entitlement to tax relief in respect of net contributions); or
 - (b) is not a relevant UK individual for the purposes of section 189 of the Finance Act 2004 (relevant UK individual) for the tax year in respect of which the contribution is made.
@@ -792,7 +792,7 @@ For the purposes of section 1(1)(b), it shall be a condition of a scheme being a
 
 (7) For the purposes of paragraph (6), “active member” has the meaning given by section 124 of the 1995 Act.
 
-### 18. Disclosure of information to members[^key-d1d3d403113d5cb15eb828d354612589]
+### 18. Disclosure of information to members[^c-d1d3d403113d5cb15eb828d354612589]
 
 (1) For the purposes of section 1(1)(b), it is a condition of a scheme being a stakeholder pension scheme that the trustees or manager of the scheme comply with the requirements set out in regulations 18A and 18B in addition to such requirements of regulations under section 113 of the 1993 Act (disclosure of information about schemes to members etc.) as are applicable to the scheme.
 
@@ -820,24 +820,24 @@ and, subject to paragraph (4), each subsequent period ending on and including th
 
 (7) For the purposes of this regulation, regulations 18A and 18B and Schedule 3, “member” does not include any member—
 
-- (a) whose present postal address and electronic address is not known to the trustees or manager; and[^key-1f6f9234109835b2be755155d0500f44]
+- (a) whose present postal address and electronic address is not known to the trustees or manager; and[^c-1f6f9234109835b2be755155d0500f44]
 - (b) in respect of whom the trustees or manager have sent correspondence to their last known—
   - (i) postal address and that correspondence has been returned, or
-  - (ii) electronic address and the trustees or manager are satisfied that that correspondence has not been delivered; [^key-7fa0ae09234fe5286719332f89ad84f0]...
-- (c)[^key-8f6cb94c304ddbef060201294f513954] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) electronic address and the trustees or manager are satisfied that that correspondence has not been delivered; [^c-7fa0ae09234fe5286719332f89ad84f0]...
+- (c)[^c-8f6cb94c304ddbef060201294f513954] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) For the purposes of this regulation, regulations 18A and 18B and Schedule 3, “member” includes a dependant making income withdrawals from the scheme in accordance with paragraph 21 of Schedule 28 to the Finance Act 2004 (dependants’ income withdrawal).
 
 ### 18A.
 
-(1) Subject to paragraph (1A)[^key-d4a37d72c6e8b1a129c17e8465f04a02] where a person is a member for all or part of a statement year relating to them, there must be provided to that person—
+(1) Subject to paragraph (1A)[^c-d4a37d72c6e8b1a129c17e8465f04a02] where a person is a member for all or part of a statement year relating to them, there must be provided to that person—
 
 - (a) within three months of the end of that statement year; or
 - (b) where that person ceases during that statement year to be a member, during the period beginning with the time at which that person so ceases and ending on and including the last day of the three-month period mentioned in sub-paragraph (a),
 
 a statement which contains the information mentioned in paragraph 1 of Schedule 3 and either paragraph 2 or 3 of Schedule 3, so far as that information relates to that statement year or, in cases falling within sub-paragraph (b) of this paragraph, to the part of that statement year beginning with the first day of that statement year (whether or not that day is earlier than the day on which that person becomes a member) and ending with the time at which that person so ceases.
 
-(1A)[^key-58d67ec3d46eccf348e5d910709b8742] The information mentioned in paragraph (1) need not but may, nevertheless, be given in respect of a statement year where—
+(1A)[^c-58d67ec3d46eccf348e5d910709b8742] The information mentioned in paragraph (1) need not but may, nevertheless, be given in respect of a statement year where—
 
 - (a) the statement year is the first to end on or after the date the person became a member of the scheme; and
 - (b) the end of that statement year falls at a time when—
@@ -853,7 +853,7 @@ it must be provided no later than the information that relates to the next follo
 
 (2) Subject to paragraph (4), where a statement is provided under paragraph (1) it must also contain an illustration of the amount, calculated in accordance with regulation 18B, of the pension an entitlement to which would be likely to accrue to the member, or be capable of being secured by the member, at the member’s retirement date in respect of rights that may arise under the scheme.
 
-(2A)[^key-2ebb248bc1da9e810337c0e095f70264] For the purposes of paragraph (2), the calculation of the amount of the pension mentioned in paragraph (2) may take account of a lump sum.
+(2A)[^c-2ebb248bc1da9e810337c0e095f70264] For the purposes of paragraph (2), the calculation of the amount of the pension mentioned in paragraph (2) may take account of a lump sum.
 
 (3) Where information is provided under paragraph (2)—
 
@@ -867,12 +867,12 @@ it must be provided no later than the information that relates to the next follo
 - (c) where, in relation to the member—
   - (i) the value, determined by reference to the relevant guidance, of the member’s accrued rights to money purchase benefits under the scheme was less than £5,000 on the illustration date in respect of which such information was last furnished to the member;
   - (ii) no contributions, including transfers of pension rights or pension credits, have been made to the scheme by the member or on the member’s behalf in respect of money purchase benefits since that date; and
-  - (iii) the trustees or manager previously gave notice to the member that no further such information would be furnished to the member unless further contributions to the scheme in respect of money purchase benefits had first been made by the member or on the member’s behalf; or[^key-57c33da78959a18f0e0a601790dbb042]
+  - (iii) the trustees or manager previously gave notice to the member that no further such information would be furnished to the member unless further contributions to the scheme in respect of money purchase benefits had first been made by the member or on the member’s behalf; or[^c-57c33da78959a18f0e0a601790dbb042]
 - (d) where, in relation to the member—
   - (i) the value, determined by reference to the relevant guidance, of the member’s accrued rights to money purchase benefits under the scheme is less than £5,000 on the first illustration date falling after 5th April 2003;
   - (ii) no contributions, including transfers of pension rights or pension credits, have been made to the scheme by the member or on the member’s behalf after 5th April 2003; and
-  - (iii) no further contributions are, in the opinion of the trustees or manager, likely to be made to the scheme by the member or on the member’s behalf after that illustration date; [^key-46f1d306e7ffe84b87bff29779fdb4f7]...
-- (e)[^key-4eb1bb3a28fae9095a5d21d45ba252bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) no further contributions are, in the opinion of the trustees or manager, likely to be made to the scheme by the member or on the member’s behalf after that illustration date; [^c-46f1d306e7ffe84b87bff29779fdb4f7]...
+- (e)[^c-4eb1bb3a28fae9095a5d21d45ba252bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Where paragraph (4) applies but the trustees or manager nevertheless choose to furnish the information described in paragraph (2) and the amount comprising that information is calculated in accordance with regulation 18B, then—
 
@@ -910,7 +910,7 @@ the trustees or manager must provide to the member a statement in accordance wit
 (1) The amount referred to in regulation 18A(2) must be determined by reference to—
 
 - (a) the relevant guidance; and
-- (b) the assumptions about contributions specified in paragraph (2) [^key-aa81440b1e2fa3b0d5b8bbe807b10b17]..., and such other assumptions as may be specified for the purpose in the relevant guidance,
+- (b) the assumptions about contributions specified in paragraph (2) [^c-aa81440b1e2fa3b0d5b8bbe807b10b17]..., and such other assumptions as may be specified for the purpose in the relevant guidance,
 
 having regard to the value of the member’s accrued rights to money purchase benefits under the scheme on the illustration date.
 
@@ -918,13 +918,13 @@ having regard to the value of the member’s accrued rights to money purchase be
 
 - (a) where the calculation relates to the rights of a non-contributing member, that no contributions will be made to the scheme by the member or on the member’s behalf after the illustration date; and
 - (b) in any other case, that, until the member’s retirement date—
-  - (i) contributions to the scheme will be made by the member or on the member’s behalf; and[^key-0a7d8a3a9a187c173c80c3fbd2747c00]
-  - (ii) the scheme maintains its tax registration under section 153 of the Finance Act 2004 (registration of pension schemes); [^key-9f9d77935d79d65b84459dfadd2fe43b]...
-  - (iii)[^key-9f9d77935d79d65b84459dfadd2fe43b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) contributions to the scheme will be made by the member or on the member’s behalf; and[^c-0a7d8a3a9a187c173c80c3fbd2747c00]
+  - (ii) the scheme maintains its tax registration under section 153 of the Finance Act 2004 (registration of pension schemes); [^c-9f9d77935d79d65b84459dfadd2fe43b]...
+  - (iii)[^c-9f9d77935d79d65b84459dfadd2fe43b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c3fd5b916516198746342f88b5945343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c3fd5b916516198746342f88b5945343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c3fd5b916516198746342f88b5945343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c3fd5b916516198746342f88b5945343] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 18C. Service of information by a scheme
 
@@ -951,7 +951,7 @@ is not furnished or given in accordance with paragraph (1)(b), that relevant inf
   the relevant information; and
 - (b) taking into account the requirements of disabled persons.
 
-(4)[^key-5afdb01587e11b99c5301ced204204d7] Where—
+(4)[^c-5afdb01587e11b99c5301ced204204d7] Where—
 
 - (a) a member or beneficiary was a member or beneficiary of the scheme on 1st<sup></sup>December 2010; and
 - (b) relevant information was not given by the trustees or managers of the scheme before that date by the methods described in paragraph (1)(b),
@@ -978,9 +978,9 @@ may be furnished, made or given by sending it to the trustees or manager of the 
 
 ### 18E. Provision of information on a website
 
-(1) This regulation and regulation 18F set[^key-a9b843383655266699fa9dd0229f264e] out the conditions which must be met when making relevant information available on a website under regulation 18C(1)(b)(ii).
+(1) This regulation and regulation 18F set[^c-a9b843383655266699fa9dd0229f264e] out the conditions which must be met when making relevant information available on a website under regulation 18C(1)(b)(ii).
 
-(2)[^key-1d6c5f46843373720b2b74c05527dfc2] When a website is used for the first time to make available relevant information, a notification must be given to the recipient.
+(2)[^c-1d6c5f46843373720b2b74c05527dfc2] When a website is used for the first time to make available relevant information, a notification must be given to the recipient.
 
 (3) The notification referred to in paragraph (2) must include—
 
@@ -989,7 +989,7 @@ may be furnished, made or given by sending it to the trustees or manager of the 
 - (c) details of the place on the website where the relevant information may be read; and
 - (d) an explanation of how the recipient may read the relevant information on the website.
 
-(4)[^key-030a6f44769999c2db4c1868da1f7616] Subject to regulation 18F, each time a website is used at a subsequent time to make available information or documents, a notification must be given to the recipient.
+(4)[^c-030a6f44769999c2db4c1868da1f7616] Subject to regulation 18F, each time a website is used at a subsequent time to make available information or documents, a notification must be given to the recipient.
 
 (4A) The notification referred to in paragraph (4) must state that the information or document is available on the website.
 
@@ -997,14 +997,14 @@ may be furnished, made or given by sending it to the trustees or manager of the 
 
 (5) The notification referred to in paragraph (4) must include a statement that the relevant information is available on the website.
 
-(6)[^key-a8b0b03c6ce5c27917c90b7f3be462ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a8b0b03c6ce5c27917c90b7f3be462ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) In this regulation and regulation 18F[^key-6cdaa1f098d517f0cac6aee5c265fd1a]—
+(7) In this regulation and regulation 18F[^c-6cdaa1f098d517f0cac6aee5c265fd1a]—
 
 - “recipient” means the person or body to whom these Regulations require statements or information to be made available, and
 - “relevant information” has the same meaning as in regulation 18C(6).
 
-### 18F. Provision of information on a website: supplemental[^key-310ac14f80289df9cce23ea58eda0c52]
+### 18F. Provision of information on a website: supplemental[^c-310ac14f80289df9cce23ea58eda0c52]
 
 (1) The notification mentioned in regulation 18E(4) need not be given where paragraphs to (4) are satisfied.
 
@@ -1035,9 +1035,9 @@ may be furnished, made or given by sending it to the trustees or manager of the 
 
 ### 19. Requirement for trustees of a stakeholder pension scheme established under a trust
 
-For the purposes of section 1(1)(b), it shall be a condition of a scheme which is established under a trust being a stakeholder pension scheme that the scheme comply with sections 35 and 36 (functions of trustees) of the 1995 Act [^key-36e9f50e5ee212e7694ece59710950d2]....
+For the purposes of section 1(1)(b), it shall be a condition of a scheme which is established under a trust being a stakeholder pension scheme that the scheme comply with sections 35 and 36 (functions of trustees) of the 1995 Act [^c-36e9f50e5ee212e7694ece59710950d2]....
 
-### 19A. Requirement that a stakeholder pension is not a collective money purchase scheme[^key-b307c3c3121a673481a866d8b9cabb44]
+### 19A. Requirement that a stakeholder pension is not a collective money purchase scheme[^c-b307c3c3121a673481a866d8b9cabb44]
 
 For the purposes of section 1(1)(b), it shall be a condition of a scheme being a stakeholder pension scheme that it must not be a collective money purchase scheme for the purposes of Part 1 of the Pension Schemes Act 2021.
 
@@ -1049,7 +1049,7 @@ For the purposes of subsections (2) and (4) of section 2 (prescribed persons may
 
 ### 21. Access to the register
 
-(1) The [^key-0f2133975aa1ebab3e6171358b9caaa7]... Authority shall supply the most recent copy of the register to any person on request either—
+(1) The [^c-0f2133975aa1ebab3e6171358b9caaa7]... Authority shall supply the most recent copy of the register to any person on request either—
 
 - (a) free of charge; or
 - (b) where a charge is made, at an amount that does not exceed the expense incurred in copying, posting and packing the statement.
@@ -1058,30 +1058,30 @@ For the purposes of subsections (2) and (4) of section 2 (prescribed persons may
 
 ## PART IV — EMPLOYER REQUIREMENTS
 
-### 22. Exemptions from employer access and consultation requirements[^key-a38bf9d7b16365ce823a61ed4a604410]
+### 22. Exemptions from employer access and consultation requirements[^c-a38bf9d7b16365ce823a61ed4a604410]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Definition of relevant employees[^key-89fbc9b9e76449b5db28794ec3da5bca]
+### 23. Definition of relevant employees[^c-89fbc9b9e76449b5db28794ec3da5bca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 24. Payroll deduction of contributions
 
-(1) Subject to paragraphs (2) and (2A)[^c22661901], where an employee requests an employer to [^key-cd2d5ee42006765a2950321d3b4bce11]... vary (but not cease) deductions of the employee’s contributions to a qualifying scheme from his remuneration (“the request"), the employer must comply with the request as soon as possible, but no later than the end of—[^c22661921]
+(1) Subject to paragraphs (2) and (2A)[^c22661901], where an employee requests an employer to [^c-cd2d5ee42006765a2950321d3b4bce11]... vary (but not cease) deductions of the employee’s contributions to a qualifying scheme from his remuneration (“the request"), the employer must comply with the request as soon as possible, but no later than the end of—[^c22661921]
 
 - (a) the pay period following that in which the request is made; or
 - (b) where the request relates to a pay period later than the one following that in which the request is made, that later pay period.
 
-(2) Where an employee makes the request within 6 months of requesting the same employer to vary[^key-30a5e5086b0f62380213046d6e12033b] deductions of the employee’s contributions to a qualifying scheme from the employee’s remuneration, the employer need not comply with the request but, where he does not do so, he must give notice to the employee in writing—
+(2) Where an employee makes the request within 6 months of requesting the same employer to vary[^c-30a5e5086b0f62380213046d6e12033b] deductions of the employee’s contributions to a qualifying scheme from the employee’s remuneration, the employer need not comply with the request but, where he does not do so, he must give notice to the employee in writing—
 
 - (a)[^c22661941] that—
   - (i) he is not complying with the request; and
   - (ii) the reason he is not complying with it is that it was made within 6 months of the employee requesting him to vary such deductions and the employer is permitted by these Regulations not to comply with it in such circumstances;
-- (b) informing him of the date (which must be no later than 6 months after the date of the employee’s previous request to vary such deductions) that the employee can make a new request to [^key-5a8ee4d293d5ef99397086d4c61da03d]... vary deductions of the employee’s contributions; and
+- (b) informing him of the date (which must be no later than 6 months after the date of the employee’s previous request to vary such deductions) that the employee can make a new request to [^c-5a8ee4d293d5ef99397086d4c61da03d]... vary deductions of the employee’s contributions; and
 - (c) informing him that—
-  - (i) he may require the employer to cease such deductions [^c22661961]... (if deductions are being made at the time of the request) but, if the employee makes such a request, the employer is not required to comply with any further request to make such deductions [^key-f1d464c644a5fda955fcc351d98a445d]...; and
-  - (ii) the employee may be able to[^key-512963797a43f57280dfbbe72eb4f33f] make payments, (subject to the trustees or manager refusing to accept them as permitted by or under these Regulations)[^c22661991] at a rate of his choosing, directly to the qualifying scheme.
+  - (i) he may require the employer to cease such deductions [^c22661961]... (if deductions are being made at the time of the request) but, if the employee makes such a request, the employer is not required to comply with any further request to make such deductions [^c-f1d464c644a5fda955fcc351d98a445d]...; and
+  - (ii) the employee may be able to[^c-512963797a43f57280dfbbe72eb4f33f] make payments, (subject to the trustees or manager refusing to accept them as permitted by or under these Regulations)[^c22661991] at a rate of his choosing, directly to the qualifying scheme.
 
 (2A)[^c22662011] Where the trustees or manager of the scheme in relation to which the request is made inform the employer that they will refuse, in accordance with regulation 17, to accept payment—
 
@@ -1096,21 +1096,21 @@ For the purposes of subsections (2) and (4) of section 2 (prescribed persons may
   - (ii) the employer is permitted by these Regulations not to comply with the request so far as the request relates to that contribution or to a contribution of that particular type;
 - (c) where the trustees or manager cite to the employer the ground of refusal in regulation 17 on which they will rely to refuse that contribution or contributions of that particular type, informing him that the trustees or manager have cited that ground of refusal in relation to that contribution or to contributions of that particular type; and
 - (d) informing him that—
-  - (i) he may require the employer to cease such deductions (if deductions are being made at the time of the request) but, if the employee makes such a request, the employer is not required to comply with any further request to make such deductions [^key-34119f19d40bb8a33b69b2c2e47b934d]...; and
-  - (ii) the employee may be able to[^key-6b4bd63b41026e34fa9aa7547e6c071b] make payments, (subject to the trustees or manager refusing to accept them as permitted by or under these Regulations) at a rate of his choosing, directly to the qualifying scheme.
+  - (i) he may require the employer to cease such deductions (if deductions are being made at the time of the request) but, if the employee makes such a request, the employer is not required to comply with any further request to make such deductions [^c-34119f19d40bb8a33b69b2c2e47b934d]...; and
+  - (ii) the employee may be able to[^c-6b4bd63b41026e34fa9aa7547e6c071b] make payments, (subject to the trustees or manager refusing to accept them as permitted by or under these Regulations) at a rate of his choosing, directly to the qualifying scheme.
 
 (3)[^c22662031] Where an employee requests an employer to cease to make deductions from the employee’s remuneration on account of contributions to a qualifying scheme, the employer must—
 
 - (a) comply with that request as soon as possible, but no later than the end of—
   - (i) the pay period following that in which that request is made; or
-  - (ii) where that request relates to a pay period later than the one following that in which that request is made, that later pay period; [^key-57e0e707b84232f5eb8a3e7ba8e6d862]...
-- (b)[^key-e50e5df26946d71b885cfb85ea1fdf4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) where that request relates to a pay period later than the one following that in which that request is made, that later pay period; [^c-57e0e707b84232f5eb8a3e7ba8e6d862]...
+- (b)[^c-e50e5df26946d71b885cfb85ea1fdf4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-ff1b877a1283870f9e5f8b7b61346422] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ff1b877a1283870f9e5f8b7b61346422] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Where an employer is notified that a stakeholder pension scheme that has been designated by him for the purposes of section 3(2) of the Act has commenced winding-up, the employer must immediately cease making deductions from the employee’s remuneration on account of contributions to that scheme and notify the employee in writing as soon as is practicable that those deductions have ceased.
 
-(5A)[^key-daaca2738012e88f987a736302db35e4] Where an employer has withdrawn their designation of a stakeholder pension scheme that has been designated by him for the purposes of section 3(2) of the Act for reasons beyond their control, the employer must immediately cease deducting contributions from the employee’s remuneration and notify the employee in writing as soon as is practicable that designation of that scheme has been withdrawn and deduction of contributions has ceased.
+(5A)[^c-daaca2738012e88f987a736302db35e4] Where an employer has withdrawn their designation of a stakeholder pension scheme that has been designated by him for the purposes of section 3(2) of the Act for reasons beyond their control, the employer must immediately cease deducting contributions from the employee’s remuneration and notify the employee in writing as soon as is practicable that designation of that scheme has been withdrawn and deduction of contributions has ceased.
 
 (5B) Where an employer—
 
@@ -1119,12 +1119,12 @@ For the purposes of subsections (2) and (4) of section 2 (prescribed persons may
 
 the employer need not comply with the requirement in section 3(5) of the Act.
 
-(6)[^c22662051] Any notice to be given under any of paragraphs (2) and (2B)[^key-c8b4586081bd9ab1902e692dad6d65c0] must be given prior to the end of—
+(6)[^c22662051] Any notice to be given under any of paragraphs (2) and (2B)[^c-c8b4586081bd9ab1902e692dad6d65c0] must be given prior to the end of—
 
 - (a) the pay period following that in which the request to which the notice relates is made; or
 - (b) where that request relates to a pay period later than the one following that in which that request is made, that later pay period.
 
-(7) In this regulation [^key-87e0b1ba8314ae92edb16cff488bae2f]... references, in relation to an employer, to an employee are references to a relevant employee of that employer where that relevant employee is a member of a qualifying scheme.
+(7) In this regulation [^c-87e0b1ba8314ae92edb16cff488bae2f]... references, in relation to an employer, to an employee are references to a relevant employee of that employer where that relevant employee is a member of a qualifying scheme.
 
 ### 25. Disclosure of information to relevant employees
 
@@ -1143,7 +1143,7 @@ the employer need not comply with the requirement in section 3(5) of the Act.
 
   and[^c22662221]
 - (e) advice that—
-  - (i) the trustees or manager of the scheme may refuse to accept a contribution if accepting it would contravene the scheme’s tax-registration[^key-f5e040ad92e723e66facaa466fa450b9];
+  - (i) the trustees or manager of the scheme may refuse to accept a contribution if accepting it would contravene the scheme’s tax-registration[^c-f5e040ad92e723e66facaa466fa450b9];
   - (ii) if the instruments establishing the scheme allow it, the trustees or manager may also refuse to accept payments of less than £20; and
   - (iii) where an employee requests an employer to make or vary deductions of the employee’s contributions to a qualifying scheme from the employee’s remuneration, the employer need not comply with that request so far as that request relates to any particular contribution, if the trustees or manager of the scheme inform the employer that they will refuse, in accordance with the regulation which allows them to refuse payments on the grounds referred to in sub-paragraphs (i) and (ii) (and on other grounds), to accept that contribution or contributions of that particular type.
 
@@ -1239,11 +1239,11 @@ In regulation 12 of the Occupational Pension Schemes (Preservation of Benefit) R
 
 .
 
-### 30. Amendment of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 1996[^key-cb3774750445266bc436139d922c8e54]
+### 30. Amendment of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 1996[^c-cb3774750445266bc436139d922c8e54]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Amendment of the Occupational Pension Schemes (Investment) Regulations 1996[^key-e0cf03ff8c9005712068aebcf0d91ffc]
+### 31. Amendment of the Occupational Pension Schemes (Investment) Regulations 1996[^c-e0cf03ff8c9005712068aebcf0d91ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1306,7 +1306,7 @@ Regulation 32
 | --- | --- |
 | The Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations 1997 [^c16023491] | The whole of the Regulations except regulations 3, and 8(1) and (1A) |
 | The Occupational Pension Schemes (Disclosure of Information) Regulations 1996 [^c16023501] | Regulations 1, 2, 6 and 7 and Schedule 3 (except paragraph 16 of that Schedule) |
-| The Occupational Pension Schemes (Internal Dispute Resolution Procedures Consequential and Miscellaneous Amendments) Regulations 2008[^key-ef11767ddf55f29516f62a2d69822d59] | The whole of the Regulations |
+| The Occupational Pension Schemes (Internal Dispute Resolution Procedures Consequential and Miscellaneous Amendments) Regulations 2008[^c-ef11767ddf55f29516f62a2d69822d59] | The whole of the Regulations |
 | The Occupational Pension Schemes (Investment) Regulations 1996 [^c16023521] | Regulations 1 and 10 |
 | The Occupational and Personal Pension Schemes (Levy) Regulations 1997 [^c16023531] | Regulations 5 to 8 and regulation 1 so far as relevant to those regulations |
 | The Occupational Pension Schemes (Pensions Compensation Provisions) Regulations 1997 [^c16023541] | The whole of the Regulations except regulation 8 |
@@ -1314,7 +1314,7 @@ Regulation 32
 | The Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations 1996[^c22662241] | The whole of the Regulations except regulations 2(1)(b) and 4 and[^c22662261] paragraph 5 of the Schedule to the Regulations |
 | The Occupational Pension Schemes (Scheme Administration) Regulations 1996 [^c16023571] | Regulations 1, 3(2)(a), (3) and (5) to (7), 4(1) and (2)(a) and (b), 5(1) to (10), 6(3), 7 to 11, 12(1) except sub-paragraph (b)(ix), 13(1) and 14 |
 
-## SCHEDULE 3 — Information for members[^key-29e076aab8bee9b4b11346b79342ac44]
+## SCHEDULE 3 — Information for members[^c-29e076aab8bee9b4b11346b79342ac44]
 
 Regulations 18 and 18A
 
@@ -1331,7 +1331,7 @@ Regulations 18 and 18A
   - (ii) where such deductions were made in relation to different periods at different rates—
     - (aa) each rate, expressed as an annual percentage rate, at which those deductions were made; and
     - (bb) the period in relation to which they were made at that rate; and
-- (d)[^key-179fbeb797f3d02b677e7b1e9679c209] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-179fbeb797f3d02b677e7b1e9679c209] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** The information which is listed in this paragraph, as mentioned in regulation 18A(1) and (7) and subject to paragraph 4, is—
 
@@ -1339,13 +1339,13 @@ Regulations 18 and 18A
 - (b) the amount of each contribution made by or on behalf of, or made in respect of, the member (except contributions falling within sub-paragraph (c) of this paragraph) and the date on which it was received;
 - (c) the amount of each contribution made by any employer on behalf of or in respect of the member and the date on which it was received;
 - (d) except where contributions referred to in sub-paragraphs (b) and (c) are increased by the trustees or manager in anticipation of a payment to the scheme by the Inland Revenue by way of tax relief in respect of the member, the amount of each such payment by the Inland Revenue and the date on which it was received;
-- (e)[^key-198ee83a363bf45809902f70cd6a0d01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-198ee83a363bf45809902f70cd6a0d01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-348067ddfc7bf2891c9dfc39f949aa72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-198ee83a363bf45809902f70cd6a0d01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-198ee83a363bf45809902f70cd6a0d01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-348067ddfc7bf2891c9dfc39f949aa72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) the amount of any transfer payment made to the scheme in respect of the member, the name of the scheme or arrangement from which the payment was made and the date on which it was made;
 - (i) any amount credited to the member’s account in respect of a credit within the meaning of section 29 (pension sharing: creation of pension debits and credits);
 - (j) any reduction under section 31 (pension sharing: reduction of benefit), or any enactment in force in Northern Ireland corresponding to that section, in the benefits or future benefits to which the member is entitled under the scheme;
-- (k)[^key-545858ea3ecede440cbdae5d3563e385] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-545858ea3ecede440cbdae5d3563e385] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (l) any amount paid to the member by way of income withdrawal or dependants’ income withdrawal as defined in paragraph 7 or, as the case may be, 21 of Schedule 28 to the Finance Act 2004 (registered pension schemes: authorised pensions – supplementary);
 - (m) any other amount deducted from the member’s account, the nature of the deduction and the date on which it was made;
 - (n) the total amount of any part of any of the contributions and payments mentioned in sub-paragraphs (b) to (i) which has not been credited to the member’s account and the manner in which that amount has been used; and
@@ -1379,8 +1379,8 @@ Regulations 18 and 18A
 
 - (a) a statement to the effect that assumptions have been made about the nature of the investments made for the purposes of the member’s money purchase benefits and their likely performance, which may not correspond with the investments actually made for those purposes, or their actual performance;
 - (b) a statement to the effect that the actual amount of any pension payable to or in respect of the member under the scheme will depend on considerations, including the actual performance of investments and the cost of buying an annuity at the time the pension becomes payable, which may be different from the assumptions made for the purposes of providing the information under regulation 18A(2);
-- (c) a statement specifying any assumptions made in relation to future contributions to the scheme; [^key-f3987291023dcfe2228054114c4a44ba]...
-- (d)[^key-3608a09c334fb3624e11748b9cc7c7fb] a statement of any assumptions made relating to the lump sum, the level of increases in the pension and the pension payable to the spouse or civil partner, and
+- (c) a statement specifying any assumptions made in relation to future contributions to the scheme; [^c-f3987291023dcfe2228054114c4a44ba]...
+- (d)[^c-3608a09c334fb3624e11748b9cc7c7fb] a statement of any assumptions made relating to the lump sum, the level of increases in the pension and the pension payable to the spouse or civil partner, and
 - (e) a statement of any changes to the assumptions mentioned in sub-paragraph (d) that were used for the previous information given under regulation 18A(2).
 
 **7.** The information listed in this paragraph, as mentioned in regulation 18A(9), is any change in the scheme’s rules or practice as regards the extent to which or the circumstances in which—
@@ -1420,103 +1420,103 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^c16023101]: Marginal citation: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-f1a78540bb3bd681892dc285450761de]: Textual amendment: Words in reg. 1(3) inserted (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/2/a/i)
+[^c-f1a78540bb3bd681892dc285450761de]: Textual amendment: Words in reg. 1(3) inserted (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/2/a/i)
 
-[^key-a5d2ce2933e0f046a9687c3da36d3eb8]: Textual amendment: Words in reg. 1(3) omitted (6.4.2012) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/14/2)
+[^c-a5d2ce2933e0f046a9687c3da36d3eb8]: Textual amendment: Words in reg. 1(3) omitted (6.4.2012) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/14/2)
 
-[^key-cb0581ddf0355e1280dd30b6d97c17cb]: Textual amendment: Words in reg. 1(3) omitted (9.8.2012) by virtue of [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2012 (S.I. 2012/1817)](https://www.legislation.gov.uk/uksi/2012/1817), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1817/regulation/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2012/1817/schedule/paragraph/6/a)
+[^c-cb0581ddf0355e1280dd30b6d97c17cb]: Textual amendment: Words in reg. 1(3) omitted (9.8.2012) by virtue of [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2012 (S.I. 2012/1817)](https://www.legislation.gov.uk/uksi/2012/1817), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1817/regulation/1), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2012/1817/schedule/paragraph/6/a)
 
-[^key-de41475170d12a8cc9c928cf25cac7be]: Textual amendment: Words in reg. 1(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 31(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/31/a/i)
+[^c-de41475170d12a8cc9c928cf25cac7be]: Textual amendment: Words in reg. 1(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 31(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/31/a/i)
 
-[^key-b20ca01c548f82c01ed6e2141d02e9e1]: Textual amendment: Words in reg. 1(3) inserted (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/2/a/ii)
+[^c-b20ca01c548f82c01ed6e2141d02e9e1]: Textual amendment: Words in reg. 1(3) inserted (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/2/a/ii)
 
-[^key-8061a48a02ba481c0992fd0415ac7392]: Textual amendment: Words in reg. 1(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 31(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/31/a/ii)
+[^c-8061a48a02ba481c0992fd0415ac7392]: Textual amendment: Words in reg. 1(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 31(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/31/a/ii)
 
-[^key-59cf35118bfd3c31f1ada8d0410696c0]: Textual amendment: Words in reg. 1(3) inserted (6.4.2003) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Amendment Regulations 2002 (S.I. 2002/1383)](https://www.legislation.gov.uk/uksi/2002/1383), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1383/regulation/1/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2002/1383/regulation/4/1/b)
+[^c-59cf35118bfd3c31f1ada8d0410696c0]: Textual amendment: Words in reg. 1(3) inserted (6.4.2003) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Amendment Regulations 2002 (S.I. 2002/1383)](https://www.legislation.gov.uk/uksi/2002/1383), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1383/regulation/1/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2002/1383/regulation/4/1/b)
 
-[^key-c805eaec111330244b5747ccb787a429]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/3) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/2/a)
+[^c-c805eaec111330244b5747ccb787a429]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/3) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/2/a)
 
-[^key-c7159631c0db33ed57d5d20251172d84]: Textual amendment: Words in reg. 1(3) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/2/a)
+[^c-c7159631c0db33ed57d5d20251172d84]: Textual amendment: Words in reg. 1(3) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/2/a)
 
-[^key-2564f6022a3d1e390feff10fadb6d98f]: Textual amendment: Words in reg. 1(3) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [595(1)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/595/1/a)
+[^c-2564f6022a3d1e390feff10fadb6d98f]: Textual amendment: Words in reg. 1(3) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [595(1)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/595/1/a)
 
-[^key-9af531249d7f7a9f8a4f58b710c43416]: Textual amendment: Words in reg. 1(3) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [595(1)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/595/1/a)
+[^c-9af531249d7f7a9f8a4f58b710c43416]: Textual amendment: Words in reg. 1(3) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [595(1)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/595/1/a)
 
-[^key-46106e6169c8c4fce5a39e95d4c88592]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/3) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/15/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46106e6169c8c4fce5a39e95d4c88592]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/3) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/15/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fd093dcfc5957dcd8a885d0a45b39fd4]: Textual amendment: Words in reg. 1(3) omitted (6.4.2005) by virtue of [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2005/577/regulation/2/2/d)
+[^c-fd093dcfc5957dcd8a885d0a45b39fd4]: Textual amendment: Words in reg. 1(3) omitted (6.4.2005) by virtue of [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [2(2)(d)](https://www.legislation.gov.uk/uksi/2005/577/regulation/2/2/d)
 
-[^key-2a390cd0f743641fabb0695294fd1caa]: Textual amendment: Words in reg. 1(3) inserted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2005/577/regulation/2/2/c)
+[^c-2a390cd0f743641fabb0695294fd1caa]: Textual amendment: Words in reg. 1(3) inserted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2005/577/regulation/2/2/c)
 
-[^key-4071718cebf26b5e1df0a53272906bb9]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/3) omitted (6.4.2015) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/20/2)
+[^c-4071718cebf26b5e1df0a53272906bb9]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/3) omitted (6.4.2015) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/20/2)
 
-[^key-1b8f79a26c316c65add0f37b2d3215f9]: Textual amendment: Words in reg. 1(3) inserted (6.4.2003) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Amendment Regulations 2002 (S.I. 2002/1383)](https://www.legislation.gov.uk/uksi/2002/1383), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1383/regulation/1/1), [4(1)(c)](https://www.legislation.gov.uk/uksi/2002/1383/regulation/4/1/c)
+[^c-1b8f79a26c316c65add0f37b2d3215f9]: Textual amendment: Words in reg. 1(3) inserted (6.4.2003) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Amendment Regulations 2002 (S.I. 2002/1383)](https://www.legislation.gov.uk/uksi/2002/1383), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1383/regulation/1/1), [4(1)(c)](https://www.legislation.gov.uk/uksi/2002/1383/regulation/4/1/c)
 
-[^key-c1b3c42985084097a1b5161ef597d7f2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/3) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/2/b/i)
+[^c-c1b3c42985084097a1b5161ef597d7f2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/3) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/2/b/i)
 
-[^key-8bb5e1c454b360d524c8d2d805a48194]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/3) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/2/b/ii)
+[^c-8bb5e1c454b360d524c8d2d805a48194]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/3) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/2/b/ii)
 
-[^key-ef2993fd9ef1569f64199bb59d214d9f]: Textual amendment: Words in reg. 1(3) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(2)(a)(i)](https://www.legislation.gov.uk/uksi/2006/744/article/20/2/a/i)
+[^c-ef2993fd9ef1569f64199bb59d214d9f]: Textual amendment: Words in reg. 1(3) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(2)(a)(i)](https://www.legislation.gov.uk/uksi/2006/744/article/20/2/a/i)
 
-[^key-35d3758b3502df1de282d8a1af01b4b2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/3) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(2)(c)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/2/c)
+[^c-35d3758b3502df1de282d8a1af01b4b2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/3) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(2)(c)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/2/c)
 
-[^key-9f0718160af7a50065d4660a6a5d56d7]: Textual amendment: Words in reg. 1(3) inserted (6.4.2003) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Amendment Regulations 2002 (S.I. 2002/1383)](https://www.legislation.gov.uk/uksi/2002/1383), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1383/regulation/1/1), [4(1)(e)](https://www.legislation.gov.uk/uksi/2002/1383/regulation/4/1/e)
+[^c-9f0718160af7a50065d4660a6a5d56d7]: Textual amendment: Words in reg. 1(3) inserted (6.4.2003) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Amendment Regulations 2002 (S.I. 2002/1383)](https://www.legislation.gov.uk/uksi/2002/1383), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/1383/regulation/1/1), [4(1)(e)](https://www.legislation.gov.uk/uksi/2002/1383/regulation/4/1/e)
 
-[^key-99575439cc3a834b6a8516e2b1283b7b]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/3) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(2)(d)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/2/d)
+[^c-99575439cc3a834b6a8516e2b1283b7b]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/1/3) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(2)(d)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/2/d)
 
 [^c22574371]: Textual amendment: Words in reg. 1(3) inserted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2001/934/regulation/2/3/b)
 
-[^key-ead344095ce69178957dabff121f1d61]: Textual amendment: Words in reg. 1(3) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [595(1)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/595/1/b)
+[^c-ead344095ce69178957dabff121f1d61]: Textual amendment: Words in reg. 1(3) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [595(1)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/595/1/b)
 
-[^key-ec9a644c35eea5750cc850c8c89022a2]: Textual amendment: Words in reg. 1(3) omitted (6.4.2005) by virtue of [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2005/577/regulation/2/2/e)
+[^c-ec9a644c35eea5750cc850c8c89022a2]: Textual amendment: Words in reg. 1(3) omitted (6.4.2005) by virtue of [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [2(2)(e)](https://www.legislation.gov.uk/uksi/2005/577/regulation/2/2/e)
 
-[^key-1a75b47bff2be5f46e1305d255352f0a]: Textual amendment: Words in reg. 1(3) inserted (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(2)(a)(v)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/2/a/v)
+[^c-1a75b47bff2be5f46e1305d255352f0a]: Textual amendment: Words in reg. 1(3) inserted (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(2)(a)(v)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/2/a/v)
 
-[^key-42b5cf0f6286c168cc093dc93f939703]: Textual amendment: Words in reg. 1(3) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/744/article/20/2/a/ii)
+[^c-42b5cf0f6286c168cc093dc93f939703]: Textual amendment: Words in reg. 1(3) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/744/article/20/2/a/ii)
 
-[^key-bb72fd97b47b614bc788b27abdd8ab71]: Textual amendment: Word in reg. 1(3) substituted (3.7.2002) by [The Financial Services and Markets Act 2000 (Consequential Amendments) Order 2002 (S.I. 2002/1555)](https://www.legislation.gov.uk/uksi/2002/1555), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1555/article/1), [40(2)(b)](https://www.legislation.gov.uk/uksi/2002/1555/article/40/2/b)
+[^c-bb72fd97b47b614bc788b27abdd8ab71]: Textual amendment: Word in reg. 1(3) substituted (3.7.2002) by [The Financial Services and Markets Act 2000 (Consequential Amendments) Order 2002 (S.I. 2002/1555)](https://www.legislation.gov.uk/uksi/2002/1555), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1555/article/1), [40(2)(b)](https://www.legislation.gov.uk/uksi/2002/1555/article/40/2/b)
 
-[^key-a4296012e783fff2167595ca435632fa]: Textual amendment: Reg. 1(3A) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [595(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/595/2)
+[^c-a4296012e783fff2167595ca435632fa]: Textual amendment: Reg. 1(3A) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [595(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/595/2)
 
-[^key-a5a176cd4efd2ec59b10aad1f5d9b021]: Textual amendment: Reg. 1(4)(4A) omitted (1.12.2010) by virtue of [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/2/b)
+[^c-a5a176cd4efd2ec59b10aad1f5d9b021]: Textual amendment: Reg. 1(4)(4A) omitted (1.12.2010) by virtue of [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/2/b)
 
-[^key-657998a246c3e654adca27b63b9da2e4]: Textual amendment: Reg. 1(4)(4A) substituted for reg. 1(4) (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/577/regulation/2/3)
+[^c-657998a246c3e654adca27b63b9da2e4]: Textual amendment: Reg. 1(4)(4A) substituted for reg. 1(4) (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/577/regulation/2/3)
 
 [^c16023171]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Section 249 was amended by section 90, Schedule 15 to the [Building Societies Act 1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53) and section 23, Schedule 102 to the [Friendly Societies Act 1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40).
 
-[^key-f21a848d1b4e94e5a09736e9e5e5ccd0]: Textual amendment: Words in reg. 1(5) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/2/2)
+[^c-f21a848d1b4e94e5a09736e9e5e5ccd0]: Textual amendment: Words in reg. 1(5) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/2/2)
 
-[^key-bbfb12febc689bf119dd48237b04e2a2]: Textual amendment: Words in reg. 1(6) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(2)(b)](https://www.legislation.gov.uk/uksi/2006/744/article/20/2/b)
+[^c-bbfb12febc689bf119dd48237b04e2a2]: Textual amendment: Words in reg. 1(6) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(2)(b)](https://www.legislation.gov.uk/uksi/2006/744/article/20/2/b)
 
 [^c22576281]: Textual amendment: Reg. 1(8) inserted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2001/934/regulation/2/4)
 
-[^key-ac68d394a41f70b3783813b8e209dd3c]: Textual amendment: Reg. 1(8) omitted (6.4.2005) by virtue of [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2005/577/regulation/2/4)
+[^c-ac68d394a41f70b3783813b8e209dd3c]: Textual amendment: Reg. 1(8) omitted (6.4.2005) by virtue of [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2005/577/regulation/2/4)
 
-[^key-13ee75140a788491eff152c63b17530d]: Textual amendment: Reg. 2(2) substituted for reg. 2(2)(3) (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/3)
+[^c-13ee75140a788491eff152c63b17530d]: Textual amendment: Reg. 2(2) substituted for reg. 2(2)(3) (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/3)
 
 [^c22579531]: Textual amendment: Words in reg. 3(1) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2001/934/regulation/2/2)
 
 [^c22579371]: Textual amendment: Words in reg. 3(1) substituted (14.2.2001) by [The Stakeholder Pension Schemes (Amendment) Regulations 2001 (S.I. 2001/104)](https://www.legislation.gov.uk/uksi/2001/104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/104/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2001/104/regulation/3/2)
 
-[^key-edddd9e833a8ff1c0f407fca7c1aefef]: Textual amendment: Words in reg. 3(4) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2005/577/regulation/7/2)
+[^c-edddd9e833a8ff1c0f407fca7c1aefef]: Textual amendment: Words in reg. 3(4) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2005/577/regulation/7/2)
 
-[^key-f010c80845b2d2fe72f5eb10a1e8cdac]: Textual amendment: Words in reg. 3(5)(a) omitted (6.4.2009) by virtue of [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/16/2)
+[^c-f010c80845b2d2fe72f5eb10a1e8cdac]: Textual amendment: Words in reg. 3(5)(a) omitted (6.4.2009) by virtue of [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/16/2)
 
 [^c16023191]: Marginal citation: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147).
 
-[^key-2b544d0ff6f8b5d342a1a1640f05ca84]: Textual amendment: Words in reg. 3(5)(f) omitted (6.4.2009) by virtue of [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/16/2)
+[^c-2b544d0ff6f8b5d342a1a1640f05ca84]: Textual amendment: Words in reg. 3(5)(f) omitted (6.4.2009) by virtue of [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/16/2)
 
 [^c22579391]: Textual amendment: Reg. 3(5A) inserted (14.2.2001) by [The Stakeholder Pension Schemes (Amendment) Regulations 2001 (S.I. 2001/104)](https://www.legislation.gov.uk/uksi/2001/104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/104/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2001/104/regulation/3/4)
 
 [^c22579571]: Textual amendment: Words in reg. 3(5A) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2001/934/regulation/3/3)
 
-[^key-611da3d7305127525fc4aa511abb3d76]: Textual amendment: Words in reg. 3(5A)(5B) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(3)](https://www.legislation.gov.uk/uksi/2006/744/article/20/3)
+[^c-611da3d7305127525fc4aa511abb3d76]: Textual amendment: Words in reg. 3(5A)(5B) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(3)](https://www.legislation.gov.uk/uksi/2006/744/article/20/3)
 
 [^c22579591]: Textual amendment: Reg. 3(5B) inserted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2001/934/regulation/3/4)
 
 [^c16023201]: Marginal citation: Section 97 was amended by paragraph 4(a) to (c) of Schedule 6 to the Pensions Act 1995.
 
-[^key-9c2d5b7da52fadf894c5a00e08be7da2]: Textual amendment: Reg. 3(7) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [20(2)](https://www.legislation.gov.uk/uksi/2011/1246/article/20/2)
+[^c-9c2d5b7da52fadf894c5a00e08be7da2]: Textual amendment: Reg. 3(7) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [20(2)](https://www.legislation.gov.uk/uksi/2011/1246/article/20/2)
 
 [^c22579411]: Textual amendment: Reg. 3(10)(11) inserted (14.2.2001) by [The Stakeholder Pension Schemes (Amendment) Regulations 2001 (S.I. 2001/104)](https://www.legislation.gov.uk/uksi/2001/104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/104/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2001/104/regulation/3/4)
 
@@ -1536,39 +1536,39 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^c16023231]: Marginal citation: Section 95 was amended by paragraph 3 of Schedule 6 to the Pensions Act 1995.
 
-[^key-8f88fa9752b8398431e6c8872b23282a]: Textual amendment: Word in reg. 6(4)(b) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(4)(a)](https://www.legislation.gov.uk/uksi/2006/744/article/20/4/a)
+[^c-8f88fa9752b8398431e6c8872b23282a]: Textual amendment: Word in reg. 6(4)(b) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(4)(a)](https://www.legislation.gov.uk/uksi/2006/744/article/20/4/a)
 
-[^key-c8b73cfdb250d55c99c0044d5661d753]: Textual amendment: Word in reg. 6(4)(b) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(4)(b)](https://www.legislation.gov.uk/uksi/2006/744/article/20/4/b)
+[^c-c8b73cfdb250d55c99c0044d5661d753]: Textual amendment: Word in reg. 6(4)(b) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(4)(b)](https://www.legislation.gov.uk/uksi/2006/744/article/20/4/b)
 
-[^key-a4e71d63d22bb064fec5f5c54bc3a834]: Textual amendment: Words in reg. 6(5) omitted (6.4.2005) by virtue of [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2005/577/regulation/3/2/a)
+[^c-a4e71d63d22bb064fec5f5c54bc3a834]: Textual amendment: Words in reg. 6(5) omitted (6.4.2005) by virtue of [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2005/577/regulation/3/2/a)
 
-[^key-92b70a001719b8ec70d736e3d70b04a6]: Textual amendment: Words in reg. 6(5)(a) inserted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2005/577/regulation/3/2/b)
+[^c-92b70a001719b8ec70d736e3d70b04a6]: Textual amendment: Words in reg. 6(5)(a) inserted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2005/577/regulation/3/2/b)
 
-[^key-e007350ca619471f6e2bbd64cfd8fcd4]: Textual amendment: Reg. 6(6)(b) omitted (6.4.2005) by virtue of [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2005/577/regulation/3/3/a)
+[^c-e007350ca619471f6e2bbd64cfd8fcd4]: Textual amendment: Reg. 6(6)(b) omitted (6.4.2005) by virtue of [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2005/577/regulation/3/3/a)
 
-[^key-0161e7faf2616f0280f64d6c9f283dc7]: Textual amendment: Words in reg. 6(6)(c) omitted (6.4.2005) by virtue of [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2005/577/regulation/3/3/b/i)
+[^c-0161e7faf2616f0280f64d6c9f283dc7]: Textual amendment: Words in reg. 6(6)(c) omitted (6.4.2005) by virtue of [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2005/577/regulation/3/3/b/i)
 
-[^key-f215cda6ae3593f3ed4e73518141c262]: Textual amendment: Words in reg. 6(6)(c) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/577/regulation/3/3/b/ii)
+[^c-f215cda6ae3593f3ed4e73518141c262]: Textual amendment: Words in reg. 6(6)(c) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/577/regulation/3/3/b/ii)
 
-[^key-3806a6c6fe5b7eff467184771c6c4328]: Textual amendment: Reg. 6(8) omitted (1.12.2010) by virtue of [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/3)
+[^c-3806a6c6fe5b7eff467184771c6c4328]: Textual amendment: Reg. 6(8) omitted (1.12.2010) by virtue of [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/3)
 
-[^key-b6dfb4c196daca6af3b29764256d9ad7]: Textual amendment: Reg. 7(1) substituted (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/4)
+[^c-b6dfb4c196daca6af3b29764256d9ad7]: Textual amendment: Reg. 7(1) substituted (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/4)
 
-[^key-576ea0c040434c2452f328e0fc107e77]: Textual amendment: Words in reg. 8(4)(5) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2005/577/regulation/4/2)
+[^c-576ea0c040434c2452f328e0fc107e77]: Textual amendment: Words in reg. 8(4)(5) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2005/577/regulation/4/2)
 
-[^key-3a31c879bff2427251f17eced36d2be5]: Textual amendment: Words in reg. 8(4) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [596(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/596/1)
+[^c-3a31c879bff2427251f17eced36d2be5]: Textual amendment: Words in reg. 8(4) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [596(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/596/1)
 
-[^key-bfb412a70af32efa7f87ad8d4f9ddcca]: Textual amendment: Word in reg. 8(5) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [595(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/595/3)
+[^c-bfb412a70af32efa7f87ad8d4f9ddcca]: Textual amendment: Word in reg. 8(5) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [595(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/595/3)
 
-[^key-0dc7dbe78a311d10fcacae6ba049ea3b]: Textual amendment: Words in reg. 8(6) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [596(2)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/596/2/a)
+[^c-0dc7dbe78a311d10fcacae6ba049ea3b]: Textual amendment: Words in reg. 8(6) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [596(2)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/596/2/a)
 
-[^key-3c4db71c229fe82b0a84b6f9a1e4bc14]: Textual amendment: Words in reg. 8(6) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [596(2)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/596/2/b)
+[^c-3c4db71c229fe82b0a84b6f9a1e4bc14]: Textual amendment: Words in reg. 8(6) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [596(2)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/596/2/b)
 
-[^key-b4a5ebaa7a1746d48284b15463b710f0]: Textual amendment: Words in reg. 8(6) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [596(2)(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/596/2/c)
+[^c-b4a5ebaa7a1746d48284b15463b710f0]: Textual amendment: Words in reg. 8(6) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [596(2)(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/596/2/c)
 
 [^c16023291]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6). Section 736 was substituted by section 144(1) of the [Companies Act 1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40).
 
-[^key-dd9eff0fabbd190fcde00093ff137291]: Textual amendment: Reg. 8(7) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [596(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/596/3)
+[^c-dd9eff0fabbd190fcde00093ff137291]: Textual amendment: Reg. 8(7) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [596(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/596/3)
 
 [^c22579701]: Textual amendment: Words in reg. 10(4) inserted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2001/934/regulation/6/2)
 
@@ -1576,9 +1576,9 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^c22579741]: Textual amendment: Words in reg. 10(5) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2001/934/regulation/6/4)
 
-[^key-557eead71641fe21115c9c167fcdd77f]: Textual amendment: Reg. 10(5)(a) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [597(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/597/1)
+[^c-557eead71641fe21115c9c167fcdd77f]: Textual amendment: Reg. 10(5)(a) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [597(1)](https://www.legislation.gov.uk/uksi/2001/3649/article/597/1)
 
-[^key-e1dc927b4cd5a0c98d741e1d8180b693]: Textual amendment: Reg. 10(5A) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [597(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/597/2)
+[^c-e1dc927b4cd5a0c98d741e1d8180b693]: Textual amendment: Reg. 10(5A) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [597(2)](https://www.legislation.gov.uk/uksi/2001/3649/article/597/2)
 
 [^c22579761]: Textual amendment: Words in reg. 10(6) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2001/934/regulation/6/5/a)
 
@@ -1590,7 +1590,7 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^c22579851]: Textual amendment: Reg. 10(8) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [6(7)](https://www.legislation.gov.uk/uksi/2001/934/regulation/6/7)
 
-[^key-93015b2f69cd248b416396d312935944]: Textual amendment: Reg. 10A –10E inserted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2005/577/regulation/5)
+[^c-93015b2f69cd248b416396d312935944]: Textual amendment: Reg. 10A –10E inserted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2005/577/regulation/5)
 
 [^c22579871]: Textual amendment: Word in reg. 11(1) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2001/934/regulation/7/2)
 
@@ -1598,197 +1598,197 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^c22579911]: Textual amendment: Reg. 11(3) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2001/934/regulation/7/4)
 
-[^key-051fc7922d929d6af0030cd3feeb8e39]: Textual amendment: Reg. 11(4) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/2)
+[^c-051fc7922d929d6af0030cd3feeb8e39]: Textual amendment: Reg. 11(4) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/2)
 
 [^c22579951]: Textual amendment: Words in reg. 11(6)-(8) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2001/934/regulation/7/6)
 
-[^key-7a86deb8d3c616723fdaf6888b2c8591]: Textual amendment: Words in reg. 11(6) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/3)
+[^c-7a86deb8d3c616723fdaf6888b2c8591]: Textual amendment: Words in reg. 11(6) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/3)
 
-[^key-1dbdd651aef83d499ae5e84570a8775f]: Textual amendment: Words in reg. 11(7) omitted (9.9.2002) by virtue of [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/4)
+[^c-1dbdd651aef83d499ae5e84570a8775f]: Textual amendment: Words in reg. 11(7) omitted (9.9.2002) by virtue of [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/4)
 
 [^c22580011]: Textual amendment: Reg. 11(7)(b) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [7(7)(b)](https://www.legislation.gov.uk/uksi/2001/934/regulation/7/7/b)
 
 [^c22580031]: Textual amendment: Reg. 11(7A) inserted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [7(8)](https://www.legislation.gov.uk/uksi/2001/934/regulation/7/8)
 
-[^key-db54e20f78228bd52f2211e985fb5fb2]: Textual amendment: Words in reg. 11(7A) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/5/a)
+[^c-db54e20f78228bd52f2211e985fb5fb2]: Textual amendment: Words in reg. 11(7A) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/5/a)
 
-[^key-7606739e83ae48b4c4fc44222d3eae22]: Textual amendment: Reg. 11(7A)(c) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/5/b)
+[^c-7606739e83ae48b4c4fc44222d3eae22]: Textual amendment: Reg. 11(7A)(c) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/5/b)
 
-[^key-8261a094e56a13920b1978fa5aae2e8a]: Textual amendment: Words in reg. 11(7A)(e) omitted (9.9.2002) by virtue of [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(5)(c)(i)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/5/c/i)
+[^c-8261a094e56a13920b1978fa5aae2e8a]: Textual amendment: Words in reg. 11(7A)(e) omitted (9.9.2002) by virtue of [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(5)(c)(i)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/5/c/i)
 
-[^key-22c2011e1158649bc62982c2c71223b8]: Textual amendment: Words in reg. 11(7A)(e) omitted (9.9.2002) by virtue of [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/5/c/ii)
+[^c-22c2011e1158649bc62982c2c71223b8]: Textual amendment: Words in reg. 11(7A)(e) omitted (9.9.2002) by virtue of [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/5/c/ii)
 
-[^key-a5970215060bbde06e286416ccc7b97c]: Textual amendment: Words in reg. 11(7A)(e) omitted (9.9.2002) by virtue of [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/5/c/iii)
+[^c-a5970215060bbde06e286416ccc7b97c]: Textual amendment: Words in reg. 11(7A)(e) omitted (9.9.2002) by virtue of [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/5/c/iii)
 
-[^key-49c3722e7e1d02c0146bc33a516faa59]: Textual amendment: Reg. 11(8)(9) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/6)
+[^c-49c3722e7e1d02c0146bc33a516faa59]: Textual amendment: Reg. 11(8)(9) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/6)
 
 [^c22580101]: Textual amendment: Reg. 11(9)-(11) inserted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [7(10)](https://www.legislation.gov.uk/uksi/2001/934/regulation/7/10)
 
-[^key-e6ea7bd3f690733431841f315a813518]: Textual amendment: Words in reg. 11(10) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/10)
+[^c-e6ea7bd3f690733431841f315a813518]: Textual amendment: Words in reg. 11(10) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/3/10)
 
-[^key-97b41f2813b80e61d159d643d13f6b3e]: Textual amendment: Reg. 12 substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2002/2098/regulation/4)
+[^c-97b41f2813b80e61d159d643d13f6b3e]: Textual amendment: Reg. 12 substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2002/2098/regulation/4)
 
-[^key-b97aeaccdf743d7838ef53ccb30e6245]: Textual amendment: Words in reg. 12(5)(a)(i) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2005/577/regulation/7/3/a)
+[^c-b97aeaccdf743d7838ef53ccb30e6245]: Textual amendment: Words in reg. 12(5)(a)(i) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2005/577/regulation/7/3/a)
 
-[^key-84a5bb10c65d961958136164ee09f346]: Textual amendment: Word in reg. 12(5)(a)(iv)(d)(ii) substituted (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/5)
+[^c-84a5bb10c65d961958136164ee09f346]: Textual amendment: Word in reg. 12(5)(a)(iv)(d)(ii) substituted (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/5)
 
-[^key-3584e3311e9f338214eefca5a05cb183]: Textual amendment: Words in reg. 12(5)(d)(i) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2005/577/regulation/7/3/a)
+[^c-3584e3311e9f338214eefca5a05cb183]: Textual amendment: Words in reg. 12(5)(d)(i) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2005/577/regulation/7/3/a)
 
-[^key-b24f589befa68b6d666302b69a385d96]: Textual amendment: Words in reg. 13(1) inserted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2005/577/regulation/6/2)
+[^c-b24f589befa68b6d666302b69a385d96]: Textual amendment: Words in reg. 13(1) inserted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2005/577/regulation/6/2)
 
-[^key-8ebf9175c4bd6b3cc47c5a5623d5c2b5]: Textual amendment: Words in reg. 13(2)(b) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2005/577/regulation/6/3)
+[^c-8ebf9175c4bd6b3cc47c5a5623d5c2b5]: Textual amendment: Words in reg. 13(2)(b) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2005/577/regulation/6/3)
 
 [^c22580291]: Textual amendment: Reg. 13(2A) inserted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2001/934/regulation/9/2)
 
-[^key-ffc90db2a4a8b831ce6a2fb1d41ef2ce]: Textual amendment: Words in reg. 13(3) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2005/577/regulation/6/4)
+[^c-ffc90db2a4a8b831ce6a2fb1d41ef2ce]: Textual amendment: Words in reg. 13(3) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2005/577/regulation/6/4)
 
 [^c22580311]: Textual amendment: Reg. 13(4) inserted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2001/934/regulation/9/3)
 
-[^key-1a396123ac211a233c910fa40056c133]: Textual amendment: Reg. 13(4)(a) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [20(3)](https://www.legislation.gov.uk/uksi/2011/1246/article/20/3)
+[^c-1a396123ac211a233c910fa40056c133]: Textual amendment: Reg. 13(4)(a) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) Order 2011 (S.I. 2011/1246)](https://www.legislation.gov.uk/uksi/2011/1246), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1246/article/1/2/a), [20(3)](https://www.legislation.gov.uk/uksi/2011/1246/article/20/3)
 
-[^key-7e9643d638afd425ae8aa142e7354680]: Textual amendment: [Reg. 13(5)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/13/5) inserted (6.4.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations 2015 (S.I. 2015/879)](https://www.legislation.gov.uk/uksi/2015/879), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/12/2)
+[^c-7e9643d638afd425ae8aa142e7354680]: Textual amendment: [Reg. 13(5)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/13/5) inserted (6.4.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations 2015 (S.I. 2015/879)](https://www.legislation.gov.uk/uksi/2015/879), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/12/2)
 
-[^key-1b8a0df1f01962896fe643a1554359f3]: Textual amendment: Reg. 14 - 14C substituted for reg. 14 (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/7/1)
+[^c-1b8a0df1f01962896fe643a1554359f3]: Textual amendment: Reg. 14 - 14C substituted for reg. 14 (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/7/1)
 
-[^key-a62aadec12aff65ca0448ce3b3649702]: Textual amendment: Words in reg. 14(1) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2007/814/regulation/11/2/a)
+[^c-a62aadec12aff65ca0448ce3b3649702]: Textual amendment: Words in reg. 14(1) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [11(2)(a)](https://www.legislation.gov.uk/uksi/2007/814/regulation/11/2/a)
 
-[^key-ac20998d5dfec84cac4cb50a00c554ae]: Textual amendment: Word in reg. 14(5)(f) added (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/4/a)
+[^c-ac20998d5dfec84cac4cb50a00c554ae]: Textual amendment: Word in reg. 14(5)(f) added (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/4/a)
 
-[^key-376e925abfacedc768179acf5367c3a5]: Textual amendment: Word in reg. 14(5)(g) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/4/b)
+[^c-376e925abfacedc768179acf5367c3a5]: Textual amendment: Word in reg. 14(5)(g) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/4/b)
 
-[^key-f01f27b0d280da4f28951be68e833190]: Textual amendment: Reg. 14(5)(h) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/2/b)
+[^c-f01f27b0d280da4f28951be68e833190]: Textual amendment: Reg. 14(5)(h) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/2/b)
 
-[^key-3c8a9bcd06164408eb28647413e5c04a]: Textual amendment: Reg. 14(5A) inserted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2007/814/regulation/11/2/b)
+[^c-3c8a9bcd06164408eb28647413e5c04a]: Textual amendment: Reg. 14(5A) inserted (6.4.2007) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2007/814/regulation/11/2/b)
 
-[^key-2d3fe9493a55b97aec0f04d000ece433]: Textual amendment: [Reg. 14D](https://www.legislation.gov.uk/uksi/2000/1403/regulation/14D) inserted (6.4.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations 2015 (S.I. 2015/879)](https://www.legislation.gov.uk/uksi/2015/879), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2015/879/regulation/12/3)
+[^c-2d3fe9493a55b97aec0f04d000ece433]: Textual amendment: [Reg. 14D](https://www.legislation.gov.uk/uksi/2000/1403/regulation/14D) inserted (6.4.2015) by [The Occupational Pension Schemes (Charges and Governance) Regulations 2015 (S.I. 2015/879)](https://www.legislation.gov.uk/uksi/2015/879), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/879/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2015/879/regulation/12/3)
 
-[^key-b04526c04f821b6740dbd16947467289]: Textual amendment: Word in reg. 15(3) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [595(4)](https://www.legislation.gov.uk/uksi/2001/3649/article/595/4)
+[^c-b04526c04f821b6740dbd16947467289]: Textual amendment: Word in reg. 15(3) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [595(4)](https://www.legislation.gov.uk/uksi/2001/3649/article/595/4)
 
-[^key-fad95ad0db60484088c1dde3042d1927]: Textual amendment: Word in reg. 15(3)(c) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2005/577/regulation/8/2)
+[^c-fad95ad0db60484088c1dde3042d1927]: Textual amendment: Word in reg. 15(3)(c) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2005/577/regulation/8/2)
 
-[^key-4ad7e95eff2845377fbeb6825375c156]: Textual amendment: Words in reg. 15(3)(c) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/5/2)
+[^c-4ad7e95eff2845377fbeb6825375c156]: Textual amendment: Words in reg. 15(3)(c) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/5/2)
 
-[^key-6218c60c540aacc2eb6b8787ad337628]: Textual amendment: Word in reg. 15(4)(5) substituted (3.7.2002) by [The Financial Services and Markets Act 2000 (Consequential Amendments) Order 2002 (S.I. 2002/1555)](https://www.legislation.gov.uk/uksi/2002/1555), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1555/article/1), [40(3)](https://www.legislation.gov.uk/uksi/2002/1555/article/40/3)
+[^c-6218c60c540aacc2eb6b8787ad337628]: Textual amendment: Word in reg. 15(4)(5) substituted (3.7.2002) by [The Financial Services and Markets Act 2000 (Consequential Amendments) Order 2002 (S.I. 2002/1555)](https://www.legislation.gov.uk/uksi/2002/1555), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1555/article/1), [40(3)](https://www.legislation.gov.uk/uksi/2002/1555/article/40/3)
 
 [^c22580511]: Textual amendment: Words in reg. 15(4) omitted (5.4.2001) by virtue of [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2001/934/regulation/11/3/a)
 
-[^key-8b82e3b978a2a3ce9c58a709093ed3a0]: Textual amendment: Word in reg. 15(4) omitted (6.4.2005) by virtue of [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2005/577/regulation/8/3)
+[^c-8b82e3b978a2a3ce9c58a709093ed3a0]: Textual amendment: Word in reg. 15(4) omitted (6.4.2005) by virtue of [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2005/577/regulation/8/3)
 
 [^c22580531]: Textual amendment: Words in reg. 15(4) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2001/934/regulation/11/3/b)
 
-[^key-593f681a1588dbc1661b388829542285]: Textual amendment: Words in reg. 15(4)(a) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2005/577/regulation/7/3/b)
+[^c-593f681a1588dbc1661b388829542285]: Textual amendment: Words in reg. 15(4)(a) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2005/577/regulation/7/3/b)
 
-[^key-ecc2bfd2cd00a33cd6b55a9a755a0c90]: Textual amendment: Words in reg. 15(4)(b) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/5/3)
+[^c-ecc2bfd2cd00a33cd6b55a9a755a0c90]: Textual amendment: Words in reg. 15(4)(b) substituted (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations 2002 (S.I. 2002/2098)](https://www.legislation.gov.uk/uksi/2002/2098), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2002/2098/regulation/5/3)
 
-[^key-12a1c58943ac85edf9e18f3b698a4c40]: Textual amendment: Reg. 15(6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 31(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/31/b)
+[^c-12a1c58943ac85edf9e18f3b698a4c40]: Textual amendment: Reg. 15(6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 31(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/31/b)
 
-[^key-b7b2ac4170eb70a175ce7b71097838f0]: Textual amendment: Words in reg. 16(a)(i) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [7(3)(c)](https://www.legislation.gov.uk/uksi/2005/577/regulation/7/3/c)
+[^c-b7b2ac4170eb70a175ce7b71097838f0]: Textual amendment: Words in reg. 16(a)(i) substituted (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations 2005 (S.I. 2005/577)](https://www.legislation.gov.uk/uksi/2005/577), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/577/regulation/1/1), [7(3)(c)](https://www.legislation.gov.uk/uksi/2005/577/regulation/7/3/c)
 
 [^c22580591]: Textual amendment: Words in reg. 17(1) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2001/934/regulation/12/2)
 
-[^key-e6175e85e08129f13276fdaf9b4479c3]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/17/2) omitted (6.4.2015) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/20/3)
+[^c-e6175e85e08129f13276fdaf9b4479c3]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/17/2) omitted (6.4.2015) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/20/3)
 
-[^key-75ab24089e6fef49c95f84c7d367fcf0]: Textual amendment: Words in reg. 17(3) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(5)(a)](https://www.legislation.gov.uk/uksi/2006/744/article/20/5/a)
+[^c-75ab24089e6fef49c95f84c7d367fcf0]: Textual amendment: Words in reg. 17(3) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(5)(a)](https://www.legislation.gov.uk/uksi/2006/744/article/20/5/a)
 
-[^key-8bc1d579c726c6afffe93479dc2ecb8e]: Textual amendment: Word in reg. 17(4) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(5)(b)](https://www.legislation.gov.uk/uksi/2006/744/article/20/5/b)
+[^c-8bc1d579c726c6afffe93479dc2ecb8e]: Textual amendment: Word in reg. 17(4) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(5)(b)](https://www.legislation.gov.uk/uksi/2006/744/article/20/5/b)
 
-[^key-0aeb27eaf3a2c131cd5d8c34a9866a6e]: Textual amendment: Reg. 17(4A) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(5)(c)](https://www.legislation.gov.uk/uksi/2006/744/article/20/5/c)
+[^c-0aeb27eaf3a2c131cd5d8c34a9866a6e]: Textual amendment: Reg. 17(4A) inserted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(5)(c)](https://www.legislation.gov.uk/uksi/2006/744/article/20/5/c)
 
 [^c22580611]: Textual amendment: Reg. 17(5)-(7) inserted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2001/934/regulation/12/3)
 
-[^key-d1d3d403113d5cb15eb828d354612589]: Textual amendment: Regs. 18-18E substituted for reg. 18 (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/6)
+[^c-d1d3d403113d5cb15eb828d354612589]: Textual amendment: Regs. 18-18E substituted for reg. 18 (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/6)
 
-[^key-1f6f9234109835b2be755155d0500f44]: Textual amendment: Word in [reg. 18(7)(a)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18/7/a) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/3/a)
+[^c-1f6f9234109835b2be755155d0500f44]: Textual amendment: Word in [reg. 18(7)(a)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18/7/a) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(3)(a)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/3/a)
 
-[^key-7fa0ae09234fe5286719332f89ad84f0]: Textual amendment: Word in [reg. 18(7)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18/7) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/3/b)
+[^c-7fa0ae09234fe5286719332f89ad84f0]: Textual amendment: Word in [reg. 18(7)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18/7) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(3)(b)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/3/b)
 
-[^key-8f6cb94c304ddbef060201294f513954]: Textual amendment: [Reg. 18(7)(c)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18/7/c) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(3)(c)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/3/c)
+[^c-8f6cb94c304ddbef060201294f513954]: Textual amendment: [Reg. 18(7)(c)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18/7/c) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(3)(c)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/3/c)
 
-[^key-d4a37d72c6e8b1a129c17e8465f04a02]: Textual amendment: Words in [reg. 18A(1)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18A/1) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(4)(a)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/4/a)
+[^c-d4a37d72c6e8b1a129c17e8465f04a02]: Textual amendment: Words in [reg. 18A(1)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18A/1) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(4)(a)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/4/a)
 
-[^key-58d67ec3d46eccf348e5d910709b8742]: Textual amendment: [Reg. 18A(1A)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18A/1A)[(1B)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18A/1B) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(4)(b)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/4/b)
+[^c-58d67ec3d46eccf348e5d910709b8742]: Textual amendment: [Reg. 18A(1A)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18A/1A)[(1B)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18A/1B) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(4)(b)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/4/b)
 
-[^key-2ebb248bc1da9e810337c0e095f70264]: Textual amendment: [Reg. 18A(2A)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18A/2A) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(4)(c)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/4/c)
+[^c-2ebb248bc1da9e810337c0e095f70264]: Textual amendment: [Reg. 18A(2A)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18A/2A) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(4)(c)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/4/c)
 
-[^key-57c33da78959a18f0e0a601790dbb042]: Textual amendment: Word in [reg. 18A(4)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18A/4) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(4)(d)(i)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/4/d/i)
+[^c-57c33da78959a18f0e0a601790dbb042]: Textual amendment: Word in [reg. 18A(4)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18A/4) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(4)(d)(i)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/4/d/i)
 
-[^key-46f1d306e7ffe84b87bff29779fdb4f7]: Textual amendment: Word in [reg. 18A(4)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18A/4) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/4/d/ii)
+[^c-46f1d306e7ffe84b87bff29779fdb4f7]: Textual amendment: Word in [reg. 18A(4)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18A/4) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/4/d/ii)
 
-[^key-4eb1bb3a28fae9095a5d21d45ba252bb]: Textual amendment: [Reg. 18A(4)(e)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18A/4/e) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(4)(d)(iii)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/4/d/iii)
+[^c-4eb1bb3a28fae9095a5d21d45ba252bb]: Textual amendment: [Reg. 18A(4)(e)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18A/4/e) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(4)(d)(iii)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/4/d/iii)
 
-[^key-aa81440b1e2fa3b0d5b8bbe807b10b17]: Textual amendment: Words in [reg. 18B(1)(b)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18B/1/b) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(5)(a)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/5/a)
+[^c-aa81440b1e2fa3b0d5b8bbe807b10b17]: Textual amendment: Words in [reg. 18B(1)(b)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18B/1/b) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(5)(a)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/5/a)
 
-[^key-0a7d8a3a9a187c173c80c3fbd2747c00]: Textual amendment: Word in reg. 18B(2)(b)(i) inserted (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [14(3)(a)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/14/3/a)
+[^c-0a7d8a3a9a187c173c80c3fbd2747c00]: Textual amendment: Word in reg. 18B(2)(b)(i) inserted (6.4.2012) by [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [14(3)(a)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/14/3/a)
 
-[^key-9f9d77935d79d65b84459dfadd2fe43b]: Textual amendment: Reg. 18B(2)(b)(iii) and word omitted (6.4.2012) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [14(3)(b)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/14/3/b)
+[^c-9f9d77935d79d65b84459dfadd2fe43b]: Textual amendment: Reg. 18B(2)(b)(iii) and word omitted (6.4.2012) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [14(3)(b)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/14/3/b)
 
-[^key-c3fd5b916516198746342f88b5945343]: Textual amendment: [Reg. 18B(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18B/3)[(4)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18B/4) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(5)(b)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/5/b)
+[^c-c3fd5b916516198746342f88b5945343]: Textual amendment: [Reg. 18B(3)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18B/3)[(4)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18B/4) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(5)(b)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/5/b)
 
-[^key-5afdb01587e11b99c5301ced204204d7]: Textual amendment: [Reg. 18C(4)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18C/4)[(4A)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18C/4A) substituted for [reg. 18C(4)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18C/4) (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(6)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/6)
+[^c-5afdb01587e11b99c5301ced204204d7]: Textual amendment: [Reg. 18C(4)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18C/4)[(4A)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18C/4A) substituted for [reg. 18C(4)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18C/4) (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(6)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/6)
 
-[^key-a9b843383655266699fa9dd0229f264e]: Textual amendment: Words in [reg. 18E(1)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18E/1) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(7)(a)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/7/a)
+[^c-a9b843383655266699fa9dd0229f264e]: Textual amendment: Words in [reg. 18E(1)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18E/1) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(7)(a)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/7/a)
 
-[^key-1d6c5f46843373720b2b74c05527dfc2]: Textual amendment: [Reg. 18E(2)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18E/2) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(7)(b)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/7/b)
+[^c-1d6c5f46843373720b2b74c05527dfc2]: Textual amendment: [Reg. 18E(2)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18E/2) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(7)(b)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/7/b)
 
-[^key-030a6f44769999c2db4c1868da1f7616]: Textual amendment: [Regs. 18E(4)-(4B)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18E/4) substituted for [reg. 18E(4)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18E/4) (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(7)(c)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/7/c)
+[^c-030a6f44769999c2db4c1868da1f7616]: Textual amendment: [Regs. 18E(4)-(4B)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18E/4) substituted for [reg. 18E(4)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18E/4) (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(7)(c)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/7/c)
 
-[^key-a8b0b03c6ce5c27917c90b7f3be462ba]: Textual amendment: [Reg. 18E(6)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18E/6) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(7)(d)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/7/d)
+[^c-a8b0b03c6ce5c27917c90b7f3be462ba]: Textual amendment: [Reg. 18E(6)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18E/6) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(7)(d)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/7/d)
 
-[^key-6cdaa1f098d517f0cac6aee5c265fd1a]: Textual amendment: Words in [reg. 18E(7)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18E/7) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(7)(e)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/7/e)
+[^c-6cdaa1f098d517f0cac6aee5c265fd1a]: Textual amendment: Words in [reg. 18E(7)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18E/7) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(7)(e)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/7/e)
 
-[^key-310ac14f80289df9cce23ea58eda0c52]: Textual amendment: [Reg. 18F](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18F) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(8)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/8)
+[^c-310ac14f80289df9cce23ea58eda0c52]: Textual amendment: [Reg. 18F](https://www.legislation.gov.uk/uksi/2000/1403/regulation/18F) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(8)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/8)
 
-[^key-36e9f50e5ee212e7694ece59710950d2]: Textual amendment: Words in reg. 19 omitted (30.12.2005) by virtue of [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [20(1)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/20/1), [Sch. 3 para. 12(2)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/3/paragraph/12/2)
+[^c-36e9f50e5ee212e7694ece59710950d2]: Textual amendment: Words in reg. 19 omitted (30.12.2005) by virtue of [The Occupational Pension Schemes (Scheme Funding) Regulations 2005 (S.I. 2005/3377)](https://www.legislation.gov.uk/uksi/2005/3377), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3377/regulation/1), [20(1)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/20/1), [Sch. 3 para. 12(2)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/3/paragraph/12/2)
 
-[^key-b307c3c3121a673481a866d8b9cabb44]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2000/1403/regulation/19A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2022/337/regulation/6)
+[^c-b307c3c3121a673481a866d8b9cabb44]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2000/1403/regulation/19A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2022/337/regulation/6)
 
-[^key-0f2133975aa1ebab3e6171358b9caaa7]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/21/1) omitted (6.4.2009) by virtue of [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2009/615/regulation/16/3)
+[^c-0f2133975aa1ebab3e6171358b9caaa7]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/21/1) omitted (6.4.2009) by virtue of [The Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2009/615/regulation/16/3)
 
-[^key-a38bf9d7b16365ce823a61ed4a604410]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2000/1403/regulation/22) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/2/c)
+[^c-a38bf9d7b16365ce823a61ed4a604410]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2000/1403/regulation/22) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/2/c)
 
-[^key-89fbc9b9e76449b5db28794ec3da5bca]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2000/1403/regulation/23) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/2/d)
+[^c-89fbc9b9e76449b5db28794ec3da5bca]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2000/1403/regulation/23) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/2/d)
 
 [^c22661901]: Textual amendment: Words in reg. 24(1) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2001/934/regulation/16/2/a)
 
-[^key-cd2d5ee42006765a2950321d3b4bce11]: Textual amendment: Words in reg. 24(1) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(a)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/a)
+[^c-cd2d5ee42006765a2950321d3b4bce11]: Textual amendment: Words in reg. 24(1) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(a)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/a)
 
 [^c22661921]: Textual amendment: Words in reg. 24(1) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [16(2)(b)](https://www.legislation.gov.uk/uksi/2001/934/regulation/16/2/b)
 
-[^key-30a5e5086b0f62380213046d6e12033b]: Textual amendment: Word in reg. 24(2) substituted (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(b)(i)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/b/i)
+[^c-30a5e5086b0f62380213046d6e12033b]: Textual amendment: Word in reg. 24(2) substituted (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(b)(i)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/b/i)
 
 [^c22661941]: Textual amendment: Reg. 24(2)(a) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [16(3)(a)](https://www.legislation.gov.uk/uksi/2001/934/regulation/16/3/a)
 
-[^key-5a8ee4d293d5ef99397086d4c61da03d]: Textual amendment: Words in reg. 24(2)(b) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/b/ii)
+[^c-5a8ee4d293d5ef99397086d4c61da03d]: Textual amendment: Words in reg. 24(2)(b) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/b/ii)
 
 [^c22661961]: Textual amendment: Word in reg. 24(2)(c)(i) omitted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [16(3)(b)(i)](https://www.legislation.gov.uk/uksi/2001/934/regulation/16/3/b/i)
 
-[^key-f1d464c644a5fda955fcc351d98a445d]: Textual amendment: Words in reg. 24(2)(c)(i) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(c)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/c)
+[^c-f1d464c644a5fda955fcc351d98a445d]: Textual amendment: Words in reg. 24(2)(c)(i) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(c)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/c)
 
-[^key-512963797a43f57280dfbbe72eb4f33f]: Textual amendment: Words in reg. 24(2)(c)(ii) inserted (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(d)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/d)
+[^c-512963797a43f57280dfbbe72eb4f33f]: Textual amendment: Words in reg. 24(2)(c)(ii) inserted (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(d)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/d)
 
 [^c22661991]: Textual amendment: Words in reg. 24(2)(c)(ii) inserted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [16(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2001/934/regulation/16/3/b/ii)
 
 [^c22662011]: Textual amendment: Reg. 24(2A)(2B) inserted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [16(4)](https://www.legislation.gov.uk/uksi/2001/934/regulation/16/4)
 
-[^key-34119f19d40bb8a33b69b2c2e47b934d]: Textual amendment: Words in reg. 24(2B)(d)(i) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(c)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/c)
+[^c-34119f19d40bb8a33b69b2c2e47b934d]: Textual amendment: Words in reg. 24(2B)(d)(i) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(c)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/c)
 
-[^key-6b4bd63b41026e34fa9aa7547e6c071b]: Textual amendment: Words in reg. 24(2B)(d)(ii) inserted (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(d)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/d)
+[^c-6b4bd63b41026e34fa9aa7547e6c071b]: Textual amendment: Words in reg. 24(2B)(d)(ii) inserted (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(d)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/d)
 
 [^c22662031]: Textual amendment: Reg. 24(3) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [16(5)](https://www.legislation.gov.uk/uksi/2001/934/regulation/16/5)
 
-[^key-57e0e707b84232f5eb8a3e7ba8e6d862]: Textual amendment: Word in reg. 24(3)(a)(ii) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(e)(i)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/e/i)
+[^c-57e0e707b84232f5eb8a3e7ba8e6d862]: Textual amendment: Word in reg. 24(3)(a)(ii) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(e)(i)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/e/i)
 
-[^key-e50e5df26946d71b885cfb85ea1fdf4b]: Textual amendment: Reg. 24(3)(b) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(e)(ii)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/e/ii)
+[^c-e50e5df26946d71b885cfb85ea1fdf4b]: Textual amendment: Reg. 24(3)(b) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(e)(ii)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/e/ii)
 
-[^key-ff1b877a1283870f9e5f8b7b61346422]: Textual amendment: Reg. 24(4) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(f)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/f)
+[^c-ff1b877a1283870f9e5f8b7b61346422]: Textual amendment: Reg. 24(4) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(f)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/f)
 
-[^key-daaca2738012e88f987a736302db35e4]: Textual amendment: Reg. 24(5A)(5B) inserted (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(g)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/g)
+[^c-daaca2738012e88f987a736302db35e4]: Textual amendment: Reg. 24(5A)(5B) inserted (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(g)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/g)
 
 [^c22662051]: Textual amendment: Reg. 24(6)(7) inserted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [16(6)](https://www.legislation.gov.uk/uksi/2001/934/regulation/16/6)
 
-[^key-c8b4586081bd9ab1902e692dad6d65c0]: Textual amendment: Words in reg. 24(6) substituted (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(h)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/h)
+[^c-c8b4586081bd9ab1902e692dad6d65c0]: Textual amendment: Words in reg. 24(6) substituted (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(h)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/h)
 
-[^key-87e0b1ba8314ae92edb16cff488bae2f]: Textual amendment: Words in reg. 24(7) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(i)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/i)
+[^c-87e0b1ba8314ae92edb16cff488bae2f]: Textual amendment: Words in reg. 24(7) omitted (6.4.2013) by virtue of [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(5)(i)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/5/i)
 
 [^c22662071]: Textual amendment: Words in reg. 25(1) substituted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2001/934/regulation/17/2)
 
@@ -1806,7 +1806,7 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^c22662221]: Textual amendment: Reg. 25(2)(e) and word inserted (5.4.2001) by [The Stakeholder Pension Schemes (Amendment) (No.2) Regulations 2001 (S.I. 2001/934)](https://www.legislation.gov.uk/uksi/2001/934), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/934/regulation/1/1), [17(3)(f)](https://www.legislation.gov.uk/uksi/2001/934/regulation/17/3/f)
 
-[^key-f5e040ad92e723e66facaa466fa450b9]: Textual amendment: Word in [reg. 25(2)(e)(i)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/25/2/e/i) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(7)](https://www.legislation.gov.uk/uksi/2006/744/article/20/7)
+[^c-f5e040ad92e723e66facaa466fa450b9]: Textual amendment: Word in [reg. 25(2)(e)(i)](https://www.legislation.gov.uk/uksi/2000/1403/regulation/25/2/e/i) substituted (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments of Occupational and Personal Pension Schemes Legislation) Order 2006 (S.I. 2006/744)](https://www.legislation.gov.uk/uksi/2006/744), [arts. 1](https://www.legislation.gov.uk/uksi/2006/744/article/1), [20(7)](https://www.legislation.gov.uk/uksi/2006/744/article/20/7)
 
 [^c16023381]: Marginal citation: [S.I. 1987/1110](https://www.legislation.gov.uk/uksi/1987/1110); to which there are amendments not relevant to this instrument.
 
@@ -1820,9 +1820,9 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^c16023431]: Marginal citation: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147).
 
-[^key-cb3774750445266bc436139d922c8e54]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/2000/1403/regulation/30) revoked (6.4.2006) by [The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006 (S.I. 2006/714)](https://www.legislation.gov.uk/uksi/2006/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2006/714/regulation/6), [Sch.](https://www.legislation.gov.uk/uksi/2006/714/schedule) Table
+[^c-cb3774750445266bc436139d922c8e54]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/2000/1403/regulation/30) revoked (6.4.2006) by [The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006 (S.I. 2006/714)](https://www.legislation.gov.uk/uksi/2006/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2006/714/regulation/6), [Sch.](https://www.legislation.gov.uk/uksi/2006/714/schedule) Table
 
-[^key-e0cf03ff8c9005712068aebcf0d91ffc]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2000/1403/regulation/31) revoked (30.12.2005) by [The Occupational Pension Schemes (Investment) Regulations 2005 (S.I. 2005/3378)](https://www.legislation.gov.uk/uksi/2005/3378), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3378/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3378/schedule)
+[^c-e0cf03ff8c9005712068aebcf0d91ffc]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2000/1403/regulation/31) revoked (30.12.2005) by [The Occupational Pension Schemes (Investment) Regulations 2005 (S.I. 2005/3378)](https://www.legislation.gov.uk/uksi/2005/3378), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3378/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3378/schedule)
 
 [^c16023461]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
@@ -1834,7 +1834,7 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^c16023501]: Marginal citation: [S.I. 1996/1655](https://www.legislation.gov.uk/uksi/1996/1655); as amended by [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786).
 
-[^key-ef11767ddf55f29516f62a2d69822d59]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2000/1403/schedule/2) substituted (6.4.2008) by [The Occupational Pension Schemes (Internal Dispute Resolution Procedures Consequential and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/649)](https://www.legislation.gov.uk/uksi/2008/649), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2008/649/regulation/6/3)
+[^c-ef11767ddf55f29516f62a2d69822d59]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2000/1403/schedule/2) substituted (6.4.2008) by [The Occupational Pension Schemes (Internal Dispute Resolution Procedures Consequential and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/649)](https://www.legislation.gov.uk/uksi/2008/649), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/649/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2008/649/regulation/6/3)
 
 [^c16023521]: Marginal citation: [S.I. 1996/3127](https://www.legislation.gov.uk/uksi/1996/3127).
 
@@ -1850,16 +1850,16 @@ An assessment of the cost to business of the introduction of stakeholder pension
 
 [^c16023571]: Marginal citation: [S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715); regulation 3(5) was inserted by [S.I. 1998/1494](https://www.legislation.gov.uk/uksi/1998/1494), [regulation 5](https://www.legislation.gov.uk/uksi/1998/1494/regulation/5) was amended by [S.I. 1997/819](https://www.legislation.gov.uk/uksi/1997/819) and 1998/3038 and regulation 7 was amended by [S.I. 1997/819](https://www.legislation.gov.uk/uksi/1997/819).
 
-[^key-29e076aab8bee9b4b11346b79342ac44]: Textual amendment: Sch. 3 inserted (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/7), [Sch.](https://www.legislation.gov.uk/uksi/2010/2659/schedule)
+[^c-29e076aab8bee9b4b11346b79342ac44]: Textual amendment: Sch. 3 inserted (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations 2010 (S.I. 2010/2659)](https://www.legislation.gov.uk/uksi/2010/2659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2010/2659/regulation/4/7), [Sch.](https://www.legislation.gov.uk/uksi/2010/2659/schedule)
 
-[^key-179fbeb797f3d02b677e7b1e9679c209]: Textual amendment: [Sch. 3 para. 1(d)](https://www.legislation.gov.uk/uksi/2000/1403/schedule/3/paragraph/1/d) omitted by SI 2011/1245 reg. 20(4)(a) (as substituted) (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 18(3)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/18/3)
+[^c-179fbeb797f3d02b677e7b1e9679c209]: Textual amendment: [Sch. 3 para. 1(d)](https://www.legislation.gov.uk/uksi/2000/1403/schedule/3/paragraph/1/d) omitted by SI 2011/1245 reg. 20(4)(a) (as substituted) (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 18(3)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/18/3)
 
-[^key-198ee83a363bf45809902f70cd6a0d01]: Textual amendment: Sch. 3 para. 2(e)(f) omitted by SI 2011/1245 reg. 20(4)(b) (as substituted) (6.4.2015) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 18(3)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/18/3)
+[^c-198ee83a363bf45809902f70cd6a0d01]: Textual amendment: Sch. 3 para. 2(e)(f) omitted by SI 2011/1245 reg. 20(4)(b) (as substituted) (6.4.2015) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 18(3)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/18/3)
 
-[^key-348067ddfc7bf2891c9dfc39f949aa72]: Textual amendment: Sch. 3 para. 2(g) omitted by SI 2011/1245 reg. 20(4)(b) (as substituted) (6.4.2015) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 18(3)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/18/3)
+[^c-348067ddfc7bf2891c9dfc39f949aa72]: Textual amendment: Sch. 3 para. 2(g) omitted by SI 2011/1245 reg. 20(4)(b) (as substituted) (6.4.2015) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 18(3)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/18/3)
 
-[^key-545858ea3ecede440cbdae5d3563e385]: Textual amendment: Sch. 3 para. 2(k) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(2)(e)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/2/e)
+[^c-545858ea3ecede440cbdae5d3563e385]: Textual amendment: Sch. 3 para. 2(k) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/459)](https://www.legislation.gov.uk/uksi/2013/459), [regs. 1](https://www.legislation.gov.uk/uksi/2013/459/regulation/1), [8(2)(e)](https://www.legislation.gov.uk/uksi/2013/459/regulation/8/2/e)
 
-[^key-f3987291023dcfe2228054114c4a44ba]: Textual amendment: Word in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2000/1403/schedule/3/paragraph/6) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(9)(a)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/9/a)
+[^c-f3987291023dcfe2228054114c4a44ba]: Textual amendment: Word in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2000/1403/schedule/3/paragraph/6) omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(9)(a)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/9/a)
 
-[^key-3608a09c334fb3624e11748b9cc7c7fb]: Textual amendment: [Sch. 3 para. 6(d)(e)](https://www.legislation.gov.uk/uksi/2000/1403/schedule/3/paragraph/6/d/e) substituted for [Sch. 3](https://www.legislation.gov.uk/uksi/2000/1403/schedule/3) [para. 6(d)](https://www.legislation.gov.uk/uksi/2000/1403/schedule/3/paragraph/6/d) (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(9)(b)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/9/b)
+[^c-3608a09c334fb3624e11748b9cc7c7fb]: Textual amendment: [Sch. 3 para. 6(d)(e)](https://www.legislation.gov.uk/uksi/2000/1403/schedule/3/paragraph/6/d/e) substituted for [Sch. 3](https://www.legislation.gov.uk/uksi/2000/1403/schedule/3) [para. 6(d)](https://www.legislation.gov.uk/uksi/2000/1403/schedule/3/paragraph/6/d) (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 9(9)(b)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/9/9/b)

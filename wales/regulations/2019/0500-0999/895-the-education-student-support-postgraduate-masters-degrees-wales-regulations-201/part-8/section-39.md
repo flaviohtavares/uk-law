@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Recovery of overpayment of contribution to costs loan[^key-46baf76a473dba718a0377f54cc2f86b]
+## 39. Recovery of overpayment of contribution to costs loan[^c-46baf76a473dba718a0377f54cc2f86b]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46baf76a473dba718a0377f54cc2f86b]: Commencement: Reg. 39 in force at 27.5.2019, see reg. 1(2)
+[^c-46baf76a473dba718a0377f54cc2f86b]: Commencement: Reg. 39 in force at 27.5.2019, see reg. 1(2)

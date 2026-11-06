@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies where any court or tribunal decides—
 
-- (a) that an Assembly Measure or Act of the Senedd[^key-60edd79c70d763519861630d1afb7962], or any provision of an Assembly Measure or Act of the Senedd, is outside the Senedd's legislative competence,
+- (a) that an Assembly Measure or Act of the Senedd[^c-60edd79c70d763519861630d1afb7962], or any provision of an Assembly Measure or Act of the Senedd, is outside the Senedd's legislative competence,
 - (b) that any provision of subordinate legislation made, or purporting to be made, under an Assembly Measure or Act of the Senedd is outside the powers under which it was, or purported to be, made, or
 - (c) that any provision of subordinate legislation made, or purporting to be made, by the Welsh Ministers, the First Minister or the Counsel General is outside the powers under which it was, or purported to be, made.
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^c16543171]: Commencement: This provision in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

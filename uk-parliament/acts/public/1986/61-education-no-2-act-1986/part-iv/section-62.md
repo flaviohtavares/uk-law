@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Access to papers etc. of governing bodies.[^key-5345098af515758d3c07f10ff24b9d01]
+## 62. Access to papers etc. of governing bodies.[^c-5345098af515758d3c07f10ff24b9d01]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5345098af515758d3c07f10ff24b9d01]: Textual amendment: S. 62 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 2(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/2/3)
+[^c-5345098af515758d3c07f10ff24b9d01]: Textual amendment: S. 62 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 2(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/2/3)

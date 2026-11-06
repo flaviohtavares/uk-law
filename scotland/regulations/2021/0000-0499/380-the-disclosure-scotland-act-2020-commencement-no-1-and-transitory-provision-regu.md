@@ -48,7 +48,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred on them by section 97(2) and (3) of the Disclosure (Scotland) Act 2020[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-5b2626c6a7ecea8a38ad2787d3b825bd]
+## 1. Citation, commencement and interpretation[^c-5b2626c6a7ecea8a38ad2787d3b825bd]
 
 (1) These Regulations may be cited as the Disclosure (Scotland) Act 2020 (Commencement No. 1 and Transitory Provision) Regulations 2021 and come into force on 10 December 2021.
 
@@ -57,17 +57,17 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “the 2020 Act” means the Disclosure (Scotland) Act 2020,
 - “the PVG Act” means the Protection of Vulnerable Groups (Scotland) Act 2007[^f00002].
 
-## 2. Appointed day[^key-55d5ab8be2aa91b6f446142d51a1abe9]
+## 2. Appointed day[^c-55d5ab8be2aa91b6f446142d51a1abe9]
 
 (1) Subject to regulations 3 and 4, 10 December 2021 is the day appointed for the coming into force of the provisions of the 2020 Act specified in column 1 of the table in the schedule (the subject matter of which is described in column 2 of that table).
 
 (2) If a purpose is specified in column 3 of the table in relation to any provision specified in column 1, that provision comes into force on 10 December 2021 for that purpose only.
 
-## 3. Transitory provision: withdrawal from Scheme when under consideration for listing[^key-240f5fa55e0957457779d3e20a5666bf]
+## 3. Transitory provision: withdrawal from Scheme when under consideration for listing[^c-240f5fa55e0957457779d3e20a5666bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitory provision: regulated roles[^key-240f5fa55e0957457779d3e20a5666bf]
+## 4. Transitory provision: regulated roles[^c-240f5fa55e0957457779d3e20a5666bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -81,7 +81,7 @@ Edinburgh
 
 28th October 2021
 
-## SCHEDULE[^key-c10738c5241fd837109f3aa23c60d9ad]
+## SCHEDULE[^c-c10738c5241fd837109f3aa23c60d9ad]
 
 Regulation 2
 
@@ -128,12 +128,12 @@ The Bill for the 2020 Act received Royal Assent on 14 July 2020. By virtue of se
 
 [^f00001]: Footnote: [2020 asp 13](https://www.legislation.gov.uk/asp/2020/13).
 
-[^key-5b2626c6a7ecea8a38ad2787d3b825bd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/380/regulation/1) in force at 10.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/380/regulation/1/1)
+[^c-5b2626c6a7ecea8a38ad2787d3b825bd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/380/regulation/1) in force at 10.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/380/regulation/1/1)
 
 [^f00002]: Footnote: [2007 asp 14](https://www.legislation.gov.uk/asp/2007/14).
 
-[^key-55d5ab8be2aa91b6f446142d51a1abe9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2) in force at 10.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/380/regulation/1/1)
+[^c-55d5ab8be2aa91b6f446142d51a1abe9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2) in force at 10.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/380/regulation/1/1)
 
-[^key-240f5fa55e0957457779d3e20a5666bf]: Textual amendment: [Regs. 3](https://www.legislation.gov.uk/ssi/2021/380/regulation/3), [4](https://www.legislation.gov.uk/ssi/2021/380/regulation/4) revoked (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [sch. 2](https://www.legislation.gov.uk/ssi/2025/352/schedule/2)
+[^c-240f5fa55e0957457779d3e20a5666bf]: Textual amendment: [Regs. 3](https://www.legislation.gov.uk/ssi/2021/380/regulation/3), [4](https://www.legislation.gov.uk/ssi/2021/380/regulation/4) revoked (1.4.2026) by [The Disclosure (Scotland) Act 2020 (Commencement No. 6, Consequential Amendment, Saving and Transitional Provision) Regulations 2025 (S.S.I. 2025/352)](https://www.legislation.gov.uk/ssi/2025/352), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/352/regulation/1/3), [sch. 2](https://www.legislation.gov.uk/ssi/2025/352/schedule/2)
 
-[^key-c10738c5241fd837109f3aa23c60d9ad]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) in force at 10.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/380/regulation/1/1)
+[^c-c10738c5241fd837109f3aa23c60d9ad]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) in force at 10.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/380/regulation/1/1)

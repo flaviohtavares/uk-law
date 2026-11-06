@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Amendment of regulation D2[^key-3b575614a10062dbdcb1ba8665b5369f]
+## 8. Amendment of regulation D2[^c-3b575614a10062dbdcb1ba8665b5369f]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3b575614a10062dbdcb1ba8665b5369f]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-3b575614a10062dbdcb1ba8665b5369f]: Commencement: Reg. 8 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^f00009]: Footnote: Paragraph (3) was amended by [S.I. 2006/2919](https://www.legislation.gov.uk/uksi/2006/2919).
 

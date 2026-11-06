@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Power of court in trial for an offence to convict of another[^key-f29f2c44f5decaa218fe104c6d8c0831]
+## 59. Power of court in trial for an offence to convict of another[^c-f29f2c44f5decaa218fe104c6d8c0831]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ it may acquit the accused of the offence charged but find the accused guilty of 
 
 ## Annotations
 
-[^key-f29f2c44f5decaa218fe104c6d8c0831]: Commencement: S. 59 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-f29f2c44f5decaa218fe104c6d8c0831]: Commencement: S. 59 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

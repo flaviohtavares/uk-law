@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 12. Duty of the bishop to keep episcopal ministry under review[^key-2dd63056893fe96070bcb3f7c793ad2c]
+## 12. Duty of the bishop to keep episcopal ministry under review[^c-2dd63056893fe96070bcb3f7c793ad2c]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Each bishop of a diocese shall keep under review the provision of episcopal mini
 
 ## Annotations
 
-[^key-2dd63056893fe96070bcb3f7c793ad2c]: Commencement: [S. 12](https://www.legislation.gov.uk/ukcm/2007/1/section/12) in force at 1.1.2011 by [2010 No. 4](https://www.legislation.gov.uk/ukci/2010/4), [art. 2(a)](https://www.legislation.gov.uk/ukci/2010/4/article/2/a)
+[^c-2dd63056893fe96070bcb3f7c793ad2c]: Commencement: [S. 12](https://www.legislation.gov.uk/ukcm/2007/1/section/12) in force at 1.1.2011 by [2010 No. 4](https://www.legislation.gov.uk/ukci/2010/4), [art. 2(a)](https://www.legislation.gov.uk/ukci/2010/4/article/2/a)

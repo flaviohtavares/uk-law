@@ -111,7 +111,7 @@ In the Control of Substances Hazardous to Health Regulations 2002 [^c5295181]—
 - (f) in regulation 12(2)—
   - (i) in sub-paragraph (a)(ii) for the words “occupational exposure standard, maximum exposure limit” substitute the words “ workplace exposure limit ”;
   - (ii) in sub-paragraph (d) for the words “maximum exposure limit”, in each place where they occur, substitute the words “ workplace exposure limit ”;
-- (g)[^key-3e700e692e8ca5fa450e1d606c9a8b6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-3e700e692e8ca5fa450e1d606c9a8b6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) after Schedule 2 insert the Schedule contained in the Schedule to these Regulations.
 
 ## 3. Amendment of the Chemicals (Hazard Information and Packaging for Supply) Regulations 2002[^M_F_ddf0480e-bedc-4596-f3b8-4422a0c2e260]
@@ -204,7 +204,7 @@ are obtainable from HSE Books, PO Box 1999 Sudbury, Suffolk CO10 2WA.
 
 [^c5295191]: Marginal citation: HSE Books 1997 ISBN 0 7176 1465 4.
 
-[^key-3e700e692e8ca5fa450e1d606c9a8b6f]: Textual amendment: [Reg. 2(g)](https://www.legislation.gov.uk/uksi/2004/3386/regulation/2/g) revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/2)
+[^c-3e700e692e8ca5fa450e1d606c9a8b6f]: Textual amendment: [Reg. 2(g)](https://www.legislation.gov.uk/uksi/2004/3386/regulation/2/g) revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/2)
 
 [^M_F_ddf0480e-bedc-4596-f3b8-4422a0c2e260]: Textual amendment: Reg. 3 revoked (6.4.2009) by virtue of [The Chemicals (Hazard Information and Packaging for Supply) Regulations 2009 (S.I. 2009/716)](https://www.legislation.gov.uk/uksi/2009/716), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/716/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2009/716/schedule/7) (with [regs. 3](https://www.legislation.gov.uk/uksi/2009/716/regulation/3), [16](https://www.legislation.gov.uk/uksi/2009/716/regulation/16))
 

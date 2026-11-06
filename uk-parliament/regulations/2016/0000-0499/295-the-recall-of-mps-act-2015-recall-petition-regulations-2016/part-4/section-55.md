@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Absent signers lists: England and Wales and Scotland[^key-da46c5d01a0f4e6c89feee10f41381a4]
+## 55. Absent signers lists: England and Wales and Scotland[^c-da46c5d01a0f4e6c89feee10f41381a4]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ together with (in each case) the names and the addresses of those appointed as t
 
 ## Annotations
 
-[^key-da46c5d01a0f4e6c89feee10f41381a4]: Commencement: Reg. 55 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-da46c5d01a0f4e6c89feee10f41381a4]: Commencement: Reg. 55 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

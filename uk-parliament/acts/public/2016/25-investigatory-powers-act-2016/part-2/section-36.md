@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Further provision about modifications[^key-ef978606f50382e6423d0fe9dd87c88d]
+## 36. Further provision about modifications[^c-ef978606f50382e6423d0fe9dd87c88d]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ Section 38 contains provision about the approval of major modifications made in 
 
 ## Annotations
 
-[^key-ef978606f50382e6423d0fe9dd87c88d]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2016/25/section/36) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(h)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/h)
+[^c-ef978606f50382e6423d0fe9dd87c88d]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2016/25/section/36) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(h)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Restrictions on accounts: account holders[^key-67b4afe7f9d780d6d0512fa394b452a3][^key-415090250d5027fba851ce917d3e95c3]
+## 27. Restrictions on accounts: account holders[^c-67b4afe7f9d780d6d0512fa394b452a3][^c-415090250d5027fba851ce917d3e95c3]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-67b4afe7f9d780d6d0512fa394b452a3]: Commencement: S. 27 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-67b4afe7f9d780d6d0512fa394b452a3]: Commencement: S. 27 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-415090250d5027fba851ce917d3e95c3]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2025/28/section/27) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-415090250d5027fba851ce917d3e95c3]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2025/28/section/27) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Gibraltar[^key-52fdb7e03fbb127105fea3c355e0d8c9]
+## 5. Gibraltar[^c-52fdb7e03fbb127105fea3c355e0d8c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ and in this Act “**Gibraltar conduct law**” means any provision of law made 
 
 ## Annotations
 
-[^key-52fdb7e03fbb127105fea3c355e0d8c9]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2015/36/section/5) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-52fdb7e03fbb127105fea3c355e0d8c9]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2015/36/section/5) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

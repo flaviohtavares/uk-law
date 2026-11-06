@@ -24,7 +24,7 @@ summary: ''
 
 (2) If the authority are so satisfied, they
 
-- (b)[^key-dc3072ff505a3ba3c3ee2733a7b6a3d7] may, if they think fit, make any further inquiries necessary to satisfy themselves as to whether he became homeless or threatened with homelessness intentionally;
+- (b)[^c-dc3072ff505a3ba3c3ee2733a7b6a3d7] may, if they think fit, make any further inquiries necessary to satisfy themselves as to whether he became homeless or threatened with homelessness intentionally;
 
 and if the authority think fit, they may also make inquiries as to whether he has a local connection with the district of another local authority in Scotland, England or Wales.
 
@@ -32,4 +32,4 @@ and if the authority think fit, they may also make inquiries as to whether he ha
 
 [^c12770581]: Modification: S. 28 extended (26.7.1993) by [1993 c. 23](https://www.legislation.gov.uk/ukpga/1993/23), [s. 4(5)](https://www.legislation.gov.uk/ukpga/1993/23/section/4/5), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1993/23/schedule/1/paragraph/2) (with [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1993/23/schedule/1/paragraph/8)); [S.I. 1993/1655](https://www.legislation.gov.uk/uksi/1993/1655), [art. 2](https://www.legislation.gov.uk/uksi/1993/1655/article/2).
 
-[^key-dc3072ff505a3ba3c3ee2733a7b6a3d7]: Textual amendment: Words in s. 28(2) substituted (7.11.2019) by [Homelessness etc. (Scotland) Act 2003 (asp 10)](https://www.legislation.gov.uk/asp/2003/10), [ss. 4(1)](https://www.legislation.gov.uk/asp/2003/10/section/4/1), [14(1)](https://www.legislation.gov.uk/asp/2003/10/section/14/1); [S.S.I. 2019/316](https://www.legislation.gov.uk/ssi/2019/316), [art. 2](https://www.legislation.gov.uk/ssi/2019/316/article/2)
+[^c-dc3072ff505a3ba3c3ee2733a7b6a3d7]: Textual amendment: Words in s. 28(2) substituted (7.11.2019) by [Homelessness etc. (Scotland) Act 2003 (asp 10)](https://www.legislation.gov.uk/asp/2003/10), [ss. 4(1)](https://www.legislation.gov.uk/asp/2003/10/section/4/1), [14(1)](https://www.legislation.gov.uk/asp/2003/10/section/14/1); [S.S.I. 2019/316](https://www.legislation.gov.uk/ssi/2019/316), [art. 2](https://www.legislation.gov.uk/ssi/2019/316/article/2)

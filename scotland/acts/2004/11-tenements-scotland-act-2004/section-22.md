@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Use and disposal of site where tenement building demolished[^key-662b6d30444168331d0f297310402e7f]
+## 22. Use and disposal of site where tenement building demolished[^c-662b6d30444168331d0f297310402e7f]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ the net proceeds of any sale shall be shared among (or between) the flats in the
 
 ## Annotations
 
-[^key-662b6d30444168331d0f297310402e7f]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2004/11/section/22) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-662b6d30444168331d0f297310402e7f]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2004/11/section/22) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)

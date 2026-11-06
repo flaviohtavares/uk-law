@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Grants by the Secretary of State to advisory bodies etc[^key-eee2f6693027f66ac5ccfc7fa2a42041]
+## 35. Grants by the Secretary of State to advisory bodies etc[^c-eee2f6693027f66ac5ccfc7fa2a42041]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eee2f6693027f66ac5ccfc7fa2a42041]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2011/19/section/35) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(h)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/h)
+[^c-eee2f6693027f66ac5ccfc7fa2a42041]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2011/19/section/35) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(h)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/h)

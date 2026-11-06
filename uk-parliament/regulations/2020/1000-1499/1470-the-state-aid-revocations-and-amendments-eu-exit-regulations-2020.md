@@ -44,7 +44,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraphs 1(3) and 8F(1) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-113ca7f9bc1e07b69df50e8648a1adfc]
+## 1. Citation, commencement and extent[^c-113ca7f9bc1e07b69df50e8648a1adfc]
 
 (1) These Regulations may be cited as the State Aid (Revocations and Amendments) (EU Exit) Regulations 2020.
 
@@ -56,14 +56,14 @@ In accordance with paragraphs 1(3) and 8F(1) of Schedule 7 to that Act, a draft 
 
 (5) Paragraph 2 of Schedule 1 does not extend to Northern Ireland.
 
-## 2. Interpretation[^key-117c6d96670d62105b9b27b222be31ed]
+## 2. Interpretation[^c-117c6d96670d62105b9b27b222be31ed]
 
 In these Regulations—
 
 - “**TFEU**” means the Treaty on the Functioning of the European Union;
 - “**Withdrawal Act**” means the European Union (Withdrawal) Act 2018.
 
-## 3. Cessation of Treaty rights[^key-17a3b11b00202cdcf56eb2ae023f0d06]
+## 3. Cessation of Treaty rights[^c-17a3b11b00202cdcf56eb2ae023f0d06]
 
 Any rights, powers, liabilities, obligations, restrictions, remedies and procedures which—
 
@@ -76,11 +76,11 @@ Any rights, powers, liabilities, obligations, restrictions, remedies and procedu
 
 cease to be recognised and available in domestic law (and to be enforced, allowed and followed accordingly).
 
-## 4. Revocation of Annex to the EEA Agreement[^key-216169ef89a1fd4cf0ef12c8ed377daf]
+## 4. Revocation of Annex to the EEA Agreement[^c-216169ef89a1fd4cf0ef12c8ed377daf]
 
 Annex 15 of the EEA agreement, so far as it forms part of domestic law by virtue of section 3(1) of the Withdrawal Act, is omitted.
 
-## 5. Revocation of EU regulations[^key-88d54789f320e4f4705c1337efca3056]
+## 5. Revocation of EU regulations[^c-88d54789f320e4f4705c1337efca3056]
 
 The following Regulations, so far as they form part of domestic law by virtue of section 3(1) of the Withdrawal Act, are revoked—
 
@@ -110,7 +110,7 @@ The following Regulations, so far as they form part of domestic law by virtue of
 - (x) Commission Regulation (EU) 2019/289 of 19 February 2019 amending Regulation (EU) No 702/2014 declaring certain categories of aid in the agricultural and forestry sectors and in rural areas compatible with the internal market in application of Articles 107 and 108 of the Treaty on the Functioning of the European Union; and
 - (y) Commission Regulation (EU) 2020/972 of 2 July 2020 amending Regulation (EU) No 1407/2013 as regards its prolongation and amending Regulation (EU) No 651/2014 as regards its prolongation and relevant adjustments.
 
-## 6. Revocation of EU decisions[^key-1c9974b255415ebb3fa35ee0743c93fd]
+## 6. Revocation of EU decisions[^c-1c9974b255415ebb3fa35ee0743c93fd]
 
 (1) The following decisions, so far as they form part of domestic law by virtue of section 3(1) of the Withdrawal Act, are revoked—
 
@@ -127,13 +127,13 @@ The following Regulations, so far as they form part of domestic law by virtue of
   - (b) Council Regulation [(EC) No 659/1999](https://www.legislation.gov.uk/european/regulation/1999/0659) of 22 March 1999 laying down detailed rules for the application of Article 93 of the EC Treaty;
 - “**procedural regulation**” means Council Regulation (EU) 2015/1589 of 13 July 2015 laying down detailed rules for the application of Article 108 of the Treaty on the Functioning of the European Union.
 
-## 7. Amendments to legislation[^key-34e4757c78fdfba117a3246a9ae2b4a6]
+## 7. Amendments to legislation[^c-34e4757c78fdfba117a3246a9ae2b4a6]
 
 (1) Schedule 1, which makes amendments to retained EU law, has effect.
 
 (2) Schedule 2, which makes amendments to other legislation, has effect.
 
-## 8. Transitional and savings provisions[^key-18c71e3906ec98a6e9bd5e26ea8076ce]
+## 8. Transitional and savings provisions[^c-18c71e3906ec98a6e9bd5e26ea8076ce]
 
 Schedule 3, which contains transitional and savings provisions, has effect.
 
@@ -153,7 +153,7 @@ Regulation 7(1)
 
 ### PART 1 — Amendments to EU regulations
 
-#### 1. Amendments to Regulation [(EC) No 1184/2006](https://www.legislation.gov.uk/european/regulation/2006/1184)[^key-139045502040cc7e99bf5c5b9b11515b]
+#### 1. Amendments to Regulation [(EC) No 1184/2006](https://www.legislation.gov.uk/european/regulation/2006/1184)[^c-139045502040cc7e99bf5c5b9b11515b]
 
 (1) Council Regulation [(EC) No 1184/2006](https://www.legislation.gov.uk/european/regulation/2006/1184) of 24 July 2006 applying certain rules of competition to the production of and trade in certain agricultural products[^f00004] is amended as follows.
 
@@ -161,46 +161,46 @@ Regulation 7(1)
 
 (3) Omit Article 3.
 
-#### 2. Amendments to Regulation [(EC) No 1370/2007](https://www.legislation.gov.uk/european/regulation/2007/1370)[^key-7ea06d2562851ad16ba76a09989a8f15]
+#### 2. Amendments to Regulation [(EC) No 1370/2007](https://www.legislation.gov.uk/european/regulation/2007/1370)[^c-7ea06d2562851ad16ba76a09989a8f15]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Amendments to Regulation (EU) No 575/2013[^key-d29199cc7f8eb5fa1c48fdde603dcc3d][^key-6a64dc233ed477cb6d9474de77892dcb]
+#### 3. Amendments to Regulation (EU) No 575/2013[^c-d29199cc7f8eb5fa1c48fdde603dcc3d][^c-6a64dc233ed477cb6d9474de77892dcb]
 
-(1)[^key-d29199cc7f8eb5fa1c48fdde603dcc3d] Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012[^f00006] is amended as follows.
+(1)[^c-d29199cc7f8eb5fa1c48fdde603dcc3d] Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012[^f00006] is amended as follows.
 
-(2)[^key-d29199cc7f8eb5fa1c48fdde603dcc3d] In Article 31—
+(2)[^c-d29199cc7f8eb5fa1c48fdde603dcc3d] In Article 31—
 
 - (a) in paragraph 1(b), for “are considered State aid by the Commission”, substitute “amount to financial support provided by the state”;
 - (b) in paragraph 1(c), for “pursuant to State aid- rules existing at the time”, substitute “amounting to financial support provided by the state in the United Kingdom, or pursuant to state aid rules in a third country, at the time”.
 
-(3)[^key-6a64dc233ed477cb6d9474de77892dcb] In Article 242(19), omit “subject to any applicable rules relating to State aid (as defined in the law of the United Kingdom after exit day)”.
+(3)[^c-6a64dc233ed477cb6d9474de77892dcb] In Article 242(19), omit “subject to any applicable rules relating to State aid (as defined in the law of the United Kingdom after exit day)”.
 
-#### 4. Amendment to Regulation (EU) No 1305/2013[^key-b2534065c57e54d8daa5d277a24c1559]
+#### 4. Amendment to Regulation (EU) No 1305/2013[^c-b2534065c57e54d8daa5d277a24c1559]
 
 (1) Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698)[^f00007] is amended as follows.
 
 (2) Omit Article 81.
 
-#### 5. Amendment to Regulation (EU) No 1307/2013[^key-fed35b3130e6439c167d54a5b312ccca]
+#### 5. Amendment to Regulation (EU) No 1307/2013[^c-fed35b3130e6439c167d54a5b312ccca]
 
 (1) Regulation (EU) No 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and repealing Council Regulation [(EC) No 637/2008](https://www.legislation.gov.uk/european/regulation/2008/0637) and Council Regulation [(EC) No 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073)[^f00008] is amended as follows.
 
 (2) Omit Article 13.
 
-#### 6. Amendment to Regulation (EU) No 1308/2013[^key-02d1cc9efa49707c627aeeaa9034e126]
+#### 6. Amendment to Regulation (EU) No 1308/2013[^c-02d1cc9efa49707c627aeeaa9034e126]
 
 (1) Regulation 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)[^f00009] is amended as follows.
 
 (2) Omit Article 211.
 
-#### 7. Amendments to Regulation (EU) No 1303/2013[^key-74aa1e6eb120ada01221c1064858e0d5][^key-e9690af90d2ac6792f290cbc86c68ebc]
+#### 7. Amendments to Regulation (EU) No 1303/2013[^c-74aa1e6eb120ada01221c1064858e0d5][^c-e9690af90d2ac6792f290cbc86c68ebc]
 
-(1)[^key-74aa1e6eb120ada01221c1064858e0d5] Regulation (EU) No 1303/2013 of the European Parliament and of the Council of 17 December 2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation [(EC) No 1083/2006](https://www.legislation.gov.uk/european/regulation/2006/1083)[^f00010] is amended as follows.
+(1)[^c-74aa1e6eb120ada01221c1064858e0d5] Regulation (EU) No 1303/2013 of the European Parliament and of the Council of 17 December 2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation [(EC) No 1083/2006](https://www.legislation.gov.uk/european/regulation/2006/1083)[^f00010] is amended as follows.
 
-(2)[^key-74aa1e6eb120ada01221c1064858e0d5] In Article 37—
+(2)[^c-74aa1e6eb120ada01221c1064858e0d5] In Article 37—
 
 - (a) in paragraph (1), omit “State aid and”;
 - (b) in paragraph (2), in point (b), omit “possible State aid implications,”;
@@ -211,37 +211,37 @@ Regulation 7(1)
 - (e) in paragraph (9), omit “, subject to applicable Union State aid rules,”;
 - (f) omit paragraph (12).
 
-(3)[^key-74aa1e6eb120ada01221c1064858e0d5] In Article 42(3), omit “State aid rules are complied with and that”.
+(3)[^c-74aa1e6eb120ada01221c1064858e0d5] In Article 42(3), omit “State aid rules are complied with and that”.
 
-(4)[^key-74aa1e6eb120ada01221c1064858e0d5] In Article 43a, omit paragraph (4).
+(4)[^c-74aa1e6eb120ada01221c1064858e0d5] In Article 43a, omit paragraph (4).
 
-(5)[^key-74aa1e6eb120ada01221c1064858e0d5] In Article 61, omit paragraph (8).
+(5)[^c-74aa1e6eb120ada01221c1064858e0d5] In Article 61, omit paragraph (8).
 
-(6)[^key-74aa1e6eb120ada01221c1064858e0d5] In Article 62, omit “State aid and”.
+(6)[^c-74aa1e6eb120ada01221c1064858e0d5] In Article 62, omit “State aid and”.
 
-(7)[^key-74aa1e6eb120ada01221c1064858e0d5] In Article 65(8), omit point (e).
+(7)[^c-74aa1e6eb120ada01221c1064858e0d5] In Article 65(8), omit point (e).
 
 (8) In Article 71—
 
-- (a)[^key-74aa1e6eb120ada01221c1064858e0d5] in paragraph (1), omit “or within the period of time set out in State aid rules, where applicable,”;
-- (b)[^key-e9690af90d2ac6792f290cbc86c68ebc] in paragraph (2), omit the final sentence;
-- (c)[^key-e9690af90d2ac6792f290cbc86c68ebc] omit paragraph (3).
+- (a)[^c-74aa1e6eb120ada01221c1064858e0d5] in paragraph (1), omit “or within the period of time set out in State aid rules, where applicable,”;
+- (b)[^c-e9690af90d2ac6792f290cbc86c68ebc] in paragraph (2), omit the final sentence;
+- (c)[^c-e9690af90d2ac6792f290cbc86c68ebc] omit paragraph (3).
 
-(9)[^key-e9690af90d2ac6792f290cbc86c68ebc] In Annex 11, in the table in Part 2, omit row 5.
+(9)[^c-e9690af90d2ac6792f290cbc86c68ebc] In Annex 11, in the table in Part 2, omit row 5.
 
-#### 8. Amendment of Commission Regulation (EU) 808/2014[^key-c619409e4c1cb0c7ef84f5114be7f20f]
+#### 8. Amendment of Commission Regulation (EU) 808/2014[^c-c619409e4c1cb0c7ef84f5114be7f20f]
 
 (1) Commission Implementing Regulation (EU) No 808/2014 of 17 July 2014 laying down rules for the application of Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD)[^f00011] is amended as follows.
 
 (2) In Annex 1, omit paragraph 13.
 
-#### 9. Amendment to Regulation (EU) No 1144/2014[^key-ca73806bffa2a5b8586d0cda76aadf4e]
+#### 9. Amendment to Regulation (EU) No 1144/2014[^c-ca73806bffa2a5b8586d0cda76aadf4e]
 
 (1) Regulation (EU) No 1144/2014 of the European Parliament and of the Council of 22 October 2014 on information provision and promotion measures concerning agricultural products implemented in the internal market and in third countries and repealing Council Regulation [(EC) No 3/2008](https://www.legislation.gov.uk/european/regulation/2008/0003)[^f00012] is amended as follows.
 
 (2) Omit Article 27.
 
-#### 10. Amendments to Regulation (EU) 2019/943[^key-7902314948056b17337476fa79d18b03]
+#### 10. Amendments to Regulation (EU) 2019/943[^c-7902314948056b17337476fa79d18b03]
 
 (1) Regulation (EU) 2019/943 of the European Parliament and of the Council of 5 June 2019 on the internal market for electricity (recast)[^f00013] is amended as follows.
 
@@ -264,7 +264,7 @@ Regulation 7(1)
 
 ### PART 2 — Amendments to Transparency Regulations
 
-#### 11. Amendments to the Financial Transparency (EC Directive) Regulations 2009[^key-80ffd76bc283b0d62bbc5d067c5b2cdb]
+#### 11. Amendments to the Financial Transparency (EC Directive) Regulations 2009[^c-80ffd76bc283b0d62bbc5d067c5b2cdb]
 
 (1) The Financial Transparency (EC Directive) Regulations 2009[^f00014] are amended as follows.
 
@@ -316,7 +316,7 @@ Regulation 7(2)
 
 ### PART 1 — Amendments to primary legislation
 
-#### 1. Banking Act 2009[^key-2c82748418b261cc701925c3797fd114]
+#### 1. Banking Act 2009[^c-2c82748418b261cc701925c3797fd114]
 
 (1) The Banking Act 2009[^f00015] is amended as follows.
 
@@ -336,17 +336,17 @@ Regulation 7(2)
 
 (4) Omit section 256A[^f00018] (and the italic heading before it).
 
-#### 2. Financial Services Act 2012[^key-dd503813c9db02e760590717d379aa71]
+#### 2. Financial Services Act 2012[^c-dd503813c9db02e760590717d379aa71]
 
 Omit section 103 of the Financial Services Act 2012[^f00019].
 
-#### 3. Financial Services (Banking Reform) Act 2013[^key-37594902b29c3210e7d21493680cdb73]
+#### 3. Financial Services (Banking Reform) Act 2013[^c-37594902b29c3210e7d21493680cdb73]
 
 Omit paragraph 11 of Schedule 2 to the Financial Services (Banking Reform) Act 2013[^f00020].
 
 ### PART 2 — Amendments to subordinate legislation
 
-#### 4. Enterprise Act 2002 (Merger Fees and Determination of Turnover) Order 2003[^key-9990c66788304e32bb6ebc44075ab240]
+#### 4. Enterprise Act 2002 (Merger Fees and Determination of Turnover) Order 2003[^c-9990c66788304e32bb6ebc44075ab240]
 
 (1) The Enterprise Act 2002 (Merger Fees and Determination of Turnover) Order 2003[^f00021] is amended as follows.
 
@@ -358,7 +358,7 @@ Omit paragraph 11 of Schedule 2 to the Financial Services (Banking Reform) Act 2
 
 .
 
-#### 5. Electronic Communications (Networks and Services) (Penalties) (Rules for Calculation of Turnover) Order 2003[^key-204dab64e87ebf102579c2c908a128c9]
+#### 5. Electronic Communications (Networks and Services) (Penalties) (Rules for Calculation of Turnover) Order 2003[^c-204dab64e87ebf102579c2c908a128c9]
 
 (1) The Electronic Communications (Networks and Services) (Penalties) (Rules for Calculation of Turnover) Order 2003[^f00022] is amended as follows.
 
@@ -375,7 +375,7 @@ Omit paragraph 11 of Schedule 2 to the Financial Services (Banking Reform) Act 2
 
   .
 
-#### 6. Water Mergers (Determination of Turnover) Regulations 2004[^key-0565ec82a942cf15955d491b6c0c9330]
+#### 6. Water Mergers (Determination of Turnover) Regulations 2004[^c-0565ec82a942cf15955d491b6c0c9330]
 
 (1) The Water Mergers (Determination of Turnover) Regulations 2004[^f00023] are amended as follows.
 
@@ -388,7 +388,7 @@ Omit paragraph 11 of Schedule 2 to the Financial Services (Banking Reform) Act 2
 
 .
 
-#### 7. Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005[^key-ac440abf49ef1fe203a65fc804befb95]
+#### 7. Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005[^c-ac440abf49ef1fe203a65fc804befb95]
 
 (1) The Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005[^f00024] are amended as follows.
 
@@ -401,7 +401,7 @@ Omit paragraph 11 of Schedule 2 to the Financial Services (Banking Reform) Act 2
 
 .
 
-#### 8. Water Industry (Determination of Turnover for Penalties) Order 2005[^key-11166bd8147bd454e8f7d1fb553e8778]
+#### 8. Water Industry (Determination of Turnover for Penalties) Order 2005[^c-11166bd8147bd454e8f7d1fb553e8778]
 
 (1) The Water Industry (Determination of Turnover for Penalties) Order 2005[^f00025] is amended as follows.
 
@@ -413,7 +413,7 @@ Omit paragraph 11 of Schedule 2 to the Financial Services (Banking Reform) Act 2
 
 .
 
-#### 9. Pension Protection Fund (Entry Rules) Regulations 2005[^key-14d40de40742590702f699ff8ab881f7]
+#### 9. Pension Protection Fund (Entry Rules) Regulations 2005[^c-14d40de40742590702f699ff8ab881f7]
 
 (1) The Pension Protection Fund (Entry Rules) Regulations 2005[^f00026] are amended as follows.
 
@@ -426,7 +426,7 @@ Omit paragraph 11 of Schedule 2 to the Financial Services (Banking Reform) Act 2
 
 .
 
-#### 10. Mobile Roaming (European Communities) Regulations 2007[^key-321d8241fef981acae3cf69c760111a5]
+#### 10. Mobile Roaming (European Communities) Regulations 2007[^c-321d8241fef981acae3cf69c760111a5]
 
 (1) The Mobile Roaming (European Communities) Regulations 2007[^f00027] are amended as follows.
 
@@ -442,7 +442,7 @@ Omit paragraph 11 of Schedule 2 to the Financial Services (Banking Reform) Act 2
 
   .
 
-#### 11. Community Infrastructure Levy Regulations 2010[^key-af78017efcbd842c6c6fe37a9a2ec233]
+#### 11. Community Infrastructure Levy Regulations 2010[^c-af78017efcbd842c6c6fe37a9a2ec233]
 
 (1) The Community Infrastructure Levy Regulations 2010[^f00028] are amended as follows.
 
@@ -487,13 +487,13 @@ Omit paragraph 11 of Schedule 2 to the Financial Services (Banking Reform) Act 2
 
 (14) In regulation 55(3)(c), omit paragraph (iii) and the “and” before it.
 
-#### 12. Climate Change Agreements (Administration) Regulations 2012[^key-bb3da1f8b279f13c58252d43850f3dfb]
+#### 12. Climate Change Agreements (Administration) Regulations 2012[^c-bb3da1f8b279f13c58252d43850f3dfb]
 
 (1) The Climate Change Agreements (Administration) Regulations 2012[^f00029] are amended as follows.
 
 (2) In regulation 17, omit paragraphs (1) and (2).
 
-#### 13. Electricity Capacity Regulations 2014[^key-43159f03dfab5146a782bc779d287162]
+#### 13. Electricity Capacity Regulations 2014[^c-43159f03dfab5146a782bc779d287162]
 
 (1) The Electricity Capacity Regulations 2014[^f00030] are amended as follows.
 
@@ -508,13 +508,13 @@ Omit paragraph 11 of Schedule 2 to the Financial Services (Banking Reform) Act 2
 - (a) in paragraph (1), for “26(5) or (6)” substitute “26(6)”;
 - (b) in paragraph (4), for “26(5)(a) or (6)” substitute “26(6)”.
 
-#### 14. Payment of Pension Levies for Past Periods Regulations 2014[^key-3159840dfbc739b94e42dd5dd323a2ff]
+#### 14. Payment of Pension Levies for Past Periods Regulations 2014[^c-3159840dfbc739b94e42dd5dd323a2ff]
 
 (1) The Payment of Pension Levies for Past Periods Regulations 2014[^f00031] are amended as follows.
 
 (2) In regulation 3(7), after “794/2004”, insert “(as it had effect in the United Kingdom immediately prior to IP completion day)”.
 
-#### 15. Bank Recovery and Resolution (No. 2) Order 2014[^key-43d75f518900fe8e15beca367aa0c782]
+#### 15. Bank Recovery and Resolution (No. 2) Order 2014[^c-43d75f518900fe8e15beca367aa0c782]
 
 (1) The Bank Recovery and Resolution (No. 2) Order 2014[^f00032] is amended as follows.
 
@@ -522,7 +522,7 @@ Omit paragraph 11 of Schedule 2 to the Financial Services (Banking Reform) Act 2
 
 (3) In article 168(3), omit sub-paragraph (b).
 
-#### 16. Open Internet Access (EU Regulation) Regulations 2016[^key-276c6ebdea7605110960f32994f62c3c]
+#### 16. Open Internet Access (EU Regulation) Regulations 2016[^c-276c6ebdea7605110960f32994f62c3c]
 
 (1) The Open Internet Access (EU Regulation) Regulations 2016[^f00033] are amended as follows.
 
@@ -538,13 +538,13 @@ Omit paragraph 11 of Schedule 2 to the Financial Services (Banking Reform) Act 2
 
   .
 
-#### 17. Capital Requirements (Amendment) (EU Exit) Regulations 2018[^key-a85ae4c810f78666d5362409552f09eb]
+#### 17. Capital Requirements (Amendment) (EU Exit) Regulations 2018[^c-a85ae4c810f78666d5362409552f09eb]
 
 (1) The Capital Requirements (Amendment) (EU Exit) Regulations 2018[^f00034] are amended as follows.
 
 (2) In regulation 86, omit paragraphs (a) and (b).
 
-#### 18. Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019[^key-5696d4cce06e0b8ab468d20877161179]
+#### 18. Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019[^c-5696d4cce06e0b8ab468d20877161179]
 
 (1) The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019[^f00035] are amended as follows.
 
@@ -552,7 +552,7 @@ Omit paragraph 11 of Schedule 2 to the Financial Services (Banking Reform) Act 2
 
 (3) Omit regulation 113.
 
-#### 19. Intra-EU Communications (EU Regulation) Regulations 2019[^key-61b41e56a33ae882deba5f7b13e6a390]
+#### 19. Intra-EU Communications (EU Regulation) Regulations 2019[^c-61b41e56a33ae882deba5f7b13e6a390]
 
 (1) The Intra-EU Communications (EU Regulation) Regulations 2019[^f00036] are amended as follows.
 
@@ -572,7 +572,7 @@ Omit paragraph 11 of Schedule 2 to the Financial Services (Banking Reform) Act 2
 
 Regulation 8
 
-### 1. Claims before a court or tribunal relating to State aid infringement before IP completion day[^key-36e7793749c123d1e0001a11100153e6]
+### 1. Claims before a court or tribunal relating to State aid infringement before IP completion day[^c-36e7793749c123d1e0001a11100153e6]
 
 (1) In this paragraph, “**State aid breach**” means a breach or alleged breach of—
 
@@ -606,73 +606,73 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Paragraph 21 of Schedule 7 was amended by the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) section 41(4) and Schedule 5, Part 2, paragraphs 38 and 53(1) and (2).
 
-[^key-113ca7f9bc1e07b69df50e8648a1adfc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-113ca7f9bc1e07b69df50e8648a1adfc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^f00002]: Footnote: For the meaning of “IP completion day”, see Schedule 1 to the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-117c6d96670d62105b9b27b222be31ed]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1470/regulation/2) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-117c6d96670d62105b9b27b222be31ed]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1470/regulation/2) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-17a3b11b00202cdcf56eb2ae023f0d06]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1470/regulation/3) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-17a3b11b00202cdcf56eb2ae023f0d06]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1470/regulation/3) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^f00003]: Footnote: For the meaning of “EEA Agreement”, see Schedule 1 to the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-216169ef89a1fd4cf0ef12c8ed377daf]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1470/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-216169ef89a1fd4cf0ef12c8ed377daf]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1470/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-88d54789f320e4f4705c1337efca3056]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-88d54789f320e4f4705c1337efca3056]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-1c9974b255415ebb3fa35ee0743c93fd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1470/regulation/6) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-1c9974b255415ebb3fa35ee0743c93fd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1470/regulation/6) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-34e4757c78fdfba117a3246a9ae2b4a6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1470/regulation/7) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-34e4757c78fdfba117a3246a9ae2b4a6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1470/regulation/7) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-18c71e3906ec98a6e9bd5e26ea8076ce]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1470/regulation/8) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-18c71e3906ec98a6e9bd5e26ea8076ce]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1470/regulation/8) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-139045502040cc7e99bf5c5b9b11515b]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-139045502040cc7e99bf5c5b9b11515b]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00004]: Footnote: EUR 1184/2006.
 
-[^key-7ea06d2562851ad16ba76a09989a8f15]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2020/1470/schedule/1/paragraph/2) revoked (25.12.2023) by [The Public Service Obligations in Transport Regulations 2023 (S.I. 2023/1369)](https://www.legislation.gov.uk/uksi/2023/1369), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/uksi/2023/1369/schedule/3/paragraph/9/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2023/1369/regulation/28))
+[^c-7ea06d2562851ad16ba76a09989a8f15]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2020/1470/schedule/1/paragraph/2) revoked (25.12.2023) by [The Public Service Obligations in Transport Regulations 2023 (S.I. 2023/1369)](https://www.legislation.gov.uk/uksi/2023/1369), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1369/regulation/1/1), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/uksi/2023/1369/schedule/3/paragraph/9/b) (with [reg. 28](https://www.legislation.gov.uk/uksi/2023/1369/regulation/28))
 
-[^key-d29199cc7f8eb5fa1c48fdde603dcc3d]: Commencement: Sch. 1 para. 3(1)(2) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-d29199cc7f8eb5fa1c48fdde603dcc3d]: Commencement: Sch. 1 para. 3(1)(2) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
-[^key-6a64dc233ed477cb6d9474de77892dcb]: Commencement: Sch. 1 para. 3(3) in force at 31.12.2020 immediately after IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/3)
+[^c-6a64dc233ed477cb6d9474de77892dcb]: Commencement: Sch. 1 para. 3(3) in force at 31.12.2020 immediately after IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/3)
 
 [^f00006]: Footnote: EUR 575/2013, as amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401), [S.I. 2019/264](https://www.legislation.gov.uk/uksi/2019/264), [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710) and [S.I. 2019/1232](https://www.legislation.gov.uk/uksi/2019/1232).
 
-[^key-b2534065c57e54d8daa5d277a24c1559]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-b2534065c57e54d8daa5d277a24c1559]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00007]: Footnote: EUR 1305/2013, as amended by [S.I. 2019/748](https://www.legislation.gov.uk/uksi/2019/748), [S.I. 2019/764](https://www.legislation.gov.uk/uksi/2019/764) and [S.I. 2019/1422](https://www.legislation.gov.uk/uksi/2019/1422).
 
-[^key-fed35b3130e6439c167d54a5b312ccca]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-fed35b3130e6439c167d54a5b312ccca]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00008]: Footnote: EUR 1307/2013, as amended by section 5 of the Direct Payments to Farmers (Legislative Continuity) Act [2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2) and by [S.I. 2019/207](https://www.legislation.gov.uk/uksi/2019/207) and [S.I. 2020/91](https://www.legislation.gov.uk/uksi/2020/91).
 
-[^key-02d1cc9efa49707c627aeeaa9034e126]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-02d1cc9efa49707c627aeeaa9034e126]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00009]: Footnote: EUR 1308/2013, as amended by [S.I. 2019/821](https://www.legislation.gov.uk/uksi/2019/821), [S.I. 2019/831](https://www.legislation.gov.uk/uksi/2019/831) and [S.I. 2019/1422](https://www.legislation.gov.uk/uksi/2019/1422).
 
-[^key-74aa1e6eb120ada01221c1064858e0d5]: Commencement: Sch. 1 para. 7(1)-(7)(8)(a) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-74aa1e6eb120ada01221c1064858e0d5]: Commencement: Sch. 1 para. 7(1)-(7)(8)(a) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
-[^key-e9690af90d2ac6792f290cbc86c68ebc]: Commencement: Sch. 1 para. 7(8)(b)(c)(9) in force at 31.12.2020 immediately after IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/3)
+[^c-e9690af90d2ac6792f290cbc86c68ebc]: Commencement: Sch. 1 para. 7(8)(b)(c)(9) in force at 31.12.2020 immediately after IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/3)
 
 [^f00010]: Footnote: EUR 1303/2013, as amended by S.I 2019/748, [S.I. 2019/785](https://www.legislation.gov.uk/uksi/2019/785) and [S.I. 2019/1422](https://www.legislation.gov.uk/uksi/2019/1422).
 
-[^key-c619409e4c1cb0c7ef84f5114be7f20f]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 immediately after IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/3)
+[^c-c619409e4c1cb0c7ef84f5114be7f20f]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 immediately after IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/3)
 
 [^f00011]: Footnote: EUR 808/2014, as amended by [S.I. 2019/770](https://www.legislation.gov.uk/uksi/2019/770).
 
-[^key-ca73806bffa2a5b8586d0cda76aadf4e]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-ca73806bffa2a5b8586d0cda76aadf4e]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00012]: Footnote: EUR 1144/2014, as amended by [S.I. 2019/821](https://www.legislation.gov.uk/uksi/2019/821) and [S.I. 2019/831](https://www.legislation.gov.uk/uksi/2019/831).
 
-[^key-7902314948056b17337476fa79d18b03]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-7902314948056b17337476fa79d18b03]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00013]: Footnote: EUR 2019/943, as amended by [S.I. 2020/1006](https://www.legislation.gov.uk/uksi/2020/1006).
 
-[^key-80ffd76bc283b0d62bbc5d067c5b2cdb]: Commencement: Sch. 1 para. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-80ffd76bc283b0d62bbc5d067c5b2cdb]: Commencement: Sch. 1 para. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2009/2331](https://www.legislation.gov.uk/uksi/2009/2331), amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.I. 2011/1275](https://www.legislation.gov.uk/uksi/2011/1275).
 
-[^key-2c82748418b261cc701925c3797fd114]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-2c82748418b261cc701925c3797fd114]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00015]: Footnote: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).
 
@@ -682,76 +682,76 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00018]: Footnote: Section 256A was inserted by paragraph 11 of Schedule 2 to the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33) and amended by [S.I. 2014/3329](https://www.legislation.gov.uk/uksi/2014/3329).
 
-[^key-dd503813c9db02e760590717d379aa71]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-dd503813c9db02e760590717d379aa71]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00019]: Footnote: [2012 c. 21](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-37594902b29c3210e7d21493680cdb73]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-37594902b29c3210e7d21493680cdb73]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00020]: Footnote: [2013 c. 33](https://www.legislation.gov.uk/ukpga/2013/33).
 
-[^key-9990c66788304e32bb6ebc44075ab240]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-9990c66788304e32bb6ebc44075ab240]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00021]: Footnote: [S.I. 2003/1370](https://www.legislation.gov.uk/uksi/2003/1370), amended by [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809); there are other amending instruments but none is relevant.
 
-[^key-204dab64e87ebf102579c2c908a128c9]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-204dab64e87ebf102579c2c908a128c9]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00022]: Footnote: [S.I. 2003/2712](https://www.legislation.gov.uk/uksi/2003/2712).
 
-[^key-0565ec82a942cf15955d491b6c0c9330]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-0565ec82a942cf15955d491b6c0c9330]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00023]: Footnote: [S.I. 2004/3206](https://www.legislation.gov.uk/uksi/2004/3206), amended by [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809); there are other amending instruments but none is relevant.
 
-[^key-ac440abf49ef1fe203a65fc804befb95]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-ac440abf49ef1fe203a65fc804befb95]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00024]: Footnote: [S.I. 2005/277](https://www.legislation.gov.uk/uksi/2005/277), amended by [S.I. 2010/196](https://www.legislation.gov.uk/uksi/2010/196); there are other amending instruments but none is relevant.
 
-[^key-11166bd8147bd454e8f7d1fb553e8778]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/1)
+[^c-11166bd8147bd454e8f7d1fb553e8778]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/1)
 
 [^f00025]: Footnote: [S.I. 2005/477](https://www.legislation.gov.uk/uksi/2005/477), amended by [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809); there are other amending instruments but none is relevant.
 
-[^key-14d40de40742590702f699ff8ab881f7]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-14d40de40742590702f699ff8ab881f7]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00026]: Footnote: [S.I. 2005/590](https://www.legislation.gov.uk/uksi/2005/590), amended by [S.I. 2010/196](https://www.legislation.gov.uk/uksi/2010/196); there are other amending instruments but none is relevant.
 
-[^key-321d8241fef981acae3cf69c760111a5]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-321d8241fef981acae3cf69c760111a5]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00027]: Footnote: [S.I. 2007/1933](https://www.legislation.gov.uk/uksi/2007/1933), amended by [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809); there are other amending instruments but none is relevant.
 
-[^key-af78017efcbd842c6c6fe37a9a2ec233]: Commencement: Sch. 2 para. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-af78017efcbd842c6c6fe37a9a2ec233]: Commencement: Sch. 2 para. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00028]: Footnote: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948), amended by [S.I. 2014/385](https://www.legislation.gov.uk/uksi/2014/385); there are other amending instruments but none is relevant.
 
-[^key-bb3da1f8b279f13c58252d43850f3dfb]: Commencement: Sch. 2 para. 12 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-bb3da1f8b279f13c58252d43850f3dfb]: Commencement: Sch. 2 para. 12 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00029]: Footnote: [S.I. 2012/1976](https://www.legislation.gov.uk/uksi/2012/1976), to which there are amendments not relevant to these Regulations.
 
-[^key-43159f03dfab5146a782bc779d287162]: Commencement: Sch. 2 para. 13 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-43159f03dfab5146a782bc779d287162]: Commencement: Sch. 2 para. 13 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00030]: Footnote: [S.I. 2014/2043](https://www.legislation.gov.uk/uksi/2014/2043), amended by [S.I. 2014/3354](https://www.legislation.gov.uk/uksi/2014/3354) and [S.I. 2019/862](https://www.legislation.gov.uk/uksi/2019/862).
 
-[^key-3159840dfbc739b94e42dd5dd323a2ff]: Commencement: Sch. 2 para. 14 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-3159840dfbc739b94e42dd5dd323a2ff]: Commencement: Sch. 2 para. 14 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00031]: Footnote: [S.I. 2014/2939](https://www.legislation.gov.uk/uksi/2014/2939).
 
-[^key-43d75f518900fe8e15beca367aa0c782]: Commencement: Sch. 2 para. 15 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-43d75f518900fe8e15beca367aa0c782]: Commencement: Sch. 2 para. 15 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00032]: Footnote: [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348), amended by [S.I. 2016/1239](https://www.legislation.gov.uk/uksi/2016/1239) and [S.I. 2017/80](https://www.legislation.gov.uk/uksi/2017/80).
 
-[^key-276c6ebdea7605110960f32994f62c3c]: Commencement: Sch. 2 para. 16 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-276c6ebdea7605110960f32994f62c3c]: Commencement: Sch. 2 para. 16 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00033]: Footnote: [S.I. 2016/607](https://www.legislation.gov.uk/uksi/2016/607).
 
-[^key-a85ae4c810f78666d5362409552f09eb]: Commencement: Sch. 2 para. 17 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/4)
+[^c-a85ae4c810f78666d5362409552f09eb]: Commencement: Sch. 2 para. 17 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/4)
 
 [^f00034]: Footnote: [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401).
 
-[^key-5696d4cce06e0b8ab468d20877161179]: Commencement: Sch. 2 para. 18 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/4)
+[^c-5696d4cce06e0b8ab468d20877161179]: Commencement: Sch. 2 para. 18 in force at 31.12.2020 immediately before IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/4)
 
 [^f00035]: Footnote: [S.I. 2019/821](https://www.legislation.gov.uk/uksi/2019/821).
 
-[^key-61b41e56a33ae882deba5f7b13e6a390]: Commencement: Sch. 2 para. 19 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-61b41e56a33ae882deba5f7b13e6a390]: Commencement: Sch. 2 para. 19 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
 
 [^f00036]: Footnote: [S.I. 2019/980](https://www.legislation.gov.uk/uksi/2019/980).
 
-[^key-36e7793749c123d1e0001a11100153e6]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)
+[^c-36e7793749c123d1e0001a11100153e6]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2)

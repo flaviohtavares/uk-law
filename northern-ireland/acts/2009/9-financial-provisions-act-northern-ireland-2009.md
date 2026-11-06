@@ -75,7 +75,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - (a) conducted as a business; but
 - (b) are so conducted primarily for social, environmental or ethical purposes or for other purposes beneficial to the community rather than for profit.
 
-## 4. Expenditure for purposes of children and young persons[^key-b151558c3bb1e79f308d6cd348c43400]
+## 4. Expenditure for purposes of children and young persons[^c-b151558c3bb1e79f308d6cd348c43400]
 
 (1) The Office of the First Minister and deputy First Minister may incur expenditure for the purpose of assisting activities which that Office considers promote the interests of, or are otherwise of benefit to, children or young persons.
 
@@ -86,7 +86,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - “**financial assistance**” means assistance by way of grants or loans on such conditions (including conditions as to repayment) as that Office may determine;
 - “**child or young person**” has the meaning given by Article 3 of the Commissioner for Children and Young People (Northern Ireland) Order 2003 (NI 11).
 
-## 5. Expenditure for purposes of sustainable development[^key-bec9db3c27a3ae8b1f45d2f8c9fa5250]
+## 5. Expenditure for purposes of sustainable development[^c-bec9db3c27a3ae8b1f45d2f8c9fa5250]
 
 (1) The Office of the First Minister and deputy First Minister may incur expenditure for any purpose calculated to contribute to the achievement of sustainable development.
 
@@ -117,6 +117,6 @@ Section 6.
 
 ## Annotations
 
-[^key-b151558c3bb1e79f308d6cd348c43400]: Modification: [S. 4](https://www.legislation.gov.uk/nia/2009/9/section/4): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/3) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-b151558c3bb1e79f308d6cd348c43400]: Modification: [S. 4](https://www.legislation.gov.uk/nia/2009/9/section/4): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/3) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-bec9db3c27a3ae8b1f45d2f8c9fa5250]: Modification: [S. 5](https://www.legislation.gov.uk/nia/2009/9/section/5): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-bec9db3c27a3ae8b1f45d2f8c9fa5250]: Modification: [S. 5](https://www.legislation.gov.uk/nia/2009/9/section/5): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Masterplan consent area schemes[^key-4e6f520218a8c8be8cb995f2a04b344f][^key-c69d2f948ba1ef02eef42624015733a9]
+## 15. Masterplan consent area schemes[^c-4e6f520218a8c8be8cb995f2a04b344f][^c-c69d2f948ba1ef02eef42624015733a9]
 
 *Extent: S*
 
@@ -488,6 +488,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e6f520218a8c8be8cb995f2a04b344f]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/13/section/15) in force at 1.4.2024 for specified purposes by [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/b)[(4)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/4)
+[^c-4e6f520218a8c8be8cb995f2a04b344f]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/13/section/15) in force at 1.4.2024 for specified purposes by [S.S.I. 2024/79](https://www.legislation.gov.uk/ssi/2024/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/2/b)[(4)](https://www.legislation.gov.uk/ssi/2024/79/regulation/2/4)
 
-[^key-c69d2f948ba1ef02eef42624015733a9]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/13/section/15) in force at 5.12.2024 in so far as not already in force by [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/b)
+[^c-c69d2f948ba1ef02eef42624015733a9]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2019/13/section/15) in force at 5.12.2024 in so far as not already in force by [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/b)

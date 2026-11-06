@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## P10. Payments by employing authorities to administering authorities[^key-15949e179de6a854248ed35825f4c70c]
+## P10. Payments by employing authorities to administering authorities[^c-15949e179de6a854248ed35825f4c70c]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15949e179de6a854248ed35825f4c70c]: Commencement: [Reg. P10](https://www.legislation.gov.uk/uksi/1986/24/regulation/P10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-15949e179de6a854248ed35825f4c70c]: Commencement: [Reg. P10](https://www.legislation.gov.uk/uksi/1986/24/regulation/P10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

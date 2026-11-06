@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Amendment of regulation 10 (projects affecting other EEA States)[^key-ad8d315ded40650959d446bfd26068d1]
+## 54. Amendment of regulation 10 (projects affecting other EEA States)[^c-ad8d315ded40650959d446bfd26068d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 10, in paragraph (2)(a)(iii), after “these Regulations”, inser
 
 ## Annotations
 
-[^key-ad8d315ded40650959d446bfd26068d1]: Commencement: Reg. 54 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-ad8d315ded40650959d446bfd26068d1]: Commencement: Reg. 54 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

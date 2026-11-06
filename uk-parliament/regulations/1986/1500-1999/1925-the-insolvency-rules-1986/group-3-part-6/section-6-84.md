@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.84. Attendance at meeting of bankrupt, etc[^key-ee0b0ea9f980b1d76127f4410148185a]
+## 6.84. Attendance at meeting of bankrupt, etc[^c-ee0b0ea9f980b1d76127f4410148185a]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ The chairman's decision is final as to what (if any) intervention may be made by
 
 ## Annotations
 
-[^key-ee0b0ea9f980b1d76127f4410148185a]: Commencement: [Rule 6.84](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.84) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ee0b0ea9f980b1d76127f4410148185a]: Commencement: [Rule 6.84](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.84) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00156]: Marginal citation: \[FORM 6.36\]

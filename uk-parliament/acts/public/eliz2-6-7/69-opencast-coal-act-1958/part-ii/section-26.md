@@ -55,7 +55,7 @@ Provided that, in relation to land which, immediately before the date of entry, 
 >
 > Provided that, in relation to land which, immediately before the date of entry, is not occupied by a tenant, Part IV of that Schedule shall apply subject to the modifications set out in Part V of that Schedule
 
-- (b)[^key-c0f137851fa8e934d580a682cc46a54a] in subsection (3) of this section for the reference to the Act of 1986 there shall be substituted a reference to the Scottish Act of 1991 or, as the case may be, to the Scottish Act of 2003; and
+- (b)[^c-c0f137851fa8e934d580a682cc46a54a] in subsection (3) of this section for the reference to the Act of 1986 there shall be substituted a reference to the Scottish Act of 1991 or, as the case may be, to the Scottish Act of 2003; and
 - (c)[^c6619751] in subsection (5) of this section there shall be substituted—
   - (i) for the reference to section 91 of the Act of 1986 a reference to section 73 of the Scottish Act of 1991;
   - (ii) for the reference to Schedule 8 to the Act of 1986 a reference to Part III of Schedule 5 to the Scottish Act of 1991;
@@ -81,6 +81,6 @@ Provided that, in relation to land which, immediately before the date of entry, 
 
 [^c6619741]: Textual amendment: Word in s. 26(6) inserted (25.9.1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 88](https://www.legislation.gov.uk/ukpga/1991/55/section/88), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/1991/55/schedule/11/paragraph/15) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/12/paragraph/3))
 
-[^key-c0f137851fa8e934d580a682cc46a54a]: Textual amendment: S. 26(6)(b) substituted (27.11.2003) by [Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583)](https://www.legislation.gov.uk/ssi/2003/583), [art. 1](https://www.legislation.gov.uk/ssi/2003/583/article/1), [Sch. para. 4](https://www.legislation.gov.uk/ssi/2003/583/schedule/paragraph/4)
+[^c-c0f137851fa8e934d580a682cc46a54a]: Textual amendment: S. 26(6)(b) substituted (27.11.2003) by [Agricultural Holdings (Consequential Amendments) (Scotland) Order 2003 (S.S.I. 2003/583)](https://www.legislation.gov.uk/ssi/2003/583), [art. 1](https://www.legislation.gov.uk/ssi/2003/583/article/1), [Sch. para. 4](https://www.legislation.gov.uk/ssi/2003/583/schedule/paragraph/4)
 
 [^c6619751]: Textual amendment: Words in s. 26(6) substituted (25.9.1991) by [Agricultural Holdings (Scotland) Act 1991 (c. 55, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1991/55), [ss. 88](https://www.legislation.gov.uk/ukpga/1991/55/section/88), [89(2)](https://www.legislation.gov.uk/ukpga/1991/55/section/89/2), [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/1991/55/schedule/11/paragraph/15) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/1991/55/section/45/3), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/1991/55/schedule/11/paragraph/3))

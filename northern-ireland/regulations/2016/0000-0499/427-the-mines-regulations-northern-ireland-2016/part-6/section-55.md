@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Emergency equipment and communication systems[^key-81b3e23cb8d6057b00d2d31b3e6256b2]
+## 55. Emergency equipment and communication systems[^c-81b3e23cb8d6057b00d2d31b3e6256b2]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81b3e23cb8d6057b00d2d31b3e6256b2]: Commencement: [Reg. 55](https://www.legislation.gov.uk/nisr/2016/427/regulation/55) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-81b3e23cb8d6057b00d2d31b3e6256b2]: Commencement: [Reg. 55](https://www.legislation.gov.uk/nisr/2016/427/regulation/55) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

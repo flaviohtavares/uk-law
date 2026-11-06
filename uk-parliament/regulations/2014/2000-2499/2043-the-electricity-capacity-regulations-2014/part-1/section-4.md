@@ -37,8 +37,8 @@ summary: ''
 (3) The conditions referred to in paragraph (1)(c) and (d) are that—
 
 - (a) the generating units meet at least one of Conditions 1 to 4 in paragraph (4);
-- (b) the generating units are all of the same type [^key-51c69edd253c1a5ff9e23538ee652e4b]...;
-- (ba)[^key-bb75176d91aff756b06209ef56f11a0e] subject to paragraph (4A), the generating units are all owned by the same person;
+- (b) the generating units are all of the same type [^c-51c69edd253c1a5ff9e23538ee652e4b]...;
+- (ba)[^c-bb75176d91aff756b06209ef56f11a0e] subject to paragraph (4A), the generating units are all owned by the same person;
 - (c) subject to paragraph (5), each generating unit is capable of being controlled independently from any other generating unit not forming part of the generating CMU;
 - (d) the net output of all the generating units is measured by one or more half hourly meters in accordance with capacity market rules; and
 - (e) the aggregate connection capacity of all the generating units is not less than the minimum capacity threshold.
@@ -56,7 +56,7 @@ summary: ''
   - (i) the generating units are all hydro generating units which are registered as a single BM unit under the Balancing and Settlement Code; and
   - (ii) there are not more than 10 such generating units.
 
-(4A)[^key-107cdcedfe5e58cb36966a554175fe63] The condition in paragraph (3)(ba) does not apply where the aggregate connection capacity of all the generating units is less than 50 MW.
+(4A)[^c-107cdcedfe5e58cb36966a554175fe63] The condition in paragraph (3)(ba) does not apply where the aggregate connection capacity of all the generating units is less than 50 MW.
 
 (5) The condition in paragraph (3)(c) does not apply where the generating units meet Condition 4 in paragraph (4).
 
@@ -78,30 +78,30 @@ summary: ''
 - “**prospective generating unit**” means a generating unit or proposed generating unit that—
   - (a) has not been commissioned; or
   - (b) is to be subject to an improvements programme and has not been recommissioned following that improvements programme;
-- “**registered trading unit**” means a trading unit, other than a base trading unit or sole trading unit[^key-f86eebea0ed51b4b8c9bc3bf91cf56b0], registered in accordance with the Balancing and Settlement Code; and
+- “**registered trading unit**” means a trading unit, other than a base trading unit or sole trading unit[^c-f86eebea0ed51b4b8c9bc3bf91cf56b0], registered in accordance with the Balancing and Settlement Code; and
 - “**transmission unit**” means a generating unit which exports electricity to the GB transmission system.
 
-(9) In this regulation the following expressions have the same meanings as in the Balancing and Settlement Code as it was in force on 8th September 2014[^key-950e6137993a9af6fc9e5b3a7700cd64]—
+(9) In this regulation the following expressions have the same meanings as in the Balancing and Settlement Code as it was in force on 8th September 2014[^c-950e6137993a9af6fc9e5b3a7700cd64]—
 
 - “base trading unit”;
 - “BM unit”;
 - “central meter registration service”;
-- “metering system”; [^key-bdeff3c8b6755f1908370ccb950c6465]...
-- “sole trading unit”;[^key-9cc142853bf500b28aa3ae0290fd3d41]
+- “metering system”; [^c-bdeff3c8b6755f1908370ccb950c6465]...
+- “sole trading unit”;[^c-9cc142853bf500b28aa3ae0290fd3d41]
 - “trading unit”.
 
 ## Annotations
 
-[^key-51c69edd253c1a5ff9e23538ee652e4b]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/4/3/b) omitted (24.3.2015) by virtue of [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 13(1)(a)](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/13/1/a)
+[^c-51c69edd253c1a5ff9e23538ee652e4b]: Textual amendment: Words in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/4/3/b) omitted (24.3.2015) by virtue of [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 13(1)(a)](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/13/1/a)
 
-[^key-bb75176d91aff756b06209ef56f11a0e]: Textual amendment: [Reg. 4(3)(ba)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/4/3/ba) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 13(1)(b)](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/13/1/b)
+[^c-bb75176d91aff756b06209ef56f11a0e]: Textual amendment: [Reg. 4(3)(ba)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/4/3/ba) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 13(1)(b)](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/13/1/b)
 
-[^key-107cdcedfe5e58cb36966a554175fe63]: Textual amendment: [Reg. 4(4A)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/4/4A) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/13/2)
+[^c-107cdcedfe5e58cb36966a554175fe63]: Textual amendment: [Reg. 4(4A)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/4/4A) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/13/2)
 
-[^key-f86eebea0ed51b4b8c9bc3bf91cf56b0]: Textual amendment: Words in [reg. 4(8)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/4/8) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/13/3)
+[^c-f86eebea0ed51b4b8c9bc3bf91cf56b0]: Textual amendment: Words in [reg. 4(8)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/4/8) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/13/3)
 
-[^key-950e6137993a9af6fc9e5b3a7700cd64]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/4/9) substituted (18.12.2014) by [The Electricity Capacity (Supplier Payment etc.) Regulations 2014 (S.I. 2014/3354)](https://www.legislation.gov.uk/uksi/2014/3354), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/3354/schedule/2/paragraph/4)
+[^c-950e6137993a9af6fc9e5b3a7700cd64]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/4/9) substituted (18.12.2014) by [The Electricity Capacity (Supplier Payment etc.) Regulations 2014 (S.I. 2014/3354)](https://www.legislation.gov.uk/uksi/2014/3354), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/3354/schedule/2/paragraph/4)
 
-[^key-bdeff3c8b6755f1908370ccb950c6465]: Textual amendment: Word in [reg. 4(9)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/4/9) omitted (24.3.2015) by virtue of [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 13(4)](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/13/4)
+[^c-bdeff3c8b6755f1908370ccb950c6465]: Textual amendment: Word in [reg. 4(9)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/4/9) omitted (24.3.2015) by virtue of [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 13(4)](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/13/4)
 
-[^key-9cc142853bf500b28aa3ae0290fd3d41]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/4/9) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 13(4)](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/13/4)
+[^c-9cc142853bf500b28aa3ae0290fd3d41]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/4/9) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 13(4)](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/13/4)

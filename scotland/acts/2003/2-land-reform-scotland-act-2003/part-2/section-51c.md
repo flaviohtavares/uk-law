@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51C. Circumstances affecting result of ballot[^key-23cb082cf8c160511724225e829d273f]
+## 51C. Circumstances affecting result of ballot[^c-23cb082cf8c160511724225e829d273f]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23cb082cf8c160511724225e829d273f]: Textual amendment: S. 51C inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 51(1)](https://www.legislation.gov.uk/asp/2015/6/section/51/1), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-23cb082cf8c160511724225e829d273f]: Textual amendment: S. 51C inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 51(1)](https://www.legislation.gov.uk/asp/2015/6/section/51/1), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

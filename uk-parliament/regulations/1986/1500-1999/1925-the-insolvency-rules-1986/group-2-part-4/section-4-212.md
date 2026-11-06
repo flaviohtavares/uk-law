@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.212. Notice of hearing[^key-4f54c9e477c009c37d699a95326fb2c4]
+## 4.212. Notice of hearing[^c-4f54c9e477c009c37d699a95326fb2c4]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f54c9e477c009c37d699a95326fb2c4]: Commencement: [Rule 4.212](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.212) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-4f54c9e477c009c37d699a95326fb2c4]: Commencement: [Rule 4.212](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.212) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

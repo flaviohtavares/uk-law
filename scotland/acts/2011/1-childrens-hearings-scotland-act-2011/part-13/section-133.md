@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 133. Principal Reporter's duty to initiate review[^key-89aafaf2933841909e6490f8b989bca6]
+## 133. Principal Reporter's duty to initiate review[^c-89aafaf2933841909e6490f8b989bca6]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The Principal Reporter must initiate a review of a compulsory supervision order 
 
 ## Annotations
 
-[^key-89aafaf2933841909e6490f8b989bca6]: Commencement: S. 133 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-89aafaf2933841909e6490f8b989bca6]: Commencement: S. 133 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

@@ -107,7 +107,7 @@ Until the repeal of section 11 [^c22926371] of RIPA (implementation of warrants)
 
 ## 6. Transitional provision regarding technical capability notices
 
-(1) Until section 18(1)[^key-b92e73052e75a622396c6614895b4286] of the 2016 comes into force for all purposes—
+(1) Until section 18(1)[^c-b92e73052e75a622396c6614895b4286] of the 2016 comes into force for all purposes—
 
 - (a) section 253(3) of the 2016 Act has effect as if in the definition of “relevant authorisation”, before paragraph (a) there were inserted—
 
@@ -120,7 +120,7 @@ Until the repeal of section 11 [^c22926371] of RIPA (implementation of warrants)
 
   .
 
-(2) Until section 106(1)[^key-94164a146f1a1b3a1adbca9b0be6b4f3] of the 2016 Act comes into force for all purposes, section 253(3) of the 2016 Act has effect as if in the definition of “relevant authorisation”—
+(2) Until section 106(1)[^c-94164a146f1a1b3a1adbca9b0be6b4f3] of the 2016 Act comes into force for all purposes, section 253(3) of the 2016 Act has effect as if in the definition of “relevant authorisation”—
 
 - (a) in paragraph (a) “or” were omitted, and
 - (b) after paragraph (a) there were inserted—
@@ -253,9 +253,9 @@ The following provisions of the Investigatory Powers Act 2016 (c. 25) have been 
 
 [^c22926371]: Marginal citation: [Section 11](https://www.legislation.gov.uk/uksi/2018/341/section/11) was amended by section 4(2) to (5) of the [Data Retention and Investigatory Powers Act 2014 (c. 27)](https://www.legislation.gov.uk/ukpga/2014/27). Those amendments continue to have effect by virtue of paragraph 9 of Schedule 9 to the 2016 Act.
 
-[^key-b92e73052e75a622396c6614895b4286]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2018/341/regulation/6/1) substituted (29.5.2018) by [The Investigatory Powers Act 2016 (Commencement No. 5 and Transitional and Saving Provisions) Regulations 2018 (S.I. 2018/652)](https://www.legislation.gov.uk/uksi/2018/652), [reg. 27(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/27/a)
+[^c-b92e73052e75a622396c6614895b4286]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2018/341/regulation/6/1) substituted (29.5.2018) by [The Investigatory Powers Act 2016 (Commencement No. 5 and Transitional and Saving Provisions) Regulations 2018 (S.I. 2018/652)](https://www.legislation.gov.uk/uksi/2018/652), [reg. 27(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/27/a)
 
-[^key-94164a146f1a1b3a1adbca9b0be6b4f3]: Textual amendment: Word in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2018/341/regulation/6/2) substituted (29.5.2018) by [The Investigatory Powers Act 2016 (Commencement No. 5 and Transitional and Saving Provisions) Regulations 2018 (S.I. 2018/652)](https://www.legislation.gov.uk/uksi/2018/652), [reg. 27(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/27/b)
+[^c-94164a146f1a1b3a1adbca9b0be6b4f3]: Textual amendment: Word in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2018/341/regulation/6/2) substituted (29.5.2018) by [The Investigatory Powers Act 2016 (Commencement No. 5 and Transitional and Saving Provisions) Regulations 2018 (S.I. 2018/652)](https://www.legislation.gov.uk/uksi/2018/652), [reg. 27(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/27/b)
 
 [^c22926381]: Marginal citation: [1994 c. 13](https://www.legislation.gov.uk/ukpga/1994/13). Section 5 was amended by section 2 of the [Intelligence Services Act 1996 (c. 35)](https://www.legislation.gov.uk/ukpga/1996/35) and section 74(1) and (2) of the Regulation of Investigatory Powers Act 2000.
 

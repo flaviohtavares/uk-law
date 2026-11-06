@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — ISSUE OF NEW REGISTRATION DOCUMENT FROM 26th OCTOBER 2015[^key-295149f169145a603ff156b106cda992]
+## SCHEDULE 3A — ISSUE OF NEW REGISTRATION DOCUMENT FROM 26th OCTOBER 2015[^c-295149f169145a603ff156b106cda992]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 15A(5)
 
-### 1. Duty of the insurer[^key-1329359ff0a85be0fe945bfe2b5d7a2a]
+### 1. Duty of the insurer[^c-1329359ff0a85be0fe945bfe2b5d7a2a]
 
 (1) If an insurer determines that the relevant vehicle for which it provides a policy of insurance has sustained damage such that the repair costs, or the total cost of repair and associated ancillary costs, exceed the pre-accident value of that vehicle or the insurer is required to replace the damaged vehicle with another vehicle under a policy of insurance—
 
@@ -36,15 +36,15 @@ Regulation 15A(5)
 
 ### 2. Duty of the keeper
 
-(1) Where a keeper of a fleet is the keeper of a relevant vehicle that is not insured with an insurer and the pre-accident value of the vehicle is either less than the cost of repairing it or the total cost of repairing it and associated ancillary costs,[^key-5fb521b51ba8f9f74e5acecf290accb6] that keeper must—
+(1) Where a keeper of a fleet is the keeper of a relevant vehicle that is not insured with an insurer and the pre-accident value of the vehicle is either less than the cost of repairing it or the total cost of repairing it and associated ancillary costs,[^c-5fb521b51ba8f9f74e5acecf290accb6] that keeper must—
 
 - (a) notify the Secretary of State if—
   - (i) the vehicle has sustained damage, and
   - (ii) the vehicle is suitable for repair; and
-  - (iii)[^key-57a00494a8fa6cf5587d6c3e3a71eca8] if the notification is made on or after 20th February 2018, the vehicle has sustained structural damage; and
-- (b) destroy the registration document for that vehicle unless the vehicle is suitable for repair and has not sustained structural damage[^key-c85862f29f128ca00b0f2e4e9f1347f3].
+  - (iii)[^c-57a00494a8fa6cf5587d6c3e3a71eca8] if the notification is made on or after 20th February 2018, the vehicle has sustained structural damage; and
+- (b) destroy the registration document for that vehicle unless the vehicle is suitable for repair and has not sustained structural damage[^c-c85862f29f128ca00b0f2e4e9f1347f3].
 
-(2) Where the keeper of a relevant vehicle receives a notification from an insurer in accordance with paragraph 1(1)(b), that keeper must forthwith surrender the registration document for that vehicle to the Secretary of State unless that document is held by the insurer or the vehicle is suitable for repair and has not sustained structural damage[^key-42e5f32eb4ca3ac1542a58eceb804b81].
+(2) Where the keeper of a relevant vehicle receives a notification from an insurer in accordance with paragraph 1(1)(b), that keeper must forthwith surrender the registration document for that vehicle to the Secretary of State unless that document is held by the insurer or the vehicle is suitable for repair and has not sustained structural damage[^c-42e5f32eb4ca3ac1542a58eceb804b81].
 
 ### 3. Application for a new registration document
 
@@ -67,14 +67,14 @@ Where the Secretary of State is satisfied that a new registration document may b
 
 ## Annotations
 
-[^key-295149f169145a603ff156b106cda992]: Textual amendment: Sch. 3A inserted (1.10.2015) by [The Road Vehicles (Registration and Licensing) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1657)](https://www.legislation.gov.uk/uksi/2015/1657), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1657/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/1657/regulation/7)
+[^c-295149f169145a603ff156b106cda992]: Textual amendment: Sch. 3A inserted (1.10.2015) by [The Road Vehicles (Registration and Licensing) (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1657)](https://www.legislation.gov.uk/uksi/2015/1657), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1657/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/1657/regulation/7)
 
-[^key-1329359ff0a85be0fe945bfe2b5d7a2a]: Textual amendment: [Sch. 3A para. 1](https://www.legislation.gov.uk/uksi/2002/2742/schedule/3A/paragraph/1) substituted (19.2.2018) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2018 (S.I. 2018/52)](https://www.legislation.gov.uk/uksi/2018/52), [regs. 1](https://www.legislation.gov.uk/uksi/2018/52/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2018/52/regulation/8/a)
+[^c-1329359ff0a85be0fe945bfe2b5d7a2a]: Textual amendment: [Sch. 3A para. 1](https://www.legislation.gov.uk/uksi/2002/2742/schedule/3A/paragraph/1) substituted (19.2.2018) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2018 (S.I. 2018/52)](https://www.legislation.gov.uk/uksi/2018/52), [regs. 1](https://www.legislation.gov.uk/uksi/2018/52/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2018/52/regulation/8/a)
 
-[^key-5fb521b51ba8f9f74e5acecf290accb6]: Textual amendment: Words in Sch. 3A para. 2(1) substituted (19.2.2018) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2018 (S.I. 2018/52)](https://www.legislation.gov.uk/uksi/2018/52), [regs. 1](https://www.legislation.gov.uk/uksi/2018/52/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2018/52/regulation/8/b)
+[^c-5fb521b51ba8f9f74e5acecf290accb6]: Textual amendment: Words in Sch. 3A para. 2(1) substituted (19.2.2018) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2018 (S.I. 2018/52)](https://www.legislation.gov.uk/uksi/2018/52), [regs. 1](https://www.legislation.gov.uk/uksi/2018/52/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2018/52/regulation/8/b)
 
-[^key-57a00494a8fa6cf5587d6c3e3a71eca8]: Textual amendment: Sch. 3A para. 2(1)(a)(iii) inserted (19.2.2018) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2018 (S.I. 2018/52)](https://www.legislation.gov.uk/uksi/2018/52), [regs. 1](https://www.legislation.gov.uk/uksi/2018/52/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2018/52/regulation/8/c)
+[^c-57a00494a8fa6cf5587d6c3e3a71eca8]: Textual amendment: Sch. 3A para. 2(1)(a)(iii) inserted (19.2.2018) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2018 (S.I. 2018/52)](https://www.legislation.gov.uk/uksi/2018/52), [regs. 1](https://www.legislation.gov.uk/uksi/2018/52/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2018/52/regulation/8/c)
 
-[^key-c85862f29f128ca00b0f2e4e9f1347f3]: Textual amendment: Words in Sch. 3A para. 2(1)(b) inserted (19.2.2018) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2018 (S.I. 2018/52)](https://www.legislation.gov.uk/uksi/2018/52), [regs. 1](https://www.legislation.gov.uk/uksi/2018/52/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2018/52/regulation/8/d)
+[^c-c85862f29f128ca00b0f2e4e9f1347f3]: Textual amendment: Words in Sch. 3A para. 2(1)(b) inserted (19.2.2018) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2018 (S.I. 2018/52)](https://www.legislation.gov.uk/uksi/2018/52), [regs. 1](https://www.legislation.gov.uk/uksi/2018/52/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2018/52/regulation/8/d)
 
-[^key-42e5f32eb4ca3ac1542a58eceb804b81]: Textual amendment: Words in Sch. 3A para. 2(2) inserted (19.2.2018) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2018 (S.I. 2018/52)](https://www.legislation.gov.uk/uksi/2018/52), [regs. 1](https://www.legislation.gov.uk/uksi/2018/52/regulation/1), [8(e)](https://www.legislation.gov.uk/uksi/2018/52/regulation/8/e)
+[^c-42e5f32eb4ca3ac1542a58eceb804b81]: Textual amendment: Words in Sch. 3A para. 2(2) inserted (19.2.2018) by [The Road Vehicles (Registration and Licensing) (Amendment) Regulations 2018 (S.I. 2018/52)](https://www.legislation.gov.uk/uksi/2018/52), [regs. 1](https://www.legislation.gov.uk/uksi/2018/52/regulation/1), [8(e)](https://www.legislation.gov.uk/uksi/2018/52/regulation/8/e)

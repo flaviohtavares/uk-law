@@ -27,7 +27,7 @@ summary: ''
 
 at its market value at that time.
 
-(2)[^key-901a9e752c57fc4ff13a88aed7b51a6f] Where a person who is not UK resident for a tax year (as determined for the purposes of Chapter 1 of Part 1)[^key-49711f2b2e22f9172cbe0d1fb41e1598] ceases to carry on a trade in the United Kingdom through a branch or agency, he shall be deemed for all purposes of this Act—
+(2)[^c-901a9e752c57fc4ff13a88aed7b51a6f] Where a person who is not UK resident for a tax year (as determined for the purposes of Chapter 1 of Part 1)[^c-49711f2b2e22f9172cbe0d1fb41e1598] ceases to carry on a trade in the United Kingdom through a branch or agency, he shall be deemed for all purposes of this Act—
 
 - (a) to have disposed immediately before the time when he ceased to carry on the trade in the United Kingdom through a branch or agency of every asset to which subsection (3) below applies, and
 - (b) immediately to have reacquired every such asset,
@@ -36,7 +36,7 @@ at its market value at that time.
 
 (3) This subsection applies to any exploration or exploitation asset, other than a mobile asset, used in or for the purposes of the trade at or before the time of the deemed disposal.
 
-(4)[^key-901a9e752c57fc4ff13a88aed7b51a6f] A person shall not be deemed by subsection (2) above to have disposed of an asset if, immediately after the time when he ceases to carry on the trade in the United Kingdom through a branch or agency, the asset is used in or for the purposes of exploration or exploitation activities carried on by him in the United Kingdom or a designated area.
+(4)[^c-901a9e752c57fc4ff13a88aed7b51a6f] A person shall not be deemed by subsection (2) above to have disposed of an asset if, immediately after the time when he ceases to carry on the trade in the United Kingdom through a branch or agency, the asset is used in or for the purposes of exploration or exploitation activities carried on by him in the United Kingdom or a designated area.
 
 (5) Where in a case to which subsection (4) above applies the person ceases to use the asset in or for the purposes of exploration or exploitation activities carried on by him in the United Kingdom or a designated area, he shall be deemed for all purposes of this Act—
 
@@ -45,7 +45,7 @@ at its market value at that time.
 
 at its market value at that time.
 
-(6) For the purposes of this section an asset is at any time a chargeable asset in relation to a person if, were it to be disposed of at that time, any chargeable gains accruing to him on the disposal would be chargeable to capital gains tax or corporation tax as a result of section 1A(3)(a) or 2B(3)[^key-dc25df73fd1ccc946f680cdedd6366a2].
+(6) For the purposes of this section an asset is at any time a chargeable asset in relation to a person if, were it to be disposed of at that time, any chargeable gains accruing to him on the disposal would be chargeable to capital gains tax or corporation tax as a result of section 1A(3)(a) or 2B(3)[^c-dc25df73fd1ccc946f680cdedd6366a2].
 
 (7) In this section—
 
@@ -55,10 +55,10 @@ at its market value at that time.
 
 ## Annotations
 
-[^key-901a9e752c57fc4ff13a88aed7b51a6f]: Modification: S. 199(2)(4) modified (with effect in accordance with s. 153(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 153(2)(b)](https://www.legislation.gov.uk/ukpga/2003/14/section/153/2/b)
+[^c-901a9e752c57fc4ff13a88aed7b51a6f]: Modification: S. 199(2)(4) modified (with effect in accordance with s. 153(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 153(2)(b)](https://www.legislation.gov.uk/ukpga/2003/14/section/153/2/b)
 
-[^key-49711f2b2e22f9172cbe0d1fb41e1598]: Textual amendment: Words in [s. 199(2)](https://www.legislation.gov.uk/ukpga/1992/12/section/199/2) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 70(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/70/2)
+[^c-49711f2b2e22f9172cbe0d1fb41e1598]: Textual amendment: Words in [s. 199(2)](https://www.legislation.gov.uk/ukpga/1992/12/section/199/2) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 70(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/70/2)
 
-[^key-dc25df73fd1ccc946f680cdedd6366a2]: Textual amendment: Words in [s. 199(6)](https://www.legislation.gov.uk/ukpga/1992/12/section/199/6) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 70(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/70/3)
+[^c-dc25df73fd1ccc946f680cdedd6366a2]: Textual amendment: Words in [s. 199(6)](https://www.legislation.gov.uk/ukpga/1992/12/section/199/6) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 70(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/70/3)
 
 [^c2138352]: Marginal citation: [1975 c. 22](https://www.legislation.gov.uk/ukpga/1975/22).

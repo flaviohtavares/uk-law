@@ -40,95 +40,95 @@ authorising the placing on the market of genetically modified maize T25 (ACS-ZMÃ
 
 (Text with EEA relevance) (revoked)
 
-[^key-d44b3b7a3c11a7ad7c669f1b94f25616]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d44b3b7a3c11a7ad7c669f1b94f25616]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Genetically modified organism and unique identifier[^key-d44b3b7a3c11a7ad7c669f1b94f25616]
+## Article 1. Genetically modified organism and unique identifier[^c-d44b3b7a3c11a7ad7c669f1b94f25616]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Authorisation[^key-d44b3b7a3c11a7ad7c669f1b94f25616]
+## Article 2. Authorisation[^c-d44b3b7a3c11a7ad7c669f1b94f25616]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Labelling[^key-d44b3b7a3c11a7ad7c669f1b94f25616]
+## Article 3. Labelling[^c-d44b3b7a3c11a7ad7c669f1b94f25616]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Monitoring for environmental effects[^key-d44b3b7a3c11a7ad7c669f1b94f25616]
+## Article 4. Monitoring for environmental effects[^c-d44b3b7a3c11a7ad7c669f1b94f25616]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Register[^key-d44b3b7a3c11a7ad7c669f1b94f25616]
+## Article 5. Register[^c-d44b3b7a3c11a7ad7c669f1b94f25616]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Authorisation holder[^key-d44b3b7a3c11a7ad7c669f1b94f25616]
+## Article 6. Authorisation holder[^c-d44b3b7a3c11a7ad7c669f1b94f25616]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Validity[^key-d44b3b7a3c11a7ad7c669f1b94f25616]
+## Article 7. Validity[^c-d44b3b7a3c11a7ad7c669f1b94f25616]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Addressee[^key-d44b3b7a3c11a7ad7c669f1b94f25616]
+## Article 8. Addressee[^c-d44b3b7a3c11a7ad7c669f1b94f25616]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-d44b3b7a3c11a7ad7c669f1b94f25616]
+## ANNEX[^c-d44b3b7a3c11a7ad7c669f1b94f25616]
 
-[^key-d44b3b7a3c11a7ad7c669f1b94f25616](a)
+[^c-d44b3b7a3c11a7ad7c669f1b94f25616](a)
 
 **Applicant and authorisation holder:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d44b3b7a3c11a7ad7c669f1b94f25616](b)
+[^c-d44b3b7a3c11a7ad7c669f1b94f25616](b)
 
 **Designation and specification of the products:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d44b3b7a3c11a7ad7c669f1b94f25616](c)
+[^c-d44b3b7a3c11a7ad7c669f1b94f25616](c)
 
 **Labelling:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d44b3b7a3c11a7ad7c669f1b94f25616](d)
+[^c-d44b3b7a3c11a7ad7c669f1b94f25616](d)
 
 **Method for detection:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d44b3b7a3c11a7ad7c669f1b94f25616](e)
+[^c-d44b3b7a3c11a7ad7c669f1b94f25616](e)
 
 **Unique identifier:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d44b3b7a3c11a7ad7c669f1b94f25616](f)
+[^c-d44b3b7a3c11a7ad7c669f1b94f25616](f)
 
 **Information required under Annex II to the Cartagena Protocol on Biosafety to the Convention on Biological Diversity:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d44b3b7a3c11a7ad7c669f1b94f25616](g)
+[^c-d44b3b7a3c11a7ad7c669f1b94f25616](g)
 
 **Conditions or restrictions on the placing on the market, use or handling of the products:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d44b3b7a3c11a7ad7c669f1b94f25616](h)
+[^c-d44b3b7a3c11a7ad7c669f1b94f25616](h)
 
 **Monitoring plan:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d44b3b7a3c11a7ad7c669f1b94f25616](i)
+[^c-d44b3b7a3c11a7ad7c669f1b94f25616](i)
 
 **Post market monitoring requirements for the use of the food for human consumption:**
 
@@ -136,4 +136,4 @@ authorising the placing on the market of genetically modified maize T25 (ACS-ZMÃ
 
 ## Annotations
 
-[^key-d44b3b7a3c11a7ad7c669f1b94f25616]: Textual amendment: Decision revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 33](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/33) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-d44b3b7a3c11a7ad7c669f1b94f25616]: Textual amendment: Decision revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 33](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/33) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

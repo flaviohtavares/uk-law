@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## J13. Certain persons who become subject to other superannuation schemes[^key-d2dce3ebcf42cf64ff05affa7da1a14c]
+## J13. Certain persons who become subject to other superannuation schemes[^c-d2dce3ebcf42cf64ff05affa7da1a14c]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ and for whose superannuation in that employment (â€œ**the relevant employment**â
 
 ## Annotations
 
-[^key-d2dce3ebcf42cf64ff05affa7da1a14c]: Commencement: [Reg. J13](https://www.legislation.gov.uk/uksi/1986/24/regulation/J13) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-d2dce3ebcf42cf64ff05affa7da1a14c]: Commencement: [Reg. J13](https://www.legislation.gov.uk/uksi/1986/24/regulation/J13) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

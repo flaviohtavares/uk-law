@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Assistance with fees in respect of attendance on part-time courses in England, Northern Ireland or Scotland beginning before 1 September 2014[^key-6165977aea1d5f824be47ae9bb4812bd]
+## 100. Assistance with fees in respect of attendance on part-time courses in England, Northern Ireland or Scotland beginning before 1 September 2014[^c-6165977aea1d5f824be47ae9bb4812bd]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6165977aea1d5f824be47ae9bb4812bd]: Commencement: Reg. 100 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-6165977aea1d5f824be47ae9bb4812bd]: Commencement: Reg. 100 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
 [^f00094]: Footnote: This body was established under section 1 of the Further and Higher Education (Scotland) Act [2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6).

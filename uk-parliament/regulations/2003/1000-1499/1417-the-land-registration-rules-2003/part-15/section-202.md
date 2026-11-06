@@ -24,7 +24,7 @@ summary: ''
 
 (2) The registrar may only order a party to proceedings before him to pay costs where those costs have been occasioned by the unreasonable conduct of that party in relation to the proceedings.
 
-(3) Subject to paragraph (5), a request for the payment of costs must be made by delivering to the registrar a written statement in paper form by 12 noon on the twentieth working[^key-c872f28c8b390c42079fbd273452b53e] day after the completion of the proceedings to which the request relates.
+(3) Subject to paragraph (5), a request for the payment of costs must be made by delivering to the registrar a written statement in paper form by 12 noon on the twentieth working[^c-c872f28c8b390c42079fbd273452b53e] day after the completion of the proceedings to which the request relates.
 
 (4) The statement must—
 
@@ -39,7 +39,7 @@ summary: ''
 
 (7) An address for a party provided under paragraph (4)(a) is to be regarded for the purpose of rule 199 as if it was an address for service given under rule 198(2)(h).
 
-(8) The notice must give the recipient a period ending at 12 noon on the twentieth working[^key-3c7274c42a10716e80b5f644c0fd72db] day after the issue of the notice, or such other period as the registrar thinks appropriate, to deliver a written response to the registrar by the method and to the address stated in the notice.
+(8) The notice must give the recipient a period ending at 12 noon on the twentieth working[^c-3c7274c42a10716e80b5f644c0fd72db] day after the issue of the notice, or such other period as the registrar thinks appropriate, to deliver a written response to the registrar by the method and to the address stated in the notice.
 
 (9) The response must—
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c872f28c8b390c42079fbd273452b53e]: Textual amendment: Word in [rule 202(3)](https://www.legislation.gov.uk/uksi/2003/1417/rule/202/3) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)
+[^c-c872f28c8b390c42079fbd273452b53e]: Textual amendment: Word in [rule 202(3)](https://www.legislation.gov.uk/uksi/2003/1417/rule/202/3) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)
 
-[^key-3c7274c42a10716e80b5f644c0fd72db]: Textual amendment: Word in [rule 202(8)](https://www.legislation.gov.uk/uksi/2003/1417/rule/202/8) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)
+[^c-3c7274c42a10716e80b5f644c0fd72db]: Textual amendment: Word in [rule 202(8)](https://www.legislation.gov.uk/uksi/2003/1417/rule/202/8) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)

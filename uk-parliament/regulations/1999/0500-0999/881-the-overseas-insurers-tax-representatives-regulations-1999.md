@@ -45,29 +45,29 @@ Coming into force
 
 The Commissioners of Inland Revenue, in exercise of the powers conferred on them by section 552A of the Income and Corporation Taxes Act 1988[^f00001], hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-8cf81a069ce4e285e2bfb9bbca629560]
+## 1. Citation and commencement[^c-8cf81a069ce4e285e2bfb9bbca629560]
 
 These Regulations may be cited as the Overseas Insurers (Tax Representatives) Regulations 1999 and shall come into force on 6th April 1999.
 
-## 2. Interpretation[^key-b175b6694fb11c09c565598aa150e280]
+## 2. Interpretation[^c-b175b6694fb11c09c565598aa150e280]
 
 In these Regulations–
 
-- “the Board” means the Commissioners for Her Majesty’s Revenue and Customs[^key-86f388cfa2a32a65d4bae514bb517e4c];
-- [^key-c885aec0df86796d45aa6cf8a999eb7a]...
-- “[^key-94361a459e0eb2071c29ccd79db80f77]EEA state” has the meaning given in Schedule 1 to the Interpretation Act 1978;
-- “[^key-e101ab664a6e86cd4d63e55e0985954b]ITTOIA 2005” means the Income Tax (Trading and Other Income) Act 2005;
+- “the Board” means the Commissioners for Her Majesty’s Revenue and Customs[^c-86f388cfa2a32a65d4bae514bb517e4c];
+- [^c-c885aec0df86796d45aa6cf8a999eb7a]...
+- “[^c-94361a459e0eb2071c29ccd79db80f77]EEA state” has the meaning given in Schedule 1 to the Interpretation Act 1978;
+- “[^c-e101ab664a6e86cd4d63e55e0985954b]ITTOIA 2005” means the Income Tax (Trading and Other Income) Act 2005;
 - “the Management Act” means the Taxes Management Act 1970[^f00004];
-- “notice” means notice given either in writing or in such form and by such means of electronic communications as may be approved by directions given by the Board, and “notify” and “notification” shall be construed accordingly;[^key-2a201bc1914e72ef8e5a24212b8930d7]
+- “notice” means notice given either in writing or in such form and by such means of electronic communications as may be approved by directions given by the Board, and “notify” and “notification” shall be construed accordingly;[^c-2a201bc1914e72ef8e5a24212b8930d7]
 - “the relevant duties” has the meaning given for the purposes of section 552B by subsection (2) of that section[^f00005];
-- [^key-ee2f1cfb36395fc680cafc8b152e0dca]...
-- “the Taxes Act” means the Income and Corporation Taxes Act 1988, and a reference to a numbered section, without more, is a reference to the section of the Taxes Act bearing that number.[^key-0ba044b6c275558e995f8d137cb6a2f4]
+- [^c-ee2f1cfb36395fc680cafc8b152e0dca]...
+- “the Taxes Act” means the Income and Corporation Taxes Act 1988, and a reference to a numbered section, without more, is a reference to the section of the Taxes Act bearing that number.[^c-0ba044b6c275558e995f8d137cb6a2f4]
 
-## 3. Designated day[^key-8e2bb071c2c155b7d0d8aeee64af3464]
+## 3. Designated day[^c-8e2bb071c2c155b7d0d8aeee64af3464]
 
 The day specified for the purpose of the definition of “the designated day” in subsection (12) of section 552A is 6th April 1999.
 
-## 4. Nomination of tax representative by overseas insurer[^key-264e334501f42f20b10429aea4fae128]
+## 4. Nomination of tax representative by overseas insurer[^c-264e334501f42f20b10429aea4fae128]
 
 (1) A nomination to the Board of a tax representative by an overseas insurer must be in writing and must contain the following information–
 
@@ -79,11 +79,11 @@ The day specified for the purpose of the definition of “the designated day” 
 - (d) the consent of the person nominated that he is willing to secure that the relevant duties are discharged by or on behalf of the overseas insurer signed–
   - (i) if he is an individual, by that individual, or
   - (ii) if he is not an individual, by the proper officer of the company as defined for the purposes of section 108 of the Management Act by subsection (3) of that section in the case of a company and by any partner who is an individual in the case of a partnership;
-- (e) the office of Her Majesty’s Revenue and Customs[^key-95d41afb504a3d81c7e7c65ff2c1f400] to which, and the tax reference under which, the person nominated submits tax returns.
+- (e) the office of Her Majesty’s Revenue and Customs[^c-95d41afb504a3d81c7e7c65ff2c1f400] to which, and the tax reference under which, the person nominated submits tax returns.
 
 (2) A nomination which does not contain the information required by paragraph (1) is invalid.
 
-## 5. Board’s decision on nomination[^key-14ddb29d50fa9937bc4372da3a0b91b0]
+## 5. Board’s decision on nomination[^c-14ddb29d50fa9937bc4372da3a0b91b0]
 
 (1) Within the period of thirty days after receipt of a nomination the Board must give notice to the overseas insurer and the person nominated that they–
 
@@ -114,7 +114,7 @@ The day specified for the purpose of the definition of “the designated day” 
 
 (8) Where the Board approve the person nominated the date of his appointment is the date on which notice was given under paragraph (1) or (3).
 
-## 6. Termination by the Board of appointment of person nominated[^key-dd3f3d0524a0d8406e6bc92e2f261bbd]
+## 6. Termination by the Board of appointment of person nominated[^c-dd3f3d0524a0d8406e6bc92e2f261bbd]
 
 (1) The Board may at any time give notice to both the overseas insurer and the person nominated that they have decided to withdraw the approval which they have given to the person nominated on the grounds that–
 
@@ -128,7 +128,7 @@ The day specified for the purpose of the definition of “the designated day” 
 - (b) subject to paragraph (5) of regulation 13, the overseas insurer must nominate another person to be his tax representative within the period of three months after the date on which the Board gave notice of their decision; and
 - (c) any such nomination must contain the information required by regulation 4 and the Board must give their decision on that nomination in accordance with regulation 5.
 
-## 7. Termination by overseas insurer of appointment of person nominated[^key-c20bf32b3a7a85ca8c0396f5b45765b2]
+## 7. Termination by overseas insurer of appointment of person nominated[^c-c20bf32b3a7a85ca8c0396f5b45765b2]
 
 (1) The overseas insurer may at any time after the Board have approved the person nominated by him as his tax representative give notice to the Board that he no longer wishes that person to be his tax representative.
 
@@ -136,7 +136,7 @@ The day specified for the purpose of the definition of “the designated day” 
 
 (3) At the same time as the Board give notice of their decision approving the nomination of another person they must give notice to the person originally nominated that this appointment ceased on the date of that notice.
 
-## 8. Termination by person nominated of his appointment[^key-7c2fa01c0161d4e2d5ca01bb78f89471]
+## 8. Termination by person nominated of his appointment[^c-7c2fa01c0161d4e2d5ca01bb78f89471]
 
 (1) The person nominated may at any time after the Board have approved him as the tax representative of the overseas insurer give notice to the Board and to the overseas insurer that he no longer wishes to be the overseas insurer’s tax representative and in that event the overseas insurer must nominate another person to be his tax representative within the period of three months after the date of that notice.
 
@@ -144,13 +144,13 @@ The day specified for the purpose of the definition of “the designated day” 
 
 (3) At the same time as the Board give notice of their decision approving the nomination of another person they must give notice to the person originally nominated that his appointment ceased on the date of that notice.
 
-## 9. Termination of appointment on bankruptcy or death or on dissolution or winding-up of a company or partnership[^key-c9c95ae9d50a20d0e2b8a2408c5f5014]
+## 9. Termination of appointment on bankruptcy or death or on dissolution or winding-up of a company or partnership[^c-c9c95ae9d50a20d0e2b8a2408c5f5014]
 
 (1) Where the person nominated by an overseas insurer is an individual who becomes bankrupt, or in Scotland his estate is sequestrated, or makes any arrangement or composition with his creditors generally or dies, or is a company or a partnership which is dissolved or wound up, the appointment of that person ceases and the overseas insurer must nominate another person to be his tax representative within the period of three months after the event in question.
 
 (2) Any such nomination must contain the information required by regulation 4 and the Board must give their decision on that nomination in accordance with regulation 5.
 
-## 10. Appointment by the Board of an overseas insurer’s tax representative[^key-2fbb4a0357ef8b059ba6bba746fc56b9]
+## 10. Appointment by the Board of an overseas insurer’s tax representative[^c-2fbb4a0357ef8b059ba6bba746fc56b9]
 
 (1) In circumstances where the overseas insurer has failed–
 
@@ -161,7 +161,7 @@ The day specified for the purpose of the definition of “the designated day” 
 - (e) following the giving of a notice by the Board in accordance with paragraph (3) of regulation 11, to nominate a person to be his tax representative in accordance with paragraph (4) of that regulation; or
 - (f) following–
   - (i) the refusal of the Board to agree to release him from the requirement that there be a tax representative, or
-  - (ii) the disclosure to the Board of information with respect to relevant insurances ceasing to be a criminal offence under the law of the EEA state[^key-4138118c0536039a6727afc3cdca738b] in which he is resident or, if he is resident in Gibraltar, under the law of Gibraltar[^key-d4f1043d101620ebb4830eaf8c0cf07a], or
+  - (ii) the disclosure to the Board of information with respect to relevant insurances ceasing to be a criminal offence under the law of the EEA state[^c-4138118c0536039a6727afc3cdca738b] in which he is resident or, if he is resident in Gibraltar, under the law of Gibraltar[^c-d4f1043d101620ebb4830eaf8c0cf07a], or
   - (iii) notification by him to the Board that the total amount or value of gross premiums paid under relevant insurances is £1 million or more, or
   - (iv) the giving of a notice by the Board of their intention to withdraw from their agreement to release him from the requirement that there be a tax representative,
 
@@ -171,7 +171,7 @@ The day specified for the purpose of the definition of “the designated day” 
 
 (2) A person appointed by the Board to be the tax representative of an overseas insurer must be a person who has a significant business or economic connection with the overseas insurer and may in particular (but without prejudice to the generality of the preceding words) be–
 
-- (a) a company which is connected with the overseas insurer within the meaning of section 839 [^key-e4a20e5989bc7f86d76098d260255530]... (connected persons); or
+- (a) a company which is connected with the overseas insurer within the meaning of section 839 [^c-e4a20e5989bc7f86d76098d260255530]... (connected persons); or
 - (b) the branch or agency in the United Kingdom of any such company.
 
 (3) The Board must give notice of their decision to the person appointed under this regulation and to the overseas insurer and, subject to paragraph (6) of regulation 13, the date of the appointment is the date of the notice.
@@ -182,7 +182,7 @@ The day specified for the purpose of the definition of “the designated day” 
 
 (6) Where the overseas insurer nominates another person in accordance with paragraph (4) or (5), that nomination must contain the information required by regulation 4 and the Board must give their decision on that nomination in accordance with regulation 5.
 
-## 11. Other arrangements[^key-cfa481ccd91b2e9213e82ca6fb0ed835]
+## 11. Other arrangements[^c-cfa481ccd91b2e9213e82ca6fb0ed835]
 
 (1) An overseas insurer may make other arrangements with the Board for the purpose of securing the discharge by him or on his behalf of the relevant duties.
 
@@ -196,13 +196,13 @@ The day specified for the purpose of the definition of “the designated day” 
 - (b) that nomination must contain the information required by regulation 4; and
 - (c) the Board must give their decision on that nomination in accordance with regulation 5.
 
-## 12. Release of overseas insurer from requirement to nominate a tax representative[^key-856e3c9df2d1058b581248d94f4d48b4]
+## 12. Release of overseas insurer from requirement to nominate a tax representative[^c-856e3c9df2d1058b581248d94f4d48b4]
 
 (1) The Board may agree to release an overseas insurer to whom section 552A applies from the requirement that there must be a tax representative where–
 
 - (a) the overseas insurer is resident in
-  - (i)[^key-2051074ef5ca676bfd1c2c568dc7fb07] an EEA state[^key-f4e1f238c4bea695519bd0b13c320df4] and the disclosure by him to the Board of information with respect to holders of relevant insurances is a criminal offence under the law of that State and was such an offence on 17th March 1998; or
-  - (ii)[^key-011f2b6f769bd20363eb8addfcfc57e4] Gibraltar and the disclosure by him to the Board of information with respect to holders of relevant insurances is a criminal offence under the law of Gibraltar and was such an offence on 17th March 1998; or
+  - (i)[^c-2051074ef5ca676bfd1c2c568dc7fb07] an EEA state[^c-f4e1f238c4bea695519bd0b13c320df4] and the disclosure by him to the Board of information with respect to holders of relevant insurances is a criminal offence under the law of that State and was such an offence on 17th March 1998; or
+  - (ii)[^c-011f2b6f769bd20363eb8addfcfc57e4] Gibraltar and the disclosure by him to the Board of information with respect to holders of relevant insurances is a criminal offence under the law of Gibraltar and was such an offence on 17th March 1998; or
 - (b) subject to the condition specified in paragraph (2), at any time after section 552A first applies to the overseas insurer the total amount or value of the gross premiums paid under the relevant insurances referred to in paragraph (b) of subsection (4) of that section is nil or a negligible amount; or
 - (c) subject to paragraph (5), the overseas insurer enters into an undertaking–
   - (i) in relation to relevant insurances referred to in paragraph (3), in the terms set out in Part II of the Schedule;
@@ -240,7 +240,7 @@ The day specified for the purpose of the definition of “the designated day” 
 (9) Where–
 
 - (a) the Board give notice that they refuse to agree to release the overseas insurer from the requirement that there be a tax representative, or
-- (b) it ceases to be a criminal offence under the law of the EEA state[^key-479185a0d5a66fa61b44fd2d4fe9ba3f] in which the overseas insurer is resident , or, if he is resident in Gibraltar, under the law of Gibraltar,[^key-770e88a66e43babfd64b5f5f2d9dc411] for him to disclose to the Board information with respect to the holders of relevant insurances, or
+- (b) it ceases to be a criminal offence under the law of the EEA state[^c-479185a0d5a66fa61b44fd2d4fe9ba3f] in which the overseas insurer is resident , or, if he is resident in Gibraltar, under the law of Gibraltar,[^c-770e88a66e43babfd64b5f5f2d9dc411] for him to disclose to the Board information with respect to the holders of relevant insurances, or
 - (c) the overseas insurer gives notice to the Board in accordance with the condition in paragraph (2) that the total amount or value of the gross premiums paid under relevant insurances is £1 million or more, or
 - (d) the Board give notice to the overseas insurer of their decision to withdraw from their agreement to release him from the requirement that there be a tax representative,
 
@@ -248,7 +248,7 @@ and subject to paragraph (5) of regulation 13, the overseas insurer must nominat
 
 (10) Where the overseas insurer nominates a person to be his tax representative in accordance with paragraph (9), that nomination must contain the information required by regulation 4 and the Board must give their decision in accordance with regulation 5.
 
-## 13. Appeals against decisions of the Board[^key-b7f578add70692a3c6ec0820e6be61d7]
+## 13. Appeals against decisions of the Board[^c-b7f578add70692a3c6ec0820e6be61d7]
 
 (1) An overseas insurer to whom notice has been given of a decision of the Board–
 
@@ -263,9 +263,9 @@ may appeal against the decision contained in that notice by notice given to the 
 
 (2) A person to whom notice has been given of a decision of the Board appointing him to be the tax representative of an overseas insurer under regulation 10 may appeal against the decision contained in that notice within the period of thirty days after the date of the notice of that decision.
 
-(3)[^key-36548f3aaffb09180044a6056394dc66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-36548f3aaffb09180044a6056394dc66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) The like provisions as are contained in Part V of the Management Act (appeals and other proceedings) [^key-76a6160d62687a32211ff20168eeba6e]... apply to an appeal under this regulation and the tribunal, on an appeal notified to it, shall[^key-9830b32d211038090214957b26481096] confirm the decision contained in the notice unless [^key-0303f8c817b7127731eb66ee3e3effaa]... satisfied that it ought to be quashed.
+(4) The like provisions as are contained in Part V of the Management Act (appeals and other proceedings) [^c-76a6160d62687a32211ff20168eeba6e]... apply to an appeal under this regulation and the tribunal, on an appeal notified to it, shall[^c-9830b32d211038090214957b26481096] confirm the decision contained in the notice unless [^c-0303f8c817b7127731eb66ee3e3effaa]... satisfied that it ought to be quashed.
 
 (5) Where an overseas insurer appeals against a decision of the Board referred to in sub-paragraph (a), (b), (d), (e) or (f) of paragraph (1), and the decision of the Board is confirmed on appeal, the period of three months within which he must nominate another person, or a person, as his tax representative does not begin until such time as there is no possibility of a further appeal against that decision.
 
@@ -285,34 +285,34 @@ Regulation 12(1)(c)
 
 ### PART I — INTERPRETATION
 
-**1.**[^key-95a50a569ee2f44afa244878572d4c6e] In this Schedule–
+**1.**[^c-95a50a569ee2f44afa244878572d4c6e] In this Schedule–
 
-- “basic rate limit” has the meaning given by section 20(2) of the Income Tax Act 2007[^key-3f2d5f73c59d70905b3dccc815a90d84];
-- [^key-e1d8cf9875094d2c00e957dc4c3bdaff]...
-- “gain” means a gain which is treated as arising in connection with a policy or contract under Chapter 9 of Part 4 of[^key-a19e2aef51a6ad1f0ea27de7531d56e3] ITTOIA 2005 [^key-6e9e666a7b4e34d6b6f7aa63ffac5cf5]...;
-- [^key-6b0c15907fa32a0e89b7e2c28c85060f]...
-- [^key-124ab4eb19d196eb0cf39c2fabcfaac6]...
-- “tax year” has the meaning given by section 4(2) of the Income Tax Act 2007.[^key-fcedd3a3669ddf730918e5a991c12e06]
+- “basic rate limit” has the meaning given by section 20(2) of the Income Tax Act 2007[^c-3f2d5f73c59d70905b3dccc815a90d84];
+- [^c-e1d8cf9875094d2c00e957dc4c3bdaff]...
+- “gain” means a gain which is treated as arising in connection with a policy or contract under Chapter 9 of Part 4 of[^c-a19e2aef51a6ad1f0ea27de7531d56e3] ITTOIA 2005 [^c-6e9e666a7b4e34d6b6f7aa63ffac5cf5]...;
+- [^c-6b0c15907fa32a0e89b7e2c28c85060f]...
+- [^c-124ab4eb19d196eb0cf39c2fabcfaac6]...
+- “tax year” has the meaning given by section 4(2) of the Income Tax Act 2007.[^c-fcedd3a3669ddf730918e5a991c12e06]
 
-**2.**[^key-a99d8275df0223ca957821fd555a7d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a99d8275df0223ca957821fd555a7d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART II — UNDERTAKING BY OVERSEAS INSURER – PRE 6TH APRIL 2000 INSURANCES
 
-**3.**[^key-9fe50eb8a9c89015773ea533de627498] The terms of the undertaking referred to in regulation 12(1)(c)(i) are that the overseas insurer undertakes, within three months after the end of each tax year[^key-5907d729ca7b8d9e0aeb742e54fb9923], [^key-4cc0913f8627281afc682873d45c244d]... to supply to the Board[^key-97b14a8658947da0ca13c50d5b6cc3ec] the information referred to in paragraph 6 about relevant events occurring in that tax year [^key-469098119abec9fe0fc8e85e1a89dbc7]... in connection with a policy or contract held by a policy holder where to the best of the overseas insurer’s information and belief the policy holder was resident in the United Kingdom immediately before the relevant event occurred.
+**3.**[^c-9fe50eb8a9c89015773ea533de627498] The terms of the undertaking referred to in regulation 12(1)(c)(i) are that the overseas insurer undertakes, within three months after the end of each tax year[^c-5907d729ca7b8d9e0aeb742e54fb9923], [^c-4cc0913f8627281afc682873d45c244d]... to supply to the Board[^c-97b14a8658947da0ca13c50d5b6cc3ec] the information referred to in paragraph 6 about relevant events occurring in that tax year [^c-469098119abec9fe0fc8e85e1a89dbc7]... in connection with a policy or contract held by a policy holder where to the best of the overseas insurer’s information and belief the policy holder was resident in the United Kingdom immediately before the relevant event occurred.
 
-**4.**[^key-a1dcccd350f7828984b76ccbe80de153] For the purposes of this undertaking a relevant event is a chargeable event within the meaning of Chapter 9 of Part 4 of[^key-5a4a441d1d42d7b667c81d60c76a9234] ITTOIA 2005–
+**4.**[^c-a1dcccd350f7828984b76ccbe80de153] For the purposes of this undertaking a relevant event is a chargeable event within the meaning of Chapter 9 of Part 4 of[^c-5a4a441d1d42d7b667c81d60c76a9234] ITTOIA 2005–
 
-- (a) in respect of which an insurer is under an obligation to deliver a certificate under section 552 (as read with section 552ZA);[^key-1eefc0267911c6e2a2d4709e062f22be]
+- (a) in respect of which an insurer is under an obligation to deliver a certificate under section 552 (as read with section 552ZA);[^c-1eefc0267911c6e2a2d4709e062f22be]
 - (b) which occurs three months or more after section 552A first applies to the overseas insurer;
 - (c) which is the last such event to occur in relation to the policy or contract;
-- (d)[^key-f0b9cffaaf8ed656739e6545a2bb3149] by reason of which the aggregate sum payable, or other benefits to be conferred, by the overseas insurer exceeds twice the basic rate limit for the tax year in which it occurs.
+- (d)[^c-f0b9cffaaf8ed656739e6545a2bb3149] by reason of which the aggregate sum payable, or other benefits to be conferred, by the overseas insurer exceeds twice the basic rate limit for the tax year in which it occurs.
 
-**5.**[^key-97bb4ab27fcb9356535029b34faf0ed8] In determining whether the aggregate sum payable, or other benefits to be conferred, by reason of a relevant event exceeds twice the basic rate limit for the tax year in which it occurs[^key-a1da5f8d7aecbac583b452318f485adc], [^key-f341950c3c359ff53145e866c70653d5]... all sums payable and benefits to be conferred are to be taken into account which are payable or to be conferred by reason of relevant events occurring in that tax year[^key-f16a70dede7f18901f41611c6d097586] [^key-a728111e1c276284616853fb6912ab8b]... in connection with policies or contracts–
+**5.**[^c-97bb4ab27fcb9356535029b34faf0ed8] In determining whether the aggregate sum payable, or other benefits to be conferred, by reason of a relevant event exceeds twice the basic rate limit for the tax year in which it occurs[^c-a1da5f8d7aecbac583b452318f485adc], [^c-f341950c3c359ff53145e866c70653d5]... all sums payable and benefits to be conferred are to be taken into account which are payable or to be conferred by reason of relevant events occurring in that tax year[^c-f16a70dede7f18901f41611c6d097586] [^c-a728111e1c276284616853fb6912ab8b]... in connection with policies or contracts–
 
 - (a) under which immediately before the relevant event in question the same insurer has obligations, and
 - (b) which are held by the same policy holder.
 
-**6.**[^key-9b258269d9455dee17a67fc9d2920b54] The information referred to in this paragraph is–
+**6.**[^c-9b258269d9455dee17a67fc9d2920b54] The information referred to in this paragraph is–
 
 - (a) the name and address of the policy holder;
 - (b) any unique identifying designation given to the policy or contract in connection with which a relevant event has occurred;
@@ -321,31 +321,31 @@ Regulation 12(1)(c)
 
 ### PART III — UNDERTAKING BY OVERSEAS INSURER – POST 5TH APRIL 2000 INSURANCES
 
-**7.**[^key-3aee4368fb8349e40868f7be23401b29] The terms of the undertaking referred to in regulation 12(1)(c)(ii) are that the overseas insurer undertakes–
+**7.**[^c-3aee4368fb8349e40868f7be23401b29] The terms of the undertaking referred to in regulation 12(1)(c)(ii) are that the overseas insurer undertakes–
 
 - (a) within three months after a relevant event occurs in connection with a policy or contract, to deliver to the policy holder a certificate containing the information referred to in paragraph 10; and
-- (b) within three months after the end of each tax year[^key-3c333b5f98f03be53a7be7b2b1707541] [^key-625759884c10e9cf62ca2886f33eaa24]... in which such a certificate is delivered, and in the circumstances described in paragraph 9, to supply to the Board[^key-93c99f76e3fe674aecd030b36d38d9d3] a copy of that certificate;
+- (b) within three months after the end of each tax year[^c-3c333b5f98f03be53a7be7b2b1707541] [^c-625759884c10e9cf62ca2886f33eaa24]... in which such a certificate is delivered, and in the circumstances described in paragraph 9, to supply to the Board[^c-93c99f76e3fe674aecd030b36d38d9d3] a copy of that certificate;
 
 where to the best of the overseas insurer’s information and belief the policy holder was resident in the United Kingdom immediately before the relevant event occurred.
 
-**8.**[^key-b3bdea3cc1cd61ff89f814dc2d7d698e][^key-575c628683a04cb5c3e8e0231427e335] For the purpose of this undertaking a relevant event is a chargeable event within the meaning of Chapter 9 of Part 4 of ITTOIA 2005 in respect of which an insurer is under an obligation to deliver a certificate under section 552.
+**8.**[^c-b3bdea3cc1cd61ff89f814dc2d7d698e][^c-575c628683a04cb5c3e8e0231427e335] For the purpose of this undertaking a relevant event is a chargeable event within the meaning of Chapter 9 of Part 4 of ITTOIA 2005 in respect of which an insurer is under an obligation to deliver a certificate under section 552.
 
 **8A.** For the purposes of this Part of this Schedule, in the determination of the amount of a gain in connection with a policy or contract, no account is to be taken of the effect of section 541A of ITTOIA 2005.
 
-**9.**[^key-dd323432f3faf1eb356b9df39fa92ede] The circumstances described in this paragraph are where the aggregate amount of connected gains in the tax year[^key-49097fea44c82f53cd7bb89f09836b66] exceeds one half of the basic rate limit that tax year[^key-13d241c3ef6594520b5fd8780d902194] and, for the purposes of this paragraph, a gain is connected with another gain where–
+**9.**[^c-dd323432f3faf1eb356b9df39fa92ede] The circumstances described in this paragraph are where the aggregate amount of connected gains in the tax year[^c-49097fea44c82f53cd7bb89f09836b66] exceeds one half of the basic rate limit that tax year[^c-13d241c3ef6594520b5fd8780d902194] and, for the purposes of this paragraph, a gain is connected with another gain where–
 
 - (a) both gains arise in connection with policies or contracts containing obligations which, immediately before the relevant event in question, were obligations of the same overseas insurer;
 - (b) the policy holder of those policies and contracts is the same; and
-- (c)[^key-84eb7089c0deedf1a2af517728907dcf] both gains arise in the same tax year.
+- (c)[^c-84eb7089c0deedf1a2af517728907dcf] both gains arise in the same tax year.
 
-**10.**[^key-0bab52853baa251a4b7d2cdde16c6004] The information referred to in this paragraph is–
+**10.**[^c-0bab52853baa251a4b7d2cdde16c6004] The information referred to in this paragraph is–
 
 - (a) the name and address of the policy holder;
 - (b) any unique identifying designation given to the policy or contract in connection with which the relevant event has occurred;
 - (c) the date and nature of the relevant event;
 - (d) the amount of the gain;
-- (e) the number of years relevant for computing the appropriate fraction of the gain for the purposes of section 536, apart from section 536(7), of[^key-ec8ee016bcdb96099f74b6f2a8b2fe5a] ITTOIA 2005;
-- (f) whether the policy holder is to be treated as having paid income tax at the basic [^key-958a3214df24a7f479f58c99b30b4bb8]... rate on the amount of the gain in accordance with 530, apart from section 528, of[^key-45ff1cac67dbe604c971130db863bccb] ITTOIA 2005.
+- (e) the number of years relevant for computing the appropriate fraction of the gain for the purposes of section 536, apart from section 536(7), of[^c-ec8ee016bcdb96099f74b6f2a8b2fe5a] ITTOIA 2005;
+- (f) whether the policy holder is to be treated as having paid income tax at the basic [^c-958a3214df24a7f479f58c99b30b4bb8]... rate on the amount of the gain in accordance with 530, apart from section 528, of[^c-45ff1cac67dbe604c971130db863bccb] ITTOIA 2005.
 
 (This note is not part of the Regulations)
 
@@ -383,148 +383,148 @@ Part I of the Schedule contains further definitions and Parts II and III set out
 
 [^f00001]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 552A was inserted by section 87 of the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36).
 
-[^key-8cf81a069ce4e285e2bfb9bbca629560]: Commencement: Reg. 1 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-8cf81a069ce4e285e2bfb9bbca629560]: Commencement: Reg. 1 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-b175b6694fb11c09c565598aa150e280]: Commencement: Reg. 2 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-b175b6694fb11c09c565598aa150e280]: Commencement: Reg. 2 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-86f388cfa2a32a65d4bae514bb517e4c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/881/regulation/2) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/3/a)
+[^c-86f388cfa2a32a65d4bae514bb517e4c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/881/regulation/2) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/3/a)
 
-[^key-c885aec0df86796d45aa6cf8a999eb7a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/881/regulation/2) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/3/b)
+[^c-c885aec0df86796d45aa6cf8a999eb7a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/881/regulation/2) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/3/b)
 
-[^key-94361a459e0eb2071c29ccd79db80f77]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/881/regulation/2) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/3/c)
+[^c-94361a459e0eb2071c29ccd79db80f77]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/881/regulation/2) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/3/c)
 
-[^key-e101ab664a6e86cd4d63e55e0985954b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/881/regulation/2) inserted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/3/d)
+[^c-e101ab664a6e86cd4d63e55e0985954b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/881/regulation/2) inserted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/3/d)
 
 [^f00004]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-2a201bc1914e72ef8e5a24212b8930d7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/881/regulation/2) substituted (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2002 (S.I. 2002/443)](https://www.legislation.gov.uk/uksi/2002/443), [regs. 1](https://www.legislation.gov.uk/uksi/2002/443/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2002/443/regulation/4/a)
+[^c-2a201bc1914e72ef8e5a24212b8930d7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/881/regulation/2) substituted (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2002 (S.I. 2002/443)](https://www.legislation.gov.uk/uksi/2002/443), [regs. 1](https://www.legislation.gov.uk/uksi/2002/443/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2002/443/regulation/4/a)
 
 [^f00005]: Footnote: Section 552B was inserted by section 87 of the Finance Act 1998.
 
-[^key-ee2f1cfb36395fc680cafc8b152e0dca]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/881/regulation/2) omitted (with effect in accordance with reg. 1 of the amending S.I.) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2002 (S.I. 2002/443)](https://www.legislation.gov.uk/uksi/2002/443), [regs. 1](https://www.legislation.gov.uk/uksi/2002/443/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2002/443/regulation/4/b)
+[^c-ee2f1cfb36395fc680cafc8b152e0dca]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/881/regulation/2) omitted (with effect in accordance with reg. 1 of the amending S.I.) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2002 (S.I. 2002/443)](https://www.legislation.gov.uk/uksi/2002/443), [regs. 1](https://www.legislation.gov.uk/uksi/2002/443/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2002/443/regulation/4/b)
 
-[^key-0ba044b6c275558e995f8d137cb6a2f4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/881/regulation/2) substituted (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2002 (S.I. 2002/443)](https://www.legislation.gov.uk/uksi/2002/443), [regs. 1](https://www.legislation.gov.uk/uksi/2002/443/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2002/443/regulation/4/c)
+[^c-0ba044b6c275558e995f8d137cb6a2f4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/881/regulation/2) substituted (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2002 (S.I. 2002/443)](https://www.legislation.gov.uk/uksi/2002/443), [regs. 1](https://www.legislation.gov.uk/uksi/2002/443/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2002/443/regulation/4/c)
 
-[^key-8e2bb071c2c155b7d0d8aeee64af3464]: Commencement: Reg. 3 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-8e2bb071c2c155b7d0d8aeee64af3464]: Commencement: Reg. 3 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-264e334501f42f20b10429aea4fae128]: Commencement: Reg. 4 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-264e334501f42f20b10429aea4fae128]: Commencement: Reg. 4 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-95d41afb504a3d81c7e7c65ff2c1f400]: Textual amendment: Words in [reg. 4(1)(e)](https://www.legislation.gov.uk/uksi/1999/881/regulation/4/1/e) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [4](https://www.legislation.gov.uk/uksi/2008/2626/regulation/4)
+[^c-95d41afb504a3d81c7e7c65ff2c1f400]: Textual amendment: Words in [reg. 4(1)(e)](https://www.legislation.gov.uk/uksi/1999/881/regulation/4/1/e) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [4](https://www.legislation.gov.uk/uksi/2008/2626/regulation/4)
 
-[^key-14ddb29d50fa9937bc4372da3a0b91b0]: Commencement: Reg. 5 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-14ddb29d50fa9937bc4372da3a0b91b0]: Commencement: Reg. 5 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-dd3f3d0524a0d8406e6bc92e2f261bbd]: Commencement: Reg. 6 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-dd3f3d0524a0d8406e6bc92e2f261bbd]: Commencement: Reg. 6 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-c20bf32b3a7a85ca8c0396f5b45765b2]: Commencement: Reg. 7 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-c20bf32b3a7a85ca8c0396f5b45765b2]: Commencement: Reg. 7 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-7c2fa01c0161d4e2d5ca01bb78f89471]: Commencement: Reg. 8 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-7c2fa01c0161d4e2d5ca01bb78f89471]: Commencement: Reg. 8 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-c9c95ae9d50a20d0e2b8a2408c5f5014]: Commencement: Reg. 9 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-c9c95ae9d50a20d0e2b8a2408c5f5014]: Commencement: Reg. 9 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-2fbb4a0357ef8b059ba6bba746fc56b9]: Commencement: Reg. 10 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-2fbb4a0357ef8b059ba6bba746fc56b9]: Commencement: Reg. 10 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-4138118c0536039a6727afc3cdca738b]: Textual amendment: Word in [reg. 10(1)(f)(ii)](https://www.legislation.gov.uk/uksi/1999/881/regulation/10/1/f/ii) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/2626/regulation/5)
+[^c-4138118c0536039a6727afc3cdca738b]: Textual amendment: Word in [reg. 10(1)(f)(ii)](https://www.legislation.gov.uk/uksi/1999/881/regulation/10/1/f/ii) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/2626/regulation/5)
 
-[^key-d4f1043d101620ebb4830eaf8c0cf07a]: Textual amendment: Words in [reg. 10(1)(f)(ii)](https://www.legislation.gov.uk/uksi/1999/881/regulation/10/1/f/ii) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [25(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/25/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d4f1043d101620ebb4830eaf8c0cf07a]: Textual amendment: Words in [reg. 10(1)(f)(ii)](https://www.legislation.gov.uk/uksi/1999/881/regulation/10/1/f/ii) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [25(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/25/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e4a20e5989bc7f86d76098d260255530]: Textual amendment: Words in [reg. 10(2)(a)](https://www.legislation.gov.uk/uksi/1999/881/regulation/10/2/a) omitted (with effect in accordance with reg. 1 of the amending S.I.) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2002 (S.I. 2002/443)](https://www.legislation.gov.uk/uksi/2002/443), [regs. 1](https://www.legislation.gov.uk/uksi/2002/443/regulation/1), [5](https://www.legislation.gov.uk/uksi/2002/443/regulation/5)
+[^c-e4a20e5989bc7f86d76098d260255530]: Textual amendment: Words in [reg. 10(2)(a)](https://www.legislation.gov.uk/uksi/1999/881/regulation/10/2/a) omitted (with effect in accordance with reg. 1 of the amending S.I.) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2002 (S.I. 2002/443)](https://www.legislation.gov.uk/uksi/2002/443), [regs. 1](https://www.legislation.gov.uk/uksi/2002/443/regulation/1), [5](https://www.legislation.gov.uk/uksi/2002/443/regulation/5)
 
-[^key-cfa481ccd91b2e9213e82ca6fb0ed835]: Commencement: Reg. 11 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-cfa481ccd91b2e9213e82ca6fb0ed835]: Commencement: Reg. 11 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-856e3c9df2d1058b581248d94f4d48b4]: Commencement: Reg. 12 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-856e3c9df2d1058b581248d94f4d48b4]: Commencement: Reg. 12 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-2051074ef5ca676bfd1c2c568dc7fb07]: Textual amendment: Words in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/1999/881/regulation/12/1/a/i) renumbered as reg. 12(1)(a)(i) (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [25(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/689/regulation/25/3/a/i) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2051074ef5ca676bfd1c2c568dc7fb07]: Textual amendment: Words in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/1999/881/regulation/12/1/a/i) renumbered as reg. 12(1)(a)(i) (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [25(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/689/regulation/25/3/a/i) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f4e1f238c4bea695519bd0b13c320df4]: Textual amendment: Word in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/1999/881/regulation/12/1/a) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [6](https://www.legislation.gov.uk/uksi/2008/2626/regulation/6)
+[^c-f4e1f238c4bea695519bd0b13c320df4]: Textual amendment: Word in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/1999/881/regulation/12/1/a) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [6](https://www.legislation.gov.uk/uksi/2008/2626/regulation/6)
 
-[^key-011f2b6f769bd20363eb8addfcfc57e4]: Textual amendment: [Reg. 12(1)(a)(ii)](https://www.legislation.gov.uk/uksi/1999/881/regulation/12/1/a/ii) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [25(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/689/regulation/25/3/a/ii) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-011f2b6f769bd20363eb8addfcfc57e4]: Textual amendment: [Reg. 12(1)(a)(ii)](https://www.legislation.gov.uk/uksi/1999/881/regulation/12/1/a/ii) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [25(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/689/regulation/25/3/a/ii) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-479185a0d5a66fa61b44fd2d4fe9ba3f]: Textual amendment: Word in [reg. 12(9)(b)](https://www.legislation.gov.uk/uksi/1999/881/regulation/12/9/b) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [6](https://www.legislation.gov.uk/uksi/2008/2626/regulation/6)
+[^c-479185a0d5a66fa61b44fd2d4fe9ba3f]: Textual amendment: Word in [reg. 12(9)(b)](https://www.legislation.gov.uk/uksi/1999/881/regulation/12/9/b) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [6](https://www.legislation.gov.uk/uksi/2008/2626/regulation/6)
 
-[^key-770e88a66e43babfd64b5f5f2d9dc411]: Textual amendment: Words in [reg. 12(9)(b)](https://www.legislation.gov.uk/uksi/1999/881/regulation/12/9/b) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [25(3)(b)](https://www.legislation.gov.uk/uksi/2019/689/regulation/25/3/b) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-770e88a66e43babfd64b5f5f2d9dc411]: Textual amendment: Words in [reg. 12(9)(b)](https://www.legislation.gov.uk/uksi/1999/881/regulation/12/9/b) inserted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [25(3)(b)](https://www.legislation.gov.uk/uksi/2019/689/regulation/25/3/b) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b7f578add70692a3c6ec0820e6be61d7]: Commencement: Reg. 13 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-b7f578add70692a3c6ec0820e6be61d7]: Commencement: Reg. 13 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-36548f3aaffb09180044a6056394dc66]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/uksi/1999/881/regulation/13/3) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 58(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/58/2)
+[^c-36548f3aaffb09180044a6056394dc66]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/uksi/1999/881/regulation/13/3) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 58(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/58/2)
 
-[^key-76a6160d62687a32211ff20168eeba6e]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/1999/881/regulation/13/4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 58(3)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/58/3/a)
+[^c-76a6160d62687a32211ff20168eeba6e]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/1999/881/regulation/13/4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 58(3)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/58/3/a)
 
-[^key-9830b32d211038090214957b26481096]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/1999/881/regulation/13/4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 58(3)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/58/3/b)
+[^c-9830b32d211038090214957b26481096]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/1999/881/regulation/13/4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 58(3)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/58/3/b)
 
-[^key-0303f8c817b7127731eb66ee3e3effaa]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/1999/881/regulation/13/4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 58(3)(c)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/58/3/c)
+[^c-0303f8c817b7127731eb66ee3e3effaa]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/1999/881/regulation/13/4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 58(3)(c)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/58/3/c)
 
-[^key-95a50a569ee2f44afa244878572d4c6e]: Commencement: Sch. para. 1 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-95a50a569ee2f44afa244878572d4c6e]: Commencement: Sch. para. 1 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-3f2d5f73c59d70905b3dccc815a90d84]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/1) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/2/a)
+[^c-3f2d5f73c59d70905b3dccc815a90d84]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/1) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/2/a)
 
-[^key-e1d8cf9875094d2c00e957dc4c3bdaff]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/1) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/2/b)
+[^c-e1d8cf9875094d2c00e957dc4c3bdaff]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/1) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/2/b)
 
-[^key-a19e2aef51a6ad1f0ea27de7531d56e3]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/1) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/2/c)
+[^c-a19e2aef51a6ad1f0ea27de7531d56e3]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/1) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/2/c)
 
-[^key-6e9e666a7b4e34d6b6f7aa63ffac5cf5]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/1) omitted (with effect in accordance with reg. 1 of the amending S.I.) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2002 (S.I. 2002/443)](https://www.legislation.gov.uk/uksi/2002/443), [regs. 1](https://www.legislation.gov.uk/uksi/2002/443/regulation/1), [6](https://www.legislation.gov.uk/uksi/2002/443/regulation/6) (with [reg. 10](https://www.legislation.gov.uk/uksi/2002/443/regulation/10))
+[^c-6e9e666a7b4e34d6b6f7aa63ffac5cf5]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/1) omitted (with effect in accordance with reg. 1 of the amending S.I.) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2002 (S.I. 2002/443)](https://www.legislation.gov.uk/uksi/2002/443), [regs. 1](https://www.legislation.gov.uk/uksi/2002/443/regulation/1), [6](https://www.legislation.gov.uk/uksi/2002/443/regulation/6) (with [reg. 10](https://www.legislation.gov.uk/uksi/2002/443/regulation/10))
 
-[^key-6b0c15907fa32a0e89b7e2c28c85060f]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/1) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(2)(d)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/2/d)
+[^c-6b0c15907fa32a0e89b7e2c28c85060f]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/1) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(2)(d)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/2/d)
 
-[^key-124ab4eb19d196eb0cf39c2fabcfaac6]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/1) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(2)(e)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/2/e)
+[^c-124ab4eb19d196eb0cf39c2fabcfaac6]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/1) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(2)(e)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/2/e)
 
-[^key-fcedd3a3669ddf730918e5a991c12e06]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/1) inserted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(2)(f)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/2/f)
+[^c-fcedd3a3669ddf730918e5a991c12e06]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/1) inserted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(2)(f)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/2/f)
 
-[^key-a99d8275df0223ca957821fd555a7d89]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/2) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/3)
+[^c-a99d8275df0223ca957821fd555a7d89]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/2) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/3)
 
-[^key-9fe50eb8a9c89015773ea533de627498]: Commencement: Sch. para. 3 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-9fe50eb8a9c89015773ea533de627498]: Commencement: Sch. para. 3 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-5907d729ca7b8d9e0aeb742e54fb9923]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/3) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/4/a)
+[^c-5907d729ca7b8d9e0aeb742e54fb9923]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/3) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/4/a)
 
-[^key-4cc0913f8627281afc682873d45c244d]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/3) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/4/b)
+[^c-4cc0913f8627281afc682873d45c244d]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/3) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/4/b)
 
-[^key-97b14a8658947da0ca13c50d5b6cc3ec]: Textual amendment: Word in [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/3) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(4)(c)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/4/c)
+[^c-97b14a8658947da0ca13c50d5b6cc3ec]: Textual amendment: Word in [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/3) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(4)(c)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/4/c)
 
-[^key-469098119abec9fe0fc8e85e1a89dbc7]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/3) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(4)(d)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/4/d)
+[^c-469098119abec9fe0fc8e85e1a89dbc7]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/3) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(4)(d)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/4/d)
 
-[^key-a1dcccd350f7828984b76ccbe80de153]: Commencement: Sch. para. 4 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-a1dcccd350f7828984b76ccbe80de153]: Commencement: Sch. para. 4 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-5a4a441d1d42d7b667c81d60c76a9234]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/4) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(5)(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/5/a)
+[^c-5a4a441d1d42d7b667c81d60c76a9234]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/4) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(5)(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/5/a)
 
-[^key-1eefc0267911c6e2a2d4709e062f22be]: Textual amendment: Words in [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/4/a) substituted (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2002 (S.I. 2002/443)](https://www.legislation.gov.uk/uksi/2002/443), [regs. 1](https://www.legislation.gov.uk/uksi/2002/443/regulation/1), [7](https://www.legislation.gov.uk/uksi/2002/443/regulation/7) (with [reg. 10](https://www.legislation.gov.uk/uksi/2002/443/regulation/10))
+[^c-1eefc0267911c6e2a2d4709e062f22be]: Textual amendment: Words in [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/4/a) substituted (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2002 (S.I. 2002/443)](https://www.legislation.gov.uk/uksi/2002/443), [regs. 1](https://www.legislation.gov.uk/uksi/2002/443/regulation/1), [7](https://www.legislation.gov.uk/uksi/2002/443/regulation/7) (with [reg. 10](https://www.legislation.gov.uk/uksi/2002/443/regulation/10))
 
-[^key-f0b9cffaaf8ed656739e6545a2bb3149]: Textual amendment: [Sch. para. 4(d)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/4/d) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(5)(b)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/5/b)
+[^c-f0b9cffaaf8ed656739e6545a2bb3149]: Textual amendment: [Sch. para. 4(d)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/4/d) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(5)(b)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/5/b)
 
-[^key-97bb4ab27fcb9356535029b34faf0ed8]: Commencement: Sch. para. 5 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-97bb4ab27fcb9356535029b34faf0ed8]: Commencement: Sch. para. 5 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-a1da5f8d7aecbac583b452318f485adc]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/5) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(6)(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/6/a)
+[^c-a1da5f8d7aecbac583b452318f485adc]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/5) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(6)(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/6/a)
 
-[^key-f341950c3c359ff53145e866c70653d5]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/5) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(6)(b)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/6/b)
+[^c-f341950c3c359ff53145e866c70653d5]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/5) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(6)(b)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/6/b)
 
-[^key-f16a70dede7f18901f41611c6d097586]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/5) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(6)(c)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/6/c)
+[^c-f16a70dede7f18901f41611c6d097586]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/5) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(6)(c)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/6/c)
 
-[^key-a728111e1c276284616853fb6912ab8b]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/5) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(6)(d)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/6/d)
+[^c-a728111e1c276284616853fb6912ab8b]: Textual amendment: Words in [Sch. para. 5](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/5) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(6)(d)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/6/d)
 
-[^key-9b258269d9455dee17a67fc9d2920b54]: Commencement: Sch. para. 6 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-9b258269d9455dee17a67fc9d2920b54]: Commencement: Sch. para. 6 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-3aee4368fb8349e40868f7be23401b29]: Commencement: Sch. para. 7 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-3aee4368fb8349e40868f7be23401b29]: Commencement: Sch. para. 7 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-3c333b5f98f03be53a7be7b2b1707541]: Textual amendment: Words in [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/7/b) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(7)(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/7/a)
+[^c-3c333b5f98f03be53a7be7b2b1707541]: Textual amendment: Words in [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/7/b) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(7)(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/7/a)
 
-[^key-625759884c10e9cf62ca2886f33eaa24]: Textual amendment: Words in [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/7/b) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(7)(b)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/7/b)
+[^c-625759884c10e9cf62ca2886f33eaa24]: Textual amendment: Words in [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/7/b) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(7)(b)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/7/b)
 
-[^key-93c99f76e3fe674aecd030b36d38d9d3]: Textual amendment: Word in [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/7/b) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(7)(c)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/7/c)
+[^c-93c99f76e3fe674aecd030b36d38d9d3]: Textual amendment: Word in [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/7/b) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(7)(c)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/7/c)
 
-[^key-b3bdea3cc1cd61ff89f814dc2d7d698e]: Commencement: Sch. para. 8 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-b3bdea3cc1cd61ff89f814dc2d7d698e]: Commencement: Sch. para. 8 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-575c628683a04cb5c3e8e0231427e335]: Textual amendment: Sch. paras. 8, 8A substituted for Sch. para. 8 (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(8)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/8)
+[^c-575c628683a04cb5c3e8e0231427e335]: Textual amendment: Sch. paras. 8, 8A substituted for Sch. para. 8 (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(8)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/8)
 
-[^key-dd323432f3faf1eb356b9df39fa92ede]: Commencement: Sch. para. 9 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-dd323432f3faf1eb356b9df39fa92ede]: Commencement: Sch. para. 9 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-49097fea44c82f53cd7bb89f09836b66]: Textual amendment: Words in [Sch. para. 9](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/9) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(9)(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/9/a)
+[^c-49097fea44c82f53cd7bb89f09836b66]: Textual amendment: Words in [Sch. para. 9](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/9) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(9)(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/9/a)
 
-[^key-13d241c3ef6594520b5fd8780d902194]: Textual amendment: Words in [Sch. para. 9](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/9) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(9)(b)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/9/b)
+[^c-13d241c3ef6594520b5fd8780d902194]: Textual amendment: Words in [Sch. para. 9](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/9) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(9)(b)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/9/b)
 
-[^key-84eb7089c0deedf1a2af517728907dcf]: Textual amendment: [Sch. para. 9(c)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/9/c) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(9)(c)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/9/c)
+[^c-84eb7089c0deedf1a2af517728907dcf]: Textual amendment: [Sch. para. 9(c)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/9/c) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(9)(c)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/9/c)
 
-[^key-0bab52853baa251a4b7d2cdde16c6004]: Commencement: Sch. para. 10 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
+[^c-0bab52853baa251a4b7d2cdde16c6004]: Commencement: Sch. para. 10 in force at 6.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/881/regulation/1)
 
-[^key-ec8ee016bcdb96099f74b6f2a8b2fe5a]: Textual amendment: Words in [Sch. para. 10(e)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/10/e) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(10)(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/10/a)
+[^c-ec8ee016bcdb96099f74b6f2a8b2fe5a]: Textual amendment: Words in [Sch. para. 10(e)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/10/e) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(10)(a)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/10/a)
 
-[^key-958a3214df24a7f479f58c99b30b4bb8]: Textual amendment: Words in [Sch. para. 10(f)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/10/f) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(10)(b)(i)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/10/b/i)
+[^c-958a3214df24a7f479f58c99b30b4bb8]: Textual amendment: Words in [Sch. para. 10(f)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/10/f) omitted (27.10.2008) by virtue of [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(10)(b)(i)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/10/b/i)
 
-[^key-45ff1cac67dbe604c971130db863bccb]: Textual amendment: Words in [Sch. para. 10(f)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/10/f) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/10/b/ii)
+[^c-45ff1cac67dbe604c971130db863bccb]: Textual amendment: Words in [Sch. para. 10(f)](https://www.legislation.gov.uk/uksi/1999/881/schedule/paragraph/10/f) substituted (27.10.2008) by [The Overseas Insurers (Tax Representatives) (Amendment) Regulations 2008 (S.I. 2008/2626)](https://www.legislation.gov.uk/uksi/2008/2626), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2626/regulation/1), [7(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/2626/regulation/7/10/b/ii)

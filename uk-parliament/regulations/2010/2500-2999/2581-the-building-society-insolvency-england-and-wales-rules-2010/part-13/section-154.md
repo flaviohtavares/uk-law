@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 154. Preliminary[^key-bdf6b670967263f85119ea393c5c3383]
+## 154. Preliminary[^c-bdf6b670967263f85119ea393c5c3383]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.195 of the 1986 Rules.
 
 ## Annotations
 
-[^key-bdf6b670967263f85119ea393c5c3383]: Commencement: Rule 154 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-bdf6b670967263f85119ea393c5c3383]: Commencement: Rule 154 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

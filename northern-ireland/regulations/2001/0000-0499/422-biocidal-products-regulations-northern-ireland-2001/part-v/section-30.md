@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Packaging[^key-1c05ea9c2b3ea2f0e7c3781763ff661a]
+## 30. Packaging[^c-1c05ea9c2b3ea2f0e7c3781763ff661a]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c05ea9c2b3ea2f0e7c3781763ff661a]: Commencement: Reg. 30 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-1c05ea9c2b3ea2f0e7c3781763ff661a]: Commencement: Reg. 30 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

@@ -79,7 +79,7 @@ Section 189
 - (a) A has applied in writing to the landlord for consent to the alteration, and
 - (b) the landlord has refused to give consent or has given consent subject to a condition.
 
-(2) A (or a disabled person with an interest in the alteration being made) may refer the matter to the county court[^key-f5c1e9a5a0bb9a4fb485bfe51e234f05] or, in Scotland, the sheriff.
+(2) A (or a disabled person with an interest in the alteration being made) may refer the matter to the county court[^c-f5c1e9a5a0bb9a4fb485bfe51e234f05] or, in Scotland, the sheriff.
 
 (3) The county court or sheriff must determine whether the refusal or condition is unreasonable.
 
@@ -114,7 +114,7 @@ Section 189
 
 (6) An employment tribunal may act in reliance on sub-paragraph (5)(c) instead of, or in addition to, acting in reliance on section 124(2); but if it orders the landlord to pay compensation it must not do so in reliance on section 124(2).
 
-(7) If the county court[^key-fcfe67acb7b4ff9797c2b3650e0a91a7] or the sheriff orders the landlord to pay compensation, it may not order A to do so.
+(7) If the county court[^c-fcfe67acb7b4ff9797c2b3650e0a91a7] or the sheriff orders the landlord to pay compensation, it may not order A to do so.
 
 ### Regulations
 
@@ -139,8 +139,8 @@ Section 189
 
 ## Annotations
 
-[^key-f5c1e9a5a0bb9a4fb485bfe51e234f05]: Textual amendment: Words in [Sch. 21 para. 4(2)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/21/paragraph/4/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-f5c1e9a5a0bb9a4fb485bfe51e234f05]: Textual amendment: Words in [Sch. 21 para. 4(2)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/21/paragraph/4/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-fcfe67acb7b4ff9797c2b3650e0a91a7]: Textual amendment: Words in [Sch. 21 para. 5(7)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/21/paragraph/5/7) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-fcfe67acb7b4ff9797c2b3650e0a91a7]: Textual amendment: Words in [Sch. 21 para. 5(7)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/21/paragraph/5/7) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c21154091]: Commencement: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2010/15/schedule/21/paragraph/6) wholly in force; [para. 6](https://www.legislation.gov.uk/ukpga/2010/15/paragraph/6) not in force at Royal Assent see [s. 216](https://www.legislation.gov.uk/ukpga/2010/15/section/216); [para. 6](https://www.legislation.gov.uk/ukpga/2010/15/paragraph/6) in force for certain purposes at 6.7.2010 by [S.I. 2010/1736](https://www.legislation.gov.uk/uksi/2010/1736), [art. 2](https://www.legislation.gov.uk/uksi/2010/1736/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2010/1736/schedule); [Sch. 21](https://www.legislation.gov.uk/ukpga/2010/15/schedule/21) in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(1)(13)(c)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/1/13/c) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15))

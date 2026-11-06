@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Round prices for the first primary bid round[^key-276783aa9fa70f61f5fda70812fdfb2d]
+## 32. Round prices for the first primary bid round[^c-276783aa9fa70f61f5fda70812fdfb2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ For the first primary bid round, the round price for—
 
 ## Annotations
 
-[^key-276783aa9fa70f61f5fda70812fdfb2d]: Commencement: Reg. 32 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-276783aa9fa70f61f5fda70812fdfb2d]: Commencement: Reg. 32 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

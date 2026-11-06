@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Regulations under section 92: consent[^key-f9c6db24ac969c76c6b75aefb9c96a45][^key-2bb40f2927e358480f85eda4d1aa8246]
+## 94. Regulations under section 92: consent[^c-f9c6db24ac969c76c6b75aefb9c96a45][^c-2bb40f2927e358480f85eda4d1aa8246]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f9c6db24ac969c76c6b75aefb9c96a45]: Commencement: S. 94 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-f9c6db24ac969c76c6b75aefb9c96a45]: Commencement: S. 94 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-2bb40f2927e358480f85eda4d1aa8246]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2022/31/section/94) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-2bb40f2927e358480f85eda4d1aa8246]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2022/31/section/94) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

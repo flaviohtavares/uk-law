@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Insertion of new official and official postal poll cards into Schedule 3[^key-65194a9b37bd0fc2eaae75dc365b0525]
+## 47. Insertion of new official and official postal poll cards into Schedule 3[^c-65194a9b37bd0fc2eaae75dc365b0525]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65194a9b37bd0fc2eaae75dc365b0525]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2006/2910/regulation/47) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-65194a9b37bd0fc2eaae75dc365b0525]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2006/2910/regulation/47) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

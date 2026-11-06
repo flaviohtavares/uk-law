@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178A. The no disqualifying arrangements requirement[^key-f00d6e91085e0de697e0e4b94304ea1e]
+## 178A. The no disqualifying arrangements requirement[^c-f00d6e91085e0de697e0e4b94304ea1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 - “relevant tax relief”, in respect of shares, means one or more of the following—
   - (a) EIS relief in respect of the shares;
   - (b) SEIS relief under Part 5A in respect of the shares;
-  - (ba) SI[^key-21227fe9fb4943c5046b4933da96848d] relief under Part 5B in respect of the shares;
+  - (ba) SI[^c-21227fe9fb4943c5046b4933da96848d] relief under Part 5B in respect of the shares;
   - (c) relief under Chapter 6 of Part 4 (losses on disposal of shares) in respect of the shares;
   - (d) relief under section 150A or 150E of TCGA 1992 (enterprise investment scheme) in respect of the shares;
   - (e) relief under Schedule 5B to that Act (enterprise investment scheme: reinvestment) in consequence of which deferral relief is attributable to the shares (see paragraph 19(2) of that Schedule);
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f00d6e91085e0de697e0e4b94304ea1e]: Textual amendment: S. 178A inserted (17.7.2012) (with effect in accordance with Sch. 7 para. 22 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/9)
+[^c-f00d6e91085e0de697e0e4b94304ea1e]: Textual amendment: S. 178A inserted (17.7.2012) (with effect in accordance with Sch. 7 para. 22 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/9)
 
-[^key-21227fe9fb4943c5046b4933da96848d]: Textual amendment: Words in s. 178A(6) inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/11/2)
+[^c-21227fe9fb4943c5046b4933da96848d]: Textual amendment: Words in s. 178A(6) inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/11/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Interpretation[^key-ca053b75914d81ef504d6f29db029dac][^key-712553097392a0d285d87a156a3097f2]
+## 25. Interpretation[^c-ca053b75914d81ef504d6f29db029dac][^c-712553097392a0d285d87a156a3097f2]
 
 *Extent: N.I.*
 
@@ -31,8 +31,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ca053b75914d81ef504d6f29db029dac]: Modification: Art. 25 applied (S.) (26.7.2021) by [The Disability Assistance for Children and Young People (Scotland) Regulations 2021 (S.S.I. 2021/174)](https://www.legislation.gov.uk/ssi/2021/174), [regs. 1](https://www.legislation.gov.uk/ssi/2021/174/regulation/1), [17(6)(c)](https://www.legislation.gov.uk/ssi/2021/174/regulation/17/6/c) (with [sch. para. 13(a)](https://www.legislation.gov.uk/ssi/2021/174/schedule/paragraph/13/a))
+[^c-ca053b75914d81ef504d6f29db029dac]: Modification: Art. 25 applied (S.) (26.7.2021) by [The Disability Assistance for Children and Young People (Scotland) Regulations 2021 (S.S.I. 2021/174)](https://www.legislation.gov.uk/ssi/2021/174), [regs. 1](https://www.legislation.gov.uk/ssi/2021/174/regulation/1), [17(6)(c)](https://www.legislation.gov.uk/ssi/2021/174/regulation/17/6/c) (with [sch. para. 13(a)](https://www.legislation.gov.uk/ssi/2021/174/schedule/paragraph/13/a))
 
-[^key-712553097392a0d285d87a156a3097f2]: Modification: [Art. 25](https://www.legislation.gov.uk/nisi/1995/755/article/25) applied (21.3.2022) by [The Disability Assistance for Working Age People (Scotland) Regulations 2022 (S.S.I. 2022/54)](https://www.legislation.gov.uk/ssi/2022/54), [regs. 1](https://www.legislation.gov.uk/ssi/2022/54/regulation/1), [27(6)(c)](https://www.legislation.gov.uk/ssi/2022/54/regulation/27/6/c)
+[^c-712553097392a0d285d87a156a3097f2]: Modification: [Art. 25](https://www.legislation.gov.uk/nisi/1995/755/article/25) applied (21.3.2022) by [The Disability Assistance for Working Age People (Scotland) Regulations 2022 (S.S.I. 2022/54)](https://www.legislation.gov.uk/ssi/2022/54), [regs. 1](https://www.legislation.gov.uk/ssi/2022/54/regulation/1), [27(6)(c)](https://www.legislation.gov.uk/ssi/2022/54/regulation/27/6/c)
 
 [^c17269611]: Textual amendment: [2002 c. 11 (NI)](https://www.legislation.gov.uk/nia/2002/11)

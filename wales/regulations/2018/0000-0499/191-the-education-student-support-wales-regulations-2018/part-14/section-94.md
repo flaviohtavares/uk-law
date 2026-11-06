@@ -25,7 +25,7 @@ summary: ''
 - (a) to whom a grant (other than disabled student's grant) or maintenance loan is payable in respect of an academic year, and
 - (b) who stops undertaking the present course for any period during the academic year (referred to in this regulation as being absent).
 
-(2)[^key-18366499cb67c01ca8fd02040035528e] Where this regulation applies, the amount of grant or maintenance loan is reduced by the number of days during the academic year the eligible student is absent from their course.
+(2)[^c-18366499cb67c01ca8fd02040035528e] Where this regulation applies, the amount of grant or maintenance loan is reduced by the number of days during the academic year the eligible student is absent from their course.
 
 (3) But the Welsh Ministers may determine that the reduction is not to be made if they think it appropriate in the circumstances, having regard in particular to—
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18366499cb67c01ca8fd02040035528e]: Textual amendment: [Reg. 94(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/94/2) substituted (1.8.2018) by [The Education (Student Support) (Wales) (Amendment) Regulations 2018 (S.I. 2018/813)](https://www.legislation.gov.uk/wsi/2018/813), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2018/813/regulation/9)
+[^c-18366499cb67c01ca8fd02040035528e]: Textual amendment: [Reg. 94(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/94/2) substituted (1.8.2018) by [The Education (Student Support) (Wales) (Amendment) Regulations 2018 (S.I. 2018/813)](https://www.legislation.gov.uk/wsi/2018/813), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/813/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2018/813/regulation/9)

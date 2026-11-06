@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Marine impact reports[^key-52f15a2d7c0b988314fc26161ea26a30][^key-c506d0347fc305bfefbc1c34206d5d21]
+## 37. Marine impact reports[^c-52f15a2d7c0b988314fc26161ea26a30][^c-c506d0347fc305bfefbc1c34206d5d21]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52f15a2d7c0b988314fc26161ea26a30]: Commencement: S. 37 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-52f15a2d7c0b988314fc26161ea26a30]: Commencement: S. 37 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-c506d0347fc305bfefbc1c34206d5d21]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2024/3/section/37) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-c506d0347fc305bfefbc1c34206d5d21]: Commencement: [S. 37](https://www.legislation.gov.uk/asc/2024/3/section/37) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Pensions on divorce, etc.: Scotland.[^key-1586f62484885bbf7b36c88ecfd62ae9]
+## 167. Pensions on divorce, etc.: Scotland.[^c-1586f62484885bbf7b36c88ecfd62ae9]
 
 *Extent: E+W+S*
 
@@ -110,14 +110,14 @@ summary: ''
 
 .
 
-(4) Nothing in the provisions mentioned in section 166(5) above applies to a court exercising its powers under section 8 (orders for financial provision on divorce, etc.) or 12A (orders for payment of capital sum: pensions lump sums) of the 1985 Act in respect of any benefits under a pension arrangement[^key-a6bfca4b38db6ebd5ba9b8d9da90e6a7] which fall within subsection (5)(b) of section 10 of that Act (“[^key-dbe2020210f3290c144a94482d766d0a]**pension arrangement**” having the meaning given in subsection (1) of section 27 of that Act, as it has effect for the purposes of subsection (5) of the said section 10).
+(4) Nothing in the provisions mentioned in section 166(5) above applies to a court exercising its powers under section 8 (orders for financial provision on divorce, etc.) or 12A (orders for payment of capital sum: pensions lump sums) of the 1985 Act in respect of any benefits under a pension arrangement[^c-a6bfca4b38db6ebd5ba9b8d9da90e6a7] which fall within subsection (5)(b) of section 10 of that Act (“[^c-dbe2020210f3290c144a94482d766d0a]**pension arrangement**” having the meaning given in subsection (1) of section 27 of that Act, as it has effect for the purposes of subsection (5) of the said section 10).
 
 ## Annotations
 
-[^key-1586f62484885bbf7b36c88ecfd62ae9]: Commencement: S. 167 in force at 15.7.1996 for specified purposes and 19.8.1996 in so far as not already in force by [S.I. 1996/1843](https://www.legislation.gov.uk/uksi/1996/1843), [art. 3](https://www.legislation.gov.uk/uksi/1996/1843/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/1996/1843/article/4))
+[^c-1586f62484885bbf7b36c88ecfd62ae9]: Commencement: S. 167 in force at 15.7.1996 for specified purposes and 19.8.1996 in so far as not already in force by [S.I. 1996/1843](https://www.legislation.gov.uk/uksi/1996/1843), [art. 3](https://www.legislation.gov.uk/uksi/1996/1843/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/1996/1843/article/4))
 
 [^c2136377]: Marginal citation: [1985 c. 37](https://www.legislation.gov.uk/ukpga/1985/37).
 
-[^key-a6bfca4b38db6ebd5ba9b8d9da90e6a7]: Textual amendment: Word in s. 167(4) substituted (1.12.2000) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 12 para. 63(a)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/63/a); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), art. 2(2)(d) Sch. Pt. 4
+[^c-a6bfca4b38db6ebd5ba9b8d9da90e6a7]: Textual amendment: Word in s. 167(4) substituted (1.12.2000) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 12 para. 63(a)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/63/a); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), art. 2(2)(d) Sch. Pt. 4
 
-[^key-dbe2020210f3290c144a94482d766d0a]: Textual amendment: Words in s. 167(4) substituted (1.12.2000) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 12 para. 63(b)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/63/b); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), art. 2(2)(d) Sch. Pt. 4
+[^c-dbe2020210f3290c144a94482d766d0a]: Textual amendment: Words in s. 167(4) substituted (1.12.2000) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 12 para. 63(b)](https://www.legislation.gov.uk/ukpga/1999/30/schedule/12/paragraph/63/b); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), art. 2(2)(d) Sch. Pt. 4

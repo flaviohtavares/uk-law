@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Disqualification or removal of Board members[^key-1119107a1b2fb38b2d5c05f1ac48b722]
+## 11. Disqualification or removal of Board members[^c-1119107a1b2fb38b2d5c05f1ac48b722]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ the Council may, or the Board may by resolution request the Council in writing t
 
 ## Annotations
 
-[^key-1119107a1b2fb38b2d5c05f1ac48b722]: Commencement: Art. 11 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-1119107a1b2fb38b2d5c05f1ac48b722]: Commencement: Art. 11 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

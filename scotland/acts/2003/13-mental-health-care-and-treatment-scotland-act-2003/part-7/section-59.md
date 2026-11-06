@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Mental health officer’s duty to identify named person[^key-1194c205656010a3f7bee8ebb107095b]
+## 59. Mental health officer’s duty to identify named person[^c-1194c205656010a3f7bee8ebb107095b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where a mental health officer is required by 57(1) of this Act to make an applic
 
 ## Annotations
 
-[^key-1194c205656010a3f7bee8ebb107095b]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2003/13/section/59) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-1194c205656010a3f7bee8ebb107095b]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2003/13/section/59) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

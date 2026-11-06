@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Proceedings under section 52A of the Friendly Societies Act[^key-3dd89e59d4366d8f671b9ee06c420d5a]
+## 32. Proceedings under section 52A of the Friendly Societies Act[^c-3dd89e59d4366d8f671b9ee06c420d5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3dd89e59d4366d8f671b9ee06c420d5a]: Commencement: Art. 32 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-3dd89e59d4366d8f671b9ee06c420d5a]: Commencement: Art. 32 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00017]: Footnote: Section 52A was inserted by S.I. [1994/1984](https://www.legislation.gov.uk/uksi/1994/1984) and has been amended by S.I. [1997/2849](https://www.legislation.gov.uk/uksi/1997/2849).

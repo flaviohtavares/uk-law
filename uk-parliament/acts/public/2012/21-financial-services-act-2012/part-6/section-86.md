@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Consultation in relation to, and publication of, complaints scheme[^key-b305182759ec15f78e677c8c912325bb][^key-1ad44620ad29c2715fddefb2079e48fa][^key-0773f3be19052a9ed53aad7d1d358d20]
+## 86. Consultation in relation to, and publication of, complaints scheme[^c-b305182759ec15f78e677c8c912325bb][^c-1ad44620ad29c2715fddefb2079e48fa][^c-0773f3be19052a9ed53aad7d1d358d20]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b305182759ec15f78e677c8c912325bb]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2012/21/section/86) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-b305182759ec15f78e677c8c912325bb]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2012/21/section/86) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-1ad44620ad29c2715fddefb2079e48fa]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2012/21/section/86) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-1ad44620ad29c2715fddefb2079e48fa]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2012/21/section/86) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-0773f3be19052a9ed53aad7d1d358d20]: Modification: Ss. 84-86 applied by SI 2001/2326 art. 18(2) (as amended) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 paras. 49(b)(bb)-(ff)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/49/b/bb), [(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/49/b/ii)
+[^c-0773f3be19052a9ed53aad7d1d358d20]: Modification: Ss. 84-86 applied by SI 2001/2326 art. 18(2) (as amended) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 paras. 49(b)(bb)-(ff)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/49/b/bb), [(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/49/b/ii)

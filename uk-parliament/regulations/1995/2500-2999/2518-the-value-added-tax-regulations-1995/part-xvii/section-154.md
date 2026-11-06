@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**154.**[^key-83a99bd76e8e5e944b80c72647154425] The claim shall be completed by the submission to the Commissioners of—
+**154.**[^c-83a99bd76e8e5e944b80c72647154425] The claim shall be completed by the submission to the Commissioners of—
 
 - (a) the sales invoice or similar document identifying the new means of transport and showing the price paid by the claimant’s customer, and
 - (b) documentary evidence that the new means of transport has been removed to another member State.
 
 ## Annotations
 
-[^key-83a99bd76e8e5e944b80c72647154425]: Commencement: Reg. 154 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-83a99bd76e8e5e944b80c72647154425]: Commencement: Reg. 154 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

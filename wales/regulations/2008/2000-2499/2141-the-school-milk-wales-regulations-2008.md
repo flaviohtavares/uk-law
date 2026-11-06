@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The School Milk (Wales) Regulations 2008 (revoked)[^key-2f97e1b6102ae62d37603c2556548403]
+The School Milk (Wales) Regulations 2008 (revoked)[^c-2f97e1b6102ae62d37603c2556548403]
 
 Made
 
@@ -45,52 +45,52 @@ Coming into force
 
 1 September 2008
 
-[^key-2f97e1b6102ae62d37603c2556548403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f97e1b6102ae62d37603c2556548403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-2f97e1b6102ae62d37603c2556548403]
+## 1. Title, commencement and application[^c-2f97e1b6102ae62d37603c2556548403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2f97e1b6102ae62d37603c2556548403]
+## 2. Interpretation[^c-2f97e1b6102ae62d37603c2556548403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Grant of national aid[^key-2f97e1b6102ae62d37603c2556548403]
+## 3. Grant of national aid[^c-2f97e1b6102ae62d37603c2556548403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Conditions applying to grant of national aid[^key-2f97e1b6102ae62d37603c2556548403]
+## 4. Conditions applying to grant of national aid[^c-2f97e1b6102ae62d37603c2556548403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Additional national aid for eligible pupils[^key-2f97e1b6102ae62d37603c2556548403]
+## 5. Additional national aid for eligible pupils[^c-2f97e1b6102ae62d37603c2556548403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Payment of national aid[^key-2f97e1b6102ae62d37603c2556548403]
+## 6. Payment of national aid[^c-2f97e1b6102ae62d37603c2556548403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Withholding and recovery of Community aid or national aid[^key-2f97e1b6102ae62d37603c2556548403]
+## 7. Withholding and recovery of Community aid or national aid[^c-2f97e1b6102ae62d37603c2556548403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Applicable exchange rate[^key-2f97e1b6102ae62d37603c2556548403]
+## 8. Applicable exchange rate[^c-2f97e1b6102ae62d37603c2556548403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocations[^key-2f97e1b6102ae62d37603c2556548403]
+## 9. Revocations[^c-2f97e1b6102ae62d37603c2556548403]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f97e1b6102ae62d37603c2556548403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f97e1b6102ae62d37603c2556548403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2f97e1b6102ae62d37603c2556548403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f97e1b6102ae62d37603c2556548403]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2f97e1b6102ae62d37603c2556548403]: Textual amendment: Regulations revoked (1.8.2017) by [The School Milk (Wales) Regulations 2017 (S.I. 2017/724)](https://www.legislation.gov.uk/wsi/2017/724), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1), [10(a)](https://www.legislation.gov.uk/wsi/2017/724/regulation/10/a)
+[^c-2f97e1b6102ae62d37603c2556548403]: Textual amendment: Regulations revoked (1.8.2017) by [The School Milk (Wales) Regulations 2017 (S.I. 2017/724)](https://www.legislation.gov.uk/wsi/2017/724), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2017/724/regulation/1/1), [10(a)](https://www.legislation.gov.uk/wsi/2017/724/regulation/10/a)

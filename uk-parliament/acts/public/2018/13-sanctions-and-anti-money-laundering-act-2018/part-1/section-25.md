@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Right of UN-named person to request review[^key-da67a9da28d5f9942c36a12978ed5725]
+## 25. Right of UN-named person to request review[^c-da67a9da28d5f9942c36a12978ed5725]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da67a9da28d5f9942c36a12978ed5725]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2018/13/section/25) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-da67a9da28d5f9942c36a12978ed5725]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2018/13/section/25) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)

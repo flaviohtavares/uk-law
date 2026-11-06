@@ -32,7 +32,7 @@ summary: ''
 
 National Debt
 
-The National Savings (Unclaimed Moneys) Regulations 2009 (revoked)[^key-39ca793e90e6c6630156201de82844d5]
+The National Savings (Unclaimed Moneys) Regulations 2009 (revoked)[^c-39ca793e90e6c6630156201de82844d5]
 
 Made
 
@@ -52,40 +52,40 @@ All other regulations
 
 1st September 2009
 
-[^key-39ca793e90e6c6630156201de82844d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39ca793e90e6c6630156201de82844d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-39ca793e90e6c6630156201de82844d5]
+## 1. Citation, commencement and interpretation[^c-39ca793e90e6c6630156201de82844d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. National savings stamps and gift tokens[^key-39ca793e90e6c6630156201de82844d5]
+## 2. National savings stamps and gift tokens[^c-39ca793e90e6c6630156201de82844d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. British Savings Bonds[^key-39ca793e90e6c6630156201de82844d5]
+## 3. British Savings Bonds[^c-39ca793e90e6c6630156201de82844d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Premium savings bonds[^key-39ca793e90e6c6630156201de82844d5]
+## 4. Premium savings bonds[^c-39ca793e90e6c6630156201de82844d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-39ca793e90e6c6630156201de82844d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-39ca793e90e6c6630156201de82844d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Stock in the register[^key-39ca793e90e6c6630156201de82844d5]
+## 6. Stock in the register[^c-39ca793e90e6c6630156201de82844d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-39ca793e90e6c6630156201de82844d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-39ca793e90e6c6630156201de82844d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-39ca793e90e6c6630156201de82844d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39ca793e90e6c6630156201de82844d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-39ca793e90e6c6630156201de82844d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39ca793e90e6c6630156201de82844d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-39ca793e90e6c6630156201de82844d5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1263) revoked (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/624/schedule/2)
+[^c-39ca793e90e6c6630156201de82844d5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1263) revoked (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/624/schedule/2)

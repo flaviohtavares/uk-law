@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-[^key-8849284761595c3a436e067126652fbe]... in this Part—
+[^c-8849284761595c3a436e067126652fbe]... in this Part—
 
 - (a) a student (“X”) is in category A if—
   - (i) X resides at X's parents' home while attending the designated course; or
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8849284761595c3a436e067126652fbe]: Textual amendment: Words in [reg. 90](https://www.legislation.gov.uk/uksi/2011/1986/regulation/90) omitted (23.12.2021) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/15/2)
+[^c-8849284761595c3a436e067126652fbe]: Textual amendment: Words in [reg. 90](https://www.legislation.gov.uk/uksi/2011/1986/regulation/90) omitted (23.12.2021) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) (No. 3) Regulations 2021 (S.I. 2021/1348)](https://www.legislation.gov.uk/uksi/2021/1348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2021/1348/regulation/15/2)

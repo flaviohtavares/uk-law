@@ -24,7 +24,7 @@ Section 63.
 
 ### The Scrap Metal Dealers Act 1964 (c. 69)
 
-**1.** In section 9(6) of the Scrap Metal Dealers Act 1964, for the words from “provisions of” to “as to” substitute “ provisions of the Vehicle Excise and Registration Act 1994 as to ”. *(Extent: E+W)* *(affected by repeal, see note)*[^key-131e88671599fff56a33e0eb14aec1ce]
+**1.** In section 9(6) of the Scrap Metal Dealers Act 1964, for the words from “provisions of” to “as to” substitute “ provisions of the Vehicle Excise and Registration Act 1994 as to ”. *(Extent: E+W)* *(affected by repeal, see note)*[^c-131e88671599fff56a33e0eb14aec1ce]
 
 ### The Finance Act 1966 (c. 18)
 
@@ -171,7 +171,7 @@ Section 63.
 (3) In section 64A of that Act—
 
 - (a) in subsection (1)(a)(i), for the words “section 19 of the Vehicles (Excise) Act 1971” substitute “ section 21 of the Vehicle Excise and Registration Act 1994 ”,
-- (b)[^key-177f777e413bf10d7e2a84c67cbcb9f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-177f777e413bf10d7e2a84c67cbcb9f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in subsection (4)—
   - (i) for the words “the Vehicles (Excise) Act 1971” substitute “ the Vehicle Excise and Registration Act 1994 ”, and
   - (ii) for the words “section 16(2)” substitute “ section 12(2) ”.
@@ -179,7 +179,7 @@ Section 63.
 (4) In section 65A of that Act—
 
 - (a) in subsection (1)(a)(i), for the words “section 19 of the Vehicles (Excise) Act 1971” substitute “ section 21 of the Vehicle Excise and Registration Act 1994 ”, and
-- (b)[^key-368e18ed24272c84e6d3a5f061f1a7b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-368e18ed24272c84e6d3a5f061f1a7b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 156 of that Act, for the words “section 37 of the Vehicles (Excise) Act 1971” substitute “ section 57 of the Vehicle Excise and Registration Act 1994 ”.
 
@@ -248,7 +248,7 @@ Section 63.
 
 ## Annotations
 
-[^key-131e88671599fff56a33e0eb14aec1ce]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1994/22/schedule/3/paragraph/1) repealed (E.W.) (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(c)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/c), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
+[^c-131e88671599fff56a33e0eb14aec1ce]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1994/22/schedule/3/paragraph/1) repealed (E.W.) (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(c)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/c), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
 
 [^c18215081]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1994/22/schedule/3/paragraph/3) repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [ss. 125(1)](https://www.legislation.gov.uk/ukpga/2006/36/section/125/1), [126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
 
@@ -262,6 +262,6 @@ Section 63.
 
 [^c18061691]: Textual amendment: [Sch.3 para. 22](https://www.legislation.gov.uk/ukpga/1994/22/schedule/3/paragraph/22) repealed (6.4.2003 with effect as mentioned in s. 723(1)(a)(b) (subject to Sch. 7) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 724(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/724/1), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1)
 
-[^key-177f777e413bf10d7e2a84c67cbcb9f1]: Textual amendment: [Sch. 3 para. 24(3)(b)](https://www.legislation.gov.uk/ukpga/1994/22/schedule/3/paragraph/24/3/b) omitted (29.4.2009) by virtue of [The Road Vehicles (Approval) (Consequential Amendments) Regulations 2009 (S.I. 2009/818)](https://www.legislation.gov.uk/uksi/2009/818), [regs. 1](https://www.legislation.gov.uk/uksi/2009/818/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2009/818/regulation/4/b)
+[^c-177f777e413bf10d7e2a84c67cbcb9f1]: Textual amendment: [Sch. 3 para. 24(3)(b)](https://www.legislation.gov.uk/ukpga/1994/22/schedule/3/paragraph/24/3/b) omitted (29.4.2009) by virtue of [The Road Vehicles (Approval) (Consequential Amendments) Regulations 2009 (S.I. 2009/818)](https://www.legislation.gov.uk/uksi/2009/818), [regs. 1](https://www.legislation.gov.uk/uksi/2009/818/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2009/818/regulation/4/b)
 
-[^key-368e18ed24272c84e6d3a5f061f1a7b1]: Textual amendment: [Sch. 3 para. 24(4)(b)](https://www.legislation.gov.uk/ukpga/1994/22/schedule/3/paragraph/24/4/b) omitted (29.4.2009) by virtue of [The Road Vehicles (Approval) (Consequential Amendments) Regulations 2009 (S.I. 2009/818)](https://www.legislation.gov.uk/uksi/2009/818), [regs. 1](https://www.legislation.gov.uk/uksi/2009/818/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2009/818/regulation/4/b)
+[^c-368e18ed24272c84e6d3a5f061f1a7b1]: Textual amendment: [Sch. 3 para. 24(4)(b)](https://www.legislation.gov.uk/ukpga/1994/22/schedule/3/paragraph/24/4/b) omitted (29.4.2009) by virtue of [The Road Vehicles (Approval) (Consequential Amendments) Regulations 2009 (S.I. 2009/818)](https://www.legislation.gov.uk/uksi/2009/818), [regs. 1](https://www.legislation.gov.uk/uksi/2009/818/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2009/818/regulation/4/b)

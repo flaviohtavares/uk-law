@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Office copies of documents[^key-f1a13d43f1eb641ef204b964fdf32259]
+## 81. Office copies of documents[^c-f1a13d43f1eb641ef204b964fdf32259]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1a13d43f1eb641ef204b964fdf32259]: Commencement: [Rule 81](https://www.legislation.gov.uk/uksi/2007/3141/rule/81) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-f1a13d43f1eb641ef204b964fdf32259]: Commencement: [Rule 81](https://www.legislation.gov.uk/uksi/2007/3141/rule/81) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

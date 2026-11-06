@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26.2. Excusal from jury service by court[^key-f314c40db64e5cd96cb1c0db96bca9a3]
+## 26.2. Excusal from jury service by court[^c-f314c40db64e5cd96cb1c0db96bca9a3]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ At any time before a juror completes the oath or affirmation, the court may exer
 
 ## Annotations
 
-[^key-f314c40db64e5cd96cb1c0db96bca9a3]: Commencement: [Rule 26.2](https://www.legislation.gov.uk/uksi/2025/909/rule/26.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f314c40db64e5cd96cb1c0db96bca9a3]: Commencement: [Rule 26.2](https://www.legislation.gov.uk/uksi/2025/909/rule/26.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00625]: Footnote: [1974 c. 23](https://www.legislation.gov.uk/ukpga/1974/23); section 10 was amended by section 168 of, and Schedule 11 to, the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33) and sections 65 and 109 of, and paragraph 4 of Schedule 4 and Schedule 10 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).

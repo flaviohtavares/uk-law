@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 254A. Apprenticeship bursaries paid to persons leaving local authority care[^key-efb32ca3647c58b72ce01566f48b1206]
+## 254A. Apprenticeship bursaries paid to persons leaving local authority care[^c-efb32ca3647c58b72ce01566f48b1206]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efb32ca3647c58b72ce01566f48b1206]: Textual amendment: S. 254A and cross-heading inserted (6.4.2020 with effect in relation to the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 11](https://www.legislation.gov.uk/ukpga/2020/14/section/11)
+[^c-efb32ca3647c58b72ce01566f48b1206]: Textual amendment: S. 254A and cross-heading inserted (6.4.2020 with effect in relation to the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 11](https://www.legislation.gov.uk/ukpga/2020/14/section/11)

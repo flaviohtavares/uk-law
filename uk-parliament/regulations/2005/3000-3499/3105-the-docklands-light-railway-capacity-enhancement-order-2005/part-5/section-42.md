@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. For protection of the Environment Agency[^key-0bc497fec78ec27a6aa0ce6ebaebc1f6]
+## 42. For protection of the Environment Agency[^c-0bc497fec78ec27a6aa0ce6ebaebc1f6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 12 to this Order shall have effect.
 
 ## Annotations
 
-[^key-0bc497fec78ec27a6aa0ce6ebaebc1f6]: Commencement: Art. 42 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-0bc497fec78ec27a6aa0ce6ebaebc1f6]: Commencement: Art. 42 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

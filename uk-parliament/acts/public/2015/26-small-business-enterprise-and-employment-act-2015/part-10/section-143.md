@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Compliance orders[^key-320239ecc27c89a66ccbf6cbbd4126dd]
+## 143. Compliance orders[^c-320239ecc27c89a66ccbf6cbbd4126dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ After section 391S of the Insolvency Act 1986 (inserted by section 142) insertâ€
 
 ## Annotations
 
-[^key-320239ecc27c89a66ccbf6cbbd4126dd]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2015/26/section/143) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)
+[^c-320239ecc27c89a66ccbf6cbbd4126dd]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2015/26/section/143) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)

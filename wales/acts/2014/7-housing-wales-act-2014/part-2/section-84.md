@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Notice that duties have ended[^key-c6c435f8aa9be2dd902a833060a3d42f]
+## 84. Notice that duties have ended[^c-c6c435f8aa9be2dd902a833060a3d42f]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6c435f8aa9be2dd902a833060a3d42f]: Commencement: [S. 84](https://www.legislation.gov.uk/anaw/2014/7/section/84) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 35](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/35)
+[^c-c6c435f8aa9be2dd902a833060a3d42f]: Commencement: [S. 84](https://www.legislation.gov.uk/anaw/2014/7/section/84) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 35](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/35)

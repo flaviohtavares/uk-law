@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Registration of births[^key-d78d3b59b87884f9295bc6ef1b6c2cb2][^key-3b9c222b2778b3cfaa1f6442bed60795]
+## 56. Registration of births[^c-d78d3b59b87884f9295bc6ef1b6c2cb2][^c-3b9c222b2778b3cfaa1f6442bed60795]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ Schedule 6 contains—
 
 ## Annotations
 
-[^key-d78d3b59b87884f9295bc6ef1b6c2cb2]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2009/24/section/56) in force at 21.5.2012 for specified purposes by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/a)
+[^c-d78d3b59b87884f9295bc6ef1b6c2cb2]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2009/24/section/56) in force at 21.5.2012 for specified purposes by [S.I. 2012/1256](https://www.legislation.gov.uk/uksi/2012/1256), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1256/article/2/2/a)
 
-[^key-3b9c222b2778b3cfaa1f6442bed60795]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2009/24/section/56) in force at 19.9.2016 for specified purposes by [S.I. 2016/913](https://www.legislation.gov.uk/uksi/2016/913), [art. 2(a)](https://www.legislation.gov.uk/uksi/2016/913/article/2/a)
+[^c-3b9c222b2778b3cfaa1f6442bed60795]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2009/24/section/56) in force at 19.9.2016 for specified purposes by [S.I. 2016/913](https://www.legislation.gov.uk/uksi/2016/913), [art. 2(a)](https://www.legislation.gov.uk/uksi/2016/913/article/2/a)

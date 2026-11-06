@@ -34,7 +34,7 @@ pesticides
 
 fees and charges
 
-The Plant Protection Products (Fees) Regulations 2007 (revoked)[^key-e19abe9d35de0a312e52170948c36d07]
+The Plant Protection Products (Fees) Regulations 2007 (revoked)[^c-e19abe9d35de0a312e52170948c36d07]
 
 Made
 
@@ -48,55 +48,55 @@ Coming into force
 
 1st March 2007
 
-[^key-e19abe9d35de0a312e52170948c36d07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e19abe9d35de0a312e52170948c36d07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-e19abe9d35de0a312e52170948c36d07]
+## 1. Title and commencement[^c-e19abe9d35de0a312e52170948c36d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e19abe9d35de0a312e52170948c36d07]
+## 2. Interpretation[^c-e19abe9d35de0a312e52170948c36d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees[^key-e19abe9d35de0a312e52170948c36d07]
+## 3. Fees[^c-e19abe9d35de0a312e52170948c36d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-e19abe9d35de0a312e52170948c36d07]
+## 4. Revocations[^c-e19abe9d35de0a312e52170948c36d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e19abe9d35de0a312e52170948c36d07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e19abe9d35de0a312e52170948c36d07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Fees[^key-e19abe9d35de0a312e52170948c36d07]
+## SCHEDULE — Fees[^c-e19abe9d35de0a312e52170948c36d07]
 
 Regulation 3
 
-**1.**[^key-e19abe9d35de0a312e52170948c36d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e19abe9d35de0a312e52170948c36d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e19abe9d35de0a312e52170948c36d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e19abe9d35de0a312e52170948c36d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e19abe9d35de0a312e52170948c36d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e19abe9d35de0a312e52170948c36d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Inclusion in Annex I to Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414), or the first approval in the United Kingdom for a product with a new active substance[^key-e19abe9d35de0a312e52170948c36d07]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. The official recognition of a test facility or organisation[^key-e19abe9d35de0a312e52170948c36d07]
+### 4. Inclusion in Annex I to Council Directive [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414), or the first approval in the United Kingdom for a product with a new active substance[^c-e19abe9d35de0a312e52170948c36d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Fees related to [Commission Regulation (EC) No. 451/2000](https://www.legislation.gov.uk/european/regulation/2000/0451)[^key-e19abe9d35de0a312e52170948c36d07]
+### 5. The official recognition of a test facility or organisation[^c-e19abe9d35de0a312e52170948c36d07]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Fees related to [Commission Regulation (EC) No. 451/2000](https://www.legislation.gov.uk/european/regulation/2000/0451)[^c-e19abe9d35de0a312e52170948c36d07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-e19abe9d35de0a312e52170948c36d07]EXPLANATORY NOTE
+[^c-e19abe9d35de0a312e52170948c36d07]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -115,4 +115,4 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 ## Annotations
 
-[^key-e19abe9d35de0a312e52170948c36d07]: Textual amendment: Regulations revoked (24.9.2011) by [The Plant Protection Products (Fees and Charges) Regulations 2011 (S.I. 2011/2132)](https://www.legislation.gov.uk/uksi/2011/2132), [reg. 9(c)](https://www.legislation.gov.uk/uksi/2011/2132/regulation/9/c) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2011/2132/regulation/4/3))
+[^c-e19abe9d35de0a312e52170948c36d07]: Textual amendment: Regulations revoked (24.9.2011) by [The Plant Protection Products (Fees and Charges) Regulations 2011 (S.I. 2011/2132)](https://www.legislation.gov.uk/uksi/2011/2132), [reg. 9(c)](https://www.legislation.gov.uk/uksi/2011/2132/regulation/9/c) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2011/2132/regulation/4/3))

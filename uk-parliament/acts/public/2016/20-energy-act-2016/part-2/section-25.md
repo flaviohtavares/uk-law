@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Power of the OGA to require attendance at meetings[^key-27f945aeee9b5255f2a6836c2e3371c0]
+## 25. Power of the OGA to require attendance at meetings[^c-27f945aeee9b5255f2a6836c2e3371c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27f945aeee9b5255f2a6836c2e3371c0]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2016/20/section/25) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-27f945aeee9b5255f2a6836c2e3371c0]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2016/20/section/25) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

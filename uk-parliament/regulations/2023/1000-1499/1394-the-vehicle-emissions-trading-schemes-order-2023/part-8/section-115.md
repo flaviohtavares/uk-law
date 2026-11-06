@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Revocation of [Regulation (EU) 2017/1152](https://www.legislation.gov.uk/european/regulation/2017/1152) and [Regulation (EU) 2017/1153](https://www.legislation.gov.uk/european/regulation/2017/1153)[^key-a82e45353648a9810c44ffead4045d4b]
+## 115. Revocation of [Regulation (EU) 2017/1152](https://www.legislation.gov.uk/european/regulation/2017/1152) and [Regulation (EU) 2017/1153](https://www.legislation.gov.uk/european/regulation/2017/1153)[^c-a82e45353648a9810c44ffead4045d4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a82e45353648a9810c44ffead4045d4b]: Commencement: Art. 115 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-a82e45353648a9810c44ffead4045d4b]: Commencement: Art. 115 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

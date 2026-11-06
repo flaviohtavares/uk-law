@@ -32,19 +32,19 @@ summary: ''
 (3) The amounts relate to any lease in the case of—
 
 - section 279 (sums payable instead of rent), and
-- section 281 (sums payable for variation or waiver of terms[^key-4d0485b8ee2eb038cc787521e6e53a2d] of lease).
+- section 281 (sums payable for variation or waiver of terms[^c-4d0485b8ee2eb038cc787521e6e53a2d] of lease).
 
 (4) The amounts relate to the sale of any estate or interest in land in the case of—
 
 - section 284 (sales with right to reconveyance), and
 - section 285 (sale and leaseback transactions).
 
-(5) This Chapter also permits certain deductions in calculating the profits of property businesses carried on by tenants under certain leases (see sections 291 and 292 ; but see also section 276A[^key-d133a1656aa2482b723c55a4426b38cf]).
+(5) This Chapter also permits certain deductions in calculating the profits of property businesses carried on by tenants under certain leases (see sections 291 and 292 ; but see also section 276A[^c-d133a1656aa2482b723c55a4426b38cf]).
 
 (6) In this Chapter “**short-term lease**” means a lease whose effective duration is 50 years or less.
 
 ## Annotations
 
-[^key-4d0485b8ee2eb038cc787521e6e53a2d]: Textual amendment: Word in s. 276(3) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 614](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/614) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-4d0485b8ee2eb038cc787521e6e53a2d]: Textual amendment: Word in s. 276(3) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 614](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/614) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-d133a1656aa2482b723c55a4426b38cf]: Textual amendment: Words in s. 276(5) inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/21)
+[^c-d133a1656aa2482b723c55a4426b38cf]: Textual amendment: Words in s. 276(5) inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/21)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Persons convicted of an offence outside England and Wales[^key-56b7766c3d0da25ec16f241479b890f0]
+## 6. Persons convicted of an offence outside England and Wales[^c-56b7766c3d0da25ec16f241479b890f0]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ After section 63I of the Police and Criminal Evidence Act 1984 (for which see se
 
 ## Annotations
 
-[^key-56b7766c3d0da25ec16f241479b890f0]: Commencement: S. 6 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/a) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-56b7766c3d0da25ec16f241479b890f0]: Commencement: S. 6 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/a) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))

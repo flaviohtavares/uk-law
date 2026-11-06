@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Vehicle Excise and Registration Act 1994 (c. 22) is amended as follows.
 
-(2)[^key-1b67b225276cd7971c9584d1c3c57265] After section 19B insert—
+(2)[^c-1b67b225276cd7971c9584d1c3c57265] After section 19B insert—
 
 > **19C. Fee for payment of duty by credit card**
 >
@@ -48,10 +48,10 @@ summary: ''
 
 .
 
-(3)[^key-1b67b225276cd7971c9584d1c3c57265] In section 58 (fees prescribed by regulations) in subsection (1) (fees prescribed by regulations under certain provisions to be of amount approved by Treasury) for “or 14(4)(b)” substitute “ , 14(4)(b) or 19C(2) ”.
+(3)[^c-1b67b225276cd7971c9584d1c3c57265] In section 58 (fees prescribed by regulations) in subsection (1) (fees prescribed by regulations under certain provisions to be of amount approved by Treasury) for “or 14(4)(b)” substitute “ , 14(4)(b) or 19C(2) ”.
 
 (4) This section has effect in relation to licences issued on or after such day as the Secretary of State may by order made by statutory instrument appoint.
 
 ## Annotations
 
-[^key-1b67b225276cd7971c9584d1c3c57265]: Commencement: [S. 18(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/18/2)[(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/18/3) has effect as specified by [The Finance Act 2004, Section 18 (Appointed Day) Order 2005 (S.I. 2005/2356)](https://www.legislation.gov.uk/uksi/2005/2356), [art. 2](https://www.legislation.gov.uk/uksi/2005/2356/article/2)
+[^c-1b67b225276cd7971c9584d1c3c57265]: Commencement: [S. 18(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/18/2)[(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/18/3) has effect as specified by [The Finance Act 2004, Section 18 (Appointed Day) Order 2005 (S.I. 2005/2356)](https://www.legislation.gov.uk/uksi/2005/2356), [art. 2](https://www.legislation.gov.uk/uksi/2005/2356/article/2)

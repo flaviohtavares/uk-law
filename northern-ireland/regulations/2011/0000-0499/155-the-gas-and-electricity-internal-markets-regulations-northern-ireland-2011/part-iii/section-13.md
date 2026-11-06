@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Gas transmission unbundling: modification of licences, etc.[^key-55a7c2f5f139424f42cf088158bf5e55]
+## 13. Gas transmission unbundling: modification of licences, etc.[^c-55a7c2f5f139424f42cf088158bf5e55]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55a7c2f5f139424f42cf088158bf5e55]: Commencement: Reg. 13 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-55a7c2f5f139424f42cf088158bf5e55]: Commencement: Reg. 13 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

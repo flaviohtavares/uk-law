@@ -46,7 +46,7 @@ Section 150
 
 ### Preservation of certain rules facilitating investment in government securities (section 21)
 
-**5.**[^key-213a59d5c46126343b2a08363b11b06b] Any rule which, immediately before the coming into force of this Act, had effect as if duly passed by a registered society by virtue of section 11(2) of the 1965 Act (continuation of rules included by virtue of section 8(3) of the Societies (Miscellaneous Provisions) Act 1940) is to continue to be treated as duly passed by the society.
+**5.**[^c-213a59d5c46126343b2a08363b11b06b] Any rule which, immediately before the coming into force of this Act, had effect as if duly passed by a registered society by virtue of section 11(2) of the 1965 Act (continuation of rules included by virtue of section 8(3) of the Societies (Miscellaneous Provisions) Act 1940) is to continue to be treated as duly passed by the society.
 
 ### Maximum shareholding (section 24): effect of certain resolutions on society's rules
 
@@ -141,4 +141,4 @@ Section 150
 
 ## Annotations
 
-[^key-213a59d5c46126343b2a08363b11b06b]: Modification: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/3/paragraph/5) excluded by 1979 c. 34, s. 4(5) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/5/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-213a59d5c46126343b2a08363b11b06b]: Modification: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/3/paragraph/5) excluded by 1979 c. 34, s. 4(5) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/5/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))

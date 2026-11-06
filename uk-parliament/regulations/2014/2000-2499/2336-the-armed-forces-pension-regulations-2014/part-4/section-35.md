@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Account to specify provisional amount of deferred pension[^key-277ac2be1bdceff77cfddbd1e8cf37d3]
+## 35. Account to specify provisional amount of deferred pension[^c-277ac2be1bdceff77cfddbd1e8cf37d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-277ac2be1bdceff77cfddbd1e8cf37d3]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2014/2336/regulation/35) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-277ac2be1bdceff77cfddbd1e8cf37d3]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2014/2336/regulation/35) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

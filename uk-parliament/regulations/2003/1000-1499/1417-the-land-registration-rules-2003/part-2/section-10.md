@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Index to be kept under section 68 of the Act[^key-0ab9dfde8e59dbabc2076f58b775e2db]
+## 10. Index to be kept under section 68 of the Act[^c-0ab9dfde8e59dbabc2076f58b775e2db]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ab9dfde8e59dbabc2076f58b775e2db]: Modification: Rule 10(1)(b) restricted (13.10.2003) by [The Land Registration Act 2002 (Transitional Provisions) Order 2003 (S.I. 2003/1953)](https://www.legislation.gov.uk/uksi/2003/1953), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1953/article/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2003/1953/article/21/2)
+[^c-0ab9dfde8e59dbabc2076f58b775e2db]: Modification: Rule 10(1)(b) restricted (13.10.2003) by [The Land Registration Act 2002 (Transitional Provisions) Order 2003 (S.I. 2003/1953)](https://www.legislation.gov.uk/uksi/2003/1953), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1953/article/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2003/1953/article/21/2)

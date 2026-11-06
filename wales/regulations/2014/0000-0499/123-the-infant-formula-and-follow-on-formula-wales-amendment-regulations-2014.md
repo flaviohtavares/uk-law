@@ -31,7 +31,7 @@ summary: ''
 
 Food, Wales
 
-The Infant Formula and Follow-on Formula (Wales) (Amendment) Regulations 2014 (revoked)[^key-4525be2f1194af1ba2b1c8e14f475dfb]
+The Infant Formula and Follow-on Formula (Wales) (Amendment) Regulations 2014 (revoked)[^c-4525be2f1194af1ba2b1c8e14f475dfb]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 28 February 2014
 
-[^key-4525be2f1194af1ba2b1c8e14f475dfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4525be2f1194af1ba2b1c8e14f475dfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-4525be2f1194af1ba2b1c8e14f475dfb]
+## 1. Title, commencement and application[^c-4525be2f1194af1ba2b1c8e14f475dfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Infant Formula and Follow-on Formula (Wales) Regulations 2007[^key-4525be2f1194af1ba2b1c8e14f475dfb]
+## 2. Amendment of the Infant Formula and Follow-on Formula (Wales) Regulations 2007[^c-4525be2f1194af1ba2b1c8e14f475dfb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4525be2f1194af1ba2b1c8e14f475dfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4525be2f1194af1ba2b1c8e14f475dfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4525be2f1194af1ba2b1c8e14f475dfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4525be2f1194af1ba2b1c8e14f475dfb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4525be2f1194af1ba2b1c8e14f475dfb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2014/123) revoked (22.2.2020 for specified purposes, 22.2.2021 in so far as not already in force) by [The Infant Formula and Follow-on Formula (Wales) Regulations 2020 (S.I. 2020/89)](https://www.legislation.gov.uk/wsi/2020/89), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/wsi/2020/89/schedule/3) (with [reg. 5(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/5/2)[(3)](https://www.legislation.gov.uk/wsi/2020/89/regulation/5/3))
+[^c-4525be2f1194af1ba2b1c8e14f475dfb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2014/123) revoked (22.2.2020 for specified purposes, 22.2.2021 in so far as not already in force) by [The Infant Formula and Follow-on Formula (Wales) Regulations 2020 (S.I. 2020/89)](https://www.legislation.gov.uk/wsi/2020/89), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/wsi/2020/89/schedule/3) (with [reg. 5(2)](https://www.legislation.gov.uk/wsi/2020/89/regulation/5/2)[(3)](https://www.legislation.gov.uk/wsi/2020/89/regulation/5/3))

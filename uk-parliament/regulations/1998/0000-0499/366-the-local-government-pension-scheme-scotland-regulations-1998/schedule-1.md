@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — INTERPRETATION[^key-8f6f1b068e207c45bc363d03e05f769f]
+## SCHEDULE 1 — INTERPRETATION[^c-8f6f1b068e207c45bc363d03e05f769f]
 
 *Extent: E+W+S*
 
@@ -220,7 +220,7 @@ Regulation 2
 
 ## Annotations
 
-[^key-8f6f1b068e207c45bc363d03e05f769f]: Commencement: Sch. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-8f6f1b068e207c45bc363d03e05f769f]: Commencement: Sch. 1 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00064]: Footnote: [1922 c. 59](https://www.legislation.gov.uk/ukpga/1922/59).
 

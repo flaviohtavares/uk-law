@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-5e041232fa32126c321657c34c93a13c] Subject to paragraph (1A), for the purposes of this rule and rules 47 to 50, a prisoner’s “personal property” comprises all items of property which—
+(1)[^c-5e041232fa32126c321657c34c93a13c] Subject to paragraph (1A), for the purposes of this rule and rules 47 to 50, a prisoner’s “personal property” comprises all items of property which—
 
 - (a) belong to the prisoner and are brought to the prison by the prisoner;
 - (b) are sent to the prisoner at the prison;
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e041232fa32126c321657c34c93a13c]: Textual amendment: [Rule 46(1)](https://www.legislation.gov.uk/ssi/2011/331/rule/46/1)[(1A)](https://www.legislation.gov.uk/ssi/2011/331/rule/46/1A) substituted for [rule 46(1)](https://www.legislation.gov.uk/ssi/2011/331/rule/46/1) (15.6.2020 at 2.00 p.m.) by [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment Rules 2020 (S.S.I. 2020/175)](https://www.legislation.gov.uk/ssi/2020/175), [rules 1](https://www.legislation.gov.uk/ssi/2020/175/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/175/rule/2/4)
+[^c-5e041232fa32126c321657c34c93a13c]: Textual amendment: [Rule 46(1)](https://www.legislation.gov.uk/ssi/2011/331/rule/46/1)[(1A)](https://www.legislation.gov.uk/ssi/2011/331/rule/46/1A) substituted for [rule 46(1)](https://www.legislation.gov.uk/ssi/2011/331/rule/46/1) (15.6.2020 at 2.00 p.m.) by [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment Rules 2020 (S.S.I. 2020/175)](https://www.legislation.gov.uk/ssi/2020/175), [rules 1](https://www.legislation.gov.uk/ssi/2020/175/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/175/rule/2/4)

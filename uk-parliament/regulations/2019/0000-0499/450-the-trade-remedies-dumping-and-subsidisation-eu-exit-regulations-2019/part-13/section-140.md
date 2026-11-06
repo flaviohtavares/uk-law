@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Modifications to Schedule 4[^key-662f4ef2265d96c5fb2a8af0e82d8237]
+## 140. Modifications to Schedule 4[^c-662f4ef2265d96c5fb2a8af0e82d8237]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ Schedule 4 (content of undertakings notices) has effect as if —
 
 ## Annotations
 
-[^key-662f4ef2265d96c5fb2a8af0e82d8237]: Commencement: Reg. 140 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-662f4ef2265d96c5fb2a8af0e82d8237]: Commencement: Reg. 140 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

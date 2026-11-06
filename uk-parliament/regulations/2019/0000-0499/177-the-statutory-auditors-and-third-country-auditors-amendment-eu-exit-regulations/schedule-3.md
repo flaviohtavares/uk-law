@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 110
 
-**1.**[^key-89aeb699f7cfb15e20d6332c4ca0a748] The following instruments are revoked—
+**1.**[^c-89aeb699f7cfb15e20d6332c4ca0a748] The following instruments are revoked—
 
 - (a) Commission Decision No. [2008/627/EC](https://www.legislation.gov.uk/eudn/2008/627) of 29 July 2008 concerning a transitional period for audit activities of certain third country auditors and audit entities;
 - (b) Commission Decision 2010/64 of 5 February 2010 on the adequacy of the competent authorities of certain third countries pursuant to Directive [2006/43/EC](https://www.legislation.gov.uk/eudr/2006/43) of the European Parliament and of the Council;
@@ -34,10 +34,10 @@ Regulation 110
 - (h) Commission Implementing Decision (EU) 2016/1155 of 14 July 2016 on the equivalence of the public oversight, quality assurance, investigation and penalty systems for auditors and audit entities of the United States of America pursuant to Directive [2006/43/EC](https://www.legislation.gov.uk/eudr/2006/43) of the European Parliament and the Council;
 - (i) Commission Implementing Decision (EU) 2016/1156 of 14 July 2016 on the adequacy of the competent authorities of the United States of America pursuant to Directive [2006/43/EC](https://www.legislation.gov.uk/eudr/2006/43) of the European Parliament and of the Council;
 - (j) Commission Implementing Decision (EU) 2016/1223 of 25 July 2016 amending Decision 2011/30/EU on the equivalence of certain third country public oversight, quality assurance, investigation and penalty systems for auditors and audit entities and a transitional period for audit activities of certain third country auditors and audit entities in the European Union.
-- (k)[^key-b433b947e0bfeef8261a4cfb71850861] Commission Implementing Decision (EU) 2019/1874 of 6 November 2019 on the adequacy of the competent authorities of the People’s Republic of China pursuant to [Directive 2006/43/EC](https://www.legislation.gov.uk/eudr/2006/0043) of the European Parliament and of the Council.
+- (k)[^c-b433b947e0bfeef8261a4cfb71850861] Commission Implementing Decision (EU) 2019/1874 of 6 November 2019 on the adequacy of the competent authorities of the People’s Republic of China pursuant to [Directive 2006/43/EC](https://www.legislation.gov.uk/eudr/2006/0043) of the European Parliament and of the Council.
 
 ## Annotations
 
-[^key-89aeb699f7cfb15e20d6332c4ca0a748]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-89aeb699f7cfb15e20d6332c4ca0a748]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
-[^key-b433b947e0bfeef8261a4cfb71850861]: Textual amendment: Sch. 3 para. 1(k) inserted (31.12.2020 immediately before IP completion day) by [The International Accounting Standards, Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/335)](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/335/regulation/9)
+[^c-b433b947e0bfeef8261a4cfb71850861]: Textual amendment: Sch. 3 para. 1(k) inserted (31.12.2020 immediately before IP completion day) by [The International Accounting Standards, Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/335)](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/335/regulation/9)

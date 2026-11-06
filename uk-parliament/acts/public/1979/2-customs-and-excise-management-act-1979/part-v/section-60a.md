@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Power to make regulations about stores[^key-6382bbb0eee3413bd1c949240cd56d13]
+## 60A. Power to make regulations about stores[^c-6382bbb0eee3413bd1c949240cd56d13]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Commissioners may by regulations make provision in relation to goods for use on a ship, aircraft or railway vehicle[^key-0154bbfae031033ba219f826b72b7243] as stores.
+(1) The Commissioners may by regulations make provision in relation to goods for use on a ship, aircraft or railway vehicle[^c-0154bbfae031033ba219f826b72b7243] as stores.
 
 (2) The provision that may be made by regulations under subsection (1) includes—
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6382bbb0eee3413bd1c949240cd56d13]: Textual amendment: S. 60A inserted (17.7.2014 for specified purposes) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 21 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/3), [10](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/10)
+[^c-6382bbb0eee3413bd1c949240cd56d13]: Textual amendment: S. 60A inserted (17.7.2014 for specified purposes) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 21 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/3), [10](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/10)
 
-[^key-0154bbfae031033ba219f826b72b7243]: Textual amendment: Words in [s. 60A(1)](https://www.legislation.gov.uk/ukpga/1979/2/section/60A/1) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 62](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/62) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-0154bbfae031033ba219f826b72b7243]: Textual amendment: Words in [s. 60A(1)](https://www.legislation.gov.uk/ukpga/1979/2/section/60A/1) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 62](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/62) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

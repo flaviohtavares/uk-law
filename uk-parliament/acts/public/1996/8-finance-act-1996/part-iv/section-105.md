@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Commencement and transitional provisions.[^key-afdb1dc146c49171b8233892e3e1c890]
+## 105. Commencement and transitional provisions.[^c-afdb1dc146c49171b8233892e3e1c890]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afdb1dc146c49171b8233892e3e1c890]: Modification: Pt. 4 Ch. 2 modified (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 7 para. 14(5)-(7)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/7/paragraph/14/5)
+[^c-afdb1dc146c49171b8233892e3e1c890]: Modification: Pt. 4 Ch. 2 modified (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 7 para. 14(5)-(7)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/7/paragraph/14/5)

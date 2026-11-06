@@ -22,9 +22,9 @@ summary: ''
 
 Section 249
 
-**1.**[^key-99a22e30d722481b777c1cc916edb0ae][^key-5716f6e1e1d4674e1df54543a40c2c83] The Electricity Act 1989 is amended as follows.
+**1.**[^c-99a22e30d722481b777c1cc916edb0ae][^c-5716f6e1e1d4674e1df54543a40c2c83] The Electricity Act 1989 is amended as follows.
 
-**2.**[^key-28b51bc137e9b898c48255875685ea74][^key-12e0540d24c16607cb8cdd6c7cfcffd0] After section 56FB insert—
+**2.**[^c-28b51bc137e9b898c48255875685ea74][^c-12e0540d24c16607cb8cdd6c7cfcffd0] After section 56FB insert—
 
 > **56FBA. New licensable activities: load control of energy smart appliances**
 >
@@ -87,24 +87,24 @@ Section 249
 >
 > (4) Regulations under section 56FBA may not be made unless a draft of the statutory instrument containing them has been laid before, and approved by resolution of, each House of Parliament.
 
-**3.**[^key-020aa9ee72cf3e8fa7488fe6e107326b][^key-83d84f211b2b9d3ac82b24e96414f886] At the end of section 56FC(2) (competitive tenders: definition of “new licensable activities”), insert “or regulations under section 56FBA(1)(a)”.
+**3.**[^c-020aa9ee72cf3e8fa7488fe6e107326b][^c-83d84f211b2b9d3ac82b24e96414f886] At the end of section 56FC(2) (competitive tenders: definition of “new licensable activities”), insert “or regulations under section 56FBA(1)(a)”.
 
-**4.**[^key-a95c1eb12e134a9a66eea0282e17318e][^key-061d1d5dba7b19a8626d24e74b9f3c6f] In section 106(2)(a) (regulations and orders), after “State” insert “(other than regulations under section 56FBA)”.
+**4.**[^c-a95c1eb12e134a9a66eea0282e17318e][^c-061d1d5dba7b19a8626d24e74b9f3c6f] In section 106(2)(a) (regulations and orders), after “State” insert “(other than regulations under section 56FBA)”.
 
 ## Annotations
 
-[^key-99a22e30d722481b777c1cc916edb0ae]: Commencement: Sch. 19 para. 1 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-99a22e30d722481b777c1cc916edb0ae]: Commencement: Sch. 19 para. 1 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-5716f6e1e1d4674e1df54543a40c2c83]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2023/52/schedule/19/paragraph/1) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)
+[^c-5716f6e1e1d4674e1df54543a40c2c83]: Commencement: [Sch. 19 para. 1](https://www.legislation.gov.uk/ukpga/2023/52/schedule/19/paragraph/1) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)
 
-[^key-28b51bc137e9b898c48255875685ea74]: Commencement: Sch. 19 para. 2 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-28b51bc137e9b898c48255875685ea74]: Commencement: Sch. 19 para. 2 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-12e0540d24c16607cb8cdd6c7cfcffd0]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/19/paragraph/2) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)
+[^c-12e0540d24c16607cb8cdd6c7cfcffd0]: Commencement: [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/19/paragraph/2) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)
 
-[^key-020aa9ee72cf3e8fa7488fe6e107326b]: Commencement: Sch. 19 para. 3 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-020aa9ee72cf3e8fa7488fe6e107326b]: Commencement: Sch. 19 para. 3 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-83d84f211b2b9d3ac82b24e96414f886]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/19/paragraph/3) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)
+[^c-83d84f211b2b9d3ac82b24e96414f886]: Commencement: [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/19/paragraph/3) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)
 
-[^key-a95c1eb12e134a9a66eea0282e17318e]: Commencement: Sch. 19 para. 4 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-a95c1eb12e134a9a66eea0282e17318e]: Commencement: Sch. 19 para. 4 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-061d1d5dba7b19a8626d24e74b9f3c6f]: Commencement: [Sch. 19 para. 4](https://www.legislation.gov.uk/ukpga/2023/52/schedule/19/paragraph/4) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)
+[^c-061d1d5dba7b19a8626d24e74b9f3c6f]: Commencement: [Sch. 19 para. 4](https://www.legislation.gov.uk/ukpga/2023/52/schedule/19/paragraph/4) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)

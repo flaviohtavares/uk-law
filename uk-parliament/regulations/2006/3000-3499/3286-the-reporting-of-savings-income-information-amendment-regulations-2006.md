@@ -36,7 +36,7 @@ CORPORATION TAX
 
 iNCOME TAX
 
-The Reporting of Savings Income Information (Amendment) Regulations 2006 (revoked)[^key-cf17eb980b3161137b9e0e8c5a3129e6]
+The Reporting of Savings Income Information (Amendment) Regulations 2006 (revoked)[^c-cf17eb980b3161137b9e0e8c5a3129e6]
 
 Made
 
@@ -50,24 +50,24 @@ Coming into force
 
 1st January 2007
 
-[^key-cf17eb980b3161137b9e0e8c5a3129e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf17eb980b3161137b9e0e8c5a3129e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cf17eb980b3161137b9e0e8c5a3129e6]
+## 1. Citation and commencement[^c-cf17eb980b3161137b9e0e8c5a3129e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Reporting of Savings Income Information Regulations 2003[^key-cf17eb980b3161137b9e0e8c5a3129e6]
+## 2. Amendments to the Reporting of Savings Income Information Regulations 2003[^c-cf17eb980b3161137b9e0e8c5a3129e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf17eb980b3161137b9e0e8c5a3129e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf17eb980b3161137b9e0e8c5a3129e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cf17eb980b3161137b9e0e8c5a3129e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf17eb980b3161137b9e0e8c5a3129e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf17eb980b3161137b9e0e8c5a3129e6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/3286) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-cf17eb980b3161137b9e0e8c5a3129e6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/3286) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)

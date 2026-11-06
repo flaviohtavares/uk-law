@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Option for pension credit member to commute whole pension (serious ill-health)[^key-d22d4bfc2a45c4dde29a96ab69ce85e3]
+## 122. Option for pension credit member to commute whole pension (serious ill-health)[^c-d22d4bfc2a45c4dde29a96ab69ce85e3]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d22d4bfc2a45c4dde29a96ab69ce85e3]: Commencement: Reg. 122 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-d22d4bfc2a45c4dde29a96ab69ce85e3]: Commencement: Reg. 122 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

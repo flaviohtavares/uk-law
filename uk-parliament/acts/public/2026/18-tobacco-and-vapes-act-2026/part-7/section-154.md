@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Smoke-free vehicles in Wales[^key-db8163dc7806216060a5c7ae700339e9]
+## 154. Smoke-free vehicles in Wales[^c-db8163dc7806216060a5c7ae700339e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db8163dc7806216060a5c7ae700339e9]: Commencement: S. 154 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-db8163dc7806216060a5c7ae700339e9]: Commencement: S. 154 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)

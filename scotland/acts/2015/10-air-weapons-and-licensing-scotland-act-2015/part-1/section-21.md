@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Alignment of club approvals[^key-8feb0bb9943d9e10fa37929ba351e662]
+## 21. Alignment of club approvals[^c-8feb0bb9943d9e10fa37929ba351e662]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8feb0bb9943d9e10fa37929ba351e662]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2015/10/section/21) in force at 1.7.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))
+[^c-8feb0bb9943d9e10fa37929ba351e662]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2015/10/section/21) in force at 1.7.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 2](https://www.legislation.gov.uk/ssi/2016/130/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/130/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2016/130/article/5), [6](https://www.legislation.gov.uk/ssi/2016/130/article/6))

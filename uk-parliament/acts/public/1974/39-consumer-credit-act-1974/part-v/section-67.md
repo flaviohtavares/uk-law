@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Cancellable agreements.[^key-ecab1585656e87feb55f7694882cc845]
+## 67. Cancellable agreements.[^c-ecab1585656e87feb55f7694882cc845]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ecab1585656e87feb55f7694882cc845]: Modification: [Ss. 67-73](https://www.legislation.gov.uk/ukpga/1974/39/section/67) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-ecab1585656e87feb55f7694882cc845]: Modification: [Ss. 67-73](https://www.legislation.gov.uk/ukpga/1974/39/section/67) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
 [^c20968691]: Textual amendment: S. 67 renumbered as s. 67(1) and words inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 14(a)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/14/a), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
 

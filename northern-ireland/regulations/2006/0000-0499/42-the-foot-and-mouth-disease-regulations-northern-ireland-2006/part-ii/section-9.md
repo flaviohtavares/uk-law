@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Notice of suspicion of disease[^key-583d5c762d8adc58f7eecdedfa8afc77]
+## 9. Notice of suspicion of disease[^c-583d5c762d8adc58f7eecdedfa8afc77]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-583d5c762d8adc58f7eecdedfa8afc77]: Commencement: Reg. 9 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-583d5c762d8adc58f7eecdedfa8afc77]: Commencement: Reg. 9 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

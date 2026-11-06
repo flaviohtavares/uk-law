@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Amendment of regulation 71 (withdrawal of medicinal product from the market)[^key-966fed21abc13af11d0710b218c5dd69]
+## 80. Amendment of regulation 71 (withdrawal of medicinal product from the market)[^c-966fed21abc13af11d0710b218c5dd69]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
   > - (a) under regulation 68 the licensing authority revokes or suspends a UK marketing authorisation or parallel import licence; or
 
   ; and
-- (b)[^key-4428c1538ede924f4bcd715fadac067e] for sub-paragraph (b) substitute—
+- (b)[^c-4428c1538ede924f4bcd715fadac067e] for sub-paragraph (b) substitute—
 
   > - (b) under—
   >   - (i) regulation 69 the licensing authority suspends the use, sale, supply or offer for sale or supply within Great Britain of a product to which a UKMA(GB) relates; or
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-966fed21abc13af11d0710b218c5dd69]: Commencement: Reg. 80 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-966fed21abc13af11d0710b218c5dd69]: Commencement: Reg. 80 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884931]: Marginal citation: Regulation 71 was amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878).
 
-[^key-4428c1538ede924f4bcd715fadac067e]: Textual amendment: Reg. 80(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 58](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/58)
+[^c-4428c1538ede924f4bcd715fadac067e]: Textual amendment: Reg. 80(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 58](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/58)

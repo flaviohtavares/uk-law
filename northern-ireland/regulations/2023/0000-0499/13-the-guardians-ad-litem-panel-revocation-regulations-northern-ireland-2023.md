@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Health, in exercise of the powers conferred by Article 60(7) and (9) of the Children (Northern Ireland) Order 1995[^f00001] and Article 66A(1) and (2) of the Adoption (Northern Ireland) Order 1987[^f00002], makes the following Regulations:
 
-## 1. Citation and Commencement[^key-07f65d5d514e5c5237b5adb8f9fc2a1e]
+## 1. Citation and Commencement[^c-07f65d5d514e5c5237b5adb8f9fc2a1e]
 
 These Regulations may be cited as the Guardians Ad Litem (Panel) (Revocation) Regulations (Northern Ireland) 2023 and shall come into operation on 6th March 2023.
 
-## 2. Revocation[^key-66320a06d8a58ffb1a332849762dad86]
+## 2. Revocation[^c-66320a06d8a58ffb1a332849762dad86]
 
 The Guardians Ad Litem (Panel) Regulations (Northern Ireland) 1996[^f00003] are revoked.
 
@@ -70,8 +70,8 @@ Article 60(7) and (9) of the Children (Northern Ireland) Order 1995 and Article 
 
 [^f00002]: Footnote: [S.I. 1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203)
 
-[^key-07f65d5d514e5c5237b5adb8f9fc2a1e]: Commencement: Reg. 1 in operation at 6.3.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/13/regulation/1)
+[^c-07f65d5d514e5c5237b5adb8f9fc2a1e]: Commencement: Reg. 1 in operation at 6.3.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/13/regulation/1)
 
-[^key-66320a06d8a58ffb1a332849762dad86]: Commencement: Reg. 2 in operation at 6.3.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/13/regulation/1)
+[^c-66320a06d8a58ffb1a332849762dad86]: Commencement: Reg. 2 in operation at 6.3.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/13/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1996 No. 128](https://www.legislation.gov.uk/nisr/1996/128)

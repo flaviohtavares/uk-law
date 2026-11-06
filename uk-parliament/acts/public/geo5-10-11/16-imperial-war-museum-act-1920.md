@@ -50,7 +50,7 @@ An Act to make provision for the management of the Imperial War Museum and for o
 - (c) exchange, sell, or otherwise dispose of any duplicate objects belonging to the Museum, and with the consent of the Lord President of the Council exchange, sell, or otherwise dispose of any objects belonging to the Museum which the Board consider unfit to be preserved or not to be required for the purposes thereof;
 - (d) subject to the consent of the Lord President of the Council, apply any money received by them on the exchange, sale, or disposal of any objects, or on the sale or other disposition of any land[^c6445461], or by way of payment for admission to the Museum, or by way of gift or grant or otherwise, in the purchase of any object which in the opinion of the Board it is desirable to acquire for the Museum or otherwise in defraying any of the expenses of the Board;
 - (e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6445471]
-- (f)[^M_C_723dee02-8790-43c9-a8d7-f14915c09ad3] subject to the consent of the Secretary of State[^key-0f620654c9012cbd4b26bafd584604ed], appoint officers on such terms and subject to such conditions as the Board think fit;
+- (f)[^M_C_723dee02-8790-43c9-a8d7-f14915c09ad3] subject to the consent of the Secretary of State[^c-0f620654c9012cbd4b26bafd584604ed], appoint officers on such terms and subject to such conditions as the Board think fit;
 - (g) subject to the provisions of this Act, do such other things as appear to them necessary or expedient for furthering the interests and increasing the utility of the Museum.
 
 (2) The Board may allow premises occupied or managed by them to be used by other persons (for payment or otherwise) for purposes not connected with the Board’s functions, if the Board are satisfied that to do so would not unduly conflict with those functions.
@@ -97,7 +97,7 @@ An Act to make provision for the management of the Imperial War Museum and for o
 
 (2) In this Act the expression “**Imperial War Museum**” means the institution established in the year nineteen hundred and seventeen under the name of “the National War Museum” and known at the date of the passing of this Act by the name of the Imperial War Museum, and includes all collections, galleries and museums, wherever situate, which from time to time form or are administered as part of the Imperial War Museum.
 
-## SCHEDULE — Constitution and Proceedings of Board of Trustees[^key-1bbee720550c89ecba3aea3af068f07e]
+## SCHEDULE — Constitution and Proceedings of Board of Trustees[^c-1bbee720550c89ecba3aea3af068f07e]
 
 Section 1.
 
@@ -108,8 +108,8 @@ Section 1.
 | 10[^c6446211] | the Prime Minister |
 | [^c6446231]... | [^c6446231]... |
 | 1 | The Secretary of State for Defence |
-| 2 | The Secretary of State for Foreign, Commonwealth and Development Affairs[^key-32c8f7917ccf3df0632f4c310e99de59] |
-| 1 | The Secretary of State for Culture, Media and Sport[^key-9b858741922c2d852a63c6708ffa1dd2] |
+| 2 | The Secretary of State for Foreign, Commonwealth and Development Affairs[^c-32c8f7917ccf3df0632f4c310e99de59] |
+| 1 | The Secretary of State for Culture, Media and Sport[^c-9b858741922c2d852a63c6708ffa1dd2] |
 | [^c6446231]... | [^c6446231]... |
 | 1 | The Government of Canada |
 | 1 | The Government of Australia |
@@ -157,7 +157,7 @@ Section 1.
 
 [^M_C_723dee02-8790-43c9-a8d7-f14915c09ad3]: Modification: S. 2(1)(f) functions transferred (7.6.2011) by [The Transfer of Functions (Museum and Other Staff) Order 2011 (S.I. 2011/1213)](https://www.legislation.gov.uk/uksi/2011/1213), art. 2(a)
 
-[^key-0f620654c9012cbd4b26bafd584604ed]: Textual amendment: Words in [s. 2(1)(f)](https://www.legislation.gov.uk/ukpga/Geo5/10-11/16/section/2/1/f) substituted (7.6.2011) by [The Transfer of Functions (Museum and Other Staff) Order 2011 (S.I. 2011/1213)](https://www.legislation.gov.uk/uksi/2011/1213), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1213/article/1/2), [4(1)(a)](https://www.legislation.gov.uk/uksi/2011/1213/article/4/1/a)
+[^c-0f620654c9012cbd4b26bafd584604ed]: Textual amendment: Words in [s. 2(1)(f)](https://www.legislation.gov.uk/ukpga/Geo5/10-11/16/section/2/1/f) substituted (7.6.2011) by [The Transfer of Functions (Museum and Other Staff) Order 2011 (S.I. 2011/1213)](https://www.legislation.gov.uk/uksi/2011/1213), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1213/article/1/2), [4(1)(a)](https://www.legislation.gov.uk/uksi/2011/1213/article/4/1/a)
 
 [^c6445511]: Modification: [Ss. 2](https://www.legislation.gov.uk/ukpga/Geo5/10-11/16/section/2), [2A](https://www.legislation.gov.uk/ukpga/Geo5/10-11/16/section/2A), [3(2)](https://www.legislation.gov.uk/ukpga/Geo5/10-11/16/section/3/2), [4](https://www.legislation.gov.uk/ukpga/Geo5/10-11/16/section/4), [Sch.](https://www.legislation.gov.uk/ukpga/Geo5/10-11/16/schedule) para. (8): functions of the Lord President transferred to the Secretary of State (3. 7. 1992) by [S.I. 1992/1311](https://www.legislation.gov.uk/uksi/1992/1311), [art. 3(1)](https://www.legislation.gov.uk/uksi/1992/1311/article/3/1), [Sch. 1 Pt.I](https://www.legislation.gov.uk/uksi/1992/1311/schedule/1/part/I).
 
@@ -181,7 +181,7 @@ Section 1.
 
 [^c6445711]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Geo5/10-11/16/section/5) repealed (1.8.1993) by [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/1993/10/section/98/2), [99(1)](https://www.legislation.gov.uk/ukpga/1993/10/section/99/1), [Sch.7](https://www.legislation.gov.uk/ukpga/1993/10/schedule/7)
 
-[^key-1bbee720550c89ecba3aea3af068f07e]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/Geo5/10-11/16/schedule/1): functions transferred (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [13(1)](https://www.legislation.gov.uk/uksi/2023/424/article/13/1) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-1bbee720550c89ecba3aea3af068f07e]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/Geo5/10-11/16/schedule/1): functions transferred (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [13(1)](https://www.legislation.gov.uk/uksi/2023/424/article/13/1) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
 [^c6446181]: Modification: Power to vary para. 1 conferred by [Imperial War Museum Act 1955 (c. 14)](https://www.legislation.gov.uk/ukpga/1955/14), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1955/14/section/1/2)
 
@@ -195,9 +195,9 @@ Section 1.
 
 [^c6446231]: Textual amendment: Entries relating to the Treasury and the Secretary of State repealed by [S.I. 1988/253](https://www.legislation.gov.uk/uksi/1988/253), [art. 2](https://www.legislation.gov.uk/uksi/1988/253/article/2)
 
-[^key-32c8f7917ccf3df0632f4c310e99de59]: Textual amendment: Words in Sch. para. (1) table substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/2)
+[^c-32c8f7917ccf3df0632f4c310e99de59]: Textual amendment: Words in Sch. para. (1) table substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/2)
 
-[^key-9b858741922c2d852a63c6708ffa1dd2]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/ukpga/Geo5/10-11/16/schedule/paragraph/1) table substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/1) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-9b858741922c2d852a63c6708ffa1dd2]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/ukpga/Geo5/10-11/16/schedule/paragraph/1) table substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/1) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
 [^c6446281]: Textual amendment: Words in Sch. para. (1) table inserted (23.3.1995) by 1995 C. 3, s. 1, Sch. para. 2(1)(b)
 

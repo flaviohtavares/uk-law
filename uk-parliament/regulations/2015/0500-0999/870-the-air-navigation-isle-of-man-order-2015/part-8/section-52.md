@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Pilot to remain at controls and be secured in seat[^key-c089595e4117d301e332618e152c42ec]
+## 52. Pilot to remain at controls and be secured in seat[^c-c089595e4117d301e332618e152c42ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c089595e4117d301e332618e152c42ec]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2015/870/article/52) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-c089595e4117d301e332618e152c42ec]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2015/870/article/52) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

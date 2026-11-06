@@ -33,7 +33,7 @@ MERCHANT SHIPPING
 
 SAFETY
 
-The Merchant Shipping (Mandatory Surveys for Ro-Ro Ferry and High Speed Passenger Craft) Regulations 2001 (revoked)[^key-36194a5297794a30994f8cfae5630d23]
+The Merchant Shipping (Mandatory Surveys for Ro-Ro Ferry and High Speed Passenger Craft) Regulations 2001 (revoked)[^c-36194a5297794a30994f8cfae5630d23]
 
 Made
 
@@ -47,74 +47,74 @@ Coming into force
 
 16th February 2001
 
-[^key-36194a5297794a30994f8cfae5630d23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36194a5297794a30994f8cfae5630d23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-36194a5297794a30994f8cfae5630d23]
+## 1. Citation and commencement[^c-36194a5297794a30994f8cfae5630d23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-36194a5297794a30994f8cfae5630d23]
+## 2. Interpretation[^c-36194a5297794a30994f8cfae5630d23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-36194a5297794a30994f8cfae5630d23]
+## 3. Application[^c-36194a5297794a30994f8cfae5630d23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Verifications relating to vessels[^key-36194a5297794a30994f8cfae5630d23]
+## 4. Verifications relating to vessels[^c-36194a5297794a30994f8cfae5630d23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Operating companies and flag States[^key-36194a5297794a30994f8cfae5630d23]
+## 5. Operating companies and flag States[^c-36194a5297794a30994f8cfae5630d23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Initial specific surveys[^key-36194a5297794a30994f8cfae5630d23]
+## 6. Initial specific surveys[^c-36194a5297794a30994f8cfae5630d23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Exemptions from regulations 4 to 6[^key-36194a5297794a30994f8cfae5630d23]
+## 7. Exemptions from regulations 4 to 6[^c-36194a5297794a30994f8cfae5630d23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Regular specific surveys and additional surveys[^key-36194a5297794a30994f8cfae5630d23]
+## 8. Regular specific surveys and additional surveys[^c-36194a5297794a30994f8cfae5630d23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Prevention of Operation notice[^key-36194a5297794a30994f8cfae5630d23]
+## 9. Prevention of Operation notice[^c-36194a5297794a30994f8cfae5630d23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Reports of inspection[^key-36194a5297794a30994f8cfae5630d23]
+## 10. Reports of inspection[^c-36194a5297794a30994f8cfae5630d23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Improvement notices[^key-36194a5297794a30994f8cfae5630d23]
+## 11. Improvement notices[^c-36194a5297794a30994f8cfae5630d23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Costs of issuing prevention of operation notices[^key-36194a5297794a30994f8cfae5630d23]
+## 12. Costs of issuing prevention of operation notices[^c-36194a5297794a30994f8cfae5630d23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Administrative duties of the Maritime and Coastguard Agency[^key-36194a5297794a30994f8cfae5630d23]
+## 13. Administrative duties of the Maritime and Coastguard Agency[^c-36194a5297794a30994f8cfae5630d23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Shore-based navigational systems[^key-36194a5297794a30994f8cfae5630d23]
+## 14. Shore-based navigational systems[^c-36194a5297794a30994f8cfae5630d23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Accident investigation[^key-36194a5297794a30994f8cfae5630d23]
+## 15. Accident investigation[^c-36194a5297794a30994f8cfae5630d23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-36194a5297794a30994f8cfae5630d23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36194a5297794a30994f8cfae5630d23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-36194a5297794a30994f8cfae5630d23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36194a5297794a30994f8cfae5630d23]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-36194a5297794a30994f8cfae5630d23]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/152) revoked (5.10.2023) by [The Merchant Shipping (Inspections of Ro-Ro Passenger Ships and High-Speed Passenger Craft) Regulations 2023 (S.I. 2023/984)](https://www.legislation.gov.uk/uksi/2023/984), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1), [11(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/11/1)
+[^c-36194a5297794a30994f8cfae5630d23]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/152) revoked (5.10.2023) by [The Merchant Shipping (Inspections of Ro-Ro Passenger Ships and High-Speed Passenger Craft) Regulations 2023 (S.I. 2023/984)](https://www.legislation.gov.uk/uksi/2023/984), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/1/1), [11(1)](https://www.legislation.gov.uk/uksi/2023/984/regulation/11/1)

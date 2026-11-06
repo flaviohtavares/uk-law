@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1DA. Dilution to reduce concentration of radioactivity: Northern Ireland[^key-80ae7b7973613d30837eaa1a1b5ff757]
+## 1DA. Dilution to reduce concentration of radioactivity: Northern Ireland[^c-80ae7b7973613d30837eaa1a1b5ff757]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of section 1B, 1C and 1D, a substance or article is to be treat
 
 ## Annotations
 
-[^key-80ae7b7973613d30837eaa1a1b5ff757]: Textual amendment: S. 1DA inserted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2018/116/regulation/2/2/b)
+[^c-80ae7b7973613d30837eaa1a1b5ff757]: Textual amendment: S. 1DA inserted (N.I.) (1.6.2018) by [The Radioactive Substances (Modification of Enactments) Regulations (Northern Ireland) 2018 (S.R. 2018/116)](https://www.legislation.gov.uk/nisr/2018/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/116/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2018/116/regulation/2/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Disposals to trustees of employee trusts[^key-bc2eb34cc93aad618e32831c62869f7c]
+## 239. Disposals to trustees of employee trusts[^c-bc2eb34cc93aad618e32831c62869f7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,18 +60,18 @@ and in determining whether the trusts permit property to be applied as mentioned
 - (i) of any power to make a payment which is the income of any person for any of the purposes of income tax, or would be the income for any of those purposes of a person not resident in the United Kingdom if he were so resident, or
   - (ii) if the trusts are those of a profit sharing scheme approved under Schedule 9 to the Taxes Act of any power to appropriate shares in pursuance of the scheme.
 
-(7) In subsection (4) above “**subsidiary**” has the meaning given by section 1159 of and Schedule 6 to[^key-842ca43789f8c45557e370f67927bc32] the Companies Act 2006 and in subsections (5) and (6) above “**participator**” has the meaning given by section 454 of CTA 2010[^key-b0be2c0999c7388e933841ec5964cbe8], except that it does not include a loan creditor.
+(7) In subsection (4) above “**subsidiary**” has the meaning given by section 1159 of and Schedule 6 to[^c-842ca43789f8c45557e370f67927bc32] the Companies Act 2006 and in subsections (5) and (6) above “**participator**” has the meaning given by section 454 of CTA 2010[^c-b0be2c0999c7388e933841ec5964cbe8], except that it does not include a loan creditor.
 
 (8) In this section “**close company**” includes a company which, if resident in the United Kingdom, would be a close company as defined in section 288.
 
 ## Annotations
 
-[^key-bc2eb34cc93aad618e32831c62869f7c]: Textual amendment: S. 239 heading substituted (with effect in accordance with art. 11(4) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2009 (S.I. 2009/730)](https://www.legislation.gov.uk/uksi/2009/730), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/730/article/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2009/730/article/11/2)
+[^c-bc2eb34cc93aad618e32831c62869f7c]: Textual amendment: S. 239 heading substituted (with effect in accordance with art. 11(4) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2009 (S.I. 2009/730)](https://www.legislation.gov.uk/uksi/2009/730), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/730/article/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2009/730/article/11/2)
 
 [^c2138405]: Marginal citation: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51).
 
 [^c2138406]: Marginal citation: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51).
 
-[^key-842ca43789f8c45557e370f67927bc32]: Textual amendment: Words in s. 239(7) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(1)(i)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/1/i)
+[^c-842ca43789f8c45557e370f67927bc32]: Textual amendment: Words in s. 239(7) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(1)(i)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/1/i)
 
-[^key-b0be2c0999c7388e933841ec5964cbe8]: Textual amendment: Words in s. 239(7) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 253](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/253) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b0be2c0999c7388e933841ec5964cbe8]: Textual amendment: Words in s. 239(7) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 253](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/253) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

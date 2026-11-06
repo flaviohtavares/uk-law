@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Review of Act[^key-aa6d18b1d068a57103387ac5ba1d2cc0]
+## 73. Review of Act[^c-aa6d18b1d068a57103387ac5ba1d2cc0]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa6d18b1d068a57103387ac5ba1d2cc0]: Commencement: [S. 73](https://www.legislation.gov.uk/anaw/2019/3/section/73) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-aa6d18b1d068a57103387ac5ba1d2cc0]: Commencement: [S. 73](https://www.legislation.gov.uk/anaw/2019/3/section/73) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

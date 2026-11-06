@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Payments by and to returning officers[^key-e318f7dfd7d40938161972587d7636eb]
+## 18. Payments by and to returning officers[^c-e318f7dfd7d40938161972587d7636eb]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e318f7dfd7d40938161972587d7636eb]: Commencement: Art. 18 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-e318f7dfd7d40938161972587d7636eb]: Commencement: Art. 18 in force at 16.12.2015 in accordance with art. 1(1)

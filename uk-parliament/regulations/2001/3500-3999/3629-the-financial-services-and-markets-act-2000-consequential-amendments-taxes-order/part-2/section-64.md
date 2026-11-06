@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Commodity and financial futures etc.[^key-fc2377e0f42c4567f4f700bcad42a325]
+## 64. Commodity and financial futures etc.[^c-fc2377e0f42c4567f4f700bcad42a325]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc2377e0f42c4567f4f700bcad42a325]: Commencement: Art. 64 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-fc2377e0f42c4567f4f700bcad42a325]: Commencement: Art. 64 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00085]: Footnote: Section 143 was relevantly amended by section 95 of the Finance Act 1995.

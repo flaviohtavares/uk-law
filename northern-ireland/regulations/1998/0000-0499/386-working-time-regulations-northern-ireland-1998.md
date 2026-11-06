@@ -30,7 +30,7 @@ summary: ''
 
 EMPLOYMENT
 
-Working Time Regulations (Northern Ireland) 1998 (revoked)[^key-5fb7d116cedbec48831747ea15a0d0c2]
+Working Time Regulations (Northern Ireland) 1998 (revoked)[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 Made
 
@@ -40,210 +40,210 @@ Coming into operation
 
 23rd November 1998
 
-[^key-5fb7d116cedbec48831747ea15a0d0c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fb7d116cedbec48831747ea15a0d0c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Part I — General[^key-5fb7d116cedbec48831747ea15a0d0c2]
+## Part I — General[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
-### 1. Citation and commencement[^key-5fb7d116cedbec48831747ea15a0d0c2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 1. Citation and commencement[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part II — Rights and Obligations Concerning Working Time[^key-5fb7d116cedbec48831747ea15a0d0c2]
-
-### 3. General[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 2. Interpretation[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Maximum weekly working time[^key-5fb7d116cedbec48831747ea15a0d0c2]
+## Part II — Rights and Obligations Concerning Working Time[^c-5fb7d116cedbec48831747ea15a0d0c2]
+
+### 3. General[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Agreement to exclude the maximum[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 4. Maximum weekly working time[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Length of night work[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 5. Agreement to exclude the maximum[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Health assessment and transfer of night workers to day work[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 6. Length of night work[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Pattern of work[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 7. Health assessment and transfer of night workers to day work[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Records[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 8. Pattern of work[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Daily rest period[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 9. Records[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Weekly rest period[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 10. Daily rest period[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Rest breaks[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 11. Weekly rest period[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Entitlement to annual leave[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 12. Rest breaks[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Compensation related to entitlement to leave[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 13. Entitlement to annual leave[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Dates on which leave is taken[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 14. Compensation related to entitlement to leave[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Payment in respect of periods of leave[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 15. Dates on which leave is taken[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Entitlements under other provisions[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 16. Payment in respect of periods of leave[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part III — Exceptions[^key-5fb7d116cedbec48831747ea15a0d0c2]
-
-### 18. Excluded sectors[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 17. Entitlements under other provisions[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Domestic service[^key-5fb7d116cedbec48831747ea15a0d0c2]
+## Part III — Exceptions[^c-5fb7d116cedbec48831747ea15a0d0c2]
+
+### 18. Excluded sectors[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Unmeasured working time[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 19. Domestic service[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Other special cases[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 20. Unmeasured working time[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Shift workers[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 21. Other special cases[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Collective and workforce agreements[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 22. Shift workers[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Compensatory rest[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 23. Collective and workforce agreements[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Workers in the armed forces[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 24. Compensatory rest[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Young workers employed on ships[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 25. Workers in the armed forces[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Young workers: force majeure[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 26. Young workers employed on ships[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part IV — Miscellaneous[^key-5fb7d116cedbec48831747ea15a0d0c2]
-
-### 28. Enforcement[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 27. Young workers: force majeure[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Offences[^key-5fb7d116cedbec48831747ea15a0d0c2]
+## Part IV — Miscellaneous[^c-5fb7d116cedbec48831747ea15a0d0c2]
+
+### 28. Enforcement[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Remedies[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 29. Offences[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Right not to suffer detriment[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 30. Remedies[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Unfair dismissal[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 31. Right not to suffer detriment[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Conciliation[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 32. Unfair dismissal[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Restrictions on contracting out[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 33. Conciliation[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part V — Special Classes of Person[^key-5fb7d116cedbec48831747ea15a0d0c2]
-
-### 35. Agency workers not otherwise “workers”[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 34. Restrictions on contracting out[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Crown employment[^key-5fb7d116cedbec48831747ea15a0d0c2]
+## Part V — Special Classes of Person[^c-5fb7d116cedbec48831747ea15a0d0c2]
+
+### 35. Agency workers not otherwise “workers”[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 37. Armed forces[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 36. Crown employment[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 38. Police service[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 37. Armed forces[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 39. Non-employed trainees[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 38. Police service[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 40. Agricultural workers[^key-5fb7d116cedbec48831747ea15a0d0c2]
+### 39. Non-employed trainees[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5fb7d116cedbec48831747ea15a0d0c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 40. Agricultural workers[^c-5fb7d116cedbec48831747ea15a0d0c2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5fb7d116cedbec48831747ea15a0d0c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Workforce Agreements[^key-5fb7d116cedbec48831747ea15a0d0c2]
+## SCHEDULE 1 — Workforce Agreements[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 Regulation 2
 
-**1.**[^key-5fb7d116cedbec48831747ea15a0d0c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5fb7d116cedbec48831747ea15a0d0c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5fb7d116cedbec48831747ea15a0d0c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5fb7d116cedbec48831747ea15a0d0c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5fb7d116cedbec48831747ea15a0d0c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5fb7d116cedbec48831747ea15a0d0c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Workers employed in Agriculture[^key-5fb7d116cedbec48831747ea15a0d0c2]
+## SCHEDULE 2 — Workers employed in Agriculture[^c-5fb7d116cedbec48831747ea15a0d0c2]
 
 Regulations 13(4), 15(6) and 40
 
-**1.**[^key-5fb7d116cedbec48831747ea15a0d0c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5fb7d116cedbec48831747ea15a0d0c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5fb7d116cedbec48831747ea15a0d0c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5fb7d116cedbec48831747ea15a0d0c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5fb7d116cedbec48831747ea15a0d0c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5fb7d116cedbec48831747ea15a0d0c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5fb7d116cedbec48831747ea15a0d0c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fb7d116cedbec48831747ea15a0d0c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5fb7d116cedbec48831747ea15a0d0c2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/386) revoked (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/1/a) (with [regs. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1), [54(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/2)[(3)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/3))
+[^c-5fb7d116cedbec48831747ea15a0d0c2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/386) revoked (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [54(1)(a)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/1/a) (with [regs. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1), [54(2)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/2)[(3)](https://www.legislation.gov.uk/nisr/2016/49/regulation/54/3))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.R. made prior to its final revocation. A revised version of how the S.R. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

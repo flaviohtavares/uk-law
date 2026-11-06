@@ -35,7 +35,7 @@ For the purposes of this Schedule, a retention arrangement is one under which—
 
 (2) A person who, pursuant to the retention arrangement referred to in sub-paragraph (1) is, on or after 2nd April 2014 engaged by the other body to perform services pursuant to the qualifying contract referred to in that sub-paragraph, may not contribute to or accrue pensionable service under this scheme in respect of the performance of any services under that contract.
 
-(3) A person who on, or after, 2nd April 2014 and[^key-d9c37e138e7c7e3fda1ee41d3e3cbbb6] pursuant to a retention arrangement (other than the one referred to in sub-paragraph (1)) is engaged by the other body to perform services pursuant to a qualifying contract, may not contribute to or accrue pensionable service under this scheme in respect of the performance of any services under that contract.
+(3) A person who on, or after, 2nd April 2014 and[^c-d9c37e138e7c7e3fda1ee41d3e3cbbb6] pursuant to a retention arrangement (other than the one referred to in sub-paragraph (1)) is engaged by the other body to perform services pursuant to a qualifying contract, may not contribute to or accrue pensionable service under this scheme in respect of the performance of any services under that contract.
 
 ### 3. Exceptions
 
@@ -51,4 +51,4 @@ References in this Schedule to a qualifying contract must be construed in accord
 
 ## Annotations
 
-[^key-d9c37e138e7c7e3fda1ee41d3e3cbbb6]: Textual amendment: Words in [Sch. 8 para. 2(3)](https://www.legislation.gov.uk/uksi/2015/94/schedule/8/paragraph/2/3) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [45](https://www.legislation.gov.uk/uksi/2017/275/regulation/45)
+[^c-d9c37e138e7c7e3fda1ee41d3e3cbbb6]: Textual amendment: Words in [Sch. 8 para. 2(3)](https://www.legislation.gov.uk/uksi/2015/94/schedule/8/paragraph/2/3) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [45](https://www.legislation.gov.uk/uksi/2017/275/regulation/45)

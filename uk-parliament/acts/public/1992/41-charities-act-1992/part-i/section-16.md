@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Common deposit funds.[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]
+## 16. Common deposit funds.[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68d0b2d8dc2e8aed043db1d3ee2b8464]: Textual amendment: [Pt. I](https://www.legislation.gov.uk/ukpga/1992/41/part/I) repealed (1.4.2008) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/50/schedule/9) (with [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/2006/50/schedule/10/paragraph/29)); [S.I. 2008/945](https://www.legislation.gov.uk/uksi/2008/945), [art. 2](https://www.legislation.gov.uk/uksi/2008/945/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/945/schedule/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2008/945/article/9))
+[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]: Textual amendment: [Pt. I](https://www.legislation.gov.uk/ukpga/1992/41/part/I) repealed (1.4.2008) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/2006/50/schedule/9) (with [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/2006/50/schedule/10/paragraph/29)); [S.I. 2008/945](https://www.legislation.gov.uk/uksi/2008/945), [art. 2](https://www.legislation.gov.uk/uksi/2008/945/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/945/schedule/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2008/945/article/9))

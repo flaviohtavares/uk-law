@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Recovery of costs of new connections[^key-5276e737efd9525be60c0a79e1651e1c]
+## 44. Recovery of costs of new connections[^c-5276e737efd9525be60c0a79e1651e1c]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ shall be entitled to recover from the undertaker compensation in respect of expe
 
 ## Annotations
 
-[^key-5276e737efd9525be60c0a79e1651e1c]: Commencement: Art. 44 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-5276e737efd9525be60c0a79e1651e1c]: Commencement: Art. 44 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
 [^f00029]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21). There are amendments to section 151 that are not relevant to this Order.

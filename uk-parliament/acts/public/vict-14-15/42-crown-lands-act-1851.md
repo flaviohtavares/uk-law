@@ -41,7 +41,7 @@ Her Majesty’s Principal Secretaries of State for the time being, and the Presi
 
 ## 16—20. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c565010]
 
-## 21. Commissioners of Works, &c. to perform the duties formerly performed by Surveyor General.[^c565011][^key-f7ce2143397129888943e0a41e4e649e]
+## 21. Commissioners of Works, &c. to perform the duties formerly performed by Surveyor General.[^c565011][^c-f7ce2143397129888943e0a41e4e649e]
 
 All the duties and powers which would have been performed and exercised by the Surveyor General of Her Majesty’s Works and Public Buildings if the [^c565012]Crown Lands Act 1832 had not been passed, and the exemptions and privileges which would have been enjoyed by the said Surveyor General if such Act had not been passed, so far as such duties and powers, exemptions and privileges, are not inconsistent with the enactments of this Act, shall be performed, exercised, and enjoyed by such Commissioners of Works; and all Acts of Parliament, deeds, and other instruments, in which the Surveyor General of Works and Public Buildings is mentioned, so far as the said deeds and instruments are now in force, and so far as the enactments of the said Acts are not inconsistent with the enactments of this Act, shall apply to the Commissioners of Works, as if such Commissioners of Works had been originally named or mentioned in such Acts of Parliament, or named or mentioned in or made parties to such deeds and instruments respectively, instead of such Surveyor General.
 
@@ -107,7 +107,7 @@ Provided always, that all such houses, gardens, and portions of ground within an
 
     [S. 21](https://www.legislation.gov.uk/ukpga/Vict/14-15/42/section/21): power to delegate functions conferred (E.W.S.) (10.2.1998) by [S.I. 1998/215](https://www.legislation.gov.uk/uksi/1998/215), [art. 2](https://www.legislation.gov.uk/uksi/1998/215/article/2)
 
-[^key-f7ce2143397129888943e0a41e4e649e]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/Vict/14-15/42/section/21) restricted (1.4.2012) by [Sovereign Grant Act 2011 (c. 15)](https://www.legislation.gov.uk/ukpga/2011/15), [ss. 11](https://www.legislation.gov.uk/ukpga/2011/15/section/11), [15(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/15/1) (as continued (11.9.2022) by [The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954)](https://www.legislation.gov.uk/uksi/2022/954), [arts. 1](https://www.legislation.gov.uk/uksi/2022/954/article/1), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
+[^c-f7ce2143397129888943e0a41e4e649e]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/Vict/14-15/42/section/21) restricted (1.4.2012) by [Sovereign Grant Act 2011 (c. 15)](https://www.legislation.gov.uk/ukpga/2011/15), [ss. 11](https://www.legislation.gov.uk/ukpga/2011/15/section/11), [15(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/15/1) (as continued (11.9.2022) by [The Sovereign Grant Act 2011 (Duration of Sovereign Grant Provisions) Order 2022 (S.I. 2022/954)](https://www.legislation.gov.uk/uksi/2022/954), [arts. 1](https://www.legislation.gov.uk/uksi/2022/954/article/1), [2](https://www.legislation.gov.uk/uksi/2022/954/article/2)
 
 [^c565012]: Marginal citation: [1832 c. 1](https://www.legislation.gov.uk/ukpga/1832/1)
 

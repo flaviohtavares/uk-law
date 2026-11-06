@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Football governance statement[^key-e805fbea6fd764ac44310fcfc0dd992f]
+## 11. Football governance statement[^c-e805fbea6fd764ac44310fcfc0dd992f]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e805fbea6fd764ac44310fcfc0dd992f]: Commencement: S. 11 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)
+[^c-e805fbea6fd764ac44310fcfc0dd992f]: Commencement: S. 11 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)

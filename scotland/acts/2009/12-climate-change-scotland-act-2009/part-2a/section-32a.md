@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32A. Citizens assembly[^key-d55db9371d69187abeca04841a9a22a1]
+## 32A. Citizens assembly[^c-d55db9371d69187abeca04841a9a22a1]
 
 *Extent: S*
 
@@ -48,17 +48,17 @@ summary: ''
 
 (10) The citizens assembly is to—
 
-- (a) lay its report before the Scottish Parliament under subsection (8)(b) by 28 February 2021 or, if it is unable to lay the report by that date for a reason relating to coronavirus, as soon as reasonably practicable after that date[^key-c426614fc484a9cecfee7eb569e2a810],
-- (b) complete its consideration of the matters mentioned in subsection (5)(a) by the date on which its report is so laid[^key-35b4ebd5a651120fa471de57f79f3703].
+- (a) lay its report before the Scottish Parliament under subsection (8)(b) by 28 February 2021 or, if it is unable to lay the report by that date for a reason relating to coronavirus, as soon as reasonably practicable after that date[^c-c426614fc484a9cecfee7eb569e2a810],
+- (b) complete its consideration of the matters mentioned in subsection (5)(a) by the date on which its report is so laid[^c-35b4ebd5a651120fa471de57f79f3703].
 
-(11)[^key-ea903199fc8fcc8bdc332ff3cc56b899] In subsection (10)(a), “coronavirus” has the meaning given by section 1 of the Coronavirus (Scotland) Act 2020.
+(11)[^c-ea903199fc8fcc8bdc332ff3cc56b899] In subsection (10)(a), “coronavirus” has the meaning given by section 1 of the Coronavirus (Scotland) Act 2020.
 
 ## Annotations
 
-[^key-d55db9371d69187abeca04841a9a22a1]: Textual amendment: Pt. 2A inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 9](https://www.legislation.gov.uk/asp/2019/15/section/9), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-d55db9371d69187abeca04841a9a22a1]: Textual amendment: Pt. 2A inserted (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 9](https://www.legislation.gov.uk/asp/2019/15/section/9), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
 
-[^key-c426614fc484a9cecfee7eb569e2a810]: Textual amendment: Words in s. 32A(10)(a) inserted (27.5.2020) by [Coronavirus (Scotland) (No.2) Act 2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10), [s. 16(1)](https://www.legislation.gov.uk/asp/2020/10/section/16/1), [sch. 3 para. 1(3)(a)](https://www.legislation.gov.uk/asp/2020/10/schedule/3/paragraph/1/3/a) (with [s. 9](https://www.legislation.gov.uk/asp/2020/10/section/9))
+[^c-c426614fc484a9cecfee7eb569e2a810]: Textual amendment: Words in s. 32A(10)(a) inserted (27.5.2020) by [Coronavirus (Scotland) (No.2) Act 2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10), [s. 16(1)](https://www.legislation.gov.uk/asp/2020/10/section/16/1), [sch. 3 para. 1(3)(a)](https://www.legislation.gov.uk/asp/2020/10/schedule/3/paragraph/1/3/a) (with [s. 9](https://www.legislation.gov.uk/asp/2020/10/section/9))
 
-[^key-35b4ebd5a651120fa471de57f79f3703]: Textual amendment: Words in s. 32A(10)(b) substituted (27.5.2020) by [Coronavirus (Scotland) (No.2) Act 2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10), [s. 16(1)](https://www.legislation.gov.uk/asp/2020/10/section/16/1), [sch. 3 para. 1(3)(b)](https://www.legislation.gov.uk/asp/2020/10/schedule/3/paragraph/1/3/b) (with [s. 9](https://www.legislation.gov.uk/asp/2020/10/section/9))
+[^c-35b4ebd5a651120fa471de57f79f3703]: Textual amendment: Words in s. 32A(10)(b) substituted (27.5.2020) by [Coronavirus (Scotland) (No.2) Act 2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10), [s. 16(1)](https://www.legislation.gov.uk/asp/2020/10/section/16/1), [sch. 3 para. 1(3)(b)](https://www.legislation.gov.uk/asp/2020/10/schedule/3/paragraph/1/3/b) (with [s. 9](https://www.legislation.gov.uk/asp/2020/10/section/9))
 
-[^key-ea903199fc8fcc8bdc332ff3cc56b899]: Textual amendment: S. 32A(11) inserted (27.5.2020) by [Coronavirus (Scotland) (No.2) Act 2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10), [s. 16(1)](https://www.legislation.gov.uk/asp/2020/10/section/16/1), [sch. 3 para. 1(3)(c)](https://www.legislation.gov.uk/asp/2020/10/schedule/3/paragraph/1/3/c) (with [s. 9](https://www.legislation.gov.uk/asp/2020/10/section/9))
+[^c-ea903199fc8fcc8bdc332ff3cc56b899]: Textual amendment: S. 32A(11) inserted (27.5.2020) by [Coronavirus (Scotland) (No.2) Act 2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10), [s. 16(1)](https://www.legislation.gov.uk/asp/2020/10/section/16/1), [sch. 3 para. 1(3)(c)](https://www.legislation.gov.uk/asp/2020/10/schedule/3/paragraph/1/3/c) (with [s. 9](https://www.legislation.gov.uk/asp/2020/10/section/9))

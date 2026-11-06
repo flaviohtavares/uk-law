@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Annulment etc. of overseas or Hague Convention adoptions[^key-b0de619b21f7eb025e8e68a36e1a0e5d]
+## 89. Annulment etc. of overseas or Hague Convention adoptions[^c-b0de619b21f7eb025e8e68a36e1a0e5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0de619b21f7eb025e8e68a36e1a0e5d]: Commencement: S. 89 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/f) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-b0de619b21f7eb025e8e68a36e1a0e5d]: Commencement: S. 89 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/f) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

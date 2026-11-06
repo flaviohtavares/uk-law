@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Equal opportunities[^key-b993f4839d61f32bfa768a8b26055edb]
+## 51. Equal opportunities[^c-b993f4839d61f32bfa768a8b26055edb]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ Before section 271 of the principal Act insert—
 
 ## Annotations
 
-[^key-b993f4839d61f32bfa768a8b26055edb]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2006/17/section/51) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-b993f4839d61f32bfa768a8b26055edb]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2006/17/section/51) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

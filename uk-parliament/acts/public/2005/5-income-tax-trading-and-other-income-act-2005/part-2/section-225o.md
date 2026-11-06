@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225O. Relief for reimbursement expenditure under abandonment guarantees[^key-416a2085692d4aea885b68bff9b5f08b][^key-63626370b916f5445aaacd1e1f80434f]
+## 225O. Relief for reimbursement expenditure under abandonment guarantees[^c-416a2085692d4aea885b68bff9b5f08b][^c-63626370b916f5445aaacd1e1f80434f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-416a2085692d4aea885b68bff9b5f08b]: Textual amendment: S. 225O omitted (with effect in accordance with Sch. 31 para. 23 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 6(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/6/3)
+[^c-416a2085692d4aea885b68bff9b5f08b]: Textual amendment: S. 225O omitted (with effect in accordance with Sch. 31 para. 23 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 31 para. 6(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/31/paragraph/6/3)
 
-[^key-63626370b916f5445aaacd1e1f80434f]: Textual amendment: Pt. 2 Ch. 16A inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/1/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-63626370b916f5445aaacd1e1f80434f]: Textual amendment: Pt. 2 Ch. 16A inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/1/paragraph/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

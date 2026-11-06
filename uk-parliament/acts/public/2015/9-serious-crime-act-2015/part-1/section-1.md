@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Determination of extent of defendant's interest in property[^key-55d7d46693da49911a96739f9bf75f43]
+## 1. Determination of extent of defendant's interest in property[^c-55d7d46693da49911a96739f9bf75f43]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ After section 10 of the Proceeds of Crime Act 2002 insert—
 
 ## Annotations
 
-[^key-55d7d46693da49911a96739f9bf75f43]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/9/section/1) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/a)
+[^c-55d7d46693da49911a96739f9bf75f43]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/9/section/1) in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/a)

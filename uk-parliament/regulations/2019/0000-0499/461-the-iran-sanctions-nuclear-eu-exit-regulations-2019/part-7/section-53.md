@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. General trade licences: inspection of records[^key-63666b294813834b64744e65c393eded][^key-e24235c062d163e4c41ae780844e0da9]
+## 53. General trade licences: inspection of records[^c-63666b294813834b64744e65c393eded][^c-e24235c062d163e4c41ae780844e0da9]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-63666b294813834b64744e65c393eded]: Commencement: Reg. 53 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-63666b294813834b64744e65c393eded]: Commencement: Reg. 53 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-e24235c062d163e4c41ae780844e0da9]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2019/461/regulation/53) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e24235c062d163e4c41ae780844e0da9]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2019/461/regulation/53) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

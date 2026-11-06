@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79A. Licensing of drivers of taxis[^key-1b765589243f3549b6a48ab6deb1723f]
+## 79A. Licensing of drivers of taxis[^c-1b765589243f3549b6a48ab6deb1723f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b765589243f3549b6a48ab6deb1723f]: Textual amendment: Art. 79A repealed (31.10.2014) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59), [Sch. 3](https://www.legislation.gov.uk/nia/2008/4/schedule/3); [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/1)
+[^c-1b765589243f3549b6a48ab6deb1723f]: Textual amendment: Art. 79A repealed (31.10.2014) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59), [Sch. 3](https://www.legislation.gov.uk/nia/2008/4/schedule/3); [S.R. 2014/238](https://www.legislation.gov.uk/nisr/2014/238), [art. 2(2)](https://www.legislation.gov.uk/nisr/2014/238/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2014/238/schedule/1)

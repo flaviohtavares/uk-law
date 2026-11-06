@@ -35,32 +35,32 @@ on the reorganization of the Joint Research Centre
 
 (96/282/Euratom) (revoked)
 
-[^key-0094c71904b01b0760b4cad104469b20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0094c71904b01b0760b4cad104469b20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-0094c71904b01b0760b4cad104469b20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0094c71904b01b0760b4cad104469b20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0094c71904b01b0760b4cad104469b20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0094c71904b01b0760b4cad104469b20]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-0094c71904b01b0760b4cad104469b20]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

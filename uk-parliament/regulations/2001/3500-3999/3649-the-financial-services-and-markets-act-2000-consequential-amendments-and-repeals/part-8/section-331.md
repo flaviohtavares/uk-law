@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 331. Repeal of spent provision[^key-24a11f70a48c49adf8e5fbef1d35373a]
+## 331. Repeal of spent provision[^c-24a11f70a48c49adf8e5fbef1d35373a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Paragraph 22 of Schedule 3 to the Local Government Act 1992 (minor and consequen
 
 ## Annotations
 
-[^key-24a11f70a48c49adf8e5fbef1d35373a]: Commencement: Art. 331 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-24a11f70a48c49adf8e5fbef1d35373a]: Commencement: Art. 331 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

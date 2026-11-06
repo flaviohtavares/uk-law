@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 17AA. Offshore wind turbines registered for longer than 20 years[^key-da40767d2a15fcc217996ae6a047ea15]
+## 17AA. Offshore wind turbines registered for longer than 20 years[^c-da40767d2a15fcc217996ae6a047ea15]
 
 (1) This article applies in relation to the issue of SROCs in respect of the generation of electricity using a registered offshore wind turbine.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da40767d2a15fcc217996ae6a047ea15]: Textual amendment: Arts. 17AA, 17AB inserted (1.4.2011) by [The Renewables Obligation (Scotland) Amendment Order 2011 (S.S.I. 2011/225)](https://www.legislation.gov.uk/ssi/2011/225), [arts. 1](https://www.legislation.gov.uk/ssi/2011/225/article/1), [8](https://www.legislation.gov.uk/ssi/2011/225/article/8) (with [art. 19](https://www.legislation.gov.uk/ssi/2011/225/article/19))
+[^c-da40767d2a15fcc217996ae6a047ea15]: Textual amendment: Arts. 17AA, 17AB inserted (1.4.2011) by [The Renewables Obligation (Scotland) Amendment Order 2011 (S.S.I. 2011/225)](https://www.legislation.gov.uk/ssi/2011/225), [arts. 1](https://www.legislation.gov.uk/ssi/2011/225/article/1), [8](https://www.legislation.gov.uk/ssi/2011/225/article/8) (with [art. 19](https://www.legislation.gov.uk/ssi/2011/225/article/19))

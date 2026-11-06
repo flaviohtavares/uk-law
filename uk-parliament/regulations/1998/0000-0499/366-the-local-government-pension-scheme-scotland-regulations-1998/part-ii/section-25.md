@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Redundancy etc.[^key-8be05492b4879d65a4ddfb33b569475f]
+## 25. Redundancy etc.[^c-8be05492b4879d65a4ddfb33b569475f]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ he is entitled to a pension and retirement grant.
 
 ## Annotations
 
-[^key-8be05492b4879d65a4ddfb33b569475f]: Commencement: Reg. 25 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-8be05492b4879d65a4ddfb33b569475f]: Commencement: Reg. 25 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00014]: Footnote: S.I. [1995/340](https://www.legislation.gov.uk/uksi/1995/340), amended by S.I. [1997/720](https://www.legislation.gov.uk/uksi/1997/720).

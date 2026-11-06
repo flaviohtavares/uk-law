@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Crown application[^key-e1d640c0f3e12d20d82d1146f923d0a2][^key-fdd755dcb9765bfc13562ae063784677]
+## 80. Crown application[^c-e1d640c0f3e12d20d82d1146f923d0a2][^c-fdd755dcb9765bfc13562ae063784677]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ After section 27 of the Reservoirs Act 1975 there is inserted—
 
 ## Annotations
 
-[^key-e1d640c0f3e12d20d82d1146f923d0a2]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2003/37/section/80) in force at 1.10.2004 for E. by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(p)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/p) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-e1d640c0f3e12d20d82d1146f923d0a2]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2003/37/section/80) in force at 1.10.2004 for E. by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(p)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/p) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
 
-[^key-fdd755dcb9765bfc13562ae063784677]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2003/37/section/80) in force at 11.11.2004 for W. by [S.I. 2004/2916](https://www.legislation.gov.uk/wsi/2004/2916), [art. 2(c)](https://www.legislation.gov.uk/wsi/2004/2916/article/2/c)
+[^c-fdd755dcb9765bfc13562ae063784677]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2003/37/section/80) in force at 11.11.2004 for W. by [S.I. 2004/2916](https://www.legislation.gov.uk/wsi/2004/2916), [art. 2(c)](https://www.legislation.gov.uk/wsi/2004/2916/article/2/c)

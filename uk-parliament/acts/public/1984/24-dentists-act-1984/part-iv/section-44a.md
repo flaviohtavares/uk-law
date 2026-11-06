@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44A. Supplementary provisions relating to financial penalties under sections 43B and 44[^key-2715940af7e3ac3af838b706ad9fee9a]
+## 44A. Supplementary provisions relating to financial penalties under sections 43B and 44[^c-2715940af7e3ac3af838b706ad9fee9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ Schedule 3 (proceedings before the Investigating Committee, the Interim Orders C
 
 ## Annotations
 
-[^key-2715940af7e3ac3af838b706ad9fee9a]: Textual amendment: [Ss. 43-44B](https://www.legislation.gov.uk/ukpga/1984/24/section/43) substituted for [ss. 43, 44](https://www.legislation.gov.uk/ukpga/1984/24/section/43) (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 39](https://www.legislation.gov.uk/uksi/2005/2011/article/39) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-2715940af7e3ac3af838b706ad9fee9a]: Textual amendment: [Ss. 43-44B](https://www.legislation.gov.uk/ukpga/1984/24/section/43) substituted for [ss. 43, 44](https://www.legislation.gov.uk/ukpga/1984/24/section/43) (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 39](https://www.legislation.gov.uk/uksi/2005/2011/article/39) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))

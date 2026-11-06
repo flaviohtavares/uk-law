@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Reports by local authorities and general duty of the Welsh Ministers[^key-5113d2bd2ea0420f002fc889365947d8][^key-520dcc606f0ee4e43bfa315a6aab66d5][^key-dd7f525ca3f43b97e25ca404ab24067f][^key-c0196bdefba2acf739bcc461cced6c52]
+## 56. Reports by local authorities and general duty of the Welsh Ministers[^c-5113d2bd2ea0420f002fc889365947d8][^c-520dcc606f0ee4e43bfa315a6aab66d5][^c-dd7f525ca3f43b97e25ca404ab24067f][^c-c0196bdefba2acf739bcc461cced6c52]
 
 *Extent: E+W*
 
-(1)[^key-48e53f2c6068028dd5491cb8eef0d5e8][^key-aeb40294327a60e23d5a7ae88953d4ad][^key-0052d902bb9b19a51e13f982b191446e] After section 144 of the 2014 Act (directors of social services) insert—
+(1)[^c-48e53f2c6068028dd5491cb8eef0d5e8][^c-aeb40294327a60e23d5a7ae88953d4ad][^c-0052d902bb9b19a51e13f982b191446e] After section 144 of the 2014 Act (directors of social services) insert—
 
 > **144A. Annual reports**
 >
@@ -84,7 +84,7 @@ summary: ''
 >
 > In exercising functions under this Part the Welsh Ministers must seek to promote and maintain high standards in the provision of local authority social services functions.
 
-(2)[^key-7f44bd8cbe4e19621aa8d58ef1dba10c] In section 196(6) of the 2014 Act (regulations made only if draft approved by resolution of the National Assembly for Wales), after paragraph (c) insert—
+(2)[^c-7f44bd8cbe4e19621aa8d58ef1dba10c] In section 196(6) of the 2014 Act (regulations made only if draft approved by resolution of the National Assembly for Wales), after paragraph (c) insert—
 
 > - (d) the first regulations made under section 144A(2)(b);
 
@@ -92,18 +92,18 @@ summary: ''
 
 ## Annotations
 
-[^key-5113d2bd2ea0420f002fc889365947d8]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Advocacy Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/165)](https://www.legislation.gov.uk/wsi/2019/165), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2), [58(3)](https://www.legislation.gov.uk/wsi/2019/165/regulation/58/3)
+[^c-5113d2bd2ea0420f002fc889365947d8]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Advocacy Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/165)](https://www.legislation.gov.uk/wsi/2019/165), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2), [58(3)](https://www.legislation.gov.uk/wsi/2019/165/regulation/58/3)
 
-[^key-520dcc606f0ee4e43bfa315a6aab66d5]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Fostering Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/169)](https://www.legislation.gov.uk/wsi/2019/169), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2), [71](https://www.legislation.gov.uk/wsi/2019/169/regulation/71)
+[^c-520dcc606f0ee4e43bfa315a6aab66d5]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Fostering Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/169)](https://www.legislation.gov.uk/wsi/2019/169), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2), [71](https://www.legislation.gov.uk/wsi/2019/169/regulation/71)
 
-[^key-dd7f525ca3f43b97e25ca404ab24067f]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Adoption Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/762)](https://www.legislation.gov.uk/wsi/2019/762), [regs.](https://www.legislation.gov.uk/wsi/2019/762/regulation), [57(3)](https://www.legislation.gov.uk/wsi/2019/762/regulation/57/3)
+[^c-dd7f525ca3f43b97e25ca404ab24067f]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Adoption Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/762)](https://www.legislation.gov.uk/wsi/2019/762), [regs.](https://www.legislation.gov.uk/wsi/2019/762/regulation), [57(3)](https://www.legislation.gov.uk/wsi/2019/762/regulation/57/3)
 
-[^key-c0196bdefba2acf739bcc461cced6c52]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/163)](https://www.legislation.gov.uk/wsi/2019/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2), [67(3)](https://www.legislation.gov.uk/wsi/2019/163/regulation/67/3)
+[^c-c0196bdefba2acf739bcc461cced6c52]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/163)](https://www.legislation.gov.uk/wsi/2019/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2), [67(3)](https://www.legislation.gov.uk/wsi/2019/163/regulation/67/3)
 
-[^key-48e53f2c6068028dd5491cb8eef0d5e8]: Commencement: S. 56(1) in force at 4.9.2017 for specified purposes by [S.I. 2017/846](https://www.legislation.gov.uk/wsi/2017/846), [art. 2(a)](https://www.legislation.gov.uk/wsi/2017/846/article/2/a)
+[^c-48e53f2c6068028dd5491cb8eef0d5e8]: Commencement: S. 56(1) in force at 4.9.2017 for specified purposes by [S.I. 2017/846](https://www.legislation.gov.uk/wsi/2017/846), [art. 2(a)](https://www.legislation.gov.uk/wsi/2017/846/article/2/a)
 
-[^key-aeb40294327a60e23d5a7ae88953d4ad]: Commencement: S. 56(1) in force at 29.4.2019 for specified purposes by [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(b)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/b)
+[^c-aeb40294327a60e23d5a7ae88953d4ad]: Commencement: S. 56(1) in force at 29.4.2019 for specified purposes by [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(b)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/b)
 
-[^key-0052d902bb9b19a51e13f982b191446e]: Commencement: S. 56(1) in force at 23.2.2021 for specified purposes by [S.I. 2021/181](https://www.legislation.gov.uk/uksi/2021/181), [art. 2(a)](https://www.legislation.gov.uk/uksi/2021/181/article/2/a)
+[^c-0052d902bb9b19a51e13f982b191446e]: Commencement: S. 56(1) in force at 23.2.2021 for specified purposes by [S.I. 2021/181](https://www.legislation.gov.uk/uksi/2021/181), [art. 2(a)](https://www.legislation.gov.uk/uksi/2021/181/article/2/a)
 
-[^key-7f44bd8cbe4e19621aa8d58ef1dba10c]: Commencement: S. 56(2) in force at 4.9.2017 by [S.I. 2017/846](https://www.legislation.gov.uk/wsi/2017/846), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/846/article/2/b)
+[^c-7f44bd8cbe4e19621aa8d58ef1dba10c]: Commencement: S. 56(2) in force at 4.9.2017 by [S.I. 2017/846](https://www.legislation.gov.uk/wsi/2017/846), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/846/article/2/b)

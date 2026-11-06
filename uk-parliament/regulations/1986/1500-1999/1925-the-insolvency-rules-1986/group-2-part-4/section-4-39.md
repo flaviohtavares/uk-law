@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.39. Submission of accounts[^key-9adec8d482ced5171967bd0a26986972]
+## 4.39. Submission of accounts[^c-9adec8d482ced5171967bd0a26986972]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9adec8d482ced5171967bd0a26986972]: Commencement: [Rule 4.39](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.39) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-9adec8d482ced5171967bd0a26986972]: Commencement: [Rule 4.39](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.39) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

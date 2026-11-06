@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Service of warrants[^key-3528edefe5941cd5a3025d3fcfd8a337]
+## 169. Service of warrants[^c-3528edefe5941cd5a3025d3fcfd8a337]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3528edefe5941cd5a3025d3fcfd8a337]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2016/25/section/169) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)
+[^c-3528edefe5941cd5a3025d3fcfd8a337]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2016/25/section/169) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**15.**[^key-d0cf014ec15c0ffa554d5e949a57ef1d] (1) Where the Commissioners have cancelled the registration of a person in accordance with Part V of the Act, and he is not a registrable person, the Commissioners shall repay to him the amount of the tax credit if they are satisfied that he has made a proper claim to them in writing for this purpose.
+**15.**[^c-d0cf014ec15c0ffa554d5e949a57ef1d] (1) Where the Commissioners have cancelled the registration of a person in accordance with Part V of the Act, and he is not a registrable person, the Commissioners shall repay to him the amount of the tax credit if they are satisfied that he has made a proper claim to them in writing for this purpose.
 
 (2) A claim under paragraph (1) may be combined with a claim under regulation 14(1) if appropriate.
 
@@ -33,10 +33,10 @@ summary: ''
 
 (5) The Commissioners shall not be liable to make any repayment under this regulation unless and until the person has made all the returns which he was required to make (and see regulation 29 and 30).
 
-(6) Given the provision made by paragraph 62(4) of the Act, this regulation has effect subject to paragraph 64 of the Act (application of supplemental provisions about repayments: 4 year time limit[^key-c3766c9a85754eb91cef0f0d91587315], unjust enrichment, etc.).
+(6) Given the provision made by paragraph 62(4) of the Act, this regulation has effect subject to paragraph 64 of the Act (application of supplemental provisions about repayments: 4 year time limit[^c-c3766c9a85754eb91cef0f0d91587315], unjust enrichment, etc.).
 
 ## Annotations
 
-[^key-d0cf014ec15c0ffa554d5e949a57ef1d]: Commencement: Reg. 15 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-d0cf014ec15c0ffa554d5e949a57ef1d]: Commencement: Reg. 15 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
 
-[^key-c3766c9a85754eb91cef0f0d91587315]: Textual amendment: Words in [reg. 15(6)](https://www.legislation.gov.uk/uksi/2001/838/regulation/15/6) substituted (1.4.2010) by [The Climate Change Levy (General) (Amendment) Regulations 2010 (S.I. 2010/643)](https://www.legislation.gov.uk/uksi/2010/643), [regs. 1](https://www.legislation.gov.uk/uksi/2010/643/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/643/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2010/643/regulation/5))
+[^c-c3766c9a85754eb91cef0f0d91587315]: Textual amendment: Words in [reg. 15(6)](https://www.legislation.gov.uk/uksi/2001/838/regulation/15/6) substituted (1.4.2010) by [The Climate Change Levy (General) (Amendment) Regulations 2010 (S.I. 2010/643)](https://www.legislation.gov.uk/uksi/2010/643), [regs. 1](https://www.legislation.gov.uk/uksi/2010/643/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/643/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2010/643/regulation/5))

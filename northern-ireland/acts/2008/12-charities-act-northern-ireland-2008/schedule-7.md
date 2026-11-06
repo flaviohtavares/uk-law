@@ -39,7 +39,7 @@ Section 121.
 - (a) to which the CIO and each of its members was a party, and
 - (b) which contained obligations on the part of the CIO and each member to observe all the provisions of the constitution.
 
-**4.** Money payable by a member to the CIO under the constitution is a debt due from the member to the CIO, and is of the nature of an ordinary contract debt[^key-2da7b5f606642dd532af09be3c8b5796].
+**4.** Money payable by a member to the CIO under the constitution is a debt due from the member to the CIO, and is of the nature of an ordinary contract debt[^c-2da7b5f606642dd532af09be3c8b5796].
 
 ### Third parties
 
@@ -184,4 +184,4 @@ by the end of the period of 15 days beginning with the date of passing of the re
 
 ## Annotations
 
-[^key-2da7b5f606642dd532af09be3c8b5796]: Textual amendment: Words in [Sch. 7 para. 4](https://www.legislation.gov.uk/nia/2008/12/schedule/7/paragraph/4) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/29)
+[^c-2da7b5f606642dd532af09be3c8b5796]: Textual amendment: Words in [Sch. 7 para. 4](https://www.legislation.gov.uk/nia/2008/12/schedule/7/paragraph/4) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/29)

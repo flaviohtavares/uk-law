@@ -31,7 +31,7 @@ summary: ''
 
 National Health Service, Wales
 
-The National Health Service (Dental Charges) (Wales) (Amendment) Regulations 2017 (revoked)[^key-f88c957852920ad79daa191b43d6c05a]
+The National Health Service (Dental Charges) (Wales) (Amendment) Regulations 2017 (revoked)[^c-f88c957852920ad79daa191b43d6c05a]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 1 April 2017
 
-[^key-f88c957852920ad79daa191b43d6c05a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f88c957852920ad79daa191b43d6c05a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-f88c957852920ad79daa191b43d6c05a]
+## 1. Title and commencement[^c-f88c957852920ad79daa191b43d6c05a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the National Health Service (Dental Charges) (Wales) Regulations 2006[^key-f88c957852920ad79daa191b43d6c05a]
+## 2. Amendment to the National Health Service (Dental Charges) (Wales) Regulations 2006[^c-f88c957852920ad79daa191b43d6c05a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-f88c957852920ad79daa191b43d6c05a]
+## 3. Revocation[^c-f88c957852920ad79daa191b43d6c05a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f88c957852920ad79daa191b43d6c05a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f88c957852920ad79daa191b43d6c05a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f88c957852920ad79daa191b43d6c05a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f88c957852920ad79daa191b43d6c05a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f88c957852920ad79daa191b43d6c05a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2017/339) revoked (1.4.2019) by [The National Health Service (Dental Charges) (Wales) (Amendment) Regulations 2019 (revoked) 2019 (S.I. 2019/467)](https://www.legislation.gov.uk/wsi/2019/467), [reg. 3(a)](https://www.legislation.gov.uk/wsi/2019/467/regulation/3/a)
+[^c-f88c957852920ad79daa191b43d6c05a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2017/339) revoked (1.4.2019) by [The National Health Service (Dental Charges) (Wales) (Amendment) Regulations 2019 (revoked) 2019 (S.I. 2019/467)](https://www.legislation.gov.uk/wsi/2019/467), [reg. 3(a)](https://www.legislation.gov.uk/wsi/2019/467/regulation/3/a)

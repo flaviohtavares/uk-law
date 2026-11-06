@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 111. Fees[^key-fd24a44f9cb4638d8c9dd4fd2a490ed6]
+## Article 111. Fees[^c-fd24a44f9cb4638d8c9dd4fd2a490ed6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd24a44f9cb4638d8c9dd4fd2a490ed6]: Textual amendment: [Art. 111](https://www.legislation.gov.uk/eur/2013/389/article/111) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(18)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/18)
+[^c-fd24a44f9cb4638d8c9dd4fd2a490ed6]: Textual amendment: [Art. 111](https://www.legislation.gov.uk/eur/2013/389/article/111) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(18)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/18)

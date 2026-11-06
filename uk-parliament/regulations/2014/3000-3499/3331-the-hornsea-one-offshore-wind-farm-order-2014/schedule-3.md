@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — Streets to be temporarily stopped up[^key-68fc4571ec79aa5f46d10d81ccd14def]
+## SCHEDULE 3 — Streets to be temporarily stopped up[^c-68fc4571ec79aa5f46d10d81ccd14def]
 
 *Extent: E+W+S*
 
@@ -120,4 +120,4 @@ Article 8
 
 ## Annotations
 
-[^key-68fc4571ec79aa5f46d10d81ccd14def]: Commencement: Sch. 3 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-68fc4571ec79aa5f46d10d81ccd14def]: Commencement: Sch. 3 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)

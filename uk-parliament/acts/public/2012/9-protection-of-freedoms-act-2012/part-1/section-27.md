@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Exceptions and further provision about consent and notification[^key-712580d18ecacbd5b13580cbed873d68][^key-2ab8a19bcb532332bb885e05ba278caa]
+## 27. Exceptions and further provision about consent and notification[^c-712580d18ecacbd5b13580cbed873d68][^c-2ab8a19bcb532332bb885e05ba278caa]
 
 *Extent: E+W*
 
@@ -33,16 +33,16 @@ summary: ''
 
 (4) Consent under section 26(3) must be given, and (if withdrawn) withdrawn, in writing.
 
-(5) Section 26 and this section are in addition to the requirements of the data protection legislation[^key-d894988d0ba73652ed0d01d3dcc431d0].
+(5) Section 26 and this section are in addition to the requirements of the data protection legislation[^c-d894988d0ba73652ed0d01d3dcc431d0].
 
-(6)[^key-98fdc8ddffec304f1824483577d9df7c] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(6)[^c-98fdc8ddffec304f1824483577d9df7c] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
 ## Annotations
 
-[^key-712580d18ecacbd5b13580cbed873d68]: Commencement: S. 27 in force at 1.9.2013 for specified purposes for W. by [S.I. 2013/1566](https://www.legislation.gov.uk/wsi/2013/1566), [art. 2](https://www.legislation.gov.uk/wsi/2013/1566/article/2)
+[^c-712580d18ecacbd5b13580cbed873d68]: Commencement: S. 27 in force at 1.9.2013 for specified purposes for W. by [S.I. 2013/1566](https://www.legislation.gov.uk/wsi/2013/1566), [art. 2](https://www.legislation.gov.uk/wsi/2013/1566/article/2)
 
-[^key-2ab8a19bcb532332bb885e05ba278caa]: Commencement: S. 27 in force at 1.9.2013 for E. by [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2104/article/2/b)
+[^c-2ab8a19bcb532332bb885e05ba278caa]: Commencement: S. 27 in force at 1.9.2013 for E. by [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/2104/article/2/b)
 
-[^key-d894988d0ba73652ed0d01d3dcc431d0]: Textual amendment: Words in [s. 27(5)](https://www.legislation.gov.uk/ukpga/2012/9/section/27/5) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 176(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/176/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-d894988d0ba73652ed0d01d3dcc431d0]: Textual amendment: Words in [s. 27(5)](https://www.legislation.gov.uk/ukpga/2012/9/section/27/5) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 176(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/176/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-98fdc8ddffec304f1824483577d9df7c]: Textual amendment: [S. 27(6)](https://www.legislation.gov.uk/ukpga/2012/9/section/27/6) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 176(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/176/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-98fdc8ddffec304f1824483577d9df7c]: Textual amendment: [S. 27(6)](https://www.legislation.gov.uk/ukpga/2012/9/section/27/6) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 176(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/176/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

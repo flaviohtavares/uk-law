@@ -42,7 +42,7 @@ Coming into operation
 
 To be laid before Parliament under paragraph 7(3) of the Schedule to the Northern Ireland Act 2000
 
-The Department of Enterprise, Trade and Investment [^f00001], with the agreement of the Lord Chancellor, makes the following Regulations in exercise of the powers conferred by Article 11 of the Insolvency (Northern Ireland) Order 2002[^f00002]:[^key-4a70a25a2c69dff6bdfb904c40082451]
+The Department of Enterprise, Trade and Investment [^f00001], with the agreement of the Lord Chancellor, makes the following Regulations in exercise of the powers conferred by Article 11 of the Insolvency (Northern Ireland) Order 2002[^f00002]:[^c-4a70a25a2c69dff6bdfb904c40082451]
 
 ## Contents
 
@@ -113,4 +113,4 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: [S.I. 2002/3152 (N.I.6)](https://www.legislation.gov.uk/nisi/2002/3152)
 
-[^key-4a70a25a2c69dff6bdfb904c40082451]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2007/115) excluded in part (6.3.2008) by [The Regulated Covered Bonds Regulations 2008 (S.I. 2008/346)](https://www.legislation.gov.uk/uksi/2008/346), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2008/346/schedule/paragraph/12)
+[^c-4a70a25a2c69dff6bdfb904c40082451]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2007/115) excluded in part (6.3.2008) by [The Regulated Covered Bonds Regulations 2008 (S.I. 2008/346)](https://www.legislation.gov.uk/uksi/2008/346), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2008/346/schedule/paragraph/12)

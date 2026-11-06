@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31A. Minimum period between resolutions to change electoral schemes[^key-df7793a3cce2ed3422178de24cc8061b]
+## 31A. Minimum period between resolutions to change electoral schemes[^c-df7793a3cce2ed3422178de24cc8061b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If a council passes a resolution under section 32, 37 or 39 (“**the earlier re
 
 ## Annotations
 
-[^key-df7793a3cce2ed3422178de24cc8061b]: Textual amendment: [S. 31A](https://www.legislation.gov.uk/ukpga/2007/28/section/31A) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 24(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/24/6), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-df7793a3cce2ed3422178de24cc8061b]: Textual amendment: [S. 31A](https://www.legislation.gov.uk/ukpga/2007/28/section/31A) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 24(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/24/6), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

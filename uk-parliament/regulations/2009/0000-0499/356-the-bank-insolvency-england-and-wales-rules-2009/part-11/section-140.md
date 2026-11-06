@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Supplementary provisions as to dividend[^key-fdf3327ec76494e62d6728b57f194852]
+## 140. Supplementary provisions as to dividend[^c-fdf3327ec76494e62d6728b57f194852]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.182 of the 1986 Rules.
 
 ## Annotations
 
-[^key-fdf3327ec76494e62d6728b57f194852]: Commencement: Rule 140 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-fdf3327ec76494e62d6728b57f194852]: Commencement: Rule 140 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

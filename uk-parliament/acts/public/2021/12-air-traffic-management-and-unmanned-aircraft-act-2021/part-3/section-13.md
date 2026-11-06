@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Powers of police officers and prison authorities[^c24538241][^key-f14b5fcd20462925cd08ea4cb0151171]
+## 13. Powers of police officers and prison authorities[^c24538241][^c-f14b5fcd20462925cd08ea4cb0151171]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 8 makes provision about powers of police officers and prison authoritie
 
 [^c24538241]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/12/section/13) in force at 29.4.2021 for specified purposes, see [s. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/1/a)
 
-[^key-f14b5fcd20462925cd08ea4cb0151171]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/12/section/13) in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/d)
+[^c-f14b5fcd20462925cd08ea4cb0151171]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2021/12/section/13) in force at 29.6.2021 in so far as not already in force by [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/d)

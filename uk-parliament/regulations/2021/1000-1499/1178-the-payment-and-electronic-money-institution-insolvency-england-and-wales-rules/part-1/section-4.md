@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Interpretation[^key-eee4e34ebc9a6a83e6d474152d73b63d]
+## 4. Interpretation[^c-eee4e34ebc9a6a83e6d474152d73b63d]
 
 *Extent: E+W*
 
@@ -93,7 +93,7 @@ where the institution had not chosen to voluntarily safeguard the funds when it 
 
 ## Annotations
 
-[^key-eee4e34ebc9a6a83e6d474152d73b63d]: Commencement: Rule 4 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-eee4e34ebc9a6a83e6d474152d73b63d]: Commencement: Rule 4 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
 [^f00003]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 

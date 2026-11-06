@@ -27,7 +27,7 @@ summary: ''
 - (a) a housing association within the meaning of the Housing Associations Act 1985 (see section 1(1) of that Act), or
 - (b) a housing association within the meaning of Part 2 of the Housing (Northern Ireland) Order 1992 (S.I. 1725 (N.I. 15)) (see Article 3 of that Order).
 
-(3) Test B is that the association is —[^key-898b33bac1373454f1aa9b780743d998]
+(3) Test B is that the association is —[^c-898b33bac1373454f1aa9b780743d998]
 
 - (a) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014, or
 - (b) a society registered or treated as registered under the Industrial and Provident Societies Act (Northern Ireland) 1969.
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-898b33bac1373454f1aa9b780743d998]: Textual amendment: Words in [s. 645(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/645/3) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 160](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/160) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-898b33bac1373454f1aa9b780743d998]: Textual amendment: Words in [s. 645(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/645/3) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 160](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/160) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

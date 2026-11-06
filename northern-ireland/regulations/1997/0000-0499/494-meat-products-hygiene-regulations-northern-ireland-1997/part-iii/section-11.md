@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Indication of storage temperature and durability[^key-f059848c380a3a50912bafb110228041]
+## 11. Indication of storage temperature and durability[^c-f059848c380a3a50912bafb110228041]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ unless the packaging carries—
 
 ## Annotations
 
-[^key-f059848c380a3a50912bafb110228041]: Commencement: Reg. 11 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-f059848c380a3a50912bafb110228041]: Commencement: Reg. 11 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
 
 [^f00023]: Footnote: [S.R. 1996 No. 383](https://www.legislation.gov.uk/nisr/1996/383)
 

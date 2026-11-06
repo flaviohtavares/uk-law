@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Powers of the Forestry Commissioners.[^key-8b86ce51979f4804295cbafaccd5f4fe]
+## 58. Powers of the Forestry Commissioners.[^c-8b86ce51979f4804295cbafaccd5f4fe]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b86ce51979f4804295cbafaccd5f4fe]: Textual amendment: [S. 58](https://www.legislation.gov.uk/ukpga/1967/86/section/58) repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-8b86ce51979f4804295cbafaccd5f4fe]: Textual amendment: [S. 58](https://www.legislation.gov.uk/ukpga/1967/86/section/58) repealed (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))

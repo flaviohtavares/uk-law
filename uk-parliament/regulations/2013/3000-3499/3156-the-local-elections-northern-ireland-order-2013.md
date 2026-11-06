@@ -237,7 +237,7 @@ Paragraph 3(1) of Schedule 1 to the Drainage (Northern Ireland) Order 1973 [^c21
 
 ## Changes to the law on local elections when combined with European Parliamentary elections
 
-### 10. Combination of polls[^key-9936fd676099cfdec46f1c8feb9d872b]
+### 10. Combination of polls[^c-9936fd676099cfdec46f1c8feb9d872b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -245,63 +245,63 @@ Richard Tilbrook
 
 Clerk of the Privy Council
 
-## SCHEDULE — Combination of polls[^key-a08cc5c9e3e7e537ba6301d359ba72ee]
+## SCHEDULE — Combination of polls[^c-a08cc5c9e3e7e537ba6301d359ba72ee]
 
 **No longer in force.**
 
 Article 10
 
-### 1. Modification of the Local Elections Rules[^key-a08cc5c9e3e7e537ba6301d359ba72ee]
+### 1. Modification of the Local Elections Rules[^c-a08cc5c9e3e7e537ba6301d359ba72ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13A.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13A.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-a08cc5c9e3e7e537ba6301d359ba72ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Modification of absent voting provisions[^key-a08cc5c9e3e7e537ba6301d359ba72ee]
+### 24. Modification of absent voting provisions[^c-a08cc5c9e3e7e537ba6301d359ba72ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -371,6 +371,6 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c21965311]: Marginal citation: Sections 18A to 18E were substituted for section 18 by section 16 of the [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-9936fd676099cfdec46f1c8feb9d872b]: Textual amendment: Art. 10 revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-9936fd676099cfdec46f1c8feb9d872b]: Textual amendment: Art. 10 revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-a08cc5c9e3e7e537ba6301d359ba72ee]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2013/3156/schedule) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-a08cc5c9e3e7e537ba6301d359ba72ee]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2013/3156/schedule) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

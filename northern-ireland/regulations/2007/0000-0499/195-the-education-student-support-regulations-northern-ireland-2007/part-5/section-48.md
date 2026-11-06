@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Calculations[^key-7def9e9cc5a216e4ae03db360b43ea33]
+## 48. Calculations[^c-7def9e9cc5a216e4ae03db360b43ea33]
 
 *Extent: N.I.*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7def9e9cc5a216e4ae03db360b43ea33]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2007/195/regulation/48) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-7def9e9cc5a216e4ae03db360b43ea33]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2007/195/regulation/48) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

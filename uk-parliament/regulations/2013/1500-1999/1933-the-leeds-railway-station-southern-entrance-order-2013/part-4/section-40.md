@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Defence to proceedings in respect of statutory nuisance[^key-94b88b0445de2390ac9e07638dad972f]
+## 40. Defence to proceedings in respect of statutory nuisance[^c-94b88b0445de2390ac9e07638dad972f]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ do not apply where the consent relates to the use of premises by the promoter fo
 
 ## Annotations
 
-[^key-94b88b0445de2390ac9e07638dad972f]: Commencement: Art. 40 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-94b88b0445de2390ac9e07638dad972f]: Commencement: Art. 40 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
 
 [^f00025]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

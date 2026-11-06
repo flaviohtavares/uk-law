@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Interpretation of Part 7[^key-7124b3ffd247925a77a427e05197dbc5]
+## 22. Interpretation of Part 7[^c-7124b3ffd247925a77a427e05197dbc5]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ In this Part—
 
 ## Annotations
 
-[^key-7124b3ffd247925a77a427e05197dbc5]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2019/165/regulation/22) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-7124b3ffd247925a77a427e05197dbc5]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2019/165/regulation/22) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
 
 [^c23552561]: Marginal citation: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).

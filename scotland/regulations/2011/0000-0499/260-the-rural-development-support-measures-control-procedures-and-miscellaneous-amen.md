@@ -34,7 +34,7 @@ Agriculture
 
 Forestry
 
-The Rural Development Support Measures (Control Procedures and Miscellaneous Amendments) (Scotland) Regulations 2011 (revoked)[^key-03149e92c703ab93905ccb3939d72cb7]
+The Rural Development Support Measures (Control Procedures and Miscellaneous Amendments) (Scotland) Regulations 2011 (revoked)[^c-03149e92c703ab93905ccb3939d72cb7]
 
 Made
 
@@ -48,36 +48,36 @@ Coming into force
 
 2nd July 2011
 
-[^key-03149e92c703ab93905ccb3939d72cb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03149e92c703ab93905ccb3939d72cb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-03149e92c703ab93905ccb3939d72cb7]
+## 1. Citation and commencement[^c-03149e92c703ab93905ccb3939d72cb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Agricultural Processing, Marketing and Co-operation Grants (Scotland) Regulations 2008[^key-03149e92c703ab93905ccb3939d72cb7]
+## 2. Amendment of the Agricultural Processing, Marketing and Co-operation Grants (Scotland) Regulations 2008[^c-03149e92c703ab93905ccb3939d72cb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Leader Grants (Scotland) Regulations 2008[^key-03149e92c703ab93905ccb3939d72cb7]
+## 3. Amendment of the Leader Grants (Scotland) Regulations 2008[^c-03149e92c703ab93905ccb3939d72cb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Forestry Challenge Funds (Scotland) Regulations 2008[^key-03149e92c703ab93905ccb3939d72cb7]
+## 4. Amendment of the Forestry Challenge Funds (Scotland) Regulations 2008[^c-03149e92c703ab93905ccb3939d72cb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Land Managers Skills Development Grants (Scotland) Regulations 2008[^key-03149e92c703ab93905ccb3939d72cb7]
+## 5. Amendment of the Land Managers Skills Development Grants (Scotland) Regulations 2008[^c-03149e92c703ab93905ccb3939d72cb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03149e92c703ab93905ccb3939d72cb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03149e92c703ab93905ccb3939d72cb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-03149e92c703ab93905ccb3939d72cb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03149e92c703ab93905ccb3939d72cb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-03149e92c703ab93905ccb3939d72cb7]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), reg. 1(1), [sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))
+[^c-03149e92c703ab93905ccb3939d72cb7]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), reg. 1(1), [sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))

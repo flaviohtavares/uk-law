@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Notification to coast protection authority of coast protection work to be carried out by certain authorities.[^c6290701][^key-7efafc92570619c0b78e889d97d5b41a]
+## 17. Notification to coast protection authority of coast protection work to be carried out by certain authorities.[^c6290701][^c-7efafc92570619c0b78e889d97d5b41a]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (2)[^c6290741] Work excluded from the operation of the last foregoing section by virtue only of paragraphs (b) to (e) of the last foregoing subsection shall not be carried out except in accordance with the following provisions of this section; and any body or person who contravenes the provisions of this subsection shall be guilty of an offence under this Act.
 
-(3)[^c6290751] Before carrying out any such work as aforesaid the body or person in question (in this section referred to as “**the undertakers**”) shall give to the coast protection authority in whose area the work is to be carried out, to any coast protection authority whose area adjoins that area, to the appropriate agency and to any[^key-f49a27095d618df25717b1eccc737b44] internal drainage board whose district[^c6290761] comprises the whole or any part of that area, not less than twenty-eight days’ notice of their intention in that behalf, specifying the work to be carried out; and where notice is so given—
+(3)[^c6290751] Before carrying out any such work as aforesaid the body or person in question (in this section referred to as “**the undertakers**”) shall give to the coast protection authority in whose area the work is to be carried out, to any coast protection authority whose area adjoins that area, to the appropriate agency and to any[^c-f49a27095d618df25717b1eccc737b44] internal drainage board whose district[^c6290761] comprises the whole or any part of that area, not less than twenty-eight days’ notice of their intention in that behalf, specifying the work to be carried out; and where notice is so given—
 
 - (a) the undertakers shall not carry out the work before the expiration of the notice; and
 - (b) if before the expiration of the notice any authority or board to whom the notice has been given serves notice of objection on the Minister and on the undertakers, the undertakers shall not (unless the objection is withdrawn) carry out the work except in accordance with any direction given under the following provisions of this section.
@@ -92,7 +92,7 @@ and any question arising under paragraph (a) of this subsection shall be determi
 
 [^c6290701]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only.
 
-[^key-7efafc92570619c0b78e889d97d5b41a]: Modification: S. 17 functions transferred (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2018/644/article/5/1) (with [art. 5(3)](https://www.legislation.gov.uk/uksi/2018/644/article/5/3))
+[^c-7efafc92570619c0b78e889d97d5b41a]: Modification: S. 17 functions transferred (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2018/644/article/5/1) (with [art. 5(3)](https://www.legislation.gov.uk/uksi/2018/644/article/5/3))
 
 [^c6290711]: Textual amendment: Word in s. 17(1)(c) repealed (E.W.) by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [s. 272](https://www.legislation.gov.uk/ukpga/1972/70/section/272), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
 
@@ -104,7 +104,7 @@ and any question arising under paragraph (a) of this subsection shall be determi
 
 [^c6290751]: Modification: S. 17(3)–(9) applied by [Channel Tunnel Act 1987 (c. 53, SIF 102)](https://www.legislation.gov.uk/ukpga/1987/53), [s. 44(1)](https://www.legislation.gov.uk/ukpga/1987/53/section/44/1)
 
-[^key-f49a27095d618df25717b1eccc737b44]: Textual amendment: Words in s. 17(3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/9/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-f49a27095d618df25717b1eccc737b44]: Textual amendment: Words in s. 17(3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/9/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c6290761]: Textual amendment: Words in s. 17(3) substituted (E.W.) by [Water Act 1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)–(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [Sch. 25 para. 11(5)(a)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/25/paragraph/11/5/a), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58)
 

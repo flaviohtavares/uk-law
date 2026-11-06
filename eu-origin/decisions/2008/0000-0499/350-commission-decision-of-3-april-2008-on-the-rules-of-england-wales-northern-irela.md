@@ -41,18 +41,18 @@ on the rules of England, Wales, Northern Ireland and Scotland concerning permit 
 
 (2008/350/EC) (revoked)
 
-[^key-01869f895dc4732b5b122d89391b31db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01869f895dc4732b5b122d89391b31db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-01869f895dc4732b5b122d89391b31db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-01869f895dc4732b5b122d89391b31db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-01869f895dc4732b5b122d89391b31db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-01869f895dc4732b5b122d89391b31db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01869f895dc4732b5b122d89391b31db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01869f895dc4732b5b122d89391b31db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Rules notified by the United Kingdom and considered by the Commission compliant with Article 3(2) to (4) of Directive 91/689/EEC in conjunction with Article 11(1) (b) of Directive 2006/12/EC[^key-01869f895dc4732b5b122d89391b31db]
+## ANNEX — Rules notified by the United Kingdom and considered by the Commission compliant with Article 3(2) to (4) of Directive 91/689/EEC in conjunction with Article 11(1) (b) of Directive 2006/12/EC[^c-01869f895dc4732b5b122d89391b31db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-01869f895dc4732b5b122d89391b31db]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01869f895dc4732b5b122d89391b31db]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

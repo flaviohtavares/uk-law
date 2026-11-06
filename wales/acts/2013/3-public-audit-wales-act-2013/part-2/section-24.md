@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Scheme for charging fees[^key-c2d718b1a95ff669216652c35b0d49bf]
+## 24. Scheme for charging fees[^c-c2d718b1a95ff669216652c35b0d49bf]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ to have effect instead of a scale or scales prescribed by the WAO, the WAO must 
 
 ## Annotations
 
-[^key-c2d718b1a95ff669216652c35b0d49bf]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2013/3/section/24) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(l)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/l)
+[^c-c2d718b1a95ff669216652c35b0d49bf]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2013/3/section/24) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(l)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/l)

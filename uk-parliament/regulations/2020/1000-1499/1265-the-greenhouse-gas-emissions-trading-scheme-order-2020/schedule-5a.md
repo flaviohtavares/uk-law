@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5A — Registry[^key-6f8d471b05b41e7a0aa55c5410f873df]
+## SCHEDULE 5A — Registry[^c-6f8d471b05b41e7a0aa55c5410f873df]
 
 *Extent: E+W+S+N.I.*
 
@@ -98,7 +98,7 @@ When assessing for the purposes of this Schedule whether an individual is a fit 
 
 (2) In the operation of the registry, the registry administrator must, as soon as reasonably practicable and to the extent possible, comply with a notice or instruction given under this Order by the UK ETS authority or a regulator.
 
-#### 6A. Reportable emissions, aviation emissions and maritime emissions to be recorded in the registry[^key-e58bbcfde16a3f23381a328126a8bff1][^key-08b18f54dbbaa7db3b5f5811a91599b8]
+#### 6A. Reportable emissions, aviation emissions and maritime emissions to be recorded in the registry[^c-e58bbcfde16a3f23381a328126a8bff1][^c-08b18f54dbbaa7db3b5f5811a91599b8]
 
 (1) The regulator and the registry administrator must exercise their functions to ensure that the following provisions of this paragraph are complied with.
 
@@ -106,7 +106,7 @@ When assessing for the purposes of this Schedule whether an individual is a fit 
 
 (3)  Where an aircraft operator submits a report of the aircraft operator’s aviation emissions to the regulator in accordance with article 33, the aviation emissions stated in the report must be recorded in the aircraft operator’s aircraft operator holding account on or before 30th April in the year in which the report is submitted.
 
-(4)[^key-f91117b2aca279336065e8f61e1176b1] Where a maritime operator submits an annual emissions report to the regulator in accordance with paragraph 14 of Schedule 2A, the maritime emissions less any surrender deduction stated in the report must be recorded in the maritime operator’s maritime operator holding account on or before 30th April in the year in which the report is submitted.
+(4)[^c-f91117b2aca279336065e8f61e1176b1] Where a maritime operator submits an annual emissions report to the regulator in accordance with paragraph 14 of Schedule 2A, the maritime emissions less any surrender deduction stated in the report must be recorded in the maritime operator’s maritime operator holding account on or before 30th April in the year in which the report is submitted.
 
 (5) Where the regulator makes a determination under articles 45 to 45B, the emissions so determined must, within one month of the notice of their determination being given under article 45(5), 45A(4) or 45B(3), be recorded by the registry administrator—
 
@@ -152,7 +152,7 @@ When assessing for the purposes of this Schedule whether an individual is a fit 
 - (a) lift the suspension;
 - (b) inform each regulator and the registry administrator that the suspension has been lifted.
 
-#### 8A. Exemption from liability[^key-fec15875213f603ea830407e3a5d8199]
+#### 8A. Exemption from liability[^c-fec15875213f603ea830407e3a5d8199]
 
 (1) Each of the following is exempt from liability in damages for anything done or omitted in the exercise or purported exercise of functions conferred or imposed on the UK ETS authority or the registry administrator under this Schedule—
 
@@ -180,7 +180,7 @@ When assessing for the purposes of this Schedule whether an individual is a fit 
 - (f) a deletion account (to hold allowances deleted under paragraph 23);
 - (g) a surrender account (to hold allowances surrendered under paragraph 24);
 - (h) one or more general holding accounts (to hold allowances transferred from accounts before closure under paragraph 30);
-- (i)[^key-e71f2c297300c6a57ab32da018b14d67] a flexible reserve account (to keep track of the flexible reserve referred to in article 23A).
+- (i)[^c-e71f2c297300c6a57ab32da018b14d67] a flexible reserve account (to keep track of the flexible reserve referred to in article 23A).
 
 (2) An account held by the UK ETS authority is a “central account”.
 
@@ -234,14 +234,14 @@ When assessing for the purposes of this Schedule whether an individual is a fit 
 - (a) lift the suspension;
 - (b) give notice to the operator and the regulator that the suspension has been lifted.
 
-##### 12. Transfer of operator holding accounts[^key-554797086cf1d980c1cd1f9d3c1ee879]
+##### 12. Transfer of operator holding accounts[^c-554797086cf1d980c1cd1f9d3c1ee879]
 
 (1) Where the regulator grants an application for the transfer (other than a partial transfer) of an installation's greenhouse gas emissions permit under paragraph 9 of Schedule 6, the regulator must, as soon as reasonably practicable—
 
 - (a) instruct the registry administrator to transfer the operator holding account for the installation held in the name of the transferring operator (as defined in paragraph 7(1) of Schedule 6) to the new operator (as defined in that sub-paragraph);
 - (b) instruct the registry administrator to—
   - (i) open an operator holding account for the installation in the name of the new operator; and
-  - (ii) close the operator holding account held in the name of the transferring operator (but see sub-paragraph (8))[^key-39a17c8427eda577905120cad0f536b3]; or
+  - (ii) close the operator holding account held in the name of the transferring operator (but see sub-paragraph (8))[^c-39a17c8427eda577905120cad0f536b3]; or
 - (c) inform the registry administrator that no action under paragraph (a) or (b) is required.
 
 (2) Where paragraph (1)(a) or (b) applies, the registry administrator may, by notice to the new operator or the regulator, require the new operator or the regulator to provide, in the form specified in the notice, such information as the registry administrator considers necessary to—
@@ -267,7 +267,7 @@ When assessing for the purposes of this Schedule whether an individual is a fit 
 
 (7) Where the registry administrator receives an instruction to transfer an operator holding account under sub-paragraph (1)(a), no action may be performed in relation to the account until the registry administrator complies with sub-paragraph (3).
 
-(8)[^key-5f0be4e20170486cdbe57df371e10f8d] Where the grant of the application results in a merger (as defined in Article 2(17) of the Free Allocation Regulation) and the transfer date (as defined in paragraph 9(6) of Schedule 6 to this Order) is on or after 31st March in a scheme year, the registry administrator must not close the transferring operator’s operator holding account in accordance with an instruction under sub-paragraph (1)(b)(ii) of this paragraph until any transfers or returns of allowances required to be made from the operator holding account by notice under article 34U or 34V are made.
+(8)[^c-5f0be4e20170486cdbe57df371e10f8d] Where the grant of the application results in a merger (as defined in Article 2(17) of the Free Allocation Regulation) and the transfer date (as defined in paragraph 9(6) of Schedule 6 to this Order) is on or after 31st March in a scheme year, the registry administrator must not close the transferring operator’s operator holding account in accordance with an instruction under sub-paragraph (1)(b)(ii) of this paragraph until any transfers or returns of allowances required to be made from the operator holding account by notice under article 34U or 34V are made.
 
 ##### 13. Aircraft operator holding accounts
 
@@ -292,7 +292,7 @@ When assessing for the purposes of this Schedule whether an individual is a fit 
 - (a) lift the suspension;
 - (b) give notice to the person and the regulator that the suspension has been lifted.
 
-##### 13A. Maritime operator holding accounts[^key-ecc75d32210bab245454575b6d218ded]
+##### 13A. Maritime operator holding accounts[^c-ecc75d32210bab245454575b6d218ded]
 
 (1) Where the regulator issues an emissions monitoring plan to a person under paragraph 10 of Schedule 2A, the regulator must, as soon as reasonably practicable, instruct the registry administrator to open a maritime operator holding account in the name of the person.
 
@@ -372,7 +372,7 @@ When assessing for the purposes of this Schedule whether an individual is a fit 
 - (b) permission to approve actions in relation to the account;
 - (c) permission to propose actions, and approve actions proposed by another operational authorised representative, in relation to the account;
 - (d) permission to review account information only.
-- (e)[^key-67484bf5e9d186350147d1405a29cee4] in the case of an operator holding account , an aircraft operator holding account or a maritime operator holding account[^key-aa0b4fc6716fc0fc7657f4a3e3515f07], permission to perform the following actions only (including permission to propose the actions for approval, and approve them if proposed, by another operational authorised representative)—
+- (e)[^c-67484bf5e9d186350147d1405a29cee4] in the case of an operator holding account , an aircraft operator holding account or a maritime operator holding account[^c-aa0b4fc6716fc0fc7657f4a3e3515f07], permission to perform the following actions only (including permission to propose the actions for approval, and approve them if proposed, by another operational authorised representative)—
   - (i) to transfer allowances from the account to the surrender account;
   - (ii) where allowances to which a person is not entitled (as set out in article 34S(3) or 34T(3)) have been transferred to the account under Part 4A, to transfer an equal number of allowances from the account to a central account designated by the UK ETS authority for the return of allowances (whether or not a notice under article 34V is given).
 
@@ -394,7 +394,7 @@ When assessing for the purposes of this Schedule whether an individual is a fit 
 
 (10) The appointment of an authorised representative for an account does not preclude the account holder from instructing the registry administrator to perform actions in relation to the account on behalf of the account holder.
 
-(11) In this Schedule, “**operational authorised representative**” means an authorised representative who has an account permission referred to in sub-paragraph (4)(a), (b) , (c) or (e)[^key-c5af72b4615d73c3297c2518a2c431f1].
+(11) In this Schedule, “**operational authorised representative**” means an authorised representative who has an account permission referred to in sub-paragraph (4)(a), (b) , (c) or (e)[^c-c5af72b4615d73c3297c2518a2c431f1].
 
 ##### 17. Change in account permission of authorised representatives
 
@@ -454,7 +454,7 @@ When assessing for the purposes of this Schedule whether an individual is a fit 
 - (a) paragraph 11(4)(b) (operator holding accounts);
 - (b) paragraph 12(3)(b) or (7) (transfer of operator holding accounts);
 - (c) paragraph 13(3)(b) (aircraft operator holding accounts);
-- (ca)[^key-b20a81488a0060710f97f5ec863bc8aa] paragraph 13A(3)(b) (maritime operator holding accounts);
+- (ca)[^c-b20a81488a0060710f97f5ec863bc8aa] paragraph 13A(3)(b) (maritime operator holding accounts);
 - (d) paragraph 25 (suspension of accounts).
 
 ##### 21. Transfer cancellations
@@ -473,7 +473,7 @@ The transfer of an allowance between accounts may be cancelled by the account ho
 
 (5) Where the account from which the allowance was transferred has been closed since the transfer completed (and the transfer cannot therefore be reversed), the account holder who requests the reversal of a transfer must give notice to the registry administrator of an alternative account to which the allowance is to be transferred.
 
-(6)[^key-cae6e8b93ff96e388f1e33e157fa4a1d] The registry administrator may reverse the transfer of an allowance from the allocation account if the transfer was made in error.
+(6)[^c-cae6e8b93ff96e388f1e33e157fa4a1d] The registry administrator may reverse the transfer of an allowance from the allocation account if the transfer was made in error.
 
 ##### 23. Deletion of allowances
 
@@ -483,7 +483,7 @@ The transfer of an allowance between accounts may be cancelled by the account ho
 
 ##### 24. Surrender of allowances
 
-(1)[^key-68e056cfd8c17f4f489c6d872b0af9d1] The operator of an installation, a person who is an aircraft operator in relation to a scheme year or a person who is a maritime operator in relation to a scheme year may surrender an allowance by transferring the allowance from—
+(1)[^c-68e056cfd8c17f4f489c6d872b0af9d1] The operator of an installation, a person who is an aircraft operator in relation to a scheme year or a person who is a maritime operator in relation to a scheme year may surrender an allowance by transferring the allowance from—
 
 - (a) the operator’s operator holding account for the installation;
 - (b) the aircraft operator’s aircraft operator holding account; or
@@ -497,8 +497,8 @@ to the surrender account.
 
 - (a) the person requesting the reversal has complied with—
   - (i) where the person requesting the reversal is the operator of an installation, the person's obligations to surrender allowances under article 27 in respect of the installation;
-  - (ii) where the person requesting the reversal is an aircraft operator in relation to a scheme year, the person's obligations to surrender allowances under article 34; [^key-eb537d7a081b2c2fb37cef7d1dfe2fd7]...
-  - (iii)[^key-8c20bfdf4465615a7986bad068bb47a4] where the person requesting the reversal is a maritime operator in relation to a scheme year, the person’s obligation to surrender allowances under paragraph 15 of Schedule 2A; and
+  - (ii) where the person requesting the reversal is an aircraft operator in relation to a scheme year, the person's obligations to surrender allowances under article 34; [^c-eb537d7a081b2c2fb37cef7d1dfe2fd7]...
+  - (iii)[^c-8c20bfdf4465615a7986bad068bb47a4] where the person requesting the reversal is a maritime operator in relation to a scheme year, the person’s obligation to surrender allowances under paragraph 15 of Schedule 2A; and
 - (b) the reversal of the transfer would not result in the person being in breach of those obligations.
 
 #### CHAPTER 4 — Suspension and closure of accounts
@@ -512,7 +512,7 @@ to the surrender account.
   - (ii) the registry administrator has not received instructions about the operation of the account from the person who has the right to deal with the assets of the account holder;
 - (b) if the registry administrator does not consider that the account holder is a fit and proper person to hold the account;
 - (c) if the registry administrator considers that the account has been, is being or may be used in relation to the commission of an offence under the law of any part of the United Kingdom or a country or territory outside the United Kingdom.
-- (d)[^key-7a1fd9d8ef7c7fa719c283b824c1b201] at the request of the account holder.
+- (d)[^c-7a1fd9d8ef7c7fa719c283b824c1b201] at the request of the account holder.
 
 (2) A suspended account may be subject to one or more of the following restrictions—
 
@@ -520,7 +520,7 @@ to the surrender account.
 - (b) no authorised representative may perform an action in relation to the account by accessing the registry;
 - (c) no allowances may be transferred from the account except to a central account.
 
-(3) Where the registry administrator suspends an account under sub-paragraph (1)(a), (b) or (c)[^key-775939bae9a76ca9abb15a2fb59f1e8b], the registry administrator must give notice of the suspension to the account holder as soon as reasonably practicable.
+(3) Where the registry administrator suspends an account under sub-paragraph (1)(a), (b) or (c)[^c-775939bae9a76ca9abb15a2fb59f1e8b], the registry administrator must give notice of the suspension to the account holder as soon as reasonably practicable.
 
 (4) A notice under sub-paragraph (3) must include the reason for the suspension unless the registry administrator considers that its inclusion might prejudice the investigation or prosecution of an offence under the law of any part of the United Kingdom or a country or territory outside the United Kingdom or would be contrary to the interests of national security .
 
@@ -556,7 +556,7 @@ The UK ETS authority may close—
   - (ii) after giving a surrender notice under paragraph 11(3) of that Schedule in respect of a greenhouse gas emissions permit for an installation, the regulator certifies under paragraph 11(6)(b) of that Schedule that the conditions of the permit and the requirements of the surrender notice have been complied with or that there is no reasonable prospect of their being complied with;
   - (iii) after giving a revocation notice under paragraph 12(4) of that Schedule in respect of a greenhouse gas emissions permit for an installation, the regulator certifies under paragraph 12(7)(b) of that Schedule that the conditions of the permit and the requirements of the revocation notice have been complied with or that there is no reasonable prospect of their being complied with; or
   - (iv) after the regulator converts an installation's greenhouse gas emissions permit into a hospital or small emitter permit under paragraph 10 of Schedule 7, the obligations of the operator under the permit in respect of specified emissions before 1st January 2026 are complied with; and
-- (b) where relevant, any notice given under article 34V (return of allowances: notice to operator, etc.) , any deficit notice given under article 44A or any notice given under paragraph 10 of Schedule 6 (transfer of permits: underreporting discovered after transfer),[^key-423bcfefb76369b357f01f18c0886165] to the operator of the installation or to a transferring operator (as defined in paragraph 7(1) of Schedule 6) has been complied with or the regulator considers that there is no reasonable prospect of the notice being complied with.
+- (b) where relevant, any notice given under article 34V (return of allowances: notice to operator, etc.) , any deficit notice given under article 44A or any notice given under paragraph 10 of Schedule 6 (transfer of permits: underreporting discovered after transfer),[^c-423bcfefb76369b357f01f18c0886165] to the operator of the installation or to a transferring operator (as defined in paragraph 7(1) of Schedule 6) has been complied with or the regulator considers that there is no reasonable prospect of the notice being complied with.
 
 (2) The regulator must instruct the registry administrator to close the operator holding account for the installation.
 
@@ -568,13 +568,13 @@ The UK ETS authority may close—
 
 - (a) the regulator is satisfied under article 34P that a person has ceased to perform aviation activity and there is no realistic prospect that the person will resume aviation activity;
 - (b) the person has complied with the requirements of article 34(1) or the regulator considers that there is no reasonable prospect of the requirements being complied with; and
-- (c) where relevant, any notice given under article 34V (return of allowances: notice to operator, etc.) , or any deficit notice given under article 44A,[^key-75854e0b3930198ded22884cea254dcf] to the person has been complied with or the regulator considers that there is no reasonable prospect of the notice being complied with.
+- (c) where relevant, any notice given under article 34V (return of allowances: notice to operator, etc.) , or any deficit notice given under article 44A,[^c-75854e0b3930198ded22884cea254dcf] to the person has been complied with or the regulator considers that there is no reasonable prospect of the notice being complied with.
 
 (2) The regulator must instruct the registry administrator to close the aircraft operator holding account.
 
 (3) The registry administrator must give notice to the person as soon as reasonably practicable after the account is closed.
 
-##### 28A. Closure of maritime operator holding accounts[^key-5d7d34feab29a6e6a3f1b2851327f557]
+##### 28A. Closure of maritime operator holding accounts[^c-5d7d34feab29a6e6a3f1b2851327f557]
 
 (1) This paragraph applies where—
 
@@ -609,7 +609,7 @@ The UK ETS authority may close—
 
 (3) If the account to be closed has been suspended, the registry administrator must transfer the allowances to a general holding account before closing the account.
 
-### PART 4 — Publication of information from registry[^key-439a0975921592954c9accf58bd5b437]
+### PART 4 — Publication of information from registry[^c-439a0975921592954c9accf58bd5b437]
 
 #### 31. Information about accounts: operator and aircraft operator holding accounts and trading accounts
 
@@ -617,7 +617,7 @@ The UK ETS authority may close—
 
 - (a) operator holding accounts;
 - (b) aircraft operator holding accounts;
-- (ba)[^key-f91224d4dd66f5eee8406c5bef22715a] maritime operator holding accounts;
+- (ba)[^c-f91224d4dd66f5eee8406c5bef22715a] maritime operator holding accounts;
 - (c) trading accounts.
 
 (2) The information is—
@@ -627,7 +627,7 @@ The UK ETS authority may close—
 - (c) whether the account is open or closed;
 - (d) if the account is an operator holding account, the information referred to in paragraph 32;
 - (e) if the account is an aircraft operator holding account, the information referred to in paragraph 33;
-- (ea)[^key-45f7b5028c02c3f95733c24dc46aaea7] if the account is a maritime operator holding account, the information referred to in paragraph 33A;
+- (ea)[^c-45f7b5028c02c3f95733c24dc46aaea7] if the account is a maritime operator holding account, the information referred to in paragraph 33A;
 - (f) if the account is a trading account, the account holder’s address.
 
 (3) The UK ETS authority must—
@@ -683,7 +683,7 @@ The UK ETS authority may close—
 
 (3) In this paragraph, “**relevant date**” means the 1st May preceding the date of publication of the information or updated information.
 
-#### 33A. Information about accounts: maritime operator holding accounts[^key-e858c674d32876843bc301d24f802933]
+#### 33A. Information about accounts: maritime operator holding accounts[^c-e858c674d32876843bc301d24f802933]
 
 (1) In the case of a maritime operator holding account, the information is—
 
@@ -706,7 +706,7 @@ The UK ETS authority may close—
 
 #### 34. Information about transfers of allowances
 
-(1)[^key-2b160a74c31eb4199cc0ef6558783b52] The UK ETS authority must publish the information referred to in sub-paragraph (1A) about each completed transfer of allowances from one account to another (other than a transfer from a central account to another central account).
+(1)[^c-2b160a74c31eb4199cc0ef6558783b52] The UK ETS authority must publish the information referred to in sub-paragraph (1A) about each completed transfer of allowances from one account to another (other than a transfer from a central account to another central account).
 
 (1A) The information is—
 
@@ -735,13 +735,13 @@ The UK ETS authority may close—
 
 (3) Information about transfers completing in the 12-month period ending with 30th April 2023, and in each subsequent 12-month period ending with 30th April, must be published as soon as reasonably practicable after 3 years have elapsed since the end of the 12-month period.
 
-(4)[^key-4e3c35b8c9b04ef10b5e6e39d2715e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4e3c35b8c9b04ef10b5e6e39d2715e42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-5192d96ce0fc5bd8651d19b95927b47f] This paragraph is subject to article 75C (national security).
+(5)[^c-5192d96ce0fc5bd8651d19b95927b47f] This paragraph is subject to article 75C (national security).
 
 ## Annotations
 
-[^key-6f8d471b05b41e7a0aa55c5410f873df]: Textual amendment: Sch. 5A inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [37](https://www.legislation.gov.uk/uksi/2020/1557/article/37)
+[^c-6f8d471b05b41e7a0aa55c5410f873df]: Textual amendment: Sch. 5A inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [37](https://www.legislation.gov.uk/uksi/2020/1557/article/37)
 
 [^M_F_6797c24a-7aa7-4b81-a535-6e3980f722d4]: Textual amendment: Words in Sch. 5A para. 5(1)(a) substituted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 21(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/21/2)
 
@@ -751,62 +751,62 @@ The UK ETS authority may close—
 
 [^M_F_8a62043f-6ec0-4430-99a1-fc1a97b30135]: Textual amendment: Sch. 5A para. 5(2)(a)(iva) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 21(5)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/21/5)
 
-[^key-e58bbcfde16a3f23381a328126a8bff1]: Textual amendment: [Sch. 5A para. 6A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/6A) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [23(2)](https://www.legislation.gov.uk/uksi/2021/1455/article/23/2)
+[^c-e58bbcfde16a3f23381a328126a8bff1]: Textual amendment: [Sch. 5A para. 6A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/6A) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [23(2)](https://www.legislation.gov.uk/uksi/2021/1455/article/23/2)
 
-[^key-08b18f54dbbaa7db3b5f5811a91599b8]: Textual amendment: [Sch. 5A para. 6A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/6A) heading substituted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 22(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/22/2)
+[^c-08b18f54dbbaa7db3b5f5811a91599b8]: Textual amendment: [Sch. 5A para. 6A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/6A) heading substituted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 22(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/22/2)
 
-[^key-f91117b2aca279336065e8f61e1176b1]: Textual amendment: [Sch. 5A para. 6A(4)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/6A/4)[(5)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/6A/5) substituted for Sch. 5A para. 6A(4) (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 22(3)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/22/3)
+[^c-f91117b2aca279336065e8f61e1176b1]: Textual amendment: [Sch. 5A para. 6A(4)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/6A/4)[(5)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/6A/5) substituted for Sch. 5A para. 6A(4) (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 22(3)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/22/3)
 
-[^key-fec15875213f603ea830407e3a5d8199]: Textual amendment: [Sch. 5A para. 8A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/8A) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [23(3)](https://www.legislation.gov.uk/uksi/2021/1455/article/23/3)
+[^c-fec15875213f603ea830407e3a5d8199]: Textual amendment: [Sch. 5A para. 8A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/8A) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [23(3)](https://www.legislation.gov.uk/uksi/2021/1455/article/23/3)
 
-[^key-e71f2c297300c6a57ab32da018b14d67]: Textual amendment: [Sch. 5A para. 9(1)(i)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/9/1/i) inserted (19.12.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/1/d), [31(2)](https://www.legislation.gov.uk/uksi/2024/1366/article/31/2)
+[^c-e71f2c297300c6a57ab32da018b14d67]: Textual amendment: [Sch. 5A para. 9(1)(i)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/9/1/i) inserted (19.12.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/1/d), [31(2)](https://www.legislation.gov.uk/uksi/2024/1366/article/31/2)
 
-[^key-554797086cf1d980c1cd1f9d3c1ee879]: Modification: [Sch. 5A para. 12](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/12) applied (with modifications) (31.3.2025) by EUR 2019/331, Art. 25(12) (as inserted by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [47(4)](https://www.legislation.gov.uk/uksi/2025/124/article/47/4))
+[^c-554797086cf1d980c1cd1f9d3c1ee879]: Modification: [Sch. 5A para. 12](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/12) applied (with modifications) (31.3.2025) by EUR 2019/331, Art. 25(12) (as inserted by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [47(4)](https://www.legislation.gov.uk/uksi/2025/124/article/47/4))
 
-[^key-39a17c8427eda577905120cad0f536b3]: Textual amendment: Words in [Sch. 5A para. 12(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/12/1/b/ii) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2022/1173/article/15/2/a)
+[^c-39a17c8427eda577905120cad0f536b3]: Textual amendment: Words in [Sch. 5A para. 12(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/12/1/b/ii) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [15(2)(a)](https://www.legislation.gov.uk/uksi/2022/1173/article/15/2/a)
 
-[^key-5f0be4e20170486cdbe57df371e10f8d]: Textual amendment: [Sch. 5A para. 12(8)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/12/8) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/2022/1173/article/15/2/b)
+[^c-5f0be4e20170486cdbe57df371e10f8d]: Textual amendment: [Sch. 5A para. 12(8)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/12/8) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [15(2)(b)](https://www.legislation.gov.uk/uksi/2022/1173/article/15/2/b)
 
-[^key-ecc75d32210bab245454575b6d218ded]: Textual amendment: [Sch. 5A para. 13A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/13A) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/23)
+[^c-ecc75d32210bab245454575b6d218ded]: Textual amendment: [Sch. 5A para. 13A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/13A) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/23)
 
-[^key-67484bf5e9d186350147d1405a29cee4]: Textual amendment: [Sch. 5A para. 16(4)(e)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/16/4/e) inserted (1.1.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2023 (S.I. 2023/850)](https://www.legislation.gov.uk/uksi/2023/850), [arts. 2](https://www.legislation.gov.uk/uksi/2023/850/article/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2023/850/article/9/2/a)
+[^c-67484bf5e9d186350147d1405a29cee4]: Textual amendment: [Sch. 5A para. 16(4)(e)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/16/4/e) inserted (1.1.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2023 (S.I. 2023/850)](https://www.legislation.gov.uk/uksi/2023/850), [arts. 2](https://www.legislation.gov.uk/uksi/2023/850/article/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2023/850/article/9/2/a)
 
-[^key-aa0b4fc6716fc0fc7657f4a3e3515f07]: Textual amendment: Words in [Sch. 5A para. 16(4)(e)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/16/4/e) substituted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/24/2)
+[^c-aa0b4fc6716fc0fc7657f4a3e3515f07]: Textual amendment: Words in [Sch. 5A para. 16(4)(e)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/16/4/e) substituted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 24(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/24/2)
 
-[^key-c5af72b4615d73c3297c2518a2c431f1]: Textual amendment: Words in [Sch. 5A para. 16(11)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/16/11) substituted (1.1.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2023 (S.I. 2023/850)](https://www.legislation.gov.uk/uksi/2023/850), [arts. 2](https://www.legislation.gov.uk/uksi/2023/850/article/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2023/850/article/9/2/b)
+[^c-c5af72b4615d73c3297c2518a2c431f1]: Textual amendment: Words in [Sch. 5A para. 16(11)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/16/11) substituted (1.1.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2023 (S.I. 2023/850)](https://www.legislation.gov.uk/uksi/2023/850), [arts. 2](https://www.legislation.gov.uk/uksi/2023/850/article/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2023/850/article/9/2/b)
 
-[^key-b20a81488a0060710f97f5ec863bc8aa]: Textual amendment: [Sch. 5A para. 20(2)(ca)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/20/2/ca) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 25(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/25/2)
+[^c-b20a81488a0060710f97f5ec863bc8aa]: Textual amendment: [Sch. 5A para. 20(2)(ca)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/20/2/ca) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 25(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/25/2)
 
-[^key-cae6e8b93ff96e388f1e33e157fa4a1d]: Textual amendment: [Sch. 5A para. 22(6)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/22/6) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [23(4)](https://www.legislation.gov.uk/uksi/2021/1455/article/23/4)
+[^c-cae6e8b93ff96e388f1e33e157fa4a1d]: Textual amendment: [Sch. 5A para. 22(6)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/22/6) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [23(4)](https://www.legislation.gov.uk/uksi/2021/1455/article/23/4)
 
-[^key-68e056cfd8c17f4f489c6d872b0af9d1]: Textual amendment: [Sch. 5A para. 24(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/24/1) substituted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 26(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/26/2)
+[^c-68e056cfd8c17f4f489c6d872b0af9d1]: Textual amendment: [Sch. 5A para. 24(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/24/1) substituted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 26(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/26/2)
 
-[^key-eb537d7a081b2c2fb37cef7d1dfe2fd7]: Textual amendment: Word in [Sch. 5A para. 24(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/24/3/a/ii) omitted (1.7.2026) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 26(3)(a)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/26/3/a)
+[^c-eb537d7a081b2c2fb37cef7d1dfe2fd7]: Textual amendment: Word in [Sch. 5A para. 24(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/24/3/a/ii) omitted (1.7.2026) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 26(3)(a)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/26/3/a)
 
-[^key-8c20bfdf4465615a7986bad068bb47a4]: Textual amendment: [Sch. 5A para. 24(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/24/3/a/iii) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 26(3)(b)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/26/3/b)
+[^c-8c20bfdf4465615a7986bad068bb47a4]: Textual amendment: [Sch. 5A para. 24(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/24/3/a/iii) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 26(3)(b)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/26/3/b)
 
-[^key-7a1fd9d8ef7c7fa719c283b824c1b201]: Textual amendment: [Sch. 5A para. 25(1)(d)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/25/1/d) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [23(5)(a)](https://www.legislation.gov.uk/uksi/2021/1455/article/23/5/a)
+[^c-7a1fd9d8ef7c7fa719c283b824c1b201]: Textual amendment: [Sch. 5A para. 25(1)(d)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/25/1/d) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [23(5)(a)](https://www.legislation.gov.uk/uksi/2021/1455/article/23/5/a)
 
-[^key-775939bae9a76ca9abb15a2fb59f1e8b]: Textual amendment: Words in [Sch. 5A para. 25(3)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/25/3) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [23(5)(b)](https://www.legislation.gov.uk/uksi/2021/1455/article/23/5/b)
+[^c-775939bae9a76ca9abb15a2fb59f1e8b]: Textual amendment: Words in [Sch. 5A para. 25(3)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/25/3) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [23(5)(b)](https://www.legislation.gov.uk/uksi/2021/1455/article/23/5/b)
 
-[^key-423bcfefb76369b357f01f18c0886165]: Textual amendment: Words in Sch. 5A para. 27(1)(b) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [31(3)](https://www.legislation.gov.uk/uksi/2024/1366/article/31/3)
+[^c-423bcfefb76369b357f01f18c0886165]: Textual amendment: Words in Sch. 5A para. 27(1)(b) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [31(3)](https://www.legislation.gov.uk/uksi/2024/1366/article/31/3)
 
-[^key-75854e0b3930198ded22884cea254dcf]: Textual amendment: Words in Sch. 5A para. 28(1)(c) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [31(4)](https://www.legislation.gov.uk/uksi/2024/1366/article/31/4)
+[^c-75854e0b3930198ded22884cea254dcf]: Textual amendment: Words in Sch. 5A para. 28(1)(c) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [31(4)](https://www.legislation.gov.uk/uksi/2024/1366/article/31/4)
 
-[^key-5d7d34feab29a6e6a3f1b2851327f557]: Textual amendment: [Sch. 5A para. 28A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/28A) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/27)
+[^c-5d7d34feab29a6e6a3f1b2851327f557]: Textual amendment: [Sch. 5A para. 28A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/28A) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/27)
 
 [^M_F_276345b4-7a1b-4c3e-bd44-8b7cdf2c93bd]: Textual amendment: Words in Sch. 5A para. 30(1) substituted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/28)
 
-[^key-439a0975921592954c9accf58bd5b437]: Textual amendment: [Sch. 5A Pt. 4](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/part/4) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [15(3)](https://www.legislation.gov.uk/uksi/2022/1173/article/15/3)
+[^c-439a0975921592954c9accf58bd5b437]: Textual amendment: [Sch. 5A Pt. 4](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/part/4) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [15(3)](https://www.legislation.gov.uk/uksi/2022/1173/article/15/3)
 
-[^key-f91224d4dd66f5eee8406c5bef22715a]: Textual amendment: [Sch. 5A para. 31(1)(ba)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/31/1/ba) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 29(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/29/2)
+[^c-f91224d4dd66f5eee8406c5bef22715a]: Textual amendment: [Sch. 5A para. 31(1)(ba)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/31/1/ba) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 29(2)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/29/2)
 
-[^key-45f7b5028c02c3f95733c24dc46aaea7]: Textual amendment: [Sch. 5A para. 31(2)(ea)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/31/2/ea) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 29(3)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/29/3)
+[^c-45f7b5028c02c3f95733c24dc46aaea7]: Textual amendment: [Sch. 5A para. 31(2)(ea)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/31/2/ea) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 29(3)](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/29/3)
 
-[^key-e858c674d32876843bc301d24f802933]: Textual amendment: [Sch. 5A para. 33A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/33A) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/30)
+[^c-e858c674d32876843bc301d24f802933]: Textual amendment: [Sch. 5A para. 33A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/33A) inserted (1.7.2026) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Extension to Maritime Activities) Order 2026 (S.I. 2026/392)](https://www.legislation.gov.uk/uksi/2026/392), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/392/article/1/1), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2026/392/schedule/2/paragraph/30)
 
-[^key-2b160a74c31eb4199cc0ef6558783b52]: Textual amendment: [Sch. 5A para. 34(1)-(1B)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/34/1) substituted for [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A) [para. 34(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/34/1) (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [29(2)(a)](https://www.legislation.gov.uk/uksi/2025/124/article/29/2/a)
+[^c-2b160a74c31eb4199cc0ef6558783b52]: Textual amendment: [Sch. 5A para. 34(1)-(1B)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/34/1) substituted for [Sch. 5A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A) [para. 34(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/34/1) (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [29(2)(a)](https://www.legislation.gov.uk/uksi/2025/124/article/29/2/a)
 
-[^key-4e3c35b8c9b04ef10b5e6e39d2715e42]: Textual amendment: [Sch. 5A para. 34(4)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/34/4) omitted (31.3.2025) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [29(2)(b)](https://www.legislation.gov.uk/uksi/2025/124/article/29/2/b)
+[^c-4e3c35b8c9b04ef10b5e6e39d2715e42]: Textual amendment: [Sch. 5A para. 34(4)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/34/4) omitted (31.3.2025) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [29(2)(b)](https://www.legislation.gov.uk/uksi/2025/124/article/29/2/b)
 
-[^key-5192d96ce0fc5bd8651d19b95927b47f]: Textual amendment: [Sch. 5A para. 34(5)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/34/5) inserted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [29(2)(c)](https://www.legislation.gov.uk/uksi/2025/124/article/29/2/c)
+[^c-5192d96ce0fc5bd8651d19b95927b47f]: Textual amendment: [Sch. 5A para. 34(5)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5A/paragraph/34/5) inserted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [29(2)(c)](https://www.legislation.gov.uk/uksi/2025/124/article/29/2/c)

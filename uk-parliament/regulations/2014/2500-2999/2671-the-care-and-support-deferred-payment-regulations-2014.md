@@ -45,7 +45,7 @@ Coming into force in accordance with regulation 1(1)
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 34(1), (2) and (4) to (8), 35 and 125(7) and (8) of the Care Act 2014[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-0c75be88bc98667f9195040d19e8144b]
+## 1. Citation, commencement and interpretation[^c-0c75be88bc98667f9195040d19e8144b]
 
 (1) These Regulations may be cited as the Care and Support (Deferred Payment) Regulations 2014 and come into force immediately after sections 34(1) and 35(1) of the Care Act 2014 are both fully in force[^f00002].
 
@@ -58,7 +58,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “supported living accommodation” has the meaning in regulation 3(2);
 - “the 2011 Act” means the Budget Responsibility and National Audit Act 2011[^f00005].
 
-## 2. Local authority required to enter into a deferred payment agreement[^key-fb756a8cc6e6c888595069c7dcbeb93d]
+## 2. Local authority required to enter into a deferred payment agreement[^c-fb756a8cc6e6c888595069c7dcbeb93d]
 
 (1) A local authority[^f00006] is required to enter into a deferred payment agreement with an adult if—
 
@@ -70,8 +70,8 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 - (a) the adult’s needs for care and support—
   - (i) are being met or are going to be met under section 18 or section 19(1) or (2) and the care and support plan[^f00007] for the adult specifies that the local authority is going to meet the adult’s needs by the provision of accommodation in a care home; or
-  - (ii) are not being or going to be met by the local authority and the local authority considers that if it had been asked to meet the adult’s needs it would have done so under section 18 or section 19(1) or (2) and it would have met the adult’s needs by the provision to the adult of accommodation in a care home; or[^key-bf6bd576ef8d0147f304a2d554ea4ef6]
-  - (iii)[^key-b1cd78b5b3e38fb430fd45841ece415a] are not being or going to be met by the local authority under section 18 and are needs that the local authority considers it would be required to meet under that section by the provision of accommodation in a care home but for the fact that the local authority is satisfied that the adult’s financial resources are above the financial limit; and
+  - (ii) are not being or going to be met by the local authority and the local authority considers that if it had been asked to meet the adult’s needs it would have done so under section 18 or section 19(1) or (2) and it would have met the adult’s needs by the provision to the adult of accommodation in a care home; or[^c-bf6bd576ef8d0147f304a2d554ea4ef6]
+  - (iii)[^c-b1cd78b5b3e38fb430fd45841ece415a] are not being or going to be met by the local authority under section 18 and are needs that the local authority considers it would be required to meet under that section by the provision of accommodation in a care home but for the fact that the local authority is satisfied that the adult’s financial resources are above the financial limit; and
 - (b) the local authority is satisfied that the adult has a legal or beneficial interest in a property which is the adult’s main or only home, and
   - (i) where a financial assessment within the meaning of section 17(5) has been carried out in respect of the adult, that—
     - (aa) the value of that interest has not been disregarded for the purposes of calculating the amount of the adult’s capital[^f00008]; and
@@ -80,14 +80,14 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) But a local authority is only required to enter into a deferred payment agreement with an adult for amounts due from the adult to the authority under section 14, or for costs of care and support the provision of which the local authority considers to be necessary to meet the adult’s needs.
 
-## 3. Local authority permitted to enter into a deferred payment agreement[^key-d485ad05979f59c22fa48da93ccd1f3a]
+## 3. Local authority permitted to enter into a deferred payment agreement[^c-d485ad05979f59c22fa48da93ccd1f3a]
 
 (1) A local authority is permitted to enter into a deferred payment agreement with an adult if—
 
 - (a) the adult’s needs for care and support—
   - (i) are being met or are going to be met under section 18 or section 19(1) or (2) and the care and support plan for the adult specifies that the local authority is going to meet the adult’s needs by the provision to the adult of accommodation in a care home or supported living accommodation; or
-  - (ii) are not being or going to be met by the local authority and the local authority considers that if it had been asked to meet the adult’s needs it would have done so under section 18 or section 19(1) or (2) and it would have met the adult’s needs by the provision to the adult of accommodation in a care home or supported living accommodation; or[^key-c4ede09cfc68e65c756d5ec10858e7bd]
-  - (iii)[^key-c081fc714d9b61c8b1e1ff0d6c2233eb] are not being or going to be met by the local authority under section 18 and are needs that the local authority considers it would be required to meet under that section by the provision of accommodation in a care home but for the fact that the local authority is satisfied that the adult’s financial resources are above the financial limit;
+  - (ii) are not being or going to be met by the local authority and the local authority considers that if it had been asked to meet the adult’s needs it would have done so under section 18 or section 19(1) or (2) and it would have met the adult’s needs by the provision to the adult of accommodation in a care home or supported living accommodation; or[^c-c4ede09cfc68e65c756d5ec10858e7bd]
+  - (iii)[^c-c081fc714d9b61c8b1e1ff0d6c2233eb] are not being or going to be met by the local authority under section 18 and are needs that the local authority considers it would be required to meet under that section by the provision of accommodation in a care home but for the fact that the local authority is satisfied that the adult’s financial resources are above the financial limit;
 - (b) the condition in regulation 4 is met; and
 - (c) the adult agrees to all the terms and conditions included in the agreement in accordance with regulation 11.
 
@@ -107,7 +107,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (5) In paragraph (4) “tenancy” means a tenancy which is not a long tenancy.
 
-## 4. Adequate security[^key-3a8db1dfb3a8d423b3417ae63de5caf5]
+## 4. Adequate security[^c-3a8db1dfb3a8d423b3417ae63de5caf5]
 
 (1) The local authority must obtain—
 
@@ -131,7 +131,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) the creation of a charge; and
 - (b) the charge taking priority to and ranking before any interest the person has in the land or other asset which will be the subject of the charge.
 
-## 5. Deferred amount and equity limit[^key-3eb2994819574fea840f52b780674dc2]
+## 5. Deferred amount and equity limit[^c-3eb2994819574fea840f52b780674dc2]
 
 (1) Subject to paragraph (3), the deferred amount is the sum which is specified or determined in accordance with paragraph (2).
 
@@ -159,7 +159,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (7) Any interest and administration costs may continue to be treated in the same way as the deferred amount even after the equity limit is reached.
 
-## 6. Adult’s contribution[^key-0b70f712fabd996e47d1f99661954139]
+## 6. Adult’s contribution[^c-0b70f712fabd996e47d1f99661954139]
 
 (1) If in any week during which the agreement is in force the adult’s weekly income exceeds £144, a local authority is permitted not to—
 
@@ -174,25 +174,25 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (5) The amount of the adult’s weekly income must be calculated in accordance with regulations made under section 17.
 
-(6)[^key-d5a5dc295b5dbd1a5ade5a03f9e5e917] But nothing in this regulation requires the local authority to—
+(6)[^c-d5a5dc295b5dbd1a5ade5a03f9e5e917] But nothing in this regulation requires the local authority to—
 
 - (a) defer any amount which is due to it under section 14 or 30(2); or
 - (b) advance any or all of an instalment or part of an instalment under the loan agreement to the adult,
 
 if, under regulation 5(3) of these Regulations or in accordance with the terms of the agreement, the authority is required to, or is permitted to, cease to defer that amount or cease to advance any or all of the instalment or part of the instalment under the loan agreement.
 
-## 7. Time for repayment of the deferred amount[^key-2d78082015c04bc5afe964611e30ed72]
+## 7. Time for repayment of the deferred amount[^c-2d78082015c04bc5afe964611e30ed72]
 
 The specified time for repayment of the deferred amount and any interest and administration costs which have been treated in the same way as the deferred amount is the sooner of—
 
 - (a) the date of sale or disposal of the land or other asset in respect of which the authority has a charge; or
 - (b) 90 days after the date of the death of the adult with whom the agreement is made or such longer time as the authority may permit.
 
-## 8. Termination[^key-018c1ea1ad5cf62cb400099c588a1756]
+## 8. Termination[^c-018c1ea1ad5cf62cb400099c588a1756]
 
 The adult may terminate the deferred payment agreement at any time prior to the specified time by giving the authority reasonable notice in writing and paying to the local authority the deferred amount and any interest and administration costs which have been treated in the same way as the deferred amount.
 
-## 9. Interest[^key-f0b784edfea31c336074421254f76ea6]
+## 9. Interest[^c-f0b784edfea31c336074421254f76ea6]
 
 (1) A local authority may charge interest on an adult’s deferred amount and any amounts which are treated in the same way as the deferred amount provided that, before entering into the agreement, it informs the adult that it proposes to do so and of the rate at which interest will be charged.
 
@@ -209,7 +209,7 @@ The adult may terminate the deferred payment agreement at any time prior to the 
 
 (6) “Financial year” has the meaning given in section 25(2) of the 2011 Act.
 
-## 10. Administration costs[^key-d3568bc14cd9e54a3bd5cd6bfc49dd5a]
+## 10. Administration costs[^c-d3568bc14cd9e54a3bd5cd6bfc49dd5a]
 
 (1) The local authority may charge the adult its administration costs in accordance with paragraph (3) or (4) provided that it informs the adult that it proposes to do so, before entering into the agreement, and complies with sub–paragraphs (a) to (c) of paragraph (5).
 
@@ -243,7 +243,7 @@ The adult may terminate the deferred payment agreement at any time prior to the 
   - (i) which, in a case where the administration costs are calculated in accordance with paragraph (3), is attributable to each of the items referred to in paragraph (3); or
   - (ii) which, in a case where the costs are calculated in accordance with paragraph 4, is attributable to the costs referred to in paragraph (4)(a) and each of the items referred to in sub-paragraphs (b) to (f) of that paragraph.
 
-## 11. Terms, conditions and information[^key-0cc3f1dc5f79e190c2879ebc761fe864]
+## 11. Terms, conditions and information[^c-0cc3f1dc5f79e190c2879ebc761fe864]
 
 (1) The deferred payment agreement must include any terms, conditions and information, without which the adult is unable to ascertain his or her rights and obligations under the agreement including—
 
@@ -317,7 +317,7 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00001]: Footnote: [2014 c.23](https://www.legislation.gov.uk/ukpga/2014/23). The powers to make regulations are exercisable by the Secretary of State; see section 125(1).
 
-[^key-0c75be88bc98667f9195040d19e8144b]: Commencement: Reg. 1 in force at 1.4.2015 in accordance with reg. 1(1)
+[^c-0c75be88bc98667f9195040d19e8144b]: Commencement: Reg. 1 in force at 1.4.2015 in accordance with reg. 1(1)
 
 [^f00002]: Footnote: Sections 34(1) and 35(1) have been commenced for the purpose of making regulations by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473).
 
@@ -327,46 +327,46 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^f00005]: Footnote: [2011 c.4](https://www.legislation.gov.uk/ukpga/2011/4).
 
-[^key-fb756a8cc6e6c888595069c7dcbeb93d]: Commencement: Reg. 2 in force at 1.4.2015 in accordance with reg. 1(1)
+[^c-fb756a8cc6e6c888595069c7dcbeb93d]: Commencement: Reg. 2 in force at 1.4.2015 in accordance with reg. 1(1)
 
 [^f00006]: Footnote: *See* section 1(4) of the Act as to the meaning of “local authority”; the definition in section 1(4) is limited to local authorities in England.
 
 [^f00007]: Footnote: *See* section 25 for the definition of “care and support plan”.
 
-[^key-bf6bd576ef8d0147f304a2d554ea4ef6]: Textual amendment: Word in [reg. 2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2671/regulation/2/2/a/ii) substituted (5.2.2018) by [The Care and Support (Deferred Payment) (Amendment) Regulations 2017 (S.I. 2017/1318)](https://www.legislation.gov.uk/uksi/2017/1318), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1318/article/1/1), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/1318/regulation/2/a)
+[^c-bf6bd576ef8d0147f304a2d554ea4ef6]: Textual amendment: Word in [reg. 2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2671/regulation/2/2/a/ii) substituted (5.2.2018) by [The Care and Support (Deferred Payment) (Amendment) Regulations 2017 (S.I. 2017/1318)](https://www.legislation.gov.uk/uksi/2017/1318), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1318/article/1/1), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/1318/regulation/2/a)
 
-[^key-b1cd78b5b3e38fb430fd45841ece415a]: Textual amendment: [Reg. 2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2014/2671/regulation/2/2/a/iii) inserted (5.2.2018) by [The Care and Support (Deferred Payment) (Amendment) Regulations 2017 (S.I. 2017/1318)](https://www.legislation.gov.uk/uksi/2017/1318), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1318/article/1/1), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1318/regulation/2/b)
+[^c-b1cd78b5b3e38fb430fd45841ece415a]: Textual amendment: [Reg. 2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2014/2671/regulation/2/2/a/iii) inserted (5.2.2018) by [The Care and Support (Deferred Payment) (Amendment) Regulations 2017 (S.I. 2017/1318)](https://www.legislation.gov.uk/uksi/2017/1318), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1318/article/1/1), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1318/regulation/2/b)
 
 [^f00008]: Footnote: *See* section 17(11)(b) which provides that regulations under that section must make provision for calculating capital.
 
-[^key-d485ad05979f59c22fa48da93ccd1f3a]: Commencement: Reg. 3 in force at 1.4.2015 in accordance with reg. 1(1)
+[^c-d485ad05979f59c22fa48da93ccd1f3a]: Commencement: Reg. 3 in force at 1.4.2015 in accordance with reg. 1(1)
 
-[^key-c4ede09cfc68e65c756d5ec10858e7bd]: Textual amendment: Word in [reg. 3(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2671/regulation/3/1/a/ii) inserted (5.2.2018) by [The Care and Support (Deferred Payment) (Amendment) Regulations 2017 (S.I. 2017/1318)](https://www.legislation.gov.uk/uksi/2017/1318), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1318/article/1/1), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1318/regulation/3/a)
+[^c-c4ede09cfc68e65c756d5ec10858e7bd]: Textual amendment: Word in [reg. 3(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2671/regulation/3/1/a/ii) inserted (5.2.2018) by [The Care and Support (Deferred Payment) (Amendment) Regulations 2017 (S.I. 2017/1318)](https://www.legislation.gov.uk/uksi/2017/1318), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1318/article/1/1), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1318/regulation/3/a)
 
-[^key-c081fc714d9b61c8b1e1ff0d6c2233eb]: Textual amendment: [Reg. 3(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2014/2671/regulation/3/1/a/iii) inserted (5.2.2018) by [The Care and Support (Deferred Payment) (Amendment) Regulations 2017 (S.I. 2017/1318)](https://www.legislation.gov.uk/uksi/2017/1318), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1318/article/1/1), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1318/regulation/3/b)
+[^c-c081fc714d9b61c8b1e1ff0d6c2233eb]: Textual amendment: [Reg. 3(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2014/2671/regulation/3/1/a/iii) inserted (5.2.2018) by [The Care and Support (Deferred Payment) (Amendment) Regulations 2017 (S.I. 2017/1318)](https://www.legislation.gov.uk/uksi/2017/1318), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/1318/article/1/1), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1318/regulation/3/b)
 
-[^key-3a8db1dfb3a8d423b3417ae63de5caf5]: Commencement: Reg. 4 in force at 1.4.2015 in accordance with reg. 1(1)
+[^c-3a8db1dfb3a8d423b3417ae63de5caf5]: Commencement: Reg. 4 in force at 1.4.2015 in accordance with reg. 1(1)
 
 [^f00009]: Footnote: *See* section 34(6) for the meaning of “deferred amount”.
 
 [^f00010]: Footnote: *See* the Land Registration Act [2002 (c.9)](https://www.legislation.gov.uk/ukpga/2002/9), section 132(1) for the meaning of “charge”, “legal mortgage”, “register”.
 
-[^key-3eb2994819574fea840f52b780674dc2]: Commencement: Reg. 5 in force at 1.4.2015 in accordance with reg. 1(1)
+[^c-3eb2994819574fea840f52b780674dc2]: Commencement: Reg. 5 in force at 1.4.2015 in accordance with reg. 1(1)
 
-[^key-0b70f712fabd996e47d1f99661954139]: Commencement: Reg. 6 in force at 1.4.2015 in accordance with reg. 1(1)
+[^c-0b70f712fabd996e47d1f99661954139]: Commencement: Reg. 6 in force at 1.4.2015 in accordance with reg. 1(1)
 
-[^key-d5a5dc295b5dbd1a5ade5a03f9e5e917]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2014/2671/regulation/6/6) inserted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Care and Support (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/644)](https://www.legislation.gov.uk/uksi/2015/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2015/644/regulation/2)
+[^c-d5a5dc295b5dbd1a5ade5a03f9e5e917]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2014/2671/regulation/6/6) inserted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Care and Support (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/644)](https://www.legislation.gov.uk/uksi/2015/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2015/644/regulation/2)
 
-[^key-2d78082015c04bc5afe964611e30ed72]: Commencement: Reg. 7 in force at 1.4.2015 in accordance with reg. 1(1)
+[^c-2d78082015c04bc5afe964611e30ed72]: Commencement: Reg. 7 in force at 1.4.2015 in accordance with reg. 1(1)
 
-[^key-018c1ea1ad5cf62cb400099c588a1756]: Commencement: Reg. 8 in force at 1.4.2015 in accordance with reg. 1(1)
+[^c-018c1ea1ad5cf62cb400099c588a1756]: Commencement: Reg. 8 in force at 1.4.2015 in accordance with reg. 1(1)
 
-[^key-f0b784edfea31c336074421254f76ea6]: Commencement: Reg. 9 in force at 1.4.2015 in accordance with reg. 1(1)
+[^c-f0b784edfea31c336074421254f76ea6]: Commencement: Reg. 9 in force at 1.4.2015 in accordance with reg. 1(1)
 
 [^f00011]: Footnote: The Office of Budget Responsibility is established by section 3 of the 2011 Act.
 
 [^f00012]: Footnote: A copy of the report can be requested via careactconsultation@dh.gsi.gov.uk or the Department of Health, Richmond House, 79 Whitehall, London SW1A 2NS and is available at http://budgetresponsibility.org.uk/ .
 
-[^key-d3568bc14cd9e54a3bd5cd6bfc49dd5a]: Commencement: Reg. 10 in force at 1.4.2015 in accordance with reg. 1(1)
+[^c-d3568bc14cd9e54a3bd5cd6bfc49dd5a]: Commencement: Reg. 10 in force at 1.4.2015 in accordance with reg. 1(1)
 
-[^key-0cc3f1dc5f79e190c2879ebc761fe864]: Commencement: Reg. 11 in force at 1.4.2015 in accordance with reg. 1(1)
+[^c-0cc3f1dc5f79e190c2879ebc761fe864]: Commencement: Reg. 11 in force at 1.4.2015 in accordance with reg. 1(1)

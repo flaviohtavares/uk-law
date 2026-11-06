@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. SIB’s functions under the Regulations[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+## 73. SIB’s functions under the Regulations[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be67a84e1c11d0fcbb3d21f09c403e05]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/251) revoked (1.11.2004) by [Open-Ended Investment Companies Regulations (Northern Ireland) 2004 (S.R. 2004/335)](https://www.legislation.gov.uk/nisr/2004/335), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b), [84(1)](https://www.legislation.gov.uk/nisr/2004/335/regulation/84/1) (with [reg. 84(2)(3)](https://www.legislation.gov.uk/nisr/2004/335/regulation/84/2))
+[^c-be67a84e1c11d0fcbb3d21f09c403e05]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/251) revoked (1.11.2004) by [Open-Ended Investment Companies Regulations (Northern Ireland) 2004 (S.R. 2004/335)](https://www.legislation.gov.uk/nisr/2004/335), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b), [84(1)](https://www.legislation.gov.uk/nisr/2004/335/regulation/84/1) (with [reg. 84(2)(3)](https://www.legislation.gov.uk/nisr/2004/335/regulation/84/2))

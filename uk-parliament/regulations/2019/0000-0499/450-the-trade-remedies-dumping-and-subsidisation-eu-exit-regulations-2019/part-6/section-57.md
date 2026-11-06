@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. The use of sampling in respect of Parts 3, 4 and 5 of these Regulations[^key-74c62b3da3e64450208fe2047ccd35bd]
+## 57. The use of sampling in respect of Parts 3, 4 and 5 of these Regulations[^c-74c62b3da3e64450208fe2047ccd35bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74c62b3da3e64450208fe2047ccd35bd]: Commencement: Reg. 57 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-74c62b3da3e64450208fe2047ccd35bd]: Commencement: Reg. 57 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

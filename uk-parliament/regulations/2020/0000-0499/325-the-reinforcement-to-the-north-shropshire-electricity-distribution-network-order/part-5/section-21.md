@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Private rights[^key-355529557696ca8c8aac2cc1a8a68d58]
+## 21. Private rights[^c-355529557696ca8c8aac2cc1a8a68d58]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-355529557696ca8c8aac2cc1a8a68d58]: Commencement: Art. 21 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-355529557696ca8c8aac2cc1a8a68d58]: Commencement: Art. 21 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030561]: Marginal citation: [Section 11](https://www.legislation.gov.uk/uksi/2020/325/section/11) was amended by the Acquisition of Land Act 1981, section 34(1) Schedule 4; the Housing (Consequential Provisions) Act [1985 c. 71](https://www.legislation.gov.uk/ukpga/1985/71), [section 3](https://www.legislation.gov.uk/ukpga/1985/71/section/3), [Schedule 1](https://www.legislation.gov.uk/ukpga/1985/71/schedule/1), [Part 1](https://www.legislation.gov.uk/ukpga/1985/71/part/1); the [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1) section 14, Schedule 5 paragraph 12(1) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

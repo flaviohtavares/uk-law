@@ -49,7 +49,7 @@ The Secretary of State for Social Security, in exercise of powers conferred upon
 
 (1) These Regulations may be cited as the Social Security (Persons From Abroad) Miscellaneous Amendments Regulations 1996 and shall come into force on 5th February 1996.
 
-(2)[^key-45cc081cd2040fb993cc9b77341d69e1] In these Regulations, unless the context otherwise requires —
+(2)[^c-45cc081cd2040fb993cc9b77341d69e1] In these Regulations, unless the context otherwise requires —
 
 - [^c1771285]“the Attendance Allowance Regulations" means the Social Security (Attendance Allowance) Regulations 1991;
 - [^c1771286]“the Council Tax Benefit Regulations" means the Council Tax Benefit (General) Regulations 1992;
@@ -83,7 +83,7 @@ In regulation 2 of the Attendance Allowance Regulations (conditions as to reside
   >   - (ii) a member of the family of, and living with, such a person; or
   > - (e) he is a person in respect of whom there is an Order in Council under section 179 of the Social Security Administration Act 1992 [^c1771301] giving effect to a reciprocal agreement which, for the purposes of attendance allowance, has the effect that periods of presence or residence in another country are to be treated as periods of presence or residence in Great Britain..
 
-## 3. Amendment of regulation 4A of the Council Tax Benefit Regulations[^key-ad13a024c4a40d1cc92bac9f455c7a10]
+## 3. Amendment of regulation 4A of the Council Tax Benefit Regulations[^c-ad13a024c4a40d1cc92bac9f455c7a10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -148,7 +148,7 @@ In regulation 3 of the Family Credit Regulations [^c1771319] (circumstances in w
   >   - (i) lawfully working in Great Britain and is a national of a State with which the Community has concluded an Agreement under article 238 [^c1771324] of the Treaty establishing the European Community [^c1771325] providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory State and their families, or
   >   - (ii) a member of the family of, and living with, such a person..
 
-## 7. Amendment of regulation 7A of the Housing Benefit Regulations[^key-f131e03319b1819940f670e8d746a296]
+## 7. Amendment of regulation 7A of the Housing Benefit Regulations[^c-f131e03319b1819940f670e8d746a296]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -205,7 +205,7 @@ In regulation 9 of the Invalid Care Allowance Regulations [^c1771336] (condition
   >   - (i) lawfully working in Great Britain and is a national of a State with which the Community has concluded an Agreement under article 238 [^c1771341] of the Treaty establishing the European Community [^c1771342] providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory State and their families, or
   >   - (ii) a member of the family of, and living with, such a person..
 
-## 10. Amendment of regulation 2 of the Payments on Account, Overpayments and Recovery Regulations[^key-9b3338f11cef90cf6b70dea6e85d2f63]
+## 10. Amendment of regulation 2 of the Payments on Account, Overpayments and Recovery Regulations[^c-9b3338f11cef90cf6b70dea6e85d2f63]
 
 In regulation 2 of the Payments on Account, Overpayments and Recovery Regulations [^c1771343] (making of interim payments) —
 
@@ -234,11 +234,11 @@ In regulation 3 of the Severe Disablement Allowance Regulations [^c1771344] (con
 
 ## 12. Saving
 
-(1)[^key-52835807cbd79ac22d5931e1e1584fff] Where, before the coming into force of these Regulations, a person who becomes an asylum seeker under regulation 4A(5)(a)(i) of the Council Tax Benefit Regulations, regulation 7A(5)(a)(i) of the Housing Benefit Regulations or regulation 70(3A)(a) of the Income Support Regulations, as the case may be, is entitled to benefit under any of those Regulations, those provisions of those Regulations as then in force shall continue to have effect (both as regards him and as regards persons who are members of his family at the coming into force of these Regulations)[^key-a14acfc72bc14b031e4538bc1c20c57f] as if regulations 3(a) and (b), 7(a) and (b) or 8(2) and (3)(c), as the case may be, of these Regulations had not been made.
+(1)[^c-52835807cbd79ac22d5931e1e1584fff] Where, before the coming into force of these Regulations, a person who becomes an asylum seeker under regulation 4A(5)(a)(i) of the Council Tax Benefit Regulations, regulation 7A(5)(a)(i) of the Housing Benefit Regulations or regulation 70(3A)(a) of the Income Support Regulations, as the case may be, is entitled to benefit under any of those Regulations, those provisions of those Regulations as then in force shall continue to have effect (both as regards him and as regards persons who are members of his family at the coming into force of these Regulations)[^c-a14acfc72bc14b031e4538bc1c20c57f] as if regulations 3(a) and (b), 7(a) and (b) or 8(2) and (3)(c), as the case may be, of these Regulations had not been made.
 
 (2) Where, before the coming into force of these Regulations, a person, in respect of whom an undertaking was given by another person or persons to be responsible for his maintenance and accommodation, claimed benefit to which he is entitled, or is receiving benefit, under the Council Tax Benefit Regulations, the Housing Benefit Regulations or the Income Support Regulations, as the case may be, those Regulations as then in force shall have effect as if regulations 3, 7 or 8, as the case may be, of these Regulations had not been made.
 
-(3)[^key-f411e80c7579344663e46ba49cd3280e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f411e80c7579344663e46ba49cd3280e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Social Security.
 
@@ -268,7 +268,7 @@ The Report of the Social Security Advisory Committee dated 8th December 1995 on 
 
 [^c1771284]: Marginal citation: *See* the [Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5), [section 172(1)](https://www.legislation.gov.uk/ukpga/1992/5/section/172/1).
 
-[^key-45cc081cd2040fb993cc9b77341d69e1]: Modification: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/30/regulation/1/2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-45cc081cd2040fb993cc9b77341d69e1]: Modification: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/1996/30/regulation/1/2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1771285]: Marginal citation: [S.I. 1991/2740](https://www.legislation.gov.uk/uksi/1991/2740), to which there are amendments not relevant to this regulation.
 
@@ -304,7 +304,7 @@ The Report of the Social Security Advisory Committee dated 8th December 1995 on 
 
 [^c1771301]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-ad13a024c4a40d1cc92bac9f455c7a10]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1996/30/regulation/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-ad13a024c4a40d1cc92bac9f455c7a10]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1996/30/regulation/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1771306]: Marginal citation: [Regulation 2](https://www.legislation.gov.uk/uksi/1996/30/regulation/2) was amended by [S.I. 1993/1939](https://www.legislation.gov.uk/uksi/1993/1939).
 
@@ -346,7 +346,7 @@ The Report of the Social Security Advisory Committee dated 8th December 1995 on 
 
 [^c1771325]: Marginal citation: The title of the Treaty of Rome was amended by Article G(1) of the Treaty on European Union.
 
-[^key-f131e03319b1819940f670e8d746a296]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1996/30/regulation/7) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-f131e03319b1819940f670e8d746a296]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1996/30/regulation/7) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1771330]: Marginal citation: [Paragraph 3](https://www.legislation.gov.uk/uksi/1996/30/paragraph/3) was amended by [S.I. 1990/547](https://www.legislation.gov.uk/uksi/1990/547), 1991/236, 1992/3147, 1993/315, 1994/1807 and 2139 and 1995/516.
 
@@ -374,7 +374,7 @@ The Report of the Social Security Advisory Committee dated 8th December 1995 on 
 
 [^c1771342]: Marginal citation: The title of the Treaty of Rome was amended by Article G(1) of the Treaty on European Union.
 
-[^key-9b3338f11cef90cf6b70dea6e85d2f63]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/1996/30/regulation/10) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-9b3338f11cef90cf6b70dea6e85d2f63]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/1996/30/regulation/10) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1771343]: Marginal citation: [Regulation 2](https://www.legislation.gov.uk/uksi/1996/30/regulation/2) was amended by [S.I. 1991/2742](https://www.legislation.gov.uk/uksi/1991/2742) and 1993/650.
 
@@ -392,8 +392,8 @@ The Report of the Social Security Advisory Committee dated 8th December 1995 on 
 
 [^c1771350]: Marginal citation: The title of the Treaty of Rome was amended by Article G(1) of the Treaty on European Union.
 
-[^key-52835807cbd79ac22d5931e1e1584fff]: Modification: Reg. 12(1) modified (24.7.1996) by [Asylum and Immigration Act 1996 (c. 49)](https://www.legislation.gov.uk/ukpga/1996/49), [s. 13(3)](https://www.legislation.gov.uk/ukpga/1996/49/section/13/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1996/49/schedule/1/paragraph/5)
+[^c-52835807cbd79ac22d5931e1e1584fff]: Modification: Reg. 12(1) modified (24.7.1996) by [Asylum and Immigration Act 1996 (c. 49)](https://www.legislation.gov.uk/ukpga/1996/49), [s. 13(3)](https://www.legislation.gov.uk/ukpga/1996/49/section/13/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/1996/49/schedule/1/paragraph/5)
 
-[^key-a14acfc72bc14b031e4538bc1c20c57f]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1996/30/regulation/12/1) inserted (3.4.2000) by [The Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 (S.I. 2000/636)](https://www.legislation.gov.uk/uksi/2000/636), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/636/regulation/1/1), [12(11)(a)](https://www.legislation.gov.uk/uksi/2000/636/regulation/12/11/a) (with [reg. 12(11)(b)](https://www.legislation.gov.uk/uksi/2000/636/regulation/12/11/b))
+[^c-a14acfc72bc14b031e4538bc1c20c57f]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1996/30/regulation/12/1) inserted (3.4.2000) by [The Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 (S.I. 2000/636)](https://www.legislation.gov.uk/uksi/2000/636), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/636/regulation/1/1), [12(11)(a)](https://www.legislation.gov.uk/uksi/2000/636/regulation/12/11/a) (with [reg. 12(11)(b)](https://www.legislation.gov.uk/uksi/2000/636/regulation/12/11/b))
 
-[^key-f411e80c7579344663e46ba49cd3280e]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/1996/30/regulation/12/3) revoked (3.4.2000) by [The Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 (S.I. 2000/636)](https://www.legislation.gov.uk/uksi/2000/636), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/636/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2000/636/regulation/13/2) (with [reg. 12(10)](https://www.legislation.gov.uk/uksi/2000/636/regulation/12/10))
+[^c-f411e80c7579344663e46ba49cd3280e]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/1996/30/regulation/12/3) revoked (3.4.2000) by [The Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000 (S.I. 2000/636)](https://www.legislation.gov.uk/uksi/2000/636), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/636/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2000/636/regulation/13/2) (with [reg. 12(10)](https://www.legislation.gov.uk/uksi/2000/636/regulation/12/10))

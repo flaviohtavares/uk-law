@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Parties to the contract[^key-998e8545bb5248f46fae66bfe1f1fd5c]
+## 11. Parties to the contract[^c-998e8545bb5248f46fae66bfe1f1fd5c]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ A contract must specify—
 
 ## Annotations
 
-[^key-998e8545bb5248f46fae66bfe1f1fd5c]: Commencement: Reg. 11 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-998e8545bb5248f46fae66bfe1f1fd5c]: Commencement: Reg. 11 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

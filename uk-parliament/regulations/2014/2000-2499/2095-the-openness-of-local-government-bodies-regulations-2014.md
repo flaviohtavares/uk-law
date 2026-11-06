@@ -198,7 +198,7 @@ In these Regulations—
 
 ## PART 3 — Record of decisions and access to documents
 
-### 6. Interpretation of this Part[^key-66c66787cb83635f9c1ca232387175f1]
+### 6. Interpretation of this Part[^c-66c66787cb83635f9c1ca232387175f1]
 
 In this Part—
 
@@ -221,7 +221,7 @@ In this Part—
   - (c) a London borough council,
   - (d) the Greater London Authority,
   - (e) the Common Council of the City of London in its capacity as a local authority or police authority,
-  - (f) the London Fire Commissioner[^key-58f633102ae4188c93e6a6f457ed9c7d],
+  - (f) the London Fire Commissioner[^c-58f633102ae4188c93e6a6f457ed9c7d],
   - (g) Transport for London,
   - (h) a joint authority established under Part 4 of the Local Government Act 1985 [^c22189421],
   - (i) an economic prosperity board,
@@ -254,7 +254,7 @@ In this Part—
 
 (4) The duty imposed by paragraph (1) is satisfied where, in respect of a decision, a written record containing the information referred to in sub-paragraphs (a) and (b) of paragraph (3) is already required to be produced in accordance with any other statutory requirement.
 
-### 8. Decisions and background papers to be made available to the public[^key-d9208a35494810642639514a94ae905b]
+### 8. Decisions and background papers to be made available to the public[^c-d9208a35494810642639514a94ae905b]
 
 (1) The written record, together with any background papers, must as soon as reasonably practicable after the record is made, be made available for inspection by members of the public—
 
@@ -321,12 +321,12 @@ An impact assessment has not been prepared for this instrument as it will have n
 
 [^c22189411]: Marginal citation: [S.I. 2012/2089](https://www.legislation.gov.uk/uksi/2012/2089).
 
-[^key-66c66787cb83635f9c1ca232387175f1]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2095/regulation/6) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(y)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/y) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
+[^c-66c66787cb83635f9c1ca232387175f1]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2095/regulation/6) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 7(y)](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/7/y) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
-[^key-58f633102ae4188c93e6a6f457ed9c7d]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2014/2095/regulation/6) substituted (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 15(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/15/2)
+[^c-58f633102ae4188c93e6a6f457ed9c7d]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2014/2095/regulation/6) substituted (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [Sch. para. 15(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/15/2)
 
 [^c22189421]: Marginal citation: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51). Relevant amendments were made by the [Police and Magistrates' Courts Act 1994 (c. 29)](https://www.legislation.gov.uk/ukpga/1994/29), [section 93](https://www.legislation.gov.uk/ukpga/1994/29/section/93) and Schedule 9; the [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [section 328](https://www.legislation.gov.uk/ukpga/1999/29/section/328), [423](https://www.legislation.gov.uk/ukpga/1999/29/section/423) and Schedule 34; the [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [section 32](https://www.legislation.gov.uk/ukpga/2004/36/section/32) and Schedule 2 and the [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [section 77](https://www.legislation.gov.uk/ukpga/2008/26/section/77) and Schedule 4.
 
 [^c22189431]: Marginal citation: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21).
 
-[^key-d9208a35494810642639514a94ae905b]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/2095/regulation/8) modified (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [17](https://www.legislation.gov.uk/uksi/2020/392/regulation/17) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-d9208a35494810642639514a94ae905b]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/2095/regulation/8) modified (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [17](https://www.legislation.gov.uk/uksi/2020/392/regulation/17) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))

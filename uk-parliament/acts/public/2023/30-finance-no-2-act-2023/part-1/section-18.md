@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Lifetime allowance charge abolished[^key-f64df465d316cc54766aec1c642bc4c4]
+## 18. Lifetime allowance charge abolished[^c-f64df465d316cc54766aec1c642bc4c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f64df465d316cc54766aec1c642bc4c4]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/2023/30/section/18) repealed (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 14(3)](https://www.legislation.gov.uk/ukpga/2024/3/section/14/3)
+[^c-f64df465d316cc54766aec1c642bc4c4]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/2023/30/section/18) repealed (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 14(3)](https://www.legislation.gov.uk/ukpga/2024/3/section/14/3)

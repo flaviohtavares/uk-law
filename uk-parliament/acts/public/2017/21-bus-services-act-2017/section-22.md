@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Bus companies: limitation of powers of authorities in England[^key-66360e093c7533d5c8e0d68b28297dac]
+## 22. Bus companies: limitation of powers of authorities in England[^c-66360e093c7533d5c8e0d68b28297dac]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66360e093c7533d5c8e0d68b28297dac]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2017/21/section/22) omitted (26.1.2026) by virtue of [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2025/24/section/22/1), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5) (with [s. 22(4)](https://www.legislation.gov.uk/ukpga/2025/24/section/22/4)); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/l)
+[^c-66360e093c7533d5c8e0d68b28297dac]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2017/21/section/22) omitted (26.1.2026) by virtue of [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2025/24/section/22/1), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5) (with [s. 22(4)](https://www.legislation.gov.uk/ukpga/2025/24/section/22/4)); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/l)

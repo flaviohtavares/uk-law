@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30.3. Duty to give receipt[^key-7327d4fddb415c44eb0e413fd4073981]
+## 30.3. Duty to give receipt[^c-7327d4fddb415c44eb0e413fd4073981]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7327d4fddb415c44eb0e413fd4073981]: Commencement: [Rule 30.3](https://www.legislation.gov.uk/uksi/2025/909/rule/30.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-7327d4fddb415c44eb0e413fd4073981]: Commencement: [Rule 30.3](https://www.legislation.gov.uk/uksi/2025/909/rule/30.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00728]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 79 was amended by paragraph 219 of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and section 62 of, and paragraphs 45, 47 and 48 of Schedule 13 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 

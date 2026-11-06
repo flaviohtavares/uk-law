@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Power to override easements and other rights[^key-0cdc485e12be5222719f6f41ce5878a0]
+## 30. Power to override easements and other rights[^c-0cdc485e12be5222719f6f41ce5878a0]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0cdc485e12be5222719f6f41ce5878a0]: Commencement: Art. 30 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-0cdc485e12be5222719f6f41ce5878a0]: Commencement: Art. 30 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
 [^f00070]: Footnote: Section 10 was amended by section 4 of, and paragraph 13(2) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

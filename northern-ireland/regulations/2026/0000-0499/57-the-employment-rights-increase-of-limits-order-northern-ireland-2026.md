@@ -42,7 +42,7 @@ Coming into operation
 
 The Department for the Economy makes the following Order in exercise of the powers conferred by Articles 33(2) and 39(3) of the Employment Relations (Northern Ireland) Order 1999[^f00001] and now vested in it[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-72eef9aaeb33dc3be319bfccdafb44a9]
+## 1. Citation, commencement and interpretation[^c-72eef9aaeb33dc3be319bfccdafb44a9]
 
 (1) This Order may be cited as the Employment Rights (Increase of Limits) Order (Northern Ireland) 2026 and comes into operation on 6th April 2026.
 
@@ -51,15 +51,15 @@ The Department for the Economy makes the following Order in exercise of the powe
 - “**the 1995 Order**” means the Trade Union and Labour Relations (Northern Ireland) Order 1995[^f00003];
 - “**the 1996 Order**” means the Employment Rights (Northern Ireland) Order 1996[^f00004].
 
-## 2. Revocation[^key-63c95471e85a642533332834bccd17b8]
+## 2. Revocation[^c-63c95471e85a642533332834bccd17b8]
 
 The Employment Rights (Increase of Limits) Order (Northern Ireland) 2025[^f00005] is revoked.
 
-## 3. Increase of limits[^key-eb9149d5c7d45b500cf8920c4e114480]
+## 3. Increase of limits[^c-eb9149d5c7d45b500cf8920c4e114480]
 
 In the provisions set out in column 1 of the Schedule (generally described in column 2), for the sums specified in column 3 substitute the sums specified in column 4.
 
-## 4. Saving and transitional position[^key-ff0266dd72c7c8eaef4d84bd36190182]
+## 4. Saving and transitional position[^c-ff0266dd72c7c8eaef4d84bd36190182]
 
 (1) The revocation in Article 2 and the substitutions made by Article 3 do not have effect in relation to a case where the appropriate date falls before 6th April 2026.
 
@@ -94,7 +94,7 @@ Colin Jack
 
 A senior officer of the Department for the Economy
 
-## SCHEDULE — INCREASE OF LIMITS[^key-76c7b98761de43ca0fa1a1a1d5d5c112]
+## SCHEDULE — INCREASE OF LIMITS[^c-76c7b98761de43ca0fa1a1a1d5d5c112]
 
 Article 3
 
@@ -126,19 +126,19 @@ An impact assessment is not required because Article 33(2) of the 1999 Order pro
 
 [^f00002]: Footnote: The functions of the Department of Economic Development under the Employment Relations (Northern Ireland) Order 1999 were transferred to the Department of Higher and Further Education, Training and Employment by [S.R. 1999 No.481](https://www.legislation.gov.uk/nisr/1999/481), article 4(b) and Schedule 2, Part II. The Department of Higher and Further Education, Training and Employment was renamed the Department for Employment and Learning by [2001 c.15 (N.I.)](https://www.legislation.gov.uk/nia/2001/15), section 1, and following the dissolution of that department by the Departments Act (Northern Ireland) [2016 (c.5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5), section 1(10), its functions under the Employment Relations (Northern Ireland) Order 1999 were transferred to the Department for the Economy by [S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76), Article 6(1)(c).
 
-[^key-72eef9aaeb33dc3be319bfccdafb44a9]: Commencement: Art. 1 in operation at 6.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1)
+[^c-72eef9aaeb33dc3be319bfccdafb44a9]: Commencement: Art. 1 in operation at 6.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1)
 
 [^f00003]: Footnote: [S.I. 1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisi/1995/1980).
 
 [^f00004]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919).
 
-[^key-63c95471e85a642533332834bccd17b8]: Commencement: Art. 2 in operation at 6.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1)
+[^c-63c95471e85a642533332834bccd17b8]: Commencement: Art. 2 in operation at 6.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1)
 
 [^f00005]: Footnote: [S.R. 2025 No. 63](https://www.legislation.gov.uk/nisr/2025/63).
 
-[^key-eb9149d5c7d45b500cf8920c4e114480]: Commencement: Art. 3 in operation at 6.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1)
+[^c-eb9149d5c7d45b500cf8920c4e114480]: Commencement: Art. 3 in operation at 6.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1)
 
-[^key-ff0266dd72c7c8eaef4d84bd36190182]: Commencement: Art. 4 in operation at 6.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1)
+[^c-ff0266dd72c7c8eaef4d84bd36190182]: Commencement: Art. 4 in operation at 6.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1)
 
 [^f00006]: Footnote: Article 44C was inserted by Article 7 of the Employment Relations (Northern Ireland) Order 1999.
 
@@ -166,7 +166,7 @@ An impact assessment is not required because Article 33(2) of the 1999 Order pro
 
 [^f00018]: Footnote: [S.I. 2003/2902 (N.I. 15)](https://www.legislation.gov.uk/nisi/2003/2902).
 
-[^key-76c7b98761de43ca0fa1a1a1d5d5c112]: Commencement: Sch. in operation at 6.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1)
+[^c-76c7b98761de43ca0fa1a1a1d5d5c112]: Commencement: Sch. in operation at 6.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/57/article/1/1)
 
 [^f00020]: Footnote: Article 132A(1)(d) was inserted by regulation 32(6) of the Working Time Regulations (Northern Ireland) 1998 ([S.R. 1998 No. 386](https://www.legislation.gov.uk/nisr/1998/386)) and amended by [S.I. 2003/3049](https://www.legislation.gov.uk/uksi/2003/3049), Schedule 2, paragraph 4(3).
 

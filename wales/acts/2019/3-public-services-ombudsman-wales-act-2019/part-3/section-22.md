@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Serving a costs recovery notice[^key-49759c5035b80684ab57fea2d0f45160]
+## 22. Serving a costs recovery notice[^c-49759c5035b80684ab57fea2d0f45160]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49759c5035b80684ab57fea2d0f45160]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2019/3/section/22) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-49759c5035b80684ab57fea2d0f45160]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2019/3/section/22) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

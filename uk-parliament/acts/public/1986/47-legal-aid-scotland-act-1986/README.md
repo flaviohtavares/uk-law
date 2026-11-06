@@ -33,7 +33,7 @@ An Act to establish the Scottish Legal Aid Board and the Scottish Legal Aid Fund
 
 \[25th July 1986\]
 
-[^c14060641][^c14060651][^c14060661][^c22566611][^c20845831][^c20845391][^c20859511]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-6894013ba5441e28eb5cec73a3d1b1cb]
+[^c14060641][^c14060651][^c14060661][^c22566611][^c20845831][^c20845391][^c20859511]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-6894013ba5441e28eb5cec73a3d1b1cb]
 
 ## Contents
 
@@ -133,7 +133,7 @@ An Act to establish the Scottish Legal Aid Board and the Scottish Legal Aid Fund
 - [Section 28 — General provisions relating to employment to which Part V applies.](part-v/section-28.md)
 - [Section 28A — Power of Board to employ solicitors to provide criminal assistance.](part-v/section-28a.md)
 
-### Part 5A — Children's legal aid[^key-b11d80fa18801e4e9485bb4fd2293256]
+### Part 5A — Children's legal aid[^c-b11d80fa18801e4e9485bb4fd2293256]
 
 *Extent: E+W+S+N.I.*
 
@@ -150,7 +150,7 @@ An Act to establish the Scottish Legal Aid Board and the Scottish Legal Aid Fund
 - [Section 28LA — Power of Scottish Ministers to provide for children's legal aid to be available to other persons in relation to court proceedings](part-5a/section-28la.md)
 - [Section 28LB — Power of Scottish Ministers to provide for children's legal aid to be available in relation to proceedings under the Age of Criminal Responsibility (Scotland) Act 2019](part-5a/section-28lb.md)
 
-### Part 5B — Children's legal assistance[^key-b11d80fa18801e4e9485bb4fd2293256]
+### Part 5B — Children's legal assistance[^c-b11d80fa18801e4e9485bb4fd2293256]
 
 - [Section 28M — Register of solicitors and firms eligible to provide children's legal assistance](part-5b/section-28m.md)
 - [Section 28N — Code of practice](part-5b/section-28n.md)
@@ -180,7 +180,7 @@ An Act to establish the Scottish Legal Aid Board and the Scottish Legal Aid Fund
 - [Section 33 — Fees and outlays of solicitors and counsel.](part-vi/section-33.md)
 - [Section 33ZA — Regulations about contributions for criminal legal assistance](part-vi/section-33za.md)
 
-#### Interim payments to solicitors and counsel[^key-1ebe3e9fffb33589cacc64a94afd7ee0]
+#### Interim payments to solicitors and counsel[^c-1ebe3e9fffb33589cacc64a94afd7ee0]
 
 - [Section 33ZB — Claim for interim payment](part-vi/section-33zb.md)
 - [Section 33ZC — Recovery where interim payment excessive](part-vi/section-33zc.md)
@@ -189,7 +189,7 @@ An Act to establish the Scottish Legal Aid Board and the Scottish Legal Aid Fund
 
 - [Section 33A — Contracts for the provision of criminal legal assistance.](part-vi/section-33a.md)
 
-#### Contracts for the provision of children's legal assistance[^key-4b1a19c2f98ce97eb33965a2a4cad65c]
+#### Contracts for the provision of children's legal assistance[^c-4b1a19c2f98ce97eb33965a2a4cad65c]
 
 - [Section 33B — Contracts for the provision of children's legal assistance](part-vi/section-33b.md)
 
@@ -267,7 +267,7 @@ SCHEDULES
 
 [^c20859511]: Modification: Act applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2) (as amended by [S.I. 2010/2430](https://www.legislation.gov.uk/uksi/2010/2430), [regs. 15](https://www.legislation.gov.uk/uksi/2010/2430/regulation/15), [17](https://www.legislation.gov.uk/uksi/2010/2430/regulation/17)) \[Editorial note: these Regulations revoke and supersede [S.I. 2010/875](https://www.legislation.gov.uk/uksi/2010/875)\]
 
-[^key-6894013ba5441e28eb5cec73a3d1b1cb]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/47) applied (8.3.2018) by [The United Nations (International Residual Mechanism for Criminal Tribunals) Order 2018 (S.I. 2018/187)](https://www.legislation.gov.uk/uksi/2018/187), [art. 29(2)](https://www.legislation.gov.uk/uksi/2018/187/article/29/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/187/article/3))
+[^c-6894013ba5441e28eb5cec73a3d1b1cb]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/47) applied (8.3.2018) by [The United Nations (International Residual Mechanism for Criminal Tribunals) Order 2018 (S.I. 2018/187)](https://www.legislation.gov.uk/uksi/2018/187), [art. 29(2)](https://www.legislation.gov.uk/uksi/2018/187/article/29/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/187/article/3))
 
 [^c14061121]: Modification: Pt. II (ss. 6-12) applied (1.1.1998) by [S.I. 1997/3070](https://www.legislation.gov.uk/uksi/1997/3070), [regs. 3](https://www.legislation.gov.uk/uksi/1997/3070/regulation/3), [4](https://www.legislation.gov.uk/uksi/1997/3070/regulation/4), [5](https://www.legislation.gov.uk/uksi/1997/3070/regulation/5)
 
@@ -283,13 +283,13 @@ SCHEDULES
 
 [^c14066191]: Textual amendment: Pt. IVA (ss. 25A-25F) inserted (1.10.1997 for specified purposes, 1.4.1998 for further specified purposes and otherwise 1.10.1998) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s.49](https://www.legislation.gov.uk/ukpga/1997/48/section/49); [S.I. 1997/2323](https://www.legislation.gov.uk/uksi/1997/2323), [art. 6 Sch.3](https://www.legislation.gov.uk/uksi/1997/2323/article/6/schedule/3)
 
-[^key-b11d80fa18801e4e9485bb4fd2293256]: Textual amendment: Pts. 5A, 5B inserted (31.1.2012 for s. 28B(2), s. 28M(7) for specified purposes and s. 28N) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 191](https://www.legislation.gov.uk/asp/2011/1/section/191), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2012/1](https://www.legislation.gov.uk/ssi/2012/1), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/1/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2012/1/schedule)
+[^c-b11d80fa18801e4e9485bb4fd2293256]: Textual amendment: Pts. 5A, 5B inserted (31.1.2012 for s. 28B(2), s. 28M(7) for specified purposes and s. 28N) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 191](https://www.legislation.gov.uk/asp/2011/1/section/191), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2012/1](https://www.legislation.gov.uk/ssi/2012/1), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/1/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2012/1/schedule)
 
-[^key-1ebe3e9fffb33589cacc64a94afd7ee0]: Textual amendment: [Ss. 33ZB](https://www.legislation.gov.uk/ukpga/1986/47/section/33ZB), [33ZC](https://www.legislation.gov.uk/ukpga/1986/47/section/33ZC) and cross-heading inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 35(4)](https://www.legislation.gov.uk/asp/2022/8/section/35/4), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1) (with [s. 48(1)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/1/c)[(2)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/2/c)[(3)(b)](https://www.legislation.gov.uk/asp/2022/8/section/48/3/b))
+[^c-1ebe3e9fffb33589cacc64a94afd7ee0]: Textual amendment: [Ss. 33ZB](https://www.legislation.gov.uk/ukpga/1986/47/section/33ZB), [33ZC](https://www.legislation.gov.uk/ukpga/1986/47/section/33ZC) and cross-heading inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 35(4)](https://www.legislation.gov.uk/asp/2022/8/section/35/4), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1) (with [s. 48(1)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/1/c)[(2)(c)](https://www.legislation.gov.uk/asp/2022/8/section/48/2/c)[(3)(b)](https://www.legislation.gov.uk/asp/2022/8/section/48/3/b))
 
 [^c14067261]: Textual amendment: S. 33A and crossheading inserted (1.10.1997) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s.52](https://www.legislation.gov.uk/ukpga/1997/48/section/52); [S.I. 1997/2323](https://www.legislation.gov.uk/uksi/1997/2323), [art. 6](https://www.legislation.gov.uk/uksi/1997/2323/article/6), [Sch.3](https://www.legislation.gov.uk/uksi/1997/2323/schedule/3)
 
-[^key-4b1a19c2f98ce97eb33965a2a4cad65c]: Textual amendment: S. 33B and crossheading inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 192](https://www.legislation.gov.uk/asp/2011/1/section/192), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-4b1a19c2f98ce97eb33965a2a4cad65c]: Textual amendment: S. 33B and crossheading inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 192](https://www.legislation.gov.uk/asp/2011/1/section/192), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
 [^c14067321]: Textual amendment: Ss. 35A-35C inserted (1.10.1997) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s.53](https://www.legislation.gov.uk/ukpga/1997/48/section/53); [S.I. 1997/2323](https://www.legislation.gov.uk/uksi/1997/2323), [art. 6](https://www.legislation.gov.uk/uksi/1997/2323/article/6), [Sch.3](https://www.legislation.gov.uk/uksi/1997/2323/schedule/3)
 

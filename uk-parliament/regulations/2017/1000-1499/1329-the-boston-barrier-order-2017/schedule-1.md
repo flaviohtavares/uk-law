@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — SCHEDULED WORKS[^key-88ed870d0a2e80e2ea0d317b359518a1]
+## SCHEDULE 1 — SCHEDULED WORKS[^c-88ed870d0a2e80e2ea0d317b359518a1]
 
 *Extent: E+W*
 
 Article 2(1)
 
-[^key-88ed870d0a2e80e2ea0d317b359518a1]
+[^c-88ed870d0a2e80e2ea0d317b359518a1]
 
 **In the Borough of Boston, Lincolnshire**
 
@@ -41,4 +41,4 @@ Article 2(1)
 
 ## Annotations
 
-[^key-88ed870d0a2e80e2ea0d317b359518a1]: Commencement: Sch. 1 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-88ed870d0a2e80e2ea0d317b359518a1]: Commencement: Sch. 1 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

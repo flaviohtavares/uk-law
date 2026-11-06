@@ -51,11 +51,11 @@ The Secretary of State for Work and Pensions makes the following Regulations in 
 
 “**the corporation**” means the National Employment Savings Trust Corporation established under section 75(1) of the Pensions Act 2008 [^c2074878].
 
-## 2. The Application of the Occupational Pension Schemes (Disclosure of Information) Regulations 1996[^key-2a05abcf9500b6c918dbda6ef37d7802]
+## 2. The Application of the Occupational Pension Schemes (Disclosure of Information) Regulations 1996[^c-2a05abcf9500b6c918dbda6ef37d7802]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations 1996[^key-2a05abcf9500b6c918dbda6ef37d7802]
+## 3. Application of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations 1996[^c-2a05abcf9500b6c918dbda6ef37d7802]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -116,6 +116,6 @@ A full impact assessment has not been produced for these Regulations as they hav
 
 [^c2074878]: Marginal citation: The corporation was so named by [S.I. 2010/3](https://www.legislation.gov.uk/uksi/2010/3). Under section 76(1) of the Pensions Act 2008, the corporation has the function of acting as a trustee of a scheme established under section 67 of the Act.
 
-[^key-2a05abcf9500b6c918dbda6ef37d7802]: Textual amendment: Reg. 3 omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 17](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/17)
+[^c-2a05abcf9500b6c918dbda6ef37d7802]: Textual amendment: Reg. 3 omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 17](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/17)
 
 [^c2074888]: Marginal citation: [S.I. 2005/3378](https://www.legislation.gov.uk/uksi/2005/3378).

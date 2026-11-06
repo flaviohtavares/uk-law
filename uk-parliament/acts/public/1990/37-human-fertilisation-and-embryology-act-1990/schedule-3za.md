@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3ZA — CIRCUMSTANCES IN WHICH OFFER OF COUNSELLING REQUIRED AS CONDITION OF LICENCE FOR TREATMENT[^key-f3026269af1a833817b24ce337f458b9]
+## SCHEDULE 3ZA — CIRCUMSTANCES IN WHICH OFFER OF COUNSELLING REQUIRED AS CONDITION OF LICENCE FOR TREATMENT[^c-f3026269af1a833817b24ce337f458b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3026269af1a833817b24ce337f458b9]: Textual amendment: Sch. 3ZA inserted (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2008/22/schedule/4); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/479/article/4/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7) [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-f3026269af1a833817b24ce337f458b9]: Textual amendment: Sch. 3ZA inserted (6.4.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2008/22/schedule/4); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/479/article/4/b) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7) [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Signs shown in diagrams 601.1, 602, 611.1, 778, 778.1 and 784.1 and their significance (affected by repeal, see note)[^key-44733b2ac3e990c298098d0757bcd8f9][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b]
+## 16. Signs shown in diagrams 601.1, 602, 611.1, 778, 778.1 and 784.1 and their significance (affected by repeal, see note)[^c-44733b2ac3e990c298098d0757bcd8f9][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b]
 
 *Extent: E+W+S*
 
-(1) The requirements conveyed to vehicular traffic on roads by the sign shown in a diagram the number of which is specified in column (2) of an item in the Table are those specified in column (3) of that item. *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+(1) The requirements conveyed to vehicular traffic on roads by the sign shown in a diagram the number of which is specified in column (2) of an item in the Table are those specified in column (3) of that item. *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
-**Table *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]**
+**Table *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]**
 
 <table>
 <thead>
@@ -39,21 +39,21 @@ summary: ''
 </tbody>
 </table>
 
-[^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b][^key-c04181b99fd16d713999f801bf7e1d8b]
+[^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b][^c-c04181b99fd16d713999f801bf7e1d8b]
 
-(2) In this regulation— *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+(2) In this regulation— *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
-- “**abnormal transport unit *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]**” means— *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
-  - (a) a motor vehicle or a vehicle combination— *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
-    - (i) the overall length of which, inclusive of the load (if any) on the vehicle or the combination, exceeds 61 feet 6 inches (18.75 metres); or *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
-    - (ii) the overall width of which, inclusive of the load (if any) on the vehicle or the combination, exceeds 9 feet 6 inches (2.9 metres); or *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
-    - (iii) the maximum gross weight of which exceeds 44 tonnes; or *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
-  - (b) a motor vehicle, or a vehicle combination, which in either case is incapable of proceeding, or is unlikely to proceed, over an automatic level crossing at a speed exceeding 5 mph; *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
-- “**driver *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]**” in relation to an abnormal transport unit, means where that unit is a single motor vehicle the driver of that vehicle and, where that unit is a vehicle combination, the driver of the only or the foremost motor vehicle forming part of that combination; and *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
-- “**vehicle combination *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]**” means a combination of vehicles made up of one or more motor vehicles and one or more trailers all of which are linked together when travelling. *(affected by repeal, see note)*[^key-c04181b99fd16d713999f801bf7e1d8b]
+- “**abnormal transport unit *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]**” means— *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
+  - (a) a motor vehicle or a vehicle combination— *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
+    - (i) the overall length of which, inclusive of the load (if any) on the vehicle or the combination, exceeds 61 feet 6 inches (18.75 metres); or *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
+    - (ii) the overall width of which, inclusive of the load (if any) on the vehicle or the combination, exceeds 9 feet 6 inches (2.9 metres); or *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
+    - (iii) the maximum gross weight of which exceeds 44 tonnes; or *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
+  - (b) a motor vehicle, or a vehicle combination, which in either case is incapable of proceeding, or is unlikely to proceed, over an automatic level crossing at a speed exceeding 5 mph; *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
+- “**driver *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]**” in relation to an abnormal transport unit, means where that unit is a single motor vehicle the driver of that vehicle and, where that unit is a vehicle combination, the driver of the only or the foremost motor vehicle forming part of that combination; and *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
+- “**vehicle combination *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]**” means a combination of vehicles made up of one or more motor vehicles and one or more trailers all of which are linked together when travelling. *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
 
 ## Annotations
 
-[^key-44733b2ac3e990c298098d0757bcd8f9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2002/3113/regulation/16) in force at 31.1.2003, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/3113/regulation/1/b)
+[^c-44733b2ac3e990c298098d0757bcd8f9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2002/3113/regulation/16) in force at 31.1.2003, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/3113/regulation/1/b)
 
-[^key-c04181b99fd16d713999f801bf7e1d8b]: Textual amendment: Pt. 1 revoked (22.4.2016) by [The Traffic Signs Regulations and General Directions 2016 (S.I. 2016/362)](https://www.legislation.gov.uk/uksi/2016/362), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1/1/b), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/4), [14](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/14), [15](https://www.legislation.gov.uk/uksi/2016/362/regulation/15))
+[^c-c04181b99fd16d713999f801bf7e1d8b]: Textual amendment: Pt. 1 revoked (22.4.2016) by [The Traffic Signs Regulations and General Directions 2016 (S.I. 2016/362)](https://www.legislation.gov.uk/uksi/2016/362), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1/1/b), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/19/part/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/4), [14](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/14), [15](https://www.legislation.gov.uk/uksi/2016/362/regulation/15))

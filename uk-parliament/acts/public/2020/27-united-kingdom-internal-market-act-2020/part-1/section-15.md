@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Interpretation of references to “sale” in Part 1[^key-415c5e4576bf1464db37acc86a62a2aa]
+## 15. Interpretation of references to “sale” in Part 1[^c-415c5e4576bf1464db37acc86a62a2aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-415c5e4576bf1464db37acc86a62a2aa]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2020/27/section/15) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-415c5e4576bf1464db37acc86a62a2aa]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2020/27/section/15) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

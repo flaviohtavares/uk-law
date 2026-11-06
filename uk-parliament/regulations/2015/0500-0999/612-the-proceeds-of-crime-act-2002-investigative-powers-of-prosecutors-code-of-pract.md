@@ -32,7 +32,7 @@ summary: ''
 
 Proceeds Of Crime, England And Wales
 
-The Proceeds of Crime Act 2002 (Investigative Powers of Prosecutors: Code of Practice) (England and Wales) Order 2015 (revoked)[^key-58682ac1a3b4361a06eba9f867f9b34f]
+The Proceeds of Crime Act 2002 (Investigative Powers of Prosecutors: Code of Practice) (England and Wales) Order 2015 (revoked)[^c-58682ac1a3b4361a06eba9f867f9b34f]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 1st June 2015
 
-[^key-58682ac1a3b4361a06eba9f867f9b34f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-58682ac1a3b4361a06eba9f867f9b34f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-58682ac1a3b4361a06eba9f867f9b34f]
+## 1. Citation, commencement and extent[^c-58682ac1a3b4361a06eba9f867f9b34f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revised code of practice[^key-58682ac1a3b4361a06eba9f867f9b34f]
+## 2. Revised code of practice[^c-58682ac1a3b4361a06eba9f867f9b34f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exercise of powers at time of coming into operation[^key-58682ac1a3b4361a06eba9f867f9b34f]
+## 3. Exercise of powers at time of coming into operation[^c-58682ac1a3b4361a06eba9f867f9b34f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-58682ac1a3b4361a06eba9f867f9b34f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-58682ac1a3b4361a06eba9f867f9b34f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-58682ac1a3b4361a06eba9f867f9b34f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-58682ac1a3b4361a06eba9f867f9b34f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-58682ac1a3b4361a06eba9f867f9b34f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/612) revoked (1.3.2016) by [The Proceeds of Crime Act 2002 (Investigative Powers of Prosecutors: Code of Practice) (England and Wales and Northern Ireland) Order 2016 (S.I. 2016/222)](https://www.legislation.gov.uk/uksi/2016/222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/222/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2016/222/article/3/b)
+[^c-58682ac1a3b4361a06eba9f867f9b34f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/612) revoked (1.3.2016) by [The Proceeds of Crime Act 2002 (Investigative Powers of Prosecutors: Code of Practice) (England and Wales and Northern Ireland) Order 2016 (S.I. 2016/222)](https://www.legislation.gov.uk/uksi/2016/222), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/222/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2016/222/article/3/b)

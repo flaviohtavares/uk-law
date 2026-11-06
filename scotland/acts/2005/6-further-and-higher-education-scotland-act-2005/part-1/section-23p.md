@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23P. Regional boards: constitution[^key-b81150abce3d6009012b6b30ea93f423]
+## 23P. Regional boards: constitution[^c-b81150abce3d6009012b6b30ea93f423]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 2B makes provision about the constitution of a regional board, about th
 
 ## Annotations
 
-[^key-b81150abce3d6009012b6b30ea93f423]: Textual amendment: S. 23P and cross-heading inserted (1.5.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 11(1)](https://www.legislation.gov.uk/asp/2013/12/section/11/1), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-b81150abce3d6009012b6b30ea93f423]: Textual amendment: S. 23P and cross-heading inserted (1.5.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 11(1)](https://www.legislation.gov.uk/asp/2013/12/section/11/1), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Renewal[^key-da7b8b74493881b09919ae80979254a6][^key-57fcc8ac482b5316ebb3645bcaefaa9f]
+## 97. Renewal[^c-da7b8b74493881b09919ae80979254a6][^c-57fcc8ac482b5316ebb3645bcaefaa9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da7b8b74493881b09919ae80979254a6]: Commencement: [Reg. 97](https://www.legislation.gov.uk/uksi/1993/3138/regulation/97) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-da7b8b74493881b09919ae80979254a6]: Commencement: [Reg. 97](https://www.legislation.gov.uk/uksi/1993/3138/regulation/97) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-57fcc8ac482b5316ebb3645bcaefaa9f]: Modification: [Reg. 97](https://www.legislation.gov.uk/uksi/1993/3138/regulation/97) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1)
+[^c-57fcc8ac482b5316ebb3645bcaefaa9f]: Modification: [Reg. 97](https://www.legislation.gov.uk/uksi/1993/3138/regulation/97) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1)

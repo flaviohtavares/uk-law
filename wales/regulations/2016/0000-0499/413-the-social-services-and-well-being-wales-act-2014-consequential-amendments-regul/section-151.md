@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**151.**[^key-88f35f6450d22f15edc93a43b6c5f031] In section 217 of the Housing Act 1996 (minor definitions: Part 7), in the definition of “social services authority”—
+**151.**[^c-88f35f6450d22f15edc93a43b6c5f031] In section 217 of the Housing Act 1996 (minor definitions: Part 7), in the definition of “social services authority”—
 
 - (a) after “means” insert
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88f35f6450d22f15edc93a43b6c5f031]: Commencement: Reg. 151 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-88f35f6450d22f15edc93a43b6c5f031]: Commencement: Reg. 151 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

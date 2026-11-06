@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Establishment of pension credit member’s account[^key-326d653d93a1673d31b41e72afcebe4f]
+## 56. Establishment of pension credit member’s account[^c-326d653d93a1673d31b41e72afcebe4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-326d653d93a1673d31b41e72afcebe4f]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2014/1964/regulation/56) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-326d653d93a1673d31b41e72afcebe4f]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2014/1964/regulation/56) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00054]: Footnote: Part 4A was inserted by the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) section 37.

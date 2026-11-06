@@ -24,7 +24,7 @@ Section 49
 
 ### PART 1 — The OEP’s Northern Ireland functions
 
-#### 1. Monitoring and reporting on the Department’s environmental improvement plans[^key-49ce158df07345abdf33de51d8cd27a7][^key-1e987a2402f0f994186acf95c5791085]
+#### 1. Monitoring and reporting on the Department’s environmental improvement plans[^c-49ce158df07345abdf33de51d8cd27a7][^c-1e987a2402f0f994186acf95c5791085]
 
 *Extent: N.I.*
 
@@ -66,7 +66,7 @@ Section 49
 - (a) must be laid no later than 12 months after the report is laid, and
 - (b) may be included in a Schedule 2 report.
 
-#### 2. Monitoring and reporting on environmental law[^key-ad6aa91bcf63be63f2afcebc852509ff][^key-0bb96a3d0e5b6a611f2d8fca8ef45191]
+#### 2. Monitoring and reporting on environmental law[^c-ad6aa91bcf63be63f2afcebc852509ff][^c-0bb96a3d0e5b6a611f2d8fca8ef45191]
 
 *Extent: N.I.*
 
@@ -90,7 +90,7 @@ Section 49
 
 (7) The response to a report under this paragraph must be laid no later than 3 months after the report is laid.
 
-#### 3. Advising on changes to Northern Ireland environmental law etc[^key-92fdc7a2e97669bbdce0b57b0dd29db5][^key-15290c42b70af947a253c2c90f999ea2]
+#### 3. Advising on changes to Northern Ireland environmental law etc[^c-92fdc7a2e97669bbdce0b57b0dd29db5][^c-15290c42b70af947a253c2c90f999ea2]
 
 *Extent: N.I.*
 
@@ -117,7 +117,7 @@ on which that department requires it to give advice.
 - (a) the advice, and
 - (b) any response that department may make to the advice.
 
-#### 4. Failure of relevant public authorities to comply with environmental law[^key-2850022def0b93a0c48ab1cb75efbc1f][^key-2cdc66e48e7184a081b4b53e3ba5aaf0]
+#### 4. Failure of relevant public authorities to comply with environmental law[^c-2850022def0b93a0c48ab1cb75efbc1f][^c-2cdc66e48e7184a081b4b53e3ba5aaf0]
 
 *Extent: N.I.*
 
@@ -128,7 +128,7 @@ on which that department requires it to give advice.
 - (a) unlawfully failing to take proper account of relevant environmental law when exercising its functions;
 - (b) unlawfully exercising, or failing to exercise, any function it has under relevant environmental law.
 
-#### 5. Meaning of relevant environmental law, relevant public authority etc[^key-0aa627a50c4cb722e764a34251301e07][^key-a5a68c6d2e502e3883338ba4ea1b3b05]
+#### 5. Meaning of relevant environmental law, relevant public authority etc[^c-0aa627a50c4cb722e764a34251301e07][^c-a5a68c6d2e502e3883338ba4ea1b3b05]
 
 *Extent: N.I.*
 
@@ -158,7 +158,7 @@ on which that department requires it to give advice.
 
 (5) “**Northern Ireland devolved function**” means a function of a public nature exercisable in or as regards Northern Ireland that could be conferred by provision included in an Act of the Northern Ireland Assembly made without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998).
 
-#### 6. Complaints about relevant public authorities[^key-319abca5304462c9b457a045c668eb34][^key-3a40b1d80db5e93e098f584d3dbf5070]
+#### 6. Complaints about relevant public authorities[^c-319abca5304462c9b457a045c668eb34][^c-3a40b1d80db5e93e098f584d3dbf5070]
 
 *Extent: N.I.*
 
@@ -182,7 +182,7 @@ on which that department requires it to give advice.
 
 (7) The OEP may waive the time limit in sub-paragraph (6) if it considers that there are exceptional reasons for doing so.
 
-#### 7. Investigations: relevant public authorities[^key-06a26f143709826a1468250793e361e0][^key-333bb668dff4c27c258d9266bfb84527]
+#### 7. Investigations: relevant public authorities[^c-06a26f143709826a1468250793e361e0][^c-333bb668dff4c27c258d9266bfb84527]
 
 *Extent: N.I.*
 
@@ -221,7 +221,7 @@ on which that department requires it to give advice.
 
 (11) In this Part “**the relevant department**”, in relation to a failure (or alleged failure) of a relevant public authority to comply with relevant environmental law, means the Northern Ireland department that the OEP considers appropriate having regard to the nature of the authority and the nature of the failure.
 
-#### 8. Duty to keep complainants informed[^key-d946a14501e1df153019890375d876de][^key-0b66d280cc534948c95b68514f2b12e1]
+#### 8. Duty to keep complainants informed[^c-d946a14501e1df153019890375d876de][^c-0b66d280cc534948c95b68514f2b12e1]
 
 *Extent: N.I.*
 
@@ -237,7 +237,7 @@ on which that department requires it to give advice.
   - (ii) where it makes a review application (see paragraph 12), or an application for judicial review by virtue of paragraph 13(1), in relation to the alleged failure to comply with relevant environmental law that is the subject of the investigation, that it has made such an application;
 - (e) provide the complainant with a copy of any document published under paragraph 7(9) in relation to any investigation in relation to the complaint.
 
-#### 9. Information notices[^key-30964c2bf428ee39ef3cdcfbeb57dae1][^key-f699bff820899c12bbc7dd3f26c6b933]
+#### 9. Information notices[^c-30964c2bf428ee39ef3cdcfbeb57dae1][^c-f699bff820899c12bbc7dd3f26c6b933]
 
 *Extent: N.I.*
 
@@ -277,7 +277,7 @@ on which that department requires it to give advice.
 - (a) must notify the Committee on Climate Change of its intention before it gives the notice to the authority, and
 - (b) must provide that Committee with such information relating to the alleged failure as the OEP considers appropriate.
 
-#### 10. Decision notices[^key-913b06b52912daf44acec624534f457d][^key-8e45a2e1011a10e852ae3506a57e4535]
+#### 10. Decision notices[^c-913b06b52912daf44acec624534f457d][^c-8e45a2e1011a10e852ae3506a57e4535]
 
 *Extent: N.I.*
 
@@ -308,7 +308,7 @@ on which that department requires it to give advice.
 - (a) may not give a decision notice to a relevant public authority unless it has first given at least one information notice relating to the failure of the authority to comply with relevant environmental law that is described in the decision notice;
 - (b) may withdraw a decision notice.
 
-#### 11. Linked notices[^key-3059e992c681eb49d47055d0d66cf9a3][^key-a77bfa27e19066152981a47c165c7baf]
+#### 11. Linked notices[^c-3059e992c681eb49d47055d0d66cf9a3][^c-a77bfa27e19066152981a47c165c7baf]
 
 *Extent: N.I.*
 
@@ -343,7 +343,7 @@ on which that department requires it to give advice.
 - “**UK decision notice**” means a notice given under section 36;
 - “**UK information notice**” means a notice given under section 35.
 
-#### 12. Review application[^key-c7c862bd066c0a3b8baa40184b4f4c68][^key-1a51199a7f0fa4810fbb2f80017583b4]
+#### 12. Review application[^c-c7c862bd066c0a3b8baa40184b4f4c68][^c-1a51199a7f0fa4810fbb2f80017583b4]
 
 *Extent: N.I.*
 
@@ -379,7 +379,7 @@ on which that department requires it to give advice.
 
 (10) In this Part of this Schedule reference to an application for judicial review includes an application for the permission of the High Court to apply for judicial review.
 
-#### 13. Judicial review: powers to apply to prevent serious damage and to intervene[^key-71be942c24ccc868143f6a4f8d726ff6][^key-07d64f49921fab974feefaea4bae1477]
+#### 13. Judicial review: powers to apply to prevent serious damage and to intervene[^c-71be942c24ccc868143f6a4f8d726ff6][^c-07d64f49921fab974feefaea4bae1477]
 
 *Extent: N.I.*
 
@@ -401,7 +401,7 @@ on which that department requires it to give advice.
 
 (6) If the OEP considers that the alleged failure, if it occurred, would be serious, it may apply to intervene in the proceedings (whether it considers that the relevant public authority has, or has not, failed to comply with relevant environmental law).
 
-#### 14. Duty of the OEP to involve the relevant department[^key-15457937f244d056f8c6d4a12110d0da][^key-2bf1a583350a219f62a13d74caaff2b3]
+#### 14. Duty of the OEP to involve the relevant department[^c-15457937f244d056f8c6d4a12110d0da][^c-2bf1a583350a219f62a13d74caaff2b3]
 
 *Extent: N.I.*
 
@@ -419,7 +419,7 @@ on which that department requires it to give advice.
 - (a) a copy of the application, and
 - (b) a statement of whether the OEP considers the relevant department should participate in the review (for example, by applying to be a party).
 
-#### 15. Public statements[^key-862a15eb47c0be954bee24fdb9b2f79a][^key-ad90d3603d4a9d33b239cf82126d9801]
+#### 15. Public statements[^c-862a15eb47c0be954bee24fdb9b2f79a][^c-ad90d3603d4a9d33b239cf82126d9801]
 
 *Extent: N.I.*
 
@@ -431,7 +431,7 @@ on which that department requires it to give advice.
 
 (2) Sub-paragraph (1) does not apply if the OEP considers that in the circumstances it would not be in the public interest to publish a statement.
 
-#### 16. Disclosures to the OEP[^key-c225380eb7689ccfe266efae66255179][^key-caac63d2a2109ae837d22380651348eb]
+#### 16. Disclosures to the OEP[^c-c225380eb7689ccfe266efae66255179][^c-caac63d2a2109ae837d22380651348eb]
 
 (1) No obligation of secrecy imposed by statute or otherwise prevents a person from—
 
@@ -452,16 +452,16 @@ on which that department requires it to give advice.
 
 (5) In this paragraph “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act).
 
-#### 17. Confidentiality of proceedings[^key-588852356c08a83f25b12100b1fc251b]
+#### 17. Confidentiality of proceedings[^c-588852356c08a83f25b12100b1fc251b]
 
-(1)[^key-26bf594444586b00ecba72e96cee4a77] The OEP must not disclose—
+(1)[^c-26bf594444586b00ecba72e96cee4a77] The OEP must not disclose—
 
 - (a) information obtained under paragraph 9(3)(b), or
 - (b) correspondence between the OEP and a relevant public authority that—
   - (i) relates to a particular information notice or decision notice, or
   - (ii) is, or contains, such a notice.
 
-(2)[^key-26bf594444586b00ecba72e96cee4a77] Sub-paragraph (1) does not apply to a disclosure—
+(2)[^c-26bf594444586b00ecba72e96cee4a77] Sub-paragraph (1) does not apply to a disclosure—
 
 - (a) other than a disclosure of an information notice or a decision notice, made with the consent of the person who provided the information or correspondence;
 - (b) made for purposes connected with an investigation under paragraph 7 or section 33;
@@ -473,12 +473,12 @@ on which that department requires it to give advice.
 - (h) made for purposes connected with the protection of the natural environment in a country or territory outside the United Kingdom, to an authority of that country or territory, or an international organisation, that has functions in connection with the protection of the natural environment in that country or territory;
 - (i) of information, or correspondence, that relates only to a matter in relation to which the OEP has concluded that it intends to take no further steps under this Part of this Schedule or under Chapter 2 of Part 1 of this Act.
 
-(3)[^key-26bf594444586b00ecba72e96cee4a77] A relevant public authority must not disclose correspondence between the OEP and that, or any other, relevant public authority that—
+(3)[^c-26bf594444586b00ecba72e96cee4a77] A relevant public authority must not disclose correspondence between the OEP and that, or any other, relevant public authority that—
 
 - (a) relates to a particular information notice, decision notice, UK information notice or UK decision notice, or
 - (b) is, or contains, such a notice.
 
-(4)[^key-26bf594444586b00ecba72e96cee4a77] Sub-paragraph (3) does not apply to a disclosure—
+(4)[^c-26bf594444586b00ecba72e96cee4a77] Sub-paragraph (3) does not apply to a disclosure—
 
 - (a) made—
   - (i) in the case of a disclosure of correspondence between another relevant public authority and the OEP other than correspondence that is, or contains, an information notice, a decision notice, a UK information notice or a UK decision notice, with the consent of that authority and the OEP, or
@@ -487,13 +487,13 @@ on which that department requires it to give advice.
 - (c) made for purposes connected with responding to any information notice or decision notice;
 - (d) made for purposes connected with any proceedings in relation to a review application, an environmental review, a judicial review or a statutory review (within the meaning given by section 39(8)(b)).
 
-(5)[^key-26bf594444586b00ecba72e96cee4a77] The OEP may not give a person consent to disclose an information notice, a decision notice, a UK information notice or a UK decision notice unless that notice relates only to a matter in relation to which the OEP has concluded that it intends to take no further steps under this Part of this Schedule or under Chapter 2 of Part 1 of this Act.
+(5)[^c-26bf594444586b00ecba72e96cee4a77] The OEP may not give a person consent to disclose an information notice, a decision notice, a UK information notice or a UK decision notice unless that notice relates only to a matter in relation to which the OEP has concluded that it intends to take no further steps under this Part of this Schedule or under Chapter 2 of Part 1 of this Act.
 
-(6)[^key-26bf594444586b00ecba72e96cee4a77] If a relevant public authority requests the consent of the OEP to disclose correspondence that relates only to a matter in relation to which the OEP has concluded that it intends to take no further steps under this Part of this Schedule or under Chapter 2 of Part 1 of this Act, the OEP may not withhold that consent.
+(6)[^c-26bf594444586b00ecba72e96cee4a77] If a relevant public authority requests the consent of the OEP to disclose correspondence that relates only to a matter in relation to which the OEP has concluded that it intends to take no further steps under this Part of this Schedule or under Chapter 2 of Part 1 of this Act, the OEP may not withhold that consent.
 
-(7)[^key-dd395a5d2017b354d808237a1f59f8b6] If information referred to in sub-paragraph (1) and held by the OEP, or referred to in sub-paragraph (3) and held by a relevant public authority, is environmental information for the purposes of the Environmental Information Regulations 2004 ([S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391)) or the Environmental Information (Scotland) Regulations 2004 ([S.S.I. 2004/520](https://www.legislation.gov.uk/ssi/2004/520)), it is held by that person, for the purposes of the application of those regulations to that information, in connection with confidential proceedings.
+(7)[^c-dd395a5d2017b354d808237a1f59f8b6] If information referred to in sub-paragraph (1) and held by the OEP, or referred to in sub-paragraph (3) and held by a relevant public authority, is environmental information for the purposes of the Environmental Information Regulations 2004 ([S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391)) or the Environmental Information (Scotland) Regulations 2004 ([S.S.I. 2004/520](https://www.legislation.gov.uk/ssi/2004/520)), it is held by that person, for the purposes of the application of those regulations to that information, in connection with confidential proceedings.
 
-#### 18. Meaning of UK environmental law and Northern Ireland environmental law[^key-2b553291ab34d295e3659ce8c3bd269f][^key-ebe4b3d342ebdc0360dd6a292bc505f6]
+#### 18. Meaning of UK environmental law and Northern Ireland environmental law[^c-2b553291ab34d295e3659ce8c3bd269f][^c-ebe4b3d342ebdc0360dd6a292bc505f6]
 
 *Extent: N.I.*
 
@@ -523,7 +523,7 @@ on which that department requires it to give advice.
 
 (7) Regulations under sub-paragraph (5) are subject to the affirmative procedure.
 
-#### 19. Interpretation of Part 1 of this Schedule: general[^key-076604159ad01878dd8db9c11e28d6be][^key-2d499e04fe817473776ac210b5ad09ca]
+#### 19. Interpretation of Part 1 of this Schedule: general[^c-076604159ad01878dd8db9c11e28d6be][^c-2d499e04fe817473776ac210b5ad09ca]
 
 *Extent: N.I.*
 
@@ -559,9 +559,9 @@ on which that department requires it to give advice.
 
 *Extent: N.I.*
 
-**20.**[^key-3d30ab61a242bdfe315d02d68f143b23][^key-146e4dafad60b371b153ad6b6986e53f] This Act is amended in accordance with paragraphs 21 to 30.
+**20.**[^c-3d30ab61a242bdfe315d02d68f143b23][^c-146e4dafad60b371b153ad6b6986e53f] This Act is amended in accordance with paragraphs 21 to 30.
 
-**21.**[^key-160e5bf9b3e18b0eb6f0e85bf8fd6a97][^key-ca1b423f3b826c8d539cea31541a7295] (1) Section 23 (principal objective of the OEP and exercise of its functions) is amended as follows.
+**21.**[^c-160e5bf9b3e18b0eb6f0e85bf8fd6a97][^c-ca1b423f3b826c8d539cea31541a7295] (1) Section 23 (principal objective of the OEP and exercise of its functions) is amended as follows.
 
 (2) In subsection (6)—
 
@@ -586,9 +586,9 @@ on which that department requires it to give advice.
 
 (5) In subsection (8) after “sections 32 to 41” insert “and paragraphs 6 to 15 of Schedule 3”.
 
-**22.**[^key-cca35ca1aaa61f5add38c6272d2db3b8][^key-41c3bf1ce48f71a76bb18db8f919120a] In section 24 (the OEP’s strategy: process), in subsection (1)(a) after “Parliament” insert “and the Northern Ireland Assembly”.
+**22.**[^c-cca35ca1aaa61f5add38c6272d2db3b8][^c-41c3bf1ce48f71a76bb18db8f919120a] In section 24 (the OEP’s strategy: process), in subsection (1)(a) after “Parliament” insert “and the Northern Ireland Assembly”.
 
-**23.**[^key-eced606cccc32738f5c316c9a83ba5a1][^key-376e3603bfc6b3666870cea7b445ac87] (1) Section 25 (guidance on the OEP’s enforcement policy and functions) is amended as follows.
+**23.**[^c-eced606cccc32738f5c316c9a83ba5a1][^c-376e3603bfc6b3666870cea7b445ac87] (1) Section 25 (guidance on the OEP’s enforcement policy and functions) is amended as follows.
 
 (2) At the end of subsection (1) insert “, so far as relating to the OEP’s Part 1 enforcement functions.”
 
@@ -599,7 +599,7 @@ on which that department requires it to give advice.
 
 (4) In subsection (3) for “enforcement functions” substitute “Part 1 enforcement functions”.
 
-**24.**[^key-06bb9449999dc140f3d5a3e393e66297][^key-4ed7c585014be7f743c2ce726c4bfbdb] After section 25 (guidance on the OEP’s enforcement policy and functions) insert—
+**24.**[^c-06bb9449999dc140f3d5a3e393e66297][^c-4ed7c585014be7f743c2ce726c4bfbdb] After section 25 (guidance on the OEP’s enforcement policy and functions) insert—
 
 > **25A. Guidance on the OEP’s Northern Ireland enforcement policy and functions**
 >
@@ -634,7 +634,7 @@ on which that department requires it to give advice.
 >
 > (11) The Department may revise the guidance at any time (and subsections (4) to (10) apply in relation to any revised guidance).
 
-**25.**[^key-90a250f7b464f1b8dfd0ac5d63ea3d12][^key-c3ec4eff57d4ba07afa2e99b5df4a13c] (1) Section 27 (co-operation duties of public authorities and the OEP) is amended as follows.
+**25.**[^c-90a250f7b464f1b8dfd0ac5d63ea3d12][^c-c3ec4eff57d4ba07afa2e99b5df4a13c] (1) Section 27 (co-operation duties of public authorities and the OEP) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -649,7 +649,7 @@ on which that department requires it to give advice.
 >
 > In this subsection “**implementation body**” has the meaning it has in section 55 of the Northern Ireland Act 1998 (see subsection (3) of that section).
 
-**26.**[^key-5c9a225eded783bfce4cf2111c417dbe][^key-360f35c13c519185524e4c71c7e55d0c] In section 37 (linked notices), after subsection (6) insert—
+**26.**[^c-5c9a225eded783bfce4cf2111c417dbe][^c-360f35c13c519185524e4c71c7e55d0c] In section 37 (linked notices), after subsection (6) insert—
 
 > (6A) If the OEP considers that an information notice or a decision notice relates to conduct that is the same as or similar to conduct that is the subject of a Northern Ireland information notice or Northern Ireland decision notice, it may determine that those notices are linked.
 >
@@ -658,7 +658,7 @@ on which that department requires it to give advice.
 > - (a) a copy of every Northern Ireland information notice or Northern Ireland decision notice which is linked to it, and
 > - (b) a copy of any relevant correspondence, relating to such a notice, between the OEP and the recipient of that notice.
 
-**27.**[^key-83273bc829743c4930a5c20242ddd72d][^key-b39766fd8d8736ebb96cf5a2ce5b1149] (1) Section 43 (confidentiality of proceedings) is amended as follows.
+**27.**[^c-83273bc829743c4930a5c20242ddd72d][^c-b39766fd8d8736ebb96cf5a2ce5b1149] (1) Section 43 (confidentiality of proceedings) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -687,7 +687,7 @@ on which that department requires it to give advice.
 
 (6) In subsection (6) after “this Chapter” insert “or Part 1 of Schedule 3”.
 
-**28.**[^key-fae2db0ae83113bb3b15ee7c7346cd17][^key-794ef98bebed7bcbe7cf9fd86147701b] (1) Section 47 (interpretation of Part 1 of the Act) is amended as follows.
+**28.**[^c-fae2db0ae83113bb3b15ee7c7346cd17][^c-794ef98bebed7bcbe7cf9fd86147701b] (1) Section 47 (interpretation of Part 1 of the Act) is amended as follows.
 
 (2) The existing text becomes subsection (1).
 
@@ -722,7 +722,7 @@ on which that department requires it to give advice.
 
 > (2) Section 41(3) of the [Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.))](https://www.legislation.gov.uk/apni/1954/33) applies in relation to the laying of a document before the Northern Ireland Assembly under this Part, as it applies in relation to the laying of a statutory document under an Act of the Northern Ireland Assembly.
 
-**29.**[^key-2766a910a48b12ab5173e802f81189fe][^key-ee8bca809f4ac0f423f4ea4e0e7db501] (1) Schedule 1 is amended as follows.
+**29.**[^c-2766a910a48b12ab5173e802f81189fe][^c-ee8bca809f4ac0f423f4ea4e0e7db501] (1) Schedule 1 is amended as follows.
 
 (2) In paragraph 1—
 
@@ -817,7 +817,7 @@ on which that department requires it to give advice.
 >
 > In this Schedule “**the Northern Ireland Department**” means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland.
 
-**30.**[^key-521204c2d68a8125b2d93c4fddb2be89][^key-35ed9b636ea4463c34b2f1246ca91c4d] (1) Schedule 2 (improving the natural environment: Northern Ireland) is amended as follows.
+**30.**[^c-521204c2d68a8125b2d93c4fddb2be89][^c-35ed9b636ea4463c34b2f1246ca91c4d] (1) Schedule 2 (improving the natural environment: Northern Ireland) is amended as follows.
 
 (2) In paragraph 3(4)(b) after “under paragraph 5” insert “and reports made by the OEP under paragraph 1 of Schedule 3”.
 
@@ -831,124 +831,124 @@ on which that department requires it to give advice.
 
 ## Annotations
 
-[^key-49ce158df07345abdf33de51d8cd27a7]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-49ce158df07345abdf33de51d8cd27a7]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-1e987a2402f0f994186acf95c5791085]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/1) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-1e987a2402f0f994186acf95c5791085]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/1) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-ad6aa91bcf63be63f2afcebc852509ff]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-ad6aa91bcf63be63f2afcebc852509ff]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-0bb96a3d0e5b6a611f2d8fca8ef45191]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/2) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-0bb96a3d0e5b6a611f2d8fca8ef45191]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/2) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-92fdc7a2e97669bbdce0b57b0dd29db5]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-92fdc7a2e97669bbdce0b57b0dd29db5]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-15290c42b70af947a253c2c90f999ea2]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/3) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-15290c42b70af947a253c2c90f999ea2]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/3) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-2850022def0b93a0c48ab1cb75efbc1f]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-2850022def0b93a0c48ab1cb75efbc1f]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-2cdc66e48e7184a081b4b53e3ba5aaf0]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/4) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-2cdc66e48e7184a081b4b53e3ba5aaf0]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/4) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-0aa627a50c4cb722e764a34251301e07]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-0aa627a50c4cb722e764a34251301e07]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-a5a68c6d2e502e3883338ba4ea1b3b05]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/5) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-a5a68c6d2e502e3883338ba4ea1b3b05]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/5) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-319abca5304462c9b457a045c668eb34]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-319abca5304462c9b457a045c668eb34]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-3a40b1d80db5e93e098f584d3dbf5070]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/6) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-3a40b1d80db5e93e098f584d3dbf5070]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/6) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-06a26f143709826a1468250793e361e0]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-06a26f143709826a1468250793e361e0]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-333bb668dff4c27c258d9266bfb84527]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/7) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-333bb668dff4c27c258d9266bfb84527]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/7) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-d946a14501e1df153019890375d876de]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-d946a14501e1df153019890375d876de]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-0b66d280cc534948c95b68514f2b12e1]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/8) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-0b66d280cc534948c95b68514f2b12e1]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/8) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-30964c2bf428ee39ef3cdcfbeb57dae1]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-30964c2bf428ee39ef3cdcfbeb57dae1]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-f699bff820899c12bbc7dd3f26c6b933]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/9) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-f699bff820899c12bbc7dd3f26c6b933]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/9) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-913b06b52912daf44acec624534f457d]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-913b06b52912daf44acec624534f457d]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-8e45a2e1011a10e852ae3506a57e4535]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/10) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-8e45a2e1011a10e852ae3506a57e4535]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/10) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-3059e992c681eb49d47055d0d66cf9a3]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-3059e992c681eb49d47055d0d66cf9a3]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-a77bfa27e19066152981a47c165c7baf]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/11) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-a77bfa27e19066152981a47c165c7baf]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/11) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-c7c862bd066c0a3b8baa40184b4f4c68]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-c7c862bd066c0a3b8baa40184b4f4c68]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-1a51199a7f0fa4810fbb2f80017583b4]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/12) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-1a51199a7f0fa4810fbb2f80017583b4]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/12) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-71be942c24ccc868143f6a4f8d726ff6]: Commencement: Sch. 3 para. 13 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-71be942c24ccc868143f6a4f8d726ff6]: Commencement: Sch. 3 para. 13 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-07d64f49921fab974feefaea4bae1477]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/13) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-07d64f49921fab974feefaea4bae1477]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/13) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-15457937f244d056f8c6d4a12110d0da]: Commencement: Sch. 3 para. 14 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-15457937f244d056f8c6d4a12110d0da]: Commencement: Sch. 3 para. 14 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-2bf1a583350a219f62a13d74caaff2b3]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/14) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-2bf1a583350a219f62a13d74caaff2b3]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/14) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-862a15eb47c0be954bee24fdb9b2f79a]: Commencement: Sch. 3 para. 15 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-862a15eb47c0be954bee24fdb9b2f79a]: Commencement: Sch. 3 para. 15 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-ad90d3603d4a9d33b239cf82126d9801]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/15) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-ad90d3603d4a9d33b239cf82126d9801]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/15) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-c225380eb7689ccfe266efae66255179]: Commencement: Sch. 3 para. 16 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-c225380eb7689ccfe266efae66255179]: Commencement: Sch. 3 para. 16 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-caac63d2a2109ae837d22380651348eb]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/16) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-caac63d2a2109ae837d22380651348eb]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/16) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-588852356c08a83f25b12100b1fc251b]: Commencement: Sch. 3 para. 17 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-588852356c08a83f25b12100b1fc251b]: Commencement: Sch. 3 para. 17 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-26bf594444586b00ecba72e96cee4a77]: Commencement: [Sch. 3 para. 17(1)-(6)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/17/1) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-26bf594444586b00ecba72e96cee4a77]: Commencement: [Sch. 3 para. 17(1)-(6)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/17/1) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-dd395a5d2017b354d808237a1f59f8b6]: Commencement: [Sch. 3 para. 17(7)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/17/7) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-dd395a5d2017b354d808237a1f59f8b6]: Commencement: [Sch. 3 para. 17(7)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/17/7) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-2b553291ab34d295e3659ce8c3bd269f]: Commencement: Sch. 3 para. 18 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-2b553291ab34d295e3659ce8c3bd269f]: Commencement: Sch. 3 para. 18 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-ebe4b3d342ebdc0360dd6a292bc505f6]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/18) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-ebe4b3d342ebdc0360dd6a292bc505f6]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/18) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-076604159ad01878dd8db9c11e28d6be]: Commencement: Sch. 3 para. 19 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-076604159ad01878dd8db9c11e28d6be]: Commencement: Sch. 3 para. 19 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-2d499e04fe817473776ac210b5ad09ca]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/19) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-2d499e04fe817473776ac210b5ad09ca]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/19) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-3d30ab61a242bdfe315d02d68f143b23]: Commencement: Sch. 3 para. 20 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-3d30ab61a242bdfe315d02d68f143b23]: Commencement: Sch. 3 para. 20 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-146e4dafad60b371b153ad6b6986e53f]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/20) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-146e4dafad60b371b153ad6b6986e53f]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/20) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-160e5bf9b3e18b0eb6f0e85bf8fd6a97]: Commencement: Sch. 3 para. 21 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-160e5bf9b3e18b0eb6f0e85bf8fd6a97]: Commencement: Sch. 3 para. 21 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-ca1b423f3b826c8d539cea31541a7295]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/21) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-ca1b423f3b826c8d539cea31541a7295]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/21) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-cca35ca1aaa61f5add38c6272d2db3b8]: Commencement: Sch. 3 para. 22 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-cca35ca1aaa61f5add38c6272d2db3b8]: Commencement: Sch. 3 para. 22 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-41c3bf1ce48f71a76bb18db8f919120a]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/22) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-41c3bf1ce48f71a76bb18db8f919120a]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/22) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-eced606cccc32738f5c316c9a83ba5a1]: Commencement: Sch. 3 para. 23 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-eced606cccc32738f5c316c9a83ba5a1]: Commencement: Sch. 3 para. 23 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-376e3603bfc6b3666870cea7b445ac87]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/23) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-376e3603bfc6b3666870cea7b445ac87]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/23) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-06bb9449999dc140f3d5a3e393e66297]: Commencement: Sch. 3 para. 24 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-06bb9449999dc140f3d5a3e393e66297]: Commencement: Sch. 3 para. 24 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-4ed7c585014be7f743c2ce726c4bfbdb]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/24) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-4ed7c585014be7f743c2ce726c4bfbdb]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/24) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-90a250f7b464f1b8dfd0ac5d63ea3d12]: Commencement: Sch. 3 para. 25 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-90a250f7b464f1b8dfd0ac5d63ea3d12]: Commencement: Sch. 3 para. 25 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-c3ec4eff57d4ba07afa2e99b5df4a13c]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/25) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-c3ec4eff57d4ba07afa2e99b5df4a13c]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/25) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-5c9a225eded783bfce4cf2111c417dbe]: Commencement: Sch. 3 para. 26 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-5c9a225eded783bfce4cf2111c417dbe]: Commencement: Sch. 3 para. 26 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-360f35c13c519185524e4c71c7e55d0c]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/26) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-360f35c13c519185524e4c71c7e55d0c]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/26) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-83273bc829743c4930a5c20242ddd72d]: Commencement: Sch. 3 para. 27 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-83273bc829743c4930a5c20242ddd72d]: Commencement: Sch. 3 para. 27 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-b39766fd8d8736ebb96cf5a2ce5b1149]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/27) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-b39766fd8d8736ebb96cf5a2ce5b1149]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/27) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-fae2db0ae83113bb3b15ee7c7346cd17]: Commencement: Sch. 3 para. 28 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-fae2db0ae83113bb3b15ee7c7346cd17]: Commencement: Sch. 3 para. 28 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-794ef98bebed7bcbe7cf9fd86147701b]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/28) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-794ef98bebed7bcbe7cf9fd86147701b]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/28) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-2766a910a48b12ab5173e802f81189fe]: Commencement: Sch. 3 para. 29 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-2766a910a48b12ab5173e802f81189fe]: Commencement: Sch. 3 para. 29 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-ee8bca809f4ac0f423f4ea4e0e7db501]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/29) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-ee8bca809f4ac0f423f4ea4e0e7db501]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/29) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
 
-[^key-521204c2d68a8125b2d93c4fddb2be89]: Commencement: Sch. 3 para. 30 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
+[^c-521204c2d68a8125b2d93c4fddb2be89]: Commencement: Sch. 3 para. 30 not in force at Royal Assent, see [s. 147(6)(7)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6/7)
 
-[^key-35ed9b636ea4463c34b2f1246ca91c4d]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/30) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)
+[^c-35ed9b636ea4463c34b2f1246ca91c4d]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/ukpga/2021/30/schedule/3/paragraph/30) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/a)

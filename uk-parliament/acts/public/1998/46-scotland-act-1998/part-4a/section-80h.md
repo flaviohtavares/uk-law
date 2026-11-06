@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80H. Reimbursement of expenses[^key-fb9440768736e26e8b19301ef62c2a7f]
+## 80H. Reimbursement of expenses[^c-fb9440768736e26e8b19301ef62c2a7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may reimburse any Minister of the Crown or government dep
 
 ## Annotations
 
-[^key-fb9440768736e26e8b19301ef62c2a7f]: Textual amendment: Pt. 4A Ch. 2 inserted (1.7.2012 with effect in accordance with s. 44(3)(a) of the amending Act) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/25/3), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), [(3)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/a); [S.I. 2015/2000](https://www.legislation.gov.uk/uksi/2015/2000), [art. 3](https://www.legislation.gov.uk/uksi/2015/2000/article/3)
+[^c-fb9440768736e26e8b19301ef62c2a7f]: Textual amendment: Pt. 4A Ch. 2 inserted (1.7.2012 with effect in accordance with s. 44(3)(a) of the amending Act) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/25/3), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), [(3)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/a); [S.I. 2015/2000](https://www.legislation.gov.uk/uksi/2015/2000), [art. 3](https://www.legislation.gov.uk/uksi/2015/2000/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Plans of abandoned mines[^key-860213a247c11804983ec915ad3dff2f]
+## 69. Plans of abandoned mines[^c-860213a247c11804983ec915ad3dff2f]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-860213a247c11804983ec915ad3dff2f]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2016/427/regulation/69) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-860213a247c11804983ec915ad3dff2f]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2016/427/regulation/69) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

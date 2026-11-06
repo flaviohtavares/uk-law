@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**14.**[^key-b1cede9c2461a618fb3e8ace65b43502][^key-0b8089acefe7e41b17e2afec4f880cb9] POL is admitted to participation in the RMPP as an employer on the terms set out in the trust deed and rules of the RMPP, as amended by article 11 and article 13, and as from time to time in force thereafter.
+**14.**[^c-b1cede9c2461a618fb3e8ace65b43502][^c-0b8089acefe7e41b17e2afec4f880cb9] POL is admitted to participation in the RMPP as an employer on the terms set out in the trust deed and rules of the RMPP, as amended by article 11 and article 13, and as from time to time in force thereafter.
 
 ## Annotations
 
-[^key-b1cede9c2461a618fb3e8ace65b43502]: Commencement: Art. 14 not in force at made date, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2012/687/article/1/4)
+[^c-b1cede9c2461a618fb3e8ace65b43502]: Commencement: Art. 14 not in force at made date, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2012/687/article/1/4)
 
-[^key-0b8089acefe7e41b17e2afec4f880cb9]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2012/687/article/14) in force at 1.4.2012 immediately after the commencement of arts. 2-12 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-0b8089acefe7e41b17e2afec4f880cb9]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2012/687/article/14) in force at 1.4.2012 immediately after the commencement of arts. 2-12 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)

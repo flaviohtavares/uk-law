@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Market rent only option: disputes[^key-7dd77eacecebd476752cd00df9529985][^key-0ae4decd44ec012c60a1b4a86e5704a9]
+## 45. Market rent only option: disputes[^c-7dd77eacecebd476752cd00df9529985][^c-0ae4decd44ec012c60a1b4a86e5704a9]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7dd77eacecebd476752cd00df9529985]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2015/26/section/45) in force at 6.4.2016 for specified purposes by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2016/321/regulation/4/a)
+[^c-7dd77eacecebd476752cd00df9529985]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2015/26/section/45) in force at 6.4.2016 for specified purposes by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2016/321/regulation/4/a)
 
-[^key-0ae4decd44ec012c60a1b4a86e5704a9]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2015/26/section/45) in force at 21.7.2016 in so far as not already in force by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-0ae4decd44ec012c60a1b4a86e5704a9]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2015/26/section/45) in force at 21.7.2016 in so far as not already in force by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

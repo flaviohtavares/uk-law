@@ -27,7 +27,7 @@ summary: ''
 
 (2) If the total amount previously charged (see subsection (4)) equals or exceeds the total amount released (see subsection (6)), tax is not charged under this Chapter.
 
-(3) If the total amount released exceeds the total amount previously charged, tax is charged under this Chapter on the excess[^key-d5237a1eaf45ea8b2e2070d3b817cc2d]....
+(3) If the total amount released exceeds the total amount previously charged, tax is charged under this Chapter on the excess[^c-d5237a1eaf45ea8b2e2070d3b817cc2d]....
 
 (4) In this section “**the total amount previously charged**” means the total of—
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5237a1eaf45ea8b2e2070d3b817cc2d]: Textual amendment: Words in [s. 418(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/418/3) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/19)
+[^c-d5237a1eaf45ea8b2e2070d3b817cc2d]: Textual amendment: Words in [s. 418(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/418/3) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/19)
 
 [^c19742841]: Textual amendment: Words in s. 418(5) substituted (6.4.2007 with effect as stated in [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [ss. 1027](https://www.legislation.gov.uk/ukpga/2007/3/section/1027), [1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034), [Sch. 1 para. 521](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/521) (with transitional provisions and savings in [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

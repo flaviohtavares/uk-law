@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Decision on remittal[^key-61ea007c0c649116cedadedd645900be]
+## 58. Decision on remittal[^c-61ea007c0c649116cedadedd645900be]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61ea007c0c649116cedadedd645900be]: Commencement: S. 58 in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-61ea007c0c649116cedadedd645900be]: Commencement: S. 58 in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

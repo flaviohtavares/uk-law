@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 311. Limit on number etc of accounting periods for which supplement may be claimed[^key-99928539b93e0adfca042fabea83d850]
+## 311. Limit on number etc of accounting periods for which supplement may be claimed[^c-99928539b93e0adfca042fabea83d850]
 
 *Extent: E+W+S+N.I.*
 
-(1) A company may claim supplement under this Chapter in respect of no more than 10[^key-f9e7861d344e7fb6586c80ca8d8433c3] accounting periods.
+(1) A company may claim supplement under this Chapter in respect of no more than 10[^c-f9e7861d344e7fb6586c80ca8d8433c3] accounting periods.
 
-(1A)[^key-26a709d8d814d118d32cedfa488a331c] In this Chapter—
+(1A)[^c-26a709d8d814d118d32cedfa488a331c] In this Chapter—
 
 - “**the initial 6 periods**” means the first 6 accounting periods (in chronological order) for which the company claims supplement under this Chapter;
 - “**the additional 4 periods**” means the 4 accounting periods after the initial 6 periods for which the company claims supplement under this Chapter.
@@ -49,8 +49,8 @@ so much of that accounting period as falls before 5 December 2013 and so much of
 
 ## Annotations
 
-[^key-99928539b93e0adfca042fabea83d850]: Textual amendment: Word in s. 311 heading inserted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 4(4)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/4/4)
+[^c-99928539b93e0adfca042fabea83d850]: Textual amendment: Word in s. 311 heading inserted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 4(4)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/4/4)
 
-[^key-f9e7861d344e7fb6586c80ca8d8433c3]: Textual amendment: Word in s. 311(1) substituted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 4(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/4/2)
+[^c-f9e7861d344e7fb6586c80ca8d8433c3]: Textual amendment: Word in s. 311(1) substituted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 4(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/4/2)
 
-[^key-26a709d8d814d118d32cedfa488a331c]: Textual amendment: S. 311(1A)-(1C) inserted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 4(3)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/4/3)
+[^c-26a709d8d814d118d32cedfa488a331c]: Textual amendment: S. 311(1A)-(1C) inserted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 4(3)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/4/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Power for Crown Court to direct magistrates' court supervision[^key-bf7ad16d83bc2b262b1024b4e06ea865]
+## 189. Power for Crown Court to direct magistrates' court supervision[^c-bf7ad16d83bc2b262b1024b4e06ea865]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ For the effect of such a direction, see Schedule 7 (breach, revocation or amendm
 
 ## Annotations
 
-[^key-bf7ad16d83bc2b262b1024b4e06ea865]: Commencement: S. 189 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-bf7ad16d83bc2b262b1024b4e06ea865]: Commencement: S. 189 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

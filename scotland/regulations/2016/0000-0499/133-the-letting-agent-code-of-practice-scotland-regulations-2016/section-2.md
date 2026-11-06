@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Letting Agent Code of Practice[^key-de35b24f1928c86fe95578de09a3311a]
+## 2. Letting Agent Code of Practice[^c-de35b24f1928c86fe95578de09a3311a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Letting Agent Code of Practice, which is set out in the Schedule, has effect
 
 ## Annotations
 
-[^key-de35b24f1928c86fe95578de09a3311a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/133/regulation/2) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+[^c-de35b24f1928c86fe95578de09a3311a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/133/regulation/2) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)

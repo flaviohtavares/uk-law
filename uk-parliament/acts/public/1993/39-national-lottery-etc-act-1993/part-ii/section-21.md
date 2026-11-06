@@ -22,8 +22,8 @@ summary: ''
 
 (1) There shall be a fund maintained under the control and management of the Secretary of State and known as the National Lottery Distribution Fund.
 
-(2)[^key-0fa569db363c1235b90551daf90195e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0fa569db363c1235b90551daf90195e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0fa569db363c1235b90551daf90195e2]: Textual amendment: S. 21(2) repealed (8.4.2005) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 34(8)](https://www.legislation.gov.uk/ukpga/2004/25/section/34/8), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40), [Sch. 6](https://www.legislation.gov.uk/ukpga/2004/25/schedule/6); [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
+[^c-0fa569db363c1235b90551daf90195e2]: Textual amendment: S. 21(2) repealed (8.4.2005) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 34(8)](https://www.legislation.gov.uk/ukpga/2004/25/section/34/8), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40), [Sch. 6](https://www.legislation.gov.uk/ukpga/2004/25/schedule/6); [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)

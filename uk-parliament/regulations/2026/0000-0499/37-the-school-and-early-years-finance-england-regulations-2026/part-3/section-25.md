@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Split sites factor[^key-389eeda1af76c5be9f2bd6427a7c246b]
+## 25. Split sites factor[^c-389eeda1af76c5be9f2bd6427a7c246b]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ and adding the two factors together.
 
 ## Annotations
 
-[^key-389eeda1af76c5be9f2bd6427a7c246b]: Commencement: Reg. 25 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-389eeda1af76c5be9f2bd6427a7c246b]: Commencement: Reg. 25 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
 [^f00075]: Footnote: The national funding formula basic eligibility factor is referred to at paragraph 4.10 of the document entitled “Schools block national funding formula 2026 to 2027: technical note”, published on 19th November 2025, which can be found at https://assets.publishing.service.gov.uk/media/6920955d25317fc65a5cfddc/2026-2027\_NFF\_schools\_block\_technical\_note.pdf. A printed copy may also be inspected at the Department for Education, Sanctuary Buildings, Great Smith Street, London SW1P 3BT upon request.
 

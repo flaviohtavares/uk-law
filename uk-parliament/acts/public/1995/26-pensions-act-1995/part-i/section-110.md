@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Provision of information.[^key-6cfd8e39287cb8293cd74975e362b0e8]
+## 110. Provision of information.[^c-6cfd8e39287cb8293cd74975e362b0e8]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cfd8e39287cb8293cd74975e362b0e8]: Textual amendment: Ss. 96-114 repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/695/article/2/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/695/schedule/1) (with [arts.](https://www.legislation.gov.uk/uksi/2005/695/article) [4-6](https://www.legislation.gov.uk/uksi/2005/695/article/4), [Schs. 2](https://www.legislation.gov.uk/uksi/2005/695/schedule/2), [3](https://www.legislation.gov.uk/uksi/2005/695/schedule/3))
+[^c-6cfd8e39287cb8293cd74975e362b0e8]: Textual amendment: Ss. 96-114 repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/695/article/2/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/695/schedule/1) (with [arts.](https://www.legislation.gov.uk/uksi/2005/695/article) [4-6](https://www.legislation.gov.uk/uksi/2005/695/article/4), [Schs. 2](https://www.legislation.gov.uk/uksi/2005/695/schedule/2), [3](https://www.legislation.gov.uk/uksi/2005/695/schedule/3))

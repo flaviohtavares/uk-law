@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Elections[^key-504fdf8da05c5afec5ac8dae8115a22c]
+## 3. Elections[^c-504fdf8da05c5afec5ac8dae8115a22c]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-504fdf8da05c5afec5ac8dae8115a22c]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/11/section/3) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/a)
+[^c-504fdf8da05c5afec5ac8dae8115a22c]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/11/section/3) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/a)

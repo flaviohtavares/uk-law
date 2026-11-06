@@ -33,24 +33,24 @@ of 16 December 1991
 
 laying down the conditions under which non-resident carriers may transport goods or passengers by inland waterway within a Member State (revoked)
 
-[^key-2a0e048e2f4956ced9c69723f4c4dde0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a0e048e2f4956ced9c69723f4c4dde0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-2a0e048e2f4956ced9c69723f4c4dde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2a0e048e2f4956ced9c69723f4c4dde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2a0e048e2f4956ced9c69723f4c4dde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2a0e048e2f4956ced9c69723f4c4dde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2a0e048e2f4956ced9c69723f4c4dde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2a0e048e2f4956ced9c69723f4c4dde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-2a0e048e2f4956ced9c69723f4c4dde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-2a0e048e2f4956ced9c69723f4c4dde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-2a0e048e2f4956ced9c69723f4c4dde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-2a0e048e2f4956ced9c69723f4c4dde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-2a0e048e2f4956ced9c69723f4c4dde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-2a0e048e2f4956ced9c69723f4c4dde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-2a0e048e2f4956ced9c69723f4c4dde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-2a0e048e2f4956ced9c69723f4c4dde0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a0e048e2f4956ced9c69723f4c4dde0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a0e048e2f4956ced9c69723f4c4dde0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a0e048e2f4956ced9c69723f4c4dde0]: Textual amendment: Regulation revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/488/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2a0e048e2f4956ced9c69723f4c4dde0]: Textual amendment: Regulation revoked (31.12.2020) by The Maritime Transport Access to [Trade and Cabotage (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/488)](https://www.legislation.gov.uk/uksi/2019/488), [regs. 1](https://www.legislation.gov.uk/uksi/2019/488/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/488/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

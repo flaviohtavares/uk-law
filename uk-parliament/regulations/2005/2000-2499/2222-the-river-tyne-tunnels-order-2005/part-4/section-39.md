@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Traffic control[^key-a3dd187887a3f8d1961cecb6bc8a8633]
+## 39. Traffic control[^c-a3dd187887a3f8d1961cecb6bc8a8633]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3dd187887a3f8d1961cecb6bc8a8633]: Commencement: Art. 39 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-a3dd187887a3f8d1961cecb6bc8a8633]: Commencement: Art. 39 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

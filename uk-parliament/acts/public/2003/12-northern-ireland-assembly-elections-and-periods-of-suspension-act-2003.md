@@ -152,7 +152,7 @@ and it may make provision for anything else which is relevant for the purposes o
 
 .
 
-(5)[^key-e0fe61dcf1cf4ce16e2a0daaa6fb324a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e0fe61dcf1cf4ce16e2a0daaa6fb324a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) After paragraph 13, there is added—
 
@@ -233,4 +233,4 @@ together collectively referred to below as “**the temporary provisions**”, r
 
 ## Annotations
 
-[^key-e0fe61dcf1cf4ce16e2a0daaa6fb324a]: Textual amendment: [S. 5(5)](https://www.legislation.gov.uk/ukpga/2003/12/section/5/5) repealed (N.I.) (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-e0fe61dcf1cf4ce16e2a0daaa6fb324a]: Textual amendment: [S. 5(5)](https://www.legislation.gov.uk/ukpga/2003/12/section/5/5) repealed (N.I.) (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)

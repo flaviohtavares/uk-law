@@ -58,7 +58,7 @@ The Secretary of State, being a Minister designated[^f00001] for the purposes of
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-4f842d50a6a080b9156c214f5d73e635]
+### 1. Citation, commencement and interpretation[^c-4f842d50a6a080b9156c214f5d73e635]
 
 (1) These Regulations may be cited as the Trade Marks (International Registrations Designating the European Community, etc.) Regulations 2004.
 
@@ -73,13 +73,13 @@ The Secretary of State, being a Minister designated[^f00001] for the purposes of
 
 ## PART 2 — INTERNATIONAL REGISTRATIONS DESIGNATING THE EUROPEAN COMMUNITY
 
-### 2. Amendment of the 1994 Act[^key-7552a9ad5fc7aba4b9b970810c0314f0]
+### 2. Amendment of the 1994 Act[^c-7552a9ad5fc7aba4b9b970810c0314f0]
 
 The 1994 Act is amended as follows.
 
-**3.**[^key-c5021badd73e783bcc324178e6f27528] In section 5(3) (earlier trade marks with a reputation), after “Community trade mark” insert “or international trade mark (EC)”.
+**3.**[^c-c5021badd73e783bcc324178e6f27528] In section 5(3) (earlier trade marks with a reputation), after “Community trade mark” insert “or international trade mark (EC)”.
 
-**4.**[^key-cedefd8145bc683075047000a1b93479] In section 6(1) (meaning of “earlier trade mark”)—
+**4.**[^c-cedefd8145bc683075047000a1b93479] In section 6(1) (meaning of “earlier trade mark”)—
 
 - (a) in paragraph (a), for “or Community trade mark” substitute “, Community trade mark or international trade mark (EC)”; and
 - (b) for paragraph (b) substitute—
@@ -91,23 +91,23 @@ The 1994 Act is amended as follows.
 
   .
 
-**5.**[^key-57172a6b836a502a5255c807252172ae] In section 53 (the Madrid Protocol), after the definition of “the International Bureau” insert—
+**5.**[^c-57172a6b836a502a5255c807252172ae] In section 53 (the Madrid Protocol), after the definition of “the International Bureau” insert—
 
 > - “international trade mark (EC)” means a trade mark which is entitled to protection in the European Community under that Protocol;
 
 .
 
-**6.**[^key-5db8860df69731608740ee1b245ee548] In section 104 (index of defined expressions), after the entry for “the International Bureau”, insert—
+**6.**[^c-5db8860df69731608740ee1b245ee548] In section 104 (index of defined expressions), after the entry for “the International Bureau”, insert—
 
 > - international trade mark (EC)section 53
 
 .
 
-### 7. Amendment of the 1996 Regulations[^key-c78c6634104869e64aae54ac7758ae83]
+### 7. Amendment of the 1996 Regulations[^c-c78c6634104869e64aae54ac7758ae83]
 
 The 1996 Regulations are amended as follows.
 
-**8.**[^key-95048f5f4a6a80f63f57d028a7b1176d] In regulation 2 (interpretation), after the definition of “the Community Trade Mark Regulation” insert—
+**8.**[^c-95048f5f4a6a80f63f57d028a7b1176d] In regulation 2 (interpretation), after the definition of “the Community Trade Mark Regulation” insert—
 
 > - “the International Bureau”, “international trade mark (EC)”, “international trade mark (UK)” and “the Madrid Protocol” have the meanings given in section 53;
 > - “international application” means an application to the International Bureau for registration of a trade mark in the International Register;
@@ -118,7 +118,7 @@ The 1996 Regulations are amended as follows.
 
 .
 
-**9.**[^key-978d9f7988fe0be7afbafd406ecc5b37] (1) In regulation 3(1) (determination *a posteriori* of invalidity and liability to revocation), after “Community trade mark” insert “or of an international trade mark (EC)”.
+**9.**[^c-978d9f7988fe0be7afbafd406ecc5b37] (1) In regulation 3(1) (determination *a posteriori* of invalidity and liability to revocation), after “Community trade mark” insert “or of an international trade mark (EC)”.
 
 (2) After that paragraph insert—
 
@@ -130,7 +130,7 @@ The 1996 Regulations are amended as follows.
 
 (4) In regulation 3(3) and in regulation 3(4), after “paragraph (1)” insert “or (1A)”.
 
-**10.**[^key-e8e640167490317e45eed7cbfd05d3e6] For regulation 4 substitute—
+**10.**[^c-e8e640167490317e45eed7cbfd05d3e6] For regulation 4 substitute—
 
 > **4. Groundless threats of infringement proceedings**
 >
@@ -143,7 +143,7 @@ The 1996 Regulations are amended as follows.
 
 .
 
-**11.**[^key-c54a40812c90ac91dedde91bde1a17bb] In regulation 6 (importation of infringing goods, material or articles), after both occurrences of “Community trade mark” insert “or an international trade mark (EC)”.
+**11.**[^c-c54a40812c90ac91dedde91bde1a17bb] In regulation 6 (importation of infringing goods, material or articles), after both occurrences of “Community trade mark” insert “or an international trade mark (EC)”.
 
 **12.**[^M_I_d7e38a5a-bfce-4bb5-9f17-725a60e9ae50] In regulation 7 (offences and forfeiture)—
 
@@ -151,7 +151,7 @@ The 1996 Regulations are amended as follows.
 - (b) after each of the first two occurrences of “Community trade mark” insert “or an international trade mark (EC)”; and
 - (c) after “a Community trade mark is registered” insert “or in respect of which an international trade mark (EC) confers protection in the European Community”.
 
-**13.**[^key-8f5c2a1fe93bd49a6afc8b4153e7e54d] After regulation 8 (falsely representing trade mark as a Community trade mark) insert—
+**13.**[^c-8f5c2a1fe93bd49a6afc8b4153e7e54d] After regulation 8 (falsely representing trade mark as a Community trade mark) insert—
 
 > **8A. Falsely representing trade mark as an international trade mark (EC)**
 >
@@ -166,7 +166,7 @@ The 1996 Regulations are amended as follows.
 
 .
 
-**14.**[^key-0d6a672886ebe61fe924dfec34596139] For regulation 10 substitute—
+**14.**[^c-0d6a672886ebe61fe924dfec34596139] For regulation 10 substitute—
 
 > **10. Conversion**
 >
@@ -185,7 +185,7 @@ The 1996 Regulations are amended as follows.
 
 **Not yet in force.**
 
-### 15. Further amendment of the 1996 Regulations[^key-0c3de90403992968bcd0af9ae207842d]
+### 15. Further amendment of the 1996 Regulations[^c-0c3de90403992968bcd0af9ae207842d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -249,40 +249,40 @@ The Transposition Note and the partial regulatory impact assessment are also ava
 
 [^f00003]: Footnote: [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26); amendments of the Act relevant to these Regulations have been made by S.I. [2004/946](https://www.legislation.gov.uk/uksi/2004/946).
 
-[^key-4f842d50a6a080b9156c214f5d73e635]: Commencement: Reg. 1 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
+[^c-4f842d50a6a080b9156c214f5d73e635]: Commencement: Reg. 1 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
 
 [^f00004]: Footnote: S.I. [1996/1908](https://www.legislation.gov.uk/uksi/1996/1908), which has been amended by S.I. [2004/949](https://www.legislation.gov.uk/uksi/2004/949).
 
-[^key-7552a9ad5fc7aba4b9b970810c0314f0]: Commencement: Reg. 2 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
+[^c-7552a9ad5fc7aba4b9b970810c0314f0]: Commencement: Reg. 2 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
 
-[^key-c5021badd73e783bcc324178e6f27528]: Commencement: Reg. 3 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
+[^c-c5021badd73e783bcc324178e6f27528]: Commencement: Reg. 3 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
 
-[^key-cedefd8145bc683075047000a1b93479]: Commencement: Reg. 4 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
+[^c-cedefd8145bc683075047000a1b93479]: Commencement: Reg. 4 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
 
-[^key-57172a6b836a502a5255c807252172ae]: Commencement: Reg. 5 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
+[^c-57172a6b836a502a5255c807252172ae]: Commencement: Reg. 5 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
 
-[^key-5db8860df69731608740ee1b245ee548]: Commencement: Reg. 6 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
+[^c-5db8860df69731608740ee1b245ee548]: Commencement: Reg. 6 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
 
-[^key-c78c6634104869e64aae54ac7758ae83]: Commencement: Reg. 7 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
+[^c-c78c6634104869e64aae54ac7758ae83]: Commencement: Reg. 7 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
 
-[^key-95048f5f4a6a80f63f57d028a7b1176d]: Commencement: Reg. 8 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
+[^c-95048f5f4a6a80f63f57d028a7b1176d]: Commencement: Reg. 8 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
 
-[^key-978d9f7988fe0be7afbafd406ecc5b37]: Commencement: Reg. 9 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
+[^c-978d9f7988fe0be7afbafd406ecc5b37]: Commencement: Reg. 9 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
 
 [^f00005]: Footnote: S.I. [1996/714](https://www.legislation.gov.uk/uksi/1996/714); article 13 was amended by S.I. [2000/138](https://www.legislation.gov.uk/uksi/2000/138) and [2004/948](https://www.legislation.gov.uk/uksi/2004/948).
 
-[^key-e8e640167490317e45eed7cbfd05d3e6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2004/2332/regulation/10) in force at 1.11.2004, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/3)
+[^c-e8e640167490317e45eed7cbfd05d3e6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2004/2332/regulation/10) in force at 1.11.2004, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/3)
 
-[^key-c54a40812c90ac91dedde91bde1a17bb]: Commencement: Reg. 11 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
+[^c-c54a40812c90ac91dedde91bde1a17bb]: Commencement: Reg. 11 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
 
 [^M_I_d7e38a5a-bfce-4bb5-9f17-725a60e9ae50]: Commencement: Reg. 12 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
 
 [^f00006]: Footnote: Section 92A was inserted by section 6 of the Copyright, etc. and Trade Marks (Offences and Enforcement) Act [2002 (c. 25)](https://www.legislation.gov.uk/ukpga/2002/25).
 
-[^key-8f5c2a1fe93bd49a6afc8b4153e7e54d]: Commencement: Reg. 13 in force at 1.11.2004, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/3)
+[^c-8f5c2a1fe93bd49a6afc8b4153e7e54d]: Commencement: Reg. 13 in force at 1.11.2004, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/3)
 
-[^key-0d6a672886ebe61fe924dfec34596139]: Commencement: Reg. 14 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
+[^c-0d6a672886ebe61fe924dfec34596139]: Commencement: Reg. 14 in force at 1.10.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2332/regulation/1/2)
 
 [^f00007]: Footnote: Council Regulation [(EC) No 40/94](https://www.legislation.gov.uk/european/regulation/1994/0040) of 20 December 1993 on the Community trade mark (OJ No L 11, 14.1.1994, p. 1), to which amendments relevant to these Regulations have been made by Council Regulation [(EC) No 1992/2003](https://www.legislation.gov.uk/european/regulation/2003/1992) of 27 October 2003 (OJ No L 296, 14.11.2003, p. 1) and Council Regulation [(EC) No 422/2004](https://www.legislation.gov.uk/european/regulation/2004/0422) of 19 February 2004 (OJ No L 70, 9.3.2004, p.1).
 
-[^key-0c3de90403992968bcd0af9ae207842d]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2004/2332/regulation/15) revoked (31.3.2005) by [The Community Trade Mark (Designation of Community Trade Mark Courts) Regulations 2005 (S.I. 2005/440)](https://www.legislation.gov.uk/uksi/2005/440), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/440/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2005/440/regulation/2)
+[^c-0c3de90403992968bcd0af9ae207842d]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2004/2332/regulation/15) revoked (31.3.2005) by [The Community Trade Mark (Designation of Community Trade Mark Courts) Regulations 2005 (S.I. 2005/440)](https://www.legislation.gov.uk/uksi/2005/440), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/440/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2005/440/regulation/2)

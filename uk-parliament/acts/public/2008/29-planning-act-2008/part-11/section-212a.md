@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212A. Charging schedule: examiner's recommendations[^key-0cc4a32d26b83cb5f40c250ca9d409fc]
+## 212A. Charging schedule: examiner's recommendations[^c-0cc4a32d26b83cb5f40c250ca9d409fc]
 
 *Extent: E+W*
 
@@ -48,10 +48,10 @@ the examiner must recommend that the draft be rejected.
 
 (7) If the examiner makes recommendations under subsection (5), the examiner may recommend modifications with which the draft should be approved in the event that it is approved.
 
-(8)[^key-d39a0305c7bf9209c7592b29cb1ed153] For exceptions to this section see section 211(11).
+(8)[^c-d39a0305c7bf9209c7592b29cb1ed153] For exceptions to this section see section 211(11).
 
 ## Annotations
 
-[^key-0cc4a32d26b83cb5f40c250ca9d409fc]: Textual amendment: S. 212A inserted (16.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 114(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/4), [240(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/6) (with [ss. 114(8)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/8), [144](https://www.legislation.gov.uk/ukpga/2011/20/section/144))
+[^c-0cc4a32d26b83cb5f40c250ca9d409fc]: Textual amendment: S. 212A inserted (16.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 114(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/4), [240(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/6) (with [ss. 114(8)](https://www.legislation.gov.uk/ukpga/2011/20/section/114/8), [144](https://www.legislation.gov.uk/ukpga/2011/20/section/144))
 
-[^key-d39a0305c7bf9209c7592b29cb1ed153]: Textual amendment: [S. 212A(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/212A/8) inserted (31.1.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 107(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/107/5), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/e)
+[^c-d39a0305c7bf9209c7592b29cb1ed153]: Textual amendment: [S. 212A(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/212A/8) inserted (31.1.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 107(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/107/5), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/e)

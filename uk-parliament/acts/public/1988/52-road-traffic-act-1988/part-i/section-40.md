@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Road safety grants[^c19480991][^c13972731][^key-0873264abff48a81c08852d78d7166cd][^c19269921]
+## 40. Road safety grants[^c19480991][^c13972731][^c-0873264abff48a81c08852d78d7166cd][^c19269921]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) the Secretary of State acting with the approval of the Treasury, or
 - (b) the National Assembly for Wales.
 
-## 40. Powers of Secretary of State to subsidise bodies other then local authorities for giving road safety information and training.[^c19481001][^c13972731][^key-0873264abff48a81c08852d78d7166cd]
+## 40. Powers of Secretary of State to subsidise bodies other then local authorities for giving road safety information and training.[^c19481001][^c13972731][^c-0873264abff48a81c08852d78d7166cd]
 
 *Extent: S*
 
@@ -41,7 +41,7 @@ The Secretary of State may, with the approval of the Treasury, make out of monie
 
     S. 40 modified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [arts. 1](https://www.legislation.gov.uk/uksi/1999/672/article/1), [2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-0873264abff48a81c08852d78d7166cd]: Modification: S. 40: functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-0873264abff48a81c08852d78d7166cd]: Modification: S. 40: functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c19269921]: Textual amendment: S. 40 substituted (E.W.) (8.1.2007) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 1](https://www.legislation.gov.uk/ukpga/2006/49/section/1), [61(7)(a)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/7/a)
 

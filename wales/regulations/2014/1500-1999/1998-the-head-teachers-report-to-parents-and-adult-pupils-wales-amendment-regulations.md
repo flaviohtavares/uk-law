@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers conferred on the Secretary of State by sections 408 and 569(4) and (5) of the Education Act 1996[^f00001] and now vested in them[^f00002], and after consulting with those persons with whom consultation appeared to the Welsh Ministers to be desirable pursuant to section 408(5) of the Education Act 1996, make the following Regulations:
 
-## 1. Title, commencement and application[^key-aef6e1cf9f3223d1a21b1c7ebe09fbbe]
+## 1. Title, commencement and application[^c-aef6e1cf9f3223d1a21b1c7ebe09fbbe]
 
 (1) The title of these Regulations is the Head Teacher’s Report to Parents and Adult Pupils (Wales) (Amendment) Regulations 2014 and they come into force on 1 September 2014.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Amendment to the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^key-ec7842a8fa17f8348bddcbf949eba844]
+## 2. Amendment to the Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^c-ec7842a8fa17f8348bddcbf949eba844]
 
 (1) The Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^f00003] are amended as follows.
 
@@ -139,9 +139,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The functions of the Secretary of State under these sections were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers under section 162 of, and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-aef6e1cf9f3223d1a21b1c7ebe09fbbe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2014/1998/regulation/1) in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/wsi/2014/1998/regulation/1)
+[^c-aef6e1cf9f3223d1a21b1c7ebe09fbbe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2014/1998/regulation/1) in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/wsi/2014/1998/regulation/1)
 
-[^key-ec7842a8fa17f8348bddcbf949eba844]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2014/1998/regulation/2) in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/wsi/2014/1998/regulation/1)
+[^c-ec7842a8fa17f8348bddcbf949eba844]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2014/1998/regulation/2) in force at 1.9.2014, see [reg. 1](https://www.legislation.gov.uk/wsi/2014/1998/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2011/1943 (W. 210)](https://www.legislation.gov.uk/wsi/2011/1943) as amended by [S.I. 2013/437 (W. 53)](https://www.legislation.gov.uk/wsi/2013/437).
 

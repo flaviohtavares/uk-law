@@ -290,7 +290,7 @@ Section 40
 
 #### Aircraft and Shipbuilding Industries Act 1977 (c. 3)
 
-**29.**[^key-887a6b54a78f1cd7efdb9d2ad82d48ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-887a6b54a78f1cd7efdb9d2ad82d48ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Judicature (Northern Ireland) Act 1978 (c. 23)
 
@@ -677,15 +677,15 @@ Section 40
 
 (2) In section 57 (assignment of appeals to Court of Appeal) in subsection (1) for “House of Lords” substitute “Supreme Court”.
 
-(3)[^key-70dfcf5516ae2b66e47668f4f27d8872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-70dfcf5516ae2b66e47668f4f27d8872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
 **69.** In the Powers of Criminal Courts (Sentencing) Act 2000, in sections 132(4) and 139(9), and in subsections (4) and (5) of section 140 (compensation order on restoration of conviction, powers and duties of Crown Court in relation to fines, and enforcement of fines imposed), for “House of Lords” in each case substitute “ Supreme Court ”.
 
-#### ...[^key-aaf3be9faaf07e06fc93ec4629ac88db]
+#### ...[^c-aaf3be9faaf07e06fc93ec4629ac88db]
 
-**70.**[^key-aaf3be9faaf07e06fc93ec4629ac88db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**70.**[^c-aaf3be9faaf07e06fc93ec4629ac88db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Terrorism Act 2000 (c. 11)
 
@@ -723,9 +723,9 @@ Section 40
 
 **77.** (1) The Proceeds of Crime Act 2002 is amended as follows.
 
-(2)[^key-97f2b025efa33b97db05df3671a7f54e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-97f2b025efa33b97db05df3671a7f54e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-87b7a4763d701defca1cddae168cc4e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-87b7a4763d701defca1cddae168cc4e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 85 (proceedings) in subsection (6) for “House of Lords” in each place substitute “ Supreme Court ”.
 
@@ -889,7 +889,7 @@ Section 40
 
 (2) In subsection (1) of that section for “Judicial Committee” substitute “ Supreme Court ”.
 
-**97.**[^key-5c414e5751e808def6c6e443112824ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**97.**[^c-5c414e5751e808def6c6e443112824ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **98.** In section 35 (power of Secretary of State to intervene in certain cases), in subsection (3)(c) for “Judicial Committee” substitute “ Supreme Court ”.
 
@@ -993,7 +993,7 @@ Section 40
 - (a) for “Judicial Committee decide” substitute “ Supreme Court decides ”;
 - (b) for “their decision” substitute “ its decision ”.
 
-**110.**[^key-069af838d815e463104e1e3630854d51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**110.**[^c-069af838d815e463104e1e3630854d51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **111.** In section 13 (stages of Bills), in subsection (5)(a) for “Judicial Committee decide” substitute “ Supreme Court decides ”.
 
@@ -1083,19 +1083,19 @@ Section 40
 
 ## Annotations
 
-[^key-887a6b54a78f1cd7efdb9d2ad82d48ca]: Textual amendment: [Sch. 9 para. 29](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/29) omitted (22.3.2013) by virtue of [The Public Bodies (Abolition of the Aircraft and Shipbuilding Industries Arbitration Tribunal) Order 2013 (S.I. 2013/686)](https://www.legislation.gov.uk/uksi/2013/686), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/686/article/1/2), [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/uksi/2013/686/schedule/1/paragraph/8/4)
+[^c-887a6b54a78f1cd7efdb9d2ad82d48ca]: Textual amendment: [Sch. 9 para. 29](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/29) omitted (22.3.2013) by virtue of [The Public Bodies (Abolition of the Aircraft and Shipbuilding Industries Arbitration Tribunal) Order 2013 (S.I. 2013/686)](https://www.legislation.gov.uk/uksi/2013/686), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/686/article/1/2), [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/uksi/2013/686/schedule/1/paragraph/8/4)
 
 [^c20298491]: Textual amendment: [Sch. 9 para. 31](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/31) repealed (1.9.2009) by [The Transfer of Functions (Estate Agents Appeals and Additional Scheduled Tribunal) Order 2009 (S.I. 2009/1836)](https://www.legislation.gov.uk/uksi/2009/1836), [art. 5(2)](https://www.legislation.gov.uk/uksi/2009/1836/article/5/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1836/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1836/schedule/3))
 
 [^c20294181]: Textual amendment: [Sch. 9 para. 42(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/42/2) repealed (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 131](https://www.legislation.gov.uk/ukpga/2008/26/section/131), [134](https://www.legislation.gov.uk/ukpga/2008/26/section/134), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/3); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-70dfcf5516ae2b66e47668f4f27d8872]: Textual amendment: Sch. 9 para. 68(3) repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-70dfcf5516ae2b66e47668f4f27d8872]: Textual amendment: Sch. 9 para. 68(3) repealed (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/part/2); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
-[^key-aaf3be9faaf07e06fc93ec4629ac88db]: Textual amendment: Sch. 9 para. 70 and cross-heading repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-aaf3be9faaf07e06fc93ec4629ac88db]: Textual amendment: Sch. 9 para. 70 and cross-heading repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-97f2b025efa33b97db05df3671a7f54e]: Textual amendment: Sch. 9 para. 77(2) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 33](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/33); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-97f2b025efa33b97db05df3671a7f54e]: Textual amendment: Sch. 9 para. 77(2) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 33](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/33); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-87b7a4763d701defca1cddae168cc4e3]: Textual amendment: Sch. 9 para. 77(3) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 33](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/33); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-87b7a4763d701defca1cddae168cc4e3]: Textual amendment: Sch. 9 para. 77(3) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 33](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/33); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
 [^c18954301]: Textual amendment: [Sch. 9 para. 81(4)(ba)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/81/4/ba) inserted (15.1.2006) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 52](https://www.legislation.gov.uk/ukpga/2006/48/section/52), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 13 para. 35(a)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/35/a); [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/e)
 
@@ -1113,6 +1113,6 @@ Section 40
 
 [^c19222751]: Textual amendment: [Sch. 9 para. 87-92](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/87) repealed (coming into force immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see [ss. 46](https://www.legislation.gov.uk/ukpga/2005/4/section/46), [161(4)(c)(d)(5)](https://www.legislation.gov.uk/ukpga/2006/32/section/161/4/c/d/5) of the amending Act) by [The Government Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) s. 163, {Sch. 12} (with Sch. 11 para. 22)
 
-[^key-5c414e5751e808def6c6e443112824ee]: Textual amendment: Sch. 9 para. 97 repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
+[^c-5c414e5751e808def6c6e443112824ee]: Textual amendment: Sch. 9 para. 97 repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
 
-[^key-069af838d815e463104e1e3630854d51]: Textual amendment: Sch. 9 para. 110 repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
+[^c-069af838d815e463104e1e3630854d51]: Textual amendment: Sch. 9 para. 110 repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))

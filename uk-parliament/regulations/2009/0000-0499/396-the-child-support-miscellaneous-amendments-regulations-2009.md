@@ -53,7 +53,7 @@ These Regulations may be cited as the Child Support (Miscellaneous Amendments) R
 
 In Schedule 1 to the Child Support (Maintenance Assessment Procedure) Regulations 1992 (meaning of “**child**” for the purposes of the Act) [^c1958385], in paragraph 1(3)(b) (persons of 16 or 17 years of age who are not in full-time non-advanced education), for “or income-based jobseeker's allowance” substitute “ , income-based jobseeker's allowance or income-related employment and support allowance. ”.
 
-## 3. Amendment of the Arrears, Interest and Adjustment of Maintenance Assessments Regulations[^key-952d83e3b9174f7fa532b88ab9b7712d]
+## 3. Amendment of the Arrears, Interest and Adjustment of Maintenance Assessments Regulations[^c-952d83e3b9174f7fa532b88ab9b7712d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -125,7 +125,7 @@ In Schedule 1 to the Child Support (Maintenance Assessment Procedure) Regulation
 
 (14) In regulation 30 (appeal against a decision which has been replaced or revised) after the words “Secretary of State”, wherever they occur, insert “ , the Commission ”.
 
-(15)[^key-0a57faf34039a3e944f54a94e302e5ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-0a57faf34039a3e944f54a94e302e5ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (16) After Schedule 3C insert—
 
@@ -257,11 +257,11 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c1958385]: Marginal citation: [S.I. 1992/1813](https://www.legislation.gov.uk/uksi/1992/1813). Paragraph 1(3)(b) of Schedule 1 was amended by [S.I. 1996/1345](https://www.legislation.gov.uk/uksi/1996/1345).
 
-[^key-952d83e3b9174f7fa532b88ab9b7712d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/396/regulation/3) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
+[^c-952d83e3b9174f7fa532b88ab9b7712d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/396/regulation/3) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
 
 [^c1958387]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991). Relevant amending instruments are [S.I. 2000/3185](https://www.legislation.gov.uk/uksi/2000/3185), 2002/1204, 2003/328 and 1050, 2004/2415 and 2008/2544, 2656 and 2683.
 
-[^key-0a57faf34039a3e944f54a94e302e5ef]: Textual amendment: [Reg. 4(15)](https://www.legislation.gov.uk/uksi/2009/396/regulation/4/15) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
+[^c-0a57faf34039a3e944f54a94e302e5ef]: Textual amendment: [Reg. 4(15)](https://www.legislation.gov.uk/uksi/2009/396/regulation/4/15) revoked (25.1.2010) by [Child Support (Management of Payments and Arrears) Regulations 2009 (S.I. 2009/3151)](https://www.legislation.gov.uk/uksi/2009/3151), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3151/regulation/1), [14](https://www.legislation.gov.uk/uksi/2009/3151/regulation/14), [Schs.](https://www.legislation.gov.uk/uksi/2009/3151/schedule) (with [reg. 15](https://www.legislation.gov.uk/uksi/2009/3151/regulation/15))
 
 [^c1958389]: Marginal citation: [S.I. 2000/155](https://www.legislation.gov.uk/uksi/2000/155). Relevant amending instruments are [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019), 2003/1195 and 2005/785.
 

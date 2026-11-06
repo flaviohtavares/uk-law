@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Subsequent convictions: revocation of immunity[^key-e3ba2891057d7fddc964393723122f8f]
+## 26. Subsequent convictions: revocation of immunity[^c-e3ba2891057d7fddc964393723122f8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ that grant of immunity from prosecution is to be regarded for the purposes of su
 
 ## Annotations
 
-[^key-e3ba2891057d7fddc964393723122f8f]: Commencement: S. 26 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-e3ba2891057d7fddc964393723122f8f]: Commencement: S. 26 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)

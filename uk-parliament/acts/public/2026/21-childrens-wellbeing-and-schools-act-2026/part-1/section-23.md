@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Corporate parenting responsibilities[^key-40aae91a0531fbeb74ced4e875b54372]
+## 23. Corporate parenting responsibilities[^c-40aae91a0531fbeb74ced4e875b54372]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40aae91a0531fbeb74ced4e875b54372]: Commencement: S. 23 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-40aae91a0531fbeb74ced4e875b54372]: Commencement: S. 23 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

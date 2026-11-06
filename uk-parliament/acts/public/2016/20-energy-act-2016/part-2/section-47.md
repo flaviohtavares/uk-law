@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Revocation notices[^key-cbe71529296ea3888694950acb0bc23b]
+## 47. Revocation notices[^c-cbe71529296ea3888694950acb0bc23b]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbe71529296ea3888694950acb0bc23b]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2016/20/section/47) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-cbe71529296ea3888694950acb0bc23b]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2016/20/section/47) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

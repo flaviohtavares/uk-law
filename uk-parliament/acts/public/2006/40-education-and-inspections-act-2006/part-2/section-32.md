@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Interpretation of Part 2[^key-b1dfcd0a5b74307fed1590792c446634]
+## 32. Interpretation of Part 2[^c-b1dfcd0a5b74307fed1590792c446634]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - “**adjudicator**” is to be read in accordance with section 25(3) of SSFA 1998;
 - “**discontinue**”, in relation to a maintained school, is to be read in accordance with section 15(8);
 - “**foundation**”, in relation to a foundation or voluntary school, has (subject to sections 25(8) and 27(8)) the meaning given by section 21(3) of SSFA 1998;
-- “ **local authority[^key-0ea7acc4831332590d0c9da4689eca3c]**”, in relation to a school maintained (or proposed to be maintained) by a local authority, means that authority;
+- “ **local authority[^c-0ea7acc4831332590d0c9da4689eca3c]**”, in relation to a school maintained (or proposed to be maintained) by a local authority, means that authority;
 - “**maintain**”, in relation to a maintained school, has the same meaning as in SSFA 1998;
 - “**maintained school**” means any of the following schools in England—
   - (a) a community, foundation or voluntary school,
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b1dfcd0a5b74307fed1590792c446634]: Commencement: S. 32 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(g)](https://www.legislation.gov.uk/uksi/2007/935/article/5/g)
+[^c-b1dfcd0a5b74307fed1590792c446634]: Commencement: S. 32 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(g)](https://www.legislation.gov.uk/uksi/2007/935/article/5/g)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

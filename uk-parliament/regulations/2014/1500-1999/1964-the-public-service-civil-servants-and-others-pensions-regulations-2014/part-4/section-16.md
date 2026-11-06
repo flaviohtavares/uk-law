@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Fair Deal eligible persons[^key-29e2b6a0104763933712f54071000d73]
+## 16. Fair Deal eligible persons[^c-29e2b6a0104763933712f54071000d73]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29e2b6a0104763933712f54071000d73]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/1964/regulation/16) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-29e2b6a0104763933712f54071000d73]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/1964/regulation/16) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

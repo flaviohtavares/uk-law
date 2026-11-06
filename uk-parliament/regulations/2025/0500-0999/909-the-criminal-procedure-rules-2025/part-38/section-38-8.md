@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38.8. Public interest ruling[^key-46529b2d79b881c0d9a593a466f8baa4]
+## 38.8. Public interest ruling[^c-46529b2d79b881c0d9a593a466f8baa4]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ if the appellant thinks that to do so in effect would reveal something that the 
 
 ## Annotations
 
-[^key-46529b2d79b881c0d9a593a466f8baa4]: Commencement: [Rule 38.8](https://www.legislation.gov.uk/uksi/2025/909/rule/38.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-46529b2d79b881c0d9a593a466f8baa4]: Commencement: [Rule 38.8](https://www.legislation.gov.uk/uksi/2025/909/rule/38.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

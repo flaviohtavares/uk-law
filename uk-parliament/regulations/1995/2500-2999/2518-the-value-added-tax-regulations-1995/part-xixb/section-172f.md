@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172F. Application[^key-12b3ddc9e3df0471c0d476f47d2d5398]
+## 172F. Application[^c-12b3ddc9e3df0471c0d476f47d2d5398]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Part applies where the supply in relation to which a person has claimed cre
 
 ## Annotations
 
-[^key-12b3ddc9e3df0471c0d476f47d2d5398]: Textual amendment: [Pt. 19B](https://www.legislation.gov.uk/uksi/1995/2518/part/19B) inserted (1.1.2003) by [The Value Added Tax (Amendment) (No. 4) Regulations 2002 (S.I. 2002/3027)](https://www.legislation.gov.uk/uksi/2002/3027), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3027/regulation/1), [8](https://www.legislation.gov.uk/uksi/2002/3027/regulation/8)
+[^c-12b3ddc9e3df0471c0d476f47d2d5398]: Textual amendment: [Pt. 19B](https://www.legislation.gov.uk/uksi/1995/2518/part/19B) inserted (1.1.2003) by [The Value Added Tax (Amendment) (No. 4) Regulations 2002 (S.I. 2002/3027)](https://www.legislation.gov.uk/uksi/2002/3027), [regs. 1](https://www.legislation.gov.uk/uksi/2002/3027/regulation/1), [8](https://www.legislation.gov.uk/uksi/2002/3027/regulation/8)

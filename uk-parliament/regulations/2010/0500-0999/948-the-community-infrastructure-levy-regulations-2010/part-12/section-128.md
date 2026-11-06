@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 128. Transitional provision: general[^key-a00d97f69dc77ba28b2afbe52a920130]
+## 128. Transitional provision: general[^c-a00d97f69dc77ba28b2afbe52a920130]
 
 *Extent: E+W*
 
 *Extent: W*
 
-(1 (Extent: E) (affected by repeal, see note))[^key-8842e49943ad98d4f3a9f9308da121b1] Subject to paragraph (2), liability to *(Extent: E)* *(affected by repeal, see note)*[^key-8842e49943ad98d4f3a9f9308da121b1] CIL *(Extent: E)* *(affected by repeal, see note)*[^key-8842e49943ad98d4f3a9f9308da121b1] does not arise in respect of development if, on the day planning permission is granted for that development, it is situated in an area in which no charging schedule is in effect. *(Extent: E)* *(affected by repeal, see note)*[^key-8842e49943ad98d4f3a9f9308da121b1]
+(1 (Extent: E) (affected by repeal, see note))[^c-8842e49943ad98d4f3a9f9308da121b1] Subject to paragraph (2), liability to *(Extent: E)* *(affected by repeal, see note)*[^c-8842e49943ad98d4f3a9f9308da121b1] CIL *(Extent: E)* *(affected by repeal, see note)*[^c-8842e49943ad98d4f3a9f9308da121b1] does not arise in respect of development if, on the day planning permission is granted for that development, it is situated in an area in which no charging schedule is in effect. *(Extent: E)* *(affected by repeal, see note)*[^c-8842e49943ad98d4f3a9f9308da121b1]
 
-(2 (Extent: E) (affected by repeal, see note))[^key-8842e49943ad98d4f3a9f9308da121b1] Where planning permission is granted for development by way of a relevant general consent, liability to *(Extent: E)* *(affected by repeal, see note)*[^key-8842e49943ad98d4f3a9f9308da121b1] CIL *(Extent: E)* *(affected by repeal, see note)*[^key-8842e49943ad98d4f3a9f9308da121b1] does not arise in respect of that development if— *(Extent: E)* *(affected by repeal, see note)*[^key-8842e49943ad98d4f3a9f9308da121b1]
+(2 (Extent: E) (affected by repeal, see note))[^c-8842e49943ad98d4f3a9f9308da121b1] Where planning permission is granted for development by way of a relevant general consent, liability to *(Extent: E)* *(affected by repeal, see note)*[^c-8842e49943ad98d4f3a9f9308da121b1] CIL *(Extent: E)* *(affected by repeal, see note)*[^c-8842e49943ad98d4f3a9f9308da121b1] does not arise in respect of that development if— *(Extent: E)* *(affected by repeal, see note)*[^c-8842e49943ad98d4f3a9f9308da121b1]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-8842e49943ad98d4f3a9f9308da121b1] it is commenced before 6th April 2013; or *(Extent: E)* *(affected by repeal, see note)*[^key-8842e49943ad98d4f3a9f9308da121b1]
-- (b (Extent: E) (affected by repeal, see note))[^key-8842e49943ad98d4f3a9f9308da121b1] on the day on which it is commenced it is situated in an area in which no charging schedule is in effect. *(Extent: E)* *(affected by repeal, see note)*[^key-8842e49943ad98d4f3a9f9308da121b1]
+- (a (Extent: E) (affected by repeal, see note))[^c-8842e49943ad98d4f3a9f9308da121b1] it is commenced before 6th April 2013; or *(Extent: E)* *(affected by repeal, see note)*[^c-8842e49943ad98d4f3a9f9308da121b1]
+- (b (Extent: E) (affected by repeal, see note))[^c-8842e49943ad98d4f3a9f9308da121b1] on the day on which it is commenced it is situated in an area in which no charging schedule is in effect. *(Extent: E)* *(affected by repeal, see note)*[^c-8842e49943ad98d4f3a9f9308da121b1]
 
 *Extent: E*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a00d97f69dc77ba28b2afbe52a920130]: Commencement: Reg. 128 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-a00d97f69dc77ba28b2afbe52a920130]: Commencement: Reg. 128 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-8842e49943ad98d4f3a9f9308da121b1]: Textual amendment: [Reg. 128(1)](https://www.legislation.gov.uk/uksi/2010/948/regulation/128/1)[(2)](https://www.legislation.gov.uk/uksi/2010/948/regulation/128/2) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [5(10)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5/10) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-8842e49943ad98d4f3a9f9308da121b1]: Textual amendment: [Reg. 128(1)](https://www.legislation.gov.uk/uksi/2010/948/regulation/128/1)[(2)](https://www.legislation.gov.uk/uksi/2010/948/regulation/128/2) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [5(10)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5/10) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

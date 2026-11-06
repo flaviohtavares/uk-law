@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Annual rate of pension payable to deferred member who becomes pensioner member[^key-c8622b97e83ab4e10a9abe75abdcc553]
+## 46. Annual rate of pension payable to deferred member who becomes pensioner member[^c-c8622b97e83ab4e10a9abe75abdcc553]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8622b97e83ab4e10a9abe75abdcc553]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2014/2336/regulation/46) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-c8622b97e83ab4e10a9abe75abdcc553]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2014/2336/regulation/46) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Minibuses[^key-c06bb05e7fb9818341cb4123a55263c1]
+## 41. Minibuses[^c-c06bb05e7fb9818341cb4123a55263c1]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The requirements specified in Schedule 6 shall apply to every minibus first used
 
 ## Annotations
 
-[^key-c06bb05e7fb9818341cb4123a55263c1]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1986/1078/regulation/41) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-c06bb05e7fb9818341cb4123a55263c1]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1986/1078/regulation/41) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

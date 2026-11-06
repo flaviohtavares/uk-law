@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7A. Regional colleges[^key-ddb23bb55a6fc0c7222c7fbde68dd828]
+## 7A. Regional colleges[^c-ddb23bb55a6fc0c7222c7fbde68dd828]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddb23bb55a6fc0c7222c7fbde68dd828]: Textual amendment: S. 7A inserted (13.1.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 5(1)](https://www.legislation.gov.uk/asp/2013/12/section/5/1), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
+[^c-ddb23bb55a6fc0c7222c7fbde68dd828]: Textual amendment: S. 7A inserted (13.1.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 5(1)](https://www.legislation.gov.uk/asp/2013/12/section/5/1), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)

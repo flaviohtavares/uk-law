@@ -31,7 +31,7 @@ summary: ''
 
 Companies
 
-The Companies Act 2006 (Extension of Takeover Panel Provisions) (Isle of Man) Order 2009 (revoked)[^key-8badb4b42c952203ae01b341a3b730cf]
+The Companies Act 2006 (Extension of Takeover Panel Provisions) (Isle of Man) Order 2009 (revoked)[^c-8badb4b42c952203ae01b341a3b730cf]
 
 Made
 
@@ -47,28 +47,28 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-8badb4b42c952203ae01b341a3b730cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8badb4b42c952203ae01b341a3b730cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8badb4b42c952203ae01b341a3b730cf]
+## 1. Citation and commencement[^c-8badb4b42c952203ae01b341a3b730cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Schedule 2 to the Companies Act 2006 to extend to the Isle of Man[^key-8badb4b42c952203ae01b341a3b730cf]
+## 2. Schedule 2 to the Companies Act 2006 to extend to the Isle of Man[^c-8badb4b42c952203ae01b341a3b730cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-8badb4b42c952203ae01b341a3b730cf]
+## 3. Revocations[^c-8badb4b42c952203ae01b341a3b730cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8badb4b42c952203ae01b341a3b730cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8badb4b42c952203ae01b341a3b730cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8badb4b42c952203ae01b341a3b730cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8badb4b42c952203ae01b341a3b730cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8badb4b42c952203ae01b341a3b730cf]: Textual amendment: Order revoked (31.12.2020) by [The Companies Act 2006 (Extension of Takeover Panel Provisions) (Isle of Man) Order 2019 (S.I. 2019/567)](https://www.legislation.gov.uk/uksi/2019/567), [arts. 1](https://www.legislation.gov.uk/uksi/2019/567/article/1), [3](https://www.legislation.gov.uk/uksi/2019/567/article/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8badb4b42c952203ae01b341a3b730cf]: Textual amendment: Order revoked (31.12.2020) by [The Companies Act 2006 (Extension of Takeover Panel Provisions) (Isle of Man) Order 2019 (S.I. 2019/567)](https://www.legislation.gov.uk/uksi/2019/567), [arts. 1](https://www.legislation.gov.uk/uksi/2019/567/article/1), [3](https://www.legislation.gov.uk/uksi/2019/567/article/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

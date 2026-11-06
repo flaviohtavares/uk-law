@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Bunkering or ship supply services[^key-d9945b0fa0bb3073f82ca8a31f7406cb][^key-c93c387cdd21f20c8f459cb933c6a0f3][^key-487474d0d8d15b9d2df4fc69428d44fa]
+## 61. Bunkering or ship supply services[^c-d9945b0fa0bb3073f82ca8a31f7406cb][^c-c93c387cdd21f20c8f459cb933c6a0f3][^c-487474d0d8d15b9d2df4fc69428d44fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d9945b0fa0bb3073f82ca8a31f7406cb]: Commencement: Reg. 61 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-d9945b0fa0bb3073f82ca8a31f7406cb]: Commencement: Reg. 61 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-c93c387cdd21f20c8f459cb933c6a0f3]: Commencement: Reg. 61 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c93c387cdd21f20c8f459cb933c6a0f3]: Commencement: Reg. 61 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-487474d0d8d15b9d2df4fc69428d44fa]: Textual amendment: Words in [reg. 61](https://www.legislation.gov.uk/uksi/2019/411/regulation/61) heading substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/7); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-487474d0d8d15b9d2df4fc69428d44fa]: Textual amendment: Words in [reg. 61](https://www.legislation.gov.uk/uksi/2019/411/regulation/61) heading substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/7); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

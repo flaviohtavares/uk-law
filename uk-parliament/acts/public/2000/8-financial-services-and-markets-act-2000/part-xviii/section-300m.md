@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 300M. Power of Treasury to require making of rules by regulations[^key-c6a2b6df945e8b4a4957d1c5c0a02500]
+## 300M. Power of Treasury to require making of rules by regulations[^c-c6a2b6df945e8b4a4957d1c5c0a02500]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6a2b6df945e8b4a4957d1c5c0a02500]: Textual amendment: Ss. 300I-300M and cross-heading inserted (1.1.2024 at 1.00 a.m.) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/49/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/e)
+[^c-c6a2b6df945e8b4a4957d1c5c0a02500]: Textual amendment: Ss. 300I-300M and cross-heading inserted (1.1.2024 at 1.00 a.m.) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/49/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/e)

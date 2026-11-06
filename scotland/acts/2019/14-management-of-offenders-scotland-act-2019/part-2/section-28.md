@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Disclosure period: service discipline[^key-374d92d45f691c049dc7e386d6453946]
+## 28. Disclosure period: service discipline[^c-374d92d45f691c049dc7e386d6453946]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-374d92d45f691c049dc7e386d6453946]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2019/14/section/28) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-374d92d45f691c049dc7e386d6453946]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2019/14/section/28) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

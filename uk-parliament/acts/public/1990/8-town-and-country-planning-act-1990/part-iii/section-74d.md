@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74D. Sections 74B and 74C: supplementary[^key-442d84bce74e66e0656c4f7f3e2f2253]
+## 74D. Sections 74B and 74C: supplementary[^c-442d84bce74e66e0656c4f7f3e2f2253]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-442d84bce74e66e0656c4f7f3e2f2253]: Textual amendment: Ss. 74B-74D inserted (temp. until 2.4.2021) (28.7.2020) by virtue of [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 16(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/16/1), [25(3)(a)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/3/a) (with [s. 16(6)](https://www.legislation.gov.uk/ukpga/2020/16/section/16/6))
+[^c-442d84bce74e66e0656c4f7f3e2f2253]: Textual amendment: Ss. 74B-74D inserted (temp. until 2.4.2021) (28.7.2020) by virtue of [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 16(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/16/1), [25(3)(a)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/3/a) (with [s. 16(6)](https://www.legislation.gov.uk/ukpga/2020/16/section/16/6))

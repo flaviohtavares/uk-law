@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Offences by bodies corporate[^key-9f9f333c2ac920539292acd860b2e0b1]
+## 46. Offences by bodies corporate[^c-9f9f333c2ac920539292acd860b2e0b1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of an offence under section 45, section 20(2) of the Interpreta
 
 ## Annotations
 
-[^key-9f9f333c2ac920539292acd860b2e0b1]: Commencement: S. 46 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-9f9f333c2ac920539292acd860b2e0b1]: Commencement: S. 46 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)

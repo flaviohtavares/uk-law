@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Performance directions[^key-b515f65ba2b586bac49b5b49999b196a]
+## 54. Performance directions[^c-b515f65ba2b586bac49b5b49999b196a]
 
 *Extent: E+W+S*
 
-(1)[^key-c15758cf747abe6d511a0590718e79cc] The Secretary of State may give a direction to the Authority—
+(1)[^c-c15758cf747abe6d511a0590718e79cc] The Secretary of State may give a direction to the Authority—
 
 - (a) specifying factors (“performance indicators”) by reference to which the Authority's performance in exercising functions can be measured;
 - (b) specifying standards (“performance standards”) to be met by the Authority in relation to performance indicators specified under paragraph (a).
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b515f65ba2b586bac49b5b49999b196a]: Commencement: S. 54 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(kk)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/kk)
+[^c-b515f65ba2b586bac49b5b49999b196a]: Commencement: S. 54 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(kk)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/kk)
 
-[^key-c15758cf747abe6d511a0590718e79cc]: Textual amendment: [S. 54(1)-(1C)](https://www.legislation.gov.uk/ukpga/2003/20/section/54/1) substituted for [s. 54(1)](https://www.legislation.gov.uk/ukpga/2003/20/section/54/1) (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/2007/28/schedule/8/paragraph/24); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)
+[^c-c15758cf747abe6d511a0590718e79cc]: Textual amendment: [S. 54(1)-(1C)](https://www.legislation.gov.uk/ukpga/2003/20/section/54/1) substituted for [s. 54(1)](https://www.legislation.gov.uk/ukpga/2003/20/section/54/1) (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/2007/28/schedule/8/paragraph/24); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/e)

@@ -46,11 +46,11 @@ In accordance with section 33D(8) of that Act the Secretary of State for Health 
 
 A draft of this instrument has been approved by a resolution of each House of Parliament pursuant to section 45(4) of that Act.
 
-## 1. Citation and commencement[^key-de0d8a8f1fa067701e9123437fb52caa]
+## 1. Citation and commencement[^c-de0d8a8f1fa067701e9123437fb52caa]
 
 These Regulations may be cited as the Human Fertilisation and Embryology (Disclosure of Information for Research Purposes) Regulations 2010 and shall come into force on 6th April 2010.
 
-## 2. Interpretation[^key-254d9fd239f65eb77a086eadab5cc1bc]
+## 2. Interpretation[^c-254d9fd239f65eb77a086eadab5cc1bc]
 
 (1) In these Regulations—
 
@@ -61,12 +61,12 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Disclo
 - “the Authority” means the Human Fertilisation and Embryology Authority;
 - “the Data Protection Act” means the Data Protection Act 1998[^f00002];
 - “the NHS Act” means the National Health Service Act 2006[^f00003];
-- [^key-21584c74c2c611376605b51f328dc838]...
+- [^c-21584c74c2c611376605b51f328dc838]...
 - “parental responsibility” has the same meaning as in section 33B(6) of the Act[^f00005] (consent required to authorise certain disclosures);
 - “processing” except in regulation 14, means using the disclosable protected information authorised under regulation 3 and “process” and “processed” shall be construed accordingly;
 - “relevant individual” has the same meaning as in section 31(4) of the Act[^f00006] (register of information);
 - “research establishment” means a university or other body or institution that carries out medical or other research within the United Kingdom;
-- “[^key-55a0c24d1b0d720edbe23b9edb3c5f8c]**research ethics committee**” means a research ethics committee recognised or established by or on behalf of the Health Research Authority under the Care Act 2014;
+- “[^c-55a0c24d1b0d720edbe23b9edb3c5f8c]**research ethics committee**” means a research ethics committee recognised or established by or on behalf of the Health Research Authority under the Care Act 2014;
 - “research project” has the meaning given in regulation 4(4)(c).
 
 (2) In these Regulations, “disclosable protected information” means information falling within section 31(2) of the Act[^f00008] (register of information) which—
@@ -100,11 +100,11 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Disclo
 - (a) in writing; or
 - (b) transmitted by electronic means in a legible form which is capable of being used for subsequent reference.
 
-## 3. Authorisation for disclosure of information[^key-b37d6dc2e5d99b160e85526ba55c320c]
+## 3. Authorisation for disclosure of information[^c-b37d6dc2e5d99b160e85526ba55c320c]
 
 The Authority may grant an authorisation to a research establishment for the processing of disclosable protected information in accordance with these Regulations.
 
-## 4. Applications[^key-1649d1ad8ecc5f023c84744d9cb0488d]
+## 4. Applications[^c-1649d1ad8ecc5f023c84744d9cb0488d]
 
 (1) An application for authorisation must be made to the Authority.
 
@@ -147,11 +147,11 @@ the application need not include any of the information mentioned in sub-paragra
 
 (9) The Authority need not further consider or determine the application until the applicant has provided it with such further information as requested by it under paragraph (7) and may at the end of the period specified in paragraph (8), refuse to grant the authorisation on the ground that the requested information has not been provided.
 
-## 5. Advice and assistance from NIGB[^key-4ae2162da257a66feda576840f38375d]
+## 5. Advice and assistance from NIGB[^c-4ae2162da257a66feda576840f38375d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Authorisation where approval has been given under section 251 of the NHS Act[^key-c0db00b635ac007bbed24631adc6d3e9]
+## 6. Authorisation where approval has been given under section 251 of the NHS Act[^c-c0db00b635ac007bbed24631adc6d3e9]
 
 Where—
 
@@ -161,7 +161,7 @@ Where—
 
 the Authority shall grant an authorisation.
 
-## 7. Grounds for refusal of grant[^key-5db09f130813307395893f8ffda72de5]
+## 7. Grounds for refusal of grant[^c-5db09f130813307395893f8ffda72de5]
 
 (1) Subject to paragraph (2), the Authority must not grant an authorisation where it is satisfied that—
 
@@ -177,7 +177,7 @@ the Authority shall grant an authorisation.
 - (a) it reasonably estimates that the fee payable under regulation 13 would, if calculated without regard to paragraph (4) of that regulation, be likely to be in excess of £5000; or
 - (b) it is satisfied that the disclosure or processing of the information for the purposes of the research project is not necessary or expedient in the public interest or in the interests of improving patient care.
 
-## 8. Authorisation subject to conditions[^key-a7707b13695f5ca92de63a5b3cd2fcae]
+## 8. Authorisation subject to conditions[^c-a7707b13695f5ca92de63a5b3cd2fcae]
 
 (1) Where the Authority grants an authorisation, it must impose the conditions that—
 
@@ -190,7 +190,7 @@ the Authority shall grant an authorisation.
 
 (2) Where the Authority is of the opinion that additional conditions are required in respect of the grant of the authorisation, it may impose such additional conditions as it considers appropriate.
 
-## 9. Variation of additional conditions[^key-f78a1d94c620e84a0007255240796ac3]
+## 9. Variation of additional conditions[^c-f78a1d94c620e84a0007255240796ac3]
 
 (1) A research establishment in respect of which an additional condition is imposed by virtue of paragraph (2) of regulation 8 may apply to the Authority for it to vary that condition.
 
@@ -201,7 +201,7 @@ the Authority shall grant an authorisation.
 
 (3) “Vary” in this regulation and regulations 11 and 12 includes revoke, substitute or add.
 
-## 10. Duration of authorisation[^key-f90d4b2a7957c7a5c861ac9fa07a86cb]
+## 10. Duration of authorisation[^c-f90d4b2a7957c7a5c861ac9fa07a86cb]
 
 (1) Where the Authority grants an authorisation, it shall specify the period for which the authorisation is valid.
 
@@ -209,7 +209,7 @@ the Authority shall grant an authorisation.
 
 (3) Where regulation 4(5) applies, the period for which the authorisation is valid shall not exceed a period of five years beginning with the date of expiry of the previous authorisation in relation to the same research project.
 
-## 11. Notice of decision[^key-ee912595eced9ca652a5468f6b5b2344]
+## 11. Notice of decision[^c-ee912595eced9ca652a5468f6b5b2344]
 
 (1) Where the Authority grants an authorisation or an application to vary additional conditions under regulation 9, it shall give notice to the applicant informing the applicant—
 
@@ -226,7 +226,7 @@ the Authority shall grant an authorisation.
 - (b) of the reasons for its decision; and
 - (c) of the applicant’s right to ask for a review of the decision under regulation 12.
 
-## 12. Review of refusals[^key-fdb803cf7b9a8f5a4157ee6925c60e76]
+## 12. Review of refusals[^c-fdb803cf7b9a8f5a4157ee6925c60e76]
 
 (1) The Authority may, and if requested in writing to do so by the applicant must, review its decision to—
 
@@ -257,7 +257,7 @@ the Authority shall grant an authorisation.
 - (a) of its decision; and
 - (b) of the reasons for its decision.
 
-## 13. Fee in relation to the disclosure of information[^key-07bd1dd4f92d6ee892649cbcdc9d2ac0]
+## 13. Fee in relation to the disclosure of information[^c-07bd1dd4f92d6ee892649cbcdc9d2ac0]
 
 (1) The Authority shall charge the applicant under these Regulations a fee in respect of the disclosure to the applicant of disclosable protected information.
 
@@ -287,13 +287,13 @@ the Authority shall grant an authorisation.
 
 (9) The Authority may refuse to disclose the disclosable protected information until it has received the fee.
 
-## 14. Provision of information by the Authority[^key-9c24dc31f9f0df7da3d594b591869717]
+## 14. Provision of information by the Authority[^c-9c24dc31f9f0df7da3d594b591869717]
 
 (1) Subject to regulation 13, where the Authority grants an authorisation, it shall disclose the disclosable protected information requested by the applicant to the research establishment within a period of 90 days beginning with the date on which payment of the fee under regulation 13 is received.
 
 (2) Where disclosable protected information is disclosed in accordance with these Regulations, anything done by the Authority in so disclosing or processing that information shall be taken to be lawfully done despite any obligation of confidence owed by the Authority in respect of it.
 
-## 15. Processing by the research establishment[^key-5344f261c54df2976efca6d1fb0a46f1]
+## 15. Processing by the research establishment[^c-5344f261c54df2976efca6d1fb0a46f1]
 
 (1) Where the Authority grants an authorisation, the research establishment may process the disclosable protected information disclosed to it under these Regulations provided that the research establishment complies with—
 
@@ -303,7 +303,7 @@ the Authority shall grant an authorisation.
 
 (2) Where disclosable protected information is processed in accordance with these Regulations, anything done by the research establishment in so processing that information shall be taken to be lawfully done despite any obligation of confidence owed by the research establishment in respect of it.
 
-## 16. Suspension of authorisation[^key-4ed9aa5830831a6b1e77a01ef989a802]
+## 16. Suspension of authorisation[^c-4ed9aa5830831a6b1e77a01ef989a802]
 
 (1) The Authority may suspend an authorisation if—
 
@@ -339,7 +339,7 @@ the Authority shall grant an authorisation.
 
 (9) Where the Authority suspends an authorisation, any processing of the disclosable protected information by the research establishment shall not be in accordance with these Regulations (and accordingly the provision in paragraph (2) of regulation 15 shall not apply).
 
-## 17. Revocation of authorisation[^key-5705ccdbceeac6c91f70180112d588f3]
+## 17. Revocation of authorisation[^c-5705ccdbceeac6c91f70180112d588f3]
 
 (1) The Authority may revoke an authorisation where—
 
@@ -363,7 +363,7 @@ the Authority shall grant an authorisation.
 
 (6) Where the Authority revokes an authorisation any processing of the disclosable protected information by the research establishment shall not be in accordance with these Regulations (and accordingly the provision in paragraph (2) of regulation 15 shall not apply).
 
-## 18. Destruction of information[^key-cf81d8e61bb52e46322a450beb59ba77]
+## 18. Destruction of information[^c-cf81d8e61bb52e46322a450beb59ba77]
 
 The research establishment shall make appropriate arrangements for the destruction or disposal of the disclosable protected information where—
 
@@ -371,7 +371,7 @@ The research establishment shall make appropriate arrangements for the destructi
 - (b) the purposes for which it was needed have been satisfied; or
 - (c) the authorisation has been revoked.
 
-## 19. Annual reports and provision of information[^key-daea971e833b0213a253e94bd8e96d06]
+## 19. Annual reports and provision of information[^c-daea971e833b0213a253e94bd8e96d06]
 
 (1) A research establishment which is granted an authorisation shall submit an annual report to the Authority for each relevant year, which shall include—
 
@@ -388,14 +388,14 @@ The research establishment shall make appropriate arrangements for the destructi
 
 (4) Where a research establishment processes disclosable protected information under these Regulations, it shall make available to the Authority within the period specified by the Authority such information as the Authority may reasonably require to assist the Authority in any investigation and audit of that processing within the period specified by the Authority.
 
-## 20. Inspections[^key-1a8109d14cca88b540370a81249d0cfb]
+## 20. Inspections[^c-1a8109d14cca88b540370a81249d0cfb]
 
 The Authority may with the consent of the research establishment, conduct an inspection of the premises of the research establishment at which the research project is being undertaken for the purposes of—
 
 - (a) considering whether or not to grant an application; or
 - (b) ensuring that a research establishment complies with these Regulations or an authorisation granted to it under these Regulations.
 
-## 21. Oversight Committee[^key-8cabc2fb6515ba36fb8b05f6a9cf3ae0]
+## 21. Oversight Committee[^c-8cabc2fb6515ba36fb8b05f6a9cf3ae0]
 
 The Authority shall establish a Committee to—
 
@@ -404,7 +404,7 @@ The Authority shall establish a Committee to—
 - (c) consider annual reports submitted by research establishments under regulation 19; and
 - (d) consider such other matters relating to these Regulations as the Authority or the Committee may determine.
 
-## 22. Guidance[^key-e196bdb760e27f0b4b314d1e634eddb9]
+## 22. Guidance[^c-e196bdb760e27f0b4b314d1e634eddb9]
 
 The Authority may issue information for the purpose of giving practical guidance to research establishments in relation to—
 
@@ -469,63 +469,63 @@ Under regulation 22, the Authority can issue guidance on making an application a
 
 [^f00001]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37). Section 33D was inserted by section 25 of the Human Fertilisation and Embryology Act [2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22).
 
-[^key-de0d8a8f1fa067701e9123437fb52caa]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-de0d8a8f1fa067701e9123437fb52caa]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-254d9fd239f65eb77a086eadab5cc1bc]: Commencement: Reg. 2 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-254d9fd239f65eb77a086eadab5cc1bc]: Commencement: Reg. 2 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
 [^f00002]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
 
 [^f00003]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
 
-[^key-21584c74c2c611376605b51f328dc838]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/995/regulation/2/1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 153(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/153/2)
+[^c-21584c74c2c611376605b51f328dc838]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/995/regulation/2/1) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 153(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/153/2)
 
 [^f00005]: Footnote: Section 33B of the Act was inserted by section 25 of the 2008 Act.
 
 [^f00006]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37). Section 31(4) of the Act was substituted by section 24 of the 2008 Act.
 
-[^key-55a0c24d1b0d720edbe23b9edb3c5f8c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/995/regulation/2/1) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127](https://www.legislation.gov.uk/ukpga/2014/23/section/127), [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2014/23/schedule/8/paragraph/11) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(n)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/n)
+[^c-55a0c24d1b0d720edbe23b9edb3c5f8c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/995/regulation/2/1) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127](https://www.legislation.gov.uk/ukpga/2014/23/section/127), [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2014/23/schedule/8/paragraph/11) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(n)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/n)
 
 [^f00008]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37). Section 31(2) was substituted by section 24 of the 2008 Act.
 
-[^key-b37d6dc2e5d99b160e85526ba55c320c]: Commencement: Reg. 3 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-b37d6dc2e5d99b160e85526ba55c320c]: Commencement: Reg. 3 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-1649d1ad8ecc5f023c84744d9cb0488d]: Commencement: Reg. 4 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-1649d1ad8ecc5f023c84744d9cb0488d]: Commencement: Reg. 4 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-4ae2162da257a66feda576840f38375d]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/995/regulation/5) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 153(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/153/3)
+[^c-4ae2162da257a66feda576840f38375d]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/995/regulation/5) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 153(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/153/3)
 
-[^key-c0db00b635ac007bbed24631adc6d3e9]: Commencement: Reg. 6 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-c0db00b635ac007bbed24631adc6d3e9]: Commencement: Reg. 6 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-5db09f130813307395893f8ffda72de5]: Commencement: Reg. 7 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-5db09f130813307395893f8ffda72de5]: Commencement: Reg. 7 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-a7707b13695f5ca92de63a5b3cd2fcae]: Commencement: Reg. 8 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-a7707b13695f5ca92de63a5b3cd2fcae]: Commencement: Reg. 8 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-f78a1d94c620e84a0007255240796ac3]: Commencement: Reg. 9 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-f78a1d94c620e84a0007255240796ac3]: Commencement: Reg. 9 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-f90d4b2a7957c7a5c861ac9fa07a86cb]: Commencement: Reg. 10 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-f90d4b2a7957c7a5c861ac9fa07a86cb]: Commencement: Reg. 10 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-ee912595eced9ca652a5468f6b5b2344]: Commencement: Reg. 11 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-ee912595eced9ca652a5468f6b5b2344]: Commencement: Reg. 11 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-fdb803cf7b9a8f5a4157ee6925c60e76]: Commencement: Reg. 12 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-fdb803cf7b9a8f5a4157ee6925c60e76]: Commencement: Reg. 12 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-07bd1dd4f92d6ee892649cbcdc9d2ac0]: Commencement: Reg. 13 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-07bd1dd4f92d6ee892649cbcdc9d2ac0]: Commencement: Reg. 13 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-9c24dc31f9f0df7da3d594b591869717]: Commencement: Reg. 14 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-9c24dc31f9f0df7da3d594b591869717]: Commencement: Reg. 14 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-5344f261c54df2976efca6d1fb0a46f1]: Commencement: Reg. 15 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-5344f261c54df2976efca6d1fb0a46f1]: Commencement: Reg. 15 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-4ed9aa5830831a6b1e77a01ef989a802]: Commencement: Reg. 16 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-4ed9aa5830831a6b1e77a01ef989a802]: Commencement: Reg. 16 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-5705ccdbceeac6c91f70180112d588f3]: Commencement: Reg. 17 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-5705ccdbceeac6c91f70180112d588f3]: Commencement: Reg. 17 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-cf81d8e61bb52e46322a450beb59ba77]: Commencement: Reg. 18 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-cf81d8e61bb52e46322a450beb59ba77]: Commencement: Reg. 18 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-daea971e833b0213a253e94bd8e96d06]: Commencement: Reg. 19 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-daea971e833b0213a253e94bd8e96d06]: Commencement: Reg. 19 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-1a8109d14cca88b540370a81249d0cfb]: Commencement: Reg. 20 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-1a8109d14cca88b540370a81249d0cfb]: Commencement: Reg. 20 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-8cabc2fb6515ba36fb8b05f6a9cf3ae0]: Commencement: Reg. 21 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-8cabc2fb6515ba36fb8b05f6a9cf3ae0]: Commencement: Reg. 21 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
-[^key-e196bdb760e27f0b4b314d1e634eddb9]: Commencement: Reg. 22 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
+[^c-e196bdb760e27f0b4b314d1e634eddb9]: Commencement: Reg. 22 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/995/regulation/1)
 
 [^f00009]: Footnote: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37). Section 33D was inserted by section 25 of the Human Fertilisation and Embryology Act [2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22).
 

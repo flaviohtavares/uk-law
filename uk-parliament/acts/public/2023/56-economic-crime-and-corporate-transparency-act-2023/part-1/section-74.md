@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Proper delivery: requirements about who may deliver documents[^key-e9ebd57d1ee08440acacb3494a6bfcf5]
+## 74. Proper delivery: requirements about who may deliver documents[^c-e9ebd57d1ee08440acacb3494a6bfcf5]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 1072 of the Companies Act 2006 (requirements for proper delivery), in
 
 ## Annotations
 
-[^key-e9ebd57d1ee08440acacb3494a6bfcf5]: Commencement: S. 74 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-e9ebd57d1ee08440acacb3494a6bfcf5]: Commencement: S. 74 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

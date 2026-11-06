@@ -50,19 +50,19 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred by section 5(2) of the Taxation (Post-transition Period) Act 2020[^f00001], and the Commissioners for Her Majesty’s Revenue and Customs, in exercise of the powers conferred by section 93(1)(d), (2)(fa) and (fc), (3) and (5A) of the Customs and Excise Management Act 1979[^f00002], section 77(1)(e) of the Alcoholic Liquor Duties Act 1979[^f00003], and sections 45(1) and (2) and 48(10) of the Taxation (Cross-border Trade) Act 2018[^f00004] make the following Regulations.
 
-## 1. Citation and commencement[^key-456c85659f0f21db773c07912dfcecdd]
+## 1. Citation and commencement[^c-456c85659f0f21db773c07912dfcecdd]
 
 These Regulations may be cited as the Excise Duties (Removal of Alcoholic Liquor to Northern Ireland and Miscellaneous Amendments) Regulations 2021 and come into force on 9th December 2021.
 
-## 2. Interpretation[^key-fdf063ae78f9d0f4b5b119fc190cb05c]
+## 2. Interpretation[^c-fdf063ae78f9d0f4b5b119fc190cb05c]
 
 In these Regulations—
 
 - “**the 2020 Act**” means the Taxation (Post-transition Period) Act 2020;
 - “**the DAR**” means the Denatured Alcohol Regulations 2005[^f00005];
 - “**alcohol for denaturing**” means dutiable alcoholic liquor[^f00006] which the Commissioners have permitted to be delivered from a warehouse without payment of duty under regulation 10(1) of the DAR;
-- “**authorised person**” means a person authorised by the Commissioners under section 78 (authorised use for certain purposes) of the Finance (No. 2) Act 2023[^key-97531c472984f24b76e204188dc6fe4d] to receive spirits without payment of duty on those spirits;
-- “[^key-1b149eda4a1fa3c4cab0560c5cd5b03b]**relevant premises**” has the meaning given by section 78(4) of the Finance (No. 2) Act 2023;
+- “**authorised person**” means a person authorised by the Commissioners under section 78 (authorised use for certain purposes) of the Finance (No. 2) Act 2023[^c-97531c472984f24b76e204188dc6fe4d] to receive spirits without payment of duty on those spirits;
+- “[^c-1b149eda4a1fa3c4cab0560c5cd5b03b]**relevant premises**” has the meaning given by section 78(4) of the Finance (No. 2) Act 2023;
 - “**transporter**” means the person carrying out the first transportation of—
   - (a) alcohol for denaturing; or
   - (b) spirits to which regulation 3 applies,
@@ -73,15 +73,15 @@ In these Regulations—
   - (b) an aircraft, or
   - (c) a railway vehicle.
 
-## 3. Removal of certain spirits to Northern Ireland[^key-f205554584067483b62d0c458e287d1b]
+## 3. Removal of certain spirits to Northern Ireland[^c-f205554584067483b62d0c458e287d1b]
 
 (1) This regulation applies to spirits which the Commissioners have permitted to be delivered to an authorised person.
 
 (2) Duty charged as a result of section 4(1) of the 2020 Act (excise duty on the removal of goods to Northern Ireland) is not payable on the removal to Northern Ireland from Great Britain of spirits to which this regulation applies.
 
-## 4. Documents to accompany spirits removed to Northern Ireland[^key-c8c1cd84770ff5c1a98fdfb699f06858]
+## 4. Documents to accompany spirits removed to Northern Ireland[^c-c8c1cd84770ff5c1a98fdfb699f06858]
 
-(1) Where spirits to which regulation 3 applies are removed to Northern Ireland from Great Britain, they must be accompanied at all times, from when they are dispatched from relevant premises[^key-ee3603ca7e55adc3871ac109c733b9ed] until the spirits are received by the authorised person, by two copies of a document which—
+(1) Where spirits to which regulation 3 applies are removed to Northern Ireland from Great Britain, they must be accompanied at all times, from when they are dispatched from relevant premises[^c-ee3603ca7e55adc3871ac109c733b9ed] until the spirits are received by the authorised person, by two copies of a document which—
 
 - (a) contains the particulars set out in the Schedule; and
 - (b) includes spaces identified as—
@@ -97,11 +97,11 @@ must, while those spirits remain in that person’s custody or under their contr
 
 (3) If spirits to which regulation 3 applies are not accompanied as required by paragraph (1), or documentation relating to them is not produced as required by paragraph (2), the spirits are liable to forfeiture.
 
-## 5. Removal of alcohol for denaturing to Northern Ireland[^key-d6d29b57b306fc675b8136bc55aec45d]
+## 5. Removal of alcohol for denaturing to Northern Ireland[^c-d6d29b57b306fc675b8136bc55aec45d]
 
 Duty charged as a result of section 4(1) of the 2020 Act is not payable on the removal of alcohol for denaturing to Northern Ireland from Great Britain.
 
-## 6. Documents to accompany alcohol for denaturing removed to Northern Ireland[^key-29cd0d93a0e0294de59b24a9b6d4ae25]
+## 6. Documents to accompany alcohol for denaturing removed to Northern Ireland[^c-29cd0d93a0e0294de59b24a9b6d4ae25]
 
 (1) Where alcohol for denaturing is removed to Northern Ireland from Great Britain, it must be accompanied at all times, from when it is dispatched until it is delivered to the entered premises in accordance with regulation 10(1) of the DAR, by two copies of a document which—
 
@@ -117,7 +117,7 @@ Duty charged as a result of section 4(1) of the 2020 Act is not payable on the r
 
 must, while that alcohol remains in that person’s custody or under their control, produce the documentation required by paragraph (1) to an officer on request.
 
-## 7. Amendment of the Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020[^key-37d241686bedc71fd343f6b6600f60df]
+## 7. Amendment of the Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020[^c-37d241686bedc71fd343f6b6600f60df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -141,29 +141,29 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Regulations 4(1)(a) and 6(1)(a)
 
-**8.**[^key-6580b08491a2cf419b8df236316c7c6f] The name and excise number of the consignor.
+**8.**[^c-6580b08491a2cf419b8df236316c7c6f] The name and excise number of the consignor.
 
-**9.**[^key-cfc4e46976cdf2575d3caae7879c3ea8] A unique reference number.
+**9.**[^c-cfc4e46976cdf2575d3caae7879c3ea8] A unique reference number.
 
-**10.**[^key-cea67e33f9acf5285f32531846c468ac] The name and address of the consignee.
+**10.**[^c-cea67e33f9acf5285f32531846c468ac] The name and address of the consignee.
 
-**11.**[^key-07305721bab7cd30f3f2fc3d441fde62] The purpose of the removal.
+**11.**[^c-07305721bab7cd30f3f2fc3d441fde62] The purpose of the removal.
 
-**12.**[^key-a4d0d3318797de8fd8420eb4e73756cb] A description of the liquor or spirits, including its strength in alcohol by volume.
+**12.**[^c-a4d0d3318797de8fd8420eb4e73756cb] A description of the liquor or spirits, including its strength in alcohol by volume.
 
-**13.**[^key-8e077c740364350cec12fc456ac245b8] The number and description of packages, including the marks and numbers of external packages.
+**13.**[^c-8e077c740364350cec12fc456ac245b8] The number and description of packages, including the marks and numbers of external packages.
 
-**14.**[^key-f1297c9148e2733acf2aa14d35b06dc2] The name of the person providing the guarantee for the movement and the reference number of the guarantee.
+**14.**[^c-f1297c9148e2733acf2aa14d35b06dc2] The name of the person providing the guarantee for the movement and the reference number of the guarantee.
 
-**15.**[^key-d70f938fb326a3482dfdea123a173767] The quantity of each item and the total quantity in litres.
+**15.**[^c-d70f938fb326a3482dfdea123a173767] The quantity of each item and the total quantity in litres.
 
-**16.**[^key-5c3b7af23ad2878f5098271637ef533e] The name and address of the transporter.
+**16.**[^c-5c3b7af23ad2878f5098271637ef533e] The name and address of the transporter.
 
-**17.**[^key-f74c9e373c9861728657de36ad408708] The registration numbers of the means of transport.
+**17.**[^c-f74c9e373c9861728657de36ad408708] The registration numbers of the means of transport.
 
-**18.**[^key-4db3215d6c4c409b79c896fe59ebf92f] The identifying numbers and type of any seals used.
+**18.**[^c-4db3215d6c4c409b79c896fe59ebf92f] The identifying numbers and type of any seals used.
 
-**19.**[^key-8a510c178f590b37edb32e686eeb12be] The name, address, and VAT number (if registered) of the owner of the liquor or spirits.
+**19.**[^c-8a510c178f590b37edb32e686eeb12be] The name, address, and VAT number (if registered) of the owner of the liquor or spirits.
 
 EXPLANATORY NOTE
 
@@ -187,52 +187,52 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00004]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-456c85659f0f21db773c07912dfcecdd]: Commencement: Reg. 1 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-456c85659f0f21db773c07912dfcecdd]: Commencement: Reg. 1 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-fdf063ae78f9d0f4b5b119fc190cb05c]: Commencement: Reg. 2 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-fdf063ae78f9d0f4b5b119fc190cb05c]: Commencement: Reg. 2 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2005/1524](https://www.legislation.gov.uk/uksi/2005/1524); there are amending instruments, but none is relevant. [S.I. 2020/1559](https://www.legislation.gov.uk/uksi/2020/1559) saves [S.I. 2005/1524](https://www.legislation.gov.uk/uksi/2005/1524) in respect of Northern Ireland as it had effect immediately before IP completion day (see section 39(1) to (5) of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) for the meaning of “IP completion day”).
 
 [^f00006]: Footnote: “Dutiable alcoholic liquor” is defined in section 1(1) of the Alcoholic Liquor Duties Act 1979.
 
-[^key-97531c472984f24b76e204188dc6fe4d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/1282/regulation/2) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/13/2/a)
+[^c-97531c472984f24b76e204188dc6fe4d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/1282/regulation/2) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/13/2/a)
 
-[^key-1b149eda4a1fa3c4cab0560c5cd5b03b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/1282/regulation/2) inserted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/13/2/b)
+[^c-1b149eda4a1fa3c4cab0560c5cd5b03b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/1282/regulation/2) inserted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/13/2/b)
 
 [^f00008]: Footnote: Section 1(1) of the Customs and Excise Management Act 1979, as amended by the Taxation (Cross-border Trade) Act 2018, Schedule 7, paragraph 4, provides that, contrary to the intention in these Regulations, “**vehicle**” includes a ship, an aircraft, and a railway vehicle.
 
-[^key-f205554584067483b62d0c458e287d1b]: Commencement: Reg. 3 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-f205554584067483b62d0c458e287d1b]: Commencement: Reg. 3 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-c8c1cd84770ff5c1a98fdfb699f06858]: Commencement: Reg. 4 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-c8c1cd84770ff5c1a98fdfb699f06858]: Commencement: Reg. 4 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-ee3603ca7e55adc3871ac109c733b9ed]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2021/1282/regulation/4/1) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 13(3)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/13/3)
+[^c-ee3603ca7e55adc3871ac109c733b9ed]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2021/1282/regulation/4/1) substituted (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [Sch. para. 13(3)](https://www.legislation.gov.uk/uksi/2023/884/schedule/paragraph/13/3)
 
-[^key-d6d29b57b306fc675b8136bc55aec45d]: Commencement: Reg. 5 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-d6d29b57b306fc675b8136bc55aec45d]: Commencement: Reg. 5 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-29cd0d93a0e0294de59b24a9b6d4ae25]: Commencement: Reg. 6 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-29cd0d93a0e0294de59b24a9b6d4ae25]: Commencement: Reg. 6 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-37d241686bedc71fd343f6b6600f60df]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2021/1282/regulation/7) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(h)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/h)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
+[^c-37d241686bedc71fd343f6b6600f60df]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2021/1282/regulation/7) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(h)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/h)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
 
-[^key-6580b08491a2cf419b8df236316c7c6f]: Commencement: Sch. para. 8 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-6580b08491a2cf419b8df236316c7c6f]: Commencement: Sch. para. 8 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-cfc4e46976cdf2575d3caae7879c3ea8]: Commencement: Sch. para. 9 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-cfc4e46976cdf2575d3caae7879c3ea8]: Commencement: Sch. para. 9 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-cea67e33f9acf5285f32531846c468ac]: Commencement: Sch. para. 10 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-cea67e33f9acf5285f32531846c468ac]: Commencement: Sch. para. 10 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-07305721bab7cd30f3f2fc3d441fde62]: Commencement: Sch. para. 11 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-07305721bab7cd30f3f2fc3d441fde62]: Commencement: Sch. para. 11 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-a4d0d3318797de8fd8420eb4e73756cb]: Commencement: Sch. para. 12 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-a4d0d3318797de8fd8420eb4e73756cb]: Commencement: Sch. para. 12 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-8e077c740364350cec12fc456ac245b8]: Commencement: Sch. para. 13 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-8e077c740364350cec12fc456ac245b8]: Commencement: Sch. para. 13 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-f1297c9148e2733acf2aa14d35b06dc2]: Commencement: Sch. para. 14 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-f1297c9148e2733acf2aa14d35b06dc2]: Commencement: Sch. para. 14 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-d70f938fb326a3482dfdea123a173767]: Commencement: Sch. para. 15 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-d70f938fb326a3482dfdea123a173767]: Commencement: Sch. para. 15 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-5c3b7af23ad2878f5098271637ef533e]: Commencement: Sch. para. 16 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-5c3b7af23ad2878f5098271637ef533e]: Commencement: Sch. para. 16 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-f74c9e373c9861728657de36ad408708]: Commencement: Sch. para. 17 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-f74c9e373c9861728657de36ad408708]: Commencement: Sch. para. 17 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-4db3215d6c4c409b79c896fe59ebf92f]: Commencement: Sch. para. 18 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-4db3215d6c4c409b79c896fe59ebf92f]: Commencement: Sch. para. 18 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
 
-[^key-8a510c178f590b37edb32e686eeb12be]: Commencement: Sch. para. 19 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)
+[^c-8a510c178f590b37edb32e686eeb12be]: Commencement: Sch. para. 19 in force at 9.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1282/regulation/1)

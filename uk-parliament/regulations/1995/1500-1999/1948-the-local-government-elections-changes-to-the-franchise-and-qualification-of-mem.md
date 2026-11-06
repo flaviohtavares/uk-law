@@ -40,20 +40,20 @@ Whereas a draft of these Regulations has been approved by resolution of each Hou
 
 Now, therefore, the Secretary of State, being a Minister designated[^f00002] for the purposes of subsection (2) of section 2 of that Act in relation to measures relating to the right of citizens of the Union to vote at and stand as a candidate at local government elections in England and Wales and Scotland and local elections in Northern Ireland, in exercise of the powers conferred on him by that subsection, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-a6f4c418cbe4ae517a2c199a4a24146a]
+## 1. Citation and commencement[^c-a6f4c418cbe4ae517a2c199a4a24146a]
 
 (1) These Regulations may be cited as the Local Government Elections (Changes to the Franchise and Qualification of Members) Regulations 1995.
 
 (2) Regulations 3 and 5(1) of, and Schedule 1 to, these Regulations shall come into force on 1st January 1996 and the remainder of these Regulations shall come into force on the fourteenth day after the day on which they are made.
 
-## 2. Interpretation[^key-3bdaa9c762886a6d128f6b97b1a41e00]
+## 2. Interpretation[^c-3bdaa9c762886a6d128f6b97b1a41e00]
 
 In these Regulations—
 
 - “the Act of 1983” means the Representation of the People Act 1983[^f00003];
 - “the Act of 1989” means the Elected Authorities (Northern Ireland) Act 1989[^f00004].
 
-## 3. Changes to the qualification for election and holding office as a member of a local authority[^key-2964836c9659be8fc31683013f46dfc1]
+## 3. Changes to the qualification for election and holding office as a member of a local authority[^c-2964836c9659be8fc31683013f46dfc1]
 
 (1) In section 79(1) of the Local Government Act 1972[^f00005], after the word “Ireland” there shall be inserted “or a relevant citizen of the Union”, and after subsection (2) of that section there shall be inserted:
 
@@ -75,9 +75,9 @@ In these Regulations—
 
 (4) In section 5(1) of the City of London (Various Powers) Act 1957[^f00010], after the word “Ireland” there shall be inserted “or a relevant citizen of the Union”.
 
-## 4. Changes to the franchise[^key-886eb00e7e37bb5da61ac39c3eda199d]
+## 4. Changes to the franchise[^c-886eb00e7e37bb5da61ac39c3eda199d]
 
-(1)[^key-aea33c2c5e2aa0e2164907b390929691] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-aea33c2c5e2aa0e2164907b390929691] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In—
 
@@ -98,11 +98,11 @@ there shall be inserted at the appropriate place:
 
 (4) In section 6(1) of the said Act of 1957, the word “either” shall be omitted, and after the word “Ireland” there shall be inserted “or, in the case of a ward election for common councilmen, relevant citizens of the Union”.
 
-## 5. Consequential amendments[^key-23368774f589bbc4601f02a08a7e56bc][^key-7e4f0a6f44724fc60d280490a95d79b6]
+## 5. Consequential amendments[^c-23368774f589bbc4601f02a08a7e56bc][^c-7e4f0a6f44724fc60d280490a95d79b6]
 
-(1)[^key-23368774f589bbc4601f02a08a7e56bc] The amendments set out in Schedule 1 to these Regulations, which are consequential upon the changes to the qualification of members made by regulation 3 of these Regulations, shall have effect.
+(1)[^c-23368774f589bbc4601f02a08a7e56bc] The amendments set out in Schedule 1 to these Regulations, which are consequential upon the changes to the qualification of members made by regulation 3 of these Regulations, shall have effect.
 
-(2)[^key-7e4f0a6f44724fc60d280490a95d79b6] The amendments set out in Schedule 2 to these Regulations, which are consequential upon the changes to the franchise made by regulation 4 of these Regulations, shall have effect.
+(2)[^c-7e4f0a6f44724fc60d280490a95d79b6] The amendments set out in Schedule 2 to these Regulations, which are consequential upon the changes to the franchise made by regulation 4 of these Regulations, shall have effect.
 
 Michael Howard
 
@@ -118,17 +118,17 @@ Regulation 5(1)
 
 ### Primary legislation
 
-**1.**[^key-e69f743d8ddee0cd3f74456223ae911b] In section 130(1) (interpretation) of the Electoral Law Act (Northern Ireland) 1962[^f00011], there shall be inserted at the appropriate place:
+**1.**[^c-e69f743d8ddee0cd3f74456223ae911b] In section 130(1) (interpretation) of the Electoral Law Act (Northern Ireland) 1962[^f00011], there shall be inserted at the appropriate place:
 
 > - “citizen of the Union” shall be construed in accordance with Article 8.1 of the Treaty establishing the European Community (as amended by Title II of the Treaty on European Union), and “relevant citizen of the Union” means such a citizen who is not a Commonwealth citizen or a citizen of the Republic of Ireland;
 
 .
 
-**2.**[^key-02f3b8134a82b3f749bf08006d55b79b] In Form 2 (candidate’s consent to nomination) in the Appendix of Forms in Schedule 5 to the said Act of 1962[^f00012], for the words “or a person to whom section 121 of the Electoral Law Act (Northern Ireland) 1962 applies” there shall be substituted “, citizen of the Republic of Ireland or a citizen of another Member State of the European Community”.
+**2.**[^c-02f3b8134a82b3f749bf08006d55b79b] In Form 2 (candidate’s consent to nomination) in the Appendix of Forms in Schedule 5 to the said Act of 1962[^f00012], for the words “or a person to whom section 121 of the Electoral Law Act (Northern Ireland) 1962 applies” there shall be substituted “, citizen of the Republic of Ireland or a citizen of another Member State of the European Community”.
 
 ### Subordinate legislation
 
-**3.**[^key-5901fa6d75aa7ac6d4d69289eb39dc21] At the end of rule 4 (interpretation) of—
+**3.**[^c-5901fa6d75aa7ac6d4d69289eb39dc21] At the end of rule 4 (interpretation) of—
 
 - (a) the Local Elections (Principal Areas) Rules 1986[^f00013],
 - (b) the Local Elections (Parishes and Communities) Rules 1986[^f00014], and
@@ -140,9 +140,9 @@ in each case there shall be inserted:
 
 .
 
-**4.**[^key-3b110331acf2c74dbdfeb92fbd14d6d3] In the form of candidate’s consent to nomination in the Appendix of Forms in Schedule 2 to each of the Rules of 1986 referred to in paragraph 3(a) and (b) of this Schedule, for the words “or citizen of the Republic of Ireland” there shall be substituted “, a citizen of the Republic of Ireland or a citizen of another Member State of the European Community”.
+**4.**[^c-3b110331acf2c74dbdfeb92fbd14d6d3] In the form of candidate’s consent to nomination in the Appendix of Forms in Schedule 2 to each of the Rules of 1986 referred to in paragraph 3(a) and (b) of this Schedule, for the words “or citizen of the Republic of Ireland” there shall be substituted “, a citizen of the Republic of Ireland or a citizen of another Member State of the European Community”.
 
-**5.**[^key-29c3e32219e4ecc6fc902f9c1b260347] In the form of nomination paper in the Appendix of Forms in Schedule 2 to the Rules referred to in paragraph 3(c) of this Schedule, for the words from “British” to “Republic” in both places where they occur there shall be inserted “Commonwealth citizen or citizen of the Republic of Ireland or a citizen of another Member State of the European Community”.
+**5.**[^c-29c3e32219e4ecc6fc902f9c1b260347] In the form of nomination paper in the Appendix of Forms in Schedule 2 to the Rules referred to in paragraph 3(c) of this Schedule, for the words from “British” to “Republic” in both places where they occur there shall be inserted “Commonwealth citizen or citizen of the Republic of Ireland or a citizen of another Member State of the European Community”.
 
 ## SCHEDULE 2 — AMENDMENTS CONSEQUENTIAL UPON CHANGES TO THE FRANCHISE
 
@@ -152,29 +152,29 @@ Regulation 5(2)
 
 #### The Electoral Law Act (Northern Ireland) 1962
 
-**1.**[^key-159987f2b496fc6d6c331316ca06932e] In rule 34(6)(b) of the Local Elections Rules contained in Schedule 5 to the Electoral Law Act (Northern Ireland) 1962, for the words from “the United” to the end there shall be substituted “a Member State of the European Community;”.
+**1.**[^c-159987f2b496fc6d6c331316ca06932e] In rule 34(6)(b) of the Local Elections Rules contained in Schedule 5 to the Electoral Law Act (Northern Ireland) 1962, for the words from “the United” to the end there shall be substituted “a Member State of the European Community;”.
 
 #### The Representation of the People Act 1983
 
-**2.**[^key-767b3f965388be79fe8d8ee8e7ce2d73] The Act of 1983 shall be amended in accordance with paragraphs 3 to 5 below.
+**2.**[^c-767b3f965388be79fe8d8ee8e7ce2d73] The Act of 1983 shall be amended in accordance with paragraphs 3 to 5 below.
 
-**3.**[^key-3364944f6924f5426d9e5ddcb797a2aa] In—
+**3.**[^c-3364944f6924f5426d9e5ddcb797a2aa] In—
 
-- (a)[^key-50d9beb0ba637e219ac577ee1a5fe035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-50d9beb0ba637e219ac577ee1a5fe035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 16(e);
-- (c)[^key-5612860d1f8a8813e89a79a4df816175] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
+- (c)[^c-5612860d1f8a8813e89a79a4df816175] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
 - (d) section 42(3)(c),
 
 after the word “Ireland”, there shall be inserted in each case “or a relevant citizen of the Union”.
 
-**4.**[^key-f25ce3d79601ffb1f2c118e87d659f01] In—
+**4.**[^c-f25ce3d79601ffb1f2c118e87d659f01] In—
 
-- (a)[^key-7c750f7ff7df247ef67621378628baae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7c750f7ff7df247ef67621378628baae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 15(5)(a),
 
 after the words “parliamentary elections”, there shall be inserted in each case “, or by a relevant citizen of the Union”.
 
-**5.**[^key-b42229c2f68c1e00c4dd0f1b05caf522] For section 49(5)[^f00016], there shall be substituted:
+**5.**[^c-b42229c2f68c1e00c4dd0f1b05caf522] For section 49(5)[^f00016], there shall be substituted:
 
 > (5) A person registered as a parliamentary or local government elector, or entered in the list of proxies, shall not be excluded from voting on any of the following grounds: but this shall not prevent the rejection of the vote on a scrutiny, or affect his liability to any penalty for voting.
 >
@@ -190,11 +190,11 @@ after the words “parliamentary elections”, there shall be inserted in each c
 
 .
 
-**6.**[^key-9291f4143da3125c18dfc6bb627a5506] The amendments made by paragraphs 3 to 5 of this Schedule shall also have effect in relation to the provisions amended as those provisions are applied for the purposes of local elections in Northern Ireland by section 2 of, and Schedule 1 to, the Act of 1989.
+**6.**[^c-9291f4143da3125c18dfc6bb627a5506] The amendments made by paragraphs 3 to 5 of this Schedule shall also have effect in relation to the provisions amended as those provisions are applied for the purposes of local elections in Northern Ireland by section 2 of, and Schedule 1 to, the Act of 1989.
 
 #### The Representation of the People Act 1985
 
-**7.**[^key-f2ef960030303244556cd40c0ed7df5d] For section 8(3) of the Representation of the People Act 1985[^f00017], there shall be substituted:
+**7.**[^c-f2ef960030303244556cd40c0ed7df5d] For section 8(3) of the Representation of the People Act 1985[^f00017], there shall be substituted:
 
 > (3) A person is not capable of being appointed to vote, or voting, as proxy at a parliamentary election—
 >
@@ -208,61 +208,61 @@ after the words “parliamentary elections”, there shall be inserted in each c
 
 .
 
-**8.**[^key-9ef528a3a185c75380957a98d892e514] In subsection (4) of the said section 8, for the words “any such” there shall be substituted “a parliamentary or local government”.
+**8.**[^c-9ef528a3a185c75380957a98d892e514] In subsection (4) of the said section 8, for the words “any such” there shall be substituted “a parliamentary or local government”.
 
-**9.**[^key-680ca128cdb3d0f18404cd508d515b17] Section 4(4) of the Representation of the People Act 1985 (which amended section 49(5) of the Act of 1983 and is superseded by paragraph 5 above) is hereby repealed.
+**9.**[^c-680ca128cdb3d0f18404cd508d515b17] Section 4(4) of the Representation of the People Act 1985 (which amended section 49(5) of the Act of 1983 and is superseded by paragraph 5 above) is hereby repealed.
 
 ### Subordinate legislation
 
 #### The Local Elections (Northern Ireland) Order 1985
 
-**10.**[^key-46ae47fd1ef101a9202cc6f26b189cb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-46ae47fd1ef101a9202cc6f26b189cb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-e94c409b7f41d9dfdb24da69f345cd20] In the Form in the Appendix to Schedule 2 to the said Order of 1985, in paragraph 3 of the note entitled “Your right to vote as proxy”, for the words “the Republic of Ireland”, there shall be substituted “a Member State of the European Community.”.
+**11.**[^c-e94c409b7f41d9dfdb24da69f345cd20] In the Form in the Appendix to Schedule 2 to the said Order of 1985, in paragraph 3 of the note entitled “Your right to vote as proxy”, for the words “the Republic of Ireland”, there shall be substituted “a Member State of the European Community.”.
 
 #### The Representation of the People Regulations 1986
 
-**12.**[^key-a158206bcc3d9a148538ef34f089af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-a158206bcc3d9a148538ef34f089af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-a158206bcc3d9a148538ef34f089af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-a158206bcc3d9a148538ef34f089af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-a158206bcc3d9a148538ef34f089af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-a158206bcc3d9a148538ef34f089af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-a158206bcc3d9a148538ef34f089af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-a158206bcc3d9a148538ef34f089af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-a158206bcc3d9a148538ef34f089af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-a158206bcc3d9a148538ef34f089af08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Representation of the People (Scotland) Regulations 1986
 
-**17.**[^key-059b72193a48668d496ef15a35c5b6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-059b72193a48668d496ef15a35c5b6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-059b72193a48668d496ef15a35c5b6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-059b72193a48668d496ef15a35c5b6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-059b72193a48668d496ef15a35c5b6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-059b72193a48668d496ef15a35c5b6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-059b72193a48668d496ef15a35c5b6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-059b72193a48668d496ef15a35c5b6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-059b72193a48668d496ef15a35c5b6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-059b72193a48668d496ef15a35c5b6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-059b72193a48668d496ef15a35c5b6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-059b72193a48668d496ef15a35c5b6d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Representation of the People (Northern Ireland) Regulations 1986
 
-**23.**[^key-4290adb6e6d45a527fda6997e01857a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-4290adb6e6d45a527fda6997e01857a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-4290adb6e6d45a527fda6997e01857a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-4290adb6e6d45a527fda6997e01857a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-4290adb6e6d45a527fda6997e01857a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-4290adb6e6d45a527fda6997e01857a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-4290adb6e6d45a527fda6997e01857a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-4290adb6e6d45a527fda6997e01857a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The European Parliamentary Elections Regulations 1986
 
-**27.**[^key-907a38441cdf21922ced08fdc7c88b3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-907a38441cdf21922ced08fdc7c88b3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The European Parliamentary Elections (Northern Ireland) Regulations 1986
 
-**28.**[^key-326f0a842af46ec778acd1c75638c8b0] The European Parliamentary Elections (Northern Ireland) Regulations 1986[^f00031] shall be amended as follows:
+**28.**[^c-326f0a842af46ec778acd1c75638c8b0] The European Parliamentary Elections (Northern Ireland) Regulations 1986[^f00031] shall be amended as follows:
 
 - (a) after sub-paragraph (i) of regulation 5(1)[^f00032] there shall be inserted:
 
@@ -282,7 +282,7 @@ after the words “parliamentary elections”, there shall be inserted in each c
 
 #### The Local Government (Transitional Election Arrangements) (Scotland) Order 1994
 
-**29.**[^key-108756bfe9c4bcdacb493b68427ae088] After article 2 of the Local Government (Transitional Election Arrangements) (Scotland) Order 1994[^f00034] there shall be inserted the following article—
+**29.**[^c-108756bfe9c4bcdacb493b68427ae088] After article 2 of the Local Government (Transitional Election Arrangements) (Scotland) Order 1994[^f00034] there shall be inserted the following article—
 
 > **2A.** Any reference in this Order to the 1973 Act, the 1983 Act, the 1986 Regulations or the 1986 Rules is a reference to that Act or, as the case may be, those Regulations or Rules as amended by the Local Government Elections (Changes to the Franchise and Qualification of Members) Regulations 1995.
 
@@ -304,15 +304,15 @@ Regulation 5 and the Schedules to the Regulations make consequential amendments 
 
 [^f00002]: Footnote: By the European Communities (Designation) (No. 3) Order 1993 (S.I. [1993/2661](https://www.legislation.gov.uk/uksi/1993/2661)).
 
-[^key-a6f4c418cbe4ae517a2c199a4a24146a]: Commencement: Reg. 1 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-a6f4c418cbe4ae517a2c199a4a24146a]: Commencement: Reg. 1 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
-[^key-3bdaa9c762886a6d128f6b97b1a41e00]: Commencement: Reg. 2 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-3bdaa9c762886a6d128f6b97b1a41e00]: Commencement: Reg. 2 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
 [^f00003]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 
 [^f00004]: Footnote: [1989 c. 3](https://www.legislation.gov.uk/ukpga/1989/3).
 
-[^key-2964836c9659be8fc31683013f46dfc1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/1948/regulation/3) in force at 1.1.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-2964836c9659be8fc31683013f46dfc1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/1948/regulation/3) in force at 1.1.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
 [^f00005]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -326,23 +326,23 @@ Regulation 5 and the Schedules to the Regulations make consequential amendments 
 
 [^f00010]: Footnote: [1957 c.x](https://www.legislation.gov.uk/ukla/1957/10); section 5(1) was amended by the [City of London (Various Powers) Act 1967 (c.xlii)](https://www.legislation.gov.uk/ukla/1967/42), section 28.
 
-[^key-886eb00e7e37bb5da61ac39c3eda199d]: Commencement: Reg. 4 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-886eb00e7e37bb5da61ac39c3eda199d]: Commencement: Reg. 4 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
-[^key-aea33c2c5e2aa0e2164907b390929691]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/4/1) revoked (16.2.2001) by [Representation of the People Act 2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2), [s. 17(3)](https://www.legislation.gov.uk/ukpga/2000/2/section/17/3), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/2000/2/schedule/7/part/I); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (subject to [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2001/116/article/2/3))
+[^c-aea33c2c5e2aa0e2164907b390929691]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/4/1) revoked (16.2.2001) by [Representation of the People Act 2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2), [s. 17(3)](https://www.legislation.gov.uk/ukpga/2000/2/section/17/3), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/2000/2/schedule/7/part/I); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (subject to [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2001/116/article/2/3))
 
-[^key-23368774f589bbc4601f02a08a7e56bc]: Commencement: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/5/1) in force at 1.1.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-23368774f589bbc4601f02a08a7e56bc]: Commencement: [Reg. 5(1)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/5/1) in force at 1.1.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
-[^key-7e4f0a6f44724fc60d280490a95d79b6]: Commencement: Reg. 5(2) in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-7e4f0a6f44724fc60d280490a95d79b6]: Commencement: Reg. 5(2) in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
-[^key-e69f743d8ddee0cd3f74456223ae911b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1995/1948/schedule/1/paragraph/1) in force at 1.1.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-e69f743d8ddee0cd3f74456223ae911b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1995/1948/schedule/1/paragraph/1) in force at 1.1.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
 [^f00011]: Footnote: [1962 c. 14 (N.I.)](https://www.legislation.gov.uk/apni/1962/14).
 
-[^key-02f3b8134a82b3f749bf08006d55b79b]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1995/1948/schedule/1/paragraph/2) in force at 1.1.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-02f3b8134a82b3f749bf08006d55b79b]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1995/1948/schedule/1/paragraph/2) in force at 1.1.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
 [^f00012]: Footnote: Schedule 5 was substituted by the Local Elections (Northern Ireland) Order 1985 (S.I. [1985/454](https://www.legislation.gov.uk/uksi/1985/454)).
 
-[^key-5901fa6d75aa7ac6d4d69289eb39dc21]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1995/1948/schedule/1/paragraph/3) in force at 1.1.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-5901fa6d75aa7ac6d4d69289eb39dc21]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1995/1948/schedule/1/paragraph/3) in force at 1.1.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
 [^f00013]: Footnote: S.I. [1986/2214](https://www.legislation.gov.uk/uksi/1986/2214); rule 4 was substituted by S.I. [1990/158](https://www.legislation.gov.uk/uksi/1990/158). There have been other amendments which are not relevant to these Regulations.
 
@@ -350,51 +350,51 @@ Regulation 5 and the Schedules to the Regulations make consequential amendments 
 
 [^f00015]: Footnote: S.I. [1986/2213](https://www.legislation.gov.uk/uksi/1986/2213), amended by S.I. [1990/262](https://www.legislation.gov.uk/uksi/1990/262).
 
-[^key-3b110331acf2c74dbdfeb92fbd14d6d3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1995/1948/schedule/1/paragraph/4) in force at 1.1.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-3b110331acf2c74dbdfeb92fbd14d6d3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1995/1948/schedule/1/paragraph/4) in force at 1.1.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
-[^key-29c3e32219e4ecc6fc902f9c1b260347]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1995/1948/schedule/1/paragraph/5) in force at 1.1.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-29c3e32219e4ecc6fc902f9c1b260347]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1995/1948/schedule/1/paragraph/5) in force at 1.1.1996, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
-[^key-159987f2b496fc6d6c331316ca06932e]: Commencement: Sch. 2 para. 1 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-159987f2b496fc6d6c331316ca06932e]: Commencement: Sch. 2 para. 1 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
-[^key-767b3f965388be79fe8d8ee8e7ce2d73]: Commencement: Sch. 2 para. 2 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-767b3f965388be79fe8d8ee8e7ce2d73]: Commencement: Sch. 2 para. 2 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
-[^key-3364944f6924f5426d9e5ddcb797a2aa]: Commencement: Sch. 2 para. 3 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-3364944f6924f5426d9e5ddcb797a2aa]: Commencement: Sch. 2 para. 3 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
-[^key-50d9beb0ba637e219ac577ee1a5fe035]: Textual amendment: [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/3/a) revoked (16.2.2001) by [Representation of the People Act 2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2), [s. 17(3)](https://www.legislation.gov.uk/ukpga/2000/2/section/17/3), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/2000/2/schedule/7/part/I); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (subject to [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2001/116/article/2/3))
+[^c-50d9beb0ba637e219ac577ee1a5fe035]: Textual amendment: [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/3/a) revoked (16.2.2001) by [Representation of the People Act 2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2), [s. 17(3)](https://www.legislation.gov.uk/ukpga/2000/2/section/17/3), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/2000/2/schedule/7/part/I); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (subject to [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2001/116/article/2/3))
 
-[^key-5612860d1f8a8813e89a79a4df816175]: Textual amendment: [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/3/c) revoked (16.2.2001) by [Representation of the People Act 2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2), [s. 17(3)](https://www.legislation.gov.uk/ukpga/2000/2/section/17/3), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/2000/2/schedule/7/part/I); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (subject to [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2001/116/article/2/3))
+[^c-5612860d1f8a8813e89a79a4df816175]: Textual amendment: [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/3/c) revoked (16.2.2001) by [Representation of the People Act 2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2), [s. 17(3)](https://www.legislation.gov.uk/ukpga/2000/2/section/17/3), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/2000/2/schedule/7/part/I); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (subject to [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2001/116/article/2/3))
 
-[^key-f25ce3d79601ffb1f2c118e87d659f01]: Commencement: Sch. 2 para. 4 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-f25ce3d79601ffb1f2c118e87d659f01]: Commencement: Sch. 2 para. 4 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
-[^key-7c750f7ff7df247ef67621378628baae]: Textual amendment: [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/4/a) revoked (16.2.2001) by [Representation of the People Act 2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2), [s. 17(3)](https://www.legislation.gov.uk/ukpga/2000/2/section/17/3), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/2000/2/schedule/7/part/I); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (subject to [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2001/116/article/2/3))
+[^c-7c750f7ff7df247ef67621378628baae]: Textual amendment: [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/4/a) revoked (16.2.2001) by [Representation of the People Act 2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2), [s. 17(3)](https://www.legislation.gov.uk/ukpga/2000/2/section/17/3), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/2000/2/schedule/7/part/I); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (subject to [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2001/116/article/2/3))
 
-[^key-b42229c2f68c1e00c4dd0f1b05caf522]: Commencement: Sch. 2 para. 5 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-b42229c2f68c1e00c4dd0f1b05caf522]: Commencement: Sch. 2 para. 5 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
 [^f00016]: Footnote: Section 49(5) was amended by section 4(4) of the Representation of the People Act 1985.
 
-[^key-9291f4143da3125c18dfc6bb627a5506]: Commencement: Sch. 2 para. 6 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-9291f4143da3125c18dfc6bb627a5506]: Commencement: Sch. 2 para. 6 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
-[^key-f2ef960030303244556cd40c0ed7df5d]: Commencement: Sch. 2 para. 7 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-f2ef960030303244556cd40c0ed7df5d]: Commencement: Sch. 2 para. 7 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
 [^f00017]: Footnote: [1985 c. 50](https://www.legislation.gov.uk/ukpga/1985/50).
 
-[^key-9ef528a3a185c75380957a98d892e514]: Commencement: Sch. 2 para. 8 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-9ef528a3a185c75380957a98d892e514]: Commencement: Sch. 2 para. 8 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
-[^key-680ca128cdb3d0f18404cd508d515b17]: Commencement: Sch. 2 para. 9 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-680ca128cdb3d0f18404cd508d515b17]: Commencement: Sch. 2 para. 9 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
-[^key-46ae47fd1ef101a9202cc6f26b189cb5]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/10) revoked (12.12.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 34(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/34/a); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(iv)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
+[^c-46ae47fd1ef101a9202cc6f26b189cb5]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/10) revoked (12.12.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 34(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/34/a); [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(e)(iv)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/e/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
 
-[^key-e94c409b7f41d9dfdb24da69f345cd20]: Commencement: Sch. 2 para. 11 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-e94c409b7f41d9dfdb24da69f345cd20]: Commencement: Sch. 2 para. 11 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
-[^key-a158206bcc3d9a148538ef34f089af08]: Textual amendment: [Sch. 2 paras. 12-16](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/12) revoked (16.2.2001) by [The Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341)](https://www.legislation.gov.uk/uksi/2001/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/341/schedule/2)
+[^c-a158206bcc3d9a148538ef34f089af08]: Textual amendment: [Sch. 2 paras. 12-16](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/12) revoked (16.2.2001) by [The Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341)](https://www.legislation.gov.uk/uksi/2001/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/341/schedule/2)
 
-[^key-059b72193a48668d496ef15a35c5b6d8]: Textual amendment: [Sch. 2 paras. 17-22](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/17) revoked (16.2.2001) by [Representation of the People (Scotland) Regulations 2001 (S.I. 2001/497)](https://www.legislation.gov.uk/uksi/2001/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2001/497/regulation/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/497/schedule/2)
+[^c-059b72193a48668d496ef15a35c5b6d8]: Textual amendment: [Sch. 2 paras. 17-22](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/17) revoked (16.2.2001) by [Representation of the People (Scotland) Regulations 2001 (S.I. 2001/497)](https://www.legislation.gov.uk/uksi/2001/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2001/497/regulation/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/497/schedule/2)
 
-[^key-4290adb6e6d45a527fda6997e01857a7]: Textual amendment: [Sch. 2 paras. 23-26](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/23) revoked (16.2.2001) by [The Representation of the People (Northern Ireland) Regulations 2001 (S.I. 2001/400)](https://www.legislation.gov.uk/uksi/2001/400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/400/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2001/400/regulation/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/400/schedule/2)
+[^c-4290adb6e6d45a527fda6997e01857a7]: Textual amendment: [Sch. 2 paras. 23-26](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/23) revoked (16.2.2001) by [The Representation of the People (Northern Ireland) Regulations 2001 (S.I. 2001/400)](https://www.legislation.gov.uk/uksi/2001/400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/400/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2001/400/regulation/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/400/schedule/2)
 
-[^key-907a38441cdf21922ced08fdc7c88b3d]: Textual amendment: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/27) revoked (28.4.1999) by [The European Parliamentary Elections Regulations 1999 (S.I. 1999/1214)](https://www.legislation.gov.uk/uksi/1999/1214), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/1214/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/1999/1214/schedule/5)
+[^c-907a38441cdf21922ced08fdc7c88b3d]: Textual amendment: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/1995/1948/schedule/2/paragraph/27) revoked (28.4.1999) by [The European Parliamentary Elections Regulations 1999 (S.I. 1999/1214)](https://www.legislation.gov.uk/uksi/1999/1214), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/1214/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/1999/1214/schedule/5)
 
-[^key-326f0a842af46ec778acd1c75638c8b0]: Commencement: Sch. 2 para. 28 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-326f0a842af46ec778acd1c75638c8b0]: Commencement: Sch. 2 para. 28 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
 [^f00031]: Footnote: S.I. [1986/2250](https://www.legislation.gov.uk/uksi/1986/2250); relevant amendments were made by S.I. [1992/833](https://www.legislation.gov.uk/uksi/1992/833), S.I. [1994/342](https://www.legislation.gov.uk/uksi/1994/342) and S.I. [1994/782](https://www.legislation.gov.uk/uksi/1994/782); the citation of this instrument has been amended by section 3(1)(b) and (2)(b) of the European Communities (Amendment) Act 1986 on the coming into force of the Single European Act on 1st July 1987.
 
@@ -402,6 +402,6 @@ Regulation 5 and the Schedules to the Regulations make consequential amendments 
 
 [^f00033]: Footnote: Section 49(5) was substituted by paragraph 5 of Schedule 2 to these Regulations.
 
-[^key-108756bfe9c4bcdacb493b68427ae088]: Commencement: Sch. 2 para. 29 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
+[^c-108756bfe9c4bcdacb493b68427ae088]: Commencement: Sch. 2 para. 29 in force at 6.8.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1948/regulation/1/2)
 
 [^f00034]: Footnote: S.I. [1994/3255](https://www.legislation.gov.uk/uksi/1994/3255).

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Specimens, &c.[^key-b74c671fc4b1828f0a99d2bdd15dec04][^key-0a42071643b801c07fa22987c4048e33]
+## 83. Specimens, &c.[^c-b74c671fc4b1828f0a99d2bdd15dec04][^c-0a42071643b801c07fa22987c4048e33]
 
 *Extent: E+W+S+N.I.*
 
 (1) The provisions specified in the first column of the table below, with the modifications specified in the third column and any other necessary modifications, shall have effect in relation to an offence under this Part.
 
-(1A)[^key-aa3025d9e5bc4834814374ca16f55866] The references in the table to provisions of the Road Traffic Act 1988 or the Road Traffic Offenders Act 1988 are, subject to any contrary intention expressed in this Part or in any other enactment, references to those provisions as amended from time to time.
+(1A)[^c-aa3025d9e5bc4834814374ca16f55866] The references in the table to provisions of the Road Traffic Act 1988 or the Road Traffic Offenders Act 1988 are, subject to any contrary intention expressed in this Part or in any other enactment, references to those provisions as amended from time to time.
 
 <table>
 <tbody>
@@ -42,7 +42,7 @@ summary: ''
 </tbody>
 </table>
 
-[^key-fa08d02d010d9a4b457a61f0db114b09][^key-ece8405f9234b9b5c187826fb14db90f][^key-649d78f244c59669f01b0e11057f4762][^key-659c7e2e09397403479f69e5f43110ff][^key-9c5ce3d8d69a24c9f174cbe8b510faaa][^key-9dd9d9bfd70294d69fa9468163969124][^key-4084dc80a09dca7719178184c03b72ec][^key-abc93c568487bc700f90833d5df5b2ff][^key-8f7c06b0c584513c94e7ebd780f99951]
+[^c-fa08d02d010d9a4b457a61f0db114b09][^c-ece8405f9234b9b5c187826fb14db90f][^c-649d78f244c59669f01b0e11057f4762][^c-659c7e2e09397403479f69e5f43110ff][^c-9c5ce3d8d69a24c9f174cbe8b510faaa][^c-9dd9d9bfd70294d69fa9468163969124][^c-4084dc80a09dca7719178184c03b72ec][^c-abc93c568487bc700f90833d5df5b2ff][^c-8f7c06b0c584513c94e7ebd780f99951]
 
 (2) The Secretary of State may by regulations amend the table in subsection (1) so as—
 
@@ -56,26 +56,26 @@ summary: ''
 
 ## Annotations
 
-[^key-b74c671fc4b1828f0a99d2bdd15dec04]: Commencement: S. 83 in force at 29.3.2004 for specified purposes by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/827/article/2/a)
+[^c-b74c671fc4b1828f0a99d2bdd15dec04]: Commencement: S. 83 in force at 29.3.2004 for specified purposes by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/827/article/2/a)
 
-[^key-0a42071643b801c07fa22987c4048e33]: Commencement: S. 83 in force at 30.3.2004 in so far as not already in force by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(f)](https://www.legislation.gov.uk/uksi/2004/827/article/3/f)
+[^c-0a42071643b801c07fa22987c4048e33]: Commencement: S. 83 in force at 30.3.2004 in so far as not already in force by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(f)](https://www.legislation.gov.uk/uksi/2004/827/article/3/f)
 
-[^key-aa3025d9e5bc4834814374ca16f55866]: Textual amendment: S. 83(1A) inserted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/2); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-aa3025d9e5bc4834814374ca16f55866]: Textual amendment: S. 83(1A) inserted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/2); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-fa08d02d010d9a4b457a61f0db114b09]: Textual amendment: Words in s. 83 inserted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/4); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-fa08d02d010d9a4b457a61f0db114b09]: Textual amendment: Words in s. 83 inserted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/4); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-ece8405f9234b9b5c187826fb14db90f]: Textual amendment: Words in s. 83 inserted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(5)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/5/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-ece8405f9234b9b5c187826fb14db90f]: Textual amendment: Words in s. 83 inserted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(5)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/5/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-649d78f244c59669f01b0e11057f4762]: Textual amendment: Words in s. 83 substituted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(5)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/5/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-649d78f244c59669f01b0e11057f4762]: Textual amendment: Words in s. 83 substituted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(5)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/5/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-659c7e2e09397403479f69e5f43110ff]: Textual amendment: Words in s. 83 substituted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(6)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/6); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-659c7e2e09397403479f69e5f43110ff]: Textual amendment: Words in s. 83 substituted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(6)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/6); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-9c5ce3d8d69a24c9f174cbe8b510faaa]: Textual amendment: Words in s. 83 substituted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(7)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/7/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-9c5ce3d8d69a24c9f174cbe8b510faaa]: Textual amendment: Words in s. 83 substituted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(7)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/7/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-9dd9d9bfd70294d69fa9468163969124]: Textual amendment: Words in s. 83 inserted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(7)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/7/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-9dd9d9bfd70294d69fa9468163969124]: Textual amendment: Words in s. 83 inserted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(7)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/7/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-4084dc80a09dca7719178184c03b72ec]: Textual amendment: Words in s. 83 substituted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(8)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/8/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-4084dc80a09dca7719178184c03b72ec]: Textual amendment: Words in s. 83 substituted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(8)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/8/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-abc93c568487bc700f90833d5df5b2ff]: Textual amendment: Words in s. 83 inserted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(8)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/8/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-abc93c568487bc700f90833d5df5b2ff]: Textual amendment: Words in s. 83 inserted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(8)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/8/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
 
-[^key-8f7c06b0c584513c94e7ebd780f99951]: Textual amendment: Words in s. 83 inserted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(8)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/8/c); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-8f7c06b0c584513c94e7ebd780f99951]: Textual amendment: Words in s. 83 inserted (10.4.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 14(8)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/14/8/c); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)

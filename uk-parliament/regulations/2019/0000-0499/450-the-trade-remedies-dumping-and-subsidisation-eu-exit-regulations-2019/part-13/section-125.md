@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125.[^key-b96096cfd3145ac898f435218d4a89b7]
+## 125.[^c-b96096cfd3145ac898f435218d4a89b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 79 (Secretary of State's power to accept undertakings) has effect as 
 
 ## Annotations
 
-[^key-b96096cfd3145ac898f435218d4a89b7]: Commencement: Reg. 125 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-b96096cfd3145ac898f435218d4a89b7]: Commencement: Reg. 125 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Electronic submission of copies of deeds and writs to Registers of Scotland[^key-e360b750465c22c9078512b356f7febf]
+## 33. Electronic submission of copies of deeds and writs to Registers of Scotland[^c-e360b750465c22c9078512b356f7febf]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e360b750465c22c9078512b356f7febf]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2022/8/section/33) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-e360b750465c22c9078512b356f7febf]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2022/8/section/33) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

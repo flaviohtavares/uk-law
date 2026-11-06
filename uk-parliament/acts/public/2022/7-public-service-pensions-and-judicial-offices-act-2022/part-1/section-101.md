@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Power of Treasury to make scheme for compensation[^key-26080fb3d7d281fa0b089c9bca5aa612][^key-7e90f87f35d736fab12a7cb68ace959a]
+## 101. Power of Treasury to make scheme for compensation[^c-26080fb3d7d281fa0b089c9bca5aa612][^c-7e90f87f35d736fab12a7cb68ace959a]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-26080fb3d7d281fa0b089c9bca5aa612]: Commencement: S. 101 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-26080fb3d7d281fa0b089c9bca5aa612]: Commencement: S. 101 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-7e90f87f35d736fab12a7cb68ace959a]: Commencement: S. 101 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-7e90f87f35d736fab12a7cb68ace959a]: Commencement: S. 101 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

@@ -24,20 +24,20 @@ summary: ''
 
 Regulations E3 (2) and (5) and E8(1)
 
-**1.**[^key-776c5993e6eabb40cc69e27945d36dab] A period of pensionable employment.
+**1.**[^c-776c5993e6eabb40cc69e27945d36dab] A period of pensionable employment.
 
-**2.**[^key-1ec974741a6445748d344dc3aeb0ee28] A period counting as reckonable service by virtue of regulation D3 (which applies where additional contributions have been paid for a past period) or regulation D4 (which applies where additional contributions have been paid for a current period).
+**2.**[^c-1ec974741a6445748d344dc3aeb0ee28] A period counting as reckonable service by virtue of regulation D3 (which applies where additional contributions have been paid for a past period) or regulation D4 (which applies where additional contributions have been paid for a current period).
 
-**3.**[^key-0268fd41c04a44bbfc18d994a499b956] A period of service or employment in respect of which a transfer value has been accepted by the Department.
+**3.**[^c-0268fd41c04a44bbfc18d994a499b956] A period of service or employment in respect of which a transfer value has been accepted by the Department.
 
-**4.**[^key-144e28c7888b1d3d0289fde6d654d1ad] A period of employment in comparable service.
+**4.**[^c-144e28c7888b1d3d0289fde6d654d1ad] A period of employment in comparable service.
 
 ## Annotations
 
-[^key-776c5993e6eabb40cc69e27945d36dab]: Commencement: Sch. 8 para. 1 in operation at 2.11.1998, see reg. A1
+[^c-776c5993e6eabb40cc69e27945d36dab]: Commencement: Sch. 8 para. 1 in operation at 2.11.1998, see reg. A1
 
-[^key-1ec974741a6445748d344dc3aeb0ee28]: Commencement: Sch. 8 para. 2 in operation at 2.11.1998, see reg. A1
+[^c-1ec974741a6445748d344dc3aeb0ee28]: Commencement: Sch. 8 para. 2 in operation at 2.11.1998, see reg. A1
 
-[^key-0268fd41c04a44bbfc18d994a499b956]: Commencement: Sch. 8 para. 3 in operation at 2.11.1998, see reg. A1
+[^c-0268fd41c04a44bbfc18d994a499b956]: Commencement: Sch. 8 para. 3 in operation at 2.11.1998, see reg. A1
 
-[^key-144e28c7888b1d3d0289fde6d654d1ad]: Commencement: Sch. 8 para. 4 in operation at 2.11.1998, see reg. A1
+[^c-144e28c7888b1d3d0289fde6d654d1ad]: Commencement: Sch. 8 para. 4 in operation at 2.11.1998, see reg. A1

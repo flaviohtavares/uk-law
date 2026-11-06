@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Application to remove building from register[^key-d0edb4142b0dbc8987b8d73c364b1b42]
+## 25. Application to remove building from register[^c-d0edb4142b0dbc8987b8d73c364b1b42]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0edb4142b0dbc8987b8d73c364b1b42]: Commencement: S. 25 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-d0edb4142b0dbc8987b8d73c364b1b42]: Commencement: S. 25 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

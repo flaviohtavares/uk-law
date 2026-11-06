@@ -35,7 +35,7 @@ An Act to make provision about the regulation of certain rifle ranges and shooti
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Miniature rifle ranges and shooting galleries[^key-dba62108a6e8953de733cb35bcc23f10][^key-25ef26bb30890bbeb3c6cf58d9ea1d90]
+## 1. Miniature rifle ranges and shooting galleries[^c-dba62108a6e8953de733cb35bcc23f10][^c-25ef26bb30890bbeb3c6cf58d9ea1d90]
 
 (1) The Firearms Act 1968 is amended as follows.
 
@@ -58,7 +58,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) In section 23(2)(b) (use of weapons or ammunition at shooting gallery), for “miniature rifles not exceeding .23 inch calibre” substitute “rifles chambered for .22 rim-fire cartridges”.
 
-## 2. Possessing component parts of ammunition with intent to manufacture[^key-243d08409476e01fdf1436dacbfa278e][^key-2a9a11badef62946ee0ad3c863fbd8a6]
+## 2. Possessing component parts of ammunition with intent to manufacture[^c-243d08409476e01fdf1436dacbfa278e][^c-2a9a11badef62946ee0ad3c863fbd8a6]
 
 In the Firearms Act 1968, after section 3 insert—
 
@@ -85,7 +85,7 @@ In the Firearms Act 1968, after section 3 insert—
 > - (b) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine (or both);
 > - (c) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both).
 
-## 3. Extent, commencement and short title[^key-2b4ee27eccc20d59ccd5e22595b83e86]
+## 3. Extent, commencement and short title[^c-2b4ee27eccc20d59ccd5e22595b83e86]
 
 (1) An amendment made by this Act has the same extent as the provision amended.
 
@@ -104,12 +104,12 @@ In the Firearms Act 1968, after section 3 insert—
 
 ## Annotations
 
-[^key-dba62108a6e8953de733cb35bcc23f10]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/49/section/3/3)
+[^c-dba62108a6e8953de733cb35bcc23f10]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/49/section/3/3)
 
-[^key-25ef26bb30890bbeb3c6cf58d9ea1d90]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/49/section/1) in force at 1.5.2025 by [S.I. 2025/535](https://www.legislation.gov.uk/uksi/2025/535), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/535/regulation/2/a)
+[^c-25ef26bb30890bbeb3c6cf58d9ea1d90]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/49/section/1) in force at 1.5.2025 by [S.I. 2025/535](https://www.legislation.gov.uk/uksi/2025/535), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/535/regulation/2/a)
 
-[^key-243d08409476e01fdf1436dacbfa278e]: Commencement: S. 2 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/49/section/3/3)
+[^c-243d08409476e01fdf1436dacbfa278e]: Commencement: S. 2 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/49/section/3/3)
 
-[^key-2a9a11badef62946ee0ad3c863fbd8a6]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/49/section/2) in force at 1.5.2025 by [S.I. 2025/535](https://www.legislation.gov.uk/uksi/2025/535), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/535/regulation/2/b)
+[^c-2a9a11badef62946ee0ad3c863fbd8a6]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/49/section/2) in force at 1.5.2025 by [S.I. 2025/535](https://www.legislation.gov.uk/uksi/2025/535), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/535/regulation/2/b)
 
-[^key-2b4ee27eccc20d59ccd5e22595b83e86]: Commencement: S. 3 in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/49/section/3/5)
+[^c-2b4ee27eccc20d59ccd5e22595b83e86]: Commencement: S. 3 in force at Royal Assent, see [s. 3(5)](https://www.legislation.gov.uk/ukpga/2023/49/section/3/5)

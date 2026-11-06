@@ -171,7 +171,7 @@ as it may, with the approval of the Scottish Ministers, determine.
 
 ### 16. Committees
 
-(1)[^key-bcc5d6d83d28964fc18b27b64266d7f1] A National Park authority may appoint persons who are not members of the authority to be members of any committee established by it, but a majority of the members of any committee must be members of the authority.
+(1)[^c-bcc5d6d83d28964fc18b27b64266d7f1] A National Park authority may appoint persons who are not members of the authority to be members of any committee established by it, but a majority of the members of any committee must be members of the authority.
 
 (2) The authority must pay to a committee member so appointed such remuneration and allowances (if any) as the Scottish Ministers may determine.
 
@@ -185,7 +185,7 @@ as it may, with the approval of the Scottish Ministers, determine.
 
 (2) Nothing in sub-paragraph (1) prevents the authority from doing anything that a committee, member or employee has been authorised or required to do.
 
-### 18. Members’ interests[^key-5ea5e7f0d8a5c1bc135b98677c7f0a8c]
+### 18. Members’ interests[^c-5ea5e7f0d8a5c1bc135b98677c7f0a8c]
 
 (1) A member who is in any way directly or indirectly interested in any matter which is brought up for consideration at a meeting of a National Park authority must disclose the nature of the interest to the meeting; and, where such a disclosure is made—
 
@@ -220,6 +220,6 @@ is to be regarded as a sufficient disclosure of the member’s interest in relat
 
 ## Annotations
 
-[^key-bcc5d6d83d28964fc18b27b64266d7f1]: Modification: [Sch. 1 para. 16(1)](https://www.legislation.gov.uk/asp/2000/10/schedule/1/paragraph/16/1) excluded (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(18)](https://www.legislation.gov.uk/ssi/2003/1/article/7/18)
+[^c-bcc5d6d83d28964fc18b27b64266d7f1]: Modification: [Sch. 1 para. 16(1)](https://www.legislation.gov.uk/asp/2000/10/schedule/1/paragraph/16/1) excluded (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(18)](https://www.legislation.gov.uk/ssi/2003/1/article/7/18)
 
-[^key-5ea5e7f0d8a5c1bc135b98677c7f0a8c]: Modification: [Sch. 1 para. 18](https://www.legislation.gov.uk/asp/2000/10/schedule/1/paragraph/18) restricted (2.11.2004) by [Ethical Standards in Public Life etc. (Scotland) Act 2000 (Modification of National Parks (Scotland) Act 2000) Order 2004 (S.S.I. 2004/473)](https://www.legislation.gov.uk/ssi/2004/473), [arts. 1](https://www.legislation.gov.uk/ssi/2004/473/article/1), [2](https://www.legislation.gov.uk/ssi/2004/473/article/2)
+[^c-5ea5e7f0d8a5c1bc135b98677c7f0a8c]: Modification: [Sch. 1 para. 18](https://www.legislation.gov.uk/asp/2000/10/schedule/1/paragraph/18) restricted (2.11.2004) by [Ethical Standards in Public Life etc. (Scotland) Act 2000 (Modification of National Parks (Scotland) Act 2000) Order 2004 (S.S.I. 2004/473)](https://www.legislation.gov.uk/ssi/2004/473), [arts. 1](https://www.legislation.gov.uk/ssi/2004/473/article/1), [2](https://www.legislation.gov.uk/ssi/2004/473/article/2)

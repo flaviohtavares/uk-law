@@ -22,18 +22,18 @@ summary: ''
 
 Article 22
 
-### 1. Compensation enactments[^key-dfd7994bf0ca5b5605f392f9f6cf1bf3]
+### 1. Compensation enactments[^c-dfd7994bf0ca5b5605f392f9f6cf1bf3]
 
 The enactments for the time being in force with respect to compensation for the compulsory purchase of land are to apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-06d386ccada19957feb6df87f0ddf0ff] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973 [^c23895981] has effect subject to the modifications set out in sub-paragraph (2).
+**2.**[^c-06d386ccada19957feb6df87f0ddf0ff] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973 [^c23895981] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 of the 1965 Act as substituted by paragraph 5—
 
 - (a) for “land is acquired or taken from” substitute “ a right or restrictive covenant over land is purchased from or imposed on ”; and
 - (b) for “acquired or taken from him” substitute “ over which the right is exercisable or the restrictive covenant enforceable ”.
 
-**3.**[^key-059eb4fab50eed80862e71a849669c46] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
+**3.**[^c-059eb4fab50eed80862e71a849669c46] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
 
 (2) In section 5A(5A) (relevant valuation date), omit the words after “if–” and substitute—
 
@@ -43,14 +43,14 @@ The enactments for the time being in force with respect to compensation for the 
 >
 > the authority is deemed for the purposes of subsection (3)(a) to have entered on that land where it entered on that land for the purpose of exercising that right.
 
-### 4. Application of Part 1 of the 1965 Act[^key-cd3cf325421d6bd1cce972af0058f2e9]
+### 4. Application of Part 1 of the 1965 Act[^c-cd3cf325421d6bd1cce972af0058f2e9]
 
 Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act to the acquisition of land under article 19 (compulsory acquisition of land) and as modified by article 26 (modification of Part 1 of the 1965 Act), applies to the compulsory acquisition of a right by the creation of a new right under article 22 (compulsory acquisition of rights)—
 
 - (a) with the modifications specified in paragraph 5; and
 - (b) with such other modifications as may be necessary.
 
-**5.**[^key-dbaa6682d816ac8c85113477d33876c5] (1) The modifications referred to in paragraph 4(a) are as follows—
+**5.**[^c-dbaa6682d816ac8c85113477d33876c5] (1) The modifications referred to in paragraph 4(a) are as follows—
 
 (2) References in the 1965 Act to land are, in the appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -137,14 +137,14 @@ are modified to secure that, as against persons with interests in the land which
 
 ## Annotations
 
-[^key-dfd7994bf0ca5b5605f392f9f6cf1bf3]: Commencement: Sch. 9 para. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-dfd7994bf0ca5b5605f392f9f6cf1bf3]: Commencement: Sch. 9 para. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
-[^key-06d386ccada19957feb6df87f0ddf0ff]: Commencement: Sch. 9 para. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-06d386ccada19957feb6df87f0ddf0ff]: Commencement: Sch. 9 para. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
 [^c23895981]: Marginal citation: [1973 c.26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-059eb4fab50eed80862e71a849669c46]: Commencement: Sch. 9 para. 3 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-059eb4fab50eed80862e71a849669c46]: Commencement: Sch. 9 para. 3 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
-[^key-cd3cf325421d6bd1cce972af0058f2e9]: Commencement: Sch. 9 para. 4 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-cd3cf325421d6bd1cce972af0058f2e9]: Commencement: Sch. 9 para. 4 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
-[^key-dbaa6682d816ac8c85113477d33876c5]: Commencement: Sch. 9 para. 5 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-dbaa6682d816ac8c85113477d33876c5]: Commencement: Sch. 9 para. 5 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 296ZEA. Remedy where restrictive measures prevent or restrict personal copying[^key-d02741244e9abda15605773ed79dea93][^c19421031]
+## 296ZEA. Remedy where restrictive measures prevent or restrict personal copying[^c-d02741244e9abda15605773ed79dea93][^c19421031]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ and shall publish directions given under this subsection in such manner as the S
 
 ## Annotations
 
-[^key-d02741244e9abda15605773ed79dea93]: Textual amendment: S. 296ZEA inserted (1.10.2014) by [The Copyright and Rights in Performances (Personal Copies for Private Use) Regulations 2014 (S.I. 2014/2361)](https://www.legislation.gov.uk/uksi/2014/2361), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/3/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2361/regulation/5)) (but note that the amending S.I. was quashed with prospective effect by the High Court in the case of R (British Academy of Songwriters, Composers and Authors and others) v Secretary of State for Business, Innovation and Skills \[2015\] EWHC 2041 (Admin), 17 July 2015)
+[^c-d02741244e9abda15605773ed79dea93]: Textual amendment: S. 296ZEA inserted (1.10.2014) by [The Copyright and Rights in Performances (Personal Copies for Private Use) Regulations 2014 (S.I. 2014/2361)](https://www.legislation.gov.uk/uksi/2014/2361), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/3/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2361/regulation/5)) (but note that the amending S.I. was quashed with prospective effect by the High Court in the case of R (British Academy of Songwriters, Composers and Authors and others) v Secretary of State for Business, Innovation and Skills \[2015\] EWHC 2041 (Admin), 17 July 2015)
 
 [^c19421031]: Textual amendment: Ss. 296-296ZF and cross-heading substituted (31.10.2003) for s. 296 and cross-heading by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/24/1) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))

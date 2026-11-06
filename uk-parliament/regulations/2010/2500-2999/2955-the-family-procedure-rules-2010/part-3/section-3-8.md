@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3.8. Circumstances in which the MIAM requirement does not apply (MIAM exemptions ...)[^key-e91d532a33b448779354909a88339e3e][^key-40617ae150fe6551879f0322f9533ec0]
+## 3.8. Circumstances in which the MIAM requirement does not apply (MIAM exemptions ...)[^c-e91d532a33b448779354909a88339e3e][^c-40617ae150fe6551879f0322f9533ec0]
 
 *Extent: E+W*
 
@@ -24,9 +24,9 @@ The MIAM requirement does not apply if—
 
 (1) a prospective applicant claims in the relevant form that any of the following circumstances (a “MIAM exemption”) applies—
 
-Domestic abuse[^key-a1ab8db226eb886baab893edbca2dbd0]
+Domestic abuse[^c-a1ab8db226eb886baab893edbca2dbd0]
 
-- (a) there is evidence of domestic abuse[^key-a20602e73b0fa14b164217ee49ee2d58], as specified in Practice Direction 3A; or
+- (a) there is evidence of domestic abuse[^c-a20602e73b0fa14b164217ee49ee2d58], as specified in Practice Direction 3A; or
 
 Child protection concerns
 
@@ -44,121 +44,121 @@ Urgency
     - (aa) a risk of harm to a child;
     - (ab) a risk of unlawful removal of a child from the United Kingdom, or a risk of unlawful retention of a child who is currently outside England and Wales;
     - (ac) a significant risk of a miscarriage of justice;
-    - (ad) significant financial[^key-6b99ada9a60739c52dbad12cdb8ccfc2] hardship to the prospective applicant; or
+    - (ad) significant financial[^c-6b99ada9a60739c52dbad12cdb8ccfc2] hardship to the prospective applicant; or
     - (ae) irretrievable problems in dealing with the dispute (including the irretrievable loss of significant evidence); or
   - (iii) there is a significant risk that in the period necessary to schedule and attend a MIAM, proceedings relating to the dispute will be brought in another state in which a valid claim to jurisdiction may exist, such that a court in that other State would be seised of the dispute before a court in England and Wales; or
 
-Previous MIAM attendance or non-court dispute resolution attendance[^key-d3306a6206aa4dca9e877867e44902e1]
+Previous MIAM attendance or non-court dispute resolution attendance[^c-d3306a6206aa4dca9e877867e44902e1]
 
 - (d) —
-  - (i) in the 4 months prior to making the application, the person attended a MIAM or a[^key-de7b529bfe94514b3be9147353329c77] non-court dispute resolution process[^key-f1b289cb6072aeedd80f32d4581aad01] relating to the same or substantially the same dispute ; and[^key-3a7515575d05571902bd9212e43f2a7c]
-  - (ii) where the person attended a non-court dispute resolution process, there is evidence of that attendance, as specified in Practice Direction 3A; or[^key-ef19916fb12fb2c69272a0ba978a54ef]
-- (e)[^key-ad2d86c707738e0a27dc05355524ff13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) in the 4 months prior to making the application, the person attended a MIAM or a[^c-de7b529bfe94514b3be9147353329c77] non-court dispute resolution process[^c-f1b289cb6072aeedd80f32d4581aad01] relating to the same or substantially the same dispute ; and[^c-3a7515575d05571902bd9212e43f2a7c]
+  - (ii) where the person attended a non-court dispute resolution process, there is evidence of that attendance, as specified in Practice Direction 3A; or[^c-ef19916fb12fb2c69272a0ba978a54ef]
+- (e)[^c-ad2d86c707738e0a27dc05355524ff13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) —
   - (i) the application would be made in existing proceedings which are continuing; and
   - (ii) the prospective applicant attended a MIAM before initiating those proceedings; or
-- (g)[^key-938c8ff2b92f13c93f9147ee43d9b9de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-938c8ff2b92f13c93f9147ee43d9b9de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Other
 
 - (h) —
   - (i) there is evidence that the prospective applicant is bankrupt, as specified in Practice Direction 3A; and
   - (ii) the proceedings would be for a financial remedy; or
-- (i)[^key-9ac2636a1f51759370d9218a51dfd520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-9ac2636a1f51759370d9218a51dfd520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) the application would be made without notice; or
 
 *(Paragraph 5.1 of Practice Direction 18A sets out the circumstances in which applications may be made without notice.)*
 
 - (k) —
-  - (ai)[^key-61c4bf38cc283f5db5fd993c7928a952] the prospective applicant is not able to attend a MIAM online or by video-link and an explanation of why this is the case is provided to the court;
-  - (i) the prospective applicant is [^key-b9f42901714574cb4e883e153204ab28]... subject to a disability or other inability that would prevent attendance in person[^key-07b905ebdd1dc6bfb76344ae701cab28] at a MIAM unless appropriate facilities can be offered by an authorised mediator;
-  - (ii) the prospective applicant has contacted as many authorised family mediators as have an office within fifteen miles of his or home (or five[^key-e6321b489b9d497c9646d36e1e910bec] of them if there are five or more), and all have stated that they are unable to provide such facilities; and
-  - (iii) the names, postal addresses and telephone numbers or e-mail addresses for the[^key-90ab3eec4b407432a82f59659f065fda] authorised family mediators contacted by the prospective applicant[^key-42dc395465f9d6ed571067c87d037920], and the dates of contact, are[^key-b0d767f4120a7ccd5bea8221cc0fa7f6] provided to the court [^key-73e6b888a628170a99d85ba9e84e2d1b]...; or
-- (l) the prospective applicant [^key-89f20f8112bfc74e9664a37a3731afbe]... cannot attend a MIAM because the prospective applicant is[^key-ed483020b01cdd19ceacb306159d3e17] —
-  - (i) in prison or any other institution in which the prospective applicant is[^key-5d37ae7ff41f7ecb2e25a17cba9403a7] required to be detained and facilities cannot be made available for them to attend a MIAM online or by video-link[^key-7647be15594448550da6ad2992903b42];
+  - (ai)[^c-61c4bf38cc283f5db5fd993c7928a952] the prospective applicant is not able to attend a MIAM online or by video-link and an explanation of why this is the case is provided to the court;
+  - (i) the prospective applicant is [^c-b9f42901714574cb4e883e153204ab28]... subject to a disability or other inability that would prevent attendance in person[^c-07b905ebdd1dc6bfb76344ae701cab28] at a MIAM unless appropriate facilities can be offered by an authorised mediator;
+  - (ii) the prospective applicant has contacted as many authorised family mediators as have an office within fifteen miles of his or home (or five[^c-e6321b489b9d497c9646d36e1e910bec] of them if there are five or more), and all have stated that they are unable to provide such facilities; and
+  - (iii) the names, postal addresses and telephone numbers or e-mail addresses for the[^c-90ab3eec4b407432a82f59659f065fda] authorised family mediators contacted by the prospective applicant[^c-42dc395465f9d6ed571067c87d037920], and the dates of contact, are[^c-b0d767f4120a7ccd5bea8221cc0fa7f6] provided to the court [^c-73e6b888a628170a99d85ba9e84e2d1b]...; or
+- (l) the prospective applicant [^c-89f20f8112bfc74e9664a37a3731afbe]... cannot attend a MIAM because the prospective applicant is[^c-ed483020b01cdd19ceacb306159d3e17] —
+  - (i) in prison or any other institution in which the prospective applicant is[^c-5d37ae7ff41f7ecb2e25a17cba9403a7] required to be detained and facilities cannot be made available for them to attend a MIAM online or by video-link[^c-7647be15594448550da6ad2992903b42];
   - (ii) subject to conditions of bail that prevent contact with the other person; or
   - (iii) subject to a licence with a prohibited contact requirement in relation to the other person; or
-- (m)[^key-c12eb04c4b83a9b5724c2a6f20a02cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (n) a child is one of the prospective parties [^key-f49eb2b34d2a87875c4f35f18aed14ab]...; or
+- (m)[^c-c12eb04c4b83a9b5724c2a6f20a02cc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (n) a child is one of the prospective parties [^c-f49eb2b34d2a87875c4f35f18aed14ab]...; or
 - (o) —
-  - (ai)[^key-2d02e715f6cc0090638169f42ab90996] the prospective applicant is not able to attend a MIAM online or by video-link and an explanation of why this is the case is provided to the court;
-  - (i) the prospective applicant has contacted as many authorised family mediators as have an office within fifteen miles of his or her home (or five[^key-64fb9c5692e1fc6532607d89bc026122] of them if there are five or more), and all of them have stated that they are not available to conduct a MIAM within fifteen business days of the date of contact; and
-  - (ii) the names, postal addresses and telephone numbers or e-mail addresses for the[^key-3c363b06e4e42e7d32451f57cddbf7a0] authorised family mediators contacted by the prospective applicant[^key-cf1642c16d4981643468cbd0b34aad7c], and the dates of contact, are[^key-ad23d95dc9de8e5322c903b665fa1d86] provided to the court [^key-0d31755290f9d77d29427fd806e7c98e]...; or
-- (p)[^key-5cc5ec1244c2bec9f5dd9944e56997f5] —
+  - (ai)[^c-2d02e715f6cc0090638169f42ab90996] the prospective applicant is not able to attend a MIAM online or by video-link and an explanation of why this is the case is provided to the court;
+  - (i) the prospective applicant has contacted as many authorised family mediators as have an office within fifteen miles of his or her home (or five[^c-64fb9c5692e1fc6532607d89bc026122] of them if there are five or more), and all of them have stated that they are not available to conduct a MIAM within fifteen business days of the date of contact; and
+  - (ii) the names, postal addresses and telephone numbers or e-mail addresses for the[^c-3c363b06e4e42e7d32451f57cddbf7a0] authorised family mediators contacted by the prospective applicant[^c-cf1642c16d4981643468cbd0b34aad7c], and the dates of contact, are[^c-ad23d95dc9de8e5322c903b665fa1d86] provided to the court [^c-0d31755290f9d77d29427fd806e7c98e]...; or
+- (p)[^c-5cc5ec1244c2bec9f5dd9944e56997f5] —
   - (i) the prospective applicant is not able to attend a MIAM online or by video-link;
   - (ii) there is no authorised family mediator with an office within fifteen miles of the prospective applicant’s home; and
   - (iii) an explanation of why this exemption applies is provided by the prospective applicant to the court.
 
-(2)[^key-d825af68ef05bd8ca480b6e57981d670] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d825af68ef05bd8ca480b6e57981d670] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e91d532a33b448779354909a88339e3e]: Textual amendment: Pt. 3 substituted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [5](https://www.legislation.gov.uk/uksi/2014/843/rule/5)
+[^c-e91d532a33b448779354909a88339e3e]: Textual amendment: Pt. 3 substituted (22.4.2014) by [The Family Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/843)](https://www.legislation.gov.uk/uksi/2014/843), [rules 1](https://www.legislation.gov.uk/uksi/2014/843/rule/1), [5](https://www.legislation.gov.uk/uksi/2014/843/rule/5)
 
-[^key-40617ae150fe6551879f0322f9533ec0]: Textual amendment: Words in rule 3.8 heading omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [10](https://www.legislation.gov.uk/uksi/2023/1324/rule/10)
+[^c-40617ae150fe6551879f0322f9533ec0]: Textual amendment: Words in rule 3.8 heading omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [10](https://www.legislation.gov.uk/uksi/2023/1324/rule/10)
 
-[^key-a1ab8db226eb886baab893edbca2dbd0]: Textual amendment: Word in rule 3.8(1)(a) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(a)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/a)
+[^c-a1ab8db226eb886baab893edbca2dbd0]: Textual amendment: Word in rule 3.8(1)(a) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(a)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/a)
 
-[^key-a20602e73b0fa14b164217ee49ee2d58]: Textual amendment: Word in rule 3.8(1)(a) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/b)
+[^c-a20602e73b0fa14b164217ee49ee2d58]: Textual amendment: Word in rule 3.8(1)(a) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/b)
 
-[^key-6b99ada9a60739c52dbad12cdb8ccfc2]: Textual amendment: Words in rule 3.8(1)(c)(ii)(ad) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(c)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/c)
+[^c-6b99ada9a60739c52dbad12cdb8ccfc2]: Textual amendment: Words in rule 3.8(1)(c)(ii)(ad) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(c)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/c)
 
-[^key-d3306a6206aa4dca9e877867e44902e1]: Textual amendment: Words in rule 3.8(1)(d) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(d)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/d)
+[^c-d3306a6206aa4dca9e877867e44902e1]: Textual amendment: Words in rule 3.8(1)(d) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(d)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/d)
 
-[^key-de7b529bfe94514b3be9147353329c77]: Textual amendment: Word in rule 3.8(1)(d)(i) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(e)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/e/i/aa)
+[^c-de7b529bfe94514b3be9147353329c77]: Textual amendment: Word in rule 3.8(1)(d)(i) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(e)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/e/i/aa)
 
-[^key-f1b289cb6072aeedd80f32d4581aad01]: Textual amendment: Word in rule 3.8(1)(d)(i) inserted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(e)(i)(bb)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/e/i/bb)
+[^c-f1b289cb6072aeedd80f32d4581aad01]: Textual amendment: Word in rule 3.8(1)(d)(i) inserted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(e)(i)(bb)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/e/i/bb)
 
-[^key-3a7515575d05571902bd9212e43f2a7c]: Textual amendment: Word in rule 3.8(1)(d)(i) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(e)(i)(cc)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/e/i/cc)
+[^c-3a7515575d05571902bd9212e43f2a7c]: Textual amendment: Word in rule 3.8(1)(d)(i) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(e)(i)(cc)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/e/i/cc)
 
-[^key-ef19916fb12fb2c69272a0ba978a54ef]: Textual amendment: Rule 3.8(1)(d)(ii) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(e)(ii)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/e/ii)
+[^c-ef19916fb12fb2c69272a0ba978a54ef]: Textual amendment: Rule 3.8(1)(d)(ii) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(e)(ii)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/e/ii)
 
-[^key-ad2d86c707738e0a27dc05355524ff13]: Textual amendment: Rule 3.8(1)(e) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(f)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/f)
+[^c-ad2d86c707738e0a27dc05355524ff13]: Textual amendment: Rule 3.8(1)(e) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(f)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/f)
 
-[^key-938c8ff2b92f13c93f9147ee43d9b9de]: Textual amendment: Rule 3.8(1)(g) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(f)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/f)
+[^c-938c8ff2b92f13c93f9147ee43d9b9de]: Textual amendment: Rule 3.8(1)(g) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(f)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/f)
 
-[^key-9ac2636a1f51759370d9218a51dfd520]: Textual amendment: Rule 3.8(1)(i) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(f)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/f)
+[^c-9ac2636a1f51759370d9218a51dfd520]: Textual amendment: Rule 3.8(1)(i) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(f)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/f)
 
-[^key-61c4bf38cc283f5db5fd993c7928a952]: Textual amendment: Rule 3.8(1)(k)(ai) inserted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(i)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/i)
+[^c-61c4bf38cc283f5db5fd993c7928a952]: Textual amendment: Rule 3.8(1)(k)(ai) inserted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(i)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/i)
 
-[^key-b9f42901714574cb4e883e153204ab28]: Textual amendment: Words in rule 3.8(1)(k)(i) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/ii/aa)
+[^c-b9f42901714574cb4e883e153204ab28]: Textual amendment: Words in rule 3.8(1)(k)(i) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/ii/aa)
 
-[^key-07b905ebdd1dc6bfb76344ae701cab28]: Textual amendment: Words in rule 3.8(1)(k)(i) inserted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/ii/bb)
+[^c-07b905ebdd1dc6bfb76344ae701cab28]: Textual amendment: Words in rule 3.8(1)(k)(i) inserted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/ii/bb)
 
-[^key-e6321b489b9d497c9646d36e1e910bec]: Textual amendment: Word in rule 3.8(1)(k)(ii) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(iii)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/iii)
+[^c-e6321b489b9d497c9646d36e1e910bec]: Textual amendment: Word in rule 3.8(1)(k)(ii) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(iii)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/iii)
 
-[^key-90ab3eec4b407432a82f59659f065fda]: Textual amendment: Word in rule 3.8(1)(k)(iii) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(iv)(aa)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/iv/aa)
+[^c-90ab3eec4b407432a82f59659f065fda]: Textual amendment: Word in rule 3.8(1)(k)(iii) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(iv)(aa)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/iv/aa)
 
-[^key-42dc395465f9d6ed571067c87d037920]: Textual amendment: Words in rule 3.8(1)(k)(iii) inserted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(iv)(bb)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/iv/bb)
+[^c-42dc395465f9d6ed571067c87d037920]: Textual amendment: Words in rule 3.8(1)(k)(iii) inserted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(iv)(bb)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/iv/bb)
 
-[^key-b0d767f4120a7ccd5bea8221cc0fa7f6]: Textual amendment: Word in rule 3.8(1)(k)(iii) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(iv)(cc)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/iv/cc)
+[^c-b0d767f4120a7ccd5bea8221cc0fa7f6]: Textual amendment: Word in rule 3.8(1)(k)(iii) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(iv)(cc)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/iv/cc)
 
-[^key-73e6b888a628170a99d85ba9e84e2d1b]: Textual amendment: Words in rule 3.8(1)(k)(iii) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(iv)(dd)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/iv/dd)
+[^c-73e6b888a628170a99d85ba9e84e2d1b]: Textual amendment: Words in rule 3.8(1)(k)(iii) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(g)(iv)(dd)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/g/iv/dd)
 
-[^key-89f20f8112bfc74e9664a37a3731afbe]: Textual amendment: Words in rule 3.8(1)(l) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(h)(i)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/h/i)
+[^c-89f20f8112bfc74e9664a37a3731afbe]: Textual amendment: Words in rule 3.8(1)(l) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(h)(i)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/h/i)
 
-[^key-ed483020b01cdd19ceacb306159d3e17]: Textual amendment: Words in rule 3.8(1)(l) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(h)(ii)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/h/ii)
+[^c-ed483020b01cdd19ceacb306159d3e17]: Textual amendment: Words in rule 3.8(1)(l) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(h)(ii)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/h/ii)
 
-[^key-5d37ae7ff41f7ecb2e25a17cba9403a7]: Textual amendment: Words in rule 3.8(1)(l)(i) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(h)(iii)(aa)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/h/iii/aa)
+[^c-5d37ae7ff41f7ecb2e25a17cba9403a7]: Textual amendment: Words in rule 3.8(1)(l)(i) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(h)(iii)(aa)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/h/iii/aa)
 
-[^key-7647be15594448550da6ad2992903b42]: Textual amendment: Words in rule 3.8(1)(l)(i) inserted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(h)(iii)(bb)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/h/iii/bb)
+[^c-7647be15594448550da6ad2992903b42]: Textual amendment: Words in rule 3.8(1)(l)(i) inserted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(h)(iii)(bb)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/h/iii/bb)
 
-[^key-c12eb04c4b83a9b5724c2a6f20a02cc9]: Textual amendment: Rule 3.8(1)(m) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(i)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/i)
+[^c-c12eb04c4b83a9b5724c2a6f20a02cc9]: Textual amendment: Rule 3.8(1)(m) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(i)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/i)
 
-[^key-f49eb2b34d2a87875c4f35f18aed14ab]: Textual amendment: Words in rule 3.8(1)(n) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(j)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/j)
+[^c-f49eb2b34d2a87875c4f35f18aed14ab]: Textual amendment: Words in rule 3.8(1)(n) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(j)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/j)
 
-[^key-2d02e715f6cc0090638169f42ab90996]: Textual amendment: Rule 3.8(1)(o)(ai) inserted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(k)(i)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/k/i)
+[^c-2d02e715f6cc0090638169f42ab90996]: Textual amendment: Rule 3.8(1)(o)(ai) inserted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(k)(i)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/k/i)
 
-[^key-64fb9c5692e1fc6532607d89bc026122]: Textual amendment: Word in rule 3.8(1)(o)(i) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(k)(ii)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/k/ii)
+[^c-64fb9c5692e1fc6532607d89bc026122]: Textual amendment: Word in rule 3.8(1)(o)(i) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(k)(ii)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/k/ii)
 
-[^key-3c363b06e4e42e7d32451f57cddbf7a0]: Textual amendment: Word in rule 3.8(1)(o)(ii) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(k)(iii)(aa)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/k/iii/aa)
+[^c-3c363b06e4e42e7d32451f57cddbf7a0]: Textual amendment: Word in rule 3.8(1)(o)(ii) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(k)(iii)(aa)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/k/iii/aa)
 
-[^key-cf1642c16d4981643468cbd0b34aad7c]: Textual amendment: Words in rule 3.8(1)(o)(ii) inserted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(k)(iii)(bb)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/k/iii/bb)
+[^c-cf1642c16d4981643468cbd0b34aad7c]: Textual amendment: Words in rule 3.8(1)(o)(ii) inserted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(k)(iii)(bb)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/k/iii/bb)
 
-[^key-ad23d95dc9de8e5322c903b665fa1d86]: Textual amendment: Word in rule 3.8(1)(o)(ii) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(k)(iii)(cc)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/k/iii/cc)
+[^c-ad23d95dc9de8e5322c903b665fa1d86]: Textual amendment: Word in rule 3.8(1)(o)(ii) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(k)(iii)(cc)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/k/iii/cc)
 
-[^key-0d31755290f9d77d29427fd806e7c98e]: Textual amendment: Words in rule 3.8(1)(o)(ii) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(k)(iii)(dd)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/k/iii/dd)
+[^c-0d31755290f9d77d29427fd806e7c98e]: Textual amendment: Words in rule 3.8(1)(o)(ii) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(k)(iii)(dd)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/k/iii/dd)
 
-[^key-5cc5ec1244c2bec9f5dd9944e56997f5]: Textual amendment: Rule 3.8(1)(p) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(l)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/l)
+[^c-5cc5ec1244c2bec9f5dd9944e56997f5]: Textual amendment: Rule 3.8(1)(p) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [11(l)](https://www.legislation.gov.uk/uksi/2023/1324/rule/11/l)
 
-[^key-d825af68ef05bd8ca480b6e57981d670]: Textual amendment: Rule 3.8(2) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [12](https://www.legislation.gov.uk/uksi/2023/1324/rule/12)
+[^c-d825af68ef05bd8ca480b6e57981d670]: Textual amendment: Rule 3.8(2) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [12](https://www.legislation.gov.uk/uksi/2023/1324/rule/12)

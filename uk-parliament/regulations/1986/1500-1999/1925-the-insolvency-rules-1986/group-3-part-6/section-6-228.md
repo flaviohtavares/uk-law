@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.228. Existing trustee's expenses[^key-48d071f136d528b524b8c18e9a82a483]
+## 6.228. Existing trustee's expenses[^c-48d071f136d528b524b8c18e9a82a483]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any expenses incurred by the existing trustee in compliance with section 335(1) 
 
 ## Annotations
 
-[^key-48d071f136d528b524b8c18e9a82a483]: Commencement: [Rule 6.228](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.228) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-48d071f136d528b524b8c18e9a82a483]: Commencement: [Rule 6.228](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.228) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

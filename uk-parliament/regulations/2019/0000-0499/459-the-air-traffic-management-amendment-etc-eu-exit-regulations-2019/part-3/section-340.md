@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 340. Further amendment of Commission Implementing Regulation (EU) No 716/2014[^key-e07d060e03bb0beda69ba36c8eea888c]
+## 340. Further amendment of Commission Implementing Regulation (EU) No 716/2014[^c-e07d060e03bb0beda69ba36c8eea888c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After Article 7 omit the sentence which begins “This Regulation shall be bindi
 
 ## Annotations
 
-[^key-e07d060e03bb0beda69ba36c8eea888c]: Commencement: Reg. 340 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-e07d060e03bb0beda69ba36c8eea888c]: Commencement: Reg. 340 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Standard claim procedure[^key-e6409587dda9b583ce276974230dacb3]
+## 33. Standard claim procedure[^c-e6409587dda9b583ce276974230dacb3]
 
 *Extent: S*
 
@@ -276,4 +276,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6409587dda9b583ce276974230dacb3]: Commencement: S. 33 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-e6409587dda9b583ce276974230dacb3]: Commencement: S. 33 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

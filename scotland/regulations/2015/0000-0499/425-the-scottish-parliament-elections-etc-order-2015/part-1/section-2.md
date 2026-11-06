@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Interpretation[^key-dde2f732745c872b58cd3ed73ddb37d4]
+## 2. Interpretation[^c-dde2f732745c872b58cd3ed73ddb37d4]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ summary: ''
   - (a) in relation to a candidate for return as a constituency member (or to an election agent or sub-agent for such a candidate), the CRO for that constituency; and
   - (b) in relation to an individual candidate for return as a regional member or to a registered party submitting a regional list for a particular region (or to an election agent or sub-agent for such a candidate or such a registered party), the RRO for that region;
 - “ballot paper”, in relation to a general election for membership of the Scottish Parliament, shall be construed as a reference to both the constituency ballot paper and the regional ballot paper;
-- [^key-e63924ca36be555c9c1999168e4b443a]...
+- [^c-e63924ca36be555c9c1999168e4b443a]...
 - “CRO” means the officer who, in accordance with article 14, is the constituency returning officer for a Scottish parliamentary election in a constituency;
 - “disability”, in relation to doing a thing, includes a short term inability to do it;
 - “entitlement as an elector to an absent vote” shall be construed in accordance with article 7(8);
@@ -50,7 +50,7 @@ summary: ''
 - “postal ballot box” means the ballot box referred to in paragraph 17(1)(b) of Schedule 4;
 - “the postal voters list” means the list of persons kept in pursuance of article 9(5)(a), showing persons whose applications to vote by post have been granted;
 - “the proxy postal voters list” means the list of persons kept in pursuance of article 11(7);
-- “qualifying foreign national” has the same meaning as in section 202(1) of the 1983 Act;[^key-6e41bf7c10b409cac2a6dc6d65ca0089]
+- “qualifying foreign national” has the same meaning as in section 202(1) of the 1983 Act;[^c-6e41bf7c10b409cac2a6dc6d65ca0089]
 - “record of anonymous entries” means the record prepared in pursuance of regulations made by virtue of paragraph 8A of Schedule 2 to the 1983 Act[^f00017];
 - “RRO” means a regional returning officer for the purposes of the 1998 Act[^f00018];
 - “register of electors” means the register of local government electors maintained under section 9(1)(b) of the 1983 Act;
@@ -65,7 +65,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dde2f732745c872b58cd3ed73ddb37d4]: Commencement: Art. 2 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-dde2f732745c872b58cd3ed73ddb37d4]: Commencement: Art. 2 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00005]: Footnote: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2).
 
@@ -81,7 +81,7 @@ summary: ''
 
 [^f00011]: Footnote: Section 9B was added by section 10 of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22) (“the 2006 Act”) and is relevantly amended by Schedule 4, paragraph 7 of the Electoral Registration and Administration Act [2013 (c.6)](https://www.legislation.gov.uk/ukpga/2013/6).
 
-[^key-e63924ca36be555c9c1999168e4b443a]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/425/article/2/1) omitted (3.8.2020) by virtue of [The Scottish Parliament (Elections etc.) Amendment Order 2020 (S.S.I. 2020/179)](https://www.legislation.gov.uk/ssi/2020/179), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/179/article/1/2), [3(a)](https://www.legislation.gov.uk/ssi/2020/179/article/3/a); [S.S.I. 2020/162](https://www.legislation.gov.uk/ssi/2020/162), [reg. 2](https://www.legislation.gov.uk/ssi/2020/162/regulation/2)
+[^c-e63924ca36be555c9c1999168e4b443a]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/425/article/2/1) omitted (3.8.2020) by virtue of [The Scottish Parliament (Elections etc.) Amendment Order 2020 (S.S.I. 2020/179)](https://www.legislation.gov.uk/ssi/2020/179), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/179/article/1/2), [3(a)](https://www.legislation.gov.uk/ssi/2020/179/article/3/a); [S.S.I. 2020/162](https://www.legislation.gov.uk/ssi/2020/162), [reg. 2](https://www.legislation.gov.uk/ssi/2020/162/regulation/2)
 
 [^f00013]: Footnote: Electoral registration officers are appointed under section 8 of the 1983 Act. In terms of section 8(1) they are referred to as “registration officers” in the 1983 Act.
 
@@ -91,7 +91,7 @@ summary: ''
 
 [^f00016]: Footnote: Section 13A was added by the 2000 Act, Schedule 1, paragraph 6.
 
-[^key-6e41bf7c10b409cac2a6dc6d65ca0089]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/425/article/2/1) inserted (3.8.2020) by [The Scottish Parliament (Elections etc.) Amendment Order 2020 (S.S.I. 2020/179)](https://www.legislation.gov.uk/ssi/2020/179), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/179/article/1/2), [3(b)](https://www.legislation.gov.uk/ssi/2020/179/article/3/b); [S.S.I. 2020/162](https://www.legislation.gov.uk/ssi/2020/162), [reg. 2](https://www.legislation.gov.uk/ssi/2020/162/regulation/2)
+[^c-6e41bf7c10b409cac2a6dc6d65ca0089]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/425/article/2/1) inserted (3.8.2020) by [The Scottish Parliament (Elections etc.) Amendment Order 2020 (S.S.I. 2020/179)](https://www.legislation.gov.uk/ssi/2020/179), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2020/179/article/1/2), [3(b)](https://www.legislation.gov.uk/ssi/2020/179/article/3/b); [S.S.I. 2020/162](https://www.legislation.gov.uk/ssi/2020/162), [reg. 2](https://www.legislation.gov.uk/ssi/2020/162/regulation/2)
 
 [^f00017]: Footnote: Paragraph 8A was inserted by the 2006 Act, Schedule 1, paragraph 15(6).
 

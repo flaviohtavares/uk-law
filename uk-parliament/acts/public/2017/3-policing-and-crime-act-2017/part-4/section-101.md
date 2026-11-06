@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Power to search and obtain information[^c22719401][^key-37ab56a56ddfe2775abedb7b73084058]
+## 101. Power to search and obtain information[^c22719401][^c-37ab56a56ddfe2775abedb7b73084058]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c22719401]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2017/3/section/101) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-37ab56a56ddfe2775abedb7b73084058]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2017/3/section/101) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)
+[^c-37ab56a56ddfe2775abedb7b73084058]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2017/3/section/101) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)

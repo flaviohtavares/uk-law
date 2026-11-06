@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to noise emission in the environment by equipment for use outdoors, in exercise of the powers conferred on him by that section, makes the following Regulations:
 
-## 1. Citation and commencement[^key-71b992648f591e25f210a9eca974cfc5]
+## 1. Citation and commencement[^c-71b992648f591e25f210a9eca974cfc5]
 
 These Regulations may be cited as the Noise Emission in the Environment by Equipment for Use Outdoors (Amendment) Regulations 2005 and shall come into force on 3rd January 2006.
 
-## 2. Amendment to the Noise Emission in the Environment by Equipment for Use Outdoors Regulations 2001[^key-8b78c5e3f2a89fb8ff32a99ba84c018f]
+## 2. Amendment to the Noise Emission in the Environment by Equipment for Use Outdoors Regulations 2001[^c-8b78c5e3f2a89fb8ff32a99ba84c018f]
 
 The Noise Emission in the Environment by Equipment for Use Outdoors Regulations 2001[^f00003] are amended by substituting for the table in Schedule 3 the table set out in the Schedule to these Regulations.
 
@@ -61,7 +61,7 @@ Department of Trade and Industry
 
 29th December 2005
 
-## SCHEDULE[^key-cb63dbce51398a95b1bfd0dd55c2b119]
+## SCHEDULE[^c-cb63dbce51398a95b1bfd0dd55c2b119]
 
 Regulation 2
 
@@ -132,13 +132,13 @@ A Regulatory Impact Assessment and a Transposition Note have been prepared. Copi
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-71b992648f591e25f210a9eca974cfc5]: Commencement: Reg. 1 in force at 3.1.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3525/regulation/1)
+[^c-71b992648f591e25f210a9eca974cfc5]: Commencement: Reg. 1 in force at 3.1.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3525/regulation/1)
 
-[^key-8b78c5e3f2a89fb8ff32a99ba84c018f]: Commencement: Reg. 2 in force at 3.1.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3525/regulation/1)
+[^c-8b78c5e3f2a89fb8ff32a99ba84c018f]: Commencement: Reg. 2 in force at 3.1.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3525/regulation/1)
 
 [^f00003]: Footnote: S.I. [2001/1701](https://www.legislation.gov.uk/uksi/2001/1701) as amended by S.I. [2001/3958](https://www.legislation.gov.uk/uksi/2001/3958).
 
-[^key-cb63dbce51398a95b1bfd0dd55c2b119]: Commencement: Sch. in force at 3.1.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3525/regulation/1)
+[^c-cb63dbce51398a95b1bfd0dd55c2b119]: Commencement: Sch. in force at 3.1.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2005/3525/regulation/1)
 
 [^f01000]: Footnote: a
 

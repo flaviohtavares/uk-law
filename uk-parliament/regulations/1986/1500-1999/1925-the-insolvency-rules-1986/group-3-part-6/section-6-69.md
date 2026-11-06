@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.69. Requirement to submit accounts[^key-7e8daf21bd540cf01a4853aadbde5943]
+## 6.69. Requirement to submit accounts[^c-7e8daf21bd540cf01a4853aadbde5943]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e8daf21bd540cf01a4853aadbde5943]: Commencement: [Rule 6.69](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.69) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-7e8daf21bd540cf01a4853aadbde5943]: Commencement: [Rule 6.69](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.69) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

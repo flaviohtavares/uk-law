@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 397B. Tax credits under section 397A: manufactured overseas dividends[^key-d61be9ade889ff7d5839775881afeecd][^key-d3ea751b9d8f6412e5a913a0c6d16296]
+## 397B. Tax credits under section 397A: manufactured overseas dividends[^c-d61be9ade889ff7d5839775881afeecd][^c-d3ea751b9d8f6412e5a913a0c6d16296]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d61be9ade889ff7d5839775881afeecd]: Textual amendment: S. 397B omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 15](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/15)
+[^c-d61be9ade889ff7d5839775881afeecd]: Textual amendment: S. 397B omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 15](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/15)
 
-[^key-d3ea751b9d8f6412e5a913a0c6d16296]: Textual amendment: Ss. 397-398 omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24) (and [ss. 397-398](https://www.legislation.gov.uk/ukpga/2005/5/section/397) (in so far as still in force in relation to distributions made before tax year 2016-17) excluded (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 20](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/20), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1))
+[^c-d3ea751b9d8f6412e5a913a0c6d16296]: Textual amendment: Ss. 397-398 omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24) (and [ss. 397-398](https://www.legislation.gov.uk/ukpga/2005/5/section/397) (in so far as still in force in relation to distributions made before tax year 2016-17) excluded (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 10 paras. 20](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/20), [21(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/21/1))

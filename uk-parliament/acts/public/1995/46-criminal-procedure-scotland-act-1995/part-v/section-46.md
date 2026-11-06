@@ -37,7 +37,7 @@ it is alleged that the person by or in respect of whom the offence was committed
 (5) An order or judgement of the court shall not be invalidated by any subsequent proof that—
 
 - (a) the age of a person mentioned in subsection (1) above has not been correctly stated to the court; or
-- (b) the court was not informed that at the material time the person was subject to a compulsory supervision order or interim compulsory supervision order[^key-8f8da4097d38517ab587176416fc9cbf] or that his case had been referred to a children’s hearing by virtue of regulations made under section 190 of the Children’s Hearings (Scotland) Act[^key-3a256b2e4d01106be6c5a1c66a9c40b9] [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1).
+- (b) the court was not informed that at the material time the person was subject to a compulsory supervision order or interim compulsory supervision order[^c-8f8da4097d38517ab587176416fc9cbf] or that his case had been referred to a children’s hearing by virtue of regulations made under section 190 of the Children’s Hearings (Scotland) Act[^c-3a256b2e4d01106be6c5a1c66a9c40b9] [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1).
 
 (6) Where it appears to the court that a person mentioned in subsection (1) above has attained the age of 17 years, he shall for the purposes of this Act or the Children and Young Persons (Scotland) Act 1937 be deemed not to be a child.
 
@@ -55,6 +55,6 @@ it is alleged that the person by or in respect of whom the offence was committed
 
 [^c14468681]: Marginal citation: [1937 c.37](https://www.legislation.gov.uk/ukpga/1937/37).
 
-[^key-8f8da4097d38517ab587176416fc9cbf]: Textual amendment: Words in s. 46(5)(b) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 10(3)(a)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/10/3/a)
+[^c-8f8da4097d38517ab587176416fc9cbf]: Textual amendment: Words in s. 46(5)(b) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 10(3)(a)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/10/3/a)
 
-[^key-3a256b2e4d01106be6c5a1c66a9c40b9]: Textual amendment: Words in s. 46(5)(b) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 10(3)(b)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/10/3/b)
+[^c-3a256b2e4d01106be6c5a1c66a9c40b9]: Textual amendment: Words in s. 46(5)(b) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 10(3)(b)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/10/3/b)

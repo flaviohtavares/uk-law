@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Lowest-level sanction[^key-d07cc40fb99422bb7487c8641a1e21cc]
+## 53. Lowest-level sanction[^c-d07cc40fb99422bb7487c8641a1e21cc]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ whichever is soonest.
 
 ## Annotations
 
-[^key-d07cc40fb99422bb7487c8641a1e21cc]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2016/219/regulation/53) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-d07cc40fb99422bb7487c8641a1e21cc]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2016/219/regulation/53) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

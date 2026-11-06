@@ -23,8 +23,8 @@ summary: ''
 (1) Nothing in section 16(1) requires an electricity distributor to make a connection if and to the extent that—
 
 - (a) he is prevented from doing so by circumstances not within his control;
-- (b) circumstances exist by reason of which his doing so would or might involve his being in breach of regulations under section 29, and he has taken all such steps as it was reasonable to take both to prevent the circumstances from occurring and to prevent them from having that effect; [^key-3cc7702d84d53f87520f48b7e769efb9]...
-- (ba)[^key-3983644c1caf779d09ca0ba2edc3614f] it would not be in accordance with the designated strategic plans (within the meaning of section 16) for the distributor to do so; or
+- (b) circumstances exist by reason of which his doing so would or might involve his being in breach of regulations under section 29, and he has taken all such steps as it was reasonable to take both to prevent the circumstances from occurring and to prevent them from having that effect; [^c-3cc7702d84d53f87520f48b7e769efb9]...
+- (ba)[^c-3983644c1caf779d09ca0ba2edc3614f] it would not be in accordance with the designated strategic plans (within the meaning of section 16) for the distributor to do so; or
 - (c) it is not reasonable in all the circumstances for him to be required to do so.
 
 (2) Without prejudice to the generality of subsection (1) an electricity distributor is not required to make a connection if—
@@ -44,6 +44,6 @@ not less than seven working days’ notice of his intention to disconnect the pr
 
 [^c4112021]: Textual amendment: Ss. 16, 16A, 17 and cross-heading substituted for ss. 16, 17 (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 44](https://www.legislation.gov.uk/ukpga/2000/27/section/44); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-3cc7702d84d53f87520f48b7e769efb9]: Textual amendment: Word in s. 17(1)(b) omitted (18.12.2025) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 18(4)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/18/4/a), [118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-3cc7702d84d53f87520f48b7e769efb9]: Textual amendment: Word in s. 17(1)(b) omitted (18.12.2025) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 18(4)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/18/4/a), [118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
 
-[^key-3983644c1caf779d09ca0ba2edc3614f]: Textual amendment: S. 17(1)(ba) inserted (18.12.2025) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 18(4)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/18/4/b), [118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-3983644c1caf779d09ca0ba2edc3614f]: Textual amendment: S. 17(1)(ba) inserted (18.12.2025) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 18(4)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/18/4/b), [118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

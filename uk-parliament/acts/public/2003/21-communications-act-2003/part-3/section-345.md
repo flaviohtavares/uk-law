@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 345. Financial penalties imposable on licence holders[^key-5a44e6d0a38a848c544127f031b36a37]
+## 345. Financial penalties imposable on licence holders[^c-5a44e6d0a38a848c544127f031b36a37]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 13 (which modifies the maximum penalties that may be imposed on the hol
 
 ## Annotations
 
-[^key-5a44e6d0a38a848c544127f031b36a37]: Commencement: S. 345 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5a44e6d0a38a848c544127f031b36a37]: Commencement: S. 345 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

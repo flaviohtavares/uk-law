@@ -24,7 +24,7 @@ summary: ''
 
 Section 255
 
-### 1. Utilities[^key-faeaa0a9b07e8a11cebf2d6941278e3e]
+### 1. Utilities[^c-faeaa0a9b07e8a11cebf2d6941278e3e]
 
 (1) A contract between an electricity supplier and a consumer for the supply of electricity to any premises.
 
@@ -60,11 +60,11 @@ Section 255
 - “**relevant heat network**” has the same meaning as in Chapter 1 of Part 8 of the Energy Act 2023;
 - “**sewerage undertaker**” and “**water undertaker**” have the same meanings as in the Water and Sewerage Services (Northern Ireland) Order 2006.
 
-### 2. Insurance and financial services[^key-aeae54a3b45be7648a93061f405f867c]
+### 2. Insurance and financial services[^c-aeae54a3b45be7648a93061f405f867c]
 
 A contract for services of a banking, credit, insurance, personal pension, investment or payment nature.
 
-### 3. Medical prescriptions etc.[^key-23dc4021251b8097e80ace2daeb376d3]
+### 3. Medical prescriptions etc.[^c-23dc4021251b8097e80ace2daeb376d3]
 
 (1) A contract for the supply of goods, services or digital content where the supply—
 
@@ -83,7 +83,7 @@ A contract for services of a banking, credit, insurance, personal pension, inves
   - (c) in relation to a prescription or directions given, or a medicinal product administered, in Scotland, has the meaning given by regulation 2 of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009 ([S.S.I. 2009/183](https://www.legislation.gov.uk/ssi/2009/183)) but as if that definition included “a dentist”;
   - (d) in relation to a prescription or directions given, or a medicinal product administered in Northern Ireland, has the meaning given by the Pharmaceutical Services Regulations (Northern Ireland) 1997 ([S.R. (N.I.) 1997 No. 381](https://www.legislation.gov.uk/nisr/1997/381)).
 
-**4.**[^key-f2451b0f5ca43bc1f9b55a34ec97545f] (1) A contract for the supply of goods, services or digital content by a health care professional or a person included in a relevant list in circumstances where—
+**4.**[^c-f2451b0f5ca43bc1f9b55a34ec97545f] (1) A contract for the supply of goods, services or digital content by a health care professional or a person included in a relevant list in circumstances where—
 
 - (a) the supply of goods, services or digital content is under arrangements for the supply of services as part of the health service, and
 - (b) the goods, services or digital content are, at least in some circumstances, supplied under such arrangements free of charge or on prescription.
@@ -114,21 +114,21 @@ A contract for services of a banking, credit, insurance, personal pension, inves
     - (iv) the dental list prepared under regulation 4 of the National Health Service (General Dental Services) (Scotland) Regulations ([S.S.I 2010/208](https://www.legislation.gov.uk/ssi/2010/208));
   - (d) in relation to arrangements which are part of the health service in Northern Ireland, the pharmaceutical list prepared under regulation 6 of the Pharmaceutical Services Regulations (Northern Ireland) 1997 ([S.R. (N.I.) 1997 No. 381](https://www.legislation.gov.uk/nisr/1997/381)).
 
-### 5. Contracts regulated by OFCOM[^key-6f6b847fa2875ff65e4bbb4e7c7fe99e]
+### 5. Contracts regulated by OFCOM[^c-6f6b847fa2875ff65e4bbb4e7c7fe99e]
 
 A contract for the supply of goods, services or digital content by a person who is bound, in relation to that supply, by a general condition set by OFCOM under section 45 of the Communications Act 2003.
 
-**6.**[^key-4997638246a4489359bf3f60b6c2f5c6] (1) A contract for the supply of a premium rate service by a person who is bound, in relation to the supply of that service, by conditions set by OFCOM under section 120 of the Communications Act 2003.
+**6.**[^c-4997638246a4489359bf3f60b6c2f5c6] (1) A contract for the supply of a premium rate service by a person who is bound, in relation to the supply of that service, by conditions set by OFCOM under section 120 of the Communications Act 2003.
 
 (2) In sub-paragraph (1), “**premium rate service**” has the meaning given by section 120(7) of the Communications Act 2003.
 
-**7.**[^key-093c78ffa59d19492055db3b5cb8d0cc] In paragraphs 5 and 6, “**OFCOM**” means the Office of Communications.
+**7.**[^c-093c78ffa59d19492055db3b5cb8d0cc] In paragraphs 5 and 6, “**OFCOM**” means the Office of Communications.
 
-### 8. Rent of residential accommodation[^key-609f0fc7e6a2b4eed4405c0616988db4]
+### 8. Rent of residential accommodation[^c-609f0fc7e6a2b4eed4405c0616988db4]
 
 A contract under which accommodation is rented for residential purposes.
 
-### 9. Delivery of foodstuffs etc. by micro-entity[^key-a7e721eb1f5339146309e313bcf7cfb3]
+### 9. Delivery of foodstuffs etc. by micro-entity[^c-a7e721eb1f5339146309e313bcf7cfb3]
 
 (1) A contract between a trader whose business is a micro-entity and a consumer for the supply of foodstuffs, beverages or other goods intended for current consumption in the household where the condition in sub-paragraph (2) or (3) is met.
 
@@ -165,15 +165,15 @@ A contract under which accommodation is rented for residential purposes.
   - (a) in relation to a business which is carried on by a company, means the company’s first financial year in accordance with sections 390 to 392 of the Companies Act 2006;
   - (b) in relation to a business which is not carried on by a company, means the first financial year in which the business begins trading.
 
-### 10. Package holidays etc[^key-3ef5ec97116511937a40901c03f1cb55]
+### 10. Package holidays etc[^c-3ef5ec97116511937a40901c03f1cb55]
 
 A package travel contract within the meaning of the Package Travel and Linked Travel Arrangements Regulation 2018 ([S.I. 2018/634](https://www.legislation.gov.uk/uksi/2018/634)).
 
-### 11. Timeshares etc[^key-2692d7a41f362eedfbfbb3e515f15dd8]
+### 11. Timeshares etc[^c-2692d7a41f362eedfbfbb3e515f15dd8]
 
 A contract which is a regulated contract within the meaning of the Timeshare, Holiday Products Resale and Exchange Contracts 2010 ([S.I. 2010/2960](https://www.legislation.gov.uk/uksi/2010/2960)).
 
-### 12. Childcare (including school age education)[^key-b05710b2fb80d50fe528f444a142c78a]
+### 12. Childcare (including school age education)[^c-b05710b2fb80d50fe528f444a142c78a]
 
 (1) A contract for the supply of goods, services or digital content for, or in connection with, the provision of childcare by a relevant childcare provider.
 
@@ -236,7 +236,7 @@ A contract which is a regulated contract within the meaning of the Timeshare, Ho
   - (d) in relation to an independent school in Northern Ireland, has the meaning given by Article 2(2) of the of the Education and Libraries (Northern Ireland) Order 1986;
 - “**public school**” has the meaning given by section 135(1) of the Education (Scotland) Act 1980.
 
-### 13. Gambling contracts[^key-c0897a6fef3f03ed9af28d1f6af2fbc4]
+### 13. Gambling contracts[^c-c0897a6fef3f03ed9af28d1f6af2fbc4]
 
 (1) In England and Wales and Scotland, a contract for—
 
@@ -247,28 +247,28 @@ A contract which is a regulated contract within the meaning of the Timeshare, Ho
 
 ## Annotations
 
-[^key-faeaa0a9b07e8a11cebf2d6941278e3e]: Commencement: Sch. 22 para. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-faeaa0a9b07e8a11cebf2d6941278e3e]: Commencement: Sch. 22 para. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-aeae54a3b45be7648a93061f405f867c]: Commencement: Sch. 22 para. 2 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-aeae54a3b45be7648a93061f405f867c]: Commencement: Sch. 22 para. 2 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-23dc4021251b8097e80ace2daeb376d3]: Commencement: Sch. 22 para. 3 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-23dc4021251b8097e80ace2daeb376d3]: Commencement: Sch. 22 para. 3 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-f2451b0f5ca43bc1f9b55a34ec97545f]: Commencement: Sch. 22 para. 4 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-f2451b0f5ca43bc1f9b55a34ec97545f]: Commencement: Sch. 22 para. 4 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-6f6b847fa2875ff65e4bbb4e7c7fe99e]: Commencement: Sch. 22 para. 5 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-6f6b847fa2875ff65e4bbb4e7c7fe99e]: Commencement: Sch. 22 para. 5 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-4997638246a4489359bf3f60b6c2f5c6]: Commencement: Sch. 22 para. 6 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-4997638246a4489359bf3f60b6c2f5c6]: Commencement: Sch. 22 para. 6 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-093c78ffa59d19492055db3b5cb8d0cc]: Commencement: Sch. 22 para. 7 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-093c78ffa59d19492055db3b5cb8d0cc]: Commencement: Sch. 22 para. 7 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-609f0fc7e6a2b4eed4405c0616988db4]: Commencement: Sch. 22 para. 8 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-609f0fc7e6a2b4eed4405c0616988db4]: Commencement: Sch. 22 para. 8 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-a7e721eb1f5339146309e313bcf7cfb3]: Commencement: Sch. 22 para. 9 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-a7e721eb1f5339146309e313bcf7cfb3]: Commencement: Sch. 22 para. 9 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-3ef5ec97116511937a40901c03f1cb55]: Commencement: Sch. 22 para. 10 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-3ef5ec97116511937a40901c03f1cb55]: Commencement: Sch. 22 para. 10 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-2692d7a41f362eedfbfbb3e515f15dd8]: Commencement: Sch. 22 para. 11 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-2692d7a41f362eedfbfbb3e515f15dd8]: Commencement: Sch. 22 para. 11 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-b05710b2fb80d50fe528f444a142c78a]: Commencement: Sch. 22 para. 12 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-b05710b2fb80d50fe528f444a142c78a]: Commencement: Sch. 22 para. 12 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-c0897a6fef3f03ed9af28d1f6af2fbc4]: Commencement: Sch. 22 para. 13 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-c0897a6fef3f03ed9af28d1f6af2fbc4]: Commencement: Sch. 22 para. 13 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

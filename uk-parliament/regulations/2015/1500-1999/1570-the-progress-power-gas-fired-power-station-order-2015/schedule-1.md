@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-a999ebda95db5264ad7c47c83c58d701]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-a999ebda95db5264ad7c47c83c58d701]
 
 *Extent: E+W*
 
 Article 3
 
-[^key-a999ebda95db5264ad7c47c83c58d701]
+[^c-a999ebda95db5264ad7c47c83c58d701]
 
 In the County of Suffolk and the District of Mid Suffolk—
 
@@ -36,14 +36,14 @@ In the County of Suffolk and the District of Mid Suffolk—
       - (b) a store;
       - (c) a control room/office/workshop;
       - (d) telemetry apparatus;
-      - (e) three black start diesel generators where one gas turbine generator is constructed and one black start diesel generator where two, three, four or five gas turbine generators are constructed;[^key-f026071712247d5b7d461ee5f597fe82]
+      - (e) three black start diesel generators where one gas turbine generator is constructed and one black start diesel generator where two, three, four or five gas turbine generators are constructed;[^c-f026071712247d5b7d461ee5f597fe82]
       - (f) a raw/fire water tank and demineralised water storage tank;
       - (g) a natural gas receiving station and gas treatment compound containing—
         - (i) a pipeline inspection gauge (PIG) receiving facility;
         - (ii) isolation valves, metering, heating, filtering, compression, pressure regulation equipment;
         - (iii) electricity supply kiosk; and
         - (iv) control and instrumentation kiosks,
-      - (h) external fin fan cooler (where only one gas turbine generator is constructed).[^key-16dff8ca86b13167b024ee8fed05c20c]
+      - (h) external fin fan cooler (where only one gas turbine generator is constructed).[^c-16dff8ca86b13167b024ee8fed05c20c]
     - (3) ***Work No. 1C*** – a switchyard / banking compound containing up to seven transformers, switchgear building and other plant required to manage the transmission of electricity,
     - (4) ***Work No. 1D***—
       - (a) security infrastructure, including cameras, perimeter fencing and a gatehouse;
@@ -97,8 +97,8 @@ In the County of Suffolk and the District of Mid Suffolk—
 
 ## Annotations
 
-[^key-a999ebda95db5264ad7c47c83c58d701]: Commencement: Sch. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-a999ebda95db5264ad7c47c83c58d701]: Commencement: Sch. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
 
-[^key-f026071712247d5b7d461ee5f597fe82]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1570/schedule/1) substituted (12.11.2016) by [The Progress Power (Gas Fired Power Station) (Amendment) Order 2016 (S.I. 2016/1086)](https://www.legislation.gov.uk/uksi/2016/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1086/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/1086/article/3/2)
+[^c-f026071712247d5b7d461ee5f597fe82]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1570/schedule/1) substituted (12.11.2016) by [The Progress Power (Gas Fired Power Station) (Amendment) Order 2016 (S.I. 2016/1086)](https://www.legislation.gov.uk/uksi/2016/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1086/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/1086/article/3/2)
 
-[^key-16dff8ca86b13167b024ee8fed05c20c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1570/schedule/1) inserted (12.11.2016) by [The Progress Power (Gas Fired Power Station) (Amendment) Order 2016 (S.I. 2016/1086)](https://www.legislation.gov.uk/uksi/2016/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1086/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/1086/article/3/3)
+[^c-16dff8ca86b13167b024ee8fed05c20c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1570/schedule/1) inserted (12.11.2016) by [The Progress Power (Gas Fired Power Station) (Amendment) Order 2016 (S.I. 2016/1086)](https://www.legislation.gov.uk/uksi/2016/1086), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1086/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/1086/article/3/3)

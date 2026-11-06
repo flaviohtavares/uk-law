@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Certain dispute procedures under withdrawal agreement[^key-75142cfc9d740645db60d15eb8bbfb6a]
+## 30. Certain dispute procedures under withdrawal agreement[^c-75142cfc9d740645db60d15eb8bbfb6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ After section 13A of the European Union (Withdrawal) Act 2018 (review of EU legi
 
 ## Annotations
 
-[^key-75142cfc9d740645db60d15eb8bbfb6a]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2020/1/section/30) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(f)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/f)
+[^c-75142cfc9d740645db60d15eb8bbfb6a]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2020/1/section/30) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(f)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/f)

@@ -33,7 +33,7 @@ summary: ''
 
 and for the purposes of this paragraph “**deal with**” and “**excepted matter**” have the same meanings as in the Northern Ireland Act 1998.
 
-(3A)[^key-ebf81038139ea7ea4affa115bafbb3b3] After making magistrates' courts rules the Rules Committee must submit them to the relevant authority.
+(3A)[^c-ebf81038139ea7ea4affa115bafbb3b3] After making magistrates' courts rules the Rules Committee must submit them to the relevant authority.
 
 (3AA) The relevant authority must, after consultation with the Lord Chief Justice, allow or disallow rules submitted to it.
 
@@ -71,7 +71,7 @@ requires or authorises the making of rules (including rules prescribing forms an
 
 [^c22031171]: Textual amendment: Art. 13(3ZA) inserted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2010/976/article/15/5), [Sch. 18 para. 133(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/133/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-ebf81038139ea7ea4affa115bafbb3b3]: Textual amendment: Art. 13(3A)-(3AC) substituted for art. 13(3A) (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [s. 28](https://www.legislation.gov.uk/ukpga/2014/13/section/28), [Sch. para. 4(1)](https://www.legislation.gov.uk/ukpga/2014/13/schedule/paragraph/4/1)
+[^c-ebf81038139ea7ea4affa115bafbb3b3]: Textual amendment: Art. 13(3A)-(3AC) substituted for art. 13(3A) (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [s. 28](https://www.legislation.gov.uk/ukpga/2014/13/section/28), [Sch. para. 4(1)](https://www.legislation.gov.uk/ukpga/2014/13/schedule/paragraph/4/1)
 
 [^c22031231]: Textual amendment: Words in art. 13(3B) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2010/976/article/15/5), [Sch. 18 para. 133(c)(i)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/133/c/i) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 

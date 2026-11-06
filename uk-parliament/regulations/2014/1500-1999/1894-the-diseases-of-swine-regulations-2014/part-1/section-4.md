@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Exemptions[^key-16e73ed7f60c1c3d44dfc06e2b5ec324]
+## 4. Exemptions[^c-16e73ed7f60c1c3d44dfc06e2b5ec324]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-16e73ed7f60c1c3d44dfc06e2b5ec324]: Commencement: Reg. 4 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-16e73ed7f60c1c3d44dfc06e2b5ec324]: Commencement: Reg. 4 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
 
 [^f00015]: Footnote: [S.I. 2008/944](https://www.legislation.gov.uk/uksi/2008/944); relevant amending instrument is [S.I. 2009/3083](https://www.legislation.gov.uk/uksi/2009/3083).
 

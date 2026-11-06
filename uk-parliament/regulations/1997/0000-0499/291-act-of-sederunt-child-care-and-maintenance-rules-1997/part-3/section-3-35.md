@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.35. Form of application[^key-1d30779dc2a6e18ebdeb05d82c08a4b9]
+## 3.35. Form of application[^c-1d30779dc2a6e18ebdeb05d82c08a4b9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ An application shall be made in Form 54.
 
 ## Annotations
 
-[^key-1d30779dc2a6e18ebdeb05d82c08a4b9]: Commencement: Rule 3.35 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-1d30779dc2a6e18ebdeb05d82c08a4b9]: Commencement: Rule 3.35 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

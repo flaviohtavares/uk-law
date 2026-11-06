@@ -53,7 +53,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 ## CHAPTER 1 — CITATION, APPLICATION AND INTERPRETATION ETC.
 
-### 1.1. Citation and commencement, etc.[^key-22c260566fc0cbd453ee9538a73d917a]
+### 1.1. Citation and commencement, etc.[^c-22c260566fc0cbd453ee9538a73d917a]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Taxation of Judicial Expenses Rules) 2019.
 
@@ -61,7 +61,7 @@ The Court of Session therefore makes this Act of Sederunt under the powers confe
 
 (3) A certified copy is to be inserted in the Books of Sederunt.
 
-### 1.2. Application[^key-e88b19e94d7be3cc693404221bae66fe]
+### 1.2. Application[^c-e88b19e94d7be3cc693404221bae66fe]
 
 (1) Subject to paragraphs (3) and (4), these Rules apply to the taxation of accounts of expenses, and for related purposes, where—
 
@@ -83,7 +83,7 @@ are distinct proceedings.
 
 (4) Chapter 8 (diligence) applies where the chargeable work was carried out on or after the coming into force of these Rules.
 
-### 1.3. Interpretation[^key-702f4c5f3869514a203d210cb1279c13]
+### 1.3. Interpretation[^c-702f4c5f3869514a203d210cb1279c13]
 
 (1) In these Rules—
 
@@ -92,7 +92,7 @@ are distinct proceedings.
 - “member of the Association of Commercial Attorneys” means a person who has rights to conduct litigation or rights of audience by virtue of the scheme to which effect was given by Act of Sederunt (Sections 25 to 29 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990) (Association of Commercial Attorneys) 2009[^f00005];
 - “paying party” and “entitled party” have the meaning given in rule 1.2(1)(c);
 - “solicitor advocate” means a solicitor having a right of audience in the Court of Session under section 25A of the Solicitors (Scotland) Act 1980[^f00006];
-- “[^key-8eec4a3d325c6b78272d48599e1e745b]**summary application**” has the meaning given by section 3(p) of the Sheriff Courts (Scotland) Act 1907;
+- “[^c-8eec4a3d325c6b78272d48599e1e745b]**summary application**” has the meaning given by section 3(p) of the Sheriff Courts (Scotland) Act 1907;
 - “summary cause” means proceedings, subject to the procedure introduced by section 35 of the Sheriff Courts (Scotland) Act 1971[^f00007].
 
 (2) In relation to simple procedure cases—
@@ -104,7 +104,7 @@ are distinct proceedings.
 
 ## CHAPTER 2 — GENERAL PRINCIPLES
 
-### 2.1. Form of account[^key-e72f5512e04a84eebe31b4a4c041f1d4]
+### 2.1. Form of account[^c-e72f5512e04a84eebe31b4a4c041f1d4]
 
 An account of expenses must—
 
@@ -114,7 +114,7 @@ An account of expenses must—
   - (ii) the outlays claimed; and
 - (c) include a statement as to whether or not the entitled party will bear the burden of the value added tax referred to in rule 6.1.
 
-### 2.2. General principles[^key-ac0ff92c0e3096528a7231a7c789a1d8]
+### 2.2. General principles[^c-ac0ff92c0e3096528a7231a7c789a1d8]
 
 (1) The Auditor is to allow only such expenses as are reasonable for conducting the proceedings in a proper manner.
 
@@ -125,17 +125,17 @@ An account of expenses must—
 
 ## CHAPTER 3 — CHARGES FOR WORK CARRIED OUT BY SOLICITORS
 
-### 3.1. Application[^key-646527e5b8992c41c4cdb744f2dc1dba]
+### 3.1. Application[^c-646527e5b8992c41c4cdb744f2dc1dba]
 
-(1) Subject to rule 3.10 (party litigants), this Chapter, and the tables of charges set out in schedules 1 to 5A[^key-7ed61b38dffc9bebb269326ee54dec4f], apply for the purpose of determining the charges to be allowed on taxation in respect of work carried out by the entitled party’s solicitor.
+(1) Subject to rule 3.10 (party litigants), this Chapter, and the tables of charges set out in schedules 1 to 5A[^c-7ed61b38dffc9bebb269326ee54dec4f], apply for the purpose of determining the charges to be allowed on taxation in respect of work carried out by the entitled party’s solicitor.
 
-(2) Where the entitled party was represented by a member of the Association of Commercial Attorneys this Chapter, rule 5.2 (additional charge), and the tables of charges in schedules 1, 3, 4 , 5 and 5A[^key-22934e76cb7bf7d73bce2435dbcbb3a8] apply as if the work charged for was carried out by a solicitor.
+(2) Where the entitled party was represented by a member of the Association of Commercial Attorneys this Chapter, rule 5.2 (additional charge), and the tables of charges in schedules 1, 3, 4 , 5 and 5A[^c-22934e76cb7bf7d73bce2435dbcbb3a8] apply as if the work charged for was carried out by a solicitor.
 
-### 3.2. The unit[^key-91aa935929383ac13d362da1d4b3acf2]
+### 3.2. The unit[^c-91aa935929383ac13d362da1d4b3acf2]
 
-In this Chapter, in Chapter 8, and in schedules 1 to 5, references to a “unit” are to a measure of monetary charge with a value of £22.10[^key-7ce68f29ce6667162cdb9774e27de723].
+In this Chapter, in Chapter 8, and in schedules 1 to 5, references to a “unit” are to a measure of monetary charge with a value of £22.10[^c-7ce68f29ce6667162cdb9774e27de723].
 
-### 3.3. Table of charges[^key-498ef6397d313385f52d8c210f00d919]
+### 3.3. Table of charges[^c-498ef6397d313385f52d8c210f00d919]
 
 (1) Paragraph (2) applies to proceedings in respect of which there is a table of inclusive charges applicable to the proceedings in schedule 2, 3 or 4.
 
@@ -153,11 +153,11 @@ as the entitled party may elect, but the entitled party may not elect to have an
 
 (4) Subject to rule 3.7 (simple procedure), the charges to be allowed in respect of a simple procedure case in the sheriff court[^f00008] are those specified in the applicable table of inclusive charges in schedule 5.
 
-(4A)[^key-bce4f5032fa04f9c202cd469e2b9cdde] The charges to be allowed in respect of a summary application under Part L (Electronic Communications Code) of the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999 are those specified in the applicable table of inclusive charges in schedule 5A.
+(4A)[^c-bce4f5032fa04f9c202cd469e2b9cdde] The charges to be allowed in respect of a summary application under Part L (Electronic Communications Code) of the Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999 are those specified in the applicable table of inclusive charges in schedule 5A.
 
 (5) This rule applies unless the court otherwise directs.
 
-### 3.4. Copying and scanning[^key-c241106a0e9015a4d887be6929204ebe]
+### 3.4. Copying and scanning[^c-c241106a0e9015a4d887be6929204ebe]
 
 (1) This rule applies to the copying or scanning of documents carried out by, or at the instance of, the entitled party’s solicitor, other than on payment of a charge to a third party (in which event Chapter 4 applies).
 
@@ -165,29 +165,29 @@ as the entitled party may elect, but the entitled party may not elect to have an
 
 (3) The charge is 1 unit per 100 pages copied or scanned, or part thereof.
 
-### 3.5. Travel time[^key-c950b7b93dc13ade99f5e8824d750843]
+### 3.5. Travel time[^c-c950b7b93dc13ade99f5e8824d750843]
 
 The Auditor may, on cause shown, and at the Auditor’s discretion, allow a charge of 0.9 units per 6 minutes in respect of time engaged in travelling by the entitled party’s solicitor.
 
-### 3.6. Modification of inclusive charges[^key-7c202e9d21183ed019a722b9c01a2125]
+### 3.6. Modification of inclusive charges[^c-7c202e9d21183ed019a722b9c01a2125]
 
 In appropriate circumstances the Auditor may, in respect of a charge specified in a table of inclusive charges—
 
 - (a) increase or reduce a charge; or
 - (b) apportion a charge between parties represented by different solicitors.
 
-### 3.7. Reduction of charges[^key-8444a7bb8b4906167af04729ccb68f07][^key-b62ab19f1745bf589b42adf96bd1d40b]
+### 3.7. Reduction of charges[^c-8444a7bb8b4906167af04729ccb68f07][^c-b62ab19f1745bf589b42adf96bd1d40b]
 
-(1)[^key-f0afe2484ce9060252ecfe9e55b5d4f2] This rule applies in any simple procedure case where expenses fall to be taxed or assessed by reference to a table of charges in schedule 5.
+(1)[^c-f0afe2484ce9060252ecfe9e55b5d4f2] This rule applies in any simple procedure case where expenses fall to be taxed or assessed by reference to a table of charges in schedule 5.
 
 (2) All charges allowed by the Auditor are to be reduced by 10%.
 
-(3) Unless the court otherwise directs, where the total value of the claim is £2500 or less, all charges [^key-fb363e561d7120b45fdaf83825ae7030]... reduced in accordance with paragraph (2), are to be further reduced—
+(3) Unless the court otherwise directs, where the total value of the claim is £2500 or less, all charges [^c-fb363e561d7120b45fdaf83825ae7030]... reduced in accordance with paragraph (2), are to be further reduced—
 
 - (a) where the total value of the claim is less than £1000, by 50%;
 - (b) otherwise by 25%.
 
-### 3.8. Instructing and attending with counsel[^key-dfe26cebc4648a0750dcf3166ed9656e]
+### 3.8. Instructing and attending with counsel[^c-dfe26cebc4648a0750dcf3166ed9656e]
 
 (1) Subject to paragraph (2), where fees of counsel are allowed as an outlay in the sheriff court or Sheriff Appeal Court, the Auditor is also to allow the applicable charge for instructing counsel.
 
@@ -200,14 +200,14 @@ In appropriate circumstances the Auditor may, in respect of a charge specified i
 
 (4) Where the solicitor advocate is assisted by another solicitor or a clerk the Auditor may allow the applicable attendance charge.
 
-### 3.9. Additional charge[^key-e880ddd6c3524ed52cfdb77c7a5d8b1e]
+### 3.9. Additional charge[^c-e880ddd6c3524ed52cfdb77c7a5d8b1e]
 
 Where, on an application under rule 5.2 (additional charge)—
 
 - (a) the court grants the application and specifies a percentage increase in charges in accordance with paragraph (4) of that rule, the charges allowed by the Auditor under this Chapter are to be increased by the percentage specified;
 - (b) the Court of Session remits to the Auditor to determine if an increase should be allowed, or to determine the level of an increase, the charges allowed by the Auditor under this Chapter are to be increased by such additional charge, if any, as the Auditor may determine.
 
-### 3.10. Party litigants[^key-86e7aa7f228832446a92dde5097ad2f7]
+### 3.10. Party litigants[^c-86e7aa7f228832446a92dde5097ad2f7]
 
 (1) Where the entitled party was not represented by a solicitor the Auditor may, subject to paragraph (3), allow a reasonable sum in respect of work done by the entitled party which was reasonably required in connection with the proceedings.
 
@@ -223,15 +223,15 @@ Where, on an application under rule 5.2 (additional charge)—
 
 ## CHAPTER 4 — OUTLAYS
 
-### 4.1. Application[^key-dc53481c28c65f4426490d58ed47e907]
+### 4.1. Application[^c-dc53481c28c65f4426490d58ed47e907]
 
 This Chapter applies for the purpose of determining the outlays incurred by, or on behalf of, the entitled party that are to be allowed at taxation.
 
-### 4.2. Allowance of outlays[^key-926d140d05f05f113928ef18bfbb0e26]
+### 4.2. Allowance of outlays[^c-926d140d05f05f113928ef18bfbb0e26]
 
-Subject to rules 4.3 to 4.5, outlays (including court fees)[^key-9eb31b7fe42a9008c2f1cdcf847097d6] reasonably incurred in order to conduct the proceedings in a proper manner are to be allowed.
+Subject to rules 4.3 to 4.5, outlays (including court fees)[^c-9eb31b7fe42a9008c2f1cdcf847097d6] reasonably incurred in order to conduct the proceedings in a proper manner are to be allowed.
 
-### 4.3. Fees of counsel in the sheriff court or Sheriff Appeal Court[^key-5de5ea759a17f5492021413a21e913da]
+### 4.3. Fees of counsel in the sheriff court or Sheriff Appeal Court[^c-5de5ea759a17f5492021413a21e913da]
 
 (1) This rule applies to the taxation of accounts of expenses relating to proceedings in the sheriff court or Sheriff Appeal Court.
 
@@ -257,11 +257,11 @@ Subject to rules 4.3 to 4.5, outlays (including court fees)[^key-9eb31b7fe42a900
 
 (7) In this rule, references to fees of counsel for carrying out work include, where appropriate in the case of proofs, trials or other hearings that do not proceed, fees reflecting counsel’s inability to accept alternative commitments.
 
-### 4.4. Fees of solicitor advocates in the Court of Session[^key-d6bf439ad723927c7725c28368909c9f]
+### 4.4. Fees of solicitor advocates in the Court of Session[^c-d6bf439ad723927c7725c28368909c9f]
 
 Where a solicitor advocate exercises a right of audience in the Court of Session, the Auditor is to allow such fee for each item of work done by the solicitor advocate in the exercise of the right of audience as the Auditor would allow to an advocate for an equivalent item of work.
 
-### 4.5. Skilled persons[^key-e76a77817ecca1d6a919a86bd750b364]
+### 4.5. Skilled persons[^c-e76a77817ecca1d6a919a86bd750b364]
 
 (1) No charge incurred to a person who has been engaged for the purposes of the application of that person’s skill is to be allowed as an outlay unless—
 
@@ -280,7 +280,7 @@ Where a solicitor advocate exercises a right of audience in the Court of Session
   - (iii) a simple procedure case; or
 - (b) the sheriff has determined in accordance with rule 5.3(5) that the certification has effect for the purposes of work done, or expenses incurred, before the date of certification.
 
-### 4.6. Witnesses[^key-14641bbe35d4fb17b392f0e5defc92c8]
+### 4.6. Witnesses[^c-14641bbe35d4fb17b392f0e5defc92c8]
 
 (1) Payments relating to the attendance of a witness at a proof or trial, when the witness is not called to give evidence, are to be allowed as an outlay only where the court has granted a motion certifying the witness as being in attendance.
 
@@ -290,7 +290,7 @@ Where a solicitor advocate exercises a right of audience in the Court of Session
 
 ## CHAPTER 5 — APPLICATIONS FOR ALLOWANCE OF AN ADDITIONAL FEE, FOR SANCTION FOR THE EMPLOYMENT OF COUNSEL, AND FOR CERTIFICATION OF SKILLED WITNESSES
 
-### 5.1. Application[^key-dc55291944854a3ea73566bb2f34d14f]
+### 5.1. Application[^c-dc55291944854a3ea73566bb2f34d14f]
 
 (1) This Chapter applies for the purpose of applications to the court for—
 
@@ -303,7 +303,7 @@ Where a solicitor advocate exercises a right of audience in the Court of Session
 - (a) in a simple procedure case by incidental orders application;
 - (b) otherwise by motion.
 
-### 5.2. Additional charge[^key-b8f7d52c77e745e20c594573eb66f2f4]
+### 5.2. Additional charge[^c-b8f7d52c77e745e20c594573eb66f2f4]
 
 (1) An entitled party may apply to the court for an increase in the charges to be allowed at taxation in respect of work carried out by the entitled party’s solicitor.
 
@@ -325,7 +325,7 @@ Where a solicitor advocate exercises a right of audience in the Court of Session
 - (f) the amount or value of money or property involved in the proceedings;
 - (g) the steps taken with a view to settling the proceedings, limiting the matters in dispute or limiting the scope of any hearing.
 
-### 5.3. Certification of skilled persons[^key-1f279956e3389171b4ae5cdd8de5fa5b]
+### 5.3. Certification of skilled persons[^c-1f279956e3389171b4ae5cdd8de5fa5b]
 
 (1) On the application of a party the court may certify a person as a skilled person for the purpose of rule 4.5 (skilled persons).
 
@@ -346,7 +346,7 @@ paragraph (5) applies.
 
 (5) Where this paragraph applies, the court may only determine that the certification has effect for the purposes of work already done by the person where the court is satisfied that the party applying has shown cause for not having applied for certification before the work was done.
 
-### 5.4. Sanction for the employment of counsel in the sheriff court and Sheriff Appeal Court[^key-f06329ad5ed286fd857e7b90cd09e99f]
+### 5.4. Sanction for the employment of counsel in the sheriff court and Sheriff Appeal Court[^c-f06329ad5ed286fd857e7b90cd09e99f]
 
 (1) This rule applies to proceedings in the sheriff court and Sheriff Appeal Court.
 
@@ -375,7 +375,7 @@ as suitable for the employment of counsel by that party.
 
 ## CHAPTER 6 — VALUE ADDED TAX
 
-### 6.1. Value added tax[^key-d077bbc4ab9d661cc793c94125022430]
+### 6.1. Value added tax[^c-d077bbc4ab9d661cc793c94125022430]
 
 (1) Where work done by a solicitor constitutes a supply of services in respect of which value added tax is chargeable by the solicitor, there may be added to the charges allowed in respect of that work under Chapter 3 an amount equal to the value added tax chargeable on those charges, unless the entitled party will not bear the burden of the value added tax.
 
@@ -383,11 +383,11 @@ as suitable for the employment of counsel by that party.
 
 ## CHAPTER 7 — PAYMENTS TO WITNESSES AND FEES OF SHORTHAND WRITERS
 
-### 7.1. Reimbursement of witnesses[^key-b1f6cd5beec8ca8287af4e2cd963c3b1]
+### 7.1. Reimbursement of witnesses[^c-b1f6cd5beec8ca8287af4e2cd963c3b1]
 
 Schedule 6 has effect for the purpose of regulating the liability of a party at whose instance a person was cited or requested to appear as a witness in civil proceedings, to reimburse losses and expenses incurred by that person.
 
-### 7.2. Fees of shorthand writers and transcribers[^key-88916e7cf915a7a88da7238624963e6b]
+### 7.2. Fees of shorthand writers and transcribers[^c-88916e7cf915a7a88da7238624963e6b]
 
 (1) The table in Part 1 of schedule 7 has effect for the purpose of regulating the fees charged by shorthand writers and persons preparing transcripts of evidence.
 
@@ -397,7 +397,7 @@ Schedule 6 has effect for the purpose of regulating the liability of a party at 
 
 ## CHAPTER 8 — DILIGENCE
 
-### 8.1. Instructing steps in diligence[^key-a3f9ac715585101c3cf4f0bc09f508bc]
+### 8.1. Instructing steps in diligence[^c-a3f9ac715585101c3cf4f0bc09f508bc]
 
 Where, in the execution of diligence, the expenses chargeable against a debtor include the expenses incurred by a solicitor in instructing a messenger-at-arms or sheriff officer to take any step, the sum chargeable for each such instruction is 1.25 units.
 
@@ -411,7 +411,7 @@ Edinburgh
 
 27th February 2019
 
-## SCHEDULE 1 — TABLE OF DETAILED CHARGES[^key-89724881d119349fda715ed8ccf827a3]
+## SCHEDULE 1 — TABLE OF DETAILED CHARGES[^c-89724881d119349fda715ed8ccf827a3]
 
 Rule 3.3(2)(a)
 
@@ -444,7 +444,7 @@ Rule 3.3(2)(a)
 </tbody>
 </table>
 
-## SCHEDULE 2 — TABLES OF INCLUSIVE CHARGES FOR WORK UNDERTAKEN BY SOLICITORS IN PROCEEDINGS IN THE COURT OF SESSION[^key-04042edda30210152b3155ca8c894f1c]
+## SCHEDULE 2 — TABLES OF INCLUSIVE CHARGES FOR WORK UNDERTAKEN BY SOLICITORS IN PROCEEDINGS IN THE COURT OF SESSION[^c-04042edda30210152b3155ca8c894f1c]
 
 Rule 3.3(2)(b)(i)
 
@@ -807,7 +807,7 @@ Rule 3.3(2)(b)(i)
 </tbody>
 </table>
 
-## SCHEDULE 3 — TABLES OF INCLUSIVE CHARGES FOR WORK UNDERTAKEN BY SOLICITORS IN PROCEEDINGS IN THE SHERIFF APPEAL COURT UNDER THE ACT OF SEDERUNT (SHERIFF APPEAL COURT RULES) 2015[^key-094a969abce9b55b3a4ebead5c0cadba]
+## SCHEDULE 3 — TABLES OF INCLUSIVE CHARGES FOR WORK UNDERTAKEN BY SOLICITORS IN PROCEEDINGS IN THE SHERIFF APPEAL COURT UNDER THE ACT OF SEDERUNT (SHERIFF APPEAL COURT RULES) 2015[^c-094a969abce9b55b3a4ebead5c0cadba]
 
 Rule 3.3(2)(b)(ii)
 
@@ -938,7 +938,7 @@ Rule 3.3(2)(b)(ii)
 </tbody>
 </table>
 
-## SCHEDULE 4 — TABLES OF INCLUSIVE CHARGES FOR WORK UNDERTAKEN BY SOLICITORS IN ORDINARY CAUSES IN THE SHERIFF COURT[^key-441baa3924e0ead293ab9849488f4605]
+## SCHEDULE 4 — TABLES OF INCLUSIVE CHARGES FOR WORK UNDERTAKEN BY SOLICITORS IN ORDINARY CAUSES IN THE SHERIFF COURT[^c-441baa3924e0ead293ab9849488f4605]
 
 Rule 3.3(2)(b)(iii)
 
@@ -1318,7 +1318,7 @@ Rule 3.3(2)(b)(iii)
 </tbody>
 </table>
 
-## SCHEDULE 5 — TABLES OF INCLUSIVE CHARGES FOR SIMPLE PROCEDURE CASES[^key-8f620542821e2993ac6f2a442999da6d]
+## SCHEDULE 5 — TABLES OF INCLUSIVE CHARGES FOR SIMPLE PROCEDURE CASES[^c-8f620542821e2993ac6f2a442999da6d]
 
 Rule 3.3(4)
 
@@ -1395,7 +1395,7 @@ Rule 3.3(4)
 </tbody>
 </table>
 
-## SCHEDULE 5A — TABLES OF INCLUSIVE CHARGES FOR SUMMARY APPLICATIONS FOR ORDERS UNDER PARAGRAPHS 27ZF(2) OR 27E(2) OF SCHEDULE 3A OF THE COMMUNICATIONS ACT 2003[^key-2a06610044a5c69627fe619e9c38ead2]
+## SCHEDULE 5A — TABLES OF INCLUSIVE CHARGES FOR SUMMARY APPLICATIONS FOR ORDERS UNDER PARAGRAPHS 27ZF(2) OR 27E(2) OF SCHEDULE 3A OF THE COMMUNICATIONS ACT 2003[^c-2a06610044a5c69627fe619e9c38ead2]
 
 Rule 3.3(4A)
 
@@ -1410,7 +1410,7 @@ Rule 3.3(4A)
 </tbody>
 </table>
 
-## SCHEDULE 6 — REIMBURSEMENT OF WITNESSES[^key-3becc634e0eb04c46e7a3fded71cc2b3]
+## SCHEDULE 6 — REIMBURSEMENT OF WITNESSES[^c-3becc634e0eb04c46e7a3fded71cc2b3]
 
 Rule 7.1
 
@@ -1433,7 +1433,7 @@ Rule 7.1
 </tbody>
 </table>
 
-## SCHEDULE 7 — SHORTHAND WRITERS AND TRANSCRIBERS[^key-fb2ee738bc7b6d572ae8d9913a37fa24]
+## SCHEDULE 7 — SHORTHAND WRITERS AND TRANSCRIBERS[^c-fb2ee738bc7b6d572ae8d9913a37fa24]
 
 Rule 7.2
 
@@ -1593,106 +1593,106 @@ Rule 8.1 prescribes the sum that may be included in the expenses chargeable agai
 
 [^f00003]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18). Sections 105 and 106 were modified by [S.S.I. 2018/158](https://www.legislation.gov.uk/ssi/2018/158).
 
-[^key-22c260566fc0cbd453ee9538a73d917a]: Commencement: [Rule 1.1](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-22c260566fc0cbd453ee9538a73d917a]: Commencement: [Rule 1.1](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-e88b19e94d7be3cc693404221bae66fe]: Commencement: [Rule 1.2](https://www.legislation.gov.uk/ssi/2019/75/rule/1.2) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-e88b19e94d7be3cc693404221bae66fe]: Commencement: [Rule 1.2](https://www.legislation.gov.uk/ssi/2019/75/rule/1.2) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
 [^f00004]: Footnote: The Rules of the Court of Session 1994 are in schedule 2 of the Act of Sederunt (Rules of the Court of Session 1994) 1994 ([S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443)), last amended by [S.S.I. 2018/348](https://www.legislation.gov.uk/ssi/2018/348).
 
-[^key-702f4c5f3869514a203d210cb1279c13]: Commencement: [Rule 1.3](https://www.legislation.gov.uk/ssi/2019/75/rule/1.3) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-702f4c5f3869514a203d210cb1279c13]: Commencement: [Rule 1.3](https://www.legislation.gov.uk/ssi/2019/75/rule/1.3) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
 [^f00005]: Footnote: [S.S.I. 2009/163](https://www.legislation.gov.uk/ssi/2009/163).
 
 [^f00006]: Footnote: [1980 c.46](https://www.legislation.gov.uk/ukpga/1980/46). Section 25A was inserted by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c.24)](https://www.legislation.gov.uk/ukpga/1990/24), section 24, and was last amended by the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), schedule 6(1), paragraph 10.
 
-[^key-8eec4a3d325c6b78272d48599e1e745b]: Textual amendment: Words in [rule 1.3](https://www.legislation.gov.uk/ssi/2019/75/rule/1.3) inserted (2.10.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023 (S.S.I. 2023/223)](https://www.legislation.gov.uk/ssi/2023/223), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/3/2)
+[^c-8eec4a3d325c6b78272d48599e1e745b]: Textual amendment: Words in [rule 1.3](https://www.legislation.gov.uk/ssi/2019/75/rule/1.3) inserted (2.10.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023 (S.S.I. 2023/223)](https://www.legislation.gov.uk/ssi/2023/223), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/3/2)
 
 [^f00007]: Footnote: [1971 c.58](https://www.legislation.gov.uk/ukpga/1971/58). Section 35 is repealed by the Courts Reform (Scotland) Act [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), schedule 5, paragraph 6(2) which was brought into force in part by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291).
 
-[^key-e72f5512e04a84eebe31b4a4c041f1d4]: Commencement: [Rule 2.1](https://www.legislation.gov.uk/ssi/2019/75/rule/2.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-e72f5512e04a84eebe31b4a4c041f1d4]: Commencement: [Rule 2.1](https://www.legislation.gov.uk/ssi/2019/75/rule/2.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-ac0ff92c0e3096528a7231a7c789a1d8]: Commencement: [Rule 2.2](https://www.legislation.gov.uk/ssi/2019/75/rule/2.2) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-ac0ff92c0e3096528a7231a7c789a1d8]: Commencement: [Rule 2.2](https://www.legislation.gov.uk/ssi/2019/75/rule/2.2) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-646527e5b8992c41c4cdb744f2dc1dba]: Commencement: [Rule 3.1](https://www.legislation.gov.uk/ssi/2019/75/rule/3.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-646527e5b8992c41c4cdb744f2dc1dba]: Commencement: [Rule 3.1](https://www.legislation.gov.uk/ssi/2019/75/rule/3.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-7ed61b38dffc9bebb269326ee54dec4f]: Textual amendment: Word in [rule 3.1(1)](https://www.legislation.gov.uk/ssi/2019/75/rule/3.1/1) substituted (2.10.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023 (S.S.I. 2023/223)](https://www.legislation.gov.uk/ssi/2023/223), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/1/2), [3(3)(a)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/3/3/a)
+[^c-7ed61b38dffc9bebb269326ee54dec4f]: Textual amendment: Word in [rule 3.1(1)](https://www.legislation.gov.uk/ssi/2019/75/rule/3.1/1) substituted (2.10.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023 (S.S.I. 2023/223)](https://www.legislation.gov.uk/ssi/2023/223), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/1/2), [3(3)(a)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/3/3/a)
 
-[^key-22934e76cb7bf7d73bce2435dbcbb3a8]: Textual amendment: Words in [rule 3.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/3.1/2) substituted (2.10.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023 (S.S.I. 2023/223)](https://www.legislation.gov.uk/ssi/2023/223), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/1/2), [3(3)(b)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/3/3/b)
+[^c-22934e76cb7bf7d73bce2435dbcbb3a8]: Textual amendment: Words in [rule 3.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/3.1/2) substituted (2.10.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023 (S.S.I. 2023/223)](https://www.legislation.gov.uk/ssi/2023/223), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/1/2), [3(3)(b)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/3/3/b)
 
-[^key-91aa935929383ac13d362da1d4b3acf2]: Commencement: [Rule 3.2](https://www.legislation.gov.uk/ssi/2019/75/rule/3.2) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-91aa935929383ac13d362da1d4b3acf2]: Commencement: [Rule 3.2](https://www.legislation.gov.uk/ssi/2019/75/rule/3.2) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-7ce68f29ce6667162cdb9774e27de723]: Textual amendment: Sum in [rule 3.2](https://www.legislation.gov.uk/ssi/2019/75/article/3.2) substituted (10.10.2026) by [Act of Sederunt (Taxation of Judicial Expenses Rules) (Amendment) 2026 (S.S.I. 2026/238)](https://www.legislation.gov.uk/ssi/2026/238), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/2/2) (with [para. 2(2)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/2/2))
+[^c-7ce68f29ce6667162cdb9774e27de723]: Textual amendment: Sum in [rule 3.2](https://www.legislation.gov.uk/ssi/2019/75/article/3.2) substituted (10.10.2026) by [Act of Sederunt (Taxation of Judicial Expenses Rules) (Amendment) 2026 (S.S.I. 2026/238)](https://www.legislation.gov.uk/ssi/2026/238), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/2/2) (with [para. 2(2)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/2/2))
 
-[^key-498ef6397d313385f52d8c210f00d919]: Commencement: [Rule 3.3](https://www.legislation.gov.uk/ssi/2019/75/rule/3.3) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-498ef6397d313385f52d8c210f00d919]: Commencement: [Rule 3.3](https://www.legislation.gov.uk/ssi/2019/75/rule/3.3) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
 [^f00008]: Footnote: Simple procedure was introduced by the Courts Reform (Scotland) Act [2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), section 72.
 
-[^key-bce4f5032fa04f9c202cd469e2b9cdde]: Textual amendment: [Rule 3.3(4A)](https://www.legislation.gov.uk/ssi/2019/75/rule/3.3/4A) inserted (2.10.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023 (S.S.I. 2023/223)](https://www.legislation.gov.uk/ssi/2023/223), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/3/4)
+[^c-bce4f5032fa04f9c202cd469e2b9cdde]: Textual amendment: [Rule 3.3(4A)](https://www.legislation.gov.uk/ssi/2019/75/rule/3.3/4A) inserted (2.10.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023 (S.S.I. 2023/223)](https://www.legislation.gov.uk/ssi/2023/223), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/3/4)
 
-[^key-c241106a0e9015a4d887be6929204ebe]: Commencement: [Rule 3.4](https://www.legislation.gov.uk/ssi/2019/75/rule/3.4) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-c241106a0e9015a4d887be6929204ebe]: Commencement: [Rule 3.4](https://www.legislation.gov.uk/ssi/2019/75/rule/3.4) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-c950b7b93dc13ade99f5e8824d750843]: Commencement: [Rule 3.5](https://www.legislation.gov.uk/ssi/2019/75/rule/3.5) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-c950b7b93dc13ade99f5e8824d750843]: Commencement: [Rule 3.5](https://www.legislation.gov.uk/ssi/2019/75/rule/3.5) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-7c202e9d21183ed019a722b9c01a2125]: Commencement: [Rule 3.6](https://www.legislation.gov.uk/ssi/2019/75/rule/3.6) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-7c202e9d21183ed019a722b9c01a2125]: Commencement: [Rule 3.6](https://www.legislation.gov.uk/ssi/2019/75/rule/3.6) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-8444a7bb8b4906167af04729ccb68f07]: Commencement: [Rule 3.7](https://www.legislation.gov.uk/ssi/2019/75/rule/3.7) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-8444a7bb8b4906167af04729ccb68f07]: Commencement: [Rule 3.7](https://www.legislation.gov.uk/ssi/2019/75/rule/3.7) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-b62ab19f1745bf589b42adf96bd1d40b]: Textual amendment: [Rule 3.7](https://www.legislation.gov.uk/ssi/2019/75/article/3.7) heading substituted (10.10.2026) by [Act of Sederunt (Taxation of Judicial Expenses Rules) (Amendment) 2026 (S.S.I. 2026/238)](https://www.legislation.gov.uk/ssi/2026/238), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/1/2), [2(3)(a)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/2/3/a)
+[^c-b62ab19f1745bf589b42adf96bd1d40b]: Textual amendment: [Rule 3.7](https://www.legislation.gov.uk/ssi/2019/75/article/3.7) heading substituted (10.10.2026) by [Act of Sederunt (Taxation of Judicial Expenses Rules) (Amendment) 2026 (S.S.I. 2026/238)](https://www.legislation.gov.uk/ssi/2026/238), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/1/2), [2(3)(a)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/2/3/a)
 
-[^key-f0afe2484ce9060252ecfe9e55b5d4f2]: Textual amendment: [Rule 3.7(1)](https://www.legislation.gov.uk/ssi/2019/75/article/3.7/1) substituted (10.10.2026) by [Act of Sederunt (Taxation of Judicial Expenses Rules) (Amendment) 2026 (S.S.I. 2026/238)](https://www.legislation.gov.uk/ssi/2026/238), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/1/2), [2(3)(b)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/2/3/b)
+[^c-f0afe2484ce9060252ecfe9e55b5d4f2]: Textual amendment: [Rule 3.7(1)](https://www.legislation.gov.uk/ssi/2019/75/article/3.7/1) substituted (10.10.2026) by [Act of Sederunt (Taxation of Judicial Expenses Rules) (Amendment) 2026 (S.S.I. 2026/238)](https://www.legislation.gov.uk/ssi/2026/238), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/1/2), [2(3)(b)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/2/3/b)
 
-[^key-fb363e561d7120b45fdaf83825ae7030]: Textual amendment: Words in [rule 3.7(3)](https://www.legislation.gov.uk/ssi/2019/75/article/3.7/3) omitted (10.10.2026) by virtue of [Act of Sederunt (Taxation of Judicial Expenses Rules) (Amendment) 2026 (S.S.I. 2026/238)](https://www.legislation.gov.uk/ssi/2026/238), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/1/2), [2(3)(c)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/2/3/c)
+[^c-fb363e561d7120b45fdaf83825ae7030]: Textual amendment: Words in [rule 3.7(3)](https://www.legislation.gov.uk/ssi/2019/75/article/3.7/3) omitted (10.10.2026) by virtue of [Act of Sederunt (Taxation of Judicial Expenses Rules) (Amendment) 2026 (S.S.I. 2026/238)](https://www.legislation.gov.uk/ssi/2026/238), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/1/2), [2(3)(c)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/2/3/c)
 
-[^key-dfe26cebc4648a0750dcf3166ed9656e]: Commencement: [Rule 3.8](https://www.legislation.gov.uk/ssi/2019/75/rule/3.8) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-dfe26cebc4648a0750dcf3166ed9656e]: Commencement: [Rule 3.8](https://www.legislation.gov.uk/ssi/2019/75/rule/3.8) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-e880ddd6c3524ed52cfdb77c7a5d8b1e]: Commencement: [Rule 3.9](https://www.legislation.gov.uk/ssi/2019/75/rule/3.9) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-e880ddd6c3524ed52cfdb77c7a5d8b1e]: Commencement: [Rule 3.9](https://www.legislation.gov.uk/ssi/2019/75/rule/3.9) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-86e7aa7f228832446a92dde5097ad2f7]: Commencement: [Rule 3.10](https://www.legislation.gov.uk/ssi/2019/75/rule/3.10) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-86e7aa7f228832446a92dde5097ad2f7]: Commencement: [Rule 3.10](https://www.legislation.gov.uk/ssi/2019/75/rule/3.10) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-dc53481c28c65f4426490d58ed47e907]: Commencement: [Rule 4.1](https://www.legislation.gov.uk/ssi/2019/75/rule/4.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-dc53481c28c65f4426490d58ed47e907]: Commencement: [Rule 4.1](https://www.legislation.gov.uk/ssi/2019/75/rule/4.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-926d140d05f05f113928ef18bfbb0e26]: Commencement: [Rule 4.2](https://www.legislation.gov.uk/ssi/2019/75/rule/4.2) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-926d140d05f05f113928ef18bfbb0e26]: Commencement: [Rule 4.2](https://www.legislation.gov.uk/ssi/2019/75/rule/4.2) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-9eb31b7fe42a9008c2f1cdcf847097d6]: Textual amendment: Words in [rule 4.2](https://www.legislation.gov.uk/ssi/2019/75/article/4.2) inserted (10.10.2026) by [Act of Sederunt (Taxation of Judicial Expenses Rules) (Amendment) 2026 (S.S.I. 2026/238)](https://www.legislation.gov.uk/ssi/2026/238), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/2/4)
+[^c-9eb31b7fe42a9008c2f1cdcf847097d6]: Textual amendment: Words in [rule 4.2](https://www.legislation.gov.uk/ssi/2019/75/article/4.2) inserted (10.10.2026) by [Act of Sederunt (Taxation of Judicial Expenses Rules) (Amendment) 2026 (S.S.I. 2026/238)](https://www.legislation.gov.uk/ssi/2026/238), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2026/238/paragraph/2/4)
 
-[^key-5de5ea759a17f5492021413a21e913da]: Commencement: [Rule 4.3](https://www.legislation.gov.uk/ssi/2019/75/rule/4.3) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-5de5ea759a17f5492021413a21e913da]: Commencement: [Rule 4.3](https://www.legislation.gov.uk/ssi/2019/75/rule/4.3) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
 [^f00009]: Footnote: The Ordinary Cause Rules 1993 are in schedule 1 of the Sheriff Courts (Scotland) Act [1907 (c.51)](https://www.legislation.gov.uk/ukpga/1907/51). Schedule 1 was substituted by [S.I. 1993/1956](https://www.legislation.gov.uk/uksi/1993/1956) and last amended by [S.S.I. 2017/186](https://www.legislation.gov.uk/ssi/2017/186).
 
-[^key-d6bf439ad723927c7725c28368909c9f]: Commencement: [Rule 4.4](https://www.legislation.gov.uk/ssi/2019/75/rule/4.4) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-d6bf439ad723927c7725c28368909c9f]: Commencement: [Rule 4.4](https://www.legislation.gov.uk/ssi/2019/75/rule/4.4) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-e76a77817ecca1d6a919a86bd750b364]: Commencement: [Rule 4.5](https://www.legislation.gov.uk/ssi/2019/75/rule/4.5) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-e76a77817ecca1d6a919a86bd750b364]: Commencement: [Rule 4.5](https://www.legislation.gov.uk/ssi/2019/75/rule/4.5) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-14641bbe35d4fb17b392f0e5defc92c8]: Commencement: [Rule 4.6](https://www.legislation.gov.uk/ssi/2019/75/rule/4.6) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-14641bbe35d4fb17b392f0e5defc92c8]: Commencement: [Rule 4.6](https://www.legislation.gov.uk/ssi/2019/75/rule/4.6) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-dc55291944854a3ea73566bb2f34d14f]: Commencement: [Rule 5.1](https://www.legislation.gov.uk/ssi/2019/75/rule/5.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-dc55291944854a3ea73566bb2f34d14f]: Commencement: [Rule 5.1](https://www.legislation.gov.uk/ssi/2019/75/rule/5.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-b8f7d52c77e745e20c594573eb66f2f4]: Commencement: [Rule 5.2](https://www.legislation.gov.uk/ssi/2019/75/rule/5.2) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-b8f7d52c77e745e20c594573eb66f2f4]: Commencement: [Rule 5.2](https://www.legislation.gov.uk/ssi/2019/75/rule/5.2) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-1f279956e3389171b4ae5cdd8de5fa5b]: Commencement: [Rule 5.3](https://www.legislation.gov.uk/ssi/2019/75/rule/5.3) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-1f279956e3389171b4ae5cdd8de5fa5b]: Commencement: [Rule 5.3](https://www.legislation.gov.uk/ssi/2019/75/rule/5.3) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-f06329ad5ed286fd857e7b90cd09e99f]: Commencement: [Rule 5.4](https://www.legislation.gov.uk/ssi/2019/75/rule/5.4) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-f06329ad5ed286fd857e7b90cd09e99f]: Commencement: [Rule 5.4](https://www.legislation.gov.uk/ssi/2019/75/rule/5.4) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-d077bbc4ab9d661cc793c94125022430]: Commencement: [Rule 6.1](https://www.legislation.gov.uk/ssi/2019/75/rule/6.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-d077bbc4ab9d661cc793c94125022430]: Commencement: [Rule 6.1](https://www.legislation.gov.uk/ssi/2019/75/rule/6.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-b1f6cd5beec8ca8287af4e2cd963c3b1]: Commencement: [Rule 7.1](https://www.legislation.gov.uk/ssi/2019/75/rule/7.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-b1f6cd5beec8ca8287af4e2cd963c3b1]: Commencement: [Rule 7.1](https://www.legislation.gov.uk/ssi/2019/75/rule/7.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-88916e7cf915a7a88da7238624963e6b]: Commencement: [Rule 7.2](https://www.legislation.gov.uk/ssi/2019/75/rule/7.2) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-88916e7cf915a7a88da7238624963e6b]: Commencement: [Rule 7.2](https://www.legislation.gov.uk/ssi/2019/75/rule/7.2) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-a3f9ac715585101c3cf4f0bc09f508bc]: Commencement: [Rule 8.1](https://www.legislation.gov.uk/ssi/2019/75/rule/8.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-a3f9ac715585101c3cf4f0bc09f508bc]: Commencement: [Rule 8.1](https://www.legislation.gov.uk/ssi/2019/75/rule/8.1) in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-89724881d119349fda715ed8ccf827a3]: Commencement: Sch. 1 in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-89724881d119349fda715ed8ccf827a3]: Commencement: Sch. 1 in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-04042edda30210152b3155ca8c894f1c]: Commencement: Sch. 2 in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-04042edda30210152b3155ca8c894f1c]: Commencement: Sch. 2 in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-094a969abce9b55b3a4ebead5c0cadba]: Commencement: Sch. 3 in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-094a969abce9b55b3a4ebead5c0cadba]: Commencement: Sch. 3 in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-441baa3924e0ead293ab9849488f4605]: Commencement: Sch. 4 in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-441baa3924e0ead293ab9849488f4605]: Commencement: Sch. 4 in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-8f620542821e2993ac6f2a442999da6d]: Commencement: Sch. 5 in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-8f620542821e2993ac6f2a442999da6d]: Commencement: Sch. 5 in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-2a06610044a5c69627fe619e9c38ead2]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/ssi/2019/75/schedule/5A) inserted (2.10.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023 (S.S.I. 2023/223)](https://www.legislation.gov.uk/ssi/2023/223), [para. 1(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2023/223/schedule/2)
+[^c-2a06610044a5c69627fe619e9c38ead2]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/ssi/2019/75/schedule/5A) inserted (2.10.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 and Taxation of Judicial Expenses Rules 2019 Amendment) (Telecommunications Infrastructure) 2023 (S.S.I. 2023/223)](https://www.legislation.gov.uk/ssi/2023/223), [para. 1(2)](https://www.legislation.gov.uk/ssi/2023/223/paragraph/1/2), [sch. 2](https://www.legislation.gov.uk/ssi/2023/223/schedule/2)
 
-[^key-3becc634e0eb04c46e7a3fded71cc2b3]: Commencement: Sch. 6 in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-3becc634e0eb04c46e7a3fded71cc2b3]: Commencement: Sch. 6 in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
 
-[^key-fb2ee738bc7b6d572ae8d9913a37fa24]: Commencement: Sch. 7 in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)
+[^c-fb2ee738bc7b6d572ae8d9913a37fa24]: Commencement: Sch. 7 in force at 29.4.2019, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2019/75/rule/1.1/2)

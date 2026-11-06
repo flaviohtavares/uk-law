@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Distribution of company’s property.[^c19936891][^key-360e162c76870e90743992df36d30327]
+## 107. Distribution of company’s property.[^c19936891][^c-360e162c76870e90743992df36d30327]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ Subject to the provisions of this Act as to preferential payments, the company�
 
 [^c19936891]: Modification: S. 107 restricted (6.3.2008) by [The Regulated Covered Bonds Regulations 2008 (S.I. 2008/346)](https://www.legislation.gov.uk/uksi/2008/346), [reg. 46](https://www.legislation.gov.uk/uksi/2008/346/regulation/46), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2008/346/schedule/paragraph/2/2)
 
-[^key-360e162c76870e90743992df36d30327]: Modification: S. 107 modified (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2019/138/regulation/15) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))
+[^c-360e162c76870e90743992df36d30327]: Modification: S. 107 modified (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2019/138/regulation/15) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))

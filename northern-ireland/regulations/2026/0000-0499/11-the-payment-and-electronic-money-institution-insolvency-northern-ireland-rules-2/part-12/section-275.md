@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 275. Notifications relating to court orders[^key-ada6e23eb4de4c732cd2c7592a77de9b]
+## 275. Notifications relating to court orders[^c-ada6e23eb4de4c732cd2c7592a77de9b]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ In addition to the information required by rule 272 of these Rules, a notificati
 
 ## Annotations
 
-[^key-ada6e23eb4de4c732cd2c7592a77de9b]: Commencement: [Rule 275](https://www.legislation.gov.uk/nisr/2026/11/rule/275) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-ada6e23eb4de4c732cd2c7592a77de9b]: Commencement: [Rule 275](https://www.legislation.gov.uk/nisr/2026/11/rule/275) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

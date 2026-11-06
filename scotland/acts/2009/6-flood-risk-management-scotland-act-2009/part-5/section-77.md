@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Consultation required by sections 75 and 76[^key-64ed215ef3ff3d8c17aa772d8ae3e61e]
+## 77. Consultation required by sections 75 and 76[^c-64ed215ef3ff3d8c17aa772d8ae3e61e]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64ed215ef3ff3d8c17aa772d8ae3e61e]: Commencement: S. 77 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-64ed215ef3ff3d8c17aa772d8ae3e61e]: Commencement: S. 77 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

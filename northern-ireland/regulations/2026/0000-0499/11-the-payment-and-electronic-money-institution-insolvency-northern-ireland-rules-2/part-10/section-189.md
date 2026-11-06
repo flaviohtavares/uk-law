@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 189. Office copies of documents[^key-553bbf133a0986f830a50e95ddf56d8b]
+## 189. Office copies of documents[^c-553bbf133a0986f830a50e95ddf56d8b]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-553bbf133a0986f830a50e95ddf56d8b]: Commencement: [Rule 189](https://www.legislation.gov.uk/nisr/2026/11/rule/189) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-553bbf133a0986f830a50e95ddf56d8b]: Commencement: [Rule 189](https://www.legislation.gov.uk/nisr/2026/11/rule/189) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

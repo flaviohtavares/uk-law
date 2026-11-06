@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 307A. Disabled people: point of contact[^key-d0c459f6980bab758bc5a61ee5ba077b]
+## 307A. Disabled people: point of contact[^c-d0c459f6980bab758bc5a61ee5ba077b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ OFCOM must provide a single, easily accessible (including by people with disabil
 
 ## Annotations
 
-[^key-d0c459f6980bab758bc5a61ee5ba077b]: Textual amendment: S. 307A inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/1062/regulation/10) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-d0c459f6980bab758bc5a61ee5ba077b]: Textual amendment: S. 307A inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/1062/regulation/10) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))

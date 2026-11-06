@@ -25,7 +25,7 @@ summary: ''
 - (a) lease premiums within section 277,
 - (b) sums within section 279 (sums payable instead of rent),
 - (c) sums within section 280 (sums payable for surrender of a lease),
-- (d) sums within section 281 (sums payable for variation or waiver of terms[^key-069f5fd80844c6eb511663bb634859f0] of lease),
+- (d) sums within section 281 (sums payable for variation or waiver of terms[^c-069f5fd80844c6eb511663bb634859f0] of lease),
 - (e) consideration for the assignment of a lease within section 282 (lease granted at an undervalue), and
 - (f) amounts received on the sale of an estate or interest in land within section 284 (sales with right to re-conveyance) or section 285 (sale and leaseback transactions).
 
@@ -47,4 +47,4 @@ the relevant amount is the amount which, for the purpose of determining the amou
 
 ## Annotations
 
-[^key-069f5fd80844c6eb511663bb634859f0]: Textual amendment: Word in s. 158(1)(d) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 602](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/602) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-069f5fd80844c6eb511663bb634859f0]: Textual amendment: Word in s. 158(1)(d) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 602](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/602) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

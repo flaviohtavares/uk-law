@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29.13. Procedural hearing[^key-7bbc1616065f720a28bd27d263328daa]
+## 29.13. Procedural hearing[^c-7bbc1616065f720a28bd27d263328daa]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bbc1616065f720a28bd27d263328daa]: Commencement: Para. 29.13 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-7bbc1616065f720a28bd27d263328daa]: Commencement: Para. 29.13 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

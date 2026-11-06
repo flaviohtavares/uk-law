@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Pre-release access[^key-1b7862b60000aa819fa48f751a36215d]
+## 11. Pre-release access[^c-1b7862b60000aa819fa48f751a36215d]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 - (a) make different provision for different cases, and
 - (b) allow for the exercise of discretion by persons responsible for official statistics.
 
-(5A)[^key-abc34b42cf215fe05fc4349da3ad261e] Subsections (2) to (5) are subject to section 11A.
+(5A)[^c-abc34b42cf215fe05fc4349da3ad261e] Subsections (2) to (5) are subject to section 11A.
 
 (6) In this section “**appropriate authority**” means—
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b7862b60000aa819fa48f751a36215d]: Commencement: S. 11 in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/b)
+[^c-1b7862b60000aa819fa48f751a36215d]: Commencement: S. 11 in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/b)
 
-[^key-abc34b42cf215fe05fc4349da3ad261e]: Textual amendment: S. 11(5A) inserted (S.) (22.4.2021) by [Pre-release Access to Official Statistics (Scotland) Act 2021 (asp 11)](https://www.legislation.gov.uk/asp/2021/11), [ss. 1(2)](https://www.legislation.gov.uk/asp/2021/11/section/1/2), [4](https://www.legislation.gov.uk/asp/2021/11/section/4)
+[^c-abc34b42cf215fe05fc4349da3ad261e]: Textual amendment: S. 11(5A) inserted (S.) (22.4.2021) by [Pre-release Access to Official Statistics (Scotland) Act 2021 (asp 11)](https://www.legislation.gov.uk/asp/2021/11), [ss. 1(2)](https://www.legislation.gov.uk/asp/2021/11/section/1/2), [4](https://www.legislation.gov.uk/asp/2021/11/section/4)

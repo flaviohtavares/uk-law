@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 267. Applications for costs[^key-41a41a1d509ec1a9d458b2fa63c54454]
+## 267. Applications for costs[^c-41a41a1d509ec1a9d458b2fa63c54454]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41a41a1d509ec1a9d458b2fa63c54454]: Commencement: [Rule 267](https://www.legislation.gov.uk/uksi/2011/1301/rule/267) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-41a41a1d509ec1a9d458b2fa63c54454]: Commencement: [Rule 267](https://www.legislation.gov.uk/uksi/2011/1301/rule/267) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

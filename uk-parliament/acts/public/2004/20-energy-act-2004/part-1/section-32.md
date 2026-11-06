@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Examination of the Account[^key-dd5e81abbcc2017176701ab5e10cc513]
+## 32. Examination of the Account[^c-dd5e81abbcc2017176701ab5e10cc513]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd5e81abbcc2017176701ab5e10cc513]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2004/20/section/32) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-dd5e81abbcc2017176701ab5e10cc513]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2004/20/section/32) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

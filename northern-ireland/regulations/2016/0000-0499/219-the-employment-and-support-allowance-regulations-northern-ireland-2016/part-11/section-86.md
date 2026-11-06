@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 86. Linking period[^key-d375348cfc57b6c74a4fea4f5d33a918]
+## 86. Linking period[^c-d375348cfc57b6c74a4fea4f5d33a918]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Any period of limited capability for work which is separated from another such p
 
 ## Annotations
 
-[^key-d375348cfc57b6c74a4fea4f5d33a918]: Commencement: [Reg. 86](https://www.legislation.gov.uk/nisr/2016/219/regulation/86) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-d375348cfc57b6c74a4fea4f5d33a918]: Commencement: [Reg. 86](https://www.legislation.gov.uk/nisr/2016/219/regulation/86) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

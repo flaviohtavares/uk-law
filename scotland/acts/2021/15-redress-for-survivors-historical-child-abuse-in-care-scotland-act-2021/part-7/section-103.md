@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Dissolution of the National Confidential Forum[^key-ee75ccbcae944539457c116ea326f9db]
+## 103. Dissolution of the National Confidential Forum[^c-ee75ccbcae944539457c116ea326f9db]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee75ccbcae944539457c116ea326f9db]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2021/15/section/103) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-ee75ccbcae944539457c116ea326f9db]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2021/15/section/103) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

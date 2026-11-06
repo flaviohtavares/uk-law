@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Professional principles[^key-430be51d5f604c73fbca4b72d50cfc2c]
+## 2. Professional principles[^c-430be51d5f604c73fbca4b72d50cfc2c]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ For the purposes of this Act, the professional principles are the principles tha
 
 ## Annotations
 
-[^key-430be51d5f604c73fbca4b72d50cfc2c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2010/16/section/2) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-430be51d5f604c73fbca4b72d50cfc2c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2010/16/section/2) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

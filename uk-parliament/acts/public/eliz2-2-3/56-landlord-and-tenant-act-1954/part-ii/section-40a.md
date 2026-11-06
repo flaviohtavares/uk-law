@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40A. Duties in transfer cases[^key-36bb8fb7405c886a6bdc5ec332637e78]
+## 40A. Duties in transfer cases[^c-36bb8fb7405c886a6bdc5ec332637e78]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ any duty imposed by section 40 of this Act may be performed by giving the inform
 
 ## Annotations
 
-[^key-36bb8fb7405c886a6bdc5ec332637e78]: Textual amendment: S. 40A inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [24](https://www.legislation.gov.uk/uksi/2003/3096/article/24)
+[^c-36bb8fb7405c886a6bdc5ec332637e78]: Textual amendment: S. 40A inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [24](https://www.legislation.gov.uk/uksi/2003/3096/article/24)

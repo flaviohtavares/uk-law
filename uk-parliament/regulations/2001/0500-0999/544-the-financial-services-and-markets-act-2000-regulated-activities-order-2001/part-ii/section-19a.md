@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19A. Transformer vehicles: insurance risk transformation[^key-786befba2f8a5bbe0ed06d47f702834b]
+## 19A. Transformer vehicles: insurance risk transformation[^c-786befba2f8a5bbe0ed06d47f702834b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A transformer vehicle does not carry on an activity of a kind specified by artic
 
 ## Annotations
 
-[^key-786befba2f8a5bbe0ed06d47f702834b]: Textual amendment: [Art. 19A](https://www.legislation.gov.uk/uksi/2001/544/article/19A) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/5/4)
+[^c-786befba2f8a5bbe0ed06d47f702834b]: Textual amendment: [Art. 19A](https://www.legislation.gov.uk/uksi/2001/544/article/19A) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/5/4)

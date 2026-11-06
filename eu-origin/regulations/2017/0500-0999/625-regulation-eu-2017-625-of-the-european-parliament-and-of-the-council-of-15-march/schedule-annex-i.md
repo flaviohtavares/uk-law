@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX I — TERRITORIES REFERRED TO IN POINT 40 OF ARTICLE 3, EXCEPT FOR THE APPLICATION OF POINT (G) OF ARTICLE 1(2)[^key-aab0a73fef9e45e54c913c8b7f23b9df]
+## ANNEX I — TERRITORIES REFERRED TO IN POINT 40 OF ARTICLE 3, EXCEPT FOR THE APPLICATION OF POINT (G) OF ARTICLE 1(2)[^c-aab0a73fef9e45e54c913c8b7f23b9df]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aab0a73fef9e45e54c913c8b7f23b9df]: Textual amendment: Annex 1 omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [29(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/29/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-aab0a73fef9e45e54c913c8b7f23b9df]: Textual amendment: Annex 1 omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [29(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/29/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

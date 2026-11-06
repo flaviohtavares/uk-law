@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Transitional provisions[^key-22d49b0b42dbbd7d748ef8b624a165c7]
+## 28. Transitional provisions[^c-22d49b0b42dbbd7d748ef8b624a165c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 has effect.
 
 ## Annotations
 
-[^key-22d49b0b42dbbd7d748ef8b624a165c7]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-22d49b0b42dbbd7d748ef8b624a165c7]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)

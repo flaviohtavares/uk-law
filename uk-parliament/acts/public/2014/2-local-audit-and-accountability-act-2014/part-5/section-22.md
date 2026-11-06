@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Auditors' right to documents and information[^key-1037b4ea80092d41ae3465d3834625e0][^key-507eabe4e4bdc409908ab00f6c19ca01]
+## 22. Auditors' right to documents and information[^c-1037b4ea80092d41ae3465d3834625e0][^c-507eabe4e4bdc409908ab00f6c19ca01]
 
 *Extent: E+W*
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1037b4ea80092d41ae3465d3834625e0]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/2/section/22) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(o)](https://www.legislation.gov.uk/uksi/2015/841/article/3/o) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-1037b4ea80092d41ae3465d3834625e0]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2014/2/section/22) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(o)](https://www.legislation.gov.uk/uksi/2015/841/article/3/o) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/1)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-507eabe4e4bdc409908ab00f6c19ca01]: Modification: [Ss. 22](https://www.legislation.gov.uk/ukpga/2014/2/section/22) [23](https://www.legislation.gov.uk/ukpga/2014/2/section/23) applied by 2008 c. 17, s. 210A(1B) (as inserted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 95(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/95/3); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2))
+[^c-507eabe4e4bdc409908ab00f6c19ca01]: Modification: [Ss. 22](https://www.legislation.gov.uk/ukpga/2014/2/section/22) [23](https://www.legislation.gov.uk/ukpga/2014/2/section/23) applied by 2008 c. 17, s. 210A(1B) (as inserted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 95(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/95/3); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2))

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The holder of a marketing authorisation or parallel import licence[^key-a26666b27fd9318b5d46c63292e8a366] is guilty of an offence if the holder provides any information to which paragraph (2) applies that is relevant to the evaluation of the safety, quality or efficacy of a medicinal product but that is false or misleading in a material particular to—
+(1) The holder of a marketing authorisation or parallel import licence[^c-a26666b27fd9318b5d46c63292e8a366] is guilty of an offence if the holder provides any information to which paragraph (2) applies that is relevant to the evaluation of the safety, quality or efficacy of a medicinal product but that is false or misleading in a material particular to—
 
 - (a) the licensing authority;
 - (b) the EMA; or
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a26666b27fd9318b5d46c63292e8a366]: Textual amendment: Words in reg. 96(1) inserted (E.W.S.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1878)](https://www.legislation.gov.uk/uksi/2014/1878), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1878/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/1878/regulation/4) and words in reg. 96(1) inserted (N.I.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.R. 2014/324)](https://www.legislation.gov.uk/nisr/2014/324), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/324/regulation/1/1), [4(2)(o)](https://www.legislation.gov.uk/nisr/2014/324/regulation/4/2/o)
+[^c-a26666b27fd9318b5d46c63292e8a366]: Textual amendment: Words in reg. 96(1) inserted (E.W.S.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1878)](https://www.legislation.gov.uk/uksi/2014/1878), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1878/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/1878/regulation/4) and words in reg. 96(1) inserted (N.I.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.R. 2014/324)](https://www.legislation.gov.uk/nisr/2014/324), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/324/regulation/1/1), [4(2)(o)](https://www.legislation.gov.uk/nisr/2014/324/regulation/4/2/o)

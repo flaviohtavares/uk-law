@@ -22,7 +22,7 @@ summary: ''
 
 Article 13
 
-### PART 1 — PRIVATE MEANS OF ACCESS TO BE REPLACED[^key-a7f65e304f0c823d6a53f6440d374284]
+### PART 1 — PRIVATE MEANS OF ACCESS TO BE REPLACED[^c-a7f65e304f0c823d6a53f6440d374284]
 
 <table>
 <thead>
@@ -48,7 +48,7 @@ Article 13
 </tbody>
 </table>
 
-### PART 2 — PRIVATE MEANS OF ACCESS TO BE CLOSED FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-459013db4b02a183ecdaf4279f3cbe78]
+### PART 2 — PRIVATE MEANS OF ACCESS TO BE CLOSED FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-459013db4b02a183ecdaf4279f3cbe78]
 
 <table>
 <thead>
@@ -66,7 +66,7 @@ Article 13
 </tbody>
 </table>
 
-### PART 3 — NEW PRIVATE MEANS OF ACCESS CREATED[^key-53300dd1b2a77c2a60af01ea12f33cab]
+### PART 3 — NEW PRIVATE MEANS OF ACCESS CREATED[^c-53300dd1b2a77c2a60af01ea12f33cab]
 
 <table>
 <thead>
@@ -82,8 +82,8 @@ Article 13
 
 ## Annotations
 
-[^key-a7f65e304f0c823d6a53f6440d374284]: Commencement: Sch. 6 Pt. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-a7f65e304f0c823d6a53f6440d374284]: Commencement: Sch. 6 Pt. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-459013db4b02a183ecdaf4279f3cbe78]: Commencement: Sch. 6 Pt. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-459013db4b02a183ecdaf4279f3cbe78]: Commencement: Sch. 6 Pt. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-53300dd1b2a77c2a60af01ea12f33cab]: Commencement: Sch. 6 Pt. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-53300dd1b2a77c2a60af01ea12f33cab]: Commencement: Sch. 6 Pt. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

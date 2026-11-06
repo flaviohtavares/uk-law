@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40C. Cases where section 40B does not apply[^key-d919683270797b7e3831f2899bc1bda2]
+## 40C. Cases where section 40B does not apply[^c-d919683270797b7e3831f2899bc1bda2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d919683270797b7e3831f2899bc1bda2]: Textual amendment: Ss. 40A-43 repealed (19.7.2006) (with effect in accordance with Sch. 26 Pt. 3(4) Note 1 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/4)
+[^c-d919683270797b7e3831f2899bc1bda2]: Textual amendment: Ss. 40A-43 repealed (19.7.2006) (with effect in accordance with Sch. 26 Pt. 3(4) Note 1 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/4)

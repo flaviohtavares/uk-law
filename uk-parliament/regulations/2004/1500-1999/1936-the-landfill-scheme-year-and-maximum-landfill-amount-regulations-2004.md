@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Landfill (Scheme Year and Maximum Landfill Amount) Regulations 2004 (revoked)[^key-1a8f7a95a84ce1f666ab6d441cf44504]
+The Landfill (Scheme Year and Maximum Landfill Amount) Regulations 2004 (revoked)[^c-1a8f7a95a84ce1f666ab6d441cf44504]
 
 Made
 
@@ -40,42 +40,42 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-1a8f7a95a84ce1f666ab6d441cf44504]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a8f7a95a84ce1f666ab6d441cf44504]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-1a8f7a95a84ce1f666ab6d441cf44504]
+## 1. Citation and Commencement[^c-1a8f7a95a84ce1f666ab6d441cf44504]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Waste and Emissions Trading Act 2003[^key-1a8f7a95a84ce1f666ab6d441cf44504]
+## 2. Amendment of the Waste and Emissions Trading Act 2003[^c-1a8f7a95a84ce1f666ab6d441cf44504]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Landfill Targets[^key-1a8f7a95a84ce1f666ab6d441cf44504]
+## 3. Landfill Targets[^c-1a8f7a95a84ce1f666ab6d441cf44504]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Maximum Amount of Waste sent to Landfill from England in Non-target years[^key-1a8f7a95a84ce1f666ab6d441cf44504]
+## 4. Maximum Amount of Waste sent to Landfill from England in Non-target years[^c-1a8f7a95a84ce1f666ab6d441cf44504]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Maximum Amount of Waste sent to Landfill from Scotland in Non-target years[^key-1a8f7a95a84ce1f666ab6d441cf44504]
+## 5. Maximum Amount of Waste sent to Landfill from Scotland in Non-target years[^c-1a8f7a95a84ce1f666ab6d441cf44504]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Maximum Amount of Waste sent to Landfill from Wales in Non-target years[^key-1a8f7a95a84ce1f666ab6d441cf44504]
+## 6. Maximum Amount of Waste sent to Landfill from Wales in Non-target years[^c-1a8f7a95a84ce1f666ab6d441cf44504]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Maximum Amount of Waste sent to Landfill from Northern Ireland in Non-target years[^key-1a8f7a95a84ce1f666ab6d441cf44504]
+## 7. Maximum Amount of Waste sent to Landfill from Northern Ireland in Non-target years[^c-1a8f7a95a84ce1f666ab6d441cf44504]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a8f7a95a84ce1f666ab6d441cf44504]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a8f7a95a84ce1f666ab6d441cf44504]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a8f7a95a84ce1f666ab6d441cf44504]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a8f7a95a84ce1f666ab6d441cf44504]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a8f7a95a84ce1f666ab6d441cf44504]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/1936) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)
+[^c-1a8f7a95a84ce1f666ab6d441cf44504]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/1936) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)

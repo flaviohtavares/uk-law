@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Application of sections 355A and 355B of FSMA[^key-fc405fc6620800b6d1b4e0b57fdc4a46]
+## 5A. Application of sections 355A and 355B of FSMA[^c-fc405fc6620800b6d1b4e0b57fdc4a46]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc405fc6620800b6d1b4e0b57fdc4a46]: Textual amendment: Art. 5A inserted (18.7.2020) by The Co-operative and [Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [9](https://www.legislation.gov.uk/uksi/2020/744/article/9)
+[^c-fc405fc6620800b6d1b4e0b57fdc4a46]: Textual amendment: Art. 5A inserted (18.7.2020) by The Co-operative and [Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [9](https://www.legislation.gov.uk/uksi/2020/744/article/9)

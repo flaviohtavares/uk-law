@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Basic personal information held by a relevant public authority may, on the application of the designated officer for a magistrates' court[^c19415291], be supplied by the authority to him [^key-1fb97204f4e66c1a1b821077ff94f0ef]... for the purpose of facilitating the enforcement of a section 125A(1) warrant which is so specified.
+(1) Basic personal information held by a relevant public authority may, on the application of the designated officer for a magistrates' court[^c19415291], be supplied by the authority to him [^c-1fb97204f4e66c1a1b821077ff94f0ef]... for the purpose of facilitating the enforcement of a section 125A(1) warrant which is so specified.
 
 (2) In this section—
 
@@ -32,7 +32,7 @@ summary: ''
 
 - (a) any person entitled to execute the warrant;
 - (b) any employee of a body or person who, for the purposes of section 125B above, is an approved enforcement agency in relation to the warrant; or
-- (c)[^c19415311] any [^key-8c0242d3abae2bad6e79e93760095344]... person appointed under section 2(1) of the Courts Act 2003.
+- (c)[^c19415311] any [^c-8c0242d3abae2bad6e79e93760095344]... person appointed under section 2(1) of the Courts Act 2003.
 
 (4) A person who intentionally or recklessly—
 
@@ -63,10 +63,10 @@ commits an offence.
 
 [^c19415291]: Textual amendment: Words in s. 125C(1) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 240(2)(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/240/2/a); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-1fb97204f4e66c1a1b821077ff94f0ef]: Textual amendment: Words in s. 125C(1) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 8(2)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/8/2); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-1fb97204f4e66c1a1b821077ff94f0ef]: Textual amendment: Words in s. 125C(1) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 8(2)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/8/2); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
 [^c19415361]: Textual amendment: Words in s. 125C(2) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1/3), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 240(3)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/240/3), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y/aa)
 
 [^c19415311]: Textual amendment: S. 125C(3)(c) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 240(4)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/240/4); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-8c0242d3abae2bad6e79e93760095344]: Textual amendment: Words in s. 125C(3)(c) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 8(3)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/8/3); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-8c0242d3abae2bad6e79e93760095344]: Textual amendment: Words in s. 125C(3)(c) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 8(3)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/8/3); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)

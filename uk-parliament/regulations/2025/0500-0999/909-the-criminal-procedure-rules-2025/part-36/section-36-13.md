@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.13. Abandoning an appeal[^key-b1a55e084b61c91da3dfe430f4fa5ee1]
+## 36.13. Abandoning an appeal[^c-b1a55e084b61c91da3dfe430f4fa5ee1]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1a55e084b61c91da3dfe430f4fa5ee1]: Commencement: [Rule 36.13](https://www.legislation.gov.uk/uksi/2025/909/rule/36.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b1a55e084b61c91da3dfe430f4fa5ee1]: Commencement: [Rule 36.13](https://www.legislation.gov.uk/uksi/2025/909/rule/36.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

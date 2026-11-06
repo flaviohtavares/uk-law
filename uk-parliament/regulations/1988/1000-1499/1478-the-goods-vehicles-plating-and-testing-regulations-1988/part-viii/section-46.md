@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Certificates of temporary exemption[^key-e0469193edce208894e63e1d5a0cc5d3]
+## 46. Certificates of temporary exemption[^c-e0469193edce208894e63e1d5a0cc5d3]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0469193edce208894e63e1d5a0cc5d3]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/1988/1478/regulation/46) omitted (21.8.2020) by virtue of [The Road Vehicles (Certificates of Temporary Exemption) Regulations 2020 (S.I. 2020/812)](https://www.legislation.gov.uk/uksi/2020/812), [regs. 1](https://www.legislation.gov.uk/uksi/2020/812/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/812/regulation/7/2/b)
+[^c-e0469193edce208894e63e1d5a0cc5d3]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/1988/1478/regulation/46) omitted (21.8.2020) by virtue of [The Road Vehicles (Certificates of Temporary Exemption) Regulations 2020 (S.I. 2020/812)](https://www.legislation.gov.uk/uksi/2020/812), [regs. 1](https://www.legislation.gov.uk/uksi/2020/812/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/812/regulation/7/2/b)

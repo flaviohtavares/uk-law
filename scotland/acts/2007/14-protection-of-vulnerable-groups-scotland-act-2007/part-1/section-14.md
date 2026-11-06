@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-94f73aa23b3439e142b643cab87d53cc] Ministers must list an individual in the children's list where it appears to them that any of the criteria specified for the purposes of this subsection is satisfied in relation to the individual.
+(1)[^c-94f73aa23b3439e142b643cab87d53cc] Ministers must list an individual in the children's list where it appears to them that any of the criteria specified for the purposes of this subsection is satisfied in relation to the individual.
 
-(2)[^key-94f73aa23b3439e142b643cab87d53cc] Ministers must list an individual in the adults' list where it appears to them that any of the criteria specified for the purposes of this subsection is satisfied in relation to the individual.
+(2)[^c-94f73aa23b3439e142b643cab87d53cc] Ministers must list an individual in the adults' list where it appears to them that any of the criteria specified for the purposes of this subsection is satisfied in relation to the individual.
 
-(3)[^key-98945911b006fa9ad18a69af06e93a6e][^key-8d3881f4040355c30b7ae1f5eb480680] It is for Ministers to specify by order criteria for the purposes of subsections (1) and (2).
+(3)[^c-98945911b006fa9ad18a69af06e93a6e][^c-8d3881f4040355c30b7ae1f5eb480680] It is for Ministers to specify by order criteria for the purposes of subsections (1) and (2).
 
-(4)[^key-98945911b006fa9ad18a69af06e93a6e][^key-8d3881f4040355c30b7ae1f5eb480680] Criteria which may be so specified include—
+(4)[^c-98945911b006fa9ad18a69af06e93a6e][^c-8d3881f4040355c30b7ae1f5eb480680] Criteria which may be so specified include—
 
 - (a) that an individual has been convicted of, or cautioned in relation to, an offence of a specified description, including offences under—
   - (i) the law of England, Wales, Northern Ireland, the Channel Islands or the Isle of Man,
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-94f73aa23b3439e142b643cab87d53cc]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2007/14/section/14/1)[(2)](https://www.legislation.gov.uk/asp/2007/14/section/14/2) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-94f73aa23b3439e142b643cab87d53cc]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2007/14/section/14/1)[(2)](https://www.legislation.gov.uk/asp/2007/14/section/14/2) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
 
-[^key-98945911b006fa9ad18a69af06e93a6e]: Commencement: [S. 14(3)](https://www.legislation.gov.uk/asp/2007/14/section/14/3)[(4)](https://www.legislation.gov.uk/asp/2007/14/section/14/4) in force at 18.4.2010 for specified purposes by [S.S.I. 2010/133](https://www.legislation.gov.uk/ssi/2010/133), [art. 2](https://www.legislation.gov.uk/ssi/2010/133/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/133/schedule)
+[^c-98945911b006fa9ad18a69af06e93a6e]: Commencement: [S. 14(3)](https://www.legislation.gov.uk/asp/2007/14/section/14/3)[(4)](https://www.legislation.gov.uk/asp/2007/14/section/14/4) in force at 18.4.2010 for specified purposes by [S.S.I. 2010/133](https://www.legislation.gov.uk/ssi/2010/133), [art. 2](https://www.legislation.gov.uk/ssi/2010/133/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/133/schedule)
 
-[^key-8d3881f4040355c30b7ae1f5eb480680]: Commencement: [S. 14(3)](https://www.legislation.gov.uk/asp/2007/14/section/14/3)[(4)](https://www.legislation.gov.uk/asp/2007/14/section/14/4) in force at 28.2.2011 in so far as not already in force by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-8d3881f4040355c30b7ae1f5eb480680]: Commencement: [S. 14(3)](https://www.legislation.gov.uk/asp/2007/14/section/14/3)[(4)](https://www.legislation.gov.uk/asp/2007/14/section/14/4) in force at 28.2.2011 in so far as not already in force by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)

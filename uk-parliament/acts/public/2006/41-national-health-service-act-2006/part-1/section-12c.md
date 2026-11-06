@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12C. Direct payments pilot schemes[^key-5fa311cd640bc6dd3f28029e1e18e6cd][^key-e8a263d827f1e306f985b06a04ef3783]
+## 12C. Direct payments pilot schemes[^c-5fa311cd640bc6dd3f28029e1e18e6cd][^c-e8a263d827f1e306f985b06a04ef3783]
 
 *Extent: E+W*
 
-(1)[^key-dbaeb76f59b9d1b431715c70653bb553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-dbaeb76f59b9d1b431715c70653bb553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-dbaeb76f59b9d1b431715c70653bb553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-dbaeb76f59b9d1b431715c70653bb553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-dbaeb76f59b9d1b431715c70653bb553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-dbaeb76f59b9d1b431715c70653bb553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-dbaeb76f59b9d1b431715c70653bb553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-dbaeb76f59b9d1b431715c70653bb553] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Provision as to the review of a pilot scheme may in particular include provision—
 
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5fa311cd640bc6dd3f28029e1e18e6cd]: Textual amendment: Ss. 12A-12D and cross-heading inserted (19.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 11](https://www.legislation.gov.uk/ukpga/2009/21/section/11), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/30/article/2/b)
+[^c-5fa311cd640bc6dd3f28029e1e18e6cd]: Textual amendment: Ss. 12A-12D and cross-heading inserted (19.1.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 11](https://www.legislation.gov.uk/ukpga/2009/21/section/11), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1); [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/30/article/2/b)
 
-[^key-e8a263d827f1e306f985b06a04ef3783]: Textual amendment: [S. 12ZB](https://www.legislation.gov.uk/ukpga/2006/41/section/12ZB) and cross-heading inserted (1.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 79](https://www.legislation.gov.uk/ukpga/2022/31/section/79), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/b)
+[^c-e8a263d827f1e306f985b06a04ef3783]: Textual amendment: [S. 12ZB](https://www.legislation.gov.uk/ukpga/2006/41/section/12ZB) and cross-heading inserted (1.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 79](https://www.legislation.gov.uk/ukpga/2022/31/section/79), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/b)
 
-[^key-dbaeb76f59b9d1b431715c70653bb553]: Textual amendment: [Ss. 12C(1)-(4)](https://www.legislation.gov.uk/ukpga/2006/41/section/12C/1) repealed (E.) (1.8.2013) by [The National Health Service (Direct Payments) (Repeal of Pilot Schemes Limitation) Order 2013 (S.I. 2013/1563)](https://www.legislation.gov.uk/uksi/2013/1563), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1563/article/1), [2](https://www.legislation.gov.uk/uksi/2013/1563/article/2)
+[^c-dbaeb76f59b9d1b431715c70653bb553]: Textual amendment: [Ss. 12C(1)-(4)](https://www.legislation.gov.uk/ukpga/2006/41/section/12C/1) repealed (E.) (1.8.2013) by [The National Health Service (Direct Payments) (Repeal of Pilot Schemes Limitation) Order 2013 (S.I. 2013/1563)](https://www.legislation.gov.uk/uksi/2013/1563), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1563/article/1), [2](https://www.legislation.gov.uk/uksi/2013/1563/article/2)

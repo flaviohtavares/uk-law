@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61A. Reports to Chief Constable and Board.[^key-69da8a5bbd780a95922c413a4de59566]
+## 61A. Reports to Chief Constable and Board.[^c-69da8a5bbd780a95922c413a4de59566]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69da8a5bbd780a95922c413a4de59566]: Textual amendment: S. 61A repealed (8.4.2003) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2003/6/section/13/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/6/schedule/4)
+[^c-69da8a5bbd780a95922c413a4de59566]: Textual amendment: S. 61A repealed (8.4.2003) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2003/6/section/13/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2003/6/schedule/4)

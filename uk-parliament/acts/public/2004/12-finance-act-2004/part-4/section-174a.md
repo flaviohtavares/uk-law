@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174A. Taxable property held by investment-regulated pension schemes[^key-b7d18d0ca75b7629314a106230f59cb5]
+## 174A. Taxable property held by investment-regulated pension schemes[^c-b7d18d0ca75b7629314a106230f59cb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7d18d0ca75b7629314a106230f59cb5]: Textual amendment: S. 174A inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 158(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/158/2), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2006/25/schedule/21/paragraph/5)
+[^c-b7d18d0ca75b7629314a106230f59cb5]: Textual amendment: S. 174A inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 158(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/158/2), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2006/25/schedule/21/paragraph/5)

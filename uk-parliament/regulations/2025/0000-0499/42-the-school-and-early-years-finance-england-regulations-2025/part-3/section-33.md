@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Social deprivation for early years[^key-e67238306d684b44b31c8a4a8611a543]
+## 33. Social deprivation for early years[^c-e67238306d684b44b31c8a4a8611a543]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ in respect of disadvantaged two year olds, working parent two year olds, and wor
 
 ## Annotations
 
-[^key-e67238306d684b44b31c8a4a8611a543]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2025/42/regulation/33) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-e67238306d684b44b31c8a4a8611a543]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2025/42/regulation/33) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Appeals against OFCOM notices[^key-9612d250144840bc6c3b36874cc61e6f][^key-71eded176b05df3683bb7f728f4a4965]
+## 168. Appeals against OFCOM notices[^c-9612d250144840bc6c3b36874cc61e6f][^c-71eded176b05df3683bb7f728f4a4965]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ may be brought by any person with a sufficient interest in the decision.
 
 ## Annotations
 
-[^key-9612d250144840bc6c3b36874cc61e6f]: Commencement: S. 168 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-9612d250144840bc6c3b36874cc61e6f]: Commencement: S. 168 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-71eded176b05df3683bb7f728f4a4965]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2023/50/section/168) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z20)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z20)
+[^c-71eded176b05df3683bb7f728f4a4965]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2023/50/section/168) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z20)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z20)

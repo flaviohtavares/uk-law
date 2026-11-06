@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-041291dbf9585a367a12180e79042f13] Section 61 of PACE (fingerprinting) is amended as provided in subsections (2) to (4).
+(1)[^c-041291dbf9585a367a12180e79042f13] Section 61 of PACE (fingerprinting) is amended as provided in subsections (2) to (4).
 
-(2)[^key-041291dbf9585a367a12180e79042f13] After subsection (6) insert—
+(2)[^c-041291dbf9585a367a12180e79042f13] After subsection (6) insert—
 
 > (6A) A constable may take a person's fingerprints without the appropriate consent if—
 >
@@ -40,10 +40,10 @@ summary: ''
 
 (4) In subsection (7A)—
 
-- (a)[^key-dd2fcb211feffa8b00e1e4b3b9fab7b2] after “police station,” insert “ or by virtue of subsection (6A) at a place other than a police station, ”,
+- (a)[^c-dd2fcb211feffa8b00e1e4b3b9fab7b2] after “police station,” insert “ or by virtue of subsection (6A) at a place other than a police station, ”,
 - (b) in paragraph (a), after “an officer” insert “ (or, in a subsection (6A) case, the constable) ”.
 
-(5)[^key-470f775c68d85812dcd70151ddc4d353] In section 63A of PACE (fingerprints and samples: supplementary provisions)—
+(5)[^c-470f775c68d85812dcd70151ddc4d353] In section 63A of PACE (fingerprints and samples: supplementary provisions)—
 
 - (a) after subsection (1) insert—
 
@@ -52,22 +52,22 @@ summary: ''
   ,
 - (b) in subsection (1A), after “subsection (1)” insert “ and (1ZA) ”.
 
-(6)[^key-6175414377069ce53fb323ee45e47b22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-6175414377069ce53fb323ee45e47b22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-6175414377069ce53fb323ee45e47b22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-6175414377069ce53fb323ee45e47b22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-6175414377069ce53fb323ee45e47b22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-6175414377069ce53fb323ee45e47b22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-6175414377069ce53fb323ee45e47b22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-6175414377069ce53fb323ee45e47b22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-6175414377069ce53fb323ee45e47b22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-6175414377069ce53fb323ee45e47b22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-041291dbf9585a367a12180e79042f13]: Commencement: S. 117(1)(2) in force at 7.3.2011 by [S.I. 2011/410](https://www.legislation.gov.uk/uksi/2011/410), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/410/article/2/a)
+[^c-041291dbf9585a367a12180e79042f13]: Commencement: S. 117(1)(2) in force at 7.3.2011 by [S.I. 2011/410](https://www.legislation.gov.uk/uksi/2011/410), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/410/article/2/a)
 
-[^key-dd2fcb211feffa8b00e1e4b3b9fab7b2]: Commencement: S. 117(4)(a) in force at 7.3.2011 by [S.I. 2011/410](https://www.legislation.gov.uk/uksi/2011/410), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/410/article/2/b)
+[^c-dd2fcb211feffa8b00e1e4b3b9fab7b2]: Commencement: S. 117(4)(a) in force at 7.3.2011 by [S.I. 2011/410](https://www.legislation.gov.uk/uksi/2011/410), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/410/article/2/b)
 
-[^key-470f775c68d85812dcd70151ddc4d353]: Commencement: S. 117(5) in force at 7.3.2011 by [S.I. 2011/410](https://www.legislation.gov.uk/uksi/2011/410), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/410/article/2/c)
+[^c-470f775c68d85812dcd70151ddc4d353]: Commencement: S. 117(5) in force at 7.3.2011 by [S.I. 2011/410](https://www.legislation.gov.uk/uksi/2011/410), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/410/article/2/c)
 
-[^key-6175414377069ce53fb323ee45e47b22]: Textual amendment: S. 117(6)-(10) repealed (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/d)
+[^c-6175414377069ce53fb323ee45e47b22]: Textual amendment: S. 117(6)-(10) repealed (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/d)

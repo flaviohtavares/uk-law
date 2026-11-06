@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 197. Periods of time expressed in months[^key-a262377eb5a74cb9e67dc36f5a65af58]
+## 197. Periods of time expressed in months[^c-a262377eb5a74cb9e67dc36f5a65af58]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a262377eb5a74cb9e67dc36f5a65af58]: Commencement: Rule 197 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-a262377eb5a74cb9e67dc36f5a65af58]: Commencement: Rule 197 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

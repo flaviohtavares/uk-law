@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Maximum period of child protection order[^key-796f4feace8fc4c84f720af9075cddff]
+## 83. Maximum period of child protection order[^c-796f4feace8fc4c84f720af9075cddff]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In each of paragraphs (c) and (d) of section 54 of the 2011 Act, after “day”
 
 ## Annotations
 
-[^key-796f4feace8fc4c84f720af9075cddff]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2014/8/section/83) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/353/article/3))
+[^c-796f4feace8fc4c84f720af9075cddff]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2014/8/section/83) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/353/article/3))

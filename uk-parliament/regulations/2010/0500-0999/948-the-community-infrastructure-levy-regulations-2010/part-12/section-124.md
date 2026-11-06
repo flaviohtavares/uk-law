@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Payment of CIL by the Crown[^key-4c0d3fef6d260c8c5a6d5cef7a4076ec]
+## 124. Payment of CIL by the Crown[^c-4c0d3fef6d260c8c5a6d5cef7a4076ec]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4c0d3fef6d260c8c5a6d5cef7a4076ec]: Commencement: Reg. 124 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-4c0d3fef6d260c8c5a6d5cef7a4076ec]: Commencement: Reg. 124 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
 [^f00058]: Footnote: [1817 c. 97](https://www.legislation.gov.uk/ukpga/1817/97).
 

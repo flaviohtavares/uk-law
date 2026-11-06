@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Exemption[^key-7be1747c7f85feb6a424fcf5c6a5943a]
+## 3. Exemption[^c-7be1747c7f85feb6a424fcf5c6a5943a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations shall not apply to establishments handling or storing meat pro
 
 ## Annotations
 
-[^key-7be1747c7f85feb6a424fcf5c6a5943a]: Commencement: Reg. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-7be1747c7f85feb6a424fcf5c6a5943a]: Commencement: Reg. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

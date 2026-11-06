@@ -35,30 +35,30 @@ amending Implementing Decision 2014/908/EU as regards the lists of third countri
 
 (Text with EEA relevance) (revoked)
 
-[^key-ea6a4d16d404b34ad6389d5a5494dacd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea6a4d16d404b34ad6389d5a5494dacd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-ea6a4d16d404b34ad6389d5a5494dacd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ea6a4d16d404b34ad6389d5a5494dacd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ea6a4d16d404b34ad6389d5a5494dacd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ea6a4d16d404b34ad6389d5a5494dacd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea6a4d16d404b34ad6389d5a5494dacd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea6a4d16d404b34ad6389d5a5494dacd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-ea6a4d16d404b34ad6389d5a5494dacd]
+## ANNEX I[^c-ea6a4d16d404b34ad6389d5a5494dacd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-ea6a4d16d404b34ad6389d5a5494dacd]
+## ANNEX II[^c-ea6a4d16d404b34ad6389d5a5494dacd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-ea6a4d16d404b34ad6389d5a5494dacd]
+## ANNEX III[^c-ea6a4d16d404b34ad6389d5a5494dacd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ea6a4d16d404b34ad6389d5a5494dacd]: Textual amendment: Decision revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/3)
+[^c-ea6a4d16d404b34ad6389d5a5494dacd]: Textual amendment: Decision revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/3)

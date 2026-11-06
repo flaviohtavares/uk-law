@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Functions[^key-a5215ba54b02f4d5181e7675a64f15e6]
+## 2. Functions[^c-a5215ba54b02f4d5181e7675a64f15e6]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5215ba54b02f4d5181e7675a64f15e6]: Commencement: S. 2 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-a5215ba54b02f4d5181e7675a64f15e6]: Commencement: S. 2 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

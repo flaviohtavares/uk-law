@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Relevant authorities[^key-6340804ebc4f960ed1f63f61a9955a66]
+## 44. Relevant authorities[^c-6340804ebc4f960ed1f63f61a9955a66]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ The relevant authorities are—
 
 ## Annotations
 
-[^key-6340804ebc4f960ed1f63f61a9955a66]: Commencement: Reg. 44 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-6340804ebc4f960ed1f63f61a9955a66]: Commencement: Reg. 44 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00039]: Footnote: “the United Kingdom Hydrographic Office” is an executive agency of the Ministry of Defence.

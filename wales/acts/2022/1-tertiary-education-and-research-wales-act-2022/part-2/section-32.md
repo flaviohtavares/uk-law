@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Mandatory ongoing registration condition on fee limits[^key-24b321c9cbbb31b9b95987d4c9af301e][^key-67995c9bd6bb8161d4970b0d55747355][^key-c886cb273f93c3d3a7e7a3e014ade624]
+## 32. Mandatory ongoing registration condition on fee limits[^c-24b321c9cbbb31b9b95987d4c9af301e][^c-67995c9bd6bb8161d4970b0d55747355][^c-c886cb273f93c3d3a7e7a3e014ade624]
 
 *Extent: E+W*
 
@@ -71,8 +71,8 @@ include a fee limit condition.
 
 ## Annotations
 
-[^key-24b321c9cbbb31b9b95987d4c9af301e]: Commencement: S. 32 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-24b321c9cbbb31b9b95987d4c9af301e]: Commencement: S. 32 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-67995c9bd6bb8161d4970b0d55747355]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2022/1/section/32) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(t)](https://www.legislation.gov.uk/wsi/2023/919/article/3/t)[(u)](https://www.legislation.gov.uk/wsi/2023/919/article/3/u)
+[^c-67995c9bd6bb8161d4970b0d55747355]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2022/1/section/32) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(t)](https://www.legislation.gov.uk/wsi/2023/919/article/3/t)[(u)](https://www.legislation.gov.uk/wsi/2023/919/article/3/u)
 
-[^key-c886cb273f93c3d3a7e7a3e014ade624]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2022/1/section/32) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/432/article/2/g)
+[^c-c886cb273f93c3d3a7e7a3e014ade624]: Commencement: [S. 32](https://www.legislation.gov.uk/asc/2022/1/section/32) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/432/article/2/g)

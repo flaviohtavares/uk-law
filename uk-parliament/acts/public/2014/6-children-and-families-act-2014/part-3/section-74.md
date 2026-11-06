@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Duty to keep EHC plans for detained persons[^key-f07b04fcac9e10151a085b149b1181af]
+## 74. Duty to keep EHC plans for detained persons[^c-f07b04fcac9e10151a085b149b1181af]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f07b04fcac9e10151a085b149b1181af]: Commencement: S. 74 in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/375/article/2/b)
+[^c-f07b04fcac9e10151a085b149b1181af]: Commencement: S. 74 in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/375/article/2/b)

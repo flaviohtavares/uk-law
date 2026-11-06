@@ -31,7 +31,7 @@ summary: ''
 
 Representation Of The People
 
-The European Parliamentary Elections (Returning Officers) Order 2008 (revoked)[^key-37d73a58f10d4cb5004a27ce3f8a090e]
+The European Parliamentary Elections (Returning Officers) Order 2008 (revoked)[^c-37d73a58f10d4cb5004a27ce3f8a090e]
 
 Made
 
@@ -39,35 +39,35 @@ Made
 
 Coming into force in accordance with article 1(1)
 
-[^key-37d73a58f10d4cb5004a27ce3f8a090e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37d73a58f10d4cb5004a27ce3f8a090e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-37d73a58f10d4cb5004a27ce3f8a090e]
+## 1. Citation, commencement and interpretation[^c-37d73a58f10d4cb5004a27ce3f8a090e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-37d73a58f10d4cb5004a27ce3f8a090e]
+## 2. Revocation[^c-37d73a58f10d4cb5004a27ce3f8a090e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Returning Officers in England[^key-37d73a58f10d4cb5004a27ce3f8a090e]
+## 3. Returning Officers in England[^c-37d73a58f10d4cb5004a27ce3f8a090e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Returning Officer for Wales[^key-37d73a58f10d4cb5004a27ce3f8a090e]
+## 4. Returning Officer for Wales[^c-37d73a58f10d4cb5004a27ce3f8a090e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Returning Officer for Scotland[^key-37d73a58f10d4cb5004a27ce3f8a090e]
+## 5. Returning Officer for Scotland[^c-37d73a58f10d4cb5004a27ce3f8a090e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-37d73a58f10d4cb5004a27ce3f8a090e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37d73a58f10d4cb5004a27ce3f8a090e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — DESIGNATED RETURNING OFFICERS FOR ELECTORAL REGIONS IN ENGLAND[^key-37d73a58f10d4cb5004a27ce3f8a090e]
+## SCHEDULE — DESIGNATED RETURNING OFFICERS FOR ELECTORAL REGIONS IN ENGLAND[^c-37d73a58f10d4cb5004a27ce3f8a090e]
 
 Article 3
 
@@ -75,8 +75,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-37d73a58f10d4cb5004a27ce3f8a090e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37d73a58f10d4cb5004a27ce3f8a090e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-37d73a58f10d4cb5004a27ce3f8a090e]: Textual amendment: Order revoked (20.8.2013) by [The European Parliamentary Elections (Returning Officers) Order 2013 (S.I. 2013/2064)](https://www.legislation.gov.uk/uksi/2013/2064), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2064/article/1/1), [2](https://www.legislation.gov.uk/uksi/2013/2064/article/2)
+[^c-37d73a58f10d4cb5004a27ce3f8a090e]: Textual amendment: Order revoked (20.8.2013) by [The European Parliamentary Elections (Returning Officers) Order 2013 (S.I. 2013/2064)](https://www.legislation.gov.uk/uksi/2013/2064), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2064/article/1/1), [2](https://www.legislation.gov.uk/uksi/2013/2064/article/2)

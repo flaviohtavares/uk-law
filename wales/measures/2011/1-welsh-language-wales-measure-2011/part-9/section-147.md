@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 147. Supplementary[^key-8940afa43ce7d981a90645683ba2bf3c]
+## 147. Supplementary[^c-8940afa43ce7d981a90645683ba2bf3c]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8940afa43ce7d981a90645683ba2bf3c]: Commencement: [S. 147](https://www.legislation.gov.uk/mwa/2011/1/section/147) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)
+[^c-8940afa43ce7d981a90645683ba2bf3c]: Commencement: [S. 147](https://www.legislation.gov.uk/mwa/2011/1/section/147) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(p)](https://www.legislation.gov.uk/wsi/2012/969/article/2/p)

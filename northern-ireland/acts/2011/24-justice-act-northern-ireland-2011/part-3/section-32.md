@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Reports by policing committee of DPCSP to policing committee of principal PCSP[^key-ced975c9a1da3e1fcb4136f7d449e81e]
+## 32. Reports by policing committee of DPCSP to policing committee of principal PCSP[^c-ced975c9a1da3e1fcb4136f7d449e81e]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ced975c9a1da3e1fcb4136f7d449e81e]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2011/24/section/32) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-ced975c9a1da3e1fcb4136f7d449e81e]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2011/24/section/32) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)

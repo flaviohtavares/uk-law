@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Directions to delegates as regards the performance of the marine licensing designated functions[^key-e4c94c2fd3cc6488f747e770eef8e4b5]
+## 53. Directions to delegates as regards the performance of the marine licensing designated functions[^c-e4c94c2fd3cc6488f747e770eef8e4b5]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4c94c2fd3cc6488f747e770eef8e4b5]: Commencement: S. 53 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-e4c94c2fd3cc6488f747e770eef8e4b5]: Commencement: S. 53 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

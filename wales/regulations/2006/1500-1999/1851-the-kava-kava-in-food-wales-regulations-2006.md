@@ -41,7 +41,7 @@ Coming into force
 
 The National Assembly for Wales, in exercise of the powers conferred by sections 16(1)(a), (e) and (f), 18(1)(c), 26(1) and (3) and 48(1) of the Food Safety Act 1990[^f00001] and now vested in it[^f00002], and having had regard in accordance with section 48(4A) of that Act to relevant advice given by the Food Standards Agency, and after consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00003], hereby makes the following Regulations:
 
-## 1. Title, commencement and application[^key-bf2d58e87b47d0792f65a1153f3299cc]
+## 1. Title, commencement and application[^c-bf2d58e87b47d0792f65a1153f3299cc]
 
 These Regulations—
 
@@ -49,19 +49,19 @@ These Regulations—
 - (b) come into force on 14 July 2006;
 - (c) apply in relation to Wales.
 
-## 2. Interpretation[^key-57c93b318dadfa3a33d6843fe9ad5629]
+## 2. Interpretation[^c-57c93b318dadfa3a33d6843fe9ad5629]
 
 In these Regulations—
 
 - “the Act” (“*y Ddeddf*”) means the Food Safety Act 1990;
-- [^key-40e601a07a39b652889f82f8f6c112b7]...
+- [^c-40e601a07a39b652889f82f8f6c112b7]...
 - “food authority” (“*awdurdod bwyd*”) has the same meaning as in section 5(1A) and (3)(a) and (b) of the Act;
-- [^key-40e601a07a39b652889f82f8f6c112b7]...
+- [^c-40e601a07a39b652889f82f8f6c112b7]...
 - “Kava-kava” (“*Cafa-cafa*”) means a plant, or any part of or an extract from a plant, belonging to the species Piper methysticum;
 - “port health authority” (“*awdurdod iechyd porthladd*”) means in relation to any port health district constituted by order under section 2(3) of the Public Health (Control of Disease) Act 1984[^f00004], a port health authority for that district constituted by order under section 2(4) of that Act;
-- “[^key-e42c9fd4942b6f294ffc885f88313145]**third country**” (“***trydedd wlad***”) means a country other than the United Kingdom.
+- “[^c-e42c9fd4942b6f294ffc885f88313145]**third country**” (“***trydedd wlad***”) means a country other than the United Kingdom.
 
-## 3. Prohibition on sale etc. of food consisting of or containing Kava-kava[^key-37ea4047b8b258981e17103d9f34a47a]
+## 3. Prohibition on sale etc. of food consisting of or containing Kava-kava[^c-37ea4047b8b258981e17103d9f34a47a]
 
 (1) Subject to paragraph (2), no person shall—
 
@@ -69,9 +69,9 @@ In these Regulations—
 - (b) possess for sale or offer, expose or advertise for sale, or
 - (c) import into Wales from a country outside the United Kingdom or transport into Wales from any other part of the United Kingdom any food consisting of or containing Kava-kava.
 
-(2)[^key-f60721940da0c2203cfe8dcb8236a181] The prohibition imposed by paragraph (1) does not apply where the food consisting of or containing Kava-kava is imported from a third country if the food is being, or is to be, exported to a third country.
+(2)[^c-f60721940da0c2203cfe8dcb8236a181] The prohibition imposed by paragraph (1) does not apply where the food consisting of or containing Kava-kava is imported from a third country if the food is being, or is to be, exported to a third country.
 
-## 4. Penalty and enforcement[^key-4a680ed0d1c04475325b3169ffedad1f]
+## 4. Penalty and enforcement[^c-4a680ed0d1c04475325b3169ffedad1f]
 
 (1) Any person who contravenes or fails to comply with regulation 3 is guilty of an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
@@ -79,7 +79,7 @@ In these Regulations—
 
 (3) Each port health authority enforces within its district the provisions of these Regulations.
 
-## 5. Application of various provisions of the Food Safety Act 1990[^key-80cc17e51a841dab237aa7e81b79e6d9]
+## 5. Application of various provisions of the Food Safety Act 1990[^c-80cc17e51a841dab237aa7e81b79e6d9]
 
 (1) The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part thereof are construed for the purposes of these Regulations as a reference to these Regulations—
 
@@ -98,7 +98,7 @@ In these Regulations—
 
 (2) Section 9 of the Act[^f00005] (inspection and seizure of suspected food) apply for the purposes of these Regulations as if food which it were an offence to sell under them were food which failed to comply with food safety requirements.
 
-## 6. Presumption in relation to food in batches, lots or consignments[^key-6256f1b01c8331986eda7027ff6335c0]
+## 6. Presumption in relation to food in batches, lots or consignments[^c-6256f1b01c8331986eda7027ff6335c0]
 
 Where any requirements of these Regulations are contravened in respect of any food and that food is part of a batch, lot or consignment of food of the same class or description it is presumed, unless the contrary is proved, that all of the food in that batch, lot or consignment fails to comply with those requirements.
 
@@ -126,26 +126,26 @@ A Regulatory Appraisal has been prepared and placed in the Library of the Nation
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1; laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
 
-[^key-bf2d58e87b47d0792f65a1153f3299cc]: Commencement: Reg. 1 in force at 14.7.2006, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2006/1851/regulation/1/b)
+[^c-bf2d58e87b47d0792f65a1153f3299cc]: Commencement: Reg. 1 in force at 14.7.2006, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2006/1851/regulation/1/b)
 
-[^key-57c93b318dadfa3a33d6843fe9ad5629]: Commencement: Reg. 2 in force at 14.7.2006, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2006/1851/regulation/1/b)
+[^c-57c93b318dadfa3a33d6843fe9ad5629]: Commencement: Reg. 2 in force at 14.7.2006, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2006/1851/regulation/1/b)
 
-[^key-40e601a07a39b652889f82f8f6c112b7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2006/1851/regulation/2) omitted (31.12.2020) by virtue of [The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/179)](https://www.legislation.gov.uk/wsi/2019/179), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/179/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/179/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-40e601a07a39b652889f82f8f6c112b7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2006/1851/regulation/2) omitted (31.12.2020) by virtue of [The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/179)](https://www.legislation.gov.uk/wsi/2019/179), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/179/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/179/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22)
 
-[^key-e42c9fd4942b6f294ffc885f88313145]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2006/1851/regulation/2) inserted (31.12.2020) by [The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/179)](https://www.legislation.gov.uk/wsi/2019/179), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/179/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/179/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e42c9fd4942b6f294ffc885f88313145]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2006/1851/regulation/2) inserted (31.12.2020) by [The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/179)](https://www.legislation.gov.uk/wsi/2019/179), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/179/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/179/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-37ea4047b8b258981e17103d9f34a47a]: Commencement: Reg. 3 in force at 14.7.2006, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2006/1851/regulation/1/b)
+[^c-37ea4047b8b258981e17103d9f34a47a]: Commencement: Reg. 3 in force at 14.7.2006, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2006/1851/regulation/1/b)
 
-[^key-f60721940da0c2203cfe8dcb8236a181]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/wsi/2006/1851/regulation/3/2) substituted (31.12.2020) by [The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/179)](https://www.legislation.gov.uk/wsi/2019/179), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/179/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2019/179/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f60721940da0c2203cfe8dcb8236a181]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/wsi/2006/1851/regulation/3/2) substituted (31.12.2020) by [The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/179)](https://www.legislation.gov.uk/wsi/2019/179), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/179/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2019/179/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a680ed0d1c04475325b3169ffedad1f]: Commencement: Reg. 4 in force at 14.7.2006, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2006/1851/regulation/1/b)
+[^c-4a680ed0d1c04475325b3169ffedad1f]: Commencement: Reg. 4 in force at 14.7.2006, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2006/1851/regulation/1/b)
 
-[^key-80cc17e51a841dab237aa7e81b79e6d9]: Commencement: Reg. 5 in force at 14.7.2006, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2006/1851/regulation/1/b)
+[^c-80cc17e51a841dab237aa7e81b79e6d9]: Commencement: Reg. 5 in force at 14.7.2006, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2006/1851/regulation/1/b)
 
 [^f00005]: Footnote: Section 9 is amended by [S.I.2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
-[^key-6256f1b01c8331986eda7027ff6335c0]: Commencement: Reg. 6 in force at 14.7.2006, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2006/1851/regulation/1/b)
+[^c-6256f1b01c8331986eda7027ff6335c0]: Commencement: Reg. 6 in force at 14.7.2006, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2006/1851/regulation/1/b)
 
 [^f00006]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38)

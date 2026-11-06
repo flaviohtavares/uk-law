@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-19c2bf667871fcb09c474d87d98d0e0c]
+## 1. Citation and commencement[^c-19c2bf667871fcb09c474d87d98d0e0c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the A57 Link Roads Development Consent Order 2022 and
 
 ## Annotations
 
-[^key-19c2bf667871fcb09c474d87d98d0e0c]: Commencement: Art. 1 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-19c2bf667871fcb09c474d87d98d0e0c]: Commencement: Art. 1 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)

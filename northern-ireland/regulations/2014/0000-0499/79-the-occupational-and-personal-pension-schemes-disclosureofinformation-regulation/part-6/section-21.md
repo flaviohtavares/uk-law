@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Accessing benefits on the death of the member or beneficiary[^key-a1a99288827837de59d6aff4d36b7436]
+## 21. Accessing benefits on the death of the member or beneficiary[^c-a1a99288827837de59d6aff4d36b7436]
 
 *Extent: N.I.*
 
@@ -27,9 +27,9 @@ summary: ''
 
 (2) The information is the information listed in—
 
-- (a) Part 1 of, and paragraphs 8 to 10 of, Schedule 7 where the person referred to in paragraph (1)(b) has an opportunity to select an annuity;[^key-f9fdd1ab9ee8b08efd08eb5f2cb65517]
-- (b) Part 2 of that Schedule in any other case, and[^key-2808ffd49d885fe332a1d0759ed3d6a3]
-- (c)[^key-e2d20dba41cdbfea923e17d8fc6d802a] Part 1 of Schedule 9A where the person has an opportunity to—
+- (a) Part 1 of, and paragraphs 8 to 10 of, Schedule 7 where the person referred to in paragraph (1)(b) has an opportunity to select an annuity;[^c-f9fdd1ab9ee8b08efd08eb5f2cb65517]
+- (b) Part 2 of that Schedule in any other case, and[^c-2808ffd49d885fe332a1d0759ed3d6a3]
+- (c)[^c-e2d20dba41cdbfea923e17d8fc6d802a] Part 1 of Schedule 9A where the person has an opportunity to—
   - (i) transfer accrued rights to flexible benefits out of the scheme under the scheme rules;
   - (ii) apply sums or assets held for the purpose of providing flexible benefits for purchasing an annuity;
   - (iii) take payment of a lump sum in respect of flexible benefits, or
@@ -54,10 +54,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a1a99288827837de59d6aff4d36b7436]: Commencement: Reg. 21 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-a1a99288827837de59d6aff4d36b7436]: Commencement: Reg. 21 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
 
-[^key-f9fdd1ab9ee8b08efd08eb5f2cb65517]: Textual amendment: Words in [reg. 21(2)(a)](https://www.legislation.gov.uk/nisr/2014/79/regulation/21/2/a) substituted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/154)](https://www.legislation.gov.uk/nisr/2015/154), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/154/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2015/154/regulation/9/a)
+[^c-f9fdd1ab9ee8b08efd08eb5f2cb65517]: Textual amendment: Words in [reg. 21(2)(a)](https://www.legislation.gov.uk/nisr/2014/79/regulation/21/2/a) substituted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/154)](https://www.legislation.gov.uk/nisr/2015/154), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/154/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2015/154/regulation/9/a)
 
-[^key-2808ffd49d885fe332a1d0759ed3d6a3]: Textual amendment: Words in [reg. 21(2)(b)](https://www.legislation.gov.uk/nisr/2014/79/regulation/21/2/b) substituted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/154)](https://www.legislation.gov.uk/nisr/2015/154), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/154/regulation/1/1), [9(b)](https://www.legislation.gov.uk/nisr/2015/154/regulation/9/b)
+[^c-2808ffd49d885fe332a1d0759ed3d6a3]: Textual amendment: Words in [reg. 21(2)(b)](https://www.legislation.gov.uk/nisr/2014/79/regulation/21/2/b) substituted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/154)](https://www.legislation.gov.uk/nisr/2015/154), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/154/regulation/1/1), [9(b)](https://www.legislation.gov.uk/nisr/2015/154/regulation/9/b)
 
-[^key-e2d20dba41cdbfea923e17d8fc6d802a]: Textual amendment: [Reg. 21(2)(c)](https://www.legislation.gov.uk/nisr/2014/79/regulation/21/2/c) added (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/154)](https://www.legislation.gov.uk/nisr/2015/154), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/154/regulation/1/1), [9(c)](https://www.legislation.gov.uk/nisr/2015/154/regulation/9/c)
+[^c-e2d20dba41cdbfea923e17d8fc6d802a]: Textual amendment: [Reg. 21(2)(c)](https://www.legislation.gov.uk/nisr/2014/79/regulation/21/2/c) added (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/154)](https://www.legislation.gov.uk/nisr/2015/154), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/154/regulation/1/1), [9(c)](https://www.legislation.gov.uk/nisr/2015/154/regulation/9/c)

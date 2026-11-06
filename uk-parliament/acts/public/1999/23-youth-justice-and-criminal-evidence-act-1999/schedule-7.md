@@ -26,7 +26,7 @@ Section 67.
 
 *Extent: E+W*
 
-**1.**[^key-68e07a1083b13cd299591dbc0295b641] (1) In this Schedule—
+**1.**[^c-68e07a1083b13cd299591dbc0295b641] (1) In this Schedule—
 
 - “**the 1988 Act**” means the [^c9548011]Criminal Justice Act 1988;
 - “**commencement date**”, in relation to any provisions of this Act and proceedings of any description, means the date on which those provisions come into force in relation to such proceedings;
@@ -85,7 +85,7 @@ Section 67.
 
 ### Reporting restrictions
 
-**6.**[^key-674b3a57f1e6ee00f96e988f3a2ce0d4][^key-342494c2ce531b2c65fae95a90b16ddf][^key-c275985f0c1c77aafb9a76c17cd0fd77][^key-672b89b15446c19e5cb7ea033f870840] (1) Section 44 applies in relation to an alleged offence whether the criminal investigation into it is begun before or after the coming into force of that section.
+**6.**[^c-674b3a57f1e6ee00f96e988f3a2ce0d4][^c-342494c2ce531b2c65fae95a90b16ddf][^c-c275985f0c1c77aafb9a76c17cd0fd77][^c-672b89b15446c19e5cb7ea033f870840] (1) Section 44 applies in relation to an alleged offence whether the criminal investigation into it is begun before or after the coming into force of that section.
 
 (2) The restrictions imposed by subsection (2) of section 44 do not apply to the inclusion of matter in a publication if—
 
@@ -94,7 +94,7 @@ Section 67.
 
 before the coming into force of that section.
 
-(3)[^key-4921a83c844defe6b0bd0c008c5156da] Nothing in section 45 or 46 applies in relation to proceedings instituted before the commencement date for that section.
+(3)[^c-4921a83c844defe6b0bd0c008c5156da] Nothing in section 45 or 46 applies in relation to proceedings instituted before the commencement date for that section.
 
 (4) In sub-paragraph (3) the reference to the institution of proceedings shall be construed—
 
@@ -115,8 +115,8 @@ before the coming into force of that section.
 
 (6) In the case of proceedings falling within sub-paragraph (4)(c)—
 
-- (a) proceedings other than proceedings on appeal are to be taken to be instituted when the charge is brought under[^key-ca2c9a352e766534b0121aaaea0aa9d2] section 121(1A) or 122[^key-35100781ff3792b570ed063c51f5921f] of the Armed Forces Act 2006; and
-- (b)[^key-803077a2988ef17eefee948e4bc4dfbc] proceedings on appeal are to be taken to be instituted—
+- (a) proceedings other than proceedings on appeal are to be taken to be instituted when the charge is brought under[^c-ca2c9a352e766534b0121aaaea0aa9d2] section 121(1A) or 122[^c-35100781ff3792b570ed063c51f5921f] of the Armed Forces Act 2006; and
+- (b)[^c-803077a2988ef17eefee948e4bc4dfbc] proceedings on appeal are to be taken to be instituted—
   - (i) in the case of an appeal under the Court Martial Appeals Act 1968, when the application for leave to appeal is lodged in accordance with section 9 of that Act;
   - (ii) in the case of an appeal under section 285 of the Armed Forces Act 2006 (except one for which leave is required), when the notice of appeal is given;
   - (iii) in the case of an appeal under that section for which leave is required, when the application for leave to appeal is lodged;
@@ -132,14 +132,14 @@ before the coming into force of that section.
 
 *Extent: E+W*
 
-**8.**[^key-925ccfc6d2daad0f991e5e14438b1bcd] The amendments made by section 58—
+**8.**[^c-925ccfc6d2daad0f991e5e14438b1bcd] The amendments made by section 58—
 
 - (a) apply only to proceedings instituted on or after the commencement date for that section; but
 - (b) so apply whether the relevant failure or refusal on the part of the accused took place before or after that date.
 
 ## Annotations
 
-[^key-68e07a1083b13cd299591dbc0295b641]: Commencement: Sch. 7 para. 1 in force at 7.10.2004 for specified purposes for S. by [S.S.I. 2004/408](https://www.legislation.gov.uk/ssi/2004/408), [art. 3(f)](https://www.legislation.gov.uk/ssi/2004/408/article/3/f)
+[^c-68e07a1083b13cd299591dbc0295b641]: Commencement: Sch. 7 para. 1 in force at 7.10.2004 for specified purposes for S. by [S.S.I. 2004/408](https://www.legislation.gov.uk/ssi/2004/408), [art. 3(f)](https://www.legislation.gov.uk/ssi/2004/408/article/3/f)
 
 [^c9548011]: Marginal citation: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33).
 
@@ -151,15 +151,15 @@ before the coming into force of that section.
 
 [^c9548051]: Marginal citation: [1976 c. 82](https://www.legislation.gov.uk/ukpga/1976/82).
 
-[^key-674b3a57f1e6ee00f96e988f3a2ce0d4]: Commencement: Sch. 7 para. 6 in force at 7.10.2004 for specified purposes for S. by [S.S.I. 2004/408](https://www.legislation.gov.uk/ssi/2004/408), [art. 3(f)](https://www.legislation.gov.uk/ssi/2004/408/article/3/f)
+[^c-674b3a57f1e6ee00f96e988f3a2ce0d4]: Commencement: Sch. 7 para. 6 in force at 7.10.2004 for specified purposes for S. by [S.S.I. 2004/408](https://www.legislation.gov.uk/ssi/2004/408), [art. 3(f)](https://www.legislation.gov.uk/ssi/2004/408/article/3/f)
 
-[^key-342494c2ce531b2c65fae95a90b16ddf]: Commencement: Sch. 7 para. 6 in force at 7.10.2004 for specified purposes for E.W. by [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(g)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/g)
+[^c-342494c2ce531b2c65fae95a90b16ddf]: Commencement: Sch. 7 para. 6 in force at 7.10.2004 for specified purposes for E.W. by [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(g)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/g)
 
-[^key-c275985f0c1c77aafb9a76c17cd0fd77]: Commencement: Sch. 7 para. 6 in force at 8.11.2004 for specified purposes for N.I. by [S.R. 2004/467](https://www.legislation.gov.uk/nisr/2004/467), [art. 2(f)](https://www.legislation.gov.uk/nisr/2004/467/article/2/f)
+[^c-c275985f0c1c77aafb9a76c17cd0fd77]: Commencement: Sch. 7 para. 6 in force at 8.11.2004 for specified purposes for N.I. by [S.R. 2004/467](https://www.legislation.gov.uk/nisr/2004/467), [art. 2(f)](https://www.legislation.gov.uk/nisr/2004/467/article/2/f)
 
-[^key-672b89b15446c19e5cb7ea033f870840]: Commencement: Sch. 7 para. 6 in force at 13.4.2015 for specified purposes for E.W. by [S.I. 2015/818](https://www.legislation.gov.uk/uksi/2015/818), [art. 2(h)](https://www.legislation.gov.uk/uksi/2015/818/article/2/h)
+[^c-672b89b15446c19e5cb7ea033f870840]: Commencement: Sch. 7 para. 6 in force at 13.4.2015 for specified purposes for E.W. by [S.I. 2015/818](https://www.legislation.gov.uk/uksi/2015/818), [art. 2(h)](https://www.legislation.gov.uk/uksi/2015/818/article/2/h)
 
-[^key-4921a83c844defe6b0bd0c008c5156da]: Modification: Sch. 7 para. 6(3) modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 44(2)](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/44/2)
+[^c-4921a83c844defe6b0bd0c008c5156da]: Modification: Sch. 7 para. 6(3) modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 44(2)](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/44/2)
 
 [^c9548061]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
@@ -167,10 +167,10 @@ before the coming into force of that section.
 
 [^c9548081]: Marginal citation: [1995 c. 35](https://www.legislation.gov.uk/ukpga/1995/35).
 
-[^key-ca2c9a352e766534b0121aaaea0aa9d2]: Textual amendment: Words in Sch. 7 para. 6(6)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 161(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/161/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-ca2c9a352e766534b0121aaaea0aa9d2]: Textual amendment: Words in Sch. 7 para. 6(6)(a) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 161(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/161/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-35100781ff3792b570ed063c51f5921f]: Textual amendment: Words in Sch. 7 para. 6(6)(a) substituted (22.5.2019 for specified purposes, 1.7.2019 in so far as not already in force) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/5/3/b), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
+[^c-35100781ff3792b570ed063c51f5921f]: Textual amendment: Words in Sch. 7 para. 6(6)(a) substituted (22.5.2019 for specified purposes, 1.7.2019 in so far as not already in force) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 5(3)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/5/3/b), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
 
-[^key-803077a2988ef17eefee948e4bc4dfbc]: Textual amendment: Sch. 7 para. 6(6)(b) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 161(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/161/b); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-803077a2988ef17eefee948e4bc4dfbc]: Textual amendment: Sch. 7 para. 6(6)(b) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 161(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/161/b); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-925ccfc6d2daad0f991e5e14438b1bcd]: Commencement: Sch. 7 para. 8 in force at 1.4.2003 by [S.I. 2003/707](https://www.legislation.gov.uk/uksi/2003/707), [art. 2(c)](https://www.legislation.gov.uk/uksi/2003/707/article/2/c)
+[^c-925ccfc6d2daad0f991e5e14438b1bcd]: Commencement: Sch. 7 para. 8 in force at 1.4.2003 by [S.I. 2003/707](https://www.legislation.gov.uk/uksi/2003/707), [art. 2(c)](https://www.legislation.gov.uk/uksi/2003/707/article/2/c)

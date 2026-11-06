@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — Relevant material which may not be introduced into or moved within Wales if that material is carrying or infected with plant pests[^key-beb16187072957edd1166bcde92be6a9]
+## SCHEDULE 2 — Relevant material which may not be introduced into or moved within Wales if that material is carrying or infected with plant pests[^c-beb16187072957edd1166bcde92be6a9]
 
 *Extent: E+W*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Articles 5(1), 12(1), 18(1), 20(1), 24(4), 29(8), 32(7), 33(8), 42(3), 43(3) and 44(4)
 
-### PART A — Plant pests not known to occur in the European Union[^key-beb16187072957edd1166bcde92be6a9]
+### PART A — Plant pests not known to occur in the European Union[^c-beb16187072957edd1166bcde92be6a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Plant pests known to occur in the European Union[^key-beb16187072957edd1166bcde92be6a9]
+### PART B — Plant pests known to occur in the European Union[^c-beb16187072957edd1166bcde92be6a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-beb16187072957edd1166bcde92be6a9]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/wsi/2020/206/regulation/51))
+[^c-beb16187072957edd1166bcde92be6a9]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/wsi/2020/206/regulation/51))

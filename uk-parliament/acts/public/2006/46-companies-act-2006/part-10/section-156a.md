@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156A. Each director to be a natural person[^key-efaacc17b9f0dac2ab1ca16a02d3d326]
+## 156A. Each director to be a natural person[^c-efaacc17b9f0dac2ab1ca16a02d3d326]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ For this purpose a shadow director is treated as an officer of a company.
 
 ## Annotations
 
-[^key-efaacc17b9f0dac2ab1ca16a02d3d326]: Textual amendment: [Ss. 156A-156C](https://www.legislation.gov.uk/ukpga/2006/46/section/156A) inserted (4.3.2024 for specified purposes) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 87(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/87/4), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2024/270](https://www.legislation.gov.uk/uksi/2024/270), [reg. 2](https://www.legislation.gov.uk/uksi/2024/270/regulation/2)
+[^c-efaacc17b9f0dac2ab1ca16a02d3d326]: Textual amendment: [Ss. 156A-156C](https://www.legislation.gov.uk/ukpga/2006/46/section/156A) inserted (4.3.2024 for specified purposes) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 87(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/87/4), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2024/270](https://www.legislation.gov.uk/uksi/2024/270), [reg. 2](https://www.legislation.gov.uk/uksi/2024/270/regulation/2)

@@ -41,11 +41,11 @@ In accordance with section 7(1) and (2)(hb) and (hc) of the Political Parties, E
 
 And, in accordance with section 154(2)(a) and (b) of the Police Reform and Social Responsibility Act 2011 (“2011 Act”)[^f00002], a draft of this Order has been laid before and approved by a resolution of each House of Parliament.
 
-Accordingly, the Chancellor of the Duchy of Lancaster, in exercise of the powers conferred by sections 54(2)[^f00003], 58 (as extended by section 26(3) of the Welsh Language Act 1993[^f00004]) and 154(5) of the 2011 Act[^f00005] makes the following Order:[^key-7e19124111b4853aa42688627b16d343]
+Accordingly, the Chancellor of the Duchy of Lancaster, in exercise of the powers conferred by sections 54(2)[^f00003], 58 (as extended by section 26(3) of the Welsh Language Act 1993[^f00004]) and 154(5) of the 2011 Act[^f00005] makes the following Order:[^c-7e19124111b4853aa42688627b16d343]
 
 ## PART 1 — General
 
-### 1. Citation, commencement and interpretation[^key-4659eaaaf26d43cf610bb042af8f1042]
+### 1. Citation, commencement and interpretation[^c-4659eaaaf26d43cf610bb042af8f1042]
 
 (1) This Order may be cited as the Police and Crime Commissioner Elections (Amendment) Order 2016.
 
@@ -60,11 +60,11 @@ Accordingly, the Chancellor of the Duchy of Lancaster, in exercise of the powers
 
 ## PART 2 — Combination of polls at police and crime commissioner and National Assembly for Wales elections
 
-### 2. Amendment of the 2012 Order[^key-2c24b9debfe129476cbfb098edf5f6f7]
+### 2. Amendment of the 2012 Order[^c-2c24b9debfe129476cbfb098edf5f6f7]
 
 The 2012 Order is amended in accordance with articles 3 to 6.
 
-### 3. Interpretation[^key-711c1b51ecfb8c734aecb1f1e2aabac7]
+### 3. Interpretation[^c-711c1b51ecfb8c734aecb1f1e2aabac7]
 
 (1) Amend article 2 (interpretation) as follows.
 
@@ -102,7 +102,7 @@ The 2012 Order is amended in accordance with articles 3 to 6.
 
 .
 
-### 4. Combination of polls[^key-e1f37d4101ab6211b1b05a0a09e52634]
+### 4. Combination of polls[^c-e1f37d4101ab6211b1b05a0a09e52634]
 
 After article 13 (combination of polls) insert—
 
@@ -112,7 +112,7 @@ After article 13 (combination of polls) insert—
 
 .
 
-### 5. Issue and receipt of postal ballot papers[^key-ba39d2d3e5eff35a22b6d17c9a957d13]
+### 5. Issue and receipt of postal ballot papers[^c-ba39d2d3e5eff35a22b6d17c9a957d13]
 
 (1) Amend Schedule 2 (absent voting in PCC elections) as follows.
 
@@ -131,7 +131,7 @@ After article 13 (combination of polls) insert—
 
 .
 
-### 6. Application of Part 3 of Schedule 4[^key-de78b3e36e3e3b56ed4a846a6fe2a308]
+### 6. Application of Part 3 of Schedule 4[^c-de78b3e36e3e3b56ed4a846a6fe2a308]
 
 (1) Amend Schedule 4 (combination of polls)[^f00012] as follows.
 
@@ -209,11 +209,11 @@ After article 13 (combination of polls) insert—
 > >
 > > > - (5A) Neither the countermand of the notice of the poll at the PCC election nor the direction that the poll be abandoned affects the poll at the Assembly election.
 
-### 7. Amendment of the 2012 Regulations[^key-2d854313f574450afde3cc5f29a82643]
+### 7. Amendment of the 2012 Regulations[^c-2d854313f574450afde3cc5f29a82643]
 
 The 2012 Regulations are amended in accordance with articles 8 and 9.
 
-### 8. Voting areas[^key-69746e7128c0eef230d8e2b6577e7ea6]
+### 8. Voting areas[^c-69746e7128c0eef230d8e2b6577e7ea6]
 
 (1) Amend regulation 2 (interpretation) as follows.
 
@@ -242,7 +242,7 @@ The 2012 Regulations are amended in accordance with articles 8 and 9.
 
 .
 
-### 9. Local returning officer where PCC and Assembly elections are combined[^key-f5a4ffbb789308e5c34846f9697a83e1]
+### 9. Local returning officer where PCC and Assembly elections are combined[^c-f5a4ffbb789308e5c34846f9697a83e1]
 
 After regulation 2 insert—
 
@@ -254,11 +254,11 @@ After regulation 2 insert—
 
 ## PART 3 — Other amendments of the 2012 Order
 
-### 10. Amendment of the 2012 Order[^key-c832051c1c2fa751b92800bac4919e96]
+### 10. Amendment of the 2012 Order[^c-c832051c1c2fa751b92800bac4919e96]
 
 The 2012 Order is amended in accordance with articles 11 and 12.
 
-### 11. Amendment of Schedule 3[^key-535e9370feb4208a5a298da61cb5e5b3]
+### 11. Amendment of Schedule 3[^c-535e9370feb4208a5a298da61cb5e5b3]
 
 (1) Amend Schedule 3 (police and crime commissioner elections rules) as follows.
 
@@ -299,7 +299,7 @@ The 2012 Order is amended in accordance with articles 11 and 12.
 - (c) after form 6 in English insert form 6 in Welsh in the Schedule to this Order;
 - (d) in form 8B (ballot paper (2 candidates)), in paragraph 3(d) of the directions for printing[^f00016], for “7 a-b” substitute “8”.
 
-### 12. Amendment of Schedule 4[^key-a3301f17be954b6cd5934dd948504cd3]
+### 12. Amendment of Schedule 4[^c-a3301f17be954b6cd5934dd948504cd3]
 
 (1) Amend Schedule 4 (combination of polls) as follows.
 
@@ -321,7 +321,7 @@ Cabinet Office
 
 3rd March 2016
 
-## SCHEDULE — Form of nomination of candidates in Welsh[^key-0767f93200ec8cbab73df0ce83cba2f1]
+## SCHEDULE — Form of nomination of candidates in Welsh[^c-0767f93200ec8cbab73df0ce83cba2f1]
 
 article 11(6)(c)
 
@@ -359,17 +359,17 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00005]: Footnote: Functions originally conferred on the Secretary of State by sections 58 and 154 were transferred to enable them to be exercised concurrently with the Lord President of the Council by [S.I. 2014/268](https://www.legislation.gov.uk/uksi/2014/268). By virtue of [S.I. 2015/1376](https://www.legislation.gov.uk/uksi/2015/1376) those functions exercisable by the Lord President of the Council concurrently with the Secretary of State in section 58(1) and section 154(1) and (5) ceased to be exercisable by the Lord President of the Council and became exercisable (concurrently with the Secretary of State) by the Chancellor of the Duchy of Lancaster. The functions in section 58(5)(a), (b) and (d) conferred on the Secretary of State may now also, by virtue of [S.I. 2015/1526](https://www.legislation.gov.uk/uksi/2015/1526), be exercisable concurrently with the Chancellor of the Duchy of Lancaster so far as they relate to an election of a police and crime commissioner the date of the poll for which is on or after 1st May 2016.
 
-[^key-7e19124111b4853aa42688627b16d343]: Modification: [Order](https://www.legislation.gov.uk/uksi/2016/300) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/35)
+[^c-7e19124111b4853aa42688627b16d343]: Modification: [Order](https://www.legislation.gov.uk/uksi/2016/300) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/35)
 
-[^key-4659eaaaf26d43cf610bb042af8f1042]: Commencement: Art. 1 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
+[^c-4659eaaaf26d43cf610bb042af8f1042]: Commencement: Art. 1 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
 
 [^f00006]: Footnote: [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917) as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388); [S.I. 2013/591](https://www.legislation.gov.uk/uksi/2013/591); [S.I. 2014/921](https://www.legislation.gov.uk/uksi/2014/921); [S.I. 2014/1963](https://www.legislation.gov.uk/uksi/2014/1963); [S.I. 2015/643](https://www.legislation.gov.uk/uksi/2015/643); [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664); and [S.I. 2015/1526](https://www.legislation.gov.uk/uksi/2015/1526).
 
 [^f00007]: Footnote: [S.I. 2012/1918](https://www.legislation.gov.uk/uksi/2012/1918).
 
-[^key-2c24b9debfe129476cbfb098edf5f6f7]: Commencement: Art. 2 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
+[^c-2c24b9debfe129476cbfb098edf5f6f7]: Commencement: Art. 2 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
 
-[^key-711c1b51ecfb8c734aecb1f1e2aabac7]: Commencement: Art. 3 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
+[^c-711c1b51ecfb8c734aecb1f1e2aabac7]: Commencement: Art. 3 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
 
 [^f00008]: Footnote: [S.I. 2007/236](https://www.legislation.gov.uk/uksi/2007/236) as amended by [S.I. 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182); [S.I. 2010/1142](https://www.legislation.gov.uk/uksi/2010/1142); [S.I. 2010/2931](https://www.legislation.gov.uk/uksi/2010/2931); [S.I. 2011/1441](https://www.legislation.gov.uk/uksi/2011/1441); [S.I. 2011/2085](https://www.legislation.gov.uk/uksi/2011/2085); [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479); [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388); [S.I. 2013/591](https://www.legislation.gov.uk/uksi/2013/591); [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664); [S.I. 2016/272](https://www.legislation.gov.uk/uksi/2016/272); and section 3 of the Wales Act [2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29).
 
@@ -377,34 +377,34 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00010]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32); section 2 has been amended by section 13 of the Parliamentary Voting Systems and Constituencies Act [2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1).
 
-[^key-e1f37d4101ab6211b1b05a0a09e52634]: Commencement: Art. 4 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
+[^c-e1f37d4101ab6211b1b05a0a09e52634]: Commencement: Art. 4 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
 
 [^f00011]: Footnote: By virtue of article 16A of the National Assembly for Wales (Representation of the People) Order 2007 ([S.I. 2007/236](https://www.legislation.gov.uk/uksi/2007/236)) where the polls at a general election of the National Assembly for Wales and an ordinary election of police and crime commissioners are to be taken on the same day, they must be taken together. Article 16A is inserted by [S.I. 2016/272](https://www.legislation.gov.uk/uksi/2016/272).
 
-[^key-ba39d2d3e5eff35a22b6d17c9a957d13]: Commencement: Art. 5 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
+[^c-ba39d2d3e5eff35a22b6d17c9a957d13]: Commencement: Art. 5 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
 
-[^key-de78b3e36e3e3b56ed4a846a6fe2a308]: Commencement: Art. 6 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
+[^c-de78b3e36e3e3b56ed4a846a6fe2a308]: Commencement: Art. 6 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
 
 [^f00012]: Footnote: Parts 3 and 4 of Schedule 4 have been amended by [S.I. 2014/921](https://www.legislation.gov.uk/uksi/2014/921).
 
 [^f00013]: Footnote: Paragraph (3) is inserted by article 12 of this Order.
 
-[^key-2d854313f574450afde3cc5f29a82643]: Commencement: Art. 7 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
+[^c-2d854313f574450afde3cc5f29a82643]: Commencement: Art. 7 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
 
-[^key-69746e7128c0eef230d8e2b6577e7ea6]: Commencement: Art. 8 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
+[^c-69746e7128c0eef230d8e2b6577e7ea6]: Commencement: Art. 8 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
 
-[^key-f5a4ffbb789308e5c34846f9697a83e1]: Commencement: Art. 9 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
+[^c-f5a4ffbb789308e5c34846f9697a83e1]: Commencement: Art. 9 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
 
 [^f00014]: Footnote: A constituency returning officer is the person appointed under section 35(1A) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2) to be the returning officer for councillors of a county or county borough situated wholly or partly within the Assembly constituency and, where there is more than one, for the time being designated by Welsh Ministers as constituency returning officer.
 
-[^key-c832051c1c2fa751b92800bac4919e96]: Commencement: Art. 10 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
+[^c-c832051c1c2fa751b92800bac4919e96]: Commencement: Art. 10 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
 
-[^key-535e9370feb4208a5a298da61cb5e5b3]: Commencement: Art. 11 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
+[^c-535e9370feb4208a5a298da61cb5e5b3]: Commencement: Art. 11 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
 
 [^f00015]: Footnote: Rule 1 was amended by and the table in rule 1 substituted by [S.I. 2014/921](https://www.legislation.gov.uk/uksi/2014/921).
 
 [^f00016]: Footnote: The directions for printing the ballot paper (2 candidates) were amended by [S.I. 2014/921](https://www.legislation.gov.uk/uksi/2014/921)
 
-[^key-a3301f17be954b6cd5934dd948504cd3]: Commencement: Art. 12 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
+[^c-a3301f17be954b6cd5934dd948504cd3]: Commencement: Art. 12 in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
 
-[^key-0767f93200ec8cbab73df0ce83cba2f1]: Commencement: Sch. in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)
+[^c-0767f93200ec8cbab73df0ce83cba2f1]: Commencement: Sch. in force at 4.3.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/300/article/1/2)

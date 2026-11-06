@@ -37,46 +37,46 @@ laying down simplified rules and procedures on sanitary controls of fishery prod
 
 (2011/408/EU) (revoked)
 
-[^key-bf8ef7beebff0d818ca9edcc442f7ef8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf8ef7beebff0d818ca9edcc442f7ef8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter and scope[^key-bf8ef7beebff0d818ca9edcc442f7ef8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-bf8ef7beebff0d818ca9edcc442f7ef8]
+## Article 1. Subject matter and scope[^c-bf8ef7beebff0d818ca9edcc442f7ef8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. General rules concerning sanitary controls of the products between the Union and Greenland[^key-bf8ef7beebff0d818ca9edcc442f7ef8]
+## Article 2. Definitions[^c-bf8ef7beebff0d818ca9edcc442f7ef8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Monitoring plans for aquaculture animals[^key-bf8ef7beebff0d818ca9edcc442f7ef8]
+## Article 3. General rules concerning sanitary controls of the products between the Union and Greenland[^c-bf8ef7beebff0d818ca9edcc442f7ef8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Checks on products introduced into Greenland from third countries[^key-bf8ef7beebff0d818ca9edcc442f7ef8]
+## Article 4. Monitoring plans for aquaculture animals[^c-bf8ef7beebff0d818ca9edcc442f7ef8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Information system[^key-bf8ef7beebff0d818ca9edcc442f7ef8]
+## Article 5. Checks on products introduced into Greenland from third countries[^c-bf8ef7beebff0d818ca9edcc442f7ef8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Identification mark[^key-bf8ef7beebff0d818ca9edcc442f7ef8]
+## Article 6. Information system[^c-bf8ef7beebff0d818ca9edcc442f7ef8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Confirmation of compliance with the conditions laid down in this Decision[^key-bf8ef7beebff0d818ca9edcc442f7ef8]
+## Article 7. Identification mark[^c-bf8ef7beebff0d818ca9edcc442f7ef8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force and applicability[^key-bf8ef7beebff0d818ca9edcc442f7ef8]
+## Article 8. Confirmation of compliance with the conditions laid down in this Decision[^c-bf8ef7beebff0d818ca9edcc442f7ef8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf8ef7beebff0d818ca9edcc442f7ef8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 9. Entry into force and applicability[^c-bf8ef7beebff0d818ca9edcc442f7ef8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-bf8ef7beebff0d818ca9edcc442f7ef8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bf8ef7beebff0d818ca9edcc442f7ef8]: Textual amendment: Decision revoked (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2020/1462/schedule/paragraph/7)
+[^c-bf8ef7beebff0d818ca9edcc442f7ef8]: Textual amendment: Decision revoked (31.12.2020) by The Import of, and Trade in, [Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2020/1462/schedule/paragraph/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Outdoor care settings for children[^key-c8235dfc9ede48b4e7e286fdcde5d37f]
+## 9. Outdoor care settings for children[^c-c8235dfc9ede48b4e7e286fdcde5d37f]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8235dfc9ede48b4e7e286fdcde5d37f]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2017/2/section/9) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-c8235dfc9ede48b4e7e286fdcde5d37f]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2017/2/section/9) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

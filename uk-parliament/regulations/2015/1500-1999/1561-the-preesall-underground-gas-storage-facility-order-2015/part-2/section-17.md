@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Authority to survey and investigate the land[^key-2367579eb9dbb5a20b79463f1f6f2562]
+## 17. Authority to survey and investigate the land[^c-2367579eb9dbb5a20b79463f1f6f2562]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ but such consent shall not be unreasonably withheld.
 
 ## Annotations
 
-[^key-2367579eb9dbb5a20b79463f1f6f2562]: Commencement: Art. 17 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-2367579eb9dbb5a20b79463f1f6f2562]: Commencement: Art. 17 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)

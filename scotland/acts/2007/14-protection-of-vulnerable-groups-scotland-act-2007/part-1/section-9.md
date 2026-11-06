@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Failure to refer: offence[^key-449e09f923c81091ae8102a2e96a075c]
+## 9. Failure to refer: offence[^c-449e09f923c81091ae8102a2e96a075c]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ An organisation which fails, without reasonable excuse, to comply with a duty im
 
 ## Annotations
 
-[^key-449e09f923c81091ae8102a2e96a075c]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2007/14/section/9) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)
+[^c-449e09f923c81091ae8102a2e96a075c]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2007/14/section/9) in force at 28.2.2011 by [S.S.I. 2011/157](https://www.legislation.gov.uk/ssi/2011/157), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/157/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276. Investigations[^key-07ea83c96804ed7f3c1224fe0d12d51f]
+## 276. Investigations[^c-07ea83c96804ed7f3c1224fe0d12d51f]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ to the extent that those amendments made by section 54 of the 2000 Act have been
 
 ## Annotations
 
-[^key-07ea83c96804ed7f3c1224fe0d12d51f]: Commencement: S. 276 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-07ea83c96804ed7f3c1224fe0d12d51f]: Commencement: S. 276 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Contract reporting plan[^key-ea3659bc095d5365dc2a7095dc3a77b0]
+## 24. Contract reporting plan[^c-ea3659bc095d5365dc2a7095dc3a77b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea3659bc095d5365dc2a7095dc3a77b0]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2014/3337/regulation/24) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2024/420/regulation/28) (with [reg. 44(1)](https://www.legislation.gov.uk/uksi/2024/420/regulation/44/1))
+[^c-ea3659bc095d5365dc2a7095dc3a77b0]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2014/3337/regulation/24) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2024/420/regulation/28) (with [reg. 44(1)](https://www.legislation.gov.uk/uksi/2024/420/regulation/44/1))

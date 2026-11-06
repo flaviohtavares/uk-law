@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. Code of practice[^key-7830693c2aaec2c12aa89eefcb43b5f6][^key-0004655151087e095ab397ba04aeb5b7]
+## 63. Code of practice[^c-7830693c2aaec2c12aa89eefcb43b5f6][^c-0004655151087e095ab397ba04aeb5b7]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7830693c2aaec2c12aa89eefcb43b5f6]: Commencement: S. 63 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-7830693c2aaec2c12aa89eefcb43b5f6]: Commencement: S. 63 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-0004655151087e095ab397ba04aeb5b7]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2025/28/section/63) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-0004655151087e095ab397ba04aeb5b7]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2025/28/section/63) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

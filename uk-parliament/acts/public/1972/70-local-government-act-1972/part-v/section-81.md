@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 81. Exceptions to provisions of section 80.[^c15094811][^c15094821][^key-53e5125c94b9d2412d91de7a320d2534][^key-f2cb67322f07530203e2c6eb92d823bc]
+## 81. Exceptions to provisions of section 80.[^c15094811][^c15094821][^c-53e5125c94b9d2412d91de7a320d2534][^c-f2cb67322f07530203e2c6eb92d823bc]
 
 *Extent: E+W*
 
@@ -45,9 +45,9 @@ summary: ''
 
     S. 81: certain functions transferred (subject to modifications) (07.08.1991) by [S.I. 1991/1773](https://www.legislation.gov.uk/uksi/1991/1773), [arts. 6](https://www.legislation.gov.uk/uksi/1991/1773/article/6), [8](https://www.legislation.gov.uk/uksi/1991/1773/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/1773/schedule/1)
 
-[^key-53e5125c94b9d2412d91de7a320d2534]: Modification: Ss. 79-82 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
+[^c-53e5125c94b9d2412d91de7a320d2534]: Modification: Ss. 79-82 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
 
-[^key-f2cb67322f07530203e2c6eb92d823bc]: Modification: Ss. 79-82 applied (with modifications) (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/558/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/558/schedule/1)
+[^c-f2cb67322f07530203e2c6eb92d823bc]: Modification: Ss. 79-82 applied (with modifications) (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/558/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/558/schedule/1)
 
 [^c15094851]: Modification: S. 81(1)(2) applied (4.3.1996) by [S.I. 1996/263](https://www.legislation.gov.uk/uksi/1996/263), [reg. 7(6)](https://www.legislation.gov.uk/uksi/1996/263/regulation/7/6)
 

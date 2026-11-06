@@ -36,7 +36,7 @@ Corporation Tax
 
 Income Tax
 
-The Double Taxation Relief and International Tax Enforcement (Belarus) Order 2018 (revoked)[^key-100997c683a694a2ee41c24c73e6ce69]
+The Double Taxation Relief and International Tax Enforcement (Belarus) Order 2018 (revoked)[^c-100997c683a694a2ee41c24c73e6ce69]
 
 Made
 
@@ -48,23 +48,23 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-100997c683a694a2ee41c24c73e6ce69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-100997c683a694a2ee41c24c73e6ce69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-100997c683a694a2ee41c24c73e6ce69]
+## 1. Citation[^c-100997c683a694a2ee41c24c73e6ce69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Double taxation and international enforcement arrangements to have effect[^key-100997c683a694a2ee41c24c73e6ce69]
+## 2. Double taxation and international enforcement arrangements to have effect[^c-100997c683a694a2ee41c24c73e6ce69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-100997c683a694a2ee41c24c73e6ce69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-100997c683a694a2ee41c24c73e6ce69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-100997c683a694a2ee41c24c73e6ce69]
+## SCHEDULE[^c-100997c683a694a2ee41c24c73e6ce69]
 
 Article 2
 
@@ -72,8 +72,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-100997c683a694a2ee41c24c73e6ce69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-100997c683a694a2ee41c24c73e6ce69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-100997c683a694a2ee41c24c73e6ce69]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/778) revoked (with effect in accordance with art. 2 of the amending S.I.) by [The Double Taxation Relief and International Tax Enforcement (Belarus) (Revocation) Order 2025 (S.I. 2025/345)](https://www.legislation.gov.uk/uksi/2025/345), [arts. 2](https://www.legislation.gov.uk/uksi/2025/345/article/2), [3](https://www.legislation.gov.uk/uksi/2025/345/article/3)
+[^c-100997c683a694a2ee41c24c73e6ce69]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/778) revoked (with effect in accordance with art. 2 of the amending S.I.) by [The Double Taxation Relief and International Tax Enforcement (Belarus) (Revocation) Order 2025 (S.I. 2025/345)](https://www.legislation.gov.uk/uksi/2025/345), [arts. 2](https://www.legislation.gov.uk/uksi/2025/345/article/2), [3](https://www.legislation.gov.uk/uksi/2025/345/article/3)

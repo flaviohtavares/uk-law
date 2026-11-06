@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Additional duties on owners and keepers of laying hens kept in battery cages[^key-42a52635ae89efbf5811aa59a39fd10a]
+## 4. Additional duties on owners and keepers of laying hens kept in battery cages[^c-42a52635ae89efbf5811aa59a39fd10a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42a52635ae89efbf5811aa59a39fd10a]: Textual amendment: Reg. 4 revoked (1.1.2003) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/uksi/2002/1898), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/2/3)
+[^c-42a52635ae89efbf5811aa59a39fd10a]: Textual amendment: Reg. 4 revoked (1.1.2003) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/uksi/2002/1898), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/2/3)

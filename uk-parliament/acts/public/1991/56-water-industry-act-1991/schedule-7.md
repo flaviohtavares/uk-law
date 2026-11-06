@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — PRE-1985 FLUORIDATION SCHEMES[^key-d1bdcb59eed7ce0d4aec44eab57b70f8]
+## SCHEDULE 7 — PRE-1985 FLUORIDATION SCHEMES[^c-d1bdcb59eed7ce0d4aec44eab57b70f8]
 
 *Extent: E+W*
 
 Section 91.
 
-### Operation of pre-1985 schemes[^key-d1bdcb59eed7ce0d4aec44eab57b70f8]
+### Operation of pre-1985 schemes[^c-d1bdcb59eed7ce0d4aec44eab57b70f8]
 
 **No longer in force.**
 
@@ -58,7 +58,7 @@ that water undertaker may, while the conditions mentioned in sub-paragraph (2) b
 
 ## Annotations
 
-[^key-d1bdcb59eed7ce0d4aec44eab57b70f8]: Textual amendment: Sch. 7 repealed (26.3.2010 for E.) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 58(9)](https://www.legislation.gov.uk/ukpga/2003/37/section/58/9), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2010/975](https://www.legislation.gov.uk/uksi/2010/975), [art. 2](https://www.legislation.gov.uk/uksi/2010/975/article/2)
+[^c-d1bdcb59eed7ce0d4aec44eab57b70f8]: Textual amendment: Sch. 7 repealed (26.3.2010 for E.) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 58(9)](https://www.legislation.gov.uk/ukpga/2003/37/section/58/9), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2010/975](https://www.legislation.gov.uk/uksi/2010/975), [art. 2](https://www.legislation.gov.uk/uksi/2010/975/article/2)
 
 [^c13225421]: Marginal citation: [1985 c. 63](https://www.legislation.gov.uk/ukpga/1985/63).
 

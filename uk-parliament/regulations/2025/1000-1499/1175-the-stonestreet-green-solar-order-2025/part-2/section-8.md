@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Disapplication, application and modification of legislative provisions[^key-c16183b7b7b90f80903a7d67f131a358]
+## 8. Disapplication, application and modification of legislative provisions[^c-c16183b7b7b90f80903a7d67f131a358]
 
 *Extent: E+W+S*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c16183b7b7b90f80903a7d67f131a358]: Commencement: Art. 8 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-c16183b7b7b90f80903a7d67f131a358]: Commencement: Art. 8 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
 [^f00028]: Footnote: [2017 c. 20](https://www.legislation.gov.uk/ukpga/2017/20).
 

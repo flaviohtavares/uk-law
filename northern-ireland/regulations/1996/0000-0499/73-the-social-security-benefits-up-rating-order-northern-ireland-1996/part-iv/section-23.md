@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Revocation[^key-7c4eaca37d5676e7dcfbc1cbc5f0463b]
+## 23. Revocation[^c-7c4eaca37d5676e7dcfbc1cbc5f0463b]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ The Social Security Benefits Up-rating Order (Northern Ireland) 1995[^f00037] is
 
 ## Annotations
 
-[^key-7c4eaca37d5676e7dcfbc1cbc5f0463b]: Commencement: Art. 23 in operation at 11.4.1996, see [art. 1(1)(g)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/g)
+[^c-7c4eaca37d5676e7dcfbc1cbc5f0463b]: Commencement: Art. 23 in operation at 11.4.1996, see [art. 1(1)(g)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/g)
 
 [^f00037]: Footnote: [S.R. 1995 No. 71](https://www.legislation.gov.uk/nisr/1995/71)

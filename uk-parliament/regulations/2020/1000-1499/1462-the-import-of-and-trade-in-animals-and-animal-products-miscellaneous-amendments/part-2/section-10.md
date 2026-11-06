@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10.[^key-72fd0fb36789b2ecc6f6255d0ed361ea]
+## 10.[^c-72fd0fb36789b2ecc6f6255d0ed361ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 14(1), after “must notify” insert “ , through the appropriat
 
 ## Annotations
 
-[^key-72fd0fb36789b2ecc6f6255d0ed361ea]: Commencement: Reg. 10 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-72fd0fb36789b2ecc6f6255d0ed361ea]: Commencement: Reg. 10 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

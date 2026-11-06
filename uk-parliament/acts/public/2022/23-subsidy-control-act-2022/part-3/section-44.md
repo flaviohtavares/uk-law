@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. National or global economic emergencies[^key-d3232edab3bcc44fb2ba78a359665724][^key-f160b897b85d77c06003d10ea73382a3]
+## 44. National or global economic emergencies[^c-d3232edab3bcc44fb2ba78a359665724][^c-f160b897b85d77c06003d10ea73382a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3232edab3bcc44fb2ba78a359665724]: Commencement: S. 44 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-d3232edab3bcc44fb2ba78a359665724]: Commencement: S. 44 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-f160b897b85d77c06003d10ea73382a3]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2022/23/section/44) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-f160b897b85d77c06003d10ea73382a3]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2022/23/section/44) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 94(4) of the Community Empowerment (Scotland) Act 2015[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-e3845b5ffc1d8d59d23d3265732fdd22]
+## 1. Citation and commencement[^c-e3845b5ffc1d8d59d23d3265732fdd22]
 
 These Regulations may be cited as the Community Empowerment (Registers of Land) (Scotland) Regulations 2016 and come into force on 23rd January 2017.
 
-## 2. Land not included in registers of land[^key-b32b1e1e0dbb27d66552dedaa41aeb3a]
+## 2. Land not included in registers of land[^c-b32b1e1e0dbb27d66552dedaa41aeb3a]
 
 (1) The land that a relevant authority need not include in the register of land established and maintained under section 94(1) of the Community Empowerment (Scotland) Act 2015 is—
 
@@ -64,7 +64,7 @@ These Regulations may be cited as the Community Empowerment (Registers of Land) 
   - (iii) any associated reservoirs, feeders, sluices or weirs; and
   - (iv) any other land use of which is ancillary to the operation of the canal;
 - (d) any bus station or associated facilities (within the meaning given by section 83(5) of the Transport Act 1985[^f00004]);
-- (da)[^key-c3121b4f88ef8282bbf16a2429269aa3] any—
+- (da)[^c-c3121b4f88ef8282bbf16a2429269aa3] any—
   - (i) house (within the meaning given by section 165 of the Housing (Scotland) Act 2010[^f00005]); and
   - (ii) lodging-house or hostel which is operated on a non-commercial basis,
 
@@ -77,9 +77,9 @@ These Regulations may be cited as the Community Empowerment (Registers of Land) 
 - (f) any—
   - (i) land solely or mainly occupied by a mast to which there is attached any electronic communications apparatus used, wholly or in part, for the purposes of any emergency service; and
   - (ii) other land used for the purpose of gaining access to that land or for the purpose of inspecting, maintaining, repairing, altering, replacing or removing such a mast or any electronic apparatus attached to such a mast;
-- (g) any land used solely or mainly in connection with covert police operations carried out for the purposes of policing (within the meaning given by section 99(1) of the Police and Fire Reform[^key-d3881ceacb9118d3fcd108b4f719d4c3] (Scotland) Act 2012[^f00007]);
+- (g) any land used solely or mainly in connection with covert police operations carried out for the purposes of policing (within the meaning given by section 99(1) of the Police and Fire Reform[^c-d3881ceacb9118d3fcd108b4f719d4c3] (Scotland) Act 2012[^f00007]);
 - (h) any mineral rights which are owned or leased separately from the land in respect of which they are exigible; and
-- (i) any souvenir plot (within the meaning given by section 22(2) of the Land Registration etc.[^key-b716f4a11bcfb549249e293a0a006640] (Scotland) Act 2012[^f00008]).
+- (i) any souvenir plot (within the meaning given by section 22(2) of the Land Registration etc.[^c-b716f4a11bcfb549249e293a0a006640] (Scotland) Act 2012[^f00008]).
 
 (2) In this regulation “emergency service” means a police, fire and rescue, ambulance or other service which may be required to respond to an emergency.
 
@@ -103,9 +103,9 @@ These Regulations specify descriptions of land that need not be included in the 
 
 [^f00001]: Footnote: [2015 asp 6](https://www.legislation.gov.uk/asp/2015/6).
 
-[^key-e3845b5ffc1d8d59d23d3265732fdd22]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/362/regulation/1) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/362/regulation/1)
+[^c-e3845b5ffc1d8d59d23d3265732fdd22]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/362/regulation/1) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/362/regulation/1)
 
-[^key-b32b1e1e0dbb27d66552dedaa41aeb3a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/362/regulation/2) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/362/regulation/1)
+[^c-b32b1e1e0dbb27d66552dedaa41aeb3a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/362/regulation/2) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/362/regulation/1)
 
 [^f00002]: Footnote: [1984 c.54](https://www.legislation.gov.uk/ukpga/1984/54). The definition of “road” was amended by paragraph 94(b) of schedule 8 of the New Roads and Street Works Act [1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22).
 
@@ -113,16 +113,16 @@ These Regulations specify descriptions of land that need not be included in the 
 
 [^f00004]: Footnote: [1985 c.67](https://www.legislation.gov.uk/ukpga/1985/67).
 
-[^key-c3121b4f88ef8282bbf16a2429269aa3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/362/regulation/2/1) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2016/411/regulation/6/2/a)
+[^c-c3121b4f88ef8282bbf16a2429269aa3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/362/regulation/2/1) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2016/411/regulation/6/2/a)
 
 [^f00005]: Footnote: [2010 asp 17](https://www.legislation.gov.uk/asp/2010/17).
 
 [^f00006]: Footnote: [S.I. 2015/48](https://www.legislation.gov.uk/uksi/2015/48).
 
-[^key-d3881ceacb9118d3fcd108b4f719d4c3]: Textual amendment: Word in [reg. 2(1)(g)](https://www.legislation.gov.uk/ssi/2016/362/regulation/2/1/g) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2016/411/regulation/6/2/b)
+[^c-d3881ceacb9118d3fcd108b4f719d4c3]: Textual amendment: Word in [reg. 2(1)(g)](https://www.legislation.gov.uk/ssi/2016/362/regulation/2/1/g) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2016/411/regulation/6/2/b)
 
 [^f00007]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
 
-[^key-b716f4a11bcfb549249e293a0a006640]: Textual amendment: Word in [reg. 2(1)(i)](https://www.legislation.gov.uk/ssi/2016/362/regulation/2/1/i) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/ssi/2016/411/regulation/6/2/c)
+[^c-b716f4a11bcfb549249e293a0a006640]: Textual amendment: Word in [reg. 2(1)(i)](https://www.legislation.gov.uk/ssi/2016/362/regulation/2/1/i) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/ssi/2016/411/regulation/6/2/c)
 
 [^f00008]: Footnote: [2012 asp 5](https://www.legislation.gov.uk/asp/2012/5).

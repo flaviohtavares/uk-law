@@ -37,7 +37,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## 1. Dissolution of Pensions Commutation Board and amendments as to award and payment of amounts by way of commutation of pension.
 
-(1)[^key-54d498bc1ee8420b47c9e203424172f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-54d498bc1ee8420b47c9e203424172f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) As from the commencement of this Act the power of the Treasury under section 4 of the 1871 Act to commute the pension of a person to whom that Act applies (or a portion of such a pension) by the payment of a capital sum shall, instead of being exercisable by the Treasury, be exercisable—
 
@@ -57,7 +57,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (7) In this section “**pension**” means a pension within the meaning of the 1871 Act or any allowance in relation to the commutation of which the Pensions Commutation Acts 1871 to 1882 continue to apply by virtue of any enactment.
 
-(8)[^key-b45a23f15dea31fe45e9630235f5076a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-b45a23f15dea31fe45e9630235f5076a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Regulations under the Pensions Commutation Act 1871.
 
@@ -77,8 +77,8 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Annotations
 
-[^key-54d498bc1ee8420b47c9e203424172f3]: Textual amendment: [S. 1(1)](https://www.legislation.gov.uk/ukpga/1984/7/section/1/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 12
+[^c-54d498bc1ee8420b47c9e203424172f3]: Textual amendment: [S. 1(1)](https://www.legislation.gov.uk/ukpga/1984/7/section/1/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 12
 
-[^key-b45a23f15dea31fe45e9630235f5076a]: Textual amendment: [S. 1(8)](https://www.legislation.gov.uk/ukpga/1984/7/section/1/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 12
+[^c-b45a23f15dea31fe45e9630235f5076a]: Textual amendment: [S. 1(8)](https://www.legislation.gov.uk/ukpga/1984/7/section/1/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 12
 
 [^c765478]: Modification: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1984/7/section/3/2) power of appointment conferred by s. 3(2) fully exercised: 20.8.1984 appointed by [S.I. 1984/1140](https://www.legislation.gov.uk/uksi/1984/1140)

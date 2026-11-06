@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Deprivation order: availability[^key-15a066f274d6402478b38639ecad1f52]
+## 153. Deprivation order: availability[^c-15a066f274d6402478b38639ecad1f52]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ consists of unlawful possession of the property.
 
 ## Annotations
 
-[^key-15a066f274d6402478b38639ecad1f52]: Commencement: S. 153 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-15a066f274d6402478b38639ecad1f52]: Commencement: S. 153 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Allocation only to eligible and qualifying persons: England[^key-4a5849a4d629de117d7f77e693606c8f][^key-97ad0922990e4d69278c5130a6fbf8c0]
+## 146. Allocation only to eligible and qualifying persons: England[^c-4a5849a4d629de117d7f77e693606c8f][^c-97ad0922990e4d69278c5130a6fbf8c0]
 
 *Extent: E+W*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a5849a4d629de117d7f77e693606c8f]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2011/20/section/146) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(k)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/k) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-4a5849a4d629de117d7f77e693606c8f]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2011/20/section/146) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(k)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/k) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-97ad0922990e4d69278c5130a6fbf8c0]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2011/20/section/146) in force at 18.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 3](https://www.legislation.gov.uk/uksi/2012/1463/article/3)
+[^c-97ad0922990e4d69278c5130a6fbf8c0]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2011/20/section/146) in force at 18.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 3](https://www.legislation.gov.uk/uksi/2012/1463/article/3)

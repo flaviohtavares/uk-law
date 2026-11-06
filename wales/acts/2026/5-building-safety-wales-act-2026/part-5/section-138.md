@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138. Coming into force[^key-591e0703395021b624906c151c1ecb48]
+## 138. Coming into force[^c-591e0703395021b624906c151c1ecb48]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-591e0703395021b624906c151c1ecb48]: Commencement: S. 138 in force at 28.4.2026, see [s. 138(1)(e)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/e)
+[^c-591e0703395021b624906c151c1ecb48]: Commencement: S. 138 in force at 28.4.2026, see [s. 138(1)(e)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/e)

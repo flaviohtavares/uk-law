@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Employer not to deduct contributions where member gives certificate[^key-d59b7238b582e7b724ebff8d5c405221]
+## 86. Employer not to deduct contributions where member gives certificate[^c-d59b7238b582e7b724ebff8d5c405221]
 
 *Extent: E+W+S*
 
-(1) If a member of a trade union which has a political fund certifies in writing to his employer that, or to the effect that —[^key-8267184b0c5d2d5ff2b84ea99a661f84]
+(1) If a member of a trade union which has a political fund certifies in writing to his employer that, or to the effect that —[^c-8267184b0c5d2d5ff2b84ea99a661f84]
 
 - (a) the member is not a contributor to the fund, or
 - (b) the member has given the union an opt-out notice but it does not yet have effect,
@@ -33,6 +33,6 @@ the employer shall ensure that no amount representing a contribution to the poli
 
 ## Annotations
 
-[^key-d59b7238b582e7b724ebff8d5c405221]: Textual amendment: S. 86 heading substituted (1.3.2017) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/7/2); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(n)(i)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/n/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/139/regulation/4))
+[^c-d59b7238b582e7b724ebff8d5c405221]: Textual amendment: S. 86 heading substituted (1.3.2017) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/7/2); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(n)(i)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/n/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/139/regulation/4))
 
-[^key-8267184b0c5d2d5ff2b84ea99a661f84]: Textual amendment: Words in s. 86(1) substituted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 62(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/62/4), [159(2)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/b)
+[^c-8267184b0c5d2d5ff2b84ea99a661f84]: Textual amendment: Words in s. 86(1) substituted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 62(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/62/4), [159(2)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/b)

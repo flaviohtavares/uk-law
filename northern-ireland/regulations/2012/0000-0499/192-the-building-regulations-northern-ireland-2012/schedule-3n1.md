@@ -79,7 +79,7 @@ The following are the notices to be given and the plans, sections, specification
 
 (10) Any valid type approval certificate relevant to the application.
 
-(11)[^key-6821cd2028be062f18b26ddccae3f600] A notice stating that the analysis required by regulation 43A in Part F has been carried out and is available for verification.
+(11)[^c-6821cd2028be062f18b26ddccae3f600] A notice stating that the analysis required by regulation 43A in Part F has been carried out and is available for verification.
 
 ### Rule C: Alterations and extensions
 
@@ -169,7 +169,7 @@ Where it is considered necessary for the purpose of examining any proposals subm
 
 (12) Calculations for the purposes of regulation 65 in Part K.
 
-(13)[^key-3da9781beef8b8ccd37c7196fe23df4f] Documented analysis for the purposes of regulation 43A in Part F.
+(13)[^c-3da9781beef8b8ccd37c7196fe23df4f] Documented analysis for the purposes of regulation 43A in Part F.
 
 ## Annotations
 
@@ -181,6 +181,6 @@ Where it is considered necessary for the purpose of examining any proposals subm
 
 [^M_F_666a4a6c-b582-434e-9200-01a8145e8173]: Textual amendment: Sch. 3 Pt. A Rule B(5)(j) inserted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [9(1)(c)](https://www.legislation.gov.uk/nisr/2016/412/regulation/9/1/c) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))
 
-[^key-6821cd2028be062f18b26ddccae3f600]: Textual amendment: Sch. 3 Pt. A Rule B(11) inserted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [7(a)](https://www.legislation.gov.uk/nisr/2014/44/regulation/7/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))
+[^c-6821cd2028be062f18b26ddccae3f600]: Textual amendment: Sch. 3 Pt. A Rule B(11) inserted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [7(a)](https://www.legislation.gov.uk/nisr/2014/44/regulation/7/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))
 
-[^key-3da9781beef8b8ccd37c7196fe23df4f]: Textual amendment: Sch. 3 Pt. A Rule F(13) inserted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [7(b)](https://www.legislation.gov.uk/nisr/2014/44/regulation/7/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))
+[^c-3da9781beef8b8ccd37c7196fe23df4f]: Textual amendment: Sch. 3 Pt. A Rule F(13) inserted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [7(b)](https://www.legislation.gov.uk/nisr/2014/44/regulation/7/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))

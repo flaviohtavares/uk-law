@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-c4c092298ff4ca291f6995dc315dff64]
+## 1. Citation and commencement[^c-c4c092298ff4ca291f6995dc315dff64]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Norfolk Vanguard Offshore Wind Farm Order 2020 an
 
 ## Annotations
 
-[^key-c4c092298ff4ca291f6995dc315dff64]: Commencement: Art. 1 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-c4c092298ff4ca291f6995dc315dff64]: Commencement: Art. 1 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)

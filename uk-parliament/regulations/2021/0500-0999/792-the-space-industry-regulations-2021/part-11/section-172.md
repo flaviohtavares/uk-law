@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Access control to space sites: sufficient security measures[^key-9aa35ad48413bf7fb261302f059dd4d3]
+## 172. Access control to space sites: sufficient security measures[^c-9aa35ad48413bf7fb261302f059dd4d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9aa35ad48413bf7fb261302f059dd4d3]: Commencement: Reg. 172 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-9aa35ad48413bf7fb261302f059dd4d3]: Commencement: Reg. 172 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

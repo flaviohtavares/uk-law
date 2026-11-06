@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. Power to make consequential etc provision[^key-9400f4839cb61c9db33ff89b39b3120f]
+## 194. Power to make consequential etc provision[^c-9400f4839cb61c9db33ff89b39b3120f]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9400f4839cb61c9db33ff89b39b3120f]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2011/20/section/194) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(z)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/z) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-9400f4839cb61c9db33ff89b39b3120f]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2011/20/section/194) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(z)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/z) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

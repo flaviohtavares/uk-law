@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Review of notices and directions[^key-b11b1c6e624eded7dd09394d9ddd3d84][^key-2cc3ca51d2b04287e1c6400824c1e3fe]
+## 78. Review of notices and directions[^c-b11b1c6e624eded7dd09394d9ddd3d84][^c-2cc3ca51d2b04287e1c6400824c1e3fe]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ If the Commission gives a governing body a notice or direction to which this sec
 
 ## Annotations
 
-[^key-b11b1c6e624eded7dd09394d9ddd3d84]: Commencement: S. 78 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-b11b1c6e624eded7dd09394d9ddd3d84]: Commencement: S. 78 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-2cc3ca51d2b04287e1c6400824c1e3fe]: Commencement: [S. 78](https://www.legislation.gov.uk/asc/2022/1/section/78) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(aa)](https://www.legislation.gov.uk/wsi/2025/432/article/2/aa)
+[^c-2cc3ca51d2b04287e1c6400824c1e3fe]: Commencement: [S. 78](https://www.legislation.gov.uk/asc/2022/1/section/78) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(aa)](https://www.legislation.gov.uk/wsi/2025/432/article/2/aa)

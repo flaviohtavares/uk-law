@@ -22,7 +22,7 @@ summary: ''
 
 Articles 9 and 10
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT[^key-ec8eeda7e79ca7c5e92f44f00b2e1fe1]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT[^c-ec8eeda7e79ca7c5e92f44f00b2e1fe1]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ Articles 9 and 10
 | Rutland County Council | Main Street | Works for the provision of a permanent means of access to the authorised development within the area shown hatched in orange on sheet 4 (Part 1 of 2) of the access and rights of way plans, reference AS–12 |
 | Rutland County Council and Lincolnshire County Council | Uffington Lane | Works for the provision of a permanent means of access to the authorised development within the area shown hatched in orange on sheet 4 (Part 1 of 2) of the access and rights of way plans, reference AS–13 |
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^key-5df7528f2b6b7c4a001ac29b083cc4e2]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^c-5df7528f2b6b7c4a001ac29b083cc4e2]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
@@ -49,6 +49,6 @@ Articles 9 and 10
 
 ## Annotations
 
-[^key-ec8eeda7e79ca7c5e92f44f00b2e1fe1]: Commencement: Sch. 5 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-ec8eeda7e79ca7c5e92f44f00b2e1fe1]: Commencement: Sch. 5 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-5df7528f2b6b7c4a001ac29b083cc4e2]: Commencement: Sch. 5 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-5df7528f2b6b7c4a001ac29b083cc4e2]: Commencement: Sch. 5 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)

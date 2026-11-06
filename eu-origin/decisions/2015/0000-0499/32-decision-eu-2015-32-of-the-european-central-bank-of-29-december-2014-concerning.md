@@ -31,10 +31,10 @@ Decision (EU) 2015/32 of the European Central Bank
 
 of 29 December 2014 concerning derogations that may be granted under Regulation (EU) No 1073/2013 concerning statistics on the assets and liabilities of investment funds (ECB/2013/38) (recast) (ECB/2014/62) (revoked)
 
-[^key-b969c44d7e750f502d06b6192dd8836a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b969c44d7e750f502d06b6192dd8836a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-b969c44d7e750f502d06b6192dd8836a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-b969c44d7e750f502d06b6192dd8836a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b969c44d7e750f502d06b6192dd8836a]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/80)
+[^c-b969c44d7e750f502d06b6192dd8836a]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/80)

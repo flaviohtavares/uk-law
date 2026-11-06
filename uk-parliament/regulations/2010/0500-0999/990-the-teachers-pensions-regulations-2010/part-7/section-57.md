@@ -29,7 +29,7 @@ summary: ''
 (2) Condition 1 is that—
 
 - (a) P is in pensionable or excluded employment, and
-- (b) there is a reduction in P's contributable salary in that employment (“the reduced salary”) such that the annual rate of the reduced salary does not exceed 80% of the average annual rate of P's contributable salary during the 12 months[^key-ac11483eccbec037eaf30cb6f47bdc00] before the reduction.
+- (b) there is a reduction in P's contributable salary in that employment (“the reduced salary”) such that the annual rate of the reduced salary does not exceed 80% of the average annual rate of P's contributable salary during the 12 months[^c-ac11483eccbec037eaf30cb6f47bdc00] before the reduction.
 
 (3) For the purpose of calculating the annual rate of the reduced salary, any standard increase taking effect on the day when P's employment at the new contributable salary starts must be ignored.
 
@@ -37,7 +37,7 @@ summary: ''
 
 - (a) after reaching the age of 55, P ceases to be in pensionable or excluded employment (“**the previous employment**”),
 - (b) within 6 months of the last day of the previous employment, P enters employment in a capacity mentioned in Schedule 2 or an employment which falls within paragraph (5) (“**the new employment**”), and
-- (c) the annual rate of P's contributable salary in the new employment does not exceed 80% of the average annual rate of P's contributable salary during the last 12 months[^key-517ab233ca6abc50245704912da26f17] of the previous employment.
+- (c) the annual rate of P's contributable salary in the new employment does not exceed 80% of the average annual rate of P's contributable salary during the last 12 months[^c-517ab233ca6abc50245704912da26f17] of the previous employment.
 
 (5) An employment falls within this paragraph if—
 
@@ -83,6 +83,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ac11483eccbec037eaf30cb6f47bdc00]: Textual amendment: Words in [reg. 57(2)(b)](https://www.legislation.gov.uk/uksi/2010/990/regulation/57/2/b) substituted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1084/regulation/3)
+[^c-ac11483eccbec037eaf30cb6f47bdc00]: Textual amendment: Words in [reg. 57(2)(b)](https://www.legislation.gov.uk/uksi/2010/990/regulation/57/2/b) substituted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1084/regulation/3)
 
-[^key-517ab233ca6abc50245704912da26f17]: Textual amendment: Words in [reg. 57(4)(c)](https://www.legislation.gov.uk/uksi/2010/990/regulation/57/4/c) substituted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1084/regulation/3)
+[^c-517ab233ca6abc50245704912da26f17]: Textual amendment: Words in [reg. 57(4)(c)](https://www.legislation.gov.uk/uksi/2010/990/regulation/57/4/c) substituted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1084/regulation/3)

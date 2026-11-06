@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Trial by single justice on the papers[^key-16c04d8bd5c1e140d4c2a809b50776f3]
+## 48. Trial by single justice on the papers[^c-16c04d8bd5c1e140d4c2a809b50776f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -171,4 +171,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16c04d8bd5c1e140d4c2a809b50776f3]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2015/2/section/48) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/39)
+[^c-16c04d8bd5c1e140d4c2a809b50776f3]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2015/2/section/48) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/39)

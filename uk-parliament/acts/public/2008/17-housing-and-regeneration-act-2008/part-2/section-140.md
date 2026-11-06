@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Charity: auditor's powers[^key-50c6a6ce34ba6ab289e1e54f4b5eeedd]
+## 140. Charity: auditor's powers[^c-50c6a6ce34ba6ab289e1e54f4b5eeedd]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50c6a6ce34ba6ab289e1e54f4b5eeedd]: Commencement: S. 140 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-50c6a6ce34ba6ab289e1e54f4b5eeedd]: Commencement: S. 140 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

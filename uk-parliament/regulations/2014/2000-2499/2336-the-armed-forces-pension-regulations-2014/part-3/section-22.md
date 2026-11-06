@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Qualifying service[^key-389917612aaabbd28aee33d911b00c39]
+## 22. Qualifying service[^c-389917612aaabbd28aee33d911b00c39]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) any period on or after 1st April 2015, where the individual is an active member under regulation 16 (eligibility for active membership);
 - (b) if a transfer value payment or a cash transfer sum has been accepted under Part 8 (Transfers) in respect of rights accrued under another occupational pension scheme, a period equal to the person’s period as an active member in that scheme; and
-- (c) for a transition member with continuity of service, the person’s continuous period of pensionable service under a connected scheme before the person’s transition date[^key-654db4ad3325cb7307f01d16a876a58e].
+- (c) for a transition member with continuity of service, the person’s continuous period of pensionable service under a connected scheme before the person’s transition date[^c-654db4ad3325cb7307f01d16a876a58e].
 
 (2) In paragraph (1)—
 
@@ -52,6 +52,6 @@ This is subject to paragraph (4).
 
 ## Annotations
 
-[^key-389917612aaabbd28aee33d911b00c39]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/2336/regulation/22) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-389917612aaabbd28aee33d911b00c39]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/2336/regulation/22) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
 
-[^key-654db4ad3325cb7307f01d16a876a58e]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2014/2336/regulation/22) substituted (with effect on and after 1.4.2015) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2022/323/regulation/8/4) (with [reg. 8(7)](https://www.legislation.gov.uk/uksi/2022/323/regulation/8/7))
+[^c-654db4ad3325cb7307f01d16a876a58e]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2014/2336/regulation/22) substituted (with effect on and after 1.4.2015) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2022/323/regulation/8/4) (with [reg. 8(7)](https://www.legislation.gov.uk/uksi/2022/323/regulation/8/7))

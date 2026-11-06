@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Amendment of the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1986[^key-d42d654f013b4d12ec1548b78820ea1b]
+## 30. Amendment of the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (Northern Ireland) 1986[^c-d42d654f013b4d12ec1548b78820ea1b]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (North
 
 ## Annotations
 
-[^key-d42d654f013b4d12ec1548b78820ea1b]: Commencement: Reg. 30 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-d42d654f013b4d12ec1548b78820ea1b]: Commencement: Reg. 30 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
 [^f00020]: Footnote: [S.R. 1986 No. 247](https://www.legislation.gov.uk/nisr/1986/247); paragraph 13A was added by [S.R. 1988 No. 24](https://www.legislation.gov.uk/nisr/1988/24), regulation 25(3)(*b*) and was modified by [S.R. 1992 No. 260](https://www.legislation.gov.uk/nisr/1992/260), regulation 30(3) and Schedule 5 Part II paragraph 1

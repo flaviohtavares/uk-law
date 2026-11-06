@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. General qualifying conditions for fee loans[^key-74260d1bc0c811d53efb651ec20c42cc]
+## 17. General qualifying conditions for fee loans[^c-74260d1bc0c811d53efb651ec20c42cc]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74260d1bc0c811d53efb651ec20c42cc]: Commencement: Reg. 17 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-74260d1bc0c811d53efb651ec20c42cc]: Commencement: Reg. 17 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

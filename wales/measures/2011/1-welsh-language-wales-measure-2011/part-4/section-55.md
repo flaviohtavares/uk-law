@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Challenging existing duties[^key-de9ee705ea64c01d75831309139085eb]
+## 55. Challenging existing duties[^c-de9ee705ea64c01d75831309139085eb]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de9ee705ea64c01d75831309139085eb]: Commencement: [S. 55](https://www.legislation.gov.uk/mwa/2011/1/section/55) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)
+[^c-de9ee705ea64c01d75831309139085eb]: Commencement: [S. 55](https://www.legislation.gov.uk/mwa/2011/1/section/55) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/b)

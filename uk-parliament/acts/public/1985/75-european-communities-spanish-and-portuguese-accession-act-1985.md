@@ -31,18 +31,18 @@ European Communities (Spanish and Portuguese Accession) Act 1985 (repealed)
 
 1985 c. 75
 
-[^key-b869ee363bd3c82d59acdd0c9acbcc31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b869ee363bd3c82d59acdd0c9acbcc31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Extended meaning of “the Treaties” and “the EU Treaties”.[^key-b869ee363bd3c82d59acdd0c9acbcc31]
+## 1. Extended meaning of “the Treaties” and “the EU Treaties”.[^c-b869ee363bd3c82d59acdd0c9acbcc31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-b869ee363bd3c82d59acdd0c9acbcc31]
+## 2.[^c-b869ee363bd3c82d59acdd0c9acbcc31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b869ee363bd3c82d59acdd0c9acbcc31]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/75) repealed (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b869ee363bd3c82d59acdd0c9acbcc31]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/75) repealed (31.12.2020) by [The European Union (Withdrawal) Act 2018 (Consequential Modifications and Repeals and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/628)](https://www.legislation.gov.uk/uksi/2019/628), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/628/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2019/628/schedule/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

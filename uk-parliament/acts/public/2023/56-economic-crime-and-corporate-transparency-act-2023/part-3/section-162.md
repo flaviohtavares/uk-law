@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Registrable beneficial owners: nominees[^key-26770001d6222a10ff914a676914a121][^key-a41a4e98471bd471c12b2c94dbc8ea31]
+## 162. Registrable beneficial owners: nominees[^c-26770001d6222a10ff914a676914a121][^c-a41a4e98471bd471c12b2c94dbc8ea31]
 
 *Extent: E+W+S+N.I.*
 
@@ -117,6 +117,6 @@ summary: ''
 
 ## Annotations
 
-[^key-26770001d6222a10ff914a676914a121]: Commencement: S. 162 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-26770001d6222a10ff914a676914a121]: Commencement: S. 162 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-a41a4e98471bd471c12b2c94dbc8ea31]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2023/56/section/162) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z50)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z50) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/269/regulation/6))
+[^c-a41a4e98471bd471c12b2c94dbc8ea31]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2023/56/section/162) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z50)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z50) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/269/regulation/6))

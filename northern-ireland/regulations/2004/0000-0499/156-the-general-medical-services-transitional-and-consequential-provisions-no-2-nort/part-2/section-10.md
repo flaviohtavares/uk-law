@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Applications for acceptance as a temporary resident[^key-0a98322f17df24e3d11dd11f2e37af7a]
+## 10. Applications for acceptance as a temporary resident[^c-0a98322f17df24e3d11dd11f2e37af7a]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where, on or before 31st March 2004, a person had applied to a relevant medical 
 
 ## Annotations
 
-[^key-0a98322f17df24e3d11dd11f2e37af7a]: Commencement: Art. 10 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-0a98322f17df24e3d11dd11f2e37af7a]: Commencement: Art. 10 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

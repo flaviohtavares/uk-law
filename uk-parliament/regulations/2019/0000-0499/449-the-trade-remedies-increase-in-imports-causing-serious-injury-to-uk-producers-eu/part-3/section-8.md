@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Determination of serious injury[^key-d00eca17c04d3d2fbb62decce7bec4dc]
+## 8. Determination of serious injury[^c-d00eca17c04d3d2fbb62decce7bec4dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d00eca17c04d3d2fbb62decce7bec4dc]: Commencement: Reg. 8 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-d00eca17c04d3d2fbb62decce7bec4dc]: Commencement: Reg. 8 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

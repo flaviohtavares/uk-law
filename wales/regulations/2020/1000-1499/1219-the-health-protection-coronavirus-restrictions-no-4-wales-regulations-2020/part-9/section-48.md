@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Consequential amendment[^key-b5ff2d67d9dfe242c434788670dcb619]
+## 48. Consequential amendment[^c-b5ff2d67d9dfe242c434788670dcb619]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In regulation 19(10) of the Health Protection (Coronavirus Restrictions) (Functi
 
 ## Annotations
 
-[^key-b5ff2d67d9dfe242c434788670dcb619]: Commencement: Reg. 48 in force at 9.11.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1219/regulation/1/3)
+[^c-b5ff2d67d9dfe242c434788670dcb619]: Commencement: Reg. 48 in force at 9.11.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1219/regulation/1/3)

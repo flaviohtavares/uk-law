@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Schedule to be inserted in the Pneumoconiosis etc. (Workers' Compensation) Act 1979[^key-1151e34c8c17683e2fc190ceb7f69ee1][^key-64a2af1ff6440148d65e92c92f5e9483]
+## SCHEDULE 6 — Schedule to be inserted in the Pneumoconiosis etc. (Workers' Compensation) Act 1979[^c-1151e34c8c17683e2fc190ceb7f69ee1][^c-64a2af1ff6440148d65e92c92f5e9483]
 
 *Extent: E+W+S*
 
@@ -83,6 +83,6 @@ Section 58
 
 ## Annotations
 
-[^key-1151e34c8c17683e2fc190ceb7f69ee1]: Commencement: Sch. 6 in force at 12.7.2007 for specified purposes by [S.I. 2007/1991](https://www.legislation.gov.uk/uksi/2007/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/1)
+[^c-1151e34c8c17683e2fc190ceb7f69ee1]: Commencement: Sch. 6 in force at 12.7.2007 for specified purposes by [S.I. 2007/1991](https://www.legislation.gov.uk/uksi/2007/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/1)
 
-[^key-64a2af1ff6440148d65e92c92f5e9483]: Commencement: Sch. 6 in force at 10.8.2007 in so far as not already in force by [S.I. 2007/1991](https://www.legislation.gov.uk/uksi/2007/1991), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/2)
+[^c-64a2af1ff6440148d65e92c92f5e9483]: Commencement: Sch. 6 in force at 10.8.2007 in so far as not already in force by [S.I. 2007/1991](https://www.legislation.gov.uk/uksi/2007/1991), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/2)

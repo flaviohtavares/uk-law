@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 79. Weekly amounts of contribution-based jobseeker’s allowance[^key-863973b1ee3522ccd1687bc5f3a5194a]
+## 79. Weekly amounts of contribution-based jobseeker’s allowance[^c-863973b1ee3522ccd1687bc5f3a5194a]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-863973b1ee3522ccd1687bc5f3a5194a]: Commencement: Reg. 79 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-863973b1ee3522ccd1687bc5f3a5194a]: Commencement: Reg. 79 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

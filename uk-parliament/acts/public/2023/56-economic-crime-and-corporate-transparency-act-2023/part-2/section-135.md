@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Sequestration of limited partnerships: concurrent winding up proceedings[^key-b8592c1c391457e39a8f4950e5ddd0b5]
+## 135. Sequestration of limited partnerships: concurrent winding up proceedings[^c-b8592c1c391457e39a8f4950e5ddd0b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8592c1c391457e39a8f4950e5ddd0b5]: Commencement: S. 135 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-b8592c1c391457e39a8f4950e5ddd0b5]: Commencement: S. 135 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

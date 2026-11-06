@@ -24,7 +24,7 @@ summary: ''
 
 - (a) he is at least 18 years old,
 - (b) he is in the United Kingdom,
-- (c) a claim for asylum has been made by him at a place designated by the Secretary of State *(affected by repeal, see note)*[^key-a61d70f4f6baf4c0273e874c1921a0c5],
+- (c) a claim for asylum has been made by him at a place designated by the Secretary of State *(affected by repeal, see note)*[^c-a61d70f4f6baf4c0273e874c1921a0c5],
 - (d) the Secretary of State has recorded the claim, and
 - (e) the claim has not been determined.
 
@@ -51,6 +51,6 @@ the claim ceases to be treated as determined from the time of the decision to co
 
 [^c19204171]: Commencement: S. 18 partly in force; s. 18 not in force at Royal Assent see s. 162(2); s. 18 in force for certain purposes at 8.1.2003 and for further certain purposes at 10.2.2003 by [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)
 
-[^key-a61d70f4f6baf4c0273e874c1921a0c5]: Textual amendment: Words in [s. 18(1)(c)](https://www.legislation.gov.uk/ukpga/2002/41/section/18/1/c) omitted (28.4.2022 for specified purposes) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 14(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/14/4), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/a)
+[^c-a61d70f4f6baf4c0273e874c1921a0c5]: Textual amendment: Words in [s. 18(1)(c)](https://www.legislation.gov.uk/ukpga/2002/41/section/18/1/c) omitted (28.4.2022 for specified purposes) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 14(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/14/4), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/a)
 
 [^M_F_2f8df8d5-68c5-41cf-9f0f-9853642e6ed8]: Textual amendment: S. 18(1ZA)(1ZB) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 17(5)](https://www.legislation.gov.uk/ukpga/2022/36/section/17/5), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [reg. 2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/16)

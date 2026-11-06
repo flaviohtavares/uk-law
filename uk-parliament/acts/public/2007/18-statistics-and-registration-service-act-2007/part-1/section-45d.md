@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45D. Power to require disclosure by undertakings[^key-39f5951e045f78e941544707b4b567d9]
+## 45D. Power to require disclosure by undertakings[^c-39f5951e045f78e941544707b4b567d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 (9) But the undertaking need not comply with the notice if compliance—
 
 - (a) might prejudice national security,
-- (b) would contravene the data protection legislation[^key-a070ac7e783f5f8b6cf59ae08e6da319], or
+- (b) would contravene the data protection legislation[^c-a070ac7e783f5f8b6cf59ae08e6da319], or
 - (c) would be prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016.
 
 (10) Until the repeal of Part 1 of the Regulation of Investigatory Powers Act 2000 by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act 2016 is fully in force, subsection (9)(c) has effect as if it included a reference to that Part.
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-39f5951e045f78e941544707b4b567d9]: Textual amendment: Ss. 45B-45G inserted (1.10.2017 for E.W.S. for specified purposes, 1.5.2018 in so far as not already in force) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 80](https://www.legislation.gov.uk/ukpga/2017/30/section/80), [118(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/4); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/n); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(ll)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/ll)
+[^c-39f5951e045f78e941544707b4b567d9]: Textual amendment: Ss. 45B-45G inserted (1.10.2017 for E.W.S. for specified purposes, 1.5.2018 in so far as not already in force) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 80](https://www.legislation.gov.uk/ukpga/2017/30/section/80), [118(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/4); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/n); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(ll)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/ll)
 
-[^key-a070ac7e783f5f8b6cf59ae08e6da319]: Textual amendment: Words in s. 45D(9)(b) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 138](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/138) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-a070ac7e783f5f8b6cf59ae08e6da319]: Textual amendment: Words in s. 45D(9)(b) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 138](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/138) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

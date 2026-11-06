@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Restrictions relating to enforcement receivers[^key-6dbe9734a5a8b7fe82f365ad622b8b88]
+## 124. Restrictions relating to enforcement receivers[^c-6dbe9734a5a8b7fe82f365ad622b8b88]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,11 +30,11 @@ summary: ''
 
 (5) Before exercising any power conferred by paragraph (4), the court must give an opportunity to be heard to—
 
-- (a) the relevant Director [^key-1e5ca22dd20aa95247ebcab753128557]..., and
+- (a) the relevant Director [^c-1e5ca22dd20aa95247ebcab753128557]..., and
 - (b) the receiver (if the order under article 113 has been made).
 
 ## Annotations
 
-[^key-6dbe9734a5a8b7fe82f365ad622b8b88]: Commencement: [Art. 124](https://www.legislation.gov.uk/uksi/2005/3181/article/124) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-6dbe9734a5a8b7fe82f365ad622b8b88]: Commencement: [Art. 124](https://www.legislation.gov.uk/uksi/2005/3181/article/124) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-1e5ca22dd20aa95247ebcab753128557]: Textual amendment: Words in [art. 124(5)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/124/5/a) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(29)](https://www.legislation.gov.uk/uksi/2008/302/article/2/29)
+[^c-1e5ca22dd20aa95247ebcab753128557]: Textual amendment: Words in [art. 124(5)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/124/5/a) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(29)](https://www.legislation.gov.uk/uksi/2008/302/article/2/29)

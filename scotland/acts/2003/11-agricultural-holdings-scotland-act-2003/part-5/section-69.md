@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Good husbandry and conservation activities[^key-d290821a86c468049c6506e53c7b3d8c]
+## 69. Good husbandry and conservation activities[^c-d290821a86c468049c6506e53c7b3d8c]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d290821a86c468049c6506e53c7b3d8c]: Commencement: S. 69 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-d290821a86c468049c6506e53c7b3d8c]: Commencement: S. 69 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

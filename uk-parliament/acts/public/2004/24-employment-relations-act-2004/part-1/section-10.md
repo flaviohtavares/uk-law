@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Unfair practices in relation to recognition ballots[^key-4e7be738547f797b485bd3c2a92c32fb]
+## 10. Unfair practices in relation to recognition ballots[^c-4e7be738547f797b485bd3c2a92c32fb]
 
 *Extent: E+W+S*
 
@@ -149,4 +149,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e7be738547f797b485bd3c2a92c32fb]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2004/24/section/10) in force at 1.10.2005 by [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
+[^c-4e7be738547f797b485bd3c2a92c32fb]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2004/24/section/10) in force at 1.10.2005 by [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2005/2419/article/5))

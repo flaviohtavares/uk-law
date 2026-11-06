@@ -30,7 +30,7 @@ summary: ''
 
 (2)[^c4798591] The Railways Board may make bylaws in relation to passengers and goods conveyed in or on ships operated by the Board, and as to their embarkation and disembarkation.
 
-(2A)[^key-1d333358a3b2fb1a101d9ea40c51af2e][^c4798601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-1d333358a3b2fb1a101d9ea40c51af2e][^c4798601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c4798621] Any byelaws made under this section may provide—
 
@@ -71,9 +71,9 @@ shall be prima facie evidence of the facts stated in the certificate.
 (15) In the bylaws made by the Commission under the said Acts of 1845 which relate to the railways of the Commission other than those of London Regional Transport[^c4798981] which were confirmed by the Minister on the fifth day of December, nineteen hundred and fifty-seven,—
 
 - (a) for references to the Commission there shall be substituted references to the Railways Board, the Docks Board and the British Waterways Board, and
-- (b)[^key-6dcf329a2bee385ca3dea1b38ebce447] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6dcf329a2bee385ca3dea1b38ebce447] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(16) Any power exercisable by the Docks Board or the British Waterways Board under any local enactment to make bylaws as regards any harbour comprised in their undertaking shall include power to make any such bylaws in relation to railways within the harbour as the Railways Board [^key-e705690cbec63493174893579595d6c7]... have power to make under this section in relation to their railways.
+(16) Any power exercisable by the Docks Board or the British Waterways Board under any local enactment to make bylaws as regards any harbour comprised in their undertaking shall include power to make any such bylaws in relation to railways within the harbour as the Railways Board [^c-e705690cbec63493174893579595d6c7]... have power to make under this section in relation to their railways.
 
 (17) This section shall have effect as from the vesting date.
 
@@ -133,7 +133,7 @@ shall be prima facie evidence of the facts stated in the certificate.
 (15) In the bylaws made by the Commission under the said Acts of 1845 which relate to the railways of the Commission other than those of the London Transport Executive which were confirmed by the Minister on the fifth day of December, nineteen hundred and fifty-seven,—
 
 - (a) for references to the Commission there shall be substituted references to the Railways Board, the Docks Board and the British Waterways Board, and
-- (b)[^key-6dcf329a2bee385ca3dea1b38ebce447] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6dcf329a2bee385ca3dea1b38ebce447] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (16) Any power exercisable by the Docks Board or the British Waterways Board under any local enactment to make bylaws as regards any harbour comprised in their undertaking shall include power to make any such bylaws in relation to railways within the harbour as the Railways Board and the London Board have power to make under this section in relation to their railways.
 
@@ -192,7 +192,7 @@ shall be prima facie evidence of the facts stated in the certificate.
 (15) In the bylaws made by the Commission under the said Acts of 1845 which relate to the railways of the Commission other than those of the London Transport Executive which were confirmed by the Minister on the fifth day of December, nineteen hundred and fifty-seven,—
 
 - (a) for references to the Commission there shall be substituted references to the Railways Board, the Docks Board and the British Waterways Board, and
-- (b)[^key-6dcf329a2bee385ca3dea1b38ebce447] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6dcf329a2bee385ca3dea1b38ebce447] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (16) Any power exercisable by the Docks Board or the British Waterways Board under any local enactment to make bylaws as regards any harbour comprised in their undertaking shall include power to make any such bylaws in relation to railways within the harbour as the Railways Board and the London Transport Executive[^c4798111] have power to make under this section in relation to their railways.
 
@@ -212,7 +212,7 @@ shall be prima facie evidence of the facts stated in the certificate.
 
 [^c4798591]: Modification: S. 67(2) extended by [S.I. 1972/971](https://www.legislation.gov.uk/uksi/1972/971), [Sch. 1](https://www.legislation.gov.uk/uksi/1972/971/schedule/1), Pt. A (as amended by [S.I. 1979/1309](https://www.legislation.gov.uk/uksi/1979/1309), [art. 2(a)](https://www.legislation.gov.uk/uksi/1979/1309/article/2/a))
 
-[^key-1d333358a3b2fb1a101d9ea40c51af2e]: Textual amendment: S. 67(2A) omitted (E.W) (15.7.2003) by virtue of [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/2/4); [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [s. 425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2), [Sch. 34 Pt. II](https://www.legislation.gov.uk/ukpga/1999/29/schedule/34/part/II) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(f)(h)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/f/h)
+[^c-1d333358a3b2fb1a101d9ea40c51af2e]: Textual amendment: S. 67(2A) omitted (E.W) (15.7.2003) by virtue of [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 2(4)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/2/4); [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [s. 425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2), [Sch. 34 Pt. II](https://www.legislation.gov.uk/ukpga/1999/29/schedule/34/part/II) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(f)(h)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/f/h)
 
 [^c4798601]: Textual amendment: S. 67(2A) inserted (E.W.) by [London Regional Transport Act 1984 (c. 32, SIF 126)](https://www.legislation.gov.uk/ukpga/1984/32), [s. 67(2)](https://www.legislation.gov.uk/ukpga/1984/32/section/67/2), [Sch. 4 para. 2(1)(b)](https://www.legislation.gov.uk/ukpga/1984/32/schedule/4/paragraph/2/1/b)
 
@@ -244,9 +244,9 @@ shall be prima facie evidence of the facts stated in the certificate.
 
 [^c4798981]: Textual amendment: S. 67(15): words "London Regional Transport" substituted (E.W.) for "the London Transport Executive" [1984 c. 32](https://www.legislation.gov.uk/ukpga/1984/32), [s. 67(2)(3)](https://www.legislation.gov.uk/ukpga/1984/32/section/67/2/3), [Sch. 4 para. 2(1)(c)](https://www.legislation.gov.uk/ukpga/1984/32/schedule/4/paragraph/2/1/c)
 
-[^key-6dcf329a2bee385ca3dea1b38ebce447]: Textual amendment: S. 67(15)(b) repealed (E.W.S.N.I.) (15.7.2003) by [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [s. 425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2), [Sch. 34 Pt. II](https://www.legislation.gov.uk/ukpga/1999/29/schedule/34/part/II) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(f)(h)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/f/h)
+[^c-6dcf329a2bee385ca3dea1b38ebce447]: Textual amendment: S. 67(15)(b) repealed (E.W.S.N.I.) (15.7.2003) by [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [s. 425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2), [Sch. 34 Pt. II](https://www.legislation.gov.uk/ukpga/1999/29/schedule/34/part/II) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(f)(h)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/f/h)
 
-[^key-e705690cbec63493174893579595d6c7]: Textual amendment: Words in s. 67(16) repealed (E.W.) (15.7.2003) by [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [s. 425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2), [Sch. 34 Pt. II](https://www.legislation.gov.uk/ukpga/1999/29/schedule/34/part/II) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(f)(h)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/f/h)
+[^c-e705690cbec63493174893579595d6c7]: Textual amendment: Words in s. 67(16) repealed (E.W.) (15.7.2003) by [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [s. 425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2), [Sch. 34 Pt. II](https://www.legislation.gov.uk/ukpga/1999/29/schedule/34/part/II) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(f)(h)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/f/h)
 
 [^c4798131]: Modification: S. 67 extended by [Transport Act 1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73), [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/1968/73/schedule/16/paragraph/4)
 

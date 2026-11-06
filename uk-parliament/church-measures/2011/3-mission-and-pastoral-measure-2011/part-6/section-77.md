@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 77. Trusts for the repair etc. of buildings closed for regular public worship and contents[^key-a4c98a3d9a88bbf1af03fa6a0eafdeed]
+## 77. Trusts for the repair etc. of buildings closed for regular public worship and contents[^c-a4c98a3d9a88bbf1af03fa6a0eafdeed]
 
 *Extent: E*
 
@@ -37,12 +37,12 @@ Provided that—
 
 Provided that if part only of the churchyard is so vested, the property shall only be so applicable if and to the extent that the scheme so provides.
 
-(3) Nothing in subsections (1) and (2) shall affect the powers to make schemes in respect of any such charity under the Charities Act 2011[^key-7fe52942cdfe264c8a8fae3dfcbd4cb6] , and paragraph 9(6) of Schedule 3 to this Measure shall apply to charities affected by a pastoral (church buildings disposal) scheme as it applies to charities affected by a pastoral scheme or order.
+(3) Nothing in subsections (1) and (2) shall affect the powers to make schemes in respect of any such charity under the Charities Act 2011[^c-7fe52942cdfe264c8a8fae3dfcbd4cb6] , and paragraph 9(6) of Schedule 3 to this Measure shall apply to charities affected by a pastoral (church buildings disposal) scheme as it applies to charities affected by a pastoral scheme or order.
 
 (4) Where the purposes of a charity include the giving of sermons or lectures in any church and, by reason of a declaration of closure for regular public worship relating to the church or a part thereof, the sermons or lectures cannot be given in that church, they shall be given in the parish church of the parish in which the church is situated, or in such other church as the bishop may direct in an instrument under seal with the approval of the Charity Commission.
 
 ## Annotations
 
-[^key-a4c98a3d9a88bbf1af03fa6a0eafdeed]: Commencement: S. 77 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-a4c98a3d9a88bbf1af03fa6a0eafdeed]: Commencement: S. 77 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-7fe52942cdfe264c8a8fae3dfcbd4cb6]: Textual amendment: Words in s. 77(3) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25) , [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355) , [Sch. 7 para. 147](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/147) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2) , [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8) )
+[^c-7fe52942cdfe264c8a8fae3dfcbd4cb6]: Textual amendment: Words in s. 77(3) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25) , [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355) , [Sch. 7 para. 147](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/147) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2) , [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8) )

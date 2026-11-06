@@ -35,14 +35,14 @@ revoking the designation of the Istituto Superiore di Sanità, Rome, Italy, as a
 
 (Text with EEA relevance) (revoked)
 
-[^key-ae34c03410e489ed667c6a32453da4f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae34c03410e489ed667c6a32453da4f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ae34c03410e489ed667c6a32453da4f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ae34c03410e489ed667c6a32453da4f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ae34c03410e489ed667c6a32453da4f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ae34c03410e489ed667c6a32453da4f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ae34c03410e489ed667c6a32453da4f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae34c03410e489ed667c6a32453da4f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ae34c03410e489ed667c6a32453da4f6]: Textual amendment: Regulation revoked (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1481/schedule/paragraph/3)
+[^c-ae34c03410e489ed667c6a32453da4f6]: Textual amendment: Regulation revoked (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1481/schedule/paragraph/3)

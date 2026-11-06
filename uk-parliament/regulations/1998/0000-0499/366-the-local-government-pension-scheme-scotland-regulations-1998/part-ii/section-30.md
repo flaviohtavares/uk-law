@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Other early leavers: deferred retirement benefits and elections for early payment[^key-e3f46bc4bdad46a65ea4029f5767dc82]
+## 30. Other early leavers: deferred retirement benefits and elections for early payment[^c-e3f46bc4bdad46a65ea4029f5767dc82]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ is less than 85 years, his retirement pension and grant must be reduced by the a
 
 ## Annotations
 
-[^key-e3f46bc4bdad46a65ea4029f5767dc82]: Commencement: Reg. 30 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-e3f46bc4bdad46a65ea4029f5767dc82]: Commencement: Reg. 30 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

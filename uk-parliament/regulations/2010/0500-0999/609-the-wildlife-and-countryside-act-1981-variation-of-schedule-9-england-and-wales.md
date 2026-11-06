@@ -55,7 +55,7 @@ In accordance with the requirements of section 26(4)[^f00002] of that Act, the S
 - (a) have given any local authority affected and any other person affected an opportunity to submit objections or representations with respect to the subject matter of this Order; and
 - (b) have consulted with the Joint Nature Conservation Committee, being the advisory body they considered was best able to advise them as to whether this Order should be made.
 
-## 1. Title, commencement and extent[^key-53041f94f6b8d0e1dfb85eb13e6d94e3]
+## 1. Title, commencement and extent[^c-53041f94f6b8d0e1dfb85eb13e6d94e3]
 
 This Order—
 
@@ -63,7 +63,7 @@ This Order—
 - (b) comes into force on 6th April 2010; and
 - (c) extends to England and Wales only.
 
-## 2. Variation of Schedule 9[^key-365897ffddf93707f40d2434d1a9c783]
+## 2. Variation of Schedule 9[^c-365897ffddf93707f40d2434d1a9c783]
 
 (1) Schedule 9 (animals and plants to which section 14 applies)[^f00003] to the Wildlife and Countryside Act 1981 is varied as follows.
 
@@ -195,8 +195,8 @@ A full impact assessment of the effect this instrument will have on the costs of
 
 [^f00002]: Footnote: The functions of the Secretary of State under section 26(4) , so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), and were subsequently transferred to the Welsh Ministers by section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act 2006. For the definition of “advisory body” *see* section 23 of the Wildlife and Countryside Act 1981.
 
-[^key-53041f94f6b8d0e1dfb85eb13e6d94e3]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/609/article/1) in force at 6.4.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/609/article/1/b)
+[^c-53041f94f6b8d0e1dfb85eb13e6d94e3]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/609/article/1) in force at 6.4.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/609/article/1/b)
 
-[^key-365897ffddf93707f40d2434d1a9c783]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/609/article/2) in force at 6.4.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/609/article/1/b)
+[^c-365897ffddf93707f40d2434d1a9c783]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/609/article/2) in force at 6.4.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/609/article/1/b)
 
 [^f00003]: Footnote: As previously varied by [S.I. 1992/320](https://www.legislation.gov.uk/uksi/1992/320), [2674](https://www.legislation.gov.uk/uksi/1992/2674), [1997/226](https://www.legislation.gov.uk/uksi/1997/226), [1999/1002](https://www.legislation.gov.uk/uksi/1999/1002).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Power to apply sections 177 to 180 to other cases[^key-f0dd978492ee20ea3717b9c6aea99c6c]
+## 86. Power to apply sections 177 to 180 to other cases[^c-f0dd978492ee20ea3717b9c6aea99c6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0dd978492ee20ea3717b9c6aea99c6c]: Commencement: Art. 86 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f0dd978492ee20ea3717b9c6aea99c6c]: Commencement: Art. 86 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

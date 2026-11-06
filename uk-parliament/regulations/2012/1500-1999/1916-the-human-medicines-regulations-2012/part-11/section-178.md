@@ -26,10 +26,10 @@ The licensing authority must—
 - (b) facilitate reporting through the provision of alternative reporting formats in addition to web-based formats;
 - (c) take all appropriate measures to obtain accurate and verifiable data for the scientific evaluation of suspected adverse reaction reports;
 - (d) ensure that the public is given important information on pharmacovigilance concerns relating to the use of a medicinal product in a timely manner, through publication on the UK web-portal, and through other means of publicly available information as necessary; and
-- (e) ensure that all appropriate measures are taken to identify any biological medicinal product , MM medicinal product and POC medicinal product (including name and batch number or other product identifier if no batch number is available)[^key-5545abbc7bf5f2f607803093836129da] prescribed, dispensed or sold in the United Kingdom which is the subject of a suspected adverse reaction report through—
+- (e) ensure that all appropriate measures are taken to identify any biological medicinal product , MM medicinal product and POC medicinal product (including name and batch number or other product identifier if no batch number is available)[^c-5545abbc7bf5f2f607803093836129da] prescribed, dispensed or sold in the United Kingdom which is the subject of a suspected adverse reaction report through—
   - (i) the methods for collecting data, and
   - (ii) where necessary, the follow up of suspected adverse reaction reports.
 
 ## Annotations
 
-[^key-5545abbc7bf5f2f607803093836129da]: Textual amendment: Words in [reg. 178(e)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/178/e) substituted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2025/87/regulation/26)
+[^c-5545abbc7bf5f2f607803093836129da]: Textual amendment: Words in [reg. 178(e)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/178/e) substituted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2025/87/regulation/26)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Amendment of the Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000[^key-e876a21f326a6f4f02555e7de2f66848][^M_I_5c5d1db8-cba5-4f3a-9ee9-aa1672e83562]
+## 57. Amendment of the Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000[^c-e876a21f326a6f4f02555e7de2f66848][^M_I_5c5d1db8-cba5-4f3a-9ee9-aa1672e83562]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e876a21f326a6f4f02555e7de2f66848]: Commencement: Reg. 57 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-e876a21f326a6f4f02555e7de2f66848]: Commencement: Reg. 57 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_5c5d1db8-cba5-4f3a-9ee9-aa1672e83562]: Commencement: Reg. 57 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

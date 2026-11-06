@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Power to obtain information[^key-743052e5faf738def23414c8e95bf666][^key-9b4e06181878d1adef77dd1007a0c507]
+## 172. Power to obtain information[^c-743052e5faf738def23414c8e95bf666][^c-9b4e06181878d1adef77dd1007a0c507]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-743052e5faf738def23414c8e95bf666]: Modification: S. 172 modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2018/1128/regulation/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-743052e5faf738def23414c8e95bf666]: Modification: S. 172 modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2018/1128/regulation/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
-[^key-9b4e06181878d1adef77dd1007a0c507]: Modification: S. 172 modified by S.I. 2008/2867, reg. 26 (as amended (E.W.) (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [15](https://www.legislation.gov.uk/uksi/2018/1296/regulation/15))
+[^c-9b4e06181878d1adef77dd1007a0c507]: Modification: S. 172 modified by S.I. 2008/2867, reg. 26 (as amended (E.W.) (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [15](https://www.legislation.gov.uk/uksi/2018/1296/regulation/15))

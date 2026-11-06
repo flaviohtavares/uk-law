@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12C. Digital reporting and record-keeping[^key-3dcd5949fedec4bebfe78743b9958298]
+## 12C. Digital reporting and record-keeping[^c-3dcd5949fedec4bebfe78743b9958298]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule A1 (digital reporting and record-keeping) has effect.
 
 ## Annotations
 
-[^key-3dcd5949fedec4bebfe78743b9958298]: Textual amendment: S. 12C and cross-heading inserted (1.4.2026) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/60/2)[(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/60/4); [S.I. 2026/356](https://www.legislation.gov.uk/uksi/2026/356), [reg. 2](https://www.legislation.gov.uk/uksi/2026/356/regulation/2)
+[^c-3dcd5949fedec4bebfe78743b9958298]: Textual amendment: S. 12C and cross-heading inserted (1.4.2026) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/60/2)[(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/60/4); [S.I. 2026/356](https://www.legislation.gov.uk/uksi/2026/356), [reg. 2](https://www.legislation.gov.uk/uksi/2026/356/regulation/2)

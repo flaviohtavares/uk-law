@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Enquiries relating to professional qualifications and other conditions of practice[^key-51005be2553ece60f18ebedf24375fbc]
+## 16. Enquiries relating to professional qualifications and other conditions of practice[^c-51005be2553ece60f18ebedf24375fbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A regulator must deal promptly with enquiries from specified state professionals
 
 ## Annotations
 
-[^key-51005be2553ece60f18ebedf24375fbc]: Commencement: Reg. 16 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-51005be2553ece60f18ebedf24375fbc]: Commencement: Reg. 16 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)

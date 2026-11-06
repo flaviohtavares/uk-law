@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 322. Mandatory life sentences: further provision[^key-8804375d4745ea5e4b818e22acf7c725][^key-cef641cef87d8a92b9a17a7b10b6c7e0]
+## 322. Mandatory life sentences: further provision[^c-8804375d4745ea5e4b818e22acf7c725][^c-cef641cef87d8a92b9a17a7b10b6c7e0]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 (3) In considering the seriousness of the offence, or of the combination of the offence and one or more offences associated with it, under—
 
-- (a) section 321(3) or (3C)[^key-a1b3d2f424dcbbdca98967c7c33df155] (determining whether to make a whole life order), or
+- (a) section 321(3) or (3C)[^c-a1b3d2f424dcbbdca98967c7c33df155] (determining whether to make a whole life order), or
 - (b) subsection (2) (determining the minimum term),
 
 the court must have regard to—
@@ -56,8 +56,8 @@ the court must have regard to—
 
 ## Annotations
 
-[^key-8804375d4745ea5e4b818e22acf7c725]: Commencement: S. 322 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8804375d4745ea5e4b818e22acf7c725]: Commencement: S. 322 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-cef641cef87d8a92b9a17a7b10b6c7e0]: Modification: Ss. 321-324 modified by 2006 c. 52, s. 261A (as inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 60](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/60) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)) (as amended (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 129(2), 208(1); S.I. 2022/520, reg. 5(l))
+[^c-cef641cef87d8a92b9a17a7b10b6c7e0]: Modification: Ss. 321-324 modified by 2006 c. 52, s. 261A (as inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 60](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/60) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)) (as amended (28.6.2022) by Police, Crime, Sentencing and Courts Act 2022 (c. 32), ss. 129(2), 208(1); S.I. 2022/520, reg. 5(l))
 
-[^key-a1b3d2f424dcbbdca98967c7c33df155]: Textual amendment: Words in [s. 322(3)(a)](https://www.legislation.gov.uk/ukpga/2020/17/section/322/3/a) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 126(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/126/3), [208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)
+[^c-a1b3d2f424dcbbdca98967c7c33df155]: Textual amendment: Words in [s. 322(3)(a)](https://www.legislation.gov.uk/ukpga/2020/17/section/322/3/a) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 126(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/126/3), [208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)

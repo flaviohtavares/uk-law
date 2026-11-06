@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Industrial action ballots: turnout threshold[^key-fe311256b32bd54096fa42413a3af86e]
+## 68. Industrial action ballots: turnout threshold[^c-fe311256b32bd54096fa42413a3af86e]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe311256b32bd54096fa42413a3af86e]: Commencement: S. 68 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-fe311256b32bd54096fa42413a3af86e]: Commencement: S. 68 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)

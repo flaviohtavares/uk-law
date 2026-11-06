@@ -28,10 +28,10 @@ summary: ''
 
 (2) A claim for relief under this section must be made—
 
-- (a) by the intermediary by notice to an officer of Revenue and Customs[^key-4f3a0614079ff004d8042e82d44ecd6f] , and
+- (a) by the intermediary by notice to an officer of Revenue and Customs[^c-4f3a0614079ff004d8042e82d44ecd6f] , and
 - (b) within 5 years after the 31st January following the tax year in which the distribution is made.
 
-(3) If on a claim being made an officer of Revenue and Customs is[^key-d8a6353dbee9f2c80142b32990333c3f] satisfied that relief should be given in order to avoid a double charge to tax, the officer[^key-7f30dce45a02b10c12b86bfc7d7dd905] must direct the giving of such relief by way of amending any assessment, by discharge or repayment of tax, or otherwise, as appears to the officer appropriate.
+(3) If on a claim being made an officer of Revenue and Customs is[^c-d8a6353dbee9f2c80142b32990333c3f] satisfied that relief should be given in order to avoid a double charge to tax, the officer[^c-7f30dce45a02b10c12b86bfc7d7dd905] must direct the giving of such relief by way of amending any assessment, by discharge or repayment of tax, or otherwise, as appears to the officer appropriate.
 
 (4) Relief under this section is given by setting the amount of the deemed employment payment against the relevant distribution so as to reduce the distribution.
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-d8a6353dbee9f2c80142b32990333c3f]: Textual amendment: Word in s. 58(3) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 105](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/105); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-d8a6353dbee9f2c80142b32990333c3f]: Textual amendment: Word in s. 58(3) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 105](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/105); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-7f30dce45a02b10c12b86bfc7d7dd905]: Textual amendment: Words in s. 58(3) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 103(1)(a)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/103/1/a); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-7f30dce45a02b10c12b86bfc7d7dd905]: Textual amendment: Words in s. 58(3) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 103(1)(a)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/103/1/a); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Disclosure of information to the College[^key-16f15a3efc9db39c66f64c4baada53e9]
+## 129. Disclosure of information to the College[^c-16f15a3efc9db39c66f64c4baada53e9]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ After section 100A of the Police Act 1996 (inserted by section 128 above) there 
 
 ## Annotations
 
-[^key-16f15a3efc9db39c66f64c4baada53e9]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2014/12/section/129) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)
+[^c-16f15a3efc9db39c66f64c4baada53e9]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2014/12/section/129) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)

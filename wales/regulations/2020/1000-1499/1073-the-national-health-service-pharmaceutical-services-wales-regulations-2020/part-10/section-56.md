@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Local Health Boards as determining authorities[^key-c24237ce4ba962ef8de04edf0e6ddd34]
+## 56. Local Health Boards as determining authorities[^c-c24237ce4ba962ef8de04edf0e6ddd34]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c24237ce4ba962ef8de04edf0e6ddd34]: Commencement: Reg. 56 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
+[^c-c24237ce4ba962ef8de04edf0e6ddd34]: Commencement: Reg. 56 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)

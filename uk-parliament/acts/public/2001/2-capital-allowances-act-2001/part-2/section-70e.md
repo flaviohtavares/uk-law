@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70E. Disposal events and disposal values[^key-1dfc5aa0249178ecbf946313acb2db3c]
+## 70E. Disposal events and disposal values[^c-1dfc5aa0249178ecbf946313acb2db3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,9 +24,9 @@ summary: ''
 
 - (a) a person is the lessee of plant or machinery under a long funding lease,
 - (b) as a result of section 70A, the person falls to be regarded as having incurred qualifying expenditure on the provision of the plant or machinery, and
-- (c)[^key-e10c6c2f96f89c5fcde60a08bc56d6ab] a relevant event occurs.
+- (c)[^c-e10c6c2f96f89c5fcde60a08bc56d6ab] a relevant event occurs.
 
-(1A)[^key-934d8a6f3127f6bdfb2c38cfc4656625] A relevant event occurs if—
+(1A)[^c-934d8a6f3127f6bdfb2c38cfc4656625] A relevant event occurs if—
 
 - (a) the lease terminates,
 - (b) the plant or machinery begins to be used wholly or partly for purposes other than those of the qualifying activity, or
@@ -34,10 +34,10 @@ summary: ''
 
 (2) In the case of that person—
 
-- (a) the relevant event[^key-b429db4a5f1891e95af80d88ca8959da] is a disposal event, and
+- (a) the relevant event[^c-b429db4a5f1891e95af80d88ca8959da] is a disposal event, and
 - (b) the person is required to bring into account a disposal value for the chargeable period in which that disposal event occurs.
 
-(2A)[^key-615b1de9b8c55ba7ffd9e3e0755e0054] The amount of the disposal value is—
+(2A)[^c-615b1de9b8c55ba7ffd9e3e0755e0054] The amount of the disposal value is—
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/2001/2)
 
@@ -45,26 +45,26 @@ where—
 
 - QE is the person's qualifying expenditure on the provision of the plant or machinery,
 - QA is the qualifying amount (see subsections (2B) to (2E)), and
-- R is the sum of—[^key-c6ebeec8a28a1941c38d462916676593]
+- R is the sum of—[^c-c6ebeec8a28a1941c38d462916676593]
   - a any relevant rebate (see subsections (2F) and (2G)), and
   - b any other relevant lease-related payment (see subsections (2FA) and (2G)).
 
-(2B) In the case of a long funding operating lease, “**the qualifying amount**” means the aggregate amount of the reductions made under [^key-8387393068c86c04350d3dbabae7ed85]... section 148I of ITTOIA 2005 or section 379 of CTA 2010[^key-757511753e499572f5ab8df6e96e84b1] for periods of account in which the person was the lessee.
+(2B) In the case of a long funding operating lease, “**the qualifying amount**” means the aggregate amount of the reductions made under [^c-8387393068c86c04350d3dbabae7ed85]... section 148I of ITTOIA 2005 or section 379 of CTA 2010[^c-757511753e499572f5ab8df6e96e84b1] for periods of account in which the person was the lessee.
 
 (2C) In the case of a long funding finance lease, “**the qualifying amount**” means the aggregate of—
 
 - (a) the payments made to the lessor by the person under the lease (including any initial payment), and
-- (b) the payments made to the lessor by the person under a guarantee of any residual amount (as defined in section 70YE) other than any relievable payment[^key-100510bd71b8ca19e0e507624ffdff60],
+- (b) the payments made to the lessor by the person under a guarantee of any residual amount (as defined in section 70YE) other than any relievable payment[^c-100510bd71b8ca19e0e507624ffdff60],
 
 subject to subsection (2D).
 
 (2D) The following are excluded from the “qualifying amount” under subsection (2C)—
 
-- (a) so much of any payment as, in accordance with generally accepted accounting practice, falls (or would fall) to be shown in the person's accounts as finance charges, or interest expenses,[^key-b81f9ff8218915e53ebb6bcdb6b20c33] in respect of the lease,
+- (a) so much of any payment as, in accordance with generally accepted accounting practice, falls (or would fall) to be shown in the person's accounts as finance charges, or interest expenses,[^c-b81f9ff8218915e53ebb6bcdb6b20c33] in respect of the lease,
 - (b) so much of any payment as represents charges for services, and
 - (c) so much of any payment as represents qualifying UK or foreign tax (within the meaning of section 70YE) to be paid by the lessor.
 
-(2DA)[^key-8c255945d83e872528721421634693a2] A payment (“payment X”) is a relievable payment if—
+(2DA)[^c-8c255945d83e872528721421634693a2] A payment (“payment X”) is a relievable payment if—
 
 - (a) an arrangement is in place under which all or part of any residual amount (as defined in section 70YE) is guaranteed by the lessee or a person connected with the lessee,
 - (b) payment X is within the minimum lease payments because of that arrangement (see subsection (1)(a) of that section), and
@@ -82,7 +82,7 @@ subject to subsection (2D).
 - (a) in a case falling within subsection (1A)(a), any amount calculated by reference to the termination value that is payable for the benefit (directly or indirectly) of the person or another person connected with that person, or
 - (b) in a case falling within subsection (1A)(b) or (c), any such amount that would have been so payable if, when the relevant event occurred, the lease had terminated and the plant or machinery had been sold for its market value at that time.
 
-(2FA)[^key-76b8883522c8a822190c65c77b305ae0] Relevant lease-related payment” means any payment which—
+(2FA)[^c-76b8883522c8a822190c65c77b305ae0] Relevant lease-related payment” means any payment which—
 
 - (a) is payable at any time for the benefit (directly or indirectly) of the lessee or a person connected with the lessee,
 - (b) is connected with the long funding lease, or with any arrangement connected with that lease, and
@@ -105,40 +105,40 @@ if, and to the extent that, the payment is not otherwise brought into account fo
 - (b) the plant or machinery is within section 216(1)(b) (sale and lease back), and
 - (c) the conditions in section 227(2) are met.
 
-(2G)[^key-7a35507dde1d8b18a5cb4016b6c15d96] In the case of a lease that is not a transaction at arm's length, “relevant rebate” and “relevant lease-related payment” include any amount that would reasonably be expected to have fallen within subsection (2F) or, as the case may be, (2FA) if the lease had been such a transaction.
+(2G)[^c-7a35507dde1d8b18a5cb4016b6c15d96] In the case of a lease that is not a transaction at arm's length, “relevant rebate” and “relevant lease-related payment” include any amount that would reasonably be expected to have fallen within subsection (2F) or, as the case may be, (2FA) if the lease had been such a transaction.
 
 (2H) The amount of the disposal value brought into account under this section cannot be less than nil.
 
-(9) If the relevant event[^key-24369e68d42e942789e8ff13858b1fd1] gives rise to a disposal event in the case of the person apart from this section, that disposal event is to be ignored.
+(9) If the relevant event[^c-24369e68d42e942789e8ff13858b1fd1] gives rise to a disposal event in the case of the person apart from this section, that disposal event is to be ignored.
 
 (10) This section is to be construed as one with section 70A.
 
 ## Annotations
 
-[^key-1dfc5aa0249178ecbf946313acb2db3c]: Textual amendment: Ss. 70A-70E and cross-heading inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/6)
+[^c-1dfc5aa0249178ecbf946313acb2db3c]: Textual amendment: Ss. 70A-70E and cross-heading inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/6)
 
-[^key-e10c6c2f96f89c5fcde60a08bc56d6ab]: Textual amendment: S. 70E(1)(c) substituted (with effect in accordance with Sch. 32 para. 8 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 7(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/7/2)
+[^c-e10c6c2f96f89c5fcde60a08bc56d6ab]: Textual amendment: S. 70E(1)(c) substituted (with effect in accordance with Sch. 32 para. 8 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 7(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/7/2)
 
-[^key-934d8a6f3127f6bdfb2c38cfc4656625]: Textual amendment: S. 70E(1A) inserted (with effect in accordance with Sch. 32 para. 8 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 7(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/7/3)
+[^c-934d8a6f3127f6bdfb2c38cfc4656625]: Textual amendment: S. 70E(1A) inserted (with effect in accordance with Sch. 32 para. 8 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 7(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/7/3)
 
-[^key-b429db4a5f1891e95af80d88ca8959da]: Textual amendment: Words in s. 70E(2)(a) substituted (with effect in accordance with Sch. 32 para. 8 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 7(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/7/4)
+[^c-b429db4a5f1891e95af80d88ca8959da]: Textual amendment: Words in s. 70E(2)(a) substituted (with effect in accordance with Sch. 32 para. 8 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 7(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/7/4)
 
-[^key-615b1de9b8c55ba7ffd9e3e0755e0054]: Textual amendment: S. 70E(2A)-(2H) substituted for s. 70E(3)-(8) (with effect in accordance with Sch. 32 para. 8 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 7(5)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/7/5)
+[^c-615b1de9b8c55ba7ffd9e3e0755e0054]: Textual amendment: S. 70E(2A)-(2H) substituted for s. 70E(3)-(8) (with effect in accordance with Sch. 32 para. 8 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 7(5)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/7/5)
 
-[^key-c6ebeec8a28a1941c38d462916676593]: Textual amendment: Words in s. 70E(2A) substituted (with effect in accordance with s. 46(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 46(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/46/2)
+[^c-c6ebeec8a28a1941c38d462916676593]: Textual amendment: Words in s. 70E(2A) substituted (with effect in accordance with s. 46(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 46(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/46/2)
 
-[^key-8387393068c86c04350d3dbabae7ed85]: Textual amendment: Words in s. 70E(2B) repealed (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 329(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/329), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-8387393068c86c04350d3dbabae7ed85]: Textual amendment: Words in s. 70E(2B) repealed (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 329(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/329), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-757511753e499572f5ab8df6e96e84b1]: Textual amendment: Words in s. 70E(2B) inserted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 329(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/329) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-757511753e499572f5ab8df6e96e84b1]: Textual amendment: Words in s. 70E(2B) inserted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 329(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/329) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-100510bd71b8ca19e0e507624ffdff60]: Textual amendment: Words in s. 70E(2C)(b) inserted (with effect in accordance with s. 33(7) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 33(4)](https://www.legislation.gov.uk/ukpga/2011/11/section/33/4)
+[^c-100510bd71b8ca19e0e507624ffdff60]: Textual amendment: Words in s. 70E(2C)(b) inserted (with effect in accordance with s. 33(7) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 33(4)](https://www.legislation.gov.uk/ukpga/2011/11/section/33/4)
 
-[^key-b81f9ff8218915e53ebb6bcdb6b20c33]: Textual amendment: Words in s. 70E(2D)(a) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/3)
+[^c-b81f9ff8218915e53ebb6bcdb6b20c33]: Textual amendment: Words in s. 70E(2D)(a) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 1(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/1/3)
 
-[^key-8c255945d83e872528721421634693a2]: Textual amendment: S. 70E(2DA)(2DB) inserted (with effect in accordance with s. 33(7) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 33(5)](https://www.legislation.gov.uk/ukpga/2011/11/section/33/5)
+[^c-8c255945d83e872528721421634693a2]: Textual amendment: S. 70E(2DA)(2DB) inserted (with effect in accordance with s. 33(7) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 33(5)](https://www.legislation.gov.uk/ukpga/2011/11/section/33/5)
 
-[^key-76b8883522c8a822190c65c77b305ae0]: Textual amendment: Ss. 70E(2FA)-(2FC) inserted (with effect in accordance with s. 46(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/46/3)
+[^c-76b8883522c8a822190c65c77b305ae0]: Textual amendment: Ss. 70E(2FA)-(2FC) inserted (with effect in accordance with s. 46(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/46/3)
 
-[^key-7a35507dde1d8b18a5cb4016b6c15d96]: Textual amendment: S. 70E(2G) substituted (with effect in accordance with s. 46(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 46(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/46/4)
+[^c-7a35507dde1d8b18a5cb4016b6c15d96]: Textual amendment: S. 70E(2G) substituted (with effect in accordance with s. 46(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 46(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/46/4)
 
-[^key-24369e68d42e942789e8ff13858b1fd1]: Textual amendment: Words in s. 70E(9) substituted (with effect in accordance with Sch. 32 para. 8 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 7(6)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/7/6)
+[^c-24369e68d42e942789e8ff13858b1fd1]: Textual amendment: Words in s. 70E(9) substituted (with effect in accordance with Sch. 32 para. 8 to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 32 para. 7(6)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/32/paragraph/7/6)

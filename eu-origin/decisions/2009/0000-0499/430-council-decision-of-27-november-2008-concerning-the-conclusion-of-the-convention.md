@@ -35,22 +35,22 @@ concerning the conclusion of the Convention on jurisdiction and the recognition 
 
 (2009/430/EC) (revoked)
 
-[^key-986ac11ce022fb71db0a30804cb83506]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-986ac11ce022fb71db0a30804cb83506]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-986ac11ce022fb71db0a30804cb83506] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-986ac11ce022fb71db0a30804cb83506] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-986ac11ce022fb71db0a30804cb83506] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-986ac11ce022fb71db0a30804cb83506] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-986ac11ce022fb71db0a30804cb83506]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-986ac11ce022fb71db0a30804cb83506]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — DECLARATION BY THE EUROPEAN COMMUNITY[^key-986ac11ce022fb71db0a30804cb83506]
+## ANNEX I — DECLARATION BY THE EUROPEAN COMMUNITY[^c-986ac11ce022fb71db0a30804cb83506]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — DECLARATION BY THE EUROPEAN COMMUNITY IN ACCORDANCE WITH ARTICLE II(2) OF PROTOCOL 1 TO THE CONVENTION[^key-986ac11ce022fb71db0a30804cb83506]
+## ANNEX II — DECLARATION BY THE EUROPEAN COMMUNITY IN ACCORDANCE WITH ARTICLE II(2) OF PROTOCOL 1 TO THE CONVENTION[^c-986ac11ce022fb71db0a30804cb83506]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-986ac11ce022fb71db0a30804cb83506]: Textual amendment: Decision revoked (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [88](https://www.legislation.gov.uk/uksi/2019/479/regulation/88) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-986ac11ce022fb71db0a30804cb83506]: Textual amendment: Decision revoked (31.12.2020) by [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [88](https://www.legislation.gov.uk/uksi/2019/479/regulation/88) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

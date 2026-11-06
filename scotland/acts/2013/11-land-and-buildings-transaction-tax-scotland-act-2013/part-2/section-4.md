@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Chargeable interest[^key-4d202075761dd4148f6b6b1ae46d0bb6]
+## 4. Chargeable interest[^c-4d202075761dd4148f6b6b1ae46d0bb6]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d202075761dd4148f6b6b1ae46d0bb6]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2013/11/section/4) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-4d202075761dd4148f6b6b1ae46d0bb6]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2013/11/section/4) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

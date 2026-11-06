@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Circumventing etc. prohibitions[^key-cea6f41f3c844e6637b365b23f005546]
+## 44. Circumventing etc. prohibitions[^c-cea6f41f3c844e6637b365b23f005546]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cea6f41f3c844e6637b365b23f005546]: Commencement: Reg. 44 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-cea6f41f3c844e6637b365b23f005546]: Commencement: Reg. 44 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

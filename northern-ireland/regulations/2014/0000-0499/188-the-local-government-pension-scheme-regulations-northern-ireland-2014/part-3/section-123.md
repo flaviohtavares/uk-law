@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 123. Scheme actuary[^key-d3c15dba276bbab18096ac5e71c3e6e1]
+## 123. Scheme actuary[^c-d3c15dba276bbab18096ac5e71c3e6e1]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3c15dba276bbab18096ac5e71c3e6e1]: Textual amendment: Reg. 123 - 124 inserted (6.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2015/162/regulation/23)
+[^c-d3c15dba276bbab18096ac5e71c3e6e1]: Textual amendment: Reg. 123 - 124 inserted (6.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2015/162/regulation/23)

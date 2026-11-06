@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Co-operation[^key-b8403c26fa7f6401a8490933e539e756]
+## 102. Co-operation[^c-b8403c26fa7f6401a8490933e539e756]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If different parts of any land are in different local authority areas, the local
 
 ## Annotations
 
-[^key-b8403c26fa7f6401a8490933e539e756]: Commencement: S. 102 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-b8403c26fa7f6401a8490933e539e756]: Commencement: S. 102 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)

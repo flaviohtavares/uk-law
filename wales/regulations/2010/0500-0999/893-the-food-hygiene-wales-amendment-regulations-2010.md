@@ -49,11 +49,11 @@ The Welsh Ministers have been designated for the purposes of that section in rel
 
 As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] there has been open and transparent public consultation during the preparation of these Regulations.
 
-## 1. Title and commencement[^key-17611a740368c9a5d42734f5fc4adf8e]
+## 1. Title and commencement[^c-17611a740368c9a5d42734f5fc4adf8e]
 
 The title of these Regulations is The Food Hygiene (Wales) (Amendment) Regulations 2010 and they come into force on 13 April 2010.
 
-## 2. Amendments to the Food Hygiene (Wales) Regulations 2006[^key-a58f88f16cb8451a1c3761240c8dcd76]
+## 2. Amendments to the Food Hygiene (Wales) Regulations 2006[^c-a58f88f16cb8451a1c3761240c8dcd76]
 
 (1) The Food Hygiene (Wales) Regulations 2006[^f00004] are amended in accordance with the following paragraphs.
 
@@ -67,7 +67,7 @@ The title of these Regulations is The Food Hygiene (Wales) (Amendment) Regulatio
 
 > **17. Offences and penalties**
 >
-> (1) Subject to paragraphs (4) to (8), any person who contravenes or fails to comply with any of the specified EU[^key-712c34e8655b0c78be3ba6365e9120e3] provisions is guilty of an offence.
+> (1) Subject to paragraphs (4) to (8), any person who contravenes or fails to comply with any of the specified EU[^c-712c34e8655b0c78be3ba6365e9120e3] provisions is guilty of an offence.
 >
 > (2) Subject to paragraph (3), a person guilty of an offence under these Regulations is liable–
 >
@@ -98,11 +98,11 @@ Deputy Minister for Social Services, under authority of the Minister for Health 
 
 18 March 2010
 
-## SCHEDULE 1 — SCHEDULE SUBSTITUTED FOR SCHEDULE 1 TO THE FOOD HYGIENE (WALES) REGULATIONS 2006[^key-0cf8ef1fe93a33986fec285db232c48f]
+## SCHEDULE 1 — SCHEDULE SUBSTITUTED FOR SCHEDULE 1 TO THE FOOD HYGIENE (WALES) REGULATIONS 2006[^c-0cf8ef1fe93a33986fec285db232c48f]
 
 Regulation 2(4)
 
-[^key-0cf8ef1fe93a33986fec285db232c48f]
+[^c-0cf8ef1fe93a33986fec285db232c48f]
 
 > **SCHEDULE 1 — DEFINITIONS OF EU LEGISLATION**
 >
@@ -139,11 +139,11 @@ Regulation 2(4)
 
 .
 
-## SCHEDULE 2 — SCHEDULES INSERTED IMMEDIATELY AFTER SCHEDULE 3 TO THE FOOD HYGIENE (WALES) REGULATIONS 2006[^key-7f0cbdb4a41e0a8003a2676e46711ae4]
+## SCHEDULE 2 — SCHEDULES INSERTED IMMEDIATELY AFTER SCHEDULE 3 TO THE FOOD HYGIENE (WALES) REGULATIONS 2006[^c-7f0cbdb4a41e0a8003a2676e46711ae4]
 
 Regulation 2(5)
 
-[^key-7f0cbdb4a41e0a8003a2676e46711ae4]
+[^c-7f0cbdb4a41e0a8003a2676e46711ae4]
 
 > **SCHEDULE 3A — REQUIREMENTS REFERRED TO IN REGULATION 17(5)**
 >
@@ -235,15 +235,15 @@ Regulation 2(5)
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1, as last amended by Regulation [(EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision [1999/468/EC](https://www.legislation.gov.uk/european/decision/1999/0468) with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny — Part Four (OJ No. L188, 18.7.2009, p.14).
 
-[^key-17611a740368c9a5d42734f5fc4adf8e]: Commencement: Reg. 1 in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/893/regulation/1)
+[^c-17611a740368c9a5d42734f5fc4adf8e]: Commencement: Reg. 1 in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/893/regulation/1)
 
-[^key-a58f88f16cb8451a1c3761240c8dcd76]: Commencement: Reg. 2 in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/893/regulation/1)
+[^c-a58f88f16cb8451a1c3761240c8dcd76]: Commencement: Reg. 2 in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/893/regulation/1)
 
 [^f00004]: Footnote: S.I. [2006/31 (W. 5)](https://www.legislation.gov.uk/wsi/2006/31), amended by S.I. [2007/373 (W. 33)](https://www.legislation.gov.uk/wsi/2007/373).
 
-[^key-712c34e8655b0c78be3ba6365e9120e3]: Textual amendment: Word in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+[^c-712c34e8655b0c78be3ba6365e9120e3]: Textual amendment: Word in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
-[^key-0cf8ef1fe93a33986fec285db232c48f]: Commencement: Sch. 1 in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/893/regulation/1)
+[^c-0cf8ef1fe93a33986fec285db232c48f]: Commencement: Sch. 1 in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/893/regulation/1)
 
 [^f00005]: Footnote: OJ No. L320, 18.11.2006, p.53.
 
@@ -305,7 +305,7 @@ Regulation 2(5)
 
 [^f00034]: Footnote: OJ No. L194, 25.7.2009, p.11.
 
-[^key-7f0cbdb4a41e0a8003a2676e46711ae4]: Commencement: Sch. 2 in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/893/regulation/1)
+[^c-7f0cbdb4a41e0a8003a2676e46711ae4]: Commencement: Sch. 2 in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/893/regulation/1)
 
 [^f00035]: Footnote: S.I. [1995/539](https://www.legislation.gov.uk/uksi/1995/539), revoked by S.I. [2005/3292 (W. 252)](https://www.legislation.gov.uk/wsi/2005/3292).
 

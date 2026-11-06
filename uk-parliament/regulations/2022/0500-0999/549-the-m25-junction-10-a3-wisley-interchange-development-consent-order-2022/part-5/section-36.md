@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Apparatus and rights of statutory undertakers in stopped up streets[^key-b8761e6faae9875e0e1fa25b13601273]
+## 36. Apparatus and rights of statutory undertakers in stopped up streets[^c-b8761e6faae9875e0e1fa25b13601273]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where a street is stopped up under article 15 any statutory utility whose apparatus is under, in, on, over, along or across the street may, and if reasonably requested to do so by the undertaker must—
 
-- (a) remove the apparatus and place it or other apparatus provided in substitution for it in such other position as the statutory[^key-a28c4c0f939f896170cb593ad6284339] utility may reasonably determine and have power to place it; or
+- (a) remove the apparatus and place it or other apparatus provided in substitution for it in such other position as the statutory[^c-a28c4c0f939f896170cb593ad6284339] utility may reasonably determine and have power to place it; or
 - (b) provide other apparatus in substitution for the existing apparatus and place it in such position as described in sub-paragraph (a).
 
 (3) Subject to the following provisions of this article, the undertaker must pay to any statutory utility an amount equal to the cost reasonably incurred by the utility in or in connection with—
@@ -58,8 +58,8 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-b8761e6faae9875e0e1fa25b13601273]: Commencement: Art. 36 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-b8761e6faae9875e0e1fa25b13601273]: Commencement: Art. 36 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-a28c4c0f939f896170cb593ad6284339]: Textual amendment: Word in [art. 36(2)(a)](https://www.legislation.gov.uk/uksi/2022/549/article/36/2/a) inserted (19.1.2023) by virtue of [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2023/46/article/2/7)
+[^c-a28c4c0f939f896170cb593ad6284339]: Textual amendment: Word in [art. 36(2)(a)](https://www.legislation.gov.uk/uksi/2022/549/article/36/2/a) inserted (19.1.2023) by virtue of [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2023/46/article/2/7)
 
 [^f00083]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).

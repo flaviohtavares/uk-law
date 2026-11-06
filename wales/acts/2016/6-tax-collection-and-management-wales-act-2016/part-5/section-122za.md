@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122ZA. Penalty for multiple failures to pay landfill disposals tax on time[^key-dfd4d662aca517edb79bd1f59dfdb374]
+## 122ZA. Penalty for multiple failures to pay landfill disposals tax on time[^c-dfd4d662aca517edb79bd1f59dfdb374]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfd4d662aca517edb79bd1f59dfdb374]: Textual amendment: S. 122ZA inserted (1.4.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [ss. 76](https://www.legislation.gov.uk/anaw/2017/3/section/76), [97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-dfd4d662aca517edb79bd1f59dfdb374]: Textual amendment: S. 122ZA inserted (1.4.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [ss. 76](https://www.legislation.gov.uk/anaw/2017/3/section/76), [97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

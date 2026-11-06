@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 3. Central rating: liability and mandatory reliefs[^key-b2db8f9147f918554324805396d7ee2e]
+## 3. Central rating: liability and mandatory reliefs[^c-b2db8f9147f918554324805396d7ee2e]
 
 *Extent: E+W*
 
@@ -187,4 +187,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2db8f9147f918554324805396d7ee2e]: Commencement: S. 3 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)
+[^c-b2db8f9147f918554324805396d7ee2e]: Commencement: S. 3 in force at Royal Assent, see [s. 19(1)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/1/a)

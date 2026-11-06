@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Disposal of docks and harbours etc.[^key-3285653ba98914537146f4024e182366]
+## 89. Disposal of docks and harbours etc.[^c-3285653ba98914537146f4024e182366]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ For the purposes of regulation 86, a disposal of an interest in land shall be a 
 
 ## Annotations
 
-[^key-3285653ba98914537146f4024e182366]: Commencement: Reg. 89 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-3285653ba98914537146f4024e182366]: Commencement: Reg. 89 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

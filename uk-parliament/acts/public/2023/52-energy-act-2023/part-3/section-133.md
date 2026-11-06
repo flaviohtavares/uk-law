@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Revocation of designation[^key-67dc30e8ce181151d5f2751c781b68c7]
+## 133. Revocation of designation[^c-67dc30e8ce181151d5f2751c781b68c7]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67dc30e8ce181151d5f2751c781b68c7]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2023/52/section/133) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)
+[^c-67dc30e8ce181151d5f2751c781b68c7]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2023/52/section/133) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)

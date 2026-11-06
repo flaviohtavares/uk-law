@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Residence orders: extension to age of 18[^key-510c7e9e033186bc2ca5d346d30caa71]
+## 114. Residence orders: extension to age of 18[^c-510c7e9e033186bc2ca5d346d30caa71]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-510c7e9e033186bc2ca5d346d30caa71]: Commencement: S. 114 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-510c7e9e033186bc2ca5d346d30caa71]: Commencement: S. 114 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

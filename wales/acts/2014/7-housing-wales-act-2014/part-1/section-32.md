@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Rent repayment orders[^key-83a97f4f91b1ed273b9ddf3689fabb64]
+## 32. Rent repayment orders[^c-83a97f4f91b1ed273b9ddf3689fabb64]
 
 *Extent: E+W*
 
@@ -86,4 +86,4 @@ is to be regarded as an amount paid by the tenant in respect of that periodical 
 
 ## Annotations
 
-[^key-83a97f4f91b1ed273b9ddf3689fabb64]: Commencement: [S. 32](https://www.legislation.gov.uk/anaw/2014/7/section/32) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-83a97f4f91b1ed273b9ddf3689fabb64]: Commencement: [S. 32](https://www.legislation.gov.uk/anaw/2014/7/section/32) in force at 23.11.2016 by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

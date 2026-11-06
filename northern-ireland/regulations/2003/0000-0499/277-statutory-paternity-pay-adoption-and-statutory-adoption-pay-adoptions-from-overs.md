@@ -31,7 +31,7 @@ summary: ''
 
 EMPLOYMENT
 
-Statutory Paternity Pay (Adoption) and Statutory Adoption Pay (Adoptions from Overseas) (Persons Abroad and Mariners) Regulations (Northern Ireland) 2003 (revoked)[^key-3c857970c0b3347255cf51d1ee6fbd5e]
+Statutory Paternity Pay (Adoption) and Statutory Adoption Pay (Adoptions from Overseas) (Persons Abroad and Mariners) Regulations (Northern Ireland) 2003 (revoked)[^c-3c857970c0b3347255cf51d1ee6fbd5e]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 23rd May 2003
 
-[^key-3c857970c0b3347255cf51d1ee6fbd5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c857970c0b3347255cf51d1ee6fbd5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3c857970c0b3347255cf51d1ee6fbd5e]
+## 1. Citation and commencement[^c-3c857970c0b3347255cf51d1ee6fbd5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3c857970c0b3347255cf51d1ee6fbd5e]
+## 2. Interpretation[^c-3c857970c0b3347255cf51d1ee6fbd5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Modifications of the Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2002 to adoptions from overseas[^key-3c857970c0b3347255cf51d1ee6fbd5e]
+## 3. Modifications of the Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2002 to adoptions from overseas[^c-3c857970c0b3347255cf51d1ee6fbd5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c857970c0b3347255cf51d1ee6fbd5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c857970c0b3347255cf51d1ee6fbd5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3c857970c0b3347255cf51d1ee6fbd5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c857970c0b3347255cf51d1ee6fbd5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3c857970c0b3347255cf51d1ee6fbd5e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/277) revoked (3.10.2010) by [The Ordinary Statutory Paternity Pay (Adoption), Additional Statutory Paternity Pay (Adoption) and Statutory Adoption Pay (Adoptions from Overseas) (Persons Abroad and Mariners) Regulations (Northern Ireland) 2010 (S.R. 2010/304)](https://www.legislation.gov.uk/nisr/2010/304), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/304/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2010/304/regulation/3)
+[^c-3c857970c0b3347255cf51d1ee6fbd5e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/277) revoked (3.10.2010) by [The Ordinary Statutory Paternity Pay (Adoption), Additional Statutory Paternity Pay (Adoption) and Statutory Adoption Pay (Adoptions from Overseas) (Persons Abroad and Mariners) Regulations (Northern Ireland) 2010 (S.R. 2010/304)](https://www.legislation.gov.uk/nisr/2010/304), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/304/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2010/304/regulation/3)

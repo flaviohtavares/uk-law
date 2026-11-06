@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 275. Visiting etc powers of medical practitioners in connection with the Tribunal[^key-e3a3af5833e1bcdcc6cf486b78a2263e]
+## 275. Visiting etc powers of medical practitioners in connection with the Tribunal[^c-e3a3af5833e1bcdcc6cf486b78a2263e]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3a3af5833e1bcdcc6cf486b78a2263e]: Commencement: [S. 275](https://www.legislation.gov.uk/nia/2016/18/section/275) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-e3a3af5833e1bcdcc6cf486b78a2263e]: Commencement: [S. 275](https://www.legislation.gov.uk/nia/2016/18/section/275) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

@@ -22,7 +22,7 @@ summary: ''
 
 Section 22
 
-### 1. Entry to non-domestic premises without warrant[^key-b8a5465b26fffb2a31ef493802c73bb4][^key-ca97cd73932edd74ad22a9d39d2b96d5]
+### 1. Entry to non-domestic premises without warrant[^c-b8a5465b26fffb2a31ef493802c73bb4][^c-ca97cd73932edd74ad22a9d39d2b96d5]
 
 (1) An authorised officer may enter any non-domestic premises which the officer has reason to believe it is necessary for the officer to enter for a relevant purpose—
 
@@ -43,7 +43,7 @@ Section 22
 - (a) to be evidence of an offence under this Act or the Building Act 1984, and
 - (b) to be necessary to seize it to prevent the evidence being concealed, lost, altered or destroyed.
 
-### 2. Entry to non-domestic premises with warrant[^key-88ea63517bdb2af82b45a5ccb4c1fb85][^key-66a3e2d48e629ff6e0fa178252b053cb]
+### 2. Entry to non-domestic premises with warrant[^c-88ea63517bdb2af82b45a5ccb4c1fb85][^c-66a3e2d48e629ff6e0fa178252b053cb]
 
 (1) A justice of the peace may issue a warrant in respect of non-domestic premises specified in the warrant if satisfied, on an information in writing made by an authorised officer, that it is necessary—
 
@@ -56,7 +56,7 @@ Section 22
 
 (4) Sub-paragraphs (2) to (5) of paragraph 1 apply in relation to the power of entry conferred by a warrant under this paragraph as they apply in relation to the power of entry conferred by sub-paragraph (1) of that paragraph.
 
-### 3. Entry to domestic premises (with warrant)[^key-54aaf8d4cb62ce64ff299346a95f0db4][^key-4126636a3f22e0adefeabd2ccffac90a]
+### 3. Entry to domestic premises (with warrant)[^c-54aaf8d4cb62ce64ff299346a95f0db4][^c-4126636a3f22e0adefeabd2ccffac90a]
 
 (1) A justice of the peace may issue a warrant in respect of domestic premises specified in the warrant if satisfied, on an information in writing made by an authorised officer, that—
 
@@ -80,7 +80,7 @@ Section 22
 
 (5) An additional power may be specified in the warrant only if the justice of the peace is satisfied that it is necessary to confer the power.
 
-### 4. Power to require information, documents etc[^key-def0614b152567ee410e196b910272a0][^key-dfb531036fcad10c1f6087b652a99fbd]
+### 4. Power to require information, documents etc[^c-def0614b152567ee410e196b910272a0][^c-dfb531036fcad10c1f6087b652a99fbd]
 
 (1) An authorised officer may for a relevant purpose require a person to give specified information or documents to the officer by such time as may be specified.
 
@@ -112,11 +112,11 @@ Section 22
 - “**document**” includes information recorded in any form;
 - “**specified**”, in relation to a requirement, means specified in the notice imposing the requirement.
 
-### 5. Retention of evidence etc[^key-dcc4c06bad28cb83fe2fe7a83c714475][^key-8c6c46170abe44a592aab719653f30fa]
+### 5. Retention of evidence etc[^c-dcc4c06bad28cb83fe2fe7a83c714475][^c-8c6c46170abe44a592aab719653f30fa]
 
 Anything that has been seized under paragraph 1(5), or any document produced under paragraph 4, may be retained for so long as is necessary in all the circumstances.
 
-### 6. Offence of failing to provide information, documents etc[^key-38a5f39019ba430d9dd0e3c29a7c745a][^key-844f3df858fb714a9d93548212eb7f5e]
+### 6. Offence of failing to provide information, documents etc[^c-38a5f39019ba430d9dd0e3c29a7c745a][^c-844f3df858fb714a9d93548212eb7f5e]
 
 (1) A person who fails without reasonable excuse to comply with a requirement under paragraph 4 commits an offence.
 
@@ -125,7 +125,7 @@ Anything that has been seized under paragraph 1(5), or any document produced und
 - (a) on summary conviction, to imprisonment for a term not exceeding the maximum summary term for either-way offences or a fine (or both);
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine (or both).
 
-### 7. Interpretation[^key-5a9e4975b398bb0d4696d518b24101ac][^key-74d325aa89dfbf2dd23989d07858f947]
+### 7. Interpretation[^c-5a9e4975b398bb0d4696d518b24101ac][^c-74d325aa89dfbf2dd23989d07858f947]
 
 (1) In this Schedule —
 
@@ -136,7 +136,7 @@ Anything that has been seized under paragraph 1(5), or any document produced und
 
 (2) In sub-paragraph (1) “**relevant building function**” has the meaning given by section 22.
 
-### 8. Saving for material subject to legal professional privilege[^key-429befb8fa9b2d5934dd102a5b2faecd][^key-eee3b1fd8c2b5080e8edaceed56e21ec]
+### 8. Saving for material subject to legal professional privilege[^c-429befb8fa9b2d5934dd102a5b2faecd][^c-eee3b1fd8c2b5080e8edaceed56e21ec]
 
 Nothing in this Schedule confers power to—
 
@@ -147,34 +147,34 @@ in respect of which a claim to legal professional privilege could be maintained 
 
 ## Annotations
 
-[^key-b8a5465b26fffb2a31ef493802c73bb4]: Commencement: Sch. 2 para. 1 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-b8a5465b26fffb2a31ef493802c73bb4]: Commencement: Sch. 2 para. 1 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-ca97cd73932edd74ad22a9d39d2b96d5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/1) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)
+[^c-ca97cd73932edd74ad22a9d39d2b96d5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/1) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)
 
-[^key-88ea63517bdb2af82b45a5ccb4c1fb85]: Commencement: Sch. 2 para. 2 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-88ea63517bdb2af82b45a5ccb4c1fb85]: Commencement: Sch. 2 para. 2 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-66a3e2d48e629ff6e0fa178252b053cb]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/2) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)
+[^c-66a3e2d48e629ff6e0fa178252b053cb]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/2) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)
 
-[^key-54aaf8d4cb62ce64ff299346a95f0db4]: Commencement: Sch. 2 para. 3 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-54aaf8d4cb62ce64ff299346a95f0db4]: Commencement: Sch. 2 para. 3 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-4126636a3f22e0adefeabd2ccffac90a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/3) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)
+[^c-4126636a3f22e0adefeabd2ccffac90a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/3) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)
 
-[^key-def0614b152567ee410e196b910272a0]: Commencement: Sch. 2 para. 4 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-def0614b152567ee410e196b910272a0]: Commencement: Sch. 2 para. 4 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-dfb531036fcad10c1f6087b652a99fbd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/4) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)
+[^c-dfb531036fcad10c1f6087b652a99fbd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/4) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)
 
-[^key-dcc4c06bad28cb83fe2fe7a83c714475]: Commencement: Sch. 2 para. 5 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-dcc4c06bad28cb83fe2fe7a83c714475]: Commencement: Sch. 2 para. 5 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-8c6c46170abe44a592aab719653f30fa]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/5) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)
+[^c-8c6c46170abe44a592aab719653f30fa]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/5) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)
 
-[^key-38a5f39019ba430d9dd0e3c29a7c745a]: Commencement: Sch. 2 para. 6 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-38a5f39019ba430d9dd0e3c29a7c745a]: Commencement: Sch. 2 para. 6 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-844f3df858fb714a9d93548212eb7f5e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/6) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)
+[^c-844f3df858fb714a9d93548212eb7f5e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/6) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)
 
-[^key-5a9e4975b398bb0d4696d518b24101ac]: Commencement: Sch. 2 para. 7 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-5a9e4975b398bb0d4696d518b24101ac]: Commencement: Sch. 2 para. 7 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-74d325aa89dfbf2dd23989d07858f947]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/7) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)
+[^c-74d325aa89dfbf2dd23989d07858f947]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/7) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)
 
-[^key-429befb8fa9b2d5934dd102a5b2faecd]: Commencement: Sch. 2 para. 8 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-429befb8fa9b2d5934dd102a5b2faecd]: Commencement: Sch. 2 para. 8 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-eee3b1fd8c2b5080e8edaceed56e21ec]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/8) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)
+[^c-eee3b1fd8c2b5080e8edaceed56e21ec]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2022/30/schedule/2/paragraph/8) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/g)

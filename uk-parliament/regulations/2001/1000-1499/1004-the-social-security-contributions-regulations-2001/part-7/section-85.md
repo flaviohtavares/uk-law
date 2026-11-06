@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Exception in relation to earnings to which regulation 84 applies[^key-06ef506a6b6d7d3d2bc19db659d7edb0]
+## 85. Exception in relation to earnings to which regulation 84 applies[^c-06ef506a6b6d7d3d2bc19db659d7edb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06ef506a6b6d7d3d2bc19db659d7edb0]: Textual amendment: Reg. 85 omitted (with effect in accordance with reg. 1(1) of the amending S.I.) by virtue of [The Social Security (Contributions) (Amendment) Regulations 2003 (S.I. 2003/193)](https://www.legislation.gov.uk/uksi/2003/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/193/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2003/193/regulation/9)
+[^c-06ef506a6b6d7d3d2bc19db659d7edb0]: Textual amendment: Reg. 85 omitted (with effect in accordance with reg. 1(1) of the amending S.I.) by virtue of [The Social Security (Contributions) (Amendment) Regulations 2003 (S.I. 2003/193)](https://www.legislation.gov.uk/uksi/2003/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/193/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2003/193/regulation/9)

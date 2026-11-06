@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 349. Computer information[^key-dcf22e354d7fd483415bcead2ee6a83e][^key-46a9a865180a6fd8c75f8ad98c0c0ecf][^key-fc7d523211dd4874b26bd051318a7a20][^key-32b5a28b5d29e3a131845fa26536302a][^key-2398e547ad1f6fc01d712109634d28db]
+## 349. Computer information[^c-dcf22e354d7fd483415bcead2ee6a83e][^c-46a9a865180a6fd8c75f8ad98c0c0ecf][^c-fc7d523211dd4874b26bd051318a7a20][^c-32b5a28b5d29e3a131845fa26536302a][^c-2398e547ad1f6fc01d712109634d28db]
 
 *Extent: E+W+N.I.*
 
@@ -28,12 +28,12 @@ summary: ''
 
 ## Annotations
 
-[^key-dcf22e354d7fd483415bcead2ee6a83e]: Commencement: S. 349 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-dcf22e354d7fd483415bcead2ee6a83e]: Commencement: S. 349 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-46a9a865180a6fd8c75f8ad98c0c0ecf]: Modification: S. 349 modified (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [13(3)](https://www.legislation.gov.uk/uksi/2003/425/article/13/3), [(4)](https://www.legislation.gov.uk/uksi/2003/425/article/13/4)
+[^c-46a9a865180a6fd8c75f8ad98c0c0ecf]: Modification: S. 349 modified (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [13(3)](https://www.legislation.gov.uk/uksi/2003/425/article/13/3), [(4)](https://www.legislation.gov.uk/uksi/2003/425/article/13/4)
 
-[^key-fc7d523211dd4874b26bd051318a7a20]: Modification: S. 349 modified (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/425/article/3/3)[(4)](https://www.legislation.gov.uk/uksi/2003/425/article/3/4), 13(3)(4), 23(3)(4), 24(3)
+[^c-fc7d523211dd4874b26bd051318a7a20]: Modification: S. 349 modified (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2003/425/article/3/3)[(4)](https://www.legislation.gov.uk/uksi/2003/425/article/3/4), 13(3)(4), 23(3)(4), 24(3)
 
-[^key-32b5a28b5d29e3a131845fa26536302a]: Modification: S. 349 modified (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [23(3)](https://www.legislation.gov.uk/uksi/2003/425/article/23/3), [(4)](https://www.legislation.gov.uk/uksi/2003/425/article/23/4)
+[^c-32b5a28b5d29e3a131845fa26536302a]: Modification: S. 349 modified (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [23(3)](https://www.legislation.gov.uk/uksi/2003/425/article/23/3), [(4)](https://www.legislation.gov.uk/uksi/2003/425/article/23/4)
 
-[^key-2398e547ad1f6fc01d712109634d28db]: Modification: S. 349 modified (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [24(3)](https://www.legislation.gov.uk/uksi/2003/425/article/24/3)
+[^c-2398e547ad1f6fc01d712109634d28db]: Modification: S. 349 modified (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [24(3)](https://www.legislation.gov.uk/uksi/2003/425/article/24/3)

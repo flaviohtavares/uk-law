@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Notional capital[^key-925c17acd5be0b9a64e76d59111bb8fa]
+## 22. Notional capital[^c-925c17acd5be0b9a64e76d59111bb8fa]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-925c17acd5be0b9a64e76d59111bb8fa]: Commencement: Reg. 22 in force at 1.4.2015 in accordance with reg. 1
+[^c-925c17acd5be0b9a64e76d59111bb8fa]: Commencement: Reg. 22 in force at 1.4.2015 in accordance with reg. 1
 
 [^f00025]: Footnote: Paragraphs 44 and 45 were inserted by [S.I. 1994/2139](https://www.legislation.gov.uk/uksi/1994/2139). Paragraph 44 was substituted by [S.I. 2006/2378](https://www.legislation.gov.uk/uksi/2006/2378). Paragraph 45 was amended by [S.I. 1997/2197](https://www.legislation.gov.uk/uksi/1997/2197) and [2003/2279](https://www.legislation.gov.uk/uksi/2003/2279).
 

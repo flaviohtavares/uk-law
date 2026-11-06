@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 191. Extended hours applications: variation of conditions[^key-38c1457794e1ea8afcfda07a30ec5bb5]
+## 191. Extended hours applications: variation of conditions[^c-38c1457794e1ea8afcfda07a30ec5bb5]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ After section 70 of the 2005 Act insert—
 
 ## Annotations
 
-[^key-38c1457794e1ea8afcfda07a30ec5bb5]: Commencement: [S. 191](https://www.legislation.gov.uk/asp/2010/13/section/191) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-38c1457794e1ea8afcfda07a30ec5bb5]: Commencement: [S. 191](https://www.legislation.gov.uk/asp/2010/13/section/191) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

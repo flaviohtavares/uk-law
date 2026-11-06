@@ -22,7 +22,7 @@ summary: ''
 
 (1) An administering authority must obtain—
 
-- (a) an actuarial valuation of the assets and liabilities of each of its pension funds [^key-c1181e205089b1b2d21adc0fac144895]... as at 31st March 2020 and on 31st March in every third year afterwards;
+- (a) an actuarial valuation of the assets and liabilities of each of its pension funds [^c-c1181e205089b1b2d21adc0fac144895]... as at 31st March 2020 and on 31st March in every third year afterwards;
 - (b) a report by an actuary in respect of the valuation; and
 - (c) a rates and adjustments certificate prepared by an actuary.
 
@@ -44,7 +44,7 @@ for each year of the period of 3 years beginning with 1st April in the year foll
 - (c) the current version of the administering authority's funding strategy mentioned in regulation 56 (funding strategy statements); and
 - (d) the requirement to secure the solvency of the pension fund and the long term cost efficiency of the Scheme, so far as relating to the pension fund.
 
-(5A)[^key-ee427627034a27710e2853561fdb3a64] Compensation paid by the scheme to a person by virtue of section 82(1) of PSPJOA 2022 or additional benefits payable by virtue of regulation 4Q of the Transitional Provisions and Savings Regulations 2014 are liabilities for the purpose of the actuarial valuation under paragraph (1)(a).
+(5A)[^c-ee427627034a27710e2853561fdb3a64] Compensation paid by the scheme to a person by virtue of section 82(1) of PSPJOA 2022 or additional benefits payable by virtue of regulation 4Q of the Transitional Provisions and Savings Regulations 2014 are liabilities for the purpose of the actuarial valuation under paragraph (1)(a).
 
 (6) A rates and adjustments certificate must contain a statement of the assumptions on which the certificate is given as respects—
 
@@ -53,7 +53,7 @@ for each year of the period of 3 years beginning with 1st April in the year foll
 
 during the period covered by the certificate.
 
-(6A)[^key-297c69e62ba5501b1c452a0656593f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6A)[^c-297c69e62ba5501b1c452a0656593f5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The administering authority must provide the actuary preparing a valuation or a rates and adjustments certificate with the consolidated revenue account of the fund and such other information as the actuary requests.
 
@@ -64,8 +64,8 @@ during the period covered by the certificate.
 
 ## Annotations
 
-[^key-c1181e205089b1b2d21adc0fac144895]: Textual amendment: Words in [reg. 60(1)(a)](https://www.legislation.gov.uk/ssi/2018/141/regulation/60/1/a) omitted (28.3.2024 with effect from 1.6.2022) by virtue of [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2/a), [8(1)(a)](https://www.legislation.gov.uk/ssi/2024/37/regulation/8/1/a)
+[^c-c1181e205089b1b2d21adc0fac144895]: Textual amendment: Words in [reg. 60(1)(a)](https://www.legislation.gov.uk/ssi/2018/141/regulation/60/1/a) omitted (28.3.2024 with effect from 1.6.2022) by virtue of [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2/a), [8(1)(a)](https://www.legislation.gov.uk/ssi/2024/37/regulation/8/1/a)
 
-[^key-ee427627034a27710e2853561fdb3a64]: Textual amendment: [Reg. 60(5A)](https://www.legislation.gov.uk/ssi/2018/141/regulation/60/5A) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(11)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/11)
+[^c-ee427627034a27710e2853561fdb3a64]: Textual amendment: [Reg. 60(5A)](https://www.legislation.gov.uk/ssi/2018/141/regulation/60/5A) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(11)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/11)
 
-[^key-297c69e62ba5501b1c452a0656593f5a]: Textual amendment: [Reg. 60(6A)](https://www.legislation.gov.uk/ssi/2018/141/regulation/60/6A) omitted (28.3.2024 with effect from 1.6.2022) by virtue of [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2/a), [8(1)(b)](https://www.legislation.gov.uk/ssi/2024/37/regulation/8/1/b)
+[^c-297c69e62ba5501b1c452a0656593f5a]: Textual amendment: [Reg. 60(6A)](https://www.legislation.gov.uk/ssi/2018/141/regulation/60/6A) omitted (28.3.2024 with effect from 1.6.2022) by virtue of [The Local Government Pension Scheme (Scotland) (Amendment) Regulations 2024 (S.S.I. 2024/37)](https://www.legislation.gov.uk/ssi/2024/37), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/37/regulation/1/2/a), [8(1)(b)](https://www.legislation.gov.uk/ssi/2024/37/regulation/8/1/b)

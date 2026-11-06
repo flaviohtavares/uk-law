@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Appeals against certain confiscation orders (Northern Ireland)[^key-a38c7f8537ba910f1976b0109f77a72c]
+## 141. Appeals against certain confiscation orders (Northern Ireland)[^c-a38c7f8537ba910f1976b0109f77a72c]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a38c7f8537ba910f1976b0109f77a72c]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2009/25/section/141) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/11)
+[^c-a38c7f8537ba910f1976b0109f77a72c]: Commencement: [S. 141](https://www.legislation.gov.uk/ukpga/2009/25/section/141) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/11)

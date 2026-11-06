@@ -22,7 +22,7 @@ summary: ''
 
 Article 47
 
-### 1. Determination of applications for specified consents[^key-7874fd96576dc8debdf2ff2c3846cc1d]
+### 1. Determination of applications for specified consents[^c-7874fd96576dc8debdf2ff2c3846cc1d]
 
 (1) Subject paragraph (2), where an application has been made to the discharging authority for any specified consent, the discharging authority must give notice to the undertaker of its decision on the application within a period of 8 weeks beginning with—
 
@@ -37,13 +37,13 @@ Article 47
 
 (5) If a provision of this Order relating to a specified consent specifies that consultation with a consultee is required, the discharging authority must issue the consultation to the consultee and may notify the undertaker in writing specifying any further information requested by the consultee.
 
-### 2. Fees[^key-c2267c49cd6d3a9b4f32a7d17b466c2e]
+### 2. Fees[^c-c2267c49cd6d3a9b4f32a7d17b466c2e]
 
 (1) Where an application is made to a relevant planning authority for any consent, agreement or approval required by a requirement listed in Schedule 3 (requirements) to this Order, a fee of £97 (or such other fee as may be prescribed in regulations made pursuant to sections 303 (fees for planning applications etc.) and 333(2A) (regulations and orders) of the 1990 Act for the confirmation by a local planning authority of compliance with a condition attached to a planning permission) must be paid to the discharging authority.
 
 (2) Any fee paid under this Schedule must be refunded to the undertaker within 4 weeks of the discharging authority failing to determine the application within 8 weeks or the period agreed under paragraph 1(2) from the date on which it is received, unless within that period the undertaker agrees in writing that the fee may be retained by the discharging authority and credited in respect of a future application.
 
-### 3. Appeals[^key-ce59b80951dd7b8764caeb677e4144bc]
+### 3. Appeals[^c-ce59b80951dd7b8764caeb677e4144bc]
 
 (1) The undertaker may appeal if—
 
@@ -69,7 +69,7 @@ Article 47
 
 (6) Any such representations must be submitted to the appointed person and made available to all appeal parties within 10 business days of the date mentioned in sub-paragraph (3).
 
-### 4. Outcome of Appeals[^key-014a85f9cd608e20868a5a0942b7cafb]
+### 4. Outcome of Appeals[^c-014a85f9cd608e20868a5a0942b7cafb]
 
 (1) On an appeal under paragraph 2, the appointed person may—
 
@@ -99,7 +99,7 @@ and may deal with the application as if it had been made to the appointed person
 - (a) this Schedule applies instead of article 46 (arbitration); and
 - (b) in respect of any specified consent required pursuant to sections 54 to 106 of the 1991 act, this Schedule applies instead of section 99 (arbitration) of that Act.
 
-### 5. Interpretation of this Schedule[^key-57bc49e05809387b047bc3be1cecd178]
+### 5. Interpretation of this Schedule[^c-57bc49e05809387b047bc3be1cecd178]
 
 In this Schedule—
 
@@ -122,12 +122,12 @@ In this Schedule—
 
 ## Annotations
 
-[^key-7874fd96576dc8debdf2ff2c3846cc1d]: Commencement: Sch. 12 para. 1 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-7874fd96576dc8debdf2ff2c3846cc1d]: Commencement: Sch. 12 para. 1 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-c2267c49cd6d3a9b4f32a7d17b466c2e]: Commencement: Sch. 12 para. 2 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-c2267c49cd6d3a9b4f32a7d17b466c2e]: Commencement: Sch. 12 para. 2 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-ce59b80951dd7b8764caeb677e4144bc]: Commencement: Sch. 12 para. 3 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-ce59b80951dd7b8764caeb677e4144bc]: Commencement: Sch. 12 para. 3 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-014a85f9cd608e20868a5a0942b7cafb]: Commencement: Sch. 12 para. 4 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-014a85f9cd608e20868a5a0942b7cafb]: Commencement: Sch. 12 para. 4 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-57bc49e05809387b047bc3be1cecd178]: Commencement: Sch. 12 para. 5 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-57bc49e05809387b047bc3be1cecd178]: Commencement: Sch. 12 para. 5 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

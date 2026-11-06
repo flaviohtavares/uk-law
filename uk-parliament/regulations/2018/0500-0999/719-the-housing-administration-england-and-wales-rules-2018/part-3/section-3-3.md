@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.3. Content of statement of affairs[^key-e1f3db2369c5723a2bad3d745941c5df]
+## 3.3. Content of statement of affairs[^c-e1f3db2369c5723a2bad3d745941c5df]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1f3db2369c5723a2bad3d745941c5df]: Commencement: Rule 3.3 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-e1f3db2369c5723a2bad3d745941c5df]: Commencement: Rule 3.3 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

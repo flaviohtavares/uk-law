@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Extent to which compensation recoverable under agreements.[^key-d8438a07cbc6b5d21841e9653ade86e0]
+## 53. Extent to which compensation recoverable under agreements.[^c-d8438a07cbc6b5d21841e9653ade86e0]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8438a07cbc6b5d21841e9653ade86e0]: Modification: [S. 53](https://www.legislation.gov.uk/ukpga/1991/55/section/53) excluded (13.6.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 117(2)](https://www.legislation.gov.uk/asp/2016/18/section/117/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule)
+[^c-d8438a07cbc6b5d21841e9653ade86e0]: Modification: [S. 53](https://www.legislation.gov.uk/ukpga/1991/55/section/53) excluded (13.6.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 117(2)](https://www.legislation.gov.uk/asp/2016/18/section/117/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule)

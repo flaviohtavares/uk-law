@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Amendment of Schedule 3[^key-3cb8e22d9836d9a4aedca8f847e023fb]
+## 43. Amendment of Schedule 3[^c-3cb8e22d9836d9a4aedca8f847e023fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,6 +83,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3cb8e22d9836d9a4aedca8f847e023fb]: Commencement: Reg. 43 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-3cb8e22d9836d9a4aedca8f847e023fb]: Commencement: Reg. 43 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00029]: Footnote: Schedule 3 was amended by [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806).

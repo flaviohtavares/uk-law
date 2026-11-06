@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Prohibition on development for prescribed persons[^key-c6e0c6f1779cce8e7c5df20a2ae71b12][^key-38358df97fde3984ff18ff372e0f190c]
+## 128. Prohibition on development for prescribed persons[^c-c6e0c6f1779cce8e7c5df20a2ae71b12][^c-38358df97fde3984ff18ff372e0f190c]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ including securing that safety, or improving that standard, by securing that per
 
 ## Annotations
 
-[^key-c6e0c6f1779cce8e7c5df20a2ae71b12]: Commencement: S. 128 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-c6e0c6f1779cce8e7c5df20a2ae71b12]: Commencement: S. 128 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-38358df97fde3984ff18ff372e0f190c]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2022/30/section/128) in force at 1.9.2022 by [S.I. 2022/927](https://www.legislation.gov.uk/uksi/2022/927), [reg. 2](https://www.legislation.gov.uk/uksi/2022/927/regulation/2)
+[^c-38358df97fde3984ff18ff372e0f190c]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2022/30/section/128) in force at 1.9.2022 by [S.I. 2022/927](https://www.legislation.gov.uk/uksi/2022/927), [reg. 2](https://www.legislation.gov.uk/uksi/2022/927/regulation/2)

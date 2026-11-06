@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Exercise of right to buy[^key-199159f729e120d91714443fd5f71cee]
+## 29. Exercise of right to buy[^c-199159f729e120d91714443fd5f71cee]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ the right to buy is extinguished.
 
 ## Annotations
 
-[^key-199159f729e120d91714443fd5f71cee]: Commencement: S. 29 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)
+[^c-199159f729e120d91714443fd5f71cee]: Commencement: S. 29 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)

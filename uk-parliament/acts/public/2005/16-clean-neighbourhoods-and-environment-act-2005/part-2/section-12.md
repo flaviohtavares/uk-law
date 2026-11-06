@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Disposal[^key-3276f821cd0a693823ccb4fb772c721a][^key-315590154729c92c8bdf3b9a908d483a]
+## 12. Disposal[^c-3276f821cd0a693823ccb4fb772c721a][^c-315590154729c92c8bdf3b9a908d483a]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3276f821cd0a693823ccb4fb772c721a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2005/16/section/12) in force at 18.10.2005 for E. by [S.I. 2005/2896](https://www.legislation.gov.uk/uksi/2005/2896), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/2896/article/3/b) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2005/2896/article/4/1))
+[^c-3276f821cd0a693823ccb4fb772c721a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2005/16/section/12) in force at 18.10.2005 for E. by [S.I. 2005/2896](https://www.legislation.gov.uk/uksi/2005/2896), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/2896/article/3/b) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2005/2896/article/4/1))
 
-[^key-315590154729c92c8bdf3b9a908d483a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2005/16/section/12) in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(b)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/b) (with [art. 8(1)(b)](https://www.legislation.gov.uk/wsi/2006/2797/article/8/1/b)[(2)](https://www.legislation.gov.uk/wsi/2006/2797/article/8/2))
+[^c-315590154729c92c8bdf3b9a908d483a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2005/16/section/12) in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(b)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/b) (with [art. 8(1)(b)](https://www.legislation.gov.uk/wsi/2006/2797/article/8/1/b)[(2)](https://www.legislation.gov.uk/wsi/2006/2797/article/8/2))

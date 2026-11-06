@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Registers of site licences[^key-cef6ecff16f3f42c4545a317162a1e17]
+## 37. Registers of site licences[^c-cef6ecff16f3f42c4545a317162a1e17]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cef6ecff16f3f42c4545a317162a1e17]: Commencement: [S. 37](https://www.legislation.gov.uk/anaw/2013/6/section/37) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-cef6ecff16f3f42c4545a317162a1e17]: Commencement: [S. 37](https://www.legislation.gov.uk/anaw/2013/6/section/37) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

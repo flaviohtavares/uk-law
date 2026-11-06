@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Amendment of regulation 115 (obligation to provide information relating to safety etc)[^key-b08fb2453f8b60d62025ad332358897d]
+## 106. Amendment of regulation 115 (obligation to provide information relating to safety etc)[^c-b08fb2453f8b60d62025ad332358897d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 115(5)(a) for “which is not an EEA State” substitute “ other
 
 ## Annotations
 
-[^key-b08fb2453f8b60d62025ad332358897d]: Commencement: Reg. 106 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b08fb2453f8b60d62025ad332358897d]: Commencement: Reg. 106 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

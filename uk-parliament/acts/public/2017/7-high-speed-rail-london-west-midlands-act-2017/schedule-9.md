@@ -42,7 +42,7 @@ Section 5(7)
 >
 > In assessing the compensation to be paid by the acquiring authority under this Act, regard shall be had, not only to the extent (if any) to which the value of the land over which the right is acquired or the restrictive covenant is imposed is depreciated by the acquisition of the right or the imposition of the covenant, but also to the damage (if any) to be sustained by the owner of the land by reason of its severance from other land of the owner, or injuriously affecting that other land by the exercise of the powers conferred by this or the special Act.
 
-(4)[^key-eead6156ec91511b3cf84ab9854369b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-eead6156ec91511b3cf84ab9854369b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The following provisions of CPA 1965 (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land)—
 
@@ -59,7 +59,7 @@ are so modified as to secure that, as against persons with interests in the land
 
 (8) Section 22 of CPA 1965 (protection of acquiring authority's possession of land where interest accidentally omitted from purchase) is so modified as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired or enforce the restrictive covenant imposed, subject to compliance with that section as respects compensation.
 
-(8A)[^key-04208721b2700f480c94d124e672aa68] For Schedule 2A to CPA 1965 substitute—
+(8A)[^c-04208721b2700f480c94d124e672aa68] For Schedule 2A to CPA 1965 substitute—
 
 > **SCHEDULE 2A — Counter-notice requiring purchase of land**
 >
@@ -114,7 +114,7 @@ are so modified as to secure that, as against persons with interests in the land
 >
 > (3) Any dispute as to the compensation is to be determined by the Upper Tribunal.
 
-(8B)[^key-4b2a812faf6677e17c5af9ba19f0b166] In section 5A of the Land Compensation Act 1961 (relevant valuation date)—
+(8B)[^c-4b2a812faf6677e17c5af9ba19f0b166] In section 5A of the Land Compensation Act 1961 (relevant valuation date)—
 
 - (a) for subsection (5A) substitute—
 
@@ -148,7 +148,7 @@ are so modified as to secure that, as against persons with interests in the land
 >
 > (2) In this section, “**"compensation for injurious affection”**” means compensation for injurious affection under section 7 or 20 of the Compulsory Purchase Act 1965 as applied by paragraph 1 of Schedule 9 to the High Speed Rail (London - West Midlands) Act 2017.
 
-(10)[^key-b21a8447088b14b5fb62fa91c2926229] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-b21a8447088b14b5fb62fa91c2926229] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Compulsory Purchase (Vesting Declarations) Act 1981 and compensation enactments
 
@@ -177,7 +177,7 @@ are so modified as to secure that, as against persons with interests in the land
 
 (6) In section 10(1) of the 1981 Act (acquiring authority's liability on vesting of land), the reference to the acquiring authority's taking possession of the land under section 11(1) of CPA 1965 is to be read instead as a reference to the authority's exercising the power to enter the land under that provision as modified by paragraph 2(6) of this Schedule.
 
-(7)[^key-48cb075d8ef7922be4f7288c2b15877c] Schedule A1 to the 1981 Act (counter-notice requiring purchase of land not in general vesting declaration) has effect as if—
+(7)[^c-48cb075d8ef7922be4f7288c2b15877c] Schedule A1 to the 1981 Act (counter-notice requiring purchase of land not in general vesting declaration) has effect as if—
 
 - (a) in paragraph 1(1), for ““part only of”” there were substituted “ only the acquisition of a right over, or the imposition of a restrictive covenant affecting, ”,
 - (b) paragraph 1(2) were omitted,
@@ -188,12 +188,12 @@ are so modified as to secure that, as against persons with interests in the land
 
 ## Annotations
 
-[^key-eead6156ec91511b3cf84ab9854369b9]: Textual amendment: Sch. 9 para. 2(4) omitted (24.2.2017) by virtue of [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 8(2)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/8/2); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-eead6156ec91511b3cf84ab9854369b9]: Textual amendment: Sch. 9 para. 2(4) omitted (24.2.2017) by virtue of [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 8(2)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/8/2); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-04208721b2700f480c94d124e672aa68]: Textual amendment: Sch. 9 para. 2(8A) inserted (24.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 8(3)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/8/3); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-04208721b2700f480c94d124e672aa68]: Textual amendment: Sch. 9 para. 2(8A) inserted (24.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 8(3)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/8/3); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-4b2a812faf6677e17c5af9ba19f0b166]: Textual amendment: Sch. 9 para. 2(8B) substituted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2021/2/schedule/9/paragraph/5)
+[^c-4b2a812faf6677e17c5af9ba19f0b166]: Textual amendment: Sch. 9 para. 2(8B) substituted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2021/2/schedule/9/paragraph/5)
 
-[^key-b21a8447088b14b5fb62fa91c2926229]: Textual amendment: Sch. 9 para. 2(10) omitted (24.2.2017) by virtue of [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 8(5)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/8/5); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-b21a8447088b14b5fb62fa91c2926229]: Textual amendment: Sch. 9 para. 2(10) omitted (24.2.2017) by virtue of [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 8(5)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/8/5); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
 
-[^key-48cb075d8ef7922be4f7288c2b15877c]: Textual amendment: [Sch. 9 para. 4(7)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/9/paragraph/4/7) substituted (24.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/9); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)
+[^c-48cb075d8ef7922be4f7288c2b15877c]: Textual amendment: [Sch. 9 para. 4(7)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/9/paragraph/4/7) substituted (24.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/2), [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2017/7/schedule/14/paragraph/9); [S.I. 2017/209](https://www.legislation.gov.uk/uksi/2017/209), [reg. 2](https://www.legislation.gov.uk/uksi/2017/209/regulation/2)

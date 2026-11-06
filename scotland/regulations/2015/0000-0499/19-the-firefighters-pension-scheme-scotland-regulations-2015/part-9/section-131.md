@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 131. Request for acceptance of a transfer payment[^key-0863af100d62c0453a21a21bebdf918d]
+## 131. Request for acceptance of a transfer payment[^c-0863af100d62c0453a21a21bebdf918d]
 
 *Extent: S*
 
@@ -29,12 +29,12 @@ summary: ''
   - (ii) the anticipated amount of the transfer payment; and
 - (b) subject to paragraph (3), must be made before the beginning of the period of one year ending with the date on which the member reaches normal pension age.
 
-(3)[^key-5893799519ca22100ca735622a9c7bac] A request that a transfer payment be accepted from a non-occupational pension scheme must be made during the period of one year beginning with the day on which the member becomes an active member or such longer period as the scheme manager may allow.
+(3)[^c-5893799519ca22100ca735622a9c7bac] A request that a transfer payment be accepted from a non-occupational pension scheme must be made during the period of one year beginning with the day on which the member becomes an active member or such longer period as the scheme manager may allow.
 
 (4) On receiving a transfer payment request, the scheme manager may accept the transfer payment.
 
 ## Annotations
 
-[^key-0863af100d62c0453a21a21bebdf918d]: Commencement: [Reg. 131](https://www.legislation.gov.uk/ssi/2015/19/regulation/131) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-0863af100d62c0453a21a21bebdf918d]: Commencement: [Reg. 131](https://www.legislation.gov.uk/ssi/2015/19/regulation/131) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
-[^key-5893799519ca22100ca735622a9c7bac]: Modification: [Reg. 131(3)](https://www.legislation.gov.uk/ssi/2015/19/regulation/131/3) applied (with modifications) (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/242)](https://www.legislation.gov.uk/ssi/2023/242), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b), [43](https://www.legislation.gov.uk/ssi/2023/242/regulation/43)
+[^c-5893799519ca22100ca735622a9c7bac]: Modification: [Reg. 131(3)](https://www.legislation.gov.uk/ssi/2015/19/regulation/131/3) applied (with modifications) (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/242)](https://www.legislation.gov.uk/ssi/2023/242), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2023/242/regulation/1/b), [43](https://www.legislation.gov.uk/ssi/2023/242/regulation/43)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Nominations made before 1st May 1981[^key-2aba3cb221ab5300b41458aaf01e89c3]
+## 83. Nominations made before 1st May 1981[^c-2aba3cb221ab5300b41458aaf01e89c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ directing that, on death, the nominator’s interest devolve on one or more pers
 
 ## Annotations
 
-[^key-2aba3cb221ab5300b41458aaf01e89c3]: Commencement: Reg. 83 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-2aba3cb221ab5300b41458aaf01e89c3]: Commencement: Reg. 83 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

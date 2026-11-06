@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158A. Van provided pursuant to optional remuneration arrangements: private use[^key-7f7ed318c5077cd5d2995a1e09aea830][^key-e3ed7c7f56956e11a03127a1ded249b3]
+## 158A. Van provided pursuant to optional remuneration arrangements: private use[^c-7f7ed318c5077cd5d2995a1e09aea830][^c-e3ed7c7f56956e11a03127a1ded249b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7f7ed318c5077cd5d2995a1e09aea830]: Textual amendment: [S. 158A](https://www.legislation.gov.uk/ukpga/2003/1/section/158A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/38)
+[^c-7f7ed318c5077cd5d2995a1e09aea830]: Textual amendment: [S. 158A](https://www.legislation.gov.uk/ukpga/2003/1/section/158A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/38)
 
-[^key-e3ed7c7f56956e11a03127a1ded249b3]: Textual amendment: Ss. 155-164 substituted for ss. 155-166 (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/5)
+[^c-e3ed7c7f56956e11a03127a1ded249b3]: Textual amendment: Ss. 155-164 substituted for ss. 155-166 (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/5)

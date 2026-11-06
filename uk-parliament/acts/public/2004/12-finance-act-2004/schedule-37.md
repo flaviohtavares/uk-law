@@ -269,11 +269,11 @@ shall not be tax-exempt tariffing receipts (and shall accordingly continue to be
 
 #### Introductory
 
-**10.**[^key-dc1285396a7f4f1a3a8483719f642c54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-dc1285396a7f4f1a3a8483719f642c54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Section 496: treatment of tax-exempt tariffing receipts for income and corporation tax
 
-**11.**[^key-dc1285396a7f4f1a3a8483719f642c54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-dc1285396a7f4f1a3a8483719f642c54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 4 — Amendments of other enactments
 
@@ -300,4 +300,4 @@ shall not be tax-exempt tariffing receipts (and shall accordingly continue to be
 
 ## Annotations
 
-[^key-dc1285396a7f4f1a3a8483719f642c54]: Textual amendment: [Sch. 37 para. 11](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/11) repealed (1.4.2010) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 6](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/6) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22)) and repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-dc1285396a7f4f1a3a8483719f642c54]: Textual amendment: [Sch. 37 para. 11](https://www.legislation.gov.uk/ukpga/2004/12/schedule/37/paragraph/11) repealed (1.4.2010) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 6](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/6) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22)) and repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

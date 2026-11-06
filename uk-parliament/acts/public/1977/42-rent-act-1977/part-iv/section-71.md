@@ -34,7 +34,7 @@ summary: ''
 - (a) any services provided by the landlord or a superior landlord, or
 - (b) any works of maintenance or repair carried out by the landlord or a superior landlord,
 
-the amount to be registered under this Part of this Act as rent may, if the rent officer is satisfied or, as the case may be, the appropriate tribunal[^key-760a93662f8656f9126125ae1422be68] are satisfied, that the terms as to the variation are reasonable, be entered as an amount variable in accordance with those terms.
+the amount to be registered under this Part of this Act as rent may, if the rent officer is satisfied or, as the case may be, the appropriate tribunal[^c-760a93662f8656f9126125ae1422be68] are satisfied, that the terms as to the variation are reasonable, be entered as an amount variable in accordance with those terms.
 
 ## Annotations
 
@@ -42,4 +42,4 @@ the amount to be registered under this Part of this Act as rent may, if the rent
 
 [^c16039251]: Textual amendment: Words repealed by [S.I. 1987/264](https://www.legislation.gov.uk/uksi/1987/264), [arts. 2(3)](https://www.legislation.gov.uk/uksi/1987/264/article/2/3), [3](https://www.legislation.gov.uk/uksi/1987/264/article/3), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1987/264/schedule/1/paragraph/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1987/264/schedule/2)
 
-[^key-760a93662f8656f9126125ae1422be68]: Textual amendment: Words in [s. 71(4)](https://www.legislation.gov.uk/ukpga/1977/42/section/71/4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/15) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-760a93662f8656f9126125ae1422be68]: Textual amendment: Words in [s. 71(4)](https://www.legislation.gov.uk/ukpga/1977/42/section/71/4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/15) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

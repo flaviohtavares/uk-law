@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Election expenses — list of matters and general exclusions[^key-28604bb5132946010c375a203865cb3b]
+## 59. Election expenses — list of matters and general exclusions[^c-28604bb5132946010c375a203865cb3b]
 
 *Extent: S*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-28604bb5132946010c375a203865cb3b]: Commencement: Art. 59 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-28604bb5132946010c375a203865cb3b]: Commencement: Art. 59 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00040]: Footnote: [1990 c.42](https://www.legislation.gov.uk/ukpga/1990/42).
 

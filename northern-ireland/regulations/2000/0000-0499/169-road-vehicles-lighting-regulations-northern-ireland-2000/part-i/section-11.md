@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Exceptions — vehicles drawn or propelled by hand[^key-54385d04f402e287c6f8523001175bfe]
+## 11. Exceptions — vehicles drawn or propelled by hand[^c-54385d04f402e287c6f8523001175bfe]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ A vehicle drawn or propelled by hand which has an overall width, including any l
 
 ## Annotations
 
-[^key-54385d04f402e287c6f8523001175bfe]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2000/169/regulation/11) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-54385d04f402e287c6f8523001175bfe]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2000/169/regulation/11) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

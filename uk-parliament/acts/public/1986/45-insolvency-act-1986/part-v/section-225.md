@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^c15574751] Where a company incorporated outside Great Britain which has been carrying on business in Great Britain ceases to carry on business in Great Britain, it may be wound up as an unregistered company under this Act, notwithstanding that it has been dissolved or otherwise ceased to exist as a company under or by virtue of the laws of the country under which it was incorporated.
 
-(2)[^key-c71de1a0a011fbd3247579876554dddd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c71de1a0a011fbd3247579876554dddd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c15574751]: Textual amendment: S. 225 renumbered as s. 225(1) and s. 225(2) inserted (31.5.2002) by [S.I. 2002/1240](https://www.legislation.gov.uk/uksi/2002/1240), [reg. 10](https://www.legislation.gov.uk/uksi/2002/1240/regulation/10)
 
-[^key-c71de1a0a011fbd3247579876554dddd]: Textual amendment: [S. 225(2)](https://www.legislation.gov.uk/ukpga/1986/45/section/225/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/27) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c71de1a0a011fbd3247579876554dddd]: Textual amendment: [S. 225(2)](https://www.legislation.gov.uk/ukpga/1986/45/section/225/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/27) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

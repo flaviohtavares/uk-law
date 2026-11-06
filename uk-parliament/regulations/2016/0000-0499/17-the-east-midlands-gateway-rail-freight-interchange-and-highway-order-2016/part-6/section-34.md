@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Operational land for the purposes of the 1990 Act[^key-97a04ec76ed5075abdccb521d1f79440]
+## 34. Operational land for the purposes of the 1990 Act[^c-97a04ec76ed5075abdccb521d1f79440]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Development consent granted by this Order within that part of the Order limits u
 
 ## Annotations
 
-[^key-97a04ec76ed5075abdccb521d1f79440]: Commencement: Art. 34 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-97a04ec76ed5075abdccb521d1f79440]: Commencement: Art. 34 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

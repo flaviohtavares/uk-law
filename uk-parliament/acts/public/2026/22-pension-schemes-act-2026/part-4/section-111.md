@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Financial Assistance Scheme: indexation of payments for pre-1997 service[^key-9ba3beec5bb654f082df422367130ea2]
+## 111. Financial Assistance Scheme: indexation of payments for pre-1997 service[^c-9ba3beec5bb654f082df422367130ea2]
 
 *Extent: E+W+S*
 
@@ -159,4 +159,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ba3beec5bb654f082df422367130ea2]: Commencement: S. 111 not in force at Royal Assent, see [s. 133(9)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/9)
+[^c-9ba3beec5bb654f082df422367130ea2]: Commencement: S. 111 not in force at Royal Assent, see [s. 133(9)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/9)

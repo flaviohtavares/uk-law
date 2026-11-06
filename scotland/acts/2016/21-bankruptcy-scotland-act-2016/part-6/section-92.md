@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Debtor contribution order: review and appeal[^key-06cd74aa3e28be0075e2c7fa045797dc]
+## 92. Debtor contribution order: review and appeal[^c-06cd74aa3e28be0075e2c7fa045797dc]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06cd74aa3e28be0075e2c7fa045797dc]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2016/21/section/92) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-06cd74aa3e28be0075e2c7fa045797dc]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2016/21/section/92) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Cash ratio deposits[^key-d05302b60162337c93baa9232ed6ac19]
+## 163. Cash ratio deposits[^c-d05302b60162337c93baa9232ed6ac19]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d05302b60162337c93baa9232ed6ac19]: Commencement: Art. 163 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-d05302b60162337c93baa9232ed6ac19]: Commencement: Art. 163 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

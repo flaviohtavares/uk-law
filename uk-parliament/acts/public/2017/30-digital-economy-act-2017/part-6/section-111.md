@@ -34,9 +34,9 @@ summary: ''
 
 (7) In Schedule 14 (transitional provisions and savings) omit paragraph 2 (registration under Part 2 of the Data Protection Act 1984).
 
-(8)[^key-0e12439131d24fa51de82d8d7fe9d4a7] In regulation 5(3)(b) of the High Court Enforcement Officers Regulations 2004 (SI 2004/400) (application procedure) omit paragraph (iii).
+(8)[^c-0e12439131d24fa51de82d8d7fe9d4a7] In regulation 5(3)(b) of the High Court Enforcement Officers Regulations 2004 (SI 2004/400) (application procedure) omit paragraph (iii).
 
-(9)[^key-0e12439131d24fa51de82d8d7fe9d4a7] In consequence of the repeal in subsection (2) the following are repealed or revoked—
+(9)[^c-0e12439131d24fa51de82d8d7fe9d4a7] In consequence of the repeal in subsection (2) the following are repealed or revoked—
 
 - (a) section 71 of the Freedom of Information Act 2000;
 - (b) in paragraph 6 of Schedule 2 to the Transfer of Functions (Miscellaneous) Order 2001 (SI 2001/3500)—
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e12439131d24fa51de82d8d7fe9d4a7]: Commencement: S. 111(8)(9) in force at 25.5.2018 by [S.I. 2018/624](https://www.legislation.gov.uk/uksi/2018/624), [reg. 2](https://www.legislation.gov.uk/uksi/2018/624/regulation/2)
+[^c-0e12439131d24fa51de82d8d7fe9d4a7]: Commencement: S. 111(8)(9) in force at 25.5.2018 by [S.I. 2018/624](https://www.legislation.gov.uk/uksi/2018/624), [reg. 2](https://www.legislation.gov.uk/uksi/2018/624/regulation/2)

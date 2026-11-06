@@ -46,11 +46,11 @@ Coming into force in accordance with article 1
 
 The Lord Chancellor, in exercise of the powers conferred by sections 414 and 415 of the Insolvency Act 1986[^f00001], and with the sanction of the Treasury, makes the following Order.
 
-## 1. Citation and commencement[^key-79473b88615078dee11b022facb921b6]
+## 1. Citation and commencement[^c-79473b88615078dee11b022facb921b6]
 
 This Order may be cited as the Insolvency Proceedings (Fees) Order 2016 and comes into force twenty-one days after the day on which it is laid.
 
-## 2. Interpretation[^key-9dd0de62f2fdf75a4281453b0bb30b22]
+## 2. Interpretation[^c-9dd0de62f2fdf75a4281453b0bb30b22]
 
 In this Order—
 
@@ -59,18 +59,18 @@ In this Order—
 - “the commencement date” means the date this Order comes into force;
 - “deposit” means—
   - (a) on the making of a bankruptcy application, the sum of £550,
-  - (b) on the presentation of a bankruptcy petition, the sum of £1,500[^key-33ea347241e9ddb50bc094e6fa994b1c],
-  - (c) on the presentation of a winding up petition, other than a petition presented under section 124A[^f00003] of the Act, the sum of £2,600[^key-75b8181db849f9ea9b6b783c14213b36],
-  - (d) on the presentation of a winding-up petition under section 124A of the Act, the sum of £13,500[^key-df01c1f8b16bcb188da879b647dc681b];
+  - (b) on the presentation of a bankruptcy petition, the sum of £1,500[^c-33ea347241e9ddb50bc094e6fa994b1c],
+  - (c) on the presentation of a winding up petition, other than a petition presented under section 124A[^f00003] of the Act, the sum of £2,600[^c-75b8181db849f9ea9b6b783c14213b36],
+  - (d) on the presentation of a winding-up petition under section 124A of the Act, the sum of £13,500[^c-df01c1f8b16bcb188da879b647dc681b];
 - “official receiver’s administration fee” means the fee payable to the official receiver on the making of a bankruptcy or winding up order out of the chargeable receipts of the estate of the bankrupt or, as the case may be, the assets of the insolvent company for the performance of the official receiver’s functions under the Act.
 
-## 3. Fees payable in connection with individual voluntary arrangements, debt relief orders and bankruptcy and winding up[^key-79629befcb6c76ad0ada5f5cd986b52c]
+## 3. Fees payable in connection with individual voluntary arrangements, debt relief orders and bankruptcy and winding up[^c-79629befcb6c76ad0ada5f5cd986b52c]
 
 The fees payable to the Secretary of State in respect of the matters specified in column 1 of the Table of Fees in Schedule 1 (Fees payable in insolvency proceedings) are the fees specified in column 2 to that Table.
 
-## 4. Deposit[^key-a44f3bb093447375ded77c39e55b864d]
+## 4. Deposit[^c-a44f3bb093447375ded77c39e55b864d]
 
-(1) On the making of a bankruptcy application, the debtor must[^key-ea0fb89c36868f2598d19bd3a9f504a9] pay a deposit to the adjudicator as security for the payment of the official receiver’s administration fee.
+(1) On the making of a bankruptcy application, the debtor must[^c-ea0fb89c36868f2598d19bd3a9f504a9] pay a deposit to the adjudicator as security for the payment of the official receiver’s administration fee.
 
 (2) On the presentation of a bankruptcy petition or a winding-up petition, the petitioner must pay a deposit to the court as security for the payment of the official receiver’s administration fee.
 
@@ -101,15 +101,15 @@ The fees payable to the Secretary of State in respect of the matters specified i
 
 that deposit, less an administration fee of £50, must be repaid to the petitioner.
 
-## 5. Value Added Tax[^key-8139cf0bdee239acdd7aa04cf304181b]
+## 5. Value Added Tax[^c-8139cf0bdee239acdd7aa04cf304181b]
 
 Where Value Added Tax is chargeable in respect of the provision of a service for which a fee is payable by virtue of any provision of this Order, Value Added Tax must be paid on that fee.
 
-## 6. Revocation[^key-ddf2248022d0d4d3483ed4ebedc1b32d]
+## 6. Revocation[^c-ddf2248022d0d4d3483ed4ebedc1b32d]
 
 The enactments listed in Schedule 2 are revoked.
 
-## 7. Transitional and saving provisions[^key-fd47c1ec5d11da002ac3f564b139d300]
+## 7. Transitional and saving provisions[^c-fd47c1ec5d11da002ac3f564b139d300]
 
 (1) This Order has no effect in respect of any fees payable in respect of—
 
@@ -138,7 +138,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 29th June 2016
 
-## SCHEDULE 1 — Fees payable in insolvency proceedings[^key-37dd06979860b13b5d2f08b0e90de4bf]
+## SCHEDULE 1 — Fees payable in insolvency proceedings[^c-37dd06979860b13b5d2f08b0e90de4bf]
 
 Article 3
 
@@ -149,17 +149,17 @@ Table of Fees
 | **Individual voluntary arrangement registration fee**<br>On the registration by the Secretary of State of an individual voluntary arrangement made under Part 8 of the Act, the fee of— | £15 |
 | **Application for a debt relief order – official receiver’s administration fee and costs of persons acting as approved intermediaries**<br>On the application for a debt relief order, for the performance of the official receiver’s functions and for the payment of an amount not exceeding £10 in respect of the costs of persons acting as approved intermediaries under Part 7A of the Act, the fee of— | £90 |
 | **Application for a bankruptcy order – adjudicator’s administration fee**<br>On the application to the adjudicator for a bankruptcy order, for the performance of the adjudicator functions, the fee of— | £130 |
-| **Bankruptcy – official receiver’s administration fee following debtor’s application**<br>On the making of a bankruptcy order on a debtor’s application, for the performance of the official receiver’s duties as official receiver the fee of— | £2,390[^key-9198702a06a1fdbb388e6e089bee4568] |
-| **Bankruptcy – official receiver’s administration fee following creditor’s petition**<br>On the making of a bankruptcy order on a creditor’s petition, for the performance of the official receiver’s duties as official receiver the fee of— | £3,300[^key-e1e072290b2435149fde27f885f3e610] |
+| **Bankruptcy – official receiver’s administration fee following debtor’s application**<br>On the making of a bankruptcy order on a debtor’s application, for the performance of the official receiver’s duties as official receiver the fee of— | £2,390[^c-9198702a06a1fdbb388e6e089bee4568] |
+| **Bankruptcy – official receiver’s administration fee following creditor’s petition**<br>On the making of a bankruptcy order on a creditor’s petition, for the performance of the official receiver’s duties as official receiver the fee of— | £3,300[^c-e1e072290b2435149fde27f885f3e610] |
 | **Bankruptcy – trustee in bankruptcy fee**<br>For the performance of the official receiver’s duties while acting as trustee in bankruptcy of the bankrupt’s estate a fee calculated as a percentage of chargeable receipts realised by the official receiver in the capacity of trustee in bankruptcy at the rate of— | 15% |
 | **Bankruptcy – income payments agreement fee**<br>On entering into an income payments agreement with the official receiver under section 310A of the Act, the fee of— | £150 |
 | **Bankruptcy –income payments order fee**<br>On the making of an income payments order by the court under section 310 of the Act, the fee of— | £150 |
-| **Winding up by the court other than a winding up on a petition presented under section 124A – official receiver’s administration fee**<br>On the making of a winding-up order, other than on a petition presented under section 124A, for the performance of the official receiver’s duties as official receiver, including the duty to investigate and report on the affairs of bodies in liquidation, the fee of— | £6,000[^key-eba45406ecd486d84ec7f38f487d9c19] |
-| **Winding up by the court on a petition presented under section 124A – official receiver’s administration fee**<br>On the making of a winding-up order on a petition presented under section 124A, for the performance of the official receiver’s duties as official receiver, including the duty to investigate and report on the affairs of bodies in liquidation, the fee of— | £13,500[^key-ecc3e4dfba634317dbb437865d5ea4b6] |
+| **Winding up by the court other than a winding up on a petition presented under section 124A – official receiver’s administration fee**<br>On the making of a winding-up order, other than on a petition presented under section 124A, for the performance of the official receiver’s duties as official receiver, including the duty to investigate and report on the affairs of bodies in liquidation, the fee of— | £6,000[^c-eba45406ecd486d84ec7f38f487d9c19] |
+| **Winding up by the court on a petition presented under section 124A – official receiver’s administration fee**<br>On the making of a winding-up order on a petition presented under section 124A, for the performance of the official receiver’s duties as official receiver, including the duty to investigate and report on the affairs of bodies in liquidation, the fee of— | £13,500[^c-ecc3e4dfba634317dbb437865d5ea4b6] |
 | **Winding up – liquidator fee**<br>For the performance of the official receiver’s duties while acting as liquidator of the insolvent estate a fee calculated as a percentage of chargeable receipts realised by the official receiver in the capacity of liquidator at the rate of— | 15% |
-| **Official receiver’s general fee**<br>On the making of a bankruptcy order or the making of a winding up order by the court for the costs not recovered out of the official receiver’s administration fee of administering—<br>- (a) bankruptcy orders,<br>- (b) winding up orders made by the court<br>the fee of— | £7,200[^key-7c3bda6734dcd344f32e5993a6672ae6] |
+| **Official receiver’s general fee**<br>On the making of a bankruptcy order or the making of a winding up order by the court for the costs not recovered out of the official receiver’s administration fee of administering—<br>- (a) bankruptcy orders,<br>- (b) winding up orders made by the court<br>the fee of— | £7,200[^c-7c3bda6734dcd344f32e5993a6672ae6] |
 
-## SCHEDULE 2 — Revocations[^key-62871eb91dbe28b7fadef2e409590fd0]
+## SCHEDULE 2 — Revocations[^c-62871eb91dbe28b7fadef2e409590fd0]
 
 Article 6
 
@@ -201,42 +201,42 @@ A full impact assessment of the effect that the instrument will have on the cost
 
 [^f00001]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-79473b88615078dee11b022facb921b6]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
+[^c-79473b88615078dee11b022facb921b6]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
 
-[^key-9dd0de62f2fdf75a4281453b0bb30b22]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2016/692/article/2) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
+[^c-9dd0de62f2fdf75a4281453b0bb30b22]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2016/692/article/2) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
 
 [^f00002]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-33ea347241e9ddb50bc094e6fa994b1c]: Textual amendment: Sum in [art. 2](https://www.legislation.gov.uk/uksi/2016/692/article/2) substituted (1.11.2022) by [The Insolvency Proceedings (Fees) (Amendment) Order 2022 (S.I. 2022/929)](https://www.legislation.gov.uk/uksi/2022/929), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/929/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2022/929/article/2/a)
+[^c-33ea347241e9ddb50bc094e6fa994b1c]: Textual amendment: Sum in [art. 2](https://www.legislation.gov.uk/uksi/2016/692/article/2) substituted (1.11.2022) by [The Insolvency Proceedings (Fees) (Amendment) Order 2022 (S.I. 2022/929)](https://www.legislation.gov.uk/uksi/2022/929), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/929/article/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2022/929/article/2/a)
 
 [^f00003]: Footnote: Section 124A was inserted by sections 60(3) of the Companies Act [1989 (c.40)](https://www.legislation.gov.uk/ukpga/1989/40).
 
-[^key-75b8181db849f9ea9b6b783c14213b36]: Textual amendment: Sum in [art. 2](https://www.legislation.gov.uk/uksi/2016/692/article/2) substituted (1.11.2022) by [The Insolvency Proceedings (Fees) (Amendment) Order 2022 (S.I. 2022/929)](https://www.legislation.gov.uk/uksi/2022/929), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/929/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2022/929/article/2/b)
+[^c-75b8181db849f9ea9b6b783c14213b36]: Textual amendment: Sum in [art. 2](https://www.legislation.gov.uk/uksi/2016/692/article/2) substituted (1.11.2022) by [The Insolvency Proceedings (Fees) (Amendment) Order 2022 (S.I. 2022/929)](https://www.legislation.gov.uk/uksi/2022/929), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/929/article/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2022/929/article/2/b)
 
-[^key-df01c1f8b16bcb188da879b647dc681b]: Textual amendment: Sum in art. 2 substituted (9.1.2025) by [The Insolvency Proceedings (Fees) (Amendment) Order 2024 (S.I. 2024/963)](https://www.legislation.gov.uk/uksi/2024/963), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/963/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/963/article/2/2)
+[^c-df01c1f8b16bcb188da879b647dc681b]: Textual amendment: Sum in art. 2 substituted (9.1.2025) by [The Insolvency Proceedings (Fees) (Amendment) Order 2024 (S.I. 2024/963)](https://www.legislation.gov.uk/uksi/2024/963), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/963/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/963/article/2/2)
 
-[^key-79629befcb6c76ad0ada5f5cd986b52c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2016/692/article/3) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
+[^c-79629befcb6c76ad0ada5f5cd986b52c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2016/692/article/3) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
 
-[^key-a44f3bb093447375ded77c39e55b864d]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2016/692/article/4) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
+[^c-a44f3bb093447375ded77c39e55b864d]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2016/692/article/4) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
 
-[^key-ea0fb89c36868f2598d19bd3a9f504a9]: Textual amendment: Word in [art. 4(1)-(9)](https://www.legislation.gov.uk/uksi/2016/692/article/4/1) substituted (1.11.2022) by [The Insolvency Proceedings (Fees) (Amendment) Order 2022 (S.I. 2022/929)](https://www.legislation.gov.uk/uksi/2022/929), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/929/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2022/929/article/2/c)
+[^c-ea0fb89c36868f2598d19bd3a9f504a9]: Textual amendment: Word in [art. 4(1)-(9)](https://www.legislation.gov.uk/uksi/2016/692/article/4/1) substituted (1.11.2022) by [The Insolvency Proceedings (Fees) (Amendment) Order 2022 (S.I. 2022/929)](https://www.legislation.gov.uk/uksi/2022/929), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/929/article/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2022/929/article/2/c)
 
-[^key-8139cf0bdee239acdd7aa04cf304181b]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2016/692/article/5) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
+[^c-8139cf0bdee239acdd7aa04cf304181b]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2016/692/article/5) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
 
-[^key-ddf2248022d0d4d3483ed4ebedc1b32d]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2016/692/article/6) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
+[^c-ddf2248022d0d4d3483ed4ebedc1b32d]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2016/692/article/6) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
 
-[^key-fd47c1ec5d11da002ac3f564b139d300]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2016/692/article/7) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
+[^c-fd47c1ec5d11da002ac3f564b139d300]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2016/692/article/7) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
 
-[^key-37dd06979860b13b5d2f08b0e90de4bf]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2016/692/schedule/1) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
+[^c-37dd06979860b13b5d2f08b0e90de4bf]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2016/692/schedule/1) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
 
-[^key-9198702a06a1fdbb388e6e089bee4568]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2016/692/schedule/1) Table substituted (9.1.2025) by [The Insolvency Proceedings (Fees) (Amendment) Order 2024 (S.I. 2024/963)](https://www.legislation.gov.uk/uksi/2024/963), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/963/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/963/article/3/a)
+[^c-9198702a06a1fdbb388e6e089bee4568]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2016/692/schedule/1) Table substituted (9.1.2025) by [The Insolvency Proceedings (Fees) (Amendment) Order 2024 (S.I. 2024/963)](https://www.legislation.gov.uk/uksi/2024/963), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/963/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/963/article/3/a)
 
-[^key-e1e072290b2435149fde27f885f3e610]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2016/692/schedule/1) Table substituted (9.1.2025) by [The Insolvency Proceedings (Fees) (Amendment) Order 2024 (S.I. 2024/963)](https://www.legislation.gov.uk/uksi/2024/963), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/963/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/963/article/3/b)
+[^c-e1e072290b2435149fde27f885f3e610]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2016/692/schedule/1) Table substituted (9.1.2025) by [The Insolvency Proceedings (Fees) (Amendment) Order 2024 (S.I. 2024/963)](https://www.legislation.gov.uk/uksi/2024/963), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/963/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/963/article/3/b)
 
-[^key-eba45406ecd486d84ec7f38f487d9c19]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2016/692/schedule/1) Table substituted (9.1.2025) by [The Insolvency Proceedings (Fees) (Amendment) Order 2024 (S.I. 2024/963)](https://www.legislation.gov.uk/uksi/2024/963), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/963/article/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2024/963/article/3/c)
+[^c-eba45406ecd486d84ec7f38f487d9c19]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2016/692/schedule/1) Table substituted (9.1.2025) by [The Insolvency Proceedings (Fees) (Amendment) Order 2024 (S.I. 2024/963)](https://www.legislation.gov.uk/uksi/2024/963), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/963/article/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2024/963/article/3/c)
 
-[^key-ecc3e4dfba634317dbb437865d5ea4b6]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2016/692/schedule/1) Table substituted (9.1.2025) by [The Insolvency Proceedings (Fees) (Amendment) Order 2024 (S.I. 2024/963)](https://www.legislation.gov.uk/uksi/2024/963), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/963/article/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2024/963/article/3/d)
+[^c-ecc3e4dfba634317dbb437865d5ea4b6]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2016/692/schedule/1) Table substituted (9.1.2025) by [The Insolvency Proceedings (Fees) (Amendment) Order 2024 (S.I. 2024/963)](https://www.legislation.gov.uk/uksi/2024/963), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/963/article/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2024/963/article/3/d)
 
-[^key-7c3bda6734dcd344f32e5993a6672ae6]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2016/692/schedule/1) Table substituted (9.1.2025) by [The Insolvency Proceedings (Fees) (Amendment) Order 2024 (S.I. 2024/963)](https://www.legislation.gov.uk/uksi/2024/963), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/963/article/1/1), [3(e)](https://www.legislation.gov.uk/uksi/2024/963/article/3/e)
+[^c-7c3bda6734dcd344f32e5993a6672ae6]: Textual amendment: Sum in [Sch. 1](https://www.legislation.gov.uk/uksi/2016/692/schedule/1) Table substituted (9.1.2025) by [The Insolvency Proceedings (Fees) (Amendment) Order 2024 (S.I. 2024/963)](https://www.legislation.gov.uk/uksi/2024/963), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/963/article/1/1), [3(e)](https://www.legislation.gov.uk/uksi/2024/963/article/3/e)
 
-[^key-62871eb91dbe28b7fadef2e409590fd0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2016/692/schedule/2) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)
+[^c-62871eb91dbe28b7fadef2e409590fd0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2016/692/schedule/2) in force at 21.7.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/692/article/1)

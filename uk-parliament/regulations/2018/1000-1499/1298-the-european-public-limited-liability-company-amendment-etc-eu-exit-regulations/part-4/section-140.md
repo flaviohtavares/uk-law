@@ -25,7 +25,7 @@ In regulations 141 to 145—
 - “**the 2004 Regulations**” means the European Public Limited-Liability Company Regulations 2004 [^c23529091];
 - “**the 2006 Act**” means the Companies Act 2006 [^c23529101];
 - “**the EC Regulation**” means Council Regulation 2157/2001/EC of 8 October 2001 on the Statute for a European Company;
-- “**SE**” means a European Public Limited-Liability Company (or Societas Europaea) within the meaning of the EC Regulation, as it had effect immediately before IP completion day[^key-1ee960bd2e90ca7fce97bb3daf76f570], that was registered in the United Kingdom;
+- “**SE**” means a European Public Limited-Liability Company (or Societas Europaea) within the meaning of the EC Regulation, as it had effect immediately before IP completion day[^c-1ee960bd2e90ca7fce97bb3daf76f570], that was registered in the United Kingdom;
 - “**UK Societas**” means a SE which on IP completion day converted to a UK Societas within the meaning of the EC Regulation.
 
 ## Annotations
@@ -36,4 +36,4 @@ In regulations 141 to 145—
 
 [^c23529101]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-1ee960bd2e90ca7fce97bb3daf76f570]: Textual amendment: Words in reg. 140 substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)
+[^c-1ee960bd2e90ca7fce97bb3daf76f570]: Textual amendment: Words in reg. 140 substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Starting points for murder committed when under 18[^key-26485d455d6ffbf6f5d803ec12bc8b70]
+## 127. Starting points for murder committed when under 18[^c-26485d455d6ffbf6f5d803ec12bc8b70]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ In Schedule 21 to the Sentencing Code (minimum terms in mandatory life sentences
 
 ## Annotations
 
-[^key-26485d455d6ffbf6f5d803ec12bc8b70]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2022/32/section/127) in force at 28.6.2022, see [s. 208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)
+[^c-26485d455d6ffbf6f5d803ec12bc8b70]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2022/32/section/127) in force at 28.6.2022, see [s. 208(5)(l)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/l)

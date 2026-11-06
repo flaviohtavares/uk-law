@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Judges’ expenses and reception[^key-afeae5e331c38f8e25ef8fb11121871c]
+## 92. Judges’ expenses and reception[^c-afeae5e331c38f8e25ef8fb11121871c]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In relation to the trial of a Senedd election petition the following expenses ar
 
 ## Annotations
 
-[^key-afeae5e331c38f8e25ef8fb11121871c]: Commencement: Art. 92 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-afeae5e331c38f8e25ef8fb11121871c]: Commencement: Art. 92 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

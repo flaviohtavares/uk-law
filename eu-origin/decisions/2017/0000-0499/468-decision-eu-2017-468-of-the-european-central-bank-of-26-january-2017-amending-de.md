@@ -33,20 +33,20 @@ of 26 January 2017
 
 amending Decision ECB/2010/10 on non-compliance with statistical reporting requirements (ECB/2017/5) (revoked)
 
-[^key-6136f81d185050e1dbacf60057e0cba3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6136f81d185050e1dbacf60057e0cba3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments[^key-6136f81d185050e1dbacf60057e0cba3]
+## Article 1. Amendments[^c-6136f81d185050e1dbacf60057e0cba3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force[^key-6136f81d185050e1dbacf60057e0cba3]
+## Article 2. Entry into force[^c-6136f81d185050e1dbacf60057e0cba3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6136f81d185050e1dbacf60057e0cba3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6136f81d185050e1dbacf60057e0cba3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6136f81d185050e1dbacf60057e0cba3]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 93](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/93)
+[^c-6136f81d185050e1dbacf60057e0cba3]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 93](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/93)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Responsible medical officer’s duty where extension and variation of order appear appropriate[^key-38a0958d33101da2af55c28749de0eaa]
+## 88. Responsible medical officer’s duty where extension and variation of order appear appropriate[^c-38a0958d33101da2af55c28749de0eaa]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ the responsible medical officer shall comply with the requirement in subsection 
 
 ## Annotations
 
-[^key-38a0958d33101da2af55c28749de0eaa]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2003/13/section/88) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-38a0958d33101da2af55c28749de0eaa]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2003/13/section/88) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

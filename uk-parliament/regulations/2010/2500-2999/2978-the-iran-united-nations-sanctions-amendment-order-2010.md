@@ -32,7 +32,7 @@ summary: ''
 
 United Nations
 
-The Iran (United Nations Sanctions) (Amendment) Order 2010 (revoked)[^key-2849e1fb3254d94a982edbb66121192a]
+The Iran (United Nations Sanctions) (Amendment) Order 2010 (revoked)[^c-2849e1fb3254d94a982edbb66121192a]
 
 Made
 
@@ -46,51 +46,51 @@ Coming into force
 
 17th December 2010
 
-[^key-2849e1fb3254d94a982edbb66121192a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2849e1fb3254d94a982edbb66121192a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2849e1fb3254d94a982edbb66121192a]
+## 1. Citation and commencement[^c-2849e1fb3254d94a982edbb66121192a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Order[^key-2849e1fb3254d94a982edbb66121192a]
+## 2. Amendment of the principal Order[^c-2849e1fb3254d94a982edbb66121192a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-2849e1fb3254d94a982edbb66121192a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2849e1fb3254d94a982edbb66121192a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2849e1fb3254d94a982edbb66121192a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -98,4 +98,4 @@ Coming into force
 
 ## Annotations
 
-[^key-2849e1fb3254d94a982edbb66121192a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2978) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/c); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-2849e1fb3254d94a982edbb66121192a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2978) revoked (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2020/591/regulation/8/c); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

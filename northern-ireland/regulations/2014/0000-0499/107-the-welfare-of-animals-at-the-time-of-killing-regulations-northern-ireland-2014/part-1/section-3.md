@@ -30,7 +30,7 @@ summary: ''
 - “**EU Regulation**” means Council Regulation [(EC) No 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) of 24 September 2009 on the protection of animals at the time of killing [^c22089241];
 - “**evidence of training and examination**” means—
   - (a) a certificate granted by a body, recognised and regulated by the Office of Qualifications and Examinations Regulation (Ofqual) [^c22089251] which oversees the training and assessment of persons carrying out the killing of animals and related operations, confirming the passing of an independent examination as provided for in Article 21;
-  - (aa) a document attesting the passing of an independent final examination issued by—[^key-98dcb9e8f246231abfac31994b6300b2]
+  - (aa) a document attesting the passing of an independent final examination issued by—[^c-98dcb9e8f246231abfac31994b6300b2]
     - (i) a body designated by the Republic of Ireland as responsible for delivering certificates in accordance with Article 21(1) of the EU Regulation as it has effect in EU law as amended from time to time, or
     - (ii) a body to whom the function of the final examination or the issuing of certificates has been delegated in the Republic of Ireland in accordance with Article 21(2) of the EU Regulation as it has effect in EU law as amended from time to time;
   - (ab) a certificate issued in the Republic of Ireland in reliance on Article 29(2) of the EU Regulation as it has effect in EU law;
@@ -66,7 +66,7 @@ summary: ''
 
 [^c22089251]: Marginal citation: Ofqual, a non-ministerial Government Deptartment, was established by section 127 of the [Apprenticeships, Skills, Children and Learning Act 2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22). The matters in relation to which Ofqual has functions are set out in part 7 of that Act and include the regulation of vocational qualifications in Northern Ireland.
 
-[^key-98dcb9e8f246231abfac31994b6300b2]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2014/107/regulation/3/1) inserted (31.12.2020) by [The Welfare of Animals at the Time of Killing (England and Northern Ireland) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1308)](https://www.legislation.gov.uk/uksi/2019/1308), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1308/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1308/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-98dcb9e8f246231abfac31994b6300b2]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2014/107/regulation/3/1) inserted (31.12.2020) by [The Welfare of Animals at the Time of Killing (England and Northern Ireland) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1308)](https://www.legislation.gov.uk/uksi/2019/1308), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1308/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1308/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22089261]: Marginal citation: RCVS was established by Royal Charter in 1844 and is responsible for the registration of veterinary surgeons and the regulation of their education, ethical and clinical standards.
 

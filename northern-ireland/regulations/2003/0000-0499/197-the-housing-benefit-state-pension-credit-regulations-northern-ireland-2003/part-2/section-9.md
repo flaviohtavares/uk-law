@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Provisions which do not apply[^key-189b829d97fd03565368b6f2dbb61037]
+## 9. Provisions which do not apply[^c-189b829d97fd03565368b6f2dbb61037]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ The following provisions of the Housing Benefit Regulations shall not apply to a
 
 ## Annotations
 
-[^key-189b829d97fd03565368b6f2dbb61037]: Commencement: Reg. 9 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-189b829d97fd03565368b6f2dbb61037]: Commencement: Reg. 9 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)

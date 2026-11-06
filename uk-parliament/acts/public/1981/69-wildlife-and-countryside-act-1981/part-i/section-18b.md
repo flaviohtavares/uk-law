@@ -34,7 +34,7 @@ summary: ''
 
 (3) Nothing in this section confers power to enter a dwelling.
 
-## 18B. Liability where securing services through another[^M_E_0cff848d-a089-4360-85f3-8fc57d4c32fa][^key-3b6d6498d1645cdcada1ea66464ae39f]
+## 18B. Liability where securing services through another[^M_E_0cff848d-a089-4360-85f3-8fc57d4c32fa][^c-3b6d6498d1645cdcada1ea66464ae39f]
 
 *Extent: S*
 
@@ -78,4 +78,4 @@ summary: ''
 
 [^M_E_0cff848d-a089-4360-85f3-8fc57d4c32fa]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-3b6d6498d1645cdcada1ea66464ae39f]: Textual amendment: Ss. 18A, 18B inserted (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 24](https://www.legislation.gov.uk/asp/2011/6/section/24), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/e)
+[^c-3b6d6498d1645cdcada1ea66464ae39f]: Textual amendment: Ss. 18A, 18B inserted (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 24](https://www.legislation.gov.uk/asp/2011/6/section/24), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/e)

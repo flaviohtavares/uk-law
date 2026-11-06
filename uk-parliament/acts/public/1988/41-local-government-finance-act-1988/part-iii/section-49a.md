@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49A. Cancellation of backdated liabilities for days in years 2005 to 2010[^key-e52ed9fe929afe68ab26f7ccc2be0f51]
+## 49A. Cancellation of backdated liabilities for days in years 2005 to 2010[^c-e52ed9fe929afe68ab26f7ccc2be0f51]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e52ed9fe929afe68ab26f7ccc2be0f51]: Textual amendment: S. 49A inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 71](https://www.legislation.gov.uk/ukpga/2011/20/section/71), [240(1)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/f)
+[^c-e52ed9fe929afe68ab26f7ccc2be0f51]: Textual amendment: S. 49A inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 71](https://www.legislation.gov.uk/ukpga/2011/20/section/71), [240(1)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/f)

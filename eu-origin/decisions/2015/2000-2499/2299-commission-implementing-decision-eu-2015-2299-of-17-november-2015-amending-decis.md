@@ -37,18 +37,18 @@ amending Decision 2009/965/EC as regards an updated list of parameters to be use
 
 (Text with EEA relevance) (revoked)
 
-[^key-2075dd1107c36fd40eff45fceb4f9f84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2075dd1107c36fd40eff45fceb4f9f84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-2075dd1107c36fd40eff45fceb4f9f84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2075dd1107c36fd40eff45fceb4f9f84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2075dd1107c36fd40eff45fceb4f9f84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2075dd1107c36fd40eff45fceb4f9f84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2075dd1107c36fd40eff45fceb4f9f84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2075dd1107c36fd40eff45fceb4f9f84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-2075dd1107c36fd40eff45fceb4f9f84]
+## ANNEX[^c-2075dd1107c36fd40eff45fceb4f9f84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2075dd1107c36fd40eff45fceb4f9f84]: Textual amendment: Decision revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
+[^c-2075dd1107c36fd40eff45fceb4f9f84]: Textual amendment: Decision revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)

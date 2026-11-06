@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Amounts to be disregarded in the calculation of income other than earnings: pensioners[^key-f2e35fb30888494854d4984af136f50a]
+## SCHEDULE 4 — Amounts to be disregarded in the calculation of income other than earnings: pensioners[^c-f2e35fb30888494854d4984af136f50a]
 
 *Extent: E+W*
 
@@ -24,56 +24,56 @@ summary: ''
 
 Regulation 30(2)
 
-**1.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-f2e35fb30888494854d4984af136f50a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f2e35fb30888494854d4984af136f50a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/3144) revoked (1.4.2014) by [The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013 (S.I. 2013/3029)](https://www.legislation.gov.uk/wsi/2013/3029), [reg. 36(1)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/36/1) (with saving in [reg. 36(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/36/2))
+[^c-f2e35fb30888494854d4984af136f50a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/3144) revoked (1.4.2014) by [The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013 (S.I. 2013/3029)](https://www.legislation.gov.uk/wsi/2013/3029), [reg. 36(1)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/36/1) (with saving in [reg. 36(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/36/2))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

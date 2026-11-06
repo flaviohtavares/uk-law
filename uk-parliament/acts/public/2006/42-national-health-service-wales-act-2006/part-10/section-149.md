@@ -41,7 +41,7 @@ summary: ''
 “**relevant disciplinary proceedings**” means disciplinary proceedings conducted in relation to an individual by—
 
 - (a) an NHS body, statutory health body or health service provider, or
-- (b) any of the regulatory bodies mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 (c. 17) (bodies within remit of the Professional Standards Authority for Health and Social Care[^key-4725e824c335555641b49b2010ed7902]).
+- (b) any of the regulatory bodies mentioned in section 25(3) of the National Health Service Reform and Health Care Professions Act 2002 (c. 17) (bodies within remit of the Professional Standards Authority for Health and Social Care[^c-4725e824c335555641b49b2010ed7902]).
 
 (5) Where information to which this section applies is disclosed to any person in accordance with subsection (3), the information must not be used or further disclosed except—
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4725e824c335555641b49b2010ed7902]: Textual amendment: Words in [s. 149(4)](https://www.legislation.gov.uk/ukpga/2006/42/section/149/4) substituted (1.12.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 68(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/68/c); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)
+[^c-4725e824c335555641b49b2010ed7902]: Textual amendment: Words in [s. 149(4)](https://www.legislation.gov.uk/ukpga/2006/42/section/149/4) substituted (1.12.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 68(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/68/c); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/3)

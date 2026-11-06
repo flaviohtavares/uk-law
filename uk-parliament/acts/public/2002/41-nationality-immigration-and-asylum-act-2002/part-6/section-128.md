@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Data collection under Immigration and Asylum Act 1999[^key-2677bea1378dfb4c9433293280267634]
+## 128. Data collection under Immigration and Asylum Act 1999[^c-2677bea1378dfb4c9433293280267634]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2677bea1378dfb4c9433293280267634]: Modification: Ss. 126-128 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Biometric Information) (Jersey) Order 2018 (S.I. 2018/1358)](https://www.legislation.gov.uk/uksi/2018/1358), [art. 3](https://www.legislation.gov.uk/uksi/2018/1358/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/1358/schedule/2)
+[^c-2677bea1378dfb4c9433293280267634]: Modification: Ss. 126-128 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Biometric Information) (Jersey) Order 2018 (S.I. 2018/1358)](https://www.legislation.gov.uk/uksi/2018/1358), [art. 3](https://www.legislation.gov.uk/uksi/2018/1358/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/1358/schedule/2)

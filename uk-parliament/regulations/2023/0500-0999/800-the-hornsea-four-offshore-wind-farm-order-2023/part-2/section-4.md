@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Power to maintain the authorised project[^key-1f1e8a9fb12aced8a64342cbb4a72ea8]
+## 4. Power to maintain the authorised project[^c-1f1e8a9fb12aced8a64342cbb4a72ea8]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f1e8a9fb12aced8a64342cbb4a72ea8]: Commencement: Art. 4 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-1f1e8a9fb12aced8a64342cbb4a72ea8]: Commencement: Art. 4 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)

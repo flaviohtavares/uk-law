@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Duties of Scottish Ministers in relation to the rights of children[^key-7a551fadaf1297acff16059b578652c6]
+## 1. Duties of Scottish Ministers in relation to the rights of children[^c-7a551fadaf1297acff16059b578652c6]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a551fadaf1297acff16059b578652c6]: Textual amendment: Pt. 1 repealed (16.7.2024) by [United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 (asp 1)](https://www.legislation.gov.uk/asp/2024/1), [ss. 22(2)](https://www.legislation.gov.uk/asp/2024/1/section/22/2), [47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-7a551fadaf1297acff16059b578652c6]: Textual amendment: Pt. 1 repealed (16.7.2024) by [United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 (asp 1)](https://www.legislation.gov.uk/asp/2024/1), [ss. 22(2)](https://www.legislation.gov.uk/asp/2024/1/section/22/2), [47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

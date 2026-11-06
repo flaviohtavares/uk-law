@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Offences by bodies corporate, partnerships and unincorporated associations[^key-90e6d01bc4cc45c43b1515afb2a92c85]
+## 40. Offences by bodies corporate, partnerships and unincorporated associations[^c-90e6d01bc4cc45c43b1515afb2a92c85]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ that person, as well as the body corporate, is guilty of the offence.
 
 ## Annotations
 
-[^key-90e6d01bc4cc45c43b1515afb2a92c85]: Commencement: Reg. 40 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-90e6d01bc4cc45c43b1515afb2a92c85]: Commencement: Reg. 40 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

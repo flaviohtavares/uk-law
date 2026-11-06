@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Decisions of meetings[^key-c086d9082831add3358911b194f48460]
+## 16. Decisions of meetings[^c-c086d9082831add3358911b194f48460]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c086d9082831add3358911b194f48460]: Commencement: S. 16 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-c086d9082831add3358911b194f48460]: Commencement: S. 16 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -35,22 +35,22 @@ amending Regulation (EC) No 874/2004 laying down public policy rules concerning 
 
 (Text with EEA relevance) (revoked)
 
-[^key-02c99d46e10c7a95a86bf8602d140a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02c99d46e10c7a95a86bf8602d140a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-02c99d46e10c7a95a86bf8602d140a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-02c99d46e10c7a95a86bf8602d140a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-02c99d46e10c7a95a86bf8602d140a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-02c99d46e10c7a95a86bf8602d140a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02c99d46e10c7a95a86bf8602d140a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02c99d46e10c7a95a86bf8602d140a68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-02c99d46e10c7a95a86bf8602d140a68]
+## ANNEX[^c-02c99d46e10c7a95a86bf8602d140a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-02c99d46e10c7a95a86bf8602d140a68]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2019/919/regulation/7/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-02c99d46e10c7a95a86bf8602d140a68]: Textual amendment: Regulation revoked (31.12.2020) by [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [reg. 7(g)](https://www.legislation.gov.uk/uksi/2019/919/regulation/7/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

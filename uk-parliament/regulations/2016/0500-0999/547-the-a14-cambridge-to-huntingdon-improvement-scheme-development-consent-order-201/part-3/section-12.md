@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Classification of roads, etc.[^key-66011c67ef668686820b15d21a05c55e]
+## 12. Classification of roads, etc.[^c-66011c67ef668686820b15d21a05c55e]
 
 *Extent: E+W*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-66011c67ef668686820b15d21a05c55e]: Commencement: Art. 12 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-66011c67ef668686820b15d21a05c55e]: Commencement: Art. 12 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
 
 [^f00024]: Footnote: [S.I. 1974/1787](https://www.legislation.gov.uk/uksi/1974/1787)
 

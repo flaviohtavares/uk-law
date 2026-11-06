@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Duration of enforcement orders[^key-5b6899c38d660433796058f20c9b62d2][^key-b9d176000b224d2f837d8329d91f4c0a]
+## 33. Duration of enforcement orders[^c-5b6899c38d660433796058f20c9b62d2][^c-b9d176000b224d2f837d8329d91f4c0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b6899c38d660433796058f20c9b62d2]: Commencement: S. 33 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-5b6899c38d660433796058f20c9b62d2]: Commencement: S. 33 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-b9d176000b224d2f837d8329d91f4c0a]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2024/13/section/33) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-b9d176000b224d2f837d8329d91f4c0a]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2024/13/section/33) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

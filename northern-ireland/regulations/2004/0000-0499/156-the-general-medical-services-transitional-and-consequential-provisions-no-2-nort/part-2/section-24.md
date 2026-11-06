@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Reports to a medical officer[^key-7b093fd2982c5299246002d3fd55dfa8]
+## 24. Reports to a medical officer[^c-7b093fd2982c5299246002d3fd55dfa8]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b093fd2982c5299246002d3fd55dfa8]: Commencement: Art. 24 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-7b093fd2982c5299246002d3fd55dfa8]: Commencement: Art. 24 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Transfers without the consent of the Secretary of State[^key-0230a5ebf604d32023e8eb913756a2cd]
+## 76. Transfers without the consent of the Secretary of State[^c-0230a5ebf604d32023e8eb913756a2cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,4 +91,4 @@ After section 5 of the Petroleum Act 1998 (c. 17) (existing licences) insert—
 
 ## Annotations
 
-[^key-0230a5ebf604d32023e8eb913756a2cd]: Commencement: S. 76 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/i)
+[^c-0230a5ebf604d32023e8eb913756a2cd]: Commencement: S. 76 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/i)

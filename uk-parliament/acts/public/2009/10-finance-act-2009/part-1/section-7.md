@@ -27,8 +27,8 @@ summary: ''
 - (a) 28% on profits of companies other than ring fence profits, and
 - (b) 30% on ring fence profits of companies.
 
-(3) In subsection (2) “**ring fence profits**” has the meaning given by section 276 of CTA 2010[^key-be223f64c02dd109286baa9d50bd8653].
+(3) In subsection (2) “**ring fence profits**” has the meaning given by section 276 of CTA 2010[^c-be223f64c02dd109286baa9d50bd8653].
 
 ## Annotations
 
-[^key-be223f64c02dd109286baa9d50bd8653]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/7/3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 707](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/707) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-be223f64c02dd109286baa9d50bd8653]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/7/3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 707](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/707) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

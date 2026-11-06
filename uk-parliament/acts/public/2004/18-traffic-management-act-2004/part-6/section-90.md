@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Application to Crown and visiting forces[^key-b20f4c70fd8428a66132700ad6b842ad][^key-366152b76fa833db9443f5665cde5238]
+## 90. Application to Crown and visiting forces[^c-b20f4c70fd8428a66132700ad6b842ad][^c-366152b76fa833db9443f5665cde5238]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b20f4c70fd8428a66132700ad6b842ad]: Commencement: S. 90 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
+[^c-b20f4c70fd8428a66132700ad6b842ad]: Commencement: S. 90 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
 
-[^key-366152b76fa833db9443f5665cde5238]: Commencement: S. 90 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(f)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-366152b76fa833db9443f5665cde5238]: Commencement: S. 90 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(f)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)

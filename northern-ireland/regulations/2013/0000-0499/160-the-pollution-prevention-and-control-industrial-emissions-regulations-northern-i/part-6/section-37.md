@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Enforcement by the High Court[^key-58803a788dc847bfae28d659436350bd]
+## 37. Enforcement by the High Court[^c-58803a788dc847bfae28d659436350bd]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ If the enforcing authority is of the opinion that proceedings for an offence und
 
 ## Annotations
 
-[^key-58803a788dc847bfae28d659436350bd]: Commencement: Reg. 37 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-58803a788dc847bfae28d659436350bd]: Commencement: Reg. 37 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

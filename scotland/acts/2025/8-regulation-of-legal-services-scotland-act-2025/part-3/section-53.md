@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Commission process relating to complaints[^key-b6b3157a51b44fa42a2acaeb2794c1ad]
+## 53. Commission process relating to complaints[^c-b6b3157a51b44fa42a2acaeb2794c1ad]
 
 *Extent: S*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6b3157a51b44fa42a2acaeb2794c1ad]: Commencement: S. 53 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-b6b3157a51b44fa42a2acaeb2794c1ad]: Commencement: S. 53 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

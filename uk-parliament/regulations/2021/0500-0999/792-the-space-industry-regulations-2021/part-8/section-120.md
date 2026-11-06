@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Prohibiting the launch vehicle carrying a spaceflight participant[^key-5e3d5a9b842dd0f6edc15d53e53f9593]
+## 120. Prohibiting the launch vehicle carrying a spaceflight participant[^c-5e3d5a9b842dd0f6edc15d53e53f9593]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A spaceflight operator must not carry a spaceflight participant in a launch vehi
 
 ## Annotations
 
-[^key-5e3d5a9b842dd0f6edc15d53e53f9593]: Commencement: Reg. 120 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-5e3d5a9b842dd0f6edc15d53e53f9593]: Commencement: Reg. 120 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

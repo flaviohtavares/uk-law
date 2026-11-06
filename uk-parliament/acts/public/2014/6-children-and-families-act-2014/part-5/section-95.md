@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Smoking in a private vehicle[^key-9d7c1661eee800807c640aa517b1ea54][^key-ec04ce12f19d07d5a5441b87b0b4e15b]
+## 95. Smoking in a private vehicle[^c-9d7c1661eee800807c640aa517b1ea54][^c-ec04ce12f19d07d5a5441b87b0b4e15b]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d7c1661eee800807c640aa517b1ea54]: Commencement: S. 95 in force at 1.10.2014 for specified purposes by [S.I. 2014/2609](https://www.legislation.gov.uk/uksi/2014/2609), [art. 2](https://www.legislation.gov.uk/uksi/2014/2609/article/2)
+[^c-9d7c1661eee800807c640aa517b1ea54]: Commencement: S. 95 in force at 1.10.2014 for specified purposes by [S.I. 2014/2609](https://www.legislation.gov.uk/uksi/2014/2609), [art. 2](https://www.legislation.gov.uk/uksi/2014/2609/article/2)
 
-[^key-ec04ce12f19d07d5a5441b87b0b4e15b]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2014/6/section/95) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 3](https://www.legislation.gov.uk/uksi/2015/375/article/3)
+[^c-ec04ce12f19d07d5a5441b87b0b4e15b]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2014/6/section/95) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 3](https://www.legislation.gov.uk/uksi/2015/375/article/3)

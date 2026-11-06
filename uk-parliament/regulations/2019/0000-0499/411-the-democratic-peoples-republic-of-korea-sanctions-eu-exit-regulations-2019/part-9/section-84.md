@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Trade: exceptions from prohibitions[^key-dfd12f45d8df5308a45d155946176e42][^key-a527d0bb0f7a5ea373f55fe34a513d1c]
+## 84. Trade: exceptions from prohibitions[^c-dfd12f45d8df5308a45d155946176e42][^c-a527d0bb0f7a5ea373f55fe34a513d1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dfd12f45d8df5308a45d155946176e42]: Commencement: Reg. 84 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-dfd12f45d8df5308a45d155946176e42]: Commencement: Reg. 84 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-a527d0bb0f7a5ea373f55fe34a513d1c]: Commencement: Reg. 84 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a527d0bb0f7a5ea373f55fe34a513d1c]: Commencement: Reg. 84 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The independent monitoring board[^key-c76b653b6d2e2644c3acb76eb137dd9f] for a young offender institution shall, in accordance with paragraphs (2) and (3), from time to time make a report to the Secretary of State concerning the state of the institution and its administration, including in it any advice and suggestions they consider appropriate.
+(1) The independent monitoring board[^c-c76b653b6d2e2644c3acb76eb137dd9f] for a young offender institution shall, in accordance with paragraphs (2) and (3), from time to time make a report to the Secretary of State concerning the state of the institution and its administration, including in it any advice and suggestions they consider appropriate.
 
 (2) The board shall comply with any directions given to them from time to time by the Secretary of State as to the following matters—
 
@@ -34,4 +34,4 @@ either in respect of a particular report or generally; provided that no directio
 
 ## Annotations
 
-[^key-c76b653b6d2e2644c3acb76eb137dd9f]: Textual amendment: Words in [rule 84(1)](https://www.legislation.gov.uk/uksi/2000/3371/rule/84/1) substituted (1.4.2008) by [The Young Offender Institution (Amendment) Rules 2008 (S.I. 2008/599)](https://www.legislation.gov.uk/uksi/2008/599), [rules 1](https://www.legislation.gov.uk/uksi/2008/599/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/599/rule/4/a)
+[^c-c76b653b6d2e2644c3acb76eb137dd9f]: Textual amendment: Words in [rule 84(1)](https://www.legislation.gov.uk/uksi/2000/3371/rule/84/1) substituted (1.4.2008) by [The Young Offender Institution (Amendment) Rules 2008 (S.I. 2008/599)](https://www.legislation.gov.uk/uksi/2008/599), [rules 1](https://www.legislation.gov.uk/uksi/2008/599/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/599/rule/4/a)

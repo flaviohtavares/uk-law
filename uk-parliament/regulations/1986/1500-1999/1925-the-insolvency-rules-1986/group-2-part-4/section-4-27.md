@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.27. Deposit[^key-ab1e2d82bb778a0826017c636164e7dd]
+## 4.27. Deposit[^c-ab1e2d82bb778a0826017c636164e7dd]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab1e2d82bb778a0826017c636164e7dd]: Commencement: [Rule 4.27](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.27) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ab1e2d82bb778a0826017c636164e7dd]: Commencement: [Rule 4.27](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.27) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

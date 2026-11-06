@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32M. Appeals relating to a Part 1A site licence[^key-01d1f589af7fdee2837293baa687dbae]
+## 32M. Appeals relating to a Part 1A site licence[^c-01d1f589af7fdee2837293baa687dbae]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01d1f589af7fdee2837293baa687dbae]: Textual amendment: S. 32M inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 69](https://www.legislation.gov.uk/asp/2014/14/section/69), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-01d1f589af7fdee2837293baa687dbae]: Textual amendment: S. 32M inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 69](https://www.legislation.gov.uk/asp/2014/14/section/69), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

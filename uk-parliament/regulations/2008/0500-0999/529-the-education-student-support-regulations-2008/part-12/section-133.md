@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Students becoming eligible during the course of the academic year[^key-44cb677e7a891e0b07a2462e4dcb1e99]
+## 133. Students becoming eligible during the course of the academic year[^c-44cb677e7a891e0b07a2462e4dcb1e99]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44cb677e7a891e0b07a2462e4dcb1e99]: Commencement: Reg. 133 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-44cb677e7a891e0b07a2462e4dcb1e99]: Commencement: Reg. 133 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**49A.**[^key-4f6c55a077c91e8a89d6423227442ada] After regulation 51 insert—
+**49A.**[^c-4f6c55a077c91e8a89d6423227442ada] After regulation 51 insert—
 
 > **51A. Alternative proof of the end of a movement of excise goods under duty suspension arrangement**
 >
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f6c55a077c91e8a89d6423227442ada]: Textual amendment: Regs. 49, 49A substituted for reg. 49 (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/30)
+[^c-4f6c55a077c91e8a89d6423227442ada]: Textual amendment: Regs. 49, 49A substituted for reg. 49 (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/30)

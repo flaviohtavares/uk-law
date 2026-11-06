@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Provision of advice and assistance on security matters[^key-4815c32c1f8deff5ad9664c19499df38]
+## 25. Provision of advice and assistance on security matters[^c-4815c32c1f8deff5ad9664c19499df38]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ provide advice or assistance, to the person making the request, about any matter
 
 ## Annotations
 
-[^key-4815c32c1f8deff5ad9664c19499df38]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2018/5/section/25) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 44](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/44) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-4815c32c1f8deff5ad9664c19499df38]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2018/5/section/25) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 44](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/44) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63C. Arranging administration by authorised person[^key-1fcfd710c51963e005973d70ac0f1ddc]
+## 63C. Arranging administration by authorised person[^c-1fcfd710c51963e005973d70ac0f1ddc]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person who is not an authorised person does not carry on an activity of the ki
 
 ## Annotations
 
-[^key-1fcfd710c51963e005973d70ac0f1ddc]: Textual amendment: Pt. 2 Chs. 15A, 15B inserted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [18](https://www.legislation.gov.uk/uksi/2006/2383/article/18)
+[^c-1fcfd710c51963e005973d70ac0f1ddc]: Textual amendment: Pt. 2 Chs. 15A, 15B inserted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [18](https://www.legislation.gov.uk/uksi/2006/2383/article/18)

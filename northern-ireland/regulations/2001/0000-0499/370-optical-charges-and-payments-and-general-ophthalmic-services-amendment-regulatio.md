@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001], in exercise of the powers conferred on it by Articles 62, 98, 106, and 107(6) of, and Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002] and of all other powers enabling it in that behalf, with the approval of the Department of Finance and Personnel, and after consultation with such organisations as appeared to the Department to be representative of medical practitioners practising as ophthalmic medical practitioners, and ophthalmic opticians, as required by Article 62(3) of the said Order, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-f943f1dc26e35c73110a56610119e1ba]
+## 1. Citation, commencement and interpretation[^c-f943f1dc26e35c73110a56610119e1ba]
 
 (1) These Regulations may be cited as the Optical Charges and Payments and General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2001 and shall come into operation on 12th November 2001.
 
@@ -50,11 +50,11 @@ The Department of Health, Social Services and Public Safety[^f00001], in exercis
 - (a) “the 1997 Regulations” means the Health and Personal Social Services (Optical Charges and Payments) Regulations (Northern Ireland) 1997[^f00003];
 - (b) “the 1986 Regulations” means the General Ophthalmic Services Regulations (Northern Ireland) 1986[^f00004].
 
-## 2. Amendment of the 1997 Regulations[^key-dfb2b084861ba800c676395096a06400]
+## 2. Amendment of the 1997 Regulations[^c-dfb2b084861ba800c676395096a06400]
 
 In Regulation 1(2) of the 1997 Regulations (interpretation), in the definition of “health service sight test fee”, for the amount of “£42·79” substitute “£42·85” and for the amount “£15·46” substitute “£15·52”.
 
-**3.**[^key-37b0497245cc3aea434dc08e97ac2dbb] (1) Regulation 12 of the 1997 Regulations (use of vouchers for supply of optical appliances) shall be amended in accordance with the following provisions.
+**3.**[^c-37b0497245cc3aea434dc08e97ac2dbb] (1) Regulation 12 of the 1997 Regulations (use of vouchers for supply of optical appliances) shall be amended in accordance with the following provisions.
 
 (2) In paragraph (1) for “paragraphs (4) and (5)” substitute “paragraphs (4), (5) and (6),”.
 
@@ -67,13 +67,13 @@ In Regulation 1(2) of the 1997 Regulations (interpretation), in the definition o
 
 .
 
-**4.**[^key-2e69904e7be677040e6e461e762b20ad] At the end of regulation 13 of the 1997 Regulations (payments to suppliers), add—
+**4.**[^c-2e69904e7be677040e6e461e762b20ad] At the end of regulation 13 of the 1997 Regulations (payments to suppliers), add—
 
 > (3) The Agency shall also make a payment, to be determined by the Department, to the supplier to meet or contribute to the cost incurred by the supplier in complying with regulation 12(6).
 
 .
 
-**5.**[^key-80ac899131e5f81b94ffaf282341f021] In Regulation 16 of the 1997 Regulations (completion of vouchers), for paragraphs (2) and (3) substitute—
+**5.**[^c-80ac899131e5f81b94ffaf282341f021] In Regulation 16 of the 1997 Regulations (completion of vouchers), for paragraphs (2) and (3) substitute—
 
 > (2) In the case of a replacement, the supplier shall—
 >
@@ -98,23 +98,23 @@ In Regulation 1(2) of the 1997 Regulations (interpretation), in the definition o
 
 .
 
-**6.**[^key-3e58678353a2db5f56e132d0d59ac24f] At the end of regulation 18 of the 1997 Regulations (payments to suppliers for replacement or repair), add—
+**6.**[^c-3e58678353a2db5f56e132d0d59ac24f] At the end of regulation 18 of the 1997 Regulations (payments to suppliers for replacement or repair), add—
 
 > (3) The Agency shall also make a payment, to be determined by the Department, to the supplier to meet or contribute to the cost incurred by the supplier in order to comply with regulation 16(2) or (3)
 
 .
 
-## 7. Amendment of 1986 Regulations[^key-e1bc500162a104db93604e7f01d3cf8a]
+## 7. Amendment of 1986 Regulations[^c-e1bc500162a104db93604e7f01d3cf8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7c8a52efade6f1d37cbcad196063b570] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7c8a52efade6f1d37cbcad196063b570] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e1bc500162a104db93604e7f01d3cf8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e1bc500162a104db93604e7f01d3cf8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e1bc500162a104db93604e7f01d3cf8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e1bc500162a104db93604e7f01d3cf8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-e1bc500162a104db93604e7f01d3cf8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e1bc500162a104db93604e7f01d3cf8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 12th October 2001.
 
@@ -152,22 +152,22 @@ The Regulations make some amendments to the terms of service set out in Schedule
 
 [^f00002]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) as amended by Article 3(2) of, and paragraph 3 of Schedule 1 to, the Health and Social Security (Northern Ireland) Order 1984 (S.I. [1984/1158 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1158)); paragraphs 4 and 5 of Article 8 of the Health and Medicines (Northern Ireland) Order 1988 (S.I. [1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249)); Article 34 of, and Part II of Schedule 5 to, the Health and Personal Social Services (Northern Ireland) Order 1991 (S.I. [1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)); there are other amendments which are not relevant
 
-[^key-f943f1dc26e35c73110a56610119e1ba]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/370/regulation/1) in operation at 12.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/370/regulation/1/1)
+[^c-f943f1dc26e35c73110a56610119e1ba]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/370/regulation/1) in operation at 12.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/370/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1997 No. 191](https://www.legislation.gov.uk/nisr/1997/191), relevant amending Regulations are [S.R. 1999 No. 111](https://www.legislation.gov.uk/nisr/1999/111), [S.R. 2000 Nos. 51](https://www.legislation.gov.uk/nisr/2000/51) and [341](https://www.legislation.gov.uk/nisr/2000/341), and [S.R. 2001 No. 133](https://www.legislation.gov.uk/nisr/2001/133)
 
 [^f00004]: Footnote: [S.R. 1986 No. 163](https://www.legislation.gov.uk/nisr/1986/163) as amended by [S.R. 1988 No. 110](https://www.legislation.gov.uk/nisr/1988/110), [S.R. 1989 No. 113](https://www.legislation.gov.uk/nisr/1989/113), [S.R. 1990 No. 191](https://www.legislation.gov.uk/nisr/1990/191), [S.R. 1996 No. 135](https://www.legislation.gov.uk/nisr/1996/135), [S.R. 1999 No. 394](https://www.legislation.gov.uk/nisr/1999/394), and [S.R. 2000 No. 51](https://www.legislation.gov.uk/nisr/2000/51)
 
-[^key-dfb2b084861ba800c676395096a06400]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/370/regulation/2) in operation at 12.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/370/regulation/1/1)
+[^c-dfb2b084861ba800c676395096a06400]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/370/regulation/2) in operation at 12.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/370/regulation/1/1)
 
-[^key-37b0497245cc3aea434dc08e97ac2dbb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/370/regulation/3) in operation at 12.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/370/regulation/1/1)
+[^c-37b0497245cc3aea434dc08e97ac2dbb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/370/regulation/3) in operation at 12.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/370/regulation/1/1)
 
-[^key-2e69904e7be677040e6e461e762b20ad]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/370/regulation/4) in operation at 12.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/370/regulation/1/1)
+[^c-2e69904e7be677040e6e461e762b20ad]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/370/regulation/4) in operation at 12.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/370/regulation/1/1)
 
-[^key-80ac899131e5f81b94ffaf282341f021]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/370/regulation/5) in operation at 12.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/370/regulation/1/1)
+[^c-80ac899131e5f81b94ffaf282341f021]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/370/regulation/5) in operation at 12.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/370/regulation/1/1)
 
-[^key-3e58678353a2db5f56e132d0d59ac24f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/370/regulation/6) in operation at 12.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/370/regulation/1/1)
+[^c-3e58678353a2db5f56e132d0d59ac24f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/370/regulation/6) in operation at 12.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/370/regulation/1/1)
 
-[^key-e1bc500162a104db93604e7f01d3cf8a]: Textual amendment: [Regs. 7-11](https://www.legislation.gov.uk/nisr/2001/370/regulation/7) revoked (9.11.2007) by [General Ophthalmic Services Regulations (Northern Ireland) 2007 (S.R. 2007/436)](https://www.legislation.gov.uk/nisr/2007/436), [regs. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2007/436/schedule/3) (with [reg. 23(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/2))
+[^c-e1bc500162a104db93604e7f01d3cf8a]: Textual amendment: [Regs. 7-11](https://www.legislation.gov.uk/nisr/2001/370/regulation/7) revoked (9.11.2007) by [General Ophthalmic Services Regulations (Northern Ireland) 2007 (S.R. 2007/436)](https://www.legislation.gov.uk/nisr/2007/436), [regs. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2007/436/schedule/3) (with [reg. 23(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/2))
 
-[^key-7c8a52efade6f1d37cbcad196063b570]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2001/370/regulation/8) in operation at 12.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/370/regulation/1/1)
+[^c-7c8a52efade6f1d37cbcad196063b570]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2001/370/regulation/8) in operation at 12.11.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/370/regulation/1/1)

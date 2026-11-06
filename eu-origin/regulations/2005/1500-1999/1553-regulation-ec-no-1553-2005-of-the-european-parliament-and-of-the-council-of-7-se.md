@@ -35,22 +35,22 @@ amending Regulation (EC) No 1177/2003 concerning Community statistics on income 
 
 (Text with EEA relevance) (revoked)
 
-[^key-331b656401f4801a19464a164f5f61da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-331b656401f4801a19464a164f5f61da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-331b656401f4801a19464a164f5f61da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-331b656401f4801a19464a164f5f61da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-331b656401f4801a19464a164f5f61da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-331b656401f4801a19464a164f5f61da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-331b656401f4801a19464a164f5f61da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-331b656401f4801a19464a164f5f61da]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-331b656401f4801a19464a164f5f61da]
+## ANNEX[^c-331b656401f4801a19464a164f5f61da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-331b656401f4801a19464a164f5f61da]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 75](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/75); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-331b656401f4801a19464a164f5f61da]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 75](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/75); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

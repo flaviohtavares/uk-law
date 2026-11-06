@@ -48,7 +48,7 @@ The Litter (Northern Ireland) Order 1994
   - (a) in the case of land occupied as part of the Crown Estate, the Crown Estate Commissioners;
   - (b) in the case of land occupied by or for the purposes of a government department, that government department;
   - (c) in the case of land occupied or managed by a body on behalf of the Crown, that body;
-- [^key-377287c30fc044979bfc1bb95f7e9ad1]...
+- [^c-377287c30fc044979bfc1bb95f7e9ad1]...
 - “Crown land” means land—
   - (a) occupied by the Crown Estate Commissioners as part of the Crown Estate,
   - (b) occupied by or for the purposes of a government department, or
@@ -70,7 +70,7 @@ The Litter (Northern Ireland) Order 1994
 - “relevant Crown land” means, subject to paragraph (3), Crown land which is open to the air and is land (but not a road) to which the public are entitled or permitted to have access with or without payment;
 - “relevant land of a district council” means, subject to paragraph (3), land which is open to the air and is land under the direct control of the council to which the public are entitled or permitted to have access with or without payment;
 - “relevant land of a designated educational institution” means, subject to paragraph (3), land which is open to the air and is land under the direct control of the governing body of any educational institution or educational institution of any description designated by the Department, by order;
-- [^key-377287c30fc044979bfc1bb95f7e9ad1]...
+- [^c-377287c30fc044979bfc1bb95f7e9ad1]...
 - “relevant land of a designated statutory undertaker” means, subject to paragraph (3), land under the direct control of any statutory undertaker designated by the Department, by order, being land to which the public are entitled or permitted to have access with or without payment or, in such cases as may be specified in the designation order, land in relation to which the public have no such right or permission;
 - “road” has the same meaning as in Article 2(2) of the Roads (Northern Ireland) Order 1993[^c1685539] but includes a footway;
 - “statutory provision” has the meaning assigned to it by section 1(f) of the Interpretation Act (Northern Ireland) 1954[^c1685540];
@@ -101,7 +101,7 @@ The Litter (Northern Ireland) Order 1994
 - (a) authorised by law, or
 - (b) done with the consent of the owner or other person or authority having control of the place in or into which that thing was deposited.
 
-(2A)[^key-c620aff116c4d7b51b6e33728df2c863] A person may only give consent under paragraph (2) in relation to the depositing of litter in a lake, pond or watercourse if he is the owner, occupier or other person having control of—
+(2A)[^c-c620aff116c4d7b51b6e33728df2c863] A person may only give consent under paragraph (2) in relation to the depositing of litter in a lake, pond or watercourse if he is the owner, occupier or other person having control of—
 
 - (a) all the land adjoining the lake, pond or watercourse; and
 - (b) all the land through or into which water in that lake, pond or watercourse directly or indirectly discharges, otherwise than by means of a public sewer.
@@ -115,28 +115,28 @@ The Litter (Northern Ireland) Order 1994
 
 (4) A district council, with a view to promoting the abatement of litter, may take such steps as the council thinks appropriate for making the effect of paragraph (3) known to the public in its district.
 
-### 4. Offence of permitting dogs to foul[^key-60c8b9ecbb813d7e54bea00e27ae11f9]
+### 4. Offence of permitting dogs to foul[^c-60c8b9ecbb813d7e54bea00e27ae11f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5. Enforcement of Articles 3 and 4
 
-(1) Where an authorised person believes that an offence under Article 3 [^key-658ba23530bd44619c1edbd6d01f2288]... has been committed, he may demand the name and address of any person whom he believes to be guilty of the offence.
+(1) Where an authorised person believes that an offence under Article 3 [^c-658ba23530bd44619c1edbd6d01f2288]... has been committed, he may demand the name and address of any person whom he believes to be guilty of the offence.
 
 (2) An authorised person (other than a constable in uniform) demanding the name and address of any other person under paragraph (1) shall, if so required, produce his credentials.
 
-(3)[^key-068bcd1e6c5f465890aa4e1ca60d2301] A person commits an offence if—
+(3)[^c-068bcd1e6c5f465890aa4e1ca60d2301] A person commits an offence if—
 
 - (a) he fails to give his name and address in response to a demand under paragraph (1), or
 - (b) he gives a false or inaccurate name or address in response to a demand under that paragraph.
 
 (3A) A person guilty of an offence under paragraph (3) shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-(4) Without prejudice to the right of any other person to institute proceedings for an offence under Article 3 [^key-965b44fac5ccc96903520285122a925b]..., a district council may institute proceedings for such an offence committed in its district.
+(4) Without prejudice to the right of any other person to institute proceedings for an offence under Article 3 [^c-965b44fac5ccc96903520285122a925b]..., a district council may institute proceedings for such an offence committed in its district.
 
 (5) In this Article—
 
-- “[^key-4e21eb41bfed127076bbc70f0dd1f6a4] **authorised officer** ” has the same meaning as in Article 6;
+- “[^c-4e21eb41bfed127076bbc70f0dd1f6a4] **authorised officer** ” has the same meaning as in Article 6;
 
   “authorised person”, in relation to an offence believed to have been committed in any place, means—
 
@@ -146,9 +146,9 @@ The Litter (Northern Ireland) Order 1994
   - (d) a constable;
 - “believes” means believes on reasonable grounds.
 
-### 6. Fixed penalty notices[^key-9b7e5d10e3bf074854b8a1a8dd1c5809]
+### 6. Fixed penalty notices[^c-9b7e5d10e3bf074854b8a1a8dd1c5809]
 
-(1) Where on any occasion an authorised officer of a district council finds a person who he believes has on that occasion committed an offence under Article 3 [^key-a006f534beed24114f437b29f6cb8e43]... in the district of that council, he may give that person a notice offering him the opportunity of discharging any liability to conviction for that offence by payment of a fixed penalty.
+(1) Where on any occasion an authorised officer of a district council finds a person who he believes has on that occasion committed an offence under Article 3 [^c-a006f534beed24114f437b29f6cb8e43]... in the district of that council, he may give that person a notice offering him the opportunity of discharging any liability to conviction for that offence by payment of a fixed penalty.
 
 (2) Where a person is given a notice under this Article in respect of an offence—
 
@@ -167,7 +167,7 @@ and, without prejudice to payment by any other method, payment of the fixed pena
 
 (5) Regulations may prescribe the form of notices under this Article.
 
-(6)[^key-37804cdf2c74269de5dfc4b6c9c8ccdb] The fixed penalty payable in pursuance of a notice under this Article is payable to the district council whose authorised officer gave the notice.
+(6)[^c-37804cdf2c74269de5dfc4b6c9c8ccdb] The fixed penalty payable in pursuance of a notice under this Article is payable to the district council whose authorised officer gave the notice.
 
 (6A) The amount of a fixed penalty payable in pursuance of a notice under this Article—
 
@@ -193,7 +193,7 @@ shall be evidence of the facts stated.
 
 (9) In this Article—
 
-“[^key-dfb41606c6777f71a5b6c60313fdc126] **authorised officer** ”, in relation to a district council, means
+“[^c-dfb41606c6777f71a5b6c60313fdc126] **authorised officer** ”, in relation to a district council, means
 
 - (a) —an employee of the district council who is authorised in writing by the council for the purpose of giving notices under this Article;
 - (b) any person who, in pursuance of arrangements made with the council, has the function of giving such notices and is authorised in writing by the council to perform that function; and
@@ -203,7 +203,7 @@ shall be evidence of the facts stated.
 
 “believes” has the same meaning as in Article 5.
 
-### 6A. Use of fixed penalty receipts[^key-1c00e05a762b853d1b771579f007929d]
+### 6A. Use of fixed penalty receipts[^c-1c00e05a762b853d1b771579f007929d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -216,9 +216,9 @@ shall be evidence of the facts stated.
 - (a) each district council, as respects its relevant land or any relevant road for which it is responsible,
 - (b) the Department, as respects any road which is not a relevant road,
 - (c) the appropriate authority, as respects its relevant Crown land,
-- (d) each designated statutory undertaker, as respects its relevant land,and[^key-b3a0aef0c161805bbf03d0c18f751b5c]
-- (e) the governing body of each designated educational institution, as respects its relevant land, [^key-ea8e1f1250af1f13d853b8bdcfaaf03a]...
-- (f)[^key-ea8e1f1250af1f13d853b8bdcfaaf03a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) each designated statutory undertaker, as respects its relevant land,and[^c-b3a0aef0c161805bbf03d0c18f751b5c]
+- (e) the governing body of each designated educational institution, as respects its relevant land, [^c-ea8e1f1250af1f13d853b8bdcfaaf03a]...
+- (f)[^c-ea8e1f1250af1f13d853b8bdcfaaf03a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 to ensure that the land or road is, so far as is practicable, kept clear of litter.
 
@@ -233,7 +233,7 @@ to ensure that the road is, so far as is practicable, kept clean.
 
 (4) Regulations may prescribe matter of any description for the purposes of paragraphs (1)(a) and (2)(a) which shall be litter to which the duties imposed by those paragraphs apply as respects roads whether or not it would be litter apart from this paragraph.
 
-(5) A district council may, with the consent of the person who has the duty to keep any road or land clear under paragraph (1)(b) to (e)[^key-3bdf13d1be1260ec3d807a50ca3d2417], arrange for the clearing of the road or, as the case may be, the land and may enter into an agreement with such a person for the payment by him of charges in respect of the clearing.
+(5) A district council may, with the consent of the person who has the duty to keep any road or land clear under paragraph (1)(b) to (e)[^c-3bdf13d1be1260ec3d807a50ca3d2417], arrange for the clearing of the road or, as the case may be, the land and may enter into an agreement with such a person for the payment by him of charges in respect of the clearing.
 
 (6) Nothing in this Article operates to confer on any person a right of action in tort against the Department or any district council for failing to carry out any duty imposed on it under this Article as respects any road.
 
@@ -281,7 +281,7 @@ and for the purpose of enabling it to discharge its duty under Article 7(1)(a) o
 
 ## Litter control areas
 
-### 10. Litter control areas[^key-d5e6251153257ca2a03b8701ed54d965]
+### 10. Litter control areas[^c-d5e6251153257ca2a03b8701ed54d965]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -294,9 +294,9 @@ and for the purpose of enabling it to discharge its duty under Article 7(1)(a) o
 - (a) any road;
 - (b) any relevant land of a district council;
 - (c) any relevant Crown land;
-- (d) any relevant land of a designated statutory undertaker;or[^key-49b127e247897d17d94434b1f2399ec1]
-- (e) any relevant land of a designated educational institution; [^key-ed412247cf99107f08e1799229afa896]...
-- (f)[^key-ed412247cf99107f08e1799229afa896] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) any relevant land of a designated statutory undertaker;or[^c-49b127e247897d17d94434b1f2399ec1]
+- (e) any relevant land of a designated educational institution; [^c-ed412247cf99107f08e1799229afa896]...
+- (f)[^c-ed412247cf99107f08e1799229afa896] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A court of summary jurisdiction may also act under this Article on a complaint made by any person on the ground that he is aggrieved by the want of cleanliness of any road.
 
@@ -332,9 +332,9 @@ the court shall order the defendant to pay such reasonable sum to the complainan
 (1) Where a district council is satisfied as respects—
 
 - (a) any relevant Crown land,
-- (b) any relevant land of a designated statutory undertaker,or[^key-7ca95634ea3b0e43ad8d84a2e78d589c]
-- (c) any relevant land of a designated educational institution, [^key-e2c3b59d49e5079e6f974cc0fb9cd751]...
-- (d)[^key-e2c3b59d49e5079e6f974cc0fb9cd751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) any relevant land of a designated statutory undertaker,or[^c-7ca95634ea3b0e43ad8d84a2e78d589c]
+- (c) any relevant land of a designated educational institution, [^c-e2c3b59d49e5079e6f974cc0fb9cd751]...
+- (d)[^c-e2c3b59d49e5079e6f974cc0fb9cd751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 that it is defaced by litter or that defacement of it by litter is likely to recur, the council shall serve a notice ( “a litter abatement notice”) imposing either the requirement or the prohibition or both the requirement and the prohibition specified in paragraph (2).
 
@@ -348,7 +348,7 @@ that it is defaced by litter or that defacement of it by litter is likely to rec
 - (a) as respects relevant Crown land, on the appropriate authority;
 - (b) as respects relevant land of a designated statutory undertaker, on the undertaker;
 - (c) as respects relevant land of a designated educational institution, on the governing body of the institution;
-- (d)[^key-ecfe255189245b728c249b6c600ea41f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-ecfe255189245b728c249b6c600ea41f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The person served with the notice may appeal against the notice to a court of summary jurisdiction within the period of 21 days from the date on which the notice was served.
 
@@ -369,7 +369,7 @@ that it is defaced by litter or that defacement of it by litter is likely to rec
 
 (11) Paragraph (10) does not apply in relation to relevant Crown land or relevant land of statutory undertakers.
 
-### 12A. Litter clearing notices[^key-32437cfd57a0be9e5e867462fa9edeb5]
+### 12A. Litter clearing notices[^c-32437cfd57a0be9e5e867462fa9edeb5]
 
 (1) A district council may in accordance with this Article serve a notice (a “litter clearing notice”) in relation to any land in its district which is open to the air.
 
@@ -464,7 +464,7 @@ the council may serve a street litter control notice on the occupier or, if the 
 
 and, for the purposes of sub-paragraph (b), an area which includes land on both sides of the frontage of the premises shall be treated as an area adjoining that frontage.
 
-(3A)[^key-b4d4e3d7f2d5d33e60ca3b515dcc18d6] A vehicle or stall or other moveable structure which is used for one or more commercial or retail activities while parked or set at a particular place on or verging a street shall be treated for the purposes of this Article and Article 14 as if it were premises situated at that place having a frontage on that street in the place where it is parked or set.
+(3A)[^c-b4d4e3d7f2d5d33e60ca3b515dcc18d6] A vehicle or stall or other moveable structure which is used for one or more commercial or retail activities while parked or set at a particular place on or verging a street shall be treated for the purposes of this Article and Article 14 as if it were premises situated at that place having a frontage on that street in the place where it is parked or set.
 
 (3B) In paragraph (3A), “ **vehicle** ” means any vehicle intended or adapted for use on roads.
 
@@ -496,12 +496,12 @@ and, for the purposes of sub-paragraph (b), an area which includes land on both 
   - (iv) land under the direct control of any other district council; and
 - (c) shall not exceed any applicable maximum area specified under paragraph (1)(c);
 
-[^key-588528c79c12bc0616d71ef6828617cc]...
+[^c-588528c79c12bc0616d71ef6828617cc]...
 
 (4) The requirements which may be imposed by a notice shall relate to the clearing of litter from the specified area and may in particular require—
 
 - (a) the provision or emptying of receptacles for litter;
-- (b) the doing within a period specified in the notice of any such thing as may be so specified(including the standards to which any such thing must be done)[^key-7f5a132033e7bc79a6f06045a524aea4]; or
+- (b) the doing within a period specified in the notice of any such thing as may be so specified(including the standards to which any such thing must be done)[^c-7f5a132033e7bc79a6f06045a524aea4]; or
 - (c) the doing (while the notice remains in force) at such times or intervals, or within such periods, of any such thing as may be so specified;
 
 but a notice may not require the clearing of litter from any carriageway, except at a time when the carriageway is closed to all vehicular traffic.
@@ -516,7 +516,7 @@ but a notice may not require the clearing of litter from any carriageway, except
 
 (7) A person on whom a notice is served may appeal against the notice to a court of summary jurisdiction within the period of 21 days from the date on which the notice was served; and the court may quash the notice or may quash, vary or add to any requirement imposed by the notice.
 
-(8)[^key-8e6340bd1c35bb23353453b48952daea] A person commits an offence if, without reasonable excuse, he fails to comply with a requirement imposed on him by a notice.
+(8)[^c-8e6340bd1c35bb23353453b48952daea] A person commits an offence if, without reasonable excuse, he fails to comply with a requirement imposed on him by a notice.
 
 (9) A person guilty of an offence under paragraph (8) is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
@@ -532,7 +532,7 @@ but a notice may not require the clearing of litter from any carriageway, except
 
 (13) In this Article “carriageway” has the same meaning as in Article 2(2) of the Roads (Northern Ireland) Order 1993[^c1685560].
 
-### 14A. Fixed penalty notices relating to Articles 12C and 14[^key-d9f6f8c42843eefb2b03d59e5e352a89]
+### 14A. Fixed penalty notices relating to Articles 12C and 14[^c-d9f6f8c42843eefb2b03d59e5e352a89]
 
 (1) This Article applies where on any occasion it appears to an authorised officer of a district council that a person has committed an offence under Article 12C(2) or 14(8) in relation to a notice served by that council.
 
@@ -559,7 +559,7 @@ is evidence of the facts stated.
 - “ **authorised officer** ”, in relation to a district council, means an officer of the council who is authorised in writing by the council for the purposes of giving notices under this Article;
 - “ **clerk of the council** ”, in relation to a district council, means the clerk appointed in accordance with section 41 of the Local Government Act (Northern Ireland) 1972.
 
-### 14B. Free distribution of printed matter[^key-7ccd1074630e16a60506d1569261dfef]
+### 14B. Free distribution of printed matter[^c-7ccd1074630e16a60506d1569261dfef]
 
 Schedule 1A (free distribution of printed matter on designated land) has effect.
 
@@ -569,8 +569,8 @@ Schedule 1A (free distribution of printed matter on designated land) has effect.
 
 (1) Each district council shall maintain in accordance with this Article, a register containing copies of—
 
-- (a)[^key-f35efafa12e473cef3a3c0f4e0a102a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) all street litter control notices issued under Article 13(1) and[^key-abe81036d2490ddb171bf7f98aa7b9f6]
+- (a)[^c-f35efafa12e473cef3a3c0f4e0a102a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) all street litter control notices issued under Article 13(1) and[^c-abe81036d2490ddb171bf7f98aa7b9f6]
 - (c) all orders made by the district council under paragraph 2(1) of Schedule 1A.
 
 (2) Where the requirements of a street litter control notice are varied or added to on an appeal under Article 14(7) a copy of the order making the variation or addition shall be included in the register.
@@ -599,7 +599,7 @@ Schedule 1A (free distribution of printed matter on designated land) has effect.
 (1) This Article applies to litter collected—
 
 - (a) by any district council or person under Article 7(1);
-- (b) by a district council under Article 12(10)or Article 12C(3)[^key-84ef88b6b76fdaea27a2987430948e79] ; or
+- (b) by a district council under Article 12(10)or Article 12C(3)[^c-84ef88b6b76fdaea27a2987430948e79] ; or
 - (c) by any person under Article 13.
 
 (2) Regulations may provide that the provisions of Waste and Contaminated Land (Northern Ireland) Order 1997 shall have effect, with such modifications (if any) as may be prescribed in the regulations—
@@ -616,7 +616,7 @@ For the purposes of the transition to the duties imposed by Article 7 on distric
 - (a) modifying that Article, or
 - (b) modifying Part II of the Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1992[^c1685569] (competition rules for functional work or works contracts).
 
-### 18A. Fixed penalty notices: supplementary[^key-e7b44f0a844b0f96a9bbfc13d390b492]
+### 18A. Fixed penalty notices: supplementary[^c-e7b44f0a844b0f96a9bbfc13d390b492]
 
 (1) The Department may by regulations make provision in connection with the powers conferred under—
 
@@ -631,7 +631,7 @@ For the purposes of the transition to the duties imposed by Article 7 on distric
 
 (3) The Department may by order substitute a different amount for the amount for the time being specified in Article 6(6A)(b) or 14A(4)(b) or paragraph 7(4)(b) of Schedule 1A.
 
-### 18B. Exclusion of liability[^key-7b66a7c57e77eb4453c458c4a85eb001]
+### 18B. Exclusion of liability[^c-7b66a7c57e77eb4453c458c4a85eb001]
 
 (1) None of the persons mentioned in paragraph (2) shall have any liability to an occupier or owner of land for damages or otherwise (whether at common law or otherwise) arising out of anything done or omitted to be done in the exercise or purported exercise of the power in Article 12(10), 12A(9) or 12C(3).
 
@@ -699,9 +699,9 @@ The Department may cause a local inquiry to be held in any case in which the Dep
 
 ### 25. Regulations, orders and directions
 
-(1) Subject to paragraph (1A),[^key-9ffc35c4a33289e4193243342ce01a9f]regulations and orders made by the Department under this Order shall be subject to negative resolution.
+(1) Subject to paragraph (1A),[^c-9ffc35c4a33289e4193243342ce01a9f]regulations and orders made by the Department under this Order shall be subject to negative resolution.
 
-(1A)[^key-c2e6bcde6092e3cd2341be9645b5c403] An order under Article 18A(3) shall not be made unless a draft of the order has been laid before and approved by a resolution of the Assembly.
+(1A)[^c-c2e6bcde6092e3cd2341be9645b5c403] An order under Article 18A(3) shall not be made unless a draft of the order has been laid before and approved by a resolution of the Assembly.
 
 (2) Any direction given under this Order shall be in writing and may be varied or revoked by subsequent directions.
 
@@ -743,7 +743,7 @@ Article 19.
 - (a) shall keep the trolley for a period of 6 weeks; and
 - (b) may sell or otherwise dispose of the trolley at any time after the end of that period.
 
-(2) The council shall, as respects any trolley it has seized and removed[^key-5bd721626ad9720aab5b297825e0231c], as soon as reasonably practicable (but not later than 14 days) from its removal, serve on the person (if any) who appears to the council to be the owner of the trolley a notice stating—
+(2) The council shall, as respects any trolley it has seized and removed[^c-5bd721626ad9720aab5b297825e0231c], as soon as reasonably practicable (but not later than 14 days) from its removal, serve on the person (if any) who appears to the council to be the owner of the trolley a notice stating—
 
 - (a) that the council has removed the trolley and is keeping it;
 - (b) the place where it is being kept; and
@@ -755,7 +755,7 @@ Article 19.
 
 (5) No shopping or luggage trolley shall be disposed of by the council unless (where it has not been claimed) the council has made reasonable enquiries to ascertain who owns it.
 
-**3A.**[^key-4aa661f701a4be6e972ada1a6aa98be7] (1) This paragraph applies where the district council is entitled to sell or otherwise dispose of a shopping or luggage trolley in accordance with paragraph 3(1)(b).
+**3A.**[^c-4aa661f701a4be6e972ada1a6aa98be7] (1) This paragraph applies where the district council is entitled to sell or otherwise dispose of a shopping or luggage trolley in accordance with paragraph 3(1)(b).
 
 (2) If it appears to the council that a particular person is the owner of the trolley, the council may charge him a sum in respect of the removal, storage and disposal of the trolley.
 
@@ -767,19 +767,19 @@ Article 19.
 
 ### Charges
 
-**4.** (1) The district council, in fixing the charges to be paid under this Schedule, shall secure that the charges so payable are such as are sufficient[^key-d31ab0dfe212ba512a0d6d35af89cba4], taking one financial year with another, to cover the cost of removing, storing and disposing of shopping or luggage trolleys[^key-cf02c741c1a61492c894e472035687ff] under this Schedule.
+**4.** (1) The district council, in fixing the charges to be paid under this Schedule, shall secure that the charges so payable are such as are sufficient[^c-d31ab0dfe212ba512a0d6d35af89cba4], taking one financial year with another, to cover the cost of removing, storing and disposing of shopping or luggage trolleys[^c-cf02c741c1a61492c894e472035687ff] under this Schedule.
 
-(2) The council may agree with persons who own shopping or luggage trolleys and make them available for use in its district a scheme for the collection by them of trolleys they make available for use; and where such an agreement is in force with any person, no charge may be demanded under paragraph 3 or 3A[^key-374bee76a5349cb0ea6502185910938b]by the council in respect of any trolley within the scheme in relation to which the provisions of the scheme are complied with.
+(2) The council may agree with persons who own shopping or luggage trolleys and make them available for use in its district a scheme for the collection by them of trolleys they make available for use; and where such an agreement is in force with any person, no charge may be demanded under paragraph 3 or 3A[^c-374bee76a5349cb0ea6502185910938b]by the council in respect of any trolley within the scheme in relation to which the provisions of the scheme are complied with.
 
 ### Definitions
 
 **5.** In this Schedule—
 
-- “[^key-999194506e01f12261b1ff9cf488c9ee]**authorised officer**”, in relation to a district council, means an officer of a district council authorised in writing by the council for the purposes of exercising functions under this Schedule;
+- “[^c-999194506e01f12261b1ff9cf488c9ee]**authorised officer**”, in relation to a district council, means an officer of a district council authorised in writing by the council for the purposes of exercising functions under this Schedule;
 - “luggage trolley” means a trolley provided by a person carrying on an undertaking mentioned in paragraph 1(2)(d) to travellers for use by them for carrying their luggage to, from or within the premises used for the purposes of that undertaking, not being a trolley which is power-assisted; and
 - “shopping trolley” means a trolley provided by the owner of a shop to customers for use by them for carrying goods purchased at the shop, not being a trolley which is power-assisted.
 
-## SCHEDULE 1A — FREE DISTRIBUTION OF PRINTED MATTER ON DESIGNATED[^key-b61184edd9b8ef5bb66e1bf3ca76a82b]
+## SCHEDULE 1A — FREE DISTRIBUTION OF PRINTED MATTER ON DESIGNATED[^c-b61184edd9b8ef5bb66e1bf3ca76a82b]
 
 ### Offence of unauthorised distribution
 
@@ -961,7 +961,7 @@ is evidence of the facts stated.
 
 [^c1685533]: Textual amendment: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-377287c30fc044979bfc1bb95f7e9ad1]: Textual amendment: Words in art. 2(2) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3))
+[^c-377287c30fc044979bfc1bb95f7e9ad1]: Textual amendment: Words in art. 2(2) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3))
 
 [^c1685534]: Textual amendment: [1993 NI 12](https://www.legislation.gov.uk/nisi/1993)
 
@@ -979,102 +979,102 @@ is evidence of the facts stated.
 
 [^c1685542]: Textual amendment: [1978 NI 19](https://www.legislation.gov.uk/nisi/1978)
 
-[^key-c620aff116c4d7b51b6e33728df2c863]: Textual amendment: Art. 3(2A)(2B) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 14(2)](https://www.legislation.gov.uk/nia/2011/23/section/14/2), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-c620aff116c4d7b51b6e33728df2c863]: Textual amendment: Art. 3(2A)(2B) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 14(2)](https://www.legislation.gov.uk/nia/2011/23/section/14/2), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-60c8b9ecbb813d7e54bea00e27ae11f9]: Textual amendment: Art. 4 repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/3); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3))
+[^c-60c8b9ecbb813d7e54bea00e27ae11f9]: Textual amendment: Art. 4 repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/3); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3))
 
-[^key-658ba23530bd44619c1edbd6d01f2288]: Textual amendment: Words in art. 5(1) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23) , [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78) , [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/3) ; [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13) , [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3) )
+[^c-658ba23530bd44619c1edbd6d01f2288]: Textual amendment: Words in art. 5(1) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23) , [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78) , [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/3) ; [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13) , [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3) )
 
-[^key-068bcd1e6c5f465890aa4e1ca60d2301]: Textual amendment: S. 5(3)(3A) substituted (1.4.2012) for s. 5(3) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23) , [ss. 15(2)](https://www.legislation.gov.uk/nia/2011/23/section/15/2) , [78](https://www.legislation.gov.uk/nia/2011/23/section/78) ; [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13) , [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3) )
+[^c-068bcd1e6c5f465890aa4e1ca60d2301]: Textual amendment: S. 5(3)(3A) substituted (1.4.2012) for s. 5(3) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23) , [ss. 15(2)](https://www.legislation.gov.uk/nia/2011/23/section/15/2) , [78](https://www.legislation.gov.uk/nia/2011/23/section/78) ; [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13) , [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3) )
 
-[^key-965b44fac5ccc96903520285122a925b]: Textual amendment: Words in art. 5(4) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23) , [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78) , [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/3) ; [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13) , [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3) )
+[^c-965b44fac5ccc96903520285122a925b]: Textual amendment: Words in art. 5(4) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23) , [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78) , [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/3) ; [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13) , [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3) )
 
-[^key-4e21eb41bfed127076bbc70f0dd1f6a4]: Textual amendment: Words in art. 5(5) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23) , [ss. 15(3)](https://www.legislation.gov.uk/nia/2011/23/section/15/3) , [78](https://www.legislation.gov.uk/nia/2011/23/section/78) ; [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13) , [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3) )
+[^c-4e21eb41bfed127076bbc70f0dd1f6a4]: Textual amendment: Words in art. 5(5) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23) , [ss. 15(3)](https://www.legislation.gov.uk/nia/2011/23/section/15/3) , [78](https://www.legislation.gov.uk/nia/2011/23/section/78) ; [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13) , [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3) )
 
-[^key-9b7e5d10e3bf074854b8a1a8dd1c5809]: Textual amendment: Art. 6(8A)-(8D) inserted (18.1.2012 for specified purposes, otherwise 1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 16(3)](https://www.legislation.gov.uk/nia/2011/23/section/16/3), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Schs. 1, 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3))
+[^c-9b7e5d10e3bf074854b8a1a8dd1c5809]: Textual amendment: Art. 6(8A)-(8D) inserted (18.1.2012 for specified purposes, otherwise 1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 16(3)](https://www.legislation.gov.uk/nia/2011/23/section/16/3), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Schs. 1, 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3))
 
-[^key-a006f534beed24114f437b29f6cb8e43]: Textual amendment: Words in art. 6(1) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/3); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3))
+[^c-a006f534beed24114f437b29f6cb8e43]: Textual amendment: Words in art. 6(1) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/3); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3))
 
-[^key-37804cdf2c74269de5dfc4b6c9c8ccdb]: Textual amendment: S. 6(6)(6A)(7) substituted for s. 6(6)(7) (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 16(2)](https://www.legislation.gov.uk/nia/2011/23/section/16/2), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3))
+[^c-37804cdf2c74269de5dfc4b6c9c8ccdb]: Textual amendment: S. 6(6)(6A)(7) substituted for s. 6(6)(7) (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 16(2)](https://www.legislation.gov.uk/nia/2011/23/section/16/2), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3))
 
-[^key-dfb41606c6777f71a5b6c60313fdc126]: Textual amendment: Words in art. 6(9) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 16(4)](https://www.legislation.gov.uk/nia/2011/23/section/16/4), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3))
+[^c-dfb41606c6777f71a5b6c60313fdc126]: Textual amendment: Words in art. 6(9) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 16(4)](https://www.legislation.gov.uk/nia/2011/23/section/16/4), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2012/13/article/3))
 
 [^c1685550]: Textual amendment: [1972 c. 9 (NI)](https://www.legislation.gov.uk/apni/1972/9)
 
-[^key-1c00e05a762b853d1b771579f007929d]: Textual amendment: Art. 6A repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-1c00e05a762b853d1b771579f007929d]: Textual amendment: Art. 6A repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
 [^c1685551]: Textual amendment: functions transf. by SR 1999/481
 
-[^key-b3a0aef0c161805bbf03d0c18f751b5c]: Textual amendment: Words in art. 7(1)(d) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/1); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-b3a0aef0c161805bbf03d0c18f751b5c]: Textual amendment: Words in art. 7(1)(d) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/1); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-ea8e1f1250af1f13d853b8bdcfaaf03a]: Textual amendment: Art. 7(1)(f) and preceding word repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-ea8e1f1250af1f13d853b8bdcfaaf03a]: Textual amendment: Art. 7(1)(f) and preceding word repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-3bdf13d1be1260ec3d807a50ca3d2417]: Textual amendment: Words in art. 7(5) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-3bdf13d1be1260ec3d807a50ca3d2417]: Textual amendment: Words in art. 7(5) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
 [^c1685552]: Textual amendment: functions transf. by SR 1999/481
 
 [^c1685553]: Textual amendment: [1997 NI 2](https://www.legislation.gov.uk/nisi/1997)
 
-[^key-d5e6251153257ca2a03b8701ed54d965]: Textual amendment: Art. 10 repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-d5e6251153257ca2a03b8701ed54d965]: Textual amendment: Art. 10 repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-49b127e247897d17d94434b1f2399ec1]: Textual amendment: Word in art. 11(1)(d) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/3); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-49b127e247897d17d94434b1f2399ec1]: Textual amendment: Word in art. 11(1)(d) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/3); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-ed412247cf99107f08e1799229afa896]: Textual amendment: Art. 11(1)(f) and preceding word repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-ed412247cf99107f08e1799229afa896]: Textual amendment: Art. 11(1)(f) and preceding word repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-7ca95634ea3b0e43ad8d84a2e78d589c]: Textual amendment: Word in art. 12(1)(b) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(4)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/4); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-7ca95634ea3b0e43ad8d84a2e78d589c]: Textual amendment: Word in art. 12(1)(b) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(4)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/4); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-e2c3b59d49e5079e6f974cc0fb9cd751]: Textual amendment: Art. 12(1)(d) and preceding word repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-e2c3b59d49e5079e6f974cc0fb9cd751]: Textual amendment: Art. 12(1)(d) and preceding word repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-ecfe255189245b728c249b6c600ea41f]: Textual amendment: Art. 12(3)(d) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-ecfe255189245b728c249b6c600ea41f]: Textual amendment: Art. 12(3)(d) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-32437cfd57a0be9e5e867462fa9edeb5]: Textual amendment: Arts. 12A-12C inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 17(2)](https://www.legislation.gov.uk/nia/2011/23/section/17/2), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-32437cfd57a0be9e5e867462fa9edeb5]: Textual amendment: Arts. 12A-12C inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 17(2)](https://www.legislation.gov.uk/nia/2011/23/section/17/2), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-b4d4e3d7f2d5d33e60ca3b515dcc18d6]: Textual amendment: Art. 13(3A)(3B) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 18(2)](https://www.legislation.gov.uk/nia/2011/23/section/18/2), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-b4d4e3d7f2d5d33e60ca3b515dcc18d6]: Textual amendment: Art. 13(3A)(3B) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 18(2)](https://www.legislation.gov.uk/nia/2011/23/section/18/2), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-588528c79c12bc0616d71ef6828617cc]: Textual amendment: Words in art. 14(3) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-588528c79c12bc0616d71ef6828617cc]: Textual amendment: Words in art. 14(3) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-7f5a132033e7bc79a6f06045a524aea4]: Textual amendment: Words in art. 14(4)(b) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 19(2)](https://www.legislation.gov.uk/nia/2011/23/section/19/2), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-7f5a132033e7bc79a6f06045a524aea4]: Textual amendment: Words in art. 14(4)(b) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 19(2)](https://www.legislation.gov.uk/nia/2011/23/section/19/2), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-8e6340bd1c35bb23353453b48952daea]: Textual amendment: Art. 14(8)(9) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 19(3)](https://www.legislation.gov.uk/nia/2011/23/section/19/3), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-8e6340bd1c35bb23353453b48952daea]: Textual amendment: Art. 14(8)(9) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 19(3)](https://www.legislation.gov.uk/nia/2011/23/section/19/3), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
 [^c1685560]: Textual amendment: [1993 NI 15](https://www.legislation.gov.uk/nisi/1993)
 
-[^key-d9f6f8c42843eefb2b03d59e5e352a89]: Textual amendment: Art. 14A inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 20](https://www.legislation.gov.uk/nia/2011/23/section/20), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-d9f6f8c42843eefb2b03d59e5e352a89]: Textual amendment: Art. 14A inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 20](https://www.legislation.gov.uk/nia/2011/23/section/20), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-7ccd1074630e16a60506d1569261dfef]: Textual amendment: Art. 14B inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 21(2)](https://www.legislation.gov.uk/nia/2011/23/section/21/2), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-7ccd1074630e16a60506d1569261dfef]: Textual amendment: Art. 14B inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 21(2)](https://www.legislation.gov.uk/nia/2011/23/section/21/2), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-f35efafa12e473cef3a3c0f4e0a102a5]: Textual amendment: Art. 15(1)(a) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-f35efafa12e473cef3a3c0f4e0a102a5]: Textual amendment: Art. 15(1)(a) repealed (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/4/part/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-abe81036d2490ddb171bf7f98aa7b9f6]: Textual amendment: Art. 15(1)(c) and word inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(5)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/5); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-abe81036d2490ddb171bf7f98aa7b9f6]: Textual amendment: Art. 15(1)(c) and word inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(5)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/5); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
 [^c1685561]: Textual amendment: [1997 NI 19](https://www.legislation.gov.uk/nisi/1997)
 
-[^key-84ef88b6b76fdaea27a2987430948e79]: Textual amendment: Words in art. 17(1)(b) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(6)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/6); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-84ef88b6b76fdaea27a2987430948e79]: Textual amendment: Words in art. 17(1)(b) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(6)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/6); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
 [^c1685569]: Textual amendment: [1992 NI 6](https://www.legislation.gov.uk/nisi/1992)
 
-[^key-e7b44f0a844b0f96a9bbfc13d390b492]: Textual amendment: Art. 18A inserted (18.1.2012 for specified purposes, otherwise 1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 22](https://www.legislation.gov.uk/nia/2011/23/section/22), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-e7b44f0a844b0f96a9bbfc13d390b492]: Textual amendment: Art. 18A inserted (18.1.2012 for specified purposes, otherwise 1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 22](https://www.legislation.gov.uk/nia/2011/23/section/22), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-7b66a7c57e77eb4453c458c4a85eb001]: Textual amendment: Art. 18B inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 23](https://www.legislation.gov.uk/nia/2011/23/section/23), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-7b66a7c57e77eb4453c458c4a85eb001]: Textual amendment: Art. 18B inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 23](https://www.legislation.gov.uk/nia/2011/23/section/23), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
 [^c1685570]: Textual amendment: [1972 c. 9 (NI)](https://www.legislation.gov.uk/apni/1972/9)
 
 [^c1685571]: Textual amendment: [1981 NI 26](https://www.legislation.gov.uk/nisi/1981)
 
-[^key-9ffc35c4a33289e4193243342ce01a9f]: Textual amendment: Words in art. 25(1) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(7)(a)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/7/a); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-9ffc35c4a33289e4193243342ce01a9f]: Textual amendment: Words in art. 25(1) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(7)(a)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/7/a); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-c2e6bcde6092e3cd2341be9645b5c403]: Textual amendment: Art. 25(1A) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(7)(b)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/7/b); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-c2e6bcde6092e3cd2341be9645b5c403]: Textual amendment: Art. 25(1A) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 3(7)(b)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/3/7/b); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-5bd721626ad9720aab5b297825e0231c]: Textual amendment: Words in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/nisi/1994/1896/schedule/1/paragraph/3/2) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 24(2)](https://www.legislation.gov.uk/nia/2011/23/section/24/2), [78](https://www.legislation.gov.uk/nia/2011/23/section/78) (with [s. 25](https://www.legislation.gov.uk/nia/2011/23/section/25)); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-5bd721626ad9720aab5b297825e0231c]: Textual amendment: Words in [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/nisi/1994/1896/schedule/1/paragraph/3/2) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 24(2)](https://www.legislation.gov.uk/nia/2011/23/section/24/2), [78](https://www.legislation.gov.uk/nia/2011/23/section/78) (with [s. 25](https://www.legislation.gov.uk/nia/2011/23/section/25)); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-4aa661f701a4be6e972ada1a6aa98be7]: Textual amendment: [Sch. 1 para. 3A](https://www.legislation.gov.uk/nisi/1994/1896/schedule/1/paragraph/3A) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 24(3)](https://www.legislation.gov.uk/nia/2011/23/section/24/3), [78](https://www.legislation.gov.uk/nia/2011/23/section/78) (with [s. 25](https://www.legislation.gov.uk/nia/2011/23/section/25)); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-4aa661f701a4be6e972ada1a6aa98be7]: Textual amendment: [Sch. 1 para. 3A](https://www.legislation.gov.uk/nisi/1994/1896/schedule/1/paragraph/3A) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 24(3)](https://www.legislation.gov.uk/nia/2011/23/section/24/3), [78](https://www.legislation.gov.uk/nia/2011/23/section/78) (with [s. 25](https://www.legislation.gov.uk/nia/2011/23/section/25)); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-d31ab0dfe212ba512a0d6d35af89cba4]: Textual amendment: Words in [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/nisi/1994/1896/schedule/1/paragraph/4/1) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 24(4)(a)(i)](https://www.legislation.gov.uk/nia/2011/23/section/24/4/a/i), [78](https://www.legislation.gov.uk/nia/2011/23/section/78) (with [s. 25](https://www.legislation.gov.uk/nia/2011/23/section/25)); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-d31ab0dfe212ba512a0d6d35af89cba4]: Textual amendment: Words in [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/nisi/1994/1896/schedule/1/paragraph/4/1) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 24(4)(a)(i)](https://www.legislation.gov.uk/nia/2011/23/section/24/4/a/i), [78](https://www.legislation.gov.uk/nia/2011/23/section/78) (with [s. 25](https://www.legislation.gov.uk/nia/2011/23/section/25)); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-cf02c741c1a61492c894e472035687ff]: Textual amendment: Words in [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/nisi/1994/1896/schedule/1/paragraph/4/1) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 24(4)(a)(ii)](https://www.legislation.gov.uk/nia/2011/23/section/24/4/a/ii), [78](https://www.legislation.gov.uk/nia/2011/23/section/78) (with [s. 25](https://www.legislation.gov.uk/nia/2011/23/section/25)); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-cf02c741c1a61492c894e472035687ff]: Textual amendment: Words in [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/nisi/1994/1896/schedule/1/paragraph/4/1) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 24(4)(a)(ii)](https://www.legislation.gov.uk/nia/2011/23/section/24/4/a/ii), [78](https://www.legislation.gov.uk/nia/2011/23/section/78) (with [s. 25](https://www.legislation.gov.uk/nia/2011/23/section/25)); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-374bee76a5349cb0ea6502185910938b]: Textual amendment: Words in [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/nisi/1994/1896/schedule/1/paragraph/4/2) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 24(4)(b)](https://www.legislation.gov.uk/nia/2011/23/section/24/4/b), [78](https://www.legislation.gov.uk/nia/2011/23/section/78) (with [s. 25](https://www.legislation.gov.uk/nia/2011/23/section/25)); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-374bee76a5349cb0ea6502185910938b]: Textual amendment: Words in [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/nisi/1994/1896/schedule/1/paragraph/4/2) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 24(4)(b)](https://www.legislation.gov.uk/nia/2011/23/section/24/4/b), [78](https://www.legislation.gov.uk/nia/2011/23/section/78) (with [s. 25](https://www.legislation.gov.uk/nia/2011/23/section/25)); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-999194506e01f12261b1ff9cf488c9ee]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/nisi/1994/1896/schedule/1/paragraph/5) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 24(5)](https://www.legislation.gov.uk/nia/2011/23/section/24/5), [78](https://www.legislation.gov.uk/nia/2011/23/section/78) (with [s. 25](https://www.legislation.gov.uk/nia/2011/23/section/25)); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-999194506e01f12261b1ff9cf488c9ee]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/nisi/1994/1896/schedule/1/paragraph/5) inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 24(5)](https://www.legislation.gov.uk/nia/2011/23/section/24/5), [78](https://www.legislation.gov.uk/nia/2011/23/section/78) (with [s. 25](https://www.legislation.gov.uk/nia/2011/23/section/25)); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-b61184edd9b8ef5bb66e1bf3ca76a82b]: Textual amendment: Sch. 1A inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 21(3)](https://www.legislation.gov.uk/nia/2011/23/section/21/3), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-b61184edd9b8ef5bb66e1bf3ca76a82b]: Textual amendment: Sch. 1A inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 21(3)](https://www.legislation.gov.uk/nia/2011/23/section/21/3), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

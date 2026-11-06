@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Revocations and savings[^key-b14db7ca75e228b1423aaa149594ab49]
+## 3. Revocations and savings[^c-b14db7ca75e228b1423aaa149594ab49]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b14db7ca75e228b1423aaa149594ab49]: Commencement: Reg. 3 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-b14db7ca75e228b1423aaa149594ab49]: Commencement: Reg. 3 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

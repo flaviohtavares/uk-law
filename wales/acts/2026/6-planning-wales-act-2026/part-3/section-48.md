@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Outline planning permission[^key-aaed252602f2ac7ddc7eb94cbd1ae436]
+## 48. Outline planning permission[^c-aaed252602f2ac7ddc7eb94cbd1ae436]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaed252602f2ac7ddc7eb94cbd1ae436]: Commencement: S. 48 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-aaed252602f2ac7ddc7eb94cbd1ae436]: Commencement: S. 48 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

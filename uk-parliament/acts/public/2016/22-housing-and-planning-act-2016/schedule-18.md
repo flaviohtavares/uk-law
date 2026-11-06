@@ -24,9 +24,9 @@ Section 199
 
 ### PART 1 — Amendments to Compulsory Purchase (Vesting Declarations) Act 1981
 
-**1.**[^key-7eb867b1d0980081da5693e2f10ad63d] The Compulsory Purchase (Vesting Declarations) Act 1981 is amended as follows.
+**1.**[^c-7eb867b1d0980081da5693e2f10ad63d] The Compulsory Purchase (Vesting Declarations) Act 1981 is amended as follows.
 
-**2.**[^key-bbda59e24092504afce1ac7f197a1111] In section 4 (execution of declaration), for subsection (3), substitute—
+**2.**[^c-bbda59e24092504afce1ac7f197a1111] In section 4 (execution of declaration), for subsection (3), substitute—
 
 > (3) For the purposes of this Act the “**vesting date**” in relation to any land that is actually specified in a general vesting declaration is—
 >
@@ -35,7 +35,7 @@ Section 199
 >
 > (4) For the purposes of this Act, the “vesting date” for any land that is deemed to have been specified in a general vesting declaration by Schedule A1 is the day determined as the vesting date for the land in accordance with that Schedule.
 
-**3.**[^key-e013c5f4d75a48a122d63ab6ced59faf] In section 7 (constructive notice to treat), for subsection (1) substitute—
+**3.**[^c-e013c5f4d75a48a122d63ab6ced59faf] In section 7 (constructive notice to treat), for subsection (1) substitute—
 
 > (1) On the vesting date the provisions of—
 >
@@ -45,11 +45,11 @@ Section 199
 >
 > shall apply as if, on the date on which the general vesting declaration was executed, a notice to treat had been served on every person on whom, under section 5 of the Compulsory Purchase Act 1965, the acquiring authority could have served such a notice, other than any person entitled to a minor tenancy or a long tenancy which is about to expire.
 
-**4.**[^key-7262991c536adfeab05a727d93d4cf1e] In section 8 (vesting and the right to enter on and take possession), in subsection (1), for the words before paragraph (a) substitute “ Any land specified in the general vesting declaration, together with the right to enter upon and take possession of it, shall, subject to section 9 below, vest in the acquiring authority on the vesting date in relation to that land as if— ”.
+**4.**[^c-7262991c536adfeab05a727d93d4cf1e] In section 8 (vesting and the right to enter on and take possession), in subsection (1), for the words before paragraph (a) substitute “ Any land specified in the general vesting declaration, together with the right to enter upon and take possession of it, shall, subject to section 9 below, vest in the acquiring authority on the vesting date in relation to that land as if— ”.
 
-**5.**[^key-a6a47ca192c83d88b723f26e3011c167] In section 12 (divided land), for “Schedule 1” substitute “ Schedules A1 and 1 ”.
+**5.**[^c-a6a47ca192c83d88b723f26e3011c167] In section 12 (divided land), for “Schedule 1” substitute “ Schedules A1 and 1 ”.
 
-**6.**[^key-abab99a41ebc258573c7fe37ee9f6260] Before Schedule 1 insert—
+**6.**[^c-abab99a41ebc258573c7fe37ee9f6260] Before Schedule 1 insert—
 
 > **SCHEDULE A1 — Counter-notice requiring purchase of land not in general vesting declaration**
 >
@@ -175,9 +175,9 @@ Section 199
 >
 > (5) Any dispute as to the compensation is to be determined by the Upper Tribunal.
 
-**7.**[^key-bef9777c0b941a0d5a4ea094ad88d98c] In Schedule 1 (divided land) omit Part 1 (buildings and gardens etc).
+**7.**[^c-bef9777c0b941a0d5a4ea094ad88d98c] In Schedule 1 (divided land) omit Part 1 (buildings and gardens etc).
 
-**8.**[^key-cae34b37cdd35b82df70d95cb8d6902f] In Schedule 2 (vesting of land in urban development corporation), for paragraph 4 substitute—
+**8.**[^c-cae34b37cdd35b82df70d95cb8d6902f] In Schedule 2 (vesting of land in urban development corporation), for paragraph 4 substitute—
 
 > **4.** In Schedule A1, for paragraph 3 there is to be substituted—
 >
@@ -185,7 +185,7 @@ Section 199
 
 ### PART 2 — Consequential amendments
 
-**9.**[^key-0167ac508a45a8d6287654dfbc90e8f2] In section 5A of the Land Compensation Act 1961 (relevant valuation date), after subsection (5A) (inserted by Schedule 17 to this Act) insert—
+**9.**[^c-0167ac508a45a8d6287654dfbc90e8f2] In section 5A of the Land Compensation Act 1961 (relevant valuation date), after subsection (5A) (inserted by Schedule 17 to this Act) insert—
 
 > (5B) If—
 >
@@ -200,20 +200,20 @@ Section 199
 
 ## Annotations
 
-[^key-7eb867b1d0980081da5693e2f10ad63d]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/1) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-7eb867b1d0980081da5693e2f10ad63d]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/1) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
 
-[^key-bbda59e24092504afce1ac7f197a1111]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/2) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-bbda59e24092504afce1ac7f197a1111]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/2) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
 
-[^key-e013c5f4d75a48a122d63ab6ced59faf]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/3) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-e013c5f4d75a48a122d63ab6ced59faf]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/3) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
 
-[^key-7262991c536adfeab05a727d93d4cf1e]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/4) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-7262991c536adfeab05a727d93d4cf1e]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/4) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
 
-[^key-a6a47ca192c83d88b723f26e3011c167]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/5) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-a6a47ca192c83d88b723f26e3011c167]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/5) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
 
-[^key-abab99a41ebc258573c7fe37ee9f6260]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/6) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-abab99a41ebc258573c7fe37ee9f6260]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/6) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
 
-[^key-bef9777c0b941a0d5a4ea094ad88d98c]: Commencement: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/7) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-bef9777c0b941a0d5a4ea094ad88d98c]: Commencement: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/7) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
 
-[^key-cae34b37cdd35b82df70d95cb8d6902f]: Commencement: [Sch. 18 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/8) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-cae34b37cdd35b82df70d95cb8d6902f]: Commencement: [Sch. 18 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/8) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
 
-[^key-0167ac508a45a8d6287654dfbc90e8f2]: Commencement: [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/9) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k)
+[^c-0167ac508a45a8d6287654dfbc90e8f2]: Commencement: [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2016/22/schedule/18/paragraph/9) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/k)

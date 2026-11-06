@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Reparation order: availability[^key-3bab7c05d2692e982cdfbfc531b7902f]
+## 110. Reparation order: availability[^c-3bab7c05d2692e982cdfbfc531b7902f]
 
 *Extent: E+W*
 
 (1) A reparation order is available to a court dealing with an offender for an offence where—
 
-- (za)[^key-c45687850b30ae5ddb72ad4712341cdc] the offender is convicted of the offence before the day on which section 162 of the Police, Crime, Sentencing and Courts Act 2022 comes into force,
+- (za)[^c-c45687850b30ae5ddb72ad4712341cdc] the offender is convicted of the offence before the day on which section 162 of the Police, Crime, Sentencing and Courts Act 2022 comes into force,
 - (a) the offender is aged under 18 when convicted,
 - (b) the offence is not an offence the sentence for which is fixed by law, and
 - (c) the court is not proposing to—
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3bab7c05d2692e982cdfbfc531b7902f]: Commencement: S. 110 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3bab7c05d2692e982cdfbfc531b7902f]: Commencement: S. 110 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c45687850b30ae5ddb72ad4712341cdc]: Textual amendment: [S. 110(1)(za)](https://www.legislation.gov.uk/ukpga/2020/17/section/110/1/za) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 162](https://www.legislation.gov.uk/ukpga/2022/32/section/162), [208(5)(v)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/v)
+[^c-c45687850b30ae5ddb72ad4712341cdc]: Textual amendment: [S. 110(1)(za)](https://www.legislation.gov.uk/ukpga/2020/17/section/110/1/za) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 162](https://www.legislation.gov.uk/ukpga/2022/32/section/162), [208(5)(v)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/v)

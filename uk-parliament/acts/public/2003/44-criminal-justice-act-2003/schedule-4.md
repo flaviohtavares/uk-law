@@ -176,7 +176,7 @@ Section 62
 
 **33.** An offence under section 2 of the Aviation Security Act 1982.
 
-##### Hijacking of spacecraft[^key-21701bd5a4315eff50103bb0129d42ce]
+##### Hijacking of spacecraft[^c-21701bd5a4315eff50103bb0129d42ce]
 
 **33A.** An offence under paragraph 1 of Schedule 4 to the Space Industry Act 2018.
 
@@ -220,4 +220,4 @@ Section 62
 
 [^c19795901]: Textual amendment: Sch. 4 para. 4A and cross-heading inserted (6.4.2008) by [Corporate Manslaughter and Corporate Homicide Act 2007 (c. 19)](https://www.legislation.gov.uk/ukpga/2007/19), [ss. 26](https://www.legislation.gov.uk/ukpga/2007/19/section/26), [27](https://www.legislation.gov.uk/ukpga/2007/19/section/27), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2007/19/schedule/2/paragraph/2); [S.I. 2008/401](https://www.legislation.gov.uk/uksi/2008/401), [art. 2](https://www.legislation.gov.uk/uksi/2008/401/article/2)
 
-[^key-21701bd5a4315eff50103bb0129d42ce]: Textual amendment: Sch. 4 paras. 33A, 33B inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 24](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/24); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-21701bd5a4315eff50103bb0129d42ce]: Textual amendment: Sch. 4 paras. 33A, 33B inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 24](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/24); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

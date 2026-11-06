@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Search and seizure warrants: assault and obstruction offences[^key-4ff6819a872fa2097953c8397b927cdb][^key-e539fda3e0b494c79c4f7966e798bd97][^key-d84d68594df853a944298cbf32d959e2][^c22725251]
+## 22. Search and seizure warrants: assault and obstruction offences[^c-4ff6819a872fa2097953c8397b927cdb][^c-e539fda3e0b494c79c4f7966e798bd97][^c-d84d68594df853a944298cbf32d959e2][^c22725251]
 
 *Extent: E+W+N.I.*
 
@@ -50,10 +50,10 @@ After section 356 of the Proceeds of Crime Act 2002 (and before the italic headi
 
 ## Annotations
 
-[^key-4ff6819a872fa2097953c8397b927cdb]: Commencement: S. 22 in force at 31.1.2018 for specified purposes for E.W. by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/g)
+[^c-4ff6819a872fa2097953c8397b927cdb]: Commencement: S. 22 in force at 31.1.2018 for specified purposes for E.W. by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/g)
 
-[^key-e539fda3e0b494c79c4f7966e798bd97]: Commencement: S. 22 in force at 28.6.2021 for specified purposes for E.W. by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/2/a)
+[^c-e539fda3e0b494c79c4f7966e798bd97]: Commencement: S. 22 in force at 28.6.2021 for specified purposes for E.W. by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/2/a)
 
-[^key-d84d68594df853a944298cbf32d959e2]: Commencement: S. 22 in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/j)
+[^c-d84d68594df853a944298cbf32d959e2]: Commencement: S. 22 in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/j)
 
 [^c22725251]: Commencement: S. 22 in force at Royal Assent for specified purposes, see s. 58

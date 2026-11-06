@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. Offence to impersonate inspector[^key-243421b36a25d31f1b27147fa6801b4f]
+## 225. Offence to impersonate inspector[^c-243421b36a25d31f1b27147fa6801b4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ It is an offence to impersonate an inspector.
 
 ## Annotations
 
-[^key-243421b36a25d31f1b27147fa6801b4f]: Commencement: Reg. 225 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-243421b36a25d31f1b27147fa6801b4f]: Commencement: Reg. 225 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

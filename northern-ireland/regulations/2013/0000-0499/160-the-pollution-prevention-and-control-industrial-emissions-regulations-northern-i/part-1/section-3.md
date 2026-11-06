@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Interpretation: “best available techniques” or “BAT”[^key-9c81458d377aba9b79ee59ab077fa664]
+## 3. Interpretation: “best available techniques” or “BAT”[^c-9c81458d377aba9b79ee59ab077fa664]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c81458d377aba9b79ee59ab077fa664]: Commencement: Reg. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-9c81458d377aba9b79ee59ab077fa664]: Commencement: Reg. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

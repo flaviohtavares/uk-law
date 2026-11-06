@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Duties in respect of research: business plan and annual report etc[^key-05365d8b2bb51e57bc0e71af2cbe2a3f][^key-b784330a8158e08a433325dc66319ec8]
+## 7. Duties in respect of research: business plan and annual report etc[^c-05365d8b2bb51e57bc0e71af2cbe2a3f][^c-b784330a8158e08a433325dc66319ec8]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-05365d8b2bb51e57bc0e71af2cbe2a3f]: Commencement: S. 7 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-05365d8b2bb51e57bc0e71af2cbe2a3f]: Commencement: S. 7 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-b784330a8158e08a433325dc66319ec8]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/31/section/7) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b784330a8158e08a433325dc66319ec8]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/31/section/7) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

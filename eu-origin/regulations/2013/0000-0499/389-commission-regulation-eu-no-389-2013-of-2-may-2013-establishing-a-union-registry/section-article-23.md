@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 23. Authorised representatives[^key-00ee9ca0294cdf9a50b40e7087c81d09]
+## Article 23. Authorised representatives[^c-00ee9ca0294cdf9a50b40e7087c81d09]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00ee9ca0294cdf9a50b40e7087c81d09]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/eur/2013/389/article/23) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(14)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/14)
+[^c-00ee9ca0294cdf9a50b40e7087c81d09]: Textual amendment: [Art. 23](https://www.legislation.gov.uk/eur/2013/389/article/23) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(14)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/14)

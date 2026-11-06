@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Non-financial penalties: general[^key-b3aa647a4258c103eb8b12629d6e8a91]
+## 95. Non-financial penalties: general[^c-b3aa647a4258c103eb8b12629d6e8a91]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3aa647a4258c103eb8b12629d6e8a91]: Commencement: Art. 95 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-b3aa647a4258c103eb8b12629d6e8a91]: Commencement: Art. 95 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

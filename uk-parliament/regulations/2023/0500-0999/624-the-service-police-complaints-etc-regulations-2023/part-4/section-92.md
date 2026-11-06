@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Requirements for making super-complaints[^key-3c954bcc440c160e088197e8ee63d78b]
+## 92. Requirements for making super-complaints[^c-3c954bcc440c160e088197e8ee63d78b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c954bcc440c160e088197e8ee63d78b]: Commencement: Reg. 92 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-3c954bcc440c160e088197e8ee63d78b]: Commencement: Reg. 92 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

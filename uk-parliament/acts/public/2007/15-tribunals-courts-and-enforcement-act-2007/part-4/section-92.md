@@ -111,7 +111,7 @@ summary: ''
 >
 > (2) If the lapsed order was made by the High Court, the proper authority is the High Court.
 >
-> (3) If the lapsed order was made by the county court[^key-4045d7419762192dcff9d8b5636f2b76], the proper authority is the county court.
+> (3) If the lapsed order was made by the county court[^c-4045d7419762192dcff9d8b5636f2b76], the proper authority is the county court.
 >
 > (4) If the lapsed order was made by a magistrates' court under this Act, the proper authority is—
 >
@@ -125,10 +125,10 @@ summary: ''
 
 (2) This section applies in relation to any attachment of earnings order, whether made before or after the commencement of this section.
 
-(3) In relation to an offence committed before 2 May 2022[^key-795f05a51d085fbb45926a54959cabf8], the reference in section 15B(10)(b) of the Attachment of Earnings Act 1971 (c. 32) to 12 months is to be read as a reference to 6 months.
+(3) In relation to an offence committed before 2 May 2022[^c-795f05a51d085fbb45926a54959cabf8], the reference in section 15B(10)(b) of the Attachment of Earnings Act 1971 (c. 32) to 12 months is to be read as a reference to 6 months.
 
 ## Annotations
 
-[^key-4045d7419762192dcff9d8b5636f2b76]: Textual amendment: Words in s. 92(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-4045d7419762192dcff9d8b5636f2b76]: Textual amendment: Words in s. 92(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-795f05a51d085fbb45926a54959cabf8]: Textual amendment: Words in [s. 92(3)](https://www.legislation.gov.uk/ukpga/2007/15/section/92/3) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-795f05a51d085fbb45926a54959cabf8]: Textual amendment: Words in [s. 92(3)](https://www.legislation.gov.uk/ukpga/2007/15/section/92/3) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Administration of senior managers regime[^key-cb54702b52e4794a8743ed2726cd15f3]
+## 23. Administration of senior managers regime[^c-cb54702b52e4794a8743ed2726cd15f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb54702b52e4794a8743ed2726cd15f3]: Commencement: S. 23 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(q)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/q)
+[^c-cb54702b52e4794a8743ed2726cd15f3]: Commencement: S. 23 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(q)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/q)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) Any person who executes works for the construction of a major pipe-line—
 
-- (a) without the consent of the Authority[^key-861e71d9d07a2ca5ebae0c6061b8db6d] granted under this Article; or
+- (a) without the consent of the Authority[^c-861e71d9d07a2ca5ebae0c6061b8db6d] granted under this Article; or
 - (b) otherwise than in accordance with the conditions subject to which the consent of the Authority is granted under this Article,
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
@@ -32,7 +32,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 - (a) will exceed 7 kilometres in length; and
 - (b) will have a design operating pressure exceeding 7 bar gauge.
 
-(3) The Authority[^key-9c729b670a0c3e162d06db9a77d33cda] may by regulations amend the definition of major pipe-line in paragraph (2).
+(3) The Authority[^c-9c729b670a0c3e162d06db9a77d33cda] may by regulations amend the definition of major pipe-line in paragraph (2).
 
 (4) An application for the consent of the Authority under this Article shall—
 
@@ -47,12 +47,12 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 - (a) name a place where a copy of the application (and the map accompanying it) may be inspected free of charge, and copies thereof may be obtained on payment of a reasonable charge, at all reasonable hours; and
 - (b) specify a time within which representations concerning the application may be made to the Authority.
 
-(7) After considering any such representations duly made to it, the Authority[^key-0ea6fbcde8b928fbe2b45de1703262f5] may grant consent under this Article to the applicant or may refuse such consent.
+(7) After considering any such representations duly made to it, the Authority[^c-0ea6fbcde8b928fbe2b45de1703262f5] may grant consent under this Article to the applicant or may refuse such consent.
 
 (8) A consent granted under this Article—
 
 - (a) shall remain in force for such period as may be specified in or determined under the consent; and
-- (b) may be granted subject to such conditions (to be specified therein) as the Authority[^key-1a94e4a2092a58e6c0f3713e0e63358d] thinks fit.
+- (b) may be granted subject to such conditions (to be specified therein) as the Authority[^c-1a94e4a2092a58e6c0f3713e0e63358d] thinks fit.
 
 (9) Without prejudice to the generality of paragraph (8)(b), a consent under this Article may be granted subject to conditions—
 
@@ -63,7 +63,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 (10) Paragraph (11) applies where—
 
-- (a) representations concerning an application are duly made to the Authority[^key-48c7405f42c975a4c3ba0a6654df2e2b] under paragraph (6); and
+- (a) representations concerning an application are duly made to the Authority[^c-48c7405f42c975a4c3ba0a6654df2e2b] under paragraph (6); and
 - (b) a consent granted in pursuance of that application indicates that specified conditions are, or are to a specified extent, attributable solely to such representations;
 
 and references in paragraphs (11) and (12) to “additional conditions” are references to conditions specified under sub-paragraph (b) or (as the case may be) to such conditions to the extent so specified.
@@ -77,20 +77,20 @@ and references in paragraphs (11) and (12) to “additional conditions” are re
 
 (13) In paragraphs (9) to (12) “specified” means specified in the consent.
 
-(14) Sums received by the Authority[^key-57ac5e7d58a24afc4cb760b933727492] under this Article shall be paid into the Consolidated Fund.
+(14) Sums received by the Authority[^c-57ac5e7d58a24afc4cb760b933727492] under this Article shall be paid into the Consolidated Fund.
 
 ## Annotations
 
 [^M_F_e8d74d77-ee75-4f4b-d9cf-a21b5433fb53]: Textual amendment: Word in art. 35 heading substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/5/a)
 
-[^key-861e71d9d07a2ca5ebae0c6061b8db6d]: Textual amendment: Word in [art. 35(1)](https://www.legislation.gov.uk/nisi/1996/275/article/35/1) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(5)(a)(i)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/5/a/i)
+[^c-861e71d9d07a2ca5ebae0c6061b8db6d]: Textual amendment: Word in [art. 35(1)](https://www.legislation.gov.uk/nisi/1996/275/article/35/1) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(5)(a)(i)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/5/a/i)
 
-[^key-9c729b670a0c3e162d06db9a77d33cda]: Textual amendment: Word in [art. 35(3)-(6)](https://www.legislation.gov.uk/nisi/1996/275/article/35/3) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/5/a/ii)
+[^c-9c729b670a0c3e162d06db9a77d33cda]: Textual amendment: Word in [art. 35(3)-(6)](https://www.legislation.gov.uk/nisi/1996/275/article/35/3) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/5/a/ii)
 
-[^key-0ea6fbcde8b928fbe2b45de1703262f5]: Textual amendment: Words in [art. 35(7)](https://www.legislation.gov.uk/nisi/1996/275/article/35/7) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/5/b)
+[^c-0ea6fbcde8b928fbe2b45de1703262f5]: Textual amendment: Words in [art. 35(7)](https://www.legislation.gov.uk/nisi/1996/275/article/35/7) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/5/b)
 
-[^key-1a94e4a2092a58e6c0f3713e0e63358d]: Textual amendment: Word in [art. 35(8)](https://www.legislation.gov.uk/nisi/1996/275/article/35/8) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(5)(a)(iii)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/5/a/iii)
+[^c-1a94e4a2092a58e6c0f3713e0e63358d]: Textual amendment: Word in [art. 35(8)](https://www.legislation.gov.uk/nisi/1996/275/article/35/8) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(5)(a)(iii)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/5/a/iii)
 
-[^key-48c7405f42c975a4c3ba0a6654df2e2b]: Textual amendment: Word in [art. 35(10)-(12)](https://www.legislation.gov.uk/nisi/1996/275/article/35/10) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(5)(a)(iv)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/5/a/iv)
+[^c-48c7405f42c975a4c3ba0a6654df2e2b]: Textual amendment: Word in [art. 35(10)-(12)](https://www.legislation.gov.uk/nisi/1996/275/article/35/10) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(5)(a)(iv)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/5/a/iv)
 
-[^key-57ac5e7d58a24afc4cb760b933727492]: Textual amendment: Word in [art. 35(14)](https://www.legislation.gov.uk/nisi/1996/275/article/35/14) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(5)(a)(v)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/5/a/v)
+[^c-57ac5e7d58a24afc4cb760b933727492]: Textual amendment: Word in [art. 35(14)](https://www.legislation.gov.uk/nisi/1996/275/article/35/14) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [4(5)(a)(v)](https://www.legislation.gov.uk/nisr/2020/279/regulation/4/5/a/v)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Entry to Crown land[^key-05daeac98d5fcd5d45466557236463a6]
+## 70. Entry to Crown land[^c-05daeac98d5fcd5d45466557236463a6]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05daeac98d5fcd5d45466557236463a6]: Commencement: S. 70 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-05daeac98d5fcd5d45466557236463a6]: Commencement: S. 70 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

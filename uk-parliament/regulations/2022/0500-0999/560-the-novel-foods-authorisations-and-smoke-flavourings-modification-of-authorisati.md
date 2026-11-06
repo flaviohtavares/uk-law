@@ -32,7 +32,7 @@ summary: ''
 
 Food, England
 
-The Novel Foods (Authorisations) and Smoke Flavourings (Modification of Authorisations) (England) Regulations 2022 (revoked)[^key-b33c386b004e9c9fe0be064774e8b90f]
+The Novel Foods (Authorisations) and Smoke Flavourings (Modification of Authorisations) (England) Regulations 2022 (revoked)[^c-b33c386b004e9c9fe0be064774e8b90f]
 
 Made
 
@@ -44,58 +44,58 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-b33c386b004e9c9fe0be064774e8b90f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b33c386b004e9c9fe0be064774e8b90f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-b33c386b004e9c9fe0be064774e8b90f]
+## 1. Citation, commencement, extent and application[^c-b33c386b004e9c9fe0be064774e8b90f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Commission Implementing Regulation (EU) 2017/2470[^key-b33c386b004e9c9fe0be064774e8b90f]
+## 2. Amendment of Commission Implementing Regulation (EU) 2017/2470[^c-b33c386b004e9c9fe0be064774e8b90f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Commission Implementing Regulation (EU) No 1321/2013[^key-b33c386b004e9c9fe0be064774e8b90f]
+## 3. Amendment of Commission Implementing Regulation (EU) No 1321/2013[^c-b33c386b004e9c9fe0be064774e8b90f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b33c386b004e9c9fe0be064774e8b90f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b33c386b004e9c9fe0be064774e8b90f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-b33c386b004e9c9fe0be064774e8b90f]
+## SCHEDULE 1[^c-b33c386b004e9c9fe0be064774e8b90f]
 
 Regulation 2(2)(b)
 
-## SCHEDULE 2[^key-b33c386b004e9c9fe0be064774e8b90f]
+## SCHEDULE 2[^c-b33c386b004e9c9fe0be064774e8b90f]
 
 Regulation 2(2)(c)
 
-## SCHEDULE 3[^key-b33c386b004e9c9fe0be064774e8b90f]
+## SCHEDULE 3[^c-b33c386b004e9c9fe0be064774e8b90f]
 
 Regulation 2(2)(d)
 
-## SCHEDULE 4[^key-b33c386b004e9c9fe0be064774e8b90f]
+## SCHEDULE 4[^c-b33c386b004e9c9fe0be064774e8b90f]
 
 Regulation 2(3)(a)
 
-## SCHEDULE 5[^key-b33c386b004e9c9fe0be064774e8b90f]
+## SCHEDULE 5[^c-b33c386b004e9c9fe0be064774e8b90f]
 
 Regulation 2(3)(b)
 
-## SCHEDULE 6[^key-b33c386b004e9c9fe0be064774e8b90f]
+## SCHEDULE 6[^c-b33c386b004e9c9fe0be064774e8b90f]
 
 Regulation 2(3)(c)
 
-## SCHEDULE 7[^key-b33c386b004e9c9fe0be064774e8b90f]
+## SCHEDULE 7[^c-b33c386b004e9c9fe0be064774e8b90f]
 
 Regulation 2(3)(d)
 
 **May not be in force at this date. Check the source.**
 
-[^key-b33c386b004e9c9fe0be064774e8b90f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b33c386b004e9c9fe0be064774e8b90f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b33c386b004e9c9fe0be064774e8b90f]: Textual amendment: Regulations revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 3 para. (b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/3) (with reg. 23)
+[^c-b33c386b004e9c9fe0be064774e8b90f]: Textual amendment: Regulations revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 3 para. (b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/3) (with reg. 23)

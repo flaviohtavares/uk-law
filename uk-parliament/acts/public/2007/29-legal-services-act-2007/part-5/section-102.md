@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 102. Intervention[^key-da2be94a814bd4290414c12ca68d3fed]
+## 102. Intervention[^c-da2be94a814bd4290414c12ca68d3fed]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 14 confers powers of intervention on licensing authorities.
 
 ## Annotations
 
-[^key-da2be94a814bd4290414c12ca68d3fed]: Commencement: S. 102 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)
+[^c-da2be94a814bd4290414c12ca68d3fed]: Commencement: S. 102 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)

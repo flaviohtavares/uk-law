@@ -33,7 +33,7 @@ SOCIAL CARE, WALES
 
 CHILDREN AND YOUNG PERSONS, WALES
 
-The Children’s Homes (Wales) Regulations 2002 (revoked)[^key-71ade8f5f6c61c754054562decdbd8c0]
+The Children’s Homes (Wales) Regulations 2002 (revoked)[^c-71ade8f5f6c61c754054562decdbd8c0]
 
 Made
 
@@ -43,11 +43,11 @@ Coming into force
 
 1st April 2002
 
-[^key-71ade8f5f6c61c754054562decdbd8c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71ade8f5f6c61c754054562decdbd8c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-71ade8f5f6c61c754054562decdbd8c0]
+### PART 1 — GENERAL[^c-71ade8f5f6c61c754054562decdbd8c0]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ Coming into force
 - [Section 4 — Statement of purpose and children’s guide](part-1/section-4.md)
 - [Section 5 — Review of the statement of purpose and children’s guide](part-1/section-5.md)
 
-### PART II — REGISTERED PERSONS[^key-71ade8f5f6c61c754054562decdbd8c0]
+### PART II — REGISTERED PERSONS[^c-71ade8f5f6c61c754054562decdbd8c0]
 
 *Extent: E+W*
 
@@ -71,13 +71,13 @@ Coming into force
 - [Section 9 — Registered person — general requirements](part-ii/section-9.md)
 - [Section 10 — Notification of offences](part-ii/section-10.md)
 
-### PART III — CONDUCT OF CHILDREN'S HOMES[^key-71ade8f5f6c61c754054562decdbd8c0]
+### PART III — CONDUCT OF CHILDREN'S HOMES[^c-71ade8f5f6c61c754054562decdbd8c0]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### CHAPTER 1 — WELFARE OF CHILDREN[^key-71ade8f5f6c61c754054562decdbd8c0]
+#### CHAPTER 1 — WELFARE OF CHILDREN[^c-71ade8f5f6c61c754054562decdbd8c0]
 
 *Extent: E+W*
 
@@ -98,7 +98,7 @@ Coming into force
 - [Section 23 — Hazards and safety](part-iii/section-23.md)
 - [Section 24 — Representations and complaints](part-iii/section-24.md)
 
-#### CHAPTER 2 — STAFFING[^key-71ade8f5f6c61c754054562decdbd8c0]
+#### CHAPTER 2 — STAFFING[^c-71ade8f5f6c61c754054562decdbd8c0]
 
 *Extent: E+W*
 
@@ -108,7 +108,7 @@ Coming into force
 - [Section 26 — Fitness of workers](part-iii/section-26.md)
 - [Section 27 — Employment of staff](part-iii/section-27.md)
 
-#### CHAPTER 3 — RECORDS[^key-71ade8f5f6c61c754054562decdbd8c0]
+#### CHAPTER 3 — RECORDS[^c-71ade8f5f6c61c754054562decdbd8c0]
 
 *Extent: E+W*
 
@@ -118,7 +118,7 @@ Coming into force
 - [Section 29 — Notifiable events](part-iii/section-29.md)
 - [Section 29A — Notification with respect to the death of a child accommodated in a secure children’s home](part-iii/section-29a.md)
 
-### PART IV — PREMISES[^key-71ade8f5f6c61c754054562decdbd8c0]
+### PART IV — PREMISES[^c-71ade8f5f6c61c754054562decdbd8c0]
 
 *Extent: E+W*
 
@@ -127,7 +127,7 @@ Coming into force
 - [Section 30 — Fitness of premises](part-iv/section-30.md)
 - [Section 31 — Fire precautions](part-iv/section-31.md)
 
-### PART V — MANAGEMENT OF HOMES[^key-71ade8f5f6c61c754054562decdbd8c0]
+### PART V — MANAGEMENT OF HOMES[^c-71ade8f5f6c61c754054562decdbd8c0]
 
 *Extent: E+W*
 
@@ -138,7 +138,7 @@ Coming into force
 - [Section 34 — Regulations and national minimum standards](part-v/section-34.md)
 - [Section 35 — Financial position](part-v/section-35.md)
 
-### PART VI — MISCELLANEOUS[^key-71ade8f5f6c61c754054562decdbd8c0]
+### PART VI — MISCELLANEOUS[^c-71ade8f5f6c61c754054562decdbd8c0]
 
 *Extent: E+W*
 
@@ -164,12 +164,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-71ade8f5f6c61c754054562decdbd8c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71ade8f5f6c61c754054562decdbd8c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-71ade8f5f6c61c754054562decdbd8c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71ade8f5f6c61c754054562decdbd8c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-71ade8f5f6c61c754054562decdbd8c0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/327) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)
+[^c-71ade8f5f6c61c754054562decdbd8c0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/327) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)

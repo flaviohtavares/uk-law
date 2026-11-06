@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Temporary use of land by UKPN[^key-770a756210422d9c62647d88e41dd4aa]
+## 26. Temporary use of land by UKPN[^c-770a756210422d9c62647d88e41dd4aa]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
   - (ii) any other Order land in respect of the UKPN Works in respect of which no notice of entry has been served under section 11 of the 1965 Act (other than in connection with the acquisition of rights only) and no declaration has been made under section 4 of the 1981 Act;
 - (b) remove any electric line, electrical plant, buildings, structures, pylons, apparatus, equipment, vegetation or any other thing from that land;
 - (c) construct temporary or permanent works (including the provision of means of access and buildings or structures on that land); and
-- (d) construct any works specified in relation to that land in column (2) [^key-1ec76f2d0ad3fd31478a70e80c86c73e]... of Schedule 10 or any other mitigation works.
+- (d) construct any works specified in relation to that land in column (2) [^c-1ec76f2d0ad3fd31478a70e80c86c73e]... of Schedule 10 or any other mitigation works.
 
 (2) Not less than 14 days before entering on and taking temporary possession of land under this article, UKPN must serve notice of the intended entry on the owners and occupiers of the land.
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-770a756210422d9c62647d88e41dd4aa]: Commencement: Art. 26 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-770a756210422d9c62647d88e41dd4aa]: Commencement: Art. 26 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-1ec76f2d0ad3fd31478a70e80c86c73e]: Textual amendment: Words in [art. 26(1)(d)](https://www.legislation.gov.uk/uksi/2024/958/article/26/1/d) omitted (9.4.2025) by virtue of [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-1ec76f2d0ad3fd31478a70e80c86c73e]: Textual amendment: Words in [art. 26(1)(d)](https://www.legislation.gov.uk/uksi/2024/958/article/26/1/d) omitted (9.4.2025) by virtue of [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1

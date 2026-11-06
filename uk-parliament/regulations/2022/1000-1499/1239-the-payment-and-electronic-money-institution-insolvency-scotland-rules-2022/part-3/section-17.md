@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Statement of affairs: content[^key-158ccf8a01d5ed24c3fa5398dc549050]
+## 17. Statement of affairs: content[^c-158ccf8a01d5ed24c3fa5398dc549050]
 
 *Extent: S*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-158ccf8a01d5ed24c3fa5398dc549050]: Commencement: Rule 17 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-158ccf8a01d5ed24c3fa5398dc549050]: Commencement: Rule 17 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Schedule to be inserted in the Reserve Forces Pension Scheme 2005[^key-940932d2e19e3ee3511ea9f61b526b1a]
+## SCHEDULE 5 — Schedule to be inserted in the Reserve Forces Pension Scheme 2005[^c-940932d2e19e3ee3511ea9f61b526b1a]
 
 *Extent: E+W+S+N.I.*
 
@@ -646,7 +646,7 @@ Regulation 34
 
 ## Annotations
 
-[^key-940932d2e19e3ee3511ea9f61b526b1a]: Commencement: Sch. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-940932d2e19e3ee3511ea9f61b526b1a]: Commencement: Sch. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00053]: Footnote: See section 18(2) of the 2013 Act for the meaning of “existing scheme”.
 

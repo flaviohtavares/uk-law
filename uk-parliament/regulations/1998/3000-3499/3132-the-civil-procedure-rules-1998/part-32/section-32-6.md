@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.6. Evidence in proceedings other than at trial[^key-5f403e49df0783ce8ce9cdcd0a4a8f17]
+## 32.6. Evidence in proceedings other than at trial[^c-5f403e49df0783ce8ce9cdcd0a4a8f17]
 
 *Extent: E+W*
 
 (1) Subject to paragraph (2), the general rule is that evidence at hearings other than the trial is to be by witness statement unless the court, a practice direction or any other enactment requires otherwise.
 
-(2) At hearings other than the trial, a party may [^key-a58b76530eebb099f522c87eaf6b53d7]... rely on the matters set out in—
+(2) At hearings other than the trial, a party may [^c-a58b76530eebb099f522c87eaf6b53d7]... rely on the matters set out in—
 
 - (a) his statement of case; or
 - (b) his application notice,
@@ -31,6 +31,6 @@ if the statement of case or application notice is verified by a statement of tru
 
 ## Annotations
 
-[^key-5f403e49df0783ce8ce9cdcd0a4a8f17]: Commencement: [Rule 32.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-5f403e49df0783ce8ce9cdcd0a4a8f17]: Commencement: [Rule 32.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.6) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-a58b76530eebb099f522c87eaf6b53d7]: Textual amendment: Words in [rule 32.6(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.6/2) omitted (2.5.2000) by virtue of [The Civil Procedure (Amendment) Rules 2000 (S.I. 2000/221)](https://www.legislation.gov.uk/uksi/2000/221), [rules 1(b)](https://www.legislation.gov.uk/uksi/2000/221/rule/1/b), [17](https://www.legislation.gov.uk/uksi/2000/221/rule/17)
+[^c-a58b76530eebb099f522c87eaf6b53d7]: Textual amendment: Words in [rule 32.6(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.6/2) omitted (2.5.2000) by virtue of [The Civil Procedure (Amendment) Rules 2000 (S.I. 2000/221)](https://www.legislation.gov.uk/uksi/2000/221), [rules 1(b)](https://www.legislation.gov.uk/uksi/2000/221/rule/1/b), [17](https://www.legislation.gov.uk/uksi/2000/221/rule/17)

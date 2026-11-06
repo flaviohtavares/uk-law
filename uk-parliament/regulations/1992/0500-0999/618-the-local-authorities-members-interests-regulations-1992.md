@@ -48,11 +48,11 @@ Coming into force
 
 The Secretary of State for the Environment, as respects England, theSecretary of State for Wales, as respects Wales, and the Secretary ofState for Scotland, as respects Scotland, in exercise of the powersconferred upon them by sections 19(1), (4)(b) and (6) and 190(1) of theLocal Government and Housing Act 1989[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:—
 
-## 1. Citation and commencement[^key-254f092bf656c858cd9fd0dccdf293d1]
+## 1. Citation and commencement[^c-254f092bf656c858cd9fd0dccdf293d1]
 
 These Regulations may be cited as the Local Authorities (Members'Interests) Regulations 1992 and shall come into force on 8th May 1992.
 
-## 2. Interpretation[^key-3b02b30b6af232bc0456c19733df624b]
+## 2. Interpretation[^c-3b02b30b6af232bc0456c19733df624b]
 
 In these Regulations—
 
@@ -68,7 +68,7 @@ In these Regulations—
 - “land” excludes an easement, servitude, interest or right in or over land which does not carry with it a right for the councillor (alone orjointly with others) to occupy the land or to receive income; and
 - “securities” means securities within the meaning of section 98(1) of the 1972 Act and section 42(1) of the 1973 Act, other than moneys deposited with a building society.
 
-## 3. General notices[^key-de7400c1e4fd6cc0405b24716ab32fc8]
+## 3. General notices[^c-de7400c1e4fd6cc0405b24716ab32fc8]
 
 (1) Each councillor shall, in accordance with paragraphs (2) and (3),give to the proper officer of the authority of which he is a member ageneral notice—
 
@@ -88,11 +88,11 @@ In these Regulations—
 - (a) a committee or sub-committee of the authority; or
 - (b) a joint committee, joint board or other body for the time beingdischarging any of the functions of the authority or appointed to advisethe authority on a matter relating to the discharge of their functions.
 
-## 4. Further notices[^key-4535aa1533611f68cf5d5a6775cdd09a]
+## 4. Further notices[^c-4535aa1533611f68cf5d5a6775cdd09a]
 
 Each councillor shall, within one month of any change to theinformation contained in a notice given by him under these Regulations(including a notice under this regulation), give to the proper officerof the authority of which he is a member a further notice setting outthe details of that change.
 
-## 5. Recording the information[^key-5fe6c561b8c6ed4944aecd67192e9f0a]
+## 5. Recording the information[^c-5fe6c561b8c6ed4944aecd67192e9f0a]
 
 (1) Subject to paragraph (3), the proper officer of an authority shallmaintain records, as prescribed in paragraph (2), of the informationcontained in the notices given to him under regulations 3 and 4.
 
@@ -104,7 +104,7 @@ Each councillor shall, within one month of any change to theinformation containe
 
 (3) Paragraph (1) shall apply to information given by a councillor onlyfor so long as he continues to be a member of the authority in question.
 
-## 6. Inspecting the records[^key-1ad0ac93865a0b339e7b0bb95a502c17]
+## 6. Inspecting the records[^c-1ad0ac93865a0b339e7b0bb95a502c17]
 
 The proper officer shall keep the records open to inspection bymembers of the public without charge at all reasonable hours.
 
@@ -126,7 +126,7 @@ Secretary of State for Scotland
 
 10th March 1992
 
-## SCHEDULE — PRESCRIBED INFORMATION ON MEMBERS' DIRECT AND INDIRECT PECUNIARYINTERESTS[^key-e15d6e8148847f505bf114afb42b3912]
+## SCHEDULE — PRESCRIBED INFORMATION ON MEMBERS' DIRECT AND INDIRECT PECUNIARYINTERESTS[^c-e15d6e8148847f505bf114afb42b3912]
 
 Regulation 3(1)
 
@@ -150,24 +150,24 @@ By virtue of section 19(2) of the Local Government and Housing Act 1989,a member
 
 [^f00001]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-254f092bf656c858cd9fd0dccdf293d1]: Commencement: Reg. 1 in force at 8.5.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/618/regulation/1)
+[^c-254f092bf656c858cd9fd0dccdf293d1]: Commencement: Reg. 1 in force at 8.5.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/618/regulation/1)
 
-[^key-3b02b30b6af232bc0456c19733df624b]: Commencement: Reg. 2 in force at 8.5.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/618/regulation/1)
+[^c-3b02b30b6af232bc0456c19733df624b]: Commencement: Reg. 2 in force at 8.5.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/618/regulation/1)
 
 [^f00002]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 98(1) was amended by the FinancialServices Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60), Schedule 16, paragraph 8.
 
 [^f00003]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65); section 42(1) was amended by the FinancialServices Act 1986, Schedule 16, paragraph 9.
 
-[^key-de7400c1e4fd6cc0405b24716ab32fc8]: Commencement: Reg. 3 in force at 8.5.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/618/regulation/1)
+[^c-de7400c1e4fd6cc0405b24716ab32fc8]: Commencement: Reg. 3 in force at 8.5.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/618/regulation/1)
 
 [^f00004]: Footnote: Section 83 was amended by S.I. [1977/1710](https://www.legislation.gov.uk/uksi/1977/1710), the LocalGovernment Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), Schedule 17, the [Education Reform Act 1988(c.40)](https://www.legislation.gov.uk/ukpga/1988/40), Schedule 13 and the [Local Government and Housing Act 1989(c.42)](https://www.legislation.gov.uk/ukpga/1989/42), section 30(2).
 
 [^f00005]: Footnote: Section 33A was inserted by the Local Government and HousingAct 1989, section 30(1).
 
-[^key-4535aa1533611f68cf5d5a6775cdd09a]: Commencement: Reg. 4 in force at 8.5.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/618/regulation/1)
+[^c-4535aa1533611f68cf5d5a6775cdd09a]: Commencement: Reg. 4 in force at 8.5.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/618/regulation/1)
 
-[^key-5fe6c561b8c6ed4944aecd67192e9f0a]: Commencement: Reg. 5 in force at 8.5.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/618/regulation/1)
+[^c-5fe6c561b8c6ed4944aecd67192e9f0a]: Commencement: Reg. 5 in force at 8.5.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/618/regulation/1)
 
-[^key-1ad0ac93865a0b339e7b0bb95a502c17]: Commencement: Reg. 6 in force at 8.5.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/618/regulation/1)
+[^c-1ad0ac93865a0b339e7b0bb95a502c17]: Commencement: Reg. 6 in force at 8.5.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/618/regulation/1)
 
-[^key-e15d6e8148847f505bf114afb42b3912]: Commencement: Sch. in force at 8.5.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/618/regulation/1)
+[^c-e15d6e8148847f505bf114afb42b3912]: Commencement: Sch. in force at 8.5.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1992/618/regulation/1)

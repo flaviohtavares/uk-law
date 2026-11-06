@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Other provision to be made by regulations[^key-46a65de227106f4e9bca8f09d6f9ec57][^key-ae7629992b02d22ac7175d4d6102fb5b]
+## 64. Other provision to be made by regulations[^c-46a65de227106f4e9bca8f09d6f9ec57][^c-ae7629992b02d22ac7175d4d6102fb5b]
 
 *Extent: E+W*
 
-(1)[^key-17a17b5e747d68d58cf5424963732f4d] Regulations may make provision for the purposes of this group of sections, including provision as to—
+(1)[^c-17a17b5e747d68d58cf5424963732f4d] Regulations may make provision for the purposes of this group of sections, including provision as to—
 
 - (a) the performance by adoption agencies of their functions,
 - (b) the manner in which information may be received, and
@@ -41,16 +41,16 @@ summary: ''
 - (a) to disclose to any person (including an adopted person) at his request any information which the person requires to assist him to make contact with the adoption agency which is the appropriate adoption agency in the case of an adopted person specified in the request (or, as the case may be, in the applicant’s case),
 - (b) to disclose to the appropriate adoption agency any information which the agency requires about any entry relating to the adopted person on the Adoption Contact Register.
 
-(5) Regulations may provide for the payment of a prescribed fee in respect of the disclosure in prescribed circumstances of any information in pursuance of section 60, 61 or 62; but an adopted person may not be required to pay any fee in respect of any information disclosed to him in relation to any person who (but for his adoption) would be related to him by blood (including half-blood) , marriage or civil partnership[^key-c42a683f3ba826832092d211609be737].
+(5) Regulations may provide for the payment of a prescribed fee in respect of the disclosure in prescribed circumstances of any information in pursuance of section 60, 61 or 62; but an adopted person may not be required to pay any fee in respect of any information disclosed to him in relation to any person who (but for his adoption) would be related to him by blood (including half-blood) , marriage or civil partnership[^c-c42a683f3ba826832092d211609be737].
 
 (6) Regulations may provide for the payment of a prescribed fee by an adoption agency obtaining information under subsection (4)(b).
 
 ## Annotations
 
-[^key-46a65de227106f4e9bca8f09d6f9ec57]: Commencement: S. 64 in force at 7.2.2004 for W. by [S.I. 2004/252](https://www.legislation.gov.uk/uksi/2004/252), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/252/article/2/b)
+[^c-46a65de227106f4e9bca8f09d6f9ec57]: Commencement: S. 64 in force at 7.2.2004 for W. by [S.I. 2004/252](https://www.legislation.gov.uk/uksi/2004/252), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/252/article/2/b)
 
-[^key-ae7629992b02d22ac7175d4d6102fb5b]: Commencement: S. 64 in force at 7.12.2004 for E. by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/j)
+[^c-ae7629992b02d22ac7175d4d6102fb5b]: Commencement: S. 64 in force at 7.12.2004 for E. by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/j)
 
-[^key-17a17b5e747d68d58cf5424963732f4d]: Modification: S. 64(1) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
+[^c-17a17b5e747d68d58cf5424963732f4d]: Modification: S. 64(1) applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
 
-[^key-c42a683f3ba826832092d211609be737]: Textual amendment: Words in s. 64(5) substituted (30.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 79(6)](https://www.legislation.gov.uk/ukpga/2004/33/section/79/6), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(9)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/9)
+[^c-c42a683f3ba826832092d211609be737]: Textual amendment: Words in s. 64(5) substituted (30.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 79(6)](https://www.legislation.gov.uk/ukpga/2004/33/section/79/6), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(9)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Appeals[^key-f4d25006f3b2e2a9b15eb505eefda915]
+## 84. Appeals[^c-f4d25006f3b2e2a9b15eb505eefda915]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4d25006f3b2e2a9b15eb505eefda915]: Commencement: [Art. 84](https://www.legislation.gov.uk/uksi/2005/3181/article/84) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-f4d25006f3b2e2a9b15eb505eefda915]: Commencement: [Art. 84](https://www.legislation.gov.uk/uksi/2005/3181/article/84) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

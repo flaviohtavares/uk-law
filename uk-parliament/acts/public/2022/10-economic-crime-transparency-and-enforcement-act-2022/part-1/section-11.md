@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Transfer of documents to Public Record Office[^key-351ddb96e8d5b4fba04d366f14d930f6][^key-23632728120573ac5d1d66e04512a267]
+## 11. Transfer of documents to Public Record Office[^c-351ddb96e8d5b4fba04d366f14d930f6][^c-23632728120573ac5d1d66e04512a267]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Where an overseas entity has been removed from the list of registered overseas e
 
 ## Annotations
 
-[^key-351ddb96e8d5b4fba04d366f14d930f6]: Commencement: S. 11 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-351ddb96e8d5b4fba04d366f14d930f6]: Commencement: S. 11 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-23632728120573ac5d1d66e04512a267]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/10/section/11) in force at 12.10.2022 by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-23632728120573ac5d1d66e04512a267]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/10/section/11) in force at 12.10.2022 by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)

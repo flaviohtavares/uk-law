@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Changes of accounting method.[^key-118cb3c1a2b196cab4d10252ccea6a7b]
+## 90. Changes of accounting method.[^c-118cb3c1a2b196cab4d10252ccea6a7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-118cb3c1a2b196cab4d10252ccea6a7b]: Textual amendment: S. 90 repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2004/12/schedule/10/paragraph/7), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)
+[^c-118cb3c1a2b196cab4d10252ccea6a7b]: Textual amendment: S. 90 repealed (with effect in accordance with s. 52(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2004/12/schedule/10/paragraph/7), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)

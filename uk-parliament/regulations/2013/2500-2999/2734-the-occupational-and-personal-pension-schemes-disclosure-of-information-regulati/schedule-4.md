@@ -55,7 +55,7 @@ Regulation 15(1)
 
 **9.** Where a payment referred to in paragraph 8 has been made, the amount of that payment.
 
-**10.**[^key-5010dcb13a6bbdcdce4d015d278e31c1] Where the trustees are required to publish a report on a website in accordance with regulation 6(1)(b) of the Occupational Pension Schemes (Climate Change Governance and Reporting) Regulations 2021 (climate change reporting and publication requirements), in relation to the most recent report published—
+**10.**[^c-5010dcb13a6bbdcdce4d015d278e31c1] Where the trustees are required to publish a report on a website in accordance with regulation 6(1)(b) of the Occupational Pension Schemes (Climate Change Governance and Reporting) Regulations 2021 (climate change reporting and publication requirements), in relation to the most recent report published—
 
 - (a) the information specified in sub-paragraphs (a) to (d) of regulation 27(2) of these Regulations (provision of information on a website); and
 - (b) a statement explaining any circumstances in which the report will be provided on request in hard copy form.
@@ -64,4 +64,4 @@ Regulation 15(1)
 
 [^c2193114]: Marginal citation: Section 37 was substituted by the 2004 Act, section 250 and amended by the Pensions Act 2008, section 130.
 
-[^key-5010dcb13a6bbdcdce4d015d278e31c1]: Textual amendment: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2013/2734/schedule/4/paragraph/10) inserted (1.10.2021) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Miscellaneous Provisions and Amendments) Regulations 2021 (S.I. 2021/857)](https://www.legislation.gov.uk/uksi/2021/857), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/857/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/857/regulation/4/3)
+[^c-5010dcb13a6bbdcdce4d015d278e31c1]: Textual amendment: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2013/2734/schedule/4/paragraph/10) inserted (1.10.2021) by [The Occupational Pension Schemes (Climate Change Governance and Reporting) (Miscellaneous Provisions and Amendments) Regulations 2021 (S.I. 2021/857)](https://www.legislation.gov.uk/uksi/2021/857), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/857/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/857/regulation/4/3)

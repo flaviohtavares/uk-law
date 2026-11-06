@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Supplementary[^key-3296c043253b00d5ccc51e96d8ca0de7]
+## 28. Supplementary[^c-3296c043253b00d5ccc51e96d8ca0de7]
 
 *Extent: E+W+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 - (a) may discharge the order,
 - (b) may vary the order.
 
-(4) If an officer of a description mentioned in paragraph (a), (b) or (c) of the meaning of appropriate officer (see article 2 (interpretation))[^key-14635c31479a564c90f154be6d93697e] applies for a customer information order, an application to discharge or vary the order may be made by a different officer of the same description[^key-89d9a346cbcfc74392a96342fc46cec8].
+(4) If an officer of a description mentioned in paragraph (a), (b) or (c) of the meaning of appropriate officer (see article 2 (interpretation))[^c-14635c31479a564c90f154be6d93697e] applies for a customer information order, an application to discharge or vary the order may be made by a different officer of the same description[^c-89d9a346cbcfc74392a96342fc46cec8].
 
 (5) References to a person who applied for a customer information order must be construed accordingly.
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3296c043253b00d5ccc51e96d8ca0de7]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2013/2605/article/28) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-3296c043253b00d5ccc51e96d8ca0de7]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2013/2605/article/28) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
-[^key-14635c31479a564c90f154be6d93697e]: Textual amendment: Words in [art. 28(4)](https://www.legislation.gov.uk/uksi/2013/2605/article/28/4) substituted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [11(5)(a)](https://www.legislation.gov.uk/uksi/2018/1078/article/11/5/a)
+[^c-14635c31479a564c90f154be6d93697e]: Textual amendment: Words in [art. 28(4)](https://www.legislation.gov.uk/uksi/2013/2605/article/28/4) substituted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [11(5)(a)](https://www.legislation.gov.uk/uksi/2018/1078/article/11/5/a)
 
-[^key-89d9a346cbcfc74392a96342fc46cec8]: Textual amendment: Words in [art. 28(4)](https://www.legislation.gov.uk/uksi/2013/2605/article/28/4) substituted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [11(5)(b)](https://www.legislation.gov.uk/uksi/2018/1078/article/11/5/b)
+[^c-89d9a346cbcfc74392a96342fc46cec8]: Textual amendment: Words in [art. 28(4)](https://www.legislation.gov.uk/uksi/2013/2605/article/28/4) substituted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [11(5)(b)](https://www.legislation.gov.uk/uksi/2018/1078/article/11/5/b)

@@ -110,12 +110,12 @@ summary: ''
 - (a) in the heading for “30 and 32” substitute “ 30A and 30B ”, and
 - (b) in subsection (1) for “30 or 32” substitute “ 30A or 30B ”.
 
-(4)[^key-1eeeeb7e54506b25402a290c99a9a328] Omit entry 19 in the table in paragraph 1 of Schedule 7 to that Act (power to add entries to the table).
+(4)[^c-1eeeeb7e54506b25402a290c99a9a328] Omit entry 19 in the table in paragraph 1 of Schedule 7 to that Act (power to add entries to the table).
 
-(5)[^key-1eeeeb7e54506b25402a290c99a9a328] In paragraph 2 of Schedule 7 to that Act (power to amend entries in the table) for the words from “any” to the end substitute “ this Schedule ”.
+(5)[^c-1eeeeb7e54506b25402a290c99a9a328] In paragraph 2 of Schedule 7 to that Act (power to amend entries in the table) for the words from “any” to the end substitute “ this Schedule ”.
 
-(6)[^key-1eeeeb7e54506b25402a290c99a9a328] Omit paragraph 3(1)(b) of Schedule 7 to that Act (barring information where certain activities carried on for the purposes of the armed forces of the Crown) and the word “or” before it.
+(6)[^c-1eeeeb7e54506b25402a290c99a9a328] Omit paragraph 3(1)(b) of Schedule 7 to that Act (barring information where certain activities carried on for the purposes of the armed forces of the Crown) and the word “or” before it.
 
 ## Annotations
 
-[^key-1eeeeb7e54506b25402a290c99a9a328]: Commencement: S. 72(4)-(6) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/i)
+[^c-1eeeeb7e54506b25402a290c99a9a328]: Commencement: S. 72(4)-(6) in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/i)

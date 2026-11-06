@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Duties in relation to consultation[^key-51fd57daadbfd3b9037a945e32e6e016]
+## 29. Duties in relation to consultation[^c-51fd57daadbfd3b9037a945e32e6e016]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51fd57daadbfd3b9037a945e32e6e016]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2007/24/section/29) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(f)](https://www.legislation.gov.uk/uksi/2008/113/article/2/f)
+[^c-51fd57daadbfd3b9037a945e32e6e016]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2007/24/section/29) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(f)](https://www.legislation.gov.uk/uksi/2008/113/article/2/f)

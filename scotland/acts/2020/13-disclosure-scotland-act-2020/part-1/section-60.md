@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Form and manner of applications and notices[^key-387a1d81a2554548cf3c152f89c2e5c6]
+## 60. Form and manner of applications and notices[^c-387a1d81a2554548cf3c152f89c2e5c6]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ by using electronic communications.
 
 ## Annotations
 
-[^key-387a1d81a2554548cf3c152f89c2e5c6]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2020/13/section/60) in force at 30.9.2024 by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-387a1d81a2554548cf3c152f89c2e5c6]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2020/13/section/60) in force at 30.9.2024 by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)

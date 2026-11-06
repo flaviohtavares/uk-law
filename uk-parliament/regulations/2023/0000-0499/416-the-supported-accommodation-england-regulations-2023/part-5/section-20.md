@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Safeguarding policy[^key-e5a58f2bcefc801c6d058c45270578c0]
+## 20. Safeguarding policy[^c-e5a58f2bcefc801c6d058c45270578c0]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5a58f2bcefc801c6d058c45270578c0]: Commencement: Reg. 20 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-e5a58f2bcefc801c6d058c45270578c0]: Commencement: Reg. 20 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

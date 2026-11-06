@@ -29,10 +29,10 @@ summary: ''
 
 (3) If the support was provided by another person (“**B**”) in accordance with arrangements made with the Secretary of State under section 95 or 98, the court may order A to pay to the Secretary of State an amount representing the payment to B which would not have been made but for A’s misrepresentation or failure.
 
-(4) “**Court**” means a county court in Northern Ireland or the county court in England and Wales[^key-f3d9d0c4aef484fba68406f286580099] or, in Scotland, the sheriff.
+(4) “**Court**” means a county court in Northern Ireland or the county court in England and Wales[^c-f3d9d0c4aef484fba68406f286580099] or, in Scotland, the sheriff.
 
 ## Annotations
 
 [^c18871871]: Modification: S. 112 applied (with modifications) (prosp.) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 35(1)(f)(2)](https://www.legislation.gov.uk/ukpga/2002/41/section/35/1/f/2), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159))
 
-[^key-f3d9d0c4aef484fba68406f286580099]: Textual amendment: Words in [s. 112(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/112/4) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 90(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/90/c); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-f3d9d0c4aef484fba68406f286580099]: Textual amendment: Words in [s. 112(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/112/4) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 90(c)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/90/c); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

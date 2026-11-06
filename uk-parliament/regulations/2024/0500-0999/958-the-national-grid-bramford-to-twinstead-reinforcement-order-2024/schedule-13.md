@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 13 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-82976968cc576c791e0c1e513d66af1a]
+## SCHEDULE 13 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-82976968cc576c791e0c1e513d66af1a]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ Article 48
 
 ## Annotations
 
-[^key-82976968cc576c791e0c1e513d66af1a]: Commencement: Sch. 13 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-82976968cc576c791e0c1e513d66af1a]: Commencement: Sch. 13 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

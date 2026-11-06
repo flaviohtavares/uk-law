@@ -24,7 +24,7 @@ In regulation 83 (accounting reference period and financial year of transferring
 
 - (a) in the heading, for “SE” substitute “ UK Societas ”;
 - (b) in paragraph (1), in the words before sub-paragraph (a)—
-  - (i) for “an SE transfers” substitute “ a UK Societas had before IP completion day[^key-c77c600e46398bc158e161bedcb2aa07], and while an SE, transferred ”;
+  - (i) for “an SE transfers” substitute “ a UK Societas had before IP completion day[^c-c77c600e46398bc158e161bedcb2aa07], and while an SE, transferred ”;
   - (ii) after “Article 8”, insert “of the EC Regulation, as it had effect at the time of that transfer, that UK Societas's”;
 - (c) in sub-paragraph (1)(a), omit “its”;
 - (d) in sub-paragraph (1)(b)—
@@ -38,4 +38,4 @@ In regulation 83 (accounting reference period and financial year of transferring
 
 [^c23528841]: Marginal citation: Regulation 83 was amended by [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948) and 2009/2400.
 
-[^key-c77c600e46398bc158e161bedcb2aa07]: Textual amendment: Words in [reg. 36(b)(i)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/36/b/i) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/d)
+[^c-c77c600e46398bc158e161bedcb2aa07]: Textual amendment: Words in [reg. 36(b)(i)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/36/b/i) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/d)

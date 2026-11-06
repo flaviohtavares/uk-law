@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11A. Authorised lending and possession of firearms for hunting etc[^key-e580bafcf9712ccf38e7c6916ff7aae3]
+## 11A. Authorised lending and possession of firearms for hunting etc[^c-e580bafcf9712ccf38e7c6916ff7aae3]
 
 *Extent: E+W+S*
 
@@ -51,10 +51,10 @@ summary: ''
 - (b) the lender's firearm certificate authorises the lender to have in his or her possession during that period ammunition of a quantity not less than that purchased or acquired by, and in the possession of, the borrower, and
 - (c) the borrower's possession and use of the ammunition complies with any conditions as to those matters specified in the certificate.
 
-(7)[^key-1dbce02db2c952d6a53eb09bac911e87] Where a rifle is borrowed on any premises in reliance on subsection (1), the borrower may, without holding a certificate under this Act, borrow and have in their possession on those premises a relevant accessory for the period for which the rifle is borrowed.
+(7)[^c-1dbce02db2c952d6a53eb09bac911e87] Where a rifle is borrowed on any premises in reliance on subsection (1), the borrower may, without holding a certificate under this Act, borrow and have in their possession on those premises a relevant accessory for the period for which the rifle is borrowed.
 
 ## Annotations
 
-[^key-e580bafcf9712ccf38e7c6916ff7aae3]: Textual amendment: S. 11A inserted (31.1.2017 for specified purposes, 2.5.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 130(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/130/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/f)
+[^c-e580bafcf9712ccf38e7c6916ff7aae3]: Textual amendment: S. 11A inserted (31.1.2017 for specified purposes, 2.5.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 130(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/130/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/f)
 
-[^key-1dbce02db2c952d6a53eb09bac911e87]: Textual amendment: [S. 11A(7)](https://www.legislation.gov.uk/ukpga/1968/27/section/11A/7) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 5 para. 1(6)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/5/paragraph/1/6); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z8)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z8)
+[^c-1dbce02db2c952d6a53eb09bac911e87]: Textual amendment: [S. 11A(7)](https://www.legislation.gov.uk/ukpga/1968/27/section/11A/7) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 5 para. 1(6)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/5/paragraph/1/6); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z8)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z8)

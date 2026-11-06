@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## PART 1 — Core concepts
 
-### 1. Regulated lobbying[^key-99a3bfc0234169466227928abbce794e]
+### 1. Regulated lobbying[^c-99a3bfc0234169466227928abbce794e]
 
 (1) For the purposes of this Act, a person engages in regulated lobbying if—
 
@@ -58,7 +58,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) add a description of a kind of communications,
 - (b) modify or remove a description so added.
 
-### 2. Government or parliamentary functions[^key-c448843b98ef5518ce61c420932c1a2d]
+### 2. Government or parliamentary functions[^c-c448843b98ef5518ce61c420932c1a2d]
 
 (1) Government or parliamentary functions are—
 
@@ -78,7 +78,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### The register
 
-#### 3. Lobbying register[^key-1ce6bf10945091eef8c6783bbf45a977]
+#### 3. Lobbying register[^c-1ce6bf10945091eef8c6783bbf45a977]
 
 (1) The Clerk must establish and maintain a lobbying register (the “register”), containing information about active registrants, inactive registrants and voluntary registrants.
 
@@ -99,7 +99,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - “**inactive registrant**” means a person entered in the register as an inactive registrant under section 12 or 13,
 - “**voluntary registrant**” means a person entered in the register as a voluntary registrant under section 14.
 
-#### 4. Content of register[^key-dd24157ec01824c80b9093fcf16890ec]
+#### 4. Content of register[^c-dd24157ec01824c80b9093fcf16890ec]
 
 (1) The register must contain an entry for each registrant setting out the information about the registrant's identity mentioned in section 5.
 
@@ -108,40 +108,40 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) the information about the registrant's regulated lobbying activity mentioned in section 6, and
 - (b) additional information provided by the registrant mentioned in section 7.
 
-#### 5. Information about identity[^key-5ee209fb0ebf90b161f2d5f712827ea3]
+#### 5. Information about identity[^c-5ee209fb0ebf90b161f2d5f712827ea3]
 
 The information about the registrant's identity is—
 
 - (a) in the case of an individual—
-  - (i) the individual's name, [^key-570a976348e4bd92c4de440d9eec1df2]...
+  - (i) the individual's name, [^c-570a976348e4bd92c4de440d9eec1df2]...
   - (ii) the address of the individual's main place of business (or, if there is no such place, the individual's residence),
-  - (iii)[^key-2418a4edac1fc15c41bfe6990f9df56a] the individual’s business email address (or, if there is no such email address, the individual's home email address), and
+  - (iii)[^c-2418a4edac1fc15c41bfe6990f9df56a] the individual’s business email address (or, if there is no such email address, the individual's home email address), and
   - (iv) the individual’s main telephone number (if any),
 - (b) in the case of a company (within the meaning of the Companies Act 2006)—
   - (i) the name of the company,
   - (ii) its registered number,
   - (iii) the address of its registered office,
-  - (iv) the names of its directors and of any secretary, [^key-231b4eb353346b313e1c15e15e9996c5]...
+  - (iv) the names of its directors and of any secretary, [^c-231b4eb353346b313e1c15e15e9996c5]...
   - (v) the names of any shadow directors,
-  - (vi)[^key-42018414d160ec510aca924765a4f3f9] its registered email address, and
+  - (vi)[^c-42018414d160ec510aca924765a4f3f9] its registered email address, and
   - (vii) the telephone number (if any) for its registered office,
 
   (each of the expressions in sub-paragraphs (i) to (vi) having the same meaning as in that Act),
 
-  [^key-ce701526fc0ca83cd95cce8e2fde0bfa]...,
+  [^c-ce701526fc0ca83cd95cce8e2fde0bfa]...,
 - (c) in the case of a partnership (including a limited liability partnership)—
   - (i) the name of the partnership,
-  - (ii) the names of the partners, [^key-d9db4569d02b2baea117687a60ab72f8]...
+  - (ii) the names of the partners, [^c-d9db4569d02b2baea117687a60ab72f8]...
   - (iii) the address of its main office or place of business, and
-  - (iv)[^key-291cc1164bdc6ddc2f1463b9c96dade7] the email address of the partnership, which must be an email address to which, in the ordinary course of events, emails sent by the Clerk would be expected to come to the attention of a person acting on behalf of the registrant, and
+  - (iv)[^c-291cc1164bdc6ddc2f1463b9c96dade7] the email address of the partnership, which must be an email address to which, in the ordinary course of events, emails sent by the Clerk would be expected to come to the attention of a person acting on behalf of the registrant, and
   - (v) the telephone number (if any) for its main office or place of business, and
 - (d) in the case of any other person—
-  - (i) the name of the person, [^key-7109291d526e3672e1a6d68a81bca4d4]...
+  - (i) the name of the person, [^c-7109291d526e3672e1a6d68a81bca4d4]...
   - (ii) the address of the person's main office or place of business.
-  - (iii)[^key-818d8f0165647638dab66e022d18eb64] the person’s business email address, which must be an email address to which, in the ordinary course of events, emails sent by the Clerk would be expected to come to the attention of a person acting on behalf of the registrant, and
+  - (iii)[^c-818d8f0165647638dab66e022d18eb64] the person’s business email address, which must be an email address to which, in the ordinary course of events, emails sent by the Clerk would be expected to come to the attention of a person acting on behalf of the registrant, and
   - (iv) the telephone number (if any) for its main office or place of business.
 
-#### 6. Information about regulated lobbying activity[^key-ba80ecfeb8a7d1521d7e4038ee316e30]
+#### 6. Information about regulated lobbying activity[^c-ba80ecfeb8a7d1521d7e4038ee316e30]
 
 (1) The information about the registrant's regulated lobbying activity is information submitted by the registrant about instances of the registrant engaging in regulated lobbying.
 
@@ -157,20 +157,20 @@ The information about the registrant's identity is—
   - (ii) the name of the person on whose behalf the lobbying was undertaken, and
 - (g) the purpose of the lobbying.
 
-#### 7. Additional information[^key-f1fb5b2dcd1cf43e3819610696109153]
+#### 7. Additional information[^c-f1fb5b2dcd1cf43e3819610696109153]
 
 The additional information provided by the registrant is—
 
 - (a) any information submitted by the registrant about—
   - (i) whether there is an undertaking by the registrant to comply with a code of conduct which governs regulated lobbying (whether or not it also governs other activities) and is available for public inspection,
   - (ii) where a copy of the code may be inspected, and
-  - (iii) any individual given responsibility by the registrant for monitoring the registrant's compliance with the code, [^key-dc1ed9e8cfc50940c90a58db31230b72]...
-- (aa)[^key-579532834a03a26c6d32951ee8a66ac5] any information submitted by the registrant about any individual given responsibility by the registrant for the discharge of the duties imposed on the registrant by or under this Act, and
+  - (iii) any individual given responsibility by the registrant for monitoring the registrant's compliance with the code, [^c-dc1ed9e8cfc50940c90a58db31230b72]...
+- (aa)[^c-579532834a03a26c6d32951ee8a66ac5] any information submitted by the registrant about any individual given responsibility by the registrant for the discharge of the duties imposed on the registrant by or under this Act, and
 - (b) such other information provided by the registrant which the Clerk considers appropriate to include in the register.
 
 ### Active registrants
 
-#### 8. Duty to register[^key-d345532888f29c7ffc437b1f12cf2eff]
+#### 8. Duty to register[^c-d345532888f29c7ffc437b1f12cf2eff]
 
 (1) A person who engages in regulated lobbying when the person is not an active registrant must, before the end of the relevant period, provide to the Clerk—
 
@@ -181,7 +181,7 @@ The additional information provided by the registrant is—
 
 (3) A person must provide the information under subsection (1) in such form as the Clerk may determine.
 
-#### 9. Application for registration[^key-9f9408fe8e8b96e72243ab4cee6a2d21]
+#### 9. Application for registration[^c-9f9408fe8e8b96e72243ab4cee6a2d21]
 
 (1) A person may apply to the Clerk to be entered in the register if the person—
 
@@ -193,7 +193,7 @@ The additional information provided by the registrant is—
 - (a) be in such form as the Clerk may determine, and
 - (b) include the information mentioned in section 5 in relation to the person's identity.
 
-#### 10. Entry in the register[^key-51d0b780a517e1fb22dc0e698f516c65]
+#### 10. Entry in the register[^c-51d0b780a517e1fb22dc0e698f516c65]
 
 (1) This section applies where a person—
 
@@ -214,7 +214,7 @@ The additional information provided by the registrant is—
 
 (4) The Clerk may send additional copies of the notice sent under subsection (3) by whatever means the Clerk considers appropriate.
 
-#### 11. Information returns[^key-0bbbd3f135805b2968a2715b66e074c2]
+#### 11. Information returns[^c-0bbbd3f135805b2968a2715b66e074c2]
 
 (1) An active registrant must submit to the Clerk an information return in respect of—
 
@@ -245,7 +245,7 @@ The additional information provided by the registrant is—
 (5) An active registrant may, at any time, notify the Clerk in writing—
 
 - (a) if any information included in the register in relation to that registrant has become inaccurate, about the changes that have occurred,
-- (b) about information of the type mentioned in section 7(a) and (aa),[^key-ed40189ddf989049635abc9ed3268070]
+- (b) about information of the type mentioned in section 7(a) and (aa),[^c-ed40189ddf989049635abc9ed3268070]
 - (c) about such other information which the registrant wishes to include in the register.
 
 (6) The Clerk must, as soon as reasonably practicable after receiving an information return or information under subsection (5), update the register to include—
@@ -255,7 +255,7 @@ The additional information provided by the registrant is—
 
 ### Inactive registrants
 
-#### 12. Reclassification as an inactive registrant on application[^key-ea68876c050750c5f528b141f8fd0dad]
+#### 12. Reclassification as an inactive registrant on application[^c-ea68876c050750c5f528b141f8fd0dad]
 
 (1) An active registrant may apply to the Clerk to be instead entered in the register as an inactive registrant (in this section referred to as the “**applicant**”).
 
@@ -291,7 +291,7 @@ The additional information provided by the registrant is—
   - (i) the date on which the applicant is entered in the register as an inactive registrant, and
   - (ii) the effect of the applicant being entered in the register as an inactive registrant.
 
-#### 13. Reclassification as an inactive registrant without application[^key-bd07e8a045f655f8bb0f108cc7ec3de7]
+#### 13. Reclassification as an inactive registrant without application[^c-bd07e8a045f655f8bb0f108cc7ec3de7]
 
 (1) The Clerk may enter an active registrant in the register as an inactive registrant if—
 
@@ -317,7 +317,7 @@ The additional information provided by the registrant is—
 
 ### Voluntary registrants
 
-#### 14. Voluntary registration[^key-b9ac2f783eab325a542ffa02645aadb7]
+#### 14. Voluntary registration[^c-b9ac2f783eab325a542ffa02645aadb7]
 
 (1) A person may apply to the Clerk to be entered in the register as a voluntary registrant (unless the person is already an active registrant).
 
@@ -338,7 +338,7 @@ The additional information provided by the registrant is—
 
 ### Further provision
 
-#### 15. Power to specify requirements about the register[^key-e58fe53aae30986d7993bb917de6ffee]
+#### 15. Power to specify requirements about the register[^c-e58fe53aae30986d7993bb917de6ffee]
 
 (1) The Scottish Parliament may by resolution make provision about this Part including provision about—
 
@@ -360,7 +360,7 @@ The additional information provided by the registrant is—
 
 ### Duty to monitor
 
-#### 16. Clerk's duty to monitor compliance[^key-f424945c8f6b110f43384665e42d77b4]
+#### 16. Clerk's duty to monitor compliance[^c-f424945c8f6b110f43384665e42d77b4]
 
 (1) The Clerk must monitor compliance with the duties imposed by or under this Act on—
 
@@ -371,7 +371,7 @@ The additional information provided by the registrant is—
 
 ### Information notices
 
-#### 17. Clerk's power to require information[^key-0c3f588ba53c8b000985fd341723854d]
+#### 17. Clerk's power to require information[^c-0c3f588ba53c8b000985fd341723854d]
 
 (1) In connection with the duty under section 16, the Clerk may serve a notice (an “information notice”) on a person mentioned in subsection (2), whether in or outwith Scotland, requiring the person to supply information specified in the notice.
 
@@ -394,7 +394,7 @@ The additional information provided by the registrant is—
 - (a) send an additional copy of the information notice to the person by whatever means the Clerk considers appropriate,
 - (b) cancel the information notice by serving notice to that effect on the person.
 
-#### 18. Limitations on duty to supply information and use of information supplied[^key-86e40f8f8990817762b6100742f659f1]
+#### 18. Limitations on duty to supply information and use of information supplied[^c-86e40f8f8990817762b6100742f659f1]
 
 (1) An information notice does not require a person—
 
@@ -408,7 +408,7 @@ The additional information provided by the registrant is—
   - (i) in giving evidence the person provides information that is inconsistent with the statement, and
   - (ii) evidence relating to the statement is adduced, or a question relating to it is asked, by the person or on the person's behalf.
 
-#### 19. Appeal against information notice[^key-8535f34996c14780fc229392eab375b0]
+#### 19. Appeal against information notice[^c-8535f34996c14780fc229392eab375b0]
 
 (1) A person on whom an information notice has been served may appeal to the sheriff against the notice or any requirement specified in it.
 
@@ -423,7 +423,7 @@ The additional information provided by the registrant is—
 - (a) where the appeal is determined by the sheriff, on the date on which the period during which an appeal to the Sheriff Appeal Court may be made expires without an appeal being made, or
 - (b) where an appeal to the Sheriff Appeal Court is made, the date on which that appeal is determined.
 
-#### 20. Power to make further provision about information notices[^key-816b41b02a2626ce56d5c972c0e1b885]
+#### 20. Power to make further provision about information notices[^c-816b41b02a2626ce56d5c972c0e1b885]
 
 (1) The Parliament may by resolution make further provision about information notices.
 
@@ -433,7 +433,7 @@ The additional information provided by the registrant is—
 - (b) about the minimum period between the date on which an information notice is served and the date which must be specified under section 17(3)(b),
 - (c) about other matters which must be specified in an information notice.
 
-#### 21. Offences relating to information notices[^key-fd2179bb799e5b9878663b2f4dc7404d]
+#### 21. Offences relating to information notices[^c-fd2179bb799e5b9878663b2f4dc7404d]
 
 (1) It is an offence for a person who has been served with an information notice under section 17—
 
@@ -446,7 +446,7 @@ The additional information provided by the registrant is—
 
 ### Investigation of complaints
 
-#### 22. Commissioner's duty to investigate and report on complaint[^key-d3f423d1aa7af1ed9c326ef8b0b2d5ea]
+#### 22. Commissioner's duty to investigate and report on complaint[^c-d3f423d1aa7af1ed9c326ef8b0b2d5ea]
 
 (1) This section applies where the Commissioner receives a complaint that a person has or might have failed—
 
@@ -466,7 +466,7 @@ The additional information provided by the registrant is—
 
 (4) An assessment under subsection (2)(a) and an investigation under subsection (2)(b)(i) must be conducted in private.
 
-#### 23. Requirements for complaint to be admissible[^key-1d318f756a5d3a3b3e4850d4923eb2d8]
+#### 23. Requirements for complaint to be admissible[^c-1d318f756a5d3a3b3e4850d4923eb2d8]
 
 (1) A complaint is admissible if—
 
@@ -489,7 +489,7 @@ The additional information provided by the registrant is—
 
 (4) A complaint warrants further investigation if, after an initial investigation, the evidence is sufficient to suggest that the person who is the subject of the complaint may have failed to comply with a requirement mentioned in section 22(1)(a) to (d).
 
-#### 24. Procedure for assessing admissibility of complaint[^key-a469553b19d88f8ca8290ee6d11ac538]
+#### 24. Procedure for assessing admissibility of complaint[^c-a469553b19d88f8ca8290ee6d11ac538]
 
 (1) This section applies where the Commissioner receives a complaint that a person has or might have failed to comply with a requirement mentioned in section 22(1)(a) to (d).
 
@@ -539,7 +539,7 @@ The additional information provided by the registrant is—
 
 (12) If the Commissioner has not assessed whether a complaint is admissible before the end of the period of 2 months beginning on the date the complaint is received, the Commissioner must, as soon as possible thereafter, make a report to the Parliament on the progress of the assessment of admissibility.
 
-#### 25. Investigation of complaint[^key-ed99b567c6f23e00a6023b570d8a85ee]
+#### 25. Investigation of complaint[^c-ed99b567c6f23e00a6023b570d8a85ee]
 
 (1) This section applies to the investigation of a complaint assessed as admissible under section 22(2)(a).
 
@@ -549,7 +549,7 @@ The additional information provided by the registrant is—
 
 (4) If the Commissioner has not completed the investigation before the end of the period of 6 months beginning on the date the complaint is found to be admissible, the Commissioner must, as soon as possible thereafter, make a report to the Parliament on the progress of the investigation.
 
-#### 26. Commissioner's report on complaint[^key-c3c2319384f71d5e2e8af35c2ae9e23e]
+#### 26. Commissioner's report on complaint[^c-c3c2319384f71d5e2e8af35c2ae9e23e]
 
 (1) This section applies to a report made under section 22(2)(b)(ii).
 
@@ -568,7 +568,7 @@ The additional information provided by the registrant is—
 - (a) provide a copy of a draft report to the person who is the subject of the report,
 - (b) provide that person with an opportunity to make representations on the draft report.
 
-#### 27. Parliament's action on receipt of report[^key-e22957593cf10016e9987ba54355e0c5]
+#### 27. Parliament's action on receipt of report[^c-e22957593cf10016e9987ba54355e0c5]
 
 (1) The Parliament is not bound by the facts found by the Commissioner in a report made under section 22(2)(b)(ii).
 
@@ -576,7 +576,7 @@ The additional information provided by the registrant is—
 
 (3) Subject to a direction under subsection (2), the provisions of this Part and of any other direction made under this Part apply (subject to necessary modifications) in relation to any further investigation and report as they apply to an investigation and report into a complaint.
 
-#### 28. Withdrawal of complaint[^key-be875c6a340b2ef1558d88218241b028]
+#### 28. Withdrawal of complaint[^c-be875c6a340b2ef1558d88218241b028]
 
 (1) At any time after a complaint has been made to the Commissioner and before a report is made to the Parliament under section 22(2)(b)(ii), the individual who made the complaint may withdraw the complaint by notifying the Commissioner.
 
@@ -633,14 +633,14 @@ The additional information provided by the registrant is—
 
 (10) Where the Commissioner is required under this section to provide reasons given by the individual who made the complaint for withdrawing it, the Commissioner may provide a summary of those reasons.
 
-#### 29. Commissioner's discretionary reports to Parliament[^key-e859ac2018a67d570712d6239e6f478a]
+#### 29. Commissioner's discretionary reports to Parliament[^c-e859ac2018a67d570712d6239e6f478a]
 
 The Commissioner may, in such circumstances as the Commissioner thinks fit, make a report to the Parliament—
 
 - (a) as to the progress of any actions taken by the Commissioner in accordance with the Commissioner's duties under section 22(2),
 - (b) informing the Parliament of a complaint which the Commissioner has dismissed as being inadmissible and the reasons for the dismissal.
 
-#### 30. Restriction on Commissioner's advice[^key-45c3345a723e870fdbb44cf3fad1a5db]
+#### 30. Restriction on Commissioner's advice[^c-45c3345a723e870fdbb44cf3fad1a5db]
 
 (1) The Commissioner may not—
 
@@ -654,7 +654,7 @@ except in the context of an investigation or report mentioned in section 22.
 - (a) the procedures for making a complaint to the Commissioner, or
 - (b) the procedures following upon the making of a complaint.
 
-#### 31. Directions to the Commissioner[^key-8f09f27f4ace83649677803fcb0f8802]
+#### 31. Directions to the Commissioner[^c-8f09f27f4ace83649677803fcb0f8802]
 
 (1) The Commissioner must, in carrying out the Commissioner's functions conferred by or under this Act, comply with any direction given by the Parliament.
 
@@ -671,7 +671,7 @@ except in the context of an investigation or report mentioned in section 22.
 
 ### Investigations: witnesses and documents
 
-#### 32. Power to call for witnesses and documents etc.[^key-da95391ba7a0e6e2eb16124e1f1e8c96]
+#### 32. Power to call for witnesses and documents etc.[^c-da95391ba7a0e6e2eb16124e1f1e8c96]
 
 (1) The Commissioner may for the purposes of an investigation under section 22(2)(b)(i) require any person, whether in or outwith Scotland—
 
@@ -684,7 +684,7 @@ except in the context of an investigation or report mentioned in section 22.
 
 (4) A statement made by a person in answer to a question which that person was obliged under this section to answer is not admissible in any criminal proceedings against that person, except where the proceedings are in respect of perjury relating to that statement.
 
-#### 33. Notice[^key-056082deb7ec2630f5241fe08e82c6ae]
+#### 33. Notice[^c-056082deb7ec2630f5241fe08e82c6ae]
 
 A requirement under section 32(1) must be imposed by giving notice to the person specifying—
 
@@ -696,13 +696,13 @@ A requirement under section 32(1) must be imposed by giving notice to the person
   - (ii) the date by which the document must be produced, and
   - (iii) the particular matters in connection with which the document is required.
 
-#### 34. Exceptions to requirement to answer question or produce document[^key-970f800fbd1b66e2715c72914fdcc0a7]
+#### 34. Exceptions to requirement to answer question or produce document[^c-970f800fbd1b66e2715c72914fdcc0a7]
 
 (1) A person is not obliged under section 32 to answer a question or to produce a document which that person would be entitled to refuse to answer or produce in proceedings in a court in Scotland.
 
 (2) The Lord Advocate, the Solicitor General for Scotland or a procurator fiscal is not obliged under section 32 to answer any question or produce any document which that person would be entitled to decline to answer or to produce in accordance with section 27(3) or, as the case may be, 23(10) of the Scotland Act 1998.
 
-#### 35. Evidence under oath[^key-07d688198b39ed374265a3e1315d494f]
+#### 35. Evidence under oath[^c-07d688198b39ed374265a3e1315d494f]
 
 (1) The Commissioner may—
 
@@ -713,7 +713,7 @@ A requirement under section 32(1) must be imposed by giving notice to the person
 
 (3) A person who commits an offence under subsection (2) is liable on summary conviction to imprisonment for a period not exceeding 3 months or a fine not exceeding level 5 on the standard scale (but not both).
 
-#### 36. Offences relating to Commissioner's investigation[^key-22cf04008a1a07c1f45b95293b74663c]
+#### 36. Offences relating to Commissioner's investigation[^c-22cf04008a1a07c1f45b95293b74663c]
 
 (1) A person to whom a notice under section 33 has been given commits an offence if the person—
 
@@ -726,7 +726,7 @@ A requirement under section 32(1) must be imposed by giving notice to the person
 
 (3) A person who commits an offence under subsection (1) is liable on summary conviction to imprisonment for a period not exceeding 3 months or a fine not exceeding level 5 on the standard scale (but not both).
 
-#### 37. Restriction on disclosure of information[^key-c3c575a711511186b86379740d6d3030]
+#### 37. Restriction on disclosure of information[^c-c3c575a711511186b86379740d6d3030]
 
 (1) A person mentioned in subsection (2) must not disclose information which is—
 
@@ -750,7 +750,7 @@ A requirement under section 32(1) must be imposed by giving notice to the person
 
 ### Commissioner's functions
 
-#### 38. Commissioner's functions etc.[^key-c7e7e46210617cc01718b41ee56d11fd]
+#### 38. Commissioner's functions etc.[^c-c7e7e46210617cc01718b41ee56d11fd]
 
 (1) The Scottish Parliamentary Commissions and Commissioners etc. Act 2010 is modified as follows.
 
@@ -795,7 +795,7 @@ A requirement under section 32(1) must be imposed by giving notice to the person
 
 .
 
-#### 39. Investigation of performance of Commissioner's functions[^key-23481f941072e344aef2180ec196edfe]
+#### 39. Investigation of performance of Commissioner's functions[^c-23481f941072e344aef2180ec196edfe]
 
 In paragraph 21ZA of schedule 2 of the Scottish Public Services Ombudsman Act 2002—
 
@@ -804,7 +804,7 @@ In paragraph 21ZA of schedule 2 of the Scottish Public Services Ombudsman Act 20
 
 ### Disposal of complaints
 
-#### 40. Parliament's power to censure[^key-b49e33dabea34ca3645b0d6428de6153]
+#### 40. Parliament's power to censure[^c-b49e33dabea34ca3645b0d6428de6153]
 
 After receiving a report under section 22(2)(b)(ii) or 27(2), the Parliament may—
 
@@ -813,7 +813,7 @@ After receiving a report under section 22(2)(b)(ii) or 27(2), the Parliament may
 
 ### Further provision
 
-#### 41. Power to make further provision about Parliament's procedures etc.[^key-3662ef5eac1fdc5bf5219d78762ac763]
+#### 41. Power to make further provision about Parliament's procedures etc.[^c-3662ef5eac1fdc5bf5219d78762ac763]
 
 (1) The Parliament must by resolution make provision about procedures to be followed when the Commissioner submits a report to the Parliament under this Part.
 
@@ -826,7 +826,7 @@ After receiving a report under section 22(2)(b)(ii) or 27(2), the Parliament may
 
 ### Offences
 
-#### 42. Offences relating to registration and information returns[^key-36e7abb7ffdbf0bba7e0d3fa3cbcd263]
+#### 42. Offences relating to registration and information returns[^c-36e7abb7ffdbf0bba7e0d3fa3cbcd263]
 
 (1) It is an offence for a person who is required to provide information under section 8(1)—
 
@@ -846,7 +846,7 @@ After receiving a report under section 22(2)(b)(ii) or 27(2), the Parliament may
 
 ## PART 4 — Guidance, code of conduct and Public Awareness
 
-### 43. Parliamentary guidance[^key-28011220a8604289baaf71c9e8713d72]
+### 43. Parliamentary guidance[^c-28011220a8604289baaf71c9e8713d72]
 
 (1) The Parliament must publish guidance on the operation of this Act (referred to in this Act as “**the parliamentary guidance**”).
 
@@ -860,7 +860,7 @@ After receiving a report under section 22(2)(b)(ii) or 27(2), the Parliament may
 
 (3) Before publishing the guidance, any revision to it or replacement of it, the Parliament must consult the Scottish Ministers.
 
-### 44. Code of conduct for persons lobbying MSPs[^key-ba084b96fb8820751f3f2a27fdf95a08]
+### 44. Code of conduct for persons lobbying MSPs[^c-ba084b96fb8820751f3f2a27fdf95a08]
 
 (1) The Parliament must publish a code of conduct for persons lobbying members of the Parliament.
 
@@ -868,13 +868,13 @@ After receiving a report under section 22(2)(b)(ii) or 27(2), the Parliament may
 
 (3) In this section, “**lobbying**” means making a communication of any kind to a member of the Parliament in relation to the member's functions.
 
-### 45. Public awareness and understanding of Act[^key-41105ace760c2b0bdd90f106de3fa7a4]
+### 45. Public awareness and understanding of Act[^c-41105ace760c2b0bdd90f106de3fa7a4]
 
 The Parliament may take such steps as it considers appropriate to promote public awareness and understanding of the operation of this Act.
 
 ## PART 5 — Final provisions
 
-### 46. Offences by bodies corporate etc.[^key-4a72c01c895c0d7dce9d66a347b9703e]
+### 46. Offences by bodies corporate etc.[^c-4a72c01c895c0d7dce9d66a347b9703e]
 
 (1) Where—
 
@@ -942,15 +942,15 @@ In this Act—
 
 ### 49. Application of Act to trusts
 
-(1)[^key-10cf5460194c63aa552506a90f64d9ed] This section applies in the application of this Act to a trust.
+(1)[^c-10cf5460194c63aa552506a90f64d9ed] This section applies in the application of this Act to a trust.
 
-(2)[^key-1ff0f9587ba5171ad758a2ffc4f679f2] For the purposes of this Act, the trustees of the trust engage in regulated lobbying if a trustee makes a communication falling within section 1(1)(a).
+(2)[^c-1ff0f9587ba5171ad758a2ffc4f679f2] For the purposes of this Act, the trustees of the trust engage in regulated lobbying if a trustee makes a communication falling within section 1(1)(a).
 
-(3)[^key-10cf5460194c63aa552506a90f64d9ed] References in Parts 2 and 3 to “person” are to be read as references to the trustees of the trust.
+(3)[^c-10cf5460194c63aa552506a90f64d9ed] References in Parts 2 and 3 to “person” are to be read as references to the trustees of the trust.
 
-(4)[^key-1ff0f9587ba5171ad758a2ffc4f679f2] An obligation imposed under those Parts on the trustees of the trust may be fulfilled by any one or more of the trustees.
+(4)[^c-1ff0f9587ba5171ad758a2ffc4f679f2] An obligation imposed under those Parts on the trustees of the trust may be fulfilled by any one or more of the trustees.
 
-### 50. Report on operation of Act[^key-edd56f562435bc3fe81e8ea356891c44]
+### 50. Report on operation of Act[^c-edd56f562435bc3fe81e8ea356891c44]
 
 (1) The Scottish Parliament must make arrangements for one of its committees or sub-committees to report in accordance with this section to the Scottish Parliament on the operation of this Act during the review period.
 
@@ -1013,11 +1013,11 @@ The short title of this Act is the Lobbying (Scotland) Act 2016.
 
 ### Communications made on individual's own behalf
 
-**1.**[^key-2e9e74f4b6ce047844840b92fa5f9816] A communication made by an individual on the individual's own behalf.
+**1.**[^c-2e9e74f4b6ce047844840b92fa5f9816] A communication made by an individual on the individual's own behalf.
 
 ### Communications made to member for constituency or region
 
-**2.**[^key-c58b8324ab9ee826b2bd316c4cf2b900] A communication made—
+**2.**[^c-c58b8324ab9ee826b2bd316c4cf2b900] A communication made—
 
 - (a) by an individual as an employee or in another capacity mentioned in section 1(1)(b) in the course of a business or other activity carried on by another person,
 - (b) on the other person's behalf and not on behalf of a third party, and
@@ -1026,15 +1026,15 @@ The short title of this Act is the Lobbying (Scotland) Act 2016.
   - (ii) a place where the person's activity is ordinarily carried on, or
   - (iii) the individual's residence.
 
-**3.**[^key-b114407fc30083719625a9fd3fa06974] However, paragraph 2 does not apply where the communication is made to a member of the Scottish Parliament who is a member of the Scottish Government or a junior Scottish Minister.
+**3.**[^c-b114407fc30083719625a9fd3fa06974] However, paragraph 2 does not apply where the communication is made to a member of the Scottish Parliament who is a member of the Scottish Government or a junior Scottish Minister.
 
-**4.**[^key-e86724e09885261c197a5ff75c8b9191] In paragraph 2, “constituency” and “region” are to be construed in accordance with the Scotland Act 1998.
+**4.**[^c-e86724e09885261c197a5ff75c8b9191] In paragraph 2, “constituency” and “region” are to be construed in accordance with the Scotland Act 1998.
 
 ### Communications not made in return for payment
 
-**5.**[^key-e7ae834b421eb6b1e51d17a4ca81f7b4] A communication made by an individual who is not making it in return for payment.
+**5.**[^c-e7ae834b421eb6b1e51d17a4ca81f7b4] A communication made by an individual who is not making it in return for payment.
 
-**6.**[^key-a633d242958c8719d9a435ff5162366f] For the purposes of paragraph 5—
+**6.**[^c-a633d242958c8719d9a435ff5162366f] For the purposes of paragraph 5—
 
 - (a) a communication made by an individual as an employee or in another capacity mentioned in section 1(1)(b) is made in return for payment if the individual receives payment in that capacity regardless of whether the payment relates to making communications,
 - (b) “payment”—
@@ -1044,63 +1044,63 @@ The short title of this Act is the Lobbying (Scotland) Act 2016.
 
 ### Communications by small organisations
 
-**7.**[^key-2fc58aae70ef574004147d655f2f4d83] A communication made—
+**7.**[^c-2fc58aae70ef574004147d655f2f4d83] A communication made—
 
 - (a) by an individual as an employee or in another capacity mentioned in section 1(1)(b) in the course of a business or other activity carried on by another person,
 - (b) on the other person's behalf and not on behalf of a third party, and
 - (c) on a date when the other person has fewer than 10 full-time equivalent employees.
 
-**8.**[^key-d7c2a8a3a75788596b4e10b521d71c97] However, paragraph 7 does not apply where the communication is made in the course of a business or other activity carried on by a person if one of the person's principal purposes is to represent the interests of other persons.
+**8.**[^c-d7c2a8a3a75788596b4e10b521d71c97] However, paragraph 7 does not apply where the communication is made in the course of a business or other activity carried on by a person if one of the person's principal purposes is to represent the interests of other persons.
 
-**9.**[^key-2ef7bd8f9becf681b582fccb2890ad9f] For the purposes of paragraph 7, the number of full-time equivalent employees a person has is calculated as follows—
+**9.**[^c-2ef7bd8f9becf681b582fccb2890ad9f] For the purposes of paragraph 7, the number of full-time equivalent employees a person has is calculated as follows—
 
 - (a) find the total number of hours worked by all the employees of the person in the 28 days ending with the date on which the communication was made,
 - (b) divide that number by 140.
 
-**10.**[^key-cd12fc76404f600a0991403d9b992b9e] For the purposes of the calculation in paragraph 9, any employee who worked more than 140 hours during the period of 28 days is to be treated as having worked 140 hours.
+**10.**[^c-cd12fc76404f600a0991403d9b992b9e] For the purposes of the calculation in paragraph 9, any employee who worked more than 140 hours during the period of 28 days is to be treated as having worked 140 hours.
 
 ### Communications in Parliament or required under statute.
 
-**11.**[^key-55257ed7f62511804a6bbd1579507a5c] A communication—
+**11.**[^c-55257ed7f62511804a6bbd1579507a5c] A communication—
 
 - (a) made in proceedings of the Parliament,
 - (b) required under any statutory provision or other rule of law.
 
 ### Communications made on request
 
-**12.**[^key-2af7fe19fea7cd066e7943f5caae5174] A communication about a topic which is made in response to a request for factual information or views on that topic from—
+**12.**[^c-2af7fe19fea7cd066e7943f5caae5174] A communication about a topic which is made in response to a request for factual information or views on that topic from—
 
 - (a) the person to whom the communication is made, or
 - (b) a person acting on behalf of that person.
 
 ### Cross-party groups
 
-**13.**[^key-ee68a8a6f7218f4d50908304b5a9907e] A communication made in the course of a meeting of a group recognised as a cross-party group by the Parliament.
+**13.**[^c-ee68a8a6f7218f4d50908304b5a9907e] A communication made in the course of a meeting of a group recognised as a cross-party group by the Parliament.
 
 ### Journalism
 
-**14.**[^key-9caeba73e37463fd629ee0078ac3d4e3] A communication made for the purposes of journalism.
+**14.**[^c-9caeba73e37463fd629ee0078ac3d4e3] A communication made for the purposes of journalism.
 
 ### Communications in relation to terms and conditions of employment
 
-**15.**[^key-3ce8f350a8d68403f7c3759741fd3e53] A communication made by or on behalf of a person where the communication forms part of, or is directly related to, negotiations on terms and conditions of employment of the employees of the person.
+**15.**[^c-3ce8f350a8d68403f7c3759741fd3e53] A communication made by or on behalf of a person where the communication forms part of, or is directly related to, negotiations on terms and conditions of employment of the employees of the person.
 
-**16.**[^key-4d206742718f636ad0d7934b2f2fe2f2] A communication made by or on behalf of a trade union where the communication forms part of, or is directly related to, negotiations on terms and conditions of employment of the members of the trade union.
+**16.**[^c-4d206742718f636ad0d7934b2f2fe2f2] A communication made by or on behalf of a trade union where the communication forms part of, or is directly related to, negotiations on terms and conditions of employment of the members of the trade union.
 
-**17.**[^key-91e342f2d3b1a131588215f45173c226] In paragraph 16, “**trade union**” is to be construed in accordance with section 1 of the Trade Union and Labour Relations (Consolidation) Act 1992.
+**17.**[^c-91e342f2d3b1a131588215f45173c226] In paragraph 16, “**trade union**” is to be construed in accordance with section 1 of the Trade Union and Labour Relations (Consolidation) Act 1992.
 
 ### Communications by political parties
 
-**18.**[^key-4441f2fd17413c8a728b24a4c1746fac] A communication made by or on behalf of a party registered under Part 2 of the Political Parties, Elections and Referendums Act 2000.
+**18.**[^c-4441f2fd17413c8a728b24a4c1746fac] A communication made by or on behalf of a party registered under Part 2 of the Political Parties, Elections and Referendums Act 2000.
 
 ### Communications by judiciary
 
-**19.**[^key-092696467b55632eb09a3b1729d1a4e1] A communication made by or on behalf of—
+**19.**[^c-092696467b55632eb09a3b1729d1a4e1] A communication made by or on behalf of—
 
 - (a) a holder of judicial office within the United Kingdom,
 - (b) a member of the judiciary of an international court.
 
-**20.**[^key-6ed836bd0e6b362758258122b3afd8ac] In paragraph 19—
+**20.**[^c-6ed836bd0e6b362758258122b3afd8ac] In paragraph 19—
 
 - “**holder of judicial office within the United Kingdom**” means—
   - (a) a judge of a court established under the law of any part of the United Kingdom,
@@ -1111,11 +1111,11 @@ The short title of this Act is the Lobbying (Scotland) Act 2016.
 
 ### Communications by Her Majesty
 
-**21.**[^key-332b7a435283b896605d28659724e6b9] A communication made by or on behalf of Her Majesty.
+**21.**[^c-332b7a435283b896605d28659724e6b9] A communication made by or on behalf of Her Majesty.
 
 ### Government and Parliament communications etc.
 
-**22.**[^key-45525a2b1322696cb06f07f602d70748] A communication made by or on behalf of—
+**22.**[^c-45525a2b1322696cb06f07f602d70748] A communication made by or on behalf of—
 
 - (a) a member of the Scottish Parliament,
 - (b) the Scottish Ministers or other office-holder in the Scottish Administration,
@@ -1133,7 +1133,7 @@ The short title of this Act is the Lobbying (Scotland) Act 2016.
 - (n) an institution of the European Union,
 - (o) an international organisation.
 
-**23.**[^key-33818aa828f10058823eedcff263d6bd] In paragraph 22—
+**23.**[^c-33818aa828f10058823eedcff263d6bd] In paragraph 22—
 
 - “**international organisation**” means—
   - (a) an international organisation whose members include any two or more States, or
@@ -1146,170 +1146,170 @@ The short title of this Act is the Lobbying (Scotland) Act 2016.
 
 ## Annotations
 
-[^key-99a3bfc0234169466227928abbce794e]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/16/section/1) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-99a3bfc0234169466227928abbce794e]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/16/section/1) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-c448843b98ef5518ce61c420932c1a2d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/16/section/2) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-c448843b98ef5518ce61c420932c1a2d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/16/section/2) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-1ce6bf10945091eef8c6783bbf45a977]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2016/16/section/3) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-1ce6bf10945091eef8c6783bbf45a977]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2016/16/section/3) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-dd24157ec01824c80b9093fcf16890ec]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2016/16/section/4) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-dd24157ec01824c80b9093fcf16890ec]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2016/16/section/4) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-5ee209fb0ebf90b161f2d5f712827ea3]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2016/16/section/5) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-5ee209fb0ebf90b161f2d5f712827ea3]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2016/16/section/5) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-570a976348e4bd92c4de440d9eec1df2]: Textual amendment: Word in [s. 5(a)](https://www.legislation.gov.uk/asp/2016/16/section/5/a) omitted (10.4.2026) by virtue of [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(2)(a)](https://www.legislation.gov.uk/ssi/2026/164/section/2/2/a)
+[^c-570a976348e4bd92c4de440d9eec1df2]: Textual amendment: Word in [s. 5(a)](https://www.legislation.gov.uk/asp/2016/16/section/5/a) omitted (10.4.2026) by virtue of [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(2)(a)](https://www.legislation.gov.uk/ssi/2026/164/section/2/2/a)
 
-[^key-2418a4edac1fc15c41bfe6990f9df56a]: Textual amendment: [S. 5(a)(iii)](https://www.legislation.gov.uk/asp/2016/16/section/5/a/iii)[(iv)](https://www.legislation.gov.uk/asp/2016/16/section/5/a/iv) inserted (10.4.2026) by [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(2)(b)](https://www.legislation.gov.uk/ssi/2026/164/section/2/2/b)
+[^c-2418a4edac1fc15c41bfe6990f9df56a]: Textual amendment: [S. 5(a)(iii)](https://www.legislation.gov.uk/asp/2016/16/section/5/a/iii)[(iv)](https://www.legislation.gov.uk/asp/2016/16/section/5/a/iv) inserted (10.4.2026) by [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(2)(b)](https://www.legislation.gov.uk/ssi/2026/164/section/2/2/b)
 
-[^key-231b4eb353346b313e1c15e15e9996c5]: Textual amendment: Word in [s. 5(b)](https://www.legislation.gov.uk/asp/2016/16/section/5/b) omitted (10.4.2026) by virtue of [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(3)(a)](https://www.legislation.gov.uk/ssi/2026/164/section/2/3/a)
+[^c-231b4eb353346b313e1c15e15e9996c5]: Textual amendment: Word in [s. 5(b)](https://www.legislation.gov.uk/asp/2016/16/section/5/b) omitted (10.4.2026) by virtue of [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(3)(a)](https://www.legislation.gov.uk/ssi/2026/164/section/2/3/a)
 
-[^key-42018414d160ec510aca924765a4f3f9]: Textual amendment: [S. 5(b)(vi)](https://www.legislation.gov.uk/asp/2016/16/section/5/b/vi)[(vii)](https://www.legislation.gov.uk/asp/2016/16/section/5/b/vii) and words inserted (10.4.2026) by [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(3)(c)](https://www.legislation.gov.uk/ssi/2026/164/section/2/3/c)
+[^c-42018414d160ec510aca924765a4f3f9]: Textual amendment: [S. 5(b)(vi)](https://www.legislation.gov.uk/asp/2016/16/section/5/b/vi)[(vii)](https://www.legislation.gov.uk/asp/2016/16/section/5/b/vii) and words inserted (10.4.2026) by [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(3)(c)](https://www.legislation.gov.uk/ssi/2026/164/section/2/3/c)
 
-[^key-ce701526fc0ca83cd95cce8e2fde0bfa]: Textual amendment: Words in [s. 5(b)](https://www.legislation.gov.uk/asp/2016/16/section/5/b) omitted (10.4.2026) by virtue of [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(3)(b)](https://www.legislation.gov.uk/ssi/2026/164/section/2/3/b)
+[^c-ce701526fc0ca83cd95cce8e2fde0bfa]: Textual amendment: Words in [s. 5(b)](https://www.legislation.gov.uk/asp/2016/16/section/5/b) omitted (10.4.2026) by virtue of [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(3)(b)](https://www.legislation.gov.uk/ssi/2026/164/section/2/3/b)
 
-[^key-d9db4569d02b2baea117687a60ab72f8]: Textual amendment: Word in [s. 5(c)](https://www.legislation.gov.uk/asp/2016/16/section/5/c) omitted (10.4.2026) by virtue of [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(4)(a)](https://www.legislation.gov.uk/ssi/2026/164/section/2/4/a)
+[^c-d9db4569d02b2baea117687a60ab72f8]: Textual amendment: Word in [s. 5(c)](https://www.legislation.gov.uk/asp/2016/16/section/5/c) omitted (10.4.2026) by virtue of [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(4)(a)](https://www.legislation.gov.uk/ssi/2026/164/section/2/4/a)
 
-[^key-291cc1164bdc6ddc2f1463b9c96dade7]: Textual amendment: [S. 5(c)(iv)](https://www.legislation.gov.uk/asp/2016/16/section/5/c/iv)[(v)](https://www.legislation.gov.uk/asp/2016/16/section/5/c/v) inserted (10.4.2026) by [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(4)(b)](https://www.legislation.gov.uk/ssi/2026/164/section/2/4/b)
+[^c-291cc1164bdc6ddc2f1463b9c96dade7]: Textual amendment: [S. 5(c)(iv)](https://www.legislation.gov.uk/asp/2016/16/section/5/c/iv)[(v)](https://www.legislation.gov.uk/asp/2016/16/section/5/c/v) inserted (10.4.2026) by [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(4)(b)](https://www.legislation.gov.uk/ssi/2026/164/section/2/4/b)
 
-[^key-7109291d526e3672e1a6d68a81bca4d4]: Textual amendment: Word in [s. 5(d)](https://www.legislation.gov.uk/asp/2016/16/section/5/d) omitted (10.4.2026) by virtue of [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(5)(a)](https://www.legislation.gov.uk/ssi/2026/164/section/2/5/a)
+[^c-7109291d526e3672e1a6d68a81bca4d4]: Textual amendment: Word in [s. 5(d)](https://www.legislation.gov.uk/asp/2016/16/section/5/d) omitted (10.4.2026) by virtue of [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(5)(a)](https://www.legislation.gov.uk/ssi/2026/164/section/2/5/a)
 
-[^key-818d8f0165647638dab66e022d18eb64]: Textual amendment: [S. 5(d)(iii)](https://www.legislation.gov.uk/asp/2016/16/section/5/d/iii)[(iv)](https://www.legislation.gov.uk/asp/2016/16/section/5/d/iv) inserted (10.4.2026) by [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(5)(b)](https://www.legislation.gov.uk/ssi/2026/164/section/2/5/b)
+[^c-818d8f0165647638dab66e022d18eb64]: Textual amendment: [S. 5(d)(iii)](https://www.legislation.gov.uk/asp/2016/16/section/5/d/iii)[(iv)](https://www.legislation.gov.uk/asp/2016/16/section/5/d/iv) inserted (10.4.2026) by [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 2(5)(b)](https://www.legislation.gov.uk/ssi/2026/164/section/2/5/b)
 
-[^key-ba80ecfeb8a7d1521d7e4038ee316e30]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/16/section/6) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-ba80ecfeb8a7d1521d7e4038ee316e30]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/16/section/6) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-f1fb5b2dcd1cf43e3819610696109153]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/16/section/7) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-f1fb5b2dcd1cf43e3819610696109153]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/16/section/7) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-dc1ed9e8cfc50940c90a58db31230b72]: Textual amendment: Word in [s. 7(a)](https://www.legislation.gov.uk/asp/2016/16/section/7/a) omitted (10.4.2026) by virtue of [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 3(2)](https://www.legislation.gov.uk/ssi/2026/164/section/3/2)
+[^c-dc1ed9e8cfc50940c90a58db31230b72]: Textual amendment: Word in [s. 7(a)](https://www.legislation.gov.uk/asp/2016/16/section/7/a) omitted (10.4.2026) by virtue of [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 3(2)](https://www.legislation.gov.uk/ssi/2026/164/section/3/2)
 
-[^key-579532834a03a26c6d32951ee8a66ac5]: Textual amendment: [S. 7(aa)](https://www.legislation.gov.uk/asp/2016/16/section/7/aa) inserted (10.4.2026) by [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 3(3)](https://www.legislation.gov.uk/ssi/2026/164/section/3/3)
+[^c-579532834a03a26c6d32951ee8a66ac5]: Textual amendment: [S. 7(aa)](https://www.legislation.gov.uk/asp/2016/16/section/7/aa) inserted (10.4.2026) by [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 3(3)](https://www.legislation.gov.uk/ssi/2026/164/section/3/3)
 
-[^key-d345532888f29c7ffc437b1f12cf2eff]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2016/16/section/8) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-d345532888f29c7ffc437b1f12cf2eff]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2016/16/section/8) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-9f9408fe8e8b96e72243ab4cee6a2d21]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2016/16/section/9) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-9f9408fe8e8b96e72243ab4cee6a2d21]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2016/16/section/9) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-51d0b780a517e1fb22dc0e698f516c65]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/16/section/10) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-51d0b780a517e1fb22dc0e698f516c65]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/16/section/10) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-0bbbd3f135805b2968a2715b66e074c2]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2016/16/section/11) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-0bbbd3f135805b2968a2715b66e074c2]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2016/16/section/11) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-ed40189ddf989049635abc9ed3268070]: Textual amendment: Words in [s. 11(5)(b)](https://www.legislation.gov.uk/asp/2016/16/section/11/5/b) inserted (10.4.2026) by [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 4](https://www.legislation.gov.uk/ssi/2026/164/section/4)
+[^c-ed40189ddf989049635abc9ed3268070]: Textual amendment: Words in [s. 11(5)(b)](https://www.legislation.gov.uk/asp/2016/16/section/11/5/b) inserted (10.4.2026) by [The Lobbying (Scotland) Act 2016 (Modifications) Resolution 2026 (S.S.I. 2026/164)](https://www.legislation.gov.uk/ssi/2026/164), [s. 4](https://www.legislation.gov.uk/ssi/2026/164/section/4)
 
-[^key-ea68876c050750c5f528b141f8fd0dad]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2016/16/section/12) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-ea68876c050750c5f528b141f8fd0dad]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2016/16/section/12) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-bd07e8a045f655f8bb0f108cc7ec3de7]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/16/section/13) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-bd07e8a045f655f8bb0f108cc7ec3de7]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/16/section/13) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-b9ac2f783eab325a542ffa02645aadb7]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/16/section/14) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-b9ac2f783eab325a542ffa02645aadb7]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/16/section/14) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-e58fe53aae30986d7993bb917de6ffee]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2016/16/section/15) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/a)
+[^c-e58fe53aae30986d7993bb917de6ffee]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2016/16/section/15) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/a)
 
-[^key-f424945c8f6b110f43384665e42d77b4]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2016/16/section/16) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-f424945c8f6b110f43384665e42d77b4]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2016/16/section/16) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-0c3f588ba53c8b000985fd341723854d]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/16/section/17) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-0c3f588ba53c8b000985fd341723854d]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/16/section/17) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-86e40f8f8990817762b6100742f659f1]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/16/section/18) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-86e40f8f8990817762b6100742f659f1]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/16/section/18) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-8535f34996c14780fc229392eab375b0]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/16/section/19) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-8535f34996c14780fc229392eab375b0]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/16/section/19) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-816b41b02a2626ce56d5c972c0e1b885]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/16/section/20) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/b)
+[^c-816b41b02a2626ce56d5c972c0e1b885]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2016/16/section/20) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/b)
 
-[^key-fd2179bb799e5b9878663b2f4dc7404d]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/16/section/21) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-fd2179bb799e5b9878663b2f4dc7404d]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/16/section/21) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-d3f423d1aa7af1ed9c326ef8b0b2d5ea]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2016/16/section/22) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-d3f423d1aa7af1ed9c326ef8b0b2d5ea]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2016/16/section/22) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-1d318f756a5d3a3b3e4850d4923eb2d8]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/16/section/23) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-1d318f756a5d3a3b3e4850d4923eb2d8]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/16/section/23) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-a469553b19d88f8ca8290ee6d11ac538]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/16/section/24) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-a469553b19d88f8ca8290ee6d11ac538]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2016/16/section/24) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-ed99b567c6f23e00a6023b570d8a85ee]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2016/16/section/25) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-ed99b567c6f23e00a6023b570d8a85ee]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2016/16/section/25) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-c3c2319384f71d5e2e8af35c2ae9e23e]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2016/16/section/26) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-c3c2319384f71d5e2e8af35c2ae9e23e]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2016/16/section/26) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-e22957593cf10016e9987ba54355e0c5]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2016/16/section/27) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-e22957593cf10016e9987ba54355e0c5]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2016/16/section/27) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-be875c6a340b2ef1558d88218241b028]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2016/16/section/28) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-be875c6a340b2ef1558d88218241b028]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2016/16/section/28) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-e859ac2018a67d570712d6239e6f478a]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2016/16/section/29) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-e859ac2018a67d570712d6239e6f478a]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2016/16/section/29) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-45c3345a723e870fdbb44cf3fad1a5db]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/16/section/30) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-45c3345a723e870fdbb44cf3fad1a5db]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2016/16/section/30) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-8f09f27f4ace83649677803fcb0f8802]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2016/16/section/31) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/c)
+[^c-8f09f27f4ace83649677803fcb0f8802]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2016/16/section/31) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/c)
 
-[^key-da95391ba7a0e6e2eb16124e1f1e8c96]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2016/16/section/32) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-da95391ba7a0e6e2eb16124e1f1e8c96]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2016/16/section/32) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-056082deb7ec2630f5241fe08e82c6ae]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2016/16/section/33) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-056082deb7ec2630f5241fe08e82c6ae]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2016/16/section/33) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-970f800fbd1b66e2715c72914fdcc0a7]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2016/16/section/34) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-970f800fbd1b66e2715c72914fdcc0a7]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2016/16/section/34) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-07d688198b39ed374265a3e1315d494f]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2016/16/section/35) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-07d688198b39ed374265a3e1315d494f]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2016/16/section/35) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-22cf04008a1a07c1f45b95293b74663c]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2016/16/section/36) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-22cf04008a1a07c1f45b95293b74663c]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2016/16/section/36) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-c3c575a711511186b86379740d6d3030]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2016/16/section/37) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-c3c575a711511186b86379740d6d3030]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2016/16/section/37) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-c7e7e46210617cc01718b41ee56d11fd]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2016/16/section/38) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-c7e7e46210617cc01718b41ee56d11fd]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2016/16/section/38) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-23481f941072e344aef2180ec196edfe]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2016/16/section/39) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-23481f941072e344aef2180ec196edfe]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2016/16/section/39) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-b49e33dabea34ca3645b0d6428de6153]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2016/16/section/40) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-b49e33dabea34ca3645b0d6428de6153]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2016/16/section/40) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-3662ef5eac1fdc5bf5219d78762ac763]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2016/16/section/41) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/d)
+[^c-3662ef5eac1fdc5bf5219d78762ac763]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2016/16/section/41) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/d)
 
-[^key-36e7abb7ffdbf0bba7e0d3fa3cbcd263]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2016/16/section/42) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-36e7abb7ffdbf0bba7e0d3fa3cbcd263]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2016/16/section/42) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-28011220a8604289baaf71c9e8713d72]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2016/16/section/43) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/e)
+[^c-28011220a8604289baaf71c9e8713d72]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2016/16/section/43) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/e)
 
-[^key-ba084b96fb8820751f3f2a27fdf95a08]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2016/16/section/44) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/f)
+[^c-ba084b96fb8820751f3f2a27fdf95a08]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2016/16/section/44) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/f)
 
-[^key-41105ace760c2b0bdd90f106de3fa7a4]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2016/16/section/45) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/g)
+[^c-41105ace760c2b0bdd90f106de3fa7a4]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2016/16/section/45) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/g)
 
-[^key-4a72c01c895c0d7dce9d66a347b9703e]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2016/16/section/46) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-4a72c01c895c0d7dce9d66a347b9703e]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2016/16/section/46) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-10cf5460194c63aa552506a90f64d9ed]: Commencement: [S. 49(1)](https://www.legislation.gov.uk/asp/2016/16/section/49/1)[(3)](https://www.legislation.gov.uk/asp/2016/16/section/49/3) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/h)
+[^c-10cf5460194c63aa552506a90f64d9ed]: Commencement: [S. 49(1)](https://www.legislation.gov.uk/asp/2016/16/section/49/1)[(3)](https://www.legislation.gov.uk/asp/2016/16/section/49/3) in force at 6.9.2017 by [S.S.I. 2017/201](https://www.legislation.gov.uk/ssi/2017/201), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2017/201/regulation/2/h)
 
-[^key-1ff0f9587ba5171ad758a2ffc4f679f2]: Commencement: [S. 49(2)](https://www.legislation.gov.uk/asp/2016/16/section/49/2)[(4)](https://www.legislation.gov.uk/asp/2016/16/section/49/4) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-1ff0f9587ba5171ad758a2ffc4f679f2]: Commencement: [S. 49(2)](https://www.legislation.gov.uk/asp/2016/16/section/49/2)[(4)](https://www.legislation.gov.uk/asp/2016/16/section/49/4) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-edd56f562435bc3fe81e8ea356891c44]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2016/16/section/50) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-edd56f562435bc3fe81e8ea356891c44]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2016/16/section/50) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-2e9e74f4b6ce047844840b92fa5f9816]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/1) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-2e9e74f4b6ce047844840b92fa5f9816]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/1) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-c58b8324ab9ee826b2bd316c4cf2b900]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/2) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-c58b8324ab9ee826b2bd316c4cf2b900]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/2) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-b114407fc30083719625a9fd3fa06974]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/3) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-b114407fc30083719625a9fd3fa06974]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/3) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-e86724e09885261c197a5ff75c8b9191]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/4) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-e86724e09885261c197a5ff75c8b9191]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/4) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-e7ae834b421eb6b1e51d17a4ca81f7b4]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/5) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-e7ae834b421eb6b1e51d17a4ca81f7b4]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/5) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-a633d242958c8719d9a435ff5162366f]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/6) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-a633d242958c8719d9a435ff5162366f]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/6) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-2fc58aae70ef574004147d655f2f4d83]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/7) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-2fc58aae70ef574004147d655f2f4d83]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/7) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-d7c2a8a3a75788596b4e10b521d71c97]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/8) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-d7c2a8a3a75788596b4e10b521d71c97]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/8) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-2ef7bd8f9becf681b582fccb2890ad9f]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/9) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-2ef7bd8f9becf681b582fccb2890ad9f]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/9) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-cd12fc76404f600a0991403d9b992b9e]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/10) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-cd12fc76404f600a0991403d9b992b9e]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/10) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-55257ed7f62511804a6bbd1579507a5c]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/11) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-55257ed7f62511804a6bbd1579507a5c]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/11) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-2af7fe19fea7cd066e7943f5caae5174]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/12) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-2af7fe19fea7cd066e7943f5caae5174]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/12) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-ee68a8a6f7218f4d50908304b5a9907e]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/13) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-ee68a8a6f7218f4d50908304b5a9907e]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/13) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-9caeba73e37463fd629ee0078ac3d4e3]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/14) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-9caeba73e37463fd629ee0078ac3d4e3]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/14) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-3ce8f350a8d68403f7c3759741fd3e53]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/15) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-3ce8f350a8d68403f7c3759741fd3e53]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/15) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-4d206742718f636ad0d7934b2f2fe2f2]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/16) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-4d206742718f636ad0d7934b2f2fe2f2]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/16) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-91e342f2d3b1a131588215f45173c226]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/17) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-91e342f2d3b1a131588215f45173c226]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/17) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-4441f2fd17413c8a728b24a4c1746fac]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/18) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-4441f2fd17413c8a728b24a4c1746fac]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/18) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-092696467b55632eb09a3b1729d1a4e1]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/19) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-092696467b55632eb09a3b1729d1a4e1]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/19) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-6ed836bd0e6b362758258122b3afd8ac]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/20) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-6ed836bd0e6b362758258122b3afd8ac]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/20) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-332b7a435283b896605d28659724e6b9]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/21) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-332b7a435283b896605d28659724e6b9]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/21) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-45525a2b1322696cb06f07f602d70748]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/22) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-45525a2b1322696cb06f07f602d70748]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/22) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
 
-[^key-33818aa828f10058823eedcff263d6bd]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/23) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)
+[^c-33818aa828f10058823eedcff263d6bd]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/asp/2016/16/schedule/paragraph/23) in force at 12.3.2018 by [S.S.I. 2018/73](https://www.legislation.gov.uk/ssi/2018/73), [reg. 2](https://www.legislation.gov.uk/ssi/2018/73/regulation/2)

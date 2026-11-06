@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Litter offence: fixed penalty notice[^key-babd338c885ea42526ccc9cac1e184ad]
+## 16. Litter offence: fixed penalty notice[^c-babd338c885ea42526ccc9cac1e184ad]
 
 *Extent: N.I.*
 
-(1)[^key-8a0af71df9b6d8a2e4313a3cd8e0cdff] Article 6 of the Litter (Northern Ireland) Order 1994 (fixed penalty notices) shall be amended as follows.
+(1)[^c-8a0af71df9b6d8a2e4313a3cd8e0cdff] Article 6 of the Litter (Northern Ireland) Order 1994 (fixed penalty notices) shall be amended as follows.
 
 (2) For paragraphs (6) and (7) substitute—
 
@@ -35,7 +35,7 @@ summary: ''
 
 .
 
-(3)[^key-8a0af71df9b6d8a2e4313a3cd8e0cdff] After paragraph (8) insert—
+(3)[^c-8a0af71df9b6d8a2e4313a3cd8e0cdff] After paragraph (8) insert—
 
 > (8A) The Department shall prepare and issue, and may from time to time revise, a code of practice for the purpose of providing guidance on the giving by authorised officers of notices under this Article.
 >
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-babd338c885ea42526ccc9cac1e184ad]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2011/23/section/16) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-babd338c885ea42526ccc9cac1e184ad]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2011/23/section/16) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-8a0af71df9b6d8a2e4313a3cd8e0cdff]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/nia/2011/23/section/16/1)[(3)](https://www.legislation.gov.uk/nia/2011/23/section/16/3) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-8a0af71df9b6d8a2e4313a3cd8e0cdff]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/nia/2011/23/section/16/1)[(3)](https://www.legislation.gov.uk/nia/2011/23/section/16/3) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)

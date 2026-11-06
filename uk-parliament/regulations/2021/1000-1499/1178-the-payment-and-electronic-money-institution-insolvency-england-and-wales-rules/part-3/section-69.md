@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Constitution of creditors’ committee[^key-e3a46010be8ad516b4e5903bf3cf7f27]
+## 69. Constitution of creditors’ committee[^c-e3a46010be8ad516b4e5903bf3cf7f27]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3a46010be8ad516b4e5903bf3cf7f27]: Commencement: Rule 69 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-e3a46010be8ad516b4e5903bf3cf7f27]: Commencement: Rule 69 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

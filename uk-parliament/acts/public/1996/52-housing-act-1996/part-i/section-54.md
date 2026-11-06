@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Determinations of the Housing Corporation requiring approval.[^key-be3ce5f7f26e7fea7c72fa4c55723a50][^key-329f5595670cdbfad20ff340aaf4936d][^key-748b51094b3aa3f1abe274ac2ae0e4eb]
+## 54. Determinations of the Housing Corporation requiring approval.[^c-be3ce5f7f26e7fea7c72fa4c55723a50][^c-329f5595670cdbfad20ff340aaf4936d][^c-748b51094b3aa3f1abe274ac2ae0e4eb]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ summary: ''
 
 ## Annotations
 
-[^key-be3ce5f7f26e7fea7c72fa4c55723a50]: Textual amendment: S. 54 repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 94](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/94), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-be3ce5f7f26e7fea7c72fa4c55723a50]: Textual amendment: S. 54 repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 94](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/94), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
-[^key-329f5595670cdbfad20ff340aaf4936d]: Modification: S. 54: transfer of functions (1.12.2008) by [The Transfer of Housing Corporation Functions (Modifications and Transitional Provisions) Order 2008 (S.I. 2008/2839)](https://www.legislation.gov.uk/uksi/2008/2839), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2839/article/1/1), [2](https://www.legislation.gov.uk/uksi/2008/2839/article/2)
+[^c-329f5595670cdbfad20ff340aaf4936d]: Modification: S. 54: transfer of functions (1.12.2008) by [The Transfer of Housing Corporation Functions (Modifications and Transitional Provisions) Order 2008 (S.I. 2008/2839)](https://www.legislation.gov.uk/uksi/2008/2839), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2839/article/1/1), [2](https://www.legislation.gov.uk/uksi/2008/2839/article/2)
 
-[^key-748b51094b3aa3f1abe274ac2ae0e4eb]: Modification: S. 54 modified (1.12.2008) by [The Transfer of Housing Corporation Functions (Modifications and Transitional Provisions) Order 2008 (S.I. 2008/2839)](https://www.legislation.gov.uk/uksi/2008/2839), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2839/article/1/1), [3](https://www.legislation.gov.uk/uksi/2008/2839/article/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2008/2839/schedule/paragraph/5) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/2839/article/6))
+[^c-748b51094b3aa3f1abe274ac2ae0e4eb]: Modification: S. 54 modified (1.12.2008) by [The Transfer of Housing Corporation Functions (Modifications and Transitional Provisions) Order 2008 (S.I. 2008/2839)](https://www.legislation.gov.uk/uksi/2008/2839), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2839/article/1/1), [3](https://www.legislation.gov.uk/uksi/2008/2839/article/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2008/2839/schedule/paragraph/5) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/2839/article/6))

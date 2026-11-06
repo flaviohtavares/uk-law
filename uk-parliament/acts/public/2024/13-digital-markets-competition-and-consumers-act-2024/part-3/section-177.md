@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Enhanced consumer measures: private designated enforcers[^key-f03c7c5f973e999305916bedb5a45047][^key-6ce1f80caf64cf5b5b3cef4dabe56ad7]
+## 177. Enhanced consumer measures: private designated enforcers[^c-f03c7c5f973e999305916bedb5a45047][^c-6ce1f80caf64cf5b5b3cef4dabe56ad7]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,6 +67,6 @@ and for this purpose “parent undertaking” and “subsidiary undertaking” h
 
 ## Annotations
 
-[^key-f03c7c5f973e999305916bedb5a45047]: Commencement: S. 177 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-f03c7c5f973e999305916bedb5a45047]: Commencement: S. 177 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-6ce1f80caf64cf5b5b3cef4dabe56ad7]: Commencement: [S. 177](https://www.legislation.gov.uk/ukpga/2024/13/section/177) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-6ce1f80caf64cf5b5b3cef4dabe56ad7]: Commencement: [S. 177](https://www.legislation.gov.uk/ukpga/2024/13/section/177) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

@@ -48,7 +48,7 @@ summary: ''
   - (ii) by virtue of paragraph (1)(b) until they have consulted such bodies and the developer; and
 - (b) when making a scoping direction take into account the information provided by the developer, in particular information provided by the developer in respect of the specific characteristics of the development, including its location and technical capacity and its likely impact on the environment.
 
-(7) The bodies are[^key-c11c9d4f735f5a537b6cac9a848a5e79]—
+(7) The bodies are[^c-c11c9d4f735f5a537b6cac9a848a5e79]—
 
 - (a) the consultation bodies;
 - (b) the Health and Safety Executive where it would be required to be consulted under paragraph 3 or 4 of schedule 5 of the Development Management Procedure Regulations in relation to an application for planning permission for the proposed development;
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c11c9d4f735f5a537b6cac9a848a5e79]: Textual amendment: Word in [reg. 18(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/18/7) inserted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2017/168/regulation/3/3)
+[^c-c11c9d4f735f5a537b6cac9a848a5e79]: Textual amendment: Word in [reg. 18(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/18/7) inserted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2017/168/regulation/3/3)

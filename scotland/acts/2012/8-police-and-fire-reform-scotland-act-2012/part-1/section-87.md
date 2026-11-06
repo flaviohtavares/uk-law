@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Provision of other goods and services[^key-17805548c0e44c6579d0753c52b4303f][^key-aef73742187d4a2f9f5ecb1d3c8820cf]
+## 87. Provision of other goods and services[^c-17805548c0e44c6579d0753c52b4303f][^c-aef73742187d4a2f9f5ecb1d3c8820cf]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17805548c0e44c6579d0753c52b4303f]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2012/8/section/87) in force at 1.10.2012 for specified purposes by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-17805548c0e44c6579d0753c52b4303f]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2012/8/section/87) in force at 1.10.2012 for specified purposes by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
-[^key-aef73742187d4a2f9f5ecb1d3c8820cf]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2012/8/section/87) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-aef73742187d4a2f9f5ecb1d3c8820cf]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2012/8/section/87) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

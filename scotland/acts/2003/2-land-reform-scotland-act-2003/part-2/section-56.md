@@ -33,7 +33,7 @@ and shall specify the date of entry and of payment of the price in accordance wi
 
 (3) The date of entry and of payment of the price shall be—
 
-- (a) a date not later than 8[^key-16d0c0bb265bf629608a59733efbefc1] months from the date when the community body sent the confirmation sought by Ministers under section 49(2)(a) above of its intention to buy;
+- (a) a date not later than 8[^c-16d0c0bb265bf629608a59733efbefc1] months from the date when the community body sent the confirmation sought by Ministers under section 49(2)(a) above of its intention to buy;
 - (b) where the price assessed by the appointed valuer is the subject of an appeal under section 62 below which has not, within the period of 4 months after the date when the community body sent that confirmation, been—
   - (i) determined; or
   - (ii) abandoned following agreement between the community body and the owner of the land,
@@ -59,7 +59,7 @@ and shall specify the date of entry and of payment of the price in accordance wi
 
   applying to the Lands Tribunal accordingly.
 
-(7)[^key-b06c4436197dd3e723173417fbf864e9] Where a later date is agreed as mentioned in subsection (3)(c), the community body must, within 7 days of the agreement—
+(7)[^c-b06c4436197dd3e723173417fbf864e9] Where a later date is agreed as mentioned in subsection (3)(c), the community body must, within 7 days of the agreement—
 
 - (a) notify Ministers in writing of the agreement,
 - (b) inform Ministers—
@@ -69,6 +69,6 @@ and shall specify the date of entry and of payment of the price in accordance wi
 
 ## Annotations
 
-[^key-16d0c0bb265bf629608a59733efbefc1]: Textual amendment: Word in s. 56(3)(a) substituted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 54(a)](https://www.legislation.gov.uk/asp/2015/6/section/54/a), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-16d0c0bb265bf629608a59733efbefc1]: Textual amendment: Word in s. 56(3)(a) substituted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 54(a)](https://www.legislation.gov.uk/asp/2015/6/section/54/a), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
 
-[^key-b06c4436197dd3e723173417fbf864e9]: Textual amendment: S. 56(7) inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 54(b)](https://www.legislation.gov.uk/asp/2015/6/section/54/b), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-b06c4436197dd3e723173417fbf864e9]: Textual amendment: S. 56(7) inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 54(b)](https://www.legislation.gov.uk/asp/2015/6/section/54/b), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

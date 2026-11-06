@@ -43,7 +43,7 @@ The Department of Enterprise, Trade and Investment[^f00001]makes the following R
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and revocation[^key-e94a4bc29ec844ad805053667ed3181a]
+### 1. Citation, commencement and revocation[^c-e94a4bc29ec844ad805053667ed3181a]
 
 (1) These Regulations may be cited as the Weighing Equipment (Beltweighers) Regulations (Northern Ireland) 2006 and shall come into operation on 1st June 2006.
 
@@ -51,7 +51,7 @@ The Department of Enterprise, Trade and Investment[^f00001]makes the following R
 
 (3) Notwithstanding paragraph (2) and the following provisions, the 1985 Regulations shall continue to apply to any beltweigher to which those Regulations applied which was first passed as fit for use for trade before the 1st June 2006.
 
-### 2. Interpretation[^key-a6d4e6c3823cb64d6a3c9d0a9ebd8072]
+### 2. Interpretation[^c-a6d4e6c3823cb64d6a3c9d0a9ebd8072]
 
 (1) In these Regulations—
 
@@ -75,13 +75,13 @@ on its descriptive plate or elsewhere on the instrument; and “Class” shall b
 
 (3) For the purposes of the marks referred to in paragraph (2), the Class of a beltweigher is the Class appropriate to its accuracy on initial verification ascertained in relation to maximum permissible errors in accordance with clause 2.2.1 of R 50-1.
 
-### 3. Recommendations of the International Organisation of Legal Metrology[^key-a7ae65537a9eafc68cff492bd5586a7b]
+### 3. Recommendations of the International Organisation of Legal Metrology[^c-a7ae65537a9eafc68cff492bd5586a7b]
 
 (1) In these Regulations “R 50-1” means the International Recommendation entitled “Continuous totalizing automatic weighing instruments (beltweighers) Part 1: Metrological and technical requirements – Tests”[^f00006].
 
 (2) In these Regulations, any expression which is not defined in these Regulations and is used both herein and in R 50-1 has the same meaning as in R 50-1.
 
-### 4. Application[^key-69b59328962c011e8ce0ab685e7f4913]
+### 4. Application[^c-69b59328962c011e8ce0ab685e7f4913]
 
 (1) These Regulations apply to beltweighers for use for trade other than—
 
@@ -99,7 +99,7 @@ on its descriptive plate or elsewhere on the instrument; and “Class” shall b
 
 .
 
-### 5. Purposes of use for trade[^key-1116f2cb9d1baea9b61ada364d7d6153]
+### 5. Purposes of use for trade[^c-1116f2cb9d1baea9b61ada364d7d6153]
 
 A person shall not use a beltweigher for trade—
 
@@ -110,7 +110,7 @@ A person shall not use a beltweigher for trade—
 
 ## PART II — MATERIALS AND PRINCIPLES OF CONSTRUCTION AND MARKING OF BELTWEIGHERS
 
-### 6. Beltweighers to be made in accordance with approved pattern[^key-b96338d3c2297c5f726a442c618769e9]
+### 6. Beltweighers to be made in accordance with approved pattern[^c-b96338d3c2297c5f726a442c618769e9]
 
 (1) Every beltweigher shall be made in accordance with a pattern in respect of which a certificate of approval is in force.
 
@@ -118,7 +118,7 @@ A person shall not use a beltweigher for trade—
 
 (3) Notwithstanding the result of any test contained in the test report relating to the beltweigher in question, nothing in paragraph (2) shall permit the Class marked on a beltweigher to be a Class of higher accuracy than the Class specified in the relevant certificate of approval.
 
-### 7. Descriptive markings[^key-54f73385836fd0fd3e23162e2c1302d7]
+### 7. Descriptive markings[^c-54f73385836fd0fd3e23162e2c1302d7]
 
 (1) Every beltweigher shall be legibly and durably marked with the descriptive markings required by clauses 3.11.1 to 3.11.3, and, where appropriate, 3.11.4, of R 50-1 and in the manner specified in clause 3.11.5 thereof.
 
@@ -126,7 +126,7 @@ A person shall not use a beltweigher for trade—
 
 (3) In a case where the relevant certificate of approval contains different provisions relating to the use of a beltweigher for different purposes, the particulars relating to minimum totalised load shall be those relating to one such purpose only.
 
-### 8. Marking of units of measurement[^key-4459a71bf54027c93e242ba165d4d401]
+### 8. Marking of units of measurement[^c-4459a71bf54027c93e242ba165d4d401]
 
 (1) Subject to Article 53(3) of the 1981 Order, where units of measurement expressed in terms of mass are marked on beltweighers first passed as fit for use for trade after these Regulations come into operation, they shall be marked in metric units in full or by means of one of the following abbreviations or symbols only—
 
@@ -149,7 +149,7 @@ may also indicate quantity by means of a supplementary indication [^M_F_4be209cf
 
 ## PART III — MANNER OF ERECTION AND USE FOR TRADE
 
-### 9. Erection and use for trade[^key-86cc8eae8c73a91d01f5aad20ad1e3f3]
+### 9. Erection and use for trade[^c-86cc8eae8c73a91d01f5aad20ad1e3f3]
 
 (1) Every beltweigher shall be erected—
 
@@ -169,21 +169,21 @@ may also indicate quantity by means of a supplementary indication [^M_F_4be209cf
 
 be capable of determining the weight of material used in material testing and giving weight determinations such that in respect of each material test load the weight determination shall in total be accurate to within one-fifth of the limits of error prescribed for material testing whether such a load is determined in one or more weighing operations.
 
-### 10. Manner of use – spillage and loading[^key-a1e8e282a396df9fdb1c0dd9ae205250]
+### 10. Manner of use – spillage and loading[^c-a1e8e282a396df9fdb1c0dd9ae205250]
 
 A person shall not use a beltweigher for trade in such a manner as to cause—
 
 - (a) spillage of material from the belt; or
 - (b) loading of the weighing unit above its maximum capacity as defined in clause T.4.4 of R 50-1.
 
-### 11. Manner of use – belt speed[^key-ae27e2f2c3f6facbbf6ead4ffa9ab203]
+### 11. Manner of use – belt speed[^c-ae27e2f2c3f6facbbf6ead4ffa9ab203]
 
 A person shall not use for trade a beltweigher which is designed to operate—
 
 - (a) at only one belt speed, in such a manner that the speed of the belt varies by more than 5% of its nominal speed, that is to say, the speed at which the belt is designed to convey material; or
 - (b) at more than one belt speed, having a speed setting control, in such a manner that the speed of the belt varies by more than 5% of the speed at which it is set to operate, whether by the operator or automatically.
 
-### 12. Position of operator[^key-24a1bf7f2b47ef08c72289464caf6527]
+### 12. Position of operator[^c-24a1bf7f2b47ef08c72289464caf6527]
 
 Every beltweigher shall be erected in such a manner that the operator can readily take up a single position from which he can—
 
@@ -193,7 +193,7 @@ Every beltweigher shall be erected in such a manner that the operator can readil
 
 ## PART IV — TESTING
 
-### 13. Testing[^key-e5364ea26b59bda21d4930ca03a45779]
+### 13. Testing[^c-e5364ea26b59bda21d4930ca03a45779]
 
 (1) The inspector shall test a beltweigher in accordance with the procedures relating to metrological requirements set out in clauses 5.2.1.1, 5.2.1.2 of, and clause A.11 of Annex A to, R 50-1, and, where appropriate, that relating to the switch-on procedure for electronic beltweighers set out in clause 4.4 of R 50-1.
 
@@ -208,7 +208,7 @@ Every beltweigher shall be erected in such a manner that the operator can readil
 
 (5) For the purposes of the performance by an inspector of his functions under the 1981 Order or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of any beltweigher, a person submitting a beltweigher to an inspector or who an inspector has reasonable cause to believe has possession of a beltweigher for use for trade shall, if requested, provide to the inspector such material, handling equipment and assistance as the inspector may reasonably require; and any material or equipment so provided shall be returned to the person in question.
 
-### 14. Beltweighers imported from an EEA State[^key-eb899952ab00230b947357e49b3e7794]
+### 14. Beltweighers imported from an EEA State[^c-eb899952ab00230b947357e49b3e7794]
 
 (1) In relation to a beltweigher imported into Northern Ireland from an EEA State, (whether directly or indirectly through Great Britain), subject to paragraph (4), an inspector shall not carry out any test in accordance with regulation 13 if, together with the beltweigher being imported, he is presented with the requisite documentation.
 
@@ -217,7 +217,7 @@ Every beltweigher shall be erected in such a manner that the operator can readil
 - (a) “requisite documentation” means—
   - (i) the test report of an approved body that the beltweigher which is the subject of that report has been tested on the same basis as that set out in this Part of these Regulations or on an equivalent basis and stating which tests have been applied to it; and
   - (ii) the test results relating to those tests; and
-- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^key-752b1803ccaa5afca252e0f797c0d28d]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
+- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^c-752b1803ccaa5afca252e0f797c0d28d]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
 
 (3) A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of beltweighers or is a laboratory which has been accredited for the purposes of testing beltweighers in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000[^f00015].
 
@@ -231,7 +231,7 @@ Every beltweigher shall be erected in such a manner that the operator can readil
 
 ## PART V — SUPPLEMENTARY PROVISIONS
 
-### 15. Passing as fit for use for trade[^key-e3a1a865a7d55ec3d905a6cd99a2685f]
+### 15. Passing as fit for use for trade[^c-e3a1a865a7d55ec3d905a6cd99a2685f]
 
 (1) Save in a case where paragraph (2) has effect, no beltweigher shall be passed as fit for use for trade unless—
 
@@ -245,7 +245,7 @@ Every beltweigher shall be erected in such a manner that the operator can readil
 - (a) where the requisite documentation is presented in accordance with regulation 14, the test report recites and the test data confirm to the satisfaction of the inspector that on testing in the relevant State it fell within the relevant maximum permissible error; and
 - (b) it complies with all the relevant requirements of these Regulations.
 
-### 16. Stamping and marking[^key-eaf1e7b78f5910f8bf688dfc2e39f76c]
+### 16. Stamping and marking[^c-eaf1e7b78f5910f8bf688dfc2e39f76c]
 
 (1) Every beltweigher shall be provided with either—
 
@@ -258,13 +258,13 @@ and the plug or stud shall be placed and mounted in conformity with clause 3.12.
 
 (3) A beltweigher shall not be stamped in accordance with paragraph (2) if it bears any mark which, in the opinion of the inspector, might reasonably be mistaken for the stamp, or any statement or mark (other than an inspector’s stamp) which purports to be or, in the opinion of the inspector, might reasonably be mistaken for an expression of approval or guarantee of accuracy by any body or person.
 
-### 17. Manner of obliteration of stamps[^key-88c0723d0943c7e71c28cdd8d12fd484]
+### 17. Manner of obliteration of stamps[^c-88c0723d0943c7e71c28cdd8d12fd484]
 
 Stamps shall be obliterated by an inspector, in accordance with the requirements of these Regulations, by means of punches or pincers of suitable sizes of a six-pointed star design as shown in the following illustration—
 
 [image: see source](https://www.legislation.gov.uk/nisr/2006/157/images/nisr_20060157_en_001)
 
-### 18. Obliteration of stamps[^key-2907cb96334e36daea834e0cb5166c3e]
+### 18. Obliteration of stamps[^c-2907cb96334e36daea834e0cb5166c3e]
 
 (1) Subject to paragraph (2), an inspector shall obliterate the stamp on any beltweigher which—
 
@@ -274,18 +274,18 @@ Stamps shall be obliterated by an inspector, in accordance with the requirements
 
 (2) Except as provided by regulation 19, where any beltweigher does not fully comply with the requirements of these Regulations but the nature or degree of the non-compliance is not in the inspector’s opinion such as to require the immediate obliteration of the stamp, the inspector shall give to the proprietor or any person in possession of the beltweigher a notice calling on him to have the beltweigher corrected within a stated period not exceeding 28 days; and he shall obliterate the stamp if the correction has not been made within the stated period.
 
-### 19. Mandatory obliteration of stamps on beltweighers which are unfit for use for trade[^key-1f635d37950c05b02a201de126710a95]
+### 19. Mandatory obliteration of stamps on beltweighers which are unfit for use for trade[^c-1f635d37950c05b02a201de126710a95]
 
 An inspector shall obliterate the stamp on any beltweigher which has, since it was last stamped, had any alteration or addition made to it such that it could not be passed as fit for use for trade under regulation 15.
 
-### 20. Power to obliterate stamps on beltweighers which are unfit for use for trade for particular purpose[^key-acc65ee13966c01d4586e4ffe281e08e]
+### 20. Power to obliterate stamps on beltweighers which are unfit for use for trade for particular purpose[^c-acc65ee13966c01d4586e4ffe281e08e]
 
 An inspector may obliterate the stamp on any beltweigher if—
 
 - (a) it has, since it was last stamped, been the subject of any adjustment, alteration, addition, repair or replacement which could, in the opinion of the inspector, have affected its function or accuracy; or
 - (b) it is in use for trade for a particular purpose and in the opinion of the inspector, it is unsuitable for use for that purpose.
 
-### 21. Obliteration of one stamp deemed obliteration of all[^key-9198c4d70732eb08ce90e9dcb7918f0a]
+### 21. Obliteration of one stamp deemed obliteration of all[^c-9198c4d70732eb08ce90e9dcb7918f0a]
 
 For the purpose of these Regulations, the obliteration of any one stamp on any beltweigher shall be deemed to be the obliteration of all other stamps on that beltweigher.
 
@@ -297,7 +297,7 @@ A senior officer of the
 
 Department of Enterprise, Trade and Investment
 
-## SCHEDULE — TABLE OF MAXIMUM PERMISSIBLE ERRORS[^key-19f3ddb6648fbc86ed8b6d594da250d2]
+## SCHEDULE — TABLE OF MAXIMUM PERMISSIBLE ERRORS[^c-19f3ddb6648fbc86ed8b6d594da250d2]
 
 regulation 2(1)
 
@@ -352,19 +352,19 @@ Contravention of these Regulations is an offence under Article 13(1) of the 1981
 
 [^f00003]: Footnote: By S.I. [1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846), Art. 4
 
-[^key-e94a4bc29ec844ad805053667ed3181a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/157/regulation/1) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-e94a4bc29ec844ad805053667ed3181a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/157/regulation/1) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-a6d4e6c3823cb64d6a3c9d0a9ebd8072]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/157/regulation/2) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-a6d4e6c3823cb64d6a3c9d0a9ebd8072]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/157/regulation/2) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
 [^f00004]: Footnote: [S.R.1985 No. 319](https://www.legislation.gov.uk/nisr/1985/319) as amended by [S.R. 1995 No. 228](https://www.legislation.gov.uk/nisr/1995/228)
 
 [^f00005]: Footnote: [S.R.& O. 1969 No.11](https://www.legislation.gov.uk/nisr/1969/11) as amended by [S.R. 2002 No. 36](https://www.legislation.gov.uk/nisr/2002/36)
 
-[^key-a7ae65537a9eafc68cff492bd5586a7b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/157/regulation/3) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-a7ae65537a9eafc68cff492bd5586a7b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/157/regulation/3) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
 [^f00006]: Footnote: Edition 1997 (E) published by the International Organisation of Legal Metrology
 
-[^key-69b59328962c011e8ce0ab685e7f4913]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/157/regulation/4) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-69b59328962c011e8ce0ab685e7f4913]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/157/regulation/4) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
 [^f00007]: Footnote: S.I. [1988/186](https://www.legislation.gov.uk/uksi/1988/186), as amended by S.I. [1988/1128](https://www.legislation.gov.uk/uksi/1988/1128)
 
@@ -374,17 +374,17 @@ Contravention of these Regulations is an offence under Article 13(1) of the 1981
 
 [^f00010]: Footnote: [S.R. 2006 No. 157](https://www.legislation.gov.uk/nisr/2006/157)
 
-[^key-1116f2cb9d1baea9b61ada364d7d6153]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/157/regulation/5) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-1116f2cb9d1baea9b61ada364d7d6153]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/157/regulation/5) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-b96338d3c2297c5f726a442c618769e9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/157/regulation/6) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-b96338d3c2297c5f726a442c618769e9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/157/regulation/6) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-54f73385836fd0fd3e23162e2c1302d7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/157/regulation/7) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-54f73385836fd0fd3e23162e2c1302d7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/157/regulation/7) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-4459a71bf54027c93e242ba165d4d401]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/157/regulation/8) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-4459a71bf54027c93e242ba165d4d401]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/157/regulation/8) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
 [^M_F_4be209cf-2c1e-4d39-8b07-081cad386375]: Textual amendment: Words in reg. 8(2) omitted (6.12.2010) by [The Weights and Measures (Metrication Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/366)](https://www.legislation.gov.uk/nisr/2010/366), [regs. 1](https://www.legislation.gov.uk/nisr/2010/366/regulation/1), [3(1)(2)(i)](https://www.legislation.gov.uk/nisr/2010/366/regulation/3/1)
 
-[^key-86cc8eae8c73a91d01f5aad20ad1e3f3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/157/regulation/9) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-86cc8eae8c73a91d01f5aad20ad1e3f3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/157/regulation/9) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
 [^f00011]: Footnote: S.I. [2000/3236](https://www.legislation.gov.uk/uksi/2000/3236)
 
@@ -394,32 +394,32 @@ Contravention of these Regulations is an offence under Article 13(1) of the 1981
 
 [^f00014]: Footnote: [S.R. 2005 No. 27](https://www.legislation.gov.uk/nisr/2005/27)
 
-[^key-a1e8e282a396df9fdb1c0dd9ae205250]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/157/regulation/10) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-a1e8e282a396df9fdb1c0dd9ae205250]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/157/regulation/10) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-ae27e2f2c3f6facbbf6ead4ffa9ab203]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/157/regulation/11) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-ae27e2f2c3f6facbbf6ead4ffa9ab203]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/157/regulation/11) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-24a1bf7f2b47ef08c72289464caf6527]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/157/regulation/12) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-24a1bf7f2b47ef08c72289464caf6527]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/157/regulation/12) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-e5364ea26b59bda21d4930ca03a45779]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/157/regulation/13) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-e5364ea26b59bda21d4930ca03a45779]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/157/regulation/13) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-eb899952ab00230b947357e49b3e7794]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/157/regulation/14) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-eb899952ab00230b947357e49b3e7794]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/157/regulation/14) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-752b1803ccaa5afca252e0f797c0d28d]: Textual amendment: Words in [reg. 14(2)(b)](https://www.legislation.gov.uk/nisr/2006/157/regulation/14/2/b) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-752b1803ccaa5afca252e0f797c0d28d]: Textual amendment: Words in [reg. 14(2)(b)](https://www.legislation.gov.uk/nisr/2006/157/regulation/14/2/b) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00015]: Footnote: BS EN ISO 17025:2000 is the international standard “General requirements for the competence of testing and calibration laboratories” (ISBN 0 580 34929 2)
 
-[^key-e3a1a865a7d55ec3d905a6cd99a2685f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/157/regulation/15) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-e3a1a865a7d55ec3d905a6cd99a2685f]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/157/regulation/15) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-eaf1e7b78f5910f8bf688dfc2e39f76c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/157/regulation/16) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-eaf1e7b78f5910f8bf688dfc2e39f76c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/157/regulation/16) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-88c0723d0943c7e71c28cdd8d12fd484]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/157/regulation/17) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-88c0723d0943c7e71c28cdd8d12fd484]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/157/regulation/17) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-2907cb96334e36daea834e0cb5166c3e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/157/regulation/18) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-2907cb96334e36daea834e0cb5166c3e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/157/regulation/18) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-1f635d37950c05b02a201de126710a95]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/157/regulation/19) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-1f635d37950c05b02a201de126710a95]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/157/regulation/19) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-acc65ee13966c01d4586e4ffe281e08e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/157/regulation/20) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-acc65ee13966c01d4586e4ffe281e08e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/157/regulation/20) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-9198c4d70732eb08ce90e9dcb7918f0a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/157/regulation/21) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-9198c4d70732eb08ce90e9dcb7918f0a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/157/regulation/21) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
 
-[^key-19f3ddb6648fbc86ed8b6d594da250d2]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2006/157/schedule) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)
+[^c-19f3ddb6648fbc86ed8b6d594da250d2]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2006/157/schedule) in operation at 1.6.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/157/regulation/1/1)

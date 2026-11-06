@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^key-e4a4d7962974dc39d5fa9ec4e6fd96b8]
+## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^c-e4a4d7962974dc39d5fa9ec4e6fd96b8]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ Article 41
 
 ## Annotations
 
-[^key-e4a4d7962974dc39d5fa9ec4e6fd96b8]: Commencement: Sch. 10 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-e4a4d7962974dc39d5fa9ec4e6fd96b8]: Commencement: Sch. 10 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)

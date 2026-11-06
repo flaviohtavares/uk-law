@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 165. Commutation of whole pension (serious ill-health)[^key-43330afa5774a8cdb8718bffa8561f39]
+## 165. Commutation of whole pension (serious ill-health)[^c-43330afa5774a8cdb8718bffa8561f39]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43330afa5774a8cdb8718bffa8561f39]: Commencement: [Reg. 165](https://www.legislation.gov.uk/ssi/2014/292/regulation/165) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-43330afa5774a8cdb8718bffa8561f39]: Commencement: [Reg. 165](https://www.legislation.gov.uk/ssi/2014/292/regulation/165) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

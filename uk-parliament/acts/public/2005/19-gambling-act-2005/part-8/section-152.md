@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Combined licence, &c.[^key-80df83ea63634e31e487d08d2858ef83]
+## 152. Combined licence, &c.[^c-80df83ea63634e31e487d08d2858ef83]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80df83ea63634e31e487d08d2858ef83]: Commencement: S. 152 in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3272/schedule/2) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by [S.I. 2007/1157](https://www.legislation.gov.uk/uksi/2007/1157), arts. 3(3), 4)
+[^c-80df83ea63634e31e487d08d2858ef83]: Commencement: S. 152 in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3272/schedule/2) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by [S.I. 2007/1157](https://www.legislation.gov.uk/uksi/2007/1157), arts. 3(3), 4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Amendment of Subpart O of Section A of Annex 1 to [Commission Regulation (EU) No 748/2012](https://www.legislation.gov.uk/eur/2012/0748)[^key-dc68a40e77a54af6de9bb3485090fb77]
+## 206. Amendment of Subpart O of Section A of Annex 1 to [Commission Regulation (EU) No 748/2012](https://www.legislation.gov.uk/eur/2012/0748)[^c-dc68a40e77a54af6de9bb3485090fb77]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,15 +38,15 @@ summary: ''
 
 (6) In point 21.A.604, in each place it occurs (including the heading), for “ETSO” substitute “UKTSO”.
 
-(7)[^key-37910eea9c7c82c8f3f184ef23566ec2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-37910eea9c7c82c8f3f184ef23566ec2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-37910eea9c7c82c8f3f184ef23566ec2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-37910eea9c7c82c8f3f184ef23566ec2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In points 21.A.607 (including the heading) and 21.A.608, in each place it occurs, for “ETSO” substitute “UKTSO”.
 
 (10) In point 21.A.609—
 
-- (a) in each place it occurs (including the heading), for “ETSO” substitute “ UKTSO[^key-45182c30172154d96e4aaaf891cfee95] ”;
+- (a) in each place it occurs (including the heading), for “ETSO” substitute “ UKTSO[^c-45182c30172154d96e4aaaf891cfee95] ”;
 - (b) in point (d), for “Agency” substitute “CAA”.
 
 (11) In point 21.A.610—
@@ -78,8 +78,8 @@ summary: ''
 
 ## Annotations
 
-[^key-dc68a40e77a54af6de9bb3485090fb77]: Commencement: Reg. 206 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dc68a40e77a54af6de9bb3485090fb77]: Commencement: Reg. 206 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-37910eea9c7c82c8f3f184ef23566ec2]: Textual amendment: Reg. 206(7)(8) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [9(a)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/9/a)
+[^c-37910eea9c7c82c8f3f184ef23566ec2]: Textual amendment: Reg. 206(7)(8) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [9(a)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/9/a)
 
-[^key-45182c30172154d96e4aaaf891cfee95]: Textual amendment: Word in reg. 206(10)(a) substituted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [9(b)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/9/b)
+[^c-45182c30172154d96e4aaaf891cfee95]: Textual amendment: Word in reg. 206(10)(a) substituted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [9(b)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/9/b)

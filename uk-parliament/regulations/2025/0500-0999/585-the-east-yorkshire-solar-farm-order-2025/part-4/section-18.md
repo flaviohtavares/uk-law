@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Protective works to buildings[^key-b81f4a8425b81dc12b02b85bc9173e28]
+## 18. Protective works to buildings[^c-b81f4a8425b81dc12b02b85bc9173e28]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 the undertaker must, except in the case of emergency, serve on the owners and occupiers of the building or land not less than 14 days’ notice of its intention to exercise that right and, in a case falling within sub-paragraph (a), (c) or (d), specifying the protective works proposed to be carried out.
 
-(6) Where a notice is served under paragraph (5)(a), (5)(c) or (5)(d), the owner or occupier of the building or land concerned may, by serving a counter-notice within the period of 10 days beginning with the day on which the notice was served, [^key-09ece5491b6e021baeaad774e7945ec7]... question whether it is necessary or expedient to carry out the protective works or to enter the building or land to be referred to arbitration under article 42 (arbitration).
+(6) Where a notice is served under paragraph (5)(a), (5)(c) or (5)(d), the owner or occupier of the building or land concerned may, by serving a counter-notice within the period of 10 days beginning with the day on which the notice was served, [^c-09ece5491b6e021baeaad774e7945ec7]... question whether it is necessary or expedient to carry out the protective works or to enter the building or land to be referred to arbitration under article 42 (arbitration).
 
 (7) The undertaker must compensate the owners and occupiers of any building or land in relation to which rights under this article have been exercised for any loss or damage arising to them by reason of the exercise of those rights.
 
@@ -67,6 +67,6 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 ## Annotations
 
-[^key-b81f4a8425b81dc12b02b85bc9173e28]: Commencement: Art. 18 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-b81f4a8425b81dc12b02b85bc9173e28]: Commencement: Art. 18 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-09ece5491b6e021baeaad774e7945ec7]: Textual amendment: Words in [art. 18(6)](https://www.legislation.gov.uk/uksi/2025/585/article/18/6) omitted (20.9.2025) by virtue of [The East Yorkshire Solar Farm (Correction) Order 2025 (S.I. 2025/1059)](https://www.legislation.gov.uk/uksi/2025/1059), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1059/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/1059/schedule)
+[^c-09ece5491b6e021baeaad774e7945ec7]: Textual amendment: Words in [art. 18(6)](https://www.legislation.gov.uk/uksi/2025/585/article/18/6) omitted (20.9.2025) by virtue of [The East Yorkshire Solar Farm (Correction) Order 2025 (S.I. 2025/1059)](https://www.legislation.gov.uk/uksi/2025/1059), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1059/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/1059/schedule)

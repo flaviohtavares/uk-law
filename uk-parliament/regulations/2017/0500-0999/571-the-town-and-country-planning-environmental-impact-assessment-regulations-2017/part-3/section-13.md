@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where an application has been referred to the Secretary of State for determination under section 77 of the Act (reference of applications to Secretary of State) or made to the Secretary of State under section 293B or section 293D (urgent Crown development or Crown development)[^key-b6cfe5b33c4f2b1e3c1436849f361a98], and it appears to the Secretary of State that—
+(1) Where an application has been referred to the Secretary of State for determination under section 77 of the Act (reference of applications to Secretary of State) or made to the Secretary of State under section 293B or section 293D (urgent Crown development or Crown development)[^c-b6cfe5b33c4f2b1e3c1436849f361a98], and it appears to the Secretary of State that—
 
 - (a) it is a Schedule 1 application or a Schedule 2 application; and
 - (b) the development in question—
@@ -37,7 +37,7 @@ paragraphs (3) to (8) of regulation 7 apply as if the referral of the applicatio
 
 make a request for additional information before issuing a screening direction.
 
-(3) Where the Secretary State has determined that an application referred to the Secretary of State under section 77 of the Act (reference of applications to Secretary of State) for determination or an application made to the Secretary of State under section 293B or section 293D (urgent Crown development or Crown development)[^key-d4684a85a48c333ed2cf6d7119c86f60] is an EIA application but is not accompanied by a statement referred to by the applicant as an environmental statement for the purposes of these Regulations, the Secretary of State must notify the applicant in writing that the submission of an environmental statement is required and must send a copy of that notification to the relevant planning authority.
+(3) Where the Secretary State has determined that an application referred to the Secretary of State under section 77 of the Act (reference of applications to Secretary of State) for determination or an application made to the Secretary of State under section 293B or section 293D (urgent Crown development or Crown development)[^c-d4684a85a48c333ed2cf6d7119c86f60] is an EIA application but is not accompanied by a statement referred to by the applicant as an environmental statement for the purposes of these Regulations, the Secretary of State must notify the applicant in writing that the submission of an environmental statement is required and must send a copy of that notification to the relevant planning authority.
 
 (4) The Secretary of State must notify the applicant of the Secretary of State's determination under paragraph (3) within 3 weeks beginning with the date the application was received or such longer period as may be reasonably required.
 
@@ -58,6 +58,6 @@ the Secretary of State must determine the relevant application only by refusing 
 
 ## Annotations
 
-[^key-b6cfe5b33c4f2b1e3c1436849f361a98]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/13/1) inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [15(3)(a)](https://www.legislation.gov.uk/uksi/2025/412/regulation/15/3/a)
+[^c-b6cfe5b33c4f2b1e3c1436849f361a98]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/13/1) inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [15(3)(a)](https://www.legislation.gov.uk/uksi/2025/412/regulation/15/3/a)
 
-[^key-d4684a85a48c333ed2cf6d7119c86f60]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2017/571/regulation/13/3) inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [15(3)(b)](https://www.legislation.gov.uk/uksi/2025/412/regulation/15/3/b)
+[^c-d4684a85a48c333ed2cf6d7119c86f60]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2017/571/regulation/13/3) inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [15(3)(b)](https://www.legislation.gov.uk/uksi/2025/412/regulation/15/3/b)

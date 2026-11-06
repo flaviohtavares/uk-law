@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Directions under Parts 7 and 8[^key-2dd8ec3bba5600c6311ab267dac4e590][^key-0e33bbcb3903b770be84ee78dd985fdf]
+## 125. Directions under Parts 7 and 8[^c-2dd8ec3bba5600c6311ab267dac4e590][^c-0e33bbcb3903b770be84ee78dd985fdf]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2dd8ec3bba5600c6311ab267dac4e590]: Commencement: Reg. 125 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-2dd8ec3bba5600c6311ab267dac4e590]: Commencement: Reg. 125 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-0e33bbcb3903b770be84ee78dd985fdf]: Commencement: [Reg. 125](https://www.legislation.gov.uk/uksi/2019/411/regulation/125) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0e33bbcb3903b770be84ee78dd985fdf]: Commencement: [Reg. 125](https://www.legislation.gov.uk/uksi/2019/411/regulation/125) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

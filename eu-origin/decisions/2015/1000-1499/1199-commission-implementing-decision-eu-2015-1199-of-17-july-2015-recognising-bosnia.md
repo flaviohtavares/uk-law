@@ -35,22 +35,22 @@ recognising Bosnia and Herzegovina as being free from *Clavibacter michiganensis
 
 *(notified under document C(2015) 4838)* (revoked)
 
-[^key-d7289e0d15d6fbb7788252f86f130bb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d7289e0d15d6fbb7788252f86f130bb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Recognition[^key-d7289e0d15d6fbb7788252f86f130bb0]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Request for information[^key-d7289e0d15d6fbb7788252f86f130bb0]
+## Article 1. Recognition[^c-d7289e0d15d6fbb7788252f86f130bb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Addressees[^key-d7289e0d15d6fbb7788252f86f130bb0]
+## Article 2. Request for information[^c-d7289e0d15d6fbb7788252f86f130bb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d7289e0d15d6fbb7788252f86f130bb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 3. Addressees[^c-d7289e0d15d6fbb7788252f86f130bb0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d7289e0d15d6fbb7788252f86f130bb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d7289e0d15d6fbb7788252f86f130bb0]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/23) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-d7289e0d15d6fbb7788252f86f130bb0]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 23](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/23) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

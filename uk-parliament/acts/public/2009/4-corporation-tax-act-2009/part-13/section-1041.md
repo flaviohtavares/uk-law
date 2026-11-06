@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-In this Part “**research and development**” has the meaning given by section 1138 of CTA 2010[^key-5fcecd10949ec71780fedd4e35288614].
+In this Part “**research and development**” has the meaning given by section 1138 of CTA 2010[^c-5fcecd10949ec71780fedd4e35288614].
 
 ## Annotations
 
-[^key-5fcecd10949ec71780fedd4e35288614]: Textual amendment: Words in s. 1041 substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 666](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/666) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5fcecd10949ec71780fedd4e35288614]: Textual amendment: Words in s. 1041 substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 666](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/666) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

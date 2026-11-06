@@ -23,10 +23,10 @@ summary: ''
 (1) Where the traffic commissioner is satisfied that the operator of a local service has, without reasonable excuse—
 
 - (a) failed to operate a local service registered under section 6 of the 1985 Act;
-- (b) operated a local service in contravention of that section or section 3F(1) or 13B(1)(b) or (3)[^key-4fe6ed9f587bdbdebe23ce39f065c8e0] of this Act; [^key-5db16111ab979abc9c5408f7b66c0f61]...
-- (ba)[^key-bbf2b1b808e88433f4db40d3af52552b] failed to comply with a requirement under section 6ZA of the 1985 Act,
-- (bb)[^key-cebd195892f88043f7239e93fa5b6904] failed to comply with a requirement to provide information (including a requirement to provide it within a specified time or in a specified form) under section 3K(2) or 13R(2),
-- (c) failed to comply with section 32(1) or 34(3) of this Act ; or[^key-a8f940345e96b75ed93c64ee656dbf1c]
+- (b) operated a local service in contravention of that section or section 3F(1) or 13B(1)(b) or (3)[^c-4fe6ed9f587bdbdebe23ce39f065c8e0] of this Act; [^c-5db16111ab979abc9c5408f7b66c0f61]...
+- (ba)[^c-bbf2b1b808e88433f4db40d3af52552b] failed to comply with a requirement under section 6ZA of the 1985 Act,
+- (bb)[^c-cebd195892f88043f7239e93fa5b6904] failed to comply with a requirement to provide information (including a requirement to provide it within a specified time or in a specified form) under section 3K(2) or 13R(2),
+- (c) failed to comply with section 32(1) or 34(3) of this Act ; or[^c-a8f940345e96b75ed93c64ee656dbf1c]
 - (d) failed to comply with a requirement of regulations made under section 181A of the Equality Act 2010,
 
 the commissioner may impose a penalty on the operator.
@@ -47,7 +47,7 @@ multiplied by the total number of vehicles which the operator is licensed to use
 - (a) the Scottish Ministers; and
 - (b) the operator.
 
-(5A)[^key-e1d6fdd2bf80305161aded4141d203d9] Any operator on whom a penalty has been imposed under any paragraph of subsection (1) above except paragraph (d) may appeal to the Upper Tribunal for Scotland against the imposition of the penalty.
+(5A)[^c-e1d6fdd2bf80305161aded4141d203d9] Any operator on whom a penalty has been imposed under any paragraph of subsection (1) above except paragraph (d) may appeal to the Upper Tribunal for Scotland against the imposition of the penalty.
 
 (5B) On an appeal under subsection (5A), the Upper Tribunal may—
 
@@ -74,22 +74,22 @@ multiplied by the total number of vehicles which the operator is licensed to use
   - (i) subsection (5B) or (5C), or
   - (ii) section 44 of the 2014 Act in a review of a decision under subsection (5B) or (5C).
 
-(6) Any operator on whom a penalty has been imposed under subsection (1)(d)[^key-975193c22541b5aec996e87f502055b3] above may appeal to the Transport Tribunal against the imposition of the penalty.
+(6) Any operator on whom a penalty has been imposed under subsection (1)(d)[^c-975193c22541b5aec996e87f502055b3] above may appeal to the Transport Tribunal against the imposition of the penalty.
 
 (7) Any amount due under this section shall be recoverable as a civil debt.
 
 ## Annotations
 
-[^key-4fe6ed9f587bdbdebe23ce39f065c8e0]: Textual amendment: Words in s. 39(1)(b) substituted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 3(4)(a)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/4/a) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-4fe6ed9f587bdbdebe23ce39f065c8e0]: Textual amendment: Words in s. 39(1)(b) substituted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 3(4)(a)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/4/a) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-5db16111ab979abc9c5408f7b66c0f61]: Textual amendment: Word in s. 39(1) omitted (26.6.2018) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 17(6)(a)](https://www.legislation.gov.uk/ukpga/2017/21/section/17/6/a), [26(2)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/2); [S.I. 2018/758](https://www.legislation.gov.uk/uksi/2018/758), [reg. 2](https://www.legislation.gov.uk/uksi/2018/758/regulation/2)
+[^c-5db16111ab979abc9c5408f7b66c0f61]: Textual amendment: Word in s. 39(1) omitted (26.6.2018) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 17(6)(a)](https://www.legislation.gov.uk/ukpga/2017/21/section/17/6/a), [26(2)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/2); [S.I. 2018/758](https://www.legislation.gov.uk/uksi/2018/758), [reg. 2](https://www.legislation.gov.uk/uksi/2018/758/regulation/2)
 
-[^key-bbf2b1b808e88433f4db40d3af52552b]: Textual amendment: S. 39(1)(ba) inserted (28.11.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 39(2)](https://www.legislation.gov.uk/asp/2019/17/section/39/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)
+[^c-bbf2b1b808e88433f4db40d3af52552b]: Textual amendment: S. 39(1)(ba) inserted (28.11.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 39(2)](https://www.legislation.gov.uk/asp/2019/17/section/39/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)
 
-[^key-cebd195892f88043f7239e93fa5b6904]: Textual amendment: S. 39(1)(bb) inserted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 3(4)(b)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/4/b) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)) (as amended (27.11.2023) by [S.S.I. 2023/347](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/7/a)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-cebd195892f88043f7239e93fa5b6904]: Textual amendment: S. 39(1)(bb) inserted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 3(4)(b)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/3/4/b) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)) (as amended (27.11.2023) by [S.S.I. 2023/347](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/7/a)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-a8f940345e96b75ed93c64ee656dbf1c]: Textual amendment: S. 39(1)(d) and word inserted (26.6.2018) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 17(6)(b)](https://www.legislation.gov.uk/ukpga/2017/21/section/17/6/b), [26(2)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/2); [S.I. 2018/758](https://www.legislation.gov.uk/uksi/2018/758), [reg. 2](https://www.legislation.gov.uk/uksi/2018/758/regulation/2)
+[^c-a8f940345e96b75ed93c64ee656dbf1c]: Textual amendment: S. 39(1)(d) and word inserted (26.6.2018) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 17(6)(b)](https://www.legislation.gov.uk/ukpga/2017/21/section/17/6/b), [26(2)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/2); [S.I. 2018/758](https://www.legislation.gov.uk/uksi/2018/758), [reg. 2](https://www.legislation.gov.uk/uksi/2018/758/regulation/2)
 
-[^key-e1d6fdd2bf80305161aded4141d203d9]: Textual amendment: S. 39(5A)-(5G) inserted (2.12.2024) by [The Upper Tribunal for Scotland (Transfer of Functions of the Transport Tribunal) Regulations 2024 (S.S.I. 2024/337)](https://www.legislation.gov.uk/ssi/2024/337), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/337/regulation/1/1), [sch. 2 para. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/337/schedule/2/paragraph/1/2/a)
+[^c-e1d6fdd2bf80305161aded4141d203d9]: Textual amendment: S. 39(5A)-(5G) inserted (2.12.2024) by [The Upper Tribunal for Scotland (Transfer of Functions of the Transport Tribunal) Regulations 2024 (S.S.I. 2024/337)](https://www.legislation.gov.uk/ssi/2024/337), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/337/regulation/1/1), [sch. 2 para. 1(2)(a)](https://www.legislation.gov.uk/ssi/2024/337/schedule/2/paragraph/1/2/a)
 
-[^key-975193c22541b5aec996e87f502055b3]: Textual amendment: Word in s. 39(6) substituted (2.12.2024) by [The Upper Tribunal for Scotland (Transfer of Functions of the Transport Tribunal) Regulations 2024 (S.S.I. 2024/337)](https://www.legislation.gov.uk/ssi/2024/337), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/337/regulation/1/1), [sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/ssi/2024/337/schedule/2/paragraph/1/2/b)
+[^c-975193c22541b5aec996e87f502055b3]: Textual amendment: Word in s. 39(6) substituted (2.12.2024) by [The Upper Tribunal for Scotland (Transfer of Functions of the Transport Tribunal) Regulations 2024 (S.S.I. 2024/337)](https://www.legislation.gov.uk/ssi/2024/337), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/337/regulation/1/1), [sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/ssi/2024/337/schedule/2/paragraph/1/2/b)

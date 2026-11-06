@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. General duty to ensure safety of tips[^key-96ed3d09cab0e33ff88c7d2d4bb7f346]
+## 60. General duty to ensure safety of tips[^c-96ed3d09cab0e33ff88c7d2d4bb7f346]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ which is likely to give rise to a risk to the health and safety of any person is
 
 ## Annotations
 
-[^key-96ed3d09cab0e33ff88c7d2d4bb7f346]: Commencement: [Reg. 60](https://www.legislation.gov.uk/nisr/2016/427/regulation/60) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-96ed3d09cab0e33ff88c7d2d4bb7f346]: Commencement: [Reg. 60](https://www.legislation.gov.uk/nisr/2016/427/regulation/60) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

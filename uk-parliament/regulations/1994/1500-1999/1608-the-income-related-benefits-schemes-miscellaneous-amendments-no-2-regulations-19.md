@@ -61,7 +61,7 @@ The Secretary of State for Social Security, in exercise of powers conferred on h
 
 (2) In these Regulations—
 
-- [^key-d2f9e55f055b86be0d993a6f0bea693b]...
+- [^c-d2f9e55f055b86be0d993a6f0bea693b]...
 - “the Income Support Regulations” means the Income Support (General) Regulations 1987 [^c17963551].
 
 ## 2. Student’s grant income
@@ -70,13 +70,13 @@ The Secretary of State for Social Security, in exercise of powers conferred on h
 
 (2) The regulations are—
 
-- (a)[^key-a56547955b13fdc9baee7dc1c94e4cec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a56547955b13fdc9baee7dc1c94e4cec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) regulation 42(2)(e) of the Disability Working Allowance (General) Regulations 1991 [^c17963571];
 - (c) regulation 38(2)(f) of the Family Credit (General) Regulations 1987 [^c17963581];
-- (d)[^key-d1d7c189f5ee86d97a94c11ea55d77dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-d1d7c189f5ee86d97a94c11ea55d77dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) regulation 62(2)(g) of the Income Support Regulations.
 
-## 3. Student’s eligible rent[^key-e5b56c7b87ae4afac54d88701505a4ad]
+## 3. Student’s eligible rent[^c-e5b56c7b87ae4afac54d88701505a4ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -116,16 +116,16 @@ These Regulations do not impose a charge on businesses.
 
 [^c17963531]: Marginal citation: [See the Social Security Administration Act 1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5), [section 173(1)(b)](https://www.legislation.gov.uk/ukpga/1992/5/section/173/1/b) and (7); [section 173(7)](https://www.legislation.gov.uk/uksi/1994/1608/section/173/7) defines “regulations”.
 
-[^key-d2f9e55f055b86be0d993a6f0bea693b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1608/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-d2f9e55f055b86be0d993a6f0bea693b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1608/regulation/1/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c17963551]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); the relevant amending instrument is [S.I. 1993/1540](https://www.legislation.gov.uk/uksi/1993/1540).
 
-[^key-a56547955b13fdc9baee7dc1c94e4cec]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/1994/1608/regulation/2/2/a) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-a56547955b13fdc9baee7dc1c94e4cec]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/1994/1608/regulation/2/2/a) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c17963571]: Marginal citation: [S.I. 1991/2887](https://www.legislation.gov.uk/uksi/1991/2887); the relevant amending instrument is [S.I. 1993/1540](https://www.legislation.gov.uk/uksi/1993/1540).
 
 [^c17963581]: Marginal citation: [S.I. 1987/1973](https://www.legislation.gov.uk/uksi/1987/1973); the relevant amending instrument is [S.I. 1993/1540](https://www.legislation.gov.uk/uksi/1993/1540).
 
-[^key-d1d7c189f5ee86d97a94c11ea55d77dd]: Textual amendment: [Reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/1994/1608/regulation/2/2/d) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-d1d7c189f5ee86d97a94c11ea55d77dd]: Textual amendment: [Reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/1994/1608/regulation/2/2/d) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-e5b56c7b87ae4afac54d88701505a4ad]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1994/1608/regulation/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-e5b56c7b87ae4afac54d88701505a4ad]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1994/1608/regulation/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

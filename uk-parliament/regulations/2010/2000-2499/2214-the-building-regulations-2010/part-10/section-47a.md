@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47A. Compliance notices: excluded provisions[^key-fac4dd8b45113f5d5765918aba91684a]
+## 47A. Compliance notices: excluded provisions[^c-fac4dd8b45113f5d5765918aba91684a]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ The following provisions of these Regulations are prescribed for the purposes of
 
 - (a) regulation 14A (determination of applications for building control approval with full plans),
 - (b) regulation 15A (consultation in relation fire safety),
-- (c) regulation 16(3D) and (3E)[^key-966691f35b4dfe863f284a9e55635074] (notice as to commencement of work),
+- (c) regulation 16(3D) and (3E)[^c-966691f35b4dfe863f284a9e55635074] (notice as to commencement of work),
 - (d) regulation 17 (completion certificates),
 - (e) regulation 17A (certificate for building occupied before work is completed),
-- (f) regulation 18(6A) (unauthorised building work)[^key-8bdf9273048e97ef3729f8916933d946],
+- (f) regulation 18(6A) (unauthorised building work)[^c-8bdf9273048e97ef3729f8916933d946],
 - (g) regulation 18E(8) and (12) (appeals under section 101A of the Act),
 - (h) regulation 19C(2) (regulator’s notices: grounds for rejection),
 - (i) regulation 19E (regulator’s notices: direction),
@@ -50,8 +50,8 @@ The following provisions of these Regulations are prescribed for the purposes of
 
 ## Annotations
 
-[^key-fac4dd8b45113f5d5765918aba91684a]: Textual amendment: [Regs. 47A-47H](https://www.legislation.gov.uk/uksi/2010/2214/regulation/47A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/16/2) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-fac4dd8b45113f5d5765918aba91684a]: Textual amendment: [Regs. 47A-47H](https://www.legislation.gov.uk/uksi/2010/2214/regulation/47A) inserted (E.) (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/16/2) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-966691f35b4dfe863f284a9e55635074]: Textual amendment: Words in [reg. 47A(c)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/47A/c) inserted (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [38(7)(a)](https://www.legislation.gov.uk/uksi/2024/110/regulation/38/7/a)
+[^c-966691f35b4dfe863f284a9e55635074]: Textual amendment: Words in [reg. 47A(c)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/47A/c) inserted (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [38(7)(a)](https://www.legislation.gov.uk/uksi/2024/110/regulation/38/7/a)
 
-[^key-8bdf9273048e97ef3729f8916933d946]: Textual amendment: Words in [reg. 47A(f)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/47A/f) substituted (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [38(7)(b)](https://www.legislation.gov.uk/uksi/2024/110/regulation/38/7/b)
+[^c-8bdf9273048e97ef3729f8916933d946]: Textual amendment: Words in [reg. 47A(f)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/47A/f) substituted (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [38(7)(b)](https://www.legislation.gov.uk/uksi/2024/110/regulation/38/7/b)

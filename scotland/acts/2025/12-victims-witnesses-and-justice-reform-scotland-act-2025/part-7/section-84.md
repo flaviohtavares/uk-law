@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Statement of training requirement for prosecutors[^key-46fa66bb52e1ea333ba11c55082b7da5]
+## 84. Statement of training requirement for prosecutors[^c-46fa66bb52e1ea333ba11c55082b7da5]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46fa66bb52e1ea333ba11c55082b7da5]: Commencement: S. 84 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-46fa66bb52e1ea333ba11c55082b7da5]: Commencement: S. 84 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

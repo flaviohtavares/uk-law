@@ -86,51 +86,51 @@ In section 161(1) of the Contributions and Benefits Act (which specifies the max
 
 In section 167ZN(2) of the Contributions and Benefits Act (which specifies the maximum period that may be prescribed as the period for which statutory adoption pay is payable), for “26 weeks” substitute “ 52 weeks ”.
 
-## Additional paternity leave and pay[^key-73a7811212f98115f7fa7aa310c5d0c1]
+## Additional paternity leave and pay[^c-73a7811212f98115f7fa7aa310c5d0c1]
 
-### 5. Additional paternity leave: birth[^key-73a7811212f98115f7fa7aa310c5d0c1]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. Additional paternity leave: adoption[^key-73a7811212f98115f7fa7aa310c5d0c1]
+### 5. Additional paternity leave: birth[^c-73a7811212f98115f7fa7aa310c5d0c1]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Rights during and after additional paternity leave[^key-73a7811212f98115f7fa7aa310c5d0c1]
+### 6. Additional paternity leave: adoption[^c-73a7811212f98115f7fa7aa310c5d0c1]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Entitlement to additional statutory paternity pay: birth[^key-73a7811212f98115f7fa7aa310c5d0c1]
+### 7. Rights during and after additional paternity leave[^c-73a7811212f98115f7fa7aa310c5d0c1]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Entitlement to additional statutory paternity pay: adoption[^key-73a7811212f98115f7fa7aa310c5d0c1]
+### 8. Entitlement to additional statutory paternity pay: birth[^c-73a7811212f98115f7fa7aa310c5d0c1]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Entitlement to additional statutory paternity pay: general[^key-73a7811212f98115f7fa7aa310c5d0c1]
+### 9. Entitlement to additional statutory paternity pay: adoption[^c-73a7811212f98115f7fa7aa310c5d0c1]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Liability to make payments of additional statutory paternity pay[^key-73a7811212f98115f7fa7aa310c5d0c1]
+### 10. Entitlement to additional statutory paternity pay: general[^c-73a7811212f98115f7fa7aa310c5d0c1]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Additional statutory paternity pay: rate and period of pay[^key-73a7811212f98115f7fa7aa310c5d0c1]
+### 11. Liability to make payments of additional statutory paternity pay[^c-73a7811212f98115f7fa7aa310c5d0c1]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Additional statutory paternity pay: rate and period of pay[^c-73a7811212f98115f7fa7aa310c5d0c1]
 
 **No longer in force.**
 
@@ -142,7 +142,7 @@ In section 167ZN(2) of the Contributions and Benefits Act (which specifies the m
 
 (1) Schedule 1 (which contains further amendments relating to statutory leave and pay) has effect.
 
-(2)[^key-bbbba236bfd134fb9f7207ea3b18eadc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bbbba236bfd134fb9f7207ea3b18eadc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Any reference to ordinary statutory paternity pay in any statutory provision (including this Order and any statutory provision amended by this Order) or document is to be read, in relation to any time before the commencement of paragraphs 11 and 12 of Schedule 1, as a reference to statutory paternity pay.
 
@@ -152,13 +152,13 @@ In section 167ZN(2) of the Contributions and Benefits Act (which specifies the m
 
 (1) Article 112F of the Employment Rights Order (statutory right to request contract variation) is amended as follows.
 
-(2)[^key-fe7757b92725d32c9bc6739771f1bdb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fe7757b92725d32c9bc6739771f1bdb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-fe7757b92725d32c9bc6739771f1bdb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-fe7757b92725d32c9bc6739771f1bdb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Omit paragraphs (3), (6) and (7).
 
-(5)[^key-44f87b5be63b5d7ba000a9b48803406c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-44f87b5be63b5d7ba000a9b48803406c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 15. Annual leave
 
@@ -172,7 +172,7 @@ In section 167ZN(2) of the Contributions and Benefits Act (which specifies the m
 - (d) make provision for the payment of compensation in prescribed cases to a worker who has not taken leave to which he is entitled;
 - (e) make provision as to the relationship between the rights conferred by the regulations and a worker's rights to leave, pay or compensation under any contract or under any statutory provision;
 - (f) enable a worker to present a complaint to an industrial tribunal that his employer has refused to permit him to exercise any right he has under the regulations, or has failed to pay him any amount due to him under the regulations;
-- (g)[^key-404437ceccd1b6775f263ee39b06a077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-404437ceccd1b6775f263ee39b06a077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Regulations under this Article may make provision as to—
 
@@ -184,13 +184,13 @@ In section 167ZN(2) of the Contributions and Benefits Act (which specifies the m
 - (a) make provision applying to—
   - (i) Crown employment and persons in Crown employment;
   - (ii) service as a member of the armed forces;
-- (b)[^key-36e1f0642dfa18fb2144efb912b68195] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-36e1f0642dfa18fb2144efb912b68195] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Regulations under this Article may contain incidental, supplemental, consequential, transitional or saving provision, including provision amending any statutory provision.
 
 (6) Regulations under this Article
 
-shall not be made unless a draft has been laid before, and approved by a resolution of, the Assembly[^key-2078afa3cd585cfa3161c900ef3e8bd9].
+shall not be made unless a draft has been laid before, and approved by a resolution of, the Assembly[^c-2078afa3cd585cfa3161c900ef3e8bd9].
 
 (7) In this Article—
 
@@ -238,15 +238,15 @@ Article 13.
 
 ### The Social Security (Northern Ireland) Order 1989 (NI 13)
 
-**1.**[^key-06e49c726babbf3d64aeee9e0e67c60d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-06e49c726babbf3d64aeee9e0e67c60d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
 
-**2.**[^key-06e49c726babbf3d64aeee9e0e67c60d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-06e49c726babbf3d64aeee9e0e67c60d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-06e49c726babbf3d64aeee9e0e67c60d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-06e49c726babbf3d64aeee9e0e67c60d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-06e49c726babbf3d64aeee9e0e67c60d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-06e49c726babbf3d64aeee9e0e67c60d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** In section 35 (state maternity allowance), in subsection (3)(a) (power by regulations to prescribe cases in which a woman is disqualified from receiving a maternity allowance), for sub-paragraph (i) substitute—
 
@@ -297,21 +297,21 @@ Article 13.
 
 .
 
-**9.**[^key-156d259ef239f18f623b6b46d83ad4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-156d259ef239f18f623b6b46d83ad4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-156d259ef239f18f623b6b46d83ad4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-156d259ef239f18f623b6b46d83ad4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-156d259ef239f18f623b6b46d83ad4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-156d259ef239f18f623b6b46d83ad4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-156d259ef239f18f623b6b46d83ad4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-156d259ef239f18f623b6b46d83ad4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-156d259ef239f18f623b6b46d83ad4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-156d259ef239f18f623b6b46d83ad4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-156d259ef239f18f623b6b46d83ad4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-156d259ef239f18f623b6b46d83ad4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.**[^c20259201] (1) Section 167ZE (rate and period of statutory paternity pay) is amended as follows.
 
-(2)[^key-904ea0dcc1a135aa4a68d7e4e562a7c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-904ea0dcc1a135aa4a68d7e4e562a7c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (10) insert—
 
@@ -319,13 +319,13 @@ Article 13.
 
 .
 
-**16.**[^key-d6b875ef6b13483bab1f638f0493dc53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-d6b875ef6b13483bab1f638f0493dc53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-d6b875ef6b13483bab1f638f0493dc53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-d6b875ef6b13483bab1f638f0493dc53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-d6b875ef6b13483bab1f638f0493dc53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-d6b875ef6b13483bab1f638f0493dc53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-d6b875ef6b13483bab1f638f0493dc53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-d6b875ef6b13483bab1f638f0493dc53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **20.**[^c20259211] (1) Section 167ZN (rate and period of statutory adoption pay) is amended as follows.
 
@@ -337,7 +337,7 @@ Article 13.
 
 .
 
-**21.**[^key-543cf4b3ac0510c9304fa90506e18e8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-543cf4b3ac0510c9304fa90506e18e8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **22.** In Schedule 13 (relationship of statutory maternity pay with benefits and other payments etc.), in paragraph 3 (contractual remuneration), after sub-paragraph (2) insert—
 
@@ -347,21 +347,21 @@ Article 13.
 
 ### The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
 
-**23.**[^key-e0707eabe9a19456ee5926062e303fd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-e0707eabe9a19456ee5926062e303fd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-e0707eabe9a19456ee5926062e303fd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-e0707eabe9a19456ee5926062e303fd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-e0707eabe9a19456ee5926062e303fd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-e0707eabe9a19456ee5926062e303fd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-e0707eabe9a19456ee5926062e303fd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-e0707eabe9a19456ee5926062e303fd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Employment Rights (Northern Ireland) Order 1996 (NI 16)
 
-**27.**[^key-e0707eabe9a19456ee5926062e303fd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-e0707eabe9a19456ee5926062e303fd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-e0707eabe9a19456ee5926062e303fd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-e0707eabe9a19456ee5926062e303fd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-e0707eabe9a19456ee5926062e303fd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-e0707eabe9a19456ee5926062e303fd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **30.** In Article 103 (ordinary maternity leave), for paragraph (3) substitute—
 
@@ -397,43 +397,43 @@ Article 13.
 
 .
 
-**34.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**39.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**40.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**42.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (SI 1999/671)
 
-**43.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**45.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Employment (Northern Ireland) Order 2002 (NI 2)
 
-**46.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**47.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**48.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**49.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**50.**[^key-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-004b02f90263144ea43ef1f0d6fce7df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — REPEALS[^c20259241]
 
@@ -454,44 +454,44 @@ This Order, which is made only for purposes corresponding to the Work and Famili
 
 [^c20247511]: Subordinate legislation: [Art. 1(3)](https://www.legislation.gov.uk/nisi/2006/1947/article/1/3) power partly exercised: different dates appointed for specified provisions by [S.R. 2006/344](https://www.legislation.gov.uk/nisr/2006/344), [arts. 2-4](https://www.legislation.gov.uk/nisr/2006/344/article/2); different dates appointed for specified provisions by [S.R. 2010/295](https://www.legislation.gov.uk/nisr/2010/295), [arts. 2](https://www.legislation.gov.uk/nisr/2010/295/article/2), [3](https://www.legislation.gov.uk/nisr/2010/295/article/3)
 
-[^key-73a7811212f98115f7fa7aa310c5d0c1]: Textual amendment: Arts. 5-12 and preceding cross-heading repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-73a7811212f98115f7fa7aa310c5d0c1]: Textual amendment: Arts. 5-12 and preceding cross-heading repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
 [^c20248511]: Commencement: Art. 13 partly in operation; art. 13 not in operation at date of making see art. 1(3); art. 13 in operation for certain purposes at 1.9.2006 and 1.10.2006 by [S.R. 2006/344](https://www.legislation.gov.uk/nisr/2006/344), [arts. 2(b)](https://www.legislation.gov.uk/nisr/2006/344/article/2/b), [3(a)](https://www.legislation.gov.uk/nisr/2006/344/article/3/a); art. 13(1) in operation for certain purposes at 9.9.2010 and 1.10.2010 by [S.R. 2010/295](https://www.legislation.gov.uk/nisr/2010/295), [arts. 2(b)](https://www.legislation.gov.uk/nisr/2010/295/article/2/b), [3(a)](https://www.legislation.gov.uk/nisr/2010/295/article/3/a); art. 13(2)(3) in operation at 1.10.2010 by [S.R. 2010/295](https://www.legislation.gov.uk/nisr/2010/295), [art. 3(b)](https://www.legislation.gov.uk/nisr/2010/295/article/3/b)
 
-[^key-bbbba236bfd134fb9f7207ea3b18eadc]: Textual amendment: [Art. 13(2)](https://www.legislation.gov.uk/nisi/2006/1947/article/13/2) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-bbbba236bfd134fb9f7207ea3b18eadc]: Textual amendment: [Art. 13(2)](https://www.legislation.gov.uk/nisi/2006/1947/article/13/2) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-fe7757b92725d32c9bc6739771f1bdb9]: Textual amendment: [Art. 14(2)](https://www.legislation.gov.uk/nisi/2006/1947/article/14/2)[(3)](https://www.legislation.gov.uk/nisi/2006/1947/article/14/3) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-fe7757b92725d32c9bc6739771f1bdb9]: Textual amendment: [Art. 14(2)](https://www.legislation.gov.uk/nisi/2006/1947/article/14/2)[(3)](https://www.legislation.gov.uk/nisi/2006/1947/article/14/3) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-44f87b5be63b5d7ba000a9b48803406c]: Textual amendment: [Art. 14(5)](https://www.legislation.gov.uk/nisi/2006/1947/article/14/5) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-44f87b5be63b5d7ba000a9b48803406c]: Textual amendment: [Art. 14(5)](https://www.legislation.gov.uk/nisi/2006/1947/article/14/5) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-404437ceccd1b6775f263ee39b06a077]: Textual amendment: [Art. 15(2)(g)](https://www.legislation.gov.uk/nisi/2006/1947/article/15/2/g) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/538)](https://www.legislation.gov.uk/uksi/2019/538), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/538/regulation/1/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2019/538/schedule/paragraph/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/538/schedule/paragraph/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-404437ceccd1b6775f263ee39b06a077]: Textual amendment: [Art. 15(2)(g)](https://www.legislation.gov.uk/nisi/2006/1947/article/15/2/g) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/538)](https://www.legislation.gov.uk/uksi/2019/538), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/538/regulation/1/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2019/538/schedule/paragraph/2/a) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/538/schedule/paragraph/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-36e1f0642dfa18fb2144efb912b68195]: Textual amendment: [Art. 15(4)(b)](https://www.legislation.gov.uk/nisi/2006/1947/article/15/4/b) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/538)](https://www.legislation.gov.uk/uksi/2019/538), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/538/regulation/1/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2019/538/schedule/paragraph/2/b) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/538/schedule/paragraph/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-36e1f0642dfa18fb2144efb912b68195]: Textual amendment: [Art. 15(4)(b)](https://www.legislation.gov.uk/nisi/2006/1947/article/15/4/b) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/538)](https://www.legislation.gov.uk/uksi/2019/538), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/538/regulation/1/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2019/538/schedule/paragraph/2/b) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/538/schedule/paragraph/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2078afa3cd585cfa3161c900ef3e8bd9]: Textual amendment: Words in art. 15(6) substituted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 20](https://www.legislation.gov.uk/nia/2015/1/section/20), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(p)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/p)
+[^c-2078afa3cd585cfa3161c900ef3e8bd9]: Textual amendment: Words in art. 15(6) substituted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 20](https://www.legislation.gov.uk/nia/2015/1/section/20), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(p)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/p)
 
 [^c20248951]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisi/2006/1947/article/17) partly in operation; [art. 17](https://www.legislation.gov.uk/nisi/2006/1947/article/17) not in operation at date of making see [art. 1(3)](https://www.legislation.gov.uk/nisi/2006/1947/article/1/3); [art. 17](https://www.legislation.gov.uk/nisi/2006/1947/article/17) in operation for certain purposes at 1.10.2006 by [S.R. 2006/344](https://www.legislation.gov.uk/nisr/2006/344), [art. 3(e)](https://www.legislation.gov.uk/nisr/2006/344/article/3/e); [art. 17](https://www.legislation.gov.uk/nisi/2006/1947/article/17) in operation for certain purposes at 1.10.2010 by [S.R. 2010/295](https://www.legislation.gov.uk/nisr/2010/295), [art. 3(c)](https://www.legislation.gov.uk/nisr/2010/295/article/3/c)
 
-[^key-06e49c726babbf3d64aeee9e0e67c60d]: Textual amendment: [Sch. 1 paras. 1-4](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/1) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-06e49c726babbf3d64aeee9e0e67c60d]: Textual amendment: [Sch. 1 paras. 1-4](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/1) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
 [^c20250011]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/6) wholly in operation at 1.10.2006; [Sch. 1 para. 6](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/6) not in operation at date of making see [art. 1(3)](https://www.legislation.gov.uk/nisi/2006/1947/article/1/3); [Sch. 1 para. 6](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/6) in operation for certain purposes at 1.9.2006 and wholly in operation at 1.10.2006 by [S.R. 2006/344](https://www.legislation.gov.uk/nisr/2006/344), [arts. 2(d)](https://www.legislation.gov.uk/nisr/2006/344/article/2/d), [3(b)](https://www.legislation.gov.uk/nisr/2006/344/article/3/b)
 
 [^c20259151]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/8) wholly in operation at 1.10.2006; [Sch. 1 para. 8](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/8) not in operation at date of making see [art. 1(3)](https://www.legislation.gov.uk/nisi/2006/1947/article/1/3); [Sch. 1 para. 8](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/8) in operation for certain purposes at 1.9.2006 and wholly in operation at 1.10.2006 by [S.R. 2006/344](https://www.legislation.gov.uk/nisr/2006/344), [arts. 2(d)](https://www.legislation.gov.uk/nisr/2006/344/article/2/d), [3(b)](https://www.legislation.gov.uk/nisr/2006/344/article/3/b)
 
-[^key-156d259ef239f18f623b6b46d83ad4d2]: Textual amendment: [Sch. 1 paras. 9-14](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/9) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-156d259ef239f18f623b6b46d83ad4d2]: Textual amendment: [Sch. 1 paras. 9-14](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/9) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
 [^c20259201]: Commencement: Sch. 1 para. 15 wholly in operation at 1.10.2010; Sch. 1 para. 15 not in operation at date of making see art. 1(3); Sch. 1 para. 15(1)(3) in operation at 1.10.2006 by [S.R. 2006/344](https://www.legislation.gov.uk/nisr/2006/344), [art. 3(c)](https://www.legislation.gov.uk/nisr/2006/344/article/3/c); Sch. 1 para. 15(2) in operation at 1.10.2010 by [S.R. 2010/295](https://www.legislation.gov.uk/nisr/2010/295), [art. 3(d)](https://www.legislation.gov.uk/nisr/2010/295/article/3/d)
 
-[^key-904ea0dcc1a135aa4a68d7e4e562a7c1]: Textual amendment: [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/15/2) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-904ea0dcc1a135aa4a68d7e4e562a7c1]: Textual amendment: [Sch. 1 para. 15(2)](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/15/2) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-d6b875ef6b13483bab1f638f0493dc53]: Textual amendment: [Sch. 1 paras. 16-19](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/16) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-d6b875ef6b13483bab1f638f0493dc53]: Textual amendment: [Sch. 1 paras. 16-19](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/16) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
 [^c20259211]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/20) wholly in operation at 1.10.2006; [Sch. 1 para. 20](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/20) not in operation at date of making see [art. 1(3)](https://www.legislation.gov.uk/nisi/2006/1947/article/1/3); [Sch. 1 para. 20](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/20) in operation for certain purposes at 1.9.2006 and wholly in operation at 1.10.2006 by [S.R. 2006/344](https://www.legislation.gov.uk/nisr/2006/344), [arts. 2(d)](https://www.legislation.gov.uk/nisr/2006/344/article/2/d), [3(b)](https://www.legislation.gov.uk/nisr/2006/344/article/3/b)
 
-[^key-543cf4b3ac0510c9304fa90506e18e8b]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/21) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-543cf4b3ac0510c9304fa90506e18e8b]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/21) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-e0707eabe9a19456ee5926062e303fd0]: Textual amendment: [Sch. 1 paras. 23-29](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/23) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-e0707eabe9a19456ee5926062e303fd0]: Textual amendment: [Sch. 1 paras. 23-29](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/23) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-004b02f90263144ea43ef1f0d6fce7df]: Textual amendment: [Sch. 1 paras. 34-50](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/34) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-004b02f90263144ea43ef1f0d6fce7df]: Textual amendment: [Sch. 1 paras. 34-50](https://www.legislation.gov.uk/nisi/2006/1947/schedule/1/paragraph/34) repealed (5.4.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
 [^c20259241]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisi/2006/1947/schedule/2) partly in operation; [Sch. 2](https://www.legislation.gov.uk/nisi/2006/1947/schedule/2) not in operation at date of making see [art. 1(3)](https://www.legislation.gov.uk/nisi/2006/1947/article/1/3); [Sch. 2](https://www.legislation.gov.uk/nisi/2006/1947/schedule/2) in operation for certain purposes at 1.10.2006 and 6.4.2007 by [S.R. 2006/344](https://www.legislation.gov.uk/nisr/2006/344), [arts. 3(f)](https://www.legislation.gov.uk/nisr/2006/344/article/3/f), [4(b)](https://www.legislation.gov.uk/nisr/2006/344/article/4/b); [Sch. 2](https://www.legislation.gov.uk/nisi/2006/1947/schedule/2) in operation for certain purposes at 1.10.2010 by [S.R. 2010/295](https://www.legislation.gov.uk/nisr/2010/295), [art. 3(e)](https://www.legislation.gov.uk/nisr/2010/295/article/3/e)

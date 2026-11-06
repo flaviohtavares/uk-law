@@ -31,7 +31,7 @@ summary: ''
 > - (a) of his appointment as auditor, or
 > - (b) of any appointment terminating with that as auditor.
 >
-> (3)[^key-c45dfd5cda302959c7179cf569293e64] An auditor may not be removed from office before the expiration of his term of office except—
+> (3)[^c-c45dfd5cda302959c7179cf569293e64] An auditor may not be removed from office before the expiration of his term of office except—
 >
 > - (a) by resolution under this section, or
 > - (b) in accordance with section 511A.
@@ -46,7 +46,7 @@ summary: ''
 >
 > (4) (4) Copies of the representations need not be sent out if, on the application either of the LLP or of any other person claiming to be aggrieved, the court is satisfied that the auditor is using the provisions of this section to secure needless publicity for defamatory matter. The court may order the LLP's costs (in Scotland, expenses) on the application to be paid in whole or in part by the auditor, notwithstanding that he is not a party to the application.
 >
-> **511A. Public interest LLP: application to court to remove auditor from office[^key-5016b9b9d538ea38d65cc5444b15081c]**
+> **511A. Public interest LLP: application to court to remove auditor from office[^c-5016b9b9d538ea38d65cc5444b15081c]**
 >
 > (1) This section applies only to a public interest LLP.
 >
@@ -65,7 +65,7 @@ summary: ''
 >
 > (6) For the purposes of this section, divergence of opinions on accounting treatments or audit procedures are not to be taken to be proper grounds for removing an auditor from office.
 >
-> **512. Notice to registrar of determination removing auditor from office[^key-eb5ce669fa0f379e30100b3aaded52c4]**
+> **512. Notice to registrar of determination removing auditor from office[^c-eb5ce669fa0f379e30100b3aaded52c4]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -73,8 +73,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c45dfd5cda302959c7179cf569293e64]: Textual amendment: Words in reg. 43 substituted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 16(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/16/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-c45dfd5cda302959c7179cf569293e64]: Textual amendment: Words in reg. 43 substituted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 16(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/16/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
-[^key-5016b9b9d538ea38d65cc5444b15081c]: Textual amendment: Words in reg. 43 inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 16(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/16/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-5016b9b9d538ea38d65cc5444b15081c]: Textual amendment: Words in reg. 43 inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 16(b)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/16/b) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
-[^key-eb5ce669fa0f379e30100b3aaded52c4]: Textual amendment: Words in reg. 43 omitted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by virtue of [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 16(c)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/16/c) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-eb5ce669fa0f379e30100b3aaded52c4]: Textual amendment: Words in reg. 43 omitted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by virtue of [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 16(c)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/16/c) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

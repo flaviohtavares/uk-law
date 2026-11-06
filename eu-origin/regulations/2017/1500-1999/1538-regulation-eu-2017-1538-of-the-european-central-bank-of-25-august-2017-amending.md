@@ -33,30 +33,30 @@ of 25 August 2017
 
 amending Regulation (EU) 2015/534 on reporting of supervisory financial information *(ECB/2017/25)* (revoked)
 
-[^key-72aa9a3107633776966756a1622a0a06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72aa9a3107633776966756a1622a0a06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments[^key-72aa9a3107633776966756a1622a0a06]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Final provisions[^key-72aa9a3107633776966756a1622a0a06]
+## Article 1. Amendments[^c-72aa9a3107633776966756a1622a0a06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72aa9a3107633776966756a1622a0a06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-72aa9a3107633776966756a1622a0a06]
+## Article 2. Final provisions[^c-72aa9a3107633776966756a1622a0a06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-72aa9a3107633776966756a1622a0a06]
+[^c-72aa9a3107633776966756a1622a0a06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-72aa9a3107633776966756a1622a0a06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-72aa9a3107633776966756a1622a0a06]
+## ANNEX II[^c-72aa9a3107633776966756a1622a0a06]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III[^c-72aa9a3107633776966756a1622a0a06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-72aa9a3107633776966756a1622a0a06]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [33(l)](https://www.legislation.gov.uk/uksi/2019/710/regulation/33/l); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-72aa9a3107633776966756a1622a0a06]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [33(l)](https://www.legislation.gov.uk/uksi/2019/710/regulation/33/l); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

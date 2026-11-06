@@ -27,7 +27,7 @@ summary: ''
 
 (2) The “1993 Act condition” is that—
 
-- (a) Chapter 2 of Part 4ZA[^key-64d016b5f5f4daece7b9cd1c253d216c] of the 1993 Act [^c22361421] applies to M; and
+- (a) Chapter 2 of Part 4ZA[^c-64d016b5f5f4daece7b9cd1c253d216c] of the 1993 Act [^c22361421] applies to M; and
 - (b) the repayment is made in accordance with that Chapter.
 
 (3) The short service condition applies if—
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64d016b5f5f4daece7b9cd1c253d216c]: Textual amendment: Words in [reg. 40(2)(a)](https://www.legislation.gov.uk/uksi/2015/94/regulation/40/2/a) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [62](https://www.legislation.gov.uk/uksi/2016/245/regulation/62) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-64d016b5f5f4daece7b9cd1c253d216c]: Textual amendment: Words in [reg. 40(2)(a)](https://www.legislation.gov.uk/uksi/2015/94/regulation/40/2/a) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [62](https://www.legislation.gov.uk/uksi/2016/245/regulation/62) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
 
 [^c22361421]: Marginal citation: Chapter 5 of Part 4 deals with early leavers: cash transfer sums and contribution refunds.

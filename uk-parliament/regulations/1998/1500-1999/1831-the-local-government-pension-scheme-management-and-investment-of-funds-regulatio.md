@@ -46,13 +46,13 @@ The Secretary of State, in exercise of the powers conferred on him by section 7 
 
 ## Preliminary
 
-### 1. Citation and commencement[^key-c672316799ccdd6aedb705f0c750e671]
+### 1. Citation and commencement[^c-c672316799ccdd6aedb705f0c750e671]
 
 (1) These Regulations may be cited as the Local Government Pension Scheme (Management and Investment of Funds) Regulations 1998.
 
 (2) These Regulations shall come into force on 19th August 1998.
 
-### 2. General definitions[^key-3d5c635fe02bc5929cdd728ea472fc60]
+### 2. General definitions[^c-3d5c635fe02bc5929cdd728ea472fc60]
 
 In these Regulations—
 
@@ -79,7 +79,7 @@ In these Regulations—
 - “Transitional Regulations” means the Local Government Pension Scheme (Transitional Provisions) Regulations 1997[^f00008];
 - “unquoted securities investment partnership” means a partnership for investing in securities which are normally not quoted on a recognised stock exchange when the partnership buys them.
 
-### 3. Definition of “investment”[^key-30415b981438922df098b16fd0febec1]
+### 3. Definition of “investment”[^c-30415b981438922df098b16fd0febec1]
 
 (1) In these Regulations “investment” and similar expressions have their normal meaning.
 
@@ -109,7 +109,7 @@ In these Regulations—
 
 (10) A sub-underwriting contract is an investment.
 
-### 4. Definition of “investment manager”[^key-6d081b2447b7918d8be2f8b548357222]
+### 4. Definition of “investment manager”[^c-6d081b2447b7918d8be2f8b548357222]
 
 (1) This regulation describes those persons who count as an “investment manager” for these Regulations.
 
@@ -127,7 +127,7 @@ In these Regulations—
 
 ## Management of pension fund
 
-### 5. Management of pension fund[^key-2fbe3ef873cec63de431ac5706b81b31]
+### 5. Management of pension fund[^c-2fbe3ef873cec63de431ac5706b81b31]
 
 (1) This regulation is about the sums which an administering authority must pay or credit to and may pay from the pension fund administered by them.
 
@@ -147,7 +147,7 @@ In these Regulations—
 
 (6) Any costs, charges and expenses incurred administering a pension fund (except those incurred in connection with a FSAVC scheme) may be paid from it.
 
-### 6. Choice of investment managers[^key-f9b54c5ab9c3b7e59e4390732f634c9c]
+### 6. Choice of investment managers[^c-f9b54c5ab9c3b7e59e4390732f634c9c]
 
 (1) Instead of managing and investing fund money for themselves, an administering authority may appoint one or more investment managers to manage and invest it for them.
 
@@ -164,7 +164,7 @@ In these Regulations—
 
 (6) They must have taken proper advice.
 
-### 7. Terms of appointment of investment managers[^key-0230810e4018a1b0faa6c8298b7dd937]
+### 7. Terms of appointment of investment managers[^c-0230810e4018a1b0faa6c8298b7dd937]
 
 (1) Investment managers must, if appointed, be appointed on the terms set out in paragraphs (2) to (7).
 
@@ -186,7 +186,7 @@ In these Regulations—
 
 (8) In determining the investment manager’s terms of appointment, the administering authority must take proper advice.
 
-### 8. Review of investment manager’s performance[^key-367e651739a55d1b8c6ecbb8c8a8632a]
+### 8. Review of investment manager’s performance[^c-367e651739a55d1b8c6ecbb8c8a8632a]
 
 (1) Where an administering authority have appointed an investment manager they must keep his performance under review.
 
@@ -201,7 +201,7 @@ In these Regulations—
 
 ## Investments
 
-### 9. Use and investment of pension fund money[^key-65d7411ccd7fc0780906440b31214419]
+### 9. Use and investment of pension fund money[^c-65d7411ccd7fc0780906440b31214419]
 
 (1) An administering authority must invest any fund money that is not needed immediately to make payments from the fund.
 
@@ -216,13 +216,13 @@ In these Regulations—
 
 (5) The authority must consider such advice in taking any steps about their investments.
 
-### 10. Investments under s.11 of the Trustee Investments Act 1961[^key-845f89d49846730d2aa90fc7e3b2715a]
+### 10. Investments under s.11 of the Trustee Investments Act 1961[^c-845f89d49846730d2aa90fc7e3b2715a]
 
 (1) An administering authority may invest in any investment made in accordance with a section 11 scheme without any restriction as to quantity.
 
 (2) A “section 11 scheme” is a scheme under section 11 of the Trustee Investments Act 1961[^f00011] (which enables the Treasury to approve schemes for local authorities to invest collectively).
 
-### 11. Restrictions on investments[^key-aa49639b9124f0e580421e9519c1b26e]
+### 11. Restrictions on investments[^c-aa49639b9124f0e580421e9519c1b26e]
 
 (1) Schedule 1 sets out the limits which apply to certain sorts of investments.
 
@@ -236,7 +236,7 @@ In these Regulations—
 
 (6) Part III of that Schedule applies for interpreting Parts I and II.
 
-### 12. Use of fund money by an administering authority[^key-8b96c24a936f0b2d996da02fb93cdc6d]
+### 12. Use of fund money by an administering authority[^c-8b96c24a936f0b2d996da02fb93cdc6d]
 
 (1) An administering authority must pay interest on the total from day to day of any fund money used by them and not repaid.
 
@@ -244,7 +244,7 @@ In these Regulations—
 
 ## Supplementary
 
-### 13. Consequential amendments and revocations[^key-7efd30ce4cc0283b3b129afd088bcb33]
+### 13. Consequential amendments and revocations[^c-7efd30ce4cc0283b3b129afd088bcb33]
 
 (1) The provisions in Schedule 2 are amended as set out in that Schedule.
 
@@ -268,51 +268,51 @@ Regulations 7(7) and 11.
 
 #### 1% limit
 
-**1.**[^key-d02f4f0b9e6d29476766948f2fcd3b3a] Any single sub-underwriting contract.
+**1.**[^c-d02f4f0b9e6d29476766948f2fcd3b3a] Any single sub-underwriting contract.
 
 #### 2% limit
 
-**2.**[^key-2a54d29d901c26a5b1c7e5208d20c72b] All contributions to any single partnership.
+**2.**[^c-2a54d29d901c26a5b1c7e5208d20c72b] All contributions to any single partnership.
 
 #### 5% limit
 
-**3.**[^key-5b6248e967c9cc0d114f1d454f6538b8] All contributions to partnerships.
+**3.**[^c-5b6248e967c9cc0d114f1d454f6538b8] All contributions to partnerships.
 
 #### 10% limit
 
-**4.**[^key-f875d75742cda0b261caf0be3fa87ac5] All deposits with a person specified in paragraph 12 or 13 of Schedule 2 to the Banking Act 1987 and all loans (but see paragraph 12).
+**4.**[^c-f875d75742cda0b261caf0be3fa87ac5] All deposits with a person specified in paragraph 12 or 13 of Schedule 2 to the Banking Act 1987 and all loans (but see paragraph 12).
 
-**5.**[^key-1891efca9be39f67f1474da9bbc90c82] All investments in unlisted securities of companies.
+**5.**[^c-1891efca9be39f67f1474da9bbc90c82] All investments in unlisted securities of companies.
 
-**6.**[^key-954b8554d5da8ec172e5e7eb57d65e6c] Any single holding (but see paragraphs 13 and 14).
+**6.**[^c-954b8554d5da8ec172e5e7eb57d65e6c] Any single holding (but see paragraphs 13 and 14).
 
-**7.**[^key-862e8b46b4298c9e283429dd958b6690] All deposits with any single bank, institution or person (other than the National Savings Bank).
+**7.**[^c-862e8b46b4298c9e283429dd958b6690] All deposits with any single bank, institution or person (other than the National Savings Bank).
 
 #### 15% limit
 
-**8.**[^key-4eaaafd3e6a1b56b164c27f89a18c804] All sub-underwriting contracts.
+**8.**[^c-4eaaafd3e6a1b56b164c27f89a18c804] All sub-underwriting contracts.
 
 #### 25% limit
 
-**9.**[^key-d8953ca3101ad1a176f0c6f499b1a67b] All investments in—
+**9.**[^c-d8953ca3101ad1a176f0c6f499b1a67b] All investments in—
 
 - (a) units or other shares of the investments subject to the trusts of unit trust schemes managed by any one body (but see paragraph 14), and
 - (b) open-ended investment companies where the collective investment schemes constituted by the companies are managed by any one body.
 
-**10.**[^key-ebd3cc6ca817fa36b2b5159866ea2710] All insurance contracts.
+**10.**[^c-ebd3cc6ca817fa36b2b5159866ea2710] All insurance contracts.
 
-**11.**[^key-bf74ab33428f9fe6483082f15b717fed] All securities transferred (or agreed to be transferred) by the authority under stock lending arrangements.
+**11.**[^c-bf74ab33428f9fe6483082f15b717fed] All securities transferred (or agreed to be transferred) by the authority under stock lending arrangements.
 
 ### PART II — EXCEPTIONS TO LIMITS IN PART I
 
-**12.**[^key-d822966902e1c122322c9ad1c1682828] The restriction in paragraph 4 does not apply to a Government loan.
+**12.**[^c-d822966902e1c122322c9ad1c1682828] The restriction in paragraph 4 does not apply to a Government loan.
 
-**13.**[^key-62f3b13b96ec46f09cc7fa4cffe22832] The restriction in paragraph 6 does not apply if—
+**13.**[^c-62f3b13b96ec46f09cc7fa4cffe22832] The restriction in paragraph 6 does not apply if—
 
 - (a) the investment is made by an investment manager appointed under regulation 6, and
 - (b) the single holding is in units or other shares of the investments subject to the trusts of any one unit trust scheme.
 
-**14.**[^key-709ec5f38b9610e885a26418ff9b40a3] The restrictions in paragraphs 6 and 9 do not apply—
+**14.**[^c-709ec5f38b9610e885a26418ff9b40a3] The restrictions in paragraphs 6 and 9 do not apply—
 
 - (a) to any investment falling within paragraph 1 of Part I (National Savings) or paragraph 1 or 2 of Part II (interest bearing securities, loans etc.) of Schedule 1 to the Trustee Investments Act 1961, or
 - (b) to a deposit with a relevant institution.
@@ -341,13 +341,13 @@ Regulations 7(7) and 11.
 
 Regulation 13(1).
 
-**1.**[^key-fb72e88ebf4caf9abbafe804c23117fc] In regulation 1(2) of the Local Government Pension Scheme (Local Government Reorganisation in Wales) Regulations 1995[^f00016], after the definition of “designated part” insert—
+**1.**[^c-fb72e88ebf4caf9abbafe804c23117fc] In regulation 1(2) of the Local Government Pension Scheme (Local Government Reorganisation in Wales) Regulations 1995[^f00016], after the definition of “designated part” insert—
 
 > - “the Investment Regulations” means the Local Government Pension Scheme (Management and Investment of Funds) Regulations 1998.
 
-**2.**[^key-06745df8d8843df043dcb3a9f4a7f2e8] In regulation 3(9) of those regulations after the words “the principal regulations” insert the words “or, as the case may be, the Investment Regulations”.
+**2.**[^c-06745df8d8843df043dcb3a9f4a7f2e8] In regulation 3(9) of those regulations after the words “the principal regulations” insert the words “or, as the case may be, the Investment Regulations”.
 
-**3.**[^key-7122778ac455dbfcb30fca620c06bc0d] In regulation 2(1) of the Transitional Regulations[^f00017]—
+**3.**[^c-7122778ac455dbfcb30fca620c06bc0d] In regulation 2(1) of the Transitional Regulations[^f00017]—
 
 - (a) in the definition of “the Investment Regulations” for the words “regulations L4 to L8 of the 1995 regulations” substitute the words “the Local Government Pension Scheme (Management and Investment of Funds) Regulations 1998”;
 - (b) in the definition of “the replaced provisions” omit the words “(but not including the Investment Regulations)”.
@@ -367,9 +367,9 @@ The Occupational Pension Schemes (Investment) Regulations 1996 (S.I. [1996/3127]
 
 [^f00001]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-c672316799ccdd6aedb705f0c750e671]: Commencement: Reg. 1 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-c672316799ccdd6aedb705f0c750e671]: Commencement: Reg. 1 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-3d5c635fe02bc5929cdd728ea472fc60]: Commencement: Reg. 2 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-3d5c635fe02bc5929cdd728ea472fc60]: Commencement: Reg. 2 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
 [^f00002]: Footnote: S.I. [1997/1612](https://www.legislation.gov.uk/uksi/1997/1612), to which there are amendments not relevant to these Regulations.
 
@@ -385,63 +385,63 @@ The Occupational Pension Schemes (Investment) Regulations 1996 (S.I. [1996/3127]
 
 [^f00008]: Footnote: S.I. [1997/1613](https://www.legislation.gov.uk/uksi/1997/1613).
 
-[^key-30415b981438922df098b16fd0febec1]: Commencement: Reg. 3 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-30415b981438922df098b16fd0febec1]: Commencement: Reg. 3 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
 [^f00009]: Footnote: [1982 c. 50](https://www.legislation.gov.uk/ukpga/1982/50).
 
-[^key-6d081b2447b7918d8be2f8b548357222]: Commencement: Reg. 4 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-6d081b2447b7918d8be2f8b548357222]: Commencement: Reg. 4 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
 [^f00010]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60).
 
-[^key-2fbe3ef873cec63de431ac5706b81b31]: Commencement: Reg. 5 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-2fbe3ef873cec63de431ac5706b81b31]: Commencement: Reg. 5 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-f9b54c5ab9c3b7e59e4390732f634c9c]: Commencement: Reg. 6 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-f9b54c5ab9c3b7e59e4390732f634c9c]: Commencement: Reg. 6 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-0230810e4018a1b0faa6c8298b7dd937]: Commencement: Reg. 7 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-0230810e4018a1b0faa6c8298b7dd937]: Commencement: Reg. 7 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-367e651739a55d1b8c6ecbb8c8a8632a]: Commencement: Reg. 8 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-367e651739a55d1b8c6ecbb8c8a8632a]: Commencement: Reg. 8 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-65d7411ccd7fc0780906440b31214419]: Commencement: Reg. 9 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-65d7411ccd7fc0780906440b31214419]: Commencement: Reg. 9 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-845f89d49846730d2aa90fc7e3b2715a]: Commencement: Reg. 10 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-845f89d49846730d2aa90fc7e3b2715a]: Commencement: Reg. 10 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
 [^f00011]: Footnote: [1961 c. 62](https://www.legislation.gov.uk/ukpga/1961/62).
 
-[^key-aa49639b9124f0e580421e9519c1b26e]: Commencement: Reg. 11 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-aa49639b9124f0e580421e9519c1b26e]: Commencement: Reg. 11 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-8b96c24a936f0b2d996da02fb93cdc6d]: Commencement: Reg. 12 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-8b96c24a936f0b2d996da02fb93cdc6d]: Commencement: Reg. 12 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-7efd30ce4cc0283b3b129afd088bcb33]: Commencement: Reg. 13 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-7efd30ce4cc0283b3b129afd088bcb33]: Commencement: Reg. 13 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
 [^f00012]: Footnote: S.I. [1995/1019](https://www.legislation.gov.uk/uksi/1995/1019).
 
-[^key-d02f4f0b9e6d29476766948f2fcd3b3a]: Commencement: Sch. 1 para. 1 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-d02f4f0b9e6d29476766948f2fcd3b3a]: Commencement: Sch. 1 para. 1 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-2a54d29d901c26a5b1c7e5208d20c72b]: Commencement: Sch. 1 para. 2 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-2a54d29d901c26a5b1c7e5208d20c72b]: Commencement: Sch. 1 para. 2 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-5b6248e967c9cc0d114f1d454f6538b8]: Commencement: Sch. 1 para. 3 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-5b6248e967c9cc0d114f1d454f6538b8]: Commencement: Sch. 1 para. 3 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-f875d75742cda0b261caf0be3fa87ac5]: Commencement: Sch. 1 para. 4 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-f875d75742cda0b261caf0be3fa87ac5]: Commencement: Sch. 1 para. 4 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-1891efca9be39f67f1474da9bbc90c82]: Commencement: Sch. 1 para. 5 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-1891efca9be39f67f1474da9bbc90c82]: Commencement: Sch. 1 para. 5 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-954b8554d5da8ec172e5e7eb57d65e6c]: Commencement: Sch. 1 para. 6 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-954b8554d5da8ec172e5e7eb57d65e6c]: Commencement: Sch. 1 para. 6 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-862e8b46b4298c9e283429dd958b6690]: Commencement: Sch. 1 para. 7 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-862e8b46b4298c9e283429dd958b6690]: Commencement: Sch. 1 para. 7 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-4eaaafd3e6a1b56b164c27f89a18c804]: Commencement: Sch. 1 para. 8 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-4eaaafd3e6a1b56b164c27f89a18c804]: Commencement: Sch. 1 para. 8 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-d8953ca3101ad1a176f0c6f499b1a67b]: Commencement: Sch. 1 para. 9 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-d8953ca3101ad1a176f0c6f499b1a67b]: Commencement: Sch. 1 para. 9 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-ebd3cc6ca817fa36b2b5159866ea2710]: Commencement: Sch. 1 para. 10 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-ebd3cc6ca817fa36b2b5159866ea2710]: Commencement: Sch. 1 para. 10 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-bf74ab33428f9fe6483082f15b717fed]: Commencement: Sch. 1 para. 11 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-bf74ab33428f9fe6483082f15b717fed]: Commencement: Sch. 1 para. 11 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-d822966902e1c122322c9ad1c1682828]: Commencement: Sch. 1 para. 12 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-d822966902e1c122322c9ad1c1682828]: Commencement: Sch. 1 para. 12 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-62f3b13b96ec46f09cc7fa4cffe22832]: Commencement: Sch. 1 para. 13 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-62f3b13b96ec46f09cc7fa4cffe22832]: Commencement: Sch. 1 para. 13 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-709ec5f38b9610e885a26418ff9b40a3]: Commencement: Sch. 1 para. 14 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-709ec5f38b9610e885a26418ff9b40a3]: Commencement: Sch. 1 para. 14 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
 [^f00013]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60).
 
@@ -449,12 +449,12 @@ The Occupational Pension Schemes (Investment) Regulations 1996 (S.I. [1996/3127]
 
 [^f00015]: Footnote: S.I. [1996/2827](https://www.legislation.gov.uk/uksi/1996/2827).
 
-[^key-fb72e88ebf4caf9abbafe804c23117fc]: Commencement: Sch. 2 para. 1 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-fb72e88ebf4caf9abbafe804c23117fc]: Commencement: Sch. 2 para. 1 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
 [^f00016]: Footnote: S.I. [1995/1985](https://www.legislation.gov.uk/uksi/1995/1985).
 
-[^key-06745df8d8843df043dcb3a9f4a7f2e8]: Commencement: Sch. 2 para. 2 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-06745df8d8843df043dcb3a9f4a7f2e8]: Commencement: Sch. 2 para. 2 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
-[^key-7122778ac455dbfcb30fca620c06bc0d]: Commencement: Sch. 2 para. 3 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
+[^c-7122778ac455dbfcb30fca620c06bc0d]: Commencement: Sch. 2 para. 3 in force at 19.8.1998, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1998/1831/regulation/1/2)
 
 [^f00017]: Footnote: S.I. [1997/1613](https://www.legislation.gov.uk/uksi/1997/1613).

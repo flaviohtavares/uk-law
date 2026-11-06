@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. New exporter review[^key-49fe1e3c0fc1ca7d986b3c47c3423450]
+## 71. New exporter review[^c-49fe1e3c0fc1ca7d986b3c47c3423450]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 - (c) the review applicant is a new exporter and an individual anti-dumping amount or individual countervailing amount should be applied to the review applicant's exports of the goods subject to review at a rate calculated during the review; or
 - (d) the review applicant is a new exporter and an undertaking should be accepted in accordance with Part 8.
 
-(6A)[^key-9c457350194085aa80dacf934d61fa55] Where the TRA proposes to make a determination under paragraph (6)(a) the TRA must notify the Secretary of State of its proposed determination.
+(6A)[^c-9c457350194085aa80dacf934d61fa55] Where the TRA proposes to make a determination under paragraph (6)(a) the TRA must notify the Secretary of State of its proposed determination.
 
 (6B) Where the Secretary of State has been notified in accordance with paragraph (6A), the Secretary of State may, within the relevant period (and subject to paragraph (6C)), request that the TRA reassess its proposed determination by reference to any matter specified in the request.
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49fe1e3c0fc1ca7d986b3c47c3423450]: Commencement: Reg. 71 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-49fe1e3c0fc1ca7d986b3c47c3423450]: Commencement: Reg. 71 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-9c457350194085aa80dacf934d61fa55]: Textual amendment: [Reg. 71(6A)-(6F)](https://www.legislation.gov.uk/uksi/2019/450/regulation/71/6A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2024/545/regulation/13) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-9c457350194085aa80dacf934d61fa55]: Textual amendment: [Reg. 71(6A)-(6F)](https://www.legislation.gov.uk/uksi/2019/450/regulation/71/6A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2024/545/regulation/13) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Return of US technology if export licence etc. is revoked[^key-a5573b0e1d8d6a195ef7139e91eecfdc]
+## 200. Return of US technology if export licence etc. is revoked[^c-a5573b0e1d8d6a195ef7139e91eecfdc]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A licensee which uses US technology for its licensed activities must ensure that
 
 ## Annotations
 
-[^key-a5573b0e1d8d6a195ef7139e91eecfdc]: Commencement: Reg. 200 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-a5573b0e1d8d6a195ef7139e91eecfdc]: Commencement: Reg. 200 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

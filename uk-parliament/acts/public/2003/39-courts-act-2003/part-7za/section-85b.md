@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85B. Offence of recording or transmission in relation to remote proceedings[^key-23425060d46b0cda2226696f4b8e4f3a]
+## 85B. Offence of recording or transmission in relation to remote proceedings[^c-23425060d46b0cda2226696f4b8e4f3a]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ But a person cannot, in respect of the same conduct, be both convicted of the of
 
 ## Annotations
 
-[^key-23425060d46b0cda2226696f4b8e4f3a]: Textual amendment: [S. 85B and cross-heading](https://www.legislation.gov.uk/ukpga/2003/39/part/7/crossheading/use-of-live-video-or-audio-links-public-participation-offences-of-recording-etc) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 199](https://www.legislation.gov.uk/ukpga/2022/32/section/199), [208(4)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/aa)
+[^c-23425060d46b0cda2226696f4b8e4f3a]: Textual amendment: [S. 85B and cross-heading](https://www.legislation.gov.uk/ukpga/2003/39/part/7/crossheading/use-of-live-video-or-audio-links-public-participation-offences-of-recording-etc) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 199](https://www.legislation.gov.uk/ukpga/2022/32/section/199), [208(4)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/aa)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Connected persons[^key-9b02c18b94737b68fdb76a9c3e5bb191]
+## 40A. Connected persons[^c-9b02c18b94737b68fdb76a9c3e5bb191]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b02c18b94737b68fdb76a9c3e5bb191]: Textual amendment: S. 40A inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/8); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
+[^c-9b02c18b94737b68fdb76a9c3e5bb191]: Textual amendment: S. 40A inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/8); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)

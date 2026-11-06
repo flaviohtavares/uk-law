@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — SCHEDULED WORKS[^key-f57482700d3d5e151ecc2ac11e89a30b]
+## SCHEDULE 1 — SCHEDULED WORKS[^c-f57482700d3d5e151ecc2ac11e89a30b]
 
 *Extent: E+W+S*
 
 Article 2(1)
 
-[^key-f57482700d3d5e151ecc2ac11e89a30b]
+[^c-f57482700d3d5e151ecc2ac11e89a30b]
 
 - **In the London Boroughs of Southwark and Lambeth**
   - **Work No. 1 —** A railway 975 metres in length located in a single bored tunnel structure. The railway commences at a step-plate junction with the London Underground Northern line at a point below De Laune Street and Kennington Park Road 80 metres north-east along De Laune Street from the junction with Harmsworth Street and terminates at a point below Claylands Road 9 metres south-east along Claylands Road from the junction with Trigon Road. The route crosses beneath Harmsworth Street and Kennington Park Place before continuing beneath Kennington Park. The route then crosses beneath Brixton Road, Camberwell Road and Kennington Park Road, terminating at Claylands Road.
@@ -47,4 +47,4 @@ Article 2(1)
 
 ## Annotations
 
-[^key-f57482700d3d5e151ecc2ac11e89a30b]: Commencement: Sch. 1 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-f57482700d3d5e151ecc2ac11e89a30b]: Commencement: Sch. 1 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

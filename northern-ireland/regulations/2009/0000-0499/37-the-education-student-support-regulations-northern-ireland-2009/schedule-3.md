@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — DESIGNATED COURSES[^key-cf975f62c343ceea8f1e88ceb513857d]
+## SCHEDULE 3 — DESIGNATED COURSES[^c-cf975f62c343ceea8f1e88ceb513857d]
 
 *Extent: N.I.*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulations 6(1), 110(1) and 127(1)
 
-**1.**[^key-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-cf975f62c343ceea8f1e88ceb513857d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf975f62c343ceea8f1e88ceb513857d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/37) revoked with savings (1.9.2010 with application in accordance with reg. 1(2) of the Amending Rule) by [The Education (Student Support) ( No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/373)](https://www.legislation.gov.uk/nisr/2009/373), [reg. 4(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/4/1) (with [reg. 4(2)-(5)](https://www.legislation.gov.uk/nisr/2009/373/regulation/4/2))
+[^c-cf975f62c343ceea8f1e88ceb513857d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/37) revoked with savings (1.9.2010 with application in accordance with reg. 1(2) of the Amending Rule) by [The Education (Student Support) ( No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/373)](https://www.legislation.gov.uk/nisr/2009/373), [reg. 4(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/4/1) (with [reg. 4(2)-(5)](https://www.legislation.gov.uk/nisr/2009/373/regulation/4/2))

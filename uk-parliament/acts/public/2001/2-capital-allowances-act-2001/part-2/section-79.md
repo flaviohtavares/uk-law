@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Cases where Chapter 17 (anti-avoidance) applies[^key-3871876be6065562bbb7b474146c417d]
+## 79. Cases where Chapter 17 (anti-avoidance) applies[^c-3871876be6065562bbb7b474146c417d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3871876be6065562bbb7b474146c417d]: Textual amendment: Ss. 74-79 omitted (with effect in accordance with Sch. 11 paras. 26-29 to the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/4) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))
+[^c-3871876be6065562bbb7b474146c417d]: Textual amendment: Ss. 74-79 omitted (with effect in accordance with Sch. 11 paras. 26-29 to the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/4) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))

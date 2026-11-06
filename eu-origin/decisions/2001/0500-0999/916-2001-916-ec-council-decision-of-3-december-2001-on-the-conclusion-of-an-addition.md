@@ -31,10 +31,10 @@ summary: ''
 
 of 3 December 2001 on the conclusion of an Additional Protocol adjusting the trade aspects of the Stabilisation and Association Agreement between the European Communities and their Member States, of the one part, and the former Yugoslav Republic of Macedonia, of the other part, to take account of the outcome of the negotiations between the parties on reciprocal preferential concessions for certain wines, the reciprocal recognition, protection and control of wine names and the reciprocal recognition, protection and control of designations for spirits and aromatised drinks (revoked)
 
-[^key-a6c18fa5ab371671aa4c918bd3434160]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6c18fa5ab371671aa4c918bd3434160]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-a6c18fa5ab371671aa4c918bd3434160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-a6c18fa5ab371671aa4c918bd3434160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a6c18fa5ab371671aa4c918bd3434160]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a6c18fa5ab371671aa4c918bd3434160]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

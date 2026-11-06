@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Removal of charities from register[^key-b3d11263c7517094c51fed742720ddec]
+## 34. Removal of charities from register[^c-b3d11263c7517094c51fed742720ddec]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3d11263c7517094c51fed742720ddec]: Modification: Ss. 30-34 excluded (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2012/3012/regulation/6/3)
+[^c-b3d11263c7517094c51fed742720ddec]: Modification: Ss. 30-34 excluded (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2012/3012/regulation/6/3)

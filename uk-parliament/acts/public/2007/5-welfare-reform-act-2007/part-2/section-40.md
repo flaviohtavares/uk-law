@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Minor and consequential amendments relating to Part 2[^c1868529][^key-bc7030b22c388692ba69dd7b06a654c3][^key-09f01ac4abea0bd6bb7fd7cb19be38b1]
+## 40. Minor and consequential amendments relating to Part 2[^c1868529][^c-bc7030b22c388692ba69dd7b06a654c3][^c-09f01ac4abea0bd6bb7fd7cb19be38b1]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ Schedule 5 (which makes miscellaneous minor amendments and amendments consequent
 
 [^c1868529]: Commencement: S. 40 partly in force, s. 40 in force at Royal Assent for specified purposes and at 3.7.2007 for further specified purposes see s. 70
 
-[^key-bc7030b22c388692ba69dd7b06a654c3]: Commencement: S. 40 in force at 1.4.2008 for specified purposes by [S.I. 2008/411](https://www.legislation.gov.uk/uksi/2008/411), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2008/411/article/2/3/c)
+[^c-bc7030b22c388692ba69dd7b06a654c3]: Commencement: S. 40 in force at 1.4.2008 for specified purposes by [S.I. 2008/411](https://www.legislation.gov.uk/uksi/2008/411), [art. 2(3)(c)](https://www.legislation.gov.uk/uksi/2008/411/article/2/3/c)
 
-[^key-09f01ac4abea0bd6bb7fd7cb19be38b1]: Commencement: S. 40 in force at 7.4.2008 for specified purposes by [S.I. 2007/2872](https://www.legislation.gov.uk/uksi/2007/2872), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/2872/article/2/1/d) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2007/2872/article/3))
+[^c-09f01ac4abea0bd6bb7fd7cb19be38b1]: Commencement: S. 40 in force at 7.4.2008 for specified purposes by [S.I. 2007/2872](https://www.legislation.gov.uk/uksi/2007/2872), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/2872/article/2/1/d) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2007/2872/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Encouragement of women, members of ethnic minorities and disabled persons to take up certain employment opportunities and training[^key-031cd3c832bd8f16ceb656717dafb766]
+## 17. Encouragement of women, members of ethnic minorities and disabled persons to take up certain employment opportunities and training[^c-031cd3c832bd8f16ceb656717dafb766]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-031cd3c832bd8f16ceb656717dafb766]: Textual amendment: S. 17 substituted by 2010 c. 15 Sch. 26 Pt. 1 para. 22 (as inserted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5)) (see S.I. 2010/2317, art. 2)
+[^c-031cd3c832bd8f16ceb656717dafb766]: Textual amendment: S. 17 substituted by 2010 c. 15 Sch. 26 Pt. 1 para. 22 (as inserted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5)) (see S.I. 2010/2317, art. 2)

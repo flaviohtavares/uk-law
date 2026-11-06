@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Saving for Trinity House and protection of navigation[^key-3d0700822c4e24f1e351782a12d2feb5]
+## 51. Saving for Trinity House and protection of navigation[^c-3d0700822c4e24f1e351782a12d2feb5]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d0700822c4e24f1e351782a12d2feb5]: Commencement: Art. 51 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-3d0700822c4e24f1e351782a12d2feb5]: Commencement: Art. 51 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Approval, modification and review of statement of proposals.[^key-630e2a4c23ff9190bc66cf64eadb4bbc]
+## 121. Approval, modification and review of statement of proposals.[^c-630e2a4c23ff9190bc66cf64eadb4bbc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-630e2a4c23ff9190bc66cf64eadb4bbc]: Textual amendment: S. 121 repealed (1.3.2005 for E., 1.9.2006 for W.) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/31/schedule/5/part/1); [S.I. 2005/394](https://www.legislation.gov.uk/uksi/2005/394), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2005/394/article/2/1/l); [S.I. 2006/885](https://www.legislation.gov.uk/uksi/2006/885), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2006/885/article/2/3/b)
+[^c-630e2a4c23ff9190bc66cf64eadb4bbc]: Textual amendment: S. 121 repealed (1.3.2005 for E., 1.9.2006 for W.) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/31/schedule/5/part/1); [S.I. 2005/394](https://www.legislation.gov.uk/uksi/2005/394), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2005/394/article/2/1/l); [S.I. 2006/885](https://www.legislation.gov.uk/uksi/2006/885), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2006/885/article/2/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Removals not reflected in the list of patients on 31st March 2004[^key-f17e7398749c7def7f7dff03884a0dee]
+## 9. Removals not reflected in the list of patients on 31st March 2004[^c-f17e7398749c7def7f7dff03884a0dee]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f17e7398749c7def7f7dff03884a0dee]: Commencement: Art. 9 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-f17e7398749c7def7f7dff03884a0dee]: Commencement: Art. 9 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

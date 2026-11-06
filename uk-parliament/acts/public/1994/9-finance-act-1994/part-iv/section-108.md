@@ -20,22 +20,22 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-1a4a9f83d5c7bcec946b958c6a3fe2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-1a4a9f83d5c7bcec946b958c6a3fe2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-1a4a9f83d5c7bcec946b958c6a3fe2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1a4a9f83d5c7bcec946b958c6a3fe2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-1a4a9f83d5c7bcec946b958c6a3fe2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1a4a9f83d5c7bcec946b958c6a3fe2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-1a4a9f83d5c7bcec946b958c6a3fe2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1a4a9f83d5c7bcec946b958c6a3fe2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-1a4a9f83d5c7bcec946b958c6a3fe2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1a4a9f83d5c7bcec946b958c6a3fe2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-1a4a9f83d5c7bcec946b958c6a3fe2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-1a4a9f83d5c7bcec946b958c6a3fe2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Subject to subsection (8) below, in the Taxes Act 1988—
 
 - (a) in section 188(1), paragraph (c), and
-- (b)[^key-1a4a9f83d5c7bcec946b958c6a3fe2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-1a4a9f83d5c7bcec946b958c6a3fe2aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (exemption from tax where recipient of benefit or lump sum chargeable to tax in respect of sums paid or treated as paid with a view to the provision of the benefit or lump sum) shall cease to have effect in relation to any benefit provided or lump sum paid on or after 1st December 1993.
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a4a9f83d5c7bcec946b958c6a3fe2aa]: Textual amendment: S. 108(1)-(6)(7)(b) repealed (6.4.2003) (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-1a4a9f83d5c7bcec946b958c6a3fe2aa]: Textual amendment: S. 108(1)-(6)(7)(b) repealed (6.4.2003) (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

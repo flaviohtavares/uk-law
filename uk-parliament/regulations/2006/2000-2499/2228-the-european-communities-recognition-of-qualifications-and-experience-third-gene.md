@@ -32,7 +32,7 @@ summary: ''
 
 professional qualifications
 
-The European Communities (Recognition of Qualifications and Experience) (Third General System) (Amendment) Regulations 2006 (revoked)[^key-965d182c5661386a45a476267c97a80c]
+The European Communities (Recognition of Qualifications and Experience) (Third General System) (Amendment) Regulations 2006 (revoked)[^c-965d182c5661386a45a476267c97a80c]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 2nd October 2006
 
-[^key-965d182c5661386a45a476267c97a80c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-965d182c5661386a45a476267c97a80c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-965d182c5661386a45a476267c97a80c]
+## 1. Citation, commencement and interpretation[^c-965d182c5661386a45a476267c97a80c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Production of certificates of experience[^key-965d182c5661386a45a476267c97a80c]
+## 2. Production of certificates of experience[^c-965d182c5661386a45a476267c97a80c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Qualifications and Experience for Certificates of Experience[^key-965d182c5661386a45a476267c97a80c]
+## 3. Qualifications and Experience for Certificates of Experience[^c-965d182c5661386a45a476267c97a80c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-965d182c5661386a45a476267c97a80c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-965d182c5661386a45a476267c97a80c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-965d182c5661386a45a476267c97a80c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-965d182c5661386a45a476267c97a80c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-965d182c5661386a45a476267c97a80c]: Textual amendment: Regulations revoked (19.10.2007) by [The European Communities (Recognition of Professional Qualifications) Regulations 2007 (S.I. 2007/2781)](https://www.legislation.gov.uk/uksi/2007/2781), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2781/regulation/1/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2007/2781/schedule/6)
+[^c-965d182c5661386a45a476267c97a80c]: Textual amendment: Regulations revoked (19.10.2007) by [The European Communities (Recognition of Professional Qualifications) Regulations 2007 (S.I. 2007/2781)](https://www.legislation.gov.uk/uksi/2007/2781), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2781/regulation/1/2), [Sch. 6](https://www.legislation.gov.uk/uksi/2007/2781/schedule/6)

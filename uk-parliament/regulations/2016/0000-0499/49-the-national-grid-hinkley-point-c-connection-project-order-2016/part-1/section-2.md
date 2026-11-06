@@ -55,7 +55,7 @@ summary: ''
 - “Order land” means the land shown on the Land Plans which is within the Order limits and described in the Book of Reference;
 - “Order limits” means the limits shown on the Land Plans and on the Works Plans within which the authorised development may be carried out;
 - “owner”, in relation to land, has the same meaning as in section 7 of the Acquisition of Land Act 1981[^f00012];
-- “Port Authority” means First Corporate Shipping Limited (registered company number 2542406) trading as The Bristol Port Company, being the statutory harbour authority and competent harbour authority for the Port of Bristol, and includes its haven master[^key-7c2df4d6847020ad761eb583706d482a];
+- “Port Authority” means First Corporate Shipping Limited (registered company number 2542406) trading as The Bristol Port Company, being the statutory harbour authority and competent harbour authority for the Port of Bristol, and includes its haven master[^c-7c2df4d6847020ad761eb583706d482a];
 - “Public Rights of Navigation Plan” means the plan listed in Part 4 of Schedule 2 (plans) and certified as the Public Rights of Navigation Plan by the Secretary of State for the purposes of this Order;
 - “Public Rights of Way Management Plan” means the plan included as part of the CEMP detailing measures to manage the temporary closure of public footpaths arising from the construction of the authorised development;
 - “relevant highway authority” means, in any given provision of this Order, the local highway authority for the area to which the provision relates;
@@ -118,4 +118,4 @@ summary: ''
 
 [^f00012]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). Section 7 was amended by section 70 of, and paragraph 9 of Schedule 15 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the 1981 Act which are not relevant to this Order.
 
-[^key-7c2df4d6847020ad761eb583706d482a]: Textual amendment: Words in art. 2(1) substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-7c2df4d6847020ad761eb583706d482a]: Textual amendment: Words in art. 2(1) substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)

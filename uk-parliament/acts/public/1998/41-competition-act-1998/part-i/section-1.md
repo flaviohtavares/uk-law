@@ -22,7 +22,7 @@ summary: ''
 
 The following shall cease to have effect—
 
-- (a)[^key-67803818e3b5349ef3140cf27f19fb93] the Restrictive Practices Court Act 1976 (c. 33),
+- (a)[^c-67803818e3b5349ef3140cf27f19fb93] the Restrictive Practices Court Act 1976 (c. 33),
 - (b) the Restrictive Trade Practices Act 1976 (c. 34),
 - (c) the Resale Prices Act 1976 (c. 53), and
 - (d) the Restrictive Trade Practices Act 1977 (c. 19).
@@ -31,4 +31,4 @@ The following shall cease to have effect—
 
 [^c8782141]: Commencement: S. 1 partly in force; s. 1 was not in force at Royal Assent, see. s. 76(2)(3); s. 1(b) to (d) in force at 1.3.2000 by [S.I. 2000/344](https://www.legislation.gov.uk/uksi/2000/344), [art. 2](https://www.legislation.gov.uk/uksi/2000/344/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/344/schedule)
 
-[^key-67803818e3b5349ef3140cf27f19fb93]: Commencement: S. 1(a) in force at 10.3.2013 by [S.I. 2013/284](https://www.legislation.gov.uk/uksi/2013/284), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/284/article/2/a)
+[^c-67803818e3b5349ef3140cf27f19fb93]: Commencement: S. 1(a) in force at 10.3.2013 by [S.I. 2013/284](https://www.legislation.gov.uk/uksi/2013/284), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/284/article/2/a)

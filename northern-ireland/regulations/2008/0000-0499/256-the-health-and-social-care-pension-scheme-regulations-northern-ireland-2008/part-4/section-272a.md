@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 272A. Calculation method D[^key-c9dcaccf019c1c4f26bcf3ab00ac5384]
+## 272A. Calculation method D[^c-c9dcaccf019c1c4f26bcf3ab00ac5384]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ if those amounts were each subject to a 1.5% increase for each whole year or par
 
 ## Annotations
 
-[^key-c9dcaccf019c1c4f26bcf3ab00ac5384]: Textual amendment: [Reg. 272A](https://www.legislation.gov.uk/nisr/2008/256/regulation/272A) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [103](https://www.legislation.gov.uk/nisr/2010/22/regulation/103)
+[^c-c9dcaccf019c1c4f26bcf3ab00ac5384]: Textual amendment: [Reg. 272A](https://www.legislation.gov.uk/nisr/2008/256/regulation/272A) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [103](https://www.legislation.gov.uk/nisr/2010/22/regulation/103)

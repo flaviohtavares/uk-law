@@ -49,23 +49,23 @@ In accordance with section 178(5) of that Act, the Secretary of State has review
 
 On a review under section 148(2) of the Social Security Administration Act 1992 [^c2199260], the Secretary of State concluded that the general level of earnings obtaining in Great Britain exceeds by 4.4% the general level at the end of the period taken into account for the last such review under that section.
 
-## 1. Citation, commencement and interpretation[^key-3ecd0c72f220745f616d3c3287a061cd]
+## 1. Citation, commencement and interpretation[^c-3ecd0c72f220745f616d3c3287a061cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The earnings percentage[^key-91c0451fcc139e3188e4a32b5596650e]
+## 2. The earnings percentage[^c-91c0451fcc139e3188e4a32b5596650e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The levy ceiling[^key-5ec4424a580670e969d0e4305d5ed490]
+## 3. The levy ceiling[^c-5ec4424a580670e969d0e4305d5ed490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The compensation cap[^key-3ecd0c72f220745f616d3c3287a061cd]
+## 4. The compensation cap[^c-3ecd0c72f220745f616d3c3287a061cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation of the Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2013[^key-3ecd0c72f220745f616d3c3287a061cd]
+## 5. Revocation of the Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2013[^c-3ecd0c72f220745f616d3c3287a061cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -101,8 +101,8 @@ This Order amends an existing regulatory regime by a pre-determined formula and 
 
 [^c2199260]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). Section 148(2) was amended by section 37 of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19).
 
-[^key-3ecd0c72f220745f616d3c3287a061cd]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2014/10) revoked (1.4.2016) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2016 (S.I. 2016/82)](https://www.legislation.gov.uk/uksi/2016/82), [art. 5](https://www.legislation.gov.uk/uksi/2016/82/article/5)
+[^c-3ecd0c72f220745f616d3c3287a061cd]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2014/10) revoked (1.4.2016) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2016 (S.I. 2016/82)](https://www.legislation.gov.uk/uksi/2016/82), [art. 5](https://www.legislation.gov.uk/uksi/2016/82/article/5)
 
-[^key-91c0451fcc139e3188e4a32b5596650e]: Textual amendment: Art. 2 revoked (1.4.2015) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2015 (S.I. 2015/66)](https://www.legislation.gov.uk/uksi/2015/66), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2015/66/article/1/2/c), [4](https://www.legislation.gov.uk/uksi/2015/66/article/4)
+[^c-91c0451fcc139e3188e4a32b5596650e]: Textual amendment: Art. 2 revoked (1.4.2015) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2015 (S.I. 2015/66)](https://www.legislation.gov.uk/uksi/2015/66), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2015/66/article/1/2/c), [4](https://www.legislation.gov.uk/uksi/2015/66/article/4)
 
-[^key-5ec4424a580670e969d0e4305d5ed490]: Textual amendment: Art. 3 revoked (1.4.2015) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2015 (S.I. 2015/66)](https://www.legislation.gov.uk/uksi/2015/66), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2015/66/article/1/2/c), [4](https://www.legislation.gov.uk/uksi/2015/66/article/4)
+[^c-5ec4424a580670e969d0e4305d5ed490]: Textual amendment: Art. 3 revoked (1.4.2015) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling) Order 2015 (S.I. 2015/66)](https://www.legislation.gov.uk/uksi/2015/66), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2015/66/article/1/2/c), [4](https://www.legislation.gov.uk/uksi/2015/66/article/4)

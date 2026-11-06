@@ -45,20 +45,20 @@ Coming into force
 
 The Secretary of State for Health, acting in exercise of the powers conferred by sections 66(1), 77(4), 78(6) and 84 of the Agriculture Act 1970[^f00001] (as read with regulation 14 of the Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) (England and Wales) Regulations 2000[^f00002], and of all other powers enabling him in that behalf, after consultation as required by section 84(1) of that Act with the persons or organisations appearing to represent the interests concerned, and acting, as a Minister designated[^f00003] for the purposes of section 2(2) of the European Communities Act 1972[^f00004] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on him by the said section 2(2) (in so far as these Regulations cannot be made under the powers in the Agriculture Act 1970 specified above), and of all other powers enabling him in that behalf, hereby makes the following Regulations:
 
-## 1. Title, commencement and extent[^key-278d22a80b51bedf51fd213a4d4c3744]
+## 1. Title, commencement and extent[^c-278d22a80b51bedf51fd213a4d4c3744]
 
 These Regulations may be cited as the Feeding Stuffs (Sampling and Analysis) (Amendment) (England) Regulations 2001, shall come into force on 20th March 2001 and shall extend to England only.
 
-## 2. Amendment of the Feeding Stuffs (Sampling and Analysis) Regulations 1999[^key-63639cd3922b7d76bf668b93debc2c29]
+## 2. Amendment of the Feeding Stuffs (Sampling and Analysis) Regulations 1999[^c-63639cd3922b7d76bf668b93debc2c29]
 
 The Feeding Stuffs (Sampling and Analysis) Regulations 1999[^f00005] shall be amended in relation to England in accordance with regulations 3 and 4 below.
 
-**3.**[^key-e41f653a6f1d7b4fb075be66b657ce4b] In regulation 6—
+**3.**[^c-e41f653a6f1d7b4fb075be66b657ce4b] In regulation 6—
 
 - (a) in paragraph (1), after the words “pursuant to the Act,” there shall be added the words “or, in the cases of the substances vitamin A and vitamin E, in a sample of a premixture to be analysed pursuant to Commission Directive [2000/45/EC](https://www.legislation.gov.uk/european/directive/2000/0045) establishing Community methods of analysis for the determination of vitamin A, vitamin E and tryptophan in feedingstuffs,”[^f00006]; and
 - (b) in paragraph (2) subparagraph (c) shall be deleted.
 
-**4.**[^key-972d11e086237e18dd1be0e8f12a5ab4] Annex I to Part II of Schedule 2 shall be amended as follows—
+**4.**[^c-972d11e086237e18dd1be0e8f12a5ab4] Annex I to Part II of Schedule 2 shall be amended as follows—
 
 - (a) after the entry for Theobromine there shall be added in columns 1 to 3 the following entry:
 
@@ -85,11 +85,11 @@ and
 
   .
 
-## 5. Amendment of the Feeding Stuffs Regulations 2000[^key-2b29fc211e746a0fe34a47746f496fcf]
+## 5. Amendment of the Feeding Stuffs Regulations 2000[^c-2b29fc211e746a0fe34a47746f496fcf]
 
 In the Feeding Stuffs Regulations 2000[^f00007], regulation 28, paragraph (b) of regulation 29 and subparagraph (d)(i) of that regulation shall be omitted.
 
-## 6. Amendment of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^key-60f2c7eb671d6971657de396240ba267]
+## 6. Amendment of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^c-60f2c7eb671d6971657de396240ba267]
 
 (1) The Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^f00008] shall be amended in relation to England as follows—
 
@@ -98,7 +98,7 @@ In the Feeding Stuffs Regulations 2000[^f00007], regulation 28, paragraph (b) of
 
 (2) The provisions referred to in paragraph (1)(a) above are regulations 98(8) and (9), 99 and 106(1).
 
-## 7. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^key-a68111c8b1e55061d66c67a6b1a71b2a]
+## 7. Amendment of the Feeding Stuffs (Enforcement) Regulations 1999[^c-a68111c8b1e55061d66c67a6b1a71b2a]
 
 The Feeding Stuffs (Enforcement) Regulations 1999[^f00010] shall be amended in relation to England as follows—
 
@@ -106,7 +106,7 @@ The Feeding Stuffs (Enforcement) Regulations 1999[^f00010] shall be amended in r
 - (b) in regulation 10, in the modification of section 76(8), (9) and (10) of the Agriculture Act 1970, after the words “the Feeding Stuffs (Sampling and Analysis) Regulations 1999” there shall be inserted the words “as amended by the Feedingstuffs (Zootechnical Products) Regulations 1999 and as modified by the Feeding Stuffs Regulations 2000 and amended by the Feeding Stuffs (Sampling and Analysis) (Amendment) (England) Regulations 2001”; and
 - (c) in regulation 11, for the words “not a feeding stuff”, there shall be substituted the words “neither a feeding stuff, nor a premixture to which Part A or Part B of Commission Directive [2000/45/EC](https://www.legislation.gov.uk/european/directive/2000/0045) establishing Community methods of analysis for the determination of vitamin A, vitamin E and tryptophan in feedingstuffs applies”.
 
-**8.**[^key-d07c140207ac7f7a0ba511341d63878c] The Feeding Stuffs (Enforcement) Regulations 1999 shall be amended in relation to England by the insertion, after regulation 11, of the following regulation—
+**8.**[^c-d07c140207ac7f7a0ba511341d63878c] The Feeding Stuffs (Enforcement) Regulations 1999 shall be amended in relation to England by the insertion, after regulation 11, of the following regulation—
 
 > **11A.** For the purposes of sections 77(4) and 78(6) of the Act, analysis shall (as specified in regulation 7) be treated as carried out in the prescribed manner, in relation to a sample of a premixture to which Part A or Part B of Commission Directive [2000/45/EC](https://www.legislation.gov.uk/european/directive/2000/0045) establishing Community methods of analysis for the determination of vitamin A, vitamin E and tryptophan in feedingstuffs applies, if it is carried out in accordance with whichever of those Parts is applicable in the case concerned.
 
@@ -143,30 +143,30 @@ A regulatory impact assessment has been prepared in relation to these Regulation
 
 [^f00004]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-278d22a80b51bedf51fd213a4d4c3744]: Commencement: Reg. 1 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)
+[^c-278d22a80b51bedf51fd213a4d4c3744]: Commencement: Reg. 1 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)
 
-[^key-63639cd3922b7d76bf668b93debc2c29]: Commencement: Reg. 2 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)
+[^c-63639cd3922b7d76bf668b93debc2c29]: Commencement: Reg. 2 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)
 
 [^f00005]: Footnote: S.I. [1999/1663](https://www.legislation.gov.uk/uksi/1999/1663); to which there are amendments not relevant to these Regulations.
 
-[^key-e41f653a6f1d7b4fb075be66b657ce4b]: Commencement: Reg. 3 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)
+[^c-e41f653a6f1d7b4fb075be66b657ce4b]: Commencement: Reg. 3 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)
 
 [^f00006]: Footnote: The reference for Directive [2000/45/EC](https://www.legislation.gov.uk/european/directive/2000/0045) is OJ No. L174, 13.7.2000, p. 32.
 
-[^key-972d11e086237e18dd1be0e8f12a5ab4]: Commencement: Reg. 4 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)
+[^c-972d11e086237e18dd1be0e8f12a5ab4]: Commencement: Reg. 4 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)
 
-[^key-2b29fc211e746a0fe34a47746f496fcf]: Commencement: Reg. 5 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)
+[^c-2b29fc211e746a0fe34a47746f496fcf]: Commencement: Reg. 5 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)
 
 [^f00007]: Footnote: S.I. [2000/2481](https://www.legislation.gov.uk/uksi/2000/2481).
 
-[^key-60f2c7eb671d6971657de396240ba267]: Commencement: Reg. 6 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)
+[^c-60f2c7eb671d6971657de396240ba267]: Commencement: Reg. 6 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)
 
 [^f00008]: Footnote: S.I. [1999/1872](https://www.legislation.gov.uk/uksi/1999/1872). Modified by S.I. [2000/2481](https://www.legislation.gov.uk/uksi/2000/2481).
 
 [^f00009]: Footnote: The reference for the Feeding Stuffs (Zootechnical Products) Regulations 1999 is S.I. [1999/1871](https://www.legislation.gov.uk/uksi/1999/1871) (to which there are amendments not relevant to these Regulations).
 
-[^key-a68111c8b1e55061d66c67a6b1a71b2a]: Commencement: Reg. 7 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)
+[^c-a68111c8b1e55061d66c67a6b1a71b2a]: Commencement: Reg. 7 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)
 
 [^f00010]: Footnote: S.I. [1999/2325](https://www.legislation.gov.uk/uksi/1999/2325). Modified by S.I. [2000/2481](https://www.legislation.gov.uk/uksi/2000/2481).
 
-[^key-d07c140207ac7f7a0ba511341d63878c]: Commencement: Reg. 8 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)
+[^c-d07c140207ac7f7a0ba511341d63878c]: Commencement: Reg. 8 in force at 20.3.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/541/regulation/1)

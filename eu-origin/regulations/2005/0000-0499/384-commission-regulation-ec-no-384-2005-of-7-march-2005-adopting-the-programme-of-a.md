@@ -36,29 +36,29 @@ adopting the programme of ad hoc modules, covering the years 2007 to 2009, for t
 
 (Text with EEA relevance) (revoked)
 
-[^key-1a148a08caffb521b45019e8cd12cfe3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a148a08caffb521b45019e8cd12cfe3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-1a148a08caffb521b45019e8cd12cfe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1a148a08caffb521b45019e8cd12cfe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1a148a08caffb521b45019e8cd12cfe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1a148a08caffb521b45019e8cd12cfe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a148a08caffb521b45019e8cd12cfe3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a148a08caffb521b45019e8cd12cfe3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — LABOUR FORCE SURVEY — Multi-annual programme of ad hoc modules[^key-1a148a08caffb521b45019e8cd12cfe3]
+## ANNEX — LABOUR FORCE SURVEY — Multi-annual programme of ad hoc modules[^c-1a148a08caffb521b45019e8cd12cfe3]
 
-[^key-1a148a08caffb521b45019e8cd12cfe3]1.
+[^c-1a148a08caffb521b45019e8cd12cfe3]1.
 
 ACCIDENTS AT WORK AND WORK-RELATED HEALTH PROBLEMS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a148a08caffb521b45019e8cd12cfe3]2.
+[^c-1a148a08caffb521b45019e8cd12cfe3]2.
 
 LABOUR MARKET SITUATION OF MIGRANTS AND THEIR IMMEDIATE DESCENDANTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a148a08caffb521b45019e8cd12cfe3]3.
+[^c-1a148a08caffb521b45019e8cd12cfe3]3.
 
 ENTRY OF YOUNG PEOPLE INTO THE LABOUR MARKET
 
@@ -66,4 +66,4 @@ ENTRY OF YOUNG PEOPLE INTO THE LABOUR MARKET
 
 ## Annotations
 
-[^key-1a148a08caffb521b45019e8cd12cfe3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/62); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a148a08caffb521b45019e8cd12cfe3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/62); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

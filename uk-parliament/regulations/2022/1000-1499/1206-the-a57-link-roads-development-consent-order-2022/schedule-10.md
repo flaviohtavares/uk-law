@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^key-81ae3a942f8e2bfaa4653fedce9d477f]
+## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^c-81ae3a942f8e2bfaa4653fedce9d477f]
 
 *Extent: E+W+S*
 
 Articles 2 and 42
 
-[^key-81ae3a942f8e2bfaa4653fedce9d477f]The reference to a document in the table with a numbered regulation is a reference to the regulation as numbered in the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^f00102].
+[^c-81ae3a942f8e2bfaa4653fedce9d477f]The reference to a document in the table with a numbered regulation is a reference to the regulation as numbered in the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^f00102].
 
 | *(1)*<br>*Document* | *(2)*<br>*Document Reference* | *(3)*<br>*Revision* |
 | --- | --- | --- |
@@ -46,6 +46,6 @@ Articles 2 and 42
 
 ## Annotations
 
-[^key-81ae3a942f8e2bfaa4653fedce9d477f]: Commencement: Sch. 10 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-81ae3a942f8e2bfaa4653fedce9d477f]: Commencement: Sch. 10 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
 [^f00102]: Footnote: [S.I. 2009/2264](https://www.legislation.gov.uk/uksi/2009/2264).

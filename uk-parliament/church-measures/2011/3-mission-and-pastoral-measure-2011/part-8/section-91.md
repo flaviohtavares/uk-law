@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 91. Induction in one parish church[^key-1f1410d5307431547043da4b4d2a5af9]
+## 91. Induction in one parish church[^c-1f1410d5307431547043da4b4d2a5af9]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f1410d5307431547043da4b4d2a5af9]: Commencement: S. 91 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-1f1410d5307431547043da4b4d2a5af9]: Commencement: S. 91 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

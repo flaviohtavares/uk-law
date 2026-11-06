@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8 — ACQUISITION OF NEW RIGHTS ONLY[^key-5506d932f61b2012d8269ea58575bf45]
+## SCHEDULE 8 — ACQUISITION OF NEW RIGHTS ONLY[^c-5506d932f61b2012d8269ea58575bf45]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ Articles 19 and 34
 
 ## Annotations
 
-[^key-5506d932f61b2012d8269ea58575bf45]: Commencement: Sch. 8 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-5506d932f61b2012d8269ea58575bf45]: Commencement: Sch. 8 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

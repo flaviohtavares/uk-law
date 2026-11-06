@@ -22,7 +22,7 @@ summary: ''
 
 Section 183.
 
-### Part I — Text of Convention[^key-df6ff19b8d25417f13b2440636b5c79a]
+### Part I — Text of Convention[^c-df6ff19b8d25417f13b2440636b5c79a]
 
 [image: see source](https://www.legislation.gov.uk/ukpga/1995/21/images/ukpga_19950021_en_epp_001.gif)[image: see source](https://www.legislation.gov.uk/ukpga/1995/21/images/ukpga_19950021_en_epp_002.gif)[image: see source](https://www.legislation.gov.uk/ukpga/1995/21/images/ukpga_19950021_en_epp_003.gif)[image: see source](https://www.legislation.gov.uk/ukpga/1995/21/images/ukpga_19950021_en_epp_004.gif)[image: see source](https://www.legislation.gov.uk/ukpga/1995/21/images/ukpga_19950021_en_epp_005.gif)[image: see source](https://www.legislation.gov.uk/ukpga/1995/21/images/ukpga_19950021_en_epp_006.gif)[image: see source](https://www.legislation.gov.uk/ukpga/1995/21/images/ukpga_19950021_en_epp_007.gif)[image: see source](https://www.legislation.gov.uk/ukpga/1995/21/images/ukpga_19950021_en_epp_008.gif)[image: see source](https://www.legislation.gov.uk/ukpga/1995/21/images/ukpga_19950021_en_epp_009.gif)[image: see source](https://www.legislation.gov.uk/ukpga/1995/21/images/ukpga_19950021_en_epp_010.gif)[image: see source](https://www.legislation.gov.uk/ukpga/1995/21/images/ukpga_19950021_en_epp_011.gif)[image: see source](https://www.legislation.gov.uk/ukpga/1995/21/images/ukpga_19950021_en_epp_012.gif)[image: see source](https://www.legislation.gov.uk/ukpga/1995/21/images/ukpga_19950021_en_epp_013.gif)[image: see source](https://www.legislation.gov.uk/ukpga/1995/21/images/ukpga_19950021_en_epp_014.gif)[image: see source](https://www.legislation.gov.uk/ukpga/1995/21/images/ukpga_19950021_en_epp_015.gif)
 
@@ -38,7 +38,7 @@ Section 183.
 
 **3.** The reference to the law of the court in article 6 shall be construed as a reference to the [^c14529911]Law Reform (Contributory Negligence) Act 1945 except that in relation to Northern Ireland it shall be construed as a reference to section 2 of the [^c14529921]Law Reform (Miscellaneous Provisions) Act (Northern Ireland) 1948.
 
-**4.** The Secretary of State may by order provide that, in relation to a carrier whose principal place of business is in the United Kingdom, paragraph 1 of article 7 shall have effect with the substitution for the limit for the time being specified in that paragraph of a different limit specified in the order (which shall not be lower than 400,000[^key-cb73dfb64bd566a9d0a99cf7ec670bd5] units of account).
+**4.** The Secretary of State may by order provide that, in relation to a carrier whose principal place of business is in the United Kingdom, paragraph 1 of article 7 shall have effect with the substitution for the limit for the time being specified in that paragraph of a different limit specified in the order (which shall not be lower than 400,000[^c-cb73dfb64bd566a9d0a99cf7ec670bd5] units of account).
 
 **5.** (1) For the purpose of converting from special drawing rights into sterling the amounts mentioned in articles 7 and 8 of the Convention in respect of which a judgment is given, one special drawing right shall be treated as equal to such a sum in sterling as the International Monetary Fund have fixed as being the equivalent of one special drawing right for—
 
@@ -62,7 +62,7 @@ shall be conclusive evidence of those matters for the purposes of articles 7 to 
 
 **9.** Any reference in the Convention to a contract of carriage excludes a contract of carriage which is not for reward.
 
-**9A.**[^key-fe2118bc8224d2ca5f93b8bf41a70eb0] The provisions of the Convention in Part I of this Schedule have effect subject to the reservation made by the United Kingdom (see the reservation set out in the Annex II to Regulation [(EC) No 392/2009](https://www.legislation.gov.uk/european/regulation/2009/0392) of 23 April 2009 of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents).
+**9A.**[^c-fe2118bc8224d2ca5f93b8bf41a70eb0] The provisions of the Convention in Part I of this Schedule have effect subject to the reservation made by the United Kingdom (see the reservation set out in the Annex II to Regulation [(EC) No 392/2009](https://www.legislation.gov.uk/european/regulation/2009/0392) of 23 April 2009 of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents).
 
 **10.** If Her Majesty by Order in Council declares that any State specified in the Order is a party to the Convention in respect of a particular country the Order shall, subject to the provisions of any subsequent Order made by virtue of this paragraph, be conclusive evidence that the State is a party to the Convention in respect of that country.
 
@@ -79,14 +79,14 @@ shall be conclusive evidence of those matters for the purposes of articles 7 to 
 
 ## Annotations
 
-[^key-df6ff19b8d25417f13b2440636b5c79a]: Textual amendment: Sch. 6 Pt. 1 substituted (28.5.2014) by [The Merchant Shipping (Convention Relating to the Carriage of Passengers and their Luggage by Sea) Order 2014 (S.I. 2014/1361)](https://www.legislation.gov.uk/uksi/2014/1361), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1361/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/1361/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/1361/article/3), [5](https://www.legislation.gov.uk/uksi/2014/1361/article/5))
+[^c-df6ff19b8d25417f13b2440636b5c79a]: Textual amendment: Sch. 6 Pt. 1 substituted (28.5.2014) by [The Merchant Shipping (Convention Relating to the Carriage of Passengers and their Luggage by Sea) Order 2014 (S.I. 2014/1361)](https://www.legislation.gov.uk/uksi/2014/1361), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1361/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/1361/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/1361/article/3), [5](https://www.legislation.gov.uk/uksi/2014/1361/article/5))
 
 [^c14529911]: Marginal citation: [1945 c. 28](https://www.legislation.gov.uk/ukpga/1945/28).
 
 [^c14529921]: Marginal citation: [1948 c. 23 (N.I.)](https://www.legislation.gov.uk/apni/1948/23).
 
-[^key-cb73dfb64bd566a9d0a99cf7ec670bd5]: Textual amendment: Word in Sch. 6 Pt. 2 para. 4 substituted (28.5.2014) by [The Merchant Shipping (Convention Relating to the Carriage of Passengers and their Luggage by Sea) Order 2014 (S.I. 2014/1361)](https://www.legislation.gov.uk/uksi/2014/1361), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1361/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1361/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/1361/article/3), [5](https://www.legislation.gov.uk/uksi/2014/1361/article/5))
+[^c-cb73dfb64bd566a9d0a99cf7ec670bd5]: Textual amendment: Word in Sch. 6 Pt. 2 para. 4 substituted (28.5.2014) by [The Merchant Shipping (Convention Relating to the Carriage of Passengers and their Luggage by Sea) Order 2014 (S.I. 2014/1361)](https://www.legislation.gov.uk/uksi/2014/1361), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1361/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1361/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/1361/article/3), [5](https://www.legislation.gov.uk/uksi/2014/1361/article/5))
 
 [^c14529951]: Textual amendment: Sch. 6 Pt. II para. 7 substituted (31.1.1997) by [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23), [s. 107(1)](https://www.legislation.gov.uk/ukpga/1996/23/section/107/1), [Sch. 3 para. 61](https://www.legislation.gov.uk/ukpga/1996/23/schedule/3/paragraph/61); [S.I. 1996/3146](https://www.legislation.gov.uk/uksi/1996/3146), [art. 3](https://www.legislation.gov.uk/uksi/1996/3146/article/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/1996/3146/schedule/2))
 
-[^key-fe2118bc8224d2ca5f93b8bf41a70eb0]: Textual amendment: Sch. 6 Pt. 2 para. 9A inserted (28.5.2014) by [The Merchant Shipping (Convention Relating to the Carriage of Passengers and their Luggage by Sea) Order 2014 (S.I. 2014/1361)](https://www.legislation.gov.uk/uksi/2014/1361), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1361/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/1361/article/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/1361/article/3), [5](https://www.legislation.gov.uk/uksi/2014/1361/article/5))
+[^c-fe2118bc8224d2ca5f93b8bf41a70eb0]: Textual amendment: Sch. 6 Pt. 2 para. 9A inserted (28.5.2014) by [The Merchant Shipping (Convention Relating to the Carriage of Passengers and their Luggage by Sea) Order 2014 (S.I. 2014/1361)](https://www.legislation.gov.uk/uksi/2014/1361), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1361/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/1361/article/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/1361/article/3), [5](https://www.legislation.gov.uk/uksi/2014/1361/article/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Information and samples plans: supplementary[^key-7709333a89a694a3f067a0fd2a96f779]
+## 110. Information and samples plans: supplementary[^c-7709333a89a694a3f067a0fd2a96f779]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ the reference to the responsible person in subsection (1) does not include that 
 
 ## Annotations
 
-[^key-7709333a89a694a3f067a0fd2a96f779]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2023/52/section/110) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-7709333a89a694a3f067a0fd2a96f779]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2023/52/section/110) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

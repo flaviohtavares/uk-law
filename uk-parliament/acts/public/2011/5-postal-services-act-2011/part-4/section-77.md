@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Administrator appointments by creditors etc[^key-917155966d80b516e19aecbb5f4e8125]
+## 77. Administrator appointments by creditors etc[^c-917155966d80b516e19aecbb5f4e8125]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ a person may not take any step to make an appointment.
 
 ## Annotations
 
-[^key-917155966d80b516e19aecbb5f4e8125]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2011/5/section/77) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-917155966d80b516e19aecbb5f4e8125]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2011/5/section/77) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

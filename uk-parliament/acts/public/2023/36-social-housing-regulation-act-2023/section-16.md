@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Conversion of company into registered society: continuation of registration[^key-3a34227eb9b59a58f9de5b9c8a10f77e][^key-87a7e32c04e97762743976007a1e184d]
+## 16. Conversion of company into registered society: continuation of registration[^c-3a34227eb9b59a58f9de5b9c8a10f77e][^c-87a7e32c04e97762743976007a1e184d]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In section 161 of the Housing and Regeneration Act 2008 (company: conversion int
 
 ## Annotations
 
-[^key-3a34227eb9b59a58f9de5b9c8a10f77e]: Commencement: S. 16 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-3a34227eb9b59a58f9de5b9c8a10f77e]: Commencement: S. 16 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-87a7e32c04e97762743976007a1e184d]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2023/36/section/16) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/i)
+[^c-87a7e32c04e97762743976007a1e184d]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2023/36/section/16) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/i)

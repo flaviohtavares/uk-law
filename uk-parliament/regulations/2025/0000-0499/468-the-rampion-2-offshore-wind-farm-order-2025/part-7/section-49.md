@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Certification of plans and documents, etc.[^key-314bf0071122d2e9f882ffce862f06de]
+## 49. Certification of plans and documents, etc.[^c-314bf0071122d2e9f882ffce862f06de]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ the reference in the plan or document concerned must be construed for the purpos
 
 ## Annotations
 
-[^key-314bf0071122d2e9f882ffce862f06de]: Commencement: Art. 49 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-314bf0071122d2e9f882ffce862f06de]: Commencement: Art. 49 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

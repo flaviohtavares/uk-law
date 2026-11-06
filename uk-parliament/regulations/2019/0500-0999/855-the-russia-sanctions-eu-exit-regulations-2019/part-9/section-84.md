@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Time limit for proceedings for summary offences[^key-15ab349ebd182665b1ea30e0ef42f8c2]
+## 84. Time limit for proceedings for summary offences[^c-15ab349ebd182665b1ea30e0ef42f8c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-15ab349ebd182665b1ea30e0ef42f8c2]: Commencement: Reg. 84 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-15ab349ebd182665b1ea30e0ef42f8c2]: Commencement: Reg. 84 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23949301]: Marginal citation: There have been no amendments to section 136(3).

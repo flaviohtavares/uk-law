@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73B. Keeping of register by the Welsh Ministers[^key-75d1273fb618fd691c51ab3f0bd8ea64]
+## 73B. Keeping of register by the Welsh Ministers[^c-75d1273fb618fd691c51ab3f0bd8ea64]
 
 *Extent: E+W+S*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) Subject to subsections (4) and (5), the Welsh Ministers must cause the provisions of each of the following to be entered in the register—
 
 - (a) every designation made by them under section 23 and every variation or revocation of such a designation;
-- (b) every exemption under section 24[^key-7f9a326e921c19cfeb962fc3c5e00992] granted by them;
+- (b) every exemption under section 24[^c-7f9a326e921c19cfeb962fc3c5e00992] granted by them;
 - (c) every franchise agreement to which they are a party;
 - (d) every amendment of such a franchise agreement as it relates to a Wales-only service or a Welsh component of a Welsh service, other than amendments which are unlikely to have a material effect on the provision of services under the agreement or on any sums payable under it;
 - (e) every determination made by them under section 34 of the Railways Act 2005 that a closure is a minor modification or that closures of a particular description are minor modifications;
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-75d1273fb618fd691c51ab3f0bd8ea64]: Textual amendment: S. 73B inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/23)
+[^c-75d1273fb618fd691c51ab3f0bd8ea64]: Textual amendment: S. 73B inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/23)
 
-[^key-7f9a326e921c19cfeb962fc3c5e00992]: Textual amendment: Words in [s. 73B(3)(b)](https://www.legislation.gov.uk/ukpga/1993/43/section/73B/3/b) substituted (28.11.2024) by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2), [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2024/25/schedule/paragraph/8)
+[^c-7f9a326e921c19cfeb962fc3c5e00992]: Textual amendment: Words in [s. 73B(3)(b)](https://www.legislation.gov.uk/ukpga/1993/43/section/73B/3/b) substituted (28.11.2024) by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2), [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2024/25/schedule/paragraph/8)

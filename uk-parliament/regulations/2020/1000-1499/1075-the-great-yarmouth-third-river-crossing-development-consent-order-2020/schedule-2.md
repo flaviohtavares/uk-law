@@ -24,7 +24,7 @@ Article 4(1)
 
 ### PART 1 — REQUIREMENTS
 
-#### 1. Interpretation[^key-f352737b4eba561940a667ee3fee1469]
+#### 1. Interpretation[^c-f352737b4eba561940a667ee3fee1469]
 
 (1) In this Schedule the following expressions have the following meanings—
 
@@ -39,22 +39,22 @@ Article 4(1)
 - “**the lighting report**” means the document of that description referenced in Schedule 15 (documents to be certified) certified by the Secretary of State as the lighting report for the purposes of this Order; and
 - “**the preliminary navigation risk assessment**” means the document of that description referenced in Schedule 15 (documents to be certified) certified by the Secretary of State as the preliminary navigation risk assessment for the purposes of this Order.
 
-#### 2. Time limits[^key-58354a36473b55b5e6131eb6ce63e07c]
+#### 2. Time limits[^c-58354a36473b55b5e6131eb6ce63e07c]
 
 The authorised development must not commence later than the expiration of 5 years beginning with the date that this Order comes into force.
 
-#### 3. Commencement of the authorised development[^key-0f2c530272b81843f61ccc23544266a0]
+#### 3. Commencement of the authorised development[^c-0f2c530272b81843f61ccc23544266a0]
 
 Notice of commencement of the authorised development must be given to the county planning authority in writing within 7 days of the date that the authorised development is commenced.
 
-#### 4. Design of the authorised development[^key-db8e2f44717842d51a5d0c6c5fdd749c]
+#### 4. Design of the authorised development[^c-db8e2f44717842d51a5d0c6c5fdd749c]
 
 The authorised development must be designed and implemented in general accordance with—
 
 - (a) the general arrangement plan; and
 - (b) the approach to detailed design.
 
-#### 5. Detailed design of specified structures[^key-c870d351d14f7f6868a5f0f5627b61f9]
+#### 5. Detailed design of specified structures[^c-c870d351d14f7f6868a5f0f5627b61f9]
 
 Construction of each part of the authorised development specified in column (1) of the table below must not commence until the details of the elements specified in relation to that part in column (2) of that table have been submitted to, and following consultation with Great Yarmouth Borough Council, approved in writing by the county planning authority.
 
@@ -66,7 +66,7 @@ Construction of each part of the authorised development specified in column (1) 
 | Work No. 8B(i) | The finish and external materials of the bridge deck |
 | Work No. 8C(iv) | The finish and external materials of the bridge deck |
 
-#### 6. Code of construction practice[^key-91bc1a9debbf1888e6b1830d871c029f]
+#### 6. Code of construction practice[^c-91bc1a9debbf1888e6b1830d871c029f]
 
 (1) No part of the authorised development is to commence until a code of construction practice for that part of the authorised development has been submitted to and, following consultation with Great Yarmouth Borough Council, the lead local flood authority, the IDB and the Environment Agency, approved in writing by the county planning authority.
 
@@ -83,7 +83,7 @@ Construction of each part of the authorised development specified in column (1) 
 
 (4) Any part of the authorised development must be carried out in accordance with the relevant code of construction practice approved under sub-paragraph (1) for that part.
 
-#### 7. Landscaping and ecological management plan[^key-3daab31e1f43644b2086019b7c9ab7d6]
+#### 7. Landscaping and ecological management plan[^c-3daab31e1f43644b2086019b7c9ab7d6]
 
 (1) No part of the authorised development is to commence until a written landscaping and ecological management plan for that part has been submitted to and, following consultation with Great Yarmouth Borough Council and Natural England, approved in writing by the county planning authority.
 
@@ -111,7 +111,7 @@ Construction of each part of the authorised development specified in column (1) 
 
 (4) All landscaping works must be carried out and maintained in accordance with the relevant landscaping scheme approved under sub-paragraph (1) for that part.
 
-#### 8. Existing trees and hedgerows[^key-1ca5db31cb2287bbd59062ff0b298015]
+#### 8. Existing trees and hedgerows[^c-1ca5db31cb2287bbd59062ff0b298015]
 
 (1) All hedges and trees forming part of the boundary of the Order land or situated within it and which are shown to be retained in the landscaping scheme approved under paragraph 74 must be protected from any damage during the construction of the authorised development in accordance with British Standard BS5837 (2012) ‘Trees in relation to design, demolition and construction’.
 
@@ -119,7 +119,7 @@ Construction of each part of the authorised development specified in column (1) 
 
 (3) No felling, lopping or removal of hedges or trees (“the relevant activity”) is to take place during the bird nesting season unless a written report concerning the relevant activity by a suitably qualified ecologist has been provided to and approved by the county planning authority. The recommendations of the ecologist as set out in the report must be complied with in carrying out the relevant activity.
 
-#### 9. Contamination[^key-61b4dd8128610af3cf069b4021fb4120]
+#### 9. Contamination[^c-61b4dd8128610af3cf069b4021fb4120]
 
 (1) In the event that contaminated materials are found at any time when carrying out the authorised development which have not been identified and addressed in a code of construction practice—
 
@@ -129,7 +129,7 @@ Construction of each part of the authorised development specified in column (1) 
 
 (2) Following a notification under sub-paragraph (1), where the county planning authority determines that remediation is necessary, a written scheme and programme for the remedial measures necessary to render the land fit for its intended purpose (including a timetable), must be submitted to and, following consultation with Great Yarmouth Borough Council and the Environment Agency, approved in writing by the county planning authority and afterwards carried out.
 
-#### 10. Emergency Preparedness and Response Plan[^key-6625d24ffeb30f7ef754ea24aac21d82]
+#### 10. Emergency Preparedness and Response Plan[^c-6625d24ffeb30f7ef754ea24aac21d82]
 
 (1) No part of the authorised development is to be opened to the public until an emergency preparedness and response plan has been submitted to and, following consultation with Great Yarmouth Borough Council, the lead local flood authority, Norfolk Fire and Rescue, Norfolk Constabulary and the Environment Agency, approved in writing by the county planning authority.
 
@@ -145,7 +145,7 @@ Construction of each part of the authorised development specified in column (1) 
 
 (5) The approved plan must be implemented in full.
 
-#### 11. Surface water drainage[^key-ce8fa2536af8f1f7e1e0fdf1423fc869]
+#### 11. Surface water drainage[^c-ce8fa2536af8f1f7e1e0fdf1423fc869]
 
 (1) No part of the authorised development which comprises any part of a surface water drainage system is to commence until written details of that surface water drainage system, including measures for the management of flood risk, for that part has been submitted to and, following consultation with Great Yarmouth Borough Council, the lead local flood authority, Anglian Water (in respect of its sewerage undertaker functions), the Environment Agency and the IDB, approved in writing by the county planning authority.
 
@@ -153,7 +153,7 @@ Construction of each part of the authorised development specified in column (1) 
 
 (3) The surface water drainage system must be constructed in accordance with the surface water drainage system approved under sub-paragraph (1) for that part.
 
-#### 12. Lighting[^key-78b40308fdd2b0414d57203a54136625]
+#### 12. Lighting[^c-78b40308fdd2b0414d57203a54136625]
 
 (1) No part of the authorised development is to commence until a written scheme of the lighting to be provided for that part on opening for public use (except lighting to be provided to the interior of a building) has been submitted to and, following consultation with Great Yarmouth Borough Council, approved in writing by the county planning authority.
 
@@ -163,7 +163,7 @@ Construction of each part of the authorised development specified in column (1) 
 
 (4) Nothing in this requirement restricts lighting of the authorised development during its construction or as temporarily required for maintenance.
 
-#### 13. Completion and availability of particular works[^key-31bf7057724b0e023a68fc3e11ae6a7b]
+#### 13. Completion and availability of particular works[^c-31bf7057724b0e023a68fc3e11ae6a7b]
 
 (1) The highway comprised in the new bridge and the new bridge western approach must not be opened for public use until the works specified in sub-paragraph (2) have been completed and made available for use.
 
@@ -173,7 +173,7 @@ Construction of each part of the authorised development specified in column (1) 
 - (b) Work No. 11; and
 - (c) Work No. 12.
 
-#### 14. Archaeology[^key-0e0f93f5f777befa3465ce11b4231b8b]
+#### 14. Archaeology[^c-0e0f93f5f777befa3465ce11b4231b8b]
 
 (1) The authorised development must be constructed in accordance with the archaeological written scheme of investigation, including the provisions of any method statement or other document required to be prepared under the terms of the archaeological written scheme of investigation.
 
@@ -183,21 +183,21 @@ Construction of each part of the authorised development specified in column (1) 
 
 (4) If the county planning authority confirm to the undertaker during the 14 day period referred to in sub-paragraph (3) that the revealed remains require further investigation, then no construction operations are to take place within 10 metres of the revealed remains until the revealed remains have been investigated and recorded in accordance with a scheme, which may provide for the removal of the revealed remains (subject to any direction or determination made under article 55 (removal of human remains)), submitted to and approved in writing by the county planning authority.
 
-#### 15. Preliminary navigation risk assessment[^key-30f76df63bf93e70c87fb904abd1b2c3]
+#### 15. Preliminary navigation risk assessment[^c-30f76df63bf93e70c87fb904abd1b2c3]
 
 The new bridge must be designed, constructed and operated in accordance with section 7 (Additional Mitigation Measures) of the preliminary navigation risk assessment.
 
-#### 16. Signs at vessel waiting facilities[^key-ee55c1ba0bb6550e4d851cbcd89edb77]
+#### 16. Signs at vessel waiting facilities[^c-ee55c1ba0bb6550e4d851cbcd89edb77]
 
 Signs instructing masters of vessels utilising the vessel waiting facilities to switch off the vessel engine whilst the vessel is moored must be provided to the satisfaction of the county planning authority prior to the first use of the vessel waiting facilities and maintained thereafter.
 
-#### 17. Amendments to approved details[^key-bce16088a63bfc9160f6b63cd24959f7]
+#### 17. Amendments to approved details[^c-bce16088a63bfc9160f6b63cd24959f7]
 
 (1) Subject to sub-paragraph (2), where any details, plans or schemes have been approved by the county planning authority under the provisions of any requirement, the county planning authority may at any time if it thinks fit approve amendments to the approved details, plans or schemes and following any further approval by the county planning authority the approved details, plans or schemes include the amendments approved under this requirement.
 
 (2) In considering any amendment to any details, plans or schemes the county planning authority must consult those persons it would have been required to consult before granting approval initially in relation to the details, plans, or schemes.
 
-#### 18. Details of consultation[^key-fa07a0861fb7087711ce73f7f0d4ee62]
+#### 18. Details of consultation[^c-fa07a0861fb7087711ce73f7f0d4ee62]
 
 With respect to any requirement which requires details to be submitted to the county planning authority for approval under this Schedule following consultation with another party, the details submitted to the county planning authority must be accompanied by a summary report setting out—
 
@@ -206,7 +206,7 @@ With respect to any requirement which requires details to be submitted to the co
 
 ### PART 2 — PROCEDURE FOR DISCHARGE OF REQUIREMENTS
 
-#### 19. Interpretation[^key-da202792567d7fd1af83d1a8aa92c5ed]
+#### 19. Interpretation[^c-da202792567d7fd1af83d1a8aa92c5ed]
 
 (1) In this Part of this Schedule—
 
@@ -223,7 +223,7 @@ With respect to any requirement which requires details to be submitted to the co
 
   and includes a consent, agreement or approval discharging a requirement in part only.
 
-#### 20. Applications made under requirements[^key-fef0c582fd8da3807d96201b2294ce80]
+#### 20. Applications made under requirements[^c-fef0c582fd8da3807d96201b2294ce80]
 
 (1) Where an application has been made to the relevant discharging authority, the discharging authority must give notice to the undertaker of the discharging authority's decision on the application within—
 
@@ -244,7 +244,7 @@ and where the specified consent, agreement or approval is refused or granted sub
 
 (3) In the event that the discharging authority does not give notice of its decision within the period set out in sub-paragraph (1), the discharging authority is taken to have granted the specified consent sought by the application without any condition or qualification at the end of that period.
 
-#### 21. Further information relating to application[^key-2f77e6f1cd07e6817f10b01da1022156]
+#### 21. Further information relating to application[^c-2f77e6f1cd07e6817f10b01da1022156]
 
 (1) A discharging authority in receipt of an application for a specified consent may request the undertaker to provide such further information as is reasonably necessary to enable the discharging authority to consider the application.
 
@@ -254,7 +254,7 @@ and where the specified consent, agreement or approval is refused or granted sub
 
 (4) If the discharging authority does not request the undertaker to provide further information in accordance with sub-paragraphs (1) to (3), the discharging authority is thereafter deemed to have sufficient information. The undertaker is under no obligation to provide further information to the discharging authority but may do so if the discharging authority so requests.
 
-#### 22. Appeals[^key-6595c7b5ac285f58706bc1bf26a9d9a5]
+#### 22. Appeals[^c-6595c7b5ac285f58706bc1bf26a9d9a5]
 
 (1) Where the undertaker has made an application for a specified consent to the discharging authority, the undertaker may in writing appeal to the Secretary of State in the event that the discharging authority—
 
@@ -308,7 +308,7 @@ and may deal with the appeal as if the relevant application had been made to the
 
 ### PART 3 — SUPPLEMENTARY PROVISIONS
 
-#### 23. Publication of requirements[^key-f66a97b6bdcec952ffac6e36ecdde240]
+#### 23. Publication of requirements[^c-f66a97b6bdcec952ffac6e36ecdde240]
 
 (1) The undertaker, must, as soon as reasonably practicable following the making of this Order, establish on a website maintained by the undertaker a register of those requirements contained in Part 1 of this Schedule that include provision for a specified consent.
 
@@ -321,11 +321,11 @@ and may deal with the appeal as if the relevant application had been made to the
 
 (4) The register must be maintained by the undertaker for a period of least 3 years following the opening of the authorised development to public use.
 
-#### 24. Service of documents[^key-f34ba30e4cacda59df14311f048032a6]
+#### 24. Service of documents[^c-f34ba30e4cacda59df14311f048032a6]
 
 Any document required or authorised to be sent to any person under the provisions of this Schedule is to be taken to be a document required or authorised to be served on that person for the purposes of article 65 (service of notices) of the Order.
 
-#### 25. Anticipatory steps relevant to specified consent[^key-088ad55ea17d85be189028d27f0bf252]
+#### 25. Anticipatory steps relevant to specified consent[^c-088ad55ea17d85be189028d27f0bf252]
 
 (1) In the discharge of its functions under this Schedule, a discharging authority may treat and take account of any pre-commencement action as if it had occurred after the coming into force of this Order.
 
@@ -336,56 +336,56 @@ Any document required or authorised to be sent to any person under the provision
 
 ## Annotations
 
-[^key-f352737b4eba561940a667ee3fee1469]: Commencement: Sch. 2 para. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-f352737b4eba561940a667ee3fee1469]: Commencement: Sch. 2 para. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294831]: Marginal citation: [2010 c. 29](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-58354a36473b55b5e6131eb6ce63e07c]: Commencement: Sch. 2 para. 2 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-58354a36473b55b5e6131eb6ce63e07c]: Commencement: Sch. 2 para. 2 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-0f2c530272b81843f61ccc23544266a0]: Commencement: Sch. 2 para. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-0f2c530272b81843f61ccc23544266a0]: Commencement: Sch. 2 para. 3 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-db8e2f44717842d51a5d0c6c5fdd749c]: Commencement: Sch. 2 para. 4 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-db8e2f44717842d51a5d0c6c5fdd749c]: Commencement: Sch. 2 para. 4 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-c870d351d14f7f6868a5f0f5627b61f9]: Commencement: Sch. 2 para. 5 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-c870d351d14f7f6868a5f0f5627b61f9]: Commencement: Sch. 2 para. 5 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-91bc1a9debbf1888e6b1830d871c029f]: Commencement: Sch. 2 para. 6 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-91bc1a9debbf1888e6b1830d871c029f]: Commencement: Sch. 2 para. 6 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-3daab31e1f43644b2086019b7c9ab7d6]: Commencement: Sch. 2 para. 7 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-3daab31e1f43644b2086019b7c9ab7d6]: Commencement: Sch. 2 para. 7 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-1ca5db31cb2287bbd59062ff0b298015]: Commencement: Sch. 2 para. 8 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-1ca5db31cb2287bbd59062ff0b298015]: Commencement: Sch. 2 para. 8 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-61b4dd8128610af3cf069b4021fb4120]: Commencement: Sch. 2 para. 9 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-61b4dd8128610af3cf069b4021fb4120]: Commencement: Sch. 2 para. 9 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-6625d24ffeb30f7ef754ea24aac21d82]: Commencement: Sch. 2 para. 10 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-6625d24ffeb30f7ef754ea24aac21d82]: Commencement: Sch. 2 para. 10 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-ce8fa2536af8f1f7e1e0fdf1423fc869]: Commencement: Sch. 2 para. 11 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-ce8fa2536af8f1f7e1e0fdf1423fc869]: Commencement: Sch. 2 para. 11 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-78b40308fdd2b0414d57203a54136625]: Commencement: Sch. 2 para. 12 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-78b40308fdd2b0414d57203a54136625]: Commencement: Sch. 2 para. 12 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-31bf7057724b0e023a68fc3e11ae6a7b]: Commencement: Sch. 2 para. 13 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-31bf7057724b0e023a68fc3e11ae6a7b]: Commencement: Sch. 2 para. 13 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-0e0f93f5f777befa3465ce11b4231b8b]: Commencement: Sch. 2 para. 14 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-0e0f93f5f777befa3465ce11b4231b8b]: Commencement: Sch. 2 para. 14 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-30f76df63bf93e70c87fb904abd1b2c3]: Commencement: Sch. 2 para. 15 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-30f76df63bf93e70c87fb904abd1b2c3]: Commencement: Sch. 2 para. 15 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-ee55c1ba0bb6550e4d851cbcd89edb77]: Commencement: Sch. 2 para. 16 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-ee55c1ba0bb6550e4d851cbcd89edb77]: Commencement: Sch. 2 para. 16 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-bce16088a63bfc9160f6b63cd24959f7]: Commencement: Sch. 2 para. 17 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-bce16088a63bfc9160f6b63cd24959f7]: Commencement: Sch. 2 para. 17 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-fa07a0861fb7087711ce73f7f0d4ee62]: Commencement: Sch. 2 para. 18 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-fa07a0861fb7087711ce73f7f0d4ee62]: Commencement: Sch. 2 para. 18 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-da202792567d7fd1af83d1a8aa92c5ed]: Commencement: Sch. 2 para. 19 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-da202792567d7fd1af83d1a8aa92c5ed]: Commencement: Sch. 2 para. 19 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294841]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-fef0c582fd8da3807d96201b2294ce80]: Commencement: Sch. 2 para. 20 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-fef0c582fd8da3807d96201b2294ce80]: Commencement: Sch. 2 para. 20 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-2f77e6f1cd07e6817f10b01da1022156]: Commencement: Sch. 2 para. 21 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-2f77e6f1cd07e6817f10b01da1022156]: Commencement: Sch. 2 para. 21 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-6595c7b5ac285f58706bc1bf26a9d9a5]: Commencement: Sch. 2 para. 22 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-6595c7b5ac285f58706bc1bf26a9d9a5]: Commencement: Sch. 2 para. 22 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-f66a97b6bdcec952ffac6e36ecdde240]: Commencement: Sch. 2 para. 23 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-f66a97b6bdcec952ffac6e36ecdde240]: Commencement: Sch. 2 para. 23 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-f34ba30e4cacda59df14311f048032a6]: Commencement: Sch. 2 para. 24 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-f34ba30e4cacda59df14311f048032a6]: Commencement: Sch. 2 para. 24 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
-[^key-088ad55ea17d85be189028d27f0bf252]: Commencement: Sch. 2 para. 25 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-088ad55ea17d85be189028d27f0bf252]: Commencement: Sch. 2 para. 25 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

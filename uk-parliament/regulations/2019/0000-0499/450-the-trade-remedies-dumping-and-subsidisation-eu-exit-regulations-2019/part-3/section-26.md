@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Determination of the goods the subsidy is attributable to during the period of investigation[^key-f0fb07fa7d99566f4da2cc0428e585de]
+## 26. Determination of the goods the subsidy is attributable to during the period of investigation[^c-f0fb07fa7d99566f4da2cc0428e585de]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0fb07fa7d99566f4da2cc0428e585de]: Commencement: Reg. 26 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-f0fb07fa7d99566f4da2cc0428e585de]: Commencement: Reg. 26 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

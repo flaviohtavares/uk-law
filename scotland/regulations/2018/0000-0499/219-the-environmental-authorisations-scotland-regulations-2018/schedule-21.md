@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 21 — OPERATING A LARGE COMBUSTION PLANT[^key-65dcc24965b5e430c1be2c8f8e1414fa]
+## SCHEDULE 21 — OPERATING A LARGE COMBUSTION PLANT[^c-65dcc24965b5e430c1be2c8f8e1414fa]
 
 *Extent: S*
 
@@ -666,9 +666,9 @@ Table 14
 
 ## Annotations
 
-[^key-65dcc24965b5e430c1be2c8f8e1414fa]: Textual amendment: [Sch. 21](https://www.legislation.gov.uk/ssi/2018/219/schedule/21) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2025/165/schedule/12) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-65dcc24965b5e430c1be2c8f8e1414fa]: Textual amendment: [Sch. 21](https://www.legislation.gov.uk/ssi/2018/219/schedule/21) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2025/165/schedule/12) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^f01032]: Footnote: (1)[^key-65dcc24965b5e430c1be2c8f8e1414fa]
+[^f01032]: Footnote: (1)[^c-65dcc24965b5e430c1be2c8f8e1414fa]
 
     The emission limit value is 450 mg/Nm<sup>3</sup> for the firing of distillation and conversion residues from the refining of crude-oil for own consumption in combustion plants with a total rated thermal input not exceeding 500 MW which were granted a permit before 27 November 2002 or where a complete application for a permit was submitted before that date, provided that the plant was put into operation no later than 27 November 2003.
 

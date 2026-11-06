@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Change of name not to affect existing rights and obligations etc.[^key-66c278b3e97e64c472f9de35d0bf0fe2]
+## 44. Change of name not to affect existing rights and obligations etc.[^c-66c278b3e97e64c472f9de35d0bf0fe2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A change of name by a charity by virtue of section 42 does not affect any rights
 
 ## Annotations
 
-[^key-66c278b3e97e64c472f9de35d0bf0fe2]: Modification: S. 44 applied (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [37(6)](https://www.legislation.gov.uk/uksi/2012/3013/regulation/37/6)
+[^c-66c278b3e97e64c472f9de35d0bf0fe2]: Modification: S. 44 applied (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [37(6)](https://www.legislation.gov.uk/uksi/2012/3013/regulation/37/6)

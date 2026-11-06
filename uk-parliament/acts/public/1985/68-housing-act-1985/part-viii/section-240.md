@@ -38,12 +38,12 @@ summary: ''
 - (b) a statement of the numbers of dwellings, houses in multiple occupation and hostels in the area, and
 - (c) a statement, containing such information as the Secretary of State may for the time being require, either generally or with respect to a particular authority or description of authority or in any particular case, showing the basis on which the authority satisfied themselves, having regard to the matters mentioned in section 239(1) and any relevant guidance under section 239(3), that the area was suitable to be a housing action area.
 
-(5) They shall also send to the Secretary of State a statement of their proposals, whether general or specific, for the participation of private registered providers of social housing or (as the case may be)[^key-c584ffd525211dbd89747495849c1afb] registered social landlords[^c15071191] in dealing with living conditions in the area.
+(5) They shall also send to the Secretary of State a statement of their proposals, whether general or specific, for the participation of private registered providers of social housing or (as the case may be)[^c-c584ffd525211dbd89747495849c1afb] registered social landlords[^c15071191] in dealing with living conditions in the area.
 
 ## Annotations
 
 [^c15071181]: Textual amendment: Words repealed by [Housing and Planning Act 1986 (c. 63, SIF 61)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 21(2)](https://www.legislation.gov.uk/ukpga/1986/63/section/21/2)(*b*)
 
-[^key-c584ffd525211dbd89747495849c1afb]: Textual amendment: Words in s. 240(5) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/29) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-c584ffd525211dbd89747495849c1afb]: Textual amendment: Words in s. 240(5) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/29) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c15071191]: Textual amendment: Words in s. 240(5) substituted (1.10.1996) by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [art. 5(1)](https://www.legislation.gov.uk/uksi/1996/2325/article/5/1), [Sch. 2 para. 14(18)](https://www.legislation.gov.uk/uksi/1996/2325/schedule/2/paragraph/14/18)

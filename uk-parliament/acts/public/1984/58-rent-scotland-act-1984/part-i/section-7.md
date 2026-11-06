@@ -25,7 +25,7 @@ summary: ''
 - (a) if the dwelling-house comprises lands and heritages for which a rateable value is then shown on the valuation roll, it shall be that rateable value;
 - (b) if the dwelling-house forms part only of such lands and heritages, its rateable value shall be taken to be such value as is found by a proper apportionment of the rateable value so shown.
 
-(2) Any question arising under this section as to the proper apportionment of any value shall be determined by the First-tier Tribunal[^key-d8edf65df2dff108bc97aaf50a1c24b7], and the decision of the Tribunal shall be final.
+(2) Any question arising under this section as to the proper apportionment of any value shall be determined by the First-tier Tribunal[^c-d8edf65df2dff108bc97aaf50a1c24b7], and the decision of the Tribunal shall be final.
 
 (3) In this Act “**the appropriate day**”,—
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8edf65df2dff108bc97aaf50a1c24b7]: Textual amendment: Words in s. 7(2) substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/2); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-d8edf65df2dff108bc97aaf50a1c24b7]: Textual amendment: Words in s. 7(2) substituted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/2); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)

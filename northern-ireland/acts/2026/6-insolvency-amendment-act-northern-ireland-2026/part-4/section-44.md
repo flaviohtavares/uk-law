@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Delegation of High Court’s powers to liquidator[^key-1925920eef26bc5975c1d1bd26b7c42e]
+## 44. Delegation of High Court’s powers to liquidator[^c-1925920eef26bc5975c1d1bd26b7c42e]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ In Article 137(1) (delegation of High Court’s powers to liquidator), for sub-p
 
 ## Annotations
 
-[^key-1925920eef26bc5975c1d1bd26b7c42e]: Commencement: S. 44 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-1925920eef26bc5975c1d1bd26b7c42e]: Commencement: S. 44 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

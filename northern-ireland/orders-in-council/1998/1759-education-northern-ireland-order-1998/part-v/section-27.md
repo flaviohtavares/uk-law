@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Authority[^key-ed55e84b71ab4865bb54e5f4d498b9b5] shall make arrangements for enabling the parent of a child to appeal against any decision made under Article 26 by the Board of Governors of a school [^key-b0ea03775080fb29c65708c04bdf8995]... refusing the child admission to the school.
+(1) The Authority[^c-ed55e84b71ab4865bb54e5f4d498b9b5] shall make arrangements for enabling the parent of a child to appeal against any decision made under Article 26 by the Board of Governors of a school [^c-b0ea03775080fb29c65708c04bdf8995]... refusing the child admission to the school.
 
 (2) An appeal under this Article shall be to an appeal tribunal constituted in accordance with regulations under paragraph (8) of Article 15 of the [^m00010] Education (Northern Ireland) Order 1997; and paragraphs (9) to (11) of that Article apply in relation to appeals under this Article as they apply in relation to appeals under that Article.
 
@@ -42,8 +42,8 @@ in deciding to refuse the child admission to the school.
 
 ## Annotations
 
-[^key-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-b0ea03775080fb29c65708c04bdf8995]: Textual amendment: Words in art. 27(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b0ea03775080fb29c65708c04bdf8995]: Textual amendment: Words in art. 27(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^m00010]: Marginal citation: 1997 NI 5.

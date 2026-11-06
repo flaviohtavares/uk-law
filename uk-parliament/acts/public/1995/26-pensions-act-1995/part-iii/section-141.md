@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. State scheme etc. premiums and buyback into State scheme.[^key-0c97fa306462cb53c4e283719bb57b1e][^key-193a7bd02e00f1d1032efa68f3d2f8d1]
+## 141. State scheme etc. premiums and buyback into State scheme.[^c-0c97fa306462cb53c4e283719bb57b1e][^c-193a7bd02e00f1d1032efa68f3d2f8d1]
 
 *Extent: E+W+S*
 
@@ -75,8 +75,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0c97fa306462cb53c4e283719bb57b1e]: Commencement: S. 141 in force at 6.4.1996 for specified purposes by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/1996/778/article/2/5/a), [Sch. Pt. V](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/V)
+[^c-0c97fa306462cb53c4e283719bb57b1e]: Commencement: S. 141 in force at 6.4.1996 for specified purposes by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/1996/778/article/2/5/a), [Sch. Pt. V](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/V)
 
-[^key-193a7bd02e00f1d1032efa68f3d2f8d1]: Commencement: S. 141 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-193a7bd02e00f1d1032efa68f3d2f8d1]: Commencement: S. 141 in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
 [^c2136349]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

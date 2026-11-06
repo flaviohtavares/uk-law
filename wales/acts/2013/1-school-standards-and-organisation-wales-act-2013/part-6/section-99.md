@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Minor and consequential amendments[^c2220666][^key-7bdf08c152fd0b89e0063168b73238da][^key-682d8e30c43be6857aac5e6ba652c1e3]
+## 99. Minor and consequential amendments[^c2220666][^c-7bdf08c152fd0b89e0063168b73238da][^c-682d8e30c43be6857aac5e6ba652c1e3]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ Schedule 5 contains minor and consequential amendments.
 
 [^c2220666]: Commencement: [S. 99](https://www.legislation.gov.uk/anaw/2013/1/section/99) not in force at Royal Assent; [s. 99](https://www.legislation.gov.uk/anaw/2013/1/section/99) in force for specified purposes at 4.5.2013, see [s. 100(3)](https://www.legislation.gov.uk/anaw/2013/1/section/100/3)
 
-[^key-7bdf08c152fd0b89e0063168b73238da]: Commencement: [S. 99](https://www.legislation.gov.uk/anaw/2013/1/section/99) in force at 1.10.2013 for specified purposes by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(i)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/i)
+[^c-7bdf08c152fd0b89e0063168b73238da]: Commencement: [S. 99](https://www.legislation.gov.uk/anaw/2013/1/section/99) in force at 1.10.2013 for specified purposes by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(i)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/i)
 
-[^key-682d8e30c43be6857aac5e6ba652c1e3]: Commencement: [S. 99](https://www.legislation.gov.uk/anaw/2013/1/section/99) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(d)](https://www.legislation.gov.uk/wsi/2014/178/article/2/d) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-682d8e30c43be6857aac5e6ba652c1e3]: Commencement: [S. 99](https://www.legislation.gov.uk/anaw/2013/1/section/99) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(d)](https://www.legislation.gov.uk/wsi/2014/178/article/2/d) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))

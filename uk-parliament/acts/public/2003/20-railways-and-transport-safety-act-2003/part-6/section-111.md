@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Highways: snow and ice[^key-a002da3f9bf49538e431c437bacaff3e]
+## 111. Highways: snow and ice[^c-a002da3f9bf49538e431c437bacaff3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ After section 41(1) of the Highways Act 1980 (c. 66) (duty of highway authority 
 
 ## Annotations
 
-[^key-a002da3f9bf49538e431c437bacaff3e]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2003/20/section/111) in force at 31.10.2003 by [S.I. 2003/2681](https://www.legislation.gov.uk/uksi/2003/2681), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/2681/article/2/a)
+[^c-a002da3f9bf49538e431c437bacaff3e]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2003/20/section/111) in force at 31.10.2003 by [S.I. 2003/2681](https://www.legislation.gov.uk/uksi/2003/2681), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/2681/article/2/a)

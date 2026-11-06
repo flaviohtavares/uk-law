@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.58. Disbursements – Section IV[^key-8ed78e3eff468fc080a342c5659897de]
+## 45.58. Disbursements – Section IV[^c-8ed78e3eff468fc080a342c5659897de]
 
 *Extent: E+W*
 
-In a claim to which Section IV applies, the court may allow a claim for a disbursement of a type mentioned in paragraphs (a) to (f)—[^key-d3b2e7fb053ee34a84d98558aa819a00]
+In a claim to which Section IV applies, the court may allow a claim for a disbursement of a type mentioned in paragraphs (a) to (f)—[^c-d3b2e7fb053ee34a84d98558aa819a00]
 
 - (a) subject to rule 45.62, the cost of obtaining—
   - (i) medical records; and
@@ -35,13 +35,13 @@ In a claim to which Section IV applies, the court may allow a claim for a disbur
   - (i) an engineer’s report; and
   - (ii) a search of the records of—
     - (aa) the Driver Vehicle Licensing Authority; and
-    - (bb) Navigate (Motor Insurance Policy Database)[^key-8a809061a589ebd8d3c185c024d0138c]; and
+    - (bb) Navigate (Motor Insurance Policy Database)[^c-8a809061a589ebd8d3c185c024d0138c]; and
 - (f) any other disbursement reasonably incurred due to a particular feature of the dispute or any requirement of these Rules.
 
 ## Annotations
 
-[^key-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-d3b2e7fb053ee34a84d98558aa819a00]: Textual amendment: Words in rule 45.58 substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [11(8)](https://www.legislation.gov.uk/uksi/2024/839/rule/11/8)
+[^c-d3b2e7fb053ee34a84d98558aa819a00]: Textual amendment: Words in rule 45.58 substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [11(8)](https://www.legislation.gov.uk/uksi/2024/839/rule/11/8)
 
-[^key-8a809061a589ebd8d3c185c024d0138c]: Textual amendment: Words in [rule 45.58(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/1998/3132/rule/45.58/e/ii/bb) substituted (6.4.2026) by [The Civil Procedure (Amendment) Rules 2026 (S.I. 2026/97)](https://www.legislation.gov.uk/uksi/2026/97), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/97/rule/1/2/a), [5(2)](https://www.legislation.gov.uk/uksi/2026/97/rule/5/2)
+[^c-8a809061a589ebd8d3c185c024d0138c]: Textual amendment: Words in [rule 45.58(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/1998/3132/rule/45.58/e/ii/bb) substituted (6.4.2026) by [The Civil Procedure (Amendment) Rules 2026 (S.I. 2026/97)](https://www.legislation.gov.uk/uksi/2026/97), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/97/rule/1/2/a), [5(2)](https://www.legislation.gov.uk/uksi/2026/97/rule/5/2)

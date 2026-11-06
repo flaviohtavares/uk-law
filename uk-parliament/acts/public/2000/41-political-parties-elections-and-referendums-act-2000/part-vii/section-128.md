@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Chief Counting Officers, and counting officers, for referendums.[^c10575031][^key-38da9c1b48b965a3358656510a9a5aa3][^key-c26f30a65c1c59ec2fcbebc1fda695f0][^key-609c8ca3908ed576a885f4d55e19b77a][^key-c56d0836e5e01c011916e18ba265ae14]
+## 128. Chief Counting Officers, and counting officers, for referendums.[^c10575031][^c-38da9c1b48b965a3358656510a9a5aa3][^c-c26f30a65c1c59ec2fcbebc1fda695f0][^c-609c8ca3908ed576a885f4d55e19b77a][^c-c56d0836e5e01c011916e18ba265ae14]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,12 +68,12 @@ in the whole of the referendum area.
 
 [^c10575031]: Commencement: S. 128 wholly in force at 16.2.2001; s. 128 not in force at Royal Assent, see s. 163(2); s. 128 in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-38da9c1b48b965a3358656510a9a5aa3]: Modification: S. 128 applied (with modifications) (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2011/1/schedule/4/paragraph/6)
+[^c-38da9c1b48b965a3358656510a9a5aa3]: Modification: S. 128 applied (with modifications) (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2011/1/schedule/4/paragraph/6)
 
-[^key-c26f30a65c1c59ec2fcbebc1fda695f0]: Modification: S. 128 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/2); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-c26f30a65c1c59ec2fcbebc1fda695f0]: Modification: S. 128 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/2); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-609c8ca3908ed576a885f4d55e19b77a]: Modification: S. 128 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/4); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-609c8ca3908ed576a885f4d55e19b77a]: Modification: S. 128 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/4); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-c56d0836e5e01c011916e18ba265ae14]: Modification: S. 128 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 3 para. 6(4)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/6/4); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-c56d0836e5e01c011916e18ba265ae14]: Modification: S. 128 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 3 para. 6(4)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/3/paragraph/6/4); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
 [^c20061471]: Modification: S. 128(5) restricted (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [art. 9(2)](https://www.legislation.gov.uk/uksi/2004/1962/article/9/2)

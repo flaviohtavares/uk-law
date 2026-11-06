@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Return of contributions paid in error[^key-eb145fb2591ccc98bfad047f0c3e1772]
+## 52. Return of contributions paid in error[^c-eb145fb2591ccc98bfad047f0c3e1772]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ If the application is made after the end of that period, an officer of the Board
 
 ## Annotations
 
-[^key-eb145fb2591ccc98bfad047f0c3e1772]: Textual amendment: Regs. 52 52A substituted for reg. 52 (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2004/770/regulation/12)
+[^c-eb145fb2591ccc98bfad047f0c3e1772]: Textual amendment: Regs. 52 52A substituted for reg. 52 (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2004/770/regulation/12)

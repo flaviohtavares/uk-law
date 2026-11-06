@@ -35,50 +35,50 @@ supplementing Regulation (EU) No 909/2014 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-61266e81e56fc5a2fee47cb8c872dd98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61266e81e56fc5a2fee47cb8c872dd98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Definitions[^key-61266e81e56fc5a2fee47cb8c872dd98]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Calculation of cash penalties[^key-61266e81e56fc5a2fee47cb8c872dd98]
+## Article 1. Definitions[^c-61266e81e56fc5a2fee47cb8c872dd98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Reference price of the transaction[^key-61266e81e56fc5a2fee47cb8c872dd98]
+## Article 2. Calculation of cash penalties[^c-61266e81e56fc5a2fee47cb8c872dd98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Criteria for establishing the substantial importance of a CSD[^key-61266e81e56fc5a2fee47cb8c872dd98]
+## Article 3. Reference price of the transaction[^c-61266e81e56fc5a2fee47cb8c872dd98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Criteria for establishing the substantial importance of notary and central maintenance services[^key-61266e81e56fc5a2fee47cb8c872dd98]
+## Article 4. Criteria for establishing the substantial importance of a CSD[^c-61266e81e56fc5a2fee47cb8c872dd98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Criteria for establishing the substantial importance of settlement services[^key-61266e81e56fc5a2fee47cb8c872dd98]
+## Article 5. Criteria for establishing the substantial importance of notary and central maintenance services[^c-61266e81e56fc5a2fee47cb8c872dd98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Determination of market values[^key-61266e81e56fc5a2fee47cb8c872dd98]
+## Article 6. Criteria for establishing the substantial importance of settlement services[^c-61266e81e56fc5a2fee47cb8c872dd98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Transitional provisions[^key-61266e81e56fc5a2fee47cb8c872dd98]
+## Article 7. Determination of market values[^c-61266e81e56fc5a2fee47cb8c872dd98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force and application[^key-61266e81e56fc5a2fee47cb8c872dd98]
+## Article 8. Transitional provisions[^c-61266e81e56fc5a2fee47cb8c872dd98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61266e81e56fc5a2fee47cb8c872dd98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 9. Entry into force and application[^c-61266e81e56fc5a2fee47cb8c872dd98]
 
-## ANNEX — Penalty rates applicable to settlement fails[^key-61266e81e56fc5a2fee47cb8c872dd98]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-61266e81e56fc5a2fee47cb8c872dd98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX — Penalty rates applicable to settlement fails[^c-61266e81e56fc5a2fee47cb8c872dd98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61266e81e56fc5a2fee47cb8c872dd98]: Textual amendment: Regulation revoked (31.12.2020) by [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [24](https://www.legislation.gov.uk/uksi/2018/1320/regulation/24) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-61266e81e56fc5a2fee47cb8c872dd98]: Textual amendment: Regulation revoked (31.12.2020) by [The Central Securities Depositories (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1320)](https://www.legislation.gov.uk/uksi/2018/1320), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1320/regulation/1/3), [24](https://www.legislation.gov.uk/uksi/2018/1320/regulation/24) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

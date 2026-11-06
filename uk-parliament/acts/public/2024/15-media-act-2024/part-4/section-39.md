@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. S4C: on-demand programme services[^key-572c13a4ec2c4319fee1565dc81c33d1][^key-7ce38850d8b136bc76b0885569430324]
+## 39. S4C: on-demand programme services[^c-572c13a4ec2c4319fee1565dc81c33d1][^c-7ce38850d8b136bc76b0885569430324]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-572c13a4ec2c4319fee1565dc81c33d1]: Commencement: S. 39 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-572c13a4ec2c4319fee1565dc81c33d1]: Commencement: S. 39 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-7ce38850d8b136bc76b0885569430324]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2024/15/section/39) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(q)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/q)
+[^c-7ce38850d8b136bc76b0885569430324]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2024/15/section/39) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(q)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/q)

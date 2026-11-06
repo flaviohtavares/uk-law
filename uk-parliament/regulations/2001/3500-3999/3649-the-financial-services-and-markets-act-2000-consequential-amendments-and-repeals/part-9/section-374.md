@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 374. Requirements with respect to policies of insurance[^key-1821702d058e076fa2b091c3bffa5685]
+## 374. Requirements with respect to policies of insurance[^c-1821702d058e076fa2b091c3bffa5685]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1821702d058e076fa2b091c3bffa5685]: Commencement: Art. 374 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1821702d058e076fa2b091c3bffa5685]: Commencement: Art. 374 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

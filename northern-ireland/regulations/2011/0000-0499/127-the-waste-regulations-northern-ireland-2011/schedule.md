@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE — WASTE PREVENTION MEASURES[^key-9843592063fe258729115390cb795623]
+## SCHEDULE — WASTE PREVENTION MEASURES[^c-9843592063fe258729115390cb795623]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ Regulation 10(1)(a)
 
 ## Annotations
 
-[^key-9843592063fe258729115390cb795623]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2011/127/schedule) added (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [10(8)](https://www.legislation.gov.uk/nisr/2020/285/regulation/10/8)
+[^c-9843592063fe258729115390cb795623]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2011/127/schedule) added (18.12.2020) by [The Waste (Circular Economy) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/285)](https://www.legislation.gov.uk/nisr/2020/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/285/regulation/1/1), [10(8)](https://www.legislation.gov.uk/nisr/2020/285/regulation/10/8)

@@ -35,7 +35,7 @@ Animals must be cared for by a sufficient number of staff who possess the approp
 (3) In the following cases it is sufficient for the purposes of this paragraph to comply with the following provisions—
 
 - (a) in the case of laying hens, paragraph 1 of Schedule 5;
-- (aa) in the case of conventionally reared meat chickens, paragraph 11(1) and (2) of Schedule 5A;[^key-e3bbdca3d2c4216681c80cebebc259e0]
+- (aa) in the case of conventionally reared meat chickens, paragraph 11(1) and (2) of Schedule 5A;[^c-e3bbdca3d2c4216681c80cebebc259e0]
 - (b) in the case of calves, paragraph 2 or 3 of Schedule 6; and
 - (c) in the case of pigs, paragraph 2 of Schedule 8.
 
@@ -54,9 +54,9 @@ A record must be maintained of—
 - (a) any medicinal treatment given to animals; and
 - (b) the number of mortalities found on each inspection of animals carried out in accordance with any of the following provisions—
   - (i) in the case of laying hens, paragraph 1 of Schedule 5;
-  - (ii) in the case of calves, paragraph 2 or 3 of Schedule 6; [^key-5ae7de1fce76deac22438ea375f7b19f]...
-  - (iii) in the case of pigs, paragraph 2 of Schedule 8; [^key-eec31282e2c46782b07dda78f9e2482f]...
-  - (iiia)[^key-a7028a650c9e70899db7ffa8db579e81] in the case of conventionally reared meat chickens, paragraph 11(1) and (2) of Schedule 5A; or
+  - (ii) in the case of calves, paragraph 2 or 3 of Schedule 6; [^c-5ae7de1fce76deac22438ea375f7b19f]...
+  - (iii) in the case of pigs, paragraph 2 of Schedule 8; [^c-eec31282e2c46782b07dda78f9e2482f]...
+  - (iiia)[^c-a7028a650c9e70899db7ffa8db579e81] in the case of conventionally reared meat chickens, paragraph 11(1) and (2) of Schedule 5A; or
   - (iv) in any other case, paragraph 2(1) or (2) of this Schedule.
 
 **8.** The record referred to in paragraph 7 must be retained for a period of at least three years from the date on which the medicinal treatment was given, or the date of the inspection, and must be made available to an inspector on request.
@@ -128,15 +128,15 @@ An electrical current must not be applied to an animal for the purpose of immobi
 
 ## Annotations
 
-[^key-e3bbdca3d2c4216681c80cebebc259e0]: Textual amendment: Sch. 1 para. 2(3)(aa) inserted (23.12.2010) by [The Welfare of Farmed Animals (England) (Amendment) Regulations 2010 (S.I. 2010/3033)](https://www.legislation.gov.uk/uksi/2010/3033), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3033/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2010/3033/regulation/7/a)
+[^c-e3bbdca3d2c4216681c80cebebc259e0]: Textual amendment: Sch. 1 para. 2(3)(aa) inserted (23.12.2010) by [The Welfare of Farmed Animals (England) (Amendment) Regulations 2010 (S.I. 2010/3033)](https://www.legislation.gov.uk/uksi/2010/3033), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3033/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2010/3033/regulation/7/a)
 
 [^M_F_5a1b9499-4548-4a0a-b68d-59e0d00ae820]: Textual amendment: Words in Sch. 1 para. 5 inserted (23.12.2010) by [The Welfare of Farmed Animals (England) (Amendment) Regulations 2010 (S.I. 2010/3033)](https://www.legislation.gov.uk/uksi/2010/3033), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3033/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2010/3033/regulation/7/b)
 
-[^key-5ae7de1fce76deac22438ea375f7b19f]: Textual amendment: Word in [Sch. 1 para. 7(b)(ii)](https://www.legislation.gov.uk/uksi/2007/2078/schedule/1/paragraph/7/b/ii) omitted (23.12.2010) by virtue of [The Welfare of Farmed Animals (England) (Amendment) Regulations 2010 (S.I. 2010/3033)](https://www.legislation.gov.uk/uksi/2010/3033), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3033/regulation/1), [7(c)(i)](https://www.legislation.gov.uk/uksi/2010/3033/regulation/7/c/i)
+[^c-5ae7de1fce76deac22438ea375f7b19f]: Textual amendment: Word in [Sch. 1 para. 7(b)(ii)](https://www.legislation.gov.uk/uksi/2007/2078/schedule/1/paragraph/7/b/ii) omitted (23.12.2010) by virtue of [The Welfare of Farmed Animals (England) (Amendment) Regulations 2010 (S.I. 2010/3033)](https://www.legislation.gov.uk/uksi/2010/3033), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3033/regulation/1), [7(c)(i)](https://www.legislation.gov.uk/uksi/2010/3033/regulation/7/c/i)
 
-[^key-eec31282e2c46782b07dda78f9e2482f]: Textual amendment: Word in [Sch. 1 para. 7(b)(iii)](https://www.legislation.gov.uk/uksi/2007/2078/schedule/1/paragraph/7/b/iii) omitted (23.12.2010) by virtue of [The Welfare of Farmed Animals (England) (Amendment) Regulations 2010 (S.I. 2010/3033)](https://www.legislation.gov.uk/uksi/2010/3033), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3033/regulation/1), [7(c)(ii)](https://www.legislation.gov.uk/uksi/2010/3033/regulation/7/c/ii)
+[^c-eec31282e2c46782b07dda78f9e2482f]: Textual amendment: Word in [Sch. 1 para. 7(b)(iii)](https://www.legislation.gov.uk/uksi/2007/2078/schedule/1/paragraph/7/b/iii) omitted (23.12.2010) by virtue of [The Welfare of Farmed Animals (England) (Amendment) Regulations 2010 (S.I. 2010/3033)](https://www.legislation.gov.uk/uksi/2010/3033), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3033/regulation/1), [7(c)(ii)](https://www.legislation.gov.uk/uksi/2010/3033/regulation/7/c/ii)
 
-[^key-a7028a650c9e70899db7ffa8db579e81]: Textual amendment: [Sch. 1 para. 7(b)(iiia)](https://www.legislation.gov.uk/uksi/2007/2078/schedule/1/paragraph/7/b/iiia) inserted (23.12.2010) by [The Welfare of Farmed Animals (England) (Amendment) Regulations 2010 (S.I. 2010/3033)](https://www.legislation.gov.uk/uksi/2010/3033), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3033/regulation/1), [7(c)(iii)](https://www.legislation.gov.uk/uksi/2010/3033/regulation/7/c/iii)
+[^c-a7028a650c9e70899db7ffa8db579e81]: Textual amendment: [Sch. 1 para. 7(b)(iiia)](https://www.legislation.gov.uk/uksi/2007/2078/schedule/1/paragraph/7/b/iiia) inserted (23.12.2010) by [The Welfare of Farmed Animals (England) (Amendment) Regulations 2010 (S.I. 2010/3033)](https://www.legislation.gov.uk/uksi/2010/3033), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3033/regulation/1), [7(c)(iii)](https://www.legislation.gov.uk/uksi/2010/3033/regulation/7/c/iii)
 
 [^f00012]: Footnote: OJ No L125, 23.5.96, p 3
 

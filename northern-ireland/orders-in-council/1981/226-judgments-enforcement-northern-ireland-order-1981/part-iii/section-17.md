@@ -37,7 +37,7 @@ summary: ''
 
 (5) A judgment against a person in a name or style other than his own shall not be enforced without leave of the court, and, upon such leave being granted, may be enforced against the person named in the grant of leave as if the judgment had been given against him personally.
 
-(6) In paragraphs (4) and (5) “the court” means— .[^key-27f21278f8b34bb627138266b9596063]
+(6) In paragraphs (4) and (5) “the court” means— .[^c-27f21278f8b34bb627138266b9596063]
 
 - (a) where the judgment was given by a county court, any county court,
 - (b) where the judgment was given by a court of summary jurisdiction, any court of summary jurisdiction,
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27f21278f8b34bb627138266b9596063]: Textual amendment: Words in [art. 17(6)](https://www.legislation.gov.uk/nisi/1981/226/article/17/6) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 84(3)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/84/3) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-27f21278f8b34bb627138266b9596063]: Textual amendment: Words in [art. 17(6)](https://www.legislation.gov.uk/nisi/1981/226/article/17/6) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 84(3)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/84/3) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

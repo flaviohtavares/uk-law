@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Consequential and minor provision[^key-5a3d363c5edc2b09eb738c3fb22a1cd9]
+## 64. Consequential and minor provision[^c-5a3d363c5edc2b09eb738c3fb22a1cd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a3d363c5edc2b09eb738c3fb22a1cd9]: Commencement: S. 64 in force at Royal Assent, see [s. 68(3)(c)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/c)
+[^c-5a3d363c5edc2b09eb738c3fb22a1cd9]: Commencement: S. 64 in force at Royal Assent, see [s. 68(3)(c)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/c)

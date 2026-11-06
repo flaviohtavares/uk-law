@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Offence: false information[^key-079ea0e4ac37f836d5ed765288c085c8]
+## 12. Offence: false information[^c-079ea0e4ac37f836d5ed765288c085c8]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ or both.
 
 ## Annotations
 
-[^key-079ea0e4ac37f836d5ed765288c085c8]: Commencement: Art. 12 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-079ea0e4ac37f836d5ed765288c085c8]: Commencement: Art. 12 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00035]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44). Section 281 is yet to be commenced.

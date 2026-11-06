@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Order for detention in hospital[^key-40a225dfbfdf1e64b1be4cecd02ac2d4]
+## 43. Order for detention in hospital[^c-40a225dfbfdf1e64b1be4cecd02ac2d4]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40a225dfbfdf1e64b1be4cecd02ac2d4]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2008/5/section/43) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-40a225dfbfdf1e64b1be4cecd02ac2d4]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2008/5/section/43) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

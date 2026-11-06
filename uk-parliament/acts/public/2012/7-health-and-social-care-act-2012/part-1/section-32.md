@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Complaints about exercise of public health functions by local authorities[^key-587a08631c7fea43e1bc0ebaf2581fd0][^c2191285]
+## 32. Complaints about exercise of public health functions by local authorities[^c-587a08631c7fea43e1bc0ebaf2581fd0][^c2191285]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ In Part 3 of the National Health Service Act 2006 (local authorities and the NHS
 
 ## Annotations
 
-[^key-587a08631c7fea43e1bc0ebaf2581fd0]: Commencement: S. 32 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-587a08631c7fea43e1bc0ebaf2581fd0]: Commencement: S. 32 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191285]: Commencement: S. 32 partly in force; s. 32 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

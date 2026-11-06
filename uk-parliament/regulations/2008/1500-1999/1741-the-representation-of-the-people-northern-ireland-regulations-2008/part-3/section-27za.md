@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27ZA. Overseas electors: power to require additional evidence where applicant under 18 when last resident in the United Kingdom[^key-13496d177ea77ed609b4df36a68149d7]
+## 27ZA. Overseas electors: power to require additional evidence where applicant under 18 when last resident in the United Kingdom[^c-13496d177ea77ed609b4df36a68149d7]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13496d177ea77ed609b4df36a68149d7]: Textual amendment: [Regs. 27ZA-27ZI](https://www.legislation.gov.uk/uksi/2008/1741/regulation/27ZA) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2024/43/regulation/14) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/1))
+[^c-13496d177ea77ed609b4df36a68149d7]: Textual amendment: [Regs. 27ZA-27ZI](https://www.legislation.gov.uk/uksi/2008/1741/regulation/27ZA) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2024/43/regulation/14) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/1))

@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 19) Regulations 2020 (revoked)[^key-3a82aecd8d5611362bc84160846deafb]
+The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 19) Regulations 2020 (revoked)[^c-3a82aecd8d5611362bc84160846deafb]
 
 Made
 
@@ -45,37 +45,37 @@ Coming into force
 
 at 4.00 a.m. on 7 November 2020
 
-[^key-3a82aecd8d5611362bc84160846deafb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a82aecd8d5611362bc84160846deafb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-3a82aecd8d5611362bc84160846deafb]
+## PART 1 — General[^c-3a82aecd8d5611362bc84160846deafb]
 
-### 1. Title, coming into force and interpretation[^key-3a82aecd8d5611362bc84160846deafb]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Removal of countries from the list of exempt countries and territories in Schedule 3 to the International Travel Regulations[^key-3a82aecd8d5611362bc84160846deafb]
-
-### 2. Removal of countries from the list of exempt countries and territories[^key-3a82aecd8d5611362bc84160846deafb]
+### 1. Title, coming into force and interpretation[^c-3a82aecd8d5611362bc84160846deafb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Transitional provision in connection with regulation 2[^key-3a82aecd8d5611362bc84160846deafb]
+## PART 2 — Removal of countries from the list of exempt countries and territories in Schedule 3 to the International Travel Regulations[^c-3a82aecd8d5611362bc84160846deafb]
+
+### 2. Removal of countries from the list of exempt countries and territories[^c-3a82aecd8d5611362bc84160846deafb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Amendments to the Welsh language text of Part 1 of Schedule 2 to the International Travel Regulations[^key-3a82aecd8d5611362bc84160846deafb]
-
-### 4. Amendments to Part 1 of Schedule 2 (persons not required to comply with regulations 4, 5, 7 or 8)[^key-3a82aecd8d5611362bc84160846deafb]
+### 3. Transitional provision in connection with regulation 2[^c-3a82aecd8d5611362bc84160846deafb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a82aecd8d5611362bc84160846deafb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 3 — Amendments to the Welsh language text of Part 1 of Schedule 2 to the International Travel Regulations[^c-3a82aecd8d5611362bc84160846deafb]
+
+### 4. Amendments to Part 1 of Schedule 2 (persons not required to comply with regulations 4, 5, 7 or 8)[^c-3a82aecd8d5611362bc84160846deafb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3a82aecd8d5611362bc84160846deafb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-3a82aecd8d5611362bc84160846deafb]EXPLANATORY NOTE
+[^c-3a82aecd8d5611362bc84160846deafb]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -117,4 +117,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-3a82aecd8d5611362bc84160846deafb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/1232) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 21](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/21)
+[^c-3a82aecd8d5611362bc84160846deafb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/1232) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 21](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/21)

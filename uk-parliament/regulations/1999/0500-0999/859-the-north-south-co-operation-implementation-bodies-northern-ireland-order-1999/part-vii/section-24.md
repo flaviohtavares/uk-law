@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Consequential amendments and repeals[^key-5894a714a9b2cc5608416996b3c29fbf]
+## 24. Consequential amendments and repeals[^c-5894a714a9b2cc5608416996b3c29fbf]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5894a714a9b2cc5608416996b3c29fbf]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/1999/859/article/24) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-5894a714a9b2cc5608416996b3c29fbf]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/1999/859/article/24) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

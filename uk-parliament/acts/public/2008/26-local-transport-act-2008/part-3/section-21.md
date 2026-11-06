@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Approval of proposed schemes: required for areas in Wales only[^key-cefb03cc895db9ab26df76f8d6eaea14]
+## 21. Approval of proposed schemes: required for areas in Wales only[^c-cefb03cc895db9ab26df76f8d6eaea14]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cefb03cc895db9ab26df76f8d6eaea14]: Commencement: S. 21 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-cefb03cc895db9ab26df76f8d6eaea14]: Commencement: S. 21 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

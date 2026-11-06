@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 312. Notification of refusal of insurance on health grounds[^key-adc34c5ec3325fffd87417f23c3c4e82]
+## 312. Notification of refusal of insurance on health grounds[^c-adc34c5ec3325fffd87417f23c3c4e82]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ For subsection (2) of section 95 of the Road Traffic Act 1988 (notification of r
 
 ## Annotations
 
-[^key-adc34c5ec3325fffd87417f23c3c4e82]: Commencement: Art. 312 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-adc34c5ec3325fffd87417f23c3c4e82]: Commencement: Art. 312 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Securitisation Regulations 2018 (revoked)[^key-6bafafdb62a38410053dbd0410fefdc0]
+The Securitisation Regulations 2018 (revoked)[^c-6bafafdb62a38410053dbd0410fefdc0]
 
 Made
 
@@ -46,7 +46,7 @@ Coming into force
 
 1st January 2019
 
-[^key-6bafafdb62a38410053dbd0410fefdc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6bafafdb62a38410053dbd0410fefdc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -284,4 +284,4 @@ Regulation 28
 
 ## Annotations
 
-[^key-6bafafdb62a38410053dbd0410fefdc0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1288) revoked (14.12.2023 for the revocation of reg. 29 and 1.11.2024 otherwise) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xxii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xxii); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/c/i)
+[^c-6bafafdb62a38410053dbd0410fefdc0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1288) revoked (14.12.2023 for the revocation of reg. 29 and 1.11.2024 otherwise) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xxii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xxii); [S.I. 2024/891](https://www.legislation.gov.uk/uksi/2024/891), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2024/891/regulation/2/c/i)

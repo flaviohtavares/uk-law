@@ -32,7 +32,7 @@ summary: ''
 
 PESTICIDES, ENGLAND AND WALES
 
-The Plant Protection Products (Amendment) Regulations 2006 (revoked)[^key-d753c4a00efdc40743851f60c382047c]
+The Plant Protection Products (Amendment) Regulations 2006 (revoked)[^c-d753c4a00efdc40743851f60c382047c]
 
 Made
 
@@ -44,86 +44,86 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1 (3) to (9)
 
-[^key-d753c4a00efdc40743851f60c382047c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d753c4a00efdc40743851f60c382047c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, interpretation and commencement[^key-d753c4a00efdc40743851f60c382047c]
+## 1. Citation, interpretation and commencement[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Principal Regulations[^key-d753c4a00efdc40743851f60c382047c]
+## 2. Amendment to the Principal Regulations[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment coming into force on 1st June 2006[^key-d753c4a00efdc40743851f60c382047c]
+## 3. Amendment coming into force on 1st June 2006[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment coming into force on 1st September 2006[^key-d753c4a00efdc40743851f60c382047c]
+## 4. Amendment coming into force on 1st September 2006[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment coming into force on 1st October 2006[^key-d753c4a00efdc40743851f60c382047c]
+## 5. Amendment coming into force on 1st October 2006[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment coming into force on 1st November 2006[^key-d753c4a00efdc40743851f60c382047c]
+## 6. Amendment coming into force on 1st November 2006[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment coming into force on 1st January 2007[^key-d753c4a00efdc40743851f60c382047c]
+## 7. Amendment coming into force on 1st January 2007[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment coming into force on 1st February 2007[^key-d753c4a00efdc40743851f60c382047c]
+## 8. Amendment coming into force on 1st February 2007[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment coming into force on 1st April 2007[^key-d753c4a00efdc40743851f60c382047c]
+## 9. Amendment coming into force on 1st April 2007[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d753c4a00efdc40743851f60c382047c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d753c4a00efdc40743851f60c382047c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — AMENDMENTS TO THE PRINCIPAL REGULATIONS[^key-d753c4a00efdc40743851f60c382047c]
+## SCHEDULE — AMENDMENTS TO THE PRINCIPAL REGULATIONS[^c-d753c4a00efdc40743851f60c382047c]
 
 Regulations 3 to 9
 
-### PART 1 — ENTRY INSERTED INTO SCHEDULE 1 ON 1st JUNE 2006[^key-d753c4a00efdc40743851f60c382047c]
+### PART 1 — ENTRY INSERTED INTO SCHEDULE 1 ON 1st JUNE 2006[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — ENTRIES INSERTED INTO SCHEDULE 1 ON 1st SEPTEMBER 2006[^key-d753c4a00efdc40743851f60c382047c]
+### PART 2 — ENTRIES INSERTED INTO SCHEDULE 1 ON 1st SEPTEMBER 2006[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — ENTRIES INSERTED INTO SCHEDULE 1 ON 1st OCTOBER 2006[^key-d753c4a00efdc40743851f60c382047c]
+### PART 3 — ENTRIES INSERTED INTO SCHEDULE 1 ON 1st OCTOBER 2006[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — ENTRY INSERTED INTO SCHEDULE 1 ON 1st NOVEMBER 2006[^key-d753c4a00efdc40743851f60c382047c]
+### PART 4 — ENTRY INSERTED INTO SCHEDULE 1 ON 1st NOVEMBER 2006[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 5 — ENTRY INSERTED INTO SCHEDULE 1 ON 1st JANUARY 2007[^key-d753c4a00efdc40743851f60c382047c]
+### PART 5 — ENTRY INSERTED INTO SCHEDULE 1 ON 1st JANUARY 2007[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 6 — ENTRY INSERTED INTO SCHEDULE 1 ON 1st FEBRUARY 2007[^key-d753c4a00efdc40743851f60c382047c]
+### PART 6 — ENTRY INSERTED INTO SCHEDULE 1 ON 1st FEBRUARY 2007[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 7 — ENTRIES INSERTED INTO SCHEDULE 1 ON 1st APRIL 2007[^key-d753c4a00efdc40743851f60c382047c]
+### PART 7 — ENTRIES INSERTED INTO SCHEDULE 1 ON 1st APRIL 2007[^c-d753c4a00efdc40743851f60c382047c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d753c4a00efdc40743851f60c382047c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d753c4a00efdc40743851f60c382047c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d753c4a00efdc40743851f60c382047c]: Textual amendment: Regulations revoked (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/2131/schedule/5)
+[^c-d753c4a00efdc40743851f60c382047c]: Textual amendment: Regulations revoked (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/2131/schedule/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Determination of applications for producer registration[^key-647a66fbf1b42cf75bad094cf2e209d0]
+## 30. Determination of applications for producer registration[^c-647a66fbf1b42cf75bad094cf2e209d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ and must otherwise be refused.
 
 ## Annotations
 
-[^key-647a66fbf1b42cf75bad094cf2e209d0]: Commencement: Reg. 30 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-647a66fbf1b42cf75bad094cf2e209d0]: Commencement: Reg. 30 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

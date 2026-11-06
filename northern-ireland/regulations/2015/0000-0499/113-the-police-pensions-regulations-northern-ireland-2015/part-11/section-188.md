@@ -28,7 +28,7 @@ summary: ''
   - (i) the pension scheme from which the transfer payment is to be made; and
   - (ii) the anticipated amount of the transfer payment;
 - (b) must meet any other conditions the scheme manager requires; and
-- (c)[^key-eb17c8124e7bf522c3c47602fd5b4346] subject to paragraph (3), must be made during the period of 12 months beginning with P's first day of eligible service.
+- (c)[^c-eb17c8124e7bf522c3c47602fd5b4346] subject to paragraph (3), must be made during the period of 12 months beginning with P's first day of eligible service.
 
 (3) The scheme manager may treat a transfer payment request as having been made earlier than it was if the scheme manager considers it reasonable to do so in the circumstances.
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb17c8124e7bf522c3c47602fd5b4346]: Modification: [Reg. 188(2)(c)](https://www.legislation.gov.uk/nisr/2015/113/regulation/188/2/c) applied (with modifications) (1.10.2023) by [The Police Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/122)](https://www.legislation.gov.uk/nisr/2023/122), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2023/122/regulation/1/b), [43](https://www.legislation.gov.uk/nisr/2023/122/regulation/43)
+[^c-eb17c8124e7bf522c3c47602fd5b4346]: Modification: [Reg. 188(2)(c)](https://www.legislation.gov.uk/nisr/2015/113/regulation/188/2/c) applied (with modifications) (1.10.2023) by [The Police Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/122)](https://www.legislation.gov.uk/nisr/2023/122), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2023/122/regulation/1/b), [43](https://www.legislation.gov.uk/nisr/2023/122/regulation/43)

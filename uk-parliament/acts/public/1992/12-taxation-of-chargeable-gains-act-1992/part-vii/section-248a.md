@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248A. Roll-over relief on disposal of joint interests in land: conditions[^key-486b2ef49ea7f18e34cbfef66ee55b81]
+## 248A. Roll-over relief on disposal of joint interests in land: conditions[^c-486b2ef49ea7f18e34cbfef66ee55b81]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ to the co-owner or to one or more of the co-owners.
 
 ## Annotations
 
-[^key-486b2ef49ea7f18e34cbfef66ee55b81]: Textual amendment: Ss. 248A-248E and cross-heading inserted (with effect in accordance with art. 8(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [8(1)](https://www.legislation.gov.uk/uksi/2010/157/article/8/1)
+[^c-486b2ef49ea7f18e34cbfef66ee55b81]: Textual amendment: Ss. 248A-248E and cross-heading inserted (with effect in accordance with art. 8(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [8(1)](https://www.legislation.gov.uk/uksi/2010/157/article/8/1)
 
 [^M_F_1c1aa06c-d6e7-4750-dc29-582c6dd6cd82]: Textual amendment: S. 248A(8) inserted (6.4.2023 in relation to disposals made on or after that date) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 43(1)(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/43/1)

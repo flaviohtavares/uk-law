@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Expenditure on provision or replacement of integral features[^key-b586b148267f107b6ecea18649bffa71]
+## 33A. Expenditure on provision or replacement of integral features[^c-b586b148267f107b6ecea18649bffa71]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) the expenditure were capital expenditure on the provision of plant or machinery for the purposes of the qualifying activity, and
 - (b) the person who incurred the expenditure owned plant or machinery as a result of incurring it.
 
-(3)[^key-29d7559920dc44bcc3d7cccdfb753a85] If the expenditure is qualifying expenditure, it may not be deducted in calculating the income from the qualifying activity.
+(3)[^c-29d7559920dc44bcc3d7cccdfb753a85] If the expenditure is qualifying expenditure, it may not be deducted in calculating the income from the qualifying activity.
 
 (4) If the expenditure is not qualifying expenditure, whether it may be so deducted is to be determined without regard to this section.
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b586b148267f107b6ecea18649bffa71]: Textual amendment: Ss. 33A, 33B and cross-heading inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/2)
+[^c-b586b148267f107b6ecea18649bffa71]: Textual amendment: Ss. 33A, 33B and cross-heading inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/2)
 
-[^key-29d7559920dc44bcc3d7cccdfb753a85]: Modification: S. 33A(3) excluded by 2005 c. 5, s. 55A(2) (as inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 11(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/11/3)
+[^c-29d7559920dc44bcc3d7cccdfb753a85]: Modification: S. 33A(3) excluded by 2005 c. 5, s. 55A(2) (as inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 11(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/11/3)

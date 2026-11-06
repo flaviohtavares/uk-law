@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Additional reporting obligations arising from relevant international agreements and from obligations resulting from international trade[^key-c042db3df77f020ec54e1ec95b25d824]
+## 19. Additional reporting obligations arising from relevant international agreements and from obligations resulting from international trade[^c-c042db3df77f020ec54e1ec95b25d824]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The following information is listed in this paragraph—
 
-- (a)[^key-c0910f409a9ccfe69f05ef2ab802a78b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c0910f409a9ccfe69f05ef2ab802a78b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) an inventory change report, including an ending book inventory, provided for in regulation 14;
 - (c) a material balance report and a physical inventory listing provided for in regulation 15;
 - (d) advance notification of intended imports and exports provided for in regulations 21 and 22.
@@ -55,9 +55,9 @@ the operator must identify, separately for each obligation and requirement conce
 
 ## Annotations
 
-[^key-c042db3df77f020ec54e1ec95b25d824]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-c042db3df77f020ec54e1ec95b25d824]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-c0910f409a9ccfe69f05ef2ab802a78b]: Textual amendment: [Reg. 19(2)(a)](https://www.legislation.gov.uk/uksi/2019/196/regulation/19/2/a) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2026/835/regulation/14)
+[^c-c0910f409a9ccfe69f05ef2ab802a78b]: Textual amendment: [Reg. 19(2)(a)](https://www.legislation.gov.uk/uksi/2019/196/regulation/19/2/a) omitted (10.7.2026) by virtue of [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2026/835/regulation/14)
 
 [^c23563241]: Marginal citation: [S.I. 1954/23](https://www.legislation.gov.uk/uksi/1954/23) as amended by S.I 2014/251.
 

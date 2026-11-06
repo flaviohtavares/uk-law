@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**162.**[^key-a54f36a8f60d9056c7ae380ddeaf20a1] In Schedule 8 omit paragraph 69.
+**162.**[^c-a54f36a8f60d9056c7ae380ddeaf20a1] In Schedule 8 omit paragraph 69.
 
 ## Annotations
 
-[^key-a54f36a8f60d9056c7ae380ddeaf20a1]: Commencement: Reg. 162 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-a54f36a8f60d9056c7ae380ddeaf20a1]: Commencement: Reg. 162 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

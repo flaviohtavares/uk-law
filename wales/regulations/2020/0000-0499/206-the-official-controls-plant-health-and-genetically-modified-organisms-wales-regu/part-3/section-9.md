@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Consignments not correctly presented for official controls[^key-b6abd40d32c1daaba5a6f3db06e2db26]
+## 9. Consignments not correctly presented for official controls[^c-b6abd40d32c1daaba5a6f3db06e2db26]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a plant health inspector suspects or is aware that a controlled consignmen
 
 ## Annotations
 
-[^key-b6abd40d32c1daaba5a6f3db06e2db26]: Commencement: Reg. 9 in force at 27.3.2020, see reg. 1
+[^c-b6abd40d32c1daaba5a6f3db06e2db26]: Commencement: Reg. 9 in force at 27.3.2020, see reg. 1

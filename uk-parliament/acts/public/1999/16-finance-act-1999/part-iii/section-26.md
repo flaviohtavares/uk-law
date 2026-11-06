@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Rates of capital gains tax.[^key-6f41ea14104c49d74a526fb26ae232a3]
+## 26. Rates of capital gains tax.[^c-6f41ea14104c49d74a526fb26ae232a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f41ea14104c49d74a526fb26ae232a3]: Textual amendment: S. 26 omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/d)
+[^c-6f41ea14104c49d74a526fb26ae232a3]: Textual amendment: S. 26 omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/d)

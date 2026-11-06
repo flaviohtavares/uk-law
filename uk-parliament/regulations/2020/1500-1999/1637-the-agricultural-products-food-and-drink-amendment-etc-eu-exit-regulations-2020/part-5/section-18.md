@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Regulation (EU) No 1151/2012 of the European Parliament and of the Council[^key-f1e1cd0adae17443bb5c395cd7b16932]
+## 18. Regulation (EU) No 1151/2012 of the European Parliament and of the Council[^c-f1e1cd0adae17443bb5c395cd7b16932]
 
 *Extent: E+W+S+N.I.*
 
@@ -640,7 +640,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f1e1cd0adae17443bb5c395cd7b16932]: Commencement: Reg. 18 in force at 31.12.2020, see reg. 1(7)
+[^c-f1e1cd0adae17443bb5c395cd7b16932]: Commencement: Reg. 18 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414311]: Marginal citation: OJ No. L 299, 16.11.2007, p. 1, repealed by Regulation (EU) No 1308/2013 of the European Parliament and of the Council (OJ No. L 347, 20.12.2013, p. 671).
 

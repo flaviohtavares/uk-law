@@ -37,24 +37,24 @@ on the harmonisation of the 2 010-2 025 MHz frequency band for portable or mobil
 
 (Text with EEA relevance) (revoked)
 
-[^key-279b9462bfdabf3a6886b24a562c339d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-279b9462bfdabf3a6886b24a562c339d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-279b9462bfdabf3a6886b24a562c339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-279b9462bfdabf3a6886b24a562c339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-279b9462bfdabf3a6886b24a562c339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-279b9462bfdabf3a6886b24a562c339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-279b9462bfdabf3a6886b24a562c339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-279b9462bfdabf3a6886b24a562c339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-279b9462bfdabf3a6886b24a562c339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-279b9462bfdabf3a6886b24a562c339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-279b9462bfdabf3a6886b24a562c339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-279b9462bfdabf3a6886b24a562c339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-279b9462bfdabf3a6886b24a562c339d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-279b9462bfdabf3a6886b24a562c339d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — PARAMETERS REFERRED TO IN ARTICLE 3[^key-279b9462bfdabf3a6886b24a562c339d]
+## ANNEX — PARAMETERS REFERRED TO IN ARTICLE 3[^c-279b9462bfdabf3a6886b24a562c339d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-279b9462bfdabf3a6886b24a562c339d]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-279b9462bfdabf3a6886b24a562c339d]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

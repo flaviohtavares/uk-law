@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Collection of information relating to performance[^key-777e9d0639c4800c0faf1396e60e0519]
+## 90. Collection of information relating to performance[^c-777e9d0639c4800c0faf1396e60e0519]
 
 *Extent: N.I.*
 
 (1) A council must make arrangements for—
 
-- (a)[^key-032d02f68418b3c007671fe30f9be396] the collection of information which will allow it to assess whether it has met during a financial year those improvement objectives set under section 85(1) which are applicable to that year;
+- (a)[^c-032d02f68418b3c007671fe30f9be396] the collection of information which will allow it to assess whether it has met during a financial year those improvement objectives set under section 85(1) which are applicable to that year;
 - (b) the collection of information which will allow it to—
   - (i) measure its performance during a financial year by reference to those performance indicators specified under section 89(1)(a) which are applicable to the council for that year;
   - (ii) assess whether it has met during a financial year those performance standards specified under section 89(1)(b) which are applicable to the council for that year;
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-777e9d0639c4800c0faf1396e60e0519]: Commencement: S. 90 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-777e9d0639c4800c0faf1396e60e0519]: Commencement: S. 90 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-032d02f68418b3c007671fe30f9be396]: Modification: S. 90(1)(a) excluded (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 3(1)](https://www.legislation.gov.uk/nia/2021/8/section/3/1)[(2)(a)](https://www.legislation.gov.uk/nia/2021/8/section/3/2/a), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
+[^c-032d02f68418b3c007671fe30f9be396]: Modification: S. 90(1)(a) excluded (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 3(1)](https://www.legislation.gov.uk/nia/2021/8/section/3/1)[(2)(a)](https://www.legislation.gov.uk/nia/2021/8/section/3/2/a), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)

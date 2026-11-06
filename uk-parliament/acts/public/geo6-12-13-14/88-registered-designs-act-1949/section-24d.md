@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24D. Order as to disposal of infringing articles, &c[^key-1100f7756af3f614817029d759c5864c]
+## 24D. Order as to disposal of infringing articles, &c[^c-1100f7756af3f614817029d759c5864c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,18 +36,18 @@ or for a decision that no such order should be made.
 (5) References in this section to a person having an interest in an article or other thing include any person in whose favour an order could be made in respect of it—
 
 - (a) under this section;
-- (b) under section 19 of Trade Marks Act 1994 [^key-f1d20764f1b7ec2786553856f87edf7f]...; or[^key-c13f97859b275a2592bdaf7bc5f10e4f]
-- (c) under section 114, 204 or 231 of the Copyright, Designs and Patents Act 1988; [^key-6f17f1345d96453daae5f409f893e821]...
-- (d)[^key-5f6c413f4449ffc87c51147e6bdd83b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) under section 19 of Trade Marks Act 1994 [^c-f1d20764f1b7ec2786553856f87edf7f]...; or[^c-c13f97859b275a2592bdaf7bc5f10e4f]
+- (c) under section 114, 204 or 231 of the Copyright, Designs and Patents Act 1988; [^c-6f17f1345d96453daae5f409f893e821]...
+- (d)[^c-5f6c413f4449ffc87c51147e6bdd83b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1100f7756af3f614817029d759c5864c]: Textual amendment: Ss. 24A-24G inserted (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2006/1028/schedule/1/paragraph/3)
+[^c-1100f7756af3f614817029d759c5864c]: Textual amendment: Ss. 24A-24G inserted (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2006/1028/schedule/1/paragraph/3)
 
-[^key-f1d20764f1b7ec2786553856f87edf7f]: Textual amendment: Words in s. 24D(5)(b) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1d20764f1b7ec2786553856f87edf7f]: Textual amendment: Words in s. 24D(5)(b) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c13f97859b275a2592bdaf7bc5f10e4f]: Textual amendment: Word in s. 24D(5)(b) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 8 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/8/paragraph/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c13f97859b275a2592bdaf7bc5f10e4f]: Textual amendment: Word in s. 24D(5)(b) inserted (31.12.2020) by [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 8 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/8/paragraph/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6f17f1345d96453daae5f409f893e821]: Textual amendment: Word in s. 24D(5)(c) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 8 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/8/paragraph/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6f17f1345d96453daae5f409f893e821]: Textual amendment: Word in s. 24D(5)(c) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 8 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/8/paragraph/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5f6c413f4449ffc87c51147e6bdd83b8]: Textual amendment: S. 24D(5)(d) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 8 para. 6(c)](https://www.legislation.gov.uk/uksi/2019/638/schedule/8/paragraph/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f6c413f4449ffc87c51147e6bdd83b8]: Textual amendment: S. 24D(5)(d) omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 8 para. 6(c)](https://www.legislation.gov.uk/uksi/2019/638/schedule/8/paragraph/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

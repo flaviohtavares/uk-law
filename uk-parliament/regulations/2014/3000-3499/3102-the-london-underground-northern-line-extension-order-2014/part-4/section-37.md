@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Power to operate and use the authorised works[^key-31f453abcf4c48f361243e0aa909304a]
+## 37. Power to operate and use the authorised works[^c-31f453abcf4c48f361243e0aa909304a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ LUL may operate and use the authorised works as a system, or part of a system, o
 
 ## Annotations
 
-[^key-31f453abcf4c48f361243e0aa909304a]: Commencement: Art. 37 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-31f453abcf4c48f361243e0aa909304a]: Commencement: Art. 37 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

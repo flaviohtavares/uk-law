@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Power to state effect in Sentencing Act 2020 of commencement of amendments made by this Act[^key-f123385213bbaf61b0fb4a638af31194]
+## 47. Power to state effect in Sentencing Act 2020 of commencement of amendments made by this Act[^c-f123385213bbaf61b0fb4a638af31194]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The power in section 419(1) of the Sentencing Act 2020 (power to state effect of
 
 ## Annotations
 
-[^key-f123385213bbaf61b0fb4a638af31194]: Commencement: S. 47 in force at Royal Assent, see [s. 49(3)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/b)
+[^c-f123385213bbaf61b0fb4a638af31194]: Commencement: S. 47 in force at Royal Assent, see [s. 49(3)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/b)

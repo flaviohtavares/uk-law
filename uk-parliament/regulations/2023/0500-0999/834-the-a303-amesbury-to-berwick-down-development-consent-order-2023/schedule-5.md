@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — MODIFICATION OF COMPENSATION AND COMPULSORY PURCHASE ENACTMENTS FOR THE CREATION OF NEW RIGHTS[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+## SCHEDULE 5 — MODIFICATION OF COMPENSATION AND COMPULSORY PURCHASE ENACTMENTS FOR THE CREATION OF NEW RIGHTS[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
 *Extent: E+W+S*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Article 22(6) and (7)
 
-### Compensation enactments[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### Compensation enactments[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
-**1.**[^key-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Application of the 1965 Act[^key-ba60b02d70f93ffc3c65fe727c1611a8]
+### Application of the 1965 Act[^c-ba60b02d70f93ffc3c65fe727c1611a8]
 
-**4.**[^key-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ba60b02d70f93ffc3c65fe727c1611a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ba60b02d70f93ffc3c65fe727c1611a8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/834) revoked (18.3.2026) by [The A303 (Amesbury to Berwick Down) Development Consent (Revocation) Order 2026 (S.I. 2026/309)](https://www.legislation.gov.uk/uksi/2026/309), [arts. 1](https://www.legislation.gov.uk/uksi/2026/309/article/1), [2](https://www.legislation.gov.uk/uksi/2026/309/article/2)
+[^c-ba60b02d70f93ffc3c65fe727c1611a8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/834) revoked (18.3.2026) by [The A303 (Amesbury to Berwick Down) Development Consent (Revocation) Order 2026 (S.I. 2026/309)](https://www.legislation.gov.uk/uksi/2026/309), [arts. 1](https://www.legislation.gov.uk/uksi/2026/309/article/1), [2](https://www.legislation.gov.uk/uksi/2026/309/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94A. Equalisation amounts not treated as distributions[^key-37c516b5ece6e6ff441b781e5cfbc8a3]
+## 94A. Equalisation amounts not treated as distributions[^c-37c516b5ece6e6ff441b781e5cfbc8a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) a participant has acquired by way of initial purchase an interest in a reporting fund, and
 - (b) the reporting fund operates full equalisation arrangements.
 
-(2)[^key-85ce709889bac8a64063f7800f38b2fd] Where this regulation applies, distributions are reduced in accordance with either option 1 or option 2.
+(2)[^c-85ce709889bac8a64063f7800f38b2fd] Where this regulation applies, distributions are reduced in accordance with either option 1 or option 2.
 
 - *Option 1*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37c516b5ece6e6ff441b781e5cfbc8a3]: Textual amendment: Reg. 94A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2011/1211/regulation/12)
+[^c-37c516b5ece6e6ff441b781e5cfbc8a3]: Textual amendment: Reg. 94A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2011/1211/regulation/12)
 
-[^key-85ce709889bac8a64063f7800f38b2fd]: Textual amendment: Reg. 94A(2) substituted (28.6.2013) by [The Offshore Funds (Tax) (Amendment No. 2) Regulations 2013 (S.I. 2013/1411)](https://www.legislation.gov.uk/uksi/2013/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2013/1411/regulation/9) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/4))
+[^c-85ce709889bac8a64063f7800f38b2fd]: Textual amendment: Reg. 94A(2) substituted (28.6.2013) by [The Offshore Funds (Tax) (Amendment No. 2) Regulations 2013 (S.I. 2013/1411)](https://www.legislation.gov.uk/uksi/2013/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2013/1411/regulation/9) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/4))

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**67.**[^key-4508c17d1f693ef6d4b166b2f52bb9f1] In section 8—
+**67.**[^c-4508c17d1f693ef6d4b166b2f52bb9f1] In section 8—
 
 - (a) in subsection (3)—
   - (i) for “a registered order” substitute “an order registered in a court in Northern Ireland”; and
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4508c17d1f693ef6d4b166b2f52bb9f1]: Commencement: Art. 67 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-4508c17d1f693ef6d4b166b2f52bb9f1]: Commencement: Art. 67 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

@@ -118,7 +118,7 @@ and it shall be the duty of the Secretary of State and that Minister to ensure t
 - (b) in relation to Scotland, means agricultural use within the meaning of the [^c1016804]Agriculture (Scotland) Act 1948, other than use for woodlands;
   - “**the appropriate authority**” and “**the appropriate Minister**” have the same meanings as in section 1 above.
 
-(7) Nothing in this section or in any scheme under this section shall prejudice the power of the Forestry Commissioners to pay grants under section 1 of the [^c1016805]Forestry Act 1979 or the power of the Natural Resources Body for Wales to pay grants under article 10B of the Natural Resources Body for Wales (Establishment) Order 2012 ([^key-c700bd81aab914dcc09a41a575868bb5]S.I.[2012/1903](https://www.legislation.gov.uk/uksi/2012/1903)).
+(7) Nothing in this section or in any scheme under this section shall prejudice the power of the Forestry Commissioners to pay grants under section 1 of the [^c1016805]Forestry Act 1979 or the power of the Natural Resources Body for Wales to pay grants under article 10B of the Natural Resources Body for Wales (Establishment) Order 2012 ([^c-c700bd81aab914dcc09a41a575868bb5]S.I.[2012/1903](https://www.legislation.gov.uk/uksi/2012/1903)).
 
 (8)[^c1016806] In the application of subsection (3) to any scheme relating to Scotland, including any scheme which relates also to other parts of Great Britain, any references in that subsection to the Secretary of State and the Minister of Agriculture, Fisheries and Food acting jointly shall in so far as the scheme relates to Scotland be read as a reference to the Scottish Ministers and the appropriate Minister for a part of Great Britain other than Scotland shall have no functions under that subsection in respect of any such scheme in so far as it relates to Scotland.
 
@@ -169,7 +169,7 @@ In paragraph 2(1) of Schedule 1 to the [^c1016807]Miscellaneous Financial Provis
 
 [^c1016805]: Marginal citation: [1979 c. 21](https://www.legislation.gov.uk/ukpga/1979/21).
 
-[^key-c700bd81aab914dcc09a41a575868bb5]: Textual amendment: Words in [s. 2(7)](https://www.legislation.gov.uk/ukpga/1988/16/section/2/7) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 186](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/186) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c700bd81aab914dcc09a41a575868bb5]: Textual amendment: Words in [s. 2(7)](https://www.legislation.gov.uk/ukpga/1988/16/section/2/7) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 186](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/186) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c1016806]: Textual amendment: S. 2(8) inserted (1.7.1999) by 1999/1820, arts. 1(2), 4, Sch. 2 Pt. 1 para. 88
 

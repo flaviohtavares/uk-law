@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Alternative verdict on unsuccessful manslaughter prosecution[^key-bd07f5ecf5612363beba66dcefe36911]
+## 33. Alternative verdict on unsuccessful manslaughter prosecution[^c-bd07f5ecf5612363beba66dcefe36911]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ In section 24 of the Road Traffic Offenders Act 1988 (alternative verdicts), bef
 
 ## Annotations
 
-[^key-bd07f5ecf5612363beba66dcefe36911]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/49/section/33) in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/k)
+[^c-bd07f5ecf5612363beba66dcefe36911]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/49/section/33) in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/k)

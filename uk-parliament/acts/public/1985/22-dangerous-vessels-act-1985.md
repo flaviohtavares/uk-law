@@ -83,7 +83,7 @@ and the directions under section 1 shall thereupon cease to have effect.
 
 ## 5. Offences.
 
-(1) A person who without reasonable excuse contravenes or fails to comply with any directions given under section 1 above shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £25,000 and on conviction on indictment to a fine *(Extent: E+W)* *(affected by repeal, see note)*[^key-595cd4433cc23247394e56cf7d0df9e4]on summary conviction, or on conviction on indictment, to a fine *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-595cd4433cc23247394e56cf7d0df9e4].
+(1) A person who without reasonable excuse contravenes or fails to comply with any directions given under section 1 above shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding £25,000 and on conviction on indictment to a fine *(Extent: E+W)* *(affected by repeal, see note)*[^c-595cd4433cc23247394e56cf7d0df9e4]on summary conviction, or on conviction on indictment, to a fine *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-595cd4433cc23247394e56cf7d0df9e4].
 
 (2) It shall be a defence for a person charged under this section to show that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
@@ -94,7 +94,7 @@ No directions under section 1 of this Act shall apply in relation to—
 - (a) any vessel belonging to Her Majesty, or employed in the service of the Crown for any purpose, including any such vessel in the possession of a salvor; or
 - (b) any vessel which is a pleasure boat of 24 metres or less in length.
 
-## 6A. Saving for safety directions[^key-25debc82211648463d120c55f58dc53c]
+## 6A. Saving for safety directions[^c-25debc82211648463d120c55f58dc53c]
 
 Directions under section 1 of this Act shall have no effect in so far as they—
 
@@ -129,9 +129,9 @@ In this Act—
 
 [^c1002112]: Textual amendment: S.4 repealed (1.1.1996) by [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21), [ss.314(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/1), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch.12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/12) (with [ss.312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1), [314(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/1), [Sch.14 para. 1](https://www.legislation.gov.uk/ukpga/1995/21/schedule/14/paragraph/1))
 
-[^key-595cd4433cc23247394e56cf7d0df9e4]: Textual amendment: Words in s. 5(1) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/15) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-595cd4433cc23247394e56cf7d0df9e4]: Textual amendment: Words in s. 5(1) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/15) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-25debc82211648463d120c55f58dc53c]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/1985/22/section/6A) inserted (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [s. 4](https://www.legislation.gov.uk/ukpga/2003/16/section/4), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2003/16/schedule/2/paragraph/1)
+[^c-25debc82211648463d120c55f58dc53c]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/1985/22/section/6A) inserted (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [s. 4](https://www.legislation.gov.uk/ukpga/2003/16/section/4), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2003/16/schedule/2/paragraph/1)
 
 [^c1002113]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 

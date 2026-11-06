@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Modification of Part 1 of the 1965 Act[^key-03c8600b9d93a2ba616d6cd9324b1e65]
+## 30. Modification of Part 1 of the 1965 Act[^c-03c8600b9d93a2ba616d6cd9324b1e65]
 
 *Extent: E+W+S*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-03c8600b9d93a2ba616d6cd9324b1e65]: Commencement: Art. 30 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-03c8600b9d93a2ba616d6cd9324b1e65]: Commencement: Art. 30 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00046]: Footnote: Section 4A(1) was inserted by section 202(1) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

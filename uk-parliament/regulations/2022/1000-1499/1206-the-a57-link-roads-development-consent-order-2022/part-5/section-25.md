@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Compulsory acquisition of rights and restrictive covenants[^key-108a53811073c6ff3c1f7b945974cb29]
+## 25. Compulsory acquisition of rights and restrictive covenants[^c-108a53811073c6ff3c1f7b945974cb29]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-108a53811073c6ff3c1f7b945974cb29]: Commencement: Art. 25 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-108a53811073c6ff3c1f7b945974cb29]: Commencement: Art. 25 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)

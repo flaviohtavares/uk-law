@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 2. Jurisdiction on clergy conduct[^key-ee8f91954729242a014b2344100ce146]
+## 2. Jurisdiction on clergy conduct[^c-ee8f91954729242a014b2344100ce146]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee8f91954729242a014b2344100ce146]: Commencement: S. 2 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-ee8f91954729242a014b2344100ce146]: Commencement: S. 2 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

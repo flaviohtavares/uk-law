@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Special administration regimes and old administrations[^key-4c2bb4c4256d9df56ca057c50e13085a]
+## 7. Special administration regimes and old administrations[^c-4c2bb4c4256d9df56ca057c50e13085a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c2bb4c4256d9df56ca057c50e13085a]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2010/686) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))
+[^c-4c2bb4c4256d9df56ca057c50e13085a]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2010/686) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))

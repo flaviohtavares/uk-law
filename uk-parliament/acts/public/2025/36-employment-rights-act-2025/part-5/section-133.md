@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Privilege against self-incrimination[^key-83f267d0de3fdc0bae539638d759cc19][^key-f880a095fa7e00677a141b5d4e5bfc0a]
+## 133. Privilege against self-incrimination[^c-83f267d0de3fdc0bae539638d759cc19][^c-f880a095fa7e00677a141b5d4e5bfc0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83f267d0de3fdc0bae539638d759cc19]: Commencement: S. 133 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-83f267d0de3fdc0bae539638d759cc19]: Commencement: S. 133 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-f880a095fa7e00677a141b5d4e5bfc0a]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2025/36/section/133) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(34)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/34)
+[^c-f880a095fa7e00677a141b5d4e5bfc0a]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2025/36/section/133) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(34)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/34)

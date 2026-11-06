@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Exemption regulations: supplementary[^key-d93b74a89a25042a6878ed06a4c6fc16][^c2191299]
+## 84. Exemption regulations: supplementary[^c-d93b74a89a25042a6878ed06a4c6fc16][^c2191299]
 
 *Extent: E+W*
 
@@ -45,8 +45,8 @@ summary: ''
 (5) The Secretary of State must—
 
 - (a) consult the following about the proposal—
-  - (i)[^key-609c35a3a1875fb393698c6c1aae790e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii) NHS England[^key-81307bcb633ff2df729fb1f369a56018];
+  - (i)[^c-609c35a3a1875fb393698c6c1aae790e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) NHS England[^c-81307bcb633ff2df729fb1f369a56018];
   - (iii) the Care Quality Commission and its Healthwatch England committee;
 - (b) where the Secretary of State is proposing to make regulations under subsection (1)(b) or (c), give notice of the proposal to the person to whom the exemption was granted;
 - (c) where the Secretary of State is proposing to make regulations under subsection (2), publish the notice;
@@ -62,10 +62,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d93b74a89a25042a6878ed06a4c6fc16]: Commencement: S. 84 in force at 1.4.2014 in so far as not already in force by [S.I. 2014/39](https://www.legislation.gov.uk/uksi/2014/39), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/39/article/2/3)
+[^c-d93b74a89a25042a6878ed06a4c6fc16]: Commencement: S. 84 in force at 1.4.2014 in so far as not already in force by [S.I. 2014/39](https://www.legislation.gov.uk/uksi/2014/39), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/39/article/2/3)
 
 [^c2191299]: Commencement: S. 84 partly in force; s. 84 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)
 
-[^key-609c35a3a1875fb393698c6c1aae790e]: Textual amendment: [S. 84(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2012/7/section/84/5/a/i) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 5 para. 48](https://www.legislation.gov.uk/ukpga/2022/31/schedule/5/paragraph/48); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-609c35a3a1875fb393698c6c1aae790e]: Textual amendment: [S. 84(5)(a)(i)](https://www.legislation.gov.uk/ukpga/2012/7/section/84/5/a/i) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 5 para. 48](https://www.legislation.gov.uk/ukpga/2022/31/schedule/5/paragraph/48); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-81307bcb633ff2df729fb1f369a56018]: Textual amendment: Words in [s. 84](https://www.legislation.gov.uk/ukpga/2012/7/section/84) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-81307bcb633ff2df729fb1f369a56018]: Textual amendment: Words in [s. 84](https://www.legislation.gov.uk/ukpga/2012/7/section/84) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

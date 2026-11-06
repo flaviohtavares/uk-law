@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Transfer of functions in relation to excepted energy buildings[^key-08eb00306ff4ca00a07e5bf6a4058ec3]
+## 54. Transfer of functions in relation to excepted energy buildings[^c-08eb00306ff4ca00a07e5bf6a4058ec3]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08eb00306ff4ca00a07e5bf6a4058ec3]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2017/4/section/54) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
+[^c-08eb00306ff4ca00a07e5bf6a4058ec3]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2017/4/section/54) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)

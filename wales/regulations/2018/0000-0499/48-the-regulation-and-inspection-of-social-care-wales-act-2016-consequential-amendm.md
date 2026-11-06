@@ -331,7 +331,7 @@ Regulation 2
 - (a) after “school” insert “ in England ”;
 - (b) at the end, insert “ , or in a school in Wales at which a care home service, within the meaning of Part 1 of and paragraph 1(3) of Schedule 1 to the Regulation and Inspection of Social Care (Wales) Act 2016, is provided. ”.
 
-### 16. Smoke-free Premises etc. (Wales) Regulations 2007[^key-8fd6360efea59c06340cce3864de0b3b]
+### 16. Smoke-free Premises etc. (Wales) Regulations 2007[^c-8fd6360efea59c06340cce3864de0b3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -754,7 +754,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22976251]: Marginal citation: [S.I. 2007/310](https://www.legislation.gov.uk/uksi/2007/310) (W. 27), as amended by [S.I. 2016/216](https://www.legislation.gov.uk/uksi/2016/216) (W. 85); there are other amending instruments but none are relevant.
 
-[^key-8fd6360efea59c06340cce3864de0b3b]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/16) omitted (1.3.2021) by virtue of [The Smoke-free Premises and Vehicles (Wales) Regulations 2020 (S.I. 2020/1211)](https://www.legislation.gov.uk/wsi/2020/1211), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1211/regulation/1/2), [24](https://www.legislation.gov.uk/wsi/2020/1211/regulation/24)
+[^c-8fd6360efea59c06340cce3864de0b3b]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/16) omitted (1.3.2021) by virtue of [The Smoke-free Premises and Vehicles (Wales) Regulations 2020 (S.I. 2020/1211)](https://www.legislation.gov.uk/wsi/2020/1211), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1211/regulation/1/2), [24](https://www.legislation.gov.uk/wsi/2020/1211/regulation/24)
 
 [^c22976271]: Marginal citation: [S.I. 2007/1104](https://www.legislation.gov.uk/uksi/2007/1104) (W. 116), to which there are amendments not relevant to these Regulations.
 

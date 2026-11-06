@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Assignment stage options for 2.6 GHz paired frequency lots[^key-fdf7d8d01ebec626b489b6ce27e45561]
+## 91. Assignment stage options for 2.6 GHz paired frequency lots[^c-fdf7d8d01ebec626b489b6ce27e45561]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdf7d8d01ebec626b489b6ce27e45561]: Commencement: Reg. 91 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-fdf7d8d01ebec626b489b6ce27e45561]: Commencement: Reg. 91 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

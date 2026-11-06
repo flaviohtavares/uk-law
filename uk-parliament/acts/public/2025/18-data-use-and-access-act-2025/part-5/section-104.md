@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Court procedure in connection with subject access requests[^key-52cfbb4f5d228ec4214c1e7a33f64d80][^key-94233fd27925546de3333838bc6ebab6]
+## 104. Court procedure in connection with subject access requests[^c-52cfbb4f5d228ec4214c1e7a33f64d80][^c-94233fd27925546de3333838bc6ebab6]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52cfbb4f5d228ec4214c1e7a33f64d80]: Commencement: S. 104 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-52cfbb4f5d228ec4214c1e7a33f64d80]: Commencement: S. 104 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-94233fd27925546de3333838bc6ebab6]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2025/18/section/104) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/j)
+[^c-94233fd27925546de3333838bc6ebab6]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2025/18/section/104) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/j)

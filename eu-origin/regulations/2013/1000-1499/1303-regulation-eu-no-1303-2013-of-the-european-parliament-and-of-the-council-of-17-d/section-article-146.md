@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 146 (affected by repeal, see note). Obligations of Member States (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+## Article 146 (affected by repeal, see note). Obligations of Member States (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
-A financial correction by the Commission shall not prejudice the Member State's obligation to pursue recoveries under Article 143(2) of this Regulation and to recover State aid within the meaning of Article 107(1) TFEU and under Article 14 of Council Regulation (EC) No 659/1999 *(affected by repeal, see note)*[^key-b676935048cfd925335e1c66c82fd0d4][^f00048].
+A financial correction by the Commission shall not prejudice the Member State's obligation to pursue recoveries under Article 143(2) of this Regulation and to recover State aid within the meaning of Article 107(1) TFEU and under Article 14 of Council Regulation (EC) No 659/1999 *(affected by repeal, see note)*[^c-b676935048cfd925335e1c66c82fd0d4][^f00048].
 
 ## Annotations
 
-[^key-b676935048cfd925335e1c66c82fd0d4]: Textual amendment: Regulation revoked in so far as relating to the European Maritime and Fisheries Fund (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-b676935048cfd925335e1c66c82fd0d4]: Textual amendment: Regulation revoked in so far as relating to the European Maritime and Fisheries Fund (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
 
 [^f00048]: Footnote: Council Regulation (EC) No 659/1999 of 22 March 1999 laying down detailed rules for the application of Article 93 of the EC Treaty ([OJ L 83, 27.3.1999, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.083.01.0001.01.ENG)).

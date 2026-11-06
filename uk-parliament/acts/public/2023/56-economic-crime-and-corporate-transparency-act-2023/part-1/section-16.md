@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Misleading indication of activities[^key-3133b499c3f7ff1e8a32422289da032d][^key-d8842e08a2aa3cc741b36f995c1464df]
+## 16. Misleading indication of activities[^c-3133b499c3f7ff1e8a32422289da032d][^c-d8842e08a2aa3cc741b36f995c1464df]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 76 of the Companies Act 2006 (misleading indication of activities), i
 
 ## Annotations
 
-[^key-3133b499c3f7ff1e8a32422289da032d]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-3133b499c3f7ff1e8a32422289da032d]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-d8842e08a2aa3cc741b36f995c1464df]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2023/56/section/16) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/l)
+[^c-d8842e08a2aa3cc741b36f995c1464df]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2023/56/section/16) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/l)

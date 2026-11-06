@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60A. Temporary certified instructors[^key-def7db772feee96690d106cd8dbd40e4]
+## 60A. Temporary certified instructors[^c-def7db772feee96690d106cd8dbd40e4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-def7db772feee96690d106cd8dbd40e4]: Textual amendment: [Reg. 60A](https://www.legislation.gov.uk/uksi/1999/2864/regulation/60A) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/4/4)
+[^c-def7db772feee96690d106cd8dbd40e4]: Textual amendment: [Reg. 60A](https://www.legislation.gov.uk/uksi/1999/2864/regulation/60A) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 4(4)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/4/4)

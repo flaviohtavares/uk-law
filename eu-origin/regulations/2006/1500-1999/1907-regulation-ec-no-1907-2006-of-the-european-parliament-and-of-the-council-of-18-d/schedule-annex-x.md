@@ -76,7 +76,7 @@ Description of the analytical methods shall be provided on request, for the rele
 
 [^c000013]: Textual amendment: Inserted by [Commission Regulation (EU) 2018/1881 of 3 December 2018 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards Annexes I, III,VI, VII, VIII, IX, X, XI, and XII to address nanoforms of substances (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2018/1881).
 
-[^f00086]: Footnote: Note: conditions for not requiring a specific test that are set out in regulations under[^key-fdb2772afb87221cb92d6bf1073bba2a] Article 13(3) that are not repeated in column 2, also apply.
+[^f00086]: Footnote: Note: conditions for not requiring a specific test that are set out in regulations under[^c-fdb2772afb87221cb92d6bf1073bba2a] Article 13(3) that are not repeated in column 2, also apply.
 
 [^c000011]: Textual amendment: Substituted by [Commission Regulation (EU) 2018/1881 of 3 December 2018 amending Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards Annexes I, III,VI, VII, VIII, IX, X, XI, and XII to address nanoforms of substances (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2018/1881).
 
@@ -86,4 +86,4 @@ Description of the analytical methods shall be provided on request, for the rele
 
 [^M_F_a08dd8c9-21dc-4365-aa90-6865f36b6170]: Textual amendment: Words in Annex 10 point 8.7.3 substituted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/uksi/2019/758/schedule/3/paragraph/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fdb2772afb87221cb92d6bf1073bba2a]: Annotation text not found in the source document.
+[^c-fdb2772afb87221cb92d6bf1073bba2a]: Annotation text not found in the source document.

@@ -51,7 +51,7 @@ summary: ''
 - (f) a member of the Bar of Northern Ireland;
 - (g) a registered foreign lawyer (within the meaning of section 89 of the Courts and Legal Services Act 1990 (c. 41));
 - (h) an individual not within paragraphs (a) to (g) who is an authorised person in relation to an activity which is a reserved legal activity; or
-- (i) a European lawyer (within the meaning of the European Communities (Services of Lawyers) Order 1978 (S.I. 1978/1910) , as it has effect by virtue of regulation 5 of the Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020[^key-64df9a3346362ec3c16c168e7aabb6cf]).
+- (i) a European lawyer (within the meaning of the European Communities (Services of Lawyers) Order 1978 (S.I. 1978/1910) , as it has effect by virtue of regulation 5 of the Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020[^c-64df9a3346362ec3c16c168e7aabb6cf]).
 
 (6) In this section—
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64df9a3346362ec3c16c168e7aabb6cf]: Textual amendment: Words in [s. 190(5)(i)](https://www.legislation.gov.uk/ukpga/2007/29/section/190/5/i) inserted (31.12.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/1), [Sch. para. 12(3)](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/12/3) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
+[^c-64df9a3346362ec3c16c168e7aabb6cf]: Textual amendment: Words in [s. 190(5)(i)](https://www.legislation.gov.uk/ukpga/2007/29/section/190/5/i) inserted (31.12.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/1), [Sch. para. 12(3)](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/12/3) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))

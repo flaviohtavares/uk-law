@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 282. “The appropriate fee”[^key-6b8a8e1668d4651ad64de95c98a9e6f7]
+## 282. “The appropriate fee”[^c-6b8a8e1668d4651ad64de95c98a9e6f7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b8a8e1668d4651ad64de95c98a9e6f7]: Commencement: Rule 282 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-6b8a8e1668d4651ad64de95c98a9e6f7]: Commencement: Rule 282 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

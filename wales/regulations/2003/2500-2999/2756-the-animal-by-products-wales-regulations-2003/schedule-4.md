@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4[^key-6923fb1104eb1436024dc01d1cbb8d89]
+## SCHEDULE 4[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
 *Extent: E+W*
 
@@ -24,24 +24,24 @@ summary: ''
 
 Regulation 51
 
-### Amendments[^key-6923fb1104eb1436024dc01d1cbb8d89]
+### Amendments[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 1. Amendments to the TSE (Wales) Regulations 2002[^key-6923fb1104eb1436024dc01d1cbb8d89]
+### 1. Amendments to the TSE (Wales) Regulations 2002[^c-6923fb1104eb1436024dc01d1cbb8d89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6923fb1104eb1436024dc01d1cbb8d89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6923fb1104eb1436024dc01d1cbb8d89]: Textual amendment: Regulations revoked (12.5.2006) by [The Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/uksi/2006/1293), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1293/regulation/1), [53(2)](https://www.legislation.gov.uk/uksi/2006/1293/regulation/53)
+[^c-6923fb1104eb1436024dc01d1cbb8d89]: Textual amendment: Regulations revoked (12.5.2006) by [The Animal By-Products (Wales) Regulations 2006 (S.I. 2006/1293)](https://www.legislation.gov.uk/uksi/2006/1293), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1293/regulation/1), [53(2)](https://www.legislation.gov.uk/uksi/2006/1293/regulation/53)

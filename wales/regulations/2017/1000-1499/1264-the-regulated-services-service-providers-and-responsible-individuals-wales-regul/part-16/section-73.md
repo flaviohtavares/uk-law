@@ -25,7 +25,7 @@ summary: ''
 - (a) visit each place in respect of which the responsible individual is designated, and
 - (b) meet with staff and individuals at each such place.
 
-(2) In the case of a domiciliary support service[^key-10ddb4227a475da4831de1d2761df52e], the responsible individual must—
+(2) In the case of a domiciliary support service[^c-10ddb4227a475da4831de1d2761df52e], the responsible individual must—
 
 - (a) meet with members of staff who are employed to provide a regulated service at, from or in relation to each place in respect of which the responsible individual is designated, and
 - (b) meet with individuals for whom a regulated service is being provided at, from or in relation to each such place.
@@ -36,4 +36,4 @@ summary: ''
 
 [^c23886911]: Marginal citation: See Schedule 1 to the Act for further provision about the meaning of care home services, secure accommodation services and residential family centre services.
 
-[^key-10ddb4227a475da4831de1d2761df52e]: Textual amendment: Words in reg. 73(2) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [14](https://www.legislation.gov.uk/wsi/2019/757/regulation/14)
+[^c-10ddb4227a475da4831de1d2761df52e]: Textual amendment: Words in reg. 73(2) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [14](https://www.legislation.gov.uk/wsi/2019/757/regulation/14)

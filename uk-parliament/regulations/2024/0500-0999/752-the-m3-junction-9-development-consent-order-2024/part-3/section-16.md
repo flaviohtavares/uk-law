@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Temporary stopping up and restriction of use of streets[^key-7417d716799cba020792410b8e009e27]
+## 16. Temporary stopping up and restriction of use of streets[^c-7417d716799cba020792410b8e009e27]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7417d716799cba020792410b8e009e27]: Commencement: Art. 16 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-7417d716799cba020792410b8e009e27]: Commencement: Art. 16 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))

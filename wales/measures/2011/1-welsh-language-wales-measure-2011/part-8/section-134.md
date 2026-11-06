@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Register of interests[^key-fc0f736bd0cd8f9186b5f753eca6881f]
+## 134. Register of interests[^c-fc0f736bd0cd8f9186b5f753eca6881f]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc0f736bd0cd8f9186b5f753eca6881f]: Commencement: [S. 134](https://www.legislation.gov.uk/mwa/2011/1/section/134) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(m)](https://www.legislation.gov.uk/wsi/2012/969/article/2/m)
+[^c-fc0f736bd0cd8f9186b5f753eca6881f]: Commencement: [S. 134](https://www.legislation.gov.uk/mwa/2011/1/section/134) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(m)](https://www.legislation.gov.uk/wsi/2012/969/article/2/m)

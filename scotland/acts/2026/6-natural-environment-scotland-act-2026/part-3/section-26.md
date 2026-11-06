@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Power to enter on land[^key-d6cf1dedbc327fe47404f58ae5dc0803]
+## 26. Power to enter on land[^c-d6cf1dedbc327fe47404f58ae5dc0803]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6cf1dedbc327fe47404f58ae5dc0803]: Commencement: S. 26 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-d6cf1dedbc327fe47404f58ae5dc0803]: Commencement: S. 26 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

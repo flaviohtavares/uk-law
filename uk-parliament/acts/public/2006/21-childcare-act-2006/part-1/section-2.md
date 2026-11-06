@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Meaning of “early childhood services” for purposes of section 3[^key-48e9ad5b846b980ccc5c088596592934]
+## 2. Meaning of “early childhood services” for purposes of section 3[^c-48e9ad5b846b980ccc5c088596592934]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48e9ad5b846b980ccc5c088596592934]: Commencement: S. 2 in force at 1.4.2008 by [S.I. 2008/785](https://www.legislation.gov.uk/uksi/2008/785), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/785/article/2/b)
+[^c-48e9ad5b846b980ccc5c088596592934]: Commencement: S. 2 in force at 1.4.2008 by [S.I. 2008/785](https://www.legislation.gov.uk/uksi/2008/785), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/785/article/2/b)

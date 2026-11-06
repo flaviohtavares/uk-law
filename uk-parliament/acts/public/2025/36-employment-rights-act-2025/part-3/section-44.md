@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Reconsideration by Negotiating Body[^key-1453a946f62b8a6e37c6a8a4b839df96][^key-ca5d46a4ab307c4ce19fbfbb6e3b23fc]
+## 44. Reconsideration by Negotiating Body[^c-1453a946f62b8a6e37c6a8a4b839df96][^c-ca5d46a4ab307c4ce19fbfbb6e3b23fc]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1453a946f62b8a6e37c6a8a4b839df96]: Commencement: S. 44 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-1453a946f62b8a6e37c6a8a4b839df96]: Commencement: S. 44 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-ca5d46a4ab307c4ce19fbfbb6e3b23fc]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2025/36/section/44) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(14)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/14)
+[^c-ca5d46a4ab307c4ce19fbfbb6e3b23fc]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2025/36/section/44) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(14)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/14)

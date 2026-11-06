@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 239. Abolition of assured, secure and other tenancies[^key-6524bde3b360f1793b5b4e89547f2224]
+## 239. Abolition of assured, secure and other tenancies[^c-6524bde3b360f1793b5b4e89547f2224]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6524bde3b360f1793b5b4e89547f2224]: Commencement: [S. 239](https://www.legislation.gov.uk/anaw/2016/1/section/239) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-6524bde3b360f1793b5b4e89547f2224]: Commencement: [S. 239](https://www.legislation.gov.uk/anaw/2016/1/section/239) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

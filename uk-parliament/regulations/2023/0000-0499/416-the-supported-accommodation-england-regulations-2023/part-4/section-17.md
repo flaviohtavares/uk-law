@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Fitness of staff[^key-0f87e5d9205641765834bc11d209353e]
+## 17. Fitness of staff[^c-0f87e5d9205641765834bc11d209353e]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f87e5d9205641765834bc11d209353e]: Commencement: Reg. 17 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-0f87e5d9205641765834bc11d209353e]: Commencement: Reg. 17 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Arbitration[^key-ee48158b406740cb75cb86844c9c045c]
+## 48. Arbitration[^c-ee48158b406740cb75cb86844c9c045c]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Except where otherwise expressly provided for in this Order and unless otherwise
 
 ## Annotations
 
-[^key-ee48158b406740cb75cb86844c9c045c]: Commencement: Art. 48 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-ee48158b406740cb75cb86844c9c045c]: Commencement: Art. 48 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 155. Powers of disclaimer[^key-468f657477be1348a1f87110ae156bca]
+## 155. Powers of disclaimer[^c-468f657477be1348a1f87110ae156bca]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-468f657477be1348a1f87110ae156bca]: Commencement: Rule 155 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-468f657477be1348a1f87110ae156bca]: Commencement: Rule 155 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
 [^f00016]: Footnote: Section 178 was amended by Banking Act [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1), [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245). There are other amending instruments but none is relevant.
 

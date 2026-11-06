@@ -22,7 +22,7 @@ summary: ''
 
 (1) A request made under this paragraph pursuant to regulation 14(7) must include—
 
-- (a) a copy of the request to the relevant planning authority or specified person[^key-d9dd5f58b41a1713786d7eaee162f655] under regulation 14(1);
+- (a) a copy of the request to the relevant planning authority or specified person[^c-d9dd5f58b41a1713786d7eaee162f655] under regulation 14(1);
 - (b) a copy of any relevant notification under regulation 14(3) and of any response;
 - (c) a copy of any relevant screening opinion received by the person making the request and of the accompanying statement of reasons; and
 - (d) any representations that the person making the request wishes to make.
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9dd5f58b41a1713786d7eaee162f655]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/wsi/2017/567/regulation/15) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(14)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/14) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
+[^c-d9dd5f58b41a1713786d7eaee162f655]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/wsi/2017/567/regulation/15) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(14)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/14) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))

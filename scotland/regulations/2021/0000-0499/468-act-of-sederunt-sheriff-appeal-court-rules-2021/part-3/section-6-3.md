@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.3. Time for appeal[^key-9ea9bf2d85d3b2031f6558f7cce4aeb4]
+## 6.3. Time for appeal[^c-9ea9bf2d85d3b2031f6558f7cce4aeb4]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ea9bf2d85d3b2031f6558f7cce4aeb4]: Commencement: Para. 6.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-9ea9bf2d85d3b2031f6558f7cce4aeb4]: Commencement: Para. 6.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Non-vested contingent interest reinvested in debtor[^key-68fc869dec8629064db4b1280f364a08]
+## 29. Non-vested contingent interest reinvested in debtor[^c-68fc869dec8629064db4b1280f364a08]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68fc869dec8629064db4b1280f364a08]: Textual amendment: Ss. 5-32 repealed (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 9 pt. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/9/part/1) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-68fc869dec8629064db4b1280f364a08]: Textual amendment: Ss. 5-32 repealed (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 9 pt. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/9/part/1) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

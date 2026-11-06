@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 167. Scheme administrator for the purposes of FA 2004[^key-f2116546d7a12cbb0fe2e8c20d1ab638]
+## 167. Scheme administrator for the purposes of FA 2004[^c-f2116546d7a12cbb0fe2e8c20d1ab638]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The scheme manager is appointed to be responsible for all liabilities and respon
 
 ## Annotations
 
-[^key-f2116546d7a12cbb0fe2e8c20d1ab638]: Commencement: [Reg. 167](https://www.legislation.gov.uk/ssi/2015/19/regulation/167) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-f2116546d7a12cbb0fe2e8c20d1ab638]: Commencement: [Reg. 167](https://www.legislation.gov.uk/ssi/2015/19/regulation/167) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

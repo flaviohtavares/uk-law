@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Vacancies: constituency seats[^key-d65c65909f5132e9726913bb7db590e1]
+## 85. Vacancies: constituency seats[^c-d65c65909f5132e9726913bb7db590e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Where the seat of a constituency member is vacant and the date of the poll at an
 
 ## Annotations
 
-[^key-d65c65909f5132e9726913bb7db590e1]: Commencement: Art. 85 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-d65c65909f5132e9726913bb7db590e1]: Commencement: Art. 85 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

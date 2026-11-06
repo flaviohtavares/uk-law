@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Water supply licences: authorisations[^key-df65f5a0678985087a09c85127aced21]
+## SCHEDULE 1 — Water supply licences: authorisations[^c-df65f5a0678985087a09c85127aced21]
 
 *Extent: E+W*
 
@@ -89,4 +89,4 @@ Section 1
 
 ## Annotations
 
-[^key-df65f5a0678985087a09c85127aced21]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2014/21/schedule/1) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/d)
+[^c-df65f5a0678985087a09c85127aced21]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2014/21/schedule/1) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Van fuel: nil cash equivalent[^key-e3ed7c7f56956e11a03127a1ded249b3]
+## 162. Van fuel: nil cash equivalent[^c-e3ed7c7f56956e11a03127a1ded249b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,15 +24,15 @@ summary: ''
 
 (2) Condition A is met if ...—
 
-- (a) in the tax year in question,[^key-0f5ddd86f6df4e9503039340d9940b49] the employee is required to make good to the person providing the fuel the whole of the expense incurred by that person in connection with the provision of the fuel for the employee’s private use, and
-- (b) the employee does make good that expense on or before 6 July following that tax year[^key-0ba92353637ee8a70fb366948ad89e48] .
+- (a) in the tax year in question,[^c-0f5ddd86f6df4e9503039340d9940b49] the employee is required to make good to the person providing the fuel the whole of the expense incurred by that person in connection with the provision of the fuel for the employee’s private use, and
+- (b) the employee does make good that expense on or before 6 July following that tax year[^c-0ba92353637ee8a70fb366948ad89e48] .
 
 (3) Condition B is met if in the tax year in question the fuel is made available only for business travel (see section 171(1)).
 
 ## Annotations
 
-[^key-e3ed7c7f56956e11a03127a1ded249b3]: Textual amendment: Ss. 155-164 substituted for ss. 155-166 (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/5)
+[^c-e3ed7c7f56956e11a03127a1ded249b3]: Textual amendment: Ss. 155-164 substituted for ss. 155-166 (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/5)
 
-[^key-0f5ddd86f6df4e9503039340d9940b49]: Textual amendment: Words in [s. 162(2)(a)](https://www.legislation.gov.uk/ukpga/2003/1/section/162/2/a) inserted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(11)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/11/b)
+[^c-0f5ddd86f6df4e9503039340d9940b49]: Textual amendment: Words in [s. 162(2)(a)](https://www.legislation.gov.uk/ukpga/2003/1/section/162/2/a) inserted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(11)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/11/b)
 
-[^key-0ba92353637ee8a70fb366948ad89e48]: Textual amendment: Words in [s. 162(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/162/2/b) inserted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(11)(c)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/11/c)
+[^c-0ba92353637ee8a70fb366948ad89e48]: Textual amendment: Words in [s. 162(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/162/2/b) inserted (with effect in accordance with s. 1(14) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 1(11)(c)](https://www.legislation.gov.uk/ukpga/2017/32/section/1/11/c)

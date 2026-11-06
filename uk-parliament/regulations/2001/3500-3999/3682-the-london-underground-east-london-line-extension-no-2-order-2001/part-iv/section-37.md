@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. For the protection of the Company in the event of transfer[^key-078dd77be144c5b89baf2f2cc2de939c]
+## 37. For the protection of the Company in the event of transfer[^c-078dd77be144c5b89baf2f2cc2de939c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ If the powers of the Company under this Order to construct the authorised works 
 
 ## Annotations
 
-[^key-078dd77be144c5b89baf2f2cc2de939c]: Commencement: Art. 37 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-078dd77be144c5b89baf2f2cc2de939c]: Commencement: Art. 37 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

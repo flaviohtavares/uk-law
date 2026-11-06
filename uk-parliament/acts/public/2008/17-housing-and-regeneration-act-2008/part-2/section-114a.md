@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114A. Local authorities: duty to notify[^key-800975f0222aadff2dca5fa378bea9ab]
+## 114A. Local authorities: duty to notify[^c-800975f0222aadff2dca5fa378bea9ab]
 
 *Extent: E+W*
 
-(1) A local authority [^key-e9e62069d9f99e80457705934f3f0b8b]... which is not subject to compulsory registration must notify the regulator as soon as it becomes subject to compulsory registration.
+(1) A local authority [^c-e9e62069d9f99e80457705934f3f0b8b]... which is not subject to compulsory registration must notify the regulator as soon as it becomes subject to compulsory registration.
 
 (2) For these purposes, an authority is subject to compulsory registration if—
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-800975f0222aadff2dca5fa378bea9ab]: Textual amendment: S. 114A inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/13)
+[^c-800975f0222aadff2dca5fa378bea9ab]: Textual amendment: S. 114A inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/13)
 
-[^key-e9e62069d9f99e80457705934f3f0b8b]: Textual amendment: Words in [s. 114A(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/114A/1) omitted (20.9.2023) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/10); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(y)(ii)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/y/ii)
+[^c-e9e62069d9f99e80457705934f3f0b8b]: Textual amendment: Words in [s. 114A(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/114A/1) omitted (20.9.2023) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/10); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(y)(ii)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/y/ii)

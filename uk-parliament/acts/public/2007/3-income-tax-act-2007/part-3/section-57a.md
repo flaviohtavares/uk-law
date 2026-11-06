@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57A. Personal allowance linked to national minimum wage[^key-3f741d42bb9c2b65e66c8ef780fc68e9]
+## 57A. Personal allowance linked to national minimum wage[^c-3f741d42bb9c2b65e66c8ef780fc68e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f741d42bb9c2b65e66c8ef780fc68e9]: Textual amendment: S. 57A omitted (12.2.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/5/4/a)
+[^c-3f741d42bb9c2b65e66c8ef780fc68e9]: Textual amendment: S. 57A omitted (12.2.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 5(4)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/5/4/a)

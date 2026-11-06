@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 324. Board’s power of intervention[^key-3db9308ae77b42ff56ae9fd723dba1b7]
+## 324. Board’s power of intervention[^c-3db9308ae77b42ff56ae9fd723dba1b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ For subsections (5) to (8) of section 52[^f00241] of the Courts and Legal Servic
 
 ## Annotations
 
-[^key-3db9308ae77b42ff56ae9fd723dba1b7]: Commencement: Art. 324 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-3db9308ae77b42ff56ae9fd723dba1b7]: Commencement: Art. 324 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00241]: Footnote: Section 52(6) was amended by the Bank of England Act [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11), Schedule 5, paragraph 41(3)(b).

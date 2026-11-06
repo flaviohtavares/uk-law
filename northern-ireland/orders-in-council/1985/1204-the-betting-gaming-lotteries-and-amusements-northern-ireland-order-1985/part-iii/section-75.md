@@ -40,12 +40,12 @@ paragraph (1) shall have effect as if those different premises were the same pre
 
 (3) Subject to the following provisions of this Article, where bingo takes place on bingo club premises, no person shall participate in the bingo unless either—
 
-- (a) he is a member of the bingo club specified in the bingo club licence [^key-582818b8c67621655f2df5de9f888223]...; or
-- (b) he is a bona fide guest of a person who is a member of that bingo club [^key-7b7489ca83bb8fc43ed2fa5ff73179b5]...;
+- (a) he is a member of the bingo club specified in the bingo club licence [^c-582818b8c67621655f2df5de9f888223]...; or
+- (b) he is a bona fide guest of a person who is a member of that bingo club [^c-7b7489ca83bb8fc43ed2fa5ff73179b5]...;
 
 and neither the holder of the licence nor any person acting on his behalf or employed in the bingo club premises in question shall participate in the bingo.
 
-(4)[^key-0192e5d0329efdaca67260b18ce43280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0192e5d0329efdaca67260b18ce43280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Where paragraph (2) has effect in relation to a game of bingo played simultaneously on different premises, for the purposes of the application of paragraphs (3) and (4) in relation to each of those premises, regard shall be had only to such of the players as are present on those particular premises.
 
@@ -61,8 +61,8 @@ and neither the holder of the licence nor any person acting on his behalf or emp
 
 [^c17001301]: Textual amendment: SR 2001/414
 
-[^key-582818b8c67621655f2df5de9f888223]: Textual amendment: Words in [art. 75(3)(a)](https://www.legislation.gov.uk/nisi/1985/1204/article/75/3/a) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 5(a)](https://www.legislation.gov.uk/nia/2022/14/section/5/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-582818b8c67621655f2df5de9f888223]: Textual amendment: Words in [art. 75(3)(a)](https://www.legislation.gov.uk/nisi/1985/1204/article/75/3/a) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 5(a)](https://www.legislation.gov.uk/nia/2022/14/section/5/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-7b7489ca83bb8fc43ed2fa5ff73179b5]: Textual amendment: Words in [art. 75(3)(b)](https://www.legislation.gov.uk/nisi/1985/1204/article/75/3/b) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 5(b)](https://www.legislation.gov.uk/nia/2022/14/section/5/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-7b7489ca83bb8fc43ed2fa5ff73179b5]: Textual amendment: Words in [art. 75(3)(b)](https://www.legislation.gov.uk/nisi/1985/1204/article/75/3/b) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 5(b)](https://www.legislation.gov.uk/nia/2022/14/section/5/b), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-0192e5d0329efdaca67260b18ce43280]: Textual amendment: [Art. 75(4)](https://www.legislation.gov.uk/nisi/1985/1204/article/75/4) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 5(c)](https://www.legislation.gov.uk/nia/2022/14/section/5/c), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-0192e5d0329efdaca67260b18ce43280]: Textual amendment: [Art. 75(4)](https://www.legislation.gov.uk/nisi/1985/1204/article/75/4) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 5(c)](https://www.legislation.gov.uk/nia/2022/14/section/5/c), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)

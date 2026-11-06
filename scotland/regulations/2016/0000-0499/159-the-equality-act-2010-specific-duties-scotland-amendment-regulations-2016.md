@@ -46,15 +46,15 @@ In accordance with section 153(4) of that Act, the Scottish Ministers have consu
 
 In accordance with section 210(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-6e6959acb038ad60e702d194666c94e4]
+## 1. Citation and commencement[^c-6e6959acb038ad60e702d194666c94e4]
 
 These Regulations may be cited as the Equality Act 2010 (Specific Duties) (Scotland) Amendment Regulations 2016 and come into force on the day after the day on which they are made.
 
-## 2. Amendment of the Equality Act 2010 (Specific Duties) (Scotland) Regulations 2012[^key-6b31bea99e67bf427172e7b8616d2cc5]
+## 2. Amendment of the Equality Act 2010 (Specific Duties) (Scotland) Regulations 2012[^c-6b31bea99e67bf427172e7b8616d2cc5]
 
 The Equality Act 2010 (Specific Duties) (Scotland) Regulations 2012[^f00002] are amended as follows.
 
-## 3. Regulation 2A[^key-2f4de1954a23b2a3b46d2464ef584576]
+## 3. Regulation 2A[^c-2f4de1954a23b2a3b46d2464ef584576]
 
 In regulation 2A (further listed authorities)—
 
@@ -64,11 +64,11 @@ In regulation 2A (further listed authorities)—
   - (i) omit sub-paragraph (a) and the word “and” immediately after it; and
   - (ii) in sub-paragraph (b)(i), for “, 4(1)(a), 7(2)(a) and 8(1)(a)” substitute “and 4(1)(a)”.
 
-## 4. New regulation 6A[^key-74f120f5f43d60a69677dbf3d371f165]
+## 4. New regulation 6A[^c-74f120f5f43d60a69677dbf3d371f165]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Regulation 7[^key-eafdf73cde88ea9482d02b36ab59ac7c]
+## 5. Regulation 7[^c-eafdf73cde88ea9482d02b36ab59ac7c]
 
 In regulation 7 (duty to publish gender pay gap information)—
 
@@ -76,7 +76,7 @@ In regulation 7 (duty to publish gender pay gap information)—
 - (b) omit paragraphs (2), (4) and (5); and
 - (c) in paragraph (3), for “150” substitute “20”.
 
-## 6. Regulation 8[^key-4032da4e4b9d77932ac35853b0e47586]
+## 6. Regulation 8[^c-4032da4e4b9d77932ac35853b0e47586]
 
 In regulation 8 (duty to publish statements on equal pay, etc.)—
 
@@ -88,7 +88,7 @@ In regulation 8 (duty to publish statements on equal pay, etc.)—
 - (d) in paragraph (5), for “paragraph (1)” substitute “this regulation”; and
 - (e) in paragraph (7), omit “and the figure of “150” in paragraphs (3) and (4)”.
 
-## 7. New regulation 8A[^key-b4b26f0466befe6b4233a23553e240c2]
+## 7. New regulation 8A[^c-b4b26f0466befe6b4233a23553e240c2]
 
 After regulation 8, insert—
 
@@ -143,18 +143,18 @@ These Regulations also insert a new regulation 8A into the 2012 Regulations. Thi
 
 [^f00001]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15); Part 3 of Schedule 19 to the Equality Act 2010 makes provision relevant to the exercise of these powers and was amended by section 61(3) of the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [S.S.I. 2011/233](https://www.legislation.gov.uk/ssi/2011/233), [S.S.I. 2012/55](https://www.legislation.gov.uk/ssi/2012/55), [S.S.I. 2013/170](https://www.legislation.gov.uk/ssi/2013/170), [S.I. 2013/602](https://www.legislation.gov.uk/uksi/2013/602) and [S.S.I. 2015/83](https://www.legislation.gov.uk/ssi/2015/83).
 
-[^key-6e6959acb038ad60e702d194666c94e4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
+[^c-6e6959acb038ad60e702d194666c94e4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
 
-[^key-6b31bea99e67bf427172e7b8616d2cc5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
+[^c-6b31bea99e67bf427172e7b8616d2cc5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2012/162](https://www.legislation.gov.uk/ssi/2012/162), amended by [S.S.I. 2015/254](https://www.legislation.gov.uk/ssi/2015/254).
 
-[^key-2f4de1954a23b2a3b46d2464ef584576]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
+[^c-2f4de1954a23b2a3b46d2464ef584576]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
 
-[^key-74f120f5f43d60a69677dbf3d371f165]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/159/regulation/4) omitted (8.2.2024) by virtue of [The Equality Act 2010 (Specific Duties) (Use of Member Information) (Scotland) Revocation Regulations 2023 (S.S.I. 2023/375)](https://www.legislation.gov.uk/ssi/2023/375), [regs. 1](https://www.legislation.gov.uk/ssi/2023/375/regulation/1), [3](https://www.legislation.gov.uk/ssi/2023/375/regulation/3)
+[^c-74f120f5f43d60a69677dbf3d371f165]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/159/regulation/4) omitted (8.2.2024) by virtue of [The Equality Act 2010 (Specific Duties) (Use of Member Information) (Scotland) Revocation Regulations 2023 (S.S.I. 2023/375)](https://www.legislation.gov.uk/ssi/2023/375), [regs. 1](https://www.legislation.gov.uk/ssi/2023/375/regulation/1), [3](https://www.legislation.gov.uk/ssi/2023/375/regulation/3)
 
-[^key-eafdf73cde88ea9482d02b36ab59ac7c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
+[^c-eafdf73cde88ea9482d02b36ab59ac7c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
 
-[^key-4032da4e4b9d77932ac35853b0e47586]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
+[^c-4032da4e4b9d77932ac35853b0e47586]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
 
-[^key-b4b26f0466befe6b4233a23553e240c2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)
+[^c-b4b26f0466befe6b4233a23553e240c2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 18.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/159/regulation/1)

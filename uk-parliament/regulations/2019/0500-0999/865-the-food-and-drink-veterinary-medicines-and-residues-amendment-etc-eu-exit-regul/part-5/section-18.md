@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Regulation [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council[^key-13f9b1876dc3397752daa3973ac21729]
+## 18. Regulation [(EC) No 470/2009](https://www.legislation.gov.uk/eur/2009/470) of the European Parliament and of the Council[^c-13f9b1876dc3397752daa3973ac21729]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
   > **1.**
   >
-  > The Secretary of State[^key-2357c00934b3f8809336bb05135036a9] must classify pharmacologically active substances in accordance with this Article.
+  > The Secretary of State[^c-2357c00934b3f8809336bb05135036a9] must classify pharmacologically active substances in accordance with this Article.
 
   ;
 - (b) in paragraph 3, for the words after “human health” to the end substitute “ , and when laying down a limit regard may be had to any international decisions in respect of that substance. ”;
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13f9b1876dc3397752daa3973ac21729]: Commencement: Reg. 18 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-13f9b1876dc3397752daa3973ac21729]: Commencement: Reg. 18 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-2357c00934b3f8809336bb05135036a9]: Textual amendment: Words in reg. 18(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [2(3)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/2/3)
+[^c-2357c00934b3f8809336bb05135036a9]: Textual amendment: Words in reg. 18(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Veterinary Medicines and Residues (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1461)](https://www.legislation.gov.uk/uksi/2020/1461), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/1/2/a), [2(3)](https://www.legislation.gov.uk/uksi/2020/1461/regulation/2/3)

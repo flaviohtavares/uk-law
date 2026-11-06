@@ -27,7 +27,7 @@ summary: ''
 
 the failure (or failures) shall be disregarded for all purposes (including, in particular, those of section 232A(c))[^c20396961].
 
-(2)[^key-81c2ff94ce4f4158e31e3514d3b6ddc3] The provisions are—
+(2)[^c-81c2ff94ce4f4158e31e3514d3b6ddc3] The provisions are—
 
 - (a) section 226B(5) (requirement to send contact information to scrutineer);
 - (b) section 227(1) (entitlement to vote in ballot);
@@ -51,4 +51,4 @@ the failure (or failures) shall be disregarded for all purposes (including, in p
 
 [^c20396961]: Textual amendment: Words in s. 232B(1) inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 24(1)(a)](https://www.legislation.gov.uk/ukpga/2004/24/section/24/1/a), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^key-81c2ff94ce4f4158e31e3514d3b6ddc3]: Textual amendment: S. 232B(2) substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(15)](https://www.legislation.gov.uk/uksi/2026/881/article/7/15) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-81c2ff94ce4f4158e31e3514d3b6ddc3]: Textual amendment: S. 232B(2) substituted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(15)](https://www.legislation.gov.uk/uksi/2026/881/article/7/15) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Temporary traffic regulation[^key-a52f1a5f4c4703b900eaf2dd03cfe026]
+## 58. Temporary traffic regulation[^c-a52f1a5f4c4703b900eaf2dd03cfe026]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ and the instrument by which it is effected may specify savings and exemptions to
 
 ## Annotations
 
-[^key-a52f1a5f4c4703b900eaf2dd03cfe026]: Commencement: Art. 58 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-a52f1a5f4c4703b900eaf2dd03cfe026]: Commencement: Art. 58 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00065]: Footnote: Section 32 was amended by Schedule 17 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and by paragraph 39 of Schedule 8 to the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).

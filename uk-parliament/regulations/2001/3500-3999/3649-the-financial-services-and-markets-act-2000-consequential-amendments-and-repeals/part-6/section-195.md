@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Restrictions on powers of building societies[^key-7c5df86b2ba427d3f0116de70879b751]
+## 195. Restrictions on powers of building societies[^c-7c5df86b2ba427d3f0116de70879b751]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c5df86b2ba427d3f0116de70879b751]: Commencement: Art. 195 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7c5df86b2ba427d3f0116de70879b751]: Commencement: Art. 195 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00137]: Footnote: Section 9A was inserted by the Building Societies Act 1997, section 10 and amended by [S.I. 2001/1826](https://www.legislation.gov.uk/uksi/2001/1826) and [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).

@@ -24,7 +24,7 @@ summary: ''
 
 (2)[^M_F_029123e9-be53-4faf-e431-fbf4d180236f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The Senedd[^key-60edd79c70d763519861630d1afb7962] may resolve that the disqualification of any person who was, or is alleged to have been, disqualified from being a Member of the Senedd[^key-9348d22b2d042136af6e1508e7843105] on a ground within section 16(1) [^M_F_e6129e40-0ba2-4827-fb37-8f48ba3d9d16]... is to be disregarded if it appears to the Senedd —
+(3) The Senedd[^c-60edd79c70d763519861630d1afb7962] may resolve that the disqualification of any person who was, or is alleged to have been, disqualified from being a Member of the Senedd[^c-9348d22b2d042136af6e1508e7843105] on a ground within section 16(1) [^M_F_e6129e40-0ba2-4827-fb37-8f48ba3d9d16]... is to be disregarded if it appears to the Senedd —
 
 - (a) that the ground has been removed, and
 - (b) that it is proper so to resolve.
@@ -42,8 +42,8 @@ summary: ''
 
 [^M_F_029123e9-be53-4faf-e431-fbf4d180236f]: Textual amendment: S. 17(1)(2) omitted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by virtue of [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 30(2)](https://www.legislation.gov.uk/anaw/2020/1/section/30/2), [42(1)(c)](https://www.legislation.gov.uk/anaw/2020/1/section/42/1)
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
-[^key-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
+[^c-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
 
 [^M_F_e6129e40-0ba2-4827-fb37-8f48ba3d9d16]: Textual amendment: Words in s. 17(3) omitted (15.1.2020 with effect for the purposes of a Senedd election at which the poll is held on or after 5.4.2021) by virtue of [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 30(3)](https://www.legislation.gov.uk/anaw/2020/1/section/30/3), [42(1)(c)](https://www.legislation.gov.uk/anaw/2020/1/section/42/1)

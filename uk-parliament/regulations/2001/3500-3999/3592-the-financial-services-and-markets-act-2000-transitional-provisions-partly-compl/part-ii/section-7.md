@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Notice of intention to refuse application for variation of limited prohibition under the 2BCD or ISD Regulations[^key-c7f3eb164746f3c120a4f342d3d7e591]
+## 7. Notice of intention to refuse application for variation of limited prohibition under the 2BCD or ISD Regulations[^c-c7f3eb164746f3c120a4f342d3d7e591]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ the notice of intention has effect after commencement as if it were a decision n
 
 ## Annotations
 
-[^key-c7f3eb164746f3c120a4f342d3d7e591]: Commencement: Art. 7 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-c7f3eb164746f3c120a4f342d3d7e591]: Commencement: Art. 7 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

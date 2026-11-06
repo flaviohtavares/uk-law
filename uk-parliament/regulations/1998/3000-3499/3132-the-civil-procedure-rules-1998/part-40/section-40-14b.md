@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.14B. Order of appeal court[^key-6bb064fbd254235aa0e493a227c9bf8a]
+## 40.14B. Order of appeal court[^c-6bb064fbd254235aa0e493a227c9bf8a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the Court of Appeal or High Court has heard and determined an appeal from 
 
 ## Annotations
 
-[^key-6bb064fbd254235aa0e493a227c9bf8a]: Textual amendment: Rules 40.14A, 40.14B inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [16(e)](https://www.legislation.gov.uk/uksi/2014/407/rule/16/e) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))
+[^c-6bb064fbd254235aa0e493a227c9bf8a]: Textual amendment: Rules 40.14A, 40.14B inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [16(e)](https://www.legislation.gov.uk/uksi/2014/407/rule/16/e) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. List of authorised schemes[^c24480861][^key-7b301ea6c307bd0863b552be8934262f]
+## 77. List of authorised schemes[^c24480861][^c-7b301ea6c307bd0863b552be8934262f]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^c24480861]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2021/1/section/77) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-7b301ea6c307bd0863b552be8934262f]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2021/1/section/77) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-7b301ea6c307bd0863b552be8934262f]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2021/1/section/77) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

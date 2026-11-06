@@ -62,7 +62,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No. 178
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-e8b27b66f722c4e6d979bbb9d7f3ef90]
+### 1. Citation, commencement and extent[^c-e8b27b66f722c4e6d979bbb9d7f3ef90]
 
 (1) These Regulations may be cited as the Plastic Materials and Articles in Contact with Food (Scotland) Regulations 2008, and come into force–
 
@@ -71,7 +71,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No. 178
 
 (2) These Regulations extend to Scotland only.
 
-### 2. Interpretation[^key-0ee32afb96ea9f191192cc3de436ae09]
+### 2. Interpretation[^c-0ee32afb96ea9f191192cc3de436ae09]
 
 (1) In these Regulations–
 
@@ -117,7 +117,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No. 178
 
 ## PART 2 — Requirements for Plastic Materials and Articles
 
-### 3. Restriction on the use, sale or import of plastic materials and articles[^key-46ef930b945b04bd579c7e2395e97d23]
+### 3. Restriction on the use, sale or import of plastic materials and articles[^c-46ef930b945b04bd579c7e2395e97d23]
 
 (1) No person may–
 
@@ -133,7 +133,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No. 178
 - (a) has been manufactured with a prohibited monomer as described in regulation 4(2) or a prohibited additive as described in regulation 5(2); or
 - (b) does not meet the required standards set out in regulation 6, 7, 8, 9, 10 or 11.
 
-### 4. Restriction on the use of monomers in the manufacture of plastic materials and articles[^key-8f4ff8ae5aac3a68b44a7be0177064c0]
+### 4. Restriction on the use of monomers in the manufacture of plastic materials and articles[^c-8f4ff8ae5aac3a68b44a7be0177064c0]
 
 (1) Subject to paragraphs (3), (4) and (5), no person may use any prohibited monomer in the manufacture of any plastic material or article.
 
@@ -161,7 +161,7 @@ and is of good technical quality.
 
 (6) Schedule 1 has effect to supplement this regulation.
 
-### 5. Restriction on the use of additives in the manufacture of plastic materials and articles[^key-82e6fb6d1ccc0ab77ade9db9d4cc385b]
+### 5. Restriction on the use of additives in the manufacture of plastic materials and articles[^c-82e6fb6d1ccc0ab77ade9db9d4cc385b]
 
 (1) Subject to paragraph (3) no person may use any prohibited additive in the manufacture of any plastic material or article.
 
@@ -178,7 +178,7 @@ and is of good technical quality.
 
 (4) Schedule 1 has effect to supplement this regulation.
 
-### 6. Required standard for non migration of constituents of monomers[^key-10ba0262385e105a8f64c454d9d962fb]
+### 6. Required standard for non migration of constituents of monomers[^c-10ba0262385e105a8f64c454d9d962fb]
 
 (1) Subject to paragraphs (2) and (3), where a migration limit expressed in mg/kg is indicated in column 4 of the relevant section of Section A or B of Annex II in relation to any monomer, a plastic material or article manufactured from that monomer meets the required standard under this regulation if it is not capable of transferring constituents of that monomer to food with which it may come into contact in quantities exceeding the appropriate limit, and for the purposes of this paragraph the appropriate limit is–
 
@@ -191,7 +191,7 @@ and is of good technical quality.
 
 (3) For plastic materials or articles brought or intended to be brought into contact with food for infants and young children the migration limits referred to in paragraph (1) shall always be applied in mg/kg.
 
-### 7. Required standard for non migration of constituents of additives[^key-8b9f359dff820856d6ddfc891d1860ab]
+### 7. Required standard for non migration of constituents of additives[^c-8b9f359dff820856d6ddfc891d1860ab]
 
 (1) Subject to paragraphs (2) and (3), where a migration limit expressed in mg/kg is indicated in column 4 of Section A or B of Annex III in relation to any additive, a plastic material or article manufactured containing that additive meets the required standard under this regulation if it is not capable of transferring constituents of that additive to food with which it may come into contact in quantities exceeding the appropriate limit, and for the purposes of this paragraph the appropriate limit is–
 
@@ -204,7 +204,7 @@ and is of good technical quality.
 
 (3) For plastic materials or articles brought or intended to be brought into contact with food for infants and young children the migration limits referred to in paragraph (1) shall always be applied in mg/kg.
 
-### 8. Required standard for products obtained by bacterial fermentation[^key-cb7152383e500d0589fa0328178aae44]
+### 8. Required standard for products obtained by bacterial fermentation[^c-cb7152383e500d0589fa0328178aae44]
 
 A product obtained by bacterial fermentation meets the required standard under this regulation if it is–
 
@@ -212,7 +212,7 @@ A product obtained by bacterial fermentation meets the required standard under t
 - (b) identified by PM/REF No, CAS No and name in columns 1, 2 and 3 respectively of Annex IV; and
 - (c) in compliance with the restrictions and specifications set out in column 4 of that Annex.
 
-### 9. Required standards relating to overall migration limits[^key-c1e72597b47193419dc6a5f397abca9e]
+### 9. Required standards relating to overall migration limits[^c-c1e72597b47193419dc6a5f397abca9e]
 
 (1) Subject to paragraph (5), a plastic material or article meets the required standard under this regulation if it is not capable of transferring its constituents to food with which it may come into contact in quantities exceeding the appropriate limit specified in paragraphs (2) to (4).
 
@@ -234,7 +234,7 @@ the appropriate limit is an overall migration limit of 10 milligrams per square 
 
 (6) In any proceedings for an offence under these Regulations where it is alleged that a plastic material or article does not comply with this regulation, the defences available in paragraph 10(2) of Schedule 2 are available as specified in that paragraph.
 
-### 10. Required standard for non migration of primary aromatic amines[^key-da06193ecc1d0201c79e4f8bfda39992]
+### 10. Required standard for non migration of primary aromatic amines[^c-da06193ecc1d0201c79e4f8bfda39992]
 
 (1) Subject to paragraph (4), a plastic material or article manufactured using primary aromatic amines meets the required standard under this regulation if it is not capable of transferring such amines (expressed as aniline) in a detectable quantity to food with which that plastic material or article may come into contact.
 
@@ -244,7 +244,7 @@ the appropriate limit is an overall migration limit of 10 milligrams per square 
 
 (4) The requirement in paragraph (1) does not apply to primary aromatic amines listed in the Directive.
 
-### 11. Required standard relating to plastic multi-layer materials and articles[^key-0ab30c011c23733ce668b87f1883b9ec]
+### 11. Required standard relating to plastic multi-layer materials and articles[^c-0ab30c011c23733ce668b87f1883b9ec]
 
 (1) Subject to paragraph (2), a plastic multi layer material or article meets the required standard if each layer of it complies with these Regulations.
 
@@ -260,7 +260,7 @@ the appropriate limit is an overall migration limit of 10 milligrams per square 
 
 (4) The migration of a substance mentioned in paragraph (2)(b) into a food or simulant must not exceed 0.01 mg/kg, measured and expressed in accordance with the requirements and specifications contained in Article 7a(3) of the Directive.
 
-### 12. Provisions relating to the use of certain epoxy derivatives (BADGE, BFDGE and NOGE)[^key-35fe63c454338e9aeaac487a4d75e446]
+### 12. Provisions relating to the use of certain epoxy derivatives (BADGE, BFDGE and NOGE)[^c-35fe63c454338e9aeaac487a4d75e446]
 
 (1) In this regulation–
 
@@ -293,7 +293,7 @@ the appropriate limit is an overall migration limit of 10 milligrams per square 
 
 (6) No person shall without reasonable excuse fail to comply with a request made under Article 6(4).
 
-### 13. Method of testing the capability of plastic materials or articles to transfer constituents, and methods of analysis[^key-452b819298d43db004490319ecae1cdf]
+### 13. Method of testing the capability of plastic materials or articles to transfer constituents, and methods of analysis[^c-452b819298d43db004490319ecae1cdf]
 
 (1) A plastic material or article shall be treated as capable of transferring constituents to food with which it may come into contact to the extent that such capability is established–
 
@@ -307,7 +307,7 @@ the appropriate limit is an overall migration limit of 10 milligrams per square 
 
 (4) The quantity of a constituent in a plastic material or article shall where applicable be determined in the manner specified in the sub paragraph of paragraph 8 of Annex II relating to the term “QM(T)”, “QMA” or “QMA(T)” as the case may be.
 
-### 14. Labelling and documentation[^key-a65d6b6cf5cc844e956581612bf05ad2]
+### 14. Labelling and documentation[^c-a65d6b6cf5cc844e956581612bf05ad2]
 
 (1) At marketing stages other than the retail stage a person who places on the market any plastic material or article or any substance intended for the manufacture of a plastic material or article must ensure that the plastic material or article or substance is accompanied by a written declaration which–
 
@@ -323,7 +323,7 @@ the appropriate limit is an overall migration limit of 10 milligrams per square 
 
 ## PART 3 — Execution and Enforcement
 
-### 15. Enforcement[^key-936d0370305bd028fca7bc35b4634fcb]
+### 15. Enforcement[^c-936d0370305bd028fca7bc35b4634fcb]
 
 Each food authority shall execute and enforce–
 
@@ -332,7 +332,7 @@ Each food authority shall execute and enforce–
 
 in its area.
 
-### 16. Offences and Penalties[^key-688ee9986552d03e2a54fc2e7e794849]
+### 16. Offences and Penalties[^c-688ee9986552d03e2a54fc2e7e794849]
 
 (1) Any person who–
 
@@ -358,7 +358,7 @@ is guilty of an offence.
 
 (6) A certificate stating that matter and purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
 
-### 17. General defences[^key-fd054211c5936397bc2a6b500dd77e34]
+### 17. General defences[^c-fd054211c5936397bc2a6b500dd77e34]
 
 (1) In any proceedings for an offence under these Regulations it shall, subject to paragraph (5), be a defence to prove that the accused took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by the accused or by a person under the accused’s control.
 
@@ -392,7 +392,7 @@ the accused has served on the prosecutor a notice in writing giving such informa
 
 (6) For the purposes of paragraph (2), “prepare” includes manufacture or subject to any form of treatment or process.
 
-### 18. Transitional defence relating to PVC gaskets containing epoxidised soybean oil[^key-65a54bd121b4f4d41ab7ac1a2789caf4]
+### 18. Transitional defence relating to PVC gaskets containing epoxidised soybean oil[^c-65a54bd121b4f4d41ab7ac1a2789caf4]
 
 (1) In any proceedings for an offence under regulation 3 concerning the sale of a glass jar–
 
@@ -412,7 +412,7 @@ it shall be a defence to prove the matters set out in paragraph (2).
 
 (3) No person shall without reasonable excuse fail to comply with a request made by the food authority to disclose the date signified by the coded indication mentioned in paragraph (2)(c).
 
-### 19. Other transitional defences and savings[^key-2469022f204d26e1298d2b45bd15bf9d]
+### 19. Other transitional defences and savings[^c-2469022f204d26e1298d2b45bd15bf9d]
 
 (1) Notwithstanding the revocation of the 1998 Regulations by regulation 24 of the 2006 Regulations, in relation to any plastic material or article–
 
@@ -441,7 +441,7 @@ shall apply in relation to offences under these Regulations as it applied to off
 - (b) in any case other than those mentioned in sub paragraph (a), that the act constituting the alleged offence was committed in relation to a plastic material or article which was manufactured or imported into the European Community before 1st May 2009; and
 - (c) that the matter constituting the alleged offence would not otherwise have constituted an offence under these Regulations if the amendments to the Directive made by Commission Directive [2007/19/EC](https://www.legislation.gov.uk/european/directive/2007/0019) had not been implemented in Scotland at the time the matter occurred.
 
-### 20. Procedure where a sample is to be analysed[^key-fbc587768570531fdda6d76546b7ef11]
+### 20. Procedure where a sample is to be analysed[^c-fbc587768570531fdda6d76546b7ef11]
 
 (1) An authorised officer who has procured a sample under section 29 of the Act and who considers it should be analysed shall divide the sample into three parts.
 
@@ -455,7 +455,7 @@ shall apply in relation to offences under these Regulations as it applied to off
 - (d) submit one part for analysis in accordance with section 30 of the Act; and
 - (e) retain one part for future submission under regulation 21.
 
-### 21. Secondary analysis by the Government Chemist[^key-5aba21573b37632f2b24d9dd81eb7cab]
+### 21. Secondary analysis by the Government Chemist[^c-5aba21573b37632f2b24d9dd81eb7cab]
 
 (1) Where a sample has been retained under regulation 20 and–
 
@@ -493,7 +493,7 @@ with a certificate specifying the results of the analysis.
 
 ## PART 4 — Application for Authorisation
 
-### 22. Applications for inclusion of an additive in the Community list of authorised additives[^key-090cbe4ccf9fc910dc43d9e38b50314b]
+### 22. Applications for inclusion of an additive in the Community list of authorised additives[^c-090cbe4ccf9fc910dc43d9e38b50314b]
 
 (1) This regulation applies where a person has made an application, including supporting data, for the inclusion of an eligible additive in the Community list referred to in Article 4 of the Directive before 1st January 2007.
 
@@ -503,7 +503,7 @@ with a certificate specifying the results of the analysis.
 
 ## PART 5 — General and Supplementary
 
-### 23. Application of provisions of the Act[^key-528e0023e8a6d3d2a686b2483339ecd8]
+### 23. Application of provisions of the Act[^c-528e0023e8a6d3d2a686b2483339ecd8]
 
 The following provisions of the Act apply for the purposes of these Regulations as they apply for the purposes of the Act–
 
@@ -514,11 +514,11 @@ The following provisions of the Act apply for the purposes of these Regulations 
 - (e) section 36A (offences by Scottish Partnerships)[^f00027]; and
 - (f) section 44 (protection of officers acting in good faith).
 
-### 24. Amendment to the Food Safety (Sampling and Qualifications) Regulations 1990[^key-1fb0b11a918ff256ce30dcf4d9d83fc7]
+### 24. Amendment to the Food Safety (Sampling and Qualifications) Regulations 1990[^c-1fb0b11a918ff256ce30dcf4d9d83fc7]
 
 In Schedule 1 (provisions to which these Regulations do not apply) to the Food Safety (Sampling and Qualifications) Regulations 1990[^f00024], for the title and reference of the 2006 Regulations substitute the title and reference of these Regulations.
 
-### 25. Amendments to the Materials and Articles in Contact with Food (Scotland) Regulations 2007[^key-99cb42ddc95be458e3b3de25d0bedd03]
+### 25. Amendments to the Materials and Articles in Contact with Food (Scotland) Regulations 2007[^c-99cb42ddc95be458e3b3de25d0bedd03]
 
 (1) The 2007 Regulations are amended in accordance with paragraphs (2) to (4).
 
@@ -535,7 +535,7 @@ In Schedule 1 (provisions to which these Regulations do not apply) to the Food S
 
 (4) In regulation 11, in paragraph (5) for “2006” substitute “2008”.
 
-### 26. Revocations[^key-018e96750dc9e2e0e1ec172018290aeb][^key-a30de36dee2c81c56367c8ea64997901]
+### 26. Revocations[^c-018e96750dc9e2e0e1ec172018290aeb][^c-a30de36dee2c81c56367c8ea64997901]
 
 The following are revoked–
 
@@ -557,16 +557,16 @@ Edinburgh
 
 Regulations 4 and 5
 
-**1.**[^key-a186f9e13f0ab1beedae7cd0292eed7c] In Sections A and B of Annexes II and III (in this Schedule referred to together as “the Annexes”)–
+**1.**[^c-a186f9e13f0ab1beedae7cd0292eed7c] In Sections A and B of Annexes II and III (in this Schedule referred to together as “the Annexes”)–
 
 - (a) the PM/REF No of any substance is its EEC packaging material reference number;
 - (b) the CAS No of any substance is its CAS (Chemical Abstracts Service) Registry Number;
 - (c) the name of any substance is its chemical name, and to the extent that there is any inconsistency between the CAS number and the name, the name shall take precedence over the CAS number; and
 - (d) references to specific migration are to be taken to mean specific migration as measured in accordance with Schedules 2 and 3.
 
-**2.**[^key-d2b6be9376cc093e8a9a432b4b8c9d86] If a substance appearing in the Annexes as an individual compound also falls within a generic term which appears therein, any restriction applying to that substance shall be that indicated for the individual compound and the entry applying to the generic term shall be treated as varied to the extent necessary.
+**2.**[^c-d2b6be9376cc093e8a9a432b4b8c9d86] If a substance appearing in the Annexes as an individual compound also falls within a generic term which appears therein, any restriction applying to that substance shall be that indicated for the individual compound and the entry applying to the generic term shall be treated as varied to the extent necessary.
 
-**3.**[^key-9eeb01d1b5db8f63ef853fdba7d90d1d] (1) The items identified in Section A or B of Annex II shall be taken to include–
+**3.**[^c-9eeb01d1b5db8f63ef853fdba7d90d1d] (1) The items identified in Section A or B of Annex II shall be taken to include–
 
 - (a) substances undergoing polymerisation (including polycondensation, polyaddition or any other similar process) to manufacture macromolecules;
 - (b) natural or synthetic macromolecular substances used in the manufacture of modified macromolecules, if the monomers required to synthesise them are not so identified; and
@@ -579,19 +579,19 @@ Regulations 4 and 5
 - (a) substances whose name contains “ acid(s), salts” which appear in the lists, if the corresponding free acid(s) is or are not mentioned; and
 - (b) substances referred to in note 38 of Annex VI.
 
-**4.**[^key-6a11954dc66089427065219e487a360b] In the case of substances listed in Section B of Annex III, the specific migration limits listed in column 4 shall have effect where the verification of compliance is carried out in Simulant D or in test media of substitute tests as prescribed in Directives 82/711 and 85/572.
+**4.**[^c-6a11954dc66089427065219e487a360b] In the case of substances listed in Section B of Annex III, the specific migration limits listed in column 4 shall have effect where the verification of compliance is carried out in Simulant D or in test media of substitute tests as prescribed in Directives 82/711 and 85/572.
 
-**5.**[^key-01e4c56d21eaff62f3a0b5acf86ab565] Where an entry in column 4 of the Annexes (restrictions and specifications) includes a bracketed number, that entry shall be subject to a note relating to that number as set out in Annex VI.
+**5.**[^c-01e4c56d21eaff62f3a0b5acf86ab565] Where an entry in column 4 of the Annexes (restrictions and specifications) includes a bracketed number, that entry shall be subject to a note relating to that number as set out in Annex VI.
 
 ## SCHEDULE 2 — Provisions Applicable when Testing Compliance with the Migration Limits
 
 Regulations 9 and 13
 
-### 1. General Provisions[^key-a6516abf9e2e587be80c594a582ac639]
+### 1. General Provisions[^c-a6516abf9e2e587be80c594a582ac639]
 
 When the results of the migration tests specified in this Schedule and, where appropriate Schedule 3, are analytically determined, the specific gravity of any simulants used shall be assumed to be 1, so that milligrams of any substance released per litre of simulant will correspond numerically to milligrams of that substance released per kilogram of that simulant.
 
-**2.**[^key-0b7ac4298f6ad42ef80395ab092d8d7e] Where any migration test specified in this Schedule and, where appropriate, Schedule 3 is carried out on any sample taken from any plastic material or article and the quantities of food or simulant placed in contact with the sample differ from those employed in the actual conditions under which the plastic material or article is used or is to be used, the results obtained should be corrected by applying the formula M = (( m.a<sub>2</sub>/a<sub>1</sub>.q).1000) where–
+**2.**[^c-0b7ac4298f6ad42ef80395ab092d8d7e] Where any migration test specified in this Schedule and, where appropriate, Schedule 3 is carried out on any sample taken from any plastic material or article and the quantities of food or simulant placed in contact with the sample differ from those employed in the actual conditions under which the plastic material or article is used or is to be used, the results obtained should be corrected by applying the formula M = (( m.a<sub>2</sub>/a<sub>1</sub>.q).1000) where–
 
 - (a) M is the migration in mg/kg;
 - (b) m is the mass in the mg of substance released by the sample as determined by the migration test;
@@ -599,7 +599,7 @@ When the results of the migration tests specified in this Schedule and, where ap
 - (d) a<sub>2</sub> is the surface area in square decimetres of the plastic material or article in actual conditions of use; and
 - (e) q is the quantity in grams of food in contact with the plastic material or article in actual conditions of use.
 
-**3.**[^key-6eb236d4376d570debb15e960c4e4dd2] (1) Subject to sub paragraph (2), any testing of migration from any plastic material or article shall be carried out on that plastic material or article.
+**3.**[^c-6eb236d4376d570debb15e960c4e4dd2] (1) Subject to sub paragraph (2), any testing of migration from any plastic material or article shall be carried out on that plastic material or article.
 
 (2) In any case where determination in accordance with sub paragraph (1) is impracticable, such testing shall be carried out, using either specimens taken from that plastic material or article, or where appropriate, specimens representative of that plastic material or article.
 
@@ -607,7 +607,7 @@ When the results of the migration tests specified in this Schedule and, where ap
 
 (4) Any migration testing of caps, gaskets, stoppers or similar devices for sealing shall be carried out on these articles by applying them to the containers for which they are intended in a manner which corresponds to the conditions of closing in normal or foreseeable use.
 
-**4.**[^key-1d6ce634b4db8b9b61d75cc3f2a1ac51] (1) Any sample of plastic material or article shall be placed in contact with the appropriate simulant or the food for a period and at a temperature which are chosen by reference to the contact conditions in actual use in accordance with the provisions of this Schedule and, where appropriate, Schedule 3.
+**4.**[^c-1d6ce634b4db8b9b61d75cc3f2a1ac51] (1) Any sample of plastic material or article shall be placed in contact with the appropriate simulant or the food for a period and at a temperature which are chosen by reference to the contact conditions in actual use in accordance with the provisions of this Schedule and, where appropriate, Schedule 3.
 
 (2) At the end of the period referred to in sub paragraph (1), analytical determination of the total quantity of substances (overall migration), each specific quantity of a substance (specific migration) or, as the case may be, both that total and that specific quantity released by the sample shall be carried out on the simulant or food, as the case may be.
 
@@ -615,9 +615,9 @@ When the results of the migration tests specified in this Schedule and, where ap
 
 (4) Verification that migration into food simulants complies with a migration limit specified in regulation 9 or the Annexes shall be carried out in accordance with the provisions of this Schedule and using conventional migration tests, the basic rules for which are set out in Schedule 3.
 
-**5.**[^key-ad2f3fde950bb3187af443f5cc753f3a] Where a plastic material or article is intended to come into repeated contact with food, any migration test shall (subject to paragraph 7) be carried out three times on a single sample in accordance with the conditions laid down in this Schedule and, where appropriate, Schedule 3 using separate samples of the simulant or, as the case may be food, on each occasion, and the level of the migration found in the third test shall be treated as the level relevant to that test.
+**5.**[^c-ad2f3fde950bb3187af443f5cc753f3a] Where a plastic material or article is intended to come into repeated contact with food, any migration test shall (subject to paragraph 7) be carried out three times on a single sample in accordance with the conditions laid down in this Schedule and, where appropriate, Schedule 3 using separate samples of the simulant or, as the case may be food, on each occasion, and the level of the migration found in the third test shall be treated as the level relevant to that test.
 
-### 6. Special provisions relating to the fat reduction factor[^key-5ed316d680a006175f82f84446501e76]
+### 6. Special provisions relating to the fat reduction factor[^c-5ed316d680a006175f82f84446501e76]
 
 (1) Subject to paragraph 7, the results of tests for specific migration in foods containing more than 20% fat shall be corrected by the fat reduction factor (“FRF”), being a factor between 1 and 5 (expressed as M<sub>FRF</sub>) by which measured migration of lipophilic substances listed in Annex IVa into a fatty food or stimulant D and its substitutes are divided before comparison with specific migration limits.
 
@@ -626,7 +626,7 @@ When the results of the migration tests specified in this Schedule and, where ap
 - (a) M<sub>FRF</sub> = M/FRF, and
 - (b) FRF = (g fat in food/kg of food)/200 = (% fat × 5)/100.
 
-**7.**[^key-2c32571bed5bdfdc86832e7342842b72] (1) Correction by the FRF does not apply–
+**7.**[^c-2c32571bed5bdfdc86832e7342842b72] (1) Correction by the FRF does not apply–
 
 - (a) where the plastic material or article is or is intended to be brought into contact with foods intended for infants and young children;
 - (b) for substances listed in the Annexes having a restriction in column (4) of SML = ND;
@@ -642,9 +642,9 @@ When the results of the migration tests specified in this Schedule and, where ap
 
 and, provided the value resulting from the calculation under either sub paragraph (a) or (b) is below the SML, the plastic material or article shall be considered to be in compliance.
 
-**8.**[^key-c39f46f7768491e768b5af487c81acb1] If use of the FRF under paragraph 6 or 7(2) produces a result that indicates the overall migration limit has been exceeded, the material or article in question shall not be considered to be in compliance.
+**8.**[^c-c39f46f7768491e768b5af487c81acb1] If use of the FRF under paragraph 6 or 7(2) produces a result that indicates the overall migration limit has been exceeded, the material or article in question shall not be considered to be in compliance.
 
-### 9. Special provisions relating to the correction of specific migration in stimulant D[^key-e9aee0cc01add15492aa776a5123a596]
+### 9. Special provisions relating to the correction of specific migration in stimulant D[^c-e9aee0cc01add15492aa776a5123a596]
 
 The specific migration of those lipophilic substances listed in Annex IVa into stimulant D and its substitutes shall be corrected by–
 
@@ -656,7 +656,7 @@ The specific migration of those lipophilic substances listed in Annex IVa into s
   - (i) by which a measured specific migration into stimulant D or a substitute shall be divided before comparison with the specific migration limit, and
   - (ii) which is obtained by multiplying the DRF by the FRF with a maximum value of 5, when both factors are applicable.
 
-### 10. Special provisions relating to overall migration[^key-66b7a5a03a05c983d9a76acf3ed9264a]
+### 10. Special provisions relating to overall migration[^c-66b7a5a03a05c983d9a76acf3ed9264a]
 
 (1) Subject to sub paragraph (2), any method of analytical determination may be used to prove excess of an overall migration limit in relation to a plastic material or article.
 
@@ -671,7 +671,7 @@ The specific migration of those lipophilic substances listed in Annex IVa into s
 
   there would have been no such excess so determined.
 
-**11.**[^key-f53bf1d8e4b045e7a2f9a70866762ea9] (1) Where a plastic material or article is intended to come into repeated contact with food and it is technically impossible to carry out the test described in paragraph 5, the test shall be modified in accordance with sub paragraph (2) or in such other way so as to enable the level of migration occurring during the third such test to be determined, and such a determination may be used as evidence of the overall migration in relation to a plastic material or article.
+**11.**[^c-f53bf1d8e4b045e7a2f9a70866762ea9] (1) Where a plastic material or article is intended to come into repeated contact with food and it is technically impossible to carry out the test described in paragraph 5, the test shall be modified in accordance with sub paragraph (2) or in such other way so as to enable the level of migration occurring during the third such test to be determined, and such a determination may be used as evidence of the overall migration in relation to a plastic material or article.
 
 (2) Three identical samples of the plastic material or article are to be procured, following which–
 
@@ -680,14 +680,14 @@ The specific migration of those lipophilic substances listed in Annex IVa into s
 
 (3) Where a modified test has been carried out in accordance with sub paragraph (2), provided that either M<sub>1</sub> or M<sub>3</sub>– M<sub>2</sub> did not exceed the overall migration limit, the plastic material or article subjected to the test shall be deemed to be in compliance with that limit.
 
-**12.**[^key-aa12cf703c83e93b80f717a30bdc17a2] (1) Any plastic material or article which exceeds its overall migration limit by an amount not exceeding the analytical tolerance specified in sub paragraph (2) shall be deemed for the purposes of these Regulations not to exceed its overall migration limit.
+**12.**[^c-aa12cf703c83e93b80f717a30bdc17a2] (1) Any plastic material or article which exceeds its overall migration limit by an amount not exceeding the analytical tolerance specified in sub paragraph (2) shall be deemed for the purposes of these Regulations not to exceed its overall migration limit.
 
 (2) The following analytical tolerances shall be applied for limits of overall migration–
 
 - (a) 20 mg/kg or, as the case may be, 3 milligrams per square decimetre in migration tests using as a simulant rectified olive oil or substitutes;
 - (b) 12 mg/kg or, as the case may be, 2 milligrams per square decimetre in migration tests using other simulants referred to in Schedule 3.
 
-### 13. Special provisions relating to caps, lids, gaskets, stoppers and similar sealing articles[^key-fc8dfafac9eb072539dc029258e51cf2]
+### 13. Special provisions relating to caps, lids, gaskets, stoppers and similar sealing articles[^c-fc8dfafac9eb072539dc029258e51cf2]
 
 (1) If the intended use is known, caps, lids, gaskets, stoppers and similar sealing articles shall be tested by applying them to the containers for which they are intended under conditions of closure corresponding to the normal or foreseeable use and on the assumption that such articles are in contact with a quantity of food filling the container.
 
@@ -704,13 +704,13 @@ Regulations 9 and 13
 
 ### PART 1 — Basic Rules
 
-**1.**[^key-c3c7f57cced14910f7a52c6bf2246bce] Subject to paragraphs 2, 3 and 4 of this Part, migration tests for the determination of specific and overall migration shall be carried out using the food simulants specified in Parts 2, 3 and, where appropriate 4, and under conventional migration test conditions as specified in Part 5.
+**1.**[^c-c3c7f57cced14910f7a52c6bf2246bce] Subject to paragraphs 2, 3 and 4 of this Part, migration tests for the determination of specific and overall migration shall be carried out using the food simulants specified in Parts 2, 3 and, where appropriate 4, and under conventional migration test conditions as specified in Part 5.
 
-**2.**[^key-735dc1fcf9b9b6a11831dcf608ce0b9d] Subject to paragraphs 3 and 4 of this Part, substitute tests which use test media under the conventional substitute test conditions as specified in Part 6 shall be carried out if the migration test using the fatty food simulants specified in Part 3 is not feasible for technical reasons connected with the method of analysis.
+**2.**[^c-735dc1fcf9b9b6a11831dcf608ce0b9d] Subject to paragraphs 3 and 4 of this Part, substitute tests which use test media under the conventional substitute test conditions as specified in Part 6 shall be carried out if the migration test using the fatty food simulants specified in Part 3 is not feasible for technical reasons connected with the method of analysis.
 
-**3.**[^key-0816069a46588d7738732b902bfd9b1b] Subject to paragraph 4 of this Part, alternative tests as specified in Part 7 may be used instead of the migration test with fatty food simulants specified in Part 3 but the results of such alternative tests may not be used to determine compliance with a migration limit unless the conditions specified in Part 7 are fulfilled.
+**3.**[^c-0816069a46588d7738732b902bfd9b1b] Subject to paragraph 4 of this Part, alternative tests as specified in Part 7 may be used instead of the migration test with fatty food simulants specified in Part 3 but the results of such alternative tests may not be used to determine compliance with a migration limit unless the conditions specified in Part 7 are fulfilled.
 
-**4.**[^key-2e1a8e41227764333f4baf855655ea86] In migration testing it is permissible to–
+**4.**[^c-2e1a8e41227764333f4baf855655ea86] In migration testing it is permissible to–
 
 - (a) reduce the number of tests to be carried out to that or those which, in the specific case under examination, is or are generally recognised to be the most severe on the basis of scientific evidence;
 - (b) omit the migration, the substitute or the alternative tests where–
@@ -719,7 +719,7 @@ Regulations 9 and 13
 
 ### PART 2 — Food Simulants to be used in Migration Testing
 
-**1.**[^key-d6a52f56c0092ac4901b9ca506c354d5] Subject to Parts 3, 4, 5 and 7, the simulants to be used in migration testing are specified in the Table to this paragraph (referred to in this Part as “the Table”).
+**1.**[^c-d6a52f56c0092ac4901b9ca506c354d5] Subject to Parts 3, 4, 5 and 7, the simulants to be used in migration testing are specified in the Table to this paragraph (referred to in this Part as “the Table”).
 
 <table>
 <thead>
@@ -734,16 +734,16 @@ Regulations 9 and 13
 </tbody>
 </table>
 
-**2.**[^key-15d52a872cb50d9ff58eb4729411dc84] For the purposes of this Schedule a reference to an abbreviation in column 1 of the Table shall mean a reference to the simulant in column 1 of that Table opposite that abbreviation.
+**2.**[^c-15d52a872cb50d9ff58eb4729411dc84] For the purposes of this Schedule a reference to an abbreviation in column 1 of the Table shall mean a reference to the simulant in column 1 of that Table opposite that abbreviation.
 
-**3.**[^key-c320396c2e92c0accf9e4094de24b495] The characteristics of rectified olive oil referred to in the Table are–
+**3.**[^c-c320396c2e92c0accf9e4094de24b495] The characteristics of rectified olive oil referred to in the Table are–
 
 - (a) Iodine value (Wijs) = 80 to 88
 - (b) Refractive index at 25°C = 1.4665 to 1.4679
 - (c) Acidity (expressed as % of oleic acid) = 0.5% maximum
 - (d) Peroxide number (expressed as oxygen milli equivalents per kg of oil) = 10 maximum
 
-**4.**[^key-f5a0b0b9b00378ab5986dd42a4cad759] The fatty food simulants referred to in the Table are–
+**4.**[^c-f5a0b0b9b00378ab5986dd42a4cad759] The fatty food simulants referred to in the Table are–
 
 - (a) corn oil with standardised specifications;
 - (b) sunflower oil, the characteristics of which are–
@@ -784,15 +784,15 @@ Regulations 9 and 13
   </tbody>
   </table>
 
-**5.**[^key-c9a2624defe1802066f3457255c5e1e5] Where fatty food simulant specified in paragraph 4 is used in migration testing and the result of that test shows that a plastic material or article does not comply with any migration limit specified in regulation 9 or the Annexes, verification that the plastic material or article does not comply with the specified migration shall be carried out by testing that material or article using olive oil if such testing is technically feasible, and if such testing is not technically feasible the plastic material or article shall be deemed not to comply with the specified migration limit.
+**5.**[^c-c9a2624defe1802066f3457255c5e1e5] Where fatty food simulant specified in paragraph 4 is used in migration testing and the result of that test shows that a plastic material or article does not comply with any migration limit specified in regulation 9 or the Annexes, verification that the plastic material or article does not comply with the specified migration shall be carried out by testing that material or article using olive oil if such testing is technically feasible, and if such testing is not technically feasible the plastic material or article shall be deemed not to comply with the specified migration limit.
 
 ### PART 3 — Selection of Food Simulants
 
-#### 1. Testing, reduction factors and definition of food types[^key-eddcf4a4a1e70384d2d99a35fc6e90c4]
+#### 1. Testing, reduction factors and definition of food types[^c-eddcf4a4a1e70384d2d99a35fc6e90c4]
 
 The testing of plastic materials and articles shall be carried out under the test conditions specified in Part 5 using a simulant or simulants selected in accordance with this Part and taking a new test specimen of the plastic material or article for each simulant used.
 
-**2.**[^key-75ca65818e928aad0fa24e5b9f95ef63] (1) Where a test is carried out on a plastic material or article intended to come into contact with more than one food or group of foods and a reduction factor is specified for one or more of those foods or groups of foods which is not equivalent to the reduction factor specified for one or more of the other foods or groups of foods with which the plastic material or article is intended to come into contact–
+**2.**[^c-75ca65818e928aad0fa24e5b9f95ef63] (1) Where a test is carried out on a plastic material or article intended to come into contact with more than one food or group of foods and a reduction factor is specified for one or more of those foods or groups of foods which is not equivalent to the reduction factor specified for one or more of the other foods or groups of foods with which the plastic material or article is intended to come into contact–
 
 - (a) the reduction factor specified for each food or group of foods, as appropriate, shall be applied to the test result; and
 - (b) the plastic material or article shall be treated as being capable of transferring its constituents to food with which it may come into contact in excess of a migration limit specified in regulation 9 or the Annexes if, following application of those specified reduction factors, one or more of the results show that the material or article does not comply with that specified migration limit.
@@ -805,7 +805,7 @@ The testing of plastic materials and articles shall be carried out under the tes
   - (ii) “X” is placed in a column headed by a specified simulant opposite that food or group of foods followed by an oblique stroke and a reduction factor;
 - (c) a reduction factor shall be applied to a test result by dividing the result by that reduction factor.
 
-**3.**[^key-d54491da2cbb4edffafb446cebf32f31] Food types are defined in Table 1 as follows–
+**3.**[^c-d54491da2cbb4edffafb446cebf32f31] Food types are defined in Table 1 as follows–
 
 **Table 1:**
 
@@ -819,11 +819,11 @@ Food types
 | Fatty foods | Foods in relation to which stimulant D only is specified in the Table to Part 4 |
 | Dry Foods | Foods in relation to which no simulant is specified in the Table to Part 4 |
 
-#### 4. Selection of simulants for testing materials and articles intended for contact with all food types[^key-43ed6b78e79c90ca4bdfeccd8532ea77]
+#### 4. Selection of simulants for testing materials and articles intended for contact with all food types[^c-43ed6b78e79c90ca4bdfeccd8532ea77]
 
 The simulants to be used in testing a plastic material or article which is intended for contact with all food types are stimulant B, stimulant C and stimulant D which, at the test conditions specified in Part 5, are considered to be more severe.
 
-#### 5. Selection of simulants for testing materials and articles which are already in contact with a known food[^key-b3b35c0ce9612047f72f3aa1f940e535]
+#### 5. Selection of simulants for testing materials and articles which are already in contact with a known food[^c-b3b35c0ce9612047f72f3aa1f940e535]
 
 The simulant or simulants to be used in testing a plastic material or article which is already in contact with a known food shall be–
 
@@ -838,16 +838,16 @@ The simulant or simulants to be used in testing a plastic material or article wh
 
   the simulant or simulants in column 2 of Table 2 opposite the description of food in column 1 of that Table which corresponds most closely to the known food.
 
-#### 6. Selection of simulants for testing materials and articles which are accompanied by a specific indication[^key-f6bd251c9b3a8b5da4fb6e6b06916722]
+#### 6. Selection of simulants for testing materials and articles which are accompanied by a specific indication[^c-f6bd251c9b3a8b5da4fb6e6b06916722]
 
 The simulant or simulants to be used in testing a plastic material or article which, pursuant to Regulation 1935/2004 is accompanied by a specific indication stating any type or types of food described in Table 1 with which it may or may not be used shall be the simulant or simulants in column 2 of Table 2 opposite the contact food in column 1 of that Table which corresponds most closely to the type or types of food with which it may be used, as identified by the indication which accompanies the plastic material or article.
 
-**7.**[^key-8a225e169686dca74143d8dd3ca637e2] The simulant or simulants to be used in testing a plastic material or article which, pursuant to Regulation 1935/2004, is accompanied by a specific indication, expressed in accordance with paragraph 8, stating any food or group of foods described in the Table to Part 4 with which it may or may not be used shall be–
+**7.**[^c-8a225e169686dca74143d8dd3ca637e2] The simulant or simulants to be used in testing a plastic material or article which, pursuant to Regulation 1935/2004, is accompanied by a specific indication, expressed in accordance with paragraph 8, stating any food or group of foods described in the Table to Part 4 with which it may or may not be used shall be–
 
 - (a) where the indication states that the plastic material or article may be used with a food or group of foods described in column 2 of the Table to Part 4, the food simulant or food simulants which, for the purposes of Part 4, is or are specified in relation to that food or group of foods;
 - (b) where the indication states that the plastic material or article should not be used with any food or group of foods described in column 2 of Table to Part 4, a simulant other than the one specified for the purposes of Part 4 in relation to that food or group of foods.
 
-**8.**[^key-186bf2ab9f4ca5ac40bcfdfdc0d082b7] A specific indication referred to in paragraph 7 is expressed in accordance with this paragraph if it is expressed–
+**8.**[^c-186bf2ab9f4ca5ac40bcfdfdc0d082b7] A specific indication referred to in paragraph 7 is expressed in accordance with this paragraph if it is expressed–
 
 - (a) at a marketing stage other than retail, by using the reference number in column 1 of the Table to Part 4 or the description of food in column 2 of that Table which, in either case, corresponds to the food;
 - (b) at the retail stage, by using an indication which refers to only a few foods or groups of foods described in the Table to Part 4.
@@ -872,25 +872,25 @@ The simulant or simulants to be used in testing a plastic material or article wh
 
 ### PART 4 — Simulants to be used in relation to a Specific Food or Group of Foods
 
-**1.**[^key-6d1fc10b7029fcd1de3f872e987e035c] For the purposes of this Schedule a simulant is specified in relation to a specific food or a specific group of foods where “X” is placed in the column headed by that simulant opposite that specific food or specific group of foods in the Table to this Part, and the Table shall be read in conjunction with the notes to it and with paragraphs 2 to 5.
+**1.**[^c-6d1fc10b7029fcd1de3f872e987e035c] For the purposes of this Schedule a simulant is specified in relation to a specific food or a specific group of foods where “X” is placed in the column headed by that simulant opposite that specific food or specific group of foods in the Table to this Part, and the Table shall be read in conjunction with the notes to it and with paragraphs 2 to 5.
 
-**2.**[^key-a36bc266147e3f2e5ec92cc04c325e5a] For the purposes of this Part–
+**2.**[^c-a36bc266147e3f2e5ec92cc04c325e5a] For the purposes of this Part–
 
 - (a) a reduction factor is the figure which follows an “X” and oblique stroke in the group of columns headed “Simulants to be used” in the Table to this Part;
 - (b) a reduction factor is specified in relation to a specific food or group of foods where, in the Table–
   - (i) the food or group of foods is described in the column headed “Description of food”; and
   - (ii) “X” is placed in a column headed by a specified simulant opposite that food or group of foods followed by an oblique stroke and a reduction factor.
 
-**3.**[^key-910073856ae8556efd549081425fc642] Where a reduction factor is specified in the Table in relation to a specific food or a specific group of foods, that reduction factor shall be applied to the result of any migration test using the simulant specified in relation to that food or group of foods by dividing the result of the test by the reduction factor.
+**3.**[^c-910073856ae8556efd549081425fc642] Where a reduction factor is specified in the Table in relation to a specific food or a specific group of foods, that reduction factor shall be applied to the result of any migration test using the simulant specified in relation to that food or group of foods by dividing the result of the test by the reduction factor.
 
-**4.**[^key-3723fc480b4e46ce19a6fb29d83d3c9f] (1) Where the letter “a” is shown in brackets after the “X”, only one of the two simulants specified shall be used in the migration test, that is to say–
+**4.**[^c-3723fc480b4e46ce19a6fb29d83d3c9f] (1) Where the letter “a” is shown in brackets after the “X”, only one of the two simulants specified shall be used in the migration test, that is to say–
 
 - (a) if the pH value of the food is higher than 4.5, stimulant A shall be used;
 - (b) if the pH value of the foodstuff is 4.5 or less, stimulant B shall be used.
 
 (2) Where the letter “b” is shown in brackets after the “X”, the indicated text shall be carried out with ethanol 50% (v/v).
 
-**5.**[^key-2b3259e94bd5c8517d3e67a1644e6668] Where a food is listed in the Table under both a specific and a general heading, the simulant relating to the specific heading is the simulant which falls to be used for the migration test.
+**5.**[^c-2b3259e94bd5c8517d3e67a1644e6668] Where a food is listed in the Table under both a specific and a general heading, the simulant relating to the specific heading is the simulant which falls to be used for the migration test.
 
 <table>
 <thead>
@@ -1035,27 +1035,27 @@ The simulant or simulants to be used in testing a plastic material or article wh
 
 ### PART 5 — Migration Test Conditions (Times and Temperatures)
 
-#### 1. General criteria[^key-c6500c48c374fe3cc73953071641b3e8]
+#### 1. General criteria[^c-c6500c48c374fe3cc73953071641b3e8]
 
 Subject to paragraphs 2, 4, 6 and 7 and to paragraph 4.4 to this Part of Chapter II of the Annex to Directive 82/711, when carrying out migration tests the time and temperature used shall be the time and temperature selected from column 2 of the Table which correspond to the worst foreseeable conditions of contact specified in column 1 of that Table for the plastic material or article being tested and to any labelling information on maximum temperature for use.
 
-**2.**[^key-4655d4c5bcdee6d40caa255b4245bb36] Where the plastic material or article being tested is intended for a food contact application covered by a combination of two or more times and temperatures specified in column 2 of the Table to this Part, the migration test shall be carried out by subjecting the test specimen successively to all the applicable worst foreseeable conditions appropriate to the sample, using the same portion of food simulant.
+**2.**[^c-4655d4c5bcdee6d40caa255b4245bb36] Where the plastic material or article being tested is intended for a food contact application covered by a combination of two or more times and temperatures specified in column 2 of the Table to this Part, the migration test shall be carried out by subjecting the test specimen successively to all the applicable worst foreseeable conditions appropriate to the sample, using the same portion of food simulant.
 
-**3.**[^key-e4f84728d5d3af5188ff43b263561664] For the purposes of this Part the worst foreseeable conditions of contact are those which are recognised to be the most severe on the basis of scientific evidence.
+**3.**[^c-e4f84728d5d3af5188ff43b263561664] For the purposes of this Part the worst foreseeable conditions of contact are those which are recognised to be the most severe on the basis of scientific evidence.
 
-#### 4. Volatile migrants[^key-12d4e33cef93db67858042ed5336042b]
+#### 4. Volatile migrants[^c-12d4e33cef93db67858042ed5336042b]
 
 When carrying out a test of the specific migration of volatile substances any test using a simulant shall be performed in a manner which recognises the loss of volatile migrants which may occur in the worst foreseeable conditions of use.
 
-#### 5. Special cases[^key-b1643ee5ca65e9079e37848dbb9e5955]
+#### 5. Special cases[^c-b1643ee5ca65e9079e37848dbb9e5955]
 
 When carrying out a migration test of a plastic material or article which is intended for use in a microwave oven, if the appropriate time and temperature is selected from the table to this Part, either a conventional oven or a microwave oven may be used.
 
-**6.**[^key-ec585e8649548c889536c2189954b127] Where the carrying out of a migration test under contact conditions specified in the Table to this Part causes any physical or other change in the test specimen which does not occur under the worst foreseeable conditions of use of the plastic material or article being tested, the migration test shall be carried out in the worst foreseeable conditions of use in which such physical or other change does not occur.
+**6.**[^c-ec585e8649548c889536c2189954b127] Where the carrying out of a migration test under contact conditions specified in the Table to this Part causes any physical or other change in the test specimen which does not occur under the worst foreseeable conditions of use of the plastic material or article being tested, the migration test shall be carried out in the worst foreseeable conditions of use in which such physical or other change does not occur.
 
-**7.**[^key-dc6ee5776fb4877a9767163cc3ae7670] Where, in actual use, the plastic material or article being tested is intended to be used for periods of less than 15 minutes at any temperature of not less than 70°C and not more than 100°C and such use is indicated by appropriate labelling or instructions no test other than for 2 hours at 70°C shall be carried out on the plastic material or article unless the plastic material or article is also intended to be used or storage at room temperature in which case no test other than for 10 days test at 40°C shall be carried out.
+**7.**[^c-dc6ee5776fb4877a9767163cc3ae7670] Where, in actual use, the plastic material or article being tested is intended to be used for periods of less than 15 minutes at any temperature of not less than 70°C and not more than 100°C and such use is indicated by appropriate labelling or instructions no test other than for 2 hours at 70°C shall be carried out on the plastic material or article unless the plastic material or article is also intended to be used or storage at room temperature in which case no test other than for 10 days test at 40°C shall be carried out.
 
-**8.**[^key-31a880f1e03fba83df1d13b7c3c56764] The Table to this part shall be read with the notes to it.
+**8.**[^c-31a880f1e03fba83df1d13b7c3c56764] The Table to this part shall be read with the notes to it.
 
 <table>
 <thead>
@@ -1091,21 +1091,21 @@ When carrying out a migration test of a plastic material or article which is int
 
 ### PART 6 — Substitute Fat Test for Overall and Specific Migration
 
-**1.**[^key-53b25d7575ca6038e967afb575148dc5] Subject to paragraphs 2, 4 and 5, all the test media specified in the Table to this Part shall be used in the substitute fat test for overall or specific migration under the test conditions corresponding to the test conditions for stimulant D.
+**1.**[^c-53b25d7575ca6038e967afb575148dc5] Subject to paragraphs 2, 4 and 5, all the test media specified in the Table to this Part shall be used in the substitute fat test for overall or specific migration under the test conditions corresponding to the test conditions for stimulant D.
 
-**2.**[^key-ddcdb6a0f9b0cc81a238b42692123bf3] Test conditions other than those specified in the Table to this Part may be used in the substitute fat test if the assumptions underlying the test conditions specified in the Table and, where the plastic material or article being tested is a polymer, the existing experience of that type of polymer are taken into account.
+**2.**[^c-ddcdb6a0f9b0cc81a238b42692123bf3] Test conditions other than those specified in the Table to this Part may be used in the substitute fat test if the assumptions underlying the test conditions specified in the Table and, where the plastic material or article being tested is a polymer, the existing experience of that type of polymer are taken into account.
 
-**3.**[^key-b4602dd42217e88555674900ed19b14d] For each test–
+**3.**[^c-b4602dd42217e88555674900ed19b14d] For each test–
 
 - (a) a new test specimen shall be used;
 - (b) the rules prescribed for simulant D in Parts 3, 4 and 5 of this Schedule shall be applied for each test medium;
 - (c) subject to paragraph 4, compliance with a migration limit shall be determined by selecting the highest value using all the test methods.
 
-**4.**[^key-dc0906d64bcf36417868fd9c9cfdde77] Where carrying out a migration test causes any physical or other change in the test specimen which does not occur under the worst foreseeable conditions of use of the plastic material or article the result of that test shall not be used to ascertain compliance with a migration limit.
+**4.**[^c-dc0906d64bcf36417868fd9c9cfdde77] Where carrying out a migration test causes any physical or other change in the test specimen which does not occur under the worst foreseeable conditions of use of the plastic material or article the result of that test shall not be used to ascertain compliance with a migration limit.
 
-**5.**[^key-f52b4e7e2a99e8145574b2a59b343336] Any test conditions in the Table to this Part which are generally recognised on the basis of scientific evidence as not being appropriate for the material or article to be tested shall not be used.
+**5.**[^c-f52b4e7e2a99e8145574b2a59b343336] Any test conditions in the Table to this Part which are generally recognised on the basis of scientific evidence as not being appropriate for the material or article to be tested shall not be used.
 
-**6.**[^key-8841648fef586e58eee4b2e61f464e82] The Table to this part shall be read with the notes to it.
+**6.**[^c-8841648fef586e58eee4b2e61f464e82] The Table to this part shall be read with the notes to it.
 
 <table>
 <thead>
@@ -1138,14 +1138,14 @@ When carrying out a migration test of a plastic material or article which is int
 
 ### PART 7 — Alternative Fat Tests for Overall and Specific Migration
 
-**1.**[^key-2f8d99996674373545ed627098520029] Subject to paragraph 2 of this Part the conditions which must be fulfilled to allow the result of either test specified in paragraph 3 to be used as an alternative to the result of a migration test carried out under Part 3 are that–
+**1.**[^c-2f8d99996674373545ed627098520029] Subject to paragraph 2 of this Part the conditions which must be fulfilled to allow the result of either test specified in paragraph 3 to be used as an alternative to the result of a migration test carried out under Part 3 are that–
 
 - (a) the result obtained in a “comparison test” shows that the values are equal to or greater than those obtained in the test with stimulant D; and
 - (b) the migration occurring in either test specified in paragraph 3 does not, after application of the appropriate reduction factor, exceed the appropriate migration limit.
 
-**2.**[^key-e24b7448f47b0a616bd2b9f22d27f5d9] The condition in paragraph 1(a) does not have to be fulfilled if it can be shown on the basis of the result of scientific experiment that the values obtained in either of the tests specified in paragraph 3 are equal to or greater than those obtained in any of the migration tests specified in Part 3.
+**2.**[^c-e24b7448f47b0a616bd2b9f22d27f5d9] The condition in paragraph 1(a) does not have to be fulfilled if it can be shown on the basis of the result of scientific experiment that the values obtained in either of the tests specified in paragraph 3 are equal to or greater than those obtained in any of the migration tests specified in Part 3.
 
-**3.**[^key-10ea202f6f3605cfffed8bb5f3943d33] The migration tests referred to in paragraphs 2 and 3 are–
+**3.**[^c-10ea202f6f3605cfffed8bb5f3943d33] The migration tests referred to in paragraphs 2 and 3 are–
 
 - (a) a test carried out using volatile media including isooctane, ethanol 95%, other volatile solvents or a mixture of solvents at such contact conditions as would result in values equal to or greater than those obtained in a test using stimulant D;
 - (b) other tests using media having a very strong extraction power under very severe test conditions where, on the basis of scientific evidence, it is generally recognised that the results using these tests are equal to or higher than those obtained in a test using simulant D.
@@ -1154,25 +1154,25 @@ When carrying out a migration test of a plastic material or article which is int
 
 Regulation 14
 
-**1.**[^key-7f81c44fee661f426ef66a43250b348e] The identity and address of the business operator which manufactures or imports the plastic materials or articles or the substances intended for the manufacturing of those materials or articles.
+**1.**[^c-7f81c44fee661f426ef66a43250b348e] The identity and address of the business operator which manufactures or imports the plastic materials or articles or the substances intended for the manufacturing of those materials or articles.
 
-**2.**[^key-cb94a8f19ad2cfea1035a672d883b42c] The identity of the materials, the articles or the substances intended for the manufacturing of those materials and articles.
+**2.**[^c-cb94a8f19ad2cfea1035a672d883b42c] The identity of the materials, the articles or the substances intended for the manufacturing of those materials and articles.
 
-**3.**[^key-078a5e95c34fa41cd8f29252989a15c6] The date of the declaration.
+**3.**[^c-078a5e95c34fa41cd8f29252989a15c6] The date of the declaration.
 
-**4.**[^key-e363fe68d8a176c936b7bdab513a9c99] Confirmation that the plastic materials or articles meet relevant requirements laid down in the Directive and Regulation 1935/2004.
+**4.**[^c-e363fe68d8a176c936b7bdab513a9c99] Confirmation that the plastic materials or articles meet relevant requirements laid down in the Directive and Regulation 1935/2004.
 
-**5.**[^key-d8819274a0844f04803df5983fd9ee96] Adequate information relative to the substances used for which restrictions and/or specifications are in place under this Directive to allow the downstream business operators to ensure compliance with those restrictions.
+**5.**[^c-d8819274a0844f04803df5983fd9ee96] Adequate information relative to the substances used for which restrictions and/or specifications are in place under this Directive to allow the downstream business operators to ensure compliance with those restrictions.
 
-**6.**[^key-585d0e5ef1d786fed1fc8654ffb0952e] Adequate information relative to the substances which are subject to a restriction in food, obtained by experimental data or theoretical calculation about the level of their specific migration and, where appropriate, the purity criteria to enable the user of these materials or articles to comply with the relevant Community provisions or, in their absence, with national provisions applicable to food.
+**6.**[^c-585d0e5ef1d786fed1fc8654ffb0952e] Adequate information relative to the substances which are subject to a restriction in food, obtained by experimental data or theoretical calculation about the level of their specific migration and, where appropriate, the purity criteria to enable the user of these materials or articles to comply with the relevant Community provisions or, in their absence, with national provisions applicable to food.
 
-**7.**[^key-c20d050514183f9dad7dbfcb913099e6] Specifications on the use of the material or article, such as–
+**7.**[^c-c20d050514183f9dad7dbfcb913099e6] Specifications on the use of the material or article, such as–
 
 - (a) type or types of food with which it is intended to be put in contact;
 - (b) time and temperature of treatment and storage in contact with the food;
 - (c) ratio of food contact surface area to volume used to establish the compliance of the material or article.
 
-**8.**[^key-73c6002c44964b35ad324e86bcc3418e] Confirmation that, when a plastic functional barrier is used in a plastic multi layer material or article, the material or article complies with the requirements of Article 7a(2), (3) and (4) of the Directive.
+**8.**[^c-73c6002c44964b35ad324e86bcc3418e] Confirmation that, when a plastic functional barrier is used in a plastic multi layer material or article, the material or article complies with the requirements of Article 7a(2), (3) and (4) of the Directive.
 
 (This note is not part of the Regulations)
 
@@ -1231,9 +1231,9 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00004]: Footnote: O.J. No. L 31, 1.2.02, p.1, as amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council (O.J. No. L 245, 29.9.03, p.4) and Commission Regulation [(EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) (O.J. No. L 100, 7.4.06, p.3).
 
-[^key-e8b27b66f722c4e6d979bbb9d7f3ef90]: Commencement: Reg. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-e8b27b66f722c4e6d979bbb9d7f3ef90]: Commencement: Reg. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-0ee32afb96ea9f191192cc3de436ae09]: Commencement: Reg. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-0ee32afb96ea9f191192cc3de436ae09]: Commencement: Reg. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
 [^f00005]: Footnote: O.J. No. L 297, 23.10.82, p.26; as amended by Commission Directive [93/8/EEC](https://www.legislation.gov.uk/european/directive/1993/0008) (O.J. No. L 90, 14.4.93, p.22) and Commission Directive [97/48/EC](https://www.legislation.gov.uk/european/directive/1997/0048) (O.J. No. L 222, 12.8.97, p.10)
 
@@ -1261,39 +1261,39 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00017]: Footnote: [S.S.I. 2007/471](https://www.legislation.gov.uk/ssi/2007/471).
 
-[^key-46ef930b945b04bd579c7e2395e97d23]: Commencement: Reg. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-46ef930b945b04bd579c7e2395e97d23]: Commencement: Reg. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-8f4ff8ae5aac3a68b44a7be0177064c0]: Commencement: Reg. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-8f4ff8ae5aac3a68b44a7be0177064c0]: Commencement: Reg. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-82e6fb6d1ccc0ab77ade9db9d4cc385b]: Commencement: Reg. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-82e6fb6d1ccc0ab77ade9db9d4cc385b]: Commencement: Reg. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-10ba0262385e105a8f64c454d9d962fb]: Commencement: Reg. 6 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-10ba0262385e105a8f64c454d9d962fb]: Commencement: Reg. 6 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-8b9f359dff820856d6ddfc891d1860ab]: Commencement: Reg. 7 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-8b9f359dff820856d6ddfc891d1860ab]: Commencement: Reg. 7 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-cb7152383e500d0589fa0328178aae44]: Commencement: Reg. 8 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-cb7152383e500d0589fa0328178aae44]: Commencement: Reg. 8 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-c1e72597b47193419dc6a5f397abca9e]: Commencement: Reg. 9 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-c1e72597b47193419dc6a5f397abca9e]: Commencement: Reg. 9 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-da06193ecc1d0201c79e4f8bfda39992]: Commencement: Reg. 10 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-da06193ecc1d0201c79e4f8bfda39992]: Commencement: Reg. 10 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-0ab30c011c23733ce668b87f1883b9ec]: Commencement: Reg. 11 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-0ab30c011c23733ce668b87f1883b9ec]: Commencement: Reg. 11 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
 [^f00018]: Footnote: O.J. No. L 196, 16.8.1967, p.1 as last amended by Directive [2006/121/EC](https://www.legislation.gov.uk/european/directive/2006/0121) of the European Parliament and of the Council (O.J. No. L 396, 30.12.2006, p.850).
 
-[^key-35fe63c454338e9aeaac487a4d75e446]: Commencement: Reg. 12 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-35fe63c454338e9aeaac487a4d75e446]: Commencement: Reg. 12 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-452b819298d43db004490319ecae1cdf]: Commencement: Reg. 13 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-452b819298d43db004490319ecae1cdf]: Commencement: Reg. 13 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-a65d6b6cf5cc844e956581612bf05ad2]: Commencement: Reg. 14 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-a65d6b6cf5cc844e956581612bf05ad2]: Commencement: Reg. 14 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-936d0370305bd028fca7bc35b4634fcb]: Commencement: Reg. 15 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-936d0370305bd028fca7bc35b4634fcb]: Commencement: Reg. 15 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-688ee9986552d03e2a54fc2e7e794849]: Commencement: Reg. 16 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-688ee9986552d03e2a54fc2e7e794849]: Commencement: Reg. 16 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-fd054211c5936397bc2a6b500dd77e34]: Commencement: Reg. 17 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-fd054211c5936397bc2a6b500dd77e34]: Commencement: Reg. 17 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-65a54bd121b4f4d41ab7ac1a2789caf4]: Commencement: Reg. 18 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-65a54bd121b4f4d41ab7ac1a2789caf4]: Commencement: Reg. 18 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
 [^f00019]: Footnote: O.J. No. L 175, 4.7.1991, p.35; as amended by Commission Directive [96/4/EC](https://www.legislation.gov.uk/european/directive/1996/0004) (O.J. No. L 49, 28.2.1996, p.12), Commission Directive [1999/50/EC](https://www.legislation.gov.uk/european/directive/1999/0050) (O.J. No. L 139, 2.6.1999, p.29) Commission Directive [2003/14/EC](https://www.legislation.gov.uk/european/directive/2003/0014) (O.J. No. L 41, 14.2.2003, p.37) and Commission Directive [2006/82/EC](https://www.legislation.gov.uk/european/directive/2006/0082) (O.J. No. L 362, 20.12.2006). Commission Directive [91/32/EC](https://www.legislation.gov.uk/european/directive/1991/0032) was repealed by Commission Directive [2006/141/EC](https://www.legislation.gov.uk/european/directive/2006/0141) (O.J. No. L 401, 30.12.2006). The definitions of infant formulae and follow-on formulae remain the same.
 
@@ -1303,113 +1303,113 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00022]: Footnote: O.J. No. L 109, 6.5.00, p.29; as corrected by a Corrigendum published on 25th May 2000 (O.J. No. L 124, 25.5.00, p.66), and as amended by Commission Directive [2001/101/EC](https://www.legislation.gov.uk/european/directive/2001/0101) (O.J. No. L 310, 28.11.01, p.19), (which was itself amended by Commission Directive [2002/86/EC](https://www.legislation.gov.uk/european/directive/2002/0086) (O.J. No. L 305, 7.11.02, p.19), the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded (O.J. No. L 236, 23.9.03, p.33) and Directive [2003/89/EC](https://www.legislation.gov.uk/european/directive/2003/0089) (O.J. No. L 308, 25.11.03, p.15).
 
-[^key-2469022f204d26e1298d2b45bd15bf9d]: Commencement: Reg. 19 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-2469022f204d26e1298d2b45bd15bf9d]: Commencement: Reg. 19 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
 [^f00023]: Footnote: O.J. No. L 92, 3.4.2007, p.9.
 
-[^key-fbc587768570531fdda6d76546b7ef11]: Commencement: Reg. 20 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-fbc587768570531fdda6d76546b7ef11]: Commencement: Reg. 20 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-5aba21573b37632f2b24d9dd81eb7cab]: Commencement: Reg. 21 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-5aba21573b37632f2b24d9dd81eb7cab]: Commencement: Reg. 21 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-090cbe4ccf9fc910dc43d9e38b50314b]: Commencement: Reg. 22 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-090cbe4ccf9fc910dc43d9e38b50314b]: Commencement: Reg. 22 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-528e0023e8a6d3d2a686b2483339ecd8]: Commencement: Reg. 23 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-528e0023e8a6d3d2a686b2483339ecd8]: Commencement: Reg. 23 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
 [^f00027]: Footnote: Section 36A was inserted by secion 40 of, and Schedule 5 to the [Food Standards Act 1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28).
 
-[^key-1fb0b11a918ff256ce30dcf4d9d83fc7]: Commencement: Reg. 24 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-1fb0b11a918ff256ce30dcf4d9d83fc7]: Commencement: Reg. 24 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
 [^f00024]: Footnote: S.I. [1990/2463](https://www.legislation.gov.uk/uksi/1990/2463)as relevantly amended by [S.S.I. 2006/517](https://www.legislation.gov.uk/ssi/2006/517).
 
-[^key-99cb42ddc95be458e3b3de25d0bedd03]: Commencement: Reg. 25 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-99cb42ddc95be458e3b3de25d0bedd03]: Commencement: Reg. 25 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
 [^f00025]: Footnote: [S.S.I. 2008/127](https://www.legislation.gov.uk/ssi/2008/127)
 
-[^key-018e96750dc9e2e0e1ec172018290aeb]: Commencement: Reg. 26(a)(b) in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-018e96750dc9e2e0e1ec172018290aeb]: Commencement: Reg. 26(a)(b) in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-a30de36dee2c81c56367c8ea64997901]: Commencement: Reg. 26(c) in force at 1.7.2008, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/a)
+[^c-a30de36dee2c81c56367c8ea64997901]: Commencement: Reg. 26(c) in force at 1.7.2008, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/a)
 
 [^f00026]: Footnote: [S.S.I. 2007/433](https://www.legislation.gov.uk/ssi/2007/433).
 
-[^key-a186f9e13f0ab1beedae7cd0292eed7c]: Commencement: Sch. 1 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-a186f9e13f0ab1beedae7cd0292eed7c]: Commencement: Sch. 1 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-d2b6be9376cc093e8a9a432b4b8c9d86]: Commencement: Sch. 1 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-d2b6be9376cc093e8a9a432b4b8c9d86]: Commencement: Sch. 1 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-9eeb01d1b5db8f63ef853fdba7d90d1d]: Commencement: Sch. 1 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-9eeb01d1b5db8f63ef853fdba7d90d1d]: Commencement: Sch. 1 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-6a11954dc66089427065219e487a360b]: Commencement: Sch. 1 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-6a11954dc66089427065219e487a360b]: Commencement: Sch. 1 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-01e4c56d21eaff62f3a0b5acf86ab565]: Commencement: Sch. 1 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-01e4c56d21eaff62f3a0b5acf86ab565]: Commencement: Sch. 1 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-a6516abf9e2e587be80c594a582ac639]: Commencement: Sch. 2 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-a6516abf9e2e587be80c594a582ac639]: Commencement: Sch. 2 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-0b7ac4298f6ad42ef80395ab092d8d7e]: Commencement: Sch. 2 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-0b7ac4298f6ad42ef80395ab092d8d7e]: Commencement: Sch. 2 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-6eb236d4376d570debb15e960c4e4dd2]: Commencement: Sch. 2 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-6eb236d4376d570debb15e960c4e4dd2]: Commencement: Sch. 2 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-1d6ce634b4db8b9b61d75cc3f2a1ac51]: Commencement: Sch. 2 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-1d6ce634b4db8b9b61d75cc3f2a1ac51]: Commencement: Sch. 2 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-ad2f3fde950bb3187af443f5cc753f3a]: Commencement: Sch. 2 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-ad2f3fde950bb3187af443f5cc753f3a]: Commencement: Sch. 2 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-5ed316d680a006175f82f84446501e76]: Commencement: Sch. 2 para. 6 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-5ed316d680a006175f82f84446501e76]: Commencement: Sch. 2 para. 6 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-2c32571bed5bdfdc86832e7342842b72]: Commencement: Sch. 2 para. 7 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-2c32571bed5bdfdc86832e7342842b72]: Commencement: Sch. 2 para. 7 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-c39f46f7768491e768b5af487c81acb1]: Commencement: Sch. 2 para. 8 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-c39f46f7768491e768b5af487c81acb1]: Commencement: Sch. 2 para. 8 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-e9aee0cc01add15492aa776a5123a596]: Commencement: Sch. 2 para. 9 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-e9aee0cc01add15492aa776a5123a596]: Commencement: Sch. 2 para. 9 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-66b7a5a03a05c983d9a76acf3ed9264a]: Commencement: Sch. 2 para. 10 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-66b7a5a03a05c983d9a76acf3ed9264a]: Commencement: Sch. 2 para. 10 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-f53bf1d8e4b045e7a2f9a70866762ea9]: Commencement: Sch. 2 para. 11 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-f53bf1d8e4b045e7a2f9a70866762ea9]: Commencement: Sch. 2 para. 11 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-aa12cf703c83e93b80f717a30bdc17a2]: Commencement: Sch. 2 para. 12 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-aa12cf703c83e93b80f717a30bdc17a2]: Commencement: Sch. 2 para. 12 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-fc8dfafac9eb072539dc029258e51cf2]: Commencement: Sch. 2 para. 13 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-fc8dfafac9eb072539dc029258e51cf2]: Commencement: Sch. 2 para. 13 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-c3c7f57cced14910f7a52c6bf2246bce]: Commencement: Sch. 3 Pt. 1 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-c3c7f57cced14910f7a52c6bf2246bce]: Commencement: Sch. 3 Pt. 1 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-735dc1fcf9b9b6a11831dcf608ce0b9d]: Commencement: Sch. 3 Pt. 1 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-735dc1fcf9b9b6a11831dcf608ce0b9d]: Commencement: Sch. 3 Pt. 1 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-0816069a46588d7738732b902bfd9b1b]: Commencement: Sch. 3 Pt. 1 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-0816069a46588d7738732b902bfd9b1b]: Commencement: Sch. 3 Pt. 1 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-2e1a8e41227764333f4baf855655ea86]: Commencement: Sch. 3 Pt. 1 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-2e1a8e41227764333f4baf855655ea86]: Commencement: Sch. 3 Pt. 1 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-d6a52f56c0092ac4901b9ca506c354d5]: Commencement: Sch. 3 Pt. 2 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-d6a52f56c0092ac4901b9ca506c354d5]: Commencement: Sch. 3 Pt. 2 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-15d52a872cb50d9ff58eb4729411dc84]: Commencement: Sch. 3 Pt. 2 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-15d52a872cb50d9ff58eb4729411dc84]: Commencement: Sch. 3 Pt. 2 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-c320396c2e92c0accf9e4094de24b495]: Commencement: Sch. 3 Pt. 2 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-c320396c2e92c0accf9e4094de24b495]: Commencement: Sch. 3 Pt. 2 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-f5a0b0b9b00378ab5986dd42a4cad759]: Commencement: Sch. 3 Pt. 2 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-f5a0b0b9b00378ab5986dd42a4cad759]: Commencement: Sch. 3 Pt. 2 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-c9a2624defe1802066f3457255c5e1e5]: Commencement: Sch. 3 Pt. 2 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-c9a2624defe1802066f3457255c5e1e5]: Commencement: Sch. 3 Pt. 2 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-eddcf4a4a1e70384d2d99a35fc6e90c4]: Commencement: Sch. 3 Pt. 3 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-eddcf4a4a1e70384d2d99a35fc6e90c4]: Commencement: Sch. 3 Pt. 3 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-75ca65818e928aad0fa24e5b9f95ef63]: Commencement: Sch. 3 Pt. 3 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-75ca65818e928aad0fa24e5b9f95ef63]: Commencement: Sch. 3 Pt. 3 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-d54491da2cbb4edffafb446cebf32f31]: Commencement: Sch. 3 Pt. 3 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-d54491da2cbb4edffafb446cebf32f31]: Commencement: Sch. 3 Pt. 3 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-43ed6b78e79c90ca4bdfeccd8532ea77]: Commencement: Sch. 3 Pt. 3 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-43ed6b78e79c90ca4bdfeccd8532ea77]: Commencement: Sch. 3 Pt. 3 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-b3b35c0ce9612047f72f3aa1f940e535]: Commencement: Sch. 3 Pt. 3 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-b3b35c0ce9612047f72f3aa1f940e535]: Commencement: Sch. 3 Pt. 3 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-f6bd251c9b3a8b5da4fb6e6b06916722]: Commencement: Sch. 3 Pt. 3 para. 6 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-f6bd251c9b3a8b5da4fb6e6b06916722]: Commencement: Sch. 3 Pt. 3 para. 6 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-8a225e169686dca74143d8dd3ca637e2]: Commencement: Sch. 3 Pt. 3 para. 7 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-8a225e169686dca74143d8dd3ca637e2]: Commencement: Sch. 3 Pt. 3 para. 7 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-186bf2ab9f4ca5ac40bcfdfdc0d082b7]: Commencement: Sch. 3 Pt. 3 para. 8 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-186bf2ab9f4ca5ac40bcfdfdc0d082b7]: Commencement: Sch. 3 Pt. 3 para. 8 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-6d1fc10b7029fcd1de3f872e987e035c]: Commencement: Sch. 3 Pt. 4 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-6d1fc10b7029fcd1de3f872e987e035c]: Commencement: Sch. 3 Pt. 4 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-a36bc266147e3f2e5ec92cc04c325e5a]: Commencement: Sch. 3 Pt. 4 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-a36bc266147e3f2e5ec92cc04c325e5a]: Commencement: Sch. 3 Pt. 4 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-910073856ae8556efd549081425fc642]: Commencement: Sch. 3 Pt. 4 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-910073856ae8556efd549081425fc642]: Commencement: Sch. 3 Pt. 4 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-3723fc480b4e46ce19a6fb29d83d3c9f]: Commencement: Sch. 3 Pt. 4 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-3723fc480b4e46ce19a6fb29d83d3c9f]: Commencement: Sch. 3 Pt. 4 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-2b3259e94bd5c8517d3e67a1644e6668]: Commencement: Sch. 3 Pt. 4 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-2b3259e94bd5c8517d3e67a1644e6668]: Commencement: Sch. 3 Pt. 4 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
 [^f01000]: Footnote: (1)
 
@@ -1423,21 +1423,21 @@ A full regulatory impact assessment of the effect that this instrument will have
 
     If it can be demonstrated under regulation 13(2) or proved by means of an appropriate test that there is to be no fatty contact with the plastic material or article, simulant D shall not be used.
 
-[^key-c6500c48c374fe3cc73953071641b3e8]: Commencement: Sch. 3 Pt. 5 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-c6500c48c374fe3cc73953071641b3e8]: Commencement: Sch. 3 Pt. 5 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-4655d4c5bcdee6d40caa255b4245bb36]: Commencement: Sch. 3 Pt. 5 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-4655d4c5bcdee6d40caa255b4245bb36]: Commencement: Sch. 3 Pt. 5 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-e4f84728d5d3af5188ff43b263561664]: Commencement: Sch. 3 Pt. 5 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-e4f84728d5d3af5188ff43b263561664]: Commencement: Sch. 3 Pt. 5 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-12d4e33cef93db67858042ed5336042b]: Commencement: Sch. 3 Pt. 5 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-12d4e33cef93db67858042ed5336042b]: Commencement: Sch. 3 Pt. 5 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-b1643ee5ca65e9079e37848dbb9e5955]: Commencement: Sch. 3 Pt. 5 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-b1643ee5ca65e9079e37848dbb9e5955]: Commencement: Sch. 3 Pt. 5 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-ec585e8649548c889536c2189954b127]: Commencement: Sch. 3 Pt. 5 para. 6 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-ec585e8649548c889536c2189954b127]: Commencement: Sch. 3 Pt. 5 para. 6 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-dc6ee5776fb4877a9767163cc3ae7670]: Commencement: Sch. 3 Pt. 5 para. 7 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-dc6ee5776fb4877a9767163cc3ae7670]: Commencement: Sch. 3 Pt. 5 para. 7 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-31a880f1e03fba83df1d13b7c3c56764]: Commencement: Sch. 3 Pt. 5 para. 8 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-31a880f1e03fba83df1d13b7c3c56764]: Commencement: Sch. 3 Pt. 5 para. 8 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
 [^f01003]: Footnote: (1)
 
@@ -1447,17 +1447,17 @@ A full regulatory impact assessment of the effect that this instrument will have
 
     This temperature shall be used only for simulant D. For simulant A, B or C the test may be replaced by a test at 100°C or at reflux temperature for a duration of four times the time selected in accordance with paragraph 1 of this Part.
 
-[^key-53b25d7575ca6038e967afb575148dc5]: Commencement: Sch. 3 Pt. 6 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-53b25d7575ca6038e967afb575148dc5]: Commencement: Sch. 3 Pt. 6 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-ddcdb6a0f9b0cc81a238b42692123bf3]: Commencement: Sch. 3 Pt. 6 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-ddcdb6a0f9b0cc81a238b42692123bf3]: Commencement: Sch. 3 Pt. 6 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-b4602dd42217e88555674900ed19b14d]: Commencement: Sch. 3 Pt. 6 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-b4602dd42217e88555674900ed19b14d]: Commencement: Sch. 3 Pt. 6 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-dc0906d64bcf36417868fd9c9cfdde77]: Commencement: Sch. 3 Pt. 6 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-dc0906d64bcf36417868fd9c9cfdde77]: Commencement: Sch. 3 Pt. 6 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-f52b4e7e2a99e8145574b2a59b343336]: Commencement: Sch. 3 Pt. 6 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-f52b4e7e2a99e8145574b2a59b343336]: Commencement: Sch. 3 Pt. 6 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-8841648fef586e58eee4b2e61f464e82]: Commencement: Sch. 3 Pt. 6 para. 6 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-8841648fef586e58eee4b2e61f464e82]: Commencement: Sch. 3 Pt. 6 para. 6 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
 [^f01005]: Footnote: (1)
 
@@ -1467,24 +1467,24 @@ A full regulatory impact assessment of the effect that this instrument will have
 
     The volatile test media are used up to a maximum temperature of 60°C. A precondition of using these tests is that the material or article will withstand the test conditions that would otherwise be used with simulant D. Immerse a test specimen in olive oil under the appropriate conditions. If the physical properties are changed (eg melting, deformation) then the material is considered unsuitable for use at that temperature. If the physical properties are not changed then proceed with the substitute tests using new specimens.
 
-[^key-2f8d99996674373545ed627098520029]: Commencement: Sch. 3 Pt. 7 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-2f8d99996674373545ed627098520029]: Commencement: Sch. 3 Pt. 7 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-e24b7448f47b0a616bd2b9f22d27f5d9]: Commencement: Sch. 3 Pt. 7 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-e24b7448f47b0a616bd2b9f22d27f5d9]: Commencement: Sch. 3 Pt. 7 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-10ea202f6f3605cfffed8bb5f3943d33]: Commencement: Sch. 3 Pt. 7 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-10ea202f6f3605cfffed8bb5f3943d33]: Commencement: Sch. 3 Pt. 7 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-7f81c44fee661f426ef66a43250b348e]: Commencement: Sch. 4 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-7f81c44fee661f426ef66a43250b348e]: Commencement: Sch. 4 para. 1 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-cb94a8f19ad2cfea1035a672d883b42c]: Commencement: Sch. 4 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-cb94a8f19ad2cfea1035a672d883b42c]: Commencement: Sch. 4 para. 2 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-078a5e95c34fa41cd8f29252989a15c6]: Commencement: Sch. 4 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-078a5e95c34fa41cd8f29252989a15c6]: Commencement: Sch. 4 para. 3 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-e363fe68d8a176c936b7bdab513a9c99]: Commencement: Sch. 4 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-e363fe68d8a176c936b7bdab513a9c99]: Commencement: Sch. 4 para. 4 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-d8819274a0844f04803df5983fd9ee96]: Commencement: Sch. 4 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-d8819274a0844f04803df5983fd9ee96]: Commencement: Sch. 4 para. 5 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-585d0e5ef1d786fed1fc8654ffb0952e]: Commencement: Sch. 4 para. 6 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-585d0e5ef1d786fed1fc8654ffb0952e]: Commencement: Sch. 4 para. 6 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-c20d050514183f9dad7dbfcb913099e6]: Commencement: Sch. 4 para. 7 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-c20d050514183f9dad7dbfcb913099e6]: Commencement: Sch. 4 para. 7 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
 
-[^key-73c6002c44964b35ad324e86bcc3418e]: Commencement: Sch. 4 para. 8 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)
+[^c-73c6002c44964b35ad324e86bcc3418e]: Commencement: Sch. 4 para. 8 in force at 1.5.2008, see [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2008/127/regulation/1/1/b)

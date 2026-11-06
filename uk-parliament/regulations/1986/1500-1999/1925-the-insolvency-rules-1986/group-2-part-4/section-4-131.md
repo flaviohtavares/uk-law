@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.131. Creditors' claim that remuneration is excessive[^key-ba26c2f2ea45e64b53d90e6fef1811ad]
+## 4.131. Creditors' claim that remuneration is excessive[^c-ba26c2f2ea45e64b53d90e6fef1811ad]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ If the application is not dismissed under this paragraph, the court shall fix a 
 
 ## Annotations
 
-[^key-ba26c2f2ea45e64b53d90e6fef1811ad]: Commencement: [Rule 4.131](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.131) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ba26c2f2ea45e64b53d90e6fef1811ad]: Commencement: [Rule 4.131](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.131) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

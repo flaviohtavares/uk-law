@@ -36,7 +36,7 @@ summary: ''
 
   “ Where the decision leading to the proposed dismissals is that of a person controlling the employer (directly or indirectly), a failure on the part of that person to provide information to the employer shall not constitute special circumstances rendering it not reasonably practicable for the employer to comply with such a requirement. ”.
 
-(3)[^key-65199b8046ad189c93c86e30f60b24d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-65199b8046ad189c93c86e30f60b24d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 193 (duty of employer to notify Secretary of State of certain redundancies), at the end of subsection (7) (exception from requirements in special circumstances) there shall be inserted—
 
@@ -52,7 +52,7 @@ summary: ''
 
 .
 
-(6)[^key-d0e4dfab0db5aad1938989f7f025a180] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d0e4dfab0db5aad1938989f7f025a180] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -60,6 +60,6 @@ summary: ''
 
 [^c1092554]: Textual amendment: S. 34(2)(b) omitted (26.10.1995) by virtue of [S.I. 1995/2587](https://www.legislation.gov.uk/uksi/1995/2587), [reg. 3(11)](https://www.legislation.gov.uk/uksi/1995/2587/regulation/3/11)
 
-[^key-65199b8046ad189c93c86e30f60b24d5]: Textual amendment: [S. 34(3)](https://www.legislation.gov.uk/ukpga/1993/19/section/34/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-65199b8046ad189c93c86e30f60b24d5]: Textual amendment: [S. 34(3)](https://www.legislation.gov.uk/ukpga/1993/19/section/34/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
-[^key-d0e4dfab0db5aad1938989f7f025a180]: Textual amendment: [S. 34(6)](https://www.legislation.gov.uk/ukpga/1993/19/section/34/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-d0e4dfab0db5aad1938989f7f025a180]: Textual amendment: [S. 34(6)](https://www.legislation.gov.uk/ukpga/1993/19/section/34/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)

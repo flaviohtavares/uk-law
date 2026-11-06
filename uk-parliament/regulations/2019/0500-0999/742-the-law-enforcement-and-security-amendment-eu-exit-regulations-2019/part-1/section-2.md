@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Extent[^key-a17a39e24ab98f30c76b5f35febb7a56][^key-516f3afde61aed4856f9f9bfd0256a2a]
+## 2. Extent[^c-a17a39e24ab98f30c76b5f35febb7a56][^c-516f3afde61aed4856f9f9bfd0256a2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,9 +32,9 @@ summary: ''
 
 ## Annotations
 
-[^key-a17a39e24ab98f30c76b5f35febb7a56]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a17a39e24ab98f30c76b5f35febb7a56]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-516f3afde61aed4856f9f9bfd0256a2a]: Modification: Reg. 2 applied (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1408/regulation/2/2)
+[^c-516f3afde61aed4856f9f9bfd0256a2a]: Modification: Reg. 2 applied (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1408/regulation/2/2)
 
 [^c23690891]: Marginal citation: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 

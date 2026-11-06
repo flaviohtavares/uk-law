@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Arrangements between local authority and childcare providers[^key-e8e2bcfb2123690a0eb008bd12480231]
+## 24. Arrangements between local authority and childcare providers[^c-e8e2bcfb2123690a0eb008bd12480231]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8e2bcfb2123690a0eb008bd12480231]: Commencement: S. 24 in force at 31.1.2008 by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17), [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/17/article/2/a)
+[^c-e8e2bcfb2123690a0eb008bd12480231]: Commencement: S. 24 in force at 31.1.2008 by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17), [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/17/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Right of inspection[^key-f2f1bc88a3a12d721924a71ab3e4d38a]
+## 91. Right of inspection[^c-f2f1bc88a3a12d721924a71ab3e4d38a]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2f1bc88a3a12d721924a71ab3e4d38a]: Commencement: Rule 91 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-f2f1bc88a3a12d721924a71ab3e4d38a]: Commencement: Rule 91 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

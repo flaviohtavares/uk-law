@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 91B. Mine operators to give the appropriate agency six months’ notice of any proposed abandonment.[^c18733401][^key-512e1b8c7c08b8ab1b8b64101e4b8706]
+## 91B. Mine operators to give the appropriate agency six months’ notice of any proposed abandonment.[^c18733401][^c-512e1b8c7c08b8ab1b8b64101e4b8706]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 (5) Where the operator of a mine is—
 
 - (a) the official receiver acting in a compulsory capacity, or
-- (b) the Accountant in Bankruptcy acting as trustee[^key-b54b6d39fde608b7d58e554198701ef2] or interim trustee in a sequestration (within the meaning of the [^c18733481]Bankruptcy (Scotland) Act 2016[^key-cac7b845824dda680074fcda28b9758a]),
+- (b) the Accountant in Bankruptcy acting as trustee[^c-b54b6d39fde608b7d58e554198701ef2] or interim trustee in a sequestration (within the meaning of the [^c18733481]Bankruptcy (Scotland) Act 2016[^c-cac7b845824dda680074fcda28b9758a]),
 
 he shall not be guilty of an offence under subsection (3) above by reason of any failure to give the notice required by subsection (1) above if, as soon as reasonably practicable (whether before or after the abandonment), he gives to the appropriate agency notice of the abandonment or proposed abandonment, containing such information as may be prescribed.
 
@@ -67,12 +67,12 @@ it shall be the duty of the appropriate agency to inform the local authority in 
 
 [^c18733401]: Textual amendment: Chapter IIA (ss. 91A-91B) inserted (subject to other provisions of the amending Act) (21.9.1995 for certain purposes and 1.7.1998 otherwise) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 58](https://www.legislation.gov.uk/ukpga/1995/25/section/58) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/1983](https://www.legislation.gov.uk/uksi/1995/1983), [art. 3](https://www.legislation.gov.uk/uksi/1995/1983/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/1995/1983/article/4)); [S.I. 1998/604](https://www.legislation.gov.uk/uksi/1998/604), [art. 3](https://www.legislation.gov.uk/uksi/1998/604/article/3)
 
-[^key-512e1b8c7c08b8ab1b8b64101e4b8706]: Textual amendment: Words in s. 91B and heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 274(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/274/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-512e1b8c7c08b8ab1b8b64101e4b8706]: Textual amendment: Words in s. 91B and heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 274(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/274/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-b54b6d39fde608b7d58e554198701ef2]: Textual amendment: Word in [s. 91B(5)(b)](https://www.legislation.gov.uk/ukpga/1991/57/section/91B/5/b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 8(3)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/8/3/a)
+[^c-b54b6d39fde608b7d58e554198701ef2]: Textual amendment: Word in [s. 91B(5)(b)](https://www.legislation.gov.uk/ukpga/1991/57/section/91B/5/b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 8(3)(a)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/8/3/a)
 
 [^c18733481]: Marginal citation: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66).
 
-[^key-cac7b845824dda680074fcda28b9758a]: Textual amendment: Word in [s. 91B(5)(b)](https://www.legislation.gov.uk/ukpga/1991/57/section/91B/5/b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 8(3)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/8/3/b)
+[^c-cac7b845824dda680074fcda28b9758a]: Textual amendment: Word in [s. 91B(5)(b)](https://www.legislation.gov.uk/ukpga/1991/57/section/91B/5/b) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 8(3)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/8/3/b)
 
 [^c18733491]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).

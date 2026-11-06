@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 45. Disobeying penalty etc[^key-544497ccd7301cb460f43c61c860411f]
+## 45. Disobeying penalty etc[^c-544497ccd7301cb460f43c61c860411f]
 
 *Extent: E*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-544497ccd7301cb460f43c61c860411f]: Commencement: S. 45 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-544497ccd7301cb460f43c61c860411f]: Commencement: S. 45 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

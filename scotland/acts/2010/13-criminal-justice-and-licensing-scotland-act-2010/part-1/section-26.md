@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Voluntary intoxication by alcohol: effect in sentencing[^key-239226d02ddd3d00b1507a495c6b20d0]
+## 26. Voluntary intoxication by alcohol: effect in sentencing[^c-239226d02ddd3d00b1507a495c6b20d0]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-239226d02ddd3d00b1507a495c6b20d0]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2010/13/section/26) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-239226d02ddd3d00b1507a495c6b20d0]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2010/13/section/26) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

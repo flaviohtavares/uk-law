@@ -32,7 +32,7 @@ MERCHANT SHIPPING
 
 SAFETY
 
-The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 (revoked)[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
+The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 1998 (revoked)[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
 
 Made
 
@@ -46,74 +46,74 @@ Coming into force
 
 3rd August 1998
 
-[^key-4e49ac2c8981f0255a2e3b87a7055f9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e49ac2c8981f0255a2e3b87a7055f9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — PRELIMINARY[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
+## PART I — PRELIMINARY[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
 
-### 1. Citation, commencement and revocation[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Amendment of Fees Regulations[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
+### 1. Citation, commencement and revocation[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Interpretation[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
+### 2. Amendment of Fees Regulations[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Application[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
+### 3. Interpretation[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — REQUIREMENTS FOR SMALL VESSELS IN COMMERCIAL USE[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
-
-### 5. Small vessels complying with the Code of Practice[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
+### 4. Application[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — REQUIREMENTS FOR PILOT BOATS[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
+## PART II — REQUIREMENTS FOR SMALL VESSELS IN COMMERCIAL USE[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
 
-### 6. Compliance with the Code of Practice for Pilot Boats[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 7. Exemptions under Part III[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
+### 5. Small vessels complying with the Code of Practice[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART IV — COMMON PROVISIONS[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
+## PART III — REQUIREMENTS FOR PILOT BOATS[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
 
-### 8. Equivalent standards[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 9. Penalties[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
+### 6. Compliance with the Code of Practice for Pilot Boats[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Power to detain[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
+### 7. Exemptions under Part III[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Review[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
+## PART IV — COMMON PROVISIONS[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
+
+### 8. Equivalent standards[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4e49ac2c8981f0255a2e3b87a7055f9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 9. Penalties[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Power to detain[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Review[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4e49ac2c8981f0255a2e3b87a7055f9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — STATUTORY INSTRUMENTS NOT APPLIED[^key-4e49ac2c8981f0255a2e3b87a7055f9e]
+## SCHEDULE — STATUTORY INSTRUMENTS NOT APPLIED[^c-4e49ac2c8981f0255a2e3b87a7055f9e]
 
 Regulation 5(1) and 6(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4e49ac2c8981f0255a2e3b87a7055f9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e49ac2c8981f0255a2e3b87a7055f9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4e49ac2c8981f0255a2e3b87a7055f9e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/1609) revoked (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/2/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
+[^c-4e49ac2c8981f0255a2e3b87a7055f9e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/1609) revoked (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/2/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))

@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (International Travel) (Scotland) Amendment (No. 18) Regulations 2021 (revoked)[^key-f91673292b2b6ff5ca6a8fd754ef463a]
+The Health Protection (Coronavirus) (International Travel) (Scotland) Amendment (No. 18) Regulations 2021 (revoked)[^c-f91673292b2b6ff5ca6a8fd754ef463a]
 
 Approved by the Scottish Parliament
 
@@ -48,56 +48,56 @@ Coming into force
 
 at 4.00 a.m. on 13th September 2021
 
-[^key-f91673292b2b6ff5ca6a8fd754ef463a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f91673292b2b6ff5ca6a8fd754ef463a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f91673292b2b6ff5ca6a8fd754ef463a]
+## 1. Citation and commencement[^c-f91673292b2b6ff5ca6a8fd754ef463a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus) (International Travel) (Scotland) Regulations 2020[^key-f91673292b2b6ff5ca6a8fd754ef463a]
+## 2. Amendment of the Health Protection (Coronavirus) (International Travel) (Scotland) Regulations 2020[^c-f91673292b2b6ff5ca6a8fd754ef463a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f91673292b2b6ff5ca6a8fd754ef463a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f91673292b2b6ff5ca6a8fd754ef463a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — COP Representatives[^key-f91673292b2b6ff5ca6a8fd754ef463a]
+## SCHEDULE — COP Representatives[^c-f91673292b2b6ff5ca6a8fd754ef463a]
 
 Regulation 2(9)
 
-> **SCHEDULE 2ZA — COP Representatives[^key-f91673292b2b6ff5ca6a8fd754ef463a]**
+> **SCHEDULE 2ZA — COP Representatives[^c-f91673292b2b6ff5ca6a8fd754ef463a]**
 >
 > Regulation 3(8)
 >
-> **1.**[^key-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8.**[^key-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9.**[^key-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **9.**[^c-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10.**[^key-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **10.**[^c-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **11.**[^key-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **11.**[^c-f91673292b2b6ff5ca6a8fd754ef463a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f91673292b2b6ff5ca6a8fd754ef463a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f91673292b2b6ff5ca6a8fd754ef463a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f91673292b2b6ff5ca6a8fd754ef463a]: Textual amendment: Regulations revoked (20.9.2021) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021 (S.S.I. 2021/322)](https://www.legislation.gov.uk/ssi/2021/322), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2021/322/schedule/9) (with [regs. 50](https://www.legislation.gov.uk/ssi/2021/322/regulation/50), [52(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/52/2))
+[^c-f91673292b2b6ff5ca6a8fd754ef463a]: Textual amendment: Regulations revoked (20.9.2021) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021 (S.S.I. 2021/322)](https://www.legislation.gov.uk/ssi/2021/322), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2021/322/schedule/9) (with [regs. 50](https://www.legislation.gov.uk/ssi/2021/322/regulation/50), [52(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/52/2))

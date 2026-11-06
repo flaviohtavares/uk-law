@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Health[^f00001] in exercise of the powers conferred by Article 10(1) and (3) of the Fire Services (Northern Ireland) Order 1984[^f00002] and now vested in it[^f00003] and with the approval of the Department of Finance[^f00004], makes the following Order:
 
-## 1. Citation and commencement[^key-bfcd0bc7f7387350f71fc537d34fb0e9]
+## 1. Citation and commencement[^c-bfcd0bc7f7387350f71fc537d34fb0e9]
 
 This Order may be cited as the New Firefighters’ Pension Scheme (Amendment) Order (Northern Ireland) 2026 and shall come into operation on 1st September 2026.
 
-## 2. Amendment to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^key-a921c98ce18978ed1766724a4dd965e0]
+## 2. Amendment to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^c-a921c98ce18978ed1766724a4dd965e0]
 
 The Annex to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^f00005] shall be amended in accordance with the Schedule.
 
@@ -72,7 +72,7 @@ Department of Finance
 
 Article 2
 
-**1.**[^key-c7d8c93b710a4361473d2540c1ad93a9] (1) Part 1 (citation and interpretation) is amended as follows.
+**1.**[^c-c7d8c93b710a4361473d2540c1ad93a9] (1) Part 1 (citation and interpretation) is amended as follows.
 
 (2) In article 2 (interpretation)—
 
@@ -91,11 +91,11 @@ Article 2
 
 .
 
-**2.**[^key-d5e819abe6188fcf045c835e5d6b5692] (1) Part 3 (personal awards) is amended as follows.
+**2.**[^c-d5e819abe6188fcf045c835e5d6b5692] (1) Part 3 (personal awards) is amended as follows.
 
 (2) In article 11A (special member’s ordinary pension)[^f00007], in paragraph (8) after “Part 11” insert “and articles 84B and 84C of Part 12”.
 
-**3.**[^key-70bf76b491a4c9e961683a9874d3e825] (1) Part 5 (awards on death) is amended as follows.
+**3.**[^c-70bf76b491a4c9e961683a9874d3e825] (1) Part 5 (awards on death) is amended as follows.
 
 (2) In article 35B (death grant for extended limited period)[^f00008]—
 
@@ -234,7 +234,7 @@ Article 2
 
 .
 
-**4.**[^key-5b80e34b79603ccb7a03812441af1754] (1) Part 11 (pensionable pay, pension contributions and purchase of additional service) is amended as follows.
+**4.**[^c-5b80e34b79603ccb7a03812441af1754] (1) Part 11 (pensionable pay, pension contributions and purchase of additional service) is amended as follows.
 
 (2) In article 65B (Purchase of service during the extended limited period)—
 
@@ -244,7 +244,7 @@ Article 2
 
 (3) In article 66B (election to purchase service during the limited period or the extended limited period: supplemental provision), in paragraphs (13) and (14)[^f00010], for “30th April 2025” substitute “1st September 2027.
 
-**5.**[^key-dae715d0096b6f9add73b529f74ddd15] (1) Part 12 (transfers into and out of the scheme) is amended as follows.
+**5.**[^c-dae715d0096b6f9add73b529f74ddd15] (1) Part 12 (transfers into and out of the scheme) is amended as follows.
 
 (2) In article 84B (converting membership from standard membership to special membership), for paragraph (1)(a)[^f00011], substitute—
 
@@ -308,7 +308,7 @@ Article 2
 
 .
 
-**6.**[^key-15e43f67936b580b7bda23dc7600f874] (1) Part 15 (miscellaneous provisions) is amended as follows.
+**6.**[^c-15e43f67936b580b7bda23dc7600f874] (1) Part 15 (miscellaneous provisions) is amended as follows.
 
 (2) After article 105 (death on or before 31st March 2007 of retained or volunteer firefighter employed before 6th April 2006) insert—
 
@@ -391,31 +391,31 @@ An impact assessment has not been produced for this Order as no impact on the pr
 
 [^f00004]: Footnote: Formerly the Department of Finance and Personnel, see [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-bfcd0bc7f7387350f71fc537d34fb0e9]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
+[^c-bfcd0bc7f7387350f71fc537d34fb0e9]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
 
-[^key-a921c98ce18978ed1766724a4dd965e0]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2026/150/article/2) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
+[^c-a921c98ce18978ed1766724a4dd965e0]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2026/150/article/2) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
 
 [^f00005]: Footnote: [S.R. 2007 No. 215](https://www.legislation.gov.uk/nisr/2007/215), amended by [S.R. 2008 No. 381](https://www.legislation.gov.uk/nisr/2008/381), [S.R. 2012 No. 162](https://www.legislation.gov.uk/nisr/2012/162), [S.R. 2013 No. 84](https://www.legislation.gov.uk/nisr/2013/84) and No. [172](https://www.legislation.gov.uk/nisr/2013/172), [S.R. 2014 No. 57](https://www.legislation.gov.uk/nisr/2014/57) and No. [168](https://www.legislation.gov.uk/nisr/2014/168), [S.R. 2015 No. 9](https://www.legislation.gov.uk/nisr/2015/9), No. [10](https://www.legislation.gov.uk/nisr/2015/10), No. [355](https://www.legislation.gov.uk/nisr/2015/355), No. [420](https://www.legislation.gov.uk/nisr/2015/420) and No [422](https://www.legislation.gov.uk/nisr/2015/422), [S.R. 2022 No. 155](https://www.legislation.gov.uk/nisr/2022/155), [S.R. 2023 No. 178](https://www.legislation.gov.uk/nisr/2023/178), [S.R. 2024 No. 130](https://www.legislation.gov.uk/nisr/2024/130) and [S.R. 2024 No.218](https://www.legislation.gov.uk/nisr/2024/218).
 
-[^key-c7d8c93b710a4361473d2540c1ad93a9]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/1) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
+[^c-c7d8c93b710a4361473d2540c1ad93a9]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/1) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
 
 [^f00006]: Footnote: Article 66B was inserted by [S.R. 2015 No 9](https://www.legislation.gov.uk/nisr/2015/9).
 
-[^key-d5e819abe6188fcf045c835e5d6b5692]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/2) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
+[^c-d5e819abe6188fcf045c835e5d6b5692]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/2) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
 
 [^f00007]: Footnote: Article 11A was inserted by [S.R. 2015 No 9](https://www.legislation.gov.uk/nisr/2015/9).
 
-[^key-70bf76b491a4c9e961683a9874d3e825]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
+[^c-70bf76b491a4c9e961683a9874d3e825]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/3) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
 
 [^f00008]: Footnote: Article 35B was inserted by [S.R. 2023 No 178](https://www.legislation.gov.uk/nisr/2023/178).
 
 [^f00009]: Footnote: Article 35C was inserted by [S.R. 2023 No 178](https://www.legislation.gov.uk/nisr/2023/178)
 
-[^key-5b80e34b79603ccb7a03812441af1754]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/4) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
+[^c-5b80e34b79603ccb7a03812441af1754]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/4) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
 
 [^f00010]: Footnote: Paragraphs (13) and (14) were inserted by [S.R. 2023 No. 178](https://www.legislation.gov.uk/nisr/2023/178).
 
-[^key-dae715d0096b6f9add73b529f74ddd15]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/5) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
+[^c-dae715d0096b6f9add73b529f74ddd15]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/5) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
 
 [^f00011]: Footnote: Amended by [S.R. 2023 No. 178](https://www.legislation.gov.uk/nisr/2023/178).
 
@@ -423,6 +423,6 @@ An impact assessment has not been produced for this Order as no impact on the pr
 
 [^f00013]: Footnote: Amended by [S.R. 2023 No. 178](https://www.legislation.gov.uk/nisr/2023/178)
 
-[^key-15e43f67936b580b7bda23dc7600f874]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/6) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
+[^c-15e43f67936b580b7bda23dc7600f874]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2026/150/schedule/paragraph/6) in operation at 1.9.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/150/article/1)
 
 [^f00014]: Footnote: Article 65C was inserted by S.R. .

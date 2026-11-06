@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Requirements to change name: removal of old name from public inspection[^key-db85cf57855b40f7e86517f09dd61074][^key-c4d4dd3da0302ff9bbe0ab8f71ad11dd]
+## 14. Requirements to change name: removal of old name from public inspection[^c-db85cf57855b40f7e86517f09dd61074][^c-c4d4dd3da0302ff9bbe0ab8f71ad11dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-db85cf57855b40f7e86517f09dd61074]: Commencement: S. 14 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-db85cf57855b40f7e86517f09dd61074]: Commencement: S. 14 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-c4d4dd3da0302ff9bbe0ab8f71ad11dd]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/56/section/14) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/j)
+[^c-c4d4dd3da0302ff9bbe0ab8f71ad11dd]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/56/section/14) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/j)

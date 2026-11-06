@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Duty to hold inquest[^key-36eec55fd905839291ffe26f962c069c]
+## 6. Duty to hold inquest[^c-36eec55fd905839291ffe26f962c069c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ This is subject to section 4(3)(a).
 
 ## Annotations
 
-[^key-36eec55fd905839291ffe26f962c069c]: Commencement: S. 6 in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)
+[^c-36eec55fd905839291ffe26f962c069c]: Commencement: S. 6 in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)

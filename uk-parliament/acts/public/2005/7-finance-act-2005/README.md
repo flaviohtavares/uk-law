@@ -227,7 +227,7 @@ We, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 70 — Valuation of the “rights to guaranteed income” and “disposed rights”](part-2/section-70.md)
 - [Section 71 — Meaning of “company” and related terms](part-2/section-71.md)
 
-#### Chapter 7 — Avoidance involving partnership[^key-3277b537b2ac30beb7f98cb0d1ddb2fa]
+#### Chapter 7 — Avoidance involving partnership[^c-3277b537b2ac30beb7f98cb0d1ddb2fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -350,4 +350,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-3277b537b2ac30beb7f98cb0d1ddb2fa]: Textual amendment: Pt. 2 Ch. 7 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-3277b537b2ac30beb7f98cb0d1ddb2fa]: Textual amendment: Pt. 2 Ch. 7 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.1. When this Part applies[^key-3dec5a4a4900d7a4a0d6fc59f3d1d07c]
+## 27.1. When this Part applies[^c-3dec5a4a4900d7a4a0d6fc59f3d1d07c]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ if there is new and compelling evidence and it is in the interests of justice to
 
 ## Annotations
 
-[^key-3dec5a4a4900d7a4a0d6fc59f3d1d07c]: Commencement: [Rule 27.1](https://www.legislation.gov.uk/uksi/2025/909/rule/27.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3dec5a4a4900d7a4a0d6fc59f3d1d07c]: Commencement: [Rule 27.1](https://www.legislation.gov.uk/uksi/2025/909/rule/27.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00629]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25).
 

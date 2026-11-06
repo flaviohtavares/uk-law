@@ -39,34 +39,34 @@ amending Decision 2011/891/EU and Implementing Decisions (EU) 2017/1211, (EU) 20
 
 (Text with EEA relevance) (revoked)
 
-[^key-ad0ed78b7743ce32fcdaaea8215d9b44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad0ed78b7743ce32fcdaaea8215d9b44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendment to Decision 2011/891/EU[^key-ad0ed78b7743ce32fcdaaea8215d9b44]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendment to Implementing Decision (EU) 2017/1211[^key-ad0ed78b7743ce32fcdaaea8215d9b44]
+## Article 1. Amendment to Decision 2011/891/EU[^c-ad0ed78b7743ce32fcdaaea8215d9b44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment to Implementing Decision (EU) 2017/1212[^key-ad0ed78b7743ce32fcdaaea8215d9b44]
+## Article 2. Amendment to Implementing Decision (EU) 2017/1211[^c-ad0ed78b7743ce32fcdaaea8215d9b44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendment to Implementing Decision (EU) 2017/2449[^key-ad0ed78b7743ce32fcdaaea8215d9b44]
+## Article 3. Amendment to Implementing Decision (EU) 2017/1212[^c-ad0ed78b7743ce32fcdaaea8215d9b44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Amendment to Implementing Decision (EU) 2017/2450[^key-ad0ed78b7743ce32fcdaaea8215d9b44]
+## Article 4. Amendment to Implementing Decision (EU) 2017/2449[^c-ad0ed78b7743ce32fcdaaea8215d9b44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Addressee[^key-ad0ed78b7743ce32fcdaaea8215d9b44]
+## Article 5. Amendment to Implementing Decision (EU) 2017/2450[^c-ad0ed78b7743ce32fcdaaea8215d9b44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad0ed78b7743ce32fcdaaea8215d9b44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 6. Addressee[^c-ad0ed78b7743ce32fcdaaea8215d9b44]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ad0ed78b7743ce32fcdaaea8215d9b44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad0ed78b7743ce32fcdaaea8215d9b44]: Textual amendment: Decision revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/2/paragraph/2)
+[^c-ad0ed78b7743ce32fcdaaea8215d9b44]: Textual amendment: Decision revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/2/paragraph/2)

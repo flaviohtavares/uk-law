@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Finances of the Council[^key-cda062204d0e57ac603fdcab35a92774]
+## 51. Finances of the Council[^c-cda062204d0e57ac603fdcab35a92774]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cda062204d0e57ac603fdcab35a92774]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2002/253/article/51) in force at 1.4.2002 as notified in the London Gazette (Issue 56517, published 25.3.2002), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-cda062204d0e57ac603fdcab35a92774]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2002/253/article/51) in force at 1.4.2002 as notified in the London Gazette (Issue 56517, published 25.3.2002), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)

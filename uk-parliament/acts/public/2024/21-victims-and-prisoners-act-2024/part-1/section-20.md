@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Child victims of domestic abuse[^key-e9b65b70c1b96c799cdbd6dca252e982][^key-a407c147e6984f7d80046a88d78e0be6]
+## 20. Child victims of domestic abuse[^c-e9b65b70c1b96c799cdbd6dca252e982][^c-a407c147e6984f7d80046a88d78e0be6]
 
 *Extent: E+W*
 
@@ -79,6 +79,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e9b65b70c1b96c799cdbd6dca252e982]: Commencement: S. 20 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-e9b65b70c1b96c799cdbd6dca252e982]: Commencement: S. 20 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-a407c147e6984f7d80046a88d78e0be6]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2024/21/section/20) in force at 7.11.2025 for specified purposes by [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1168/regulation/2)
+[^c-a407c147e6984f7d80046a88d78e0be6]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2024/21/section/20) in force at 7.11.2025 for specified purposes by [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1168/regulation/2)

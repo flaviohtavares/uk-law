@@ -46,7 +46,7 @@ Coming into force
 
 The Treasury make the following Regulations in exercise of the powers conferred by sections 83(1) and (2) and 84(2) of the Financial Services and Markets Act 2023[^f00001].
 
-## 1. Citation, commencement and extent[^key-21c4181ad8233b9fd2ca97be94bc7ad3]
+## 1. Citation, commencement and extent[^c-21c4181ad8233b9fd2ca97be94bc7ad3]
 
 (1) These Regulations may be cited as the Insurance and Reinsurance Undertakings (Prudential Requirements) (Transitional Provisions and Consequential Amendments) Regulations 2024.
 
@@ -54,7 +54,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Interpretation[^key-72ffd6df6c9241a26d30867a9c23d83b]
+## 2. Interpretation[^c-72ffd6df6c9241a26d30867a9c23d83b]
 
 (1) In these Regulations—
 
@@ -66,7 +66,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 (2) Any other term used in these Regulations which is used in PRA rules applicable to insurance and reinsurance undertakings has the same meaning as in those rules.
 
-## 3. Transitional provision - approvals under regulation 42 of the Solvency 2 Regulations 2015[^key-1d85b2c9f78ebf0bdecf403e557cadd7]
+## 3. Transitional provision - approvals under regulation 42 of the Solvency 2 Regulations 2015[^c-1d85b2c9f78ebf0bdecf403e557cadd7]
 
 (1) This regulation applies where immediately before 30th June 2024 an insurance or reinsurance undertaking has an approval pursuant to regulation 42 of the Solvency 2 Regulations 2015[^f00003] to apply a matching adjustment to a risk-free interest rate term structure in order to calculate the best estimate of a portfolio of life insurance or reinsurance obligations.
 
@@ -87,7 +87,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 (5) Nothing in this regulation prevents the PRA from varying or revoking a matching adjustment permission in accordance with section 138BA of FSMA 2000 and the Financial Services and Markets Act 2000 (Disapplication or Modification of Financial Regulator Rules in Individual Cases) Regulations 2024.
 
-## 4. Consequential amendments to the Solvency 2 Regulations 2015[^key-48378121326897dd17a4f535fa4e9f93]
+## 4. Consequential amendments to the Solvency 2 Regulations 2015[^c-48378121326897dd17a4f535fa4e9f93]
 
 (1) The Solvency 2 Regulations 2015 are amended as follows.
 
@@ -97,14 +97,14 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 (4) In regulation 58 (modification or waiver of rules), in paragraph (2) omit “42,”.
 
-## 5. Consequential amendments to the Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019[^key-ee3b26d04be45741aed6cc9fa12d7e3d]
+## 5. Consequential amendments to the Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019[^c-ee3b26d04be45741aed6cc9fa12d7e3d]
 
 In the Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019[^f00008], in paragraph 9 of Schedule 1 (matters in respect of which the Treasury may make regulations)—
 
 - (a) omit sub-paragraphs (g) and (h);
 - (b) in sub-paragraph (i) omit the words from “, including a formula” to the end.
 
-## 6. Consequential amendments to [Regulation (EU) 2015/35](https://www.legislation.gov.uk/european/regulation/2015/0035)[^key-2cfb5488ac6c590204241a4ed48f5095]
+## 6. Consequential amendments to [Regulation (EU) 2015/35](https://www.legislation.gov.uk/european/regulation/2015/0035)[^c-2cfb5488ac6c590204241a4ed48f5095]
 
 (1) Commission Delegated [Regulation (EU) 2015/35](https://www.legislation.gov.uk/european/regulation/2015/0035) of 10 October 2014 supplementing [Directive 2009/138/EC](https://www.legislation.gov.uk/european/directive/2009/0138) of the European Parliament and of the Council on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) [^f00009] is amended as follows.
 
@@ -148,7 +148,7 @@ In the Solvency 2 and Insurance (Amendment, etc.) (EU Exit) Regulations 2019[^f0
 
 (12) In Article 308 (system of governance), in paragraph 3(f), for the words from “the extrapolation” to the end substitute “the matching adjustment, and the extrapolation of the risk-free rate and the volatility adjustment as referred to in Article 44(2a) of [Directive 2009/138/EC](https://www.legislation.gov.uk/european/directive/2009/0138)”.
 
-## 7. Transitional provision – other approvals under the Solvency 2 Regulations 2015[^key-93786fdd91724fe5ccdb37904a862a31]
+## 7. Transitional provision – other approvals under the Solvency 2 Regulations 2015[^c-93786fdd91724fe5ccdb37904a862a31]
 
 (1) This regulation applies where immediately before 31st December 2024 an insurance undertaking, a reinsurance undertaking, or an intermediate holding company, as the case may be, has an approval under a regulation of the Solvency 2 Regulations 2015[^f00008] listed in the first column of the table in the Schedule (“the table”).
 
@@ -184,7 +184,7 @@ Two of the Lords Commissioners of His Majesty’s Treasury
 
 1st May 2024
 
-## SCHEDULE  — Approvals under the Solvency 2 Regulations 2015[^key-ff2eb60c981f93354d88216487e92b95]
+## SCHEDULE  — Approvals under the Solvency 2 Regulations 2015[^c-ff2eb60c981f93354d88216487e92b95]
 
 Regulation 7(1)
 
@@ -225,13 +225,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2023 c. 29](https://www.legislation.gov.uk/ukpga/2023/29).
 
-[^key-21c4181ad8233b9fd2ca97be94bc7ad3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/594/regulation/1) in force at 30.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/594/regulation/1/2)
+[^c-21c4181ad8233b9fd2ca97be94bc7ad3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/594/regulation/1) in force at 30.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/594/regulation/1/2)
 
-[^key-72ffd6df6c9241a26d30867a9c23d83b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/594/regulation/2) in force at 30.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/594/regulation/1/2)
+[^c-72ffd6df6c9241a26d30867a9c23d83b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/594/regulation/2) in force at 30.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/594/regulation/1/2)
 
 [^f00002]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). The definitions of “insurance undertaking” and “reinsurance undertaking” in section 417(1) were inserted by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575) and substituted by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
-[^key-1d85b2c9f78ebf0bdecf403e557cadd7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/594/regulation/3) in force at 30.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/594/regulation/1/2)
+[^c-1d85b2c9f78ebf0bdecf403e557cadd7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/594/regulation/3) in force at 30.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/594/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575). Regulation 42 was amended by [S.I. 2019/407](https://www.legislation.gov.uk/uksi/2019/407).
 
@@ -241,15 +241,15 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00006]: Footnote: [S.I. 2023/1347](https://www.legislation.gov.uk/uksi/2023/1347).
 
-[^key-48378121326897dd17a4f535fa4e9f93]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/594/regulation/4) in force at 30.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/594/regulation/1/2)
+[^c-48378121326897dd17a4f535fa4e9f93]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/594/regulation/4) in force at 30.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/594/regulation/1/2)
 
 [^f00007]: Footnote: Regulation 54 was amended by [S.I. 2023/1346](https://www.legislation.gov.uk/uksi/2023/1346).
 
-[^key-ee3b26d04be45741aed6cc9fa12d7e3d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/594/regulation/5) in force at 30.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/594/regulation/1/2)
+[^c-ee3b26d04be45741aed6cc9fa12d7e3d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/594/regulation/5) in force at 30.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/594/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2019/407](https://www.legislation.gov.uk/uksi/2019/407).
 
-[^key-2cfb5488ac6c590204241a4ed48f5095]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/594/regulation/6) in force at 30.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/594/regulation/1/2)
+[^c-2cfb5488ac6c590204241a4ed48f5095]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/594/regulation/6) in force at 30.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/594/regulation/1/2)
 
 [^f00009]: Footnote: EUR 2015/35.
 
@@ -257,6 +257,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00011]: Footnote: Article 278(1) was amended by [S.I. 2019/407](https://www.legislation.gov.uk/uksi/2019/407).
 
-[^key-93786fdd91724fe5ccdb37904a862a31]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/594/regulation/7) inserted (31.12.2024) by [The Insurance and Reinsurance Undertakings (Overseas Insurance Regime, Transitional Provisions, etc.) Regulations 2024 (S.I. 2024/1116)](https://www.legislation.gov.uk/uksi/2024/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1116/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2024/1116/regulation/5/1)
+[^c-93786fdd91724fe5ccdb37904a862a31]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/594/regulation/7) inserted (31.12.2024) by [The Insurance and Reinsurance Undertakings (Overseas Insurance Regime, Transitional Provisions, etc.) Regulations 2024 (S.I. 2024/1116)](https://www.legislation.gov.uk/uksi/2024/1116), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1116/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2024/1116/regulation/5/1)
 
-[^key-ff2eb60c981f93354d88216487e92b95]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2024/594/schedule) inserted (31.12.2024) by [The Insurance and Reinsurance Undertakings (Overseas Insurance Regime, Transitional Provisions, etc.) Regulations 2024 (S.I. 2024/1116)](https://www.legislation.gov.uk/uksi/2024/1116), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1116/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1116/schedule)
+[^c-ff2eb60c981f93354d88216487e92b95]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2024/594/schedule) inserted (31.12.2024) by [The Insurance and Reinsurance Undertakings (Overseas Insurance Regime, Transitional Provisions, etc.) Regulations 2024 (S.I. 2024/1116)](https://www.legislation.gov.uk/uksi/2024/1116), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1116/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1116/schedule)

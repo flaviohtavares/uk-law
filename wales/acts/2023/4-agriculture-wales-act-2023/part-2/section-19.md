@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Power to modify legislation relating to support for rural development[^key-af1e296e159506aa8b8fdc290d3d18ae]
+## 19. Power to modify legislation relating to support for rural development[^c-af1e296e159506aa8b8fdc290d3d18ae]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af1e296e159506aa8b8fdc290d3d18ae]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2023/4/section/19) in force at 17.10.2023, see [s. 56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c)
+[^c-af1e296e159506aa8b8fdc290d3d18ae]: Commencement: [S. 19](https://www.legislation.gov.uk/asc/2023/4/section/19) in force at 17.10.2023, see [s. 56(2)(c)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/c)

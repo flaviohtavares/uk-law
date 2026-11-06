@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Board[^key-8d4f9e5b7a52d34c7218b813992b556b] may, subject to such conditions and exceptions as may be prescribed, enter into a general ophthalmic services contract with any person.
+(1) The Board[^c-8d4f9e5b7a52d34c7218b813992b556b] may, subject to such conditions and exceptions as may be prescribed, enter into a general ophthalmic services contract with any person.
 
 (2) But it may not enter into such a contract with a person who has been disqualified from doing so by an order of disqualification made by virtue of regulations under section 119.
 
 ## Annotations
 
-[^key-8d4f9e5b7a52d34c7218b813992b556b]: Textual amendment: Words in s. 118(1) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/56); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-8d4f9e5b7a52d34c7218b813992b556b]: Textual amendment: Words in s. 118(1) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/56); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

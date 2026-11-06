@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 485. Appointment of auditors of private company: general[^c19901351][^c19901331][^c19667241][^c20617691][^key-f60a8a35ffe04e63f582726cc704c75d][^c19901231][^c19901141]
+## 485. Appointment of auditors of private company: general[^c19901351][^c19901331][^c19667241][^c20617691][^c-f60a8a35ffe04e63f582726cc704c75d][^c19901231][^c19901141]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ This is the “period for appointing auditors”.
 (5) An auditor or auditors of a private company may only be appointed—
 
 - (a) in accordance with this section, or
-- (b) in accordance with section 486 or 486A[^key-c9d58c398261fde6bdba9f9099dea34f] (default power of Secretary of State).
+- (b) in accordance with section 486 or 486A[^c-c9d58c398261fde6bdba9f9099dea34f] (default power of Secretary of State).
 
 This is without prejudice to any deemed re-appointment under section 487.
 
@@ -58,10 +58,10 @@ This is without prejudice to any deemed re-appointment under section 487.
 
 [^c20617691]: Modification: Ss. 484-539 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/11) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-f60a8a35ffe04e63f582726cc704c75d]: Modification: S. 485 applied (with modifications) by S.I. 2008/565, reg. 6(1)(1A) (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/6/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
+[^c-f60a8a35ffe04e63f582726cc704c75d]: Modification: S. 485 applied (with modifications) by S.I. 2008/565, reg. 6(1)(1A) (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/6/a) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
 
 [^c19901231]: Modification: Ss. 485-488 applied (with modifications) (6.4.2008) by [The Bank Accounts Directive (Miscellaneous Banks) Regulations 2008 (S.I. 2008/567)](https://www.legislation.gov.uk/uksi/2008/567), [reg. 4](https://www.legislation.gov.uk/uksi/2008/567/regulation/4), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2008/567/schedule/paragraph/9) (with [Sch. para. 11](https://www.legislation.gov.uk/uksi/2008/567/schedule/paragraph/11))
 
 [^c19901141]: Modification: Ss. 485-488 applied (with modifications) (1.10.2008) by [The Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 (S.I. 2008/1911)](https://www.legislation.gov.uk/uksi/2008/1911), [reg. 36](https://www.legislation.gov.uk/uksi/2008/1911/regulation/36); (as amended: (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/11) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)); and (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [18](https://www.legislation.gov.uk/uksi/2021/153/regulation/18))
 
-[^key-c9d58c398261fde6bdba9f9099dea34f]: Textual amendment: Words in s. 485(5)(b) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/14) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-c9d58c398261fde6bdba9f9099dea34f]: Textual amendment: Words in s. 485(5)(b) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/14) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

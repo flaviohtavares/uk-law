@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. A rent assessment or an assessment of money payable in lieu of rent[^key-28606ff0d41b04a88af570f8b4d844a4]
+## 27. A rent assessment or an assessment of money payable in lieu of rent[^c-28606ff0d41b04a88af570f8b4d844a4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The event specified in this regulation is that the tied pub tenant receives a re
 
 ## Annotations
 
-[^key-28606ff0d41b04a88af570f8b4d844a4]: Commencement: Reg. 27 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-28606ff0d41b04a88af570f8b4d844a4]: Commencement: Reg. 27 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

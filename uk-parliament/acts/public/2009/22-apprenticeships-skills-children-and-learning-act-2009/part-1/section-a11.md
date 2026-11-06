@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A11. Only statutory apprenticeships to be described as apprenticeships[^key-8c151c1d0de582abef2af281771c10d6][^key-86e3546cc5697f54eb7036d249310bac]
+## A11. Only statutory apprenticeships to be described as apprenticeships[^c-8c151c1d0de582abef2af281771c10d6][^c-86e3546cc5697f54eb7036d249310bac]
 
 *Extent: E+W+S*
 
@@ -78,6 +78,6 @@ A report under paragraph (b) must be in such form, and contain such particulars,
 
 ## Annotations
 
-[^key-8c151c1d0de582abef2af281771c10d6]: Textual amendment: S. A11 inserted (1.4.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 25(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/25/1), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/c)
+[^c-8c151c1d0de582abef2af281771c10d6]: Textual amendment: S. A11 inserted (1.4.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 25(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/25/1), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/c)
 
-[^key-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
+[^c-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)

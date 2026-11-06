@@ -36,7 +36,7 @@ An Act to remove the end date for qualifying for payments under Article 137A of 
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Time for qualifying for particular payments[^key-d9b7c67e61722fbc17611ad375565bd8]
+## 1. Time for qualifying for particular payments[^c-d9b7c67e61722fbc17611ad375565bd8]
 
 (1) The Welfare Reform (Northern Ireland) Order 2015 is amended as follows.
 
@@ -51,7 +51,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
   .
 
-## 2. Deemed effect of certain pre-existing provisions[^key-a1f695d9dee07dc71099c2ee641628b7]
+## 2. Deemed effect of certain pre-existing provisions[^c-a1f695d9dee07dc71099c2ee641628b7]
 
 (1) Article 137A of the Welfare Reform (Northern Ireland) Order 2015 is to be regarded as having always had effect subject to the amendment made to it by this Act.
 
@@ -72,7 +72,7 @@ and such regulations are to be so taken as if that Article has always had effect
 - (a) any statutory provisions (apart from this Act) giving power to make, amend or revoke regulations under Article 137A of that Order, and
 - (b) the effect prior to the day of the coming into operation of this Act of regulations made under that Article.
 
-## 3. Monitoring and reporting as to statutory arrangements[^key-c29544d603b7c8116ff21507da045332]
+## 3. Monitoring and reporting as to statutory arrangements[^c-c29544d603b7c8116ff21507da045332]
 
 (1) The Department for Communities must—
 
@@ -89,7 +89,7 @@ and such regulations are to be so taken as if that Article has always had effect
 
 (5) The report must be laid before the Assembly at some time during the period of 12 months ending on 31st March 2025.
 
-## 4. Commencement and short title[^key-6426d5c24741db35da423d8552408a0e]
+## 4. Commencement and short title[^c-6426d5c24741db35da423d8552408a0e]
 
 (1) This Act comes into operation on the day after receiving Royal Assent.
 
@@ -97,10 +97,10 @@ and such regulations are to be so taken as if that Article has always had effect
 
 ## Annotations
 
-[^key-d9b7c67e61722fbc17611ad375565bd8]: Commencement: S. 1 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)
+[^c-d9b7c67e61722fbc17611ad375565bd8]: Commencement: S. 1 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)
 
-[^key-a1f695d9dee07dc71099c2ee641628b7]: Commencement: S. 2 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)
+[^c-a1f695d9dee07dc71099c2ee641628b7]: Commencement: S. 2 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)
 
-[^key-c29544d603b7c8116ff21507da045332]: Commencement: S. 3 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)
+[^c-c29544d603b7c8116ff21507da045332]: Commencement: S. 3 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)
 
-[^key-6426d5c24741db35da423d8552408a0e]: Commencement: S. 4 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)
+[^c-6426d5c24741db35da423d8552408a0e]: Commencement: S. 4 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/22/section/4/1)

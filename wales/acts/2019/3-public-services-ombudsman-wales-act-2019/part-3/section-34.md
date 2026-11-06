@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Power to issue guidance[^key-3afbd46c0596f34dc9aead6e1094efcc]
+## 34. Power to issue guidance[^c-3afbd46c0596f34dc9aead6e1094efcc]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3afbd46c0596f34dc9aead6e1094efcc]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2019/3/section/34) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-3afbd46c0596f34dc9aead6e1094efcc]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2019/3/section/34) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — THE HISTORIC BUILDINGS COUNCIL[^key-300617f51af1b1f230caa3ecb9371de4]
+## SCHEDULE 3 — THE HISTORIC BUILDINGS COUNCIL[^c-300617f51af1b1f230caa3ecb9371de4]
 
 *Extent: N.I.*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Article 105(3).
 
-**1.**[^key-300617f51af1b1f230caa3ecb9371de4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-300617f51af1b1f230caa3ecb9371de4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-300617f51af1b1f230caa3ecb9371de4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-300617f51af1b1f230caa3ecb9371de4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-300617f51af1b1f230caa3ecb9371de4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-300617f51af1b1f230caa3ecb9371de4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-300617f51af1b1f230caa3ecb9371de4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-300617f51af1b1f230caa3ecb9371de4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-300617f51af1b1f230caa3ecb9371de4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-300617f51af1b1f230caa3ecb9371de4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-300617f51af1b1f230caa3ecb9371de4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-300617f51af1b1f230caa3ecb9371de4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-300617f51af1b1f230caa3ecb9371de4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-300617f51af1b1f230caa3ecb9371de4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-300617f51af1b1f230caa3ecb9371de4]: Textual amendment: Sch. 3 repealed (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-300617f51af1b1f230caa3ecb9371de4]: Textual amendment: Sch. 3 repealed (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

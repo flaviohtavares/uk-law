@@ -31,11 +31,11 @@ Licensing (Amendment) (Scotland) Act 1996 (repealed)
 
 1996 c. 36
 
-[^key-6f313403b8c951f8c55cad76526db63f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f313403b8c951f8c55cad76526db63f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Licensing conditions for certain events.[^key-6f313403b8c951f8c55cad76526db63f]
+## 1. Licensing conditions for certain events.[^c-6f313403b8c951f8c55cad76526db63f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -43,10 +43,10 @@ Licensing (Amendment) (Scotland) Act 1996 (repealed)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title, commencement and extent.[^key-6f313403b8c951f8c55cad76526db63f]
+## 3. Short title, commencement and extent.[^c-6f313403b8c951f8c55cad76526db63f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f313403b8c951f8c55cad76526db63f]: Textual amendment: Act repealed (1.5.2007 for the repeal of s. 2, 1.9.2009 at 5.00 a.m. in so far as not already in force) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-6f313403b8c951f8c55cad76526db63f]: Textual amendment: Act repealed (1.5.2007 for the repeal of s. 2, 1.9.2009 at 5.00 a.m. in so far as not already in force) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

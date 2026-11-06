@@ -24,7 +24,7 @@ Regulation 23
 
 ### PART 1 — General interpretation
 
-**1.**[^key-309b12e4344f7da482b32f756acad309] In this Schedule—
+**1.**[^c-309b12e4344f7da482b32f756acad309] In this Schedule—
 
 - “[Directive 93/85/EEC](https://www.legislation.gov.uk/european/directive/1993/0085)” means Council [Directive 93/85/EEC](https://www.legislation.gov.uk/european/directive/1993/0085) on the control of potato ring rot;
 - “[Directive 98/57/EC](https://www.legislation.gov.uk/european/directive/1998/0057)” means Council [Directive 98/57/EC](https://www.legislation.gov.uk/european/directive/1998/0057) on the control of *Ralstonia solanacearum* (Smith) Yabuuchi *et. al*;
@@ -38,7 +38,7 @@ Regulation 23
 
 ### PART 2 — General provisions relating to the planting of certain solanaceous species
 
-#### 2. General restrictions on the planting of potatoes[^key-ea2695b72ae84e1d939e8b077a221da2]
+#### 2. General restrictions on the planting of potatoes[^c-ea2695b72ae84e1d939e8b077a221da2]
 
 (1) A person must not knowingly plant, or knowingly cause or permit to be planted, any potatoes which have been grown in a third country, other than Switzerland, or any potatoes produced from those potatoes.
 
@@ -48,7 +48,7 @@ Regulation 23
 - (b) they have been found to be free from Potato ring rot in official tests using the methods set out in Annex 1 to [Directive 93/85/EEC](https://www.legislation.gov.uk/european/directive/1993/0085);
 - (c) they have been found to be free from Potato brown rot in official tests using the methods set out in Annex 2 to [Directive 98/57/EC](https://www.legislation.gov.uk/european/directive/1998/0057).
 
-(2A)[^key-c6542098375ef78a87547ee48b2f12eb] But sub-paragraphs (1) and (2)(a) do not apply in relation to tubers of *Solanum tuberosum L*. (seed potatoes) from Great Britain that have entered Northern Ireland as part of a consignment with a Northern Ireland plant health label, or (as regards sub-paragraph (1)), any potatoes produced from those potatoes
+(2A)[^c-c6542098375ef78a87547ee48b2f12eb] But sub-paragraphs (1) and (2)(a) do not apply in relation to tubers of *Solanum tuberosum L*. (seed potatoes) from Great Britain that have entered Northern Ireland as part of a consignment with a Northern Ireland plant health label, or (as regards sub-paragraph (1)), any potatoes produced from those potatoes
 
 (3) A person must not knowingly plant, or knowingly cause or permit to be planted, any potatoes other than—
 
@@ -61,18 +61,18 @@ Regulation 23
 - (b) the invoices and delivery notes for the potatoes;
 - (c) in the case of potatoes marketed or marketable under the Seed Potatoes Regulations or potatoes which are their direct progeny and have been produced by the certificate holder, the certificate of classification.
 
-(5)[^key-a446a93e4396c13c1c1974dc3aa2df90] For the purposes of sub-paragraph (2A), “**Northern Ireland plant health label**” has the meaning given in regulation 2 of the Windsor Framework (Plant Health) Regulations 2023
+(5)[^c-a446a93e4396c13c1c1974dc3aa2df90] For the purposes of sub-paragraph (2A), “**Northern Ireland plant health label**” has the meaning given in regulation 2 of the Windsor Framework (Plant Health) Regulations 2023
 
 ### PART 3 — Measures for the control of Potato wart disease
 
-#### 3. Interpretation[^key-ab0bccb562b2d005d3bad812a303d77d]
+#### 3. Interpretation[^c-ab0bccb562b2d005d3bad812a303d77d]
 
 In this Part—
 
 - (a) “Potato wart disease” means either the disease of potatoes which is caused by the fungus *Synchytrium endobioticum* (Schilbersky) Percival or that fungus, as the context requires;
 - (b) a plot of land is to be regarded as a contaminated plot if Potato wart disease is confirmed by an official test to be present on at least one plant that is growing or was grown on that plot.
 
-#### 4. Official measures relating to contaminated plots of land[^key-1721baa016f3a463575f8e0bfe94153f]
+#### 4. Official measures relating to contaminated plots of land[^c-1721baa016f3a463575f8e0bfe94153f]
 
 (1) A plant health inspector must demarcate any contaminated plot and a safety zone around that plot which is large enough to ensure the protection of the surrounding areas.
 
@@ -80,7 +80,7 @@ In this Part—
 
 (3) Where a plant health inspector is satisfied that any potato tubers or haulms are contaminated with Potato wart disease and the inspector cannot determine whether those tubers or haulms have been present on a contaminated plot, the inspector may serve a notice under regulation 15(1) which requires the whole batch containing the affected tubers or haulms to be treated in such a way that there is no risk of Potato wart disease spreading.
 
-#### 5. Prohibition on the planting of potatoes on contaminated plots[^key-904bdd6ebf3f45d445014078eec711bd]
+#### 5. Prohibition on the planting of potatoes on contaminated plots[^c-904bdd6ebf3f45d445014078eec711bd]
 
 (1) Where a contaminated plot is demarcated under paragraph 4(1), no person may—
 
@@ -91,13 +91,13 @@ In this Part—
 
 (3) A potato variety is to be considered resistant to a particular race of Potato wart disease for the purposes of sub-paragraph (2) where that variety reacts to contamination by the pathogenic agent of that race in such a way that there is no danger of secondary infection.
 
-#### 6. Revocation of the demarcation of a contaminated plot[^key-fa5d127126c490c9c8b09ac112f01cb8]
+#### 6. Revocation of the demarcation of a contaminated plot[^c-fa5d127126c490c9c8b09ac112f01cb8]
 
 Where a plant health inspector is satisfied that Potato wart disease is no longer present on a plot which was demarcated under paragraph 4(1) or on its associated safety zone, the inspector must revoke that demarcation.
 
 ### PART 4 — Measures for the control of European populations of Potato cyst nematode
 
-#### 7. Interpretation[^key-5a0ca374b8eab2ba049f9f7613b5ffee]
+#### 7. Interpretation[^c-5a0ca374b8eab2ba049f9f7613b5ffee]
 
 In this Part—
 
@@ -110,20 +110,20 @@ In this Part—
 - “susceptible material” means host plants, susceptible bulbs or susceptible plants;
 - “susceptible plants” means plants with roots of *Allium porrum* L., *Asparagus officinalis* L., *Beta vulgaris* L., *Brassica* spp. or *Fragaria* L.
 
-#### 8. Official investigations and surveys[^key-9076a3ae3d417e4afda844714fe65836]
+#### 8. Official investigations and surveys[^c-9076a3ae3d417e4afda844714fe65836]
 
 The Department must ensure that—
 
 - (a) official investigations are carried out in accordance with Articles 4 and 5 of [Directive 2007/33/EC](https://www.legislation.gov.uk/european/directive/2007/0033) for the presence of Potato cyst nematodes in fields in which seed potatoes or susceptible material intended for the production of plants for planting are to be planted or stored;
 - (b) official surveys are carried out in accordance with Article 6 of [Directive 2007/33/EC](https://www.legislation.gov.uk/european/directive/2007/0033) for the presence of Potato cyst nematodes in fields used for the production of potatoes, other than those intended for the production of seed potatoes.
 
-#### 9. Official records of investigations and surveys[^key-3759d582a6863aac4789d1434e48baf5]
+#### 9. Official records of investigations and surveys[^c-3759d582a6863aac4789d1434e48baf5]
 
 (1) The Department must ensure that the results of each official investigation or official survey carried out pursuant to paragraph 8 are recorded to indicate whether Potato cyst nematodes were found in the fields during the investigation or survey.
 
 (2) Where the officially approved measures set out in Section 3(C) of Annex 3 to [Directive 2007/33/EC](https://www.legislation.gov.uk/european/directive/2007/0033) have been taken in a field which has been recorded as infested pursuant to sub-paragraph (1) and, following the completion of those measures, it is officially confirmed that Potato cyst nematodes are no longer present in the field, the Department must ensure that the record is updated accordingly.
 
-#### 10. Notices in relation to infested fields and contaminated susceptible material[^key-7b700e6728ddb863d0f8d2f6c7dd7682]
+#### 10. Notices in relation to infested fields and contaminated susceptible material[^c-7b700e6728ddb863d0f8d2f6c7dd7682]
 
 (1) A plant health inspector must serve a notice in writing on the occupier or other person in charge of an infested field which specifies the boundaries of the field.
 
@@ -131,7 +131,7 @@ The Department must ensure that—
 
 (3) A plant health inspector must by notice designate as contaminated any susceptible material which comes from a field that has been officially recorded as infested under paragraph 9(1) or any susceptible material which has been in contact with soil in which Potato cyst nematodes have been found.
 
-#### 11. Prohibition on the planting of potatoes in infested fields[^key-a186130402eb0f826ef45bd310a72296]
+#### 11. Prohibition on the planting of potatoes in infested fields[^c-a186130402eb0f826ef45bd310a72296]
 
 (1) Unless authorised to do so by an inspector, no person may—
 
@@ -142,29 +142,29 @@ The Department must ensure that—
 
 (3) An authorisation under sub-paragraph (2) must be by notice and must contain the measures set out in Section 3(A) of Annex 3 to [Directive 2007/33/EC](https://www.legislation.gov.uk/european/directive/2007/0033).
 
-#### 12. Controls on contaminated seed potatoes etc.[^key-2cba593016c765c29283bb6d9a41d48f]
+#### 12. Controls on contaminated seed potatoes etc.[^c-2cba593016c765c29283bb6d9a41d48f]
 
 (1) No person may plant any seed potatoes or any host plants which have been designated as infested pursuant to paragraph 10(3), unless authorised to do so by an inspector.
 
 (2) An authorisation under sub-paragraph (1) must be by notice and must contain the measures which the inspector considers necessary to decontaminate those seed potatoes or plants.
 
-#### 13. Controls on potatoes for industrial processing or grading[^key-2f271ad8d6b353cdcaf947bfca735a04]
+#### 13. Controls on potatoes for industrial processing or grading[^c-2f271ad8d6b353cdcaf947bfca735a04]
 
 (1) No person may move any potatoes which have been designated as infested pursuant to paragraph 10(3) and are intended for industrial processing or grading, unless authorised to do so by an inspector.
 
 (2) An authorisation under sub-paragraph (1) must be by notice and must require the potatoes to be delivered to a processing or grading plant that has appropriate and officially approved waste disposal procedures that ensure that there is no risk of Potato cyst nematodes spreading.
 
-#### 14. Controls on contaminated bulbs etc.[^key-2d5334fe317c1193990e4c395a6d06f0]
+#### 14. Controls on contaminated bulbs etc.[^c-2d5334fe317c1193990e4c395a6d06f0]
 
 No person may plant any susceptible bulbs or susceptible plants which have been designated as contaminated pursuant to paragraph 10(3), unless they have been subject to the measures set out in Section 3(A) of Annex 3 to [Directive 2007/33/EC](https://www.legislation.gov.uk/european/directive/2007/0033) and an inspector has confirmed by notice that they are no longer contaminated.
 
-#### 15. Further investigations for the presence of Potato cyst nematodes[^key-7fa6ad8b6b68039f7c3c051ecc267693]
+#### 15. Further investigations for the presence of Potato cyst nematodes[^c-7fa6ad8b6b68039f7c3c051ecc267693]
 
 If any suspected occurrence or confirmed presence of Potato cyst nematodes in Northern Ireland results from a breakdown or change in the effectiveness of a resistant potato variety which relates to an exceptional change in the composition of nematode species, pathotype or virulence group, the Department must ensure that the species of Potato cyst nematode and, where applicable, the pathotype and virulence group involved, is investigated and confirmed by appropriate methods.
 
 ### PART 5 — Measures for the control of Potato ring rot
 
-#### 16. Interpretation[^key-9a077a2ca2c882e7a02b9618a5d84016]
+#### 16. Interpretation[^c-9a077a2ca2c882e7a02b9618a5d84016]
 
 (1) In this Part—
 
@@ -177,7 +177,7 @@ If any suspected occurrence or confirmed presence of Potato cyst nematodes in No
 - “susceptible material” means tubers or plants of *Solanum tuberosum* L.;
 - “zone” means any area, including any individual premises.
 
-#### 17. Official surveys and testing[^key-d2ac01efb4d687885d44347a541767a8]
+#### 17. Official surveys and testing[^c-d2ac01efb4d687885d44347a541767a8]
 
 (1) The Department must ensure that systematic official surveys for Potato ring rot are carried out in Northern Ireland on tubers of *Solanum tuberosum* L. and, where appropriate, on plants of *Solanum tuberosum* L., in accordance with Article 2(1) of [Directive 93/85/EEC](https://www.legislation.gov.uk/european/directive/1993/0085).
 
@@ -195,7 +195,7 @@ If any suspected occurrence or confirmed presence of Potato cyst nematodes in No
 
 (3) A notice may contain measures for the purposes of sub-paragraph (2)(c)(i) to (iii).
 
-#### 18. Measures to be taken following the confirmation of the presence of Potato ring rot[^key-50713d3008d3941907c94153547681e5]
+#### 18. Measures to be taken following the confirmation of the presence of Potato ring rot[^c-50713d3008d3941907c94153547681e5]
 
 (1) If the presence of Potato ring rot is confirmed in a sample of susceptible material following official testing carried out pursuant to paragraph 17(2)(a) or sub-paragraph (2), the Department must ensure that—
 
@@ -211,7 +211,7 @@ If any suspected occurrence or confirmed presence of Potato cyst nematodes in No
 
 (5) Where any susceptible material or object is determined by a plant health inspector under sub-paragraph (1)(b) to be possibly contaminated, the inspector must by notice designate that material or object as possibly contaminated.
 
-#### 19. Restrictions in relation to susceptible material or objects contaminated or possibly contaminated with Potato ring rot[^key-fdc7fb2fe3521d312835a07844bea9ed]
+#### 19. Restrictions in relation to susceptible material or objects contaminated or possibly contaminated with Potato ring rot[^c-fdc7fb2fe3521d312835a07844bea9ed]
 
 (1) No person may knowingly plant or knowingly cause or permit to be planted—
 
@@ -228,7 +228,7 @@ If any suspected occurrence or confirmed presence of Potato cyst nematodes in No
 
 (3) Anything cleansed and disinfected in accordance with sub-paragraph (2)(c)(ii) may no longer be treated as contaminated for the purposes of [Directive 93/85/EEC](https://www.legislation.gov.uk/european/directive/1993/0085).
 
-#### 20. Measures in relation to a contaminated place of production[^key-d0defc6fd5450fafbd6189b4be72c9a4]
+#### 20. Measures in relation to a contaminated place of production[^c-d0defc6fd5450fafbd6189b4be72c9a4]
 
 (1) A plant health inspector must serve the following notices on any occupier or other person who is in charge of a contaminated place of production—
 
@@ -271,7 +271,7 @@ If any suspected occurrence or confirmed presence of Potato cyst nematodes in No
 
 (8) Where a plant health inspector serves a notice containing the first set of eradication measures, the Department must ensure that an official survey is carried out in relation to the field mentioned in sub-paragraph (2)(d) in accordance with Article 2 of [Directive 93/85/EEC](https://www.legislation.gov.uk/european/directive/1993/0085).
 
-#### 21. Additional measures applicable to a unit of protected crop production[^key-999b14be96a6f06aadc04b01831e50b0]
+#### 21. Additional measures applicable to a unit of protected crop production[^c-999b14be96a6f06aadc04b01831e50b0]
 
 (1) This paragraph applies to the planting of any potato tubers, plants or true seeds in a contaminated unit of protected crop production where it is possible to replace all of the growing medium in the unit.
 
@@ -285,7 +285,7 @@ If any suspected occurrence or confirmed presence of Potato cyst nematodes in No
 
 (4) Where an authorisation is granted under sub-paragraph (2), the authorisation may specify that only certified seed potatoes, mini-tubers or micro-plants derived from officially tested sources may be used in the production.
 
-#### 22. Measures to be taken in demarcated zones for the control of Potato ring rot[^key-096bcfca86f3c78570baec16574fc16e]
+#### 22. Measures to be taken in demarcated zones for the control of Potato ring rot[^c-096bcfca86f3c78570baec16574fc16e]
 
 (1) This paragraph applies where a plant health inspector has demarcated a zone pursuant to paragraph 18(1)(c).
 
@@ -323,7 +323,7 @@ If any suspected occurrence or confirmed presence of Potato cyst nematodes in No
 
 ### PART 6 — Measures for the control of Potato brown rot
 
-**23.**[^key-8bcb32aed81cf92509c4d20f03ef31b2] In this Schedule—
+**23.**[^c-8bcb32aed81cf92509c4d20f03ef31b2] In this Schedule—
 
 - “certified seed potatoes” means pre-basic seed potatoes or basic seed potatoes within the meaning given in regulation 2(1) of the Seed Potatoes Regulations;
 - “contaminated” means designated by a plant health inspector as contaminated for the purposes of Article 5(1)(a)(ii) of [Directive 98/57/EC](https://www.legislation.gov.uk/european/directive/1998/0057).
@@ -337,7 +337,7 @@ If any suspected occurrence or confirmed presence of Potato cyst nematodes in No
 - “susceptible material” means plants (including tubers), other than true seed, of *Solanum tuberosum* L. or plants, other than fruit or seeds, of *Solanum lycopersicum* L.;
 - “zone” means any area, including any individual premises.
 
-#### 24. Official surveys and testing[^key-e31fefa0f3f152e571f627d3326997b3]
+#### 24. Official surveys and testing[^c-e31fefa0f3f152e571f627d3326997b3]
 
 (1) The Department must ensure that annual systematic official surveys are carried out in Northern Ireland to identify the presence of Potato brown rot on susceptible material in accordance with Article 2 of [Directive 98/57/EC](https://www.legislation.gov.uk/european/directive/1998/0057).
 
@@ -353,7 +353,7 @@ If any suspected occurrence or confirmed presence of Potato cyst nematodes in No
 
 (3) A notice may contain measures for the purposes of sub-paragraph (2)(b)(i) to (iii).
 
-#### 25. Measures to be taken following the confirmation of the presence of Potato brown rot[^key-9fdea0693d40c61e9e7b365bb1a645c1]
+#### 25. Measures to be taken following the confirmation of the presence of Potato brown rot[^c-9fdea0693d40c61e9e7b365bb1a645c1]
 
 (1) If the presence of Potato brown rot is confirmed following official testing carried out pursuant to paragraph 24(2)(a), the Department must ensure that the actions specified in sub-paragraphs (2) to (4) are taken in accordance with sound scientific principles, the biology of Potato brown rot and the relevant production, marketing and processing systems of host plants of Potato brown rot.
 
@@ -382,7 +382,7 @@ If any suspected occurrence or confirmed presence of Potato cyst nematodes in No
 - (c) a determination by a plant health inspector of the probable contamination on the basis of the designation made under sub-paragraph (b);
 - (d) the demarcation of a zone by a plant health inspector on the basis of the designation under paragraph (b), the determination made under sub-paragraph (c) and the possible spread of Potato brown rot in accordance with point 2(ii) of Annex 5 to [Directive 98/57/EC](https://www.legislation.gov.uk/european/directive/1998/0057).
 
-#### 26. Restrictions in relation to susceptible material or objects contaminated or possibly contaminated with Potato brown rot[^key-694d5d7c7f515a1077be6958bf5e2dd7]
+#### 26. Restrictions in relation to susceptible material or objects contaminated or possibly contaminated with Potato brown rot[^c-694d5d7c7f515a1077be6958bf5e2dd7]
 
 (1) No person may knowingly plant or knowingly cause or permit to be planted—
 
@@ -399,7 +399,7 @@ If any suspected occurrence or confirmed presence of Potato cyst nematodes in No
 
 (3) Anything cleansed and disinfected in accordance with sub-paragraph (2) may no longer be treated as contaminated for the purposes of [Directive 98/57/EC](https://www.legislation.gov.uk/european/directive/1998/0057).
 
-#### 27. Measures which may be required in relation to a contaminated place of production[^key-cc908cc87c71cb4887d5354b02b60e03]
+#### 27. Measures which may be required in relation to a contaminated place of production[^c-cc908cc87c71cb4887d5354b02b60e03]
 
 (1) A plant health inspector must serve the following notices on any occupier or other person who is in charge of a contaminated place of production which is in a zone demarcated by a plant health inspector under paragraph 25(2)(e)—
 
@@ -454,7 +454,7 @@ If any suspected occurrence or confirmed presence of Potato cyst nematodes in No
 
 (7) The person on whom a notice is served pursuant to sub-paragraph (1) must ensure that the measures specified in the notice are taken in the required manner.
 
-#### 28. Additional measures in relation to units of protected crop production[^key-47495bfa62bc21e4f3b98f4c8b964199]
+#### 28. Additional measures in relation to units of protected crop production[^c-47495bfa62bc21e4f3b98f4c8b964199]
 
 (1) This paragraph applies to the planting of any potato tubers, plants or true seeds in a contaminated unit of protected crop production where it is possible to replace all of the growing medium in the unit.
 
@@ -473,7 +473,7 @@ If any suspected occurrence or confirmed presence of Potato cyst nematodes in No
 - (c) prohibit any irrigation or spraying programme at the place of production;
 - (d) specify how any irrigation or spraying programme at the place of production must be carried out for the purpose of preventing the spread of Potato brown rot.
 
-#### 29. Measures to be taken in demarcated zones for the control of Potato brown rot[^key-e3b8526b3ee1768f2ffa11bd650e7e87]
+#### 29. Measures to be taken in demarcated zones for the control of Potato brown rot[^c-e3b8526b3ee1768f2ffa11bd650e7e87]
 
 (1) This paragraph applies where a plant health inspector has demarcated a zone in relation to a confirmed finding of Potato brown rot under paragraph 25(3)(d) or (4)(d).
 
@@ -522,7 +522,7 @@ If any suspected occurrence or confirmed presence of Potato cyst nematodes in No
 
 ### PART 7 — Measures relating to Egyptian potatoes
 
-#### 30. Measures for the purposes of Article 7 of Commission Implementing [Decision 2011/787/EC](https://www.legislation.gov.uk/european/decision/2011/0787)[^key-7df02826cb64fca03ad307dced76c208]
+#### 30. Measures for the purposes of Article 7 of Commission Implementing [Decision 2011/787/EC](https://www.legislation.gov.uk/european/decision/2011/0787)[^c-7df02826cb64fca03ad307dced76c208]
 
 (1) In this Part, “Egyptian potatoes” means any tubers of Solanum tuberosum L., originating in Egypt, which are introduced into the Union territory under Commission Implementing [Decision 2011/787/EU](https://www.legislation.gov.uk/european/decision/2011/0787).
 
@@ -535,68 +535,68 @@ If any suspected occurrence or confirmed presence of Potato cyst nematodes in No
 
 ## Annotations
 
-[^key-309b12e4344f7da482b32f756acad309]: Commencement: Sch. 2 para. 1 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-309b12e4344f7da482b32f756acad309]: Commencement: Sch. 2 para. 1 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00050]: Footnote: [S.R. 2016 No. 190](https://www.legislation.gov.uk/nisr/2016/190).
 
-[^key-ea2695b72ae84e1d939e8b077a221da2]: Commencement: Sch. 2 para. 2 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-ea2695b72ae84e1d939e8b077a221da2]: Commencement: Sch. 2 para. 2 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-c6542098375ef78a87547ee48b2f12eb]: Textual amendment: [Sch. 2 para. 2(2A)](https://www.legislation.gov.uk/nisr/2020/293/schedule/2/paragraph/2/2A) inserted (1.10.2023) by [The Windsor Framework (Plant Health) Regulations 2023 (S.I. 2023/957)](https://www.legislation.gov.uk/uksi/2023/957), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/957/regulation/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2023/957/regulation/22/2/a)
+[^c-c6542098375ef78a87547ee48b2f12eb]: Textual amendment: [Sch. 2 para. 2(2A)](https://www.legislation.gov.uk/nisr/2020/293/schedule/2/paragraph/2/2A) inserted (1.10.2023) by [The Windsor Framework (Plant Health) Regulations 2023 (S.I. 2023/957)](https://www.legislation.gov.uk/uksi/2023/957), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/957/regulation/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2023/957/regulation/22/2/a)
 
-[^key-a446a93e4396c13c1c1974dc3aa2df90]: Textual amendment: [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/nisr/2020/293/schedule/2/paragraph/2/5) inserted (1.10.2023) by [The Windsor Framework (Plant Health) Regulations 2023 (S.I. 2023/957)](https://www.legislation.gov.uk/uksi/2023/957), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/957/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2023/957/regulation/22/2/b)
+[^c-a446a93e4396c13c1c1974dc3aa2df90]: Textual amendment: [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/nisr/2020/293/schedule/2/paragraph/2/5) inserted (1.10.2023) by [The Windsor Framework (Plant Health) Regulations 2023 (S.I. 2023/957)](https://www.legislation.gov.uk/uksi/2023/957), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/957/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2023/957/regulation/22/2/b)
 
-[^key-ab0bccb562b2d005d3bad812a303d77d]: Commencement: Sch. 2 para. 3 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-ab0bccb562b2d005d3bad812a303d77d]: Commencement: Sch. 2 para. 3 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-1721baa016f3a463575f8e0bfe94153f]: Commencement: Sch. 2 para. 4 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-1721baa016f3a463575f8e0bfe94153f]: Commencement: Sch. 2 para. 4 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-904bdd6ebf3f45d445014078eec711bd]: Commencement: Sch. 2 para. 5 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-904bdd6ebf3f45d445014078eec711bd]: Commencement: Sch. 2 para. 5 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-fa5d127126c490c9c8b09ac112f01cb8]: Commencement: Sch. 2 para. 6 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-fa5d127126c490c9c8b09ac112f01cb8]: Commencement: Sch. 2 para. 6 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-5a0ca374b8eab2ba049f9f7613b5ffee]: Commencement: Sch. 2 para. 7 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-5a0ca374b8eab2ba049f9f7613b5ffee]: Commencement: Sch. 2 para. 7 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-9076a3ae3d417e4afda844714fe65836]: Commencement: Sch. 2 para. 8 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-9076a3ae3d417e4afda844714fe65836]: Commencement: Sch. 2 para. 8 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-3759d582a6863aac4789d1434e48baf5]: Commencement: Sch. 2 para. 9 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-3759d582a6863aac4789d1434e48baf5]: Commencement: Sch. 2 para. 9 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-7b700e6728ddb863d0f8d2f6c7dd7682]: Commencement: Sch. 2 para. 10 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-7b700e6728ddb863d0f8d2f6c7dd7682]: Commencement: Sch. 2 para. 10 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-a186130402eb0f826ef45bd310a72296]: Commencement: Sch. 2 para. 11 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-a186130402eb0f826ef45bd310a72296]: Commencement: Sch. 2 para. 11 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-2cba593016c765c29283bb6d9a41d48f]: Commencement: Sch. 2 para. 12 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-2cba593016c765c29283bb6d9a41d48f]: Commencement: Sch. 2 para. 12 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-2f271ad8d6b353cdcaf947bfca735a04]: Commencement: Sch. 2 para. 13 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-2f271ad8d6b353cdcaf947bfca735a04]: Commencement: Sch. 2 para. 13 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-2d5334fe317c1193990e4c395a6d06f0]: Commencement: Sch. 2 para. 14 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-2d5334fe317c1193990e4c395a6d06f0]: Commencement: Sch. 2 para. 14 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-7fa6ad8b6b68039f7c3c051ecc267693]: Commencement: Sch. 2 para. 15 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-7fa6ad8b6b68039f7c3c051ecc267693]: Commencement: Sch. 2 para. 15 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-9a077a2ca2c882e7a02b9618a5d84016]: Commencement: Sch. 2 para. 16 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-9a077a2ca2c882e7a02b9618a5d84016]: Commencement: Sch. 2 para. 16 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-d2ac01efb4d687885d44347a541767a8]: Commencement: Sch. 2 para. 17 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-d2ac01efb4d687885d44347a541767a8]: Commencement: Sch. 2 para. 17 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-50713d3008d3941907c94153547681e5]: Commencement: Sch. 2 para. 18 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-50713d3008d3941907c94153547681e5]: Commencement: Sch. 2 para. 18 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-fdc7fb2fe3521d312835a07844bea9ed]: Commencement: Sch. 2 para. 19 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-fdc7fb2fe3521d312835a07844bea9ed]: Commencement: Sch. 2 para. 19 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-d0defc6fd5450fafbd6189b4be72c9a4]: Commencement: Sch. 2 para. 20 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-d0defc6fd5450fafbd6189b4be72c9a4]: Commencement: Sch. 2 para. 20 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-999b14be96a6f06aadc04b01831e50b0]: Commencement: Sch. 2 para. 21 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-999b14be96a6f06aadc04b01831e50b0]: Commencement: Sch. 2 para. 21 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-096bcfca86f3c78570baec16574fc16e]: Commencement: Sch. 2 para. 22 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-096bcfca86f3c78570baec16574fc16e]: Commencement: Sch. 2 para. 22 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-8bcb32aed81cf92509c4d20f03ef31b2]: Commencement: Sch. 2 para. 23 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-8bcb32aed81cf92509c4d20f03ef31b2]: Commencement: Sch. 2 para. 23 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-e31fefa0f3f152e571f627d3326997b3]: Commencement: Sch. 2 para. 24 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-e31fefa0f3f152e571f627d3326997b3]: Commencement: Sch. 2 para. 24 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-9fdea0693d40c61e9e7b365bb1a645c1]: Commencement: Sch. 2 para. 25 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-9fdea0693d40c61e9e7b365bb1a645c1]: Commencement: Sch. 2 para. 25 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-694d5d7c7f515a1077be6958bf5e2dd7]: Commencement: Sch. 2 para. 26 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-694d5d7c7f515a1077be6958bf5e2dd7]: Commencement: Sch. 2 para. 26 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-cc908cc87c71cb4887d5354b02b60e03]: Commencement: Sch. 2 para. 27 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-cc908cc87c71cb4887d5354b02b60e03]: Commencement: Sch. 2 para. 27 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-47495bfa62bc21e4f3b98f4c8b964199]: Commencement: Sch. 2 para. 28 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-47495bfa62bc21e4f3b98f4c8b964199]: Commencement: Sch. 2 para. 28 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-e3b8526b3ee1768f2ffa11bd650e7e87]: Commencement: Sch. 2 para. 29 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-e3b8526b3ee1768f2ffa11bd650e7e87]: Commencement: Sch. 2 para. 29 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
-[^key-7df02826cb64fca03ad307dced76c208]: Commencement: Sch. 2 para. 30 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-7df02826cb64fca03ad307dced76c208]: Commencement: Sch. 2 para. 30 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

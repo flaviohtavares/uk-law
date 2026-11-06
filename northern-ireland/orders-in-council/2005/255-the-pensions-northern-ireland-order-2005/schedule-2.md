@@ -38,7 +38,7 @@ Article 7(4).
 
 **5.** The power to make an order under Article 3(3) revoking such an order.
 
-**5A.**[^key-cb45323ff4551d7f195e715720ad308d] The power under Article 3A(3) to give a notice waiving a prohibition.
+**5A.**[^c-cb45323ff4551d7f195e715720ad308d] The power under Article 3A(3) to give a notice waiving a prohibition.
 
 **6.** The power to make an order under Article 4(1) suspending a trustee.
 
@@ -48,7 +48,7 @@ Article 7(4).
 
 **9.** The power to make an order appointing a trustee under any of the following provisions of Article 7—
 
-- (a) paragraph (1) where a trustee is removed by an order under Article 3 (prohibition orders) or by Article 3A[^key-28da28ff33c7abb06ea34b0a156739bf];
+- (a) paragraph (1) where a trustee is removed by an order under Article 3 (prohibition orders) or by Article 3A[^c-28da28ff33c7abb06ea34b0a156739bf];
 - (b) paragraph (3)(a) , (c) or (d)[^c21180091].
 
 **10.** The power under Article 9 to exercise by order the same jurisdiction and powers as the High Court for vesting property in, or transferring property to, trustees in consequence of the appointment or removal of a trustee.
@@ -129,7 +129,7 @@ Article 7(4).
 
 **41.** The power to make a direction under Article 73(10) extending the retention period for documents taken into possession under that Article.
 
-**41A.**[^key-1ec0e2d90c84acd0ba6c366decadf0dd] The power to require a person to pay a penalty under Article 83A.
+**41A.**[^c-1ec0e2d90c84acd0ba6c366decadf0dd] The power to require a person to pay a penalty under Article 83A.
 
 **42.** The power to make an order under Article 210 modifying a scheme, giving directions or imposing a schedule of contributions.
 
@@ -142,7 +142,7 @@ Article 7(4).
   - (i) by the Panel, or
   - (ii) by the Regulator in compliance with a direction of a tribunal[^c22068071] under Article 97.
 
-### PART 4A — Functions under Part 2 of the Pension Schemes Act 2021[^key-0bc3435f9ab3d4cde59bb7dca7057ef5]
+### PART 4A — Functions under Part 2 of the Pension Schemes Act 2021[^c-0bc3435f9ab3d4cde59bb7dca7057ef5]
 
 **44A.** The power to give a direction under section 74(2) (direction to obtain actuarial valuation or take other steps to remedy or mitigate failure in relation to a collective money purchase scheme).
 
@@ -160,7 +160,7 @@ Article 7(4).
 
 **44H.** The power to make an order under paragraph 4(3) of Schedule 5 directing the notification of members or employers.
 
-### PART 4B — Functions Under The Pension Schemes Act (Northern Ireland) 2021[^key-dd7fb811524eaa4fa9e170f5cc22e233]
+### PART 4B — Functions Under The Pension Schemes Act (Northern Ireland) 2021[^c-dd7fb811524eaa4fa9e170f5cc22e233]
 
 **44I.** The power to withdraw authorisation of a Master Trust scheme under section 19.
 
@@ -184,9 +184,9 @@ Article 7(4).
 
 [^c21195941]: Textual amendment: [Sch. 2 para. 3A](https://www.legislation.gov.uk/nisi/2005/255/schedule/2/paragraph/3A) added (3.3.2009 for certain purposes otherwise 6.4.2009) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 12(7)](https://www.legislation.gov.uk/nia/2008/1/section/12/7), [21(1)(a)](https://www.legislation.gov.uk/nia/2008/1/section/21/1/a); [S.R. 2009/75](https://www.legislation.gov.uk/nisr/2009/75), [art. 2](https://www.legislation.gov.uk/nisr/2009/75/article/2)
 
-[^key-cb45323ff4551d7f195e715720ad308d]: Textual amendment: [Sch. 2 para. 5A](https://www.legislation.gov.uk/nisi/2005/255/schedule/2/paragraph/5A) inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 19 para. 10(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/19/paragraph/10/2); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/o)
+[^c-cb45323ff4551d7f195e715720ad308d]: Textual amendment: [Sch. 2 para. 5A](https://www.legislation.gov.uk/nisi/2005/255/schedule/2/paragraph/5A) inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 19 para. 10(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/19/paragraph/10/2); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/o)
 
-[^key-28da28ff33c7abb06ea34b0a156739bf]: Textual amendment: Words in [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/nisi/2005/255/schedule/2/paragraph/9/a) inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 19 para. 10(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/19/paragraph/10/3); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/o)
+[^c-28da28ff33c7abb06ea34b0a156739bf]: Textual amendment: Words in [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/nisi/2005/255/schedule/2/paragraph/9/a) inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 19 para. 10(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/19/paragraph/10/3); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/o)
 
 [^c21180091]: Textual amendment: Words in Sch. 2 para. 9(b) substituted (26.1.2009) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 106(2)](https://www.legislation.gov.uk/nia/2008/13/section/106/2), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1); [S.R. 2009/22](https://www.legislation.gov.uk/nisr/2009/22), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2009/22/article/2/1/c)
 
@@ -198,12 +198,12 @@ Article 7(4).
 
 [^c21180131]: Textual amendment: [Sch. 2 para. 33A](https://www.legislation.gov.uk/nisi/2005/255/schedule/2/paragraph/33A) inserted (15.12.2008) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 103](https://www.legislation.gov.uk/nia/2008/13/section/103), [118(1)(2)(h)(3)(a)(v)(b)](https://www.legislation.gov.uk/nia/2008/13/section/118/1/2/h/3/a/v/b), [Sch. 8 para. 13(b)](https://www.legislation.gov.uk/nia/2008/13/schedule/8/paragraph/13/b)
 
-[^key-1ec0e2d90c84acd0ba6c366decadf0dd]: Textual amendment: [Sch. 2 para. 41A](https://www.legislation.gov.uk/nisi/2005/255/schedule/2/paragraph/41A) inserted (28.7.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/28); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/197/article/2/b)
+[^c-1ec0e2d90c84acd0ba6c366decadf0dd]: Textual amendment: [Sch. 2 para. 41A](https://www.legislation.gov.uk/nisi/2005/255/schedule/2/paragraph/41A) inserted (28.7.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/28); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/197/article/2/b)
 
 [^c22068071]: Textual amendment: Words in [Sch. 2 para. 44(b)(ii)](https://www.legislation.gov.uk/nisi/2005/255/schedule/2/paragraph/44/b/ii) substituted (6.4.2010) by [Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4)](https://www.legislation.gov.uk/nia/2010/4), [ss. 3(1)](https://www.legislation.gov.uk/nia/2010/4/section/3/1), [5(2)](https://www.legislation.gov.uk/nia/2010/4/section/5/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/nia/2010/4/schedule/1/paragraph/22) (with transitional and saving in [Sch. 2](https://www.legislation.gov.uk/nia/2010/4/schedule/2)); [S.R. 2010/101](https://www.legislation.gov.uk/nisr/2010/101), [art. 2](https://www.legislation.gov.uk/nisr/2010/101/article/2)
 
-[^key-0bc3435f9ab3d4cde59bb7dca7057ef5]: Textual amendment: [Sch. 2 Pt. 4A](https://www.legislation.gov.uk/nisi/2005/255/schedule/2/part/4A) inserted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/21); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-0bc3435f9ab3d4cde59bb7dca7057ef5]: Textual amendment: [Sch. 2 Pt. 4A](https://www.legislation.gov.uk/nisi/2005/255/schedule/2/part/4A) inserted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/21); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
 
-[^key-dd7fb811524eaa4fa9e170f5cc22e233]: Textual amendment: [Sch. 2 Pt. 4B](https://www.legislation.gov.uk/nisi/2005/255/schedule/2/part/4B) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 19](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/19); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-dd7fb811524eaa4fa9e170f5cc22e233]: Textual amendment: [Sch. 2 Pt. 4B](https://www.legislation.gov.uk/nisi/2005/255/schedule/2/part/4B) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 19](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/19); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
 [^c20213161]: Textual amendment: [Sch. 2 Pt. 5](https://www.legislation.gov.uk/nisi/2005/255/schedule/2/part/5) added (6.4.2006) by [Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006 (S.R. 2006/48)](https://www.legislation.gov.uk/nisr/2006/48), [reg. 20](https://www.legislation.gov.uk/nisr/2006/48/regulation/20)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Treatment of opposite-sex overseas relationships as civil partnerships[^key-cd76d15d3511f7b0f38c4e51fb1263ce]
+## 17. Treatment of opposite-sex overseas relationships as civil partnerships[^c-cd76d15d3511f7b0f38c4e51fb1263ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -144,7 +144,7 @@ summary: ''
   > | United States of America: New Jersey | domestic partnership |
   > | United States of America: Washington | state registered domestic partnership |
 
-**18.**[^key-dd05a1f1e0d91d957c09e0a66b92e0fc][^key-cd76d15d3511f7b0f38c4e51fb1263ce] In article 4 of the Civil Partnership (Registration Abroad and Certificates) Order 2005[^f00019] (registration abroad by registration officer), after paragraph (4A) insert—
+**18.**[^c-dd05a1f1e0d91d957c09e0a66b92e0fc][^c-cd76d15d3511f7b0f38c4e51fb1263ce] In article 4 of the Civil Partnership (Registration Abroad and Certificates) Order 2005[^f00019] (registration abroad by registration officer), after paragraph (4A) insert—
 
 > (4AA) If the relevant part of the United Kingdom is Northern Ireland, a country or territory is treated by paragraph (4) as having sufficient facilities only if—
 >
@@ -153,7 +153,7 @@ summary: ''
 
 .
 
-**19.**[^key-bc6584772ecde98e3b3f369215b7d6b4][^key-cd76d15d3511f7b0f38c4e51fb1263ce] (1) Regulation 3 of the Civil Partnership (Supplementary Provisions relating to the Recognition of Overseas Dissolutions, Annulments or Legal Separations) (England and Wales and Northern Ireland) Regulations 2005[^f00020] is amended as follows.
+**19.**[^c-bc6584772ecde98e3b3f369215b7d6b4][^c-cd76d15d3511f7b0f38c4e51fb1263ce] (1) Regulation 3 of the Civil Partnership (Supplementary Provisions relating to the Recognition of Overseas Dissolutions, Annulments or Legal Separations) (England and Wales and Northern Ireland) Regulations 2005[^f00020] is amended as follows.
 
 (2) In the heading, for “between two people of the same sex” substitute “of the sort in question”.
 
@@ -178,7 +178,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cd76d15d3511f7b0f38c4e51fb1263ce]: Commencement: Reg. 17 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-cd76d15d3511f7b0f38c4e51fb1263ce]: Commencement: Reg. 17 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00016]: Footnote: Section 212(1A) was inserted by paragraph 29(1) and (2) of Schedule 1 to [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560) with UK extent (see article 6).
 
@@ -186,10 +186,10 @@ summary: ''
 
 [^f00018]: Footnote: Section 237(2)(b)(ii), as it extends to England & Wales, was amended by [S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).
 
-[^key-dd05a1f1e0d91d957c09e0a66b92e0fc]: Commencement: Reg. 18 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-dd05a1f1e0d91d957c09e0a66b92e0fc]: Commencement: Reg. 18 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00019]: Footnote: [S.I. 2005/2761](https://www.legislation.gov.uk/uksi/2005/2761); article 4 was amended by [S.I. 2012/3063](https://www.legislation.gov.uk/uksi/2012/3063), and article 4(4A) is inserted by regulation 38 of [S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).
 
-[^key-bc6584772ecde98e3b3f369215b7d6b4]: Commencement: Reg. 19 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-bc6584772ecde98e3b3f369215b7d6b4]: Commencement: Reg. 19 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00020]: Footnote: [S.I. 2005/3104](https://www.legislation.gov.uk/uksi/2005/3104).

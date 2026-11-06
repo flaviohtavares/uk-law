@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Authorisation of post-mortem examination etc.: adult[^key-e0b04dcad480b374497e464efba7237f]
+## 29. Authorisation of post-mortem examination etc.: adult[^c-e0b04dcad480b374497e464efba7237f]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0b04dcad480b374497e464efba7237f]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2006/4/section/29) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-e0b04dcad480b374497e464efba7237f]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2006/4/section/29) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

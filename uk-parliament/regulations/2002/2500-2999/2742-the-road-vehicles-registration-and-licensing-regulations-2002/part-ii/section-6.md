@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Exhibition of vehicle and nil licences[^key-3dee79a397c461ce1b57d342321fdcb1]
+## 6. Exhibition of vehicle and nil licences[^c-3dee79a397c461ce1b57d342321fdcb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3dee79a397c461ce1b57d342321fdcb1]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2002/2742/regulation/6) omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/2)
+[^c-3dee79a397c461ce1b57d342321fdcb1]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2002/2742/regulation/6) omitted (1.10.2014) by virtue of [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/2)

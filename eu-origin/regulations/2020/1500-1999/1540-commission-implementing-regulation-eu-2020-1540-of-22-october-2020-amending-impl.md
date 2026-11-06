@@ -95,7 +95,7 @@ Regulation (EU) 2019/1793 shall continue to apply as it stood before being amend
 
 **Article 3.** This Regulation shall enter into force on the third day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-383ccba4e79df0c0a63fa81bb4dd25d7]...
+[^c-383ccba4e79df0c0a63fa81bb4dd25d7]...
 
 Done at Brussels, 22 October 2020.
 
@@ -136,7 +136,7 @@ In Annex II, in point 1, the entry for sesamum seeds originating from India is r
 
 [^f00005]: Footnote: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 ([OJ L 353, 31.12.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.353.01.0001.01.ENG)).
 
-[^key-383ccba4e79df0c0a63fa81bb4dd25d7]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2020/1540/signature) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [30(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/30/2) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-383ccba4e79df0c0a63fa81bb4dd25d7]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2020/1540/signature) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [30(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/30/2) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
 [^f00006]: Footnote: The sampling and the analyses shall be performed in accordance with the sampling procedures and the analytical reference methods set out in point 1(a) of Annex III to this Regulation.
 

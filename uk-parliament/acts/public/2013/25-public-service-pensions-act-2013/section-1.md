@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Schemes for persons in public service[^key-c6198c8a9818a0cf111e4615e4737902]
+## 1. Schemes for persons in public service[^c-c6198c8a9818a0cf111e4615e4737902]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6198c8a9818a0cf111e4615e4737902]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/25/section/1) in force at 28.2.2014 by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/433/article/2/a)
+[^c-c6198c8a9818a0cf111e4615e4737902]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/25/section/1) in force at 28.2.2014 by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/433/article/2/a)

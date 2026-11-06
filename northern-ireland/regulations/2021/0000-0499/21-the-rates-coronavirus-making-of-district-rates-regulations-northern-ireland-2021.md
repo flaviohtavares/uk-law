@@ -32,7 +32,7 @@ summary: ''
 
 Rates
 
-The Rates (Coronavirus: Making of District Rates) Regulations (Northern Ireland) 2021 (revoked)[^key-71df430cd01b71c98ae62a3b11ff91c7]
+The Rates (Coronavirus: Making of District Rates) Regulations (Northern Ireland) 2021 (revoked)[^c-71df430cd01b71c98ae62a3b11ff91c7]
 
 Made
 
@@ -42,22 +42,22 @@ Coming into operation
 
 5th February 2021
 
-[^key-71df430cd01b71c98ae62a3b11ff91c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71df430cd01b71c98ae62a3b11ff91c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-71df430cd01b71c98ae62a3b11ff91c7]
+## 1. Citation and commencement[^c-71df430cd01b71c98ae62a3b11ff91c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Rates Regulations (Northern Ireland) 2007[^key-71df430cd01b71c98ae62a3b11ff91c7]
+## 2. Amendment of the Rates Regulations (Northern Ireland) 2007[^c-71df430cd01b71c98ae62a3b11ff91c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-71df430cd01b71c98ae62a3b11ff91c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71df430cd01b71c98ae62a3b11ff91c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
 ## Annotations
 
-[^key-71df430cd01b71c98ae62a3b11ff91c7]: Textual amendment: Regulations revoked (1.2.2022) by [The Rates (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/13)](https://www.legislation.gov.uk/nisr/2022/13), [regs. 1](https://www.legislation.gov.uk/nisr/2022/13/regulation/1), [3](https://www.legislation.gov.uk/nisr/2022/13/regulation/3)
+[^c-71df430cd01b71c98ae62a3b11ff91c7]: Textual amendment: Regulations revoked (1.2.2022) by [The Rates (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/13)](https://www.legislation.gov.uk/nisr/2022/13), [regs. 1](https://www.legislation.gov.uk/nisr/2022/13/regulation/1), [3](https://www.legislation.gov.uk/nisr/2022/13/regulation/3)

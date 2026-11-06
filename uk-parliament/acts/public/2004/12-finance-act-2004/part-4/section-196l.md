@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196L. Employer asset-backed contributions: supplementary[^key-17f65825320ae06f84166b7b416a6737]
+## 196L. Employer asset-backed contributions: supplementary[^c-17f65825320ae06f84166b7b416a6737]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) the contribution being deducted in computing the amount of the employer's profits for the purposes of Part 2 of ITTOIA 2005 or Part 3 of CTA 2009 (trading income),
 - (b) the contribution being treated as an expense of management of the employer for the purposes of Chapter 2 of Part 16 of CTA 2009 (expenses of management: companies with investment business), or
-- (c)[^key-9359b157b46033ba481a32f4fb92ff15] the contribution being ordinary BLAGAB management expenses of the employer for an accounting period for the purposes of section 76 of FA 2012.
+- (c)[^c-9359b157b46033ba481a32f4fb92ff15] the contribution being ordinary BLAGAB management expenses of the employer for an accounting period for the purposes of section 76 of FA 2012.
 
 (3) Whether a person is connected with another person is determined in accordance with section 1122 of CTA 2010.
 
@@ -49,6 +49,6 @@ and “working day” is to be read accordingly.
 
 ## Annotations
 
-[^key-17f65825320ae06f84166b7b416a6737]: Textual amendment: Ss. 196B-196L inserted (with effect in accordance with Sch. 13 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/15) (with [Sch. 13 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/part/4)) (and see also, as to denial of relief for contributions paid during the period 29.11.2011 to 21.2.2012, the ss. 196B-196J inserted by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 paras. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/3) (with [Sch. 13 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/part/2)))
+[^c-17f65825320ae06f84166b7b416a6737]: Textual amendment: Ss. 196B-196L inserted (with effect in accordance with Sch. 13 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/15) (with [Sch. 13 Pt. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/part/4)) (and see also, as to denial of relief for contributions paid during the period 29.11.2011 to 21.2.2012, the ss. 196B-196J inserted by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 13 paras. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/paragraph/3) (with [Sch. 13 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/14/schedule/13/part/2)))
 
-[^key-9359b157b46033ba481a32f4fb92ff15]: Textual amendment: S. 196L(2)(c) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 115](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/115)
+[^c-9359b157b46033ba481a32f4fb92ff15]: Textual amendment: S. 196L(2)(c) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 115](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/115)

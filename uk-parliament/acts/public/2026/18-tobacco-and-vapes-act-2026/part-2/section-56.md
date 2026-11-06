@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Extension of tobacco legislation to herbal smoking products[^key-bccd288ae345ed7b5163418e9b8256d0]
+## 56. Extension of tobacco legislation to herbal smoking products[^c-bccd288ae345ed7b5163418e9b8256d0]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bccd288ae345ed7b5163418e9b8256d0]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2026/18/section/56) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-bccd288ae345ed7b5163418e9b8256d0]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2026/18/section/56) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

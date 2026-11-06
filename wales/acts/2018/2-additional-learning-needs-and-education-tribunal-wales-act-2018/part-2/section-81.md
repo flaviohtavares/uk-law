@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Appeals from the Education Tribunal for Wales to the Upper Tribunal[^key-4e61c0eaaf2556dd4997e475653c6b9e]
+## 81. Appeals from the Education Tribunal for Wales to the Upper Tribunal[^c-4e61c0eaaf2556dd4997e475653c6b9e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e61c0eaaf2556dd4997e475653c6b9e]: Commencement: S. 81 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(g)](https://www.legislation.gov.uk/wsi/2021/373/article/8/g)
+[^c-4e61c0eaaf2556dd4997e475653c6b9e]: Commencement: S. 81 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(g)](https://www.legislation.gov.uk/wsi/2021/373/article/8/g)

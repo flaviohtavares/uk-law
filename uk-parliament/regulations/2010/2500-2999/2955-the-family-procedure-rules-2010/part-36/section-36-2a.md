@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36.2A. Domestic Abuse Act 2021: provision during pilot commencement of Part 3[^key-8a9066d255a42b1a6b36b46b7bd45bbb]
+## 36.2A. Domestic Abuse Act 2021: provision during pilot commencement of Part 3[^c-8a9066d255a42b1a6b36b46b7bd45bbb]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a9066d255a42b1a6b36b46b7bd45bbb]: Textual amendment: [Rule 36.2A](https://www.legislation.gov.uk/uksi/2010/2955/rule/36.2A) inserted (1.10.2022) by [The Family Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/821)](https://www.legislation.gov.uk/uksi/2022/821), [rules 1(3)](https://www.legislation.gov.uk/uksi/2022/821/rule/1/3), [6](https://www.legislation.gov.uk/uksi/2022/821/rule/6)
+[^c-8a9066d255a42b1a6b36b46b7bd45bbb]: Textual amendment: [Rule 36.2A](https://www.legislation.gov.uk/uksi/2010/2955/rule/36.2A) inserted (1.10.2022) by [The Family Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/821)](https://www.legislation.gov.uk/uksi/2022/821), [rules 1(3)](https://www.legislation.gov.uk/uksi/2022/821/rule/1/3), [6](https://www.legislation.gov.uk/uksi/2022/821/rule/6)

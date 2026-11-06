@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Application[^key-43c446077e88e22dd1c67b633ff30350]
+## 3. Application[^c-43c446077e88e22dd1c67b633ff30350]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ These Rules apply in relation to a company which is a universal service provider
 
 ## Annotations
 
-[^key-43c446077e88e22dd1c67b633ff30350]: Commencement: Rule 3 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-43c446077e88e22dd1c67b633ff30350]: Commencement: Rule 3 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

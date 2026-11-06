@@ -29,7 +29,7 @@ summary: ''
 
 - (a) the Commission,
 - (b) the Secretary of State,
-- (c)[^key-a0d3f278064d6221b53d2e12043107e2] the Office of Fair Trading,
+- (c)[^c-a0d3f278064d6221b53d2e12043107e2] the Office of Fair Trading,
 - (d) any other public authority whose functions appear to the Council to be exercisable in relation to that matter.
 
 (3) Subject to subsection (4), the Council may also—
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0d3f278064d6221b53d2e12043107e2]: Textual amendment: S. 57(2)(c) substituted (1.4.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 25 para. 42(6)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/42/6); [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/766/article/3)) (as amended (20.7.2007) by [S.I. 2007/1846](https://www.legislation.gov.uk/uksi/2007/1846), reg. 3(2), Sch.)
+[^c-a0d3f278064d6221b53d2e12043107e2]: Textual amendment: S. 57(2)(c) substituted (1.4.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 25 para. 42(6)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/42/6); [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/766/article/3)) (as amended (20.7.2007) by [S.I. 2007/1846](https://www.legislation.gov.uk/uksi/2007/1846), reg. 3(2), Sch.)

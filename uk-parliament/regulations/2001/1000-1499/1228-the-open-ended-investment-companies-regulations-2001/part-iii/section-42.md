@@ -35,8 +35,8 @@ may only be ratified by a resolution of the company in general meeting.
 
 (5) A resolution ratifying such action does not affect any liability incurred by the directors or any other person, relief from any such liability requiring agreement by a separate resolution of the company in general meeting.
 
-(6) Nothing in this regulation affects any power or right conferred by or arising under section 138D[^key-f3af9bfccf07b0bbe0e6134cba20176f] (actions for damages) or section 380, 382 or 384 of the Act (injunctions and restitution orders).
+(6) Nothing in this regulation affects any power or right conferred by or arising under section 138D[^c-f3af9bfccf07b0bbe0e6134cba20176f] (actions for damages) or section 380, 382 or 384 of the Act (injunctions and restitution orders).
 
 ## Annotations
 
-[^key-f3af9bfccf07b0bbe0e6134cba20176f]: Textual amendment: Words in [reg. 42(6)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/42/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(8)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/8)
+[^c-f3af9bfccf07b0bbe0e6134cba20176f]: Textual amendment: Words in [reg. 42(6)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/42/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(8)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/8)

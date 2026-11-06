@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Marked register for petition signing place[^key-6b118fabe4007b00396d83b734fe600a]
+## 81. Marked register for petition signing place[^c-6b118fabe4007b00396d83b734fe600a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ To indicate that an elector or that person’s proxy is entitled to sign the pet
 
 ## Annotations
 
-[^key-6b118fabe4007b00396d83b734fe600a]: Commencement: Reg. 81 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-6b118fabe4007b00396d83b734fe600a]: Commencement: Reg. 81 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

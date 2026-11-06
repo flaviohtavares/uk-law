@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Pension credit member’s rights[^key-cf92c7344339c083aa1333d2ee21936b]
+## 70. Pension credit member’s rights[^c-cf92c7344339c083aa1333d2ee21936b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf92c7344339c083aa1333d2ee21936b]: Commencement: Reg. 70 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-cf92c7344339c083aa1333d2ee21936b]: Commencement: Reg. 70 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

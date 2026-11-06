@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5878ac3377724974771a081de6230719] For the purposes of this Part, expenditure incurred for the purposes of a qualifying activity by a person about to carry on the activity is to be treated as if it had been incurred by him on the first day on which he carries on the activity.
+(1)[^c-5878ac3377724974771a081de6230719] For the purposes of this Part, expenditure incurred for the purposes of a qualifying activity by a person about to carry on the activity is to be treated as if it had been incurred by him on the first day on which he carries on the activity.
 
-(2)[^key-7fd18653b58e93f6fa9de5aa5196bcbf] Subsection (3) applies if—
+(2)[^c-7fd18653b58e93f6fa9de5aa5196bcbf] Subsection (3) applies if—
 
 - (a) a company that does not have a Northern Ireland regional establishment incurs expenditure for the purposes of a trade,
 - (b) the activities for the purposes of which the expenditure is incurred would, if the company were a NIRE company, be an NI rate activity treated as a separate trade, and
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5878ac3377724974771a081de6230719]: Textual amendment: S. 12 renumbered as s. 12(1) (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/3/2)
+[^c-5878ac3377724974771a081de6230719]: Textual amendment: S. 12 renumbered as s. 12(1) (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/3/2)
 
-[^key-7fd18653b58e93f6fa9de5aa5196bcbf]: Textual amendment: S. 12(2)-(6) inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/3/3)
+[^c-7fd18653b58e93f6fa9de5aa5196bcbf]: Textual amendment: S. 12(2)-(6) inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/3/3)

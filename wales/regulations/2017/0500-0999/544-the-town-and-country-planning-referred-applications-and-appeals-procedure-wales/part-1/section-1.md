@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title and commencement[^key-fdeae0ab18e36ceecafb344e22e78397]
+## 1. Title and commencement[^c-fdeae0ab18e36ceecafb344e22e78397]
 
 *Extent: E+W*
 
-(1)[^key-44c7fda809f9168788387cf8210874f4] The title of these Regulations is the Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017 and they come into force on the 5 May 2017.
+(1)[^c-44c7fda809f9168788387cf8210874f4] The title of these Regulations is the Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017 and they come into force on the 5 May 2017.
 
-(2)[^key-5bfb46f14834af646d8d0a2c690a8176] These Regulations form part of a code of law relating to the historic environment of Wales.
+(2)[^c-5bfb46f14834af646d8d0a2c690a8176] These Regulations form part of a code of law relating to the historic environment of Wales.
 
 ## Annotations
 
-[^key-fdeae0ab18e36ceecafb344e22e78397]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-fdeae0ab18e36ceecafb344e22e78397]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
 
-[^key-44c7fda809f9168788387cf8210874f4]: Textual amendment: Reg. 1 renumbered as reg. 1(1) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [95(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/95/a)
+[^c-44c7fda809f9168788387cf8210874f4]: Textual amendment: Reg. 1 renumbered as reg. 1(1) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [95(a)](https://www.legislation.gov.uk/wsi/2024/924/regulation/95/a)
 
-[^key-5bfb46f14834af646d8d0a2c690a8176]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/544/regulation/1/2) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [95(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/95/b)
+[^c-5bfb46f14834af646d8d0a2c690a8176]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/544/regulation/1/2) inserted (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [95(b)](https://www.legislation.gov.uk/wsi/2024/924/regulation/95/b)

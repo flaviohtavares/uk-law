@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3B. Consideration of revision before appeal in relation to certain child support decisions[^key-9b3717b0bc41d85a0aa5416c7c0139af]
+## 3B. Consideration of revision before appeal in relation to certain child support decisions[^c-9b3717b0bc41d85a0aa5416c7c0139af]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b3717b0bc41d85a0aa5416c7c0139af]: Textual amendment: Reg. 3B inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/4/4)
+[^c-9b3717b0bc41d85a0aa5416c7c0139af]: Textual amendment: Reg. 3B inserted (28.10.2013) by [The Social Security, Child Support, Vaccine Damage and Other Payments (Decisions and Appeals) (Amendment) Regulations 2013 (S.I. 2013/2380)](https://www.legislation.gov.uk/uksi/2013/2380), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2013/2380/regulation/4/4)

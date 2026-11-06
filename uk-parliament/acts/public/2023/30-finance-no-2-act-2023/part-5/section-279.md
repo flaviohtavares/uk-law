@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If a qualifying generating undertaking has exceptional generation receipts for a qualifying period, that undertaking is liable to pay a charge equal to 55%[^key-94e2a6fdeba43f530af21228779ce543] of those exceptional receipts.
+(1) If a qualifying generating undertaking has exceptional generation receipts for a qualifying period, that undertaking is liable to pay a charge equal to 55%[^c-94e2a6fdeba43f530af21228779ce543] of those exceptional receipts.
 
 (2) The charge is referred to in this Part as the “electricity generator levy”.
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94e2a6fdeba43f530af21228779ce543]: Textual amendment: Word in [s. 279(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/279/1) substituted (for qualifying periods beginning on or after 1.7.2026) by [Taxation (Energy and Vehicles) Act 2026 (c. 26)](https://www.legislation.gov.uk/ukpga/2026/26), [s. 1(1)(2)](https://www.legislation.gov.uk/ukpga/2026/26/section/1/1/2) (with [s. 1(3)-(6)](https://www.legislation.gov.uk/ukpga/2026/26/section/1/3))
+[^c-94e2a6fdeba43f530af21228779ce543]: Textual amendment: Word in [s. 279(1)](https://www.legislation.gov.uk/ukpga/2023/30/section/279/1) substituted (for qualifying periods beginning on or after 1.7.2026) by [Taxation (Energy and Vehicles) Act 2026 (c. 26)](https://www.legislation.gov.uk/ukpga/2026/26), [s. 1(1)(2)](https://www.legislation.gov.uk/ukpga/2026/26/section/1/1/2) (with [s. 1(3)-(6)](https://www.legislation.gov.uk/ukpga/2026/26/section/1/3))

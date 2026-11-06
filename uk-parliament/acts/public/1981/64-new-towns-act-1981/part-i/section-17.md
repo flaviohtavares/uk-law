@@ -33,7 +33,7 @@ the development corporation may dispose of that land—
 
 as they consider expedient for securing the development of the new town in accordance with proposals approved by the Secretary of State under that section 7(1), or for purposes connected with the development of the new town.
 
-(2)[^key-3ba7de7ae66bd41099327d3ef3e8b718] A development corporation has no power, except with the Secretary of State’s consent (given generally or specially)—
+(2)[^c-3ba7de7ae66bd41099327d3ef3e8b718] A development corporation has no power, except with the Secretary of State’s consent (given generally or specially)—
 
 - (a) to transfer the freehold of any land, or
 - (b) to grant a lease of any land for a term of more than 99 years or[^c253156]
@@ -48,7 +48,7 @@ as they consider expedient for securing the development of the new town in accor
 
 ## Annotations
 
-[^key-3ba7de7ae66bd41099327d3ef3e8b718]: Modification: S. 17(2) functions made exercisable (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [regs. 1](https://www.legislation.gov.uk/uksi/2018/891/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/2))
+[^c-3ba7de7ae66bd41099327d3ef3e8b718]: Modification: S. 17(2) functions made exercisable (E.) (24.7.2018) by [The New Towns Act 1981 (Local Authority Oversight) Regulations 2018 (S.I. 2018/891)](https://www.legislation.gov.uk/uksi/2018/891), [regs. 1](https://www.legislation.gov.uk/uksi/2018/891/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/891/regulation/3/2))
 
 [^c253156]: Textual amendment: Word “or” and s. 17(2)(c) added by [New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4)](https://www.legislation.gov.uk/ukpga/1985/5), [s. 14(1)](https://www.legislation.gov.uk/ukpga/1985/5/section/14/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/1985/5/schedule/3/paragraph/2)(*a*)
 

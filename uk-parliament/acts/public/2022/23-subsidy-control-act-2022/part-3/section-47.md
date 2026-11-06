@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Financial stability[^key-eda0e2af4155e564481f7991388096bc][^key-2f21b38a5ebb23fdcc7d8cf0ab8b2f50]
+## 47. Financial stability[^c-eda0e2af4155e564481f7991388096bc][^c-2f21b38a5ebb23fdcc7d8cf0ab8b2f50]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eda0e2af4155e564481f7991388096bc]: Commencement: S. 47 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-eda0e2af4155e564481f7991388096bc]: Commencement: S. 47 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-2f21b38a5ebb23fdcc7d8cf0ab8b2f50]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2022/23/section/47) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-2f21b38a5ebb23fdcc7d8cf0ab8b2f50]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2022/23/section/47) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

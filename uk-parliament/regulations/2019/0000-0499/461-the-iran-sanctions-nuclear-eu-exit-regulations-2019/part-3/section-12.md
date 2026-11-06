@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Asset-freeze in relation to designated persons[^key-a56da3b1063d74ef46a889e47c70a9e9][^key-4a1750019c481421a44f03611f82e73f]
+## 12. Asset-freeze in relation to designated persons[^c-a56da3b1063d74ef46a889e47c70a9e9][^c-4a1750019c481421a44f03611f82e73f]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a56da3b1063d74ef46a889e47c70a9e9]: Commencement: Reg. 12 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-a56da3b1063d74ef46a889e47c70a9e9]: Commencement: Reg. 12 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-4a1750019c481421a44f03611f82e73f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/461/regulation/12) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a1750019c481421a44f03611f82e73f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/461/regulation/12) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

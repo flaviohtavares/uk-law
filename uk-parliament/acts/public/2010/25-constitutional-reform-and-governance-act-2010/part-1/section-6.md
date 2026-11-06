@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Diplomatic service code[^key-f977c7a70f07884f24e8a1a9e44607f6]
+## 6. Diplomatic service code[^c-f977c7a70f07884f24e8a1a9e44607f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f977c7a70f07884f24e8a1a9e44607f6]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2010/25/section/6) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-f977c7a70f07884f24e8a1a9e44607f6]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2010/25/section/6) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)

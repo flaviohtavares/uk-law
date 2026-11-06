@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 436. Expressions used generally.[^c15586351][^c15586361][^c15586371][^M_C_b465d696-5e32-4529-fe81-e38d85fb91aa][^key-cdd4f86c14f830ef2beafcec9cb3c4cd]
+## 436. Expressions used generally.[^c15586351][^c15586361][^c15586371][^M_C_b465d696-5e32-4529-fe81-e38d85fb91aa][^c-cdd4f86c14f830ef2beafcec9cb3c4cd]
 
 *Extent: E+W+S*
 
@@ -35,9 +35,9 @@ summary: ''
 - “**conditional sale agreement**” and “**hire-purchase agreement**” have the same meanings as in the [^c15586391]Consumer Credit Act 1974;
 - “corporate member” means an insolvent member which is a company;
 - “the court”, in relation to an insolvent partnership, means the court which has jurisdiction to wind up the partnership;
-- “[^key-b8aa19854927cfb6c8deaa00dedb9e21]**distress**” includes use of the procedure in Schedule 12 to the Tribunals, Courts and Enforcement Act 2007, and references to levying distress, seizing goods and related expressions shall be construed accordingly;
-- [^key-83151b16155936cbe660f979594c3445]...
-- “[^key-44273f8c8eac635f3c8ed158e0c29919] **the EU Regulation** ” means Regulation (EU) 2015/848 of the European Parliament and of the Council of 20 May 2015 on insolvency proceedings as it forms part of domestic law on and after exit day[^key-7f5fca3e6fcc6288e72a7c985d2672bf];
+- “[^c-b8aa19854927cfb6c8deaa00dedb9e21]**distress**” includes use of the procedure in Schedule 12 to the Tribunals, Courts and Enforcement Act 2007, and references to levying distress, seizing goods and related expressions shall be construed accordingly;
+- [^c-83151b16155936cbe660f979594c3445]...
+- “[^c-44273f8c8eac635f3c8ed158e0c29919] **the EU Regulation** ” means Regulation (EU) 2015/848 of the European Parliament and of the Council of 20 May 2015 on insolvency proceedings as it forms part of domestic law on and after exit day[^c-7f5fca3e6fcc6288e72a7c985d2672bf];
 - “[^c18971261]**EEA State**” means a state that is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2<sup>nd</sup> May 1992 as adjusted by the Protocol signed at Brussels on 17<sup>th</sup> March 1993;
 - “employees' share scheme” means a scheme for encouraging or facilitating the holding of shares in or debentures of a company by or for the benefit of—[^c20455271]
   - (a) the bona fide employees or former employees of—
@@ -105,7 +105,7 @@ summary: ''
 
 [^M_C_b465d696-5e32-4529-fe81-e38d85fb91aa]: Modification: S. 436 amendment to earlier affecting provision 2007 c. 15, Sch. 13 para. 85 (6.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 25(9)(c)](https://www.legislation.gov.uk/ukpga/2013/22/section/25/9/c), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2014/830](https://www.legislation.gov.uk/uksi/2014/830), [art. 2](https://www.legislation.gov.uk/uksi/2014/830/article/2)
 
-[^key-cdd4f86c14f830ef2beafcec9cb3c4cd]: Modification: [S. 436](https://www.legislation.gov.uk/ukpga/1986/45/section/436) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
+[^c-cdd4f86c14f830ef2beafcec9cb3c4cd]: Modification: [S. 436](https://www.legislation.gov.uk/ukpga/1986/45/section/436) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
 
 [^M_F_b7992b10-1e1b-446d-fdfd-0357c506d2e4]: Textual amendment: S. 436 renumbered as s. 436(1) (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [8](https://www.legislation.gov.uk/uksi/2009/1941/article/8), [Sch. 1 para. 82(3)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/82/3/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10), [Sch. 1 para. 84](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/84))
 
@@ -121,13 +121,13 @@ summary: ''
 
 [^c15586391]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-b8aa19854927cfb6c8deaa00dedb9e21]: Textual amendment: Words in s. 436(1) inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 85](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/85) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-b8aa19854927cfb6c8deaa00dedb9e21]: Textual amendment: Words in s. 436(1) inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 85](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/85) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
-[^key-83151b16155936cbe660f979594c3445]: Textual amendment: Words in s. 436(1) omitted (26.6.2017) by virtue of [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 28(a)](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/28/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3), [4](https://www.legislation.gov.uk/uksi/2017/702/regulation/4))
+[^c-83151b16155936cbe660f979594c3445]: Textual amendment: Words in s. 436(1) omitted (26.6.2017) by virtue of [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 28(a)](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/28/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3), [4](https://www.legislation.gov.uk/uksi/2017/702/regulation/4))
 
-[^key-44273f8c8eac635f3c8ed158e0c29919]: Textual amendment: Words in s. 436(1) inserted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/28/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3), [4](https://www.legislation.gov.uk/uksi/2017/702/regulation/4))
+[^c-44273f8c8eac635f3c8ed158e0c29919]: Textual amendment: Words in s. 436(1) inserted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/28/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3), [4](https://www.legislation.gov.uk/uksi/2017/702/regulation/4))
 
-[^key-7f5fca3e6fcc6288e72a7c985d2672bf]: Textual amendment: Words in s. 436 inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/42) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f5fca3e6fcc6288e72a7c985d2672bf]: Textual amendment: Words in s. 436 inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/42) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18971261]: Textual amendment: In s. 436 definition of "EEA State" inserted (13.4.2005) by [The Insolvency Act 1986 (Amendment) Regulations 2005 (S.I. 2005/879)](https://www.legislation.gov.uk/uksi/2005/879), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2005/879/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/879/regulation/3))
 

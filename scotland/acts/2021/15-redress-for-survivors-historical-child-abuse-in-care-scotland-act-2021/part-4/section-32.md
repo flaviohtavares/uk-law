@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Pausing of application[^key-a44fc15aa8a3cca990727db8df2f6ab9]
+## 32. Pausing of application[^c-a44fc15aa8a3cca990727db8df2f6ab9]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ at any time prior to a determination being made under section 36.
 
 ## Annotations
 
-[^key-a44fc15aa8a3cca990727db8df2f6ab9]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2021/15/section/32) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-a44fc15aa8a3cca990727db8df2f6ab9]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2021/15/section/32) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

@@ -183,7 +183,7 @@ Section 25 of the New Forest Act 1877 shall have effect as if for the words “t
 
 (2) The expenses of the Forestry Commissioners under this Act shall be defrayed in accordance with section 41 of the Forestry Act 1967[^c6560291].
 
-(3) Any increase attributable to the provisions of this Act in the sums payable out of moneys provided by Parliament by way of Rate-Deficiency Grant or Exchequer Equalisation Grant under the enactments relating to local government in England and Wales [^key-194be0c618fecee299d8d113db2e5a68]... shall be defrayed out of moneys so provided.
+(3) Any increase attributable to the provisions of this Act in the sums payable out of moneys provided by Parliament by way of Rate-Deficiency Grant or Exchequer Equalisation Grant under the enactments relating to local government in England and Wales [^c-194be0c618fecee299d8d113db2e5a68]... shall be defrayed out of moneys so provided.
 
 ## 15. Preservation of amenity.
 
@@ -259,7 +259,7 @@ Section 25 of the New Forest Act 1877 shall have effect as if for the words “t
 
 [^c6560291]: Textual amendment: Words in s. 14(2) substituted (16.3.2000) by [S.I. 2000/746](https://www.legislation.gov.uk/uksi/2000/746), [art. 2](https://www.legislation.gov.uk/uksi/2000/746/article/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2000/746/schedule/paragraph/3)
 
-[^key-194be0c618fecee299d8d113db2e5a68]: Textual amendment: Words in [s. 14(3)](https://www.legislation.gov.uk/ukpga/1964/83/section/14/3) omitted (1.4.2019) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/2); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), reg. 2
+[^c-194be0c618fecee299d8d113db2e5a68]: Textual amendment: Words in [s. 14(3)](https://www.legislation.gov.uk/ukpga/1964/83/section/14/3) omitted (1.4.2019) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/2); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), reg. 2
 
 [^c6560301]: Textual amendment: Words substituted by virtue of [Interpretation Act 1889 (c. 63)](https://www.legislation.gov.uk/ukpga/1889/63), [s. 38(1)](https://www.legislation.gov.uk/ukpga/1889/63/section/38/1)
 

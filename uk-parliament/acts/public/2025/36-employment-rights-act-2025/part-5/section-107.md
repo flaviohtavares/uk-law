@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Penalties for underpayment[^key-bcfeb8f2f6553e4d0aa0b450a04b1b94][^key-4dd9622c04ff6528634de4f628cfefa7]
+## 107. Penalties for underpayment[^c-bcfeb8f2f6553e4d0aa0b450a04b1b94][^c-4dd9622c04ff6528634de4f628cfefa7]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ This is subject to section 108(1) (power to specify exceptions).
 
 ## Annotations
 
-[^key-bcfeb8f2f6553e4d0aa0b450a04b1b94]: Commencement: S. 107 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-bcfeb8f2f6553e4d0aa0b450a04b1b94]: Commencement: S. 107 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-4dd9622c04ff6528634de4f628cfefa7]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2025/36/section/107) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(12)(c)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/12/c)
+[^c-4dd9622c04ff6528634de4f628cfefa7]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2025/36/section/107) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(12)(c)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/12/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendments of primary legislation[^M_I_233c3992-3e51-468a-8ca7-35a5de2e3a4f][^key-1e980928a942080fabca5f081e461078]
+## 2. Amendments of primary legislation[^M_I_233c3992-3e51-468a-8ca7-35a5de2e3a4f][^c-1e980928a942080fabca5f081e461078]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 1 contains amendments of primary legislation.
 
 [^M_I_233c3992-3e51-468a-8ca7-35a5de2e3a4f]: Commencement: Reg. 2 in force at 21.12.2020 for specified purposes, see reg. 1(2)(a)
 
-[^key-1e980928a942080fabca5f081e461078]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day in so far as not already in force, see reg. 1(3)(a)
+[^c-1e980928a942080fabca5f081e461078]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day in so far as not already in force, see reg. 1(3)(a)

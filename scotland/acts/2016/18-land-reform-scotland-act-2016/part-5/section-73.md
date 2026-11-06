@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Mediation[^key-fb66049b46d2bc80ebb781517db44e01]
+## 73. Mediation[^c-fb66049b46d2bc80ebb781517db44e01]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb66049b46d2bc80ebb781517db44e01]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2016/18/section/73) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-fb66049b46d2bc80ebb781517db44e01]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2016/18/section/73) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

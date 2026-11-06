@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Determination of certain applications by Secretary of State or Welsh Ministers[^key-29e2e60f8364bde64f2937f7ea9ea25e][^key-d29535fda3bf8c00a76db01628178640][^key-e77ca492d03ceecdcd824fd7c688dc00][^key-976c1f1eeb5badef16b4b5d56a912c50]
+## 37. Determination of certain applications by Secretary of State or Welsh Ministers[^c-29e2e60f8364bde64f2937f7ea9ea25e][^c-d29535fda3bf8c00a76db01628178640][^c-e77ca492d03ceecdcd824fd7c688dc00][^c-976c1f1eeb5badef16b4b5d56a912c50]
 
 *Extent: E+W*
 
@@ -65,10 +65,10 @@ After section 30 of the Building Act 1984 insert—
 
 ## Annotations
 
-[^key-29e2e60f8364bde64f2937f7ea9ea25e]: Commencement: S. 37 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(iii)(c)
+[^c-29e2e60f8364bde64f2937f7ea9ea25e]: Commencement: S. 37 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(iii)(c)
 
-[^key-d29535fda3bf8c00a76db01628178640]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/30/section/37) in force at 6.4.2023 except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(p)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/p)
+[^c-d29535fda3bf8c00a76db01628178640]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/30/section/37) in force at 6.4.2023 except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(p)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/p)
 
-[^key-e77ca492d03ceecdcd824fd7c688dc00]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/30/section/37) in force at 5.9.2023 for specified purposes for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(iv)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/iv)
+[^c-e77ca492d03ceecdcd824fd7c688dc00]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/30/section/37) in force at 5.9.2023 for specified purposes for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(iv)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/iv)
 
-[^key-976c1f1eeb5badef16b4b5d56a912c50]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/30/section/37) in force at 1.7.2026 for W. in so far as not already in force by [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/c)
+[^c-976c1f1eeb5badef16b4b5d56a912c50]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/30/section/37) in force at 1.7.2026 for W. in so far as not already in force by [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/c)

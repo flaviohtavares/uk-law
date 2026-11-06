@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Tax relief.[^key-8084a53a14b789783a00b03abb2f3985][^c13111881]
+## 67. Tax relief.[^c-8084a53a14b789783a00b03abb2f3985][^c13111881]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 (2) In such a case the sum—
 
 - (a) shall be deducted in computing for the purposes of Schedule D the profits[^c13111891] of a trade carried on by the company,
-- (b)[^key-60613e4d6ce663d07848c9597963b8a2] if the company is an investment company, shall be treated as expenses of management, or
+- (b)[^c-60613e4d6ce663d07848c9597963b8a2] if the company is an investment company, shall be treated as expenses of management, or
 - (c) if the company is a company in relation to which the I - E rules apply and the sum is referable, in accordance with Chapter 4 of Part 2 of the Finance Act 2012, to the company's basic life assurance and general annuity business, shall be treated for the purposes of section 76 of that Act as ordinary BLAGAB management expenses of the company.
 
 (3) For the purposes of subsection (1)(b) above, the question whether one company is controlled by another shall be construed in accordance with section840 of the Taxes Act 1988.
@@ -52,10 +52,10 @@ summary: ''
 
 ## Annotations
 
-[^key-8084a53a14b789783a00b03abb2f3985]: Modification: S. 67 excluded (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/142/1)
+[^c-8084a53a14b789783a00b03abb2f3985]: Modification: S. 67 excluded (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/142/1)
 
 [^c13111881]: Modification: *See* [Finance Act 1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29) ss.31–40—*.roll-over relief for disposal of assets to employeeshare ownership trusts*
 
 [^c13111891]: Textual amendment: Words in s. 67(2)(a) substituted (31.7.1998) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/1998/36/section/46/3), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/1998/36/schedule/7/paragraph/3)
 
-[^key-60613e4d6ce663d07848c9597963b8a2]: Textual amendment: [S. 67(2)(b)](https://www.legislation.gov.uk/ukpga/1989/26/section/67/2/b)[(c)](https://www.legislation.gov.uk/ukpga/1989/26/section/67/2/c) substituted for [s. 67(2)(b)](https://www.legislation.gov.uk/ukpga/1989/26/section/67/2/b) (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 48](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/48)
+[^c-60613e4d6ce663d07848c9597963b8a2]: Textual amendment: [S. 67(2)(b)](https://www.legislation.gov.uk/ukpga/1989/26/section/67/2/b)[(c)](https://www.legislation.gov.uk/ukpga/1989/26/section/67/2/c) substituted for [s. 67(2)(b)](https://www.legislation.gov.uk/ukpga/1989/26/section/67/2/b) (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 48](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/48)

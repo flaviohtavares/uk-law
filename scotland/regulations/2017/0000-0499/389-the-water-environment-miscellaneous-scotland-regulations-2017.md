@@ -56,41 +56,41 @@ In accordance with section 21(4) of the Act, they have had regard to the represe
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-7e69a549fb2654f5953626a78a29f2c9]
+### 1. Citation and commencement[^c-7e69a549fb2654f5953626a78a29f2c9]
 
 These Regulations may be cited as the Water Environment (Miscellaneous) (Scotland) Regulations 2017 and come into force on 1st January 2018.
 
-### 2. Amendment of the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^key-2c5a23d6aed667d2140624571302e8a6]
+### 2. Amendment of the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^c-2c5a23d6aed667d2140624571302e8a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART II — AMENDMENT TO GENERAL BINDING RULES
 
-### 3. Amendment of schedule 3[^key-2c5a23d6aed667d2140624571302e8a6]
+### 3. Amendment of schedule 3[^c-2c5a23d6aed667d2140624571302e8a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART III — MISCELLANEOUS AMENDMENTS OF THE WATER ENVIRONMENT (CONTROLLED ACTIVITIES) (SCOTLAND) REGULATIONS 2011
 
-### 4. Amendment of regulation 8 (water use licence)[^key-2c5a23d6aed667d2140624571302e8a6]
+### 4. Amendment of regulation 8 (water use licence)[^c-2c5a23d6aed667d2140624571302e8a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of regulation 15 (determination of application)[^key-2c5a23d6aed667d2140624571302e8a6]
+### 5. Amendment of regulation 15 (determination of application)[^c-2c5a23d6aed667d2140624571302e8a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment of part 2 of schedule 4 (relevant legislation)[^key-2c5a23d6aed667d2140624571302e8a6]
+### 6. Amendment of part 2 of schedule 4 (relevant legislation)[^c-2c5a23d6aed667d2140624571302e8a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of schedule 8 (register)[^key-2c5a23d6aed667d2140624571302e8a6]
+### 7. Amendment of schedule 8 (register)[^c-2c5a23d6aed667d2140624571302e8a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART IV — OTHER AMENDMENTS AND REVOCATION
 
-### 8. Amendment of the Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^key-feb6547b72112dc18903aa6cfb645d4f]
+### 8. Amendment of the Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^c-feb6547b72112dc18903aa6cfb645d4f]
 
 After regulation 13(4) of the Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^f00010], insert—
 
@@ -102,7 +102,7 @@ After regulation 13(4) of the Water Environment (River Basin Management Planning
 
 .
 
-### 9. Revocation of the Water Environment (Oil Storage) (Scotland) Regulations 2006[^key-28111c6f864d3da7c8c96c7eba62fbed]
+### 9. Revocation of the Water Environment (Oil Storage) (Scotland) Regulations 2006[^c-28111c6f864d3da7c8c96c7eba62fbed]
 
 The Water Environment (Oil Storage) (Scotland) Regulations 2006[^f00011] are revoked.
 
@@ -168,14 +168,14 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”), schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“the 2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), schedule, Part 1. The functions conferred on a Minister of the Crown under section 2(2) of the European Communities Act 1972 are, so far as they are exercisable within devolved competence, exercisable by the Scottish Ministers by virtue of section 53 of the 1998 Act. Section 2(2) is cited so far as is necessary to enable the making of the amendments to [S.S.I. 2013/323](https://www.legislation.gov.uk/ssi/2013/323) in regulation 8.
 
-[^key-7e69a549fb2654f5953626a78a29f2c9]: Commencement: Reg. 1 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/389/regulation/1)
+[^c-7e69a549fb2654f5953626a78a29f2c9]: Commencement: Reg. 1 in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/389/regulation/1)
 
-[^key-2c5a23d6aed667d2140624571302e8a6]: Textual amendment: [Regs. 2-7](https://www.legislation.gov.uk/ssi/2017/389/regulation/2) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-2c5a23d6aed667d2140624571302e8a6]: Textual amendment: [Regs. 2-7](https://www.legislation.gov.uk/ssi/2017/389/regulation/2) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-feb6547b72112dc18903aa6cfb645d4f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2017/389/regulation/8) in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/389/regulation/1)
+[^c-feb6547b72112dc18903aa6cfb645d4f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2017/389/regulation/8) in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/389/regulation/1)
 
 [^f00010]: Footnote: [S.S.I. 2013/323](https://www.legislation.gov.uk/ssi/2013/323), as amended by [S.S.I. 2015/211](https://www.legislation.gov.uk/ssi/2015/211).
 
-[^key-28111c6f864d3da7c8c96c7eba62fbed]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2017/389/regulation/9) in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/389/regulation/1)
+[^c-28111c6f864d3da7c8c96c7eba62fbed]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2017/389/regulation/9) in force at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/389/regulation/1)
 
 [^f00011]: Footnote: [S.S.I. 2006/133](https://www.legislation.gov.uk/ssi/2006/133), as amended by [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360).

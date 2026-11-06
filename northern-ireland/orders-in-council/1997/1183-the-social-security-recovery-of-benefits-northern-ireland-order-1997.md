@@ -44,7 +44,7 @@ The Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 [^c1170
 
 - “the Administration Act” means the [^m00002] Social Security Administration (Northern Ireland) Act 1992;
 - “appeal tribunal” means an appeal tribunal constituted under Chapter I of Part II of the Social Security (Northern Ireland) Order 1998;[^c21159531]
-- “benefit” means universal credit,[^key-9445ab1dda1f8ecb88bb125d355e6b5c] any benefit under the Contributions and Benefits Act, a jobseeker's allowance , an employment and support allowance[^c21159561] , personal independence payment[^key-8600fcd1f2cf0446c26683f66da6b92d] or mobility allowance;
+- “benefit” means universal credit,[^c-9445ab1dda1f8ecb88bb125d355e6b5c] any benefit under the Contributions and Benefits Act, a jobseeker's allowance , an employment and support allowance[^c21159561] , personal independence payment[^c-8600fcd1f2cf0446c26683f66da6b92d] or mobility allowance;
 - “compensation scheme for motor accidents” means any scheme or arrangement under which funds are available for the payment of compensation in respect of motor accidents caused, or alleged to have been caused, by uninsured or unidentified persons;
 - “the Contributions and Benefits Act” means the [^m00003] Social Security Contributions and Benefits (Northern Ireland) Act 1992;
 - “the Department” means the Department of Health and Social Services;
@@ -53,7 +53,7 @@ The Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 [^c1170
 - “payment” means payment in money or money's worth;
 - “prescribed” means prescribed by regulations;
 - “regulations” means regulations made by the Department;
-- “[^key-75c9bb13b4e3d9d1c363a6bc797dba29]**scheme administrator**”, in relation to the Diffuse Mesothelioma Payment Scheme, has the meaning given by section 18 of the Mesothelioma Act 2014.
+- “[^c-75c9bb13b4e3d9d1c363a6bc797dba29]**scheme administrator**”, in relation to the Diffuse Mesothelioma Payment Scheme, has the meaning given by section 18 of the Mesothelioma Act 2014.
 - “statutory provision” has the meaning assigned to it by section 1(f) of the [^m00004] Interpretation Act (Northern Ireland) 1954.
 
 ### Introductory
@@ -67,8 +67,8 @@ The Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 [^c1170
 
 (2) The reference in paragraph (1)(a) to a payment in consequence of any accident, injury or disease is to a payment made—
 
-- (a) by or on behalf of a person who is, or is alleged to be, liable to any extent in respect of the accident, injury or disease, [^key-5e34983778bfc1f0c681c5934eb90915]...
-- (b) in pursuance of a compensation scheme for motor accidents, or[^key-369471bfeb7164d6cf30a5135ccf677c]
+- (a) by or on behalf of a person who is, or is alleged to be, liable to any extent in respect of the accident, injury or disease, [^c-5e34983778bfc1f0c681c5934eb90915]...
+- (b) in pursuance of a compensation scheme for motor accidents, or[^c-369471bfeb7164d6cf30a5135ccf677c]
 - (c) under the Diffuse Mesothelioma Payment Scheme (established under the Mesothelioma Act 2014);
 
 but does not include a payment mentioned in Part I of Schedule 1.
@@ -94,8 +94,8 @@ but does not include a payment mentioned in Part I of Schedule 1.
 (2) This paragraph applies to—
 
 - (a) a payment made in accordance with the Pneumoconiosis, etc. , (Workers' Compensation) (Northern Ireland) Order 1979 (in this Article referred to as “ **the 1979 Order** ”);
-- (b) a payment made in accordance with the Mesothelioma, etc., Act (Northern Ireland) 2008, [^key-46004294de7e5857c73b620daaacf195]...
-- (c) an extra-statutory payment (within the meaning given by paragraph (5)(d)), and[^key-b496167ac3dfc3063daf13d791f27e67]
+- (b) a payment made in accordance with the Mesothelioma, etc., Act (Northern Ireland) 2008, [^c-46004294de7e5857c73b620daaacf195]...
+- (c) an extra-statutory payment (within the meaning given by paragraph (5)(d)), and[^c-b496167ac3dfc3063daf13d791f27e67]
 - (d) a payment under the Diffuse Mesothelioma Payment Scheme (established under the Mesothelioma Act 2014),
 
 (but this paragraph does not apply to a payment within sub-paragraph (d) in a case where the compensation payment is itself such a payment).
@@ -110,7 +110,7 @@ but does not include a payment mentioned in Part I of Schedule 1.
 
 (4) References in paragraph (1) to a payment made in consequence of a disease—
 
-- (a) are references to a payment made as specified in Article 3(2)(a) or (c)[^key-27f650c125de48f31862b05045f716ea] in respect of the disease, but
+- (a) are references to a payment made as specified in Article 3(2)(a) or (c)[^c-27f650c125de48f31862b05045f716ea] in respect of the disease, but
 - (b) do not include references to a payment mentioned in Part 1 of Schedule 1.
 
 (5) In this Article—
@@ -261,7 +261,7 @@ less
 
 (and, accordingly, the amount may be nil).
 
-#### 10A. Reduction of payment under Diffuse Mesothelioma Payment Scheme[^key-3467be687190c3b49bc512a2ab958f49]
+#### 10A. Reduction of payment under Diffuse Mesothelioma Payment Scheme[^c-3467be687190c3b49bc512a2ab958f49]
 
 (1) This Article applies instead of Article 10 in a case where the compensation payment is a payment under the Diffuse Mesothelioma Payment Scheme.
 
@@ -277,23 +277,23 @@ less
 
 #### 11. Article 10: supplementary
 
-(1) A person who makes a compensation payment calculated in accordance with Article 10 or 10A[^key-40056caffed41173ea01a542093bae57] shall inform the person to whom the payment is made—
+(1) A person who makes a compensation payment calculated in accordance with Article 10 or 10A[^c-40056caffed41173ea01a542093bae57] shall inform the person to whom the payment is made—
 
 - (a) that the payment has been so calculated, and
 - (b) of the date for payment by reference to which the calculation has been made.
 
-(2) If the amount of a compensation payment calculated in accordance with Article 10 or 10A[^key-6925f050460a13054fe38782105b66cd] is nil, a person giving a statement saying so is to be treated for the purposes of this Order as making a payment within Article 3(1)(a) on the day on which he gives the statement.
+(2) If the amount of a compensation payment calculated in accordance with Article 10 or 10A[^c-6925f050460a13054fe38782105b66cd] is nil, a person giving a statement saying so is to be treated for the purposes of this Order as making a payment within Article 3(1)(a) on the day on which he gives the statement.
 
 (3) Where a person—
 
-- (a) makes a compensation payment calculated in accordance with Article 10 or 10A[^key-ee0f15edee013cdbe224c7a724112368], and
+- (a) makes a compensation payment calculated in accordance with Article 10 or 10A[^c-ee0f15edee013cdbe224c7a724112368], and
 - (b) if the amount of the compensation payment so calculated is nil, gives a statement saying so,
 
 he is to be treated, for the purpose of determining any rights and liabilities in respect of contribution or indemnity, as having paid the gross amount of the compensation payment.
 
 (4) For the purposes of this Order—
 
-- (a) the gross amount of the compensation payment is the amount of the compensation payment apart from Article 10 or 10A[^key-100932bcd73cc8b15df3a76078954280], and
+- (a) the gross amount of the compensation payment is the amount of the compensation payment apart from Article 10 or 10A[^c-100932bcd73cc8b15df3a76078954280], and
 - (b) the amount of any recoverable benefit is the amount determined in accordance with the certificate of recoverable benefits.
 
 ### Reviews and appeals
@@ -312,7 +312,7 @@ he is to be treated, for the purpose of determining any rights and liabilities i
 
 (3)[^c11706341] The Department may not vary the certificate so as to increase the total amount of the recoverable benefits unless it appears to the Department that the variation is required as a result of the person who applied for the certificate supplying the Department with incorrect or insufficient information.
 
-(4)[^key-c763769fc8bd47f29061b5ef986bea05] The scheme administrator of the Diffuse Mesothelioma Payment Scheme may not apply for a review under this Article.
+(4)[^c-c763769fc8bd47f29061b5ef986bea05] The scheme administrator of the Diffuse Mesothelioma Payment Scheme may not apply for a review under this Article.
 
 #### 13. Appeals against certificates of recoverable benefits
 
@@ -324,11 +324,11 @@ he is to be treated, for the purpose of determining any rights and liabilities i
 (2)[^c11706361] An appeal under this Article may be made by—
 
 - (a) the person who applied for the certificate of recoverable benefits,[^c11706351] or
-- (b)[^c11706381] (in a case where the amount of the compensation payment has been calculated under Article 10 or 10A[^key-309a53e17c4a27784ec21e53cd8e5be8]) the injured person or other person to whom the payment is made,
+- (b)[^c11706381] (in a case where the amount of the compensation payment has been calculated under Article 10 or 10A[^c-309a53e17c4a27784ec21e53cd8e5be8]) the injured person or other person to whom the payment is made,
 
-but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not appeal under this Article.[^key-6724cfcd4ec22662b89b0d41460445c9]
+but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not appeal under this Article.[^c-6724cfcd4ec22662b89b0d41460445c9]
 
-(2A)[^key-fac47d0fb5ec5a55beb0afd43b8adf2b] Regulations may provide that, in such cases or circumstances as may be prescribed, an appeal may be made under this Article only if the Department has reviewed the certificate under Article 12.
+(2A)[^c-fac47d0fb5ec5a55beb0afd43b8adf2b] Regulations may provide that, in such cases or circumstances as may be prescribed, an appeal may be made under this Article only if the Department has reviewed the certificate under Article 12.
 
 (2B) The regulations may in particular provide that that condition is met only where—
 
@@ -347,7 +347,7 @@ but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not 
 
 - (a) as to the manner in which, and the time within which, appeals under this Article may be made,
 - (b) as to the procedure to be followed where such an appeal is made, and
-- (c) for the purpose of enabling any such appeal (or, where in accordance with regulations under paragraph (2A) there is no right of appeal, any purported appeal)[^key-6d8296b24eda4d0a69e620948a26db3d] to be treated as an application for review under Article 12.
+- (c) for the purpose of enabling any such appeal (or, where in accordance with regulations under paragraph (2A) there is no right of appeal, any purported appeal)[^c-6d8296b24eda4d0a69e620948a26db3d] to be treated as an application for review under Article 12.
 
 (6)[^c11706351] Regulations under paragraph (5)(c) may (among other things) provide that the circumstances in which a review may be carried out are not to be restricted to those specified in Article 12(1).
 
@@ -389,9 +389,9 @@ but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not 
 
 - (a) the Department,
 - (b) the person who applied for the certificate of recoverable benefits,[^c11706541] or
-- (c)[^c11706551] (in a case where the amount of the compensation payment has been calculated in accordance with Article 10 or 10A[^key-61602c461838dbc3673546b81927bdf0]) the injured person or other person to whom the payment is made,
+- (c)[^c11706551] (in a case where the amount of the compensation payment has been calculated in accordance with Article 10 or 10A[^c-61602c461838dbc3673546b81927bdf0]) the injured person or other person to whom the payment is made,
 
-but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not appeal under this Article.[^key-061df872098b51a0cca1bdf045aff362]
+but the scheme administrator of the Diffuse Mesothelioma Payment Scheme may not appeal under this Article.[^c-061df872098b51a0cca1bdf045aff362]
 
 (3)[^c11706531] Subsections (7) to (10) of section 21 of the Administration Act apply to appeals under this Article as they apply to appeals under that section.
 
@@ -417,7 +417,7 @@ regulations may provide for that person to pay the difference to the Department.
 
 (4) Regulations under this Article may provide—
 
-- (a) for the recalculation in accordance with Article 10 or 10A[^key-3d34863db3af07bad940e9e835de7844] of the amount of any compensation payment,
+- (a) for the recalculation in accordance with Article 10 or 10A[^c-3d34863db3af07bad940e9e835de7844] of the amount of any compensation payment,
 - (b) for giving credit for amounts already paid, and
 - (c) for the payment by any person of any balance or the recovery from any person of any excess,
 
@@ -487,7 +487,7 @@ and for the amount of any recoverable benefit shown against any head in column (
 (3) The regulations may (among other things) provide in the case of each compensator—
 
 - (a) for determining or re-determining the part of the recoverable benefits which may be taken into account in his case,
-- (b) for calculating or recalculating in accordance with Article 10 or 10A[^key-2919df57ccfa4f75aa6041e0acb75c08] the amount of any compensation payment,
+- (b) for calculating or recalculating in accordance with Article 10 or 10A[^c-2919df57ccfa4f75aa6041e0acb75c08] the amount of any compensation payment,
 - (c) for giving credit for amounts already paid, and
 - (d) for the payment by any person of any balance or the recovery from any person of any excess.
 
@@ -506,7 +506,7 @@ and for the amount of any recoverable benefit shown against any head in column (
 
 (4) The regulations may also (among other things) provide—
 
-- (a) for the re-calculation in accordance with Article 10 or 10A[^key-e38a6e9ee982d471320a3145829b7200] of the amount of any compensation payment,
+- (a) for the re-calculation in accordance with Article 10 or 10A[^c-e38a6e9ee982d471320a3145829b7200] of the amount of any compensation payment,
 - (b) for giving credit for amounts already paid, and
 - (c) for the payment by any person of any balance or the recovery from any person of any excess.
 
@@ -514,7 +514,7 @@ and for the amount of any recoverable benefit shown against any head in column (
 
 #### 23. Compensation payments to be disregarded
 
-(1) If, when a compensation payment is made, the first and second conditions are met, the 'payment is to be disregarded for the purposes of Articles 8 and 10 or 10A[^key-b38b302ce65a7c068d32ee9dfa6ea583].
+(1) If, when a compensation payment is made, the first and second conditions are met, the 'payment is to be disregarded for the purposes of Articles 8 and 10 or 10A[^c-b38b302ce65a7c068d32ee9dfa6ea583].
 
 (2) The first condition is that the person making the payment—
 
@@ -530,7 +530,7 @@ and for the amount of any recoverable benefit shown against any head in column (
 
 (5) In any case where—
 
-- (a) by virtue of paragraph (1), a compensation payment is disregarded for the purposes of Articles 8 and 10 or 10A[^key-789b7c209cea6aab2888a098b6decfad], but
+- (a) by virtue of paragraph (1), a compensation payment is disregarded for the purposes of Articles 8 and 10 or 10A[^c-789b7c209cea6aab2888a098b6decfad], but
 - (b) the person who made the compensation payment nevertheless makes a payment to the Department for which (but for paragraph (1)) he would be liable under Article 8,
 
 paragraph (1) is to cease to apply in relation to the compensation payment.
@@ -585,7 +585,7 @@ any accident, injury or disease, or any damage to property, shall, if the Depart
 
 (6) In paragraph (5) “employer” has the same meaning as it has in Part XI of the Contributions and Benefits Act.
 
-(6A)[^key-07466b2e5fcf72fdf3633e0d14cddeba] The following persons must give the Department the prescribed information for the purposes of this Order—
+(6A)[^c-07466b2e5fcf72fdf3633e0d14cddeba] The following persons must give the Department the prescribed information for the purposes of this Order—
 
 - (a) the scheme administrator of the Diffuse Mesothelioma Payment Scheme, and
 - (b) any person providing services to the scheme administrator.
@@ -608,9 +608,9 @@ This Order binds the Crown to the full extent authorised by the constitutional l
 
 #### 28. Regulations and orders
 
-(1) Regulations or orders made under this Order other than orders made under Article l(2) or regulations made under Article 13(2A) or[^key-1b732a62de65a9df326d16d68e8d73ff] 26(1) shall be subject to negative resolution.
+(1) Regulations or orders made under this Order other than orders made under Article l(2) or regulations made under Article 13(2A) or[^c-1b732a62de65a9df326d16d68e8d73ff] 26(1) shall be subject to negative resolution.
 
-(1A)[^key-d1a6b9c21b8bd927c728cf6e78835987] Regulations under Article 13(2A) must be laid before the Assembly after being made and take effect on such date as may be specified in the regulations, but shall (without prejudice to the validity of anything done thereunder or to the making of new regulations) cease to have effect upon the expiration of a period of six months from that date unless at some time before the expiration of that period the regulations are approved by a resolution of the Assembly.
+(1A)[^c-d1a6b9c21b8bd927c728cf6e78835987] Regulations under Article 13(2A) must be laid before the Assembly after being made and take effect on such date as may be specified in the regulations, but shall (without prejudice to the validity of anything done thereunder or to the making of new regulations) cease to have effect upon the expiration of a period of six months from that date unless at some time before the expiration of that period the regulations are approved by a resolution of the Assembly.
 
 (2) Regulations under Article 22, under Article 26 amending the list of benefits in column (2) of Schedule 2 or under paragraph 9 of Schedule 1 may not be made without the consent of the Department of Finance and Personnel.
 
@@ -650,7 +650,7 @@ Article 3.
 
 **1.** Any small payment (defined in Part II of this Schedule).
 
-**2.**[^c21426071] Any payment made to or for the injured person under Article 14 of the [^m00006] Criminal Justice (Northern Ireland) Order 1994, Schedule 2 to the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 or[^key-54c9d0305c8ea182bd3e0651f7c58d2f] section 175 of the Armed Forces Act 2006[^c19208391] (compensation orders against convicted persons).
+**2.**[^c21426071] Any payment made to or for the injured person under Article 14 of the [^m00006] Criminal Justice (Northern Ireland) Order 1994, Schedule 2 to the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 or[^c-54c9d0305c8ea182bd3e0651f7c58d2f] section 175 of the Armed Forces Act 2006[^c19208391] (compensation orders against convicted persons).
 
 **3.** Any payment made in the exercise of a discretion out of property held subject to a trust in a case where no more than 50 per cent. by value of the capital contributed to the trust was directly or indirectly provided by persons who are, or are alleged to be, liable in respect of—
 
@@ -699,9 +699,9 @@ Article 10.
 | (1) | (2) |
 | --- | --- |
 | *Head of compensation* | *Benefit* |
-| **1.** Compensation for earnings lost during the relevant period | Universal credit[^key-e3cfcb1765be3af37a51785808aa822d]<br>[^c11706651]. . .<br>Disablement pension payable under section 103 of the Contributions and Benefits Act<br>Employment and support allowance[^c21153281]<br>Incapacity benefit<br>Income support<br>Invalidity pension and allowance<br>Jobseeker's allowance<br>Reduced earnings allowance<br>Severe disablement allowance<br>Sickness benefit<br>Statutory sick pay<br>Unemployability supplement<br>Unemployment benefit |
-| **2.** Compensation for cost of care incurred during the relevant period | Attendance allowance<br>Care component of disability living allowance<br>Daily living component of personal independence payment[^key-1df6c121b9e7375e67caa5586a747a5f]<br>Disablement pension increase payable under section 104 or 105 of the Contributions and Benefits Act |
-| **3.** Compensation for loss of mobility during the relevant period | Mobility allowance<br>Mobility component of disability living allowance<br>Mobility component of personal independence payment[^key-f5434842cc4c4f6482604e8ff5da4796] |
+| **1.** Compensation for earnings lost during the relevant period | Universal credit[^c-e3cfcb1765be3af37a51785808aa822d]<br>[^c11706651]. . .<br>Disablement pension payable under section 103 of the Contributions and Benefits Act<br>Employment and support allowance[^c21153281]<br>Incapacity benefit<br>Income support<br>Invalidity pension and allowance<br>Jobseeker's allowance<br>Reduced earnings allowance<br>Severe disablement allowance<br>Sickness benefit<br>Statutory sick pay<br>Unemployability supplement<br>Unemployment benefit |
+| **2.** Compensation for cost of care incurred during the relevant period | Attendance allowance<br>Care component of disability living allowance<br>Daily living component of personal independence payment[^c-1df6c121b9e7375e67caa5586a747a5f]<br>Disablement pension increase payable under section 104 or 105 of the Contributions and Benefits Act |
+| **3.** Compensation for loss of mobility during the relevant period | Mobility allowance<br>Mobility component of disability living allowance<br>Mobility component of personal independence payment[^c-f5434842cc4c4f6482604e8ff5da4796] |
 
 ### 1. NOTES
 
@@ -732,39 +732,39 @@ Article 10.
 
 [^c21159531]: Textual amendment: Art. 2(2): definition of "appeal tribunal" inserted (29.11.1999 for certain purposes otherwise prosp.) by [Social Security (Northern Ireland) Order 1998 (S.I. 1998/1506 (N.I. 10))](https://www.legislation.gov.uk/nisi/1998/1506), [arts. 1(2)](https://www.legislation.gov.uk/nisi/1998/1506/article/1/2), [78(1)](https://www.legislation.gov.uk/nisi/1998/1506/article/78/1), [Sch. 6 para. 119](https://www.legislation.gov.uk/nisi/1998/1506/schedule/6/paragraph/119); [S.R. 1999/472](https://www.legislation.gov.uk/nisr/1999/472), [art. 2(1)(a)(2)](https://www.legislation.gov.uk/nisr/1999/472/article/2/1/a/2), [Sch. 1](https://www.legislation.gov.uk/nisr/1999/472/schedule/1) (with transitional provisions in [arts. 20](https://www.legislation.gov.uk/nisr/1999/472/article/20), [21](https://www.legislation.gov.uk/nisr/1999/472/article/21))
 
-[^key-9445ab1dda1f8ecb88bb125d355e6b5c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisi/1997/1183/article/2) inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 32](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/32); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(i)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/i)
+[^c-9445ab1dda1f8ecb88bb125d355e6b5c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisi/1997/1183/article/2) inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 32](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/32); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(i)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/i)
 
 [^c21159561]: Textual amendment: Words in art. 2(2) in definition of "benefit" inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [3(2)](https://www.legislation.gov.uk/nisr/2008/286/regulation/3/2)
 
-[^key-8600fcd1f2cf0446c26683f66da6b92d]: Textual amendment: Words in art. 2(2) inserted (20.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 33](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/33); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)
+[^c-8600fcd1f2cf0446c26683f66da6b92d]: Textual amendment: Words in art. 2(2) inserted (20.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 33](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/33); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)
 
 [^m00003]: Marginal citation: 1992 c. 7.
 
-[^key-75c9bb13b4e3d9d1c363a6bc797dba29]: Textual amendment: Words in art. 2(2) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/10); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-75c9bb13b4e3d9d1c363a6bc797dba29]: Textual amendment: Words in art. 2(2) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/10); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
 [^m00004]: Marginal citation: 1954 c. 33 (N.I.).
 
-[^key-5e34983778bfc1f0c681c5934eb90915]: Textual amendment: Word in [art. 3(2)(a)](https://www.legislation.gov.uk/nisi/1997/1183/article/3/2/a) omitted (31.3.2014) by virtue of [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/11/a); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-5e34983778bfc1f0c681c5934eb90915]: Textual amendment: Word in [art. 3(2)(a)](https://www.legislation.gov.uk/nisi/1997/1183/article/3/2/a) omitted (31.3.2014) by virtue of [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/11/a); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-369471bfeb7164d6cf30a5135ccf677c]: Textual amendment: [Art. 3(2)(c)](https://www.legislation.gov.uk/nisi/1997/1183/article/3/2/c) and preceding word inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 11(b)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/11/b); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-369471bfeb7164d6cf30a5135ccf677c]: Textual amendment: [Art. 3(2)(c)](https://www.legislation.gov.uk/nisi/1997/1183/article/3/2/c) and preceding word inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 11(b)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/11/b); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
 [^c21153301]: Textual amendment: Art. 3A inserted (27.8.2008 for certain purposes otherwise 1.10.2008) by Mesothelioma, etc., [Act (Northern Ireland) 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [ss. 8](https://www.legislation.gov.uk/ukpga/2008/9/section/8), [12(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/12/1); [S.R. 2008/351](https://www.legislation.gov.uk/nisr/2008/351), [art. 2(1)](https://www.legislation.gov.uk/nisr/2008/351/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/351/schedule)
 
-[^key-46004294de7e5857c73b620daaacf195]: Textual amendment: Word in [art. 3A(2)(b)](https://www.legislation.gov.uk/nisi/1997/1183/article/3A/2/b) omitted (31.3.2014) by virtue of [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/18/2/a); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-46004294de7e5857c73b620daaacf195]: Textual amendment: Word in [art. 3A(2)(b)](https://www.legislation.gov.uk/nisi/1997/1183/article/3A/2/b) omitted (31.3.2014) by virtue of [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/18/2/a); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-b496167ac3dfc3063daf13d791f27e67]: Textual amendment: [Art. 3A(2)(d)](https://www.legislation.gov.uk/nisi/1997/1183/article/3A/2/d) and words inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 18(2)(b)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/18/2/b); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-b496167ac3dfc3063daf13d791f27e67]: Textual amendment: [Art. 3A(2)(d)](https://www.legislation.gov.uk/nisi/1997/1183/article/3A/2/d) and words inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 18(2)(b)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/18/2/b); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-27f650c125de48f31862b05045f716ea]: Textual amendment: Words in [art. 3A(4)(a)](https://www.legislation.gov.uk/nisi/1997/1183/article/3A/4/a) substituted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/18/3); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-27f650c125de48f31862b05045f716ea]: Textual amendment: Words in [art. 3A(4)(a)](https://www.legislation.gov.uk/nisi/1997/1183/article/3A/4/a) substituted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 18(3)](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/18/3); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-3467be687190c3b49bc512a2ab958f49]: Textual amendment: [Art. 10A](https://www.legislation.gov.uk/nisi/1997/1183/article/10A) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/12); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-3467be687190c3b49bc512a2ab958f49]: Textual amendment: [Art. 10A](https://www.legislation.gov.uk/nisi/1997/1183/article/10A) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/12); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-40056caffed41173ea01a542093bae57]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/nisi/1997/1183/article/11/1) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-40056caffed41173ea01a542093bae57]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/nisi/1997/1183/article/11/1) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-6925f050460a13054fe38782105b66cd]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/nisi/1997/1183/article/11/2) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-6925f050460a13054fe38782105b66cd]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/nisi/1997/1183/article/11/2) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-ee0f15edee013cdbe224c7a724112368]: Textual amendment: Words in [art. 11(3)(a)](https://www.legislation.gov.uk/nisi/1997/1183/article/11/3/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-ee0f15edee013cdbe224c7a724112368]: Textual amendment: Words in [art. 11(3)(a)](https://www.legislation.gov.uk/nisi/1997/1183/article/11/3/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-100932bcd73cc8b15df3a76078954280]: Textual amendment: Words in [art. 11(4)(a)](https://www.legislation.gov.uk/nisi/1997/1183/article/11/4/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-100932bcd73cc8b15df3a76078954280]: Textual amendment: Words in [art. 11(4)(a)](https://www.legislation.gov.uk/nisi/1997/1183/article/11/4/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
 [^c11706321]: Textual amendment: prosp. in pt. subst. by [1998 NI 10](https://www.legislation.gov.uk/nisi/1998)
 
@@ -772,7 +772,7 @@ Article 10.
 
 [^c11706341]: Textual amendment: prosp. in pt. inserted by [1998 NI 10](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-c763769fc8bd47f29061b5ef986bea05]: Textual amendment: [Art. 12(4)](https://www.legislation.gov.uk/nisi/1997/1183/article/12/4) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/13); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-c763769fc8bd47f29061b5ef986bea05]: Textual amendment: [Art. 12(4)](https://www.legislation.gov.uk/nisi/1997/1183/article/12/4) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/13); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
 [^c11706351]: Textual amendment: prosp. in pt. rep. by [1998 NI 10](https://www.legislation.gov.uk/nisi/1998)
 
@@ -780,15 +780,15 @@ Article 10.
 
 [^c11706381]: Textual amendment: prosp. in pt. inserted by [1998 NI 10](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-309a53e17c4a27784ec21e53cd8e5be8]: Textual amendment: Words in art. 13(2)(b) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-309a53e17c4a27784ec21e53cd8e5be8]: Textual amendment: Words in art. 13(2)(b) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-6724cfcd4ec22662b89b0d41460445c9]: Textual amendment: Words in art. 13(2) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/14); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-6724cfcd4ec22662b89b0d41460445c9]: Textual amendment: Words in art. 13(2) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/14); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-fac47d0fb5ec5a55beb0afd43b8adf2b]: Textual amendment: Art. 13(2A)(2B) inserted (17.3.2016 with effect as mentioned in art. 107(7)-(9) of the amending Order) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 7(2)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/7/2); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-fac47d0fb5ec5a55beb0afd43b8adf2b]: Textual amendment: Art. 13(2A)(2B) inserted (17.3.2016 with effect as mentioned in art. 107(7)-(9) of the amending Order) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 7(2)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/7/2); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
 [^m00005]: Marginal citation: 1982 c. 53.
 
-[^key-6d8296b24eda4d0a69e620948a26db3d]: Textual amendment: Words in art. 13(5)(c) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 7(3)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/7/3); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-6d8296b24eda4d0a69e620948a26db3d]: Textual amendment: Words in art. 13(5)(c) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 7(3)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/7/3); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
 [^c11706401]: Textual amendment: prosp. in pt. subst. by [1998 NI 10](https://www.legislation.gov.uk/1998/ni10)
 
@@ -802,44 +802,44 @@ Article 10.
 
 [^c11706551]: Textual amendment: prosp. in pt. inserted by [1998 NI 10](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-61602c461838dbc3673546b81927bdf0]: Textual amendment: Words in [art. 15(2)(c)](https://www.legislation.gov.uk/nisi/1997/1183/article/15/2/c) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-61602c461838dbc3673546b81927bdf0]: Textual amendment: Words in [art. 15(2)(c)](https://www.legislation.gov.uk/nisi/1997/1183/article/15/2/c) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-061df872098b51a0cca1bdf045aff362]: Textual amendment: Words in art. 15(2) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/15); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-061df872098b51a0cca1bdf045aff362]: Textual amendment: Words in art. 15(2) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/15); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-3d34863db3af07bad940e9e835de7844]: Textual amendment: Words in [art. 16(4)(a)](https://www.legislation.gov.uk/nisi/1997/1183/article/16/4/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-3d34863db3af07bad940e9e835de7844]: Textual amendment: Words in [art. 16(4)(a)](https://www.legislation.gov.uk/nisi/1997/1183/article/16/4/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-2919df57ccfa4f75aa6041e0acb75c08]: Textual amendment: Words in [art. 21(3)(b)](https://www.legislation.gov.uk/nisi/1997/1183/article/21/3/b) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-2919df57ccfa4f75aa6041e0acb75c08]: Textual amendment: Words in [art. 21(3)(b)](https://www.legislation.gov.uk/nisi/1997/1183/article/21/3/b) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-e38a6e9ee982d471320a3145829b7200]: Textual amendment: Words in [art. 22(4)(a)](https://www.legislation.gov.uk/nisi/1997/1183/article/22/4/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-e38a6e9ee982d471320a3145829b7200]: Textual amendment: Words in [art. 22(4)(a)](https://www.legislation.gov.uk/nisi/1997/1183/article/22/4/a) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-b38b302ce65a7c068d32ee9dfa6ea583]: Textual amendment: Words in art. 23(1) inserted (31.3.2014) by virtue of [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-b38b302ce65a7c068d32ee9dfa6ea583]: Textual amendment: Words in art. 23(1) inserted (31.3.2014) by virtue of [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-789b7c209cea6aab2888a098b6decfad]: Textual amendment: Words in art. 23(5)(a) inserted (31.3.2014) by virtue of [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-789b7c209cea6aab2888a098b6decfad]: Textual amendment: Words in art. 23(5)(a) inserted (31.3.2014) by virtue of [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/16); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-07466b2e5fcf72fdf3633e0d14cddeba]: Textual amendment: [Art. 25(6A)](https://www.legislation.gov.uk/nisi/1997/1183/article/25/6A) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/20); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
+[^c-07466b2e5fcf72fdf3633e0d14cddeba]: Textual amendment: [Art. 25(6A)](https://www.legislation.gov.uk/nisi/1997/1183/article/25/6A) inserted (31.3.2014) by [Mesothelioma Act 2014 (c. 1)](https://www.legislation.gov.uk/ukpga/2014/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2014/1/section/19/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2014/1/schedule/1/paragraph/20); [S.I. 2014/459](https://www.legislation.gov.uk/uksi/2014/459), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/459/article/3/c)
 
-[^key-1b732a62de65a9df326d16d68e8d73ff]: Textual amendment: Words in art. 28(1) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 8(2)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/8/2); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-1b732a62de65a9df326d16d68e8d73ff]: Textual amendment: Words in art. 28(1) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 8(2)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/8/2); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
-[^key-d1a6b9c21b8bd927c728cf6e78835987]: Textual amendment: Art. 28(1A) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 8(3)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/8/3); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-d1a6b9c21b8bd927c728cf6e78835987]: Textual amendment: Art. 28(1A) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 8(3)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/8/3); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
 
 [^c21426071]: Modification: Sch. 1 para. 2 modified (24.4.2009 for certain purposes otherwise 31.10.2009) by [Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [205](https://www.legislation.gov.uk/uksi/2009/1059/article/205), [Sch. 1 para. 42](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/42)
 
 [^m00006]: Marginal citation: 1994 NI 15.
 
-[^key-54c9d0305c8ea182bd3e0651f7c58d2f]: Textual amendment: Words in Sch. 1 para. 2 substituted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 10](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/10)
+[^c-54c9d0305c8ea182bd3e0651f7c58d2f]: Textual amendment: Words in Sch. 1 para. 2 substituted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 10](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/10)
 
 [^c19208391]: Textual amendment: Words in Sch. 1 Pt. 1 para. 2 inserted (28.3.2009 for certain purposes otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 151](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/151); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c11706571]: Textual amendment: SI 2001/3649
 
-[^key-e3cfcb1765be3af37a51785808aa822d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisi/1997/1183/schedule/2) table inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 33](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/33); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(i)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/i)
+[^c-e3cfcb1765be3af37a51785808aa822d]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisi/1997/1183/schedule/2) table inserted (27.9.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 33](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/33); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(g)(i)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/g/i)
 
 [^c11706651]: Textual amendment: [1999 c.10](https://www.legislation.gov.uk/ukpga/1999/10)
 
 [^c21153281]: Textual amendment: Entry in Sch. 2 para. 1 column (2) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [3(3)](https://www.legislation.gov.uk/nisr/2008/286/regulation/3/3)
 
-[^key-1df6c121b9e7375e67caa5586a747a5f]: Textual amendment: Words in Sch. 2 inserted (20.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 34(a)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/34/a); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)
+[^c-1df6c121b9e7375e67caa5586a747a5f]: Textual amendment: Words in Sch. 2 inserted (20.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 34(a)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/34/a); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)
 
-[^key-f5434842cc4c4f6482604e8ff5da4796]: Textual amendment: Words in Sch. 2 inserted (20.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 34(b)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/34/b); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)
+[^c-f5434842cc4c4f6482604e8ff5da4796]: Textual amendment: Words in Sch. 2 inserted (20.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 34(b)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/34/b); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)
 
 [^m00007]: Marginal citation: S.R. 1987 No. Ireland) 1987. No. 460.

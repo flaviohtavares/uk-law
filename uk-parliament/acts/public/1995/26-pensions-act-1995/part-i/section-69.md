@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Grounds for applying for modifications: winding up registered schemes[^key-76ac67fa7111dac9b6e030627dd522c5][^key-7d23446b23b8e599350d0fd5a2f4b6d6]
+## 69. Grounds for applying for modifications: winding up registered schemes[^c-76ac67fa7111dac9b6e030627dd522c5][^c-7d23446b23b8e599350d0fd5a2f4b6d6]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-76ac67fa7111dac9b6e030627dd522c5]: Modification: S. 69 excluded (31.12.2000) by [The Occupational Pension Schemes (Republic of Ireland Schemes Exemption) Regulations 2000 (S.I. 2000/3198)](https://www.legislation.gov.uk/uksi/2000/3198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/3198/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2000/3198/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3198/schedule)
+[^c-76ac67fa7111dac9b6e030627dd522c5]: Modification: S. 69 excluded (31.12.2000) by [The Occupational Pension Schemes (Republic of Ireland Schemes Exemption) Regulations 2000 (S.I. 2000/3198)](https://www.legislation.gov.uk/uksi/2000/3198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/3198/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2000/3198/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3198/schedule)
 
-[^key-7d23446b23b8e599350d0fd5a2f4b6d6]: Textual amendment: [S. 69](https://www.legislation.gov.uk/ukpga/1995/26/section/69) substituted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 61](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/61)
+[^c-7d23446b23b8e599350d0fd5a2f4b6d6]: Textual amendment: [S. 69](https://www.legislation.gov.uk/ukpga/1995/26/section/69) substituted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 61](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/61)

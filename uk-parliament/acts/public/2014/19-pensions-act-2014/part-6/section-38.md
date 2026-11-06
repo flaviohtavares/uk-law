@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Automatic enrolment: powers to create general exceptions[^key-494d150ebb5d580c5a58ccfc007676b4]
+## 38. Automatic enrolment: powers to create general exceptions[^c-494d150ebb5d580c5a58ccfc007676b4]
 
 *Extent: E+W+S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-494d150ebb5d580c5a58ccfc007676b4]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/19/section/38) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/c)
+[^c-494d150ebb5d580c5a58ccfc007676b4]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/19/section/38) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/c)

@@ -85,7 +85,7 @@ These Regulations may be cited as the Social Security (Invalid Care Allowance) A
 
 ## 3. Saving
 
-In a case where regulation 8(2)(c) of the Social Security (Invalid Care Allowance) Regulations 1976 applied immediately before 25th November 1996, that regulation shall continue to apply in respect of any continuous period throughout which a person is entitled to a carer’s allowance[^key-b46bfec9354c0dd7e4afacd20818383e] in respect of a severely disabled person and which began on a date before 25th November 1996, as if regulation 2(7)(c) of these Regulations had not been made.
+In a case where regulation 8(2)(c) of the Social Security (Invalid Care Allowance) Regulations 1976 applied immediately before 25th November 1996, that regulation shall continue to apply in respect of any continuous period throughout which a person is entitled to a carer’s allowance[^c-b46bfec9354c0dd7e4afacd20818383e] in respect of a severely disabled person and which began on a date before 25th November 1996, as if regulation 2(7)(c) of these Regulations had not been made.
 
 Signed by authority of the Secretary of State for Social Security.
 
@@ -115,4 +115,4 @@ These Regulations do not impose any costs on business.
 
 [^c1768277]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-b46bfec9354c0dd7e4afacd20818383e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1996/2744/regulation/3) substituted (1.4.2003) by [Social Security Amendment (Carer's Allowance) Regulations 2002 (S.I. 2002/2497)](https://www.legislation.gov.uk/uksi/2002/2497), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/2497/regulation/1/b), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/1)[Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/2)
+[^c-b46bfec9354c0dd7e4afacd20818383e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1996/2744/regulation/3) substituted (1.4.2003) by [Social Security Amendment (Carer's Allowance) Regulations 2002 (S.I. 2002/2497)](https://www.legislation.gov.uk/uksi/2002/2497), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/2497/regulation/1/b), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/1)[Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Omission of Schedule 2 (information about related undertakings where LLP not preparing group accounts) and Schedule 3 (non-IAS abbreviated accounts for delivery to Registrar of Companies)[^key-ce5bddea5e10cbfc0f558ca18e0d22ef]
+## 42. Omission of Schedule 2 (information about related undertakings where LLP not preparing group accounts) and Schedule 3 (non-IAS abbreviated accounts for delivery to Registrar of Companies)[^c-ce5bddea5e10cbfc0f558ca18e0d22ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Omit—
 
 ## Annotations
 
-[^key-ce5bddea5e10cbfc0f558ca18e0d22ef]: Commencement: Reg. 42 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-ce5bddea5e10cbfc0f558ca18e0d22ef]: Commencement: Reg. 42 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

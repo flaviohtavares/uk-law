@@ -39,62 +39,62 @@ of 5 November 2002
 
 establishing a Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) and amending the Regulations on maritime safety and the prevention of pollution from ships (revoked)
 
-[^key-06797ecfd472ab3b71535f63f3d97619]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06797ecfd472ab3b71535f63f3d97619]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Purpose[^key-06797ecfd472ab3b71535f63f3d97619]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-06797ecfd472ab3b71535f63f3d97619]
+## Article 1. Purpose[^c-06797ecfd472ab3b71535f63f3d97619]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Establishment of a Committee[^key-06797ecfd472ab3b71535f63f3d97619]
+## Article 2. Definitions[^c-06797ecfd472ab3b71535f63f3d97619]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Integration of amendments to international instruments in Community law[^key-06797ecfd472ab3b71535f63f3d97619]
+## Article 3. Establishment of a Committee[^c-06797ecfd472ab3b71535f63f3d97619]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Conformity checking procedure[^key-06797ecfd472ab3b71535f63f3d97619]
+## Article 4. Integration of amendments to international instruments in Community law[^c-06797ecfd472ab3b71535f63f3d97619]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Information[^key-06797ecfd472ab3b71535f63f3d97619]
+## Article 5. Conformity checking procedure[^c-06797ecfd472ab3b71535f63f3d97619]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Powers of COSS and amendments[^key-06797ecfd472ab3b71535f63f3d97619]
+## Article 6. Information[^c-06797ecfd472ab3b71535f63f3d97619]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7a. Exercise of the delegation[^key-06797ecfd472ab3b71535f63f3d97619]
+## Article 7. Powers of COSS and amendments[^c-06797ecfd472ab3b71535f63f3d97619]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Amendment to Regulation (EEC) No 613/91[^key-06797ecfd472ab3b71535f63f3d97619]
+## Article 7a. Exercise of the delegation[^c-06797ecfd472ab3b71535f63f3d97619]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Amendment to Regulation (EC) No 2978/94[^key-06797ecfd472ab3b71535f63f3d97619]
+## Article 8. Amendment to Regulation (EEC) No 613/91[^c-06797ecfd472ab3b71535f63f3d97619]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Amendment to Regulation (EC) No 3051/95[^key-06797ecfd472ab3b71535f63f3d97619]
+## Article 9. Amendment to Regulation (EC) No 2978/94[^c-06797ecfd472ab3b71535f63f3d97619]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Amendment to Regulation (EC) No 417/2002[^key-06797ecfd472ab3b71535f63f3d97619]
+## Article 10. Amendment to Regulation (EC) No 3051/95[^c-06797ecfd472ab3b71535f63f3d97619]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Entry into force[^key-06797ecfd472ab3b71535f63f3d97619]
+## Article 11. Amendment to Regulation (EC) No 417/2002[^c-06797ecfd472ab3b71535f63f3d97619]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-06797ecfd472ab3b71535f63f3d97619]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 12. Entry into force[^c-06797ecfd472ab3b71535f63f3d97619]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-06797ecfd472ab3b71535f63f3d97619]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06797ecfd472ab3b71535f63f3d97619]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(d)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-06797ecfd472ab3b71535f63f3d97619]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(d)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66. Provision against danger to navigation[^key-58dd159ab864922052768b9523f0529f]
+## 66. Provision against danger to navigation[^c-58dd159ab864922052768b9523f0529f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In case of damage to, or destruction or decay of, a tidal work or any part of it
 
 ## Annotations
 
-[^key-58dd159ab864922052768b9523f0529f]: Commencement: Art. 66 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-58dd159ab864922052768b9523f0529f]: Commencement: Art. 66 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

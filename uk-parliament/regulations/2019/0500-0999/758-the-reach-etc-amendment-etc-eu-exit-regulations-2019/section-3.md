@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendment of Titles 1 to 15[^key-2acfae9586df559ea565de76c00d0c0f]
+## 3. Amendment of Titles 1 to 15[^c-2acfae9586df559ea565de76c00d0c0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Titles 1 to 15 are amended in accordance with Schedule 1.
 
 ## Annotations
 
-[^key-2acfae9586df559ea565de76c00d0c0f]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-2acfae9586df559ea565de76c00d0c0f]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

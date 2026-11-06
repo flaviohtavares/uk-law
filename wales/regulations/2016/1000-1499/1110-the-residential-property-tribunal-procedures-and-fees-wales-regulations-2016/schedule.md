@@ -24,7 +24,7 @@ Regulations 2 and 6
 
 ### Applications made under the 1985 Act
 
-#### 1. Applications relating to demolition orders[^key-0066e78f75fdcb7475de4649cca13a16]
+#### 1. Applications relating to demolition orders[^c-0066e78f75fdcb7475de4649cca13a16]
 
 (1) This paragraph applies to an application under section 269(1) of the 1985 Act (appeal by person aggrieved by demolition order).
 
@@ -49,7 +49,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the owner of the premises.
 
-**3.**[^key-deca9ddf06d3da4769863faba89324c9] (1) This paragraph applies to an application under section 272(2)(b) of the 1985 Act (application by owner of premises for determination of contribution to LHA’s expenses to be paid by another owner).
+**3.**[^c-deca9ddf06d3da4769863faba89324c9] (1) This paragraph applies to an application under section 272(2)(b) of the 1985 Act (application by owner of premises for determination of contribution to LHA’s expenses to be paid by another owner).
 
 (2) The specified documents are—
 
@@ -61,7 +61,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the owner from whom the applicant seeks a contribution to the LHA’s expenses.
 
-**4.**[^key-411394cbb5581ec1e981a94458b972ff] (1) This paragraph applies to an application under section 317(1) of the 1985 Act (application by lessor or lessee of premises in respect of which demolition order has become operative, for an order varying or determining lease).
+**4.**[^c-411394cbb5581ec1e981a94458b972ff] (1) This paragraph applies to an application under section 317(1) of the 1985 Act (application by lessor or lessee of premises in respect of which demolition order has become operative, for an order varying or determining lease).
 
 (2) The specified documents are—
 
@@ -72,7 +72,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the other party to the lease.
 
-#### 5. Applications relating to work on unfit premises[^key-db3091ffe0d2e1af502c8114ee9d1e7a]
+#### 5. Applications relating to work on unfit premises[^c-db3091ffe0d2e1af502c8114ee9d1e7a]
 
 (1) This paragraph applies to an application under section 318(1) of the 1985 Act (application by person with interest in premises for authorisation by tribunal of execution of works on unfit premises or for improvement).
 
@@ -95,7 +95,7 @@ Regulations 2 and 6
 
 ### Applications Made Under the 2004 Act
 
-#### 6. Applications relating to improvement notices[^key-db9f4ebb1df6e0b90b9e3b1397be92cd]
+#### 6. Applications relating to improvement notices[^c-db9f4ebb1df6e0b90b9e3b1397be92cd]
 
 (1) This paragraph applies to an application under paragraph 10(1) of Schedule 1 to the 2004 Act (appeal against improvement notice) other than an application referred to in paragraph 2.
 
@@ -107,7 +107,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**7.**[^key-ba562d10baa84bddba6712d07b163c6f] (1) This paragraph applies to an application under paragraph 10 of Schedule 1 to the 2004 Act which consists of or includes the ground set out in paragraph 11(1) of that Schedule (ground of appeal relating to other persons).
+**7.**[^c-ba562d10baa84bddba6712d07b163c6f] (1) This paragraph applies to an application under paragraph 10 of Schedule 1 to the 2004 Act which consists of or includes the ground set out in paragraph 11(1) of that Schedule (ground of appeal relating to other persons).
 
 (2) The specified documents are—
 
@@ -123,7 +123,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**8.**[^key-bb0922571dc4d7acf3046f7e7714078b] (1) This paragraph applies to an application under paragraph 13(1) of Schedule 1 to the 2004 Act (appeal against LHA’s decision to vary, or to refuse to vary or revoke, an improvement notice).
+**8.**[^c-bb0922571dc4d7acf3046f7e7714078b] (1) This paragraph applies to an application under paragraph 13(1) of Schedule 1 to the 2004 Act (appeal against LHA’s decision to vary, or to refuse to vary or revoke, an improvement notice).
 
 (2) The specified documents are—
 
@@ -133,7 +133,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**9.**[^key-c6fa3301fbca2e6d5ec7168d788ccf0d] (1) This paragraph applies to an application under—
+**9.**[^c-c6fa3301fbca2e6d5ec7168d788ccf0d] (1) This paragraph applies to an application under—
 
 - (a) paragraph 11(1) of Schedule 3 to the 2004 Act (appeal against demand by the LHA for recovery of expenses incurred by the LHA in taking action where improvement notice has been served); and
 - (b) that paragraph as applied with modifications by section 42 of the 2004 Act (an appeal against a demand by the LHA for recovery of expenses incurred by taking emergency remedial action).
@@ -148,7 +148,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-#### 10. Applications relating to prohibition orders[^key-a21de04f53c8dc0395e92400d18a1ba0]
+#### 10. Applications relating to prohibition orders[^c-a21de04f53c8dc0395e92400d18a1ba0]
 
 (1) This paragraph applies to an application under section 22(9) of the 2004 Act (appeal against LHA’s refusal to give approval of particular use under section 22(4) of the 2004 Act).
 
@@ -160,7 +160,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**11.**[^key-1addcbad56b73b39ec6deae4347d4a05] (1) This paragraph applies to an application under section 34(2) of the 2004 Act (application by lessor or lessee for order determining or varying lease where a prohibition order has become operative).
+**11.**[^c-1addcbad56b73b39ec6deae4347d4a05] (1) This paragraph applies to an application under section 34(2) of the 2004 Act (application by lessor or lessee for order determining or varying lease where a prohibition order has become operative).
 
 (2) The specified documents are—
 
@@ -171,7 +171,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the other party to the lease.
 
-**12.**[^key-637dd877d425d8773f65220641005d22] (1) This paragraph applies to an application under paragraph 7(1) of Schedule 2 to the 2004 Act (appeal against prohibition order).
+**12.**[^c-637dd877d425d8773f65220641005d22] (1) This paragraph applies to an application under paragraph 7(1) of Schedule 2 to the 2004 Act (appeal against prohibition order).
 
 (2) The specified documents are—
 
@@ -181,7 +181,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**13.**[^key-fdcf901bed807894062a7ce4c1c023f4] (1) This paragraph applies to an application under paragraph 9 of Schedule 2 to the 2004 Act (appeal against LHA’s decision to vary, or to refuse to vary or revoke, a prohibition order).
+**13.**[^c-fdcf901bed807894062a7ce4c1c023f4] (1) This paragraph applies to an application under paragraph 9 of Schedule 2 to the 2004 Act (appeal against LHA’s decision to vary, or to refuse to vary or revoke, a prohibition order).
 
 (2) The specified documents are—
 
@@ -191,7 +191,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-#### 14. Applications relating to emergency remedial action[^key-71a062d8a724fcc65077ca5f579b1120]
+#### 14. Applications relating to emergency remedial action[^c-71a062d8a724fcc65077ca5f579b1120]
 
 (1) This paragraph applies to an application under section 45(1) of the 2004 Act (appeal by person upon whom a notice under section 41 of the 2004 Act has been served against LHA’s decision to take emergency remedial action).
 
@@ -202,7 +202,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**15.**[^key-7999115f95d178eeb0fcfe2da8650108] (1) This paragraph applies to an application under section 45(2) of the 2004 Act (appeal by relevant person against emergency prohibition order).
+**15.**[^c-7999115f95d178eeb0fcfe2da8650108] (1) This paragraph applies to an application under section 45(2) of the 2004 Act (appeal by relevant person against emergency prohibition order).
 
 (2) The specified documents are—
 
@@ -211,7 +211,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**16.**[^key-d4907e0b81e6d6add3baabd51b417871] (1) This paragraph applies to an application under—
+**16.**[^c-d4907e0b81e6d6add3baabd51b417871] (1) This paragraph applies to an application under—
 
 - (a) paragraph 14 of Schedule 3 to the 2004 Act (application by LHA for order for recovery of expenses and interest from person profiting from the taking of action without agreement); and
 - (b) that paragraph as applied with modifications by section 42 of the 2004 Act (recovery of expenses of taking emergency remedial action).
@@ -226,7 +226,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the person from whom the LHA seeks to recover expenses and interest.
 
-#### 17. Applications relating to HMO licensing[^key-c16853eab336788eb454522ed047c7db]
+#### 17. Applications relating to HMO licensing[^c-c16853eab336788eb454522ed047c7db]
 
 (1) This paragraph applies to an application under section 62(7) of the 2004 Act (appeal against refusal by LHA to serve a temporary exemption notice).
 
@@ -237,7 +237,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**18.**[^key-2bbf63e9f2cb8dd2b7dd161eec6d8e55] (1) This paragraph applies to an application under section 73(5) of the 2004 Act (application by LHA or occupier for rent repayment order).
+**18.**[^c-2bbf63e9f2cb8dd2b7dd161eec6d8e55] (1) This paragraph applies to an application under section 73(5) of the 2004 Act (application by LHA or occupier for rent repayment order).
 
 (2) The specified documents are—
 
@@ -254,13 +254,13 @@ Regulations 2 and 6
 
 (3) The specified respondent is the appropriate person.
 
-**19.**[^key-be55e6da61fb25e0deab9badc898eb68] (1) This paragraph applies to an application under section 255(9) of the 2004 Act (appeal against decision of LHA to serve an HMO declaration).
+**19.**[^c-be55e6da61fb25e0deab9badc898eb68] (1) This paragraph applies to an application under section 255(9) of the 2004 Act (appeal against decision of LHA to serve an HMO declaration).
 
 (2) The specified document is a copy of the HMO declaration.
 
 (3) The specified respondent is the LHA.
 
-**20.**[^key-755956272ecc19fa54e04711fec8e783] (1) This paragraph applies to an application under section 256(4) of the 2004 Act (appeal against decision of LHA to refuse to revoke an HMO declaration).
+**20.**[^c-755956272ecc19fa54e04711fec8e783] (1) This paragraph applies to an application under section 256(4) of the 2004 Act (appeal against decision of LHA to refuse to revoke an HMO declaration).
 
 (2) The specified documents are—
 
@@ -269,7 +269,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**21.**[^key-614423f8c5a03c686e6d33e629dd1bf5] (1) This paragraph applies to an application under paragraph 31(1) of Schedule 5 to the 2004 Act (appeal against decision by LHA to grant, or refuse to grant, a licence under Part 2 of the 2004 Act, or against any of the terms of the licence).
+**21.**[^c-614423f8c5a03c686e6d33e629dd1bf5] (1) This paragraph applies to an application under paragraph 31(1) of Schedule 5 to the 2004 Act (appeal against decision by LHA to grant, or refuse to grant, a licence under Part 2 of the 2004 Act, or against any of the terms of the licence).
 
 (2) The specified documents are—
 
@@ -280,7 +280,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**22.**[^key-4f7858e3288d09b1e3bd8285de21779d] (1) This paragraph applies to an application under paragraph 32(1) of Schedule 5 to the 2004 Act (appeal by licence holder or any relevant person against decision by LHA with regard to the variation or revocation of licence).
+**22.**[^c-4f7858e3288d09b1e3bd8285de21779d] (1) This paragraph applies to an application under paragraph 32(1) of Schedule 5 to the 2004 Act (appeal by licence holder or any relevant person against decision by LHA with regard to the variation or revocation of licence).
 
 (2) The specified documents are—
 
@@ -292,7 +292,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-#### 23. Applications relating to selective licensing of other residential accommodation[^key-b54f95765fcc4b063fa2b235cafb7b3a]
+#### 23. Applications relating to selective licensing of other residential accommodation[^c-b54f95765fcc4b063fa2b235cafb7b3a]
 
 (1) This paragraph applies to an application under section 86(7) of the 2004 Act (appeal against refusal by the LHA to serve a temporary exemption notice).
 
@@ -303,7 +303,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**24.**[^key-27086231186341a37b6a41fc62861af3] (1) This paragraph applies to an application under section 96(5) of the 2004 Act (application by LHA or occupier for a rent repayment order).
+**24.**[^c-27086231186341a37b6a41fc62861af3] (1) This paragraph applies to an application under section 96(5) of the 2004 Act (application by LHA or occupier for a rent repayment order).
 
 (2) The specified documents are—
 
@@ -320,7 +320,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the appropriate person.
 
-**25.**[^key-841a8a7ddc004e353d443438b23c6551] (1) This paragraph applies to an application under paragraph 31 of Schedule 5 to the 2004 Act (appeal against decision by LHA to grant or refuse licence under Part 3 or relating to terms of licence).
+**25.**[^c-841a8a7ddc004e353d443438b23c6551] (1) This paragraph applies to an application under paragraph 31 of Schedule 5 to the 2004 Act (appeal against decision by LHA to grant or refuse licence under Part 3 or relating to terms of licence).
 
 (2) The specified documents are—
 
@@ -331,7 +331,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**26.**[^key-fdd3f3f88e4e16ed0aac0a828d640c2d] (1) This paragraph applies to an application under paragraph 32(1) of Schedule 5 to the 2004 Act (appeal by licence holder or relevant person against decision by LHA relating to variation or revocation of licence).
+**26.**[^c-fdd3f3f88e4e16ed0aac0a828d640c2d] (1) This paragraph applies to an application under paragraph 32(1) of Schedule 5 to the 2004 Act (appeal by licence holder or relevant person against decision by LHA relating to variation or revocation of licence).
 
 (2) The specified documents are—
 
@@ -343,7 +343,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-#### 27. Applications relating to interim and final management orders[^key-c5baf67a85cabefba343b1a4e5216d38]
+#### 27. Applications relating to interim and final management orders[^c-c5baf67a85cabefba343b1a4e5216d38]
 
 (1) This paragraph applies to an application under section 102(4) of the 2004 Act (LHA application for authorisation to make an interim management order).
 
@@ -357,7 +357,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is a relevant person as defined in paragraphs 8(4) and 35 of Schedule 6 to the 2004 Act.
 
-**28.**[^key-d20465065fc4ee39f17e6e01d3d705f1] (1) This paragraph applies to an application under section 102(7) of the 2004 Act (LHA application for authorisation to make an interim management order in respect of a house to which section 103 of the 2004 Act applies).
+**28.**[^c-d20465065fc4ee39f17e6e01d3d705f1] (1) This paragraph applies to an application under section 102(7) of the 2004 Act (LHA application for authorisation to make an interim management order in respect of a house to which section 103 of the 2004 Act applies).
 
 (2) The specified documents are—
 
@@ -367,7 +367,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is a relevant person as defined in paragraphs 8(4) and 35 of Schedule 6 to the 2004 Act.
 
-**29.**[^key-5adc782a0c8e6e26d780ba8761f37a79] (1) This paragraph applies to an application under section 105(10) of the 2004 Act (LHA application for order that an interim management order continue in force pending disposal of appeal).
+**29.**[^c-5adc782a0c8e6e26d780ba8761f37a79] (1) This paragraph applies to an application under section 105(10) of the 2004 Act (LHA application for order that an interim management order continue in force pending disposal of appeal).
 
 (2) The specified documents are—
 
@@ -376,7 +376,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the applicant who has made the relevant appeal.
 
-**30.**[^key-ffaededb4172c022c53d783106116342] (1) This paragraph applies to an application under section 110(7) of the 2004 Act (application by relevant landlord for order regarding financial arrangements while interim management order in force).
+**30.**[^c-ffaededb4172c022c53d783106116342] (1) This paragraph applies to an application under section 110(7) of the 2004 Act (application by relevant landlord for order regarding financial arrangements while interim management order in force).
 
 (2) The specified documents are—
 
@@ -385,7 +385,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**31.**[^key-fc3fc8cd7d2682836abd9661b54ca562] (1) This paragraph applies to an application under section 114(7) of the 2004 Act (LHA application for order that existing final management order continue in force pending disposal of appeal against new final management order).
+**31.**[^c-fc3fc8cd7d2682836abd9661b54ca562] (1) This paragraph applies to an application under section 114(7) of the 2004 Act (LHA application for order that existing final management order continue in force pending disposal of appeal against new final management order).
 
 (2) The specified documents are—
 
@@ -395,13 +395,13 @@ Regulations 2 and 6
 
 (3) The specified respondent is the applicant who has made the relevant appeal.
 
-**32.**[^key-5e1631d39f87843bbdcd02ee94938993] (1) This paragraph applies to an application under section 120(1) of the 2004 Act (application by an affected person for order that LHA manage in accordance with management scheme in final management order).
+**32.**[^c-5e1631d39f87843bbdcd02ee94938993] (1) This paragraph applies to an application under section 120(1) of the 2004 Act (application by an affected person for order that LHA manage in accordance with management scheme in final management order).
 
 (2) The specified document is a copy of the final management order which contains the management scheme to which the application relates.
 
 (3) The specified respondent is the LHA.
 
-**33.**[^key-640b90ca2c51e3d733b031dac3cbdf01] (1) This paragraph applies to an application under section 126(4) of the 2004 Act (application for adjustment of rights and liabilities with regard to furniture vested in LHA while management order in force).
+**33.**[^c-640b90ca2c51e3d733b031dac3cbdf01] (1) This paragraph applies to an application under section 126(4) of the 2004 Act (application for adjustment of rights and liabilities with regard to furniture vested in LHA while management order in force).
 
 (2) The specified documents are—
 
@@ -410,13 +410,13 @@ Regulations 2 and 6
 
 (3) The specified respondent is the other person interested in the furniture.
 
-**34.**[^key-0e8d97cf8afa85a331a80071c99edab5] (1) This paragraph applies to an application under section 130(9) of the 2004 Act (application to determine who is “the relevant landlord” (“*y landlord perthnasol*”) for the purposes of section 130 of the 2004 Act on termination of management order).
+**34.**[^c-0e8d97cf8afa85a331a80071c99edab5] (1) This paragraph applies to an application under section 130(9) of the 2004 Act (application to determine who is “the relevant landlord” (“*y landlord perthnasol*”) for the purposes of section 130 of the 2004 Act on termination of management order).
 
 (2) The specified document is a copy of the management order.
 
 (3) The specified respondent is the other relevant landlord.
 
-**35.**[^key-be44a5186acaf46db784cb74940a2da8] (1) This paragraph applies to an application under paragraph 24 of Schedule 6 to the 2004 Act (appeal against making of a management order, or against the terms of the order or of associated management scheme).
+**35.**[^c-be44a5186acaf46db784cb74940a2da8] (1) This paragraph applies to an application under paragraph 24 of Schedule 6 to the 2004 Act (appeal against making of a management order, or against the terms of the order or of associated management scheme).
 
 (2) The specified documents are—
 
@@ -427,7 +427,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**36.**[^key-cc1ab6397e684cf63260794853a6d8d9] (1) This paragraph applies to an application under paragraph 28 of Schedule 6 to the 2004 Act (appeal against LHA’s decision to vary or revoke, or to refuse to vary or revoke a management order).
+**36.**[^c-cc1ab6397e684cf63260794853a6d8d9] (1) This paragraph applies to an application under paragraph 28 of Schedule 6 to the 2004 Act (appeal against LHA’s decision to vary or revoke, or to refuse to vary or revoke a management order).
 
 (2) The specified documents are—
 
@@ -441,7 +441,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**37.**[^key-f29c123ee1a9030ebd13a2a1323e3bb5] (1) This paragraph applies to an application under paragraph 32(2) of Schedule 6 to the 2004 Act (appeal by third party against LHA’s decision under section 128 of the 2004 Act regarding compensation payable to third parties).
+**37.**[^c-f29c123ee1a9030ebd13a2a1323e3bb5] (1) This paragraph applies to an application under paragraph 32(2) of Schedule 6 to the 2004 Act (appeal by third party against LHA’s decision under section 128 of the 2004 Act regarding compensation payable to third parties).
 
 (2) The specified documents are—
 
@@ -453,7 +453,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-#### 38. Applications in relation to empty dwelling management orders[^key-3433f96bbf4f58a927c9e8897055915b]
+#### 38. Applications in relation to empty dwelling management orders[^c-3433f96bbf4f58a927c9e8897055915b]
 
 (1) This paragraph applies to an application under section 133(1) of the 2004 Act (LHA application for authorisation to make interim EDMO).
 
@@ -467,7 +467,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the relevant proprietor.
 
-**39.**[^key-8960eb1bc252936035c28dd22b9f79e7] (1) This paragraph applies to an application under section 138(1) of the 2004 Act (application while interim EDMO in force for order that the LHA pay compensation to third party for interference with rights).
+**39.**[^c-8960eb1bc252936035c28dd22b9f79e7] (1) This paragraph applies to an application under section 138(1) of the 2004 Act (application while interim EDMO in force for order that the LHA pay compensation to third party for interference with rights).
 
 (2) The specified documents are—
 
@@ -479,7 +479,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**40.**[^key-a345d0997c8c33d410b9050b5ee7637c] (1) This paragraph applies to an application under paragraph 1(7) of Schedule 7 to the 2004 Act (LHA application for order that interim EDMO continue in force pending disposal of appeal under paragraph 26 of that Schedule).
+**40.**[^c-a345d0997c8c33d410b9050b5ee7637c] (1) This paragraph applies to an application under paragraph 1(7) of Schedule 7 to the 2004 Act (LHA application for order that interim EDMO continue in force pending disposal of appeal under paragraph 26 of that Schedule).
 
 (2) The specified documents are—
 
@@ -488,7 +488,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the applicant who has made the relevant appeal.
 
-**41.**[^key-b51fbe3f82da585ecfccc22fe1052387] (1) This paragraph applies to an application under paragraph 2(3)(d) or paragraph 10(3)(d) of Schedule 7 to the 2004 Act (LHA’s application for order under paragraph 22 of that Schedule determining a lease or licence while interim or final EDMO is in force).
+**41.**[^c-b51fbe3f82da585ecfccc22fe1052387] (1) This paragraph applies to an application under paragraph 2(3)(d) or paragraph 10(3)(d) of Schedule 7 to the 2004 Act (LHA’s application for order under paragraph 22 of that Schedule determining a lease or licence while interim or final EDMO is in force).
 
 (2) The specified documents are—
 
@@ -501,7 +501,7 @@ Regulations 2 and 6
 
 (3) The specified respondents are the parties to the lease or licence.
 
-**42.**[^key-98bf085eb4424d33b058b736066a4f00] (1) This paragraph applies to an application under paragraph 5(7) of Schedule 7 to the 2004 Act (application by relevant proprietor for order in connection with financial arrangements while interim EDMO in force).
+**42.**[^c-98bf085eb4424d33b058b736066a4f00] (1) This paragraph applies to an application under paragraph 5(7) of Schedule 7 to the 2004 Act (application by relevant proprietor for order in connection with financial arrangements while interim EDMO in force).
 
 (2) The specified documents are—
 
@@ -510,7 +510,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**43.**[^key-c6db2dbc474a051bbf753d22b6eac5e3] (1) This paragraph applies to an application under paragraph 9(8) of Schedule 7 to the 2004 Act (application by LHA for order that final EDMO should continue in force pending disposal of an appeal under paragraph 26 of that Schedule).
+**43.**[^c-c6db2dbc474a051bbf753d22b6eac5e3] (1) This paragraph applies to an application under paragraph 9(8) of Schedule 7 to the 2004 Act (application by LHA for order that final EDMO should continue in force pending disposal of an appeal under paragraph 26 of that Schedule).
 
 (2) The specified documents are—
 
@@ -519,13 +519,13 @@ Regulations 2 and 6
 
 (3) The specified respondent is the applicant who has made the relevant appeal.
 
-**44.**[^key-8a9cd7ffe8839bcf5f8e29ed0df52392] (1) This paragraph applies to an application under paragraph 14(1) of Schedule 7 to the 2004 Act (application by an affected person for order that LHA manage dwelling in accordance with management scheme in final EDMO).
+**44.**[^c-8a9cd7ffe8839bcf5f8e29ed0df52392] (1) This paragraph applies to an application under paragraph 14(1) of Schedule 7 to the 2004 Act (application by an affected person for order that LHA manage dwelling in accordance with management scheme in final EDMO).
 
 (2) The specified document is a copy of the final EDMO (including the management scheme).
 
 (3) The specified respondent is the LHA.
 
-**45.**[^key-02f216fd2b310627eb3f9be24f2356ba] (1) This paragraph applies to an application under paragraph 26(1) of Schedule 7 to the 2004 Act (appeal against LHA’s decision to make final EDMO or against terms of the order or of associated management scheme).
+**45.**[^c-02f216fd2b310627eb3f9be24f2356ba] (1) This paragraph applies to an application under paragraph 26(1) of Schedule 7 to the 2004 Act (appeal against LHA’s decision to make final EDMO or against terms of the order or of associated management scheme).
 
 (2) The specified documents are—
 
@@ -535,7 +535,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**46.**[^key-54c8df2ab8435d8f512a779b4bef30ff] (1) This paragraph applies to an application under paragraph 30 of Schedule 7 to the 2004 Act (appeal against LHA’s decision to vary or revoke, or to refuse to vary or revoke interim or final EDMO).
+**46.**[^c-54c8df2ab8435d8f512a779b4bef30ff] (1) This paragraph applies to an application under paragraph 30 of Schedule 7 to the 2004 Act (appeal against LHA’s decision to vary or revoke, or to refuse to vary or revoke interim or final EDMO).
 
 (2) The specified documents are—
 
@@ -547,7 +547,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**47.**[^key-aaabfa3d73d386be6dc8e4a1f588dc6a] (1) This paragraph applies to an application under paragraph 34(2) of Schedule 7 to the 2004 Act (appeal against LHA’s decision under section 136(4) or 138(3) of the 2004 Act in respect of compensation payable to third parties for interference with rights in consequence of final EDMO).
+**47.**[^c-aaabfa3d73d386be6dc8e4a1f588dc6a] (1) This paragraph applies to an application under paragraph 34(2) of Schedule 7 to the 2004 Act (appeal against LHA’s decision under section 136(4) or 138(3) of the 2004 Act in respect of compensation payable to third parties for interference with rights in consequence of final EDMO).
 
 (2) The specified documents are—
 
@@ -559,7 +559,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-#### 48. Applications in relation to overcrowding notices[^key-b659c10899c1e975a1a047fc731b2b2d]
+#### 48. Applications in relation to overcrowding notices[^c-b659c10899c1e975a1a047fc731b2b2d]
 
 (1) This paragraph applies to an application under section 143(1) of the 2004 Act (appeal by a person aggrieved by overcrowding notice).
 
@@ -567,7 +567,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the LHA.
 
-**49.**[^key-d79014ca013034d2e80bb37e90b7322c] (1) This paragraph applies to an application under section 144(2) of the 2004 Act (appeal by relevant person against LHA’s refusal to revoke or vary an overcrowding notice, or against failure by the LHA to respond in time to an application to revoke or vary it).
+**49.**[^c-d79014ca013034d2e80bb37e90b7322c] (1) This paragraph applies to an application under section 144(2) of the 2004 Act (appeal by relevant person against LHA’s refusal to revoke or vary an overcrowding notice, or against failure by the LHA to respond in time to an application to revoke or vary it).
 
 (2) The specified documents are—
 
@@ -578,7 +578,7 @@ Regulations 2 and 6
 
 ### Applications Made Under the 2013 Act
 
-#### 50. Applications relating to failure to give a written statement[^key-9235594c2d46e5c77e3c6b42d285ddce]
+#### 50. Applications relating to failure to give a written statement[^c-9235594c2d46e5c77e3c6b42d285ddce]
 
 (1) This paragraph applies to an application under section 49(5) of the 2013 Act (right to have a written statement).
 
@@ -586,7 +586,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the site owner.
 
-#### 51. Applications relating to additional implied terms or variation or deletion of implied terms or express terms[^key-8bfad741532343fc8b82084ecaa432ad]
+#### 51. Applications relating to additional implied terms or variation or deletion of implied terms or express terms[^c-8bfad741532343fc8b82084ecaa432ad]
 
 (1) This paragraph applies to an application under section 50(2) of the 2013 Act (terms mentioned in Part 1 of Schedule 2 to the 2013 Act to be implied).
 
@@ -597,7 +597,7 @@ Regulations 2 and 6
 - (a) where the applicant is the site owner, the occupier; and
 - (b) where the applicant is the occupier, the site owner.
 
-**52.**[^key-cef2530c0d2781bf01ff536265eb3220] (1) This paragraph applies to an application under section 50(3)(a) of the 2013 Act (varying or deleting any express term of the agreement).
+**52.**[^c-cef2530c0d2781bf01ff536265eb3220] (1) This paragraph applies to an application under section 50(3)(a) of the 2013 Act (varying or deleting any express term of the agreement).
 
 (2) The specified documents are—
 
@@ -611,7 +611,7 @@ Regulations 2 and 6
 - (a) where the applicant is the site owner, the occupier; and
 - (b) where the applicant is the occupier, the site owner.
 
-#### 53. Applications relating to any question under the 2013 Act[^key-4b4bba144489421fe552c68bf1009cd7]
+#### 53. Applications relating to any question under the 2013 Act[^c-4b4bba144489421fe552c68bf1009cd7]
 
 (1) This paragraph applies to an application under section 54 of the 2013 Act (determination of any question arising under Part 4 of the 2013 Act or agreement to which it applies).
 
@@ -625,7 +625,7 @@ Regulations 2 and 6
 - (a) where the applicant is the site owner, the occupier; and
 - (b) where the applicant is the occupier, the site owner.
 
-#### 54. Applications relating to detrimental effect of mobile homes on the amenity of the site[^key-84f965573c8feb3e406674617aa1c389]
+#### 54. Applications relating to detrimental effect of mobile homes on the amenity of the site[^c-84f965573c8feb3e406674617aa1c389]
 
 (1) This paragraph applies to an application under paragraph 7(1)(a) of Chapter 2, or paragraph 40(1)(a) of Chapter 4, of Part 1 of Schedule 2 to the 2013 Act (determination by tribunal of detrimental effect of mobile home).
 
@@ -637,7 +637,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the occupier.
 
-#### 55. Applications relating to termination by the site owner[^key-8883c37e9be3b8e66e6ee7eb51b56dee]
+#### 55. Applications relating to termination by the site owner[^c-8883c37e9be3b8e66e6ee7eb51b56dee]
 
 (1) This paragraph applies to an application under paragraphs 5, 6 or 7(1)(b) of Chapter 2, or paragraphs 38, 39 or 40(1)(b) of Chapter 4, of Part 1 of Schedule 2 to the 2013 Act (termination by site owner).
 
@@ -651,7 +651,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the occupier.
 
-#### 56. Applications relating to approval of person on sale or gift of mobile homes or approval of assignment of a pitch[^key-c4bd8ce32ed18519cd2113f79c42bfa4]
+#### 56. Applications relating to approval of person on sale or gift of mobile homes or approval of assignment of a pitch[^c-c4bd8ce32ed18519cd2113f79c42bfa4]
 
 (1) This paragraph applies to an application under paragraph 10(3) (sale of a mobile home) or paragraph 13(3) (gift of a mobile home) of Chapter 2 and paragraph 42(8) of Chapter 4 of Part 1 of Schedule 2 to the 2013 Act.
 
@@ -662,7 +662,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the site owner.
 
-#### 57. Applications relating to re-siting of mobile homes[^key-24d5dd90eae5080ed18b303de48f71e8]
+#### 57. Applications relating to re-siting of mobile homes[^c-24d5dd90eae5080ed18b303de48f71e8]
 
 (1) This paragraph applies to an application under paragraph 14(1) of Chapter 2, or paragraph 44(1) of Chapter 4, of Part 1 of Schedule 2 to the 2013 Act (re-siting of mobile home).
 
@@ -674,7 +674,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the occupier.
 
-#### 58. Applications relating to the return of re-sited mobile homes[^key-ceb3eef947fef3cc15da7273d58c6471]
+#### 58. Applications relating to the return of re-sited mobile homes[^c-ceb3eef947fef3cc15da7273d58c6471]
 
 (1) This paragraph applies to an application under paragraph 14(3) of Chapter 2, or paragraph 44(3) of Chapter 4, of Part 1 of Schedule 2 to the 2013 Act (re-siting of mobile home).
 
@@ -686,7 +686,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the site owner.
 
-#### 59. Applications relating to the pitch fee[^key-bdbf7f975325dfb0f57251bc29826cb2]
+#### 59. Applications relating to the pitch fee[^c-bdbf7f975325dfb0f57251bc29826cb2]
 
 (1) This paragraph applies to an application under paragraphs 17(1)(b), 17(6) and 17(11) of Chapter 2, and paragraphs 47(1)(b), 47(5) and 47(9) of Chapter 4, of Part 1 of Schedule 2 to the 2013 Act (the pitch fee).
 
@@ -700,7 +700,7 @@ Regulations 2 and 6
 - (a) where the applicant is the site owner, the occupier; and
 - (b) where the applicant is the occupier, the site owner.
 
-#### 60. Applications relating to improvements to be taken into account in the pitch fee[^key-3d0402dc27cb3cc0fcea657cdd02ef5f]
+#### 60. Applications relating to improvements to be taken into account in the pitch fee[^c-3d0402dc27cb3cc0fcea657cdd02ef5f]
 
 (1) This paragraph applies to an application under paragraph 18(1)(a)(iii) of Chapter 2, or paragraph 48(1)(a)(iii) of Chapter 4, of Part 1 of Schedule 2 to the 2013 Act (the pitch fee).
 
@@ -713,7 +713,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the occupier.
 
-#### 61. Applications relating to a local authority’s decision not to issue a site licence[^key-a5695dbfc2320d97ee16b8a478076774]
+#### 61. Applications relating to a local authority’s decision not to issue a site licence[^c-a5695dbfc2320d97ee16b8a478076774]
 
 (1) This paragraph applies to an application under section 7(4)(b) of the 2013 Act (issue of site licence).
 
@@ -725,7 +725,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the local authority.
 
-#### 62. Applications relating to conditions of a site licence[^key-199c986783218a47e4b4034dce2c6c9e]
+#### 62. Applications relating to conditions of a site licence[^c-199c986783218a47e4b4034dce2c6c9e]
 
 (1) This paragraph applies to an application under sections 12(2) or 14(1) of the 2013 Act (conditions or variation of site licences).
 
@@ -737,7 +737,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the local authority.
 
-#### 63. Applications relating to a compliance notice[^key-9821ea9b292892599cf8c148e495e954]
+#### 63. Applications relating to a compliance notice[^c-9821ea9b292892599cf8c148e495e954]
 
 (1) This paragraph applies to an application under section 17(2) of the 2013 Act (compliance notice).
 
@@ -749,7 +749,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the local authority.
 
-#### 64. Applications relating to emergency action[^key-dcd6e5bf44d07ece5e10c946d2942860]
+#### 64. Applications relating to emergency action[^c-dcd6e5bf44d07ece5e10c946d2942860]
 
 (1) This paragraph applies to an application under section 21(9) of the 2013 Act (emergency action).
 
@@ -760,7 +760,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the local authority.
 
-#### 65. Applications relating to a demand for expenses[^key-789977d1564f62f2e5c46f0d9e672a91]
+#### 65. Applications relating to a demand for expenses[^c-789977d1564f62f2e5c46f0d9e672a91]
 
 (1) This paragraph applies to an application under section 22(7) of the 2013 Act (demand for expenses).
 
@@ -773,7 +773,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the local authority.
 
-#### 66. Applications relating to the revocation of a site licence[^key-004f300ef48be8042dbc25de22f8a1a9]
+#### 66. Applications relating to the revocation of a site licence[^c-004f300ef48be8042dbc25de22f8a1a9]
 
 (1) This paragraph applies to an application under section 28(2) of the 2013 Act (application to revoke a site licence).
 
@@ -785,7 +785,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the site owner.
 
-#### 67. Applications relating to the decision of whether a person is a fit and proper person[^key-118579c44bb6c8fd030e4c5f73793497]
+#### 67. Applications relating to the decision of whether a person is a fit and proper person[^c-118579c44bb6c8fd030e4c5f73793497]
 
 (1) This paragraph applies to an application under section 29(6)(b) of the 2013 Act (appeal against a decision that a person is not a fit and proper person to manage a site).
 
@@ -797,7 +797,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the local authority.
 
-#### 68. Applications relating to interim managers[^key-a243c6611c9f23b0bc6d76e16c51b543]
+#### 68. Applications relating to interim managers[^c-a243c6611c9f23b0bc6d76e16c51b543]
 
 (1) This paragraph applies to an application under section 30(5) of the 2013 Act (appointment of interim manager).
 
@@ -808,7 +808,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the local authority.
 
-#### 69. Applications relating to repayment orders where site is unlicensed[^key-4d328b22aeb10707eaeaad6bd3caf88b]
+#### 69. Applications relating to repayment orders where site is unlicensed[^c-4d328b22aeb10707eaeaad6bd3caf88b]
 
 (1) This paragraph applies to an application under section 33(4) of the 2013 Act (application for a repayment order where site is unlicensed).
 
@@ -820,7 +820,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the site owner or the site manager, as the case may be.
 
-#### 70. Applications relating to the Site Rules Regulations[^key-3a4dfab15fbd8fbfc73eb5f1da4df638]
+#### 70. Applications relating to the Site Rules Regulations[^c-3a4dfab15fbd8fbfc73eb5f1da4df638]
 
 (1) This paragraph applies to an application under regulation 10 of the Site Rules Regulations (right to appeal to tribunal in relation to the owner’s decision).
 
@@ -832,7 +832,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the site owner.
 
-**71.**[^key-0374a7822303bef066667229bb414eb9] (1) This paragraph applies to an application under regulation 17 of the Site Rules Regulations (right to appeal to tribunal in relation to a deposit).
+**71.**[^c-0374a7822303bef066667229bb414eb9] (1) This paragraph applies to an application under regulation 17 of the Site Rules Regulations (right to appeal to tribunal in relation to a deposit).
 
 (2) The specified documents are—
 
@@ -843,7 +843,7 @@ Regulations 2 and 6
 
 ### Applications made under the 2014 Act
 
-#### 72. Applications relating to revocation of landlord registration[^key-1363b6c45a753eb4642f4640a2a19aca]
+#### 72. Applications relating to revocation of landlord registration[^c-1363b6c45a753eb4642f4640a2a19aca]
 
 (1) This paragraph applies to an application under section 17(4) of the 2014 Act (appeal against revocation of registration).
 
@@ -855,7 +855,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the licensing authority.
 
-#### 73. Applications relating to licensing appeals[^key-b8c166f470aa9862209507fe636fd8f2]
+#### 73. Applications relating to licensing appeals[^c-b8c166f470aa9862209507fe636fd8f2]
 
 (1) This paragraph applies to an application under section 27(1) of the 2014 Act.
 
@@ -868,7 +868,7 @@ Regulations 2 and 6
 
 (3) The specified respondent is the landlord.
 
-#### 74. Applications relating to rent stopping orders[^key-81b5c1fe6765078751f9a349f6813a93]
+#### 74. Applications relating to rent stopping orders[^c-81b5c1fe6765078751f9a349f6813a93]
 
 (1) Sub-paragraphs (2) to (4) applies to an application under section 30 of the 2014 Act (rent stopping orders).
 
@@ -890,7 +890,7 @@ Regulations 2 and 6
 
 (6) Where an application referred to in sub-paragraph (5) is made by a LHA evidence of the consent under section 31(3) of the 2014 Act must be provided.
 
-#### 75. Applications relating to rent repayment orders[^key-e3583a1e8810c6a1d1b57c8e95347330]
+#### 75. Applications relating to rent repayment orders[^c-e3583a1e8810c6a1d1b57c8e95347330]
 
 (1) This paragraph applies to an application under section 32 of the 2014 Act (application by the licensing authority, LHA or tenant for rent repayment order).
 
@@ -915,7 +915,7 @@ Regulations 2 and 6
 
 ### Applications made under the 2015 Act
 
-#### 76. Applications relating to final notices[^key-956e0c2bd65ad7bde719ebc26f5d723b]
+#### 76. Applications relating to final notices[^c-956e0c2bd65ad7bde719ebc26f5d723b]
 
 (1) This paragraph applies to an application under paragraph 5 of Schedule 9 to the 2015 Act (appeal against financial penalty).
 
@@ -930,154 +930,154 @@ Regulations 2 and 6
 
 ## Annotations
 
-[^key-0066e78f75fdcb7475de4649cca13a16]: Commencement: Sch. para. 1 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-0066e78f75fdcb7475de4649cca13a16]: Commencement: Sch. para. 1 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
 [^M_I_19c1aa6a-b2a2-46da-a8c8-8a16a47f3413]: Commencement: Sch. para. 2 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-deca9ddf06d3da4769863faba89324c9]: Commencement: Sch. para. 3 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-deca9ddf06d3da4769863faba89324c9]: Commencement: Sch. para. 3 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-411394cbb5581ec1e981a94458b972ff]: Commencement: Sch. para. 4 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-411394cbb5581ec1e981a94458b972ff]: Commencement: Sch. para. 4 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-db3091ffe0d2e1af502c8114ee9d1e7a]: Commencement: Sch. para. 5 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-db3091ffe0d2e1af502c8114ee9d1e7a]: Commencement: Sch. para. 5 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-db9f4ebb1df6e0b90b9e3b1397be92cd]: Commencement: Sch. para. 6 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-db9f4ebb1df6e0b90b9e3b1397be92cd]: Commencement: Sch. para. 6 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-ba562d10baa84bddba6712d07b163c6f]: Commencement: Sch. para. 7 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-ba562d10baa84bddba6712d07b163c6f]: Commencement: Sch. para. 7 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-bb0922571dc4d7acf3046f7e7714078b]: Commencement: Sch. para. 8 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-bb0922571dc4d7acf3046f7e7714078b]: Commencement: Sch. para. 8 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-c6fa3301fbca2e6d5ec7168d788ccf0d]: Commencement: Sch. para. 9 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-c6fa3301fbca2e6d5ec7168d788ccf0d]: Commencement: Sch. para. 9 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-a21de04f53c8dc0395e92400d18a1ba0]: Commencement: Sch. para. 10 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-a21de04f53c8dc0395e92400d18a1ba0]: Commencement: Sch. para. 10 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-1addcbad56b73b39ec6deae4347d4a05]: Commencement: Sch. para. 11 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-1addcbad56b73b39ec6deae4347d4a05]: Commencement: Sch. para. 11 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-637dd877d425d8773f65220641005d22]: Commencement: Sch. para. 12 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-637dd877d425d8773f65220641005d22]: Commencement: Sch. para. 12 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-fdcf901bed807894062a7ce4c1c023f4]: Commencement: Sch. para. 13 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-fdcf901bed807894062a7ce4c1c023f4]: Commencement: Sch. para. 13 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-71a062d8a724fcc65077ca5f579b1120]: Commencement: Sch. para. 14 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-71a062d8a724fcc65077ca5f579b1120]: Commencement: Sch. para. 14 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-7999115f95d178eeb0fcfe2da8650108]: Commencement: Sch. para. 15 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-7999115f95d178eeb0fcfe2da8650108]: Commencement: Sch. para. 15 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-d4907e0b81e6d6add3baabd51b417871]: Commencement: Sch. para. 16 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-d4907e0b81e6d6add3baabd51b417871]: Commencement: Sch. para. 16 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-c16853eab336788eb454522ed047c7db]: Commencement: Sch. para. 17 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-c16853eab336788eb454522ed047c7db]: Commencement: Sch. para. 17 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-2bbf63e9f2cb8dd2b7dd161eec6d8e55]: Commencement: Sch. para. 18 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-2bbf63e9f2cb8dd2b7dd161eec6d8e55]: Commencement: Sch. para. 18 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-be55e6da61fb25e0deab9badc898eb68]: Commencement: Sch. para. 19 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-be55e6da61fb25e0deab9badc898eb68]: Commencement: Sch. para. 19 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-755956272ecc19fa54e04711fec8e783]: Commencement: Sch. para. 20 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-755956272ecc19fa54e04711fec8e783]: Commencement: Sch. para. 20 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-614423f8c5a03c686e6d33e629dd1bf5]: Commencement: Sch. para. 21 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-614423f8c5a03c686e6d33e629dd1bf5]: Commencement: Sch. para. 21 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-4f7858e3288d09b1e3bd8285de21779d]: Commencement: Sch. para. 22 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-4f7858e3288d09b1e3bd8285de21779d]: Commencement: Sch. para. 22 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-b54f95765fcc4b063fa2b235cafb7b3a]: Commencement: Sch. para. 23 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-b54f95765fcc4b063fa2b235cafb7b3a]: Commencement: Sch. para. 23 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-27086231186341a37b6a41fc62861af3]: Commencement: Sch. para. 24 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-27086231186341a37b6a41fc62861af3]: Commencement: Sch. para. 24 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-841a8a7ddc004e353d443438b23c6551]: Commencement: Sch. para. 25 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-841a8a7ddc004e353d443438b23c6551]: Commencement: Sch. para. 25 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-fdd3f3f88e4e16ed0aac0a828d640c2d]: Commencement: Sch. para. 26 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-fdd3f3f88e4e16ed0aac0a828d640c2d]: Commencement: Sch. para. 26 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-c5baf67a85cabefba343b1a4e5216d38]: Commencement: Sch. para. 27 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-c5baf67a85cabefba343b1a4e5216d38]: Commencement: Sch. para. 27 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-d20465065fc4ee39f17e6e01d3d705f1]: Commencement: Sch. para. 28 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-d20465065fc4ee39f17e6e01d3d705f1]: Commencement: Sch. para. 28 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-5adc782a0c8e6e26d780ba8761f37a79]: Commencement: Sch. para. 29 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-5adc782a0c8e6e26d780ba8761f37a79]: Commencement: Sch. para. 29 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-ffaededb4172c022c53d783106116342]: Commencement: Sch. para. 30 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-ffaededb4172c022c53d783106116342]: Commencement: Sch. para. 30 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-fc3fc8cd7d2682836abd9661b54ca562]: Commencement: Sch. para. 31 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-fc3fc8cd7d2682836abd9661b54ca562]: Commencement: Sch. para. 31 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-5e1631d39f87843bbdcd02ee94938993]: Commencement: Sch. para. 32 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-5e1631d39f87843bbdcd02ee94938993]: Commencement: Sch. para. 32 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-640b90ca2c51e3d733b031dac3cbdf01]: Commencement: Sch. para. 33 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-640b90ca2c51e3d733b031dac3cbdf01]: Commencement: Sch. para. 33 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-0e8d97cf8afa85a331a80071c99edab5]: Commencement: Sch. para. 34 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-0e8d97cf8afa85a331a80071c99edab5]: Commencement: Sch. para. 34 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-be44a5186acaf46db784cb74940a2da8]: Commencement: Sch. para. 35 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-be44a5186acaf46db784cb74940a2da8]: Commencement: Sch. para. 35 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-cc1ab6397e684cf63260794853a6d8d9]: Commencement: Sch. para. 36 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-cc1ab6397e684cf63260794853a6d8d9]: Commencement: Sch. para. 36 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-f29c123ee1a9030ebd13a2a1323e3bb5]: Commencement: Sch. para. 37 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-f29c123ee1a9030ebd13a2a1323e3bb5]: Commencement: Sch. para. 37 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-3433f96bbf4f58a927c9e8897055915b]: Commencement: Sch. para. 38 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-3433f96bbf4f58a927c9e8897055915b]: Commencement: Sch. para. 38 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-8960eb1bc252936035c28dd22b9f79e7]: Commencement: Sch. para. 39 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-8960eb1bc252936035c28dd22b9f79e7]: Commencement: Sch. para. 39 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-a345d0997c8c33d410b9050b5ee7637c]: Commencement: Sch. para. 40 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-a345d0997c8c33d410b9050b5ee7637c]: Commencement: Sch. para. 40 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-b51fbe3f82da585ecfccc22fe1052387]: Commencement: Sch. para. 41 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-b51fbe3f82da585ecfccc22fe1052387]: Commencement: Sch. para. 41 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-98bf085eb4424d33b058b736066a4f00]: Commencement: Sch. para. 42 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-98bf085eb4424d33b058b736066a4f00]: Commencement: Sch. para. 42 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-c6db2dbc474a051bbf753d22b6eac5e3]: Commencement: Sch. para. 43 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-c6db2dbc474a051bbf753d22b6eac5e3]: Commencement: Sch. para. 43 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-8a9cd7ffe8839bcf5f8e29ed0df52392]: Commencement: Sch. para. 44 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-8a9cd7ffe8839bcf5f8e29ed0df52392]: Commencement: Sch. para. 44 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-02f216fd2b310627eb3f9be24f2356ba]: Commencement: Sch. para. 45 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-02f216fd2b310627eb3f9be24f2356ba]: Commencement: Sch. para. 45 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-54c8df2ab8435d8f512a779b4bef30ff]: Commencement: Sch. para. 46 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-54c8df2ab8435d8f512a779b4bef30ff]: Commencement: Sch. para. 46 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-aaabfa3d73d386be6dc8e4a1f588dc6a]: Commencement: Sch. para. 47 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-aaabfa3d73d386be6dc8e4a1f588dc6a]: Commencement: Sch. para. 47 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-b659c10899c1e975a1a047fc731b2b2d]: Commencement: Sch. para. 48 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-b659c10899c1e975a1a047fc731b2b2d]: Commencement: Sch. para. 48 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-d79014ca013034d2e80bb37e90b7322c]: Commencement: Sch. para. 49 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-d79014ca013034d2e80bb37e90b7322c]: Commencement: Sch. para. 49 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-9235594c2d46e5c77e3c6b42d285ddce]: Commencement: Sch. para. 50 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-9235594c2d46e5c77e3c6b42d285ddce]: Commencement: Sch. para. 50 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-8bfad741532343fc8b82084ecaa432ad]: Commencement: Sch. para. 51 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-8bfad741532343fc8b82084ecaa432ad]: Commencement: Sch. para. 51 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-cef2530c0d2781bf01ff536265eb3220]: Commencement: Sch. para. 52 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-cef2530c0d2781bf01ff536265eb3220]: Commencement: Sch. para. 52 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-4b4bba144489421fe552c68bf1009cd7]: Commencement: Sch. para. 53 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-4b4bba144489421fe552c68bf1009cd7]: Commencement: Sch. para. 53 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-84f965573c8feb3e406674617aa1c389]: Commencement: Sch. para. 54 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-84f965573c8feb3e406674617aa1c389]: Commencement: Sch. para. 54 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-8883c37e9be3b8e66e6ee7eb51b56dee]: Commencement: Sch. para. 55 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-8883c37e9be3b8e66e6ee7eb51b56dee]: Commencement: Sch. para. 55 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-c4bd8ce32ed18519cd2113f79c42bfa4]: Commencement: Sch. para. 56 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-c4bd8ce32ed18519cd2113f79c42bfa4]: Commencement: Sch. para. 56 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-24d5dd90eae5080ed18b303de48f71e8]: Commencement: Sch. para. 57 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-24d5dd90eae5080ed18b303de48f71e8]: Commencement: Sch. para. 57 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-ceb3eef947fef3cc15da7273d58c6471]: Commencement: Sch. para. 58 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-ceb3eef947fef3cc15da7273d58c6471]: Commencement: Sch. para. 58 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-bdbf7f975325dfb0f57251bc29826cb2]: Commencement: Sch. para. 59 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-bdbf7f975325dfb0f57251bc29826cb2]: Commencement: Sch. para. 59 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-3d0402dc27cb3cc0fcea657cdd02ef5f]: Commencement: Sch. para. 60 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-3d0402dc27cb3cc0fcea657cdd02ef5f]: Commencement: Sch. para. 60 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-a5695dbfc2320d97ee16b8a478076774]: Commencement: Sch. para. 61 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-a5695dbfc2320d97ee16b8a478076774]: Commencement: Sch. para. 61 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-199c986783218a47e4b4034dce2c6c9e]: Commencement: Sch. para. 62 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-199c986783218a47e4b4034dce2c6c9e]: Commencement: Sch. para. 62 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-9821ea9b292892599cf8c148e495e954]: Commencement: Sch. para. 63 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-9821ea9b292892599cf8c148e495e954]: Commencement: Sch. para. 63 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-dcd6e5bf44d07ece5e10c946d2942860]: Commencement: Sch. para. 64 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-dcd6e5bf44d07ece5e10c946d2942860]: Commencement: Sch. para. 64 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-789977d1564f62f2e5c46f0d9e672a91]: Commencement: Sch. para. 65 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-789977d1564f62f2e5c46f0d9e672a91]: Commencement: Sch. para. 65 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-004f300ef48be8042dbc25de22f8a1a9]: Commencement: Sch. para. 66 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-004f300ef48be8042dbc25de22f8a1a9]: Commencement: Sch. para. 66 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-118579c44bb6c8fd030e4c5f73793497]: Commencement: Sch. para. 67 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-118579c44bb6c8fd030e4c5f73793497]: Commencement: Sch. para. 67 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-a243c6611c9f23b0bc6d76e16c51b543]: Commencement: Sch. para. 68 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-a243c6611c9f23b0bc6d76e16c51b543]: Commencement: Sch. para. 68 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-4d328b22aeb10707eaeaad6bd3caf88b]: Commencement: Sch. para. 69 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-4d328b22aeb10707eaeaad6bd3caf88b]: Commencement: Sch. para. 69 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-3a4dfab15fbd8fbfc73eb5f1da4df638]: Commencement: Sch. para. 70 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-3a4dfab15fbd8fbfc73eb5f1da4df638]: Commencement: Sch. para. 70 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-0374a7822303bef066667229bb414eb9]: Commencement: Sch. para. 71 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-0374a7822303bef066667229bb414eb9]: Commencement: Sch. para. 71 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-1363b6c45a753eb4642f4640a2a19aca]: Commencement: Sch. para. 72 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-1363b6c45a753eb4642f4640a2a19aca]: Commencement: Sch. para. 72 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-b8c166f470aa9862209507fe636fd8f2]: Commencement: Sch. para. 73 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-b8c166f470aa9862209507fe636fd8f2]: Commencement: Sch. para. 73 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-81b5c1fe6765078751f9a349f6813a93]: Commencement: Sch. para. 74 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-81b5c1fe6765078751f9a349f6813a93]: Commencement: Sch. para. 74 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-e3583a1e8810c6a1d1b57c8e95347330]: Commencement: Sch. para. 75 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-e3583a1e8810c6a1d1b57c8e95347330]: Commencement: Sch. para. 75 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
-[^key-956e0c2bd65ad7bde719ebc26f5d723b]: Commencement: Sch. para. 76 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-956e0c2bd65ad7bde719ebc26f5d723b]: Commencement: Sch. para. 76 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

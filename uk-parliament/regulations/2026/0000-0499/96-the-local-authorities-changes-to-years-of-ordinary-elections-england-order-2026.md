@@ -32,7 +32,7 @@ summary: ''
 
 LOCAL GOVERNMENT, ENGLAND
 
-The Local Authorities (Changes to Years of Ordinary Elections) (England) Order 2026 (revoked)[^key-521580a8d10770a21ae9328df0e186f1]
+The Local Authorities (Changes to Years of Ordinary Elections) (England) Order 2026 (revoked)[^c-521580a8d10770a21ae9328df0e186f1]
 
 Made
 
@@ -46,35 +46,35 @@ Coming into force
 
 27th February 2026
 
-[^key-521580a8d10770a21ae9328df0e186f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-521580a8d10770a21ae9328df0e186f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-521580a8d10770a21ae9328df0e186f1]
+## 1. Citation, commencement, extent and interpretation[^c-521580a8d10770a21ae9328df0e186f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Changes to the years of ordinary elections for specified local authorities[^key-521580a8d10770a21ae9328df0e186f1]
+## 2. Changes to the years of ordinary elections for specified local authorities[^c-521580a8d10770a21ae9328df0e186f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Retirement of councillors of specified local authorities[^key-521580a8d10770a21ae9328df0e186f1]
+## 3. Retirement of councillors of specified local authorities[^c-521580a8d10770a21ae9328df0e186f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consequential modifications: existing casual vacancies[^key-521580a8d10770a21ae9328df0e186f1]
+## 4. Consequential modifications: existing casual vacancies[^c-521580a8d10770a21ae9328df0e186f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consequential amendments[^key-521580a8d10770a21ae9328df0e186f1]
+## 5. Consequential amendments[^c-521580a8d10770a21ae9328df0e186f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-521580a8d10770a21ae9328df0e186f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-521580a8d10770a21ae9328df0e186f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Schedule — Specified local authorities[^key-521580a8d10770a21ae9328df0e186f1]
+## Schedule — Specified local authorities[^c-521580a8d10770a21ae9328df0e186f1]
 
 Article 2
 
@@ -82,8 +82,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-521580a8d10770a21ae9328df0e186f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-521580a8d10770a21ae9328df0e186f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-521580a8d10770a21ae9328df0e186f1]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2026/96) revoked (18.2.2026) by [The Local Authorities (Changes to Years of Ordinary Elections) (England) (Revocation) Order 2026 (S.I. 2026/142)](https://www.legislation.gov.uk/uksi/2026/142), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/142/article/1/1), [2](https://www.legislation.gov.uk/uksi/2026/142/article/2)
+[^c-521580a8d10770a21ae9328df0e186f1]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2026/96) revoked (18.2.2026) by [The Local Authorities (Changes to Years of Ordinary Elections) (England) (Revocation) Order 2026 (S.I. 2026/142)](https://www.legislation.gov.uk/uksi/2026/142), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/142/article/1/1), [2](https://www.legislation.gov.uk/uksi/2026/142/article/2)

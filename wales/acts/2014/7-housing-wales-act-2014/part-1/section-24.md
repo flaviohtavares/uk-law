@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Amendment of licence[^key-d8948a57b42ff6b613f3684e6b43203f]
+## 24. Amendment of licence[^c-d8948a57b42ff6b613f3684e6b43203f]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8948a57b42ff6b613f3684e6b43203f]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2014/7/section/24) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(n)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/n)
+[^c-d8948a57b42ff6b613f3684e6b43203f]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2014/7/section/24) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(n)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/n)

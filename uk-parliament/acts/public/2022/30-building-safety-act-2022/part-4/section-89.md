@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Provision of information etc to the regulator, residents and other persons[^key-6b664847977a1d22fce80727aabd6669][^key-22f594175d0ff95a1d5ecf9a2273ea53]
+## 89. Provision of information etc to the regulator, residents and other persons[^c-6b664847977a1d22fce80727aabd6669][^c-22f594175d0ff95a1d5ecf9a2273ea53]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6b664847977a1d22fce80727aabd6669]: Commencement: S. 89 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-6b664847977a1d22fce80727aabd6669]: Commencement: S. 89 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-22f594175d0ff95a1d5ecf9a2273ea53]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2022/30/section/89) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z5)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z5)
+[^c-22f594175d0ff95a1d5ecf9a2273ea53]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2022/30/section/89) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z5)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z5)

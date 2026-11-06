@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Duty of CMA to monitor undertakings and orders[^key-afec7e34976783182bbbf593cd3071fc][^key-426a81beff50f70ddc7e2659b4465ec2]
+## 139. Duty of CMA to monitor undertakings and orders[^c-afec7e34976783182bbbf593cd3071fc][^c-426a81beff50f70ddc7e2659b4465ec2]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,6 +112,6 @@ summary: ''
 
 ## Annotations
 
-[^key-afec7e34976783182bbbf593cd3071fc]: Commencement: S. 139 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-afec7e34976783182bbbf593cd3071fc]: Commencement: S. 139 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-426a81beff50f70ddc7e2659b4465ec2]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2024/13/section/139) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 11](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/11), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-426a81beff50f70ddc7e2659b4465ec2]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2024/13/section/139) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 11](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/11), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Strategic police priorities[^key-eb1b0f829a4494795a09ee93072bc7c9]
+## 33. Strategic police priorities[^c-eb1b0f829a4494795a09ee93072bc7c9]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb1b0f829a4494795a09ee93072bc7c9]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2012/8/section/33) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-eb1b0f829a4494795a09ee93072bc7c9]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2012/8/section/33) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

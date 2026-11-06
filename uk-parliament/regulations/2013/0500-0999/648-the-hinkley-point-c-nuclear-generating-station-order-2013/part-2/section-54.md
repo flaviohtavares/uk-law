@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Development consent etc. for temporary jetty works[^key-bc69916b8c2a3a6788c7a879c43ae242]
+## 54. Development consent etc. for temporary jetty works[^c-bc69916b8c2a3a6788c7a879c43ae242]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc69916b8c2a3a6788c7a879c43ae242]: Commencement: Art. 54 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-bc69916b8c2a3a6788c7a879c43ae242]: Commencement: Art. 54 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

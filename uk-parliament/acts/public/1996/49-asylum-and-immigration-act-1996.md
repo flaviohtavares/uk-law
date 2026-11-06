@@ -33,7 +33,7 @@ An Act to amend and supplement the Immigration Act 1971 and the Asylum and Immig
 
 \[24th July 1996\]
 
-[^c9492021]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-602993cb95c25dc3237bc4f4b9d9d32d][^key-f19aa9a1bbd7ce72e49f1dc5430f7335][^key-9321e127da23c3b0a632f931ab511521]
+[^c9492021]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-602993cb95c25dc3237bc4f4b9d9d32d][^c-f19aa9a1bbd7ce72e49f1dc5430f7335][^c-9321e127da23c3b0a632f931ab511521]
 
 ## Asylum claims
 
@@ -45,7 +45,7 @@ An Act to amend and supplement the Immigration Act 1971 and the Asylum and Immig
 
 ## Immigration offences
 
-### 4. Obtaining leave by deception.[^c9492111][^c9492121][^key-20d53097323e4addffb9ff8e9447a992]
+### 4. Obtaining leave by deception.[^c9492111][^c9492121][^c-20d53097323e4addffb9ff8e9447a992]
 
 In subsection (1) of section 24 of the 1971 Act (illegal entry and similar offences), after paragraph (a) there shall be inserted the following paragraph—
 
@@ -90,11 +90,11 @@ for the words “level 4” there shall be substituted the words “ level 5 ”
 
 ## Persons subject to immigration control
 
-### 8. Restrictions on employment.[^key-dd3a4268eae4be5dfb315e8078ee0cd7]
+### 8. Restrictions on employment.[^c-dd3a4268eae4be5dfb315e8078ee0cd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8A. Code of practice.[^key-c084af45ac129c7eba3ba0878f88ae97]
+### 8A. Code of practice.[^c-c084af45ac129c7eba3ba0878f88ae97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -128,7 +128,7 @@ for the words “level 4” there shall be substituted the words “ level 5 ”
 
 (4) An order under subsection (3) above may make such transitional and supplemental provision as the Secretary of State thinks necessary or expedient.
 
-(5)[^key-107ffbaed54cb39ee789779b4b82fc6e] Her Majesty may by Order in Council direct that any of the provisions of this Act shall extend, with such modifications as appear to Her Majesty to be appropriate, to any of the Channel Islands or the Isle of Man.
+(5)[^c-107ffbaed54cb39ee789779b4b82fc6e] Her Majesty may by Order in Council direct that any of the provisions of this Act shall extend, with such modifications as appear to Her Majesty to be appropriate, to any of the Channel Islands or the Isle of Man.
 
 (6) This Act extends to Northern Ireland.
 
@@ -266,9 +266,9 @@ Section 12(1).
 >   - (ii) a condition requiring him to maintain and accommodate himself, and any dependants of his, without recourse to public funds; and
 >   - (iii) a condition requiring him to register with the police.
 
-(2)[^c9492921][^key-bfa185b37bc119e0edaaea8472ff197e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c9492921][^c-bfa185b37bc119e0edaaea8472ff197e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^c9492921][^key-bfa185b37bc119e0edaaea8472ff197e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c9492921][^c-bfa185b37bc119e0edaaea8472ff197e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Persons belonging to another’s family
 
@@ -295,7 +295,7 @@ Section 12(1).
 
 .
 
-(2)[^c9493031][^key-57254dcb645d9d9d81e8652255f67ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c9493031][^c-57254dcb645d9d9d81e8652255f67ea9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Information and documents
 
@@ -463,11 +463,11 @@ Section 12(3).
 
     Act modified (1.9.2001) by [2001 c. 17](https://www.legislation.gov.uk/ukpga/2001/17), [s. 32(7)](https://www.legislation.gov.uk/ukpga/2001/17/section/32/7) (with [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2001/17/section/27/3), [39](https://www.legislation.gov.uk/ukpga/2001/17/section/39), [78](https://www.legislation.gov.uk/ukpga/2001/17/section/78)); [S.I. 2001/2161](https://www.legislation.gov.uk/uksi/2001/2161), [art. 2](https://www.legislation.gov.uk/uksi/2001/2161/article/2)
 
-[^key-602993cb95c25dc3237bc4f4b9d9d32d]: Modification: Act extended in part (Isle of Man) (with modifications) (13.3.2008 for specified purposes, 1.5.2008 in so far as not already in force) by [The Immigration (Isle of Man) Order 2008 (S.I. 2008/680)](https://www.legislation.gov.uk/uksi/2008/680), [art. 12](https://www.legislation.gov.uk/uksi/2008/680/article/12), [Sch. 5](https://www.legislation.gov.uk/uksi/2008/680/schedule/5) (with [art. 5](https://www.legislation.gov.uk/uksi/2008/680/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/680/schedule/2)) (as amended (29.6.2011) by [The Immigration (Isle of Man) (Amendment) Order 2011 (S.I. 2011/1408)](https://www.legislation.gov.uk/uksi/2011/1408), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2011/1408/schedule/paragraph/3))
+[^c-602993cb95c25dc3237bc4f4b9d9d32d]: Modification: Act extended in part (Isle of Man) (with modifications) (13.3.2008 for specified purposes, 1.5.2008 in so far as not already in force) by [The Immigration (Isle of Man) Order 2008 (S.I. 2008/680)](https://www.legislation.gov.uk/uksi/2008/680), [art. 12](https://www.legislation.gov.uk/uksi/2008/680/article/12), [Sch. 5](https://www.legislation.gov.uk/uksi/2008/680/schedule/5) (with [art. 5](https://www.legislation.gov.uk/uksi/2008/680/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/680/schedule/2)) (as amended (29.6.2011) by [The Immigration (Isle of Man) (Amendment) Order 2011 (S.I. 2011/1408)](https://www.legislation.gov.uk/uksi/2011/1408), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2011/1408/schedule/paragraph/3))
 
-[^key-f19aa9a1bbd7ce72e49f1dc5430f7335]: Modification: Act: power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82](https://www.legislation.gov.uk/ukpga/2022/36/section/82), [87(1)(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4/i); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
+[^c-f19aa9a1bbd7ce72e49f1dc5430f7335]: Modification: Act: power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82](https://www.legislation.gov.uk/ukpga/2022/36/section/82), [87(1)(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4/i); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
 
-[^key-9321e127da23c3b0a632f931ab511521]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/49) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/a), [5](https://www.legislation.gov.uk/ukpga/2024/8/section/5), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
+[^c-9321e127da23c3b0a632f931ab511521]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/49) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/a), [5](https://www.legislation.gov.uk/ukpga/2024/8/section/5), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
 
 [^c9492051]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1996/49/section/1) repealed (2.10.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/3), [Sch 16](https://www.legislation.gov.uk/ukpga/1999/33/schedule/16); [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (with transitional provisions in [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4))
 
@@ -481,7 +481,7 @@ Section 12(3).
 
     [S. 4](https://www.legislation.gov.uk/ukpga/1996/49/section/4) extended (Jersey) (with modifications) (22.6.1998) by [S.I. 1998/1070](https://www.legislation.gov.uk/uksi/1998/1070), [art. 3](https://www.legislation.gov.uk/uksi/1998/1070/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1998/1070/schedule)
 
-[^key-20d53097323e4addffb9ff8e9447a992]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1996/49/section/4) extended (with modifications) (5.6.2003) by [The Immigration and Asylum Act 1999 (Jersey) Order 2003 (S.I. 2003/1252)](https://www.legislation.gov.uk/uksi/2003/1252), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1252/article/1/1), [2](https://www.legislation.gov.uk/uksi/2003/1252/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1252/schedule)
+[^c-20d53097323e4addffb9ff8e9447a992]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/1996/49/section/4) extended (with modifications) (5.6.2003) by [The Immigration and Asylum Act 1999 (Jersey) Order 2003 (S.I. 2003/1252)](https://www.legislation.gov.uk/uksi/2003/1252), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1252/article/1/1), [2](https://www.legislation.gov.uk/uksi/2003/1252/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1252/schedule)
 
 [^c9492161]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/1996/49/section/5) wholly in force at 1.10.1996; [s. 5](https://www.legislation.gov.uk/ukpga/1996/49/section/5) not in force at Royal Assent see [s. 13(3)](https://www.legislation.gov.uk/ukpga/1996/49/section/13/3); [s. 5](https://www.legislation.gov.uk/ukpga/1996/49/section/5) in force at 1.10.1996 by [S.I. 1996/2053](https://www.legislation.gov.uk/uksi/1996/2053), [art.2](https://www.legislation.gov.uk/uksi/1996/2053/article/2), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/1996/2053/schedule/part/III)
 
@@ -495,9 +495,9 @@ Section 12(3).
 
 [^c9492251]: Textual amendment: S. 7 repealed (14.2.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(1)(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1/3), [Sch. 14 paras. 108](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/108), [109](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/109), [Sch. 16](https://www.legislation.gov.uk/ukpga/1999/33/schedule/16); [S.I. 2000/168](https://www.legislation.gov.uk/uksi/2000/168), [art. 2](https://www.legislation.gov.uk/uksi/2000/168/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/168/schedule) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2000/168/article/3)); (which amending provision is extended (with modifications) to Jersey (5.6.2003) by S.I. 2003/1252, art. 2, Sch.)
 
-[^key-dd3a4268eae4be5dfb315e8078ee0cd7]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1996/49/section/8) repealed (29.2.2008) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 26](https://www.legislation.gov.uk/ukpga/2006/13/section/26), [62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/13/schedule/3); [S.I. 2008/310](https://www.legislation.gov.uk/uksi/2008/310), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/310/article/2/1/d)[(e)](https://www.legislation.gov.uk/uksi/2008/310/article/2/1/e) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2008/310/article/5/1)[(2)](https://www.legislation.gov.uk/uksi/2008/310/article/5/2))
+[^c-dd3a4268eae4be5dfb315e8078ee0cd7]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1996/49/section/8) repealed (29.2.2008) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 26](https://www.legislation.gov.uk/ukpga/2006/13/section/26), [62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/13/schedule/3); [S.I. 2008/310](https://www.legislation.gov.uk/uksi/2008/310), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/310/article/2/1/d)[(e)](https://www.legislation.gov.uk/uksi/2008/310/article/2/1/e) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2008/310/article/5/1)[(2)](https://www.legislation.gov.uk/uksi/2008/310/article/5/2))
 
-[^key-c084af45ac129c7eba3ba0878f88ae97]: Textual amendment: S. 8A repealed (29.2.2008) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 26](https://www.legislation.gov.uk/ukpga/2006/13/section/26), [62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/13/schedule/3); [S.I. 2008/310](https://www.legislation.gov.uk/uksi/2008/310), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/310/article/2/1/d)[(e)](https://www.legislation.gov.uk/uksi/2008/310/article/2/1/e) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2008/310/article/5/1)[(2)](https://www.legislation.gov.uk/uksi/2008/310/article/5/2))
+[^c-c084af45ac129c7eba3ba0878f88ae97]: Textual amendment: S. 8A repealed (29.2.2008) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 26](https://www.legislation.gov.uk/ukpga/2006/13/section/26), [62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/13/schedule/3); [S.I. 2008/310](https://www.legislation.gov.uk/uksi/2008/310), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/310/article/2/1/d)[(e)](https://www.legislation.gov.uk/uksi/2008/310/article/2/1/e) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2008/310/article/5/1)[(2)](https://www.legislation.gov.uk/uksi/2008/310/article/5/2))
 
 [^c9492551]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1996/49/section/9) repealed (1.3.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(1)(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1/3), [Sch. 14 paras. 108](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/108), [110](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/110), [Sch. 16](https://www.legislation.gov.uk/ukpga/1999/33/schedule/16); [S.I. 2000/464](https://www.legislation.gov.uk/uksi/2000/464), [art. 2](https://www.legislation.gov.uk/uksi/2000/464/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/464/schedule)
 
@@ -533,7 +533,7 @@ Section 12(3).
 
     [S. 13(3)](https://www.legislation.gov.uk/ukpga/1996/49/section/13/3) power partly exercised (25.11.1996): 27.1.1997 appointed for s. 8 by [S.I. 1996/2970](https://www.legislation.gov.uk/uksi/1996/2970)
 
-[^key-107ffbaed54cb39ee789779b4b82fc6e]: Modification: [S. 13(5)](https://www.legislation.gov.uk/ukpga/1996/49/section/13/5) power extended (28.4.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss.](https://www.legislation.gov.uk/ukpga/2022/36/section), [86(6)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/6/c), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c) 86(5)
+[^c-107ffbaed54cb39ee789779b4b82fc6e]: Modification: [S. 13(5)](https://www.legislation.gov.uk/ukpga/1996/49/section/13/5) power extended (28.4.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss.](https://www.legislation.gov.uk/ukpga/2022/36/section), [86(6)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/6/c), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c) 86(5)
 
 [^c9492811]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1996/49/schedule/1) omitted (3.4.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(1)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1), [Sch. 14 paras. 108](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/108), [113](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/113); [S.I. 2000/464](https://www.legislation.gov.uk/uksi/2000/464), [art. 2](https://www.legislation.gov.uk/uksi/2000/464/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/464/schedule)
 
@@ -551,7 +551,7 @@ Section 12(3).
 
 [^c9492921]: Textual amendment: Sch. 2 para. 1(2)(3) repealed (2.10.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(1)(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1/3), [Sch. 14 paras. 108](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/108), [114](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/114), [Sch. 16](https://www.legislation.gov.uk/ukpga/1999/33/schedule/16); [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (with transitional provisions in [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4)); (which amending provision is extended (with modifications) to Jersey (5.6.2003) by S.I. 2003/1252, art. 2, Sch.)
 
-[^key-bfa185b37bc119e0edaaea8472ff197e]: Modification: Sch. 2 para. 1(1)(3) extended (Jersey) (with modifications) (22.7.1998) by [S.I. 1998/1070](https://www.legislation.gov.uk/uksi/1998/1070), [art. 3](https://www.legislation.gov.uk/uksi/1998/1070/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1998/1070/schedule)
+[^c-bfa185b37bc119e0edaaea8472ff197e]: Modification: Sch. 2 para. 1(1)(3) extended (Jersey) (with modifications) (22.7.1998) by [S.I. 1998/1070](https://www.legislation.gov.uk/uksi/1998/1070), [art. 3](https://www.legislation.gov.uk/uksi/1998/1070/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1998/1070/schedule)
 
 [^c9492941]: Commencement: Sch. 2 para. 2 wholly in force at 1.10.1996; Sch. 2 para. 2 not in force at Royal Assent see s. 13(3); Sch. 2 para. 2 in force at 1.10.1996 by [S.I. 1996/2053](https://www.legislation.gov.uk/uksi/1996/2053), [art. 2](https://www.legislation.gov.uk/uksi/1996/2053/article/2), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/1996/2053/schedule/part/III)
 
@@ -567,7 +567,7 @@ Section 12(3).
 
 [^c9493031]: Textual amendment: Sch. 2 para. 4(2) repealed (2.10.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(1)(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1/3), [Sch. 14 paras. 108](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/108), [114](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/114), [Sch. 16](https://www.legislation.gov.uk/ukpga/1999/33/schedule/16); [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (with transitional provisions in [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4)); (which amending provision is extended (with modifications) to Jersey (5.6.2003) by S.I. 2003/1252, art. 2, Sch.)
 
-[^key-57254dcb645d9d9d81e8652255f67ea9]: Modification: Sch. 2 para. 4(1)(2) extended (Jersey) (with modifications) (22.7.1998) by [S.I. 1998/1070](https://www.legislation.gov.uk/uksi/1998/1070), [art. 3](https://www.legislation.gov.uk/uksi/1998/1070/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1998/1070/schedule)
+[^c-57254dcb645d9d9d81e8652255f67ea9]: Modification: Sch. 2 para. 4(1)(2) extended (Jersey) (with modifications) (22.7.1998) by [S.I. 1998/1070](https://www.legislation.gov.uk/uksi/1998/1070), [art. 3](https://www.legislation.gov.uk/uksi/1998/1070/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1998/1070/schedule)
 
 [^c9493041]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1996/49/schedule/2/paragraph/5) wholly in force at 1.10.1996; [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1996/49/schedule/2/paragraph/5) not in force at Royal Assent see [s. 13(3)](https://www.legislation.gov.uk/ukpga/1996/49/section/13/3); [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1996/49/schedule/2/paragraph/5) in force at 1.10.1996 by [S.I. 1996/2053](https://www.legislation.gov.uk/uksi/1996/2053), [art. 2](https://www.legislation.gov.uk/uksi/1996/2053/article/2), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/1996/2053/schedule/part/III)
 

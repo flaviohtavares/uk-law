@@ -63,7 +63,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred upon Her by sec
 - [Section 2 — Interpretation](part-i/section-2.md)
 - [Section 2A — Application to nursing associates](part-i/section-2a.md)
 
-### PART II — The Practice Committees[^key-03517caaf8b363bd8fe8000092b8a656]
+### PART II — The Practice Committees[^c-03517caaf8b363bd8fe8000092b8a656]
 
 *Extent: E+W+S+N.I.*
 
@@ -103,7 +103,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred upon Her by sec
 - [Section 19 — Post-registration training](part-iv/section-19.md)
 - [Section 20 — Wales](part-iv/section-20.md)
 
-### PART V — FITNESS TO PRACTISE[^key-ada526d4ef8572ab5de377a779fcc190][^key-b78658d3e6378381c63773d6b33ea29e]
+### PART V — FITNESS TO PRACTISE[^c-ada526d4ef8572ab5de377a779fcc190][^c-b78658d3e6378381c63773d6b33ea29e]
 
 *Extent: E+W+S+N.I.*
 
@@ -147,7 +147,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred upon Her by sec
 - [Section 39C — Visiting general systems nursing associates from relevant European States](part-vii/section-39c.md)
 - [Section 40 — The Directive: designation of competent authority etc.](part-vii/section-40.md)
 
-### PART VIII — MIDWIFERY[^key-6ae5f9b8bdfa1bcd47c3e5b8a1f69fb1]
+### PART VIII — MIDWIFERY[^c-6ae5f9b8bdfa1bcd47c3e5b8a1f69fb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -225,10 +225,10 @@ Article 54 and Schedule 2 relate to transitional provisions including the conduc
 
 [^f00002]: Footnote: Section 62(4) applies section 126 of the National Health Service Act 1977, relevant amendments to which are made by the Health Act 1999.
 
-[^key-03517caaf8b363bd8fe8000092b8a656]: Textual amendment: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2002/253/part/II) heading substituted (28.7.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/321/article/1/4), [Sch. 1 para. 19(c)](https://www.legislation.gov.uk/uksi/2017/321/schedule/1/paragraph/19/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+[^c-03517caaf8b363bd8fe8000092b8a656]: Textual amendment: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2002/253/part/II) heading substituted (28.7.2017) by [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(4)](https://www.legislation.gov.uk/uksi/2017/321/article/1/4), [Sch. 1 para. 19(c)](https://www.legislation.gov.uk/uksi/2017/321/schedule/1/paragraph/19/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
 
-[^key-ada526d4ef8572ab5de377a779fcc190]: Modification: [Pt. V](https://www.legislation.gov.uk/uksi/2002/253/part/V) applied (with modifications) (1.8.2004) by [The Nursing and Midwifery Order 2001 (Transitional Provisions) Order of Council 2004 (S.I. 2004/1762)](https://www.legislation.gov.uk/uksi/2004/1762), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/1762/article/1/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2004/1762/article/7/4/b)
+[^c-ada526d4ef8572ab5de377a779fcc190]: Modification: [Pt. V](https://www.legislation.gov.uk/uksi/2002/253/part/V) applied (with modifications) (1.8.2004) by [The Nursing and Midwifery Order 2001 (Transitional Provisions) Order of Council 2004 (S.I. 2004/1762)](https://www.legislation.gov.uk/uksi/2004/1762), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/1762/article/1/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2004/1762/article/7/4/b)
 
-[^key-b78658d3e6378381c63773d6b33ea29e]: Modification: [Pt. V](https://www.legislation.gov.uk/uksi/2002/253/part/V) applied (with modifications) (1.8.2004) by [The Nursing and Midwifery Order 2001 (Transitional Provisions) Order of Council 2004 (S.I. 2004/1762)](https://www.legislation.gov.uk/uksi/2004/1762), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/1762/article/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2004/1762/article/6/b)
+[^c-b78658d3e6378381c63773d6b33ea29e]: Modification: [Pt. V](https://www.legislation.gov.uk/uksi/2002/253/part/V) applied (with modifications) (1.8.2004) by [The Nursing and Midwifery Order 2001 (Transitional Provisions) Order of Council 2004 (S.I. 2004/1762)](https://www.legislation.gov.uk/uksi/2004/1762), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/1762/article/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2004/1762/article/6/b)
 
-[^key-6ae5f9b8bdfa1bcd47c3e5b8a1f69fb1]: Textual amendment: Pt. 8 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(c)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/c/d), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2017/321/schedule/1/paragraph/18) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))
+[^c-6ae5f9b8bdfa1bcd47c3e5b8a1f69fb1]: Textual amendment: Pt. 8 omitted (31.3.2017) by virtue of [The Nursing and Midwifery (Amendment) Order 2017 (S.I. 2017/321)](https://www.legislation.gov.uk/uksi/2017/321), [art. 1(2)(c)(d)](https://www.legislation.gov.uk/uksi/2017/321/article/1/2/c/d), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2017/321/schedule/1/paragraph/18) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/321/article/3))

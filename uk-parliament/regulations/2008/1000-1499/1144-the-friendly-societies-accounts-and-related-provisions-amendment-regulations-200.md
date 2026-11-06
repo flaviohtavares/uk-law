@@ -32,7 +32,7 @@ summary: ''
 
 Friendly Societies
 
-The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (revoked)[^key-4637ac15e20ea9c9ffd242134a924359]
+The Friendly Societies (Accounts and Related Provisions) (Amendment) Regulations 2008 (revoked)[^c-4637ac15e20ea9c9ffd242134a924359]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 29th June 2008
 
-[^key-4637ac15e20ea9c9ffd242134a924359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4637ac15e20ea9c9ffd242134a924359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-4637ac15e20ea9c9ffd242134a924359]
+## 1. Citation, commencement and application[^c-4637ac15e20ea9c9ffd242134a924359]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Friendly Societies (Accounts and Related Provisions) Regulations 1994[^key-4637ac15e20ea9c9ffd242134a924359]
+## 2. Amendments to the Friendly Societies (Accounts and Related Provisions) Regulations 1994[^c-4637ac15e20ea9c9ffd242134a924359]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4637ac15e20ea9c9ffd242134a924359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4637ac15e20ea9c9ffd242134a924359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Consequential amendments to the Friendly Societies (Accounts and Related Provisions) Regulations 1994[^key-4637ac15e20ea9c9ffd242134a924359]
+## SCHEDULE — Consequential amendments to the Friendly Societies (Accounts and Related Provisions) Regulations 1994[^c-4637ac15e20ea9c9ffd242134a924359]
 
 Regulation 2(2)
 
-**1.**[^key-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4637ac15e20ea9c9ffd242134a924359] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4637ac15e20ea9c9ffd242134a924359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4637ac15e20ea9c9ffd242134a924359]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4637ac15e20ea9c9ffd242134a924359]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1144) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-4637ac15e20ea9c9ffd242134a924359]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1144) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

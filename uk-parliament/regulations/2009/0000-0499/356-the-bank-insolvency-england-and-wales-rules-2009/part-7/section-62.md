@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Bank liquidator to allow inspection of proofs[^key-2fd8957b681b3ab10c118696953e290a]
+## 62. Bank liquidator to allow inspection of proofs[^c-2fd8957b681b3ab10c118696953e290a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.79 of the 1986 Rules.
 
 ## Annotations
 
-[^key-2fd8957b681b3ab10c118696953e290a]: Commencement: Rule 62 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-2fd8957b681b3ab10c118696953e290a]: Commencement: Rule 62 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

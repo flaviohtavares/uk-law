@@ -48,7 +48,7 @@ the depositor shall be entitled to receive compensation under this section from 
 
 (6) Section 178 of the [^c15673551]Finance Act 1989 (interest rates) shall apply to subsection (5) above for determining the rate of the interest treated, by virtue of that subsection, as included in any compensation under this section; and any regulations under that section which are in force at the passing of this Act shall be deemed, subject to the powers of the Treasury under that section, to have effect in relation to this section as they have effect in relation to the enactments specified in subsection (2)(f) of that section (interest on overdue tax).
 
-(7) The part of any compensation under this section that represents interest under subsection (5) above shall not be treated as included in the income of the depositor for the purposes of income tax; but the remainder shall be chargeable to income tax under Chapter 2 of Part 4 of the Income Tax (Trading and Other Income) Act 2005 (interest)[^key-a3d7519a63e2639fffa26a7c7f9f2fcb].
+(7) The part of any compensation under this section that represents interest under subsection (5) above shall not be treated as included in the income of the depositor for the purposes of income tax; but the remainder shall be chargeable to income tax under Chapter 2 of Part 4 of the Income Tax (Trading and Other Income) Act 2005 (interest)[^c-a3d7519a63e2639fffa26a7c7f9f2fcb].
 
 (8) No compensation shall be paid under this section unless a claim for it has been made to the Board.
 
@@ -70,6 +70,6 @@ the depositor shall be entitled to receive compensation under this section from 
 
 [^c15673551]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).
 
-[^key-a3d7519a63e2639fffa26a7c7f9f2fcb]: Textual amendment: Words in [s. 157(7)](https://www.legislation.gov.uk/ukpga/1995/4/section/157/7) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 482](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/482) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-a3d7519a63e2639fffa26a7c7f9f2fcb]: Textual amendment: Words in [s. 157(7)](https://www.legislation.gov.uk/ukpga/1995/4/section/157/7) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 482](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/482) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
 [^c15673561]: Marginal citation: [1968 c. 13](https://www.legislation.gov.uk/ukpga/1968/13).

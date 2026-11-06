@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41A. Annual reports, statistical reports and strategic plans[^key-4f9999cb18b3b27103cd8cef0a25c083]
+## 41A. Annual reports, statistical reports and strategic plans[^c-4f9999cb18b3b27103cd8cef0a25c083]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f9999cb18b3b27103cd8cef0a25c083]: Textual amendment: S. 41A inserted (9.2.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/4), [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2008/1774/schedule/4/paragraph/7); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/3150/article/2/2/a/ii)
+[^c-4f9999cb18b3b27103cd8cef0a25c083]: Textual amendment: S. 41A inserted (9.2.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/4), [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2008/1774/schedule/4/paragraph/7); [S.I. 2008/3150](https://www.legislation.gov.uk/uksi/2008/3150), [art. 2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/3150/article/2/2/a/ii)

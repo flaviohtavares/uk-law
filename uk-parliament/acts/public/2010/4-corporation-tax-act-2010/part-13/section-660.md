@@ -23,8 +23,8 @@ summary: ''
 (1) A club is “**organised on an amateur basis**” for the purposes of section 658 if—
 
 - (a) it is non-profit making (see subsections (2) and (3)),
-- (b) it provides for members and their guests only the ordinary benefits of an amateur sports club (see subsections (4) and (5)), [^key-6013ce074aed1c8540977e4a0e007e38]...
-- (ba)[^key-95d578662015f4ca823fca52b86f2488] it does not exceed the limit on paid players (see subsection (5A)), and
+- (b) it provides for members and their guests only the ordinary benefits of an amateur sports club (see subsections (4) and (5)), [^c-6013ce074aed1c8540977e4a0e007e38]...
+- (ba)[^c-95d578662015f4ca823fca52b86f2488] it does not exceed the limit on paid players (see subsection (5A)), and
 - (c) its constitution provides for any net assets on its dissolution to be applied for approved sporting or charitable purposes (see subsections (6) and (7)).
 
 (2) A club is “**non-profit making**” for the purposes of subsection (1) if its constitution —
@@ -34,7 +34,7 @@ summary: ''
 
 (3) A club is not prevented from being “non-profit making” for those purposes merely because it makes donations to charities or registered clubs.
 
-(4) The following are “the ordinary benefits of an amateur sports club”[^key-0e36aeefa9a6ff4775f273e1326dc76c] for the purposes of subsection (1)—
+(4) The following are “the ordinary benefits of an amateur sports club”[^c-0e36aeefa9a6ff4775f273e1326dc76c] for the purposes of subsection (1)—
 
 - (a) the provision of sporting facilities,
 - (b) the reasonable provision and maintenance of club-owned sports equipment,
@@ -42,11 +42,11 @@ summary: ''
 - (d) the provision, or reimbursement of the costs, of coaching courses,
 - (e) the provision of insurance cover,
 - (f) the provision of medical treatment,
-- (g) the reimbursement of necessary and reasonable[^key-79bc964bdcbe9a9da4c974a1d17819c3] travel or subsistence[^key-4fa15bb4b38bf8b207ad5b4c75235df9] expenses incurred by players, match officials, coaches, first-aiders and accompanying individuals[^key-db0f7759ae5dba97b1b71155048921c5] in connection with away matches[^key-a9ffea8277b3b1835e740093c8c41a86],
+- (g) the reimbursement of necessary and reasonable[^c-79bc964bdcbe9a9da4c974a1d17819c3] travel or subsistence[^c-4fa15bb4b38bf8b207ad5b4c75235df9] expenses incurred by players, match officials, coaches, first-aiders and accompanying individuals[^c-db0f7759ae5dba97b1b71155048921c5] in connection with away matches[^c-a9ffea8277b3b1835e740093c8c41a86],
 - (h) the reasonable provision of post-match refreshments for players and match officials, and
 - (i) the sale or supply of food or drink as a social benefit which arises incidentally from the sporting purposes of the club.
 
-(4A)[^key-64251350483fe0c3dada29051df96be5] In subsection (4)(g)—
+(4A)[^c-64251350483fe0c3dada29051df96be5] In subsection (4)(g)—
 
 - (a) “subsistence expenses” means expenses on food, drink and temporary living accommodation,
 - (b) an “accompanying individual” means an individual accompanying a person who—
@@ -58,7 +58,7 @@ summary: ''
 - (a) a member supplies goods or services to the club on an arm's length basis, or
 - (b) the club employs members of the club on an arm's length basis.
 
-(5A)[^key-14cdd857143d54b877a7c93375ce4cbb] A club does not exceed the limit on paid players for the purposes of subsection (1) if—
+(5A)[^c-14cdd857143d54b877a7c93375ce4cbb] A club does not exceed the limit on paid players for the purposes of subsection (1) if—
 
 - (a) the number of persons paid to play for the club does not at any time exceed the specified maximum,
 - (b) the number of such persons in any year does not exceed the specified maximum for that year,
@@ -83,7 +83,7 @@ summary: ''
 - (a) the members of the club in general meeting, or
 - (b) the members of the club's governing body.
 
-(8)[^key-01247009752a1bea0bd03c95fde1a930] The Treasury may by regulations make further provision as to when a club is “ **organised on an amateur basis** ” for the purposes of section 658.
+(8)[^c-01247009752a1bea0bd03c95fde1a930] The Treasury may by regulations make further provision as to when a club is “ **organised on an amateur basis** ” for the purposes of section 658.
 
 (9) The provision that may be made by regulations under subsection (8) includes—
 
@@ -95,7 +95,7 @@ summary: ''
 
 (11) A statutory instrument that contains (whether alone or with other provisions) regulations under subsection (8) that amend this section or make other amendments to this Chapter may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the House of Commons.
 
-(12)[^key-e9772d451a732adfc103b4d5ca8fbac9] The provision that may be made by regulations under this section includes—
+(12)[^c-e9772d451a732adfc103b4d5ca8fbac9] The provision that may be made by regulations under this section includes—
 
 - (a) different provision for different purposes, and
 - (b) provision having effect in relation to times before the regulations are made.
@@ -104,24 +104,24 @@ summary: ''
 
 ## Annotations
 
-[^key-6013ce074aed1c8540977e4a0e007e38]: Textual amendment: Word in s. 660(1)(b) omitted (1.4.2010) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 3(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/3/2), [9(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9/2) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-6013ce074aed1c8540977e4a0e007e38]: Textual amendment: Word in s. 660(1)(b) omitted (1.4.2010) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 3(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/3/2), [9(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9/2) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
 
-[^key-95d578662015f4ca823fca52b86f2488]: Textual amendment: S. 660(1)(ba) inserted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 3(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/3/2), [9(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9/2) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-95d578662015f4ca823fca52b86f2488]: Textual amendment: S. 660(1)(ba) inserted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 3(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/3/2), [9(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9/2) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
 
-[^key-0e36aeefa9a6ff4775f273e1326dc76c]: Textual amendment: Words in s. 660(4) substituted (1.4.2015) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Community Amateur Sports Clubs Regulations 2015 (S.I. 2015/725)](https://www.legislation.gov.uk/uksi/2015/725), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/725/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2015/725/regulation/10/2)
+[^c-0e36aeefa9a6ff4775f273e1326dc76c]: Textual amendment: Words in s. 660(4) substituted (1.4.2015) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Community Amateur Sports Clubs Regulations 2015 (S.I. 2015/725)](https://www.legislation.gov.uk/uksi/2015/725), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/725/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2015/725/regulation/10/2)
 
-[^key-79bc964bdcbe9a9da4c974a1d17819c3]: Textual amendment: Words in s. 660(4)(g) substituted (1.4.2015) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Community Amateur Sports Clubs Regulations 2015 (S.I. 2015/725)](https://www.legislation.gov.uk/uksi/2015/725), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/725/regulation/1/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2015/725/regulation/10/3/a)
+[^c-79bc964bdcbe9a9da4c974a1d17819c3]: Textual amendment: Words in s. 660(4)(g) substituted (1.4.2015) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Community Amateur Sports Clubs Regulations 2015 (S.I. 2015/725)](https://www.legislation.gov.uk/uksi/2015/725), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/725/regulation/1/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2015/725/regulation/10/3/a)
 
-[^key-4fa15bb4b38bf8b207ad5b4c75235df9]: Textual amendment: Words in s. 660(4)(g) inserted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/3/3/a), [9(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9/2) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-4fa15bb4b38bf8b207ad5b4c75235df9]: Textual amendment: Words in s. 660(4)(g) inserted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/3/3/a), [9(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9/2) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
 
-[^key-db0f7759ae5dba97b1b71155048921c5]: Textual amendment: Words in s. 660(4)(g) substituted (1.4.2015) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Community Amateur Sports Clubs Regulations 2015 (S.I. 2015/725)](https://www.legislation.gov.uk/uksi/2015/725), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/725/regulation/1/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2015/725/regulation/10/3/b)
+[^c-db0f7759ae5dba97b1b71155048921c5]: Textual amendment: Words in s. 660(4)(g) substituted (1.4.2015) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Community Amateur Sports Clubs Regulations 2015 (S.I. 2015/725)](https://www.legislation.gov.uk/uksi/2015/725), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/725/regulation/1/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2015/725/regulation/10/3/b)
 
-[^key-a9ffea8277b3b1835e740093c8c41a86]: Textual amendment: Words in s. 660(4)(g) substituted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/3/3/b), [9(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9/2) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-a9ffea8277b3b1835e740093c8c41a86]: Textual amendment: Words in s. 660(4)(g) substituted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/3/3/b), [9(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9/2) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
 
-[^key-64251350483fe0c3dada29051df96be5]: Textual amendment: S. 660(4A) substituted (1.4.2015) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Community Amateur Sports Clubs Regulations 2015 (S.I. 2015/725)](https://www.legislation.gov.uk/uksi/2015/725), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/725/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2015/725/regulation/10/4)
+[^c-64251350483fe0c3dada29051df96be5]: Textual amendment: S. 660(4A) substituted (1.4.2015) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Community Amateur Sports Clubs Regulations 2015 (S.I. 2015/725)](https://www.legislation.gov.uk/uksi/2015/725), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/725/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2015/725/regulation/10/4)
 
-[^key-14cdd857143d54b877a7c93375ce4cbb]: Textual amendment: S. 660(5A)(5B) inserted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 3(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/3/5), [9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-14cdd857143d54b877a7c93375ce4cbb]: Textual amendment: S. 660(5A)(5B) inserted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 3(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/3/5), [9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
 
-[^key-01247009752a1bea0bd03c95fde1a930]: Textual amendment: S. 660(8)-(11) inserted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 3(6)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/3/6), [9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-01247009752a1bea0bd03c95fde1a930]: Textual amendment: S. 660(8)-(11) inserted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 3(6)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/3/6), [9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
 
-[^key-e9772d451a732adfc103b4d5ca8fbac9]: Textual amendment: S. 660(12)(13) inserted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 3(7)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/3/7), [9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-e9772d451a732adfc103b4d5ca8fbac9]: Textual amendment: S. 660(12)(13) inserted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 3(7)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/3/7), [9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64ZE. Secure electronic communications[^key-921894a871b2468308ebbfa5dcba65bc]
+## 64ZE. Secure electronic communications[^c-921894a871b2468308ebbfa5dcba65bc]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-921894a871b2468308ebbfa5dcba65bc]: Textual amendment: [Regs. 64ZC-64ZG](https://www.legislation.gov.uk/uksi/2015/1879/regulation/64ZC) inserted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2021/995/schedule/2/paragraph/8)
+[^c-921894a871b2468308ebbfa5dcba65bc]: Textual amendment: [Regs. 64ZC-64ZG](https://www.legislation.gov.uk/uksi/2015/1879/regulation/64ZC) inserted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2021/995/schedule/2/paragraph/8)

@@ -32,9 +32,9 @@ The Taxes Act 1988 is amended as follows.
 
 .
 
-**3.**[^key-777190fe8e20cb8a24c57460639f1e2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-777190fe8e20cb8a24c57460639f1e2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** (1)[^key-51f901c13b7b8dd428326fbb1afae30e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.** (1)[^c-51f901c13b7b8dd428326fbb1afae30e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) After subsection (1A) of that section insert—
 
@@ -42,7 +42,7 @@ The Taxes Act 1988 is amended as follows.
 
 .
 
-**5.**[^key-4de61bf141ea8e2c92b1c5e6c2677895] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4de61bf141ea8e2c92b1c5e6c2677895] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** Omit section 468AA (authorised unit trusts: futures and options).
 
@@ -69,11 +69,11 @@ The Taxes Act 1988 is amended as follows.
 
 .
 
-**8.**[^key-cc1d96d3dccc3a14dd4a5427a72cd5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-cc1d96d3dccc3a14dd4a5427a72cd5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-cc1d96d3dccc3a14dd4a5427a72cd5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-cc1d96d3dccc3a14dd4a5427a72cd5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-cc1d96d3dccc3a14dd4a5427a72cd5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-cc1d96d3dccc3a14dd4a5427a72cd5a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.** In section 798B (restriction of relief on certain interest and dividends: meaning of “financial expenditure”) in subsection (5) (meaning of “qualifying losses”) for paragraph (b) (losses brought into account for purposes of Chapter 2 of Part 4 of the Finance Act 1994) substitute—
 
@@ -83,17 +83,17 @@ The Taxes Act 1988 is amended as follows.
 
 **12.** (1) Section 807A (disposals and acquisitions of company loan relationships with or without interest) is amended as follows.
 
-(2)[^key-290df428cda7910dff6983a3add384e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-290df428cda7910dff6983a3add384e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-290df428cda7910dff6983a3add384e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-290df428cda7910dff6983a3add384e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In that subsection, omit the definition of “relevant qualifying payment”.
 
-**13.**[^key-f4e6dde49830979a64b4e19c06860ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-f4e6dde49830979a64b4e19c06860ddc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-b6e3a104f5d14ea02afc8d92f8aa875c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-b6e3a104f5d14ea02afc8d92f8aa875c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-e4afb6194649fcbd9816b1bd36b1d11d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-e4afb6194649fcbd9816b1bd36b1d11d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 16. The Finance Act 1994
 
@@ -107,11 +107,11 @@ In section 226 (provisions of the Finance Act 1993 (c. 34) and Finance Act 1994 
 
 The Finance Act 1996 (c. 8) is amended as follows.
 
-**18.**[^key-373f90a92277379c9cef4fad17939201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-373f90a92277379c9cef4fad17939201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-231821d67884d472f36d963661ee6712] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-231821d67884d472f36d963661ee6712] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-594b4a4704c2333a665cf88d7995044a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-594b4a4704c2333a665cf88d7995044a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **21.** Omit Schedule 12(meaning of debt contract or option).
 
@@ -149,24 +149,24 @@ The Finance Act 2002 is amended as follows.
 
 [^M_C_ab21cd79-e8de-486e-a946-bd35c4ee488c]: Modification: Sch. 27 extended (retrospective to 30.9.2002) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 177(4)(8)(11)](https://www.legislation.gov.uk/ukpga/2003/14/section/177/4)
 
-[^key-777190fe8e20cb8a24c57460639f1e2c]: Textual amendment: Sch. 27 para. 3 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-777190fe8e20cb8a24c57460639f1e2c]: Textual amendment: Sch. 27 para. 3 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-51f901c13b7b8dd428326fbb1afae30e]: Textual amendment: Sch. 27 para. 4(1) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-51f901c13b7b8dd428326fbb1afae30e]: Textual amendment: Sch. 27 para. 4(1) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-4de61bf141ea8e2c92b1c5e6c2677895]: Textual amendment: Sch. 27 para. 5 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
+[^c-4de61bf141ea8e2c92b1c5e6c2677895]: Textual amendment: Sch. 27 para. 5 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
 
-[^key-cc1d96d3dccc3a14dd4a5427a72cd5a5]: Textual amendment: [Sch. 27 paras. 8-10](https://www.legislation.gov.uk/ukpga/2002/23/schedule/27/paragraph/8) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-cc1d96d3dccc3a14dd4a5427a72cd5a5]: Textual amendment: [Sch. 27 paras. 8-10](https://www.legislation.gov.uk/ukpga/2002/23/schedule/27/paragraph/8) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-290df428cda7910dff6983a3add384e9]: Textual amendment: [Sch. 27 para. 12(2)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/27/paragraph/12/2)[(3)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/27/paragraph/12/3) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-290df428cda7910dff6983a3add384e9]: Textual amendment: [Sch. 27 para. 12(2)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/27/paragraph/12/2)[(3)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/27/paragraph/12/3) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-f4e6dde49830979a64b4e19c06860ddc]: Textual amendment: Sch. 27 para. 13 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f4e6dde49830979a64b4e19c06860ddc]: Textual amendment: Sch. 27 para. 13 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-b6e3a104f5d14ea02afc8d92f8aa875c]: Textual amendment: Sch. 27 para. 14 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-b6e3a104f5d14ea02afc8d92f8aa875c]: Textual amendment: Sch. 27 para. 14 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-e4afb6194649fcbd9816b1bd36b1d11d]: Textual amendment: [Sch. 27 para. 15](https://www.legislation.gov.uk/ukpga/2002/23/schedule/27/paragraph/15) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-e4afb6194649fcbd9816b1bd36b1d11d]: Textual amendment: [Sch. 27 para. 15](https://www.legislation.gov.uk/ukpga/2002/23/schedule/27/paragraph/15) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-373f90a92277379c9cef4fad17939201]: Textual amendment: Sch. 27 para. 18 repealed (with effect in accordance with s. 52(3), Sch. 10 para. 11(2)(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)
+[^c-373f90a92277379c9cef4fad17939201]: Textual amendment: Sch. 27 para. 18 repealed (with effect in accordance with s. 52(3), Sch. 10 para. 11(2)(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)
 
-[^key-231821d67884d472f36d963661ee6712]: Textual amendment: Sch. 27 para. 19 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-231821d67884d472f36d963661ee6712]: Textual amendment: Sch. 27 para. 19 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-594b4a4704c2333a665cf88d7995044a]: Textual amendment: Sch. 27 para. 20 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-594b4a4704c2333a665cf88d7995044a]: Textual amendment: Sch. 27 para. 20 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

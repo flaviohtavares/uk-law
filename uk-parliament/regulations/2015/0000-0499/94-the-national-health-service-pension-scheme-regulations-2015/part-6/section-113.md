@@ -26,10 +26,10 @@ summary: ''
 
 - (a) the surviving spouse;
 - (b) the surviving civil partner; or
-- (c)[^key-74ec6078ecdda1563531d9b3dfeb5044] a surviving scheme partner.
+- (c)[^c-74ec6078ecdda1563531d9b3dfeb5044] a surviving scheme partner.
 
 (3) For the rate at which the pension is payable, see regulations 115 to 119.
 
 ## Annotations
 
-[^key-74ec6078ecdda1563531d9b3dfeb5044]: Textual amendment: [Reg. 113(2)(c)](https://www.legislation.gov.uk/uksi/2015/94/regulation/113/2/c) substituted (with effect from 1.4.2015, in accordance with reg. 1(5) of the amending S.I.) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/5), [86](https://www.legislation.gov.uk/uksi/2019/418/regulation/86)
+[^c-74ec6078ecdda1563531d9b3dfeb5044]: Textual amendment: [Reg. 113(2)(c)](https://www.legislation.gov.uk/uksi/2015/94/regulation/113/2/c) substituted (with effect from 1.4.2015, in accordance with reg. 1(5) of the amending S.I.) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/5), [86](https://www.legislation.gov.uk/uksi/2019/418/regulation/86)

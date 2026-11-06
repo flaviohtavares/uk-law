@@ -53,7 +53,7 @@ The proposal must set out the following so far as known to the debtor—
 | Supervisor | - (h) identification and contact details for the supervisor;<br>- (i) confirmation that the supervisor is qualified to act as an insolvency practitioner (or is an authorised person) in relation to the debtor and the name of the relevant recognised professional body which is the source of the supervisor's authorisation;<br>- (j) how the fees and expenses of the supervisor will be determined and paid;<br>- (k) the functions to be undertaken by the supervisor;<br>- (l) where it is proposed that two or more supervisors be appointed, a statement whether acts done in connection with the IVA may be done by any one or more of them or must be done by all of them; |
 | Guarantees and proposed guarantees | - (m) whether any, and if so what, guarantees have been given in respect of the debtor's debts, specifying which of the guarantors are associates of the debtor;<br>- (n) whether any guarantees are proposed to be offered for the purposes of the IVA, and if so what, by whom and whether security is to be given or sought; |
 | Timing | - (o) the proposed duration of the IVA;<br>- (p) the proposed dates of distributions to creditors, with estimates of their amounts; |
-| Type of proceedings | - (q) whether the proceedings will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-0d26b8e41cb4768e984c478b090f6990] with reasons; |
+| Type of proceedings | - (q) whether the proceedings will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-0d26b8e41cb4768e984c478b090f6990] with reasons; |
 | Conduct of business | - (r) if the debtor has any business, how that business will be conducted during the IVA; |
 | Further credit facilities | - (s) details of any further proposed credit facilities for the debtor and how the debts so arising are to be paid; |
 | Handling of funds arising | - (t) the manner in which funds held for the purposes of the IVA are to be banked, invested or otherwise dealt with pending distribution to creditors;<br>- (u) how funds held for the purpose of payment to creditors, and not so paid on the termination of the IVA, will be dealt with;<br>- (v) how the claim of any person bound by the IVA by virtue of section 260(2)(b)(ii) will be dealt with; |
@@ -285,7 +285,7 @@ An order under section 256(5) [^c23176161] extending the period for which an int
 
 (1) The nominee's report under section 256A(3) must explain whether or not the nominee considers that the proposal has a reasonable prospect of being approved and implemented and whether or not creditors should be invited to consider the proposal.
 
-(1A)[^key-40fadfdb1331949f70e05201a6bb45eb] The nominee must examine whether there is jurisdiction to open the proceedings and must specify in the nominee’s report whether the proceedings will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-ade9a11055e3486c6fbeaad3aef4eb29] with the reasons for so stating.
+(1A)[^c-40fadfdb1331949f70e05201a6bb45eb] The nominee must examine whether there is jurisdiction to open the proceedings and must specify in the nominee’s report whether the proceedings will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-ade9a11055e3486c6fbeaad3aef4eb29] with the reasons for so stating.
 
 (2) The report must contain sufficient information to enable a person to identify (in accordance with rule 8.20) the appropriate court or hearing centre in which to file an application relating to the proposal or the IVA.
 
@@ -386,8 +386,8 @@ An order under section 256(5) [^c23176161] extending the period for which an int
 (2) The report must—
 
 - (a) state whether the proposal was approved or rejected and, if approved, with what (if any) modifications;
-- (b)[^key-46685f2bab17ef62566de58285799b46] list the creditors who voted or attended or who were represented at the meeting or decision procedure (as applicable) used to consider the proposal, setting out (with their respective values) how they voted on each resolution or whether they abstained;
-- (c) if the proposal was approved, state whether the proceedings are COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-4c70be28be3b066b27706d74903fd4f1] and the reasons for so stating; and
+- (b)[^c-46685f2bab17ef62566de58285799b46] list the creditors who voted or attended or who were represented at the meeting or decision procedure (as applicable) used to consider the proposal, setting out (with their respective values) how they voted on each resolution or whether they abstained;
+- (c) if the proposal was approved, state whether the proceedings are COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-4c70be28be3b066b27706d74903fd4f1] and the reasons for so stating; and
 - (d) include such further information as the nominee or the chair thinks appropriate.
 
 (3) Where an interim order was obtained a copy of the report must be filed with the court, within four business days of the decision date.
@@ -495,7 +495,7 @@ An order under section 256(5) [^c23176161] extending the period for which an int
 
 (6) Each report must be delivered within the period of two months after the end of the 12 month period.
 
-(7) Such a report is not required if an obligation to deliver a report under rule 8.31[^key-b086eae20bd439dd3d53b4a0af674803]... arises in the two months after the end of the period.
+(7) Such a report is not required if an obligation to deliver a report under rule 8.31[^c-b086eae20bd439dd3d53b4a0af674803]... arises in the two months after the end of the period.
 
 (8) Where the supervisor is authorised or required to do any of the things mentioned in paragraph (1), the report—
 
@@ -698,7 +698,7 @@ must, within 28 days of receipt of a request from a person mentioned in paragrap
 
 [^c23176101]: Marginal citation: Section 343(1) is amended by paragraph 36 of Schedule 19 to the Enterprise and Regulatory Reform Act 2013.
 
-[^key-0d26b8e41cb4768e984c478b090f6990]: Textual amendment: Words in [rule 8.3(q)](https://www.legislation.gov.uk/uksi/2016/1024/rule/8.3/q) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 84](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/84) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d26b8e41cb4768e984c478b090f6990]: Textual amendment: Words in [rule 8.3(q)](https://www.legislation.gov.uk/uksi/2016/1024/rule/8.3/q) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 84](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/84) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23176111]: Marginal citation: Section 253 subsection 5 is omitted by paragraph 2 of Schedule 19 to the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
@@ -712,23 +712,23 @@ must, within 28 days of receipt of a request from a person mentioned in paragrap
 
 [^c23176161]: Marginal citation: Section 256(5) is amended by paragraph 61 of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-40fadfdb1331949f70e05201a6bb45eb]: Textual amendment: Rule 8.19(1A) inserted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 41(2)](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/41/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3))
+[^c-40fadfdb1331949f70e05201a6bb45eb]: Textual amendment: Rule 8.19(1A) inserted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 41(2)](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/41/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3))
 
-[^key-ade9a11055e3486c6fbeaad3aef4eb29]: Textual amendment: Words in [rule 8.19(1A)](https://www.legislation.gov.uk/uksi/2016/1024/rule/8.19/1A) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 85](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/85) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ade9a11055e3486c6fbeaad3aef4eb29]: Textual amendment: Words in [rule 8.19(1A)](https://www.legislation.gov.uk/uksi/2016/1024/rule/8.19/1A) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 85](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/85) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23176171]: Marginal citation: Section 253is amended by paragraph 2 of Schedule 19 to the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
 [^c23176181]: Marginal citation: Section 256 is amended by paragraph 61 of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-46685f2bab17ef62566de58285799b46]: Textual amendment: Rule 8.24(2)(b) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [27](https://www.legislation.gov.uk/uksi/2017/366/rule/27)
+[^c-46685f2bab17ef62566de58285799b46]: Textual amendment: Rule 8.24(2)(b) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [27](https://www.legislation.gov.uk/uksi/2017/366/rule/27)
 
-[^key-4c70be28be3b066b27706d74903fd4f1]: Textual amendment: Words in [rule 8.24(2)(c)](https://www.legislation.gov.uk/uksi/2016/1024/rule/8.24/2/c) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [11](https://www.legislation.gov.uk/uksi/2026/561/rule/11)
+[^c-4c70be28be3b066b27706d74903fd4f1]: Textual amendment: Words in [rule 8.24(2)(c)](https://www.legislation.gov.uk/uksi/2016/1024/rule/8.24/2/c) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [11](https://www.legislation.gov.uk/uksi/2026/561/rule/11)
 
 [^c23176191]: Marginal citation: [1838 c.110](https://www.legislation.gov.uk/ukpga/1838/110). Section 17 is amended by the [Statute Law Revision (No 2) Act 1888 (c.57)](https://www.legislation.gov.uk/ukpga/1888/57), [article 2](https://www.legislation.gov.uk/ukpga/1888/57/article/2) of [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564), [article 3](https://www.legislation.gov.uk/uksi/1993/564/article/3) of [S.I. 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940), [Part 1](https://www.legislation.gov.uk/uksi/1998/2940/part/1) of the [Schedule of the Civil Procedure Acts Repeal Act 1879 (c.59)](https://www.legislation.gov.uk/ukpga/1879/59) and article 3(c) of [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132).
 
 [^c23176201]: Marginal citation: Section 262(4)(b) is substituted and subsections (1) to (5), (7) and (8) are amended by paragraph 69(7) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-b086eae20bd439dd3d53b4a0af674803]: Textual amendment: Word in [rule 8.28(7)](https://www.legislation.gov.uk/uksi/2016/1024/rule/8.28/7) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [11](https://www.legislation.gov.uk/uksi/2017/366/rule/11)
+[^c-b086eae20bd439dd3d53b4a0af674803]: Textual amendment: Word in [rule 8.28(7)](https://www.legislation.gov.uk/uksi/2016/1024/rule/8.28/7) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [11](https://www.legislation.gov.uk/uksi/2017/366/rule/11)
 
 [^c23176211]: Marginal citation: Section 257 and the preceding heading are amended by paragraphs 63 and 64 of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) which substitutes subsections (1) and (2) and inserts new subsections (2A) and (2B).
 

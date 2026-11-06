@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S*
 
-The Secretary of State may by regulations make such modifications of this Part of this Act and Part II of this Act as he considers appropriate with a view to securing that the provisions of one but not both of those Parts apply to prescribed acts and omissions. *(affected by repeal, see note)*[^key-610e45eadd9bf690bb6ecd7d2f2a7d41]
+The Secretary of State may by regulations make such modifications of this Part of this Act and Part II of this Act as he considers appropriate with a view to securing that the provisions of one but not both of those Parts apply to prescribed acts and omissions. *(affected by repeal, see note)*[^c-610e45eadd9bf690bb6ecd7d2f2a7d41]
 
 ## Annotations
 
-[^key-610e45eadd9bf690bb6ecd7d2f2a7d41]: Textual amendment: [S. 29](https://www.legislation.gov.uk/ukpga/1974/40/section/29) repealed (1.4.2015 for S.) by [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3), [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/II); [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2015/72/article/2/2/b)
+[^c-610e45eadd9bf690bb6ecd7d2f2a7d41]: Textual amendment: [S. 29](https://www.legislation.gov.uk/ukpga/1974/40/section/29) repealed (1.4.2015 for S.) by [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43), [s. 164(3)](https://www.legislation.gov.uk/ukpga/1990/43/section/164/3), [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/1990/43/schedule/16/part/II); [S.S.I. 2015/72](https://www.legislation.gov.uk/ssi/2015/72), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2015/72/article/2/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16L. Interpretation of sections 16E to 16K[^key-c7bd9edaeb516ad825465665f5a4a3f6]
+## 16L. Interpretation of sections 16E to 16K[^c-c7bd9edaeb516ad825465665f5a4a3f6]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In sections 16E to 16K—
 
 ## Annotations
 
-[^key-c7bd9edaeb516ad825465665f5a4a3f6]: Textual amendment: S. 16L inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 23](https://www.legislation.gov.uk/ukpga/2017/16/section/23), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/l)
+[^c-c7bd9edaeb516ad825465665f5a4a3f6]: Textual amendment: S. 16L inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 23](https://www.legislation.gov.uk/ukpga/2017/16/section/23), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/l)

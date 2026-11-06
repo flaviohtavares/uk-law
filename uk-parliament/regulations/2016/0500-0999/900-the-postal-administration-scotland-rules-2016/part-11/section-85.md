@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Certificate of giving notice etc[^key-9ca61a63d2a2eab5df4b1cd891715ced]
+## 85. Certificate of giving notice etc[^c-9ca61a63d2a2eab5df4b1cd891715ced]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ca61a63d2a2eab5df4b1cd891715ced]: Commencement: Rule 85 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-9ca61a63d2a2eab5df4b1cd891715ced]: Commencement: Rule 85 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

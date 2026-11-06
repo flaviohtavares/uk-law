@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. The principal contractor’s duty in relation to co-operation and consultation with workers[^key-d6ec231792022c4660ffc80f903e6655]
+## 24. The principal contractor’s duty in relation to co-operation and consultation with workers[^c-d6ec231792022c4660ffc80f903e6655]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6ec231792022c4660ffc80f903e6655]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/291) revoked (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 38](https://www.legislation.gov.uk/nisr/2016/146/regulation/38)
+[^c-d6ec231792022c4660ffc80f903e6655]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/291) revoked (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 38](https://www.legislation.gov.uk/nisr/2016/146/regulation/38)

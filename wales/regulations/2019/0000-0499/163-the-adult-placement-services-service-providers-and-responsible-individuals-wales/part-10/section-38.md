@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Adequacy of premises[^key-b8f25d28242f3bfc98f5744d70c71fe4]
+## 38. Adequacy of premises[^c-b8f25d28242f3bfc98f5744d70c71fe4]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The service provider must ensure that the premises used for the operation of the
 
 ## Annotations
 
-[^key-b8f25d28242f3bfc98f5744d70c71fe4]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2019/163/regulation/38) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-b8f25d28242f3bfc98f5744d70c71fe4]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2019/163/regulation/38) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

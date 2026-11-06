@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.11. Acceptance of a Part 36 offer[^key-e9908447b00f164a4af1faf75a60688f]
+## 36.11. Acceptance of a Part 36 offer[^c-e9908447b00f164a4af1faf75a60688f]
 
 *Extent: E+W*
 
@@ -31,13 +31,13 @@ summary: ''
 (3) The court’s permission is required to accept a Part 36 offer where—
 
 - (a) rule 36.15(4) applies;
-- (b) rule 36.20[^key-cb992309c0bc2d145bfb5a90cc9bb16b] (3)(b) applies, the relevant period has expired and further deductible amounts have been paid to the claimant since the date of the offer;
+- (b) rule 36.20[^c-cb992309c0bc2d145bfb5a90cc9bb16b] (3)(b) applies, the relevant period has expired and further deductible amounts have been paid to the claimant since the date of the offer;
 - (c) an apportionment is required under rule 41.3A; or
 - (d) a trial is in progress.
 
 (Rule 36.15 deals with offers by some but not all of multiple defendants.)
 
-(Rule 36.20[^key-5d9c167ac9413789025850922b2716d3] defines “deductible amounts”.)
+(Rule 36.20[^c-5d9c167ac9413789025850922b2716d3] defines “deductible amounts”.)
 
 (Rule 41.3A requires an apportionment in proceedings under the Fatal Accidents Act 1976 and Law Reform (Miscellaneous Provisions) Act 1934.)
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e9908447b00f164a4af1faf75a60688f]: Textual amendment: Pt. 36 substituted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) (with [rule 18](https://www.legislation.gov.uk/uksi/2014/3299/rule/18))
+[^c-e9908447b00f164a4af1faf75a60688f]: Textual amendment: Pt. 36 substituted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3299/schedule/1) (with [rule 18](https://www.legislation.gov.uk/uksi/2014/3299/rule/18))
 
-[^key-cb992309c0bc2d145bfb5a90cc9bb16b]: Textual amendment: Word in rule 36.11(3)(b) substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [12(5)(a)](https://www.legislation.gov.uk/uksi/2023/572/rule/12/5/a) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-cb992309c0bc2d145bfb5a90cc9bb16b]: Textual amendment: Word in rule 36.11(3)(b) substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [12(5)(a)](https://www.legislation.gov.uk/uksi/2023/572/rule/12/5/a) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-5d9c167ac9413789025850922b2716d3]: Textual amendment: Word in rule 36.11 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [12(5)(b)](https://www.legislation.gov.uk/uksi/2023/572/rule/12/5/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-5d9c167ac9413789025850922b2716d3]: Textual amendment: Word in rule 36.11 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [12(5)(b)](https://www.legislation.gov.uk/uksi/2023/572/rule/12/5/b) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))

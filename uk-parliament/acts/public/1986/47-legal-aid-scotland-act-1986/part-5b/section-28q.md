@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28Q. Non-compliance with code of practice[^key-b11d80fa18801e4e9485bb4fd2293256]
+## 28Q. Non-compliance with code of practice[^c-b11d80fa18801e4e9485bb4fd2293256]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b11d80fa18801e4e9485bb4fd2293256]: Textual amendment: Pts. 5A, 5B inserted (31.1.2012 for s. 28B(2), s. 28M(7) for specified purposes and s. 28N) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 191](https://www.legislation.gov.uk/asp/2011/1/section/191), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2012/1](https://www.legislation.gov.uk/ssi/2012/1), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/1/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2012/1/schedule)
+[^c-b11d80fa18801e4e9485bb4fd2293256]: Textual amendment: Pts. 5A, 5B inserted (31.1.2012 for s. 28B(2), s. 28M(7) for specified purposes and s. 28N) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 191](https://www.legislation.gov.uk/asp/2011/1/section/191), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2012/1](https://www.legislation.gov.uk/ssi/2012/1), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/1/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2012/1/schedule)

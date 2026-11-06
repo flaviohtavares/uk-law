@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Regulation of procedure[^key-a46d0edf2f53140adec3b9b7df913d2e]
+## 18. Regulation of procedure[^c-a46d0edf2f53140adec3b9b7df913d2e]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a46d0edf2f53140adec3b9b7df913d2e]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/18/section/18) in force at 1.11.2016 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2016/250/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/250/regulation/3))
+[^c-a46d0edf2f53140adec3b9b7df913d2e]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/18/section/18) in force at 1.11.2016 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2016/250/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/250/regulation/3))

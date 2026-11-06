@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. The transitional element - total legacy amount[^key-e97a2f3efa41f940f3ec36113800032e]
+## 54. The transitional element - total legacy amount[^c-e97a2f3efa41f940f3ec36113800032e]
 
 *Extent: N.I.*
 
@@ -57,7 +57,7 @@ then, notwithstanding Article 6(8) to (11) of the Jobseekers Order 1995 and sect
 
 Housing benefit
 
-(7) To calculate the representative monthly rate of an award of housing benefit , in the form of a rent rebate or allowance awarded in connection with regulation 13 of the Housing Benefit Regulations or regulation 13 of the Housing Benefit (State Pension Credit) Regulations,[^key-8db42535c012e28ced4c810e25be1dfd]—
+(7) To calculate the representative monthly rate of an award of housing benefit , in the form of a rent rebate or allowance awarded in connection with regulation 13 of the Housing Benefit Regulations or regulation 13 of the Housing Benefit (State Pension Credit) Regulations,[^c-8db42535c012e28ced4c810e25be1dfd]—
 
 - (a) take the weekly rate on the migration day calculated in accordance with Part 7 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 and the Housing Benefit Regulations, on the basis of the information held by the Department on that day, and convert to a monthly figure by multiplying by 52 and dividing by 12; or
 - (b) in a case where the claimant has rent free periods, calculate the annual rate by multiplying the weekly rate (as above) by the number of weeks in the year in respect of which the claimant is liable to pay rent, and convert to a monthly figure by dividing by 12.
@@ -66,13 +66,13 @@ Housing benefit
 
 (9) In paragraphs (7) and (8) “rent free period” has the meaning in regulation 79 of the Housing Benefit Regulations.
 
-(10) In a case where regulation 6(3) (continuation of housing benefit in respect of specified accommodation or temporary accommodation) applies, no amount is to be included in the total legacy amount for housing benefit in respect of specified or temporary accommodation[^key-a53e1954f17e059b7c01c4b5922ef1e3].
+(10) In a case where regulation 6(3) (continuation of housing benefit in respect of specified accommodation or temporary accommodation) applies, no amount is to be included in the total legacy amount for housing benefit in respect of specified or temporary accommodation[^c-a53e1954f17e059b7c01c4b5922ef1e3].
 
 The benefit cap
 
 (11) Where—
 
-- (a) the existing benefits do not include an award of housing benefit, or they include an award of housing benefit , in the form of a rent rebate or allowance awarded in connection with regulation 13 of the Housing Benefit Regulations or regulation 13 of the Housing Benefit (State Pension Credit) Regulations,[^key-a814b219903d369131258e231521677e] that has been reduced to the minimum amount by virtue of Part 8A of the Housing Benefit Regulations (the benefit cap);
+- (a) the existing benefits do not include an award of housing benefit, or they include an award of housing benefit , in the form of a rent rebate or allowance awarded in connection with regulation 13 of the Housing Benefit Regulations or regulation 13 of the Housing Benefit (State Pension Credit) Regulations,[^c-a814b219903d369131258e231521677e] that has been reduced to the minimum amount by virtue of Part 8A of the Housing Benefit Regulations (the benefit cap);
 - (b) Part 7 of the Universal Credit Regulations (the benefit cap) applies in the calculation of the indicative UC amount; and
 - (c) the claimant’s total entitlement to welfare benefits (as defined in Article 101(7) of the Order) on the migration day is greater than the relevant amount,
 
@@ -85,10 +85,10 @@ the total legacy amount is reduced by the excess (minus the amount for childcare
 
 ## Annotations
 
-[^key-e97a2f3efa41f940f3ec36113800032e]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/nisr/2016/226/part/4) added (24.7.2019) by [The Universal Credit (Managed Migration and Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/152)](https://www.legislation.gov.uk/nisr/2019/152), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/2), [2(8)](https://www.legislation.gov.uk/nisr/2019/152/regulation/2/8)
+[^c-e97a2f3efa41f940f3ec36113800032e]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/nisr/2016/226/part/4) added (24.7.2019) by [The Universal Credit (Managed Migration and Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/152)](https://www.legislation.gov.uk/nisr/2019/152), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/2), [2(8)](https://www.legislation.gov.uk/nisr/2019/152/regulation/2/8)
 
-[^key-8db42535c012e28ced4c810e25be1dfd]: Textual amendment: Words in [reg. 54(7)](https://www.legislation.gov.uk/nisr/2016/226/regulation/54/7) inserted (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [9(2)](https://www.legislation.gov.uk/nisr/2022/194/regulation/9/2)
+[^c-8db42535c012e28ced4c810e25be1dfd]: Textual amendment: Words in [reg. 54(7)](https://www.legislation.gov.uk/nisr/2016/226/regulation/54/7) inserted (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [9(2)](https://www.legislation.gov.uk/nisr/2022/194/regulation/9/2)
 
-[^key-a53e1954f17e059b7c01c4b5922ef1e3]: Textual amendment: Words in [reg. 54(10)](https://www.legislation.gov.uk/nisr/2016/226/regulation/54/10) substituted (29.6.2023) by [The Social Security, Universal Credit and State Pension (Miscellaneous Amendments) Regulations (Northern Ireland) 2023 (S.R. 2023/93)](https://www.legislation.gov.uk/nisr/2023/93), [regs. 1](https://www.legislation.gov.uk/nisr/2023/93/regulation/1), [4(5)](https://www.legislation.gov.uk/nisr/2023/93/regulation/4/5)
+[^c-a53e1954f17e059b7c01c4b5922ef1e3]: Textual amendment: Words in [reg. 54(10)](https://www.legislation.gov.uk/nisr/2016/226/regulation/54/10) substituted (29.6.2023) by [The Social Security, Universal Credit and State Pension (Miscellaneous Amendments) Regulations (Northern Ireland) 2023 (S.R. 2023/93)](https://www.legislation.gov.uk/nisr/2023/93), [regs. 1](https://www.legislation.gov.uk/nisr/2023/93/regulation/1), [4(5)](https://www.legislation.gov.uk/nisr/2023/93/regulation/4/5)
 
-[^key-a814b219903d369131258e231521677e]: Textual amendment: Words in [reg. 54(11)(a)](https://www.legislation.gov.uk/nisr/2016/226/regulation/54/11/a) inserted (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/nisr/2022/194/regulation/9/2/a)
+[^c-a814b219903d369131258e231521677e]: Textual amendment: Words in [reg. 54(11)(a)](https://www.legislation.gov.uk/nisr/2016/226/regulation/54/11/a) inserted (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/nisr/2022/194/regulation/9/2/a)

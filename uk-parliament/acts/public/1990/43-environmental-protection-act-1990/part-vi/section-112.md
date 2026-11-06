@@ -60,7 +60,7 @@ and where, under any condition, the holder of a consent is required to cease kee
 
 But this general condition shall have effect subject to any conditions imposed under subsection (1) above.
 
-## 112. Consents: limitations and conditions.[^c17528271][^c13747131][^key-0afe5258107baf067667beb9053d5088]
+## 112. Consents: limitations and conditions.[^c17528271][^c13747131][^c-0afe5258107baf067667beb9053d5088]
 
 *Extent: S*
 
@@ -130,7 +130,7 @@ But this general condition shall have effect subject to any conditions imposed u
 
 [^c17528271]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-0afe5258107baf067667beb9053d5088]: Textual amendment: S. 106A inserted (13.11.2025 for specified purposes) by [Genetic Technology (Precision Breeding) Act 2023 (c. 6)](https://www.legislation.gov.uk/ukpga/2023/6), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2023/6/section/41/2), [48(4)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/4) (with [s. 46](https://www.legislation.gov.uk/ukpga/2023/6/section/46)); [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/5)
+[^c-0afe5258107baf067667beb9053d5088]: Textual amendment: S. 106A inserted (13.11.2025 for specified purposes) by [Genetic Technology (Precision Breeding) Act 2023 (c. 6)](https://www.legislation.gov.uk/ukpga/2023/6), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2023/6/section/41/2), [48(4)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/4) (with [s. 46](https://www.legislation.gov.uk/ukpga/2023/6/section/46)); [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/5)
 
 [^c17528391]: Textual amendment: Words in [s. 112(1)](https://www.legislation.gov.uk/ukpga/1990/43/section/112/1) inserted (S.) (5.12.2002) by [Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002 (S.S.I. 2002/541)](https://www.legislation.gov.uk/ssi/2002/541), [reg. 29(2)](https://www.legislation.gov.uk/ssi/2002/541/regulation/29/2)
 

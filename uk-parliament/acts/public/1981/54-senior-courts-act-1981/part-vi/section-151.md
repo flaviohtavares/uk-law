@@ -36,7 +36,7 @@ summary: ''
 - “**prescribed**” means—
   - (a) except in relation to fees, prescribed by rules of court; [^c20644081]. . .
   - (b) [^c20644081]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “[^key-9daa2799ebef8f41fa66f9c9e76c2b03]**qualifying judge advocate**” means—
+- “[^c-9daa2799ebef8f41fa66f9c9e76c2b03]**qualifying judge advocate**” means—
   - (a) the Judge Advocate General; or
   - (b) a person appointed under section 30(1)(a) or (b) of the Courts-Martial (Appeals) Act 1951 (assistants to the Judge Advocate General);
 - “[^c20693401]**senior judge**”, where the reference is to the senior judge of a Division, means the president of that Division;
@@ -46,7 +46,7 @@ summary: ''
 
 (2) Section 128 contains definitions of expressions used in Part V and in the other provisions of this Act relating to probate causes and matters.
 
-(3) Any reference in this Act to rules of court under section 84 includes a reference to rules of court under any provision of this or any other Act which confers on the Civil Procedure Rule Committee[^c12337261] [^key-02bdc83c47b5ea8b9314bfb26c0b40af]... power to make rules of court in relation to the[^c12337271] Senior Courts.
+(3) Any reference in this Act to rules of court under section 84 includes a reference to rules of court under any provision of this or any other Act which confers on the Civil Procedure Rule Committee[^c12337261] [^c-02bdc83c47b5ea8b9314bfb26c0b40af]... power to make rules of court in relation to the[^c12337271] Senior Courts.
 
 (4) Except where the context otherwise requires, in this or any other Act—
 
@@ -73,7 +73,7 @@ summary: ''
 
 [^c20644081]: Textual amendment: S. 151(1): para. (b) and preceding word in definition of "prescribed" repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1/3), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 265](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/265), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y/aa)
 
-[^key-9daa2799ebef8f41fa66f9c9e76c2b03]: Textual amendment: Words in s. 151(1) inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/2/paragraph/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/669/article/4/c)
+[^c-9daa2799ebef8f41fa66f9c9e76c2b03]: Textual amendment: Words in s. 151(1) inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/2/paragraph/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/669/article/4/c)
 
 [^c20693401]: Textual amendment: S. 151(1): definition of "senior judge" substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 146](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/146); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 10](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/10), [11(q)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/q)
 
@@ -83,7 +83,7 @@ summary: ''
 
 [^c12337261]: Textual amendment: Words in s. 151(3) substituted (26.4.1999) by [1997 c. 12](https://www.legislation.gov.uk/ukpga/1997/12), [s. 10](https://www.legislation.gov.uk/ukpga/1997/12/section/10), [Sch. 2 para. 1(7)(a)](https://www.legislation.gov.uk/ukpga/1997/12/schedule/2/paragraph/1/7/a); [S.I. 1999/1009](https://www.legislation.gov.uk/uksi/1999/1009), [art. 3(e)](https://www.legislation.gov.uk/uksi/1999/1009/article/3/e)
 
-[^key-02bdc83c47b5ea8b9314bfb26c0b40af]: Textual amendment: Words in [s. 151(3)](https://www.legislation.gov.uk/ukpga/1981/54/section/151/3) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/6)
+[^c-02bdc83c47b5ea8b9314bfb26c0b40af]: Textual amendment: Words in [s. 151(3)](https://www.legislation.gov.uk/ukpga/1981/54/section/151/3) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/6)
 
 [^c12337271]: Textual amendment: Words in s. 151(3) inserted (26.4.1999) by [1997 c. 12](https://www.legislation.gov.uk/ukpga/1997/12), [s. 10](https://www.legislation.gov.uk/ukpga/1997/12/section/10), [Sch. 2 para. 1(7)(a)](https://www.legislation.gov.uk/ukpga/1997/12/schedule/2/paragraph/1/7/a); [S.I. 1999/1009](https://www.legislation.gov.uk/uksi/1999/1009), [art. 3(e)](https://www.legislation.gov.uk/uksi/1999/1009/article/3/e)
 

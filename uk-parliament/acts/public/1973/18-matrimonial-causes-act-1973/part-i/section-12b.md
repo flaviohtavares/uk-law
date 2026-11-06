@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12B. The period before nullity of marriage orders may be made final[^key-5231144734d92ef2239cc4e657d7cec6]
+## 12B. The period before nullity of marriage orders may be made final[^c-5231144734d92ef2239cc4e657d7cec6]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5231144734d92ef2239cc4e657d7cec6]: Textual amendment: [S. 12B](https://www.legislation.gov.uk/ukpga/1973/18/section/12B) inserted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/12) (with [s. 8(4)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/4)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-5231144734d92ef2239cc4e657d7cec6]: Textual amendment: [S. 12B](https://www.legislation.gov.uk/ukpga/1973/18/section/12B) inserted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/12) (with [s. 8(4)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/4)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

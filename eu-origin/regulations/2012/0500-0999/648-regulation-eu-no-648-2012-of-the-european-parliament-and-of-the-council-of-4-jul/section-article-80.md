@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 80. Safeguarding and recording[^key-245d88531b4b9d494f91f8b747cd8f05]
+## Article 80. Safeguarding and recording[^c-245d88531b4b9d494f91f8b747cd8f05]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ A natural person who has a close link with a trade repository or a legal person 
 
 ## Annotations
 
-[^key-245d88531b4b9d494f91f8b747cd8f05]: Modification: [Arts. 78-80](https://www.legislation.gov.uk/eur/2012/648/article/78) modified (30.1.2024 for specified purposes, 1.11.2024 in so far as not already in force) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [regs. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)[(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/102/regulation/14/4) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3)) (as amended by [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2))
+[^c-245d88531b4b9d494f91f8b747cd8f05]: Modification: [Arts. 78-80](https://www.legislation.gov.uk/eur/2012/648/article/78) modified (30.1.2024 for specified purposes, 1.11.2024 in so far as not already in force) by [The Securitisation Regulations 2024 (S.I. 2024/102)](https://www.legislation.gov.uk/uksi/2024/102), [regs. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)[(2)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/102/regulation/14/4) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2024/102/schedule/3)) (as amended by [S.I. 2024/705](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/2))
 
 [^c000010]: Textual amendment: Inserted by [Regulation (EU) 2019/834 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 648/2012 as regards the clearing obligation, the suspension of the clearing obligation, the reporting requirements, the risk-mitigation techniques for OTC derivative contracts not cleared by a central counterparty, the registration and supervision of trade repositories and the requirements for trade repositories (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/834).

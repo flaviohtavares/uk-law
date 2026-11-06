@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23K. Regional strategic bodies: improvement of economic and social well-being[^key-96d99c74be52b69fa1aa1f120141c78d]
+## 23K. Regional strategic bodies: improvement of economic and social well-being[^c-96d99c74be52b69fa1aa1f120141c78d]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96d99c74be52b69fa1aa1f120141c78d]: Textual amendment: Ss. 23E-23O and cross-heading inserted (1.8.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 10](https://www.legislation.gov.uk/asp/2013/12/section/10), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
+[^c-96d99c74be52b69fa1aa1f120141c78d]: Textual amendment: Ss. 23E-23O and cross-heading inserted (1.8.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 10](https://www.legislation.gov.uk/asp/2013/12/section/10), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)

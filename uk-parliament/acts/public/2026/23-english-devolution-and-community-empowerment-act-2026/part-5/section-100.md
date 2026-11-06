@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Rent reviews and arrangements for new tenancies[^key-be13c1f3d1a34eddc757f53c879cc43b]
+## 100. Rent reviews and arrangements for new tenancies[^c-be13c1f3d1a34eddc757f53c879cc43b]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be13c1f3d1a34eddc757f53c879cc43b]: Commencement: S. 100 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-be13c1f3d1a34eddc757f53c879cc43b]: Commencement: S. 100 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)

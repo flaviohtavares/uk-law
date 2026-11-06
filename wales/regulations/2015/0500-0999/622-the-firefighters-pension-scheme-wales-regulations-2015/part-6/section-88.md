@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Surviving partner’s pension payable on death of deferred member[^key-780ceca88e43549c50c78f1a5cf02637]
+## 88. Surviving partner’s pension payable on death of deferred member[^c-780ceca88e43549c50c78f1a5cf02637]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-780ceca88e43549c50c78f1a5cf02637]: Commencement: Reg. 88 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-780ceca88e43549c50c78f1a5cf02637]: Commencement: Reg. 88 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

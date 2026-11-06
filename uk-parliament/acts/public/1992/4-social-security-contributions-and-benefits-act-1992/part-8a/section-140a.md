@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140A. Entitlement[^key-0c6737bb4694458cd4b296a8f68b5175]
+## 140A. Entitlement[^c-0c6737bb4694458cd4b296a8f68b5175]
 
 *Extent: E+W+S+N.I.*
 
 (1) A woman who satisfies prescribed conditions in relation to a pregnancy of hers is entitled to payment of a lump sum (to be known as “**health in pregnancy grant**”).
 
-(2)[^key-1e479e1f72356e83992b702ad13ab4a3] A woman is not entitled to health in pregnancy grant unless she has reached the 25th week of her pregnancy before 1st January 2011.
+(2)[^c-1e479e1f72356e83992b702ad13ab4a3] A woman is not entitled to health in pregnancy grant unless she has reached the 25th week of her pregnancy before 1st January 2011.
 
 (3) A woman is not entitled to health in pregnancy grant unless—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0c6737bb4694458cd4b296a8f68b5175]: Textual amendment: Pt. 8A inserted (21.7.2008 for specified purposes, 1.1.2009 in so far as not already in force) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 131](https://www.legislation.gov.uk/ukpga/2008/14/section/131), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)
+[^c-0c6737bb4694458cd4b296a8f68b5175]: Textual amendment: Pt. 8A inserted (21.7.2008 for specified purposes, 1.1.2009 in so far as not already in force) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 131](https://www.legislation.gov.uk/ukpga/2008/14/section/131), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)
 
-[^key-1e479e1f72356e83992b702ad13ab4a3]: Textual amendment: [S. 140A(2)](https://www.legislation.gov.uk/ukpga/1992/4/section/140A/2) substituted (16.12.2010) by [Savings Accounts and Health in Pregnancy Grant Act 2010 (c. 36)](https://www.legislation.gov.uk/ukpga/2010/36), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2010/36/section/3/1), [4(3)](https://www.legislation.gov.uk/ukpga/2010/36/section/4/3)
+[^c-1e479e1f72356e83992b702ad13ab4a3]: Textual amendment: [S. 140A(2)](https://www.legislation.gov.uk/ukpga/1992/4/section/140A/2) substituted (16.12.2010) by [Savings Accounts and Health in Pregnancy Grant Act 2010 (c. 36)](https://www.legislation.gov.uk/ukpga/2010/36), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2010/36/section/3/1), [4(3)](https://www.legislation.gov.uk/ukpga/2010/36/section/4/3)

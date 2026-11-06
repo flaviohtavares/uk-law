@@ -35,16 +35,16 @@ summary: ''
 
 (4) In subsection (4) (further provision about the manner in which the power may be exercised) in paragraph (a) after “relation to” insert “ different areas or ”.
 
-(5)[^key-47785622c93af6cacf40c20db9f33112] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-47785622c93af6cacf40c20db9f33112] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In subsection (6)(c) for “6(1)(c)” substitute “ 6(1)(b), (c) ”.
 
-(7)[^key-97169f2fc9e97354f64d505509b03716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-97169f2fc9e97354f64d505509b03716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-97169f2fc9e97354f64d505509b03716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-97169f2fc9e97354f64d505509b03716] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-47785622c93af6cacf40c20db9f33112]: Textual amendment: [S. 73(5)](https://www.legislation.gov.uk/ukpga/2011/16/section/73/5) omitted (23.5.2018) by virtue of [Smart Meters Act 2018 (c. 14)](https://www.legislation.gov.uk/ukpga/2018/14), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2018/14/section/1/4), [14(2)](https://www.legislation.gov.uk/ukpga/2018/14/section/14/2)
+[^c-47785622c93af6cacf40c20db9f33112]: Textual amendment: [S. 73(5)](https://www.legislation.gov.uk/ukpga/2011/16/section/73/5) omitted (23.5.2018) by virtue of [Smart Meters Act 2018 (c. 14)](https://www.legislation.gov.uk/ukpga/2018/14), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2018/14/section/1/4), [14(2)](https://www.legislation.gov.uk/ukpga/2018/14/section/14/2)
 
-[^key-97169f2fc9e97354f64d505509b03716]: Textual amendment: [S. 73(7)](https://www.legislation.gov.uk/ukpga/2011/16/section/73/7)[(8)](https://www.legislation.gov.uk/ukpga/2011/16/section/73/8) omitted (23.5.2018) by virtue of [Smart Meters Act 2018 (c. 14)](https://www.legislation.gov.uk/ukpga/2018/14), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2018/14/section/1/4), [14(2)](https://www.legislation.gov.uk/ukpga/2018/14/section/14/2)
+[^c-97169f2fc9e97354f64d505509b03716]: Textual amendment: [S. 73(7)](https://www.legislation.gov.uk/ukpga/2011/16/section/73/7)[(8)](https://www.legislation.gov.uk/ukpga/2011/16/section/73/8) omitted (23.5.2018) by virtue of [Smart Meters Act 2018 (c. 14)](https://www.legislation.gov.uk/ukpga/2018/14), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2018/14/section/1/4), [14(2)](https://www.legislation.gov.uk/ukpga/2018/14/section/14/2)

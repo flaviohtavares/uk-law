@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5C. The Fitness to Practise Committee[^key-a7f98773279ad122a751ed3b1d72675e]
+## 5C. The Fitness to Practise Committee[^c-a7f98773279ad122a751ed3b1d72675e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,10 +32,10 @@ summary: ''
 
 (4) The members of the Fitness to Practise Committee who are to hear any particular case shall be determined in accordance with rules made by the Council under subsection (3) above.
 
-(5)[^key-156e68d658c0e09069a58e61597ec1a5] In exercising a function under section 13F or 13H, the Fitness to Practise Committee must have regard to the over-arching objective.
+(5)[^c-156e68d658c0e09069a58e61597ec1a5] In exercising a function under section 13F or 13H, the Fitness to Practise Committee must have regard to the over-arching objective.
 
 ## Annotations
 
-[^key-a7f98773279ad122a751ed3b1d72675e]: Textual amendment: Ss. 3-5C substituted for ss. 3-5 (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 4(2)](https://www.legislation.gov.uk/uksi/2005/848/article/4/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-a7f98773279ad122a751ed3b1d72675e]: Textual amendment: Ss. 3-5C substituted for ss. 3-5 (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 4(2)](https://www.legislation.gov.uk/uksi/2005/848/article/4/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-156e68d658c0e09069a58e61597ec1a5]: Textual amendment: S. 5C(5) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 2(4)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/2/4); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-156e68d658c0e09069a58e61597ec1a5]: Textual amendment: S. 5C(5) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 2(4)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/2/4); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)

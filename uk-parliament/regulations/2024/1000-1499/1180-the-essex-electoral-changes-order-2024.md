@@ -44,7 +44,7 @@ A draft of the instrument has been laid before Parliament and a period of forty 
 
 The Commission makes the following Order in exercise of the power conferred by section 59(1) of the Act.
 
-## 1. Citation, commencement, extent and application[^key-8bf0c1be9a1af5e01da4c93f89aa5972]
+## 1. Citation, commencement, extent and application[^c-8bf0c1be9a1af5e01da4c93f89aa5972]
 
 (1) This Order may be cited as the Essex (Electoral Changes) Order 2024.
 
@@ -53,7 +53,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 (3) Article 3 comes into force—
 
 - (a) for the purpose of proceedings preliminary or relating to the election of councillors, on the day after the day on which this Order is made;
-- (b) for all other purposes, on the ordinary day of election of councillors in England[^f00004] in 2026[^key-188fe93401577c2def85221d01cc7153].
+- (b) for all other purposes, on the ordinary day of election of councillors in England[^f00004] in 2026[^c-188fe93401577c2def85221d01cc7153].
 
 (4) Article 4 comes into force—
 
@@ -72,13 +72,13 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (7) This Order extends to England and Wales but applies in relation to England only.
 
-## 2. Interpretation[^key-d40c55df2b7ee4b2b61f3579b502102d]
+## 2. Interpretation[^c-d40c55df2b7ee4b2b61f3579b502102d]
 
 (1) In this Order, “**the map**” means the map marked “Map referred to in the Essex (Electoral Changes) Order 2024”, held by the Local Government Boundary Commission for England[^f00005].
 
 (2) Where a boundary is shown on the map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature.
 
-## 3. Electoral divisions of Essex and number of councillors[^key-72e366730e7b5b9388bcaeecb4827dd6]
+## 3. Electoral divisions of Essex and number of councillors[^c-72e366730e7b5b9388bcaeecb4827dd6]
 
 (1) The existing electoral divisions of Essex are abolished.
 
@@ -88,7 +88,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) The number of councillors to be elected for each electoral division is 1.
 
-## 4. Parish wards of the parish of Wickford[^key-0a1ba7379f3206c33df17d632bad13e0]
+## 4. Parish wards of the parish of Wickford[^c-0a1ba7379f3206c33df17d632bad13e0]
 
 (1) The existing parish wards of the parish of Wickford are abolished.
 
@@ -98,7 +98,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) The number of councillors to be elected for each parish ward is the number specified in relation to that parish ward in the second column of the table in Schedule 2.
 
-## 5. Parish wards of the parishes of Chelmsford Garden, Ramsey & Parkeston, Rayleigh and Rochford[^key-4289beb7b22e1d3469b1e4a84098dba3]
+## 5. Parish wards of the parishes of Chelmsford Garden, Ramsey & Parkeston, Rayleigh and Rochford[^c-4289beb7b22e1d3469b1e4a84098dba3]
 
 **Not yet in force.**
 
@@ -116,7 +116,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (7) The number of councillors to be elected for each parish ward is the number specified in relation to that parish ward in the second column of the relevant table in Schedule 3.
 
-## 6. Parish wards of the parish of Billericay[^key-77b63d6e707c53ad70d238b811235b30]
+## 6. Parish wards of the parish of Billericay[^c-77b63d6e707c53ad70d238b811235b30]
 
 **Not yet in force.**
 
@@ -128,7 +128,7 @@ The Commission makes the following Order in exercise of the power conferred by s
 
 (4) The number of councillors to be elected for each parish ward is the number specified in relation to that parish ward in the second column of the table in Schedule 4.
 
-## 7. Parish wards of the parish of Epping Upland[^key-e702e0651cf5785af8c243b9bbb7f2b5]
+## 7. Parish wards of the parish of Epping Upland[^c-e702e0651cf5785af8c243b9bbb7f2b5]
 
 **Not yet in force.**
 
@@ -151,7 +151,7 @@ Local Government Boundary Commission for England
 
 Schedules
 
-## Schedule 1 — Electoral Divisions of Essex[^key-16f7c2124c0859729c38e3bc54ff9b78]
+## Schedule 1 — Electoral Divisions of Essex[^c-16f7c2124c0859729c38e3bc54ff9b78]
 
 Article 3
 
@@ -311,7 +311,7 @@ Article 3
 
 **78.** Woodham Ferrers
 
-## Schedule 2 — Names of parish wards and number of councillors for the parish of Wickford[^key-1bc8fd95ee4647a0dc02acaa437b32a1]
+## Schedule 2 — Names of parish wards and number of councillors for the parish of Wickford[^c-1bc8fd95ee4647a0dc02acaa437b32a1]
 
 Article 4
 
@@ -322,7 +322,7 @@ Article 4
 | Wickford North | 7 |
 | Wickford Park | 4 |
 
-## Schedule 3 — Names of parish wards and number of councillors for the parishes of Chelmsford Garden, Ramsey & Parkeston, Rayleigh and Rochford[^key-0a2d90f6364897855144bb097f6cae52]
+## Schedule 3 — Names of parish wards and number of councillors for the parishes of Chelmsford Garden, Ramsey & Parkeston, Rayleigh and Rochford[^c-0a2d90f6364897855144bb097f6cae52]
 
 **Not yet in force.**
 
@@ -376,7 +376,7 @@ Article 5
 | South East | 3 |
 | Waterman | 2 |
 
-## Schedule 4 — Names of parish wards and number of councillors for the parish of Billericay[^key-7bc42d9313229351f1efadc38119482a]
+## Schedule 4 — Names of parish wards and number of councillors for the parish of Billericay[^c-7bc42d9313229351f1efadc38119482a]
 
 **Not yet in force.**
 
@@ -413,30 +413,30 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: The report is available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 7th Floor, 3 Bunhill Row, London EC1Y 8YZ. It is also accessible online at https://www.lgbce.org.uk/all-reviews/essex.
 
-[^key-8bf0c1be9a1af5e01da4c93f89aa5972]: Commencement: Art. 1 in force at 14.11.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/2)
+[^c-8bf0c1be9a1af5e01da4c93f89aa5972]: Commencement: Art. 1 in force at 14.11.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/2)
 
 [^f00004]: Footnote: The ordinary day of election of councillors in England is prescribed by section 37(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2), as amended by section 18(2) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), renumbered by paragraph 5 of Schedule 3 to the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), and further amended by section 6(16) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-188fe93401577c2def85221d01cc7153]: Textual amendment: Word in [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/3/b) substituted (4.3.2025) by [The Local Authorities (Changes to Years of Ordinary Elections) (England) Order 2025 (S.I. 2025/137)](https://www.legislation.gov.uk/uksi/2025/137), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1), [5(1)(f)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/f)
+[^c-188fe93401577c2def85221d01cc7153]: Textual amendment: Word in [art. 1(3)(b)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/3/b) substituted (4.3.2025) by [The Local Authorities (Changes to Years of Ordinary Elections) (England) Order 2025 (S.I. 2025/137)](https://www.legislation.gov.uk/uksi/2025/137), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/137/article/1/1), [5(1)(f)](https://www.legislation.gov.uk/uksi/2025/137/article/5/1/f)
 
-[^key-d40c55df2b7ee4b2b61f3579b502102d]: Commencement: Art. 2 in force at 14.11.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/2)
+[^c-d40c55df2b7ee4b2b61f3579b502102d]: Commencement: Art. 2 in force at 14.11.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/2)
 
 [^f00005]: Footnote: Prints of the map are available for inspection at reasonable times at the principal office of the Local Government Boundary Commission for England, 7th Floor, 3 Bunhill Row, London EC1Y 8YZ. It is also accessible online at https://www.lgbce.org.uk/all-reviews/essex.
 
-[^key-72e366730e7b5b9388bcaeecb4827dd6]: Commencement: Art. 3 in force at 14.11.2024 for specified purposes and on the ordinary day of election of councillors in England in 2026 otherwise, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/3)
+[^c-72e366730e7b5b9388bcaeecb4827dd6]: Commencement: Art. 3 in force at 14.11.2024 for specified purposes and on the ordinary day of election of councillors in England in 2026 otherwise, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/3)
 
-[^key-0a1ba7379f3206c33df17d632bad13e0]: Commencement: Art. 4 in force at 15.10.2025 for specified purposes and on the ordinary day of election of councillors in England in 2026 otherwise, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/4)
+[^c-0a1ba7379f3206c33df17d632bad13e0]: Commencement: Art. 4 in force at 15.10.2025 for specified purposes and on the ordinary day of election of councillors in England in 2026 otherwise, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/4)
 
-[^key-4289beb7b22e1d3469b1e4a84098dba3]: Commencement: Art. 5 in force at 15.10.2026 for specified purposes and on the ordinary day of election of councillors in England in 2027 otherwise, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/5)
+[^c-4289beb7b22e1d3469b1e4a84098dba3]: Commencement: Art. 5 in force at 15.10.2026 for specified purposes and on the ordinary day of election of councillors in England in 2027 otherwise, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/5)
 
-[^key-77b63d6e707c53ad70d238b811235b30]: Commencement: Art. 6 in force at 15.10.2027 for specified purposes and on the ordinary day of election of councillors in England in 2028 otherwise, see [art. 1(6)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/6)
+[^c-77b63d6e707c53ad70d238b811235b30]: Commencement: Art. 6 in force at 15.10.2027 for specified purposes and on the ordinary day of election of councillors in England in 2028 otherwise, see [art. 1(6)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/6)
 
-[^key-e702e0651cf5785af8c243b9bbb7f2b5]: Commencement: Art. 7 in force at 15.10.2027 for specified purposes and on the ordinary day of election of councillors in England in 2028 otherwise, see [art. 1(6)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/6)
+[^c-e702e0651cf5785af8c243b9bbb7f2b5]: Commencement: Art. 7 in force at 15.10.2027 for specified purposes and on the ordinary day of election of councillors in England in 2028 otherwise, see [art. 1(6)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/6)
 
-[^key-16f7c2124c0859729c38e3bc54ff9b78]: Commencement: Sch. 1 in force at 14.11.2024 for specified purposes and on the ordinary day of election of councillors in England in 2026 otherwise, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/3)
+[^c-16f7c2124c0859729c38e3bc54ff9b78]: Commencement: Sch. 1 in force at 14.11.2024 for specified purposes and on the ordinary day of election of councillors in England in 2026 otherwise, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/3)
 
-[^key-1bc8fd95ee4647a0dc02acaa437b32a1]: Commencement: Sch. 2 in force at 15.10.2025 for specified purposes and on the ordinary day of election of councillors in England in 2026 otherwise, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/4)
+[^c-1bc8fd95ee4647a0dc02acaa437b32a1]: Commencement: Sch. 2 in force at 15.10.2025 for specified purposes and on the ordinary day of election of councillors in England in 2026 otherwise, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/4)
 
-[^key-0a2d90f6364897855144bb097f6cae52]: Commencement: Sch. 3 in force at 15.10.2026 ffor specified purposes and on the ordinary day of election of councillors in England in 2027 otherwise, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/5)
+[^c-0a2d90f6364897855144bb097f6cae52]: Commencement: Sch. 3 in force at 15.10.2026 ffor specified purposes and on the ordinary day of election of councillors in England in 2027 otherwise, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/5)
 
-[^key-7bc42d9313229351f1efadc38119482a]: Commencement: Sch. 4 in force at 15.10.2027 for specified purposes and on the ordinary day of election of councillors in England in 2028 otherwise, see [art. 1(6)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/6)
+[^c-7bc42d9313229351f1efadc38119482a]: Commencement: Sch. 4 in force at 15.10.2027 for specified purposes and on the ordinary day of election of councillors in England in 2028 otherwise, see [art. 1(6)](https://www.legislation.gov.uk/uksi/2024/1180/article/1/6)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 398A. Election out of qualifying change of ownership[^key-284c8fe9061a9ae552cd287c0c2c9556]
+## 398A. Election out of qualifying change of ownership[^c-284c8fe9061a9ae552cd287c0c2c9556]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies if—
 
-- (a) on any day before 23 March 2011[^key-13cfdf096c96cab6f8e1753bab3f83c0] (“ **the relevant day** ”) a company (“A”) carries on a business of leasing plant or machinery otherwise than in partnership,
+- (a) on any day before 23 March 2011[^c-13cfdf096c96cab6f8e1753bab3f83c0] (“ **the relevant day** ”) a company (“A”) carries on a business of leasing plant or machinery otherwise than in partnership,
 - (b) there is a relevant change in the relationship between A and a principal company of A (“P”) on the relevant day, and
 - (c) an election that this section is to apply is made by A.
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-284c8fe9061a9ae552cd287c0c2c9556]: Textual amendment: Ss. 398A-398G and cross-heading inserted (with effect in accordance with Sch. 18 para. 9 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2010/13/schedule/18/paragraph/6) (with [Sch. 18 paras. 11-13](https://www.legislation.gov.uk/ukpga/2010/13/schedule/18/paragraph/11))
+[^c-284c8fe9061a9ae552cd287c0c2c9556]: Textual amendment: Ss. 398A-398G and cross-heading inserted (with effect in accordance with Sch. 18 para. 9 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2010/13/schedule/18/paragraph/6) (with [Sch. 18 paras. 11-13](https://www.legislation.gov.uk/ukpga/2010/13/schedule/18/paragraph/11))
 
-[^key-13cfdf096c96cab6f8e1753bab3f83c0]: Textual amendment: Words in s. 398A(1)(a) inserted (retrospective to 23.3.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 54(1)](https://www.legislation.gov.uk/ukpga/2011/11/section/54/1)[(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/54/2)
+[^c-13cfdf096c96cab6f8e1753bab3f83c0]: Textual amendment: Words in s. 398A(1)(a) inserted (retrospective to 23.3.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 54(1)](https://www.legislation.gov.uk/ukpga/2011/11/section/54/1)[(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/54/2)

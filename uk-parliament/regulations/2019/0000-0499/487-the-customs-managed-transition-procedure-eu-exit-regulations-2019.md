@@ -48,15 +48,15 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, the Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the European Union, that provisions of the following Regulations come into force on such day as the Treasury may by regulations under section 52 of that Act appoint.
 
-## PART 1 — Introductory provisions[^key-3aef42655a2acb1bba89d954c5d1a59f]
+## PART 1 — Introductory provisions[^c-3aef42655a2acb1bba89d954c5d1a59f]
 
-### 1. Citation, commencement and effect[^key-c7c55c65de4351c033d6e1f975b94f96][^key-fa9a5c42bc9c534376b9f3b6d3a9f378][^key-3aef42655a2acb1bba89d954c5d1a59f][^key-3aef42655a2acb1bba89d954c5d1a59f]
+### 1. Citation, commencement and effect[^c-c7c55c65de4351c033d6e1f975b94f96][^c-fa9a5c42bc9c534376b9f3b6d3a9f378][^c-3aef42655a2acb1bba89d954c5d1a59f][^c-3aef42655a2acb1bba89d954c5d1a59f]
 
 (1) These Regulations may be cited as the Customs (Managed Transition Procedure) (EU Exit) Regulations 2019.
 
 (2) These Regulations come into force on such day (“**the appointed day**”) as the Treasury may by regulations under section 52 of the Act appoint.
 
-(3) These Regulations cease to have effect at the end of the period of 24[^key-45e73bf23f3d75a526484d6fdac00a67] months beginning with the appointed day (subject to their ceasing to have effect at an earlier time under paragraph (4)).
+(3) These Regulations cease to have effect at the end of the period of 24[^c-45e73bf23f3d75a526484d6fdac00a67] months beginning with the appointed day (subject to their ceasing to have effect at an earlier time under paragraph (4)).
 
 (4) The Treasury may, by regulations made by statutory instrument, provide for these Regulations to cease to have effect from a specified day that falls before the end of that 24 month period.
 
@@ -66,19 +66,19 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 (7) In this regulation “**specified**” means specified in, or determined in accordance with, regulations made under paragraph (4).
 
-### 2. Interpretation etc.[^key-ab2af0700543b16d5e29d2fd611e8de7][^key-6e8dac99f27ac1576985f800f1fc8074][^key-3aef42655a2acb1bba89d954c5d1a59f][^key-3aef42655a2acb1bba89d954c5d1a59f]
+### 2. Interpretation etc.[^c-ab2af0700543b16d5e29d2fd611e8de7][^c-6e8dac99f27ac1576985f800f1fc8074][^c-3aef42655a2acb1bba89d954c5d1a59f][^c-3aef42655a2acb1bba89d954c5d1a59f]
 
 (1) Parts 2 and 3 of these Regulations are to be read as if they were contained in Part 1 of the Act.
 
 (2) In these Regulations “**the Act**” means the Taxation (Cross-border Trade) Act 2018.
 
-## PART 2 — Importations[^key-4aa5ae7f10bc388bac221aa85d736936]
+## PART 2 — Importations[^c-4aa5ae7f10bc388bac221aa85d736936]
 
-### 3. Application of Part 2[^key-32879564b669954eb36b1f8eb1b53424][^key-8db17052444bb063dc1b63df7abf8b0f][^key-4aa5ae7f10bc388bac221aa85d736936][^key-4aa5ae7f10bc388bac221aa85d736936]
+### 3. Application of Part 2[^c-32879564b669954eb36b1f8eb1b53424][^c-8db17052444bb063dc1b63df7abf8b0f][^c-4aa5ae7f10bc388bac221aa85d736936][^c-4aa5ae7f10bc388bac221aa85d736936]
 
 (1) This Part applies in any case where—
 
-- (a) an eligible person imports goods into the United Kingdom and the import occurs as a result of the entry of the goods into Great Britain[^key-bb3ef3ecab4787cc434a13c040a4d710];
+- (a) an eligible person imports goods into the United Kingdom and the import occurs as a result of the entry of the goods into Great Britain[^c-bb3ef3ecab4787cc434a13c040a4d710];
 - (b) the goods are not excepted goods; and
 - (c) the importation occurs—
   - (i) at a place specified in a public notice given by HMRC Commissioners [^c23625701]; and
@@ -110,7 +110,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 - (a) any reference to the time a notice is given means the time at which the HMRC officer issues the notice;
 - (b) “**excepted goods**” means goods of a description specified in a public notice given by HMRC Commissioners.
 
-### 4. Making of a Customs declaration for the free-circulation procedure[^key-70c6c5d5ac9aa02a073e9086c5896bd6][^key-a63bcbcf74566ff36cf4c2db2517c900][^key-4aa5ae7f10bc388bac221aa85d736936][^key-4aa5ae7f10bc388bac221aa85d736936]
+### 4. Making of a Customs declaration for the free-circulation procedure[^c-70c6c5d5ac9aa02a073e9086c5896bd6][^c-a63bcbcf74566ff36cf4c2db2517c900][^c-4aa5ae7f10bc388bac221aa85d736936][^c-4aa5ae7f10bc388bac221aa85d736936]
 
 (1) The eligible person may, by conduct of a description specified in a public notice given by HMRC Commissioners, declare the goods for the free-circulation procedure [^c23625731].
 
@@ -126,7 +126,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 - (b) cease to be chargeable goods; and
 - (c) become domestic goods.
 
-### 5. Completion of the Customs declaration[^key-76a4a8bd6bb8c457b8738f4015a71998][^key-2b504ca66fb95d35502a2e29bf0b5243][^key-4aa5ae7f10bc388bac221aa85d736936][^key-4aa5ae7f10bc388bac221aa85d736936]
+### 5. Completion of the Customs declaration[^c-76a4a8bd6bb8c457b8738f4015a71998][^c-2b504ca66fb95d35502a2e29bf0b5243][^c-4aa5ae7f10bc388bac221aa85d736936][^c-4aa5ae7f10bc388bac221aa85d736936]
 
 (1) This regulation applies where goods are declared for the free-circulation procedure by conduct as provided for by regulation 4.
 
@@ -141,7 +141,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 (5) If a Customs declaration is not completed under this regulation, it is to be regarded as containing an inaccuracy for the purposes of Schedule 1 to the Act (and references in that Schedule to correcting a Customs declaration are to be read accordingly).
 
-### 6. Imported goods not to be subject to the control of any HMRC officer[^key-254e5937eb643a124b32122c6a86099b][^key-be001ccabe0e3d6337370d5d6bb2c3e1][^key-4aa5ae7f10bc388bac221aa85d736936][^key-4aa5ae7f10bc388bac221aa85d736936]
+### 6. Imported goods not to be subject to the control of any HMRC officer[^c-254e5937eb643a124b32122c6a86099b][^c-be001ccabe0e3d6337370d5d6bb2c3e1][^c-4aa5ae7f10bc388bac221aa85d736936][^c-4aa5ae7f10bc388bac221aa85d736936]
 
 (1) This regulation applies where—
 
@@ -150,17 +150,17 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 (2) As soon as the goods leave that place, they are no longer subject to the control of any HMRC officer (and accordingly, nothing in paragraph 17 of Schedule 1 to the Act applies in relation to the goods).
 
-### 7. Verification[^key-6e6cfa68503cee99053be39a92ea085e][^key-5285cb63cae3eaed40ef2192d0ef1459][^key-4aa5ae7f10bc388bac221aa85d736936][^key-4aa5ae7f10bc388bac221aa85d736936]
+### 7. Verification[^c-6e6cfa68503cee99053be39a92ea085e][^c-5285cb63cae3eaed40ef2192d0ef1459][^c-4aa5ae7f10bc388bac221aa85d736936][^c-4aa5ae7f10bc388bac221aa85d736936]
 
 Nothing in this Part prevents the subsequent exercise of a power to verify a declaration under paragraph 13 of Schedule 1 to the Act.
 
 ## PART 3 — Exports
 
-### 8. Application of Part 3[^key-215e003920e6f8e332830efdb32d6532][^key-1be91e25087913b6e49128fab24724d9]
+### 8. Application of Part 3[^c-215e003920e6f8e332830efdb32d6532][^c-1be91e25087913b6e49128fab24724d9]
 
 (1) This Part applies in any case where—
 
-- (a) an eligible person undertakes to export, and exports, goods from the United Kingdom and the export occurs as a result of the removal of the goods from Great Britain[^key-4d297192f7a0af36a37cd352e465d3b1];
+- (a) an eligible person undertakes to export, and exports, goods from the United Kingdom and the export occurs as a result of the removal of the goods from Great Britain[^c-4d297192f7a0af36a37cd352e465d3b1];
 - (b) the goods are not excepted goods; and
 - (c) the export is to occur, and occurs—
   - (i) at a place specified in a public notice given by HMRC Commissioners; and
@@ -192,7 +192,7 @@ Nothing in this Part prevents the subsequent exercise of a power to verify a dec
 - (a) any reference to the time a notice is given means the time at which the HMRC officer issues the notice;
 - (b) “**excepted goods**” means goods of a description specified in a public notice given by HMRC Commissioners.
 
-### 9. Making of a declaration for a common export procedure[^key-1d215efabaa74feb4850a467efd43893][^key-f0825c4aea62046c692c54a7f72c932a]
+### 9. Making of a declaration for a common export procedure[^c-1d215efabaa74feb4850a467efd43893][^c-f0825c4aea62046c692c54a7f72c932a]
 
 (1) The eligible person may, by conduct of a description specified in a public notice given by HMRC Commissioners, declare the goods for a common export procedure for the purposes of regulation 5(a) of the Customs (Export) (EU Exit) Regulations 2019 [^c23625741].
 
@@ -210,7 +210,7 @@ Nothing in this Part prevents the subsequent exercise of a power to verify a dec
 - (b) the obligation to make goods available for examination under regulation 40 of those Regulations does not apply; and
 - (c) no notification of discharge from the procedure is required to be made to the declarant under regulation 50(1) of those Regulations.
 
-### 10. Completion of the export declaration[^key-d11e7b61185b307e124f1d15a573caaf][^key-6c00965ca332c4ccaf27f79ecff4a0ef]
+### 10. Completion of the export declaration[^c-d11e7b61185b307e124f1d15a573caaf][^c-6c00965ca332c4ccaf27f79ecff4a0ef]
 
 (1) This regulation applies where goods are declared for a common export procedure by conduct as provided for by regulation 9.
 
@@ -223,13 +223,13 @@ Nothing in this Part prevents the subsequent exercise of a power to verify a dec
 
 (4) If an export declaration is not completed under this regulation, it is to be regarded as containing an inaccuracy for the purposes of regulation 46 of the Customs (Export) (EU Exit) Regulations 2019 (and references in that regulation to correcting an export declaration are to be read accordingly).
 
-### 11. Verification[^key-2555db68d9ee27d2d49893fd84f8527c][^key-77e71f94bf0d60ef74eeef1566375e08]
+### 11. Verification[^c-2555db68d9ee27d2d49893fd84f8527c][^c-77e71f94bf0d60ef74eeef1566375e08]
 
 Nothing in this Part prevents the subsequent exercise of a power to verify an export declaration under the Customs (Export) (EU Exit) Regulations 2019.
 
 ## PART 4 — Contravention
 
-### 12. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^key-ba756425f71e29e7d90dd4e7a256c155][^key-01ffba8c6106a051dab28954c52d6568]
+### 12. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^c-ba756425f71e29e7d90dd4e7a256c155][^c-01ffba8c6106a051dab28954c52d6568]
 
 (1) The Schedule to the Customs (Contravention of a Relevant Rule) Regulations 2003 [^c23625761] is amended as follows.
 
@@ -287,25 +287,25 @@ This instrument will be covered by an overarching HMRC impact assessment (third 
 
 [^c23625691]: Marginal citation: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14). Section 26 was amended by paragraph 150 of Schedule 7 to the [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-3aef42655a2acb1bba89d954c5d1a59f]: Modification: [Pt. 1](https://www.legislation.gov.uk/uksi/2019/487/part/1) applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2020/1605/regulation/35); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-3aef42655a2acb1bba89d954c5d1a59f]: Modification: [Pt. 1](https://www.legislation.gov.uk/uksi/2019/487/part/1) applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2020/1605/regulation/35); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-c7c55c65de4351c033d6e1f975b94f96]: Commencement: Reg. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
+[^c-c7c55c65de4351c033d6e1f975b94f96]: Commencement: Reg. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
 
-[^key-fa9a5c42bc9c534376b9f3b6d3a9f378]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/487/regulation/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-fa9a5c42bc9c534376b9f3b6d3a9f378]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/487/regulation/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-45e73bf23f3d75a526484d6fdac00a67]: Textual amendment: Word in reg. 1 substituted (31.12.2021) by [The Customs and Value Added Tax (Managed Transition Procedure) (EU Exit) Regulations 2021 (S.I. 2021/1375)](https://www.legislation.gov.uk/uksi/2021/1375), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1375/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1375/regulation/2/2)
+[^c-45e73bf23f3d75a526484d6fdac00a67]: Textual amendment: Word in reg. 1 substituted (31.12.2021) by [The Customs and Value Added Tax (Managed Transition Procedure) (EU Exit) Regulations 2021 (S.I. 2021/1375)](https://www.legislation.gov.uk/uksi/2021/1375), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1375/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1375/regulation/2/2)
 
-[^key-ab2af0700543b16d5e29d2fd611e8de7]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
+[^c-ab2af0700543b16d5e29d2fd611e8de7]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
 
-[^key-6e8dac99f27ac1576985f800f1fc8074]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/487/regulation/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-6e8dac99f27ac1576985f800f1fc8074]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/487/regulation/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-4aa5ae7f10bc388bac221aa85d736936]: Modification: Pt. 2 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2020/1605/regulation/35); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-4aa5ae7f10bc388bac221aa85d736936]: Modification: Pt. 2 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2020/1605/regulation/35); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-32879564b669954eb36b1f8eb1b53424]: Commencement: Reg. 3 not in force at made date, see reg. 1(2)
+[^c-32879564b669954eb36b1f8eb1b53424]: Commencement: Reg. 3 not in force at made date, see reg. 1(2)
 
-[^key-8db17052444bb063dc1b63df7abf8b0f]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-8db17052444bb063dc1b63df7abf8b0f]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-bb3ef3ecab4787cc434a13c040a4d710]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2019/487/regulation/3/1/a) inserted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [41(2)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/41/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-bb3ef3ecab4787cc434a13c040a4d710]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2019/487/regulation/3/1/a) inserted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [41(2)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/41/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23625701]: Marginal citation: Section 37(4) of the Taxation (Cross-border Trade) Act 2018 (c 22) (“**the Act**”) provides that a reference in any provision of Part 1 of the Act to a public notice is to a notice published by the Secretary of State, or (as the case may be) HMRC Commissioners, in such manner as the person giving the notice considers appropriate for the purposes of that provision.
 
@@ -313,49 +313,49 @@ This instrument will be covered by an overarching HMRC impact assessment (third 
 
 [^c23625721]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9); Chapter 2 of Part 1 was relevantly amended by [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56) and 2014/1264.
 
-[^key-70c6c5d5ac9aa02a073e9086c5896bd6]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
+[^c-70c6c5d5ac9aa02a073e9086c5896bd6]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
 
-[^key-a63bcbcf74566ff36cf4c2db2517c900]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/487/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a63bcbcf74566ff36cf4c2db2517c900]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/487/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23625731]: Marginal citation: “The free-circulation procedure” is defined in section 3 of the Act.
 
-[^key-76a4a8bd6bb8c457b8738f4015a71998]: Commencement: Reg. 5 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
+[^c-76a4a8bd6bb8c457b8738f4015a71998]: Commencement: Reg. 5 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
 
-[^key-2b504ca66fb95d35502a2e29bf0b5243]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/487/regulation/5) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-2b504ca66fb95d35502a2e29bf0b5243]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/487/regulation/5) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-254e5937eb643a124b32122c6a86099b]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
+[^c-254e5937eb643a124b32122c6a86099b]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
 
-[^key-be001ccabe0e3d6337370d5d6bb2c3e1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/487/regulation/6) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-be001ccabe0e3d6337370d5d6bb2c3e1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/487/regulation/6) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-6e6cfa68503cee99053be39a92ea085e]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
+[^c-6e6cfa68503cee99053be39a92ea085e]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
 
-[^key-5285cb63cae3eaed40ef2192d0ef1459]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/487/regulation/7) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-5285cb63cae3eaed40ef2192d0ef1459]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/487/regulation/7) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-215e003920e6f8e332830efdb32d6532]: Commencement: Reg. 8 not in force at made date, see reg. 1(2)
+[^c-215e003920e6f8e332830efdb32d6532]: Commencement: Reg. 8 not in force at made date, see reg. 1(2)
 
-[^key-1be91e25087913b6e49128fab24724d9]: Commencement: Reg. 8 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-1be91e25087913b6e49128fab24724d9]: Commencement: Reg. 8 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-4d297192f7a0af36a37cd352e465d3b1]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2019/487/regulation/8/1/a) inserted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [41(3)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/41/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-4d297192f7a0af36a37cd352e465d3b1]: Textual amendment: Words in [reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2019/487/regulation/8/1/a) inserted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [41(3)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/41/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-1d215efabaa74feb4850a467efd43893]: Commencement: Reg. 9 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
+[^c-1d215efabaa74feb4850a467efd43893]: Commencement: Reg. 9 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
 
-[^key-f0825c4aea62046c692c54a7f72c932a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/487/regulation/9) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-f0825c4aea62046c692c54a7f72c932a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/487/regulation/9) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23625741]: Marginal citation: [S.I. 2019/108](https://www.legislation.gov.uk/uksi/2019/108). Regulation 5(a) provides that declaring goods for a common export procedure is one method by which an export of goods can be made in accordance with a procedure for the purposes of the applicable export provisions for the purposes of section 35(2) of the Act.
 
 [^c23625751]: Marginal citation: [Regulation 51](https://www.legislation.gov.uk/uksi/2019/487/regulation/51) sets out the requirement of a notification of exportation of goods from the United Kingdom for the purposes of section 33(4) of the Act, which sets out when goods are presented to Customs on export.
 
-[^key-d11e7b61185b307e124f1d15a573caaf]: Commencement: Reg. 10 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
+[^c-d11e7b61185b307e124f1d15a573caaf]: Commencement: Reg. 10 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
 
-[^key-6c00965ca332c4ccaf27f79ecff4a0ef]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/487/regulation/10) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-6c00965ca332c4ccaf27f79ecff4a0ef]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/487/regulation/10) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-2555db68d9ee27d2d49893fd84f8527c]: Commencement: Reg. 11 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
+[^c-2555db68d9ee27d2d49893fd84f8527c]: Commencement: Reg. 11 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
 
-[^key-77e71f94bf0d60ef74eeef1566375e08]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/487/regulation/11) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-77e71f94bf0d60ef74eeef1566375e08]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/487/regulation/11) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-ba756425f71e29e7d90dd4e7a256c155]: Commencement: Reg. 12 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
+[^c-ba756425f71e29e7d90dd4e7a256c155]: Commencement: Reg. 12 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)
 
-[^key-01ffba8c6106a051dab28954c52d6568]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/487/regulation/12) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-01ffba8c6106a051dab28954c52d6568]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/487/regulation/12) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23625761]: Marginal citation: [S.I. 2003/3113](https://www.legislation.gov.uk/uksi/2003/3113) amended by [S.I. 2009/3164](https://www.legislation.gov.uk/uksi/2009/3164), 2011/2534, 2015/636, 2018/483, 2018/1260, 2019/148 and 2019/326.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Trading in allowances[^key-1036c31b321d2924f98502fc5c903ede]
+## 23. Trading in allowances[^c-1036c31b321d2924f98502fc5c903ede]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Allowances may be traded, except where prohibited by other legislation.
 
 ## Annotations
 
-[^key-1036c31b321d2924f98502fc5c903ede]: Commencement: Art. 23 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-1036c31b321d2924f98502fc5c903ede]: Commencement: Art. 23 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 273. Charge for copy documents[^key-256c314a74556730a65ab1dc2883c06c]
+## 273. Charge for copy documents[^c-256c314a74556730a65ab1dc2883c06c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 12.17 of the 1991 Rules.
 
 ## Annotations
 
-[^key-256c314a74556730a65ab1dc2883c06c]: Commencement: Rule 273 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-256c314a74556730a65ab1dc2883c06c]: Commencement: Rule 273 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

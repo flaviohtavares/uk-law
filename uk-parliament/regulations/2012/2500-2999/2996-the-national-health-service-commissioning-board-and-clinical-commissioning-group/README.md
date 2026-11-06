@@ -55,14 +55,14 @@ Before deciding to make regulations under section 3B of the National Health Serv
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — Persons for whom a CCG has responsibility[^key-26dc827451e99420e44d02f7baeba9f1]
+### PART 2 — Persons for whom a CCG has responsibility[^c-26dc827451e99420e44d02f7baeba9f1]
 
 **No longer in force.**
 
 - [Section 3 — Interpretation of Part 2](part-2/section-3.md)
 - [Section 4 — Additional persons for whom a CCG has responsibility](part-2/section-4.md)
 
-### PART 3 — Services to be commissioned by NHS England[^key-c31464ebf700c58b40bc343c24a900bf]
+### PART 3 — Services to be commissioned by NHS England[^c-c31464ebf700c58b40bc343c24a900bf]
 
 *Extent: E+W*
 
@@ -77,7 +77,7 @@ Before deciding to make regulations under section 3B of the National Health Serv
 - [Section 12 — Assessment, diagnostic, elective and minor elective care services provided by Independent Sector Treatment Centres](part-3/section-12.md)
 - [Section 13 — Fixated threat assessment services](part-3/section-13.md)
 
-### PART 4 — Mental health after-care services[^key-e508a137ea28d60332680f91acce9c28]
+### PART 4 — Mental health after-care services[^c-e508a137ea28d60332680f91acce9c28]
 
 **No longer in force.**
 
@@ -107,7 +107,7 @@ Before deciding to make regulations under section 3B of the National Health Serv
 - [Section 31 — Urgent need](part-6/section-31.md)
 - [Section 32 — Revocation and transitional provisions](part-6/section-32.md)
 
-### Part 6A — Standing rules: personal health budgets[^key-de9250230125b5a168135a5cf4df4e71]
+### Part 6A — Standing rules: personal health budgets[^c-de9250230125b5a168135a5cf4df4e71]
 
 - [Section 32A — Interpretation](part-6a/section-32a.md)
 - [Section 32B — Duties of relevant bodies in relation to personal health budgets](part-6a/section-32b.md)
@@ -150,13 +150,13 @@ Before deciding to make regulations under section 3B of the National Health Serv
 - [Section 54 — Advice and assistance](part-9/section-54.md)
 - [Section 55 — Transitional provision](part-9/section-55.md)
 
-### PART 10 — Standing rules: funding of therapies for Multiple Sclerosis[^key-340af8c10c865459aa15ace295b4bb6e]
+### PART 10 — Standing rules: funding of therapies for Multiple Sclerosis[^c-340af8c10c865459aa15ace295b4bb6e]
 
 **No longer in force.**
 
 - [Section 56 — Scheme for the funding of certain disease modifying therapies for Multiples Sclerosis](part-10/section-56.md)
 
-### PART 11 — Financial duties of a relevant body in relation to administration[^key-b3dab90c176e88150dd58d16a035ab37]
+### PART 11 — Financial duties of a relevant body in relation to administration[^c-b3dab90c176e88150dd58d16a035ab37]
 
 **No longer in force.**
 
@@ -220,14 +220,14 @@ A full impact assessment has been produced in relation to the provisions of the 
 
 [^c21467581]: Marginal citation: *See* paragraph 2(1) of Schedule 6 to the 2012 Act which enables the requirement in section 3B(4) of the 2006 Act (as inserted by section 15 of the 2012 Act) for the Secretary of State to consult the National Health Service Commissioning Board (“**the Board**”) to be fulfilled if, before the commencement of section 9 of the 2012 Act, the Secretary of State consults a Special Health Authority. Before making these Regulations and the commencement of section 9 on 1st October 2012 (see [S.I](https://www.legislation.gov.uk/uksi/2012/2996/section/I). 2012/1831), the Secretary of State consulted the NHS Commissioning Board Authority (“**the Authority**”), a Special Health Authority established under section 28 of the 2006 Act for the purpose of preparing for the establishment and operation of the Board. The Authority was established by the [NHS Commissioning Board Authority (Establishment and Constitution) Order 2011 (S.I. 2011/2237)](https://www.legislation.gov.uk/uksi/2011/2237) and is abolished by virtue of provision in Part 2 of the [NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012 (S.I. 2012/1641)](https://www.legislation.gov.uk/uksi/2012/1641).
 
-[^key-26dc827451e99420e44d02f7baeba9f1]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2012/2996/part/2) omitted (1.7.2022) by virtue of [The National Health Service (Integrated Care Boards: Responsibilities) Regulations 2022 (S.I. 2022/635)](https://www.legislation.gov.uk/uksi/2022/635), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/635/regulation/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2022/635/regulation/9/4/a)
+[^c-26dc827451e99420e44d02f7baeba9f1]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2012/2996/part/2) omitted (1.7.2022) by virtue of [The National Health Service (Integrated Care Boards: Responsibilities) Regulations 2022 (S.I. 2022/635)](https://www.legislation.gov.uk/uksi/2022/635), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/635/regulation/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2022/635/regulation/9/4/a)
 
-[^key-c31464ebf700c58b40bc343c24a900bf]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-c31464ebf700c58b40bc343c24a900bf]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-e508a137ea28d60332680f91acce9c28]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2012/2996/part/4) omitted (1.7.2022) by virtue of [The National Health Service (Integrated Care Boards: Responsibilities) Regulations 2022 (S.I. 2022/635)](https://www.legislation.gov.uk/uksi/2022/635), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/635/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2022/635/regulation/9/4/b)
+[^c-e508a137ea28d60332680f91acce9c28]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2012/2996/part/4) omitted (1.7.2022) by virtue of [The National Health Service (Integrated Care Boards: Responsibilities) Regulations 2022 (S.I. 2022/635)](https://www.legislation.gov.uk/uksi/2022/635), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/635/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2022/635/regulation/9/4/b)
 
-[^key-de9250230125b5a168135a5cf4df4e71]: Textual amendment: Pt. 6A inserted (1.4.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2013 (S.I. 2013/2891)](https://www.legislation.gov.uk/uksi/2013/2891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2891/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2013/2891/regulation/3)
+[^c-de9250230125b5a168135a5cf4df4e71]: Textual amendment: Pt. 6A inserted (1.4.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2013 (S.I. 2013/2891)](https://www.legislation.gov.uk/uksi/2013/2891), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2891/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2013/2891/regulation/3)
 
-[^key-340af8c10c865459aa15ace295b4bb6e]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/2012/2996/part/10) omitted (1.4.2024) by virtue of [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2024 (S.I. 2024/302)](https://www.legislation.gov.uk/uksi/2024/302), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/302/regulation/1/b), [2(11)](https://www.legislation.gov.uk/uksi/2024/302/regulation/2/11)
+[^c-340af8c10c865459aa15ace295b4bb6e]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/2012/2996/part/10) omitted (1.4.2024) by virtue of [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2024 (S.I. 2024/302)](https://www.legislation.gov.uk/uksi/2024/302), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/302/regulation/1/b), [2(11)](https://www.legislation.gov.uk/uksi/2024/302/regulation/2/11)
 
-[^key-b3dab90c176e88150dd58d16a035ab37]: Textual amendment: [Pt. 11](https://www.legislation.gov.uk/uksi/2012/2996/part/11) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [209(10)](https://www.legislation.gov.uk/uksi/2022/634/regulation/209/10)
+[^c-b3dab90c176e88150dd58d16a035ab37]: Textual amendment: [Pt. 11](https://www.legislation.gov.uk/uksi/2012/2996/part/11) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [209(10)](https://www.legislation.gov.uk/uksi/2022/634/regulation/209/10)

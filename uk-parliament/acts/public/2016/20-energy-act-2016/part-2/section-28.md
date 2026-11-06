@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Retention of information and samples[^key-ee18692f662f077160fba13532bebe9c]
+## 28. Retention of information and samples[^c-ee18692f662f077160fba13532bebe9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee18692f662f077160fba13532bebe9c]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2016/20/section/28) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-ee18692f662f077160fba13532bebe9c]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2016/20/section/28) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

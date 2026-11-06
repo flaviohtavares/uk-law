@@ -34,9 +34,9 @@ Section 29
 
 ### PART 2 — Amendments in connection with IFRS 17
 
-**2.**[^M_I_44e77259-a9d4-482d-a9f1-e6ab64d57677][^key-851d429022e5a7b5aa430cfd09c9609b] In FA 2012 omit section 79 (spreading of acquisition expenses).
+**2.**[^M_I_44e77259-a9d4-482d-a9f1-e6ab64d57677][^c-851d429022e5a7b5aa430cfd09c9609b] In FA 2012 omit section 79 (spreading of acquisition expenses).
 
-**3.**[^M_I_8c768403-82fa-453f-97fe-3bfdbc8ab5cf][^key-4e1fab0a5ec33c6f547bcc5a8e90f2ac] (1) In consequence of the amendment made by paragraph 2 the following amendments are made.
+**3.**[^M_I_8c768403-82fa-453f-97fe-3bfdbc8ab5cf][^c-4e1fab0a5ec33c6f547bcc5a8e90f2ac] (1) In consequence of the amendment made by paragraph 2 the following amendments are made.
 
 (2) In FA 2012—
 
@@ -60,30 +60,30 @@ Section 29
 
 (3) In section 1297 of CTA 2009 (basic life assurance and general annuity business) omit subsections (2) and (3).
 
-**4.**[^M_I_8ec1cced-fcc9-4055-fc93-b63860db9e95][^key-37d727f174bb9a755c9c6211210fffff] This Part comes into force on such day as the Treasury may by regulations appoint (and different days may be appointed for different purposes).
+**4.**[^M_I_8ec1cced-fcc9-4055-fc93-b63860db9e95][^c-37d727f174bb9a755c9c6211210fffff] This Part comes into force on such day as the Treasury may by regulations appoint (and different days may be appointed for different purposes).
 
-**5.**[^M_I_cde3115f-b8f1-46f7-fcaf-0fc402cd8149][^key-867eb69f372d188f288655d7c6c2430c] The Treasury may by regulations make transitional, transitory or saving provision in connection with the coming into force of this Part.
+**5.**[^M_I_cde3115f-b8f1-46f7-fcaf-0fc402cd8149][^c-867eb69f372d188f288655d7c6c2430c] The Treasury may by regulations make transitional, transitory or saving provision in connection with the coming into force of this Part.
 
-**6.**[^M_I_1fa84468-b45d-464e-c7ea-44d7f5bf6309][^key-1e0f9d815253a8cdf0f3107dd2144f07] Regulations under paragraph 5 may make different provision for different purposes.
+**6.**[^M_I_1fa84468-b45d-464e-c7ea-44d7f5bf6309][^c-1e0f9d815253a8cdf0f3107dd2144f07] Regulations under paragraph 5 may make different provision for different purposes.
 
 ## Annotations
 
 [^M_I_44e77259-a9d4-482d-a9f1-e6ab64d57677]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4)
 
-[^key-851d429022e5a7b5aa430cfd09c9609b]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/2) in force at 1.1.2023 with effect in relation to accounting periods of companies beginning on or after 1.1.2023 by [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))
+[^c-851d429022e5a7b5aa430cfd09c9609b]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/2) in force at 1.1.2023 with effect in relation to accounting periods of companies beginning on or after 1.1.2023 by [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))
 
 [^M_I_8c768403-82fa-453f-97fe-3bfdbc8ab5cf]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4)
 
-[^key-4e1fab0a5ec33c6f547bcc5a8e90f2ac]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/3) in force at 1.1.2023 with effect in relation to accounting periods of companies beginning on or after 1.1.2023 by [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))
+[^c-4e1fab0a5ec33c6f547bcc5a8e90f2ac]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/3) in force at 1.1.2023 with effect in relation to accounting periods of companies beginning on or after 1.1.2023 by [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/2))
 
 [^M_I_8ec1cced-fcc9-4055-fc93-b63860db9e95]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4)
 
-[^key-37d727f174bb9a755c9c6211210fffff]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4) in force at 1.1.2023 with effect in relation to accounting periods of companies beginning on or after 1.1.2023 by [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1)
+[^c-37d727f174bb9a755c9c6211210fffff]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4) in force at 1.1.2023 with effect in relation to accounting periods of companies beginning on or after 1.1.2023 by [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1)
 
 [^M_I_cde3115f-b8f1-46f7-fcaf-0fc402cd8149]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4)
 
-[^key-867eb69f372d188f288655d7c6c2430c]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/5) in force at 1.1.2023 with effect in relation to accounting periods of companies beginning on or after 1.1.2023 by [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1)
+[^c-867eb69f372d188f288655d7c6c2430c]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/5) in force at 1.1.2023 with effect in relation to accounting periods of companies beginning on or after 1.1.2023 by [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1)
 
 [^M_I_1fa84468-b45d-464e-c7ea-44d7f5bf6309]: Commencement: Sch. 5 para. 6 not in force at Royal Assent, see [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/4)
 
-[^key-1e0f9d815253a8cdf0f3107dd2144f07]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/6) in force at 1.1.2023 with effect in relation to accounting periods of companies beginning on or after 1.1.2023 by [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1)
+[^c-1e0f9d815253a8cdf0f3107dd2144f07]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/5/paragraph/6) in force at 1.1.2023 with effect in relation to accounting periods of companies beginning on or after 1.1.2023 by [S.I. 2022/1164](https://www.legislation.gov.uk/uksi/2022/1164), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2022/1164/regulation/2/1)

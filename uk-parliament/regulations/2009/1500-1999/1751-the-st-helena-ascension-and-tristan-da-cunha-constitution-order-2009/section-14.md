@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Power reserved to Her Majesty[^key-61a440c41bffe5bfd7a2ffc395416724]
+## 14. Power reserved to Her Majesty[^c-61a440c41bffe5bfd7a2ffc395416724]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ There is reserved to Her Majesty full power to make laws from time to time for t
 
 ## Annotations
 
-[^key-61a440c41bffe5bfd7a2ffc395416724]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2009/1751/article/14) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)
+[^c-61a440c41bffe5bfd7a2ffc395416724]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2009/1751/article/14) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)

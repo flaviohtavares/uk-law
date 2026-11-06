@@ -146,52 +146,52 @@ Articles 2 and 3
 
 ### I. INTRODUCTION
 
-**1.**[^key-b95688acedff6ce555241ec5d0ae7a56] The ACAS Arbitration Scheme (“**the Scheme**”) is implemented pursuant to section 212A of the Trade Union and Labour Relations (Consolidation) Act 1992 (“the 1992 Act”).
+**1.**[^c-b95688acedff6ce555241ec5d0ae7a56] The ACAS Arbitration Scheme (“**the Scheme**”) is implemented pursuant to section 212A of the Trade Union and Labour Relations (Consolidation) Act 1992 (“the 1992 Act”).
 
-**2.**[^key-798b7c4d7444676fc192cbe0822ac137] The Scheme provides a voluntary alternative to the employment tribunal for the resolution of unfair dismissal disputes, in the form of arbitration.
+**2.**[^c-798b7c4d7444676fc192cbe0822ac137] The Scheme provides a voluntary alternative to the employment tribunal for the resolution of unfair dismissal disputes, in the form of arbitration.
 
-**3.**[^key-79f0323f75c24029010f5aabb061bcd8] Resolution of disputes under the Scheme is intended to be confidential, informal, relatively fast and cost efficient. Procedures under the Scheme are non-legalistic, and far more flexible than the traditional model of the employment tribunal and the courts. For example (as explained in more detail below), the Scheme avoids the use of formal pleadings and formal witness and documentary procedures. Strict rules of evidence will not apply, and, as far as possible, instead of applying strict law or legal precedent, general principles of fairness and good conduct will be taken into account (including, for example, principles referred to in any relevant ACAS “Disciplinary and Grievance Procedures” Code of Practice or “Discipline and Grievances at Work” Handbook). Arbitral decisions (“**awards**”) will be final, with very limited opportunities for parties to appeal or otherwise challenge the result.
+**3.**[^c-79f0323f75c24029010f5aabb061bcd8] Resolution of disputes under the Scheme is intended to be confidential, informal, relatively fast and cost efficient. Procedures under the Scheme are non-legalistic, and far more flexible than the traditional model of the employment tribunal and the courts. For example (as explained in more detail below), the Scheme avoids the use of formal pleadings and formal witness and documentary procedures. Strict rules of evidence will not apply, and, as far as possible, instead of applying strict law or legal precedent, general principles of fairness and good conduct will be taken into account (including, for example, principles referred to in any relevant ACAS “Disciplinary and Grievance Procedures” Code of Practice or “Discipline and Grievances at Work” Handbook). Arbitral decisions (“**awards**”) will be final, with very limited opportunities for parties to appeal or otherwise challenge the result.
 
-**4.**[^key-1007db1b7b5f3b1d1716241a93c04dcb] The Scheme also caters for requirements imposed as a matter of law (eg, the Human Rights Act 1998, devolution issues, existing law in the field of arbitration and EC law).
+**4.**[^c-1007db1b7b5f3b1d1716241a93c04dcb] The Scheme also caters for requirements imposed as a matter of law (eg, the Human Rights Act 1998, devolution issues, existing law in the field of arbitration and EC law).
 
-**5.**[^key-1a1b055a6f155075ae16ad24086d89ab] The Scheme accommodates certain differences between the law of Scotland and the law of England and Wales relating to arbitrations generally. It does so by providing, to the extent necessary in order to accommodate those differences, separate provisions applicable to Scottish arbitrations on the one hand and to English or Welsh arbitrations on the other. For convenience, paragraphs that apply only to Scottish arbitrations are marked “S” and paragraphs that apply only to English or Welsh arbitrations are marked “EW”.
+**5.**[^c-1a1b055a6f155075ae16ad24086d89ab] The Scheme accommodates certain differences between the law of Scotland and the law of England and Wales relating to arbitrations generally. It does so by providing, to the extent necessary in order to accommodate those differences, separate provisions applicable to Scottish arbitrations on the one hand and to English or Welsh arbitrations on the other. For convenience, paragraphs that apply only to Scottish arbitrations are marked “S” and paragraphs that apply only to English or Welsh arbitrations are marked “EW”.
 
 ### II. THE ROLE OF ACAS
 
-**6.**[^key-075a1513f65fb30a76ecd0cb384c8d16] As more fully explained below, cases enter the Scheme by reference to ACAS, which appoints an arbitrator from a panel (see paragraphs 41 to 43 below) to determine the dispute. ACAS provides administrative assistance during the proceedings, and may scrutinise awards and refer any clerical or other similar errors back to the arbitrator. Disputes are determined, however, by arbitrators and not by ACAS.
+**6.**[^c-075a1513f65fb30a76ecd0cb384c8d16] As more fully explained below, cases enter the Scheme by reference to ACAS, which appoints an arbitrator from a panel (see paragraphs 41 to 43 below) to determine the dispute. ACAS provides administrative assistance during the proceedings, and may scrutinise awards and refer any clerical or other similar errors back to the arbitrator. Disputes are determined, however, by arbitrators and not by ACAS.
 
 #### Routing of Communications
 
-**7.**[^key-550210c67c60a867b17045f9a57251a5] Unless in the course of a hearing, all communications between either party and the arbitrator shall be sent via the ACAS Arbitration Section.
+**7.**[^c-550210c67c60a867b17045f9a57251a5] Unless in the course of a hearing, all communications between either party and the arbitrator shall be sent via the ACAS Arbitration Section.
 
-**8.**[^key-42f0327ce3ef9fd9fc2d7f613ec881fd] Paragraph 218 below sets out the manner in which any document, notice or communication must be served on, or transmitted to, ACAS or the ACAS Arbitration Section.
+**8.**[^c-42f0327ce3ef9fd9fc2d7f613ec881fd] Paragraph 218 below sets out the manner in which any document, notice or communication must be served on, or transmitted to, ACAS or the ACAS Arbitration Section.
 
 ### III. TERMS AND ABBREVIATIONS
 
-**9.**[^key-4d0a7095359a0cb66a49b6609e7d5db2] The term “Employee” is used to denote the claimant (ie the former employee), including any person entitled to pursue a claim arising out of a contravention, or alleged contravention, of Part X of the Employment Rights Act 1996.
+**9.**[^c-4d0a7095359a0cb66a49b6609e7d5db2] The term “Employee” is used to denote the claimant (ie the former employee), including any person entitled to pursue a claim arising out of a contravention, or alleged contravention, of Part X of the Employment Rights Act 1996.
 
-**10.**[^key-7695baee413c1442dca7f5a59f840143] The term “Employer” is used to denote the respondent.
+**10.**[^c-7695baee413c1442dca7f5a59f840143] The term “Employer” is used to denote the respondent.
 
-**11.**[^key-9712b5a47f38402f72cfce7d4c295186] The term “**EC law**” means:
+**11.**[^c-9712b5a47f38402f72cfce7d4c295186] The term “**EC law**” means:
 
 - (i) any enactment in the domestic legislation of England and Wales or of Scotland giving effect to rights, powers, liabilities, obligations and restrictions from time to time created or arising by or under the Community Treaties, and
 - (ii) any such rights, powers, liabilities, obligations and restrictions, which are not given effect by any such enactment.
 
-**12.**[^key-1ff71bbe0c27270b620a75e227369e8c] The term “**English/Welsh arbitration**” means an arbitration under this Scheme, which the parties have agreed shall be an English/Welsh arbitration.
+**12.**[^c-1ff71bbe0c27270b620a75e227369e8c] The term “**English/Welsh arbitration**” means an arbitration under this Scheme, which the parties have agreed shall be an English/Welsh arbitration.
 
-**13.**[^key-7bc72f6e556612f0f46459a61d7fb1ca] The term “**Scottish arbitration**” means an arbitration under this Scheme, which the parties have agreed shall be a Scottish arbitration.
+**13.**[^c-7bc72f6e556612f0f46459a61d7fb1ca] The term “**Scottish arbitration**” means an arbitration under this Scheme, which the parties have agreed shall be a Scottish arbitration.
 
-**14.**[^key-037079e3a509fb1104bf97c1ce049290] The term “**devolution issue**” means a devolution issue as defined in paragraph 1 of Schedule 6 to the Scotland Act 1998 or a devolution issue as defined in paragraph 1 of Schedule 8 to the Government of Wales Act 1998.
+**14.**[^c-037079e3a509fb1104bf97c1ce049290] The term “**devolution issue**” means a devolution issue as defined in paragraph 1 of Schedule 6 to the Scotland Act 1998 or a devolution issue as defined in paragraph 1 of Schedule 8 to the Government of Wales Act 1998.
 
-**15.**[^key-b1e7861777238d4b25dbf8aeda56f8bc] With the exception of paragraphs 26(i) (“**Requirements for entry into the Scheme**”), 114EW (“Form of the award: English/Welsh arbitrations”) and 117S (“Form of the award: Scottish arbitrations”) below, references to anything being written or in writing include its being recorded by any means so as to be usable for subsequent reference.
+**15.**[^c-b1e7861777238d4b25dbf8aeda56f8bc] With the exception of paragraphs 26(i) (“**Requirements for entry into the Scheme**”), 114EW (“Form of the award: English/Welsh arbitrations”) and 117S (“Form of the award: Scottish arbitrations”) below, references to anything being written or in writing include its being recorded by any means so as to be usable for subsequent reference.
 
 ### IV. APPLICATION OF THE SCHEME
 
-**16.**[^key-988ddc34d47ce8db2b7230b646d10069] Paragraphs 46EW, 47EW, 48EW, 49EW, 50EW, 51EW, 52EW, 53EW, 110EW, 114EW, 115EW, 116EW, 177EW, 181EW, 183EW, 187EW, 194EW, 200EW, 205EW, 209EW, 212EW, 217EW, 223EW, 224EW and 226EW below shall apply only to English/Welsh arbitrations. Paragraphs 54S, 55S, 56S, 57S, 58S, 59S, 111S, 112S, 117S, 118S, 119S, 178S, 182S, 184S, 188S, 189S, 190S, 191S, 192S, 193S, 195S, 196S, 197S, 198S, 199S, 201S, 202S, 203S, 204S, 206S, 207S, 208S, 210S, 211S, 213S, 225S and 227S below shall apply only to Scottish arbitrations.
+**16.**[^c-988ddc34d47ce8db2b7230b646d10069] Paragraphs 46EW, 47EW, 48EW, 49EW, 50EW, 51EW, 52EW, 53EW, 110EW, 114EW, 115EW, 116EW, 177EW, 181EW, 183EW, 187EW, 194EW, 200EW, 205EW, 209EW, 212EW, 217EW, 223EW, 224EW and 226EW below shall apply only to English/Welsh arbitrations. Paragraphs 54S, 55S, 56S, 57S, 58S, 59S, 111S, 112S, 117S, 118S, 119S, 178S, 182S, 184S, 188S, 189S, 190S, 191S, 192S, 193S, 195S, 196S, 197S, 198S, 199S, 201S, 202S, 203S, 204S, 206S, 207S, 208S, 210S, 211S, 213S, 225S and 227S below shall apply only to Scottish arbitrations.
 
 ### V. ARBITRATOR'S TERMS OF REFERENCE
 
-**17.**[^key-b06f0e0e503c3ff443980d688803361c] Every agreement to refer a dispute to arbitration under this Scheme shall be taken to be an agreement that the arbitrator decide the dispute according to the following Terms of Reference:
+**17.**[^c-b06f0e0e503c3ff443980d688803361c] Every agreement to refer a dispute to arbitration under this Scheme shall be taken to be an agreement that the arbitrator decide the dispute according to the following Terms of Reference:
 
 |  |
 | --- |
@@ -201,47 +201,47 @@ Articles 2 and 3
 
 #### Cases that are covered by the Scheme
 
-**18.**[^key-1cc7f6dc18d5ff135fb1dd193750e4b9] This Scheme only applies to cases of alleged unfair dismissal (ie disputes involving proceedings, or claims which could be the subject of proceedings, before an employment tribunal arising out of a contravention, or alleged contravention, of Part X of the Employment Rights Act 1996).
+**18.**[^c-1cc7f6dc18d5ff135fb1dd193750e4b9] This Scheme only applies to cases of alleged unfair dismissal (ie disputes involving proceedings, or claims which could be the subject of proceedings, before an employment tribunal arising out of a contravention, or alleged contravention, of Part X of the Employment Rights Act 1996).
 
-**19.**[^key-52396cd167767f42c65c9677746b1378] The Scheme does not extend to other kinds of claim which are often related to, or raised at the same time as, a claim of unfair dismissal. For example, sex discrimination cases, and claims for unpaid wages are not covered by the Scheme.
+**19.**[^c-52396cd167767f42c65c9677746b1378] The Scheme does not extend to other kinds of claim which are often related to, or raised at the same time as, a claim of unfair dismissal. For example, sex discrimination cases, and claims for unpaid wages are not covered by the Scheme.
 
-**20.**[^key-893a950d35a8f703e6bd71b02f759943] If a claim of unfair dismissal has been referred for resolution under the Scheme, any other claim, even if part of the same dispute, must be settled separately, or referred to the employment tribunal, or withdrawn. In the event that different aspects of the same dispute are being heard in the employment tribunal as well as under the Scheme, the arbitrator may decide, if appropriate or convenient, to postpone the arbitration proceedings pending a determination by the employment tribunal.
+**20.**[^c-893a950d35a8f703e6bd71b02f759943] If a claim of unfair dismissal has been referred for resolution under the Scheme, any other claim, even if part of the same dispute, must be settled separately, or referred to the employment tribunal, or withdrawn. In the event that different aspects of the same dispute are being heard in the employment tribunal as well as under the Scheme, the arbitrator may decide, if appropriate or convenient, to postpone the arbitration proceedings pending a determination by the employment tribunal.
 
 #### Waiver of Jurisdictional Issues
 
-**21.**[^key-71c5d5787292e687e8f752a7fbab6918] Because of its informal nature, the Scheme is not designed for disputes raising jurisdictional issues, such as for example:
+**21.**[^c-71c5d5787292e687e8f752a7fbab6918] Because of its informal nature, the Scheme is not designed for disputes raising jurisdictional issues, such as for example:
 
 - whether or not the Employee was employed by the Employer;
 - whether or not the Employee had the necessary period of continuous service to bring the claim;
 - whether or not time limits have expired and/or should be extended.
 
-**22.**[^key-5893672c1e06a308329d5280cb360189] Accordingly, when agreeing to refer a dispute to arbitration under the Scheme, both parties will be taken to have accepted as a condition of the Scheme that no jurisdictional issue is in dispute between them. The arbitrator will not therefore deal with such issues during the arbitration process, even if they are raised by the parties, and the parties will be taken to have waived any rights in that regard.
+**22.**[^c-5893672c1e06a308329d5280cb360189] Accordingly, when agreeing to refer a dispute to arbitration under the Scheme, both parties will be taken to have accepted as a condition of the Scheme that no jurisdictional issue is in dispute between them. The arbitrator will not therefore deal with such issues during the arbitration process, even if they are raised by the parties, and the parties will be taken to have waived any rights in that regard.
 
-**23.**[^key-7b08b3537b7ae6ce406c1a0f0c39d4fe] In particular, in agreeing to arbitration under the Scheme, the parties will be treated as having agreed that a dismissal has taken place.
+**23.**[^c-7b08b3537b7ae6ce406c1a0f0c39d4fe] In particular, in agreeing to arbitration under the Scheme, the parties will be treated as having agreed that a dismissal has taken place.
 
 #### Inappropriate cases
 
-**24.**[^key-d5a32351420d661fedfba89160c46322] The Scheme is not intended for disputes involving complex legal issues. Whilst such cases will be accepted for determination (subject to the Terms of Reference), parties are advised, where appropriate, to consider applying to the employment tribunal or settling their dispute by other means.
+**24.**[^c-d5a32351420d661fedfba89160c46322] The Scheme is not intended for disputes involving complex legal issues. Whilst such cases will be accepted for determination (subject to the Terms of Reference), parties are advised, where appropriate, to consider applying to the employment tribunal or settling their dispute by other means.
 
 ### VII. ACCESS TO THE SCHEME
 
-**25.**[^key-b736497558530322329653209906e48d] The Scheme is an entirely voluntary system of dispute resolution: it will only apply if parties have so agreed.
+**25.**[^c-b736497558530322329653209906e48d] The Scheme is an entirely voluntary system of dispute resolution: it will only apply if parties have so agreed.
 
 #### Requirements for entry into the Scheme
 
-**26.**[^key-fbd07855b17321b008855928970722e2] Any agreement to submit a dispute to arbitration under the Scheme must satisfy the following requirements (an “**Arbitration Agreement**”):
+**26.**[^c-fbd07855b17321b008855928970722e2] Any agreement to submit a dispute to arbitration under the Scheme must satisfy the following requirements (an “**Arbitration Agreement**”):
 
 - (i) the agreement of each party (which may be expressed in the same or in separate documents) must be in writing;
 - (ii) the agreement must concern an existing dispute;
 - (iii) the agreement must not seek to alter or vary any provision of the Scheme;
 - (iv) the agreement must have been reached either:
-  - (a) where a conciliation officer has taken action under any of sections 18A to 18C[^key-e21737b8e53c44ddd16eb8880bdca7c0] of the Employment Tribunals Act 1996, or
-  - (b) through a settlement[^key-2d8ce495c9ac247e307900ed8f22c5db] agreement, where the conditions regulating such agreements under the Employment Rights Act 1996 are satisfied; and
+  - (a) where a conciliation officer has taken action under any of sections 18A to 18C[^c-e21737b8e53c44ddd16eb8880bdca7c0] of the Employment Tribunals Act 1996, or
+  - (b) through a settlement[^c-2d8ce495c9ac247e307900ed8f22c5db] agreement, where the conditions regulating such agreements under the Employment Rights Act 1996 are satisfied; and
 - (v) the agreement must be accompanied by a completed Waiver Form for each party. Parties applying for English/Welsh arbitrations should complete Appendix A; parties applying for Scottish arbitrations should complete Appendix B.
 
-**27.**[^key-bf310c7551e599b9f0c123ebce5a073c] Where an agreement fails to satisfy any one of these requirements or where the parties are unable to agree whether the arbitration should be an English/Welsh arbitration or a Scottish arbitration, no valid reference to the Scheme will have been made, and the parties will have to settle their dispute by other means or have recourse to the employment tribunal.
+**27.**[^c-bf310c7551e599b9f0c123ebce5a073c] Where an agreement fails to satisfy any one of these requirements or where the parties are unable to agree whether the arbitration should be an English/Welsh arbitration or a Scottish arbitration, no valid reference to the Scheme will have been made, and the parties will have to settle their dispute by other means or have recourse to the employment tribunal.
 
-**28.**[^key-b09c688fe8f41ea0a28d13081f168787] Where:
+**28.**[^c-b09c688fe8f41ea0a28d13081f168787] Where:
 
 - (i) a dispute concerning unfair dismissal claims as well as other claims has been referred to the employment tribunal, and
 - (ii) the parties have agreed to settle the other claims and refer the unfair dismissal claim to arbitration under the Scheme,
@@ -250,42 +250,42 @@ a separate settlement must be reached referring the unfair dismissal claim to ar
 
 #### Notification to ACAS of an Arbitration Agreement
 
-**29.**[^key-154c30eb5e5a9a9d1cfabc6b6c410240] All Arbitration Agreements must be notified to ACAS within two weeks of their conclusion, by either of the parties or their independent advisers or representatives, or an ACAS conciliator, sending a copy of the agreement and Waiver Forms, together with IT1 and IT3 forms if these have been completed, to the ACAS Arbitration Section.
+**29.**[^c-154c30eb5e5a9a9d1cfabc6b6c410240] All Arbitration Agreements must be notified to ACAS within two weeks of their conclusion, by either of the parties or their independent advisers or representatives, or an ACAS conciliator, sending a copy of the agreement and Waiver Forms, together with IT1 and IT3 forms if these have been completed, to the ACAS Arbitration Section.
 
-**30.**[^key-d49f8d915fecf12a044aebbf5bae2639] For the purposes of the previous paragraph, an Arbitration Agreement is treated as “concluded” on the date it is signed, or if signed by different people at different times, on the date of the last signature.
+**30.**[^c-d49f8d915fecf12a044aebbf5bae2639] For the purposes of the previous paragraph, an Arbitration Agreement is treated as “concluded” on the date it is signed, or if signed by different people at different times, on the date of the last signature.
 
-**31.**[^key-e99414d4982176c0ac0190c4ca95b249] Where an Arbitration Agreement is not notified to ACAS within two weeks, ACAS will not arrange for the appointment of an arbitrator under the Scheme, unless notification within that time was not reasonably practicable. Any party seeking to notify ACAS of an Arbitration Agreement outside this period must explain in writing to the ACAS Arbitration Section the reason for the delay. ACAS shall appoint an arbitrator, in accordance with the appointment provisions below, to consider the explanation, and that arbitrator may seek the views of the other party, and may call both parties to a hearing to establish the reasons for the delay. The arbitrator shall then rule in an award on whether or not the agreement can be accepted for hearing under the Scheme.
+**31.**[^c-e99414d4982176c0ac0190c4ca95b249] Where an Arbitration Agreement is not notified to ACAS within two weeks, ACAS will not arrange for the appointment of an arbitrator under the Scheme, unless notification within that time was not reasonably practicable. Any party seeking to notify ACAS of an Arbitration Agreement outside this period must explain in writing to the ACAS Arbitration Section the reason for the delay. ACAS shall appoint an arbitrator, in accordance with the appointment provisions below, to consider the explanation, and that arbitrator may seek the views of the other party, and may call both parties to a hearing to establish the reasons for the delay. The arbitrator shall then rule in an award on whether or not the agreement can be accepted for hearing under the Scheme.
 
-**32.**[^key-043f3c4bbbc3f003011d0cecb790f73a] Any such hearing and award will be governed by the provisions of this Scheme.
+**32.**[^c-043f3c4bbbc3f003011d0cecb790f73a] Any such hearing and award will be governed by the provisions of this Scheme.
 
 #### Consolidation of proceedings
 
-**33.**[^key-8496a0526ececbcdf339dab63301ad0b] Where all parties so agree in writing, ACAS may consolidate different arbitral proceedings under the Scheme.
+**33.**[^c-8496a0526ececbcdf339dab63301ad0b] Where all parties so agree in writing, ACAS may consolidate different arbitral proceedings under the Scheme.
 
 ### VIII. SETTLEMENT AND WITHDRAWAL FROM THE SCHEME
 
 #### Withdrawal by the Employee
 
-**34.**[^key-49a2d3e4748f4268e1e8be51ad51722d] At any stage of the arbitration process, once an Arbitration Agreement has been concluded and the reference has been accepted by ACAS, the party bringing the unfair dismissal claim may withdraw from the Scheme, provided that any such withdrawal is in writing. Such a withdrawal shall constitute a dismissal of the claim and the arbitrator shall upon receipt of such withdrawal in writing issue an award dismissing the claim.
+**34.**[^c-49a2d3e4748f4268e1e8be51ad51722d] At any stage of the arbitration process, once an Arbitration Agreement has been concluded and the reference has been accepted by ACAS, the party bringing the unfair dismissal claim may withdraw from the Scheme, provided that any such withdrawal is in writing. Such a withdrawal shall constitute a dismissal of the claim and the arbitrator shall upon receipt of such withdrawal in writing issue an award dismissing the claim.
 
 #### Withdrawal by the Employer
 
-**35.**[^key-0b937d853369b2dfef792d7ba331d37d] Once an Arbitration Agreement has been concluded and the reference has been accepted by ACAS, the party against whom a claim is brought cannot unilaterally withdraw from the Scheme.
+**35.**[^c-0b937d853369b2dfef792d7ba331d37d] Once an Arbitration Agreement has been concluded and the reference has been accepted by ACAS, the party against whom a claim is brought cannot unilaterally withdraw from the Scheme.
 
 #### Settlement
 
-**36.**[^key-5d73e76e4babe93cc225a89912eabb05] Parties are free to reach an agreement settling the dispute at any stage.
+**36.**[^c-5d73e76e4babe93cc225a89912eabb05] Parties are free to reach an agreement settling the dispute at any stage.
 
-**37.**[^key-f196fdf67481250198de9fb81a22d6e1] If such an agreement is reached:
+**37.**[^c-f196fdf67481250198de9fb81a22d6e1] If such an agreement is reached:
 
 - (i) upon the joint written request of the parties to the arbitrator or the ACAS Arbitration Section, the arbitrator (if appointed) or the ACAS Arbitration Section (if no arbitrator has been appointed) shall terminate the arbitration proceedings;
 - (ii) if so requested by the parties, the arbitrator (if appointed) may record the settlement in the form of an agreed award.
 
-**38.**[^key-d6d4958405f3a39ff6fdfdb805691a00] An agreed award shall state that it is an award of the arbitrator by consent and shall have the same status and effect as any other award on the merits of the case.
+**38.**[^c-d6d4958405f3a39ff6fdfdb805691a00] An agreed award shall state that it is an award of the arbitrator by consent and shall have the same status and effect as any other award on the merits of the case.
 
-**39.**[^key-c0b522f7d2c011411cd33f033d314449] If the agreement settling the dispute includes an agreement that one party (the “paying party”) shall pay a sum of money to the other (the “receiving party”) the arbitrator shall (unless the parties have agreed that the said agreement shall not be the subject of an award) draft an award ordaining the paying party to pay the agreed sum to the receiving party together (if the parties have agreed that interest shall run on the agreed sum) with interest thereon at such rate as the parties may have agreed and from such date or dates as the parties may have agreed until payment. The arbitrator shall send a copy of the said award in draft to each party and invite each party to confirm that the draft award accurately reflects the agreement between them. Upon receiving confirmation to that effect the arbitrator shall issue an award in the terms of the agreed draft.
+**39.**[^c-c0b522f7d2c011411cd33f033d314449] If the agreement settling the dispute includes an agreement that one party (the “paying party”) shall pay a sum of money to the other (the “receiving party”) the arbitrator shall (unless the parties have agreed that the said agreement shall not be the subject of an award) draft an award ordaining the paying party to pay the agreed sum to the receiving party together (if the parties have agreed that interest shall run on the agreed sum) with interest thereon at such rate as the parties may have agreed and from such date or dates as the parties may have agreed until payment. The arbitrator shall send a copy of the said award in draft to each party and invite each party to confirm that the draft award accurately reflects the agreement between them. Upon receiving confirmation to that effect the arbitrator shall issue an award in the terms of the agreed draft.
 
-**40.**[^key-29aa5b838ff3ed637e7a4d2282cea7e0] Subject to paragraph 39, in rendering an agreed award, the arbitrator:
+**40.**[^c-29aa5b838ff3ed637e7a4d2282cea7e0] Subject to paragraph 39, in rendering an agreed award, the arbitrator:
 
 - (i) may only record the parties' agreed wording;
 - (ii) may not approve, vary, transcribe, interpret or ratify a settlement in any way;
@@ -295,109 +295,109 @@ a separate settlement must be reached referring the unfair dismissal claim to ar
 
 #### The ACAS Arbitration Panel
 
-**41.**[^key-cfcdb608a1c48455b3b87a0d1bfe8c26] Arbitrators are selected to serve on the ACAS Arbitration Panel on the basis of their practical knowledge and experience of discipline and dismissal issues in the workplace. They are recruited through an open recruitment exercise, and appointed to the Panel on the basis of standard terms of appointment. It is a condition of their appointment that they exercise their duties in accordance with the terms of this Scheme. Each appointment is initially for a period of two years, although it may be renewed by ACAS, at the latter’s discretion. Payment is made by ACAS on the basis of time spent in connection with arbitral proceedings.
+**41.**[^c-cfcdb608a1c48455b3b87a0d1bfe8c26] Arbitrators are selected to serve on the ACAS Arbitration Panel on the basis of their practical knowledge and experience of discipline and dismissal issues in the workplace. They are recruited through an open recruitment exercise, and appointed to the Panel on the basis of standard terms of appointment. It is a condition of their appointment that they exercise their duties in accordance with the terms of this Scheme. Each appointment is initially for a period of two years, although it may be renewed by ACAS, at the latter’s discretion. Payment is made by ACAS on the basis of time spent in connection with arbitral proceedings.
 
 #### Appointment to a case
 
-**42.**[^key-309f00099d3c46afcc23ac286ccee870] Arbitral appointments are made exclusively by ACAS from the ACAS Arbitration Panel. Parties will have no choice of arbitrator.
+**42.**[^c-309f00099d3c46afcc23ac286ccee870] Arbitral appointments are made exclusively by ACAS from the ACAS Arbitration Panel. Parties will have no choice of arbitrator.
 
-**43.**[^key-34ab2d3cbeb0084951d4173d6de4f412] Once ACAS has been notified of a valid Arbitration Agreement, it will select and appoint an arbitrator, and notify all parties of the name of the arbitrator so appointed.
+**43.**[^c-34ab2d3cbeb0084951d4173d6de4f412] Once ACAS has been notified of a valid Arbitration Agreement, it will select and appoint an arbitrator, and notify all parties of the name of the arbitrator so appointed.
 
 #### Arbitrator’s duty of disclosure
 
-**44.**[^key-0ee164b8e681fa469bee75bc50f4294d] Immediately following selection (and before an appointment is confirmed by ACAS), every arbitrator shall disclose in writing to ACAS (to be forwarded to the parties) any circumstances known to him or her likely to give rise to any justifiable doubts as to his or her impartiality, or confirm in writing that there are no such circumstances.
+**44.**[^c-0ee164b8e681fa469bee75bc50f4294d] Immediately following selection (and before an appointment is confirmed by ACAS), every arbitrator shall disclose in writing to ACAS (to be forwarded to the parties) any circumstances known to him or her likely to give rise to any justifiable doubts as to his or her impartiality, or confirm in writing that there are no such circumstances.
 
-**45.**[^key-f645aca5f7100429144ed4c8ae121410] Once appointed, and until the arbitration is concluded, every arbitrator shall be under a continuing duty forthwith to disclose to ACAS (to be forwarded to the parties) any such circumstances which may have arisen since appointment.
+**45.**[^c-f645aca5f7100429144ed4c8ae121410] Once appointed, and until the arbitration is concluded, every arbitrator shall be under a continuing duty forthwith to disclose to ACAS (to be forwarded to the parties) any such circumstances which may have arisen since appointment.
 
 #### Removal of arbitrators: English/Welsh arbitrations
 
 *Extent: E+W*
 
-**46EW.**[^key-466c74dc74157db609ac48b73e2ea9eb] An arbitrator in an English/Welsh arbitration may only be removed by ACAS or the court (under the provisions in paragraphs 47EW to 53EW below).
+**46EW.**[^c-466c74dc74157db609ac48b73e2ea9eb] An arbitrator in an English/Welsh arbitration may only be removed by ACAS or the court (under the provisions in paragraphs 47EW to 53EW below).
 
-**47EW.**[^key-fefafed41ec0f215f881f05760c50350] Applications under the Scheme to remove an arbitrator on any of the grounds set out in sections 24(1)(a) and (c) of the Arbitration Act 1996, or on the basis that such removal has been agreed by both parties, shall be made in the first instance to ACAS (addressed to the ACAS Arbitration Section).
+**47EW.**[^c-fefafed41ec0f215f881f05760c50350] Applications under the Scheme to remove an arbitrator on any of the grounds set out in sections 24(1)(a) and (c) of the Arbitration Act 1996, or on the basis that such removal has been agreed by both parties, shall be made in the first instance to ACAS (addressed to the ACAS Arbitration Section).
 
-**48EW.**[^key-3f6503ac706d5c6d1390d0acccf2572e] At the same time as an application is made to ACAS to remove an arbitrator a copy of the application shall be sent to the other party to the arbitration and to the arbitrator.
+**48EW.**[^c-3f6503ac706d5c6d1390d0acccf2572e] At the same time as an application is made to ACAS to remove an arbitrator a copy of the application shall be sent to the other party to the arbitration and to the arbitrator.
 
-**49EW.**[^key-f7cdf4b8a499a902fb291e522a08a6bd] ACAS shall, following receipt of an application under paragraph 48EW, give the other party to the arbitration and the arbitrator such opportunity as ACAS in its sole discretion may consider appropriate to comment on the application.
+**49EW.**[^c-f7cdf4b8a499a902fb291e522a08a6bd] ACAS shall, following receipt of an application under paragraph 48EW, give the other party to the arbitration and the arbitrator such opportunity as ACAS in its sole discretion may consider appropriate to comment on the application.
 
-**50EW.**[^key-88573b5a6acd77295d5e4661f1abd252] ACAS may, after such procedures as ACAS in its sole discretion may consider appropriate, remove the arbitrator.
+**50EW.**[^c-88573b5a6acd77295d5e4661f1abd252] ACAS may, after such procedures as ACAS in its sole discretion may consider appropriate, remove the arbitrator.
 
-**51EW.**[^key-5242c8bcf512c085f4bd3d43926b9134] If ACAS refuses an application made under paragraph 47EW, a party may thereafter apply to the court.
+**51EW.**[^c-5242c8bcf512c085f4bd3d43926b9134] If ACAS refuses an application made under paragraph 47EW, a party may thereafter apply to the court.
 
-**52EW.**[^key-321e42dd4bfe0c664e25d9df2c8365c5] Sections 24(1)(a) and (c), 24(2), 24(3), 24(5) and 24(6) of the Arbitration Act 1996[^f00007] shall apply to arbitrations conducted in accordance with the Scheme, subject to the following modifications:
+**52EW.**[^c-321e42dd4bfe0c664e25d9df2c8365c5] Sections 24(1)(a) and (c), 24(2), 24(3), 24(5) and 24(6) of the Arbitration Act 1996[^f00007] shall apply to arbitrations conducted in accordance with the Scheme, subject to the following modifications:
 
 - (i) In subsection (1), for “(upon notice to the other parties, to the arbitrator concerned and to any other arbitrator) apply to the court” substitute “(upon notice to the other party, to the arbitrator concerned and to the Advisory, Conciliation and Arbitration Service (“ACAS”)) apply to the High Court or Central London County Court”.
 - (ii) In subsection (2)—
 - (a) omit “If there is an arbitral or other institution or person vested by the parties with power to remove an arbitrator,”; and
 - (b) for “that institution or person” substitute “ACAS”.
 
-**53EW.**[^key-abe2d2175ab9ec0b25be16fa2ff3ecea] The arbitrator may continue the proceedings and make an award while an application to ACAS (as well as the court) to remove him or her is pending.
+**53EW.**[^c-abe2d2175ab9ec0b25be16fa2ff3ecea] The arbitrator may continue the proceedings and make an award while an application to ACAS (as well as the court) to remove him or her is pending.
 
 #### Removal of arbitrators: Scottish arbitrations
 
 *Extent: S*
 
-**54S.**[^key-a663912fc33dbae1729fb8ae2f53943d] An arbitrator in a Scottish arbitration may be removed by ACAS under the provisions in paragraphs 55S to 58S below.
+**54S.**[^c-a663912fc33dbae1729fb8ae2f53943d] An arbitrator in a Scottish arbitration may be removed by ACAS under the provisions in paragraphs 55S to 58S below.
 
-**55S.**[^key-a230f93fccd94d59c1dacffa43749cae] An application under the Scheme to remove an arbitrator shall be made to ACAS (addressed to the ACAS Arbitration Section). At the same time as the application is sent to ACAS a copy of the application shall be sent to the other party to the arbitration and to the arbitrator.
+**55S.**[^c-a230f93fccd94d59c1dacffa43749cae] An application under the Scheme to remove an arbitrator shall be made to ACAS (addressed to the ACAS Arbitration Section). At the same time as the application is sent to ACAS a copy of the application shall be sent to the other party to the arbitration and to the arbitrator.
 
-**56S.**[^key-17efd05d4d6bfc9ae896f5b39442f820] ACAS shall, following receipt of an application under paragraph 55S give the other party to the arbitration and the arbitrator such opportunity as ACAS in its sole discretion may consider appropriate to comment on the application.
+**56S.**[^c-17efd05d4d6bfc9ae896f5b39442f820] ACAS shall, following receipt of an application under paragraph 55S give the other party to the arbitration and the arbitrator such opportunity as ACAS in its sole discretion may consider appropriate to comment on the application.
 
-**57S.**[^key-5c5126ab20b38bee417887b522a31e06] ACAS may, after such procedure as ACAS in its sole discretion may consider appropriate, remove the arbitrator if it is satisfied:
+**57S.**[^c-5c5126ab20b38bee417887b522a31e06] ACAS may, after such procedure as ACAS in its sole discretion may consider appropriate, remove the arbitrator if it is satisfied:
 
 - (i) that both parties to the arbitration agree that the arbitrator should be removed; or
 - (ii) that circumstances exist that give rise to justifiable doubts as to the impartiality of the arbitrator; or
 - (iii) that the arbitrator is physically or mentally incapable of conducting the proceedings or there are justifiable doubts as to his capacity to do so.
 
-**58S.**[^key-0e9069e97dc2e618395f075c43c50618] A decision of ACAS made under paragraph 57S shall be final.
+**58S.**[^c-0e9069e97dc2e618395f075c43c50618] A decision of ACAS made under paragraph 57S shall be final.
 
-**59S.**[^key-83e3906924eba80ab46f1e253495ee90] The arbitrator may continue the proceedings and make an award while an application to ACAS to remove him or her is pending.
+**59S.**[^c-83e3906924eba80ab46f1e253495ee90] The arbitrator may continue the proceedings and make an award while an application to ACAS to remove him or her is pending.
 
 #### Death of an arbitrator
 
-**60.**[^key-dff6422267bddaa87e2be8ae13b6e991] The authority of an arbitrator is personal and ceases on his or her death.
+**60.**[^c-dff6422267bddaa87e2be8ae13b6e991] The authority of an arbitrator is personal and ceases on his or her death.
 
 #### Replacement of arbitrators
 
-**61.**[^key-2b321eae484147bdd7190ad5a074b757] Where an arbitrator ceases to hold office for any reason, he or she shall be replaced by ACAS in accordance with the appointment provisions above.
+**61.**[^c-2b321eae484147bdd7190ad5a074b757] Where an arbitrator ceases to hold office for any reason, he or she shall be replaced by ACAS in accordance with the appointment provisions above.
 
-**62.**[^key-6ef867034fb785e13c4530d635523c53] Once appointed, the replacement arbitrator shall determine whether and, if so, to what extent the previous proceedings should stand.
+**62.**[^c-6ef867034fb785e13c4530d635523c53] Once appointed, the replacement arbitrator shall determine whether and, if so, to what extent the previous proceedings should stand.
 
 ### X. GENERAL DUTY OF THE ARBITRATOR
 
-**63.**[^key-8205c60ed32a330831e8e4446d5d3b6f] The arbitrator shall:
+**63.**[^c-8205c60ed32a330831e8e4446d5d3b6f] The arbitrator shall:
 
 - (i) act fairly and impartially as between the parties, giving each party a reasonable opportunity of putting his or her case and dealing with that of his or her opponent, and
 - (ii) adopt procedures suitable to the circumstances of the particular case, avoiding unnecessary delay or expense, so as to provide a fair means for the resolution of the matters falling to be determined.
 
-**64.**[^key-c91882905b002afb8ecdf208d1331f4a] The arbitrator shall comply with the general duty (see paragraph 63 above) in conducting the arbitral proceedings, in his or her decisions on matters of procedure and evidence and in the exercise of all other powers conferred on him or her.
+**64.**[^c-c91882905b002afb8ecdf208d1331f4a] The arbitrator shall comply with the general duty (see paragraph 63 above) in conducting the arbitral proceedings, in his or her decisions on matters of procedure and evidence and in the exercise of all other powers conferred on him or her.
 
 ### XI. GENERAL DUTY OF THE PARTIES
 
-**65.**[^key-ba372818d258ef5a0ea07e32b011db2e] The parties shall do all things necessary for the proper and expeditious conduct of the arbitral proceedings. This includes (without limitation) complying without delay with any determination of the arbitrator as to procedural or evidential matters, or with any order or directions of the arbitrator, and co-operating in the arrangement of any hearing.
+**65.**[^c-ba372818d258ef5a0ea07e32b011db2e] The parties shall do all things necessary for the proper and expeditious conduct of the arbitral proceedings. This includes (without limitation) complying without delay with any determination of the arbitrator as to procedural or evidential matters, or with any order or directions of the arbitrator, and co-operating in the arrangement of any hearing.
 
 ### XII. CONFIDENTIALITY AND PRIVACY
 
-**66.**[^key-b9481fa375c75b8657035e289a05fe53] Arbitrations, and all associated procedures under the Scheme, are strictly private and confidential. This rule does not prevent a party to the arbitration taking any step reasonably necessary for the purposes of any application to the court or enforcement of an award.
+**66.**[^c-b9481fa375c75b8657035e289a05fe53] Arbitrations, and all associated procedures under the Scheme, are strictly private and confidential. This rule does not prevent a party to the arbitration taking any step reasonably necessary for the purposes of any application to the court or enforcement of an award.
 
-**67.**[^key-70c1957dc13c8d2e195e5429805bd782] Hearings may only be attended by the arbitrator, the parties, their representatives, any interpreters, signers or communicators, witnesses and a legal adviser, if appointed. If the parties so agree, an ACAS official or arbitrator in training may also attend.
+**67.**[^c-70c1957dc13c8d2e195e5429805bd782] Hearings may only be attended by the arbitrator, the parties, their representatives, any interpreters, signers or communicators, witnesses and a legal adviser, if appointed. If the parties so agree, an ACAS official or arbitrator in training may also attend.
 
 ### XIII. ARRANGEMENTS FOR THE HEARING
 
 #### Initial arrangements
 
-**68.**[^key-eb65b4b3a97b84791e2acb1be41d3479] A hearing must be held in every case, notwithstanding any agreement between the parties to a purely written procedure.
+**68.**[^c-eb65b4b3a97b84791e2acb1be41d3479] A hearing must be held in every case, notwithstanding any agreement between the parties to a purely written procedure.
 
-**69.**[^key-980d7a061dec10f72a5a348670239107] Once an arbitrator has been appointed by ACAS, a hearing shall be arranged as soon as reasonably practicable by him or her, with the administrative assistance of the ACAS Arbitration Section.
+**69.**[^c-980d7a061dec10f72a5a348670239107] Once an arbitrator has been appointed by ACAS, a hearing shall be arranged as soon as reasonably practicable by him or her, with the administrative assistance of the ACAS Arbitration Section.
 
-**70.**[^key-9fedbdfbe1fa72acd252f83af4e0b537] The arbitrator shall decide the date and venue for the hearing, in so far as an agreement cannot be reached with all parties within 28 days of the initial notification to ACAS of the Arbitration Agreement.
+**70.**[^c-9fedbdfbe1fa72acd252f83af4e0b537] The arbitrator shall decide the date and venue for the hearing, in so far as an agreement cannot be reached with all parties within 28 days of the initial notification to ACAS of the Arbitration Agreement.
 
-**71.**[^key-cce530a775a994ed0e370c9e817d22e5] The ACAS Arbitration Section shall contact all parties with details of the date and venue for the hearing.
+**71.**[^c-cce530a775a994ed0e370c9e817d22e5] The ACAS Arbitration Section shall contact all parties with details of the date and venue for the hearing.
 
 #### Expedited hearings
 
-**72.**[^key-bf050305a4ae720dc8a6e641863e42ae] If:
+**72.**[^c-bf050305a4ae720dc8a6e641863e42ae] If:
 
 - (i) before the parties have agreed to refer a dispute to arbitration under the Scheme, an employment tribunal makes an order under interim relief provisions, or
 - (ii) in the arbitrator’s discretion, other relevant circumstances exist,
@@ -406,49 +406,49 @@ the arbitrator may expedite the hearing, on the application of any party.
 
 #### Venue
 
-**73.**[^key-a357d24c6f0d99c56ea5990d866d3cd8] Hearings may be held in any venue, provided that the hearing will only be held at the Employee’s former workplace, or a similarly non-neutral venue, if all parties so agree.
+**73.**[^c-a357d24c6f0d99c56ea5990d866d3cd8] Hearings may be held in any venue, provided that the hearing will only be held at the Employee’s former workplace, or a similarly non-neutral venue, if all parties so agree.
 
-**74.**[^key-ee4315e54290383b5a60cff1d92c3306] Where premises have to be hired for a hearing, ACAS shall meet the reasonable costs of so doing.
+**74.**[^c-ee4315e54290383b5a60cff1d92c3306] Where premises have to be hired for a hearing, ACAS shall meet the reasonable costs of so doing.
 
 #### Assistance
 
-**75.**[^key-922f743a013d2bedd399ff361d597432] Where a party needs the services of an interpreter, signer or communicator at the hearing, ACAS should be so informed well in advance of the hearing. Where an arbitrator agrees that such assistance is required, ACAS shall meet the reasonable costs of providing this.
+**75.**[^c-922f743a013d2bedd399ff361d597432] Where a party needs the services of an interpreter, signer or communicator at the hearing, ACAS should be so informed well in advance of the hearing. Where an arbitrator agrees that such assistance is required, ACAS shall meet the reasonable costs of providing this.
 
 #### Travelling expenses/loss of earnings
 
-**76.**[^key-46ed64ebcc5d74244bfdb45f55938401] Every party shall meet their own travelling expenses and those of their representatives and witnesses.
+**76.**[^c-46ed64ebcc5d74244bfdb45f55938401] Every party shall meet their own travelling expenses and those of their representatives and witnesses.
 
-**77.**[^key-fda4a3a6df04762cb5acf7b36e8d8f9c] No loss of earnings are payable by ACAS to anyone involved in the arbitration. However, where an arbitrator rules that a dismissal was unfair, he or she may include in the calculation of any compensation a sum to cover reasonable travelling expenses and loss of earnings incurred by the Employee personally in attending the hearing.
+**77.**[^c-fda4a3a6df04762cb5acf7b36e8d8f9c] No loss of earnings are payable by ACAS to anyone involved in the arbitration. However, where an arbitrator rules that a dismissal was unfair, he or she may include in the calculation of any compensation a sum to cover reasonable travelling expenses and loss of earnings incurred by the Employee personally in attending the hearing.
 
 #### Applications for postponements of, or different venues for, initial hearings
 
-**78.**[^key-832dfe4c71f4c3c3e8cef46870b5b660] Any application for a postponement of, or a different venue for, an initial hearing must be made in writing, with reasons, to the arbitrator via the ACAS Arbitration Section within 14 days of the date of the letter notifying the hearing arrangements or, where this is not practicable, as soon as is reasonably practicable. Such applications will be determined by the arbitrator without an oral hearing after all parties have received a copy of the application and been given a reasonable opportunity to respond.
+**78.**[^c-832dfe4c71f4c3c3e8cef46870b5b660] Any application for a postponement of, or a different venue for, an initial hearing must be made in writing, with reasons, to the arbitrator via the ACAS Arbitration Section within 14 days of the date of the letter notifying the hearing arrangements or, where this is not practicable, as soon as is reasonably practicable. Such applications will be determined by the arbitrator without an oral hearing after all parties have received a copy of the application and been given a reasonable opportunity to respond.
 
-**79.**[^key-5516e29477f2087a848fcbcbfb9808df] If the application is rejected, the initial hearing will be held on the original date and/or in the original venue.
+**79.**[^c-5516e29477f2087a848fcbcbfb9808df] If the application is rejected, the initial hearing will be held on the original date and/or in the original venue.
 
-**80.**[^key-7bd5df0c711dcdb9bae149c8a58215c3] This provision does not affect the arbitrator’s general discretion (set out below) with respect to postponements after an initial hearing has been fixed, or with respect to other aspects of the procedure. In particular, procedural applications may be made to the arbitrator at the hearing itself.
+**80.**[^c-7bd5df0c711dcdb9bae149c8a58215c3] This provision does not affect the arbitrator’s general discretion (set out below) with respect to postponements after an initial hearing has been fixed, or with respect to other aspects of the procedure. In particular, procedural applications may be made to the arbitrator at the hearing itself.
 
 ### XIV. NON-COMPLIANCE WITH PROCEDURE
 
-**81.**[^key-2f39b59bbe489bd95540d6396cd448e4] If a party fails to comply with any aspect of the procedure set out in this Scheme, or any order or direction by the arbitrator, or fails to comply with the general duty in Part XI above, the arbitrator may (in addition to any other power set out in this Scheme):
+**81.**[^c-2f39b59bbe489bd95540d6396cd448e4] If a party fails to comply with any aspect of the procedure set out in this Scheme, or any order or direction by the arbitrator, or fails to comply with the general duty in Part XI above, the arbitrator may (in addition to any other power set out in this Scheme):
 
 - (i) adjourn any hearing, where it would be unfair on any party to proceed; and/or
 - (ii) draw such adverse inferences from the act of non-compliance as the circumstances justify.
 
 ### XV. OUTLINE OF PROCEDURE BEFORE THE HEARING
 
-**82.**[^key-ba128da5fef5d1fa19730e09b2a38a4c] Once a hearing has been fixed, the following procedure shall apply, subject to any direction by the arbitrator.
+**82.**[^c-ba128da5fef5d1fa19730e09b2a38a4c] Once a hearing has been fixed, the following procedure shall apply, subject to any direction by the arbitrator.
 
 #### Written materials
 
-**83.**[^key-61fe310c2455747955af1ac15a43ae0e] At least 14 days before the date of the hearing, each party shall send to the ACAS Arbitration Section (for forwarding to the arbitrator and the other party) one copy of a written statement of case, together with:
+**83.**[^c-61fe310c2455747955af1ac15a43ae0e] At least 14 days before the date of the hearing, each party shall send to the ACAS Arbitration Section (for forwarding to the arbitrator and the other party) one copy of a written statement of case, together with:
 
 - (i) any supporting documentation or other material to be relied upon at the hearing; and where appropriate
 - (ii) a list of the names and title/role of all those people who will accompany each party to the hearing or be called as a witness.
 
-**84.**[^key-c4462f63fa8021b418e3ea442f2cde55] Written statements of case should briefly set out the main particulars of each party’s case, which can then be expanded upon if necessary at the hearing itself. The statement should include an explanation of the events which led up to the dismissal, including an account of the sequence and outcome of any relevant meetings, interviews or discussions. The parties should come to the hearing prepared to address the practicability of reinstatement or re-engagement, in so far as the Employee seeks such remedies.
+**84.**[^c-c4462f63fa8021b418e3ea442f2cde55] Written statements of case should briefly set out the main particulars of each party’s case, which can then be expanded upon if necessary at the hearing itself. The statement should include an explanation of the events which led up to the dismissal, including an account of the sequence and outcome of any relevant meetings, interviews or discussions. The parties should come to the hearing prepared to address the practicability of reinstatement or re-engagement, in so far as the Employee seeks such remedies.
 
-**85.**[^key-06adcc6f0d0090ee26ff288980e5217a] Supporting documentation or other material may include (without limitation) copies of:
+**85.**[^c-06adcc6f0d0090ee26ff288980e5217a] Supporting documentation or other material may include (without limitation) copies of:
 
 - (i) contracts of employment;
 - (ii) letters of appointment;
@@ -466,97 +466,97 @@ the arbitrator may expedite the hearing, on the application of any party.
 - (e) evidence of attempts to find other work, or otherwise mitigate the loss arising from the dismissal;
   - (x) signed statements of any witnesses or outlines of evidence to be given by witnesses at the hearing.
 
-**86.**[^key-d165cebf491b37adea6e4c85175c6984] The parties must also supply details of any relevant awards of compensation that may have been made by any other tribunal or court in connection with the subject matter of the claim.
+**86.**[^c-d165cebf491b37adea6e4c85175c6984] The parties must also supply details of any relevant awards of compensation that may have been made by any other tribunal or court in connection with the subject matter of the claim.
 
-**87.**[^key-9da0298b22200333f26b21e732d34369] Legible copies of documents must be supplied to ACAS even if they have already been supplied to an ACAS conciliator before the Arbitration Agreement was concluded.
+**87.**[^c-9da0298b22200333f26b21e732d34369] Legible copies of documents must be supplied to ACAS even if they have already been supplied to an ACAS conciliator before the Arbitration Agreement was concluded.
 
-**88.**[^key-d85d481655e06c2fbe8400584420dedd] No information on the conciliation process, if any, shall be disclosed by an ACAS conciliator to the arbitrator.
+**88.**[^c-d85d481655e06c2fbe8400584420dedd] No information on the conciliation process, if any, shall be disclosed by an ACAS conciliator to the arbitrator.
 
 #### Submissions, evidence and witnesses not previously notified
 
-**89.**[^key-d23804bf8caaf3f1d87b922867a5f883] Written statements of case and documentary or other material that have not been provided to the ACAS Arbitration Section prior to the hearing (in accordance with paragraph 83 above) may only be relied upon at the hearing with the arbitrator’s permission.
+**89.**[^c-d23804bf8caaf3f1d87b922867a5f883] Written statements of case and documentary or other material that have not been provided to the ACAS Arbitration Section prior to the hearing (in accordance with paragraph 83 above) may only be relied upon at the hearing with the arbitrator’s permission.
 
-**90.**[^key-f7d42b5f398256152de7a1c2b7c5bebb] All representatives and witnesses who have been listed as accompanying a party at the hearing should be present at the start of the hearing. Witnesses who have not been included in a list submitted to the ACAS Arbitration Section prior to the hearing may only be called with the arbitrator’s permission.
+**90.**[^c-f7d42b5f398256152de7a1c2b7c5bebb] All representatives and witnesses who have been listed as accompanying a party at the hearing should be present at the start of the hearing. Witnesses who have not been included in a list submitted to the ACAS Arbitration Section prior to the hearing may only be called with the arbitrator’s permission.
 
 #### Requests for documents
 
-**91.**[^key-ebe6fbd8ce98345b866f860558cf7912] Any party may request the other party to produce copies of relevant documents which are not in the requesting party’s possession, custody or control. Although the arbitrator has no power to compel a party to comply, the arbitrator may draw an adverse inference from a party’s failure to comply with a reasonable request.
+**91.**[^c-ebe6fbd8ce98345b866f860558cf7912] Any party may request the other party to produce copies of relevant documents which are not in the requesting party’s possession, custody or control. Although the arbitrator has no power to compel a party to comply, the arbitrator may draw an adverse inference from a party’s failure to comply with a reasonable request.
 
 #### Requests for attendance of witnesses
 
-**92.**[^key-f8950291c83e14e7f6454399278e7add] Although the arbitrator has no power to compel the attendance of anybody at the hearing, the arbitrator may draw an adverse inference if an employer who is a party to the arbitration fails or refuses to allow current employees or other workers (who have relevant evidence to give) time off from work to attend the hearing, should such an employer be so requested.
+**92.**[^c-f8950291c83e14e7f6454399278e7add] Although the arbitrator has no power to compel the attendance of anybody at the hearing, the arbitrator may draw an adverse inference if an employer who is a party to the arbitration fails or refuses to allow current employees or other workers (who have relevant evidence to give) time off from work to attend the hearing, should such an employer be so requested.
 
 #### Preliminary hearings and directions
 
-**93.**[^key-77f26e4713a695af970e6d765574a587] Where the arbitrator believes that there may be considerable differences between the parties over any issue, including the availability or exchange of documents, or the availability of witnesses, the arbitrator may call the parties to a preliminary hearing to address such issues, or he or she may give procedural directions in correspondence.
+**93.**[^c-77f26e4713a695af970e6d765574a587] Where the arbitrator believes that there may be considerable differences between the parties over any issue, including the availability or exchange of documents, or the availability of witnesses, the arbitrator may call the parties to a preliminary hearing to address such issues, or he or she may give procedural directions in correspondence.
 
-**94.**[^key-4ad36cfff2cf2c5ef1c4aba86fbce7f5] In the course of a preliminary hearing or in correspondence, the arbitrator may express views on the desirability of information and/or evidence being available at the hearing.
+**94.**[^c-4ad36cfff2cf2c5ef1c4aba86fbce7f5] In the course of a preliminary hearing or in correspondence, the arbitrator may express views on the desirability of information and/or evidence being available at the hearing.
 
 ### XVI. OUTLINE OF PROCEDURE AT THE HEARING
 
 #### Arbitrator’s overall discretion
 
-**95.**[^key-b8b632bb740b4a26d661ff0bcef0cd34] Subject to the arbitrator’s general duty (Part X above), and subject to the points set out below, the conduct of the hearing and all procedural and evidential matters (including applications for adjournments and changes in venue) shall be for the arbitrator to decide.
+**95.**[^c-b8b632bb740b4a26d661ff0bcef0cd34] Subject to the arbitrator’s general duty (Part X above), and subject to the points set out below, the conduct of the hearing and all procedural and evidential matters (including applications for adjournments and changes in venue) shall be for the arbitrator to decide.
 
 #### Language
 
-**96.**[^key-e66d601ac1c9f53a0bd16ef6adb5372b] The language of the proceedings shall be English, unless the Welsh language is applicable by virtue of the Welsh Language Act 1993 (as amended from time to time). Reference should be made to paragraph 75 above if the Welsh language is to be used.
+**96.**[^c-e66d601ac1c9f53a0bd16ef6adb5372b] The language of the proceedings shall be English, unless the Welsh language is applicable by virtue of the Welsh Language Act 1993 (as amended from time to time). Reference should be made to paragraph 75 above if the Welsh language is to be used.
 
 #### Witnesses
 
-**97.**[^key-4a5d3959ed446bd88dbb1b41f421d017] No party or witness shall be cross-examined by a party or representative, or examined on oath or affirmation.
+**97.**[^c-4a5d3959ed446bd88dbb1b41f421d017] No party or witness shall be cross-examined by a party or representative, or examined on oath or affirmation.
 
 #### Examination by the arbitrator
 
-**98.**[^key-7909f231450f7e8adcd2f694f411cdd6] The arbitrator shall have the right to address questions directly to either party or to anybody else attending the hearing, and to take the initiative in ascertaining the facts and (where applicable) the law.
+**98.**[^c-7909f231450f7e8adcd2f694f411cdd6] The arbitrator shall have the right to address questions directly to either party or to anybody else attending the hearing, and to take the initiative in ascertaining the facts and (where applicable) the law.
 
 #### Explanation of available remedies
 
-**99.**[^key-14ebb2c616f7c53407bf72c7ea395f98] In every case, the arbitrator shall:
+**99.**[^c-14ebb2c616f7c53407bf72c7ea395f98] In every case, the arbitrator shall:
 
 - (i) explain to the Employee what orders for reinstatement or re-engagement may be made in an award and under what circumstances these may be granted; and
 - (ii) ask the Employee whether he or she wishes the arbitrator to make such an award.
 
 #### Representatives
 
-**100.**[^key-268371c7b4e795988fd0daf5581a4808] The parties may be accompanied by any person chosen by them to help them to present their case at the hearing, although no special status will be accorded to legally qualified representatives. Each party is liable for any fees or expenses incurred by any representatives they appoint.
+**100.**[^c-268371c7b4e795988fd0daf5581a4808] The parties may be accompanied by any person chosen by them to help them to present their case at the hearing, although no special status will be accorded to legally qualified representatives. Each party is liable for any fees or expenses incurred by any representatives they appoint.
 
 #### Strict rules of evidence
 
-**101.**[^key-bfe25b471a970be9b73073f52679371a] The arbitrator will not apply strict rules of evidence (or any other rules) as to the admissibility, relevance or weight of any material (oral, written or other) sought to be tendered on any matters of fact or opinion.
+**101.**[^c-bfe25b471a970be9b73073f52679371a] The arbitrator will not apply strict rules of evidence (or any other rules) as to the admissibility, relevance or weight of any material (oral, written or other) sought to be tendered on any matters of fact or opinion.
 
 #### Interim relief
 
-**102.**[^key-6a973f316a1a1f7ac81cddfcf957c4a9] The arbitrator shall have no power to order provisional or interim relief, but may expedite the proceedings where appropriate.
+**102.**[^c-6a973f316a1a1f7ac81cddfcf957c4a9] The arbitrator shall have no power to order provisional or interim relief, but may expedite the proceedings where appropriate.
 
 #### Non-attendance at the hearing
 
-**103.**[^key-7ec791895e9ce900a95f8033b90a6540] If, without showing sufficient cause, a party fails to attend or be represented at a hearing, the arbitrator may:
+**103.**[^c-7ec791895e9ce900a95f8033b90a6540] If, without showing sufficient cause, a party fails to attend or be represented at a hearing, the arbitrator may:
 
 - (i) continue the hearing in that party’s absence, and in such a case shall take into account any written submissions and documents that have already been submitted by that party; or
 - (ii) adjourn the hearing.
 
-**104.**[^key-4fb59a43471c3c4a421678e569cebcbe] In the case of the non-attendance of the Employee, if the arbitrator decides to adjourn the hearing, he or she may write to the Employee to request an explanation for the non-attendance. If the arbitrator decides that the Employee has not demonstrated sufficient cause for the non-attendance, he or she may rule in an award that the claim be treated as dismissed.
+**104.**[^c-4fb59a43471c3c4a421678e569cebcbe] In the case of the non-attendance of the Employee, if the arbitrator decides to adjourn the hearing, he or she may write to the Employee to request an explanation for the non-attendance. If the arbitrator decides that the Employee has not demonstrated sufficient cause for the non-attendance, he or she may rule in an award that the claim be treated as dismissed.
 
 #### Post-hearing written materials
 
-**105.**[^key-3b71004d95ce1d6d1e004a648e83142b] No further submissions or evidence will be accepted after the end of the substantive hearing without the arbitrator’s permission, which will only be granted in exceptional circumstances. Where permission is granted, any material is to be sent to the ACAS Arbitration Section, to be forwarded to the arbitrator and all other parties.
+**105.**[^c-3b71004d95ce1d6d1e004a648e83142b] No further submissions or evidence will be accepted after the end of the substantive hearing without the arbitrator’s permission, which will only be granted in exceptional circumstances. Where permission is granted, any material is to be sent to the ACAS Arbitration Section, to be forwarded to the arbitrator and all other parties.
 
 ### XVII. QUESTIONS OF EC LAW, DEVOLUTION ISSUES AND THE HUMAN RIGHTS ACT 1998
 
 #### Appointment of legal adviser
 
-**106.**[^key-b14c2147b6daec7eb42e620e8519bf1a] The arbitrator shall have the power, on the application of any party or of his or her own motion, to require the appointment of a legal adviser to assist with respect to any issue of EC law or the Human Rights Act 1998 or any devolution issue that, in the arbitrator’s view and subject to paragraph 17 above (Arbitrator’s Terms of Reference), might be involved and relevant to the resolution of the dispute.
+**106.**[^c-b14c2147b6daec7eb42e620e8519bf1a] The arbitrator shall have the power, on the application of any party or of his or her own motion, to require the appointment of a legal adviser to assist with respect to any issue of EC law or the Human Rights Act 1998 or any devolution issue that, in the arbitrator’s view and subject to paragraph 17 above (Arbitrator’s Terms of Reference), might be involved and relevant to the resolution of the dispute.
 
-**107.**[^key-8f41b26e1c4fddaad1ba714a01e6c791] The legal adviser will be appointed by ACAS, to report to the arbitrator and the parties, and shall be subject to the duty of disclosure set out in paragraphs 44 and 45 above.
+**107.**[^c-8f41b26e1c4fddaad1ba714a01e6c791] The legal adviser will be appointed by ACAS, to report to the arbitrator and the parties, and shall be subject to the duty of disclosure set out in paragraphs 44 and 45 above.
 
-**108.**[^key-252b29f8f465f303141a2749c4e0b4f4] The arbitrator shall allow the legal adviser to attend the proceedings, and may order an adjournment and/or change in venue to facilitate this.
+**108.**[^c-252b29f8f465f303141a2749c4e0b4f4] The arbitrator shall allow the legal adviser to attend the proceedings, and may order an adjournment and/or change in venue to facilitate this.
 
-**109.**[^key-190f075685f149b08679c8b57e6c18da] The parties shall be given a reasonable opportunity to comment on any information, opinion or advice offered by the legal adviser, following which the arbitrator shall take such information, opinion or advice into account in determining the dispute.
+**109.**[^c-190f075685f149b08679c8b57e6c18da] The parties shall be given a reasonable opportunity to comment on any information, opinion or advice offered by the legal adviser, following which the arbitrator shall take such information, opinion or advice into account in determining the dispute.
 
 #### Court determination of preliminary points: English/Welsh arbitrations
 
-**110EW.**[^key-086f4843e125c147cb7d01b606a1168c] *Section 45 of the Arbitration Act 1996[^f00008] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications:*
+**110EW.**[^c-086f4843e125c147cb7d01b606a1168c] *Section 45 of the Arbitration Act 1996[^f00008] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications:*
 
 - (i) *in subsection (1)—*
 - (a) *for “Unless otherwise agreed by the parties, the court” substitute “The High Court or Central London County Court”;*
@@ -577,7 +577,7 @@ the arbitrator may expedite the hearing, on the application of any party.
 
 #### Court determination of preliminary points: Scottish arbitrations
 
-**111S.**[^key-b3a64cf50e61f096efcb6ab7d2a06f42] The arbitrator may make a reference to the Court of Session for determination as a preliminary point—
+**111S.**[^c-b3a64cf50e61f096efcb6ab7d2a06f42] The arbitrator may make a reference to the Court of Session for determination as a preliminary point—
 
 - (i) of any question of EC law,
 - (ii) of any question concerning the application of the Human Rights Act 1998, or
@@ -585,14 +585,14 @@ the arbitrator may expedite the hearing, on the application of any party.
 
 which substantially affects the rights of one or more of the parties to the arbitration.
 
-**112S.**[^key-fbcec7ae3e0e66a9edd702520aea0aa5] The arbitrator shall not make a reference under paragraph 111S unless:
+**112S.**[^c-fbcec7ae3e0e66a9edd702520aea0aa5] The arbitrator shall not make a reference under paragraph 111S unless:
 
 - (i) both parties have applied for or have agreed to the making of the reference; or
 - (ii) if an application for the reference has been made by one party and opposed by the other party, the arbitrator is satisfied that the application has been made without delay.
 
 ### XVIII. AUTOMATIC UNFAIRNESS
 
-**113.**[^key-09504fd6b9fa2f93bc16097c9e0e3652] In deciding whether the dismissal was fair or unfair, subject to paragraph 17 above (Arbitrator’s Terms of Reference), the arbitrator shall have regard to:
+**113.**[^c-09504fd6b9fa2f93bc16097c9e0e3652] In deciding whether the dismissal was fair or unfair, subject to paragraph 17 above (Arbitrator’s Terms of Reference), the arbitrator shall have regard to:
 
 - (i) any provision of Part X of the Employment Rights Act 1996 (as amended from time to time) requiring a dismissal for a particular reason to be regarded as unfair, and
 - (ii) any other legislative provision requiring a dismissal for a particular reason to be regarded as unfair for the purpose of Part X of the Employment Rights Act 1996.
@@ -603,9 +603,9 @@ which substantially affects the rights of one or more of the parties to the arbi
 
 *Extent: E+W*
 
-**114EW.**[^key-5746fe089397bfd76d3defc652ca4028] The award in an English/Welsh arbitration shall be in writing, signed by the arbitrator.
+**114EW.**[^c-5746fe089397bfd76d3defc652ca4028] The award in an English/Welsh arbitration shall be in writing, signed by the arbitrator.
 
-**115EW.**[^key-9ee03b33a94d0c797015f4abe7bf9043] The award (unless it is an agreed award) shall:
+**115EW.**[^c-9ee03b33a94d0c797015f4abe7bf9043] The award (unless it is an agreed award) shall:
 
 - (i) identify the reason (or, if more than one, the principal reason) for the dismissal (or, in a redundancy case, the reason for which the employee was selected for dismissal);
 - (ii) contain the main considerations which were taken into account in reaching the decision that the dismissal was fair or unfair;
@@ -613,7 +613,7 @@ which substantially affects the rights of one or more of the parties to the arbi
 - (iv) state the remedy awarded, together with an explanation;
 - (v) state the date when it was made.
 
-**116EW.**[^key-67138b3b9786492fb14b432f9871bef2] If the award contains an order for the payment of money the award shall—
+**116EW.**[^c-67138b3b9786492fb14b432f9871bef2] If the award contains an order for the payment of money the award shall—
 
 - (i) order the Employer to pay the Employee the amount of the award of compensation; and
 - (ii) order the Employer to pay interest thereon in accordance with paragraph 186 of the Scheme.
@@ -622,7 +622,7 @@ which substantially affects the rights of one or more of the parties to the arbi
 
 *Extent: S*
 
-**117S.**[^key-af6d828964e166367a84aa1751383cd9] The award in a Scottish arbitration shall—
+**117S.**[^c-af6d828964e166367a84aa1751383cd9] The award in a Scottish arbitration shall—
 
 - (i) be in writing;
 - (ii) state the date upon which it was made;
@@ -631,12 +631,12 @@ which substantially affects the rights of one or more of the parties to the arbi
 - (v) be signed by a witness to the arbitrator’s signature; and
 - (vi) specify the name and address of the witness.
 
-**118S.**[^key-5de4a6ebf58fc7727314fbdc3564601c] If the award contains an order for the payment of money the award shall—
+**118S.**[^c-5de4a6ebf58fc7727314fbdc3564601c] If the award contains an order for the payment of money the award shall—
 
 - (i) ordain the Employer to pay to the Employee the amount of the award of compensation; and
 - (ii) ordain the Employer to pay interest thereon in accordance with paragraph 186 of the Scheme.
 
-**119S.**[^key-8a78563e04bdcc79e98d7858f7970b8e] The arbitrator shall issue with his award (unless it is an agreed award) a Note, which shall—
+**119S.**[^c-8a78563e04bdcc79e98d7858f7970b8e] The arbitrator shall issue with his award (unless it is an agreed award) a Note, which shall—
 
 - (i) identify the reason (or, if more than one, the principal reason) for the dismissal (or, in a redundancy case, the reason for which the employee was selected for dismissal);
 - (ii) contain the main considerations which were taken into account in reaching the decision that the dismissal was fair or unfair;
@@ -647,51 +647,51 @@ which substantially affects the rights of one or more of the parties to the arbi
 
 #### Awards on different issues
 
-**120.**[^key-19573be0abfc8403c2d012b54f76760d] The arbitrator may make more than one award at different times on different aspects of the matters to be determined.
+**120.**[^c-19573be0abfc8403c2d012b54f76760d] The arbitrator may make more than one award at different times on different aspects of the matters to be determined.
 
-**121.**[^key-c62a833faa9ec0936049d2ecd345bd07] The arbitrator may, in particular, make an award relating:
+**121.**[^c-c62a833faa9ec0936049d2ecd345bd07] The arbitrator may, in particular, make an award relating:
 
 - (i) to an issue affecting the whole claim, or
 - (ii) to a part only of the claim submitted to him or her for decision.
 
-**122.**[^key-7e9c8387ed600a53172a6b6a30c27021] If the arbitrator does so, he or she shall specify in his or her award the issue, or the claim or part of a claim, which is the subject matter of the award.
+**122.**[^c-7e9c8387ed600a53172a6b6a30c27021] If the arbitrator does so, he or she shall specify in his or her award the issue, or the claim or part of a claim, which is the subject matter of the award.
 
 #### Remedies
 
-**123.**[^key-1d025be7a85dcd88f7e2054bd37f9c9f] In the event that the arbitrator finds that the dismissal was unfair:
+**123.**[^c-1d025be7a85dcd88f7e2054bd37f9c9f] In the event that the arbitrator finds that the dismissal was unfair:
 
 - (i) if the Employee expresses such a wish, the arbitrator may make, in an award, an order for reinstatement or re-engagement (in accordance with the provisions below); or
 - (ii) if no such order for reinstatement or re-engagement is made, the arbitrator shall make an award of compensation (calculated in accordance with the provisions below) to be paid by the Employer to the Employee.
 
-**124.**[^key-58c5c79dd7cf3f33c796a3e8806200e1] In cases where the arbitrator finds that the dismissal was unfair by reason of the operation of EC law, the arbitrator shall in an English/Welsh arbitration apply the relevant provisions of English law and shall in a Scottish arbitration apply the relevant provisions of Scots law with respect to remedies for unfair dismissal, in so far as these may differ from Parts XX and XXI of the Scheme.
+**124.**[^c-58c5c79dd7cf3f33c796a3e8806200e1] In cases where the arbitrator finds that the dismissal was unfair by reason of the operation of EC law, the arbitrator shall in an English/Welsh arbitration apply the relevant provisions of English law and shall in a Scottish arbitration apply the relevant provisions of Scots law with respect to remedies for unfair dismissal, in so far as these may differ from Parts XX and XXI of the Scheme.
 
 ### XX. AWARDS OF REINSTATEMENT OR RE-ENGAGEMENT
 
 #### Definitions
 
-**125.**[^key-a0c52acf8f194731e53db1081831cc40] An order for reinstatement (which must be in the form of an award) is an order that the Employer shall treat the Employee in all respects as if he or she had not been dismissed.
+**125.**[^c-a0c52acf8f194731e53db1081831cc40] An order for reinstatement (which must be in the form of an award) is an order that the Employer shall treat the Employee in all respects as if he or she had not been dismissed.
 
-**126.**[^key-7b40a1c5af1ac72d58831d4d37bc32ea] An order for re-engagement (which must be in the form of an award) is an order, on such terms as the arbitrator may decide, that the Employee be engaged by the Employer, or by a successor of the Employer or by an associated employer, in employment comparable to that from which he or she was dismissed or in other suitable employment.
+**126.**[^c-7b40a1c5af1ac72d58831d4d37bc32ea] An order for re-engagement (which must be in the form of an award) is an order, on such terms as the arbitrator may decide, that the Employee be engaged by the Employer, or by a successor of the Employer or by an associated employer, in employment comparable to that from which he or she was dismissed or in other suitable employment.
 
 #### Choice of remedy
 
-**127.**[^key-60dfdabd8dea2b6fece728e44db6fca1] In exercising his or her discretion with respect to the remedy to be awarded under paragraph 123(i) above, the arbitrator shall first consider whether to make an order for reinstatement, and in so doing shall take into account:
+**127.**[^c-60dfdabd8dea2b6fece728e44db6fca1] In exercising his or her discretion with respect to the remedy to be awarded under paragraph 123(i) above, the arbitrator shall first consider whether to make an order for reinstatement, and in so doing shall take into account:
 
 - (i) whether the Employee wishes to be reinstated;
 - (ii) whether it is practicable for the Employer to comply with an order for reinstatement; and
 - (iii) where the Employee caused or contributed to some extent to the dismissal, whether it would be just to order his or her reinstatement.
 
-**128.**[^key-9ad99d89d59e89b05f03413172c1bf28] If the arbitrator decides not to make an order for reinstatement, he or she shall then consider whether to make an order for re-engagement and, if so, on what terms. In so doing, the arbitrator shall take into account:
+**128.**[^c-9ad99d89d59e89b05f03413172c1bf28] If the arbitrator decides not to make an order for reinstatement, he or she shall then consider whether to make an order for re-engagement and, if so, on what terms. In so doing, the arbitrator shall take into account:
 
 - (i) any wish expressed by the Employee as to the nature of the order to be made;
 - (ii) whether it is practicable for the Employer (or a successor or an associated employer) to comply with an order for re-engagement, and
 - (iii) where the Employee caused or contributed to some extent to the dismissal, whether it would be just to order his or her re-engagement and, if so, on what terms.
 
-**129.**[^key-c7c229f3a14104567744b4e9b1c1680a] If ordering re-engagement, the arbitrator shall do so on terms which are, so far as is reasonably practicable, as favourable as an order for reinstatement (with the exception of cases where contributory fault has been taken into account under paragraph 127(iii) above).
+**129.**[^c-c7c229f3a14104567744b4e9b1c1680a] If ordering re-engagement, the arbitrator shall do so on terms which are, so far as is reasonably practicable, as favourable as an order for reinstatement (with the exception of cases where contributory fault has been taken into account under paragraph 127(iii) above).
 
 #### Permanent replacements
 
-**130.**[^key-5d029aff32144769cfc6682db8d2a3f7] Where in any case an Employer has engaged a permanent replacement for a dismissed Employee, the arbitrator shall not take that fact into account in determining, for the purposes of paragraphs 127(ii) and 128(ii) above, whether it is practicable to comply with an order for reinstatement or re-engagement. This does not apply, however, where the Employer shows:
+**130.**[^c-5d029aff32144769cfc6682db8d2a3f7] Where in any case an Employer has engaged a permanent replacement for a dismissed Employee, the arbitrator shall not take that fact into account in determining, for the purposes of paragraphs 127(ii) and 128(ii) above, whether it is practicable to comply with an order for reinstatement or re-engagement. This does not apply, however, where the Employer shows:
 
 - (i) that it was not practicable for him or her to arrange for the dismissed Employee’s work to be done without engaging a permanent replacement, or
 - (ii) that:
@@ -700,15 +700,15 @@ which substantially affects the rights of one or more of the parties to the arbi
 
 #### Reinstatement
 
-**131.**[^key-256c4cd4fb62933151998a58af4aa6e0] On making an order for reinstatement, the arbitrator shall specify:
+**131.**[^c-256c4cd4fb62933151998a58af4aa6e0] On making an order for reinstatement, the arbitrator shall specify:
 
 - (i) any amount payable by the Employer in respect of any benefit which the Employee might reasonably be expected to have had but for the dismissal (including arrears of pay) for the period between the date of termination of employment and the date of reinstatement,
 - (ii) any rights and privileges (including seniority and pension rights) which must be restored to the Employee, and
 - (iii) the date by which the order must be complied with.
 
-**132.**[^key-0bdf77b3534750dbd4ee211f0748c596] If the Employee would have benefited from an improvement in his or her terms and conditions of employment had he or she not been dismissed, an order for reinstatement shall require him or her to be treated as if he or she had benefited from that improvement from the date on which he or she would have done so but for being dismissed.
+**132.**[^c-0bdf77b3534750dbd4ee211f0748c596] If the Employee would have benefited from an improvement in his or her terms and conditions of employment had he or she not been dismissed, an order for reinstatement shall require him or her to be treated as if he or she had benefited from that improvement from the date on which he or she would have done so but for being dismissed.
 
-**133.**[^key-e765e9b33e6d53560233f50a6612a3ba] In calculating for the purposes of paragraph 131(i) above any amount payable by the Employer, the arbitrator shall take into account, so as to reduce the Employer’s liability, any sums received by the Employee in respect of the period between the date of termination of employment and the date of reinstatement by way of:
+**133.**[^c-e765e9b33e6d53560233f50a6612a3ba] In calculating for the purposes of paragraph 131(i) above any amount payable by the Employer, the arbitrator shall take into account, so as to reduce the Employer’s liability, any sums received by the Employee in respect of the period between the date of termination of employment and the date of reinstatement by way of:
 
 - (i) wages in lieu of notice or ex gratia payments paid by the Employer, or
 - (ii) remuneration paid in respect of employment with another employer,
@@ -717,7 +717,7 @@ and such other benefits as the arbitrator thinks appropriate in the circumstance
 
 #### Re-engagement
 
-**134.**[^key-e418d2930665ad0ba80dffe459cc2672] On making an order for re-engagement the arbitrator shall specify the terms on which re-engagement is to take place, including:
+**134.**[^c-e418d2930665ad0ba80dffe459cc2672] On making an order for re-engagement the arbitrator shall specify the terms on which re-engagement is to take place, including:
 
 - (i) the identity of the employer,
 - (ii) the nature of the employment,
@@ -726,7 +726,7 @@ and such other benefits as the arbitrator thinks appropriate in the circumstance
 - (v) any rights and privileges (including seniority and pension rights) which must be restored to the Employee, and
 - (vi) the date by which the order must be complied with.
 
-**135.**[^key-1341219cd59cfc9b935057304e2a18e6] In calculating, for the purposes of paragraph 131(iv) above, any amount payable by the Employer, the arbitrator shall take into account, so as to reduce the Employer’s liability, any sums received by the Employee in respect of the period between the date of termination of employment and the date of re-engagement by way of:
+**135.**[^c-1341219cd59cfc9b935057304e2a18e6] In calculating, for the purposes of paragraph 131(iv) above, any amount payable by the Employer, the arbitrator shall take into account, so as to reduce the Employer’s liability, any sums received by the Employee in respect of the period between the date of termination of employment and the date of re-engagement by way of:
 
 - (i) wages in lieu of notice or ex gratia payments paid by the Employer, or
 - (ii) remuneration paid in respect of employment with another employer,
@@ -735,23 +735,23 @@ and such other benefits as the arbitrator thinks appropriate in the circumstance
 
 #### Continuity of employment
 
-**136.**[^key-27ce33f2a28b7013024f445823495d03] The Employee’s continuity of employment will be preserved in the same way as it would be under an award of the employment tribunal.
+**136.**[^c-27ce33f2a28b7013024f445823495d03] The Employee’s continuity of employment will be preserved in the same way as it would be under an award of the employment tribunal.
 
 ### XXI. AWARDS OF COMPENSATION
 
-**137.**[^key-31cfd69fe207cb0fac0fc78677f3af18] When an arbitrator makes an award of compensation, instead of an award for reinstatement or re-engagement, such compensation shall consist of a basic amount and a compensatory amount.
+**137.**[^c-31cfd69fe207cb0fac0fc78677f3af18] When an arbitrator makes an award of compensation, instead of an award for reinstatement or re-engagement, such compensation shall consist of a basic amount and a compensatory amount.
 
-**138.**[^key-b3053b5ebf047791b86c8a1dc75f2a8e] Where paragraph 163 below applies, an award of compensation shall also include a *supplementary amount*.
+**138.**[^c-b3053b5ebf047791b86c8a1dc75f2a8e] Where paragraph 163 below applies, an award of compensation shall also include a *supplementary amount*.
 
 #### The basic amount
 
-**139.**[^key-5d7886a8560b56cb8c3b164c84aa89fb] Subject to the following provisions, the basic amount shall be calculated by:
+**139.**[^c-5d7886a8560b56cb8c3b164c84aa89fb] Subject to the following provisions, the basic amount shall be calculated by:
 
 - (i) determining the period, ending with the effective date of termination (see paragraph 140 below), during which the Employee has been continuously employed (see paragraph 141 below),
 - (ii) reckoning backwards from the end of that period the number of years of employment falling within that period, and
 - (iii) allowing the appropriate amount (see paragraph 142 below) for each of those years of employment.
 
-**140.**[^key-38092795ea695349a82dab8fc4bf4c4c] As to the “effective date of termination”:
+**140.**[^c-38092795ea695349a82dab8fc4bf4c4c] As to the “effective date of termination”:
 
 - (i) the “**effective date of termination**” means:
 - (a) in relation to an Employee whose contract of employment is terminated by notice, whether given by his or her Employer or by the Employee, the date on which the notice expires;
@@ -777,28 +777,28 @@ the later date is the effective date of termination.
 - (a) the date when notice of termination was given by the Employee, or
 - (b) where no notice was given, the date when the contract of employment was terminated by the Employee.
 
-**141.**[^key-0451918929543e3c5de41c8404a4bc1d] In determining “continuous employment”, the arbitrator shall have regard to Chapter I of Part XIV of the Employment Rights Act 1996 (as amended from time to time).
+**141.**[^c-0451918929543e3c5de41c8404a4bc1d] In determining “continuous employment”, the arbitrator shall have regard to Chapter I of Part XIV of the Employment Rights Act 1996 (as amended from time to time).
 
-**142.**[^key-e21024e370a8dcfd926c195913a836d8] The “**appropriate amount**” means:
+**142.**[^c-e21024e370a8dcfd926c195913a836d8] The “**appropriate amount**” means:
 
 - (i) one and a half weeks' pay for a year of employment in which the Employee was not below the age of forty-one,
 - (ii) one week’s pay for a year of employment (not within sub-paragraph (i) above) in which he or she was not below the age of twenty-two, and
 - (iii) half a week’s pay for a year of employment not within sub-paragraphs (i) or (ii) above.
 
-**143.**[^key-bc9d12aad6fb12228ba3af74cfbe0208] In calculating the amount of a week’s pay of an Employee, the arbitrator shall have regard to Chapter II of Part XIV of the Employment Rights Act 1996, as amended from time to time, or any other relevant statutory provision applicable to the calculation of a week’s pay.
+**143.**[^c-bc9d12aad6fb12228ba3af74cfbe0208] In calculating the amount of a week’s pay of an Employee, the arbitrator shall have regard to Chapter II of Part XIV of the Employment Rights Act 1996, as amended from time to time, or any other relevant statutory provision applicable to the calculation of a week’s pay.
 
-**144.**[^key-675ed532b6e7d823956e6906018546d9] Where twenty years of employment have been reckoned under paragraph 139 above, no account shall be taken under that paragraph of any year of employment earlier than those twenty years.
+**144.**[^c-675ed532b6e7d823956e6906018546d9] Where twenty years of employment have been reckoned under paragraph 139 above, no account shall be taken under that paragraph of any year of employment earlier than those twenty years.
 
-**145.**[^key-c3577334fa4cc30502968d73dfd2b0f9] Where the effective date of termination is after the sixty-fourth anniversary of the day of the Employee’s birth, the amount arrived at under paragraphs 139, 142 and 144 above shall be reduced by the “**appropriate fraction**” (see paragraph 146 below).
+**145.**[^c-c3577334fa4cc30502968d73dfd2b0f9] Where the effective date of termination is after the sixty-fourth anniversary of the day of the Employee’s birth, the amount arrived at under paragraphs 139, 142 and 144 above shall be reduced by the “**appropriate fraction**” (see paragraph 146 below).
 
-**146.**[^key-b69ff743fa4cce9ae21b9696716dc67a] The “**appropriate fraction**” means the fraction of which:
+**146.**[^c-b69ff743fa4cce9ae21b9696716dc67a] The “**appropriate fraction**” means the fraction of which:
 
 - (i) the numerator is the number of whole months reckoned from the sixty-fourth anniversary of the day of the Employee’s birth in the period beginning with that anniversary and ending with the effective date of termination (see paragraph 140 above), and
 - (ii) the denominator is twelve.
 
 #### Minimum basic amounts in certain cases
 
-**147.**[^key-afb1890ab7542c552a39176833f90e83] A “minimum basic amount” shall apply where the arbitrator has found that the dismissal was unfair, and where the reason (or, if more than one, the principal reason):
+**147.**[^c-afb1890ab7542c552a39176833f90e83] A “minimum basic amount” shall apply where the arbitrator has found that the dismissal was unfair, and where the reason (or, if more than one, the principal reason):
 
 - in a redundancy case (see paragraph 150(i) below), for selecting the Employee for dismissal, or
 - otherwise, for the dismissal
@@ -825,7 +825,7 @@ was one of the following:
 
 - ***Employee representatives***
   - (v) being:
-    - (a) an employee representative for the purposes of Chapter II of Part IV of the Trade Union and Labour Relations (Consolidation) Act 1992 (redundancies) or regulations 13, 15 and 16 of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^key-07532694b94086f1c18ad52a2412f7fa] (as amended from time to time), or
+    - (a) an employee representative for the purposes of Chapter II of Part IV of the Trade Union and Labour Relations (Consolidation) Act 1992 (redundancies) or regulations 13, 15 and 16 of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^c-07532694b94086f1c18ad52a2412f7fa] (as amended from time to time), or
     - (b) a candidate in an election in which any person elected will, on being elected, be such an employee representative,
 
     performed (or proposed to perform) any functions or activities as such an employee representative or candidate;
@@ -852,7 +852,7 @@ was one of the following:
 - ***Other categories***
   - (xii) where the reason or principal reason for the dismissal of the Employee qualifies under any other applicable legislative provision for a minimum basic award.
 
-**148.**[^key-1dfe02eebaa56bea985f7fef170d9297] Before any reductions are taken into account under paragraphs 151 to 155 below (“Reductions to the basic amount”), the “minimum basic amount” shall not be less than:
+**148.**[^c-1dfe02eebaa56bea985f7fef170d9297] Before any reductions are taken into account under paragraphs 151 to 155 below (“Reductions to the basic amount”), the “minimum basic amount” shall not be less than:
 
 - (i) in cases within paragraph 147(i), (ii), (iii), (iv), (v) and (vi) above, the amount provided for in section 120(1) of the Employment Rights Act 1996, as amended from time to time;
 - (ii) in cases within paragraph 147(vii) above, the amount provided for in section 156 of the Trade Union and Labour Relations (Consolidation) Act 1992, as amended from time to time;
@@ -860,7 +860,7 @@ was one of the following:
 
 #### Basic amount of two weeks' pay in certain cases
 
-**149.**[^key-937874fdeef932800046a39283dc148b] Where:
+**149.**[^c-937874fdeef932800046a39283dc148b] Where:
 
 - (i) the arbitrator finds that the reason (or, where there is more than one, the principal reason) for the dismissal of the Employee is that he or she was redundant and
 - (ii) the Employee:
@@ -869,28 +869,28 @@ was one of the following:
 
 the basic amount shall be two weeks' pay (for the definition of “week’s pay”, see paragraph 143 above).
 
-**150.**[^key-e34403d89b8940e74d8db2a6231768de] For the purposes of this Scheme:
+**150.**[^c-e34403d89b8940e74d8db2a6231768de] For the purposes of this Scheme:
 
 - (i) for the definition of “redundancy”, the arbitrator shall have regard to section 139 of the Employment Rights Act 1996, as amended from time to time;
 - (ii) for the definition of “redundancy payment”, the arbitrator shall have regard to Part XI of the Employment Rights Act 1996, as amended from time to time.
 
 #### Reductions to the basic amount
 
-**151.**[^key-15d0ca594f1fdd41b0597a276d7e7617] Where the arbitrator finds that the Employee has unreasonably refused an offer by the Employer which (if accepted) would have the effect of reinstating the Employee in his or her employment in all respects as if he or she had not been dismissed, the arbitrator shall reduce or further reduce the basic amount to such extent as he or she considers just and equitable having regard to that finding.
+**151.**[^c-15d0ca594f1fdd41b0597a276d7e7617] Where the arbitrator finds that the Employee has unreasonably refused an offer by the Employer which (if accepted) would have the effect of reinstating the Employee in his or her employment in all respects as if he or she had not been dismissed, the arbitrator shall reduce or further reduce the basic amount to such extent as he or she considers just and equitable having regard to that finding.
 
-**152.**[^key-17804e1076cd06e0efaf59d822bc91a7] Where the arbitrator considers that any conduct of the Employee before the dismissal (or, where the dismissal was with notice, before the notice was given) was such that it would be just and equitable to reduce or further reduce the basic amount to any extent, the arbitrator shall reduce or further reduce that amount accordingly. In assessing such conduct, the arbitrator shall disregard (if relevant) those matters set out in section 155 of the Trade Union and Labour Relations (Consolidation) Act 1992, as amended from time to time.
+**152.**[^c-17804e1076cd06e0efaf59d822bc91a7] Where the arbitrator considers that any conduct of the Employee before the dismissal (or, where the dismissal was with notice, before the notice was given) was such that it would be just and equitable to reduce or further reduce the basic amount to any extent, the arbitrator shall reduce or further reduce that amount accordingly. In assessing such conduct, the arbitrator shall disregard (if relevant) those matters set out in section 155 of the Trade Union and Labour Relations (Consolidation) Act 1992, as amended from time to time.
 
-**153.**[^key-11cace5e4e1dd7164ab2ce47cdfd0b49] The preceding paragraph does not apply in a redundancy case (see paragraph 150(i) above) unless the reason for selecting the Employee for dismissal was one of those specified in paragraph 147 above (“**Minimum basic amounts in certain cases**”), and in such a case, the preceding paragraph applies only to so much of the basic amount as is payable because of paragraph 147 above.
+**153.**[^c-11cace5e4e1dd7164ab2ce47cdfd0b49] The preceding paragraph does not apply in a redundancy case (see paragraph 150(i) above) unless the reason for selecting the Employee for dismissal was one of those specified in paragraph 147 above (“**Minimum basic amounts in certain cases**”), and in such a case, the preceding paragraph applies only to so much of the basic amount as is payable because of paragraph 147 above.
 
-**154.**[^key-5a431e8daf50dbc55bdbfb89c6866ae0] Where the Employee has been awarded any amount in respect of the dismissal under a dismissal procedures agreement designated under section 110 of the Employment Rights Act 1996 (as amended from time to time), the arbitrator shall reduce or further reduce the amount of the basic award to such extent as he or she considers just and equitable having regard to that award.
+**154.**[^c-5a431e8daf50dbc55bdbfb89c6866ae0] Where the Employee has been awarded any amount in respect of the dismissal under a dismissal procedures agreement designated under section 110 of the Employment Rights Act 1996 (as amended from time to time), the arbitrator shall reduce or further reduce the amount of the basic award to such extent as he or she considers just and equitable having regard to that award.
 
-**155.**[^key-b00cb6e703a7d73e52c08876ca5dd005] The basic amount shall be reduced or further reduced by the amount of any payment made by the Employer to the Employee on the ground that the dismissal was by reason of redundancy (whether in pursuance of Part XI of the Employment Rights Act 1996, as amended from time to time, or otherwise).
+**155.**[^c-b00cb6e703a7d73e52c08876ca5dd005] The basic amount shall be reduced or further reduced by the amount of any payment made by the Employer to the Employee on the ground that the dismissal was by reason of redundancy (whether in pursuance of Part XI of the Employment Rights Act 1996, as amended from time to time, or otherwise).
 
 #### The compensatory amount
 
-**156.**[^key-0d81c55ea7af9532d7227b262b017c0f] Subject to the following provisions, the compensatory amount shall be such as the arbitrator considers just and equitable in all the circumstances having regard to the loss sustained by the Employee in consequence of the dismissal, in so far as that loss is attributable to action taken by the Employer.
+**156.**[^c-0d81c55ea7af9532d7227b262b017c0f] Subject to the following provisions, the compensatory amount shall be such as the arbitrator considers just and equitable in all the circumstances having regard to the loss sustained by the Employee in consequence of the dismissal, in so far as that loss is attributable to action taken by the Employer.
 
-**157.**[^key-568ba7c25b0282e17008343ffdf91daf] The loss referred to in paragraph 156 above shall be taken to include:
+**157.**[^c-568ba7c25b0282e17008343ffdf91daf] The loss referred to in paragraph 156 above shall be taken to include:
 
 - (i) any expenses reasonably incurred by the Employee in consequence of the dismissal; and
 - (ii) subject to sub-paragraph (iii) below, loss of any benefit which he or she might reasonably be expected to have had but for the dismissal;
@@ -900,9 +900,9 @@ the basic amount shall be two weeks' pay (for the definition of “week’s pay�
 
 only the loss referable to the amount (if any) by which such a payment would have exceeded the basic amount in respect of the same dismissal (as calculated under the provisions set out above–but excluding any reductions under paragraphs 151 to 155 above (“Reductions to the basic amount”)).
 
-**158.**[^key-ca5ac0df14e6d27da016b30b26983490] In ascertaining the loss referred to in paragraph 152 above, the arbitrator shall apply the principle that a person has a duty to mitigate his or her loss.
+**158.**[^c-ca5ac0df14e6d27da016b30b26983490] In ascertaining the loss referred to in paragraph 152 above, the arbitrator shall apply the principle that a person has a duty to mitigate his or her loss.
 
-**159.**[^key-df8bc7169dde08f2435cfcb6f0056940] In determining, for the purposes of paragraph 152 above, how far any loss sustained by the Employee was attributable to action taken by the Employer, no account shall be taken of any pressure which by:
+**159.**[^c-df8bc7169dde08f2435cfcb6f0056940] In determining, for the purposes of paragraph 152 above, how far any loss sustained by the Employee was attributable to action taken by the Employer, no account shall be taken of any pressure which by:
 
 - (i) calling, organising, procuring or financing a strike or other industrial action, or
 - (ii) threatening to do so,
@@ -911,9 +911,9 @@ was exercised on the Employer to dismiss the Employee; and that question shall b
 
 #### Reductions to the compensatory amount
 
-**160.**[^key-350332064e6ba789200ba7dfde511871] Where the arbitrator finds that the dismissal was to any extent caused or contributed to by any conduct of the Employee, he or she shall reduce the compensatory amount by such proportion as he or she considers just and equitable having regard to that finding. In assessing such conduct, the arbitrator shall disregard (if relevant) those matters set out in section 155 of the Trade Union and Labour Relations (Consolidation) Act 1992, as amended from time to time.
+**160.**[^c-350332064e6ba789200ba7dfde511871] Where the arbitrator finds that the dismissal was to any extent caused or contributed to by any conduct of the Employee, he or she shall reduce the compensatory amount by such proportion as he or she considers just and equitable having regard to that finding. In assessing such conduct, the arbitrator shall disregard (if relevant) those matters set out in section 155 of the Trade Union and Labour Relations (Consolidation) Act 1992, as amended from time to time.
 
-**161.**[^key-623d184ff22ec0d8de40fecaee8e97f5] If:
+**161.**[^c-623d184ff22ec0d8de40fecaee8e97f5] If:
 
 - (i) any payment was made by the Employer to the Employee on the ground that the dismissal was by reason of redundancy (whether in pursuance of Part XI of the Employment Rights Act 1996, as amended from time to time, or otherwise); and
 - (ii) the amount of such a payment exceeds the basic amount that would have been payable under the provisions set out above (excluding for this purpose reductions on account of redundancy payments (see paragraph 150 above)),
@@ -922,7 +922,7 @@ that excess goes to reduce the compensatory amount.
 
 #### Internal appeal procedures
 
-**162.**[^key-5c3a95f8f7d3a747fc6c35e106d23d72] Where an award of compensation is to be made, and the arbitrator finds that:
+**162.**[^c-5c3a95f8f7d3a747fc6c35e106d23d72] Where an award of compensation is to be made, and the arbitrator finds that:
 
 - (i) the Employer provided a procedure for appealing against dismissal; and
 - (ii) the Employee was, at the time of the dismissal or within a reasonable period afterwards, given written notice stating that the Employer provided the procedure and including details of it; but
@@ -930,20 +930,20 @@ that excess goes to reduce the compensatory amount.
 
 the arbitrator shall reduce the compensatory amount included in an award of compensation by such amount (if any) as he or she considers just and equitable.
 
-**163.**[^key-cd4fae4e38d917dea588d75e6bbc1aff] Where an award of compensation is to be made, and the arbitrator finds that:
+**163.**[^c-cd4fae4e38d917dea588d75e6bbc1aff] Where an award of compensation is to be made, and the arbitrator finds that:
 
 - (i) the Employer provided a procedure for appealing against dismissal; but
 - (ii) the Employer prevented the Employee from appealing against the dismissal under the procedure,
 
 the award of compensation shall include a supplementary amount, being such amount (if any) as the arbitrator considers just and equitable.
 
-**164.**[^key-612c0a87e3cf36ade5c701a5e1c2dcce] In determining the amount of a reduction under paragraph 162 above or a supplementary amount under paragraph 163 above, the arbitrator shall have regard to all the circumstances of the case, including in particular the chances that an appeal under the procedure provided by the Employer would have been successful.
+**164.**[^c-612c0a87e3cf36ade5c701a5e1c2dcce] In determining the amount of a reduction under paragraph 162 above or a supplementary amount under paragraph 163 above, the arbitrator shall have regard to all the circumstances of the case, including in particular the chances that an appeal under the procedure provided by the Employer would have been successful.
 
-**165.**[^key-ca21ec3c786d5cd2eb3d76fc92decea9] The amount of such a reduction or supplementary amount shall not exceed the amount of two weeks' pay (for the definition of “week’s pay”, see paragraph 143 above).
+**165.**[^c-ca21ec3c786d5cd2eb3d76fc92decea9] The amount of such a reduction or supplementary amount shall not exceed the amount of two weeks' pay (for the definition of “week’s pay”, see paragraph 143 above).
 
 #### Limits on the compensatory amount
 
-**166.**[^key-1c090bc9e4a3e029b5ae515b6c3cd735] With the exception of:
+**166.**[^c-1c090bc9e4a3e029b5ae515b6c3cd735] With the exception of:
 
 - (i) cases falling within sections 100 or 105(3) (Health and Safety Cases) of the Employment Rights Act 1996, as amended from time to time; and
 - (ii) cases where the reason (or, if more than one, the principal reason):
@@ -956,14 +956,14 @@ was that the Employee made a protected disclosure (within the meaning of Part IV
 
 no compensatory amount awarded by an arbitrator shall exceed the statutory limit provided for in section 124(1) of the Employment Rights Act 1996, as amended from time to time.
 
-**167.**[^key-efce6b43d91be1c7e6067ee4653e11ce] The limit referred to above applies to the amount which the arbitrator would award (apart from paragraph 166 above) in respect of the subject matter of the complaint, after taking into account:
+**167.**[^c-efce6b43d91be1c7e6067ee4653e11ce] The limit referred to above applies to the amount which the arbitrator would award (apart from paragraph 166 above) in respect of the subject matter of the complaint, after taking into account:
 
 - (i) any payment made by the Employer to the Employee in respect of that matter, and
 - (ii) any reduction in the amount of the award required by any enactment or rule of law.
 
 #### Double recovery
 
-**168.**[^key-44f0a28ebd534c7196a4f042120a286b] Where the same acts of the Employer are relied upon by the Employee:
+**168.**[^c-44f0a28ebd534c7196a4f042120a286b] Where the same acts of the Employer are relied upon by the Employee:
 
 - (i) to ground a claim for unfair dismissal in arbitration as well as
 - (ii) to ground a claim in the employment tribunal for discrimination (under the Sex Discrimination Act 1975 and/or the Race Relations Act 1976 and/or the Disability Discrimination Act 1995, and/or any other relevant Act or subordinate legislation),
@@ -974,34 +974,34 @@ In this regard, the arbitrator shall have regard to any information supplied by 
 
 ### XXII. ISSUE OF AWARDS AND CONFIDENTIALITY
 
-**169.**[^key-556c93f1da43dfe7a71b36a2bebbc566] The arbitrator’s award shall be sent by ACAS to both parties.
+**169.**[^c-556c93f1da43dfe7a71b36a2bebbc566] The arbitrator’s award shall be sent by ACAS to both parties.
 
-**170.**[^key-672e82886cdaee6e117782362e73f6d8] Subject to any steps which may be reasonably necessary for the purposes of any application to the Court or enforcement of the award, the award shall be confidential, and shall only be issued to the parties or to their nominated advisers or representatives. Awards will not be published by ACAS, or lodged with the employment tribunal by ACAS, although awards may be retained by ACAS for monitoring and evaluation purposes, and, from time to time, ACAS may publish general summary information concerning cases heard under the Scheme, without identifying any individual cases.
+**170.**[^c-672e82886cdaee6e117782362e73f6d8] Subject to any steps which may be reasonably necessary for the purposes of any application to the Court or enforcement of the award, the award shall be confidential, and shall only be issued to the parties or to their nominated advisers or representatives. Awards will not be published by ACAS, or lodged with the employment tribunal by ACAS, although awards may be retained by ACAS for monitoring and evaluation purposes, and, from time to time, ACAS may publish general summary information concerning cases heard under the Scheme, without identifying any individual cases.
 
 ### XXIII. CORRECTION OF AWARDS
 
 #### Scrutiny of awards by ACAS
 
-**171.**[^key-c4f01418f2b311ef3e1a09bac369e52d] Before being sent to the parties, awards may be scrutinised by ACAS to check for clerical or computational mistakes, errors arising from accidental slips or omissions, ambiguities, or errors of form. Without affecting the arbitrator’s liberty of decision, ACAS may refer the award back to the arbitrator (under the provisions below) in order to draw his or her attention to any such point.
+**171.**[^c-c4f01418f2b311ef3e1a09bac369e52d] Before being sent to the parties, awards may be scrutinised by ACAS to check for clerical or computational mistakes, errors arising from accidental slips or omissions, ambiguities, or errors of form. Without affecting the arbitrator’s liberty of decision, ACAS may refer the award back to the arbitrator (under the provisions below) in order to draw his or her attention to any such point.
 
 #### Correction by the arbitrator
 
-**172.**[^key-c40561f85436f6369353ea696e4a04f7] The arbitrator may, on his or her own initiative or on the application of a party or ACAS:
+**172.**[^c-c40561f85436f6369353ea696e4a04f7] The arbitrator may, on his or her own initiative or on the application of a party or ACAS:
 
 - (i) correct the award so as to remove any clerical or computational mistake, or error arising from an accidental slip or omission, or to clarify or remove any ambiguity in the award, or
 - (ii) make an additional award in respect of any part of the claim which was presented to the arbitrator but was not dealt with in the award.
 
-**173.**[^key-2f322131a4fed95073ed9b21273d2ce4] In so far as any such correction or additional award involves a new issue that was not previously before the parties, this power shall not be exercised without first affording the parties a reasonable opportunity to make written representations to the arbitrator.
+**173.**[^c-2f322131a4fed95073ed9b21273d2ce4] In so far as any such correction or additional award involves a new issue that was not previously before the parties, this power shall not be exercised without first affording the parties a reasonable opportunity to make written representations to the arbitrator.
 
-**174.**[^key-a5b633db27fa3f8dc1541f2e4497764f] Any application by a party for the exercise of this power must be made via the ACAS Arbitration Section within 28 days of the date the award was despatched to the applying party by ACAS.
+**174.**[^c-a5b633db27fa3f8dc1541f2e4497764f] Any application by a party for the exercise of this power must be made via the ACAS Arbitration Section within 28 days of the date the award was despatched to the applying party by ACAS.
 
-**175.**[^key-944710921ed0b88824b145d62d129f6a] Any correction of the award shall be made within 28 days of the date the application was received by the arbitrator or, where the correction is made by the arbitrator on his or her own initiative, within 28 days of the date of the award.
+**175.**[^c-944710921ed0b88824b145d62d129f6a] Any correction of the award shall be made within 28 days of the date the application was received by the arbitrator or, where the correction is made by the arbitrator on his or her own initiative, within 28 days of the date of the award.
 
-**176.**[^key-c3eddee0a76e23bca151537ada9bd595] Any additional award shall be made within 56 days of the date of the original award.
+**176.**[^c-c3eddee0a76e23bca151537ada9bd595] Any additional award shall be made within 56 days of the date of the original award.
 
 177EW. Any additional award in an English/Welsh arbitration shall so far as relevant comply with paragraphs 114EW, 115EW and 116EW.
 
-**178S.**[^key-3ec5a61f138a28293859459519ca1241] Any additional award in a Scottish arbitration shall so far as relevant comply with paragraphs 117S and 118S. Any correction to an award shall be issued on a memorandum of correction which shall:
+**178S.**[^c-3ec5a61f138a28293859459519ca1241] Any additional award in a Scottish arbitration shall so far as relevant comply with paragraphs 117S and 118S. Any correction to an award shall be issued on a memorandum of correction which shall:
 
 - (i) specify the correction;
 - (ii) be signed by the arbitrator;
@@ -1009,27 +1009,27 @@ In this regard, the arbitrator shall have regard to any information supplied by 
 - (iv) state the name and address of the witness; and
 - (v) state the date upon which it was signed by the arbitrator.
 
-**179.**[^key-9845e0afa611ea74574bd40cc5d589b1] Any correction of the award shall form part of the award.
+**179.**[^c-9845e0afa611ea74574bd40cc5d589b1] Any correction of the award shall form part of the award.
 
 ### XXIV. EFFECT OF AWARDS, ENFORCEMENT AND INTEREST
 
 #### Effect of awards
 
-**180.**[^key-b30e1fd19fc10298b293ac8dc20ffb69] Awards made by arbitrators under this Scheme are final and binding both on the parties and on any persons claiming through or under them.
+**180.**[^c-b30e1fd19fc10298b293ac8dc20ffb69] Awards made by arbitrators under this Scheme are final and binding both on the parties and on any persons claiming through or under them.
 
 *Extent: E+W*
 
-**181EW.**[^key-753b9c8654e754075fe343e54555ec37] This does not affect the right of a person to challenge an award under the provisions of the Arbitration Act 1996 as applied to this Scheme.
+**181EW.**[^c-753b9c8654e754075fe343e54555ec37] This does not affect the right of a person to challenge an award under the provisions of the Arbitration Act 1996 as applied to this Scheme.
 
 *Extent: S*
 
-**182S.**[^key-6ced5a734ae59f88a90b9a22ff4ee839] This does not affect the right of a person to challenge an award under Part XXV below.
+**182S.**[^c-6ced5a734ae59f88a90b9a22ff4ee839] This does not affect the right of a person to challenge an award under Part XXV below.
 
 #### Enforcement
 
 *Extent: E+W*
 
-**183EW.**[^key-89cab81fa281af3a6599674571d4e28e] *Section 66 of the Arbitration Act 1996[^f00009] shall apply to English and Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications—*
+**183EW.**[^c-89cab81fa281af3a6599674571d4e28e] *Section 66 of the Arbitration Act 1996[^f00009] shall apply to English and Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications—*
 
 - (i) *in subsection (1), for “tribunal pursuant to an arbitration agreement” substitute “arbitrator pursuant to the Scheme (except for an award of reinstatement or re-engagement)”;*
 - (ii) *in subsection (3), for “(see section 73)” substitute “(see Part XXVI of the Scheme)”; and*
@@ -1044,13 +1044,13 @@ In this regard, the arbitrator shall have regard to any information supplied by 
 
 *Extent: S*
 
-**184S.**[^key-1b703efaa0eb0b216b1ba9459259e5a6] Any award requiring the payment of money which may be made in a Scottish arbitration under the Scheme may be registered for execution.
+**184S.**[^c-1b703efaa0eb0b216b1ba9459259e5a6] Any award requiring the payment of money which may be made in a Scottish arbitration under the Scheme may be registered for execution.
 
-**185.**[^key-9c3e6803696f3ec1a7525f46f9670b92] Awards of reinstatement or re-engagement will be enforced by the employment tribunal in accordance with section 117 of the Employment Rights Act 1996 (enforcement by award of compensation).
+**185.**[^c-9c3e6803696f3ec1a7525f46f9670b92] Awards of reinstatement or re-engagement will be enforced by the employment tribunal in accordance with section 117 of the Employment Rights Act 1996 (enforcement by award of compensation).
 
 #### Interest
 
-**186.**[^key-6e718431b30c57eadd384788cb261108] Awards of compensation that are not paid within 42 days of the date on which the award was despatched by ACAS to the Employer will attract interest on the same basis as for employment tribunal awards.
+**186.**[^c-6e718431b30c57eadd384788cb261108] Awards of compensation that are not paid within 42 days of the date on which the award was despatched by ACAS to the Employer will attract interest on the same basis as for employment tribunal awards.
 
 ### XXV. CHALLENGING THE AWARD
 
@@ -1058,7 +1058,7 @@ In this regard, the arbitrator shall have regard to any information supplied by 
 
 *Extent: E+W*
 
-**187EW.**[^key-0999d8ac1fbaeb4e670be09d9a8b6179] *Section 67 of the Arbitration Act 1996[^f00010] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications—*
+**187EW.**[^c-0999d8ac1fbaeb4e670be09d9a8b6179] *Section 67 of the Arbitration Act 1996[^f00010] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications—*
 
 - (i) *in subsection (1)—*
 - (a) *for “(upon notice to the other parties and to the tribunal) apply to the court” substitute “(upon notice to the other party, to the arbitrator and to ACAS) apply to the High Court or the Central London County Court”;*
@@ -1081,24 +1081,24 @@ In this regard, the arbitrator shall have regard to any information supplied by 
 
 *Extent: S*
 
-**188S.**[^key-572fc91ec6bf13302c2896bbd942dd59] A party to a Scottish arbitration may appeal to the Court of Session—
+**188S.**[^c-572fc91ec6bf13302c2896bbd942dd59] A party to a Scottish arbitration may appeal to the Court of Session—
 
 - (i) challenging any award of the arbitrator as to his or her substantive jurisdiction; or
 - (ii) on the ground that an award made by the arbitrator on the merits is of no effect, in whole or in part, because the arbitrator did not have substantive jurisdiction.
 
-**189S.**[^key-8ac8c83f868690a9ed5f70287b743651] A party may lose the right to appeal under paragraph 188S in accordance with Part XXVI below.
+**189S.**[^c-8ac8c83f868690a9ed5f70287b743651] A party may lose the right to appeal under paragraph 188S in accordance with Part XXVI below.
 
-**190S.**[^key-d8a92e76edb1c5039c58090ba23d014c] Appeals under paragraph 188S are subject to the provisions of paragraphs 206S, 207S and 208S below.
+**190S.**[^c-d8a92e76edb1c5039c58090ba23d014c] Appeals under paragraph 188S are subject to the provisions of paragraphs 206S, 207S and 208S below.
 
-**191S.**[^key-9be9f1f81d905ca0e2d0d46390316ffd] For the purposes of paragraph 188S “**substantive jurisdiction**” means any issue as to—
+**191S.**[^c-9be9f1f81d905ca0e2d0d46390316ffd] For the purposes of paragraph 188S “**substantive jurisdiction**” means any issue as to—
 
 - (i) the validity of the Arbitration Agreement and the application of the Scheme to the dispute or difference in question;
 - (ii) the constitution of the arbitral tribunal; or
 - (iii) the matters which have been submitted to arbitration in accordance with the Arbitration Agreement.
 
-**192S.**[^key-f21fbc70a9472d7b427bceb8c815b644] The arbitrator may continue the arbitral proceedings and make a further award while an appeal to the Court under paragraph 188S is pending in relation to an award of the arbitrator as to his substantive jurisdiction.
+**192S.**[^c-f21fbc70a9472d7b427bceb8c815b644] The arbitrator may continue the arbitral proceedings and make a further award while an appeal to the Court under paragraph 188S is pending in relation to an award of the arbitrator as to his substantive jurisdiction.
 
-**193S.**[^key-1ee94c55392b7a4229a1f6a0b92719f9] On an appeal under paragraph 188S the Court may (without prejudice to any other power which it may exercise or remedy which it may grant)—
+**193S.**[^c-1ee94c55392b7a4229a1f6a0b92719f9] On an appeal under paragraph 188S the Court may (without prejudice to any other power which it may exercise or remedy which it may grant)—
 
 - (i) confirm the award;
 - (ii) vary the award;
@@ -1109,7 +1109,7 @@ In this regard, the arbitrator shall have regard to any information supplied by 
 
 *Extent: E+W*
 
-**194EW.**[^key-6e46702b71e96e11942e1eac73cb84ca] *Section 68 of the Arbitration Act 1996[^f00011] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications.*
+**194EW.**[^c-6e46702b71e96e11942e1eac73cb84ca] *Section 68 of the Arbitration Act 1996[^f00011] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications.*
 
 - (i) *in subsection (1)—*
 - (a) *for “(upon notice to the other parties and to the tribunal) apply to the court” substitute “(upon notice to the other party, to the arbitrator and to ACAS) apply to the High Court or Central London County Court”;*
@@ -1133,13 +1133,13 @@ In this regard, the arbitrator shall have regard to any information supplied by 
 
 *Extent: S*
 
-**195S.**[^key-8d463b5fde90c85a64333773afadddde] A party to a Scottish arbitration may appeal to the Court of Session against an award in the proceedings on the ground of serious irregularity affecting the arbitrator, the proceedings or the award.
+**195S.**[^c-8d463b5fde90c85a64333773afadddde] A party to a Scottish arbitration may appeal to the Court of Session against an award in the proceedings on the ground of serious irregularity affecting the arbitrator, the proceedings or the award.
 
-**196S.**[^key-ad3a2fa6390f953eec5616491bc23d15] A party may lose the right to appeal under paragraph 195S above in accordance with Part XXVI below.
+**196S.**[^c-ad3a2fa6390f953eec5616491bc23d15] A party may lose the right to appeal under paragraph 195S above in accordance with Part XXVI below.
 
-**197S.**[^key-b0d0c94a49532668ea029d5027819f24] Appeals under paragraph 195S are subject to the provisions of paragraphs 206S, 207S and 208S.
+**197S.**[^c-b0d0c94a49532668ea029d5027819f24] Appeals under paragraph 195S are subject to the provisions of paragraphs 206S, 207S and 208S.
 
-**198S.**[^key-da4f06cf96a6c8cbd75c8ac2954a89c1] For the purposes of paragraph 195S, “**serious irregularity**” means an irregularity of one or more of the following kinds which the Court considers has caused or will cause substantial injustice to the appellant—
+**198S.**[^c-da4f06cf96a6c8cbd75c8ac2954a89c1] For the purposes of paragraph 195S, “**serious irregularity**” means an irregularity of one or more of the following kinds which the Court considers has caused or will cause substantial injustice to the appellant—
 
 - (i) failure by the arbitrator to comply with Part X above (General Duty of Arbitrator);
 - (ii) the arbitrator exceeding his or her powers (otherwise than by exceeding its substantive jurisdiction (as defined in paragraph 191S above));
@@ -1150,7 +1150,7 @@ In this regard, the arbitrator shall have regard to any information supplied by 
 - (vii) the award having been obtained by fraud or the way in which it was procured being contrary to public policy; or
 - (viii) any irregularity in the conduct of the proceedings or in the award which is admitted by the arbitrator or ACAS.
 
-**199S.**[^key-4868bf927d2e6b63a98e183b710d22bc] If there is shown to be serious irregularity affecting the arbitrator, the proceedings or the award, the Court may (without prejudice to any other power which it may exercise or remedy which it may grant)—
+**199S.**[^c-4868bf927d2e6b63a98e183b710d22bc] If there is shown to be serious irregularity affecting the arbitrator, the proceedings or the award, the Court may (without prejudice to any other power which it may exercise or remedy which it may grant)—
 
 - (i) remit the award to the arbitrator, in whole or in part, for reconsideration,
 - (ii) vary the award,
@@ -1161,7 +1161,7 @@ In this regard, the arbitrator shall have regard to any information supplied by 
 
 *Extent: E+W*
 
-**200EW.**[^key-b38450f291efaae2e49b778a566c89f9] *Section 69 of the Arbitration Act 1996[^f00012] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications—*
+**200EW.**[^c-b38450f291efaae2e49b778a566c89f9] *Section 69 of the Arbitration Act 1996[^f00012] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications—*
 
 - (i) *In subsection (1):*
 - (a) *omit “Unless otherwise agreed by the parties”;*
@@ -1186,7 +1186,7 @@ In this regard, the arbitrator shall have regard to any information supplied by 
 
 *Extent: S*
 
-**201S.**[^key-d01a3a884b636b94a35cfede9c7a9ed6] A party to a Scottish arbitration may appeal to the Court of Session:
+**201S.**[^c-d01a3a884b636b94a35cfede9c7a9ed6] A party to a Scottish arbitration may appeal to the Court of Session:
 
 - (i) on a question of EC law,
 - (ii) on a question concerning the application of the Human Rights Act 1998, or
@@ -1194,12 +1194,12 @@ In this regard, the arbitrator shall have regard to any information supplied by 
 
 arising out of an award made in the arbitration.
 
-**202S.**[^key-338952a03149880ee1b89b6381d0ed23] An appeal shall not be brought under paragraph 201S except—
+**202S.**[^c-338952a03149880ee1b89b6381d0ed23] An appeal shall not be brought under paragraph 201S except—
 
 - (i) with the agreement of all the other parties to the proceedings; or
 - (ii) with the leave of the Court.
 
-**203S.**[^key-bbf775a35b9402c6580a28910da5f3e3] Leave to appeal shall be given only if the Court is satisfied—
+**203S.**[^c-bbf775a35b9402c6580a28910da5f3e3] Leave to appeal shall be given only if the Court is satisfied—
 
 - (i) that the determination of the question will substantially affect the rights of one or more of the parties;
 - (ii) that on the basis of the findings of fact in the Note appended to the award, insofar as the question for appeal raises a point of EC law, the point is capable of serious argument, and insofar as the question for appeal does not raise a point of EC law:
@@ -1207,7 +1207,7 @@ arising out of an award made in the arbitration.
 - (b) the question is one of general public importance and the decision of the arbitrator is at least open to serious doubt, and
   - (iii) that, despite the agreement of the parties to resolve the matter by arbitration, it is just and proper in all the circumstances for the Court to determine the question.
 
-**204S.**[^key-fbfd0b6388fb222cd313286892705481] On an appeal under paragraph 201S the Court may (without prejudice to any other power which it may exercise or remedy which it may grant)—
+**204S.**[^c-fbfd0b6388fb222cd313286892705481] On an appeal under paragraph 201S the Court may (without prejudice to any other power which it may exercise or remedy which it may grant)—
 
 - (i) confirm the award,
 - (ii) vary the award,
@@ -1220,7 +1220,7 @@ arising out of an award made in the arbitration.
 
 *Extent: E+W*
 
-**205EW.**[^key-1ba562a3e06e0e85f31d8def5c38f082] *Section 70 of the Arbitration Act 1996[^f00013] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications—*
+**205EW.**[^c-1ba562a3e06e0e85f31d8def5c38f082] *Section 70 of the Arbitration Act 1996[^f00013] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications—*
 
 - (i) *in subsection (1), after the words “section 67, 68 or 69” insert the words “(as modified for the purposes of the Scheme)”;*
 - (ii) *omit paragraph (a) from subsection (2);*
@@ -1235,15 +1235,15 @@ arising out of an award made in the arbitration.
 
 *Extent: S*
 
-**206S.**[^key-5d1038b83f3fc36c2f136f81c422d857] An appeal under paragraphs 188S, 195S or 201S may not be brought if the appellant has not first exhausted any available recourse under Part XXIII of the Scheme (Correction of Awards).
+**206S.**[^c-5d1038b83f3fc36c2f136f81c422d857] An appeal under paragraphs 188S, 195S or 201S may not be brought if the appellant has not first exhausted any available recourse under Part XXIII of the Scheme (Correction of Awards).
 
-**207S.**[^key-25a061162ec8e52b93866d1f556c5411] An appeal under paragraphs 188S, 195S or (where the parties have agreed under paragraph 202S(i)) 201S or an application for leave to appeal under paragraph 202S(ii) shall be lodged within 28 days of whichever is the later of:
+**207S.**[^c-25a061162ec8e52b93866d1f556c5411] An appeal under paragraphs 188S, 195S or (where the parties have agreed under paragraph 202S(i)) 201S or an application for leave to appeal under paragraph 202S(ii) shall be lodged within 28 days of whichever is the later of:
 
 - (i) the date on which the award was despatched to the appellant by ACAS;
 - (ii) where, a correction or additional award has been made in accordance with Part XXIII above, the date on which a memorandum of correction or additional award under Part XXIII above was despatched to the appellant by ACAS; and
 - (iii) where a party has applied for a correction or additional award under paragraph 172 above but the arbitrator has declined to make any correction or additional award, the date on which intimation of the arbitrator’s decision was despatched to the appellant by ACAS.
 
-**208S.**[^key-fe5813a910162e920e37dac412b6dbc3] If on an appeal under paragraphs 188S, 195S or 201S it appears to the Court that the award and the arbitrator’s Note:
+**208S.**[^c-fe5813a910162e920e37dac412b6dbc3] If on an appeal under paragraphs 188S, 195S or 201S it appears to the Court that the award and the arbitrator’s Note:
 
 - (i) do not contain the arbitrator’s reasons, or
 - (ii) do not set out the arbitrator’s reasons in sufficient detail to enable the Court properly to consider the application or appeal,
@@ -1254,23 +1254,23 @@ the Court may order the arbitrator to state the reasons for his or her award in 
 
 *Extent: E+W*
 
-**209EW.**[^key-9fb9cbe37256917830b7347374a71d93] *Sections 81(1)(c) and 81(2) of the Arbitration Act 1996[^f00014] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme.*
+**209EW.**[^c-9fb9cbe37256917830b7347374a71d93] *Sections 81(1)(c) and 81(2) of the Arbitration Act 1996[^f00014] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme.*
 
 *Extent: S*
 
-**210S.**[^key-cf903b9eb9e98f0d9a7773f291be56ac] Nothing in this Part of the Scheme shall be construed as excluding the operation of any rule of law as to the refusal of recognition or enforcement of an arbitral award in a Scottish arbitration on grounds of public policy.
+**210S.**[^c-cf903b9eb9e98f0d9a7773f291be56ac] Nothing in this Part of the Scheme shall be construed as excluding the operation of any rule of law as to the refusal of recognition or enforcement of an arbitral award in a Scottish arbitration on grounds of public policy.
 
 #### Exclusion of Stated Case Procedure
 
 *Extent: S*
 
-**211S.**[^key-8598652d4661e993b764cc6584f60eaf] Section 3 of the Administration of Justice (Scotland) Act 1972[^f00015] shall not apply to any arbitration under the Scheme.
+**211S.**[^c-8598652d4661e993b764cc6584f60eaf] Section 3 of the Administration of Justice (Scotland) Act 1972[^f00015] shall not apply to any arbitration under the Scheme.
 
 #### Challenge or appeal: effect of order of the court
 
 *Extent: E+W*
 
-**212EW.**[^key-9a6f2445b1418299eed7906ac4639e61] (1) *Section 71 of the Arbitration Act 1996[^f00016] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications—*
+**212EW.**[^c-9a6f2445b1418299eed7906ac4639e61] (1) *Section 71 of the Arbitration Act 1996[^f00016] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications—*
 
 - (i) *in subsection (1), after the words “section 67, 68 and 69” insert the words “(as modified for the purposes of the Scheme)”;*
 - (ii) *after subsection (3), insert—*
@@ -1280,14 +1280,14 @@ the Court may order the arbitrator to state the reasons for his or her award in 
 
 *Extent: S*
 
-**213S.**[^key-987e6743149ac7607cc76c9a5c22bd8a] The following provisions have effect where the Court makes an order under paragraph 193S, 199S or 204S of the Scheme with respect to an award.
+**213S.**[^c-987e6743149ac7607cc76c9a5c22bd8a] The following provisions have effect where the Court makes an order under paragraph 193S, 199S or 204S of the Scheme with respect to an award.
 
 - (i) Where the award is varied, the variation has effect as part of the arbitrator’s award.
 - (ii) Where the award is remitted to the arbitrator in whole or in part for reconsideration the arbitrator shall make a fresh award in respect of the matters remitted within three months of the date of the order for remission or such longer or shorter period as the Court may direct.
 
 ### XXVI. LOSS OF RIGHT TO OBJECT
 
-**214.**[^key-488b091d2d0516c74ebc960194f4d516] If a party to arbitral proceedings under this Scheme takes part, or continues to take part, in the proceedings without making, either forthwith or within such time as is allowed by the arbitrator or by any provision in this Scheme, any objection:
+**214.**[^c-488b091d2d0516c74ebc960194f4d516] If a party to arbitral proceedings under this Scheme takes part, or continues to take part, in the proceedings without making, either forthwith or within such time as is allowed by the arbitrator or by any provision in this Scheme, any objection:
 
 - (i) in an English/Welsh arbitration, that the arbitrator lacks substantive jurisdiction as defined in paragraph 187EW, or in a Scottish arbitration that the arbitrator lacks substantive jurisdiction as defined in paragraph 191S, aside from any jurisdictional objection with respect to the circumstances of the dismissal, which will be waived in any event, as set out in paragraphs 21 to 23 above,
 - (ii) that the proceedings have been improperly conducted,
@@ -1298,9 +1298,9 @@ he or she may not raise that objection later, before the arbitrator or the court
 
 ### XXVII. IMMUNITY
 
-**215.**[^key-caf5dd796da5431f9cb0ef1df9fd5c0b] An arbitrator under this Scheme is not liable for anything done or omitted in the discharge or purported discharge of his or her functions as arbitrator unless the act or omission is shown to have been in bad faith. This applies to a legal adviser appointed by ACAS as it applies to the arbitrator himself or herself.
+**215.**[^c-caf5dd796da5431f9cb0ef1df9fd5c0b] An arbitrator under this Scheme is not liable for anything done or omitted in the discharge or purported discharge of his or her functions as arbitrator unless the act or omission is shown to have been in bad faith. This applies to a legal adviser appointed by ACAS as it applies to the arbitrator himself or herself.
 
-**216.**[^key-7c711f500018be56e188c9a8318f290f] ACAS, by reason of having appointed an arbitrator or nominated a legal adviser, is not liable for anything done or omitted by the arbitrator or legal adviser in the discharge or purported discharge of his or her functions.
+**216.**[^c-7c711f500018be56e188c9a8318f290f] ACAS, by reason of having appointed an arbitrator or nominated a legal adviser, is not liable for anything done or omitted by the arbitrator or legal adviser in the discharge or purported discharge of his or her functions.
 
 ### XXVIII. MISCELLANEOUS PROVISIONS
 
@@ -1308,37 +1308,37 @@ he or she may not raise that objection later, before the arbitrator or the court
 
 *Extent: E+W*
 
-**217EW.**[^key-612a0e7c74bb5b7b73d3e18c0e1fb400] *Sections 80(1), (2), (4), (5), (6) and (7) of the Arbitration Act 1996[^f00017]shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modification:*
+**217EW.**[^c-612a0e7c74bb5b7b73d3e18c0e1fb400] *Sections 80(1), (2), (4), (5), (6) and (7) of the Arbitration Act 1996[^f00017]shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modification:*
 
 - *In subsection (1), for “to the other parties to the arbitral proceedings, or to the tribunal” substitute “to the other party to the arbitral proceedings, or to the arbitrator, or to ACAS”*.
 
 #### Service of documents and notices on ACAS or the ACAS Arbitration Section
 
-**218.**[^key-2b949b0d0de441517af72da54f77a141] Any notice or other document required or authorised to be given or served on ACAS or the ACAS Arbitration Section for the purposes of the arbitral proceedings shall be sent by pre-paid post to the address in the ACAS Guide to the Scheme
+**218.**[^c-2b949b0d0de441517af72da54f77a141] Any notice or other document required or authorised to be given or served on ACAS or the ACAS Arbitration Section for the purposes of the arbitral proceedings shall be sent by pre-paid post to the address in the ACAS Guide to the Scheme
 
 - *or* transmitted by facsimile, addressed to the ACAS Arbitration Section, at the number stipulated in the ACAS Guide to the Scheme,
 - *or* by electronic mail, at the address stipulated in the ACAS Guide to the Scheme.
 
-**219.**[^key-b505b40e988b6002fac0d6cacddb9233] Paragraph 218 does not apply to the service of documents on the ACAS Arbitration Section for the purposes of legal proceedings.
+**219.**[^c-b505b40e988b6002fac0d6cacddb9233] Paragraph 218 does not apply to the service of documents on the ACAS Arbitration Section for the purposes of legal proceedings.
 
 #### Service of documents or notices on any other person or entity (other than ACAS or the ACAS Arbitration Section)
 
-**220.**[^key-d6a47582695197d476563b7ed33f5d6f] Any notice or other document required or authorised to be given or served on any person or entity (other than ACAS or the ACAS Arbitration Section) for the purposes of the arbitral proceedings may be served by any effective means.
+**220.**[^c-d6a47582695197d476563b7ed33f5d6f] Any notice or other document required or authorised to be given or served on any person or entity (other than ACAS or the ACAS Arbitration Section) for the purposes of the arbitral proceedings may be served by any effective means.
 
-**221.**[^key-7254f1131dc3bf82f3471bde5bce3889] If such a notice or other document is addressed, pre-paid and delivered by post:
+**221.**[^c-7254f1131dc3bf82f3471bde5bce3889] If such a notice or other document is addressed, pre-paid and delivered by post:
 
 - (i) to the addressee’s last known principal residence or, if he or she is or has been carrying on a trade, profession or business, his or her last known principal business address, or
 - (ii) where the addressee is a body corporate, to the body’s registered or principal office,
 
 it shall be treated as effectively served.
 
-**222.**[^key-827a553cb8923b14ead6c6082a7dadf4] Paragraphs 220 and 221 do not apply to the service of documents for the purposes of legal proceedings, for which provision is made by rules of court.
+**222.**[^c-827a553cb8923b14ead6c6082a7dadf4] Paragraphs 220 and 221 do not apply to the service of documents for the purposes of legal proceedings, for which provision is made by rules of court.
 
 #### Powers of court in relation to service of documents
 
 *Extent: E+W*
 
-**223EW.**[^key-5fa97442857a17e960a2962b495145c5] *Section 77 of the Arbitration Act 1996[^f00018] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications—*
+**223EW.**[^c-5fa97442857a17e960a2962b495145c5] *Section 77 of the Arbitration Act 1996[^f00018] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modifications—*
 
 - (i) *in subsection (1), for “in the manner agreed by the parties, or in accordance with provisions of section 76 having effect in default of agreement,” substitute “in accordance with paragraphs 220 and 221”;*
 - (ii) *in subsection (2), for “Unless otherwise agreed by the parties, the court” substitute “The High Court or Central London County Court”;*
@@ -1348,14 +1348,14 @@ it shall be treated as effectively served.
 
 *Extent: E+W*
 
-**224EW.**[^key-0c0e6b3b6f448fd14b59fd98bb35fad3] *Sections 78(2), (3), (4) and (5) of the Arbitration Act 1996[^f00019] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modification to subsection (2) of that section.*
+**224EW.**[^c-0c0e6b3b6f448fd14b59fd98bb35fad3] *Sections 78(2), (3), (4) and (5) of the Arbitration Act 1996[^f00019] shall apply to English/Welsh arbitrations conducted in accordance with the Scheme, subject to the following modification to subsection (2) of that section.*
 
 - (i) *omit “If or to the extent that there is no such agreement,”;*
 - (ii) *after “periods of time” insert “provided for in any provision of this Part”.*
 
 *Extent: S*
 
-**225S.**[^key-0cf79db28ac2e79f93536eb7051b0554] Except as otherwise specified in the Scheme, periods of time shall in Scottish arbitrations be reckoned in accordance with the following provisions:
+**225S.**[^c-0cf79db28ac2e79f93536eb7051b0554] Except as otherwise specified in the Scheme, periods of time shall in Scottish arbitrations be reckoned in accordance with the following provisions:
 
 - (i) Where the act is required to be done within a specified period after or from a specified date, the period begins immediately after that date;
 - (ii) Where the act is required to be done a specified number of clear days after a specified date, at least that number of days must intervene between the day on which the act is done and that date;
@@ -1366,11 +1366,11 @@ it shall be treated as effectively served.
 
 *Extent: E+W*
 
-**226EW.**[^key-32ad18eb5d530256e1bb3ba57301841a] The seat of an English/Welsh arbitration shall be England and Wales. The arbitrator may nevertheless hold any meeting or hearing or do any act in relation to the arbitration outside England and Wales.
+**226EW.**[^c-32ad18eb5d530256e1bb3ba57301841a] The seat of an English/Welsh arbitration shall be England and Wales. The arbitrator may nevertheless hold any meeting or hearing or do any act in relation to the arbitration outside England and Wales.
 
 *Extent: S*
 
-**227S.**[^key-192c9928fdbc451449b6cc50c70f4d7e] The seat of a Scottish arbitration shall be Scotland. The arbitrator may nevertheless hold any meeting or hearing or do any act in relation to the arbitration outside Scotland.
+**227S.**[^c-192c9928fdbc451449b6cc50c70f4d7e] The seat of a Scottish arbitration shall be Scotland. The arbitrator may nevertheless hold any meeting or hearing or do any act in relation to the arbitration outside Scotland.
 
 *Extent: E+W*
 
@@ -1418,113 +1418,113 @@ There are differences between the law of Scotland on the one hand and the law of
 
 ## Annotations
 
-[^key-b95688acedff6ce555241ec5d0ae7a56]: Commencement: Sch. para. 1 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b95688acedff6ce555241ec5d0ae7a56]: Commencement: Sch. para. 1 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-798b7c4d7444676fc192cbe0822ac137]: Commencement: Sch. para. 2 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-798b7c4d7444676fc192cbe0822ac137]: Commencement: Sch. para. 2 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-79f0323f75c24029010f5aabb061bcd8]: Commencement: Sch. para. 3 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-79f0323f75c24029010f5aabb061bcd8]: Commencement: Sch. para. 3 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-1007db1b7b5f3b1d1716241a93c04dcb]: Commencement: Sch. para. 4 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-1007db1b7b5f3b1d1716241a93c04dcb]: Commencement: Sch. para. 4 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-1a1b055a6f155075ae16ad24086d89ab]: Commencement: Sch. para. 5 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-1a1b055a6f155075ae16ad24086d89ab]: Commencement: Sch. para. 5 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-075a1513f65fb30a76ecd0cb384c8d16]: Commencement: Sch. para. 6 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-075a1513f65fb30a76ecd0cb384c8d16]: Commencement: Sch. para. 6 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-550210c67c60a867b17045f9a57251a5]: Commencement: Sch. para. 7 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-550210c67c60a867b17045f9a57251a5]: Commencement: Sch. para. 7 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-42f0327ce3ef9fd9fc2d7f613ec881fd]: Commencement: Sch. para. 8 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-42f0327ce3ef9fd9fc2d7f613ec881fd]: Commencement: Sch. para. 8 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-4d0a7095359a0cb66a49b6609e7d5db2]: Commencement: Sch. para. 9 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-4d0a7095359a0cb66a49b6609e7d5db2]: Commencement: Sch. para. 9 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-7695baee413c1442dca7f5a59f840143]: Commencement: Sch. para. 10 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-7695baee413c1442dca7f5a59f840143]: Commencement: Sch. para. 10 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-9712b5a47f38402f72cfce7d4c295186]: Commencement: Sch. para. 11 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-9712b5a47f38402f72cfce7d4c295186]: Commencement: Sch. para. 11 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-1ff71bbe0c27270b620a75e227369e8c]: Commencement: Sch. para. 12 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-1ff71bbe0c27270b620a75e227369e8c]: Commencement: Sch. para. 12 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-7bc72f6e556612f0f46459a61d7fb1ca]: Commencement: Sch. para. 13 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-7bc72f6e556612f0f46459a61d7fb1ca]: Commencement: Sch. para. 13 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-037079e3a509fb1104bf97c1ce049290]: Commencement: Sch. para. 14 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-037079e3a509fb1104bf97c1ce049290]: Commencement: Sch. para. 14 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-b1e7861777238d4b25dbf8aeda56f8bc]: Commencement: Sch. para. 15 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b1e7861777238d4b25dbf8aeda56f8bc]: Commencement: Sch. para. 15 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-988ddc34d47ce8db2b7230b646d10069]: Commencement: Sch. para. 16 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-988ddc34d47ce8db2b7230b646d10069]: Commencement: Sch. para. 16 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-b06f0e0e503c3ff443980d688803361c]: Commencement: Sch. para. 17 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b06f0e0e503c3ff443980d688803361c]: Commencement: Sch. para. 17 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-1cc7f6dc18d5ff135fb1dd193750e4b9]: Commencement: Sch. para. 18 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-1cc7f6dc18d5ff135fb1dd193750e4b9]: Commencement: Sch. para. 18 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-52396cd167767f42c65c9677746b1378]: Commencement: Sch. para. 19 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-52396cd167767f42c65c9677746b1378]: Commencement: Sch. para. 19 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-893a950d35a8f703e6bd71b02f759943]: Commencement: Sch. para. 20 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-893a950d35a8f703e6bd71b02f759943]: Commencement: Sch. para. 20 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-71c5d5787292e687e8f752a7fbab6918]: Commencement: Sch. para. 21 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-71c5d5787292e687e8f752a7fbab6918]: Commencement: Sch. para. 21 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-5893672c1e06a308329d5280cb360189]: Commencement: Sch. para. 22 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-5893672c1e06a308329d5280cb360189]: Commencement: Sch. para. 22 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-7b08b3537b7ae6ce406c1a0f0c39d4fe]: Commencement: Sch. para. 23 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-7b08b3537b7ae6ce406c1a0f0c39d4fe]: Commencement: Sch. para. 23 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-d5a32351420d661fedfba89160c46322]: Commencement: Sch. para. 24 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-d5a32351420d661fedfba89160c46322]: Commencement: Sch. para. 24 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-b736497558530322329653209906e48d]: Commencement: Sch. para. 25 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b736497558530322329653209906e48d]: Commencement: Sch. para. 25 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-fbd07855b17321b008855928970722e2]: Commencement: Sch. para. 26 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-fbd07855b17321b008855928970722e2]: Commencement: Sch. para. 26 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-e21737b8e53c44ddd16eb8880bdca7c0]: Textual amendment: Words in [Sch. para. 26(iv)(a)](https://www.legislation.gov.uk/uksi/2004/753/schedule/paragraph/26/iv/a) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/25)
+[^c-e21737b8e53c44ddd16eb8880bdca7c0]: Textual amendment: Words in [Sch. para. 26(iv)(a)](https://www.legislation.gov.uk/uksi/2004/753/schedule/paragraph/26/iv/a) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/25)
 
-[^key-2d8ce495c9ac247e307900ed8f22c5db]: Textual amendment: Word in [Sch. para. 26(iv)(b)](https://www.legislation.gov.uk/uksi/2004/753/schedule/paragraph/26/iv/b) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/5)
+[^c-2d8ce495c9ac247e307900ed8f22c5db]: Textual amendment: Word in [Sch. para. 26(iv)(b)](https://www.legislation.gov.uk/uksi/2004/753/schedule/paragraph/26/iv/b) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/5)
 
-[^key-bf310c7551e599b9f0c123ebce5a073c]: Commencement: Sch. para. 27 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-bf310c7551e599b9f0c123ebce5a073c]: Commencement: Sch. para. 27 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-b09c688fe8f41ea0a28d13081f168787]: Commencement: Sch. para. 28 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b09c688fe8f41ea0a28d13081f168787]: Commencement: Sch. para. 28 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-154c30eb5e5a9a9d1cfabc6b6c410240]: Commencement: Sch. para. 29 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-154c30eb5e5a9a9d1cfabc6b6c410240]: Commencement: Sch. para. 29 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-d49f8d915fecf12a044aebbf5bae2639]: Commencement: Sch. para. 30 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-d49f8d915fecf12a044aebbf5bae2639]: Commencement: Sch. para. 30 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-e99414d4982176c0ac0190c4ca95b249]: Commencement: Sch. para. 31 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-e99414d4982176c0ac0190c4ca95b249]: Commencement: Sch. para. 31 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-043f3c4bbbc3f003011d0cecb790f73a]: Commencement: Sch. para. 32 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-043f3c4bbbc3f003011d0cecb790f73a]: Commencement: Sch. para. 32 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-8496a0526ececbcdf339dab63301ad0b]: Commencement: Sch. para. 33 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-8496a0526ececbcdf339dab63301ad0b]: Commencement: Sch. para. 33 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-49a2d3e4748f4268e1e8be51ad51722d]: Commencement: Sch. para. 34 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-49a2d3e4748f4268e1e8be51ad51722d]: Commencement: Sch. para. 34 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-0b937d853369b2dfef792d7ba331d37d]: Commencement: Sch. para. 35 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-0b937d853369b2dfef792d7ba331d37d]: Commencement: Sch. para. 35 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-5d73e76e4babe93cc225a89912eabb05]: Commencement: Sch. para. 36 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-5d73e76e4babe93cc225a89912eabb05]: Commencement: Sch. para. 36 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-f196fdf67481250198de9fb81a22d6e1]: Commencement: Sch. para. 37 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-f196fdf67481250198de9fb81a22d6e1]: Commencement: Sch. para. 37 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-d6d4958405f3a39ff6fdfdb805691a00]: Commencement: Sch. para. 38 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-d6d4958405f3a39ff6fdfdb805691a00]: Commencement: Sch. para. 38 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-c0b522f7d2c011411cd33f033d314449]: Commencement: Sch. para. 39 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-c0b522f7d2c011411cd33f033d314449]: Commencement: Sch. para. 39 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-29aa5b838ff3ed637e7a4d2282cea7e0]: Commencement: Sch. para. 40 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-29aa5b838ff3ed637e7a4d2282cea7e0]: Commencement: Sch. para. 40 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-cfcdb608a1c48455b3b87a0d1bfe8c26]: Commencement: Sch. para. 41 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-cfcdb608a1c48455b3b87a0d1bfe8c26]: Commencement: Sch. para. 41 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-309f00099d3c46afcc23ac286ccee870]: Commencement: Sch. para. 42 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-309f00099d3c46afcc23ac286ccee870]: Commencement: Sch. para. 42 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-34ab2d3cbeb0084951d4173d6de4f412]: Commencement: Sch. para. 43 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-34ab2d3cbeb0084951d4173d6de4f412]: Commencement: Sch. para. 43 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-0ee164b8e681fa469bee75bc50f4294d]: Commencement: Sch. para. 44 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-0ee164b8e681fa469bee75bc50f4294d]: Commencement: Sch. para. 44 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-f645aca5f7100429144ed4c8ae121410]: Commencement: Sch. para. 45 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-f645aca5f7100429144ed4c8ae121410]: Commencement: Sch. para. 45 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-466c74dc74157db609ac48b73e2ea9eb]: Commencement: Sch. para. 46EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-466c74dc74157db609ac48b73e2ea9eb]: Commencement: Sch. para. 46EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-fefafed41ec0f215f881f05760c50350]: Commencement: Sch. para. 47EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-fefafed41ec0f215f881f05760c50350]: Commencement: Sch. para. 47EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-3f6503ac706d5c6d1390d0acccf2572e]: Commencement: Sch. para. 48EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-3f6503ac706d5c6d1390d0acccf2572e]: Commencement: Sch. para. 48EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-f7cdf4b8a499a902fb291e522a08a6bd]: Commencement: Sch. para. 49EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-f7cdf4b8a499a902fb291e522a08a6bd]: Commencement: Sch. para. 49EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-88573b5a6acd77295d5e4661f1abd252]: Commencement: Sch. para. 50EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-88573b5a6acd77295d5e4661f1abd252]: Commencement: Sch. para. 50EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-5242c8bcf512c085f4bd3d43926b9134]: Commencement: Sch. para. 51EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-5242c8bcf512c085f4bd3d43926b9134]: Commencement: Sch. para. 51EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-321e42dd4bfe0c664e25d9df2c8365c5]: Commencement: Sch. para. 52EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-321e42dd4bfe0c664e25d9df2c8365c5]: Commencement: Sch. para. 52EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00007]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23). Sections 24(1)(a) and (c), (2), (3), (5) and (6) of the Arbitration Act 1996 provide as follows:
 
@@ -1548,121 +1548,121 @@ There are differences between the law of Scotland on the one hand and the law of
     >
     > (6) The leave of the court is required for any appeal from a decision of the court under this section.
 
-[^key-abe2d2175ab9ec0b25be16fa2ff3ecea]: Commencement: Sch. para. 53EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-abe2d2175ab9ec0b25be16fa2ff3ecea]: Commencement: Sch. para. 53EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-a663912fc33dbae1729fb8ae2f53943d]: Commencement: Sch. para. 54S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-a663912fc33dbae1729fb8ae2f53943d]: Commencement: Sch. para. 54S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-a230f93fccd94d59c1dacffa43749cae]: Commencement: Sch. para. 55S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-a230f93fccd94d59c1dacffa43749cae]: Commencement: Sch. para. 55S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-17efd05d4d6bfc9ae896f5b39442f820]: Commencement: Sch. para. 56S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-17efd05d4d6bfc9ae896f5b39442f820]: Commencement: Sch. para. 56S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-5c5126ab20b38bee417887b522a31e06]: Commencement: Sch. para. 57S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-5c5126ab20b38bee417887b522a31e06]: Commencement: Sch. para. 57S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-0e9069e97dc2e618395f075c43c50618]: Commencement: Sch. para. 58S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-0e9069e97dc2e618395f075c43c50618]: Commencement: Sch. para. 58S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-83e3906924eba80ab46f1e253495ee90]: Commencement: Sch. para. 59S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-83e3906924eba80ab46f1e253495ee90]: Commencement: Sch. para. 59S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-dff6422267bddaa87e2be8ae13b6e991]: Commencement: Sch. para. 60 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-dff6422267bddaa87e2be8ae13b6e991]: Commencement: Sch. para. 60 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-2b321eae484147bdd7190ad5a074b757]: Commencement: Sch. para. 61 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-2b321eae484147bdd7190ad5a074b757]: Commencement: Sch. para. 61 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-6ef867034fb785e13c4530d635523c53]: Commencement: Sch. para. 62 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-6ef867034fb785e13c4530d635523c53]: Commencement: Sch. para. 62 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-8205c60ed32a330831e8e4446d5d3b6f]: Commencement: Sch. para. 63 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-8205c60ed32a330831e8e4446d5d3b6f]: Commencement: Sch. para. 63 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-c91882905b002afb8ecdf208d1331f4a]: Commencement: Sch. para. 64 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-c91882905b002afb8ecdf208d1331f4a]: Commencement: Sch. para. 64 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-ba372818d258ef5a0ea07e32b011db2e]: Commencement: Sch. para. 65 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-ba372818d258ef5a0ea07e32b011db2e]: Commencement: Sch. para. 65 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-b9481fa375c75b8657035e289a05fe53]: Commencement: Sch. para. 66 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b9481fa375c75b8657035e289a05fe53]: Commencement: Sch. para. 66 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-70c1957dc13c8d2e195e5429805bd782]: Commencement: Sch. para. 67 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-70c1957dc13c8d2e195e5429805bd782]: Commencement: Sch. para. 67 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-eb65b4b3a97b84791e2acb1be41d3479]: Commencement: Sch. para. 68 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-eb65b4b3a97b84791e2acb1be41d3479]: Commencement: Sch. para. 68 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-980d7a061dec10f72a5a348670239107]: Commencement: Sch. para. 69 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-980d7a061dec10f72a5a348670239107]: Commencement: Sch. para. 69 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-9fedbdfbe1fa72acd252f83af4e0b537]: Commencement: Sch. para. 70 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-9fedbdfbe1fa72acd252f83af4e0b537]: Commencement: Sch. para. 70 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-cce530a775a994ed0e370c9e817d22e5]: Commencement: Sch. para. 71 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-cce530a775a994ed0e370c9e817d22e5]: Commencement: Sch. para. 71 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-bf050305a4ae720dc8a6e641863e42ae]: Commencement: Sch. para. 72 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-bf050305a4ae720dc8a6e641863e42ae]: Commencement: Sch. para. 72 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-a357d24c6f0d99c56ea5990d866d3cd8]: Commencement: Sch. para. 73 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-a357d24c6f0d99c56ea5990d866d3cd8]: Commencement: Sch. para. 73 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-ee4315e54290383b5a60cff1d92c3306]: Commencement: Sch. para. 74 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-ee4315e54290383b5a60cff1d92c3306]: Commencement: Sch. para. 74 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-922f743a013d2bedd399ff361d597432]: Commencement: Sch. para. 75 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-922f743a013d2bedd399ff361d597432]: Commencement: Sch. para. 75 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-46ed64ebcc5d74244bfdb45f55938401]: Commencement: Sch. para. 76 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-46ed64ebcc5d74244bfdb45f55938401]: Commencement: Sch. para. 76 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-fda4a3a6df04762cb5acf7b36e8d8f9c]: Commencement: Sch. para. 77 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-fda4a3a6df04762cb5acf7b36e8d8f9c]: Commencement: Sch. para. 77 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-832dfe4c71f4c3c3e8cef46870b5b660]: Commencement: Sch. para. 78 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-832dfe4c71f4c3c3e8cef46870b5b660]: Commencement: Sch. para. 78 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-5516e29477f2087a848fcbcbfb9808df]: Commencement: Sch. para. 79 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-5516e29477f2087a848fcbcbfb9808df]: Commencement: Sch. para. 79 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-7bd5df0c711dcdb9bae149c8a58215c3]: Commencement: Sch. para. 80 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-7bd5df0c711dcdb9bae149c8a58215c3]: Commencement: Sch. para. 80 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-2f39b59bbe489bd95540d6396cd448e4]: Commencement: Sch. para. 81 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-2f39b59bbe489bd95540d6396cd448e4]: Commencement: Sch. para. 81 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-ba128da5fef5d1fa19730e09b2a38a4c]: Commencement: Sch. para. 82 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-ba128da5fef5d1fa19730e09b2a38a4c]: Commencement: Sch. para. 82 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-61fe310c2455747955af1ac15a43ae0e]: Commencement: Sch. para. 83 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-61fe310c2455747955af1ac15a43ae0e]: Commencement: Sch. para. 83 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-c4462f63fa8021b418e3ea442f2cde55]: Commencement: Sch. para. 84 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-c4462f63fa8021b418e3ea442f2cde55]: Commencement: Sch. para. 84 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-06adcc6f0d0090ee26ff288980e5217a]: Commencement: Sch. para. 85 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-06adcc6f0d0090ee26ff288980e5217a]: Commencement: Sch. para. 85 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-d165cebf491b37adea6e4c85175c6984]: Commencement: Sch. para. 86 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-d165cebf491b37adea6e4c85175c6984]: Commencement: Sch. para. 86 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-9da0298b22200333f26b21e732d34369]: Commencement: Sch. para. 87 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-9da0298b22200333f26b21e732d34369]: Commencement: Sch. para. 87 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-d85d481655e06c2fbe8400584420dedd]: Commencement: Sch. para. 88 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-d85d481655e06c2fbe8400584420dedd]: Commencement: Sch. para. 88 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-d23804bf8caaf3f1d87b922867a5f883]: Commencement: Sch. para. 89 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-d23804bf8caaf3f1d87b922867a5f883]: Commencement: Sch. para. 89 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-f7d42b5f398256152de7a1c2b7c5bebb]: Commencement: Sch. para. 90 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-f7d42b5f398256152de7a1c2b7c5bebb]: Commencement: Sch. para. 90 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-ebe6fbd8ce98345b866f860558cf7912]: Commencement: Sch. para. 91 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-ebe6fbd8ce98345b866f860558cf7912]: Commencement: Sch. para. 91 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-f8950291c83e14e7f6454399278e7add]: Commencement: Sch. para. 92 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-f8950291c83e14e7f6454399278e7add]: Commencement: Sch. para. 92 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-77f26e4713a695af970e6d765574a587]: Commencement: Sch. para. 93 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-77f26e4713a695af970e6d765574a587]: Commencement: Sch. para. 93 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-4ad36cfff2cf2c5ef1c4aba86fbce7f5]: Commencement: Sch. para. 94 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-4ad36cfff2cf2c5ef1c4aba86fbce7f5]: Commencement: Sch. para. 94 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-b8b632bb740b4a26d661ff0bcef0cd34]: Commencement: Sch. para. 95 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b8b632bb740b4a26d661ff0bcef0cd34]: Commencement: Sch. para. 95 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-e66d601ac1c9f53a0bd16ef6adb5372b]: Commencement: Sch. para. 96 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-e66d601ac1c9f53a0bd16ef6adb5372b]: Commencement: Sch. para. 96 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-4a5d3959ed446bd88dbb1b41f421d017]: Commencement: Sch. para. 97 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-4a5d3959ed446bd88dbb1b41f421d017]: Commencement: Sch. para. 97 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-7909f231450f7e8adcd2f694f411cdd6]: Commencement: Sch. para. 98 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-7909f231450f7e8adcd2f694f411cdd6]: Commencement: Sch. para. 98 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-14ebb2c616f7c53407bf72c7ea395f98]: Commencement: Sch. para. 99 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-14ebb2c616f7c53407bf72c7ea395f98]: Commencement: Sch. para. 99 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-268371c7b4e795988fd0daf5581a4808]: Commencement: Sch. para. 100 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-268371c7b4e795988fd0daf5581a4808]: Commencement: Sch. para. 100 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-bfe25b471a970be9b73073f52679371a]: Commencement: Sch. para. 101 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-bfe25b471a970be9b73073f52679371a]: Commencement: Sch. para. 101 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-6a973f316a1a1f7ac81cddfcf957c4a9]: Commencement: Sch. para. 102 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-6a973f316a1a1f7ac81cddfcf957c4a9]: Commencement: Sch. para. 102 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-7ec791895e9ce900a95f8033b90a6540]: Commencement: Sch. para. 103 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-7ec791895e9ce900a95f8033b90a6540]: Commencement: Sch. para. 103 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-4fb59a43471c3c4a421678e569cebcbe]: Commencement: Sch. para. 104 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-4fb59a43471c3c4a421678e569cebcbe]: Commencement: Sch. para. 104 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-3b71004d95ce1d6d1e004a648e83142b]: Commencement: Sch. para. 105 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-3b71004d95ce1d6d1e004a648e83142b]: Commencement: Sch. para. 105 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-b14c2147b6daec7eb42e620e8519bf1a]: Commencement: Sch. para. 106 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b14c2147b6daec7eb42e620e8519bf1a]: Commencement: Sch. para. 106 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-8f41b26e1c4fddaad1ba714a01e6c791]: Commencement: Sch. para. 107 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-8f41b26e1c4fddaad1ba714a01e6c791]: Commencement: Sch. para. 107 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-252b29f8f465f303141a2749c4e0b4f4]: Commencement: Sch. para. 108 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-252b29f8f465f303141a2749c4e0b4f4]: Commencement: Sch. para. 108 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-190f075685f149b08679c8b57e6c18da]: Commencement: Sch. para. 109 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-190f075685f149b08679c8b57e6c18da]: Commencement: Sch. para. 109 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-086f4843e125c147cb7d01b606a1168c]: Commencement: Sch. para. 110EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-086f4843e125c147cb7d01b606a1168c]: Commencement: Sch. para. 110EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00008]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23). Section 45 of the Arbitration Act 1996 provides as follows:
 
@@ -1687,151 +1687,151 @@ There are differences between the law of Scotland on the one hand and the law of
     >
     > But no appeal lies without the leave of the court which shall not be given unless the court considers that the question is one of general importance, or is one which for some other special reason should be considered by the Court of Appeal.
 
-[^key-b3a64cf50e61f096efcb6ab7d2a06f42]: Commencement: Sch. para. 111S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b3a64cf50e61f096efcb6ab7d2a06f42]: Commencement: Sch. para. 111S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-fbcec7ae3e0e66a9edd702520aea0aa5]: Commencement: Sch. para. 112S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-fbcec7ae3e0e66a9edd702520aea0aa5]: Commencement: Sch. para. 112S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-09504fd6b9fa2f93bc16097c9e0e3652]: Commencement: Sch. para. 113 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-09504fd6b9fa2f93bc16097c9e0e3652]: Commencement: Sch. para. 113 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-5746fe089397bfd76d3defc652ca4028]: Commencement: Sch. para. 114EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-5746fe089397bfd76d3defc652ca4028]: Commencement: Sch. para. 114EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-9ee03b33a94d0c797015f4abe7bf9043]: Commencement: Sch. para. 115EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-9ee03b33a94d0c797015f4abe7bf9043]: Commencement: Sch. para. 115EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-67138b3b9786492fb14b432f9871bef2]: Commencement: Sch. para. 116EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-67138b3b9786492fb14b432f9871bef2]: Commencement: Sch. para. 116EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-af6d828964e166367a84aa1751383cd9]: Commencement: Sch. para. 117S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-af6d828964e166367a84aa1751383cd9]: Commencement: Sch. para. 117S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-5de4a6ebf58fc7727314fbdc3564601c]: Commencement: Sch. para. 118S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-5de4a6ebf58fc7727314fbdc3564601c]: Commencement: Sch. para. 118S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-8a78563e04bdcc79e98d7858f7970b8e]: Commencement: Sch. para. 119S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-8a78563e04bdcc79e98d7858f7970b8e]: Commencement: Sch. para. 119S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-19573be0abfc8403c2d012b54f76760d]: Commencement: Sch. para. 120 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-19573be0abfc8403c2d012b54f76760d]: Commencement: Sch. para. 120 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-c62a833faa9ec0936049d2ecd345bd07]: Commencement: Sch. para. 121 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-c62a833faa9ec0936049d2ecd345bd07]: Commencement: Sch. para. 121 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-7e9c8387ed600a53172a6b6a30c27021]: Commencement: Sch. para. 122 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-7e9c8387ed600a53172a6b6a30c27021]: Commencement: Sch. para. 122 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-1d025be7a85dcd88f7e2054bd37f9c9f]: Commencement: Sch. para. 123 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-1d025be7a85dcd88f7e2054bd37f9c9f]: Commencement: Sch. para. 123 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-58c5c79dd7cf3f33c796a3e8806200e1]: Commencement: Sch. para. 124 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-58c5c79dd7cf3f33c796a3e8806200e1]: Commencement: Sch. para. 124 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-a0c52acf8f194731e53db1081831cc40]: Commencement: Sch. para. 125 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-a0c52acf8f194731e53db1081831cc40]: Commencement: Sch. para. 125 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-7b40a1c5af1ac72d58831d4d37bc32ea]: Commencement: Sch. para. 126 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-7b40a1c5af1ac72d58831d4d37bc32ea]: Commencement: Sch. para. 126 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-60dfdabd8dea2b6fece728e44db6fca1]: Commencement: Sch. para. 127 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-60dfdabd8dea2b6fece728e44db6fca1]: Commencement: Sch. para. 127 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-9ad99d89d59e89b05f03413172c1bf28]: Commencement: Sch. para. 128 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-9ad99d89d59e89b05f03413172c1bf28]: Commencement: Sch. para. 128 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-c7c229f3a14104567744b4e9b1c1680a]: Commencement: Sch. para. 129 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-c7c229f3a14104567744b4e9b1c1680a]: Commencement: Sch. para. 129 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-5d029aff32144769cfc6682db8d2a3f7]: Commencement: Sch. para. 130 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-5d029aff32144769cfc6682db8d2a3f7]: Commencement: Sch. para. 130 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-256c4cd4fb62933151998a58af4aa6e0]: Commencement: Sch. para. 131 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-256c4cd4fb62933151998a58af4aa6e0]: Commencement: Sch. para. 131 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-0bdf77b3534750dbd4ee211f0748c596]: Commencement: Sch. para. 132 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-0bdf77b3534750dbd4ee211f0748c596]: Commencement: Sch. para. 132 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-e765e9b33e6d53560233f50a6612a3ba]: Commencement: Sch. para. 133 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-e765e9b33e6d53560233f50a6612a3ba]: Commencement: Sch. para. 133 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-e418d2930665ad0ba80dffe459cc2672]: Commencement: Sch. para. 134 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-e418d2930665ad0ba80dffe459cc2672]: Commencement: Sch. para. 134 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-1341219cd59cfc9b935057304e2a18e6]: Commencement: Sch. para. 135 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-1341219cd59cfc9b935057304e2a18e6]: Commencement: Sch. para. 135 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-27ce33f2a28b7013024f445823495d03]: Commencement: Sch. para. 136 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-27ce33f2a28b7013024f445823495d03]: Commencement: Sch. para. 136 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-31cfd69fe207cb0fac0fc78677f3af18]: Commencement: Sch. para. 137 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-31cfd69fe207cb0fac0fc78677f3af18]: Commencement: Sch. para. 137 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-b3053b5ebf047791b86c8a1dc75f2a8e]: Commencement: Sch. para. 138 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b3053b5ebf047791b86c8a1dc75f2a8e]: Commencement: Sch. para. 138 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-5d7886a8560b56cb8c3b164c84aa89fb]: Commencement: Sch. para. 139 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-5d7886a8560b56cb8c3b164c84aa89fb]: Commencement: Sch. para. 139 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-38092795ea695349a82dab8fc4bf4c4c]: Commencement: Sch. para. 140 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-38092795ea695349a82dab8fc4bf4c4c]: Commencement: Sch. para. 140 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-0451918929543e3c5de41c8404a4bc1d]: Commencement: Sch. para. 141 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-0451918929543e3c5de41c8404a4bc1d]: Commencement: Sch. para. 141 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-e21024e370a8dcfd926c195913a836d8]: Commencement: Sch. para. 142 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-e21024e370a8dcfd926c195913a836d8]: Commencement: Sch. para. 142 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-bc9d12aad6fb12228ba3af74cfbe0208]: Commencement: Sch. para. 143 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-bc9d12aad6fb12228ba3af74cfbe0208]: Commencement: Sch. para. 143 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-675ed532b6e7d823956e6906018546d9]: Commencement: Sch. para. 144 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-675ed532b6e7d823956e6906018546d9]: Commencement: Sch. para. 144 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-c3577334fa4cc30502968d73dfd2b0f9]: Commencement: Sch. para. 145 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-c3577334fa4cc30502968d73dfd2b0f9]: Commencement: Sch. para. 145 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-b69ff743fa4cce9ae21b9696716dc67a]: Commencement: Sch. para. 146 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b69ff743fa4cce9ae21b9696716dc67a]: Commencement: Sch. para. 146 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-afb1890ab7542c552a39176833f90e83]: Commencement: Sch. para. 147 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-afb1890ab7542c552a39176833f90e83]: Commencement: Sch. para. 147 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-07532694b94086f1c18ad52a2412f7fa]: Textual amendment: Words in [Sch. para. 147(v)(vi)](https://www.legislation.gov.uk/uksi/2004/753/schedule/paragraph/147/v/vi) substituted (1.10.2006) by [The Transfer of Undertakings (Protection of Employment) (Consequential Amendments) Regulations 2006 (S.I. 2006/2405)](https://www.legislation.gov.uk/uksi/2006/2405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2405/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2006/2405/regulation/4)
+[^c-07532694b94086f1c18ad52a2412f7fa]: Textual amendment: Words in [Sch. para. 147(v)(vi)](https://www.legislation.gov.uk/uksi/2004/753/schedule/paragraph/147/v/vi) substituted (1.10.2006) by [The Transfer of Undertakings (Protection of Employment) (Consequential Amendments) Regulations 2006 (S.I. 2006/2405)](https://www.legislation.gov.uk/uksi/2006/2405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2405/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2006/2405/regulation/4)
 
-[^key-1dfe02eebaa56bea985f7fef170d9297]: Commencement: Sch. para. 148 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-1dfe02eebaa56bea985f7fef170d9297]: Commencement: Sch. para. 148 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-937874fdeef932800046a39283dc148b]: Commencement: Sch. para. 149 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-937874fdeef932800046a39283dc148b]: Commencement: Sch. para. 149 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-e34403d89b8940e74d8db2a6231768de]: Commencement: Sch. para. 150 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-e34403d89b8940e74d8db2a6231768de]: Commencement: Sch. para. 150 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-15d0ca594f1fdd41b0597a276d7e7617]: Commencement: Sch. para. 151 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-15d0ca594f1fdd41b0597a276d7e7617]: Commencement: Sch. para. 151 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-17804e1076cd06e0efaf59d822bc91a7]: Commencement: Sch. para. 152 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-17804e1076cd06e0efaf59d822bc91a7]: Commencement: Sch. para. 152 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-11cace5e4e1dd7164ab2ce47cdfd0b49]: Commencement: Sch. para. 153 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-11cace5e4e1dd7164ab2ce47cdfd0b49]: Commencement: Sch. para. 153 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-5a431e8daf50dbc55bdbfb89c6866ae0]: Commencement: Sch. para. 154 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-5a431e8daf50dbc55bdbfb89c6866ae0]: Commencement: Sch. para. 154 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-b00cb6e703a7d73e52c08876ca5dd005]: Commencement: Sch. para. 155 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b00cb6e703a7d73e52c08876ca5dd005]: Commencement: Sch. para. 155 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-0d81c55ea7af9532d7227b262b017c0f]: Commencement: Sch. para. 156 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-0d81c55ea7af9532d7227b262b017c0f]: Commencement: Sch. para. 156 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-568ba7c25b0282e17008343ffdf91daf]: Commencement: Sch. para. 157 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-568ba7c25b0282e17008343ffdf91daf]: Commencement: Sch. para. 157 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-ca5ac0df14e6d27da016b30b26983490]: Commencement: Sch. para. 158 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-ca5ac0df14e6d27da016b30b26983490]: Commencement: Sch. para. 158 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-df8bc7169dde08f2435cfcb6f0056940]: Commencement: Sch. para. 159 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-df8bc7169dde08f2435cfcb6f0056940]: Commencement: Sch. para. 159 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-350332064e6ba789200ba7dfde511871]: Commencement: Sch. para. 160 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-350332064e6ba789200ba7dfde511871]: Commencement: Sch. para. 160 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-623d184ff22ec0d8de40fecaee8e97f5]: Commencement: Sch. para. 161 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-623d184ff22ec0d8de40fecaee8e97f5]: Commencement: Sch. para. 161 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-5c3a95f8f7d3a747fc6c35e106d23d72]: Commencement: Sch. para. 162 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-5c3a95f8f7d3a747fc6c35e106d23d72]: Commencement: Sch. para. 162 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-cd4fae4e38d917dea588d75e6bbc1aff]: Commencement: Sch. para. 163 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-cd4fae4e38d917dea588d75e6bbc1aff]: Commencement: Sch. para. 163 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-612c0a87e3cf36ade5c701a5e1c2dcce]: Commencement: Sch. para. 164 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-612c0a87e3cf36ade5c701a5e1c2dcce]: Commencement: Sch. para. 164 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-ca21ec3c786d5cd2eb3d76fc92decea9]: Commencement: Sch. para. 165 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-ca21ec3c786d5cd2eb3d76fc92decea9]: Commencement: Sch. para. 165 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-1c090bc9e4a3e029b5ae515b6c3cd735]: Commencement: Sch. para. 166 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-1c090bc9e4a3e029b5ae515b6c3cd735]: Commencement: Sch. para. 166 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-efce6b43d91be1c7e6067ee4653e11ce]: Commencement: Sch. para. 167 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-efce6b43d91be1c7e6067ee4653e11ce]: Commencement: Sch. para. 167 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-44f0a28ebd534c7196a4f042120a286b]: Commencement: Sch. para. 168 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-44f0a28ebd534c7196a4f042120a286b]: Commencement: Sch. para. 168 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-556c93f1da43dfe7a71b36a2bebbc566]: Commencement: Sch. para. 169 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-556c93f1da43dfe7a71b36a2bebbc566]: Commencement: Sch. para. 169 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-672e82886cdaee6e117782362e73f6d8]: Commencement: Sch. para. 170 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-672e82886cdaee6e117782362e73f6d8]: Commencement: Sch. para. 170 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-c4f01418f2b311ef3e1a09bac369e52d]: Commencement: Sch. para. 171 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-c4f01418f2b311ef3e1a09bac369e52d]: Commencement: Sch. para. 171 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-c40561f85436f6369353ea696e4a04f7]: Commencement: Sch. para. 172 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-c40561f85436f6369353ea696e4a04f7]: Commencement: Sch. para. 172 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-2f322131a4fed95073ed9b21273d2ce4]: Commencement: Sch. para. 173 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-2f322131a4fed95073ed9b21273d2ce4]: Commencement: Sch. para. 173 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-a5b633db27fa3f8dc1541f2e4497764f]: Commencement: Sch. para. 174 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-a5b633db27fa3f8dc1541f2e4497764f]: Commencement: Sch. para. 174 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-944710921ed0b88824b145d62d129f6a]: Commencement: Sch. para. 175 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-944710921ed0b88824b145d62d129f6a]: Commencement: Sch. para. 175 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-c3eddee0a76e23bca151537ada9bd595]: Commencement: Sch. para. 176 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-c3eddee0a76e23bca151537ada9bd595]: Commencement: Sch. para. 176 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-3ec5a61f138a28293859459519ca1241]: Commencement: Sch. para. 178S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-3ec5a61f138a28293859459519ca1241]: Commencement: Sch. para. 178S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-9845e0afa611ea74574bd40cc5d589b1]: Commencement: Sch. para. 179 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-9845e0afa611ea74574bd40cc5d589b1]: Commencement: Sch. para. 179 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-b30e1fd19fc10298b293ac8dc20ffb69]: Commencement: Sch. para. 180 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b30e1fd19fc10298b293ac8dc20ffb69]: Commencement: Sch. para. 180 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-753b9c8654e754075fe343e54555ec37]: Commencement: Sch. para. 181EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-753b9c8654e754075fe343e54555ec37]: Commencement: Sch. para. 181EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-6ced5a734ae59f88a90b9a22ff4ee839]: Commencement: Sch. para. 182S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-6ced5a734ae59f88a90b9a22ff4ee839]: Commencement: Sch. para. 182S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-89cab81fa281af3a6599674571d4e28e]: Commencement: Sch. para. 183EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-89cab81fa281af3a6599674571d4e28e]: Commencement: Sch. para. 183EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00009]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23). Section 66 of the Arbitration Act 1996 provides as follows:
 
@@ -1845,13 +1845,13 @@ There are differences between the law of Scotland on the one hand and the law of
     >
     > (4) Nothing in this section affects the recognition or enforcement of an award under any other enactment or rule of law, in particular under Part II of the Arbitration Act 1950 (enforcement of awards under Geneva Convention) or the provisions of Part III of this Act relating to the recognition and enforcement of awards under the New York Convention or by an action on the award.
 
-[^key-1b703efaa0eb0b216b1ba9459259e5a6]: Commencement: Sch. para. 184S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-1b703efaa0eb0b216b1ba9459259e5a6]: Commencement: Sch. para. 184S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-9c3e6803696f3ec1a7525f46f9670b92]: Commencement: Sch. para. 185 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-9c3e6803696f3ec1a7525f46f9670b92]: Commencement: Sch. para. 185 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-6e718431b30c57eadd384788cb261108]: Commencement: Sch. para. 186 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-6e718431b30c57eadd384788cb261108]: Commencement: Sch. para. 186 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-0999d8ac1fbaeb4e670be09d9a8b6179]: Commencement: Sch. para. 187EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-0999d8ac1fbaeb4e670be09d9a8b6179]: Commencement: Sch. para. 187EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00010]: Footnote: Section 67 of the Arbitration Act 1996 provides as follows:
 
@@ -1872,19 +1872,19 @@ There are differences between the law of Scotland on the one hand and the law of
     >
     > (4) The leave of the court is required for any appeal from a decision of the court under this section.
 
-[^key-572fc91ec6bf13302c2896bbd942dd59]: Commencement: Sch. para. 188S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-572fc91ec6bf13302c2896bbd942dd59]: Commencement: Sch. para. 188S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-8ac8c83f868690a9ed5f70287b743651]: Commencement: Sch. para. 189S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-8ac8c83f868690a9ed5f70287b743651]: Commencement: Sch. para. 189S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-d8a92e76edb1c5039c58090ba23d014c]: Commencement: Sch. para. 190S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-d8a92e76edb1c5039c58090ba23d014c]: Commencement: Sch. para. 190S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-9be9f1f81d905ca0e2d0d46390316ffd]: Commencement: Sch. para. 191S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-9be9f1f81d905ca0e2d0d46390316ffd]: Commencement: Sch. para. 191S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-f21fbc70a9472d7b427bceb8c815b644]: Commencement: Sch. para. 192S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-f21fbc70a9472d7b427bceb8c815b644]: Commencement: Sch. para. 192S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-1ee94c55392b7a4229a1f6a0b92719f9]: Commencement: Sch. para. 193S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-1ee94c55392b7a4229a1f6a0b92719f9]: Commencement: Sch. para. 193S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-6e46702b71e96e11942e1eac73cb84ca]: Commencement: Sch. para. 194EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-6e46702b71e96e11942e1eac73cb84ca]: Commencement: Sch. para. 194EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00011]: Footnote: Section 68 of the Arbitration Act 1996 provides as follows:
 
@@ -1914,17 +1914,17 @@ There are differences between the law of Scotland on the one hand and the law of
     >
     > (4) The leave of the court is required for any appeal from a decision of the court under this section.
 
-[^key-8d463b5fde90c85a64333773afadddde]: Commencement: Sch. para. 195S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-8d463b5fde90c85a64333773afadddde]: Commencement: Sch. para. 195S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-ad3a2fa6390f953eec5616491bc23d15]: Commencement: Sch. para. 196S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-ad3a2fa6390f953eec5616491bc23d15]: Commencement: Sch. para. 196S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-b0d0c94a49532668ea029d5027819f24]: Commencement: Sch. para. 197S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b0d0c94a49532668ea029d5027819f24]: Commencement: Sch. para. 197S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-da4f06cf96a6c8cbd75c8ac2954a89c1]: Commencement: Sch. para. 198S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-da4f06cf96a6c8cbd75c8ac2954a89c1]: Commencement: Sch. para. 198S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-4868bf927d2e6b63a98e183b710d22bc]: Commencement: Sch. para. 199S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-4868bf927d2e6b63a98e183b710d22bc]: Commencement: Sch. para. 199S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-b38450f291efaae2e49b778a566c89f9]: Commencement: Sch. para. 200EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b38450f291efaae2e49b778a566c89f9]: Commencement: Sch. para. 200EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00012]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23). Section 69 of the Arbitration Act 1996 provides as follows:
 
@@ -1967,15 +1967,15 @@ There are differences between the law of Scotland on the one hand and the law of
     >
     > But no such appeal lies without the leave of the court which shall not be given unless the court considers that the question is one of general importance or is one which for some other special reason should be considered by the Court of Appeal.
 
-[^key-d01a3a884b636b94a35cfede9c7a9ed6]: Commencement: Sch. para. 201S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-d01a3a884b636b94a35cfede9c7a9ed6]: Commencement: Sch. para. 201S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-338952a03149880ee1b89b6381d0ed23]: Commencement: Sch. para. 202S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-338952a03149880ee1b89b6381d0ed23]: Commencement: Sch. para. 202S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-bbf775a35b9402c6580a28910da5f3e3]: Commencement: Sch. para. 203S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-bbf775a35b9402c6580a28910da5f3e3]: Commencement: Sch. para. 203S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-fbfd0b6388fb222cd313286892705481]: Commencement: Sch. para. 204S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-fbfd0b6388fb222cd313286892705481]: Commencement: Sch. para. 204S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-1ba562a3e06e0e85f31d8def5c38f082]: Commencement: Sch. para. 205EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-1ba562a3e06e0e85f31d8def5c38f082]: Commencement: Sch. para. 205EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00013]: Footnote: Section 70 of the Arbitration Act 1996 provides as follows:
 
@@ -2010,13 +2010,13 @@ There are differences between the law of Scotland on the one hand and the law of
     >
     > This does not affect the general discretion of the court to grant leave subject to conditions.
 
-[^key-5d1038b83f3fc36c2f136f81c422d857]: Commencement: Sch. para. 206S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-5d1038b83f3fc36c2f136f81c422d857]: Commencement: Sch. para. 206S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-25a061162ec8e52b93866d1f556c5411]: Commencement: Sch. para. 207S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-25a061162ec8e52b93866d1f556c5411]: Commencement: Sch. para. 207S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-fe5813a910162e920e37dac412b6dbc3]: Commencement: Sch. para. 208S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-fe5813a910162e920e37dac412b6dbc3]: Commencement: Sch. para. 208S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-9fb9cbe37256917830b7347374a71d93]: Commencement: Sch. para. 209EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-9fb9cbe37256917830b7347374a71d93]: Commencement: Sch. para. 209EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00014]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23). Sections 81(1)(c) and 81(2) of the Arbitration Act 1996 provide as follows:
 
@@ -2028,13 +2028,13 @@ There are differences between the law of Scotland on the one hand and the law of
     >
     > (2) Nothing in this Act shall be construed as reviving any jurisdiction of the court to set aside or remit an award on the ground of errors of fact or law on the face of the award.
 
-[^key-cf903b9eb9e98f0d9a7773f291be56ac]: Commencement: Sch. para. 210S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-cf903b9eb9e98f0d9a7773f291be56ac]: Commencement: Sch. para. 210S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-8598652d4661e993b764cc6584f60eaf]: Commencement: Sch. para. 211S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-8598652d4661e993b764cc6584f60eaf]: Commencement: Sch. para. 211S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00015]: Footnote: [1972 c. 59](https://www.legislation.gov.uk/ukpga/1972/59).
 
-[^key-9a6f2445b1418299eed7906ac4639e61]: Commencement: Sch. para. 212EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-9a6f2445b1418299eed7906ac4639e61]: Commencement: Sch. para. 212EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00016]: Footnote: Section 71 of the Arbitration Act 1996 provides as follows:
 
@@ -2046,15 +2046,15 @@ There are differences between the law of Scotland on the one hand and the law of
     >
     > (4) Where the award is set aside or declared to be of no effect, in whole or in part, the court may also order that any provision that an award is a condition precedent to the bringing of legal proceedings in respect of a matter to which the arbitration agreement applies, is of no effect as regards the subject matter of the award or, as the case may be, the relevant part of the award.
 
-[^key-987e6743149ac7607cc76c9a5c22bd8a]: Commencement: Sch. para. 213S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-987e6743149ac7607cc76c9a5c22bd8a]: Commencement: Sch. para. 213S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-488b091d2d0516c74ebc960194f4d516]: Commencement: Sch. para. 214 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-488b091d2d0516c74ebc960194f4d516]: Commencement: Sch. para. 214 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-caf5dd796da5431f9cb0ef1df9fd5c0b]: Commencement: Sch. para. 215 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-caf5dd796da5431f9cb0ef1df9fd5c0b]: Commencement: Sch. para. 215 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-7c711f500018be56e188c9a8318f290f]: Commencement: Sch. para. 216 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-7c711f500018be56e188c9a8318f290f]: Commencement: Sch. para. 216 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-612a0e7c74bb5b7b73d3e18c0e1fb400]: Commencement: Sch. para. 217EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-612a0e7c74bb5b7b73d3e18c0e1fb400]: Commencement: Sch. para. 217EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00017]: Footnote: Sections 80(1), (2), (4), (5), (6) and (7) of the Arbitration Act 1996 provide as follows:
 
@@ -2079,17 +2079,17 @@ There are differences between the law of Scotland on the one hand and the law of
     >
     > (7) Nothing in this section affects the generality of the power to make rules of court.
 
-[^key-2b949b0d0de441517af72da54f77a141]: Commencement: Sch. para. 218 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-2b949b0d0de441517af72da54f77a141]: Commencement: Sch. para. 218 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-b505b40e988b6002fac0d6cacddb9233]: Commencement: Sch. para. 219 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-b505b40e988b6002fac0d6cacddb9233]: Commencement: Sch. para. 219 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-d6a47582695197d476563b7ed33f5d6f]: Commencement: Sch. para. 220 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-d6a47582695197d476563b7ed33f5d6f]: Commencement: Sch. para. 220 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-7254f1131dc3bf82f3471bde5bce3889]: Commencement: Sch. para. 221 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-7254f1131dc3bf82f3471bde5bce3889]: Commencement: Sch. para. 221 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-827a553cb8923b14ead6c6082a7dadf4]: Commencement: Sch. para. 222 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-827a553cb8923b14ead6c6082a7dadf4]: Commencement: Sch. para. 222 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-5fa97442857a17e960a2962b495145c5]: Commencement: Sch. para. 223EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-5fa97442857a17e960a2962b495145c5]: Commencement: Sch. para. 223EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00018]: Footnote: Section 77 of the Arbitration Act 1996 provides as follows:
 
@@ -2104,7 +2104,7 @@ There are differences between the law of Scotland on the one hand and the law of
     >
     > (4) The leave of the court is required for any appeal from a decision of the court under this section.
 
-[^key-0c0e6b3b6f448fd14b59fd98bb35fad3]: Commencement: Sch. para. 224EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-0c0e6b3b6f448fd14b59fd98bb35fad3]: Commencement: Sch. para. 224EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00019]: Footnote: Sections 78(2), (3), (4) and (5) of the Arbitration Act 1996 provide as follows:
 
@@ -2118,10 +2118,10 @@ There are differences between the law of Scotland on the one hand and the law of
     >
     > In relation to England and Wales or Northern Ireland, a “**public holiday**” means Christmas Day, Good Friday or a day which under the Banking and Financial Dealings Act 1971 is a bank holiday.
 
-[^key-0cf79db28ac2e79f93536eb7051b0554]: Commencement: Sch. para. 225S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-0cf79db28ac2e79f93536eb7051b0554]: Commencement: Sch. para. 225S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00020]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-32ad18eb5d530256e1bb3ba57301841a]: Commencement: Sch. para. 226EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-32ad18eb5d530256e1bb3ba57301841a]: Commencement: Sch. para. 226EW in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
-[^key-192c9928fdbc451449b6cc50c70f4d7e]: Commencement: Sch. para. 227S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-192c9928fdbc451449b6cc50c70f4d7e]: Commencement: Sch. para. 227S in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)

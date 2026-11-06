@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Fire precautions[^key-cbf3a9360b5c64b02e19ab943ede4d28]
+## 26. Fire precautions[^c-cbf3a9360b5c64b02e19ab943ede4d28]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cbf3a9360b5c64b02e19ab943ede4d28]: Commencement: Reg. 26 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-cbf3a9360b5c64b02e19ab943ede4d28]: Commencement: Reg. 26 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
 
 [^f00006]: Footnote: *See* article 3 of the Fire and Rescue Services (Northern Ireland) Order 2006 (S.I. [2006/1254 (N.I. 9)](https://www.legislation.gov.uk/nisi/2006/1254))

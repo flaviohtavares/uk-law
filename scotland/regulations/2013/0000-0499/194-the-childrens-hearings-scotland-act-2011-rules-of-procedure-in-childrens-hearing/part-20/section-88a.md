@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88A. Notifying decision of a children’s hearing to an individual afforded an opportunity to participate[^key-dbdfde73a11be88545a1d23b93b5fe97]
+## 88A. Notifying decision of a children’s hearing to an individual afforded an opportunity to participate[^c-dbdfde73a11be88545a1d23b93b5fe97]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Where a children’s hearing makes a direction which regulates contact between t
 
 ## Annotations
 
-[^key-dbdfde73a11be88545a1d23b93b5fe97]: Textual amendment: Rule 88A inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(28)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/28)
+[^c-dbdfde73a11be88545a1d23b93b5fe97]: Textual amendment: Rule 88A inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(28)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/28)

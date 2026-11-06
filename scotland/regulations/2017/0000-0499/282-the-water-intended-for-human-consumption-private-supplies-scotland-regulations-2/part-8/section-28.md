@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Power to obtain information[^key-d74c6d1f9044431e2d21f8f7ee07adf0]
+## 28. Power to obtain information[^c-d74c6d1f9044431e2d21f8f7ee07adf0]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d74c6d1f9044431e2d21f8f7ee07adf0]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2017/282/regulation/28) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-d74c6d1f9044431e2d21f8f7ee07adf0]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2017/282/regulation/28) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

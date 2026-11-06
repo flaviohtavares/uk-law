@@ -46,229 +46,229 @@ Coming into force
 
 The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 83, 85, 86(4), 88, 89, 90, 91, 93, 94, 97(6), 259 and 272(7) and (8) of the National Health Service Act 2006[^f00001].
 
-## PART 1 — GENERAL[^key-3dc94884398982dbd8f8da70d38231cb]
+## PART 1 — GENERAL[^c-3dc94884398982dbd8f8da70d38231cb]
 
 **No longer in force.**
 
-### 1. Citation, commencement and interpretation[^key-3dc94884398982dbd8f8da70d38231cb]
+### 1. Citation, commencement and interpretation[^c-3dc94884398982dbd8f8da70d38231cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — AMENDMENT OF THE GMS CONTRACTS REGULATIONS[^key-cfa7927bdbdc68737d55add91faf09bd]
+## PART 2 — AMENDMENT OF THE GMS CONTRACTS REGULATIONS[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 **No longer in force.**
 
-**2.**[^key-cfa7927bdbdc68737d55add91faf09bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cfa7927bdbdc68737d55add91faf09bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of regulation 2[^key-cfa7927bdbdc68737d55add91faf09bd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Substitution of regulation 3[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 3. Amendment of regulation 2[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of regulation 4[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 4. Substitution of regulation 3[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment of regulation 5[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 5. Amendment of regulation 4[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of regulation 6[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 6. Amendment of regulation 5[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment of regulation 7[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 7. Amendment of regulation 6[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of regulation 9[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 8. Amendment of regulation 7[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of regulation 10[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 9. Amendment of regulation 9[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendment of regulation 14[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 10. Amendment of regulation 10[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendment of regulation 15[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 11. Amendment of regulation 14[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Amendment of regulation 17[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 12. Amendment of regulation 15[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Amendment of regulation 18[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 13. Amendment of regulation 17[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Insertion of new regulation 20A[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 14. Amendment of regulation 18[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Amendment of regulation 22[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 15. Insertion of new regulation 20A[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Substitution of regulation 23[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 16. Amendment of regulation 22[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Amendment of regulation 24[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 17. Substitution of regulation 23[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Amendment of regulation 26[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 18. Amendment of regulation 24[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Omission of regulation 26A and insertion of new regulation 26B[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 19. Amendment of regulation 26[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Amendment of regulation 27[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 20. Omission of regulation 26A and insertion of new regulation 26B[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Amendment of regulation 31[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 21. Amendment of regulation 27[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Omission of regulation 32 and Schedule 7[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 22. Amendment of regulation 31[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Amendment of Schedule 2[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 23. Omission of regulation 32 and Schedule 7[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Amendment of Schedule 3[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 24. Amendment of Schedule 2[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Amendment of Schedule 5[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 25. Amendment of Schedule 3[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Amendment of Schedule 6[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 26. Amendment of Schedule 5[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Amendment of Schedule 10[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 27. Amendment of Schedule 6[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Transitional provision[^key-cfa7927bdbdc68737d55add91faf09bd]
+### 28. Amendment of Schedule 10[^c-cfa7927bdbdc68737d55add91faf09bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — AMENDMENTS OF THE PMS AGREEMENT REGULATIONS[^key-406945236b16d88d3ff063bf41f4386e]
+### 29. Transitional provision[^c-cfa7927bdbdc68737d55add91faf09bd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — AMENDMENTS OF THE PMS AGREEMENT REGULATIONS[^c-406945236b16d88d3ff063bf41f4386e]
 
 **No longer in force.**
 
-**30.**[^key-406945236b16d88d3ff063bf41f4386e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-406945236b16d88d3ff063bf41f4386e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Amendment of regulation 2[^key-406945236b16d88d3ff063bf41f4386e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 32. Substitution of regulation 3[^key-406945236b16d88d3ff063bf41f4386e]
+### 31. Amendment of regulation 2[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Amendment of regulation 5[^key-406945236b16d88d3ff063bf41f4386e]
+### 32. Substitution of regulation 3[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Amendment of regulation 6[^key-406945236b16d88d3ff063bf41f4386e]
+### 33. Amendment of regulation 5[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Amendment of regulation 7[^key-406945236b16d88d3ff063bf41f4386e]
+### 34. Amendment of regulation 6[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Amendment of regulation 8[^key-406945236b16d88d3ff063bf41f4386e]
+### 35. Amendment of regulation 7[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 37. Amendment of regulation 9[^key-406945236b16d88d3ff063bf41f4386e]
+### 36. Amendment of regulation 8[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 38. Amendment of regulation 11[^key-406945236b16d88d3ff063bf41f4386e]
+### 37. Amendment of regulation 9[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 39. Insertion of new regulation 11A[^key-406945236b16d88d3ff063bf41f4386e]
+### 38. Amendment of regulation 11[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 40. Amendment of regulation 13[^key-406945236b16d88d3ff063bf41f4386e]
+### 39. Insertion of new regulation 11A[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 41. Substitution of regulation 14[^key-406945236b16d88d3ff063bf41f4386e]
+### 40. Amendment of regulation 13[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 42. Amendment of regulation 15[^key-406945236b16d88d3ff063bf41f4386e]
+### 41. Substitution of regulation 14[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 43. Amendment of regulation 16[^key-406945236b16d88d3ff063bf41f4386e]
+### 42. Amendment of regulation 15[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44. Substitution of regulation 18[^key-406945236b16d88d3ff063bf41f4386e]
+### 43. Amendment of regulation 16[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 45. Omission of regulation 18A and insertion of new regulation 18B[^key-406945236b16d88d3ff063bf41f4386e]
+### 44. Substitution of regulation 18[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 46. Amendment of regulation 19[^key-406945236b16d88d3ff063bf41f4386e]
+### 45. Omission of regulation 18A and insertion of new regulation 18B[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 47. Omission of regulation 21 and Schedule 6[^key-406945236b16d88d3ff063bf41f4386e]
+### 46. Amendment of regulation 19[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 48. Amendment to Schedule 3[^key-406945236b16d88d3ff063bf41f4386e]
+### 47. Omission of regulation 21 and Schedule 6[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 49. Amendment of Schedule 4[^key-406945236b16d88d3ff063bf41f4386e]
+### 48. Amendment to Schedule 3[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 50. Amendment of Schedule 5[^key-406945236b16d88d3ff063bf41f4386e]
+### 49. Amendment of Schedule 4[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 51. Omission of Schedule 7[^key-406945236b16d88d3ff063bf41f4386e]
+### 50. Amendment of Schedule 5[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 52. Amendment of Schedule 10[^key-406945236b16d88d3ff063bf41f4386e]
+### 51. Omission of Schedule 7[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 53. Transitional provisions[^key-406945236b16d88d3ff063bf41f4386e]
+### 52. Amendment of Schedule 10[^c-406945236b16d88d3ff063bf41f4386e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 53. Transitional provisions[^c-406945236b16d88d3ff063bf41f4386e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — MISCELLANEOUS AMENDMENTS
 
-### 54. National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) Regulations 2004[^key-226162c68ac5987486a244032b43379a]
+### 54. National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) Regulations 2004[^c-226162c68ac5987486a244032b43379a]
 
 (1) The National Health Service (General Medical Services Contracts) (Prescription of Drugs etc.) Regulations 2004[^f00031] are amended as follows.
 
@@ -278,7 +278,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - (b) for the entry for “Oseltamivir (Tamiflu)” which is referred to in column 1, in the part which relates to the description of the patient (as mentioned in column 2), in paragraph (1A) and (2A), for “are part of a Primary Care Trust’s antivirals distribution service.”, substitute “are part of an antiviral distribution service provided by the Board, Public Health England or a Local Authority.”[^f00032]; and
 - (c) for the entry for “Zanamivir (Relenza)” which is referred to in column 1, in the part which relates to “patient” (as mentioned in column 2), in paragraph (2) for “are part of a Primary Care Trust’s antivirals distribution service.”, substitute “are part of an antiviral distribution service provided by the Board, Public Health England or a Local Authority.”.
 
-### 55. Primary Medical Services (Sale of Goodwill and Restrictions on Sub-contracting) Regulations 2004[^key-828056aea8f3f3ecd8f84ad1d3c06102]
+### 55. Primary Medical Services (Sale of Goodwill and Restrictions on Sub-contracting) Regulations 2004[^c-828056aea8f3f3ecd8f84ad1d3c06102]
 
 (1) The Primary Medical Services (Sale of Goodwill and Restrictions on Sub-contracting) Regulations 2004[^f00033] are amended as follows.
 
@@ -336,11 +336,11 @@ SCHEDULES
 
 Regulation 29
 
-### 1. Application of Schedule 1[^key-010bf3d8b6be608cc0439d4e354f5057]
+### 1. Application of Schedule 1[^c-010bf3d8b6be608cc0439d4e354f5057]
 
 This Schedule applies to a GMS contract which is entered into before the appointed day, and the parties to the contract on or after the appointed day are the Contractor and the Board as a consequence of a property scheme transfer made under section 300 of the 2012 Act.
 
-### 2. Interpretation[^key-63ba249e65804576a133c4cf4f52004a]
+### 2. Interpretation[^c-63ba249e65804576a133c4cf4f52004a]
 
 In this Schedule—
 
@@ -356,7 +356,7 @@ In this Schedule—
 - “Primary Care Trust” means the Primary Care Trust which was established and which subsisted immediately before the coming into force of section 34 (abolition of Primary Care Trusts) of the 2012 Act;
 - “Strategic Health Authority” means the Strategic Health Authority which was established and which subsisted immediately before the coming into force of section 33 (abolition of Strategic Health Authorities) of the 2012 Act.
 
-### 3. General transitional provisions relating to the terms of a GMS contract[^key-9d5496712fc5fdfce80ea6b0dbcb6adb]
+### 3. General transitional provisions relating to the terms of a GMS contract[^c-9d5496712fc5fdfce80ea6b0dbcb6adb]
 
 (1) The Contractor and the Board must as soon as is reasonably practicable on or after the appointed day, enter into discussions with each other with a view to agreeing variations to the GMS contract in order to ensure that the contract complies with the GMS Contracts Regulations on or after the appointed day.
 
@@ -364,23 +364,23 @@ In this Schedule—
 
 (3) The Contractor and the Board may not agree any variation to the GMS contract that is contrary to the GMS Contracts Regulations on or after the appointed day.
 
-### 4. Continuing validity of forms[^key-63b6493075cb83467d05757ea53f82f1]
+### 4. Continuing validity of forms[^c-63b6493075cb83467d05757ea53f82f1]
 
 A form supplied by a Primary Care Trust continues to be a valid form in relation to the Board until it is cancelled or withdrawn by the Board.
 
-### 5. Notification of reasons by a Primary Care Trust in respect of entering into contracts[^key-904e71b85b052ff5d3dfeb2e258b94bf]
+### 5. Notification of reasons by a Primary Care Trust in respect of entering into contracts[^c-904e71b85b052ff5d3dfeb2e258b94bf]
 
 Where a Primary Care Trust has given notification to a person under regulation 6 (reasons) of the GMS Contracts Regulations before the appointed day, the notification and the written views contained in that notification are to be treated, on or after that day, as notification by the Board and the written views of the Board.
 
-### 6. Appeals relating to eligibility to enter into a contract[^key-617f4e4a27f5ee616ea4daa7df247de4]
+### 6. Appeals relating to eligibility to enter into a contract[^c-617f4e4a27f5ee616ea4daa7df247de4]
 
 A person who has been served notice pursuant to regulation 6 of the GMS Contracts Regulations before the appointed day may on or after that day appeal to the First-tier Tribunal against the decision of the Primary Care Trust and that appeal must be treated as an appeal against a decision of the Board.
 
-### 7. Finance[^key-d8689ec30ffeaefc38d8c65cad9a8d31]
+### 7. Finance[^c-d8689ec30ffeaefc38d8c65cad9a8d31]
 
 Any right that a Primary Care Trust had to set off against any amount payable to the contractor under the term that gives effect to regulation 22 (finance) of the GMS Contracts Regulations immediately before the appointed day, must be treated as a right of the Board under the term that gives effect to that regulation on or after the appointed day.
 
-### 8. Opt outs of additional and out of hours services[^key-8341a0c85ff5228e0c8cf3fa3586babf]
+### 8. Opt outs of additional and out of hours services[^c-8341a0c85ff5228e0c8cf3fa3586babf]
 
 (1) Subject to the following provisions of this paragraph, a notification or approval given, or an agreement made, by a Primary Care Trust in accordance with the term of the contract that gives effect to—
 
@@ -392,18 +392,18 @@ in respect of a period that commences on or after the appointed day, must be reg
 
 (2) Where a contractor informs the relevant Primary Care Trust that it wishes to withdraw an out of hours opt out notice where it has been approved by the Primary Care Trust and the Primary Care Trust has not agreed to the withdrawal before the appointed day, the Board may, if it considers it appropriate, agree to the withdrawal of the out of hours opt out notice as if it had approved the notice.
 
-### 9. Continuing application of published guidance and other documents[^key-a6d57fa86911b171dd4f8f647b49e510]
+### 9. Continuing application of published guidance and other documents[^c-a6d57fa86911b171dd4f8f647b49e510]
 
 Where as a consequence of paragraph 11 (standards for out of hours services) or 125 (compliance with legislation and guidance) of Schedule 6 to the GMS Contracts Regulations a contractual term in a GMS contract requires a contractor to meet requirements set out in a document or have regard to, or comply with, guidance published before the appointed day which has effect immediately before that day, that contractual term continues to apply in respect of such documents and guidance on or after the appointed day—
 
 - (a) as if references to a Primary Care Trust or Strategic Health Authority in that document or guidance were to the Board; and
 - (b) until such time as the Board, or as the case may be, the Secretary of State, cancels or withdraws the document or guidance.
 
-### 10. Arrangements for GP Registrars[^key-89b7c0b459b384ff3d272ec72f278755]
+### 10. Arrangements for GP Registrars[^c-89b7c0b459b384ff3d272ec72f278755]
 
 A contractor which employs a GP Registrar in accordance with paragraph 64 (arrangements for GP Registrars) of Schedule 6 to the GMS Contracts Regulations immediately before the appointed day must continue to employ that GP Registrar and may only vary the terms and conditions to the extent necessary to comply with that paragraph and any other relevant provision relating to the 2006 Act which have effect on or after the appointed day.
 
-### 11. Sub-contracting of clinical matters[^key-0a8ee4886339e6c1573e7be735636cb6]
+### 11. Sub-contracting of clinical matters[^c-0a8ee4886339e6c1573e7be735636cb6]
 
 (1) A notification made to a Primary Care Trust by a contractor under the term of contract that had the same effect as the provision in sub-paragraph (1) of paragraph 69 (sub-contracting of clinical matters) of Schedule 6 to the GMS Contracts Regulations as in force immediately before the appointed day, must be treated as notification to the Board.
 
@@ -413,7 +413,7 @@ A contractor which employs a GP Registrar in accordance with paragraph 64 (arran
 
 (4) Where a Primary Care Trust has not objected to a proposed sub-contract and the 28 day period referred to in the term of the contract that had the same effect as the provision in paragraph 69(5) of the GMS Contracts Regulations as in force immediately before the appointed day has elapsed on or after that date, the Board and the contractor are deemed as having agreed a variation of the contract in accordance with paragraph 69(8) of the GMS Contracts Regulations as in force on or after the appointed day.
 
-### 12. Sub-contracting of out of hours services[^key-5c27a8ba0f5930c47e54f8117013cab0]
+### 12. Sub-contracting of out of hours services[^c-5c27a8ba0f5930c47e54f8117013cab0]
 
 (1) A written approval given by a Primary Care Trust to a contractor in respect of the term of the contract that had the same effect as the provision in paragraph 70(1) (sub-contracting of out of hours services) of Schedule 6 to the GMS Contracts Regulations as in force immediately before the appointed day, must be treated as an approval given by the Board.
 
@@ -423,23 +423,23 @@ A contractor which employs a GP Registrar in accordance with paragraph 64 (arran
 
 (4) Where a Primary Care Trust informed the contractor by notice of its decision in accordance with the term of the contract that had the same effect as the provision in paragraph 70(7) of the GMS Contracts Regulations as in force immediately before the appointed day, that notice and (where it refuses an application) the statement of reasons for refusal is to be deemed as notice by, and (where there has been a refusal) the statement of reasons for refusal of, the Board.
 
-### 13. Withdrawal and variation of approval relating to sub-contracting out of hours services[^key-594454175e9b0e8320246558c293f718]
+### 13. Withdrawal and variation of approval relating to sub-contracting out of hours services[^c-594454175e9b0e8320246558c293f718]
 
 The Board may, at any stage, serve notice on a contractor withdrawing or varying an approval which was given by a Primary Care Trust in accordance with the term of the contract that had the same effect as paragraph 70(3) of the GMS Contracts Regulations as in force immediately before the appointed day, and for the purposes of the term of the contract that has the same effect as paragraphs 71 (withdrawal and variation of approval under paragraph 70) and 72 of the GMS Contracts Regulations, the approval is deemed to be approval by the Board.
 
-### 14. Records, information, notifications and rights of entry[^key-e0ef06e5323a528af7e92a60c0f75401]
+### 14. Records, information, notifications and rights of entry[^c-e0ef06e5323a528af7e92a60c0f75401]
 
 (1) Where a Primary Care Trust gave consent, authorisation or notification or made a request under a term of the GMS contract that had the same effect as the provisions in Part 5 (records, information, notification and rights of entry) of Schedule 6 to the GMS Contracts Regulations as in force immediately before the appointed day, such consent, authorisation, notification or request is deemed to be that of the Board for the purposes of the application of the terms of the GMS contract that have the same effect as the provisions in Part 5 of Schedule 6 to the GMS Contracts Regulations on or after the appointed day.
 
 (2) The reference to a request and authorisation in paragraph (1) respectively includes any inquiries made in writing from the Primary Care Trust and appointments made by the Primary Care Trust in accordance with the terms of the GMS contract that have the same effect as the provisions in paragraph 79 (inquiries about prescriptions and referrals) of Schedule 6 to the GMS Contracts Regulations as in force immediately before the appointed day.
 
-### 15. Leaflets[^key-93fdad8d2a91904050301c0726da7ba1]
+### 15. Leaflets[^c-93fdad8d2a91904050301c0726da7ba1]
 
 (1) This paragraph applies where a contractor has compiled a practice leaflet which complies with the requirements of paragraph 76 (practice leaflet) of Schedule 6 to the GMS Contracts Regulations immediately before the appointed day.
 
 (2) Notwithstanding the requirements in paragraph 76 of Schedule 6 to the GMS Contracts Regulations as in force on or after the appointed day, a contractor must review its practice leaflet and make any amendments necessary so as to include the information specified in Schedule 10 to the GMS Contracts Regulations (information to be included in practice leaflets) not later than 1st July 2013.
 
-### 16. Complaints[^key-5c9986ef46a83849e65031beb1c2bd59]
+### 16. Complaints[^c-5c9986ef46a83849e65031beb1c2bd59]
 
 (1) This paragraph applies where an investigation of a complaint under the procedure referred to in paragraph 92 of Schedule 6 to the GMS Contracts Regulations is not completed before the appointed day.
 
@@ -450,11 +450,11 @@ The Board may, at any stage, serve notice on a contractor withdrawing or varying
   - (i) must deal with the complaint as far as it is able, in accordance with those Regulations; and
   - (ii) may if it is unable to comply with those Regulations as a consequence of the length of time it has taken to deal with the complaint vary the procedure only to the extent that it is necessary in order to dispose of the matter in a just manner.
 
-### 17. Co-operation with investigations[^key-d88b23e82618b0bb36fd85304a669dd5]
+### 17. Co-operation with investigations[^c-d88b23e82618b0bb36fd85304a669dd5]
 
 The contractor must continue to co-operate with an investigation of a complaint which is on-going immediately before the appointed day in accordance with the terms of the GMS contract that give effect to paragraph 97 of Schedule 6 to the GMS Contracts Regulations as in force on or after the appointed day as if any act or omission by, or reference to, a Primary Care Trust or Strategic Health Authority were an act or omission by, or reference to, the Board.
 
-### 18. Disputes[^key-479c97439ae593bf1213e9fca444c590]
+### 18. Disputes[^c-479c97439ae593bf1213e9fca444c590]
 
 (1) Any dispute arising out of or in connection with a GMS contract in respect of a contractor and Primary Care Trust that is on-going immediately before the appointed day is deemed to be a dispute in respect of that contractor and the Board.
 
@@ -464,7 +464,7 @@ The contractor must continue to co-operate with an investigation of a complaint 
 - (b) “the parties” mean to the contractor and the Board; and
 - (c) “the Local Medical Committee for the area of the Primary Care Trust” were to “the Local Medical Committee for the area of the Primary Care Trust which was established and subsisted immediately before 1st April 2013”.
 
-### 19. Variation and termination of GMS contracts[^key-ccbcccc7b444611a830913b1b1179632]
+### 19. Variation and termination of GMS contracts[^c-ccbcccc7b444611a830913b1b1179632]
 
 (1) This paragraph applies where a Primary Care Trust or a contractor has taken any steps in accordance with or in connection with a matter referred to in any of the provisions in Part 8 (variation and termination of contracts) of Schedule 6 to the GMS Contracts Regulations before the appointed day and had it not been for the coming into force of section 34 (abolition of Primary Care Trusts) of the 2012 Act that matter would continue to fall to the Primary Care Trust to be dealt with in accordance with Part 8.
 
@@ -476,11 +476,11 @@ The contractor must continue to co-operate with an investigation of a complaint 
 
 (5) Notwithstanding the above paragraphs, the Board may, if it thinks necessary or desirable in order to dispose of a matter justly, review a decision or action taken that it is deemed to have made or taken as a consequence of this paragraph.
 
-### 20. Consultation with the Local Medical Committee[^key-3c43f944008764baec788526b6bc1ce8]
+### 20. Consultation with the Local Medical Committee[^c-3c43f944008764baec788526b6bc1ce8]
 
 Where a Primary Care Trust consulted the Local Medical Committee before the appointed day in accordance with the term of the contract that had the same effect as paragraph 120 (consultation with the Local Medical Committee) of Schedule 6 to the GMS Contracts Regulations as in force immediately before the appointed day, the Local Medical Committee, if it has not responded to the Primary Care Trust, must respond to the Board and treat the consultation as a consultation by the Board.
 
-### 21. Supplementary transitional provision[^key-d3a5cbe9d95cf05ff07f8fa78c45ec10]
+### 21. Supplementary transitional provision[^c-d3a5cbe9d95cf05ff07f8fa78c45ec10]
 
 (1) Subject to the preceding provisions in this Schedule, any act or omission by, or in relation to, a Primary Care Trust before the appointed day in respect of—
 
@@ -507,11 +507,11 @@ any period of time that occurred before the appointed day and which is relevant 
 
 Regulation 53
 
-### 1. Application of Schedule 2[^key-358d3d4217329cd9e40691aec4b57be9]
+### 1. Application of Schedule 2[^c-358d3d4217329cd9e40691aec4b57be9]
 
 This Schedule applies to a PMS agreement which is entered into before the appointed day, and the parties to the agreement on or after the appointed day are the Contractor and the Board as a consequence of a property scheme transfer made under section 300 of the 2012 Act.
 
-### 2. Interpretation[^key-61fe6ba46fe671208ac6a9dcf36985cb]
+### 2. Interpretation[^c-61fe6ba46fe671208ac6a9dcf36985cb]
 
 In this Schedule—
 
@@ -530,7 +530,7 @@ In this Schedule—
   - (b) in a case where the contractor is a party to a PMS agreement with a Strategic Health Authority, that Authority; and
 - “Strategic Health Authority” means the Strategic Health Authority which was established and which subsisted immediately before the coming into force of section 33 (abolition of Strategic Health Authorities) of the 2012 Act.
 
-### 3. General Transitional provision relating to the terms of a PMS agreement[^key-70c8d252ec16eddeb052f91005baab66]
+### 3. General Transitional provision relating to the terms of a PMS agreement[^c-70c8d252ec16eddeb052f91005baab66]
 
 (1) The Contractor and the Board must as soon as is reasonably practicable on or after the appointed day, enter into discussions with each other with a view to agreeing variations to the PMS agreement in order to ensure that the agreement complies with the PMS Agreements Regulations on or after the appointed day.
 
@@ -538,23 +538,23 @@ In this Schedule—
 
 (3) The Contractor and the Board may not agree any variation to the PMS agreement that is contrary to the PMS Agreements Regulations on or after the appointed day.
 
-### 4. Continuing validity of forms[^key-12c3375d3d4cfdb68eb6a4e48315a0de]
+### 4. Continuing validity of forms[^c-12c3375d3d4cfdb68eb6a4e48315a0de]
 
 A form supplied by a relevant body continues to be a valid form in relation to the Board until it is cancelled or withdrawn by the Board.
 
-### 5. Notification of reasons by a relevant body in respect of entering into agreements[^key-ff9be1aaf0031d39c380846122fb4384]
+### 5. Notification of reasons by a relevant body in respect of entering into agreements[^c-ff9be1aaf0031d39c380846122fb4384]
 
 Where a relevant body has given notification to a person under regulation 6 (reasons) of the PMS Agreements Regulations before the appointed day, the notification and the written views contained in that notification are to be treated, on or after that day, as notification by the Board and the written views of the Board.
 
-### 6. Appeals relating to eligibility to enter into a PMS agreement[^key-1676fcb06aba606e387eff2709c05873]
+### 6. Appeals relating to eligibility to enter into a PMS agreement[^c-1676fcb06aba606e387eff2709c05873]
 
 A person who has been served notice pursuant to regulation 6 of the PMS Agreements Regulations before the appointed day may on or after that day appeal to the First-tier Tribunal against the decision of the relevant body and that appeal must be treated as an appeal against a decision of the Board.
 
-### 7. Finance[^key-a1dd907d9f18c6ddfe4c350add818462]
+### 7. Finance[^c-a1dd907d9f18c6ddfe4c350add818462]
 
 Any right that a relevant body had to set off against any amount payable to the contractor under the term that gives effect to regulation 13 (finance) of the PMS Agreements Regulations immediately before the appointed day, must be treated as a right of the Board under the term that gives effect to that regulation on or after the appointed day.
 
-### 8. Opt outs of out of hours services[^key-36c5170ace490c6bb711c427898b0917]
+### 8. Opt outs of out of hours services[^c-36c5170ace490c6bb711c427898b0917]
 
 (1) Subject to the following provisions of this paragraph, a notification or approval given, or an agreement made, by a Primary Care Trust in accordance with the term of the agreement that gives effect to—
 
@@ -565,40 +565,40 @@ in respect of a period that commences on or after the appointed day, must be reg
 
 (2) Where a contractor informs the relevant Primary Care Trust that it wishes to withdraw an out of hours opt out notice where it has been approved by the Primary Care Trust and the Primary Care Trust has not agreed to the withdrawal before the appointed day, the Board may, if it considers it appropriate, agree to the withdrawal of the out of hours opt out notice as if it had approved the notice.
 
-### 9. Right to a general medical services contract[^key-5c888196941d028bef1a759243414233]
+### 9. Right to a general medical services contract[^c-5c888196941d028bef1a759243414233]
 
 Where notice is given to a relevant body prior to the appointed day in accordance with regulation 19 (right to a general medical services contract) of the PMS Agreements Regulations as in force immediately before the appointed day, that notice must be treated as notice given to the Board for the purposes of the application of that regulation as in force on or after the appointed day.
 
-### 10. Arrangements for GP Registrars[^key-4e6d846484f6601fa144e88a71c1a1f7]
+### 10. Arrangements for GP Registrars[^c-4e6d846484f6601fa144e88a71c1a1f7]
 
 A contractor which employs a GP Registrar in accordance with paragraph 63 (arrangements for GP Registrars) of Schedule 5 to the PMS Agreements Regulations immediately before the appointed day must continue to employ that GP Registrar and may only vary the terms and conditions to the extent necessary to comply with that paragraph and any other relevant provision relating to the 2006 Act which have effect on or after the appointed day.
 
-### 11. Continuing application of published guidance and other documents[^key-18a620088d99fa31931920a8ac8b5ede]
+### 11. Continuing application of published guidance and other documents[^c-18a620088d99fa31931920a8ac8b5ede]
 
 Where as a consequence of paragraph 9 (standards for out of hours services) or 115 (compliance with legislation and guidance) of Schedule 5 to the PMS Agreements Regulations a contractual term in a PMS agreement requires a contractor to meet requirements set out in a document or have regard to, or comply with, guidance published before the appointed day which has effect immediately before that day, that contractual term continues to apply in respect of such documents and guidance on or after the appointed day—
 
 - (a) as if references to a Primary Care Trust or Strategic Health Authority in that document or guidance were to the Board; and
 - (b) until such time as the Board, or as the case may be, the Secretary of State, cancels or withdraws the document or guidance.
 
-### 12. Sub-contracting of clinical matters[^key-3f0f56eb8f8e3cdb8635988557b2bd37]
+### 12. Sub-contracting of clinical matters[^c-3f0f56eb8f8e3cdb8635988557b2bd37]
 
 (1) Where a contractor has informed a relevant body that it has sub-contracted its rights and has provided the relevant information in accordance with paragraph 69 (sub-contracting of clinical matters) of Schedule 5 to the PMS Agreements Regulations as in force immediately before the appointed day, the contractor is deemed to have informed the Board and provided the Board with the relevant information.
 
 (2) Notwithstanding paragraph (1), the Board may request from the contractor such further information relating to the proposed sub-contract if it considers it necessary in order to deal with the matter.
 
-### 13. Records, information, notifications and rights of entry[^key-f5372e4a88b0008dd522b01b0c549651]
+### 13. Records, information, notifications and rights of entry[^c-f5372e4a88b0008dd522b01b0c549651]
 
 (1) Where a Primary Care Trust has given consent, authorisation or notification or made a request under a term of the contract that has the same effect of the provisions in Part 5 (records, information, notification and rights of entry) of Schedule 5 to the PMS Agreements Regulations as in force immediately before the appointed day, such consent, authorisation, notification or request is deemed to be that of the Board for the purposes of the application of the terms of the contract that have the same effect as the provisions in Part 5 of Schedule 5 to the PMS Agreements Regulations on or after the appointed day.
 
 (2) The reference to a request and authorisation in paragraph (1) respectively includes any inquiries made in writing from the Primary Care Trust and appointments made by the Primary Care Trust in accordance with the terms of the PMS agreement that have the same effect as the provisions in paragraph 75 (inquiries about prescriptions and referrals) of Schedule 5 to the PMS Agreements Regulations as in force immediately before the appointed day.
 
-### 14. Leaflets[^key-9b5e2bd9624a2d95c99981b70e632b35]
+### 14. Leaflets[^c-9b5e2bd9624a2d95c99981b70e632b35]
 
 (1) This paragraph applies where a contractor has compiled a practice leaflet which complies with the requirements of paragraph 72 (contractor’s leaflet) of Schedule 5 to the PMS Agreements Regulations immediately before the appointed day.
 
 (2) Notwithstanding the requirements in paragraph 72 of Schedule 5 to the PMS Agreements Regulations as in force on or after the appointed day, a contractor must review its practice leaflet and make any amendments necessary so as to include the information specified in Schedule 10 to the PMS Agreements Regulations (information to be included in practice leaflets) not later than 1st July 2013.
 
-### 15. Complaints[^key-2e2d5fb934a733949e573179534d1a2a]
+### 15. Complaints[^c-2e2d5fb934a733949e573179534d1a2a]
 
 (1) This paragraph applies where an investigation of a complaint under the procedure referred to in paragraph 86 of Schedule 5 to the PMS Agreements Regulations is not completed before the appointed day.
 
@@ -609,17 +609,17 @@ Where as a consequence of paragraph 9 (standards for out of hours services) or 1
   - (i) must deal with the complaint as far as it is able, in accordance with those Regulations; and
   - (ii) may if it is unable to comply with those Regulations as a consequence of the length of time it has taken to deal with the complaint vary the procedure only to the extent that it is necessary in order to dispose of the matter in a just manner.
 
-### 16. Co-operation with investigations[^key-f497ef9f74ed407b98385476a5ed9ed4]
+### 16. Co-operation with investigations[^c-f497ef9f74ed407b98385476a5ed9ed4]
 
 The contractor must continue to co-operate with an investigation of a complaint which is on-going immediately before the appointed day in accordance with the terms of the PMS agreement that give effect to paragraph 91 of Schedule 5 to the PMS Agreements Regulations as in force on or after the appointed day as if any act or omission by, or reference to, a relevant body, Primary Care Trust or Strategic Health Authority were an act or omission by, or reference to the Board.
 
-### 17. Disputes[^key-ab3efab435307486568b38cde939e256]
+### 17. Disputes[^c-ab3efab435307486568b38cde939e256]
 
 (1) Any dispute arising out of or in connection with a PMS agreement in respect of a contractor and relevant body that is on-going immediately before the appointed day is deemed to be a dispute in respect of that contractor and the Board.
 
 (2) The terms of the PMS agreement which have the same effect as the provisions in Part 7 of Schedule 5 to the PMS Agreements Regulations as in force on or after the appointed day apply to the dispute as if any act, omission by, or in relation to, the relevant body is an act, omission by, or in relation to the Board.
 
-### 18. Variation and termination of PMS agreements[^key-354f5f82994919616ccbdfb125cc0f78]
+### 18. Variation and termination of PMS agreements[^c-354f5f82994919616ccbdfb125cc0f78]
 
 (1) This paragraph applies where a relevant body or a contractor has taken any steps in accordance with or in connection with a matter referred to in any of the provisions in Part 8 (variation and termination of agreements) of Schedule 5 to the PMS Agreements Regulations before the appointed day and had it not been for the coming into force of section 33 (abolition of Strategic Health Authorities) or section 34 (abolition of Primary Care Trusts) of the 2012 Act that matter would continue to fall to the relevant body to be dealt with in accordance with Part 8.
 
@@ -631,7 +631,7 @@ The contractor must continue to co-operate with an investigation of a complaint 
 
 (5) Notwithstanding the above paragraphs, the Board may, if it thinks necessary or desirable in order to dispose of a matter justly, review a decision or action taken that it is deemed to have made or taken as a consequence of this paragraph.
 
-### 19. Supplementary transitional provision[^key-3a245572a8dce8f26bf853c2070b852f]
+### 19. Supplementary transitional provision[^c-3a245572a8dce8f26bf853c2070b852f]
 
 (1) Subject to the preceding provisions in this Schedule, any act or omission by, or in relation to, the relevant body before the appointed day in respect of—
 
@@ -687,25 +687,25 @@ Regulation 55 amends the Sale of Goodwill Regulations as a consequence of the ab
 
 [^f00001]: Footnote: [2006. c.41](https://www.legislation.gov.uk/ukpga/2006/41). By virtue of section 271(1) of the Act, the powers conferred by these sections are exercisable by the Secretary of State only in relation to England. Section 83 is amended by section 55(1) of, and paragraph 30 of Schedule 4 to, the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”); section 86 is amended by section 55(1) of, and paragraph 32 of Schedule 4 to, the 2012 Act; section 89 is amended by sections 28(1), 55(1) and 202(2) of, and paragraph 34 of Schedule 4 to, the 2012 Act; section 91 is amended by section 55(1) of, and paragraph 35 of Schedule 4 to, the 2012 Act; section 93 is amended by sections 55(1) and 202(3) of, and paragraph 37 of Schedule 4 to, the 2012 Act; section 94 is amended by sections 28(2) and 55(1) of, and paragraph 38 of Schedule 4 to, the 2012 Act; section 97 is amended by section 55(1) of, and paragraph 41 of Schedule 4 to, the 2012 Act and section 259 is amended by section 55(1) of, and paragraph 132 of Schedule 4 to, the 2012 Act. *See also* section 275(1) for the definition of “prescribed” and “regulations”.
 
-[^key-3dc94884398982dbd8f8da70d38231cb]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/uksi/2013/363/part/1) revoked (7.12.2015) by [The National Health Service (Personal Medical Services Agreements) Regulations 2015 (S.I. 2015/1879)](https://www.legislation.gov.uk/uksi/2015/1879), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2015/1879/regulation/2), [88](https://www.legislation.gov.uk/uksi/2015/1879/regulation/88))
+[^c-3dc94884398982dbd8f8da70d38231cb]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/uksi/2013/363/part/1) revoked (7.12.2015) by [The National Health Service (Personal Medical Services Agreements) Regulations 2015 (S.I. 2015/1879)](https://www.legislation.gov.uk/uksi/2015/1879), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2015/1879/regulation/2), [88](https://www.legislation.gov.uk/uksi/2015/1879/regulation/88))
 
-[^key-cfa7927bdbdc68737d55add91faf09bd]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2013/363/part/2) revoked (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1862/schedule/5) Table (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
+[^c-cfa7927bdbdc68737d55add91faf09bd]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2013/363/part/2) revoked (7.12.2015) by [The National Health Service (General Medical Services Contracts) Regulations 2015 (S.I. 2015/1862)](https://www.legislation.gov.uk/uksi/2015/1862), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1862/regulation/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/1862/schedule/5) Table (with [reg. 2](https://www.legislation.gov.uk/uksi/2015/1862/regulation/2))
 
-[^key-406945236b16d88d3ff063bf41f4386e]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2013/363/part/3) revoked (7.12.2015) by [The National Health Service (Personal Medical Services Agreements) Regulations 2015 (S.I. 2015/1879)](https://www.legislation.gov.uk/uksi/2015/1879), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2015/1879/regulation/2), [88](https://www.legislation.gov.uk/uksi/2015/1879/regulation/88))
+[^c-406945236b16d88d3ff063bf41f4386e]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2013/363/part/3) revoked (7.12.2015) by [The National Health Service (Personal Medical Services Agreements) Regulations 2015 (S.I. 2015/1879)](https://www.legislation.gov.uk/uksi/2015/1879), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/1879/schedule/4) (with [regs. 2](https://www.legislation.gov.uk/uksi/2015/1879/regulation/2), [88](https://www.legislation.gov.uk/uksi/2015/1879/regulation/88))
 
-[^key-226162c68ac5987486a244032b43379a]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2013/363/regulation/54) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-226162c68ac5987486a244032b43379a]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2013/363/regulation/54) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
 [^f00031]: Footnote: [S.I. 2004/629](https://www.legislation.gov.uk/uksi/2004/629). Relevant amending instruments are [S.I. 2004/3215](https://www.legislation.gov.uk/uksi/2004/3215), [2009/2230](https://www.legislation.gov.uk/uksi/2009/2230), [2010/2389](https://www.legislation.gov.uk/uksi/2010/2389) and [2011/680](https://www.legislation.gov.uk/uksi/2011/680) and [1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
 [^f00032]: Footnote: Public Health England is an Executive Agency of the Department of Health.
 
-[^key-828056aea8f3f3ecd8f84ad1d3c06102]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2013/363/regulation/55) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-828056aea8f3f3ecd8f84ad1d3c06102]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2013/363/regulation/55) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
 [^f00033]: Footnote: [S.I. 2004/906](https://www.legislation.gov.uk/uksi/2004/906). There are no amendments.
 
-[^key-010bf3d8b6be608cc0439d4e354f5057]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/1) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-010bf3d8b6be608cc0439d4e354f5057]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/1) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-63ba249e65804576a133c4cf4f52004a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/2) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-63ba249e65804576a133c4cf4f52004a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/2) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
 [^f00034]: Footnote: [2012 c.7](https://www.legislation.gov.uk/ukpga/2012/7).
 
@@ -713,86 +713,86 @@ Regulation 55 amends the Sale of Goodwill Regulations as a consequence of the ab
 
 [^f00036]: Footnote: Section 84 is amended by section 55(1) of, and paragraph 31 of Schedule 4 to, the 2012 Act.
 
-[^key-9d5496712fc5fdfce80ea6b0dbcb6adb]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/3) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-9d5496712fc5fdfce80ea6b0dbcb6adb]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/3) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-63b6493075cb83467d05757ea53f82f1]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/4) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-63b6493075cb83467d05757ea53f82f1]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/4) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-904e71b85b052ff5d3dfeb2e258b94bf]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/5) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-904e71b85b052ff5d3dfeb2e258b94bf]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/5) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-617f4e4a27f5ee616ea4daa7df247de4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/6) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-617f4e4a27f5ee616ea4daa7df247de4]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/6) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-d8689ec30ffeaefc38d8c65cad9a8d31]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/7) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-d8689ec30ffeaefc38d8c65cad9a8d31]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/7) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-8341a0c85ff5228e0c8cf3fa3586babf]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/8) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-8341a0c85ff5228e0c8cf3fa3586babf]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/8) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-a6d57fa86911b171dd4f8f647b49e510]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/9) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-a6d57fa86911b171dd4f8f647b49e510]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/9) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-89b7c0b459b384ff3d272ec72f278755]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/10) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-89b7c0b459b384ff3d272ec72f278755]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/10) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-0a8ee4886339e6c1573e7be735636cb6]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/11) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-0a8ee4886339e6c1573e7be735636cb6]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/11) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-5c27a8ba0f5930c47e54f8117013cab0]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/12) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-5c27a8ba0f5930c47e54f8117013cab0]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/12) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-594454175e9b0e8320246558c293f718]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/13) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-594454175e9b0e8320246558c293f718]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/13) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-e0ef06e5323a528af7e92a60c0f75401]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/14) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-e0ef06e5323a528af7e92a60c0f75401]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/14) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-93fdad8d2a91904050301c0726da7ba1]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/15) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-93fdad8d2a91904050301c0726da7ba1]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/15) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-5c9986ef46a83849e65031beb1c2bd59]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/16) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-5c9986ef46a83849e65031beb1c2bd59]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/16) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
 [^f00037]: Footnote: [S.I.2009/309](https://www.legislation.gov.uk/uksi/2009/309); amending instruments are [S.I. 2009/1768](https://www.legislation.gov.uk/uksi/2009/1768), [2012/1909](https://www.legislation.gov.uk/uksi/2012/1909) and [2013/235](https://www.legislation.gov.uk/uksi/2013/235).
 
-[^key-d88b23e82618b0bb36fd85304a669dd5]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/17) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-d88b23e82618b0bb36fd85304a669dd5]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/17) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-479c97439ae593bf1213e9fca444c590]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/18) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-479c97439ae593bf1213e9fca444c590]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/18) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-ccbcccc7b444611a830913b1b1179632]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/19) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-ccbcccc7b444611a830913b1b1179632]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/19) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-3c43f944008764baec788526b6bc1ce8]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/20) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-3c43f944008764baec788526b6bc1ce8]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/20) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-d3a5cbe9d95cf05ff07f8fa78c45ec10]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/21) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-d3a5cbe9d95cf05ff07f8fa78c45ec10]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2013/363/schedule/1/paragraph/21) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-358d3d4217329cd9e40691aec4b57be9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/1) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-358d3d4217329cd9e40691aec4b57be9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/1) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-61fe6ba46fe671208ac6a9dcf36985cb]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/2) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-61fe6ba46fe671208ac6a9dcf36985cb]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/2) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
 [^f00038]: Footnote: [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7).
 
 [^f00039]: Footnote: Section 92 is amended by section 55(1) of, and paragraph 36 of Schedule 4 to, the 2012 Act.
 
-[^key-70c8d252ec16eddeb052f91005baab66]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/3) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-70c8d252ec16eddeb052f91005baab66]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/3) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-12c3375d3d4cfdb68eb6a4e48315a0de]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/4) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-12c3375d3d4cfdb68eb6a4e48315a0de]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/4) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-ff9be1aaf0031d39c380846122fb4384]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/5) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-ff9be1aaf0031d39c380846122fb4384]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/5) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-1676fcb06aba606e387eff2709c05873]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/6) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-1676fcb06aba606e387eff2709c05873]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/6) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-a1dd907d9f18c6ddfe4c350add818462]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/7) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-a1dd907d9f18c6ddfe4c350add818462]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/7) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-36c5170ace490c6bb711c427898b0917]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/8) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-36c5170ace490c6bb711c427898b0917]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/8) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-5c888196941d028bef1a759243414233]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/9) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-5c888196941d028bef1a759243414233]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/9) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-4e6d846484f6601fa144e88a71c1a1f7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/10) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-4e6d846484f6601fa144e88a71c1a1f7]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/10) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-18a620088d99fa31931920a8ac8b5ede]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/11) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-18a620088d99fa31931920a8ac8b5ede]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/11) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-3f0f56eb8f8e3cdb8635988557b2bd37]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/12) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-3f0f56eb8f8e3cdb8635988557b2bd37]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/12) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-f5372e4a88b0008dd522b01b0c549651]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/13) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-f5372e4a88b0008dd522b01b0c549651]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/13) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-9b5e2bd9624a2d95c99981b70e632b35]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/14) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-9b5e2bd9624a2d95c99981b70e632b35]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/14) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-2e2d5fb934a733949e573179534d1a2a]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/15) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-2e2d5fb934a733949e573179534d1a2a]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/15) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
 [^f00040]: Footnote: [S.I.2009/309](https://www.legislation.gov.uk/uksi/2009/309); amending instruments are [S.I. 2009/1768](https://www.legislation.gov.uk/uksi/2009/1768), [2012/1909](https://www.legislation.gov.uk/uksi/2012/1909) and [2013/235](https://www.legislation.gov.uk/uksi/2013/235).
 
-[^key-f497ef9f74ed407b98385476a5ed9ed4]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/16) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-f497ef9f74ed407b98385476a5ed9ed4]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/16) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-ab3efab435307486568b38cde939e256]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/17) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-ab3efab435307486568b38cde939e256]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/17) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-354f5f82994919616ccbdfb125cc0f78]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/18) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-354f5f82994919616ccbdfb125cc0f78]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/18) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
 
-[^key-3a245572a8dce8f26bf853c2070b852f]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/19) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)
+[^c-3a245572a8dce8f26bf853c2070b852f]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2013/363/schedule/2/paragraph/19) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/363/regulation/1/1)

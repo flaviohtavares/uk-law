@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70G. “Long funding lease”[^key-5703efb87a689d0aca5dc79e67f642d9]
+## 70G. “Long funding lease”[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,10 +40,10 @@ the plant or machinery lease is a long funding lease if the condition in subsect
 - (a) section 70H (requirement for tax return treating lease as long funding lease);
 - (b) section 70Q (leases excluded by right of lessor etc to claim capital allowances).
 
-(5) See also paragraph 91A of Schedule 22 to FA[^key-0de6ce0299fb7217c42f2a8195975d32] 2000 (tonnage tax: certain leases to be treated as not being long funding leases).
+(5) See also paragraph 91A of Schedule 22 to FA[^c-0de6ce0299fb7217c42f2a8195975d32] 2000 (tonnage tax: certain leases to be treated as not being long funding leases).
 
 ## Annotations
 
-[^key-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)
+[^c-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)
 
-[^key-0de6ce0299fb7217c42f2a8195975d32]: Textual amendment: Word in s. 70G(5) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 126(5)(a)](https://www.legislation.gov.uk/ukpga/2009/10/section/126/5/a)
+[^c-0de6ce0299fb7217c42f2a8195975d32]: Textual amendment: Word in s. 70G(5) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 126(5)(a)](https://www.legislation.gov.uk/ukpga/2009/10/section/126/5/a)

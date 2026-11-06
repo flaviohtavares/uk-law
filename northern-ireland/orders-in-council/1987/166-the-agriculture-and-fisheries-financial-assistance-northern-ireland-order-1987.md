@@ -92,19 +92,19 @@ and the Department may, if it thinks fit, for the purposes of a claim for grant 
 
 - (a) may, subject to any prescribed exceptions, require the individual to have been in occupation of the whole of the uncommercial unit for a prescribed period;
 - (b) may exclude an individual who occupied the uncommercial unit under a short-term letting as defined in the scheme;
-- (c) may apply to the individual a test by reference to the income (calculated in a prescribed way) derived from the trade or business of, or employment in, agriculture including, if the scheme so provides, income so derived by the individual's wife or husband or civil partner[^key-8bed8a94aad9fab308780e9bcda50c58] or partner or by any other person jointly occupying the land.
+- (c) may apply to the individual a test by reference to the income (calculated in a prescribed way) derived from the trade or business of, or employment in, agriculture including, if the scheme so provides, income so derived by the individual's wife or husband or civil partner[^c-8bed8a94aad9fab308780e9bcda50c58] or partner or by any other person jointly occupying the land.
 
 (3) A scheme under this Article may authorise the making of grant subject to such conditions as the Department may specify.
 
 (4) Grants shall not be payable under this Article to any one individual in respect of more than one uncommercial unit, and a scheme under this Article shall contain provisions for securing that the amount of the grant payable in respect of an uncommercial unit occupied by more than one individual is an amount which is not more than approximately equivalent to the amount which would be payable if it had been occupied by a single individual.
 
-(5) A scheme under this Article may provide that, after the death of a person in receipt of a grant by way of annuity, grant under this Article of an amount specified in the scheme may be payable to a surviving widow or widower or civil partner[^key-49d7d4c40db16b6a6daf9a0023bcd4a3] .
+(5) A scheme under this Article may provide that, after the death of a person in receipt of a grant by way of annuity, grant under this Article of an amount specified in the scheme may be payable to a surviving widow or widower or civil partner[^c-49d7d4c40db16b6a6daf9a0023bcd4a3] .
 
 (6) A scheme under this Article may make provision, in a case where a person who has submitted an application for a grant under this Article, and who has in prescribed circumstances either relinquished or become under an obligation to relinquish occupation of the uncommercial unit of agricultural land in question, subsequently dies before the application has been dealt with, for the application to be proceeded with after the death and for grants under this Article of such respective amounts as may be determined by or under the scheme to be payable either—
 
 - (a) by way of annuity—
   - (i) in respect of any period after the relinquishment and before the death, for the benefit of the deceased's estate; and
-  - (ii) in respect of any period falling after both the relinquishment and the death, to any person who was both at the date of the death and at the time when the application was made the spouse or civil partner[^key-055f95c423dd2e846038d476fb96b491] of the deceased; or
+  - (ii) in respect of any period falling after both the relinquishment and the death, to any person who was both at the date of the death and at the time when the application was made the spouse or civil partner[^c-055f95c423dd2e846038d476fb96b491] of the deceased; or
 - (b) by way of a lump sum payable for the benefit of the deceased's estate.
 
 (7) A scheme under this Article may make provision whereby a person is treated for the purposes of the scheme, to such extent and in such cases as may be prescribed—
@@ -319,11 +319,11 @@ Schedule—Repeals.
 
 [^m00002]: Marginal citation: 1949 c. 2 (N.I.)
 
-[^key-8bed8a94aad9fab308780e9bcda50c58]: Textual amendment: Words in [art. 10(2)(c)](https://www.legislation.gov.uk/nisi/1987/166/article/10/2/c) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [141(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/141/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-8bed8a94aad9fab308780e9bcda50c58]: Textual amendment: Words in [art. 10(2)(c)](https://www.legislation.gov.uk/nisi/1987/166/article/10/2/c) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [141(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/141/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-49d7d4c40db16b6a6daf9a0023bcd4a3]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/nisi/1987/166/article/10/5) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [141(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/141/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-49d7d4c40db16b6a6daf9a0023bcd4a3]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/nisi/1987/166/article/10/5) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [141(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/141/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-055f95c423dd2e846038d476fb96b491]: Textual amendment: Words in [art. 10(6)(a)(ii)](https://www.legislation.gov.uk/nisi/1987/166/article/10/6/a/ii) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [141(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/141/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-055f95c423dd2e846038d476fb96b491]: Textual amendment: Words in [art. 10(6)(a)(ii)](https://www.legislation.gov.uk/nisi/1987/166/article/10/6/a/ii) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [141(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/141/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^m00003]: Marginal citation: 1882 c. 38
 

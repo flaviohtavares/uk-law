@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — INTERPRETATION[^key-85916a0a8585089198c48ad09111fcc9]
+## SCHEDULE 1 — INTERPRETATION[^c-85916a0a8585089198c48ad09111fcc9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Regulation 2
 
-### 1. Interpretation[^key-85916a0a8585089198c48ad09111fcc9]
+### 1. Interpretation[^c-85916a0a8585089198c48ad09111fcc9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-85916a0a8585089198c48ad09111fcc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-85916a0a8585089198c48ad09111fcc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-85916a0a8585089198c48ad09111fcc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-85916a0a8585089198c48ad09111fcc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-85916a0a8585089198c48ad09111fcc9]: Textual amendment: Regulations revoked (1.4.2013) by [The Medicines (Products for Human Use) (Fees) Regulations 2013 (S.I. 2013/532)](https://www.legislation.gov.uk/uksi/2013/532), [reg. 59(1)](https://www.legislation.gov.uk/uksi/2013/532/regulation/59/1) (with [reg. 59(2)-(4)](https://www.legislation.gov.uk/uksi/2013/532/regulation/59/2))
+[^c-85916a0a8585089198c48ad09111fcc9]: Textual amendment: Regulations revoked (1.4.2013) by [The Medicines (Products for Human Use) (Fees) Regulations 2013 (S.I. 2013/532)](https://www.legislation.gov.uk/uksi/2013/532), [reg. 59(1)](https://www.legislation.gov.uk/uksi/2013/532/regulation/59/1) (with [reg. 59(2)-(4)](https://www.legislation.gov.uk/uksi/2013/532/regulation/59/2))

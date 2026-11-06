@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. School places[^key-4eaa311885014fe31edf08fb87d5f668]
+## 18. School places[^c-4eaa311885014fe31edf08fb87d5f668]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4eaa311885014fe31edf08fb87d5f668]: Commencement: Reg. 18 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-4eaa311885014fe31edf08fb87d5f668]: Commencement: Reg. 18 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

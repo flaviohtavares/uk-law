@@ -48,11 +48,11 @@ The Treasury make this Order in exercise of the powers conferred by section 10(1
 
 In accordance with section 10(7) of that Act the Treasury have consulted the Welsh Ministers where they have thought it appropriate.
 
-## 1. Title and commencement[^key-43beec5605d423785308ba50d6e3919b]
+## 1. Title and commencement[^c-43beec5605d423785308ba50d6e3919b]
 
 This Order may be cited as The Whole of Government Accounts (Designation of Bodies) Order 2009 and shall come into force on 11th August 2009.
 
-## 2. Designation[^key-e8c8dc221a0751d975a23a6bfaea30c1]
+## 2. Designation[^c-e8c8dc221a0751d975a23a6bfaea30c1]
 
 The bodies listed in the Schedule to this Order are designated in respect of the financial year ending on 31st March 2009 for the purposes of section 10 of the Government Resources and Accounts Act 2000.
 
@@ -64,7 +64,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 20th July 2009
 
-## SCHEDULE — Designated bodies for 2008 – 2009[^key-a13f502361c8527fe946dbf5756d4bc2]
+## SCHEDULE — Designated bodies for 2008 – 2009[^c-a13f502361c8527fe946dbf5756d4bc2]
 
 Article 2
 
@@ -93,7 +93,7 @@ Article 2
 - British Museum
 - British Nuclear Fuels plc
 - British Railways Board (Residuary) Ltd
-- [^key-d261ad8a80ea45be8881ac2005ae08cb]...
+- [^c-d261ad8a80ea45be8881ac2005ae08cb]...
 - British Transport Police
 - British Waterways Board
 - Cabinet Office
@@ -898,10 +898,10 @@ A full Impact Assessment has not been prepared for this instrument as no impact 
 
 [^f00001]: Footnote: [2000 c.20](https://www.legislation.gov.uk/ukpga/2000/20). Section 10 was amended by paragraph 57 of Schedule 10 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-43beec5605d423785308ba50d6e3919b]: Commencement: Art. 1 in force at 11.8.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1973/article/1)
+[^c-43beec5605d423785308ba50d6e3919b]: Commencement: Art. 1 in force at 11.8.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1973/article/1)
 
-[^key-e8c8dc221a0751d975a23a6bfaea30c1]: Commencement: Art. 2 in force at 11.8.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1973/article/1)
+[^c-e8c8dc221a0751d975a23a6bfaea30c1]: Commencement: Art. 2 in force at 11.8.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1973/article/1)
 
-[^key-a13f502361c8527fe946dbf5756d4bc2]: Commencement: Sch. in force at 11.8.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1973/article/1)
+[^c-a13f502361c8527fe946dbf5756d4bc2]: Commencement: Sch. in force at 11.8.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1973/article/1)
 
-[^key-d261ad8a80ea45be8881ac2005ae08cb]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2009/1973/schedule) entry revoked (22.3.2013) by [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/687/schedule/2)
+[^c-d261ad8a80ea45be8881ac2005ae08cb]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2009/1973/schedule) entry revoked (22.3.2013) by [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/687/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/687/schedule/2)

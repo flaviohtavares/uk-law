@@ -42,13 +42,13 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs, in exercise of the powers conferred by sections 48 and 50(3)(a) of, and paragraph 5 of Schedule 6 to, the Agriculture Act 2020[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-90e814c4429b2aaada9988e644a79225]
+## 1. Citation, commencement and interpretation[^c-90e814c4429b2aaada9988e644a79225]
 
 (1) These Regulations may be cited as the Farm Sustainability Standards (Amendment) Regulations (Northern Ireland) 2025 and come into operation on 1st January 2026.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Farm Sustainability Standards Regulations (Northern Ireland) 2025[^key-9e07991ee8ffc27b68c468b1f082d340]
+## 2. Amendment of the Farm Sustainability Standards Regulations (Northern Ireland) 2025[^c-9e07991ee8ffc27b68c468b1f082d340]
 
 (1) The Farm Sustainability Standards Regulations (Northern Ireland) 2025[^f00003] are amended as follows.
 
@@ -114,10 +114,10 @@ Regulation 2 makes miscellaneous amendments and corrections. In particular, an a
 
 [^f00001]: Footnote: [2020 c.21](https://www.legislation.gov.uk/ukpga/2020/21)
 
-[^key-90e814c4429b2aaada9988e644a79225]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/191/regulation/1) in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/191/regulation/1/1)
+[^c-90e814c4429b2aaada9988e644a79225]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/191/regulation/1) in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/191/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c.33 (N.I)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-9e07991ee8ffc27b68c468b1f082d340]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/191/regulation/2) in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/191/regulation/1/1)
+[^c-9e07991ee8ffc27b68c468b1f082d340]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/191/regulation/2) in operation at 1.1.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/191/regulation/1/1)
 
 [^f00003]: Footnote: [S.R.2025 No.165](https://www.legislation.gov.uk/nisr/2025/165)

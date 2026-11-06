@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Council Regulation [(EEC) No 1638/87](https://www.legislation.gov.uk/eur/1987/1638) fixing the minimum mesh size for pelagic trawls used in fishing for blue whiting in that part of the area covered by the Convention on Future Multilateral Cooperation in the North-East Atlantic Fisheries which extends beyond the maritime waters falling within the fisheries jurisdiction of Contracting Parties to the Convention[^key-f59eb6c70b263bace5c77b98ea00df3d]
+## 22. Council Regulation [(EEC) No 1638/87](https://www.legislation.gov.uk/eur/1987/1638) fixing the minimum mesh size for pelagic trawls used in fishing for blue whiting in that part of the area covered by the Convention on Future Multilateral Cooperation in the North-East Atlantic Fisheries which extends beyond the maritime waters falling within the fisheries jurisdiction of Contracting Parties to the Convention[^c-f59eb6c70b263bace5c77b98ea00df3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f59eb6c70b263bace5c77b98ea00df3d]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-f59eb6c70b263bace5c77b98ea00df3d]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

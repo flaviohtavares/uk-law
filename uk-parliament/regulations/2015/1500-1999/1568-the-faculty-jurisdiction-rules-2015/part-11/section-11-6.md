@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 11.6. Inordinate delay etc. – intervention by provincial court[^key-8713772056938f78d902ae0dbde3b1b9]
+## 11.6. Inordinate delay etc. – intervention by provincial court[^c-8713772056938f78d902ae0dbde3b1b9]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8713772056938f78d902ae0dbde3b1b9]: Commencement: [Rule 11.6](https://www.legislation.gov.uk/uksi/2015/1568/article/11.6) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-8713772056938f78d902ae0dbde3b1b9]: Commencement: [Rule 11.6](https://www.legislation.gov.uk/uksi/2015/1568/article/11.6) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

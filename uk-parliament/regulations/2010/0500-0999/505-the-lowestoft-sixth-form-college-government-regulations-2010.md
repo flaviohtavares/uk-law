@@ -46,9 +46,9 @@ Coming into force
 
 The Secretary of State for Business, Innovation and Skills makes the following Regulations in exercise of the powers conferred by sections 20(2) and 21(1) of, and Schedule 4 to, the Further and Higher Education Act 1992[^f00001].
 
-**1.**[^key-71e0dd81d85abd53acea4766ffd644a4] These Regulations may be cited as the Lowestoft Sixth Form College (Government) Regulations 2010 and come into force on 23rd March 2010.
+**1.**[^c-71e0dd81d85abd53acea4766ffd644a4] These Regulations may be cited as the Lowestoft Sixth Form College (Government) Regulations 2010 and come into force on 23rd March 2010.
 
-**2.**[^key-0378a6a369cb56673d08233d87069054] The Instrument of Government and Articles of Government of the further education corporation established under the name of “the Lowestoft Sixth Form College”[^f00002] shall be as set out in Schedules 1 and 2 to these Regulations respectively.
+**2.**[^c-0378a6a369cb56673d08233d87069054] The Instrument of Government and Articles of Government of the further education corporation established under the name of “the Lowestoft Sixth Form College”[^f00002] shall be as set out in Schedules 1 and 2 to these Regulations respectively.
 
 Kevin Brennan
 
@@ -146,7 +146,7 @@ Change of name of the Corporation
 
 Application of the seal
 
-### 1. Interpretation of the terms used[^key-b2d16a6fd20c7416d9a097e59ae18ef9]
+### 1. Interpretation of the terms used[^c-b2d16a6fd20c7416d9a097e59ae18ef9]
 
 In this Instrument of Government—
 
@@ -165,7 +165,7 @@ In this Instrument of Government—
 - (m) “the students’ union” means any association of students formed to further the educational purposes of the institution and the interests of students, as students;
 - (n) a “variable category” means any category of members whose numbers may vary according to clauses 2 and 3.
 
-### 2. Composition of the Corporation[^key-43d316559ed2a2e996cbb7cbf0cb5332]
+### 2. Composition of the Corporation[^c-43d316559ed2a2e996cbb7cbf0cb5332]
 
 (1) The Corporation shall consist of—
 
@@ -194,13 +194,13 @@ In this Instrument of Government—
 
 (6) The appointing authority, as set out in clause 5, will decide whether a person is eligible for nomination, election and appointment as a member of the Corporation under paragraph (1).
 
-### 3. Initial Appointments[^key-663b75ef0a44e228f8d7b89df15d5594]
+### 3. Initial Appointments[^c-663b75ef0a44e228f8d7b89df15d5594]
 
 (1) The Secretary of State is the appointing authority for the purpose of this Instrument in relation to the appointment of the first members of the Corporation.
 
 (2) In determining the number of members to appoint, he shall secure that that number shall be the number needed for a quorum.
 
-### 4. Determination of membership numbers[^key-2f99daa985241eabbd34997949745317]
+### 4. Determination of membership numbers[^c-2f99daa985241eabbd34997949745317]
 
 (1) The number of members of the Corporation, other than LSC members, and the number of members of each variable category shall be that decided by the Corporation at its first meeting.
 
@@ -213,7 +213,7 @@ In this Instrument of Government—
 
 (4) No determination under this clause shall terminate the appointment of any person who is already a member of the Corporation at the time when the determination is made.
 
-### 5. Appointment of the members of the Corporation[^key-9ef4adb4d3f6922aaa87c2d250a76421]
+### 5. Appointment of the members of the Corporation[^c-9ef4adb4d3f6922aaa87c2d250a76421]
 
 (1) Subject to paragraph (2) the Corporation is the appointing authority in relation to the appointment of its members other than LSC members at any time after the appointment by the Secretary of State of the first members.
 
@@ -227,7 +227,7 @@ In this Instrument of Government—
 
 (4) Where the office of any member becomes vacant the appointing authority shall as soon as practicable take all necessary steps to appoint a new member to fill the vacancy.
 
-### 6. Appointment of the Chair and Vice-Chair[^key-cf5d04e904c9ca411f66d49dd28eb936]
+### 6. Appointment of the Chair and Vice-Chair[^c-cf5d04e904c9ca411f66d49dd28eb936]
 
 (1) The members of the Corporation shall appoint a Chair and a Vice-Chair from among themselves.
 
@@ -251,7 +251,7 @@ In this Instrument of Government—
 
 (11) Paragraph (10) is subject to any rule or bye-law made by the Corporation under article 23 of the Articles of Government concerning the number of terms of office which a person may serve.
 
-### 7. Appointment of the Clerk to the Corporation[^key-bbff978adc7b98833e92c97f88c505f5]
+### 7. Appointment of the Clerk to the Corporation[^c-bbff978adc7b98833e92c97f88c505f5]
 
 (1) The Corporation shall appoint a person to serve as its Clerk, but the Principal may not be appointed as Clerk.
 
@@ -263,7 +263,7 @@ In this Instrument of Government—
 
 (5) The Clerk may also be a member of staff at the institution.
 
-### 8. Persons who are ineligible to be members[^key-8114c37d7887acc01e2c91fb1bdc8e46]
+### 8. Persons who are ineligible to be members[^c-8114c37d7887acc01e2c91fb1bdc8e46]
 
 (1) No one under the age of 18 years may be a member, except as a student member.
 
@@ -273,7 +273,7 @@ In this Instrument of Government—
 
 (4) Paragraph (3) does not apply to a student who is employed by the Corporation in connection with the student’s role as an officer of a students’ union.
 
-(5) Subject to paragraphs (6) and (7), a person shall be disqualified from holding, or from continuing to hold, office as a member, if that person has been made[^key-2bd29198cda4b59480151377203ad555] bankrupt, or is the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order. or a bankruptcy restrictions undertaking within the meaning of the Insolvency Act 1986[^f00005], or if that person has made a composition or arrangement with creditors, including an individual voluntary arrangement.
+(5) Subject to paragraphs (6) and (7), a person shall be disqualified from holding, or from continuing to hold, office as a member, if that person has been made[^c-2bd29198cda4b59480151377203ad555] bankrupt, or is the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order. or a bankruptcy restrictions undertaking within the meaning of the Insolvency Act 1986[^f00005], or if that person has made a composition or arrangement with creditors, including an individual voluntary arrangement.
 
 (6) Where a person is disqualified by reason of having been made bankrupt or by reason of being the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order or a bankruptcy restrictions undertaking, that disqualification shall cease —
 
@@ -295,7 +295,7 @@ In this Instrument of Government—
 
 (10) Upon a member of the Corporation becoming disqualified from continuing to hold office under paragraphs (5) or (8), the member shall immediately give notice of that fact to the Clerk.
 
-### 9. The term of office of a member[^key-7bf13b7e9f2b151e8bbb89c68ac538c5]
+### 9. The term of office of a member[^c-7bf13b7e9f2b151e8bbb89c68ac538c5]
 
 (1) A member of the Corporation shall hold and vacate office in accordance with the terms of the appointment, but the length of the term of office shall not exceed four years.
 
@@ -303,7 +303,7 @@ In this Instrument of Government—
 
 (3) Paragraph (2) is subject to any rule or bye-law made by the Corporation under article 23 of the Articles of Government concerning the number of terms of office which a person may serve.
 
-### 10. Termination of membership[^key-d53bf2d3f2d7b20795cb5480c7cf67f4]
+### 10. Termination of membership[^c-d53bf2d3f2d7b20795cb5480c7cf67f4]
 
 (1) A member may resign from office at any time by giving notice in writing to the Clerk.
 
@@ -323,7 +323,7 @@ the Corporation may by notice in writing to that member remove the member from o
 
 and the office shall then be vacant.
 
-### 11. Members not to hold interests in matters relating to the institution[^key-00732416dd6609bbd7881658830171a9]
+### 11. Members not to hold interests in matters relating to the institution[^c-00732416dd6609bbd7881658830171a9]
 
 (1) Except with the written approval of the Secretary of State, no member shall acquire or hold any interest in any property that is held or used for the purposes of the institution.
 
@@ -351,7 +351,7 @@ and the office shall then be vacant.
 
 (6) The Clerk shall maintain a register of the interests of the members which have been disclosed and the register shall be made available during normal office hours at the institution to any person wishing to inspect it.
 
-### 12. Meetings[^key-f2ecbbee7e12508831c3d8f7f62c43bf]
+### 12. Meetings[^c-f2ecbbee7e12508831c3d8f7f62c43bf]
 
 (1) The Corporation shall meet at least once in every term, and shall hold such other meetings as may be necessary.
 
@@ -365,7 +365,7 @@ and the office shall then be vacant.
 
 (6) Every member shall act in the best interests of the Corporation and shall not be bound to speak or vote by mandates given by any other body or person.
 
-### 13. Quorum[^key-54d9e4a420e88cff8ba4b290921b1160]
+### 13. Quorum[^c-54d9e4a420e88cff8ba4b290921b1160]
 
 (1) Until the first determination of the number of members under clause 4, meetings of the Corporation shall be quorate if \[8\] members are present. Subsequent meetings of the Corporation shall be quorate if the number of members present is at least 40% of the total number of members, determined according to clause 4, together with any LSC members.
 
@@ -375,7 +375,7 @@ and the office shall then be vacant.
 
 (4) If a meeting cannot be held or cannot continue for lack of a quorum, the Chair may call a special meeting as soon as it is convenient.
 
-### 14. Proceedings of meetings[^key-6a40c1b316527be4fc18cf38570d3e65]
+### 14. Proceedings of meetings[^c-6a40c1b316527be4fc18cf38570d3e65]
 
 (1) Every question to be decided at a meeting of the Corporation shall be decided by a majority of the votes cast by members present and entitled to vote on the question.
 
@@ -415,7 +415,7 @@ and the office shall then be vacant.
 
 (12) If the Clerk withdraws from a meeting, or part of a meeting, of a committee of the Corporation, the Corporation shall appoint a person from among themselves to act as Clerk to the committee during this absence.
 
-### 15. Minutes[^key-1c8da931d30681c63af2425dc9e021de]
+### 15. Minutes[^c-1c8da931d30681c63af2425dc9e021de]
 
 (1) Written minutes of every meeting of the Corporation shall be prepared, and, subject to paragraph (2), at every meeting of the Corporation the minutes of the last meeting shall be taken as an agenda item.
 
@@ -425,11 +425,11 @@ and the office shall then be vacant.
 
 (4) Separate minutes shall be taken of those parts of meetings from which staff members, the Principal, student members or the Clerk have withdrawn from a meeting in accordance with clause 14(5), (6), (8), (9) or (10) and such persons shall not be entitled to see the minutes of that part of the meeting or any papers relating to it.
 
-### 16. Public access to meetings[^key-e7784d62eafd8f141dc995f0e6d72a9b]
+### 16. Public access to meetings[^c-e7784d62eafd8f141dc995f0e6d72a9b]
 
 The Corporation shall decide any question as to whether a person should be allowed to attend any of its meetings where that person is not a member, the Clerk or the Principal and in making its decision, it shall give consideration to clause 17(2).
 
-### 17. Publication of minutes and papers[^key-ccdccb8fb017cfda0a751a01a63ae68d]
+### 17. Publication of minutes and papers[^c-ccdccb8fb017cfda0a751a01a63ae68d]
 
 (1) Subject to paragraph (2), the Corporation shall ensure that a copy of—
 
@@ -451,19 +451,19 @@ shall as soon as possible be made available during normal office hours at the in
 
 (4) The Corporation shall review regularly all material excluded from inspection under paragraph (2)(d) and make any such material available for inspection where it is satisfied that the reason for dealing with the matter on a confidential basis no longer applies, or where it considers that the public interest in disclosure outweighs that reason.
 
-### 18. Payment of allowances to members[^key-e60b4f9416882749abb3529667761daa]
+### 18. Payment of allowances to members[^c-e60b4f9416882749abb3529667761daa]
 
 The Corporation may pay to its members such travelling, subsistence or other allowances as it decides, but shall not without the written approval of the Secretary of State, pay allowances which remunerate the members for their services as members.
 
-### 19. Copies of the Instrument of Government[^key-18b64a6883354bccc63aaa690c21cc1c]
+### 19. Copies of the Instrument of Government[^c-18b64a6883354bccc63aaa690c21cc1c]
 
 A copy of this Instrument shall be given free of charge to every member of the Corporation and at a charge not exceeding the cost of copying or free of charge to any other person who so requests a copy, and shall be available for inspection at the institution upon request, during normal office hours, to every member of staff and every student.
 
-### 20. Change of name of the Corporation[^key-7688e811d380e4864bc8afe06f7c2cc8]
+### 20. Change of name of the Corporation[^c-7688e811d380e4864bc8afe06f7c2cc8]
 
 The Corporation may change its name with the approval of the Secretary of State.
 
-### 21. Application of the seal[^key-aa9a75cd1709380b0827badca3b2b4d4]
+### 21. Application of the seal[^c-aa9a75cd1709380b0827badca3b2b4d4]
 
 The application of the seal of the Corporation shall be authenticated by—
 
@@ -558,7 +558,7 @@ Rules and bye-laws
 
 Copies of Articles of Government and rules and bye-laws
 
-### 1. Interpretation of the terms used[^key-9ec4ec733d80e4fe7b72632439a099f8]
+### 1. Interpretation of the terms used[^c-9ec4ec733d80e4fe7b72632439a099f8]
 
 In these Articles of Government—
 
@@ -574,11 +574,11 @@ In these Articles of Government—
 - (j) “the staff” means all the staff who have a contract of employment with the institution;
 - (k) “the students’ union” has the same meaning as in the Instrument of Government.
 
-### 2. Conduct of the institution[^key-31c05d2fe5cfb11b750d0bc78d678971]
+### 2. Conduct of the institution[^c-31c05d2fe5cfb11b750d0bc78d678971]
 
 The institution shall be conducted in accordance with the provisions of the Instrument of Government, these Articles, any rules or bye-laws made under these Articles and any trust deed regulating the institution.
 
-### 3. Responsibilities of the Corporation, the Principal and the Clerk[^key-3e89c198d642db1c5a25b2f80ad9ec13]
+### 3. Responsibilities of the Corporation, the Principal and the Clerk[^c-3e89c198d642db1c5a25b2f80ad9ec13]
 
 (1) The Corporation shall be responsible for the following functions—
 
@@ -605,7 +605,7 @@ The institution shall be conducted in accordance with the provisions of the Inst
 - (c) advising the Corporation with regard to the conduct of its business; and
 - (d) advising the Corporation with regard to matters of governance practice.
 
-### 4. The establishment of committees and delegation of functions generally[^key-9b59d5980abd00f18c0d3cef1a3c974b]
+### 4. The establishment of committees and delegation of functions generally[^c-9b59d5980abd00f18c0d3cef1a3c974b]
 
 (1) The Corporation may establish committees for any purpose or function, other than those assigned in these Articles to the Principal or Clerk and may delegate powers to-
 
@@ -617,7 +617,7 @@ The institution shall be conducted in accordance with the provisions of the Inst
 
 (3) The Corporation may also establish committees under collaboration arrangements made with other further education institutions or maintained schools (or with both), and such joint committees shall be subject to any regulations made under section 166 of the Education and Inspections Act 2006[^f00006] governing such arrangements.
 
-### 5. The search committee[^key-46633ced5c9beb040d70471d814d0e4e]
+### 5. The search committee[^c-46633ced5c9beb040d70471d814d0e4e]
 
 (1) The Corporation shall establish a committee, to be known as the “search committee”, to advise on—
 
@@ -630,17 +630,17 @@ The institution shall be conducted in accordance with the provisions of the Inst
 
 (4) The Corporation shall review regularly all material excluded from inspection under paragraph (3) and shall make any such material available for inspection where it is satisfied that the reason for dealing with the matter on a confidential basis no longer applies, or where it considers that the public interest in disclosure outweighs that reason.
 
-### 6. The audit committee[^key-7fb14ca08aadcb84e5658de4e69510d9]
+### 6. The audit committee[^c-7fb14ca08aadcb84e5658de4e69510d9]
 
 (1) The Corporation shall establish a committee, to be known as the “audit committee”, to advise on matters relating to the Corporation’s audit arrangements and systems of internal control.
 
 (2) The audit committee shall consist of at least three persons and may include members of staff at the institution with the exception of those in senior posts, and shall operate in accordance with any requirements of the LSC.
 
-### 7. Composition of committees[^key-53a78b1f8220f64236b45f661397d216]
+### 7. Composition of committees[^c-53a78b1f8220f64236b45f661397d216]
 
 Any committee established by the Corporation, other than the committee referred to in article 10, may include persons who are not members of the Corporation.
 
-### 8. Access to committees by non-members and publication of minutes[^key-c8e0e368d2cfca81169cf555c8304ff3]
+### 8. Access to committees by non-members and publication of minutes[^c-c8e0e368d2cfca81169cf555c8304ff3]
 
 The Corporation shall ensure that:—
 
@@ -649,7 +649,7 @@ The Corporation shall ensure that:—
 
 are published on the institution’s website and made available for inspection at the institution by any person, during normal office hours.
 
-### 9. Delegable and non-delegable functions[^key-cf079e47febc03bd3da53778e3d49367]
+### 9. Delegable and non-delegable functions[^c-cf079e47febc03bd3da53778e3d49367]
 
 The Corporation shall not delegate the following functions-
 
@@ -660,7 +660,7 @@ The Corporation shall not delegate the following functions-
 - (e) the appointment of the Clerk, (including, where the Clerk is, or is to be, appointed as a member of staff the Clerk’s appointment in the capacity of a member of staff); and
 - (f) the modification or revocation of these Articles.
 
-**10.**[^key-1da560a27adc646ed9df43f1de7df75c][^key-cf079e47febc03bd3da53778e3d49367] (1) The Corporation may not delegate—
+**10.**[^c-1da560a27adc646ed9df43f1de7df75c][^c-cf079e47febc03bd3da53778e3d49367] (1) The Corporation may not delegate—
 
 - (a) the consideration of the case for dismissal, and
 - (b) the power to determine an appeal in connection with the dismissal
@@ -669,12 +669,12 @@ of the Principal, the Clerk or the holder of a senior post, other than to a comm
 
 (2) The Corporation shall make rules specifying the way in which a committee having functions under paragraph (1) shall be established and conducted.
 
-**11.**[^key-e7f558f831663749f4d932b8aa190c74][^key-cf079e47febc03bd3da53778e3d49367] The Principal may delegate functions to the holder of any other senior post other than-
+**11.**[^c-e7f558f831663749f4d932b8aa190c74][^c-cf079e47febc03bd3da53778e3d49367] The Principal may delegate functions to the holder of any other senior post other than-
 
 - (a) the management of budget and resources; and
 - (b) any functions that have been delegated to the Principal by the Corporation.
 
-### 12. Appointment and promotion of staff[^key-f0116d08e4de0ad8ee7c3a1dbbdff53d]
+### 12. Appointment and promotion of staff[^c-f0116d08e4de0ad8ee7c3a1dbbdff53d]
 
 (1) Where there is a vacancy or expected vacancy in a senior post, the Corporation shall—
 
@@ -700,20 +700,20 @@ of the Principal, the Clerk or the holder of a senior post, other than to a comm
 
 (6) The Corporation shall seek the Secretary of State’s consent before making any temporary appointment to the post of Principal or any other senior post, where it is intended that such a post holder will not have a contract of employment with the Corporation.
 
-**13.**[^key-1ccb40c25b752b14b0171b65088a03ea][^key-f0116d08e4de0ad8ee7c3a1dbbdff53d] The Principal shall have responsibility for selecting for appointment all members of staff other than -
+**13.**[^c-1ccb40c25b752b14b0171b65088a03ea][^c-f0116d08e4de0ad8ee7c3a1dbbdff53d] The Principal shall have responsibility for selecting for appointment all members of staff other than -
 
 - (a) senior post holders; and
 - (b) where the Clerk is also to be appointed as a member of staff, the Clerk in the role of a member of staff.
 
-### 14. Rules relating to the conduct of staff[^key-c8ff9f22c83b33283f4db58edd4207d6]
+### 14. Rules relating to the conduct of staff[^c-c8ff9f22c83b33283f4db58edd4207d6]
 
 After consultation with the staff, the Corporation shall make rules relating to their conduct.
 
-### 15. Academic freedom[^key-ada8351cd515af459078804dbed625ba]
+### 15. Academic freedom[^c-ada8351cd515af459078804dbed625ba]
 
 In making rules under article 14, the Corporation shall have regard to the need to ensure that academic staff at the institution have freedom within the law to question and test received wisdom, and to put forward new ideas and controversial or unpopular opinions, without putting themselves at risk of losing their jobs or any privileges which they may enjoy at the institution.
 
-### 16. Grievance, suspension and disciplinary procedures[^key-43fa4310b0faf2ac5dadf4ff2712a76b]
+### 16. Grievance, suspension and disciplinary procedures[^c-43fa4310b0faf2ac5dadf4ff2712a76b]
 
 (1) After consultation with staff, the Corporation shall make rules setting out
 
@@ -729,13 +729,13 @@ and such procedures shall be subject to the provisions of articles 3(1)(e), 3(2)
 
 (3) Any rules made under paragraph (1)(c)(i) shall include provision that where the Corporation considers that it may be appropriate to dismiss a person, a preliminary investigation shall be conducted to examine and determine the case for dismissal.
 
-### 17. Suspension and dismissal of the Clerk[^key-537b2363326f17d3e086d140c1230d7b]
+### 17. Suspension and dismissal of the Clerk[^c-537b2363326f17d3e086d140c1230d7b]
 
 (1) Where the Clerk is also a member of staff at the institution, the Clerk is to be treated as a senior post holder for the purposes of article 16(c).
 
 (2) Where the Clerk is suspended or dismissed under article 16, that suspension or dismissal shall not affect the position of the Clerk in the separate role of Clerk to the Corporation.
 
-### 18. Students[^key-8726dc88b93c79fd41125482ce621875]
+### 18. Students[^c-8726dc88b93c79fd41125482ce621875]
 
 (1) Any students’ union shall conduct and manage its own affairs and funds in accordance with a constitution approved by the Corporation and no amendment to, or rescission of, that constitution, in part or in whole, shall be valid unless approved by the Corporation.
 
@@ -743,15 +743,15 @@ and such procedures shall be subject to the provisions of articles 3(1)(e), 3(2)
 
 (3) After consultation with representatives of the students, the Corporation shall make rules concerning the conduct of students, including procedures for their suspension and expulsion (including expulsion for an unsatisfactory standard of work or other academic reason).
 
-### 19. Financial matters[^key-e7137418869b1268277187b4ca454845]
+### 19. Financial matters[^c-e7137418869b1268277187b4ca454845]
 
 The Corporation shall set the policy by which the tuition and other fees payable to it are determined, subject to any terms and conditions attached to grants, loans or other payments paid or made by the LSC.
 
-### 20. Co- operation with the LSC’s auditor[^key-79d35134e124ac362200dc01c34467b4]
+### 20. Co- operation with the LSC’s auditor[^c-79d35134e124ac362200dc01c34467b4]
 
 The Corporation shall co-operate with any person who has been authorised by the LSC to audit any returns of numbers of students or claims for financial assistance and shall give any such person access to any documents or records held by the Corporation, including computer records.
 
-### 21. Internal audit[^key-6e0b5c963e5288468002ce9e6e368da0]
+### 21. Internal audit[^c-6e0b5c963e5288468002ce9e6e368da0]
 
 (1) The Corporation shall, at such times as it considers appropriate, examine and evaluate its systems of internal financial and other control to ensure that they contribute to the proper, economic, efficient and effective use of the Corporation’s resources.
 
@@ -759,7 +759,7 @@ The Corporation shall co-operate with any person who has been authorised by the 
 
 (3) The Corporation shall not appoint persons as internal auditors to carry out the activities referred to in paragraph (1) if those persons are already appointed as external auditors under article 22.
 
-### 22. Accounts and audit of accounts[^key-4a20e3132cf32f4ebb68c3d108a1be4d]
+### 22. Accounts and audit of accounts[^c-4a20e3132cf32f4ebb68c3d108a1be4d]
 
 (1) The Corporation shall
 
@@ -786,11 +786,11 @@ The Corporation shall co-operate with any person who has been authorised by the 
 - (a) the last financial year shall end on the date of dissolution; and
 - (b) the Corporation may decide, with the LSC’s approval, that what would otherwise be the last two financial years, shall be a single financial year for the purpose of this article.
 
-### 23. Rules and bye-laws[^key-cb2a8a3415524f38bfe4a3dee1dd2106]
+### 23. Rules and bye-laws[^c-cb2a8a3415524f38bfe4a3dee1dd2106]
 
 The Corporation shall have the power to make rules and bye-laws relating to the government and conduct of the institution and these rules and bye-laws shall be subject to the provisions of the Instrument of Government and these Articles.
 
-### 24. Copies of Articles of Government and rules and bye-laws[^key-75d43a71660a24ab296fca6b3fa05d9c]
+### 24. Copies of Articles of Government and rules and bye-laws[^c-75d43a71660a24ab296fca6b3fa05d9c]
 
 A copy of these Articles, and of any rules and bye-laws, shall be given free of charge to every member of the Corporation and at a charge not exceeding the cost of copying or free of charge, to any other person who requests a copy and shall be available for inspection at the institution upon request, during normal office hours, to every member of staff and every student.
 
@@ -804,108 +804,108 @@ These Regulations prescribe for the Lowestoft Sixth Form College Further Educati
 
 [^f00001]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13); Schedule 4 was amended by paragraph 44 of Schedule 9 to the Learning and Skills Act [2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21); see section 61(1) for the meaning of “regulations”.
 
-[^key-71e0dd81d85abd53acea4766ffd644a4]: Commencement: Reg. 1 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-71e0dd81d85abd53acea4766ffd644a4]: Commencement: Reg. 1 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-0378a6a369cb56673d08233d87069054]: Commencement: Reg. 2 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-0378a6a369cb56673d08233d87069054]: Commencement: Reg. 2 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
 [^f00002]: Footnote: Established by [S.I. 2010/504](https://www.legislation.gov.uk/uksi/2010/504).
 
-[^key-b2d16a6fd20c7416d9a097e59ae18ef9]: Commencement: Sch. 1 para. 1 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-b2d16a6fd20c7416d9a097e59ae18ef9]: Commencement: Sch. 1 para. 1 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
 [^f00003]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13).
 
 [^f00004]: Footnote: [2000 c.21](https://www.legislation.gov.uk/ukpga/2000/21).
 
-[^key-43d316559ed2a2e996cbb7cbf0cb5332]: Commencement: Sch. 1 para. 2 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-43d316559ed2a2e996cbb7cbf0cb5332]: Commencement: Sch. 1 para. 2 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-663b75ef0a44e228f8d7b89df15d5594]: Commencement: Sch. 1 para. 3 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-663b75ef0a44e228f8d7b89df15d5594]: Commencement: Sch. 1 para. 3 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-2f99daa985241eabbd34997949745317]: Commencement: Sch. 1 para. 4 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-2f99daa985241eabbd34997949745317]: Commencement: Sch. 1 para. 4 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-9ef4adb4d3f6922aaa87c2d250a76421]: Commencement: Sch. 1 para. 5 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-9ef4adb4d3f6922aaa87c2d250a76421]: Commencement: Sch. 1 para. 5 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-cf5d04e904c9ca411f66d49dd28eb936]: Commencement: Sch. 1 para. 6 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-cf5d04e904c9ca411f66d49dd28eb936]: Commencement: Sch. 1 para. 6 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-bbff978adc7b98833e92c97f88c505f5]: Commencement: Sch. 1 para. 7 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-bbff978adc7b98833e92c97f88c505f5]: Commencement: Sch. 1 para. 7 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-8114c37d7887acc01e2c91fb1bdc8e46]: Commencement: Sch. 1 para. 8 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-8114c37d7887acc01e2c91fb1bdc8e46]: Commencement: Sch. 1 para. 8 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-2bd29198cda4b59480151377203ad555]: Textual amendment: Word in [Sch. 1 para. 8(5)](https://www.legislation.gov.uk/uksi/2010/505/schedule/1/paragraph/8/5)[(6)](https://www.legislation.gov.uk/uksi/2010/505/schedule/1/paragraph/8/6) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-2bd29198cda4b59480151377203ad555]: Textual amendment: Word in [Sch. 1 para. 8(5)](https://www.legislation.gov.uk/uksi/2010/505/schedule/1/paragraph/8/5)[(6)](https://www.legislation.gov.uk/uksi/2010/505/schedule/1/paragraph/8/6) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
 [^f00005]: Footnote: [1986. c.45](https://www.legislation.gov.uk/ukpga/1986/45) as amended by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-7bf13b7e9f2b151e8bbb89c68ac538c5]: Commencement: Sch. 1 para. 9 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-7bf13b7e9f2b151e8bbb89c68ac538c5]: Commencement: Sch. 1 para. 9 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-d53bf2d3f2d7b20795cb5480c7cf67f4]: Commencement: Sch. 1 para. 10 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-d53bf2d3f2d7b20795cb5480c7cf67f4]: Commencement: Sch. 1 para. 10 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-00732416dd6609bbd7881658830171a9]: Commencement: Sch. 1 para. 11 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-00732416dd6609bbd7881658830171a9]: Commencement: Sch. 1 para. 11 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-f2ecbbee7e12508831c3d8f7f62c43bf]: Commencement: Sch. 1 para. 12 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-f2ecbbee7e12508831c3d8f7f62c43bf]: Commencement: Sch. 1 para. 12 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-54d9e4a420e88cff8ba4b290921b1160]: Commencement: Sch. 1 para. 13 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-54d9e4a420e88cff8ba4b290921b1160]: Commencement: Sch. 1 para. 13 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-6a40c1b316527be4fc18cf38570d3e65]: Commencement: Sch. 1 para. 14 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-6a40c1b316527be4fc18cf38570d3e65]: Commencement: Sch. 1 para. 14 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-1c8da931d30681c63af2425dc9e021de]: Commencement: Sch. 1 para. 15 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-1c8da931d30681c63af2425dc9e021de]: Commencement: Sch. 1 para. 15 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-e7784d62eafd8f141dc995f0e6d72a9b]: Commencement: Sch. 1 para. 16 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-e7784d62eafd8f141dc995f0e6d72a9b]: Commencement: Sch. 1 para. 16 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-ccdccb8fb017cfda0a751a01a63ae68d]: Commencement: Sch. 1 para. 17 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-ccdccb8fb017cfda0a751a01a63ae68d]: Commencement: Sch. 1 para. 17 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-e60b4f9416882749abb3529667761daa]: Commencement: Sch. 1 para. 18 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-e60b4f9416882749abb3529667761daa]: Commencement: Sch. 1 para. 18 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-18b64a6883354bccc63aaa690c21cc1c]: Commencement: Sch. 1 para. 19 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-18b64a6883354bccc63aaa690c21cc1c]: Commencement: Sch. 1 para. 19 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-7688e811d380e4864bc8afe06f7c2cc8]: Commencement: Sch. 1 para. 20 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-7688e811d380e4864bc8afe06f7c2cc8]: Commencement: Sch. 1 para. 20 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-aa9a75cd1709380b0827badca3b2b4d4]: Commencement: Sch. 1 para. 21 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-aa9a75cd1709380b0827badca3b2b4d4]: Commencement: Sch. 1 para. 21 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-9ec4ec733d80e4fe7b72632439a099f8]: Commencement: Sch. 2 para. 1 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-9ec4ec733d80e4fe7b72632439a099f8]: Commencement: Sch. 2 para. 1 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-31c05d2fe5cfb11b750d0bc78d678971]: Commencement: Sch. 2 para. 2 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-31c05d2fe5cfb11b750d0bc78d678971]: Commencement: Sch. 2 para. 2 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-3e89c198d642db1c5a25b2f80ad9ec13]: Commencement: Sch. 2 para. 3 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-3e89c198d642db1c5a25b2f80ad9ec13]: Commencement: Sch. 2 para. 3 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-9b59d5980abd00f18c0d3cef1a3c974b]: Commencement: Sch. 2 para. 4 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-9b59d5980abd00f18c0d3cef1a3c974b]: Commencement: Sch. 2 para. 4 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
 [^f00006]: Footnote: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40).
 
-[^key-46633ced5c9beb040d70471d814d0e4e]: Commencement: Sch. 2 para. 5 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-46633ced5c9beb040d70471d814d0e4e]: Commencement: Sch. 2 para. 5 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-7fb14ca08aadcb84e5658de4e69510d9]: Commencement: Sch. 2 para. 6 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-7fb14ca08aadcb84e5658de4e69510d9]: Commencement: Sch. 2 para. 6 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-53a78b1f8220f64236b45f661397d216]: Commencement: Sch. 2 para. 7 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-53a78b1f8220f64236b45f661397d216]: Commencement: Sch. 2 para. 7 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-c8e0e368d2cfca81169cf555c8304ff3]: Commencement: Sch. 2 para. 8 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-c8e0e368d2cfca81169cf555c8304ff3]: Commencement: Sch. 2 para. 8 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-cf079e47febc03bd3da53778e3d49367]: Commencement: Sch. 2 para. 9 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-cf079e47febc03bd3da53778e3d49367]: Commencement: Sch. 2 para. 9 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-1da560a27adc646ed9df43f1de7df75c]: Commencement: Sch. 2 para. 10 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-1da560a27adc646ed9df43f1de7df75c]: Commencement: Sch. 2 para. 10 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-e7f558f831663749f4d932b8aa190c74]: Commencement: Sch. 2 para. 11 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-e7f558f831663749f4d932b8aa190c74]: Commencement: Sch. 2 para. 11 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-f0116d08e4de0ad8ee7c3a1dbbdff53d]: Commencement: Sch. 2 para. 12 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-f0116d08e4de0ad8ee7c3a1dbbdff53d]: Commencement: Sch. 2 para. 12 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-1ccb40c25b752b14b0171b65088a03ea]: Commencement: Sch. 2 para. 13 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-1ccb40c25b752b14b0171b65088a03ea]: Commencement: Sch. 2 para. 13 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-c8ff9f22c83b33283f4db58edd4207d6]: Commencement: Sch. 2 para. 14 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-c8ff9f22c83b33283f4db58edd4207d6]: Commencement: Sch. 2 para. 14 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-ada8351cd515af459078804dbed625ba]: Commencement: Sch. 2 para. 15 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-ada8351cd515af459078804dbed625ba]: Commencement: Sch. 2 para. 15 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-43fa4310b0faf2ac5dadf4ff2712a76b]: Commencement: Sch. 2 para. 16 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-43fa4310b0faf2ac5dadf4ff2712a76b]: Commencement: Sch. 2 para. 16 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-537b2363326f17d3e086d140c1230d7b]: Commencement: Sch. 2 para. 17 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-537b2363326f17d3e086d140c1230d7b]: Commencement: Sch. 2 para. 17 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-8726dc88b93c79fd41125482ce621875]: Commencement: Sch. 2 para. 18 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-8726dc88b93c79fd41125482ce621875]: Commencement: Sch. 2 para. 18 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-e7137418869b1268277187b4ca454845]: Commencement: Sch. 2 para. 19 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-e7137418869b1268277187b4ca454845]: Commencement: Sch. 2 para. 19 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-79d35134e124ac362200dc01c34467b4]: Commencement: Sch. 2 para. 20 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-79d35134e124ac362200dc01c34467b4]: Commencement: Sch. 2 para. 20 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-6e0b5c963e5288468002ce9e6e368da0]: Commencement: Sch. 2 para. 21 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-6e0b5c963e5288468002ce9e6e368da0]: Commencement: Sch. 2 para. 21 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-4a20e3132cf32f4ebb68c3d108a1be4d]: Commencement: Sch. 2 para. 22 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-4a20e3132cf32f4ebb68c3d108a1be4d]: Commencement: Sch. 2 para. 22 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-cb2a8a3415524f38bfe4a3dee1dd2106]: Commencement: Sch. 2 para. 23 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-cb2a8a3415524f38bfe4a3dee1dd2106]: Commencement: Sch. 2 para. 23 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
 
-[^key-75d43a71660a24ab296fca6b3fa05d9c]: Commencement: Sch. 2 para. 24 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)
+[^c-75d43a71660a24ab296fca6b3fa05d9c]: Commencement: Sch. 2 para. 24 in force at 23.3.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/505/regulation/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) In the following proceedings in the county court[^key-971a4049e38f94ce52ff72aa04702e6d] the trial shall be without a jury—
+(1) In the following proceedings in the county court[^c-971a4049e38f94ce52ff72aa04702e6d] the trial shall be without a jury—
 
 - (a) Admiralty proceedings;
 - (b) proceedings arising—
@@ -35,7 +35,7 @@ summary: ''
 (3) Where, on any such application, the court is satisfied that there is in issue—
 
 - (a) a charge of fraud against the party making the application; or
-- (b) a claim in respect of [^key-660dcf150397a055329442a0e8e41e94]... malicious prosecution or false imprisonment; or
+- (b) a claim in respect of [^c-660dcf150397a055329442a0e8e41e94]... malicious prosecution or false imprisonment; or
 - (c) any question or issue of a kind prescribed for the purposes of this paragraph,
 
 the action shall be tried with a jury, unless the court is of opinion that the trial requires any prolonged examination of documents or accounts or any scientific or local investigation which cannot conveniently be made with a jury.
@@ -44,7 +44,7 @@ the action shall be tried with a jury, unless the court is of opinion that the t
 
 ## Annotations
 
-[^key-971a4049e38f94ce52ff72aa04702e6d]: Textual amendment: Words in [ss. 36-147](https://www.legislation.gov.uk/ukpga/1984/28/section/36) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/10/1/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) and with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-971a4049e38f94ce52ff72aa04702e6d]: Textual amendment: Words in [ss. 36-147](https://www.legislation.gov.uk/ukpga/1984/28/section/36) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/10/1/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) and with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
 
 [^c4405671]: Marginal citation: [1976 c. 80](https://www.legislation.gov.uk/ukpga/1976/80).
 
@@ -56,6 +56,6 @@ the action shall be tried with a jury, unless the court is of opinion that the t
 
 [^c4405711]: Textual amendment: Words substituted by [Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61)](https://www.legislation.gov.uk/ukpga/1985/71), [s. 4](https://www.legislation.gov.uk/ukpga/1985/71/section/4), [Sch. 2 para. 57(2)](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/57/2)
 
-[^key-660dcf150397a055329442a0e8e41e94]: Textual amendment: Words in s. 66(3)(b) omitted (1.1.2014) by virtue of [Defamation Act 2013 (c. 26)](https://www.legislation.gov.uk/ukpga/2013/26), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2013/26/section/11/2), [17(4)](https://www.legislation.gov.uk/ukpga/2013/26/section/17/4) (with [s. 16(7)](https://www.legislation.gov.uk/ukpga/2013/26/section/16/7)); [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
+[^c-660dcf150397a055329442a0e8e41e94]: Textual amendment: Words in s. 66(3)(b) omitted (1.1.2014) by virtue of [Defamation Act 2013 (c. 26)](https://www.legislation.gov.uk/ukpga/2013/26), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2013/26/section/11/2), [17(4)](https://www.legislation.gov.uk/ukpga/2013/26/section/17/4) (with [s. 16(7)](https://www.legislation.gov.uk/ukpga/2013/26/section/16/7)); [S.I. 2013/3027](https://www.legislation.gov.uk/uksi/2013/3027), [art. 2](https://www.legislation.gov.uk/uksi/2013/3027/article/2)
 
 [^c20590271]: Textual amendment: Words in s. 66(4) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 271](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/271); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3](https://www.legislation.gov.uk/uksi/2005/910/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.18. Representations in response[^key-9120744e943948511487b0c15f304784]
+## 18.18. Representations in response[^c-9120744e943948511487b0c15f304784]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9120744e943948511487b0c15f304784]: Commencement: [Rule 18.18](https://www.legislation.gov.uk/uksi/2025/909/rule/18.18) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9120744e943948511487b0c15f304784]: Commencement: [Rule 18.18](https://www.legislation.gov.uk/uksi/2025/909/rule/18.18) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

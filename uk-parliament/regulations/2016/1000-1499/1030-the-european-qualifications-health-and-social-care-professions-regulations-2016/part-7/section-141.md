@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Amendment of section 113 (Welsh text)[^key-ccb8e9ff35ee5b84596d8954a6ba12a2]
+## 141. Amendment of section 113 (Welsh text)[^c-ccb8e9ff35ee5b84596d8954a6ba12a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccb8e9ff35ee5b84596d8954a6ba12a2]: Commencement: Reg. 141 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-ccb8e9ff35ee5b84596d8954a6ba12a2]: Commencement: Reg. 141 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

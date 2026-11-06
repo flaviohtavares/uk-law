@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Disclosure of information[^key-d9db8d7bf2a9b885c28affd4392b364d]
+## 36. Disclosure of information[^c-d9db8d7bf2a9b885c28affd4392b364d]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9db8d7bf2a9b885c28affd4392b364d]: Commencement: Reg. 36 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-d9db8d7bf2a9b885c28affd4392b364d]: Commencement: Reg. 36 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

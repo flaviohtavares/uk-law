@@ -22,7 +22,7 @@ summary: ''
 
 Article 69(1)
 
-### 1. Interpretation[^key-c2381d186416d897ef316a8d95ab2cb9][^key-e84ac1a80ef642f3f2157b92adbec353]
+### 1. Interpretation[^c-c2381d186416d897ef316a8d95ab2cb9][^c-e84ac1a80ef642f3f2157b92adbec353]
 
 In this Schedule—
 
@@ -32,7 +32,7 @@ In this Schedule—
   - (b) Parts 1 and 3 of the register maintained under article 21 of that Order; and
 - “the premises register” means the register of premises in Great Britain kept under section 75 of the 1968 Act as that section has effect immediately before the amendments made to that section by paragraph 1(8) of Schedule 4 come into force.
 
-### 2. Members of committees[^key-416e0b2b67864672ab6d82f89fe578d5][^key-bec3c4372cc859bb46f9e89b716178f1]
+### 2. Members of committees[^c-416e0b2b67864672ab6d82f89fe578d5][^c-bec3c4372cc859bb46f9e89b716178f1]
 
 (1) Members of the committees referred to in article 7(1)(b) and (d) of the 2007 Order immediately before the appointed day are to be treated as having been appointed to the Fitness to Practise Committee in accordance with rules under paragraph 5 of Schedule 1.
 
@@ -42,7 +42,7 @@ In this Schedule—
 
 (4) In this paragraph, “the appointed day” means the day appointed for the coming into force of article 4(6).
 
-### 3. Transfer of information to the Register[^key-1bdcf9b24ab8f92779f8c41b841011f6][^key-eb2a1f16d4aaa048a2e96c0bf83eac0e]
+### 3. Transfer of information to the Register[^c-1bdcf9b24ab8f92779f8c41b841011f6][^c-eb2a1f16d4aaa048a2e96c0bf83eac0e]
 
 (1) The Society and the Council must enter into arrangements to facilitate the introduction of arrangements for the entry of pharmacists, pharmacy technicians and premises in the Register by the Council by virtue of this Order.
 
@@ -60,7 +60,7 @@ In this Schedule—
 
 (8) In this paragraph and in paragraphs 4 and 5, “the appointed day” means the day appointed by order for the coming into force of article 19.
 
-### 4. The register[^key-9814afb44d21311114421ddc297bce5c][^key-3e11f3353780b785924275901af8a468]
+### 4. The register[^c-9814afb44d21311114421ddc297bce5c][^c-3e11f3353780b785924275901af8a468]
 
 (1) Where immediately before the appointed day there are outstanding applications for—
 
@@ -79,7 +79,7 @@ the Council must dispose of the applications in accordance with sub-paragraph (2
 
 (3) The Council may direct the Registrar to make such amendments (if any) of the Register as are necessary in consequence of the disposal of the applications referred to in sub-paragraph (1).
 
-### 5. Appealable registration decisions[^key-8c9ee7487b73dd7d48a3b2ae9a8dda62][^key-ab3e2e75db9752078ec67b46dbf007fb]
+### 5. Appealable registration decisions[^c-8c9ee7487b73dd7d48a3b2ae9a8dda62][^c-ab3e2e75db9752078ec67b46dbf007fb]
 
 (1) Proceedings in respect of an appealable registration decision within the meaning of article 42 of the 2007 Order which, immediately before the appointed day—
 
@@ -93,7 +93,7 @@ must be referred to the Appeals Committee established under article 4(6)(c).
 - (a) in accordance with the relevant provisions of the 2007 Order as if those provisions remained in force; or
 - (b) in such other manner as it considers just.
 
-**6.**[^key-3327a8db936b50bbc364e5035581c254][^key-15e801adc429d04fe625462b2b7372e1][^key-8c9ee7487b73dd7d48a3b2ae9a8dda62][^key-ab3e2e75db9752078ec67b46dbf007fb] (1) The revocation of article 44 of the 2007 Order (appeals from the Registration Appeals Committee) does not affect the application of that article—
+**6.**[^c-3327a8db936b50bbc364e5035581c254][^c-15e801adc429d04fe625462b2b7372e1][^c-8c9ee7487b73dd7d48a3b2ae9a8dda62][^c-ab3e2e75db9752078ec67b46dbf007fb] (1) The revocation of article 44 of the 2007 Order (appeals from the Registration Appeals Committee) does not affect the application of that article—
 
 - (a) in relation to any appeal that is pending before the relevant court immediately before the appointed day; or
 - (b) in any case where, immediately before the appointed day, the period of 28 days within which an appeal could be brought in respect of a decision of the Registration Appeals Committee has not expired.
@@ -102,7 +102,7 @@ must be referred to the Appeals Committee established under article 4(6)(c).
 
 (3) In this paragraph, “the appointed day” means the day appointed for the coming into force of Part 6.
 
-### 7. Transitional arrangements: pharmacy technicians[^key-8adc4db7cfcd34093154ee53b7915265][^key-0c563c72f9cc44179731e9c56e380fd4]
+### 7. Transitional arrangements: pharmacy technicians[^c-8adc4db7cfcd34093154ee53b7915265][^c-0c563c72f9cc44179731e9c56e380fd4]
 
 (1) This paragraph applies to a person (“P”) who, for the purpose of article 20(1)(a)(i), is not appropriately qualified within the meaning of article 22 but who, no later than 30 June 2011, applies to be entered in Part 2 of the Register.
 
@@ -122,7 +122,7 @@ provided that, in so doing, the Registrar is acting in a manner which is consist
 
 (5) Where, under this paragraph, the Registrar refuses to enter P’s name in the Register, the Registrar must send to P at P’s last known home address a statement in writing giving P notice of the decision and the reasons for it and of the right of appeal to the Appeals Committee under article 40.
 
-### 8. Offences relating to the Register: pharmacy technicians[^key-3cc060e9fb7bf2d206aaa70809d8f266][^key-45538a81d3634065c572f7d8ae95160d]
+### 8. Offences relating to the Register: pharmacy technicians[^c-3cc060e9fb7bf2d206aaa70809d8f266][^c-45538a81d3634065c572f7d8ae95160d]
 
 (1) A person may, before the relevant date, use the title “pharmacy technician” or “technegydd fferylliaeth” (its equivalent in the Welsh language), or practise as a pharmacy technician, without committing an offence under article 38(2)(b) or (4)(b).
 
@@ -130,7 +130,7 @@ provided that, in so doing, the Registrar is acting in a manner which is consist
 
 (3) For the purposes of sub-paragraph (2), an appeal is finally disposed of once all rights in relation to the appeal have been exhausted.
 
-### 9. Education and training[^key-ef086b5277669b3120986ea1c9855dda][^key-f24debf560eb8fabdbf8169ae8b8a340]
+### 9. Education and training[^c-ef086b5277669b3120986ea1c9855dda][^c-f24debf560eb8fabdbf8169ae8b8a340]
 
 (1) Anything determined, approved or accredited by the Society under articles 14, 15, 25 and 26 of the 2007 Order immediately before the appointed day, except the approval or accreditation of providers of continuing professional development, is to be treated as having been set or approved by the Council under, as the case may be, article 42(1)(b)(ii), (4) or (5) as from the appointed day.
 
@@ -138,11 +138,11 @@ provided that, in so doing, the Registrar is acting in a manner which is consist
 
 (3) In this paragraph, “the appointed day” means the day appointed for the coming into force of Part 5.
 
-### 10. Premises[^key-e6630863dfe231abb7cc07ce6ac68039][^key-420b2f60b31ca661a42afeed94f9cb6e]
+### 10. Premises[^c-e6630863dfe231abb7cc07ce6ac68039][^c-420b2f60b31ca661a42afeed94f9cb6e]
 
 Sections 74A(4) to (7), 74B(1) to (5), 74C to 74I and 74L of the 1968 Act, as inserted by paragraph 1(8) of Schedule 4, have effect in relation to premises which are entered in the Register pursuant to paragraph 3(4) as they have effect in relation to premises entered in the Register under section 74A of that Act as inserted by that provision of that Schedule.
 
-### 11. Fees[^key-f606f2852e38638044c32d8c89d28f68][^key-f51ac5a3d28a4972aa3714942e3ce3b3]
+### 11. Fees[^c-f606f2852e38638044c32d8c89d28f68][^c-f51ac5a3d28a4972aa3714942e3ce3b3]
 
 (1) Any fees which are payable by virtue of—
 
@@ -154,7 +154,7 @@ but which are outstanding immediately before the appointed day remain payable an
 
 (2) In sub-paragraph (1), “the appointed day” means the day appointed for the coming into force of article 4(1).
 
-### 12. Fitness to practise proceedings[^key-748061532d00c00e0defe0bc39419a94][^key-1c25d7ac6cc40f81cc695d80ceff5aab]
+### 12. Fitness to practise proceedings[^c-748061532d00c00e0defe0bc39419a94][^c-1c25d7ac6cc40f81cc695d80ceff5aab]
 
 (1) Proceedings in respect of an allegation relating to fitness to practice which, immediately before the appointed day—
 
@@ -168,7 +168,7 @@ must be referred to the Council.
 - (a) in accordance with the relevant provisions of the 2007 Order as if those provisions remained in force; or
 - (b) in such other manner as it considers just.
 
-**13.**[^key-c971fd5ecd31f17f0173fd004c8f54cb][^key-b05eb9d30dca53be30d259e4134308b3][^key-748061532d00c00e0defe0bc39419a94][^key-1c25d7ac6cc40f81cc695d80ceff5aab] (1) The revocation of Part 5 of and Part 4 of Schedule 2 to the 2007 Order does not affect the application of those provisions—
+**13.**[^c-c971fd5ecd31f17f0173fd004c8f54cb][^c-b05eb9d30dca53be30d259e4134308b3][^c-748061532d00c00e0defe0bc39419a94][^c-1c25d7ac6cc40f81cc695d80ceff5aab] (1) The revocation of Part 5 of and Part 4 of Schedule 2 to the 2007 Order does not affect the application of those provisions—
 
 - (a) in relation to any appeal that is pending before the relevant court immediately before the appointed day; or
 - (b) in any case where, immediately before the appointed day, the period of 28 days within which an appeal could be brought before the relevant court in respect of a decision of the Society or any of its committees has not expired.
@@ -182,29 +182,29 @@ must be referred to the Council.
 
 (3) In this paragraph “the appointed day” means the day appointed for the coming into force of Part 6.
 
-### 14. Proceedings under section 80 of the 1968 Act[^key-d23efb1d4967a9f03531c66b60a69ca3]
+### 14. Proceedings under section 80 of the 1968 Act[^c-d23efb1d4967a9f03531c66b60a69ca3]
 
 (1) Sub-paragraph (2) applies to matters referred to, but not dealt with by, the Disciplinary Committee established under article 7(1)(b) of the 2007 Order by virtue of section 80 of the 1968 Act immediately before the day appointed for the coming into force of paragraph 1(14) and (15) of Schedule 4.
 
 (2) Those matters are to be dealt with by the Fitness to Practise Committee established under article 4(6)(b) as if the amendments to sections 80 and 81 of that Act made by paragraph 1(14) and (15) of Schedule 4 had not come into force.
 
-### 15. Supply of information[^key-7242a934d966dbb95a9a007ea74f8591][^key-3387701cbfecebb626c6468e1bc04ab3]
+### 15. Supply of information[^c-7242a934d966dbb95a9a007ea74f8591][^c-3387701cbfecebb626c6468e1bc04ab3]
 
 For the purpose of enabling the Council to discharge its functions under the preceding provisions of this Schedule, the Society must supply such information and documentation to the Council as is relevant to the discharge of those functions.
 
-### 16. Application of TUPE[^key-bf532ae9192e4dc50741ac57ef2a05d5][^key-9adb0fd7e6a4e36e3dd3c49acebbd318]
+### 16. Application of TUPE[^c-bf532ae9192e4dc50741ac57ef2a05d5][^c-9adb0fd7e6a4e36e3dd3c49acebbd318]
 
 The transfer of the functions of the Society to the Council by virtue of this Order is to be treated as a relevant transfer for the purposes of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^f00167], whether or not, apart from this paragraph, it would be considered such a transfer.
 
-### 17. Transfer of property, rights and liabilities[^key-345418853bd4f341b20d87596a1db457][^key-2dafd174c32d10b6fe84bf6cba9a06ce]
+### 17. Transfer of property, rights and liabilities[^c-345418853bd4f341b20d87596a1db457][^c-2dafd174c32d10b6fe84bf6cba9a06ce]
 
 The Privy Council may by order provide for the transfer from the Society to the Council of any property, rights and liabilities.
 
-### 18. Grants and loans[^key-ae890343002b4e6a8da17be5ff4ff48d][^key-ff5dd4416b71c35a56739a96c1f88ee7]
+### 18. Grants and loans[^c-ae890343002b4e6a8da17be5ff4ff48d][^c-ff5dd4416b71c35a56739a96c1f88ee7]
 
 The Privy Council may by order make provision authorising the Society to make grants or loans to any person in connection with the implementation or preparations for the implementation of this Order.
 
-### 19. Cancellation of elections to, and transitional measures relating to, the Council of the Society[^key-275b938c2a287db782e0f750958e3e2e]
+### 19. Cancellation of elections to, and transitional measures relating to, the Council of the Society[^c-275b938c2a287db782e0f750958e3e2e]
 
 (1) Elections which would have been held by virtue of regulations under article 8 of the Charter, are not to be held in respect of the vacancies that would have arisen in respect of the members of the Council of the Society who were due to vacate office at the end of 20 May 2010.
 
@@ -219,78 +219,78 @@ whichever first occurs.
 
 ## Annotations
 
-[^key-c2381d186416d897ef316a8d95ab2cb9]: Commencement: Sch. 5 para. 1 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-c2381d186416d897ef316a8d95ab2cb9]: Commencement: Sch. 5 para. 1 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-e84ac1a80ef642f3f2157b92adbec353]: Commencement: Sch. 5 para. 1 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-e84ac1a80ef642f3f2157b92adbec353]: Commencement: Sch. 5 para. 1 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
 [^f00166]: Footnote: [1968 c.67](https://www.legislation.gov.uk/ukpga/1968/67).
 
-[^key-416e0b2b67864672ab6d82f89fe578d5]: Commencement: Sch. 5 para. 2 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-416e0b2b67864672ab6d82f89fe578d5]: Commencement: Sch. 5 para. 2 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-bec3c4372cc859bb46f9e89b716178f1]: Commencement: Sch. 5 para. 2 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-bec3c4372cc859bb46f9e89b716178f1]: Commencement: Sch. 5 para. 2 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-1bdcf9b24ab8f92779f8c41b841011f6]: Commencement: Sch. 5 para. 3 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-1bdcf9b24ab8f92779f8c41b841011f6]: Commencement: Sch. 5 para. 3 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-eb2a1f16d4aaa048a2e96c0bf83eac0e]: Commencement: Sch. 5 para. 3 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-eb2a1f16d4aaa048a2e96c0bf83eac0e]: Commencement: Sch. 5 para. 3 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-9814afb44d21311114421ddc297bce5c]: Commencement: Sch. 5 para. 4 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-9814afb44d21311114421ddc297bce5c]: Commencement: Sch. 5 para. 4 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-3e11f3353780b785924275901af8a468]: Commencement: Sch. 5 para. 4 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-3e11f3353780b785924275901af8a468]: Commencement: Sch. 5 para. 4 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-8c9ee7487b73dd7d48a3b2ae9a8dda62]: Commencement: Sch. 5 para. 5 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-8c9ee7487b73dd7d48a3b2ae9a8dda62]: Commencement: Sch. 5 para. 5 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-ab3e2e75db9752078ec67b46dbf007fb]: Commencement: Sch. 5 para. 5 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-ab3e2e75db9752078ec67b46dbf007fb]: Commencement: Sch. 5 para. 5 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-3327a8db936b50bbc364e5035581c254]: Commencement: Sch. 5 para. 6 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-3327a8db936b50bbc364e5035581c254]: Commencement: Sch. 5 para. 6 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-15e801adc429d04fe625462b2b7372e1]: Commencement: Sch. 5 para. 6 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-15e801adc429d04fe625462b2b7372e1]: Commencement: Sch. 5 para. 6 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-8adc4db7cfcd34093154ee53b7915265]: Commencement: Sch. 5 para. 7 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-8adc4db7cfcd34093154ee53b7915265]: Commencement: Sch. 5 para. 7 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-0c563c72f9cc44179731e9c56e380fd4]: Commencement: Sch. 5 para. 7 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-0c563c72f9cc44179731e9c56e380fd4]: Commencement: Sch. 5 para. 7 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-3cc060e9fb7bf2d206aaa70809d8f266]: Commencement: Sch. 5 para. 8 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-3cc060e9fb7bf2d206aaa70809d8f266]: Commencement: Sch. 5 para. 8 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-45538a81d3634065c572f7d8ae95160d]: Commencement: Sch. 5 para. 8 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-45538a81d3634065c572f7d8ae95160d]: Commencement: Sch. 5 para. 8 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-ef086b5277669b3120986ea1c9855dda]: Commencement: Sch. 5 para. 9 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-ef086b5277669b3120986ea1c9855dda]: Commencement: Sch. 5 para. 9 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-f24debf560eb8fabdbf8169ae8b8a340]: Commencement: Sch. 5 para. 9 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-f24debf560eb8fabdbf8169ae8b8a340]: Commencement: Sch. 5 para. 9 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-e6630863dfe231abb7cc07ce6ac68039]: Commencement: Sch. 5 para. 10 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-e6630863dfe231abb7cc07ce6ac68039]: Commencement: Sch. 5 para. 10 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-420b2f60b31ca661a42afeed94f9cb6e]: Commencement: Sch. 5 para. 10 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-420b2f60b31ca661a42afeed94f9cb6e]: Commencement: Sch. 5 para. 10 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-f606f2852e38638044c32d8c89d28f68]: Commencement: Sch. 5 para. 11 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-f606f2852e38638044c32d8c89d28f68]: Commencement: Sch. 5 para. 11 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-f51ac5a3d28a4972aa3714942e3ce3b3]: Commencement: Sch. 5 para. 11 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-f51ac5a3d28a4972aa3714942e3ce3b3]: Commencement: Sch. 5 para. 11 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-748061532d00c00e0defe0bc39419a94]: Commencement: Sch. 5 para. 12 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-748061532d00c00e0defe0bc39419a94]: Commencement: Sch. 5 para. 12 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-1c25d7ac6cc40f81cc695d80ceff5aab]: Commencement: Sch. 5 para. 12 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-1c25d7ac6cc40f81cc695d80ceff5aab]: Commencement: Sch. 5 para. 12 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-c971fd5ecd31f17f0173fd004c8f54cb]: Commencement: Sch. 5 para. 13 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-c971fd5ecd31f17f0173fd004c8f54cb]: Commencement: Sch. 5 para. 13 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-b05eb9d30dca53be30d259e4134308b3]: Commencement: Sch. 5 para. 13 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-b05eb9d30dca53be30d259e4134308b3]: Commencement: Sch. 5 para. 13 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-d23efb1d4967a9f03531c66b60a69ca3]: Commencement: Sch. 5 para. 14 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-d23efb1d4967a9f03531c66b60a69ca3]: Commencement: Sch. 5 para. 14 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-7242a934d966dbb95a9a007ea74f8591]: Commencement: Sch. 5 para. 15 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-7242a934d966dbb95a9a007ea74f8591]: Commencement: Sch. 5 para. 15 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-3387701cbfecebb626c6468e1bc04ab3]: Commencement: Sch. 5 para. 15 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-3387701cbfecebb626c6468e1bc04ab3]: Commencement: Sch. 5 para. 15 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-bf532ae9192e4dc50741ac57ef2a05d5]: Commencement: Sch. 5 para. 16 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-bf532ae9192e4dc50741ac57ef2a05d5]: Commencement: Sch. 5 para. 16 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-9adb0fd7e6a4e36e3dd3c49acebbd318]: Commencement: Sch. 5 para. 16 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-9adb0fd7e6a4e36e3dd3c49acebbd318]: Commencement: Sch. 5 para. 16 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
 [^f00167]: Footnote: [S.I.2006/246](https://www.legislation.gov.uk/uksi/2006/246).
 
-[^key-345418853bd4f341b20d87596a1db457]: Commencement: Sch. 5 para. 17 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-345418853bd4f341b20d87596a1db457]: Commencement: Sch. 5 para. 17 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-2dafd174c32d10b6fe84bf6cba9a06ce]: Commencement: Sch. 5 para. 17 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-2dafd174c32d10b6fe84bf6cba9a06ce]: Commencement: Sch. 5 para. 17 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-ae890343002b4e6a8da17be5ff4ff48d]: Commencement: Sch. 5 para. 18 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-ae890343002b4e6a8da17be5ff4ff48d]: Commencement: Sch. 5 para. 18 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-ff5dd4416b71c35a56739a96c1f88ee7]: Commencement: Sch. 5 para. 18 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-ff5dd4416b71c35a56739a96c1f88ee7]: Commencement: Sch. 5 para. 18 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
-[^key-275b938c2a287db782e0f750958e3e2e]: Commencement: Sch. 5 para. 19 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-275b938c2a287db782e0f750958e3e2e]: Commencement: Sch. 5 para. 19 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Number of directors[^key-35c02939b3f8ddd812c7270ae18f0a2c]
+## 239. Number of directors[^c-35c02939b3f8ddd812c7270ae18f0a2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35c02939b3f8ddd812c7270ae18f0a2c]: Commencement: S. 239 in force at 1.6.2009 by [S.I. 2009/1296](https://www.legislation.gov.uk/uksi/2009/1296), [art. 2](https://www.legislation.gov.uk/uksi/2009/1296/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/1296/schedule/paragraph/2)
+[^c-35c02939b3f8ddd812c7270ae18f0a2c]: Commencement: S. 239 in force at 1.6.2009 by [S.I. 2009/1296](https://www.legislation.gov.uk/uksi/2009/1296), [art. 2](https://www.legislation.gov.uk/uksi/2009/1296/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/1296/schedule/paragraph/2)

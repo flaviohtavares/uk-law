@@ -41,17 +41,17 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001], in exercise of the powers conferred on it by section 11(3)(*b*) and (4) of the Medical Act 1983[^f00002], and by Articles 56(1), (2), (3), (3A), (4), (4B) and (5), 95, 106 and 107(6) of, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00003] and of all other powers enabling it in that behalf, and in conjunction with the Department of Finance and Personnel and after consultation with such organisations as appeared to the Department to be representative of the medical profession, as required by Article 56(5) of that Order, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-95b8d6665431bcbbd85dcac57699d14d]
+## 1. Citation, commencement and interpretation[^c-95b8d6665431bcbbd85dcac57699d14d]
 
 (1) These Regulations may be cited as the Medical Act 1983 (Approved Medical Practices and Conditions of Residence) and General Medical Services (Amendment No. 3) Regulations (Northern Ireland) 2001 and shall come into operation on 2nd July 2001.
 
 (2) In these Regulations, “PRHO” means a person engaged in employment under section 10 or 15A of the Medical Act 1983 in an approved medical practice.
 
-## 2. Medical practices qualifying for approval[^key-04b5a2893f30fea7c1c5ff146134d838]
+## 2. Medical practices qualifying for approval[^c-04b5a2893f30fea7c1c5ff146134d838]
 
 (1) In this regulation—
 
-- (a)[^key-a5aa6a0b488eaa7cde451a5f623cd296] “GP Registrar” has the meaning assigned to it in regulation 2(1) of the Health and Personal Social Services (General Medical Services Contracts) Regulations (Northern Ireland) 2004; and
+- (a)[^c-a5aa6a0b488eaa7cde451a5f623cd296] “GP Registrar” has the meaning assigned to it in regulation 2(1) of the Health and Personal Social Services (General Medical Services Contracts) Regulations (Northern Ireland) 2004; and
 - (b) “training practitioner” means a practitioner falling within regulation 7(1) of the Medical Practitioners (Vocational Training) Regulations (Northern Ireland) 1998[^f00005].
 
 (2) The following description of medical practice is prescribed for the purposes of section 11(4) of the Medical Act 1983—
@@ -59,11 +59,11 @@ The Department of Health, Social Services and Public Safety[^f00001], in exercis
 - (a) the practice includes at least one doctor who is a training practitioner;
 - (b) the training practitioner (or, where there are more than one of them in the practice, the one who is to take training responsibility for the PRHO) has confirmed in writing to the university or other body concerned with the practice’s approval for the purposes of PRHO training under section 10 or 15A of the Medical Act 1983, that he is prepared to accept training responsibility for the PRHO;
 - (c) each partner (if any) of the training practitioner has also confirmed in writing to that university or other body his willingness for the training practitioner to undertake training responsibility for a PRHO; and
-- (d) the training practitioner with training responsibility for the PRHO will not at the same time have training responsibility for any other PRHO or for a GP Registrar[^key-5ef2014299d340caf2afd8b501629d9a] .
+- (d) the training practitioner with training responsibility for the PRHO will not at the same time have training responsibility for any other PRHO or for a GP Registrar[^c-5ef2014299d340caf2afd8b501629d9a] .
 
-## 3. Conditions as to residence[^key-8cf23b021674c9030746f194d664768a]
+## 3. Conditions as to residence[^c-8cf23b021674c9030746f194d664768a]
 
-(1) In this regulation, “practice premises” has the meaning assigned to it in regulation 2 of The Health and Personal Social Services (General Medical Services Contracts) Regulations (Northern Ireland) 2004.[^key-f09c3a3a8d1d36a4429da9baddb82811]
+(1) In this regulation, “practice premises” has the meaning assigned to it in regulation 2 of The Health and Personal Social Services (General Medical Services Contracts) Regulations (Northern Ireland) 2004.[^c-f09c3a3a8d1d36a4429da9baddb82811]
 
 (2) For the duration of the time that a PRHO is employed in an approved medical practice the conditions as to residence prescribed for the purposes of section 11(3)(*b*) of the Medical Act 1983 are that he shall reside in accommodation supplied by the HSS trust hospital approved for his general clinical training pursuant to section 11 of that Act, if that accommodation is situated conveniently near to the practice premises but, if not, that he shall reside in other accommodation conveniently near to the practice premises.
 
@@ -103,18 +103,18 @@ Section 11 of the Medical Act 1983, one of the enabling provisions under which t
 
 [^f00003]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); as amended by Article 12 of the Health and Personal Social Services (Northern Ireland) Order 1978 ([S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907)); Article 7 of the Health and Personal Social Services and Public Health (Northern Ireland) Order 1986 ([S.I. 1986/2229 (N.I. 24)](https://www.legislation.gov.uk/nisi/1986/2229)); Article 4(5) of the Health and Medicines (Northern Ireland) Order 1988 ([S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249)); Article 29 (1) of, and Schedule 6 to, the Health and Personal Social Services (Northern Ireland) Order 1991 ([S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)); section 4 of, and paragraph 30 (*a*) and (*b*) of the Schedule to, the Medical (Professional Performance) Act 1995 ([1995 c. 51)](https://www.legislation.gov.uk/ukpga/1995/51); and Article 32 of, and Schedule 2 to, the Health Services (Primary Care) (Northern Ireland) Order 1997 ([S.I. 1997/1177(N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177) )
 
-[^key-95b8d6665431bcbbd85dcac57699d14d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/217/regulation/1) in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/217/regulation/1/1)
+[^c-95b8d6665431bcbbd85dcac57699d14d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/217/regulation/1) in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/217/regulation/1/1)
 
-[^key-04b5a2893f30fea7c1c5ff146134d838]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/217/regulation/2) in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/217/regulation/1/1)
+[^c-04b5a2893f30fea7c1c5ff146134d838]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/217/regulation/2) in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/217/regulation/1/1)
 
-[^key-a5aa6a0b488eaa7cde451a5f623cd296]: Textual amendment: [Reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2001/217/regulation/2/1/a) substituted (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 1 para. 14(2)(a)](https://www.legislation.gov.uk/nisr/2004/156/schedule/1/paragraph/14/2/a)
+[^c-a5aa6a0b488eaa7cde451a5f623cd296]: Textual amendment: [Reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2001/217/regulation/2/1/a) substituted (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 1 para. 14(2)(a)](https://www.legislation.gov.uk/nisr/2004/156/schedule/1/paragraph/14/2/a)
 
 [^f00005]: Footnote: [S.R. 1998 No. 13](https://www.legislation.gov.uk/nisr/1998/13)
 
-[^key-5ef2014299d340caf2afd8b501629d9a]: Textual amendment: Words in [reg. 2(2)(d)](https://www.legislation.gov.uk/nisr/2001/217/regulation/2/2/d) substituted (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 1 para. 14(2)(b)](https://www.legislation.gov.uk/nisr/2004/156/schedule/1/paragraph/14/2/b)
+[^c-5ef2014299d340caf2afd8b501629d9a]: Textual amendment: Words in [reg. 2(2)(d)](https://www.legislation.gov.uk/nisr/2001/217/regulation/2/2/d) substituted (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 1 para. 14(2)(b)](https://www.legislation.gov.uk/nisr/2004/156/schedule/1/paragraph/14/2/b)
 
-[^key-8cf23b021674c9030746f194d664768a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/217/regulation/3) in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/217/regulation/1/1)
+[^c-8cf23b021674c9030746f194d664768a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/217/regulation/3) in operation at 2.7.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/217/regulation/1/1)
 
-[^key-f09c3a3a8d1d36a4429da9baddb82811]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2001/217/regulation/3/1) substituted (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 1 para. 14(3)](https://www.legislation.gov.uk/nisr/2004/156/schedule/1/paragraph/14/3)
+[^c-f09c3a3a8d1d36a4429da9baddb82811]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2001/217/regulation/3/1) substituted (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 1 para. 14(3)](https://www.legislation.gov.uk/nisr/2004/156/schedule/1/paragraph/14/3)
 
 [^M_F_370bf214-97ce-4202-a157-d9587bd2adc1]: Textual amendment: Reg. 4 omitted (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 1 para. 14(4)](https://www.legislation.gov.uk/nisr/2004/156/schedule/1/paragraph/14/4)

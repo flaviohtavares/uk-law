@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 192. Duty to maintain and publish register of historic parks and gardens[^key-89f4f80b38ee96935f88dc12844995f4][^key-92e766df50a3746133388f45331f465e]
+## 192. Duty to maintain and publish register of historic parks and gardens[^c-89f4f80b38ee96935f88dc12844995f4][^c-92e766df50a3746133388f45331f465e]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89f4f80b38ee96935f88dc12844995f4]: Commencement: S. 192 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-89f4f80b38ee96935f88dc12844995f4]: Commencement: S. 192 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-92e766df50a3746133388f45331f465e]: Commencement: [S. 192](https://www.legislation.gov.uk/asc/2023/3/section/192) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-92e766df50a3746133388f45331f465e]: Commencement: [S. 192](https://www.legislation.gov.uk/asc/2023/3/section/192) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

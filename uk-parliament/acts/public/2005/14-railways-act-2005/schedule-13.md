@@ -22,7 +22,7 @@ summary: ''
 
 Section 59
 
-### Part 1 — Repealed enactments[^key-9fcaef02014300cfccfa48e2420be5da][^key-2692d5cd33be996c893b109c24fc7604][^key-cf8be5986bdbb12f6e9d16bff3ebc779][^key-1c32a238927e53e97f5f51f38a246b80][^key-4acc458f38d4319b232589f7eaa21f8c][^key-e62a3e87ed074cdc3c5fb5abb37c1f14][^key-56e5bcb09b1c1aba9d3205febc1ba853][^key-544af79ca795517ee3dfed59b013d0e7][^key-23eae3db53094155ad94b4e96e8fc339]
+### Part 1 — Repealed enactments[^c-9fcaef02014300cfccfa48e2420be5da][^c-2692d5cd33be996c893b109c24fc7604][^c-cf8be5986bdbb12f6e9d16bff3ebc779][^c-1c32a238927e53e97f5f51f38a246b80][^c-4acc458f38d4319b232589f7eaa21f8c][^c-e62a3e87ed074cdc3c5fb5abb37c1f14][^c-56e5bcb09b1c1aba9d3205febc1ba853][^c-544af79ca795517ee3dfed59b013d0e7][^c-23eae3db53094155ad94b4e96e8fc339]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -49,41 +49,41 @@ Section 59
 
 ### Part 2 — Savings
 
-**1.**[^key-7745d2b6e2861f302cdded0bc6dd5d1a] The repeal of the entry relating to the Strategic Rail Authority in the list of “Other Bodies” in Schedule 1 to the Superannuation Act 1972 (c. 11) does not affect—
+**1.**[^c-7745d2b6e2861f302cdded0bc6dd5d1a] The repeal of the entry relating to the Strategic Rail Authority in the list of “Other Bodies” in Schedule 1 to the Superannuation Act 1972 (c. 11) does not affect—
 
 - (a) any pension, allowance or gratuity granted before the coming into force of the repeal to or in respect of a person by virtue of his employment with the Strategic Rail Authority; or
 - (b) any right or entitlement to the grant of a pension, allowance or gratuity accruing before that coming into force to or in respect of a person by virtue of that employment.
 
-**2.**[^key-3d9fd9621ef6123723fd9a53b8e4b571] The repeal of section 219 of the 2000 Act has effect subject to section 46(4).
+**2.**[^c-3d9fd9621ef6123723fd9a53b8e4b571] The repeal of section 219 of the 2000 Act has effect subject to section 46(4).
 
-**3.**[^key-f534182e860081648a232f37420a260a] The repeal of Part 3 of Schedule 17 to that Act does not affect the provisions of that Part in their application in relation to any transfer scheme made before the coming into force of the repeal.
+**3.**[^c-f534182e860081648a232f37420a260a] The repeal of Part 3 of Schedule 17 to that Act does not affect the provisions of that Part in their application in relation to any transfer scheme made before the coming into force of the repeal.
 
-**4.**[^key-bd530c45d10db5cebbd2df209b34d1f8] The repeal of Schedule 19 to that Act does not affect the provisions of that Schedule in their application in relation to any transfer scheme made before the coming into force of the repeal.
+**4.**[^c-bd530c45d10db5cebbd2df209b34d1f8] The repeal of Schedule 19 to that Act does not affect the provisions of that Schedule in their application in relation to any transfer scheme made before the coming into force of the repeal.
 
 ## Annotations
 
-[^key-9fcaef02014300cfccfa48e2420be5da]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-9fcaef02014300cfccfa48e2420be5da]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-2692d5cd33be996c893b109c24fc7604]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 26.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/1444/schedule/2)
+[^c-2692d5cd33be996c893b109c24fc7604]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 26.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/1444/schedule/2)
 
-[^key-cf8be5986bdbb12f6e9d16bff3ebc779]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 24.7.2005 for specified purposes by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-cf8be5986bdbb12f6e9d16bff3ebc779]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 24.7.2005 for specified purposes by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-1c32a238927e53e97f5f51f38a246b80]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 16.10.2005 for specified purposes by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
+[^c-1c32a238927e53e97f5f51f38a246b80]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 16.10.2005 for specified purposes by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
 
-[^key-4acc458f38d4319b232589f7eaa21f8c]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 21.11.2005 for specified purposes by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
+[^c-4acc458f38d4319b232589f7eaa21f8c]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 21.11.2005 for specified purposes by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2812/schedule/2)
 
-[^key-e62a3e87ed074cdc3c5fb5abb37c1f14]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 1.4.2006 for specified purposes by [S.I. 2006/266](https://www.legislation.gov.uk/uksi/2006/266), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/266/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/266/schedule)
+[^c-e62a3e87ed074cdc3c5fb5abb37c1f14]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 1.4.2006 for specified purposes by [S.I. 2006/266](https://www.legislation.gov.uk/uksi/2006/266), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/266/article/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/266/schedule)
 
-[^key-56e5bcb09b1c1aba9d3205febc1ba853]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 1.8.2006 for specified purposes by [S.I. 2006/1951](https://www.legislation.gov.uk/uksi/2006/1951), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2006/1951/article/2/2/j)
+[^c-56e5bcb09b1c1aba9d3205febc1ba853]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 1.8.2006 for specified purposes by [S.I. 2006/1951](https://www.legislation.gov.uk/uksi/2006/1951), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2006/1951/article/2/2/j)
 
-[^key-544af79ca795517ee3dfed59b013d0e7]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 1.12.2006 for specified purposes by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule) (with [arts. 3-7](https://www.legislation.gov.uk/uksi/2006/2911/article/3))
+[^c-544af79ca795517ee3dfed59b013d0e7]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 1.12.2006 for specified purposes by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule) (with [arts. 3-7](https://www.legislation.gov.uk/uksi/2006/2911/article/3))
 
-[^key-23eae3db53094155ad94b4e96e8fc339]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 29.1.2007 for specified purposes by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/e)
+[^c-23eae3db53094155ad94b4e96e8fc339]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) in force at 29.1.2007 for specified purposes by [S.I. 2007/62](https://www.legislation.gov.uk/uksi/2007/62), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2007/62/article/2/2/e)
 
-[^key-7745d2b6e2861f302cdded0bc6dd5d1a]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/paragraph/1) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-7745d2b6e2861f302cdded0bc6dd5d1a]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/paragraph/1) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-3d9fd9621ef6123723fd9a53b8e4b571]: Commencement: Sch. 13 Pt. 2 para. 2 in force at 16.10.2005 by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
+[^c-3d9fd9621ef6123723fd9a53b8e4b571]: Commencement: Sch. 13 Pt. 2 para. 2 in force at 16.10.2005 by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
 
-[^key-f534182e860081648a232f37420a260a]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/paragraph/3) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-f534182e860081648a232f37420a260a]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/paragraph/3) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-bd530c45d10db5cebbd2df209b34d1f8]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/paragraph/4) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-bd530c45d10db5cebbd2df209b34d1f8]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/paragraph/4) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)

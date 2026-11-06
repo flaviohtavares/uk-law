@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 28. Amendment of the Simplified Active Substance List[^key-062907622be9d25b90a371262fb218cf]
+## Article 28. Amendment of the Simplified Active Substance List[^c-062907622be9d25b90a371262fb218cf]
 
 *Extent: E+W+S+N.I.*
 
-1.[^key-8f6bb573b8df9938473478241e9729c0] The competent authority must, after receiving the decision of the Secretary of State, update the Simplified Active Substance List in order to include active substances provided that there is evidence that they do not give rise to concern according to paragraph 2 of this Article.
+1.[^c-8f6bb573b8df9938473478241e9729c0] The competent authority must, after receiving the decision of the Secretary of State, update the Simplified Active Substance List in order to include active substances provided that there is evidence that they do not give rise to concern according to paragraph 2 of this Article.
 
 2. Active substances give rise to concern where:
 
@@ -41,7 +41,7 @@ summary: ''
 
 Active substances also give rise to concern, even if none of the specific criteria in points (a) to (c) are met, where a level of concern equivalent to that arising from points (a) to (c) can be reasonably demonstrated based on reliable information.
 
-3.[^key-7590738476202e5c6fffdfba5a41feeb] The Secretary of State may agree to the restriction or removal of an entry of an active substance to the Simplified Active Substance List on the recommendation of the competent authority if there is evidence that biocidal products containing that substance do not, in certain circumstances, satisfy the conditions set out in paragraph 1 of this Article or in Article 25.
+3.[^c-7590738476202e5c6fffdfba5a41feeb] The Secretary of State may agree to the restriction or removal of an entry of an active substance to the Simplified Active Substance List on the recommendation of the competent authority if there is evidence that biocidal products containing that substance do not, in certain circumstances, satisfy the conditions set out in paragraph 1 of this Article or in Article 25.
 
 4. Paragraph 1 or 3 shall apply at the initiative of the Secretary of State or at the request of an economic operator or at the request of a Devolved Authority providing the necessary evidence as referred to in those paragraphs.
 
@@ -53,8 +53,8 @@ Active substances also give rise to concern, even if none of the specific criter
 
 ## Annotations
 
-[^key-062907622be9d25b90a371262fb218cf]: Textual amendment: Words in [Art. 28](https://www.legislation.gov.uk/eur/2012/528/article/28) heading substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 89(a)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/89/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-062907622be9d25b90a371262fb218cf]: Textual amendment: Words in [Art. 28](https://www.legislation.gov.uk/eur/2012/528/article/28) heading substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 89(a)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/89/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8f6bb573b8df9938473478241e9729c0]: Textual amendment: [Art. 28(1)](https://www.legislation.gov.uk/eur/2012/528/article/28/1) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 89(b)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/89/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f6bb573b8df9938473478241e9729c0]: Textual amendment: [Art. 28(1)](https://www.legislation.gov.uk/eur/2012/528/article/28/1) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 89(b)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/89/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7590738476202e5c6fffdfba5a41feeb]: Textual amendment: [Art. 28(3)-(7)](https://www.legislation.gov.uk/eur/2012/528/article/28/3) substituted for (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 89(c)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/89/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7590738476202e5c6fffdfba5a41feeb]: Textual amendment: [Art. 28(3)-(7)](https://www.legislation.gov.uk/eur/2012/528/article/28/3) substituted for (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 89(c)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/89/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

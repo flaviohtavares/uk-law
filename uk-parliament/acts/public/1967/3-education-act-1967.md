@@ -31,28 +31,28 @@ Education Act 1967 (repealed)
 
 1967 c.3
 
-[^key-98450b7e7aec388ff2769488304ac561]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98450b7e7aec388ff2769488304ac561]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-98450b7e7aec388ff2769488304ac561]
+## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-98450b7e7aec388ff2769488304ac561]
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-98450b7e7aec388ff2769488304ac561]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-98450b7e7aec388ff2769488304ac561]
 
-## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-98450b7e7aec388ff2769488304ac561]
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-98450b7e7aec388ff2769488304ac561]
 
-## 4. Loans for capital expenditure for purposes of colleges of education.[^key-98450b7e7aec388ff2769488304ac561]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 5. Expenses.[^key-98450b7e7aec388ff2769488304ac561]
+## 4. Loans for capital expenditure for purposes of colleges of education.[^c-98450b7e7aec388ff2769488304ac561]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Short title, citation, construction and extent.[^key-98450b7e7aec388ff2769488304ac561]
+## 5. Expenses.[^c-98450b7e7aec388ff2769488304ac561]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Short title, citation, construction and extent.[^c-98450b7e7aec388ff2769488304ac561]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-98450b7e7aec388ff2769488304ac561]: Textual amendment: Act repealed (1.4.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-98450b7e7aec388ff2769488304ac561]: Textual amendment: Act repealed (1.4.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)

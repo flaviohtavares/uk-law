@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Services: general[^key-f5dc79dcd75270f2b47a878c6825165d]
+## 18. Services: general[^c-f5dc79dcd75270f2b47a878c6825165d]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5dc79dcd75270f2b47a878c6825165d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2023/953/regulation/18) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-f5dc79dcd75270f2b47a878c6825165d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2023/953/regulation/18) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

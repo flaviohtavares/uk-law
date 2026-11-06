@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — The Environment Agency[^key-d45e718cdb92a8720168c0f322643174]
+## SCHEDULE 1 — The Environment Agency[^c-d45e718cdb92a8720168c0f322643174]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ Section 1.
 (3) The appropriate Minister may remove a member from that office if he is satisfied—
 
 - (a) that the member has been absent from meetings of the Agency for a period of more than three months without the permission of the Agency;
-- (b) that the member has been made[^key-030ee203650c2eccf1beedfea9e27fcc] bankrupt, that a debt relief order (under Part 7A of the Insolvency Act 1986) has been made in respect of him,[^key-78f9562ec0facf744d0388cf19f5ae57] that his estate has been sequestrated or that he has made a composition or arrangement with, or granted a trust deed for, his creditors; or
+- (b) that the member has been made[^c-030ee203650c2eccf1beedfea9e27fcc] bankrupt, that a debt relief order (under Part 7A of the Insolvency Act 1986) has been made in respect of him,[^c-78f9562ec0facf744d0388cf19f5ae57] that his estate has been sequestrated or that he has made a composition or arrangement with, or granted a trust deed for, his creditors; or
 - (c) that the member is unable or unfit to carry out the functions of a member.
 
 ### Chairman and deputy chairman
@@ -139,8 +139,8 @@ shall be regarded as a sufficient disclosure of his interest in relation to any 
 
 ## Annotations
 
-[^key-d45e718cdb92a8720168c0f322643174]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/1995/25/schedule/1): transfer of functions (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [5](https://www.legislation.gov.uk/uksi/2013/1821/article/5) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+[^c-d45e718cdb92a8720168c0f322643174]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/1995/25/schedule/1): transfer of functions (with effect in accordance with art. 1(3) of the amending S.I.) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [5](https://www.legislation.gov.uk/uksi/2013/1821/article/5) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
 
-[^key-030ee203650c2eccf1beedfea9e27fcc]: Textual amendment: Word in [Sch. 1 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/1/paragraph/1/3/b) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
+[^c-030ee203650c2eccf1beedfea9e27fcc]: Textual amendment: Word in [Sch. 1 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/1/paragraph/1/3/b) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
 
-[^key-78f9562ec0facf744d0388cf19f5ae57]: Textual amendment: Words in Sch. 1 para. 1(3)(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/33/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-78f9562ec0facf744d0388cf19f5ae57]: Textual amendment: Words in Sch. 1 para. 1(3)(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/33/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))

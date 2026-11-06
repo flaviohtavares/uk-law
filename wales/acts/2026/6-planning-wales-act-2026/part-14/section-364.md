@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 364. Fees and charges for applications and appeals to the Welsh Ministers[^key-f04683289f5d3a9c46ff9c15921d258a]
+## 364. Fees and charges for applications and appeals to the Welsh Ministers[^c-f04683289f5d3a9c46ff9c15921d258a]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f04683289f5d3a9c46ff9c15921d258a]: Commencement: S. 364 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f04683289f5d3a9c46ff9c15921d258a]: Commencement: S. 364 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

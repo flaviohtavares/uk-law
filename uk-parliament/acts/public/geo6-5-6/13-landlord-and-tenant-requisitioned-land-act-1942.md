@@ -191,7 +191,7 @@ and while any such agreement is in force, the foregoing provisions of this secti
 
 ## 10. Jurisdiction of court.
 
-(1) Subject to the provisions of section one hundred and fifteen of the[^c590959] [^c590960]County Courts Act 1959 (which provides for the removal into the High Court of any proceedings commenced in a county court), the jurisdiction of the court under this Act shall be exercised in England and Wales by the county court and in Northern Ireland[^key-61d2b47eddb939a9ee11fea2e8459ac2] by a county court.
+(1) Subject to the provisions of section one hundred and fifteen of the[^c590959] [^c590960]County Courts Act 1959 (which provides for the removal into the High Court of any proceedings commenced in a county court), the jurisdiction of the court under this Act shall be exercised in England and Wales by the county court and in Northern Ireland[^c-61d2b47eddb939a9ee11fea2e8459ac2] by a county court.
 
 ## 11. Leases to which this Act applies.
 
@@ -272,7 +272,7 @@ This Act may be cited as the Landlord and Tenant (Requisitioned Land) Act 1942.
 
 [^c590960]: Marginal citation: [1959 c. 22](https://www.legislation.gov.uk/ukpga/1959/22).
 
-[^key-61d2b47eddb939a9ee11fea2e8459ac2]: Textual amendment: Words in [s. 10](https://www.legislation.gov.uk/ukpga/Geo6/5-6/13/section/10) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 98](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/98); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-61d2b47eddb939a9ee11fea2e8459ac2]: Textual amendment: Words in [s. 10](https://www.legislation.gov.uk/ukpga/Geo6/5-6/13/section/10) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 98](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/98); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c590961]: Marginal citation: [1939 c. 75](https://www.legislation.gov.uk/ukpga/1939/75).
 

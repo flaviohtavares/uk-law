@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.192. Order to payor of income: administration[^key-414f72f70fe5e3ab967880ffe213e8ca]
+## 6.192. Order to payor of income: administration[^c-414f72f70fe5e3ab967880ffe213e8ca]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ he shall forthwith give notice of that fact to the trustee.
 
 ## Annotations
 
-[^key-414f72f70fe5e3ab967880ffe213e8ca]: Commencement: [Rule 6.192](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.192) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-414f72f70fe5e3ab967880ffe213e8ca]: Commencement: [Rule 6.192](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.192) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

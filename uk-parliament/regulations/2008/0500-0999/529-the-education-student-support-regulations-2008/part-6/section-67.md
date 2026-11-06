@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Current system students with full entitlement who are not 2008 cohort students[^key-581de717c410f1d0b6c2c8af3acae149]
+## 67. Current system students with full entitlement who are not 2008 cohort students[^c-581de717c410f1d0b6c2c8af3acae149]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-581de717c410f1d0b6c2c8af3acae149]: Commencement: Reg. 67 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-581de717c410f1d0b6c2c8af3acae149]: Commencement: Reg. 67 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

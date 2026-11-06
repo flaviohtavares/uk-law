@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Exceptions — police vehicles[^key-44850cc8ebd41931dea9f0abc59cfc60]
+## 8. Exceptions — police vehicles[^c-44850cc8ebd41931dea9f0abc59cfc60]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44850cc8ebd41931dea9f0abc59cfc60]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/169/regulation/8) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-44850cc8ebd41931dea9f0abc59cfc60]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/169/regulation/8) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

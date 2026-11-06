@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Cooperation and information sharing[^key-593c33f5647286b257d7ed49f94d835d][^key-ca8e99ecbd2d8a17577f4b7028ae2533]
+## 27. Cooperation and information sharing[^c-593c33f5647286b257d7ed49f94d835d][^c-ca8e99ecbd2d8a17577f4b7028ae2533]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-593c33f5647286b257d7ed49f94d835d]: Commencement: S. 27 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-593c33f5647286b257d7ed49f94d835d]: Commencement: S. 27 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-ca8e99ecbd2d8a17577f4b7028ae2533]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/30/section/27) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/k)
+[^c-ca8e99ecbd2d8a17577f4b7028ae2533]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/30/section/27) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(k)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/k)

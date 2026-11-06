@@ -33,7 +33,7 @@ Ecclesiastical Law, England
 
 Fees
 
-The Parochial Fees Order 2010 (revoked)[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+The Parochial Fees Order 2010 (revoked)[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 Made
 
@@ -51,80 +51,80 @@ Coming into force
 
 1st January 2011
 
-[^key-ac3c834bc8c9f39d64eacec6d5c791f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac3c834bc8c9f39d64eacec6d5c791f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+## 1. Citation and commencement[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed Fees[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+## 2. Prescribed Fees[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application of Part 2 of the Schedule[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+## 3. Application of Part 2 of the Schedule[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Defintitions[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+## 4. Defintitions[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation of 2009 Order[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+## 5. Revocation of 2009 Order[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ac3c834bc8c9f39d64eacec6d5c791f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac3c834bc8c9f39d64eacec6d5c791f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — FEES PRESCRIBED BY THIS ORDER[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+## SCHEDULE — FEES PRESCRIBED BY THIS ORDER[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
-### PART 1 — TABLE OF PAROCHIAL FEES[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+### PART 1 — TABLE OF PAROCHIAL FEES[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 Article 2
 
-### PART 2 — EXPLANATORY NOTES ON PART 1[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+### PART 2 — EXPLANATORY NOTES ON PART 1[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 Article 3
 
-#### 1. Burial on a separate occasion[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+#### 1. Burial on a separate occasion[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Burial of infant[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+#### 2. Burial of infant[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Funeral service[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+#### 3. Funeral service[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Burial of cremated remains in churches or closed churchyards[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+#### 4. Burial of cremated remains in churches or closed churchyards[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Monuments in churchyards[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+#### 5. Monuments in churchyards[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Direction by incumbent as to payment of fees[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+#### 6. Direction by incumbent as to payment of fees[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Searches in church registers etc.[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+#### 7. Searches in church registers etc.[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Services in crematoria and unconsecrated cemeteries[^key-ac3c834bc8c9f39d64eacec6d5c791f7]
+#### 8. Services in crematoria and unconsecrated cemeteries[^c-ac3c834bc8c9f39d64eacec6d5c791f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ac3c834bc8c9f39d64eacec6d5c791f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac3c834bc8c9f39d64eacec6d5c791f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ac3c834bc8c9f39d64eacec6d5c791f7]: Textual amendment: Order revoked (1.1.2013) by [The Parochial Fees and Scheduled Matters Amending Order 2012 (S.I. 2012/993)](https://www.legislation.gov.uk/uksi/2012/993), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/993/article/1/2), [4](https://www.legislation.gov.uk/uksi/2012/993/article/4)
+[^c-ac3c834bc8c9f39d64eacec6d5c791f7]: Textual amendment: Order revoked (1.1.2013) by [The Parochial Fees and Scheduled Matters Amending Order 2012 (S.I. 2012/993)](https://www.legislation.gov.uk/uksi/2012/993), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/993/article/1/2), [4](https://www.legislation.gov.uk/uksi/2012/993/article/4)

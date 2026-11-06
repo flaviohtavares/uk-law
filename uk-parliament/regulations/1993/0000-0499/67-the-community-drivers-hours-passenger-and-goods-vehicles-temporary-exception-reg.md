@@ -30,7 +30,7 @@ summary: ''
 
 ROAD TRAFFIC
 
-The Community Drivers' Hours (Passenger and Goods Vehicles) (Temporary Exception) Regulations 1993 (revoked)[^key-ed1dc296dc83b58f905572f1f335b8e7]
+The Community Drivers' Hours (Passenger and Goods Vehicles) (Temporary Exception) Regulations 1993 (revoked)[^c-ed1dc296dc83b58f905572f1f335b8e7]
 
 Made
 
@@ -44,20 +44,20 @@ Coming into force
 
 19th January 1993
 
-[^key-ed1dc296dc83b58f905572f1f335b8e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed1dc296dc83b58f905572f1f335b8e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-ed1dc296dc83b58f905572f1f335b8e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ed1dc296dc83b58f905572f1f335b8e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ed1dc296dc83b58f905572f1f335b8e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ed1dc296dc83b58f905572f1f335b8e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed1dc296dc83b58f905572f1f335b8e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed1dc296dc83b58f905572f1f335b8e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ed1dc296dc83b58f905572f1f335b8e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed1dc296dc83b58f905572f1f335b8e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ed1dc296dc83b58f905572f1f335b8e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1993/67) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-ed1dc296dc83b58f905572f1f335b8e7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1993/67) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

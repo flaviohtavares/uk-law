@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Pre-commencement consultation[^key-b844d62c8ea55fa53adb0fb4da620f8a]
+## 118. Pre-commencement consultation[^c-b844d62c8ea55fa53adb0fb4da620f8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b844d62c8ea55fa53adb0fb4da620f8a]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2017/29/section/118) in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/o)
+[^c-b844d62c8ea55fa53adb0fb4da620f8a]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2017/29/section/118) in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/o)

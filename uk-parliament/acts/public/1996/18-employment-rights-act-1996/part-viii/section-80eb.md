@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80EB. Rights during and after bereavement leave[^key-d6229adb87d5ab82e6a0827e471fdb56]
+## 80EB. Rights during and after bereavement leave[^c-d6229adb87d5ab82e6a0827e471fdb56]
 
 *Extent: E+W+S*
 
@@ -31,8 +31,8 @@ summary: ''
 - (a) maternity leave,
 - (b) paternity leave,
 - (c) adoption leave,
-- (d) shared parental leave, [^key-001733d210e8fcc75550dd4c3875ea4e]...
-- (e) parental leave , and[^key-cc6e1406c18d3b79e8db00fcf7169715]
+- (d) shared parental leave, [^c-001733d210e8fcc75550dd4c3875ea4e]...
+- (e) parental leave , and[^c-cc6e1406c18d3b79e8db00fcf7169715]
 - (f) neonatal care leave.
 
 (3) In subsection (1)(a), “terms and conditions of employment”—
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d6229adb87d5ab82e6a0827e471fdb56]: Textual amendment: Pt. 8 Ch. 4 inserted (18.1.2020) by [Parental Bereavement (Leave and Pay) Act 2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2018/24/section/2/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/2); [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-d6229adb87d5ab82e6a0827e471fdb56]: Textual amendment: Pt. 8 Ch. 4 inserted (18.1.2020) by [Parental Bereavement (Leave and Pay) Act 2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2018/24/section/2/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/2); [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-001733d210e8fcc75550dd4c3875ea4e]: Textual amendment: Word in s. 80EB(2)(d) omitted (17.1.2025) by virtue of [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 25(a)](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/25/a); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-001733d210e8fcc75550dd4c3875ea4e]: Textual amendment: Word in s. 80EB(2)(d) omitted (17.1.2025) by virtue of [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 25(a)](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/25/a); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
-[^key-cc6e1406c18d3b79e8db00fcf7169715]: Textual amendment: S. 80EB(2)(f) and word inserted (17.1.2025) by [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 25(b)](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/25/b); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-cc6e1406c18d3b79e8db00fcf7169715]: Textual amendment: S. 80EB(2)(f) and word inserted (17.1.2025) by [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 25(b)](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/25/b); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)

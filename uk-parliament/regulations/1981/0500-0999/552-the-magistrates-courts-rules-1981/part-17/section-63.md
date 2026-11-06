@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Notice of date of reception in custody and discharge[^key-6b329e061ede25344ba9c35d2275fe89]
+## 63. Notice of date of reception in custody and discharge[^c-6b329e061ede25344ba9c35d2275fe89]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b329e061ede25344ba9c35d2275fe89]: Textual amendment: [Rule 63](https://www.legislation.gov.uk/uksi/1981/552/rule/63) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(h)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/h)
+[^c-6b329e061ede25344ba9c35d2275fe89]: Textual amendment: [Rule 63](https://www.legislation.gov.uk/uksi/1981/552/rule/63) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(h)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/h)

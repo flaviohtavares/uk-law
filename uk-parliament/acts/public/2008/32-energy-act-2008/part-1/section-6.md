@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Terms and conditions[^key-877ba0850bdac85fc05b8ba8865a2507]
+## 6. Terms and conditions[^c-877ba0850bdac85fc05b8ba8865a2507]
 
 *Extent: E+W+S+N.I.*
 
-(1) A licence may be granted on such terms and subject to such conditions as the OGA[^key-cf0a8b4184ec2ee73b2c1ffc4d0db701] considers appropriate.
+(1) A licence may be granted on such terms and subject to such conditions as the OGA[^c-cf0a8b4184ec2ee73b2c1ffc4d0db701] considers appropriate.
 
 (2) The provisions of a licence may be expressed by reference to provision made in a Crown lease, and, in particular, may provide—
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-877ba0850bdac85fc05b8ba8865a2507]: Commencement: S. 6 in force at 13.11.2009 for specified purposes by [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-877ba0850bdac85fc05b8ba8865a2507]: Commencement: S. 6 in force at 13.11.2009 for specified purposes by [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
 
-[^key-cf0a8b4184ec2ee73b2c1ffc4d0db701]: Textual amendment: Word in s. 6 substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/44); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-cf0a8b4184ec2ee73b2c1ffc4d0db701]: Textual amendment: Word in s. 6 substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/44); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

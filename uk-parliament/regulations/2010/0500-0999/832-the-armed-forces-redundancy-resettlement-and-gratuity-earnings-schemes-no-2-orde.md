@@ -50,25 +50,25 @@ The Secretary of State, in exercise of the powers conferred by sections 1(1) and
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-4c420c15dec653adaf1b6e2e940c5aae]
+### 1. Citation and commencement[^c-4c420c15dec653adaf1b6e2e940c5aae]
 
 (1) This Order may be cited as the Armed Forces (Redundancy, Resettlement and Gratuity Earnings Schemes) (No. 2) Order 2010.
 
 (2) This Order shall come into force on 6th April 2010.
 
-### 2. Interpretation[^key-4b5c73b637f0f053bec8a37396dded9e]
+### 2. Interpretation[^c-4b5c73b637f0f053bec8a37396dded9e]
 
 In this Order—
 
-- “the AFPS 1975” means the occupational pension scheme set out in Schedules 1,3 and 4[^key-7c043a5b72b9e65b041e8abb793a0a22] to the: Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^f00002], the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010[^f00003] and the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^f00004];
-- “AFPS 2015” means the scheme established by the Armed Forces Pension Regulations 2014;[^key-dbf0a34f13354e77a2d6c489b51328f4]
+- “the AFPS 1975” means the occupational pension scheme set out in Schedules 1,3 and 4[^c-7c043a5b72b9e65b041e8abb793a0a22] to the: Naval and Marine Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^f00002], the Army Pensions (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Warrant 2010[^f00003] and the Air Force (Armed Forces Pension Scheme 1975 and Attributable Benefits Scheme) Order 2010[^f00004];
+- “AFPS 2015” means the scheme established by the Armed Forces Pension Regulations 2014;[^c-dbf0a34f13354e77a2d6c489b51328f4]
 - “active member” has the meaning given in section 124(1) of the Pensions Act 1995[^f00005] and, except where the context otherwise requires, refers to membership of the AFPS 1975;
 - “additional adoption leave” means leave which, in the opinion of the Defence Council, corresponds to additional adoption leave within the meaning of section 75B of the Employment Rights Act 1996[^f00006];
 - “additional maternity leave” means leave which, in the opinion of the Defence Council, corresponds to additional maternity leave within the meaning of section 73 of the Employment Rights Act 1996[^f00007];
-- [^key-c9c8ec6228a4ad2a8bf2f727aa802c98]...
+- [^c-c9c8ec6228a4ad2a8bf2f727aa802c98]...
 - “basic pay” has the meaning given by article 3;
 - “commitment period”, in relation to a member of the armed forces, means the term of service for which a person is enlisted or commissioned;
-- “flexible service” means one or both of the following types of service—[^key-c150d06bed237b80e1f713244fd8ce26]
+- “flexible service” means one or both of the following types of service—[^c-c150d06bed237b80e1f713244fd8ce26]
   - (a) part-time service;
   - (b) restricted separation service,
 
@@ -77,12 +77,12 @@ In this Order—
 - “ordinary maternity leave” means leave which, in the opinion of the Defence Council, corresponds—
   - (a) in relation to any period before 22nd August 1996, to leave under section 33 of the Employment Protection (Consolidation) Act 1978[^f00009]; and
   - (b) in relation to any period on or after 22nd August 1996, to leave under section 71 of the Employment Rights Act 1996[^f00010];
-- “[^key-04d1fc05b2d7dd205b33de4413261d12]**PSPJOA**” means the Public Service Pensions and Judicial Offices Act 2022;
+- “[^c-04d1fc05b2d7dd205b33de4413261d12]**PSPJOA**” means the Public Service Pensions and Judicial Offices Act 2022;
 - “part-time service” means—
   - (a) for enlisted members, a period of service where the member is serving in accordance with an arrangement under section 329(2)(ha) of the Armed Forces Act 2006;
   - (b) for members who are officers, a period of service on equivalent terms of service;
-- “[^key-c886116a68c3ed397ac6670cc6d2cb53]... paternity leave” means leave which, in the opinion of the Defence Council, corresponds to paternity leave within the meaning of regulation 4 or 8 of the Paternity and Adoption Leave Regulations 2002;
-- [^key-44bd9cc15c1b19b39a109c8dc3f43d67]...
+- “[^c-c886116a68c3ed397ac6670cc6d2cb53]... paternity leave” means leave which, in the opinion of the Defence Council, corresponds to paternity leave within the meaning of regulation 4 or 8 of the Paternity and Adoption Leave Regulations 2002;
+- [^c-44bd9cc15c1b19b39a109c8dc3f43d67]...
 - “pay” means “basic pay” in the service that is ceasing for a person of the member’s rank and seniority as at the last day of that service (whether the rank is substantive or acting);
 - “pension codes” means the tri service pension codes that specify the rates of pension and rates of compensation for injury or death which are attributable to service as recommended by the Armed Forces Pay Review Body and approved annually by the Government;
 - “public debt” means any debt owed to a civilian authority in the United Kingdom or disallowance including any over issue or advance of pay, pension or other emoluments made through an error as to the facts; or the sum required to make good any loss, deficiency or irregular expenditure of public money, any deficiency, loss, damage or destruction of public stores, buildings or other public property of which, after full investigation, no explanation satisfactory to the Defence Council is given by the person who is responsible for the same;
@@ -90,7 +90,7 @@ In this Order—
 - “reckonable service” means the period of service which may be counted for the purposes of calculating a pension under the AFPS 1975;
 - “**remediable service**” has the meaning given in section 1 of PSPJOA 2022, and refers to service in an employment or office that is pensionable service under the AFPS 1975, whether or not by virtue of section 2(1) of PSPJOA 2022;
 - “**remedy member**” means a member with remediable service in the AFPS 1975;
-- “the Armed Forces Redundancy Scheme 1975” means the redundancy arrangements that applied to members of the Armed Forces Pension Scheme prior to 10th February 2010 as set out in—[^key-99151091f036e97a6d9610ba81dee36f]
+- “the Armed Forces Redundancy Scheme 1975” means the redundancy arrangements that applied to members of the Armed Forces Pension Scheme prior to 10th February 2010 as set out in—[^c-99151091f036e97a6d9610ba81dee36f]
   - (a) Orders in Council made under section 3 of the Naval and Marine Pay and Pensions Act 1865;
   - (b) the Army Pensions Warrant 1977; and
   - (c) Orders and Regulations made under section 2(1) of the Air Force (Constitution) Act 1917;
@@ -99,15 +99,15 @@ In this Order—
   - (b) for members who are officers, a period of service on equivalent terms of service;
 - “service debt” means any debt owed to the armed forces or the sum required to make good any loss, deficiency or irregular expenditure of armed forces money of which after due investigation no explanation satisfactory to the Defence Council is given by the person who is responsible for the same.
 - “service reduction percentage” has the meaning given by article 2A;
-- “shared parental leave” means leave under section 75E or 75G of the Employment Rights Act 1996[^key-5f3cc4f7d87058b1bbfcd83216b77428] , or Articles 107E or107G of the Employment Rights (Northern Ireland) Order 1996.[^key-64270127f11e2dc60ebf0c71da956161]
+- “shared parental leave” means leave under section 75E or 75G of the Employment Rights Act 1996[^c-5f3cc4f7d87058b1bbfcd83216b77428] , or Articles 107E or107G of the Employment Rights (Northern Ireland) Order 1996.[^c-64270127f11e2dc60ebf0c71da956161]
 - “**transition date**” in relation to a transition member means—
   - (a) where the member has remediable service in a Scheme within the meaning of section 1 of PSPJOA 2022, 1st April 2022;
   - (b) in any other case, 1st April 2015;
-- “transition member” means a person—[^key-05ab758c2accddca9480b65bfc8428aa]
-  - (a) who is a member of the AFPS 1975 by virtue of their pensionable service under the AFPS 1975 before the member’s transition date[^key-1a080230ea1f7978104ac6d25a348ff4]; and
+- “transition member” means a person—[^c-05ab758c2accddca9480b65bfc8428aa]
+  - (a) who is a member of the AFPS 1975 by virtue of their pensionable service under the AFPS 1975 before the member’s transition date[^c-1a080230ea1f7978104ac6d25a348ff4]; and
   - (b) who is also a member of the AFPS 2015 by virtue of their pensionable service on and after the member’s transition date;
 
-### 2A. Meaning of “service reduction percentage”[^key-413da0030cdd8ec8343cf50939c146c8]
+### 2A. Meaning of “service reduction percentage”[^c-413da0030cdd8ec8343cf50939c146c8]
 
 (1) In the Scheme, the “service reduction percentage” in respect of a period of flexible service is given by the formula, expressed as a percentage—
 
@@ -120,9 +120,9 @@ where—
 
 (2) For the purposes of the Scheme, a period of flexible service ends and another begins when any change in the service reduction percentage occurs.
 
-### 3. Basic pay[^key-db896a5918cd8d039effefdcc5dcb244]
+### 3. Basic pay[^c-db896a5918cd8d039effefdcc5dcb244]
 
-(1)[^key-4c7c25c2ff2eb56abc26b4699264f533] “Basic pay” means—
+(1)[^c-4c7c25c2ff2eb56abc26b4699264f533] “Basic pay” means—
 
 - (a) pay for the member’s rank and seniority; and
 - (b) any other amount if and to the extent that the Defence Council has determined that it is to be treated as basic pay; but
@@ -132,11 +132,11 @@ where—
   - (iii) without prejudice to paragraphs (i) and (ii), any additional amounts payable to medical or dental officers; or
   - (iv) any description of payment that the Defence Council has determined is not to be treated as basic pay.
 
-(2)[^key-793f0dd60b3430684bb55df3603f8168] In the case of a person who has served on flexible terms during any period for which basic pay is to be calculated under paragraph (1), that person’s basic pay is to be calculated as though they had not served on flexible terms for that period.
+(2)[^c-793f0dd60b3430684bb55df3603f8168] In the case of a person who has served on flexible terms during any period for which basic pay is to be calculated under paragraph (1), that person’s basic pay is to be calculated as though they had not served on flexible terms for that period.
 
 ## PART 2 — THE ARMED FORCES REDUNDANCY SCHEME
 
-### 4. Interpretation of Part 2[^key-ff416beb3934bcea9df8fccc048f2695]
+### 4. Interpretation of Part 2[^c-ff416beb3934bcea9df8fccc048f2695]
 
 (1) The Scheme set out in this Part shall be known as the Armed Forces Redundancy Scheme 2010 (“the AFRS 2010”).
 
@@ -144,18 +144,18 @@ where—
 
 - “annual pay” means the person’s annual rate of basic pay;
 - “long service commitment” has the meaning given in article 8(1);
-- “member” means a person who was eligible to join the AFPS 1975 but, in relation to the army, does not include [^key-8a5974820853f2ba99caaa9ca51ebe8e]... an active member of the Gurkha Pension Scheme[^f00012], and references to service, in relation to service as a member of the armed forces, are to be read accordingly;
+- “member” means a person who was eligible to join the AFPS 1975 but, in relation to the army, does not include [^c-8a5974820853f2ba99caaa9ca51ebe8e]... an active member of the Gurkha Pension Scheme[^f00012], and references to service, in relation to service as a member of the armed forces, are to be read accordingly;
 - “one month’s pay” means the person’s annual pay divided by 12 and any reference to more than one month’s pay means that the figure for one month’s pay for that person is multiplied by the multiple (including fractions) of the months specified;
 - “redundancy reckonable service” is to be read in accordance with articles 6 and 7;
 - “short service commitment” has the meaning given in article 8(2).
 
-### 5. Redundancy[^key-9b6bec979b2cd340878a96eba6ac2f66]
+### 5. Redundancy[^c-9b6bec979b2cd340878a96eba6ac2f66]
 
 In this Part a reference to being treated for the purposes of the AFRS 2010 as having become redundant includes selection for redundancy as part of a programme for the planned reduction of the armed forces.
 
-### 6. Redundancy reckonable service[^key-c4e099c44872db3ac7186ea7756ef20e]
+### 6. Redundancy reckonable service[^c-c4e099c44872db3ac7186ea7756ef20e]
 
-(1) [^key-2cfe18c78ab16a87db6a79726c531ff2]..., “Redundancy reckonable service[^key-2bd9794e85d8623e8129cbecca066576]” in relation to a member of the armed forces, means, the aggregate of any period of service referred to in paragraphs (2) and (3), whether current or previous aggregated service[^key-dbb84c52304f6e99beee33ac31148824], but excluding any period which occurs before the member reaches the age of 18.
+(1) [^c-2cfe18c78ab16a87db6a79726c531ff2]..., “Redundancy reckonable service[^c-2bd9794e85d8623e8129cbecca066576]” in relation to a member of the armed forces, means, the aggregate of any period of service referred to in paragraphs (2) and (3), whether current or previous aggregated service[^c-dbb84c52304f6e99beee33ac31148824], but excluding any period which occurs before the member reaches the age of 18.
 
 (2) The service mentioned in paragraph (1) is any period during which the member is—
 
@@ -165,26 +165,26 @@ In this Part a reference to being treated for the purposes of the AFRS 2010 as h
 - (d) in receipt of statutory adoption pay;
 - (e) on ordinary adoption leave;
 - (f) on ordinary maternity leave;
-- (ff)[^key-207a315d3bf22d240dbd5063110d9152] on paid shared parental leave;
-- (g) on [^key-a6181456dd3c624bd172ecc9222cbdb0]... paternity leave; or
+- (ff)[^c-207a315d3bf22d240dbd5063110d9152] on paid shared parental leave;
+- (g) on [^c-a6181456dd3c624bd172ecc9222cbdb0]... paternity leave; or
 - (h) on unpaid leave for a period which the Defence Council has agreed beforehand can count for this purpose.
 
 (3) Where paragraph (4) applies, service includes any period during which the member is seconded to the United Nations, the North Atlantic Treaty Organisation, or any other arrangement with any other organisation or person under which a member may be seconded into other military service.
 
-(4)[^key-937d2c5c73b6e35dd4f5e1a36ddf3eae] This paragraph applies where the member—
+(4)[^c-937d2c5c73b6e35dd4f5e1a36ddf3eae] This paragraph applies where the member—
 
 - (a) is an active member of the AFPS 1975 on the day before the secondment commences;
 - (b) resumes service in the armed forces at the end of the period of secondment and again becomes an active member of the AFPS 1975; and
 - (c) is entitled to make a single lump sum payment calculated in accordance with the rules set out in the AFPS 1975 following a secondment to an organisation referred to in paragraph (3) to increase reckonable service.
 
-(4A)[^key-04e46c5f3de72aaba31092b60b132556] Where a person has served on flexible terms, the person’s relevant service for each period of such service, calculated for the purposes of paragraph (1), is reduced by the service reduction percentage applicable to that period of flexible service.
+(4A)[^c-04e46c5f3de72aaba31092b60b132556] Where a person has served on flexible terms, the person’s relevant service for each period of such service, calculated for the purposes of paragraph (1), is reduced by the service reduction percentage applicable to that period of flexible service.
 
 (5) In this article—
 
 - “current service” means service as a member of the armed forces which commenced on the date the member last became a member of the armed forces and continues without interruption until the day on which service in the armed forces terminates; and
-- “previous aggregated service” means a period of service as a member of the armed forces which terminated before current service began and which has been aggregated with the member’s current service under rule G.3, G.4 or G.5 of the Armed Forces Pension Scheme 1975.[^key-8b6df8f3f0ce0a78d70d660d0874ffce]
+- “previous aggregated service” means a period of service as a member of the armed forces which terminated before current service began and which has been aggregated with the member’s current service under rule G.3, G.4 or G.5 of the Armed Forces Pension Scheme 1975.[^c-8b6df8f3f0ce0a78d70d660d0874ffce]
 
-### 7. Redundancy reckonable service: supplemental[^key-0ad7cf3967ff9f139da7b55d65742639]
+### 7. Redundancy reckonable service: supplemental[^c-0ad7cf3967ff9f139da7b55d65742639]
 
 (1) In this Part references to periods of “redundancy reckonable service” are to calculated in accordance with paragraphs (2) to (4).
 
@@ -200,7 +200,7 @@ In this Part a reference to being treated for the purposes of the AFRS 2010 as h
 - (a) paragraph (2) applies with the omission of the words “complete years and”; and
 - (b) paragraph (3) applies with the omission of the words “in excess of the period of whole years”.
 
-### 8. Commitment periods[^key-ea4e1b6c455392afd29808bf114978f8]
+### 8. Commitment periods[^c-ea4e1b6c455392afd29808bf114978f8]
 
 (1) A member of the armed forces (“L”) has a long service commitment if the length of L’s redundancy reckonable service (had such service in the armed forces lasted until the end of L’s commitment period) would have been—
 
@@ -208,35 +208,35 @@ In this Part a reference to being treated for the purposes of the AFRS 2010 as h
   - (i) at least 16 years after L reached the age of 21; or
   - (ii) at least 18 years after L reached the age of 18;
 - (b) where L is not an officer, at least 18 years after L reached the age of 18;
-- (c)[^key-d391b54bf6b9c11f2720631ccef44916] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-d391b54bf6b9c11f2720631ccef44916] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A member of the armed forces (“S”) has a short service commitment if the length of S’s redundancy reckonable service (had such service lasted until the end of S’s commitment period) is less than a long service commitment under paragraph (1).
 
-### 9. Eligibility for redundancy payments[^key-5b1d22ffe9bc2bfd8cb1cf6b280ac5a1]
+### 9. Eligibility for redundancy payments[^c-5b1d22ffe9bc2bfd8cb1cf6b280ac5a1]
 
-(1) A member of the armed forces is entitled to a payment under article 10 if conditions A to E[^key-5d1aa788fae78603bbda8e661733029c] are met.
+(1) A member of the armed forces is entitled to a payment under article 10 if conditions A to E[^c-5d1aa788fae78603bbda8e661733029c] are met.
 
 (2) Condition A is that the person’s service as a member of the armed forces began before 6th April 2005.
 
 (3) Condition B is that the person is not an excluded person.
 
-(4)[^key-151e113652d6538ef731459551f584b8] Condition C is that the person—
+(4)[^c-151e113652d6538ef731459551f584b8] Condition C is that the person—
 
-- (a)[^key-a13db78b4d343fe5e120bd5b8c883299] has been notified by or on behalf of the Defence Council that their service is to be terminated and that they will be eligible for compensation under the AFRS 2010;
+- (a)[^c-a13db78b4d343fe5e120bd5b8c883299] has been notified by or on behalf of the Defence Council that their service is to be terminated and that they will be eligible for compensation under the AFRS 2010;
 - (b) is an officer holding at least the rank of Commodore, Brigadier or Air Commodore who has been notified by the Defence Council that they—
   - (i) are directed to take early retirement; and
   - (ii) will be eligible for compensation under AFRS 2010.
 
 (5) Condition D is that the person’s service as a member of the armed forces ceases, in pursuance of a notification mentioned in paragraph (4), on a date after 6th April 2010.
 
-(5A)[^key-e137709508e16f9c82412d612b29957b] Condition E is that the person is not entitled to an ill-health pension under the AFPS 1975.
+(5A)[^c-e137709508e16f9c82412d612b29957b] Condition E is that the person is not entitled to an ill-health pension under the AFPS 1975.
 
 (6) In paragraph (3) “excluded person” means—
 
 - (a) a person who is excluded by their terms and conditions of service from entitlement to payments under article 10, unless the Defence Council has agreed that they be treated as if those terms did not apply; or
-- (b)[^key-298818be7e0bc73ad1ccf6771305ee1d] a person who is an active member of the Armed Forces Pension Scheme 2005 or the AFPS 2015, or who has opted to cease to be an active member of either of these pension schemes.
+- (b)[^c-298818be7e0bc73ad1ccf6771305ee1d] a person who is an active member of the Armed Forces Pension Scheme 2005 or the AFPS 2015, or who has opted to cease to be an active member of either of these pension schemes.
 
-### 10. Entitlement to redundancy payments for those eligible under article 9[^key-34e6838edfe3749ce6bbf5da56fca6fb]
+### 10. Entitlement to redundancy payments for those eligible under article 9[^c-34e6838edfe3749ce6bbf5da56fca6fb]
 
 (1) A member of the armed forces who is eligible for a payment in accordance with article 9 (an “eligible person”) becomes entitled to a payment under this article when the eligible person ceases to be in service in the circumstances specified in article 9(5).
 
@@ -250,9 +250,9 @@ In this Part a reference to being treated for the purposes of the AFRS 2010 as h
 - (b) that lump sum would be liable to repayment under article 15; and
 - (c) that lump sum has not been repaid before the time when the eligible person would otherwise become entitled to the further lump sum.
 
-### 11. Amount of payment under article 10: leavers with long service commitments and insufficient redundancy reckonable service[^key-0aedcf2b15cc927b40b022ecc97efabc]
+### 11. Amount of payment under article 10: leavers with long service commitments and insufficient redundancy reckonable service[^c-0aedcf2b15cc927b40b022ecc97efabc]
 
-(1) Subject to articles 14 to 15[^key-9ed92f283e996c5e778caf672f6a2c76], if—
+(1) Subject to articles 14 to 15[^c-9ed92f283e996c5e778caf672f6a2c76], if—
 
 - (a) a member of the armed forces (L1) has a long service commitment, and
 - (b) upon ceasing service in the circumstances described in article 9(5), L1’s redundancy reckonable service is less than the relevant period of redundancy reckonable service specified in paragraph (2),
@@ -266,9 +266,9 @@ the amount to which L1 is entitled under article 10 is one-eighth of annual pay 
   - (ii) 18 years after L1 reached the age of 18; and
 - (b) where L1 is not an officer, 18 years after L1 reached the age of 18.
 
-### 12. Amount of payment under article 10: leavers with long service commitments and sufficient redundancy reckonable service[^key-53d1f232cad23147d5d7ce88954a02ad]
+### 12. Amount of payment under article 10: leavers with long service commitments and sufficient redundancy reckonable service[^c-53d1f232cad23147d5d7ce88954a02ad]
 
-(1) Subject to articles 14 to 15[^key-6865e0ce09d796cab3dba81ff9244a6d], if—
+(1) Subject to articles 14 to 15[^c-6865e0ce09d796cab3dba81ff9244a6d], if—
 
 - (a) a member of the armed forces (“L2”) has a long service commitment, and
 - (b) upon ceasing service in the circumstances described in article 9(5), L2’s redundancy reckonable service is at least the relevant period of redundancy reckonable service specified in paragraph (2),
@@ -287,30 +287,30 @@ the amount to which L2 is entitled under article 10 is calculated in accordance 
 - (a) “P” is the period after the time when service ceases in the circumstances described in article 9(5), for which L2 would have served, had L2 continued in the armed forces until the end of L2’s commitment period; and
 - (b) that period shall be calculated in accordance with article 7, as if “P” were redundancy reckonable service.
 
-(4)[^key-48e8117a821234062d8f7e901a1685da] Where L2 ceases service during the interim period, the amount to which L2 is entitled under article 10 is—
+(4)[^c-48e8117a821234062d8f7e901a1685da] Where L2 ceases service during the interim period, the amount to which L2 is entitled under article 10 is—
 
 - (a) where P is 3 years or more, 9 months’ pay; and
 - (b) where P is less than 3 years, 3 months’ pay multiplied by P.
 
-(5)[^key-70c4a06a131cb11df986e7644710abda] Where L2 ceases service after the interim period, the amount to which L2 is entitled under article 10 is —
+(5)[^c-70c4a06a131cb11df986e7644710abda] Where L2 ceases service after the interim period, the amount to which L2 is entitled under article 10 is —
 
 - (a) where P is 1 year or more, 3 months’ pay; and
 - (b) where P is less than 1 year, 3 months’ pay multiplied by P.
 
-(6) In this article “the interim period” means the period beginning on 6th April 2010 and ending with 31st December 2015[^key-13670222b8012b3b15d98215346eb255].
+(6) In this article “the interim period” means the period beginning on 6th April 2010 and ending with 31st December 2015[^c-13670222b8012b3b15d98215346eb255].
 
-### 13. Amount of payment under article 10: leavers with short service commitments[^key-d72db8c37a9a1edcf1c36c38e87030e1]
+### 13. Amount of payment under article 10: leavers with short service commitments[^c-d72db8c37a9a1edcf1c36c38e87030e1]
 
-(1)[^key-f8b47cb93457c9fca9daace10fc1865d] Subject to articles 14 to 15[^key-dea663ef64b6ee8f36350f71e4dd85f7], the amount payable under article 10 in the case of a member of the armed forces ceasing service in the circumstances described in article 9(5) who has a short service commitment (“S”) is the lower of—
+(1)[^c-f8b47cb93457c9fca9daace10fc1865d] Subject to articles 14 to 15[^c-dea663ef64b6ee8f36350f71e4dd85f7], the amount payable under article 10 in the case of a member of the armed forces ceasing service in the circumstances described in article 9(5) who has a short service commitment (“S”) is the lower of—
 
 - (a) one-eighth of annual pay for each year of S’s redundancy reckonable service; and
 - (b) the sum of—
   - (i) one-eighth of annual pay for each year that S would have served (after the time when S ceases service) had S continued to serve until the end of S’s commitment period; and
   - (ii) one-eighth of annual pay.
 
-(2)[^key-e054640012cd1d53ab5b5381f1ddcc13] In paragraph (1)(b)(i), each year that S would have served is to be calculated in accordance with article 7(2) to (4) as if references to redundancy reckonable service were references to uncompleted service.
+(2)[^c-e054640012cd1d53ab5b5381f1ddcc13] In paragraph (1)(b)(i), each year that S would have served is to be calculated in accordance with article 7(2) to (4) as if references to redundancy reckonable service were references to uncompleted service.
 
-### 14. Limit on article 10 payment where leaver has full AFPS 1975 entitlement[^key-aac229216221d38857af12f916a74f07]
+### 14. Limit on article 10 payment where leaver has full AFPS 1975 entitlement[^c-aac229216221d38857af12f916a74f07]
 
 (1) If a member of the armed forces who is entitled to a payment under article 10—
 
@@ -321,7 +321,7 @@ the amount of the lump sum payable under article 10 must not exceed 6 months’ 
 
 (2) In this article “maximum pension”, in relation to any person, means a pension calculated by reference to the highest number of years of reckonable service that may be used in that calculation.
 
-### 15. Effect of rejoining armed forces or entering certain reserve forces service[^key-facf7e2c8351a13a0790e2c45f7ce88b]
+### 15. Effect of rejoining armed forces or entering certain reserve forces service[^c-facf7e2c8351a13a0790e2c45f7ce88b]
 
 (1) This article applies where a person to whom a payment is made under article 10—
 
@@ -358,13 +358,13 @@ the person shall repay the relevant fraction of the payment received under artic
   - **RP** is the relevant period; and
   - **SB** is the service break.
 
-### 16. Effect of previous award on later award[^key-5c8ee866e07e119db5c7f8d42122065b][^key-14b17d985f72d45a0b458231fee6c05b]
+### 16. Effect of previous award on later award[^c-5c8ee866e07e119db5c7f8d42122065b][^c-14b17d985f72d45a0b458231fee6c05b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — THE ARMED FORCES GRATUITY EARNINGS SCHEME 2010
 
-### 17. Payments to persons serving on gratuity earning terms[^key-6eedf472253ba57f104fa90023b53ec9]
+### 17. Payments to persons serving on gratuity earning terms[^c-6eedf472253ba57f104fa90023b53ec9]
 
 (1) The Scheme set out in this Part shall be known as the Armed Forces Gratuity Earnings Scheme 2010.
 
@@ -386,7 +386,7 @@ the person shall repay the relevant fraction of the payment received under artic
 
 (8) Where a person in receipt of a gratuity rejoins service, in respect of which a pension is payable within 5 years of the commitment period coming to an end, the gratuity may be converted into pension under paragraph (6), if it is repaid within 12 months of rejoining.
 
-### 18. Calculating gratuity payment[^key-f35d9cfaf19f66c8febb60ae352f4eaf]
+### 18. Calculating gratuity payment[^c-f35d9cfaf19f66c8febb60ae352f4eaf]
 
 (1) Subject to articles 19 and 20, the gratuity payable under article 17(2), “the appropriate amount” is calculated in accordance with the following formula—
 
@@ -405,7 +405,7 @@ Where—
 - (c) a cadet or person who is not a registered medical or dental practitioner; or
 - (d) any other person.
 
-### 19. Authorised abatements from gratuity payment[^key-d7a5a30a1f18ea5058c0a1f661bc0166]
+### 19. Authorised abatements from gratuity payment[^c-d7a5a30a1f18ea5058c0a1f661bc0166]
 
 (1) Subject to article 22, any gratuity payable to a medical or dental officer—
 
@@ -416,7 +416,7 @@ shall be abated by a sum equivalent to the net amount of the education grant exp
 
 (2) Any public or service debt outstanding at the time of payment of a gratuity under article 17(2) may be abated prior to payment, subject to restrictions imposed by the Pensions Act 1995[^f00018].
 
-### 20. Impact of service on gratuity payment[^key-a9661c98e227119109e29a58643281be]
+### 20. Impact of service on gratuity payment[^c-a9661c98e227119109e29a58643281be]
 
 (1) Where a person ceases to serve before the end of the commitment period the Defence Council may substitute the commitment period for the number of complete years’ service in article 18(1).
 
@@ -424,16 +424,16 @@ shall be abated by a sum equivalent to the net amount of the education grant exp
 
 (3) Where a person has completed service under the commitment period, but this service is considered by the Defence Council to be unsatisfactory, the Defence Council may withhold the whole or part of the gratuity due.
 
-### 21. Maternity, adoption and paternity leave[^key-0f963b6cbc2a5b385ea8092a7c341c15]
+### 21. Maternity, adoption and paternity leave[^c-0f963b6cbc2a5b385ea8092a7c341c15]
 
 (1) When calculating service for the payment of a gratuity under article 17(2)—
 
-- (a)[^key-ac2cf9f6325e01be208b1ccf91c4481a] any period of paid ordinary maternity leave, paid shared parental leave[^key-d7919a1ec882470849667b3ff1be146c] paid paternity leave[^key-5344d15f54ecedbdc078a2b5909c231f] or paid ordinary adoption leave whether the pay is at the statutory minimum, reduced pay or full pay rate, will count as both qualifying and reckonable service;
-- (b) if, more than six months before expiry of the commitment period and as a result of pregnancy or the adoption of a child, a person decides to retire or fails to complete the commission after pre-natal leave, ordinary maternity leave, additional maternity leave shared parental leave,[^key-a9c82543ac63675236afc2a8116c7711] , [^key-c923c8b15719ba458bbc33c053abf8fc]...[^key-a6224fb3889431621093643c5512180d] paternity leave, ordinary adoption leave or additional adoption leave, the gratuity payment will be calculated pro rata.
+- (a)[^c-ac2cf9f6325e01be208b1ccf91c4481a] any period of paid ordinary maternity leave, paid shared parental leave[^c-d7919a1ec882470849667b3ff1be146c] paid paternity leave[^c-5344d15f54ecedbdc078a2b5909c231f] or paid ordinary adoption leave whether the pay is at the statutory minimum, reduced pay or full pay rate, will count as both qualifying and reckonable service;
+- (b) if, more than six months before expiry of the commitment period and as a result of pregnancy or the adoption of a child, a person decides to retire or fails to complete the commission after pre-natal leave, ordinary maternity leave, additional maternity leave shared parental leave,[^c-a9c82543ac63675236afc2a8116c7711] , [^c-c923c8b15719ba458bbc33c053abf8fc]...[^c-a6224fb3889431621093643c5512180d] paternity leave, ordinary adoption leave or additional adoption leave, the gratuity payment will be calculated pro rata.
 
 (2) In paragraph (1)(b), “pre-natal leave” means unpaid leave that is taken prior to the birth of a child.
 
-### 22. Death in service gratuity payment[^key-47da91b9e8f85f00aef0175442b8f29b]
+### 22. Death in service gratuity payment[^c-47da91b9e8f85f00aef0175442b8f29b]
 
 (1) Where a person to whom a lump sum would have been payable under article 17(2) dies in service the lump sum will be paid as follows—
 
@@ -450,18 +450,18 @@ shall be abated by a sum equivalent to the net amount of the education grant exp
 
 (4) Where the deceased is a member of the chaplaincy services, the Director General of the Naval Chaplaincy Services, the Chaplain General, or the Chaplain in Chief (RAF), the deceased is deemed to have held the rank of lieutenant commander, major or squadron leader, for the purposes of calculating the representative rate for the lump sum.
 
-### 23. Surviving eligible partner[^key-7fe4cc68bb8a682f7fa4e290167cbe05]
+### 23. Surviving eligible partner[^c-7fe4cc68bb8a682f7fa4e290167cbe05]
 
 A person is to be regarded as a surviving eligible partner of the deceased if the deceased left no surviving spouse or civil partner, but the person satisfies the Defence Council that at the time of the deceased’s death—
 
 - (a) their relationship was exclusive, committed and long term;
 - (b) their relationship was substantial;
-- (c)[^key-10f7ae3de84b30f03009e60b865b71c4] the person and the deceased were not prevented from—
+- (c)[^c-10f7ae3de84b30f03009e60b865b71c4] the person and the deceased were not prevented from—
   - (i) marrying, or prior to the date on which section 1 of the Marriage (Same Sex Couples) Act 2013 came fully into force would not have been so prevented apart from both being of the same sex, or
-  - (ii) forming a civil partnership, or prior the date on which the Civil Partnership (Opposite-sex Couples) Regulations 2019 came into force[^key-64759be92612cf6ff620463554960f0d] would not have been so prevented apart from being of the opposite sex to each other; and
+  - (ii) forming a civil partnership, or prior the date on which the Civil Partnership (Opposite-sex Couples) Regulations 2019 came into force[^c-64759be92612cf6ff620463554960f0d] would not have been so prevented apart from being of the opposite sex to each other; and
 - (d) either the person was financially dependent on the deceased or they were financially interdependent.
 
-### 24. Death in service short term pension[^key-913d09f65f44fa45c2d0550e9a594f44]
+### 24. Death in service short term pension[^c-913d09f65f44fa45c2d0550e9a594f44]
 
 (1) If a person dies in service with an entitlement to a gratuity under article 22 leaving a surviving spouse, civil partner or any eligible children, a short term pension shall be paid as follows—
 
@@ -476,7 +476,7 @@ A person is to be regarded as a surviving eligible partner of the deceased if th
 
 (3) Any persons irrespective of number, who qualify under the terms of paragraphs (1) or (2), shall be awarded a short term pension for the specified period.
 
-### 25. Eligible child[^key-627385fe36252a522ea6b5c4cecd1d0d]
+### 25. Eligible child[^c-627385fe36252a522ea6b5c4cecd1d0d]
 
 (1) An eligible child for the purposes of any payments under articles 22 and 24, is any child who meets one of the conditions under paragraphs (2) to (9) and any of Conditions A to C in paragraphs (11) to (13).
 
@@ -523,32 +523,32 @@ who was born before or within 9 months of the deceased’s death and who was or 
 
 (18) Any payments due in relation to an eligible child under paragraph (13) may be made to a person at the discretion of the Defence Council.
 
-### 26. Commuting service for teachers’ or NHS pension[^key-38a2357bde98ec2e8d83becca969a1e5]
+### 26. Commuting service for teachers’ or NHS pension[^c-38a2357bde98ec2e8d83becca969a1e5]
 
 A person serving under a short service commission who qualifies and opts for their service to be commuted as reckonable service into an existing scheme under sections 9 or 10 of the Superannuation Act 1972[^f00019] or articles 11 or 12 of the Superannuation (Northern Ireland) Order 1972[^f00020] will be responsible for the payment of both employer and employee contributions direct to the parent superannuation scheme as they fall due.
 
 ## PART 4 — THE ARMED FORCES RESETTLEMENT COMMUTATION SCHEME 2010
 
-### 27. Interpretation of Part 4[^key-8cba761d06523009695d407faf54ce66]
+### 27. Interpretation of Part 4[^c-8cba761d06523009695d407faf54ce66]
 
 (1) The Scheme set out in this Part shall be known as the Armed Forces Resettlement Commutation Scheme 2010 (“the AFRCS 2010”).
 
 (2) In this Part—
 
-- “ill-health pension” means—[^key-fe6183c4a946a54522cf634f72c65154]
+- “ill-health pension” means—[^c-fe6183c4a946a54522cf634f72c65154]
   - (a) service invaliding retired pay or pension under the AFPS 1975,
   - (b) an ill-health pension under regulation 51 of the Armed Forces Pension Regulations 2014, or
   - (c) an ill-health pension under regulation 52 of the Armed Forces Pension Regulations 2014.
 - “the life commutation scheme” is set out in rule J.7 of the AFPS 1975;
 - “the Scheme actuary” means the actuary appointed by or on behalf of the Defence Council to provide a consulting service on actuarial matters relevant to the AFRCS 2010.
 
-### 28. Application[^key-82cda2e9869e602261541938a692dc12]
+### 28. Application[^c-82cda2e9869e602261541938a692dc12]
 
-(1)[^key-46fd1b3ce5c98103b33b13a129a435e0] The AFRCS 2010 applies to persons serving in the armed forces before 6th April 2005, with an immediate entitlement to pension other than ill health pension, whose service ends on or after 6th April 2010.
+(1)[^c-46fd1b3ce5c98103b33b13a129a435e0] The AFRCS 2010 applies to persons serving in the armed forces before 6th April 2005, with an immediate entitlement to pension other than ill health pension, whose service ends on or after 6th April 2010.
 
-(2)[^key-cf3d01c790952212b121dcd535516c2c] This Part is subject to article 30A (remediable service).
+(2)[^c-cf3d01c790952212b121dcd535516c2c] This Part is subject to article 30A (remediable service).
 
-### 29. Resettlement Commutation[^key-1d6ac17f799f1af2a732b0f2bc584ab1]
+### 29. Resettlement Commutation[^c-1d6ac17f799f1af2a732b0f2bc584ab1]
 
 (1) A person may commute part of their pension, with restoration in full at age 55, to obtain an additional lump sum, subject to the following conditions—
 
@@ -558,18 +558,18 @@ A person serving under a short service commission who qualifies and opts for the
 
 (2) Commutation under both the life commutation scheme and the AFRCS 2010 is not permitted, except as stated under article 30(4).
 
-(3) [^key-677336082ffa2b7f0fd3132216dd8333]..., The option to commute under the AFRCS 2010 may only be exercised once and must be exercised on or before the last day of service.
+(3) [^c-677336082ffa2b7f0fd3132216dd8333]..., The option to commute under the AFRCS 2010 may only be exercised once and must be exercised on or before the last day of service.
 
-(4)[^key-ff5e4f689f731509d18aa7dfeeeb5bf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ff5e4f689f731509d18aa7dfeeeb5bf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Factors affecting the amount of commutable pension[^key-233589de453be84f6317bc3bfaa1108f]
+### 30. Factors affecting the amount of commutable pension[^c-233589de453be84f6317bc3bfaa1108f]
 
-(1) Subject to article 32, the maximum lump sum which can be commuted by a person ,not including a transition member,[^key-13495162ea57c392190be73304b9efab] shall be the difference between the lump sum awarded on leaving service and—
+(1) Subject to article 32, the maximum lump sum which can be commuted by a person ,not including a transition member,[^c-13495162ea57c392190be73304b9efab] shall be the difference between the lump sum awarded on leaving service and—
 
 - (a) in the case of officers, the 34 year rate, and
 - (b) in the case of someone who is not an officer, the 37 year rate,
 
-(1A)[^key-4c9b0061bf920068ad151d71ac8ececb] Subject to article 32, the maximum lump sum which can be commuted by a transition member is calculated by application of the following formula—
+(1A)[^c-4c9b0061bf920068ad151d71ac8ececb] Subject to article 32, the maximum lump sum which can be commuted by a transition member is calculated by application of the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2010/832)
 
@@ -598,7 +598,7 @@ set out in the pension codes at the date service ends.
 
 (7) In paragraph (5)(c), “preserved awards” refers to the preserved pension of a person who leaves service without being immediately entitled to a pension.
 
-### 30A. Remediable Service[^key-288a5185b274bc34a3e6d233d93e84ae]
+### 30A. Remediable Service[^c-288a5185b274bc34a3e6d233d93e84ae]
 
 (1) This article applies where a remedy member (“**M**”) has commuted part of their pension under this Part before 1st October 2023.
 
@@ -611,7 +611,7 @@ set out in the pension codes at the date service ends.
     - (aa) reckonable service in the AFPS 1975 does not include the period of remediable service in the AFPS 1975 in respect of which the decision was made, and
     - (bb) pensionable service in the AFPS 2015 includes the period of remediable service in the AFPS 1975 in respect of which the decision was made.
 
-### 31. Repayment of resettlement commutation and abatement[^key-c36ebdbb060d3983806af562eaf7430e]
+### 31. Repayment of resettlement commutation and abatement[^c-c36ebdbb060d3983806af562eaf7430e]
 
 (1) Where a person leaves the armed forces with an immediate entitlement to pension, (“the old service”) and later rejoins (“the new service”), that person’s pay under the new service, combined with the existing pension in respect of their old service, shall not exceed the rate of pay (uprated for inflation), on the day before their old service ended.
 
@@ -623,18 +623,18 @@ set out in the pension codes at the date service ends.
 
 (5) Any deductions under paragraphs (2) and (4) shall be made from pension, with any shortfall immediately repayable.
 
-### 32. Misconduct[^key-b9aaf0aa34808ee3b8a26768dac37f9e]
+### 32. Misconduct[^c-b9aaf0aa34808ee3b8a26768dac37f9e]
 
-(1)[^key-8a144cbad19d2d32afb2533e61486fcb] Where a person’s service ends by reason of misconduct, the amount payable as set out in the pension codes is—
+(1)[^c-8a144cbad19d2d32afb2533e61486fcb] Where a person’s service ends by reason of misconduct, the amount payable as set out in the pension codes is—
 
 - (a) in the case of officers, the difference between the lump sum for length of service based on the 34 year rate for premature voluntary retirement; and
 - (b) in the case of persons other than officers, the difference between the lump sum for length of service relating to misconduct and the 37 year rate.
 
-(2)[^key-79157a4bac4993c5a6ede8456e754b5c] For a transition member the figure denoted by **A** in article 30(1A) is replaced by the appropriate amount from paragraph (1).
+(2)[^c-79157a4bac4993c5a6ede8456e754b5c] For a transition member the figure denoted by **A** in article 30(1A) is replaced by the appropriate amount from paragraph (1).
 
 ## PART 5 — THE ARMED FORCES RESETTLEMENT GRANTS SCHEME 2010
 
-### 33. Interpretation of Part 5[^key-c995446fcacee0779305b8d37d7c4d5d]
+### 33. Interpretation of Part 5[^c-c995446fcacee0779305b8d37d7c4d5d]
 
 (1) The Scheme set out in this Part shall be known as the Armed Forces Resettlement Grants Scheme 2010 (“the AFRGS 2010”).
 
@@ -643,13 +643,13 @@ set out in the pension codes at the date service ends.
 - “opted-out” refers to a person who is an active member of the AFPS 1975 on the day on which this Order comes into force and later ceases to be such a member whilst remaining eligible to be such a member;
 - “special forces” means the Special Air Service, the Special Boat Service and the Special Reconnaissance and Surveillance Unit.
 
-### 34. Application[^key-2ce8d9b3d0b6f9f3947eef7a74d5cd44]
+### 34. Application[^c-2ce8d9b3d0b6f9f3947eef7a74d5cd44]
 
 The AFRGS 2010 applies to persons serving in the armed forces before 6th April 2005 in the circumstances set out in this Part.
 
-### 35. Entitlement to resettlement grants[^key-ec67fe0a8008d50d481ae517953e4a31]
+### 35. Entitlement to resettlement grants[^c-ec67fe0a8008d50d481ae517953e4a31]
 
-(1)[^key-ffb13fc8e357d8e6019950bdf721a4ef] A person who ceases to be in service as a member of the armed forces is entitled to a lump sum payment if the person—
+(1)[^c-ffb13fc8e357d8e6019950bdf721a4ef] A person who ceases to be in service as a member of the armed forces is entitled to a lump sum payment if the person—
 
 - (a) was, immediately before ceasing service, an active member of the AFPS 1975 or has opted-out;
 - (b) has the relevant years of service;
@@ -660,7 +660,7 @@ The AFRGS 2010 applies to persons serving in the armed forces before 6th April 2
   - (i) has not previously received a payment under the AFRGS 2010; or
   - (ii) has made a repayment in respect of a payment previously received in sub-paragraph (i).
 
-(2) For the purposes of paragraph (1)(b), the “relevant years of service[^key-cd4d25c468bbca4491309971af5c9a83]”—
+(2) For the purposes of paragraph (1)(b), the “relevant years of service[^c-cd4d25c468bbca4491309971af5c9a83]”—
 
 - (a) in the case of a person who on ceasing service has held the rank of an officer for at least 2 years, is 9 years after reaching the age of 21; and
 - (b) in the case of a person who is not an officer on ceasing service, is 12 years after reaching the age of 18.
@@ -678,9 +678,9 @@ The AFRGS 2010 applies to persons serving in the armed forces before 6th April 2
 
 (5) Where paragraph (1)(d)(ii) applies, the lump sum payable to a person following further service shall not exceed the proportion previously repaid.
 
-(6)[^key-bb31ce680497791f3b3746b880fc0233] Transition members are not entitled to a lump sum payment under regulation 16 of the EDP 2015.
+(6)[^c-bb31ce680497791f3b3746b880fc0233] Transition members are not entitled to a lump sum payment under regulation 16 of the EDP 2015.
 
-### 36. Obligation to repay resettlement grant on rejoining armed forces or entering certain reserve forces service[^key-035d5849b485f3dba7672cb6dbc148c5]
+### 36. Obligation to repay resettlement grant on rejoining armed forces or entering certain reserve forces service[^c-035d5849b485f3dba7672cb6dbc148c5]
 
 (1) Where a person receives a payment under article 35 and within a period of 121 days beginning with the date on which service ceases, rejoins the armed forces other than as a result of being recalled for service under the Reserve Forces Act 1980[^f00021] or Part 7 of the Reserve Forces Act 1996[^f00022], the person must repay the relevant fraction of the amount paid.
 
@@ -694,7 +694,7 @@ where “**a**” is the number of days beginning with the day after the person 
 
 ## PART 6 — TRANSITIONAL PROVISIONS
 
-### 37. Transitional Provisions for Part 4[^key-e7158d10f498c29aca6f8c634473e713]
+### 37. Transitional Provisions for Part 4[^c-e7158d10f498c29aca6f8c634473e713]
 
 (1) In this article, “the corresponding provisions” means—
 
@@ -704,7 +704,7 @@ where “**a**” is the number of days beginning with the day after the person 
 
 (2) In article 31, reference to a “lump sum under the AFRCS 2010” in paragraph (3) and to a “resettlement commutation” in paragraph (4) shall include a resettlement commutation paid under the corresponding provisions.
 
-### 38. Transitional Provisions for Part 5[^key-66d0b30cd169e41564155c43bc46bee9]
+### 38. Transitional Provisions for Part 5[^c-66d0b30cd169e41564155c43bc46bee9]
 
 (1) In this article, “the corresponding provisions” means—
 
@@ -718,7 +718,7 @@ where “**a**” is the number of days beginning with the day after the person 
 
 ## PART 7 — REVOCATION
 
-**39.**[^key-6f9492ff9b8bee8a575ee3a4401518d7] The Armed Forces (Redundancy, Resettlement and Gratuity Earnings Schemes) Order 2010 is revoked[^f00029].
+**39.**[^c-6f9492ff9b8bee8a575ee3a4401518d7] The Armed Forces (Redundancy, Resettlement and Gratuity Earnings Schemes) Order 2010 is revoked[^f00029].
 
 Kevan Jones
 
@@ -796,11 +796,11 @@ A full regulatory impact assessment has not been produced for the instrument as 
 
 [^f00001]: Footnote: [2004 c. 32](https://www.legislation.gov.uk/ukpga/2004/32).
 
-[^key-4c420c15dec653adaf1b6e2e940c5aae]: Commencement: Art. 1 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-4c420c15dec653adaf1b6e2e940c5aae]: Commencement: Art. 1 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-4b5c73b637f0f053bec8a37396dded9e]: Commencement: Art. 2 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-4b5c73b637f0f053bec8a37396dded9e]: Commencement: Art. 2 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-7c043a5b72b9e65b041e8abb793a0a22]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) substituted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [37(2)](https://www.legislation.gov.uk/uksi/2023/998/regulation/37/2)
+[^c-7c043a5b72b9e65b041e8abb793a0a22]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) substituted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [37(2)](https://www.legislation.gov.uk/uksi/2023/998/regulation/37/2)
 
 [^f00002]: Footnote: Order in Council made on the 10th February 2010.
 
@@ -808,7 +808,7 @@ A full regulatory impact assessment has not been produced for the instrument as 
 
 [^f00004]: Footnote: Queen’s Order made on the 17th February 2010.
 
-[^key-dbf0a34f13354e77a2d6c489b51328f4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [36(a)](https://www.legislation.gov.uk/uksi/2015/568/regulation/36/a)
+[^c-dbf0a34f13354e77a2d6c489b51328f4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [36(a)](https://www.legislation.gov.uk/uksi/2015/568/regulation/36/a)
 
 [^f00005]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
 
@@ -816,9 +816,9 @@ A full regulatory impact assessment has not been produced for the instrument as 
 
 [^f00007]: Footnote: Section 73 was substituted by section 7 and Part 1 of Schedule 4 to the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26); section 73(3) was substituted by section 11 and paragraph 32 of Schedule 1 to the Work and Families Act 2006 and section 73(5A) was inserted by sections 17(1) and (4) of the Employment Act 2002.
 
-[^key-c9c8ec6228a4ad2a8bf2f727aa802c98]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [21(2)(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/2/a) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-c9c8ec6228a4ad2a8bf2f727aa802c98]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [21(2)(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/2/a) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-c150d06bed237b80e1f713244fd8ce26]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) inserted (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [10](https://www.legislation.gov.uk/uksi/2020/1298/article/10)
+[^c-c150d06bed237b80e1f713244fd8ce26]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) inserted (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [10](https://www.legislation.gov.uk/uksi/2020/1298/article/10)
 
 [^f00008]: Footnote: Section 75A was inserted by section 3 of the Employment Act 2002; section 75B(2A) was inserted by section 11(1) and paragraph 33 of Schedule 1 to the Work and Families Act 2006.
 
@@ -826,207 +826,207 @@ A full regulatory impact assessment has not been produced for the instrument as 
 
 [^f00010]: Footnote: Section 71 was substituted by section 7 and Part 1 of Schedule 4 to the Employment Relations Act 1999; section 71(3) was substituted by section 11(1) and paragraph 31 of Schedule 1 to the Work and Families Act 2006; section 71(4) was amended by sections 17(1) and (2)(a) to (c) of the Employment Act 2002; section 71(7) was substituted by sections 17(1) and (3) of the Employment Act 2002.
 
-[^key-04d1fc05b2d7dd205b33de4413261d12]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [37(4)](https://www.legislation.gov.uk/uksi/2023/998/regulation/37/4)
+[^c-04d1fc05b2d7dd205b33de4413261d12]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [37(4)](https://www.legislation.gov.uk/uksi/2023/998/regulation/37/4)
 
-[^key-c886116a68c3ed397ac6670cc6d2cb53]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [21(2)(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/2/b) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-c886116a68c3ed397ac6670cc6d2cb53]: Textual amendment: Word in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [21(2)(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/2/b) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-44bd9cc15c1b19b39a109c8dc3f43d67]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) omitted (28.2.2011) by virtue of [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [7(a)](https://www.legislation.gov.uk/uksi/2011/208/article/7/a)
+[^c-44bd9cc15c1b19b39a109c8dc3f43d67]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) omitted (28.2.2011) by virtue of [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [7(a)](https://www.legislation.gov.uk/uksi/2011/208/article/7/a)
 
-[^key-99151091f036e97a6d9610ba81dee36f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) inserted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [7(b)](https://www.legislation.gov.uk/uksi/2011/208/article/7/b)
+[^c-99151091f036e97a6d9610ba81dee36f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) inserted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [7(b)](https://www.legislation.gov.uk/uksi/2011/208/article/7/b)
 
-[^key-5f3cc4f7d87058b1bbfcd83216b77428]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [21(2)(c)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/2/c)
+[^c-5f3cc4f7d87058b1bbfcd83216b77428]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [21(2)(c)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/2/c)
 
-[^key-64270127f11e2dc60ebf0c71da956161]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) inserted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2015/146/article/1/2), [18(2)](https://www.legislation.gov.uk/nisr/2015/146/article/18/2)
+[^c-64270127f11e2dc60ebf0c71da956161]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) inserted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2015/146/article/1/2), [18(2)](https://www.legislation.gov.uk/nisr/2015/146/article/18/2)
 
-[^key-05ab758c2accddca9480b65bfc8428aa]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [36(b)](https://www.legislation.gov.uk/uksi/2015/568/regulation/36/b)
+[^c-05ab758c2accddca9480b65bfc8428aa]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [36(b)](https://www.legislation.gov.uk/uksi/2015/568/regulation/36/b)
 
-[^key-1a080230ea1f7978104ac6d25a348ff4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) substituted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [37(3)](https://www.legislation.gov.uk/uksi/2023/998/regulation/37/3)
+[^c-1a080230ea1f7978104ac6d25a348ff4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2010/832/article/2) substituted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [37(3)](https://www.legislation.gov.uk/uksi/2023/998/regulation/37/3)
 
-[^key-413da0030cdd8ec8343cf50939c146c8]: Textual amendment: [Art. 2A](https://www.legislation.gov.uk/uksi/2010/832/article/2A) inserted (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [11](https://www.legislation.gov.uk/uksi/2020/1298/article/11)
+[^c-413da0030cdd8ec8343cf50939c146c8]: Textual amendment: [Art. 2A](https://www.legislation.gov.uk/uksi/2010/832/article/2A) inserted (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [11](https://www.legislation.gov.uk/uksi/2020/1298/article/11)
 
-[^key-db896a5918cd8d039effefdcc5dcb244]: Commencement: Art. 3 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-db896a5918cd8d039effefdcc5dcb244]: Commencement: Art. 3 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-4c7c25c2ff2eb56abc26b4699264f533]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2010/832/article/3) renumbered as art. 3(1) (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [12(1)](https://www.legislation.gov.uk/uksi/2020/1298/article/12/1)
+[^c-4c7c25c2ff2eb56abc26b4699264f533]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2010/832/article/3) renumbered as art. 3(1) (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [12(1)](https://www.legislation.gov.uk/uksi/2020/1298/article/12/1)
 
-[^key-793f0dd60b3430684bb55df3603f8168]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2010/832/article/3/2) inserted (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2020/1298/article/12/2)
+[^c-793f0dd60b3430684bb55df3603f8168]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2010/832/article/3/2) inserted (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2020/1298/article/12/2)
 
-[^key-ff416beb3934bcea9df8fccc048f2695]: Commencement: Art. 4 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-ff416beb3934bcea9df8fccc048f2695]: Commencement: Art. 4 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-8a5974820853f2ba99caaa9ca51ebe8e]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2010/832/article/4) omitted (28.2.2011) by virtue of [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [8](https://www.legislation.gov.uk/uksi/2011/208/article/8)
+[^c-8a5974820853f2ba99caaa9ca51ebe8e]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2010/832/article/4) omitted (28.2.2011) by virtue of [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [8](https://www.legislation.gov.uk/uksi/2011/208/article/8)
 
 [^f00012]: Footnote: Constituted by the Royal Warrant of 19th December 1949 (see Army Order 151 of 1949).
 
-[^key-9b6bec979b2cd340878a96eba6ac2f66]: Commencement: Art. 5 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-9b6bec979b2cd340878a96eba6ac2f66]: Commencement: Art. 5 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-c4e099c44872db3ac7186ea7756ef20e]: Commencement: Art. 6 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-c4e099c44872db3ac7186ea7756ef20e]: Commencement: Art. 6 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-2cfe18c78ab16a87db6a79726c531ff2]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2010/832/article/6/1) omitted (10.1.2012) by virtue of [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2011/3013/article/4/1/a)
+[^c-2cfe18c78ab16a87db6a79726c531ff2]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2010/832/article/6/1) omitted (10.1.2012) by virtue of [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2011/3013/article/4/1/a)
 
-[^key-2bd9794e85d8623e8129cbecca066576]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2010/832/article/6/1) substituted (10.1.2012) by [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2011/3013/article/4/1/b)
+[^c-2bd9794e85d8623e8129cbecca066576]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2010/832/article/6/1) substituted (10.1.2012) by [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2011/3013/article/4/1/b)
 
-[^key-dbb84c52304f6e99beee33ac31148824]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2010/832/article/6/1) substituted (10.1.2012) by [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [4(1)(c)](https://www.legislation.gov.uk/uksi/2011/3013/article/4/1/c)
+[^c-dbb84c52304f6e99beee33ac31148824]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2010/832/article/6/1) substituted (10.1.2012) by [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [4(1)(c)](https://www.legislation.gov.uk/uksi/2011/3013/article/4/1/c)
 
-[^key-207a315d3bf22d240dbd5063110d9152]: Textual amendment: [Art. 6(2)(ff)](https://www.legislation.gov.uk/uksi/2010/832/article/6/2/ff) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/3/a)
+[^c-207a315d3bf22d240dbd5063110d9152]: Textual amendment: [Art. 6(2)(ff)](https://www.legislation.gov.uk/uksi/2010/832/article/6/2/ff) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/3/a)
 
-[^key-a6181456dd3c624bd172ecc9222cbdb0]: Textual amendment: Words in [art. 6(2)(g)](https://www.legislation.gov.uk/uksi/2010/832/article/6/2/g) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [21(3)(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/3/b) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-a6181456dd3c624bd172ecc9222cbdb0]: Textual amendment: Words in [art. 6(2)(g)](https://www.legislation.gov.uk/uksi/2010/832/article/6/2/g) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [21(3)(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/3/b) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-937d2c5c73b6e35dd4f5e1a36ddf3eae]: Textual amendment: [Art. 6(4)](https://www.legislation.gov.uk/uksi/2010/832/article/6/4) substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2011/208/article/9/2)
+[^c-937d2c5c73b6e35dd4f5e1a36ddf3eae]: Textual amendment: [Art. 6(4)](https://www.legislation.gov.uk/uksi/2010/832/article/6/4) substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2011/208/article/9/2)
 
-[^key-04e46c5f3de72aaba31092b60b132556]: Textual amendment: [Art. 6(4A)](https://www.legislation.gov.uk/uksi/2010/832/article/6/4A) inserted (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [13](https://www.legislation.gov.uk/uksi/2020/1298/article/13)
+[^c-04e46c5f3de72aaba31092b60b132556]: Textual amendment: [Art. 6(4A)](https://www.legislation.gov.uk/uksi/2010/832/article/6/4A) inserted (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [13](https://www.legislation.gov.uk/uksi/2020/1298/article/13)
 
-[^key-8b6df8f3f0ce0a78d70d660d0874ffce]: Textual amendment: Words in [art. 6(5)](https://www.legislation.gov.uk/uksi/2010/832/article/6/5) substituted (10.1.2012) by [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/3013/article/4/2)
+[^c-8b6df8f3f0ce0a78d70d660d0874ffce]: Textual amendment: Words in [art. 6(5)](https://www.legislation.gov.uk/uksi/2010/832/article/6/5) substituted (10.1.2012) by [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/3013/article/4/2)
 
-[^key-0ad7cf3967ff9f139da7b55d65742639]: Commencement: Art. 7 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-0ad7cf3967ff9f139da7b55d65742639]: Commencement: Art. 7 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-ea4e1b6c455392afd29808bf114978f8]: Commencement: Art. 8 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-ea4e1b6c455392afd29808bf114978f8]: Commencement: Art. 8 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-d391b54bf6b9c11f2720631ccef44916]: Textual amendment: [Art. 8(1)(c)](https://www.legislation.gov.uk/uksi/2010/832/article/8/1/c) omitted (28.2.2011) by virtue of [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [10](https://www.legislation.gov.uk/uksi/2011/208/article/10)
+[^c-d391b54bf6b9c11f2720631ccef44916]: Textual amendment: [Art. 8(1)(c)](https://www.legislation.gov.uk/uksi/2010/832/article/8/1/c) omitted (28.2.2011) by virtue of [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [10](https://www.legislation.gov.uk/uksi/2011/208/article/10)
 
-[^key-5b1d22ffe9bc2bfd8cb1cf6b280ac5a1]: Commencement: Art. 9 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-5b1d22ffe9bc2bfd8cb1cf6b280ac5a1]: Commencement: Art. 9 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-5d1aa788fae78603bbda8e661733029c]: Textual amendment: Word in [art. 9(1)](https://www.legislation.gov.uk/uksi/2010/832/article/9/1) substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [11(1)](https://www.legislation.gov.uk/uksi/2011/208/article/11/1)
+[^c-5d1aa788fae78603bbda8e661733029c]: Textual amendment: Word in [art. 9(1)](https://www.legislation.gov.uk/uksi/2010/832/article/9/1) substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [11(1)](https://www.legislation.gov.uk/uksi/2011/208/article/11/1)
 
-[^key-151e113652d6538ef731459551f584b8]: Textual amendment: [Art. 9(4)](https://www.legislation.gov.uk/uksi/2010/832/article/9/4) substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2011/208/article/11/2)
+[^c-151e113652d6538ef731459551f584b8]: Textual amendment: [Art. 9(4)](https://www.legislation.gov.uk/uksi/2010/832/article/9/4) substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2011/208/article/11/2)
 
-[^key-a13db78b4d343fe5e120bd5b8c883299]: Textual amendment: [Art. 9(4)(a)](https://www.legislation.gov.uk/uksi/2010/832/article/9/4/a) substituted (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [14(a)](https://www.legislation.gov.uk/uksi/2020/1298/article/14/a)
+[^c-a13db78b4d343fe5e120bd5b8c883299]: Textual amendment: [Art. 9(4)(a)](https://www.legislation.gov.uk/uksi/2010/832/article/9/4/a) substituted (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [14(a)](https://www.legislation.gov.uk/uksi/2020/1298/article/14/a)
 
-[^key-e137709508e16f9c82412d612b29957b]: Textual amendment: [Art. 9(5A)](https://www.legislation.gov.uk/uksi/2010/832/article/9/5A) substituted (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [14(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/14/b)
+[^c-e137709508e16f9c82412d612b29957b]: Textual amendment: [Art. 9(5A)](https://www.legislation.gov.uk/uksi/2010/832/article/9/5A) substituted (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [14(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/14/b)
 
-[^key-298818be7e0bc73ad1ccf6771305ee1d]: Textual amendment: [Art. 9(6)(b)](https://www.legislation.gov.uk/uksi/2010/832/article/9/6/b) substituted (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [14(c)](https://www.legislation.gov.uk/uksi/2020/1298/article/14/c)
+[^c-298818be7e0bc73ad1ccf6771305ee1d]: Textual amendment: [Art. 9(6)(b)](https://www.legislation.gov.uk/uksi/2010/832/article/9/6/b) substituted (1.1.2021) by [The Armed Forces Redundancy Scheme Order 2020 (S.I. 2020/1298)](https://www.legislation.gov.uk/uksi/2020/1298), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1), [14(c)](https://www.legislation.gov.uk/uksi/2020/1298/article/14/c)
 
-[^key-34e6838edfe3749ce6bbf5da56fca6fb]: Commencement: Art. 10 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-34e6838edfe3749ce6bbf5da56fca6fb]: Commencement: Art. 10 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-0aedcf2b15cc927b40b022ecc97efabc]: Commencement: Art. 11 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-0aedcf2b15cc927b40b022ecc97efabc]: Commencement: Art. 11 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-9ed92f283e996c5e778caf672f6a2c76]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/uksi/2010/832/article/11) substituted (10.1.2012) by [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [5](https://www.legislation.gov.uk/uksi/2011/3013/article/5)
+[^c-9ed92f283e996c5e778caf672f6a2c76]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/uksi/2010/832/article/11) substituted (10.1.2012) by [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [5](https://www.legislation.gov.uk/uksi/2011/3013/article/5)
 
-[^key-53d1f232cad23147d5d7ce88954a02ad]: Commencement: Art. 12 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-53d1f232cad23147d5d7ce88954a02ad]: Commencement: Art. 12 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-6865e0ce09d796cab3dba81ff9244a6d]: Textual amendment: Words in [art. 12](https://www.legislation.gov.uk/uksi/2010/832/article/12) substituted (10.1.2012) by [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [5](https://www.legislation.gov.uk/uksi/2011/3013/article/5)
+[^c-6865e0ce09d796cab3dba81ff9244a6d]: Textual amendment: Words in [art. 12](https://www.legislation.gov.uk/uksi/2010/832/article/12) substituted (10.1.2012) by [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [5](https://www.legislation.gov.uk/uksi/2011/3013/article/5)
 
-[^key-48e8117a821234062d8f7e901a1685da]: Textual amendment: [Art. 12(4)](https://www.legislation.gov.uk/uksi/2010/832/article/12/4) substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [12(1)](https://www.legislation.gov.uk/uksi/2011/208/article/12/1)
+[^c-48e8117a821234062d8f7e901a1685da]: Textual amendment: [Art. 12(4)](https://www.legislation.gov.uk/uksi/2010/832/article/12/4) substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [12(1)](https://www.legislation.gov.uk/uksi/2011/208/article/12/1)
 
-[^key-70c4a06a131cb11df986e7644710abda]: Textual amendment: [Art. 12(5)](https://www.legislation.gov.uk/uksi/2010/832/article/12/5) substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2011/208/article/12/2)
+[^c-70c4a06a131cb11df986e7644710abda]: Textual amendment: [Art. 12(5)](https://www.legislation.gov.uk/uksi/2010/832/article/12/5) substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2011/208/article/12/2)
 
-[^key-13670222b8012b3b15d98215346eb255]: Textual amendment: Words in [art. 12(6)](https://www.legislation.gov.uk/uksi/2010/832/article/12/6) substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [12(3)](https://www.legislation.gov.uk/uksi/2011/208/article/12/3)
+[^c-13670222b8012b3b15d98215346eb255]: Textual amendment: Words in [art. 12(6)](https://www.legislation.gov.uk/uksi/2010/832/article/12/6) substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [12(3)](https://www.legislation.gov.uk/uksi/2011/208/article/12/3)
 
-[^key-d72db8c37a9a1edcf1c36c38e87030e1]: Commencement: Art. 13 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-d72db8c37a9a1edcf1c36c38e87030e1]: Commencement: Art. 13 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-f8b47cb93457c9fca9daace10fc1865d]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/uksi/2010/832/article/13/1) renumbered as art. 13(1) (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [13(1)](https://www.legislation.gov.uk/uksi/2011/208/article/13/1)
+[^c-f8b47cb93457c9fca9daace10fc1865d]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/uksi/2010/832/article/13/1) renumbered as art. 13(1) (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [13(1)](https://www.legislation.gov.uk/uksi/2011/208/article/13/1)
 
-[^key-dea663ef64b6ee8f36350f71e4dd85f7]: Textual amendment: Words in [art. 13](https://www.legislation.gov.uk/uksi/2010/832/article/13) substituted (10.1.2012) by [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [5](https://www.legislation.gov.uk/uksi/2011/3013/article/5)
+[^c-dea663ef64b6ee8f36350f71e4dd85f7]: Textual amendment: Words in [art. 13](https://www.legislation.gov.uk/uksi/2010/832/article/13) substituted (10.1.2012) by [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [5](https://www.legislation.gov.uk/uksi/2011/3013/article/5)
 
-[^key-e054640012cd1d53ab5b5381f1ddcc13]: Textual amendment: [Art. 13(2)](https://www.legislation.gov.uk/uksi/2010/832/article/13/2) inserted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [13(2)](https://www.legislation.gov.uk/uksi/2011/208/article/13/2)
+[^c-e054640012cd1d53ab5b5381f1ddcc13]: Textual amendment: [Art. 13(2)](https://www.legislation.gov.uk/uksi/2010/832/article/13/2) inserted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [13(2)](https://www.legislation.gov.uk/uksi/2011/208/article/13/2)
 
-[^key-aac229216221d38857af12f916a74f07]: Commencement: Art. 14 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-aac229216221d38857af12f916a74f07]: Commencement: Art. 14 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-facf7e2c8351a13a0790e2c45f7ce88b]: Commencement: Art. 15 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-facf7e2c8351a13a0790e2c45f7ce88b]: Commencement: Art. 15 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
 [^f00014]: Footnote: [1980 c. 9](https://www.legislation.gov.uk/ukpga/1980/9).
 
 [^f00015]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).
 
-[^key-5c8ee866e07e119db5c7f8d42122065b]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/uksi/2010/832/article/16) revoked (10.1.2012) by [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [6](https://www.legislation.gov.uk/uksi/2011/3013/article/6)
+[^c-5c8ee866e07e119db5c7f8d42122065b]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/uksi/2010/832/article/16) revoked (10.1.2012) by [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [6](https://www.legislation.gov.uk/uksi/2011/3013/article/6)
 
-[^key-14b17d985f72d45a0b458231fee6c05b]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/uksi/2010/832/article/16) heading substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [14(1)](https://www.legislation.gov.uk/uksi/2011/208/article/14/1)
+[^c-14b17d985f72d45a0b458231fee6c05b]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/uksi/2010/832/article/16) heading substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [14(1)](https://www.legislation.gov.uk/uksi/2011/208/article/14/1)
 
-[^key-6eedf472253ba57f104fa90023b53ec9]: Commencement: Art. 17 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-6eedf472253ba57f104fa90023b53ec9]: Commencement: Art. 17 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
 [^f00016]: Footnote: [S.I. 2005/438](https://www.legislation.gov.uk/uksi/2005/438)
 
 [^f00017]: Footnote: [2005 c. 14](https://www.legislation.gov.uk/ukpga/2005/14).
 
-[^key-f35d9cfaf19f66c8febb60ae352f4eaf]: Commencement: Art. 18 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-f35d9cfaf19f66c8febb60ae352f4eaf]: Commencement: Art. 18 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-d7a5a30a1f18ea5058c0a1f661bc0166]: Commencement: Art. 19 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-d7a5a30a1f18ea5058c0a1f661bc0166]: Commencement: Art. 19 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
 [^f00018]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-a9661c98e227119109e29a58643281be]: Commencement: Art. 20 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-a9661c98e227119109e29a58643281be]: Commencement: Art. 20 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-0f963b6cbc2a5b385ea8092a7c341c15]: Commencement: Art. 21 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-0f963b6cbc2a5b385ea8092a7c341c15]: Commencement: Art. 21 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-ac2cf9f6325e01be208b1ccf91c4481a]: Textual amendment: [Art. 21(1)(a)](https://www.legislation.gov.uk/uksi/2010/832/article/21/1/a) substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [15(a)](https://www.legislation.gov.uk/uksi/2011/208/article/15/a)
+[^c-ac2cf9f6325e01be208b1ccf91c4481a]: Textual amendment: [Art. 21(1)(a)](https://www.legislation.gov.uk/uksi/2010/832/article/21/1/a) substituted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [15(a)](https://www.legislation.gov.uk/uksi/2011/208/article/15/a)
 
-[^key-d7919a1ec882470849667b3ff1be146c]: Textual amendment: Words in [art. 21(1)(a)](https://www.legislation.gov.uk/uksi/2010/832/article/21/1/a) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [21(4)(a)(i)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/4/a/i)
+[^c-d7919a1ec882470849667b3ff1be146c]: Textual amendment: Words in [art. 21(1)(a)](https://www.legislation.gov.uk/uksi/2010/832/article/21/1/a) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [21(4)(a)(i)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/4/a/i)
 
-[^key-5344d15f54ecedbdc078a2b5909c231f]: Textual amendment: Words in [art. 21(1)(a)](https://www.legislation.gov.uk/uksi/2010/832/article/21/1/a) substituted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [21(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/4/a/ii) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-5344d15f54ecedbdc078a2b5909c231f]: Textual amendment: Words in [art. 21(1)(a)](https://www.legislation.gov.uk/uksi/2010/832/article/21/1/a) substituted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [21(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/4/a/ii) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-a9c82543ac63675236afc2a8116c7711]: Textual amendment: Words in [art. 21(1)(b)](https://www.legislation.gov.uk/uksi/2010/832/article/21/1/b) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [21(4)(b)(i)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/4/b/i)
+[^c-a9c82543ac63675236afc2a8116c7711]: Textual amendment: Words in [art. 21(1)(b)](https://www.legislation.gov.uk/uksi/2010/832/article/21/1/b) inserted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [21(4)(b)(i)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/4/b/i)
 
-[^key-c923c8b15719ba458bbc33c053abf8fc]: Textual amendment: Words in [art. 21(1)(b)](https://www.legislation.gov.uk/uksi/2010/832/article/21/1/b) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [21(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/4/b/ii) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-c923c8b15719ba458bbc33c053abf8fc]: Textual amendment: Words in [art. 21(1)(b)](https://www.legislation.gov.uk/uksi/2010/832/article/21/1/b) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [21(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3255/article/21/4/b/ii) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-a6224fb3889431621093643c5512180d]: Textual amendment: Words in [art. 21(1)(b)](https://www.legislation.gov.uk/uksi/2010/832/article/21/1/b) inserted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [15(b)](https://www.legislation.gov.uk/uksi/2011/208/article/15/b)
+[^c-a6224fb3889431621093643c5512180d]: Textual amendment: Words in [art. 21(1)(b)](https://www.legislation.gov.uk/uksi/2010/832/article/21/1/b) inserted (28.2.2011) by [The Armed Forces Redundancy Scheme 2006 and the Armed Forces Redundancy Etc. Schemes 2010 (Amendment) Order 2011 (S.I. 2011/208)](https://www.legislation.gov.uk/uksi/2011/208), [arts. 1](https://www.legislation.gov.uk/uksi/2011/208/article/1), [15(b)](https://www.legislation.gov.uk/uksi/2011/208/article/15/b)
 
-[^key-47da91b9e8f85f00aef0175442b8f29b]: Commencement: Art. 22 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-47da91b9e8f85f00aef0175442b8f29b]: Commencement: Art. 22 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-7fe4cc68bb8a682f7fa4e290167cbe05]: Commencement: Art. 23 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-7fe4cc68bb8a682f7fa4e290167cbe05]: Commencement: Art. 23 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-10f7ae3de84b30f03009e60b865b71c4]: Textual amendment: [Art. 23(c)](https://www.legislation.gov.uk/uksi/2010/832/article/23/c) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/46)
+[^c-10f7ae3de84b30f03009e60b865b71c4]: Textual amendment: [Art. 23(c)](https://www.legislation.gov.uk/uksi/2010/832/article/23/c) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/46)
 
-[^key-64759be92612cf6ff620463554960f0d]: Textual amendment: Words in [art. 23(c)(ii)](https://www.legislation.gov.uk/uksi/2010/832/article/23/c/ii) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 114](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/114)
+[^c-64759be92612cf6ff620463554960f0d]: Textual amendment: Words in [art. 23(c)(ii)](https://www.legislation.gov.uk/uksi/2010/832/article/23/c/ii) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 114](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/114)
 
-[^key-913d09f65f44fa45c2d0550e9a594f44]: Commencement: Art. 24 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-913d09f65f44fa45c2d0550e9a594f44]: Commencement: Art. 24 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-627385fe36252a522ea6b5c4cecd1d0d]: Commencement: Art. 25 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-627385fe36252a522ea6b5c4cecd1d0d]: Commencement: Art. 25 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-38a2357bde98ec2e8d83becca969a1e5]: Commencement: Art. 26 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-38a2357bde98ec2e8d83becca969a1e5]: Commencement: Art. 26 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
 [^f00019]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
 [^f00020]: Footnote: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
 
-[^key-8cba761d06523009695d407faf54ce66]: Commencement: Art. 27 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-8cba761d06523009695d407faf54ce66]: Commencement: Art. 27 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-fe6183c4a946a54522cf634f72c65154]: Textual amendment: Words in [art. 27(2)](https://www.legislation.gov.uk/uksi/2010/832/article/27/2) substituted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2015/568/regulation/37)
+[^c-fe6183c4a946a54522cf634f72c65154]: Textual amendment: Words in [art. 27(2)](https://www.legislation.gov.uk/uksi/2010/832/article/27/2) substituted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2015/568/regulation/37)
 
-[^key-82cda2e9869e602261541938a692dc12]: Commencement: Art. 28 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-82cda2e9869e602261541938a692dc12]: Commencement: Art. 28 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-46fd1b3ce5c98103b33b13a129a435e0]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/uksi/2010/832/article/28/2) renumbered (1.10.2023) as art. 28(1) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [38(2)(a)](https://www.legislation.gov.uk/uksi/2023/998/regulation/38/2/a)
+[^c-46fd1b3ce5c98103b33b13a129a435e0]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/uksi/2010/832/article/28/2) renumbered (1.10.2023) as art. 28(1) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [38(2)(a)](https://www.legislation.gov.uk/uksi/2023/998/regulation/38/2/a)
 
-[^key-cf3d01c790952212b121dcd535516c2c]: Textual amendment: [Art. 28(2)](https://www.legislation.gov.uk/uksi/2010/832/article/28/2) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [38(2)(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/38/2/b)
+[^c-cf3d01c790952212b121dcd535516c2c]: Textual amendment: [Art. 28(2)](https://www.legislation.gov.uk/uksi/2010/832/article/28/2) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [38(2)(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/38/2/b)
 
-[^key-1d6ac17f799f1af2a732b0f2bc584ab1]: Commencement: Art. 29 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-1d6ac17f799f1af2a732b0f2bc584ab1]: Commencement: Art. 29 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-677336082ffa2b7f0fd3132216dd8333]: Textual amendment: Words in [art. 29(3)](https://www.legislation.gov.uk/uksi/2010/832/article/29/3) omitted (1.10.2023) by virtue of [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [38(3)](https://www.legislation.gov.uk/uksi/2023/998/regulation/38/3)
+[^c-677336082ffa2b7f0fd3132216dd8333]: Textual amendment: Words in [art. 29(3)](https://www.legislation.gov.uk/uksi/2010/832/article/29/3) omitted (1.10.2023) by virtue of [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [38(3)](https://www.legislation.gov.uk/uksi/2023/998/regulation/38/3)
 
-[^key-ff5e4f689f731509d18aa7dfeeeb5bf0]: Textual amendment: [Art. 29(4)](https://www.legislation.gov.uk/uksi/2010/832/article/29/4) omitted (10.1.2012) by virtue of [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [7](https://www.legislation.gov.uk/uksi/2011/3013/article/7)
+[^c-ff5e4f689f731509d18aa7dfeeeb5bf0]: Textual amendment: [Art. 29(4)](https://www.legislation.gov.uk/uksi/2010/832/article/29/4) omitted (10.1.2012) by virtue of [The Armed Forces Redundancy Scheme 2006, the Armed Forces Redundancy Etc. Schemes 2010 and the Armed Forces Pension Scheme 2005 (Amendment) Order 2011 (S.I. 2011/3013)](https://www.legislation.gov.uk/uksi/2011/3013), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3013/article/1), [7](https://www.legislation.gov.uk/uksi/2011/3013/article/7)
 
-[^key-233589de453be84f6317bc3bfaa1108f]: Commencement: Art. 30 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-233589de453be84f6317bc3bfaa1108f]: Commencement: Art. 30 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-13495162ea57c392190be73304b9efab]: Textual amendment: Words in [art. 30(1)](https://www.legislation.gov.uk/uksi/2010/832/article/30/1) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [38(a)](https://www.legislation.gov.uk/uksi/2015/568/regulation/38/a)
+[^c-13495162ea57c392190be73304b9efab]: Textual amendment: Words in [art. 30(1)](https://www.legislation.gov.uk/uksi/2010/832/article/30/1) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [38(a)](https://www.legislation.gov.uk/uksi/2015/568/regulation/38/a)
 
-[^key-4c9b0061bf920068ad151d71ac8ececb]: Textual amendment: [Art. 30(1A)](https://www.legislation.gov.uk/uksi/2010/832/article/30/1A) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [38(b)](https://www.legislation.gov.uk/uksi/2015/568/regulation/38/b)
+[^c-4c9b0061bf920068ad151d71ac8ececb]: Textual amendment: [Art. 30(1A)](https://www.legislation.gov.uk/uksi/2010/832/article/30/1A) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [38(b)](https://www.legislation.gov.uk/uksi/2015/568/regulation/38/b)
 
-[^key-288a5185b274bc34a3e6d233d93e84ae]: Textual amendment: [Art. 30A](https://www.legislation.gov.uk/uksi/2010/832/article/30A) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [38(4)](https://www.legislation.gov.uk/uksi/2023/998/regulation/38/4)
+[^c-288a5185b274bc34a3e6d233d93e84ae]: Textual amendment: [Art. 30A](https://www.legislation.gov.uk/uksi/2010/832/article/30A) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [38(4)](https://www.legislation.gov.uk/uksi/2023/998/regulation/38/4)
 
-[^key-c36ebdbb060d3983806af562eaf7430e]: Commencement: Art. 31 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-c36ebdbb060d3983806af562eaf7430e]: Commencement: Art. 31 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-b9aaf0aa34808ee3b8a26768dac37f9e]: Commencement: Art. 32 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-b9aaf0aa34808ee3b8a26768dac37f9e]: Commencement: Art. 32 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-8a144cbad19d2d32afb2533e61486fcb]: Textual amendment: [Art. 32](https://www.legislation.gov.uk/uksi/2010/832/article/32/1) renumbered (1.4.2015) as art. 32(1) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [39(a)](https://www.legislation.gov.uk/uksi/2015/568/regulation/39/a)
+[^c-8a144cbad19d2d32afb2533e61486fcb]: Textual amendment: [Art. 32](https://www.legislation.gov.uk/uksi/2010/832/article/32/1) renumbered (1.4.2015) as art. 32(1) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [39(a)](https://www.legislation.gov.uk/uksi/2015/568/regulation/39/a)
 
-[^key-79157a4bac4993c5a6ede8456e754b5c]: Textual amendment: [Art. 32(2)](https://www.legislation.gov.uk/uksi/2010/832/article/32/2) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [39(b)](https://www.legislation.gov.uk/uksi/2015/568/regulation/39/b)
+[^c-79157a4bac4993c5a6ede8456e754b5c]: Textual amendment: [Art. 32(2)](https://www.legislation.gov.uk/uksi/2010/832/article/32/2) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [39(b)](https://www.legislation.gov.uk/uksi/2015/568/regulation/39/b)
 
-[^key-c995446fcacee0779305b8d37d7c4d5d]: Commencement: Art. 33 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-c995446fcacee0779305b8d37d7c4d5d]: Commencement: Art. 33 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-2ce8d9b3d0b6f9f3947eef7a74d5cd44]: Commencement: Art. 34 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-2ce8d9b3d0b6f9f3947eef7a74d5cd44]: Commencement: Art. 34 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-ec67fe0a8008d50d481ae517953e4a31]: Commencement: Art. 35 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-ec67fe0a8008d50d481ae517953e4a31]: Commencement: Art. 35 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
-[^key-ffb13fc8e357d8e6019950bdf721a4ef]: Textual amendment: [Art. 35(1)](https://www.legislation.gov.uk/uksi/2010/832/article/35/1) substituted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [40(a)](https://www.legislation.gov.uk/uksi/2015/568/regulation/40/a)
+[^c-ffb13fc8e357d8e6019950bdf721a4ef]: Textual amendment: [Art. 35(1)](https://www.legislation.gov.uk/uksi/2010/832/article/35/1) substituted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [40(a)](https://www.legislation.gov.uk/uksi/2015/568/regulation/40/a)
 
-[^key-cd4d25c468bbca4491309971af5c9a83]: Textual amendment: Words in [art. 35(2)](https://www.legislation.gov.uk/uksi/2010/832/article/35/2) substituted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [40(b)](https://www.legislation.gov.uk/uksi/2015/568/regulation/40/b)
+[^c-cd4d25c468bbca4491309971af5c9a83]: Textual amendment: Words in [art. 35(2)](https://www.legislation.gov.uk/uksi/2010/832/article/35/2) substituted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [40(b)](https://www.legislation.gov.uk/uksi/2015/568/regulation/40/b)
 
-[^key-bb31ce680497791f3b3746b880fc0233]: Textual amendment: [Art. 35(6)](https://www.legislation.gov.uk/uksi/2010/832/article/35/6) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [40(c)](https://www.legislation.gov.uk/uksi/2015/568/regulation/40/c)
+[^c-bb31ce680497791f3b3746b880fc0233]: Textual amendment: [Art. 35(6)](https://www.legislation.gov.uk/uksi/2010/832/article/35/6) inserted (1.4.2015) by [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [40(c)](https://www.legislation.gov.uk/uksi/2015/568/regulation/40/c)
 
-[^key-035d5849b485f3dba7672cb6dbc148c5]: Commencement: Art. 36 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-035d5849b485f3dba7672cb6dbc148c5]: Commencement: Art. 36 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
 [^f00021]: Footnote: [1980 c. 9](https://www.legislation.gov.uk/ukpga/1980/9).
 
 [^f00022]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).
 
-[^key-e7158d10f498c29aca6f8c634473e713]: Commencement: Art. 37 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-e7158d10f498c29aca6f8c634473e713]: Commencement: Art. 37 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
 [^f00023]: Footnote: Order in Council made on the 18th March 2009.
 
@@ -1034,7 +1034,7 @@ A full regulatory impact assessment has not been produced for the instrument as 
 
 [^f00025]: Footnote: Made by Queen’s Order on the 1st April 2009.
 
-[^key-66d0b30cd169e41564155c43bc46bee9]: Commencement: Art. 38 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-66d0b30cd169e41564155c43bc46bee9]: Commencement: Art. 38 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
 [^f00026]: Footnote: Order in Council made on the 18th March 2009.
 
@@ -1042,6 +1042,6 @@ A full regulatory impact assessment has not been produced for the instrument as 
 
 [^f00028]: Footnote: Made by Queen’s Order on the 27th August 2003.
 
-[^key-6f9492ff9b8bee8a575ee3a4401518d7]: Commencement: Art. 39 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
+[^c-6f9492ff9b8bee8a575ee3a4401518d7]: Commencement: Art. 39 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/832/article/1/2)
 
 [^f00029]: Footnote: [S.I. 2010/345](https://www.legislation.gov.uk/uksi/2010/345).

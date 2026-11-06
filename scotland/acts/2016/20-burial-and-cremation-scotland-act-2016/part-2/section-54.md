@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Power of funeral director in relation to ashes[^key-9fd2a67c361a02df09f84c0ef941bcbc]
+## 54. Power of funeral director in relation to ashes[^c-9fd2a67c361a02df09f84c0ef941bcbc]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ the funeral director may return the ashes to the cremation authority.
 
 ## Annotations
 
-[^key-9fd2a67c361a02df09f84c0ef941bcbc]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2016/20/section/54) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 5](https://www.legislation.gov.uk/ssi/2018/380/regulation/5), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-9fd2a67c361a02df09f84c0ef941bcbc]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2016/20/section/54) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 5](https://www.legislation.gov.uk/ssi/2018/380/regulation/5), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

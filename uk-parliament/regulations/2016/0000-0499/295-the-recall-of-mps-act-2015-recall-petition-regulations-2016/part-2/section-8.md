@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Publication of 10% threshold[^key-c49eb688af1e2e9c26360669ffd322e0]
+## 8. Publication of 10% threshold[^c-c49eb688af1e2e9c26360669ffd322e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c49eb688af1e2e9c26360669ffd322e0]: Commencement: Reg. 8 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-c49eb688af1e2e9c26360669ffd322e0]: Commencement: Reg. 8 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

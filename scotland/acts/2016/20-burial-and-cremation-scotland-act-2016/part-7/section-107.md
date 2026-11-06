@@ -34,7 +34,7 @@ summary: ''
 - “**fetus**” includes embryo,
 - “**funeral director**” has the meaning given by section 89(6),
 - “**Health Board**” has the meaning given by section 69(5),
-- “[^key-bb64f1ee1afb8d383006b37a76bd38ac]**hydrolysis**” means the disposal of human remains and any soluble material in which the remains are wrapped in a chamber using hot water and potassium hydroxide (with or without the addition of sodium hydroxide) and includes—
+- “[^c-bb64f1ee1afb8d383006b37a76bd38ac]**hydrolysis**” means the disposal of human remains and any soluble material in which the remains are wrapped in a chamber using hot water and potassium hydroxide (with or without the addition of sodium hydroxide) and includes—
   - (a) where a grinding process is applied to the solid remains after being removed from the chamber, that process, and
   - (b) where any other process is applied to those remains, that other process; and “**hydrolysed**” is to be construed accordingly,
 - “**hydrolysis authority**” in relation to a hydrolysis facility, means the person having responsibility for the management of the hydrolysis facility,
@@ -42,7 +42,7 @@ summary: ''
 - “**independent health care service**” has the meaning given by section 69(5),
 - “**inspector**” is to be construed in accordance with section 89(2),
 - “**inspector of cremation**” means an inspector of cremation appointed under section 89(1),
-- “[^key-5666625fa457315398e15aa2457b99db]**inspector of hydrolysis**” means an inspector of hydrolysis appointed under section 89(1),
+- “[^c-5666625fa457315398e15aa2457b99db]**inspector of hydrolysis**” means an inspector of hydrolysis appointed under section 89(1),
 - “**powder**” means the solid material (other than any metal) to which human remains are reduced by hydrolysis,
 - “**prescribed**” means prescribed by the Scottish Ministers by regulations,
 - “**private burial**” has the meaning given by section 22(2),
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb64f1ee1afb8d383006b37a76bd38ac]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/asp/2016/20/section/107) inserted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(32)(a)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/32/a)
+[^c-bb64f1ee1afb8d383006b37a76bd38ac]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/asp/2016/20/section/107) inserted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(32)(a)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/32/a)
 
-[^key-5666625fa457315398e15aa2457b99db]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/asp/2016/20/section/107) inserted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(32)(b)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/32/b)
+[^c-5666625fa457315398e15aa2457b99db]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/asp/2016/20/section/107) inserted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(32)(b)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/32/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Joint assessment of plan[^key-70e3f8ab9ab58d7663a8228f11e39b0f]
+## 21. Joint assessment of plan[^c-70e3f8ab9ab58d7663a8228f11e39b0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70e3f8ab9ab58d7663a8228f11e39b0f]: Textual amendment: [Art. 21](https://www.legislation.gov.uk/uksi/2014/3348/article/21) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-70e3f8ab9ab58d7663a8228f11e39b0f]: Textual amendment: [Art. 21](https://www.legislation.gov.uk/uksi/2014/3348/article/21) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

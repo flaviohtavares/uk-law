@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Geotechnical assessments[^key-0c8cf852764a1ca33dbe9021b8974d70]
+## 62. Geotechnical assessments[^c-0c8cf852764a1ca33dbe9021b8974d70]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c8cf852764a1ca33dbe9021b8974d70]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2014/3248/regulation/62) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-0c8cf852764a1ca33dbe9021b8974d70]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2014/3248/regulation/62) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

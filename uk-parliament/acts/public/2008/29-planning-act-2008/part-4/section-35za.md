@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35ZA. Directions under sections 35: procedural matters[^key-444a65419b34030ec04c4dd6902a059d]
+## 35ZA. Directions under sections 35: procedural matters[^c-444a65419b34030ec04c4dd6902a059d]
 
 *Extent: E+W+S*
 
@@ -53,7 +53,7 @@ summary: ''
 
 (10) If the Secretary of State decides to give a direction under section 35(1), the Secretary of State must give reasons for the decision.
 
-(10A)[^key-a72bcf8d3dfe39e7a76496b1aa340016] The Secretary of State must publish a direction under section 35(1) or subsection (3) of this section.
+(10A)[^c-a72bcf8d3dfe39e7a76496b1aa340016] The Secretary of State must publish a direction under section 35(1) or subsection (3) of this section.
 
 (11) In this section—
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-444a65419b34030ec04c4dd6902a059d]: Textual amendment: Ss. 35, 35A substituted for s. 35 (25.4.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/26/2), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2)
+[^c-444a65419b34030ec04c4dd6902a059d]: Textual amendment: Ss. 35, 35A substituted for s. 35 (25.4.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/26/2), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2)
 
-[^key-a72bcf8d3dfe39e7a76496b1aa340016]: Textual amendment: S. 35ZA(10A) inserted (24.7.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/4/3), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/a)
+[^c-a72bcf8d3dfe39e7a76496b1aa340016]: Textual amendment: S. 35ZA(10A) inserted (24.7.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/4/3), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/a)

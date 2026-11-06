@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Amendments to Title 6, Chapter 4[^key-fdd2e0dfb44c7ec080f923bd5b3459f5]
+## 24. Amendments to Title 6, Chapter 4[^c-fdd2e0dfb44c7ec080f923bd5b3459f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,7 +89,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fdd2e0dfb44c7ec080f923bd5b3459f5]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-fdd2e0dfb44c7ec080f923bd5b3459f5]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
 
 [^c24368741]: Marginal citation: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12). Section 3(9) was amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
 

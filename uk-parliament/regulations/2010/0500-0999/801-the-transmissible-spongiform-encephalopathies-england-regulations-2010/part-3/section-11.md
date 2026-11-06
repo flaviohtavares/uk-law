@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 11. Valuations[^key-98834ffb26298673be328a7c80ecba98]
+## 11. Valuations[^c-98834ffb26298673be328a7c80ecba98]
 
 *Extent: E+W+S+NI*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98834ffb26298673be328a7c80ecba98]: Textual amendment: Regulations revoked (19.7.2018) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2018 (S.I. 2018/731)](https://www.legislation.gov.uk/uksi/2018/731), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/731/regulation/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2018/731/schedule/9) (with [reg. 23](https://www.legislation.gov.uk/uksi/2018/731/regulation/23))
+[^c-98834ffb26298673be328a7c80ecba98]: Textual amendment: Regulations revoked (19.7.2018) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2018 (S.I. 2018/731)](https://www.legislation.gov.uk/uksi/2018/731), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/731/regulation/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2018/731/schedule/9) (with [reg. 23](https://www.legislation.gov.uk/uksi/2018/731/regulation/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Building industry schemes: supplementary[^key-a636fa665843039220f2d05c3b4b0879][^key-8e7962502134ecf1401609b7d81cfe56]
+## 127. Building industry schemes: supplementary[^c-a636fa665843039220f2d05c3b4b0879][^c-8e7962502134ecf1401609b7d81cfe56]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a636fa665843039220f2d05c3b4b0879]: Commencement: S. 127 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-a636fa665843039220f2d05c3b4b0879]: Commencement: S. 127 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-8e7962502134ecf1401609b7d81cfe56]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2022/30/section/127) in force at 1.9.2022 by [S.I. 2022/927](https://www.legislation.gov.uk/uksi/2022/927), [reg. 2](https://www.legislation.gov.uk/uksi/2022/927/regulation/2)
+[^c-8e7962502134ecf1401609b7d81cfe56]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2022/30/section/127) in force at 1.9.2022 by [S.I. 2022/927](https://www.legislation.gov.uk/uksi/2022/927), [reg. 2](https://www.legislation.gov.uk/uksi/2022/927/regulation/2)

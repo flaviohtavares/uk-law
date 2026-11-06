@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Notification by registration officer in respect of service declarations[^key-c088afd9dbf3fb7a8166d3bd8b6e3dc4]
+## 17. Notification by registration officer in respect of service declarations[^c-c088afd9dbf3fb7a8166d3bd8b6e3dc4]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ he shall return the declaration to the declarant setting out his reasons for so 
 
 ## Annotations
 
-[^key-c088afd9dbf3fb7a8166d3bd8b6e3dc4]: Commencement: Reg. 17 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-c088afd9dbf3fb7a8166d3bd8b6e3dc4]: Commencement: Reg. 17 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
 
 [^f00012]: Footnote: Sections 14 and 15 were amended by Schedule 1 to the 2000 Act.

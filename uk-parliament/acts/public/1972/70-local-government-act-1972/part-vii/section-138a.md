@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 138A. Prayers and other observances[^key-5741dad2163a69692a9ea693d64a8d46][^key-07d79a14dc6c9677963162f224cf3e73]
+## 138A. Prayers and other observances[^c-5741dad2163a69692a9ea693d64a8d46][^c-07d79a14dc6c9677963162f224cf3e73]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5741dad2163a69692a9ea693d64a8d46]: Textual amendment: Ss. 138A, 138B inserted (26.5.2015) by [Local Government (Religious etc. Observances) Act 2015 (c. 27)](https://www.legislation.gov.uk/ukpga/2015/27), [ss. 1](https://www.legislation.gov.uk/ukpga/2015/27/section/1), [3(2)](https://www.legislation.gov.uk/ukpga/2015/27/section/3/2)
+[^c-5741dad2163a69692a9ea693d64a8d46]: Textual amendment: Ss. 138A, 138B inserted (26.5.2015) by [Local Government (Religious etc. Observances) Act 2015 (c. 27)](https://www.legislation.gov.uk/ukpga/2015/27), [ss. 1](https://www.legislation.gov.uk/ukpga/2015/27/section/1), [3(2)](https://www.legislation.gov.uk/ukpga/2015/27/section/3/2)
 
-[^key-07d79a14dc6c9677963162f224cf3e73]: Modification: S. 138A modified by 1995 c. 25, Sch. 8 para. 3(1A) (as inserted (26.5.2015) by [Local Government (Religious etc. Observances) Act 2015 (c. 27)](https://www.legislation.gov.uk/ukpga/2015/27), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2015/27/section/2/3), [3(2)](https://www.legislation.gov.uk/ukpga/2015/27/section/3/2))
+[^c-07d79a14dc6c9677963162f224cf3e73]: Modification: S. 138A modified by 1995 c. 25, Sch. 8 para. 3(1A) (as inserted (26.5.2015) by [Local Government (Religious etc. Observances) Act 2015 (c. 27)](https://www.legislation.gov.uk/ukpga/2015/27), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2015/27/section/2/3), [3(2)](https://www.legislation.gov.uk/ukpga/2015/27/section/3/2))

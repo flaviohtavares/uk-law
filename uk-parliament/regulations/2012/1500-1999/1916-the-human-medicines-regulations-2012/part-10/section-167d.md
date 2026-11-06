@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167D. EAMS scientific opinions ceasing to have effect[^key-0c458fec6b4a67e2150b83d716086edd]
+## 167D. EAMS scientific opinions ceasing to have effect[^c-0c458fec6b4a67e2150b83d716086edd]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c458fec6b4a67e2150b83d716086edd]: Textual amendment: [Regs. 167C-167H](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167C) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/352/regulation/8) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))
+[^c-0c458fec6b4a67e2150b83d716086edd]: Textual amendment: [Regs. 167C-167H](https://www.legislation.gov.uk/uksi/2012/1916/regulation/167C) inserted (15.4.2022) by [The Human Medicines (Amendments Relating to the Early Access to Medicines Scheme) Regulations 2022 (S.I. 2022/352)](https://www.legislation.gov.uk/uksi/2022/352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/352/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/352/regulation/8) (with [reg. 19](https://www.legislation.gov.uk/uksi/2022/352/regulation/19))

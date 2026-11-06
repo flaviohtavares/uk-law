@@ -30,12 +30,12 @@ summary: ''
 - (d) the provision of care and support for a child by a parent, relative or foster parent;
 - (e) the provision of care and support by a carer where such care and support is provided without the involvement of an undertaking acting as an employment agency or employment business (within the meaning given to those expressions by section 13 of the Employment Agencies Act 1973 [^c23886831]), and where the carer works wholly under the direction and control of a related third party;
 - (f) arrangements for the supply of carers to a service provider by an undertaking acting as an employment agency or employment business for the purpose of the provision of a regulated service by the service provider;
-- (g) the provision of care and support where the care and support is provided by a person managing a prison or other similar custodial establishment;[^key-3bf5dca6bbb341a0a4a7270cd3b36388]
-- (h)[^key-ece31820e2ec1392b626dbc4ccdbb516] the provision of nursing care by a registered nurse;
-- (i) the provision of care and support by a Local Health Board to meet needs which are related to the needs of individuals for nursing care.[^key-ea57e0eb2f98981f3ca52c27befd160a]
-- (j)[^key-0e0e58a0b19c898a95c9afef564e9419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) the provision of care and support where the care and support is provided by a person managing a prison or other similar custodial establishment;[^c-3bf5dca6bbb341a0a4a7270cd3b36388]
+- (h)[^c-ece31820e2ec1392b626dbc4ccdbb516] the provision of nursing care by a registered nurse;
+- (i) the provision of care and support by a Local Health Board to meet needs which are related to the needs of individuals for nursing care.[^c-ea57e0eb2f98981f3ca52c27befd160a]
+- (j)[^c-0e0e58a0b19c898a95c9afef564e9419] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0e0e58a0b19c898a95c9afef564e9419]...
+[^c-0e0e58a0b19c898a95c9afef564e9419]...
 
 (2) In paragraph (1)(e) and (f), “**carer**” means an individual who provides care to a person referred to in paragraph 8(1) of Schedule 1 to the Act.
 
@@ -52,12 +52,12 @@ summary: ''
 
 [^c23886831]: Marginal citation: [1973 c. 35](https://www.legislation.gov.uk/ukpga/1973/35).
 
-[^key-3bf5dca6bbb341a0a4a7270cd3b36388]: Textual amendment: Punctuation in reg. 3(1)(g) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2019/757/regulation/5/a)
+[^c-3bf5dca6bbb341a0a4a7270cd3b36388]: Textual amendment: Punctuation in reg. 3(1)(g) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2019/757/regulation/5/a)
 
-[^key-ece31820e2ec1392b626dbc4ccdbb516]: Textual amendment: Reg. 3(1)(h)(i) inserted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2019/757/regulation/5/b)
+[^c-ece31820e2ec1392b626dbc4ccdbb516]: Textual amendment: Reg. 3(1)(h)(i) inserted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2019/757/regulation/5/b)
 
-[^key-ea57e0eb2f98981f3ca52c27befd160a]: Textual amendment: Punctuation in reg. 3(1)(i) substituted (1.11.2022) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) and (Coronavirus) (Revocation) Regulations 2022 (S.I. 2022/1074)](https://www.legislation.gov.uk/uksi/2022/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1074/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2022/1074/regulation/5/a)
+[^c-ea57e0eb2f98981f3ca52c27befd160a]: Textual amendment: Punctuation in reg. 3(1)(i) substituted (1.11.2022) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) and (Coronavirus) (Revocation) Regulations 2022 (S.I. 2022/1074)](https://www.legislation.gov.uk/uksi/2022/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1074/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2022/1074/regulation/5/a)
 
-[^key-0e0e58a0b19c898a95c9afef564e9419]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/3/1) omitted (1.11.2022) by virtue of [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) and (Coronavirus) (Revocation) Regulations 2022 (S.I. 2022/1074)](https://www.legislation.gov.uk/uksi/2022/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1074/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2022/1074/regulation/5/b)
+[^c-0e0e58a0b19c898a95c9afef564e9419]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2017/1264/regulation/3/1) omitted (1.11.2022) by virtue of [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) and (Coronavirus) (Revocation) Regulations 2022 (S.I. 2022/1074)](https://www.legislation.gov.uk/uksi/2022/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1074/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2022/1074/regulation/5/b)
 
 [^c23886841]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).

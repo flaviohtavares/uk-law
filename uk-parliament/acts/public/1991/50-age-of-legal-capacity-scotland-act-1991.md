@@ -71,11 +71,11 @@ An Act to make provision in the law of Scotland as to the legal capacity of pers
 
 (2) A person of or over the age of 12 years shall have testamentary capacity, including legal capacity to exercise by testamentary writing any power of appointment.
 
-(3) A person of or over the age of 12 years shall have legal capacity to consent to the making of an adoption order in relation to him[^key-5a8877380b90e258dd30adf884127240]...
+(3) A person of or over the age of 12 years shall have legal capacity to consent to the making of an adoption order in relation to him[^c-5a8877380b90e258dd30adf884127240]...
 
 (4) A person under the age of 16 years shall have legal capacity to consent on his own behalf to any surgical, medical or dental procedure or treatment where, in the opinion of a qualified medical practitioner attending him, he is capable of understanding the nature and possible consequences of the procedure or treatment.
 
-(4ZA)[^key-61ea4ddcb24858f50f8d2dcce243894e] For the purposes of subsection (4), the storage of gametes in accordance with the Human Fertilisation and Embryology Act 1990 is to be treated as a medical procedure.
+(4ZA)[^c-61ea4ddcb24858f50f8d2dcce243894e] For the purposes of subsection (4), the storage of gametes in accordance with the Human Fertilisation and Embryology Act 1990 is to be treated as a medical procedure.
 
 (4ZB) A person under the age of 16 years shall have legal capacity to consent to the use of the person's human cells in accordance with Schedule 3 to the Human Fertilisation and Embryology Act 1990 for the purposes of a project of research where the person is capable of understanding the nature of the research; and in this subsection “ **human cells** ” has the same meaning as in that Schedule.
 
@@ -153,7 +153,7 @@ and the decision of the sheriff on such application shall be final.
 
 (3) The provisions of this section shall apply only to a relevant anniversary which occurs after the commencement of this Act.
 
-## 7. Acquisition of domicile.[^key-07e4671179db01ecb1c80071a6b4f7ae]
+## 7. Acquisition of domicile.[^c-07e4671179db01ecb1c80071a6b4f7ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -276,7 +276,7 @@ Section 10.
 
 ### Registration of Births, Deaths and Marriages (Scotland) Act 1965 (c.49)
 
-**28.**[^key-9ec83c61654313027e30939642fea599] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-9ec83c61654313027e30939642fea599] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **29.** In section 43(10), for the words “tutor or curator” substitute the word “guardian”.
 
@@ -292,9 +292,9 @@ Section 10.
 
 ### Taxes Management Act 1970 (c.9)
 
-**33.**[^key-8230cb817a968417c51697fe02b3bacb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-8230cb817a968417c51697fe02b3bacb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-40c5df183ddd797effccd5388faaba3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-40c5df183ddd797effccd5388faaba3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Sheriff Courts (Scotland) Act 1971 (c.58)
 
@@ -302,7 +302,7 @@ Section 10.
 
 ### Adoption (Scotland) Act 1978 (c.28)
 
-**36.**[^key-0f4c5c760f641bbc9c7b4626737d9dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-0f4c5c760f641bbc9c7b4626737d9dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c.59)
 
@@ -314,7 +314,7 @@ Section 10.
 
 ### Companies Act 1985 (c.6)
 
-**39.**[^key-80c7a3b828a5384f522a39b6430b3b0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-80c7a3b828a5384f522a39b6430b3b0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Family Law (Scotland) Act 1985 (c.37)
 
@@ -395,9 +395,9 @@ Section 10.
 
 [^c932229]: Textual amendment: Words in [s. 1(3)(g)](https://www.legislation.gov.uk/ukpga/1991/50/section/1/3/g) substituted for s. 1(3)(g)(i)(ii) (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 53(2)(b)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/53/2/b) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule)
 
-[^key-5a8877380b90e258dd30adf884127240]: Textual amendment: Words in s. 2(3) repealed (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-5a8877380b90e258dd30adf884127240]: Textual amendment: Words in s. 2(3) repealed (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-61ea4ddcb24858f50f8d2dcce243894e]: Textual amendment: S. 2(4ZA)-(4ZB) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/16); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
+[^c-61ea4ddcb24858f50f8d2dcce243894e]: Textual amendment: S. 2(4ZA)-(4ZB) inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/16); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
 
 [^c932232]: Textual amendment: S. 2(4A)-(4C) inserted (1.11.1995) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 53(3)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/53/3) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1995/2787](https://www.legislation.gov.uk/uksi/1995/2787), [art. 3](https://www.legislation.gov.uk/uksi/1995/2787/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1995/2787/schedule)
 
@@ -407,7 +407,7 @@ Section 10.
 
 [^c932236]: Textual amendment: Words in [s. 5(2)](https://www.legislation.gov.uk/ukpga/1991/50/section/5/2) substituted (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4), [Sch. 4 para. 53(5)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/53/5) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule)
 
-[^key-07e4671179db01ecb1c80071a6b4f7ae]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1991/50/section/7) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
+[^c-07e4671179db01ecb1c80071a6b4f7ae]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1991/50/section/7) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [s. 46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2)
 
 [^c932237]: Marginal citation: [1973 c. 52](https://www.legislation.gov.uk/ukpga/1973/52).
 
@@ -437,14 +437,14 @@ Section 10.
 
 [^c932251]: Textual amendment: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/1991/50/schedule/1/paragraph/15) repealed (1.11.1996) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(5)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/5), [Sch. 5](https://www.legislation.gov.uk/ukpga/1995/36/schedule/5) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/2203](https://www.legislation.gov.uk/uksi/1996/2203), [art. 3(3)](https://www.legislation.gov.uk/uksi/1996/2203/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2203/schedule) Table
 
-[^key-9ec83c61654313027e30939642fea599]: Textual amendment: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/1991/50/schedule/1/paragraph/28) repealed (1.1.2007) by [Registration Services (Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/596)](https://www.legislation.gov.uk/ssi/2006/596), [arts. 1](https://www.legislation.gov.uk/ssi/2006/596/article/1), [6](https://www.legislation.gov.uk/ssi/2006/596/article/6)
+[^c-9ec83c61654313027e30939642fea599]: Textual amendment: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/1991/50/schedule/1/paragraph/28) repealed (1.1.2007) by [Registration Services (Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/596)](https://www.legislation.gov.uk/ssi/2006/596), [arts. 1](https://www.legislation.gov.uk/ssi/2006/596/article/1), [6](https://www.legislation.gov.uk/ssi/2006/596/article/6)
 
-[^key-8230cb817a968417c51697fe02b3bacb]: Textual amendment: [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/1991/50/schedule/1/paragraph/33) omitted (with effect in accordance with s. 222(5) of the commencing Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 222(4)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/222/4/b)
+[^c-8230cb817a968417c51697fe02b3bacb]: Textual amendment: [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/1991/50/schedule/1/paragraph/33) omitted (with effect in accordance with s. 222(5) of the commencing Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 222(4)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/222/4/b)
 
-[^key-40c5df183ddd797effccd5388faaba3e]: Textual amendment: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/1991/50/schedule/1/paragraph/34) omitted (with effect in accordance with s. 222(5) of the commencing Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 222(4)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/222/4/b)
+[^c-40c5df183ddd797effccd5388faaba3e]: Textual amendment: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/1991/50/schedule/1/paragraph/34) omitted (with effect in accordance with s. 222(5) of the commencing Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 222(4)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/222/4/b)
 
-[^key-0f4c5c760f641bbc9c7b4626737d9dfc]: Textual amendment: [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/1991/50/schedule/1/paragraph/36) repealed (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-0f4c5c760f641bbc9c7b4626737d9dfc]: Textual amendment: [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/1991/50/schedule/1/paragraph/36) repealed (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-80c7a3b828a5384f522a39b6430b3b0c]: Textual amendment: [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/1991/50/schedule/1/paragraph/39) repealed (6.4.2007) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 7(c)](https://www.legislation.gov.uk/uksi/2006/3428/article/7/c), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/4/part/1) (with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6) [8(2)](https://www.legislation.gov.uk/uksi/2006/3428/article/8/2))
+[^c-80c7a3b828a5384f522a39b6430b3b0c]: Textual amendment: [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/1991/50/schedule/1/paragraph/39) repealed (6.4.2007) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 7(c)](https://www.legislation.gov.uk/uksi/2006/3428/article/7/c), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/4/part/1) (with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6) [8(2)](https://www.legislation.gov.uk/uksi/2006/3428/article/8/2))
 
 [^c932252]: Textual amendment: [Sch. 1 para. 48](https://www.legislation.gov.uk/ukpga/1991/50/schedule/1/paragraph/48) repealed (1.5.1995 with effect for the year 1995-96 and subsequent years of assessment) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 162](https://www.legislation.gov.uk/ukpga/1995/4/section/162), [Sch. 29 Pt. VIII(8)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/29/part/VIII/8)

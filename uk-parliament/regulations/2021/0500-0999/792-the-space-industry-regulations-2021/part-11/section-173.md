@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Access control to space sites: further provisions[^key-44b7d4872521e0f66aa7816ac038a648]
+## 173. Access control to space sites: further provisions[^c-44b7d4872521e0f66aa7816ac038a648]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-44b7d4872521e0f66aa7816ac038a648]: Commencement: Reg. 173 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-44b7d4872521e0f66aa7816ac038a648]: Commencement: Reg. 173 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00054]: Footnote: See regulation 168 for the definition of “space site security restricted area”.

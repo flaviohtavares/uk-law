@@ -33,7 +33,7 @@ summary: ''
 
 in any circumstances and for any purposes specified by the regulations.
 
-(3)[^key-fe46c46b35d016dca1ee061c6043d23f] The regulations may also require—
+(3)[^c-fe46c46b35d016dca1ee061c6043d23f] The regulations may also require—
 
 - (a) charities, or intermediaries within the meaning of section 416(1A), to keep records with respect to declarations received from individuals or from those intermediaries,
 - (b) charities or intermediaries to produce, for inspection by an officer of Revenue and Customs, any records required to be kept by those charities or intermediaries by regulations made under paragraph (a), and
@@ -44,7 +44,7 @@ in any circumstances and for any purposes specified by the regulations.
 - (a) different provision for declarations made in a different manner or by different descriptions of persons, and
 - (b) different provision depending on whether or not an intermediary, within the meaning of section 416(1A), is involved in the giving or receiving of the declaration.
 
-(5)[^key-b565f20b01c7f7f5db1c0f520a0f6f49] The regulations may also make provision—
+(5)[^c-b565f20b01c7f7f5db1c0f520a0f6f49] The regulations may also make provision—
 
 - (a) for the imposition of a penalty of a specified amount (which must not exceed £3000) for a failure to comply with a specified requirement imposed by the regulations,
 - (b) for the assessment and recovery of the penalty (which may include provision about the reduction of the penalty in specified circumstances), and
@@ -52,6 +52,6 @@ in any circumstances and for any purposes specified by the regulations.
 
 ## Annotations
 
-[^key-fe46c46b35d016dca1ee061c6043d23f]: Textual amendment: S. 428(3)(4) substituted for s. 428(3) (with effect in accordance with s. 20(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 20(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/20/3); [S.I. 2016/1010](https://www.legislation.gov.uk/uksi/2016/1010), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1010/regulation/2)
+[^c-fe46c46b35d016dca1ee061c6043d23f]: Textual amendment: S. 428(3)(4) substituted for s. 428(3) (with effect in accordance with s. 20(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 20(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/20/3); [S.I. 2016/1010](https://www.legislation.gov.uk/uksi/2016/1010), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1010/regulation/2)
 
-[^key-b565f20b01c7f7f5db1c0f520a0f6f49]: Textual amendment: [S. 428(5)](https://www.legislation.gov.uk/ukpga/2007/3/section/428/5) inserted (14.11.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 173(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/173/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/173/2); [S.I. 2016/1010](https://www.legislation.gov.uk/uksi/2016/1010), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1010/regulation/3)
+[^c-b565f20b01c7f7f5db1c0f520a0f6f49]: Textual amendment: [S. 428(5)](https://www.legislation.gov.uk/ukpga/2007/3/section/428/5) inserted (14.11.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 173(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/173/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/173/2); [S.I. 2016/1010](https://www.legislation.gov.uk/uksi/2016/1010), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1010/regulation/3)

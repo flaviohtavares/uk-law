@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Summary proceedings by persons aggrieved by statutory nuisances[^key-085778a2a08d8c7ffed1a8268c0a5bfe]
+## 70. Summary proceedings by persons aggrieved by statutory nuisances[^c-085778a2a08d8c7ffed1a8268c0a5bfe]
 
 *Extent: N.I.*
 
@@ -78,4 +78,4 @@ but the Department may, by order, provide that this subsection shall have effect
 
 ## Annotations
 
-[^key-085778a2a08d8c7ffed1a8268c0a5bfe]: Commencement: [S. 70](https://www.legislation.gov.uk/nia/2011/23/section/70) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-085778a2a08d8c7ffed1a8268c0a5bfe]: Commencement: [S. 70](https://www.legislation.gov.uk/nia/2011/23/section/70) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

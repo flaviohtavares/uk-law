@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 304. Authorised persons[^key-11cfccce50dc6cc71ecd8d5a1b9b5e27]
+## 304. Authorised persons[^c-11cfccce50dc6cc71ecd8d5a1b9b5e27]
 
 *Extent: E+W+S*
 
@@ -39,7 +39,7 @@ summary: ''
 
 *Extent: E+W*
 
-- (a (Extent: S) (affected by repeal, see note))[^key-12251e557c2964572fcc63e7bc41b817] an inspector appointed under section 18 of the Fire Precautions Act 1971 (c. 40) (enforcement), *(Extent: S)* *(affected by repeal, see note)*[^key-12251e557c2964572fcc63e7bc41b817]
+- (a (Extent: S) (affected by repeal, see note))[^c-12251e557c2964572fcc63e7bc41b817] an inspector appointed under section 18 of the Fire Precautions Act 1971 (c. 40) (enforcement), *(Extent: S)* *(affected by repeal, see note)*[^c-12251e557c2964572fcc63e7bc41b817]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-11cfccce50dc6cc71ecd8d5a1b9b5e27]: Commencement: [S. 304](https://www.legislation.gov.uk/ukpga/2005/19/section/304) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3272/schedule/2) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by S.I. 2007/1157, arts. 3(3), 4)
+[^c-11cfccce50dc6cc71ecd8d5a1b9b5e27]: Commencement: [S. 304](https://www.legislation.gov.uk/ukpga/2005/19/section/304) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3272/schedule/2) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by S.I. 2007/1157, arts. 3(3), 4)
 
-[^key-12251e557c2964572fcc63e7bc41b817]: Textual amendment: [S. 304(4)(a)](https://www.legislation.gov.uk/ukpga/2005/19/section/304/4/a) substituted (S.) (1.10.2006) by [Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 16(3)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/16/3)
+[^c-12251e557c2964572fcc63e7bc41b817]: Textual amendment: [S. 304(4)(a)](https://www.legislation.gov.uk/ukpga/2005/19/section/304/4/a) substituted (S.) (1.10.2006) by [Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 16(3)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/16/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184I. Notices under sections 184G and 184H[^key-bfdbcc1b01762a5278551a00a33a1a84]
+## 184I. Notices under sections 184G and 184H[^c-bfdbcc1b01762a5278551a00a33a1a84]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,9 +32,9 @@ summary: ''
 
 (3) If a company has made a company tax return for an accounting period, the Board may give the company a relevant notice in relation to that period only if a notice of enquiry has been given to the company in respect of its return for that period.
 
-(4) After any enquiries into the return for that period have been completed in relation to any matters[^key-325eb49f9743ce4fe69954c472d9e3ae], the Board may give the company a relevant notice relating to those matters[^key-1e194a4e774acd7a1a8aad479278c664] only if requirements A and B are met.
+(4) After any enquiries into the return for that period have been completed in relation to any matters[^c-325eb49f9743ce4fe69954c472d9e3ae], the Board may give the company a relevant notice relating to those matters[^c-1e194a4e774acd7a1a8aad479278c664] only if requirements A and B are met.
 
-(5) Requirement A is that at the time the enquiries referred to in subsection (4)[^key-b597f40519155067ffecf45f92310ec1] were completed, the Board could not have been reasonably expected, on the basis of information made available—
+(5) Requirement A is that at the time the enquiries referred to in subsection (4)[^c-b597f40519155067ffecf45f92310ec1] were completed, the Board could not have been reasonably expected, on the basis of information made available—
 
 - (a) to them before that time, or
 - (b) to an officer of theirs before that time,
@@ -45,7 +45,7 @@ to have been aware that the circumstances were such that a relevant notice could
 
 (7) Requirement B is that—
 
-- (a) the company or any other person was requested to produce or provide information during an enquiry into the return for that period (so far as relating to the matters in question)[^key-1470b32072522004c30cf3e86426ab77], and
+- (a) the company or any other person was requested to produce or provide information during an enquiry into the return for that period (so far as relating to the matters in question)[^c-1470b32072522004c30cf3e86426ab77], and
 - (b) if the request had been duly complied with, the Board could reasonably have been expected to give the company a relevant notice in relation to that period.
 
 (8) If—
@@ -60,9 +60,9 @@ it may amend the return for the purpose of complying with the provision referred
 - (a) the end of the applicable 90 day period, or
 - (b) the earlier amendment of its company tax return for the purpose of complying with the provision referred to in the notice.
 
-(9A)[^key-8bdde422789eb0dd4196f15f54a1abaf] Subsection (9) does not apply to a partial closure notice which does not relate to any matter to which the relevant notice relates.
+(9A)[^c-8bdde422789eb0dd4196f15f54a1abaf] Subsection (9) does not apply to a partial closure notice which does not relate to any matter to which the relevant notice relates.
 
-(10) If the relevant notice is given to the company after any enquiries into the return for the period are completed, so far as relating to the matters to which the relevant notice relates,[^key-b0eb2379bbade9017e76420711de2eab] no discovery assessment may be made as regards the chargeable gain to which the notice relates until—
+(10) If the relevant notice is given to the company after any enquiries into the return for the period are completed, so far as relating to the matters to which the relevant notice relates,[^c-b0eb2379bbade9017e76420711de2eab] no discovery assessment may be made as regards the chargeable gain to which the notice relates until—
 
 - (a) the end of the applicable 90 day period, or
 - (b) the earlier amendment of the company tax return for the purpose of complying with the provision referred to in the notice.
@@ -83,16 +83,16 @@ it may amend the return for the purpose of complying with the provision referred
 
 ## Annotations
 
-[^key-bfdbcc1b01762a5278551a00a33a1a84]: Textual amendment: Ss. 184G-184I inserted (with effect in accordance with s. 71(4) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 71(1)](https://www.legislation.gov.uk/ukpga/2006/25/section/71/1)
+[^c-bfdbcc1b01762a5278551a00a33a1a84]: Textual amendment: Ss. 184G-184I inserted (with effect in accordance with s. 71(4) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 71(1)](https://www.legislation.gov.uk/ukpga/2006/25/section/71/1)
 
-[^key-325eb49f9743ce4fe69954c472d9e3ae]: Textual amendment: Words in s. 184I(4) inserted (with effect in accordance with Sch. 15 para. 44 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 15 para. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/15/paragraph/22/2/a)
+[^c-325eb49f9743ce4fe69954c472d9e3ae]: Textual amendment: Words in s. 184I(4) inserted (with effect in accordance with Sch. 15 para. 44 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 15 para. 22(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/15/paragraph/22/2/a)
 
-[^key-1e194a4e774acd7a1a8aad479278c664]: Textual amendment: Words in s. 184I(4) inserted (with effect in accordance with Sch. 15 para. 44 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 15 para. 22(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/15/paragraph/22/2/b)
+[^c-1e194a4e774acd7a1a8aad479278c664]: Textual amendment: Words in s. 184I(4) inserted (with effect in accordance with Sch. 15 para. 44 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 15 para. 22(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/15/paragraph/22/2/b)
 
-[^key-b597f40519155067ffecf45f92310ec1]: Textual amendment: Words in s. 184I(5) substituted (with effect in accordance with Sch. 15 para. 44 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 15 para. 22(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/15/paragraph/22/3)
+[^c-b597f40519155067ffecf45f92310ec1]: Textual amendment: Words in s. 184I(5) substituted (with effect in accordance with Sch. 15 para. 44 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 15 para. 22(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/15/paragraph/22/3)
 
-[^key-1470b32072522004c30cf3e86426ab77]: Textual amendment: Words in s. 184I(7)(a) inserted (with effect in accordance with Sch. 15 para. 44 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 15 para. 22(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/15/paragraph/22/4)
+[^c-1470b32072522004c30cf3e86426ab77]: Textual amendment: Words in s. 184I(7)(a) inserted (with effect in accordance with Sch. 15 para. 44 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 15 para. 22(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/15/paragraph/22/4)
 
-[^key-8bdde422789eb0dd4196f15f54a1abaf]: Textual amendment: S. 184I(9A) inserted (with effect in accordance with Sch. 15 para. 44 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 15 para. 22(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/15/paragraph/22/5)
+[^c-8bdde422789eb0dd4196f15f54a1abaf]: Textual amendment: S. 184I(9A) inserted (with effect in accordance with Sch. 15 para. 44 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 15 para. 22(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/15/paragraph/22/5)
 
-[^key-b0eb2379bbade9017e76420711de2eab]: Textual amendment: Words in s. 184I(10) inserted (with effect in accordance with Sch. 15 para. 44 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 15 para. 22(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/15/paragraph/22/6)
+[^c-b0eb2379bbade9017e76420711de2eab]: Textual amendment: Words in s. 184I(10) inserted (with effect in accordance with Sch. 15 para. 44 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 15 para. 22(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/15/paragraph/22/6)

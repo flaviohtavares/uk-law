@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Incorporation of the Railway Clauses Acts[^key-4d7794d271cea74bb1cc5dc07c3676a1]
+## 3. Incorporation of the Railway Clauses Acts[^c-4d7794d271cea74bb1cc5dc07c3676a1]
 
 *Extent: E+W*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4d7794d271cea74bb1cc5dc07c3676a1]: Commencement: Art. 3 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-4d7794d271cea74bb1cc5dc07c3676a1]: Commencement: Art. 3 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
 [^f00019]: Footnote: [1845 c. 20](https://www.legislation.gov.uk/ukpga/1845/20). Section 46 was amended by section 109(1) and (3) of, and paragraph 22 of Schedule 8, and Schedule 10 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39). Section 58 was amended by section 46 of, and Part 3 of Schedule 7 to, the Justices of the Peace Act [1949 (c. 101)](https://www.legislation.gov.uk/ukpga/1949/101). Section 78 was amended by section 39(3) of, and Schedule 7 to, the Compulsory Purchase Act [1965 (c. 56)](https://www.legislation.gov.uk/ukpga/1965/56) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307). Section 105 was amended by section 46 of, and Part 3 of Schedule 7 to, the Justices of the Peace Act 1949, section 31(6) of the Criminal Law Act [1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45) and sections 37 and 49 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48).
 

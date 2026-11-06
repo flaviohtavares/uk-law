@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Enforcement[^key-25cff4b3d5ea8942e5ba767c23d7710d]
+## 43. Enforcement[^c-25cff4b3d5ea8942e5ba767c23d7710d]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,7 +91,7 @@ summary: ''
 
 (3) In section 24(6) (remedies for failure to comply with that section), after “court)” insert “ ; see also the powers of the Certification Officer under section 24B to make a declaration and an enforcement order ”.
 
-(4)[^key-2952b8ff1951aa86861a09868581d326] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2952b8ff1951aa86861a09868581d326] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 26 (remedy for failure: application to the court), after subsection (8) insert—
 
@@ -112,6 +112,6 @@ summary: ''
 
 ## Annotations
 
-[^key-25cff4b3d5ea8942e5ba767c23d7710d]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2014/4/section/43) in force at 1.6.2016 by [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/717/article/4/b)
+[^c-25cff4b3d5ea8942e5ba767c23d7710d]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2014/4/section/43) in force at 1.6.2016 by [S.I. 2015/717](https://www.legislation.gov.uk/uksi/2015/717), [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/717/article/4/b)
 
-[^key-2952b8ff1951aa86861a09868581d326]: Textual amendment: [S. 43(4)](https://www.legislation.gov.uk/ukpga/2014/4/section/43/4) omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 82(7)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/82/7/a), [159(2)(n)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/n) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/15))
+[^c-2952b8ff1951aa86861a09868581d326]: Textual amendment: [S. 43(4)](https://www.legislation.gov.uk/ukpga/2014/4/section/43/4) omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 82(7)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/82/7/a), [159(2)(n)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/n) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/15))

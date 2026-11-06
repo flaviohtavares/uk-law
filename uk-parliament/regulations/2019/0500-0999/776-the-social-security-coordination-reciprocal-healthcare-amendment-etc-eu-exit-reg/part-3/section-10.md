@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. The Social Security Coordination (Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/eur/2004/883), EEA Agreement and Swiss Agreement) (Amendment) (EU Exit) Regulations 2019[^key-76ca991c9e59fe30f31a17845f6b9efe]
+## 10. The Social Security Coordination (Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/eur/2004/883), EEA Agreement and Swiss Agreement) (Amendment) (EU Exit) Regulations 2019[^c-76ca991c9e59fe30f31a17845f6b9efe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76ca991c9e59fe30f31a17845f6b9efe]: Textual amendment: Reg. 10 omitted (31.12.2020) by virtue of [The Social Security Co-ordination (Revocation of Retained Direct EU Legislation and Related Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1508)](https://www.legislation.gov.uk/uksi/2020/1508), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1508/regulation/1/3), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2020/1508/schedule/paragraph/5/a)
+[^c-76ca991c9e59fe30f31a17845f6b9efe]: Textual amendment: Reg. 10 omitted (31.12.2020) by virtue of [The Social Security Co-ordination (Revocation of Retained Direct EU Legislation and Related Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1508)](https://www.legislation.gov.uk/uksi/2020/1508), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1508/regulation/1/3), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/2020/1508/schedule/paragraph/5/a)

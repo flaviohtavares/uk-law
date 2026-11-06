@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.5. Notice to Secretary of State of making of maintenance order[^key-b0b0ec55d6802e50341e6c7f7b2a0a69]
+## 6.5. Notice to Secretary of State of making of maintenance order[^c-b0b0ec55d6802e50341e6c7f7b2a0a69]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where an order granted by the sheriff in favour of the Secretary of State under 
 
 ## Annotations
 
-[^key-b0b0ec55d6802e50341e6c7f7b2a0a69]: Commencement: [Rule 6.5](https://www.legislation.gov.uk/uksi/1997/291/rule/6.5) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-b0b0ec55d6802e50341e6c7f7b2a0a69]: Commencement: [Rule 6.5](https://www.legislation.gov.uk/uksi/1997/291/rule/6.5) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

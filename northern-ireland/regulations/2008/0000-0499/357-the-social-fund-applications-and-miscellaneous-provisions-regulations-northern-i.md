@@ -31,7 +31,7 @@ summary: ''
 
 Social Security
 
-The Social Fund (Applications and Miscellaneous Provisions) Regulations (Northern Ireland) 2008 (revoked)[^key-67d5f4ddb4b1d3429a0fedf8f1674df6]
+The Social Fund (Applications and Miscellaneous Provisions) Regulations (Northern Ireland) 2008 (revoked)[^c-67d5f4ddb4b1d3429a0fedf8f1674df6]
 
 Made
 
@@ -41,54 +41,54 @@ Coming into operation
 
 1st October 2008
 
-[^key-67d5f4ddb4b1d3429a0fedf8f1674df6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67d5f4ddb4b1d3429a0fedf8f1674df6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-67d5f4ddb4b1d3429a0fedf8f1674df6]
+## 1. Citation, commencement and interpretation[^c-67d5f4ddb4b1d3429a0fedf8f1674df6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Form and manner in which an application for a community care grant or budgeting loan is to be made[^key-67d5f4ddb4b1d3429a0fedf8f1674df6]
+## 2. Form and manner in which an application for a community care grant or budgeting loan is to be made[^c-67d5f4ddb4b1d3429a0fedf8f1674df6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2A. Form and manner in which an application for a crisis loan is to be made[^key-67d5f4ddb4b1d3429a0fedf8f1674df6]
+## 2A. Form and manner in which an application for a crisis loan is to be made[^c-67d5f4ddb4b1d3429a0fedf8f1674df6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Written applications[^key-67d5f4ddb4b1d3429a0fedf8f1674df6]
+## 3. Written applications[^c-67d5f4ddb4b1d3429a0fedf8f1674df6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Crisis loan application not made in writing[^key-67d5f4ddb4b1d3429a0fedf8f1674df6]
+## 4. Crisis loan application not made in writing[^c-67d5f4ddb4b1d3429a0fedf8f1674df6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consent where application is made on behalf of someone else[^key-67d5f4ddb4b1d3429a0fedf8f1674df6]
+## 5. Consent where application is made on behalf of someone else[^c-67d5f4ddb4b1d3429a0fedf8f1674df6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Time at which an application is to be treated as made[^key-67d5f4ddb4b1d3429a0fedf8f1674df6]
+## 6. Time at which an application is to be treated as made[^c-67d5f4ddb4b1d3429a0fedf8f1674df6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Condition to be satisfied before payment of a repayable social fund award[^key-67d5f4ddb4b1d3429a0fedf8f1674df6]
+## 7. Condition to be satisfied before payment of a repayable social fund award[^c-67d5f4ddb4b1d3429a0fedf8f1674df6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Circumstances in which an award is to be extinguished[^key-67d5f4ddb4b1d3429a0fedf8f1674df6]
+## 8. Circumstances in which an award is to be extinguished[^c-67d5f4ddb4b1d3429a0fedf8f1674df6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocations[^key-67d5f4ddb4b1d3429a0fedf8f1674df6]
+## 9. Revocations[^c-67d5f4ddb4b1d3429a0fedf8f1674df6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-67d5f4ddb4b1d3429a0fedf8f1674df6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67d5f4ddb4b1d3429a0fedf8f1674df6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-67d5f4ddb4b1d3429a0fedf8f1674df6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67d5f4ddb4b1d3429a0fedf8f1674df6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-67d5f4ddb4b1d3429a0fedf8f1674df6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/357) revoked (12.10.2022) by [The Social Fund (Budgeting Loans) (Applications and Miscellaneous Provisions) Regulations (Northern Ireland) 2022 (S.R. 2022/222)](https://www.legislation.gov.uk/nisr/2022/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1), [8(a)](https://www.legislation.gov.uk/nisr/2022/222/regulation/8/a)
+[^c-67d5f4ddb4b1d3429a0fedf8f1674df6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/357) revoked (12.10.2022) by [The Social Fund (Budgeting Loans) (Applications and Miscellaneous Provisions) Regulations (Northern Ireland) 2022 (S.R. 2022/222)](https://www.legislation.gov.uk/nisr/2022/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/222/regulation/1/1), [8(a)](https://www.legislation.gov.uk/nisr/2022/222/regulation/8/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Pilot regulations: powers[^key-504e8d1b16b11cdbcd9c204ee2a72d3d]
+## 5. Pilot regulations: powers[^c-504e8d1b16b11cdbcd9c204ee2a72d3d]
 
 *Extent: E+W*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-504e8d1b16b11cdbcd9c204ee2a72d3d]: Commencement: S. 5 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-504e8d1b16b11cdbcd9c204ee2a72d3d]: Commencement: S. 5 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

@@ -42,14 +42,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 (2) In section 2A (health service providers subject to investigation)—
 
 - (a) in subsection (1) after the words “if they are” there is inserted “ or were at the time of the action complained of ”;
-- (b)[^key-71b3849db5e5b23fcecb090a55a82a4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-71b3849db5e5b23fcecb090a55a82a4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 2B (independent providers subject to investigation)—
 
 - (a) in paragraph (a) of subsection (1) after the words “they are” there is inserted “ or were at the time of the action complained of ”;
 - (b) in paragraph (b) of subsection (1) after the words “they are not” there is inserted “ or were not at the time of the action complained of ”;
-- (c)[^key-b9a2a2787d982ea0a4526edbea92e840] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-b9a2a2787d982ea0a4526edbea92e840] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b9a2a2787d982ea0a4526edbea92e840] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-b9a2a2787d982ea0a4526edbea92e840] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Requirements to be complied with.
 
@@ -80,8 +80,8 @@ the amendments made by this Act do not enable that complaint to be revived, or a
 
 [^c887048]: Marginal citation: [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46).
 
-[^key-71b3849db5e5b23fcecb090a55a82a4e]: Textual amendment: [S. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2000/28/section/1/2/b) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [s. 40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/wsi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/1)[(3)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/3)
+[^c-71b3849db5e5b23fcecb090a55a82a4e]: Textual amendment: [S. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2000/28/section/1/2/b) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [s. 40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/wsi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/1)[(3)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/3)
 
-[^key-b9a2a2787d982ea0a4526edbea92e840]: Textual amendment: [S. 1(3)(c)](https://www.legislation.gov.uk/ukpga/2000/28/section/1/3/c)[(d)](https://www.legislation.gov.uk/ukpga/2000/28/section/1/3/d) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [s. 40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/wsi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/1)[(3)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/3); [S.I. 2005/2800](https://www.legislation.gov.uk/wsi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/1)[(3)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/3)
+[^c-b9a2a2787d982ea0a4526edbea92e840]: Textual amendment: [S. 1(3)(c)](https://www.legislation.gov.uk/ukpga/2000/28/section/1/3/c)[(d)](https://www.legislation.gov.uk/ukpga/2000/28/section/1/3/d) repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [s. 40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/wsi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/1)[(3)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/3); [S.I. 2005/2800](https://www.legislation.gov.uk/wsi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/1)[(3)](https://www.legislation.gov.uk/wsi/2005/2800/article/5/3)
 
 [^c887049]: Marginal citation: [1993 c. 46](https://www.legislation.gov.uk/ukpga/1993/46).

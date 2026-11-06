@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8L. Claims for brought-forward allowance and downsizing addition[^key-1d8c2aa8d9b978eac19f5f41ff3300a1][^key-7028f3ad806cf3d459ca4a31eeb118e6]
+## 8L. Claims for brought-forward allowance and downsizing addition[^c-1d8c2aa8d9b978eac19f5f41ff3300a1][^c-7028f3ad806cf3d459ca4a31eeb118e6]
 
 *Extent: E+W+S+N.I.*
 
-(1) A claim for brought-forward allowance for a person (see section 8G) or for a downsizing addition for a person (see sections 8FA to 8FD)[^key-da46ea2c6b6b6aaa85e5ad067126b5fd] may be made—
+(1) A claim for brought-forward allowance for a person (see section 8G) or for a downsizing addition for a person (see sections 8FA to 8FD)[^c-da46ea2c6b6b6aaa85e5ad067126b5fd] may be made—
 
 - (a) by the person's personal representatives within the permitted period, or
 - (b) (if no claim is so made) by any other person liable to the tax chargeable on the person's death within such later period as an officer of Revenue and Customs may in the particular case allow.
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1d8c2aa8d9b978eac19f5f41ff3300a1]: Textual amendment: Ss. 8D-8M inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2015/33/section/9/4)
+[^c-1d8c2aa8d9b978eac19f5f41ff3300a1]: Textual amendment: Ss. 8D-8M inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2015/33/section/9/4)
 
-[^key-7028f3ad806cf3d459ca4a31eeb118e6]: Textual amendment: Words in s. 8L heading inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 11(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/11/a)
+[^c-7028f3ad806cf3d459ca4a31eeb118e6]: Textual amendment: Words in s. 8L heading inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 11(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/11/a)
 
-[^key-da46ea2c6b6b6aaa85e5ad067126b5fd]: Textual amendment: Words in s. 8L(1) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 11(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/11/b)
+[^c-da46ea2c6b6b6aaa85e5ad067126b5fd]: Textual amendment: Words in s. 8L(1) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 11(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/11/b)

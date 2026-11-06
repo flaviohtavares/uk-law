@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Grant of driving licences: residence requirement[^key-c7b0d7ee47ac96f92a0d6985205a2674]
+## 46. Grant of driving licences: residence requirement[^c-c7b0d7ee47ac96f92a0d6985205a2674]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7b0d7ee47ac96f92a0d6985205a2674]: Commencement: S. 46 in force at 14.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/d)
+[^c-c7b0d7ee47ac96f92a0d6985205a2674]: Commencement: S. 46 in force at 14.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/d)

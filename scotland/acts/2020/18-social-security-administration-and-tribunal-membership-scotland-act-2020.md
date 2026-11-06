@@ -74,11 +74,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### 2. Appointment of person to act on behalf of individual
 
-(1)[^key-cfad074dae6de177111d6ce16623a269] The Social Security (Scotland) Act 2018 is modified as follows.
+(1)[^c-cfad074dae6de177111d6ce16623a269] The Social Security (Scotland) Act 2018 is modified as follows.
 
-(2)[^key-cfad074dae6de177111d6ce16623a269] Section 58 is repealed.
+(2)[^c-cfad074dae6de177111d6ce16623a269] Section 58 is repealed.
 
-(3)[^key-cfad074dae6de177111d6ce16623a269] In section 85A (as inserted by section 1), after subsection (5) insert—
+(3)[^c-cfad074dae6de177111d6ce16623a269] In section 85A (as inserted by section 1), after subsection (5) insert—
 
 > (5A) The Scottish Ministers must consider whether to make an appointment under subsection (1), or to terminate such an appointment, if requested to do so by—
 >
@@ -98,7 +98,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-(4)[^key-7c84d9259a0f01306ed603cdb191a3ba][^key-a6c7691b8dce1037f06d4266566b4f07] After section 85A insert—
+(4)[^c-7c84d9259a0f01306ed603cdb191a3ba][^c-a6c7691b8dce1037f06d4266566b4f07] After section 85A insert—
 
 > **85B. Appointment of person to act in other circumstances**
 >
@@ -173,7 +173,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-(5)[^key-e3de9f515bfb5fae4485782e21cd97b5] After section 85B (as inserted by subsection (4)) insert—
+(5)[^c-e3de9f515bfb5fae4485782e21cd97b5] After section 85B (as inserted by subsection (4)) insert—
 
 > **85C. Guidelines for decisions about appointees**
 >
@@ -261,7 +261,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-(7)[^key-cfad074dae6de177111d6ce16623a269] After section 85D (as inserted by subsection (6)) insert—
+(7)[^c-cfad074dae6de177111d6ce16623a269] After section 85D (as inserted by subsection (6)) insert—
 
 > **85E. Guidance for appointees**
 >
@@ -275,7 +275,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Non-disclosure of health information
 
-#### 3. Determination of entitlement to assistance: non-disclosure of information[^key-894e236c57e1161469355b44a672bc8d]
+#### 3. Determination of entitlement to assistance: non-disclosure of information[^c-894e236c57e1161469355b44a672bc8d]
 
 (1) The Social Security (Scotland) Act 2018 is modified as follows.
 
@@ -381,7 +381,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) The Scottish Ministers may publish a code of practice under section 84B of the 2018 Act without consulting in accordance with section 84B(3) of that Act, provided the only differences from the code last published under section 76 of that Act are to reflect the renumbering effected by section 5 of this Act.
 
-#### 7. Uprating for inflation[^key-0a7c43e9bcce2a4d7020462ce19eaabf]
+#### 7. Uprating for inflation[^c-0a7c43e9bcce2a4d7020462ce19eaabf]
 
 (1) The Social Security (Scotland) Act 2018 is modified as follows.
 
@@ -430,7 +430,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (8) The title of section 86B becomes “ Duty to uprate certain types of assistance ”.
 
-#### 8. Transitional provision in consequence of section 7[^key-e12c816f94309bc903ef83eba035c8d7]
+#### 8. Transitional provision in consequence of section 7[^c-e12c816f94309bc903ef83eba035c8d7]
 
 (1) Anything done under section 77 or 78 of the Social Security (Scotland) Act 2018 (“**the 2018 Act**”) is to be treated as having been done under section 86A or 86B, respectively, of that Act.
 
@@ -438,7 +438,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Identifying possible eligibility
 
-#### 9. Duty to inform about possible eligibility[^key-8e09101a4d943611c8d34e365c2ac047]
+#### 9. Duty to inform about possible eligibility[^c-8e09101a4d943611c8d34e365c2ac047]
 
 (1) The Social Security (Scotland) Act 2018 is modified as follows.
 
@@ -465,7 +465,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-#### 10. Transitional provision in consequence of section 9[^key-c905eb949b1d6dbecb5ff185dbca5341]
+#### 10. Transitional provision in consequence of section 9[^c-c905eb949b1d6dbecb5ff185dbca5341]
 
 (1) Anything done under section 53 of the Social Security (Scotland) Act 2018 (“**the 2018 Act**”) is to be treated as having been done under section 84C of that Act.
 
@@ -473,7 +473,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Diagnosing terminal illness for disability assistance purposes
 
-#### 11. Persons who can give diagnosis[^key-bc71aafc5b4e19bec32ca280afdc06ce]
+#### 11. Persons who can give diagnosis[^c-bc71aafc5b4e19bec32ca280afdc06ce]
 
 (1) The Social Security (Scotland) Act 2018 is modified as follows.
 
@@ -519,7 +519,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Suspension of assistance
 
-#### 12. Power to suspend payment of assistance[^key-72f0214aebb371f3f197e57c6d905970]
+#### 12. Power to suspend payment of assistance[^c-72f0214aebb371f3f197e57c6d905970]
 
 (1) The Social Security (Scotland) Act 2018 is modified as follows.
 
@@ -638,7 +638,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Power to set value of assistance as nil in certain circumstances
 
-#### 13. Power to set value of assistance as nil in certain circumstances[^key-2bfd58b3680c4bdf2e73d9ed7f5313b5]
+#### 13. Power to set value of assistance as nil in certain circumstances[^c-2bfd58b3680c4bdf2e73d9ed7f5313b5]
 
 (1) The Social Security (Scotland) Act 2018 is modified as follows.
 
@@ -761,7 +761,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## PART 2 — Tribunal membership
 
-### 15. Authorisation of judiciary to sit in Scottish Tribunals[^key-a847d65a6c2f9980aef829dccf35b31b]
+### 15. Authorisation of judiciary to sit in Scottish Tribunals[^c-a847d65a6c2f9980aef829dccf35b31b]
 
 (1) Section 18 of the Tribunals (Scotland) Act 2014 is modified as follows.
 
@@ -820,7 +820,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 16. Consequential modifications[^key-8f32dd2372a51d1c2886be89e6397925]
+### 16. Consequential modifications[^c-8f32dd2372a51d1c2886be89e6397925]
 
 (1) The Tribunals (Scotland) Act 2014 is modified as follows.
 
@@ -908,30 +908,30 @@ The short title of this Act is the Social Security Administration and Tribunal M
 
 ## Annotations
 
-[^key-cfad074dae6de177111d6ce16623a269]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2020/18/section/2/1)[(2)](https://www.legislation.gov.uk/asp/2020/18/section/2/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/2/3)[(7)](https://www.legislation.gov.uk/asp/2020/18/section/2/7) in force at 24.1.2022 by [S.S.I. 2021/442](https://www.legislation.gov.uk/ssi/2021/442), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/442/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/442/regulation/3))
+[^c-cfad074dae6de177111d6ce16623a269]: Commencement: [S. 2(1)](https://www.legislation.gov.uk/asp/2020/18/section/2/1)[(2)](https://www.legislation.gov.uk/asp/2020/18/section/2/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/2/3)[(7)](https://www.legislation.gov.uk/asp/2020/18/section/2/7) in force at 24.1.2022 by [S.S.I. 2021/442](https://www.legislation.gov.uk/ssi/2021/442), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/442/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/442/regulation/3))
 
-[^key-7c84d9259a0f01306ed603cdb191a3ba]: Commencement: [S. 2(4)](https://www.legislation.gov.uk/asp/2020/18/section/2/4) in force at 23.12.2020 for specified purposes by [S.S.I. 2020/422](https://www.legislation.gov.uk/ssi/2020/422), [reg. 3](https://www.legislation.gov.uk/ssi/2020/422/regulation/3)
+[^c-7c84d9259a0f01306ed603cdb191a3ba]: Commencement: [S. 2(4)](https://www.legislation.gov.uk/asp/2020/18/section/2/4) in force at 23.12.2020 for specified purposes by [S.S.I. 2020/422](https://www.legislation.gov.uk/ssi/2020/422), [reg. 3](https://www.legislation.gov.uk/ssi/2020/422/regulation/3)
 
-[^key-a6c7691b8dce1037f06d4266566b4f07]: Commencement: [S. 2(4)](https://www.legislation.gov.uk/asp/2020/18/section/2/4) in force at 24.1.2022 for specified purposes by [S.S.I. 2021/442](https://www.legislation.gov.uk/ssi/2021/442), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/442/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/442/regulation/3))
+[^c-a6c7691b8dce1037f06d4266566b4f07]: Commencement: [S. 2(4)](https://www.legislation.gov.uk/asp/2020/18/section/2/4) in force at 24.1.2022 for specified purposes by [S.S.I. 2021/442](https://www.legislation.gov.uk/ssi/2021/442), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/442/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/442/regulation/3))
 
-[^key-e3de9f515bfb5fae4485782e21cd97b5]: Commencement: [S. 2(5)](https://www.legislation.gov.uk/asp/2020/18/section/2/5) in force at 26.7.2021 by [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/a)
+[^c-e3de9f515bfb5fae4485782e21cd97b5]: Commencement: [S. 2(5)](https://www.legislation.gov.uk/asp/2020/18/section/2/5) in force at 26.7.2021 by [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/a)
 
-[^key-894e236c57e1161469355b44a672bc8d]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/18/section/3) in force at 26.7.2021 by [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/b)
+[^c-894e236c57e1161469355b44a672bc8d]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/18/section/3) in force at 26.7.2021 by [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/b)
 
-[^key-0a7c43e9bcce2a4d7020462ce19eaabf]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/18/section/7) in force at 11.10.2021 by [S.S.I. 2021/338](https://www.legislation.gov.uk/ssi/2021/338), [reg. 2](https://www.legislation.gov.uk/ssi/2021/338/regulation/2)
+[^c-0a7c43e9bcce2a4d7020462ce19eaabf]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/18/section/7) in force at 11.10.2021 by [S.S.I. 2021/338](https://www.legislation.gov.uk/ssi/2021/338), [reg. 2](https://www.legislation.gov.uk/ssi/2021/338/regulation/2)
 
-[^key-e12c816f94309bc903ef83eba035c8d7]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/18/section/8) in force at 20.10.2021 by [S.S.I. 2021/352](https://www.legislation.gov.uk/ssi/2021/352), [reg. 2](https://www.legislation.gov.uk/ssi/2021/352/regulation/2)
+[^c-e12c816f94309bc903ef83eba035c8d7]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2020/18/section/8) in force at 20.10.2021 by [S.S.I. 2021/352](https://www.legislation.gov.uk/ssi/2021/352), [reg. 2](https://www.legislation.gov.uk/ssi/2021/352/regulation/2)
 
-[^key-8e09101a4d943611c8d34e365c2ac047]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/18/section/9) in force at 26.7.2021 by [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/c)
+[^c-8e09101a4d943611c8d34e365c2ac047]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/18/section/9) in force at 26.7.2021 by [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/c)
 
-[^key-c905eb949b1d6dbecb5ff185dbca5341]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/18/section/10) in force at 26.7.2021 by [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/d)
+[^c-c905eb949b1d6dbecb5ff185dbca5341]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/18/section/10) in force at 26.7.2021 by [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/d)
 
-[^key-bc71aafc5b4e19bec32ca280afdc06ce]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/18/section/11) in force at 26.7.2021 by [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/e)
+[^c-bc71aafc5b4e19bec32ca280afdc06ce]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/18/section/11) in force at 26.7.2021 by [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/e)
 
-[^key-72f0214aebb371f3f197e57c6d905970]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/18/section/12) in force at 26.7.2021 by [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/f)
+[^c-72f0214aebb371f3f197e57c6d905970]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/18/section/12) in force at 26.7.2021 by [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/f)
 
-[^key-2bfd58b3680c4bdf2e73d9ed7f5313b5]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/18/section/13) in force at 26.7.2021 by [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/g)
+[^c-2bfd58b3680c4bdf2e73d9ed7f5313b5]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/18/section/13) in force at 26.7.2021 by [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/g)
 
-[^key-a847d65a6c2f9980aef829dccf35b31b]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/18/section/15) in force at 13.5.2022 by [S.S.I. 2022/146](https://www.legislation.gov.uk/ssi/2022/146), [reg. 2](https://www.legislation.gov.uk/ssi/2022/146/regulation/2)
+[^c-a847d65a6c2f9980aef829dccf35b31b]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/18/section/15) in force at 13.5.2022 by [S.S.I. 2022/146](https://www.legislation.gov.uk/ssi/2022/146), [reg. 2](https://www.legislation.gov.uk/ssi/2022/146/regulation/2)
 
-[^key-8f32dd2372a51d1c2886be89e6397925]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/18/section/16) in force at 13.5.2022 by [S.S.I. 2022/146](https://www.legislation.gov.uk/ssi/2022/146), [reg. 2](https://www.legislation.gov.uk/ssi/2022/146/regulation/2)
+[^c-8f32dd2372a51d1c2886be89e6397925]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/18/section/16) in force at 13.5.2022 by [S.S.I. 2022/146](https://www.legislation.gov.uk/ssi/2022/146), [reg. 2](https://www.legislation.gov.uk/ssi/2022/146/regulation/2)

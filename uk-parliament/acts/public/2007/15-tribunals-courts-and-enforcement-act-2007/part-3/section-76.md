@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Rent[^key-eac9585a6e716378979a52e936e351e8]
+## 76. Rent[^c-eac9585a6e716378979a52e936e351e8]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eac9585a6e716378979a52e936e351e8]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2007/15/section/76) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-eac9585a6e716378979a52e936e351e8]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2007/15/section/76) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

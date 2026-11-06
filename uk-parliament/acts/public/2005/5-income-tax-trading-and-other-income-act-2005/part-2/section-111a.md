@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111A. Herd basis rules not to apply where cash basis used[^key-cf5d94276045a1dd87d93157e8506b48]
+## 111A. Herd basis rules not to apply where cash basis used[^c-cf5d94276045a1dd87d93157e8506b48]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in this Chapter applies in calculating the profits of a trade on the cas
 
 ## Annotations
 
-[^key-cf5d94276045a1dd87d93157e8506b48]: Textual amendment: S. 111A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/24)
+[^c-cf5d94276045a1dd87d93157e8506b48]: Textual amendment: S. 111A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/24)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Sections 84 to 86: interpretation[^key-392f6b86d7ed00d6afca87ae619d7eee]
+## 87. Sections 84 to 86: interpretation[^c-392f6b86d7ed00d6afca87ae619d7eee]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ In sections 84 to 86 and this section—
 
 ## Annotations
 
-[^key-392f6b86d7ed00d6afca87ae619d7eee]: Commencement: S. 87 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-392f6b86d7ed00d6afca87ae619d7eee]: Commencement: S. 87 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)

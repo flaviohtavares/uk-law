@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Code awareness and reviewing compliance: Ministry of Defence Police[^key-c7e4c9ee6fa0d41a6d6fd2273819c8d4]
+## 10. Code awareness and reviewing compliance: Ministry of Defence Police[^c-c7e4c9ee6fa0d41a6d6fd2273819c8d4]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7e4c9ee6fa0d41a6d6fd2273819c8d4]: Commencement: S. 10 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-c7e4c9ee6fa0d41a6d6fd2273819c8d4]: Commencement: S. 10 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

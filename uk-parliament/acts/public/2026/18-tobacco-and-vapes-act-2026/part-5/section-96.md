@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Contents and flavour[^key-7d6adf9d76da5b7de086e17766f16174]
+## 96. Contents and flavour[^c-7d6adf9d76da5b7de086e17766f16174]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d6adf9d76da5b7de086e17766f16174]: Commencement: S. 96 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-7d6adf9d76da5b7de086e17766f16174]: Commencement: S. 96 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

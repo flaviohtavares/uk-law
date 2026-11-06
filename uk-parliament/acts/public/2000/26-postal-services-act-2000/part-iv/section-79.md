@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Exercise of functions through nominees.[^key-70d0ab407902663e0ff4293c3764d1b7]
+## 79. Exercise of functions through nominees.[^c-70d0ab407902663e0ff4293c3764d1b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70d0ab407902663e0ff4293c3764d1b7]: Textual amendment: S. 79 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/19); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-70d0ab407902663e0ff4293c3764d1b7]: Textual amendment: S. 79 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/19); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

@@ -41,7 +41,7 @@ that part of the building where the licence specifies that that manufacture or s
 
 **2.** Any building (other than a building containing a dwelling or a building used for office or canteen accommodation) erected on a site in respect of which a licence under the Nuclear Installations Act 1965 [^c20435711] is for the time being in force.
 
-**3.** A building included in the schedule of monuments maintained under section 1 of the Ancient Monuments and Archaeological Areas Act 1979[^c20435721] or under section 3 of the Historic Environment (Wales) Act 2023 *(Extent: W)*[^key-d618e670e748a580b5b01d5482ba6477].
+**3.** A building included in the schedule of monuments maintained under section 1 of the Ancient Monuments and Archaeological Areas Act 1979[^c20435721] or under section 3 of the Historic Environment (Wales) Act 2023 *(Extent: W)*[^c-d618e670e748a580b5b01d5482ba6477].
 
 ### CLASS 2
 
@@ -116,7 +116,7 @@ The extension of a building by the addition at ground level of—
 - (a) a conservatory, porch, covered yard or covered way; or
 - (b) a carport open on at least two sides;
 
-where the floor area of that extension does not exceed 30m<sup>2</sup>, provided that in the case of a conservatory or porch which is wholly or partly glazed, the glazing satisfies the requirements of [^key-3c12c4c36730b0f43e53fe6ce7dc6e06]Part K4, K5.1, K5.2, K5.3, and K5.4[^key-74a902a6a9a1121d69c1510b97174a6d] Part N of Schedule 1.
+where the floor area of that extension does not exceed 30m<sup>2</sup>, provided that in the case of a conservatory or porch which is wholly or partly glazed, the glazing satisfies the requirements of [^c-3c12c4c36730b0f43e53fe6ce7dc6e06]Part K4, K5.1, K5.2, K5.3, and K5.4[^c-74a902a6a9a1121d69c1510b97174a6d] Part N of Schedule 1.
 
 ## Annotations
 
@@ -126,8 +126,8 @@ where the floor area of that extension does not exceed 30m<sup>2</sup>, provided
 
 [^c20435721]: Marginal citation: [1979 c.46](https://www.legislation.gov.uk/ukpga/1979/46); section 1 was amended by Schedule 4 to the [National Heritage Act 1983 (c.47)](https://www.legislation.gov.uk/ukpga/1983/47).
 
-[^key-d618e670e748a580b5b01d5482ba6477]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2214/schedule/2) Class 1 para. 3 inserted (W.) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [53](https://www.legislation.gov.uk/wsi/2024/924/regulation/53)
+[^c-d618e670e748a580b5b01d5482ba6477]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2214/schedule/2) Class 1 para. 3 inserted (W.) (4.11.2024) by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/wsi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2), [53](https://www.legislation.gov.uk/wsi/2024/924/regulation/53)
 
-[^key-3c12c4c36730b0f43e53fe6ce7dc6e06]: Textual amendment: Words in Sch. 2 Class 7 substituted (W. in relation to excepted energy buildings) (8.6.2018) by [The Building Regulations &c. (Amendment) (Excepted Energy Buildings) (Wales) Regulations 2018 (S.I. 2018/558)](https://www.legislation.gov.uk/wsi/2018/558), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2), [14](https://www.legislation.gov.uk/wsi/2018/558/regulation/14) (with [reg. 29](https://www.legislation.gov.uk/wsi/2018/558/regulation/29))
+[^c-3c12c4c36730b0f43e53fe6ce7dc6e06]: Textual amendment: Words in Sch. 2 Class 7 substituted (W. in relation to excepted energy buildings) (8.6.2018) by [The Building Regulations &c. (Amendment) (Excepted Energy Buildings) (Wales) Regulations 2018 (S.I. 2018/558)](https://www.legislation.gov.uk/wsi/2018/558), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2), [14](https://www.legislation.gov.uk/wsi/2018/558/regulation/14) (with [reg. 29](https://www.legislation.gov.uk/wsi/2018/558/regulation/29))
 
-[^key-74a902a6a9a1121d69c1510b97174a6d]: Textual amendment: Words in Sch. 2 Class 7 substituted (E., but only in relation to excepted energy buildings in W.) (6.4.2013) by [The Building Regulations &c. (Amendment) Regulations 2012 (S.I. 2012/3119)](https://www.legislation.gov.uk/uksi/2012/3119), [reg. 28](https://www.legislation.gov.uk/uksi/2012/3119/regulation/28), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3119/schedule/1) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3119/regulation/1/3), [45-47](https://www.legislation.gov.uk/uksi/2012/3119/regulation/45)) (as amended by [S.I. 2013/181](https://www.legislation.gov.uk/uksi/2013/181), reg. 5, Sch.) \[Editorial note: This amendment no longer applies at all in relation to W. from 8.6.2018\]
+[^c-74a902a6a9a1121d69c1510b97174a6d]: Textual amendment: Words in Sch. 2 Class 7 substituted (E., but only in relation to excepted energy buildings in W.) (6.4.2013) by [The Building Regulations &c. (Amendment) Regulations 2012 (S.I. 2012/3119)](https://www.legislation.gov.uk/uksi/2012/3119), [reg. 28](https://www.legislation.gov.uk/uksi/2012/3119/regulation/28), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3119/schedule/1) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3119/regulation/1/3), [45-47](https://www.legislation.gov.uk/uksi/2012/3119/regulation/45)) (as amended by [S.I. 2013/181](https://www.legislation.gov.uk/uksi/2013/181), reg. 5, Sch.) \[Editorial note: This amendment no longer applies at all in relation to W. from 8.6.2018\]

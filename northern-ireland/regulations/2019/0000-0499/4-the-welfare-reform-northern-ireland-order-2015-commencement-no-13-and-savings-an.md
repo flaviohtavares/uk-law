@@ -47,11 +47,11 @@ This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Com
 
 (1) In this Order—
 
-- “the 1992 Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;[^key-1774dd99e9d0d5aa26fdf2a9c924fab7]
+- “the 1992 Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;[^c-1774dd99e9d0d5aa26fdf2a9c924fab7]
 - “**the 2002 Act**” means the State Pension Credit Act (Northern Ireland) 2002 [^c23690161];
 - “**the appointed day**” means the day referred to in Article 3;
-- “assessment period”, in relation to universal credit entitlement, has the same meaning as in regulation 22 of the Universal Credit Regulations (Northern Ireland) 2016;[^key-2c692ca82aefa443b28f38fa8ab51bf1]
-- [^key-a16e68d98c836b4c41980e4fd56e0145]...
+- “assessment period”, in relation to universal credit entitlement, has the same meaning as in regulation 22 of the Universal Credit Regulations (Northern Ireland) 2016;[^c-2c692ca82aefa443b28f38fa8ab51bf1]
+- [^c-a16e68d98c836b4c41980e4fd56e0145]...
 - “**the Housing Benefit SPC Regulations**” means the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006 [^c23690181];
 - “**the No. 8 Order**” means the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 8 and Transitional and Transitory Provisions) Order 2017 [^c23690191];
 - “**polygamous marriage**” has the same meaning as in regulation 3(4) of the Universal Credit Regulations (Northern Ireland) 2016 [^c23690201];
@@ -61,24 +61,24 @@ This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Com
   - (b) Northern Ireland legislation within the meaning of section 24 of the Interpretation Act 1978 [^c23690231];
 - “**state pension credit**” has the same meaning as in the 2002 Act [^c23690241].
 
-(1A)[^key-d7a4e4e5cc9a74d089625058683fba33] In this Order, “couple” has the meanings given by the 2002 Act, save—
+(1A)[^c-d7a4e4e5cc9a74d089625058683fba33] In this Order, “couple” has the meanings given by the 2002 Act, save—
 
 - (a) in reference to entitlement to housing benefit, where it has the meanings given by Part VII of the 1992 Act; and
-- (b)[^key-9259fd6d62cce8994a5e7a282c303190] in Article 7(3), in relation to references to persons being treated as a couple in accordance with Article 7(2)(a)(ii), where it has the meaning referred to in Article 7(2)(a)(ii)
+- (b)[^c-9259fd6d62cce8994a5e7a282c303190] in Article 7(3), in relation to references to persons being treated as a couple in accordance with Article 7(2)(a)(ii), where it has the meaning referred to in Article 7(2)(a)(ii)
 
 (2) In this Order—
 
 - (a) “**mixed-age couple**” means a couple, one member of which has attained the qualifying age for state pension credit and the other of which has not; and
 - (b) the definition in sub-paragraph (a) includes a polygamous marriage where at least one party to the marriage has attained the qualifying age for state pension credit and at least one has not.
 
-(3) Save as stated to the contrary in Article 6(2) [^key-6a05769991433d1b6ee51fbe1deb17ef]..., all references in this Order to claims or entitlement to housing benefit are to claims or entitlement under the Housing Benefit SPC Regulations.
+(3) Save as stated to the contrary in Article 6(2) [^c-6a05769991433d1b6ee51fbe1deb17ef]..., all references in this Order to claims or entitlement to housing benefit are to claims or entitlement under the Housing Benefit SPC Regulations.
 
 (4) In this Order—
 
 - (a) a person is entitled to state pension credit or housing benefit on any day where the person has made a claim for that benefit and the conditions of entitlement are met in relation to that person, regardless of whether, respectively, entitlement begins on a later day under—
   - (i) regulation 16A (date of entitlement under an award of state pension credit for the purpose of payability and effective date of change of rate) [^c23690251] of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987, or
   - (ii) regulation 55 (date on which entitlement is to commence) of the Housing Benefit SPC Regulations, and
-- (b) save in Article 7(3)(a),[^key-f0ebd4fe29b8605be2c1f60daf41f43b] a reference to claiming or entitlement to state pension credit or housing benefit as part of a mixed-age[^key-56c387960a416ee5a2b6203b374aecf3] couple is a reference to a person claiming or[^key-a54e12a2702e636c20f0ffc7f4cc3f35] being so entitled, on the basis that the person[^key-5a846e5490706ee7bdc6f0ce6b278c47] is a member of a couple or [^key-04f4797148fe7ae2c0ae6bc13995876d]... a polygamous marriage.
+- (b) save in Article 7(3)(a),[^c-f0ebd4fe29b8605be2c1f60daf41f43b] a reference to claiming or entitlement to state pension credit or housing benefit as part of a mixed-age[^c-56c387960a416ee5a2b6203b374aecf3] couple is a reference to a person claiming or[^c-a54e12a2702e636c20f0ffc7f4cc3f35] being so entitled, on the basis that the person[^c-5a846e5490706ee7bdc6f0ce6b278c47] is a member of a couple or [^c-04f4797148fe7ae2c0ae6bc13995876d]... a polygamous marriage.
 
 ## 3. Appointed day
 
@@ -94,7 +94,7 @@ This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Com
 
 (2) The savings in the sub-paragraphs of paragraph (1) shall cease to have effect in relation to the member of the mixed-age couple referred to on any day after the appointed day when that person is not entitled to either state pension credit or housing benefit as part of the same mixed-age couple.
 
-(3)[^key-4a87a434bef5a494bb23acc6bde072e4] Nothing in regulation 4A (restriction on claims for housing benefit, income support or a tax credit) of the Transitional Regulations prevents a claim for housing benefit by a member of a mixed-age couple referred to in paragraph (1) where—
+(3)[^c-4a87a434bef5a494bb23acc6bde072e4] Nothing in regulation 4A (restriction on claims for housing benefit, income support or a tax credit) of the Transitional Regulations prevents a claim for housing benefit by a member of a mixed-age couple referred to in paragraph (1) where—
 
 - (a) they have been issued with a migration notice;
 - (b) they make the claim for housing benefit within 3 months beginning with—
@@ -148,14 +148,14 @@ within 3 months beginning with the day mentioned in that sub-paragraph, any days
 - (a) in the case of an award referred to in paragraph (2)(a) or (b), on the later of the appointed day and the day entitlement under the Housing Benefit SPC Regulations as part of a mixed-age couple takes effect on the award, as a change of circumstances, in accordance with the Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001 [^c23690291]; or
 - (b) in the case of an award referred to in paragraph (2)(c), on the day after the day of making of this Order.
 
-(4) Paragraph (1) does not apply to awards in respect of specified accommodation or temporary accommodation, as defined in regulation 2 of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^key-f66ef3478dc4de2f0b344ebfc85f98d0] [^c23690301].
+(4) Paragraph (1) does not apply to awards in respect of specified accommodation or temporary accommodation, as defined in regulation 2 of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^c-f66ef3478dc4de2f0b344ebfc85f98d0] [^c23690301].
 
-## 7. Transitional provision: application to housing benefit of the rules in universal credit for treatment of couples and polygamous marriages[^key-c10d5e3cc2be5b1c606b786b4861c7d8][^key-de6539a4b5cd824848bb15f0233b021a][^key-752a35e094e255adbcc64f913eaf54ef]
+## 7. Transitional provision: application to housing benefit of the rules in universal credit for treatment of couples and polygamous marriages[^c-c10d5e3cc2be5b1c606b786b4861c7d8][^c-de6539a4b5cd824848bb15f0233b021a][^c-752a35e094e255adbcc64f913eaf54ef]
 
 (1) Paragraph (3) applies where a person (“P”), who has attained the qualifying age, would otherwise not be entitled to either housing benefit or universal credit, because—
 
 - (a) but for that paragraph, P would be a member of the same household as a partner who has not attained the qualifying age and therefore a member of a mixed-age couple, who—
-  - (i) is prevented from claiming housing benefit under regulation 4A of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^key-a1c1e16cc4db00be53b4a33d132cb309] ; or
+  - (i) is prevented from claiming housing benefit under regulation 4A of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^c-a1c1e16cc4db00be53b4a33d132cb309] ; or
   - (ii) has an award of housing benefit terminated under Article 6; and
 - (b) P is neither entitled to universal credit jointly with that partner, nor entitled to universal credit as a single person, in one of the cases set out in paragraph (2).
 
@@ -176,7 +176,7 @@ within 3 months beginning with the day mentioned in that sub-paragraph, any days
 
 where paragraph (2)(a) applies, with effect from the date on which the relevant paragraph of regulation 3 of the Universal Credit Regulations (Northern Ireland) 2016 first applies to C, or, where paragraph (2)(b) applies, with effect from the date referred to in paragraph (2)(b) on which C lost universal credit entitlement.
 
-## 8. Transitional provision: where restrictions on claims for universal credit are in place[^key-d19c723de3ec0727177df505a737f362]
+## 8. Transitional provision: where restrictions on claims for universal credit are in place[^c-d19c723de3ec0727177df505a737f362]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -335,13 +335,13 @@ Where a party to a polygamous marriage is excluded from state pension credit und
 
 [^c23690151]: Marginal citation: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006).
 
-[^key-1774dd99e9d0d5aa26fdf2a9c924fab7]: Textual amendment: Words in art. 2(1) inserted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(a)(i)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/a/i)
+[^c-1774dd99e9d0d5aa26fdf2a9c924fab7]: Textual amendment: Words in art. 2(1) inserted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(a)(i)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/a/i)
 
 [^c23690161]: Marginal citation: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14).
 
-[^key-2c692ca82aefa443b28f38fa8ab51bf1]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/4/article/2/1) inserted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/119)](https://www.legislation.gov.uk/nisr/2020/119), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/119/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/nisr/2020/119/regulation/7/2/a)
+[^c-2c692ca82aefa443b28f38fa8ab51bf1]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/4/article/2/1) inserted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/119)](https://www.legislation.gov.uk/nisr/2020/119), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/119/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/nisr/2020/119/regulation/7/2/a)
 
-[^key-a16e68d98c836b4c41980e4fd56e0145]: Textual amendment: Words in art. 2(1) omitted (15.5.2019) by virtue of [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/a/ii)
+[^c-a16e68d98c836b4c41980e4fd56e0145]: Textual amendment: Words in art. 2(1) omitted (15.5.2019) by virtue of [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/a/ii)
 
 [^c23690181]: Marginal citation: S.R. [2006 No. 406](https://www.legislation.gov.uk/ukcm/2006/406).
 
@@ -357,27 +357,27 @@ Where a party to a polygamous marriage is excluded from state pension credit und
 
 [^c23690241]: Marginal citation: *See* section 1.
 
-[^key-d7a4e4e5cc9a74d089625058683fba33]: Textual amendment: Art. 2(1A) inserted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/b)
+[^c-d7a4e4e5cc9a74d089625058683fba33]: Textual amendment: Art. 2(1A) inserted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/b)
 
-[^key-9259fd6d62cce8994a5e7a282c303190]: Textual amendment: [Art. 2(1A)(b)](https://www.legislation.gov.uk/nisr/2019/4/article/2/1A/b) substituted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/119)](https://www.legislation.gov.uk/nisr/2020/119), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/119/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/nisr/2020/119/regulation/7/2/b)
+[^c-9259fd6d62cce8994a5e7a282c303190]: Textual amendment: [Art. 2(1A)(b)](https://www.legislation.gov.uk/nisr/2019/4/article/2/1A/b) substituted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/119)](https://www.legislation.gov.uk/nisr/2020/119), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/119/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/nisr/2020/119/regulation/7/2/b)
 
-[^key-6a05769991433d1b6ee51fbe1deb17ef]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisr/2019/4/article/2/3) omitted (1.8.2022) by virtue of [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2022/194/regulation/13), [Sch. para. 3(2)](https://www.legislation.gov.uk/nisr/2022/194/schedule/paragraph/3/2)
+[^c-6a05769991433d1b6ee51fbe1deb17ef]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisr/2019/4/article/2/3) omitted (1.8.2022) by virtue of [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2022/194/regulation/13), [Sch. para. 3(2)](https://www.legislation.gov.uk/nisr/2022/194/schedule/paragraph/3/2)
 
 [^c23690251]: Marginal citation: S.R. [1987 No. 465](https://www.legislation.gov.uk/ukcm/1987/465). Regulation 16A was inserted by S.R. [2003 No. 191](https://www.legislation.gov.uk/ukcm/2003/191); there are amendments none of which are relevant to this Order.
 
-[^key-f0ebd4fe29b8605be2c1f60daf41f43b]: Textual amendment: Words in art. 2(4)(b) inserted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/d/i)
+[^c-f0ebd4fe29b8605be2c1f60daf41f43b]: Textual amendment: Words in art. 2(4)(b) inserted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(d)(i)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/d/i)
 
-[^key-56c387960a416ee5a2b6203b374aecf3]: Textual amendment: Word in art. 2(4)(b) inserted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/d/ii)
+[^c-56c387960a416ee5a2b6203b374aecf3]: Textual amendment: Word in art. 2(4)(b) inserted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/d/ii)
 
-[^key-a54e12a2702e636c20f0ffc7f4cc3f35]: Textual amendment: Words in art. 2(4)(b) substituted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(d)(iii)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/d/iii)
+[^c-a54e12a2702e636c20f0ffc7f4cc3f35]: Textual amendment: Words in art. 2(4)(b) substituted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(d)(iii)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/d/iii)
 
-[^key-5a846e5490706ee7bdc6f0ce6b278c47]: Textual amendment: Words in art. 2(4)(b) substituted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(d)(iv)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/d/iv)
+[^c-5a846e5490706ee7bdc6f0ce6b278c47]: Textual amendment: Words in art. 2(4)(b) substituted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(d)(iv)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/d/iv)
 
-[^key-04f4797148fe7ae2c0ae6bc13995876d]: Textual amendment: Words in art. 2(4)(b) omitted (15.5.2019) by virtue of [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(d)(v)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/d/v)
+[^c-04f4797148fe7ae2c0ae6bc13995876d]: Textual amendment: Words in art. 2(4)(b) omitted (15.5.2019) by virtue of [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(2)(d)(v)](https://www.legislation.gov.uk/nisr/2019/107/article/2/2/d/v)
 
 [^c23690261]: Marginal citation: Section 4 was amended by [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-4a87a434bef5a494bb23acc6bde072e4]: Textual amendment: [Art. 4(3)-(5)](https://www.legislation.gov.uk/nisr/2019/4/article/4/3) added (8.6.2024) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/118)](https://www.legislation.gov.uk/nisr/2024/118), [arts. 1](https://www.legislation.gov.uk/nisr/2024/118/article/1), [2](https://www.legislation.gov.uk/nisr/2024/118/article/2)
+[^c-4a87a434bef5a494bb23acc6bde072e4]: Textual amendment: [Art. 4(3)-(5)](https://www.legislation.gov.uk/nisr/2019/4/article/4/3) added (8.6.2024) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions) (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/118)](https://www.legislation.gov.uk/nisr/2024/118), [arts. 1](https://www.legislation.gov.uk/nisr/2024/118/article/1), [2](https://www.legislation.gov.uk/nisr/2024/118/article/2)
 
 [^c23690271]: Marginal citation: There are modifications to Article 24 none of which are relevant to this Order.
 
@@ -385,16 +385,16 @@ Where a party to a polygamous marriage is excluded from state pension credit und
 
 [^c23690291]: Marginal citation: S.R. [2001 No. 213](https://www.legislation.gov.uk/ukcm/2001/213).
 
-[^key-f66ef3478dc4de2f0b344ebfc85f98d0]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/nisr/2019/4/article/6/4) substituted (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2022/194/regulation/13), [Sch. para. 3(3)](https://www.legislation.gov.uk/nisr/2022/194/schedule/paragraph/3/3)
+[^c-f66ef3478dc4de2f0b344ebfc85f98d0]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/nisr/2019/4/article/6/4) substituted (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2022/194/regulation/13), [Sch. para. 3(3)](https://www.legislation.gov.uk/nisr/2022/194/schedule/paragraph/3/3)
 
 [^c23690301]: Marginal citation: The definition of “temporary accommodation” is inserted by Article 4(2) of this Order.
 
-[^key-c10d5e3cc2be5b1c606b786b4861c7d8]: Textual amendment: Art. 7(1)-(3) substituted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/119)](https://www.legislation.gov.uk/nisr/2020/119), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/119/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/nisr/2020/119/regulation/7/3/b) (as amended by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations (Northern Ireland) 2020 (S.R. 2020/242)](https://www.legislation.gov.uk/nisr/2020/242), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/242/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2020/242/regulation/3))
+[^c-c10d5e3cc2be5b1c606b786b4861c7d8]: Textual amendment: Art. 7(1)-(3) substituted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/119)](https://www.legislation.gov.uk/nisr/2020/119), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/119/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/nisr/2020/119/regulation/7/3/b) (as amended by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations (Northern Ireland) 2020 (S.R. 2020/242)](https://www.legislation.gov.uk/nisr/2020/242), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/242/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2020/242/regulation/3))
 
-[^key-de6539a4b5cd824848bb15f0233b021a]: Textual amendment: Words in art. 7 heading inserted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(3)(a)](https://www.legislation.gov.uk/nisr/2019/107/article/2/3/a)
+[^c-de6539a4b5cd824848bb15f0233b021a]: Textual amendment: Words in art. 7 heading inserted (15.5.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 13 and Savings and Transitional Provisions (Amendment)) Order 2019 (S.R. 2019/107)](https://www.legislation.gov.uk/nisr/2019/107), [art. 2(3)(a)](https://www.legislation.gov.uk/nisr/2019/107/article/2/3/a)
 
-[^key-752a35e094e255adbcc64f913eaf54ef]: Textual amendment: Words in art. 7 heading inserted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/119)](https://www.legislation.gov.uk/nisr/2020/119), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/119/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/nisr/2020/119/regulation/7/3/a)
+[^c-752a35e094e255adbcc64f913eaf54ef]: Textual amendment: Words in art. 7 heading inserted (25.11.2020) by [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/119)](https://www.legislation.gov.uk/nisr/2020/119), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/119/regulation/1/2), [7(3)(a)](https://www.legislation.gov.uk/nisr/2020/119/regulation/7/3/a)
 
-[^key-a1c1e16cc4db00be53b4a33d132cb309]: Textual amendment: Words in [art. 7(1)(a)(i)](https://www.legislation.gov.uk/nisr/2019/4/article/7/1/a/i) substituted (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2022/194/regulation/13), [Sch. para. 3(4)](https://www.legislation.gov.uk/nisr/2022/194/schedule/paragraph/3/4)
+[^c-a1c1e16cc4db00be53b4a33d132cb309]: Textual amendment: Words in [art. 7(1)(a)(i)](https://www.legislation.gov.uk/nisr/2019/4/article/7/1/a/i) substituted (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2022/194/regulation/13), [Sch. para. 3(4)](https://www.legislation.gov.uk/nisr/2022/194/schedule/paragraph/3/4)
 
-[^key-d19c723de3ec0727177df505a737f362]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/nisr/2019/4/article/8) revoked (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2022/194/regulation/13), [Sch. para. 3(5)](https://www.legislation.gov.uk/nisr/2022/194/schedule/paragraph/3/5)
+[^c-d19c723de3ec0727177df505a737f362]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/nisr/2019/4/article/8) revoked (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2022/194/regulation/13), [Sch. para. 3(5)](https://www.legislation.gov.uk/nisr/2022/194/schedule/paragraph/3/5)

@@ -31,7 +31,7 @@ summary: ''
 
 FISHERIES
 
-Fisheries and Aquaculture Structures (Grants) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-727a453c2ee18d6b231459b28b927f92]
+Fisheries and Aquaculture Structures (Grants) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-727a453c2ee18d6b231459b28b927f92]
 
 Made
 
@@ -41,42 +41,42 @@ Coming into operation
 
 12th March 2004
 
-[^key-727a453c2ee18d6b231459b28b927f92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-727a453c2ee18d6b231459b28b927f92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-727a453c2ee18d6b231459b28b927f92]
+## 1. Citation and commencement[^c-727a453c2ee18d6b231459b28b927f92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-727a453c2ee18d6b231459b28b927f92]
+## 2. Interpretation[^c-727a453c2ee18d6b231459b28b927f92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Fisheries and Aquaculture Structures (Grants) Regulations (Northern Ireland) 2002[^key-727a453c2ee18d6b231459b28b927f92]
+## 3. Amendment of the Fisheries and Aquaculture Structures (Grants) Regulations (Northern Ireland) 2002[^c-727a453c2ee18d6b231459b28b927f92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-727a453c2ee18d6b231459b28b927f92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-727a453c2ee18d6b231459b28b927f92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-727a453c2ee18d6b231459b28b927f92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-727a453c2ee18d6b231459b28b927f92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-727a453c2ee18d6b231459b28b927f92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-727a453c2ee18d6b231459b28b927f92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-727a453c2ee18d6b231459b28b927f92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-727a453c2ee18d6b231459b28b927f92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transitional provisions[^key-727a453c2ee18d6b231459b28b927f92]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 9. Transfer of assets and liabilities[^key-727a453c2ee18d6b231459b28b927f92]
+## 8. Transitional provisions[^c-727a453c2ee18d6b231459b28b927f92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-727a453c2ee18d6b231459b28b927f92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 9. Transfer of assets and liabilities[^c-727a453c2ee18d6b231459b28b927f92]
 
-[^key-727a453c2ee18d6b231459b28b927f92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-727a453c2ee18d6b231459b28b927f92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-727a453c2ee18d6b231459b28b927f92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-727a453c2ee18d6b231459b28b927f92]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/109) revoked with savings (14.1.2016) by [The European Maritime and Fisheries Fund (Financial Assistance) Regulations (Northern Ireland) 2015 (S.R. 2015/399)](https://www.legislation.gov.uk/nisr/2015/399), [reg. 15(1)(b)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/1/b) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/2)[(3)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/3))
+[^c-727a453c2ee18d6b231459b28b927f92]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/109) revoked with savings (14.1.2016) by [The European Maritime and Fisheries Fund (Financial Assistance) Regulations (Northern Ireland) 2015 (S.R. 2015/399)](https://www.legislation.gov.uk/nisr/2015/399), [reg. 15(1)(b)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/1/b) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/2)[(3)](https://www.legislation.gov.uk/nisr/2015/399/regulation/15/3))

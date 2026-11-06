@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Amendment of regulation 8[^key-c047ef3d683cd3a6ce3e6ad8bbd75b49]
+## 29. Amendment of regulation 8[^c-c047ef3d683cd3a6ce3e6ad8bbd75b49]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 8 (pre-agreement disputes), in paragraph (4)(b), for “the Releva
 
 ## Annotations
 
-[^key-c047ef3d683cd3a6ce3e6ad8bbd75b49]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2013/364/regulation/29) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-c047ef3d683cd3a6ce3e6ad8bbd75b49]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2013/364/regulation/29) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54A. Enforcement of section 54[^key-09c09e8f1914bd473b7a11439f696fba]
+## 54A. Enforcement of section 54[^c-09c09e8f1914bd473b7a11439f696fba]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09c09e8f1914bd473b7a11439f696fba]: Textual amendment: S. 54A inserted (1.7.2005) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 32](https://www.legislation.gov.uk/ukpga/2005/16/section/32), [108(3)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/3); [S.I. 2005/1675](https://www.legislation.gov.uk/uksi/2005/1675), [art. 2](https://www.legislation.gov.uk/uksi/2005/1675/article/2)
+[^c-09c09e8f1914bd473b7a11439f696fba]: Textual amendment: S. 54A inserted (1.7.2005) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 32](https://www.legislation.gov.uk/ukpga/2005/16/section/32), [108(3)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/3); [S.I. 2005/1675](https://www.legislation.gov.uk/uksi/2005/1675), [art. 2](https://www.legislation.gov.uk/uksi/2005/1675/article/2)

@@ -22,7 +22,7 @@ summary: ''
 
 (introduced by section 34)
 
-**1.**[^key-33dec430c8d7fb3cda2eeec1d058efe7] In section 22 (power to break open streets) of the 1980 Act—
+**1.**[^c-33dec430c8d7fb3cda2eeec1d058efe7] In section 22 (power to break open streets) of the 1980 Act—
 
 - (a) the existing provision becomes subsection (1),
 - (b) after that subsection insert—
@@ -34,7 +34,7 @@ summary: ''
   >
   > as it has in relation to works carried out by Scottish Water.
 
-**2.**[^key-e544f555d3271a37cdbd8b423f3a5492] In section 23 (power to lay mains etc.), after subsection (2) insert—
+**2.**[^c-e544f555d3271a37cdbd8b423f3a5492] In section 23 (power to lay mains etc.), after subsection (2) insert—
 
 > (2A) In relation to a main not vested in Scottish Water, Scottish Water may recover from the person in whom the main is vested any expenses reasonably incurred by Scottish Water under subsection (1) or (2) in connection with the inspection, repair, maintenance, alteration, renewal or removal of the main.
 >
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33dec430c8d7fb3cda2eeec1d058efe7]: Commencement: Sch. 4 para. 1 in force at 10.7.2008 by [S.S.I. 2008/269](https://www.legislation.gov.uk/ssi/2008/269), [art. 2(d)](https://www.legislation.gov.uk/ssi/2008/269/article/2/d)
+[^c-33dec430c8d7fb3cda2eeec1d058efe7]: Commencement: Sch. 4 para. 1 in force at 10.7.2008 by [S.S.I. 2008/269](https://www.legislation.gov.uk/ssi/2008/269), [art. 2(d)](https://www.legislation.gov.uk/ssi/2008/269/article/2/d)
 
-[^key-e544f555d3271a37cdbd8b423f3a5492]: Commencement: Sch. 4 para. 2 in force at 10.7.2008 for specified purposes by [S.S.I. 2008/269](https://www.legislation.gov.uk/ssi/2008/269), [art. 2(e)](https://www.legislation.gov.uk/ssi/2008/269/article/2/e)
+[^c-e544f555d3271a37cdbd8b423f3a5492]: Commencement: Sch. 4 para. 2 in force at 10.7.2008 for specified purposes by [S.S.I. 2008/269](https://www.legislation.gov.uk/ssi/2008/269), [art. 2(e)](https://www.legislation.gov.uk/ssi/2008/269/article/2/e)

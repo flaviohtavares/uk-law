@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 433A. Restrictions not applying to the restricted loss amount[^key-c702f5d8ec6eb2c28c6bb2a2483b1724]
+## 433A. Restrictions not applying to the restricted loss amount[^c-c702f5d8ec6eb2c28c6bb2a2483b1724]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c702f5d8ec6eb2c28c6bb2a2483b1724]: Textual amendment: [S. 433A](https://www.legislation.gov.uk/ukpga/2010/4/section/433A) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 167(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/167/4)
+[^c-c702f5d8ec6eb2c28c6bb2a2483b1724]: Textual amendment: [S. 433A](https://www.legislation.gov.uk/ukpga/2010/4/section/433A) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 167(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/167/4)

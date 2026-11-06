@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 279. Notice to joint building society liquidators[^key-0849fc2153ab99ac29b93db8d9783bcd]
+## 279. Notice to joint building society liquidators[^c-0849fc2153ab99ac29b93db8d9783bcd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where two or more persons are acting jointly as the building society liquidator,
 
 ## Annotations
 
-[^key-0849fc2153ab99ac29b93db8d9783bcd]: Commencement: Rule 279 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-0849fc2153ab99ac29b93db8d9783bcd]: Commencement: Rule 279 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

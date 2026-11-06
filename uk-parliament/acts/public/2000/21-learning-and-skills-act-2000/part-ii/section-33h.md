@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33H. Delivery of local curriculum entitlements[^key-459a740c2d82cbb4f0a4ee576d08444b]
+## 33H. Delivery of local curriculum entitlements[^c-459a740c2d82cbb4f0a4ee576d08444b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a student is entitled to follow a course of study under section 33F(1), th
 
 ## Annotations
 
-[^key-459a740c2d82cbb4f0a4ee576d08444b]: Textual amendment: S. 33H inserted (14.2.2011) by [Learning and Skills (Wales) Measure 2009 (nawm 1)](https://www.legislation.gov.uk/mwa/2009/1), [ss. 29](https://www.legislation.gov.uk/mwa/2009/1/section/29), [49(2)](https://www.legislation.gov.uk/mwa/2009/1/section/49/2); [S.I. 2011/97](https://www.legislation.gov.uk/uksi/2011/97), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2011/97/article/2/2/f)
+[^c-459a740c2d82cbb4f0a4ee576d08444b]: Textual amendment: S. 33H inserted (14.2.2011) by [Learning and Skills (Wales) Measure 2009 (nawm 1)](https://www.legislation.gov.uk/mwa/2009/1), [ss. 29](https://www.legislation.gov.uk/mwa/2009/1/section/29), [49(2)](https://www.legislation.gov.uk/mwa/2009/1/section/49/2); [S.I. 2011/97](https://www.legislation.gov.uk/uksi/2011/97), [art. 2(2)(f)](https://www.legislation.gov.uk/uksi/2011/97/article/2/2/f)

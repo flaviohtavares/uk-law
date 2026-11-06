@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Restrictions on use of cautions[^key-2bb6aaf3820468899eda6ae6a69a35f9]
+## 17. Restrictions on use of cautions[^c-2bb6aaf3820468899eda6ae6a69a35f9]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ a constable may not give the person a caution except in exceptional circumstance
 
 ## Annotations
 
-[^key-2bb6aaf3820468899eda6ae6a69a35f9]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2015/2/section/17) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/13)
+[^c-2bb6aaf3820468899eda6ae6a69a35f9]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2015/2/section/17) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/13)

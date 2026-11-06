@@ -82,7 +82,7 @@ Section 5 of the [^c6921091]Countryside Act 1968 shall have effect as if in subs
 
 (2) The expenses of the Commissioners under this Act shall be defrayed in accordance with section 41 of the Forestry Act 1967[^c6921101].
 
-(3) Any increase attributable to the provisions of this Act in the sums payable out of moneys provided by Parliament by way of rate support grant under the enactments relating to local government in England and Wales [^key-0def1b2635e8baf22849c10963bf1e64]... shall be defrayed out of moneys so provided.
+(3) Any increase attributable to the provisions of this Act in the sums payable out of moneys provided by Parliament by way of rate support grant under the enactments relating to local government in England and Wales [^c-0def1b2635e8baf22849c10963bf1e64]... shall be defrayed out of moneys so provided.
 
 ## 6. Short title, construction and citation.
 
@@ -120,4 +120,4 @@ Section 5 of the [^c6921091]Countryside Act 1968 shall have effect as if in subs
 
 [^c6921101]: Textual amendment: Words in s. 5(2) substituted (16.3.2000) by [S.I. 2000/746](https://www.legislation.gov.uk/uksi/2000/746), [art. 2](https://www.legislation.gov.uk/uksi/2000/746/article/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2000/746/schedule/paragraph/7)
 
-[^key-0def1b2635e8baf22849c10963bf1e64]: Textual amendment: Words in [s. 5(3)](https://www.legislation.gov.uk/ukpga/1970/21/section/5/3) omitted (1.4.2019) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/regulation/1/2), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/50); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), reg. 2
+[^c-0def1b2635e8baf22849c10963bf1e64]: Textual amendment: Words in [s. 5(3)](https://www.legislation.gov.uk/ukpga/1970/21/section/5/3) omitted (1.4.2019) by virtue of [The Forestry and Land Management (Scotland) Act 2018 (Consequential Provisions and Modifications) Order 2019 (S.I. 2019/734)](https://www.legislation.gov.uk/uksi/2019/734), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/734/regulation/1/2), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2019/734/schedule/paragraph/50); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), reg. 2

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 637U. Availability of individual’s allowances where lump sums or lump sum death benefits already paid by non-UK schemes[^key-296b4b5c090683182905d12e824e8139][^key-788827fb1d34a3c88f69d5f4dcb4c334]
+## 637U. Availability of individual’s allowances where lump sums or lump sum death benefits already paid by non-UK schemes[^c-296b4b5c090683182905d12e824e8139][^c-788827fb1d34a3c88f69d5f4dcb4c334]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-296b4b5c090683182905d12e824e8139]: Modification: [S. 637U](https://www.legislation.gov.uk/ukpga/2003/1/section/637U) modified (with effect in accordance with reg. 1(3) of the amending S.I.) by [S.I. 2006/572](https://www.legislation.gov.uk/uksi/2006/572), [arts. 25CA(5)](https://www.legislation.gov.uk/uksi/2006/572/article/25CA/5), [25CB(5)](https://www.legislation.gov.uk/uksi/2006/572/article/25CB/5), [25CC(6)](https://www.legislation.gov.uk/uksi/2006/572/article/25CC/6) (as inserted by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(3)(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/3/6), [14(5)-(7)](https://www.legislation.gov.uk/uksi/2026/698/regulation/14/5))
+[^c-296b4b5c090683182905d12e824e8139]: Modification: [S. 637U](https://www.legislation.gov.uk/ukpga/2003/1/section/637U) modified (with effect in accordance with reg. 1(3) of the amending S.I.) by [S.I. 2006/572](https://www.legislation.gov.uk/uksi/2006/572), [arts. 25CA(5)](https://www.legislation.gov.uk/uksi/2006/572/article/25CA/5), [25CB(5)](https://www.legislation.gov.uk/uksi/2006/572/article/25CB/5), [25CC(6)](https://www.legislation.gov.uk/uksi/2006/572/article/25CC/6) (as inserted by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(3)(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/3/6), [14(5)-(7)](https://www.legislation.gov.uk/uksi/2026/698/regulation/14/5))
 
-[^key-788827fb1d34a3c88f69d5f4dcb4c334]: Textual amendment: S. 637U inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/3)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [2(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/2/6)
+[^c-788827fb1d34a3c88f69d5f4dcb4c334]: Textual amendment: S. 637U inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2026 (S.I. 2026/698)](https://www.legislation.gov.uk/uksi/2026/698), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/3)[(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/1/6), [2(6)](https://www.legislation.gov.uk/uksi/2026/698/regulation/2/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Calculation of tariff income from capital[^key-833fc423c9d4bee7ffcc4cdf024862fa]
+## 25. Calculation of tariff income from capital[^c-833fc423c9d4bee7ffcc4cdf024862fa]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-833fc423c9d4bee7ffcc4cdf024862fa]: Commencement: Reg. 25 in force at 1.4.2015 in accordance with reg. 1
+[^c-833fc423c9d4bee7ffcc4cdf024862fa]: Commencement: Reg. 25 in force at 1.4.2015 in accordance with reg. 1

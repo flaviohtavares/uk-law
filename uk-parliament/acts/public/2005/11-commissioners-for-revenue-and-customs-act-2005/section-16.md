@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Restrictions, &c.[^key-fc7a8ff912954d4df728ab163521390e]
+## 16. Restrictions, &c.[^c-fc7a8ff912954d4df728ab163521390e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Part 1 of Schedule 2 (which restricts, or makes other provision in connection wi
 
 ## Annotations
 
-[^key-fc7a8ff912954d4df728ab163521390e]: Commencement: S. 16 in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/d)
+[^c-fc7a8ff912954d4df728ab163521390e]: Commencement: S. 16 in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/d)

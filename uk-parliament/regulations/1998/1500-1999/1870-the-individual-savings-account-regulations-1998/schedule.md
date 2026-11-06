@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE — LIFETIME ISA FURTHER PROVISION[^key-a6c48a2f0f66df7096972a35301727b9]
+## SCHEDULE — LIFETIME ISA FURTHER PROVISION[^c-a6c48a2f0f66df7096972a35301727b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,20 +24,20 @@ summary: ''
 
 (1) In this Schedule—
 
-- “[^key-9db4e76afc8735f2154100a13921a12f]**claim period**” means—
+- “[^c-9db4e76afc8735f2154100a13921a12f]**claim period**” means—
   - (a) a period beginning with the 6th day of a month and ending with the 5th day of the following month, or
   - (b) such period as may be specified from time to time under paragraph 2(1);
 - “government bonus” is an amount equal to 25% of the aggregate of qualifying additions made to a Lifetime ISA in a relevant period;
-- “qualifying addition” means a current year payment [^key-77ba73b194b14752ce492ed391d0e64d]... which is made into a Lifetime ISA;
+- “qualifying addition” means a current year payment [^c-77ba73b194b14752ce492ed391d0e64d]... which is made into a Lifetime ISA;
 - “relevant period” means the year 2017-2018 and any subsequent year;
 - “Schedule 1” means Schedule 1 to the Savings (Government Contributions) Act 2017;
 - ”withdrawal charge” has the meaning given in paragraph 9(4) of Schedule 1.
 
-(2)[^key-f6eb1ec5b59bce418c919e241d5a116c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f6eb1ec5b59bce418c919e241d5a116c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-cd83c171c168a814f1720105f75ec7a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cd83c171c168a814f1720105f75ec7a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-29b47e16b6ed161fd9199255df3326a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-29b47e16b6ed161fd9199255df3326a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2. Government bonus claim
 
@@ -80,7 +80,7 @@ the account manager must correct the error without delay.
 - (a) they have reasonable grounds for believing that an error has occurred in the claim, and
 - (b) they give notice to the account manager of their intention to do so no later than 12 months after the date on which the claim is made.
 
-(11)[^key-790c02ea722727772006798f0e411863] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-790c02ea722727772006798f0e411863] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3. Rejection of government bonus claim
 
@@ -109,7 +109,7 @@ the account manager must correct the error without delay.
 
 For the purposes of paragraph 8(2) of Schedule 1 (charge when unlisted withdrawal made) the specified percentage is 25%.
 
-**5A.**[^key-2672f6b2fb2ed617933c6f1140791766] Notwithstanding paragraph 5, the specified percentage in respect of the period beginning on 6th March 2020 and ending on 5th April 2021 is 20%.
+**5A.**[^c-2672f6b2fb2ed617933c6f1140791766] Notwithstanding paragraph 5, the specified percentage in respect of the period beginning on 6th March 2020 and ending on 5th April 2021 is 20%.
 
 ### 6. First-time residential purchase
 
@@ -169,7 +169,7 @@ The following definitions apply for the purposes of paragraph 6—
   - (c) in Northern Ireland, a person enrolled as a solicitor of the Court of Judicature of Northern Ireland pursuant to the Solicitors (Northern Ireland) Order 1976;
 - “first-time buyer” means an account investor who is not, and never has been, a residential property owner;
 - “a legal interest in land” includes land which will be acquired under the terms of a regulated home purchase plan;
-- “[^key-c01c121d7d5250baf21b1b75a2baa0b2]**loan**” does not include a loan made by a person who is connected to the account investor, and for this purpose “**connected**” has the meaning given by section 993 of ITA 2007;
+- “[^c-c01c121d7d5250baf21b1b75a2baa0b2]**loan**” does not include a loan made by a person who is connected to the account investor, and for this purpose “**connected**” has the meaning given by section 993 of ITA 2007;
 - “purchase price” means—
   - (a) in connection with the acquisition of any legal interest in land in circumstances other than those described in paragraph (b), (c) or (d), the value of the consideration required to be paid, and which is paid, by the purchaser under the sale and purchase agreement entered into in connection with the acquisition of that interest in land; or
   - (b) in connection with the acquisition of any legal interest in land under the terms of a regulated home purchase plan, the value of the consideration required to be paid, and which is paid, to the original seller for the interest in that land; or
@@ -306,11 +306,11 @@ the account manager must correct the error without delay.
 
 (4) The Board may enquire into a return if the Board has reasonable grounds for believing that an error has occurred in the return and give notice to the account manager of the Board’s intention to do so no later than 12 months after the date on which the return is made.
 
-(5)[^key-699ad7c7d19686ca79c07cad963a7e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-699ad7c7d19686ca79c07cad963a7e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 14. Payment to the Board of withdrawal charges
 
-(1) For the purpose of paragraph 9(1)(e) of Schedule 1, an account manager liable under paragraph 8(3)(b) of that Schedule must pay to the Board within 28[^key-7b184b571599fba9b7f31a8a83047e12] days after the end of each claim period the amounts due in respect of the period.
+(1) For the purpose of paragraph 9(1)(e) of Schedule 1, an account manager liable under paragraph 8(3)(b) of that Schedule must pay to the Board within 28[^c-7b184b571599fba9b7f31a8a83047e12] days after the end of each claim period the amounts due in respect of the period.
 
 (2) Where a person accountable under paragraph 8 of Schedule 1 is notified by the Board that an amount is due from them, that amount shall be treated for the purposes of Part 6 of the Management Act as if it were tax charged in an assessment and due and payable.
 
@@ -338,7 +338,7 @@ the account manager must correct the error without delay.
 
 (3) Sections 102 and 103 of that Act apply for repayment interest on any amount that is payable by the Board under this Schedule which amount payable is to be treated as a repayment of an overpayment of income tax.
 
-(4)[^key-425b915e934c874ae06155e26bc55003] Payments are to be made to the Board in the manner specified by it from time to time.
+(4)[^c-425b915e934c874ae06155e26bc55003] Payments are to be made to the Board in the manner specified by it from time to time.
 
 ### 16. Appeals
 
@@ -392,26 +392,26 @@ The Board may authorise an extension to any period of time provided for under th
 
 ## Annotations
 
-[^key-a6c48a2f0f66df7096972a35301727b9]: Textual amendment: Schedule inserted (6.4.2017) by [The Individual Savings Account (Amendment No. 2) Regulations 2017 (S.I. 2017/466)](https://www.legislation.gov.uk/uksi/2017/466), [regs. 1](https://www.legislation.gov.uk/uksi/2017/466/regulation/1), [31](https://www.legislation.gov.uk/uksi/2017/466/regulation/31)
+[^c-a6c48a2f0f66df7096972a35301727b9]: Textual amendment: Schedule inserted (6.4.2017) by [The Individual Savings Account (Amendment No. 2) Regulations 2017 (S.I. 2017/466)](https://www.legislation.gov.uk/uksi/2017/466), [regs. 1](https://www.legislation.gov.uk/uksi/2017/466/regulation/1), [31](https://www.legislation.gov.uk/uksi/2017/466/regulation/31)
 
-[^key-9db4e76afc8735f2154100a13921a12f]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/1/1) substituted (6.4.2024) by [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/a/i/aa)
+[^c-9db4e76afc8735f2154100a13921a12f]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/1/1) substituted (6.4.2024) by [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/a/i/aa)
 
-[^key-77ba73b194b14752ce492ed391d0e64d]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/1/1) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/a/i/bb)
+[^c-77ba73b194b14752ce492ed391d0e64d]: Textual amendment: Words in [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/1/1) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/a/i/bb)
 
-[^key-f6eb1ec5b59bce418c919e241d5a116c]: Textual amendment: [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/1/2) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(a)(ii)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/a/ii)
+[^c-f6eb1ec5b59bce418c919e241d5a116c]: Textual amendment: [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/1/2) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(a)(ii)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/a/ii)
 
-[^key-cd83c171c168a814f1720105f75ec7a3]: Textual amendment: [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/1/3) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(a)(ii)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/a/ii)
+[^c-cd83c171c168a814f1720105f75ec7a3]: Textual amendment: [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/1/3) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(a)(ii)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/a/ii)
 
-[^key-29b47e16b6ed161fd9199255df3326a6]: Textual amendment: [Sch. para. 1(4)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/1/4) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(a)(ii)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/a/ii)
+[^c-29b47e16b6ed161fd9199255df3326a6]: Textual amendment: [Sch. para. 1(4)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/1/4) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(a)(ii)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/a/ii)
 
-[^key-790c02ea722727772006798f0e411863]: Textual amendment: [Sch. para. 2(11)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/2/11) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(b)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/b)
+[^c-790c02ea722727772006798f0e411863]: Textual amendment: [Sch. para. 2(11)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/2/11) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(b)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/b)
 
-[^key-2672f6b2fb2ed617933c6f1140791766]: Textual amendment: [Sch. para. 5A](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/5A) inserted (4.6.2020) by [The Individual Savings Account (Amendment No. 3) (Coronavirus) Regulations 2020 (S.I. 2020/506)](https://www.legislation.gov.uk/uksi/2020/506), [regs. 1](https://www.legislation.gov.uk/uksi/2020/506/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/506/regulation/3)
+[^c-2672f6b2fb2ed617933c6f1140791766]: Textual amendment: [Sch. para. 5A](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/5A) inserted (4.6.2020) by [The Individual Savings Account (Amendment No. 3) (Coronavirus) Regulations 2020 (S.I. 2020/506)](https://www.legislation.gov.uk/uksi/2020/506), [regs. 1](https://www.legislation.gov.uk/uksi/2020/506/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/506/regulation/3)
 
-[^key-c01c121d7d5250baf21b1b75a2baa0b2]: Textual amendment: Words in [Sch. para. 7](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/7) inserted (6.4.2024) by [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(c)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/c)
+[^c-c01c121d7d5250baf21b1b75a2baa0b2]: Textual amendment: Words in [Sch. para. 7](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/7) inserted (6.4.2024) by [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(c)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/c)
 
-[^key-699ad7c7d19686ca79c07cad963a7e90]: Textual amendment: [Sch. para. 13(5)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/13/5) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(d)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/d)
+[^c-699ad7c7d19686ca79c07cad963a7e90]: Textual amendment: [Sch. para. 13(5)](https://www.legislation.gov.uk/uksi/1998/1870/schedule/paragraph/13/5) omitted (6.4.2024) by virtue of [The Individual Savings Account (Amendment) Regulations 2024 (S.I. 2024/350)](https://www.legislation.gov.uk/uksi/2024/350), [regs. 1](https://www.legislation.gov.uk/uksi/2024/350/regulation/1), [25(d)](https://www.legislation.gov.uk/uksi/2024/350/regulation/25/d)
 
-[^key-7b184b571599fba9b7f31a8a83047e12]: Textual amendment: Word in Sch. para. 14(1) substituted (6.4.2018) by [The Individual Savings Account (Amendment) Regulations 2018 (S.I. 2018/359)](https://www.legislation.gov.uk/uksi/2018/359), [regs. 1](https://www.legislation.gov.uk/uksi/2018/359/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2018/359/regulation/6/a)
+[^c-7b184b571599fba9b7f31a8a83047e12]: Textual amendment: Word in Sch. para. 14(1) substituted (6.4.2018) by [The Individual Savings Account (Amendment) Regulations 2018 (S.I. 2018/359)](https://www.legislation.gov.uk/uksi/2018/359), [regs. 1](https://www.legislation.gov.uk/uksi/2018/359/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2018/359/regulation/6/a)
 
-[^key-425b915e934c874ae06155e26bc55003]: Textual amendment: Sch. para. 15(4) inserted (6.4.2018) by [The Individual Savings Account (Amendment) Regulations 2018 (S.I. 2018/359)](https://www.legislation.gov.uk/uksi/2018/359), [regs. 1](https://www.legislation.gov.uk/uksi/2018/359/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2018/359/regulation/6/b)
+[^c-425b915e934c874ae06155e26bc55003]: Textual amendment: Sch. para. 15(4) inserted (6.4.2018) by [The Individual Savings Account (Amendment) Regulations 2018 (S.I. 2018/359)](https://www.legislation.gov.uk/uksi/2018/359), [regs. 1](https://www.legislation.gov.uk/uksi/2018/359/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2018/359/regulation/6/b)

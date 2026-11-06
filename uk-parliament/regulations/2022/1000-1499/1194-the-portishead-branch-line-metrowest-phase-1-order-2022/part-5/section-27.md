@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Compulsory acquisition of rights or imposition of covenants[^key-60a4ae5b9144429fd0aef5f07c79890a]
+## 27. Compulsory acquisition of rights or imposition of covenants[^c-60a4ae5b9144429fd0aef5f07c79890a]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ the liability is enforceable against the undertaker.
 
 ## Annotations
 
-[^key-60a4ae5b9144429fd0aef5f07c79890a]: Commencement: Art. 27 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-60a4ae5b9144429fd0aef5f07c79890a]: Commencement: Art. 27 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

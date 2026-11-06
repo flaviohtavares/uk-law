@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Review of certain deportation decisions by Special Immigration Appeals Commission[^key-14b4b734b4e9c7a0aa278c66fd942964]
+## 18. Review of certain deportation decisions by Special Immigration Appeals Commission[^c-14b4b734b4e9c7a0aa278c66fd942964]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ In the Special Immigration Appeals Commission Act 1997, after section 2D insertâ
 
 ## Annotations
 
-[^key-14b4b734b4e9c7a0aa278c66fd942964]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/22/section/18) in force at 6.4.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/371/article/4/a)
+[^c-14b4b734b4e9c7a0aa278c66fd942964]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/22/section/18) in force at 6.4.2015 by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/371/article/4/a)

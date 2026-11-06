@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2A. The registrar and assistant registrar[^key-85beeb4ae2a7eddf7036e93c9b258fb9]
+## 2A. The registrar and assistant registrar[^c-85beeb4ae2a7eddf7036e93c9b258fb9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85beeb4ae2a7eddf7036e93c9b258fb9]: Textual amendment: Art. 2A omitted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-85beeb4ae2a7eddf7036e93c9b258fb9]: Textual amendment: Art. 2A omitted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))

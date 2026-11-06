@@ -54,7 +54,7 @@ These Regulations may be cited as the Education (Recognition of School Teachers'
 
 These Regulations apply in relation to England.
 
-## 3. Amendment to the Education (Induction Arrangements for School Teachers) (Consolidation) (England) Regulations 2001[^key-e3ed580938ef1d3328fc02a040e925c2]
+## 3. Amendment to the Education (Induction Arrangements for School Teachers) (Consolidation) (England) Regulations 2001[^c-e3ed580938ef1d3328fc02a040e925c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -100,7 +100,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c18913211]: Marginal citation: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-e3ed580938ef1d3328fc02a040e925c2]: Textual amendment: Reg. 3 revoked (1.9.2008) by [The Education (Induction Arrangements for School Teachers) (England) Regulations 2008 (S.I. 2008/657)](https://www.legislation.gov.uk/uksi/2008/657), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/657/schedule/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2008/657/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2008/657/regulation/2/3))
+[^c-e3ed580938ef1d3328fc02a040e925c2]: Textual amendment: Reg. 3 revoked (1.9.2008) by [The Education (Induction Arrangements for School Teachers) (England) Regulations 2008 (S.I. 2008/657)](https://www.legislation.gov.uk/uksi/2008/657), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/657/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/657/schedule/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2008/657/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2008/657/regulation/2/3))
 
 [^c18913241]: Marginal citation: [S.I. 2003/1662](https://www.legislation.gov.uk/uksi/2003/1662).
 

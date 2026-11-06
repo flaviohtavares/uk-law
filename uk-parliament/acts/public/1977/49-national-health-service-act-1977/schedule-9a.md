@@ -16,64 +16,64 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9A — The Family Health Services Appeal Authority[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+## SCHEDULE 9A — The Family Health Services Appeal Authority[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-### 1. Constitution[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+### 1. Constitution[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Procedure[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**12.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**13.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**14.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**15.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**16.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**17.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**18.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 19. Miscellaneous[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+### 7. Procedure[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Interpretation[^key-9bc6cd74c32e58ec6afa147b71aacfe8]
+**9.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Miscellaneous[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20.**[^c-9bc6cd74c32e58ec6afa147b71aacfe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 21. Interpretation[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9bc6cd74c32e58ec6afa147b71aacfe8]: Textual amendment: Act repealed (except ss. 57, Sch. 11 and ss. 126, 128 so far as they relate to those provisions, which are repealed only for E.W., see [s. 7(3)](https://www.legislation.gov.uk/ukpga/2006/43/section/7/3) of the repealing Act; and except s. 41B(2)(6)(b) as amended by [S.I. 2006/1056](https://www.legislation.gov.uk/uksi/2006/1056), which is repealed immediately after that amendment comes into force, see [s. 8(4)-(6)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/4); and except ss. 19, 28J, 38, 39, 41, 41B(2)(6)(b), 42(2B)(2C), 42A, 42B, 43(2), 49F, 49H, 98, 128, Sch. 8 para. 2(2B), Sch. 8A, Sch. 9A para. 6, Sch. 12 paras. 2A(1)(b)(ba), 2B, Sch. 12B as amended by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28) which are repealed immediately after those amendments come into force on 1.8.2008 and 9.5.2013, see [s. 8(4)-(6)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/4); and except ss. 3, 15, 16CD, 16CE, 18A, 26, 28WA-28WF, 28X, 28Y, 38, 39, 43D, 44, 45A, 45C, 72, 103 as amended by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28) and to the extent that they relate to primary ophthalmic services, which are repealed immediately after those amendments come into force on 1.8.2008, see [s. 8(4)-(6)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/4)) (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 6](https://www.legislation.gov.uk/ukpga/2006/43/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with saving for s. 126 in [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/paragraph/7) and general savings and transitional provisions in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1) and transitory modifications relating to primary ophthalmic services in [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/paragraph/1)); [S.I. 2008/1972](https://www.legislation.gov.uk/uksi/2008/1972), [art. 2](https://www.legislation.gov.uk/uksi/2008/1972/article/2); [S.I. 2013/1112](https://www.legislation.gov.uk/uksi/2013/1112), [art. 2](https://www.legislation.gov.uk/uksi/2013/1112/article/2)
+[^c-9bc6cd74c32e58ec6afa147b71aacfe8]: Textual amendment: Act repealed (except ss. 57, Sch. 11 and ss. 126, 128 so far as they relate to those provisions, which are repealed only for E.W., see [s. 7(3)](https://www.legislation.gov.uk/ukpga/2006/43/section/7/3) of the repealing Act; and except s. 41B(2)(6)(b) as amended by [S.I. 2006/1056](https://www.legislation.gov.uk/uksi/2006/1056), which is repealed immediately after that amendment comes into force, see [s. 8(4)-(6)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/4); and except ss. 19, 28J, 38, 39, 41, 41B(2)(6)(b), 42(2B)(2C), 42A, 42B, 43(2), 49F, 49H, 98, 128, Sch. 8 para. 2(2B), Sch. 8A, Sch. 9A para. 6, Sch. 12 paras. 2A(1)(b)(ba), 2B, Sch. 12B as amended by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28) which are repealed immediately after those amendments come into force on 1.8.2008 and 9.5.2013, see [s. 8(4)-(6)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/4); and except ss. 3, 15, 16CD, 16CE, 18A, 26, 28WA-28WF, 28X, 28Y, 38, 39, 43D, 44, 45A, 45C, 72, 103 as amended by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28) and to the extent that they relate to primary ophthalmic services, which are repealed immediately after those amendments come into force on 1.8.2008, see [s. 8(4)-(6)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/4)) (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 6](https://www.legislation.gov.uk/ukpga/2006/43/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with saving for s. 126 in [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/paragraph/7) and general savings and transitional provisions in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1) and transitory modifications relating to primary ophthalmic services in [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/paragraph/1)); [S.I. 2008/1972](https://www.legislation.gov.uk/uksi/2008/1972), [art. 2](https://www.legislation.gov.uk/uksi/2008/1972/article/2); [S.I. 2013/1112](https://www.legislation.gov.uk/uksi/2013/1112), [art. 2](https://www.legislation.gov.uk/uksi/2013/1112/article/2)
 
     Act: specified provisions amended and repealed and specified amendments and repeals by specified legislation commenced (1.3.2007 immediately before the [National Health Service Act 2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41) comes into force) by virtue of [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [arts. 1-3](https://www.legislation.gov.uk/uksi/2006/1407/article/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2006/1407/schedule/1), [2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))

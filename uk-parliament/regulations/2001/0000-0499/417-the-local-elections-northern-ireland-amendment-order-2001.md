@@ -49,16 +49,16 @@ Whereas a draft of this Order has been approved by resolution of each House of P
 
 Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1) and (3) of the Northern Ireland Act 1998[^f00001], is pleased by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—
 
-**1.**[^key-c87c928eaaed219cfcd1da5ea17142c4] (1) This Order may be cited as the Local Elections (Northern Ireland) (Amendment) Order 2001.
+**1.**[^c-c87c928eaaed219cfcd1da5ea17142c4] (1) This Order may be cited as the Local Elections (Northern Ireland) (Amendment) Order 2001.
 
 (2) This Order shall come into force fourteen days after the day on which it is made except for the purpose of any election where the last day for the publication of the notice of election in respect of that election precedes that day.
 
-**2.**[^key-223b7bfb9af13877c9c6ce27ecccd5c7] In this Order—
+**2.**[^c-223b7bfb9af13877c9c6ce27ecccd5c7] In this Order—
 
 - “the 1962 Act” means the Electoral Law Act (Northern Ireland) 1962[^f00002], and
 - “the local elections rules” means the rules in Schedule 5 to that Act[^f00003].
 
-**3.**[^key-86829aa896334f73ebd43002df3cc6cd] (1) Section 41 of the 1962 Act (prohibition of unauthorised expenditure) is amended as follows.
+**3.**[^c-86829aa896334f73ebd43002df3cc6cd] (1) Section 41 of the 1962 Act (prohibition of unauthorised expenditure) is amended as follows.
 
 (2) In subsection (2)(ii) (election expenses not exceeding £5 in aggregate incurred by individual backer or disparager)[^f00004] for the words from “not exceeding” to “concerted with others,” substitute “incurred by any person which do not exceed in the aggregate the permitted sum (and are not incurred by that person as part of a concerted plan of action)”.
 
@@ -71,7 +71,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
 .
 
-**4.**[^key-68e5d3ba99e0eea4d061716faa589dc7] (1) Section 42 of the 1962 Act (limit on candidates' election expenses)[^f00005] is amended as follows.
+**4.**[^c-68e5d3ba99e0eea4d061716faa589dc7] (1) Section 42 of the 1962 Act (limit on candidates' election expenses)[^f00005] is amended as follows.
 
 (2) In subsection (1) for the words “£219” and “4.3p” substitute “£242” and “4.8p”, respectively.
 
@@ -83,11 +83,11 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
 .
 
-**5.**[^key-93581cda5c702203f58f62f1815f75af] Omit sections 85 to 90 of the 1962 Act (withdrawal or abatement of election petition).
+**5.**[^c-93581cda5c702203f58f62f1815f75af] Omit sections 85 to 90 of the 1962 Act (withdrawal or abatement of election petition).
 
-**6.**[^key-cfbdd7468c51bb68893522da709a3709] Omit section 95(3) of the 1962 Act (incapacity of candidate at a local election reported guilty of a corrupt or illegal practice).
+**6.**[^c-cfbdd7468c51bb68893522da709a3709] Omit section 95(3) of the 1962 Act (incapacity of candidate at a local election reported guilty of a corrupt or illegal practice).
 
-**7.**[^key-2c1a1a95659283436fc65115b61884d2] In section 96 of the 1962 Act (candidate or other person reported personally guilty of a corrupt or illegal practice)[^f00006], for subsections (3) and (4) substitute:
+**7.**[^c-2c1a1a95659283436fc65115b61884d2] In section 96 of the 1962 Act (candidate or other person reported personally guilty of a corrupt or illegal practice)[^f00006], for subsections (3) and (4) substitute:
 
 > (3) Subject to the provisions of subsection (3A) and section 113(2) to (6), a candidate or other person reported by an election court personally guilty of a corrupt or illegal practice—
 >
@@ -105,7 +105,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
 .
 
-**8.**[^key-398d0bc68e2f87c43d09cb01abafc94d] For section 112(1) of the 1962 Act (incapacities resulting from conviction for corrupt and illegal practices)[^f00008] substitute:
+**8.**[^c-398d0bc68e2f87c43d09cb01abafc94d] For section 112(1) of the 1962 Act (incapacities resulting from conviction for corrupt and illegal practices)[^f00008] substitute:
 
 > (1) Subject to subsection (1A), a person convicted of a corrupt or illegal practice—
 >
@@ -150,7 +150,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
 .
 
-**9.**[^key-f4d38b4ddd001c2637614cfeeb30c4cc] In section 130(1) of the 1962 Act (interpretation)[^f00010]—
+**9.**[^c-f4d38b4ddd001c2637614cfeeb30c4cc] In section 130(1) of the 1962 Act (interpretation)[^f00010]—
 
 - (a) after the definition of “electors” insert:
 
@@ -159,7 +159,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
   and
 - (b) omit the definition of “public office”.
 
-**10.**[^key-5d2b297c5b88f6f995bd6b7c93990242] For rule 5(3) (nomination of candidates) of the local elections rules substitute:
+**10.**[^c-5d2b297c5b88f6f995bd6b7c93990242] For rule 5(3) (nomination of candidates) of the local elections rules substitute:
 
 > (3) The description, if any, must consist of either—
 >
@@ -168,7 +168,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
 .
 
-**11.**[^key-fdd7e602ad8cd5a3d182a04ac1ff8a76] After rule 5 (nomination of candidates) of the local elections rules insert—
+**11.**[^c-fdd7e602ad8cd5a3d182a04ac1ff8a76] After rule 5 (nomination of candidates) of the local elections rules insert—
 
 > **5A. Nomination papers: name of registered political party**
 >
@@ -186,7 +186,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
 .
 
-**12.**[^key-4c2aeab286ee90e99c745cc444b90e45] For rule 6(7) of the local elections rules (subscription of nomination papers) substitute:
+**12.**[^c-4c2aeab286ee90e99c745cc444b90e45] For rule 6(7) of the local elections rules (subscription of nomination papers) substitute:
 
 > (7) In this rule “elector”—
 >
@@ -195,7 +195,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
 .
 
-**13.**[^key-503428a4761d3958f63772082a58d2f1] (1) Rule 10 (decisions as to validity of nomination papers) of the local elections rules is amended as follows.
+**13.**[^c-503428a4761d3958f63772082a58d2f1] (1) Rule 10 (decisions as to validity of nomination papers) of the local elections rules is amended as follows.
 
 (2) At the beginning of paragraph (3) insert “Subject to paragraph (3A),”.
 
@@ -207,7 +207,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
 (4) In paragraph (4) for “Where he” substitute “Where the returning officer”.
 
-**14.**[^key-99d6fd66c30b4dac475329a6a6feaec5] In rule 16 (the ballot papers) of the local elections rules, after paragraph (2) insert—
+**14.**[^c-99d6fd66c30b4dac475329a6a6feaec5] In rule 16 (the ballot papers) of the local elections rules, after paragraph (2) insert—
 
 > (2A) If a candidate who is the subject of a party’s authorisation under rule 5A(1) so requests, the ballot paper shall contain, against the candidate’s particulars, the party’s registered emblem (or, as the case may be, one of the party’s registered emblems).
 >
@@ -218,7 +218,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
 .
 
-**15.**[^key-58e9780aaa52a79f8c32987e54319ee2] (1) Rule 26 of the local elections rules (equipment of polling stations) is amended as follows.
+**15.**[^c-58e9780aaa52a79f8c32987e54319ee2] (1) Rule 26 of the local elections rules (equipment of polling stations) is amended as follows.
 
 (2) After paragraph (3) insert:
 
@@ -229,17 +229,17 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
 .
 
-(3)[^key-074d1f49d3d78a9a2f430d593febbf15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-074d1f49d3d78a9a2f430d593febbf15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-77e3bcd4ff540431e95e24fc313aa62c] In rule 29(1)(f) of the local elections rules (admission to polling station) for “blind voters” substitute “voters with disabilities”.
+**16.**[^c-77e3bcd4ff540431e95e24fc313aa62c] In rule 29(1)(f) of the local elections rules (admission to polling station) for “blind voters” substitute “voters with disabilities”.
 
-**17.**[^key-b29efc93469f5b21c46e288a5422611c] (1) Rule 34 of the elections rules (voting procedure) is amended as follows.
+**17.**[^c-b29efc93469f5b21c46e288a5422611c] (1) Rule 34 of the elections rules (voting procedure) is amended as follows.
 
 (2) In paragraph (6)(f) (specified documents to include British seaman’s card)[^f00012] for the words from “under” to the end substitute “or having effect as if made under section 79 of the Merchant Shipping Act 1995[^f00013]”.
 
 (3) In paragraph (6)(g) (specified documents to include plastic card with national insurance number embossed on it)[^f00014] after the words “the Department of Social Security” insert “or the Department for Social Development”.
 
-**18.**[^key-0f725a2e6ef231ba896a3fb32ceb2378] For rule 36 of the local elections rules substitute:
+**18.**[^c-0f725a2e6ef231ba896a3fb32ceb2378] For rule 36 of the local elections rules substitute:
 
 > **36. Voting by persons with disabilities**
 >
@@ -277,18 +277,18 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
 .
 
-**19.**[^key-ff170333dd9b9b5dd93c5128ebaae9e7] In rules 41(1)(f) and 58(1)(c) of the local elections rules for “blind voters” (wherever occurring) substitute “voters with disabilities”.
+**19.**[^c-ff170333dd9b9b5dd93c5128ebaae9e7] In rules 41(1)(f) and 58(1)(c) of the local elections rules for “blind voters” (wherever occurring) substitute “voters with disabilities”.
 
-**20.**[^key-8f4c6147d63459365bcd5f4779b11482] In the Appendix of Forms to the local elections rules, in the form headed “Form of nomination paper”—
+**20.**[^c-8f4c6147d63459365bcd5f4779b11482] In the Appendix of Forms to the local elections rules, in the form headed “Form of nomination paper”—
 
 - (a) omit note 3, and
 - (b) in note 5, omit “or electors lists”.
 
-**21.**[^key-d1f8cea7c955fc806113543b4389decc] In that Appendix, in the form headed “Candidate’s consent to nomination” for the words “a person to whom section 121 of the Electoral Law Act (Northern Ireland) 1962 applies” substitute “a citizen of the Republic of Ireland”.
+**21.**[^c-d1f8cea7c955fc806113543b4389decc] In that Appendix, in the form headed “Candidate’s consent to nomination” for the words “a person to whom section 121 of the Electoral Law Act (Northern Ireland) 1962 applies” substitute “a citizen of the Republic of Ireland”.
 
-**22.**[^key-9f2ddfc85dffb6dd8f08711f913c4bef] In that Appendix, for the form of the front of the ballot paper substitute the form set out in the Schedule to this Order.
+**22.**[^c-9f2ddfc85dffb6dd8f08711f913c4bef] In that Appendix, for the form of the front of the ballot paper substitute the form set out in the Schedule to this Order.
 
-**23.**[^key-284617942c133392d967cec3a3487587] In that Appendix, in the form headed “Directions as to printing the ballot paper”—
+**23.**[^c-284617942c133392d967cec3a3487587] In that Appendix, in the form headed “Directions as to printing the ballot paper”—
 
 - (a) at the end of paragraph 2(a) insert “and words forming part of emblems”,
 - (b) in paragraph (2)(b) after “those particulars” insert “and emblems”, and
@@ -301,7 +301,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
   .
 
-**24.**[^key-7032e2ce5ee95f975396707217d16c16] In that Appendix, in the form headed “Form of declaration to be made by the companion of a blind voter”—
+**24.**[^c-7032e2ce5ee95f975396707217d16c16] In that Appendix, in the form headed “Form of declaration to be made by the companion of a blind voter”—
 
 - (a) for “blind person” or “blind voter” (wherever occurring) substitute “voter with disabilities”; and
 - (b) after the note at the end of the form (which shall become note 1), insert—
@@ -310,7 +310,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
   .
 
-**25.**[^key-11c88dff1046677b469f16807ed8d8c0] For paragraph 8 of Schedule 8 to the 1962 Act (petition at issue) substitute:
+**25.**[^c-11c88dff1046677b469f16807ed8d8c0] For paragraph 8 of Schedule 8 to the 1962 Act (petition at issue) substitute:
 
 > **8. Petition at issue**
 >
@@ -327,7 +327,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
 .
 
-**26.**[^key-d5ca8a23128a15dcb66dd01b1769591e] After paragraph 5 of Schedule 9 to the 1962 Act (corrupt practices) insert:
+**26.**[^c-d5ca8a23128a15dcb66dd01b1769591e] After paragraph 5 of Schedule 9 to the 1962 Act (corrupt practices) insert:
 
 > **5A. False statements in nomination papers, etc.**
 >
@@ -340,7 +340,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
 .
 
-**27.**[^key-603e2042188c1d7aa952d9ce7ce47273] After paragraph 27 of Schedule 9 to the 1962 Act (electoral offences) insert:
+**27.**[^c-603e2042188c1d7aa952d9ce7ce47273] After paragraph 27 of Schedule 9 to the 1962 Act (electoral offences) insert:
 
 > **27A. Prohibition on publication of exit polls**
 >
@@ -360,9 +360,9 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 84(1
 
 .
 
-**28.**[^key-643fe6c9fa418d033421d4bf102b5470] Omit paragraph 31 of Schedule 9 to the 1962 Act (premises not to be used as committee rooms).
+**28.**[^c-643fe6c9fa418d033421d4bf102b5470] Omit paragraph 31 of Schedule 9 to the 1962 Act (premises not to be used as committee rooms).
 
-**29.**[^key-a0b5266cb2a4424c033058a16df49614] (1) Paragraphs 18 and 29 of Schedule 1 to the Local Elections (Northern Ireland) (Amendment) Order 1987[^f00015] are hereby revoked.
+**29.**[^c-a0b5266cb2a4424c033058a16df49614] (1) Paragraphs 18 and 29 of Schedule 1 to the Local Elections (Northern Ireland) (Amendment) Order 1987[^f00015] are hereby revoked.
 
 (2) The Local Elections (Variations of Limits of Candidates' Election Expenses) (Northern Ireland) Order 1997[^f00016] is hereby revoked.
 
@@ -370,7 +370,7 @@ A. K. Galloway
 
 Clerk of the Privy Council
 
-## SCHEDULE[^key-d0c958c91c3b80601b72228224e101ea]
+## SCHEDULE[^c-d0c958c91c3b80601b72228224e101ea]
 
 Article 22
 
@@ -404,61 +404,61 @@ Articles 26 and 27 introduce amendments corresponding to those made in respect o
 
 [^f00001]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-c87c928eaaed219cfcd1da5ea17142c4]: Commencement: Art. 1 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-c87c928eaaed219cfcd1da5ea17142c4]: Commencement: Art. 1 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-223b7bfb9af13877c9c6ce27ecccd5c7]: Commencement: Art. 2 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-223b7bfb9af13877c9c6ce27ecccd5c7]: Commencement: Art. 2 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
 [^f00002]: Footnote: [1962 c. 14 (N.I.)](https://www.legislation.gov.uk/apni/1962/14).
 
 [^f00003]: Footnote: Schedule 5 was substituted by the Schedule in Schedule 1 to the Local Elections (Northern Ireland) Order 1985 (S.I. [1985/454](https://www.legislation.gov.uk/uksi/1985/454)).
 
-[^key-86829aa896334f73ebd43002df3cc6cd]: Commencement: Art. 3 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-86829aa896334f73ebd43002df3cc6cd]: Commencement: Art. 3 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
 [^f00004]: Footnote: The sum of £5 was substituted by Schedule 1 to S.I. [1987/168](https://www.legislation.gov.uk/uksi/1987/168).
 
-[^key-68e5d3ba99e0eea4d061716faa589dc7]: Commencement: Art. 4 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-68e5d3ba99e0eea4d061716faa589dc7]: Commencement: Art. 4 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
 [^f00005]: Footnote: Section 42(1) was amended (so far as material) by article 9 of S.I. [1985/454](https://www.legislation.gov.uk/uksi/1985/454); the sums in section 42(1) are as substituted by S.I. [1997/868](https://www.legislation.gov.uk/uksi/1997/868).
 
-[^key-93581cda5c702203f58f62f1815f75af]: Commencement: Art. 5 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-93581cda5c702203f58f62f1815f75af]: Commencement: Art. 5 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-cfbdd7468c51bb68893522da709a3709]: Commencement: Art. 6 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-cfbdd7468c51bb68893522da709a3709]: Commencement: Art. 6 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-2c1a1a95659283436fc65115b61884d2]: Commencement: Art. 7 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-2c1a1a95659283436fc65115b61884d2]: Commencement: Art. 7 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
 [^f00006]: Footnote: Section 96 has been amended but the amendment is not relevant to the subject matter of this Order.
 
 [^f00007]: Footnote: Paragraph 12A was inserted by Schedule 1 to S.I. [1987/168](https://www.legislation.gov.uk/uksi/1987/168).
 
-[^key-398d0bc68e2f87c43d09cb01abafc94d]: Commencement: Art. 8 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-398d0bc68e2f87c43d09cb01abafc94d]: Commencement: Art. 8 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
 [^f00008]: Footnote: Section 112(1) was amended by Schedule 1 to S.I. [1987/168](https://www.legislation.gov.uk/uksi/1987/168).
 
 [^f00009]: Footnote: Sections 108 and 109 have been amended by Schedule 1 to S.I. [1987/168](https://www.legislation.gov.uk/uksi/1987/168).
 
-[^key-f4d38b4ddd001c2637614cfeeb30c4cc]: Commencement: Art. 9 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-f4d38b4ddd001c2637614cfeeb30c4cc]: Commencement: Art. 9 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
 [^f00010]: Footnote: Section 130 has been amended but the amendments are not relevant to the subject matter of this Order.
 
-[^key-5d2b297c5b88f6f995bd6b7c93990242]: Commencement: Art. 10 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-5d2b297c5b88f6f995bd6b7c93990242]: Commencement: Art. 10 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-fdd7e602ad8cd5a3d182a04ac1ff8a76]: Commencement: Art. 11 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-fdd7e602ad8cd5a3d182a04ac1ff8a76]: Commencement: Art. 11 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
 [^f00011]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41).
 
-[^key-4c2aeab286ee90e99c745cc444b90e45]: Commencement: Art. 12 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-4c2aeab286ee90e99c745cc444b90e45]: Commencement: Art. 12 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-503428a4761d3958f63772082a58d2f1]: Commencement: Art. 13 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-503428a4761d3958f63772082a58d2f1]: Commencement: Art. 13 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-99d6fd66c30b4dac475329a6a6feaec5]: Commencement: Art. 14 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-99d6fd66c30b4dac475329a6a6feaec5]: Commencement: Art. 14 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-58e9780aaa52a79f8c32987e54319ee2]: Commencement: Art. 15 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-58e9780aaa52a79f8c32987e54319ee2]: Commencement: Art. 15 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-074d1f49d3d78a9a2f430d593febbf15]: Textual amendment: [Art. 15(3)](https://www.legislation.gov.uk/uksi/2001/417/article/15/3) revoked (29.12.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 34(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/34/b); [S.I. 2022/1270](https://www.legislation.gov.uk/uksi/2022/1270), [reg. 2(c)(v)](https://www.legislation.gov.uk/uksi/2022/1270/regulation/2/c/v) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1270/regulation/3))
+[^c-074d1f49d3d78a9a2f430d593febbf15]: Textual amendment: [Art. 15(3)](https://www.legislation.gov.uk/uksi/2001/417/article/15/3) revoked (29.12.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 34(b)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/34/b); [S.I. 2022/1270](https://www.legislation.gov.uk/uksi/2022/1270), [reg. 2(c)(v)](https://www.legislation.gov.uk/uksi/2022/1270/regulation/2/c/v) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1270/regulation/3))
 
-[^key-77e3bcd4ff540431e95e24fc313aa62c]: Commencement: Art. 16 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-77e3bcd4ff540431e95e24fc313aa62c]: Commencement: Art. 16 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-b29efc93469f5b21c46e288a5422611c]: Commencement: Art. 17 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-b29efc93469f5b21c46e288a5422611c]: Commencement: Art. 17 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
 [^f00012]: Footnote: Paragraph (6)(f) was inserted by Schedule 1 to S.I. [1987/168](https://www.legislation.gov.uk/uksi/1987/168).
 
@@ -466,32 +466,32 @@ Articles 26 and 27 introduce amendments corresponding to those made in respect o
 
 [^f00014]: Footnote: Paragraph (6)(g) was inserted by S.I. [1991/1715](https://www.legislation.gov.uk/uksi/1991/1715).
 
-[^key-0f725a2e6ef231ba896a3fb32ceb2378]: Commencement: Art. 18 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-0f725a2e6ef231ba896a3fb32ceb2378]: Commencement: Art. 18 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-ff170333dd9b9b5dd93c5128ebaae9e7]: Commencement: Art. 19 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-ff170333dd9b9b5dd93c5128ebaae9e7]: Commencement: Art. 19 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-8f4c6147d63459365bcd5f4779b11482]: Commencement: Art. 20 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-8f4c6147d63459365bcd5f4779b11482]: Commencement: Art. 20 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-d1f8cea7c955fc806113543b4389decc]: Commencement: Art. 21 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-d1f8cea7c955fc806113543b4389decc]: Commencement: Art. 21 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-9f2ddfc85dffb6dd8f08711f913c4bef]: Commencement: Art. 22 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-9f2ddfc85dffb6dd8f08711f913c4bef]: Commencement: Art. 22 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-284617942c133392d967cec3a3487587]: Commencement: Art. 23 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-284617942c133392d967cec3a3487587]: Commencement: Art. 23 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-7032e2ce5ee95f975396707217d16c16]: Commencement: Art. 24 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-7032e2ce5ee95f975396707217d16c16]: Commencement: Art. 24 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-11c88dff1046677b469f16807ed8d8c0]: Commencement: Art. 25 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-11c88dff1046677b469f16807ed8d8c0]: Commencement: Art. 25 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-d5ca8a23128a15dcb66dd01b1769591e]: Commencement: Art. 26 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-d5ca8a23128a15dcb66dd01b1769591e]: Commencement: Art. 26 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-603e2042188c1d7aa952d9ce7ce47273]: Commencement: Art. 27 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-603e2042188c1d7aa952d9ce7ce47273]: Commencement: Art. 27 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-643fe6c9fa418d033421d4bf102b5470]: Commencement: Art. 28 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-643fe6c9fa418d033421d4bf102b5470]: Commencement: Art. 28 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
-[^key-a0b5266cb2a4424c033058a16df49614]: Commencement: Art. 29 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-a0b5266cb2a4424c033058a16df49614]: Commencement: Art. 29 in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
 
 [^f00015]: Footnote: S.I. [1987/168](https://www.legislation.gov.uk/uksi/1987/168).
 
 [^f00016]: Footnote: S.I. [1997/868](https://www.legislation.gov.uk/uksi/1997/868).
 
-[^key-d0c958c91c3b80601b72228224e101ea]: Commencement: Sch. in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)
+[^c-d0c958c91c3b80601b72228224e101ea]: Commencement: Sch. in force at 28.2.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/417/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Review[^key-35a9add95e413162c892596518cd82e9]
+## 17. Review[^c-35a9add95e413162c892596518cd82e9]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The Secretary of State must, before 9th December 2032—
 
 ## Annotations
 
-[^key-35a9add95e413162c892596518cd82e9]: Commencement: Reg. 17 in force at 10.4.2026, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/c)
+[^c-35a9add95e413162c892596518cd82e9]: Commencement: Reg. 17 in force at 10.4.2026, see [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/c)

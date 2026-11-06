@@ -44,17 +44,17 @@ Coming into force
 
 1st November 2005
 
-The Lord Chancellor, in exercise of the powers conferred upon him by sections 144(11) and (12) and 160 of the Transport Act 2000[^f00001], so far as these Regulations relate to the notification, adjudication and enforcement of penalty charges, and the Secretary of State for Transport, in exercise of the powers conferred by sections 144(1), (2) and (8) to (10) and 160 of that Act, so far as these Regulations relate to other matters, hereby make the following Regulations:[^key-f46cd4665ef33b5cc7ecfdafb346301b][^key-8876cadecb4f851e7d1afe1ad711a41b]
+The Lord Chancellor, in exercise of the powers conferred upon him by sections 144(11) and (12) and 160 of the Transport Act 2000[^f00001], so far as these Regulations relate to the notification, adjudication and enforcement of penalty charges, and the Secretary of State for Transport, in exercise of the powers conferred by sections 144(1), (2) and (8) to (10) and 160 of that Act, so far as these Regulations relate to other matters, hereby make the following Regulations:[^c-f46cd4665ef33b5cc7ecfdafb346301b][^c-8876cadecb4f851e7d1afe1ad711a41b]
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation, commencement and application[^key-e61b4853a0d3f76892eee1fcbd8dc6fb]
+### 1. Citation, commencement and application[^c-e61b4853a0d3f76892eee1fcbd8dc6fb]
 
 (1) These Regulations may be cited as the Bus Lane Contraventions (Penalty Charges, Adjudication and Enforcement) (England) Regulations 2005 and shall come into force on 1st November 2005.
 
 (2) These Regulations apply only to England exclusive of Greater London.
 
-### 2. Interpretation[^key-8cc88cc7aa296a49b4031de685876b83]
+### 2. Interpretation[^c-8cc88cc7aa296a49b4031de685876b83]
 
 (1) In these Regulations—
 
@@ -84,13 +84,13 @@ The Lord Chancellor, in exercise of the powers conferred upon him by sections 14
 
 ## PART 2 — PENALTY CHARGES
 
-### 3. Penalty charges[^key-bf43653cc95f27dba827997e6ed0845f]
+### 3. Penalty charges[^c-bf43653cc95f27dba827997e6ed0845f]
 
 (1) Subject to paragraph (2) and regulation 4, an approved local authority may impose a penalty charge in respect of a contravention relating to any road within their area, except a road which is a special road in accordance with section 16 of the Highways Act 1980[^f00004].
 
 (2) A penalty charge may be imposed only on the basis of a record produced by an approved device.
 
-### 4. Level of penalty charges[^key-924bb3ea14b10e3588c1eb0896e4ae0a]
+### 4. Level of penalty charges[^c-924bb3ea14b10e3588c1eb0896e4ae0a]
 
 (1) An approved local authority shall not impose a penalty charge in accordance with these Regulations unless—
 
@@ -111,7 +111,7 @@ and no charge shall be imposed before the date so specified.
 
 (5) In the circumstances described in regulation 8(5)(j), an authority may increase a penalty charge to a sum equivalent to one and a half times the level of charge approved by the Secretary of State.
 
-### 5. Person by whom penalty charge is to be paid[^key-4859b9b271a9554487e0cec8f93ca6a2]
+### 5. Person by whom penalty charge is to be paid[^c-4859b9b271a9554487e0cec8f93ca6a2]
 
 (1) Subject to paragraphs (2) and (3), a penalty charge shall be paid by the owner of the vehicle involved in the contravention.
 
@@ -137,7 +137,7 @@ the penalty charge shall be paid by the vehicle trader.
   - (iii) which is not a hire purchase agreement within the meaning of the Consumer Credit Act 1974[^f00006]; and
 - “vehicle trader” has the same meaning as in regulation 20(6) (change of keeper: general provisions) of the Road Vehicle (Registration and Licensing) Regulations 2002[^f00007].
 
-### 6. Circumstances in which penalty charge need not be paid or is to be refunded[^key-befc0e2441a48041b1901edeab7284bc]
+### 6. Circumstances in which penalty charge need not be paid or is to be refunded[^c-befc0e2441a48041b1901edeab7284bc]
 
 (1) A penalty charge shall not be payable under these Regulations where—
 
@@ -153,7 +153,7 @@ the authority shall, as soon as reasonably practicable after those circumstances
 
 ## PART 3 — NOTIFICATION OF, AND REPRESENTATIONS ABOUT, PENALTY CHARGES
 
-### 7. Interpretation of Part 3[^key-a8c06425429eb71112230360ef8d05a5]
+### 7. Interpretation of Part 3[^c-a8c06425429eb71112230360ef8d05a5]
 
 In this Part—
 
@@ -161,7 +161,7 @@ In this Part—
 - “the recipient”, in relation to a penalty charge notice, means the person on whom the penalty charge notice is served; and
 - “the 28 day period”, in relation to a penalty charge notice, means the period of 28 days beginning with the date of service of the notice.
 
-### 8. Penalty charge notices[^key-f36c660fb8d9071d83f8d8364a9f9b49]
+### 8. Penalty charge notices[^c-f36c660fb8d9071d83f8d8364a9f9b49]
 
 (1) Where an approved local authority have reason to believe that a penalty charge is payable under Part 2 with respect to a vehicle, they may, in accordance with paragraphs (2) and (5) below, serve a notice (“penalty charge notice”) on the person appearing to them to be the owner of the vehicle or on the person appearing to them to be the person liable to pay the charge.
 
@@ -201,7 +201,7 @@ the authority shall continue to be entitled to serve a penalty charge notice for
 
 (6) Where the recipient of the notice makes a request under paragraph (5)(n), the authority shall comply with the request within a reasonable time.
 
-### 9. Representations in respect of penalty charges[^key-f12691c12b18e162c77e2704915c00cf]
+### 9. Representations in respect of penalty charges[^c-f12691c12b18e162c77e2704915c00cf]
 
 (1) The recipient may make written representations on any of the statutory grounds of appeal to the authority against the imposition of the penalty charge; but the authority may disregard any such representations which are received by them after the end of the 28 day period.
 
@@ -224,7 +224,7 @@ the authority shall continue to be entitled to serve a penalty charge notice for
 
 (4) Where the ground mentioned in paragraph (2)(c)(iii) is relied on in any representations made under paragraph (1), those representations must include a statement of the name and address of the person from whom the vehicle was acquired by the recipient (if that information is in his possession).
 
-### 10. Response to representations[^key-12e9dc5ce9da1058ba9c0ff428d40225]
+### 10. Response to representations[^c-12e9dc5ce9da1058ba9c0ff428d40225]
 
 (1) Where representations are duly made to an authority under regulation 9 and they are made within the 28 day period, it shall be the duty of the authority—
 
@@ -265,7 +265,7 @@ and where the ground that is accepted is that mentioned in regulation 9(2)(e)(ii
 
 ## PART 4 — BUS LANE ADJUDICATORS
 
-### 11. Appointment of, and provision of facilities for, bus lane adjudicators[^key-d3f5b88bab51c3d8efa858bdc2ec274b]
+### 11. Appointment of, and provision of facilities for, bus lane adjudicators[^c-d3f5b88bab51c3d8efa858bdc2ec274b]
 
 (1) Those approved local authorities which have resolved to impose penalty charges under regulation 3(1) shall—
 
@@ -276,7 +276,7 @@ and where the ground that is accepted is that mentioned in regulation 9(2)(e)(ii
 
 (2) The Schedule to these Regulations, which makes provision relating to the appointment of bus lane adjudicators, shall have effect.
 
-### 12. Discharge of functions under regulation 11[^key-ea5de5cea2c661070cf240732a7b04d0]
+### 12. Discharge of functions under regulation 11[^c-ea5de5cea2c661070cf240732a7b04d0]
 
 (1) Where two or more approved local authorities (“the participating authorities”) have resolved to impose penalty charges pursuant to regulation 3(1), the functions conferred on them by regulation 11 shall be discharged through a joint committee (“the joint committee”) set up in pursuance of arrangements entered into under section 101(5) of the Local Government Act 1972[^f00009].
 
@@ -294,7 +294,7 @@ and where the ground that is accepted is that mentioned in regulation 9(2)(e)(ii
 
 ## PART 5 — APPEALS AGAINST PENALTY CHARGES
 
-### 13. Interpretation of Part 5[^key-e4af9ed28195ffa7ffc8c47f949e982b]
+### 13. Interpretation of Part 5[^c-e4af9ed28195ffa7ffc8c47f949e982b]
 
 In this Part, in relation to an appeal or any process connected with an appeal—
 
@@ -304,7 +304,7 @@ In this Part, in relation to an appeal or any process connected with an appeal�
 - “hearing” means an oral hearing; and
 - “party” means the appellant or the authority.
 
-### 14. Initiating an appeal[^key-4ebdc7178c76b159b7729bb6632fb8fc]
+### 14. Initiating an appeal[^c-4ebdc7178c76b159b7729bb6632fb8fc]
 
 (1) A person on whom a penalty charge notice has been served may appeal against the imposition of the penalty charge if—
 
@@ -327,7 +327,7 @@ In this Part, in relation to an appeal or any process connected with an appeal�
 
 (6) The adjudicator shall treat any such statement as a request to extend the appeal period and, if he thinks fit, may direct that the period be extended accordingly.
 
-### 15. Action on receipt of notice of appeal[^key-5c27afe131149fd7de510468903a7b0e]
+### 15. Action on receipt of notice of appeal[^c-5c27afe131149fd7de510468903a7b0e]
 
 (1) On receiving a notice of appeal the proper officer shall send an acknowledgement of its receipt to the appellant.
 
@@ -350,7 +350,7 @@ In this Part, in relation to an appeal or any process connected with an appeal�
 
 the proper officer shall inform the appellant of the reasons why he considers that the notice does not accord with regulation 14 or, as the case may be, that adjudicator has declined the request for an extension and shall record the action taken in the register.
 
-### 16. Further representations[^key-b72a091f3f486329b0c1a3a418812622]
+### 16. Further representations[^c-b72a091f3f486329b0c1a3a418812622]
 
 (1) A party may, at any time before the determination of the appeal, deliver further representations on any of the statutory grounds of appeal to the proper officer.
 
@@ -364,7 +364,7 @@ the proper officer shall inform the appellant of the reasons why he considers th
 
 (6) Where the authority delivers representations to the proper officer under either of those paragraphs, it shall at the same time send a copy to the appellant.
 
-### 17. Disposing of an appeal without a hearing[^key-267945fa856334fa1c1fac9df0af7197]
+### 17. Disposing of an appeal without a hearing[^c-267945fa856334fa1c1fac9df0af7197]
 
 (1) Subject to the provisions of this Part of these Regulations, the adjudicator may decide the general procedure to be followed in connection with appeals and may dispose of an appeal without a hearing, unless in his opinion the appeal raises issues of public importance such as to require that a hearing be held.
 
@@ -380,7 +380,7 @@ the proper officer shall inform the appellant of the reasons why he considers th
   - (i) there has elapsed a period of four weeks beginning with the date on which an acknowledgement is sent in accordance with regulation 15(1) during which neither party has requested a hearing; or
   - (ii) both parties have consented to its disposal without a hearing.
 
-### 18. Notice of time and place of hearing[^key-4551732dde5947a82f62acd64e766727]
+### 18. Notice of time and place of hearing[^c-4551732dde5947a82f62acd64e766727]
 
 (1) This regulation shall have effect where a hearing is to be held for the purpose of disposing of an appeal.
 
@@ -398,7 +398,7 @@ the proper officer shall inform the appellant of the reasons why he considers th
 
 (4) This regulation applies to an adjourned hearing but, if, before the adjournment, the time and place of the adjourned hearing are notified to all persons expected to attend, no further notice shall be required.
 
-### 19. Power to require attendance and production of documents[^key-ee976e2f45c7aeadbc20d68e2984116b]
+### 19. Power to require attendance and production of documents[^c-ee976e2f45c7aeadbc20d68e2984116b]
 
 (1) The adjudicator may, by notice in writing sent to any person, require that person—
 
@@ -418,7 +418,7 @@ and any such notice shall contain a statement of the effect of paragraphs (2) to
 
 (5) If any person who is required under paragraph (1) to attend a hearing held by an adjudicator, or to produce any document to an adjudicator, fails without reasonable excuse to do so, he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
-### 20. Procedure at a hearing[^key-6b5c3cd0bc224937313f469f58b86b62]
+### 20. Procedure at a hearing[^c-6b5c3cd0bc224937313f469f58b86b62]
 
 (1) At the beginning of the hearing of an appeal the adjudicator shall explain the order of proceeding which he proposes to adopt.
 
@@ -426,7 +426,7 @@ and any such notice shall contain a statement of the effect of paragraphs (2) to
 
 (3) Any hearing of an appeal by the adjudicator shall be in public except where the adjudicator is satisfied that, by reason of exceptional circumstances, it is just and reasonable for the hearing, or part of it, to be in private.
 
-(4)[^key-44dbd619b2878bd8fd972ca7c8081b15] Any other adjudicator shall be entitled to attend the hearing of an appeal whether or not it is in private.
+(4)[^c-44dbd619b2878bd8fd972ca7c8081b15] Any other adjudicator shall be entitled to attend the hearing of an appeal whether or not it is in private.
 
 (5) The adjudicator, with the consent of the parties, may permit any other person to attend the hearing of an appeal which is held in private or, where part of it is so held, that part.
 
@@ -445,7 +445,7 @@ and any such notice shall contain a statement of the effect of paragraphs (2) to
 
 (11) Where a party who has been sent notice of the hearing of an appeal, or otherwise informed of the hearing in accordance with regulation 18, fails to attend or be represented at the hearing, the adjudicator may dispose of the appeal in his absence.
 
-### 21. Evidence by production of record[^key-ac24959318d8e01f8d5374a234ff89c5]
+### 21. Evidence by production of record[^c-ac24959318d8e01f8d5374a234ff89c5]
 
 (1) The adjudicator may permit evidence of the fact of a contravention to be given by the production of—
 
@@ -454,7 +454,7 @@ and any such notice shall contain a statement of the effect of paragraphs (2) to
 
 (2) A document stated in evidence to be such a record as is mentioned in paragraph (1)(a), or such a certificate as is mentioned in paragraph (1)(b), shall be treated as such a record or certificate, unless the contrary is proved.
 
-### 22. Decisions on appeals[^key-fb74281af5a776dee8304421ff305c6f]
+### 22. Decisions on appeals[^c-fb74281af5a776dee8304421ff305c6f]
 
 (1) The adjudicator shall determine the appeal after considering all the evidence and all representations made by or on behalf of the parties.
 
@@ -471,7 +471,7 @@ and any such notice shall contain a statement of the effect of paragraphs (2) to
 - (a) forthwith record in the register the decision, the adjudicator’s reasons and any directions given; and
 - (b) send a copy of the register entry to each party.
 
-### 23. Review of adjudicator’s or proper officer’s decision[^key-0ebc7ed5ed0ac4763666b5c68af999aa]
+### 23. Review of adjudicator’s or proper officer’s decision[^c-0ebc7ed5ed0ac4763666b5c68af999aa]
 
 (1) The adjudicator may, on the application of a party, review and revoke or vary any decision to reject a notice of appeal or to dismiss or allow an appeal, or any decision as to costs, on the grounds (in each case) that—
 
@@ -495,7 +495,7 @@ and any such notice shall contain a statement of the effect of paragraphs (2) to
 
 (6) Regulation 22 shall apply to a confirmation, revocation or variation of a decision under this regulation as it applies to a decision made on the disposal of an appeal.
 
-### 24. Costs[^key-ad1ce18b50bcf597a4558d4aed8061ab]
+### 24. Costs[^c-ad1ce18b50bcf597a4558d4aed8061ab]
 
 (1) The adjudicator shall not normally make an order awarding costs and expenses, but may, subject to paragraph (2), make such an order—
 
@@ -506,11 +506,11 @@ and any such notice shall contain a statement of the effect of paragraphs (2) to
 
 (3) An order under paragraph (1) shall require the party against whom it is made to pay the other party a specified sum in respect of the costs and expenses incurred by that other party in connection with the proceedings.
 
-### 25. Recovery of amount payable under an adjudication[^key-9b31cceb154fe7cb8da415f7d81651e7]
+### 25. Recovery of amount payable under an adjudication[^c-9b31cceb154fe7cb8da415f7d81651e7]
 
 Any amount which is payable under an adjudication of an adjudicator shall, if a county court so orders, be recoverable by the person to whom the amount is payable, as if it were payable under a county court order.
 
-### 26. Consolidation of proceedings[^key-a8f8e818b10421ea5f40329d7e34e683]
+### 26. Consolidation of proceedings[^c-a8f8e818b10421ea5f40329d7e34e683]
 
 (1) Where two or more appeals are pending and it appears to the adjudicator—
 
@@ -521,7 +521,7 @@ the adjudicator may order that all the appeals, or such of the appeals as he may
 
 (2) An order shall not be made under this regulation unless all parties concerned have been given an opportunity to make representations against the making of such an order.
 
-### 27. Miscellaneous powers of the adjudicator[^key-f9054b68d6752b88ffb94a49a0927b08]
+### 27. Miscellaneous powers of the adjudicator[^c-f9054b68d6752b88ffb94a49a0927b08]
 
 (1) The adjudicator may, if he thinks fit—
 
@@ -533,11 +533,11 @@ the adjudicator may order that all the appeals, or such of the appeals as he may
 
 (2) The powers of the adjudicator conferred by these Regulations, other than regulation 23, may be exercised on his own initiative or on the application of a party.
 
-### 28. Correction of clerical mistakes and errors[^key-b7af07d65c0e81d04cddf1a2a26928cc]
+### 28. Correction of clerical mistakes and errors[^c-b7af07d65c0e81d04cddf1a2a26928cc]
 
 Clerical mistakes in any document recording a direction or decision of the adjudicator, or errors in such a document arising from an accidental slip or omission, may be corrected by the proper officer on the direction of the adjudicator.
 
-### 29. Service of documents on the parties[^key-902d6c9dfb541560ffaa8656f5d44976]
+### 29. Service of documents on the parties[^c-902d6c9dfb541560ffaa8656f5d44976]
 
 (1) This regulation has effect in relation to any notice or other document required or authorised by these Regulations to be sent to a party to an appeal.
 
@@ -582,7 +582,7 @@ and any such document so left shall be taken to have been delivered on the secon
 - (a) left at the proper address of a party shall be taken to have been delivered on the first working day after the day on which it was left;
 - (b) sent by fax or other means of electronic transmission shall be taken to have been delivered on the first working day after the day on which it was transmitted.
 
-### 30. Delivery of notices or documents to the proper officer[^key-c6a4fdada2c9a96850769db95825e5f9]
+### 30. Delivery of notices or documents to the proper officer[^c-c6a4fdada2c9a96850769db95825e5f9]
 
 (1) This regulation has effect in relation to any notice or other document required or authorised by or under this Part to be delivered to the proper officer.
 
@@ -602,7 +602,7 @@ and any such document so left shall be taken to have been delivered on the secon
 - (a) shall, in the case of a document transmitted by fax, be satisfied if a copy of the signature of the relevant person appears on the transmitted copy; and
 - (b) shall not apply in relation to a document transmitted by other means of electronic data transmission.
 
-### 31. The register[^key-5de27b06844142db74ce942b2fa62b7f]
+### 31. The register[^c-5de27b06844142db74ce942b2fa62b7f]
 
 (1) The joint committee set up pursuant to regulation 12(1) shall establish and maintain the register for the purposes of recording proceedings conducted under this Part of these Regulations.
 
@@ -616,7 +616,7 @@ and any such document so left shall be taken to have been delivered on the secon
 
 ## PART 6 — ENFORCEMENT OF PENALTY CHARGES
 
-### 32. Charge certificates[^key-f3d707bb79409656d29b320e097cf355]
+### 32. Charge certificates[^c-f3d707bb79409656d29b320e097cf355]
 
 (1) Where—
 
@@ -632,7 +632,7 @@ the enforcing authority may serve on that person a statement (a “charge certif
 - (c) where an appeal is withdrawn, the period of 14 days beginning with the date on which it is withdrawn; and
 - (d) where no representations are made, the period of 28 days beginning with the date on which the penalty charge notice is served.
 
-### 33. Enforcement of penalty charges[^key-25dac7710f50a32ea4cc7736ebc28c28]
+### 33. Enforcement of penalty charges[^c-25dac7710f50a32ea4cc7736ebc28c28]
 
 Where, in relation to a penalty charge notice—
 
@@ -641,7 +641,7 @@ Where, in relation to a penalty charge notice—
 
 the authority concerned may, if the county court so orders, recover the charge as if it were payable under a county court order.
 
-### 34. Cancellation of charge certificates, etc[^key-1087db2817fd8060b8b00b69686862a3]
+### 34. Cancellation of charge certificates, etc[^c-1087db2817fd8060b8b00b69686862a3]
 
 (1) This regulation applies where—
 
@@ -668,7 +668,7 @@ the authority concerned may, if the county court so orders, recover the charge a
 
 (6) Where a declaration contains such a statement as is mentioned in paragraph (2)(b) or (c), the enforcing authority shall refer the case to the adjudicator, who may give such directions as he considers appropriate.
 
-### 35. Enforcement by execution[^key-c45e063d0aa54a42fb89a8960035bdd8]
+### 35. Enforcement by execution[^c-c45e063d0aa54a42fb89a8960035bdd8]
 
 (1) Subject to paragraph (2), a sum of money—
 
@@ -686,7 +686,7 @@ as if it were payable under a county court order shall be treated for the purpos
 
 ## PART 7 — FINANCIAL PROVISIONS
 
-### 36. Accounts and application of sums paid by way of penalty charges[^key-289f9e87d1ca32c6854c16238fff791a]
+### 36. Accounts and application of sums paid by way of penalty charges[^c-289f9e87d1ca32c6854c16238fff791a]
 
 (1) Each approved local authority shall keep an account—
 
@@ -733,15 +733,15 @@ Department for Transport
 
 Regulation 11
 
-**1.**[^key-c3a70d6123cd79227740e0e7b689a49a] To be qualified for appointment as a bus lane adjudicator, a person must have a 5 year general qualification (within the meaning of section 71 of the Courts and Legal Services Act 1990[^f00012]).
+**1.**[^c-c3a70d6123cd79227740e0e7b689a49a] To be qualified for appointment as a bus lane adjudicator, a person must have a 5 year general qualification (within the meaning of section 71 of the Courts and Legal Services Act 1990[^f00012]).
 
-**2.**[^key-abf277205dd827d09a949c7616eac64e] A person may be appointed as a bus lane adjudicator notwithstanding that he is appointed to act as a parking adjudicator for the purposes of Part 2 of the Road Traffic Act 1991[^f00013].
+**2.**[^c-abf277205dd827d09a949c7616eac64e] A person may be appointed as a bus lane adjudicator notwithstanding that he is appointed to act as a parking adjudicator for the purposes of Part 2 of the Road Traffic Act 1991[^f00013].
 
-**3.**[^key-a84efe4b7511be3efb0559ae5c8e75c4] A bus lane adjudicator shall be appointed for such term, not exceeding five years, as may be specified in the instrument of appointment.
+**3.**[^c-a84efe4b7511be3efb0559ae5c8e75c4] A bus lane adjudicator shall be appointed for such term, not exceeding five years, as may be specified in the instrument of appointment.
 
-**4.**[^key-c4033f907e6df9fb74dfb4bedb103ede] On the expiry of his term of appointment, a bus lane adjudicator shall be eligible for re-appointment.
+**4.**[^c-c4033f907e6df9fb74dfb4bedb103ede] On the expiry of his term of appointment, a bus lane adjudicator shall be eligible for re-appointment.
 
-**5.**[^key-4d2bea54a7242e47c62c86965e6053cf] A bus lane adjudicator may be removed from office only for misconduct or on the ground that he is unable or unfit to discharge his functions but shall otherwise hold and vacate office in accordance with the terms of his appointment.
+**5.**[^c-4d2bea54a7242e47c62c86965e6053cf] A bus lane adjudicator may be removed from office only for misconduct or on the ground that he is unable or unfit to discharge his functions but shall otherwise hold and vacate office in accordance with the terms of his appointment.
 
 (This note is not part of the Regulations)
 
@@ -779,25 +779,25 @@ No Regulatory Impact Assessment has been undertaken since the Regulations are co
 
 [^f00001]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-f46cd4665ef33b5cc7ecfdafb346301b]: Modification: Regulations applied (with modifications) (14.2.2012) by [2006 c. 12](https://www.legislation.gov.uk/ukpga/2006/12), [ss. 16C(1)-(6)](https://www.legislation.gov.uk/ukpga/2006/12/section/16C), [16D](https://www.legislation.gov.uk/ukpga/2006/12/section/16D) (as inserted by [London Olympic Games and Paralympic Games (Amendment) Act 2011 (c. 22)](https://www.legislation.gov.uk/ukpga/2011/22), [ss. 8](https://www.legislation.gov.uk/ukpga/2011/22/section/8), [10(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/10/1))
+[^c-f46cd4665ef33b5cc7ecfdafb346301b]: Modification: Regulations applied (with modifications) (14.2.2012) by [2006 c. 12](https://www.legislation.gov.uk/ukpga/2006/12), [ss. 16C(1)-(6)](https://www.legislation.gov.uk/ukpga/2006/12/section/16C), [16D](https://www.legislation.gov.uk/ukpga/2006/12/section/16D) (as inserted by [London Olympic Games and Paralympic Games (Amendment) Act 2011 (c. 22)](https://www.legislation.gov.uk/ukpga/2011/22), [ss. 8](https://www.legislation.gov.uk/ukpga/2011/22/section/8), [10(1)](https://www.legislation.gov.uk/ukpga/2011/22/section/10/1))
 
-[^key-8876cadecb4f851e7d1afe1ad711a41b]: Modification: Regulations modified (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2017/510/article/6)
+[^c-8876cadecb4f851e7d1afe1ad711a41b]: Modification: Regulations modified (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2017/510/article/6)
 
-[^key-e61b4853a0d3f76892eee1fcbd8dc6fb]: Commencement: Reg. 1 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-e61b4853a0d3f76892eee1fcbd8dc6fb]: Commencement: Reg. 1 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-8cc88cc7aa296a49b4031de685876b83]: Commencement: Reg. 2 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-8cc88cc7aa296a49b4031de685876b83]: Commencement: Reg. 2 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
 [^f00002]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
 [^f00003]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
 
-[^key-bf43653cc95f27dba827997e6ed0845f]: Commencement: Reg. 3 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-bf43653cc95f27dba827997e6ed0845f]: Commencement: Reg. 3 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
 [^f00004]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-924bb3ea14b10e3588c1eb0896e4ae0a]: Commencement: Reg. 4 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-924bb3ea14b10e3588c1eb0896e4ae0a]: Commencement: Reg. 4 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-4859b9b271a9554487e0cec8f93ca6a2]: Commencement: Reg. 5 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-4859b9b271a9554487e0cec8f93ca6a2]: Commencement: Reg. 5 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
 [^f00005]: Footnote: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53).
 
@@ -805,88 +805,88 @@ No Regulatory Impact Assessment has been undertaken since the Regulations are co
 
 [^f00007]: Footnote: [S.I. 2002/2742](https://www.legislation.gov.uk/uksi/2002/2742), to which there are amendments not relevant to these Regulations.
 
-[^key-befc0e2441a48041b1901edeab7284bc]: Commencement: Reg. 6 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-befc0e2441a48041b1901edeab7284bc]: Commencement: Reg. 6 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
 [^f00008]: Footnote: Section 52 was amended by the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), Schedule 13, paragraph 147, by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) Schedule 8, paragraph 314 and by the Statute Law (Repeals) Act [2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), Schedule 1, Part 14.
 
-[^key-a8c06425429eb71112230360ef8d05a5]: Commencement: Reg. 7 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-a8c06425429eb71112230360ef8d05a5]: Commencement: Reg. 7 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-f36c660fb8d9071d83f8d8364a9f9b49]: Commencement: Reg. 8 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-f36c660fb8d9071d83f8d8364a9f9b49]: Commencement: Reg. 8 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-f12691c12b18e162c77e2704915c00cf]: Commencement: Reg. 9 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-f12691c12b18e162c77e2704915c00cf]: Commencement: Reg. 9 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-12e9dc5ce9da1058ba9c0ff428d40225]: Commencement: Reg. 10 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-12e9dc5ce9da1058ba9c0ff428d40225]: Commencement: Reg. 10 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-d3f5b88bab51c3d8efa858bdc2ec274b]: Commencement: Reg. 11 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-d3f5b88bab51c3d8efa858bdc2ec274b]: Commencement: Reg. 11 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-ea5de5cea2c661070cf240732a7b04d0]: Commencement: Reg. 12 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-ea5de5cea2c661070cf240732a7b04d0]: Commencement: Reg. 12 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
 [^f00009]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-e4af9ed28195ffa7ffc8c47f949e982b]: Commencement: Reg. 13 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-e4af9ed28195ffa7ffc8c47f949e982b]: Commencement: Reg. 13 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-4ebdc7178c76b159b7729bb6632fb8fc]: Commencement: Reg. 14 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-4ebdc7178c76b159b7729bb6632fb8fc]: Commencement: Reg. 14 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-5c27afe131149fd7de510468903a7b0e]: Commencement: Reg. 15 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-5c27afe131149fd7de510468903a7b0e]: Commencement: Reg. 15 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-b72a091f3f486329b0c1a3a418812622]: Commencement: Reg. 16 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-b72a091f3f486329b0c1a3a418812622]: Commencement: Reg. 16 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-267945fa856334fa1c1fac9df0af7197]: Commencement: Reg. 17 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-267945fa856334fa1c1fac9df0af7197]: Commencement: Reg. 17 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-4551732dde5947a82f62acd64e766727]: Commencement: Reg. 18 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-4551732dde5947a82f62acd64e766727]: Commencement: Reg. 18 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-ee976e2f45c7aeadbc20d68e2984116b]: Commencement: Reg. 19 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-ee976e2f45c7aeadbc20d68e2984116b]: Commencement: Reg. 19 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-6b5c3cd0bc224937313f469f58b86b62]: Commencement: Reg. 20 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-6b5c3cd0bc224937313f469f58b86b62]: Commencement: Reg. 20 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-44dbd619b2878bd8fd972ca7c8081b15]: Textual amendment: [Reg. 20(4)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/20/4) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 300](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/300)
+[^c-44dbd619b2878bd8fd972ca7c8081b15]: Textual amendment: [Reg. 20(4)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/20/4) substituted (3.11.2008) by [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 300](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/300)
 
-[^key-ac24959318d8e01f8d5374a234ff89c5]: Commencement: Reg. 21 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-ac24959318d8e01f8d5374a234ff89c5]: Commencement: Reg. 21 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-fb74281af5a776dee8304421ff305c6f]: Commencement: Reg. 22 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-fb74281af5a776dee8304421ff305c6f]: Commencement: Reg. 22 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-0ebc7ed5ed0ac4763666b5c68af999aa]: Commencement: Reg. 23 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-0ebc7ed5ed0ac4763666b5c68af999aa]: Commencement: Reg. 23 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-ad1ce18b50bcf597a4558d4aed8061ab]: Commencement: Reg. 24 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-ad1ce18b50bcf597a4558d4aed8061ab]: Commencement: Reg. 24 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-9b31cceb154fe7cb8da415f7d81651e7]: Commencement: Reg. 25 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-9b31cceb154fe7cb8da415f7d81651e7]: Commencement: Reg. 25 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-a8f8e818b10421ea5f40329d7e34e683]: Commencement: Reg. 26 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-a8f8e818b10421ea5f40329d7e34e683]: Commencement: Reg. 26 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-f9054b68d6752b88ffb94a49a0927b08]: Commencement: Reg. 27 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-f9054b68d6752b88ffb94a49a0927b08]: Commencement: Reg. 27 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-b7af07d65c0e81d04cddf1a2a26928cc]: Commencement: Reg. 28 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-b7af07d65c0e81d04cddf1a2a26928cc]: Commencement: Reg. 28 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-902d6c9dfb541560ffaa8656f5d44976]: Commencement: Reg. 29 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-902d6c9dfb541560ffaa8656f5d44976]: Commencement: Reg. 29 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
 [^f00010]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-c6a4fdada2c9a96850769db95825e5f9]: Commencement: Reg. 30 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-c6a4fdada2c9a96850769db95825e5f9]: Commencement: Reg. 30 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-5de27b06844142db74ce942b2fa62b7f]: Commencement: Reg. 31 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-5de27b06844142db74ce942b2fa62b7f]: Commencement: Reg. 31 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-f3d707bb79409656d29b320e097cf355]: Commencement: Reg. 32 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-f3d707bb79409656d29b320e097cf355]: Commencement: Reg. 32 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-25dac7710f50a32ea4cc7736ebc28c28]: Commencement: Reg. 33 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-25dac7710f50a32ea4cc7736ebc28c28]: Commencement: Reg. 33 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-1087db2817fd8060b8b00b69686862a3]: Commencement: Reg. 34 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-1087db2817fd8060b8b00b69686862a3]: Commencement: Reg. 34 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-c45e063d0aa54a42fb89a8960035bdd8]: Commencement: Reg. 35 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-c45e063d0aa54a42fb89a8960035bdd8]: Commencement: Reg. 35 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
 [^f00011]: Footnote: [S.I. 1993/2073](https://www.legislation.gov.uk/uksi/1993/2073), amended by [S.I. 2001/1386](https://www.legislation.gov.uk/uksi/2001/1386).
 
-[^key-289f9e87d1ca32c6854c16238fff791a]: Commencement: Reg. 36 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-289f9e87d1ca32c6854c16238fff791a]: Commencement: Reg. 36 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-c3a70d6123cd79227740e0e7b689a49a]: Commencement: Sch. para. 1 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-c3a70d6123cd79227740e0e7b689a49a]: Commencement: Sch. para. 1 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
 [^f00012]: Footnote: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41); section 71 was amended by the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22) Schedule 6, paragraph 9 and Schedule 15, Part II.
 
-[^key-abf277205dd827d09a949c7616eac64e]: Commencement: Sch. para. 2 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-abf277205dd827d09a949c7616eac64e]: Commencement: Sch. para. 2 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
 [^f00013]: Footnote: Part II of the Road Traffic Act 1991 applies to Greater London, but provisions of it can also be applied to areas outside Greater London by virtue of paragraph 3(3) of Schedule 3.
 
-[^key-a84efe4b7511be3efb0559ae5c8e75c4]: Commencement: Sch. para. 3 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-a84efe4b7511be3efb0559ae5c8e75c4]: Commencement: Sch. para. 3 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-c4033f907e6df9fb74dfb4bedb103ede]: Commencement: Sch. para. 4 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-c4033f907e6df9fb74dfb4bedb103ede]: Commencement: Sch. para. 4 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
 
-[^key-4d2bea54a7242e47c62c86965e6053cf]: Commencement: Sch. para. 5 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)
+[^c-4d2bea54a7242e47c62c86965e6053cf]: Commencement: Sch. para. 5 in force at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2757/regulation/1/1)

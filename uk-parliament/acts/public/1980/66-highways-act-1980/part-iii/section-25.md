@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-53f5dbfed996d751a86d9ce5d7d887a8] A local authority may enter into an agreement with any person having the necessary power in that behalf for the dedication by that person of a footpath , bridleway or restricted byway[^M_F_f5fcef37-b513-4df2-ecae-344de6aed914] over land in their area.
+(1)[^c-53f5dbfed996d751a86d9ce5d7d887a8] A local authority may enter into an agreement with any person having the necessary power in that behalf for the dedication by that person of a footpath , bridleway or restricted byway[^M_F_f5fcef37-b513-4df2-ecae-344de6aed914] over land in their area.
 
 An agreement under this section is referred to in this Act as a “public path creation agreement”.
 
@@ -29,13 +29,13 @@ An agreement under this section is referred to in this Act as a “public path c
 - (a) in relation to land outside Greater London means a county council, a district council [^c13419471]. . .; and
 - (b) in relation to land in Greater London means [^c13419481]. . . a London borough council or the Common Council.
 
-(3)[^key-6d73662c70e63dbf567297871e8b8bc8] Before entering into an agreement under this section a local authority shall consult any other local authority or authorities in whose area the land concerned is situated.
+(3)[^c-6d73662c70e63dbf567297871e8b8bc8] Before entering into an agreement under this section a local authority shall consult any other local authority or authorities in whose area the land concerned is situated.
 
 (4) An agreement under this section shall be on such terms as to payment or otherwise as may be specified in the agreement and may, if it is so agreed, provide for the dedication of the footpath , bridleway or restricted byway subject to limitations or conditions affecting the public right of way over it.
 
-(5)[^key-6d73662c70e63dbf567297871e8b8bc8] Where a public path creation agreement has been made it shall be the duty of the local authority who are a party to it to take all necessary steps for securing that the footpath , bridleway or restricted byway is dedicated in accordance with it.
+(5)[^c-6d73662c70e63dbf567297871e8b8bc8] Where a public path creation agreement has been made it shall be the duty of the local authority who are a party to it to take all necessary steps for securing that the footpath , bridleway or restricted byway is dedicated in accordance with it.
 
-(6)[^key-6d73662c70e63dbf567297871e8b8bc8][^c13419491] As soon as may be after the dedication of a footpath , bridleway or restricted byway in accordance with a public path creation agreement, the local authority who are party to the agreement shall give notice of the dedication by publication in at least one local newspaper circulating in the area in which the land to which the agreement relates is situated.
+(6)[^c-6d73662c70e63dbf567297871e8b8bc8][^c13419491] As soon as may be after the dedication of a footpath , bridleway or restricted byway in accordance with a public path creation agreement, the local authority who are party to the agreement shall give notice of the dedication by publication in at least one local newspaper circulating in the area in which the land to which the agreement relates is situated.
 
 ## Annotations
 
@@ -51,7 +51,7 @@ An agreement under this section is referred to in this Act as a “public path c
 
 [^M_F_8677c4eb-52b7-4aec-cccc-d5d6904b6d5e]: Textual amendment: Words in s. 25 sidenote substituted (2.5.2006 for E. and 11.5.2006 for W.) by [The Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006 (S.I. 2006/1177)](https://www.legislation.gov.uk/uksi/2006/1177), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2006/1177/regulation/1/2/4), [2](https://www.legislation.gov.uk/uksi/2006/1177/regulation/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/1177/schedule/part/1); [S.I. 2006/1172](https://www.legislation.gov.uk/uksi/2006/1172), [art. 2(a)-(d)](https://www.legislation.gov.uk/uksi/2006/1172/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/1172/article/3)); [S.I. 2006/1279](https://www.legislation.gov.uk/uksi/2006/1279), [art. 2(a)-(d)](https://www.legislation.gov.uk/uksi/2006/1279/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/1279/article/3))
 
-[^key-53f5dbfed996d751a86d9ce5d7d887a8]: Modification: [S. 25(1)](https://www.legislation.gov.uk/ukpga/1980/66/section/25/1) functions exercisable concurrently (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2018/103/regulation/9/3), [11(c)](https://www.legislation.gov.uk/uksi/2018/103/regulation/11/c)
+[^c-53f5dbfed996d751a86d9ce5d7d887a8]: Modification: [S. 25(1)](https://www.legislation.gov.uk/ukpga/1980/66/section/25/1) functions exercisable concurrently (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2018/103/regulation/9/3), [11(c)](https://www.legislation.gov.uk/uksi/2018/103/regulation/11/c)
 
 [^M_F_f5fcef37-b513-4df2-ecae-344de6aed914]: Textual amendment: Words in s. 25(1)(4)(5)(6) substituted (2.5.2006 for E. and 11.5.2006 for W.) by [The Restricted Byways (Application and Consequential Amendment of Provisions) Regulations 2006 (S.I. 2006/1177)](https://www.legislation.gov.uk/uksi/2006/1177), [regs. 1(2)(4)](https://www.legislation.gov.uk/uksi/2006/1177/regulation/1/2/4), [2](https://www.legislation.gov.uk/uksi/2006/1177/regulation/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/1177/schedule/part/1); [S.I. 2006/1172](https://www.legislation.gov.uk/uksi/2006/1172), [art. 2(a)-(d)](https://www.legislation.gov.uk/uksi/2006/1172/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/1172/article/3)); [S.I. 2006/1279](https://www.legislation.gov.uk/uksi/2006/1279), [art. 2(a)-(d)](https://www.legislation.gov.uk/uksi/2006/1279/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/1279/article/3))
 
@@ -59,6 +59,6 @@ An agreement under this section is referred to in this Act as a “public path c
 
 [^c13419481]: Textual amendment: Words repealed by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 102](https://www.legislation.gov.uk/ukpga/1985/51/section/102), [Sch. 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17)
 
-[^key-6d73662c70e63dbf567297871e8b8bc8]: Modification: [S. 25(3)](https://www.legislation.gov.uk/ukpga/1980/66/section/25/3)[(5)](https://www.legislation.gov.uk/ukpga/1980/66/section/25/5)[(6)](https://www.legislation.gov.uk/ukpga/1980/66/section/25/6) modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [12(c)(i)](https://www.legislation.gov.uk/uksi/2018/103/regulation/12/c/i)
+[^c-6d73662c70e63dbf567297871e8b8bc8]: Modification: [S. 25(3)](https://www.legislation.gov.uk/ukpga/1980/66/section/25/3)[(5)](https://www.legislation.gov.uk/ukpga/1980/66/section/25/5)[(6)](https://www.legislation.gov.uk/ukpga/1980/66/section/25/6) modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [12(c)(i)](https://www.legislation.gov.uk/uksi/2018/103/regulation/12/c/i)
 
 [^c13419491]: Textual amendment: S. 25(6) inserted by [Wildlife and Countryside Act 1981 (c. 69, SIF 4:5)](https://www.legislation.gov.uk/ukpga/1981/69), [s. 64](https://www.legislation.gov.uk/ukpga/1981/69/section/64)

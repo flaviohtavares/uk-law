@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Stop and search powers in relation to Northern Ireland[^key-f76d9e1ec4900e241d72c3adccd6e121]
+## 63. Stop and search powers in relation to Northern Ireland[^c-f76d9e1ec4900e241d72c3adccd6e121]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6 (which makes amendments relating to stop and search powers in Norther
 
 ## Annotations
 
-[^key-f76d9e1ec4900e241d72c3adccd6e121]: Commencement: S. 63 in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(f)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/f)
+[^c-f76d9e1ec4900e241d72c3adccd6e121]: Commencement: S. 63 in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(f)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/f)

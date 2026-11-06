@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Increase in eligible child’s pension where there is no surviving partner[^key-70b602abdf0e8904de9f218dd3668b45]
+## 99. Increase in eligible child’s pension where there is no surviving partner[^c-70b602abdf0e8904de9f218dd3668b45]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70b602abdf0e8904de9f218dd3668b45]: Commencement: Reg. 99 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-70b602abdf0e8904de9f218dd3668b45]: Commencement: Reg. 99 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

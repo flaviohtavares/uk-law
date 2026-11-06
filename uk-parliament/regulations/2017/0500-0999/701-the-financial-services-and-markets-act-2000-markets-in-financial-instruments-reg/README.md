@@ -28,7 +28,7 @@ summary: ''
 
 2017 No. 701
 
-[^key-054b5923845ce7716cc51fca37d3040f]Financial Services And Markets
+[^c-054b5923845ce7716cc51fca37d3040f]Financial Services And Markets
 
 The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017
 
@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1
 
 [^c23017301][^c23017311]The Treasury are a government department designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to financial services.
 
-The Treasury, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and sections 286(1) [^c23017321] and (4F) [^c23017331], and 428(3) of the Financial Services and Markets Act 2000 make the following Regulations.[^key-4b551bf5ab909f27321170fcb395a44c]
+The Treasury, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and sections 286(1) [^c23017321] and (4F) [^c23017331], and 428(3) of the Financial Services and Markets Act 2000 make the following Regulations.[^c-4b551bf5ab909f27321170fcb395a44c]
 
 ## Contents
 
@@ -191,7 +191,7 @@ A transposition note setting out how MiFID II is transposed into UK law and a fu
 
 ## Annotations
 
-[^key-054b5923845ce7716cc51fca37d3040f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/701) revoked (14.12.2023 for the revocation of reg. 51) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xviii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xviii)
+[^c-054b5923845ce7716cc51fca37d3040f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/701) revoked (14.12.2023 for the revocation of reg. 51) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xviii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xviii)
 
 [^c23017301]: Marginal citation: [S.I. 2012/1759](https://www.legislation.gov.uk/uksi/2012/1759).
 
@@ -201,4 +201,4 @@ A transposition note setting out how MiFID II is transposed into UK law and a fu
 
 [^c23017331]: Marginal citation: Subsection (4F) was inserted by section 30 of the Financial Services Act 2012.
 
-[^key-4b551bf5ab909f27321170fcb395a44c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/701): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-4b551bf5ab909f27321170fcb395a44c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/701): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)

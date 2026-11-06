@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136ZE. Variation, renewal or discharge of sexual harm prevention order etc by court in Scotland[^key-9cc1f3ed1de00505c47f49d564503648]
+## 136ZE. Variation, renewal or discharge of sexual harm prevention order etc by court in Scotland[^c-9cc1f3ed1de00505c47f49d564503648]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ for an order varying, renewing or discharging the relevant order.
 
 ## Annotations
 
-[^key-9cc1f3ed1de00505c47f49d564503648]: Textual amendment: [Ss. 136ZE](https://www.legislation.gov.uk/ukpga/2003/42/section/136ZE), [136ZF](https://www.legislation.gov.uk/ukpga/2003/42/section/136ZF) inserted (31.3.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/4); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/ii)
+[^c-9cc1f3ed1de00505c47f49d564503648]: Textual amendment: [Ss. 136ZE](https://www.legislation.gov.uk/ukpga/2003/42/section/136ZE), [136ZF](https://www.legislation.gov.uk/ukpga/2003/42/section/136ZF) inserted (31.3.2023) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/18/paragraph/4); [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [reg. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2023/387/regulation/3/g/ii)

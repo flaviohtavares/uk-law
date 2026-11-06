@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Inspectors' powers and duties[^key-c2ca5dfc9c28101b16334ec61383845c][^key-71ca451d2bb9f31417b2fd5d643f6f5c]
+## 26. Inspectors' powers and duties[^c-c2ca5dfc9c28101b16334ec61383845c][^c-71ca451d2bb9f31417b2fd5d643f6f5c]
 
 *Extent: E+W*
 
@@ -55,12 +55,12 @@ summary: ''
 
 (10) Any expenses incurred by an inspector in proceedings for an offence under subsection (9) alleged to have been committed in relation to an inspection of a Welsh improvement authority are, so far as not recoverable from any other source, recoverable from the authority.
 
-(11) In this section “**inspector**” means the Auditor General for Wales, or a person exercising the functions of the Auditor General for Wales by virtue of a delegation made under section 18 of the Public Audit (Wales) Act 2013,[^key-3d20833c28af9a99fb2e30e1978f1b18], who is carrying out an audit under section 17, an assessment under section 18 or a special inspection.
+(11) In this section “**inspector**” means the Auditor General for Wales, or a person exercising the functions of the Auditor General for Wales by virtue of a delegation made under section 18 of the Public Audit (Wales) Act 2013,[^c-3d20833c28af9a99fb2e30e1978f1b18], who is carrying out an audit under section 17, an assessment under section 18 or a special inspection.
 
 ## Annotations
 
-[^key-c2ca5dfc9c28101b16334ec61383845c]: Commencement: S. 26 in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2)
+[^c-c2ca5dfc9c28101b16334ec61383845c]: Commencement: S. 26 in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2)
 
-[^key-71ca451d2bb9f31417b2fd5d643f6f5c]: Modification: S. 26 applied (with modifications) by 2004 c. 21, s. 24(4)(5) (as inserted (1.4.2010) by [Local Government (Wales) Measure 2009 (nawm 2)](https://www.legislation.gov.uk/mwa/2009/2), [s. 53(2)](https://www.legislation.gov.uk/mwa/2009/2/section/53/2), [Sch. 1 para. 33](https://www.legislation.gov.uk/mwa/2009/2/schedule/1/paragraph/33); [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2))
+[^c-71ca451d2bb9f31417b2fd5d643f6f5c]: Modification: S. 26 applied (with modifications) by 2004 c. 21, s. 24(4)(5) (as inserted (1.4.2010) by [Local Government (Wales) Measure 2009 (nawm 2)](https://www.legislation.gov.uk/mwa/2009/2), [s. 53(2)](https://www.legislation.gov.uk/mwa/2009/2/section/53/2), [Sch. 1 para. 33](https://www.legislation.gov.uk/mwa/2009/2/schedule/1/paragraph/33); [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2))
 
-[^key-3d20833c28af9a99fb2e30e1978f1b18]: Textual amendment: Words in [s. 26(11)](https://www.legislation.gov.uk/mwa/2009/2/section/26/11) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 86](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/86) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-3d20833c28af9a99fb2e30e1978f1b18]: Textual amendment: Words in [s. 26(11)](https://www.legislation.gov.uk/mwa/2009/2/section/26/11) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 86](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/86) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

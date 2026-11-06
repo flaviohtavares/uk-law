@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243. Additional functions[^key-09eeae662bb26cfe3a978e6ef426c8cc]
+## 243. Additional functions[^c-09eeae662bb26cfe3a978e6ef426c8cc]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09eeae662bb26cfe3a978e6ef426c8cc]: Commencement: [S. 243](https://www.legislation.gov.uk/ukpga/2012/7/section/243) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-09eeae662bb26cfe3a978e6ef426c8cc]: Commencement: [S. 243](https://www.legislation.gov.uk/ukpga/2012/7/section/243) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

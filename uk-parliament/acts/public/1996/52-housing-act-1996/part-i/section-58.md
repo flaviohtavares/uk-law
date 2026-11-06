@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-39d0e344e2b21fa3d542e55ace61a90f] In this Part—
+(1)[^c-39d0e344e2b21fa3d542e55ace61a90f] In this Part—
 
 - (a) “**trusts**”, in relation to a charity, has the same meaning as in the Charities Act 2011 and “**trustee**” means a charitable trustee within the meaning of that Act, and
 - (b) “**registered charity**” means a charity which is registered in accordance with section 30 of that Act.
 
 *Extent: W*
 
-(1A)[^key-3c6ed63906f5abcbce9fab163a682581] For the purposes of this Part a registered charity has received public assistance if at least one of the following conditions is satisfied—
+(1A)[^c-3c6ed63906f5abcbce9fab163a682581] For the purposes of this Part a registered charity has received public assistance if at least one of the following conditions is satisfied—
 
 - (a) the charity has received financial assistance under section 24 of the Local Government Act 1988 (assistance for privately let housing accommodation);
 - (b) the charity has received financial assistance under section 19 of the Housing and Regeneration Act 2008 (financial assistance);
@@ -44,12 +44,12 @@ summary: ''
   - (vii) section 31 of the Housing Act 1974 (management grants), or
   - (viii) any enactment mentioned in paragraph 2 or 3 of Schedule 1 to the Housing Associations Act 1985 (pre-1974 grants and certain loans).
 
-(2) References in this Part to a company[^key-13936a8eb2fcb1253aca2c8c3d72ab1a] do not include a company which is a registered charity, except where otherwise provided.
+(2) References in this Part to a company[^c-13936a8eb2fcb1253aca2c8c3d72ab1a] do not include a company which is a registered charity, except where otherwise provided.
 
 ## Annotations
 
-[^key-39d0e344e2b21fa3d542e55ace61a90f]: Textual amendment: Words in s. 58(1)(a) substituted (14.3.2012 immediately before the Charities Act 2011 (c. 25) comes into force) by The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396), art. 1, Sch. para. 45; s. 58(1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 71](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/71) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-39d0e344e2b21fa3d542e55ace61a90f]: Textual amendment: Words in s. 58(1)(a) substituted (14.3.2012 immediately before the Charities Act 2011 (c. 25) comes into force) by The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396), art. 1, Sch. para. 45; s. 58(1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 71](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/71) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-3c6ed63906f5abcbce9fab163a682581]: Textual amendment: S. 58(1A) inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 86](https://www.legislation.gov.uk/mwa/2011/5/section/86), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(s)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/s)
+[^c-3c6ed63906f5abcbce9fab163a682581]: Textual amendment: S. 58(1A) inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 86](https://www.legislation.gov.uk/mwa/2011/5/section/86), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(s)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/s)
 
-[^key-13936a8eb2fcb1253aca2c8c3d72ab1a]: Textual amendment: Words in s. 58(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 161(2)(c)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/161/2/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-13936a8eb2fcb1253aca2c8c3d72ab1a]: Textual amendment: Words in s. 58(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 161(2)(c)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/161/2/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

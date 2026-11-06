@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Guarantees: repayment by registered provider etc[^key-54aa7971a6cbf4ccea9de2da5e629270]
+## 113. Guarantees: repayment by registered provider etc[^c-54aa7971a6cbf4ccea9de2da5e629270]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54aa7971a6cbf4ccea9de2da5e629270]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2016/22/section/113) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-54aa7971a6cbf4ccea9de2da5e629270]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2016/22/section/113) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)

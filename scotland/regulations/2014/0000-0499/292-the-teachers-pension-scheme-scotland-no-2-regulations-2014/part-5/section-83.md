@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Entitlement to age retirement pension[^key-c6fe5491133c644872b8e24a395fdaea]
+## 83. Entitlement to age retirement pension[^c-c6fe5491133c644872b8e24a395fdaea]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6fe5491133c644872b8e24a395fdaea]: Commencement: [Reg. 83](https://www.legislation.gov.uk/ssi/2014/292/regulation/83) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-c6fe5491133c644872b8e24a395fdaea]: Commencement: [Reg. 83](https://www.legislation.gov.uk/ssi/2014/292/regulation/83) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Authorisation for one person to act for another[^key-7af9a0ba289002680e206e6a25c02383][^key-0034e5b9ad06d63d8588f268fad0c794]
+## 65. Authorisation for one person to act for another[^c-7af9a0ba289002680e206e6a25c02383][^c-0034e5b9ad06d63d8588f268fad0c794]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7af9a0ba289002680e206e6a25c02383]: Commencement: S. 65 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-7af9a0ba289002680e206e6a25c02383]: Commencement: S. 65 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-0034e5b9ad06d63d8588f268fad0c794]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2024/13/section/65) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-0034e5b9ad06d63d8588f268fad0c794]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2024/13/section/65) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

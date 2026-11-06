@@ -46,11 +46,11 @@ revoke the licence.
 
 if they are satisfied that his health or circumstances have so changed that his release on licence is no longer justified.
 
-(2) The Scottish Ministers shall, on the return to prison of a person whose licence is revoked[^key-ee3403c56157067ea3d3158df092144f] under subsection (1), (1A) or (1B) above, inform that person of the reasons for the revocation.
+(2) The Scottish Ministers shall, on the return to prison of a person whose licence is revoked[^c-ee3403c56157067ea3d3158df092144f] under subsection (1), (1A) or (1B) above, inform that person of the reasons for the revocation.
 
 (3) The Scottish Ministers shall refer to the Parole Board the case of a person whose licence is revoked under subsection (1), (1A) or (1B) above.
 
-(4) Where on a reference under subsection (3) above the Parole Board directs a prisoner’s [^key-e1df92ff3955cbd5d1a44b08b49e0a3c]... release on licence, the Scottish Ministers must give effect to the direction without undue delay[^key-a94ea1bac134e399b0c8cc2fd691fa38] .
+(4) Where on a reference under subsection (3) above the Parole Board directs a prisoner’s [^c-e1df92ff3955cbd5d1a44b08b49e0a3c]... release on licence, the Scottish Ministers must give effect to the direction without undue delay[^c-a94ea1bac134e399b0c8cc2fd691fa38] .
 
 (4AA)[^c12927031] Where the Parole Board directs the release of a prisoner under subsection (4) above it may recommend that the Scottish Ministers insert, vary or cancel conditions in the prisoner’s licence.
 
@@ -68,11 +68,11 @@ if they are satisfied that his health or circumstances have so changed that his 
 
 [^c20988091]: Textual amendment: S. 17(1)(1A)(1B)(2)(3) substituted (27.6.2003) for s. 17(1)-(3) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), ss. {s. 36(4)}, 89(2); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)
 
-[^key-ee3403c56157067ea3d3158df092144f]: Textual amendment: Words in s. 17(2) substituted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 53(3)(a)](https://www.legislation.gov.uk/asp/2019/14/section/53/3/a), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2)
+[^c-ee3403c56157067ea3d3158df092144f]: Textual amendment: Words in s. 17(2) substituted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 53(3)(a)](https://www.legislation.gov.uk/asp/2019/14/section/53/3/a), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2)
 
-[^key-e1df92ff3955cbd5d1a44b08b49e0a3c]: Textual amendment: Word in s. 17(4) repealed (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 53(3)(b)(i)](https://www.legislation.gov.uk/asp/2019/14/section/53/3/b/i), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/o) (with [reg. 5](https://www.legislation.gov.uk/ssi/2020/283/regulation/5))
+[^c-e1df92ff3955cbd5d1a44b08b49e0a3c]: Textual amendment: Word in s. 17(4) repealed (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 53(3)(b)(i)](https://www.legislation.gov.uk/asp/2019/14/section/53/3/b/i), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/o) (with [reg. 5](https://www.legislation.gov.uk/ssi/2020/283/regulation/5))
 
-[^key-a94ea1bac134e399b0c8cc2fd691fa38]: Textual amendment: Words in s. 17(4) substituted (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 53(3)(b)(ii)](https://www.legislation.gov.uk/asp/2019/14/section/53/3/b/ii), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/o) (with [reg. 5](https://www.legislation.gov.uk/ssi/2020/283/regulation/5))
+[^c-a94ea1bac134e399b0c8cc2fd691fa38]: Textual amendment: Words in s. 17(4) substituted (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 53(3)(b)(ii)](https://www.legislation.gov.uk/asp/2019/14/section/53/3/b/ii), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/o) (with [reg. 5](https://www.legislation.gov.uk/ssi/2020/283/regulation/5))
 
 [^c12927031]: Textual amendment: S. 17(4AA) inserted (8.10.2001) by [2001 asp 7](https://www.legislation.gov.uk/asp/2001/7), [s. 1(5)(c)](https://www.legislation.gov.uk/asp/2001/7/section/1/5/c); [S.S.I. 2001/274](https://www.legislation.gov.uk/ssi/2001/274), [art. 3(3)](https://www.legislation.gov.uk/ssi/2001/274/article/3/3)
 

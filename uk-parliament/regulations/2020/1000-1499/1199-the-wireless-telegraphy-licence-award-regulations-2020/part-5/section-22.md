@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Principal stage bids[^key-e5a5fa30a6011060021632a00e767099]
+## 22. Principal stage bids[^c-e5a5fa30a6011060021632a00e767099]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Each principal stage bid is a bid for the inclusion in a licence of one lot of a
 
 ## Annotations
 
-[^key-e5a5fa30a6011060021632a00e767099]: Commencement: Reg. 22 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-e5a5fa30a6011060021632a00e767099]: Commencement: Reg. 22 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Winding up by the court[^key-df459814848e3719785bdde504b24423]
+## 31. Winding up by the court[^c-df459814848e3719785bdde504b24423]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-df459814848e3719785bdde504b24423]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2004/335/regulation/31) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-df459814848e3719785bdde504b24423]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2004/335/regulation/31) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
 [^f00009]: Footnote: Article 104A was inserted by Article 8(3) of the Companies (No. 2) (Northern Ireland) Order 1990 (S.I. [1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504)) and amended by section 79(14) of, and Part II of Schedule 6 to, the Criminal Justice Act [1993 (c. 36)](https://www.legislation.gov.uk/ukpga/1993/36) and S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649)

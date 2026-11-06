@@ -22,9 +22,9 @@ summary: ''
 
 Section 125
 
-**1.**[^c3925341][^key-c5047e3c0138b4427a8b7d39aa94d257][^key-6dfe388d67f057bc8d78987e6fda97f1] The Immigration and Asylum Act 1999 (c. 33) shall be amended as follows.
+**1.**[^c3925341][^c-c5047e3c0138b4427a8b7d39aa94d257][^c-6dfe388d67f057bc8d78987e6fda97f1] The Immigration and Asylum Act 1999 (c. 33) shall be amended as follows.
 
-**2.**[^c3925351][^key-df2613db12aead41d48159dbe496cac1][^key-8700c6c24439c76d27427a21bf5ad01b] (1) Section 32 (penalty for carrying clandestine entrant) shall be amended as follows.
+**2.**[^c3925351][^c-df2613db12aead41d48159dbe496cac1][^c-8700c6c24439c76d27427a21bf5ad01b] (1) Section 32 (penalty for carrying clandestine entrant) shall be amended as follows.
 
 (2) After subsection (1)(a) insert—
 
@@ -72,7 +72,7 @@ Section 125
 
 > (6A) Where a person falls within the definition of responsible person in more than one capacity, a separate penalty may be imposed on him under subsection (2) in respect of each capacity.
 
-**3.**[^c3925361][^key-528338f3b46e55f82eb4562b391c89b7][^key-3e80da621ad0aaf5c44d809c0dab3e76] After section 32 insert—
+**3.**[^c3925361][^c-528338f3b46e55f82eb4562b391c89b7][^c-3e80da621ad0aaf5c44d809c0dab3e76] After section 32 insert—
 
 > **32A. Level of penalty: code of practice**
 >
@@ -91,11 +91,11 @@ Section 125
 >
 > (6) Subsections (3) and (4) also apply to a revision or proposed revision of the code.
 
-**4.**[^c3925371][^key-4d95710a24f852932e76952545ab47a3][^key-2d53f2b5a93c3dbb553b1809610bd4c3] The heading of section 33 (code of practice) becomes “ Prevention of clandestine entrants: code of practice ”.
+**4.**[^c3925371][^c-4d95710a24f852932e76952545ab47a3][^c-2d53f2b5a93c3dbb553b1809610bd4c3] The heading of section 33 (code of practice) becomes “ Prevention of clandestine entrants: code of practice ”.
 
-**5.**[^c3925381][^key-651a6a1b6892abc3904379916888e2a6][^key-3517f022ce916e2eab5d4641287c2c2a] In section 33(2)(b) omit “both Houses of”.
+**5.**[^c3925381][^c-651a6a1b6892abc3904379916888e2a6][^c-3517f022ce916e2eab5d4641287c2c2a] In section 33(2)(b) omit “both Houses of”.
 
-**6.**[^c3925391][^key-6da04722c578edfc2bbbe093177b8b1c][^key-170effc444ffb71607e375ee640f93dd] (1) Section 34 (defence) shall be amended as follows.
+**6.**[^c3925391][^c-6da04722c578edfc2bbbe093177b8b1c][^c-170effc444ffb71607e375ee640f93dd] (1) Section 34 (defence) shall be amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -118,7 +118,7 @@ Section 125
 
 > (6) Where a person has a defence under subsection (2) in respect of a clandestine entrant, every other responsible person in respect of the clandestine entrant is also entitled to the benefit of the defence.
 
-**7.**[^c3925401][^key-667fc8303af028621c9e438b5a9fe04c][^key-09b6c2bb917bf40cacaf9f2e41704682] (1) Section 35 (notification and objection) shall be amended as follows.
+**7.**[^c3925401][^c-667fc8303af028621c9e438b5a9fe04c][^c-09b6c2bb917bf40cacaf9f2e41704682] (1) Section 35 (notification and objection) shall be amended as follows.
 
 (2) In subsection (2)(d)(i) for “must” substitute “ may ”.
 
@@ -171,7 +171,7 @@ Section 125
 >
 > (13) The Secretary of State may by regulations provide that a document issued or served in a manner listed in subsection (12) in accordance with the regulations is to be taken to have been received at a time specified by or determined in accordance with the regulations.
 
-**8.**[^c3925411][^key-b1aad89a27c3df9bb79c07bc276742f3][^key-302376732afb76f6e31c5d1e42c73d33] After section 35 insert—
+**8.**[^c3925411][^c-b1aad89a27c3df9bb79c07bc276742f3][^c-302376732afb76f6e31c5d1e42c73d33] After section 35 insert—
 
 > **35A. Appeal**
 >
@@ -199,7 +199,7 @@ Section 125
 > - (a) he has given notice of objection under section 35(4);
 > - (b) the penalty has been increased or reduced under section 35(6).
 
-**9.**[^c3925421][^key-cc8603e4716545d0ac2850bf57668b98][^key-0d7590bb9b0d4da8e0d9610892ca75aa] (1) Section 36 (detention of vehicle) shall be amended as follows.
+**9.**[^c3925421][^c-cc8603e4716545d0ac2850bf57668b98][^c-0d7590bb9b0d4da8e0d9610892ca75aa] (1) Section 36 (detention of vehicle) shall be amended as follows.
 
 (2) In subsection (1)—
 
@@ -232,7 +232,7 @@ Section 125
 > - (a) for longer than is necessary in the circumstances of the case, or
 > - (b) after the expiry of the period of 24 hours beginning with the conclusion of the first search of the vehicle, ship, aircraft or wagon by an immigration officer after it arrived in the United Kingdom.
 
-**10.**[^c3925431][^key-42db7237f0a133a9f902f33404f8bc0b][^key-959dbbe65b734ec435622af57dadbd6b] After section 36 insert—
+**10.**[^c3925431][^c-42db7237f0a133a9f902f33404f8bc0b][^c-959dbbe65b734ec435622af57dadbd6b] After section 36 insert—
 
 > **36A. Detention in default of payment**
 >
@@ -254,7 +254,7 @@ Section 125
 > - (a) the penalty, and
 > - (b) expenses reasonably incurred in connection with the detention.
 
-**11.**[^c3925441][^key-73906942562cd21dab6d415a711dea85][^key-062570d2dcfe53b22e0f565f00be4b90] (1) Section 37 (effect of detention of transporter) shall be amended as follows.
+**11.**[^c3925441][^c-73906942562cd21dab6d415a711dea85][^c-062570d2dcfe53b22e0f565f00be4b90] (1) Section 37 (effect of detention of transporter) shall be amended as follows.
 
 (2) In subsection (1) for “section 36” substitute “ section 36(1) ”.
 
@@ -288,7 +288,7 @@ Section 125
 > - (a) the court may release the transporter only if the court considers that the detention was unlawful or under subsection (3A) (and subsection (3) shall not apply), and
 > - (b) the reference in subsection (4) to the period of 84 days shall be taken as a reference to a period prescribed for the purpose of this paragraph.
 
-**12.**[^c3925451][^key-954913a7ba5aa5dc9d7d4d8abcd9864f] Section 39(rail freight) shall cease to have effect.
+**12.**[^c3925451][^c-954913a7ba5aa5dc9d7d4d8abcd9864f] Section 39(rail freight) shall cease to have effect.
 
 **13.**[^c3925461] For section 40 (charge in respect of passenger without proper documents) substitute—
 
@@ -435,11 +435,11 @@ Section 125
   > - (a) a county court may transfer proceedings under this Part to the High Court, and
   > - (b) the sheriff may transfer proceedings under this Part to the Court of Session.
 
-**16.**[^c3925471][^key-222a3fa397ea89bfb7635669492bc543] (1)[^key-6f73d04d8e11fbb06eb1fad7bdd28587] Schedule 1 (sale of transporter) shall be amended as follows.
+**16.**[^c3925471][^c-222a3fa397ea89bfb7635669492bc543] (1)[^c-6f73d04d8e11fbb06eb1fad7bdd28587] Schedule 1 (sale of transporter) shall be amended as follows.
 
 (2) In paragraph 1(2)(a) omit “or charge”.
 
-(3)[^key-6f73d04d8e11fbb06eb1fad7bdd28587] After paragraph 2 insert—
+(3)[^c-6f73d04d8e11fbb06eb1fad7bdd28587] After paragraph 2 insert—
 
 > **2A.** Where the owner of a transporter is a party to an application for leave to sell it, in determining whether to give leave the court shall consider—
 >
@@ -451,7 +451,7 @@ Section 125
 
 (5) In paragraph 5(2)(d) omit “or charge”.
 
-**17.**[^c3925481][^key-5baa97596219e26e1bbd0851a5409a8d] (1) This paragraph applies to a code of practice which—
+**17.**[^c3925481][^c-5baa97596219e26e1bbd0851a5409a8d] (1) This paragraph applies to a code of practice which—
 
 - (a) has effect, before the coming into force of paragraph 12 of this Schedule, by virtue of sections 33 and 39 of the Immigration and Asylum Act 1999 (c. 33) (power to apply provisions about carriers’ liability to rail freight), and
 - (b) could be issued under section 33 of that Act after the coming into force of paragraph 2 of this Schedule.
@@ -465,82 +465,82 @@ Section 125
 
 [^c3925341]: Commencement: Sch. 8 para. 1 partly in force; Sch. 8 para. 1 not in force at Royal Assent see s. 162(2); Sch. 8 para. 1 in force at 14.11.2002 and 8.12.2002 for certain purposes by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-c5047e3c0138b4427a8b7d39aa94d257]: Commencement: Sch. 8 para. 1 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
+[^c-c5047e3c0138b4427a8b7d39aa94d257]: Commencement: Sch. 8 para. 1 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
 
-[^key-6dfe388d67f057bc8d78987e6fda97f1]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/1) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
+[^c-6dfe388d67f057bc8d78987e6fda97f1]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/1) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
 
 [^c3925351]: Commencement: Sch. 8 para. 2 partly in force; Sch. 8 para. 2 not in force at Royal Assent see s. 162(2); Sch. 8 para. 2 in force at 14.11.2002 and 8.12.2002 for certain purposes by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-df2613db12aead41d48159dbe496cac1]: Commencement: Sch. 8 para. 2 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
+[^c-df2613db12aead41d48159dbe496cac1]: Commencement: Sch. 8 para. 2 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
 
-[^key-8700c6c24439c76d27427a21bf5ad01b]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/2) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
+[^c-8700c6c24439c76d27427a21bf5ad01b]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/2) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
 
 [^c3925361]: Commencement: Sch. 8 para. 3 partly in force; Sch. 8 para. 3 not in force at Royal Assent see s. 162(2); Sch. 8 para. 3 in force at 14.11.2002 and 8.12.2002 for certain purposes by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-528338f3b46e55f82eb4562b391c89b7]: Commencement: Sch. 8 para. 3 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
+[^c-528338f3b46e55f82eb4562b391c89b7]: Commencement: Sch. 8 para. 3 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
 
-[^key-3e80da621ad0aaf5c44d809c0dab3e76]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/3) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
+[^c-3e80da621ad0aaf5c44d809c0dab3e76]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/3) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
 
 [^c3925371]: Commencement: Sch. 8 para. 4 partly in force; Sch. 8 para. 4 not in force at Royal Assent see s. 162(2); Sch. 8 para. 4 in force at 8.12.2002 for certain purposes by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-4d95710a24f852932e76952545ab47a3]: Commencement: Sch. 8 para. 4 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
+[^c-4d95710a24f852932e76952545ab47a3]: Commencement: Sch. 8 para. 4 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
 
-[^key-2d53f2b5a93c3dbb553b1809610bd4c3]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/4) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
+[^c-2d53f2b5a93c3dbb553b1809610bd4c3]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/4) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
 
 [^c3925381]: Commencement: Sch. 8 para. 5 partly in force; Sch. 8 para. 5 not in force at Royal Assent see s. 162(2); Sch. 8 para. 5 in force at 8.12.2002 for certain purposes by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-651a6a1b6892abc3904379916888e2a6]: Commencement: Sch. 8 para. 5 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
+[^c-651a6a1b6892abc3904379916888e2a6]: Commencement: Sch. 8 para. 5 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
 
-[^key-3517f022ce916e2eab5d4641287c2c2a]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/5) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
+[^c-3517f022ce916e2eab5d4641287c2c2a]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/5) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
 
 [^c3925391]: Commencement: Sch. 8 para. 6 partly in force; Sch. 8 para. 6 not in force at Royal Assent see s. 162(2); Sch. 8 para. 6 in force at 8.12.2002 for certain purposes by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-6da04722c578edfc2bbbe093177b8b1c]: Commencement: Sch. 8 para. 6 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
+[^c-6da04722c578edfc2bbbe093177b8b1c]: Commencement: Sch. 8 para. 6 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
 
-[^key-170effc444ffb71607e375ee640f93dd]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/6) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
+[^c-170effc444ffb71607e375ee640f93dd]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/6) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
 
 [^c3925401]: Commencement: Sch. 8 para. 7 partly in force; Sch. 8 para. 7 not in force at Royal Assent see s. 162(2); Sch. 8 para. 7 in force at 14.11.2002 and 8.12.2002 for certain purposes by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-667fc8303af028621c9e438b5a9fe04c]: Commencement: Sch. 8 para. 7 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
+[^c-667fc8303af028621c9e438b5a9fe04c]: Commencement: Sch. 8 para. 7 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
 
-[^key-09b6c2bb917bf40cacaf9f2e41704682]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/7) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
+[^c-09b6c2bb917bf40cacaf9f2e41704682]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/7) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
 
 [^c3925411]: Commencement: Sch. 8 para. 8 partly in force; Sch. 8 para. 8 not in force at Royal Assent see s. 162(2); Sch. 8 para. 8 in force at 8.12.2002 for certain purposes by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-b1aad89a27c3df9bb79c07bc276742f3]: Commencement: Sch. 8 para. 8 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
+[^c-b1aad89a27c3df9bb79c07bc276742f3]: Commencement: Sch. 8 para. 8 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
 
-[^key-302376732afb76f6e31c5d1e42c73d33]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/8) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
+[^c-302376732afb76f6e31c5d1e42c73d33]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/8) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
 
 [^c3925421]: Commencement: Sch. 8 para. 9 partly in force; Sch. 8 para. 9 not in force at Royal Assent see s. 162(2); Sch. 8 para. 9 in force at 8.12.2002 for certain purposes by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-cc8603e4716545d0ac2850bf57668b98]: Commencement: Sch. 8 para. 9 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
+[^c-cc8603e4716545d0ac2850bf57668b98]: Commencement: Sch. 8 para. 9 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
 
-[^key-0d7590bb9b0d4da8e0d9610892ca75aa]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/9) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
+[^c-0d7590bb9b0d4da8e0d9610892ca75aa]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/9) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
 
 [^c3925431]: Commencement: Sch. 8 para. 10 partly in force; Sch. 8 para. 10 not in force at Royal Assent see s. 162(2); Sch. 8 para. 10 in force at 8.12.2002 for certain purposes by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-42db7237f0a133a9f902f33404f8bc0b]: Commencement: Sch. 8 para. 10 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
+[^c-42db7237f0a133a9f902f33404f8bc0b]: Commencement: Sch. 8 para. 10 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
 
-[^key-959dbbe65b734ec435622af57dadbd6b]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/10) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
+[^c-959dbbe65b734ec435622af57dadbd6b]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/10) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
 
 [^c3925441]: Commencement: Sch. 8 para. 11 partly in force; Sch. 8 para. 11 not in force at Royal Assent see s. 162(2); Sch. 8 para. 11 in force at 14.11.2002 and 8.12.2002 for certain purposes by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-73906942562cd21dab6d415a711dea85]: Commencement: Sch. 8 para. 11 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
+[^c-73906942562cd21dab6d415a711dea85]: Commencement: Sch. 8 para. 11 in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
 
-[^key-062570d2dcfe53b22e0f565f00be4b90]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/11) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
+[^c-062570d2dcfe53b22e0f565f00be4b90]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/11) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
 
 [^c3925451]: Commencement: Sch. 8 para. 12 partly in force; Sch. 8 para. 12 not in force at Royal Assent see s. 162(2); Sch. 8 para. 12 in force at 8.12.2002 for certain purposes by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-954913a7ba5aa5dc9d7d4d8abcd9864f]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/12) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
+[^c-954913a7ba5aa5dc9d7d4d8abcd9864f]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/12) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
 
 [^c3925461]: Commencement: Sch. 8 para. 13 wholly in force at 8.12.2002; Sch. 8 para. 13 not in force at Royal Assent see s. 162(2); Sch. 8 para. 13 in force at 14.11.2002 for certain purposes and wholly in force at 8.12.2002 by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
 [^c3925471]: Commencement: Sch. 8 para. 16 partly in force; Sch. 8 para. 16 not in force at Royal Assent see s. 162(2); Sch. 8 para. 16 in force at 8.12.2002 for certain purposes by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-222a3fa397ea89bfb7635669492bc543]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/16) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
+[^c-222a3fa397ea89bfb7635669492bc543]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/16) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
 
-[^key-6f73d04d8e11fbb06eb1fad7bdd28587]: Commencement: Sch. 8 para. 16(1)(3) in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
+[^c-6f73d04d8e11fbb06eb1fad7bdd28587]: Commencement: Sch. 8 para. 16(1)(3) in force at 11.5.2012 for specified purposes by [S.I. 2012/1263](https://www.legislation.gov.uk/uksi/2012/1263), [art. 2](https://www.legislation.gov.uk/uksi/2012/1263/article/2)
 
 [^c3925481]: Commencement: Sch. 8 para. 17 partly in force; Sch. 8 para. 17 not in force at Royal Assent see s. 162(2); Sch. 8 para. 17 in force at 8.12.2002 for certain purposes by [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-5baa97596219e26e1bbd0851a5409a8d]: Commencement: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/17) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)
+[^c-5baa97596219e26e1bbd0851a5409a8d]: Commencement: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/17) in force at 13.2.2023 for specified purposes by [S.I. 2023/32](https://www.legislation.gov.uk/uksi/2023/32), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/32/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/32/article/2/2)

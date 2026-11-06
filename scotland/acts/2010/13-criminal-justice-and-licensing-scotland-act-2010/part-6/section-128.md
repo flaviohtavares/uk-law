@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 128. Application by accused for ruling on disclosure[^key-dc53ed045053ed5a56c59ec5f42d0669]
+## 128. Application by accused for ruling on disclosure[^c-dc53ed045053ed5a56c59ec5f42d0669]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc53ed045053ed5a56c59ec5f42d0669]: Commencement: S. 128 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) )
+[^c-dc53ed045053ed5a56c59ec5f42d0669]: Commencement: S. 128 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) )

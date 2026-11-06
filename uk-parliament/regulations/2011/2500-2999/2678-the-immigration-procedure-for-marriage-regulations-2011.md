@@ -48,25 +48,25 @@ The Secretary of State has consulted with the Registrar General, the Registrar G
 
 The Secretary of State, in exercise of the powers conferred by sections 19(2)(a), 21(2)(a) and 23(2)(a) of that Act, having regard to the meanings of “prescribed” in sections 22(2) and 24(2), makes the following Regulations.
 
-## 1. Citation, commencement and interpretation[^key-857a6f3a71f7387e611fd53a2b379cee]
+## 1. Citation, commencement and interpretation[^c-857a6f3a71f7387e611fd53a2b379cee]
 
 (1) These Regulations may be cited as the Immigration (Procedure for Marriage) Regulations 2011 and shall come into force on 1st December 2011.
 
 (2) In these Regulations, “the 2004 Act” means the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004.
 
-## 2. Specified registration districts in England and Wales[^key-5ffd2b845d4484c4a6341153c1efdebf][^key-585ba50c7c370b29c4c699dd009faf0a]
+## 2. Specified registration districts in England and Wales[^c-5ffd2b845d4484c4a6341153c1efdebf][^c-585ba50c7c370b29c4c699dd009faf0a]
 
 Every registration district in England and Wales is specified for the purposes of section 19(2)(a) of the 2004 Act.
 
-## 3. Prescribed registration districts in Scotland[^key-194b33f4302e2aa72f92e9006e2db567]
+## 3. Prescribed registration districts in Scotland[^c-194b33f4302e2aa72f92e9006e2db567]
 
 Every registration district in Scotland is prescribed for the purposes of section 21(2)(a) of the 2004 Act.
 
-## 4. Prescribed registrars in Northern Ireland[^key-d15d6193cbb6bb7304058e135237557f]
+## 4. Prescribed registrars in Northern Ireland[^c-d15d6193cbb6bb7304058e135237557f]
 
 The registrar of every register office in Northern Ireland is prescribed for the purposes of section 23(2)(a) of the 2004 Act.
 
-## 5. Revocation[^key-af3db045d0e5ffe6c7ecac4b6b01e29c]
+## 5. Revocation[^c-af3db045d0e5ffe6c7ecac4b6b01e29c]
 
 The Immigration (Procedure for Marriage) Regulations 2005[^f00002] are revoked.
 
@@ -78,7 +78,7 @@ Home Office
 
 7th November 2011
 
-## SCHEDULE — SPECIFIED REGISTRATION DISTRICTS IN ENGLAND AND WALES[^key-5ea1131648b84409bd0be4017153e09a]
+## SCHEDULE — SPECIFIED REGISTRATION DISTRICTS IN ENGLAND AND WALES[^c-5ea1131648b84409bd0be4017153e09a]
 
 **No longer in force.**
 
@@ -100,18 +100,18 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2004 c.19](https://www.legislation.gov.uk/ukpga/2004/19).
 
-[^key-857a6f3a71f7387e611fd53a2b379cee]: Commencement: Reg. 1 in force at 1.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2678/regulation/1/1)
+[^c-857a6f3a71f7387e611fd53a2b379cee]: Commencement: Reg. 1 in force at 1.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2678/regulation/1/1)
 
-[^key-5ffd2b845d4484c4a6341153c1efdebf]: Commencement: Reg. 2 in force at 1.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2678/regulation/1/1)
+[^c-5ffd2b845d4484c4a6341153c1efdebf]: Commencement: Reg. 2 in force at 1.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2678/regulation/1/1)
 
-[^key-585ba50c7c370b29c4c699dd009faf0a]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/2678/regulation/2) substituted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [36(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/36/2)
+[^c-585ba50c7c370b29c4c699dd009faf0a]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/2678/regulation/2) substituted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [36(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/36/2)
 
-[^key-194b33f4302e2aa72f92e9006e2db567]: Commencement: Reg. 3 in force at 1.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2678/regulation/1/1)
+[^c-194b33f4302e2aa72f92e9006e2db567]: Commencement: Reg. 3 in force at 1.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2678/regulation/1/1)
 
-[^key-d15d6193cbb6bb7304058e135237557f]: Commencement: Reg. 4 in force at 1.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2678/regulation/1/1)
+[^c-d15d6193cbb6bb7304058e135237557f]: Commencement: Reg. 4 in force at 1.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2678/regulation/1/1)
 
-[^key-af3db045d0e5ffe6c7ecac4b6b01e29c]: Commencement: Reg. 5 in force at 1.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2678/regulation/1/1)
+[^c-af3db045d0e5ffe6c7ecac4b6b01e29c]: Commencement: Reg. 5 in force at 1.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2678/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2005/15](https://www.legislation.gov.uk/uksi/2005/15) as amended by [S.I. 2011/1158](https://www.legislation.gov.uk/uksi/2011/1158).
 
-[^key-5ea1131648b84409bd0be4017153e09a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2011/2678/schedule) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [36(3)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/36/3)
+[^c-5ea1131648b84409bd0be4017153e09a]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2011/2678/schedule) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [36(3)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/36/3)

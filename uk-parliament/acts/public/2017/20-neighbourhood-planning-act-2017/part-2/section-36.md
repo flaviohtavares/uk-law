@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. GLA, MDCs and TfL: joint acquisition of land[^key-3a84f32b658e8321f9c29cee69712180]
+## 36. GLA, MDCs and TfL: joint acquisition of land[^c-3a84f32b658e8321f9c29cee69712180]
 
 *Extent: E+W*
 
@@ -92,4 +92,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a84f32b658e8321f9c29cee69712180]: Commencement: S. 36 in force at 22.9.2017 by [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/f)
+[^c-3a84f32b658e8321f9c29cee69712180]: Commencement: S. 36 in force at 22.9.2017 by [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/f)

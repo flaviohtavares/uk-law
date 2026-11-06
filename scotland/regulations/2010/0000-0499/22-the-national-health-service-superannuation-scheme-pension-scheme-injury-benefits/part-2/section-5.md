@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Amendment of regulation G3[^key-43e0a9b6fa9ef2bc5db498d577c0d638]
+## 5. Amendment of regulation G3[^c-43e0a9b6fa9ef2bc5db498d577c0d638]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ For regulation G3(3) (widow’s pension when member dies after pension becomes p
 
 ## Annotations
 
-[^key-43e0a9b6fa9ef2bc5db498d577c0d638]: Commencement: Reg. 5 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-43e0a9b6fa9ef2bc5db498d577c0d638]: Commencement: Reg. 5 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)

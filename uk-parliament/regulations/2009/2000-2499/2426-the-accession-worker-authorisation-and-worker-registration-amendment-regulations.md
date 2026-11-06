@@ -28,7 +28,7 @@ summary: ''
 
 Immigration
 
-The Accession (Worker Authorisation and Worker Registration) (Amendment) Regulations 2009 (revoked)[^key-72d2eb35cf8336469f8a7e9a2dc3cb6b]
+The Accession (Worker Authorisation and Worker Registration) (Amendment) Regulations 2009 (revoked)[^c-72d2eb35cf8336469f8a7e9a2dc3cb6b]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into force
 
 2nd October 2009
 
-[^key-72d2eb35cf8336469f8a7e9a2dc3cb6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72d2eb35cf8336469f8a7e9a2dc3cb6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-72d2eb35cf8336469f8a7e9a2dc3cb6b]
+## 1. Citation and commencement[^c-72d2eb35cf8336469f8a7e9a2dc3cb6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Accession (Immigration and Worker Authorisation) Regulations 2006[^key-72d2eb35cf8336469f8a7e9a2dc3cb6b]
+## 2. Amendment of the Accession (Immigration and Worker Authorisation) Regulations 2006[^c-72d2eb35cf8336469f8a7e9a2dc3cb6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Accession (Immigration and Worker Registration) Regulations 2004[^key-72d2eb35cf8336469f8a7e9a2dc3cb6b]
+## 3. Amendment of the Accession (Immigration and Worker Registration) Regulations 2004[^c-72d2eb35cf8336469f8a7e9a2dc3cb6b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72d2eb35cf8336469f8a7e9a2dc3cb6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72d2eb35cf8336469f8a7e9a2dc3cb6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72d2eb35cf8336469f8a7e9a2dc3cb6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72d2eb35cf8336469f8a7e9a2dc3cb6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-72d2eb35cf8336469f8a7e9a2dc3cb6b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2426) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-72d2eb35cf8336469f8a7e9a2dc3cb6b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2426) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)

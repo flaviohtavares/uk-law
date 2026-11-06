@@ -47,7 +47,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 38 of the Employment Relations Act 1999[^f00001].
 
-## 1. Citation, commencement, extent and interpretation[^key-691f9f3bb93344c4bb48e425038a8b41]
+## 1. Citation, commencement, extent and interpretation[^c-691f9f3bb93344c4bb48e425038a8b41]
 
 (1) These Regulations may be cited as the Transfer of Undertakings (Protection of Employment) (Transfer of Public Health England Staff) Regulations 2021 and come into force on 1st October 2021.
 
@@ -60,7 +60,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - “transferor” means the Secretary of State for Health and Social Care;
 - “the TUPE Regulations” means the Transfer of Undertakings (Protection of Employment) Regulations 2006[^f00002].
 
-## 2. Application of Regulations[^key-53ad4037dd9d64d3873fd5642d02b263]
+## 2. Application of Regulations[^c-53ad4037dd9d64d3873fd5642d02b263]
 
 (1) These Regulations apply to any person who—
 
@@ -69,7 +69,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (2) For the purposes of this regulation and the Schedule “a relevant division” is a division specified in column (1) of the table in the Schedule.
 
-## 3. Transfer of employment[^key-262152e4c1670a3faa66023561889e39]
+## 3. Transfer of employment[^c-262152e4c1670a3faa66023561889e39]
 
 (1) Any person to whom these Regulations apply is, on the transfer date, transferred to the employment of the relevant transferee.
 
@@ -95,11 +95,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (9) Paragraphs (1), (2) and (4) to (7) are without prejudice to any right of a person arising apart from this regulation to terminate that person’s contract of employment without notice in acceptance of a repudiatory breach of contract by that person’s employer.
 
-## 4. Pensions[^key-c5ee0f8b3517f92af69f8e1b3c12e7d6]
+## 4. Pensions[^c-c5ee0f8b3517f92af69f8e1b3c12e7d6]
 
 A person whose contract of employment is transferred by regulation 3 is to be treated as if regulation 10 of the TUPE Regulations (pensions) applied in relation to that transfer, with the modification that for the reference to regulations 4 and 5 of the TUPE Regulations there were substituted a reference to regulation 3 of these Regulations.
 
-## 5. Information and consultation[^key-dbaa290b74a0343157d913780be280ba]
+## 5. Information and consultation[^c-dbaa290b74a0343157d913780be280ba]
 
 (1) Any transfer effected by regulation 3 is to be treated as a relevant transfer to which regulations 11 to 16 of the TUPE Regulations apply.
 
@@ -117,13 +117,13 @@ Department of Health and Social Care
 
 1st September 2021
 
-## SCHEDULE — Relevant Divisions and Relevant Transferees[^key-fe27196f5f8bc4a3ca334a45d937cf46]
+## SCHEDULE — Relevant Divisions and Relevant Transferees[^c-fe27196f5f8bc4a3ca334a45d937cf46]
 
 Regulations 1(3) and 2(2)
 
 | *(1)*<br>*Relevant division* | *(2)*<br>*Relevant transferee* |
 | --- | --- |
-| Screening Quality Assurance Service | NHS England[^key-118237c42d683b7027606cc58f830c37] |
+| Screening Quality Assurance Service | NHS England[^c-118237c42d683b7027606cc58f830c37] |
 | Local Screening and Immunisation | NHS England |
 | National Healthcare Public Health | NHS England |
 | Regional Healthcare Public Health | NHS England |
@@ -144,20 +144,20 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26). Section 38 was amended by [S.I. 2019/536](https://www.legislation.gov.uk/uksi/2019/536); there is another amending instrument which is not relevant.
 
-[^key-691f9f3bb93344c4bb48e425038a8b41]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/975/regulation/1) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/975/regulation/1/1)
+[^c-691f9f3bb93344c4bb48e425038a8b41]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/975/regulation/1) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/975/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2006/246](https://www.legislation.gov.uk/uksi/2006/246), as amended by [S.I. 2009/592](https://www.legislation.gov.uk/uksi/2009/592), [2010/93](https://www.legislation.gov.uk/uksi/2010/93), [2014/16](https://www.legislation.gov.uk/uksi/2014/16), [386](https://www.legislation.gov.uk/uksi/2014/386) and [853](https://www.legislation.gov.uk/uksi/2014/853); there are other amending instruments but none is relevant.
 
-[^key-53ad4037dd9d64d3873fd5642d02b263]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/975/regulation/2) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/975/regulation/1/1)
+[^c-53ad4037dd9d64d3873fd5642d02b263]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/975/regulation/2) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/975/regulation/1/1)
 
-[^key-262152e4c1670a3faa66023561889e39]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/975/regulation/3) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/975/regulation/1/1)
+[^c-262152e4c1670a3faa66023561889e39]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/975/regulation/3) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/975/regulation/1/1)
 
-[^key-c5ee0f8b3517f92af69f8e1b3c12e7d6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/975/regulation/4) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/975/regulation/1/1)
+[^c-c5ee0f8b3517f92af69f8e1b3c12e7d6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/975/regulation/4) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/975/regulation/1/1)
 
-[^key-dbaa290b74a0343157d913780be280ba]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/975/regulation/5) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/975/regulation/1/1)
+[^c-dbaa290b74a0343157d913780be280ba]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/975/regulation/5) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/975/regulation/1/1)
 
-[^key-fe27196f5f8bc4a3ca334a45d937cf46]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2021/975/schedule) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/975/regulation/1/1)
+[^c-fe27196f5f8bc4a3ca334a45d937cf46]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2021/975/schedule) in force at 1.10.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/975/regulation/1/1)
 
-[^key-118237c42d683b7027606cc58f830c37]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-118237c42d683b7027606cc58f830c37]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^f00004]: Footnote: The Health and Social Care Information Centre (known as NHS Digital) is a body corporate established under section 252(1) of the Health and Social Care Act 2012.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Freezing of terrorist property[^key-7cac0a1627b001b4f94c5b33471a767b]
+## 90. Freezing of terrorist property[^c-7cac0a1627b001b4f94c5b33471a767b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 is to have effect.
 
 ## Annotations
 
-[^key-7cac0a1627b001b4f94c5b33471a767b]: Commencement: S. 90 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/a)
+[^c-7cac0a1627b001b4f94c5b33471a767b]: Commencement: S. 90 in force at 3.12.2014 by [S.I. 2014/3192](https://www.legislation.gov.uk/uksi/2014/3192), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/3192/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.52.2. Applications under section 65A of the 2010 Act[^key-e43cc05e39d7cdb8caa254b5651e77dd]
+## 3.52.2. Applications under section 65A of the 2010 Act[^c-e43cc05e39d7cdb8caa254b5651e77dd]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e43cc05e39d7cdb8caa254b5651e77dd]: Textual amendment: Ch. 3 Pt. 52 inserted (2.6.2020) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2020 (S.S.I. 2020/166)](https://www.legislation.gov.uk/ssi/2020/166), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/4/2)
+[^c-e43cc05e39d7cdb8caa254b5651e77dd]: Textual amendment: Ch. 3 Pt. 52 inserted (2.6.2020) by [Act of Sederunt (Rules of the Court of Session 1994 and Sheriff Court Rules Amendment) (Miscellaneous) 2020 (S.S.I. 2020/166)](https://www.legislation.gov.uk/ssi/2020/166), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/166/paragraph/4/2)

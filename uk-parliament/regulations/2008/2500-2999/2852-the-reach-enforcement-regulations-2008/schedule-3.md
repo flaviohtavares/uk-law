@@ -179,9 +179,9 @@ but “livestock breeding and keeping” does not include activities the main pu
   - (iii) in Scotland, a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00044];
   - (iv) in Wales, a county council or county borough council;
 - (b) a parish council in England or a community council in Wales or Scotland;
-- (c)[^key-029f886fcd238e4125e1a68d1a0d0ac5][^key-34c94be2cec1873fb42a1edb91956763] a police authority , local policing body[^key-da8b9e24cb852e15ab38e1ad635c623b] or the Receiver for the Metropolitan Police District[^f00045];
+- (c)[^c-029f886fcd238e4125e1a68d1a0d0ac5][^c-34c94be2cec1873fb42a1edb91956763] a police authority , local policing body[^c-da8b9e24cb852e15ab38e1ad635c623b] or the Receiver for the Metropolitan Police District[^f00045];
 - (d) a fire and rescue authority under the Fire and Rescue Services Act 2004 [^f00046];
-- (e)[^key-20b189a1d70565d2426e966b62717533] the Scottish Fire and Rescue Service;
+- (e)[^c-20b189a1d70565d2426e966b62717533] the Scottish Fire and Rescue Service;
 - (f) a headquarters or an organisation designated for the purposes of the International Headquarters and Defence Organisation Act 1964[^f00048];
 - (g) a service authority of a visiting force within the meaning of section 12 of the Visiting Forces Act 1952[^f00049];
 - (h) the United Kingdom Atomic Energy Authority;
@@ -219,13 +219,13 @@ but “livestock breeding and keeping” does not include activities the main pu
 - (a) for those parts not within a building or to which passengers are admitted but other members of the public are not admitted, the Executive must perform the joint enforcement duty on behalf of a local (health and safety) authority;
 - (b) for the remaining common parts, a local (health and safety) authority must perform the joint enforcement duty on behalf of the Executive.
 
-### PART 5 — The Office of Rail Regulation (affected by repeal, see note) The Office of Rail and Road[^key-101b58d9f2c9c34e7f4388cc3b722784][^key-3bfbdf32beef0a1c9d556d06e0fa672f1][^key-3bfbdf32beef0a1c9d556d06e0fa672f][^key-3bfbdf32beef0a1c9d556d06e0fa672f1][^key-3bfbdf32beef0a1c9d556d06e0fa672f2][^key-3bfbdf32beef0a1c9d556d06e0fa672f2]
+### PART 5 — The Office of Rail Regulation (affected by repeal, see note) The Office of Rail and Road[^c-101b58d9f2c9c34e7f4388cc3b722784][^c-3bfbdf32beef0a1c9d556d06e0fa672f1][^c-3bfbdf32beef0a1c9d556d06e0fa672f][^c-3bfbdf32beef0a1c9d556d06e0fa672f1][^c-3bfbdf32beef0a1c9d556d06e0fa672f2][^c-3bfbdf32beef0a1c9d556d06e0fa672f2]
 
 *Extent: E+W+S*
 
 *Extent: E+W+S+N.I.*
 
-**1.** The Office of Rail Regulation *(affected by repeal, see note)*[^key-7fc995ed6812201ff2048166e087ea66] the Office of Rail and Road must perform the joint enforcement duty on behalf of the Executive in relation to Article 67 of REACH in so far as this relates to its functions in paragraph 6 of Schedule 2.
+**1.** The Office of Rail Regulation *(affected by repeal, see note)*[^c-7fc995ed6812201ff2048166e087ea66] the Office of Rail and Road must perform the joint enforcement duty on behalf of the Executive in relation to Article 67 of REACH in so far as this relates to its functions in paragraph 6 of Schedule 2.
 
 ## Annotations
 
@@ -305,17 +305,17 @@ but “livestock breeding and keeping” does not include activities the main pu
 
 [^f00044]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-029f886fcd238e4125e1a68d1a0d0ac5]: Modification: Sch. 3 Pt. 3 para. 5(c) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 49(2)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/49/2)
+[^c-029f886fcd238e4125e1a68d1a0d0ac5]: Modification: Sch. 3 Pt. 3 para. 5(c) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 49(2)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/49/2)
 
-[^key-34c94be2cec1873fb42a1edb91956763]: Modification: [Sch. 3 Pt. 3 para. 5(c)](https://www.legislation.gov.uk/uksi/2008/2852/schedule/3/part/3/paragraph/5/c) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 49(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/49/2)
+[^c-34c94be2cec1873fb42a1edb91956763]: Modification: [Sch. 3 Pt. 3 para. 5(c)](https://www.legislation.gov.uk/uksi/2008/2852/schedule/3/part/3/paragraph/5/c) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 49(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/49/2)
 
-[^key-da8b9e24cb852e15ab38e1ad635c623b]: Textual amendment: Words in Sch. 3 Pt. 3 para. 5(c) inserted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/24/2)
+[^c-da8b9e24cb852e15ab38e1ad635c623b]: Textual amendment: Words in Sch. 3 Pt. 3 para. 5(c) inserted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [24(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/24/2)
 
 [^f00045]: Footnote: Section 327 of the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29) provides for the abolition of the office of Receiver but an order to do so under that section has not yet been made.
 
 [^f00046]: Footnote: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21).
 
-[^key-20b189a1d70565d2426e966b62717533]: Textual amendment: Sch. 3 Pt. 3 para. 5(e) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 24](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/24)
+[^c-20b189a1d70565d2426e966b62717533]: Textual amendment: Sch. 3 Pt. 3 para. 5(e) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 24](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/24)
 
 [^f00048]: Footnote: [1964 c.5](https://www.legislation.gov.uk/ukpga/1964/5) .
 
@@ -329,12 +329,12 @@ but “livestock breeding and keeping” does not include activities the main pu
 
 [^f00053]: Footnote: [1987 c.53](https://www.legislation.gov.uk/ukpga/1987/53).
 
-[^key-101b58d9f2c9c34e7f4388cc3b722784]: Textual amendment: Sch. 3 Pt. 5 inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [9(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/9/b)
+[^c-101b58d9f2c9c34e7f4388cc3b722784]: Textual amendment: Sch. 3 Pt. 5 inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [9(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/9/b)
 
-[^key-3bfbdf32beef0a1c9d556d06e0fa672f1]: Extent: This version of this provision extends to NI only. A new version of this provision has been created for E+W+S
+[^c-3bfbdf32beef0a1c9d556d06e0fa672f1]: Extent: This version of this provision extends to NI only. A new version of this provision has been created for E+W+S
 
-[^key-3bfbdf32beef0a1c9d556d06e0fa672f]: Textual amendment: Words in Sch. 3 Pt. 5 heading substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/8)
+[^c-3bfbdf32beef0a1c9d556d06e0fa672f]: Textual amendment: Words in Sch. 3 Pt. 5 heading substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/8)
 
-[^key-3bfbdf32beef0a1c9d556d06e0fa672f2]: Extent: This version of this provision extends to E+W+S only. The original version of this provision exists for NI
+[^c-3bfbdf32beef0a1c9d556d06e0fa672f2]: Extent: This version of this provision extends to E+W+S only. The original version of this provision exists for NI
 
-[^key-7fc995ed6812201ff2048166e087ea66]: Textual amendment: Words in Sch. 3 Pt. 5 substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 8(e)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/8/e)
+[^c-7fc995ed6812201ff2048166e087ea66]: Textual amendment: Words in Sch. 3 Pt. 5 substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 8(e)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/8/e)

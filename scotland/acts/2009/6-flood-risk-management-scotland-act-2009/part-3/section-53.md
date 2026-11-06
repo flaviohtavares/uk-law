@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Availability of documents for public inspection[^key-dbd7cdda85852f35c9f94ab88194ee64]
+## 53. Availability of documents for public inspection[^c-dbd7cdda85852f35c9f94ab88194ee64]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbd7cdda85852f35c9f94ab88194ee64]: Commencement: S. 53 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-dbd7cdda85852f35c9f94ab88194ee64]: Commencement: S. 53 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

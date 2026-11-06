@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Staff at Academies with religious character[^key-60c836b2368c7840c90fda6ccd6bd541]
+## 62. Staff at Academies with religious character[^c-60c836b2368c7840c90fda6ccd6bd541]
 
 *Extent: E+W*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60c836b2368c7840c90fda6ccd6bd541]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2011/21/section/62) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-60c836b2368c7840c90fda6ccd6bd541]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2011/21/section/62) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

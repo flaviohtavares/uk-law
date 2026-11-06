@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Additional saving for implementation period[^key-c07bed0ac95524f9e25384719cace42f]
+## 2. Additional saving for implementation period[^c-c07bed0ac95524f9e25384719cace42f]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ After section 1A of the European Union (Withdrawal) Act 2018 (saving for the Eur
 
 ## Annotations
 
-[^key-c07bed0ac95524f9e25384719cace42f]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/1/section/2) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/b)
+[^c-c07bed0ac95524f9e25384719cace42f]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2020/1/section/2) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/b)

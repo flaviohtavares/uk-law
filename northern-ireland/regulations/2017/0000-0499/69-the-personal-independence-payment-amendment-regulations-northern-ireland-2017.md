@@ -83,7 +83,7 @@ These Regulations may be cited as the Personal Independence Payment (Amendment) 
 
   .
 
-(4)[^key-365d7f87bdd0106762213bf8681d77d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-365d7f87bdd0106762213bf8681d77d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -113,4 +113,4 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c22814791]: Marginal citation: S.R. [2016 No. 217](https://www.legislation.gov.uk/ukcm/2016/217)
 
-[^key-365d7f87bdd0106762213bf8681d77d3]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2017/69/regulation/2/4) revoked (15.6.2018) by [The Personal Independence Payment (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/121)](https://www.legislation.gov.uk/nisr/2018/121), [regs. 1](https://www.legislation.gov.uk/nisr/2018/121/regulation/1), [3](https://www.legislation.gov.uk/nisr/2018/121/regulation/3)
+[^c-365d7f87bdd0106762213bf8681d77d3]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2017/69/regulation/2/4) revoked (15.6.2018) by [The Personal Independence Payment (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/121)](https://www.legislation.gov.uk/nisr/2018/121), [regs. 1](https://www.legislation.gov.uk/nisr/2018/121/regulation/1), [3](https://www.legislation.gov.uk/nisr/2018/121/regulation/3)

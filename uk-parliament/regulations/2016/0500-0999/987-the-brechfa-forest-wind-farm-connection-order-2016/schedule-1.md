@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — Authorised development[^key-91c0125cb550190b7dca6803cd8bcec5]
+## SCHEDULE 1 — Authorised development[^c-91c0125cb550190b7dca6803cd8bcec5]
 
 *Extent: E+W+S*
 
 Article 3
 
-[^key-91c0125cb550190b7dca6803cd8bcec5]
+[^c-91c0125cb550190b7dca6803cd8bcec5]
 
 A nationally significant infrastructure project as defined in sections 14(1)(b) and 16 of the 2008 Act comprising—
 
@@ -69,4 +69,4 @@ A nationally significant infrastructure project as defined in sections 14(1)(b) 
 
 ## Annotations
 
-[^key-91c0125cb550190b7dca6803cd8bcec5]: Commencement: Sch. 1 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-91c0125cb550190b7dca6803cd8bcec5]: Commencement: Sch. 1 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

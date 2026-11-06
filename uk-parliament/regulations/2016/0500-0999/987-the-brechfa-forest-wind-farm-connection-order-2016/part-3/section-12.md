@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Traffic regulation[^key-632575b05b0ab5603b6d778ebea48655]
+## 12. Traffic regulation[^c-632575b05b0ab5603b6d778ebea48655]
 
 *Extent: E+W+S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-632575b05b0ab5603b6d778ebea48655]: Commencement: Art. 12 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-632575b05b0ab5603b6d778ebea48655]: Commencement: Art. 12 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
 
 [^f00013]: Footnote: [2004 c.18](https://www.legislation.gov.uk/ukpga/2004/18)

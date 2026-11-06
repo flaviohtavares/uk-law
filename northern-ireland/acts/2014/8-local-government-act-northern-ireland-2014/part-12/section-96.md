@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 96. Response to section 95 reports[^key-163a262abb66914acad3ba22dfef30d3]
+## 96. Response to section 95 reports[^c-163a262abb66914acad3ba22dfef30d3]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-163a262abb66914acad3ba22dfef30d3]: Commencement: S. 96 in operation at 1.4.2016 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 3](https://www.legislation.gov.uk/nisr/2015/209/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/209/schedule/2)
+[^c-163a262abb66914acad3ba22dfef30d3]: Commencement: S. 96 in operation at 1.4.2016 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 3](https://www.legislation.gov.uk/nisr/2015/209/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/209/schedule/2)

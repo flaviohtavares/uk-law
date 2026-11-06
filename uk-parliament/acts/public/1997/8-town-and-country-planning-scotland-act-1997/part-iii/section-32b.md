@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32B. Variation of application referred to the Scottish Ministers[^key-97742a1f19e6b17c9526c4f188e1b81f]
+## 32B. Variation of application referred to the Scottish Ministers[^c-97742a1f19e6b17c9526c4f188e1b81f]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97742a1f19e6b17c9526c4f188e1b81f]: Textual amendment: Ss. 32A, 32B and cross-heading inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 8](https://www.legislation.gov.uk/asp/2006/17/section/8), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 3](https://www.legislation.gov.uk/ssi/2009/222/article/3)); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-97742a1f19e6b17c9526c4f188e1b81f]: Textual amendment: Ss. 32A, 32B and cross-heading inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 8](https://www.legislation.gov.uk/asp/2006/17/section/8), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 3](https://www.legislation.gov.uk/ssi/2009/222/article/3)); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

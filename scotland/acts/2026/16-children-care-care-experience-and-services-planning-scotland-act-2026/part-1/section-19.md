@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Kinship care assistance: power to require information-sharing by local authority[^key-f6d233b9b8264e4add7995ab653ce447]
+## 19. Kinship care assistance: power to require information-sharing by local authority[^c-f6d233b9b8264e4add7995ab653ce447]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6d233b9b8264e4add7995ab653ce447]: Commencement: S. 19 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-f6d233b9b8264e4add7995ab653ce447]: Commencement: S. 19 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

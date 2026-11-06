@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Return to extraditing territory etc[^key-c201c79ff51c9e3e529846fbadf3939e]
+## 74. Return to extraditing territory etc[^c-c201c79ff51c9e3e529846fbadf3939e]
 
 *Extent: E+W+S+N.I.*
 
@@ -142,4 +142,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c201c79ff51c9e3e529846fbadf3939e]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2009/26/section/74) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(q)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/q)
+[^c-c201c79ff51c9e3e529846fbadf3939e]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2009/26/section/74) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(q)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/q)

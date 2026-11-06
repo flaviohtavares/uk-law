@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Regulated terms etc: distributions and share rights.[^c15515631][^key-b7714b4ca25ea9b03a9e84b66a88c63c][^key-c738a3fecdcf6b42cf328c9869a616d3][^key-ff5f0a3a178d184cdb965c63312bf916]
+## 100. Regulated terms etc: distributions and share rights.[^c15515631][^c-b7714b4ca25ea9b03a9e84b66a88c63c][^c-c738a3fecdcf6b42cf328c9869a616d3][^c-ff5f0a3a178d184cdb965c63312bf916]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,9 +36,9 @@ summary: ''
 
 (6)[^c15515671] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) The appropriate authority[^key-7ad8ee3f2ce296c7689094aaca42bbc3] may, where it confirms a transfer of a society’s business to an existing company, as it thinks fit having regard to what is equitable between the members of the society, direct that no bonus distribution of funds in pursuance of subsection (2)(b) above shall be made or that the amount distributed shall be such lesser amount as it provides for in the direction; and where the appropriate authority gives a direction under this subsection no liability to make such a distribution shall arise or, as the case may be, that liability shall be discharged by payment of the lesser amount.
+(7) The appropriate authority[^c-7ad8ee3f2ce296c7689094aaca42bbc3] may, where it confirms a transfer of a society’s business to an existing company, as it thinks fit having regard to what is equitable between the members of the society, direct that no bonus distribution of funds in pursuance of subsection (2)(b) above shall be made or that the amount distributed shall be such lesser amount as it provides for in the direction; and where the appropriate authority gives a direction under this subsection no liability to make such a distribution shall arise or, as the case may be, that liability shall be discharged by payment of the lesser amount.
 
-(8)[^key-3999038c45e95e74be1e9d2d402be377] The terms of a transfer of a society's business may confer a right to acquire shares in the successor on a member of the society only if the member—
+(8)[^c-3999038c45e95e74be1e9d2d402be377] The terms of a transfer of a society's business may confer a right to acquire shares in the successor on a member of the society only if the member—
 
 - (a) held shares in the society throughout the period of two years ending with the qualifying day, or
 - (b) on that day, holds deferred shares in the society that are of a class described in the transfer agreement;
@@ -64,11 +64,11 @@ and it is unlawful for any distribution of funds to be made in contravention of 
 
 [^c15515631]: Modification: S. 100 modified (21.3.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 46(1)](https://www.legislation.gov.uk/ukpga/1997/32/section/46/1), [Sch. 8 para. 9(1)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/8/paragraph/9/1)
 
-[^key-b7714b4ca25ea9b03a9e84b66a88c63c]: Modification: Ss. 97-102D: power to modify conferred (16.1.2009) by [Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26), [ss. 3](https://www.legislation.gov.uk/ukpga/2007/26/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/2007/26/section/6/2); [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
+[^c-b7714b4ca25ea9b03a9e84b66a88c63c]: Modification: Ss. 97-102D: power to modify conferred (16.1.2009) by [Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26), [ss. 3](https://www.legislation.gov.uk/ukpga/2007/26/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/2007/26/section/6/2); [S.I. 2009/36](https://www.legislation.gov.uk/uksi/2009/36), [art. 2](https://www.legislation.gov.uk/uksi/2009/36/article/2)
 
-[^key-c738a3fecdcf6b42cf328c9869a616d3]: Modification: Ss. 97-102D applied (with modifications) (5.3.2009) by [The Mutual Societies (Transfers) Order 2009 (S.I. 2009/509)](https://www.legislation.gov.uk/uksi/2009/509), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/509/article/1/2), [3-18](https://www.legislation.gov.uk/uksi/2009/509/article/3)
+[^c-c738a3fecdcf6b42cf328c9869a616d3]: Modification: Ss. 97-102D applied (with modifications) (5.3.2009) by [The Mutual Societies (Transfers) Order 2009 (S.I. 2009/509)](https://www.legislation.gov.uk/uksi/2009/509), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/509/article/1/2), [3-18](https://www.legislation.gov.uk/uksi/2009/509/article/3)
 
-[^key-ff5f0a3a178d184cdb965c63312bf916]: Modification: Ss. 97-102D excluded by 2009 c. 1, s. 84D(6) (as inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/2/3))
+[^c-ff5f0a3a178d184cdb965c63312bf916]: Modification: Ss. 97-102D excluded by 2009 c. 1, s. 84D(6) (as inserted (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/2/3))
 
 [^c15515641]: Textual amendment: S. 100(2)(c) and word preceding it repealed (21.3.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 40(a)](https://www.legislation.gov.uk/ukpga/1997/32/section/40/a), [46(2)](https://www.legislation.gov.uk/ukpga/1997/32/section/46/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/1997/32/schedule/9)
 
@@ -76,6 +76,6 @@ and it is unlawful for any distribution of funds to be made in contravention of 
 
 [^c15515671]: Textual amendment: S. 100(5)(6) repealed (21.3.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 40(b)](https://www.legislation.gov.uk/ukpga/1997/32/section/40/b), [46(2)](https://www.legislation.gov.uk/ukpga/1997/32/section/46/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/1997/32/schedule/9)
 
-[^key-7ad8ee3f2ce296c7689094aaca42bbc3]: Textual amendment: Words in s. 100(7) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 43](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/43) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-7ad8ee3f2ce296c7689094aaca42bbc3]: Textual amendment: Words in s. 100(7) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 43](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/43) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-3999038c45e95e74be1e9d2d402be377]: Textual amendment: S. 100(8) substituted (18.2.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 8(2)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/8/2)
+[^c-3999038c45e95e74be1e9d2d402be377]: Textual amendment: S. 100(8) substituted (18.2.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 8(2)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/8/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Inertia selling[^key-504837104ffb952355e8d4e9409b68c4][^key-9372a6e5e8d6c380bcf64554156c9017]
+## 236. Inertia selling[^c-504837104ffb952355e8d4e9409b68c4][^c-9372a6e5e8d6c380bcf64554156c9017]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-504837104ffb952355e8d4e9409b68c4]: Commencement: S. 236 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-504837104ffb952355e8d4e9409b68c4]: Commencement: S. 236 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-9372a6e5e8d6c380bcf64554156c9017]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2024/13/section/236) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-9372a6e5e8d6c380bcf64554156c9017]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2024/13/section/236) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

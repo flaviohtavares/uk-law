@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. The Commission’s other functions in relation to research and innovation[^key-b19399c015a7796a7409d62924a2d8bb]
+## 107. The Commission’s other functions in relation to research and innovation[^c-b19399c015a7796a7409d62924a2d8bb]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b19399c015a7796a7409d62924a2d8bb]: Commencement: S. 107 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-b19399c015a7796a7409d62924a2d8bb]: Commencement: S. 107 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Unless this regulation provides otherwise, a member of the police service must give notice of intent to claim the pension in accordance with the notice period that applies under[^key-a619d37f9534da769c0542d5629d3069] the member's terms and conditions of employment.
+(1) Unless this regulation provides otherwise, a member of the police service must give notice of intent to claim the pension in accordance with the notice period that applies under[^c-a619d37f9534da769c0542d5629d3069] the member's terms and conditions of employment.
 
 (2) A member of the police service holding the rank of Chief Constable, Deputy Chief Constable or Assistant Chief Constable must give at least 3 months' notice of intent to claim the pension.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a619d37f9534da769c0542d5629d3069]: Textual amendment: Words in [reg. 91(1)](https://www.legislation.gov.uk/nisr/2015/113/regulation/91/1) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [21](https://www.legislation.gov.uk/nisr/2024/38/regulation/21)
+[^c-a619d37f9534da769c0542d5629d3069]: Textual amendment: Words in [reg. 91(1)](https://www.legislation.gov.uk/nisr/2015/113/regulation/91/1) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [21](https://www.legislation.gov.uk/nisr/2024/38/regulation/21)

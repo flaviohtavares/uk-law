@@ -40,22 +40,22 @@ on the adequate protection of personal data in the Isle of Man
 
 (2004/411/EC) (revoked)
 
-[^key-e9fb443b99958ad711b36a8c25685c56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e9fb443b99958ad711b36a8c25685c56]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e9fb443b99958ad711b36a8c25685c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e9fb443b99958ad711b36a8c25685c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e9fb443b99958ad711b36a8c25685c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e9fb443b99958ad711b36a8c25685c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-e9fb443b99958ad711b36a8c25685c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-e9fb443b99958ad711b36a8c25685c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-e9fb443b99958ad711b36a8c25685c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-e9fb443b99958ad711b36a8c25685c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-e9fb443b99958ad711b36a8c25685c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-e9fb443b99958ad711b36a8c25685c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-e9fb443b99958ad711b36a8c25685c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-e9fb443b99958ad711b36a8c25685c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-e9fb443b99958ad711b36a8c25685c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-e9fb443b99958ad711b36a8c25685c56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e9fb443b99958ad711b36a8c25685c56]: Textual amendment: Decision revoked (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 1(f)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e9fb443b99958ad711b36a8c25685c56]: Textual amendment: Decision revoked (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 1(f)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

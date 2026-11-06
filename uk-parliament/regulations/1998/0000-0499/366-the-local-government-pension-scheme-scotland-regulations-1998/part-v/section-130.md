@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 130. Separate employments etc.[^key-c94c211c9973f2a8c7cda1b83371b393]
+## 130. Separate employments etc.[^c-c94c211c9973f2a8c7cda1b83371b393]
 
 *Extent: E+W+S*
 
@@ -42,7 +42,7 @@ is eligible to be an active member in that appointment and shall be deemed to be
 
 ## Annotations
 
-[^key-c94c211c9973f2a8c7cda1b83371b393]: Commencement: Reg. 130 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-c94c211c9973f2a8c7cda1b83371b393]: Commencement: Reg. 130 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00056]: Footnote: [1978 c. 10](https://www.legislation.gov.uk/ukpga/1978/10); paragraph 2 of Schedule 1 was extended by the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), section 3(1), amended by the European Communities (Amendment) Act [1986 (c. 58)](https://www.legislation.gov.uk/ukpga/1986/58), section 3(1)(b)(3) and modified for Scotland by S.I. [1986/1111](https://www.legislation.gov.uk/uksi/1986/1111).
 

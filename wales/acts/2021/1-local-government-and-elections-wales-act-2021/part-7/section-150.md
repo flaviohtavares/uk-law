@@ -22,20 +22,20 @@ summary: ''
 
 (1) In the 2011 Measure—
 
-- (a)[^key-45e597f5cf98d98c512da4652048ecf4] omit Chapter 2 of Part 9 (amalgamation);
+- (a)[^c-45e597f5cf98d98c512da4652048ecf4] omit Chapter 2 of Part 9 (amalgamation);
 - (b) in section 172 (orders and regulations)—
   - (i) in subsection (2)(a) for “, Part 2, section 140, 165 or 166(2)” substitute “ or 140 or 165 or 166(2) or Part 2 ”;
-  - (ii)[^key-45e597f5cf98d98c512da4652048ecf4] in subsection (2)(a) omit “or 165 or 166(2)”;
+  - (ii)[^c-45e597f5cf98d98c512da4652048ecf4] in subsection (2)(a) omit “or 165 or 166(2)”;
   - (iii) in subsection (2)(b) for “, 158,” substitute “ or 158 or ”;
-  - (iv)[^key-45e597f5cf98d98c512da4652048ecf4] in subsection (2)(b) omit “or 162 or 170”;
-  - (v)[^key-45e597f5cf98d98c512da4652048ecf4] omit subsection (2)(c);
+  - (iv)[^c-45e597f5cf98d98c512da4652048ecf4] in subsection (2)(b) omit “or 162 or 170”;
+  - (v)[^c-45e597f5cf98d98c512da4652048ecf4] omit subsection (2)(c);
   - (vi) omit subsection (3).
 
 (2) In the 2013 Act—
 
 - (a) in section 23 (review of principal area boundaries), in subsection (4)(e) omit sub-paragraphs (ii) and (iii);
-- (b)[^key-45e597f5cf98d98c512da4652048ecf4] in section 44(1) (transitional agreements as to property and finance), omit “or by an order under section 162 of the 2011 Measure (power to make amalgamation order)”;
-- (c)[^key-45e597f5cf98d98c512da4652048ecf4] in section 48(2) (directions and guidance), omit paragraph (c);
+- (b)[^c-45e597f5cf98d98c512da4652048ecf4] in section 44(1) (transitional agreements as to property and finance), omit “or by an order under section 162 of the 2011 Measure (power to make amalgamation order)”;
+- (c)[^c-45e597f5cf98d98c512da4652048ecf4] in section 48(2) (directions and guidance), omit paragraph (c);
 - (d) in section 71 (orders and regulations), in subsection (2)(b) omit “or which abolishes a principal area”.
 
 (3) In the Local Government (Wales) Act 2015 (anaw 6) omit—
@@ -50,4 +50,4 @@ summary: ''
 
 [^c24522421]: Commencement: [S. 150(2)(a)(d)(3)](https://www.legislation.gov.uk/asc/2021/1/section/150/2/a/d/3) in force at 21.1.2021, see [s. 175(1)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)
 
-[^key-45e597f5cf98d98c512da4652048ecf4]: Commencement: S. 150(1)(a)(b)(ii)(iv)(v)(2)(b)(c) in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)
+[^c-45e597f5cf98d98c512da4652048ecf4]: Commencement: S. 150(1)(a)(b)(ii)(iv)(v)(2)(b)(c) in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)

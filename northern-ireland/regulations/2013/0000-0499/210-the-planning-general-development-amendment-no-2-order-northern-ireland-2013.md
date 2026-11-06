@@ -32,7 +32,7 @@ summary: ''
 
 Planning
 
-The Planning (General Development) (Amendment No.2) Order (Northern Ireland) 2013 (revoked)[^key-0a994ec11f51e12e8ac6abc1512dc632]
+The Planning (General Development) (Amendment No.2) Order (Northern Ireland) 2013 (revoked)[^c-0a994ec11f51e12e8ac6abc1512dc632]
 
 Made
 
@@ -42,34 +42,34 @@ Coming into operation
 
 30th August 2013
 
-[^key-0a994ec11f51e12e8ac6abc1512dc632]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a994ec11f51e12e8ac6abc1512dc632]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0a994ec11f51e12e8ac6abc1512dc632]
+## 1. Citation and commencement[^c-0a994ec11f51e12e8ac6abc1512dc632]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Planning (General Development) Order (Northern Ireland) 1993[^key-0a994ec11f51e12e8ac6abc1512dc632]
+## 2. Amendment of the Planning (General Development) Order (Northern Ireland) 1993[^c-0a994ec11f51e12e8ac6abc1512dc632]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a994ec11f51e12e8ac6abc1512dc632]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a994ec11f51e12e8ac6abc1512dc632]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SUBSTITUTION OF PART 6 OF SCHEDULE 1 TO THE PLANNING (GENERAL DEVELOPMENT) ORDER (NORTHERN IRELAND) 1993[^key-0a994ec11f51e12e8ac6abc1512dc632]
+## SCHEDULE — SUBSTITUTION OF PART 6 OF SCHEDULE 1 TO THE PLANNING (GENERAL DEVELOPMENT) ORDER (NORTHERN IRELAND) 1993[^c-0a994ec11f51e12e8ac6abc1512dc632]
 
 Article 2(c)
 
-> **PART 6 — AGRICULTURAL BUILDINGS AND OPERATIONS[^key-0a994ec11f51e12e8ac6abc1512dc632]**
+> **PART 6 — AGRICULTURAL BUILDINGS AND OPERATIONS[^c-0a994ec11f51e12e8ac6abc1512dc632]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0a994ec11f51e12e8ac6abc1512dc632]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a994ec11f51e12e8ac6abc1512dc632]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0a994ec11f51e12e8ac6abc1512dc632]: Textual amendment: Order revoked (1.4.2015) by [The Planning (General Development Procedure) Order (Northern Ireland) 2015 (S.R. 2015/72)](https://www.legislation.gov.uk/nisr/2015/72), [art. 1(1)](https://www.legislation.gov.uk/nisr/2015/72/article/1), [Sch. 4](https://www.legislation.gov.uk/nisr/2015/72/schedule/4)
+[^c-0a994ec11f51e12e8ac6abc1512dc632]: Textual amendment: Order revoked (1.4.2015) by [The Planning (General Development Procedure) Order (Northern Ireland) 2015 (S.R. 2015/72)](https://www.legislation.gov.uk/nisr/2015/72), [art. 1(1)](https://www.legislation.gov.uk/nisr/2015/72/article/1), [Sch. 4](https://www.legislation.gov.uk/nisr/2015/72/schedule/4)

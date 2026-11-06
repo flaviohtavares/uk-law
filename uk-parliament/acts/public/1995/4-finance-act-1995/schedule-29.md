@@ -42,7 +42,7 @@ These repeals have effect in accordance with section 1 of this Act.
 | 1991 c. 31. | The Finance Act 1991. | In Schedule 2, paragraph 12. |
 | SI 1992/3158. | The Excise Duty (Amendment of the Alcoholic Liquor Duties Act 1979 and the Hydrocarbon Oil Duties Act 1979) Regulations 1992. | Regulation 2(4). |
 
-[^key-fbb40ddc7fd269a227b603c9c38c0e08] (3) Denatured Alcohol
+[^c-fbb40ddc7fd269a227b603c9c38c0e08] (3) Denatured Alcohol
 
 | Chapter | Short title | Extent of repeal |
 | --- | --- | --- |
@@ -467,7 +467,7 @@ This repeal has effect in accordance with section 88(4) and (5) of this Act.
 
 ## Annotations
 
-[^key-fbb40ddc7fd269a227b603c9c38c0e08]: Commencement: Sch. 29 Pt. 1(3) has effect as specified by [The Finance Act 1995 (Denatured Alcohol) (Appointed Day and Savings) Order 2005 (S.I. 2005/1523)](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/b)
+[^c-fbb40ddc7fd269a227b603c9c38c0e08]: Commencement: Sch. 29 Pt. 1(3) has effect as specified by [The Finance Act 1995 (Denatured Alcohol) (Appointed Day and Savings) Order 2005 (S.I. 2005/1523)](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/1523/article/2/b)
 
 [^c15675791]: Commencement: Sch. 29, Pt. V(1) in force on 1.7.1995.
 

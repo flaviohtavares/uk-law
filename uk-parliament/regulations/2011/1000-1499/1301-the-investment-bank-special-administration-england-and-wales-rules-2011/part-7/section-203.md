@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 203. Review of remuneration[^key-02d7f1d5580de3856f00ce3d07615008]
+## 203. Review of remuneration[^c-02d7f1d5580de3856f00ce3d07615008]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ and this Chapter applies as appropriate.
 
 ## Annotations
 
-[^key-02d7f1d5580de3856f00ce3d07615008]: Commencement: [Rule 203](https://www.legislation.gov.uk/uksi/2011/1301/rule/203) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-02d7f1d5580de3856f00ce3d07615008]: Commencement: [Rule 203](https://www.legislation.gov.uk/uksi/2011/1301/rule/203) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

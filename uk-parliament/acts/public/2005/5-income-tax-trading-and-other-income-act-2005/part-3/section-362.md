@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 362. Effect of company starting or ceasing to be within charge to income tax[^key-061b0abd10f5354d80ae891409569ed7]
+## 362. Effect of company starting or ceasing to be within charge to income tax[^c-061b0abd10f5354d80ae891409569ed7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-061b0abd10f5354d80ae891409569ed7]: Textual amendment: S. 362 omitted (6.4.2020) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 8](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/8), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))
+[^c-061b0abd10f5354d80ae891409569ed7]: Textual amendment: S. 362 omitted (6.4.2020) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 8](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/8), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))

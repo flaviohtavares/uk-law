@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Appointment of scheme actuary and actuarial valuations[^key-95e291e94dae140650fd940021978969]
+## 158. Appointment of scheme actuary and actuarial valuations[^c-95e291e94dae140650fd940021978969]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95e291e94dae140650fd940021978969]: Commencement: [Reg. 158](https://www.legislation.gov.uk/uksi/2014/1964/regulation/158) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-95e291e94dae140650fd940021978969]: Commencement: [Reg. 158](https://www.legislation.gov.uk/uksi/2014/1964/regulation/158) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

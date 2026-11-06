@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Insertion of sections 33A to 33C[^key-7737bac164e432b1caeb11709ca47c2c]
+## 25. Insertion of sections 33A to 33C[^c-7737bac164e432b1caeb11709ca47c2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,4 +93,4 @@ After section 33 insert—
 
 ## Annotations
 
-[^key-7737bac164e432b1caeb11709ca47c2c]: Commencement: Art. 25 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-7737bac164e432b1caeb11709ca47c2c]: Commencement: Art. 25 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

@@ -91,7 +91,7 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-## Article 1. Definitions[^key-6d1168f57e5b5ff4c018fae26bf75adf]
+## Article 1. Definitions[^c-6d1168f57e5b5ff4c018fae26bf75adf]
 
 (1.) In these Regulations, ‘the appropriate authority’ has the meaning given in Article 3(2A) of Regulation (EU) 2017/625 of the European Parliament and of the Council.
 
@@ -99,12 +99,12 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 2. Model official certificate
 
-1. For the purposes of Article 21(1) and Article 29(c) of Delegated Regulation (EU) 2019/2124, the model official certificate to[^key-09619872d8501c62c246776d315299be] be used for the official certification of consignments of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products is the model official certificate published from time to time by the appropriate authority for the constituent territory of Great Britain where those goods are delivered:[^key-2a8d198d97e44e9286fc3153d0209310]
+1. For the purposes of Article 21(1) and Article 29(c) of Delegated Regulation (EU) 2019/2124, the model official certificate to[^c-09619872d8501c62c246776d315299be] be used for the official certification of consignments of products of animal origin, germinal products, animal by-products, derived products, hay and straw and composite products is the model official certificate published from time to time by the appropriate authority for the constituent territory of Great Britain where those goods are delivered:[^c-2a8d198d97e44e9286fc3153d0209310]
 
-- (a) to vessels leaving the territory of Great Britain to travel to a third country[^key-babfda4d8dba42e3098ad95b2481f38d] and intended for ship supply or consumption by the crew and passengers; or
-- (b)[^key-edd71befce20a213d6728e95b27ab1b4] from a warehouse located in Great Britain to NATO or United States military bases located in the territory of Great Britain, any of the territories of the Crown Dependencies, or in a third country.
+- (a) to vessels leaving the territory of Great Britain to travel to a third country[^c-babfda4d8dba42e3098ad95b2481f38d] and intended for ship supply or consumption by the crew and passengers; or
+- (b)[^c-edd71befce20a213d6728e95b27ab1b4] from a warehouse located in Great Britain to NATO or United States military bases located in the territory of Great Britain, any of the territories of the Crown Dependencies, or in a third country.
 
-The official certificate may be issued in paper format or electronically through the appropriate computerised information management system[^key-40a5ce4243d9a7f43f03f7bbf823c99d].
+The official certificate may be issued in paper format or electronically through the appropriate computerised information management system[^c-40a5ce4243d9a7f43f03f7bbf823c99d].
 
 2. Where the content of consignments is formed at a warehouse and composed of products of different origins or product categories, one single official certificate may be issued to accompany such consignment.
 
@@ -123,15 +123,15 @@ Official certificates which are not submitted in the appropriate computerised in
 
 ## Article 4. Requirements for official certificates submitted in the appropriate computerised information management system and for the use of electronic signature
 
-1. Official certificates submitted in the appropriate computerised information management system shall be based on the model official certificate referred to in Article 2.[^key-9a46288f5e46707a339af9d35ab0ef8f]
+1. Official certificates submitted in the appropriate computerised information management system shall be based on the model official certificate referred to in Article 2.[^c-9a46288f5e46707a339af9d35ab0ef8f]
 
 2. The official certificate shall be submitted in the appropriate computerised information management system before the consignments to which it relates leave the control of the competent authorities at the border control post or at the warehouse.
 
 3. Official certificates submitted in the appropriate computerised information management system shall meet the requirements for the issuance of electronic official certificate and for the use of electronic signature laid down in Article 39 of Implementing Regulation (EU) 2019/1715.
 
-## Article 5. Guidance on the completion of the official certificate[^key-d6ae7fb4a1dd3180fe3e0399f527416a]
+## Article 5. Guidance on the completion of the official certificate[^c-d6ae7fb4a1dd3180fe3e0399f527416a]
 
-The official certificate shall be completed in accordance with guidance issued by the appropriate authority from time to time.[^key-2056cd1996f2f0d25ea0a738150c845b]
+The official certificate shall be completed in accordance with guidance issued by the appropriate authority from time to time.[^c-2056cd1996f2f0d25ea0a738150c845b]
 
 ## Article 6. Entry into force and date of application
 
@@ -139,7 +139,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 14 December 2019.
 
-[^key-9ab05085d44a48961259785b70cf99c4]...
+[^c-9ab05085d44a48961259785b70cf99c4]...
 
 Done at Brussels, 12 November 2019.
 
@@ -149,7 +149,7 @@ Done at Brussels, 12 November 2019.
 
 Jean-Claude Juncker
 
-## ANNEX[^key-cfe2ac5d0525357688809b054e9c2323]
+## ANNEX[^c-cfe2ac5d0525357688809b054e9c2323]
 
 **No longer in force.**
 
@@ -187,24 +187,24 @@ Jean-Claude Juncker
 
 [^f00005]: Footnote: Commission Decision 2004/292/EC of 30 March 2004 on the introduction of the Traces system and amending Decision 92/486/EEC ([OJ L 94, 31.3.2004, p. 63](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.094.01.0063.01.ENG)).
 
-[^key-6d1168f57e5b5ff4c018fae26bf75adf]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2019/2128/article/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(3)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/3) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-6d1168f57e5b5ff4c018fae26bf75adf]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2019/2128/article/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(3)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/3) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-09619872d8501c62c246776d315299be]: Textual amendment: Word in [Art. 2(1)](https://www.legislation.gov.uk/eur/2019/2128/article/2/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/4/a/i) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-09619872d8501c62c246776d315299be]: Textual amendment: Word in [Art. 2(1)](https://www.legislation.gov.uk/eur/2019/2128/article/2/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/4/a/i) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-2a8d198d97e44e9286fc3153d0209310]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eur/2019/2128/article/2/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/4/a/ii) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-2a8d198d97e44e9286fc3153d0209310]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eur/2019/2128/article/2/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/4/a/ii) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-babfda4d8dba42e3098ad95b2481f38d]: Textual amendment: Words in [Art. 2(1)(a)](https://www.legislation.gov.uk/eur/2019/2128/article/2/1/a) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(4)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/4/b) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-babfda4d8dba42e3098ad95b2481f38d]: Textual amendment: Words in [Art. 2(1)(a)](https://www.legislation.gov.uk/eur/2019/2128/article/2/1/a) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(4)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/4/b) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-edd71befce20a213d6728e95b27ab1b4]: Textual amendment: [Art. 2(1)(b)](https://www.legislation.gov.uk/eur/2019/2128/article/2/1/b) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(4)(c)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/4/c) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-edd71befce20a213d6728e95b27ab1b4]: Textual amendment: [Art. 2(1)(b)](https://www.legislation.gov.uk/eur/2019/2128/article/2/1/b) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(4)(c)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/4/c) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-40a5ce4243d9a7f43f03f7bbf823c99d]: Textual amendment: Words in Regulation substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/2) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-40a5ce4243d9a7f43f03f7bbf823c99d]: Textual amendment: Words in Regulation substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/2) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-9a46288f5e46707a339af9d35ab0ef8f]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2019/2128/article/4/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(5)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/5) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-9a46288f5e46707a339af9d35ab0ef8f]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2019/2128/article/4/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(5)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/5) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-d6ae7fb4a1dd3180fe3e0399f527416a]: Textual amendment: Word in [Art. 5](https://www.legislation.gov.uk/eur/2019/2128/article/5) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(6)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/6/a) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-d6ae7fb4a1dd3180fe3e0399f527416a]: Textual amendment: Word in [Art. 5](https://www.legislation.gov.uk/eur/2019/2128/article/5) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(6)(a)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/6/a) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-2056cd1996f2f0d25ea0a738150c845b]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eur/2019/2128/article/5) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(6)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/6/b) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-2056cd1996f2f0d25ea0a738150c845b]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eur/2019/2128/article/5) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(6)(b)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/6/b) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-9ab05085d44a48961259785b70cf99c4]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(7)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/7) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-9ab05085d44a48961259785b70cf99c4]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(7)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/7) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
 
-[^key-cfe2ac5d0525357688809b054e9c2323]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2019/2128/annex) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(8)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/8) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))
+[^c-cfe2ac5d0525357688809b054e9c2323]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2019/2128/annex) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [29(8)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/29/8) (with [regs. 33-36](https://www.legislation.gov.uk/uksi/2020/1631/regulation/33))

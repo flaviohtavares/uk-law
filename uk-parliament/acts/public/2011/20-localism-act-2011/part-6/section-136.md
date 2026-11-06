@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Rights of entry for surveying etc in connection with applications[^key-2d2216d156c45012f27454cfb024b13c]
+## 136. Rights of entry for surveying etc in connection with applications[^c-2d2216d156c45012f27454cfb024b13c]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 > - (b) Council Directive [92/43/EC](https://www.legislation.gov.uk/european/directive/1992/0043) of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora, as amended from time to time, or
 > - (c) any EU instrument from time to time replacing all or any part of either of those Directives.
 
-(4)[^key-07b0b730b6002da39a50b536b7d593f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-07b0b730b6002da39a50b536b7d593f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 53 after subsection (3) insert—
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d2216d156c45012f27454cfb024b13c]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2011/20/section/136) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-2d2216d156c45012f27454cfb024b13c]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2011/20/section/136) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
 
-[^key-07b0b730b6002da39a50b536b7d593f7]: Textual amendment: S. 136(4) omitted (24.7.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 11(9)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/11/9/a), [118(1)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/e) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/g)
+[^c-07b0b730b6002da39a50b536b7d593f7]: Textual amendment: S. 136(4) omitted (24.7.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 11(9)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/11/9/a), [118(1)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/e) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/g)

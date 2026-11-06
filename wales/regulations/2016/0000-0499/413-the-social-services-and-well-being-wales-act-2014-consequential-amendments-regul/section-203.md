@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**203.**[^key-ad39b7578bc9f34cc6f8824d3edd6a99] In section 27[^f00187] (family relationships), after subsection (5)(c)(ia) insert—
+**203.**[^c-ad39b7578bc9f34cc6f8824d3edd6a99] In section 27[^f00187] (family relationships), after subsection (5)(c)(ia) insert—
 
 > - (ib) he is a person with whom the child has been placed under section 81 of the Social Services and Well-being (Wales) Act 2014 in a placement falling within subsection (6)(a) or (b) of that section (placement with a local authority foster parent),
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad39b7578bc9f34cc6f8824d3edd6a99]: Commencement: Reg. 203 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-ad39b7578bc9f34cc6f8824d3edd6a99]: Commencement: Reg. 203 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00187]: Footnote: Section 27(5)(c)(i) was substituted, by subsequent paragraph (c)(i) and (ia), by the Children and Young Persons Act 2008, Schedule 1, paragraph 16.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Financial Assistance Scheme[^key-fe7d3e1f89a5d7a7c85ca0f832b1c16c]
+## 65. Financial Assistance Scheme[^c-fe7d3e1f89a5d7a7c85ca0f832b1c16c]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe7d3e1f89a5d7a7c85ca0f832b1c16c]: Commencement: [Reg. 65](https://www.legislation.gov.uk/nisr/2016/219/regulation/65) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-fe7d3e1f89a5d7a7c85ca0f832b1c16c]: Commencement: [Reg. 65](https://www.legislation.gov.uk/nisr/2016/219/regulation/65) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00067]: Footnote: [S.I. 2005/1986](https://www.legislation.gov.uk/uksi/2005/1986)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 507. Transactions: exceptions[^key-6e86f6a1f93cf7e6d8ee18577a8c9816]
+## 507. Transactions: exceptions[^c-6e86f6a1f93cf7e6d8ee18577a8c9816]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e86f6a1f93cf7e6d8ee18577a8c9816]: Textual amendment: Ss. 502-510 repealed (with effect in accordance with Sch. 3 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/23) (with [Sch. 3 para. 30](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/30)) (as modified (S.) (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/9))
+[^c-6e86f6a1f93cf7e6d8ee18577a8c9816]: Textual amendment: Ss. 502-510 repealed (with effect in accordance with Sch. 3 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/23) (with [Sch. 3 para. 30](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/30)) (as modified (S.) (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/9))

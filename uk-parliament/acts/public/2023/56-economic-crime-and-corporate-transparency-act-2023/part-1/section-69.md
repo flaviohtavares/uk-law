@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Identity verification: material unavailable for public inspection[^key-c637e27cbd3558f23ad3f98687b9691a][^key-e78d59be4c97774294fcd8d92767de39]
+## 69. Identity verification: material unavailable for public inspection[^c-c637e27cbd3558f23ad3f98687b9691a][^c-e78d59be4c97774294fcd8d92767de39]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ In section 1087 of the Companies Act 2006 (material unavailable for public inspe
 
 ## Annotations
 
-[^key-c637e27cbd3558f23ad3f98687b9691a]: Commencement: S. 69 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-c637e27cbd3558f23ad3f98687b9691a]: Commencement: S. 69 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-e78d59be4c97774294fcd8d92767de39]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2023/56/section/69) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/l)[(6)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/6)
+[^c-e78d59be4c97774294fcd8d92767de39]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2023/56/section/69) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/l)[(6)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/6)

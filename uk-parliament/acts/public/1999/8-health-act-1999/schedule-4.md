@@ -24,7 +24,7 @@ Section 65.
 
 ### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1.**[^key-dedea98141252fbc309cbdd696e372c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-dedea98141252fbc309cbdd696e372c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### National Health Service Act 1966 (c. 8)
 
@@ -36,7 +36,7 @@ Section 65.
 
 - (a) in subsection (1)(a), for “or Special Health Authority or a Health Board” there is substituted “ Special Health Authority, Health Board or Primary Care Trust ”,
 - (b) in subsection (5A), for “or Special Health Authority” in both places there is substituted “ Special Health Authority or Primary Care Trust ”,
-- (c)[^key-320339399d1b40e4c0bcf588d781e21c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-320339399d1b40e4c0bcf588d781e21c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The 1977 Act
 
@@ -308,7 +308,7 @@ Section 65.
 
 **66.**[^c11913511] In section 122(1) (provision of pocket money for in-patients in hospital), “special hospitals or other hospitals being” is omitted.
 
-**67.**[^key-103165d11caecdecb292008c0bf49847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**67.**[^c-103165d11caecdecb292008c0bf49847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **68.**[^c11913531] In section 134 (correspondence of patients)—
 
@@ -348,7 +348,7 @@ Section 65.
 
 ### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**74.**[^key-f2ba9db8f5034c36fc7b488439967555] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**74.**[^c-f2ba9db8f5034c36fc7b488439967555] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **75.**[^c22572831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -366,7 +366,7 @@ Section 65.
 
 **81.** [^c21247811]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**82.**[^key-82f0bd64d6475353cc09d76b6d9672b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**82.**[^c-82f0bd64d6475353cc09d76b6d9672b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **83.** [^c21247821]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -376,7 +376,7 @@ Section 65.
 
 **85.**[^c4669031] (1) The Health Service Commissioners Act 1993 is amended as follows.
 
-(2)[^key-9bbc38c99e1ace0bf6a95b26cd2d40cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9bbc38c99e1ace0bf6a95b26cd2d40cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 3 (general remit of Commissioners), subsection (1B) is omitted.
 
@@ -384,7 +384,7 @@ Section 65.
 
 ### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**86.**[^key-4b08593900a0c49c57fac7b3f7bbb451] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**86.**[^c-4b08593900a0c49c57fac7b3f7bbb451] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### National Health Service (Residual Liabilities) Act 1996 (c. 15)
 
@@ -406,13 +406,13 @@ Section 65.
 
 [^c12200241]: Modification: Sch. 4: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1) (as inserted (30.6.1999) by [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [ss. 66(4)(5)(c)](https://www.legislation.gov.uk/ukpga/1999/8/section/66/4/5/c), [67(4)](https://www.legislation.gov.uk/ukpga/1999/8/section/67/4))
 
-[^key-dedea98141252fbc309cbdd696e372c6]: Textual amendment: Sch. 4 para. 1 and cross-heading omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 93(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/93/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-dedea98141252fbc309cbdd696e372c6]: Textual amendment: Sch. 4 para. 1 and cross-heading omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 93(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/93/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c21037531]: Textual amendment: Sch. 4 para. 2 omitted (1.4.2004) by virtue of [The Primary Medical Services (Scotland) Act 2004 (Consequential Modifications) Order 2004 (S.I. 2004/957)](https://www.legislation.gov.uk/uksi/2004/957), [art. 2](https://www.legislation.gov.uk/uksi/2004/957/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2004/957/schedule/paragraph/9)
 
 [^c4667811]: Commencement: Sch. 4 para. 3 partly in force; Sch. 4 para. 3 not in force at Royal Assent see s. 67(1); Sch. 4 para. 3 in force for E. at 4.1.2000 by [S.I. 1999/2342](https://www.legislation.gov.uk/uksi/1999/2342), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/1999/2342/article/2/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/2342/schedule/2)
 
-[^key-320339399d1b40e4c0bcf588d781e21c]: Textual amendment: Sch. 4 para. 3(c) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 93(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/93/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-320339399d1b40e4c0bcf588d781e21c]: Textual amendment: Sch. 4 para. 3(c) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 93(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/93/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c21247511]: Textual amendment: Sch. 4 paras. 4, 6-16, 23-32, 36-39, 76-79, 81, 83, 84, 87, 89 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 6](https://www.legislation.gov.uk/ukpga/2006/43/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1))
 
@@ -548,7 +548,7 @@ Section 65.
 
 [^c11913511]: Commencement: Sch. 4 para. 66 partly in force; Sch. 4 para. 66 not in force at Royal Assent, see s. 67(1); Sch. 4 para. 66 in force for E.W. at 1.4.2000 by [S.I. 1999/2793](https://www.legislation.gov.uk/uksi/1999/2793), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/1999/2793/article/2/3/a), [Sch. 3](https://www.legislation.gov.uk/uksi/1999/2793/schedule/3)
 
-[^key-103165d11caecdecb292008c0bf49847]: Textual amendment: Sch. 4 para. 67 omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 42(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/42/4), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [s. 42(5)](https://www.legislation.gov.uk/ukpga/2012/7/section/42/5)); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-103165d11caecdecb292008c0bf49847]: Textual amendment: Sch. 4 para. 67 omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 42(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/42/4), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [s. 42(5)](https://www.legislation.gov.uk/ukpga/2012/7/section/42/5)); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
 [^c11913531]: Commencement: Sch. 4 para. 68 wholly in force for E.W. at 1.4.2000, see s. 67(1) and [S.I. 1999/2793](https://www.legislation.gov.uk/uksi/1999/2793), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/1999/2793/article/2/3/a), [Sch. 3](https://www.legislation.gov.uk/uksi/1999/2793/schedule/3)
 
@@ -564,7 +564,7 @@ Section 65.
 
 [^c21253401]: Textual amendment: Sch. 4 para. 73 repealed (1.4.2010 with effect as mentioned in s. 1184(1) of the repealing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 1181](https://www.legislation.gov.uk/ukpga/2010/4/section/1181), [1184(1)(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1/4), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f2ba9db8f5034c36fc7b488439967555]: Textual amendment: Sch. 4 para. 74 and cross-heading omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 93(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/93/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-f2ba9db8f5034c36fc7b488439967555]: Textual amendment: Sch. 4 para. 74 and cross-heading omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 93(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/93/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c22572831]: Textual amendment: Sch. 4 para. 75 repealed by [The National Health Service (Pre-consolidation Amendments) Order 2006 (S.I. 2006/1407)](https://www.legislation.gov.uk/uksi/2006/1407), [art. 3](https://www.legislation.gov.uk/uksi/2006/1407/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1407/schedule/2), the repeal coming into force immediately before the coming into force of the [National Health Service Act 2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41) (as to which see [s. 227](https://www.legislation.gov.uk/ukpga/2006/41/section/227) of that 2006 Act) by virtue of art. 1(1) of the repealing S.I.
 
@@ -578,7 +578,7 @@ Section 65.
 
 [^c21247811]: Textual amendment: Sch. 4 paras. 4, 6-16, 23-32, 36-39, 76-79, 81, 83, 84, 87, 89 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 6](https://www.legislation.gov.uk/ukpga/2006/43/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1))
 
-[^key-82f0bd64d6475353cc09d76b6d9672b2]: Textual amendment: Sch. 4 para. 82 omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 93(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/93/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-82f0bd64d6475353cc09d76b6d9672b2]: Textual amendment: Sch. 4 para. 82 omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 93(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/93/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c21247821]: Textual amendment: Sch. 4 paras. 4, 6-16, 23-32, 36-39, 76-79, 81, 83, 84, 87, 89 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 6](https://www.legislation.gov.uk/ukpga/2006/43/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1))
 
@@ -586,9 +586,9 @@ Section 65.
 
 [^c4669031]: Commencement: Sch. 4 para. 85 partly in force; Sch. 4 para. 85 not in force at Royal Assent, see s. 67(1); Sch. 4 para. 85(1) in force for certain purposes at 1.10.1999 by [S.I. 1999/2540](https://www.legislation.gov.uk/uksi/1999/2540), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/2540/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2540/schedule/1); Sch. 4 para. 85(3)(4) in force for E. at 1.10.1999 by [S.I. 1999/2540](https://www.legislation.gov.uk/uksi/1999/2540), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/2540/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2540/schedule/1); Sch. 4 para. 85(1)(3)(4) in force for S. at 1.10.1999 by [S.S.I. 1999/90](https://www.legislation.gov.uk/ssi/1999/90), [art. 2(b)](https://www.legislation.gov.uk/ssi/1999/90/article/2/b); Sch. 4 para. 85(1)(2)(a) in force for E.W. at 4.1.2000 by [S.I. 1999/2342](https://www.legislation.gov.uk/uksi/1999/2342), [art. 2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/1999/2342/article/2/3/b/ii); Sch. 4 para. 85(4) in force for W. at 1.4.2000 by [S.I. 2000/1026](https://www.legislation.gov.uk/uksi/2000/1026), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/1026/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2000/1026/schedule)
 
-[^key-9bbc38c99e1ace0bf6a95b26cd2d40cf]: Textual amendment: Sch. 4 para. 85(2) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 93(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/93/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-9bbc38c99e1ace0bf6a95b26cd2d40cf]: Textual amendment: Sch. 4 para. 85(2) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 93(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/93/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-4b08593900a0c49c57fac7b3f7bbb451]: Textual amendment: Sch. 4 para. 86 and cross-heading omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 93(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/93/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-4b08593900a0c49c57fac7b3f7bbb451]: Textual amendment: Sch. 4 para. 86 and cross-heading omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 93(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/93/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c21247841]: Textual amendment: Sch. 4 paras. 4, 6-16, 23-32, 36-39, 76-79, 81, 83, 84, 87, 89 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 6](https://www.legislation.gov.uk/ukpga/2006/43/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1))
 

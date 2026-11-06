@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Annual reports[^key-c0f2804dc25a9b1ff606a5d07083e62c]
+## 33. Annual reports[^c-c0f2804dc25a9b1ff606a5d07083e62c]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ Notwithstanding the revocation of the 1992 Regulations, any medical practitioner
 
 ## Annotations
 
-[^key-c0f2804dc25a9b1ff606a5d07083e62c]: Commencement: Art. 33 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-c0f2804dc25a9b1ff606a5d07083e62c]: Commencement: Art. 33 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00038]: Footnote: Paragraph 50 was amended by [S.I. 1993/540](https://www.legislation.gov.uk/uksi/1993/540), [1997/730](https://www.legislation.gov.uk/uksi/1997/730) and [2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896).
 

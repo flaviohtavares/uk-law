@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Safety at regulated stands at sports grounds[^key-e95f67b0aee1b1da321a686c1302ca63]
+## 31. Safety at regulated stands at sports grounds[^c-e95f67b0aee1b1da321a686c1302ca63]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e95f67b0aee1b1da321a686c1302ca63]: Textual amendment: S. 31 repealed (with effect in accordance with Sch. 39 para. 35 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 33(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/33/b)
+[^c-e95f67b0aee1b1da321a686c1302ca63]: Textual amendment: S. 31 repealed (with effect in accordance with Sch. 39 para. 35 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 33(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/33/b)

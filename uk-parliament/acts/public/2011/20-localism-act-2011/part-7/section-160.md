@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Succession to secure tenancies[^key-9cc41fd823a8a7c65bf81e8a6c6eb737]
+## 160. Succession to secure tenancies[^c-9cc41fd823a8a7c65bf81e8a6c6eb737]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cc41fd823a8a7c65bf81e8a6c6eb737]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2011/20/section/160) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-9cc41fd823a8a7c65bf81e8a6c6eb737]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2011/20/section/160) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

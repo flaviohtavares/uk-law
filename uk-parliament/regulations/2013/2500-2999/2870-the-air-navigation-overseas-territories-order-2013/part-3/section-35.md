@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Equipment of aircraft[^key-e64bccfa083d9eec649109a510f95048]
+## 35. Equipment of aircraft[^c-e64bccfa083d9eec649109a510f95048]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ in accordance with this Order and any regulations made under it.
 
 (2) In the case of any aircraft registered in the Territory the equipment to be provided (in addition to any other equipment required by or under this Order) must—
 
-- (a) comply with instructions given by the Governor under article 74(1)(c)[^key-22273f51e8dec9e6abad9ebd41f2b571] or with the specified requirements as applicable to the purpose and the circumstances of the flight;
+- (a) comply with instructions given by the Governor under article 74(1)(c)[^c-22273f51e8dec9e6abad9ebd41f2b571] or with the specified requirements as applicable to the purpose and the circumstances of the flight;
 - (b) be of a type approved by the Governor either generally or in relation to a class of aircraft or in relation to that aircraft; and
 - (c) be installed in a manner approved by the Governor.
 
@@ -48,6 +48,6 @@ in accordance with this Order and any regulations made under it.
 
 ## Annotations
 
-[^key-e64bccfa083d9eec649109a510f95048]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2013/2870/article/35) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-e64bccfa083d9eec649109a510f95048]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2013/2870/article/35) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-22273f51e8dec9e6abad9ebd41f2b571]: Textual amendment: Word in [art. 35(2)(a)](https://www.legislation.gov.uk/uksi/2013/2870/article/35/2/a) substituted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2014/2925/article/12/2)
+[^c-22273f51e8dec9e6abad9ebd41f2b571]: Textual amendment: Word in [art. 35(2)(a)](https://www.legislation.gov.uk/uksi/2013/2870/article/35/2/a) substituted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2014/2925/article/12/2)

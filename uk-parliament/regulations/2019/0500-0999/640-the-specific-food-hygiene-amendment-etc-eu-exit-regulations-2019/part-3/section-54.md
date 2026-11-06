@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Revocation of Regulation (EU) 636/2014[^key-9f4bf2bad807b05a2ee69a5c8628b20a]
+## 54. Revocation of Regulation (EU) 636/2014[^c-9f4bf2bad807b05a2ee69a5c8628b20a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation (EU) 636/2014 is revoked.
 
 ## Annotations
 
-[^key-9f4bf2bad807b05a2ee69a5c8628b20a]: Commencement: Reg. 54 in force at 31.12.2020 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-9f4bf2bad807b05a2ee69a5c8628b20a]: Commencement: Reg. 54 in force at 31.12.2020 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1

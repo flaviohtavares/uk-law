@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Motor vehicles or trailers carrying loads of exceptional width: requirements as to width[^key-f27173762a41949ed02b8814a93ca939]
+## 31. Motor vehicles or trailers carrying loads of exceptional width: requirements as to width[^c-f27173762a41949ed02b8814a93ca939]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f27173762a41949ed02b8814a93ca939]: Commencement: Art. 31 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-f27173762a41949ed02b8814a93ca939]: Commencement: Art. 31 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

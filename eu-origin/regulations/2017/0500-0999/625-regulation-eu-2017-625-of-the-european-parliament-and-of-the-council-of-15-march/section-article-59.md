@@ -20,22 +20,22 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. Competent authorities[^key-a79418eb094ad3714a6bcca493793811] may[^key-5ae7e0d94328a4b9814ee76bdeb2f7a4] designate border control posts for the purpose of performing official controls on one or more of the categories of animals and goods referred to in Article 47(1).
+1. Competent authorities[^c-a79418eb094ad3714a6bcca493793811] may[^c-5ae7e0d94328a4b9814ee76bdeb2f7a4] designate border control posts for the purpose of performing official controls on one or more of the categories of animals and goods referred to in Article 47(1).
 
-2.[^key-b2194efe1c5f65bf0d3b4f2f80298128] The competent authority must notify the other competent authorities of the constituent territories of the British Islands before designating a border control post.
+2.[^c-b2194efe1c5f65bf0d3b4f2f80298128] The competent authority must notify the other competent authorities of the constituent territories of the British Islands before designating a border control post.
 
-3.[^key-2f2f4409fe9d1a84533b6345efc63f79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-2f2f4409fe9d1a84533b6345efc63f79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-4.[^key-2f2f4409fe9d1a84533b6345efc63f79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-2f2f4409fe9d1a84533b6345efc63f79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-5.[^key-2f2f4409fe9d1a84533b6345efc63f79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-2f2f4409fe9d1a84533b6345efc63f79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a79418eb094ad3714a6bcca493793811]: Textual amendment: Words in [Art. 59(1)](https://www.legislation.gov.uk/eur/2017/625/article/59/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(12)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/12/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-a79418eb094ad3714a6bcca493793811]: Textual amendment: Words in [Art. 59(1)](https://www.legislation.gov.uk/eur/2017/625/article/59/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(12)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/12/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-5ae7e0d94328a4b9814ee76bdeb2f7a4]: Textual amendment: Word in [Art. 59(1)](https://www.legislation.gov.uk/eur/2017/625/article/59/1) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [19](https://www.legislation.gov.uk/uksi/2025/102/regulation/19)
+[^c-5ae7e0d94328a4b9814ee76bdeb2f7a4]: Textual amendment: Word in [Art. 59(1)](https://www.legislation.gov.uk/eur/2017/625/article/59/1) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [19](https://www.legislation.gov.uk/uksi/2025/102/regulation/19)
 
-[^key-b2194efe1c5f65bf0d3b4f2f80298128]: Textual amendment: [Art. 59(2)](https://www.legislation.gov.uk/eur/2017/625/article/59/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(12)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/12/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-b2194efe1c5f65bf0d3b4f2f80298128]: Textual amendment: [Art. 59(2)](https://www.legislation.gov.uk/eur/2017/625/article/59/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(12)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/12/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-2f2f4409fe9d1a84533b6345efc63f79]: Textual amendment: [Art. 59(3)-(5)](https://www.legislation.gov.uk/eur/2017/625/article/59/3) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(12)(c)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/12/c) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-2f2f4409fe9d1a84533b6345efc63f79]: Textual amendment: [Art. 59(3)-(5)](https://www.legislation.gov.uk/eur/2017/625/article/59/3) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(12)(c)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/12/c) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

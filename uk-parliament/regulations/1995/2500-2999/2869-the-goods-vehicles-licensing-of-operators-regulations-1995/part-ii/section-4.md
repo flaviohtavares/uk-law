@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Manner of making applications[^key-ebdc2350de4ce6982d2a5579efc89b1f]
+## 4. Manner of making applications[^c-ebdc2350de4ce6982d2a5579efc89b1f]
 
 *Extent: E+W+S*
 
 Every application shall—
 
-- (a) be made on a form supplied by a traffic commissioner[^key-f454b7775855973a5957c936b88856b8] and contain the information required by that form;
+- (a) be made on a form supplied by a traffic commissioner[^c-f454b7775855973a5957c936b88856b8] and contain the information required by that form;
 - (b) be signed—
   - (i) if made by an individual, by that person,
   - (ii) if made by a firm, by all of the partners of that firm or by one of them with the authority of the others, and
@@ -33,6 +33,6 @@ Every application shall—
 
 ## Annotations
 
-[^key-ebdc2350de4ce6982d2a5579efc89b1f]: Commencement: Reg. 4 in force at 1.1.1996, see reg. 1
+[^c-ebdc2350de4ce6982d2a5579efc89b1f]: Commencement: Reg. 4 in force at 1.1.1996, see reg. 1
 
-[^key-f454b7775855973a5957c936b88856b8]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/uksi/1995/2869/regulation/4/a) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-f454b7775855973a5957c936b88856b8]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/uksi/1995/2869/regulation/4/a) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

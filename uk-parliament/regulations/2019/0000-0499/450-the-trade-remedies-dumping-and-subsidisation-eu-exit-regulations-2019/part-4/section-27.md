@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Determination of injury and causation in accordance with this Part[^key-56b8616f007c54436dbb9a53d182941b]
+## 27. Determination of injury and causation in accordance with this Part[^c-56b8616f007c54436dbb9a53d182941b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56b8616f007c54436dbb9a53d182941b]: Commencement: Reg. 27 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-56b8616f007c54436dbb9a53d182941b]: Commencement: Reg. 27 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

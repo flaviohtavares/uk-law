@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 15 — Transitional and transitory provisions relating to Part 3[^key-6e91c6679391a47ad40c754da0b4e7a4]
+## SCHEDULE 15 — Transitional and transitory provisions relating to Part 3[^c-6e91c6679391a47ad40c754da0b4e7a4]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ Section 99
 
 ## Annotations
 
-[^key-6e91c6679391a47ad40c754da0b4e7a4]: Textual amendment: Sch. 15 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/33); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-6e91c6679391a47ad40c754da0b4e7a4]: Textual amendment: Sch. 15 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2011/21/schedule/5/paragraph/33); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

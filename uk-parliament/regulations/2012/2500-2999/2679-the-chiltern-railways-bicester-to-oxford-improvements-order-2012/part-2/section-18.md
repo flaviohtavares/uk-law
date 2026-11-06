@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Temporary closure of part of Rewley Abbey Stream and Castle Mill Stream[^key-7de6cd2ff55559607271e1e6030fee38]
+## 18. Temporary closure of part of Rewley Abbey Stream and Castle Mill Stream[^c-7de6cd2ff55559607271e1e6030fee38]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7de6cd2ff55559607271e1e6030fee38]: Commencement: Art. 18 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-7de6cd2ff55559607271e1e6030fee38]: Commencement: Art. 18 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

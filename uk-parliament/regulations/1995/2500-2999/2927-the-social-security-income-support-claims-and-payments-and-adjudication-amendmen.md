@@ -44,17 +44,17 @@ Coming into force
 
 The Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 123(1)(a), 135(1), 136(5)(b), 137(1) and (2)(h) and 175(1), (3) and (4) of the Social Security Contributions and Benefits Act 1992[^f00001], sections 5(1)(p), 27(1)(a), 189(1), (4) and (5) and 191 of the Social Security Administration Act 1992[^f00002] and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00003], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-836e5dcdecba65ec6cc6bc983594558f]
+## 1. Citation, commencement and interpretation[^c-836e5dcdecba65ec6cc6bc983594558f]
 
 (1) These Regulations may be cited as the Social Security (Income Support, Claims and Payments and Adjudication) Amendment Regulations 1995 and shall come into force on 12th December 1995.
 
 (2) In these Regulations—
 
 - (a) “the Adjudication Regulations” means the Social Security (Adjudication) Regulations 1995[^f00004];
-- (b)[^key-320a61138dcf875c8346c29550fe48e1] “the Claims and Payments Regulations” means the Social Security (Claims and Payments) Regulations 1987[^f00005]; and
+- (b)[^c-320a61138dcf875c8346c29550fe48e1] “the Claims and Payments Regulations” means the Social Security (Claims and Payments) Regulations 1987[^f00005]; and
 - (c) “the Income Support Regulations” means the Income Support (General) Regulations 1987[^f00006].
 
-## 2. Amendment of the Adjudication Regulations[^key-9d5f5f751f46d67b2ca5d59eeb9ed9e2]
+## 2. Amendment of the Adjudication Regulations[^c-9d5f5f751f46d67b2ca5d59eeb9ed9e2]
 
 After paragraph (6) of regulation 63 of the Adjudication Regulations (review in income support cases) there shall be inserted the following paragraphs—
 
@@ -87,15 +87,15 @@ After paragraph (6) of regulation 63 of the Adjudication Regulations (review in 
 
 .
 
-## 3. Amendment of Schedule 9 to the Claims and Payments Regulations[^key-6934db64f479a2172bb91f5417ffa558][^key-3558b9d96e9514fed5b0cefc849cbe73]
+## 3. Amendment of Schedule 9 to the Claims and Payments Regulations[^c-6934db64f479a2172bb91f5417ffa558][^c-3558b9d96e9514fed5b0cefc849cbe73]
 
 In sub-paragraph (2A) of paragraph 3 of Schedule 9 to the Claims and Payments Regulations[^f00007] (deductions from benefit and direct payment to third parties), before “paragraph 18”in the first place where those words occur, there shall be inserted “paragraph 4(8) or (11) or”.
 
-## 4. Amendment of regulation 3A of the Income Support Regulations[^key-09e833c37dcdfb9528e876bae26025a9]
+## 4. Amendment of regulation 3A of the Income Support Regulations[^c-09e833c37dcdfb9528e876bae26025a9]
 
 In paragraph (1) of regulation 3A of the Income Support Regulations[^f00008] (permitted period for cessation of entitlement to income support), “paragraph 7(10) of Schedule 3,”shall be omitted.
 
-## 5. Amendment of Schedule 3 to the Income Support Regulations[^key-d1807a57d1b4f060c7c9bf03ec5200db]
+## 5. Amendment of Schedule 3 to the Income Support Regulations[^c-d1807a57d1b4f060c7c9bf03ec5200db]
 
 (1) Schedule 3 to the Income Support Regulations[^f00009] (housing costs) shall be amended in accordance with the following paragraphs.
 
@@ -205,7 +205,7 @@ In paragraph (1) of regulation 3A of the Income Support Regulations[^f00008] (pe
 - (b) in sub-paragraph (2), before “work” there shall be inserted “remunerative”;
 - (c) in sub-paragraph (8), before “work” there shall be inserted “remunerative”.
 
-## 6. Amendment of Schedule 9 to the Income Support Regulations[^key-6570b3ef159888fc14d6abc97aa851bc]
+## 6. Amendment of Schedule 9 to the Income Support Regulations[^c-6570b3ef159888fc14d6abc97aa851bc]
 
 In head (d) of sub-paragraph (1) of paragraph 30 of Schedule 9 to the Income Support Regulations (sums to be disregarded in the calculation of income other than earnings), for “that policy” there shall be substituted—
 
@@ -252,29 +252,29 @@ These Regulations do not impose a charge on businesses.
 
 [^f00003]: Footnote: *See*section 173(1)(b) of the Social Security Administration Act [1992(c. 5)](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-836e5dcdecba65ec6cc6bc983594558f]: Commencement: Reg. 1 in force at 12.12.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2927/regulation/1/1)
+[^c-836e5dcdecba65ec6cc6bc983594558f]: Commencement: Reg. 1 in force at 12.12.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2927/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1995/1801](https://www.legislation.gov.uk/uksi/1995/1801).
 
-[^key-320a61138dcf875c8346c29550fe48e1]: Modification: [Reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1995/2927/regulation/1/2/b) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-320a61138dcf875c8346c29550fe48e1]: Modification: [Reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/1995/2927/regulation/1/2/b) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^f00005]: Footnote: S.I. [1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
 [^f00006]: Footnote: S.I. [1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
-[^key-9d5f5f751f46d67b2ca5d59eeb9ed9e2]: Commencement: Reg. 2 in force at 12.12.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2927/regulation/1/1)
+[^c-9d5f5f751f46d67b2ca5d59eeb9ed9e2]: Commencement: Reg. 2 in force at 12.12.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2927/regulation/1/1)
 
-[^key-6934db64f479a2172bb91f5417ffa558]: Commencement: Reg. 3 in force at 12.12.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2927/regulation/1/1)
+[^c-6934db64f479a2172bb91f5417ffa558]: Commencement: Reg. 3 in force at 12.12.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2927/regulation/1/1)
 
-[^key-3558b9d96e9514fed5b0cefc849cbe73]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/2927/regulation/3) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-3558b9d96e9514fed5b0cefc849cbe73]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/2927/regulation/3) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^f00007]: Footnote: Sub-paragraph 3(2A) was inserted by S.I. [1992/1026](https://www.legislation.gov.uk/uksi/1992/1026) and amended by S.I. [1995/1613](https://www.legislation.gov.uk/uksi/1995/1613).
 
-[^key-09e833c37dcdfb9528e876bae26025a9]: Commencement: Reg. 4 in force at 12.12.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2927/regulation/1/1)
+[^c-09e833c37dcdfb9528e876bae26025a9]: Commencement: Reg. 4 in force at 12.12.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2927/regulation/1/1)
 
 [^f00008]: Footnote: Regulation 3A was inserted by S.I. [1989/1678](https://www.legislation.gov.uk/uksi/1989/1678).
 
-[^key-d1807a57d1b4f060c7c9bf03ec5200db]: Commencement: Reg. 5 in force at 12.12.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2927/regulation/1/1)
+[^c-d1807a57d1b4f060c7c9bf03ec5200db]: Commencement: Reg. 5 in force at 12.12.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2927/regulation/1/1)
 
 [^f00009]: Footnote: Schedule 3 was substituted by S.I. [1995/1613](https://www.legislation.gov.uk/uksi/1995/1613).
 
@@ -284,4 +284,4 @@ These Regulations do not impose a charge on businesses.
 
 [^f00012]: Footnote: Relevant amending instruments are S.I. [1988/663](https://www.legislation.gov.uk/uksi/1988/663), [1990/547](https://www.legislation.gov.uk/uksi/1990/547) and [1995/482](https://www.legislation.gov.uk/uksi/1995/482).
 
-[^key-6570b3ef159888fc14d6abc97aa851bc]: Commencement: Reg. 6 in force at 12.12.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2927/regulation/1/1)
+[^c-6570b3ef159888fc14d6abc97aa851bc]: Commencement: Reg. 6 in force at 12.12.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2927/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Traffic regulation[^key-517c83bb7775ea71fb2a5d2e094b0635]
+## 19. Traffic regulation[^c-517c83bb7775ea71fb2a5d2e094b0635]
 
 *Extent: E+W+S*
 
@@ -66,7 +66,7 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-517c83bb7775ea71fb2a5d2e094b0635]: Commencement: Art. 19 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-517c83bb7775ea71fb2a5d2e094b0635]: Commencement: Art. 19 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
 
 [^c24427481]: Marginal citation: [Section 32](https://www.legislation.gov.uk/uksi/2021/74/section/32) was amended by section 102 of, and Schedule 17 to, the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and section 168(1) of, and paragraph 39 of Schedule 8 to, the 1991 Act.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68A. Compensatory measures for relevant offshore wind activity in the Scottish inshore region[^key-605997e4e30aab5d1b9b8ca63249d2c7]
+## 68A. Compensatory measures for relevant offshore wind activity in the Scottish inshore region[^c-605997e4e30aab5d1b9b8ca63249d2c7]
 
 *Extent: S*
 
@@ -81,4 +81,4 @@ the Scottish Ministers must secure that compensatory measures are taken that ben
 
 ## Annotations
 
-[^key-605997e4e30aab5d1b9b8ca63249d2c7]: Textual amendment: [Reg. 68A](https://www.legislation.gov.uk/uksi/2017/1012/regulation/68A) inserted (S.) (25.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/143)](https://www.legislation.gov.uk/ssi/2026/143), [regs. 1](https://www.legislation.gov.uk/ssi/2026/143/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2026/143/regulation/3/3)
+[^c-605997e4e30aab5d1b9b8ca63249d2c7]: Textual amendment: [Reg. 68A](https://www.legislation.gov.uk/uksi/2017/1012/regulation/68A) inserted (S.) (25.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/143)](https://www.legislation.gov.uk/ssi/2026/143), [regs. 1](https://www.legislation.gov.uk/ssi/2026/143/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2026/143/regulation/3/3)

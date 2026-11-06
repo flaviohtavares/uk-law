@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Interpretation[^key-fe91ffe9289d87b7476cd36b0ab776fd]
+## 25. Interpretation[^c-fe91ffe9289d87b7476cd36b0ab776fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ In this Part—
 
 ## Annotations
 
-[^key-fe91ffe9289d87b7476cd36b0ab776fd]: Commencement: Art. 25 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-fe91ffe9289d87b7476cd36b0ab776fd]: Commencement: Art. 25 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00015]: Footnote: S.I. [2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 

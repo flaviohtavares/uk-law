@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 113. Vesting orders[^key-4fd3fd3e579f8462d5a303abcde5c929]
+## 113. Vesting orders[^c-4fd3fd3e579f8462d5a303abcde5c929]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ shall not, where representations objecting to the proposal for making the order 
 
 ## Annotations
 
-[^key-4fd3fd3e579f8462d5a303abcde5c929]: Modification: [Art. 113](https://www.legislation.gov.uk/nisi/1993/3160/article/113) applied (22.4.2013) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 38](https://www.legislation.gov.uk/nia/2011/11/section/38), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2013/104](https://www.legislation.gov.uk/nisr/2013/104), [art. 2(h)](https://www.legislation.gov.uk/nisr/2013/104/article/2/h)
+[^c-4fd3fd3e579f8462d5a303abcde5c929]: Modification: [Art. 113](https://www.legislation.gov.uk/nisi/1993/3160/article/113) applied (22.4.2013) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [ss. 38](https://www.legislation.gov.uk/nia/2011/11/section/38), [48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2); [S.R. 2013/104](https://www.legislation.gov.uk/nisr/2013/104), [art. 2(h)](https://www.legislation.gov.uk/nisr/2013/104/article/2/h)
 
 [^c16867921]: Textual amendment: [1972 c. 9 (N.I.)](https://www.legislation.gov.uk/apni/1972/9)

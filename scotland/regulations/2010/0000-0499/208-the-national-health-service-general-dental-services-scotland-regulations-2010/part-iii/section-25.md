@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Recovery of overpayments[^key-390274d162dc748700b2c60c4f895ff9]
+## 25. Recovery of overpayments[^c-390274d162dc748700b2c60c4f895ff9]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-390274d162dc748700b2c60c4f895ff9]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2010/208/regulation/25) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-390274d162dc748700b2c60c4f895ff9]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2010/208/regulation/25) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)

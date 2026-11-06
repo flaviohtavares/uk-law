@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Recovery of expenses of enforcement[^key-a9d15a3d321418c26e62e740d3fc44cb]
+## 78. Recovery of expenses of enforcement[^c-a9d15a3d321418c26e62e740d3fc44cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9d15a3d321418c26e62e740d3fc44cb]: Commencement: Reg. 78 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-a9d15a3d321418c26e62e740d3fc44cb]: Commencement: Reg. 78 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

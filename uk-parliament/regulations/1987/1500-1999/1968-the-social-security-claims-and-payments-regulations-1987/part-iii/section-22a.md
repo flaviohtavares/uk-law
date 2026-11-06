@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22A. ... Widowed mother’s allowance, widowed parent’s allowance and widow’s pension[^key-ca83eb59e350140ddb49b7bab8dd020d][^key-5efd674fd71224b0c436088eaa5a1ad5]
+## 22A. ... Widowed mother’s allowance, widowed parent’s allowance and widow’s pension[^c-ca83eb59e350140ddb49b7bab8dd020d][^c-5efd674fd71224b0c436088eaa5a1ad5]
 
 *Extent: E+W+S*
 
-(1) Subject to paragraphs (2) and (4), [^key-8ea9e8e11416bc8f8aa2652e7047c595]... widowed mother’s allowance, widowed parent’s allowance and widow’s pension shall be paid fortnightly in arrears on the day of the week specified in paragraph (3).
+(1) Subject to paragraphs (2) and (4), [^c-8ea9e8e11416bc8f8aa2652e7047c595]... widowed mother’s allowance, widowed parent’s allowance and widow’s pension shall be paid fortnightly in arrears on the day of the week specified in paragraph (3).
 
 (2) The Secretary of State may, in any particular case or class of case, arrange that a benefit specified in paragraph (1) be paid on any other day of the week.
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ca83eb59e350140ddb49b7bab8dd020d]: Textual amendment: Reg. 22A - Reg. 22B inserted (6.4.2009) by [The Social Security (Claims and Payments) Amendment Regulations 2009 (S.I. 2009/604)](https://www.legislation.gov.uk/uksi/2009/604), [regs. 1](https://www.legislation.gov.uk/uksi/2009/604/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/604/regulation/2/4)
+[^c-ca83eb59e350140ddb49b7bab8dd020d]: Textual amendment: Reg. 22A - Reg. 22B inserted (6.4.2009) by [The Social Security (Claims and Payments) Amendment Regulations 2009 (S.I. 2009/604)](https://www.legislation.gov.uk/uksi/2009/604), [regs. 1](https://www.legislation.gov.uk/uksi/2009/604/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/604/regulation/2/4)
 
-[^key-5efd674fd71224b0c436088eaa5a1ad5]: Textual amendment: Words in [reg. 22A](https://www.legislation.gov.uk/uksi/1987/1968/regulation/22A) heading omitted (coming into force in accordance with art. 1-3 of the amending S.I.) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2017/422/article/10/8)
+[^c-5efd674fd71224b0c436088eaa5a1ad5]: Textual amendment: Words in [reg. 22A](https://www.legislation.gov.uk/uksi/1987/1968/regulation/22A) heading omitted (coming into force in accordance with art. 1-3 of the amending S.I.) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2017/422/article/10/8)
 
-[^key-8ea9e8e11416bc8f8aa2652e7047c595]: Textual amendment: Words in [reg. 22A(1)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/22A/1) omitted (coming into force in accordance with art. 1-3 of the amending S.I.) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2017/422/article/10/8)
+[^c-8ea9e8e11416bc8f8aa2652e7047c595]: Textual amendment: Words in [reg. 22A(1)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/22A/1) omitted (coming into force in accordance with art. 1-3 of the amending S.I.) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [10(8)](https://www.legislation.gov.uk/uksi/2017/422/article/10/8)

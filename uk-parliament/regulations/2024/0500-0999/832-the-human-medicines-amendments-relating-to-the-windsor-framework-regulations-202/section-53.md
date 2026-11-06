@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Amendment to regulation 65C[^key-45421807db53f6484cd2e96676bf450f]
+## 53. Amendment to regulation 65C[^c-45421807db53f6484cd2e96676bf450f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 65C (variation of a UKMA(GB))[^f00064], in the heading, and in par
 
 ## Annotations
 
-[^key-45421807db53f6484cd2e96676bf450f]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2024/832/regulation/53) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-45421807db53f6484cd2e96676bf450f]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2024/832/regulation/53) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00064]: Footnote: Regulation 65C was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

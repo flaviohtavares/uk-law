@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Confirmation proceedings[^key-edb4e76c23c9e6b9f0acad98b4e26467][^key-67d573d989be7d7aeeefd2792ac7da7a]
+## 182. Confirmation proceedings[^c-edb4e76c23c9e6b9f0acad98b4e26467][^c-67d573d989be7d7aeeefd2792ac7da7a]
 
 *Extent: E+W*
 
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-edb4e76c23c9e6b9f0acad98b4e26467]: Commencement: S. 182 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-edb4e76c23c9e6b9f0acad98b4e26467]: Commencement: S. 182 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-67d573d989be7d7aeeefd2792ac7da7a]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2023/55/section/182) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/i)
+[^c-67d573d989be7d7aeeefd2792ac7da7a]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2023/55/section/182) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Financial provisions[^key-d2ed90e3e4e4dbe3e5adc045255eb788]
+## 53. Financial provisions[^c-d2ed90e3e4e4dbe3e5adc045255eb788]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ There is to be paid out of money provided by Parliament any increase attributabl
 
 ## Annotations
 
-[^key-d2ed90e3e4e4dbe3e5adc045255eb788]: Commencement: S. 53 in force at Royal Assent, see [s. 55(1)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/b)
+[^c-d2ed90e3e4e4dbe3e5adc045255eb788]: Commencement: S. 53 in force at Royal Assent, see [s. 55(1)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/b)

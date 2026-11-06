@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation[^key-8888c2f632e760099049c37a634f2e42]
+## 1. Citation[^c-8888c2f632e760099049c37a634f2e42]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8888c2f632e760099049c37a634f2e42]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/2617) revoked (except for art. 7 and Sch. 5 paras. 5, 7, 11, 12 21, 22, 25(a) and arts. 3, 4 in so far as they relate to art. 7) (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/1) (with [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/a)[(b)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/b))
+[^c-8888c2f632e760099049c37a634f2e42]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/2617) revoked (except for art. 7 and Sch. 5 paras. 5, 7, 11, 12 21, 22, 25(a) and arts. 3, 4 in so far as they relate to art. 7) (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/1) (with [art. 4(2)(a)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/a)[(b)](https://www.legislation.gov.uk/uksi/2013/1765/article/4/2/b))

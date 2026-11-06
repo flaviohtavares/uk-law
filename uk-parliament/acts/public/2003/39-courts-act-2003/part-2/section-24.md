@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Lord Chief Justice[^key-5a5222f816bf99095c1b6cdb2b49ad79] may appoint a person who satisfies the judicial-appointment eligibility condition on a 5-year basis[^c19550801] to be a Deputy District Judge (Magistrates' Courts) for such period as the Lord Chancellor considers appropriate (but subject to subsection (4)).
+(1) The Lord Chief Justice[^c-5a5222f816bf99095c1b6cdb2b49ad79] may appoint a person who satisfies the judicial-appointment eligibility condition on a 5-year basis[^c19550801] to be a Deputy District Judge (Magistrates' Courts) for such period as the Lord Chancellor considers appropriate (but subject to subsection (4)).
 
 (2) A Deputy District Judge (Magistrates' Courts) must, before acting as such, take the oath of allegiance and judicial oath in accordance with the Promissory Oaths Act 1868 and the Promissory Oaths Act 1871.
 
 (3) The Lord Chancellor may pay to a Deputy District Judge (Magistrates' Courts) such remuneration and allowances as he may determine.
 
-(4)[^key-b207d79bf9bbf8d279ada038697f4883] A person may be removed from office as a Deputy District Judge (Magistrates' Courts)—
+(4)[^c-b207d79bf9bbf8d279ada038697f4883] A person may be removed from office as a Deputy District Judge (Magistrates' Courts)—
 
 - (a) only by the Lord Chancellor with the agreement of the Lord Chief Justice, and
 - (b) only on—
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5a5222f816bf99095c1b6cdb2b49ad79]: Textual amendment: Words in s. 24(1) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 38(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/38/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-5a5222f816bf99095c1b6cdb2b49ad79]: Textual amendment: Words in s. 24(1) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 38(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/38/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
 [^c19550801]: Textual amendment: Words in s. 24(1) substituted (21.7.2008) by Tribunals, Courts and Enforcement Act 2007, (c. 15), ss. 50, 148, {Sch. 10 para. 38(3)}; [S.I. 2008/1653](https://www.legislation.gov.uk/uksi/2008/1653), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/1653/article/2/d) (with [arts. 3](https://www.legislation.gov.uk/uksi/2008/1653/article/3), [4](https://www.legislation.gov.uk/uksi/2008/1653/article/4))
 
-[^key-b207d79bf9bbf8d279ada038697f4883]: Textual amendment: S. 24(4)-(4D) substituted for s. 24(4) (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 38(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/38/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-b207d79bf9bbf8d279ada038697f4883]: Textual amendment: S. 24(4)-(4D) substituted for s. 24(4) (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 38(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/38/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)

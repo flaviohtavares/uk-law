@@ -53,7 +53,7 @@ And Whereas the Convention has been ratified by the said Governments and the ins
 
 [^c1765356][^c1765357][^c1765358][^c1765359]And Whereas by section 179(1)(a) and (2) of the Social Security Administration Act 1992 it is provided that Her Majesty may by Order in Council make provision for modifying or adapting that Act, the Social Security Contributions and Benefits Act 1992 and the Jobseekers Act 1995 and regulations made or having effect thereunder in their application to cases affected by agreements with the Governments of countries outside the United Kingdom providing for reciprocity in matters specified in the said section:
 
-Now, therefore, Her Majesty, in pursuance of section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^key-221d680adb98e659a790a98141bd0d40][^key-cafc6b4b79768ff470be6ae0e4b8a53b]
+Now, therefore, Her Majesty, in pursuance of section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^c-221d680adb98e659a790a98141bd0d40][^c-cafc6b4b79768ff470be6ae0e4b8a53b]
 
 ## 1. Citation and commencement
 
@@ -73,7 +73,7 @@ N.H. Nicholls
 
 Clerk of the Privy Council
 
-## SCHEDULE — CONVENTION ON SOCIAL SECURITY BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF MALTA[^key-c9de1731e08bff5cdda1a077519e8596]
+## SCHEDULE — CONVENTION ON SOCIAL SECURITY BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF MALTA[^c-c9de1731e08bff5cdda1a077519e8596]
 
 Article 2
 
@@ -710,9 +710,9 @@ This Order does not impose any costs on business.
 
 [^c1765359]: Marginal citation: *See* section 179(5) of the Social Security Administration Act 1992, as amended by the [Jobseekers Act 1995 (c.18)](https://www.legislation.gov.uk/ukpga/1995/18), [section 41(4)](https://www.legislation.gov.uk/ukpga/1995/18/section/41/4), [Schedule 2](https://www.legislation.gov.uk/ukpga/1995/18/schedule/2), [paragraph 70](https://www.legislation.gov.uk/ukpga/1995/18/paragraph/70).
 
-[^key-221d680adb98e659a790a98141bd0d40]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1996/1927) modified (9.4.2001) by [Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 1](https://www.legislation.gov.uk/uksi/2001/407/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
+[^c-221d680adb98e659a790a98141bd0d40]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1996/1927) modified (9.4.2001) by [Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 1](https://www.legislation.gov.uk/uksi/2001/407/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
 
-[^key-cafc6b4b79768ff470be6ae0e4b8a53b]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1996/1927) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
+[^c-cafc6b4b79768ff470be6ae0e4b8a53b]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1996/1927) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
 
 [^c1765360]: Marginal citation: [S.I. 1956/1897](https://www.legislation.gov.uk/uksi/1956/1897).
 
@@ -726,4 +726,4 @@ This Order does not impose any costs on business.
 
 [^c1765365]: Marginal citation: [S.I. 1995/767](https://www.legislation.gov.uk/uksi/1995/767).
 
-[^key-c9de1731e08bff5cdda1a077519e8596]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/1996/1927/schedule) modified (5.12.2005) by [Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
+[^c-c9de1731e08bff5cdda1a077519e8596]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/1996/1927/schedule) modified (5.12.2005) by [Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)

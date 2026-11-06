@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Disclosure of employer reference information by the Revenue and Customs[^key-c1ecbc72260560612a193dc366d5623d]
+## 77. Disclosure of employer reference information by the Revenue and Customs[^c-c1ecbc72260560612a193dc366d5623d]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1ecbc72260560612a193dc366d5623d]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2017/30/section/77) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/s)
+[^c-c1ecbc72260560612a193dc366d5623d]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2017/30/section/77) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/s)

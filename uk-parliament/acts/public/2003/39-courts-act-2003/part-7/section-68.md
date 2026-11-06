@@ -26,8 +26,8 @@ In this Part “**criminal court**” means—
 - (b) when dealing with any criminal cause or matter—
   - (i) the Crown Court;
   - (ii) a magistrates' court.
-- (c)[^key-1d647985a9c2131af015d9f8c50089d8] the High Court in relation to its jurisdiction under the Extradition Act 2003.
+- (c)[^c-1d647985a9c2131af015d9f8c50089d8] the High Court in relation to its jurisdiction under the Extradition Act 2003.
 
 ## Annotations
 
-[^key-1d647985a9c2131af015d9f8c50089d8]: Textual amendment: S. 68(c) inserted (6.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 174(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/174/1), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2454](https://www.legislation.gov.uk/uksi/2014/2454), [art. 4](https://www.legislation.gov.uk/uksi/2014/2454/article/4)
+[^c-1d647985a9c2131af015d9f8c50089d8]: Textual amendment: S. 68(c) inserted (6.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 174(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/174/1), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2454](https://www.legislation.gov.uk/uksi/2014/2454), [art. 4](https://www.legislation.gov.uk/uksi/2014/2454/article/4)

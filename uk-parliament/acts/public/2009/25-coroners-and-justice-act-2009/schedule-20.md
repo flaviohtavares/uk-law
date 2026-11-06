@@ -22,21 +22,21 @@ summary: ''
 
 Section 175
 
-### Part 1 — Data controllers' registration[^key-8a19422168db44068006f202f8eb3317]
+### Part 1 — Data controllers' registration[^c-8a19422168db44068006f202f8eb3317]
 
 **No longer in force.**
 
-**1.**[^key-8a19422168db44068006f202f8eb3317] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8a19422168db44068006f202f8eb3317] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8a19422168db44068006f202f8eb3317] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8a19422168db44068006f202f8eb3317] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8a19422168db44068006f202f8eb3317] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8a19422168db44068006f202f8eb3317] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8a19422168db44068006f202f8eb3317] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8a19422168db44068006f202f8eb3317] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Assessment notices
 
-**5.**[^key-c0f3275ca0d53fb3a0a8c030153a8f84] (1) Section 48 of that Act (rights of appeal) is amended as follows.
+**5.**[^c-c0f3275ca0d53fb3a0a8c030153a8f84] (1) Section 48 of that Act (rights of appeal) is amended as follows.
 
 (2) In subsection (1) after “enforcement notice” insert “ , an assessment notice ”>.
 
@@ -45,7 +45,7 @@ Section 175
 - (a) after “enforcement notice” insert “ , an assessment notice ”>, and
 - (b) after “40(8)” insert “ , 41B(2) ”>.
 
-**6.**[^key-f8ae0829a195071fca7830564873a63c] In section 67 of that Act (general provision about orders etc under the Act)—
+**6.**[^c-f8ae0829a195071fca7830564873a63c] In section 67 of that Act (general provision about orders etc under the Act)—
 
 - (a) in subsection (4) insert at the appropriate place—
 
@@ -58,7 +58,7 @@ Section 175
 
   .
 
-**7.**[^key-d22bd1d484ab7519d1835da2ac8c5d7c] In section 70(1) of that Act (supplementary definitions) for the definition of “government department” substitute—
+**7.**[^c-d22bd1d484ab7519d1835da2ac8c5d7c] In section 70(1) of that Act (supplementary definitions) for the definition of “government department” substitute—
 
 > “**government department**”includes—
 >
@@ -69,7 +69,7 @@ Section 175
 
 ### Part 3 — Powers to require information
 
-**8.**[^key-9e5fe34a6fedccfb3cc9fa0772fd45fd] (1) Section 43 of that Act (information notices) is amended as follows.
+**8.**[^c-9e5fe34a6fedccfb3cc9fa0772fd45fd] (1) Section 43 of that Act (information notices) is amended as follows.
 
 (2) In subsection (1) for “, within” to the end substitute “ to furnish the Commissioner with specified information relating to the request or to compliance with the principles. ”>
 
@@ -87,7 +87,7 @@ Section 175
 
 (4) In subsection (4) for “the time” to “expire” substitute “ a period specified in an information notice under subsection (1B)(b) must not end, and a time so specified must not fall, ”>.
 
-**9.**[^key-9e85182173c9f634861bf4d1aa788dc2] (1) Section 44 of that Act (special information notices) is amended as follows.
+**9.**[^c-9e85182173c9f634861bf4d1aa788dc2] (1) Section 44 of that Act (special information notices) is amended as follows.
 
 (2) in subsection (1) for “, within” to the end substitute “ to furnish the Commissioner with specified information for the purpose specified in subsection (2). ”>
 
@@ -107,7 +107,7 @@ Section 175
 
 ### Part 4 — Restriction on use of information
 
-**10.**[^key-e219d3be13b2ca7ee13f65ef6ddd22b6] (1) Section 43 of that Act (information notices) is amended as follows.
+**10.**[^c-e219d3be13b2ca7ee13f65ef6ddd22b6] (1) Section 43 of that Act (information notices) is amended as follows.
 
 (2) In subsection (8), for “other than an offence under this Act,” substitute “ , other than an offence under this Act or an offence within subsection (8A), ”.
 
@@ -129,7 +129,7 @@ Section 175
 > - (a) an oral statement, or
 > - (b) a written statement made for the purposes of the requirement.
 
-**11.**[^key-81e03dd60cba35be674735cb44972160] (1) Section 44 of that Act (special information notices) is amended as follows.
+**11.**[^c-81e03dd60cba35be674735cb44972160] (1) Section 44 of that Act (special information notices) is amended as follows.
 
 (2) In subsection (9), for “other than an offence under this Act,” substitute “ , other than an offence under this Act or an offence within subsection (9A), ”.
 
@@ -153,7 +153,7 @@ Section 175
 > - (a) an oral statement, or
 > - (b) a written statement made for the purposes of the requirement.
 
-**12.**[^key-c9a3bc677812ef4df13099fdcf09a4a9] (1) Paragraph 11 of Schedule 7 to that Act (miscellaneous exemptions: self incrimination) is amended as follows.
+**12.**[^c-c9a3bc677812ef4df13099fdcf09a4a9] (1) Paragraph 11 of Schedule 7 to that Act (miscellaneous exemptions: self incrimination) is amended as follows.
 
 (2) In sub-paragraph (1), for “other than an offence under this Act,” substitute “ , other than an offence under this Act or an offence within sub-paragraph (1A), ”.
 
@@ -167,7 +167,7 @@ Section 175
 
 ### Part 5 — Monetary penalties: restriction on matters to be taken into account
 
-**13.**[^key-9bdd72e531af8190df8438f6279a7ba2] In section 55A of that Act (power of Commissioner to impose monetary penalties), after subsection (3) insert—
+**13.**[^c-9bdd72e531af8190df8438f6279a7ba2] In section 55A of that Act (power of Commissioner to impose monetary penalties), after subsection (3) insert—
 
 > (3A) The Commissioner may not be satisfied as mentioned in subsection (1) by virtue of any matter which comes to the Commissioner's attention as a result of anything done in pursuance of—
 >
@@ -176,7 +176,7 @@ Section 175
 
 ### Part 6 — Warrant for entry and inspection
 
-**14.**[^key-903e726565444a1c3946c4092f36ee92] (1) Schedule 9 to that Act (powers of entry and inspection) is amended as follows.
+**14.**[^c-903e726565444a1c3946c4092f36ee92] (1) Schedule 9 to that Act (powers of entry and inspection) is amended as follows.
 
 (2) After sub-paragraph (1) of paragraph 1 insert—
 
@@ -230,24 +230,24 @@ Section 175
 
 ## Annotations
 
-[^key-8a19422168db44068006f202f8eb3317]: Textual amendment: [Sch. 20 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/part/1) repealed (25.5.2018) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 111(9)(d)](https://www.legislation.gov.uk/ukpga/2017/30/section/111/9/d), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/624](https://www.legislation.gov.uk/uksi/2018/624), [reg. 2](https://www.legislation.gov.uk/uksi/2018/624/regulation/2)
+[^c-8a19422168db44068006f202f8eb3317]: Textual amendment: [Sch. 20 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/part/1) repealed (25.5.2018) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 111(9)(d)](https://www.legislation.gov.uk/ukpga/2017/30/section/111/9/d), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/624](https://www.legislation.gov.uk/uksi/2018/624), [reg. 2](https://www.legislation.gov.uk/uksi/2018/624/regulation/2)
 
-[^key-c0f3275ca0d53fb3a0a8c030153a8f84]: Commencement: [Sch. 20 para. 5](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/5) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
+[^c-c0f3275ca0d53fb3a0a8c030153a8f84]: Commencement: [Sch. 20 para. 5](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/5) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
 
-[^key-f8ae0829a195071fca7830564873a63c]: Commencement: [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/6) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
+[^c-f8ae0829a195071fca7830564873a63c]: Commencement: [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/6) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
 
-[^key-d22bd1d484ab7519d1835da2ac8c5d7c]: Commencement: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/7) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
+[^c-d22bd1d484ab7519d1835da2ac8c5d7c]: Commencement: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/7) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
 
-[^key-9e5fe34a6fedccfb3cc9fa0772fd45fd]: Commencement: [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/8) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
+[^c-9e5fe34a6fedccfb3cc9fa0772fd45fd]: Commencement: [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/8) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
 
-[^key-9e85182173c9f634861bf4d1aa788dc2]: Commencement: [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/9) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
+[^c-9e85182173c9f634861bf4d1aa788dc2]: Commencement: [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/9) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
 
-[^key-e219d3be13b2ca7ee13f65ef6ddd22b6]: Commencement: [Sch. 20 para. 10](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/10) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
+[^c-e219d3be13b2ca7ee13f65ef6ddd22b6]: Commencement: [Sch. 20 para. 10](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/10) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
 
-[^key-81e03dd60cba35be674735cb44972160]: Commencement: [Sch. 20 para. 11](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/11) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
+[^c-81e03dd60cba35be674735cb44972160]: Commencement: [Sch. 20 para. 11](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/11) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
 
-[^key-c9a3bc677812ef4df13099fdcf09a4a9]: Commencement: [Sch. 20 para. 12](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/12) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
+[^c-c9a3bc677812ef4df13099fdcf09a4a9]: Commencement: [Sch. 20 para. 12](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/12) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
 
-[^key-9bdd72e531af8190df8438f6279a7ba2]: Commencement: [Sch. 20 para. 13](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/13) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
+[^c-9bdd72e531af8190df8438f6279a7ba2]: Commencement: [Sch. 20 para. 13](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/13) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
 
-[^key-903e726565444a1c3946c4092f36ee92]: Commencement: [Sch. 20 para. 14](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/14) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)
+[^c-903e726565444a1c3946c4092f36ee92]: Commencement: [Sch. 20 para. 14](https://www.legislation.gov.uk/ukpga/2009/25/schedule/20/paragraph/14) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/19)

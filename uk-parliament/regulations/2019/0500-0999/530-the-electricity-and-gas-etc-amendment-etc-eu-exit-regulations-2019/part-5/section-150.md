@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. The Electricity Regulation[^key-022e38d71b59d9d847bf4e563caecae3]
+## 150. The Electricity Regulation[^c-022e38d71b59d9d847bf4e563caecae3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-022e38d71b59d9d847bf4e563caecae3]: Textual amendment: Reg. 150 omitted (15.9.2020) by virtue of [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(57)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/57)
+[^c-022e38d71b59d9d847bf4e563caecae3]: Textual amendment: Reg. 150 omitted (15.9.2020) by virtue of [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(57)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/57)

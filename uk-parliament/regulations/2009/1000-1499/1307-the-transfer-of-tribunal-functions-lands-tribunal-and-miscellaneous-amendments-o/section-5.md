@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Consequential and transitional provisions[^key-045cca75ea4d34824863c124369c3802]
+## 5. Consequential and transitional provisions[^c-045cca75ea4d34824863c124369c3802]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Schedule 1 contains amendments to primary legislation.
 
-(3)[^key-0281e872a32e80bfc48bbf97af603c4f] Schedule 2 contains amendments to secondary legislation. *(affected by repeal, see note)*[^key-0281e872a32e80bfc48bbf97af603c4f]
+(3)[^c-0281e872a32e80bfc48bbf97af603c4f] Schedule 2 contains amendments to secondary legislation. *(affected by repeal, see note)*[^c-0281e872a32e80bfc48bbf97af603c4f]
 
 (4) Schedule 3 contains amendments to Church of England measures.
 
@@ -34,10 +34,10 @@ summary: ''
 
 ## Annotations
 
-[^key-045cca75ea4d34824863c124369c3802]: Commencement: Art. 5 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)
+[^c-045cca75ea4d34824863c124369c3802]: Commencement: Art. 5 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)
 
 [^f00003]: Footnote: [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
 
 [^f00004]: Footnote: [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56).
 
-[^key-0281e872a32e80bfc48bbf97af603c4f]: Textual amendment: Art. 5(3) revoked in part (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pts. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1), [2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-0281e872a32e80bfc48bbf97af603c4f]: Textual amendment: Art. 5(3) revoked in part (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pts. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1), [2](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/2) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))

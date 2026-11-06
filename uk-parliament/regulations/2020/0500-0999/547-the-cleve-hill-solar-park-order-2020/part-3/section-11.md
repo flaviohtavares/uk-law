@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Temporary stopping up of public rights of way[^key-00db7ae74dc2ec331e9cf77f21c69ee9]
+## 11. Temporary stopping up of public rights of way[^c-00db7ae74dc2ec331e9cf77f21c69ee9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The undertaker may, in connection with the carrying out of the authorised develo
 
 ## Annotations
 
-[^key-00db7ae74dc2ec331e9cf77f21c69ee9]: Commencement: Art. 11 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-00db7ae74dc2ec331e9cf77f21c69ee9]: Commencement: Art. 11 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Certificates, subscription books and records[^key-ff511959b810d8f03cebb777ab2771ff]
+## 20. Certificates, subscription books and records[^c-ff511959b810d8f03cebb777ab2771ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff511959b810d8f03cebb777ab2771ff]: Commencement: Reg. 20 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-ff511959b810d8f03cebb777ab2771ff]: Commencement: Reg. 20 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

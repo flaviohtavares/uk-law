@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Limitations on scope of directions under sections 21 to 24.[^key-e3c8918e5172a077a428b5078248b9a0]
+## 26. Limitations on scope of directions under sections 21 to 24.[^c-e3c8918e5172a077a428b5078248b9a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (5) In so far as a direction requires anything to be done or not done at a place outside the United Kingdom—
 
-- (a)[^key-84a835e63f32eec328056f20d7998585] it shall have effect only in relation to—
+- (a)[^c-84a835e63f32eec328056f20d7998585] it shall have effect only in relation to—
   - (i) British ships, or
   - (ii) a requirement not to cause or permit a ship to enter a harbour area unless certain things have, or have not, been done, and
 - (b) it shall not have effect so as to require anything to be done or not done in contravention of any provision of the law (whether civil or criminal) in force at that place, other than any such provision relating to breach of contract.
@@ -49,8 +49,8 @@ and accordingly, the direction shall not be construed as requiring the person to
 
 ## Annotations
 
-[^key-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
+[^c-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
 
 [^c10457961]: Textual amendment: Words in s. 26(1) inserted (1.7.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 25](https://www.legislation.gov.uk/ukpga/1997/28/section/25), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/1997/28/schedule/4/paragraph/6); [S.I. 1997/1539](https://www.legislation.gov.uk/uksi/1997/1539), [art. 2](https://www.legislation.gov.uk/uksi/1997/1539/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1539/schedule)
 
-[^key-84a835e63f32eec328056f20d7998585]: Textual amendment: [S. 26(5)(a)](https://www.legislation.gov.uk/ukpga/1990/31/section/26/5/a) substituted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 12(4)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/12/4); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1729/regulation/2)
+[^c-84a835e63f32eec328056f20d7998585]: Textual amendment: [S. 26(5)(a)](https://www.legislation.gov.uk/ukpga/1990/31/section/26/5/a) substituted (1.10.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(3)(c)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/c), [Sch. 5 para. 12(4)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/12/4); [S.I. 2015/1729](https://www.legislation.gov.uk/uksi/2015/1729), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1729/regulation/2)

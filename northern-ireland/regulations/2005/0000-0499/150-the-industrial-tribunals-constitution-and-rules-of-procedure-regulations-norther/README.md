@@ -27,19 +27,19 @@ summary: ''
 
 2005 No. 150
 
-EMPLOYMENT *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338]
+EMPLOYMENT *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338]
 
-The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338]
+The Industrial Tribunals (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2005 *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338]
 
-Made *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338]
+Made *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338]
 
-22nd March 2005 *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338]
+22nd March 2005 *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338]
 
-Coming into operation *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338]
+Coming into operation *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338]
 
-3rd April 2005 *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338]
+3rd April 2005 *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338]
 
-The Department for Employment and Learning *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338][^f00001], in exercise of the powers conferred on it by Article 26(1) of the Health and Safety at Work (Northern Ireland) Order 1978 *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338][^f00002], Articles 3(1), 6(6) *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338][^f00003] and (6A) *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338][^f00004], 9(1), (2), (3)[^f00005], (3ZA) *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338][^f00006], (3A)[^f00007] and (5), 9A(1) and (2) *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338][^f00008], 11(1)[^f00009], (2) and (4), 12(2), (5), (6) and (7), 12A(1) *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338][^f00010], 13(1), 14(2), 15(1), (1A), (1B), (1C)[^f00011] and (2), 15A *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338][^f00012], 21[^f00013] and 25(5) of the Industrial Tribunals (Northern Ireland) Order 1996 *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338][^f00014], and now vested in it *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338][^f00015], and of all other powers enabling it in that behalf, hereby makes the following Regulations: *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338][^key-718d5191672b44b6dafbf1ba331d885f][^key-d1a9e97ab5de6ea9191860612ced7408][^key-74f4687b40d87dd0c98946f93442aa2d][^key-2453636a755c801589fb46c8f8eeb157][^key-f8fbb18b9d989ec27d2f279a12490554][^key-195901f32a48912408133366d24163dd][^key-f38869b253c4bd0d3e6e7ffeb3ff6ea8]
+The Department for Employment and Learning *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338][^f00001], in exercise of the powers conferred on it by Article 26(1) of the Health and Safety at Work (Northern Ireland) Order 1978 *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338][^f00002], Articles 3(1), 6(6) *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338][^f00003] and (6A) *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338][^f00004], 9(1), (2), (3)[^f00005], (3ZA) *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338][^f00006], (3A)[^f00007] and (5), 9A(1) and (2) *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338][^f00008], 11(1)[^f00009], (2) and (4), 12(2), (5), (6) and (7), 12A(1) *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338][^f00010], 13(1), 14(2), 15(1), (1A), (1B), (1C)[^f00011] and (2), 15A *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338][^f00012], 21[^f00013] and 25(5) of the Industrial Tribunals (Northern Ireland) Order 1996 *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338][^f00014], and now vested in it *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338][^f00015], and of all other powers enabling it in that behalf, hereby makes the following Regulations: *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338][^c-718d5191672b44b6dafbf1ba331d885f][^c-d1a9e97ab5de6ea9191860612ced7408][^c-74f4687b40d87dd0c98946f93442aa2d][^c-2453636a755c801589fb46c8f8eeb157][^c-f8fbb18b9d989ec27d2f279a12490554][^c-195901f32a48912408133366d24163dd][^c-f38869b253c4bd0d3e6e7ffeb3ff6ea8]
 
 ## Contents
 
@@ -68,13 +68,13 @@ The Department for Employment and Learning *(affected by repeal, see note)*[^key
 
 *Extent: N.I.*
 
-Sealed with the Official Seal of the Department for Employment and Learning on 22nd March 2005. *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338]
+Sealed with the Official Seal of the Department for Employment and Learning on 22nd March 2005. *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338]
 
-T. Devine *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338]
+T. Devine *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338]
 
-A senior officer of the *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338]
+A senior officer of the *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338]
 
-Department for Employment and Learning *(affected by repeal, see note)*[^key-4878625fac4cccf854b59a648a78d338]
+Department for Employment and Learning *(affected by repeal, see note)*[^c-4878625fac4cccf854b59a648a78d338]
 
 *Extent: N.I.*
 
@@ -160,7 +160,7 @@ A Regulatory Impact Assessment in respect of these Regulations is available and 
 
 ## Annotations
 
-[^key-4878625fac4cccf854b59a648a78d338]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/150) revoked (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/1) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
+[^c-4878625fac4cccf854b59a648a78d338]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/150) revoked (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/1) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
 
 [^f00001]: Footnote: Formerly the Department of Higher and Further Education, Training and Employment; *see* [2001 c. 15 (N.I.)](https://www.legislation.gov.uk/nia/2001/15)
 
@@ -192,16 +192,16 @@ A Regulatory Impact Assessment in respect of these Regulations is available and 
 
 [^f00015]: Footnote: *See* [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-718d5191672b44b6dafbf1ba331d885f]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/150) applied (31.8.2006) by [The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2006 (S.R. 2006/277)](https://www.legislation.gov.uk/nisr/2006/277), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2006/277/article/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2006/277/article/6/5)
+[^c-718d5191672b44b6dafbf1ba331d885f]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/150) applied (31.8.2006) by [The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2006 (S.R. 2006/277)](https://www.legislation.gov.uk/nisr/2006/277), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2006/277/article/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2006/277/article/6/5)
 
-[^key-d1a9e97ab5de6ea9191860612ced7408]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/150) applied (31.8.2007) by [The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2007 (S.R. 2007/343)](https://www.legislation.gov.uk/nisr/2007/343), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2007/343/article/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2007/343/article/6/5)
+[^c-d1a9e97ab5de6ea9191860612ced7408]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/150) applied (31.8.2007) by [The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2007 (S.R. 2007/343)](https://www.legislation.gov.uk/nisr/2007/343), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2007/343/article/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2007/343/article/6/5)
 
-[^key-74f4687b40d87dd0c98946f93442aa2d]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/150) applied (31.8.2008) by [The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2008 (S.R. 2008/294)](https://www.legislation.gov.uk/nisr/2008/294), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2008/294/article/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2008/294/article/6/5)
+[^c-74f4687b40d87dd0c98946f93442aa2d]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/150) applied (31.8.2008) by [The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2008 (S.R. 2008/294)](https://www.legislation.gov.uk/nisr/2008/294), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2008/294/article/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2008/294/article/6/5)
 
-[^key-2453636a755c801589fb46c8f8eeb157]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/150) applied (31.8.2009) by [The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2009 (S.R. 2009/271)](https://www.legislation.gov.uk/nisr/2009/271), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2009/271/article/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2009/271/article/6/5)
+[^c-2453636a755c801589fb46c8f8eeb157]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/150) applied (31.8.2009) by [The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2009 (S.R. 2009/271)](https://www.legislation.gov.uk/nisr/2009/271), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2009/271/article/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2009/271/article/6/5)
 
-[^key-f8fbb18b9d989ec27d2f279a12490554]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/150) applied (31.8.2010) by [The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2010 (S.R. 2010/219)](https://www.legislation.gov.uk/nisr/2010/219), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2010/219/article/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2010/219/article/6/5)
+[^c-f8fbb18b9d989ec27d2f279a12490554]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/150) applied (31.8.2010) by [The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2010 (S.R. 2010/219)](https://www.legislation.gov.uk/nisr/2010/219), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2010/219/article/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2010/219/article/6/5)
 
-[^key-195901f32a48912408133366d24163dd]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/150) applied (31.8.2012) by [The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2012 (S.R. 2012/245)](https://www.legislation.gov.uk/nisr/2012/245), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/245/article/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2012/245/article/6/5)
+[^c-195901f32a48912408133366d24163dd]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/150) applied (31.8.2012) by [The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2012 (S.R. 2012/245)](https://www.legislation.gov.uk/nisr/2012/245), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/245/article/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2012/245/article/6/5)
 
-[^key-f38869b253c4bd0d3e6e7ffeb3ff6ea8]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/150) applied (31.8.2014) by [The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2014 (S.R. 2014/173)](https://www.legislation.gov.uk/nisr/2014/173), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2014/173/article/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2014/173/article/6/5)
+[^c-f38869b253c4bd0d3e6e7ffeb3ff6ea8]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2005/150) applied (31.8.2014) by [The Industrial Training Levy (Construction Industry) Order (Northern Ireland) 2014 (S.R. 2014/173)](https://www.legislation.gov.uk/nisr/2014/173), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2014/173/article/1/1), [6(5)](https://www.legislation.gov.uk/nisr/2014/173/article/6/5)

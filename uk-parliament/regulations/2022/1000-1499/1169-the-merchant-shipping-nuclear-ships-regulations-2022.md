@@ -52,7 +52,7 @@ The Secretary of State, after consulting the persons referred to in section 86(4
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement, extent and amendments[^key-09c302631d6ff2b593cd9f9847204ccf]
+### 1. Citation, commencement, extent and amendments[^c-09c302631d6ff2b593cd9f9847204ccf]
 
 (1) These Regulations may be cited as the Merchant Shipping (Nuclear Ships) Regulations 2022 and come into force on 8th December 2022.
 
@@ -60,7 +60,7 @@ The Secretary of State, after consulting the persons referred to in section 86(4
 
 (3) The amendments listed in the Schedule have effect.
 
-### 2. Interpretation[^key-892ca6d02a618d7dc30055b8edf9e614]
+### 2. Interpretation[^c-892ca6d02a618d7dc30055b8edf9e614]
 
 (1) In these Regulations—
 
@@ -95,7 +95,7 @@ The Secretary of State, after consulting the persons referred to in section 86(4
 
 (3) Any reference in the Nuclear Code to a matter that is expressed as a matter that “should” be discharged, must be read as an obligation to discharge.
 
-### 3. Application[^key-7a6e49ef85f45f7f11b80346e469f9c5]
+### 3. Application[^c-7a6e49ef85f45f7f11b80346e469f9c5]
 
 (1) Subject to paragraphs (2) and (3), these Regulations apply to nuclear ships which are—
 
@@ -109,7 +109,7 @@ The Secretary of State, after consulting the persons referred to in section 86(4
 
 (3) A non-United Kingdom nuclear ship flying the flag of a State which is not a Convention country is not subject to these Regulations if it would not have been in United Kingdom waters but for stress of weather or any other circumstances which the master, owner or charterer could not have prevented.
 
-### 4. Ambulatory reference[^key-9e8bea9b9b0b6b0362a9cf8e2ac32952]
+### 4. Ambulatory reference[^c-9e8bea9b9b0b6b0362a9cf8e2ac32952]
 
 (1) In these Regulations, any reference to Chapter I or Chapter VIII is to be construed—
 
@@ -120,7 +120,7 @@ The Secretary of State, after consulting the persons referred to in section 86(4
 
 (3) A modification or replacement of Chapter I or Chapter VIII has effect at the time such modification or replacement comes into force in accordance with Article VIII of the Convention.
 
-### 5. Equivalents[^key-170431b5dcd0b13d0739200a794eff64]
+### 5. Equivalents[^c-170431b5dcd0b13d0739200a794eff64]
 
 (1) Where these Regulations or the Nuclear Code require that—
 
@@ -146,7 +146,7 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 
 (5) An approval given under paragraph (1), or a continuation, alteration or cancellation under paragraph (2), must be recorded in the safety assessment referred to in regulation 13 (safety assessment – operational requirements).
 
-### 6. Approvals[^key-2a5825c534ca02da15bfcb145fdf6293]
+### 6. Approvals[^c-2a5825c534ca02da15bfcb145fdf6293]
 
 (1) The Secretary of State, or any person authorised by the Secretary of State, may give an approval in relation to a United Kingdom nuclear ship for anything in the Nuclear Code requiring to be—
 
@@ -159,7 +159,7 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 - (a) paragraph (1);
 - (b) regulation 7 (safety assessment);
 - (c) regulation 10 (approval of reactor installation);
-- (ca)[^key-d445568b81f0ad9fe1ace17356690cad] regulation 13(3) (approval of change to safety assessment in operational phase);
+- (ca)[^c-d445568b81f0ad9fe1ace17356690cad] regulation 13(3) (approval of change to safety assessment in operational phase);
 - (d) regulation 14 (operating manual);
 - (e) regulation 18(1) (manning and training); or
 - (f) regulation 20 (surveys of United Kingdom nuclear ships),
@@ -180,7 +180,7 @@ may, on the giving of reasonable notice, be continued, altered or cancelled.
 
 ## PART 2 — Special requirements for nuclear ships
 
-### 7. Safety assessment[^key-464bc69768230387f03d69f3bb2b387d]
+### 7. Safety assessment[^c-464bc69768230387f03d69f3bb2b387d]
 
 (1) A United Kingdom nuclear ship must not be constructed unless a safety assessment has been prepared and approved by the Secretary of State.
 
@@ -197,7 +197,7 @@ may, on the giving of reasonable notice, be continued, altered or cancelled.
 
 (4) For the purposes of this regulation, “**nuclear power plant**” means that part of the reactor installation that produces steam for propulsion.
 
-### 8. Design and construction of nuclear ships[^key-f998123ea8e9dc3fbbe16796ff0f07dc]
+### 8. Design and construction of nuclear ships[^c-f998123ea8e9dc3fbbe16796ff0f07dc]
 
 A nuclear ship must be designed and constructed in accordance with the following provisions of the Nuclear Code—
 
@@ -208,15 +208,15 @@ A nuclear ship must be designed and constructed in accordance with the following
 - (e) Chapter 5 (machinery and electrical installations); and
 - (f) paragraphs 6.2, 6.4.1 to 6.4.5, 6.4.9, 6.4.10, 6.5.1 to 6.5.9, 6.6.2, 6.7.3, 6.8.1, 6.8.4, 6.9 and 6.10 in Chapter 6 (radiation safety).
 
-### 9. Suitability of reactor installation for service on board a ship[^key-89e9ec549f36850c09bcd7d9aab4a7b6]
+### 9. Suitability of reactor installation for service on board a ship[^c-89e9ec549f36850c09bcd7d9aab4a7b6]
 
 The reactor installation must be designed having regard to the special conditions of service on board a nuclear ship in both normal and exceptional circumstances of navigation.
 
-### 10. Approval of reactor installation[^key-356546cdb1899761ff415e81b0877e9e]
+### 10. Approval of reactor installation[^c-356546cdb1899761ff415e81b0877e9e]
 
 For the purposes of the operation of a United Kingdom nuclear ship, the design, construction, and standards of inspection and assembly of the reactor installation must be approved by the Secretary of State, or any person authorised by the Secretary of State, taking into account the limitations on surveys of the reactor installation as a consequence of the presence of radiation.
 
-### 11. Radiation safety[^key-57bb7fff128a8fdb7cdc1ac7afb5df13]
+### 11. Radiation safety[^c-57bb7fff128a8fdb7cdc1ac7afb5df13]
 
 (1) A nuclear ship must comply with each of the following requirements relating to radiation safety in Chapter 6 of the Nuclear Code (radiation safety)—
 
@@ -229,13 +229,13 @@ that applies to that ship.
 
 ## PART 3 — Operating requirements for nuclear ships
 
-### 12. General operating requirements for nuclear ships[^key-250a560264d3e0d55b67fb739c178ba9]
+### 12. General operating requirements for nuclear ships[^c-250a560264d3e0d55b67fb739c178ba9]
 
 (1) Subject to the particular operating requirements in this Part, a nuclear ship must be operated in accordance with the operating requirements in paragraph 7.1 in Chapter 7 of the Nuclear Code (operating requirements for a nuclear merchant ship).
 
 (2) For the purposes of paragraph (1), where there is a conflict between the requirements of the REPPIR regulations and paragraph (1), the requirements of the REPPIR regulations take precedence.
 
-### 13. Safety assessment – operational requirements[^key-e588d45e23ede6c8173e9010f8e60341]
+### 13. Safety assessment – operational requirements[^c-e588d45e23ede6c8173e9010f8e60341]
 
 (1) A nuclear ship must be operated in compliance with the required safety assessment, which—
 
@@ -254,7 +254,7 @@ that applies to that ship.
 
 (5) The safety assessment must be made available to the Secretary of State at least 12 months before the arrival of a nuclear ship in United Kingdom waters.
 
-### 14. Operating manual[^key-3877bf9ec01ec223818f92206475aa2c]
+### 14. Operating manual[^c-3877bf9ec01ec223818f92206475aa2c]
 
 (1) An operating manual for a nuclear ship must—
 
@@ -285,7 +285,7 @@ that applies to that ship.
 - (b) kept on board the nuclear ship;
 - (c) readily available for examination at all times.
 
-### 15. Additional operating documentation[^key-a66f0ad2b03cefe675fb4bd2e16a26f9]
+### 15. Additional operating documentation[^c-a66f0ad2b03cefe675fb4bd2e16a26f9]
 
 (1) In addition to the safety assessment required by regulations 7 (safety assessment) and 13 (safety assessment – operational requirements), the operating manual required by regulation 14 (operating manual) and the Nuclear Ship Safety Certificate required by regulation 21 (certification of nuclear ships), a nuclear ship must hold operating documentation reflecting the specific features of the construction and operation of the nuclear ship and which include the following operating documentation—
 
@@ -309,15 +309,15 @@ that applies to that ship.
 
 (6) A schedule of surveys, functional tests, maintenance and repairs of the nuclear steam supply system equipment must be maintained in accordance with paragraph 7.2.6 in Chapter 7 of the Nuclear Code (information relating to nuclear steam supply system equipment).
 
-### 16. Emergency operation procedures[^key-f9940d6750fd11ce17ef7bdd034e71ed]
+### 16. Emergency operation procedures[^c-f9940d6750fd11ce17ef7bdd034e71ed]
 
 In the event of an emergency situation, the procedures contained in paragraph 7.4 in Chapter 7 of the Nuclear Code (emergency operation procedures) must be followed.
 
-### 17. Maintenance and repair[^key-82d111c618983cef50b8f8a30ea56c86]
+### 17. Maintenance and repair[^c-82d111c618983cef50b8f8a30ea56c86]
 
 Maintenance and repair of a nuclear ship must be carried out in accordance with paragraph 7.5 in Chapter 7 of the Nuclear Code (maintenance and repair).
 
-### 18. Manning and training[^key-08c29115140e3e03f8053169c18d02f3]
+### 18. Manning and training[^c-08c29115140e3e03f8053169c18d02f3]
 
 (1) The crew of a nuclear ship must comprise—
 
@@ -370,7 +370,7 @@ the Secretary of State must give notice in writing to that person.
 - (c) advertise or otherwise display an approval given by the Secretary of State under this regulation, which has expired, or has not been given to that person under this regulation;
 - (d) fail to surrender an approval required to be surrendered under paragraph (11).
 
-### 19. Appeal against refusal, alteration, suspension or cancellation of an approval[^key-9d9e3ad9f94ad6cfdd944dd05c129973]
+### 19. Appeal against refusal, alteration, suspension or cancellation of an approval[^c-9d9e3ad9f94ad6cfdd944dd05c129973]
 
 (1) A person—
 
@@ -383,7 +383,7 @@ may, within 21 days after receiving notice of such decision and before the date 
 
 ## PART 4 — Survey and certification of nuclear ships
 
-### 20. Surveys of United Kingdom nuclear ships[^key-a7680dac638ccbe70d4287341e8b4894]
+### 20. Surveys of United Kingdom nuclear ships[^c-a7680dac638ccbe70d4287341e8b4894]
 
 (1) A United Kingdom nuclear ship must comply with the following requirements in Chapter 8 of the Nuclear Code (surveys)—
 
@@ -409,7 +409,7 @@ may, within 21 days after receiving notice of such decision and before the date 
 
 (6) A United Kingdom nuclear ship must be subjected to a renewal survey before the end of every period of 12 months following the issue of the ship’s Nuclear Ship Safety Certificate, or the renewal of it, and the renewal survey must include the matters referred to in the specification of the initial survey in paragraph (5).
 
-(7)[^key-8f6c0208b60d4f394974a501bb54c9ef] Notwithstanding the requirement for a renewal survey in paragraph (6), and subject to paragraph (8), a United Kingdom nuclear ship must be subjected to the supplemental periodical surveys, and at the frequencies specified, in paragraphs 8.4.3.1 to 8.4.3.4 in Chapter 8 of the Nuclear Code (periodical surveys of the nuclear steam supply system and supporting hull structure).
+(7)[^c-8f6c0208b60d4f394974a501bb54c9ef] Notwithstanding the requirement for a renewal survey in paragraph (6), and subject to paragraph (8), a United Kingdom nuclear ship must be subjected to the supplemental periodical surveys, and at the frequencies specified, in paragraphs 8.4.3.1 to 8.4.3.4 in Chapter 8 of the Nuclear Code (periodical surveys of the nuclear steam supply system and supporting hull structure).
 
 (8) A United Kingdom nuclear ship may be subjected to continuous surveys in accordance with paragraph 8.4.3.5 in Chapter 8 of the Nuclear Code—
 
@@ -420,7 +420,7 @@ in place of the supplemental periodical surveys required by paragraph (7).
 
 (8A) Where continuous surveys are requested or approved in accordance with paragraph (8), a United Kingdom nuclear ship must be subjected to those continuous surveys.
 
-(9) Notwithstanding the requirements of paragraphs (6), (7) and (8A)[^key-9898e27b9b4624b21f471092fb8516f0], a United Kingdom nuclear ship must be subjected to the special surveys described in paragraph 8.5 in Chapter 8 of the Nuclear Code (special surveys, repairs, renewals and modifications).
+(9) Notwithstanding the requirements of paragraphs (6), (7) and (8A)[^c-9898e27b9b4624b21f471092fb8516f0], a United Kingdom nuclear ship must be subjected to the special surveys described in paragraph 8.5 in Chapter 8 of the Nuclear Code (special surveys, repairs, renewals and modifications).
 
 (10) The requirement for a survey under paragraphs (2) to (4) and (6) to (9) is subject to the presence of potentially harmful levels of radiation on the ship.
 
@@ -436,7 +436,7 @@ in place of the supplemental periodical surveys required by paragraph (7).
 
 (13) For the purposes of this regulation, “**construction phase**”, “**operations phase**” and “**trial phase**” have the meanings given to them in paragraph 8.1.2 in Chapter 8 of the Nuclear Code (phases of ship’s life cycle).
 
-### 21. Certification of nuclear ships[^key-c3e5c3a161a1696f297a26ec50ea1a6d]
+### 21. Certification of nuclear ships[^c-c3e5c3a161a1696f297a26ec50ea1a6d]
 
 (1) Subject to payment of the prescribed fee for a survey and on being notified that the surveyor—
 
@@ -454,13 +454,13 @@ a Certifying Authority must issue a Nuclear Ship Safety Certificate in respect o
 
 (4) A certificate mentioned in paragraph (3)(a) or (b) must be readily available for examination at all times.
 
-### 22. Duration and validity of a Nuclear Ship Safety Certificate[^key-5e37dad3a3775b60c92a7955e3c03764]
+### 22. Duration and validity of a Nuclear Ship Safety Certificate[^c-5e37dad3a3775b60c92a7955e3c03764]
 
 (1) Subject to paragraph (2), a Nuclear Ship Safety Certificate must be issued, extended or further extended, as the case may be, for a period of validity of not more than one year.
 
 (2) Where a Nuclear Ship Safety Certificate has been issued, extended or further extended for a period of less than one year and any survey required under regulation 20 (surveys of United Kingdom nuclear ships) has been satisfactorily completed, the Certifying Authority may extend the validity of the certificate so that the certificate is valid for a maximum period of one year.
 
-### 23. Responsibilities of owner and master[^key-2d37539279d2bc1085884c786f0ebd4f]
+### 23. Responsibilities of owner and master[^c-2d37539279d2bc1085884c786f0ebd4f]
 
 (1) The owner and master of a nuclear ship must ensure that—
 
@@ -476,7 +476,7 @@ a Certifying Authority must issue a Nuclear Ship Safety Certificate in respect o
 
 (3) If the survey referred to in paragraph (2) shows that repairs are required, or if any important repairs or renewals are otherwise made to the ship or its equipment, a further survey must be carried out on the completion of those repairs or renewals.
 
-### 24. Procedure to be adopted when a United Kingdom nuclear ship is deficient[^key-d5a5dd916e11414024eb96a5ef802856]
+### 24. Procedure to be adopted when a United Kingdom nuclear ship is deficient[^c-d5a5dd916e11414024eb96a5ef802856]
 
 (1) Where a surveyor determines that the condition of a United Kingdom nuclear ship—
 
@@ -495,7 +495,7 @@ the surveyor must advise the owner or master of the corrective action which, in 
 - (b) received in legible form; and
 - (c) capable of being used for subsequent reference.
 
-### 25. Cancellation of Nuclear Ship Safety Certificate[^key-8ffb976f98981617629955a08ccfa50d]
+### 25. Cancellation of Nuclear Ship Safety Certificate[^c-8ffb976f98981617629955a08ccfa50d]
 
 (1) The Secretary of State may cancel a Nuclear Ship Safety Certificate issued in respect of a United Kingdom ship where there is reason to believe that—
 
@@ -517,7 +517,7 @@ to be surrendered.
 - (d) with intent to deceive, use, lend, or allow to be used by another, a Nuclear Ship Safety Certificate; or
 - (e) fail to surrender a Nuclear Ship Safety Certificate required to be surrendered under paragraph (2).
 
-### 26. Arbitration[^key-ab4f70cc512f63109b0bd4670c4ff435]
+### 26. Arbitration[^c-ab4f70cc512f63109b0bd4670c4ff435]
 
 (1) If an applicant is dissatisfied for any reason with the outcome of a survey carried out in respect of a United Kingdom nuclear ship, that person may serve a written notice on the responsible person within 21 days of receiving notice of that outcome—
 
@@ -560,7 +560,7 @@ but this paragraph does not apply in Scotland.
   - (c) a person who is a member of the Bar of Northern Ireland or a solicitor of the Supreme Court of Northern Ireland of at least 7 years’ standing;
 - “**responsible person**” means the Certifying Authority responsible for the issue of the Nuclear Ship Safety Certificate in connection with which a survey required by these Regulations is carried out.
 
-### 27. Prohibition on proceeding on any voyage without the appropriate certificate[^key-a86508a5ac779226d54c9b8871ef3b7c]
+### 27. Prohibition on proceeding on any voyage without the appropriate certificate[^c-a86508a5ac779226d54c9b8871ef3b7c]
 
 A nuclear ship must not proceed on any voyage unless it has been surveyed and there is in force—
 
@@ -569,15 +569,15 @@ A nuclear ship must not proceed on any voyage unless it has been surveyed and th
 
 ## PART 5 — Miscellaneous requirements for nuclear ships
 
-### 28. Quality assurance programme[^key-9e8d639bcc52ab80ea525310a8456975]
+### 28. Quality assurance programme[^c-9e8d639bcc52ab80ea525310a8456975]
 
 A nuclear ship must be designed, constructed, tested, inspected, operated and decommissioned under a quality assurance programme in accordance with paragraph 1.3.7 in Chapter 1 of the Nuclear Code (quality assurance programme).
 
-### 29. Decommissioning of nuclear ships[^key-91b97082e385ecd5633ccd293d60c65d]
+### 29. Decommissioning of nuclear ships[^c-91b97082e385ecd5633ccd293d60c65d]
 
 A nuclear ship must be decommissioned in accordance with the requirements in paragraph 1.8 in Chapter 1 of the Nuclear Code (decommissioning or loss).
 
-### 30. Loss of nuclear ships[^key-839192a1935646c6363999195b061dce]
+### 30. Loss of nuclear ships[^c-839192a1935646c6363999195b061dce]
 
 In the event of an accident likely to lead to an environmental hazard—
 
@@ -588,7 +588,7 @@ In the event of an accident likely to lead to an environmental hazard—
 
 ## PART 6 — Control and enforcement
 
-### 31. Offences and penalties[^key-6a29d0a31dd90ac0eb1b62e256c4edcc]
+### 31. Offences and penalties[^c-6a29d0a31dd90ac0eb1b62e256c4edcc]
 
 (1) Any contravention of—
 
@@ -598,13 +598,13 @@ In the event of an accident likely to lead to an environmental hazard—
 - (d) regulation 10 (approval of reactor installation);
 - (e) regulation 11 (radiation safety);
 - (f) regulation 12, in so far as this relates to a contravention of paragraph 7.1.1 or 7.1.4 in Chapter 7 of the Nuclear Code (general operating requirements for nuclear ships);
-- (g) regulation 13(1)(a) or (b), (2)(a) or (b), (3)[^key-f4e43d425385d9af46e4f77b04313e41] or (5) (safety assessment – operational requirements);
+- (g) regulation 13(1)(a) or (b), (2)(a) or (b), (3)[^c-f4e43d425385d9af46e4f77b04313e41] or (5) (safety assessment – operational requirements);
 - (h) regulation 14(1), (3)(a) or (b), (4) or (5)(a) or (b) (operating manual);
 - (i) regulation 15(1), (3)(a) or (b), (4), (5) or (6) (additional operating documentation);
 - (j) regulation 16 (emergency operation procedures);
 - (k) regulation 17 (maintenance and repair);
 - (l) regulation 18(1) (manning and training);
-- (m) regulation 20(1)(a), (b) or (c), (2), (3), (4), (6), (7), (8A)[^key-84740c09dbe81fc22069ba796d2331d1], (9) or (11)(a), (b), (c) or (d) (surveys of United Kingdom nuclear ships);
+- (m) regulation 20(1)(a), (b) or (c), (2), (3), (4), (6), (7), (8A)[^c-84740c09dbe81fc22069ba796d2331d1], (9) or (11)(a), (b), (c) or (d) (surveys of United Kingdom nuclear ships);
 - (n) regulation 21(3) (requirement to hold on board a Nuclear Ship Safety Certificate);
 - (o) regulation 23(1) (responsibilities of owner and master);
 - (p) regulation 27 (prohibition on proceeding on any voyage without the appropriate certificate);
@@ -656,7 +656,7 @@ is an offence by the owner and master of a nuclear ship.
 
 (11) For the purposes of paragraph (2), “**Company**” has the meaning given to it in regulation 1 of Chapter IX in the Annex to the Convention (International Safety Management (ISM) Code)[^f00018].
 
-### 32. Special control[^key-054b72b782a75d8dcfd1bb3dcdd1ff04]
+### 32. Special control[^c-054b72b782a75d8dcfd1bb3dcdd1ff04]
 
 (1) Nuclear ships are subject to the control of officers authorised by the Secretary of State before entering a United Kingdom port and when in a United Kingdom port for the purposes referred to in paragraph (2).
 
@@ -667,7 +667,7 @@ is an offence by the owner and master of a nuclear ship.
 - (c) the requirements of regulation 23 (responsibilities of owner and master) are being complied with; and
 - (d) there are no unreasonable radiation or other hazards that have occurred, or may occur, at sea or in port, to the crew, passengers or public, or to the waterways or food or water resources.
 
-### 33. Detention[^key-bea8471050ad48706b918ae91521c158]
+### 33. Detention[^c-bea8471050ad48706b918ae91521c158]
 
 (1) For the purposes of this regulation, any reference to “**the Act**” is a reference to the Merchant Shipping Act 1995.
 
@@ -697,7 +697,7 @@ is an offence by the owner and master of a nuclear ship.
 
 (8) If it is not possible to inform the nuclear ship’s flag administration in accordance with paragraph (7), the Secretary of State must inform the Consul of the State of the flag administration, or in the absence of a Consul, the nearest diplomatic representative of the State of the flag administration.
 
-### 34. Review of the Regulations[^key-c7f262743e4de845bb6c2909f03329b3]
+### 34. Review of the Regulations[^c-c7f262743e4de845bb6c2909f03329b3]
 
 (1) The Secretary of State must from time to time—
 
@@ -743,11 +743,11 @@ Two of the Lords Commissioners of His Majesty’s Treasury
 
 Regulation 1
 
-### 1. The Merchant Shipping (Survey and Certification) Regulations 2015[^key-e81d31484918977064ccd1221c2c238b]
+### 1. The Merchant Shipping (Survey and Certification) Regulations 2015[^c-e81d31484918977064ccd1221c2c238b]
 
 The Merchant Shipping (Survey and Certification) Regulations 2015[^f00022] are amended as follows.
 
-**2.**[^key-f998537aad1c453fd7e44f39822d14c5] In regulation 5 (application and exemption)—
+**2.**[^c-f998537aad1c453fd7e44f39822d14c5] In regulation 5 (application and exemption)—
 
 - (a) after paragraph (2)(e), omit “and”; and
 - (b) at the end of paragraph (2)(f), insert—
@@ -758,11 +758,11 @@ The Merchant Shipping (Survey and Certification) Regulations 2015[^f00022] are a
 
   .
 
-### 3. The Merchant Shipping (Fees) Regulations 2018[^key-5716adf71d56c2836f99197a309d699d]
+### 3. The Merchant Shipping (Fees) Regulations 2018[^c-5716adf71d56c2836f99197a309d699d]
 
 The Merchant Shipping (Fees) Regulations 2018[^f00023] are amended as follows.
 
-**4.**[^key-eefa814a49dcb7a4e50c4c7296c58831] In Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in paragraph 5 (fees for inspections, etc.) of Part 1 (surveys, inspections and applications for exemption), in Section I (construction and equipment), at the end—
+**4.**[^c-eefa814a49dcb7a4e50c4c7296c58831] In Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in paragraph 5 (fees for inspections, etc.) of Part 1 (surveys, inspections and applications for exemption), in Section I (construction and equipment), at the end—
 
 - (a) in the first column, insert “The Merchant Shipping (Nuclear Ships) Regulations 2022”;
 - (b) in the second column, insert “2022/1169”;
@@ -812,9 +812,9 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00004]: Footnote: [S.I. 1998/1500](https://www.legislation.gov.uk/uksi/1998/1500).
 
-[^key-09c302631d6ff2b593cd9f9847204ccf]: Commencement: Reg. 1 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-09c302631d6ff2b593cd9f9847204ccf]: Commencement: Reg. 1 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-892ca6d02a618d7dc30055b8edf9e614]: Commencement: Reg. 2 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-892ca6d02a618d7dc30055b8edf9e614]: Commencement: Reg. 2 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2015/508](https://www.legislation.gov.uk/uksi/2015/508). There are amending instruments but none is relevant.
 
@@ -832,106 +832,106 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00012]: Footnote: Merchant Shipping Notice 1837(M) Amendment 2 is available on https://www.gov.uk/government/publications/msn-1837-m-amendment-2-categorisation-of-waters, and in hard copy from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-7a6e49ef85f45f7f11b80346e469f9c5]: Commencement: Reg. 3 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-7a6e49ef85f45f7f11b80346e469f9c5]: Commencement: Reg. 3 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-9e8bea9b9b0b6b0362a9cf8e2ac32952]: Commencement: Reg. 4 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-9e8bea9b9b0b6b0362a9cf8e2ac32952]: Commencement: Reg. 4 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-170431b5dcd0b13d0739200a794eff64]: Commencement: Reg. 5 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-170431b5dcd0b13d0739200a794eff64]: Commencement: Reg. 5 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-2a5825c534ca02da15bfcb145fdf6293]: Commencement: Reg. 6 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-2a5825c534ca02da15bfcb145fdf6293]: Commencement: Reg. 6 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
 [^f00013]: Footnote: Guidance in relation to the matters requiring the approval of the Secretary of State in the Nuclear Code is set out in Marine Guidance Note (MGN) 679 (M). MGN 679 (M) is available on https://www.gov.uk/topic/ships-cargoes/m-notices and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-d445568b81f0ad9fe1ace17356690cad]: Textual amendment: [Reg. 6(2)(ca)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/6/2/ca) inserted (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2023/246/regulation/22/2)
+[^c-d445568b81f0ad9fe1ace17356690cad]: Textual amendment: [Reg. 6(2)(ca)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/6/2/ca) inserted (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2023/246/regulation/22/2)
 
-[^key-464bc69768230387f03d69f3bb2b387d]: Commencement: Reg. 7 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-464bc69768230387f03d69f3bb2b387d]: Commencement: Reg. 7 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-f998123ea8e9dc3fbbe16796ff0f07dc]: Commencement: Reg. 8 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-f998123ea8e9dc3fbbe16796ff0f07dc]: Commencement: Reg. 8 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-89e9ec549f36850c09bcd7d9aab4a7b6]: Commencement: Reg. 9 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-89e9ec549f36850c09bcd7d9aab4a7b6]: Commencement: Reg. 9 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-356546cdb1899761ff415e81b0877e9e]: Commencement: Reg. 10 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-356546cdb1899761ff415e81b0877e9e]: Commencement: Reg. 10 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-57bb7fff128a8fdb7cdc1ac7afb5df13]: Commencement: Reg. 11 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-57bb7fff128a8fdb7cdc1ac7afb5df13]: Commencement: Reg. 11 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-250a560264d3e0d55b67fb739c178ba9]: Commencement: Reg. 12 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-250a560264d3e0d55b67fb739c178ba9]: Commencement: Reg. 12 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-e588d45e23ede6c8173e9010f8e60341]: Commencement: Reg. 13 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-e588d45e23ede6c8173e9010f8e60341]: Commencement: Reg. 13 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-3877bf9ec01ec223818f92206475aa2c]: Commencement: Reg. 14 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-3877bf9ec01ec223818f92206475aa2c]: Commencement: Reg. 14 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-a66f0ad2b03cefe675fb4bd2e16a26f9]: Commencement: Reg. 15 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-a66f0ad2b03cefe675fb4bd2e16a26f9]: Commencement: Reg. 15 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
 [^f00014]: Footnote: The requirement for an operator’s emergency plan is contained in regulation 10 of each of the Radiation (Emergency Preparedness and Public Information) Regulations 2019 ([S.I. 2019/703](https://www.legislation.gov.uk/uksi/2019/703)) and the Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019 ([S.R. 2019 No. 185](https://www.legislation.gov.uk/nisr/2019/185)).
 
-[^key-f9940d6750fd11ce17ef7bdd034e71ed]: Commencement: Reg. 16 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-f9940d6750fd11ce17ef7bdd034e71ed]: Commencement: Reg. 16 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-82d111c618983cef50b8f8a30ea56c86]: Commencement: Reg. 17 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-82d111c618983cef50b8f8a30ea56c86]: Commencement: Reg. 17 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-08c29115140e3e03f8053169c18d02f3]: Commencement: Reg. 18 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-08c29115140e3e03f8053169c18d02f3]: Commencement: Reg. 18 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-9d9e3ad9f94ad6cfdd944dd05c129973]: Commencement: Reg. 19 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-9d9e3ad9f94ad6cfdd944dd05c129973]: Commencement: Reg. 19 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-a7680dac638ccbe70d4287341e8b4894]: Commencement: Reg. 20 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-a7680dac638ccbe70d4287341e8b4894]: Commencement: Reg. 20 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-8f6c0208b60d4f394974a501bb54c9ef]: Textual amendment: [Reg. 20(7)-(8A)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/20/7) substituted for reg. 20(7)(8) (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [22(3)(a)](https://www.legislation.gov.uk/uksi/2023/246/regulation/22/3/a)
+[^c-8f6c0208b60d4f394974a501bb54c9ef]: Textual amendment: [Reg. 20(7)-(8A)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/20/7) substituted for reg. 20(7)(8) (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [22(3)(a)](https://www.legislation.gov.uk/uksi/2023/246/regulation/22/3/a)
 
-[^key-9898e27b9b4624b21f471092fb8516f0]: Textual amendment: Words in [reg. 20(9)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/20/9) substituted (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [22(3)(b)](https://www.legislation.gov.uk/uksi/2023/246/regulation/22/3/b)
+[^c-9898e27b9b4624b21f471092fb8516f0]: Textual amendment: Words in [reg. 20(9)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/20/9) substituted (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [22(3)(b)](https://www.legislation.gov.uk/uksi/2023/246/regulation/22/3/b)
 
-[^key-c3e5c3a161a1696f297a26ec50ea1a6d]: Commencement: Reg. 21 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-c3e5c3a161a1696f297a26ec50ea1a6d]: Commencement: Reg. 21 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-5e37dad3a3775b60c92a7955e3c03764]: Commencement: Reg. 22 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-5e37dad3a3775b60c92a7955e3c03764]: Commencement: Reg. 22 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-2d37539279d2bc1085884c786f0ebd4f]: Commencement: Reg. 23 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-2d37539279d2bc1085884c786f0ebd4f]: Commencement: Reg. 23 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
 [^f00015]: Footnote: “Proper officer” is defined in section 313(1) of the Merchant Shipping Act 1995 and means, in the United Kingdom, a consular officer.
 
-[^key-d5a5dd916e11414024eb96a5ef802856]: Commencement: Reg. 24 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-d5a5dd916e11414024eb96a5ef802856]: Commencement: Reg. 24 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-8ffb976f98981617629955a08ccfa50d]: Commencement: Reg. 25 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-8ffb976f98981617629955a08ccfa50d]: Commencement: Reg. 25 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-ab4f70cc512f63109b0bd4670c4ff435]: Commencement: Reg. 26 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-ab4f70cc512f63109b0bd4670c4ff435]: Commencement: Reg. 26 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
 [^f00016]: Footnote: Merchant Shipping Notice M.1613 can be found at https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/282032/msn1613.pdf and on https://www.gov.uk/government/organisations/maritime-and-coastguard-agency, or obtained in hard copy from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
 [^f00017]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-a86508a5ac779226d54c9b8871ef3b7c]: Commencement: Reg. 27 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-a86508a5ac779226d54c9b8871ef3b7c]: Commencement: Reg. 27 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-9e8d639bcc52ab80ea525310a8456975]: Commencement: Reg. 28 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-9e8d639bcc52ab80ea525310a8456975]: Commencement: Reg. 28 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-91b97082e385ecd5633ccd293d60c65d]: Commencement: Reg. 29 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-91b97082e385ecd5633ccd293d60c65d]: Commencement: Reg. 29 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-839192a1935646c6363999195b061dce]: Commencement: Reg. 30 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-839192a1935646c6363999195b061dce]: Commencement: Reg. 30 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-6a29d0a31dd90ac0eb1b62e256c4edcc]: Commencement: Reg. 31 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-6a29d0a31dd90ac0eb1b62e256c4edcc]: Commencement: Reg. 31 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-f4e43d425385d9af46e4f77b04313e41]: Textual amendment: Word in [reg. 31(1)(g)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/31/1/g) inserted (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [22(4)(a)](https://www.legislation.gov.uk/uksi/2023/246/regulation/22/4/a)
+[^c-f4e43d425385d9af46e4f77b04313e41]: Textual amendment: Word in [reg. 31(1)(g)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/31/1/g) inserted (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [22(4)(a)](https://www.legislation.gov.uk/uksi/2023/246/regulation/22/4/a)
 
-[^key-84740c09dbe81fc22069ba796d2331d1]: Textual amendment: Word in [reg. 31(1)(m)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/31/1/m) substituted (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [22(4)(b)](https://www.legislation.gov.uk/uksi/2023/246/regulation/22/4/b)
+[^c-84740c09dbe81fc22069ba796d2331d1]: Textual amendment: Word in [reg. 31(1)(m)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/31/1/m) substituted (29.3.2023) by [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [22(4)(b)](https://www.legislation.gov.uk/uksi/2023/246/regulation/22/4/b)
 
 [^f00018]: Footnote: Chapter IX was adopted by Resolution 1 of the 1994 Conference of the Contracting Governments to the International Convention for the Safety of Life at Sea, 1974. Resolution 1 can be obtained from the IMO of 4 Albert Embankment, London SE1 7SR or from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton, SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk). The International Safety Management (ISM) Code (“the ISM Code”) was adopted by the IMO in Resolution A.741(18) and made mandatory by regulation 3 of Chapter IX. The ISM Code was amended by IMO Resolutions MSC.104(73) (Cm 8063), MSC.179(79), MSC.195(80), MSC.273(85) and MSC.353(92).
 
-[^key-054b72b782a75d8dcfd1bb3dcdd1ff04]: Commencement: Reg. 32 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-054b72b782a75d8dcfd1bb3dcdd1ff04]: Commencement: Reg. 32 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-bea8471050ad48706b918ae91521c158]: Commencement: Reg. 33 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-bea8471050ad48706b918ae91521c158]: Commencement: Reg. 33 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
 [^f00019]: Footnote: Section 284 was amended by Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
 [^f00020]: Footnote: Section 96(7) was amended by Part 1 of Schedule 10 to the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15) and by Schedule 11 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4). Section 96(10) was repealed by Schedule 4 to the Arbitration Act [1996 (c. 23)](https://www.legislation.gov.uk/ukpga/1996/23).
 
-[^key-c7f262743e4de845bb6c2909f03329b3]: Commencement: Reg. 34 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-c7f262743e4de845bb6c2909f03329b3]: Commencement: Reg. 34 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
 [^f00021]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12) and Schedule 8 to the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-e81d31484918977064ccd1221c2c238b]: Commencement: Sch. para. 1 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-e81d31484918977064ccd1221c2c238b]: Commencement: Sch. para. 1 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
 [^f00022]: Footnote: [S.I. 2015/508](https://www.legislation.gov.uk/uksi/2015/508). There are amending instruments but none is relevant.
 
-[^key-f998537aad1c453fd7e44f39822d14c5]: Commencement: Sch. para. 2 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-f998537aad1c453fd7e44f39822d14c5]: Commencement: Sch. para. 2 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
-[^key-5716adf71d56c2836f99197a309d699d]: Commencement: Sch. para. 3 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-5716adf71d56c2836f99197a309d699d]: Commencement: Sch. para. 3 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
 
 [^f00023]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104). There are amending instruments but none is relevant.
 
-[^key-eefa814a49dcb7a4e50c4c7296c58831]: Commencement: Sch. para. 4 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)
+[^c-eefa814a49dcb7a4e50c4c7296c58831]: Commencement: Sch. para. 4 in force at 8.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1169/regulation/1/1)

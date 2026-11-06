@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This regulation applies where it appears to the relevant planning authority , the Welsh Ministers or specified person[^key-967f8156fbb45e8477432851b11ae729] that—
+(1) This regulation applies where it appears to the relevant planning authority , the Welsh Ministers or specified person[^c-967f8156fbb45e8477432851b11ae729] that—
 
 - (a) an application which is before them for determination—
   - (i) is a subsequent application in relation to Schedule 1 or Schedule 2 development;
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-967f8156fbb45e8477432851b11ae729]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/wsi/2017/567/regulation/9) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(11)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/11) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))
+[^c-967f8156fbb45e8477432851b11ae729]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/wsi/2017/567/regulation/9) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [12(11)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/11) (with [reg. 12(44)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/12/44))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Record of partial repayments[^key-a7ccbccf1eeaa3f4015e95aba484b19b]
+## 65. Record of partial repayments[^c-a7ccbccf1eeaa3f4015e95aba484b19b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7ccbccf1eeaa3f4015e95aba484b19b]: Commencement: Reg. 65 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-a7ccbccf1eeaa3f4015e95aba484b19b]: Commencement: Reg. 65 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Functions of Local Medical Committees[^key-5ade9ea196e18b4a5c262f1bf7256762]
+## 80. Functions of Local Medical Committees[^c-5ade9ea196e18b4a5c262f1bf7256762]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ the Local Medical Committee that had had the matter referred to it shall be deem
 
 ## Annotations
 
-[^key-5ade9ea196e18b4a5c262f1bf7256762]: Commencement: Art. 80 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-5ade9ea196e18b4a5c262f1bf7256762]: Commencement: Art. 80 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

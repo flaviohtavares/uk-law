@@ -35,7 +35,7 @@ summary: ''
 *Sub‐para. (d) rep. by 1999 NI 9*
 
 - (d) Article 135C applies;
-- (dd)[^key-f80a363cf43b745625dc119c11c07199] Article 135D applies,
+- (dd)[^c-f80a363cf43b745625dc119c11c07199] Article 135D applies,
 - (e) Article 137(1) and (3) applies, or
 - (f) Article 137(1) and (5) applies.
 
@@ -70,6 +70,6 @@ and a “working day” means any day which is not a Saturday or Sunday, Christm
 
 [^c17625971]: Textual amendment: [1998 NI 17](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-f80a363cf43b745625dc119c11c07199]: Textual amendment: [Art. 143(2)(dd)](https://www.legislation.gov.uk/nisi/1996/1919/article/143/2/dd) inserted (30.6.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 57(6)](https://www.legislation.gov.uk/nia/2008/13/section/57/6), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/266/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-f80a363cf43b745625dc119c11c07199]: Textual amendment: [Art. 143(2)(dd)](https://www.legislation.gov.uk/nisi/1996/1919/article/143/2/dd) inserted (30.6.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 57(6)](https://www.legislation.gov.uk/nia/2008/13/section/57/6), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/266/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
 
 [^m00024]: Marginal citation: 1971 c. 80.

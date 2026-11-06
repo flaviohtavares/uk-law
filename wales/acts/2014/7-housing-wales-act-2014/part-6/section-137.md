@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Amendment of Schedule 1 to the Housing Act 1988[^key-e4d426ddda322130b823a050495d3912]
+## 137. Amendment of Schedule 1 to the Housing Act 1988[^c-e4d426ddda322130b823a050495d3912]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4d426ddda322130b823a050495d3912]: Commencement: [S. 137](https://www.legislation.gov.uk/anaw/2014/7/section/137) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-e4d426ddda322130b823a050495d3912]: Commencement: [S. 137](https://www.legislation.gov.uk/anaw/2014/7/section/137) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

@@ -22,18 +22,18 @@ summary: ''
 
 (1) Paragraphs 2(3A) and 3(8A) of Schedule 10 to the [^c14707081]Value Added Tax Act 1994 (which relate to grants of land made to connected persons where they are not fully taxable) shall not have effect in relation to any supply made after 26th November 1996.
 
-(2)[^key-a341d72e33115a87ee3296053a6f35a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a341d72e33115a87ee3296053a6f35a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a341d72e33115a87ee3296053a6f35a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a341d72e33115a87ee3296053a6f35a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-a341d72e33115a87ee3296053a6f35a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a341d72e33115a87ee3296053a6f35a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-a341d72e33115a87ee3296053a6f35a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a341d72e33115a87ee3296053a6f35a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-a341d72e33115a87ee3296053a6f35a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a341d72e33115a87ee3296053a6f35a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c14707081]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-a341d72e33115a87ee3296053a6f35a3]: Textual amendment: [S. 37(2)-(6)](https://www.legislation.gov.uk/ukpga/1997/16/section/37/2) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/9) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+[^c-a341d72e33115a87ee3296053a6f35a3]: Textual amendment: [S. 37(2)-(6)](https://www.legislation.gov.uk/ukpga/1997/16/section/37/2) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/9) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))

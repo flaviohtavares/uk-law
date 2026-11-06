@@ -80,8 +80,8 @@ that decision shall take effect from the date on which it would have taken effec
 
 **4.** (1) A decision (other than a decision of a social security appeal tribunal, a disability appeal tribunal, a medical appeal tribunal or a Commissioner) made before 18th October 1999—
 
-- (a) on a claim for; [^key-fe7d45cad6f24e0d5db46611431254da]...
-- (aa)[^key-ff717333c5d57431fe0f166db53bdcfa] under or by virtue of Part III of the Social Security Act 1975; or
+- (a) on a claim for; [^c-fe7d45cad6f24e0d5db46611431254da]...
+- (aa)[^c-ff717333c5d57431fe0f166db53bdcfa] under or by virtue of Part III of the Social Security Act 1975; or
 - (b) under or by virtue of Part II of the Administration Act in relation to,
 
 a relevant benefit, shall be treated on or after that date as a decision of the Secretary of State under paragraph (a) or, as the case may be, paragraph (c) of section 8(1).
@@ -166,9 +166,9 @@ shall be supplied to each party to the proceedings before that tribunal, if requ
 
 [^c1646272]: Marginal citation: [S.I. 1996/2567](https://www.legislation.gov.uk/uksi/1996/2567).
 
-[^key-fe7d45cad6f24e0d5db46611431254da]: Textual amendment: Word in [Sch. 16 para. 4(1)(a)](https://www.legislation.gov.uk/uksi/1999/2860/schedule/16/paragraph/4/1/a) omitted (16.10.2006) by virtue of [The Social Security Act 1998 (Commencement Nos. 9 and 11) (Amendment) Order 2006 (S.I. 2006/2540)](https://www.legislation.gov.uk/uksi/2006/2540), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2006/2540/article/3/4/a)
+[^c-fe7d45cad6f24e0d5db46611431254da]: Textual amendment: Word in [Sch. 16 para. 4(1)(a)](https://www.legislation.gov.uk/uksi/1999/2860/schedule/16/paragraph/4/1/a) omitted (16.10.2006) by virtue of [The Social Security Act 1998 (Commencement Nos. 9 and 11) (Amendment) Order 2006 (S.I. 2006/2540)](https://www.legislation.gov.uk/uksi/2006/2540), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2006/2540/article/3/4/a)
 
-[^key-ff717333c5d57431fe0f166db53bdcfa]: Textual amendment: [Sch. 16 para. 4(1)(aa)](https://www.legislation.gov.uk/uksi/1999/2860/schedule/16/paragraph/4/1/aa) inserted (16.10.2006) by [The Social Security Act 1998 (Commencement Nos. 9 and 11) (Amendment) Order 2006 (S.I. 2006/2540)](https://www.legislation.gov.uk/uksi/2006/2540), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2006/2540/article/3/4/b)
+[^c-ff717333c5d57431fe0f166db53bdcfa]: Textual amendment: [Sch. 16 para. 4(1)(aa)](https://www.legislation.gov.uk/uksi/1999/2860/schedule/16/paragraph/4/1/aa) inserted (16.10.2006) by [The Social Security Act 1998 (Commencement Nos. 9 and 11) (Amendment) Order 2006 (S.I. 2006/2540)](https://www.legislation.gov.uk/uksi/2006/2540), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2540/article/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2006/2540/article/3/4/b)
 
 [^c1646273]: Marginal citation: Regulation 3E was inserted by [S.I. 1996/182](https://www.legislation.gov.uk/uksi/1996/182).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 175. Meaning of “modify”[^key-a1c5add4e16352576c51a7f7687c302a]
+## 175. Meaning of “modify”[^c-a1c5add4e16352576c51a7f7687c302a]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In this Chapter any reference to modifying measures specified in a relevant comp
 
 ## Annotations
 
-[^key-a1c5add4e16352576c51a7f7687c302a]: Commencement: S. 175 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-a1c5add4e16352576c51a7f7687c302a]: Commencement: S. 175 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

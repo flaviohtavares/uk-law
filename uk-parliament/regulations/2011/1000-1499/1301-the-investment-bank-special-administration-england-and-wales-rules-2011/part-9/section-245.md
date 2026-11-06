@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 245. Adjournment of the hearing of an application[^key-9ff5ba8704101efc8cdaf361821e2017]
+## 245. Adjournment of the hearing of an application[^c-9ff5ba8704101efc8cdaf361821e2017]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ff5ba8704101efc8cdaf361821e2017]: Commencement: [Rule 245](https://www.legislation.gov.uk/uksi/2011/1301/rule/245) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-9ff5ba8704101efc8cdaf361821e2017]: Commencement: [Rule 245](https://www.legislation.gov.uk/uksi/2011/1301/rule/245) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -35,70 +35,70 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-7b355f0d90581e468c90b0fc28545685]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b355f0d90581e468c90b0fc28545685]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-7b355f0d90581e468c90b0fc28545685] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7b355f0d90581e468c90b0fc28545685] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7b355f0d90581e468c90b0fc28545685] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7b355f0d90581e468c90b0fc28545685] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-7b355f0d90581e468c90b0fc28545685] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-7b355f0d90581e468c90b0fc28545685] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b355f0d90581e468c90b0fc28545685]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b355f0d90581e468c90b0fc28545685]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-7b355f0d90581e468c90b0fc28545685]
+## ANNEX[^c-7b355f0d90581e468c90b0fc28545685]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b355f0d90581e468c90b0fc28545685] Amendments to IFRIC Interpretation 9
+[^c-7b355f0d90581e468c90b0fc28545685] Amendments to IFRIC Interpretation 9
 
 ***Reassessment of Embedded Derivatives***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b355f0d90581e468c90b0fc28545685]CONSENSUS
+[^c-7b355f0d90581e468c90b0fc28545685]CONSENSUS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b355f0d90581e468c90b0fc28545685]7
+[^c-7b355f0d90581e468c90b0fc28545685]7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b355f0d90581e468c90b0fc28545685]7A
+[^c-7b355f0d90581e468c90b0fc28545685]7A
 
 The assessment whether an embedded derivative is required to be separated from the host contract and accounted for as a derivative on reclassification of a financial asset out of the fair value through profit or loss category in accordance with paragraph 7 shall be made on the basis of the circumstances that existed on the later date of:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b355f0d90581e468c90b0fc28545685]EFFECTIVE DATE AND TRANSITION
+[^c-7b355f0d90581e468c90b0fc28545685]EFFECTIVE DATE AND TRANSITION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b355f0d90581e468c90b0fc28545685]10
+[^c-7b355f0d90581e468c90b0fc28545685]10
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b355f0d90581e468c90b0fc28545685] Amendments to International Accounting Standard 39
+[^c-7b355f0d90581e468c90b0fc28545685] Amendments to International Accounting Standard 39
 
 ***Financial Instruments: Recognition and Measurement***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b355f0d90581e468c90b0fc28545685]EMBEDDED DERIVATIVES
+[^c-7b355f0d90581e468c90b0fc28545685]EMBEDDED DERIVATIVES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b355f0d90581e468c90b0fc28545685]12
+[^c-7b355f0d90581e468c90b0fc28545685]12
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b355f0d90581e468c90b0fc28545685]EFFECTIVE DATE AND TRANSITION
+[^c-7b355f0d90581e468c90b0fc28545685]EFFECTIVE DATE AND TRANSITION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b355f0d90581e468c90b0fc28545685]103J
+[^c-7b355f0d90581e468c90b0fc28545685]103J
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b355f0d90581e468c90b0fc28545685]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/21) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b355f0d90581e468c90b0fc28545685]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/21) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -101,7 +101,7 @@ may pay to the Secretary of State a contribution equal to the whole or any part 
 
 ### 23. Variation of penalties for certain offences.
 
-(1)[^key-fcdde7b1d42bc3112c52972bb1b00eb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-fcdde7b1d42bc3112c52972bb1b00eb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Except in so far as the context otherwise requires, references in this Act to any other enactment shall be construed as referring to that enactment as amended by or under any other enactment, including this Act.
 
@@ -288,7 +288,7 @@ Section 24(3).
 
 [^c706041]: Textual amendment: [Ss. 6–15](https://www.legislation.gov.uk/ukpga/1974/50/section/6), [20–22](https://www.legislation.gov.uk/ukpga/1974/50/section/20) repealed by [Road Traffic (Consequential Provisions) Act 1988 (c. 54, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/54), [ss. 3](https://www.legislation.gov.uk/ukpga/1988/54/section/3), [5](https://www.legislation.gov.uk/ukpga/1988/54/section/5), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1988/54/schedule/1/part/I), [Sch. 4 paras. 1–3](https://www.legislation.gov.uk/ukpga/1988/54/schedule/4/paragraph/1)
 
-[^key-fcdde7b1d42bc3112c52972bb1b00eb0]: Textual amendment: [S. 23(1)](https://www.legislation.gov.uk/ukpga/1974/50/section/23/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-fcdde7b1d42bc3112c52972bb1b00eb0]: Textual amendment: [S. 23(1)](https://www.legislation.gov.uk/ukpga/1974/50/section/23/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c706045]: Modification: The text of ss. 16 and 24(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

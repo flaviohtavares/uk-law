@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218. Notification requirements[^key-b87e1d72340a47345f2cbdc3f6708f92]
+## 218. Notification requirements[^c-b87e1d72340a47345f2cbdc3f6708f92]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ the respondent must notify, to the police, the new name, the new home address or
 
 ## Annotations
 
-[^key-b87e1d72340a47345f2cbdc3f6708f92]: Commencement: S. 218 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-b87e1d72340a47345f2cbdc3f6708f92]: Commencement: S. 218 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Power to amend legislation[^key-61819c416f60368f0962d049414f1f40]
+## 111. Power to amend legislation[^c-61819c416f60368f0962d049414f1f40]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The consequential provision that may be made by regulations under this Part by v
 
 ## Annotations
 
-[^key-61819c416f60368f0962d049414f1f40]: Commencement: S. 111 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-61819c416f60368f0962d049414f1f40]: Commencement: S. 111 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

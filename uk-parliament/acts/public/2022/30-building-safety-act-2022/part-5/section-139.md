@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Regulations under section 138[^key-34118aec5144df0fbfd11028840ac22f]
+## 139. Regulations under section 138[^c-34118aec5144df0fbfd11028840ac22f]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34118aec5144df0fbfd11028840ac22f]: Commencement: S. 139 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-34118aec5144df0fbfd11028840ac22f]: Commencement: S. 139 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)

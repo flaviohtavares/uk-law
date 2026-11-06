@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Guidance[^c2116561][^key-f04c449d2c0b15ec4110b79ae23ebcaf]
+## 40. Guidance[^c2116561][^c-f04c449d2c0b15ec4110b79ae23ebcaf]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^c2116561]: Commencement: S. 40 in force for E. at 15.1.2012 see s. 240(1)(b)
 
-[^key-f04c449d2c0b15ec4110b79ae23ebcaf]: Commencement: S. 40 in force at 31.1.2012 for W. by [S.I. 2012/193](https://www.legislation.gov.uk/wsi/2012/193), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/193/article/2/a)
+[^c-f04c449d2c0b15ec4110b79ae23ebcaf]: Commencement: S. 40 in force at 31.1.2012 for W. by [S.I. 2012/193](https://www.legislation.gov.uk/wsi/2012/193), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/193/article/2/a)

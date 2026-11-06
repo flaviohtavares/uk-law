@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Financial objectives for NHS trusts[^key-6e3c2650ef44d3bcd5d0eb5b9978e6e0][^key-0826b03f6216ad61e4a645cb03254882]
+## 60. Financial objectives for NHS trusts[^c-6e3c2650ef44d3bcd5d0eb5b9978e6e0][^c-0826b03f6216ad61e4a645cb03254882]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ In paragraph 2 of Schedule 5 of the National Health Service Act 2006 (financial 
 
 ## Annotations
 
-[^key-6e3c2650ef44d3bcd5d0eb5b9978e6e0]: Commencement: S. 60 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-6e3c2650ef44d3bcd5d0eb5b9978e6e0]: Commencement: S. 60 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-0826b03f6216ad61e4a645cb03254882]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2022/31/section/60) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [14](https://www.legislation.gov.uk/uksi/2022/734/regulation/14), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))
+[^c-0826b03f6216ad61e4a645cb03254882]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2022/31/section/60) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [14](https://www.legislation.gov.uk/uksi/2022/734/regulation/14), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))

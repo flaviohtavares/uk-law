@@ -54,7 +54,7 @@ but rules of court made under section 50 may revoke any rules of court made unde
 
 #### Transitional provisions derived from the Act of 1965
 
-**8.**[^key-06b385e0ccb94806bf7767fd793df7aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-06b385e0ccb94806bf7767fd793df7aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.** Where the party chargeable under a maintenance agreement within the meaning of section 34 above died before 17th August 1957, then—
 
@@ -93,9 +93,9 @@ but rules of court made under section 50 may revoke any rules of court made unde
 
 and where the proceedings with respect to the marriage are instituted after 31st July 1971 the application of section 13(1) above in relation to the marriage shall be without prejudice to the preceding provisions of this sub-paragraph.
 
-(3A)[^c19322451] The court shall not make a nullity of marriage order[^key-b45a0ba068fe7f5407641845692fd619] in a case falling within sub-paragraph (1)(e) above unless it is satisfied that proceedings were instituted within six months from the date of issue of the interim gender recognition certificate.
+(3A)[^c19322451] The court shall not make a nullity of marriage order[^c-b45a0ba068fe7f5407641845692fd619] in a case falling within sub-paragraph (1)(e) above unless it is satisfied that proceedings were instituted within six months from the date of issue of the interim gender recognition certificate.
 
-(4) Nothing in this paragraph shall be construed as validating a marriage which is by law void but with respect to which no decree of nullity or nullity of marriage order has been made[^key-39d0a0ebb531f32c85d42f64c432497d].
+(4) Nothing in this paragraph shall be construed as validating a marriage which is by law void but with respect to which no decree of nullity or nullity of marriage order has been made[^c-39d0a0ebb531f32c85d42f64c432497d].
 
 **12.** Where a decree of nullity was granted on or before 31st July 1971 in respect of a voidable marriage, any child who would have been the legitimate child of the parties to the marriage if at the date of the decree it had been dissolved instead of being annulled shall be deemed to be their legitimate child.
 
@@ -216,7 +216,7 @@ as it applies where an order has been obtained under any of the provisions of th
 
 [^c8902521]: Marginal citation: [1967 c. 75](https://www.legislation.gov.uk/ukpga/1967/75).
 
-[^key-06b385e0ccb94806bf7767fd793df7aa]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1973/18/schedule/1/paragraph/8) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 33(a)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/33/a) (with [s. 8(4)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/5)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-06b385e0ccb94806bf7767fd793df7aa]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1973/18/schedule/1/paragraph/8) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 33(a)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/33/a) (with [s. 8(4)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/5)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
 [^c8902541]: Marginal citation: [1959 c. 72](https://www.legislation.gov.uk/ukpga/1959/72).
 
@@ -224,8 +224,8 @@ as it applies where an order has been obtained under any of the provisions of th
 
 [^c19322451]: Textual amendment: [Sch. 1 para. 11(3A)](https://www.legislation.gov.uk/ukpga/1973/18/schedule/1/paragraph/11/3A) inserted (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2004/7/section/4/4), [26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/ukpga/2004/7/schedule/2/paragraph/4/3); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
 
-[^key-b45a0ba068fe7f5407641845692fd619]: Textual amendment: Words in [Sch. 1 para. 11(3A)](https://www.legislation.gov.uk/ukpga/1973/18/schedule/1/paragraph/11/3A) substituted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 33(b)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/33/b) (with [s. 8(6)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/6)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-b45a0ba068fe7f5407641845692fd619]: Textual amendment: Words in [Sch. 1 para. 11(3A)](https://www.legislation.gov.uk/ukpga/1973/18/schedule/1/paragraph/11/3A) substituted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 33(b)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/33/b) (with [s. 8(6)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/6)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-39d0a0ebb531f32c85d42f64c432497d]: Textual amendment: Words in [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/ukpga/1973/18/schedule/1/paragraph/11/4) substituted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 33(c)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/33/c); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-39d0a0ebb531f32c85d42f64c432497d]: Textual amendment: Words in [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/ukpga/1973/18/schedule/1/paragraph/11/4) substituted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 33(c)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/33/c); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
 [^c8902551]: Marginal citation: [1958 c. 40](https://www.legislation.gov.uk/ukpga/1958/40).

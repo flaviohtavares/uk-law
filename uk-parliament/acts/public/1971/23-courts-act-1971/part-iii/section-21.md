@@ -46,7 +46,7 @@ summary: ''
 - (b) a failure of the Recorder to comply with any requirement specified under subsection (3)(b) in the terms of his appointment;
 - (c) one or more of the circumstances specified under subsection (3)(c) in his appointment applies.
 
-(5) Neither the initial term for which a Recorder is appointed nor any extension of that term under subsection (4) above shall be such as to continue his appointment as a Recorder after the day on which he attains the age of[^c847757] 75[^key-edee54250f37aef7b6589305bddeb898].
+(5) Neither the initial term for which a Recorder is appointed nor any extension of that term under subsection (4) above shall be such as to continue his appointment as a Recorder after the day on which he attains the age of[^c847757] 75[^c-edee54250f37aef7b6589305bddeb898].
 
 (6)[^c2070796] The Lord Chancellor may, with the agreement of the Lord Chief Justice, terminate the appointment of a Recorder on any of these grounds—
 
@@ -64,6 +64,6 @@ summary: ''
 
 [^c847757]: Textual amendment: Words in s. 21(5) substituted (31.3.1995) by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8), [s. 26](https://www.legislation.gov.uk/ukpga/1993/8/section/26), [Sch. 6 para. 9(1)](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/9/1); [S.I. 1995/631](https://www.legislation.gov.uk/uksi/1995/631), [art. 2](https://www.legislation.gov.uk/uksi/1995/631/article/2)
 
-[^key-edee54250f37aef7b6589305bddeb898]: Textual amendment: Word in [s. 21(5)](https://www.legislation.gov.uk/ukpga/1971/23/section/21/5) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/11/3) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-edee54250f37aef7b6589305bddeb898]: Textual amendment: Word in [s. 21(5)](https://www.legislation.gov.uk/ukpga/1971/23/section/21/5) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/11/3) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
 [^c2070796]: Textual amendment: S. 21(6) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 69(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/69/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)

@@ -45,7 +45,7 @@ summary: ''
 - “harm”—
   - (a) except in references to physical or psychological harm, means harm of any kind whether physical or non-physical; and
   - (b) except in references to physical harm, includes harm to a person resulting from that person's harming others;
-- “[^key-4c77946ba695b5e4111998d55f813c81]**health record**” has the meaning given by section 205 of the Data Protection Act 2018;
+- “[^c-4c77946ba695b5e4111998d55f813c81]**health record**” has the meaning given by section 205 of the Data Protection Act 2018;
 - “**hospital**” means any establishment whose main purpose is to provide treatment to people with illness and which—
   - (a) receives such people as in-patients; and
   - (b) is managed by an HSC trust or is an independent hospital in respect of which a person is registered under Part 3 of the 2003 Order;
@@ -80,7 +80,7 @@ summary: ''
 - “**public authority**” has the same meaning as in the Human Rights Act 1998;
 - “**Public Guardian**” has the same meaning as in section 125;
 - “**purchaser**” means a purchaser in good faith for valuable consideration and includes a lessee, mortgagee or other person who for valuable consideration acquires an interest in property;
-- [^key-75a2868d81f68d7f35674651f15d8a29]...
+- [^c-75a2868d81f68d7f35674651f15d8a29]...
 - “**regulations**” is to be read in accordance with subsection (7);
 - “**RQIA**” means the Health and Social Care Regulation and Quality Improvement Authority;
 - “**rules of court**” means rules of court made under section 55 of the Judicature (Northern Ireland) Act 1978;
@@ -121,6 +121,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c77946ba695b5e4111998d55f813c81]: Textual amendment: Words in [s. 306(1)](https://www.legislation.gov.uk/nia/2016/18/section/306/1) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 206](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/206) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-4c77946ba695b5e4111998d55f813c81]: Textual amendment: Words in [s. 306(1)](https://www.legislation.gov.uk/nia/2016/18/section/306/1) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 206](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/206) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-75a2868d81f68d7f35674651f15d8a29]: Textual amendment: Words in [s. 306(1)](https://www.legislation.gov.uk/nia/2016/18/section/306/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 252(8)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/252/8); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-75a2868d81f68d7f35674651f15d8a29]: Textual amendment: Words in [s. 306(1)](https://www.legislation.gov.uk/nia/2016/18/section/306/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 252(8)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/252/8); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

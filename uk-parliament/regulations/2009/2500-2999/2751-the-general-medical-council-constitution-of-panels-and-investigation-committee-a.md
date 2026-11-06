@@ -34,7 +34,7 @@ Health Care And Associated Professions
 
 Doctors
 
-The General Medical Council (Constitution of Panels and Investigation Committee) (Amendment) Rules Order of Council 2009 (revoked)[^key-7ff7c4662aae76a1fb0dfc370a06d4e9]
+The General Medical Council (Constitution of Panels and Investigation Committee) (Amendment) Rules Order of Council 2009 (revoked)[^c-7ff7c4662aae76a1fb0dfc370a06d4e9]
 
 Made
 
@@ -52,36 +52,36 @@ At the Council Chamber, Whitehall, the 12th day of October 2009
 
 By the Lords of Her Majesty’s Most Honourable Privy Council
 
-[^key-7ff7c4662aae76a1fb0dfc370a06d4e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ff7c4662aae76a1fb0dfc370a06d4e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
 This Order may be cited as the General Medical Council (Constitution of Panels and Investigation Committee) (Amendment) Rules Order of Council 2009, and shall come into force on 16th November 2009.
 
-[^key-7ff7c4662aae76a1fb0dfc370a06d4e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ff7c4662aae76a1fb0dfc370a06d4e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — THE GENERAL MEDICAL COUNCIL (CONSTITUTION OF PANELS AND INVESTIGATION COMMITTEE) (AMENDMENT) RULES 2009[^key-7ff7c4662aae76a1fb0dfc370a06d4e9]
+## SCHEDULE — THE GENERAL MEDICAL COUNCIL (CONSTITUTION OF PANELS AND INVESTIGATION COMMITTEE) (AMENDMENT) RULES 2009[^c-7ff7c4662aae76a1fb0dfc370a06d4e9]
 
-[^key-7ff7c4662aae76a1fb0dfc370a06d4e9]
+[^c-7ff7c4662aae76a1fb0dfc370a06d4e9]
 
 The General Medical Council, in exercise of its powers under paragraphs 19A to 19E and 23B of Schedule 1 to the Medical Act 1983 hereby makes the following rules:
 
-### 1. Citation and commencement[^key-7ff7c4662aae76a1fb0dfc370a06d4e9]
+### 1. Citation and commencement[^c-7ff7c4662aae76a1fb0dfc370a06d4e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Amendments[^key-7ff7c4662aae76a1fb0dfc370a06d4e9]
+### 2. Amendments[^c-7ff7c4662aae76a1fb0dfc370a06d4e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7ff7c4662aae76a1fb0dfc370a06d4e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ff7c4662aae76a1fb0dfc370a06d4e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7ff7c4662aae76a1fb0dfc370a06d4e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ff7c4662aae76a1fb0dfc370a06d4e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ff7c4662aae76a1fb0dfc370a06d4e9]: Textual amendment: Order revoked (31.12.2015) by [The General Medical Council (Constitution of Panels, Tribunals and Investigation Committee) Rules Order of Council 2015 (S.I. 2015/1965)](https://www.legislation.gov.uk/uksi/2015/1965), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2015/1965/schedule/rule/1), [9(c)](https://www.legislation.gov.uk/uksi/2015/1965/schedule/rule/9/c)
+[^c-7ff7c4662aae76a1fb0dfc370a06d4e9]: Textual amendment: Order revoked (31.12.2015) by [The General Medical Council (Constitution of Panels, Tribunals and Investigation Committee) Rules Order of Council 2015 (S.I. 2015/1965)](https://www.legislation.gov.uk/uksi/2015/1965), [Sch. rules 1](https://www.legislation.gov.uk/uksi/2015/1965/schedule/rule/1), [9(c)](https://www.legislation.gov.uk/uksi/2015/1965/schedule/rule/9/c)

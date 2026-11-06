@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Railway and navigation undertakings[^key-3201266910d44d49f07f5b8d0fb1bd0d]
+## 47. Railway and navigation undertakings[^c-3201266910d44d49f07f5b8d0fb1bd0d]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ except with the consent of the undertakers or authority or, as the case may be, 
 
 ## Annotations
 
-[^key-3201266910d44d49f07f5b8d0fb1bd0d]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2014/2935/article/47) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-3201266910d44d49f07f5b8d0fb1bd0d]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2014/2935/article/47) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

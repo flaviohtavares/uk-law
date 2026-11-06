@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Establishment of a deferred member’s account[^key-5377f10f68f39876b861d20c78403ed0]
+## 34. Establishment of a deferred member’s account[^c-5377f10f68f39876b861d20c78403ed0]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ When an active member ceases to be in pensionable service and becomes a deferred
 
 ## Annotations
 
-[^key-5377f10f68f39876b861d20c78403ed0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2014/2336/regulation/34) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-5377f10f68f39876b861d20c78403ed0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2014/2336/regulation/34) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

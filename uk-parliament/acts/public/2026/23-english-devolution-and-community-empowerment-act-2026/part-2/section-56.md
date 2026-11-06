@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Incidental etc provision[^key-a69f5a7c08e292a1635702d3bedc981e][^key-8f2d93211ae6a60a9abbe36a477a004c]
+## 56. Incidental etc provision[^c-a69f5a7c08e292a1635702d3bedc981e][^c-8f2d93211ae6a60a9abbe36a477a004c]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ by relevant legislation.
 
 ## Annotations
 
-[^key-a69f5a7c08e292a1635702d3bedc981e]: Commencement: S. 56 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-a69f5a7c08e292a1635702d3bedc981e]: Commencement: S. 56 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-8f2d93211ae6a60a9abbe36a477a004c]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2026/23/section/56) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-8f2d93211ae6a60a9abbe36a477a004c]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2026/23/section/56) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

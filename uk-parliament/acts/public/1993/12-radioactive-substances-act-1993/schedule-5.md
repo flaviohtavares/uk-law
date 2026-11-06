@@ -43,7 +43,7 @@ Section 49(2). *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_1dec3b72-03
 
 ### Part II (Extent: E+W) (affected by repeal, see note) — Transitory modifications of Schedule 3 (Extent: E+W) (affected by repeal, see note)[^M_F_1dec3b72-03d0-4c92-9142-f56d8ff5e81e][^M_F_1dec3b72-03d0-4c92-9142-f56d8ff5e81e]
 
-**8 (Extent: E+W) (affected by repeal, see note).**[^key-6f0aec6c86ff3c75fc5445c4845f7716][^M_F_1dec3b72-03d0-4c92-9142-f56d8ff5e81e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_1dec3b72-03d0-4c92-9142-f56d8ff5e81e]
+**8 (Extent: E+W) (affected by repeal, see note).**[^c-6f0aec6c86ff3c75fc5445c4845f7716][^M_F_1dec3b72-03d0-4c92-9142-f56d8ff5e81e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_1dec3b72-03d0-4c92-9142-f56d8ff5e81e]
 
 **9 (Extent: E+W) (affected by repeal, see note).**[^M_F_1dec3b72-03d0-4c92-9142-f56d8ff5e81e] (1 (Extent: E+W) (affected by repeal, see note))[^M_F_1dec3b72-03d0-4c92-9142-f56d8ff5e81e] If— *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_1dec3b72-03d0-4c92-9142-f56d8ff5e81e]
 
@@ -108,7 +108,7 @@ paragraph 6 of Schedule 3 to this Act shall be omitted until the appointed day. 
 
 [^c427109]: Marginal citation: [S.I. 1978/1039 (N.I.9)](https://www.legislation.gov.uk/nisi/1978/1039).
 
-[^key-6f0aec6c86ff3c75fc5445c4845f7716]: Textual amendment: Sch. 5 para. 8 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-6f0aec6c86ff3c75fc5445c4845f7716]: Textual amendment: Sch. 5 para. 8 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
 [^c427111]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 

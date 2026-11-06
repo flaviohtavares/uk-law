@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Determination of the anti-dumping amount or countervailing amount for non-sampled overseas exporters[^key-00d224bbb706b995e79a5ab11279e5d9]
+## 37. Determination of the anti-dumping amount or countervailing amount for non-sampled overseas exporters[^c-00d224bbb706b995e79a5ab11279e5d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00d224bbb706b995e79a5ab11279e5d9]: Commencement: Reg. 37 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-00d224bbb706b995e79a5ab11279e5d9]: Commencement: Reg. 37 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

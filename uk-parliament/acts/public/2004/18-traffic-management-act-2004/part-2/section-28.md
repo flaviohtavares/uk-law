@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Guidance to traffic directors[^key-283bfc3119dace3c5486082dcc2c21b8][^key-5aa2f8634faa5e849c11e6fb0891a5c8]
+## 28. Guidance to traffic directors[^c-283bfc3119dace3c5486082dcc2c21b8][^c-5aa2f8634faa5e849c11e6fb0891a5c8]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-283bfc3119dace3c5486082dcc2c21b8]: Commencement: S. 28 in force at 4.1.2005 for E. by [S.I. 2004/3110](https://www.legislation.gov.uk/uksi/2004/3110), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3110/article/2/a)
+[^c-283bfc3119dace3c5486082dcc2c21b8]: Commencement: S. 28 in force at 4.1.2005 for E. by [S.I. 2004/3110](https://www.legislation.gov.uk/uksi/2004/3110), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3110/article/2/a)
 
-[^key-5aa2f8634faa5e849c11e6fb0891a5c8]: Commencement: S. 28 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/b)
+[^c-5aa2f8634faa5e849c11e6fb0891a5c8]: Commencement: S. 28 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/b)

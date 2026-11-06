@@ -25,7 +25,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-[^key-04917a34b9a9890ca349006a0a46b439]Protection of Animals (Amendment) Act 1988
+[^c-04917a34b9a9890ca349006a0a46b439]Protection of Animals (Amendment) Act 1988
 
 1988 c. 29
 
@@ -35,15 +35,15 @@ An Act to enable a court to disqualify a person for having custody of an animal 
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Disqualification orders on first conviction of cruelty.[^key-4ccee41765bbed8fbf6dceb846155ce9]
+## 1. Disqualification orders on first conviction of cruelty.[^c-4ccee41765bbed8fbf6dceb846155ce9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Offences relating to animal fights.
 
-(1) In [^key-d0b5eb585c832a388eb1a45eda49d7fd]... section 31 of the [^c803505]City of London Police Act 1839 [^key-d0b5eb585c832a388eb1a45eda49d7fd]... (penalties for offences relating to animal fights) for the references to level 1 on the standard scale there shall be substituted references to level 4 on that scale.
+(1) In [^c-d0b5eb585c832a388eb1a45eda49d7fd]... section 31 of the [^c803505]City of London Police Act 1839 [^c-d0b5eb585c832a388eb1a45eda49d7fd]... (penalties for offences relating to animal fights) for the references to level 1 on the standard scale there shall be substituted references to level 4 on that scale.
 
-(2)[^key-92a11c3ed1924dbebf5abc977546c6d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-92a11c3ed1924dbebf5abc977546c6d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After section 1 of the [^c803508]Protection of Animals (Scotland) Act 1912 there shall be inserted—
 
@@ -86,14 +86,14 @@ Section 3(2) and (3).
 
 ## Annotations
 
-[^key-04917a34b9a9890ca349006a0a46b439]: Textual amendment: Act repealed (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [s. 55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1), [Sch. 2 para. 9(m)](https://www.legislation.gov.uk/asp/2006/11/schedule/2/paragraph/9/m) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-04917a34b9a9890ca349006a0a46b439]: Textual amendment: Act repealed (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [s. 55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1), [Sch. 2 para. 9(m)](https://www.legislation.gov.uk/asp/2006/11/schedule/2/paragraph/9/m) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-4ccee41765bbed8fbf6dceb846155ce9]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1988/29/section/1) repealed (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/m)
+[^c-4ccee41765bbed8fbf6dceb846155ce9]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1988/29/section/1) repealed (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/m)
 
-[^key-d0b5eb585c832a388eb1a45eda49d7fd]: Textual amendment: Words in s. 2(1) repealed (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/m)
+[^c-d0b5eb585c832a388eb1a45eda49d7fd]: Textual amendment: Words in s. 2(1) repealed (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/m)
 
 [^c803505]: Marginal citation: [1839 c. x](https://www.legislation.gov.uk/ukla/1839/10)civ.
 
-[^key-92a11c3ed1924dbebf5abc977546c6d2]: Textual amendment: S. 2(2) repealed (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/m)
+[^c-92a11c3ed1924dbebf5abc977546c6d2]: Textual amendment: S. 2(2) repealed (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/m)
 
 [^c803508]: Marginal citation: [1912 c. 14](https://www.legislation.gov.uk/ukpga/1912/14).

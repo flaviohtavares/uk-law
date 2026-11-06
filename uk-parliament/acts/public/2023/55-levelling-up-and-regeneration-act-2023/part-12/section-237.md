@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237. Childcare: use of non-domestic premises[^key-040a91abb8207448dbdbeb835d1d4cca][^key-96a492e587c0bf0f01a3189c2eab2db0]
+## 237. Childcare: use of non-domestic premises[^c-040a91abb8207448dbdbeb835d1d4cca][^c-96a492e587c0bf0f01a3189c2eab2db0]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-040a91abb8207448dbdbeb835d1d4cca]: Commencement: S. 237 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-040a91abb8207448dbdbeb835d1d4cca]: Commencement: S. 237 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-96a492e587c0bf0f01a3189c2eab2db0]: Commencement: [S. 237](https://www.legislation.gov.uk/ukpga/2023/55/section/237) in force at 1.11.2024 by [S.I. 2024/1000](https://www.legislation.gov.uk/uksi/2024/1000), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1000/regulation/2/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/1000/regulation/4), [Schs. 1-3](https://www.legislation.gov.uk/uksi/2024/1000/schedule/1))
+[^c-96a492e587c0bf0f01a3189c2eab2db0]: Commencement: [S. 237](https://www.legislation.gov.uk/ukpga/2023/55/section/237) in force at 1.11.2024 by [S.I. 2024/1000](https://www.legislation.gov.uk/uksi/2024/1000), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1000/regulation/2/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/1000/regulation/4), [Schs. 1-3](https://www.legislation.gov.uk/uksi/2024/1000/schedule/1))

@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 109(1)(d), (2), (3) and (4), 164(1) and (4) and 177(2) and (3) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 22(2F), 23(4), (5)(a) and (6), 115(1), 122(3) and 166(3) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and Articles 7(5)(a), 88(2)(q), 92(5)(u) and 287(2) and (3) of, and paragraph 2(d) of Schedule 1 to, the Pensions (Northern Ireland) Order 2005[^f00004] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-d589fa345917053913bfcf9686a0bbe9]
+## 1. Citation, commencement and interpretation[^c-d589fa345917053913bfcf9686a0bbe9]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Independent Trustee) Regulations (Northern Ireland) 2005 and shall come into operation on 11th April 2005.
 
@@ -67,11 +67,11 @@ and other expressions used in these Regulations have the same meaning as in Part
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. The trustee register[^key-58cb8108be3aabeb69f5bb3d02e92b41]
+## 2. The trustee register[^c-58cb8108be3aabeb69f5bb3d02e92b41]
 
 The Regulator must compile and maintain a register of persons who satisfy the conditions set out in regulation 3.
 
-## 3. Conditions for registration[^key-779a3e78e62e71b526476cc0fcffb43c]
+## 3. Conditions for registration[^c-779a3e78e62e71b526476cc0fcffb43c]
 
 The conditions for registration prescribed for the purposes of Article 23(4) (power to appoint independent trustees) are –
 
@@ -96,7 +96,7 @@ The conditions for registration prescribed for the purposes of Article 23(4) (po
     - (aa) for one of the reasons set out in paragraph (1) of that Article, or
     - (bb) by virtue of being the subject of a court order referred to in paragraph (3)(b) of that Article.
 
-## 4. Refusing to register an applicant in the trustee register[^key-020e2c8071cca64c250ef00660b2816d]
+## 4. Refusing to register an applicant in the trustee register[^c-020e2c8071cca64c250ef00660b2816d]
 
 (1) The function set out in paragraph (2) is prescribed for the purposes of Article 88(2)(q) of the 2005 Order (the Regulator’s procedure in relation to its regulatory functions).
 
@@ -104,7 +104,7 @@ The conditions for registration prescribed for the purposes of Article 23(4) (po
 
 (3) The Regulator may, in such circumstances as it sees fit, delegate the function specified in paragraph (2) to the Determinations Panel[^f00010].
 
-## 5. Removal from the trustee register – amendment of Schedule 2 to the 2005 Order[^key-167caedc0d04ca71122b058a5fca9268]
+## 5. Removal from the trustee register – amendment of Schedule 2 to the 2005 Order[^c-167caedc0d04ca71122b058a5fca9268]
 
 In Schedule 2 to the 2005 Order (the reserved regulatory functions) after paragraph 13 there shall be inserted the following paragraph –
 
@@ -112,17 +112,17 @@ In Schedule 2 to the 2005 Order (the reserved regulatory functions) after paragr
 
 .
 
-## 6. Removal from the trustee register – prescribed regulatory function[^key-f44e866206410f08c9049c40cdd20e79]
+## 6. Removal from the trustee register – prescribed regulatory function[^c-f44e866206410f08c9049c40cdd20e79]
 
 (1) The function set out in paragraph (2) is prescribed for the purposes of Article 92(5)(u) of the 2005 Order (special procedure: applicable cases).
 
 (2) The function referred to in paragraph (1) is the Regulator’s duty under Article 23(4), and regulations made thereunder, to compile and maintain a register of persons who satisfy prescribed conditions to act as independent trustees, but only in so far as that duty entails the removal of a person from that register if he does not satisfy, or no longer satisfies, any such prescribed condition.
 
-## 7. Removal from the trustee register – supplementary provision[^key-6c9f860635094fcfdb4b19b47ab32fca]
+## 7. Removal from the trustee register – supplementary provision[^c-6c9f860635094fcfdb4b19b47ab32fca]
 
 The validity of the appointment of an independent trustee under Article 23(1) or any action taken by him during that appointment is not to be affected by that trustee’s subsequent removal from the register.
 
-## 8. Notification[^key-cb15d15128f827a8862531f9c91a59c7]
+## 8. Notification[^c-cb15d15128f827a8862531f9c91a59c7]
 
 (1) A notice given under Article 22(2B)[^f00011] (circumstances in which provisions relating to independent trustees apply) shall contain the information specified in paragraph (2).
 
@@ -137,7 +137,7 @@ The validity of the appointment of an independent trustee under Article 23(1) or
 - (g) the name and address of the responsible person giving the notice, and
 - (h) the date of the responsible person’s appointment, or the date on which that appointment is to end.
 
-## 9. Access to the trustee register[^key-1bb73a703f151acce1dc7da6d33d3332]
+## 9. Access to the trustee register[^c-1bb73a703f151acce1dc7da6d33d3332]
 
 (1) The Regulator shall provide the most recent copy of the register to any person on request, and may do so either –
 
@@ -146,13 +146,13 @@ The validity of the appointment of an independent trustee under Article 23(1) or
 
 (2) The Regulator may publish the register in any way.
 
-## 10. Multi-employer schemes[^key-a898be128db4f2b5f8e78dfe4e5e0978]
+## 10. Multi-employer schemes[^c-a898be128db4f2b5f8e78dfe4e5e0978]
 
 (1) Where Article 22 applies in relation to a trust scheme which is a multi-employer scheme, by virtue of the circumstances set out in paragraph (1)(a) or (b) of that Article applying to at least one employer in that scheme, Articles 22 to 26[^f00013] (independent trustees) are modified so that references to the employer in those Articles are to be treated as if they were references to each employer to which Article 22 applies.
 
 (2) In this regulation “multi-employer scheme” means a trust scheme in relation to which there is more than one employer.
 
-## 11. Cases where a partnership is the employer[^key-12791afa271a1ac528a7faefa9492f99]
+## 11. Cases where a partnership is the employer[^c-12791afa271a1ac528a7faefa9492f99]
 
 (1) Articles 22 to 26 are modified as specified in paragraphs (2) and (3) in their application to any case where –
 
@@ -167,11 +167,11 @@ The validity of the appointment of an independent trustee under Article 23(1) or
 
 (3) Where, by virtue of paragraph (2), Article 22 applies in relation to the scheme, paragraphs (2) to (3) of that Article and Articles 23 to 26 shall have effect as if references in those provisions to a company included references to the insolvent partnership.
 
-## 12. Extension of the meaning of “employer”[^key-607f137d6494e494993d5157283ef1e5]
+## 12. Extension of the meaning of “employer”[^c-607f137d6494e494993d5157283ef1e5]
 
 For the purposes of Articles 22 to 26 and these Regulations, references to the employer shall include a person who would have been an employer to whom the circumstances set out in sub-paragraph (a) or (b) of Article 22(1) apply, but for the fact that, immediately before an insolvency practitioner or the official receiver began to act as set out in those sub-paragraphs, that person no longer employed any persons in the description of employment to which the scheme in question relates.
 
-## 13. Disclosure requirements and penalty[^key-86f3aeed30f9a3e9389cf4a526b64f29]
+## 13. Disclosure requirements and penalty[^c-86f3aeed30f9a3e9389cf4a526b64f29]
 
 (1) A trustee appointed to a scheme by order made under Article 7(1) or (3)[^f00014] (appointment of trustees) and an independent trustee appointed to a scheme by order made under Article 23(1) (both referred to in this regulation as “the appointed trustee”) must furnish the information specified in paragraph (2) in accordance with the following provisions of this regulation.
 
@@ -185,7 +185,7 @@ For the purposes of Articles 22 to 26 and these Regulations, references to the e
 
 (4) The appointed trustee must furnish any of the information specified in paragraph (2) in writing to any member or prospective member or relevant trade union on request (not being a request made less than 12 months after the last occasion on which such information was furnished to the same person or trade union) within a reasonable period following the request being made.
 
-(5) Where the appointed trustee fails to take all reasonable steps to comply with any requirement imposed upon him by this regulation, the Regulator may by notice in writing[^key-200215c8fa4c73d9ae54d76b731972ae] require him to pay, within 28 days, a penalty which –
+(5) Where the appointed trustee fails to take all reasonable steps to comply with any requirement imposed upon him by this regulation, the Regulator may by notice in writing[^c-200215c8fa4c73d9ae54d76b731972ae] require him to pay, within 28 days, a penalty which –
 
 - (a) in the case of an individual shall not exceed £5,000, and
 - (b) in any other case shall not exceed £50,000.
@@ -207,9 +207,9 @@ For the purposes of Articles 22 to 26 and these Regulations, references to the e
 
 (8) Any information which this regulation requires the appointed trustee to furnish as of course to a member who is not in any employment to which the scheme relates shall be deemed to have been so furnished if it was sent to him by ordinary post to his last address known to the trustees.
 
-(9)[^key-766943e2fb5b5b9a838114bd65b3122c] The appointed trustee may give any information under this regulation in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
+(9)[^c-766943e2fb5b5b9a838114bd65b3122c] The appointed trustee may give any information under this regulation in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (giving information and documents).
 
-## 14. Revocations[^key-c9955c6411322ce2ce64125834031efa]
+## 14. Revocations[^c-c9955c6411322ce2ce64125834031efa]
 
 The following regulations are hereby revoked –
 
@@ -265,15 +265,15 @@ As these Regulations make, in so far as they are made under Part II of the 1995 
 
 [^f00004]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-d589fa345917053913bfcf9686a0bbe9]: Commencement: Reg. 1 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
+[^c-d589fa345917053913bfcf9686a0bbe9]: Commencement: Reg. 1 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
 
 [^f00005]: Footnote: Under section 59(1) of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) the Regulator is required to compile and maintain a register of occupational and personal pension schemes which are or have been “registrable schemes”; *see also* regulation 2 of [S.R. 2005 No. 93](https://www.legislation.gov.uk/nisr/2005/93)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-58cb8108be3aabeb69f5bb3d02e92b41]: Commencement: Reg. 2 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
+[^c-58cb8108be3aabeb69f5bb3d02e92b41]: Commencement: Reg. 2 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
 
-[^key-779a3e78e62e71b526476cc0fcffb43c]: Commencement: Reg. 3 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
+[^c-779a3e78e62e71b526476cc0fcffb43c]: Commencement: Reg. 3 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
 
 [^f00007]: Footnote: Article 3 is substituted by Article 29 of the Pensions (Northern Ireland) Order 2005
 
@@ -281,41 +281,41 @@ As these Regulations make, in so far as they are made under Part II of the 1995 
 
 [^f00009]: Footnote: Article 29(3) and (4) is amended by Schedule 11 to the Pensions (Northern Ireland) Order 2005
 
-[^key-020e2c8071cca64c250ef00660b2816d]: Commencement: Reg. 4 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
+[^c-020e2c8071cca64c250ef00660b2816d]: Commencement: Reg. 4 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
 
 [^f00010]: Footnote: The Determinations Panel is established under section 9 of the Pensions Act 2004
 
-[^key-167caedc0d04ca71122b058a5fca9268]: Commencement: Reg. 5 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
+[^c-167caedc0d04ca71122b058a5fca9268]: Commencement: Reg. 5 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
 
-[^key-f44e866206410f08c9049c40cdd20e79]: Commencement: Reg. 6 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
+[^c-f44e866206410f08c9049c40cdd20e79]: Commencement: Reg. 6 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
 
-[^key-6c9f860635094fcfdb4b19b47ab32fca]: Commencement: Reg. 7 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
+[^c-6c9f860635094fcfdb4b19b47ab32fca]: Commencement: Reg. 7 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
 
-[^key-cb15d15128f827a8862531f9c91a59c7]: Commencement: Reg. 8 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
+[^c-cb15d15128f827a8862531f9c91a59c7]: Commencement: Reg. 8 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
 
 [^f00011]: Footnote: Article 22(2B) is inserted by Article 32(2)(d) of the Pensions (Northern Ireland) Order 2005
 
 [^f00012]: Footnote: Article 22 was amended by section 43(1) of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)) and is amended by Article 32(2) of, and paragraph 34 of Schedule 10 to, and Schedule 11 to, the Pensions (Northern Ireland) Order 2005
 
-[^key-1bb73a703f151acce1dc7da6d33d3332]: Commencement: Reg. 9 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
+[^c-1bb73a703f151acce1dc7da6d33d3332]: Commencement: Reg. 9 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
 
-[^key-a898be128db4f2b5f8e78dfe4e5e0978]: Commencement: Reg. 10 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
+[^c-a898be128db4f2b5f8e78dfe4e5e0978]: Commencement: Reg. 10 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
 
 [^f00013]: Footnote: Articles 23 and 24 are substituted by Article 32(3) of the Pensions (Northern Ireland) Order 2005; Article 25 is amended by Article 32(4) of, and paragraph 35 of Schedule 10 to, and Schedule 11 to, that Order; Article 26 is amended by paragraph 36 of Schedule 10 to that Order
 
-[^key-12791afa271a1ac528a7faefa9492f99]: Commencement: Reg. 11 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
+[^c-12791afa271a1ac528a7faefa9492f99]: Commencement: Reg. 11 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
 
-[^key-607f137d6494e494993d5157283ef1e5]: Commencement: Reg. 12 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
+[^c-607f137d6494e494993d5157283ef1e5]: Commencement: Reg. 12 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
 
-[^key-86f3aeed30f9a3e9389cf4a526b64f29]: Commencement: Reg. 13 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
+[^c-86f3aeed30f9a3e9389cf4a526b64f29]: Commencement: Reg. 13 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
 
 [^f00014]: Footnote: Article 7(1) is amended by paragraph 30 of Schedule 10 and Schedule 11 to the Pensions (Northern Ireland) Order 2005
 
-[^key-200215c8fa4c73d9ae54d76b731972ae]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/nisr/2005/169/regulation/13/5) inserted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [15](https://www.legislation.gov.uk/nisr/2009/115/regulation/15)
+[^c-200215c8fa4c73d9ae54d76b731972ae]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/nisr/2005/169/regulation/13/5) inserted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [15](https://www.legislation.gov.uk/nisr/2009/115/regulation/15)
 
-[^key-766943e2fb5b5b9a838114bd65b3122c]: Textual amendment: [Reg. 13(9)](https://www.legislation.gov.uk/nisr/2005/169/regulation/13/9) added (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 12](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/12)
+[^c-766943e2fb5b5b9a838114bd65b3122c]: Textual amendment: [Reg. 13(9)](https://www.legislation.gov.uk/nisr/2005/169/regulation/13/9) added (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 12](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/12)
 
-[^key-c9955c6411322ce2ce64125834031efa]: Commencement: Reg. 14 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
+[^c-c9955c6411322ce2ce64125834031efa]: Commencement: Reg. 14 in operation at 11.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/169/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1997 No. 99](https://www.legislation.gov.uk/nisr/1997/99)
 

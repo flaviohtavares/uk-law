@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Operation of generating stations[^key-c61ef75fc7ced1c30a518e5b8fb9d755]
+## 28. Operation of generating stations[^c-c61ef75fc7ced1c30a518e5b8fb9d755]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c61ef75fc7ced1c30a518e5b8fb9d755]: Commencement: Art. 28 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-c61ef75fc7ced1c30a518e5b8fb9d755]: Commencement: Art. 28 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

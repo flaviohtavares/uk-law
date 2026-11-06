@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 87. Changes of fund and variable time employees[^key-07af6e9402d5dd5bd9db93f50f338679]
+## 87. Changes of fund and variable time employees[^c-07af6e9402d5dd5bd9db93f50f338679]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ An inter-fund transfer under regulation 86(2) in respect of a member who is a va
 
 ## Annotations
 
-[^key-07af6e9402d5dd5bd9db93f50f338679]: Commencement: Reg. 87 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-07af6e9402d5dd5bd9db93f50f338679]: Commencement: Reg. 87 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 293. Summoning of meeting to appoint first trustee.[^key-9da81118a0423d2044f3de193e895761]
+## 293. Summoning of meeting to appoint first trustee.[^c-9da81118a0423d2044f3de193e895761]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9da81118a0423d2044f3de193e895761]: Textual amendment: Ss. 293-295 omitted (6.4.2017 for E.W.) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2015/26/schedule/10/paragraph/6); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/f)
+[^c-9da81118a0423d2044f3de193e895761]: Textual amendment: Ss. 293-295 omitted (6.4.2017 for E.W.) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2015/26/schedule/10/paragraph/6); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/f)

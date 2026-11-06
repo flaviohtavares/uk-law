@@ -34,11 +34,11 @@ An Act to extend the period for the Secretary of State to exercise powers relati
 
 \[23rd May 2018\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-cbe7cf6896771c7e546367ba8e627070]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-cbe7cf6896771c7e546367ba8e627070]
 
 ## Powers
 
-### 1. Smart meters: extension of time for exercise of powers[^key-4bfb7a553d8b4cd63753b4e1d099db10]
+### 1. Smart meters: extension of time for exercise of powers[^c-4bfb7a553d8b4cd63753b4e1d099db10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -198,7 +198,7 @@ In section 159(3) of the Energy Act 2004 (conduct of administration, transfer sc
 (10) In section 33(1) of the Utilities Act 2000 (standard conditions of generation, distribution and supply licences under Part 1 of the Electricity Act 1989)—
 
 - (a) in paragraph (f) omit the second “or”;
-- (b)[^key-cbf901845523ec8f2a51901428485d33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-cbf901845523ec8f2a51901428485d33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In section 81(2) of the Utilities Act 2000 (standard conditions of transporter, supply and shipping licences under Part 1 of the Gas Act 1986)—
 
@@ -306,7 +306,7 @@ In section 159(3) of the Energy Act 2004 (conduct of administration, transfer sc
 
 ## Half-hourly settlement of electricity imbalances
 
-### 11. Modification of electricity codes etc: settlement using smart meter information[^key-379b4dd9261ed947610c1691c50eb680]
+### 11. Modification of electricity codes etc: settlement using smart meter information[^c-379b4dd9261ed947610c1691c50eb680]
 
 (1) The Gas and Electricity Markets Authority (“**the Authority**”) may—
 
@@ -335,7 +335,7 @@ if the condition in subsection (2) is satisfied.
 - “**transmission system**” has the same meaning as in Part 1 of the Electricity Act 1989 (see section 4(4) of that Act);
 - “**transmission system operator**” means the person operating the national transmission system for Great Britain.
 
-### 12. Modification under section 11[^key-6b12c92441a736dc3a3b0e525d90970a]
+### 12. Modification under section 11[^c-6b12c92441a736dc3a3b0e525d90970a]
 
 (1) Before making a modification under section 11, the Gas and Electricity Markets Authority (“**the Authority**”) must—
 
@@ -348,7 +348,7 @@ if the condition in subsection (2) is satisfied.
 - (a) each relevant licence holder,
 - (b) the Secretary of State,
 - (c) Citizens Advice,
-- (d) Consumer Scotland[^key-05afe8f64ca72f6f143b15861a00e7e4], and
+- (d) Consumer Scotland[^c-05afe8f64ca72f6f143b15861a00e7e4], and
 - (e) such other persons as the Authority considers appropriate.
 
 (3) The period specified under subsection (1)(c) must be a period of not less than 28 days beginning with the day on which the notice is published.
@@ -383,7 +383,7 @@ if the condition in subsection (2) is satisfied.
 - “**electricity licence**” has the meaning given in section 11;
 - “**relevant licence holder**” means, in relation to the modification of a document maintained under an electricity licence or an agreement that gives effect to such a document, the holder of a licence under which the document is maintained.
 
-### 13. Date from which modifications of electricity licence conditions may have effect[^key-947530d8e8073fec08c2a8d5cd2b65d6]
+### 13. Date from which modifications of electricity licence conditions may have effect[^c-947530d8e8073fec08c2a8d5cd2b65d6]
 
 (1) The Electricity Act 1989 is amended in accordance with this section.
 
@@ -435,16 +435,16 @@ if the condition in subsection (2) is satisfied.
 
 ## Annotations
 
-[^key-cbe7cf6896771c7e546367ba8e627070]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2018/14) modified (E.W.) (1.8.2020) by [The Smart Meter Communication Licensee Administration (England and Wales) Rules 2020 (S.I. 2020/629)](https://www.legislation.gov.uk/uksi/2020/629), [rule 3(2)](https://www.legislation.gov.uk/uksi/2020/629/rule/3/2)[(3)](https://www.legislation.gov.uk/uksi/2020/629/rule/3/3) (with [rule 4(1)](https://www.legislation.gov.uk/uksi/2020/629/rule/4/1))
+[^c-cbe7cf6896771c7e546367ba8e627070]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2018/14) modified (E.W.) (1.8.2020) by [The Smart Meter Communication Licensee Administration (England and Wales) Rules 2020 (S.I. 2020/629)](https://www.legislation.gov.uk/uksi/2020/629), [rule 3(2)](https://www.legislation.gov.uk/uksi/2020/629/rule/3/2)[(3)](https://www.legislation.gov.uk/uksi/2020/629/rule/3/3) (with [rule 4(1)](https://www.legislation.gov.uk/uksi/2020/629/rule/4/1))
 
-[^key-4bfb7a553d8b4cd63753b4e1d099db10]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2018/14/section/1) omitted (26.10.2023) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 215(7)](https://www.legislation.gov.uk/ukpga/2023/52/section/215/7), [334(2)(k)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/k)
+[^c-4bfb7a553d8b4cd63753b4e1d099db10]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2018/14/section/1) omitted (26.10.2023) by virtue of [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 215(7)](https://www.legislation.gov.uk/ukpga/2023/52/section/215/7), [334(2)(k)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/k)
 
-[^key-cbf901845523ec8f2a51901428485d33]: Textual amendment: [S. 6(10)(b)](https://www.legislation.gov.uk/ukpga/2018/14/section/6/10/b) repealed (1.6.2022) by [Nuclear Energy (Financing) Act 2022 (c. 15)](https://www.legislation.gov.uk/ukpga/2022/15), [s. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/d), [Sch. para. 4(a)](https://www.legislation.gov.uk/ukpga/2022/15/schedule/paragraph/4/a)
+[^c-cbf901845523ec8f2a51901428485d33]: Textual amendment: [S. 6(10)(b)](https://www.legislation.gov.uk/ukpga/2018/14/section/6/10/b) repealed (1.6.2022) by [Nuclear Energy (Financing) Act 2022 (c. 15)](https://www.legislation.gov.uk/ukpga/2022/15), [s. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/d), [Sch. para. 4(a)](https://www.legislation.gov.uk/ukpga/2022/15/schedule/paragraph/4/a)
 
-[^key-379b4dd9261ed947610c1691c50eb680]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2018/14/section/11) in force at 30.4.2024 by [S.I. 2024/465](https://www.legislation.gov.uk/uksi/2024/465), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/465/regulation/2/a)
+[^c-379b4dd9261ed947610c1691c50eb680]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2018/14/section/11) in force at 30.4.2024 by [S.I. 2024/465](https://www.legislation.gov.uk/uksi/2024/465), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/465/regulation/2/a)
 
-[^key-6b12c92441a736dc3a3b0e525d90970a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2018/14/section/12) in force at 30.4.2024 by [S.I. 2024/465](https://www.legislation.gov.uk/uksi/2024/465), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/465/regulation/2/b)
+[^c-6b12c92441a736dc3a3b0e525d90970a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2018/14/section/12) in force at 30.4.2024 by [S.I. 2024/465](https://www.legislation.gov.uk/uksi/2024/465), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/465/regulation/2/b)
 
-[^key-05afe8f64ca72f6f143b15861a00e7e4]: Textual amendment: Words in [s. 12(2)(d)](https://www.legislation.gov.uk/ukpga/2018/14/section/12/2/d) substituted (13.1.2022) by [The Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 (S.I. 2022/34)](https://www.legislation.gov.uk/uksi/2022/34), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/34/article/1/1), [Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2022/34/schedule/paragraph/9/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/34/article/5))
+[^c-05afe8f64ca72f6f143b15861a00e7e4]: Textual amendment: Words in [s. 12(2)(d)](https://www.legislation.gov.uk/ukpga/2018/14/section/12/2/d) substituted (13.1.2022) by [The Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 (S.I. 2022/34)](https://www.legislation.gov.uk/uksi/2022/34), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/34/article/1/1), [Sch. para. 9(2)](https://www.legislation.gov.uk/uksi/2022/34/schedule/paragraph/9/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/34/article/5))
 
-[^key-947530d8e8073fec08c2a8d5cd2b65d6]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2018/14/section/13) in force at 30.4.2024 by [S.I. 2024/465](https://www.legislation.gov.uk/uksi/2024/465), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/465/regulation/2/c)
+[^c-947530d8e8073fec08c2a8d5cd2b65d6]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2018/14/section/13) in force at 30.4.2024 by [S.I. 2024/465](https://www.legislation.gov.uk/uksi/2024/465), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/465/regulation/2/c)

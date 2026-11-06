@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Separation of child in police detention from adults charged with offences[^key-e74aff2ca4bcd1be55e2f0d0019d7a78]
+## 9. Separation of child in police detention from adults charged with offences[^c-e74aff2ca4bcd1be55e2f0d0019d7a78]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e74aff2ca4bcd1be55e2f0d0019d7a78]: Modification: [Art. 9](https://www.legislation.gov.uk/nisi/1998/1504/article/9) applied (with modifications) by 1994 c. 33, s. 137D(4)(d) Sch. 7B Pt. 3 (as inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in operation) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1)[(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f))
+[^c-e74aff2ca4bcd1be55e2f0d0019d7a78]: Modification: [Art. 9](https://www.legislation.gov.uk/nisi/1998/1504/article/9) applied (with modifications) by 1994 c. 33, s. 137D(4)(d) Sch. 7B Pt. 3 (as inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in operation) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1)[(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f))

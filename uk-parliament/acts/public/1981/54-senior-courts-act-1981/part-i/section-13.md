@@ -29,9 +29,9 @@ summary: ''
 
 (2A) The President of the Family Division shall rank next after the President of the Queen's Bench Division.
 
-(3) The President of the Business and Property Division[^key-b33b13c0e0671df0515f053464ff95eb] shall rank next after the President of the Family Division.
+(3) The President of the Business and Property Division[^c-b33b13c0e0671df0515f053464ff95eb] shall rank next after the President of the Family Division.
 
-(4) The vice-president or vice-presidents of the divisions of the Court of Appeal shall rank next after the President of the Business and Property Division[^key-185cd2b71dd47e6b3b9c145f91af3cce]; and if there are two vice-presidents of those divisions, they shall rank, among themselves, according to the priority of the dates on which they respectively became vice-presidents.
+(4) The vice-president or vice-presidents of the divisions of the Court of Appeal shall rank next after the President of the Business and Property Division[^c-185cd2b71dd47e6b3b9c145f91af3cce]; and if there are two vice-presidents of those divisions, they shall rank, among themselves, according to the priority of the dates on which they respectively became vice-presidents.
 
 (5) The Lords Justices of Appeal (other than the vice-president or vice-presidents of the divisions of the Court of Appeal) shall rank after the ex-officio judges of the Court of Appeal and, among themselves, according to the priority of the dates on which they respectively became judges of that court.
 
@@ -45,6 +45,6 @@ summary: ''
 
 [^c20660401]: Textual amendment: [S. 13(2)-(3)](https://www.legislation.gov.uk/ukpga/1981/54/section/13/2) substituted (1.10.2005) for s. 13(2)(3) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 125(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/125/2); [S.I. 2005/2505](https://www.legislation.gov.uk/uksi/2005/2505), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2505/article/2/c)
 
-[^key-b33b13c0e0671df0515f053464ff95eb]: Textual amendment: Words in [s. 13(3)](https://www.legislation.gov.uk/ukpga/1981/54/section/13/3) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 12(2)(f)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/12/2/f)
+[^c-b33b13c0e0671df0515f053464ff95eb]: Textual amendment: Words in [s. 13(3)](https://www.legislation.gov.uk/ukpga/1981/54/section/13/3) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 12(2)(f)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/12/2/f)
 
-[^key-185cd2b71dd47e6b3b9c145f91af3cce]: Textual amendment: Words in [s. 13(4)](https://www.legislation.gov.uk/ukpga/1981/54/section/13/4) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 12(2)(f)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/12/2/f)
+[^c-185cd2b71dd47e6b3b9c145f91af3cce]: Textual amendment: Words in [s. 13(4)](https://www.legislation.gov.uk/ukpga/1981/54/section/13/4) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 12(2)(f)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/12/2/f)

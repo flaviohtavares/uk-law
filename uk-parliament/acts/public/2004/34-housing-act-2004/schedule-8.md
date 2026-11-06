@@ -16,32 +16,32 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8[^key-55c3ce459d3486bc85f7f6b2fa6eb435]
+## SCHEDULE 8[^c-55c3ce459d3486bc85f7f6b2fa6eb435]
 
 *Extent: E+W*
 
-**1.**[^key-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-55c3ce459d3486bc85f7f6b2fa6eb435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-55c3ce459d3486bc85f7f6b2fa6eb435]: Textual amendment: Sch. 8 repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(m)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/m), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)
+[^c-55c3ce459d3486bc85f7f6b2fa6eb435]: Textual amendment: Sch. 8 repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(m)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/m), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)

@@ -48,19 +48,19 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by sections 6(4), 16(1)(e) and (f), 17(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990[^f00001] and of all other powers enabling them in that behalf, having had regard in accordance with section 48(4A)[^f00002] of that Act to relevant advice given by the Food Standards Agency and after consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], hereby make the following Regulations:
 
-## 1. Citation, commencement and extent[^key-765dcfeea029024f5b3b3f5eb3c15f77]
+## 1. Citation, commencement and extent[^c-765dcfeea029024f5b3b3f5eb3c15f77]
 
 (1) These Regulations may be cited as the Food Labelling Amendment (No. 2) (Scotland) Regulations 2005 and come into force on 25th November 2005.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-8256b50529db3eef0c2ac8f0ee7230e7]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-8256b50529db3eef0c2ac8f0ee7230e7]
 
 The Food Labelling Regulations 1996[^f00004] are amended in accordance with regulations 3 to 7.
 
-**3.**[^key-6312aa0654b6e8d614fcc642212b0962] In regulation 2(1) (interpretation), in the definition of “Directive 2000/13”[^f00005], for the words from “and Commission Directive [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067)” to the end, substitute “, Commission Directive [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067)[^f00006] on the labelling of foodstuffs containing quinine and of foodstuffs containing caffeine and Commission Directive [2005/26/EC](https://www.legislation.gov.uk/european/directive/2005/0026)[^f00007] establishing a list of food ingredients or substances provisionally excluded from Annex IIIa of Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013)”.
+**3.**[^c-6312aa0654b6e8d614fcc642212b0962] In regulation 2(1) (interpretation), in the definition of “Directive 2000/13”[^f00005], for the words from “and Commission Directive [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067)” to the end, substitute “, Commission Directive [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067)[^f00006] on the labelling of foodstuffs containing quinine and of foodstuffs containing caffeine and Commission Directive [2005/26/EC](https://www.legislation.gov.uk/european/directive/2005/0026)[^f00007] establishing a list of food ingredients or substances provisionally excluded from Annex IIIa of Directive [2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013)”.
 
-**4.**[^key-53d5971d2b7cf4afd3df0088ba4b0b2d] For regulation 13(8)(c) (order of list of ingredients)[^f00008], substitute–
+**4.**[^c-53d5971d2b7cf4afd3df0088ba4b0b2d] For regulation 13(8)(c) (order of list of ingredients)[^f00008], substitute–
 
 > - (c) are not–
 >   - (i) additives;
@@ -69,7 +69,7 @@ The Food Labelling Regulations 1996[^f00004] are amended in accordance with regu
 
 .
 
-**5.**[^key-2ac381c29d18384c7620202471fdaf9c] In regulation 34B (foods containing allergenic ingredients or ingredients originating from allergenic ingredients)[^f00009]–
+**5.**[^c-2ac381c29d18384c7620202471fdaf9c] In regulation 34B (foods containing allergenic ingredients or ingredients originating from allergenic ingredients)[^f00009]–
 
 - (a) in paragraph (1), for “Subject to paragraph (2)” substitute “Subject to paragraphs (2) and (3)”;
 - (b) at the beginning of paragraph (2)(b), insert “subject to paragraph (3),”; and
@@ -79,9 +79,9 @@ The Food Labelling Regulations 1996[^f00004] are amended in accordance with regu
 
   .
 
-**6.**[^key-20b49160eccf27d3cb3976899ce4bed1] In regulation 50(12)(b) (transitional provision)[^f00010], after “2004”, insert “(as read with the Food Labelling Amendment (No. 2) (Scotland) Regulations 2005)”.
+**6.**[^c-20b49160eccf27d3cb3976899ce4bed1] In regulation 50(12)(b) (transitional provision)[^f00010], after “2004”, insert “(as read with the Food Labelling Amendment (No. 2) (Scotland) Regulations 2005)”.
 
-**7.**[^key-371ecb0bc6a4f95eca41ccecbd29da3f] After Schedule 2 (indications of treatment), insert as Schedule 2A the contents of the Schedule to these Regulations.
+**7.**[^c-371ecb0bc6a4f95eca41ccecbd29da3f] After Schedule 2 (indications of treatment), insert as Schedule 2A the contents of the Schedule to these Regulations.
 
 LEWIS MACDONALD
 
@@ -91,7 +91,7 @@ St Andrew’s House, Edinburgh
 
 15th September 2005
 
-## SCHEDULE — SCHEDULE 2A TO BE INSERTED IN THE FOOD LABELLING REGULATIONS 1996[^key-9f0f4fbdf965fe89f8938863444dbf66]
+## SCHEDULE — SCHEDULE 2A TO BE INSERTED IN THE FOOD LABELLING REGULATIONS 1996[^c-9f0f4fbdf965fe89f8938863444dbf66]
 
 Regulation 7
 
@@ -140,13 +140,13 @@ A Regulatory Impact Assessment of the effect which these Regulations would have 
 
 [^f00003]: Footnote: O.J. No. L 31, 1.2.02, p.1 as amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council (O.J. No. L 245, 29.9.03, p.4).
 
-[^key-765dcfeea029024f5b3b3f5eb3c15f77]: Commencement: Reg. 1 in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)
+[^c-765dcfeea029024f5b3b3f5eb3c15f77]: Commencement: Reg. 1 in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)
 
-[^key-8256b50529db3eef0c2ac8f0ee7230e7]: Commencement: Reg. 2 in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)
+[^c-8256b50529db3eef0c2ac8f0ee7230e7]: Commencement: Reg. 2 in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1996/1499](https://www.legislation.gov.uk/uksi/1996/1499), relevantly amended by S.I. [1998/1398](https://www.legislation.gov.uk/uksi/1998/1398), [1999/747](https://www.legislation.gov.uk/uksi/1999/747), [1136](https://www.legislation.gov.uk/uksi/1999/1136) and [1483](https://www.legislation.gov.uk/uksi/1999/1483) and [S.S.I. 2002/524](https://www.legislation.gov.uk/ssi/2002/524), [2003/578](https://www.legislation.gov.uk/ssi/2003/578) and [2004/472](https://www.legislation.gov.uk/ssi/2004/472).
 
-[^key-6312aa0654b6e8d614fcc642212b0962]: Commencement: Reg. 3 in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)
+[^c-6312aa0654b6e8d614fcc642212b0962]: Commencement: Reg. 3 in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)
 
 [^f00005]: Footnote: The definition of “Directive 2000/13” was substituted by [S.S.I. 2004/472](https://www.legislation.gov.uk/ssi/2004/472), regulation 3(b).
 
@@ -154,18 +154,18 @@ A Regulatory Impact Assessment of the effect which these Regulations would have 
 
 [^f00007]: Footnote: O.J. No. L 75, 22.3.05, p.33.
 
-[^key-53d5971d2b7cf4afd3df0088ba4b0b2d]: Commencement: Reg. 4 in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)
+[^c-53d5971d2b7cf4afd3df0088ba4b0b2d]: Commencement: Reg. 4 in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)
 
 [^f00008]: Footnote: Regulation 13(8)(c) was inserted by [S.S.I. 2004/472](https://www.legislation.gov.uk/ssi/2004/472), regulation 5.
 
-[^key-2ac381c29d18384c7620202471fdaf9c]: Commencement: Reg. 5 in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)
+[^c-2ac381c29d18384c7620202471fdaf9c]: Commencement: Reg. 5 in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)
 
 [^f00009]: Footnote: Regulation 34B was inserted by [S.S.I. 2004/472](https://www.legislation.gov.uk/ssi/2004/472), regulation 12.
 
-[^key-20b49160eccf27d3cb3976899ce4bed1]: Commencement: Reg. 6 in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)
+[^c-20b49160eccf27d3cb3976899ce4bed1]: Commencement: Reg. 6 in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)
 
 [^f00010]: Footnote: Regulation 50(12)(b) was inserted by [S.S.I. 2004/472](https://www.legislation.gov.uk/ssi/2004/472), regulation 13.
 
-[^key-371ecb0bc6a4f95eca41ccecbd29da3f]: Commencement: Reg. 7 in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)
+[^c-371ecb0bc6a4f95eca41ccecbd29da3f]: Commencement: Reg. 7 in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)
 
-[^key-9f0f4fbdf965fe89f8938863444dbf66]: Commencement: Sch. in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)
+[^c-9f0f4fbdf965fe89f8938863444dbf66]: Commencement: Sch. in force at 25.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/456/regulation/1/1)

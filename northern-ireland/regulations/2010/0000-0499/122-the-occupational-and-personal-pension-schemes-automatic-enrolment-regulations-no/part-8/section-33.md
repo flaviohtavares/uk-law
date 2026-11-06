@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Information[^key-b8e64e0b0c0593456f84eec65054a4e6]
+## 33. Information[^c-b8e64e0b0c0593456f84eec65054a4e6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8e64e0b0c0593456f84eec65054a4e6]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/nisr/2010/122/regulation/33) revoked (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [14(a)](https://www.legislation.gov.uk/nisr/2015/310/regulation/14/a)
+[^c-b8e64e0b0c0593456f84eec65054a4e6]: Textual amendment: [Reg. 33](https://www.legislation.gov.uk/nisr/2010/122/regulation/33) revoked (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [14(a)](https://www.legislation.gov.uk/nisr/2015/310/regulation/14/a)

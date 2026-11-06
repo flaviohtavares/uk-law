@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Multiple regular full-time or part-time employments[^key-bbbc33d89edd4518a3d659f6dbcdb2a8]
+## 38. Multiple regular full-time or part-time employments[^c-bbbc33d89edd4518a3d659f6dbcdb2a8]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ where—
 
 ## Annotations
 
-[^key-bbbc33d89edd4518a3d659f6dbcdb2a8]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2014/292/regulation/38) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-bbbc33d89edd4518a3d659f6dbcdb2a8]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2014/292/regulation/38) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

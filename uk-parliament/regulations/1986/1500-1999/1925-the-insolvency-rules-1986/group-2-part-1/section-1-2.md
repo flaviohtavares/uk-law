@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.2. Preparation of proposal[^key-416578d69957998717f4bb6bbbd420bb]
+## 1.2. Preparation of proposal[^c-416578d69957998717f4bb6bbbd420bb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The directors shall prepare for the intended nominee a proposal on which (with o
 
 ## Annotations
 
-[^key-416578d69957998717f4bb6bbbd420bb]: Commencement: [Rule 1.2](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.2) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-416578d69957998717f4bb6bbbd420bb]: Commencement: [Rule 1.2](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.2) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

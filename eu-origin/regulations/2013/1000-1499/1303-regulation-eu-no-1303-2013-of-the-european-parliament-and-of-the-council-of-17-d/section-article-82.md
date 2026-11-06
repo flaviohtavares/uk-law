@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 82. Clearance of initial pre-financing[^key-2d2e4c934c1feeea6b0fcdf63ce86ba0]
+## Article 82. Clearance of initial pre-financing[^c-2d2e4c934c1feeea6b0fcdf63ce86ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d2e4c934c1feeea6b0fcdf63ce86ba0]: Textual amendment: [Arts. 81-88](https://www.legislation.gov.uk/eur/2013/1303/article/81) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2019/785/regulation/13/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d2e4c934c1feeea6b0fcdf63ce86ba0]: Textual amendment: [Arts. 81-88](https://www.legislation.gov.uk/eur/2013/1303/article/81) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2019/785/regulation/13/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

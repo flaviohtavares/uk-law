@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.189. Application for order[^key-4daa35e0cc4359e29b7dd4c10bcb4da6]
+## 6.189. Application for order[^c-4daa35e0cc4359e29b7dd4c10bcb4da6]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4daa35e0cc4359e29b7dd4c10bcb4da6]: Commencement: [Rule 6.189](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.189) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-4daa35e0cc4359e29b7dd4c10bcb4da6]: Commencement: [Rule 6.189](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.189) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00188]: Marginal citation: \[FORM 6.64\]

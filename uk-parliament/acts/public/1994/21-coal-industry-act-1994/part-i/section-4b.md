@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4B. Coal mine water discharge: powers of entry[^key-c8c72084aa3a8e709cb168c21af60605]
+## 4B. Coal mine water discharge: powers of entry[^c-c8c72084aa3a8e709cb168c21af60605]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ any entry on to those premises by virtue of this section shall be effected only 
 
 ## Annotations
 
-[^key-c8c72084aa3a8e709cb168c21af60605]: Textual amendment: Ss. 4A-4C inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 85(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/85/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/641/article/3/w) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-c8c72084aa3a8e709cb168c21af60605]: Textual amendment: Ss. 4A-4C inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 85(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/85/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/641/article/3/w) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

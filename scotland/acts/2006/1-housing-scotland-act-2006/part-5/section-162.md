@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 162. Grants: exercise of functions in relation to HMOs[^key-0be7698a4c0855f4f92df7fb34a56abd]
+## 162. Grants: exercise of functions in relation to HMOs[^c-0be7698a4c0855f4f92df7fb34a56abd]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may pay to a local authority such sums as they think fit 
 
 ## Annotations
 
-[^key-0be7698a4c0855f4f92df7fb34a56abd]: Commencement: [S. 162](https://www.legislation.gov.uk/asp/2006/1/section/162) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-0be7698a4c0855f4f92df7fb34a56abd]: Commencement: [S. 162](https://www.legislation.gov.uk/asp/2006/1/section/162) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

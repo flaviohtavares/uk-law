@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Release from duty to submit statement of affairs; extension of time[^key-b3982bc5d4f6865898f86d5de1f375a2]
+## 30. Release from duty to submit statement of affairs; extension of time[^c-b3982bc5d4f6865898f86d5de1f375a2]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3982bc5d4f6865898f86d5de1f375a2]: Commencement: Rule 30 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-b3982bc5d4f6865898f86d5de1f375a2]: Commencement: Rule 30 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

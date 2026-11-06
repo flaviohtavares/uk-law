@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Provision of immigration services[^key-bf97706cbe8c12c8705d8de394e1c247]
+## 37. Provision of immigration services[^c-bf97706cbe8c12c8705d8de394e1c247]
 
 *Extent: E+W+S+N.I.*
 
@@ -108,4 +108,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf97706cbe8c12c8705d8de394e1c247]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2004/19/section/37) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-bf97706cbe8c12c8705d8de394e1c247]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2004/19/section/37) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)

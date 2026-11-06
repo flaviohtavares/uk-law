@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 243. Order for examination, etc.[^key-9c5827a0f549c81711af150b904647b9]
+## 243. Order for examination, etc.[^c-9c5827a0f549c81711af150b904647b9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 9.3 of the 1986 Rules.
 
 ## Annotations
 
-[^key-9c5827a0f549c81711af150b904647b9]: Commencement: Rule 243 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-9c5827a0f549c81711af150b904647b9]: Commencement: Rule 243 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

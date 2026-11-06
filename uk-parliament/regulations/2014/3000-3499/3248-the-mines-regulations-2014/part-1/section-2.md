@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-f3738e100d65dbe9c7a3b39d8c862618]
+## 2. Interpretation[^c-f3738e100d65dbe9c7a3b39d8c862618]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 - “abandoned mine” means—
   - (a) a mine to which section 151 of the 1954 Act applied immediately before the commencement date; or
   - (b) a mine in respect of which a notice of abandonment has been given;
-- “action level” means, in relation to respirable dust, a concentration in air equal to or greater than 3mg/m[^key-0dfd31498aff07814a506a97e0a5dd3f]<sup>3</sup> as a time-weighted average over a 40 hour period;
+- “action level” means, in relation to respirable dust, a concentration in air equal to or greater than 3mg/m[^c-0dfd31498aff07814a506a97e0a5dd3f]<sup>3</sup> as a time-weighted average over a 40 hour period;
 - “appoint” in relation to a person means appoint in writing with a statement summarising the person’s duties and authority, and “appointed” is to be construed accordingly;
 - “auxiliary fan” means a fan used or intended to be used at a mine wholly or mainly for ventilating a heading, drift or blind end;
 - “commencement date” means 6th April 2015;
@@ -94,7 +94,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f3738e100d65dbe9c7a3b39d8c862618]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/3248/regulation/2) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-f3738e100d65dbe9c7a3b39d8c862618]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/3248/regulation/2) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
 
 [^f00008]: Footnote: [1954 c.70](https://www.legislation.gov.uk/ukpga/1954/70).
 
@@ -102,7 +102,7 @@ summary: ''
 
 [^f00010]: Footnote: [S.I. 2014/1638](https://www.legislation.gov.uk/uksi/2014/1638).
 
-[^key-0dfd31498aff07814a506a97e0a5dd3f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/2/1) substituted (2.3.2020) by [The Carcinogens and Mutagens (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/40)](https://www.legislation.gov.uk/uksi/2020/40), [regs. 1](https://www.legislation.gov.uk/uksi/2020/40/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2020/40/regulation/7/2)
+[^c-0dfd31498aff07814a506a97e0a5dd3f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/2/1) substituted (2.3.2020) by [The Carcinogens and Mutagens (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/40)](https://www.legislation.gov.uk/uksi/2020/40), [regs. 1](https://www.legislation.gov.uk/uksi/2020/40/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2020/40/regulation/7/2)
 
 [^f00011]: Footnote: [S.I. 2002/2677](https://www.legislation.gov.uk/uksi/2002/2677).
 

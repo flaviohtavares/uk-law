@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Special measures to prevent the spread of African swine fever virus by vectors[^key-00da10e39cfc918b1dbb92d4cd0d5c23]
+## 16. Special measures to prevent the spread of African swine fever virus by vectors[^c-00da10e39cfc918b1dbb92d4cd0d5c23]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00da10e39cfc918b1dbb92d4cd0d5c23]: Commencement: Reg. 16 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-00da10e39cfc918b1dbb92d4cd0d5c23]: Commencement: Reg. 16 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

@@ -46,17 +46,17 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs make the following Regulations in exercise of the powers conferred by section 169 of, and paragraph 5(2) of Schedule 33 and paragraph 51(4) of Schedule 36 to, the Finance Act 2004[^f00001] and which are now exercisable by them [^f00002].
 
-## 1. Citation, commencement and interpretation[^key-0bac111ef344ed38041aa4d2c851f3e6]
+## 1. Citation, commencement and interpretation[^c-0bac111ef344ed38041aa4d2c851f3e6]
 
 (1) These Regulations may be cited as the Pension Schemes (Information Requirements for Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) Regulations 2006 and shall come into force on 6th April 2006.
 
 (2) In these Regulations—
 
-- “the Act” means the Finance Act 2004 and a reference to a numbered section or Schedule, without more, is a reference to the section of; or Schedule to, the Act bearing that number; [^key-7da98dda04eca72486084c6aef60fdef]...
-- “[^key-abe45d49bea1e98463fc92beae5d13a6]**available**”: a reference to the amount of a member’s overseas transfer allowance that is available at any time is to the amount of that allowance that would be available if a transfer of the kind mentioned in section 244IA(1)(a) were made at that time;
+- “the Act” means the Finance Act 2004 and a reference to a numbered section or Schedule, without more, is a reference to the section of; or Schedule to, the Act bearing that number; [^c-7da98dda04eca72486084c6aef60fdef]...
+- “[^c-abe45d49bea1e98463fc92beae5d13a6]**available**”: a reference to the amount of a member’s overseas transfer allowance that is available at any time is to the amount of that allowance that would be available if a transfer of the kind mentioned in section 244IA(1)(a) were made at that time;
 - “**block transfer**” has the meaning given by section 244AB(2)(a);
-- “[^key-688a4e87bed45c5015d7407dd0a0459a]HMRC” means the Commissioners for Her Majesty’s Revenue and Customs;
-- “[^key-fb79e699fd0cd7ff0e9212f1ed9caf2f]**onward transfer**” has the meaning given by section 244AB[^key-2e0710ef0e432bb2fdb8ea9522b24d49];
+- “[^c-688a4e87bed45c5015d7407dd0a0459a]HMRC” means the Commissioners for Her Majesty’s Revenue and Customs;
+- “[^c-fb79e699fd0cd7ff0e9212f1ed9caf2f]**onward transfer**” has the meaning given by section 244AB[^c-2e0710ef0e432bb2fdb8ea9522b24d49];
 - “**relevant benefit crystallisation event**” has the same meaning as in section 637S of ITEPA 2003 (availability of individual’s lump sum and death benefit allowance);
 - “**relieved relevant non-UK scheme transfer**” has the meaning given by section 244AB(1);
 - “tax identification number” means—
@@ -65,16 +65,16 @@ The Commissioners for Her Majesty’s Revenue and Customs make the following Reg
 - “tax year” means a period beginning on 6th April of one year and ending on 5th April of the immediately following year.
 - “**used up**”, in relation to a transfer of the kind mentioned in section 244IA(1)(a), means the reduction caused by the transfer in the amount of the member’s overseas transfer allowance that would be available on the making of a subsequent transfer of that kind;
 
-## 2. Information — benefit crystallisation events in relation to relevant migrant members and individuals entitled to corresponding relief[^key-c6c388be9fbfa2c077802af4903b56fd]
+## 2. Information — benefit crystallisation events in relation to relevant migrant members and individuals entitled to corresponding relief[^c-c6c388be9fbfa2c077802af4903b56fd]
 
-(1) For the purposes of paragraph 5(2) of Schedule 33 and paragraph 51(4) of Schedule 36 (information about relevant[^key-272378a546bf7d26fac7951555fc7739] events in cases of relevant migrant members and individuals entitled to corresponding relief) the prescribed benefit crystallisation information is—
+(1) For the purposes of paragraph 5(2) of Schedule 33 and paragraph 51(4) of Schedule 36 (information about relevant[^c-272378a546bf7d26fac7951555fc7739] events in cases of relevant migrant members and individuals entitled to corresponding relief) the prescribed benefit crystallisation information is—
 
-- (a) the name and address of the relevant migrant member or individual (as the case may be) in respect of whom there has been a relevant[^key-28c298959f54bda861b69abe95d2c71d] benefit crystallisation event in the tax year; and
-- (b) the date, amount and nature of the relevant[^key-57f96fce177cf1ed69f0072aceb4f225] benefit crystallisation event.
+- (a) the name and address of the relevant migrant member or individual (as the case may be) in respect of whom there has been a relevant[^c-28c298959f54bda861b69abe95d2c71d] benefit crystallisation event in the tax year; and
+- (b) the date, amount and nature of the relevant[^c-57f96fce177cf1ed69f0072aceb4f225] benefit crystallisation event.
 
-(2) The information must be provided by 31st January next following the end of the tax year in which the relevant[^key-4d25df94e16034f7b68ee89fabdeb78a] benefit crystallisation event occurs.
+(2) The information must be provided by 31st January next following the end of the tax year in which the relevant[^c-4d25df94e16034f7b68ee89fabdeb78a] benefit crystallisation event occurs.
 
-## 3. Information — QROPS and former QROPS[^key-8528ea0f0640b928b4b9cc2d83b15c46][^key-db69ae2cbc02b044408ef58dbe38f2e0]
+## 3. Information — QROPS and former QROPS[^c-8528ea0f0640b928b4b9cc2d83b15c46][^c-db69ae2cbc02b044408ef58dbe38f2e0]
 
 (1) For the purposes of section 169(4) (information to be provided by a QROPS or former QROPS), the scheme manager of a QROPS must provide to HMRC—
 
@@ -99,22 +99,22 @@ This paragraph is subject to paragraph (1B).
 
 (1C) Paragraph (1B) applies to a QROPS if—
 
-- (a) the date of the HMRC letter advising the QROPS of the reference number that had been allocated to it was before 6 April 2011[^key-013243e9df8da9dbe64b166ec10149aa], and
+- (a) the date of the HMRC letter advising the QROPS of the reference number that had been allocated to it was before 6 April 2011[^c-013243e9df8da9dbe64b166ec10149aa], and
 - (b) less than fifteen years have passed since the date of that letter.
 
 (1D) Where paragraph (1A) or (1B) applies, the required information may be provided at any time during the six months prior to the end of each five year period or the notified dates, as the case may be.
 
-(2)[^key-78e822bd66205b42f00fff09d6939d46] When a QROPS or former QROPS makes, or is treated under the relevant provisions as making, a payment in respect of a relevant member, the scheme manager of the QROPS or former QROPS must provide to HMRC—
+(2)[^c-78e822bd66205b42f00fff09d6939d46] When a QROPS or former QROPS makes, or is treated under the relevant provisions as making, a payment in respect of a relevant member, the scheme manager of the QROPS or former QROPS must provide to HMRC—
 
 - (a) the name, principal residential address, date of birth, contact details, the national insurance number or, if they do not have one, the tax identification number, if any, of the relevant member and if the relevant member has ceased to be resident for tax purposes in the United Kingdom, the date that residence ceased;
 - (b) the name, address and contact details of the QROPS or former QROPS and of the scheme manager;
-- (c) the date, amount and nature of the payment and if as a result of the payment no relevant transfer fund remains and no ring-fenced transfer funds remain[^key-6803c48496473ac13cb8e946681d23c6], a statement to that effect;
+- (c) the date, amount and nature of the payment and if as a result of the payment no relevant transfer fund remains and no ring-fenced transfer funds remain[^c-6803c48496473ac13cb8e946681d23c6], a statement to that effect;
 - (d) if the payment is made to a pension scheme, the name and address of the recipient and if the recipient is a registered pension scheme or a QROPS, the reference number allocated to that pension scheme by HMRC;
-- (da)[^key-3253b5145e4fe2adf319575960bd8eb4] if the payment is made to a QROPS—
-  - (i) whether the overseas transfer charge arises on the payment and, if so,[^key-974d620b16a8362b82a90843add57c02] the amount of the member’s overseas transfer allowance that was available on the making of the transfer and[^key-f06e96bff2b78983afd4b4221f4933ef] whether under section 244AC or section 244IA,
+- (da)[^c-3253b5145e4fe2adf319575960bd8eb4] if the payment is made to a QROPS—
+  - (i) whether the overseas transfer charge arises on the payment and, if so,[^c-974d620b16a8362b82a90843add57c02] the amount of the member’s overseas transfer allowance that was available on the making of the transfer and[^c-f06e96bff2b78983afd4b4221f4933ef] whether under section 244AC or section 244IA,
   - (ii) if the charge does arise, the transferred value and the amount of charge the scheme manager deducted from the payment before making it,
-  - (iii) if the charge does not arise, why it does not, [^key-2660f40dc50c2d7aa12340cad285e57e]...
-  - (iiia)[^key-6ef3fcd48da854dca5ffdf3d091eb2f1] whether the payment is a transfer of the kind mentioned in section 244IA(1)(a) and, if so, the amount of the member’s overseas transfer allowance that was available on the making of the transfer and the amount of the member’s overseas transfer allowance used up by the transfer, and
+  - (iii) if the charge does not arise, why it does not, [^c-2660f40dc50c2d7aa12340cad285e57e]...
+  - (iiia)[^c-6ef3fcd48da854dca5ffdf3d091eb2f1] whether the payment is a transfer of the kind mentioned in section 244IA(1)(a) and, if so, the amount of the member’s overseas transfer allowance that was available on the making of the transfer and the amount of the member’s overseas transfer allowance used up by the transfer, and
   - (iv) the total amount or value of the member's relevant transfer fund, and ring-fenced transfer funds, remaining immediately after the payment;
 - (e) where the relevant member has died and the payment is made to an individual, the name, principal residential address, date of birth and the national insurance number or, if they do not have one, the tax identification number, if any, of that individual; and
 - (f) where the relevant member has died and the payment is made to a person who is not an individual, the name and address of that person.
@@ -123,64 +123,64 @@ Here “the relevant provisions” means sections 172 to 174A, paragraph 2A of S
 
 This paragraph is subject to the qualifications in paragraphs (3) and (4).
 
-(2A)[^key-c1a04572073721814b431c5678764e0b] Paragraphs (2B) and (2C) apply where—
+(2A)[^c-c1a04572073721814b431c5678764e0b] Paragraphs (2B) and (2C) apply where—
 
 - (a) a recognised transfer is made to a QROPS, or
 - (b) an onward transfer is made by a QROPS or former QROPS.
 
-(2B) Where an event occurring before the end of the relevant period for the transfer (see the definition of “the relevant period” in section 244AB(1)[^key-e428c004e08171d038248796a56530a8]) means that the transfer no longer counts as excluded from the overseas transfer charge or that entitlement to repayment under section 244M arises, the scheme manager of the QROPS or former QROPS must, within 90 days after the date the scheme manager is notified of the event, provide to HMRC notification of—
+(2B) Where an event occurring before the end of the relevant period for the transfer (see the definition of “the relevant period” in section 244AB(1)[^c-e428c004e08171d038248796a56530a8]) means that the transfer no longer counts as excluded from the overseas transfer charge or that entitlement to repayment under section 244M arises, the scheme manager of the QROPS or former QROPS must, within 90 days after the date the scheme manager is notified of the event, provide to HMRC notification of—
 
 - (a) the occurrence, nature and date of the event,
 - (b) the transferred value of the transfer,
-- (ba)[^key-978a67e716315409e01da4832f23c143] the amount of the member’s overseas transfer allowance that was available on the making of the transfer,
+- (ba)[^c-978a67e716315409e01da4832f23c143] the amount of the member’s overseas transfer allowance that was available on the making of the transfer,
 - (c) the amount of overseas transfer charge on the transfer,
 - (d) whether, and to what extent, the scheme manager has accounted, or intends to account, for the charge, and
 - (e) the total amount or value of the member's relevant transfer fund, and ring-fenced transfer funds, remaining immediately after the event.
 
 This paragraph is subject to the qualification in paragraph (3A).
 
-(2C) Where the scheme manager of the QROPS or former QROPS becomes aware that the member has at any time in the relevant period for the transfer acquired a new residential address that is not[^key-050973dbfedd24c2c466176fe057c983]—
+(2C) Where the scheme manager of the QROPS or former QROPS becomes aware that the member has at any time in the relevant period for the transfer acquired a new residential address that is not[^c-050973dbfedd24c2c466176fe057c983]—
 
-- (a) in the country or territory in which the QROPS or former QROPS is established, [^key-fbbe26a9acb38c3ae03a25a993de1959]...
-- (b)[^key-fbbe26a9acb38c3ae03a25a993de1959] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in the country or territory in which the QROPS or former QROPS is established, [^c-fbbe26a9acb38c3ae03a25a993de1959]...
+- (b)[^c-fbbe26a9acb38c3ae03a25a993de1959] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 the scheme manager is to notify that address to HMRC within 3 months after the date on which the scheme manager becomes aware of it.
 
-(3) No obligation arises under paragraph (2) if the following conditions are met—[^key-ec1c68a11f9a256c0abfce4ff6b67023]
+(3) No obligation arises under paragraph (2) if the following conditions are met—[^c-ec1c68a11f9a256c0abfce4ff6b67023]
 
-- (a) at the date of the payment more than ten years has elapsed beginning —[^key-c6028291619354456df97f06bc9829eb]
+- (a) at the date of the payment more than ten years has elapsed beginning —[^c-c6028291619354456df97f06bc9829eb]
   - (i) if the payment is in respect of one or more of the relevant member's ring-fenced transfer funds (whether or not it is also in respect of anything else), with the key date for that fund or (as the case may be) the later or latest of the key dates for those funds, and
   - (ii) if the payment is not to any extent in respect of the relevant member's ring-fenced transfer funds,
 
   with the date on which the relevant transfer fund in respect of the relevant member came into existence; and
 - (b) the relevant member to whom the payment is made or treated as made is a person to whom the member payment provisions do not apply (see paragraph 2 of Schedule 34).
 
-(3A)[^key-2353fe6e9cafc0fc10bd523f7555b1f2] No obligation arises under paragraph (2B) in relation to a transfer if the following conditions are met—
+(3A)[^c-2353fe6e9cafc0fc10bd523f7555b1f2] No obligation arises under paragraph (2B) in relation to a transfer if the following conditions are met—
 
 - (a) at the date of the transfer more than 10 years has elapsed since the key date for the ring-fenced transfer fund arising from the transfer (see paragraph 1 of Schedule 34); and
 - (b) the relevant member to whom the transfer is made is a person to whom the member payment provisions do not apply.
 
 (4) In the case of a payment by way of a pension the obligation under paragraph (2) applies only to the first such payment.
 
-(5) The information required by paragraph (2) must be provided—[^key-5a0dfa7d7fef47444624e5360afe1294]
+(5) The information required by paragraph (2) must be provided—[^c-5a0dfa7d7fef47444624e5360afe1294]
 
 - (a) within 90 days beginning with the day on which the payment is made or is treated as made; or
 - (b) by such other time as may be agreed between an officer of Revenue and Customs and the scheme manager.
 
-(5A)[^key-99feb20171974238afb98ca01158683b] Where the scheme manager is a company it must provide the names and addresses of the directors of the company to an officer of Revenue and Customs if required to do so in writing, and within such time as may be specified, by the officer.
+(5A)[^c-99feb20171974238afb98ca01158683b] Where the scheme manager is a company it must provide the names and addresses of the directors of the company to an officer of Revenue and Customs if required to do so in writing, and within such time as may be specified, by the officer.
 
-(6) For the purposes of this regulation and regulation 3C[^key-69bd167145df9c6cb553c7172ab25333] —
+(6) For the purposes of this regulation and regulation 3C[^c-69bd167145df9c6cb553c7172ab25333] —
 
 - “payment” has the meaning given in section 161(2); and
-- “relevant member” means a member of a scheme in respect of whom there is a relevant transfer fund or any ring-fenced transfer fund[^key-e888e33dd59522d99b8cf2a546e0248b] [^key-f6e245ace8cc4e665f1236ee7f2fec7b]....
+- “relevant member” means a member of a scheme in respect of whom there is a relevant transfer fund or any ring-fenced transfer fund[^c-e888e33dd59522d99b8cf2a546e0248b] [^c-f6e245ace8cc4e665f1236ee7f2fec7b]....
 
-(7)[^key-61ea71e7bc38fd94a0caa3977fa02c38] For the purposes of this regulation , regulation 3B and regulation 3C[^key-876a201c2ec2e4e24c2de5473fe66dd6] “relevant transfer fund” has the meaning given in paragraph 4(2) of Schedule 34.
+(7)[^c-61ea71e7bc38fd94a0caa3977fa02c38] For the purposes of this regulation , regulation 3B and regulation 3C[^c-876a201c2ec2e4e24c2de5473fe66dd6] “relevant transfer fund” has the meaning given in paragraph 4(2) of Schedule 34.
 
-## 3A. Information - transfer of sums or assets to a QROPS[^key-d21e5adfe2b705a537f8cb9b8c4f5b53][^key-fa1a2cca76700b885f5aa27bc23d410b]
+## 3A. Information - transfer of sums or assets to a QROPS[^c-d21e5adfe2b705a537f8cb9b8c4f5b53][^c-fa1a2cca76700b885f5aa27bc23d410b]
 
-(1)[^key-0ab2481da0402a9811505b02ceed4a6c] For the purposes of section 169(4), where paragraph (2) applies the scheme manager of the QROPS (or former QROPS, if the scheme has ceased to be a QROPS) must provide to HMRC such of the information specified in paragraph (3) as may be required in writing by an officer of Revenue and Customs.
+(1)[^c-0ab2481da0402a9811505b02ceed4a6c] For the purposes of section 169(4), where paragraph (2) applies the scheme manager of the QROPS (or former QROPS, if the scheme has ceased to be a QROPS) must provide to HMRC such of the information specified in paragraph (3) as may be required in writing by an officer of Revenue and Customs.
 
-(2) This paragraph applies where there is a transfer to a QROPS[^key-3ff71b86263af1eda16517b91235fbb8] of sums or assets which have at any time been held for the purposes of, or representing accrued rights under, a registered pension scheme from—
+(2) This paragraph applies where there is a transfer to a QROPS[^c-3ff71b86263af1eda16517b91235fbb8] of sums or assets which have at any time been held for the purposes of, or representing accrued rights under, a registered pension scheme from—
 
 - (a) a registered pension scheme; or
 - (b) another QROPS.
@@ -204,7 +204,7 @@ the scheme manager is to notify that address to HMRC within 3 months after the d
 - (a) within 90 days beginning with the day on which the requirement is notified by the officer of Revenue and Customs; or
 - (b) by such other time as may be agreed between the officer and the scheme manager.
 
-## 3AA. Information provided to member of QROPS or former QROPS by scheme manager where it appears member may be first flexibly accessing pension rights[^key-dd782f180e0ac585abb365e124e17ebf]
+## 3AA. Information provided to member of QROPS or former QROPS by scheme manager where it appears member may be first flexibly accessing pension rights[^c-dd782f180e0ac585abb365e124e17ebf]
 
 (1) If a relevant event occurs in relation to a member of a QROPS or former QROPS which is to be treated as a registered pension scheme for the purposes of section 227G (when pension rights are first flexibly accessed) by virtue of paragraph 9ZA or 9ZB of Schedule 34 (non-UK schemes: application of certain charges), the scheme manager—
 
@@ -233,10 +233,10 @@ but this is subject to paragraphs (4) and (7).
 (3) The matters mentioned in paragraph (1)(a)(ii) are—
 
 - (a) that a relevant event has occurred in relation to the member and that, as a result, the member has flexibly accessed the member’s pension rights (although may first have done so previously);
-- (b) that if in any tax year the total of the pension inputs to money purchase arrangements, and certain hybrid arrangements, relating to the member exceeds £10,000[^key-cff6be26ee3f294fa3c9e87a6db0a3c3]—
+- (b) that if in any tax year the total of the pension inputs to money purchase arrangements, and certain hybrid arrangements, relating to the member exceeds £10,000[^c-cff6be26ee3f294fa3c9e87a6db0a3c3]—
   - (i) there will be an annual allowance tax charge on the excess; and
   - (ii) the annual allowance for pension inputs to other arrangements relating to the member will be £10,000 less than it would otherwise be;
-- (c) where paragraph (2)(d) applies, that the member may be liable to a charge by virtue of section 637D of ITEPA 2003 (uncrystallised funds pension lump sums), as applied by paragraph 1(1) of Schedule 34 (non-UK schemes: application of certain charges)[^key-2f5bb7b1377d4d78a56e96d9672e798f]; and
+- (c) where paragraph (2)(d) applies, that the member may be liable to a charge by virtue of section 637D of ITEPA 2003 (uncrystallised funds pension lump sums), as applied by paragraph 1(1) of Schedule 34 (non-UK schemes: application of certain charges)[^c-2f5bb7b1377d4d78a56e96d9672e798f]; and
 - (d) the duties under regulation 3AB and the circumstances in which the member will have to comply with them.
 
 (4) The scheme manager is not required to comply with paragraph (1) if—
@@ -255,7 +255,7 @@ but this is subject to paragraphs (4) and (7).
 
 but does not include payment at a time when the whole of the fund represents rights attributable to a disqualifying pension credit.
 
-(6) In paragraph (5) “disqualifying pension credit” has the meaning given by section 278A.[^key-5a5f26f5ff7d84e94dcb7261ecd8b734]
+(6) In paragraph (5) “disqualifying pension credit” has the meaning given by section 278A.[^c-5a5f26f5ff7d84e94dcb7261ecd8b734]
 
 (7) This regulation does not apply unless the member is—
 
@@ -292,7 +292,7 @@ but does not include payment at a time when the whole of the fund represents rig
 
   to the scheme manager or scheme administrator (as the case may be) of that other relevant scheme; but this is subject to paragraph (4).
 
-(4) Paragraph (3) does not apply in connection with the individual becoming an accruing member of any particular scheme if the individual becomes an accruing member of that scheme upon or after becoming a member of that scheme as a result of—[^key-47b8d840f6851d080d17f57a6bff891d]
+(4) Paragraph (3) does not apply in connection with the individual becoming an accruing member of any particular scheme if the individual becomes an accruing member of that scheme upon or after becoming a member of that scheme as a result of—[^c-47b8d840f6851d080d17f57a6bff891d]
 
 - (a) a transfer of the member's relevant transfer fund,
 - (b) a transfer of any of the member's ring-fenced transfer funds, or
@@ -328,13 +328,13 @@ and in this paragraph “non-cash-balance money purchase arrangement” means a 
   - (a) beginning with the date of the relevant event concerned; and
   - (b) ending with the first day of the relevant period.
 
-## 3AC. Information to be given by QROPS and former QROPS: transfers of UK tax-relieved funds and ... transfer funds after flexible access[^key-c09c9d878671d1a7e474fe307fd6a654]
+## 3AC. Information to be given by QROPS and former QROPS: transfers of UK tax-relieved funds and ... transfer funds after flexible access[^c-c09c9d878671d1a7e474fe307fd6a654]
 
 (1) Paragraph (2) applies if—
 
 - (a) in connection with a member of a QROPS or former QROPS which is to be treated as a registered pension scheme for the purposes of section 227G (when pension rights are first flexibly accessed) by virtue of paragraph 9ZA or 9ZB of Schedule 34 (non-UK schemes: application of certain charges) (“the transferring scheme”), there is a transfer of the whole or part of—
   - (i) the member’s UK tax-relieved fund;
-  - (ia)[^key-22870d198e84c29362f4ed878b9b0193] any of the member's ring-fenced transfer funds; or
+  - (ia)[^c-22870d198e84c29362f4ed878b9b0193] any of the member's ring-fenced transfer funds; or
   - (ii) the member’s relevant transfer fund,
 
   from the transferring scheme to a QROPS or to a registered pension scheme (“the recipient scheme”);
@@ -353,57 +353,57 @@ and in this paragraph “non-cash-balance money purchase arrangement” means a 
 - (a) the end of 91 days beginning with the date of the transfer; or
 - (b) if later, the end of 91 days beginning with the date when the scheme manager of the transferring scheme first has reason for the belief mentioned in paragraph (1)(b).
 
-## 3AD. Information to be given by QROPS and former QROPS to QROPS about transfers of UK tax-relieved funds and... transfer funds[^key-17999f7ffc0f42b4f04119baafcafeb4]
+## 3AD. Information to be given by QROPS and former QROPS to QROPS about transfers of UK tax-relieved funds and... transfer funds[^c-17999f7ffc0f42b4f04119baafcafeb4]
 
 (1) Paragraph (2) applies if in connection with a member of a QROPS or former QROPS (“the transferring scheme”) there is a transfer of sums or assets (“the transfer”)—
 
 - (a) which immediately before the transfer are comprised in—
   - (i) the member’s UK tax-relieved fund;
-  - (ia)[^key-0d62c83dc4aba70d97bc96f7bad9d33c] any of the member's ring-fenced transfer funds; or
+  - (ia)[^c-0d62c83dc4aba70d97bc96f7bad9d33c] any of the member's ring-fenced transfer funds; or
   - (ii) the member’s relevant transfer fund;
 - (b) from the transferring scheme so as to be held for the purposes of, or to represent rights under, a QROPS (“the recipient scheme”).
 
 (2) The scheme manager of the transferring scheme must provide the scheme manager of the recipient scheme with a statement stating—
 
 - (a) the value of so many of the transferred sums or assets as are referable to the member’s UK tax-relieved fund (if any);
-- (aa)[^key-b71da56a7c13e36a4ddaa39a1e384161] where any of the transferred sums or assets are referable to the member's UK tax-relieved fund, the value of so many of them as are referable to tax-relieved contributions, or tax-exempt provision, made under the scheme before 9 March 2017;
+- (aa)[^c-b71da56a7c13e36a4ddaa39a1e384161] where any of the transferred sums or assets are referable to the member's UK tax-relieved fund, the value of so many of them as are referable to tax-relieved contributions, or tax-exempt provision, made under the scheme before 9 March 2017;
 - (ab) the value of so many of the transferred sums or assets as are referable to any of the member's ring-fenced transfer funds (if any);
-- (b) the value of so many of the transferred sums or assets as are referable to the member’s relevant transfer fund (if any); [^key-911177538f24bdaeac066ce1d9796fc6]...
+- (b) the value of so many of the transferred sums or assets as are referable to the member’s relevant transfer fund (if any); [^c-911177538f24bdaeac066ce1d9796fc6]...
 - (c) where any transferred sums or assets are—
-  - (i) referable to the member’s relevant transfer fund or any of the member's ring-fenced transfer funds[^key-2daa9b88c3588a6f82755f8f5fc89e6d]; and
+  - (i) referable to the member’s relevant transfer fund or any of the member's ring-fenced transfer funds[^c-2daa9b88c3588a6f82755f8f5fc89e6d]; and
   - (ii) the transferring scheme is aware of any recognised transfer from which those sums or assets are derived,
 
-  that there was such a recognised transfer and, where [^key-f9e824ac7e730c6b8563f50c114c1421]... known, the date of that transfer and the date it was requested[^key-44f26d82158b93ba25819f5484fabd27].
-- (d)[^key-03e19fd170afe072ccbbdc1a99f0c858] whether the overseas transfer charge arises on the transfer and, if so, whether under section 244AC or section 244IA[^key-228fdd54699ab7d5a419e4a30a944bf5];
+  that there was such a recognised transfer and, where [^c-f9e824ac7e730c6b8563f50c114c1421]... known, the date of that transfer and the date it was requested[^c-44f26d82158b93ba25819f5484fabd27].
+- (d)[^c-03e19fd170afe072ccbbdc1a99f0c858] whether the overseas transfer charge arises on the transfer and, if so, whether under section 244AC or section 244IA[^c-228fdd54699ab7d5a419e4a30a944bf5];
 - (e) if the charge does arise on the transfer—
   - (i) the transferred value of the transfer, and
   - (ii) the amount in respect of the charge deducted by the scheme manager from the transfer;
 - (f) if the transfer is excluded from the charge—
   - (i) the reason for its exclusion, and
-  - (ii) where section 244G(2)(a) or (b) (charge paid on earlier transfer) is the reason for its exclusion, the date of the earlier transfer on which the charge was paid and the amount of charge paid on that earlier transfer; [^key-02777eb76f610a473ddcdeac48a7543f]...
-- (fa)[^key-b1ccbf39279ce704bc7656fb06d4fdc2] whether the transfer is a transfer of the kind mentioned in section 244IA(1)(a) and, if so, the amount of the member’s overseas transfer allowance used up by the transfer, and
-- (g) the relevant period for the transfer (see the definition of “the relevant period” the relevant period” in section 244AB(1)[^key-3a6042e26fabb3af0af589f072dbe64f]).
+  - (ii) where section 244G(2)(a) or (b) (charge paid on earlier transfer) is the reason for its exclusion, the date of the earlier transfer on which the charge was paid and the amount of charge paid on that earlier transfer; [^c-02777eb76f610a473ddcdeac48a7543f]...
+- (fa)[^c-b1ccbf39279ce704bc7656fb06d4fdc2] whether the transfer is a transfer of the kind mentioned in section 244IA(1)(a) and, if so, the amount of the member’s overseas transfer allowance used up by the transfer, and
+- (g) the relevant period for the transfer (see the definition of “the relevant period” the relevant period” in section 244AB(1)[^c-3a6042e26fabb3af0af589f072dbe64f]).
 
 (3) The requirements in paragraph (2) must be complied with before the end of 91 days beginning with the date of the transfer.
 
 (4) In paragraph (2)(c)(ii) the sums or assets are “derived” from a recognised transfer regardless of whether those sums or assets are also derived from one or more relevant transfers which took place after the date of that recognised transfer.
 
-## 3AE. Information provided by member to QROPS: onward transfers[^key-b63e82595afa264e86b6aed07c3135e3]
+## 3AE. Information provided by member to QROPS: onward transfers[^c-b63e82595afa264e86b6aed07c3135e3]
 
 (1) Paragraph (4) applies where a member of a QROPS or former QROPS makes a request to the scheme manager to make an onward transfer to a QROPS.
 
 (2) But paragraph (4) does not apply if—
 
 - (a) the transfer will be excluded from the overseas transfer charge by section 244G, or
-- (b) the transfer will take place after the end of the relevant period (see the definition of “the relevant period” in section 244AB(1)[^key-5b544a551656817f1df95923a3655d2b]) for what would be the original transfer in relation to the requested onward transfer.
+- (b) the transfer will take place after the end of the relevant period (see the definition of “the relevant period” in section 244AB(1)[^c-5b544a551656817f1df95923a3655d2b]) for what would be the original transfer in relation to the requested onward transfer.
 
-(3) In this regulation “**original transfer**”, in relation to an onward transfer, has the meaning given by section 244AB(1)[^key-8cd2f0547f93cc28b1949051400f42dc] .
+(3) In this regulation “**original transfer**”, in relation to an onward transfer, has the meaning given by section 244AB(1)[^c-8cd2f0547f93cc28b1949051400f42dc] .
 
 (4) The member must provide to the scheme manager—
 
 - (a) the member's name, date of birth and principal residential address,
 - (b) if the member is not UK resident for income tax purposes, the date when the member last ceased to be UK resident for those purposes,
-- (c)[^key-4ad330dc0044fe20f8032152cdc3a6a2] unless the member is–—
+- (c)[^c-4ad330dc0044fe20f8032152cdc3a6a2] unless the member is–—
   - (i) aged under 16, or
   - (ii) a citizen of a country outside the United Kingdom who is not resident in the United Kingdom,
 
@@ -416,8 +416,8 @@ and in this paragraph “non-cash-balance money purchase arrangement” means a 
   - (ii) the name and address of the member's employer whose connection with the QROPS gives rise to exclusion of the transfer from the charge,
   - (iii) the member's job title as an employee of that employer,
   - (iv) the date the member's employment with that employer began, and
-  - (v) if known, that employer's tax reference for that employment, [^key-4c49777cab2fee962c2dcf3f01c814b5]...
-- (ga)[^key-bde8b663cb22182694603080275a0ddc] the amount of the member’s overseas transfer allowance that is available at the time the information specified in this paragraph is provided, and
+  - (v) if known, that employer's tax reference for that employment, [^c-4c49777cab2fee962c2dcf3f01c814b5]...
+- (ga)[^c-bde8b663cb22182694603080275a0ddc] the amount of the member’s overseas transfer allowance that is available at the time the information specified in this paragraph is provided, and
 - (h) the member's acknowledgement in writing that the member—
   - (i) is aware that an onward transfer to a qualifying recognised overseas pension scheme may give rise to a liability to overseas transfer charge, and
   - (ii) is aware of the circumstances in which liability arises, in which liability is excluded from the outset and in which liability is excluded only if conditions continue to be met over a period of time.
@@ -433,7 +433,7 @@ and in this paragraph “non-cash-balance money purchase arrangement” means a 
 - (a) a recognised transfer or onward transfer is made to a QROPS, or an onward transfer is made by a QROPS or former QROPS, and
 - (b) either—
   - (i) the overseas transfer charge arises in the case of the transfer, or
-  - (ii) the transfer is required by section 244B [^key-faac61ab9729324311eaee8a61c0b586]... to be initially assumed to be excluded from the overseas transfer charge by that section.
+  - (ii) the transfer is required by section 244B [^c-faac61ab9729324311eaee8a61c0b586]... to be initially assumed to be excluded from the overseas transfer charge by that section.
 
 (2) Each time during the relevant period for the transfer that the member—
 
@@ -450,7 +450,7 @@ the member must, within 60 days after the date that happens, inform the scheme m
 
 - (a) the date of the transfer,
 - (b) that overseas transfer charge arises on the transfer,
-- (ba)[^key-4362c73fb4d192ad90609c5a7c39f03e] whether the charge arises under section 244AC or section 244IA,
+- (ba)[^c-4362c73fb4d192ad90609c5a7c39f03e] whether the charge arises under section 244AC or section 244IA,
 - (bb) whether the transfer is a transfer of the kind mentioned in section 244IA(1)(a) and, if so, the amount of the member’s overseas transfer allowance used up by the transfer,
 - (c) the transferred value of the transfer,
 - (d) the amount of the charge on the transfer,
@@ -462,7 +462,7 @@ the member must, within 60 days after the date that happens, inform the scheme m
 - (a) the date of the transfer,
 - (b) that the transfer is excluded from the overseas transfer charge,
 - (c) the provision by reason of which the transfer is excluded, and
-- (d) where that provision is section 244B [^key-90495ccf33ee30136f40f7ff722d60d0]...—
+- (d) where that provision is section 244B [^c-90495ccf33ee30136f40f7ff722d60d0]...—
   - (i) when the relevant period for the transfer ends, and
   - (ii) how the transfer may turn out not to be excluded as a result of the member changing country or territory of residence within the relevant period for the transfer.
 
@@ -471,26 +471,26 @@ the member must, within 60 days after the date that happens, inform the scheme m
 - (a) a recognised transfer is made to a QROPS, or
 - (b) an onward transfer is made by a QROPS or former QROPS.
 
-(4) Where an event occurring before the end of the relevant period for the transfer (see the definition of “the relevant period” in section 244AB(1)[^key-72ad60898d86d460250dc626422d673e]) means that the transfer no longer counts as excluded from the overseas transfer charge or that entitlement to repayment under section 244M arises, the scheme manager of the QROPS or former QROPS must, within 90 days after the date the scheme manager is notified of the event, provide the member with a notice stating—
+(4) Where an event occurring before the end of the relevant period for the transfer (see the definition of “the relevant period” in section 244AB(1)[^c-72ad60898d86d460250dc626422d673e]) means that the transfer no longer counts as excluded from the overseas transfer charge or that entitlement to repayment under section 244M arises, the scheme manager of the QROPS or former QROPS must, within 90 days after the date the scheme manager is notified of the event, provide the member with a notice stating—
 
 - (a) the amount of overseas transfer charge on the transfer,
 - (b) whether, and to what extent, the scheme manager has accounted, or intends to account, for the charge, and
 - (c) where the scheme manager has accounted for the charge, the date the scheme manager did so.
 
-(5)[^key-82f299b91f369aa28ede68b1afab5b2f] Paragraph (6) applies if—
+(5)[^c-82f299b91f369aa28ede68b1afab5b2f] Paragraph (6) applies if—
 
 - (a) a relieved relevant non-UK scheme transfer is made to a QROPS, and
 - (b) an event occurs before the end of the relevant period for the transfer (see the definition of “the relevant period” in section 244AB(1)) that means that the transfer no longer counts as excluded from the overseas transfer charge or that entitlement to repayment under section 244M arises.
 
 (6) The scheme manager of the QROPS or former QROPS must, within 90 days after the date the scheme manager is notified of the event, provide the member with a notice stating the amount of the overseas transfer charge on the transfer.
 
-## 3AH. Accounting for overseas transfer charge on onward transfers and change in circumstances.[^key-a609b0ee9dc488feabaf175fd3feaafe]
+## 3AH. Accounting for overseas transfer charge on onward transfers and change in circumstances.[^c-a609b0ee9dc488feabaf175fd3feaafe]
 
 (1) Paragraph (2) applies where—
 
-- (a)[^key-d5ada69a956eb4c9c1046b552836debf]
+- (a)[^c-d5ada69a956eb4c9c1046b552836debf]
 - (i) overseas transfer charge arises on an onward transfer from a QROPS, or
-- (ii) overseas transfer charge arises due to a change of circumstances set out in section 244B(2) [^key-3e0dd5c1e90a25116cfed6a2d3d62e43]...,
+- (ii) overseas transfer charge arises due to a change of circumstances set out in section 244B(2) [^c-3e0dd5c1e90a25116cfed6a2d3d62e43]...,
 - (b) the scheme manager has notified HMRC of the transfer or, where applicable, of the event triggering payability of the charge on the transfer, and
 - (c) HMRC have provided the scheme manager with an accounting reference for paying the charge on the transfer.
 
@@ -498,9 +498,9 @@ the member must, within 60 days after the date that happens, inform the scheme m
 
 (3) Payment of the charge is due at the end of the 91 days beginning with the date of issue of the accounting reference.
 
-## 3AI. Assessments of unpaid overseas transfer charge ...[^key-e93e8492c02e52369c471a6c441edff6]
+## 3AI. Assessments of unpaid overseas transfer charge ...[^c-e93e8492c02e52369c471a6c441edff6]
 
-(1) Where the correct amount of overseas transfer charge due from a scheme manager under regulation 3AH [^key-6de567b3891488184329e680c601a72d]... has not been paid by the time it is due, an officer of Revenue and Customs must issue an assessment to tax to the scheme manager.
+(1) Where the correct amount of overseas transfer charge due from a scheme manager under regulation 3AH [^c-6de567b3891488184329e680c601a72d]... has not been paid by the time it is due, an officer of Revenue and Customs must issue an assessment to tax to the scheme manager.
 
 (2) Tax assessed under this regulation is payable within 30 days after the issue of the notice of assessment.
 
@@ -541,9 +541,9 @@ carries interest at the prescribed rate from the due date under regulation 3AH u
   - (i) the member's name, date of birth and principal residential address,
   - (ii) the date of the transfer and, if different, the date of the event triggering payability of the charge on the transfer,
   - (iii) the date on which the scheme manager accounted for the charge on the transfer,
-  - (iv) why the charge on the transfer has become repayable, [^key-9e184d3a3fd09ab9fda10e00bfa9e606]...
-  - (v) the amount in respect of which the claim is made ,[^key-3487ab0c7eda213916cf6a5c509b2570]
-  - (vi)[^key-88d4439dd4407f56105d27e852a8f2a6] unless the member is—
+  - (iv) why the charge on the transfer has become repayable, [^c-9e184d3a3fd09ab9fda10e00bfa9e606]...
+  - (v) the amount in respect of which the claim is made ,[^c-3487ab0c7eda213916cf6a5c509b2570]
+  - (vi)[^c-88d4439dd4407f56105d27e852a8f2a6] unless the member is—
     - (i) aged under 16, or
     - (ii) a citizen of a country outside the United Kingdom who is not resident in the United Kingdom,
 
@@ -551,15 +551,15 @@ carries interest at the prescribed rate from the due date under regulation 3AH u
   - (vii) the amount of the transfer, and
   - (viii) the date during the relevant period for the transfer on which the event giving rise to the exclusion occurred.
 
-## 3B. Information – cessation of QROPS[^key-b3d63ca16869e9be4d691e72348ea6f2]
+## 3B. Information – cessation of QROPS[^c-b3d63ca16869e9be4d691e72348ea6f2]
 
-For the purposes of section 169(4), the scheme manager of[^key-22fc1ada8b79cbd18cccb53c20777dad] a pension scheme which ceases to be a QROPS[^key-26f766ef23a0e8e124de0114443a4bcc] must within 30 days beginning with the day on which the cessation takes place (“the cessation date”) provide to HMRC[^key-167939072f617198dd8c6a9cb6d754ae]—
+For the purposes of section 169(4), the scheme manager of[^c-22fc1ada8b79cbd18cccb53c20777dad] a pension scheme which ceases to be a QROPS[^c-26f766ef23a0e8e124de0114443a4bcc] must within 30 days beginning with the day on which the cessation takes place (“the cessation date”) provide to HMRC[^c-167939072f617198dd8c6a9cb6d754ae]—
 
-- (za)[^key-afded3293f5c080066901b3b98f88d87] the name and address of the scheme and the date of and reason for the cessation;
-- (a) the value at the cessation date of the relevant transferred sums or assets pertaining to each relevant transfer fund , or ring-fenced transfer fund,[^key-ec4377c8fccf861c66b2ede939b9870f] under the scheme; and
-- (b) the name, principal residential address, date of birth and [^key-f3e53b30d0975c2174c6e5eaad72a7cc]... the national insurance number or, if they do not have one, the tax identification number, if any,[^key-7681a2b002cc04942f507e743f6a053f] of each member in respect of whom there is a relevant transfer fund , or ring-fenced transfer fund, under the scheme at the cessation date.
+- (za)[^c-afded3293f5c080066901b3b98f88d87] the name and address of the scheme and the date of and reason for the cessation;
+- (a) the value at the cessation date of the relevant transferred sums or assets pertaining to each relevant transfer fund , or ring-fenced transfer fund,[^c-ec4377c8fccf861c66b2ede939b9870f] under the scheme; and
+- (b) the name, principal residential address, date of birth and [^c-f3e53b30d0975c2174c6e5eaad72a7cc]... the national insurance number or, if they do not have one, the tax identification number, if any,[^c-7681a2b002cc04942f507e743f6a053f] of each member in respect of whom there is a relevant transfer fund , or ring-fenced transfer fund, under the scheme at the cessation date.
 
-## 3C. Information - changes, completion or correction[^key-b00f75359a4fc8fcb43c6226223f8c89]
+## 3C. Information - changes, completion or correction[^c-b00f75359a4fc8fcb43c6226223f8c89]
 
 (1) For the purposes of section 169(4), if at any time after a QROPS or former QROPS has provided HMRC with information in accordance with regulation 3, 3A or 3B it becomes apparent to the QROPS or former QROPS that—
 
@@ -576,27 +576,27 @@ the scheme manager of the QROPS or former QROPS must provide to HMRC details of 
 (3) No obligation arises under paragraph (1) in respect of a former QROPS if at the time the relevant obligation arises—
 
 - (a) the following conditions are met—
-  - (i) more than ten years has elapsed beginning with the date on which the relevant transfer fund in respect of the relevant member came into existence or, where the information relates to a ring-fenced transfer fund in respect of the relevant member, more than 10 years has elapsed beginning with the date on which that ring-fenced transfer fund came into existence[^key-fd8229bf8c078a29a37316028a1dfcfe]; and
+  - (i) more than ten years has elapsed beginning with the date on which the relevant transfer fund in respect of the relevant member came into existence or, where the information relates to a ring-fenced transfer fund in respect of the relevant member, more than 10 years has elapsed beginning with the date on which that ring-fenced transfer fund came into existence[^c-fd8229bf8c078a29a37316028a1dfcfe]; and
   - (ii) the relevant member to whom the payment is made or treated as made is a person to whom the member payment provisions do not apply (see paragraph 2 of Schedule 34); or
-- (b) there is no relevant transfer fund and there are no ring-fenced transfer funds[^key-10fd418605118b9bac85427b580c36f6].
+- (b) there is no relevant transfer fund and there are no ring-fenced transfer funds[^c-10fd418605118b9bac85427b580c36f6].
 
-## 4. Notice in cases of serious prejudice to proper assessment or collection of tax[^key-8ee473d6c453926c1656184f3b6ad199]
+## 4. Notice in cases of serious prejudice to proper assessment or collection of tax[^c-8ee473d6c453926c1656184f3b6ad199]
 
 (1) If an officer of Revenue and Customs has reasonable grounds for believing that the pension scheme in question—
 
-- (a) has failed or may fail to comply with any of the requirements imposed upon it under or by virtue of regulation 2[^key-8c18a43bbf13c448412918959b6b18b9], and
+- (a) has failed or may fail to comply with any of the requirements imposed upon it under or by virtue of regulation 2[^c-8c18a43bbf13c448412918959b6b18b9], and
 - (b) such failure is likely to have led or to lead to serious prejudice to the proper assessment or collection of tax,
 
 paragraph (2) applies.
 
-(2) If this paragraph applies, the officer may notify the pension scheme that he requires such information to be provided within 30 days of the issue of that notice, notwithstanding the provisions set out in regulation 2[^key-811f996390cd8972ca16ad6865c8b7bb].
+(2) If this paragraph applies, the officer may notify the pension scheme that he requires such information to be provided within 30 days of the issue of that notice, notwithstanding the provisions set out in regulation 2[^c-811f996390cd8972ca16ad6865c8b7bb].
 
-## 5. Application and modification of the penalty provisions in Part 7 of Schedule 36 to the Finance Act 2008[^key-81da361e412ebe1e22199c34eb155a68]
+## 5. Application and modification of the penalty provisions in Part 7 of Schedule 36 to the Finance Act 2008[^c-81da361e412ebe1e22199c34eb155a68]
 
-(1) Where the scheme manager of a former QROPS is required to provide information under regulation 3(2), (2B) or (2C),[^key-61929e6f9910f3d907ec632241279fd9] 3A(1) , 3AA(1)(a), 3AC(2), 3AD(2)[^key-97b7519563d9d94d471e5ec1f61ca5ff] , 3AE(6), 3AG[^key-3e4adde61686599af641d85ff1e4a17e] or 3C(1), Part 7 of Schedule 36 to the Finance Act 2008 (penalties) is to apply, with the modifications specified in paragraph (2), to the scheme manager as if—
+(1) Where the scheme manager of a former QROPS is required to provide information under regulation 3(2), (2B) or (2C),[^c-61929e6f9910f3d907ec632241279fd9] 3A(1) , 3AA(1)(a), 3AC(2), 3AD(2)[^c-97b7519563d9d94d471e5ec1f61ca5ff] , 3AE(6), 3AG[^c-3e4adde61686599af641d85ff1e4a17e] or 3C(1), Part 7 of Schedule 36 to the Finance Act 2008 (penalties) is to apply, with the modifications specified in paragraph (2), to the scheme manager as if—
 
 - (a) that information had been required to be provided by an information notice given to the scheme manager under that Schedule; and
-- (b) the information notice had specified that the information had to be provided by the time required under regulation 3, 3A , 3C, 3AA, 3AC or 3AD[^key-fe4ff20270874667fd33819a711b3e1f], as the case may be.
+- (b) the information notice had specified that the information had to be provided by the time required under regulation 3, 3A , 3C, 3AA, 3AC or 3AD[^c-fe4ff20270874667fd33819a711b3e1f], as the case may be.
 
 (2) The modifications of Part 7 of Schedule 36 to the Finance Act 2008 mentioned in paragraph (1) are as follows—
 
@@ -636,196 +636,196 @@ The former Board of Inland Revenue published a regulatory impact assessment in r
 
 [^f00002]: Footnote: The functions of the Commissioners of Inland Revenue, including those under which this instrument is made, were transferred to the Commissioners for Her Majesty’s Revenue and Customs by section 5 of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11).Section 50 of that Act provides that insofar as it is appropriate in consequence of section 5 a reference, however expressed, to the Commissioners of Inland Revenue is to be read as a reference to the Commissioners for Her Majesty’s Revenue and Customs.
 
-[^key-0bac111ef344ed38041aa4d2c851f3e6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/208/regulation/1) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/1/1)
+[^c-0bac111ef344ed38041aa4d2c851f3e6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2006/208/regulation/1) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/1/1)
 
-[^key-7da98dda04eca72486084c6aef60fdef]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/208/regulation/1/2) omitted (14.10.2013) by virtue of [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/2259/regulation/10)
+[^c-7da98dda04eca72486084c6aef60fdef]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/208/regulation/1/2) omitted (14.10.2013) by virtue of [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/2259/regulation/10)
 
-[^key-abe45d49bea1e98463fc92beae5d13a6]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2006/208/regulation/1) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/2/a)
+[^c-abe45d49bea1e98463fc92beae5d13a6]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2006/208/regulation/1) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(2)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/2/a)
 
-[^key-688a4e87bed45c5015d7407dd0a0459a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/208/regulation/1/2) inserted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/2259/regulation/10)
+[^c-688a4e87bed45c5015d7407dd0a0459a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/208/regulation/1/2) inserted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/2259/regulation/10)
 
-[^key-fb79e699fd0cd7ff0e9212f1ed9caf2f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/208/regulation/1/2) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(2)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/2) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-fb79e699fd0cd7ff0e9212f1ed9caf2f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/208/regulation/1/2) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(2)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/2) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-2e0710ef0e432bb2fdb8ea9522b24d49]: Textual amendment: Word in [reg. 1](https://www.legislation.gov.uk/uksi/2006/208/regulation/1) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/2/b)
+[^c-2e0710ef0e432bb2fdb8ea9522b24d49]: Textual amendment: Word in [reg. 1](https://www.legislation.gov.uk/uksi/2006/208/regulation/1) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/2/b)
 
-[^key-c6c388be9fbfa2c077802af4903b56fd]: Commencement: Reg. 2 in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/1/1)
+[^c-c6c388be9fbfa2c077802af4903b56fd]: Commencement: Reg. 2 in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/1/1)
 
-[^key-272378a546bf7d26fac7951555fc7739]: Textual amendment: Word in reg. 2 substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(3)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/3/a)
+[^c-272378a546bf7d26fac7951555fc7739]: Textual amendment: Word in reg. 2 substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(3)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/3/a)
 
-[^key-28c298959f54bda861b69abe95d2c71d]: Textual amendment: Word in reg. 2(1)(a) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(3)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/3/b)
+[^c-28c298959f54bda861b69abe95d2c71d]: Textual amendment: Word in reg. 2(1)(a) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(3)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/3/b)
 
-[^key-57f96fce177cf1ed69f0072aceb4f225]: Textual amendment: Word in reg. 2(1)(b) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(3)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/3/b)
+[^c-57f96fce177cf1ed69f0072aceb4f225]: Textual amendment: Word in reg. 2(1)(b) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(3)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/3/b)
 
-[^key-4d25df94e16034f7b68ee89fabdeb78a]: Textual amendment: Word in reg. 2(2) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(3)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/3/b)
+[^c-4d25df94e16034f7b68ee89fabdeb78a]: Textual amendment: Word in reg. 2(2) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(3)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/3/b)
 
-[^key-8528ea0f0640b928b4b9cc2d83b15c46]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/208/regulation/3) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/1/1)
+[^c-8528ea0f0640b928b4b9cc2d83b15c46]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/208/regulation/3) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/1/1)
 
-[^key-db69ae2cbc02b044408ef58dbe38f2e0]: Textual amendment: [Reg. 3(1)-(1D)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/1) and heading substituted for [reg. 3(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/1) and heading (with effect in accordance with reg. 3 of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [11](https://www.legislation.gov.uk/uksi/2013/2259/regulation/11) (as amended (17.12.2014) by [2014 c. 30](https://www.legislation.gov.uk/ukpga/2014/30), [s. 1](https://www.legislation.gov.uk/ukpga/2014/30/section/1), [Sch. 1 para. 97(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/97/2)
+[^c-db69ae2cbc02b044408ef58dbe38f2e0]: Textual amendment: [Reg. 3(1)-(1D)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/1) and heading substituted for [reg. 3(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/1) and heading (with effect in accordance with reg. 3 of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [11](https://www.legislation.gov.uk/uksi/2013/2259/regulation/11) (as amended (17.12.2014) by [2014 c. 30](https://www.legislation.gov.uk/ukpga/2014/30), [s. 1](https://www.legislation.gov.uk/ukpga/2014/30/section/1), [Sch. 1 para. 97(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/97/2)
 
-[^key-013243e9df8da9dbe64b166ec10149aa]: Textual amendment: Words in [reg. 3(1C)(a)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/1C/a) substituted (17.12.2014) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 97(3)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/97/3)
+[^c-013243e9df8da9dbe64b166ec10149aa]: Textual amendment: Words in [reg. 3(1C)(a)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/1C/a) substituted (17.12.2014) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 97(3)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/97/3)
 
-[^key-78e822bd66205b42f00fff09d6939d46]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2) substituted (with effect in accordance with reg. 4 of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [12](https://www.legislation.gov.uk/uksi/2013/2259/regulation/12)
+[^c-78e822bd66205b42f00fff09d6939d46]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2) substituted (with effect in accordance with reg. 4 of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [12](https://www.legislation.gov.uk/uksi/2013/2259/regulation/12)
 
-[^key-6803c48496473ac13cb8e946681d23c6]: Textual amendment: Words in [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/c) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(3)(a)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/3/a) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-6803c48496473ac13cb8e946681d23c6]: Textual amendment: Words in [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/c) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(3)(a)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/3/a) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-3253b5145e4fe2adf319575960bd8eb4]: Textual amendment: [Reg. 3(2)(da)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/da) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(3)(b)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/3/b) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-3253b5145e4fe2adf319575960bd8eb4]: Textual amendment: [Reg. 3(2)(da)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/da) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(3)(b)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/3/b) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-974d620b16a8362b82a90843add57c02]: Textual amendment: Words in [reg. 3(2)(da)(i)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/da/i) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(4)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/4/a)
+[^c-974d620b16a8362b82a90843add57c02]: Textual amendment: Words in [reg. 3(2)(da)(i)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/da/i) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(4)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/4/a)
 
-[^key-f06e96bff2b78983afd4b4221f4933ef]: Textual amendment: Words in [reg. 3(2)(da)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/da)[(iiia)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/iiia) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [23(2)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/23/2/a)
+[^c-f06e96bff2b78983afd4b4221f4933ef]: Textual amendment: Words in [reg. 3(2)(da)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/da)[(iiia)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/iiia) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [23(2)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/23/2/a)
 
-[^key-2660f40dc50c2d7aa12340cad285e57e]: Textual amendment: Word in [reg. 3(2)(da)(iii)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/da/iii) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(4)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/4/b)
+[^c-2660f40dc50c2d7aa12340cad285e57e]: Textual amendment: Word in [reg. 3(2)(da)(iii)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/da/iii) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(4)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/4/b)
 
-[^key-6ef3fcd48da854dca5ffdf3d091eb2f1]: Textual amendment: [Reg. 3(2)(da)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/da)[(iiia)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/iiia) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(4)(c)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/4/c)
+[^c-6ef3fcd48da854dca5ffdf3d091eb2f1]: Textual amendment: [Reg. 3(2)(da)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/da)[(iiia)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2/iiia) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(4)(c)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/4/c)
 
-[^key-c1a04572073721814b431c5678764e0b]: Textual amendment: [Reg. 3(2A)-(2C)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2A) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(4)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/4) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-c1a04572073721814b431c5678764e0b]: Textual amendment: [Reg. 3(2A)-(2C)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2A) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(4)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/4) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-e428c004e08171d038248796a56530a8]: Textual amendment: Words in [reg. 3(2B)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2B) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(4)(d)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/4/d)
+[^c-e428c004e08171d038248796a56530a8]: Textual amendment: Words in [reg. 3(2B)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2B) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(4)(d)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/4/d)
 
-[^key-978a67e716315409e01da4832f23c143]: Textual amendment: [Reg. 3(2B)(ba)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2B/ba) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [23(2)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/23/2/b)
+[^c-978a67e716315409e01da4832f23c143]: Textual amendment: [Reg. 3(2B)(ba)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2B/ba) inserted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [23(2)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/23/2/b)
 
-[^key-050973dbfedd24c2c466176fe057c983]: Textual amendment: Word in [reg. 3(2C)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2C) substituted (with effect in accordance with s. 32(6) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 32(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/4/a/i)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/6) (with [s. 32(7)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/7)[(8)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/8))
+[^c-050973dbfedd24c2c466176fe057c983]: Textual amendment: Word in [reg. 3(2C)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2C) substituted (with effect in accordance with s. 32(6) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 32(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/4/a/i)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/6) (with [s. 32(7)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/7)[(8)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/8))
 
-[^key-fbbe26a9acb38c3ae03a25a993de1959]: Textual amendment: [Reg. 3(2C)(b)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2C/b) and word omitted (with effect in accordance with s. 32(6) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 32(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/4/a/ii)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/6) (with [s. 32(7)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/7)[(8)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/8))
+[^c-fbbe26a9acb38c3ae03a25a993de1959]: Textual amendment: [Reg. 3(2C)(b)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/2C/b) and word omitted (with effect in accordance with s. 32(6) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 32(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/4/a/ii)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/6) (with [s. 32(7)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/7)[(8)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/8))
 
-[^key-ec1c68a11f9a256c0abfce4ff6b67023]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/3) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2012/884/regulation/8/4)
+[^c-ec1c68a11f9a256c0abfce4ff6b67023]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/3) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2012/884/regulation/8/4)
 
-[^key-c6028291619354456df97f06bc9829eb]: Textual amendment: Words in [reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/3/a) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(5)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/5) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-c6028291619354456df97f06bc9829eb]: Textual amendment: Words in [reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/3/a) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(5)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/5) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-2353fe6e9cafc0fc10bd523f7555b1f2]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/3A) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(6)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/6) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-2353fe6e9cafc0fc10bd523f7555b1f2]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/3A) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(6)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/6) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-5a0dfa7d7fef47444624e5360afe1294]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/5) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [8(5)](https://www.legislation.gov.uk/uksi/2012/884/regulation/8/5)
+[^c-5a0dfa7d7fef47444624e5360afe1294]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/5) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [8(5)](https://www.legislation.gov.uk/uksi/2012/884/regulation/8/5)
 
-[^key-99feb20171974238afb98ca01158683b]: Textual amendment: [Reg. 3(5A)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/5A) inserted (6.4.2012) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2012/884/regulation/8/6)
+[^c-99feb20171974238afb98ca01158683b]: Textual amendment: [Reg. 3(5A)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/5A) inserted (6.4.2012) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [8(6)](https://www.legislation.gov.uk/uksi/2012/884/regulation/8/6)
 
-[^key-69bd167145df9c6cb553c7172ab25333]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/6) inserted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [13](https://www.legislation.gov.uk/uksi/2013/2259/regulation/13)
+[^c-69bd167145df9c6cb553c7172ab25333]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/6) inserted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [13](https://www.legislation.gov.uk/uksi/2013/2259/regulation/13)
 
-[^key-e888e33dd59522d99b8cf2a546e0248b]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/6) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(7)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/7) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-e888e33dd59522d99b8cf2a546e0248b]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/6) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(7)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/7) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-f6e245ace8cc4e665f1236ee7f2fec7b]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/6) omitted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by virtue of [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [8(7)](https://www.legislation.gov.uk/uksi/2012/884/regulation/8/7)
+[^c-f6e245ace8cc4e665f1236ee7f2fec7b]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/6) omitted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by virtue of [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [8(7)](https://www.legislation.gov.uk/uksi/2012/884/regulation/8/7)
 
-[^key-61ea71e7bc38fd94a0caa3977fa02c38]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/7) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [8(8)](https://www.legislation.gov.uk/uksi/2012/884/regulation/8/8)
+[^c-61ea71e7bc38fd94a0caa3977fa02c38]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/7) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [8(8)](https://www.legislation.gov.uk/uksi/2012/884/regulation/8/8)
 
-[^key-876a201c2ec2e4e24c2de5473fe66dd6]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/7) substituted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [14](https://www.legislation.gov.uk/uksi/2013/2259/regulation/14)
+[^c-876a201c2ec2e4e24c2de5473fe66dd6]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3/7) substituted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [14](https://www.legislation.gov.uk/uksi/2013/2259/regulation/14)
 
-[^key-d21e5adfe2b705a537f8cb9b8c4f5b53]: Textual amendment: Regs. 3A-3C inserted (6.4.2012) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2012/884/regulation/9)
+[^c-d21e5adfe2b705a537f8cb9b8c4f5b53]: Textual amendment: Regs. 3A-3C inserted (6.4.2012) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2012/884/regulation/9)
 
-[^key-fa1a2cca76700b885f5aa27bc23d410b]: Textual amendment: Word in [reg. 3A](https://www.legislation.gov.uk/uksi/2006/208/regulation/3A) heading substituted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [15](https://www.legislation.gov.uk/uksi/2013/2259/regulation/15)
+[^c-fa1a2cca76700b885f5aa27bc23d410b]: Textual amendment: Word in [reg. 3A](https://www.legislation.gov.uk/uksi/2006/208/regulation/3A) heading substituted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [15](https://www.legislation.gov.uk/uksi/2013/2259/regulation/15)
 
-[^key-0ab2481da0402a9811505b02ceed4a6c]: Textual amendment: [Reg. 3A(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3A/1) substituted (with effect in accordance with reg. 5 of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [16](https://www.legislation.gov.uk/uksi/2013/2259/regulation/16)
+[^c-0ab2481da0402a9811505b02ceed4a6c]: Textual amendment: [Reg. 3A(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3A/1) substituted (with effect in accordance with reg. 5 of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [16](https://www.legislation.gov.uk/uksi/2013/2259/regulation/16)
 
-[^key-3ff71b86263af1eda16517b91235fbb8]: Textual amendment: Word in [reg. 3A(2)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3A/2) substituted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [17](https://www.legislation.gov.uk/uksi/2013/2259/regulation/17)
+[^c-3ff71b86263af1eda16517b91235fbb8]: Textual amendment: Word in [reg. 3A(2)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3A/2) substituted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [17](https://www.legislation.gov.uk/uksi/2013/2259/regulation/17)
 
-[^key-dd782f180e0ac585abb365e124e17ebf]: Textual amendment: Regs. 3AA-3AD inserted (6.4.2015) by [The Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/673)](https://www.legislation.gov.uk/uksi/2015/673), [regs. 1](https://www.legislation.gov.uk/uksi/2015/673/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/673/regulation/5)
+[^c-dd782f180e0ac585abb365e124e17ebf]: Textual amendment: Regs. 3AA-3AD inserted (6.4.2015) by [The Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/673)](https://www.legislation.gov.uk/uksi/2015/673), [regs. 1](https://www.legislation.gov.uk/uksi/2015/673/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/673/regulation/5)
 
-[^key-cff6be26ee3f294fa3c9e87a6db0a3c3]: Textual amendment: Sum in reg. 3AA(3)(b) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(5)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/5/a)
+[^c-cff6be26ee3f294fa3c9e87a6db0a3c3]: Textual amendment: Sum in reg. 3AA(3)(b) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(5)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/5/a)
 
-[^key-2f5bb7b1377d4d78a56e96d9672e798f]: Textual amendment: Words in reg. 3AA(3)(c) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(5)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/5/b)
+[^c-2f5bb7b1377d4d78a56e96d9672e798f]: Textual amendment: Words in reg. 3AA(3)(c) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(5)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/5/b)
 
-[^key-5a5f26f5ff7d84e94dcb7261ecd8b734]: Textual amendment: Words in reg. 3AA(6) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(5)(c)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/5/c)
+[^c-5a5f26f5ff7d84e94dcb7261ecd8b734]: Textual amendment: Words in reg. 3AA(6) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(5)(c)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/5/c)
 
-[^key-47b8d840f6851d080d17f57a6bff891d]: Textual amendment: Words in [reg. 3AB(4)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AB/4) substituted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(8)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/8) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-47b8d840f6851d080d17f57a6bff891d]: Textual amendment: Words in [reg. 3AB(4)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AB/4) substituted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(8)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/8) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-c09c9d878671d1a7e474fe307fd6a654]: Textual amendment: Word in [reg. 3AC](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AC) heading omitted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(9)(b)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/9/b) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-c09c9d878671d1a7e474fe307fd6a654]: Textual amendment: Word in [reg. 3AC](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AC) heading omitted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(9)(b)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/9/b) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-22870d198e84c29362f4ed878b9b0193]: Textual amendment: [Reg. 3AC(1)(ia)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AC/1/ia) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(9)(a)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/9/a) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-22870d198e84c29362f4ed878b9b0193]: Textual amendment: [Reg. 3AC(1)(ia)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AC/1/ia) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(9)(a)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/9/a) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-17999f7ffc0f42b4f04119baafcafeb4]: Textual amendment: Word in [reg. 3AD](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD) heading omitted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(g)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/g) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-17999f7ffc0f42b4f04119baafcafeb4]: Textual amendment: Word in [reg. 3AD](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD) heading omitted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(g)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/g) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-0d62c83dc4aba70d97bc96f7bad9d33c]: Textual amendment: [Reg. 3AD(1)(ia)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/1/ia) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(a)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/a) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-0d62c83dc4aba70d97bc96f7bad9d33c]: Textual amendment: [Reg. 3AD(1)(ia)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/1/ia) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(a)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/a) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-b71da56a7c13e36a4ddaa39a1e384161]: Textual amendment: [Reg. 3AD(2)(aa)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/aa)[(ab)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/ab) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(b)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/b) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-b71da56a7c13e36a4ddaa39a1e384161]: Textual amendment: [Reg. 3AD(2)(aa)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/aa)[(ab)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/ab) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(b)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/b) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-911177538f24bdaeac066ce1d9796fc6]: Textual amendment: Word in [reg. 3AD(2)(b)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/b) omitted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(c)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/c) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-911177538f24bdaeac066ce1d9796fc6]: Textual amendment: Word in [reg. 3AD(2)(b)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/b) omitted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(c)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/c) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-2daa9b88c3588a6f82755f8f5fc89e6d]: Textual amendment: Words in [reg. 3AD(2)(c)(i)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/c/i) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(d)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/d) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-2daa9b88c3588a6f82755f8f5fc89e6d]: Textual amendment: Words in [reg. 3AD(2)(c)(i)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/c/i) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(d)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/d) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-f9e824ac7e730c6b8563f50c114c1421]: Textual amendment: Words in [reg. 3AD(2)(c)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/c) omitted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(e)(i)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/e/i) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-f9e824ac7e730c6b8563f50c114c1421]: Textual amendment: Words in [reg. 3AD(2)(c)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/c) omitted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(e)(i)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/e/i) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-44f26d82158b93ba25819f5484fabd27]: Textual amendment: Words in [reg. 3AD(2)(c)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/c) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(e)(ii)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/e/ii) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-44f26d82158b93ba25819f5484fabd27]: Textual amendment: Words in [reg. 3AD(2)(c)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/c) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(e)(ii)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/e/ii) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-03e19fd170afe072ccbbdc1a99f0c858]: Textual amendment: [Reg. 3AD(2)(d)-(g)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/d) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(f)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/f) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-03e19fd170afe072ccbbdc1a99f0c858]: Textual amendment: [Reg. 3AD(2)(d)-(g)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/d) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(10)(f)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/10/f) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-228fdd54699ab7d5a419e4a30a944bf5]: Textual amendment: Words in [reg. 3AD(2)(d)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/d) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(6)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/6/a)
+[^c-228fdd54699ab7d5a419e4a30a944bf5]: Textual amendment: Words in [reg. 3AD(2)(d)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/d) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(6)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/6/a)
 
-[^key-02777eb76f610a473ddcdeac48a7543f]: Textual amendment: Word in [reg. 3AD(2)(f)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/f) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(6)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/6/b)
+[^c-02777eb76f610a473ddcdeac48a7543f]: Textual amendment: Word in [reg. 3AD(2)(f)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/f) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(6)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/6/b)
 
-[^key-b1ccbf39279ce704bc7656fb06d4fdc2]: Textual amendment: [Reg. 3AD(2)(fa)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/fa) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(6)(c)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/6/c)
+[^c-b1ccbf39279ce704bc7656fb06d4fdc2]: Textual amendment: [Reg. 3AD(2)(fa)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/fa) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(6)(c)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/6/c)
 
-[^key-3a6042e26fabb3af0af589f072dbe64f]: Textual amendment: Words in [reg. 3AD(2)(g)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/g) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(6)(d)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/6/d)
+[^c-3a6042e26fabb3af0af589f072dbe64f]: Textual amendment: Words in [reg. 3AD(2)(g)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AD/2/g) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(6)(d)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/6/d)
 
-[^key-b63e82595afa264e86b6aed07c3135e3]: Textual amendment: Regs. 3AE-3AL inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(11)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/11) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-b63e82595afa264e86b6aed07c3135e3]: Textual amendment: Regs. 3AE-3AL inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(11)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/11) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-5b544a551656817f1df95923a3655d2b]: Textual amendment: Words in [reg. 3AE(2)(b)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AE/2/b) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(7)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/7/a)
+[^c-5b544a551656817f1df95923a3655d2b]: Textual amendment: Words in [reg. 3AE(2)(b)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AE/2/b) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(7)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/7/a)
 
-[^key-8cd2f0547f93cc28b1949051400f42dc]: Textual amendment: Words in [reg. 3AE(3)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AE/3) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(7)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/7/b)
+[^c-8cd2f0547f93cc28b1949051400f42dc]: Textual amendment: Words in [reg. 3AE(3)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AE/3) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(7)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/7/b)
 
-[^key-4ad330dc0044fe20f8032152cdc3a6a2]: Textual amendment: [Reg. 3AE(4)(c)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AE/4/c) substituted (25.4.2019) by [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/773/regulation/3/2)
+[^c-4ad330dc0044fe20f8032152cdc3a6a2]: Textual amendment: [Reg. 3AE(4)(c)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AE/4/c) substituted (25.4.2019) by [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/773/regulation/3/2)
 
-[^key-4c49777cab2fee962c2dcf3f01c814b5]: Textual amendment: Word in [reg. 3AE(4)(g)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AE/4/g) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(7)(c)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/7/c)
+[^c-4c49777cab2fee962c2dcf3f01c814b5]: Textual amendment: Word in [reg. 3AE(4)(g)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AE/4/g) omitted (with effect in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(7)(c)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/7/c)
 
-[^key-bde8b663cb22182694603080275a0ddc]: Textual amendment: [Reg. 3AE(4)(ga)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AE/4/ga) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(7)(d)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/7/d)
+[^c-bde8b663cb22182694603080275a0ddc]: Textual amendment: [Reg. 3AE(4)(ga)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AE/4/ga) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(7)(d)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/7/d)
 
-[^key-faac61ab9729324311eaee8a61c0b586]: Textual amendment: Words in [reg. 3AF(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AF/1/b/ii) omitted (with effect in accordance with s. 32(6) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 32(4)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/4/b)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/6) (with [s. 32(7)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/7)[(8)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/8))
+[^c-faac61ab9729324311eaee8a61c0b586]: Textual amendment: Words in [reg. 3AF(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AF/1/b/ii) omitted (with effect in accordance with s. 32(6) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 32(4)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/4/b)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/6) (with [s. 32(7)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/7)[(8)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/8))
 
-[^key-4362c73fb4d192ad90609c5a7c39f03e]: Textual amendment: Reg. 3AG(1)(ba)(bb) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(8)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/8/a)
+[^c-4362c73fb4d192ad90609c5a7c39f03e]: Textual amendment: Reg. 3AG(1)(ba)(bb) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(8)(a)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/8/a)
 
-[^key-90495ccf33ee30136f40f7ff722d60d0]: Textual amendment: Words in [reg. 3AG(2)(d)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AG/2/d) omitted (with effect in accordance with s. 32(6) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 32(4)(c)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/4/c)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/6) (with [s. 32(7)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/7)[(8)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/8))
+[^c-90495ccf33ee30136f40f7ff722d60d0]: Textual amendment: Words in [reg. 3AG(2)(d)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AG/2/d) omitted (with effect in accordance with s. 32(6) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 32(4)(c)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/4/c)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/6) (with [s. 32(7)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/7)[(8)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/8))
 
-[^key-72ad60898d86d460250dc626422d673e]: Textual amendment: Words in reg. 3AG(4) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(8)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/8/b)
+[^c-72ad60898d86d460250dc626422d673e]: Textual amendment: Words in reg. 3AG(4) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(8)(b)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/8/b)
 
-[^key-82f299b91f369aa28ede68b1afab5b2f]: Textual amendment: Reg. 3AG(5)(6) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(8)(c)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/8/c)
+[^c-82f299b91f369aa28ede68b1afab5b2f]: Textual amendment: Reg. 3AG(5)(6) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Pensions (Abolition of Lifetime Allowance Charge etc) Regulations 2024 (S.I. 2024/356)](https://www.legislation.gov.uk/uksi/2024/356), [reg. 8(8)(c)](https://www.legislation.gov.uk/uksi/2024/356/regulation/8/8/c)
 
-[^key-a609b0ee9dc488feabaf175fd3feaafe]: Textual amendment: Words in [reg. 3AH](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AH) heading inserted (25.4.2019) by [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/773/regulation/4/2)
+[^c-a609b0ee9dc488feabaf175fd3feaafe]: Textual amendment: Words in [reg. 3AH](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AH) heading inserted (25.4.2019) by [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/773/regulation/4/2)
 
-[^key-d5ada69a956eb4c9c1046b552836debf]: Textual amendment: [Reg. 3AH(1)(a)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AH/1/a) substituted (25.4.2019) by [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/773/regulation/4/3)
+[^c-d5ada69a956eb4c9c1046b552836debf]: Textual amendment: [Reg. 3AH(1)(a)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AH/1/a) substituted (25.4.2019) by [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/773/regulation/4/3)
 
-[^key-3e0dd5c1e90a25116cfed6a2d3d62e43]: Textual amendment: Words in [reg. 3AH(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AH/1/a/ii) omitted (with effect in accordance with s. 32(6) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 32(4)(d)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/4/d)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/6) (with [s. 32(7)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/7)[(8)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/8))
+[^c-3e0dd5c1e90a25116cfed6a2d3d62e43]: Textual amendment: Words in [reg. 3AH(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AH/1/a/ii) omitted (with effect in accordance with s. 32(6) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 32(4)(d)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/4/d)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/6) (with [s. 32(7)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/7)[(8)](https://www.legislation.gov.uk/ukpga/2025/8/section/32/8))
 
-[^key-e93e8492c02e52369c471a6c441edff6]: Textual amendment: Words in [reg. 3AI](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AI) heading omitted (25.4.2019) by virtue of [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/773/regulation/5/a)
+[^c-e93e8492c02e52369c471a6c441edff6]: Textual amendment: Words in [reg. 3AI](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AI) heading omitted (25.4.2019) by virtue of [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/773/regulation/5/a)
 
-[^key-6de567b3891488184329e680c601a72d]: Textual amendment: Words in [reg. 3AI(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AI/1) omitted (25.4.2019) by virtue of [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/773/regulation/5/b)
+[^c-6de567b3891488184329e680c601a72d]: Textual amendment: Words in [reg. 3AI(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AI/1) omitted (25.4.2019) by virtue of [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/773/regulation/5/b)
 
-[^key-9e184d3a3fd09ab9fda10e00bfa9e606]: Textual amendment: Word in [reg. 3AL(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AL/2/c/iv) omitted (25.4.2019) by virtue of [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/773/regulation/6/2/a)
+[^c-9e184d3a3fd09ab9fda10e00bfa9e606]: Textual amendment: Word in [reg. 3AL(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AL/2/c/iv) omitted (25.4.2019) by virtue of [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2019/773/regulation/6/2/a)
 
-[^key-3487ab0c7eda213916cf6a5c509b2570]: Textual amendment: [Reg. 3AL(2)(c)(v)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AL/2/c/v): comma substituted for full stop (25.4.2019) by [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/773/regulation/6/2/b)
+[^c-3487ab0c7eda213916cf6a5c509b2570]: Textual amendment: [Reg. 3AL(2)(c)(v)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AL/2/c/v): comma substituted for full stop (25.4.2019) by [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2019/773/regulation/6/2/b)
 
-[^key-88d4439dd4407f56105d27e852a8f2a6]: Textual amendment: [Reg. 3AL(2)(c)(vi)-(viii)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AL/2/c/vi) inserted (25.4.2019) by [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2019/773/regulation/6/2/c)
+[^c-88d4439dd4407f56105d27e852a8f2a6]: Textual amendment: [Reg. 3AL(2)(c)(vi)-(viii)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3AL/2/c/vi) inserted (25.4.2019) by [The Pension Schemes (Information Requirements — Qualifying Overseas Pension Schemes, Qualifying Recognised Overseas Pension Schemes and Corresponding Relief) (Amendment) Regulations 2019 (S.I. 2019/773)](https://www.legislation.gov.uk/uksi/2019/773), [regs. 1](https://www.legislation.gov.uk/uksi/2019/773/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2019/773/regulation/6/2/c)
 
-[^key-b3d63ca16869e9be4d691e72348ea6f2]: Textual amendment: Word in [reg. 3B](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B) heading substituted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [18](https://www.legislation.gov.uk/uksi/2013/2259/regulation/18)
+[^c-b3d63ca16869e9be4d691e72348ea6f2]: Textual amendment: Word in [reg. 3B](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B) heading substituted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [18](https://www.legislation.gov.uk/uksi/2013/2259/regulation/18)
 
-[^key-22fc1ada8b79cbd18cccb53c20777dad]: Textual amendment: Words in [reg. 3B](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B) inserted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2013/2259/regulation/19/a)
+[^c-22fc1ada8b79cbd18cccb53c20777dad]: Textual amendment: Words in [reg. 3B](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B) inserted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2013/2259/regulation/19/a)
 
-[^key-26f766ef23a0e8e124de0114443a4bcc]: Textual amendment: Word in [reg. 3B](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B) substituted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [19(b)](https://www.legislation.gov.uk/uksi/2013/2259/regulation/19/b)
+[^c-26f766ef23a0e8e124de0114443a4bcc]: Textual amendment: Word in [reg. 3B](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B) substituted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [19(b)](https://www.legislation.gov.uk/uksi/2013/2259/regulation/19/b)
 
-[^key-167939072f617198dd8c6a9cb6d754ae]: Textual amendment: Word in [reg. 3B](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B) substituted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [19(c)](https://www.legislation.gov.uk/uksi/2013/2259/regulation/19/c)
+[^c-167939072f617198dd8c6a9cb6d754ae]: Textual amendment: Word in [reg. 3B](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B) substituted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [19(c)](https://www.legislation.gov.uk/uksi/2013/2259/regulation/19/c)
 
-[^key-afded3293f5c080066901b3b98f88d87]: Textual amendment: [Reg. 3B(za)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B/za) inserted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [19(d)](https://www.legislation.gov.uk/uksi/2013/2259/regulation/19/d)
+[^c-afded3293f5c080066901b3b98f88d87]: Textual amendment: [Reg. 3B(za)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B/za) inserted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [19(d)](https://www.legislation.gov.uk/uksi/2013/2259/regulation/19/d)
 
-[^key-ec4377c8fccf861c66b2ede939b9870f]: Textual amendment: Words in [reg. 3B](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(12)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/12) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-ec4377c8fccf861c66b2ede939b9870f]: Textual amendment: Words in [reg. 3B](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(12)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/12) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-f3e53b30d0975c2174c6e5eaad72a7cc]: Textual amendment: Words in [reg. 3B(b)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B/b) omitted (14.10.2013) by virtue of [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [19(e)](https://www.legislation.gov.uk/uksi/2013/2259/regulation/19/e)
+[^c-f3e53b30d0975c2174c6e5eaad72a7cc]: Textual amendment: Words in [reg. 3B(b)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B/b) omitted (14.10.2013) by virtue of [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [19(e)](https://www.legislation.gov.uk/uksi/2013/2259/regulation/19/e)
 
-[^key-7681a2b002cc04942f507e743f6a053f]: Textual amendment: Words in [reg. 3B(b)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B/b) inserted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [19(e)](https://www.legislation.gov.uk/uksi/2013/2259/regulation/19/e)
+[^c-7681a2b002cc04942f507e743f6a053f]: Textual amendment: Words in [reg. 3B(b)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3B/b) inserted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [19(e)](https://www.legislation.gov.uk/uksi/2013/2259/regulation/19/e)
 
-[^key-b00f75359a4fc8fcb43c6226223f8c89]: Textual amendment: [Reg. 3C](https://www.legislation.gov.uk/uksi/2006/208/regulation/3C) substituted (with effect in accordance with reg. 5 of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [20](https://www.legislation.gov.uk/uksi/2013/2259/regulation/20)
+[^c-b00f75359a4fc8fcb43c6226223f8c89]: Textual amendment: [Reg. 3C](https://www.legislation.gov.uk/uksi/2006/208/regulation/3C) substituted (with effect in accordance with reg. 5 of the amending S.I.) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [20](https://www.legislation.gov.uk/uksi/2013/2259/regulation/20)
 
-[^key-fd8229bf8c078a29a37316028a1dfcfe]: Textual amendment: Words in [reg. 3C(3)(a)(i)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3C/3/a/i) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(13)(a)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/13/a) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-fd8229bf8c078a29a37316028a1dfcfe]: Textual amendment: Words in [reg. 3C(3)(a)(i)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3C/3/a/i) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(13)(a)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/13/a) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-10fd418605118b9bac85427b580c36f6]: Textual amendment: Words in [reg. 3C(3)(b)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3C/3/b) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(13)(b)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/13/b) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-10fd418605118b9bac85427b580c36f6]: Textual amendment: Words in [reg. 3C(3)(b)](https://www.legislation.gov.uk/uksi/2006/208/regulation/3C/3/b) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(13)(b)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/13/b) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-8ee473d6c453926c1656184f3b6ad199]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/208/regulation/4) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/1/1)
+[^c-8ee473d6c453926c1656184f3b6ad199]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/208/regulation/4) in force at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/1/1)
 
-[^key-8c18a43bbf13c448412918959b6b18b9]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2006/208/regulation/4/1/a) substituted (6.4.2012) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2012/884/regulation/10/a)
+[^c-8c18a43bbf13c448412918959b6b18b9]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2006/208/regulation/4/1/a) substituted (6.4.2012) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2012/884/regulation/10/a)
 
-[^key-811f996390cd8972ca16ad6865c8b7bb]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2006/208/regulation/4/2) substituted (6.4.2012) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2012/884/regulation/10/b)
+[^c-811f996390cd8972ca16ad6865c8b7bb]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2006/208/regulation/4/2) substituted (6.4.2012) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/884)](https://www.legislation.gov.uk/uksi/2012/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/884/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2012/884/regulation/10/b)
 
-[^key-81da361e412ebe1e22199c34eb155a68]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/208/regulation/5) inserted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [21](https://www.legislation.gov.uk/uksi/2013/2259/regulation/21)
+[^c-81da361e412ebe1e22199c34eb155a68]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/208/regulation/5) inserted (14.10.2013) by [The Registered Pension Schemes and Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2259)](https://www.legislation.gov.uk/uksi/2013/2259), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2259/regulation/1), [21](https://www.legislation.gov.uk/uksi/2013/2259/regulation/21)
 
-[^key-61929e6f9910f3d907ec632241279fd9]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/5/1) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(14)(a)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/14/a) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-61929e6f9910f3d907ec632241279fd9]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/5/1) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(14)(a)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/14/a) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-97b7519563d9d94d471e5ec1f61ca5ff]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/5/1) inserted (6.4.2015) by [The Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/673)](https://www.legislation.gov.uk/uksi/2015/673), [regs. 1](https://www.legislation.gov.uk/uksi/2015/673/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2015/673/regulation/6/a)
+[^c-97b7519563d9d94d471e5ec1f61ca5ff]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/5/1) inserted (6.4.2015) by [The Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/673)](https://www.legislation.gov.uk/uksi/2015/673), [regs. 1](https://www.legislation.gov.uk/uksi/2015/673/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2015/673/regulation/6/a)
 
-[^key-3e4adde61686599af641d85ff1e4a17e]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/5/1) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(14)(b)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/14/b) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
+[^c-3e4adde61686599af641d85ff1e4a17e]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2006/208/regulation/5/1) inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 22(14)(b)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/14/b) (with [Sch. 4 para. 22(15)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/22/15))
 
-[^key-fe4ff20270874667fd33819a711b3e1f]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2006/208/regulation/5/1/b) inserted (6.4.2015) by [The Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/673)](https://www.legislation.gov.uk/uksi/2015/673), [regs. 1](https://www.legislation.gov.uk/uksi/2015/673/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2015/673/regulation/6/b)
+[^c-fe4ff20270874667fd33819a711b3e1f]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2006/208/regulation/5/1/b) inserted (6.4.2015) by [The Overseas Pension Schemes (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/673)](https://www.legislation.gov.uk/uksi/2015/673), [regs. 1](https://www.legislation.gov.uk/uksi/2015/673/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2015/673/regulation/6/b)

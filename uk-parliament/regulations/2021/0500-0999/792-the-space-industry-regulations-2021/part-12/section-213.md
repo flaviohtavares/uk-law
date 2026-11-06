@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213. When a human occupant signs the consent form[^key-06779f1cb782538ff983267727c93a80]
+## 213. When a human occupant signs the consent form[^c-06779f1cb782538ff983267727c93a80]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A human occupant must sign both copies of the consent form no more than 24 hours
 
 ## Annotations
 
-[^key-06779f1cb782538ff983267727c93a80]: Commencement: Reg. 213 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-06779f1cb782538ff983267727c93a80]: Commencement: Reg. 213 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

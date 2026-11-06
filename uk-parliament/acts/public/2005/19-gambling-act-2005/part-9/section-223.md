@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 223. Modification by agreement[^key-3fd274b816637d9edcdaa244ad5c7b0e]
+## 223. Modification by agreement[^c-3fd274b816637d9edcdaa244ad5c7b0e]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fd274b816637d9edcdaa244ad5c7b0e]: Commencement: [S. 223](https://www.legislation.gov.uk/ukpga/2005/19/section/223) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-3fd274b816637d9edcdaa244ad5c7b0e]: Commencement: [S. 223](https://www.legislation.gov.uk/ukpga/2005/19/section/223) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

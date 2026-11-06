@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Review of operations requiring consent[^key-05982f25303e13f636a9ae4bebbfec42]
+## 6. Review of operations requiring consent[^c-05982f25303e13f636a9ae4bebbfec42]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
 
 review the operations requiring consent specified in an SSSI notification.
 
-(2)[^key-2838d4fb888bdc1c60a66c1b20ca4a33] SNH must not carry out—
+(2)[^c-2838d4fb888bdc1c60a66c1b20ca4a33] SNH must not carry out—
 
 - (a) the first such review within 6 years of the date on which the SSSI notification was given,
 - (b) any subsequent such review within 6 years of the previous review,
@@ -51,6 +51,6 @@ SNH must amend the SSSI notification by giving notification of the amendment to 
 
 ## Annotations
 
-[^key-05982f25303e13f636a9ae4bebbfec42]: Commencement: S. 6 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-05982f25303e13f636a9ae4bebbfec42]: Commencement: S. 6 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-2838d4fb888bdc1c60a66c1b20ca4a33]: Modification: S. 6(2) excluded (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [20(6)](https://www.legislation.gov.uk/ssi/2004/475/regulation/20/6) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20))
+[^c-2838d4fb888bdc1c60a66c1b20ca4a33]: Modification: S. 6(2) excluded (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [20(6)](https://www.legislation.gov.uk/ssi/2004/475/regulation/20/6) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20))

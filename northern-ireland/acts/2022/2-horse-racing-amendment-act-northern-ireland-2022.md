@@ -36,7 +36,7 @@ An Act to amend the Horse Racing (Northern Ireland) Order 1990 to allow for paym
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Horse racecourse operators[^key-2a7d2332980d6c95f6c92a97877e81fe]
+## 1. Horse racecourse operators[^c-2a7d2332980d6c95f6c92a97877e81fe]
 
 (1) Article 2 of the 1990 Order (interpretation) is amended as follows.
 
@@ -60,7 +60,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 .
 
-## 2. Horse Racing Fund[^key-2aa6437e53ae86ab76889341fb7c7432]
+## 2. Horse Racing Fund[^c-2aa6437e53ae86ab76889341fb7c7432]
 
 (1) Article 3 of the 1990 Order (horse racing fund) is amended as follows.
 
@@ -92,7 +92,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (7) Omit paragraph (6).
 
-## 3. Minor and consequential amendments[^key-9b453637a87466360964c0244b86585c]
+## 3. Minor and consequential amendments[^c-9b453637a87466360964c0244b86585c]
 
 (1) The 1990 Order is amended as follows.
 
@@ -111,11 +111,11 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (7) In Schedule 1 (amendments), omit paragraphs 5 and 6 and the cross-heading before paragraph 5.
 
-## 4. Interpretation[^key-dc1d68374cd89bc6819f83eb229f2a47]
+## 4. Interpretation[^c-dc1d68374cd89bc6819f83eb229f2a47]
 
 In this Act “the 1990 Order” means the Horse Racing (Northern Ireland) Order 1990.
 
-## 5. Transitional and supplementary provision[^key-f54fb7bcd9caf869d103f481824f0e9b]
+## 5. Transitional and supplementary provision[^c-f54fb7bcd9caf869d103f481824f0e9b]
 
 (1) Down Royal Park Racecourse Limited must submit a statement of its expenditure for the year beginning with 1 January 2021 to the Department.
 
@@ -141,26 +141,26 @@ In this Act “the 1990 Order” means the Horse Racing (Northern Ireland) Order
 - “the Department” means the Department of Agriculture, Environment and Rural Affairs;
 - “horse racecourse operator” has the meaning given by Article 2(2) of the 1990 Order.
 
-## 6. Commencement[^key-fae9ee147ff5d46a53324ac6452ba626]
+## 6. Commencement[^c-fae9ee147ff5d46a53324ac6452ba626]
 
 This Act comes into operation on the day after the day on which this Act receives Royal Assent.
 
-## 7. Short title[^key-55eaf865a9be391ac708f739ff233363]
+## 7. Short title[^c-55eaf865a9be391ac708f739ff233363]
 
 This Act may be cited as the Horse Racing (Amendment) Act (Northern Ireland) 2022.
 
 ## Annotations
 
-[^key-2a7d2332980d6c95f6c92a97877e81fe]: Commencement: S. 1 in operation at 3.2.2022, see [s. 6](https://www.legislation.gov.uk/nia/2022/2/section/6)
+[^c-2a7d2332980d6c95f6c92a97877e81fe]: Commencement: S. 1 in operation at 3.2.2022, see [s. 6](https://www.legislation.gov.uk/nia/2022/2/section/6)
 
-[^key-2aa6437e53ae86ab76889341fb7c7432]: Commencement: S. 2 in operation at 3.2.2022, see [s. 6](https://www.legislation.gov.uk/nia/2022/2/section/6)
+[^c-2aa6437e53ae86ab76889341fb7c7432]: Commencement: S. 2 in operation at 3.2.2022, see [s. 6](https://www.legislation.gov.uk/nia/2022/2/section/6)
 
-[^key-9b453637a87466360964c0244b86585c]: Commencement: S. 3 in operation at 3.2.2022, see [s. 6](https://www.legislation.gov.uk/nia/2022/2/section/6)
+[^c-9b453637a87466360964c0244b86585c]: Commencement: S. 3 in operation at 3.2.2022, see [s. 6](https://www.legislation.gov.uk/nia/2022/2/section/6)
 
-[^key-dc1d68374cd89bc6819f83eb229f2a47]: Commencement: S. 4 in operation at 3.2.2022, see [s. 6](https://www.legislation.gov.uk/nia/2022/2/section/6)
+[^c-dc1d68374cd89bc6819f83eb229f2a47]: Commencement: S. 4 in operation at 3.2.2022, see [s. 6](https://www.legislation.gov.uk/nia/2022/2/section/6)
 
-[^key-f54fb7bcd9caf869d103f481824f0e9b]: Commencement: S. 5 in operation at 3.2.2022, see [s. 6](https://www.legislation.gov.uk/nia/2022/2/section/6)
+[^c-f54fb7bcd9caf869d103f481824f0e9b]: Commencement: S. 5 in operation at 3.2.2022, see [s. 6](https://www.legislation.gov.uk/nia/2022/2/section/6)
 
-[^key-fae9ee147ff5d46a53324ac6452ba626]: Commencement: S. 6 in operation at 3.2.2022, see [s. 6](https://www.legislation.gov.uk/nia/2022/2/section/6)
+[^c-fae9ee147ff5d46a53324ac6452ba626]: Commencement: S. 6 in operation at 3.2.2022, see [s. 6](https://www.legislation.gov.uk/nia/2022/2/section/6)
 
-[^key-55eaf865a9be391ac708f739ff233363]: Commencement: S. 7 in operation at 3.2.2022, see [s. 6](https://www.legislation.gov.uk/nia/2022/2/section/6)
+[^c-55eaf865a9be391ac708f739ff233363]: Commencement: S. 7 in operation at 3.2.2022, see [s. 6](https://www.legislation.gov.uk/nia/2022/2/section/6)

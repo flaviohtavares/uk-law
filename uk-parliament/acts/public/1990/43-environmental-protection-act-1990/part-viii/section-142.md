@@ -24,10 +24,10 @@ summary: ''
 
 (2) The Secretary of State shall not make an order under subsection (1) above specifying any substance—
 
-- (a) which was first supplied in any member State or in the United Kingdom[^key-b4f2a5396328431bf13a4ba13cfb8e67] on or after 18th September 1981; or
+- (a) which was first supplied in any member State or in the United Kingdom[^c-b4f2a5396328431bf13a4ba13cfb8e67] on or after 18th September 1981; or
 - (b) in so far as it is a regulated substance for the purposes of any relevant enactment.
 
-(3)[^key-4ab74dcb659906da619ff55d73f69bd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4ab74dcb659906da619ff55d73f69bd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Regulations under this section may—
 
@@ -52,9 +52,9 @@ summary: ''
 
 (7)[^c19026921] The enactments which are relevant for the purposes of subsection (2)(b) above are the following—
 
-- the Explosives Regulations 2014[^key-6816394309cfd629987366de41d9d9f2];
-- the Environmental Permitting (England and Wales) Regulations 2016 ([^key-bd3014cbe3587459343781b9cbefcbfa][^c20958801][S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154)) in relation to radioactive material or radioactive waste;
-- Parts 3 to 8 and 16 of the Human Medicines Regulations 2012[^key-09626263fe783c054c41bd97d177369f];
+- the Explosives Regulations 2014[^c-6816394309cfd629987366de41d9d9f2];
+- the Environmental Permitting (England and Wales) Regulations 2016 ([^c-bd3014cbe3587459343781b9cbefcbfa][^c20958801][S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154)) in relation to radioactive material or radioactive waste;
+- Parts 3 to 8 and 16 of the Human Medicines Regulations 2012[^c-09626263fe783c054c41bd97d177369f];
 - Part IV of the [^c13748071]Agriculture Act 1970;
 - the [^c13748081]Misuse of Drugs Act 1971;
 - Part III of the [^c13748091]Food and Environment Protection Act 1985; [^c19013101]. . .
@@ -74,7 +74,7 @@ and a substance is a regulated substance for the purposes of any such enactment 
 - (a) which was first supplied in any member State or in the United Kingdom on or after 18th September 1981; or
 - (b) in so far as it is a regulated substance for the purposes of any relevant enactment.
 
-(3)[^key-4ab74dcb659906da619ff55d73f69bd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4ab74dcb659906da619ff55d73f69bd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Regulations under this section may—
 
@@ -100,7 +100,7 @@ and a substance is a regulated substance for the purposes of any such enactment 
 (7)[^c19026921] The enactments which are relevant for the purposes of subsection (2)(b) above are the following—
 
 - the Explosives Regulations 2014 *(Extent: E+W+S)*;
-- the[^c13748041] [^c13748051]Radioactive Substances Act 1993 *(affected by repeal, see note)*[^key-77481af645a79873bb1b6ec3f3d98c11] Environmental Authorisations (Scotland) Regulations 2018;
+- the[^c13748041] [^c13748051]Radioactive Substances Act 1993 *(affected by repeal, see note)*[^c-77481af645a79873bb1b6ec3f3d98c11] Environmental Authorisations (Scotland) Regulations 2018;
 - Parts 3 to 8 and 16 of the Human Medicines Regulations 2012;
 - Part IV of the [^c13748071]Agriculture Act 1970;
 - the [^c13748081]Misuse of Drugs Act 1971;
@@ -114,19 +114,19 @@ and a substance is a regulated substance for the purposes of any such enactment 
 
 [^c20958831]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland and Northern Ireland only
 
-[^key-b4f2a5396328431bf13a4ba13cfb8e67]: Textual amendment: Words in [s. 142(2)(a)](https://www.legislation.gov.uk/ukpga/1990/43/section/142/2/a) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2019/458/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4f2a5396328431bf13a4ba13cfb8e67]: Textual amendment: Words in [s. 142(2)(a)](https://www.legislation.gov.uk/ukpga/1990/43/section/142/2/a) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2019/458/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4ab74dcb659906da619ff55d73f69bd3]: Textual amendment: S. 142(3) repealed (22.7.2012) by [The Advisory Committee on Hazardous Substances (Abolition) Order 2012 (S.I. 2012/1923)](https://www.legislation.gov.uk/uksi/2012/1923), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1923/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/1923/schedule)
+[^c-4ab74dcb659906da619ff55d73f69bd3]: Textual amendment: S. 142(3) repealed (22.7.2012) by [The Advisory Committee on Hazardous Substances (Abolition) Order 2012 (S.I. 2012/1923)](https://www.legislation.gov.uk/uksi/2012/1923), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1923/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/1923/schedule)
 
 [^c19026921]: Textual amendment: By [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [arts. 1](https://www.legislation.gov.uk/nisr/2006/425/article/1), [27(1)](https://www.legislation.gov.uk/nisr/2006/425/article/27/1), [Sch. 6 para. 14(3)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/14/3) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26)) it is provided that for the words "Explosive Substances Act 1875" in s. 142(7) there be substituted (N.I.) (1.12.2006) the words "Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006"
 
-[^key-6816394309cfd629987366de41d9d9f2]: Textual amendment: Words in s. 142(7) substituted (E.W.S.) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 6](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/6)
+[^c-6816394309cfd629987366de41d9d9f2]: Textual amendment: Words in s. 142(7) substituted (E.W.S.) (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 6](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/6)
 
-[^key-bd3014cbe3587459343781b9cbefcbfa]: Textual amendment: Words in s. 142(7) substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 6(7)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/6/7) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-bd3014cbe3587459343781b9cbefcbfa]: Textual amendment: Words in s. 142(7) substituted (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 6(7)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/6/7) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^c20958801]: Textual amendment: Words in s. 142(7) substituted (E.W.) (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [107](https://www.legislation.gov.uk/uksi/2010/675/regulation/107), [Sch. 26 para. 5(12)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/5/12) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
 
-[^key-09626263fe783c054c41bd97d177369f]: Textual amendment: Words in s. 142(7) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 41](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/41) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-09626263fe783c054c41bd97d177369f]: Textual amendment: Words in s. 142(7) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 41](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/41) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
 [^c13748071]: Marginal citation: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40).
 
@@ -146,4 +146,4 @@ and a substance is a regulated substance for the purposes of any such enactment 
 
 [^c13748051]: Marginal citation: 1993 C. 12.
 
-[^key-77481af645a79873bb1b6ec3f3d98c11]: Textual amendment: Words in s. 142(7) substituted (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 2(3)](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/2/3) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-77481af645a79873bb1b6ec3f3d98c11]: Textual amendment: Words in s. 142(7) substituted (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 2(3)](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/2/3) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))

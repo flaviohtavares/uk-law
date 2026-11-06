@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Deprivation orders, seizure orders and interim orders: offences[^key-fe64dca93bc41e43bb5c368ba1704d06]
+## 50. Deprivation orders, seizure orders and interim orders: offences[^c-fe64dca93bc41e43bb5c368ba1704d06]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ or to both.
 
 ## Annotations
 
-[^key-fe64dca93bc41e43bb5c368ba1704d06]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2006/45/section/50) in force at 12.12.2007 by [S.S.I. 2007/519](https://www.legislation.gov.uk/ssi/2007/519), [art. 2](https://www.legislation.gov.uk/ssi/2007/519/article/2)
+[^c-fe64dca93bc41e43bb5c368ba1704d06]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2006/45/section/50) in force at 12.12.2007 by [S.S.I. 2007/519](https://www.legislation.gov.uk/ssi/2007/519), [art. 2](https://www.legislation.gov.uk/ssi/2007/519/article/2)

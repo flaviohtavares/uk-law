@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5B. Offences relating to information[^key-42208f28176e6efc39a7c70e754aa4d9][^key-1c9073dc7fffef29345a68238274c654]
+## 5B. Offences relating to information[^c-42208f28176e6efc39a7c70e754aa4d9][^c-1c9073dc7fffef29345a68238274c654]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ he, as well as the body corporate, is guilty of that offence and liable to be pr
 
 ## Annotations
 
-[^key-42208f28176e6efc39a7c70e754aa4d9]: Modification: S. 5B power to apply (with modifications) conferred (16.7.2014 for E. for specified purposes, 2.12.2014 for E. in so far as not already in force) by [Business Rate Supplements Act 2009 (c. 7)](https://www.legislation.gov.uk/ukpga/2009/7), [s. 32](https://www.legislation.gov.uk/ukpga/2009/7/section/32), [Sch. 2 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/8/2/b) (with [s. 31](https://www.legislation.gov.uk/ukpga/2009/7/section/31)); [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2); S.I. 2014/3200, art. 2
+[^c-42208f28176e6efc39a7c70e754aa4d9]: Modification: S. 5B power to apply (with modifications) conferred (16.7.2014 for E. for specified purposes, 2.12.2014 for E. in so far as not already in force) by [Business Rate Supplements Act 2009 (c. 7)](https://www.legislation.gov.uk/ukpga/2009/7), [s. 32](https://www.legislation.gov.uk/ukpga/2009/7/section/32), [Sch. 2 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/8/2/b) (with [s. 31](https://www.legislation.gov.uk/ukpga/2009/7/section/31)); [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2); S.I. 2014/3200, art. 2
 
-[^key-1c9073dc7fffef29345a68238274c654]: Textual amendment: Ss. 5A, 5B inserted (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 105(2)](https://www.legislation.gov.uk/ukpga/2004/5/section/105/2); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-1c9073dc7fffef29345a68238274c654]: Textual amendment: Ss. 5A, 5B inserted (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 105(2)](https://www.legislation.gov.uk/ukpga/2004/5/section/105/2); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

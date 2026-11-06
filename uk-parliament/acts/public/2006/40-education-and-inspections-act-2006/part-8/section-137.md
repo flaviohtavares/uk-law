@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Reports of inspections under section 136[^key-3deb9054df02a4f543818928848e4214][^c17507851]
+## 137. Reports of inspections under section 136[^c-3deb9054df02a4f543818928848e4214][^c17507851]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ within such period, and in such manner, as may be prescribed by regulations made
 
 ## Annotations
 
-[^key-3deb9054df02a4f543818928848e4214]: Commencement: S. 137 in force at 1.4.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-3deb9054df02a4f543818928848e4214]: Commencement: S. 137 in force at 1.4.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
 
 [^c17507851]: Commencement: S. 137 partly in force; s. 137 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see [s. 188(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/1)

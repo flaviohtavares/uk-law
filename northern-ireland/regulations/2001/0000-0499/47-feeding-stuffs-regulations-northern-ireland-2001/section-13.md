@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Control of compound feeding stuffs containing prohibited materials[^key-7878a2568db2f97f06015bf33f8e2af8]
+## 13. Control of compound feeding stuffs containing prohibited materials[^c-7878a2568db2f97f06015bf33f8e2af8]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7878a2568db2f97f06015bf33f8e2af8]: Commencement: Reg. 13 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-7878a2568db2f97f06015bf33f8e2af8]: Commencement: Reg. 13 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00026]: Footnote: O.J. No. L194, 25.7.75, p. 39. Last amended by Commission Decision [96/350/EC](https://www.legislation.gov.uk/european/decision/1996/0350) (O.J. No. L135, 6.6.96, p. 32)

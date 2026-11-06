@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 15. Complaint: proper interest[^key-929860da1a9749d2c9ea4b8a2550f6e2]
+## 15. Complaint: proper interest[^c-929860da1a9749d2c9ea4b8a2550f6e2]
 
 *Extent: E*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-929860da1a9749d2c9ea4b8a2550f6e2]: Commencement: S. 15 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-929860da1a9749d2c9ea4b8a2550f6e2]: Commencement: S. 15 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

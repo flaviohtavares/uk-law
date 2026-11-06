@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-a6485fa1078d5ac019d2326368ab8d48] After section 86 of the Water Industry Act 1991 there is inserted—
+(1)[^c-a6485fa1078d5ac019d2326368ab8d48] After section 86 of the Water Industry Act 1991 there is inserted—
 
 > **86ZA. Charging of fees**
 >
@@ -54,10 +54,10 @@ summary: ''
 (2) In the Public Bodies Act 2011—
 
 - (a) subsections (3) and (4) of section 14 (power of the Welsh Ministers to modify by order the funding arrangements of inspectors appointed under section 86 of the Water Industry Act 1991) are repealed;
-- (b)[^key-c07ae12e0444b71a61dee142b86230b4] in Schedule 4 (bodies and offices where power to modify funding arrangements), the entry relating to inspectors appointed by the Secretary of State under section 86 of the Water Industry Act 1991 is repealed.
+- (b)[^c-c07ae12e0444b71a61dee142b86230b4] in Schedule 4 (bodies and offices where power to modify funding arrangements), the entry relating to inspectors appointed by the Secretary of State under section 86 of the Water Industry Act 1991 is repealed.
 
 ## Annotations
 
-[^key-a6485fa1078d5ac019d2326368ab8d48]: Commencement: [S. 40(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/40/1) in force at 14.7.2014 by [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1823/article/2/a)
+[^c-a6485fa1078d5ac019d2326368ab8d48]: Commencement: [S. 40(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/40/1) in force at 14.7.2014 by [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1823/article/2/a)
 
-[^key-c07ae12e0444b71a61dee142b86230b4]: Commencement: [S. 40(2)(b)](https://www.legislation.gov.uk/ukpga/2014/21/section/40/2/b) in force at 1.11.2016 by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(f)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/f)
+[^c-c07ae12e0444b71a61dee142b86230b4]: Commencement: [S. 40(2)(b)](https://www.legislation.gov.uk/ukpga/2014/21/section/40/2/b) in force at 1.11.2016 by [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(f)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/f)

@@ -24,23 +24,23 @@ Section 203(4).
 
 ### Preservation of appointments of existing members of the Welsh Authority, the BCC and the BSC
 
-**1.**[^key-4d926efa6c3a6a361c35f04cc512354d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4d926efa6c3a6a361c35f04cc512354d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Power to make provision with respect to complaints to the BCC or BSC
 
-**2.**[^key-4d926efa6c3a6a361c35f04cc512354d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4d926efa6c3a6a361c35f04cc512354d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Power to make provision with respect to complaints under the Control of Misleading Advertisements Regulations 1988
 
-**3.**[^key-4d926efa6c3a6a361c35f04cc512354d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4d926efa6c3a6a361c35f04cc512354d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Saving of amendments made by Cable and Broadcasting Act 1984
 
-**4.** The amendments made by paragraphs 12, [^c16554431]. . ., 32 [^key-b1b3dd57764d17ddd9490b6073fff51f]... of Schedule 5 to the [^c16554441]Cable and Broadcasting Act 1984 shall not be affected by the repeals made by this Act but shall continue to have effect, subject to any amendments made by Schedule 20 to this Act.
+**4.** The amendments made by paragraphs 12, [^c16554431]. . ., 32 [^c-b1b3dd57764d17ddd9490b6073fff51f]... of Schedule 5 to the [^c16554441]Cable and Broadcasting Act 1984 shall not be affected by the repeals made by this Act but shall continue to have effect, subject to any amendments made by Schedule 20 to this Act.
 
 ### Transitional modification of amendments made by this Act
 
-**5.**[^key-48cc0a3eb7d3cb0428e8b461eb76a077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-48cc0a3eb7d3cb0428e8b461eb76a077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** Section 92(1) of the Representation of the People Act 1983 (as amended by this Act), shall have effect as if—
 
@@ -58,12 +58,12 @@ Section 203(4).
 
 ## Annotations
 
-[^key-4d926efa6c3a6a361c35f04cc512354d]: Textual amendment: [Sch. 22 paras. 1-3](https://www.legislation.gov.uk/ukpga/1990/42/schedule/22/paragraph/1) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4d926efa6c3a6a361c35f04cc512354d]: Textual amendment: [Sch. 22 paras. 1-3](https://www.legislation.gov.uk/ukpga/1990/42/schedule/22/paragraph/1) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c16554431]: Textual amendment: Word in Sch. 22 para. 4 repealed (4.11.1996) by [S.I. 1995/755 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(2)](https://www.legislation.gov.uk/nisi/1995/755/article/185/2), [Sch. 10](https://www.legislation.gov.uk/nisi/1995/755/schedule/10) (with [Sch. 8 para. 23(4)](https://www.legislation.gov.uk/nisi/1995/755/schedule/8/paragraph/23/4)); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
 
-[^key-b1b3dd57764d17ddd9490b6073fff51f]: Textual amendment: Words in Sch. 22 para. 4 repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b1b3dd57764d17ddd9490b6073fff51f]: Textual amendment: Words in Sch. 22 para. 4 repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c16554441]: Marginal citation: [1984 c. 46](https://www.legislation.gov.uk/ukpga/1984/46).
 
-[^key-48cc0a3eb7d3cb0428e8b461eb76a077]: Textual amendment: Sch. 22 para. 5 repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-48cc0a3eb7d3cb0428e8b461eb76a077]: Textual amendment: Sch. 22 para. 5 repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

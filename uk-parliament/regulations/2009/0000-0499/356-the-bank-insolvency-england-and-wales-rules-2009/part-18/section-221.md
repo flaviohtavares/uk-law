@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 221. Appointment of another person to act[^key-bef1afd93ef092087d1c89bb01832d07]
+## 221. Appointment of another person to act[^c-bef1afd93ef092087d1c89bb01832d07]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.44 of the 1986 Rules. Ignore paragraph (3)(c).
 
 ## Annotations
 
-[^key-bef1afd93ef092087d1c89bb01832d07]: Commencement: Rule 221 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-bef1afd93ef092087d1c89bb01832d07]: Commencement: Rule 221 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

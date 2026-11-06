@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Appeal to Supreme Court about restraint orders[^key-8c828f64e629b91021e127ef4c24b489][^key-3dda326ce7eb50f0aaff002e2a87912f]
+## 11. Appeal to Supreme Court about restraint orders[^c-8c828f64e629b91021e127ef4c24b489][^c-3dda326ce7eb50f0aaff002e2a87912f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c828f64e629b91021e127ef4c24b489]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2005/3181/article/11) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-8c828f64e629b91021e127ef4c24b489]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2005/3181/article/11) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-3dda326ce7eb50f0aaff002e2a87912f]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/uksi/2005/3181/article/11) substituted (6.6.2011) by [The Constitutional Reform Act 2005 (Consequential Amendments) Order 2011 (S.I. 2011/1242)](https://www.legislation.gov.uk/uksi/2011/1242), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1242/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2011/1242/article/8/2)
+[^c-3dda326ce7eb50f0aaff002e2a87912f]: Textual amendment: Words in [art. 11](https://www.legislation.gov.uk/uksi/2005/3181/article/11) substituted (6.6.2011) by [The Constitutional Reform Act 2005 (Consequential Amendments) Order 2011 (S.I. 2011/1242)](https://www.legislation.gov.uk/uksi/2011/1242), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1242/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2011/1242/article/8/2)

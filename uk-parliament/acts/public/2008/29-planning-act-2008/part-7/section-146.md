@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Discharge of water[^key-10f8bfcf7292b95b87057b1e4a5a9b12]
+## 146. Discharge of water[^c-10f8bfcf7292b95b87057b1e4a5a9b12]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10f8bfcf7292b95b87057b1e4a5a9b12]: Commencement: S. 146 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/101/article/4/e) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-10f8bfcf7292b95b87057b1e4a5a9b12]: Commencement: S. 146 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/101/article/4/e) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

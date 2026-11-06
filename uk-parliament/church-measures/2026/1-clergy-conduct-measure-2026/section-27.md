@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 27. Complaint of serious misconduct[^key-6a5eadf887e069260a9418567c3bf6ea]
+## 27. Complaint of serious misconduct[^c-6a5eadf887e069260a9418567c3bf6ea]
 
 *Extent: E*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a5eadf887e069260a9418567c3bf6ea]: Commencement: S. 27 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-6a5eadf887e069260a9418567c3bf6ea]: Commencement: S. 27 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

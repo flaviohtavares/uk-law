@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 279. Other consequential amendments[^key-f37e7f798d92f4d14bbc3fa33a6df38b]
+## 279. Other consequential amendments[^c-f37e7f798d92f4d14bbc3fa33a6df38b]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f37e7f798d92f4d14bbc3fa33a6df38b]: Commencement: S. 279 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-f37e7f798d92f4d14bbc3fa33a6df38b]: Commencement: S. 279 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, England
 
-The Animals and Animal Products (Import and Export) (England) (Amendment) Regulations 2010 (revoked)[^key-d4a99698eda45d6597c39c7f853469e9]
+The Animals and Animal Products (Import and Export) (England) (Amendment) Regulations 2010 (revoked)[^c-d4a99698eda45d6597c39c7f853469e9]
 
 Made
 
@@ -46,35 +46,35 @@ Coming into force
 
 29th July 2010
 
-[^key-d4a99698eda45d6597c39c7f853469e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4a99698eda45d6597c39c7f853469e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-d4a99698eda45d6597c39c7f853469e9]
+## 1. Title, application and commencement[^c-d4a99698eda45d6597c39c7f853469e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Animals and Animal Products (Import and Export) (England) Regulations 2006[^key-d4a99698eda45d6597c39c7f853469e9]
+## 2. Amendment to the Animals and Animal Products (Import and Export) (England) Regulations 2006[^c-d4a99698eda45d6597c39c7f853469e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Council Directive [2009/158/EC](https://www.legislation.gov.uk/european/directive/2009/0158)[^key-d4a99698eda45d6597c39c7f853469e9]
+## 3. Council Directive [2009/158/EC](https://www.legislation.gov.uk/european/directive/2009/0158)[^c-d4a99698eda45d6597c39c7f853469e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Part 1 of Schedule 3[^key-d4a99698eda45d6597c39c7f853469e9]
+## 4. Part 1 of Schedule 3[^c-d4a99698eda45d6597c39c7f853469e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Parts I and II of Schedule 7[^key-d4a99698eda45d6597c39c7f853469e9]
+## 5. Parts I and II of Schedule 7[^c-d4a99698eda45d6597c39c7f853469e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4a99698eda45d6597c39c7f853469e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4a99698eda45d6597c39c7f853469e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-d4a99698eda45d6597c39c7f853469e9]EXPLANATORY NOTE
+[^c-d4a99698eda45d6597c39c7f853469e9]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -88,4 +88,4 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-d4a99698eda45d6597c39c7f853469e9]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), regs. 1, [44(h)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/h) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))
+[^c-d4a99698eda45d6597c39c7f853469e9]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), regs. 1, [44(h)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/h) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))

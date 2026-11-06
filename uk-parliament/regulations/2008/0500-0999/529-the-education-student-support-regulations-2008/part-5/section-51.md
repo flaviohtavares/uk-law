@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Amount of the grant for travel – overseas study[^key-7b8c3e62b55ace81b0e6086aa3fe2fae]
+## 51. Amount of the grant for travel – overseas study[^c-7b8c3e62b55ace81b0e6086aa3fe2fae]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ The amount of grant payable under regulation 50 in respect of an academic year i
 - *X* is the aggregate of the reasonable travel costs that the eligible student is obliged to incur in each qualifying quarter for the purposes set out in regulation 50.
 - *Y* is the aggregate of the expenditure incurred in each qualifying quarter specified in regulation 52.
 
-**52.**[^key-cdb1b8770d5e8c1f231f7bb22149eb5d] The expenditure specified in this regulation is—
+**52.**[^c-cdb1b8770d5e8c1f231f7bb22149eb5d] The expenditure specified in this regulation is—
 
 - (a) expenditure that the eligible student reasonably incurs in insuring against liability for the cost of medical treatment provided outside the United Kingdom for any illness or bodily injury contracted or suffered during the period he is attending the overseas institution or the Institute;
 - (b) the cost of a visa or visas that the eligible student is obliged to obtain in order to attend the overseas institution or the Institute; and
@@ -36,6 +36,6 @@ The amount of grant payable under regulation 50 in respect of an academic year i
 
 ## Annotations
 
-[^key-7b8c3e62b55ace81b0e6086aa3fe2fae]: Commencement: Reg. 51 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-7b8c3e62b55ace81b0e6086aa3fe2fae]: Commencement: Reg. 51 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
-[^key-cdb1b8770d5e8c1f231f7bb22149eb5d]: Commencement: Reg. 52 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-cdb1b8770d5e8c1f231f7bb22149eb5d]: Commencement: Reg. 52 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

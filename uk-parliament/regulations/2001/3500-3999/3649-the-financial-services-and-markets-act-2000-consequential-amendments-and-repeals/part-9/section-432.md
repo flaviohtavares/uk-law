@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 432. Interpretation of the 1992 Order[^key-b5b87b5f2ef85a0a89b70182f509d24b]
+## 432. Interpretation of the 1992 Order[^c-b5b87b5f2ef85a0a89b70182f509d24b]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5b87b5f2ef85a0a89b70182f509d24b]: Commencement: Art. 432 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b5b87b5f2ef85a0a89b70182f509d24b]: Commencement: Art. 432 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

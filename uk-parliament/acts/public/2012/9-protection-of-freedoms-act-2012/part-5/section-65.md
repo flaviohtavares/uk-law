@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Restriction of definition of vulnerable adults[^key-6960fc243c19b4bf2b544f5ed730717d]
+## 65. Restriction of definition of vulnerable adults[^c-6960fc243c19b4bf2b544f5ed730717d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6960fc243c19b4bf2b544f5ed730717d]: Commencement: S. 65 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/2234/article/4))
+[^c-6960fc243c19b4bf2b544f5ed730717d]: Commencement: S. 65 in force at 10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157) by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/2234/article/4))

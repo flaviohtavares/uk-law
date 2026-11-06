@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70B. Plate relating to dimensions[^key-31f5688d039458a0dd8ec544b46a3f63]
+## 70B. Plate relating to dimensions[^c-31f5688d039458a0dd8ec544b46a3f63]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31f5688d039458a0dd8ec544b46a3f63]: Textual amendment: [Reg. 70B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/70B) inserted (1.6.1998) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1998 (S.I. 1998/1188)](https://www.legislation.gov.uk/uksi/1998/1188), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1188/regulation/1), [13](https://www.legislation.gov.uk/uksi/1998/1188/regulation/13)
+[^c-31f5688d039458a0dd8ec544b46a3f63]: Textual amendment: [Reg. 70B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/70B) inserted (1.6.1998) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1998 (S.I. 1998/1188)](https://www.legislation.gov.uk/uksi/1998/1188), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1188/regulation/1), [13](https://www.legislation.gov.uk/uksi/1998/1188/regulation/13)

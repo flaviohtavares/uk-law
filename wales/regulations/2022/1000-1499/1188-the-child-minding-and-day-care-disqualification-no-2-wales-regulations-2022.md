@@ -45,13 +45,13 @@ Coming into force in accordance with regulation 1(2)
 
 The Welsh Ministers, in exercise of the powers conferred by sections 30(1), (3) and (4), 37(2)(a), 38(2), (3), (4) and (5) and 74(2) of the Children and Families (Wales) Measure 2010[^f00001], make the following Regulations:
 
-## 1. Title and commencement[^key-e9dcce2cf2d86325cd1ad4bcb4352435]
+## 1. Title and commencement[^c-e9dcce2cf2d86325cd1ad4bcb4352435]
 
 (1) The title of these Regulations is the Child Minding and Day Care (Disqualification) (No. 2) (Wales) Regulations 2022.
 
 (2) These Regulations come into force on 6 December 2022 immediately after the Child Minding and Day Care (Disqualification) (Wales) Regulations 2022[^f00002].
 
-## 2. Interpretation[^key-ad0369bad5afded624e761df9a14322d]
+## 2. Interpretation[^c-ad0369bad5afded624e761df9a14322d]
 
 (1) In these Regulations—
 
@@ -78,7 +78,7 @@ The Welsh Ministers, in exercise of the powers conferred by sections 30(1), (3) 
 - (a) attempting, conspiring or incitement to commit that offence, or
 - (b) aiding, abetting, counselling or procuring the commission of that offence.
 
-## 3. Care of children and offences against children or adults[^key-7a94668efc695e2dd9c2bb2ba40f0992]
+## 3. Care of children and offences against children or adults[^c-7a94668efc695e2dd9c2bb2ba40f0992]
 
 (1) Subject to paragraphs (9), (10) and (11) and regulation 9, a person (“**P**”) is disqualified if any of paragraphs (2) to (8) apply.
 
@@ -127,7 +127,7 @@ despite the fact that the statutory offences in that Schedule have been repealed
 - (a) the refusal or cancellation is in respect of registration with a child-minder agency, or
 - (b) the sole reason for the refusal or cancellation of registration was the failure to pay any fee prescribed under Part 3 of the Children and Young Persons Act (Northern Ireland) 1968[^f00014].
 
-## 4. Overseas offences[^key-92a8b2e1d6be0ab41537253539d165bd]
+## 4. Overseas offences[^c-92a8b2e1d6be0ab41537253539d165bd]
 
 (1) Subject to regulation 9, a person (“**P**”) is disqualified if P has been found to have done an act which—
 
@@ -145,11 +145,11 @@ despite the fact that the statutory offences in that Schedule have been repealed
 
 (4) An act punishable under the law in force in a country outside the United Kingdom constitutes an offence under that law for the purposes of this regulation however it is described in that law.
 
-## 5. Protection of Children Act list[^key-61da1ebd99c52d0ca861eed42a0e82c3]
+## 5. Protection of Children Act list[^c-61da1ebd99c52d0ca861eed42a0e82c3]
 
 A person who is included in the list kept under section 1 of the Protection of Children Act 1999[^f00015] (list of those considered by the Secretary of State unsuitable to work with children) is disqualified.
 
-## 6. Direction in relation to the employment of teachers etc.[^key-c6a2d866729e3d11fe9bfac582a8504e]
+## 6. Direction in relation to the employment of teachers etc.[^c-c6a2d866729e3d11fe9bfac582a8504e]
 
 (1) Subject to regulation 9, a person (“**P**”) is disqualified if any of the following provisions of this regulation apply to P.
 
@@ -157,11 +157,11 @@ A person who is included in the list kept under section 1 of the Protection of C
 
 (3) P’s name is on any list kept for the purposes of regulations made under article 70(2)(e) or 88A(1) and (2)(b) of the Education and Libraries (Northern Ireland) Order 1986[^f00016].
 
-## 7. Persons barred from regulated activity relating to children[^key-fdccb8b3fdedd514dec742c549af4b5e]
+## 7. Persons barred from regulated activity relating to children[^c-fdccb8b3fdedd514dec742c549af4b5e]
 
 A person who is barred from regulated activity relating to children within the meaning of section 3(2) of the Safeguarding Vulnerable Groups Act 2006 is disqualified.
 
-## 8. Persons living or working on premises where a disqualified person lives[^key-82200def35fe39cd2610fc94eb1086a1]
+## 8. Persons living or working on premises where a disqualified person lives[^c-82200def35fe39cd2610fc94eb1086a1]
 
 Subject to regulation 9, a person (“**P**”) is disqualified if P—
 
@@ -170,7 +170,7 @@ Subject to regulation 9, a person (“**P**”) is disqualified if P—
   - (ii) lives in a household in which any such person is employed, and
 - (b) acts or intends to act as a childminder on domestic premises used by the household of which P is a member.
 
-## 9. Waivers[^key-5fad09aa24fd2ccf765c86a9083d361a]
+## 9. Waivers[^c-5fad09aa24fd2ccf765c86a9083d361a]
 
 (1) Subject to paragraph (2), where a person (“**P**”) would be disqualified by virtue of regulation 3, 4, 6(1) and (3), or 8 but has disclosed to the Welsh Ministers the facts which would otherwise cause P to be disqualified, and the Welsh Ministers have given written consent and have not withdrawn that consent, then the person is not, by reason of the facts so disclosed, to be regarded as disqualified for the purpose of these Regulations.
 
@@ -181,11 +181,11 @@ Subject to regulation 9, a person (“**P**”) is disqualified if P—
 - (a) disclosed the facts which would disqualify the person under these Regulations to an appropriate local authority under paragraph 2 of Schedule 9 to the 1989 Act[^f00018], and
 - (b) obtained the written consent of that local authority.
 
-## 10. Appeals[^key-d95c371d6c0f5eb372a7378ea359d8ce]
+## 10. Appeals[^c-d95c371d6c0f5eb372a7378ea359d8ce]
 
 Any determination made by the Welsh Ministers as to whether to give consent to waive disqualification under regulation 9(1) is a prescribed determination for the purposes of section 37(2)(a) of the Measure (appeals).
 
-## 11. Duty of disclosure[^key-cbdd70996c24a9506af935ce3a9fd3b2]
+## 11. Duty of disclosure[^c-cbdd70996c24a9506af935ce3a9fd3b2]
 
 (1) A person who is registered under Part 2 of the Measure (“**registered person**”) must provide the following information to the Welsh Ministers—
 
@@ -209,7 +209,7 @@ Any determination made by the Welsh Ministers as to whether to give consent to w
 
 (7) A person found guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 12. Revocation and consequential amendment[^key-7331ad06b205f14b777d2a2498631372]
+## 12. Revocation and consequential amendment[^c-7331ad06b205f14b777d2a2498631372]
 
 (1) The Child Minding and Day Care (Disqualification) (Wales) Regulations 2022 are revoked[^f00019].
 
@@ -227,57 +227,57 @@ Deputy Minister for Health and Social Services under authority of the Minister f
 
 Regulations 3(2) and 3(11)
 
-### 1. Care, supervision and permanence orders[^key-e7d2792eb53fbe8e255d6f8227bfc6bd]
+### 1. Care, supervision and permanence orders[^c-e7d2792eb53fbe8e255d6f8227bfc6bd]
 
 An order under section 31(1)(a) of the 1989 Act (care order).
 
-**2.**[^key-88d597831c5bbbada49adaba004a791c] An order under section 31(1)(b) of the 1989 Act (supervision order).
+**2.**[^c-88d597831c5bbbada49adaba004a791c] An order under section 31(1)(b) of the 1989 Act (supervision order).
 
-**3.**[^key-93870eaa862597276f3e7347af96d777] An order under article 50(1)(a) of the Children (Northern Ireland) Order 1995[^f00021] (care order).
+**3.**[^c-93870eaa862597276f3e7347af96d777] An order under article 50(1)(a) of the Children (Northern Ireland) Order 1995[^f00021] (care order).
 
-**4.**[^key-67097cdc1cff5557dc09e6bf11eccd2e] An order under article 50(1)(b) of the Children (Northern Ireland) Order 1995 (supervision order).
+**4.**[^c-67097cdc1cff5557dc09e6bf11eccd2e] An order under article 50(1)(b) of the Children (Northern Ireland) Order 1995 (supervision order).
 
-**5.**[^key-d9fc57d91599c4799d985d7c0ee973cf] An order under section 3(3) of the Children and Young Persons (Guernsey) Law 1967[^f00022] (fit person order or special care order).
+**5.**[^c-d9fc57d91599c4799d985d7c0ee973cf] An order under section 3(3) of the Children and Young Persons (Guernsey) Law 1967[^f00022] (fit person order or special care order).
 
-**6.**[^key-055fbcc303e1f24e4795d5786ddd090c] An order made further to an application as permitted under section 48(3) of the Children (Guernsey and Alderney) Law 2008[^f00023] (community parenting order).
+**6.**[^c-055fbcc303e1f24e4795d5786ddd090c] An order made further to an application as permitted under section 48(3) of the Children (Guernsey and Alderney) Law 2008[^f00023] (community parenting order).
 
-**7.**[^key-c4b2339c5619b7e98d68225146f30637] An order under section 31(1)(a) of the Children and Young Persons Act 2001[^f00024] (an Act of Tynwald) (care order).
+**7.**[^c-c4b2339c5619b7e98d68225146f30637] An order under section 31(1)(a) of the Children and Young Persons Act 2001[^f00024] (an Act of Tynwald) (care order).
 
-**8.**[^key-8a92c40ddca7906387f630989a8a4547] An order under section 31(1)(b) of the Children and Young Persons Act 2001 (an Act of Tynwald) (supervision order).
+**8.**[^c-8a92c40ddca7906387f630989a8a4547] An order under section 31(1)(b) of the Children and Young Persons Act 2001 (an Act of Tynwald) (supervision order).
 
-**9.**[^key-eefe88eeba34b00ea8cb5499185c2e6f] An order or determination specified in Schedule 4 to the Children (Jersey) Law 2002[^f00025].
+**9.**[^c-eefe88eeba34b00ea8cb5499185c2e6f] An order or determination specified in Schedule 4 to the Children (Jersey) Law 2002[^f00025].
 
-**10.**[^key-dce1c62d7d20ab9010a1ef63bb11a8dd] Any order that would have been deemed to be a care order by virtue of paragraph 15 of Schedule 14 to the 1989 Act (transitional provisions for children in compulsory care) had it been in force immediately before the day on which Part 4 of the 1989 Act came into force.
+**10.**[^c-dce1c62d7d20ab9010a1ef63bb11a8dd] Any order that would have been deemed to be a care order by virtue of paragraph 15 of Schedule 14 to the 1989 Act (transitional provisions for children in compulsory care) had it been in force immediately before the day on which Part 4 of the 1989 Act came into force.
 
-**11.**[^key-89e40c267e884d07c75946732c56094b] A parental responsibility order made under article 7 of the Children (Northern Ireland) Order 1995.
+**11.**[^c-89e40c267e884d07c75946732c56094b] A parental responsibility order made under article 7 of the Children (Northern Ireland) Order 1995.
 
-**12.**[^key-778c920ba6163a643444047092193821] A child protection order under section 57 of the Children (Scotland) Act 1995[^f00026] or under section 37 of the Children’s Hearings (Scotland) Act 2011[^f00027].
+**12.**[^c-778c920ba6163a643444047092193821] A child protection order under section 57 of the Children (Scotland) Act 1995[^f00026] or under section 37 of the Children’s Hearings (Scotland) Act 2011[^f00027].
 
-**13.**[^key-df41ecc926823fca1f8c7dff3a462c76] A permanence order made, or treated as being made, under section 80 of the Adoption and Children (Scotland) Act 2007[^f00028].
+**13.**[^c-df41ecc926823fca1f8c7dff3a462c76] A permanence order made, or treated as being made, under section 80 of the Adoption and Children (Scotland) Act 2007[^f00028].
 
-### 14. Orders imposing a residence or exclusion requirement[^key-764982181f08c5d3adff63d271c34e3e]
+### 14. Orders imposing a residence or exclusion requirement[^c-764982181f08c5d3adff63d271c34e3e]
 
 A supervision order which imposes a residence requirement under paragraph 5 of Schedule 6 to the Powers of Criminal Courts (Sentencing) Act 2000[^f00029], section 12AA of the Children and Young Persons Act 1969[^f00030] (requirement to live in local authority accommodation), paragraph 17 of Schedule 1 to the Criminal Justice and Immigration Act 2008[^f00031] or paragraph 25 of Schedule 6 to the Sentencing Code.
 
-**15.**[^key-f63e4957536bbf4dcc8189ebe096312a] A fit person order under section 91, 92, 95 or 97 of the Children and Young Persons Act (Northern Ireland) 1968[^f00032], a parental rights order under section 104 or a training school order under section 78, sections 83 to 90, section 95 or section 97 of that Act.
+**15.**[^c-f63e4957536bbf4dcc8189ebe096312a] A fit person order under section 91, 92, 95 or 97 of the Children and Young Persons Act (Northern Ireland) 1968[^f00032], a parental rights order under section 104 or a training school order under section 78, sections 83 to 90, section 95 or section 97 of that Act.
 
-**16.**[^key-f007c7b0fa0cd61a29ba25a92c3bf814] An exclusion order under section 76 of the Children (Scotland) Act 1995.
+**16.**[^c-f007c7b0fa0cd61a29ba25a92c3bf814] An exclusion order under section 76 of the Children (Scotland) Act 1995.
 
-**17.**[^key-d595d706331be32863c5664d282e7601] A supervision order which imposes a residence requirement under paragraph 5 of Schedule 9 to the Children and Young Persons Act 2001 (an Act of Tynwald) (requirement to live in accommodation provided by the Department of Health and Social Security)[^f00033].
+**17.**[^c-d595d706331be32863c5664d282e7601] A supervision order which imposes a residence requirement under paragraph 5 of Schedule 9 to the Children and Young Persons Act 2001 (an Act of Tynwald) (requirement to live in accommodation provided by the Department of Health and Social Security)[^f00033].
 
-**18.**[^key-2feaa40b165bfc0663a1521f6e25fc94] An order made at any time imposing a supervision requirement with respect to a child so as to remove that child from P’s care, under—
+**18.**[^c-2feaa40b165bfc0663a1521f6e25fc94] An order made at any time imposing a supervision requirement with respect to a child so as to remove that child from P’s care, under—
 
 - (a) section 44 of the Social Work (Scotland) Act 1968[^f00034], or
 - (b) section 70 of the Children (Scotland) Act 1995[^f00035].
 
-**19.**[^key-d7a29cdd2497bcd1f2e43563d641d9f4] An order made at any time vesting P’s rights and powers with respect to a child in a local authority in Scotland—
+**19.**[^c-d7a29cdd2497bcd1f2e43563d641d9f4] An order made at any time vesting P’s rights and powers with respect to a child in a local authority in Scotland—
 
 - (a) under section 16 of the Social Work (Scotland) Act 1968[^f00036], or
 - (b) pursuant to a parental responsibilities order under section 86 of the Children (Scotland) Act 1995[^f00037].
 
-**20.**[^key-0a4a02b1f25b6f14b2fd742739da18cb] A compulsory supervision order, within the meaning of section 83 of the Children’s Hearings (Scotland) Act 2011, or an interim compulsory supervision order, within the meaning of section 86 of that Act, made at any time with respect to a child so as to remove that child from P’s care.
+**20.**[^c-0a4a02b1f25b6f14b2fd742739da18cb] A compulsory supervision order, within the meaning of section 83 of the Children’s Hearings (Scotland) Act 2011, or an interim compulsory supervision order, within the meaning of section 86 of that Act, made at any time with respect to a child so as to remove that child from P’s care.
 
-### 21. Determinations in relation to P’s suitability to provide care[^key-3755786cc64c565e94aedfd1457a6fd5]
+### 21. Determinations in relation to P’s suitability to provide care[^c-3755786cc64c565e94aedfd1457a6fd5]
 
 In relation to registration of a children’s home—
 
@@ -286,7 +286,7 @@ In relation to registration of a children’s home—
 - (c) cancellation of the registration of any person under section 14, 20(1) or 20(A) of the Care Standards Act 2000 in relation to a children’s home which P has been concerned in the management of, or has any financial interest in, or
 - (d) refusal of P’s application for registration or cancellation of P’s registration under the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00038].
 
-**22.**[^key-88ff04f21ce1e009bf808a9e9192b482] In relation to the registration of a care home service which is provided wholly or mainly to persons under the age of 18, or a secure accommodation service (each has the meaning given in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016[^f00039] (“**the 2016 Act**”))—
+**22.**[^c-88ff04f21ce1e009bf808a9e9192b482] In relation to the registration of a care home service which is provided wholly or mainly to persons under the age of 18, or a secure accommodation service (each has the meaning given in Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016[^f00039] (“**the 2016 Act**”))—
 
 - (a) a refusal of P’s application for registration under section 7 of the 2016 Act,
 - (b) a refusal under section 12 of the 2016 Act of P’s application to vary P’s registration (made in accordance with section 11(1)(a)(i) or (ii) of that Act),
@@ -294,7 +294,7 @@ In relation to registration of a children’s home—
 - (d) a cancellation of the registration of any person under section 15(1)(b) to (f) or 23(1) of the 2016 Act in relation to a care home service provided wholly or mainly to persons under the age of 18, or a secure accommodation service, in which P has been concerned in the management, or in which P had any financial interest, or
 - (e) a refusal of P’s application for registration or cancellation of P’s registration under the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003.
 
-**23.**[^key-34d834b2ace2d71c548720defb625426] Refusal at any time of P’s application for registration in relation to a voluntary home or a children’s home, or cancellation of the registration of a voluntary home or children’s home which was carried on by P or which P was otherwise concerned with the management of, or had any financial interest in, under, as the case may be—
+**23.**[^c-34d834b2ace2d71c548720defb625426] Refusal at any time of P’s application for registration in relation to a voluntary home or a children’s home, or cancellation of the registration of a voluntary home or children’s home which was carried on by P or which P was otherwise concerned with the management of, or had any financial interest in, under, as the case may be—
 
 - (a) paragraph 1 of Schedule 5 to the 1989 Act[^f00040],
 - (b) paragraph 1 or 4 of Schedule 6 to the 1989 Act[^f00041],
@@ -304,16 +304,16 @@ In relation to registration of a children’s home—
 - (f) paragraph 2 or 4 of Schedule 6 to the Children and Young Persons Act 2001 (an Act of Tynwald)[^f00045], or
 - (g) Part 5 of the Public Services Reform (Scotland) Act 2010[^f00046].
 
-**24.**[^key-c98ca21541ff79822561ac855db19565] A prohibition imposed at any time under—
+**24.**[^c-c98ca21541ff79822561ac855db19565] A prohibition imposed at any time under—
 
 - (a) section 69 of the 1989 Act, section 10 of the Foster Children Act 1980[^f00047] or section 4 of the Children Act 1958 (power to prohibit private fostering)[^f00048],
 - (b) article 110 of the Children (Northern Ireland) Order 1995 (power to prohibit private fostering),
 - (c) section 10 of the Foster Children (Scotland) Act 1984 (power to prohibit the keeping of foster children)[^f00049], or
 - (d) section 59 of the Children and Young Persons Act 2001 (an Act of Tynwald) (power to prohibit or impose restrictions under private fostering).
 
-**25.**[^key-10cb59b9996f1c78a52b4556bfd59924] A notice in writing given by a Health and Social Services Board under section 1(3) of the Children and Young Persons Act (Northern Ireland) 1968[^f00050] (withholding consent to the care and maintenance of the child being undertaken by a person).
+**25.**[^c-10cb59b9996f1c78a52b4556bfd59924] A notice in writing given by a Health and Social Services Board under section 1(3) of the Children and Young Persons Act (Northern Ireland) 1968[^f00050] (withholding consent to the care and maintenance of the child being undertaken by a person).
 
-**26.**[^key-b36dadad6a03f442657cc396d8212fac] Refusal at any time of registration in respect of the provision of nurseries, day care, child minding or other provision of childcare, disqualification from such registration or cancellation of any such registration under—
+**26.**[^c-b36dadad6a03f442657cc396d8212fac] Refusal at any time of registration in respect of the provision of nurseries, day care, child minding or other provision of childcare, disqualification from such registration or cancellation of any such registration under—
 
 - (a) section 1 or 5 of the Nurseries and Child-Minders Regulation Act 1948[^f00051],
 - (b) Part 10 or 10A of the 1989 Act[^f00052],
@@ -326,23 +326,23 @@ In relation to registration of a children’s home—
 - (i) Part III of the Child Protection (Guernsey) Law 1972, or
 - (j) Part 2 of the Measure.
 
-**27.**[^key-ad3f99362c8c2ef1174aef061e67f394] Disqualification from working with children at any time under the Protection of Children (Scotland) Act 2003[^f00059].
+**27.**[^c-ad3f99362c8c2ef1174aef061e67f394] Disqualification from working with children at any time under the Protection of Children (Scotland) Act 2003[^f00059].
 
-**28.**[^key-6d8be8aafea78b77018c40273d9fdfc6] Refusal at any time of P’s application for registration or cancellation of P’s registration under section 62 of the Social Work (Scotland) Act 1968[^f00060] (registration of residential and other establishments).
+**28.**[^c-6d8be8aafea78b77018c40273d9fdfc6] Refusal at any time of P’s application for registration or cancellation of P’s registration under section 62 of the Social Work (Scotland) Act 1968[^f00060] (registration of residential and other establishments).
 
-**29.**[^key-3ce4c865970bf1a68f8dfc2e2aebdda7] Refusal at any time of P’s application for registration as a provider of a child care agency under section 7 of the Regulation of Care (Scotland) Act 2001 or cancellation of any such registration under section 12 or 18 of that Act[^f00061].
+**29.**[^c-3ce4c865970bf1a68f8dfc2e2aebdda7] Refusal at any time of P’s application for registration as a provider of a child care agency under section 7 of the Regulation of Care (Scotland) Act 2001 or cancellation of any such registration under section 12 or 18 of that Act[^f00061].
 
-**30.**[^key-009d9ef0108ca812303ec5019e3055ad] Refusal at any time of P’s application for registration as a provider of a child care agency under section 59 of the Public Services Reform (Scotland) Act 2010 or cancellation of any such registration under section 64 or 65 of that Act.
+**30.**[^c-009d9ef0108ca812303ec5019e3055ad] Refusal at any time of P’s application for registration as a provider of a child care agency under section 59 of the Public Services Reform (Scotland) Act 2010 or cancellation of any such registration under section 64 or 65 of that Act.
 
-**31.**[^key-5ff50bd87e71e239fd89521c8069b147] Refusal at any time of P’s application for registration or cancellation of P’s registration under section 60 of the Public Services Reform (Scotland) Act 2010.
+**31.**[^c-5ff50bd87e71e239fd89521c8069b147] Refusal at any time of P’s application for registration or cancellation of P’s registration under section 60 of the Public Services Reform (Scotland) Act 2010.
 
-**32.**[^key-4900dd6580b63dfd5f1e3cc92a431848] Inclusion of P’s name at any time on a list of persons unsuitable to work with children under article 3 of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003 or disqualification from working with children under Chapter 2 of Part 2 of that Order[^f00062].
+**32.**[^c-4900dd6580b63dfd5f1e3cc92a431848] Inclusion of P’s name at any time on a list of persons unsuitable to work with children under article 3 of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003 or disqualification from working with children under Chapter 2 of Part 2 of that Order[^f00062].
 
 ## SCHEDULE 2 — REPEALED STATUTORY OFFENCES
 
 Regulation 3(5)
 
-**1.**[^key-8bb1eec29e1103c3932e564e233fa1c7] (1) An offence under any of the following sections of the Sexual Offences Act 1956[^f00063]—
+**1.**[^c-8bb1eec29e1103c3932e564e233fa1c7] (1) An offence under any of the following sections of the Sexual Offences Act 1956[^f00063]—
 
 - (a) section 1 (rape);
 - (b) section 2 or 3 (procurement of woman by threats or false pretences);
@@ -375,7 +375,7 @@ Regulation 3(5)
 
 (8) An offence under section 71 of the Coroners and Justice Act 2009[^f00071] (slavery, servitude and forced or compulsory labour).
 
-**2.**[^key-c3c13a04f86656ae2722359a4dbcce32] P falls within this paragraph if P has been found to have committed an offence under any of the following provisions committed against or involving a child—
+**2.**[^c-c3c13a04f86656ae2722359a4dbcce32] P falls within this paragraph if P has been found to have committed an offence under any of the following provisions committed against or involving a child—
 
 - (a) section 7 of the Sexual Offences Act 1956[^f00072] (intercourse with defective),
 - (b) section 9 of that Act (procurement of defective),
@@ -398,7 +398,7 @@ Regulation 3(5)
 
 Regulation 3(7)
 
-### 1. Offences in England and Wales[^key-df5864f69bf31055ff28937f2abd327d]
+### 1. Offences in England and Wales[^c-df5864f69bf31055ff28937f2abd327d]
 
 (1) An offence under section 1 (offence of sending letters etc. with intent to cause distress or anxiety) of the Malicious Communications Act 1988[^f00076].
 
@@ -491,7 +491,7 @@ Regulation 3(7)
 - (c) section 3 (assisting a non-UK person to mutilate overseas a girl’s genitalia), or
 - (d) section 3A[^f00096] (failing to protect a girl from risk of genital mutilation).
 
-### 2. Offences in Scotland[^key-3d53974651e023e94a2c6121ff4f748d]
+### 2. Offences in Scotland[^c-3d53974651e023e94a2c6121ff4f748d]
 
 (1) An offence of rape under section 1 of the Sexual Offences (Scotland) Act 2009[^f00097].
 
@@ -519,7 +519,7 @@ Regulation 3(7)
 
 (9) An offence under section 122 of the Anti-social Behaviour, Crime and Policing Act 2014 (offence of forced marriage: Scotland).
 
-### 3. Offences in Northern Ireland[^key-4446ac02d6a9a6806a55384a2db942f3]
+### 3. Offences in Northern Ireland[^c-4446ac02d6a9a6806a55384a2db942f3]
 
 (1) An offence of rape under article 5 of the Sexual Offences (Northern Ireland) Order 2008[^f00105].
 
@@ -550,7 +550,7 @@ Regulation 3(7)
 
 (12) An offence contrary to section 51 of the Justice Act (Northern Ireland) 2016[^f00117] (disclosing private sexual photographs and films with intent to cause distress).
 
-### 4. Offences in Jersey[^key-c730b864297f22192ad709eb545c1da3]
+### 4. Offences in Jersey[^c-c730b864297f22192ad709eb545c1da3]
 
 An offence contrary to—
 
@@ -558,7 +558,7 @@ An offence contrary to—
 - (b) Schedule 4 to the Children (Jersey) Law 2002[^f00119], or
 - (c) the Day Care of Children (Jersey) Law 2002[^f00120].
 
-### 5. Offences in Guernsey[^key-5fb2790ad39c3dcc1048a07a85ae42a6]
+### 5. Offences in Guernsey[^c-5fb2790ad39c3dcc1048a07a85ae42a6]
 
 An offence contrary to—
 
@@ -569,11 +569,11 @@ An offence contrary to—
 - (e) the Children and Young Persons (Guernsey) Law 1967;
 - (f) the Protection of Children (Bailiwick of Guernsey) Law 1985[^f00125].
 
-### 6. Offences in the Isle of Man[^key-d0b7a3222184a4376d9ec3d98a1171ed]
+### 6. Offences in the Isle of Man[^c-d0b7a3222184a4376d9ec3d98a1171ed]
 
 An offence specified in Schedule 8 to the Children and Young Persons Act 2001 (an Act of Tynwald).
 
-### 7. Other Offences[^key-c5faf3a1bfc67acab44b796e3ce40728]
+### 7. Other Offences[^c-c5faf3a1bfc67acab44b796e3ce40728]
 
 (1) An offence contrary to section 170 of the Customs and Excise Management Act 1979[^f00126] in relation to goods prohibited to be imported under section 42 of the Customs Consolidation Act 1876[^f00127] (prohibitions and restrictions) where the prohibited goods included indecent photographs of a child.
 
@@ -622,11 +622,11 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2010 nawm 1](https://www.legislation.gov.uk/mwa/2010/1). See section 71 for the definitions of “prescribed” and “regulations”.
 
-[^key-e9dcce2cf2d86325cd1ad4bcb4352435]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-e9dcce2cf2d86325cd1ad4bcb4352435]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2022/1066 (W. 224)](https://www.legislation.gov.uk/wsi/2022/1066).
 
-[^key-ad0369bad5afded624e761df9a14322d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/1188/regulation/2) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-ad0369bad5afded624e761df9a14322d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/1188/regulation/2) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00003]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
@@ -640,7 +640,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: Section 66ZA of the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37) in relation to youth cautions was inserted by section 135 of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) and came into force on 8 April 2013.
 
-[^key-7a94668efc695e2dd9c2bb2ba40f0992]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/1188/regulation/3) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-7a94668efc695e2dd9c2bb2ba40f0992]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/1188/regulation/3) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00009]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42). Section 104 was repealed in relation to England and Wales by section 113(1) of, and paragraphs 1 and 3 of Schedule 5 to, the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12) (“**the 2014 Act**”). Section 104 remains in force in Northern Ireland and Scotland but is subject to repeal in Scotland by section 39(1)(a) of the Abusive Behaviour and Sexual Harm (Scotland) Act [2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22) (“**the 2016 Act**”). For transitional provisions and savings see section 114(1), (2), and (4) to (6) of the 2014 Act and section 40 of the 2016 Act.
 
@@ -654,79 +654,79 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00014]: Footnote: [1968 c. 34 (N.I)](https://www.legislation.gov.uk/ukpga/1968/34). Section 127 was repealed by article 185(2) of, and Schedule 10 to, [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
 
-[^key-92a8b2e1d6be0ab41537253539d165bd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/1188/regulation/4) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-92a8b2e1d6be0ab41537253539d165bd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/1188/regulation/4) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-61da1ebd99c52d0ca861eed42a0e82c3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/1188/regulation/5) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-61da1ebd99c52d0ca861eed42a0e82c3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/1188/regulation/5) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00015]: Footnote: [1999 c. 14](https://www.legislation.gov.uk/ukpga/1999/14). Section 1 of this Act was repealed by section 63(2) of and Schedule 10 to the Safeguarding Vulnerable Groups Act 2006, subject to savings and transitional provisions specified in article 5 of [S.I. 2009/2611](https://www.legislation.gov.uk/uksi/2009/2611).
 
-[^key-c6a2d866729e3d11fe9bfac582a8504e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/1188/regulation/6) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-c6a2d866729e3d11fe9bfac582a8504e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/1188/regulation/6) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594). Articles 70(2)(e) and 88A(2)(b) were amended by [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
-[^key-fdccb8b3fdedd514dec742c549af4b5e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/1188/regulation/7) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-fdccb8b3fdedd514dec742c549af4b5e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2022/1188/regulation/7) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-82200def35fe39cd2610fc94eb1086a1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/1188/regulation/8) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-82200def35fe39cd2610fc94eb1086a1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2022/1188/regulation/8) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-5fad09aa24fd2ccf765c86a9083d361a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/1188/regulation/9) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-5fad09aa24fd2ccf765c86a9083d361a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2022/1188/regulation/9) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00017]: Footnote: Sections 28(4), 29(4) and 29A(2) were repealed by section 63(2) of, and Schedule 10 to, the Safeguarding Vulnerable Groups Act 2006, subject to savings specified in article 5 of [S.I. 2012/2231](https://www.legislation.gov.uk/uksi/2012/2231).
 
 [^f00018]: Footnote: Schedule 9 was repealed in relation to England and Wales by section 79(5) of the Care Standards Act [2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14) and in relation to Scotland by section 80 of, and Schedule 4 to, the Regulation of Care (Scotland) Act [2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8).
 
-[^key-d95c371d6c0f5eb372a7378ea359d8ce]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2022/1188/regulation/10) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-d95c371d6c0f5eb372a7378ea359d8ce]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2022/1188/regulation/10) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-cbdd70996c24a9506af935ce3a9fd3b2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2022/1188/regulation/11) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-cbdd70996c24a9506af935ce3a9fd3b2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2022/1188/regulation/11) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-7331ad06b205f14b777d2a2498631372]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2022/1188/regulation/12) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-7331ad06b205f14b777d2a2498631372]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2022/1188/regulation/12) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00019]: Footnote: [S.I. 2022/1066 (W. 224)](https://www.legislation.gov.uk/wsi/2022/1066). Those Regulations revoked the Child Minding and Day Care (Disqualification) (Wales) Regulations 2010 ([S.I. 2010/1703 (W. 163)](https://www.legislation.gov.uk/wsi/2010/1703)).
 
 [^f00020]: Footnote: [S.I. 2010/2574 (W. 214)](https://www.legislation.gov.uk/wsi/2010/2574).
 
-[^key-e7d2792eb53fbe8e255d6f8227bfc6bd]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/1) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-e7d2792eb53fbe8e255d6f8227bfc6bd]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/1) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-88d597831c5bbbada49adaba004a791c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/2) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-88d597831c5bbbada49adaba004a791c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/2) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-93870eaa862597276f3e7347af96d777]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/3) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-93870eaa862597276f3e7347af96d777]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/3) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00021]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
 
-[^key-67097cdc1cff5557dc09e6bf11eccd2e]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/4) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-67097cdc1cff5557dc09e6bf11eccd2e]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/4) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-d9fc57d91599c4799d985d7c0ee973cf]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/5) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-d9fc57d91599c4799d985d7c0ee973cf]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/5) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00022]: Footnote: Orders in Council Vol. XXI, p. 34. Section 3(3) was repealed by section 3 of, and paragraph 15(1) of Schedule 1 to, the Children (Consequential Amendments etc.) (Guernsey and Alderney) Ordinance, 2009 (No. VII of 2010), subject to savings and transitional provisions in section 4 of, and Schedule 2 to, that Ordinance.
 
-[^key-055fbcc303e1f24e4795d5786ddd090c]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/6) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-055fbcc303e1f24e4795d5786ddd090c]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/6) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00023]: Footnote: No. XIV of 2009.
 
-[^key-c4b2339c5619b7e98d68225146f30637]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/7) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-c4b2339c5619b7e98d68225146f30637]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/7) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00024]: Footnote: [2001 c. 20](https://www.legislation.gov.uk/ukpga/2001/20) (an Act of Tynwald). An Act of Tynwald means an Act passed by the Isle of Man Parliament.
 
-[^key-8a92c40ddca7906387f630989a8a4547]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/8) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-8a92c40ddca7906387f630989a8a4547]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/8) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-eefe88eeba34b00ea8cb5499185c2e6f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/9) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-eefe88eeba34b00ea8cb5499185c2e6f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/9) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00025]: Footnote: Jersey Law 50/2002.
 
-[^key-dce1c62d7d20ab9010a1ef63bb11a8dd]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/10) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-dce1c62d7d20ab9010a1ef63bb11a8dd]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/10) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-89e40c267e884d07c75946732c56094b]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/11) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-89e40c267e884d07c75946732c56094b]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/11) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-778c920ba6163a643444047092193821]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/12) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-778c920ba6163a643444047092193821]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/12) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00026]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36). Section 57 was repealed by section 203(2) of, and Schedule 6 to, the Children’s Hearings (Scotland) Act [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1).
 
 [^f00027]: Footnote: [2011 asp 1](https://www.legislation.gov.uk/asp/2011/1).
 
-[^key-df41ecc926823fca1f8c7dff3a462c76]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/13) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-df41ecc926823fca1f8c7dff3a462c76]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/13) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00028]: Footnote: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
 
-[^key-764982181f08c5d3adff63d271c34e3e]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/14) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-764982181f08c5d3adff63d271c34e3e]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/14) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00029]: Footnote: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6). Repealed by section 149 of and Schedule 28 to the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), subject to savings and transitional provisions specified in paragraph 1(1) of Schedule 27 to that Act.
 
@@ -734,39 +734,39 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00031]: Footnote: [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4). Repealed by section 413 of and Schedule 28 to the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), subject to savings and transitional provisions specified in sections 412 and 416 of, and paragraphs 1, 2, 4 and 5 of Schedule 27 to, that Act.
 
-[^key-f63e4957536bbf4dcc8189ebe096312a]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/15) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-f63e4957536bbf4dcc8189ebe096312a]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/15) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00032]: Footnote: The provisions relating to these orders were repealed by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755) and [S.I. 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504).
 
-[^key-f007c7b0fa0cd61a29ba25a92c3bf814]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/16) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-f007c7b0fa0cd61a29ba25a92c3bf814]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/16) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-d595d706331be32863c5664d282e7601]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/17) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-d595d706331be32863c5664d282e7601]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/17) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00033]: Footnote: The Department of Health and Social Security on the Isle of Man is, since 2021, known as the Department of Health and Social Care.
 
-[^key-2feaa40b165bfc0663a1521f6e25fc94]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/18) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-2feaa40b165bfc0663a1521f6e25fc94]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/18) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00034]: Footnote: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49). Section 44 was repealed by section 105(5) of, and Schedule 5 to, the Children (Scotland) Act 1995.
 
 [^f00035]: Footnote: Section 70 was repealed by section 203(2) of, and Schedule 6 to, the Children’s Hearings (Scotland) Act 2011.
 
-[^key-d7a29cdd2497bcd1f2e43563d641d9f4]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/19) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-d7a29cdd2497bcd1f2e43563d641d9f4]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/19) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00036]: Footnote: Section 16 was repealed by section 105(5) of, and Schedule 5 to, the Children (Scotland) Act 1995.
 
 [^f00037]: Footnote: Section 86 was repealed by section 120(2) of, and Schedule 3 to, the Adoption and Children (Scotland) Act [2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4).
 
-[^key-0a4a02b1f25b6f14b2fd742739da18cb]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/20) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-0a4a02b1f25b6f14b2fd742739da18cb]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/20) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-3755786cc64c565e94aedfd1457a6fd5]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/21) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-3755786cc64c565e94aedfd1457a6fd5]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/21) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00038]: Footnote: [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431).
 
-[^key-88ff04f21ce1e009bf808a9e9192b482]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/22) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-88ff04f21ce1e009bf808a9e9192b482]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/22) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00039]: Footnote: [2016 anaw 2](https://www.legislation.gov.uk/anaw/2016/2).
 
-[^key-34d834b2ace2d71c548720defb625426]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/23) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-34d834b2ace2d71c548720defb625426]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/23) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00040]: Footnote: Repealed in relation to England and Wales by section 117(2) of, and Schedule 6 to, the Care Standards Act 2000.
 
@@ -782,7 +782,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00046]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-c98ca21541ff79822561ac855db19565]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/24) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-c98ca21541ff79822561ac855db19565]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/24) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00047]: Footnote: [1980 c. 6](https://www.legislation.gov.uk/ukpga/1980/6). Section 10 was repealed by section 108 of, and Schedule 15 to, the 1989 Act.
 
@@ -790,11 +790,11 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00049]: Footnote: [1984 c. 56](https://www.legislation.gov.uk/ukpga/1984/56).
 
-[^key-10cb59b9996f1c78a52b4556bfd59924]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/25) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-10cb59b9996f1c78a52b4556bfd59924]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/25) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00050]: Footnote: Section 1 was repealed by article 185(2) of, and Schedule 10 to, [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
 
-[^key-b36dadad6a03f442657cc396d8212fac]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/26) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-b36dadad6a03f442657cc396d8212fac]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/26) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00051]: Footnote: [1948 c. 53](https://www.legislation.gov.uk/ukpga/1948/53). This Act was repealed with savings by section 108 of, and paragraphs 33 and 34 of Schedule 14 and paragraph 1 of Schedule 15 to, the 1989 Act.
 
@@ -812,27 +812,27 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00058]: Footnote: Schedule 7 was repealed by section 199 of the Regulation of Care Act 2013 (an Act of Tynwald).
 
-[^key-ad3f99362c8c2ef1174aef061e67f394]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/27) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-ad3f99362c8c2ef1174aef061e67f394]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/27) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00059]: Footnote: [2003 asp 5](https://www.legislation.gov.uk/asp/2003/5). This Act was repealed by section 88 of, and Schedule 4 to, the Protection of Vulnerable Groups (Scotland) Act [2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14) subject to transitional provisions set out in articles 3 to 12 of [S.S.I. 2010/180](https://www.legislation.gov.uk/ssi/2010/180).
 
-[^key-6d8be8aafea78b77018c40273d9fdfc6]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/28) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-6d8be8aafea78b77018c40273d9fdfc6]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/28) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00060]: Footnote: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49). Section 62 was repealed by section 80(1) of, and Schedule 4 to, the Regulation of Care (Scotland) Act 2001, subject to savings specified in articles 11 and 13 of [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162).
 
-[^key-3ce4c865970bf1a68f8dfc2e2aebdda7]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/29) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-3ce4c865970bf1a68f8dfc2e2aebdda7]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/29) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00061]: Footnote: Sections 7, 12 and 18 were repealed in Scotland by section 106 to, and Schedule 14 to, the Public Services Reform (Scotland) Act 2010, subject to savings specified in article 21 of [S.S.I. 2011/121](https://www.legislation.gov.uk/ssi/2011/121).
 
-[^key-009d9ef0108ca812303ec5019e3055ad]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/30) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-009d9ef0108ca812303ec5019e3055ad]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/30) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-5ff50bd87e71e239fd89521c8069b147]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/31) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-5ff50bd87e71e239fd89521c8069b147]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/31) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-4900dd6580b63dfd5f1e3cc92a431848]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/32) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-4900dd6580b63dfd5f1e3cc92a431848]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/wsi/2022/1188/schedule/1/paragraph/32) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00062]: Footnote: [S.I. 2003/417 (N.I. 4)](https://www.legislation.gov.uk/nisi/2003/417). Article 3 and Chapter 2 of Part 2 of that Order were revoked by article 60(2) of, and Schedule 8 to, [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
-[^key-8bb1eec29e1103c3932e564e233fa1c7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2022/1188/schedule/2/paragraph/1) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-8bb1eec29e1103c3932e564e233fa1c7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2022/1188/schedule/2/paragraph/1) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00063]: Footnote: [1956 c. 69](https://www.legislation.gov.uk/ukpga/1956/69). All the sections referred to in paragraphs (a) to (l) of this sub-paragraph were repealed by section 140 of, and Schedule 7 to, the Sexual Offences Act 2003 (“**the 2003 Act**”).
 
@@ -852,7 +852,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00071]: Footnote: [2009 c. 25](https://www.legislation.gov.uk/ukpga/2009/25). Section 71 was repealed in England and Wales by section 57(1) of, and paragraph 8 of Schedule 5 to, the Modern Slavery Act 2015.
 
-[^key-c3c13a04f86656ae2722359a4dbcce32]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2022/1188/schedule/2/paragraph/2) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-c3c13a04f86656ae2722359a4dbcce32]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2022/1188/schedule/2/paragraph/2) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00072]: Footnote: Each of the provisions in sub-paragraphs (a) to (k) were repealed by section 140 of, and Schedule 7 to, the 2003 Act.
 
@@ -862,7 +862,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00075]: Footnote: [1968 c. 60](https://www.legislation.gov.uk/ukpga/1968/60). Section 9(2) provides detail about the nature of an offence under section 9(1)(a) and was amended by section 140 of, and Schedule 7 to, the 2003 Act.
 
-[^key-df5864f69bf31055ff28937f2abd327d]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2022/1188/schedule/3/paragraph/1) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-df5864f69bf31055ff28937f2abd327d]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2022/1188/schedule/3/paragraph/1) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00076]: Footnote: [1988 c. 27](https://www.legislation.gov.uk/ukpga/1988/27).
 
@@ -906,7 +906,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00096]: Footnote: Inserted by section 72 of the Serious Crimes Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9).
 
-[^key-3d53974651e023e94a2c6121ff4f748d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2022/1188/schedule/3/paragraph/2) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-3d53974651e023e94a2c6121ff4f748d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2022/1188/schedule/3/paragraph/2) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00097]: Footnote: [2009 asp 9](https://www.legislation.gov.uk/asp/2009/9).
 
@@ -924,7 +924,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00104]: Footnote: Sections 60, 61 and 62 were repealed by section 80(1) of and Schedule 4 to, the Regulation of Care (Scotland) Act 2001, subject to savings specified in articles 11 and 13 of [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162).
 
-[^key-4446ac02d6a9a6806a55384a2db942f3]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2022/1188/schedule/3/paragraph/3) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-4446ac02d6a9a6806a55384a2db942f3]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2022/1188/schedule/3/paragraph/3) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00105]: Footnote: [S.I. 2008/1769 (N.I. 2)](https://www.legislation.gov.uk/nisi/2008/1769) (“**the 2008 Order**”).
 
@@ -952,7 +952,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00117]: Footnote: [2016 c. 21 (N.I.)](https://www.legislation.gov.uk/nia/2016/21).
 
-[^key-c730b864297f22192ad709eb545c1da3]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2022/1188/schedule/3/paragraph/4) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-c730b864297f22192ad709eb545c1da3]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2022/1188/schedule/3/paragraph/4) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00118]: Footnote: Jersey Law 16/1969.
 
@@ -960,7 +960,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00120]: Footnote: Jersey Law 51/2002.
 
-[^key-5fb2790ad39c3dcc1048a07a85ae42a6]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2022/1188/schedule/3/paragraph/5) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-5fb2790ad39c3dcc1048a07a85ae42a6]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2022/1188/schedule/3/paragraph/5) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00121]: Footnote: Orders in Court Volume IV, p. 288.
 
@@ -972,9 +972,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00125]: Footnote: Orders in Council Volume XXIX, p. 103, as amended by the Administration of Justice (Bailiwick of Guernsey) Law 1991, Orders in Council Volume XXXIII, p. 49, the Criminal Evidence and Miscellaneous Provisions (Bailiwick of Guernsey) Law 2002, Order in Council No. I of 2003 and the Criminal Justice (Miscellaneous Provisions) (Bailiwick of Guernsey) Law, 2006, Order in Council No. XIII of 2006.
 
-[^key-d0b7a3222184a4376d9ec3d98a1171ed]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2022/1188/schedule/3/paragraph/6) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-d0b7a3222184a4376d9ec3d98a1171ed]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2022/1188/schedule/3/paragraph/6) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
-[^key-c5faf3a1bfc67acab44b796e3ce40728]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/wsi/2022/1188/schedule/3/paragraph/7) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
+[^c-c5faf3a1bfc67acab44b796e3ce40728]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/wsi/2022/1188/schedule/3/paragraph/7) in force at 6.12.2022 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1188/regulation/1/2)
 
 [^f00126]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Section 170 was amended by section 114 of the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60), [S.I. 1996/2686](https://www.legislation.gov.uk/uksi/1996/2686), section 75 of, and paragraph 8 of Schedule 17 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), section 111 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664), section 12 of the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), [S.I. 2004/702 (N.I. 3)](https://www.legislation.gov.uk/nisi/2004/702), [S.I. 2005/1966 (N.I. 16)](https://www.legislation.gov.uk/nisi/2005/1966) and section 3 of, and paragraph 7 of Schedule 2 to, the Finance (No. 2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48).
 

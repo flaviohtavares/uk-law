@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Duty of estate managers to publish administration charge schedules[^key-732f748e6f778fbdbcf0ecef54f11462]
+## 84. Duty of estate managers to publish administration charge schedules[^c-732f748e6f778fbdbcf0ecef54f11462]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-732f748e6f778fbdbcf0ecef54f11462]: Commencement: S. 84 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-732f748e6f778fbdbcf0ecef54f11462]: Commencement: S. 84 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

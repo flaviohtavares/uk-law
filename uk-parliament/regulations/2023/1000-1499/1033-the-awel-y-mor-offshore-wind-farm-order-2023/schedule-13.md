@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 13 — Documents to be certified[^key-187684ed3ec16310f9f71c1163fa2373]
+## SCHEDULE 13 — Documents to be certified[^c-187684ed3ec16310f9f71c1163fa2373]
 
 *Extent: E+W*
 
 Article 40
 
-[^key-187684ed3ec16310f9f71c1163fa2373]
+[^c-187684ed3ec16310f9f71c1163fa2373]
 
 The following documents in Table 5 are the list referred to in article 40—
 
@@ -331,10 +331,10 @@ Table 5
 </tbody>
 </table>
 
-[^key-51e75506125a33649be29305456ef346]
+[^c-51e75506125a33649be29305456ef346]
 
 ## Annotations
 
-[^key-187684ed3ec16310f9f71c1163fa2373]: Commencement: Sch. 13 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-187684ed3ec16310f9f71c1163fa2373]: Commencement: Sch. 13 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
 
-[^key-51e75506125a33649be29305456ef346]: Textual amendment: Words in [Sch. 13](https://www.legislation.gov.uk/uksi/2023/1033/schedule/13) Table 5 substituted (17.7.2024) by [The Awel y Môr Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/799)](https://www.legislation.gov.uk/uksi/2024/799), [art. 1](https://www.legislation.gov.uk/uksi/2024/799/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/799/schedule)
+[^c-51e75506125a33649be29305456ef346]: Textual amendment: Words in [Sch. 13](https://www.legislation.gov.uk/uksi/2023/1033/schedule/13) Table 5 substituted (17.7.2024) by [The Awel y Môr Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/799)](https://www.legislation.gov.uk/uksi/2024/799), [art. 1](https://www.legislation.gov.uk/uksi/2024/799/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/799/schedule)

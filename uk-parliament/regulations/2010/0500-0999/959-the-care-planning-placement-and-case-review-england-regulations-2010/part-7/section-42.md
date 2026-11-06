@@ -26,8 +26,8 @@ summary: ''
 
 - (a) C's state of health (including physical, emotional and mental health) and development,
 - (b) C's continuing need for education, training or employment,
-- (ba)[^key-8259f9057b8b83d716663945e16cf5e7] where C falls within regulation 5(1)(f), any needs C has as a result of that status,
-- (c) the support that will be available to C from C's parents and other connected persons *(affected by repeal, see note)*[^key-40331d21f2abd3e134e2d4e5b34b2f50],
+- (ba)[^c-8259f9057b8b83d716663945e16cf5e7] where C falls within regulation 5(1)(f), any needs C has as a result of that status,
+- (c) the support that will be available to C from C's parents and other connected persons *(affected by repeal, see note)*[^c-40331d21f2abd3e134e2d4e5b34b2f50],
 - (d) C's actual and anticipated financial resources and capacity to manage personal finances independently,
 - (e) the extent to which C possesses the practical and other skills necessary for independent living,
 - (f) C's need for continuing care, support and accommodation,
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8259f9057b8b83d716663945e16cf5e7]: Textual amendment: Reg. 42(2)(ba) inserted (18.8.2014) by [The Care Planning and Care Leavers (Amendment) Regulations 2014 (S.I. 2014/1917)](https://www.legislation.gov.uk/uksi/2014/1917), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1917/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/1917/regulation/4)
+[^c-8259f9057b8b83d716663945e16cf5e7]: Textual amendment: Reg. 42(2)(ba) inserted (18.8.2014) by [The Care Planning and Care Leavers (Amendment) Regulations 2014 (S.I. 2014/1917)](https://www.legislation.gov.uk/uksi/2014/1917), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1917/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/1917/regulation/4)
 
-[^key-40331d21f2abd3e134e2d4e5b34b2f50]: Textual amendment: Words in reg. 42(2)(c) omitted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [8(16)](https://www.legislation.gov.uk/uksi/2020/445/regulation/8/16) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+[^c-40331d21f2abd3e134e2d4e5b34b2f50]: Textual amendment: Words in reg. 42(2)(c) omitted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [8(16)](https://www.legislation.gov.uk/uksi/2020/445/regulation/8/16) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
 
 [^c20224681]: Marginal citation: “Statement of special educational needs” is defined in section 324 of the Education Act 1996.

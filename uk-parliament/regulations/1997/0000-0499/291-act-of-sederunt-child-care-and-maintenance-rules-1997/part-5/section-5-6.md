@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.6. Commencement of proceedings[^key-8e1841453005fbca5aacad8453208233]
+## 5.6. Commencement of proceedings[^c-8e1841453005fbca5aacad8453208233]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e1841453005fbca5aacad8453208233]: Commencement: Rule 5.6 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-8e1841453005fbca5aacad8453208233]: Commencement: Rule 5.6 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

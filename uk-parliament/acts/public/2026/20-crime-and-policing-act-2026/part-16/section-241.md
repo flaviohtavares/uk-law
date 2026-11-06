@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241. Removal of women from the criminal law related to abortion[^key-adbea06bcb3e98c653a7763a931d9874]
+## 241. Removal of women from the criminal law related to abortion[^c-adbea06bcb3e98c653a7763a931d9874]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ For the purposes of the law related to abortion, including sections 58 and 59 of
 
 ## Annotations
 
-[^key-adbea06bcb3e98c653a7763a931d9874]: Commencement: S. 241 in force at Royal Assent, see [s. 255(2)(j)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/j)
+[^c-adbea06bcb3e98c653a7763a931d9874]: Commencement: S. 241 in force at Royal Assent, see [s. 255(2)(j)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/j)

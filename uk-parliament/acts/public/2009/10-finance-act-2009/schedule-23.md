@@ -146,8 +146,8 @@ elect that the amendments made by paragraphs 5 and 6 have effect in relation to 
 
 ### Value shifting attributable to transfer of business
 
-**8.**[^key-de637a802624efcd93ec9980caa11752] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-de637a802624efcd93ec9980caa11752] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de637a802624efcd93ec9980caa11752]: Textual amendment: [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/23/paragraph/8) repealed (with effect in accordance with Sch. 9 para. 6 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 9 para. 5(g)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/9/paragraph/5/g)
+[^c-de637a802624efcd93ec9980caa11752]: Textual amendment: [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/23/paragraph/8) repealed (with effect in accordance with Sch. 9 para. 6 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 9 para. 5(g)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/9/paragraph/5/g)

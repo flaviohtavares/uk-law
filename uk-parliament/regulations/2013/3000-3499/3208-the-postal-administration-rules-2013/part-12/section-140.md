@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Retention of proxies[^key-aa5a70055f86525526c594a064ad76a0]
+## 140. Retention of proxies[^c-aa5a70055f86525526c594a064ad76a0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa5a70055f86525526c594a064ad76a0]: Commencement: [Rule 140](https://www.legislation.gov.uk/uksi/2013/3208/rule/140) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-aa5a70055f86525526c594a064ad76a0]: Commencement: [Rule 140](https://www.legislation.gov.uk/uksi/2013/3208/rule/140) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Meaning of “retirement pension income”[^key-dc617be68af987490e0f9eff29cba035]
+## 58. Meaning of “retirement pension income”[^c-dc617be68af987490e0f9eff29cba035]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc617be68af987490e0f9eff29cba035]: Commencement: [Reg. 58](https://www.legislation.gov.uk/ssi/2021/249/regulation/58) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-dc617be68af987490e0f9eff29cba035]: Commencement: [Reg. 58](https://www.legislation.gov.uk/ssi/2021/249/regulation/58) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00177]: Footnote: Section 16 was amended by paragraph 32 of schedule 1 of the Sovereign Grant Act [2011 (c.15)](https://www.legislation.gov.uk/ukpga/2011/15), paragraph 15 of schedule 11 and paragraph 44 of schedule 12 of the Pensions Act [2014 (c.19)](https://www.legislation.gov.uk/ukpga/2014/19) and [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792).

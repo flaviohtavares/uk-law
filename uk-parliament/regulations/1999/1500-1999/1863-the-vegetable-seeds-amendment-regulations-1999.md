@@ -46,15 +46,15 @@ Coming into force
 
 The Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales, acting jointly, in exercise of the powers conferred by sections 16(1), (1A) and (8) and 36 of the Plant Varieties and Seeds Act 1964[^f00001] and now vested in them[^f00002], after consultation in accordance with the said section 16(1) with representatives of such interests as appear to them to be concerned, hereby make the following Regulations—
 
-## 1. Title and commencement[^key-cf84f0d523e659918bddd99f038b677d]
+## 1. Title and commencement[^c-cf84f0d523e659918bddd99f038b677d]
 
 These Regulations may be cited as the Vegetable Seeds (Amendment) Regulations 1999 and shall come into force on 30th July 1999.
 
-## 2. Interpretation[^key-f55cb53912985ef01de00ff3ab91cb66]
+## 2. Interpretation[^c-f55cb53912985ef01de00ff3ab91cb66]
 
 In these Regulations “the principal Regulations” means the Vegetable Seeds Regulations 1993[^f00003].
 
-## 3. Amendment of the Vegetable Seeds Regulations 1993[^key-fceb9b2aac78767a18332c728a6b2b6e]
+## 3. Amendment of the Vegetable Seeds Regulations 1993[^c-fceb9b2aac78767a18332c728a6b2b6e]
 
 (1) The principal Regulations shall be amended in accordance with the provisions of this regulation.
 
@@ -270,7 +270,7 @@ In these Regulations “the principal Regulations” means the Vegetable Seeds R
 
 .
 
-## 4. Transitional provisions[^key-f8a9ffe05027c2344400f6325f009d0d]
+## 4. Transitional provisions[^c-f8a9ffe05027c2344400f6325f009d0d]
 
 (1) Where the Minister is satisfied in relation to a seed lot that—
 
@@ -336,14 +336,14 @@ The Regulations also—
 
 [^f00002]: Footnote: In the case of the Secretary of State for Wales by virtue of S.I. [1978/272](https://www.legislation.gov.uk/uksi/1978/272).
 
-[^key-cf84f0d523e659918bddd99f038b677d]: Commencement: Reg. 1 in force at 30.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1863/regulation/1)
+[^c-cf84f0d523e659918bddd99f038b677d]: Commencement: Reg. 1 in force at 30.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1863/regulation/1)
 
-[^key-f55cb53912985ef01de00ff3ab91cb66]: Commencement: Reg. 2 in force at 30.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1863/regulation/1)
+[^c-f55cb53912985ef01de00ff3ab91cb66]: Commencement: Reg. 2 in force at 30.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1863/regulation/1)
 
 [^f00003]: Footnote: S.I. [1993/2008](https://www.legislation.gov.uk/uksi/1993/2008) as amended by S.I. [1996/1452](https://www.legislation.gov.uk/uksi/1996/1452) and [1997/616](https://www.legislation.gov.uk/uksi/1997/616).
 
-[^key-fceb9b2aac78767a18332c728a6b2b6e]: Commencement: Reg. 3 in force at 30.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1863/regulation/1)
+[^c-fceb9b2aac78767a18332c728a6b2b6e]: Commencement: Reg. 3 in force at 30.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1863/regulation/1)
 
 [^f00004]: Footnote: S.I. [1982/844](https://www.legislation.gov.uk/uksi/1982/844), as amended by S.I. [1985/1529](https://www.legislation.gov.uk/uksi/1985/1529), [1989/1314](https://www.legislation.gov.uk/uksi/1989/1314), [1990/1353](https://www.legislation.gov.uk/uksi/1990/1353), [1992/1615](https://www.legislation.gov.uk/uksi/1992/1615) and [1998/2726](https://www.legislation.gov.uk/uksi/1998/2726).
 
-[^key-f8a9ffe05027c2344400f6325f009d0d]: Commencement: Reg. 4 in force at 30.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1863/regulation/1)
+[^c-f8a9ffe05027c2344400f6325f009d0d]: Commencement: Reg. 4 in force at 30.7.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/1863/regulation/1)

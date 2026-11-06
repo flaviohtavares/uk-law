@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79.[^key-63ec42e3f9fa176e56a55d03463f92cc]
+## 79.[^c-63ec42e3f9fa176e56a55d03463f92cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In point 6.6.1.1, for “, known consignor or account consignor”, in each plac
 
 ## Annotations
 
-[^key-63ec42e3f9fa176e56a55d03463f92cc]: Commencement: Reg. 79 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-63ec42e3f9fa176e56a55d03463f92cc]: Commencement: Reg. 79 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 131. Liquidator’s reports[^key-0b7a357592265664ee68d8656b224408]
+## 131. Liquidator’s reports[^c-0b7a357592265664ee68d8656b224408]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.168 of the 1986 Rules.
 
 ## Annotations
 
-[^key-0b7a357592265664ee68d8656b224408]: Commencement: Rule 131 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-0b7a357592265664ee68d8656b224408]: Commencement: Rule 131 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Mathern and Caerwent — change in community boundaries and consequential change to electoral wards[^key-15c2e265e8ebdca7c6b900c053386269][^key-82cc517261b9072811350f17130e5795]
+## 25. Mathern and Caerwent — change in community boundaries and consequential change to electoral wards[^c-15c2e265e8ebdca7c6b900c053386269][^c-82cc517261b9072811350f17130e5795]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ The part of the community of Mathern shown hatched on Map 21—
 
 ## Annotations
 
-[^key-15c2e265e8ebdca7c6b900c053386269]: Commencement: Art. 25 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-15c2e265e8ebdca7c6b900c053386269]: Commencement: Art. 25 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-82cc517261b9072811350f17130e5795]: Commencement: [Art. 25](https://www.legislation.gov.uk/wsi/2021/1227/article/25) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-82cc517261b9072811350f17130e5795]: Commencement: [Art. 25](https://www.legislation.gov.uk/wsi/2021/1227/article/25) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

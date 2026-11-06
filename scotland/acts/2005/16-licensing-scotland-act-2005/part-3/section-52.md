@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Duty to keep, display and produce premises licence[^key-9682ebcae706c03ff6b829cb6c9e2391]
+## 52. Duty to keep, display and produce premises licence[^c-9682ebcae706c03ff6b829cb6c9e2391]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9682ebcae706c03ff6b829cb6c9e2391]: Commencement: S. 52 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-9682ebcae706c03ff6b829cb6c9e2391]: Commencement: S. 52 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

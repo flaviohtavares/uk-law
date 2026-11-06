@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Regulations restricting creation of new non-scale default arrangements[^key-12acb754ea6e7f8023341abba0bf4dda]
+## 42. Regulations restricting creation of new non-scale default arrangements[^c-12acb754ea6e7f8023341abba0bf4dda]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12acb754ea6e7f8023341abba0bf4dda]: Commencement: S. 42 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-12acb754ea6e7f8023341abba0bf4dda]: Commencement: S. 42 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

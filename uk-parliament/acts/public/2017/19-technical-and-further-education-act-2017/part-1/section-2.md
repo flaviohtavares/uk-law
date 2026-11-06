@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Information about technical education: access to English schools[^key-6a7ad72dab144e3ee218fe453ea6e70d]
+## 2. Information about technical education: access to English schools[^c-6a7ad72dab144e3ee218fe453ea6e70d]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a7ad72dab144e3ee218fe453ea6e70d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/19/section/2) in force at 2.1.2018 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/c)
+[^c-6a7ad72dab144e3ee218fe453ea6e70d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/19/section/2) in force at 2.1.2018 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/c)

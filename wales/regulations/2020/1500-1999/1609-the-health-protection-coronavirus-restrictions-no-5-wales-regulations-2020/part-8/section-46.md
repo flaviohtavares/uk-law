@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Offences committed by bodies corporate etc.[^key-581bf3dc4f26a4f00b1d06e59654d887]
+## 46. Offences committed by bodies corporate etc.[^c-581bf3dc4f26a4f00b1d06e59654d887]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ the officer (as well as the body corporate) is guilty of the offence and liable 
 
 ## Annotations
 
-[^key-581bf3dc4f26a4f00b1d06e59654d887]: Commencement: Reg. 46 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-581bf3dc4f26a4f00b1d06e59654d887]: Commencement: Reg. 46 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
 
 [^c24382751]: Marginal citation: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86).
 

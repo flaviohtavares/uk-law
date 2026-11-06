@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Duty to register civil partnerships changed into marriages[^key-daf472128b9a4653c51d0045f3538a9d]
+## 28. Duty to register civil partnerships changed into marriages[^c-daf472128b9a4653c51d0045f3538a9d]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-daf472128b9a4653c51d0045f3538a9d]: Commencement: Art. 28 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-daf472128b9a4653c51d0045f3538a9d]: Commencement: Art. 28 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

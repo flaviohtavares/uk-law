@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 182. Preliminary[^key-451da9f9b825ab0872ea08d7064dd932]
+## 182. Preliminary[^c-451da9f9b825ab0872ea08d7064dd932]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part applies to any application made to the court under Part 2 of the Banki
 
 ## Annotations
 
-[^key-451da9f9b825ab0872ea08d7064dd932]: Commencement: Rule 182 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-451da9f9b825ab0872ea08d7064dd932]: Commencement: Rule 182 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

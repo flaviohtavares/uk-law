@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Duty to comply with security requirements[^key-25627a9f6e315f5f6cf01fd44c5f5da2][^key-463b7738560d8c9f35943def75f8e2bf]
+## 14. Duty to comply with security requirements[^c-25627a9f6e315f5f6cf01fd44c5f5da2][^c-463b7738560d8c9f35943def75f8e2bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-25627a9f6e315f5f6cf01fd44c5f5da2]: Commencement: S. 14 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-25627a9f6e315f5f6cf01fd44c5f5da2]: Commencement: S. 14 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-463b7738560d8c9f35943def75f8e2bf]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2022/46/section/14) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-463b7738560d8c9f35943def75f8e2bf]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2022/46/section/14) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

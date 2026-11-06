@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.5. Personal service[^key-fe589970343ba157e4f46d596d14d251]
+## 6.5. Personal service[^c-fe589970343ba157e4f46d596d14d251]
 
 *Extent: E+W*
 
@@ -37,10 +37,10 @@ summary: ''
   - (i) a partner; or
   - (ii) a person who, at the time of service, has the control or management of the partnership business at its principal place of business.
 
-(Practice Direction 6A[^key-063689bdf2f8e465a979701d56a72719] sets out the meaning of “senior position”.)
+(Practice Direction 6A[^c-063689bdf2f8e465a979701d56a72719] sets out the meaning of “senior position”.)
 
 ## Annotations
 
-[^key-fe589970343ba157e4f46d596d14d251]: Textual amendment: Pt. 6 substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rule 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2178/schedule/1)
+[^c-fe589970343ba157e4f46d596d14d251]: Textual amendment: Pt. 6 substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rule 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2178/schedule/1)
 
-[^key-063689bdf2f8e465a979701d56a72719]: Textual amendment: Words in [rule 6.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/6.5) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2009/3390/rule/5/b/ii)
+[^c-063689bdf2f8e465a979701d56a72719]: Textual amendment: Words in [rule 6.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/6.5) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2009/3390/rule/5/b/ii)

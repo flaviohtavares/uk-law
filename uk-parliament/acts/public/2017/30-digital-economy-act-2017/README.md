@@ -34,7 +34,7 @@ An Act to make provision about electronic communications infrastructure and serv
 
 \[27th April 2017\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-5d8ebe6f8689cb50dfbd531f3565e179]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-5d8ebe6f8689cb50dfbd531f3565e179]
 
 ## Contents
 
@@ -65,7 +65,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 12 — Disposal of seized property under Wireless Telegraphy Act 2006](part-2/section-12.md)
 - [Section 13 — Time limits for prosecutions under Wireless Telegraphy Act 2006](part-2/section-13.md)
 
-### PART 3 — Online pornography[^key-47c01bc08d56d286b5d0bcbc60b343da]
+### PART 3 — Online pornography[^c-47c01bc08d56d286b5d0bcbc60b343da]
 
 **No longer in force.**
 
@@ -96,7 +96,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### PART 5 — Digital government
 
-#### CHAPTER 1 — Public service delivery[^key-df72abeb9207cacf22bfec85eaa7b6c5][^key-714d05f3bcd825736e772d7cfdd22463]
+#### CHAPTER 1 — Public service delivery[^c-df72abeb9207cacf22bfec85eaa7b6c5][^c-714d05f3bcd825736e772d7cfdd22463]
 
 *Extent: E+W+S+N.I.*
 
@@ -286,10 +286,10 @@ SCHEDULES
 
 ## Annotations
 
-[^key-5d8ebe6f8689cb50dfbd531f3565e179]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2017/30) amendments to 2003 c. 21, by s. 89 extended to Jersey (1.6.2020) by [The Communications (Jersey) Order 2020 (S.I. 2020/530)](https://www.legislation.gov.uk/uksi/2020/530), [art. 2](https://www.legislation.gov.uk/uksi/2020/530/article/2)
+[^c-5d8ebe6f8689cb50dfbd531f3565e179]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2017/30) amendments to 2003 c. 21, by s. 89 extended to Jersey (1.6.2020) by [The Communications (Jersey) Order 2020 (S.I. 2020/530)](https://www.legislation.gov.uk/uksi/2020/530), [art. 2](https://www.legislation.gov.uk/uksi/2020/530/article/2)
 
-[^key-47c01bc08d56d286b5d0bcbc60b343da]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2017/30/part/3) omitted (26.10.2023) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 212(2)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/212/2/a), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-47c01bc08d56d286b5d0bcbc60b343da]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2017/30/part/3) omitted (26.10.2023) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 212(2)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/212/2/a), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
 
-[^key-df72abeb9207cacf22bfec85eaa7b6c5]: Modification: Pt. 5 Ch. 1: functions cease to be exercisable concurrently (18.5.2018) by virtue of [The Transfer of Functions (Digital Government) Order 2018 (S.I. 2018/526)](https://www.legislation.gov.uk/uksi/2018/526), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/526/article/1/2), [2](https://www.legislation.gov.uk/uksi/2018/526/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2018/526/article/4), [5](https://www.legislation.gov.uk/uksi/2018/526/article/5))
+[^c-df72abeb9207cacf22bfec85eaa7b6c5]: Modification: Pt. 5 Ch. 1: functions cease to be exercisable concurrently (18.5.2018) by virtue of [The Transfer of Functions (Digital Government) Order 2018 (S.I. 2018/526)](https://www.legislation.gov.uk/uksi/2018/526), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/526/article/1/2), [2](https://www.legislation.gov.uk/uksi/2018/526/article/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2018/526/article/4), [5](https://www.legislation.gov.uk/uksi/2018/526/article/5))
 
-[^key-714d05f3bcd825736e772d7cfdd22463]: Modification: Pt. 5 Ch. 1: functions made exercisable concurrently (30.9.2020) by [The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940)](https://www.legislation.gov.uk/uksi/2020/940), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/940/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/940/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/940/article/5))
+[^c-714d05f3bcd825736e772d7cfdd22463]: Modification: Pt. 5 Ch. 1: functions made exercisable concurrently (30.9.2020) by [The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940)](https://www.legislation.gov.uk/uksi/2020/940), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/940/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/940/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/940/article/5))

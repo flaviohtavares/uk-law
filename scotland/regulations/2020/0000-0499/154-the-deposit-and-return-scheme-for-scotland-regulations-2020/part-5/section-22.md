@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Exemptions for return points[^key-2f10a0a4dc99c975e65e8b01a942ffef][^key-0acda2b1ba7ab64bdb822b6efc047085]
+## 22. Exemptions for return points[^c-2f10a0a4dc99c975e65e8b01a942ffef][^c-0acda2b1ba7ab64bdb822b6efc047085]
 
 *Extent: S*
 
@@ -27,6 +27,6 @@ A groceries retailer may apply to the scheme administrator for an exemption from
 
 ## Annotations
 
-[^key-2f10a0a4dc99c975e65e8b01a942ffef]: Commencement: Reg. 22 in force at 1.1.2021, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/3)
+[^c-2f10a0a4dc99c975e65e8b01a942ffef]: Commencement: Reg. 22 in force at 1.1.2021, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2020/154/regulation/1/3)
 
-[^key-0acda2b1ba7ab64bdb822b6efc047085]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/ssi/2020/154/regulation/22) substituted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [21](https://www.legislation.gov.uk/ssi/2025/188/regulation/21)
+[^c-0acda2b1ba7ab64bdb822b6efc047085]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/ssi/2020/154/regulation/22) substituted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [21](https://www.legislation.gov.uk/ssi/2025/188/regulation/21)

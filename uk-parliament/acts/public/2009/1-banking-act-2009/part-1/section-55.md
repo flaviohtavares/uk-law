@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Independent valuer: supplemental[^key-14822982583176d23ced686b7314b8e8]
+## 55. Independent valuer: supplemental[^c-14822982583176d23ced686b7314b8e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,10 +53,10 @@ summary: ''
 - (a) shall be made by statutory instrument, and
 - (b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(10)[^key-70da1f166833dbc129f4edc420b0e4c8] But subsection (9)(b) does not apply if the order is contained in a statutory instrument that contains an order to which section 62 applies.
+(10)[^c-70da1f166833dbc129f4edc420b0e4c8] But subsection (9)(b) does not apply if the order is contained in a statutory instrument that contains an order to which section 62 applies.
 
 ## Annotations
 
-[^key-14822982583176d23ced686b7314b8e8]: Commencement: S. 55 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-14822982583176d23ced686b7314b8e8]: Commencement: S. 55 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
 
-[^key-70da1f166833dbc129f4edc420b0e4c8]: Textual amendment: S. 55(10) inserted (8.4.2010) by [Financial Services Act 2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2010/28/section/21/3), [26(1)(f)](https://www.legislation.gov.uk/ukpga/2010/28/section/26/1/f)
+[^c-70da1f166833dbc129f4edc420b0e4c8]: Textual amendment: S. 55(10) inserted (8.4.2010) by [Financial Services Act 2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2010/28/section/21/3), [26(1)(f)](https://www.legislation.gov.uk/ukpga/2010/28/section/26/1/f)

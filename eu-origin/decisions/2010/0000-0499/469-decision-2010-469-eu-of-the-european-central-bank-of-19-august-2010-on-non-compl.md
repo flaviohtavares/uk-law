@@ -31,10 +31,10 @@ Decision 2010/469/EU of the European Central Bank
 
 of 19 August 2010 on non-compliance with statistical reporting requirements (ECB/2010/10) (revoked)
 
-[^key-cc308da574495e5ca85db7af21ef2b4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc308da574495e5ca85db7af21ef2b4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-cc308da574495e5ca85db7af21ef2b4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-cc308da574495e5ca85db7af21ef2b4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cc308da574495e5ca85db7af21ef2b4f]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/62)
+[^c-cc308da574495e5ca85db7af21ef2b4f]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/62)

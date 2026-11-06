@@ -45,20 +45,20 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by paragraph 4 of Schedule 6 to the Agricultural Holdings Act 1986[^f00001] and now vested in them[^f00002], make the following Order.
 
-## 1. Title, commencement, application and interpretation[^key-a276d575665ef184258f070c4a866abc]
+## 1. Title, commencement, application and interpretation[^c-a276d575665ef184258f070c4a866abc]
 
 (1) The title of this Order is The Agricultural Holdings (Units of Production) (Wales) (No. 2) Order 2015, it applies in relation to Wales, and comes into force on 28 September 2015.
 
 (2) In this Order—
 
 - “Council Regulation 73/2009” (“*Rheoliad y Cyngor 73/2009*”) means Council Regulation [(EC) No. 73/2009](https://www.legislation.gov.uk/european/regulation/2009/0073) establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers, and amending and repealing certain Regulations[^f00003];
-- “designated maps” (“*mapiau dynodedig*”) means the two volumes of maps numbered 1 and 2 each volume being marked “Volume of maps of less favoured farming areas in Wales” and with the number of the volume dated 20 May 1991[^key-ca8f71c1dfe5d5927bd50abf4e52131a] and signed by the Secretary of State for Wales and deposited at the offices of the Welsh Government, Cathays Park, Cardiff, CF10 3NQ;
+- “designated maps” (“*mapiau dynodedig*”) means the two volumes of maps numbered 1 and 2 each volume being marked “Volume of maps of less favoured farming areas in Wales” and with the number of the volume dated 20 May 1991[^c-ca8f71c1dfe5d5927bd50abf4e52131a] and signed by the Secretary of State for Wales and deposited at the offices of the Welsh Government, Cathays Park, Cardiff, CF10 3NQ;
 - “disadvantaged land” (“*tir dan anfantais*”) (except in the expression “severely disadvantaged land”) means any area of land shown coloured blue on the designated maps;
 - “eligible hectare” (“*hectar cymwys*”) has the same meaning as in Article 34(2) of Council Regulation 73/2009;
 - “less favoured area” (“*ardal lai ffafriol*”) means land that is disadvantaged or severely disadvantaged;
 - “severely disadvantaged land” (“*tir dan anfantais ddifrifol*”) means the area of land shown coloured pink on the designated maps.
 
-## 2. Assessment of productive capacity of land[^key-561909f826459bb266be1d72558398b2]
+## 2. Assessment of productive capacity of land[^c-561909f826459bb266be1d72558398b2]
 
 (1) Paragraphs (2) and (3) have effect for the purpose of the assessment of the productive capacity of a unit of agricultural land situated in Wales, in order to determine whether that unit is a commercial unit of agricultural land within the meaning of paragraph 3(1) of Schedule 6 to the Agricultural Holdings Act 1986.
 
@@ -72,7 +72,7 @@ The Welsh Ministers, in exercise of the powers conferred by paragraph 4 of Sched
 - (a) the unit of production prescribed in relation to that use of the land is the unit in the entry in column 2 of that Schedule opposite to that entry, and
 - (b) the amount determined, for the period of 12 months beginning with 12 September 2014, as the net annual income from that unit of production in that period is the amount in the entry in column 3 of that Schedule opposite to that entry.
 
-## 3. Revocation[^key-b05b8baeac9b0617b2d734a25ca84e27]
+## 3. Revocation[^c-b05b8baeac9b0617b2d734a25ca84e27]
 
 The Agricultural Holdings (Units of Production) (Wales) Order 2015[^f00004] is revoked.
 
@@ -82,7 +82,7 @@ Deputy Minister for Farming and Food, under authority of the Minister for Natura
 
 2 September 2015
 
-## SCHEDULE — PRESCRIBED UNITS OF PRODUCTION AND DETERMINATION OF NET ANNUAL INCOME[^key-11f181420ae79529a544bf0c4cd113c0]
+## SCHEDULE — PRESCRIBED UNITS OF PRODUCTION AND DETERMINATION OF NET ANNUAL INCOME[^c-11f181420ae79529a544bf0c4cd113c0]
 
 Article 2
 
@@ -151,19 +151,19 @@ A regulatory impact assessment has not been produced for this instrument as no i
 
 [^f00002]: Footnote: Functions conferred under the Agricultural Holdings Act [1986 (c.5)](https://www.legislation.gov.uk/ukpga/1986/5) were transferred to the National Assembly for Wales by article 2 of and Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). Those functions are now exercisable by the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-a276d575665ef184258f070c4a866abc]: Commencement: Art. 1 in force at 28.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/1642/article/1/1)
+[^c-a276d575665ef184258f070c4a866abc]: Commencement: Art. 1 in force at 28.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/1642/article/1/1)
 
 [^f00003]: Footnote: OJ No L 30, 31.1.2009, p.16, repealed by Regulation (EU) No 1307/2013 of the European Parliament and of the Council (OJ No L 347, 20.12.2013, p.608) and last amended by Commission Delegated Regulation (EU) No 1378/2014 (OJ No L 367, 23.12.2014, p.16).
 
-[^key-ca8f71c1dfe5d5927bd50abf4e52131a]: Textual amendment: Word in Order substituted (30.12.2015) by [The Agricultural Holdings (Units of Production) (Wales) (No. 3) Order 2015 (S.I. 2015/1975)](https://www.legislation.gov.uk/uksi/2015/1975), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1975/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/1975/article/3/2)
+[^c-ca8f71c1dfe5d5927bd50abf4e52131a]: Textual amendment: Word in Order substituted (30.12.2015) by [The Agricultural Holdings (Units of Production) (Wales) (No. 3) Order 2015 (S.I. 2015/1975)](https://www.legislation.gov.uk/uksi/2015/1975), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1975/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/1975/article/3/2)
 
-[^key-561909f826459bb266be1d72558398b2]: Commencement: Art. 2 in force at 28.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/1642/article/1/1)
+[^c-561909f826459bb266be1d72558398b2]: Commencement: Art. 2 in force at 28.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/1642/article/1/1)
 
-[^key-b05b8baeac9b0617b2d734a25ca84e27]: Commencement: Art. 3 in force at 28.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/1642/article/1/1)
+[^c-b05b8baeac9b0617b2d734a25ca84e27]: Commencement: Art. 3 in force at 28.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/1642/article/1/1)
 
 [^f00004]: Footnote: [S.I. 2015/1020 (W.73)](https://www.legislation.gov.uk/wsi/2015/1020).
 
-[^key-11f181420ae79529a544bf0c4cd113c0]: Commencement: Sch. in force at 28.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/1642/article/1/1)
+[^c-11f181420ae79529a544bf0c4cd113c0]: Commencement: Sch. in force at 28.9.2015, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2015/1642/article/1/1)
 
 [^f01000]: Footnote: (1)
 

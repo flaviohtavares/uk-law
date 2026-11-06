@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78A. Equality action plans[^key-70f5d8755c83d10c34a70742aa0dbcb1]
+## 78A. Equality action plans[^c-70f5d8755c83d10c34a70742aa0dbcb1]
 
 *Extent: E+W+S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70f5d8755c83d10c34a70742aa0dbcb1]: Textual amendment: [S. 78A](https://www.legislation.gov.uk/ukpga/2010/15/section/78A) inserted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/33/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(7)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/7)
+[^c-70f5d8755c83d10c34a70742aa0dbcb1]: Textual amendment: [S. 78A](https://www.legislation.gov.uk/ukpga/2010/15/section/78A) inserted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/33/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(7)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/7)

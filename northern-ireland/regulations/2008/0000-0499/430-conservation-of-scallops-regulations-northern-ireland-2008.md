@@ -41,17 +41,17 @@ Coming into operation
 
 The Department of Agriculture and Rural Development[^f00001] makes the following Regulations in exercise of the powers conferred by sections 19(1), 124(1) and (2) and 127(1) of the Fisheries Act (Northern Ireland) 1966[^f00002]
 
-## 1. Citation and commencement[^key-412ac8ebeb0df6c40a2afe2f4651365a]
+## 1. Citation and commencement[^c-412ac8ebeb0df6c40a2afe2f4651365a]
 
 These Regulations may be cited as the Conservation of Scallops Regulations (Northern Ireland) 2008 and shall come into operation on 17th November 2008.
 
-## 2. Interpretation[^key-784b355375a6668cfcdf182e15f3acf7]
+## 2. Interpretation[^c-784b355375a6668cfcdf182e15f3acf7]
 
 (1) In these Regulations—
 
 - “the Act” means the Fisheries Act (Northern Ireland) 1966;
 - “belly rings” means rings which make up the floor of a scallop dredge;
-- [^key-87889acaff59d5596f5b2b4da7ce9d5d]...[^f00003]
+- [^c-87889acaff59d5596f5b2b4da7ce9d5d]...[^f00003]
 - “defined area” means Northern Ireland inshore waters and that part of the Northern Ireland zone within twelve nautical miles measured from baselines in Northern Ireland;
 - “dredge bar” or “tooth bar” means a horizontal bar with teeth on the bottom of a scallop dredge;
 - “French dredge” means a scallop dredge of the type known as a “French dredge” incorporating paravanes, diving plates, pressure plates, water deflecting plates or any similar device, and having rigid fixed teeth;
@@ -62,7 +62,7 @@ These Regulations may be cited as the Conservation of Scallops Regulations (Nort
 - “tow bar” means any device or appliance which is capable of being used for the purpose of fixing or attaching a scallop dredge to a vessel for the purpose of enabling such a dredge to be towed by the vessel;
 - “width” in relation to any scallop dredge means the distance across the mouth of a dredge when measured horizontally.
 
-## 3. Prohibition of fishing and fishing methods[^key-a4f041564a50d5f21c55d81a3f53de26]
+## 3. Prohibition of fishing and fishing methods[^c-a4f041564a50d5f21c55d81a3f53de26]
 
 (1) Subject to regulation 4, fishing for scallops by any means within the defined area is prohibited—
 
@@ -78,12 +78,12 @@ These Regulations may be cited as the Conservation of Scallops Regulations (Nort
 - (e) a scallop dredge with a mesh size of less than 100 mm in the netting cover; and
 - (f) a French dredge.
 
-(3) A person shall not use or carry on board any [^key-c4e29f7e67d3d3aade0bfd2dab56ed3b]... fishing boat within the defined area—
+(3) A person shall not use or carry on board any [^c-c4e29f7e67d3d3aade0bfd2dab56ed3b]... fishing boat within the defined area—
 
 - (a) a tow bar which exceeds 5.5 metres in length;
 - (b) a tow bar 5.5 metres or less in length which is constructed in such a way as to enable more than 6 scallop dredges to be attached to it at the same time.
 
-(4) A person shall not fish for scallops within the defined area using more than 6 scallop dredges from each side of any [^key-c8f444ea0d63cdfa7081d42d029b34a8]... fishing boat.
+(4) A person shall not fish for scallops within the defined area using more than 6 scallop dredges from each side of any [^c-c8f444ea0d63cdfa7081d42d029b34a8]... fishing boat.
 
 (5) A person shall not, while diving, take scallops during the period 1<sup>st</sup> June to 31<sup>st</sup> October, both days inclusive, in any year, within the defined area.
 
@@ -92,20 +92,20 @@ These Regulations may be cited as the Conservation of Scallops Regulations (Nort
 (7) A person shall not, within the defined area—
 
 - (a) take by diving; or
-- (b) land, bring to land or retain on board any [^key-f0e2c7b47970611c8710c132076cd0d0]... fishing boat,
+- (b) land, bring to land or retain on board any [^c-f0e2c7b47970611c8710c132076cd0d0]... fishing boat,
 
 scallops of a size less than 110mm.
 
-(8) A person who, within the defined area, catches fish by any means other than a scallop dredge shall not take and retain on board a [^key-4bab77b0b7e652f6b712c7627341b44b]... fishing boat, scallops which are more than 1% by weight of the total of all fish on board.
+(8) A person who, within the defined area, catches fish by any means other than a scallop dredge shall not take and retain on board a [^c-4bab77b0b7e652f6b712c7627341b44b]... fishing boat, scallops which are more than 1% by weight of the total of all fish on board.
 
-## 4. Exemptions[^key-54b880c0fdb8e7f8d79cacee42ba6df4]
+## 4. Exemptions[^c-54b880c0fdb8e7f8d79cacee42ba6df4]
 
 The prohibitions contained in Regulation 3(1), (2), (3), (4 ),(5), (7) and (8) shall not apply to—
 
-- (a)[^key-18aea2f652a09e809c08978d2fc4d286] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-18aea2f652a09e809c08978d2fc4d286] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any person who is operating under the authority of and in accordance with the terms and conditions of a fish culture licence granted under section 11 of the Act or a permit granted under section 14 of the Act.
 
-## 5. Revocation[^key-8e8b847b2d01d26b22d8155535bbff23]
+## 5. Revocation[^c-8e8b847b2d01d26b22d8155535bbff23]
 
 The following Regulations are revoked—
 
@@ -158,31 +158,31 @@ These Regulations were notified in draft to the European commission in accordanc
 
 [^f00002]: Footnote: [1966 c.17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17) as amended by [S.I. 1981/227 (N.I. 7)](https://www.legislation.gov.uk/nisi/1981/227), [2001c.4(NI)](https://www.legislation.gov.uk/nia/2001/4) and [S.I. 2002/790](https://www.legislation.gov.uk/uksi/2002/790)
 
-[^key-412ac8ebeb0df6c40a2afe2f4651365a]: Commencement: Reg. 1 in operation at 17.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/430/regulation/1)
+[^c-412ac8ebeb0df6c40a2afe2f4651365a]: Commencement: Reg. 1 in operation at 17.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/430/regulation/1)
 
-[^key-784b355375a6668cfcdf182e15f3acf7]: Commencement: Reg. 2 in operation at 17.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/430/regulation/1)
+[^c-784b355375a6668cfcdf182e15f3acf7]: Commencement: Reg. 2 in operation at 17.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/430/regulation/1)
 
-[^key-87889acaff59d5596f5b2b4da7ce9d5d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2008/430/regulation/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 34(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/34/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-87889acaff59d5596f5b2b4da7ce9d5d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2008/430/regulation/2) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 34(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/34/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^f00003]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21)
 
 [^f00004]: Footnote: [S.R.1993 No 155](https://www.legislation.gov.uk/nisr/1993/155)
 
-[^key-a4f041564a50d5f21c55d81a3f53de26]: Commencement: Reg. 3 in operation at 17.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/430/regulation/1)
+[^c-a4f041564a50d5f21c55d81a3f53de26]: Commencement: Reg. 3 in operation at 17.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/430/regulation/1)
 
-[^key-c4e29f7e67d3d3aade0bfd2dab56ed3b]: Textual amendment: Word in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2008/430/regulation/3/3) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 34(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/34/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-c4e29f7e67d3d3aade0bfd2dab56ed3b]: Textual amendment: Word in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2008/430/regulation/3/3) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 34(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/34/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-c8f444ea0d63cdfa7081d42d029b34a8]: Textual amendment: Word in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2008/430/regulation/3/4) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 34(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/34/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-c8f444ea0d63cdfa7081d42d029b34a8]: Textual amendment: Word in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2008/430/regulation/3/4) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 34(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/34/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-f0e2c7b47970611c8710c132076cd0d0]: Textual amendment: Word in [reg. 3(7)(b)](https://www.legislation.gov.uk/nisr/2008/430/regulation/3/7/b) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 34(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/34/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-f0e2c7b47970611c8710c132076cd0d0]: Textual amendment: Word in [reg. 3(7)(b)](https://www.legislation.gov.uk/nisr/2008/430/regulation/3/7/b) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 34(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/34/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-4bab77b0b7e652f6b712c7627341b44b]: Textual amendment: Word in [reg. 3(8)](https://www.legislation.gov.uk/nisr/2008/430/regulation/3/8) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 34(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/34/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-4bab77b0b7e652f6b712c7627341b44b]: Textual amendment: Word in [reg. 3(8)](https://www.legislation.gov.uk/nisr/2008/430/regulation/3/8) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 34(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/34/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-54b880c0fdb8e7f8d79cacee42ba6df4]: Commencement: Reg. 4 in operation at 17.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/430/regulation/1)
+[^c-54b880c0fdb8e7f8d79cacee42ba6df4]: Commencement: Reg. 4 in operation at 17.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/430/regulation/1)
 
-[^key-18aea2f652a09e809c08978d2fc4d286]: Textual amendment: [Reg. 4(a)](https://www.legislation.gov.uk/nisr/2008/430/regulation/4/a) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 34(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/34/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-18aea2f652a09e809c08978d2fc4d286]: Textual amendment: [Reg. 4(a)](https://www.legislation.gov.uk/nisr/2008/430/regulation/4/a) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 34(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/34/4) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-8e8b847b2d01d26b22d8155535bbff23]: Commencement: Reg. 5 in operation at 17.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/430/regulation/1)
+[^c-8e8b847b2d01d26b22d8155535bbff23]: Commencement: Reg. 5 in operation at 17.11.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/430/regulation/1)
 
 [^f00005]: Footnote: [S.R.1983 No 417](https://www.legislation.gov.uk/nisr/1983/417)
 

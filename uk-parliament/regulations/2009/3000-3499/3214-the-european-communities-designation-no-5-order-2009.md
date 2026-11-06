@@ -31,7 +31,7 @@ summary: ''
 
 European Communities
 
-The European Communities (Designation) (No. 5) Order 2009 (revoked)[^key-115ca35d2a03d22917a2a7246bf7c4f2]
+The European Communities (Designation) (No. 5) Order 2009 (revoked)[^c-115ca35d2a03d22917a2a7246bf7c4f2]
 
 Made
 
@@ -51,38 +51,38 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-115ca35d2a03d22917a2a7246bf7c4f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-115ca35d2a03d22917a2a7246bf7c4f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-115ca35d2a03d22917a2a7246bf7c4f2]
+## 1. Citation, commencement and interpretation[^c-115ca35d2a03d22917a2a7246bf7c4f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to market surveillance and marking which indicates that a product is in conformity with requirements of EU legislation[^key-115ca35d2a03d22917a2a7246bf7c4f2]
+## 2. Designation in relation to market surveillance and marking which indicates that a product is in conformity with requirements of EU legislation[^c-115ca35d2a03d22917a2a7246bf7c4f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation in relation to products derived from pinnipeds[^key-115ca35d2a03d22917a2a7246bf7c4f2]
+## 3. Designation in relation to products derived from pinnipeds[^c-115ca35d2a03d22917a2a7246bf7c4f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Designation in relation to changes in terminology or numbering arising out of the Treaty of Lisbon[^key-115ca35d2a03d22917a2a7246bf7c4f2]
+## 4. Designation in relation to changes in terminology or numbering arising out of the Treaty of Lisbon[^c-115ca35d2a03d22917a2a7246bf7c4f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Designation in relation to credit ratings and credit rating agencies[^key-115ca35d2a03d22917a2a7246bf7c4f2]
+## 5. Designation in relation to credit ratings and credit rating agencies[^c-115ca35d2a03d22917a2a7246bf7c4f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Relationship with other designations[^key-115ca35d2a03d22917a2a7246bf7c4f2]
+## 6. Relationship with other designations[^c-115ca35d2a03d22917a2a7246bf7c4f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-115ca35d2a03d22917a2a7246bf7c4f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-115ca35d2a03d22917a2a7246bf7c4f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-115ca35d2a03d22917a2a7246bf7c4f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-115ca35d2a03d22917a2a7246bf7c4f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-115ca35d2a03d22917a2a7246bf7c4f2]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/3214) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-115ca35d2a03d22917a2a7246bf7c4f2]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/3214) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

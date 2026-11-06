@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Police authorisations for additional hours[^key-7a5170b8c2e1fff8ea2d3f44210afed8][^key-8c0b1246f779f82f270c032f72fe8cb7]
+## 5. Police authorisations for additional hours[^c-7a5170b8c2e1fff8ea2d3f44210afed8][^c-8c0b1246f779f82f270c032f72fe8cb7]
 
 *Extent: N.I.*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a5170b8c2e1fff8ea2d3f44210afed8]: Commencement: S. 5 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-7a5170b8c2e1fff8ea2d3f44210afed8]: Commencement: S. 5 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-8c0b1246f779f82f270c032f72fe8cb7]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2021/7/section/5) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-8c0b1246f779f82f270c032f72fe8cb7]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2021/7/section/5) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

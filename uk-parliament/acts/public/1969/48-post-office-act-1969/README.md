@@ -31,7 +31,7 @@ Post Office Act 1969
 
 An Act to abolish the office of master of the Post Office, distribute the business conducted by the holder thereof amongst authorities constituted for the purpose and make provision consequential on the abolition of that office and the distribution of the business so conducted; to amend, replace or repeal certain provisions of the enactments relating to posts, telegraphs and savings banks; to amend the law relating to stamp duty; and to empower the Treasury to dispose of their interest in the shares of Cable and Wireless Limited.
 
-[^key-ae3c5780bacbaba91b79ec0f47e7b367]\[25th July 1969\][^c11849381][^c11849391][^c11849401][^c11849411][^c11849421]
+[^c-ae3c5780bacbaba91b79ec0f47e7b367]\[25th July 1969\][^c11849381][^c11849391][^c11849401][^c11849411][^c11849421]
 
 ## Contents
 
@@ -246,7 +246,7 @@ SCHEDULES
 
 ## Annotations
 
-[^key-ae3c5780bacbaba91b79ec0f47e7b367]: Textual amendment: Act repealed in part (Isle of Man) (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 11(5)
+[^c-ae3c5780bacbaba91b79ec0f47e7b367]: Textual amendment: Act repealed in part (Isle of Man) (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 11(5)
 
 [^c11849381]: Modification: Act amended (1.4.1996) by [S.I. 1996/593](https://www.legislation.gov.uk/uksi/1996/593), [reg. 2](https://www.legislation.gov.uk/uksi/1996/593/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/593/schedule/1)
 

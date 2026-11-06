@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 244. Cost of proceedings[^key-d257348216c124fdbf05b6d4081deff4]
+## 244. Cost of proceedings[^c-d257348216c124fdbf05b6d4081deff4]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d257348216c124fdbf05b6d4081deff4]: Commencement: Rule 244 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-d257348216c124fdbf05b6d4081deff4]: Commencement: Rule 244 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

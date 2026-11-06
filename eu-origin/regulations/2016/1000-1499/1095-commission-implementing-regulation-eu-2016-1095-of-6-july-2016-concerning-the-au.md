@@ -35,46 +35,46 @@ concerning the authorisation of Zinc acetate dihydrate, Zinc chloride anhydrous,
 
 (Text with EEA relevance) (revoked)
 
-[^key-18c39eae837f4060567b934b8f56f250]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-18c39eae837f4060567b934b8f56f250]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-18c39eae837f4060567b934b8f56f250]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendment to Regulation (EC) No 1334/2003[^key-18c39eae837f4060567b934b8f56f250]
+## Article 1. Authorisation[^c-18c39eae837f4060567b934b8f56f250]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment to Regulation (EC) No 479/2006[^key-18c39eae837f4060567b934b8f56f250]
+## Article 2. Amendment to Regulation (EC) No 1334/2003[^c-18c39eae837f4060567b934b8f56f250]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendment to Regulation (EU) No 335/2010[^key-18c39eae837f4060567b934b8f56f250]
+## Article 3. Amendment to Regulation (EC) No 479/2006[^c-18c39eae837f4060567b934b8f56f250]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Amendment to Implementing Regulation (EU) No 991/2012[^key-18c39eae837f4060567b934b8f56f250]
+## Article 4. Amendment to Regulation (EU) No 335/2010[^c-18c39eae837f4060567b934b8f56f250]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Amendment to Implementing Regulation (EU) No 636/2013[^key-18c39eae837f4060567b934b8f56f250]
+## Article 5. Amendment to Implementing Regulation (EU) No 991/2012[^c-18c39eae837f4060567b934b8f56f250]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Transitional measures[^key-18c39eae837f4060567b934b8f56f250]
+## Article 6. Amendment to Implementing Regulation (EU) No 636/2013[^c-18c39eae837f4060567b934b8f56f250]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-18c39eae837f4060567b934b8f56f250]
+## Article 7. Transitional measures[^c-18c39eae837f4060567b934b8f56f250]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-18c39eae837f4060567b934b8f56f250]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 8. Entry into force[^c-18c39eae837f4060567b934b8f56f250]
 
-## ANNEX[^key-18c39eae837f4060567b934b8f56f250]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-18c39eae837f4060567b934b8f56f250]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-18c39eae837f4060567b934b8f56f250]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-18c39eae837f4060567b934b8f56f250]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 205](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/205) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-18c39eae837f4060567b934b8f56f250]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 205](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/205) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

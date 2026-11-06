@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Significant increase in price: products other than alcoholic drink[^key-7b17df2e1657cc3df4e32727908051ef]
+## 5. Significant increase in price: products other than alcoholic drink[^c-7b17df2e1657cc3df4e32727908051ef]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ where—
   - (ii) is supplied under a product tie;
 - (b) “**comparison period non-alcohol products**” means all non-alcohol products invoiced to the tied pub tenant in the comparison period, in the quantities so invoiced, but excluding any non-alcohol product for which no invoice was issued to the tied pub tenant in the current period;
 - (c) “**current period**” means the period of 4 weeks ending with the day on which the relevant invoice is issued;
-- (d) “**the comparison period**” means the period of 4 weeks beginning[^key-db2d016c5fb2bebaf1eb81cb01943251] with the day 12 months before the day on which the relevant invoice is issued;
+- (d) “**the comparison period**” means the period of 4 weeks beginning[^c-db2d016c5fb2bebaf1eb81cb01943251] with the day 12 months before the day on which the relevant invoice is issued;
 - (e) “**current period price**”, in relation to a non-alcohol product, means the price of that product on the last invoice for that product issued during the current period;
 - (f) “**invoice for a non-alcohol product**” includes an invoice which covers (in addition to non-alcohol products) products other than non-alcohol products, or services; and references to a non-alcohol product being invoiced are to be read accordingly;
 - (g) “**the relevant annual percentage change in the consumer price index**” means the annual percentage change in the consumer price index most recently published before the day on which the relevant invoice is issued, in respect of the most recent month covered by that publication.
@@ -62,6 +62,6 @@ where—
 
 ## Annotations
 
-[^key-7b17df2e1657cc3df4e32727908051ef]: Commencement: Reg. 5 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-7b17df2e1657cc3df4e32727908051ef]: Commencement: Reg. 5 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
-[^key-db2d016c5fb2bebaf1eb81cb01943251]: Textual amendment: Word in [reg. 5(4)(d)](https://www.legislation.gov.uk/uksi/2016/790/regulation/5/4/d) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
+[^c-db2d016c5fb2bebaf1eb81cb01943251]: Textual amendment: Word in [reg. 5(4)(d)](https://www.legislation.gov.uk/uksi/2016/790/regulation/5/4/d) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))

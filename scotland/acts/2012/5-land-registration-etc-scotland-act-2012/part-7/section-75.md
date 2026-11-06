@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Extension, limitation or exclusion of warranty[^key-0ee0db7aac4ff915eebef3ef218aa73d]
+## 75. Extension, limitation or exclusion of warranty[^c-0ee0db7aac4ff915eebef3ef218aa73d]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ee0db7aac4ff915eebef3ef218aa73d]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2012/5/section/75) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-0ee0db7aac4ff915eebef3ef218aa73d]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2012/5/section/75) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

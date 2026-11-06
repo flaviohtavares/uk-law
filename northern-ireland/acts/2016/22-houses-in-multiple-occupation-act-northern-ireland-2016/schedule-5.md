@@ -26,7 +26,7 @@ Section 61.
 
 #### Service of notices
 
-**1.**[^key-3db0f4de642dd5c9eeb44189df8fd656] (1) If a council issues a Part 4 notice, the council must serve the notice on—
+**1.**[^c-3db0f4de642dd5c9eeb44189df8fd656] (1) If a council issues a Part 4 notice, the council must serve the notice on—
 
 - (a) any person appearing to the council to be the owner of the HMO, and
 - (b) any person appearing to the council to be a managing agent of the HMO.
@@ -51,7 +51,7 @@ Section 61.
 
 #### Operation of notices
 
-**2.**[^key-78edcb8b7ffb754e3196564abc2eecea] (1) A Part 4 notice becomes operative at the end of the period of 28 days beginning with the date of service of the notice; but this is subject to subparagraphs (2) and (3).
+**2.**[^c-78edcb8b7ffb754e3196564abc2eecea] (1) A Part 4 notice becomes operative at the end of the period of 28 days beginning with the date of service of the notice; but this is subject to subparagraphs (2) and (3).
 
 (2) A notice (other than an emergency hazard notice) becomes operative—
 
@@ -61,11 +61,11 @@ Section 61.
 
 (3) An emergency hazard notice becomes operative on the day on which it is served under paragraph 1(2)(a).
 
-**3.**[^key-191997b715b20b08a905071f54c83bf2] If no appeal is made against a Part 4 notice, the notice is final and conclusive as to any matters which could have been raised on such an appeal.
+**3.**[^c-191997b715b20b08a905071f54c83bf2] If no appeal is made against a Part 4 notice, the notice is final and conclusive as to any matters which could have been raised on such an appeal.
 
 ### Part 2 — Suspension of effect of notices
 
-**4.**[^key-0d53f50f377132cc1b097f3922bb3b03] (1) A Part 4 notice (other than an emergency hazard notice) may provide for the operation of the notice to be suspended until a time, or the occurrence of an event, specified in the notice.
+**4.**[^c-0d53f50f377132cc1b097f3922bb3b03] (1) A Part 4 notice (other than an emergency hazard notice) may provide for the operation of the notice to be suspended until a time, or the occurrence of an event, specified in the notice.
 
 (2) The time specified under sub-paragraph (1) may, in particular, be the time when a person of a particular description begins, or ceases, to occupy any accommodation.
 
@@ -78,7 +78,7 @@ Section 61.
 - (a) which the council considers to be a breach of the undertaking, and
 - (b) which is notified to the person in accordance with the terms of the undertaking.
 
-**5.**[^key-70ba9ce8ea9951e9ff642758b1899800] (1) The council may at any time review a Part 4 notice whose operation is suspended.
+**5.**[^c-70ba9ce8ea9951e9ff642758b1899800] (1) The council may at any time review a Part 4 notice whose operation is suspended.
 
 (2) The council must review such a notice—
 
@@ -91,7 +91,7 @@ Section 61.
 
 #### Variation
 
-**6.**[^key-6ab3809a284f5929d7ac1f122f63b1d1] (1) The council may vary a Part 4 notice in accordance with this paragraph.
+**6.**[^c-6ab3809a284f5929d7ac1f122f63b1d1] (1) The council may vary a Part 4 notice in accordance with this paragraph.
 
 (2) A notice may be varied—
 
@@ -118,7 +118,7 @@ may not be varied under this paragraph (but see paragraph 3 of Schedule 3).
 
 #### Revocation
 
-**7.**[^key-3d6105851a30bb87e072f58995ca9568] (1) The council may, or must, revoke a Part 4 notice in accordance with this paragraph.
+**7.**[^c-3d6105851a30bb87e072f58995ca9568] (1) The council may, or must, revoke a Part 4 notice in accordance with this paragraph.
 
 (2) A notice may be revoked—
 
@@ -144,16 +144,16 @@ may not be varied under this paragraph (but see paragraph 3 of Schedule 3).
 
 ## Annotations
 
-[^key-3db0f4de642dd5c9eeb44189df8fd656]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nia/2016/22/schedule/5/paragraph/1) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-3db0f4de642dd5c9eeb44189df8fd656]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nia/2016/22/schedule/5/paragraph/1) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-78edcb8b7ffb754e3196564abc2eecea]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nia/2016/22/schedule/5/paragraph/2) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-78edcb8b7ffb754e3196564abc2eecea]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nia/2016/22/schedule/5/paragraph/2) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-191997b715b20b08a905071f54c83bf2]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nia/2016/22/schedule/5/paragraph/3) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-191997b715b20b08a905071f54c83bf2]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nia/2016/22/schedule/5/paragraph/3) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-0d53f50f377132cc1b097f3922bb3b03]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nia/2016/22/schedule/5/paragraph/4) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-0d53f50f377132cc1b097f3922bb3b03]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nia/2016/22/schedule/5/paragraph/4) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-70ba9ce8ea9951e9ff642758b1899800]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/nia/2016/22/schedule/5/paragraph/5) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-70ba9ce8ea9951e9ff642758b1899800]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/nia/2016/22/schedule/5/paragraph/5) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-6ab3809a284f5929d7ac1f122f63b1d1]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nia/2016/22/schedule/5/paragraph/6) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-6ab3809a284f5929d7ac1f122f63b1d1]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nia/2016/22/schedule/5/paragraph/6) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
-[^key-3d6105851a30bb87e072f58995ca9568]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/nia/2016/22/schedule/5/paragraph/7) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-3d6105851a30bb87e072f58995ca9568]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/nia/2016/22/schedule/5/paragraph/7) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

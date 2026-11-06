@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Persons qualified to succeed[^key-34598f5a0192c8e04bf9113b80838535]
+## 74. Persons qualified to succeed[^c-34598f5a0192c8e04bf9113b80838535]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34598f5a0192c8e04bf9113b80838535]: Commencement: [S. 74](https://www.legislation.gov.uk/anaw/2016/1/section/74) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-34598f5a0192c8e04bf9113b80838535]: Commencement: [S. 74](https://www.legislation.gov.uk/anaw/2016/1/section/74) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

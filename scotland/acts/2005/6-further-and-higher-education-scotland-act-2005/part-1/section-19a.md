@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19A. Reviews of progress with widening access[^key-e7224d8a26c1abde9f3fcb8a5765fe30]
+## 19A. Reviews of progress with widening access[^c-e7224d8a26c1abde9f3fcb8a5765fe30]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7224d8a26c1abde9f3fcb8a5765fe30]: Textual amendment: S. 19A inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 16](https://www.legislation.gov.uk/asp/2013/12/section/16), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2014/21/article/3/1))
+[^c-e7224d8a26c1abde9f3fcb8a5765fe30]: Textual amendment: S. 19A inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 16](https://www.legislation.gov.uk/asp/2013/12/section/16), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2014/21/article/3/1))

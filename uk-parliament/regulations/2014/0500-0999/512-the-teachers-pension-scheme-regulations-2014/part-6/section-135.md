@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 135. Surviving qualifying partner[^key-d3876fa028049111beb25d5d4118b8c4]
+## 135. Surviving qualifying partner[^c-d3876fa028049111beb25d5d4118b8c4]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3876fa028049111beb25d5d4118b8c4]: Textual amendment: Reg. 135 substituted (with effect from 1.4.2015) by [The Teachers Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(4)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/4), [24](https://www.legislation.gov.uk/uksi/2019/1134/regulation/24)
+[^c-d3876fa028049111beb25d5d4118b8c4]: Textual amendment: Reg. 135 substituted (with effect from 1.4.2015) by [The Teachers Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1)[(4)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/4), [24](https://www.legislation.gov.uk/uksi/2019/1134/regulation/24)

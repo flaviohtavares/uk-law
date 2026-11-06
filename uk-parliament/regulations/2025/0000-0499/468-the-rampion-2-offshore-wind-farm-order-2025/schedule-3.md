@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — STREETS TO BE TEMPORARILY CLOSED[^key-561d0ea42281cf668ef0156b24a52a51]
+## SCHEDULE 3 — STREETS TO BE TEMPORARILY CLOSED[^c-561d0ea42281cf668ef0156b24a52a51]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ Article 11
 
 ## Annotations
 
-[^key-561d0ea42281cf668ef0156b24a52a51]: Commencement: Sch. 3 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-561d0ea42281cf668ef0156b24a52a51]: Commencement: Sch. 3 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

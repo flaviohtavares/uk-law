@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. OFCOM’s fees statements[^key-bc138b6cc2a9cf19b9536b8f8b330fa8][^key-c819869c7e45c4533a74598d70f14e53]
+## 88. OFCOM’s fees statements[^c-bc138b6cc2a9cf19b9536b8f8b330fa8][^c-c819869c7e45c4533a74598d70f14e53]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc138b6cc2a9cf19b9536b8f8b330fa8]: Commencement: S. 88 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-bc138b6cc2a9cf19b9536b8f8b330fa8]: Commencement: S. 88 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-c819869c7e45c4533a74598d70f14e53]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2023/50/section/88) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
+[^c-c819869c7e45c4533a74598d70f14e53]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2023/50/section/88) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)

@@ -47,7 +47,7 @@ The Planning (Northern Ireland) Order 1991
 - [Section 3 — General functions of Department of the Environment with respect to development of land](part-ii/section-3.md)
 - [Section 3A — Statement of community involvement](part-ii/section-3a.md)
 
-### PART III — DEVELOPMENT PLANS[^key-6e9cc897b96316d53717714566f3c1f2]
+### PART III — DEVELOPMENT PLANS[^c-6e9cc897b96316d53717714566f3c1f2]
 
 *Extent: N.I.*
 
@@ -291,7 +291,7 @@ The Planning (Northern Ireland) Order 1991
 - [Section 92 — Recovery of possession of premises let by Department](part-vii/section-92.md)
 - [Section 93 — Supplementary provisions](part-vii/section-93.md)
 
-### PART VIII — PURCHASE OF ESTATES IN CERTAIN LAND AFFECTED BY PLANNING DECISIONS[^key-7d39dfc5be773415347553ce96e2d9a2]
+### PART VIII — PURCHASE OF ESTATES IN CERTAIN LAND AFFECTED BY PLANNING DECISIONS[^c-7d39dfc5be773415347553ce96e2d9a2]
 
 *Extent: N.I.*
 
@@ -313,7 +313,7 @@ The Planning (Northern Ireland) Order 1991
 - [Section 103 — Procedure for making orders under Article 100 or 102](part-ix/section-103.md)
 - [Section 104 — Electronic communications apparatus](part-ix/section-104.md)
 
-### PART X — FURTHER PROVISIONS AS TO HISTORIC BUILDINGS[^key-33ac67093f8b304a82b43a37e62837d6]
+### PART X — FURTHER PROVISIONS AS TO HISTORIC BUILDINGS[^c-33ac67093f8b304a82b43a37e62837d6]
 
 *Extent: N.I.*
 
@@ -406,7 +406,7 @@ SCHEDULES
 
 [^c22528421]: Modification: Order modified by [Waste Management Licensing Regulations (Northern Ireland) 2003 (S.R. 2003/493)](https://www.legislation.gov.uk/nisr/2003/493), [Sch. 3 Pt. I para. 11](https://www.legislation.gov.uk/nisr/2003/493/schedule/3/part/I/paragraph/11) (as substituted (8.4.2011) by [Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [40](https://www.legislation.gov.uk/nisr/2011/127/regulation/40) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2)))
 
-[^key-6e9cc897b96316d53717714566f3c1f2]: Modification: [Pt. III](https://www.legislation.gov.uk/nisi/1991/1220/part/III): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-6e9cc897b96316d53717714566f3c1f2]: Modification: [Pt. III](https://www.legislation.gov.uk/nisi/1991/1220/part/III): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c18020901]: Textual amendment: [2003 NI 8](https://www.legislation.gov.uk/2003/ni8)
 
@@ -422,6 +422,6 @@ SCHEDULES
 
 [^c18021021]: Textual amendment: [2003 NI 8](https://www.legislation.gov.uk/2003/ni8)
 
-[^key-7d39dfc5be773415347553ce96e2d9a2]: Textual amendment: Pt. VIII repealed (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-7d39dfc5be773415347553ce96e2d9a2]: Textual amendment: Pt. VIII repealed (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
-[^key-33ac67093f8b304a82b43a37e62837d6]: Textual amendment: Pt. X repealed (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-33ac67093f8b304a82b43a37e62837d6]: Textual amendment: Pt. X repealed (1.4.2015) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 7](https://www.legislation.gov.uk/nia/2011/25/schedule/7) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

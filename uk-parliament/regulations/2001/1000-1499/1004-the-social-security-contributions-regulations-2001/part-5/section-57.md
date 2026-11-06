@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In calculating the amount of any return of contributions to be made under regulation 52, 52A[^key-19c150f0bb45c75275c4360b0a0b4d1e], 55, 55A[^key-03a6a2ba08cb34f4975c6bab59b1812d] or 56, there shall be deducted—
+(1) In calculating the amount of any return of contributions to be made under regulation 52, 52A[^c-19c150f0bb45c75275c4360b0a0b4d1e], 55, 55A[^c-03a6a2ba08cb34f4975c6bab59b1812d] or 56, there shall be deducted—
 
 - (a) the amount of any contribution which has under regulation 51 been treated as paid on account of other contributions;
-- (b) in the case of such contributions paid in error in respect of any person, the amount, if any, paid to that person (and to any other person on the basis of that error) by way of contributory benefit which would not have been paid had any of the contributions (in respect of which an application for their return is duly made in accordance with regulation 52(8)[^key-f549fbabb1c941327a4d06b436cb77bf]) not been paid in the first instance;
+- (b) in the case of such contributions paid in error in respect of any person, the amount, if any, paid to that person (and to any other person on the basis of that error) by way of contributory benefit which would not have been paid had any of the contributions (in respect of which an application for their return is duly made in accordance with regulation 52(8)[^c-f549fbabb1c941327a4d06b436cb77bf]) not been paid in the first instance;
 - (c) the amount of any contributions equivalent premium payable under Chapter III of Part III of the Pensions Act [^c17675461];
 - (d) the amount of any minimum contributions paid by the Board under section 43 of the Pensions Act [^c17675471] (minimum contributions to personal pension schemes);
 - (e) the amount of any payment made by the Board under section 7 of the Social Security Act 1986 [^c17675481] (schemes becoming contracted-out between 1986 and 1993); and
@@ -43,11 +43,11 @@ Here—**CB** is the amount of contributory benefit specified in paragraph (1)(b
 
 ## Annotations
 
-[^key-19c150f0bb45c75275c4360b0a0b4d1e]: Textual amendment: Words in reg. 57(1) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2004/770/regulation/14/a)
+[^c-19c150f0bb45c75275c4360b0a0b4d1e]: Textual amendment: Words in reg. 57(1) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2004/770/regulation/14/a)
 
-[^key-03a6a2ba08cb34f4975c6bab59b1812d]: Textual amendment: Words in reg. 57(1) inserted (6.4.2011) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2011 (S.I. 2011/797)](https://www.legislation.gov.uk/uksi/2011/797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/797/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/797/regulation/5)
+[^c-03a6a2ba08cb34f4975c6bab59b1812d]: Textual amendment: Words in reg. 57(1) inserted (6.4.2011) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2011 (S.I. 2011/797)](https://www.legislation.gov.uk/uksi/2011/797), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/797/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/797/regulation/5)
 
-[^key-f549fbabb1c941327a4d06b436cb77bf]: Textual amendment: Words in reg. 57(1)(b) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2004/770/regulation/14/b)
+[^c-f549fbabb1c941327a4d06b436cb77bf]: Textual amendment: Words in reg. 57(1)(b) substituted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2004/770/regulation/14/b)
 
 [^c17675461]: Textual amendment: References to “contributions equivalent premiums” are substituted for those to “limited revaluation premiums” by the Pensions Act 1995 (see, in particular, section 141(1) of that Act).
 

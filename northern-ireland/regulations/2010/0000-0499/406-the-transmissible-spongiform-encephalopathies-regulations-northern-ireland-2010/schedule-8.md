@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 8 — RESTRICTIONS ON PLACING ON THE MARKET AND EXPORT[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+## SCHEDULE 8 — RESTRICTIONS ON PLACING ON THE MARKET AND EXPORT[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 *Extent: N.I.*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Regulation 5
 
-### 1. Placing on the market or export to third countries of bovine products[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 1. Placing on the market or export to third countries of bovine products[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Placing on the market or export to third countries of bovine animals[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 2. Placing on the market or export to third countries of bovine animals[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Export to a member State of heads and un-split carcases[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 3. Export to a member State of heads and un-split carcases[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Export to third countries of products containing specified risk material[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 4. Export to third countries of products containing specified risk material[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Further offences relating to placing on the market and export[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+### 5. Further offences relating to placing on the market and export[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2dc59261ad8b5acd30925da2b6ce00d3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/406) revoked with savings (3.1.2019) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2018 (S.R. 2018/213)](https://www.legislation.gov.uk/nisr/2018/213), [reg. 22](https://www.legislation.gov.uk/nisr/2018/213/regulation/22) (with [reg. 23](https://www.legislation.gov.uk/nisr/2018/213/regulation/23))
+[^c-2dc59261ad8b5acd30925da2b6ce00d3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/406) revoked with savings (3.1.2019) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2018 (S.R. 2018/213)](https://www.legislation.gov.uk/nisr/2018/213), [reg. 22](https://www.legislation.gov.uk/nisr/2018/213/regulation/22) (with [reg. 23](https://www.legislation.gov.uk/nisr/2018/213/regulation/23))

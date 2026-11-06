@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Video recorded evidence in chief: supplementary testimony[^key-5cd416918bafd43adf4350c945e03fcc]
+## 103. Video recorded evidence in chief: supplementary testimony[^c-5cd416918bafd43adf4350c945e03fcc]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cd416918bafd43adf4350c945e03fcc]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2009/25/section/103) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)
+[^c-5cd416918bafd43adf4350c945e03fcc]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2009/25/section/103) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/a)

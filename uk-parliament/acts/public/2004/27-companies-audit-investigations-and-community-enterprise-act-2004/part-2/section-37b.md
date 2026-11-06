@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37B. Becoming a community interest company: notice to registrar of court application or order[^key-1680c648a2f767a81f166aa0e187e8b3]
+## 37B. Becoming a community interest company: notice to registrar of court application or order[^c-1680c648a2f767a81f166aa0e187e8b3]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ This is without prejudice to any provision of rules of court as to service of no
 
 ## Annotations
 
-[^key-1680c648a2f767a81f166aa0e187e8b3]: Textual amendment: Ss. 37-37C substituted for s. 37 (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 227(1)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/227/1) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-1680c648a2f767a81f166aa0e187e8b3]: Textual amendment: Ss. 37-37C substituted for s. 37 (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 227(1)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/227/1) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

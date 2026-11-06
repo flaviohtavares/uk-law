@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Section 86 of the Act of 1962 (application of Town and Country Planning Acts) shall have effect as if the expression “Board" therein included each of the new authorities and the Executive for any area which is an integrated transport area or *(Extent: E+W)*[^key-85f3b084058128f2156920ce06e65700] a passenger transport area for the purposes of Part II.
+(1) Section 86 of the Act of 1962 (application of Town and Country Planning Acts) shall have effect as if the expression “Board" therein included each of the new authorities and the Executive for any area which is an integrated transport area or *(Extent: E+W)*[^c-85f3b084058128f2156920ce06e65700] a passenger transport area for the purposes of Part II.
 
 (2) Where in the case of any company—
 
@@ -44,7 +44,7 @@ the said section 86 shall have effect as if the expression “Board" therein inc
 
 [^c15336871]: Modification: S. 141 amended by [Transport (London) Act 1969 (c. 35)](https://www.legislation.gov.uk/ukpga/1969/35), [Sch. 3 para 1(1)(2)](https://www.legislation.gov.uk/ukpga/1969/35/schedule/3/paragraph/1/1/2)
 
-[^key-85f3b084058128f2156920ce06e65700]: Textual amendment: Words in s. 141(1) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/15); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-85f3b084058128f2156920ce06e65700]: Textual amendment: Words in s. 141(1) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/15); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
 [^c15336891]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 22(4)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/22/4)
 

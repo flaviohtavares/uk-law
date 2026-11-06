@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 129. Principal court rules and practice to apply[^key-a77fc2b71e4befdd32d4725ad24327d5]
+## 129. Principal court rules and practice to apply[^c-a77fc2b71e4befdd32d4725ad24327d5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a77fc2b71e4befdd32d4725ad24327d5]: Commencement: Rule 129 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-a77fc2b71e4befdd32d4725ad24327d5]: Commencement: Rule 129 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

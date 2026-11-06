@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Crown application[^key-76bb3ece7792fa4d00a3dd6a55201df9]
+## 35. Crown application[^c-76bb3ece7792fa4d00a3dd6a55201df9]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76bb3ece7792fa4d00a3dd6a55201df9]: Commencement: S. 35 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-76bb3ece7792fa4d00a3dd6a55201df9]: Commencement: S. 35 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

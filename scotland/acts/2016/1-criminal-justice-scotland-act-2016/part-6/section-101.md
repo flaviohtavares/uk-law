@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Training for appropriate adults[^key-855b45a93b9cf659b89ffc0d2565d5d5]
+## 101. Training for appropriate adults[^c-855b45a93b9cf659b89ffc0d2565d5d5]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ The Scottish Ministers may by regulations—
 
 ## Annotations
 
-[^key-855b45a93b9cf659b89ffc0d2565d5d5]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2016/1/section/101) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-855b45a93b9cf659b89ffc0d2565d5d5]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2016/1/section/101) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Power to take emergency action[^key-743db5746c3545433c125feb9594f81f]
+## 21. Power to take emergency action[^c-743db5746c3545433c125feb9594f81f]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ were omitted.
 
 ## Annotations
 
-[^key-743db5746c3545433c125feb9594f81f]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2013/6/section/21) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-743db5746c3545433c125feb9594f81f]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2013/6/section/21) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

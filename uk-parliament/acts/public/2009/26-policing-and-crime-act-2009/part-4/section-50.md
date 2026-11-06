@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Review of operation of this Part[^key-20b179c791d13b979e6a33780a125cfb]
+## 50. Review of operation of this Part[^c-20b179c791d13b979e6a33780a125cfb]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20b179c791d13b979e6a33780a125cfb]: Commencement: S. 50 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
+[^c-20b179c791d13b979e6a33780a125cfb]: Commencement: S. 50 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)

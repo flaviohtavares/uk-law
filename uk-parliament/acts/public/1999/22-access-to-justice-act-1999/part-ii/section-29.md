@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Recovery of insurance premiums by way of costs.[^key-bad44b13a518a6bdbce0f77fd6aa98eb]
+## 29. Recovery of insurance premiums by way of costs.[^c-bad44b13a518a6bdbce0f77fd6aa98eb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bad44b13a518a6bdbce0f77fd6aa98eb]: Textual amendment: S. 29 omitted (19.1.2013 for specified purposes, 1.4.2013 except in relation to specified proceedings, 6.4.2016 in so far as not already in force except in relation to proceedings relating to a claim for damages in respect of diffuse mesothelioma and publication and privacy proceedings) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/46/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2012/10/section/46/3), [48](https://www.legislation.gov.uk/ukpga/2012/10/section/48)); [S.I. 2013/77](https://www.legislation.gov.uk/uksi/2013/77), [arts. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/77/article/2/1/c), [3(c)](https://www.legislation.gov.uk/uksi/2013/77/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/77/article/4)); [S.I. 2016/345](https://www.legislation.gov.uk/uksi/2016/345), [art. 2](https://www.legislation.gov.uk/uksi/2016/345/article/2)
+[^c-bad44b13a518a6bdbce0f77fd6aa98eb]: Textual amendment: S. 29 omitted (19.1.2013 for specified purposes, 1.4.2013 except in relation to specified proceedings, 6.4.2016 in so far as not already in force except in relation to proceedings relating to a claim for damages in respect of diffuse mesothelioma and publication and privacy proceedings) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/46/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1) (with [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2012/10/section/46/3), [48](https://www.legislation.gov.uk/ukpga/2012/10/section/48)); [S.I. 2013/77](https://www.legislation.gov.uk/uksi/2013/77), [arts. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/77/article/2/1/c), [3(c)](https://www.legislation.gov.uk/uksi/2013/77/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/77/article/4)); [S.I. 2016/345](https://www.legislation.gov.uk/uksi/2016/345), [art. 2](https://www.legislation.gov.uk/uksi/2016/345/article/2)

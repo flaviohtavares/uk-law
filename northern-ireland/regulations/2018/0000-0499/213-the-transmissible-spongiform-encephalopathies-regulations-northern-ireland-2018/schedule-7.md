@@ -24,7 +24,7 @@ Regulation 6(g)
 
 ### 1. Appointment of the Food Standards Agency as the competent authority
 
-The Food Standards Agency must carry out the duties [^key-5cbf0385a46f147a15c842ae95c79d74]... in point 11(1) and point 11(2) of Annex V in relation to this Schedule and may grant authorisations for the purposes of point 4(3)(a) of that Annex.
+The Food Standards Agency must carry out the duties [^c-5cbf0385a46f147a15c842ae95c79d74]... in point 11(1) and point 11(2) of Annex V in relation to this Schedule and may grant authorisations for the purposes of point 4(3)(a) of that Annex.
 
 ### 2. Training
 
@@ -198,6 +198,6 @@ It is an offence to sell, supply or possess for sale or supply—
 
 ## Annotations
 
-[^key-5cbf0385a46f147a15c842ae95c79d74]: Textual amendment: Words in [Sch. 7 para. 1](https://www.legislation.gov.uk/nisr/2018/213/schedule/7/paragraph/1) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/273)](https://www.legislation.gov.uk/uksi/2019/273), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/273/regulation/1/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2019/273/regulation/4/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5cbf0385a46f147a15c842ae95c79d74]: Textual amendment: Words in [Sch. 7 para. 1](https://www.legislation.gov.uk/nisr/2018/213/schedule/7/paragraph/1) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/273)](https://www.legislation.gov.uk/uksi/2019/273), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/273/regulation/1/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2019/273/regulation/4/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23700531]: Marginal citation: O.J. No. L 204, 11.8.2000, p.1, last amended by Regulation (EU) No. 653/2014 of the European Parliament and of the Council (O.J. No. L189, 27.06.2014, p.33)

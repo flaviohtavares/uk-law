@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 76. Review[^key-ea7400d4c7807313e133b852f0a40948]
+## 76. Review[^c-ea7400d4c7807313e133b852f0a40948]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea7400d4c7807313e133b852f0a40948]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2014/3248/regulation/76) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-ea7400d4c7807313e133b852f0a40948]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2014/3248/regulation/76) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
 
 [^f00026]: Footnote: OJ No L 404, 31.12.92, p10.

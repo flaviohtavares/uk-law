@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.35.4. Attachment of power of arrest[^key-cf33d0e2a05e24828510d94ab6800104]
+## 3.35.4. Attachment of power of arrest[^c-cf33d0e2a05e24828510d94ab6800104]
 
 *Extent: S*
 
@@ -36,10 +36,10 @@ summary: ''
   - (ii) a copy of the interlocutor granting it; and
   - (iii) a copy of the certificate of service of the power of arrest and the documents that required to be served along with it in accordance with section 25(2).
 
-(3)[^key-215da04b591523d5ce7120955cc17022] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-215da04b591523d5ce7120955cc17022] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf33d0e2a05e24828510d94ab6800104]: Textual amendment: Ch. 3 Pt. 35 inserted (29.10.2008) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Adult Support and Protection (Scotland) Act 2007) (No.2) 2008 (S.S.I. 2008/335)](https://www.legislation.gov.uk/ssi/2008/335), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2008/335/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/335/paragraph/2/2)
+[^c-cf33d0e2a05e24828510d94ab6800104]: Textual amendment: Ch. 3 Pt. 35 inserted (29.10.2008) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Adult Support and Protection (Scotland) Act 2007) (No.2) 2008 (S.S.I. 2008/335)](https://www.legislation.gov.uk/ssi/2008/335), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2008/335/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/335/paragraph/2/2)
 
-[^key-215da04b591523d5ce7120955cc17022]: Textual amendment: Rule 3.35.4(3) omitted (20.11.2008) by virtue of [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Adult Support and Protection (Scotland) Act 2007) (No. 3) 2008 (S.S.I. 2008/375)](https://www.legislation.gov.uk/ssi/2008/375), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2008/375/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/375/paragraph/2/2)
+[^c-215da04b591523d5ce7120955cc17022]: Textual amendment: Rule 3.35.4(3) omitted (20.11.2008) by virtue of [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Adult Support and Protection (Scotland) Act 2007) (No. 3) 2008 (S.S.I. 2008/375)](https://www.legislation.gov.uk/ssi/2008/375), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2008/375/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2008/375/paragraph/2/2)

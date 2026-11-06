@@ -36,7 +36,7 @@ An Act to make provision for an entitlement to paid safe leave for victims of do
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Safe leave for victims of domestic abuse[^key-e8d8efd437ae3c5fecf9ea783e081af6]
+## 1. Safe leave for victims of domestic abuse[^c-e8d8efd437ae3c5fecf9ea783e081af6]
 
 **Not yet in force.**
 
@@ -150,7 +150,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (2) In Article 251(1A) of that Order (regulations that are subject to approval by the Assembly), after “112BAA,” insert “112EG,”.
 
-## 2. Reports[^key-0eb6adadb090df5e1151faae8dce1206]
+## 2. Reports[^c-0eb6adadb090df5e1151faae8dce1206]
 
 **Not yet in force.**
 
@@ -163,7 +163,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (3) In making a report under this section, the Department must consult such persons or organisations as it considers appropriate.
 
-## 3. Guidance[^key-58eddc66d24122c01d2a975dcca90ea1]
+## 3. Guidance[^c-58eddc66d24122c01d2a975dcca90ea1]
 
 **Not yet in force.**
 
@@ -171,7 +171,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (2) The Department must review the guidance from time to time and issue revised guidance where the Department thinks it appropriate.
 
-## 4. Power to make consequential etc. provision[^key-2515bfb225b69bf054ac475d2430446a]
+## 4. Power to make consequential etc. provision[^c-2515bfb225b69bf054ac475d2430446a]
 
 (1) The Department for the Economy may by regulations make provision in consequence of, or for giving full effect to, this Act.
 
@@ -186,7 +186,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (5) The power conferred by this section is not restricted by any other provision of this Act.
 
-## 5. Commencement[^key-da03184e958939cb8e493a8ef0abe736]
+## 5. Commencement[^c-da03184e958939cb8e493a8ef0abe736]
 
 (1) Sections 1 to 3 come into operation on such day or days as the Department for the Economy may by order appoint.
 
@@ -194,20 +194,20 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (3) An order under this section may make such transitory or transitional provision, or savings, as the Department considers necessary or expedient.
 
-## 6. Short title[^key-75c78cc4f9fd95f0c40d51d1c46d701c]
+## 6. Short title[^c-75c78cc4f9fd95f0c40d51d1c46d701c]
 
 This Act may be cited as the Domestic Abuse (Safe Leave) Act (Northern Ireland) 2022.
 
 ## Annotations
 
-[^key-e8d8efd437ae3c5fecf9ea783e081af6]: Commencement: S. 1 not in operation at Royal Assent, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/27/section/5/1)
+[^c-e8d8efd437ae3c5fecf9ea783e081af6]: Commencement: S. 1 not in operation at Royal Assent, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/27/section/5/1)
 
-[^key-0eb6adadb090df5e1151faae8dce1206]: Commencement: S. 2 not in operation at Royal Assent, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/27/section/5/1)
+[^c-0eb6adadb090df5e1151faae8dce1206]: Commencement: S. 2 not in operation at Royal Assent, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/27/section/5/1)
 
-[^key-58eddc66d24122c01d2a975dcca90ea1]: Commencement: S. 3 not in operation at Royal Assent, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/27/section/5/1)
+[^c-58eddc66d24122c01d2a975dcca90ea1]: Commencement: S. 3 not in operation at Royal Assent, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/27/section/5/1)
 
-[^key-2515bfb225b69bf054ac475d2430446a]: Commencement: S. 4 in operation at 13.5.2022, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/27/section/5/2)
+[^c-2515bfb225b69bf054ac475d2430446a]: Commencement: S. 4 in operation at 13.5.2022, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/27/section/5/2)
 
-[^key-da03184e958939cb8e493a8ef0abe736]: Commencement: S. 5 in operation at 13.5.2022, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/27/section/5/2)
+[^c-da03184e958939cb8e493a8ef0abe736]: Commencement: S. 5 in operation at 13.5.2022, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/27/section/5/2)
 
-[^key-75c78cc4f9fd95f0c40d51d1c46d701c]: Commencement: S. 6 in operation at 13.5.2022, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/27/section/5/2)
+[^c-75c78cc4f9fd95f0c40d51d1c46d701c]: Commencement: S. 6 in operation at 13.5.2022, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/27/section/5/2)

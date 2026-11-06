@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 37. Advisory committees: functions[^key-ede660225e61e35506d3c2bc0b9dd013]
+## 37. Advisory committees: functions[^c-ede660225e61e35506d3c2bc0b9dd013]
 
 *Extent: E*
 
@@ -55,7 +55,7 @@ summary: ''
 - (a) take action to encourage the care and appreciation of places of worship, churchyards and burial grounds and the contents of such places, and
 - (b) for that purpose, publicise methods of conservation, repair, construction, adaptation and redevelopment.
 
-(7A)[^key-3ccc143b41b3ef546d2ef4d407110528] Where rules require a relevant person to carry out consultation, the relevant person may delegate the discharge of that function to the advisory committee.
+(7A)[^c-3ccc143b41b3ef546d2ef4d407110528] Where rules require a relevant person to carry out consultation, the relevant person may delegate the discharge of that function to the advisory committee.
 
 (8) The advisory committee must carry out such other functions—
 
@@ -65,7 +65,7 @@ summary: ''
 
 (9) In carrying out its functions, the committee or any sub-committee it has must have due regard to the rites and ceremonies of the Church of England.
 
-(9A)[^key-c6dec64bc6fdbbb75cf548d2698bca02] The committee may delegate the exercise of any of its functions to an officer of the committee.
+(9A)[^c-c6dec64bc6fdbbb75cf548d2698bca02] The committee may delegate the exercise of any of its functions to an officer of the committee.
 
 (10) Any expenses incurred for enabling the committee to carry out its functions properly and effectively, and which were approved by the diocesan board of finance before being incurred, are to be paid by the board.
 
@@ -73,8 +73,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ede660225e61e35506d3c2bc0b9dd013]: Commencement: S. 37 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-ede660225e61e35506d3c2bc0b9dd013]: Commencement: S. 37 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-3ccc143b41b3ef546d2ef4d407110528]: Textual amendment: [S. 37(7A)](https://www.legislation.gov.uk/ukcm/2018/3/section/37/7A) inserted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 13(2)](https://www.legislation.gov.uk/ukcm/2024/1/section/13/2), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-3ccc143b41b3ef546d2ef4d407110528]: Textual amendment: [S. 37(7A)](https://www.legislation.gov.uk/ukcm/2018/3/section/37/7A) inserted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 13(2)](https://www.legislation.gov.uk/ukcm/2024/1/section/13/2), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
 
-[^key-c6dec64bc6fdbbb75cf548d2698bca02]: Textual amendment: [S. 37(9A)](https://www.legislation.gov.uk/ukcm/2018/3/section/37/9A) inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 12(1)](https://www.legislation.gov.uk/ukcm/2018/7/section/12/1), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/k)
+[^c-c6dec64bc6fdbbb75cf548d2698bca02]: Textual amendment: [S. 37(9A)](https://www.legislation.gov.uk/ukcm/2018/3/section/37/9A) inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 12(1)](https://www.legislation.gov.uk/ukcm/2018/7/section/12/1), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/k)

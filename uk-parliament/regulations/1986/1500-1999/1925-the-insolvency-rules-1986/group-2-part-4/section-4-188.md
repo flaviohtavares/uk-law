@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.188. Communication of disclaimer to persons interested[^key-3e40ad6b848c64fa5b3732008a95780f]
+## 4.188. Communication of disclaimer to persons interested[^c-3e40ad6b848c64fa5b3732008a95780f]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ But compliance with this paragraph is not required if—
 
 ## Annotations
 
-[^key-3e40ad6b848c64fa5b3732008a95780f]: Commencement: [Rule 4.188](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.188) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-3e40ad6b848c64fa5b3732008a95780f]: Commencement: [Rule 4.188](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.188) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00103]: Marginal citation: \[FORM 4.53\]

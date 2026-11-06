@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Planning permission[^key-4bccf70a8204da8da12401cbae73554b]
+## 6. Planning permission[^c-4bccf70a8204da8da12401cbae73554b]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4bccf70a8204da8da12401cbae73554b]: Commencement: Art. 6 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-4bccf70a8204da8da12401cbae73554b]: Commencement: Art. 6 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
 [^f00046]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596).

@@ -24,7 +24,7 @@ summary: ''
 
 ### Application of schedule
 
-**1.**[^key-c8d6ce990486faed49c2aede0d867604] This schedule applies where—
+**1.**[^c-c8d6ce990486faed49c2aede0d867604] This schedule applies where—
 
 - (a) property seized by a British sea-fishery officer in the exercise of any power conferred by the sea fisheries legislation is being retained by the Scottish Ministers,
 - (b) the Scottish Ministers are satisfied that there are reasonable grounds for believing that the property is liable to forfeiture under section 46 or 47, and
@@ -35,7 +35,7 @@ summary: ''
 
 ### Notice of intended forfeiture
 
-**2.**[^key-de5b0ecd8a04c5f36695e6a61c12e5e5] (1) The Scottish Ministers must serve notice of the intended forfeiture of the property (“notice of intended forfeiture”) on each of the following—
+**2.**[^c-de5b0ecd8a04c5f36695e6a61c12e5e5] (1) The Scottish Ministers must serve notice of the intended forfeiture of the property (“notice of intended forfeiture”) on each of the following—
 
 - (a) every person who appears to the Scottish Ministers to have been an owner of the property at the time of its seizure,
 - (b) in the case of property seized on board a vessel, the master, owner and charterer (if any) of the vessel at that time,
@@ -63,7 +63,7 @@ the reference in sub-paragraph (1) to a requirement to serve notice of intended 
 
 ### Notice of claim
 
-**3.**[^key-7441f1c8e8b4e658646dc1eee3a78955] (1) A person claiming that the property is not liable to forfeiture under section 46 or 47 must serve notice of the claim (a “notice of claim”) on the Scottish Ministers.
+**3.**[^c-7441f1c8e8b4e658646dc1eee3a78955] (1) A person claiming that the property is not liable to forfeiture under section 46 or 47 must serve notice of the claim (a “notice of claim”) on the Scottish Ministers.
 
 (2) A notice of claim must be served—
 
@@ -79,26 +79,26 @@ the reference in sub-paragraph (1) to a requirement to serve notice of intended 
 
 ### Automatic forfeiture in a case where no claim is made
 
-**4.**[^key-b6c22ff1a37873ab3fccf7f8cd2604e9] The property is taken to be forfeited if—
+**4.**[^c-b6c22ff1a37873ab3fccf7f8cd2604e9] The property is taken to be forfeited if—
 
 - (a) by the end of the period for the serving of a notice of claim in respect of the property, no notice of claim has been served on the Scottish Ministers, or
 - (b) a notice of claim has been served which does not comply with the requirements of paragraph 3.
 
 ### Decision whether to apply for order forfeiting property
 
-**5.**[^key-82556c703f7dd8cc30b1f8e8f7ecabb8] (1) Where a notice of claim in respect of the property is duly served in accordance with paragraph 3, the Scottish Ministers must decide whether to make an application to a sheriff for an order forfeiting the property (a “forfeiture application”).
+**5.**[^c-82556c703f7dd8cc30b1f8e8f7ecabb8] (1) Where a notice of claim in respect of the property is duly served in accordance with paragraph 3, the Scottish Ministers must decide whether to make an application to a sheriff for an order forfeiting the property (a “forfeiture application”).
 
 (2) The decision whether to make such an application must be taken as soon as reasonably practicable after receipt of the notice of claim.
 
 ### Return of property if no application made to the sheriff
 
-**6.**[^key-186e8ce230a3af4ccc80887380be0c2b] (1) If, in a case in which a notice of claim has been duly served, the Scottish Ministers decide not to make a forfeiture application in respect of the property, they must return the property to a person appearing to them to be an owner of the property.
+**6.**[^c-186e8ce230a3af4ccc80887380be0c2b] (1) If, in a case in which a notice of claim has been duly served, the Scottish Ministers decide not to make a forfeiture application in respect of the property, they must return the property to a person appearing to them to be an owner of the property.
 
 (2) The property must be returned as soon as reasonably practicable after the decision not to make a forfeiture application.
 
 ### Forfeiture applications
 
-**7.**[^key-d449f0a933d6834f72fff0f64e79bf99] (1) This paragraph applies if, in a case in which a notice of claim has been duly served, the Scottish Ministers decide to make a forfeiture application in respect of the property.
+**7.**[^c-d449f0a933d6834f72fff0f64e79bf99] (1) This paragraph applies if, in a case in which a notice of claim has been duly served, the Scottish Ministers decide to make a forfeiture application in respect of the property.
 
 (2) A forfeiture application is to be made by way of summary application.
 
@@ -108,17 +108,17 @@ the reference in sub-paragraph (1) to a requirement to serve notice of intended 
 
 ### Appeal against sheriff's decision on forfeiture application
 
-**8.**[^key-32750c813eab6ed9cfe6e26929b76695] (1) Either party may appeal against the decision of the sheriff on a forfeiture application to the sheriff principal.
+**8.**[^c-32750c813eab6ed9cfe6e26929b76695] (1) Either party may appeal against the decision of the sheriff on a forfeiture application to the sheriff principal.
 
 (2) Where an appeal has been made to the sheriff principal, the property is to be retained by the Scottish Ministers pending final determination of the appeal.
 
 ### Effect of forfeiture
 
-**9.**[^key-8c2c8859f684a81c7a3687703f7be094] Where property is taken to be forfeited under this schedule or the property's forfeiture is ordered by the sheriff under this schedule, the forfeiture is to be treated as having taken effect as from the time of the seizure of the property.
+**9.**[^c-8c2c8859f684a81c7a3687703f7be094] Where property is taken to be forfeited under this schedule or the property's forfeiture is ordered by the sheriff under this schedule, the forfeiture is to be treated as having taken effect as from the time of the seizure of the property.
 
 ### Disposal of property which is not returned
 
-**10.**[^key-09e3c866e5e140606627c532d32a68b2] (1) This paragraph applies where any property is required to be returned to a person under this schedule.
+**10.**[^c-09e3c866e5e140606627c532d32a68b2] (1) This paragraph applies where any property is required to be returned to a person under this schedule.
 
 (2) If the property is still in the Scottish Ministers' possession after the end of the period of 3 months beginning with the day after the requirement to return it arose, the Scottish Ministers may dispose of it in any manner they think fit.
 
@@ -126,7 +126,7 @@ the reference in sub-paragraph (1) to a requirement to serve notice of intended 
 
 ### Provisions as to proof
 
-**11.**[^key-e01df1d5b0a52a2acd19abf3725e55c7] (1) In proceedings on a forfeiture application under this schedule in relation to any property, the fact, form and manner of the seizure of the property are to be taken, without further evidence and unless the contrary is shown, to have been as set out in the application.
+**11.**[^c-e01df1d5b0a52a2acd19abf3725e55c7] (1) In proceedings on a forfeiture application under this schedule in relation to any property, the fact, form and manner of the seizure of the property are to be taken, without further evidence and unless the contrary is shown, to have been as set out in the application.
 
 (2) In any proceedings, the production of—
 
@@ -137,7 +137,7 @@ is sufficient evidence of the forfeiture of property by the sheriff under this s
 
 ### Power to destroy fish before forfeiture
 
-**12.**[^key-42feed75ad55e2d1710c6181f3b78347] (1) The Scottish Ministers may destroy any fish which they consider to be liable to forfeiture under section 47 even if the fish are not yet taken to be forfeited under this schedule and their forfeiture has not yet been ordered by the sheriff under this schedule.
+**12.**[^c-42feed75ad55e2d1710c6181f3b78347] (1) The Scottish Ministers may destroy any fish which they consider to be liable to forfeiture under section 47 even if the fish are not yet taken to be forfeited under this schedule and their forfeiture has not yet been ordered by the sheriff under this schedule.
 
 (2) If, in proceedings on a forfeiture application under this schedule, the sheriff is not satisfied that any fish destroyed under this paragraph were liable to forfeiture under section 47, the Scottish Ministers must, if requested to do so, pay to the claimant a sum of money equal to the market value of the fish at the time of their seizure.
 
@@ -149,7 +149,7 @@ is sufficient evidence of the forfeiture of property by the sheriff under this s
 
 ### Power to return shellfish to the sea before forfeiture
 
-**13.**[^key-b55e87e5493d95df2834dd6781a68ed9] (1) This paragraph applies to any shellfish—
+**13.**[^c-b55e87e5493d95df2834dd6781a68ed9] (1) This paragraph applies to any shellfish—
 
 - (a) seized by a British sea-fishery officer in the exercise of any power conferred by the sea fisheries legislation, and
 - (b) which the officer considers to be liable to forfeiture under section 47.
@@ -169,28 +169,28 @@ is sufficient evidence of the forfeiture of property by the sheriff under this s
 
 ## Annotations
 
-[^key-c8d6ce990486faed49c2aede0d867604]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/1) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-c8d6ce990486faed49c2aede0d867604]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/1) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-de5b0ecd8a04c5f36695e6a61c12e5e5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/2) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-de5b0ecd8a04c5f36695e6a61c12e5e5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/2) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-7441f1c8e8b4e658646dc1eee3a78955]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/3) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-7441f1c8e8b4e658646dc1eee3a78955]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/3) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-b6c22ff1a37873ab3fccf7f8cd2604e9]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/4) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-b6c22ff1a37873ab3fccf7f8cd2604e9]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/4) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-82556c703f7dd8cc30b1f8e8f7ecabb8]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/5) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-82556c703f7dd8cc30b1f8e8f7ecabb8]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/5) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-186e8ce230a3af4ccc80887380be0c2b]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/6) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-186e8ce230a3af4ccc80887380be0c2b]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/6) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-d449f0a933d6834f72fff0f64e79bf99]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/7) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-d449f0a933d6834f72fff0f64e79bf99]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/7) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-32750c813eab6ed9cfe6e26929b76695]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/8) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-32750c813eab6ed9cfe6e26929b76695]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/8) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-8c2c8859f684a81c7a3687703f7be094]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/9) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-8c2c8859f684a81c7a3687703f7be094]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/9) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-09e3c866e5e140606627c532d32a68b2]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/10) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-09e3c866e5e140606627c532d32a68b2]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/10) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-e01df1d5b0a52a2acd19abf3725e55c7]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/11) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-e01df1d5b0a52a2acd19abf3725e55c7]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/11) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-42feed75ad55e2d1710c6181f3b78347]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/12) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-42feed75ad55e2d1710c6181f3b78347]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/12) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-b55e87e5493d95df2834dd6781a68ed9]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/13) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-b55e87e5493d95df2834dd6781a68ed9]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2013/7/schedule/2/paragraph/13) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

@@ -39,12 +39,12 @@ the Board may, as the case requires, determine the amount of the tax or determin
 (4) A certificate under this section shall not discharge any person from tax in case of fraud or failure to disclose material facts and shall not affect any further tax—
 
 - (a) that may afterwards be shown to be payable by virtue of section 93, 142, 143, 144 or 145 above,
-- (aa)[^c21430481] that may afterwards be shown to be payable by reason of too great an increase having been made under section 8A(3) or 124E(5)[^key-b470e95da9691d4e905d6a93b72f636f], or
+- (aa)[^c21430481] that may afterwards be shown to be payable by reason of too great an increase having been made under section 8A(3) or 124E(5)[^c-b470e95da9691d4e905d6a93b72f636f], or
 - (b) that may be payable if any further property is afterwards shown to have been included in the estate of a deceased person immediately before his death;
 
 but in so far as the certificate shows any tax to be attributable to the value of any property it shall remain valid in favour of a purchaser of that property without notice of any fact invalidating the certificate.
 
-(4A)[^key-76d40e01d622d6d13212dc6aa0bee5ec] If—
+(4A)[^c-76d40e01d622d6d13212dc6aa0bee5ec] If—
 
 - (a) the personal representatives of a deceased person are given a certificate under subsection (2), and
 - (b) further property is afterwards shown to have been included in the estate of the deceased immediately before their death by virtue of section 150A(1) (notional pension property),
@@ -59,6 +59,6 @@ then despite subsection (4)(b) the personal representatives are not liable for a
 
 [^c21430481]: Textual amendment: [S. 239(4)(aa)](https://www.legislation.gov.uk/ukpga/1984/51/section/239/4/aa) inserted (retrospective to 9.10.2007) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 10](https://www.legislation.gov.uk/ukpga/2008/9/section/10), [Sch. 4 paras. 5](https://www.legislation.gov.uk/ukpga/2008/9/schedule/4/paragraph/5), [9(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/4/paragraph/9/3)
 
-[^key-b470e95da9691d4e905d6a93b72f636f]: Textual amendment: Words in [s. 239(4)(aa)](https://www.legislation.gov.uk/ukpga/1984/51/section/239/4/aa) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 14](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/14), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-b470e95da9691d4e905d6a93b72f636f]: Textual amendment: Words in [s. 239(4)(aa)](https://www.legislation.gov.uk/ukpga/1984/51/section/239/4/aa) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 14](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/14), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
 
-[^key-76d40e01d622d6d13212dc6aa0bee5ec]: Textual amendment: [S. 239(4A)](https://www.legislation.gov.uk/ukpga/1984/51/section/239/4A) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 67(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/67/5), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-76d40e01d622d6d13212dc6aa0bee5ec]: Textual amendment: [S. 239(4A)](https://www.legislation.gov.uk/ukpga/1984/51/section/239/4A) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 67(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/67/5), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

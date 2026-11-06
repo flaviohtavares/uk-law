@@ -56,7 +56,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-bbca4a4b5e29dc2cbbf697577aa55dfb]
+### 1. Citation and commencement[^c-bbca4a4b5e29dc2cbbf697577aa55dfb]
 
 (1) These Regulations may be cited as the Money Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations 2020.
 
@@ -64,24 +64,24 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 (3) Regulation 7(2)(a) (substitution of paragraph (3) of regulation 45: register of beneficial ownership information) comes into force on 6th April 2021.
 
-(4) Regulation 5 (substitution of regulation 30A: reporting discrepancies: trusts) and regulation 7(4) (insertion of new regulation 45ZB: access to information on the register) come into force on 1st September 2022[^key-24fbb14e5f363edbe28e7e2d3fbe238f].
+(4) Regulation 5 (substitution of regulation 30A: reporting discrepancies: trusts) and regulation 7(4) (insertion of new regulation 45ZB: access to information on the register) come into force on 1st September 2022[^c-24fbb14e5f363edbe28e7e2d3fbe238f].
 
 (5) Part 4 comes into force on IP completion day.
 
 ## PART 2 — Implementation of EU law
 
-### 2. Amendment of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^key-6beef3bf443cd04c26a109d771399e4f]
+### 2. Amendment of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^c-6beef3bf443cd04c26a109d771399e4f]
 
 The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^f00004] are amended in accordance with regulations 3 to 12.
 
-### 3. Customer due diligence measures[^key-b2beaddcce55cea20d564c3e9f5b3d7f]
+### 3. Customer due diligence measures[^c-b2beaddcce55cea20d564c3e9f5b3d7f]
 
 In regulation 28 (customer due diligence measures)[^f00005]—
 
 - (a) in paragraph (5), after “Paragraphs (3)(b)” insert “, (3A)”;
 - (b) in paragraph (19)(b), for the words “an appropriate level of assurance” to the end, substitute “assurance that the person claiming a particular identity is in fact the person with that identity, to a degree that is necessary for effectively managing and mitigating any risks of money laundering and terrorist financing”.
 
-### 4. Reporting discrepancies: general[^key-31b7b606c35d1d50c0af43a19db3af9e]
+### 4. Reporting discrepancies: general[^c-31b7b606c35d1d50c0af43a19db3af9e]
 
 (1) In regulation 30A(2)(b) (requirement to report discrepancies in registers)[^f00006], after “carrying out its duties under these Regulations” insert “when establishing a business relationship with the customer”.
 
@@ -100,7 +100,7 @@ In regulation 28 (customer due diligence measures)[^f00005]—
 
 (4) In regulation 40(2)(a) (record keeping), after “regulations 28, 29 and 33 to 37” insert “and the requirements of regulation 30A”.
 
-### 5. Reporting discrepancies: trusts[^key-4a3d21a2af1bf0e89603c269933e77c0]
+### 5. Reporting discrepancies: trusts[^c-4a3d21a2af1bf0e89603c269933e77c0]
 
 For regulation 30A (requirement to report discrepancies in registers) substitute—
 
@@ -140,7 +140,7 @@ For regulation 30A (requirement to report discrepancies in registers) substitute
 
 .
 
-### 6. Enhanced due diligence[^key-f4bad26bb22dc2f490c6fc6774c0057e]
+### 6. Enhanced due diligence[^c-f4bad26bb22dc2f490c6fc6774c0057e]
 
 (1) In regulation 33 (obligation to apply enhanced customer due diligence)[^f00011], for paragraph (4A) substitute—
 
@@ -157,9 +157,9 @@ For regulation 30A (requirement to report discrepancies in registers) substitute
 
 (2) In regulation 34(1) (enhanced due diligence: credit institutions, financial institutions and correspondent relationships), after “correspondent relationship” insert “involving the execution of payments”.
 
-### 7. Beneficial ownership information[^key-8d87ae3bdb83c5795191f1a26864642e][^key-a517cc21f2ed032236e803220f438130]
+### 7. Beneficial ownership information[^c-8d87ae3bdb83c5795191f1a26864642e][^c-a517cc21f2ed032236e803220f438130]
 
-(1)[^key-8d87ae3bdb83c5795191f1a26864642e] In regulation 42 (application of Part 5)—
+(1)[^c-8d87ae3bdb83c5795191f1a26864642e] In regulation 42 (application of Part 5)—
 
 - (a) in paragraph (2)—
   - (i) at the end of sub-paragraph (b)(i), omit “or”;
@@ -197,7 +197,7 @@ For regulation 30A (requirement to report discrepancies in registers) substitute
 
 (2) In regulation 45 (register of beneficial ownership)[^f00016]—
 
-- (a)[^key-a517cc21f2ed032236e803220f438130] for paragraph (3) substitute—
+- (a)[^c-a517cc21f2ed032236e803220f438130] for paragraph (3) substitute—
 
   > (3) The information required under paragraph (2) must, apart from any information already provided to the Commissioners under regulation 45ZA (at a time when the trust was not a taxable relevant trust), be provided—
   >
@@ -206,8 +206,8 @@ For regulation 30A (requirement to report discrepancies in registers) substitute
   > - (c) within 30 days of the trustees becoming liable to pay UK taxes, in any other case.
 
   ;
-- (b)[^key-8d87ae3bdb83c5795191f1a26864642e] in paragraph (4), for “paragraph (2)” substitute “paragraphs (2) and (9)”;
-- (c)[^key-8d87ae3bdb83c5795191f1a26864642e] for paragraph (10) substitute—
+- (b)[^c-8d87ae3bdb83c5795191f1a26864642e] in paragraph (4), for “paragraph (2)” substitute “paragraphs (2) and (9)”;
+- (c)[^c-8d87ae3bdb83c5795191f1a26864642e] for paragraph (10) substitute—
 
   > (10) The register must contain the information referred to in—
   >
@@ -216,7 +216,7 @@ For regulation 30A (requirement to report discrepancies in registers) substitute
   > - (c) regulation 45ZA(3) and (4), in relation to the types of trust mentioned in regulation 45ZA(1).
 
   ;
-- (d)[^key-8d87ae3bdb83c5795191f1a26864642e] after paragraph (10) insert—
+- (d)[^c-8d87ae3bdb83c5795191f1a26864642e] after paragraph (10) insert—
 
   > (10A) The trustees of a taxable relevant trust which is a UK trust, and is not an EEA registered trust or a trust listed in Schedule 3A, must provide the Commissioners with the information specified in paragraph (10E), apart from any information already provided to the Commissioners under regulation 45ZA (at a time when the trust was not a taxable relevant trust)—
   >
@@ -260,9 +260,9 @@ For regulation 30A (requirement to report discrepancies in registers) substitute
   > (10J) The Commissioners must keep the information referred to in paragraph (10) on the register for at least five years, and no more than 10 years, after the trust to which it relates has ceased to exist or has ceased to be a type of trust referred to in paragraph (10).
 
   ;
-- (e)[^key-8d87ae3bdb83c5795191f1a26864642e] in paragraph (13), after “regulation 44(2)(b) and (5)(b)” insert “, paragraphs (10E) to (10G) and regulation 45ZA(3) and (4)”.
+- (e)[^c-8d87ae3bdb83c5795191f1a26864642e] in paragraph (13), after “regulation 44(2)(b) and (5)(b)” insert “, paragraphs (10E) to (10G) and regulation 45ZA(3) and (4)”.
 
-(3)[^key-8d87ae3bdb83c5795191f1a26864642e] In Part 5, after regulation 45 insert—
+(3)[^c-8d87ae3bdb83c5795191f1a26864642e] In Part 5, after regulation 45 insert—
 
 > **45ZA. Register of beneficial ownership: additional types of trust**
 >
@@ -317,7 +317,7 @@ For regulation 30A (requirement to report discrepancies in registers) substitute
 
 .
 
-(4)[^key-bf795f121dd5fd52f16afafe20eb4a3b] In Part 5, after regulation 45ZA (as inserted by regulation 7(3)) insert—
+(4)[^c-bf795f121dd5fd52f16afafe20eb4a3b] In Part 5, after regulation 45ZA (as inserted by regulation 7(3)) insert—
 
 > **45ZB. Access to information on the register**
 >
@@ -387,7 +387,7 @@ For regulation 30A (requirement to report discrepancies in registers) substitute
 
 .
 
-### 8. Obligation of confidentiality[^key-ab59dd32bcac4c42e079e3aab2b78685]
+### 8. Obligation of confidentiality[^c-ab59dd32bcac4c42e079e3aab2b78685]
 
 In regulation 52A (obligation of confidentiality)[^f00021], in paragraph (3), after sub-paragraph (c) insert—
 
@@ -395,7 +395,7 @@ In regulation 52A (obligation of confidentiality)[^f00021], in paragraph (3), af
 
 .
 
-### 9. Requirement for registration[^key-380e1aed956c0ec865d927c0cc6b8a2e]
+### 9. Requirement for registration[^c-380e1aed956c0ec865d927c0cc6b8a2e]
 
 In regulation 56 (requirement to be registered)[^f00023]—
 
@@ -419,11 +419,11 @@ In regulation 56 (requirement to be registered)[^f00023]—
 
   .
 
-### 10. Directions: cryptoasset businesses[^key-e0857d5a1593421a25b53ec56d0542f5]
+### 10. Directions: cryptoasset businesses[^c-e0857d5a1593421a25b53ec56d0542f5]
 
 In regulation 74C(1) (directions: cryptoasset businesses)[^f00024], for “impose a direction in writing on” substitute “exercise its powers of direction under paragraph (5) or (6) in writing in relation to”.
 
-### 11. New Schedule 3A: excluded trusts[^key-318865c9cb64fe8167041e741d6fcf09]
+### 11. New Schedule 3A: excluded trusts[^c-318865c9cb64fe8167041e741d6fcf09]
 
 After Schedule 3 (relevant offences) insert—
 
@@ -575,7 +575,7 @@ After Schedule 3 (relevant offences) insert—
 
 .
 
-### 12. Relevant requirements[^key-48b210663144070d41c7ad32ea85614f]
+### 12. Relevant requirements[^c-48b210663144070d41c7ad32ea85614f]
 
 In paragraph 9 of Schedule 6 (meaning of “relevant requirement”)—
 
@@ -588,7 +588,7 @@ In paragraph 9 of Schedule 6 (meaning of “relevant requirement”)—
 
 ## PART 3 — Review
 
-### 13. Review[^key-a575a38bd4f259085413aa4704694b27]
+### 13. Review[^c-a575a38bd4f259085413aa4704694b27]
 
 (1) The Treasury must from time to time—
 
@@ -608,7 +608,7 @@ In paragraph 9 of Schedule 6 (meaning of “relevant requirement”)—
 
 ## PART 4 — EU exit amendments
 
-### 14. EU exit amendments[^key-929c3724d8f5daa3f1059f214007ff5d]
+### 14. EU exit amendments[^c-929c3724d8f5daa3f1059f214007ff5d]
 
 (1) The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 are amended as follows.
 
@@ -672,23 +672,23 @@ A full impact assessment of the effect of the previous provisions to transpose [
 
 [^f00003]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-bbca4a4b5e29dc2cbbf697577aa55dfb]: Commencement: Reg. 1 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
+[^c-bbca4a4b5e29dc2cbbf697577aa55dfb]: Commencement: Reg. 1 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
 
-[^key-24fbb14e5f363edbe28e7e2d3fbe238f]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/4) substituted (9.3.2022) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2022 (S.I. 2022/137)](https://www.legislation.gov.uk/uksi/2022/137), [regs. 1](https://www.legislation.gov.uk/uksi/2022/137/regulation/1), [6](https://www.legislation.gov.uk/uksi/2022/137/regulation/6)
+[^c-24fbb14e5f363edbe28e7e2d3fbe238f]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/4) substituted (9.3.2022) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2022 (S.I. 2022/137)](https://www.legislation.gov.uk/uksi/2022/137), [regs. 1](https://www.legislation.gov.uk/uksi/2022/137/regulation/1), [6](https://www.legislation.gov.uk/uksi/2022/137/regulation/6)
 
-[^key-6beef3bf443cd04c26a109d771399e4f]: Commencement: Reg. 2 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
+[^c-6beef3bf443cd04c26a109d771399e4f]: Commencement: Reg. 2 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692).
 
-[^key-b2beaddcce55cea20d564c3e9f5b3d7f]: Commencement: Reg. 3 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
+[^c-b2beaddcce55cea20d564c3e9f5b3d7f]: Commencement: Reg. 3 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
 
 [^f00005]: Footnote: Paragraphs (3A) and (19) were inserted by [S.I. 2019/1511](https://www.legislation.gov.uk/uksi/2019/1511).
 
-[^key-31b7b606c35d1d50c0af43a19db3af9e]: Commencement: Reg. 4 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
+[^c-31b7b606c35d1d50c0af43a19db3af9e]: Commencement: Reg. 4 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
 
 [^f00006]: Footnote: Regulation 30A was inserted by [S.I. 2019/1511](https://www.legislation.gov.uk/uksi/2019/1511).
 
-[^key-4a3d21a2af1bf0e89603c269933e77c0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/991/regulation/5) in force at 1.9.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/4)
+[^c-4a3d21a2af1bf0e89603c269933e77c0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/991/regulation/5) in force at 1.9.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/4)
 
 [^f00007]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46). Part 21A was inserted by Schedule 3 to the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
@@ -698,13 +698,13 @@ A full impact assessment of the effect of the previous provisions to transpose [
 
 [^f00010]: Footnote: [S.I. 2017/694](https://www.legislation.gov.uk/uksi/2017/694), to which there are amendments not relevant to these Regulations.
 
-[^key-f4bad26bb22dc2f490c6fc6774c0057e]: Commencement: Reg. 6 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
+[^c-f4bad26bb22dc2f490c6fc6774c0057e]: Commencement: Reg. 6 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
 
 [^f00011]: Footnote: Paragraph (4A) was inserted by [S.I. 2019/1511](https://www.legislation.gov.uk/uksi/2019/1511).
 
-[^key-8d87ae3bdb83c5795191f1a26864642e]: Commencement: Reg. 7(1)(2)(b)-(e)(3) in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
+[^c-8d87ae3bdb83c5795191f1a26864642e]: Commencement: Reg. 7(1)(2)(b)-(e)(3) in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
 
-[^key-a517cc21f2ed032236e803220f438130]: Commencement: [Reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/2020/991/regulation/7/2/a) in force at 6.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/3)
+[^c-a517cc21f2ed032236e803220f438130]: Commencement: [Reg. 7(2)(a)](https://www.legislation.gov.uk/uksi/2020/991/regulation/7/2/a) in force at 6.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/3)
 
 [^f00012]: Footnote: [2002 c. 9](https://www.legislation.gov.uk/ukpga/2002/9).
 
@@ -716,7 +716,7 @@ A full impact assessment of the effect of the previous provisions to transpose [
 
 [^f00016]: Footnote: Regulation 45 was amended by [S.I. 2018/1237](https://www.legislation.gov.uk/uksi/2018/1237).
 
-[^key-bf795f121dd5fd52f16afafe20eb4a3b]: Commencement: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2020/991/regulation/7/4) in force at 1.9.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/4)
+[^c-bf795f121dd5fd52f16afafe20eb4a3b]: Commencement: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2020/991/regulation/7/4) in force at 1.9.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/4)
 
 [^f00017]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
@@ -726,21 +726,21 @@ A full impact assessment of the effect of the previous provisions to transpose [
 
 [^f00020]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29). Section 342(1) was amended by section 77 of the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), section 169 of the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) and section 53 of the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22).
 
-[^key-ab59dd32bcac4c42e079e3aab2b78685]: Commencement: Reg. 8 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
+[^c-ab59dd32bcac4c42e079e3aab2b78685]: Commencement: Reg. 8 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
 
 [^f00021]: Footnote: Regulation 52A was inserted by [S.I. 2019/1511](https://www.legislation.gov.uk/uksi/2019/1511).
 
 [^f00022]: Footnote: [2005 c 11](https://www.legislation.gov.uk/ukpga/2005/11). Sections 17 and 18 were amended by section 7 of the Wales Act [2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29). Section 18 was amended by section 24 of the Scotland Act [2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), section 16 of the Scotland Act [2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11) and section 9 of the Childcare Funding (Wales) Act [2019 (anaw.1)](https://www.legislation.gov.uk/anaw/2019/1). There are other amendments to section 18 but none are relevant.
 
-[^key-380e1aed956c0ec865d927c0cc6b8a2e]: Commencement: Reg. 9 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
+[^c-380e1aed956c0ec865d927c0cc6b8a2e]: Commencement: Reg. 9 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
 
 [^f00023]: Footnote: Paragraph (5) was amended by [S.I. 2019/1511](https://www.legislation.gov.uk/uksi/2019/1511).
 
-[^key-e0857d5a1593421a25b53ec56d0542f5]: Commencement: Reg. 10 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
+[^c-e0857d5a1593421a25b53ec56d0542f5]: Commencement: Reg. 10 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
 
 [^f00024]: Footnote: Regulation 74C was inserted by [S.I. 2019/1511](https://www.legislation.gov.uk/uksi/2019/1511).
 
-[^key-318865c9cb64fe8167041e741d6fcf09]: Commencement: Reg. 11 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
+[^c-318865c9cb64fe8167041e741d6fcf09]: Commencement: Reg. 11 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
 
 [^f00025]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
@@ -774,10 +774,10 @@ A full impact assessment of the effect of the previous provisions to transpose [
 
 [^f00040]: Footnote: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1). Section 244 was amended by section 5 of, and Schedule 2 to, the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and by [S.I. 2014/3329](https://www.legislation.gov.uk/uksi/2014/3329) and [2018/1115](https://www.legislation.gov.uk/uksi/2018/1115).
 
-[^key-48b210663144070d41c7ad32ea85614f]: Commencement: Reg. 12 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
+[^c-48b210663144070d41c7ad32ea85614f]: Commencement: Reg. 12 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
 
-[^key-a575a38bd4f259085413aa4704694b27]: Commencement: Reg. 13 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
+[^c-a575a38bd4f259085413aa4704694b27]: Commencement: Reg. 13 in force at 6.10.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2)
 
 [^f00041]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-929c3724d8f5daa3f1059f214007ff5d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/991/regulation/14) in force at 31.12.2020, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/5)
+[^c-929c3724d8f5daa3f1059f214007ff5d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/991/regulation/14) in force at 31.12.2020, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/5)

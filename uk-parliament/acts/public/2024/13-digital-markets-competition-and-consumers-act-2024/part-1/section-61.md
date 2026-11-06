@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Application of the duty to report etc[^key-7937738ba3a9f4b859164cdbfee9c8a4][^key-c4883f0f6d369d801af9164256ead171]
+## 61. Application of the duty to report etc[^c-7937738ba3a9f4b859164cdbfee9c8a4][^c-c4883f0f6d369d801af9164256ead171]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7937738ba3a9f4b859164cdbfee9c8a4]: Commencement: S. 61 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-7937738ba3a9f4b859164cdbfee9c8a4]: Commencement: S. 61 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-c4883f0f6d369d801af9164256ead171]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2024/13/section/61) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-c4883f0f6d369d801af9164256ead171]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2024/13/section/61) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

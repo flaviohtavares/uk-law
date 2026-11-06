@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.20. Cost of publication[^key-592260a0b9eabc74e987faf7211bc959]
+## 3.11.20. Cost of publication[^c-592260a0b9eabc74e987faf7211bc959]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where under this Part the returning officer or the sheriff clerk requires to hav
 
 ## Annotations
 
-[^key-592260a0b9eabc74e987faf7211bc959]: Commencement: Rule 3.11.20 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-592260a0b9eabc74e987faf7211bc959]: Commencement: Rule 3.11.20 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

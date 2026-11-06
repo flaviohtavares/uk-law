@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Determining nature of complaint[^key-4824b9692ed53f1f387978f4ab7f757f]
+## 5. Determining nature of complaint[^c-4824b9692ed53f1f387978f4ab7f757f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4824b9692ed53f1f387978f4ab7f757f]: Textual amendment: [S. 5](https://www.legislation.gov.uk/asp/2007/5/section/5) omitted (1.1.2015) by virtue of [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/4) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
+[^c-4824b9692ed53f1f387978f4ab7f757f]: Textual amendment: [S. 5](https://www.legislation.gov.uk/asp/2007/5/section/5) omitted (1.1.2015) by virtue of [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2014/232/regulation/2/4) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Special measures available to eligible witnesses.[^c9545711][^key-e879d528077091ecc112d6f6567f3db0]
+## 18. Special measures available to eligible witnesses.[^c9545711][^c-e879d528077091ecc112d6f6567f3db0]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ but this subsection has effect subject to subsection (2).
 
 [^c9545711]: Commencement: S. 18 wholly in force at 24.7.2002; Pt. II Chs. 1-4 (ss. 16-52) in force for certain purposes at Royal Assent, see s. 68(4); s. 18 in force in so far as not already in force at 24.7.2002 by [S.I. 2002/1739](https://www.legislation.gov.uk/uksi/2002/1739), [art. 2(a)](https://www.legislation.gov.uk/uksi/2002/1739/article/2/a)
 
-[^key-e879d528077091ecc112d6f6567f3db0]: Modification: S. 18 applied (with modifications) (31.10.2009) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 (S.I. 2009/2083)](https://www.legislation.gov.uk/uksi/2009/2083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1), [3](https://www.legislation.gov.uk/uksi/2009/2083/article/3), [4](https://www.legislation.gov.uk/uksi/2009/2083/article/4)
+[^c-e879d528077091ecc112d6f6567f3db0]: Modification: S. 18 applied (with modifications) (31.10.2009) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 (S.I. 2009/2083)](https://www.legislation.gov.uk/uksi/2009/2083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1), [3](https://www.legislation.gov.uk/uksi/2009/2083/article/3), [4](https://www.legislation.gov.uk/uksi/2009/2083/article/4)

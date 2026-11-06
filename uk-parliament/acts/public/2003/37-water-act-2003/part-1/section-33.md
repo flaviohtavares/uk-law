@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Application of certain water resources provisions to this Act[^key-40595293edb6c3174a205af5f54656c2]
+## 33. Application of certain water resources provisions to this Act[^c-40595293edb6c3174a205af5f54656c2]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (3) The “relevant WRA provisions” are the following provisions of the WRA—
 
-- (a) section 120 (contributions between the appropriate agency[^key-b789b544226e2bee2b70f63da5accf6e] and certain other authorities),
+- (a) section 120 (contributions between the appropriate agency[^c-b789b544226e2bee2b70f63da5accf6e] and certain other authorities),
 - (b) section 158 (works agreements for water resources purposes),
 - (c) section 201 (power to require information in respect of water resources functions), as substituted by section 70 of this Act,
 - (d) section 216 (enforcement: powers and duties),
@@ -42,14 +42,14 @@ summary: ''
 
 (4) Section 220 of the WRA (provisions relating to service of documents) applies to documents required or authorised by virtue of any of the applicable sections to be served on any person as it applies to documents required or authorised to be served by virtue of the WRA.
 
-(5) References in the WRA to the functions (generally) of the Environment Agency or of the Natural Resources Body for Wales, whether framed by reference to the appropriate agency or otherwise,[^key-be0abda54e18ee38a95ffa3ebfe8b1d9] are to be read as including the Agency’s or, as the case may be, the Natural Resources Body for Wales',[^key-050124735c17e65a7bf64ff54efbe90b] functions under the applicable sections.
+(5) References in the WRA to the functions (generally) of the Environment Agency or of the Natural Resources Body for Wales, whether framed by reference to the appropriate agency or otherwise,[^c-be0abda54e18ee38a95ffa3ebfe8b1d9] are to be read as including the Agency’s or, as the case may be, the Natural Resources Body for Wales',[^c-050124735c17e65a7bf64ff54efbe90b] functions under the applicable sections.
 
 ## Annotations
 
-[^key-40595293edb6c3174a205af5f54656c2]: Commencement: S. 33 in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(p)](https://www.legislation.gov.uk/uksi/2006/984/article/2/p)
+[^c-40595293edb6c3174a205af5f54656c2]: Commencement: S. 33 in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(p)](https://www.legislation.gov.uk/uksi/2006/984/article/2/p)
 
-[^key-b789b544226e2bee2b70f63da5accf6e]: Textual amendment: Words in s. 33(3)(a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 420(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/420/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-b789b544226e2bee2b70f63da5accf6e]: Textual amendment: Words in s. 33(3)(a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 420(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/420/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-be0abda54e18ee38a95ffa3ebfe8b1d9]: Textual amendment: Words in s. 33(5) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 420(3)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/420/3/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-be0abda54e18ee38a95ffa3ebfe8b1d9]: Textual amendment: Words in s. 33(5) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 420(3)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/420/3/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-050124735c17e65a7bf64ff54efbe90b]: Textual amendment: Words in s. 33(5) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 420(3)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/420/3/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-050124735c17e65a7bf64ff54efbe90b]: Textual amendment: Words in s. 33(5) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 420(3)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/420/3/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

@@ -22,7 +22,7 @@ summary: ''
 
 (1) In this regulation—
 
-- “the current total tax” means the amount required to be recorded at paragraph 17 of Schedule A1 (real time returns) in the most recent return which the employee is required to make in the tax year, or where the employee is required to make a return under regulation 67EA(3) (failure to make a return under regulation 67B), the amount required to be recorded at paragraph 17 of Schedule A1 for the tax year to which that return relates;[^key-0a2265dfbeb5565176d49965d8def8ed]
+- “the current total tax” means the amount required to be recorded at paragraph 17 of Schedule A1 (real time returns) in the most recent return which the employee is required to make in the tax year, or where the employee is required to make a return under regulation 67EA(3) (failure to make a return under regulation 67B), the amount required to be recorded at paragraph 17 of Schedule A1 for the tax year to which that return relates;[^c-0a2265dfbeb5565176d49965d8def8ed]
 - “the previous total tax” means the total tax to date (if any) required to be recorded for the previous tax quarter in the tax year.
 
 (2) If, in relation to any tax quarter, the current total tax exceeds the previous total tax, the employee must pay the excess to the Inland Revenue, within 14 days after the end of the tax quarter.
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a2265dfbeb5565176d49965d8def8ed]: Textual amendment: Words in reg. 144(1) substituted (6.4.2014) by [The Income Tax (Pay As You Earn) and the Income Tax (Construction Industry Scheme) (Amendment) Regulations 2014 (S.I. 2014/472)](https://www.legislation.gov.uk/uksi/2014/472), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/472/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2014/472/regulation/14)
+[^c-0a2265dfbeb5565176d49965d8def8ed]: Textual amendment: Words in reg. 144(1) substituted (6.4.2014) by [The Income Tax (Pay As You Earn) and the Income Tax (Construction Industry Scheme) (Amendment) Regulations 2014 (S.I. 2014/472)](https://www.legislation.gov.uk/uksi/2014/472), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/472/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2014/472/regulation/14)

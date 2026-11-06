@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. FCA-regulated pension schemes: contractual override[^key-139b419e64d3438a308d31fa364e63de]
+## 49. FCA-regulated pension schemes: contractual override[^c-139b419e64d3438a308d31fa364e63de]
 
 *Extent: E+W+S*
 
@@ -255,4 +255,4 @@ summary: ''
 
 ## Annotations
 
-[^key-139b419e64d3438a308d31fa364e63de]: Commencement: S. 49 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-139b419e64d3438a308d31fa364e63de]: Commencement: S. 49 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Metering of plants in simple systems where application for accreditation of the plant was made before 24th September 2013[^key-fff33b91c0571eb6dc6deb626c4e2625]
+## 21. Metering of plants in simple systems where application for accreditation of the plant was made before 24th September 2013[^c-fff33b91c0571eb6dc6deb626c4e2625]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fff33b91c0571eb6dc6deb626c4e2625]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2018/611/regulation/21) omitted (1.4.2021) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [10(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/10/a)
+[^c-fff33b91c0571eb6dc6deb626c4e2625]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2018/611/regulation/21) omitted (1.4.2021) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [10(a)](https://www.legislation.gov.uk/uksi/2021/76/regulation/10/a)

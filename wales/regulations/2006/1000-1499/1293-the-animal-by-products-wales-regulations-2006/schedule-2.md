@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — Ruminant derived fluid[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+## SCHEDULE 2 — Ruminant derived fluid[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 *Extent: E+W*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulation 17(4)
 
-### 1. Treatment or discharge of fluid from processing ruminant by-products[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+### 1. Treatment or discharge of fluid from processing ruminant by-products[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Measurement of treated fluid[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+### 2. Measurement of treated fluid[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Records[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+### 3. Records[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Records of consignment[^key-067d2c522da0f319ff85f9f9c1b2b39e]
+### 4. Records of consignment[^c-067d2c522da0f319ff85f9f9c1b2b39e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-067d2c522da0f319ff85f9f9c1b2b39e]: Textual amendment: Regulations revoked (20.10.2011 at 12.15 a.m.) by The Animal By-[Products (Enforcement) (No. 2) (Wales) Regulations 2011 (S.I. 2011/2377)](https://www.legislation.gov.uk/uksi/2011/2377), [regs. 29(a)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/29/a), [31(2)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/31/2)
+[^c-067d2c522da0f319ff85f9f9c1b2b39e]: Textual amendment: Regulations revoked (20.10.2011 at 12.15 a.m.) by The Animal By-[Products (Enforcement) (No. 2) (Wales) Regulations 2011 (S.I. 2011/2377)](https://www.legislation.gov.uk/uksi/2011/2377), [regs. 29(a)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/29/a), [31(2)](https://www.legislation.gov.uk/uksi/2011/2377/regulation/31/2)

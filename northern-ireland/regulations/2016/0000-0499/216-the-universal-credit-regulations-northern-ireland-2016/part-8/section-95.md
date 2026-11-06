@@ -31,7 +31,7 @@ summary: ''
 
 (4) Where a claimant has previously carried out work of a particular nature, or at a particular level of remuneration, a work search requirement and a work availability requirement must be limited to work of a similar nature, or level of remuneration, for such period as the Department considers appropriate; but only if it is satisfied that the claimant will have reasonable prospects of obtaining paid work in spite of such limitation.
 
-(5) The limitation in paragraph (4) is to apply for no more than 4 weeks[^key-9b09aa154222d44ce77f72d5d21a7866] beginning with—
+(5) The limitation in paragraph (4) is to apply for no more than 4 weeks[^c-9b09aa154222d44ce77f72d5d21a7866] beginning with—
 
 - (a) the date of claim, or
 - (b) if later, the date on which the claimant ceases paid work after falling within Article 24 of the Order by virtue of regulation 89 (claimants subject to no work-related requirements - the earnings thresholds).
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b09aa154222d44ce77f72d5d21a7866]: Textual amendment: Words in [reg. 95(5)](https://www.legislation.gov.uk/nisr/2016/216/regulation/95/5) substituted (23.2.2024) by The Universal Credit and Jobseeker’s [Allowance (Work Search and Work Availability Requirements - limitations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/18)](https://www.legislation.gov.uk/nisr/2024/18), [regs. 1](https://www.legislation.gov.uk/nisr/2024/18/regulation/1), [2](https://www.legislation.gov.uk/nisr/2024/18/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/nisr/2024/18/regulation/4))
+[^c-9b09aa154222d44ce77f72d5d21a7866]: Textual amendment: Words in [reg. 95(5)](https://www.legislation.gov.uk/nisr/2016/216/regulation/95/5) substituted (23.2.2024) by The Universal Credit and Jobseeker’s [Allowance (Work Search and Work Availability Requirements - limitations) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/18)](https://www.legislation.gov.uk/nisr/2024/18), [regs. 1](https://www.legislation.gov.uk/nisr/2024/18/regulation/1), [2](https://www.legislation.gov.uk/nisr/2024/18/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/nisr/2024/18/regulation/4))

@@ -45,7 +45,7 @@ The Department of Enterprise, Trade and Investment makes the following Order in 
 
 The Department has had regard to those matters stated in Article 54B(4) of that Order.
 
-The Department has consulted the Northern Ireland Authority for Utility Regulation, the General Consumer Council for Northern Ireland, electricity suppliers to whom this Order applies, persons generating electricity from renewable sources in Northern Ireland and such other persons as it considers appropriate.[^key-b0275e3ceab76a897e3904bf78b584ef]
+The Department has consulted the Northern Ireland Authority for Utility Regulation, the General Consumer Council for Northern Ireland, electricity suppliers to whom this Order applies, persons generating electricity from renewable sources in Northern Ireland and such other persons as it considers appropriate.[^c-b0275e3ceab76a897e3904bf78b584ef]
 
 ## Contents
 
@@ -239,4 +239,4 @@ The 2007 Order revoked and re-enacted the Renewables Obligation Order (NI) 2006 
 
 [^f00001]: Footnote: [S.I. 2003/419 (N.I.6)](https://www.legislation.gov.uk/nisi/2003/419); Article 52 to 55F were substituted for Articles 52 to 55 by [S.R. 2009 No.35](https://www.legislation.gov.uk/nisr/2009/35)
 
-[^key-b0275e3ceab76a897e3904bf78b584ef]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2009/154) modified (31.12.2020) by S.I. 2019/289, reg. 5, Sch. 3 (as amended by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5))
+[^c-b0275e3ceab76a897e3904bf78b584ef]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2009/154) modified (31.12.2020) by S.I. 2019/289, reg. 5, Sch. 3 (as amended by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5))

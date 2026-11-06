@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Amendment of the Housing Act 1996[^key-cb15ba0260ac624bfdb6c408388de48b][^M_I_6ce66377-f840-4429-f52f-51e544ae4c6a]
+## 10. Amendment of the Housing Act 1996[^c-cb15ba0260ac624bfdb6c408388de48b][^M_I_6ce66377-f840-4429-f52f-51e544ae4c6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cb15ba0260ac624bfdb6c408388de48b]: Commencement: Reg. 10 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-cb15ba0260ac624bfdb6c408388de48b]: Commencement: Reg. 10 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_6ce66377-f840-4429-f52f-51e544ae4c6a]: Commencement: Reg. 10 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

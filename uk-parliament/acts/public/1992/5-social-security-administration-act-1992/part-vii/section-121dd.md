@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121DD. Independent review: further provision[^key-09cb9d7cfe76d79d91f9621853e95e4f]
+## 121DD. Independent review: further provision[^c-09cb9d7cfe76d79d91f9621853e95e4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09cb9d7cfe76d79d91f9621853e95e4f]: Textual amendment: [Ss. 121DC](https://www.legislation.gov.uk/ukpga/1992/5/section/121DC), [121DD](https://www.legislation.gov.uk/ukpga/1992/5/section/121DD) inserted (2.12.2025 but only for the purposes of making regulations, 2.2.2026 in so far as not already in force) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 79](https://www.legislation.gov.uk/ukpga/2025/28/section/79), [109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/2/b)
+[^c-09cb9d7cfe76d79d91f9621853e95e4f]: Textual amendment: [Ss. 121DC](https://www.legislation.gov.uk/ukpga/1992/5/section/121DC), [121DD](https://www.legislation.gov.uk/ukpga/1992/5/section/121DD) inserted (2.12.2025 but only for the purposes of making regulations, 2.2.2026 in so far as not already in force) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 79](https://www.legislation.gov.uk/ukpga/2025/28/section/79), [109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/2/b)

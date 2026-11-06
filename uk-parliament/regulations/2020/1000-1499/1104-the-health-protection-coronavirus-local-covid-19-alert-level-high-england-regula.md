@@ -30,7 +30,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, Local COVID-19 Alert Level) (High) (England) Regulations 2020 (revoked)[^key-5d8e32ff1f181c333da04e8468917899][^key-44e314a9b51cd7e7efe72c0078ab68f7]
+The Health Protection (Coronavirus, Local COVID-19 Alert Level) (High) (England) Regulations 2020 (revoked)[^c-5d8e32ff1f181c333da04e8468917899][^c-44e314a9b51cd7e7efe72c0078ab68f7]
 
 Approved by both Houses of Parliament
 
@@ -54,59 +54,59 @@ The Secretary of State considers that the restrictions and requirements imposed 
 
 In accordance with section 45R of that Act, the Secretary of State is of the opinion that, by reason of urgency, it is necessary to make this instrument without a draft having been laid before, and approved by a resolution of, each House of Parliament.
 
-## PART 1 — Introductory[^key-5d8e32ff1f181c333da04e8468917899]
+## PART 1 — Introductory[^c-5d8e32ff1f181c333da04e8468917899]
 
 **No longer in force.**
 
-### 1. Citation, commencement and application[^key-5d8e32ff1f181c333da04e8468917899]
+### 1. Citation, commencement and application[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Interpretation[^key-5d8e32ff1f181c333da04e8468917899]
+### 2. Interpretation[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Tier 2 restrictions[^key-5d8e32ff1f181c333da04e8468917899]
+## PART 2 — Tier 2 restrictions[^c-5d8e32ff1f181c333da04e8468917899]
 
 **No longer in force.**
 
-### 3. Tier 2 restrictions[^key-5d8e32ff1f181c333da04e8468917899]
+### 3. Tier 2 restrictions[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Enforcement[^key-5d8e32ff1f181c333da04e8468917899]
+## PART 3 — Enforcement[^c-5d8e32ff1f181c333da04e8468917899]
 
 **No longer in force.**
 
-### 4. Enforcement of restrictions and requirements[^key-5d8e32ff1f181c333da04e8468917899]
+### 4. Enforcement of restrictions and requirements[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Offences and penalties[^key-5d8e32ff1f181c333da04e8468917899]
+### 5. Offences and penalties[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Fixed penalty notices[^key-5d8e32ff1f181c333da04e8468917899]
+### 6. Fixed penalty notices[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Prosecutions[^key-5d8e32ff1f181c333da04e8468917899]
+### 7. Prosecutions[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Final provisions[^key-5d8e32ff1f181c333da04e8468917899]
+## PART 4 — Final provisions[^c-5d8e32ff1f181c333da04e8468917899]
 
 **No longer in force.**
 
-### 8. Review[^key-5d8e32ff1f181c333da04e8468917899]
+### 8. Review[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Expiry[^key-5d8e32ff1f181c333da04e8468917899]
+### 9. Expiry[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Consequential amendments and transitional and saving provisions[^key-5d8e32ff1f181c333da04e8468917899]
+### 10. Consequential amendments and transitional and saving provisions[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -116,127 +116,127 @@ Secretary of State
 
 Department for Health and Social Care
 
-## SCHEDULE 1 — Tier 2 restrictions[^key-5d8e32ff1f181c333da04e8468917899]
+## SCHEDULE 1 — Tier 2 restrictions[^c-5d8e32ff1f181c333da04e8468917899]
 
 **No longer in force.**
 
 Regulation 3
 
-### PART 1 — Restrictions on gatherings[^key-5d8e32ff1f181c333da04e8468917899]
+### PART 1 — Restrictions on gatherings[^c-5d8e32ff1f181c333da04e8468917899]
 
-#### 1. Participation in gatherings indoors[^key-5d8e32ff1f181c333da04e8468917899]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Participation in gatherings outdoors[^key-5d8e32ff1f181c333da04e8468917899]
+#### 1. Participation in gatherings indoors[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Organisation or facilitation of gatherings[^key-5d8e32ff1f181c333da04e8468917899]
+#### 2. Participation in gatherings outdoors[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Exceptions in relation to indoor gatherings restricted by paragraph 1[^key-5d8e32ff1f181c333da04e8468917899]
+#### 3. Organisation or facilitation of gatherings[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Exceptions in relation to outdoor gatherings restricted by paragraph 2 and other gatherings restricted by paragraph 3[^key-5d8e32ff1f181c333da04e8468917899]
+#### 4. Exceptions in relation to indoor gatherings restricted by paragraph 1[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Linked households[^key-5d8e32ff1f181c333da04e8468917899]
+#### 5. Exceptions in relation to outdoor gatherings restricted by paragraph 2 and other gatherings restricted by paragraph 3[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Linked childcare household[^key-5d8e32ff1f181c333da04e8468917899]
+#### 6. Linked households[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Permitted organised gatherings and qualifying groups[^key-5d8e32ff1f181c333da04e8468917899]
+#### 7. Linked childcare household[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. The required precautions[^key-5d8e32ff1f181c333da04e8468917899]
+#### 8. Permitted organised gatherings and qualifying groups[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Paragraphs 4 and 5: further interpretation[^key-5d8e32ff1f181c333da04e8468917899]
+#### 9. The required precautions[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. General interpretation[^key-5d8e32ff1f181c333da04e8468917899]
+#### 10. Paragraphs 4 and 5: further interpretation[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Closure of businesses[^key-5d8e32ff1f181c333da04e8468917899]
-
-#### 12. Requirement to close premises and businesses[^key-5d8e32ff1f181c333da04e8468917899]
+#### 11. General interpretation[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Restricted business and services for purposes of Part 2 of this Schedule[^key-5d8e32ff1f181c333da04e8468917899]
+### PART 2 — Closure of businesses[^c-5d8e32ff1f181c333da04e8468917899]
+
+#### 12. Requirement to close premises and businesses[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Exceptions from paragraph 12(1)[^key-5d8e32ff1f181c333da04e8468917899]
+#### 13. Restricted business and services for purposes of Part 2 of this Schedule[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Other restrictions on businesses[^key-5d8e32ff1f181c333da04e8468917899]
-
-#### 15. Restrictions on opening hours of businesses and services[^key-5d8e32ff1f181c333da04e8468917899]
+#### 14. Exceptions from paragraph 12(1)[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Exceptions from paragraph 15(1)[^key-5d8e32ff1f181c333da04e8468917899]
+### PART 3 — Other restrictions on businesses[^c-5d8e32ff1f181c333da04e8468917899]
+
+#### 15. Restrictions on opening hours of businesses and services[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Restrictions on service of food and drink for consumption on the premises[^key-5d8e32ff1f181c333da04e8468917899]
+#### 16. Exceptions from paragraph 15(1)[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Restricted businesses and services for purposes of Part 3 of this Schedule[^key-5d8e32ff1f181c333da04e8468917899]
+#### 17. Restrictions on service of food and drink for consumption on the premises[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Tier 2 area[^key-5d8e32ff1f181c333da04e8468917899]
+#### 18. Restricted businesses and services for purposes of Part 3 of this Schedule[^c-5d8e32ff1f181c333da04e8468917899]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Tier 2 area[^c-5d8e32ff1f181c333da04e8468917899]
 
 **No longer in force.**
 
 Regulation 3
 
-[^key-5d8e32ff1f181c333da04e8468917899]
+[^c-5d8e32ff1f181c333da04e8468917899]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Consequential amendments and transitional and saving provisions[^key-44e314a9b51cd7e7efe72c0078ab68f7]
+## SCHEDULE 3 — Consequential amendments and transitional and saving provisions[^c-44e314a9b51cd7e7efe72c0078ab68f7]
 
 **No longer in force.**
 
 Regulation 10
 
-### PART 1 — Consequential amendments[^key-44e314a9b51cd7e7efe72c0078ab68f7]
+### PART 1 — Consequential amendments[^c-44e314a9b51cd7e7efe72c0078ab68f7]
 
-#### 1. Amendment of the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020[^key-44e314a9b51cd7e7efe72c0078ab68f7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Amendments of the Health Protection (Coronavirus, Collection of Contact Details etc and Related Requirements) Regulations 2020[^key-44e314a9b51cd7e7efe72c0078ab68f7]
+#### 1. Amendment of the Health Protection (Coronavirus, Restrictions) (No. 2) (England) Regulations 2020[^c-44e314a9b51cd7e7efe72c0078ab68f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Amendments of the Health Protection (Coronavirus, Restrictions) (Obligations of Undertakings) (England) Regulations 2020[^key-44e314a9b51cd7e7efe72c0078ab68f7]
+#### 2. Amendments of the Health Protection (Coronavirus, Collection of Contact Details etc and Related Requirements) Regulations 2020[^c-44e314a9b51cd7e7efe72c0078ab68f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Revocations[^key-44e314a9b51cd7e7efe72c0078ab68f7]
+#### 3. Amendments of the Health Protection (Coronavirus, Restrictions) (Obligations of Undertakings) (England) Regulations 2020[^c-44e314a9b51cd7e7efe72c0078ab68f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Transitional and saving provisions[^key-44e314a9b51cd7e7efe72c0078ab68f7]
+#### 4. Revocations[^c-44e314a9b51cd7e7efe72c0078ab68f7]
 
-**5.**[^key-44e314a9b51cd7e7efe72c0078ab68f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — Transitional and saving provisions[^c-44e314a9b51cd7e7efe72c0078ab68f7]
+
+**5.**[^c-44e314a9b51cd7e7efe72c0078ab68f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -248,8 +248,8 @@ No impact assessment has been prepared for these Regulations.
 
 ## Annotations
 
-[^key-5d8e32ff1f181c333da04e8468917899]: Textual amendment: Regulations revoked (except Sch. 3) (5.11.2020) by [The Health Protection (Coronavirus, Restrictions) (England) (No. 4) Regulations 2020 (S.I. 2020/1200)](https://www.legislation.gov.uk/uksi/2020/1200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1200/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2020/1200/regulation/25/b) (with [regs. 23](https://www.legislation.gov.uk/uksi/2020/1200/regulation/23), [26](https://www.legislation.gov.uk/uksi/2020/1200/regulation/26))
+[^c-5d8e32ff1f181c333da04e8468917899]: Textual amendment: Regulations revoked (except Sch. 3) (5.11.2020) by [The Health Protection (Coronavirus, Restrictions) (England) (No. 4) Regulations 2020 (S.I. 2020/1200)](https://www.legislation.gov.uk/uksi/2020/1200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1200/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2020/1200/regulation/25/b) (with [regs. 23](https://www.legislation.gov.uk/uksi/2020/1200/regulation/23), [26](https://www.legislation.gov.uk/uksi/2020/1200/regulation/26))
 
-[^key-44e314a9b51cd7e7efe72c0078ab68f7]: Textual amendment: Regulations revoked so far as not already revoked (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2021/848/schedule/paragraph/9)
+[^c-44e314a9b51cd7e7efe72c0078ab68f7]: Textual amendment: Regulations revoked so far as not already revoked (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2021/848/schedule/paragraph/9)
 
 [^c24298151]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Part 2A was inserted by section 129 of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14).

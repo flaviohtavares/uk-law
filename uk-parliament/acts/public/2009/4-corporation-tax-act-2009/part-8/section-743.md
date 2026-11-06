@@ -24,7 +24,7 @@ summary: ''
 
 (2) For the purposes of subsection (1), the cost of the asset recognised for tax purposes is the same as the amount of the expenditure on the asset that is capitalised for accounting purposes.
 
-(3) Subsection (2) is subject to any adjustments required by this Part or Part 4 of TIOPA 2010[^key-8d53cc715a2f05b35e6f56c0f8ef4248] (provision not at arm's length).
+(3) Subsection (2) is subject to any adjustments required by this Part or Part 4 of TIOPA 2010[^c-8d53cc715a2f05b35e6f56c0f8ef4248] (provision not at arm's length).
 
 (4) In the case of an asset that has been the subject of a part realisation, this section is subject to section 744.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d53cc715a2f05b35e6f56c0f8ef4248]: Textual amendment: Words in s. 743(3) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 145(1)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/1), [(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-8d53cc715a2f05b35e6f56c0f8ef4248]: Textual amendment: Words in s. 743(3) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 145(1)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/1), [(2)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/145/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

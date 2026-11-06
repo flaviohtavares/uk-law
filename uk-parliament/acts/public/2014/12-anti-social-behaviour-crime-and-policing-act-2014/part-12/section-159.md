@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Request for temporary transfer etc[^key-13293b966dc1b38c5f134eeefe633e0f]
+## 159. Request for temporary transfer etc[^c-13293b966dc1b38c5f134eeefe633e0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ Before section 22 of the Extradition Act 2003 there is inserted—
 
 ## Annotations
 
-[^key-13293b966dc1b38c5f134eeefe633e0f]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2014/12/section/159) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(f)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/f)
+[^c-13293b966dc1b38c5f134eeefe633e0f]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2014/12/section/159) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(f)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/f)

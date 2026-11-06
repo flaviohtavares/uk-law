@@ -75,21 +75,21 @@ Accordingly, His Majesty, by and with the advice of His Privy Council, makes the
 
 ## PART 1 — Preliminary
 
-### 1. Citation[^key-0af24d529aa1e645edb0ca2677899e93]
+### 1. Citation[^c-0af24d529aa1e645edb0ca2677899e93]
 
 This Order may be cited as the Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025.
 
-### 2. Commencement[^key-f8d366eebd2e8a152dcd7f5b77d86d7c]
+### 2. Commencement[^c-f8d366eebd2e8a152dcd7f5b77d86d7c]
 
 This Order comes into force on 31st March 2025.
 
-### 3. Extent[^key-68dea2637b60984eeccc2ab73822d37d]
+### 3. Extent[^c-68dea2637b60984eeccc2ab73822d37d]
 
 This Order extends to the whole of the United Kingdom.
 
 ## PART 2 — Free allocation in 2026 allocation period
 
-### 4. Interpretation[^key-4a74fef4e2aa79f6176dd15e0b060d07]
+### 4. Interpretation[^c-4a74fef4e2aa79f6176dd15e0b060d07]
 
 (1) In this Part—
 
@@ -102,7 +102,7 @@ This Order extends to the whole of the United Kingdom.
 
 (2) This Part must be interpreted as if it were part of the UK ETS Order.
 
-### 5. Meaning of “2026 incumbent”, etc.[^key-4c72baa25b8afb75088f2adfb73d7141]
+### 5. Meaning of “2026 incumbent”, etc.[^c-4c72baa25b8afb75088f2adfb73d7141]
 
 (1) An installation is a “2026 incumbent” if—
 
@@ -134,7 +134,7 @@ This Order extends to the whole of the United Kingdom.
 
 (7) For the purpose of this Part, the question of whether an installation is an FA installation for the 2021-2025 allocation period must be determined as if article 4A(3)(a) of the UK ETS Order were omitted.
 
-### 6. Free allocation in 2026 allocation period: type 1 2026 incumbents[^key-6bbcf4804dc4b0e57c44634354f93f5a][^key-47e3c34e4b08d2a9489fbc64e6ed5c41]
+### 6. Free allocation in 2026 allocation period: type 1 2026 incumbents[^c-6bbcf4804dc4b0e57c44634354f93f5a][^c-47e3c34e4b08d2a9489fbc64e6ed5c41]
 
 (1) This article applies to an installation that is a type 1 2026 incumbent after the question of whether any adjustment to free allocation under the Activity Level Changes Regulation[^f00006] is required in consequence of the 2025 ALC obligation has been considered.
 
@@ -168,7 +168,7 @@ This Order extends to the whole of the United Kingdom.
 - “**ALC adjustment**” means an adjustment to free allocation under the Activity Level Changes Regulation approved by the UK ETS authority under Article 6a of that Regulation in consequence of the obligation in Article 3 of that Regulation to report on activity levels up to and including activity levels in 2024;
 - “**sub-installation**” does not include a sub-installation for which no historical activity level has been determined under the Free Allocation Regulation or the Activity Level Changes Regulation.
 
-### 7. Free allocation in 2026 allocation period: type 2 2026 incumbents[^key-01fd34e0423f178d67fd161ab2c78102]
+### 7. Free allocation in 2026 allocation period: type 2 2026 incumbents[^c-01fd34e0423f178d67fd161ab2c78102]
 
 (1) This article applies to an installation that is a type 2 2026 incumbent.
 
@@ -217,11 +217,11 @@ This Order extends to the whole of the United Kingdom.
 - (a) an Article 4 application is valid if the first stage of the application is in accordance with the Free Allocation Regulation;
 - (b) “**start of normal operation**” has the meaning given in Article 2(1)(12) of the Free Allocation Regulation.
 
-### 8. 2026 incumbents; allocation from flexible reserve if industry cap exceeded[^key-6f26b75f2263c2499dcbd92a6984a89f]
+### 8. 2026 incumbents; allocation from flexible reserve if industry cap exceeded[^c-6f26b75f2263c2499dcbd92a6984a89f]
 
 If the total final annual number of allowances approved by the UK ETS authority under this Part to be allocated for the 2026 scheme year in respect of all 2026 incumbents exceeds 31,623,876 (industry cap for 2026 scheme year[^f00007]), the difference must be allocated from the flexible reserve (see article 23A of the UK ETS Order).
 
-### 9. Renunciation of free allocation in 2026 allocation period[^key-b43a6fc817fc497d491a8b8db77d9085]
+### 9. Renunciation of free allocation in 2026 allocation period[^c-b43a6fc817fc497d491a8b8db77d9085]
 
 (1) The operator of the following installations may renounce free allocation in the 2026 allocation period by giving notice (a “renunciation notice”) to the regulator—
 
@@ -232,7 +232,7 @@ If the total final annual number of allowances approved by the UK ETS authority 
 
 (3) The regulator must notify the UK ETS authority of each renunciation notice given.
 
-### 10. Free allocation in 2026 allocation period: lime and malt extract[^key-8e2fab38da1f776579615bca4adff12c]
+### 10. Free allocation in 2026 allocation period: lime and malt extract[^c-8e2fab38da1f776579615bca4adff12c]
 
 For the purpose of calculating the preliminary annual number of allowances to be allocated in respect of sub-installations for the 2026 scheme year under this Part, Article 18 of the Free Allocation Regulation or Article 3a of the Activity Level Changes Regulation, the Free Allocation Regulation applies as if—
 
@@ -241,11 +241,11 @@ For the purpose of calculating the preliminary annual number of allowances to be
 
 ## PART 3 — Greenhouse Gas Emissions Trading Scheme Order 2020 amended
 
-### 11. Greenhouse Gas Emissions Trading Scheme Order 2020 amended[^key-e2b8ed4832fd21f541ef88358874b183]
+### 11. Greenhouse Gas Emissions Trading Scheme Order 2020 amended[^c-e2b8ed4832fd21f541ef88358874b183]
 
 The Greenhouse Gas Emissions Trading Scheme Order 2020 is amended in accordance with this Part.
 
-### 12. Article 4 amended (interpretation)[^key-466b633fde3d8eaeba0e6f6944b1d2e4]
+### 12. Article 4 amended (interpretation)[^c-466b633fde3d8eaeba0e6f6944b1d2e4]
 
 (1) Article 4 is amended as follows.
 
@@ -274,7 +274,7 @@ The Greenhouse Gas Emissions Trading Scheme Order 2020 is amended in accordance 
   ;
 - (e) in the entry beginning “FA installation” for ““FA installation for the 2026-2030 allocation period”” substitute ““FA installation for the 2026 and 2027-2030 allocation periods””.
 
-### 13. Article 4A amended (meaning of FA installation, etc.)[^key-759e77058937bd82270061af63d9104b]
+### 13. Article 4A amended (meaning of FA installation, etc.)[^c-759e77058937bd82270061af63d9104b]
 
 (1) Article 4A is amended as follows.
 
@@ -308,13 +308,13 @@ The Greenhouse Gas Emissions Trading Scheme Order 2020 is amended in accordance 
 
   .
 
-### 14. Article 12 amended (aircraft operator: change in regulator)[^key-14604e17647f450dca4a1c5cd2449640]
+### 14. Article 12 amended (aircraft operator: change in regulator)[^c-14604e17647f450dca4a1c5cd2449640]
 
 (1) Article 12 is amended as follows.
 
 (2) In paragraph (2) in the words after sub-paragraph (c) for “the beginning of the 2026-2030 allocation period” substitute “1st January 2026”.
 
-### 15. Article 13 amended (aircraft operator: change in registered office)[^key-a74c5fb01686d3e67a0088b17edaac7a]
+### 15. Article 13 amended (aircraft operator: change in registered office)[^c-a74c5fb01686d3e67a0088b17edaac7a]
 
 (1) Article 13 is amended as follows.
 
@@ -322,13 +322,13 @@ The Greenhouse Gas Emissions Trading Scheme Order 2020 is amended in accordance 
 
 (3) In paragraph (2) in the words after sub-paragraph (b) for “the beginning of the 2026-2030 allocation period” substitute “1st January 2026”.
 
-### 16. Article 20 amended (cap for scheme years)[^key-9a302e4a5512ce44742ef3fcc0ab0f9f]
+### 16. Article 20 amended (cap for scheme years)[^c-9a302e4a5512ce44742ef3fcc0ab0f9f]
 
 (1) Article 20 is amended as follows.
 
 (2) In paragraph (1)(a)(ii) omit “allocation”.
 
-### 17. Article 23A amended (flexible reserve)[^key-d02dc942d788b3f405d7975f72926481]
+### 17. Article 23A amended (flexible reserve)[^c-d02dc942d788b3f405d7975f72926481]
 
 (1) Article 23A is amended as follows.
 
@@ -341,7 +341,7 @@ The Greenhouse Gas Emissions Trading Scheme Order 2020 is amended in accordance 
 
 (3) In paragraph (4)(a) after “Free Allocation Regulation)” insert “or in accordance with article 8 of the Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025”.
 
-### 18. Article 27A amended (installations: information to be submitted on or before 30 June 2025 where no application for free allocation, etc. is made)[^key-2b28d6bb4157484f05190b85d8266c6f]
+### 18. Article 27A amended (installations: information to be submitted on or before 30 June 2025 where no application for free allocation, etc. is made)[^c-2b28d6bb4157484f05190b85d8266c6f]
 
 (1) Article 27A is amended as follows.
 
@@ -356,7 +356,7 @@ The Greenhouse Gas Emissions Trading Scheme Order 2020 is amended in accordance 
 
 (4) In paragraph (3)(d) for “2026-2030” substitute “2027-2030”.
 
-### 19. Article 34A amended (allocation tables for 2021-2025 and 2027-2030 allocation periods)[^key-3624a85e19782ada0f534272528d5d2e]
+### 19. Article 34A amended (allocation tables for 2021-2025 and 2027-2030 allocation periods)[^c-3624a85e19782ada0f534272528d5d2e]
 
 (1) Article 34A is amended as follows.
 
@@ -378,7 +378,7 @@ The Greenhouse Gas Emissions Trading Scheme Order 2020 is amended in accordance 
 
 (6) In paragraph (7)(b) for “2025” substitute “2026”.
 
-### 20. Article 34AA inserted[^key-c48c9a18c9398b41785850ccd9cd43f6]
+### 20. Article 34AA inserted[^c-c48c9a18c9398b41785850ccd9cd43f6]
 
 After article 34A insert—
 
@@ -425,7 +425,7 @@ After article 34A insert—
 
 .
 
-### 21. Article 34B amended (allocation tables: supplementary)[^key-e46145531f76680a841638b95c494e69]
+### 21. Article 34B amended (allocation tables: supplementary)[^c-e46145531f76680a841638b95c494e69]
 
 (1) Article 34B is amended as follows.
 
@@ -439,7 +439,7 @@ After article 34A insert—
 
 .
 
-### 22. Article 34C amended (allocation tables: updates)[^key-4960138433d95ac31213f4e7832e316e]
+### 22. Article 34C amended (allocation tables: updates)[^c-4960138433d95ac31213f4e7832e316e]
 
 (1) Article 34C is amended as follows.
 
@@ -449,7 +449,7 @@ After article 34A insert—
 
 .
 
-### 23. Article 34D amended (allocation tables: publication, etc.)[^key-2b1a43cd1fd7cc2fce27919daf558f63]
+### 23. Article 34D amended (allocation tables: publication, etc.)[^c-2b1a43cd1fd7cc2fce27919daf558f63]
 
 (1) Article 34D is amended as follows.
 
@@ -464,7 +464,7 @@ After article 34A insert—
 - (a) for “2026-2030” substitute “2027-2030”;
 - (b) for “28th February 2026” substitute “1st January 2027”.
 
-### 24. Article 34H amended (installations: errors in applications for free allocation, etc)[^key-deb83f2d149da35e0439c071f9f00b0d]
+### 24. Article 34H amended (installations: errors in applications for free allocation, etc)[^c-deb83f2d149da35e0439c071f9f00b0d]
 
 (1) Article 34H is amended as follows.
 
@@ -472,7 +472,7 @@ After article 34A insert—
 
 (3) In paragraph (7)(c) for “the allocation period” substitute “the 2021-2025 allocation period or, as the case may be, an FA installation for the 2026 and 2027-2030 allocation periods”.
 
-### 25. Article 59 amended (ultra-small emitters: reportable emissions exceeding maximum amount)[^key-c9d17643fdfae0427190ed7df2a747d1]
+### 25. Article 59 amended (ultra-small emitters: reportable emissions exceeding maximum amount)[^c-c9d17643fdfae0427190ed7df2a747d1]
 
 (1) Article 59 is amended as follows.
 
@@ -481,7 +481,7 @@ After article 34A insert—
 - (a) in sub-paragraph (a) for “an allocation period” substitute “the period beginning with 1st January 2021 and ending with 31st December 2025, or in the 2026-2030 period,”;
 - (b) in sub-paragraph (b) omit “allocation”.
 
-### 26. Article 75B amended (restriction on disclosing information)[^key-af3547b22be9d9f3efb20a7229e6e5c0]
+### 26. Article 75B amended (restriction on disclosing information)[^c-af3547b22be9d9f3efb20a7229e6e5c0]
 
 (1) Article 75B is amended as follows.
 
@@ -504,13 +504,13 @@ After article 34A insert—
 
 .
 
-### 27. Article 75C amended (national security)[^key-6361d078068fb99630c59ec285cf67b6]
+### 27. Article 75C amended (national security)[^c-6361d078068fb99630c59ec285cf67b6]
 
 (1) Article 75C is amended as follows.
 
 (2) In paragraph (1) for “paragraph 31 of Schedule 5A (information about accounts)” substitute “paragraph 31 or 34 of Schedule 5A (information about accounts and transfers of allowances)”.
 
-### 28. Schedule 3 amended (applications, notices, etc. submitted to regulators)[^key-20619c72b43ded70a9d018976b5daea1]
+### 28. Schedule 3 amended (applications, notices, etc. submitted to regulators)[^c-20619c72b43ded70a9d018976b5daea1]
 
 (1) Schedule 3 is amended as follows.
 
@@ -521,7 +521,7 @@ Paragraph 2 amended (determination of applications by regulators)
 - (a) in paragraph (a) omit “allocation”;
 - (b) in paragraph (b) omit “allocation”.
 
-### 29. Schedule 5A amended (registry)[^key-4cf6ccf17a17a18ef7cd1e64388601a5]
+### 29. Schedule 5A amended (registry)[^c-4cf6ccf17a17a18ef7cd1e64388601a5]
 
 (1) Schedule 5A is amended as follows.
 
@@ -564,7 +564,7 @@ Paragraph 34 amended (information about transfers of allowances)
 
   .
 
-### 30. Schedule 6 amended (permits)[^key-9b091f6e694c314de03531a25a456962]
+### 30. Schedule 6 amended (permits)[^c-9b091f6e694c314de03531a25a456962]
 
 (1) Schedule 6 is amended as follows.
 
@@ -572,7 +572,7 @@ Paragraph 6 amended (variation of permits)
 
 (2) In paragraph 6(3)(b)(iv) omit “allocation”.
 
-### 31. Schedule 7 amended (hospitals and small emitters)[^key-b6381f263eed96d5be3aca8351f92ded]
+### 31. Schedule 7 amended (hospitals and small emitters)[^c-b6381f263eed96d5be3aca8351f92ded]
 
 (1) Schedule 7 is amended as follows.
 
@@ -630,7 +630,7 @@ Paragraph 23B inserted
 
 .
 
-### 32. Schedule 8 amended (ultra-small emitters)[^key-a986a9192f2248578b74352fe4cbebf5]
+### 32. Schedule 8 amended (ultra-small emitters)[^c-a986a9192f2248578b74352fe4cbebf5]
 
 (1) Schedule 8 is amended as follows.
 
@@ -694,11 +694,11 @@ Paragraph 8 amended (end of ultra-small emitter status: publication)
 
 ## PART 4 — Free Allocation Regulation amended
 
-### 33. Free Allocation Regulation amended[^key-a9ecb9dcaf341b905aecc00cfba8ded5]
+### 33. Free Allocation Regulation amended[^c-a9ecb9dcaf341b905aecc00cfba8ded5]
 
 Commission Delegated [Regulation (EU) 2019/331](https://www.legislation.gov.uk/european/regulation/2019/0331) is amended in accordance with this Part.
 
-### 34. Article 2 amended (definitions)[^key-fb2fa70d5d0d3364d6dd1e624449cfb8]
+### 34. Article 2 amended (definitions)[^c-fb2fa70d5d0d3364d6dd1e624449cfb8]
 
 (1) Article 2 is amended as follows.
 
@@ -718,7 +718,7 @@ Commission Delegated [Regulation (EU) 2019/331](https://www.legislation.gov.uk/e
 
 .
 
-### 35. Article 2a amended (eligibility for free allocation)[^key-e9a612cff0a510483089333dee504cb0]
+### 35. Article 2a amended (eligibility for free allocation)[^c-e9a612cff0a510483089333dee504cb0]
 
 (1) Article 2a is amended as follows.
 
@@ -736,7 +736,7 @@ Commission Delegated [Regulation (EU) 2019/331](https://www.legislation.gov.uk/e
 - (a) in the words before point (a) for “and Articles 3a to 6a of the Activity Level Changes Regulation” substitute “, Articles 3a to 6a of the Activity Level Changes Regulation and Part 2 of the Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025”;
 - (b) in point (a) after “start of normal operation of the sub-installation” insert “, or in a case where the installation includes the heat benchmark sub-installation at the date of completion of the first stage of an application under Article 4”.
 
-### 36. Article 2b amended (free allocation in 2026 and 2027-2030 allocation periods: applications by incumbent installations that will not produce electricity for sale for consumption outside the installation)[^key-3ca379a95b3d34b2bb1e7a037e4b3d6d]
+### 36. Article 2b amended (free allocation in 2026 and 2027-2030 allocation periods: applications by incumbent installations that will not produce electricity for sale for consumption outside the installation)[^c-3ca379a95b3d34b2bb1e7a037e4b3d6d]
 
 (1) Article 2b is amended as follows.
 
@@ -770,13 +770,13 @@ Commission Delegated [Regulation (EU) 2019/331](https://www.legislation.gov.uk/e
 
 (9) In paragraph 10(a) after “the date of” insert “the submission of documents as part of the first stage of”.
 
-### 37. Article 2c amended (meaning of “electricity generator” and “relevant CHP electricity”)[^key-761ef20f162bd683933bb836fd327a7a]
+### 37. Article 2c amended (meaning of “electricity generator” and “relevant CHP electricity”)[^c-761ef20f162bd683933bb836fd327a7a]
 
 (1) Article 2c is amended as follows.
 
 (2) In paragraph 3 in the words before point (a) for “2026-2030 allocation period” substitute “2026 allocation period or the 2027-2030 allocation period”.
 
-### 38. Article 4 amended (application for free allocation in 2027-2030 allocation period by operators of incumbent installations)[^key-2dcd6c83815696c4e599011b39dbf267]
+### 38. Article 4 amended (application for free allocation in 2027-2030 allocation period by operators of incumbent installations)[^c-2dcd6c83815696c4e599011b39dbf267]
 
 (1) Article 4 is amended as follows.
 
@@ -825,13 +825,13 @@ Commission Delegated [Regulation (EU) 2019/331](https://www.legislation.gov.uk/e
 
 .
 
-### 39. Article 5 amended (application for free allocation by new entrants)[^key-459df89380ff73f06975f9e99817032f]
+### 39. Article 5 amended (application for free allocation by new entrants)[^c-459df89380ff73f06975f9e99817032f]
 
 (1) Article 5 is amended as follows.
 
 (2) In paragraph 1(b) for “2026-2030” substitute “2026 allocation period and the 2027-2030”.
 
-### 40. Article 8 amended (content and submission of the monitoring methodology plan)[^key-1ca8baa89dd6b4c28917cbb8d532cca3]
+### 40. Article 8 amended (content and submission of the monitoring methodology plan)[^c-1ca8baa89dd6b4c28917cbb8d532cca3]
 
 (1) Article 8 is amended as follows.
 
@@ -843,7 +843,7 @@ Commission Delegated [Regulation (EU) 2019/331](https://www.legislation.gov.uk/e
 
 .
 
-### 41. Article 15a amended (assessment of applications for free allocation by operators of incumbent installations)[^key-fb8988efcad9a3bf1ad6d7050832813b]
+### 41. Article 15a amended (assessment of applications for free allocation by operators of incumbent installations)[^c-fb8988efcad9a3bf1ad6d7050832813b]
 
 (1) Article 15a is amended as follows.
 
@@ -857,7 +857,7 @@ Commission Delegated [Regulation (EU) 2019/331](https://www.legislation.gov.uk/e
 
   .
 
-### 42. Article 16 amended (preliminary allocation at installation level for incumbent installations)[^key-34608359dbb9bb2500a274432b5ed2b2]
+### 42. Article 16 amended (preliminary allocation at installation level for incumbent installations)[^c-34608359dbb9bb2500a274432b5ed2b2]
 
 (1) Article 16 is amended as follows.
 
@@ -876,7 +876,7 @@ Commission Delegated [Regulation (EU) 2019/331](https://www.legislation.gov.uk/e
 
 .
 
-### 43. Article 16a amended (cross-sectoral correction factors)[^key-0d09a99a3bb4d95c43797fe7ed6cd71c]
+### 43. Article 16a amended (cross-sectoral correction factors)[^c-0d09a99a3bb4d95c43797fe7ed6cd71c]
 
 (1) Article 16a is amended as follows.
 
@@ -900,13 +900,13 @@ Commission Delegated [Regulation (EU) 2019/331](https://www.legislation.gov.uk/e
 
 (6) In paragraph 8 for “2026-2030 allocation period” substitute “2027-2030 allocation period”.
 
-### 44. Article 16b (final allocation at installation level for incumbent installations)[^key-47aacc45b36840555a9d9b6da9cc7166]
+### 44. Article 16b (final allocation at installation level for incumbent installations)[^c-47aacc45b36840555a9d9b6da9cc7166]
 
 (1) Article 16b is amended as follows.
 
 (2) In paragraph 1(a)(ii) for “2026-2030” in both places substitute “2027-2030”.
 
-### 45. Article 18 amended (preliminary allocation to new entrants)[^key-18f95a342c35de4f5c4fdf18da8528b1]
+### 45. Article 18 amended (preliminary allocation to new entrants)[^c-18f95a342c35de4f5c4fdf18da8528b1]
 
 (1) Article 18 is amended as follows.
 
@@ -926,7 +926,7 @@ Commission Delegated [Regulation (EU) 2019/331](https://www.legislation.gov.uk/e
 
 .
 
-### 46. Article 24 amended (renunciation of free allocation of allowances)[^key-5bda37472a801af9d64db984026ebc62]
+### 46. Article 24 amended (renunciation of free allocation of allowances)[^c-5bda37472a801af9d64db984026ebc62]
 
 (1) Article 24 is amended as follows.
 
@@ -936,7 +936,7 @@ Commission Delegated [Regulation (EU) 2019/331](https://www.legislation.gov.uk/e
 
 .
 
-### 47. Article 25 amended (mergers and splits)[^key-42fcd75fc6579612939419a7e84110d5]
+### 47. Article 25 amended (mergers and splits)[^c-42fcd75fc6579612939419a7e84110d5]
 
 (1) Article 25 is amended as follows.
 
@@ -982,7 +982,7 @@ Commission Delegated [Regulation (EU) 2019/331](https://www.legislation.gov.uk/e
 
 .
 
-### 48. Annex 7 amended (data monitoring methods)[^key-1450ec30e6f1e1854c2a42bdeef98028]
+### 48. Annex 7 amended (data monitoring methods)[^c-1450ec30e6f1e1854c2a42bdeef98028]
 
 (1) Annex 7 is amended as follows.
 
@@ -990,7 +990,7 @@ Section 4 amended (selection of determination methodologies and data sources rep
 
 (2) In section 4.2 (unreasonable costs) in the third paragraph in point (f) for “2026-2030” substitute “2027-2030”.
 
-### 49. Annex 8 amended (benchmarks)[^key-bd87093e3a3c6d2aa4ddb33ef63751fe]
+### 49. Annex 8 amended (benchmarks)[^c-bd87093e3a3c6d2aa4ddb33ef63751fe]
 
 (1) Annex 8 is amended as follows.
 
@@ -1000,17 +1000,17 @@ Section 4 amended (selection of determination methodologies and data sources rep
 
 ## PART 5 — Activity Level Changes Regulation amended
 
-### 50. Activity Level Changes Regulation amended[^key-6709c374c4d9ce65c171e1a23a74602c]
+### 50. Activity Level Changes Regulation amended[^c-6709c374c4d9ce65c171e1a23a74602c]
 
 Commission Implementing [Regulation (EU) 2019/1842](https://www.legislation.gov.uk/european/regulation/2019/1842) is amended in accordance with this Part.
 
-### 51. Article 3 amended (reporting requirements)[^key-c0f2280148bb1b1e027729b2107c2aea]
+### 51. Article 3 amended (reporting requirements)[^c-c0f2280148bb1b1e027729b2107c2aea]
 
 (1) Article 3 is amended as follows.
 
 (2) In paragraph 1 after “for 2024.” insert “In 2027, this report must include data for the 2 years preceding its submission if the operator is not required under this Article to submit in 2026 a report including data for 2025.”.
 
-### 52. Article 3a amended (sub-installations for which no historical activity determined)[^key-b25d468d977c240e18621339c846e854]
+### 52. Article 3a amended (sub-installations for which no historical activity determined)[^c-b25d468d977c240e18621339c846e854]
 
 (1) Article 3a is amended as follows.
 
@@ -1025,7 +1025,7 @@ Commission Implementing [Regulation (EU) 2019/1842](https://www.legislation.gov.
 
 .
 
-### 53. Article 5 amended (adjustments to free allocation due to activity level changes)[^key-1b44a48ef72856aebf5230b734d0872c]
+### 53. Article 5 amended (adjustments to free allocation due to activity level changes)[^c-1b44a48ef72856aebf5230b734d0872c]
 
 (1) Article 5 is amended as follows.
 
@@ -1065,73 +1065,73 @@ No impact assessment has been produced for this instrument as no, or no signific
 
 [^f00002]: Footnote: EUR 2016/679. Article 36(4) is amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
 
-[^key-0af24d529aa1e645edb0ca2677899e93]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2025/124/article/1) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-0af24d529aa1e645edb0ca2677899e93]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2025/124/article/1) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-f8d366eebd2e8a152dcd7f5b77d86d7c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-f8d366eebd2e8a152dcd7f5b77d86d7c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-68dea2637b60984eeccc2ab73822d37d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2025/124/article/3) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-68dea2637b60984eeccc2ab73822d37d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2025/124/article/3) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-4a74fef4e2aa79f6176dd15e0b060d07]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2025/124/article/4) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-4a74fef4e2aa79f6176dd15e0b060d07]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2025/124/article/4) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
 [^f00003]: Footnote: EUR 2019/331, amended by [S.I. 2020/1557](https://www.legislation.gov.uk/uksi/2020/1557), [2021/1455](https://www.legislation.gov.uk/uksi/2021/1455), [2022/1173](https://www.legislation.gov.uk/uksi/2022/1173), [2023/850](https://www.legislation.gov.uk/uksi/2023/850), [2023/1387](https://www.legislation.gov.uk/uksi/2023/1387), [2024/192](https://www.legislation.gov.uk/uksi/2024/192), [2024/1366](https://www.legislation.gov.uk/uksi/2024/1366), [2025/100](https://www.legislation.gov.uk/uksi/2025/100) and this Order. Article 4(1) of [S.I. 2020/1265](https://www.legislation.gov.uk/uksi/2020/1265) defines “Free Allocation Regulation” as Commission Delegated [Regulation (EU) 2019/331](https://www.legislation.gov.uk/european/regulation/2019/0331) of 19 December 2018, as it forms part of domestic law.
 
 [^f00004]: Footnote: [S.I. 2020/1265](https://www.legislation.gov.uk/uksi/2020/1265), amended by [S.I. 2020/1557](https://www.legislation.gov.uk/uksi/2020/1557), [2021/1455](https://www.legislation.gov.uk/uksi/2021/1455), [2022/454](https://www.legislation.gov.uk/uksi/2022/454), [2022/1173](https://www.legislation.gov.uk/uksi/2022/1173), [2023/850](https://www.legislation.gov.uk/uksi/2023/850), [2023/1267](https://www.legislation.gov.uk/uksi/2023/1267), [2023/1387](https://www.legislation.gov.uk/uksi/2023/1387), [2024/192](https://www.legislation.gov.uk/uksi/2024/192), [2024/1366](https://www.legislation.gov.uk/uksi/2024/1366), [2025/100](https://www.legislation.gov.uk/uksi/2025/100) and this Order.
 
-[^key-4c72baa25b8afb75088f2adfb73d7141]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2025/124/article/5) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-4c72baa25b8afb75088f2adfb73d7141]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2025/124/article/5) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
 [^f00005]: Footnote: See article 4A of [S.I. 2020/1265](https://www.legislation.gov.uk/uksi/2020/1265) for the definition of “FA installation for the 2021-2025 allocation period”.
 
-[^key-6bbcf4804dc4b0e57c44634354f93f5a]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2025/124/article/6) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-6bbcf4804dc4b0e57c44634354f93f5a]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2025/124/article/6) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-47e3c34e4b08d2a9489fbc64e6ed5c41]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2025/124/article/6) applied (31.3.2025) by [S.I. 2020/1265](https://www.legislation.gov.uk/uksi/2020/1265), [art. 34AA(7)(a)](https://www.legislation.gov.uk/uksi/2020/1265/article/34AA/7/a) (as inserted by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [20](https://www.legislation.gov.uk/uksi/2025/124/article/20))
+[^c-47e3c34e4b08d2a9489fbc64e6ed5c41]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2025/124/article/6) applied (31.3.2025) by [S.I. 2020/1265](https://www.legislation.gov.uk/uksi/2020/1265), [art. 34AA(7)(a)](https://www.legislation.gov.uk/uksi/2020/1265/article/34AA/7/a) (as inserted by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [20](https://www.legislation.gov.uk/uksi/2025/124/article/20))
 
 [^f00006]: Footnote: EUR 2019/1842, amended by [S.I. 2020/1557](https://www.legislation.gov.uk/uksi/2020/1557), [2022/1173](https://www.legislation.gov.uk/uksi/2022/1173), [2023/850](https://www.legislation.gov.uk/uksi/2023/850), [2023/1387](https://www.legislation.gov.uk/uksi/2023/1387), [2025/100](https://www.legislation.gov.uk/uksi/2025/100) and this Order. Article 4(1) of [S.I. 2020/1265](https://www.legislation.gov.uk/uksi/2020/1265) defines “Activity Level Changes Regulation” as Commission Implementing [Regulation (EU) 2019/1842](https://www.legislation.gov.uk/european/regulation/2019/1842) of 31 October 2019, as it forms part of domestic law.
 
-[^key-01fd34e0423f178d67fd161ab2c78102]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2025/124/article/7) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-01fd34e0423f178d67fd161ab2c78102]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2025/124/article/7) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-6f26b75f2263c2499dcbd92a6984a89f]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2025/124/article/8) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-6f26b75f2263c2499dcbd92a6984a89f]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2025/124/article/8) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
 [^f00007]: Footnote: The industry cap for the 2026 scheme year is set out in table A in Article 16a(6) of the Free Allocation Regulation, as amended by [S.I. 2024/1366](https://www.legislation.gov.uk/uksi/2024/1366).
 
-[^key-b43a6fc817fc497d491a8b8db77d9085]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2025/124/article/9) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-b43a6fc817fc497d491a8b8db77d9085]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2025/124/article/9) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-8e2fab38da1f776579615bca4adff12c]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2025/124/article/10) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-8e2fab38da1f776579615bca4adff12c]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2025/124/article/10) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
 [^f00008]: Footnote: PRODCOM code 10.89.19.25.
 
 [^f00009]: Footnote: EUD 2019/708. For sectors and subsectors deemed at risk of carbon leakage set out in the Annex to the Decision, free allocation is not reduced by the factors set out in Annex 5 to the Free Allocation Regulation.
 
-[^key-e2b8ed4832fd21f541ef88358874b183]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2025/124/article/11) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-e2b8ed4832fd21f541ef88358874b183]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2025/124/article/11) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-466b633fde3d8eaeba0e6f6944b1d2e4]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2025/124/article/12) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-466b633fde3d8eaeba0e6f6944b1d2e4]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2025/124/article/12) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-759e77058937bd82270061af63d9104b]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2025/124/article/13) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-759e77058937bd82270061af63d9104b]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2025/124/article/13) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-14604e17647f450dca4a1c5cd2449640]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2025/124/article/14) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-14604e17647f450dca4a1c5cd2449640]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2025/124/article/14) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-a74c5fb01686d3e67a0088b17edaac7a]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2025/124/article/15) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-a74c5fb01686d3e67a0088b17edaac7a]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2025/124/article/15) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-9a302e4a5512ce44742ef3fcc0ab0f9f]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2025/124/article/16) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-9a302e4a5512ce44742ef3fcc0ab0f9f]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2025/124/article/16) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-d02dc942d788b3f405d7975f72926481]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2025/124/article/17) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-d02dc942d788b3f405d7975f72926481]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2025/124/article/17) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-2b28d6bb4157484f05190b85d8266c6f]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2025/124/article/18) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-2b28d6bb4157484f05190b85d8266c6f]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2025/124/article/18) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-3624a85e19782ada0f534272528d5d2e]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2025/124/article/19) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-3624a85e19782ada0f534272528d5d2e]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2025/124/article/19) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-c48c9a18c9398b41785850ccd9cd43f6]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2025/124/article/20) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-c48c9a18c9398b41785850ccd9cd43f6]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2025/124/article/20) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-e46145531f76680a841638b95c494e69]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2025/124/article/21) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-e46145531f76680a841638b95c494e69]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2025/124/article/21) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-4960138433d95ac31213f4e7832e316e]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2025/124/article/22) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-4960138433d95ac31213f4e7832e316e]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2025/124/article/22) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-2b1a43cd1fd7cc2fce27919daf558f63]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2025/124/article/23) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-2b1a43cd1fd7cc2fce27919daf558f63]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2025/124/article/23) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-deb83f2d149da35e0439c071f9f00b0d]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2025/124/article/24) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-deb83f2d149da35e0439c071f9f00b0d]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2025/124/article/24) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-c9d17643fdfae0427190ed7df2a747d1]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2025/124/article/25) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-c9d17643fdfae0427190ed7df2a747d1]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2025/124/article/25) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-af3547b22be9d9f3efb20a7229e6e5c0]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2025/124/article/26) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-af3547b22be9d9f3efb20a7229e6e5c0]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2025/124/article/26) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
 [^f00010]: Footnote: “National authority” is defined in section 95 of the Climate Change Act 2008.
 
@@ -1143,60 +1143,60 @@ No impact assessment has been produced for this instrument as no, or no signific
 
 [^f00014]: Footnote: [2022 c. 31. (N.I.)](https://www.legislation.gov.uk/nia/2022/31).
 
-[^key-6361d078068fb99630c59ec285cf67b6]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2025/124/article/27) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-6361d078068fb99630c59ec285cf67b6]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2025/124/article/27) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-20619c72b43ded70a9d018976b5daea1]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2025/124/article/28) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-20619c72b43ded70a9d018976b5daea1]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2025/124/article/28) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-4cf6ccf17a17a18ef7cd1e64388601a5]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2025/124/article/29) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-4cf6ccf17a17a18ef7cd1e64388601a5]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2025/124/article/29) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
 [^f00015]: Footnote: [S.I. 2021/484](https://www.legislation.gov.uk/uksi/2021/484), amended by [S.I. 2021/513](https://www.legislation.gov.uk/uksi/2021/513), [2021/561](https://www.legislation.gov.uk/uksi/2021/561), [2021/917](https://www.legislation.gov.uk/uksi/2021/917), [2023/994](https://www.legislation.gov.uk/uksi/2023/994) and [2024/1366](https://www.legislation.gov.uk/uksi/2024/1366).
 
-[^key-9b091f6e694c314de03531a25a456962]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2025/124/article/30) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-9b091f6e694c314de03531a25a456962]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2025/124/article/30) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-b6381f263eed96d5be3aca8351f92ded]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2025/124/article/31) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-b6381f263eed96d5be3aca8351f92ded]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2025/124/article/31) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-a986a9192f2248578b74352fe4cbebf5]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2025/124/article/32) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-a986a9192f2248578b74352fe4cbebf5]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2025/124/article/32) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-a9ecb9dcaf341b905aecc00cfba8ded5]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2025/124/article/33) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-a9ecb9dcaf341b905aecc00cfba8ded5]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2025/124/article/33) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-fb2fa70d5d0d3364d6dd1e624449cfb8]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2025/124/article/34) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-fb2fa70d5d0d3364d6dd1e624449cfb8]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2025/124/article/34) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-e9a612cff0a510483089333dee504cb0]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2025/124/article/35) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-e9a612cff0a510483089333dee504cb0]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2025/124/article/35) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-3ca379a95b3d34b2bb1e7a037e4b3d6d]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2025/124/article/36) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-3ca379a95b3d34b2bb1e7a037e4b3d6d]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2025/124/article/36) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-761ef20f162bd683933bb836fd327a7a]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2025/124/article/37) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-761ef20f162bd683933bb836fd327a7a]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2025/124/article/37) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-2dcd6c83815696c4e599011b39dbf267]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2025/124/article/38) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-2dcd6c83815696c4e599011b39dbf267]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2025/124/article/38) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
 [^f00016]: Footnote: Article 2(1)(23) of the Free Allocation Regulation defines “UK ETS Order” as the Greenhouse Gas Emissions Trading Scheme Order 2020.
 
-[^key-459df89380ff73f06975f9e99817032f]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2025/124/article/39) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-459df89380ff73f06975f9e99817032f]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2025/124/article/39) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-1ca8baa89dd6b4c28917cbb8d532cca3]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2025/124/article/40) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-1ca8baa89dd6b4c28917cbb8d532cca3]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2025/124/article/40) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-fb8988efcad9a3bf1ad6d7050832813b]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2025/124/article/41) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-fb8988efcad9a3bf1ad6d7050832813b]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2025/124/article/41) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-34608359dbb9bb2500a274432b5ed2b2]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2025/124/article/42) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-34608359dbb9bb2500a274432b5ed2b2]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2025/124/article/42) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-0d09a99a3bb4d95c43797fe7ed6cd71c]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2025/124/article/43) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-0d09a99a3bb4d95c43797fe7ed6cd71c]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2025/124/article/43) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-47aacc45b36840555a9d9b6da9cc7166]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2025/124/article/44) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-47aacc45b36840555a9d9b6da9cc7166]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2025/124/article/44) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-18f95a342c35de4f5c4fdf18da8528b1]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2025/124/article/45) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-18f95a342c35de4f5c4fdf18da8528b1]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2025/124/article/45) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-5bda37472a801af9d64db984026ebc62]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2025/124/article/46) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-5bda37472a801af9d64db984026ebc62]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2025/124/article/46) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-42fcd75fc6579612939419a7e84110d5]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2025/124/article/47) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-42fcd75fc6579612939419a7e84110d5]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2025/124/article/47) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-1450ec30e6f1e1854c2a42bdeef98028]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2025/124/article/48) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-1450ec30e6f1e1854c2a42bdeef98028]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2025/124/article/48) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-bd87093e3a3c6d2aa4ddb33ef63751fe]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2025/124/article/49) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-bd87093e3a3c6d2aa4ddb33ef63751fe]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2025/124/article/49) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-6709c374c4d9ce65c171e1a23a74602c]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2025/124/article/50) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-6709c374c4d9ce65c171e1a23a74602c]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2025/124/article/50) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-c0f2280148bb1b1e027729b2107c2aea]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2025/124/article/51) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-c0f2280148bb1b1e027729b2107c2aea]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2025/124/article/51) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-b25d468d977c240e18621339c846e854]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2025/124/article/52) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-b25d468d977c240e18621339c846e854]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2025/124/article/52) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
 
-[^key-1b44a48ef72856aebf5230b734d0872c]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2025/124/article/53) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)
+[^c-1b44a48ef72856aebf5230b734d0872c]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2025/124/article/53) in force at 31.3.2025, see [art. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2)

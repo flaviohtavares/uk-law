@@ -27,9 +27,9 @@ summary: ''
 
 (2) Part 15 (family property) comes into force on such day as the Lord Chancellor may by order appoint.
 
-(3) Subject to[^key-eae080f1c84ddeb3f2da8b20995e07dc] subsections (4) and (6)[^key-b4f9bb6f3aee90fd800e01d2ea0a2046] , the other provisions of this Act come into force on such day as a Minister of the Crown may by order appoint.
+(3) Subject to[^c-eae080f1c84ddeb3f2da8b20995e07dc] subsections (4) and (6)[^c-b4f9bb6f3aee90fd800e01d2ea0a2046] , the other provisions of this Act come into force on such day as a Minister of the Crown may by order appoint.
 
-(4)[^key-a0ad4c9a96f36896ef76055d47229726] The following provisions of Part 1 (socio-economic inequalities) come into force on such day as the Scottish Ministers may by order appoint—
+(4)[^c-a0ad4c9a96f36896ef76055d47229726] The following provisions of Part 1 (socio-economic inequalities) come into force on such day as the Scottish Ministers may by order appoint—
 
 - (a) section 1, so far as it applies to a relevant authority as defined by section 2(5);
 - (b) section 2, so far as it confers a power on the Scottish Ministers;
@@ -40,7 +40,7 @@ summary: ''
 - (a) section 207(2) (see instead section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010: powers exercisable by Scottish statutory instrument), and
 - (b) section 210.
 
-(6)[^key-c944f5b0c576205dddf433c624dd16f1] The following provisions of Part 1 come into force on such day as the Welsh Ministers may by order appoint—
+(6)[^c-c944f5b0c576205dddf433c624dd16f1] The following provisions of Part 1 come into force on such day as the Welsh Ministers may by order appoint—
 
 - (a) section 1, so far as it applies to a relevant authority as defined by section 2(6);
 - (b) section 2, so far as it confers a power on the Welsh Ministers;
@@ -72,10 +72,10 @@ summary: ''
 
     1.9.2012 by {[S.I. 2012/2184](https://www.legislation.gov.uk/uksi/2012/2184)}, art. 2
 
-[^key-eae080f1c84ddeb3f2da8b20995e07dc]: Textual amendment: Words in s. 216(3) inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 38(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/38/9), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
+[^c-eae080f1c84ddeb3f2da8b20995e07dc]: Textual amendment: Words in s. 216(3) inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 38(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/38/9), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
 
-[^key-b4f9bb6f3aee90fd800e01d2ea0a2046]: Textual amendment: Words in s. 216(3) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 45(5)](https://www.legislation.gov.uk/ukpga/2017/4/section/45/5), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/i)
+[^c-b4f9bb6f3aee90fd800e01d2ea0a2046]: Textual amendment: Words in s. 216(3) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 45(5)](https://www.legislation.gov.uk/ukpga/2017/4/section/45/5), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/i)
 
-[^key-a0ad4c9a96f36896ef76055d47229726]: Textual amendment: S. 216(4)(5) inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 38(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/38/9), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
+[^c-a0ad4c9a96f36896ef76055d47229726]: Textual amendment: S. 216(4)(5) inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 38(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/38/9), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7)
 
-[^key-c944f5b0c576205dddf433c624dd16f1]: Textual amendment: S. 216(6)(7) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 45(6)](https://www.legislation.gov.uk/ukpga/2017/4/section/45/6), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/i)
+[^c-c944f5b0c576205dddf433c624dd16f1]: Textual amendment: S. 216(6)(7) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 45(6)](https://www.legislation.gov.uk/ukpga/2017/4/section/45/6), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/i)

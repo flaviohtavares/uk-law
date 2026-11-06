@@ -24,7 +24,7 @@ summary: ''
 
 Regulation 8
 
-**1.**[^key-e79a94af049cefd2d2de8d10bf3851e3] In this Schedule—
+**1.**[^c-e79a94af049cefd2d2de8d10bf3851e3] In this Schedule—
 
 - “nominated person” means the person (if any) who is for the time being nominated—
   - (a) in a case where there is an association or body representative of a majority of the total number of persons employed at a mine, by that association or body;
@@ -32,14 +32,14 @@ Regulation 8
 
   to receive on behalf of the persons so employed notices under this Schedule.
 
-**2.**[^key-0e8630f3f44165d593f6f6f1f4ee787f] Where at a mine any person, as a result of an accident arising out of or in connection with work, dies or suffers any major injury, or where there is a dangerous occurrence, the responsible person shall—
+**2.**[^c-0e8630f3f44165d593f6f6f1f4ee787f] Where at a mine any person, as a result of an accident arising out of or in connection with work, dies or suffers any major injury, or where there is a dangerous occurrence, the responsible person shall—
 
 - (a) forthwith notify the nominated person thereof by the quickest practicable means; and
 - (b) within 7 days send a report thereof to the nominated person on a form approved for the purposes of regulation 3.
 
-**3.**[^key-b3bc0532a8d2d99c7b8aed580383c33e] Where there is a non-fatal injury to any person at a mine which is reported in accordance with paragraph 2, after which that person dies and his death is as a result of the accident, then as soon as it comes to his knowledge the responsible person shall give notice of the death to the nominated person.
+**3.**[^c-b3bc0532a8d2d99c7b8aed580383c33e] Where there is a non-fatal injury to any person at a mine which is reported in accordance with paragraph 2, after which that person dies and his death is as a result of the accident, then as soon as it comes to his knowledge the responsible person shall give notice of the death to the nominated person.
 
-**4.**[^key-340079b72ea841aac84595cfd4387cab] (1) Where there is an accident or dangerous occurrence in relation to which paragraph 2 applies, a person shall not disturb the place where it happened or tamper with anything at that place before—
+**4.**[^c-340079b72ea841aac84595cfd4387cab] (1) Where there is an accident or dangerous occurrence in relation to which paragraph 2 applies, a person shall not disturb the place where it happened or tamper with anything at that place before—
 
 - (a) the expiration of 3 clear days after the matter to which paragraph 2 applies has been notified in accordance with these Regulations; or
 - (b) the place has been visited by an inspector and by workmen’s inspectors exercising the powers conferred on them by section 105 of the Mines Act (Northern Ireland) 1969[^f00032],
@@ -61,21 +61,21 @@ Regulation 8
 
 (5) It shall be a defence in proceedings against any person for contravening sub-paragraph (1) in any case which consists of the doing of any act, for that person to prove that the doing of that act was necessary for securing the safety of the mine or of any person.
 
-**5.**[^key-45db1908e36f7bb3a0379f1fd8861727] The record kept under regulation 7, excluding any health record of an identifiable individual, shall be available for inspection by—
+**5.**[^c-45db1908e36f7bb3a0379f1fd8861727] The record kept under regulation 7, excluding any health record of an identifiable individual, shall be available for inspection by—
 
 - (a) the nominated person; and
 - (b) workmen’s inspectors exercising the powers conferred on them by section 105 of the Mines Act (Northern Ireland) 1969.
 
 ## Annotations
 
-[^key-e79a94af049cefd2d2de8d10bf3851e3]: Commencement: Sch. 5 para. 1 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-e79a94af049cefd2d2de8d10bf3851e3]: Commencement: Sch. 5 para. 1 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
 
-[^key-0e8630f3f44165d593f6f6f1f4ee787f]: Commencement: Sch. 5 para. 2 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-0e8630f3f44165d593f6f6f1f4ee787f]: Commencement: Sch. 5 para. 2 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
 
-[^key-b3bc0532a8d2d99c7b8aed580383c33e]: Commencement: Sch. 5 para. 3 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-b3bc0532a8d2d99c7b8aed580383c33e]: Commencement: Sch. 5 para. 3 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
 
-[^key-340079b72ea841aac84595cfd4387cab]: Commencement: Sch. 5 para. 4 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-340079b72ea841aac84595cfd4387cab]: Commencement: Sch. 5 para. 4 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
 
 [^f00032]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6)
 
-[^key-45db1908e36f7bb3a0379f1fd8861727]: Commencement: Sch. 5 para. 5 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-45db1908e36f7bb3a0379f1fd8861727]: Commencement: Sch. 5 para. 5 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)

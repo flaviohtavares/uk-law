@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Recognised professional bodies: revocation of recognition[^key-575b94934824ab7fe62d0feb3bde6bdf]
+## 17. Recognised professional bodies: revocation of recognition[^c-575b94934824ab7fe62d0feb3bde6bdf]
 
 *Extent: N.I.*
 
@@ -110,4 +110,4 @@ summary: ''
 
 ## Annotations
 
-[^key-575b94934824ab7fe62d0feb3bde6bdf]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2016/2/section/17) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-575b94934824ab7fe62d0feb3bde6bdf]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2016/2/section/17) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

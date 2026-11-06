@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Right to elect Court Martial trial[^key-0749a679f1eae84b1882a0e77e5a8902][^key-4f25a20d906f7efd97e32035613fa14f]
+## 129. Right to elect Court Martial trial[^c-0749a679f1eae84b1882a0e77e5a8902][^c-4f25a20d906f7efd97e32035613fa14f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) Where two or more charges against the accused are to be heard summarily together, an election for Court Martial trial in respect of any of the charges takes effect as an election in respect of all of them.
 
-(4)[^key-528d28493aaefe8a3ffcdc0a39f93d80] Subsection (5) applies if an opportunity to elect Court Martial trial of a charge (“**the original charge**”) has been given under subsection (1) and subsequently—
+(4)[^c-528d28493aaefe8a3ffcdc0a39f93d80] Subsection (5) applies if an opportunity to elect Court Martial trial of a charge (“**the original charge**”) has been given under subsection (1) and subsequently—
 
 - (a) the charge is amended;
 - (b) another charge is substituted for it; or
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0749a679f1eae84b1882a0e77e5a8902]: Commencement: S. 129 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-0749a679f1eae84b1882a0e77e5a8902]: Commencement: S. 129 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-4f25a20d906f7efd97e32035613fa14f]: Commencement: S. 129 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-4f25a20d906f7efd97e32035613fa14f]: Commencement: S. 129 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-528d28493aaefe8a3ffcdc0a39f93d80]: Textual amendment: S. 129(4)-(8) substituted for s. 129(4) (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/7); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-528d28493aaefe8a3ffcdc0a39f93d80]: Textual amendment: S. 129(4)-(8) substituted for s. 129(4) (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/7); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)

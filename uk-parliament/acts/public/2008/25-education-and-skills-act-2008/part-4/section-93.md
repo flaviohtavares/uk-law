@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Application of Chapter to institutions in England only[^key-69685ff3ce9de01c069895c252a2a347]
+## 93. Application of Chapter to institutions in England only[^c-69685ff3ce9de01c069895c252a2a347]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69685ff3ce9de01c069895c252a2a347]: Commencement: S. 93 in force at 1.9.2009 in so far as not already in force by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 3](https://www.legislation.gov.uk/uksi/2009/1606/article/3)
+[^c-69685ff3ce9de01c069895c252a2a347]: Commencement: S. 93 in force at 1.9.2009 in so far as not already in force by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 3](https://www.legislation.gov.uk/uksi/2009/1606/article/3)

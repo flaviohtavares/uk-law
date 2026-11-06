@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 162. Proof of sending etc[^key-1b841347ca962401305fa180403c2f9c]
+## 162. Proof of sending etc[^c-1b841347ca962401305fa180403c2f9c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b841347ca962401305fa180403c2f9c]: Commencement: [Rule 162](https://www.legislation.gov.uk/uksi/2013/3208/rule/162) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-1b841347ca962401305fa180403c2f9c]: Commencement: [Rule 162](https://www.legislation.gov.uk/uksi/2013/3208/rule/162) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

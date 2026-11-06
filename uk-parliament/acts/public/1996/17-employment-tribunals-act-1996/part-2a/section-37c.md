@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37C. Settlement sum: unpaid amount[^key-dc47ac277ab531f58e439e91868aaf6c]
+## 37C. Settlement sum: unpaid amount[^c-dc47ac277ab531f58e439e91868aaf6c]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc47ac277ab531f58e439e91868aaf6c]: Textual amendment: Pt. 2A inserted (6.4.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 150(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/8)); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)
+[^c-dc47ac277ab531f58e439e91868aaf6c]: Textual amendment: Pt. 2A inserted (6.4.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 150(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/8)); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)

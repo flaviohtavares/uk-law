@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Amendments to search warrant provisions[^key-50d6d5338304cca5fa472a6297db43bb]
+## 54. Amendments to search warrant provisions[^c-50d6d5338304cca5fa472a6297db43bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 8 (amendments to search warrant provisions) has effect.
 
 ## Annotations
 
-[^key-50d6d5338304cca5fa472a6297db43bb]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2016/19/section/54) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(f)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/f)
+[^c-50d6d5338304cca5fa472a6297db43bb]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2016/19/section/54) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(f)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/f)

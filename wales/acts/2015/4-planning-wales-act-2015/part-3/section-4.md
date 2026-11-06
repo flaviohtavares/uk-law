@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Designating strategic planning areas and establishing strategic planning panels[^key-6b41c1e784baae114cc212cdd6594222]
+## 4. Designating strategic planning areas and establishing strategic planning panels[^c-6b41c1e784baae114cc212cdd6594222]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b41c1e784baae114cc212cdd6594222]: Textual amendment: Ss. 4-6 and cross-heading omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 10](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/10)
+[^c-6b41c1e784baae114cc212cdd6594222]: Textual amendment: Ss. 4-6 and cross-heading omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 10](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/10)

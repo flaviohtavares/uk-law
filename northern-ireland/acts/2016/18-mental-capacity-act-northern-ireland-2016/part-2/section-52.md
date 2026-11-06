@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Powers of Tribunal in relation to authorisation under Schedule 2[^key-aaa56149d5c80ed2520ebc486d4c37db]
+## 52. Powers of Tribunal in relation to authorisation under Schedule 2[^c-aaa56149d5c80ed2520ebc486d4c37db]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaa56149d5c80ed2520ebc486d4c37db]: Commencement: [S. 52](https://www.legislation.gov.uk/nia/2016/18/section/52) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-aaa56149d5c80ed2520ebc486d4c37db]: Commencement: [S. 52](https://www.legislation.gov.uk/nia/2016/18/section/52) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

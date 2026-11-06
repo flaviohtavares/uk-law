@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41A. UK(NI) indication[^key-37117a71728139ff1fe81720cc590e32]
+## 41A. UK(NI) indication[^c-37117a71728139ff1fe81720cc590e32]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37117a71728139ff1fe81720cc590e32]: Textual amendment: [Regs. 41A](https://www.legislation.gov.uk/nisr/2017/90/regulation/41A), [41B](https://www.legislation.gov.uk/nisr/2017/90/regulation/41B) inserted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2023/861/regulation/5/2)
+[^c-37117a71728139ff1fe81720cc590e32]: Textual amendment: [Regs. 41A](https://www.legislation.gov.uk/nisr/2017/90/regulation/41A), [41B](https://www.legislation.gov.uk/nisr/2017/90/regulation/41B) inserted (10.8.2023) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017 (Amendment) (Northern Ireland) Regulations 2023 (S.I. 2023/861)](https://www.legislation.gov.uk/uksi/2023/861), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/861/regulation/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2023/861/regulation/5/2)

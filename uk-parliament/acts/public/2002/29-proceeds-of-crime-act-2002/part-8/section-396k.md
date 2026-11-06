@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 396K. Variation and recall of interim freezing order[^key-f30b956f7b742e29d95880bdb734a743]
+## 396K. Variation and recall of interim freezing order[^c-f30b956f7b742e29d95880bdb734a743]
 
 *Extent: S*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (6) References in this section to the “applicable 48 hour period” are to be read as follows—
 
-- (a) in a case where the respondent complies, or purports to comply, with the requirements imposed by the unexplained wealth order before the end of the response period, it is the period of 48 hours beginning with the day after the day with which the determination period (see section 396D(4))[^key-340a890e958ad0c4b5a229b542e43936] ends;
+- (a) in a case where the respondent complies, or purports to comply, with the requirements imposed by the unexplained wealth order before the end of the response period, it is the period of 48 hours beginning with the day after the day with which the determination period (see section 396D(4))[^c-340a890e958ad0c4b5a229b542e43936] ends;
 - (b) in any other case, it is the period of 48 hours beginning with the day after the day on which the response period ends.
 
 (7) In calculating a period of 48 hours for the purposes of subsection (6), no account is to be taken of—
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f30b956f7b742e29d95880bdb734a743]: Textual amendment: Ss. 396J-396S inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 5](https://www.legislation.gov.uk/ukpga/2017/22/section/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
+[^c-f30b956f7b742e29d95880bdb734a743]: Textual amendment: Ss. 396J-396S inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 5](https://www.legislation.gov.uk/ukpga/2017/22/section/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
 
-[^key-340a890e958ad0c4b5a229b542e43936]: Textual amendment: Words in [s. 396K(6)(a)](https://www.legislation.gov.uk/ukpga/2002/29/section/396K/6/a) substituted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 50(4)](https://www.legislation.gov.uk/ukpga/2022/10/section/50/4), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)
+[^c-340a890e958ad0c4b5a229b542e43936]: Textual amendment: Words in [s. 396K(6)(a)](https://www.legislation.gov.uk/ukpga/2002/29/section/396K/6/a) substituted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 50(4)](https://www.legislation.gov.uk/ukpga/2022/10/section/50/4), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 138. Interests of children in proceedings[^key-972ceb1917f8bc7f266955a19494b9d6]
+## 138. Interests of children in proceedings[^c-972ceb1917f8bc7f266955a19494b9d6]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ In Article 60 of the Children Order (specified proceedings), in paragraph (6), a
 
 ## Annotations
 
-[^key-972ceb1917f8bc7f266955a19494b9d6]: Commencement: S. 138 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-972ceb1917f8bc7f266955a19494b9d6]: Commencement: S. 138 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

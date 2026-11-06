@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Disclosure of information[^key-1e1c172224c91e3eaf7101e1040ed7f6]
+## 33A. Disclosure of information[^c-1e1c172224c91e3eaf7101e1040ed7f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,11 +49,11 @@ summary: ''
 - (l) the disclosure is required or authorised to be made—
   - (i) under regulations made under section 33D, or
   - (ii) in relation to any time before the coming into force of the first regulations under that section, under regulations made under section 251 of the National Health Service Act 2006,
-- (m) in relation to Northern Ireland,[^key-01a3805f43ee2252c281033fafd6988c] the disclosure is made by a person acting in the capacity mentioned in subsection (1)(a) or (b) for the purpose of carrying out the Authority's duties under section 8A,
+- (m) in relation to Northern Ireland,[^c-01a3805f43ee2252c281033fafd6988c] the disclosure is made by a person acting in the capacity mentioned in subsection (1)(a) or (b) for the purpose of carrying out the Authority's duties under section 8A,
 - (n) the disclosure is made by a person acting in the capacity mentioned in subsection (1)(a) or (b) in pursuance of an order of a court under section 34 or 35,
 - (o) the disclosure is made by a person acting in the capacity mentioned in subsection (1)(a) or (b) to the Registrar General in pursuance of a request under section 32,
 - (p) the disclosure is made by a person acting in the capacity mentioned in subsection (1)(a) or (b) to any body or person discharging a regulatory function for the purpose of assisting that body or person to carry out that function,
-- (q) the disclosure is made for the purpose of establishing in any proceedings relating to an application for an order under subsection (1) of section 54 or subsection (1) of section 54A[^key-a3da67d34550b5f6c82514b7a3870492] of the Human Fertilisation and Embryology Act 2008 whether the condition specified in paragraph (a) or (b) of that subsection is met,
+- (q) the disclosure is made for the purpose of establishing in any proceedings relating to an application for an order under subsection (1) of section 54 or subsection (1) of section 54A[^c-a3da67d34550b5f6c82514b7a3870492] of the Human Fertilisation and Embryology Act 2008 whether the condition specified in paragraph (a) or (b) of that subsection is met,
 - (r) the disclosure is made under section 3 of the Access to Health Records Act 1990,
 - (s) the disclosure is made under Article 5 of the Access to Health Records (Northern Ireland) Order 1993, or
 - (t) the disclosure is made necessarily for—
@@ -84,8 +84,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1e1c172224c91e3eaf7101e1040ed7f6]: Textual amendment: Ss. 33A-33D substituted for s. 33 (6.4.2009 for specified purposes, 1.10.2009 for specified purposes, 6.4.2010 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), ss. 25, 68(2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), art. 5(e)(h) (with art. 7 Sch.); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), art. 2(l); [S.I. 2010/987](https://www.legislation.gov.uk/uksi/2010/987), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/987/article/2/a)
+[^c-1e1c172224c91e3eaf7101e1040ed7f6]: Textual amendment: Ss. 33A-33D substituted for s. 33 (6.4.2009 for specified purposes, 1.10.2009 for specified purposes, 6.4.2010 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), ss. 25, 68(2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), art. 5(e)(h) (with art. 7 Sch.); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), art. 2(l); [S.I. 2010/987](https://www.legislation.gov.uk/uksi/2010/987), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/987/article/2/a)
 
-[^key-01a3805f43ee2252c281033fafd6988c]: Textual amendment: Words in s. 33A(2)(m) inserted (31.12.2020) by [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [reg. 2(13)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/13) (as substituted by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [14](https://www.legislation.gov.uk/uksi/2020/1307/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01a3805f43ee2252c281033fafd6988c]: Textual amendment: Words in s. 33A(2)(m) inserted (31.12.2020) by [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [reg. 2(13)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/13) (as substituted by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [14](https://www.legislation.gov.uk/uksi/2020/1307/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a3da67d34550b5f6c82514b7a3870492]: Textual amendment: Words in s. 33A(2)(q) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/4/2)
+[^c-a3da67d34550b5f6c82514b7a3870492]: Textual amendment: Words in s. 33A(2)(q) inserted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/4/2)

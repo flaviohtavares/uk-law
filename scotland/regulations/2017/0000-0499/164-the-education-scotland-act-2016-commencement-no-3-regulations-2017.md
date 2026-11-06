@@ -45,7 +45,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred on them by section 33(2) and (3) of the Education (Scotland) Act 2016[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-3e2d84a8886738e7a87cf9d04c27755e]
+## 1. Citation, commencement and interpretation[^c-3e2d84a8886738e7a87cf9d04c27755e]
 
 (1) These Regulations may be cited as the Education (Scotland) Act 2016 (Commencement No. 3) Regulations 2017 and come into force on 1st August 2017.
 
@@ -54,7 +54,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “the 2000 Act” means the Standards in Scotland’s Schools etc. Act 2000[^f00002];
 - “the 2016 Act” means the Education (Scotland) Act 2016.
 
-## 2. Appointed days[^key-ffdee74ca1048380711f1f335554be2a]
+## 2. Appointed days[^c-ffdee74ca1048380711f1f335554be2a]
 
 (1) Subject to paragraph (2), the day appointed for the coming into force of the provisions of the 2016 Act specified in column 1 of the schedule (the subject matter of which is described in column 2 of the schedule), is specified in column 3 of the schedule.
 
@@ -70,7 +70,7 @@ Edinburgh
 
 23rd May 2017
 
-## SCHEDULE[^key-185091a7bea41f81423c913c486c80ba]
+## SCHEDULE[^c-185091a7bea41f81423c913c486c80ba]
 
 Regulation 2
 
@@ -87,7 +87,7 @@ Regulation 2
 | Section 5 | Duties in relation to promotion of health | 1st August 2017 |  |
 | Section 6 | Parental involvement | 1st August 2017 |  |
 | Section 19 | Additional support for learning | 1st August 2017 | For the purpose of commencing paragraph 15 of the schedule of the 2016 Act. |
-| Section 24 | Enforcement of statutory duties | 10th January 2018[^key-1370e1955262f2bc2f5fe92700a25273] | In so far as not already in force. |
+| Section 24 | Enforcement of statutory duties | 10th January 2018[^c-1370e1955262f2bc2f5fe92700a25273] | In so far as not already in force. |
 | Schedule, paragraph 15 | Modifications of the Education (Additional Support for Learning) (Scotland) Act 2004 | 1st August 2017 |  |
 
 EXPLANATORY NOTE
@@ -156,12 +156,12 @@ The Bill for the 2016 Act received Royal Assent on 8th March 2016. Section 33(1)
 
 [^f00001]: Footnote: [2016 asp 8](https://www.legislation.gov.uk/asp/2016/8).
 
-[^key-3e2d84a8886738e7a87cf9d04c27755e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/164/regulation/1) in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/164/regulation/1/1)
+[^c-3e2d84a8886738e7a87cf9d04c27755e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/164/regulation/1) in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/164/regulation/1/1)
 
 [^f00002]: Footnote: [2000 asp 6](https://www.legislation.gov.uk/asp/2000/6).
 
-[^key-ffdee74ca1048380711f1f335554be2a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2) in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/164/regulation/1/1)
+[^c-ffdee74ca1048380711f1f335554be2a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/164/regulation/2) in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/164/regulation/1/1)
 
-[^key-185091a7bea41f81423c913c486c80ba]: Commencement: Sch. in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/164/regulation/1/1)
+[^c-185091a7bea41f81423c913c486c80ba]: Commencement: Sch. in force at 1.8.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/164/regulation/1/1)
 
-[^key-1370e1955262f2bc2f5fe92700a25273]: Textual amendment: Words in sch. substituted (15.11.2017) by [The Education (Scotland) Act 2016 (Commencement No. 3) Amendment Regulations 2017 (S.S.I. 2017/352)](https://www.legislation.gov.uk/ssi/2017/352), [regs. 1](https://www.legislation.gov.uk/ssi/2017/352/regulation/1), [2](https://www.legislation.gov.uk/ssi/2017/352/regulation/2)
+[^c-1370e1955262f2bc2f5fe92700a25273]: Textual amendment: Words in sch. substituted (15.11.2017) by [The Education (Scotland) Act 2016 (Commencement No. 3) Amendment Regulations 2017 (S.S.I. 2017/352)](https://www.legislation.gov.uk/ssi/2017/352), [regs. 1](https://www.legislation.gov.uk/ssi/2017/352/regulation/1), [2](https://www.legislation.gov.uk/ssi/2017/352/regulation/2)

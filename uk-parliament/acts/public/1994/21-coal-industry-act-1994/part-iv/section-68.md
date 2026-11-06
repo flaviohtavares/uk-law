@@ -31,7 +31,7 @@ summary: ''
   - (i) the [^c10940061]Public Health Act 1961,
   - (ii) the [^c10940071]Licensing Act 1964,
   - (iii)[^c10940081] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iv)[^key-173b4680b79109ffecf72459a21b3791] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-173b4680b79109ffecf72459a21b3791] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (v)[^c10940101] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (vi) the [^c10940111]Overseas Development and Co-operation Act 1980,
   - (vii) the [^c10940121]National Audit Act 1983,
@@ -41,7 +41,7 @@ summary: ''
 - (e) Part II of Schedule 11; and
 - (f) subsections (1) and (8) of section 67 so far as they relate to provisions coming into force on that date by virtue of paragraphs (d) and (e) above.
 
-(3)[^key-49d67feacb7a7acb86e6713bae32cda2] The following provisions of this Act shall come into force on the dissolution date, that is to say—
+(3)[^c-49d67feacb7a7acb86e6713bae32cda2] The following provisions of this Act shall come into force on the dissolution date, that is to say—
 
 - (a) Schedule 9, so far as it relates to—
   - (i) the [^c10940161]Public Health Act 1961,
@@ -74,13 +74,13 @@ but, where an order under that subsection makes any such provision as is mention
 
 *Extent: E+W+S*
 
-- (za)[^key-27ebf17c6383cd8626d4e51959c744c3] sections 4A to 4C and Schedules 1A and 1B;
+- (za)[^c-27ebf17c6383cd8626d4e51959c744c3] sections 4A to 4C and Schedules 1A and 1B;
 - (a) sections 49 and 50 and Schedule 7; and
 - (b) so much of Schedules 9 and 11 as relates to enactments extending to England and Wales only.
 
 *Extent: S*
 
-(7A)[^key-7c28c09046a19ea5f6b0ea73f48a52fa] Sections 4D to 4F of, and Schedule 1C to, this Act extend to Scotland only.
+(7A)[^c-7c28c09046a19ea5f6b0ea73f48a52fa] Sections 4D to 4F of, and Schedule 1C to, this Act extend to Scotland only.
 
 (8) This Act, except for—
 
@@ -113,7 +113,7 @@ does not extend to Northern Ireland.
 
 [^c10940081]: Textual amendment: S. 68(2)(d)(iii) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV), Group 2
 
-[^key-173b4680b79109ffecf72459a21b3791]: Textual amendment: S. 68(2)(d)(iv) repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4) (as amended by S.I. 2007/1157, [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7); S.I. 2007/2169, [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7))) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
+[^c-173b4680b79109ffecf72459a21b3791]: Textual amendment: S. 68(2)(d)(iv) repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4) (as amended by S.I. 2007/1157, [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7); S.I. 2007/2169, [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7))) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
 
 [^c10940101]: Textual amendment: S. 68(2)(d)(v) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [s. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I)
 
@@ -127,7 +127,7 @@ does not extend to Northern Ireland.
 
 [^c10940151]: Marginal citation: [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28).
 
-[^key-49d67feacb7a7acb86e6713bae32cda2]: Subordinate legislation: S. 68(3) power exercised: 27.3.2004 appointed as the dissolution date, see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3
+[^c-49d67feacb7a7acb86e6713bae32cda2]: Subordinate legislation: S. 68(3) power exercised: 27.3.2004 appointed as the dissolution date, see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3
 
 [^c10940161]: Marginal citation: [1961 c. 64](https://www.legislation.gov.uk/ukpga/1961/64).
 
@@ -149,9 +149,9 @@ does not extend to Northern Ireland.
 
 [^c23550631]: Subordinate legislation: S. 68(4)(5) power partly exercised: 1.3.1995 appointed for specified provisions and purposes by [S.I. 1995/273](https://www.legislation.gov.uk/uksi/1995/273), [art. 2](https://www.legislation.gov.uk/uksi/1995/273/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1995/273/schedule)
 
-[^key-27ebf17c6383cd8626d4e51959c744c3]: Textual amendment: S. 68(7)(za) inserted (E.W.S.) (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 85(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/85/3), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/641/article/3/w) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-27ebf17c6383cd8626d4e51959c744c3]: Textual amendment: S. 68(7)(za) inserted (E.W.S.) (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 85(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/85/3), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/641/article/3/w) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-7c28c09046a19ea5f6b0ea73f48a52fa]: Textual amendment: S. 68(7A) inserted (S.) (20.6.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 30(3)](https://www.legislation.gov.uk/asp/2005/3/section/30/3), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)
+[^c-7c28c09046a19ea5f6b0ea73f48a52fa]: Textual amendment: S. 68(7A) inserted (S.) (20.6.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 30(3)](https://www.legislation.gov.uk/asp/2005/3/section/30/3), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)
 
 [^c10940211]: Marginal citation: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Investigations: investigators' powers[^key-c183a55e9c392ba977d59d21d1263550]
+## 49. Investigations: investigators' powers[^c-c183a55e9c392ba977d59d21d1263550]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c183a55e9c392ba977d59d21d1263550]: Commencement: S. 49 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)
+[^c-c183a55e9c392ba977d59d21d1263550]: Commencement: S. 49 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)

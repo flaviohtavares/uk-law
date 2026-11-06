@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 311. Calculation of allowance after sale of relevant interest[^key-fcb5abfe8a5dec7342ef683f180ddc01][^key-9110db95a01c0c29a5bddba26486e553]
+## 311. Calculation of allowance after sale of relevant interest[^c-fcb5abfe8a5dec7342ef683f180ddc01][^c-9110db95a01c0c29a5bddba26486e553]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ B is the length of the period from the date of the event to the end of the perio
 
 ## Annotations
 
-[^key-fcb5abfe8a5dec7342ef683f180ddc01]: Modification: S. 311 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 28](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/28)
+[^c-fcb5abfe8a5dec7342ef683f180ddc01]: Modification: S. 311 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 28](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/28)
 
-[^key-9110db95a01c0c29a5bddba26486e553]: Textual amendment: Pt. 3 omitted (with effect in relation to chargeable periods beginning on or after 1.4.2011 for corporation tax purposes and 6.4.2011 for income tax purposes in accordance with ss. 84(1)(3)(4), 85, 86 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/84/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27))
+[^c-9110db95a01c0c29a5bddba26486e553]: Textual amendment: Pt. 3 omitted (with effect in relation to chargeable periods beginning on or after 1.4.2011 for corporation tax purposes and 6.4.2011 for income tax purposes in accordance with ss. 84(1)(3)(4), 85, 86 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/84/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27))

@@ -121,7 +121,7 @@ which it would not incur, or be under, or be deemed to have, in the case of an a
 - (a) “**"bank”**” means—
   - (i) the Bank of England;
   - (ii) a person (other than a building society) who under Part 4 of the Financial Services and Markets Act 2000 [^c20993041] has permission to accept deposits;
-  - (iii) [^key-cabe0f5a06824685aea9856f25ee6c10]...; and
+  - (iii) [^c-cabe0f5a06824685aea9856f25ee6c10]...; and
 - (b) “**"building society”**” means a building society incorporated (or deemed to be incorporated) under the Building Societies Act 1986 [^c20993081].
 
 ### 3. Modifications to existing enactments relating to conveyancing etc
@@ -164,7 +164,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c20993041]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Part 4 is amended by Section 3(1) to (3) of the [Financial Services Act 2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), [S.I](https://www.legislation.gov.uk/ukpga/2010/28/section/I). 2001/544, [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476), [S.I](https://www.legislation.gov.uk/uksi/2003/1476/section/I). 2006/2383, [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [S.I](https://www.legislation.gov.uk/uksi/2007/126/section/I). 2007/1973 and [S.I. 2009/1342](https://www.legislation.gov.uk/uksi/2009/1342).
 
-[^key-cabe0f5a06824685aea9856f25ee6c10]: Textual amendment: [Sch. para. 2(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2011/2038/schedule/paragraph/2/4/a/iii) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 63](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/63) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cabe0f5a06824685aea9856f25ee6c10]: Textual amendment: [Sch. para. 2(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2011/2038/schedule/paragraph/2/4/a/iii) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 63](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/63) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20993081]: Marginal citation: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Stopping up of footpaths on HPC development site[^key-090ed57d52dbcf8f8ebc6f1e84a4537c]
+## 14. Stopping up of footpaths on HPC development site[^c-090ed57d52dbcf8f8ebc6f1e84a4537c]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-090ed57d52dbcf8f8ebc6f1e84a4537c]: Commencement: Art. 14 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-090ed57d52dbcf8f8ebc6f1e84a4537c]: Commencement: Art. 14 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

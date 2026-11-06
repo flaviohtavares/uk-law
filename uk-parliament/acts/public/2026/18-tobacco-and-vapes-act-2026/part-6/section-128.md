@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Exclusion for advertisements that are displays[^key-51aecbd38571de80a78147a8eff972a2]
+## 128. Exclusion for advertisements that are displays[^c-51aecbd38571de80a78147a8eff972a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51aecbd38571de80a78147a8eff972a2]: Commencement: S. 128 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-51aecbd38571de80a78147a8eff972a2]: Commencement: S. 128 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

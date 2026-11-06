@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**28.**[^key-f72c18370f7da392a8ce3082d23a9db6] Omit section 28A (application of Act to authorities having functions under the Children Act 1989).
+**28.**[^c-f72c18370f7da392a8ce3082d23a9db6] Omit section 28A (application of Act to authorities having functions under the Children Act 1989).
 
 ## Annotations
 
-[^key-f72c18370f7da392a8ce3082d23a9db6]: Commencement: Reg. 28 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-f72c18370f7da392a8ce3082d23a9db6]: Commencement: Reg. 28 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Notice of decision without notice of proposal[^key-ec66815c5fcc4be0d86934958f5f33c9]
+## 20. Notice of decision without notice of proposal[^c-ec66815c5fcc4be0d86934958f5f33c9]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec66815c5fcc4be0d86934958f5f33c9]: Commencement: S. 20 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
+[^c-ec66815c5fcc4be0d86934958f5f33c9]: Commencement: S. 20 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)

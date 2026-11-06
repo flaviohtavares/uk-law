@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Power to make consequential amendments[^key-17e71816039b69ae4b43d21818f2b347]
+## 47. Power to make consequential amendments[^c-17e71816039b69ae4b43d21818f2b347]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ passed before the end of the session of Parliament in which this Act is passed.
 
 ## Annotations
 
-[^key-17e71816039b69ae4b43d21818f2b347]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2025/34/section/47) in force at 18.2.2026, see [s. 118(1)(z2)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z2)
+[^c-17e71816039b69ae4b43d21818f2b347]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2025/34/section/47) in force at 18.2.2026, see [s. 118(1)(z2)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z2)

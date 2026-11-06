@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.12. “Debt”, “liability” (winding up)[^key-0f21119bccfea3f3bfa3c1c617a56471]
+## 13.12. “Debt”, “liability” (winding up)[^c-0f21119bccfea3f3bfa3c1c617a56471]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f21119bccfea3f3bfa3c1c617a56471]: Textual amendment: [Rule 13.12](https://www.legislation.gov.uk/uksi/1986/1925/article/13.12) substituted (1.6.2006) by [The Insolvency (Amendment) Rules 2006 (S.I. 2006/1272)](https://www.legislation.gov.uk/uksi/2006/1272), [rules 1(2)](https://www.legislation.gov.uk/uksi/2006/1272/article/1/2), [4](https://www.legislation.gov.uk/uksi/2006/1272/rule/4) (with [rule 3](https://www.legislation.gov.uk/uksi/2006/1272/rule/3))
+[^c-0f21119bccfea3f3bfa3c1c617a56471]: Textual amendment: [Rule 13.12](https://www.legislation.gov.uk/uksi/1986/1925/article/13.12) substituted (1.6.2006) by [The Insolvency (Amendment) Rules 2006 (S.I. 2006/1272)](https://www.legislation.gov.uk/uksi/2006/1272), [rules 1(2)](https://www.legislation.gov.uk/uksi/2006/1272/article/1/2), [4](https://www.legislation.gov.uk/uksi/2006/1272/rule/4) (with [rule 3](https://www.legislation.gov.uk/uksi/2006/1272/rule/3))

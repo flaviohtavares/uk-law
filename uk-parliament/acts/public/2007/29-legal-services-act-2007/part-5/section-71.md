@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 71. Carrying on of activities by licensed bodies[^key-593c91d50e825c37550d8ace7174b7c7]
+## 71. Carrying on of activities by licensed bodies[^c-593c91d50e825c37550d8ace7174b7c7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-593c91d50e825c37550d8ace7174b7c7]: Commencement: S. 71 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)
+[^c-593c91d50e825c37550d8ace7174b7c7]: Commencement: S. 71 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)

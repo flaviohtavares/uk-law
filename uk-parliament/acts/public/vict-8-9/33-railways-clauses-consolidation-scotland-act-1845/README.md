@@ -31,7 +31,7 @@ Railways Clauses Consolidation (Scotland) Act 1845
 
 An Act for consolidating in One Act certain Provisions usually inserted in Acts authorizing the making of Railways in Scotland.
 
-\[21st July 1845\][^c5588501][^c5588511][^c5588521][^c5588531][^c5588541][^key-47bd016e66b53cb3b24764ec3311adda][^key-0e04de9f834f733ae11d26720819e398][^key-bd829c3a2001d20ddb1b68bb463f19d3][^key-84099f150041d5abc6be689ceac1b996][^key-3d865da81d1c46f13e91676e87e91f4b][^key-49449039430a2ae14a88a6915478e7ee]
+\[21st July 1845\][^c5588501][^c5588511][^c5588521][^c5588531][^c5588541][^c-47bd016e66b53cb3b24764ec3311adda][^c-0e04de9f834f733ae11d26720819e398][^c-bd829c3a2001d20ddb1b68bb463f19d3][^c-84099f150041d5abc6be689ceac1b996][^c-3d865da81d1c46f13e91676e87e91f4b][^c-49449039430a2ae14a88a6915478e7ee]
 
 ## Contents
 
@@ -305,17 +305,17 @@ And with respect to the provision to be made for affording access to the special
 
     Act excluded (24.3.1994) by [1994 c. iii](https://www.legislation.gov.uk/ukla/1994/3), [s. 1](https://www.legislation.gov.uk/ukla/1994/3/section/1), [Sch. Pt. II para. 5(2)](https://www.legislation.gov.uk/ukla/1994/3/schedule/part/II/paragraph/5/2)
 
-[^key-47bd016e66b53cb3b24764ec3311adda]: Modification: Act incorporated (11.8.2004) by [Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004 (asp 10)](https://www.legislation.gov.uk/asp/2004/10), [s. 37(1)(b)](https://www.legislation.gov.uk/asp/2004/10/section/37/1/b) (with [s. 33](https://www.legislation.gov.uk/asp/2004/10/section/33))
+[^c-47bd016e66b53cb3b24764ec3311adda]: Modification: Act incorporated (11.8.2004) by [Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004 (asp 10)](https://www.legislation.gov.uk/asp/2004/10), [s. 37(1)(b)](https://www.legislation.gov.uk/asp/2004/10/section/37/1/b) (with [s. 33](https://www.legislation.gov.uk/asp/2004/10/section/33))
 
-[^key-0e04de9f834f733ae11d26720819e398]: Modification: Act incorporated in part (with modifications) (24.7.2006) by [Waverley Railway (Scotland) Act 2006 (asp 13)](https://www.legislation.gov.uk/asp/2006/13), [s. 52](https://www.legislation.gov.uk/asp/2006/13/section/52) (with [ss. 8(4)](https://www.legislation.gov.uk/asp/2006/13/section/8/4), [50(2)](https://www.legislation.gov.uk/asp/2006/13/section/50/2), [51](https://www.legislation.gov.uk/asp/2006/13/section/51))
+[^c-0e04de9f834f733ae11d26720819e398]: Modification: Act incorporated in part (with modifications) (24.7.2006) by [Waverley Railway (Scotland) Act 2006 (asp 13)](https://www.legislation.gov.uk/asp/2006/13), [s. 52](https://www.legislation.gov.uk/asp/2006/13/section/52) (with [ss. 8(4)](https://www.legislation.gov.uk/asp/2006/13/section/8/4), [50(2)](https://www.legislation.gov.uk/asp/2006/13/section/50/2), [51](https://www.legislation.gov.uk/asp/2006/13/section/51))
 
-[^key-bd829c3a2001d20ddb1b68bb463f19d3]: Modification: Act incorporated in part (15.1.2007) by [Glasgow Airport Rail Link Act 2007 (asp 1)](https://www.legislation.gov.uk/asp/2007/1), [s. 47](https://www.legislation.gov.uk/asp/2007/1/section/47) (with [s. 50](https://www.legislation.gov.uk/asp/2007/1/section/50))
+[^c-bd829c3a2001d20ddb1b68bb463f19d3]: Modification: Act incorporated in part (15.1.2007) by [Glasgow Airport Rail Link Act 2007 (asp 1)](https://www.legislation.gov.uk/asp/2007/1), [s. 47](https://www.legislation.gov.uk/asp/2007/1/section/47) (with [s. 50](https://www.legislation.gov.uk/asp/2007/1/section/50))
 
-[^key-84099f150041d5abc6be689ceac1b996]: Modification: Act incorporated in part (with modifications) (19.4.2007) by [Edinburgh Airport Rail Link Act 2007 (asp 16)](https://www.legislation.gov.uk/asp/2007/16), [s. 58](https://www.legislation.gov.uk/asp/2007/16/section/58) (with [ss. 52](https://www.legislation.gov.uk/asp/2007/16/section/52), [60](https://www.legislation.gov.uk/asp/2007/16/section/60))
+[^c-84099f150041d5abc6be689ceac1b996]: Modification: Act incorporated in part (with modifications) (19.4.2007) by [Edinburgh Airport Rail Link Act 2007 (asp 16)](https://www.legislation.gov.uk/asp/2007/16), [s. 58](https://www.legislation.gov.uk/asp/2007/16/section/58) (with [ss. 52](https://www.legislation.gov.uk/asp/2007/16/section/52), [60](https://www.legislation.gov.uk/asp/2007/16/section/60))
 
-[^key-3d865da81d1c46f13e91676e87e91f4b]: Modification: Act incorporated in part (8.5.2007) by [Airdrie-Bathgate Railway and Linked Improvements Act 2007 (asp 19)](https://www.legislation.gov.uk/asp/2007/19), [s. 57](https://www.legislation.gov.uk/asp/2007/19/section/57) (with [ss. 48](https://www.legislation.gov.uk/asp/2007/19/section/48), [59](https://www.legislation.gov.uk/asp/2007/19/section/59))
+[^c-3d865da81d1c46f13e91676e87e91f4b]: Modification: Act incorporated in part (8.5.2007) by [Airdrie-Bathgate Railway and Linked Improvements Act 2007 (asp 19)](https://www.legislation.gov.uk/asp/2007/19), [s. 57](https://www.legislation.gov.uk/asp/2007/19/section/57) (with [ss. 48](https://www.legislation.gov.uk/asp/2007/19/section/48), [59](https://www.legislation.gov.uk/asp/2007/19/section/59))
 
-[^key-49449039430a2ae14a88a6915478e7ee]: Modification: Act incorporated in part (with modifications) (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2017/100/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2017/100/article/3/2) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37))
+[^c-49449039430a2ae14a88a6915478e7ee]: Modification: Act incorporated in part (with modifications) (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2017/100/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2017/100/article/3/2) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37))
 
 [^c5589571]: Editorial: Ss. 70-78 as originally enacted are set out following s. 78D below
 

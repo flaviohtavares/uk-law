@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Adult dependants’ grant[^key-3b239a54253cc528c968338a41a2aad6]
+## 45. Adult dependants’ grant[^c-3b239a54253cc528c968338a41a2aad6]
 
 *Extent: N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) The adult dependants’ grant is available in respect of one dependant of an eligible student who is either—
 
 - (a) the eligible student’s partner; or
-- (b) an adult dependant whose net income for the relevant year[^key-f89868a329a21e404b6b652f60578d89] does not exceed £3,873.
+- (b) an adult dependant whose net income for the relevant year[^c-f89868a329a21e404b6b652f60578d89] does not exceed £3,873.
 
 (3) The amount of adult dependants’ grant payable in respect of an academic year is calculated in accordance with regulation 48, the basic amount being—
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3b239a54253cc528c968338a41a2aad6]: Commencement: Reg. 45 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-3b239a54253cc528c968338a41a2aad6]: Commencement: Reg. 45 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-f89868a329a21e404b6b652f60578d89]: Textual amendment: Words in [reg. 45(2)(b)](https://www.legislation.gov.uk/nisr/2009/373/regulation/45/2/b) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) (No. 2) Regulations (Northern Ireland) 2012 (S.R. 2012/398)](https://www.legislation.gov.uk/nisr/2012/398), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/398/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2012/398/regulation/7)
+[^c-f89868a329a21e404b6b652f60578d89]: Textual amendment: Words in [reg. 45(2)(b)](https://www.legislation.gov.uk/nisr/2009/373/regulation/45/2/b) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) (No. 2) Regulations (Northern Ireland) 2012 (S.R. 2012/398)](https://www.legislation.gov.uk/nisr/2012/398), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/398/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2012/398/regulation/7)

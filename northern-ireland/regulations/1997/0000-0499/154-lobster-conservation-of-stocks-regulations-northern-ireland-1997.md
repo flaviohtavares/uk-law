@@ -30,7 +30,7 @@ summary: ''
 
 FISHERIES
 
-Lobster (Conservation of Stocks) Regulations (Northern Ireland) 1997 (revoked)[^key-e0d44a33cdbbdee57043e3cb1a0fe0fd]
+Lobster (Conservation of Stocks) Regulations (Northern Ireland) 1997 (revoked)[^c-e0d44a33cdbbdee57043e3cb1a0fe0fd]
 
 Made
 
@@ -40,32 +40,32 @@ Coming into operation
 
 28th April 1997
 
-[^key-e0d44a33cdbbdee57043e3cb1a0fe0fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0d44a33cdbbdee57043e3cb1a0fe0fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e0d44a33cdbbdee57043e3cb1a0fe0fd]
+## 1. Citation and commencement[^c-e0d44a33cdbbdee57043e3cb1a0fe0fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e0d44a33cdbbdee57043e3cb1a0fe0fd]
+## 2. Interpretation[^c-e0d44a33cdbbdee57043e3cb1a0fe0fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition[^key-e0d44a33cdbbdee57043e3cb1a0fe0fd]
+## 3. Prohibition[^c-e0d44a33cdbbdee57043e3cb1a0fe0fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemption[^key-e0d44a33cdbbdee57043e3cb1a0fe0fd]
+## 4. Exemption[^c-e0d44a33cdbbdee57043e3cb1a0fe0fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e0d44a33cdbbdee57043e3cb1a0fe0fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0d44a33cdbbdee57043e3cb1a0fe0fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e0d44a33cdbbdee57043e3cb1a0fe0fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e0d44a33cdbbdee57043e3cb1a0fe0fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e0d44a33cdbbdee57043e3cb1a0fe0fd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/154) revoked (7.5.2001) by [Lobster (Conservation of Stocks) (Revocation) Regulations (Northern Ireland) 2001 (S.R. 2001/144)](https://www.legislation.gov.uk/nisr/2001/144), [regs. 1](https://www.legislation.gov.uk/nisr/2001/144/regulation/1), [2](https://www.legislation.gov.uk/nisr/2001/144/regulation/2)
+[^c-e0d44a33cdbbdee57043e3cb1a0fe0fd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/154) revoked (7.5.2001) by [Lobster (Conservation of Stocks) (Revocation) Regulations (Northern Ireland) 2001 (S.R. 2001/144)](https://www.legislation.gov.uk/nisr/2001/144), [regs. 1](https://www.legislation.gov.uk/nisr/2001/144/regulation/1), [2](https://www.legislation.gov.uk/nisr/2001/144/regulation/2)

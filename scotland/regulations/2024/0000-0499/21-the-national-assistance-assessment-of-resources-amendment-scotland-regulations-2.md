@@ -32,7 +32,7 @@ summary: ''
 
 National Assistance Services
 
-The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2024 (revoked)[^key-c89dfb00805a3bb88218a3b0e351c6ec]
+The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2024 (revoked)[^c-c89dfb00805a3bb88218a3b0e351c6ec]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 8th April 2024
 
-[^key-c89dfb00805a3bb88218a3b0e351c6ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c89dfb00805a3bb88218a3b0e351c6ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-c89dfb00805a3bb88218a3b0e351c6ec]
+## 1. Citation, commencement and extent[^c-c89dfb00805a3bb88218a3b0e351c6ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Assistance (Assessment of Resources) Regulations 1992[^key-c89dfb00805a3bb88218a3b0e351c6ec]
+## 2. Amendment of the National Assistance (Assessment of Resources) Regulations 1992[^c-c89dfb00805a3bb88218a3b0e351c6ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-c89dfb00805a3bb88218a3b0e351c6ec]
+## 3. Revocations[^c-c89dfb00805a3bb88218a3b0e351c6ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c89dfb00805a3bb88218a3b0e351c6ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c89dfb00805a3bb88218a3b0e351c6ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c89dfb00805a3bb88218a3b0e351c6ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c89dfb00805a3bb88218a3b0e351c6ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c89dfb00805a3bb88218a3b0e351c6ec]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2024/21) revoked (7.4.2025) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2025 (S.S.I. 2025/31)](https://www.legislation.gov.uk/ssi/2025/31), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/31/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2025/31/regulation/3)
+[^c-c89dfb00805a3bb88218a3b0e351c6ec]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2024/21) revoked (7.4.2025) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2025 (S.S.I. 2025/31)](https://www.legislation.gov.uk/ssi/2025/31), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/31/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2025/31/regulation/3)

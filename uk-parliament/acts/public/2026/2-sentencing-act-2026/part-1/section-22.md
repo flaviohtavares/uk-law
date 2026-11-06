@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Provision of transcripts of sentencing remarks to victims[^key-5d3edca9b1e043031900770441c21f28]
+## 22. Provision of transcripts of sentencing remarks to victims[^c-5d3edca9b1e043031900770441c21f28]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ This is subject to regulations under subsection (3) and Criminal Procedure Rules
 
 ## Annotations
 
-[^key-5d3edca9b1e043031900770441c21f28]: Commencement: S. 22 in force at Royal Assent for specified purposes, see [s. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
+[^c-5d3edca9b1e043031900770441c21f28]: Commencement: S. 22 in force at Royal Assent for specified purposes, see [s. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)

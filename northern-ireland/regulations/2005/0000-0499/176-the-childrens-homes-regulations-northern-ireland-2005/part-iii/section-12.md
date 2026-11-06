@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Child’s placement plan[^key-663e9b388967755e91add785fc5d8277]
+## 12. Child’s placement plan[^c-663e9b388967755e91add785fc5d8277]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-663e9b388967755e91add785fc5d8277]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/176/regulation/12) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-663e9b388967755e91add785fc5d8277]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/176/regulation/12) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

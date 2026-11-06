@@ -46,19 +46,19 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with paragraph 1(3) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and interpretation[^key-23bc036e66e3924e9ab50dd13b7858c1]
+## 1. Citation, commencement and interpretation[^c-23bc036e66e3924e9ab50dd13b7858c1]
 
 These Regulations may be cited as the Audiovisual Media Services (Amendment) (EU Exit) Regulations 2020.
 
-**2.**[^key-f6b758b2c5ae4897df1227d66d3a4be3] These Regulations come into force immediately before IP completion day except for regulation 4 which comes into force on IP completion day.
+**2.**[^c-f6b758b2c5ae4897df1227d66d3a4be3] These Regulations come into force immediately before IP completion day except for regulation 4 which comes into force on IP completion day.
 
-**3.**[^key-57fec3dd38a7db5d270257e0b52953e6] In these Regulations, “the 2003 Act” means the Communications Act 2003[^f00002].
+**3.**[^c-57fec3dd38a7db5d270257e0b52953e6] In these Regulations, “the 2003 Act” means the Communications Act 2003[^f00002].
 
-## 4. Video-sharing platform services: United Kingdom jurisdiction[^key-51ede1808a62454a73b6087c82ca07ec]
+## 4. Video-sharing platform services: United Kingdom jurisdiction[^c-51ede1808a62454a73b6087c82ca07ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of references to ‘exit day’ in the Broadcasting (Amendment) (EU Exit) Regulations 2019[^key-755b9f2398c16ff5cda8004ff02964bb]
+## 5. Amendment of references to ‘exit day’ in the Broadcasting (Amendment) (EU Exit) Regulations 2019[^c-755b9f2398c16ff5cda8004ff02964bb]
 
 (1) The Broadcasting (Amendment) (EU Exit) Regulations 2019[^f00006] are amended as follows.
 
@@ -96,16 +96,16 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); section 8 was amended by section 27 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1) and paragraph 21 was amended by paragraph 53 of Schedule 5 to that Act.
 
-[^key-23bc036e66e3924e9ab50dd13b7858c1]: Commencement: Reg. 1 in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1/2)
+[^c-23bc036e66e3924e9ab50dd13b7858c1]: Commencement: Reg. 1 in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1/2)
 
-[^key-f6b758b2c5ae4897df1227d66d3a4be3]: Commencement: Reg. 2 in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1/2)
+[^c-f6b758b2c5ae4897df1227d66d3a4be3]: Commencement: Reg. 2 in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1/2)
 
-[^key-57fec3dd38a7db5d270257e0b52953e6]: Commencement: Reg. 3 in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1/2)
+[^c-57fec3dd38a7db5d270257e0b52953e6]: Commencement: Reg. 3 in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1/2)
 
 [^f00002]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-51ede1808a62454a73b6087c82ca07ec]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1536/regulation/4) omitted (25.7.2025) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 210(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/210/4), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2025/888](https://www.legislation.gov.uk/uksi/2025/888), [reg. 2](https://www.legislation.gov.uk/uksi/2025/888/regulation/2)
+[^c-51ede1808a62454a73b6087c82ca07ec]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1536/regulation/4) omitted (25.7.2025) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 210(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/210/4), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2025/888](https://www.legislation.gov.uk/uksi/2025/888), [reg. 2](https://www.legislation.gov.uk/uksi/2025/888/regulation/2)
 
-[^key-755b9f2398c16ff5cda8004ff02964bb]: Commencement: Reg. 5 in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1/2)
+[^c-755b9f2398c16ff5cda8004ff02964bb]: Commencement: Reg. 5 in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2019/224](https://www.legislation.gov.uk/uksi/2019/224).

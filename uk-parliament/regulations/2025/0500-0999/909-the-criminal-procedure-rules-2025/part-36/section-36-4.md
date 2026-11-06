@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.4. Application for extension of time[^key-7b44d983ba753aa80b52b6226e7306a9]
+## 36.4. Application for extension of time[^c-7b44d983ba753aa80b52b6226e7306a9]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A person who wants an extension of time within which to serve a notice or make a
 
 ## Annotations
 
-[^key-7b44d983ba753aa80b52b6226e7306a9]: Commencement: [Rule 36.4](https://www.legislation.gov.uk/uksi/2025/909/rule/36.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-7b44d983ba753aa80b52b6226e7306a9]: Commencement: [Rule 36.4](https://www.legislation.gov.uk/uksi/2025/909/rule/36.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

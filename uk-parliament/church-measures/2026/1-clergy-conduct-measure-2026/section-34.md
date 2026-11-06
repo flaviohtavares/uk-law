@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 34. Restriction orders and suspensions: power to impose[^key-16cf0de524723d32e3c63152aad319b9]
+## 34. Restriction orders and suspensions: power to impose[^c-16cf0de524723d32e3c63152aad319b9]
 
 *Extent: E*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16cf0de524723d32e3c63152aad319b9]: Commencement: S. 34 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-16cf0de524723d32e3c63152aad319b9]: Commencement: S. 34 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

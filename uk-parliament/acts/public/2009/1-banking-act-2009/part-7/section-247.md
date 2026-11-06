@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 247. Bank of England Act 1946[^key-5a138ee2ac1598be126175f3da0b6a67]
+## 247. Bank of England Act 1946[^c-5a138ee2ac1598be126175f3da0b6a67]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in this Act affects the generality of section 4 of the Bank of England A
 
 ## Annotations
 
-[^key-5a138ee2ac1598be126175f3da0b6a67]: Commencement: S. 247 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/8)
+[^c-5a138ee2ac1598be126175f3da0b6a67]: Commencement: S. 247 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/8)

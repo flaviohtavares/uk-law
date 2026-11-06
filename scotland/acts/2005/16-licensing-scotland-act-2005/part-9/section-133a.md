@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 133A. How hearings may be held[^key-02fc847493015f8cbc87e07f90493364]
+## 133A. How hearings may be held[^c-02fc847493015f8cbc87e07f90493364]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02fc847493015f8cbc87e07f90493364]: Textual amendment: [S. 133A](https://www.legislation.gov.uk/asp/2005/16/section/133A) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 32(2)](https://www.legislation.gov.uk/asp/2022/8/section/32/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-02fc847493015f8cbc87e07f90493364]: Textual amendment: [S. 133A](https://www.legislation.gov.uk/asp/2005/16/section/133A) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 32(2)](https://www.legislation.gov.uk/asp/2022/8/section/32/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

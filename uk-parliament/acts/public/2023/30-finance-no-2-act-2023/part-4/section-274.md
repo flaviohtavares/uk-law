@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 274. Application of section 262[^key-0ded041407d7dceed16678dc7f37fea0]
+## 274. Application of section 262[^c-0ded041407d7dceed16678dc7f37fea0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ded041407d7dceed16678dc7f37fea0]: Textual amendment: [S. 274](https://www.legislation.gov.uk/ukpga/2023/30/section/274) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 47(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/47/2)
+[^c-0ded041407d7dceed16678dc7f37fea0]: Textual amendment: [S. 274](https://www.legislation.gov.uk/ukpga/2023/30/section/274) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 47(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/47/2)

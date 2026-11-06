@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Calculation of student income – grants[^key-c345420f64d3082c068ff0aef263e334]
+## 61. Calculation of student income – grants[^c-c345420f64d3082c068ff0aef263e334]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ Where, in accordance with regulation 59(4), an applicant’s student income is t
 
 ## Annotations
 
-[^key-c345420f64d3082c068ff0aef263e334]: Commencement: [Reg. 61](https://www.legislation.gov.uk/ssi/2021/249/regulation/61) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-c345420f64d3082c068ff0aef263e334]: Commencement: [Reg. 61](https://www.legislation.gov.uk/ssi/2021/249/regulation/61) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

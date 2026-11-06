@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. When an opt-in takes effect[^key-671d95426039c89a0f7cfa21c8af2224]
+## 19. When an opt-in takes effect[^c-671d95426039c89a0f7cfa21c8af2224]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ If P opts in to this scheme in relation to eligible service, P becomes an active
 
 ## Annotations
 
-[^key-671d95426039c89a0f7cfa21c8af2224]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-671d95426039c89a0f7cfa21c8af2224]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

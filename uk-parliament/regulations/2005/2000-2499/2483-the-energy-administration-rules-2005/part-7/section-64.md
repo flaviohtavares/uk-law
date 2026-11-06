@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Admission or rejection of proofs[^key-4bcd9b220c9028b3397583b64e0deae6]
+## 64. Admission or rejection of proofs[^c-4bcd9b220c9028b3397583b64e0deae6]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bcd9b220c9028b3397583b64e0deae6]: Commencement: Rule 64 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-4bcd9b220c9028b3397583b64e0deae6]: Commencement: Rule 64 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

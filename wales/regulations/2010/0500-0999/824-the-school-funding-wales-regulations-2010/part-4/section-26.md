@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Required content of schemes[^key-b5ea390aea1edf9fcb71f53ee53879f2]
+## 26. Required content of schemes[^c-b5ea390aea1edf9fcb71f53ee53879f2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A scheme maintained by a local authority under section 48(1) of the 1998 Act mus
 
 ## Annotations
 
-[^key-b5ea390aea1edf9fcb71f53ee53879f2]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2010/824/regulation/26) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-b5ea390aea1edf9fcb71f53ee53879f2]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2010/824/regulation/26) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

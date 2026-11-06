@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Amendment of regulation 187 (recording obligations on holders)[^key-b248a75f84f0ff4e8d552c1ddaf3e073]
+## 147. Amendment of regulation 187 (recording obligations on holders)[^c-b248a75f84f0ff4e8d552c1ddaf3e073]
 
 *Extent: E+W+S+N.I.*
 
 (1) Regulation 187 is amended as follows.
 
-(2)[^key-251d1a4922ed9989bc5caa3e820d6bab] In paragraph (1) for “in the EEA or in third countries” substitute “in the United Kingdom or another country”.
+(2)[^c-251d1a4922ed9989bc5caa3e820d6bab] In paragraph (1) for “in the EEA or in third countries” substitute “in the United Kingdom or another country”.
 
 (3) In paragraph (4), for “EEA” substitute “ United Kingdom ”.
 
 ## Annotations
 
-[^key-b248a75f84f0ff4e8d552c1ddaf3e073]: Commencement: Reg. 147 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b248a75f84f0ff4e8d552c1ddaf3e073]: Commencement: Reg. 147 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-251d1a4922ed9989bc5caa3e820d6bab]: Textual amendment: Reg. 147(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 114](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/114)
+[^c-251d1a4922ed9989bc5caa3e820d6bab]: Textual amendment: Reg. 147(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 114](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/114)

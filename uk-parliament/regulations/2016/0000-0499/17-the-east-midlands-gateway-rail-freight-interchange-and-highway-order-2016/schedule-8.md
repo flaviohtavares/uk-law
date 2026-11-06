@@ -22,20 +22,20 @@ summary: ''
 
 Article 17
 
-### PART 1 — EXISTING ORDERS[^key-8f39cdcbd16c0bec2d8e7b2db08c9950]
+### PART 1 — EXISTING ORDERS[^c-8f39cdcbd16c0bec2d8e7b2db08c9950]
 
 | *(1)*<br>*Statutory Instrument Title* | *(2)*<br>*S.I. Number* | *(3)*<br>*Changes* | *(4)*<br>*Event* |
 | --- | --- | --- | --- |
 | The A50 Trunk Road (Derby Southern Bypass) (Derestriction) Order 1998 | [1998 No. 378](https://www.legislation.gov.uk/nisr/1998/378) | In the Schedule, omit paragraph (x) and substitute—<br>> (x) the eastbound carriageway of the A50 from a point 600 metres west of the A6/A50 Aston Interchange overbridge to a point 138 metres west of the centre point of the M1 Junction 24A underbridge, and the westbound carriageway of the A50 from a point 410 metres north of its roundabout junction with the A453 (M1 Junction 24) to a point 600 metres west of the A6/A50 Aston Interchange overbridge<br>. | Opening of the new road shown coloured green between points 8-9, 10-11 and 12-13 as shown on the highway classifications plans (Document 2.5A). |
 | The A453 and A50 Trunk Roads (M1 Junction 24, Kegworth, Leicestershire) (40 and 50 Miles Per Hour Speed Limit and Derestriction) Order 2015 | [2015 No. 1072](https://www.legislation.gov.uk/nisr/2015/1072) | In article 2, omit the definition of “the link road”.<br>Omit article 3.<br>In article 4(b), omit “120 metres north of its junction with Church Street”, and substitute “410 metres north of its junction with the roundabout”.<br>Omit articles 4(c),<br>5 and 7(a). | Opening of the new road shown coloured green between points 8-9, 10-11 and 12-13 as shown on the highway classifications plans (Document 2.5A). |
 
-### PART 2 — ROADS SUBJECT TO 30MPH SPEED LIMIT[^key-43a4bc5a180c4bc043eb7d37130b50c9]
+### PART 2 — ROADS SUBJECT TO 30MPH SPEED LIMIT[^c-43a4bc5a180c4bc043eb7d37130b50c9]
 
 | *(1)*<br>*Location* | *(2)*<br>*Length* |
 | --- | --- |
 | Main Street, Lockington | Shown coloured brown between points marked H and J as shown on the speed limit plans (Document 2.7A). |
 
-### PART 3 — ROADS SUBJECT TO 50MPH SPEED LIMIT[^key-c10ca6118ad5123a6844db90cdd53217]
+### PART 3 — ROADS SUBJECT TO 50MPH SPEED LIMIT[^c-c10ca6118ad5123a6844db90cdd53217]
 
 | *(1)*<br>*Location* | *(2)*<br>*Description* |
 | --- | --- |
@@ -53,8 +53,8 @@ Article 17
 
 ## Annotations
 
-[^key-8f39cdcbd16c0bec2d8e7b2db08c9950]: Commencement: Sch. 8 Pt. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-8f39cdcbd16c0bec2d8e7b2db08c9950]: Commencement: Sch. 8 Pt. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-43a4bc5a180c4bc043eb7d37130b50c9]: Commencement: Sch. 8 Pt. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-43a4bc5a180c4bc043eb7d37130b50c9]: Commencement: Sch. 8 Pt. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-c10ca6118ad5123a6844db90cdd53217]: Commencement: Sch. 8 Pt. 3 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-c10ca6118ad5123a6844db90cdd53217]: Commencement: Sch. 8 Pt. 3 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

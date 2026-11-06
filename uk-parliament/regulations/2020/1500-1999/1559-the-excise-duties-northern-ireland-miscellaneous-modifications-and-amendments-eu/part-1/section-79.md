@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**79.**[^key-e016da1ff60fe18409ac6e715836442b] Omit Part 17.
+**79.**[^c-e016da1ff60fe18409ac6e715836442b] Omit Part 17.
 
 ## Annotations
 
-[^key-e016da1ff60fe18409ac6e715836442b]: Commencement: Reg. 79 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-e016da1ff60fe18409ac6e715836442b]: Commencement: Reg. 79 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

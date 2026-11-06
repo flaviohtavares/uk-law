@@ -22,7 +22,7 @@ summary: ''
 
 Article 13
 
-### PART 1 — STREETS SUBJECT TO PERMANENT ALTERATION OF LAYOUT[^key-03f5bc9ff5a209f0fa6ee577463cf63a]
+### PART 1 — STREETS SUBJECT TO PERMANENT ALTERATION OF LAYOUT[^c-03f5bc9ff5a209f0fa6ee577463cf63a]
 
 #### North Yorkshire Council
 
@@ -35,7 +35,7 @@ Article 13
 | Rawfield Lane | At bellmouth AP3 as shown on Section F Sheet 1 the creation of an access point of sufficient size to accommodate access and egress of vehicles for operation and maintenance requirements. Works comprising site clearance, construction of new road surface, white lining, kerbing and a suitable drainage system as required. |
 | Overton Road | At bellmouth AP89 as shown on Section B Sheet 2 the creation of an access point of sufficient size to accommodate access and egress of vehicles for operation and maintenance requirements. Works comprising site clearance, construction of new road surface, white lining, kerbing and a suitable drainage system as required. |
 
-### PART 2 — STREETS SUBJECT TO TEMPORARY ALTERATION OF LAYOUT[^key-18c7acda50445bb29e41d21ccb2f1fe7]
+### PART 2 — STREETS SUBJECT TO TEMPORARY ALTERATION OF LAYOUT[^c-18c7acda50445bb29e41d21ccb2f1fe7]
 
 #### City of York Council
 
@@ -113,6 +113,6 @@ Article 13
 
 ## Annotations
 
-[^key-03f5bc9ff5a209f0fa6ee577463cf63a]: Commencement: Sch. 7 Pt. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-03f5bc9ff5a209f0fa6ee577463cf63a]: Commencement: Sch. 7 Pt. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-18c7acda50445bb29e41d21ccb2f1fe7]: Commencement: Sch. 7 Pt. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-18c7acda50445bb29e41d21ccb2f1fe7]: Commencement: Sch. 7 Pt. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

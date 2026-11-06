@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Part-time grants for dependants – general[^key-f038d0b8432c868badfceab34cce925a]
+## 89. Part-time grants for dependants – general[^c-f038d0b8432c868badfceab34cce925a]
 
 *Extent: E+W*
 
@@ -27,13 +27,13 @@ summary: ''
 
 (2) Subject to paragraph (5), an eligible part-time student does not qualify for part-time grants for dependants if the eligible part-time student is a prisoner.
 
-(3) An eligible part-time student who is a new eligible part-time student does not qualify for part-time grants for dependants in relation to an academic year of a designated part-time course if the intensity of study during that year is less than 25[^key-ebdf4af94a7da6059d1f78a8d7c2c932] per cent.
+(3) An eligible part-time student who is a new eligible part-time student does not qualify for part-time grants for dependants in relation to an academic year of a designated part-time course if the intensity of study during that year is less than 25[^c-ebdf4af94a7da6059d1f78a8d7c2c932] per cent.
 
 (4) For the purposes of paragraph (3) the intensity of study during an academic year of a designated part-time course is to be calculated in accordance with regulation 85(2) and (3).
 
 (5) Paragraph (2) does not apply in respect of an academic year during which the eligible part-time student enters prison or is released from prison.
 
-**90.**[^key-28821adea9f6e6dda17740b1360828b5][^key-f038d0b8432c868badfceab34cce925a] (1) The part-time grants for dependants consist of the following elements—
+**90.**[^c-28821adea9f6e6dda17740b1360828b5][^c-f038d0b8432c868badfceab34cce925a] (1) The part-time grants for dependants consist of the following elements—
 
 - (a) part-time adult dependants’ grant;
 - (b) part-time childcare grant;
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f038d0b8432c868badfceab34cce925a]: Commencement: Reg. 89 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-f038d0b8432c868badfceab34cce925a]: Commencement: Reg. 89 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
-[^key-ebdf4af94a7da6059d1f78a8d7c2c932]: Textual amendment: Word in [reg. 89(3)](https://www.legislation.gov.uk/wsi/2017/47/regulation/89/3) substituted (22.2.2023) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/87)](https://www.legislation.gov.uk/wsi/2023/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/87/regulation/1/2), [34](https://www.legislation.gov.uk/wsi/2023/87/regulation/34) (with [reg. 2](https://www.legislation.gov.uk/wsi/2023/87/regulation/2))
+[^c-ebdf4af94a7da6059d1f78a8d7c2c932]: Textual amendment: Word in [reg. 89(3)](https://www.legislation.gov.uk/wsi/2017/47/regulation/89/3) substituted (22.2.2023) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/87)](https://www.legislation.gov.uk/wsi/2023/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/87/regulation/1/2), [34](https://www.legislation.gov.uk/wsi/2023/87/regulation/34) (with [reg. 2](https://www.legislation.gov.uk/wsi/2023/87/regulation/2))
 
-[^key-28821adea9f6e6dda17740b1360828b5]: Commencement: Reg. 90 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-28821adea9f6e6dda17740b1360828b5]: Commencement: Reg. 90 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.168. Security[^key-3773256fcc7b2b04a970f894e5e002e1]
+## 6.168. Security[^c-3773256fcc7b2b04a970f894e5e002e1]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3773256fcc7b2b04a970f894e5e002e1]: Commencement: [Rule 6.168](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.168) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-3773256fcc7b2b04a970f894e5e002e1]: Commencement: [Rule 6.168](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.168) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

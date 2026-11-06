@@ -48,35 +48,35 @@ In accordance with sections 7A(5) and 38(3) of the Limited Partnerships Act 1907
 
 ## Part 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-78761ce2a4f9a11af9de712711e4e1c9]
+### 1. Citation, commencement and extent[^c-78761ce2a4f9a11af9de712711e4e1c9]
 
 (1) These Regulations may be cited as the Economic Crime and Corporate Transparency Act 2023 (Consequential, Incidental and Miscellaneous Provisions) Regulations 2025.
 
-(2) These Regulations come into force on 18th November 2025 (at the same time as section 43 of the Economic Crime and Corporate Transparency Act 2023 (prohibition on director acting unless ID verified) came into force)[^key-5f5c2079379b7e1634961a1ad8e208a0].
+(2) These Regulations come into force on 18th November 2025 (at the same time as section 43 of the Economic Crime and Corporate Transparency Act 2023 (prohibition on director acting unless ID verified) came into force)[^c-5f5c2079379b7e1634961a1ad8e208a0].
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-7d7c1cdc6229909ab0baeef6f2c11f29]
+### 2. Interpretation[^c-7d7c1cdc6229909ab0baeef6f2c11f29]
 
 In these Regulations “**the 2006 Act**” means the Companies Act 2006.
 
 ## Part 2 — Amendments to legislation
 
-### 3. Amendments to primary legislation[^key-89768d40a33480d8b04ce878de90ffc6]
+### 3. Amendments to primary legislation[^c-89768d40a33480d8b04ce878de90ffc6]
 
 Schedule 1 contains amendments to primary legislation.
 
-### 4. Amendments to secondary legislation[^key-c79e49e3dcd9d0037c64d0a28c3bf23a]
+### 4. Amendments to secondary legislation[^c-c79e49e3dcd9d0037c64d0a28c3bf23a]
 
 Schedule 2 contains amendments to secondary legislation.
 
 ## Part 3 — Identity verification statements unavailable for inspection
 
-### 5. Making existing director identity verification statements unavailable for inspection[^key-eb35d3d8ee9f3b4028ad3111377c0d68]
+### 5. Making existing director identity verification statements unavailable for inspection[^c-eb35d3d8ee9f3b4028ad3111377c0d68]
 
 The registrar[^f00006] must not make available for public inspection any statement that is delivered to the registrar in accordance with any requirements imposed by regulations made under section 4(3)(a) of, or section 220(1) and paragraph 3(2)(a) of Schedule 2 to, the Economic Crime and Corporate Transparency Act 2023 (identity verification of directors).
 
-### 6. Making identity verification statements of protected individuals unavailable for inspection[^key-afe760e41e5d21ec5f2b7afc050fc509]
+### 6. Making identity verification statements of protected individuals unavailable for inspection[^c-afe760e41e5d21ec5f2b7afc050fc509]
 
 (1) The registrar must not make available for public inspection any statement that is delivered to the registrar in accordance with regulation 10 of the Registrar (Identity Verification and Authorised Corporate Service Providers) Regulations 2025[^f00007], where the individual to which the statement relates is a protected individual.
 
@@ -99,7 +99,7 @@ Schedules
 
 Regulation 3
 
-### 1. Companies (Audit, Investigations and Community Enterprise) Act 2004[^key-248db33b7afd6fec5bd19837fd02b156]
+### 1. Companies (Audit, Investigations and Community Enterprise) Act 2004[^c-248db33b7afd6fec5bd19837fd02b156]
 
 (1) The Companies (Audit, Investigations and Community Enterprise) Act 2004[^f00009] is amended as follows.
 
@@ -110,7 +110,7 @@ Regulation 3
 
 (3) In section 46(12) (removal of director) for “section 167(1)(a) of the Companies Act 2006 (requirement that company notify change among directors to registrar)” substitute “section 167G(1) of the Companies Act 2006 (duty to notify registrar of change in directors)”.
 
-### 2. Companies Act 2006[^key-9106f693701eb18e5c9188d24bd30390]
+### 2. Companies Act 2006[^c-9106f693701eb18e5c9188d24bd30390]
 
 Section 1098C of the 2006 Act (the required information about an applicant)[^f00010] is amended as follows—
 
@@ -140,7 +140,7 @@ Section 1098C of the 2006 Act (the required information about an applicant)[^f00
 
 Regulation 4
 
-### 1. The European Economic Interest Grouping Regulations 1989[^key-1bb51254e9754c5cb29f585d8aef0d86]
+### 1. The European Economic Interest Grouping Regulations 1989[^c-1bb51254e9754c5cb29f585d8aef0d86]
 
 In regulation 5 of the European Economic Interest Grouping Regulations 1989 (managers (Article 19(2) of the EC Regulation))[^f00011]—
 
@@ -148,7 +148,7 @@ In regulation 5 of the European Economic Interest Grouping Regulations 1989 (man
 - (b) in paragraph (3)(b), for “section 164” substitute “section 167K”;
 - (c) omit paragraph (3A).
 
-### 2. The European Public Limited-Liability Company Regulations 2004[^key-a6f9f5e74ca8ee0a8944ce6d4fad1a5c]
+### 2. The European Public Limited-Liability Company Regulations 2004[^c-a6f9f5e74ca8ee0a8944ce6d4fad1a5c]
 
 (1) The European Public Limited-Liability Company Regulations 2004[^f00012] are amended as follows.
 
@@ -167,7 +167,7 @@ In regulation 5 of the European Economic Interest Grouping Regulations 1989 (man
 - (e) in paragraph (6)(b), for “section 278” substitute “sections 279K and 279L”;
 - (f) omit paragraph (7).
 
-### 3. The Register of People with Significant Control Regulations 2016[^key-62814c23ab050ba51ac0188d19a1ba2c]
+### 3. The Register of People with Significant Control Regulations 2016[^c-62814c23ab050ba51ac0188d19a1ba2c]
 
 (1) The Register of People with Significant Control Regulations 2016 are amended as follows.
 
@@ -177,13 +177,13 @@ In regulation 5 of the European Economic Interest Grouping Regulations 1989 (man
 
 (4) In regulation 20 (failure to comply with a section 790D or 790E notice: valid reason) and in the heading to that regulation, for “or 790E” substitute “, 790DA, 790E or 790EA”.
 
-### 4. The European Public Limited-Liability Company (Register of People with Significant Control) Regulations 2016[^key-d03a7ddfb99e4ff6a8b152c28b03ccb2]
+### 4. The European Public Limited-Liability Company (Register of People with Significant Control) Regulations 2016[^c-d03a7ddfb99e4ff6a8b152c28b03ccb2]
 
 (1) The European Public Limited-Liability Company (Register of People with Significant Control) Regulations 2016[^f00013] are amended as follows.
 
 (2) Omit regulations 5 and 6 (modification of the Act in its application to SEs).
 
-### 5. The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^key-62b4b3f9764eb38d3cbf42ecbd1fd39e]
+### 5. The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^c-62b4b3f9764eb38d3cbf42ecbd1fd39e]
 
 (1) The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^f00014] are amended as follows.
 
@@ -224,7 +224,7 @@ In regulation 5 of the European Economic Interest Grouping Regulations 1989 (man
 
   .
 
-### 6. The Scottish Partnerships (Register of People with Significant Control) Regulations 2017[^key-00087808dc83d398701c9228a2955ced]
+### 6. The Scottish Partnerships (Register of People with Significant Control) Regulations 2017[^c-00087808dc83d398701c9228a2955ced]
 
 (1) The Scottish Partnerships (Register of People with Significant Control) Regulations 2017[^f00018] (“**the 2017 Regulations**”) are amended as follows.
 
@@ -250,7 +250,7 @@ In regulation 5 of the European Economic Interest Grouping Regulations 1989 (man
 
 .
 
-### 7. The Information Sharing (Disclosure by the Registrar) Regulations 2024[^key-2955fbff9e29a7a1fbd2c681cdb82dff]
+### 7. The Information Sharing (Disclosure by the Registrar) Regulations 2024[^c-2955fbff9e29a7a1fbd2c681cdb82dff]
 
 (1) The Information Sharing (Disclosure by the Registrar) Regulations 2024[^f00019] are amended as follows.
 
@@ -294,7 +294,7 @@ In regulation 5 of the European Economic Interest Grouping Regulations 1989 (man
   ;
 - (c) in paragraph (7), omit the definition of “limited liability partnerships”.
 
-### 8. The Registrar (Identity Verification and Authorised Corporate Service Providers) Regulations 2025[^key-6ce7f56a45c3110a6c4b4f1c100865b9]
+### 8. The Registrar (Identity Verification and Authorised Corporate Service Providers) Regulations 2025[^c-6ce7f56a45c3110a6c4b4f1c100865b9]
 
 For regulation 31 of the Registrar (Identity Verification and Authorised Corporate Service Providers) Regulations 2025 substitute—
 
@@ -342,49 +342,49 @@ A full Impact Assessment has not been prepared for this instrument as no, or no 
 
 [^f00004]: Footnote: [2023 c. 56](https://www.legislation.gov.uk/ukpga/2023/56).
 
-[^key-78761ce2a4f9a11af9de712711e4e1c9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-78761ce2a4f9a11af9de712711e4e1c9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
-[^key-5f5c2079379b7e1634961a1ad8e208a0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/4)
+[^c-5f5c2079379b7e1634961a1ad8e208a0]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/4)
 
-[^key-7d7c1cdc6229909ab0baeef6f2c11f29]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1037/regulation/2) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-7d7c1cdc6229909ab0baeef6f2c11f29]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1037/regulation/2) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
-[^key-89768d40a33480d8b04ce878de90ffc6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1037/regulation/3) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-89768d40a33480d8b04ce878de90ffc6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1037/regulation/3) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
-[^key-c79e49e3dcd9d0037c64d0a28c3bf23a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1037/regulation/4) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-c79e49e3dcd9d0037c64d0a28c3bf23a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1037/regulation/4) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
-[^key-eb35d3d8ee9f3b4028ad3111377c0d68]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1037/regulation/5) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-eb35d3d8ee9f3b4028ad3111377c0d68]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1037/regulation/5) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
 [^f00006]: Footnote: See section 1060(3) of the Companies Act 2006.
 
-[^key-afe760e41e5d21ec5f2b7afc050fc509]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1037/regulation/6) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-afe760e41e5d21ec5f2b7afc050fc509]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1037/regulation/6) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2025/50](https://www.legislation.gov.uk/uksi/2025/50).
 
 [^f00008]: Footnote: [S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339).
 
-[^key-248db33b7afd6fec5bd19837fd02b156]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/1037/schedule/1/paragraph/1) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-248db33b7afd6fec5bd19837fd02b156]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/1037/schedule/1/paragraph/1) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
 [^f00009]: Footnote: [2004 c. 27](https://www.legislation.gov.uk/ukpga/2004/27), amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941); there are other amending instruments but none is relevant.
 
-[^key-9106f693701eb18e5c9188d24bd30390]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2025/1037/schedule/1/paragraph/2) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-9106f693701eb18e5c9188d24bd30390]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2025/1037/schedule/1/paragraph/2) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
 [^f00010]: Footnote: Section 1098C was inserted by section 66 of the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56).
 
-[^key-1bb51254e9754c5cb29f585d8aef0d86]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/1) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-1bb51254e9754c5cb29f585d8aef0d86]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/1) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 1989/638](https://www.legislation.gov.uk/uksi/1989/638); relevant amending instruments are [S.I. 2009/2399](https://www.legislation.gov.uk/uksi/2009/2399), [2014/2382](https://www.legislation.gov.uk/uksi/2014/2382).
 
-[^key-a6f9f5e74ca8ee0a8944ce6d4fad1a5c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/2) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-a6f9f5e74ca8ee0a8944ce6d4fad1a5c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/2) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2004/2326](https://www.legislation.gov.uk/uksi/2004/2326); relevant amending instruments are [S.I. 2009/2400](https://www.legislation.gov.uk/uksi/2009/2400), [2014/2382](https://www.legislation.gov.uk/uksi/2014/2382), [2015/1695](https://www.legislation.gov.uk/uksi/2015/1695), [2018/1298](https://www.legislation.gov.uk/uksi/2018/1298).
 
-[^key-62814c23ab050ba51ac0188d19a1ba2c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/3) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-62814c23ab050ba51ac0188d19a1ba2c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/3) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
-[^key-d03a7ddfb99e4ff6a8b152c28b03ccb2]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/4) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-d03a7ddfb99e4ff6a8b152c28b03ccb2]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/4) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 2016/375](https://www.legislation.gov.uk/uksi/2016/375).
 
-[^key-62b4b3f9764eb38d3cbf42ecbd1fd39e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/5) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-62b4b3f9764eb38d3cbf42ecbd1fd39e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/5) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692); relevant amending instruments are [S.I. 2019/685](https://www.legislation.gov.uk/uksi/2019/685), [2020/991](https://www.legislation.gov.uk/uksi/2020/991), [2022/860](https://www.legislation.gov.uk/uksi/2022/860).
 
@@ -394,11 +394,11 @@ A full Impact Assessment has not been prepared for this instrument as no, or no 
 
 [^f00017]: Footnote: Section 790C(8) was amended by [S.I. 2016/136](https://www.legislation.gov.uk/uksi/2016/136).
 
-[^key-00087808dc83d398701c9228a2955ced]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/6) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-00087808dc83d398701c9228a2955ced]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/6) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 2017/694](https://www.legislation.gov.uk/uksi/2017/694).
 
-[^key-2955fbff9e29a7a1fbd2c681cdb82dff]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/7) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-2955fbff9e29a7a1fbd2c681cdb82dff]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/7) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
 [^f00019]: Footnote: [S.I. 2024/1378](https://www.legislation.gov.uk/uksi/2024/1378).
 
@@ -408,6 +408,6 @@ A full Impact Assessment has not been prepared for this instrument as no, or no 
 
 [^f00022]: Footnote: [2000 c. 12](https://www.legislation.gov.uk/ukpga/2000/12).
 
-[^key-6ce7f56a45c3110a6c4b4f1c100865b9]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/8) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
+[^c-6ce7f56a45c3110a6c4b4f1c100865b9]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/8) in force at 18.11.2025 in accordance with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2)
 
 [^f00023]: Footnote: See section 1082(1) of the Companies Act 2006 for the meaning of “unique identifier”.

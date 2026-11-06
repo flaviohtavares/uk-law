@@ -34,7 +34,7 @@ Copyright
 
 Rights In Performances
 
-The Copyright and Performances (Application to Other Countries) Order 2008 (revoked)[^key-166bc64788ebb8acfc9e4b51475cdba3]
+The Copyright and Performances (Application to Other Countries) Order 2008 (revoked)[^c-166bc64788ebb8acfc9e4b51475cdba3]
 
 Made
 
@@ -54,43 +54,43 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-166bc64788ebb8acfc9e4b51475cdba3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-166bc64788ebb8acfc9e4b51475cdba3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Introductory[^key-166bc64788ebb8acfc9e4b51475cdba3]
+## 1. Introductory[^c-166bc64788ebb8acfc9e4b51475cdba3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Literary, dramatic, musical and artistic works, films and the typographical arrangement of published editions[^key-166bc64788ebb8acfc9e4b51475cdba3]
+## 2. Literary, dramatic, musical and artistic works, films and the typographical arrangement of published editions[^c-166bc64788ebb8acfc9e4b51475cdba3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Sound recordings[^key-166bc64788ebb8acfc9e4b51475cdba3]
+## 3. Sound recordings[^c-166bc64788ebb8acfc9e4b51475cdba3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Wireless broadcasts[^key-166bc64788ebb8acfc9e4b51475cdba3]
+## 4. Wireless broadcasts[^c-166bc64788ebb8acfc9e4b51475cdba3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Other broadcasts[^key-166bc64788ebb8acfc9e4b51475cdba3]
+## 5. Other broadcasts[^c-166bc64788ebb8acfc9e4b51475cdba3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Performances[^key-166bc64788ebb8acfc9e4b51475cdba3]
+## 6. Performances[^c-166bc64788ebb8acfc9e4b51475cdba3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Savings[^key-166bc64788ebb8acfc9e4b51475cdba3]
+## 7. Savings[^c-166bc64788ebb8acfc9e4b51475cdba3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-166bc64788ebb8acfc9e4b51475cdba3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-166bc64788ebb8acfc9e4b51475cdba3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-166bc64788ebb8acfc9e4b51475cdba3]
+## SCHEDULE[^c-166bc64788ebb8acfc9e4b51475cdba3]
 
 Articles 2 to 6
 
@@ -98,8 +98,8 @@ Articles 2 to 6
 
 **May not be in force at this date. Check the source.**
 
-[^key-166bc64788ebb8acfc9e4b51475cdba3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-166bc64788ebb8acfc9e4b51475cdba3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-166bc64788ebb8acfc9e4b51475cdba3]: Textual amendment: Order revoked (6.4.2012) by [The Copyright and Performances (Application to Other Countries) Order 2012 (S.I. 2012/799)](https://www.legislation.gov.uk/uksi/2012/799), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2012/799/article/1/3)
+[^c-166bc64788ebb8acfc9e4b51475cdba3]: Textual amendment: Order revoked (6.4.2012) by [The Copyright and Performances (Application to Other Countries) Order 2012 (S.I. 2012/799)](https://www.legislation.gov.uk/uksi/2012/799), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2012/799/article/1/3)

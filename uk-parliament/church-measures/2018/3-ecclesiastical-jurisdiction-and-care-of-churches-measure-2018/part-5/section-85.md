@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 85. Fees Advisory Commission: term of office and procedure[^key-ae0a0ca4db3a0afe1d44bd852df30e37]
+## 85. Fees Advisory Commission: term of office and procedure[^c-ae0a0ca4db3a0afe1d44bd852df30e37]
 
 *Extent: E*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (5) A member of the Commission (including one nominated or appointed under subsection (3)) is eligible for renomination or reappointment.
 
-(5A)[^key-9631775093b6ae474db447dd7a339c26] If the chair of the Commission considers that it has business which can properly be conducted by correspondence, the chair may arrange for written proposals requiring the Commission's approval to be circulated to members.
+(5A)[^c-9631775093b6ae474db447dd7a339c26] If the chair of the Commission considers that it has business which can properly be conducted by correspondence, the chair may arrange for written proposals requiring the Commission's approval to be circulated to members.
 
 (5B) Unless objection is received from members in such numbers and within such period from the date on which they were sent as the Commission may specify, the proposals are to be treated on the expiry of that period as approved by the Commission as if they had been approved at a duly convened meeting.
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae0a0ca4db3a0afe1d44bd852df30e37]: Commencement: S. 85 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-ae0a0ca4db3a0afe1d44bd852df30e37]: Commencement: S. 85 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-9631775093b6ae474db447dd7a339c26]: Textual amendment: [S. 85(5A)-(5D)](https://www.legislation.gov.uk/ukcm/2018/3/section/85/5A) inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 8(4)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/4), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/g)
+[^c-9631775093b6ae474db447dd7a339c26]: Textual amendment: [S. 85(5A)-(5D)](https://www.legislation.gov.uk/ukcm/2018/3/section/85/5A) inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 8(4)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/4), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/g)

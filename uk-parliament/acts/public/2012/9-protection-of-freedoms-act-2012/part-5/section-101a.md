@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101A. Power of Department of Justice to disregard certain convictions or cautions[^key-9f166f7f0165de48084637eef7bb0858][^key-f0f3aeabcf2ab89d2ec38e61d59d9fe3]
+## 101A. Power of Department of Justice to disregard certain convictions or cautions[^c-9f166f7f0165de48084637eef7bb0858][^c-f0f3aeabcf2ab89d2ec38e61d59d9fe3]
 
 *Extent: N.I.*
 
@@ -50,6 +50,6 @@ may apply to the Department of Justice in Northern Ireland for the conviction or
 
 ## Annotations
 
-[^key-9f166f7f0165de48084637eef7bb0858]: Modification: S. 101A: power to amend conferred (N.I.) (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 171](https://www.legislation.gov.uk/ukpga/2017/3/section/171), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e) (with [s. 172](https://www.legislation.gov.uk/ukpga/2017/3/section/172))
+[^c-9f166f7f0165de48084637eef7bb0858]: Modification: S. 101A: power to amend conferred (N.I.) (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 171](https://www.legislation.gov.uk/ukpga/2017/3/section/171), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e) (with [s. 172](https://www.legislation.gov.uk/ukpga/2017/3/section/172))
 
-[^key-f0f3aeabcf2ab89d2ec38e61d59d9fe3]: Textual amendment: Pt. 5 Ch. 5 inserted (31.1.2017 for specified purposes, 28.6.2018) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 168(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/168/1), [183(4)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/4)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.R. 2018/128](https://www.legislation.gov.uk/nisr/2018/128), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/128/article/2/a)
+[^c-f0f3aeabcf2ab89d2ec38e61d59d9fe3]: Textual amendment: Pt. 5 Ch. 5 inserted (31.1.2017 for specified purposes, 28.6.2018) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 168(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/168/1), [183(4)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/4)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.R. 2018/128](https://www.legislation.gov.uk/nisr/2018/128), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/128/article/2/a)

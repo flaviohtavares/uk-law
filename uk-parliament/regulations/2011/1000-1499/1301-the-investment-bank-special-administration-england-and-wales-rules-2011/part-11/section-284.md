@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 284. Provable debts[^key-ed01deee6bbaace02eb2cf2a2c544623]
+## 284. Provable debts[^c-ed01deee6bbaace02eb2cf2a2c544623]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ed01deee6bbaace02eb2cf2a2c544623]: Commencement: [Rule 284](https://www.legislation.gov.uk/uksi/2011/1301/rule/284) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-ed01deee6bbaace02eb2cf2a2c544623]: Commencement: [Rule 284](https://www.legislation.gov.uk/uksi/2011/1301/rule/284) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
 [^f00022]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).

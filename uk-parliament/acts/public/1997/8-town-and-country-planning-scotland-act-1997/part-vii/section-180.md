@@ -30,7 +30,7 @@ summary: ''
 
 (2) An appeal under this section shall be made by notice in writing to the Secretary of State.
 
-(3) The provisions of sections 130(3), 131(1) [^key-42effcdacf3b04546d2e03f1e0113fb1]... and 132(3) shall apply to appeals under this section as they apply to appeals under those sections.
+(3) The provisions of sections 130(3), 131(1) [^c-42effcdacf3b04546d2e03f1e0113fb1]... and 132(3) shall apply to appeals under this section as they apply to appeals under those sections.
 
 (4) On an appeal under this section the Secretary of State—
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42effcdacf3b04546d2e03f1e0113fb1]: Textual amendment: Words in s. 180(3) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2009/256/article/1/3), [2(4)](https://www.legislation.gov.uk/ssi/2009/256/article/2/4)
+[^c-42effcdacf3b04546d2e03f1e0113fb1]: Textual amendment: Words in s. 180(3) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2009/256/article/1/3), [2(4)](https://www.legislation.gov.uk/ssi/2009/256/article/2/4)

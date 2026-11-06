@@ -42,15 +42,15 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by article 160(1) of the Air Navigation Order 2009[^f00001], makes the following Regulations.
 
-## 1. Citation and commencement[^key-f1970e0eed247657e43bf85c0ac304dc]
+## 1. Citation and commencement[^c-f1970e0eed247657e43bf85c0ac304dc]
 
 These Regulations may be cited as the Rules of the Air Regulations 2015 and come into force on 30th April 2015.
 
-## 2. Rules of the Air[^key-ca8e9c3405192ab62dcc525cc34d8389]
+## 2. Rules of the Air[^c-ca8e9c3405192ab62dcc525cc34d8389]
 
 The Rules of the Air in Schedule 1 have effect and may be cited as the Rules of the Air 2015.
 
-## 3. Review[^key-b7193aa44d492bde4020031932c9d948]
+## 3. Review[^c-b7193aa44d492bde4020031932c9d948]
 
 (1) The Secretary of State must from time to time—
 
@@ -68,7 +68,7 @@ The Rules of the Air in Schedule 1 have effect and may be cited as the Rules of 
 
 (4) Reports under this regulation are to be published at intervals not exceeding five years.
 
-## 4. Revocation[^key-4f8c1305e578a2e6e5a22c547f422ff0]
+## 4. Revocation[^c-4f8c1305e578a2e6e5a22c547f422ff0]
 
 The Regulations listed in Schedule 2 are revoked.
 
@@ -88,7 +88,7 @@ Regulation 2
 
 ### SECTION 1 — INTERPRETATION
 
-#### 1. Interpretation[^key-65f1158d57eeafd7c50ecbf5459b4503]
+#### 1. Interpretation[^c-65f1158d57eeafd7c50ecbf5459b4503]
 
 (1) In these Rules “anti-collision light” means—
 
@@ -99,20 +99,20 @@ in either case showing in all directions.
 
 (2) Subject to paragraph (3), terms used in these Rules which are defined in article 2 of the Standardised European Rules of the Air Regulation[^f00002] have the same meaning as given in that article.
 
-(3) The term “aerodrome traffic zone” has the same meaning as given in article 5 of the Air Navigation Order 2016[^key-11786a32ecd0fbe1f94006dda56173b2].
+(3) The term “aerodrome traffic zone” has the same meaning as given in article 5 of the Air Navigation Order 2016[^c-11786a32ecd0fbe1f94006dda56173b2].
 
 (4) References in these Rules to “SERA” followed by a number refer to the provision with the corresponding number in SERA[^f00004].
 
 ### SECTION 2 — APPLICATION AND COMPLIANCE
 
-#### 2. Application of Rules to aircraft[^key-dec5f240b84309473b558bbce3a0ab43]
+#### 2. Application of Rules to aircraft[^c-dec5f240b84309473b558bbce3a0ab43]
 
-Subject to rule 6 and to articles 249(3) and 22(1) of the Air Navigation Order 2016[^key-ebe583cfb26142442e4a2fdb2a0c3d68] and insofar as these Rules apply to aircraft they apply—
+Subject to rule 6 and to articles 249(3) and 22(1) of the Air Navigation Order 2016[^c-ebe583cfb26142442e4a2fdb2a0c3d68] and insofar as these Rules apply to aircraft they apply—
 
 - (a) to all aircraft within the United Kingdom; and
 - (b) to all aircraft registered in the United Kingdom, wherever they may be[^f00005].
 
-#### 3. Permissions[^key-235dd5384957fc1b67b4aa22876ced78]
+#### 3. Permissions[^c-235dd5384957fc1b67b4aa22876ced78]
 
 Wherever in these Rules there is provision for a permission to be granted by the CAA[^f00006] for the purposes of a rule, it may be granted—
 
@@ -121,14 +121,14 @@ Wherever in these Rules there is provision for a permission to be granted by the
 
 ### SECTION 3 — GENERAL RULES, COLLISION AVOIDANCE AND PROTECTION OF PERSONS AND PROPERTY
 
-#### 4. Aerobatic flights[^key-eacfd66dae727f71dbe5f01cac563418]
+#### 4. Aerobatic flights[^c-eacfd66dae727f71dbe5f01cac563418]
 
 Aerobatic flight is not permitted—
 
 - (a) over the congested area of any city, town or settlement; or
 - (b) within notified controlled airspace[^f00007] other than with the consent of the air traffic control unit notified as serving that airspace.
 
-#### 5. Landing and taking off within congested areas and near open-air assemblies[^key-d6de12a65777f20b51d1e2c65decc764]
+#### 5. Landing and taking off within congested areas and near open-air assemblies[^c-d6de12a65777f20b51d1e2c65decc764]
 
 (1) An aircraft must not take off or land within a congested area of any city, town or settlement except—
 
@@ -140,7 +140,7 @@ Aerobatic flight is not permitted—
 - (a) at an aerodrome in accordance with procedures notified by the CAA; or
 - (b) at a landing site which is not an aerodrome in accordance with procedures notified by the CAA and with the written permission of the organiser of the assembly.
 
-#### 6. Test flying over congested areas[^key-41632097629f58767a827f4b184bde5b]
+#### 6. Test flying over congested areas[^c-41632097629f58767a827f4b184bde5b]
 
 (1) Subject to paragraph (2), an aircraft to which this rule applies must not fly over a congested area of any city, town or settlement other than to the extent necessary in order to take off or land in accordance with normal aviation practice.
 
@@ -158,7 +158,7 @@ Aerobatic flight is not permitted—
     - (bb) the approval of a modification of the aircraft; or
     - (cc) the issue of a permit to fly.
 
-#### 7. Launching, picking up and dropping of tow ropes, etc.[^key-77465b6ce99c93c2fab7906c7a147f65]
+#### 7. Launching, picking up and dropping of tow ropes, etc.[^c-77465b6ce99c93c2fab7906c7a147f65]
 
 (1) An aircraft must not take off from an aerodrome with tow ropes, banners or similar articles towed by it except in accordance with arrangements made with the air traffic control unit at the aerodrome or, if there is no such unit, the person in charge of the aerodrome.
 
@@ -167,17 +167,17 @@ Aerobatic flight is not permitted—
 - (a) in accordance with arrangements made with the air traffic control unit at the aerodrome or, if there is no such unit, with the person in charge of the aerodrome; or
 - (b) in the area designated by the marking described in rule 20(7), but only when the aircraft is flying in the direction appropriate for landing.
 
-#### 8. Avoiding aerial collisions[^key-0c08a4fe59dd64c3353f7f87cf1049b0]
+#### 8. Avoiding aerial collisions[^c-0c08a4fe59dd64c3353f7f87cf1049b0]
 
 For the purposes of SERA.3201, SERA.3205 and SERA.3210 a glider and a flying machine which is towing it are to be considered to be a single aircraft under the command of the commander of the flying machine.
 
-#### 9. Order of landing[^key-57931776ff773d5945041675889711f3]
+#### 9. Order of landing[^c-57931776ff773d5945041675889711f3]
 
 (1) If an air traffic control unit has communicated to any aircraft an order of priority for landing, the aircraft must approach to land in that order.
 
 (2) If the commander of an aircraft which has previously been given permission to land gives way to another aircraft that is making an emergency landing at night, that commander must not attempt to land until the commander has received further permission to do so.
 
-#### 10. Landing and take-off[^key-9073a2b5e231ce09971fb5cfd69b2a52]
+#### 10. Landing and take-off[^c-9073a2b5e231ce09971fb5cfd69b2a52]
 
 (1) Subject to paragraph (4), a flying machine or glider must not land on a runway at an aerodrome if there are other aircraft on the runway.
 
@@ -191,7 +191,7 @@ For the purposes of SERA.3201, SERA.3205 and SERA.3210 a glider and a flying mac
 
 (4) Paragraphs (1) and (3) do not apply if the air traffic control unit at the aerodrome otherwise authorises the flying machine or glider.
 
-#### 11. Flight within aerodrome traffic zones[^key-74910783d0c7898d4fe3b52373324957]
+#### 11. Flight within aerodrome traffic zones[^c-74910783d0c7898d4fe3b52373324957]
 
 (1) This rule applies in relation to such aerodromes described in Column 1 of Table 1 as are notified for the purposes of this rule and at such times as are specified in Column 2 of the Table.
 
@@ -217,7 +217,7 @@ Table 1
 - (b) if this is not possible, cause a watch to be kept for such instructions as may be issued by visual means; and
 - (c) if the aircraft is fitted with means of communication by radio with the ground, communicate the aircraft’s position and height to the air traffic control unit, the flight information centre or the air/ground communications service unit at the aerodrome (as the case may be) on entering the aerodrome traffic zone and immediately prior to leaving it.
 
-#### 12. Movement of aircraft on uncontrolled aerodromes[^key-febd6d395573dd7518480371ea22db42]
+#### 12. Movement of aircraft on uncontrolled aerodromes[^c-febd6d395573dd7518480371ea22db42]
 
 (1) An aircraft must not taxi on the apron or the manoeuvring area of an uncontrolled aerodrome without the permission of either—
 
@@ -226,7 +226,7 @@ Table 1
 
 (2) In this rule “uncontrolled aerodrome” means an aerodrome at which no air traffic control service is provided to aerodrome traffic regardless of whether or not an air traffic zone exists.
 
-#### 13. Access to and movement of persons and vehicles on the aerodrome[^key-a7ec66f6e4fa92f2c63e27eedb4523df]
+#### 13. Access to and movement of persons and vehicles on the aerodrome[^c-a7ec66f6e4fa92f2c63e27eedb4523df]
 
 (1) Unless there is a public right of way over it, a person or vehicle must—
 
@@ -240,17 +240,17 @@ Table 1
 
 ### SECTION 4 — LIGHTS TO BE DISPLAYED BY AIRCRAFT
 
-#### 14. Stationary helicopters on offshore or renewable energy installations[^key-9abcddca3112ceb42859c82cbecd12bb]
+#### 14. Stationary helicopters on offshore or renewable energy installations[^c-9abcddca3112ceb42859c82cbecd12bb]
 
 Notwithstanding SERA.3215 a helicopter may, when stationary on an offshore or renewable energy installation, switch off the red anti-collision light as long as that is done in accordance with a procedure contained in the operations manual of the helicopter operator as a signal to ground personnel that it is safe to approach the helicopter for the purpose of embarkation or disembarkation of passengers or the loading or unloading of cargo.
 
-#### 15. Failure of anti-collision and navigation lights[^key-f3c4cfa2d6a6c0461bbde0281c6bcb27]
+#### 15. Failure of anti-collision and navigation lights[^c-f3c4cfa2d6a6c0461bbde0281c6bcb27]
 
 (1) If any light required to be displayed by SERA.3215 fails during flight at night and cannot be immediately repaired or replaced, the aircraft must land as soon as it can safely do so, unless authorised by the appropriate air traffic control unit to continue its flight.
 
 (2) An aircraft may continue to fly during the day in the event of a failure of an anti-collision light provided the light is repaired at the earliest practicable opportunity.
 
-#### 16. Airships by day[^key-434cbe044b66b3362315ac35b8d9fe66]
+#### 16. Airships by day[^c-434cbe044b66b3362315ac35b8d9fe66]
 
 (1) An airship flying during the day in any of the circumstances referred to in paragraph (2) must display two black balls suspended below the control car so that one is at least 4 metres above the other and at least 8 metres below the control car.
 
@@ -264,7 +264,7 @@ Notwithstanding SERA.3215 a helicopter may, when stationary on an offshore or re
 
 ### SECTION 5 — AERODROME VISUAL SIGNALS AND MARKINGS
 
-#### 17. Aerodrome Visual Signals and Markings[^key-d0296b3b80083b660b9322ee3bbe3963]
+#### 17. Aerodrome Visual Signals and Markings[^c-d0296b3b80083b660b9322ee3bbe3963]
 
 Within the United Kingdom any signal or marking which is specified in these Rules and which is given or displayed—
 
@@ -274,14 +274,14 @@ Within the United Kingdom any signal or marking which is specified in these Rule
 
 has the meaning assigned to it by this section.
 
-#### 18. Misuse of signals and markings[^key-7da90207608d3834c24529f8a8b4f9f9]
+#### 18. Misuse of signals and markings[^c-7da90207608d3834c24529f8a8b4f9f9]
 
 A person in an aircraft or on an aerodrome or at any place at which an aircraft is taking off or landing must not—
 
 - (a) make any signal which may be confused with a signal specified in SERA.3301 and Appendix 1 to SERA; or
 - (b) except with lawful authority, make any signal which the person knows or ought reasonably to know to be a signal in use for signalling to or from any of Her Majesty’s naval, military or air force aircraft.
 
-#### 19. Markings for paved runways and taxiways[^key-878cd539c897553484e4754d8be656ec]
+#### 19. Markings for paved runways and taxiways[^c-878cd539c897553484e4754d8be656ec]
 
 (1) Subject to paragraph (2), two yellow broken lines and two yellow continuous lines, as illustrated in the diagrams in this paragraph—
 
@@ -305,7 +305,7 @@ signifies a holding position other than that closest to the runway beyond which 
 
 signify the boundary of that part of a paved runway, taxiway or apron which is unfit for the movement of aircraft.
 
-#### 20. Supplementary markings for use on unpaved manoeuvring areas[^key-50dafb2d3d589fee16e562e32375b8d1]
+#### 20. Supplementary markings for use on unpaved manoeuvring areas[^c-50dafb2d3d589fee16e562e32375b8d1]
 
 (1) Markers with orange and white stripes of an equal width of 50 centimetres, with an orange stripe at each end, alternating with flags 60 centimetres square showing equal orange and white triangular areas, spaced not more than 90 metres apart, as illustrated in the diagram in this paragraph—
 
@@ -335,17 +335,17 @@ indicates an area which must be used only for the taking off and landing of heli
 
 (8) A white letter ‘T’, as specified in SERA, Appendix 1, paragraph 3.2.5.1, placed at the left-hand side of a runway (when viewed from the direction of landing), also indicates the runway to be used for take-off and landing.
 
-#### 21. Signals visible from the ground[^key-b3d77dfc69861107e6ddfaa714bf286d]
+#### 21. Signals visible from the ground[^c-b3d77dfc69861107e6ddfaa714bf286d]
 
 Black, Arabic numerals in two-figure groups and, where parallel runways are provided, the letter or letters L (left), LC (left centre), C (centre), RC (right centre) and R (right), placed against a yellow background, indicate the direction for take-off or the runway in use.
 
 ### SECTION 6 — VISUAL METEOROLOGICAL CONDITIONS, VISUAL FLIGHT RULES, SPECIAL VFR AND INSTRUMENT FLIGHT RULES
 
-#### 22. Classification of airspaces and rules for flight[^key-378a995b18420c6761e0c80a60400b49]
+#### 22. Classification of airspaces and rules for flight[^c-378a995b18420c6761e0c80a60400b49]
 
 Subject to rule 23, all aircraft must be flown in accordance with the requirements for flight in airspace that have been notified in accordance with the airspace classifications and flight rules specified in SERA.6001 and in Appendix 4 of SERA.
 
-#### 23. Flight in Class C airspace in VMC[^key-c23030c75eb3d25cd3d2a50466a5a7ea]
+#### 23. Flight in Class C airspace in VMC[^c-c23030c75eb3d25cd3d2a50466a5a7ea]
 
 (1) Subject to paragraph (2), an aircraft flying in visual meteorological conditions—
 
@@ -358,7 +358,7 @@ must be flown in accordance with the instrument flight rules[^f00008].
 
 (3) In this rule “Class C ATS route” means a route notified as such.
 
-#### 24. Use of radio navigation aids[^key-748c1dfcf0558434710846f654c02630]
+#### 24. Use of radio navigation aids[^c-748c1dfcf0558434710846f654c02630]
 
 (1) Subject to paragraph (2), the commander of an aircraft must not make use of a radio navigation aid without complying with such restrictions and procedures as may be notified in relation to that aid.
 
@@ -367,7 +367,7 @@ must be flown in accordance with the instrument flight rules[^f00008].
 - (a) the aircraft is required to comply with an air traffic control clearance issued for the flight; or
 - (b) the commander is otherwise authorised by an air traffic control unit.
 
-#### 25. Air traffic control clearance for flights by aircraft without radio equipment[^key-800f99070f450b3857376a0d076f0acd]
+#### 25. Air traffic control clearance for flights by aircraft without radio equipment[^c-800f99070f450b3857376a0d076f0acd]
 
 (1) An aircraft without radio equipment must not fly in Class B, Class C or Class D airspace during the notified hours of watch of the appropriate air traffic control unit unless it has been authorised to do so by that unit and complies with the conditions in paragraph (3).
 
@@ -380,7 +380,7 @@ must be flown in accordance with the instrument flight rules[^f00008].
 - (c) remain at least 1,500 metres horizontally and 1,000 feet vertically away from cloud and in a flight visibility of at least 5 km; and
 - (d) comply with any conditions or requirements specified by the appropriate air traffic control unit.
 
-## SCHEDULE 2 — Revocations[^key-bf92b3f6dcbbbecdd50d872d8c1a4011]
+## SCHEDULE 2 — Revocations[^c-bf92b3f6dcbbbecdd50d872d8c1a4011]
 
 Regulation 4
 
@@ -434,78 +434,78 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [S.I. 2009/3015](https://www.legislation.gov.uk/uksi/2009/3015); amended by [S.I. 2014/3302](https://www.legislation.gov.uk/uksi/2014/3302). There are other amendments to the Order but none is relevant.
 
-[^key-f1970e0eed247657e43bf85c0ac304dc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-f1970e0eed247657e43bf85c0ac304dc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-ca8e9c3405192ab62dcc525cc34d8389]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/840/regulation/2) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-ca8e9c3405192ab62dcc525cc34d8389]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/840/regulation/2) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-b7193aa44d492bde4020031932c9d948]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/840/regulation/3) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-b7193aa44d492bde4020031932c9d948]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/840/regulation/3) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-4f8c1305e578a2e6e5a22c547f422ff0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/840/regulation/4) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-4f8c1305e578a2e6e5a22c547f422ff0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/840/regulation/4) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-65f1158d57eeafd7c50ecbf5459b4503]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/1) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-65f1158d57eeafd7c50ecbf5459b4503]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/1) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
 [^f00002]: Footnote: Commission Implementing Regulation (EU) No. 923/2012 of the European Parliament and of the Council of 26 September 2012 laying down the common rules of the air and operational provisions regarding services and procedures in air navigation and amending Implementing Regulation (EU) No 1035/2011 and Regulations [(EC) No 1265/2007](https://www.legislation.gov.uk/european/regulation/2007/1265), [(EC) No 1794/2006](https://www.legislation.gov.uk/european/regulation/2006/1794), [(EC) No 730/2006](https://www.legislation.gov.uk/european/regulation/2006/0730), [(EC) No 1033/2006](https://www.legislation.gov.uk/european/regulation/2006/1033) and (EU) No 255/2010 (O.J. No.L281 of 13.10.2012, p.1).
 
-[^key-11786a32ecd0fbe1f94006dda56173b2]: Textual amendment: Words in [Sch. 1 rule 1(3)](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/rule/1/3) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 9(a)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/9/a) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-11786a32ecd0fbe1f94006dda56173b2]: Textual amendment: Words in [Sch. 1 rule 1(3)](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/rule/1/3) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 9(a)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/9/a) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
 [^f00004]: Footnote: The definition of the term “SERA” was inserted into article 255(1) of the Air Navigation Order 2009 by article 76 of [S.I. 2014/3302](https://www.legislation.gov.uk/uksi/2014/3302) and means the Annex to the Standardised European Rules of the Air Regulation.
 
-[^key-dec5f240b84309473b558bbce3a0ab43]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/2) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-dec5f240b84309473b558bbce3a0ab43]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/2) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-ebe583cfb26142442e4a2fdb2a0c3d68]: Textual amendment: Words in [Sch. 1 rule 2](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/rule/2) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 9(b)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/9/b) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-ebe583cfb26142442e4a2fdb2a0c3d68]: Textual amendment: Words in [Sch. 1 rule 2](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/rule/2) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 9(b)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/9/b) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
 [^f00005]: Footnote: Article 160(3) of the Air Navigation Order 2009 provides that it is lawful for any of the Rules of the Air to be departed from to the extent necessary for avoiding immediate danger, complying with the law of any country other than the United Kingdom within which the aircraft then is or for complying with Military Flying Regulations or Flying Orders to Contractors issued by the Secretary of State. Article 252(1) of the Air Navigation Order 2009 provides that nothing in the Order applies to military aircraft apart from certain specified articles, including article 160(1)(a). A “military aircraft” is defined in article 255(1) of the Air Navigation Order 2009.
 
-[^key-235dd5384957fc1b67b4aa22876ced78]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/3) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-235dd5384957fc1b67b4aa22876ced78]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/3) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
 [^f00006]: Footnote: The CAA is a body corporate, called the Civil Aviation Authority, constituted under section 2 of the Civil Aviation Act [1982 (c.16)](https://www.legislation.gov.uk/ukpga/1982/16). Section 2 is amended by section 95 of the Civil Aviation Act [2012 (c.19)](https://www.legislation.gov.uk/ukpga/2012/19).
 
-[^key-eacfd66dae727f71dbe5f01cac563418]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/4) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-eacfd66dae727f71dbe5f01cac563418]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/4) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
 [^f00007]: Footnote: “Notified” and “controlled airspace” are defined in article 255(1) of the Air Navigation Order 2009. The classification of airspace in the United Kingdom is notified in the Aeronautical Information Publication which is published by the CAA.
 
-[^key-d6de12a65777f20b51d1e2c65decc764]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/5) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-d6de12a65777f20b51d1e2c65decc764]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/5) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-41632097629f58767a827f4b184bde5b]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/6) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-41632097629f58767a827f4b184bde5b]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/6) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-77465b6ce99c93c2fab7906c7a147f65]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/7) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-77465b6ce99c93c2fab7906c7a147f65]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/7) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-0c08a4fe59dd64c3353f7f87cf1049b0]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/8) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-0c08a4fe59dd64c3353f7f87cf1049b0]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/8) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-57931776ff773d5945041675889711f3]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/9) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-57931776ff773d5945041675889711f3]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/9) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-9073a2b5e231ce09971fb5cfd69b2a52]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/10) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-9073a2b5e231ce09971fb5cfd69b2a52]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/10) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-74910783d0c7898d4fe3b52373324957]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/11) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-74910783d0c7898d4fe3b52373324957]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/11) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-febd6d395573dd7518480371ea22db42]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/12) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-febd6d395573dd7518480371ea22db42]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/12) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-a7ec66f6e4fa92f2c63e27eedb4523df]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/13) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-a7ec66f6e4fa92f2c63e27eedb4523df]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/13) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-9abcddca3112ceb42859c82cbecd12bb]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/14) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-9abcddca3112ceb42859c82cbecd12bb]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/14) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-f3c4cfa2d6a6c0461bbde0281c6bcb27]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/15) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-f3c4cfa2d6a6c0461bbde0281c6bcb27]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/15) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-434cbe044b66b3362315ac35b8d9fe66]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/16) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-434cbe044b66b3362315ac35b8d9fe66]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/16) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-d0296b3b80083b660b9322ee3bbe3963]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/17) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-d0296b3b80083b660b9322ee3bbe3963]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/17) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-7da90207608d3834c24529f8a8b4f9f9]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/18) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-7da90207608d3834c24529f8a8b4f9f9]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/18) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-878cd539c897553484e4754d8be656ec]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/19) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-878cd539c897553484e4754d8be656ec]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/19) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-50dafb2d3d589fee16e562e32375b8d1]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/20) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-50dafb2d3d589fee16e562e32375b8d1]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/20) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-b3d77dfc69861107e6ddfaa714bf286d]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/21) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-b3d77dfc69861107e6ddfaa714bf286d]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/21) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-378a995b18420c6761e0c80a60400b49]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/22) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-378a995b18420c6761e0c80a60400b49]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/22) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-c23030c75eb3d25cd3d2a50466a5a7ea]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/23) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-c23030c75eb3d25cd3d2a50466a5a7ea]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/23) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
 [^f00008]: Footnote: The instrument flight rules are prescribed by section 5 of SERA.
 
-[^key-748c1dfcf0558434710846f654c02630]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/24) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-748c1dfcf0558434710846f654c02630]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/24) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-800f99070f450b3857376a0d076f0acd]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/25) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-800f99070f450b3857376a0d076f0acd]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2015/840/schedule/1/paragraph/25) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
 
-[^key-bf92b3f6dcbbbecdd50d872d8c1a4011]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/840/schedule/2) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)
+[^c-bf92b3f6dcbbbecdd50d872d8c1a4011]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/840/schedule/2) in force at 30.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/840/regulation/1)

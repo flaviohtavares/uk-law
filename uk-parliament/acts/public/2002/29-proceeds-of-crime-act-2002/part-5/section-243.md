@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243. Proceedings for recovery orders in England and Wales or Northern Ireland[^key-fdac42a925fff802ba46de861be37ec4]
+## 243. Proceedings for recovery orders in England and Wales or Northern Ireland[^c-fdac42a925fff802ba46de861be37ec4]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,10 +33,10 @@ wherever domiciled, resident or present.
 
 (4) The references above to the claim form include the particulars of claim, where they are served subsequently.
 
-(5)[^key-76ef084ddca33c8912fd42b353b2d7d6] Nothing in sections 245A to 255 limits any power of the court apart from those sections to grant interim relief in connection with proceedings (including prospective proceedings) under this Chapter.
+(5)[^c-76ef084ddca33c8912fd42b353b2d7d6] Nothing in sections 245A to 255 limits any power of the court apart from those sections to grant interim relief in connection with proceedings (including prospective proceedings) under this Chapter.
 
 ## Annotations
 
-[^key-fdac42a925fff802ba46de861be37ec4]: Commencement: S. 243 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-fdac42a925fff802ba46de861be37ec4]: Commencement: S. 243 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-76ef084ddca33c8912fd42b353b2d7d6]: Textual amendment: S. 243(5) inserted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2005/15/schedule/6/paragraph/9); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/c)
+[^c-76ef084ddca33c8912fd42b353b2d7d6]: Textual amendment: S. 243(5) inserted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2005/15/schedule/6/paragraph/9); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/c)

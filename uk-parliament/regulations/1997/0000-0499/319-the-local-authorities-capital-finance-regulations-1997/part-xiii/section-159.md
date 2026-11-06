@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 159. Conditions specified in relation to the transfer of amounts set aside[^key-3b280c37b4b2bf45207d89f7dfdd6880]
+## 159. Conditions specified in relation to the transfer of amounts set aside[^c-3b280c37b4b2bf45207d89f7dfdd6880]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b280c37b4b2bf45207d89f7dfdd6880]: Commencement: Reg. 159 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-3b280c37b4b2bf45207d89f7dfdd6880]: Commencement: Reg. 159 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

@@ -24,7 +24,7 @@ Section 9
 
 ### Introductory
 
-**1.**[^key-4ddc91dfd77a1fba248d4a64a645d94c] In this Schedule “**the 2003 Act**” means the Crime (International Co-operation) Act 2003.
+**1.**[^c-4ddc91dfd77a1fba248d4a64a645d94c] In this Schedule “**the 2003 Act**” means the Crime (International Co-operation) Act 2003.
 
 ### Application of the 2003 Act to member States
 
@@ -46,7 +46,7 @@ Section 9
 
 (5) In regulation 90(2), in the inserted article 2, omit the words from “for the purposes of” to the end.
 
-(6)[^key-f76b740f7e99aed2e02de4b7ff215f37] In regulation 97—
+(6)[^c-f76b740f7e99aed2e02de4b7ff215f37] In regulation 97—
 
 - (a) in paragraph (1)—
   - (i) for “regulation 87(11) (amendment of the 2003 Act)” substitute “ regulations 89, 91, 94 and 95 ”,
@@ -62,7 +62,7 @@ Section 9
 
 ### Customer information orders in relation to safe deposit boxes
 
-**3.**[^key-77c48e62f8ae0e5c48ffdd09138bb224] (1) In Part 1 of the 2003 Act, Chapter 4 (information about banking transactions) is amended as follows.
+**3.**[^c-77c48e62f8ae0e5c48ffdd09138bb224] (1) In Part 1 of the 2003 Act, Chapter 4 (information about banking transactions) is amended as follows.
 
 (2) In section 32 (customer information: England and Wales and Northern Ireland), for subsection (6) substitute—
 
@@ -102,7 +102,7 @@ Section 9
 
 (4) The amendments made by this paragraph apply in relation to requests received by the Secretary of State or (as the case may be) the Lord Advocate after the coming into force of this paragraph.
 
-**4.**[^key-0e605f348d38809452f9a6768b01e3fa] (1) In Part 2 of the Proceeds of Crime Act 2002 (External Investigations) Order 2013 (S.I. 2013/2605), article 57 (meaning of customer information) is amended as follows.
+**4.**[^c-0e605f348d38809452f9a6768b01e3fa] (1) In Part 2 of the Proceeds of Crime Act 2002 (External Investigations) Order 2013 (S.I. 2013/2605), article 57 (meaning of customer information) is amended as follows.
 
 (2) In paragraph (1), after “accounts” insert “ or any safe deposit box ”.
 
@@ -132,7 +132,7 @@ Section 9
 
 (6) The amendments made by this paragraph apply in relation to requests received by the Secretary of State after the coming into force of this paragraph.
 
-**5.**[^key-a4abbb36d16c4fc386c376a938ea71ac] (1) In Part 4 of the Proceeds of Crime Act 2002 (External Investigations) (Scotland) Order 2015 (S.I. 2015/206) (customer information orders), article 23 (meaning of customer information) is amended as follows.
+**5.**[^c-a4abbb36d16c4fc386c376a938ea71ac] (1) In Part 4 of the Proceeds of Crime Act 2002 (External Investigations) (Scotland) Order 2015 (S.I. 2015/206) (customer information orders), article 23 (meaning of customer information) is amended as follows.
 
 (2) In paragraph (1), after “accounts” insert “ or any safe deposit box ”.
 
@@ -164,24 +164,24 @@ Section 9
 
 ### Miscellaneous
 
-**6.**[^key-1841921a529e9a195aff24aee6d52f0b] In section 42 of the 2003 Act (information about banking transactions: offence of disclosure), in subsection (1)(b), omit the words from “in reliance on” to the end.
+**6.**[^c-1841921a529e9a195aff24aee6d52f0b] In section 42 of the 2003 Act (information about banking transactions: offence of disclosure), in subsection (1)(b), omit the words from “in reliance on” to the end.
 
-**7.**[^key-315e5dad91b568bfcc536ff29d489239] In section 51(1) of the 2003 Act (general interpretation), in the definition of “administrative proceedings”, for “the Mutual Legal Assistance Convention” substitute “ the European Convention on Mutual Assistance in Criminal Matters of 20 April 1959 ”.
+**7.**[^c-315e5dad91b568bfcc536ff29d489239] In section 51(1) of the 2003 Act (general interpretation), in the definition of “administrative proceedings”, for “the Mutual Legal Assistance Convention” substitute “ the European Convention on Mutual Assistance in Criminal Matters of 20 April 1959 ”.
 
 ## Annotations
 
-[^key-4ddc91dfd77a1fba248d4a64a645d94c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-4ddc91dfd77a1fba248d4a64a645d94c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
 
 [^c24412361]: Commencement: [Sch. 3 para. 2(1)-(5)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/2/1) in force at Royal Assent, see [s. 40(6)(c)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/c)
 
-[^key-f76b740f7e99aed2e02de4b7ff215f37]: Commencement: [Sch. 3 para. 2(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/2/6) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-f76b740f7e99aed2e02de4b7ff215f37]: Commencement: [Sch. 3 para. 2(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/2/6) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
 
-[^key-77c48e62f8ae0e5c48ffdd09138bb224]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-77c48e62f8ae0e5c48ffdd09138bb224]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
 
-[^key-0e605f348d38809452f9a6768b01e3fa]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/4) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-0e605f348d38809452f9a6768b01e3fa]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/4) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
 
-[^key-a4abbb36d16c4fc386c376a938ea71ac]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-a4abbb36d16c4fc386c376a938ea71ac]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/5) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
 
-[^key-1841921a529e9a195aff24aee6d52f0b]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/6) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-1841921a529e9a195aff24aee6d52f0b]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/6) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
 
-[^key-315e5dad91b568bfcc536ff29d489239]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/7) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)
+[^c-315e5dad91b568bfcc536ff29d489239]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/7) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(dd)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/dd)

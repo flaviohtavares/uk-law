@@ -29,7 +29,7 @@ he may, by an order coming into force on that date, provide for the transfer or 
 
 (2) If, in the case of any such airport, the Secretary of State is not satisfied as aforesaid he may by an order coming into force on the abolition date provide for the transfer of the property, rights and liabilities of the metropolitan county council in respect of the airport to the metropolitan county passenger transport authority.
 
-(3) In sections 30 , 31, 35[^c3163661] and 88(10) of the [^c3163671]Civil Aviation Act 1982 (airport functions of local authorities) references to a local authority shall include references to an Integrated Transport Authority for an integrated transport area in England[^key-6e5d7526c10572ada069365ab848429e] ; and before making any order under subsection (1) or (2) above the Secretary of State shall satisfy himself that any necessary consent under section 30 of that Act has been or will be obtained.
+(3) In sections 30 , 31, 35[^c3163661] and 88(10) of the [^c3163671]Civil Aviation Act 1982 (airport functions of local authorities) references to a local authority shall include references to an Integrated Transport Authority for an integrated transport area in England[^c-6e5d7526c10572ada069365ab848429e] ; and before making any order under subsection (1) or (2) above the Secretary of State shall satisfy himself that any necessary consent under section 30 of that Act has been or will be obtained.
 
 ## Annotations
 
@@ -37,4 +37,4 @@ he may, by an order coming into force on that date, provide for the transfer or 
 
 [^c3163671]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).
 
-[^key-6e5d7526c10572ada069365ab848429e]: Textual amendment: Words in [s. 40(3)](https://www.legislation.gov.uk/ukpga/1985/51/section/40/3) substituted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 53(5)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/53/5); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-6e5d7526c10572ada069365ab848429e]: Textual amendment: Words in [s. 40(3)](https://www.legislation.gov.uk/ukpga/1985/51/section/40/3) substituted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 53(5)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/53/5); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

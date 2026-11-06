@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Content communicated “publicly” or “privately”[^key-98a6357904233ae782c13f3a3caf151f]
+## 232. Content communicated “publicly” or “privately”[^c-98a6357904233ae782c13f3a3caf151f]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98a6357904233ae782c13f3a3caf151f]: Commencement: S. 232 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
+[^c-98a6357904233ae782c13f3a3caf151f]: Commencement: S. 232 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)

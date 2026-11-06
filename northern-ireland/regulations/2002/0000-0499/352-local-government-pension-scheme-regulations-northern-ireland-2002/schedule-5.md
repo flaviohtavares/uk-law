@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 111(2) and (3)
 
-### 1. Prescribed persons[^key-c8281caee58acc44be7f02b133b666c6]
+### 1. Prescribed persons[^c-c8281caee58acc44be7f02b133b666c6]
 
 For the purposes of regulation 111(2) (prescribed persons to whom information may be provided) the persons are –
 
@@ -38,14 +38,14 @@ For the purposes of regulation 111(2) (prescribed persons to whom information ma
 - (j) a person or body arbitrating or adjudicating in, or investigating or considering, a complaint brought by such an individual as is mentioned in Article 164 of the Pensions Order against an authorised person or an appointed representative;
 - (k) A person or body appointed to act on behalf of any of the above.
 
-### 2.[^key-ba364402822d4c973437c0c82b3f19a3]
+### 2.[^c-ba364402822d4c973437c0c82b3f19a3]
 
 For the purposes of regulation 111(3) (persons on whom fees may be imposed) the persons are any person listed in sub-paragraphs (a) to (d) and (f) to (i) of paragraph 1 and any person or body appointed to act on behalf of any of those persons.
 
 ## Annotations
 
-[^key-c8281caee58acc44be7f02b133b666c6]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2002/352/schedule/5/paragraph/1) in operation at 1.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/352/regulation/1)
+[^c-c8281caee58acc44be7f02b133b666c6]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2002/352/schedule/5/paragraph/1) in operation at 1.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/352/regulation/1)
 
 [^f00089]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8)
 
-[^key-ba364402822d4c973437c0c82b3f19a3]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2002/352/schedule/5/paragraph/2) in operation at 1.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/352/regulation/1)
+[^c-ba364402822d4c973437c0c82b3f19a3]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2002/352/schedule/5/paragraph/2) in operation at 1.2.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/352/regulation/1)

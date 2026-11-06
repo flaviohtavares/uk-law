@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Amendments to the Mines and Quarries (Tips) Act 1969[^key-036ad53f0182879f202b90756ac7020e]
+## 75. Amendments to the Mines and Quarries (Tips) Act 1969[^c-036ad53f0182879f202b90756ac7020e]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-036ad53f0182879f202b90756ac7020e]: Commencement: S. 75 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-036ad53f0182879f202b90756ac7020e]: Commencement: S. 75 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

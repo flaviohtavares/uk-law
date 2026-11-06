@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 301. Transfer of former functions of LTE, records and relics.[^key-ff8cd0d2bdf89087a5ef984a3c9f59d8]
+## 301. Transfer of former functions of LTE, records and relics.[^c-ff8cd0d2bdf89087a5ef984a3c9f59d8]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ff8cd0d2bdf89087a5ef984a3c9f59d8]: Commencement: S. 301 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(d)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/d)
+[^c-ff8cd0d2bdf89087a5ef984a3c9f59d8]: Commencement: S. 301 in force at 15.7.2003 by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(d)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/d)
 
 [^c12806791]: Marginal citation: [1969 c. 35](https://www.legislation.gov.uk/ukpga/1969/35).
 

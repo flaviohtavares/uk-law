@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Sharing of information within the regulated sector[^key-25f791f84b683792d458b05311a66d61][^key-fcaf3c19a1776d043e1713d6bb3b4737][^c22725151]
+## 11. Sharing of information within the regulated sector[^c-25f791f84b683792d458b05311a66d61][^c-fcaf3c19a1776d043e1713d6bb3b4737][^c22725151]
 
 *Extent: E+W+S+N.I.*
 
@@ -215,8 +215,8 @@ After section 339ZA of the Proceeds of Crime Act 2002 insert—
 
 ## Annotations
 
-[^key-25f791f84b683792d458b05311a66d61]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/22/section/11) in force at 31.10.2017 for specified purposes by [S.I. 2017/1028](https://www.legislation.gov.uk/uksi/2017/1028), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/1028/regulation/2/a)
+[^c-25f791f84b683792d458b05311a66d61]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/22/section/11) in force at 31.10.2017 for specified purposes by [S.I. 2017/1028](https://www.legislation.gov.uk/uksi/2017/1028), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/1028/regulation/2/a)
 
-[^key-fcaf3c19a1776d043e1713d6bb3b4737]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/22/section/11) in force at 31.10.2017 for specified purposes by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/b)
+[^c-fcaf3c19a1776d043e1713d6bb3b4737]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/22/section/11) in force at 31.10.2017 for specified purposes by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/b)
 
 [^c22725151]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/22/section/11) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

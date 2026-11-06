@@ -88,7 +88,7 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** Great Britain is free of Aujeszky's disease and vaccination is prohibited in Great Britain. The member States or regions of such States that are recognised as free from the disease are listed in Annex I, and those that are not free but have EU approved Aujeszky's disease eradication plans in place are listed in Annex II. Pigs intended for breeding or production dispatched to Great Britain must come from a member State or region thereof listed in Annex I or must comply with the following additional conditions:[^key-66eda24d3686b8c7c8fdcf8b6fcfc4c0]
+**Article 1.** Great Britain is free of Aujeszky's disease and vaccination is prohibited in Great Britain. The member States or regions of such States that are recognised as free from the disease are listed in Annex I, and those that are not free but have EU approved Aujeszky's disease eradication plans in place are listed in Annex II. Pigs intended for breeding or production dispatched to Great Britain must come from a member State or region thereof listed in Annex I or must comply with the following additional conditions:[^c-66eda24d3686b8c7c8fdcf8b6fcfc4c0]
 
 - 1.. Aujeszky’s disease must be compulsorily notifiable in the Member State of origin;
 - 2.. a plan for the control and eradication of Aujeszky’s disease, fulfilling the criteria laid down in Article 9(1) of Directive 64/432/EEC, must be in place in the Member State or regions of origin under the supervision of the competent authority. Appropriate measures on pig transport and movements must be in place according to this plan for preventing a spread of disease between holdings of a different status;
@@ -114,7 +114,7 @@ HAS ADOPTED THIS DECISION:
     - ((ii)) the pigs to be moved have lived in the holding of origin since birth;
     - ((iii)) no pigs have moved on to the holding of origin while the pigs to be moved have been kept in isolation.
 
-**Article 2.** Pigs intended for slaughter dispatched to Great Britain must come from a member State or region thereof listed in Annex I or must comply with the following additional conditions:[^key-8251fdbc45e2c6a418a9e86125555b88]
+**Article 2.** Pigs intended for slaughter dispatched to Great Britain must come from a member State or region thereof listed in Annex I or must comply with the following additional conditions:[^c-8251fdbc45e2c6a418a9e86125555b88]
 
 - 1.. Aujeszky’s disease must be compulsorily notifiable in the Member State of origin;
 - 2.. a plan for the control and eradication of Aujeszky’s disease is in place in the Member State or regions of origin of the pigs, fulfilling the criteria laid down in Article 1(2);
@@ -122,29 +122,29 @@ HAS ADOPTED THIS DECISION:
   - ((a)) they come from a holding which fulfils the conditions laid down in Article 1(3); or
   - ((b)) they have been vaccinated against Aujeszky’s disease at least 15 days prior to their shipment and come from a holding of origin where:
     - ((i)) in the framework of the plan referred to in point (2), Aujeszky’s disease monitoring and eradication measures have been regularly applied under the supervision of the competent authority for the previous 12 months;
-    - ((ii)) they had remained for at least 30 days before dispatch and where no clinical or pathological evidence of this disease has been detected at the moment of completion of the health certificate accompanying the consignment[^key-076df45646f8eb072f7514c3a9bd0167]; or
+    - ((ii)) they had remained for at least 30 days before dispatch and where no clinical or pathological evidence of this disease has been detected at the moment of completion of the health certificate accompanying the consignment[^c-076df45646f8eb072f7514c3a9bd0167]; or
   - ((c)) they have not been vaccinated and they proceed from a holding where:
     - ((i)) in the framework of the plan referred to in point 2, Aujeszky’s disease monitoring and eradication measures have been regularly applied under the supervision of the competent authority in the previous 12 months and no clinical, pathological or serological evidence of Aujeszky’s disease has been recorded in the previous six months;
     - ((ii)) vaccination against Aujeszky’s disease and introduction of vaccinated pigs have been forbidden by the competent authority, since the holding is in the process of reaching the highest status as regards Aujeszky’s disease in accordance to the plan referred to in point (2);
     - ((iii)) they have lived for at least 90 days before dispatch.
 
-**Article 3.**[^key-f189563722d947541f4d8f4b361306c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-f189563722d947541f4d8f4b361306c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-c30ca37b60849896a3a77fe544671786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-c30ca37b60849896a3a77fe544671786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Article 5.** The serological tests carried out to monitor or detect Aujeszky’s disease in pigs in accordance with this Decision must meet the standards laid down in Annex III.
 
-**Article 6.**[^key-ab186bb67630106ed7cfa4c53996749a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-ab186bb67630106ed7cfa4c53996749a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-74d162e024aa2a8ddf789b8fd947e3e8] In the case of pigs destined for Great Britain from a member State, it is a requirement that the official veterinarian in the country of origin has ascertained the disease status of the holding of origin and the disease-free status of the region of origin and checked the compliance of the pigs in question with the conditions laid down in this Decision.
+**Article 7.**[^c-74d162e024aa2a8ddf789b8fd947e3e8] In the case of pigs destined for Great Britain from a member State, it is a requirement that the official veterinarian in the country of origin has ascertained the disease status of the holding of origin and the disease-free status of the region of origin and checked the compliance of the pigs in question with the conditions laid down in this Decision.
 
-**Article 8.**[^key-8ad0b8a5dd9a6accd0fdada389654f33] When pigs are transported to Great Britain, it is a requirement that the exporting member State has ensured that the pigs do not come into contact with pigs of different or unknown status, as regards Aujeszky's disease, during transport or transit.
+**Article 8.**[^c-8ad0b8a5dd9a6accd0fdada389654f33] When pigs are transported to Great Britain, it is a requirement that the exporting member State has ensured that the pigs do not come into contact with pigs of different or unknown status, as regards Aujeszky's disease, during transport or transit.
 
 **Article 9.** Decision 2001/618/EC is repealed.
 
 References to the repealed Decision shall be construed as references to this Decision and shall be read in accordance with the correlation table in Annex VI.
 
-**Article 10.**[^key-9bb4d8c8fce55b94b2549b21e2b1099a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-9bb4d8c8fce55b94b2549b21e2b1099a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## ANNEX I — Member States or regions thereof free of Aujeszky’s disease and where vaccination is prohibited[^c000003]
 
@@ -167,7 +167,7 @@ References to the repealed Decision shall be construed as references to this Dec
 | SK | Slovakia | All regions |
 | FI | Finland | All regions |
 | SE | Sweden | All regions |
-| [^key-7bba822297a705443762d408675fa3d4]. . . | [^key-7bba822297a705443762d408675fa3d4]. . . | [^key-7bba822297a705443762d408675fa3d4]. . . |
+| [^c-7bba822297a705443762d408675fa3d4]. . . | [^c-7bba822297a705443762d408675fa3d4]. . . | [^c-7bba822297a705443762d408675fa3d4]. . . |
 
 ## ANNEX II — Member States or regions thereof where approved national control programmes for the eradication of Aujeszky's disease are in place
 
@@ -224,7 +224,7 @@ Standardisation, sensitivity and specificity of the test.
   | ES | Laboratorio Central de Sanidad Animal de Algete<br>Carretera de Algete, km 8<br>Algete 28110 (Madrid)<br>Tel. +34 916 290 300<br>Fax +34 916 290 598<br>Email: lcv@mapya.es |
   | FI | Finnish Food Safety Authority<br>Animal Diseases and Food Safety Research<br>Mustialankatu 3<br>FI-00790 Helsinki, Finland<br>Email: info@evira.fi<br>Tel. +358 20 772 003 (exchange)<br>Fax +358 20 772 4350 |
   | FR | Laboratoire d'études et de recherches avicoles, porcines et piscicoles<br>AFSSA site de Ploufragan/Brest —<br>LERAPP<br>BP 53<br>22440 Ploufragan |
-  | [^key-eac9690cdc1f89b1870808b8b0ec7f02]. . . | [^key-eac9690cdc1f89b1870808b8b0ec7f02]. . . |
+  | [^c-eac9690cdc1f89b1870808b8b0ec7f02]. . . | [^c-eac9690cdc1f89b1870808b8b0ec7f02]. . . |
   | GR | Centre of Athens Veterinary Institutes<br>25 Neapoleos Street,<br>GR-153 10 Agia Paraskevi Attiki<br>Tel. +30 2106010903 |
   | HU | Nemzeti Élelmiszerlánc-biztonsági Hivatal, Állat-egészségügyi Diagnosztikai Igazgatóság<br>Central Agricultural Office, Veterinary Diagnostic Directorate<br>Address: 1149 Budapest, Tábornok u. 2.<br>Mailing Address: 1581 Budapest, 146. Pf. 2.<br>Tel. +36 1 460-6300<br>Fax +36 1 252-5177<br>Email: ugyfelszolgalat@nebih.gov.hu |
   | IE | Virology Division<br>Central Veterinary Research Laboratory<br>Department of Agriculture and Food Laboratories<br>Backweston Campus<br>Stacumny Lane<br>Celbridge<br>Co. Kildare |
@@ -241,33 +241,33 @@ Standardisation, sensitivity and specificity of the test.
   | SI | Univerza v Ljubljani<br>Veterinarska fakulteta<br>Nacionalni veterinarski inštitut<br>Gerbičeva 60,<br>SI-1000 Ljubljana |
   | SK | Štátny veterinárny ústav<br>Pod dráhami 918<br>960 86 Zvolen<br>Slovenska republika |
 
-## ANNEX IV — Criteria on the information to be provided on the occurrence of Aujeszky’s disease (AD) and on plans for the monitoring and eradication of this disease, to be provided in accordance with Article 8 of Council Directive 64/432/EEC[^key-481033445af6d1e81445641bf1d89100]
+## ANNEX IV — Criteria on the information to be provided on the occurrence of Aujeszky’s disease (AD) and on plans for the monitoring and eradication of this disease, to be provided in accordance with Article 8 of Council Directive 64/432/EEC[^c-481033445af6d1e81445641bf1d89100]
 
 **No longer in force.**
 
-[^key-481033445af6d1e81445641bf1d89100]1.
+[^c-481033445af6d1e81445641bf1d89100]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-481033445af6d1e81445641bf1d89100]2.
+[^c-481033445af6d1e81445641bf1d89100]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-481033445af6d1e81445641bf1d89100]3.
+[^c-481033445af6d1e81445641bf1d89100]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-481033445af6d1e81445641bf1d89100]4.
+[^c-481033445af6d1e81445641bf1d89100]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-481033445af6d1e81445641bf1d89100]5.
+[^c-481033445af6d1e81445641bf1d89100]5.
 
 Information on AD vaccination, serological investigations and categorisation of holdings (please complete the attached table):
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-481033445af6d1e81445641bf1d89100]6.
+[^c-481033445af6d1e81445641bf1d89100]6.
 
 Further information on serological monitoring in Artificial Insemination Centres, for export purposes, in the framework of other surveillance schemes, etc.:
 
@@ -325,30 +325,30 @@ Correlation table
 
 [^f00003]: Footnote: See Annex V.
 
-[^key-66eda24d3686b8c7c8fdcf8b6fcfc4c0]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2008/185/article/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(2)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/2) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-66eda24d3686b8c7c8fdcf8b6fcfc4c0]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2008/185/article/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(2)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/2) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-8251fdbc45e2c6a418a9e86125555b88]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2008/185/article/2) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(3)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/3/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-8251fdbc45e2c6a418a9e86125555b88]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eudn/2008/185/article/2) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(3)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/3/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-076df45646f8eb072f7514c3a9bd0167]: Textual amendment: Words in [Art. 2(3)(b)(ii)](https://www.legislation.gov.uk/eudn/2008/185/article/2/3/b/ii) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(3)(b)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/3/b) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-076df45646f8eb072f7514c3a9bd0167]: Textual amendment: Words in [Art. 2(3)(b)(ii)](https://www.legislation.gov.uk/eudn/2008/185/article/2/3/b/ii) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(3)(b)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/3/b) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-f189563722d947541f4d8f4b361306c9]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2008/185/article/3) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(4)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/4) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-f189563722d947541f4d8f4b361306c9]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2008/185/article/3) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(4)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/4) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-c30ca37b60849896a3a77fe544671786]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eudn/2008/185/article/4) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(4)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/4) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-c30ca37b60849896a3a77fe544671786]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eudn/2008/185/article/4) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(4)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/4) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-ab186bb67630106ed7cfa4c53996749a]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eudn/2008/185/article/6) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(5)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/5) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-ab186bb67630106ed7cfa4c53996749a]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eudn/2008/185/article/6) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(5)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/5) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-74d162e024aa2a8ddf789b8fd947e3e8]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eudn/2008/185/article/7) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(6)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/6) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-74d162e024aa2a8ddf789b8fd947e3e8]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eudn/2008/185/article/7) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(6)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/6) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-8ad0b8a5dd9a6accd0fdada389654f33]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eudn/2008/185/article/8) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(7)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/7) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-8ad0b8a5dd9a6accd0fdada389654f33]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eudn/2008/185/article/8) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(7)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/7) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-9bb4d8c8fce55b94b2549b21e2b1099a]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eudn/2008/185/article/10) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(8)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/8) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-9bb4d8c8fce55b94b2549b21e2b1099a]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eudn/2008/185/article/10) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(8)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/8) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
 [^c000003]: Textual amendment: Substituted by [Commission Implementing Decision (EU) 2019/1970 of 26 November 2019 amending Annex II to Decision 93/52/EEC as regards the officially brucellosis (B. melitensis)-free status and Annex II to Decision 2003/467/EC as regards the officially brucellosis-free status of certain regions of Spain and Annexes I and II to Decision 2008/185/EC as regards the free status and the approval of the eradication programmes for Aujeszky’s disease for certain regions of Italy (notified under document C(2019) 8378) (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2019/1970).
 
-[^key-7bba822297a705443762d408675fa3d4]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eudn/2008/185/annex/I) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(9)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/9) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-7bba822297a705443762d408675fa3d4]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eudn/2008/185/annex/I) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(9)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/9) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
 [^c000002]: Textual amendment: Substituted by [Commission Implementing Decision (EU) 2016/1782 of 5 October 2016 amending Decision 2008/185/EC as regards the inclusion of Lithuania in the list of Member States where an approved national control programme for Aujeszky's disease is in place and updating the list of national institutes in Annex III (notified under document C(2016) 6288) (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2016/1782).
 
-[^key-eac9690cdc1f89b1870808b8b0ec7f02]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eudn/2008/185/annex/III) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(10)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/10) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-eac9690cdc1f89b1870808b8b0ec7f02]: Textual amendment: Words in [Annex 3](https://www.legislation.gov.uk/eudn/2008/185/annex/III) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(10)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/10) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-481033445af6d1e81445641bf1d89100]: Textual amendment: [Annex 4](https://www.legislation.gov.uk/eudn/2008/185/annex/IV) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(11)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/11) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-481033445af6d1e81445641bf1d89100]: Textual amendment: [Annex 4](https://www.legislation.gov.uk/eudn/2008/185/annex/IV) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [51(11)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/51/11) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))

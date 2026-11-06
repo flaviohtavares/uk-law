@@ -22,7 +22,7 @@ summary: ''
 
 (1) An amendment made by any of sections 1, 2, 3, 5 or 6 applies only in a case where every act or other event proof of which is required for conviction of the offence in question takes place on or after the day on which the amendment comes into force.
 
-(2) An amendment made by section 7 [^key-2aa0e7ee94d0823333b01c043e7ef03c]... applies only in relation to an offence committed on or after the day on which the amendment comes into force.
+(2) An amendment made by section 7 [^c-2aa0e7ee94d0823333b01c043e7ef03c]... applies only in relation to an offence committed on or after the day on which the amendment comes into force.
 
 (3) Except as otherwise provided by subsection (4), an amendment made by section 9 or 10, or by Part 1 of Schedule 4, applies in relation to a person sentenced for an offence on or after the day on which the amendment comes into force, whether the offence was committed before that day or on or after it.
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2aa0e7ee94d0823333b01c043e7ef03c]: Textual amendment: Words in [s. 25(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/2) omitted (29.6.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/5)
+[^c-2aa0e7ee94d0823333b01c043e7ef03c]: Textual amendment: Words in [s. 25(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/2) omitted (29.6.2021) by virtue of [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Guidance about taking reasonable measures[^key-baf33217926a2e9096fe86f4af867856]
+## 18. Guidance about taking reasonable measures[^c-baf33217926a2e9096fe86f4af867856]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baf33217926a2e9096fe86f4af867856]: Textual amendment: Pt. 4 omitted (except reg 15(1)) (18.4.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/450)](https://www.legislation.gov.uk/uksi/2022/450), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/450/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/450/regulation/2/3)
+[^c-baf33217926a2e9096fe86f4af867856]: Textual amendment: Pt. 4 omitted (except reg 15(1)) (18.4.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/450)](https://www.legislation.gov.uk/uksi/2022/450), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/450/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/450/regulation/2/3)

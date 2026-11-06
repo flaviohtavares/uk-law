@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Director and Secretary of State to have regard to certain matters in relation to the disclosure of information.[^key-044b0118f3be19f2e1bd96bc31ce123f]
+## 56. Director and Secretary of State to have regard to certain matters in relation to the disclosure of information.[^c-044b0118f3be19f2e1bd96bc31ce123f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-044b0118f3be19f2e1bd96bc31ce123f]: Textual amendment: S. 56 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 247(j)](https://www.legislation.gov.uk/ukpga/2002/40/section/247/j), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/1397/article/6))
+[^c-044b0118f3be19f2e1bd96bc31ce123f]: Textual amendment: S. 56 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 247(j)](https://www.legislation.gov.uk/ukpga/2002/40/section/247/j), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2003/1397/article/6))

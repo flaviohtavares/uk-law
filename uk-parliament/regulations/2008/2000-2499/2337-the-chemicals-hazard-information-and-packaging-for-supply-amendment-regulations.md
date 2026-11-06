@@ -53,13 +53,13 @@ The Secretary of State makes these Regulations—
 - (a) in exercise of the powers conferred upon him by section 2(2) of that Act and by section 15(1), (2), (3)(a) and (c), (4)(a)[^f00004] and (b) of, and paragraphs 1(1)(b) and (4) and 3(2) of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^f00005] (“the 1974 Act”); and
 - (b) for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Executive under section 11(3)[^f00006] of the 1974 Act after the carrying out by the said Executive of consultations in accordance with section 50(3) of that Act.
 
-## 1. Citation, commencement and interpretation[^key-d5592452790dcda92d442f93c6ee86dc]
+## 1. Citation, commencement and interpretation[^c-d5592452790dcda92d442f93c6ee86dc]
 
 (1) These Regulations may be cited as the Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations 2008 and shall come into force on 1<sup>st</sup> October 2008.
 
 (2) In these Regulations, “the principal Regulations” means the Chemicals (Hazard Information and Packaging for Supply) Regulations 2002[^f00007].
 
-## 2. Amendments to regulation 2 of the principal Regulations[^key-45f7dd58d5ebbfe6da788e02662b1538]
+## 2. Amendments to regulation 2 of the principal Regulations[^c-45f7dd58d5ebbfe6da788e02662b1538]
 
 In regulation 2(1) of the principal Regulations—
 
@@ -74,7 +74,7 @@ In regulation 2(1) of the principal Regulations—
 
   .
 
-## 3. Amendments to regulations 8A and 9 of the principal Regulations[^key-4a8792dc4172a75cde0ff8a5585c2471]
+## 3. Amendments to regulations 8A and 9 of the principal Regulations[^c-4a8792dc4172a75cde0ff8a5585c2471]
 
 (1) In regulation 8A(4) of the principal Regulations after the words “this regulation” add the words “and regulation 9(2)”.
 
@@ -87,7 +87,7 @@ In regulation 2(1) of the principal Regulations—
 
   .
 
-## 4. Amendments to Schedule 3 of the principal Regulations[^key-3818bb0bdcf1dae89b4dc42a6d1688ff]
+## 4. Amendments to Schedule 3 of the principal Regulations[^c-3818bb0bdcf1dae89b4dc42a6d1688ff]
 
 Schedule 3 to the principal Regulations shall be amended in accordance with the following paragraphs—
 
@@ -98,15 +98,15 @@ Schedule 3 to the principal Regulations shall be amended in accordance with the 
 - (e) for Part III Tables 1 and 2 substitute Tables 1a, 1b and 2 contained in Schedule 2 to these Regulations; and
 - (f) for Part III Table 5 substitute the Table contained in Schedule 3 to these Regulations.
 
-## 5. Amendments to Schedule 5 of the principal Regulations[^key-1855240e80194b5a6be94baf9ea9203a]
+## 5. Amendments to Schedule 5 of the principal Regulations[^c-1855240e80194b5a6be94baf9ea9203a]
 
 For Schedule 5 Part II of the principal Regulations substitute the Part II contained in Schedule 4 to these Regulations.
 
-## 6. Amendments to the Chemicals (Hazard Information and Packaging for Supply)(Amendment) Regulations 2005[^key-aff4d8c6d91d179d9f6a103177f08b1d]
+## 6. Amendments to the Chemicals (Hazard Information and Packaging for Supply)(Amendment) Regulations 2005[^c-aff4d8c6d91d179d9f6a103177f08b1d]
 
 In the Chemicals (Hazard Information and Packaging for Supply)(Amendment) Regulations 2005[^f00010] omit regulation 2(2)(b), (4), (5) and (6).
 
-## 7. Amendments to the Control of Major Accident Hazards Regulations 1999[^key-60ccab64ff55ae562eb14f16e04527a3]
+## 7. Amendments to the Control of Major Accident Hazards Regulations 1999[^c-60ccab64ff55ae562eb14f16e04527a3]
 
 For regulation 20(6) of the Control of Major Accident Hazards Regulations 1999[^f00011] substitute the following paragraph—
 
@@ -134,7 +134,7 @@ Department for Work and Pensions
 
 1st September 2008
 
-## SCHEDULE 1[^key-f0e343c805c5af7c471f1609f7d5ecdd]
+## SCHEDULE 1[^c-f0e343c805c5af7c471f1609f7d5ecdd]
 
 Regulation 4(c) and (d)
 
@@ -188,7 +188,7 @@ Regulation 4(c) and (d)
 >
 > [^f01002][^f01003][^f01003]
 
-## SCHEDULE 2[^key-e96de36fe616876ae26cf4f460916105]
+## SCHEDULE 2[^c-e96de36fe616876ae26cf4f460916105]
 
 Regulation 4(e)
 
@@ -252,7 +252,7 @@ Regulation 4(e)
 > </tbody>
 > </table>
 
-## SCHEDULE 3[^key-c31bbe8f36c30e52386dcc27bfc43b95]
+## SCHEDULE 3[^c-c31bbe8f36c30e52386dcc27bfc43b95]
 
 Regulation 4(f)
 
@@ -264,7 +264,7 @@ Regulation 4(f)
 > | --- | --- |
 > | N with R59 | C<sub>n </sub>≥ 0.1% |
 
-## SCHEDULE 4[^key-9fa78b290d3b8ff041b36c97e40d7276]
+## SCHEDULE 4[^c-9fa78b290d3b8ff041b36c97e40d7276]
 
 Regulation 5
 
@@ -450,31 +450,31 @@ EXPLANATORY NOTE
 
 [^f00006]: Footnote: Section 11(3) is substituted by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
 
-[^key-d5592452790dcda92d442f93c6ee86dc]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
+[^c-d5592452790dcda92d442f93c6ee86dc]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2002/1689](https://www.legislation.gov.uk/uksi/2002/1689), amended by [S.I. 2004/568](https://www.legislation.gov.uk/uksi/2004/568), [S.I. 2004/3386](https://www.legislation.gov.uk/uksi/2004/3386), [S.I. 2005/2092](https://www.legislation.gov.uk/uksi/2005/2092), [S.I. 2005/2571](https://www.legislation.gov.uk/uksi/2005/2571) and [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960). There are other amending instruments but none is relevant.
 
-[^key-45f7dd58d5ebbfe6da788e02662b1538]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
+[^c-45f7dd58d5ebbfe6da788e02662b1538]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
 
 [^f00008]: Footnote: ISBN 0717623696.
 
 [^f00009]: Footnote: ISBN 0717661385.
 
-[^key-4a8792dc4172a75cde0ff8a5585c2471]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
+[^c-4a8792dc4172a75cde0ff8a5585c2471]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
 
-[^key-3818bb0bdcf1dae89b4dc42a6d1688ff]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
+[^c-3818bb0bdcf1dae89b4dc42a6d1688ff]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
 
-[^key-1855240e80194b5a6be94baf9ea9203a]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
+[^c-1855240e80194b5a6be94baf9ea9203a]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
 
-[^key-aff4d8c6d91d179d9f6a103177f08b1d]: Commencement: Reg. 6 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
+[^c-aff4d8c6d91d179d9f6a103177f08b1d]: Commencement: Reg. 6 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2005/2571](https://www.legislation.gov.uk/uksi/2005/2571).
 
-[^key-60ccab64ff55ae562eb14f16e04527a3]: Commencement: Reg. 7 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
+[^c-60ccab64ff55ae562eb14f16e04527a3]: Commencement: Reg. 7 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
 
 [^f00011]: Footnote: [S.I. 1999/743](https://www.legislation.gov.uk/uksi/1999/743) as amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960), there are other amending instruments but none is relevant.
 
-[^key-f0e343c805c5af7c471f1609f7d5ecdd]: Commencement: Sch. 1 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
+[^c-f0e343c805c5af7c471f1609f7d5ecdd]: Commencement: Sch. 1 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
 
 [^f01000]: Footnote: (\*)
 
@@ -492,10 +492,10 @@ EXPLANATORY NOTE
 
     R68 here refers to substances classified as mutagenic. Concentration limits for substances required to be labelled R68 but classified as harmful are given in Table IIA.
 
-[^key-e96de36fe616876ae26cf4f460916105]: Commencement: Sch. 2 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
+[^c-e96de36fe616876ae26cf4f460916105]: Commencement: Sch. 2 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
 
-[^key-c31bbe8f36c30e52386dcc27bfc43b95]: Commencement: Sch. 3 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
+[^c-c31bbe8f36c30e52386dcc27bfc43b95]: Commencement: Sch. 3 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
 
-[^key-9fa78b290d3b8ff041b36c97e40d7276]: Commencement: Sch. 4 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
+[^c-9fa78b290d3b8ff041b36c97e40d7276]: Commencement: Sch. 4 in force at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1)
 
 [^f00012]: Footnote: [S.I. 1993/3050](https://www.legislation.gov.uk/uksi/1993/3050).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.4. Register of orders[^key-b36b5d1b0223cc6ed13fac707dd7e9ae]
+## 33.4. Register of orders[^c-b36b5d1b0223cc6ed13fac707dd7e9ae]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b36b5d1b0223cc6ed13fac707dd7e9ae]: Commencement: [Rule 33.4](https://www.legislation.gov.uk/uksi/2025/909/rule/33.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b36b5d1b0223cc6ed13fac707dd7e9ae]: Commencement: [Rule 33.4](https://www.legislation.gov.uk/uksi/2025/909/rule/33.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -35,11 +35,11 @@ An Act to make provision with respect to functions relating to the management of
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## Civil service (excluding the diplomatic service)[^key-2fe7eaab88e9468e7a9e087a78d554d3]
+## Civil service (excluding the diplomatic service)[^c-2fe7eaab88e9468e7a9e087a78d554d3]
 
-### 1. Delegation of functions.[^c860221][^key-1f0440dd74d716c0f5d95fe045a5511c]
+### 1. Delegation of functions.[^c860221][^c-1f0440dd74d716c0f5d95fe045a5511c]
 
-(1)[^key-b0fe404290968527322b2d06439a9bd1] This section applies to the functions conferred on the Minister for the Civil Service by section 3 of the Constitutional Reform and Governance Act 2010 (management of the civil service, excluding the diplomatic service).
+(1)[^c-b0fe404290968527322b2d06439a9bd1] This section applies to the functions conferred on the Minister for the Civil Service by section 3 of the Constitutional Reform and Governance Act 2010 (management of the civil service, excluding the diplomatic service).
 
 (2)[^c860222] The Minister for the Civil Service may, to such extent and subject to such conditions as the Minister thinks fit, delegate a function to which this section applies to any other servant of the Crown.
 
@@ -47,13 +47,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) Without prejudice to any rule of law with respect to the carrying out of functions under the authority of a person in charge of a government department, where a function is delegated under subsection (2) above otherwise than to such a person, the person to whom the function is delegated may, subject to the terms of the delegation, authorise a servant of the Crown for whom he is responsible to carry out the function on his behalf.
 
-(5)[^key-f0de4b212b07feb8b5d8914f86c875f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f0de4b212b07feb8b5d8914f86c875f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 2. Power to authorise exercise of functions without approval etc.
 
 (1) This section applies to any statutory power which—
 
-- (a) relates to the appointment or management of members of the civil service (excluding the diplomatic service) within the meaning of Chapter 1 of Part 1 of the Constitutional Reform and Governance Act 2010[^key-e32a2d9424821bd2f6396661e45cf11c], and
+- (a) relates to the appointment or management of members of the civil service (excluding the diplomatic service) within the meaning of Chapter 1 of Part 1 of the Constitutional Reform and Governance Act 2010[^c-e32a2d9424821bd2f6396661e45cf11c], and
 - (b) requires for its exercise the sanction of a Minister of the Crown (whether by way of approval, consent, agreement or otherwise).
 
 (2) The Minister whose sanction is required for the exercise of a power to which this section applies may, to such extent and subject to such conditions as he thinks fit, authorise its exercise without his sanction.
@@ -89,18 +89,18 @@ shall not be subject to sub-paragraphs (4) and (5) of paragraph 1 of that Schedu
 
 [^c860220]: Commencement: Act wholly in force at Royal Assent.
 
-[^key-2fe7eaab88e9468e7a9e087a78d554d3]: Textual amendment: S. 1 cross-heading substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/6/4); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-2fe7eaab88e9468e7a9e087a78d554d3]: Textual amendment: S. 1 cross-heading substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 6(4)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/6/4); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
 
 [^c860221]: Modification: S. 1 extended (6.5.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 51(4)(9)](https://www.legislation.gov.uk/ukpga/1998/46/section/51/4/9) (with [s. 126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(2)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/3178/schedule/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1998/3178/schedule/3)
 
-[^key-1f0440dd74d716c0f5d95fe045a5511c]: Modification: S. 1 extended by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 52(4) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+[^c-1f0440dd74d716c0f5d95fe045a5511c]: Modification: S. 1 extended by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 52(4) (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
 
-[^key-b0fe404290968527322b2d06439a9bd1]: Textual amendment: S. 1(1)(2) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/6/2); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-b0fe404290968527322b2d06439a9bd1]: Textual amendment: S. 1(1)(2) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/6/2); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
 
 [^c860222]: Modification: S. 1(2) extended (1.12.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 34(4)](https://www.legislation.gov.uk/ukpga/1998/38/section/34/4) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2789](https://www.legislation.gov.uk/uksi/1998/2789), [art. 2](https://www.legislation.gov.uk/uksi/1998/2789/article/2)
 
-[^key-f0de4b212b07feb8b5d8914f86c875f6]: Textual amendment: S. 1(5) omitted (11.11.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/6/3); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-f0de4b212b07feb8b5d8914f86c875f6]: Textual amendment: S. 1(5) omitted (11.11.2010) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/6/3); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
 
-[^key-e32a2d9424821bd2f6396661e45cf11c]: Textual amendment: Words in s. 2(1)(a) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/7); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-e32a2d9424821bd2f6396661e45cf11c]: Textual amendment: Words in s. 2(1)(a) substituted (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2010/25/schedule/2/paragraph/7); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
 
 [^c860225]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).

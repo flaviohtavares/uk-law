@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Restrictions on the grant of provisional licences to drive motor bicycles[^key-30595367fadf0e96faed7fe5a806c8f5]
+## 13. Restrictions on the grant of provisional licences to drive motor bicycles[^c-30595367fadf0e96faed7fe5a806c8f5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30595367fadf0e96faed7fe5a806c8f5]: Textual amendment: Reg. 13 omitted (1.2.2001) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2001 (S.I. 2001/53)](https://www.legislation.gov.uk/uksi/2001/53), [regs. 1](https://www.legislation.gov.uk/uksi/2001/53/regulation/1), [4](https://www.legislation.gov.uk/uksi/2001/53/regulation/4)
+[^c-30595367fadf0e96faed7fe5a806c8f5]: Textual amendment: Reg. 13 omitted (1.2.2001) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2001 (S.I. 2001/53)](https://www.legislation.gov.uk/uksi/2001/53), [regs. 1](https://www.legislation.gov.uk/uksi/2001/53/regulation/1), [4](https://www.legislation.gov.uk/uksi/2001/53/regulation/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Meaning of private residential tenancy[^key-e9360d95c1032c5995efe68d7b7bf7ed]
+## 1. Meaning of private residential tenancy[^c-e9360d95c1032c5995efe68d7b7bf7ed]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9360d95c1032c5995efe68d7b7bf7ed]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/19/section/1) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-e9360d95c1032c5995efe68d7b7bf7ed]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/19/section/1) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

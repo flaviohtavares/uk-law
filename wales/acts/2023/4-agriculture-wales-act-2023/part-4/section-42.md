@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Penalty for felling without licence[^key-1afc32a7c0d8244361ce958320be7e1d][^key-ecdb155688a69eaec6a37f687d5e152c]
+## 42. Penalty for felling without licence[^c-1afc32a7c0d8244361ce958320be7e1d][^c-ecdb155688a69eaec6a37f687d5e152c]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In section 17 of the [Forestry Act 1967 (c. 10)](https://www.legislation.gov.uk/
 
 ## Annotations
 
-[^key-1afc32a7c0d8244361ce958320be7e1d]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2023/4/section/42) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
+[^c-1afc32a7c0d8244361ce958320be7e1d]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2023/4/section/42) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
 
-[^key-ecdb155688a69eaec6a37f687d5e152c]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2023/4/section/42) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)
+[^c-ecdb155688a69eaec6a37f687d5e152c]: Commencement: [S. 42](https://www.legislation.gov.uk/asc/2023/4/section/42) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)

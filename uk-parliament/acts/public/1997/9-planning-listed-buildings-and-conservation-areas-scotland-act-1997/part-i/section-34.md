@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Power to issue listed building enforcement notice.[^key-eba100c79515c25e1d1c210f2cd58c66]
+## 34. Power to issue listed building enforcement notice.[^c-eba100c79515c25e1d1c210f2cd58c66]
 
 *Extent: S*
 
@@ -27,12 +27,12 @@ summary: ''
 
 they may, if they consider it expedient to do so having regard to the effect of the works on the character of the building as one of special architectural or historic interest, serve a notice under this section (in this Act referred to as a “**listed building enforcement notice**”).
 
-(1A)[^key-3cbf16f59842d7e4c7f0851307529e0b] A listed building enforcement notice shall specify the alleged contravention and shall (either or both)—
+(1A)[^c-3cbf16f59842d7e4c7f0851307529e0b] A listed building enforcement notice shall specify the alleged contravention and shall (either or both)—
 
 - (a) specify any works falling within subsection (1) which the authority requires to cease,
 - (b) require steps falling within subsection (2) and specified in the notice to be taken.
 
-(2) Those steps are[^key-544f70aa6a2a641b1cb131902613964e] —
+(2) Those steps are[^c-544f70aa6a2a641b1cb131902613964e] —
 
 - (a) for restoring the building to its former state,
 - (b) if the authority consider that such restoration would not be reasonably practicable or would be undesirable, for executing such further works specified in the notice as they consider are required to alleviate in a manner acceptable to them the effect of the works which were carried out without listed building consent, or
@@ -48,7 +48,7 @@ they may, if they consider it expedient to do so having regard to the effect of 
 (5) A listed building enforcement notice—
 
 - (a) shall specify the date upon which it is to take effect and, subject to section 35(3), shall take effect on that date, and
-- (b) shall specify the period (the “**period for compliance**”) within which —[^key-ccbc3e7b922ea2bca62e13127a179217]
+- (b) shall specify the period (the “**period for compliance**”) within which —[^c-ccbc3e7b922ea2bca62e13127a179217]
   - (i) any works required to cease must cease,
   - (ii) any steps required to be taken must be taken,
 
@@ -56,7 +56,7 @@ they may, if they consider it expedient to do so having regard to the effect of 
 
 and, where different periods apply to different steps, references in this Act to the period for compliance with a listed building enforcement notice, in relation to any step, are to the period within which the step is required to be taken.
 
-(5A)[^key-873ae6ccf084ad9fa72753b3f64f84a2] Where different periods apply to different works or steps, references in this Act to the period for compliance with a listed building enforcement notice, in relation to any works or step, are to the period within which the works are required to cease or the step is required to be taken.
+(5A)[^c-873ae6ccf084ad9fa72753b3f64f84a2] Where different periods apply to different works or steps, references in this Act to the period for compliance with a listed building enforcement notice, in relation to any works or step, are to the period within which the works are required to cease or the step is required to be taken.
 
 (5B) The date specified in the notice under subsection (5)(a) must be at least 28 days after the date on which the notice is served.
 
@@ -78,12 +78,12 @@ and the powers conferred by this subsection may be exercised whether or not the 
 
 ## Annotations
 
-[^key-eba100c79515c25e1d1c210f2cd58c66]: Modification: Ss. 28-41I applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
+[^c-eba100c79515c25e1d1c210f2cd58c66]: Modification: Ss. 28-41I applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
 
-[^key-3cbf16f59842d7e4c7f0851307529e0b]: Textual amendment: S. 34(1A) inserted (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 22(2)(a)](https://www.legislation.gov.uk/asp/2011/3/section/22/2/a), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-3cbf16f59842d7e4c7f0851307529e0b]: Textual amendment: S. 34(1A) inserted (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 22(2)(a)](https://www.legislation.gov.uk/asp/2011/3/section/22/2/a), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-544f70aa6a2a641b1cb131902613964e]: Textual amendment: Words in s. 34(2) substituted (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 22(2)(b)](https://www.legislation.gov.uk/asp/2011/3/section/22/2/b), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-544f70aa6a2a641b1cb131902613964e]: Textual amendment: Words in s. 34(2) substituted (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 22(2)(b)](https://www.legislation.gov.uk/asp/2011/3/section/22/2/b), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-ccbc3e7b922ea2bca62e13127a179217]: Textual amendment: Words in s. 34(5) substituted (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 22(2)(c)](https://www.legislation.gov.uk/asp/2011/3/section/22/2/c), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-ccbc3e7b922ea2bca62e13127a179217]: Textual amendment: Words in s. 34(5) substituted (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 22(2)(c)](https://www.legislation.gov.uk/asp/2011/3/section/22/2/c), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
 
-[^key-873ae6ccf084ad9fa72753b3f64f84a2]: Textual amendment: S. 34(5A)(5B) inserted (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 22(2)(d)](https://www.legislation.gov.uk/asp/2011/3/section/22/2/d), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-873ae6ccf084ad9fa72753b3f64f84a2]: Textual amendment: S. 34(5A)(5B) inserted (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 22(2)(d)](https://www.legislation.gov.uk/asp/2011/3/section/22/2/d), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)

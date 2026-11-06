@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 146. Assistance with fees in respect of attendance on a course in Wales, Northern Ireland or Scotland[^key-4e7a8b7f8f197264f86667efed6b7eba]
+## 146. Assistance with fees in respect of attendance on a course in Wales, Northern Ireland or Scotland[^c-4e7a8b7f8f197264f86667efed6b7eba]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e7a8b7f8f197264f86667efed6b7eba]: Textual amendment: [Reg. 146](https://www.legislation.gov.uk/uksi/2011/1986/regulation/146) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [4(4)(e)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/4/4/e)
+[^c-4e7a8b7f8f197264f86667efed6b7eba]: Textual amendment: [Reg. 146](https://www.legislation.gov.uk/uksi/2011/1986/regulation/146) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [4(4)(e)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/4/4/e)

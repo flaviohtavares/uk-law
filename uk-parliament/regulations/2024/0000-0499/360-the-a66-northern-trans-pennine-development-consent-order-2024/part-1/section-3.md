@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Disapplication of legislative provisions[^key-692dfe283de6f01a1189c96df384da71]
+## 3. Disapplication of legislative provisions[^c-692dfe283de6f01a1189c96df384da71]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-692dfe283de6f01a1189c96df384da71]: Commencement: Art. 3 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-692dfe283de6f01a1189c96df384da71]: Commencement: Art. 3 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
 [^f00033]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 28E was inserted by section 75(1) of, and paragraph 1 of Schedule 9 to, the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37). It was amended by section 105(1) of, and paragraph 79 of Schedule 11 to, the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16). There are other amendments which are not relevant to this Order.
 

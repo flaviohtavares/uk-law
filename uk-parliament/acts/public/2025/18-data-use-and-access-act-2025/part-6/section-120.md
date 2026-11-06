@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Transfer of property etc to the Information Commission[^key-766cbd2c48bfec4938c89b7949bdc6cf][^key-c57674f541d28cb95e400de6143fbb4f]
+## 120. Transfer of property etc to the Information Commission[^c-766cbd2c48bfec4938c89b7949bdc6cf][^c-c57674f541d28cb95e400de6143fbb4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-766cbd2c48bfec4938c89b7949bdc6cf]: Commencement: S. 120 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-766cbd2c48bfec4938c89b7949bdc6cf]: Commencement: S. 120 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-c57674f541d28cb95e400de6143fbb4f]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2025/18/section/120) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z1)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z1)
+[^c-c57674f541d28cb95e400de6143fbb4f]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2025/18/section/120) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z1)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z1)

@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Communities[^f00001] makes the following Regulations in exercise of the powers conferred by sections 64(1), 70(4), 71(6) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002], and now vested in it[^f00003], and Articles 5 and 82(3) of the Welfare Reform (Northern Ireland) Order 2015[^f00004].
 
-## 1. Citation and commencement[^key-2f64d93350604f99950cbc815403d927]
+## 1. Citation and commencement[^c-2f64d93350604f99950cbc815403d927]
 
 These Regulations may be cited as the Social Security (Genuine and Sufficient Link to the United Kingdom) (Amendment) Regulations (Northern Ireland) 2024 and shall come into operation on 7th November 2024.
 
-## 2. Amendment of the Invalid Care Allowance Regulations[^key-a4cc876415ba91ba9ff9e62a105b160e]
+## 2. Amendment of the Invalid Care Allowance Regulations[^c-a4cc876415ba91ba9ff9e62a105b160e]
 
 In the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976[^f00005] in—
 
@@ -55,7 +55,7 @@ In the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1
 
 omit “social security system”.
 
-## 3. Amendment of the Attendance Allowance Regulations[^key-039508097880771353f90dd8ae0c9263]
+## 3. Amendment of the Attendance Allowance Regulations[^c-039508097880771353f90dd8ae0c9263]
 
 In the Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992[^f00007] in—
 
@@ -64,7 +64,7 @@ In the Social Security (Attendance Allowance) Regulations (Northern Ireland) 199
 
 omit “social security system”.
 
-## 4. Amendment of the Disability Living Allowance Regulations[^key-f1d4d1728e282da0a998297b4fe5fe26]
+## 4. Amendment of the Disability Living Allowance Regulations[^c-f1d4d1728e282da0a998297b4fe5fe26]
 
 In the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00009] in–
 
@@ -73,7 +73,7 @@ In the Social Security (Disability Living Allowance) Regulations (Northern Irela
 
 omit “social security system”.
 
-## 5. Amendment of the Personal Independent Payment Regulations[^key-fabbb0ca841d47f5476a6cd659d68177]
+## 5. Amendment of the Personal Independent Payment Regulations[^c-fabbb0ca841d47f5476a6cd659d68177]
 
 In the Personal Independence Payment Regulations (Northern Ireland) 2016[^f00011] in–
 
@@ -112,27 +112,27 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00004]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
 
-[^key-2f64d93350604f99950cbc815403d927]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/163/regulation/1) in operation at 7.11.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/163/regulation/1)
+[^c-2f64d93350604f99950cbc815403d927]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/163/regulation/1) in operation at 7.11.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/163/regulation/1)
 
-[^key-a4cc876415ba91ba9ff9e62a105b160e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/163/regulation/2) in operation at 7.11.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/163/regulation/1)
+[^c-a4cc876415ba91ba9ff9e62a105b160e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/163/regulation/2) in operation at 7.11.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/163/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99); regulations 9A and 9B were inserted by regulation 2(3) of [S.R. 2016 No. 229](https://www.legislation.gov.uk/nisr/2016/229); relevant amending Regulations are [S.I. 2019/129](https://www.legislation.gov.uk/uksi/2019/129)
 
 [^f00006]: Footnote: The heading to regulation 9B was amended by paragraph 1(2)(a) of the Schedule to [S.I. 2019/129](https://www.legislation.gov.uk/uksi/2019/129)
 
-[^key-039508097880771353f90dd8ae0c9263]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/163/regulation/3) in operation at 7.11.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/163/regulation/1)
+[^c-039508097880771353f90dd8ae0c9263]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/163/regulation/3) in operation at 7.11.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/163/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1992 No. 20](https://www.legislation.gov.uk/nisr/1992/20); regulations 2A and 2B were inserted by regulation 3(3) of [S.R. 2016 No. 229](https://www.legislation.gov.uk/nisr/2016/229); relevant amending Regulations are [S.I. 2019/129](https://www.legislation.gov.uk/uksi/2019/129)
 
 [^f00008]: Footnote: The heading to regulation 2B was amended by paragraph 6(2)(a) of the Schedule to [S.I. 2019/129](https://www.legislation.gov.uk/uksi/2019/129)
 
-[^key-f1d4d1728e282da0a998297b4fe5fe26]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2024/163/regulation/4) in operation at 7.11.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/163/regulation/1)
+[^c-f1d4d1728e282da0a998297b4fe5fe26]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2024/163/regulation/4) in operation at 7.11.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/163/regulation/1)
 
 [^f00009]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32); regulations 2A and 2B were inserted by regulation 4(4) of [S.R. 2016 No. 229](https://www.legislation.gov.uk/nisr/2016/229); relevant amending Regulations are [S.I. 2019/129](https://www.legislation.gov.uk/uksi/2019/129)
 
 [^f00010]: Footnote: The heading to regulation 2B was amended by paragraph 7(2)(a) of the Schedule to [S.I. 2019/129](https://www.legislation.gov.uk/uksi/2019/129)
 
-[^key-fabbb0ca841d47f5476a6cd659d68177]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2024/163/regulation/5) in operation at 7.11.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/163/regulation/1)
+[^c-fabbb0ca841d47f5476a6cd659d68177]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2024/163/regulation/5) in operation at 7.11.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/163/regulation/1)
 
 [^f00011]: Footnote: [S.R. 2016 No. 217](https://www.legislation.gov.uk/nisr/2016/217); relevant amending Regulations are [S.I. 2019/129](https://www.legislation.gov.uk/uksi/2019/129)
 

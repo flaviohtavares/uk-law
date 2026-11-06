@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Other reports to Secretary of State[^key-ac38446063b917e8319c71cc117c04c1]
+## 58. Other reports to Secretary of State[^c-ac38446063b917e8319c71cc117c04c1]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac38446063b917e8319c71cc117c04c1]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2003/20/section/58) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(oo)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/oo)
+[^c-ac38446063b917e8319c71cc117c04c1]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2003/20/section/58) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(oo)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/oo)

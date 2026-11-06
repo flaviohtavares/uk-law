@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 181. Forfeiture: offences committed by members, surviving partners or eligible children[^key-4c2b48a2359383ee334bc2a058b7ead5]
+## 181. Forfeiture: offences committed by members, surviving partners or eligible children[^c-4c2b48a2359383ee334bc2a058b7ead5]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ so much of any pension as has been withheld under this regulation.
   - (b) is liable to lead to serious loss of confidence in the public service;
 - “relevant offence” (“*trosedd berthnasol*”) means—
   - (a) an offence of treason,
-  - (b) an offence under the Official Secrets Acts 1911 to 1989[^f00081] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^key-9e9f835553dfd8bc8c120d81d4b5716b] for which the member has been sentenced on the same occasion—
+  - (b) an offence under the Official Secrets Acts 1911 to 1989[^f00081] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^c-9e9f835553dfd8bc8c120d81d4b5716b] for which the member has been sentenced on the same occasion—
     - (i) to a term of imprisonment of at least 10 years, or
     - (ii) to two or more consecutive terms amounting in the aggregate to at least 10 years, or
   - (c) an offence—
@@ -57,10 +57,10 @@ so much of any pension as has been withheld under this regulation.
 
 ## Annotations
 
-[^key-4c2b48a2359383ee334bc2a058b7ead5]: Commencement: Reg. 181 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-4c2b48a2359383ee334bc2a058b7ead5]: Commencement: Reg. 181 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00080]: Footnote: Section 17 was amended by the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), Schedule 1, paragraph 39; the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), Schedule 5, paragraph 1 and Schedule 9, Part 3; the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), section 284(2); the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22) section 14(2); the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), Schedule 4, paragraphs 18 and 20; and [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050) and [2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
 [^f00081]: Footnote: [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6); see section 16(2) for the meaning of “Official Secrets Acts 1911 to 1989”.
 
-[^key-9e9f835553dfd8bc8c120d81d4b5716b]: Textual amendment: Words in [reg. 181(5)](https://www.legislation.gov.uk/wsi/2015/622/regulation/181/5) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 43(2)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/43/2)
+[^c-9e9f835553dfd8bc8c120d81d4b5716b]: Textual amendment: Words in [reg. 181(5)](https://www.legislation.gov.uk/wsi/2015/622/regulation/181/5) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 43(2)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/43/2)

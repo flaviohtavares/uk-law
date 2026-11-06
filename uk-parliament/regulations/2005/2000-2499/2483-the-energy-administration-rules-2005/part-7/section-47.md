@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Withdrawal or variation of proof[^key-eb403684273b4b5a2f1ee1e21ae1486f]
+## 47. Withdrawal or variation of proof[^c-eb403684273b4b5a2f1ee1e21ae1486f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A creditor’s proof may at any time, by agreement between himself and the energ
 
 ## Annotations
 
-[^key-eb403684273b4b5a2f1ee1e21ae1486f]: Commencement: Rule 47 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-eb403684273b4b5a2f1ee1e21ae1486f]: Commencement: Rule 47 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

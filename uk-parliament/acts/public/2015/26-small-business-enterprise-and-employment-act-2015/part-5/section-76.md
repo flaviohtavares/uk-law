@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Childminding other than on domestic premises[^key-42ae46092e1d3e364e31d233ee8e003c]
+## 76. Childminding other than on domestic premises[^c-42ae46092e1d3e364e31d233ee8e003c]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42ae46092e1d3e364e31d233ee8e003c]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2015/26/section/76) in force at 1.1.2016 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/6/a)
+[^c-42ae46092e1d3e364e31d233ee8e003c]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2015/26/section/76) in force at 1.1.2016 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/6/a)

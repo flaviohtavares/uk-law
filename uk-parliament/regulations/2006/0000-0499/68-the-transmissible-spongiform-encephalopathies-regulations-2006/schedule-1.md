@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — Instruments relevant to Community TSE Regulation[^key-9eb1dd1b34bad5e460be90a16ce6b033]
+## SCHEDULE 1 — Instruments relevant to Community TSE Regulation[^c-9eb1dd1b34bad5e460be90a16ce6b033]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ The Community TSE Regulation has been amended by, and must be read with—
 
 ## Annotations
 
-[^key-9eb1dd1b34bad5e460be90a16ce6b033]: Commencement: Sch. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-9eb1dd1b34bad5e460be90a16ce6b033]: Commencement: Sch. 1 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
 
 [^f00010]: Footnote: OJ No. L 173, 27.6.2001, p. 12.
 

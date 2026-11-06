@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.239. Interpretation of creditor and notice to member State liquidator appointed in main proceedings[^key-3ba1a371c073b6872a3dad6390610eab]
+## 6.239. Interpretation of creditor and notice to member State liquidator appointed in main proceedings[^c-3ba1a371c073b6872a3dad6390610eab]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ba1a371c073b6872a3dad6390610eab]: Textual amendment: Pt. 6 Ch. 27 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [8(9)](https://www.legislation.gov.uk/uksi/2002/1307/rule/8/9) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
+[^c-3ba1a371c073b6872a3dad6390610eab]: Textual amendment: Pt. 6 Ch. 27 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [8(9)](https://www.legislation.gov.uk/uksi/2002/1307/rule/8/9) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))

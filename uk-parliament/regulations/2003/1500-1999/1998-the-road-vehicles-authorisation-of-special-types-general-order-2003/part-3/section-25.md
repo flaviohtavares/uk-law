@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Visibility and marking of forward, rearward and lateral projections[^key-3246ab858fbce42f6c32ee7ea736bfce]
+## 25. Visibility and marking of forward, rearward and lateral projections[^c-3246ab858fbce42f6c32ee7ea736bfce]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 8 (which makes provision as to the visibility and marking of projection
 
 ## Annotations
 
-[^key-3246ab858fbce42f6c32ee7ea736bfce]: Commencement: Art. 25 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-3246ab858fbce42f6c32ee7ea736bfce]: Commencement: Art. 25 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

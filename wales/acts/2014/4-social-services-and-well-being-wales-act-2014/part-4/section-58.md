@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Protecting property of persons being cared for away from home[^key-2eb0ce026c5b6523c034829e661969b5]
+## 58. Protecting property of persons being cared for away from home[^c-2eb0ce026c5b6523c034829e661969b5]
 
 *Extent: E+W*
 
 (1) This section applies where—
 
-- (a) a person is having needs for care and support met under section 35, 36, 37 or 38 in a way that involves the provision of accommodation , is admitted to hospital[^key-0580a287a5dbc1c16c35f62ff1be6a94] (or both), and
+- (a) a person is having needs for care and support met under section 35, 36, 37 or 38 in a way that involves the provision of accommodation , is admitted to hospital[^c-0580a287a5dbc1c16c35f62ff1be6a94] (or both), and
 - (b) it appears to a local authority that there is a danger of loss or damage to movable property of the person's in the authority's area because—
   - (i) the person is unable (whether permanently or temporarily) to protect or deal with the property, and
   - (ii) no suitable arrangements have been or are being made.
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2eb0ce026c5b6523c034829e661969b5]: Commencement: S. 58 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-2eb0ce026c5b6523c034829e661969b5]: Commencement: S. 58 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-0580a287a5dbc1c16c35f62ff1be6a94]: Textual amendment: Words in s. 58(1)(a) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [298](https://www.legislation.gov.uk/wsi/2016/413/regulation/298)
+[^c-0580a287a5dbc1c16c35f62ff1be6a94]: Textual amendment: Words in s. 58(1)(a) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [298](https://www.legislation.gov.uk/wsi/2016/413/regulation/298)

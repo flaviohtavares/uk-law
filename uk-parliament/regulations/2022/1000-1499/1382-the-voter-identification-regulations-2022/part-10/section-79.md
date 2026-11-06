@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. New regulation 30A (refusal to deliver signing sheet: England and Wales and Scotland)[^key-686e16ce64cb6160ca2814ac53fe4722]
+## 79. New regulation 30A (refusal to deliver signing sheet: England and Wales and Scotland)[^c-686e16ce64cb6160ca2814ac53fe4722]
 
 *Extent: E+W+S*
 
@@ -65,4 +65,4 @@ After regulation 30 (tendered signing sheets) insert—
 
 ## Annotations
 
-[^key-686e16ce64cb6160ca2814ac53fe4722]: Commencement: Reg. 79 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-686e16ce64cb6160ca2814ac53fe4722]: Commencement: Reg. 79 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

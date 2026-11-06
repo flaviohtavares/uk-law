@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Referral of case to accelerated misconduct hearing[^key-66e767c6f212858c17d6bbc117c12d8c]
+## 49. Referral of case to accelerated misconduct hearing[^c-66e767c6f212858c17d6bbc117c12d8c]
 
 *Extent: E+W*
 
-(A1)[^key-63c665ce3f2f7d6c9e585562283a6d5d] Subject to paragraph (A2), after receipt of the investigator's report under regulation 21(1), the appropriate authority may at any time determine whether the special conditions are satisfied.
+(A1)[^c-63c665ce3f2f7d6c9e585562283a6d5d] Subject to paragraph (A2), after receipt of the investigator's report under regulation 21(1), the appropriate authority may at any time determine whether the special conditions are satisfied.
 
 (A2) Where the case is referred to misconduct proceedings, the appropriate authority must not make a determination under paragraph (A1) on or after the date of the misconduct meeting or misconduct hearing.
 
@@ -53,6 +53,6 @@ it must, if the investigation was incomplete, return the case to the investigato
 
 ## Annotations
 
-[^key-66e767c6f212858c17d6bbc117c12d8c]: Commencement: Reg. 49 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-66e767c6f212858c17d6bbc117c12d8c]: Commencement: Reg. 49 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-63c665ce3f2f7d6c9e585562283a6d5d]: Textual amendment: Reg. 49(A1)(A2) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2025/558/regulation/16) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-63c665ce3f2f7d6c9e585562283a6d5d]: Textual amendment: Reg. 49(A1)(A2) inserted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2025/558/regulation/16) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))

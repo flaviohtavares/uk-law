@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Application of the 1991 Act[^key-3414f091558b8d70608817b8d2a58476]
+## 3. Application of the 1991 Act[^c-3414f091558b8d70608817b8d2a58476]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ all such other provisions as apply for the purposes of the provisions mentioned 
 
 ## Annotations
 
-[^key-3414f091558b8d70608817b8d2a58476]: Commencement: Art. 3 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-3414f091558b8d70608817b8d2a58476]: Commencement: Art. 3 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

@@ -50,17 +50,17 @@ In accordance with Article 12(1) of the 1972 Order and section 3(5) of the 2014 
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-fac64c3ae2b1a00a21a471f643e08470]
+### 1. Citation and commencement[^c-fac64c3ae2b1a00a21a471f643e08470]
 
 These Regulations may be cited as the Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 and come into operation on 1st April 2024.
 
 ## PART 2 — Amendments to the Health and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995
 
-### 2. General[^key-0cd53e98260084e60495e0d04e5669f8]
+### 2. General[^c-0cd53e98260084e60495e0d04e5669f8]
 
 The Heath and Personal Social Services (Superannuation) Regulations (Northern Ireland) 1995[^f00003] are amended in accordance with this Part.
 
-### 3. Amendment of regulation 2[^key-899ebee7eaaf68446b418d8835460448]
+### 3. Amendment of regulation 2[^c-899ebee7eaaf68446b418d8835460448]
 
 In regulation 2 (interpretation), at the appropriate place in alphabetical order insert—
 
@@ -68,7 +68,7 @@ In regulation 2 (interpretation), at the appropriate place in alphabetical order
 
 .
 
-### 4. Amendment of regulation 3[^key-18a6c484d4c0f4d877cdb7f3ef9217bc]
+### 4. Amendment of regulation 3[^c-18a6c484d4c0f4d877cdb7f3ef9217bc]
 
 (1) Regulation 3 (meaning of “superannuable pay and “final year’s superannuable pay”)[^f00004] is amended as follows.
 
@@ -80,7 +80,7 @@ In regulation 2 (interpretation), at the appropriate place in alphabetical order
 
 .
 
-### 5. Amendment of regulation 4[^key-3b6445f9ba8274925996c94d908495bc]
+### 5. Amendment of regulation 4[^c-3b6445f9ba8274925996c94d908495bc]
 
 (1) Regulation 4 (meaning of “**superannuable service**”)[^f00005] is amended as follows.
 
@@ -100,7 +100,7 @@ In regulation 2 (interpretation), at the appropriate place in alphabetical order
 
 .
 
-### 6. New regulations 16A, 16B and 16C[^key-d33ee64075d42b660fe2e5f15b8a31aa]
+### 6. New regulations 16A, 16B and 16C[^c-d33ee64075d42b660fe2e5f15b8a31aa]
 
 After regulation 16 (early retirement pension (with actuarial reduction)), insert—
 
@@ -261,7 +261,7 @@ After regulation 16 (early retirement pension (with actuarial reduction)), inser
 
 .
 
-### 7. Amendment of regulation 17[^key-ed04e74776c7f9d94adcc0c2bbb8782d]
+### 7. Amendment of regulation 17[^c-ed04e74776c7f9d94adcc0c2bbb8782d]
 
 (1) Regulation 17 (lump sum on retirement)[^f00006] is amended as follows.
 
@@ -272,7 +272,7 @@ After regulation 16 (early retirement pension (with actuarial reduction)), inser
 - (a) for “16 applies (early retirement pension with actuarial reduction)”, substitute “16 (early retirement pension with actuarial reduction) or regulation 16A (partial retirement pension) applies”; and
 - (b) in sub-paragraph (a), after “regulation 16(2)”, insert “or regulation 16A(5)(b);”.
 
-### 8. Amendment of regulation 19[^key-46d026303978878ed2e1ed3d2c2a916e]
+### 8. Amendment of regulation 19[^c-46d026303978878ed2e1ed3d2c2a916e]
 
 (1) Regulation 19 (member dies after pension becomes payable) is amended as follows.
 
@@ -284,7 +284,7 @@ After regulation 16 (early retirement pension (with actuarial reduction)), inser
 
 .
 
-### 9. New regulation 19A[^key-b0c53c632e6ffa6b5fc0e7caf6da4474]
+### 9. New regulation 19A[^c-b0c53c632e6ffa6b5fc0e7caf6da4474]
 
 After regulation 19 (member dies after pension becomes payable) insert—
 
@@ -313,15 +313,15 @@ After regulation 19 (member dies after pension becomes payable) insert—
 
 .
 
-### 10. Amendment of regulation 25[^key-2b987ab6defe6027993c9bb641424e83]
+### 10. Amendment of regulation 25[^c-2b987ab6defe6027993c9bb641424e83]
 
 In regulation 25 (member dies after pension becomes payable), in paragraph (5) after “(early retirement pension with actuarial reduction)” insert “or regulation 16A (partial retirement pension)”.
 
-### 11. Amendment of regulation 35[^key-79ddac52b0c7fee08cfcaab855c2d5f4]
+### 11. Amendment of regulation 35[^c-79ddac52b0c7fee08cfcaab855c2d5f4]
 
 In regulation 35 (member dies after pension becomes payable), in paragraph (9)[^f00007] after regulation “regulation 13C” insert “(further employment after a benefit is paid under regulation 13A) or regulation 16A (partial retirement pension)”.
 
-### 12. Amendment of regulation 36[^key-ccaf2a89a7202e3bb97a31d3e3e32894]
+### 12. Amendment of regulation 36[^c-ccaf2a89a7202e3bb97a31d3e3e32894]
 
 In regulation 36 (member dies with preserved pension), for paragraph (3)[^f00008] substitute—
 
@@ -332,15 +332,15 @@ In regulation 36 (member dies with preserved pension), for paragraph (3)[^f00008
 
 .
 
-### 13. Amendment of regulation 39[^key-7be5d2125c9b8a1268a446166753833c]
+### 13. Amendment of regulation 39[^c-7be5d2125c9b8a1268a446166753833c]
 
 In regulation 39 (allocation of pension)[^f00009], in paragraph (4)(a), after “put into payment” insert “other than a pension payable under regulation 16A (partial retirement pension)”.
 
-### 14. Amendment of regulation 43[^key-3dd61e5e40d36220b5475337fe2f121c]
+### 14. Amendment of regulation 43[^c-3dd61e5e40d36220b5475337fe2f121c]
 
 In regulation 43 (guaranteed minimum pensions)[^f00010], in paragraph (2)(b), for “reduced or suspended under regulation 84 (Suspension of pension on return to HSC employment) or regulation 85 (Reduction of pension on return to HSC employment) if the member returns to HSC employment” substitute “reduced under regulation 85 (reduction of pension on return to HSC employment)”.
 
-### 15. Amendment of regulation 49[^key-28d26426c84d17855dcc80d0ddc1a2a6]
+### 15. Amendment of regulation 49[^c-28d26426c84d17855dcc80d0ddc1a2a6]
 
 In regulation 49 (preserved pension)[^f00011], in paragraph (14), for the definition of “HSC employment”, substitute⸺
 
@@ -350,7 +350,7 @@ In regulation 49 (preserved pension)[^f00011], in paragraph (14), for the defini
 
 .
 
-### 16. Amendment of regulation 67[^key-baa2cea713c8ed1f327ef133cf3b49e5]
+### 16. Amendment of regulation 67[^c-baa2cea713c8ed1f327ef133cf3b49e5]
 
 In regulation 67 (right to buy additional service)[^f00012], in paragraph (4), after sub-paragraph (b), for the full stop substitute a semi colon and insert—
 
@@ -358,11 +358,11 @@ In regulation 67 (right to buy additional service)[^f00012], in paragraph (4), a
 
 .
 
-### 17. Amendment of regulation 77[^key-1450f15596c42680f54ab63c2f8967d7]
+### 17. Amendment of regulation 77[^c-1450f15596c42680f54ab63c2f8967d7]
 
 In regulation 77 (members doing more than one job), omit paragraph (8).
 
-### 18. Amendment of regulation 73H[^key-d2c6de76cb0a32dbe816bba183e4b46a]
+### 18. Amendment of regulation 73H[^c-d2c6de76cb0a32dbe816bba183e4b46a]
 
 In regulation 73H (effect of death or early payment of pension after option exercised under regulation 73A, 73C or 73D), in paragraph (5), at the end of sub-paragraph (c), insert “; or” and after that sub-paragraph add—
 
@@ -370,11 +370,11 @@ In regulation 73H (effect of death or early payment of pension after option exer
 
 .
 
-### 19. Omission of regulation 84[^key-7df21a01c04d8dc70b55209fb62fc9ee]
+### 19. Omission of regulation 84[^c-7df21a01c04d8dc70b55209fb62fc9ee]
 
 Omit regulation 84 (suspension of pension on return to HSC employment)[^f00013].
 
-### 20. Amendment of regulation 85[^key-0e22a9673529c02201f0396562540e11]
+### 20. Amendment of regulation 85[^c-0e22a9673529c02201f0396562540e11]
 
 In regulation 85 (reduction of pension on return to HSC employment), in paragraph (14), for the definition of “HSC employment” substitute—
 
@@ -383,7 +383,7 @@ In regulation 85 (reduction of pension on return to HSC employment), in paragrap
 > - (a) employment in respect of which regulations made under section 10 of the Superannuation Act 1972, and having effect in Great Britain apply; and employment commencing on or before 31st March 2012 to which a scheme made under section 2 of the Superannuation Act 1984 (an Act of Tynwald) applies; and
 > - (b) employment with an employer with whom an agreement has been made under Article 12(9) of the Superannuation (Northern Ireland) Order 1972 or in respect of whom a direction has been made under Article 12(6) of that Order.
 
-### 21. Amendment of Schedule 2[^key-ecab0e128c0c4208a742703777e86da5]
+### 21. Amendment of Schedule 2[^c-ecab0e128c0c4208a742703777e86da5]
 
 In Schedule 2 (medical and dental practitioners), after paragraph 12, insert—
 
@@ -413,47 +413,47 @@ In Schedule 2 (medical and dental practitioners), after paragraph 12, insert—
 
 ## Part 3 — Amendments to the Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008
 
-### 22. General[^key-de37b0b884d5689066470bdcc99bfd43]
+### 22. General[^c-de37b0b884d5689066470bdcc99bfd43]
 
 The Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008[^f00014] are amended in accordance with this Part.
 
-### 23. Amendment of regulation 49[^key-20694268200d99482850f29d67ef27d6]
+### 23. Amendment of regulation 49[^c-20694268200d99482850f29d67ef27d6]
 
 In regulation 49 (partial retirement (members aged at least 55)), omit paragraph (6)(b) and (c).
 
-### 24. Amendment of regulation 57[^key-8a2530844313ffa20225ba5fc46e98d1]
+### 24. Amendment of regulation 57[^c-8a2530844313ffa20225ba5fc46e98d1]
 
 In regulation 57 (exceptions to requirement that HSC employment must have ceased), in paragraph (2A), after “if the member” insert “is not a non-contributing member and”.
 
-### 25. Amendment of regulation 180[^key-f49acac7af14ec7be2338eb79666bb22]
+### 25. Amendment of regulation 180[^c-f49acac7af14ec7be2338eb79666bb22]
 
 In regulation 180 (partial retirement (members aged at least 55)), omit paragraph (5)(b).
 
 ## PART 4 — Amendments to the Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015
 
-### 26. General[^key-68907685e426add96e6c9ce916f07c06]
+### 26. General[^c-68907685e426add96e6c9ce916f07c06]
 
 The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f00015] are amended in accordance with this Part.
 
-### 27. Amendment of regulation 19[^key-d5fbde770853b67ae239fb2d9126e003]
+### 27. Amendment of regulation 19[^c-d5fbde770853b67ae239fb2d9126e003]
 
 In regulation 19 (restrictions on membership)[^f00016], omit paragraph (c).
 
-### 28. Amendment of regulation 83[^key-97b8eeba828b9498b4854a9707f54290]
+### 28. Amendment of regulation 83[^c-97b8eeba828b9498b4854a9707f54290]
 
 In regulation 83 (election for partial retirement (members over normal minimum pension age)), omit paragraph (5)(b).
 
-### 29. Amendment of regulation 85[^key-141aa678b76c7ef46f2a4116bebb4628]
+### 29. Amendment of regulation 85[^c-141aa678b76c7ef46f2a4116bebb4628]
 
 In regulation 85 (terms of employment improve after election), in paragraph (3), after regulation “regulation 84(2)” insert “(a) and (b)”.
 
 ## PART 5 — The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015
 
-### 30. General[^key-56d27812a802940698238799d79e0e9e]
+### 30. General[^c-56d27812a802940698238799d79e0e9e]
 
 The Health and Social Care (Transitional and Consequential Provisions) (Northern Ireland) Regulations 2015[^f00017] are amended in accordance with this Part.
 
-### 31. Amendment of regulation 2[^key-2ccf25bc95170c61fd99facb208ed7a0]
+### 31. Amendment of regulation 2[^c-2ccf25bc95170c61fd99facb208ed7a0]
 
 (1) Regulation 2 (interpretation) is amended as follows.
 
@@ -475,11 +475,11 @@ The Health and Social Care (Transitional and Consequential Provisions) (Northern
 
 (4) In the definition of “practitioner transition member”, after “a person” insert “other than a non-pensionable old scheme member”.
 
-### 32. Amendment of regulation 10A[^key-36e4cba9c1e9f72cc1ddfe4b32935fa7][^key-bd56854589227a16f8e3950e5f0d9b11]
+### 32. Amendment of regulation 10A[^c-36e4cba9c1e9f72cc1ddfe4b32935fa7][^c-bd56854589227a16f8e3950e5f0d9b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Amendment of regulation 14[^key-d1f05f3e7681052c87fdfe660b207de1]
+### 33. Amendment of regulation 14[^c-d1f05f3e7681052c87fdfe660b207de1]
 
 (1) Regulation 14 (determination of pensionable pay, final pensionable pay and reckonable pay) is amended as follows.
 
@@ -487,15 +487,15 @@ The Health and Social Care (Transitional and Consequential Provisions) (Northern
 
 (3) In paragraph (2), after the words “a 2008 officer transition member” insert “or a non-pensionable 2008 Section member”.
 
-### 34. Amendment of regulation 15[^key-ec9fb3b3bb7cc3c8873f98b6764fae01]
+### 34. Amendment of regulation 15[^c-ec9fb3b3bb7cc3c8873f98b6764fae01]
 
 In regulation 15 (no refund of contributions in cases of inordinate pay) for “1995 officer transition member’s final year’s pensionable pay” substitute “member’s final years’ pensionable pay in respect of a 1995 officer transition member or a non-pensionable 1995 Section member”.
 
-### 35. Amendment of regulation 16[^key-36ed1775fdc2a1b8cc9aeaf2b3f9fa37]
+### 35. Amendment of regulation 16[^c-36ed1775fdc2a1b8cc9aeaf2b3f9fa37]
 
 In regulation 16 (cessation of final salary link on payment of benefits), after “member’s benefits” insert “or a non-pensionable old scheme member’s benefits”.
 
-### 36. New regulation 17A[^key-ee560b5344309902fd3506f64cad93e9]
+### 36. New regulation 17A[^c-ee560b5344309902fd3506f64cad93e9]
 
 After regulation 17 (Final salary link: Mental Health Officers), insert—
 
@@ -507,7 +507,7 @@ After regulation 17 (Final salary link: Mental Health Officers), insert—
 
 .
 
-### 37. Amendment of regulation 31[^key-7b1f66ba6d6b56215d129d2c5433887b]
+### 37. Amendment of regulation 31[^c-7b1f66ba6d6b56215d129d2c5433887b]
 
 (1) Regulation 31 (partial retirement)[^f00019] is amended as follows.
 
@@ -538,7 +538,7 @@ After regulation 17 (Final salary link: Mental Health Officers), insert—
 
 .
 
-### 38. Amendment of Regulation 35[^key-8e11e06391bde8a176ed0ead3c337ada]
+### 38. Amendment of Regulation 35[^c-8e11e06391bde8a176ed0ead3c337ada]
 
 (1) Regulation 35 (variations to lump sums for 1995 and 2008 pensioners joining new scheme), is amended as follows.
 
@@ -563,7 +563,7 @@ After regulation 17 (Final salary link: Mental Health Officers), insert—
 
 .
 
-### 39. New Regulation 35A[^key-5f4968dd7c53bc8c2fbd7718b11115fc]
+### 39. New Regulation 35A[^c-5f4968dd7c53bc8c2fbd7718b11115fc]
 
 (1) After regulation 35 (variations to lump sums for 1995 and 2008 pensioners joining new scheme) insert—
 
@@ -606,7 +606,7 @@ After regulation 17 (Final salary link: Mental Health Officers), insert—
 
 .
 
-### 40. Amendment of regulation 38[^key-dda06ac08444e0ea17eade54688bd862]
+### 40. Amendment of regulation 38[^c-dda06ac08444e0ea17eade54688bd862]
 
 (1) Regulation 38 (death in service) is amended as follows.
 
@@ -649,7 +649,7 @@ After regulation 17 (Final salary link: Mental Health Officers), insert—
 - (a) for “the table”, in both places it occurs, substitute “Table 1 or Table 2” and
 - (b) after the first occurrence of “column 1” add “of either table”.
 
-### 41. Amendment of Schedule 1[^key-14d1db7674973e5e91bf34372108efa9]
+### 41. Amendment of Schedule 1[^c-14d1db7674973e5e91bf34372108efa9]
 
 In paragraph 1 of Schedule 1(eligibility of 1995 Section pensioners to join the new scheme)[^f00020], at the end of the table insert—
 
@@ -660,11 +660,11 @@ In paragraph 1 of Schedule 1(eligibility of 1995 Section pensioners to join the 
 
 ## PART 6 — Amendments to the Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023
 
-### 42. General[^key-f20567885fe712d463614788531fe742]
+### 42. General[^c-f20567885fe712d463614788531fe742]
 
 The Health and Social Care Pension Schemes (Remediable Service) Regulations (Northern Ireland) 2023[^f00021]are amended in accordance with this Part.
 
-**43.**[^key-f71b2ac2ae50b83b5505c2b031b65c55] (1) In Regulation 73 (partial retirement: deferred choice members) in paragraph (1) before sub-paragraph (a) insert—
+**43.**[^c-f71b2ac2ae50b83b5505c2b031b65c55] (1) In Regulation 73 (partial retirement: deferred choice members) in paragraph (1) before sub-paragraph (a) insert—
 
 > - (za) regulation 16A of the 1995 Regulations[^f00022] (partial retirement pension);
 
@@ -718,128 +718,128 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00002]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2) Section 3(1) and (2) were amended by section 94(2) and (3) of the Public Service Pensions and Judicial Offices Act [2022 (c.7)](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-fac64c3ae2b1a00a21a471f643e08470]: Commencement: Reg. 1 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-fac64c3ae2b1a00a21a471f643e08470]: Commencement: Reg. 1 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-0cd53e98260084e60495e0d04e5669f8]: Commencement: Reg. 2 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-0cd53e98260084e60495e0d04e5669f8]: Commencement: Reg. 2 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00003]: Footnote: [S.R.1995 No. 95](https://www.legislation.gov.uk/nisr/1995/95).
 
-[^key-899ebee7eaaf68446b418d8835460448]: Commencement: Reg. 3 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-899ebee7eaaf68446b418d8835460448]: Commencement: Reg. 3 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-18a6c484d4c0f4d877cdb7f3ef9217bc]: Commencement: Reg. 4 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-18a6c484d4c0f4d877cdb7f3ef9217bc]: Commencement: Reg. 4 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00004]: Footnote: Amended by [S.R. 2008 No. 163](https://www.legislation.gov.uk/nisr/2008/163).
 
-[^key-3b6445f9ba8274925996c94d908495bc]: Commencement: Reg. 5 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-3b6445f9ba8274925996c94d908495bc]: Commencement: Reg. 5 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00005]: Footnote: Amended by [S.R. 2008 No.163](https://www.legislation.gov.uk/nisr/2008/163) & [2010 No. 22](https://www.legislation.gov.uk/nisr/2010/22).
 
-[^key-d33ee64075d42b660fe2e5f15b8a31aa]: Commencement: Reg. 6 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-d33ee64075d42b660fe2e5f15b8a31aa]: Commencement: Reg. 6 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-ed04e74776c7f9d94adcc0c2bbb8782d]: Commencement: Reg. 7 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-ed04e74776c7f9d94adcc0c2bbb8782d]: Commencement: Reg. 7 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00006]: Footnote: Relevant amending regulations are [S.R. 2006 No. 410](https://www.legislation.gov.uk/nisr/2006/410), [S.R. 2008 No. 130](https://www.legislation.gov.uk/nisr/2008/130) and [S.R. 2010 No. 492](https://www.legislation.gov.uk/nisr/2010/492).
 
-[^key-46d026303978878ed2e1ed3d2c2a916e]: Commencement: Reg. 8 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-46d026303978878ed2e1ed3d2c2a916e]: Commencement: Reg. 8 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-b0c53c632e6ffa6b5fc0e7caf6da4474]: Commencement: Reg. 9 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-b0c53c632e6ffa6b5fc0e7caf6da4474]: Commencement: Reg. 9 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-2b987ab6defe6027993c9bb641424e83]: Commencement: Reg. 10 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-2b987ab6defe6027993c9bb641424e83]: Commencement: Reg. 10 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-79ddac52b0c7fee08cfcaab855c2d5f4]: Commencement: Reg. 11 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-79ddac52b0c7fee08cfcaab855c2d5f4]: Commencement: Reg. 11 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00007]: Footnote: Paragraphs (9) and (10) were inserted by [S.R. 2008 No. 163](https://www.legislation.gov.uk/nisr/2008/163).
 
-[^key-ccaf2a89a7202e3bb97a31d3e3e32894]: Commencement: Reg. 12 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-ccaf2a89a7202e3bb97a31d3e3e32894]: Commencement: Reg. 12 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00008]: Footnote: Paragraphs (3) and (3A) were substituted by [S.R. 2008 No. 163](https://www.legislation.gov.uk/nisr/2008/163).
 
-[^key-7be5d2125c9b8a1268a446166753833c]: Commencement: Reg. 13 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-7be5d2125c9b8a1268a446166753833c]: Commencement: Reg. 13 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00009]: Footnote: Relevant amending regulations are [S.R. 2008 No. 130](https://www.legislation.gov.uk/nisr/2008/130), [S.R. 2008 No. 163](https://www.legislation.gov.uk/nisr/2008/163) and [S.R. 2010 No. 22](https://www.legislation.gov.uk/nisr/2010/22).
 
-[^key-3dd61e5e40d36220b5475337fe2f121c]: Commencement: Reg. 14 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-3dd61e5e40d36220b5475337fe2f121c]: Commencement: Reg. 14 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00010]: Footnote: Regulation 43 was amended by [S.R. 2010 No 420](https://www.legislation.gov.uk/nisr/2010/420).
 
-[^key-28d26426c84d17855dcc80d0ddc1a2a6]: Commencement: Reg. 15 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-28d26426c84d17855dcc80d0ddc1a2a6]: Commencement: Reg. 15 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00011]: Footnote: Relevant amending regulations are S.R.[2008 No. 163](https://www.legislation.gov.uk/nisr/2008/163) and [S.R. 2015 No. 122](https://www.legislation.gov.uk/nisr/2015/122).
 
-[^key-baa2cea713c8ed1f327ef133cf3b49e5]: Commencement: Reg. 16 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-baa2cea713c8ed1f327ef133cf3b49e5]: Commencement: Reg. 16 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00012]: Footnote: Relevant amending regulations are [S.R. 2008 No. 163](https://www.legislation.gov.uk/nisr/2008/163) and [S.R. 2010 No. 22](https://www.legislation.gov.uk/nisr/2010/22).
 
-[^key-1450f15596c42680f54ab63c2f8967d7]: Commencement: Reg. 17 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-1450f15596c42680f54ab63c2f8967d7]: Commencement: Reg. 17 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-d2c6de76cb0a32dbe816bba183e4b46a]: Commencement: Reg. 18 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-d2c6de76cb0a32dbe816bba183e4b46a]: Commencement: Reg. 18 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-7df21a01c04d8dc70b55209fb62fc9ee]: Commencement: Reg. 19 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-7df21a01c04d8dc70b55209fb62fc9ee]: Commencement: Reg. 19 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00013]: Footnote: Section 47 of the Coronavirus Act 2020 made a temporary modification to regulation 84; this modification was extended by [S.R. 2022 No 153](https://www.legislation.gov.uk/nisr/2022/153) and [S.R. 2022 No 245](https://www.legislation.gov.uk/nisr/2022/245)
 
-[^key-0e22a9673529c02201f0396562540e11]: Commencement: Reg. 20 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-0e22a9673529c02201f0396562540e11]: Commencement: Reg. 20 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-ecab0e128c0c4208a742703777e86da5]: Commencement: Reg. 21 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-ecab0e128c0c4208a742703777e86da5]: Commencement: Reg. 21 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-de37b0b884d5689066470bdcc99bfd43]: Commencement: Reg. 22 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-de37b0b884d5689066470bdcc99bfd43]: Commencement: Reg. 22 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00014]: Footnote: [S.R. 2008 No. 256](https://www.legislation.gov.uk/nisr/2008/256).
 
-[^key-20694268200d99482850f29d67ef27d6]: Commencement: Reg. 23 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-20694268200d99482850f29d67ef27d6]: Commencement: Reg. 23 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-8a2530844313ffa20225ba5fc46e98d1]: Commencement: Reg. 24 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-8a2530844313ffa20225ba5fc46e98d1]: Commencement: Reg. 24 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-f49acac7af14ec7be2338eb79666bb22]: Commencement: Reg. 25 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-f49acac7af14ec7be2338eb79666bb22]: Commencement: Reg. 25 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-68907685e426add96e6c9ce916f07c06]: Commencement: Reg. 26 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-68907685e426add96e6c9ce916f07c06]: Commencement: Reg. 26 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00015]: Footnote: S.R. [2015 No. 120](https://www.legislation.gov.uk/nisr/2015/120).
 
-[^key-d5fbde770853b67ae239fb2d9126e003]: Commencement: Reg. 27 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-d5fbde770853b67ae239fb2d9126e003]: Commencement: Reg. 27 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00016]: Footnote: Relevant amending regulations are [S.R. 2022 No. 156](https://www.legislation.gov.uk/nisr/2022/156).
 
-[^key-97b8eeba828b9498b4854a9707f54290]: Commencement: Reg. 28 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-97b8eeba828b9498b4854a9707f54290]: Commencement: Reg. 28 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-141aa678b76c7ef46f2a4116bebb4628]: Commencement: Reg. 29 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-141aa678b76c7ef46f2a4116bebb4628]: Commencement: Reg. 29 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-56d27812a802940698238799d79e0e9e]: Commencement: Reg. 30 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-56d27812a802940698238799d79e0e9e]: Commencement: Reg. 30 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00017]: Footnote: [S.R. 2015. No. 122](https://www.legislation.gov.uk/nisr/2015/122).
 
-[^key-2ccf25bc95170c61fd99facb208ed7a0]: Commencement: Reg. 31 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-2ccf25bc95170c61fd99facb208ed7a0]: Commencement: Reg. 31 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-36e4cba9c1e9f72cc1ddfe4b32935fa7]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/nisr/2024/50/regulation/32) omitted (12.6.2024) by virtue of [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [33](https://www.legislation.gov.uk/nisr/2024/117/regulation/33)
+[^c-36e4cba9c1e9f72cc1ddfe4b32935fa7]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/nisr/2024/50/regulation/32) omitted (12.6.2024) by virtue of [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [33](https://www.legislation.gov.uk/nisr/2024/117/regulation/33)
 
-[^key-bd56854589227a16f8e3950e5f0d9b11]: Commencement: Reg. 32 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-bd56854589227a16f8e3950e5f0d9b11]: Commencement: Reg. 32 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-d1f05f3e7681052c87fdfe660b207de1]: Commencement: Reg. 33 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-d1f05f3e7681052c87fdfe660b207de1]: Commencement: Reg. 33 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-ec9fb3b3bb7cc3c8873f98b6764fae01]: Commencement: Reg. 34 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-ec9fb3b3bb7cc3c8873f98b6764fae01]: Commencement: Reg. 34 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-36ed1775fdc2a1b8cc9aeaf2b3f9fa37]: Commencement: Reg. 35 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-36ed1775fdc2a1b8cc9aeaf2b3f9fa37]: Commencement: Reg. 35 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-ee560b5344309902fd3506f64cad93e9]: Commencement: Reg. 36 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-ee560b5344309902fd3506f64cad93e9]: Commencement: Reg. 36 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-7b1f66ba6d6b56215d129d2c5433887b]: Commencement: Reg. 37 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-7b1f66ba6d6b56215d129d2c5433887b]: Commencement: Reg. 37 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00019]: Footnote: Regulation 31 was amended by [S.I. 2016/245](https://www.legislation.gov.uk/uksi/2016/245).
 
-[^key-8e11e06391bde8a176ed0ead3c337ada]: Commencement: Reg. 38 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-8e11e06391bde8a176ed0ead3c337ada]: Commencement: Reg. 38 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-5f4968dd7c53bc8c2fbd7718b11115fc]: Commencement: Reg. 39 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-5f4968dd7c53bc8c2fbd7718b11115fc]: Commencement: Reg. 39 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-dda06ac08444e0ea17eade54688bd862]: Commencement: Reg. 40 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-dda06ac08444e0ea17eade54688bd862]: Commencement: Reg. 40 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
-[^key-14d1db7674973e5e91bf34372108efa9]: Commencement: Reg. 41 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-14d1db7674973e5e91bf34372108efa9]: Commencement: Reg. 41 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00020]: Footnote: The table in paragraph 1 of Schedule 1 was amended by [S.R. 2022 No 156](https://www.legislation.gov.uk/nisr/2022/156) and [S.R. 2022 No 244](https://www.legislation.gov.uk/nisr/2022/244).
 
-[^key-f20567885fe712d463614788531fe742]: Commencement: Reg. 42 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-f20567885fe712d463614788531fe742]: Commencement: Reg. 42 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00021]: Footnote: [S.R. 2023 No. 132](https://www.legislation.gov.uk/nisr/2023/132) (N.I.).
 
-[^key-f71b2ac2ae50b83b5505c2b031b65c55]: Commencement: Reg. 43 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
+[^c-f71b2ac2ae50b83b5505c2b031b65c55]: Commencement: Reg. 43 in operation at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1)
 
 [^f00022]: Footnote: Regulation 16 was inserted by S.R. 2024 No. XX (N.I.).

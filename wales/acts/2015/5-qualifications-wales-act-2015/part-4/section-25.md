@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Surrender of approval[^key-61d59e6f56327e8f195f6c05ddbbac1d]
+## 25. Surrender of approval[^c-61d59e6f56327e8f195f6c05ddbbac1d]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61d59e6f56327e8f195f6c05ddbbac1d]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2015/5/section/25) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-61d59e6f56327e8f195f6c05ddbbac1d]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2015/5/section/25) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

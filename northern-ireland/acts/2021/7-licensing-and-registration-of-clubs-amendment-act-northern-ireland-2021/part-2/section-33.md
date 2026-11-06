@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Increase in number of authorisations for special occasions[^key-14a393d249bb03aa6f8e60bfe3a5008a][^key-88c7f4a3a473c98e019cf71d86eaeafc]
+## 33. Increase in number of authorisations for special occasions[^c-14a393d249bb03aa6f8e60bfe3a5008a][^c-88c7f4a3a473c98e019cf71d86eaeafc]
 
 *Extent: N.I.*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-14a393d249bb03aa6f8e60bfe3a5008a]: Commencement: S. 33 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-14a393d249bb03aa6f8e60bfe3a5008a]: Commencement: S. 33 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-88c7f4a3a473c98e019cf71d86eaeafc]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2021/7/section/33) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-88c7f4a3a473c98e019cf71d86eaeafc]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2021/7/section/33) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

@@ -32,7 +32,7 @@ summary: ''
 
 Diplomatic Service
 
-The Consular Fees (Amendment) Order 2009 (revoked)[^key-f2c69f254aab67873ed5d6978da10007]
+The Consular Fees (Amendment) Order 2009 (revoked)[^c-f2c69f254aab67873ed5d6978da10007]
 
 Made
 
@@ -52,20 +52,20 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-f2c69f254aab67873ed5d6978da10007]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2c69f254aab67873ed5d6978da10007]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-f2c69f254aab67873ed5d6978da10007] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f2c69f254aab67873ed5d6978da10007] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f2c69f254aab67873ed5d6978da10007] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f2c69f254aab67873ed5d6978da10007] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2c69f254aab67873ed5d6978da10007]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2c69f254aab67873ed5d6978da10007]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f2c69f254aab67873ed5d6978da10007]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2c69f254aab67873ed5d6978da10007]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f2c69f254aab67873ed5d6978da10007]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1745) revoked (6.4.2010) by [The Consular Fees Order 2010 (S.I. 2010/238)](https://www.legislation.gov.uk/uksi/2010/238), [art. 1](https://www.legislation.gov.uk/uksi/2010/238/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/238/schedule/2)
+[^c-f2c69f254aab67873ed5d6978da10007]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1745) revoked (6.4.2010) by [The Consular Fees Order 2010 (S.I. 2010/238)](https://www.legislation.gov.uk/uksi/2010/238), [art. 1](https://www.legislation.gov.uk/uksi/2010/238/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/238/schedule/2)

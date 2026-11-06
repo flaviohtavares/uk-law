@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Contents of notices to be published in the Edinburgh Gazette under the 1986 Act or these Rules[^key-2aa3b84585749e6f3b4f720c1405b103]
+## 98. Contents of notices to be published in the Edinburgh Gazette under the 1986 Act or these Rules[^c-2aa3b84585749e6f3b4f720c1405b103]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2aa3b84585749e6f3b4f720c1405b103]: Commencement: Rule 98 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-2aa3b84585749e6f3b4f720c1405b103]: Commencement: Rule 98 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

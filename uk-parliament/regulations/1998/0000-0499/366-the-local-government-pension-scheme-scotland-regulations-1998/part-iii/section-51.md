@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Power of employing authority to increase total membership of members leaving employment at or after 50[^key-f8cf48808929bf5eb3f91cfe8cdaef79]
+## 51. Power of employing authority to increase total membership of members leaving employment at or after 50[^c-f8cf48808929bf5eb3f91cfe8cdaef79]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ whichever is the shortest.
 
 ## Annotations
 
-[^key-f8cf48808929bf5eb3f91cfe8cdaef79]: Commencement: Reg. 51 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-f8cf48808929bf5eb3f91cfe8cdaef79]: Commencement: Reg. 51 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

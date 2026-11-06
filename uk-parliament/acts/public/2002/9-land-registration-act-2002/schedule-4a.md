@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4A — Overseas entities[^key-a5edd5e623022f3094539735e5d5d15f]
+## SCHEDULE 4A — Overseas entities[^c-a5edd5e623022f3094539735e5d5d15f]
 
 *Extent: E+W*
 
@@ -133,7 +133,7 @@ In this Schedule—
 - “**register of overseas entities**” means the register kept under section 3 of the Economic Crime (Transparency and Enforcement) Act 2022;
 - “**registered overseas entity**” means an overseas entity that is registered in the register of overseas entities (but see paragraph 8).
 
-**8.**[^key-0774760a07c724f1597d0c3b55456f15] (1) For the purpose of this Schedule, an overseas entity that has failed to comply with any of the following duties is not to be treated as being a “registered overseas entity” until it remedies the failure.
+**8.**[^c-0774760a07c724f1597d0c3b55456f15] (1) For the purpose of this Schedule, an overseas entity that has failed to comply with any of the following duties is not to be treated as being a “registered overseas entity” until it remedies the failure.
 
 (2) The duties are—
 
@@ -144,6 +144,6 @@ In this Schedule—
 
 ## Annotations
 
-[^key-a5edd5e623022f3094539735e5d5d15f]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/ukpga/2002/9/schedule/4A) inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/3); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-a5edd5e623022f3094539735e5d5d15f]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/ukpga/2002/9/schedule/4A) inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/3); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-0774760a07c724f1597d0c3b55456f15]: Textual amendment: [Sch. 4A para. 8](https://www.legislation.gov.uk/ukpga/2002/9/schedule/4A/paragraph/8) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 177(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/177/1), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z60)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z60)
+[^c-0774760a07c724f1597d0c3b55456f15]: Textual amendment: [Sch. 4A para. 8](https://www.legislation.gov.uk/ukpga/2002/9/schedule/4A/paragraph/8) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 177(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/177/1), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z60)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z60)

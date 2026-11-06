@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 237. Appeal against decision of the Secretary of State[^key-0a6ffb8e6bd6aaba303ca3a471a40a11]
+## 237. Appeal against decision of the Secretary of State[^c-0a6ffb8e6bd6aaba303ca3a471a40a11]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ An appeal under the Regulations against a decision of the Secretary of State mus
 
 ## Annotations
 
-[^key-0a6ffb8e6bd6aaba303ca3a471a40a11]: Commencement: [Rule 237](https://www.legislation.gov.uk/nisr/2026/11/rule/237) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-0a6ffb8e6bd6aaba303ca3a471a40a11]: Commencement: [Rule 237](https://www.legislation.gov.uk/nisr/2026/11/rule/237) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

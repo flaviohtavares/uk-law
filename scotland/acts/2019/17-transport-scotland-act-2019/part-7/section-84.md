@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Evidence from approved devices[^key-f8db8c3288a84a60ff1c2b2460c4699e]
+## 84. Evidence from approved devices[^c-f8db8c3288a84a60ff1c2b2460c4699e]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The Scottish Ministers may by regulations make provision for or in connection wi
 
 ## Annotations
 
-[^key-f8db8c3288a84a60ff1c2b2460c4699e]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2019/17/section/84) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-f8db8c3288a84a60ff1c2b2460c4699e]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2019/17/section/84) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

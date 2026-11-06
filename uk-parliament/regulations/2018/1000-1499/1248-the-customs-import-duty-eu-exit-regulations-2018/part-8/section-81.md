@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Transitional provision – declarations made before IP completion day[^key-37220a9a6a3392e243ad8680fc5f76cb][^key-302606d159bff3b39c5b1dbf0584ce62][^key-302606d159bff3b39c5b1dbf0584ce62][^key-4f7eebe8fc578b9550e86d148a6c40ef]
+## 81. Transitional provision – declarations made before IP completion day[^c-37220a9a6a3392e243ad8680fc5f76cb][^c-302606d159bff3b39c5b1dbf0584ce62][^c-302606d159bff3b39c5b1dbf0584ce62][^c-4f7eebe8fc578b9550e86d148a6c40ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,10 +42,10 @@ summary: ''
 
 ## Annotations
 
-[^key-37220a9a6a3392e243ad8680fc5f76cb]: Commencement: Reg. 81 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-37220a9a6a3392e243ad8680fc5f76cb]: Commencement: Reg. 81 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-4f7eebe8fc578b9550e86d148a6c40ef]: Textual amendment: Words in reg. 81 substituted (31.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/11/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-4f7eebe8fc578b9550e86d148a6c40ef]: Textual amendment: Words in reg. 81 substituted (31.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/11/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23522111]: Marginal citation: See section 3 of the Act.

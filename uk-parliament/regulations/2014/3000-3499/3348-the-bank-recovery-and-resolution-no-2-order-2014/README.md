@@ -30,7 +30,7 @@ summary: ''
 
 Financial Services And Markets
 
-[^key-d124aad9ebbeabc323798e3393e03682]The Bank Recovery and Resolution (No. 2) Order 2014
+[^c-d124aad9ebbeabc323798e3393e03682]The Bank Recovery and Resolution (No. 2) Order 2014
 
 Made
 
@@ -44,7 +44,7 @@ Coming into force in accordance with article 1(2) and (3)
 
 The Treasury make the following Order in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c22307411], section 192B(4) of the Financial Services and Markets Act 2000 [^c22307421] and section 230 of the Banking Act 2009 [^c22307431].
 
-The Treasury are designated [^c22307441] for the purposes of the European Communities Act 1972 in relation to financial services.[^key-2168371a9d4d09883b1ae61a2dc7e309][^key-2a97fdad45c1a5cd09747454f619e9fc]
+The Treasury are designated [^c22307441] for the purposes of the European Communities Act 1972 in relation to financial services.[^c-2168371a9d4d09883b1ae61a2dc7e309][^c-2a97fdad45c1a5cd09747454f619e9fc]
 
 ## Contents
 
@@ -54,7 +54,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Application of Order](part-1/section-3.md)
 
-### PART 2 — Designation of authorities and competent ministry[^key-c7d8c3a90389cfe9275a9c6d8d14114b]
+### PART 2 — Designation of authorities and competent ministry[^c-c7d8c3a90389cfe9275a9c6d8d14114b]
 
 **No longer in force.**
 
@@ -93,7 +93,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 25 — References to EBA](part-4/section-25.md)
 - [Section 26 — Requesting the assistance of EBA](part-4/section-26.md)
 
-#### CHAPTER 3 — Assessment of group recovery plan where neither the PRA nor the FCA is the consolidating supervisor[^key-0bee1ac2b2e11c77b04fd2479d911208]
+#### CHAPTER 3 — Assessment of group recovery plan where neither the PRA nor the FCA is the consolidating supervisor[^c-0bee1ac2b2e11c77b04fd2479d911208]
 
 - [Section 27 — Application and interpretation of Chapter 3](part-4/section-27.md)
 - [Section 28 — Purpose of assessment](part-4/section-28.md)
@@ -126,7 +126,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 44 — Requesting the assistance of EBA](part-5/section-44.md)
 - [Section 45 — Duty to transmit a copy of the group resolution plan](part-5/section-45.md)
 
-#### CHAPTER 3 — Group resolution plan where neither the PRA nor the FCA is the consolidating supervisor[^key-6d6a9f553cbe495d08685964636a8f75]
+#### CHAPTER 3 — Group resolution plan where neither the PRA nor the FCA is the consolidating supervisor[^c-6d6a9f553cbe495d08685964636a8f75]
 
 - [Section 46 — Application and interpretation of Chapter 3](part-5/section-46.md)
 - [Section 47 — Joint decision on adoption of group resolution plan](part-5/section-47.md)
@@ -178,7 +178,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 73 — References to EBA](part-6/section-73.md)
 - [Section 74 — Requesting the assistance of EBA](part-6/section-74.md)
 
-#### CHAPTER 5 — Removal of impediments to resolvability of groups where neither the PRA nor the FCA is the consolidating supervisor[^key-f1c05f7a810ffe1ae40b522eedfcd7eb]
+#### CHAPTER 5 — Removal of impediments to resolvability of groups where neither the PRA nor the FCA is the consolidating supervisor[^c-f1c05f7a810ffe1ae40b522eedfcd7eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -205,7 +205,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 89 — Duty to transmit a copy of authorised agreement](part-7/section-89.md)
 - [Section 90 — Amendment of authorised agreement](part-7/section-90.md)
 
-#### CHAPTER 2 — Authorisation of agreement for group financial support where neither the PRA nor the FCA is the consolidating supervisor[^key-e7b4fd6e955e0a8cd63d4210c2420d82]
+#### CHAPTER 2 — Authorisation of agreement for group financial support where neither the PRA nor the FCA is the consolidating supervisor[^c-e7b4fd6e955e0a8cd63d4210c2420d82]
 
 - [Section 91 — Application and interpretation of Chapter 2](part-7/section-91.md)
 - [Section 92 — Review of group financial support agreement and decision on authorisation](part-7/section-92.md)
@@ -248,7 +248,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 114 — References to EBA](part-8/section-114.md)
 - [Section 115 — Requesting the assistance of EBA](part-8/section-115.md)
 
-#### CHAPTER 3 — Early intervention with respect to groups where neither the PRA nor the FCA is the consolidating supervisor[^key-3bdc22588f9284f98456f73b08da2e10]
+#### CHAPTER 3 — Early intervention with respect to groups where neither the PRA nor the FCA is the consolidating supervisor[^c-3bdc22588f9284f98456f73b08da2e10]
 
 - [Section 116 — Application and interpretation of Chapter 3](part-8/section-116.md)
 - [Section 117 — Procedure for early intervention in respect of a UK group entity](part-8/section-117.md)
@@ -273,7 +273,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 128 — References to EBA: determination of minimum consolidated requirement](part-9/section-128.md)
 - [Section 129 — Review of minimum consolidated requirement](part-9/section-129.md)
 
-#### CHAPTER 3 — Determination of minimum consolidated requirement where neither the PRA nor the FCA is the consolidating supervisor[^key-3c07b7c312a9ecb4b5acd1f5f05db871]
+#### CHAPTER 3 — Determination of minimum consolidated requirement where neither the PRA nor the FCA is the consolidating supervisor[^c-3c07b7c312a9ecb4b5acd1f5f05db871]
 
 - [Section 130 — Application and interpretation of Chapter 3](part-9/section-130.md)
 - [Section 131 — Joint determination of minimum consolidated requirement](part-9/section-131.md)
@@ -289,7 +289,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 138 — Review of minimum requirements](part-9/section-138.md)
 - [Section 139 — Minimum requirement for other group entities set up in the United Kingdom](part-9/section-139.md)
 
-#### CHAPTER 5 — Determination of minimum requirements for group institutions where neither the PRA nor the FCA is the consolidating supervisor[^key-a5e8b2ab1e567592988204668b5028e2]
+#### CHAPTER 5 — Determination of minimum requirements for group institutions where neither the PRA nor the FCA is the consolidating supervisor[^c-a5e8b2ab1e567592988204668b5028e2]
 
 - [Section 140 — Application and interpretation of Chapter 5](part-9/section-140.md)
 - [Section 141 — Duties of the Bank in relation to minimum requirement](part-9/section-141.md)
@@ -318,7 +318,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 155 — Requirement to increase or remove limit on share capital](part-11/section-155.md)
 - [Section 156 — Removal of impediments to the conversion of liabilities into shares](part-11/section-156.md)
 
-### PART 11A — Contractual recognition of bail-in[^key-52417a45ba13f9daaa609cedd32313c3]
+### PART 11A — Contractual recognition of bail-in[^c-52417a45ba13f9daaa609cedd32313c3]
 
 - [Section 156A — Contractual recognition of bail-in: technical standards](part-11a/section-156a.md)
 
@@ -354,7 +354,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 173 — References to EBA](part-13/section-173.md)
 - [Section 174 — Requesting the assistance of EBA](part-13/section-174.md)
 
-#### CHAPTER 4 — Assessment of business reorganisation plan drawn up for relevant group where neither the PRA nor the FCA is the consolidating supervisor[^key-5f5c311f72543af1506b2c1da5a8d781]
+#### CHAPTER 4 — Assessment of business reorganisation plan drawn up for relevant group where neither the PRA nor the FCA is the consolidating supervisor[^c-5f5c311f72543af1506b2c1da5a8d781]
 
 - [Section 175 — Application and interpretation of Chapter 4](part-13/section-175.md)
 - [Section 176 — Purpose of assessment](part-13/section-176.md)
@@ -376,11 +376,11 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 185 — Stay of legal proceedings](part-15/section-185.md)
 - [Section 186 — Remedies on judicial review](part-15/section-186.md)
 
-### PART 16 — Cross-border group resolution[^key-ed45a38c4703c3027ca9cbf1c7bb520e]
+### PART 16 — Cross-border group resolution[^c-ed45a38c4703c3027ca9cbf1c7bb520e]
 
 **No longer in force.**
 
-#### CHAPTER 1 — General provisions[^key-ed45a38c4703c3027ca9cbf1c7bb520e]
+#### CHAPTER 1 — General provisions[^c-ed45a38c4703c3027ca9cbf1c7bb520e]
 
 **No longer in force.**
 
@@ -388,7 +388,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 188 — Information exchange](part-16/section-188.md)
 - [Section 189 — Requirements for group resolution schemes](part-16/section-189.md)
 
-#### CHAPTER 2 — Resolution colleges[^key-ed45a38c4703c3027ca9cbf1c7bb520e]
+#### CHAPTER 2 — Resolution colleges[^c-ed45a38c4703c3027ca9cbf1c7bb520e]
 
 **No longer in force.**
 
@@ -398,7 +398,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 193 — Functioning of resolution college](part-16/section-193.md)
 - [Section 194 — Use of an existing resolution college](part-16/section-194.md)
 
-#### CHAPTER 3 — European resolution colleges[^key-ed45a38c4703c3027ca9cbf1c7bb520e]
+#### CHAPTER 3 — European resolution colleges[^c-ed45a38c4703c3027ca9cbf1c7bb520e]
 
 **No longer in force.**
 
@@ -407,7 +407,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 197 — Recognition of third-country resolution action](part-16/section-197.md)
 - [Section 198 — Use of an existing resolution college](part-16/section-198.md)
 
-#### CHAPTER 4 — Group resolution involving a group subsidiary where the PRA or FCA is the consolidating supervisor[^key-ed45a38c4703c3027ca9cbf1c7bb520e]
+#### CHAPTER 4 — Group resolution involving a group subsidiary where the PRA or FCA is the consolidating supervisor[^c-ed45a38c4703c3027ca9cbf1c7bb520e]
 
 **No longer in force.**
 
@@ -416,7 +416,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 201 — Joint decision on adoption of group resolution scheme](part-16/section-201.md)
 - [Section 202 — Requesting the assistance of EBA](part-16/section-202.md)
 
-#### CHAPTER 5 — Group resolution involving a group subsidiary where neither the PRA nor the FCA is the consolidating supervisor[^key-ed45a38c4703c3027ca9cbf1c7bb520e]
+#### CHAPTER 5 — Group resolution involving a group subsidiary where neither the PRA nor the FCA is the consolidating supervisor[^c-ed45a38c4703c3027ca9cbf1c7bb520e]
 
 **No longer in force.**
 
@@ -426,7 +426,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 206 — Failure to reach joint decision: disagreement by the Bank with joint proposals](part-16/section-206.md)
 - [Section 207 — Requesting the assistance of EBA](part-16/section-207.md)
 
-#### CHAPTER 6 — Group resolution where EEA parent undertaking is set up in the United Kingdom[^key-ed45a38c4703c3027ca9cbf1c7bb520e]
+#### CHAPTER 6 — Group resolution where EEA parent undertaking is set up in the United Kingdom[^c-ed45a38c4703c3027ca9cbf1c7bb520e]
 
 **No longer in force.**
 
@@ -435,7 +435,7 @@ The Treasury are designated [^c22307441] for the purposes of the European Commun
 - [Section 210 — Joint decision on adoption of group resolution scheme](part-16/section-210.md)
 - [Section 211 — Requesting the assistance of EBA](part-16/section-211.md)
 
-#### CHAPTER 7 — Group resolution where EEA parent undertaking is set up in another EEA State[^key-ed45a38c4703c3027ca9cbf1c7bb520e]
+#### CHAPTER 7 — Group resolution where EEA parent undertaking is set up in another EEA State[^c-ed45a38c4703c3027ca9cbf1c7bb520e]
 
 **No longer in force.**
 
@@ -571,7 +571,7 @@ An impact assessment has not been produced for this instrument as no significant
 
 ## Annotations
 
-[^key-d124aad9ebbeabc323798e3393e03682]: Textual amendment: Order revoked (14.12.2023 for the revocation of art. 227) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(x)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/x)
+[^c-d124aad9ebbeabc323798e3393e03682]: Textual amendment: Order revoked (14.12.2023 for the revocation of art. 227) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(x)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/x)
 
 [^c22307411]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [section 27(1)(a)](https://www.legislation.gov.uk/ukpga/2006/51/section/27/1/a), and by the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), [section 3](https://www.legislation.gov.uk/ukpga/2008/7/section/3) and the Schedule, Part 1. By virtue of the amendment of section 1(2) by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51), an order may be made under section 2(2) of the European Communities Act 1972 to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed in Brussels on 17th March 1993 (Cm 2183).
 
@@ -581,28 +581,28 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^c22307441]: Marginal citation: [S.I. 2012/1759](https://www.legislation.gov.uk/uksi/2012/1759).
 
-[^key-2168371a9d4d09883b1ae61a2dc7e309]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-2168371a9d4d09883b1ae61a2dc7e309]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-2a97fdad45c1a5cd09747454f619e9fc]: Modification: Order power to apply (with modifications) conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 165](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/165); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiv)
+[^c-2a97fdad45c1a5cd09747454f619e9fc]: Modification: Order power to apply (with modifications) conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 165](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/165); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiv)
 
-[^key-c7d8c3a90389cfe9275a9c6d8d14114b]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2014/3348/part/2) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7d8c3a90389cfe9275a9c6d8d14114b]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2014/3348/part/2) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0bee1ac2b2e11c77b04fd2479d911208]: Textual amendment: [Pt. 4 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3348/part/4/chapter/3) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0bee1ac2b2e11c77b04fd2479d911208]: Textual amendment: [Pt. 4 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3348/part/4/chapter/3) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 19](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6d6a9f553cbe495d08685964636a8f75]: Textual amendment: [Pt. 5 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3348/part/5/chapter/3) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d6a9f553cbe495d08685964636a8f75]: Textual amendment: [Pt. 5 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3348/part/5/chapter/3) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f1c05f7a810ffe1ae40b522eedfcd7eb]: Textual amendment: [Pt. 6 Ch. 5](https://www.legislation.gov.uk/uksi/2014/3348/part/6/chapter/5) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 46](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/46); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1c05f7a810ffe1ae40b522eedfcd7eb]: Textual amendment: [Pt. 6 Ch. 5](https://www.legislation.gov.uk/uksi/2014/3348/part/6/chapter/5) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 46](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/46); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7b4fd6e955e0a8cd63d4210c2420d82]: Textual amendment: [Pt. 7 Ch. 2](https://www.legislation.gov.uk/uksi/2014/3348/part/7/chapter/2) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 53](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/53); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7b4fd6e955e0a8cd63d4210c2420d82]: Textual amendment: [Pt. 7 Ch. 2](https://www.legislation.gov.uk/uksi/2014/3348/part/7/chapter/2) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 53](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/53); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3bdc22588f9284f98456f73b08da2e10]: Textual amendment: [Pt. 8 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3348/part/8/chapter/3) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 65](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/65); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3bdc22588f9284f98456f73b08da2e10]: Textual amendment: [Pt. 8 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3348/part/8/chapter/3) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 65](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/65); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3c07b7c312a9ecb4b5acd1f5f05db871]: Textual amendment: [Pt. 9 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3348/part/9/chapter/3) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 73](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/73); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c07b7c312a9ecb4b5acd1f5f05db871]: Textual amendment: [Pt. 9 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3348/part/9/chapter/3) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 73](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/73); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a5e8b2ab1e567592988204668b5028e2]: Textual amendment: [Pt. 9 Ch. 5](https://www.legislation.gov.uk/uksi/2014/3348/part/9/chapter/5) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 80](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/80); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a5e8b2ab1e567592988204668b5028e2]: Textual amendment: [Pt. 9 Ch. 5](https://www.legislation.gov.uk/uksi/2014/3348/part/9/chapter/5) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 80](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/80); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-52417a45ba13f9daaa609cedd32313c3]: Textual amendment: [Pt. 11A](https://www.legislation.gov.uk/uksi/2014/3348/part/11A) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 89](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/89); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52417a45ba13f9daaa609cedd32313c3]: Textual amendment: [Pt. 11A](https://www.legislation.gov.uk/uksi/2014/3348/part/11A) inserted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 89](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/89); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5f5c311f72543af1506b2c1da5a8d781]: Textual amendment: [Pt. 13 Ch. 4](https://www.legislation.gov.uk/uksi/2014/3348/part/13/chapter/4) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 102](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/102); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f5c311f72543af1506b2c1da5a8d781]: Textual amendment: [Pt. 13 Ch. 4](https://www.legislation.gov.uk/uksi/2014/3348/part/13/chapter/4) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 102](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/102); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ed45a38c4703c3027ca9cbf1c7bb520e]: Textual amendment: [Pt. 16](https://www.legislation.gov.uk/uksi/2014/3348/part/16) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 107](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/107); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ed45a38c4703c3027ca9cbf1c7bb520e]: Textual amendment: [Pt. 16](https://www.legislation.gov.uk/uksi/2014/3348/part/16) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 107](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/107); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

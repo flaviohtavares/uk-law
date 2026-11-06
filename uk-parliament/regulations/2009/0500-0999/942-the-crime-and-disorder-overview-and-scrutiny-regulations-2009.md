@@ -46,20 +46,20 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 20(4) of that Act, the Secretary of State has consulted with the Welsh Ministers[^f00002] regarding the provisions in relation to local authorities in Wales.
 
-## 1. Citation and commencement[^key-0f3336b77a1db646164a350006b40f73][^key-c0021e4cd142bced8adea4f0ba6cff1c]
+## 1. Citation and commencement[^c-0f3336b77a1db646164a350006b40f73][^c-c0021e4cd142bced8adea4f0ba6cff1c]
 
 (1) These Regulations may be cited as the Crime and Disorder (Overview and Scrutiny) Regulations 2009.
 
 (2) These Regulations shall come into force in respect of local authorities in England on 30th April 2009 and in respect of local authorities in Wales on 1st October 2009.
 
-## 2. Interpretation[^key-2bafc47e9f0c42b08925f11298e0731b][^key-32ad416bc764d7deefebb5ffdf911d69]
+## 2. Interpretation[^c-2bafc47e9f0c42b08925f11298e0731b][^c-32ad416bc764d7deefebb5ffdf911d69]
 
 In these Regulations—
 
 - “2006 Act” means the Police and Justice Act 2006;
 - “depersonalised information” means information which does not constitute personal data within the meaning of the Data Protection Act 1998[^f00003].
 
-## 3. Co-opting of additional members[^key-e1b19e00f4fbe8cd3ee489bfa3011d96][^key-9b85726cd1bdcad44b3525b19dd0ad41]
+## 3. Co-opting of additional members[^c-e1b19e00f4fbe8cd3ee489bfa3011d96][^c-9b85726cd1bdcad44b3525b19dd0ad41]
 
 (1) The crime and disorder committee of a local authority may co-opt additional members to serve on the committee subject to paragraphs (2), (3), (4) and (5).
 
@@ -67,15 +67,15 @@ In these Regulations—
 
 (3) A co-opted person’s membership may be limited to the exercise of the committee’s powers in relation to a particular matter or type of matter.
 
-(4)[^key-765a45f0ae45feee15dfd40b8ce4f0fa] The crime and disorder committee of a local authority (or authorities) shall not co-opt a person to serve on the committee who is a member of the executive of that local authority (or authorities).
+(4)[^c-765a45f0ae45feee15dfd40b8ce4f0fa] The crime and disorder committee of a local authority (or authorities) shall not co-opt a person to serve on the committee who is a member of the executive of that local authority (or authorities).
 
 (5) The membership of a person co-opted to serve on a crime and disorder committee may be withdrawn at any time by the committee.
 
-## 4. Frequency of meetings[^key-43dcca4f95419538bd028098329e1c7b][^key-85c05470a1b1ac16fd5edfa20dd5ae6c]
+## 4. Frequency of meetings[^c-43dcca4f95419538bd028098329e1c7b][^c-85c05470a1b1ac16fd5edfa20dd5ae6c]
 
 A crime and disorder committee shall meet to review or scrutinise decisions made, or other action taken, in connection with the discharge by the responsible authorities of their crime and disorder functions as the committee considers appropriate but no less than once in every twelve month period.
 
-## 5. Information[^key-e4f7c8757877d4997944d751f437fb94][^key-0f399dd46a1ee98d33c6f2eecfc43858]
+## 5. Information[^c-e4f7c8757877d4997944d751f437fb94][^c-0f399dd46a1ee98d33c6f2eecfc43858]
 
 (1) Where a crime and disorder committee makes a request in writing for information, as defined in section 20(6A) of the 2006 Act[^f00004], to the responsible authorities or the co-operating persons or bodies, the authorities, or persons or bodies (as applicable) must provide such information in accordance with paragraphs (2) and (3).
 
@@ -86,13 +86,13 @@ A crime and disorder committee shall meet to review or scrutinise decisions made
 - (a) shall be depersonalised information, unless (subject to sub-paragraph (b)) the identification of an individual is necessary or appropriate in order to enable the crime and disorder committee to properly exercise its powers; and
 - (b) shall not include information that would be reasonably likely to prejudice legal proceedings or current or future operations of the responsible authorities, whether acting together or individually, or of the co-operating persons or bodies.
 
-## 6. Attendance at committee meetings[^key-96c0fa999871739e41df0da71c501b6a][^key-d8a9f35e529b81b0ee36bc9559b60259]
+## 6. Attendance at committee meetings[^c-96c0fa999871739e41df0da71c501b6a][^c-d8a9f35e529b81b0ee36bc9559b60259]
 
 (1) Subject to paragraph (2), a crime and disorder committee may require the attendance before it of an officer or employee of a responsible authority or of a co-operating person or body in order to answer questions.
 
 (2) The crime and disorder committee may not require a person to attend in accordance with paragraph (1) unless reasonable notice of the intended date of attendance has been given to that person.
 
-## 7. Reports and recommendations[^key-aa3719886dc3c96223c988e5e40b757e][^key-2982cb61c1dbefe9a1cf8d5f376fb8d6]
+## 7. Reports and recommendations[^c-aa3719886dc3c96223c988e5e40b757e][^c-2982cb61c1dbefe9a1cf8d5f376fb8d6]
 
 Where a crime and disorder committee makes a report or recommendations to a responsible authority or to a co-operating person or body in accordance with section 19(8)(b) of the 2006 Act, the responses to such report or recommendations of each relevant authority, body or person shall be—
 
@@ -129,36 +129,36 @@ Regulation 7 provides that where a crime and disorder committee makes a report o
 
 [^f00002]: Footnote: The functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-0f3336b77a1db646164a350006b40f73]: Commencement: Reg. 1 in force at 30.4.2009 for E., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
+[^c-0f3336b77a1db646164a350006b40f73]: Commencement: Reg. 1 in force at 30.4.2009 for E., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
 
-[^key-c0021e4cd142bced8adea4f0ba6cff1c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/942/regulation/1) in force at 1.10.2009 for W., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
+[^c-c0021e4cd142bced8adea4f0ba6cff1c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/942/regulation/1) in force at 1.10.2009 for W., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
 
-[^key-2bafc47e9f0c42b08925f11298e0731b]: Commencement: Reg. 2 in force at 30.4.2009 for E., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
+[^c-2bafc47e9f0c42b08925f11298e0731b]: Commencement: Reg. 2 in force at 30.4.2009 for E., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
 
-[^key-32ad416bc764d7deefebb5ffdf911d69]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/942/regulation/2) in force at 1.10.2009 for W., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
+[^c-32ad416bc764d7deefebb5ffdf911d69]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/942/regulation/2) in force at 1.10.2009 for W., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
 
 [^f00003]: Footnote: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-e1b19e00f4fbe8cd3ee489bfa3011d96]: Commencement: Reg. 3 in force at 30.4.2009 for E., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
+[^c-e1b19e00f4fbe8cd3ee489bfa3011d96]: Commencement: Reg. 3 in force at 30.4.2009 for E., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
 
-[^key-9b85726cd1bdcad44b3525b19dd0ad41]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/942/regulation/3) in force at 1.10.2009 for W., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
+[^c-9b85726cd1bdcad44b3525b19dd0ad41]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/942/regulation/3) in force at 1.10.2009 for W., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
 
-[^key-765a45f0ae45feee15dfd40b8ce4f0fa]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2009/942/regulation/3/4) substituted (1.4.2010) by [The Crime and Disorder (Overview and Scrutiny) (Amendment) Regulations 2010 (S.I. 2010/616)](https://www.legislation.gov.uk/uksi/2010/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/616/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2010/616/regulation/2)
+[^c-765a45f0ae45feee15dfd40b8ce4f0fa]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2009/942/regulation/3/4) substituted (1.4.2010) by [The Crime and Disorder (Overview and Scrutiny) (Amendment) Regulations 2010 (S.I. 2010/616)](https://www.legislation.gov.uk/uksi/2010/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/616/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2010/616/regulation/2)
 
-[^key-43dcca4f95419538bd028098329e1c7b]: Commencement: Reg. 4 in force at 30.4.2009 for E., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
+[^c-43dcca4f95419538bd028098329e1c7b]: Commencement: Reg. 4 in force at 30.4.2009 for E., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
 
-[^key-85c05470a1b1ac16fd5edfa20dd5ae6c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/942/regulation/4) in force at 1.10.2009 for W., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
+[^c-85c05470a1b1ac16fd5edfa20dd5ae6c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/942/regulation/4) in force at 1.10.2009 for W., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
 
-[^key-e4f7c8757877d4997944d751f437fb94]: Commencement: Reg. 5 in force at 30.4.2009 for E., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
+[^c-e4f7c8757877d4997944d751f437fb94]: Commencement: Reg. 5 in force at 30.4.2009 for E., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
 
-[^key-0f399dd46a1ee98d33c6f2eecfc43858]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/942/regulation/5) in force at 1.10.2009 for W., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
+[^c-0f399dd46a1ee98d33c6f2eecfc43858]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2009/942/regulation/5) in force at 1.10.2009 for W., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
 
 [^f00004]: Footnote: Section 20(6A) was inserted by section 121(2) of the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28).
 
-[^key-96c0fa999871739e41df0da71c501b6a]: Commencement: Reg. 6 in force at 30.4.2009 for E., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
+[^c-96c0fa999871739e41df0da71c501b6a]: Commencement: Reg. 6 in force at 30.4.2009 for E., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
 
-[^key-d8a9f35e529b81b0ee36bc9559b60259]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/942/regulation/6) in force at 1.10.2009 for W., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
+[^c-d8a9f35e529b81b0ee36bc9559b60259]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2009/942/regulation/6) in force at 1.10.2009 for W., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
 
-[^key-aa3719886dc3c96223c988e5e40b757e]: Commencement: Reg. 7 in force at 30.4.2009 for E., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
+[^c-aa3719886dc3c96223c988e5e40b757e]: Commencement: Reg. 7 in force at 30.4.2009 for E., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
 
-[^key-2982cb61c1dbefe9a1cf8d5f376fb8d6]: Commencement: Reg. 7 in force at 1.10.2009 for W., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)
+[^c-2982cb61c1dbefe9a1cf8d5f376fb8d6]: Commencement: Reg. 7 in force at 1.10.2009 for W., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/942/regulation/1/2)

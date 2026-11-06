@@ -47,7 +47,7 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 
 ## PART 1 — General
 
-### 1. Title, commencement, application and revocation[^key-e37da863c5a70399f0a089f546a5f897]
+### 1. Title, commencement, application and revocation[^c-e37da863c5a70399f0a089f546a5f897]
 
 (1) The title of these Regulations is the School Information (Wales) Regulations 2011 and they come into force on 1 September 2011.
 
@@ -55,19 +55,19 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 
 (3) The regulations set out in Schedule 1 are revoked.
 
-### 1A. Disapplication of certain duties for the 2019-2020 school year[^key-35b13e2d87c15aac10d96271dbe143ee]
+### 1A. Disapplication of certain duties for the 2019-2020 school year[^c-35b13e2d87c15aac10d96271dbe143ee]
 
 The information specified in paragraph 30 of Schedule 3 and relating to the 2019-2020 school year must not be included in any school prospectus.
 
-### 1B. Disapplication of certain duties for the 2020-2021 school year[^key-1711af425ce509da447f046d2aeef7ef]
+### 1B. Disapplication of certain duties for the 2020-2021 school year[^c-1711af425ce509da447f046d2aeef7ef]
 
 The information specified in paragraph 30 of Schedule 3 and relating to the 2020-2021 school year must not be included in any school prospectus.
 
-### 1C. Disapplication of certain duties for the 2021-2022 school year[^key-8f86bcbea372ef5d293708dbcc4a5fa7]
+### 1C. Disapplication of certain duties for the 2021-2022 school year[^c-8f86bcbea372ef5d293708dbcc4a5fa7]
 
 The information specified in paragraph 30 of Schedule 3 and relating to the 2021-2022 school year must not be included in any school prospectus.
 
-### 2. Interpretation[^key-e2350ecd1a0b396edc7c1544552a71df]
+### 2. Interpretation[^c-e2350ecd1a0b396edc7c1544552a71df]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -78,13 +78,13 @@ The information specified in paragraph 30 of Schedule 3 and relating to the 2021
 - “admission school year” (“*blwyddyn dderbyn ysgol*”) means a school year at the beginning of which pupils are to be admitted to any school in consequence of admission arrangements determined for that year;
 - “capacity” (“*capasiti*”) means the number of pupils that may be admitted to a school in accordance with the capacity assessment method set out in the guidance document “Measuring the Capacity of Schools in Wales” published by the Welsh Ministers[^f00005];
 - “composite prospectus” (“*prosbectws cyfansawdd*”) means a document published in accordance with regulation 4;
-- “[^key-8af388072e2e45cafc8821675e3d5d22]**Curriculum for Wales**” (“***Cwricwlwm i Gymru***”) means a curriculum implemented in accordance with the Curriculum and Assessment (Wales) Act 2021;
+- “[^c-8af388072e2e45cafc8821675e3d5d22]**Curriculum for Wales**” (“***Cwricwlwm i Gymru***”) means a curriculum implemented in accordance with the Curriculum and Assessment (Wales) Act 2021;
 - “DEWi” (“*Menter Cyfnewid Data Cymru*”) means the data exchange Wales initiative database maintained and published by the Welsh Ministers[^f00006];
-- [^key-40ee5900e77ef533dcf5eb57da0c87f2]...
-- [^key-c32035b1f625b228c0debefe610930d0]...
-- “language category” (“*category iaith*”) means the category used for defining the type and extent of Welsh medium educational provision made by a maintained school and set out in the “Guidance on school categories according to Welsh-medium provision”[^key-c4bb20cc1a89f88fc59637b0288d85a6] first published by the Welsh Ministers on 16 December 2021;
-- [^key-1fb703a408b6c0591e51dafb84230317]...
-- “looked after children” (“*plant sy'n derbyn gofal*”) has the meaning given to it in section 74(1) of the Social Services and Well-being (Wales) Act 2014 or, as the case may be, section[^key-eded7b4e3d27ad04534e8d203827b36d] 22(1) of the Children Act 1989[^f00008];
+- [^c-40ee5900e77ef533dcf5eb57da0c87f2]...
+- [^c-c32035b1f625b228c0debefe610930d0]...
+- “language category” (“*category iaith*”) means the category used for defining the type and extent of Welsh medium educational provision made by a maintained school and set out in the “Guidance on school categories according to Welsh-medium provision”[^c-c4bb20cc1a89f88fc59637b0288d85a6] first published by the Welsh Ministers on 16 December 2021;
+- [^c-1fb703a408b6c0591e51dafb84230317]...
+- “looked after children” (“*plant sy'n derbyn gofal*”) has the meaning given to it in section 74(1) of the Social Services and Well-being (Wales) Act 2014 or, as the case may be, section[^c-eded7b4e3d27ad04534e8d203827b36d] 22(1) of the Children Act 1989[^f00008];
 - “maintained school” (“*ysgol a gynhelir*”) means a community, foundation or voluntary school or a community or foundation special school which is not established in a hospital excluding any nursery school but including, except in Parts 3 and 4 or where otherwise stated, any pupil referral unit;
 - “non-maintained special school” (“*ysgol arbennig nas cynhelir*”) means a special school which is not maintained by a local authority and is not established in a hospital;
 - “PLASC return” (“*datganiad CYBLD*”) means the pupil level annual school census completed by school governing bodies and submitted to the Welsh Ministers on an annual basis[^f00009];
@@ -93,7 +93,7 @@ The information specified in paragraph 30 of Schedule 3 and relating to the 2021
 - “publication school year” (“*blwyddyn gyhoeddi ysgol*”) means the school year immediately preceding the admission school year;
 - “reporting school year” (“*blwyddyn adrodd ysgol*”) means the school year immediately preceding the publication school year;
 - “school prospectus” (“*prosbectws ysgol*”) means the document described in regulation 8;
-- [^key-6d735670dc98f46cb38f02259bc7459f]...
+- [^c-6d735670dc98f46cb38f02259bc7459f]...
 - “unauthorised absence” (“*absenoldeb anawdurdodedig*”) means an occasion on which a pupil is recorded as absent without authority pursuant to the Education (Pupil Registration) (Wales) Regulations 2010[^f00011] and “authorised absence” (“absenoldeb awdurdodedig”) will be construed accordingly; and
 - “work based learning” (“*dysgu seiliedig ar waith*”) means a process of planned activities delivered in the workplace which are especially designed for developing the knowledge, skills and competencies relevant to a particular occupation in the labour market, or generally relevant to effective participation in the labour market.
 
@@ -105,13 +105,13 @@ The information specified in paragraph 30 of Schedule 3 and relating to the 2021
 
 (5) In these Regulations, unless otherwise stated, where a percentage which is required to be calculated by virtue of these Regulations is not a whole number it will be rounded to the nearest whole number, the fraction of one half being rounded upwards to the next whole number.
 
-### 3. Qualification of duties[^key-a4874f6c4647826563debaf2e83407b0]
+### 3. Qualification of duties[^c-a4874f6c4647826563debaf2e83407b0]
 
 The duties imposed on head teachers, governing bodies and local authorities by these Regulations in respect of the provision or publication of information apply only to the extent that that information is available to the governing body, local authority or head teacher (as the case may be) in time for it to be reasonably practicable for the information to be provided or published before the latest occasion on which the information is required to be provided or published, as the case may be.
 
 ## PART 2 — Composite prospectus to be published by local authorities
 
-### 4. Local authorities to publish composite prospectus[^key-4abf84c00e8908f02952f232a237587c]
+### 4. Local authorities to publish composite prospectus[^c-4abf84c00e8908f02952f232a237587c]
 
 (1) A local authority must publish in a composite document the information required by this regulation with respect to all maintained schools in the composite prospectus area.
 
@@ -128,9 +128,9 @@ The duties imposed on head teachers, governing bodies and local authorities by t
 
 (6) The time and manner of publication of such information and particulars must be in accordance with regulation 5.
 
-### 5. Time and manner of publication of composite prospectus[^key-3a093d1b9a91b5ef0547c49eb7a24eb2]
+### 5. Time and manner of publication of composite prospectus[^c-3a093d1b9a91b5ef0547c49eb7a24eb2]
 
-(1) A composite prospectus must be published no later than 1 October[^key-9552149f078d5f8b28ad5122e5a94372] in the publication school year and not later than six weeks before the date up to which parents may express a preference for a school in respect of the admission school year.
+(1) A composite prospectus must be published no later than 1 October[^c-9552149f078d5f8b28ad5122e5a94372] in the publication school year and not later than six weeks before the date up to which parents may express a preference for a school in respect of the admission school year.
 
 (2) A composite prospectus must be published—
 
@@ -138,14 +138,14 @@ The duties imposed on head teachers, governing bodies and local authorities by t
   - (i) at the offices of the local authority who are publishing it, and
   - (ii) at every school maintained by that local authority; and
 - (b) by copies being made available for reference by parents and other persons at the public libraries in that local authority’s area;
-- (c)[^key-d3ad0b403e8559b0cd0070d52b79a80f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-d3ad0b403e8559b0cd0070d52b79a80f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) by displaying a copy on the local authority’s website.
 
 (3) A composite prospectus published under paragraph (2)(d) in respect of a school year must be displayed on the website until it is replaced by a composite prospectus for the following school year.
 
 ## PART 3 — Information to be made available to the local authorities by governing bodies
 
-### 6. Provision of information for composite prospectus[^key-d66b26d1759394c4ec3673bd31344065]
+### 6. Provision of information for composite prospectus[^c-d66b26d1759394c4ec3673bd31344065]
 
 (1) For the purpose of enabling the local authority to comply with their obligation under regulation 4, the governing body of every maintained school to be included in a document under that regulation must, in respect of each admission school year, make available to the local authority in question the information specified in Schedule 2.
 
@@ -155,13 +155,13 @@ The duties imposed on head teachers, governing bodies and local authorities by t
 
 ## PART 4 — Information to be published by governing bodies
 
-### 7. General information to be published by governing bodies about their schools[^key-9c5991b6cec3d06efd10fc4cfe7c6f56]
+### 7. General information to be published by governing bodies about their schools[^c-9c5991b6cec3d06efd10fc4cfe7c6f56]
 
 (1) The governing body of a maintained school must publish in relation to that school the information specified in Schedule 3.
 
 (2) The information must be published as provided in regulation 8.
 
-### 8. Time and manner of publication of information by governing bodies about their schools[^key-3cd6663ef58462e19f4e83d8f1c283c7]
+### 8. Time and manner of publication of information by governing bodies about their schools[^c-3cd6663ef58462e19f4e83d8f1c283c7]
 
 (1) This regulation applies in relation to the publication by a governing body (or by a local authority on their behalf pursuant to section 92(c) of the 1998 Act) of the information specified in Schedule 3.
 
@@ -181,7 +181,7 @@ The duties imposed on head teachers, governing bodies and local authorities by t
 
 ## PART 5 — Supplementary
 
-### 9. Supplementary provisions relating to published documents[^key-02dabfa29a20b38397d8b34d13e7314b]
+### 9. Supplementary provisions relating to published documents[^c-02dabfa29a20b38397d8b34d13e7314b]
 
 (1) This regulation applies in relation to any document which contains such information or particulars as are mentioned in the preceding provisions of these Regulations and which is published in accordance with those provisions.
 
@@ -190,7 +190,7 @@ The duties imposed on head teachers, governing bodies and local authorities by t
 - (a) before the start of, or during, the school year in question; or
 - (b) in relation to subsequent school years.
 
-### 10. Translation of documents[^key-439358e75f471c987236f0aed2fae993]
+### 10. Translation of documents[^c-439358e75f471c987236f0aed2fae993]
 
 (1) Where any document required to be published or to be made available for inspection under these Regulations is published in Welsh, then if it appears necessary to a local authority or, as the case may be, a governing body that the document should be translated into English it must be so translated and the translated document will be published in such manner as appears to the local authority or governing body to be appropriate.
 
@@ -206,11 +206,11 @@ Minister for Education and Skills, one of the Welsh Ministers
 
 29 July 2011
 
-## SCHEDULE 1 — Regulations revoked[^key-711aaab9df6c8f97d16aa0f8ebde329c]
+## SCHEDULE 1 — Regulations revoked[^c-711aaab9df6c8f97d16aa0f8ebde329c]
 
 Regulation 1
 
-[^key-711aaab9df6c8f97d16aa0f8ebde329c]
+[^c-711aaab9df6c8f97d16aa0f8ebde329c]
 
 | Regulations revoked | References | Extent of revocation |
 | --- | --- | --- |
@@ -232,9 +232,9 @@ Regulation 4
 
 ### PART 1 — Miscellaneous matters
 
-**1.**[^key-32fc73dc515a14e74886a8f1f2b7ae0c] The postal and website addresses and telephone numbers of the offices of the local authority to which enquiries, in respect of primary and secondary education in their area, should be addressed.
+**1.**[^c-32fc73dc515a14e74886a8f1f2b7ae0c] The postal and website addresses and telephone numbers of the offices of the local authority to which enquiries, in respect of primary and secondary education in their area, should be addressed.
 
-**2.**[^key-7e81880ee61e9f5734631fa6da359a17] As respects each school (other than a pupil referral unit) mentioned in the composite prospectus—
+**2.**[^c-7e81880ee61e9f5734631fa6da359a17] As respects each school (other than a pupil referral unit) mentioned in the composite prospectus—
 
 - (a) the name, address and telephone number of the school together with the name of a person to whom enquiries should be made;
 - (b) the age range of pupils at the school;
@@ -245,7 +245,7 @@ Regulation 4
 - (g) the number of written applications for places from the start of that year or (as appropriate) preferences expressed for places at the school pursuant to arrangements made by the relevant local authority under sections 86(1) or 86A(1) of the 1998 Act; and
 - (h) the number of appeals made pursuant to section 94 of the 1998 Act[^f00018] prior to the start of the most recent school year and the number of such appeals that were successful.
 
-**3.**[^key-1103312c724865f4e3459b0309656534] The classification of each such school (other than a pupil referral unit) as—
+**3.**[^c-1103312c724865f4e3459b0309656534] The classification of each such school (other than a pupil referral unit) as—
 
 - (a) a community, foundation, voluntary aided, voluntary controlled, community special or foundation special school[^f00019];
 - (b) a primary, middle or secondary school;
@@ -255,11 +255,11 @@ Regulation 4
 
 except that for the purposes of sub-paragraphs (b) and (c) other terminology may be used.
 
-**4.**[^key-3164d926e95b7e1f93e0811b47602c4d] The language category used by the school governing body in the most recent PLASC return which most closely described the school.
+**4.**[^c-3164d926e95b7e1f93e0811b47602c4d] The language category used by the school governing body in the most recent PLASC return which most closely described the school.
 
-**5.**[^key-8c24abcb305a2518bd4c9d546deab641] The admissions arrangements determined for the school in relation to each age at which pupils are admitted to the school (including ages above and below compulsory school age), including a statement of the policies and procedures adopted to enable parents or pupils to express a preference pursuant to arrangements made by the local authority under section 86(1) and 86A(1) of the 1998 Act respectively or to make an appeal against a refusal of a place.
+**5.**[^c-8c24abcb305a2518bd4c9d546deab641] The admissions arrangements determined for the school in relation to each age at which pupils are admitted to the school (including ages above and below compulsory school age), including a statement of the policies and procedures adopted to enable parents or pupils to express a preference pursuant to arrangements made by the local authority under section 86(1) and 86A(1) of the 1998 Act respectively or to make an appeal against a refusal of a place.
 
-**5A.**[^key-7f58615b8921617956867cf8f18ba624] (1) For the admission school year 2026 to 2027 and all subsequent school years, a summary of the scheme for co-ordinating admission arrangements of the local authority (“**the scheme**”) including—
+**5A.**[^c-7f58615b8921617956867cf8f18ba624] (1) For the admission school year 2026 to 2027 and all subsequent school years, a summary of the scheme for co-ordinating admission arrangements of the local authority (“**the scheme**”) including—
 
 - (a) a brief description of how an application for admission to a school under the scheme can be made, including how to apply and by what date,
 - (b) a brief description of when offers of admission to a school will be communicated to parents under the scheme,
@@ -267,7 +267,7 @@ except that for the purposes of sub-paragraphs (b) and (c) other terminology may
 - (d) a brief description of how applications made otherwise than in a normal admission round will be determined under the scheme, and
 - (e) a copy of the common application form for the scheme referred to in regulation 3(1) of the Education (Co-ordination of School Admission Arrangements and Miscellaneous Amendments) (Wales) Regulations 2024 (“**the 2024 Regulations**”).
 
-(2)[^key-f4a24a8a3f97f3dc6d669ba5d028d7e8] In this paragraph—
+(2)[^c-f4a24a8a3f97f3dc6d669ba5d028d7e8] In this paragraph—
 
 - “**application**” (“***cais***”) has the meaning given in regulation 2(1) of the 2024 Regulations;
 - “**common application form**” (“***ffurflen gais gyffredin***”) has the meaning given in regulation 2(1) of the 2024 Regulations;
@@ -276,36 +276,36 @@ except that for the purposes of sub-paragraphs (b) and (c) other terminology may
   - (a) a scheme adopted by a local authority pursuant to regulation 4(1) of the 2024 Regulations, or
   - (b) a scheme imposed on the local authority by the Welsh Ministers pursuant to section 89B(2) of the 1998 Act.
 
-**6.**[^key-764b1aba7d0cacdbfa20a1590b40fb08] The affiliations, if any, of each such school with a particular religious denomination.
+**6.**[^c-764b1aba7d0cacdbfa20a1590b40fb08] The affiliations, if any, of each such school with a particular religious denomination.
 
-**7.**[^key-f7eead021420e6840e58a7bd8595a288] The local authority’s general arrangements and policies as respects the use of the Welsh language in schools maintained by them other than foundation or voluntary aided schools—
+**7.**[^c-f7eead021420e6840e58a7bd8595a288] The local authority’s general arrangements and policies as respects the use of the Welsh language in schools maintained by them other than foundation or voluntary aided schools—
 
 - (a) in the whole or in different parts of the local authority’s area;
 - (b) in all such schools or in different types of schools; and
 - (c) by pupils of all ages or specific age groups.
 
-**8.**[^key-5e940e692db8c641e8c40c2ae655017e] Details of any exemptions from the mandatory element of Welsh, as set out in section 3(2) of the Curriculum and Assessment (Wales) Act 2021, under sections 41, 42 and 48 of that Act[^key-c63306294760101b2b4e1186f797fdb0] affecting pupils at schools maintained by the local authority specifying the nature of the exemption and the schools affected (but not so as to identify individual pupils affected).
+**8.**[^c-5e940e692db8c641e8c40c2ae655017e] Details of any exemptions from the mandatory element of Welsh, as set out in section 3(2) of the Curriculum and Assessment (Wales) Act 2021, under sections 41, 42 and 48 of that Act[^c-c63306294760101b2b4e1186f797fdb0] affecting pupils at schools maintained by the local authority specifying the nature of the exemption and the schools affected (but not so as to identify individual pupils affected).
 
-**9.**[^key-09621253e2014a706c3d8afc1c872bb1] The local authority’s general arrangements and policies in respect of the provision of food and drink throughout the school day including, in particular, the remission in whole or part of the charges.
+**9.**[^c-09621253e2014a706c3d8afc1c872bb1] The local authority’s general arrangements and policies in respect of the provision of food and drink throughout the school day including, in particular, the remission in whole or part of the charges.
 
-**10.**[^key-4a76ac6d7a0b3e0f01f7d8d2e0cf4332] The local authority’s general arrangements and policies in respect of the provision of school clothing (including uniform and physical training clothes) and the making of grants to defray expenses in respect of such clothing and, in particular, the address from which parents may obtain detailed information as to the assistance which is available and eligibility for it.
+**10.**[^c-4a76ac6d7a0b3e0f01f7d8d2e0cf4332] The local authority’s general arrangements and policies in respect of the provision of school clothing (including uniform and physical training clothes) and the making of grants to defray expenses in respect of such clothing and, in particular, the address from which parents may obtain detailed information as to the assistance which is available and eligibility for it.
 
-**11.**[^key-dd0af0e0da317d11e7d09fe55fb37e7f] The local authority’s general arrangements and policies in respect of—
+**11.**[^c-dd0af0e0da317d11e7d09fe55fb37e7f] The local authority’s general arrangements and policies in respect of—
 
 - (a) the making of grants to defray expenses (other than those mentioned in paragraphs 9 and 10); and
 - (b) the granting of allowances in the case of pupils over compulsory school age;
 
 and in particular the address from which parents may obtain detailed information as to the assistance which is available and eligibility for it.
 
-**12.**[^key-466fb995eed0f301cfe2329f424338b7] The local authority’s general policy in respect of the entering of pupils for public examinations.
+**12.**[^c-466fb995eed0f301cfe2329f424338b7] The local authority’s general policy in respect of the entering of pupils for public examinations.
 
-**13.**[^key-d6764306eaaf22e2c95183b6a13127bb] The local authority’s general arrangements and policies in respect of special educational provision for pupils with special educational needs including, in particular, the arrangements for parents to obtain information about the matters mentioned in Part 2 of this Schedule.
+**13.**[^c-d6764306eaaf22e2c95183b6a13127bb] The local authority’s general arrangements and policies in respect of special educational provision for pupils with special educational needs including, in particular, the arrangements for parents to obtain information about the matters mentioned in Part 2 of this Schedule.
 
-**14.**[^key-ed615fb48d691d2cb72b7a69efc9f8c5] The arrangements for parents and others to obtain copies of and to refer to particulars of the charging and remissions policies determined by the local authority under section 457 of the 1996 Act[^f00021].
+**14.**[^c-ed615fb48d691d2cb72b7a69efc9f8c5] The arrangements for parents and others to obtain copies of and to refer to particulars of the charging and remissions policies determined by the local authority under section 457 of the 1996 Act[^f00021].
 
 ### PART 2 — Special educational provision
 
-**15.**[^key-52baef3946a73d4c93207d362abc6b2f] The local authority’s detailed arrangements and policies in respect of—
+**15.**[^c-52baef3946a73d4c93207d362abc6b2f] The local authority’s detailed arrangements and policies in respect of—
 
 - (a) the identification and assessment of children with special educational needs and the involvement of parents in that process;
 - (b) the provision made in special schools maintained by it and the use made by it of special schools maintained by other local authorities;
@@ -313,21 +313,21 @@ and in particular the address from which parents may obtain detailed information
 - (d) the use of non-maintained special schools and independent schools in providing for pupils with special educational needs; and
 - (e) enabling parents who consider that their child may have special educational needs to obtain advice and further information.
 
-**16.**[^key-d6bec22406d787a30e6bb278ce5ce1de] The arrangements for parents to obtain the information set out in Schedule 3 in the case of the special schools used by the local authority which are maintained by it or other local authorities.
+**16.**[^c-d6bec22406d787a30e6bb278ce5ce1de] The arrangements for parents to obtain the information set out in Schedule 3 in the case of the special schools used by the local authority which are maintained by it or other local authorities.
 
 ### PART 3 — Exceptional provision of education in school or elsewhere
 
-**17.**[^key-9bf9fefec33a480512e08e8bf7f4b283] The local authority’s general arrangements and policies in respect of the provision of education to which section 19 of the 1996 Act[^f00022] applies.
+**17.**[^c-9bf9fefec33a480512e08e8bf7f4b283] The local authority’s general arrangements and policies in respect of the provision of education to which section 19 of the 1996 Act[^f00022] applies.
 
-**18.**[^key-c2d8fa5a20cd4ad1aab3f320124c92f3] Changes in any matter in this Schedule which it has been determined will be made after the start of the school year to which the information relates.
+**18.**[^c-c2d8fa5a20cd4ad1aab3f320124c92f3] Changes in any matter in this Schedule which it has been determined will be made after the start of the school year to which the information relates.
 
 ## SCHEDULE 3 — INFORMATION TO BE PUBLISHED BY GOVERNING BODIES
 
 Regulation 7
 
-**1.**[^key-5eab2d3c0216ae8917b565dab80dc1e4] The name, address and telephone number of the school and the names of the head teacher and of the chair of the governing body.
+**1.**[^c-5eab2d3c0216ae8917b565dab80dc1e4] The name, address and telephone number of the school and the names of the head teacher and of the chair of the governing body.
 
-**2.**[^key-07a4e117b0c60b22757dcdf5cb4a655c] The classification of the school as—
+**2.**[^c-07a4e117b0c60b22757dcdf5cb4a655c] The classification of the school as—
 
 - (a) a community, foundation, voluntary controlled, voluntary aided, community special or foundation special school;
 - (b) a primary, middle or secondary school;
@@ -337,86 +337,86 @@ Regulation 7
 
 except that for the purposes of sub-paragraph (b) or (c) other terminology may be used.
 
-**3.**[^key-2d75a4a79e9810d5c1cd387f09b64c7d] The language category in the most recent PLASC return to the Welsh Ministers which most closely describes the school.
+**3.**[^c-2d75a4a79e9810d5c1cd387f09b64c7d] The language category in the most recent PLASC return to the Welsh Ministers which most closely describes the school.
 
-**4.**[^key-53772ffb620f71d7be5b121b3133bd96] In relation to schools other than special schools, particulars of the admissions policy adopted for the school in relation to each age at which pupils are admitted to the school (including ages above and below compulsory school age).
+**4.**[^c-53772ffb620f71d7be5b121b3133bd96] In relation to schools other than special schools, particulars of the admissions policy adopted for the school in relation to each age at which pupils are admitted to the school (including ages above and below compulsory school age).
 
-**5.**[^key-dea8f593677e76eec50dfd3fb146fe53] Where there are specific arrangements for parents who are considering sending their child to the school to visit it, details of those arrangements.
+**5.**[^c-dea8f593677e76eec50dfd3fb146fe53] Where there are specific arrangements for parents who are considering sending their child to the school to visit it, details of those arrangements.
 
-**6.**[^key-a95c972e350995350a56c274f9c1ea43] In the case of a secondary school or a school (other than a special school) which provides secondary education, where information is available—
+**6.**[^c-a95c972e350995350a56c274f9c1ea43] In the case of a secondary school or a school (other than a special school) which provides secondary education, where information is available—
 
 - (a) the number of places for each relevant age group at the school which were available at the start of the school year immediately preceding the admission school year;
 - (b) the number of written applications for such places from the start of that year or (as appropriate) preferences expressed for such places at the school pursuant to arrangements made under section 86(1) of the 1998 Act;
 - (c) the number of appeals made pursuant to section 94 of the 1998 Act prior to the start of the most recent school year and the number of such appeals that were successful.
 
-**7.**[^key-d95695520690c1192c75ec25f24d447e] A statement on the curriculum and organisation of education and teaching methods at the school, including details of any special arrangements in the curriculum or otherwise for particular categories of pupils, including those with statements of special educational needs made pursuant to section 324 of the 1996 Act[^f00024].
+**7.**[^c-d95695520690c1192c75ec25f24d447e] A statement on the curriculum and organisation of education and teaching methods at the school, including details of any special arrangements in the curriculum or otherwise for particular categories of pupils, including those with statements of special educational needs made pursuant to section 324 of the 1996 Act[^f00024].
 
-**8.**[^key-59e2353407eca5caa165577abbf41dd9] A summary of the policy adopted for the school by the governing body in relation to children with special educational needs as it appears from the information published by the governing body under regulations 3 to 4 of the Education (Special Educational Needs) (Information) (Wales) Regulations 1999[^f00025].
+**8.**[^c-59e2353407eca5caa165577abbf41dd9] A summary of the policy adopted for the school by the governing body in relation to children with special educational needs as it appears from the information published by the governing body under regulations 3 to 4 of the Education (Special Educational Needs) (Information) (Wales) Regulations 1999[^f00025].
 
-**9.**[^key-7b6c73b476117847fc786a9765a04292] A brief statement on the ethos and values of the school.
+**9.**[^c-7b6c73b476117847fc786a9765a04292] A brief statement on the ethos and values of the school.
 
-**10.**[^key-68f4f8703707230dba8e8625b59dee2b] A brief statement on who has been designated as the member of staff at the school as having responsibility for promoting the educational achievement of looked after children and of that person’s role and a brief statement on the policies adopted for the school to support and promote the educational achievement of looked after children.
+**10.**[^c-68f4f8703707230dba8e8625b59dee2b] A brief statement on who has been designated as the member of staff at the school as having responsibility for promoting the educational achievement of looked after children and of that person’s role and a brief statement on the policies adopted for the school to support and promote the educational achievement of looked after children.
 
-**11.**[^key-2d262c50c9dd1fb5660e5e731265e2e2] Information as to the manner in which complaints are to be made under arrangements made pursuant to section 409 of the 1996 Act[^f00026].
+**11.**[^c-2d262c50c9dd1fb5660e5e731265e2e2] Information as to the manner in which complaints are to be made under arrangements made pursuant to section 409 of the 1996 Act[^f00026].
 
-**12.**[^key-06159860c3bd0aea9765875328a88b89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-06159860c3bd0aea9765875328a88b89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-989540d9d89d10e90d671ba8f11e59d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-989540d9d89d10e90d671ba8f11e59d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-ff1c7315736d3c192d6d72e87d1ea094] A summary of any sporting aims of the school and of the provisions made for pupils at the school to participate in sport including a summary of the provision made for extra curricular sports activities.
+**14.**[^c-ff1c7315736d3c192d6d72e87d1ea094] A summary of any sporting aims of the school and of the provisions made for pupils at the school to participate in sport including a summary of the provision made for extra curricular sports activities.
 
-**15.**[^key-89012f3250fa2bd14d6fe9e38dd3861e] The affiliations, if any, of the school with a particular religion or religious denomination.
+**15.**[^c-89012f3250fa2bd14d6fe9e38dd3861e] The affiliations, if any, of the school with a particular religion or religious denomination.
 
-**16.**[^key-d686b29c7c948dc67aa40875c3bece5e] A summary of the adopted curriculum as required under section 11(1)(b) of the Curriculum and Assessment (Wales) Act 2021.
+**16.**[^c-d686b29c7c948dc67aa40875c3bece5e] A summary of the adopted curriculum as required under section 11(1)(b) of the Curriculum and Assessment (Wales) Act 2021.
 
-**17.**[^key-32eba18f84266bcd3bd772b60e59ddca] Information as to any arrangements for a parent or a sixth-form pupil to exercise their rights under regulations made under section 71(7A)[^key-adb57c6a9428156b375838f9011f92b6] of the 1998 Act[^f00027] in relation to a pupil’s attendance at religious worship [^key-7ac1fecbd1efd0670ffc7e9026957fe9]..., and of any alternative provision made for pupils concerned.
+**17.**[^c-32eba18f84266bcd3bd772b60e59ddca] Information as to any arrangements for a parent or a sixth-form pupil to exercise their rights under regulations made under section 71(7A)[^c-adb57c6a9428156b375838f9011f92b6] of the 1998 Act[^f00027] in relation to a pupil’s attendance at religious worship [^c-7ac1fecbd1efd0670ffc7e9026957fe9]..., and of any alternative provision made for pupils concerned.
 
-**18.**[^key-fe0fe1bff457b59eba6ec1898153abe5] Information as to any determination made by a standing advisory council in respect of the school under section 394 of the 1996 Act[^f00028].
+**18.**[^c-fe0fe1bff457b59eba6ec1898153abe5] Information as to any determination made by a standing advisory council in respect of the school under section 394 of the 1996 Act[^f00028].
 
-**19.**[^key-2c4151c8823d610fb0fa08e558541c56] A summary of the charging and remissions policies determined by the governing body of the school under section 457 of the 1996 Act.
+**19.**[^c-2c4151c8823d610fb0fa08e558541c56] A summary of the charging and remissions policies determined by the governing body of the school under section 457 of the 1996 Act.
 
-**20.**[^key-14fe5084aa1ec2b3775656684d986220] For the admission school year—
+**20.**[^c-14fe5084aa1ec2b3775656684d986220] For the admission school year—
 
 - (a) the times at which each school session begins and ends on a school day; and
 - (b) the dates of school holidays (including half term holidays) during the admission school year.
 
-**21.**[^key-017357101170a9ced786455e5fccd9b1] A summary of any special arrangements for the admission of disabled pupils to the school and for enabling such pupils to have access to any part of the school premises, together with particulars of any steps which have been taken to prevent disabled pupils from being treated less favourably than pupils who are not disabled.
+**21.**[^c-017357101170a9ced786455e5fccd9b1] A summary of any special arrangements for the admission of disabled pupils to the school and for enabling such pupils to have access to any part of the school premises, together with particulars of any steps which have been taken to prevent disabled pupils from being treated less favourably than pupils who are not disabled.
 
-**22.**[^key-2de29c5c49149a1207f1021b4cc3d3e5] A summary of any policies adopted by the governing body of the school with respect to equal opportunities.
+**22.**[^c-2de29c5c49149a1207f1021b4cc3d3e5] A summary of any policies adopted by the governing body of the school with respect to equal opportunities.
 
-**23.**[^key-866d2663c01e1b51ff73aa404929e451] A summary of the arrangements made for the security of the pupils and staff at the school and the school premises.
+**23.**[^c-866d2663c01e1b51ff73aa404929e451] A summary of the arrangements made for the security of the pupils and staff at the school and the school premises.
 
-**24.**[^key-323b19cf9d865111941b8a9722ce9ae1] A summary of the provisions contained in the home-school agreement adopted by the governing body of the school under section 110(1)(a) of the 1998 Act[^f00029].
+**24.**[^c-323b19cf9d865111941b8a9722ce9ae1] A summary of the provisions contained in the home-school agreement adopted by the governing body of the school under section 110(1)(a) of the 1998 Act[^f00029].
 
-**25.**[^key-ae3b0a6fb7bb38653f868ad52f670cd1] Changes in respect of any matter mentioned in the preceding paragraphs which it has been determined will be made after the start of the school year to which the particulars relate.
+**25.**[^c-ae3b0a6fb7bb38653f868ad52f670cd1] Changes in respect of any matter mentioned in the preceding paragraphs which it has been determined will be made after the start of the school year to which the particulars relate.
 
-**26.**[^key-036a1df4ad99af484d933f105bfbaacb] (1) A brief statement as to the use of the Welsh language in the school by pupils of all age groups or of different age groups including, in particular—
+**26.**[^c-036a1df4ad99af484d933f105bfbaacb] (1) A brief statement as to the use of the Welsh language in the school by pupils of all age groups or of different age groups including, in particular—
 
-- (a) the use of Welsh in each age group[^key-7a070d8c2e7dac71422152c1495b4a31] as the language in which instruction is given in all or any subjects forming part of the curriculum and, where instruction in any such subject is given in Welsh of the extent, if any, to which alternative instruction in English is available in that subject;
+- (a) the use of Welsh in each age group[^c-7a070d8c2e7dac71422152c1495b4a31] as the language in which instruction is given in all or any subjects forming part of the curriculum and, where instruction in any such subject is given in Welsh of the extent, if any, to which alternative instruction in English is available in that subject;
 - (b) of the extent, if any to which Welsh is the usual language of communication at the school;
 - (c) any restriction that applies to a parent’s ability to choose the language in which instruction is given; and
 - (d) a brief description of the arrangements at the school to facilitate continuity in the extent of the instruction in Welsh for pupils—
   - (i) whilst registered at the school; and
   - (ii) transferring from the school, where that school is a primary school, to a secondary school.
 
-(2) Details of any exemption from the mandatory element of Welsh, as set out in section 3(2) of the Curriculum and Assessment (Wales) Act 2021, under sections 41, 42 and 48 of that Act[^key-b55c0536f1d5abc95e3f91f2c1ef31ee] but not so as to identify any individual pupils affected.
+(2) Details of any exemption from the mandatory element of Welsh, as set out in section 3(2) of the Curriculum and Assessment (Wales) Act 2021, under sections 41, 42 and 48 of that Act[^c-b55c0536f1d5abc95e3f91f2c1ef31ee] but not so as to identify any individual pupils affected.
 
-**27.**[^key-10a58e02059290a8dbfa15727c5fe995] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-10a58e02059290a8dbfa15727c5fe995] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-e60f4288ad6947cc85a0ccb7dc670252] In the case of a school with registered pupils who were aged 15 or 16 on the 1 September at the start of the previous school year, the number of such pupils and the percentage of that number falling within the following categories—
+**28.**[^c-e60f4288ad6947cc85a0ccb7dc670252] In the case of a school with registered pupils who were aged 15 or 16 on the 1 September at the start of the previous school year, the number of such pupils and the percentage of that number falling within the following categories—
 
 - (a) persons in full-time education, training or work based learning;
 - (b) persons in employment;
 - (c) persons known to the governing body not to fall within the terms of (a) or (b) above; and
 - (d) persons whom it is not known by the governing body whether they fall within any of the above categories.
 
-**29.**[^key-7addc6af13cccc8c7a34925d0c0be49f] The information in the most recent “Summary of Secondary School Performance” document published by the Welsh Ministers in relation to the school on DEWi.
+**29.**[^c-7addc6af13cccc8c7a34925d0c0be49f] The information in the most recent “Summary of Secondary School Performance” document published by the Welsh Ministers in relation to the school on DEWi.
 
-**30.**[^key-e896d16c66397510eb61e270a0c6db19] (1) The number of unauthorised absences and authorised absences in the reporting school year expressed as a percentage of the total number of possible attendances in that year.
+**30.**[^c-e896d16c66397510eb61e270a0c6db19] (1) The number of unauthorised absences and authorised absences in the reporting school year expressed as a percentage of the total number of possible attendances in that year.
 
 (2) For the purposes of this paragraph “the total number of possible attendances” means the number produced by multiplying the number of registered pupils in the school at the beginning of the reporting year by the number of school sessions in that year.
 
-**31.**[^key-3231659ad100a21cbb36b3c57a444203] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-3231659ad100a21cbb36b3c57a444203] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (This note is not part of the Regulations)
 
@@ -442,33 +442,33 @@ Part 5 contains supplementary provisions relating to published documents includi
 
 [^f00003]: Footnote: The functions of the Secretary of State in sections 29(5), 408, 537(1) to (8) and 569(4) and (5) of the Education Act 1996 and the power to make regulations in respect of Wales in section 138 of the School Standards and Framework Act 1998 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-e37da863c5a70399f0a089f546a5f897]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-e37da863c5a70399f0a089f546a5f897]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-35b13e2d87c15aac10d96271dbe143ee]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1A) inserted (7.8.2020) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/729)](https://www.legislation.gov.uk/wsi/2020/729), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/729/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2020/729/regulation/4)
+[^c-35b13e2d87c15aac10d96271dbe143ee]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1A) inserted (7.8.2020) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/729)](https://www.legislation.gov.uk/wsi/2020/729), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/729/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2020/729/regulation/4)
 
-[^key-1711af425ce509da447f046d2aeef7ef]: Textual amendment: [Reg. 1B](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1B) inserted (18.6.2021) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2021 (S.I. 2021/612)](https://www.legislation.gov.uk/wsi/2021/612), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/612/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2021/612/regulation/4)
+[^c-1711af425ce509da447f046d2aeef7ef]: Textual amendment: [Reg. 1B](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1B) inserted (18.6.2021) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2021 (S.I. 2021/612)](https://www.legislation.gov.uk/wsi/2021/612), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/612/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2021/612/regulation/4)
 
-[^key-8f86bcbea372ef5d293708dbcc4a5fa7]: Textual amendment: [Reg. 1C](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1C) inserted (1.4.2022) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2022 (S.I. 2022/178)](https://www.legislation.gov.uk/wsi/2022/178), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/178/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/178/regulation/3)
+[^c-8f86bcbea372ef5d293708dbcc4a5fa7]: Textual amendment: [Reg. 1C](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1C) inserted (1.4.2022) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2022 (S.I. 2022/178)](https://www.legislation.gov.uk/wsi/2022/178), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/178/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/178/regulation/3)
 
-[^key-e2350ecd1a0b396edc7c1544552a71df]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-e2350ecd1a0b396edc7c1544552a71df]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
 [^f00004]: Footnote: Section 89A was inserted by section 47(2) of the Education Act 2002. Sub-section (1) was amended by paragraphs 53 and 58(1) and (2) of Part 2 of Schedule 1 to the Education and Skills Act 2008.
 
 [^f00005]: Footnote: Circular 9/2006.
 
-[^key-8af388072e2e45cafc8821675e3d5d22]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2/1) inserted (with effect in accordance with reg. 8(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(3)(e)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/3/e)
+[^c-8af388072e2e45cafc8821675e3d5d22]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2/1) inserted (with effect in accordance with reg. 8(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(3)(e)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/3/e)
 
 [^f00006]: Footnote: The website for DEWi is www.dataexchangewales.org.uk.
 
-[^key-40ee5900e77ef533dcf5eb57da0c87f2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2/1) omitted (with effect in accordance with reg. 8(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/3/a)
+[^c-40ee5900e77ef533dcf5eb57da0c87f2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2/1) omitted (with effect in accordance with reg. 8(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/3/a)
 
-[^key-c32035b1f625b228c0debefe610930d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2/1) omitted (with effect in accordance with reg. 8(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/3/b)
+[^c-c32035b1f625b228c0debefe610930d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2/1) omitted (with effect in accordance with reg. 8(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/3/b)
 
-[^key-c4bb20cc1a89f88fc59637b0288d85a6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2/1) substituted (with effect in accordance with reg. 8(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(3)(c)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/3/c)
+[^c-c4bb20cc1a89f88fc59637b0288d85a6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2/1) substituted (with effect in accordance with reg. 8(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(3)(c)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/3/c)
 
-[^key-1fb703a408b6c0591e51dafb84230317]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2/1) omitted (31.7.2018) by virtue of [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2018/766/regulation/5/a)
+[^c-1fb703a408b6c0591e51dafb84230317]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2/1) omitted (31.7.2018) by virtue of [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2018/766/regulation/5/a)
 
-[^key-eded7b4e3d27ad04534e8d203827b36d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 122](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/122)
+[^c-eded7b4e3d27ad04534e8d203827b36d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 122](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/122)
 
 [^f00008]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Section 1 was amended by paragraph 19 of Schedule 5 to the Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), by section 2(1) and (2) of the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35) and by section 116(2) of the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38).
 
@@ -476,7 +476,7 @@ Part 5 contains supplementary provisions relating to published documents includi
 
 [^f00010]: Footnote: As amended by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-6d735670dc98f46cb38f02259bc7459f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2/1) omitted (with effect in accordance with reg. 8(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(3)(d)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/3/d)
+[^c-6d735670dc98f46cb38f02259bc7459f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/2/1) omitted (with effect in accordance with reg. 8(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(3)(d)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/3/d)
 
 [^f00011]: Footnote: S.I. [2010/1954 (W.187)](https://www.legislation.gov.uk/wsi/2010/1954).
 
@@ -484,166 +484,166 @@ Part 5 contains supplementary provisions relating to published documents includi
 
 [^f00013]: Footnote: Inserted by section 150 of the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25) and amended by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-a4874f6c4647826563debaf2e83407b0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2011/1944/regulation/3) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-a4874f6c4647826563debaf2e83407b0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2011/1944/regulation/3) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-4abf84c00e8908f02952f232a237587c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2011/1944/regulation/4) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-4abf84c00e8908f02952f232a237587c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2011/1944/regulation/4) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
 [^f00014]: Footnote: As amended by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
 [^f00015]: Footnote: “Primary schools”, “middle schools” and “secondary schools” are defined in section 5 of the 1996 Act.
 
-[^key-3a093d1b9a91b5ef0547c49eb7a24eb2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2011/1944/regulation/5) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-3a093d1b9a91b5ef0547c49eb7a24eb2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2011/1944/regulation/5) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-9552149f078d5f8b28ad5122e5a94372]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/5/1) substituted (1.5.2013) by [The National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Regulations 2013 (S.I. 2013/437)](https://www.legislation.gov.uk/wsi/2013/437), [regs. 1](https://www.legislation.gov.uk/wsi/2013/437/regulation/1), [4(3)](https://www.legislation.gov.uk/wsi/2013/437/regulation/4/3)
+[^c-9552149f078d5f8b28ad5122e5a94372]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/5/1) substituted (1.5.2013) by [The National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Regulations 2013 (S.I. 2013/437)](https://www.legislation.gov.uk/wsi/2013/437), [regs. 1](https://www.legislation.gov.uk/wsi/2013/437/regulation/1), [4(3)](https://www.legislation.gov.uk/wsi/2013/437/regulation/4/3)
 
-[^key-d3ad0b403e8559b0cd0070d52b79a80f]: Textual amendment: [Reg. 5(2)(c)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/5/2/c) omitted (30.5.2022) by virtue of [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2022/517/regulation/11)
+[^c-d3ad0b403e8559b0cd0070d52b79a80f]: Textual amendment: [Reg. 5(2)(c)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/5/2/c) omitted (30.5.2022) by virtue of [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2022/517/regulation/11)
 
-[^key-d66b26d1759394c4ec3673bd31344065]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2011/1944/regulation/6) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-d66b26d1759394c4ec3673bd31344065]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2011/1944/regulation/6) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
 [^f00016]: Footnote: Admission authority is defined in section 88(1) of the 1998 Act.
 
-[^key-9c5991b6cec3d06efd10fc4cfe7c6f56]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2011/1944/regulation/7) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-9c5991b6cec3d06efd10fc4cfe7c6f56]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2011/1944/regulation/7) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-3cd6663ef58462e19f4e83d8f1c283c7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2011/1944/regulation/8) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-3cd6663ef58462e19f4e83d8f1c283c7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2011/1944/regulation/8) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
 [^f00017]: Footnote: As substituted by section 45 of the Trade Union Reform and Employment Rights Act 1973, and further amended by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-02dabfa29a20b38397d8b34d13e7314b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2011/1944/regulation/9) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-02dabfa29a20b38397d8b34d13e7314b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2011/1944/regulation/9) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-439358e75f471c987236f0aed2fae993]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2011/1944/regulation/10) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-439358e75f471c987236f0aed2fae993]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2011/1944/regulation/10) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-711aaab9df6c8f97d16aa0f8ebde329c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2011/1944/schedule/1) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-711aaab9df6c8f97d16aa0f8ebde329c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2011/1944/schedule/1) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-32fc73dc515a14e74886a8f1f2b7ae0c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/1) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-32fc73dc515a14e74886a8f1f2b7ae0c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/1) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-7e81880ee61e9f5734631fa6da359a17]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/2) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-7e81880ee61e9f5734631fa6da359a17]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/2) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
 [^f00018]: Footnote: As amended by section 50 of, and paragraph 8 of Schedule 4 to, the Education Act 2002, sections 43(4) and 51(1) of the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), section 152 of, and paragraphs 53 and 66 of Part 2 of Schedule 1 and by Schedule 2 to, the Education and Skills Act 2008 and by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-1103312c724865f4e3459b0309656534]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/3) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-1103312c724865f4e3459b0309656534]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/3) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
 [^f00019]: Footnote: *See* section 20 of the 1998 Act.
 
-[^key-3164d926e95b7e1f93e0811b47602c4d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/4) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-3164d926e95b7e1f93e0811b47602c4d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/4) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-8c24abcb305a2518bd4c9d546deab641]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/5) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-8c24abcb305a2518bd4c9d546deab641]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/5) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-7f58615b8921617956867cf8f18ba624]: Textual amendment: [Sch. 2 para. 5A](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/5A) inserted (28.6.2024) by [The Education (Co-ordination of School Admission Arrangements and Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/698)](https://www.legislation.gov.uk/wsi/2024/698), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2024/698/regulation/9)
+[^c-7f58615b8921617956867cf8f18ba624]: Textual amendment: [Sch. 2 para. 5A](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/5A) inserted (28.6.2024) by [The Education (Co-ordination of School Admission Arrangements and Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/698)](https://www.legislation.gov.uk/wsi/2024/698), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2024/698/regulation/9)
 
-[^key-f4a24a8a3f97f3dc6d669ba5d028d7e8]: Textual amendment: [Sch. 2 para. 5A(2)](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/5A/2) substituted (4.11.2024) by [The Education (Amendments Relating to the Co-ordination of School Admission Arrangements) (Wales) Regulations 2024 (S.I. 2024/1002)](https://www.legislation.gov.uk/wsi/2024/1002), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1002/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2024/1002/regulation/3)
+[^c-f4a24a8a3f97f3dc6d669ba5d028d7e8]: Textual amendment: [Sch. 2 para. 5A(2)](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/5A/2) substituted (4.11.2024) by [The Education (Amendments Relating to the Co-ordination of School Admission Arrangements) (Wales) Regulations 2024 (S.I. 2024/1002)](https://www.legislation.gov.uk/wsi/2024/1002), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1002/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2024/1002/regulation/3)
 
-[^key-764b1aba7d0cacdbfa20a1590b40fb08]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/6) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-764b1aba7d0cacdbfa20a1590b40fb08]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/6) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-f7eead021420e6840e58a7bd8595a288]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/7) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-f7eead021420e6840e58a7bd8595a288]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/7) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-5e940e692db8c641e8c40c2ae655017e]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/8) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-5e940e692db8c641e8c40c2ae655017e]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/8) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-c63306294760101b2b4e1186f797fdb0]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/8) substituted (with effect in accordance with reg. 8(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(4)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/4)
+[^c-c63306294760101b2b4e1186f797fdb0]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/8) substituted (with effect in accordance with reg. 8(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(4)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/4)
 
-[^key-09621253e2014a706c3d8afc1c872bb1]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/9) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-09621253e2014a706c3d8afc1c872bb1]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/9) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-4a76ac6d7a0b3e0f01f7d8d2e0cf4332]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/10) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-4a76ac6d7a0b3e0f01f7d8d2e0cf4332]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/10) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-dd0af0e0da317d11e7d09fe55fb37e7f]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/11) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-dd0af0e0da317d11e7d09fe55fb37e7f]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/11) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-466fb995eed0f301cfe2329f424338b7]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/12) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-466fb995eed0f301cfe2329f424338b7]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/12) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-d6764306eaaf22e2c95183b6a13127bb]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/13) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-d6764306eaaf22e2c95183b6a13127bb]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/13) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-ed615fb48d691d2cb72b7a69efc9f8c5]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/14) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-ed615fb48d691d2cb72b7a69efc9f8c5]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/14) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
 [^f00021]: Footnote: As amended by paragraphs 122(a) and (b) of Schedule 30 and by Schedule 31 to the School Standards and Framework Act 1998, section 200 of the Education Act 2002, paragraph 16(1) and (2) of Schedule 3 to the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5) and by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-52baef3946a73d4c93207d362abc6b2f]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/15) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-52baef3946a73d4c93207d362abc6b2f]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/15) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-d6bec22406d787a30e6bb278ce5ce1de]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/16) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-d6bec22406d787a30e6bb278ce5ce1de]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/16) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-9bf9fefec33a480512e08e8bf7f4b283]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/17) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-9bf9fefec33a480512e08e8bf7f4b283]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/17) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
 [^f00022]: Footnote: As amended by sections 47(2) and (3), and 57(4) of, and Schedule 8 to, the Education Act 1996 and by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-c2d8fa5a20cd4ad1aab3f320124c92f3]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/18) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-c2d8fa5a20cd4ad1aab3f320124c92f3]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/wsi/2011/1944/schedule/2/paragraph/18) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-5eab2d3c0216ae8917b565dab80dc1e4]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/1) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-5eab2d3c0216ae8917b565dab80dc1e4]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/1) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-07a4e117b0c60b22757dcdf5cb4a655c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/2) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-07a4e117b0c60b22757dcdf5cb4a655c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/2) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
 [^f00023]: Footnote: “Grammar school” is defined by section 104(7) of the 1998 Act.
 
-[^key-2d75a4a79e9810d5c1cd387f09b64c7d]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/3) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-2d75a4a79e9810d5c1cd387f09b64c7d]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/3) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-53772ffb620f71d7be5b121b3133bd96]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/4) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-53772ffb620f71d7be5b121b3133bd96]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/4) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-dea8f593677e76eec50dfd3fb146fe53]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/5) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-dea8f593677e76eec50dfd3fb146fe53]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/5) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-a95c972e350995350a56c274f9c1ea43]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/6) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-a95c972e350995350a56c274f9c1ea43]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/6) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-d95695520690c1192c75ec25f24d447e]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/7) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-d95695520690c1192c75ec25f24d447e]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/7) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
 [^f00024]: Footnote: As amended by paragraph 77(a) and (b) to Schedule 30 to the School Standards and Framework Act 1998, section 9 of the Special Educational Needs and Disability Act [2001 (c. 10)](https://www.legislation.gov.uk/ukpga/2001/10) and by S.I. [2010/1151](https://www.legislation.gov.uk/uksi/2010/1151).
 
-[^key-59e2353407eca5caa165577abbf41dd9]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/8) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-59e2353407eca5caa165577abbf41dd9]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/8) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
 [^f00025]: Footnote: S.I. [1999/1442](https://www.legislation.gov.uk/uksi/1999/1442) as amended by S.I. [2010/1142](https://www.legislation.gov.uk/uksi/2010/1142).
 
-[^key-7b6c73b476117847fc786a9765a04292]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/9) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-7b6c73b476117847fc786a9765a04292]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/9) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-68f4f8703707230dba8e8625b59dee2b]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/10) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-68f4f8703707230dba8e8625b59dee2b]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/10) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-2d262c50c9dd1fb5660e5e731265e2e2]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/11) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-2d262c50c9dd1fb5660e5e731265e2e2]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/11) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
 [^f00026]: Footnote: As amended by paragraph 107(b), (c) and (d) of Schedule 30 to the School Standards and Framework Act 1998, Schedule 21 and by paragraph 47 of Part 3 of Schedule 22 to the Education Act 2002, section 223(1)(b) of, and Part 7 of Schedule 16 to, the Apprenticeships, Skills, Children and Learning Act 2009 and by S.I. [2010/1152](https://www.legislation.gov.uk/uksi/2010/1152).
 
-[^key-06159860c3bd0aea9765875328a88b89]: Textual amendment: [Sch. 3 para. 12](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/12) omitted (with effect in accordance with reg. 8(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(5)(a)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/5/a)
+[^c-06159860c3bd0aea9765875328a88b89]: Textual amendment: [Sch. 3 para. 12](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/12) omitted (with effect in accordance with reg. 8(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(5)(a)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/5/a)
 
-[^key-989540d9d89d10e90d671ba8f11e59d2]: Textual amendment: [Sch. 3 para. 13](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/13) omitted (with effect in accordance with reg. 8(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(5)(b)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/5/b)
+[^c-989540d9d89d10e90d671ba8f11e59d2]: Textual amendment: [Sch. 3 para. 13](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/13) omitted (with effect in accordance with reg. 8(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(5)(b)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/5/b)
 
-[^key-ff1c7315736d3c192d6d72e87d1ea094]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/14) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-ff1c7315736d3c192d6d72e87d1ea094]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/14) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-89012f3250fa2bd14d6fe9e38dd3861e]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/15) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-89012f3250fa2bd14d6fe9e38dd3861e]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/15) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-d686b29c7c948dc67aa40875c3bece5e]: Textual amendment: [Sch. 3 para. 16](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/16) substituted (with effect in accordance with reg. 8(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(5)(c)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/5/c)
+[^c-d686b29c7c948dc67aa40875c3bece5e]: Textual amendment: [Sch. 3 para. 16](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/16) substituted (with effect in accordance with reg. 8(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(5)(c)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/5/c)
 
-[^key-32eba18f84266bcd3bd772b60e59ddca]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/17) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-32eba18f84266bcd3bd772b60e59ddca]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/17) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-adb57c6a9428156b375838f9011f92b6]: Textual amendment: Words in [Sch. 3 para. 17](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/17) substituted (with effect in accordance with reg. 8(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(5)(d)(i)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/5/d/i)
+[^c-adb57c6a9428156b375838f9011f92b6]: Textual amendment: Words in [Sch. 3 para. 17](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/17) substituted (with effect in accordance with reg. 8(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(5)(d)(i)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/5/d/i)
 
 [^f00027]: Footnote: As amended by section 55 of the Education and Inspections Act 2006, paragraph 105 of Schedule 2 to the Education Act 2002 and by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-7ac1fecbd1efd0670ffc7e9026957fe9]: Textual amendment: Words in [Sch. 3 para. 17](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/17) omitted (with effect in accordance with reg. 8(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(5)(d)(ii)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/5/d/ii)
+[^c-7ac1fecbd1efd0670ffc7e9026957fe9]: Textual amendment: Words in [Sch. 3 para. 17](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/17) omitted (with effect in accordance with reg. 8(2) of the amending S.I.) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(5)(d)(ii)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/5/d/ii)
 
-[^key-fe0fe1bff457b59eba6ec1898153abe5]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/18) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-fe0fe1bff457b59eba6ec1898153abe5]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/18) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
 [^f00028]: Footnote: As amended by paragraph 97(2), (3) and (4) of Schedule 30 to the School Standards and Framework Act 1998, paragraph 9(1) and (2) of Schedule 3 to the Education and Inspections Act 2006, and by S.I. [2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-2c4151c8823d610fb0fa08e558541c56]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/19) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-2c4151c8823d610fb0fa08e558541c56]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/19) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-14fe5084aa1ec2b3775656684d986220]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/20) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-14fe5084aa1ec2b3775656684d986220]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/20) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-017357101170a9ced786455e5fccd9b1]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/21) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-017357101170a9ced786455e5fccd9b1]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/21) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-2de29c5c49149a1207f1021b4cc3d3e5]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/22) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-2de29c5c49149a1207f1021b4cc3d3e5]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/22) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-866d2663c01e1b51ff73aa404929e451]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/23) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-866d2663c01e1b51ff73aa404929e451]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/23) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-323b19cf9d865111941b8a9722ce9ae1]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/24) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-323b19cf9d865111941b8a9722ce9ae1]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/24) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
 [^f00029]: Footnote: To which there are amendments which do not apply to Wales.
 
-[^key-ae3b0a6fb7bb38653f868ad52f670cd1]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/25) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-ae3b0a6fb7bb38653f868ad52f670cd1]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/25) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-036a1df4ad99af484d933f105bfbaacb]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/26) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-036a1df4ad99af484d933f105bfbaacb]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/26) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-7a070d8c2e7dac71422152c1495b4a31]: Textual amendment: Words in [Sch. 3 para. 26(1)(a)](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/26/1/a) substituted (with effect in accordance with reg. 8(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(5)(e)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/5/e)
+[^c-7a070d8c2e7dac71422152c1495b4a31]: Textual amendment: Words in [Sch. 3 para. 26(1)(a)](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/26/1/a) substituted (with effect in accordance with reg. 8(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(5)(e)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/5/e)
 
-[^key-b55c0536f1d5abc95e3f91f2c1ef31ee]: Textual amendment: Words in [Sch. 3 para. 26(2)](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/26/2) substituted (with effect in accordance with reg. 8(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(5)(f)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/5/f)
+[^c-b55c0536f1d5abc95e3f91f2c1ef31ee]: Textual amendment: Words in [Sch. 3 para. 26(2)](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/26/2) substituted (with effect in accordance with reg. 8(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [8(5)(f)](https://www.legislation.gov.uk/wsi/2022/666/regulation/8/5/f)
 
-[^key-10a58e02059290a8dbfa15727c5fe995]: Textual amendment: [Sch. 3 para. 27](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/27) omitted (31.7.2018) by virtue of [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2018/766/regulation/5/b)
+[^c-10a58e02059290a8dbfa15727c5fe995]: Textual amendment: [Sch. 3 para. 27](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/27) omitted (31.7.2018) by virtue of [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2018/766/regulation/5/b)
 
-[^key-e60f4288ad6947cc85a0ccb7dc670252]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/28) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-e60f4288ad6947cc85a0ccb7dc670252]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/28) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-7addc6af13cccc8c7a34925d0c0be49f]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/29) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-7addc6af13cccc8c7a34925d0c0be49f]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/29) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-e896d16c66397510eb61e270a0c6db19]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/30) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
+[^c-e896d16c66397510eb61e270a0c6db19]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/30) in force at 1.9.2011, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2011/1944/regulation/1/1)
 
-[^key-3231659ad100a21cbb36b3c57a444203]: Textual amendment: [Sch. 3 para. 31](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/31) omitted (31.7.2018) by virtue of [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2018/766/regulation/5/b)
+[^c-3231659ad100a21cbb36b3c57a444203]: Textual amendment: [Sch. 3 para. 31](https://www.legislation.gov.uk/wsi/2011/1944/schedule/3/paragraph/31) omitted (31.7.2018) by virtue of [The Education (Amendments Relating to Teacher Assessment Information) (Wales) Regulations 2018 (S.I. 2018/766)](https://www.legislation.gov.uk/wsi/2018/766), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/766/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2018/766/regulation/5/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-56a7b5e2917094d90d6ceefc73cd493f]
+## 1. Citation and commencement[^c-56a7b5e2917094d90d6ceefc73cd493f]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56a7b5e2917094d90d6ceefc73cd493f]: Commencement: Art. 1 in operation at 1.4.1996, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/a)
+[^c-56a7b5e2917094d90d6ceefc73cd493f]: Commencement: Art. 1 in operation at 1.4.1996, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/a)

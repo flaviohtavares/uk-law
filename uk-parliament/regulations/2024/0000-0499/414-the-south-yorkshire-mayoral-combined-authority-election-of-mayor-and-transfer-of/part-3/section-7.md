@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Secondments[^key-d534f76ed3ad23aa3da9a5ddebd9f1d7]
+## 7. Secondments[^c-d534f76ed3ad23aa3da9a5ddebd9f1d7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In the case of a person who immediately before 7th May 2024 is seconded to the p
 
 ## Annotations
 
-[^key-d534f76ed3ad23aa3da9a5ddebd9f1d7]: Commencement: Art. 7 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
+[^c-d534f76ed3ad23aa3da9a5ddebd9f1d7]: Commencement: Art. 7 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)

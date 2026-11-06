@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Notification of presence of commercially damaging species[^key-72d8f670ed4fea1ed75f35ce9de4c337]
+## 15. Notification of presence of commercially damaging species[^c-72d8f670ed4fea1ed75f35ce9de4c337]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72d8f670ed4fea1ed75f35ce9de4c337]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2013/7/section/15) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-72d8f670ed4fea1ed75f35ce9de4c337]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2013/7/section/15) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

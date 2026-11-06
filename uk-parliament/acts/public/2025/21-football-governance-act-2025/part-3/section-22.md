@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Scope of powers to attach or vary discretionary licence conditions[^key-64294776a7095292f060e5c159b7ff9f][^key-6f45d9f5e204f35f346c8ca130ca790c]
+## 22. Scope of powers to attach or vary discretionary licence conditions[^c-64294776a7095292f060e5c159b7ff9f][^c-6f45d9f5e204f35f346c8ca130ca790c]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64294776a7095292f060e5c159b7ff9f]: Commencement: S. 22 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-64294776a7095292f060e5c159b7ff9f]: Commencement: S. 22 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-6f45d9f5e204f35f346c8ca130ca790c]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2025/21/section/22) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(viii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/viii)
+[^c-6f45d9f5e204f35f346c8ca130ca790c]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2025/21/section/22) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(viii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/viii)

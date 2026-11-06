@@ -25,14 +25,14 @@ summary: ''
 - (a) provide for the earner to be entitled to a pension under the scheme if he attains pensionable age; and
 - (b) contain a rule to the effect that the weekly rate of the pension will be not less than his guaranteed minimum (if any) under sections 10 to 12.
 
-(1A)[^key-476003037aaa7799c439752b89d4585c] But a scheme may be amended so as to omit provision of the kind specified in subsection (1)(a) and (b) if the conditions specified in section 20B are satisfied.
+(1A)[^c-476003037aaa7799c439752b89d4585c] But a scheme may be amended so as to omit provision of the kind specified in subsection (1)(a) and (b) if the conditions specified in section 20B are satisfied.
 
-(2) In the case of an earner who was a married woman or widow who was liable[^key-24cf57ae493280e23a5992bcf98c0e5b] to pay primary Class 1 contributions at a reduced rate by virtue of section 19(4) of the [^c11718391]Social Security Contributions and Benefits (Northern Ireland) Act 1992 at a time during a relevant year when she was in contracted-out employment by reference to the scheme[^key-0c3b29f8b184a801d09847647dd4548c], subject to the provisions of this Part, the scheme must—
+(2) In the case of an earner who was a married woman or widow who was liable[^c-24cf57ae493280e23a5992bcf98c0e5b] to pay primary Class 1 contributions at a reduced rate by virtue of section 19(4) of the [^c11718391]Social Security Contributions and Benefits (Northern Ireland) Act 1992 at a time during a relevant year when she was in contracted-out employment by reference to the scheme[^c-0c3b29f8b184a801d09847647dd4548c], subject to the provisions of this Part, the scheme must—
 
 - (a) provide for her to be entitled to a pension under the scheme if she attains pensionable age [^c11718401]. . .
 - (b) satisfy such other conditions as may be prescribed.
 
-“[^key-1f33895a4a213e1fe2faccebe4a72699]**Relevant year**” has the meaning given by section 10(8).
+“[^c-1f33895a4a213e1fe2faccebe4a72699]**Relevant year**” has the meaning given by section 10(8).
 
 (3) Subject to subsection (4), the scheme must provide for the pension to commence on the date on which the earner attains pensionable age and to continue for his life.
 
@@ -56,16 +56,16 @@ but subsection (6) excludes only so much of those benefits as had to be provided
 
 ## Annotations
 
-[^key-476003037aaa7799c439752b89d4585c]: Textual amendment: S. 9(1A) inserted (3.3.2009 for specified purposes, 6.4.2009 in so far as not already in force) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 12(1)](https://www.legislation.gov.uk/nia/2008/1/section/12/1), [21(1)](https://www.legislation.gov.uk/nia/2008/1/section/21/1); [S.R. 2009/75](https://www.legislation.gov.uk/nisr/2009/75), [art. 2(a)(b)](https://www.legislation.gov.uk/nisr/2009/75/article/2/a)
+[^c-476003037aaa7799c439752b89d4585c]: Textual amendment: S. 9(1A) inserted (3.3.2009 for specified purposes, 6.4.2009 in so far as not already in force) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 12(1)](https://www.legislation.gov.uk/nia/2008/1/section/12/1), [21(1)](https://www.legislation.gov.uk/nia/2008/1/section/21/1); [S.R. 2009/75](https://www.legislation.gov.uk/nisr/2009/75), [art. 2(a)(b)](https://www.legislation.gov.uk/nisr/2009/75/article/2/a)
 
-[^key-24cf57ae493280e23a5992bcf98c0e5b]: Textual amendment: Words in s. 9(2) substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 14(a)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/14/a)
+[^c-24cf57ae493280e23a5992bcf98c0e5b]: Textual amendment: Words in s. 9(2) substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 14(a)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/14/a)
 
 [^c11718391]: Marginal citation: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
 
-[^key-0c3b29f8b184a801d09847647dd4548c]: Textual amendment: Words in s. 9(2) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 14(b)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/14/b)
+[^c-0c3b29f8b184a801d09847647dd4548c]: Textual amendment: Words in s. 9(2) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 14(b)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/14/b)
 
 [^c11718401]: Textual amendment: Words in s. 9(2)(a) repealed (6.4.1997) by [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213), [arts. 147](https://www.legislation.gov.uk/nisi/1995/3213/article/147), [168](https://www.legislation.gov.uk/nisi/1995/3213/article/168), [Sch. 3 para. 19](https://www.legislation.gov.uk/nisi/1995/3213/schedule/3/paragraph/19), [Sch. 5 Pt. III](https://www.legislation.gov.uk/nisi/1995/3213/schedule/5/part/III); [S.R. 1997/192](https://www.legislation.gov.uk/nisr/1997/192), [art. 2(b)](https://www.legislation.gov.uk/nisr/1997/192/article/2/b)
 
-[^key-1f33895a4a213e1fe2faccebe4a72699]: Textual amendment: Words in s. 9(2) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 14(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/14/c)
+[^c-1f33895a4a213e1fe2faccebe4a72699]: Textual amendment: Words in s. 9(2) inserted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 14(c)](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/14/c)
 
 [^c11718411]: Marginal citation: [1966 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Mitigation of and adaptation to climate change[^key-9f5bbf9cb90228924311e014dc1300e2]
+## 4. Mitigation of and adaptation to climate change[^c-9f5bbf9cb90228924311e014dc1300e2]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ must act in the way best calculated to mitigate, and adapt to, climate change so
 
 ## Annotations
 
-[^key-9f5bbf9cb90228924311e014dc1300e2]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2010/5/section/4) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-9f5bbf9cb90228924311e014dc1300e2]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2010/5/section/4) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)

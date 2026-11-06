@@ -33,7 +33,7 @@ Exiting The European Union, Wales
 
 Seeds, Wales
 
-The Marketing of Seeds and Plant Propagating Material (Wales) (Amendment) (EU Exit) Regulations 2022 (revoked)[^key-d1e0e601a26d5beba3f269844b765b1e]
+The Marketing of Seeds and Plant Propagating Material (Wales) (Amendment) (EU Exit) Regulations 2022 (revoked)[^c-d1e0e601a26d5beba3f269844b765b1e]
 
 Sift requirements satisfied
 
@@ -51,26 +51,26 @@ Coming into force
 
 27 October 2022
 
-[^key-d1e0e601a26d5beba3f269844b765b1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1e0e601a26d5beba3f269844b765b1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-d1e0e601a26d5beba3f269844b765b1e]
+## 1. Title and commencement[^c-d1e0e601a26d5beba3f269844b765b1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Seed Marketing (Wales) Regulations 2012[^key-d1e0e601a26d5beba3f269844b765b1e]
+## 2. The Seed Marketing (Wales) Regulations 2012[^c-d1e0e601a26d5beba3f269844b765b1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The Marketing of Fruit Plant and Propagating Material (Wales) Regulations 2017[^key-d1e0e601a26d5beba3f269844b765b1e]
+## 3. The Marketing of Fruit Plant and Propagating Material (Wales) Regulations 2017[^c-d1e0e601a26d5beba3f269844b765b1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1e0e601a26d5beba3f269844b765b1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1e0e601a26d5beba3f269844b765b1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1e0e601a26d5beba3f269844b765b1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1e0e601a26d5beba3f269844b765b1e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1e0e601a26d5beba3f269844b765b1e]: Textual amendment: Regulations revoked (31.12.2022) by [The Marketing of Seeds and Plant Propagating Material (Wales) (Amendment) (EU Exit) (No. 2) Regulations 2022 (S.I. 2022/1333)](https://www.legislation.gov.uk/uksi/2022/1333), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1333/regulation/1), [4](https://www.legislation.gov.uk/uksi/2022/1333/regulation/4)
+[^c-d1e0e601a26d5beba3f269844b765b1e]: Textual amendment: Regulations revoked (31.12.2022) by [The Marketing of Seeds and Plant Propagating Material (Wales) (Amendment) (EU Exit) (No. 2) Regulations 2022 (S.I. 2022/1333)](https://www.legislation.gov.uk/uksi/2022/1333), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1333/regulation/1), [4](https://www.legislation.gov.uk/uksi/2022/1333/regulation/4)

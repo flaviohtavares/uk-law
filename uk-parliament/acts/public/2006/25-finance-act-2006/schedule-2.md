@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Relief for research and development: subjects of clinical trials[^key-b9e9f808b20b502f1d52537431ec2722]
+## SCHEDULE 2 — Relief for research and development: subjects of clinical trials[^c-b9e9f808b20b502f1d52537431ec2722]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Section 28
 
-### Amendments to Schedule 20 to FA 2000[^key-b9e9f808b20b502f1d52537431ec2722]
+### Amendments to Schedule 20 to FA 2000[^c-b9e9f808b20b502f1d52537431ec2722]
 
-**1.**[^key-b9e9f808b20b502f1d52537431ec2722] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b9e9f808b20b502f1d52537431ec2722] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Amendments to Schedule 12 to FA 2002[^key-b9e9f808b20b502f1d52537431ec2722]
+### Amendments to Schedule 12 to FA 2002[^c-b9e9f808b20b502f1d52537431ec2722]
 
-**2.**[^key-b9e9f808b20b502f1d52537431ec2722] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b9e9f808b20b502f1d52537431ec2722] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Amendments to Schedule 13 to FA 2002[^key-b9e9f808b20b502f1d52537431ec2722]
+### Amendments to Schedule 13 to FA 2002[^c-b9e9f808b20b502f1d52537431ec2722]
 
-**3.**[^key-b9e9f808b20b502f1d52537431ec2722] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b9e9f808b20b502f1d52537431ec2722] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b9e9f808b20b502f1d52537431ec2722]: Textual amendment: Sch. 2 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-b9e9f808b20b502f1d52537431ec2722]: Textual amendment: Sch. 2 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

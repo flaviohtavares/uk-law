@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Share certificates[^key-e1de1ef33fef16a9b0334a93e3391e1a]
+## 46. Share certificates[^c-e1de1ef33fef16a9b0334a93e3391e1a]
 
 *Extent: N.I.*
 
@@ -67,4 +67,4 @@ is prima facie evidence of that person’s title to the shares.
 
 ## Annotations
 
-[^key-e1de1ef33fef16a9b0334a93e3391e1a]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2004/335/regulation/46) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-e1de1ef33fef16a9b0334a93e3391e1a]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2004/335/regulation/46) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

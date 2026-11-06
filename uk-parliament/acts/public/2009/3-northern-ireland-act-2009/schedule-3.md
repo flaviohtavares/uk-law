@@ -22,25 +22,25 @@ summary: ''
 
 Section 2
 
-**1.**[^key-1da3a7a1b2678c6ef36e43cda7e3cc17] (1) Amend section 2 as follows.
+**1.**[^c-1da3a7a1b2678c6ef36e43cda7e3cc17] (1) Amend section 2 as follows.
 
 (2) Omit subsection (1)(a).
 
-(3)[^key-921be554a689619b67a34e63fd2ae8f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-921be554a689619b67a34e63fd2ae8f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4386ae873b61c9031eaec9a8ebe56eb8] Omit section 4.
+**2.**[^c-4386ae873b61c9031eaec9a8ebe56eb8] Omit section 4.
 
-**3.**[^key-39ddafd44d91e51f80011bcd30cada78] For section 5 substitute—
+**3.**[^c-39ddafd44d91e51f80011bcd30cada78] For section 5 substitute—
 
 > **5. Appointment to listed judicial offices**
 >
 > Schedule 3 (which is about the making of appointments to listed judicial offices) has effect.
 
-**4.**[^key-5c15d9bd27afe5a6c425bf956b490953] In section 5A(1) for “section 5” substitute “ Schedule 3 ”.
+**4.**[^c-5c15d9bd27afe5a6c425bf956b490953] In section 5A(1) for “section 5” substitute “ Schedule 3 ”.
 
-**5.**[^key-3ea42ab1e6c21fa4109abbfa39091928] Omit section 6.
+**5.**[^c-3ea42ab1e6c21fa4109abbfa39091928] Omit section 6.
 
-**6.**[^key-7df277d5c5e08f6027d1d7f3d6dcc573] (1) Amend section 7 as follows.
+**6.**[^c-7df277d5c5e08f6027d1d7f3d6dcc573] (1) Amend section 7 as follows.
 
 (2) In subsection (2) for “First Minister and deputy First Minister, acting jointly” substitute “ Lord Chief Justice ”.
 
@@ -64,7 +64,7 @@ Section 2
 - (b) for “section 12B” substitute “ section 12C ”;
 - (c) omit “(inserted by section 6 of this Act)”.
 
-**7.**[^key-28964fd96f0eff28e29b6bf9f0c6a08b] For section 8 substitute—
+**7.**[^c-28964fd96f0eff28e29b6bf9f0c6a08b] For section 8 substitute—
 
 > **8. Tribunals for considering removal**
 >
@@ -89,17 +89,17 @@ Section 2
 >
 > (7) The justice department may pay a member of a tribunal any such allowances or fees as it may determine.
 
-**8.**[^key-7038647925a7093948f2feb44306d671] (1) Amend section 9B as follows.
+**8.**[^c-7038647925a7093948f2feb44306d671] (1) Amend section 9B as follows.
 
 (2) In subsection (3) omit “or the Northern Ireland Court Service”.
 
 (3) In subsection (4) after “Part” insert “ or paragraph 2A of Schedule 11 to the Northern Ireland Act 1998 ”.
 
-**9.**[^key-9bed9f6b44405add5600c574e171d0b9] Omit section 9G.
+**9.**[^c-9bed9f6b44405add5600c574e171d0b9] Omit section 9G.
 
-**10.**[^key-7a01d772fa0ad7c4b3f4753168149b72] In section 9H omit “or 9G”.
+**10.**[^c-7a01d772fa0ad7c4b3f4753168149b72] In section 9H omit “or 9G”.
 
-**11.**[^key-9bcd839241b08c4ceffb7a38c8b8e537] (1) Amend section 9I(2) as follows.
+**11.**[^c-9bcd839241b08c4ceffb7a38c8b8e537] (1) Amend section 9I(2) as follows.
 
 (2) In paragraph (a) for “section 12, 12A and 12B” substitute “ sections 12 to 12C ”.
 
@@ -111,9 +111,9 @@ Section 2
 
 .
 
-**12.**[^key-1fb201844b1e4cdebee9fad8c58a629e][^key-7a1370efd34900e9961d9c99784ae27b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-1fb201844b1e4cdebee9fad8c58a629e][^c-7a1370efd34900e9961d9c99784ae27b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-574a86f5f6127b5ddf338e580dbe6864] For Schedule 3 substitute—
+**13.**[^c-574a86f5f6127b5ddf338e580dbe6864] For Schedule 3 substitute—
 
 > **SCHEDULE 3 — Appointment to listed judicial offices**
 >
@@ -180,40 +180,40 @@ Section 2
 > - (b) it requires the Commission, so far as it is reasonably practicable to do so, to secure that a range of persons reflective of the community in Northern Ireland is available for consideration by the Commission whenever it is selecting a person to be appointed, or recommended for appointment, to a listed judicial office, and
 > - (c) it is for the time being approved by the Commission for the purposes of this Schedule.
 
-**14.**[^key-af2e464219de0adeec0cdcdf7a8bad74] After paragraph 12(2) of Schedule 3A insert—
+**14.**[^c-af2e464219de0adeec0cdcdf7a8bad74] After paragraph 12(2) of Schedule 3A insert—
 
 > (3) Sub-paragraph (1) does not apply to the Ombudsman's functions under section 7 or 8 of this Act or section 12B or 12C of the Judicature (Northern Ireland) Act 1978.
 
 ## Annotations
 
-[^key-1da3a7a1b2678c6ef36e43cda7e3cc17]: Commencement: Sch. 3 para. 1 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-1da3a7a1b2678c6ef36e43cda7e3cc17]: Commencement: Sch. 3 para. 1 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-921be554a689619b67a34e63fd2ae8f4]: Textual amendment: Sch. 3 para. 1(3) omitted (12.4.2010) by virtue of [Department of Justice Act (Northern Ireland) 2010 (c. 3)](https://www.legislation.gov.uk/nia/2010/3), [s. 3(2)](https://www.legislation.gov.uk/nia/2010/3/section/3/2), [Sch. para. 21](https://www.legislation.gov.uk/nia/2010/3/schedule/paragraph/21); [S.R. 2010/147](https://www.legislation.gov.uk/nisr/2010/147), [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/147/article/2/2)
+[^c-921be554a689619b67a34e63fd2ae8f4]: Textual amendment: Sch. 3 para. 1(3) omitted (12.4.2010) by virtue of [Department of Justice Act (Northern Ireland) 2010 (c. 3)](https://www.legislation.gov.uk/nia/2010/3), [s. 3(2)](https://www.legislation.gov.uk/nia/2010/3/section/3/2), [Sch. para. 21](https://www.legislation.gov.uk/nia/2010/3/schedule/paragraph/21); [S.R. 2010/147](https://www.legislation.gov.uk/nisr/2010/147), [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/147/article/2/2)
 
-[^key-4386ae873b61c9031eaec9a8ebe56eb8]: Commencement: Sch. 3 para. 2 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-4386ae873b61c9031eaec9a8ebe56eb8]: Commencement: Sch. 3 para. 2 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-39ddafd44d91e51f80011bcd30cada78]: Commencement: Sch. 3 para. 3 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-39ddafd44d91e51f80011bcd30cada78]: Commencement: Sch. 3 para. 3 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-5c15d9bd27afe5a6c425bf956b490953]: Commencement: Sch. 3 para. 4 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-5c15d9bd27afe5a6c425bf956b490953]: Commencement: Sch. 3 para. 4 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-3ea42ab1e6c21fa4109abbfa39091928]: Commencement: Sch. 3 para. 5 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-3ea42ab1e6c21fa4109abbfa39091928]: Commencement: Sch. 3 para. 5 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-7df277d5c5e08f6027d1d7f3d6dcc573]: Commencement: Sch. 3 para. 6 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-7df277d5c5e08f6027d1d7f3d6dcc573]: Commencement: Sch. 3 para. 6 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-28964fd96f0eff28e29b6bf9f0c6a08b]: Commencement: Sch. 3 para. 7 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-28964fd96f0eff28e29b6bf9f0c6a08b]: Commencement: Sch. 3 para. 7 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-7038647925a7093948f2feb44306d671]: Commencement: Sch. 3 para. 8 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-7038647925a7093948f2feb44306d671]: Commencement: Sch. 3 para. 8 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-9bed9f6b44405add5600c574e171d0b9]: Commencement: Sch. 3 para. 9 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-9bed9f6b44405add5600c574e171d0b9]: Commencement: Sch. 3 para. 9 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-7a01d772fa0ad7c4b3f4753168149b72]: Commencement: Sch. 3 para. 10 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-7a01d772fa0ad7c4b3f4753168149b72]: Commencement: Sch. 3 para. 10 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-9bcd839241b08c4ceffb7a38c8b8e537]: Commencement: Sch. 3 para. 11 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-9bcd839241b08c4ceffb7a38c8b8e537]: Commencement: Sch. 3 para. 11 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-1fb201844b1e4cdebee9fad8c58a629e]: Textual amendment: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2009/3/schedule/3/paragraph/12) omitted (12.4.2010) by virtue of [Department of Justice Act (Northern Ireland) 2010 (c. 3)](https://www.legislation.gov.uk/nia/2010/3), [s. 3(2)](https://www.legislation.gov.uk/nia/2010/3/section/3/2), [Sch. para. 21](https://www.legislation.gov.uk/nia/2010/3/schedule/paragraph/21); [S.R. 2010/147](https://www.legislation.gov.uk/nisr/2010/147), [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/147/article/2/2)
+[^c-1fb201844b1e4cdebee9fad8c58a629e]: Textual amendment: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2009/3/schedule/3/paragraph/12) omitted (12.4.2010) by virtue of [Department of Justice Act (Northern Ireland) 2010 (c. 3)](https://www.legislation.gov.uk/nia/2010/3), [s. 3(2)](https://www.legislation.gov.uk/nia/2010/3/section/3/2), [Sch. para. 21](https://www.legislation.gov.uk/nia/2010/3/schedule/paragraph/21); [S.R. 2010/147](https://www.legislation.gov.uk/nisr/2010/147), [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/147/article/2/2)
 
-[^key-7a1370efd34900e9961d9c99784ae27b]: Commencement: Sch. 3 para. 12 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-7a1370efd34900e9961d9c99784ae27b]: Commencement: Sch. 3 para. 12 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-574a86f5f6127b5ddf338e580dbe6864]: Commencement: Sch. 3 para. 13 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-574a86f5f6127b5ddf338e580dbe6864]: Commencement: Sch. 3 para. 13 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-af2e464219de0adeec0cdcdf7a8bad74]: Commencement: Sch. 3 para. 14 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-af2e464219de0adeec0cdcdf7a8bad74]: Commencement: Sch. 3 para. 14 in force at 12.4.2010 by [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)

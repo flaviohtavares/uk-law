@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13CD. Extension by High Court on application of directors[^key-1531dc9ea9123ea203c78422d93482c3]
+## 13CD. Extension by High Court on application of directors[^c-1531dc9ea9123ea203c78422d93482c3]
 
 *Extent: N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1531dc9ea9123ea203c78422d93482c3]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/nisi/1989/2405/part/1A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/4/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-1531dc9ea9123ea203c78422d93482c3]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/nisi/1989/2405/part/1A) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/4/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^M_C_44e949c7-ad72-48cd-8f76-a163b227f0b2]: Modification: Art. 13CD(2)(d) modified (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 8 para. 8(3)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/8/paragraph/8/3) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/8/paragraph/1))

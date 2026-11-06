@@ -52,9 +52,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## 2. The Attorney General for Northern Ireland and the Solicitor General.
 
-(1) Any function of the Advocate General for Northern Ireland[^key-ccaeb584a51cadbdfe6f3c679ce6c27d] may be exercised by the Solicitor General for England and Wales.
+(1) Any function of the Advocate General for Northern Ireland[^c-ccaeb584a51cadbdfe6f3c679ce6c27d] may be exercised by the Solicitor General for England and Wales.
 
-(2) Anything done by or in relation to the Solicitor General in the exercise of or in connection with a function of the Advocate General[^key-cc725528719a534d0354ad63a07697b0] has effect as if done by or in relation to the Advocate General .
+(2) Anything done by or in relation to the Solicitor General in the exercise of or in connection with a function of the Advocate General[^c-cc725528719a534d0354ad63a07697b0] has effect as if done by or in relation to the Advocate General .
 
 (3) The validity of anything done in relation to the Advocate General , or done by or in relation to the Solicitor General, is not affected by a vacancy in the office of Advocate General .
 
@@ -65,7 +65,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (5) It is immaterial for the purposes of this section whether a function of the Advocate General arises under an enactment or otherwise.
 
-(6) In this section “Advocate General” means the Advocate[^key-659cd820cd1885e1aa41dbb63b588906] General for Northern Ireland.
+(6) In this section “Advocate General” means the Advocate[^c-659cd820cd1885e1aa41dbb63b588906] General for Northern Ireland.
 
 ## 3. Short title, repeals, commencement and extent.
 
@@ -102,10 +102,10 @@ Section 3(2).
 
 ## Annotations
 
-[^key-ccaeb584a51cadbdfe6f3c679ce6c27d]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1997/60/section/2/1) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2002/26/section/27/2/a), [87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 7](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/7)
+[^c-ccaeb584a51cadbdfe6f3c679ce6c27d]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1997/60/section/2/1) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2002/26/section/27/2/a), [87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 7](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/7)
 
-[^key-cc725528719a534d0354ad63a07697b0]: Textual amendment: Words in [s. 2(2)-(5)](https://www.legislation.gov.uk/ukpga/1997/60/section/2/2) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2002/26/section/27/2/b), [87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 7](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/7)
+[^c-cc725528719a534d0354ad63a07697b0]: Textual amendment: Words in [s. 2(2)-(5)](https://www.legislation.gov.uk/ukpga/1997/60/section/2/2) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2002/26/section/27/2/b), [87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 7](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/7)
 
-[^key-659cd820cd1885e1aa41dbb63b588906]: Textual amendment: Words in [s. 2(6)](https://www.legislation.gov.uk/ukpga/1997/60/section/2/6) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 27(2)(c)](https://www.legislation.gov.uk/ukpga/2002/26/section/27/2/c), [87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 7](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/7)
+[^c-659cd820cd1885e1aa41dbb63b588906]: Textual amendment: Words in [s. 2(6)](https://www.legislation.gov.uk/ukpga/1997/60/section/2/6) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 27(2)(c)](https://www.legislation.gov.uk/ukpga/2002/26/section/27/2/c), [87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 7](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/7)
 
 [^c8638081]: Commencement: [Sch](https://www.legislation.gov.uk/ukpga/1997/60/schedule)edule: repeals are coextensive with the enactments they affect see [s. 3(4)](https://www.legislation.gov.uk/ukpga/1997/60/section/3/4)

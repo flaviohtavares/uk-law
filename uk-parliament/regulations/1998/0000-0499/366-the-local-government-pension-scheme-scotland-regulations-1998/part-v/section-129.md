@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 129. Further cases of eligibility: non-employees[^key-b9cdfa22f09da34befc815d7ff2030e7]
+## 129. Further cases of eligibility: non-employees[^c-b9cdfa22f09da34befc815d7ff2030e7]
 
 *Extent: E+W+S*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b9cdfa22f09da34befc815d7ff2030e7]: Commencement: Reg. 129 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-b9cdfa22f09da34befc815d7ff2030e7]: Commencement: Reg. 129 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00054]: Footnote: [1965 c. 49](https://www.legislation.gov.uk/ukpga/1965/49); section 5 was amended by the Local Government (Scotland) Act [1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), section 116(2)(a) and the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), section 51.
 

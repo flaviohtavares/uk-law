@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Guidance[^key-95f6e86745114e7405355cbedd0df310]
+## 16. Guidance[^c-95f6e86745114e7405355cbedd0df310]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A local authority must have regard in the carrying out of its functions under th
 
 ## Annotations
 
-[^key-95f6e86745114e7405355cbedd0df310]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2021/84/regulation/16) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-95f6e86745114e7405355cbedd0df310]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2021/84/regulation/16) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Safety measures relating to use of vehicles.[^key-d486b8aa767ed496e2bd2c38ca9e7278]
+## 41. Safety measures relating to use of vehicles.[^c-d486b8aa767ed496e2bd2c38ca9e7278]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d486b8aa767ed496e2bd2c38ca9e7278]: Textual amendment: [Ss. 39-46](https://www.legislation.gov.uk/apni/1969/6/section/39) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-d486b8aa767ed496e2bd2c38ca9e7278]: Textual amendment: [Ss. 39-46](https://www.legislation.gov.uk/apni/1969/6/section/39) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

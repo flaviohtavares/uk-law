@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Incidental costs of obtaining finance[^c19110221][^key-59a76d5b9fb3ed3b4fd4e6f029d2b2be]
+## 58. Incidental costs of obtaining finance[^c19110221][^c-59a76d5b9fb3ed3b4fd4e6f029d2b2be]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,17 +46,17 @@ are incidental costs of obtaining the finance even if it is not in fact obtained
 - (c) the cost of repaying a loan or loan stock so far as attributable to its being repayable at a premium or having been obtained or issued at a discount, and
 - (d) stamp duty.
 
-(5) This section needs to be read with —[^key-8da01fa73e843ce2a35198f13663e58d]
+(5) This section needs to be read with —[^c-8da01fa73e843ce2a35198f13663e58d]
 
-- (a)[^key-4d9e1624ec5ab1b5eca38342ed431557] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4d9e1624ec5ab1b5eca38342ed431557] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 59 (which provides for restrictions in relation to convertible loans and loan stock etc.).
 
 ## Annotations
 
 [^c19110221]: Modification: S. 58 modified (with effect as mentioned in [s. 56](https://www.legislation.gov.uk/ukpga/2005/7/section/56) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 51(3)(5)](https://www.legislation.gov.uk/ukpga/2005/7/section/51/3/5)
 
-[^key-59a76d5b9fb3ed3b4fd4e6f029d2b2be]: Modification: S. 58 modified (1.4.2010) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 564N(3)](https://www.legislation.gov.uk/ukpga/2007/3/section/564N/3) (as inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 2 para. 15(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/2/paragraph/15/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22)))
+[^c-59a76d5b9fb3ed3b4fd4e6f029d2b2be]: Modification: S. 58 modified (1.4.2010) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 564N(3)](https://www.legislation.gov.uk/ukpga/2007/3/section/564N/3) (as inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 2 para. 15(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/2/paragraph/15/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22)))
 
-[^key-8da01fa73e843ce2a35198f13663e58d]: Textual amendment: Words in s. 58(5)(a) inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/15)
+[^c-8da01fa73e843ce2a35198f13663e58d]: Textual amendment: Words in s. 58(5)(a) inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/15)
 
-[^key-4d9e1624ec5ab1b5eca38342ed431557]: Textual amendment: [S. 58(5)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/58/5/a) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 19](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/19), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-4d9e1624ec5ab1b5eca38342ed431557]: Textual amendment: [S. 58(5)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/58/5/a) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 19](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/19), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))

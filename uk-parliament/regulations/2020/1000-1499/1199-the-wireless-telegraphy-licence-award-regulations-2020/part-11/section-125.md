@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. General power of exclusion[^key-7dc3a5200c23ad49c9a459a6d6c900dd]
+## 125. General power of exclusion[^c-7dc3a5200c23ad49c9a459a6d6c900dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ OFCOM may, at any time, notify any applicant or bidder of its exclusion from the
 
 ## Annotations
 
-[^key-7dc3a5200c23ad49c9a459a6d6c900dd]: Commencement: Reg. 125 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-7dc3a5200c23ad49c9a459a6d6c900dd]: Commencement: Reg. 125 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
 
 [^c24321371]: Marginal citation: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).

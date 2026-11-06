@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Effect of rules against referral fees[^key-60961ccea1beb31129dcb4714500f6d3]
+## 57. Effect of rules against referral fees[^c-60961ccea1beb31129dcb4714500f6d3]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ and not as a referral fee.
 
 ## Annotations
 
-[^key-60961ccea1beb31129dcb4714500f6d3]: Modification: S. 57 modified (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [110(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/110/2)
+[^c-60961ccea1beb31129dcb4714500f6d3]: Modification: S. 57 modified (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [110(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/110/2)
 
 [^c22555721]: Textual amendment: Words in s. 57(4) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 114(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/114/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 138(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/138/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 2](https://www.legislation.gov.uk/uksi/2013/423/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

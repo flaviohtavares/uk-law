@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Disposals of dwellings in exchange for certain flats[^key-3f285f14e6e0a59c3de142d6dcd64372]
+## 104. Disposals of dwellings in exchange for certain flats[^c-3f285f14e6e0a59c3de142d6dcd64372]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3f285f14e6e0a59c3de142d6dcd64372]: Commencement: Reg. 104 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-3f285f14e6e0a59c3de142d6dcd64372]: Commencement: Reg. 104 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00096]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 

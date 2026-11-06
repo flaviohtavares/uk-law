@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.23. General power of transfer[^key-dafd04d5fe42ff69ce91951c86ac3d0b]
+## 4.23. General power of transfer[^c-dafd04d5fe42ff69ce91951c86ac3d0b]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dafd04d5fe42ff69ce91951c86ac3d0b]: Commencement: Rule 4.23 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-dafd04d5fe42ff69ce91951c86ac3d0b]: Commencement: Rule 4.23 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

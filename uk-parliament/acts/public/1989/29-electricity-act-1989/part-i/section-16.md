@@ -31,11 +31,11 @@ summary: ''
 
 (2) Any duty under subsection (1) includes a duty to provide such electric lines or electrical plant as may be necessary to enable the connection to be used for the purpose for which it is required.
 
-(2A)[^key-29f7dd6df962e4043b96f85072687c76] In deciding how to comply with the duties under this section, and in particular in deciding how to prioritise persons requiring a connection, an electricity distributor must have regard to the designated strategic plans.
+(2A)[^c-29f7dd6df962e4043b96f85072687c76] In deciding how to comply with the duties under this section, and in particular in deciding how to prioritise persons requiring a connection, an electricity distributor must have regard to the designated strategic plans.
 
 (3) The duties under this section shall be performed subject to such terms as may be agreed under section 16A for so long as the connection is required.
 
-(4) In this section and sections 16A to 23 and Schedule 5B[^key-f36a315e5af626ef0b3af11e6d11b5cf]—
+(4) In this section and sections 16A to 23 and Schedule 5B[^c-f36a315e5af626ef0b3af11e6d11b5cf]—
 
 - (a) any reference to making a connection includes a reference to maintaining the connection (and continuing to provide the necessary electric lines or electrical plant);
 - (b) any reference to requiring a connection includes a reference to requiring the connection to be maintained (and the continued provision of the necessary electric lines and electrical plant); and
@@ -43,7 +43,7 @@ summary: ''
 
 (5) The duties under this section are subject to the following provisions of this Part and any regulations made under those provisions.
 
-(6)[^key-423d611fe580027ac1137d60af4902f8] In this section, “**the designated strategic plans**” means the plans or documents designated by regulations made under section 165A(2) of the Energy Act 2023 (functions of the Independent System Operator and Planner relating to network connections).
+(6)[^c-423d611fe580027ac1137d60af4902f8] In this section, “**the designated strategic plans**” means the plans or documents designated by regulations made under section 165A(2) of the Energy Act 2023 (functions of the Independent System Operator and Planner relating to network connections).
 
 ## Annotations
 
@@ -51,8 +51,8 @@ summary: ''
 
 [^c4111991]: Textual amendment: Ss. 16, 16A, 17 and cross-heading substituted for ss. 16, 17 (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 44](https://www.legislation.gov.uk/ukpga/2000/27/section/44); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule)(subject to transitional provisions in art. 3-20)
 
-[^key-29f7dd6df962e4043b96f85072687c76]: Textual amendment: S. 16(2A) inserted (18.12.2025) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/18/3/a), [118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-29f7dd6df962e4043b96f85072687c76]: Textual amendment: S. 16(2A) inserted (18.12.2025) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/18/3/a), [118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
 
-[^key-f36a315e5af626ef0b3af11e6d11b5cf]: Textual amendment: Words in s. 16(4) inserted (6.4.2017) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 52(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/52/4), [57(7)(c)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/c); [S.I. 2017/108](https://www.legislation.gov.uk/uksi/2017/108), [reg. 2](https://www.legislation.gov.uk/uksi/2017/108/regulation/2)
+[^c-f36a315e5af626ef0b3af11e6d11b5cf]: Textual amendment: Words in s. 16(4) inserted (6.4.2017) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 52(4)](https://www.legislation.gov.uk/ukpga/2015/7/section/52/4), [57(7)(c)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/7/c); [S.I. 2017/108](https://www.legislation.gov.uk/uksi/2017/108), [reg. 2](https://www.legislation.gov.uk/uksi/2017/108/regulation/2)
 
-[^key-423d611fe580027ac1137d60af4902f8]: Textual amendment: S. 16(6) inserted (18.12.2025) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/18/3/b), [118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-423d611fe580027ac1137d60af4902f8]: Textual amendment: S. 16(6) inserted (18.12.2025) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/18/3/b), [118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

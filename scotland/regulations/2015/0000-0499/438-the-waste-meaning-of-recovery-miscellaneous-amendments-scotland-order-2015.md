@@ -50,11 +50,11 @@ In deciding to make this Order, the Scottish Ministers have had regard to the ma
 
 In accordance with section 74(5) of that Act, the Scottish Ministers have consulted such persons as they consider appropriate.
 
-## 1. Citation and commencement[^key-471fed0b4db5da7504f2569adb1e50dd]
+## 1. Citation and commencement[^c-471fed0b4db5da7504f2569adb1e50dd]
 
 This Order may be cited as the Waste (Meaning of Recovery) (Miscellaneous Amendments) (Scotland) Order 2015 and comes into force on 1st July 2016.
 
-## 2. Amendment of the Special Waste Regulations 1996[^key-51daa22640ab77ba8f2af9c65c189d86]
+## 2. Amendment of the Special Waste Regulations 1996[^c-51daa22640ab77ba8f2af9c65c189d86]
 
 In regulation 1(4) of the Special Waste Regulations 1996[^f00003] (citation, commencement, extent, application and interpretation), for the definition of “the Waste Directive” substitute—
 
@@ -62,11 +62,11 @@ In regulation 1(4) of the Special Waste Regulations 1996[^f00003] (citation, com
 
 .
 
-## 3. Amendment of the End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003[^key-fe60e7960480f6ee2ce17db057695846]
+## 3. Amendment of the End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003[^c-fe60e7960480f6ee2ce17db057695846]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the National Waste Management Plan for Scotland Regulations 2007[^key-1ae2decd228375b8de7338a38fe79603]
+## 4. Amendment of the National Waste Management Plan for Scotland Regulations 2007[^c-1ae2decd228375b8de7338a38fe79603]
 
 In regulation 2A of the National Waste Management Plan for Scotland Regulations 2007[^f00007] (interpretation: the Waste Directive), for paragraph (a) substitute—
 
@@ -74,7 +74,7 @@ In regulation 2A of the National Waste Management Plan for Scotland Regulations 
 
 .
 
-## 5. Amendment of the Marine Licensing (Exempted Activities) (Scottish Offshore Region) Order 2011[^key-7c95a2ac9bd5009b7365dcb0b978dc39]
+## 5. Amendment of the Marine Licensing (Exempted Activities) (Scottish Offshore Region) Order 2011[^c-7c95a2ac9bd5009b7365dcb0b978dc39]
 
 In article 3(1) of the Marine Licensing (Exempted Activities) (Scottish Offshore Region) Order 2011[^f00008] (interpretation), for the definition of “the Waste Framework Directive” substitute—
 
@@ -82,7 +82,7 @@ In article 3(1) of the Marine Licensing (Exempted Activities) (Scottish Offshore
 
 .
 
-## 6. Amendment of the Marine Licensing (Exempted Activities) (Scottish Inshore Region) Order 2011[^key-0a3c724b472e3c9ca00094e9f96a925e]
+## 6. Amendment of the Marine Licensing (Exempted Activities) (Scottish Inshore Region) Order 2011[^c-0a3c724b472e3c9ca00094e9f96a925e]
 
 In article 2(2) of the Marine Licensing (Exempted Activities) (Scottish Inshore Region) Order 2011[^f00009] (interpretation), for the definition of “the Waste Framework Directive” substitute—
 
@@ -90,11 +90,11 @@ In article 2(2) of the Marine Licensing (Exempted Activities) (Scottish Inshore 
 
 .
 
-## 7. Amendment of the Waste Management Licensing (Scotland) Regulations 2011[^key-1b5f53f488a4e4df7ef2c2479e907ff3]
+## 7. Amendment of the Waste Management Licensing (Scotland) Regulations 2011[^c-1b5f53f488a4e4df7ef2c2479e907ff3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2012[^key-0b59baca4486866592e3be217444792b]
+## 8. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2012[^c-0b59baca4486866592e3be217444792b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -124,9 +124,9 @@ No business and regulatory impact assessment has been prepared for this Order as
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68) (“the 1972 Act”). Section 2(2) was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“the 1998 Act”), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (“the 2006 Act”)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), Schedule, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), so far as they are exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. The power in section 2(2) of the 1972 Act is relied on for all the amendments made by this Order except for the amendment to [S.S.I. 2011/57](https://www.legislation.gov.uk/ssi/2011/57).
 
-[^key-471fed0b4db5da7504f2569adb1e50dd]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2015/438/article/1) in force at 1.7.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2015/438/article/1)
+[^c-471fed0b4db5da7504f2569adb1e50dd]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2015/438/article/1) in force at 1.7.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2015/438/article/1)
 
-[^key-51daa22640ab77ba8f2af9c65c189d86]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2015/438/article/2) in force at 1.7.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2015/438/article/1)
+[^c-51daa22640ab77ba8f2af9c65c189d86]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2015/438/article/2) in force at 1.7.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2015/438/article/1)
 
 [^f00003]: Footnote: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972), as relevantly amended by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226) and [S.S.I. 2015/188](https://www.legislation.gov.uk/ssi/2015/188).
 
@@ -134,20 +134,20 @@ No business and regulatory impact assessment has been prepared for this Order as
 
 [^f00005]: Footnote: OJ L 184, 11.07.2015, p.13.
 
-[^key-fe60e7960480f6ee2ce17db057695846]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2015/438/article/3) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-fe60e7960480f6ee2ce17db057695846]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2015/438/article/3) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-1ae2decd228375b8de7338a38fe79603]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2015/438/article/4) in force at 1.7.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2015/438/article/1)
+[^c-1ae2decd228375b8de7338a38fe79603]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2015/438/article/4) in force at 1.7.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2015/438/article/1)
 
 [^f00007]: Footnote: [S.S.I. 2007/251](https://www.legislation.gov.uk/ssi/2007/251). Regulation 2A was inserted by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226) and amended by [S.S.I. 2015/188](https://www.legislation.gov.uk/ssi/2015/188).
 
-[^key-7c95a2ac9bd5009b7365dcb0b978dc39]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2015/438/article/5) in force at 1.7.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2015/438/article/1)
+[^c-7c95a2ac9bd5009b7365dcb0b978dc39]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2015/438/article/5) in force at 1.7.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2015/438/article/1)
 
 [^f00008]: Footnote: [S.S.I. 2011/57](https://www.legislation.gov.uk/ssi/2011/57), as relevantly amended by [S.S.I. 2012/25](https://www.legislation.gov.uk/ssi/2012/25).
 
-[^key-0a3c724b472e3c9ca00094e9f96a925e]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2015/438/article/6) in force at 1.7.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2015/438/article/1)
+[^c-0a3c724b472e3c9ca00094e9f96a925e]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2015/438/article/6) in force at 1.7.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2015/438/article/1)
 
 [^f00009]: Footnote: [S.S.I. 2011/204](https://www.legislation.gov.uk/ssi/2011/204), as relevantly amended by [S.S.I. 2015/188](https://www.legislation.gov.uk/ssi/2015/188).
 
-[^key-1b5f53f488a4e4df7ef2c2479e907ff3]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/ssi/2015/438/article/7) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-1b5f53f488a4e4df7ef2c2479e907ff3]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/ssi/2015/438/article/7) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-0b59baca4486866592e3be217444792b]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/ssi/2015/438/article/8) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-0b59baca4486866592e3be217444792b]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/ssi/2015/438/article/8) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

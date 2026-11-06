@@ -32,7 +32,7 @@ summary: ''
 
 Animals
 
-The Animals (Scientific Procedures) Act 1986 (Fees) Order 2015 (revoked)[^key-8572e2b992e46292256d0cf89dca88f1]
+The Animals (Scientific Procedures) Act 1986 (Fees) Order 2015 (revoked)[^c-8572e2b992e46292256d0cf89dca88f1]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st April 2015
 
-[^key-8572e2b992e46292256d0cf89dca88f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8572e2b992e46292256d0cf89dca88f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-8572e2b992e46292256d0cf89dca88f1]
+## 1. Citation, commencement, interpretation and extent[^c-8572e2b992e46292256d0cf89dca88f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable under the Animals (Scientific Procedures) Act 1986[^key-8572e2b992e46292256d0cf89dca88f1]
+## 2. Fees payable under the Animals (Scientific Procedures) Act 1986[^c-8572e2b992e46292256d0cf89dca88f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-8572e2b992e46292256d0cf89dca88f1]
+## 3. Revocation[^c-8572e2b992e46292256d0cf89dca88f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8572e2b992e46292256d0cf89dca88f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8572e2b992e46292256d0cf89dca88f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8572e2b992e46292256d0cf89dca88f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8572e2b992e46292256d0cf89dca88f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8572e2b992e46292256d0cf89dca88f1]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/244) revoked (6.4.2018) by [The Animals (Scientific Procedures) Act 1986 (Fees) Order 2018 (S.I. 2018/375)](https://www.legislation.gov.uk/uksi/2018/375), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/375/article/1/1), [4](https://www.legislation.gov.uk/uksi/2018/375/article/4)
+[^c-8572e2b992e46292256d0cf89dca88f1]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/244) revoked (6.4.2018) by [The Animals (Scientific Procedures) Act 1986 (Fees) Order 2018 (S.I. 2018/375)](https://www.legislation.gov.uk/uksi/2018/375), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/375/article/1/1), [4](https://www.legislation.gov.uk/uksi/2018/375/article/4)

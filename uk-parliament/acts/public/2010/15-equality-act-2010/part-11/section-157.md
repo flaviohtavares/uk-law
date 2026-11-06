@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies for the purposes of this Chapter.
 
-(2)[^key-21e3c9da407ee77da9e8004a1b4f433d] A relevant Welsh authority is a devolved Welsh authority (within the meaning given by section 157A of the Government of Wales Act 2006) other than the Assembly Commission.
+(2)[^c-21e3c9da407ee77da9e8004a1b4f433d] A relevant Welsh authority is a devolved Welsh authority (within the meaning given by section 157A of the Government of Wales Act 2006) other than the Assembly Commission.
 
 (3) A cross-border Welsh authority is a person other than a relevant Welsh authority (or the Assembly Commission) who has any function that—
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) The Assembly Commission has the same meaning as in the Government of Wales Act 2006.
 
-(5)[^key-5db98e1cdef1428e2a60c7d0b4cde238] A function is a devolved Welsh function if—
+(5)[^c-5db98e1cdef1428e2a60c7d0b4cde238] A function is a devolved Welsh function if—
 
 - (a) it relates to a matter in respect of which functions are exercisable by the Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh Government, or
 - (b) provision conferring the function would be within the legislative competence of the National Assembly for Wales.
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-21e3c9da407ee77da9e8004a1b4f433d]: Textual amendment: [S. 157(2)](https://www.legislation.gov.uk/ukpga/2010/15/section/157/2) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 84(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/84/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-21e3c9da407ee77da9e8004a1b4f433d]: Textual amendment: [S. 157(2)](https://www.legislation.gov.uk/ukpga/2010/15/section/157/2) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 84(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/84/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
-[^key-5db98e1cdef1428e2a60c7d0b4cde238]: Textual amendment: [S. 157(5)](https://www.legislation.gov.uk/ukpga/2010/15/section/157/5) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 84(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/84/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-5db98e1cdef1428e2a60c7d0b4cde238]: Textual amendment: [S. 157(5)](https://www.legislation.gov.uk/ukpga/2010/15/section/157/5) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 84(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/84/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

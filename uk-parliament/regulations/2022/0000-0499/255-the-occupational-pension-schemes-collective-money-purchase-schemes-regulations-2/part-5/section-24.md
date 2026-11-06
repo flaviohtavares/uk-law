@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Risk notices[^key-cf92d3925fd91d0f5fdf63bbc82df234]
+## 24. Risk notices[^c-cf92d3925fd91d0f5fdf63bbc82df234]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf92d3925fd91d0f5fdf63bbc82df234]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2022/255/regulation/24) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-cf92d3925fd91d0f5fdf63bbc82df234]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2022/255/regulation/24) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00021]: Footnote: Section 10 was amended by paragraph 11 of Schedule 2 to the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), paragraphs 34 and 38 of Schedule 12 and Part 1 of Schedule 13 to the 2004 Act, section 62(3) of and paragraph 121 of Schedule 13 to the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), paragraph 52 of Schedule 9 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) and paragraph 1 of Schedule 7 to the 2021 Act.

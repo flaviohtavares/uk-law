@@ -31,7 +31,7 @@ summary: ''
 
 Electronic Communications
 
-The Wireless Telegraphy (Automotive Short Range Radar) (Exemption) (No. 2) (Amendment) Regulations 2010 (revoked)[^key-4140674ce5e13fe922294fb29c8420a0]
+The Wireless Telegraphy (Automotive Short Range Radar) (Exemption) (No. 2) (Amendment) Regulations 2010 (revoked)[^c-4140674ce5e13fe922294fb29c8420a0]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 16th June 2010
 
-[^key-4140674ce5e13fe922294fb29c8420a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4140674ce5e13fe922294fb29c8420a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-4140674ce5e13fe922294fb29c8420a0]
+## 1. Citation and Commencement[^c-4140674ce5e13fe922294fb29c8420a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Wireless Telegraphy (Automotive Short Range Radar) (Exemption) (No. 2) Regulations 2005[^key-4140674ce5e13fe922294fb29c8420a0]
+## 2. Amendment of the Wireless Telegraphy (Automotive Short Range Radar) (Exemption) (No. 2) Regulations 2005[^c-4140674ce5e13fe922294fb29c8420a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4140674ce5e13fe922294fb29c8420a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4140674ce5e13fe922294fb29c8420a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4140674ce5e13fe922294fb29c8420a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4140674ce5e13fe922294fb29c8420a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4140674ce5e13fe922294fb29c8420a0]: Textual amendment: Regulations revoked (30.6.2013) by [The Wireless Telegraphy (Automotive Short Range Radar) (Exemption) Regulations 2013 (S.I. 2013/1437)](https://www.legislation.gov.uk/uksi/2013/1437), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1437/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2013/1437/regulation/3/2/c)
+[^c-4140674ce5e13fe922294fb29c8420a0]: Textual amendment: Regulations revoked (30.6.2013) by [The Wireless Telegraphy (Automotive Short Range Radar) (Exemption) Regulations 2013 (S.I. 2013/1437)](https://www.legislation.gov.uk/uksi/2013/1437), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1437/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2013/1437/regulation/3/2/c)

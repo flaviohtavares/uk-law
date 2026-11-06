@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Leader and cabinet executives (England)[^key-045368090ac9665df9f35bccc3024e4f]
+## 67. Leader and cabinet executives (England)[^c-045368090ac9665df9f35bccc3024e4f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-045368090ac9665df9f35bccc3024e4f]: Textual amendment: S. 67 repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
+[^c-045368090ac9665df9f35bccc3024e4f]: Textual amendment: S. 67 repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)

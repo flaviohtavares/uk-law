@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. The Human Tissue Act 2004 (Ethical Approval, Exceptions from Licensing and Supply of Information about Transplants) Regulations 2006[^key-215d64dd0eef7e7bee49e65abc19ab93][^key-cb60d9709ca3e4e011c3bac42b548519]
+## 6. The Human Tissue Act 2004 (Ethical Approval, Exceptions from Licensing and Supply of Information about Transplants) Regulations 2006[^c-215d64dd0eef7e7bee49e65abc19ab93][^c-cb60d9709ca3e4e011c3bac42b548519]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In the Human Tissue Act 2004 (Ethical Approval, Exceptions from Licensing and Su
 
 ## Annotations
 
-[^key-215d64dd0eef7e7bee49e65abc19ab93]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-215d64dd0eef7e7bee49e65abc19ab93]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-cb60d9709ca3e4e011c3bac42b548519]: Textual amendment: Reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1348/regulation/3)
+[^c-cb60d9709ca3e4e011c3bac42b548519]: Textual amendment: Reg. 6 substituted (31.12.2020 immediately before IP completion day) by [The Reciprocal and Cross-Border Healthcare (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1348)](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1348/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1348/regulation/3)

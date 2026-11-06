@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Conditions[^c1016506][^key-7aec6616cffa1e2dc92dc8c61a2f5dd8]
+## 10. Conditions[^c1016506][^c-7aec6616cffa1e2dc92dc8c61a2f5dd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c1016506]: Extent: In its application to Northern Ireland, this section has effect subject to the modifications set out in s. 29, see s. 29(1)
 
-[^key-7aec6616cffa1e2dc92dc8c61a2f5dd8]: Textual amendment: S. 10 substituted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [10(1)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/10/1) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-7aec6616cffa1e2dc92dc8c61a2f5dd8]: Textual amendment: S. 10 substituted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [10(1)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/10/1) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

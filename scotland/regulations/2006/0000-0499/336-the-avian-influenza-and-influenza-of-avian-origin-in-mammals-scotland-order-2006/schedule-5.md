@@ -92,7 +92,7 @@ No person shall release game birds.
 
 ### 12. Restrictions on the movement of poultry and eggs within the surveillance zone
 
-No person shall move any poultry or eggs into or[^key-614a21cc67b647bf275617807a556f3c] within the surveillance zone (other than through the zone by road or rail without stopping), unless licensed to do so by a veterinary inspector.
+No person shall move any poultry or eggs into or[^c-614a21cc67b647bf275617807a556f3c] within the surveillance zone (other than through the zone by road or rail without stopping), unless licensed to do so by a veterinary inspector.
 
 **13.** Paragraph 12 does not apply to the retail distribution of eggs and movements subsequent to such distribution
 
@@ -100,14 +100,14 @@ No person shall move any poultry or eggs into or[^key-614a21cc67b647bf275617807a
 
 **15.** A veterinary inspector may license the transport of poultry from outside the protection and surveillance zones to a designated slaughterhouse within the surveillance zone and subsequent movements of the meat derived from such poultry.
 
-### 16. Restrictions on the movement of poultry , carcases and eggs out of the surveillance zone[^key-9df6d773daf7cc1c1dc905c5fe3b0028]
+### 16. Restrictions on the movement of poultry , carcases and eggs out of the surveillance zone[^c-9df6d773daf7cc1c1dc905c5fe3b0028]
 
-No person shall move any poultry , carcases[^key-195100f6d1fa59f0897ffca16dc6c321] or eggs out of the surveillance zone, unless the movement is one of the following and is licensed by a veterinary inspector–
+No person shall move any poultry , carcases[^c-195100f6d1fa59f0897ffca16dc6c321] or eggs out of the surveillance zone, unless the movement is one of the following and is licensed by a veterinary inspector–
 
 - (a) poultry for slaughter (if the requirements of paragraph 18 and any additional licence conditions are met);
 - (b) day-old chicks hatched from eggs originating within the surveillance zone (if the requirements of paragraph 19 and any additional licence conditions are met);
 - (c) day-old chicks hatched from eggs originating outside the protection and surveillance zones (if the requirements of paragraph 20 and any additional licence conditions are met);
-- (d) ready-to-lay poultry or brood-and-move poultry[^key-70dca374b31852868e5c26530931f727] to premises, or part of premises, where no poultry are kept if any licence conditions are met;
+- (d) ready-to-lay poultry or brood-and-move poultry[^c-70dca374b31852868e5c26530931f727] to premises, or part of premises, where no poultry are kept if any licence conditions are met;
 - (e) hatching eggs from the zone–
   - (i) to a designated hatchery; or
   - (ii) to a designated laboratory or institute for use for scientific, diagnostic or pharmaceutical purposes,
@@ -116,12 +116,12 @@ No person shall move any poultry , carcases[^key-195100f6d1fa59f0897ffca16dc6c32
 - (f) eggs to a designated packing centre (if the requirements of paragraph 22 and any additional licence conditions are met);
 - (g) eggs to premises for the manufacture of egg products (if the requirements of paragraph 23 and any additional licence conditions are met);
 - (h) eggs for disposal if any licence conditions are met.
-- (i)[^key-a9bff8d6b833b7eba9a7093f8b6e6ea4] poultry to a location where veterinary assistance of animals takes place for treatment or return to the premises of origin following such a movement,
+- (i)[^c-a9bff8d6b833b7eba9a7093f8b6e6ea4] poultry to a location where veterinary assistance of animals takes place for treatment or return to the premises of origin following such a movement,
 - (j) carcases for disposal or diagnosis if any licence conditions are met.
 
 **17.** Paragraph 16 does not apply to the retail distribution of eggs and movements subsequent to such distribution.
 
-### 18. Requirements for the transport of poultry from premises in the surveillance zone for immediate slaughter at a designated slaughterhouse[^key-d19d7db13b186282b7b52349a41ed7de]
+### 18. Requirements for the transport of poultry from premises in the surveillance zone for immediate slaughter at a designated slaughterhouse[^c-d19d7db13b186282b7b52349a41ed7de]
 
 Poultry must not be moved to a designated slaughterhouse unless—
 
@@ -144,7 +144,7 @@ Hatching eggs must not be moved from the zone to any hatchery, laboratory or ins
 
 Table eggs must not be transported to a designated packing centre unless–
 
-- (a)[^key-97a053c8eec767e25866f41494f42abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-97a053c8eec767e25866f41494f42abb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any person transporting the eggs complies with any biosecurity measures laid down by a veterinary inspector.
 
 ### 23. Requirements for the movement of table eggs to premises for the manufacture of egg products
@@ -155,22 +155,22 @@ Eggs must not be transported to premises for the manufacture of egg products exc
 
 A person who transports any poultry, other captive bird, carcase, feed, manure, slurry, litter or any other thing which may be contaminated must cleanse and disinfect the vehicle and any equipment used to transport that thing as soon as it is unloaded in accordance with article 65.
 
-**25.** A person who enters or leaves premises where poultry or other captive birds are kept[^key-447998e2484fee3703af88f73fa2f223] by vehicle must, without delay, cleanse and disinfect any part of the vehicle which may have been contaminated in accordance with article 65.
+**25.** A person who enters or leaves premises where poultry or other captive birds are kept[^c-447998e2484fee3703af88f73fa2f223] by vehicle must, without delay, cleanse and disinfect any part of the vehicle which may have been contaminated in accordance with article 65.
 
 ## Annotations
 
-[^key-614a21cc67b647bf275617807a556f3c]: Textual amendment: Words in [sch. 5 para. 12](https://www.legislation.gov.uk/ssi/2006/336/schedule/5/paragraph/12) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(19)(a)](https://www.legislation.gov.uk/ssi/2023/361/article/2/19/a)
+[^c-614a21cc67b647bf275617807a556f3c]: Textual amendment: Words in [sch. 5 para. 12](https://www.legislation.gov.uk/ssi/2006/336/schedule/5/paragraph/12) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(19)(a)](https://www.legislation.gov.uk/ssi/2023/361/article/2/19/a)
 
-[^key-9df6d773daf7cc1c1dc905c5fe3b0028]: Textual amendment: Word in [sch. 5 para. 16](https://www.legislation.gov.uk/ssi/2006/336/schedule/5/paragraph/16) heading inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(19)(b)(i)](https://www.legislation.gov.uk/ssi/2023/361/article/2/19/b/i)
+[^c-9df6d773daf7cc1c1dc905c5fe3b0028]: Textual amendment: Word in [sch. 5 para. 16](https://www.legislation.gov.uk/ssi/2006/336/schedule/5/paragraph/16) heading inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(19)(b)(i)](https://www.legislation.gov.uk/ssi/2023/361/article/2/19/b/i)
 
-[^key-195100f6d1fa59f0897ffca16dc6c321]: Textual amendment: Word in [sch. 5 para. 16](https://www.legislation.gov.uk/ssi/2006/336/schedule/5/paragraph/16) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(19)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/361/article/2/19/b/ii)
+[^c-195100f6d1fa59f0897ffca16dc6c321]: Textual amendment: Word in [sch. 5 para. 16](https://www.legislation.gov.uk/ssi/2006/336/schedule/5/paragraph/16) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(19)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/361/article/2/19/b/ii)
 
-[^key-70dca374b31852868e5c26530931f727]: Textual amendment: Words in [sch. 5 para. 16(d)](https://www.legislation.gov.uk/ssi/2006/336/schedule/5/paragraph/16/d) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(19)(b)(iii)](https://www.legislation.gov.uk/ssi/2023/361/article/2/19/b/iii)
+[^c-70dca374b31852868e5c26530931f727]: Textual amendment: Words in [sch. 5 para. 16(d)](https://www.legislation.gov.uk/ssi/2006/336/schedule/5/paragraph/16/d) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(19)(b)(iii)](https://www.legislation.gov.uk/ssi/2023/361/article/2/19/b/iii)
 
-[^key-a9bff8d6b833b7eba9a7093f8b6e6ea4]: Textual amendment: [Sch. 5 para. 16(i)(j)](https://www.legislation.gov.uk/ssi/2006/336/schedule/5/paragraph/16/i/j) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(19)(b)(iv)](https://www.legislation.gov.uk/ssi/2023/361/article/2/19/b/iv)
+[^c-a9bff8d6b833b7eba9a7093f8b6e6ea4]: Textual amendment: [Sch. 5 para. 16(i)(j)](https://www.legislation.gov.uk/ssi/2006/336/schedule/5/paragraph/16/i/j) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(19)(b)(iv)](https://www.legislation.gov.uk/ssi/2023/361/article/2/19/b/iv)
 
-[^key-d19d7db13b186282b7b52349a41ed7de]: Textual amendment: [Sch. 5 para. 18](https://www.legislation.gov.uk/ssi/2006/336/schedule/5/paragraph/18) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(19)(c)](https://www.legislation.gov.uk/ssi/2023/361/article/2/19/c)
+[^c-d19d7db13b186282b7b52349a41ed7de]: Textual amendment: [Sch. 5 para. 18](https://www.legislation.gov.uk/ssi/2006/336/schedule/5/paragraph/18) substituted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(19)(c)](https://www.legislation.gov.uk/ssi/2023/361/article/2/19/c)
 
-[^key-97a053c8eec767e25866f41494f42abb]: Textual amendment: Sch. 5 para. 22(a) omitted (4.12.2021) by virtue of [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/article/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/444/article/2/4)
+[^c-97a053c8eec767e25866f41494f42abb]: Textual amendment: Sch. 5 para. 22(a) omitted (4.12.2021) by virtue of [The Avian Influenza (H5N1 in Birds etc.) (Miscellaneous Amendment and Revocation) (Scotland) Order 2021 (S.S.I. 2021/444)](https://www.legislation.gov.uk/ssi/2021/444), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/444/article/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/444/article/2/4)
 
-[^key-447998e2484fee3703af88f73fa2f223]: Textual amendment: Words in [sch. 5 para. 25](https://www.legislation.gov.uk/ssi/2006/336/schedule/5/paragraph/25) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(11)](https://www.legislation.gov.uk/ssi/2025/108/article/2/11)
+[^c-447998e2484fee3703af88f73fa2f223]: Textual amendment: Words in [sch. 5 para. 25](https://www.legislation.gov.uk/ssi/2006/336/schedule/5/paragraph/25) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(11)](https://www.legislation.gov.uk/ssi/2025/108/article/2/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 26. Costs[^key-550e64df3cdc3580ad5fbe4788f20406]
+## 26. Costs[^c-550e64df3cdc3580ad5fbe4788f20406]
 
 *Extent: E*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-550e64df3cdc3580ad5fbe4788f20406]: Commencement: [S. 26](https://www.legislation.gov.uk/ukcm/2018/3/section/26) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-550e64df3cdc3580ad5fbe4788f20406]: Commencement: [S. 26](https://www.legislation.gov.uk/ukcm/2018/3/section/26) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

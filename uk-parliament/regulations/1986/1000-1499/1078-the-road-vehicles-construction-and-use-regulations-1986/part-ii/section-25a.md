@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25A. Tyre Noise[^key-bc67be1831caa82f61ccc670421ed58e]
+## 25A. Tyre Noise[^c-bc67be1831caa82f61ccc670421ed58e]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc67be1831caa82f61ccc670421ed58e]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/25A) inserted (23.3.2010) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2010 (S.I. 2010/312)](https://www.legislation.gov.uk/uksi/2010/312), [regs. 1](https://www.legislation.gov.uk/uksi/2010/312/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/312/regulation/3)
+[^c-bc67be1831caa82f61ccc670421ed58e]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/25A) inserted (23.3.2010) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2010 (S.I. 2010/312)](https://www.legislation.gov.uk/uksi/2010/312), [regs. 1](https://www.legislation.gov.uk/uksi/2010/312/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/312/regulation/3)

@@ -42,15 +42,15 @@ Coming into operation
 
 The Department of Health[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 15(1)(a), (e) and (f), 16(2), 17(1)(a), 25(1)(a) and (3), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00002].
 
-In accordance with Article 47(3A) of the Food Safety (Northern Ireland) Order 1991, the Department of Health has had regard to relevant advice given by the Food Standards Agency.[^key-e5e82c1c38f29489b53cb20b62c59a90]
+In accordance with Article 47(3A) of the Food Safety (Northern Ireland) Order 1991, the Department of Health has had regard to relevant advice given by the Food Standards Agency.[^c-e5e82c1c38f29489b53cb20b62c59a90]
 
-As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^key-e5e82c1c38f29489b53cb20b62c59a90]
+As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.[^c-e5e82c1c38f29489b53cb20b62c59a90]
 
-## 1. Citation and commencement[^key-63895ee0fd8eb42f9275f1340b3079a9]
+## 1. Citation and commencement[^c-63895ee0fd8eb42f9275f1340b3079a9]
 
 These Regulations may be cited as the Novel Foods Regulations (Northern Ireland) 2017 and come into operation on 1st January 2018.
 
-## 2. Interpretation[^key-88e9597badbb970baf3cb9f695e4783e]
+## 2. Interpretation[^c-88e9597badbb970baf3cb9f695e4783e]
 
 (1) In these Regulations—
 
@@ -60,15 +60,15 @@ These Regulations may be cited as the Novel Foods Regulations (Northern Ireland)
 
 (2) An expression used both in these Regulations and Regulation (EU) 2015/2283 has the meaning that it bears in Regulation (EU) 2015/2283 and any reference to a numbered article is a reference to the article so numbered in Regulation (EU) 2015/2283.
 
-## 3. Enforcement[^key-68a47207fccdcb20cb7c1f95cf14bf0f]
+## 3. Enforcement[^c-68a47207fccdcb20cb7c1f95cf14bf0f]
 
 It is the duty of each district council within its district to enforce Regulation (EU) 2015/2283 and these Regulations.
 
-## 4. Offence and penalty[^key-767e5e4c7f8713d53eca55ab968676c3]
+## 4. Offence and penalty[^c-767e5e4c7f8713d53eca55ab968676c3]
 
 A person who fails to comply with Article 6(2) (Union list of authorised novel foods) as read with Articles 24 and 35(2) of Regulation (EU) 2015/2283 is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 5. Application and modification of provisions of the Order[^key-1bbed1c42e608fb101ba662a722da60a]
+## 5. Application and modification of provisions of the Order[^c-1bbed1c42e608fb101ba662a722da60a]
 
 (1) Articles 9(1) and (2) of the Order (improvement notices) apply for the purposes of these Regulations with the modification (in the case of Article 9(1)) set out in Schedule 2, Part 1 for the purposes of—
 
@@ -84,7 +84,7 @@ A person who fails to comply with Article 6(2) (Union list of authorised novel f
 
 (4) Paragraphs (1) to (3) are without prejudice to the application of the Order to these Regulations for purposes other than those specified in paragraphs (1) and (2).
 
-## 6. Revocations[^key-01f7bd217e59a4d2263a516f6eccee4f]
+## 6. Revocations[^c-01f7bd217e59a4d2263a516f6eccee4f]
 
 The following regulations are revoked—
 
@@ -97,7 +97,7 @@ Richard Pengelly
 
 A senior officer of the Department of Health
 
-## SCHEDULE 1 — Specified EU Provisions[^key-c92448c1da9e885b940f4b4a4bdc6134]
+## SCHEDULE 1 — Specified EU Provisions[^c-c92448c1da9e885b940f4b4a4bdc6134]
 
 Regulation 2(1)
 
@@ -113,7 +113,7 @@ Regulation 5
 
 ### PART 1 — Modification of Article 9(1)
 
-**1.**[^key-1c84ba811c39319dfa44397b3d48660c] For Article 9(1) of the Order (improvement notices) substitute—
+**1.**[^c-1c84ba811c39319dfa44397b3d48660c] For Article 9(1) of the Order (improvement notices) substitute—
 
 > (1) If an authorised officer has reasonable grounds for believing that a person is failing to comply with any provision specified in Schedule 1 to the Novel Foods Regulations (Northern Ireland) 2017, the authorised officer may, by a notice served on that person (in this Order referred to as an “improvement notice”) —
 >
@@ -126,7 +126,7 @@ Regulation 5
 
 ### PART 2 — Modification of Article 8
 
-**2.**[^key-338257a099dc14451a158e8cdf64cf39] For Article 8 (inspection and seizure of suspected food) substitute—
+**2.**[^c-338257a099dc14451a158e8cdf64cf39] For Article 8 (inspection and seizure of suspected food) substitute—
 
 > (1) This Article applies where it appears to an authorised officer that Article 6(2) of Regulation (EU) 2015/2283 is being, or has been contravened in relation to any food which has been placed on the market.
 >
@@ -159,7 +159,7 @@ Regulation 5
 
 .
 
-### PART 3 — Application and modification of other provisions of the Order[^key-e245b608b691f4e2681728d6521d0ae7]
+### PART 3 — Application and modification of other provisions of the Order[^c-e245b608b691f4e2681728d6521d0ae7]
 
 | *Column 1*<br>*Provision of the Order* | *Column 2*<br>*Modifications* |
 | --- | --- |
@@ -195,32 +195,32 @@ These Regulations —
 
 [^f00002]: Footnote: [S.I. 1991/762 (N.I.7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996/1663 (N.I.12)](https://www.legislation.gov.uk/nisi/1996/1663), paragraphs 26 to 42 of Schedule 5 and Schedule 6 to the Food Standards Act [1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28) and S.R. 2004 Nos.[482](https://www.legislation.gov.uk/nisr/2004/482) and [505](https://www.legislation.gov.uk/nisr/2004/505)
 
-[^key-e5e82c1c38f29489b53cb20b62c59a90]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2017/233) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-e5e82c1c38f29489b53cb20b62c59a90]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2017/233) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
 [^f00003]: Footnote: OJ No. L 31, 1.2.2002, p.1 as last amended by Regulation (EU) No. 652/2014 of the European Parliament and of the Council of 15<sup>th</sup> May 2014 (OJ No. L 189, 27.6.2014, p.1)
 
-[^key-63895ee0fd8eb42f9275f1340b3079a9]: Commencement: Reg. 1 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
+[^c-63895ee0fd8eb42f9275f1340b3079a9]: Commencement: Reg. 1 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
 
-[^key-88e9597badbb970baf3cb9f695e4783e]: Commencement: Reg. 2 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
+[^c-88e9597badbb970baf3cb9f695e4783e]: Commencement: Reg. 2 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
 
 [^f00004]: Footnote: OJ No. L 327, 11.12.2015, p.1
 
-[^key-68a47207fccdcb20cb7c1f95cf14bf0f]: Commencement: Reg. 3 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
+[^c-68a47207fccdcb20cb7c1f95cf14bf0f]: Commencement: Reg. 3 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
 
-[^key-767e5e4c7f8713d53eca55ab968676c3]: Commencement: Reg. 4 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
+[^c-767e5e4c7f8713d53eca55ab968676c3]: Commencement: Reg. 4 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
 
-[^key-1bbed1c42e608fb101ba662a722da60a]: Commencement: Reg. 5 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
+[^c-1bbed1c42e608fb101ba662a722da60a]: Commencement: Reg. 5 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
 
-[^key-01f7bd217e59a4d2263a516f6eccee4f]: Commencement: Reg. 6 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
+[^c-01f7bd217e59a4d2263a516f6eccee4f]: Commencement: Reg. 6 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2004 No.33](https://www.legislation.gov.uk/nisr/2004/33)
 
 [^f00006]: Footnote: [S.R. 2009 No.415](https://www.legislation.gov.uk/nisr/2009/415)
 
-[^key-c92448c1da9e885b940f4b4a4bdc6134]: Commencement: Sch. 1 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
+[^c-c92448c1da9e885b940f4b4a4bdc6134]: Commencement: Sch. 1 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
 
-[^key-1c84ba811c39319dfa44397b3d48660c]: Commencement: Sch. 2 para. 1 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
+[^c-1c84ba811c39319dfa44397b3d48660c]: Commencement: Sch. 2 para. 1 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
 
-[^key-338257a099dc14451a158e8cdf64cf39]: Commencement: Sch. 2 para. 2 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
+[^c-338257a099dc14451a158e8cdf64cf39]: Commencement: Sch. 2 para. 2 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
 
-[^key-e245b608b691f4e2681728d6521d0ae7]: Commencement: Sch. 2 Pt. 3 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)
+[^c-e245b608b691f4e2681728d6521d0ae7]: Commencement: Sch. 2 Pt. 3 in operation at 1.1.2018, see [reg. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. New name and functions of audit committees[^key-2149295c91af04b1d39899d663e0d706]
+## 115. New name and functions of audit committees[^c-2149295c91af04b1d39899d663e0d706]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2149295c91af04b1d39899d663e0d706]: Commencement: S. 115 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)
+[^c-2149295c91af04b1d39899d663e0d706]: Commencement: S. 115 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

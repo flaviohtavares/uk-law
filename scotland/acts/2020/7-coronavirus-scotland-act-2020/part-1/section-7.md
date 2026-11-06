@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Functioning of public bodies[^key-c65c298b895ba12cada397862e7f54f3]
+## 7. Functioning of public bodies[^c-c65c298b895ba12cada397862e7f54f3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c65c298b895ba12cada397862e7f54f3]: Textual amendment: [S. 7](https://www.legislation.gov.uk/asp/2020/7/section/7) expires (1.10.2022) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/7/section/12/1) (with saving in [S.S.I. 2022/261](https://www.legislation.gov.uk/ssi/2022/261), [regs. 1](https://www.legislation.gov.uk/ssi/2022/261/regulation/1), [13](https://www.legislation.gov.uk/ssi/2022/261/regulation/13))
+[^c-c65c298b895ba12cada397862e7f54f3]: Textual amendment: [S. 7](https://www.legislation.gov.uk/asp/2020/7/section/7) expires (1.10.2022) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/7/section/12/1) (with saving in [S.S.I. 2022/261](https://www.legislation.gov.uk/ssi/2022/261), [regs. 1](https://www.legislation.gov.uk/ssi/2022/261/regulation/1), [13](https://www.legislation.gov.uk/ssi/2022/261/regulation/13))

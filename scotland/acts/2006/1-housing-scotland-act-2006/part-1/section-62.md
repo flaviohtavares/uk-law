@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Service of documents[^key-edc38dc235cd52f45750edc551fc99fc]
+## 62. Service of documents[^c-edc38dc235cd52f45750edc551fc99fc]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ and the document is to be treated as being served or, as the case may be, made o
 
 ## Annotations
 
-[^key-edc38dc235cd52f45750edc551fc99fc]: Commencement: S. 62 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-edc38dc235cd52f45750edc551fc99fc]: Commencement: S. 62 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

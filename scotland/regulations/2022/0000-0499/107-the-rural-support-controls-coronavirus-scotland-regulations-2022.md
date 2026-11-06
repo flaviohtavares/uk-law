@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred on them by Article 62(2)(a) and (b) of [Regulation (EU) No. 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council of 13 December 2013 on the financing, management and monitoring of the common agricultural policy[^f00001], section 2 of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020[^f00002], and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-a4f0b3f1a86b70bd2fcf5cb25e50f9c6]
+## 1. Citation and commencement[^c-a4f0b3f1a86b70bd2fcf5cb25e50f9c6]
 
 These Regulations may be cited as the Rural Support (Controls) (Coronavirus) (Scotland) Regulations 2022 and come into force on 19 May 2022.
 
-## 2. Amendment of the Horizontal Regulation[^key-e694ee4943e9e035fadaca904e9dfeca]
+## 2. Amendment of the Horizontal Regulation[^c-e694ee4943e9e035fadaca904e9dfeca]
 
 (1) [Regulation (EU) No. 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306)[^f00003] is amended as follows.
 
@@ -60,9 +60,9 @@ These Regulations may be cited as the Rural Support (Controls) (Coronavirus) (Sc
 
 .
 
-## 3. Amendment of Commission Implementing [Regulation (EU) No. 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809)[^key-ab0cd232a2a693c9dcfc85207cae3e05]
+## 3. Amendment of Commission Implementing [Regulation (EU) No. 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809)[^c-ab0cd232a2a693c9dcfc85207cae3e05]
 
-(1) Commission Implementing [Regulation (EU) No. 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809) [^f00004] of 17 July 2014 laying down rules for the application of[^key-18624cecefdc954f2e2f3199568ffbfe] [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance is amended in accordance with paragraphs (2) to (7).
+(1) Commission Implementing [Regulation (EU) No. 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809) [^f00004] of 17 July 2014 laying down rules for the application of[^c-18624cecefdc954f2e2f3199568ffbfe] [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance is amended in accordance with paragraphs (2) to (7).
 
 (2) In Article 24(4), for the sub-paragraph beginning “By way of derogation from the first-sub-paragraph” substitute—
 
@@ -134,14 +134,14 @@ A Business and Regulatory Impact Assessment has been prepared. Copies may be obt
 
 [^f00002]: Footnote: [2020 asp 17](https://www.legislation.gov.uk/asp/2020/17).
 
-[^key-a4f0b3f1a86b70bd2fcf5cb25e50f9c6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/107/regulation/1) in force at 19.5.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/107/regulation/1)
+[^c-a4f0b3f1a86b70bd2fcf5cb25e50f9c6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/107/regulation/1) in force at 19.5.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/107/regulation/1)
 
-[^key-e694ee4943e9e035fadaca904e9dfeca]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/107/regulation/2) in force at 19.5.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/107/regulation/1)
+[^c-e694ee4943e9e035fadaca904e9dfeca]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/107/regulation/2) in force at 19.5.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/107/regulation/1)
 
 [^f00003]: Footnote: EUR 2013/1306 (“**the Horizontal Regulation**”) was incorporated into domestic law on exit day by section 1 of the Direct Payments to Farmers (Legislative Continuity) Act [2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2), insofar as it relates to direct payment support. Insofar as it relates to agricultural support, the Horizontal Regulation was incorporated into domestic law on IP completion day by section 3 of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16). The Horizontal Regulation was relevantly amended in relation to direct payment support by [S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90) and in relation to agricultural support by [S.I. 2019/748](https://www.legislation.gov.uk/uksi/2019/748), [S.I. 2019/763](https://www.legislation.gov.uk/uksi/2019/763) and [S.S.I. 2021/72](https://www.legislation.gov.uk/ssi/2021/72). Regulation 2 of [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445) makes further provision in respect of the effect of the Horizontal Regulation on IP completion day. The term “**appropriate authority**” in relation to Scotland means the Scottish Ministers as per Article 2(1)(m), as read with Article 2(1)(k) of the Horizontal Regulation. Due to a drafting error in [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445) the definition of “appropriate authority” in Article 2(1)(m) was not inserted into the Horizontal Regulation, insofar as it relates to agricultural support, on IP completion day. This error was corrected and the definition later inserted by [S.I. 2022/190](https://www.legislation.gov.uk/uksi/2022/190).
 
-[^key-ab0cd232a2a693c9dcfc85207cae3e05]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/107/regulation/3) in force at 19.5.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/107/regulation/1)
+[^c-ab0cd232a2a693c9dcfc85207cae3e05]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/107/regulation/3) in force at 19.5.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/107/regulation/1)
 
 [^f00004]: Footnote: EUR 2014/809. This Regulation was incorporated into domestic law on exit day by section 1 of the Direct Payments to Farmers (Legislative Continuity) Act 2020, insofar as it relates to direct payment support. Insofar as it relates to agricultural support, this Regulation was incorporated into domestic law on IP completion day by section 3 of the European Union (Withdrawal) Act 2018. The Regulation was relevantly amended, in relation to direct payment support, by [S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90), [S.S.I 2020/244](https://www.legislation.gov.uk/ssi/2020/244), [S.S.I. 2020/349](https://www.legislation.gov.uk/ssi/2020/349) and [S.S.I. 2020/460](https://www.legislation.gov.uk/ssi/2020/460). The Regulation was relevantly amended, in relation to agricultural support, by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765) and [S.S.I. 2020/349](https://www.legislation.gov.uk/ssi/2020/349).
 
-[^key-18624cecefdc954f2e2f3199568ffbfe]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2022/107/regulation/3/1) inserted (18.9.2022) by [The Rural Support (Simplification and Improvement) (Scotland) Regulations 2022 (S.S.I. 2022/206)](https://www.legislation.gov.uk/ssi/2022/206), [regs. 1](https://www.legislation.gov.uk/ssi/2022/206/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/206/regulation/3)
+[^c-18624cecefdc954f2e2f3199568ffbfe]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2022/107/regulation/3/1) inserted (18.9.2022) by [The Rural Support (Simplification and Improvement) (Scotland) Regulations 2022 (S.S.I. 2022/206)](https://www.legislation.gov.uk/ssi/2022/206), [regs. 1](https://www.legislation.gov.uk/ssi/2022/206/regulation/1), [3](https://www.legislation.gov.uk/ssi/2022/206/regulation/3)

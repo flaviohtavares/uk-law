@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49A. Special provisions in respect of exporting certain products to member States[^key-912f47c74cb0058e5445d41b033b989e]
+## 49A. Special provisions in respect of exporting certain products to member States[^c-912f47c74cb0058e5445d41b033b989e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-912f47c74cb0058e5445d41b033b989e]: Textual amendment: S. 49A repealed (30.10.2005) by [The Medicines for Human Use (Manufacturing, Wholesale Dealing and Miscellaneous Amendments) Regulations 2005 (S.I. 2005/2789)](https://www.legislation.gov.uk/uksi/2005/2789), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2789/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2005/2789/schedule/5/paragraph/6) (with [Sch. 6](https://www.legislation.gov.uk/uksi/2005/2789/schedule/6))
+[^c-912f47c74cb0058e5445d41b033b989e]: Textual amendment: S. 49A repealed (30.10.2005) by [The Medicines for Human Use (Manufacturing, Wholesale Dealing and Miscellaneous Amendments) Regulations 2005 (S.I. 2005/2789)](https://www.legislation.gov.uk/uksi/2005/2789), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/2789/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2005/2789/schedule/5/paragraph/6) (with [Sch. 6](https://www.legislation.gov.uk/uksi/2005/2789/schedule/6))

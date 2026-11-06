@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Non-receipt of notice of meeting[^key-b2f97db0259099d20c3f5aa3865adfb1]
+## 40. Non-receipt of notice of meeting[^c-b2f97db0259099d20c3f5aa3865adfb1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where, in accordance with the Regulations or these Rules, a meeting is called by
 
 ## Annotations
 
-[^key-b2f97db0259099d20c3f5aa3865adfb1]: Commencement: Rule 40 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-b2f97db0259099d20c3f5aa3865adfb1]: Commencement: Rule 40 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

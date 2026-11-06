@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Offences in connection with powers to enter land[^key-0cb45fd274c08a6d3e208f76a45cde19][^key-6c008554d29cd6f345381c628503917a][^key-dbcbdf7e5e9623f4ab27bdb9766e8ef4]
+## 177. Offences in connection with powers to enter land[^c-0cb45fd274c08a6d3e208f76a45cde19][^c-6c008554d29cd6f345381c628503917a][^c-dbcbdf7e5e9623f4ab27bdb9766e8ef4]
 
 *Extent: E+W*
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0cb45fd274c08a6d3e208f76a45cde19]: Commencement: [S. 177](https://www.legislation.gov.uk/ukpga/2016/22/section/177) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h)
+[^c-0cb45fd274c08a6d3e208f76a45cde19]: Commencement: [S. 177](https://www.legislation.gov.uk/ukpga/2016/22/section/177) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h)
 
-[^key-6c008554d29cd6f345381c628503917a]: Modification: [S. 177](https://www.legislation.gov.uk/ukpga/2016/22/section/177) applied (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/8/2)[(3)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/8/3)
+[^c-6c008554d29cd6f345381c628503917a]: Modification: [S. 177](https://www.legislation.gov.uk/ukpga/2016/22/section/177) applied (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/8/2)[(3)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/8/3)
 
-[^key-dbcbdf7e5e9623f4ab27bdb9766e8ef4]: Modification: [S. 177](https://www.legislation.gov.uk/ukpga/2016/22/section/177) applied (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/1/5)[(6)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/1/6)
+[^c-dbcbdf7e5e9623f4ab27bdb9766e8ef4]: Modification: [S. 177](https://www.legislation.gov.uk/ukpga/2016/22/section/177) applied (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/1/5)[(6)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/2/paragraph/1/6)

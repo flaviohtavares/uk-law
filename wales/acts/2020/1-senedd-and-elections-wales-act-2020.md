@@ -474,9 +474,9 @@ In section 9 of the 1983 Act (registers of electors), after subsection (5) inser
 
   relating to a person who, at the time of the publication, supply or other disclosure, is under the age of 16, and “young person” is to be interpreted accordingly;
 - “**absent voters record or list**” (“***cofnod neu restr o bleidleiswyr absennol***”) means any of the following—
-  - (a) a record kept under article 6(4), 7(7) or 10(6) of the 2025 Order[^key-20cc926d4bd12cb561ec6235a77bea1e];
-  - (b) a list kept under article 8 or 10(8) of the 2025 Order[^key-a3385ed13c79fd5a385e49b7898c8ca3];
-  - (c) so far as relating to local government elections, a record kept under paragraph 3(4) or 7(6) of Schedule 4 to the[^key-a15508909c6698853b6d7983c8401556] [Representation of the People Act 2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2) (absent voting);
+  - (a) a record kept under article 6(4), 7(7) or 10(6) of the 2025 Order[^c-20cc926d4bd12cb561ec6235a77bea1e];
+  - (b) a list kept under article 8 or 10(8) of the 2025 Order[^c-a3385ed13c79fd5a385e49b7898c8ca3];
+  - (c) so far as relating to local government elections, a record kept under paragraph 3(4) or 7(6) of Schedule 4 to the[^c-a15508909c6698853b6d7983c8401556] [Representation of the People Act 2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2) (absent voting);
   - (d) so far as relating to local government elections, a list kept under paragraph 5 or 7(8) of that Schedule;
 - “**register of local government electors**” (“***cofrestr o etholwyr llywodraeth leol***”) includes any notice of an alteration in the register under section 13A(2), 13AB(2) or 13B(3), (3B) or (3D) of the 1983 Act;
 - “**registration officer**” (“***swyddog cofrestru***”) includes—
@@ -484,7 +484,7 @@ In section 9 of the 1983 Act (registers of electors), after subsection (5) inser
   - (b) a person appointed to assist a registration officer in the carrying out of the registration officer's functions;
   - (c) a person, in the course of the person's employment, assisting a registration officer in the carrying out of those functions.
 
-(3)[^key-08b3a89712848d248722490f1bad0662] In sections 25 and 26, “local government election” means—
+(3)[^c-08b3a89712848d248722490f1bad0662] In sections 25 and 26, “local government election” means—
 
 - (a) an election of councillors for any electoral ward or community ward in Wales or, in the case of a community in Wales in which there are no wards, the community, for which the election of councillors is held under the [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), or
 - (b) an election for the return of an elected mayor (within the meaning of section 39(1) of the [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22)) of a local authority in Wales.
@@ -498,18 +498,18 @@ In section 9 of the 1983 Act (registers of electors), after subsection (5) inser
 - (a) the registration of electors, or
 - (b) the conduct of an election.
 
-(3) A young person's information may be disclosed in accordance with regulation 32ZBD(9) and (9A)[^key-33a7a47d86f21d3e4573e28f4c714128] of the 2001 Regulations (pre-population of the canvass form).
+(3) A young person's information may be disclosed in accordance with regulation 32ZBD(9) and (9A)[^c-33a7a47d86f21d3e4573e28f4c714128] of the 2001 Regulations (pre-population of the canvass form).
 
 (4) A young person's information (other than any information by which the person's date of birth may be ascertained) may be disclosed in a version or copy of the register of local government electors or an absent voters record or list supplied in accordance with a relevant supply enactment, but only so far as it is necessary to do so for the purposes of or in connection with an election at which the young person will be entitled to vote.
 
 (5) In subsection (4), “**relevant supply enactment**” means—
 
 - (a) regulation 100 of the 2001 Regulations (supply to the Electoral Commission);
-- (b) regulation 104 of the 2001 Regulations (supply to holders of relevant elective offices and candidates), so far as applying to a Member of the Senedd , a member of a local authority in Wales, an elected mayor of a local authority in Wales or candidates at local government election[^key-6939bc2e176de41eb5a5d8ea79de5d34];
-- (c) regulation 108 of the 2001 Regulations (supply to candidates), so far as applying to candidates at Senedd elections or local government elections[^key-c86379bdaede17698cc5cfbe8a0dae88];
+- (b) regulation 104 of the 2001 Regulations (supply to holders of relevant elective offices and candidates), so far as applying to a Member of the Senedd , a member of a local authority in Wales, an elected mayor of a local authority in Wales or candidates at local government election[^c-6939bc2e176de41eb5a5d8ea79de5d34];
+- (c) regulation 108 of the 2001 Regulations (supply to candidates), so far as applying to candidates at Senedd elections or local government elections[^c-c86379bdaede17698cc5cfbe8a0dae88];
 - (d) regulation 102 of the 2001 Regulations (general provision), so far as relating to regulations 104 and 108;
-- (e)[^key-dd1196571daf3c7e4b0c758c76092194] regulation 61 of the 2001 regulations (absent voters records or lists) so far as applying to local government elections and any enactment making provision equivalent to that regulation in relation to Senedd elections;
-- (f)[^key-f6eabf9f50807c5b8751e8b3ddcec6ad] regulation 98 of the 2001 regulations (supply to returning officers) so far as applying to returning officers of community councils and returning officers for any Senedd elections and any enactment making provision equivalent to regulation 98(4) in relation to Senedd elections.
+- (e)[^c-dd1196571daf3c7e4b0c758c76092194] regulation 61 of the 2001 regulations (absent voters records or lists) so far as applying to local government elections and any enactment making provision equivalent to that regulation in relation to Senedd elections;
+- (f)[^c-f6eabf9f50807c5b8751e8b3ddcec6ad] regulation 98 of the 2001 regulations (supply to returning officers) so far as applying to returning officers of community councils and returning officers for any Senedd elections and any enactment making provision equivalent to regulation 98(4) in relation to Senedd elections.
 
 (6) A young person's information may be disclosed to any person so far as necessary for the purposes of a criminal investigation or criminal proceedings relating to an offence (or alleged offence) under any enactment relating to—
 
@@ -528,7 +528,7 @@ In section 9 of the 1983 Act (registers of electors), after subsection (5) inser
 
 #### 26. Further provision for exceptions
 
-(1) The Welsh Ministers may by regulations make provision for or about the disclosure of a young person's information in connection with elections to the Senedd , local government elections or local referendums[^key-2b65a5b51c35397d11e0fbe7ee438383].
+(1) The Welsh Ministers may by regulations make provision for or about the disclosure of a young person's information in connection with elections to the Senedd , local government elections or local referendums[^c-2b65a5b51c35397d11e0fbe7ee438383].
 
 (2) Regulations under subsection (1) may (among other things) include provision—
 
@@ -550,12 +550,12 @@ In section 9 of the 1983 Act (registers of electors), after subsection (5) inser
 
 (4) Before making regulations under subsection (1), the Welsh Ministers must consult such persons as the Welsh Ministers consider appropriate.
 
-(5)[^key-da711ef6b71d41ed50f99fcae49988b3] In this section, “local referendum” means a referendum held under—
+(5)[^c-da711ef6b71d41ed50f99fcae49988b3] In this section, “local referendum” means a referendum held under—
 
 - (a) section 27 of the [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22) or by virtue of regulations or an order made under Part 2 of that Act, or
 - (b) section 40 of the [Local Government (Wales) Measure 2011 (nawm 2)](https://www.legislation.gov.uk/mwa/2011/2).
 
-#### 27. Amendments to the National Assembly for Wales (Representation of the People) Order 2007[^key-51a5c4d4158250cd797d8a5157619544]
+#### 27. Amendments to the National Assembly for Wales (Representation of the People) Order 2007[^c-51a5c4d4158250cd797d8a5157619544]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -978,8 +978,8 @@ In this Act—
 - “**1983 Act**” (“***Deddf 1983***”) means the Representation of the People Act 1983 (c. 2);
 - “**2001 Regulations**” (“***Rheoliadau 2001***”) means the Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341);
 - “**2006 Act**” (“***Deddf 2006***”) means the Government of Wales Act 2006 (c. 32);
-- [^key-9d8ce7dd3b45eb47ca1796061254071c]...
-- “[^key-2538c7af9430f61f9d517811c7baa88d]**2025 Order**” (“***Gorchymyn 2025***”) means the Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864) (W. 150);
+- [^c-9d8ce7dd3b45eb47ca1796061254071c]...
+- “[^c-2538c7af9430f61f9d517811c7baa88d]**2025 Order**” (“***Gorchymyn 2025***”) means the Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864) (W. 150);
 - “**enactment**” (“***deddfiad***”) means an enactment whenever enacted or made;
 - “**registration officer**” (“***swyddog cofrestru***”) means a registration officer appointed by a local authority under section 8(2A) of the 1983 Act;
 - “**Senedd**” means Senedd Cymru.
@@ -1083,11 +1083,11 @@ The short title of this Act is the Senedd and Elections (Wales) Act 2020.
 
   > |  |  |
   > | --- | --- |
-  > | [^key-6b28714444e9f8e8242f3e9e9e923279]. . . | [^key-6b28714444e9f8e8242f3e9e9e923279]. . . |
+  > | [^c-6b28714444e9f8e8242f3e9e9e923279]. . . | [^c-6b28714444e9f8e8242f3e9e9e923279]. . . |
 
   > |  |  |
   > | --- | --- |
-  > | [^key-e71807d3dcf2921383fc8a7de649069d]. . . | [^key-e71807d3dcf2921383fc8a7de649069d]. . . |
+  > | [^c-e71807d3dcf2921383fc8a7de649069d]. . . | [^c-e71807d3dcf2921383fc8a7de649069d]. . . |
 
   > |  |  |
   > | --- | --- |
@@ -1095,7 +1095,7 @@ The short title of this Act is the Senedd and Elections (Wales) Act 2020.
 
   > |  |  |
   > | --- | --- |
-  > | [^key-cba63cdd633f8af956c75a1e857ceaf8]. . . | [^key-cba63cdd633f8af956c75a1e857ceaf8]. . . |
+  > | [^c-cba63cdd633f8af956c75a1e857ceaf8]. . . | [^c-cba63cdd633f8af956c75a1e857ceaf8]. . . |
 
   > |  |  |
   > | --- | --- |
@@ -1249,9 +1249,9 @@ The short title of this Act is the Senedd and Elections (Wales) Act 2020.
 - (c) section 25(1)(b);
 - (d) section 26(1)(b).
 
-(5)[^key-505ffade222d759272667a86a9f5506d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-505ffade222d759272667a86a9f5506d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-505ffade222d759272667a86a9f5506d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-505ffade222d759272667a86a9f5506d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In the Table in Schedule 1—
 
@@ -1631,40 +1631,40 @@ This Schedule sets out the new Schedule 1A to the 2006 Act, to be inserted befor
 
 ## Annotations
 
-[^key-20cc926d4bd12cb561ec6235a77bea1e]: Textual amendment: Words in [s. 24(2)](https://www.legislation.gov.uk/anaw/2020/1/section/24/2) substituted (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 11 para. 1(2)(a)](https://www.legislation.gov.uk/wsi/2025/864/schedule/11/paragraph/1/2/a) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
+[^c-20cc926d4bd12cb561ec6235a77bea1e]: Textual amendment: Words in [s. 24(2)](https://www.legislation.gov.uk/anaw/2020/1/section/24/2) substituted (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 11 para. 1(2)(a)](https://www.legislation.gov.uk/wsi/2025/864/schedule/11/paragraph/1/2/a) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
 
-[^key-a3385ed13c79fd5a385e49b7898c8ca3]: Textual amendment: Words in [s. 24(2)](https://www.legislation.gov.uk/anaw/2020/1/section/24/2) substituted (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 11 para. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/864/schedule/11/paragraph/1/2/b) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
+[^c-a3385ed13c79fd5a385e49b7898c8ca3]: Textual amendment: Words in [s. 24(2)](https://www.legislation.gov.uk/anaw/2020/1/section/24/2) substituted (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 11 para. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/864/schedule/11/paragraph/1/2/b) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
 
-[^key-a15508909c6698853b6d7983c8401556]: Textual amendment: Words in s. 24(2) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(2)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/2/a) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
+[^c-a15508909c6698853b6d7983c8401556]: Textual amendment: Words in s. 24(2) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(2)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/2/a) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
 
-[^key-08b3a89712848d248722490f1bad0662]: Textual amendment: S. 24(3) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(2)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/2/b) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
+[^c-08b3a89712848d248722490f1bad0662]: Textual amendment: S. 24(3) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(2)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/2/b) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
 
-[^key-33a7a47d86f21d3e4573e28f4c714128]: Textual amendment: Words in s. 25(3) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(3)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/3/a) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
+[^c-33a7a47d86f21d3e4573e28f4c714128]: Textual amendment: Words in s. 25(3) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(3)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/3/a) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
 
-[^key-6939bc2e176de41eb5a5d8ea79de5d34]: Textual amendment: Words in s. 25(5)(b) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(3)(b)(i)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/3/b/i) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
+[^c-6939bc2e176de41eb5a5d8ea79de5d34]: Textual amendment: Words in s. 25(5)(b) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(3)(b)(i)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/3/b/i) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
 
-[^key-c86379bdaede17698cc5cfbe8a0dae88]: Textual amendment: Words in s. 25(5)(c) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(3)(b)(ii)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/3/b/ii) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
+[^c-c86379bdaede17698cc5cfbe8a0dae88]: Textual amendment: Words in s. 25(5)(c) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(3)(b)(ii)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/3/b/ii) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
 
-[^key-dd1196571daf3c7e4b0c758c76092194]: Textual amendment: S. 25(5)(e) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(3)(b)(iii)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/3/b/iii) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
+[^c-dd1196571daf3c7e4b0c758c76092194]: Textual amendment: S. 25(5)(e) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(3)(b)(iii)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/3/b/iii) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
 
-[^key-f6eabf9f50807c5b8751e8b3ddcec6ad]: Textual amendment: S. 25(5)(f) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(3)(b)(iv)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/3/b/iv) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
+[^c-f6eabf9f50807c5b8751e8b3ddcec6ad]: Textual amendment: S. 25(5)(f) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(3)(b)(iv)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/3/b/iv) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
 
-[^key-2b65a5b51c35397d11e0fbe7ee438383]: Textual amendment: Words in s. 26(1) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(4)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/4/a) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
+[^c-2b65a5b51c35397d11e0fbe7ee438383]: Textual amendment: Words in s. 26(1) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(4)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/4/a) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
 
-[^key-da711ef6b71d41ed50f99fcae49988b3]: Textual amendment: S. 26(5) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(4)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/4/b) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
+[^c-da711ef6b71d41ed50f99fcae49988b3]: Textual amendment: S. 26(5) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 15(4)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/15/4/b) (with [s. 3](https://www.legislation.gov.uk/asc/2021/1/section/3))
 
-[^key-51a5c4d4158250cd797d8a5157619544]: Textual amendment: [S. 27](https://www.legislation.gov.uk/anaw/2020/1/section/27) omitted (18.7.2025) by virtue of [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 11 para. 1(3)](https://www.legislation.gov.uk/wsi/2025/864/schedule/11/paragraph/1/3) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
+[^c-51a5c4d4158250cd797d8a5157619544]: Textual amendment: [S. 27](https://www.legislation.gov.uk/anaw/2020/1/section/27) omitted (18.7.2025) by virtue of [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 11 para. 1(3)](https://www.legislation.gov.uk/wsi/2025/864/schedule/11/paragraph/1/3) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
 
 [^c23982421]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2020/1/section/36) in force on the day of the first Senedd election at which the poll is held on or after 5.4.2021 see [s. 42(5)](https://www.legislation.gov.uk/anaw/2020/1/section/42/5)
 
-[^key-9d8ce7dd3b45eb47ca1796061254071c]: Textual amendment: Words in [s. 41](https://www.legislation.gov.uk/anaw/2020/1/section/41) omitted (18.7.2025) by virtue of [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 11 para. 1(4)(a)](https://www.legislation.gov.uk/wsi/2025/864/schedule/11/paragraph/1/4/a) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
+[^c-9d8ce7dd3b45eb47ca1796061254071c]: Textual amendment: Words in [s. 41](https://www.legislation.gov.uk/anaw/2020/1/section/41) omitted (18.7.2025) by virtue of [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 11 para. 1(4)(a)](https://www.legislation.gov.uk/wsi/2025/864/schedule/11/paragraph/1/4/a) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
 
-[^key-2538c7af9430f61f9d517811c7baa88d]: Textual amendment: Words in [s. 41](https://www.legislation.gov.uk/anaw/2020/1/section/41) inserted (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 11 para. 1(4)(b)](https://www.legislation.gov.uk/wsi/2025/864/schedule/11/paragraph/1/4/b) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
+[^c-2538c7af9430f61f9d517811c7baa88d]: Textual amendment: Words in [s. 41](https://www.legislation.gov.uk/anaw/2020/1/section/41) inserted (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 11 para. 1(4)(b)](https://www.legislation.gov.uk/wsi/2025/864/schedule/11/paragraph/1/4/b) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
 
-[^key-6b28714444e9f8e8242f3e9e9e923279]: Textual amendment: Words in [Sch. 1 para. 2(8)(c)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/8/c) omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(15)(a)](https://www.legislation.gov.uk/asc/2024/4/section/10/15/a), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
+[^c-6b28714444e9f8e8242f3e9e9e923279]: Textual amendment: Words in [Sch. 1 para. 2(8)(c)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/8/c) omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(15)(a)](https://www.legislation.gov.uk/asc/2024/4/section/10/15/a), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
 
-[^key-e71807d3dcf2921383fc8a7de649069d]: Textual amendment: Words in [Sch. 1 para. 2(8)(c)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/8/c) omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(15)(b)](https://www.legislation.gov.uk/asc/2024/4/section/10/15/b), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
+[^c-e71807d3dcf2921383fc8a7de649069d]: Textual amendment: Words in [Sch. 1 para. 2(8)(c)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/8/c) omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(15)(b)](https://www.legislation.gov.uk/asc/2024/4/section/10/15/b), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
 
-[^key-cba63cdd633f8af956c75a1e857ceaf8]: Textual amendment: Words in [Sch. 1 para. 2(8)(c)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/8/c) omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(15)(c)](https://www.legislation.gov.uk/asc/2024/4/section/10/15/c), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
+[^c-cba63cdd633f8af956c75a1e857ceaf8]: Textual amendment: Words in [Sch. 1 para. 2(8)(c)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/8/c) omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 10(15)(c)](https://www.legislation.gov.uk/asc/2024/4/section/10/15/c), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
 
-[^key-505ffade222d759272667a86a9f5506d]: Textual amendment: [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/5/5)[(6)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/5/6) omitted (1.1.2026) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4), [Sch. 3 para. 16](https://www.legislation.gov.uk/asc/2025/3/schedule/3/paragraph/16); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/e)
+[^c-505ffade222d759272667a86a9f5506d]: Textual amendment: [Sch. 1 para. 5(5)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/5/5)[(6)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/5/6) omitted (1.1.2026) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4), [Sch. 3 para. 16](https://www.legislation.gov.uk/asc/2025/3/schedule/3/paragraph/16); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/e)

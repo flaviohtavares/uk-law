@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule 6 — Disqualification from driving[^key-8e893c57e5f8a6af680f5cf43fc42440][^key-ac715af4e6ba1ccd3b8c6a01424b0ee0]
+## Schedule 6 — Disqualification from driving[^c-8e893c57e5f8a6af680f5cf43fc42440][^c-ac715af4e6ba1ccd3b8c6a01424b0ee0]
 
 *Extent: E+W+S*
 
 Section 96
 
-[^key-8e893c57e5f8a6af680f5cf43fc42440][^key-ac715af4e6ba1ccd3b8c6a01424b0ee0]
+[^c-8e893c57e5f8a6af680f5cf43fc42440][^c-ac715af4e6ba1ccd3b8c6a01424b0ee0]
 
 The Schedule to be inserted in the Social Security Administration Act 1992 after Schedule 3ZA (inserted by section 95(3) of this Act) is—
 
@@ -192,6 +192,6 @@ The Schedule to be inserted in the Social Security Administration Act 1992 after
 
 ## Annotations
 
-[^key-8e893c57e5f8a6af680f5cf43fc42440]: Commencement: Sch. 6 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-8e893c57e5f8a6af680f5cf43fc42440]: Commencement: Sch. 6 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-ac715af4e6ba1ccd3b8c6a01424b0ee0]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2025/28/schedule/6) in force at 24.6.2026 in so far as not already in force by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/h)
+[^c-ac715af4e6ba1ccd3b8c6a01424b0ee0]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2025/28/schedule/6) in force at 24.6.2026 in so far as not already in force by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/h)

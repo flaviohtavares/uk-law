@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Disapplication of sections 3, 6 to 11 and 16 in certain circumstances[^key-feac092fcd57bb45cd459d7cf122606e]
+## 4. Disapplication of sections 3, 6 to 11 and 16 in certain circumstances[^c-feac092fcd57bb45cd459d7cf122606e]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ Sections 3, 6 to 11 and 16 do not apply—
 
 ## Annotations
 
-[^key-feac092fcd57bb45cd459d7cf122606e]: Commencement: S. 4 in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-feac092fcd57bb45cd459d7cf122606e]: Commencement: S. 4 in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

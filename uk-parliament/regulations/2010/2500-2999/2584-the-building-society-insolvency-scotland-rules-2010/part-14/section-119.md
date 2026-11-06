@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Insolvency practitioner’s caution[^key-d080c1b78a201afdaf88cda6b20de715]
+## 119. Insolvency practitioner’s caution[^c-d080c1b78a201afdaf88cda6b20de715]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d080c1b78a201afdaf88cda6b20de715]: Commencement: Rule 119 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-d080c1b78a201afdaf88cda6b20de715]: Commencement: Rule 119 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

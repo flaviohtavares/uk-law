@@ -48,13 +48,13 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 In accordance with section 4A(8) of that Act the Treasury have consulted, where they think it appropriate, the Scottish Ministers, the Department for Finance and Personnel for Northern Ireland and the Welsh Ministers.
 
-## 1. Citation and commencement[^key-a33184b7f09357c452d1841287362236]
+## 1. Citation and commencement[^c-a33184b7f09357c452d1841287362236]
 
 (1) This Order may be cited as the Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2023.
 
 (2) This Order comes into force on 18th April 2023.
 
-## 2. Designations[^key-c054ee2f06deca0cec50b04125795306]
+## 2. Designations[^c-c054ee2f06deca0cec50b04125795306]
 
 A body which is listed in a Part of the Schedule to this Order is a designated body for the purposes of section 4A of the Government Resources and Accounts Act 2000—
 
@@ -69,7 +69,7 @@ Two of the Lords Commissioners of His Majesty’s Treasury
 
 23rd March 2023
 
-## SCHEDULE — Designated Bodies[^key-59fa79870d51f19ff56810d11e993fdb]
+## SCHEDULE — Designated Bodies[^c-59fa79870d51f19ff56810d11e993fdb]
 
 ### PART 1 — Department of Health and Social Care
 
@@ -581,11 +581,11 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00001]: Footnote: [2000 c. 20](https://www.legislation.gov.uk/ukpga/2000/20). Section 4A was inserted by section 43(2) of the Constitutional Reform and Governance Act [2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25).
 
-[^key-a33184b7f09357c452d1841287362236]: Commencement: Art. 1 in force at 18.4.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/352/article/1/2)
+[^c-a33184b7f09357c452d1841287362236]: Commencement: Art. 1 in force at 18.4.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/352/article/1/2)
 
-[^key-c054ee2f06deca0cec50b04125795306]: Commencement: Art. 2 in force at 18.4.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/352/article/1/2)
+[^c-c054ee2f06deca0cec50b04125795306]: Commencement: Art. 2 in force at 18.4.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/352/article/1/2)
 
-[^key-59fa79870d51f19ff56810d11e993fdb]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2023/352/schedule) substituted (31.1.2024) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2023 (S.I. 2023/1360)](https://www.legislation.gov.uk/uksi/2023/1360), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1360/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/1360/schedule)
+[^c-59fa79870d51f19ff56810d11e993fdb]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2023/352/schedule) substituted (31.1.2024) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2023 (S.I. 2023/1360)](https://www.legislation.gov.uk/uksi/2023/1360), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1360/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/1360/schedule)
 
 [^f00003]: Footnote: [2011 c. 25](https://www.legislation.gov.uk/ukpga/2011/25). Paragraphs (ba) to (bd) of section 149(7) were inserted by paragraph 184(c) of Schedule 5 to the Health and Social Care Act 2012.
 

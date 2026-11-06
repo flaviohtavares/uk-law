@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Parenting contracts and parenting orders: further provisions[^key-9252c2141e8863e8675a984147be7efc][^key-e12fd74a022932c29dbc0ec311859250][^key-fe2aa15c18ddc1b65c8ddfdf04720099]
+## 99. Parenting contracts and parenting orders: further provisions[^c-9252c2141e8863e8675a984147be7efc][^c-e12fd74a022932c29dbc0ec311859250][^c-fe2aa15c18ddc1b65c8ddfdf04720099]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 > **22A. Parenting contracts and parenting orders: further provisions**
 >
-> (1) The appropriate person may by regulations make further provision about the exercise by local authorities[^key-0ea7acc4831332590d0c9da4689eca3c] and the governing bodies of relevant schools of their functions relating to—
+> (1) The appropriate person may by regulations make further provision about the exercise by local authorities[^c-0ea7acc4831332590d0c9da4689eca3c] and the governing bodies of relevant schools of their functions relating to—
 >
 > - (a) parenting contracts under section 19, and
 > - (b) parenting orders under section 20.
@@ -65,10 +65,10 @@ summary: ''
 
 ## Annotations
 
-[^key-9252c2141e8863e8675a984147be7efc]: Commencement: S. 99 in force at 1.9.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2007/1801/article/5/2))
+[^c-9252c2141e8863e8675a984147be7efc]: Commencement: S. 99 in force at 1.9.2007 for E. by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/1801/article/3/c) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2007/1801/article/5/2))
 
-[^key-e12fd74a022932c29dbc0ec311859250]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2006/40/section/99) in force at 31.10.2010 for specified purposes for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(h)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/h)
+[^c-e12fd74a022932c29dbc0ec311859250]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2006/40/section/99) in force at 31.10.2010 for specified purposes for W. by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 2(h)](https://www.legislation.gov.uk/wsi/2010/2543/article/2/h)
 
-[^key-fe2aa15c18ddc1b65c8ddfdf04720099]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2006/40/section/99) in force at 5.1.2011 for W. in so far as not already in force by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 3(a)](https://www.legislation.gov.uk/wsi/2010/2543/article/3/a)
+[^c-fe2aa15c18ddc1b65c8ddfdf04720099]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2006/40/section/99) in force at 5.1.2011 for W. in so far as not already in force by [S.I. 2010/2543](https://www.legislation.gov.uk/wsi/2010/2543), [art. 3(a)](https://www.legislation.gov.uk/wsi/2010/2543/article/3/a)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

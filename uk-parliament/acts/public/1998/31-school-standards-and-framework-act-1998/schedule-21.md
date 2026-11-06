@@ -55,7 +55,7 @@ shall also be transferred to, and by virtue of this Act vest in, that body.
 
 (2) In such a case—
 
-- (a) any publicly funded land shall on the appointed day be transferred to, and by virtue of this Act vest in, the local authority[^key-5177265949adaa73e26402711f36dc2e];
+- (a) any publicly funded land shall on the appointed day be transferred to, and by virtue of this Act vest in, the local authority[^c-5177265949adaa73e26402711f36dc2e];
 - (b) any other land which, immediately before that day, is held by the governing body for the purposes of the existing school shall be transferred to, and vest in, the authority in accordance with a transfer agreement; and
 - (c) any land which, immediately before that day, is held by any trustees for the purposes of the existing school shall be transferred to, and vest in, the authority in accordance with a transfer agreement.
 
@@ -182,7 +182,7 @@ the land (and any rights or liabilities relating to it) shall be so excluded.
 
 [^c14012871]: Marginal citation: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
 [^c14012881]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 

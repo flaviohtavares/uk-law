@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) SEPA may vary a registration in accordance with schedule 1 on the application of the authorised person (“an application for variation”) for one or more[^key-755b3fc3f9334ede5917257e524cd76a] of the purposes specified in paragraph (2).
+(1) SEPA may vary a registration in accordance with schedule 1 on the application of the authorised person (“an application for variation”) for one or more[^c-755b3fc3f9334ede5917257e524cd76a] of the purposes specified in paragraph (2).
 
 (2) The purposes are to—
 
@@ -42,4 +42,4 @@ to take account of the variation.
 
 ## Annotations
 
-[^key-755b3fc3f9334ede5917257e524cd76a]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/ssi/2018/219/regulation/19/1) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [12](https://www.legislation.gov.uk/ssi/2025/165/regulation/12) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-755b3fc3f9334ede5917257e524cd76a]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/ssi/2018/219/regulation/19/1) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [12](https://www.legislation.gov.uk/ssi/2025/165/regulation/12) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

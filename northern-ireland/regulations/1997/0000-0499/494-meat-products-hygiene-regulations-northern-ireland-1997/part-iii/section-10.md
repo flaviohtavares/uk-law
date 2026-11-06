@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Health marking[^key-9432de32bae0288fdeeeb85db4317597]
+## 10. Health marking[^c-9432de32bae0288fdeeeb85db4317597]
 
 *Extent: N.I.*
 
@@ -37,7 +37,7 @@ applied in accordance with the provisions of Part VI of Schedule 2.
 
 ## Annotations
 
-[^key-9432de32bae0288fdeeeb85db4317597]: Commencement: Reg. 10 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-9432de32bae0288fdeeeb85db4317597]: Commencement: Reg. 10 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
 
 [^f00021]: Footnote: [S.I. 1994 No. 3082](https://www.legislation.gov.uk/uksi/1994/3082)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Short title[^key-1783775aeb58c6252636a9a235592a69]
+## 71. Short title[^c-1783775aeb58c6252636a9a235592a69]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Children (Care, Care Experience and Services 
 
 ## Annotations
 
-[^key-1783775aeb58c6252636a9a235592a69]: Commencement: S. 71 in force at 16.5.2026, see [s. 70(1)](https://www.legislation.gov.uk/asp/2026/16/section/70/1)
+[^c-1783775aeb58c6252636a9a235592a69]: Commencement: S. 71 in force at 16.5.2026, see [s. 70(1)](https://www.legislation.gov.uk/asp/2026/16/section/70/1)

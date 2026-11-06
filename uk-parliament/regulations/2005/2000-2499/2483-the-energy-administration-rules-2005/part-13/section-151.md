@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 151. Record of examination[^key-142be57a4c43724b3acb780a37d5fd26]
+## 151. Record of examination[^c-142be57a4c43724b3acb780a37d5fd26]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-142be57a4c43724b3acb780a37d5fd26]: Commencement: Rule 151 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-142be57a4c43724b3acb780a37d5fd26]: Commencement: Rule 151 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

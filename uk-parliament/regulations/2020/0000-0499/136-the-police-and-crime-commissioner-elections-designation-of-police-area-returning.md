@@ -31,7 +31,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police and Crime Commissioner Elections (Designation of Police Area Returning Officers) Order 2020 (revoked)[^key-b2f4e9d525fa3d124b04a5bbca7d8b5a]
+The Police and Crime Commissioner Elections (Designation of Police Area Returning Officers) Order 2020 (revoked)[^c-b2f4e9d525fa3d124b04a5bbca7d8b5a]
 
 Made
 
@@ -39,44 +39,44 @@ Made
 
 Coming into force in accordance with article 1(2)
 
-[^key-b2f4e9d525fa3d124b04a5bbca7d8b5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2f4e9d525fa3d124b04a5bbca7d8b5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b2f4e9d525fa3d124b04a5bbca7d8b5a]
+## 1. Citation, commencement and interpretation[^c-b2f4e9d525fa3d124b04a5bbca7d8b5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of police area returning officers in England[^key-b2f4e9d525fa3d124b04a5bbca7d8b5a]
+## 2. Designation of police area returning officers in England[^c-b2f4e9d525fa3d124b04a5bbca7d8b5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of police area returning officers in Wales[^key-b2f4e9d525fa3d124b04a5bbca7d8b5a]
+## 3. Designation of police area returning officers in Wales[^c-b2f4e9d525fa3d124b04a5bbca7d8b5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation and saving[^key-b2f4e9d525fa3d124b04a5bbca7d8b5a]
+## 4. Revocation and saving[^c-b2f4e9d525fa3d124b04a5bbca7d8b5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b2f4e9d525fa3d124b04a5bbca7d8b5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2f4e9d525fa3d124b04a5bbca7d8b5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Police area returning officers: England[^key-b2f4e9d525fa3d124b04a5bbca7d8b5a]
+## SCHEDULE 1 — Police area returning officers: England[^c-b2f4e9d525fa3d124b04a5bbca7d8b5a]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Police area returning officers: Wales[^key-b2f4e9d525fa3d124b04a5bbca7d8b5a]
+## SCHEDULE 2 — Police area returning officers: Wales[^c-b2f4e9d525fa3d124b04a5bbca7d8b5a]
 
 Article 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b2f4e9d525fa3d124b04a5bbca7d8b5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2f4e9d525fa3d124b04a5bbca7d8b5a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b2f4e9d525fa3d124b04a5bbca7d8b5a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/136) revoked (22.2.2024) by [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) Order 2024 (S.I. 2024/186)](https://www.legislation.gov.uk/uksi/2024/186), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2024/186/article/7/1/b) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/186/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2024/186/article/7/3))
+[^c-b2f4e9d525fa3d124b04a5bbca7d8b5a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/136) revoked (22.2.2024) by [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) Order 2024 (S.I. 2024/186)](https://www.legislation.gov.uk/uksi/2024/186), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2024/186/article/7/1/b) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/186/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2024/186/article/7/3))

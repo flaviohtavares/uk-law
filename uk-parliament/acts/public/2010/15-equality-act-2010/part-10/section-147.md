@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Meaning of “qualifying settlement agreement”[^c21152711][^key-b10e0dfa89c665ac88955776f9c5a25e]
+## 147. Meaning of “qualifying settlement agreement”[^c21152711][^c-b10e0dfa89c665ac88955776f9c5a25e]
 
 *Extent: E+W+S*
 
 (1) This section applies for the purposes of this Part.
 
-(2) A qualifying settlement agreement[^key-00dd5bb8ee0fcf89f8f869e325227f06] is a contract in relation to which each of the conditions in subsection (3) is met.
+(2) A qualifying settlement agreement[^c-00dd5bb8ee0fcf89f8f869e325227f06] is a contract in relation to which each of the conditions in subsection (3) is met.
 
 (3) Those conditions are that—
 
@@ -67,9 +67,9 @@ summary: ''
 
 [^c21152711]: Commencement: S. 147 wholly in force at 1.10.2010; s. 147 not in force at Royal Assent see s. 216; s. 147(4) in force for certain purposes at 6.7.2010 by [S.I. 2010/1736](https://www.legislation.gov.uk/uksi/2010/1736), [art. 2](https://www.legislation.gov.uk/uksi/2010/1736/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2010/1736/schedule); s. 147 in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(1)(10)(b)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/1/10/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15))
 
-[^key-b10e0dfa89c665ac88955776f9c5a25e]: Textual amendment: Words in s. 147 heading substituted (29.7.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 23(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/23/6), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/c)
+[^c-b10e0dfa89c665ac88955776f9c5a25e]: Textual amendment: Words in s. 147 heading substituted (29.7.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 23(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/23/6), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/c)
 
-[^key-00dd5bb8ee0fcf89f8f869e325227f06]: Textual amendment: Words in [s. 147(2)](https://www.legislation.gov.uk/ukpga/2010/15/section/147/2)[(5)](https://www.legislation.gov.uk/ukpga/2010/15/section/147/5) substituted (29.7.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 23(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/23/6), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/c)
+[^c-00dd5bb8ee0fcf89f8f869e325227f06]: Textual amendment: Words in [s. 147(2)](https://www.legislation.gov.uk/ukpga/2010/15/section/147/2)[(5)](https://www.legislation.gov.uk/ukpga/2010/15/section/147/5) substituted (29.7.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 23(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/23/6), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/c)
 
 [^c21907491]: Textual amendment: Words in s. 147(5) inserted (6.4.2012) by [The Equality Act 2010 (Amendment) Order 2012 (S.I. 2012/334)](https://www.legislation.gov.uk/uksi/2012/334), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/334/article/2/2)
 

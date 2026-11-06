@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Overview[^key-ecdddc944a04a8456a666e4c1e1b7959]
+## 1. Overview[^c-ecdddc944a04a8456a666e4c1e1b7959]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The main provisions of this Act—
 
 ## Annotations
 
-[^key-ecdddc944a04a8456a666e4c1e1b7959]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2013/3/section/1) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(a)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/a)
+[^c-ecdddc944a04a8456a666e4c1e1b7959]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2013/3/section/1) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(a)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/a)

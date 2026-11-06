@@ -28,12 +28,12 @@ summary: ''
 - (c) any self-loading or pump-action smoothbore firearm which is not an air gun or chambered for .22 rimfire cartridges and either has a barrel less than 60.96 centimetres in length or is less than 102 centimetres in length overall;
 - (d) any smoothbore revolver firearm other than one which is chambered for 9 mm. rimfire cartridges or a muzzle-loading firearm;
 - (e) any rocket launcher, or any mortar, for projecting a stabilised missile, other than a launcher or mortar designed for line-throwing or pyrotechnic purposes or as signalling apparatus;
-- (ea)[^key-dcd9bfba99f82a19fddaee05a5f4fa38] any rifle with a chamber from which empty cartridge cases are extracted using—
+- (ea)[^c-dcd9bfba99f82a19fddaee05a5f4fa38] any rifle with a chamber from which empty cartridge cases are extracted using—
   - (i) energy from propellant gas, or
   - (ii) energy imparted to a spring or other energy storage device by propellant gas,
 
   other than a rifle which is chambered for .22 rimfire cartridges;
-- (f) any weapon of whatever description designed or adapted for the discharge of electricity or any noxious liquid, gas or other thing;...[^key-4347236ca86b55139707eacf595c6382]
+- (f) any weapon of whatever description designed or adapted for the discharge of electricity or any noxious liquid, gas or other thing;...[^c-4347236ca86b55139707eacf595c6382]
 - (fa) any device (commonly known as a bump stock) which is designed or adapted so that—
   - (i) it is capable of forming part of or being added to a self-loading firearm, and
   - (ii) if it forms part of or is added to such a firearm, it increases the rate of fire of the firearm by using the recoil from the firearm to generate repeated pressure on the trigger; and”
@@ -81,6 +81,6 @@ shall be guilty of an offence.
 
 [^c17102751]: Textual amendment: [2005 NI 16](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-dcd9bfba99f82a19fddaee05a5f4fa38]: Textual amendment: [Art. 45(1)(ea)](https://www.legislation.gov.uk/nisi/2004/702/article/45/1/ea) inserted (16.5.2019 for specified purposes, 14.7.2021 in so far as not already in operation) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/2), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(5)(i)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/5/i); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/g)
+[^c-dcd9bfba99f82a19fddaee05a5f4fa38]: Textual amendment: [Art. 45(1)(ea)](https://www.legislation.gov.uk/nisi/2004/702/article/45/1/ea) inserted (16.5.2019 for specified purposes, 14.7.2021 in so far as not already in operation) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/2), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(5)(i)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/5/i); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/g)
 
-[^key-4347236ca86b55139707eacf595c6382]: Textual amendment: [Art. 45(1)(fa)](https://www.legislation.gov.uk/nisi/2004/702/article/45/1/fa) substituted (16.5.2019 for specified purposes, 14.7.2021 in so far as not already in operation) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 55(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/3), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(5)(j)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/5/j); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/g)
+[^c-4347236ca86b55139707eacf595c6382]: Textual amendment: [Art. 45(1)(fa)](https://www.legislation.gov.uk/nisi/2004/702/article/45/1/fa) substituted (16.5.2019 for specified purposes, 14.7.2021 in so far as not already in operation) by [Offensive Weapons Act 2019 (c. 17)](https://www.legislation.gov.uk/ukpga/2019/17), [ss. 55(3)](https://www.legislation.gov.uk/ukpga/2019/17/section/55/3), [70(1)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/1)[(5)(j)](https://www.legislation.gov.uk/ukpga/2019/17/section/70/5/j); [S.I. 2021/819](https://www.legislation.gov.uk/uksi/2021/819), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/819/regulation/2/g)

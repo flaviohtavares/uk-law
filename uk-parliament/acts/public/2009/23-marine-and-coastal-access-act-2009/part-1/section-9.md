@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Licences to kill or take seals[^key-e42ae0c98c911b5c519e3b4c198a6198]
+## 9. Licences to kill or take seals[^c-e42ae0c98c911b5c519e3b4c198a6198]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ are to have effect as from the coming into force of this section as licences gra
 
 ## Annotations
 
-[^key-e42ae0c98c911b5c519e3b4c198a6198]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2009/23/section/9) in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/1)
+[^c-e42ae0c98c911b5c519e3b4c198a6198]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2009/23/section/9) in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/1)

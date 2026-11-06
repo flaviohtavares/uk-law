@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105A. Stamp duty land tax[^key-795aba435c662652693443709d2dde2f]
+## 105A. Stamp duty land tax[^c-795aba435c662652693443709d2dde2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) an amalgamation of two or more friendly societies under section 85,
 - (b) a transfer of the engagements of a friendly society under section 86; or
-- (c) a transfer of the engagements of a friendly society pursuant to a direction given by the appropriate authority[^key-81053eaa1962bed63869425b9d842336] under section 90,
+- (c) a transfer of the engagements of a friendly society pursuant to a direction given by the appropriate authority[^c-81053eaa1962bed63869425b9d842336] under section 90,
 
 is exempt from charge for the purposes of stamp duty land tax.
 
@@ -37,6 +37,6 @@ is exempt from charge for the purposes of stamp duty land tax.
 
 ## Annotations
 
-[^key-795aba435c662652693443709d2dde2f]: Textual amendment: [S. 105A](https://www.legislation.gov.uk/ukpga/1992/40/section/105A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/20)
+[^c-795aba435c662652693443709d2dde2f]: Textual amendment: [S. 105A](https://www.legislation.gov.uk/ukpga/1992/40/section/105A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/20)
 
-[^key-81053eaa1962bed63869425b9d842336]: Textual amendment: Words in [s. 105A(1)(c)](https://www.legislation.gov.uk/ukpga/1992/40/section/105A/1/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 44](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/44) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-81053eaa1962bed63869425b9d842336]: Textual amendment: Words in [s. 105A(1)(c)](https://www.legislation.gov.uk/ukpga/1992/40/section/105A/1/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 44](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/44) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

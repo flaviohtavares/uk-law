@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Power to give directions: section 32[^key-600efb8fc1bf92f9047ec651fd074bb6]
+## 33. Power to give directions: section 32[^c-600efb8fc1bf92f9047ec651fd074bb6]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-600efb8fc1bf92f9047ec651fd074bb6]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2015/6/section/33) in force at 1.7.2015 by [S.I. 2015/956](https://www.legislation.gov.uk/uksi/2015/956), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2015/956/regulation/4/e)
+[^c-600efb8fc1bf92f9047ec651fd074bb6]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2015/6/section/33) in force at 1.7.2015 by [S.I. 2015/956](https://www.legislation.gov.uk/uksi/2015/956), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2015/956/regulation/4/e)

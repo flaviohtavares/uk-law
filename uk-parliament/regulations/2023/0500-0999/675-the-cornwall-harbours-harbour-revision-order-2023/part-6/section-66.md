@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Crown Rights[^key-0148800329edc7776210a0fc1b8199b5]
+## 66. Crown Rights[^c-0148800329edc7776210a0fc1b8199b5]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0148800329edc7776210a0fc1b8199b5]: Commencement: Art. 66 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-0148800329edc7776210a0fc1b8199b5]: Commencement: Art. 66 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
 [^f00021]: Footnote: [1863 c. 49](https://www.legislation.gov.uk/ukpga/1863/49).

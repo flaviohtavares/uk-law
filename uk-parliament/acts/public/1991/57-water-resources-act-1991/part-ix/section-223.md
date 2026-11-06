@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 223. Exemption for visiting forces.[^key-48c7cf297a234ca86faec502c1605203]
+## 223. Exemption for visiting forces.[^c-48c7cf297a234ca86faec502c1605203]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48c7cf297a234ca86faec502c1605203]: Textual amendment: [S. 223](https://www.legislation.gov.uk/ukpga/1991/57/section/223) repealed (1.1.2018) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 32](https://www.legislation.gov.uk/ukpga/2003/37/section/32), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/1); [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(d)(h)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/d/h)
+[^c-48c7cf297a234ca86faec502c1605203]: Textual amendment: [S. 223](https://www.legislation.gov.uk/ukpga/1991/57/section/223) repealed (1.1.2018) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 32](https://www.legislation.gov.uk/ukpga/2003/37/section/32), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/1); [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(d)(h)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/d/h)

@@ -24,9 +24,9 @@ Section 91
 
 ### Town and Country Planning Act 1990 (c. 8)
 
-**1.**[^key-d946a174dc60780c76f48430b69cc66e] Part 12 of the Town and Country Planning Act 1990 (validity) is amended as follows.
+**1.**[^c-d946a174dc60780c76f48430b69cc66e] Part 12 of the Town and Country Planning Act 1990 (validity) is amended as follows.
 
-**2.**[^key-93939a6fdaaa741c0e96ddf17d322fca] In section 284 (validity of development plans and certain orders, decisions and directions)—
+**2.**[^c-93939a6fdaaa741c0e96ddf17d322fca] In section 284 (validity of development plans and certain orders, decisions and directions)—
 
 - (a) in subsection (1), after paragraph (f) insert
 
@@ -39,7 +39,7 @@ Section 91
 
   > (3A) In this section, “**relevant costs order**” means an order made under section 250(5) of the Local Government Act 1972 (orders as to costs of parties), as applied by virtue of any provision of this Act.
 
-**3.**[^key-ea35fe240e944c78bf3fb9424a43260c] (1) Section 287 (proceedings for questioning validity of development plans and certain schemes and orders) is amended as follows.
+**3.**[^c-ea35fe240e944c78bf3fb9424a43260c] (1) Section 287 (proceedings for questioning validity of development plans and certain schemes and orders) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -64,7 +64,7 @@ Section 91
 
 > (5A) References in this Act to an application under this section do not include an application for leave for the purposes of subsection (2A).
 
-**4.**[^key-71ce5b3dd30d12627d182010f831cb61] (1) Section 288 (proceedings for questioning validity of other orders, decisions and directions) is amended as follows.
+**4.**[^c-71ce5b3dd30d12627d182010f831cb61] (1) Section 288 (proceedings for questioning validity of other orders, decisions and directions) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -123,7 +123,7 @@ Section 91
 
 ### Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
 
-**5.**[^key-be5bbd2dcc2940002ce17ea2622c3805] In section 62 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (validity of certain orders and decisions)—
+**5.**[^c-be5bbd2dcc2940002ce17ea2622c3805] In section 62 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (validity of certain orders and decisions)—
 
 - (a) in subsection (1), after paragraph (b) insert
 
@@ -136,7 +136,7 @@ Section 91
 
   > (2A) In this section, “**relevant costs order**” means an order made under section 250(5) of the Local Government Act 1972 (orders as to costs of parties), as applied by virtue of any provision of this Act.
 
-**6.**[^key-9324c451cd1be97d062b6fc2a3df5a84] (1) Section 63 of that Act (proceedings for questioning validity of other orders, decisions and directions) is amended as follows.
+**6.**[^c-9324c451cd1be97d062b6fc2a3df5a84] (1) Section 63 of that Act (proceedings for questioning validity of other orders, decisions and directions) is amended as follows.
 
 (2) In subsection (1), for “section 62(1)” substitute “ section 62(1)(a) or (b) ”.
 
@@ -185,7 +185,7 @@ Section 91
 
 ### Planning (Hazardous Substances) Act 1990 (c. 10)
 
-**7.**[^key-ef2e312759e16603a08828a45e951f08] (1) Section 22 of the Planning (Hazardous Substances) Act 1990 (validity of decisions as to applications) is amended as follows.
+**7.**[^c-ef2e312759e16603a08828a45e951f08] (1) Section 22 of the Planning (Hazardous Substances) Act 1990 (validity of decisions as to applications) is amended as follows.
 
 (2) In subsections (1) and (2), omit “within six weeks from the date on which the decision is taken”.
 
@@ -204,7 +204,7 @@ Section 91
 
 ### Planning and Compulsory Purchase Act 2004 (c. 5)
 
-**8.**[^key-aa255c47413df2c801f49fafb2ceb428] (1) Section 113 of the Planning and Compulsory Purchase Act 2004 (validity of strategies, plans and documents) is amended as follows.
+**8.**[^c-aa255c47413df2c801f49fafb2ceb428] (1) Section 113 of the Planning and Compulsory Purchase Act 2004 (validity of strategies, plans and documents) is amended as follows.
 
 (2) After subsection (3) insert—
 
@@ -227,18 +227,18 @@ Section 91
 
 ## Annotations
 
-[^key-d946a174dc60780c76f48430b69cc66e]: Commencement: Sch. 16 para. 1 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii)
+[^c-d946a174dc60780c76f48430b69cc66e]: Commencement: Sch. 16 para. 1 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii)
 
-[^key-93939a6fdaaa741c0e96ddf17d322fca]: Commencement: Sch. 16 para. 2 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
+[^c-93939a6fdaaa741c0e96ddf17d322fca]: Commencement: Sch. 16 para. 2 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
 
-[^key-ea35fe240e944c78bf3fb9424a43260c]: Commencement: Sch. 16 para. 3 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/b))
+[^c-ea35fe240e944c78bf3fb9424a43260c]: Commencement: Sch. 16 para. 3 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(b)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/b))
 
-[^key-71ce5b3dd30d12627d182010f831cb61]: Commencement: Sch. 16 para. 4 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
+[^c-71ce5b3dd30d12627d182010f831cb61]: Commencement: Sch. 16 para. 4 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
 
-[^key-be5bbd2dcc2940002ce17ea2622c3805]: Commencement: Sch. 16 para. 5 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
+[^c-be5bbd2dcc2940002ce17ea2622c3805]: Commencement: Sch. 16 para. 5 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
 
-[^key-9324c451cd1be97d062b6fc2a3df5a84]: Commencement: Sch. 16 para. 6 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
+[^c-9324c451cd1be97d062b6fc2a3df5a84]: Commencement: Sch. 16 para. 6 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
 
-[^key-ef2e312759e16603a08828a45e951f08]: Commencement: Sch. 16 para. 7 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
+[^c-ef2e312759e16603a08828a45e951f08]: Commencement: Sch. 16 para. 7 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/a))
 
-[^key-aa255c47413df2c801f49fafb2ceb428]: Commencement: Sch. 16 para. 8 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/c))
+[^c-aa255c47413df2c801f49fafb2ceb428]: Commencement: Sch. 16 para. 8 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/b/ii) (with [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/1778/article/4/c))

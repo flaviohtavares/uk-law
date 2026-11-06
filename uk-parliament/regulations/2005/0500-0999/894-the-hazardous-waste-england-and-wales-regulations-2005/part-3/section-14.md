@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Separated domestic fractions[^key-92d0587e35893afc0ca73fdad7f08e6b]
+## 14. Separated domestic fractions[^c-92d0587e35893afc0ca73fdad7f08e6b]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92d0587e35893afc0ca73fdad7f08e6b]: Textual amendment: Reg. 14 substituted (6.4.2009) by [The Hazardous Waste (England and Wales) (Amendment) Regulations 2009 (S.I. 2009/507)](https://www.legislation.gov.uk/uksi/2009/507), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c), [6](https://www.legislation.gov.uk/uksi/2009/507/regulation/6)
+[^c-92d0587e35893afc0ca73fdad7f08e6b]: Textual amendment: Reg. 14 substituted (6.4.2009) by [The Hazardous Waste (England and Wales) (Amendment) Regulations 2009 (S.I. 2009/507)](https://www.legislation.gov.uk/uksi/2009/507), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/507/regulation/1/c), [6](https://www.legislation.gov.uk/uksi/2009/507/regulation/6)

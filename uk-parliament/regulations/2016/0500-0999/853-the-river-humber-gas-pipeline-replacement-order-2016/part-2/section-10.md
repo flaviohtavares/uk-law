@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Transfer of benefit of Order[^key-58363c74c9a6bc2ed05546d020d07e34]
+## 10. Transfer of benefit of Order[^c-58363c74c9a6bc2ed05546d020d07e34]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58363c74c9a6bc2ed05546d020d07e34]: Commencement: Art. 10 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-58363c74c9a6bc2ed05546d020d07e34]: Commencement: Art. 10 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

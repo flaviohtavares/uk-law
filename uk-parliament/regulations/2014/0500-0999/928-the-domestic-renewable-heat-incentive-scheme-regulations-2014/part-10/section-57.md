@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Power to withhold RHI payments during investigation[^key-694f22181c4bf48b30cdc6cebdceafaf]
+## 57. Power to withhold RHI payments during investigation[^c-694f22181c4bf48b30cdc6cebdceafaf]
 
 *Extent: E+W+S*
 
 (1) Where the Authority has reasonable grounds to suspect—
 
 - (a) that a participant has failed or is failing to comply with an ongoing obligation; or
-- (b) that an accredited domestic plant has been given accreditation wholly or partly as a result of the provision of information which was[^key-895e7f47181475d1de31640f2ac91883] incorrect in a material particular,
+- (b) that an accredited domestic plant has been given accreditation wholly or partly as a result of the provision of information which was[^c-895e7f47181475d1de31640f2ac91883] incorrect in a material particular,
 
-and the Authority requires time to investigate, it may withhold all or part of that participant’s, or NRI’s, RHI payments (as the case may be)[^key-71a8668bad178ef50546ee00f198ce3a] pending the outcome of that investigation.
+and the Authority requires time to investigate, it may withhold all or part of that participant’s, or NRI’s, RHI payments (as the case may be)[^c-71a8668bad178ef50546ee00f198ce3a] pending the outcome of that investigation.
 
-(2) Within 21 days of a decision to withhold RHI payments under paragraph (1), the Authority must send a notice to the participant or NRI (as the case may be)[^key-726aa853e9b5bcf4ce9901cd283f3c7e] which—
+(2) Within 21 days of a decision to withhold RHI payments under paragraph (1), the Authority must send a notice to the participant or NRI (as the case may be)[^c-726aa853e9b5bcf4ce9901cd283f3c7e] which—
 
 - (a) specifies—
   - (i) the respect in which the Authority suspects the participant or NRI (as the case may be) has failed or is failing to comply with an ongoing obligation; or
@@ -36,30 +36,30 @@ and the Authority requires time to investigate, it may withhold all or part of t
 
 (3) The Authority’s investigation must be commenced and completed as soon as is reasonably practicable.
 
-(4) Immediately upon conclusion of its investigation under this regulation, the Authority must inform the participant or NRI (as the case may be)[^key-a259ec4642de399dc98ebe7a3a967704] of—
+(4) Immediately upon conclusion of its investigation under this regulation, the Authority must inform the participant or NRI (as the case may be)[^c-a259ec4642de399dc98ebe7a3a967704] of—
 
 - (a) the outcome of the investigation;
 - (b) the action the Authority proposes to take under this Part, if any; and
-- (c) the participant’s or NRI’s[^key-b0303e393702f37d2b4d9dfc6c064cae] right of review.
+- (c) the participant’s or NRI’s[^c-b0303e393702f37d2b4d9dfc6c064cae] right of review.
 
-(5) Subject to regulation 46, where the Authority concludes that there has been no material breach of an ongoing obligation or provision of incorrect information, it must resume payment of RHI payments in accordance with these Regulations and pay to the participant or NRI (as the case may be)[^key-7eb2e08d9f106c950d05d127e1edf699] any RHI payments withheld during the course of its investigation.
+(5) Subject to regulation 46, where the Authority concludes that there has been no material breach of an ongoing obligation or provision of incorrect information, it must resume payment of RHI payments in accordance with these Regulations and pay to the participant or NRI (as the case may be)[^c-7eb2e08d9f106c950d05d127e1edf699] any RHI payments withheld during the course of its investigation.
 
-(6) Within 6 months of sending of a notice under paragraph (2), the Authority must either resume payment of RHI payments or must send the participant or NRI (as the case may be)[^key-ec703803e35f7ec77840017891a9d6c3] a notice under regulation 58, 59 or 60.
+(6) Within 6 months of sending of a notice under paragraph (2), the Authority must either resume payment of RHI payments or must send the participant or NRI (as the case may be)[^c-ec703803e35f7ec77840017891a9d6c3] a notice under regulation 58, 59 or 60.
 
 ## Annotations
 
-[^key-694f22181c4bf48b30cdc6cebdceafaf]: Commencement: Reg. 57 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-694f22181c4bf48b30cdc6cebdceafaf]: Commencement: Reg. 57 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-895e7f47181475d1de31640f2ac91883]: Textual amendment: Word in [reg. 57(1)(b)](https://www.legislation.gov.uk/uksi/2014/928/regulation/57/1/b) substituted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [25(a)(i)](https://www.legislation.gov.uk/uksi/2018/610/regulation/25/a/i)
+[^c-895e7f47181475d1de31640f2ac91883]: Textual amendment: Word in [reg. 57(1)(b)](https://www.legislation.gov.uk/uksi/2014/928/regulation/57/1/b) substituted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [25(a)(i)](https://www.legislation.gov.uk/uksi/2018/610/regulation/25/a/i)
 
-[^key-71a8668bad178ef50546ee00f198ce3a]: Textual amendment: Words in [reg. 57(1)](https://www.legislation.gov.uk/uksi/2014/928/regulation/57/1) substituted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [25(a)(ii)](https://www.legislation.gov.uk/uksi/2018/610/regulation/25/a/ii)
+[^c-71a8668bad178ef50546ee00f198ce3a]: Textual amendment: Words in [reg. 57(1)](https://www.legislation.gov.uk/uksi/2014/928/regulation/57/1) substituted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [25(a)(ii)](https://www.legislation.gov.uk/uksi/2018/610/regulation/25/a/ii)
 
-[^key-726aa853e9b5bcf4ce9901cd283f3c7e]: Textual amendment: Words in [reg. 57(2)](https://www.legislation.gov.uk/uksi/2014/928/regulation/57/2) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [25(b)](https://www.legislation.gov.uk/uksi/2018/610/regulation/25/b)
+[^c-726aa853e9b5bcf4ce9901cd283f3c7e]: Textual amendment: Words in [reg. 57(2)](https://www.legislation.gov.uk/uksi/2014/928/regulation/57/2) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [25(b)](https://www.legislation.gov.uk/uksi/2018/610/regulation/25/b)
 
-[^key-a259ec4642de399dc98ebe7a3a967704]: Textual amendment: Words in [reg. 57(4)](https://www.legislation.gov.uk/uksi/2014/928/regulation/57/4) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [25(c)(i)](https://www.legislation.gov.uk/uksi/2018/610/regulation/25/c/i)
+[^c-a259ec4642de399dc98ebe7a3a967704]: Textual amendment: Words in [reg. 57(4)](https://www.legislation.gov.uk/uksi/2014/928/regulation/57/4) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [25(c)(i)](https://www.legislation.gov.uk/uksi/2018/610/regulation/25/c/i)
 
-[^key-b0303e393702f37d2b4d9dfc6c064cae]: Textual amendment: Words in [reg. 57(4)(c)](https://www.legislation.gov.uk/uksi/2014/928/regulation/57/4/c) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [25(c)(ii)](https://www.legislation.gov.uk/uksi/2018/610/regulation/25/c/ii)
+[^c-b0303e393702f37d2b4d9dfc6c064cae]: Textual amendment: Words in [reg. 57(4)(c)](https://www.legislation.gov.uk/uksi/2014/928/regulation/57/4/c) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [25(c)(ii)](https://www.legislation.gov.uk/uksi/2018/610/regulation/25/c/ii)
 
-[^key-7eb2e08d9f106c950d05d127e1edf699]: Textual amendment: Words in [reg. 57(5)](https://www.legislation.gov.uk/uksi/2014/928/regulation/57/5) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [25(d)](https://www.legislation.gov.uk/uksi/2018/610/regulation/25/d)
+[^c-7eb2e08d9f106c950d05d127e1edf699]: Textual amendment: Words in [reg. 57(5)](https://www.legislation.gov.uk/uksi/2014/928/regulation/57/5) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [25(d)](https://www.legislation.gov.uk/uksi/2018/610/regulation/25/d)
 
-[^key-ec703803e35f7ec77840017891a9d6c3]: Textual amendment: Words in [reg. 57(6)](https://www.legislation.gov.uk/uksi/2014/928/regulation/57/6) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [25(e)](https://www.legislation.gov.uk/uksi/2018/610/regulation/25/e)
+[^c-ec703803e35f7ec77840017891a9d6c3]: Textual amendment: Words in [reg. 57(6)](https://www.legislation.gov.uk/uksi/2014/928/regulation/57/6) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [25(e)](https://www.legislation.gov.uk/uksi/2018/610/regulation/25/e)

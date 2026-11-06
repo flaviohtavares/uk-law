@@ -24,7 +24,7 @@ Section 57
 
 ### PART 1 — Introductory
 
-#### 1. Overview[^key-43a26495f850717fcb7fe883df2b812c][^key-f487c128c6adb73da1e8a2f150475dfe]
+#### 1. Overview[^c-43a26495f850717fcb7fe883df2b812c][^c-f487c128c6adb73da1e8a2f150475dfe]
 
 (1) The purpose of the special resolution regime for CCPs (see Part 5 of this Schedule) is to address the situation where all or part of the business of a CCP has encountered, or is likely to encounter, financial difficulties.
 
@@ -63,7 +63,7 @@ Section 57
 
 ### PART 2 — Pre-resolution powers of the Bank of England
 
-#### 2. Removal of impediments to the exercise of stabilisation powers etc[^key-07c2f699bed6928af62fa83b96f175f1][^key-4bb393e2036bb23bc9e27bd39272b559]
+#### 2. Removal of impediments to the exercise of stabilisation powers etc[^c-07c2f699bed6928af62fa83b96f175f1][^c-4bb393e2036bb23bc9e27bd39272b559]
 
 (1) The Bank may give directions to a CCP to take measures which the Bank considers are required to address impediments to the effective exercise of the stabilisation powers.
 
@@ -106,59 +106,59 @@ Section 57
 
 (8) In this paragraph, “**recovery plan**” in relation to a CCP, means a plan required under paragraph 29B of the Schedule to the Financial Services and Markets Act 2000 (Recognition Requirements for Investment Exchanges, Clearing Houses and Central Securities Depositories) Regulations 2001 ([S.I. 2001/995](https://www.legislation.gov.uk/uksi/2001/995)).
 
-#### 3. Safeguards relating to directions under paragraph 2[^key-fd8857a62b15866a254ba68bbaec806c]
+#### 3. Safeguards relating to directions under paragraph 2[^c-fd8857a62b15866a254ba68bbaec806c]
 
-(1)[^key-05de40f631d2bda0fcf68157995c569a] A direction given to a relevant person under paragraph 2 must be accompanied by a notice which—
+(1)[^c-05de40f631d2bda0fcf68157995c569a] A direction given to a relevant person under paragraph 2 must be accompanied by a notice which—
 
 - (a) states when the direction takes effect (see sub-paragraphs (2) and (3)),
 - (b) gives the Bank’s reasons for giving the direction, and
 - (c) specifies a reasonable period within which the person may make representations to the Bank about the direction.
 
-(2)[^key-05de40f631d2bda0fcf68157995c569a] The direction may, if the Bank considers it necessary, take effect—
+(2)[^c-05de40f631d2bda0fcf68157995c569a] The direction may, if the Bank considers it necessary, take effect—
 
 - (a) immediately it is given to the relevant person, or
 - (b) on a later date specified in the direction.
 
-(3)[^key-05de40f631d2bda0fcf68157995c569a] In any other case the direction takes effect when—
+(3)[^c-05de40f631d2bda0fcf68157995c569a] In any other case the direction takes effect when—
 
 - (a) it has been confirmed by a notice under sub-paragraph (5), and
 - (b) the period during which the direction may be referred to the Upper Tribunal (under sub-paragraph (6)) has expired and, if the matter was so referred, the reference and any appeal against the Tribunal’s determination, has been finally disposed of.
 
-(4)[^key-05de40f631d2bda0fcf68157995c569a] Where representations are made by the relevant person within the period specified under sub-paragraph (1)(c), the Bank must, within a reasonable period, consider those representations and decide—
+(4)[^c-05de40f631d2bda0fcf68157995c569a] Where representations are made by the relevant person within the period specified under sub-paragraph (1)(c), the Bank must, within a reasonable period, consider those representations and decide—
 
 - (a) whether to confirm or revoke the direction, and
 - (b) if the direction is revoked, whether to give a different direction.
 
-(5)[^key-05de40f631d2bda0fcf68157995c569a] The Bank must—
+(5)[^c-05de40f631d2bda0fcf68157995c569a] The Bank must—
 
 - (a) if no representations are made within that specified period, give the relevant person written notice that the direction is confirmed, and
 - (b) if representations are made, give the relevant person written notice of its decision under sub-paragraph (4).
 
-(6)[^key-05de40f631d2bda0fcf68157995c569a] If the relevant person is aggrieved by the confirmation of the direction, the person may refer the matter to the Upper Tribunal.
+(6)[^c-05de40f631d2bda0fcf68157995c569a] If the relevant person is aggrieved by the confirmation of the direction, the person may refer the matter to the Upper Tribunal.
 
-(7)[^key-05de40f631d2bda0fcf68157995c569a] A notice under sub-paragraph (5)(a) or (b) confirming the direction must—
+(7)[^c-05de40f631d2bda0fcf68157995c569a] A notice under sub-paragraph (5)(a) or (b) confirming the direction must—
 
 - (a) inform the relevant person of the right to refer the matter to the Upper Tribunal, and
 - (b) indicate the procedure on such a reference.
 
-(8)[^key-05de40f631d2bda0fcf68157995c569a] A notice given under sub-paragraph (5)(b) of a decision by the Bank to give a different direction must comply with sub-paragraph (1).
+(8)[^c-05de40f631d2bda0fcf68157995c569a] A notice given under sub-paragraph (5)(b) of a decision by the Bank to give a different direction must comply with sub-paragraph (1).
 
-(9)[^key-ea38c080ad62253482043a78c1a985a3] The Bank must prepare and publish a statement of its policy with respect to the giving of directions under paragraph 2.
+(9)[^c-ea38c080ad62253482043a78c1a985a3] The Bank must prepare and publish a statement of its policy with respect to the giving of directions under paragraph 2.
 
-(10)[^key-ea38c080ad62253482043a78c1a985a3] The Bank may alter or replace a statement of policy published under this paragraph.
+(10)[^c-ea38c080ad62253482043a78c1a985a3] The Bank may alter or replace a statement of policy published under this paragraph.
 
-(11)[^key-ea38c080ad62253482043a78c1a985a3] The Bank must publish a statement as altered or replaced under sub-paragraph (10).
+(11)[^c-ea38c080ad62253482043a78c1a985a3] The Bank must publish a statement as altered or replaced under sub-paragraph (10).
 
-(12)[^key-05de40f631d2bda0fcf68157995c569a] No directions may be given under paragraph 2 before the statement of policy under sub-paragraph (9) has been published.
+(12)[^c-05de40f631d2bda0fcf68157995c569a] No directions may be given under paragraph 2 before the statement of policy under sub-paragraph (9) has been published.
 
-(13)[^key-05de40f631d2bda0fcf68157995c569a] In this paragraph “**relevant person**” means—
+(13)[^c-05de40f631d2bda0fcf68157995c569a] In this paragraph “**relevant person**” means—
 
 - (a) a CCP, or
 - (b) a parent of a CCP.
 
 ### PART 3 — Resolution plans
 
-#### 4. Resolution plans[^key-91069666f10cc176fb0daa116b7b84c3][^key-18e05dbef950835fc4814f361a8c8b3d]
+#### 4. Resolution plans[^c-91069666f10cc176fb0daa116b7b84c3][^c-18e05dbef950835fc4814f361a8c8b3d]
 
 (1) The Treasury may by regulations make provision requiring the Bank to create and maintain a resolution plan for each CCP.
 
@@ -179,7 +179,7 @@ Section 57
 
 ### PART 4 — Removal of directors and senior managers
 
-#### 5. Removal of directors and senior managers[^key-1af3aeac5e475250b5023681f49043be][^key-0b4471394e4542a2a2a1a60321debeb2]
+#### 5. Removal of directors and senior managers[^c-1af3aeac5e475250b5023681f49043be][^c-0b4471394e4542a2a2a1a60321debeb2]
 
 (1) If the Bank is satisfied that the conditions in paragraph 7(1) and (2) are met in relation to a CCP, the Bank may require the CCP to remove—
 
@@ -195,7 +195,7 @@ Section 57
 
 (4) Nothing in this Schedule affects the powers under Article 31 of EMIR or paragraphs 45 and 58.
 
-#### 6. Temporary manager[^key-faf7a03ad2bd7cf4711f0f09488c78b7][^key-1fceae6771654cb4e25c5f6d3288fee2]
+#### 6. Temporary manager[^c-faf7a03ad2bd7cf4711f0f09488c78b7][^c-1fceae6771654cb4e25c5f6d3288fee2]
 
 (1) If the Bank is satisfied that the conditions in paragraph 7(1), (2) and (4) are met in relation to a CCP, the Bank may appoint a person to act (or more than one persons to act jointly) as a temporary manager of that CCP.
 
@@ -225,7 +225,7 @@ Section 57
 - (a) may require the directors not to exercise specified functions during the period of appointment;
 - (b) may require the directors to consult the temporary manager, or obtain the consent of the temporary manager, before taking such decisions or actions as may be specified in the requirement.
 
-#### 7. Paragraphs 5 and 6: conditions[^key-6dc8ba0dbacb6a9cdcb5c3fab8b0544a][^key-d62b954887cf95447c2b55ba8e22959f]
+#### 7. Paragraphs 5 and 6: conditions[^c-6dc8ba0dbacb6a9cdcb5c3fab8b0544a][^c-d62b954887cf95447c2b55ba8e22959f]
 
 (1) The condition in this sub-paragraph is met if—
 
@@ -259,7 +259,7 @@ Section 57
 
 (7) Regulations under this paragraph are subject to the negative procedure.
 
-#### 8. Temporary manager: further provisions in relation to the appointment[^key-f699ae3e13aaf1859d91a998eaa7d2f2][^key-7ad66c04239cf8ed8a7fd150a8eb20fc]
+#### 8. Temporary manager: further provisions in relation to the appointment[^c-f699ae3e13aaf1859d91a998eaa7d2f2][^c-7ad66c04239cf8ed8a7fd150a8eb20fc]
 
 (1) Before appointing a person to act as a temporary manager, the Bank must be satisfied that the person—
 
@@ -272,7 +272,7 @@ Section 57
 
 (4) A temporary manager is not liable for damages in respect of anything done in good faith for the purposes of or in connection with the functions of the appointment (subject to section 8 of the Human Rights Act 1998).
 
-#### 9. Temporary manager: instrument of appointment[^key-78da7bde9dfa23d8a674a366e5244090][^key-8aaf27908a945ac7f029b55d4135ddb3]
+#### 9. Temporary manager: instrument of appointment[^c-78da7bde9dfa23d8a674a366e5244090][^c-8aaf27908a945ac7f029b55d4135ddb3]
 
 (1) The power in paragraph 6(1) is to be exercised by an instrument of appointment.
 
@@ -309,7 +309,7 @@ Section 57
 
 the Bank must publish the instrument of appointment on its website.
 
-#### 10. Right to refer matters to the Tribunal[^key-3960d30f45b7ac1f4742d69c69956710][^key-1e27299e4cdb63ffdd446dff22e0502a]
+#### 10. Right to refer matters to the Tribunal[^c-3960d30f45b7ac1f4742d69c69956710][^c-1e27299e4cdb63ffdd446dff22e0502a]
 
 (1) A CCP which is aggrieved by one of the following may refer the matter to the Tribunal—
 
@@ -320,7 +320,7 @@ the Bank must publish the instrument of appointment on its website.
 
 (3) A director (or a former director) of a CCP who is aggrieved by the imposition of a requirement on that director under paragraph 6(7) may refer the matter to the Tribunal.
 
-#### 11. Removal of directors and senior managers and appointment of temporary manager: procedure[^key-508bad7521c419c6661a47ec68d5da6f][^key-3bfcc95729676f0d34566b08606763e6]
+#### 11. Removal of directors and senior managers and appointment of temporary manager: procedure[^c-508bad7521c419c6661a47ec68d5da6f][^c-3bfcc95729676f0d34566b08606763e6]
 
 (1) A requirement under paragraph 5 or 6(7) or the appointment of a temporary manager under paragraph 6(1) may be expressed to take effect immediately or on a specified date only if the Bank, having regard to the grounds for imposing the requirement or making the appointment, reasonably considers that it is necessary for the requirement or the appointment to take effect immediately or on that date.
 
@@ -355,7 +355,7 @@ the Bank must give written notice to each person to whom the original notice was
 
 the Bank must give written notice to each person to whom the original notice was given.
 
-#### 12. Removal of directors and senior managers and appointment of temporary manager: notice requirements[^key-a7f864b0b472a835a4df0aeb528ed24e][^key-309cba9ed1c3e0674f237c2230a7edd0]
+#### 12. Removal of directors and senior managers and appointment of temporary manager: notice requirements[^c-a7f864b0b472a835a4df0aeb528ed24e][^c-309cba9ed1c3e0674f237c2230a7edd0]
 
 (1) A notice under paragraph 11(2) must—
 
@@ -393,51 +393,51 @@ the Bank must give written notice to each person to whom the original notice was
 
 (8) In this paragraph, any reference to “**appointment**” includes re-appointment.
 
-#### 13. Temporary restriction on remuneration[^key-a39badc9e849b2437a733897a7fa97f2]
+#### 13. Temporary restriction on remuneration[^c-a39badc9e849b2437a733897a7fa97f2]
 
-(1)[^key-c6eb1599d2cd82d92998313d0f27b6fd] The Bank may by direction restrict or prohibit for a specified period discretionary payments to specified employees of a CCP or specified shareholders of a CCP.
+(1)[^c-c6eb1599d2cd82d92998313d0f27b6fd] The Bank may by direction restrict or prohibit for a specified period discretionary payments to specified employees of a CCP or specified shareholders of a CCP.
 
-(2)[^key-c6eb1599d2cd82d92998313d0f27b6fd] The power under sub-paragraph (1) may be exercised only if—
+(2)[^c-c6eb1599d2cd82d92998313d0f27b6fd] The power under sub-paragraph (1) may be exercised only if—
 
 - (a) a stabilisation power is not being exercised in relation to the CCP,
 - (b) at least one of the conditions in sub-paragraph (3) is met, and
 - (c) the condition in sub-paragraph (4) is met.
 
-(3)[^key-c6eb1599d2cd82d92998313d0f27b6fd] The conditions in this sub-paragraph are—
+(3)[^c-c6eb1599d2cd82d92998313d0f27b6fd] The conditions in this sub-paragraph are—
 
 - (a) there is or is likely soon to be a significant deterioration in the financial situation of the CCP (within the meaning given by paragraph 7(6));
 - (b) there is a material risk of a threat to the ability of the CCP to maintain critical clearing services;
 - (c) there is a risk of a significant disruption to the operation of the CCP;
 - (d) the operation of the CCP poses a risk to the financial stability of the United Kingdom.
 
-(4)[^key-c6eb1599d2cd82d92998313d0f27b6fd] The condition in this sub-paragraph is that the exercise of the power is necessary or desirable having regard to the public interest in—
+(4)[^c-c6eb1599d2cd82d92998313d0f27b6fd] The condition in this sub-paragraph is that the exercise of the power is necessary or desirable having regard to the public interest in—
 
 - (a) the stability of the UK financial system, or
 - (b) the continuity of critical clearing services.
 
-(5)[^key-655e26894d951280a9676569342faff2] The Bank must prepare and publish a statement of its policy with respect to the giving of directions under this paragraph.
+(5)[^c-655e26894d951280a9676569342faff2] The Bank must prepare and publish a statement of its policy with respect to the giving of directions under this paragraph.
 
-(6)[^key-655e26894d951280a9676569342faff2] The Bank may alter or replace a statement of policy published under this paragraph.
+(6)[^c-655e26894d951280a9676569342faff2] The Bank may alter or replace a statement of policy published under this paragraph.
 
-(7)[^key-655e26894d951280a9676569342faff2] The Bank must publish a statement as altered or replaced under sub-paragraph (6).
+(7)[^c-655e26894d951280a9676569342faff2] The Bank must publish a statement as altered or replaced under sub-paragraph (6).
 
-(8)[^key-c6eb1599d2cd82d92998313d0f27b6fd] No directions may be given under this paragraph before the statement of policy under sub-paragraph (5) has been published.
+(8)[^c-c6eb1599d2cd82d92998313d0f27b6fd] No directions may be given under this paragraph before the statement of policy under sub-paragraph (5) has been published.
 
-(9)[^key-c6eb1599d2cd82d92998313d0f27b6fd] The specified period for the purposes of sub-paragraph (1) must not exceed 5 years.
+(9)[^c-c6eb1599d2cd82d92998313d0f27b6fd] The specified period for the purposes of sub-paragraph (1) must not exceed 5 years.
 
-(10)[^key-c6eb1599d2cd82d92998313d0f27b6fd] Directions under this paragraph—
+(10)[^c-c6eb1599d2cd82d92998313d0f27b6fd] Directions under this paragraph—
 
 - (a) must be given in writing to the employees or shareholders that the directions apply to;
 - (b) may be varied or revoked.
 
-(11)[^key-c6eb1599d2cd82d92998313d0f27b6fd] In this paragraph “**discretionary payments**” means payments, made otherwise than under a contractual obligation, of any of the following—
+(11)[^c-c6eb1599d2cd82d92998313d0f27b6fd] In this paragraph “**discretionary payments**” means payments, made otherwise than under a contractual obligation, of any of the following—
 
 - (a) equity remuneration;
 - (b) dividend payments;
 - (c) share buy-backs;
 - (d) variable remuneration including, where an employee is a senior manager, bonuses, discretionary pension benefits and severance payments.
 
-#### 14. Restriction on remuneration: review and revocation[^key-d5c4063bed3ff86dca7a25f9e404af30][^key-b78cfe8a347434aa9cca08ad20c9bf76]
+#### 14. Restriction on remuneration: review and revocation[^c-d5c4063bed3ff86dca7a25f9e404af30][^c-b78cfe8a347434aa9cca08ad20c9bf76]
 
 (1) This paragraph applies where a direction has been given under paragraph 13(1) in relation to a CCP.
 
@@ -449,7 +449,7 @@ the Bank must give written notice to each person to whom the original notice was
 
 ### PART 5 — Special resolution action
 
-#### 15. Special resolution objectives[^key-409f59688038aa8f8617fa491a323da3][^key-88d4250486712b291b1db64e4cc606fd]
+#### 15. Special resolution objectives[^c-409f59688038aa8f8617fa491a323da3][^c-88d4250486712b291b1db64e4cc606fd]
 
 (1) This paragraph sets out the special resolution objectives.
 
@@ -472,7 +472,7 @@ the Bank must give written notice to each person to whom the original notice was
 
 (9) In this paragraph, “market infrastructures” include recognised investment exchanges, recognised clearing houses and recognised CSDs, within the meaning of section 285 of FSMA 2000.
 
-#### 16. Code of Practice[^key-baaa9dfa2320d2a1ccb95c36f002f8d3][^key-a73fc9b927459eefc984fbf94003135e]
+#### 16. Code of Practice[^c-baaa9dfa2320d2a1ccb95c36f002f8d3][^c-a73fc9b927459eefc984fbf94003135e]
 
 (1) The Treasury must issue a code of practice about the use of the stabilisation powers.
 
@@ -496,7 +496,7 @@ the Bank must give written notice to each person to whom the original notice was
 
 (7) As soon as is reasonably practicable after issuing or re-issuing the code of practice the Treasury must lay a copy before Parliament.
 
-#### 17. General conditions[^key-af2dfd31486f56864a1017f4defcc2ac][^key-d690c35b841852972a220a81366c484e]
+#### 17. General conditions[^c-af2dfd31486f56864a1017f4defcc2ac][^c-d690c35b841852972a220a81366c484e]
 
 (1) A stabilisation power may be exercised in respect of a CCP only if the Bank is satisfied that each of the following conditions is met.
 
@@ -537,14 +537,14 @@ the Bank must give written notice to each person to whom the original notice was
 - (b) the FCA, and
 - (c) the Treasury.
 
-#### 18. Effect on other group members[^key-b9c350c48f9d0fdae92707fbcc7c1485][^key-53d5bfad110d1e70b3001ae161382b06]
+#### 18. Effect on other group members[^c-b9c350c48f9d0fdae92707fbcc7c1485][^c-53d5bfad110d1e70b3001ae161382b06]
 
 Where the Bank is considering the exercise of a stabilisation power in respect of a CCP which is a member of a group, the Bank must have regard to—
 
 - (a) the need to minimise the effect of the exercise of the power on other undertakings in the same group, and
 - (b) the potential effect of the exercise of the power on the financial stability of countries other than the United Kingdom (particularly those countries in which any member of that group is operating).
 
-#### 19. Specific conditions: financial assistance cases[^key-3cb6f1d2c67e7d16daf472d356ff7205][^key-7244a66b221b1fd89a397a98cbfcc412]
+#### 19. Specific conditions: financial assistance cases[^c-3cb6f1d2c67e7d16daf472d356ff7205][^c-7244a66b221b1fd89a397a98cbfcc412]
 
 (1) In a financial assistance case, the Bank may exercise a stabilisation power in respect of the CCP concerned in accordance with paragraph 27, 29 or 30 only if satisfied that the condition in sub-paragraph (3) is met.
 
@@ -557,7 +557,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 
 (4) The condition in this paragraph is in addition to the conditions in paragraph 17.
 
-#### 20. Resolution liaison panel[^key-c64b454664f9cba43f19f18399964de6][^key-bbb7024b535749d2549593c30f51bd3a]
+#### 20. Resolution liaison panel[^c-c64b454664f9cba43f19f18399964de6][^c-bbb7024b535749d2549593c30f51bd3a]
 
 (1) The Treasury must make arrangements for a panel to advise the Treasury about the effect of the special resolution regime on—
 
@@ -582,7 +582,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 - (g) one or more persons who in the Treasury’s opinion have expertise in law relating to the UK financial system, and
 - (h) one or more persons who in the Treasury’s opinion have expertise in insolvency law and practice.
 
-#### 21. Restrictions on use of certain resolution powers[^key-c73948553fe913a22349c045ce9656c4][^key-0db169177b1f0f8319e12c6079fb8431]
+#### 21. Restrictions on use of certain resolution powers[^c-c73948553fe913a22349c045ce9656c4][^c-0db169177b1f0f8319e12c6079fb8431]
 
 (1) Where the Bank has exercised the first stabilisation option (private sector purchaser) in respect of a CCP it may only exercise the relevant resolution powers in relation to the residual CCP.
 
@@ -597,11 +597,11 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 - “**relevant resolution powers**” means any of the resolution powers under paragraphs 27 to 38;
 - the “**residual CCP**” means the CCP all or part of whose business has been transferred in accordance with paragraph 27(2).
 
-#### 22. Pre-resolution valuation[^key-8d241de4968c257b1ea2f13718c5ff1f]
+#### 22. Pre-resolution valuation[^c-8d241de4968c257b1ea2f13718c5ff1f]
 
-(1)[^key-a9800e98fc41ebfa568b3bdbc83637a7] Before the Bank exercises a stabilisation power in respect of a CCP, it must ensure that the assets and liabilities of the CCP are valued.
+(1)[^c-a9800e98fc41ebfa568b3bdbc83637a7] Before the Bank exercises a stabilisation power in respect of a CCP, it must ensure that the assets and liabilities of the CCP are valued.
 
-(2)[^key-a9800e98fc41ebfa568b3bdbc83637a7] The purpose of a valuation carried out under sub-paragraph (1) is to—
+(2)[^c-a9800e98fc41ebfa568b3bdbc83637a7] The purpose of a valuation carried out under sub-paragraph (1) is to—
 
 - (a) inform the decision as to—
   - (i) whether the conditions for the exercise of a stabilisation power are satisfied,
@@ -612,20 +612,20 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
   - (vi) the value of any consideration to be paid to the CCP or the owners of the securities for any assets, liabilities or securities so transferred, and
 - (b) ensure that the full extent of any losses on the assets of that CCP are appreciated at the time that the Bank exercises a stabilisation power.
 
-(3)[^key-a9800e98fc41ebfa568b3bdbc83637a7] Unless sub-paragraph (4) applies, the Bank must arrange for the appointment of an independent valuer in accordance with paragraph 24 to carry out a valuation for the purposes of sub-paragraph (1).
+(3)[^c-a9800e98fc41ebfa568b3bdbc83637a7] Unless sub-paragraph (4) applies, the Bank must arrange for the appointment of an independent valuer in accordance with paragraph 24 to carry out a valuation for the purposes of sub-paragraph (1).
 
-(4)[^key-a9800e98fc41ebfa568b3bdbc83637a7] Where the Bank considers that the urgency of the case makes it appropriate to exercise the stabilisation power before a valuation can be carried out by a person appointed in accordance with sub-paragraph (3), the Bank may carry out a provisional valuation of the assets and liabilities of the CCP for the purposes of sub-paragraph (1).
+(4)[^c-a9800e98fc41ebfa568b3bdbc83637a7] Where the Bank considers that the urgency of the case makes it appropriate to exercise the stabilisation power before a valuation can be carried out by a person appointed in accordance with sub-paragraph (3), the Bank may carry out a provisional valuation of the assets and liabilities of the CCP for the purposes of sub-paragraph (1).
 
-(5)[^key-a9800e98fc41ebfa568b3bdbc83637a7] In carrying out a valuation required under sub-paragraph (1), the person carrying out the valuation must—
+(5)[^c-a9800e98fc41ebfa568b3bdbc83637a7] In carrying out a valuation required under sub-paragraph (1), the person carrying out the valuation must—
 
 - (a) make prudent assumptions as to possible rates of default and the severity of losses suffered by the CCP,
 - (b) disregard potential financial assistance which may be provided by the Bank or the Treasury after the Bank has exercised the stabilisation power (except for ordinary market assistance offered by the Bank on its usual terms),
 - (c) take account of the fact that the Bank and the Treasury may charge interest or fees in respect of any loans or guarantees provided to the CCP after the Bank has exercised the stabilisation power,
 - (d) apply any relevant methodology specified in regulations made under this paragraph.
 
-(6)[^key-a9800e98fc41ebfa568b3bdbc83637a7] A provisional valuation carried out under sub-paragraph (4) must in particular make provision in respect of additional losses by the CCP in accordance with any regulations made under this paragraph.
+(6)[^c-a9800e98fc41ebfa568b3bdbc83637a7] A provisional valuation carried out under sub-paragraph (4) must in particular make provision in respect of additional losses by the CCP in accordance with any regulations made under this paragraph.
 
-(7)[^key-a9800e98fc41ebfa568b3bdbc83637a7] A valuation under sub-paragraph (1) must be accompanied by—
+(7)[^c-a9800e98fc41ebfa568b3bdbc83637a7] A valuation under sub-paragraph (1) must be accompanied by—
 
 - (a) a balance sheet of the CCP as at the date of the valuation,
 - (b) a report on the financial position of the CCP,
@@ -633,20 +633,20 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 - (d) a list of the outstanding liabilities of the CCP (including any off-balance sheet liabilities), with the creditors subdivided into classes according to the priority their claims would receive in insolvency proceedings, and
 - (e) an estimate of the amount that each class of creditors and shareholders might be expected to receive if the CCP went into insolvent liquidation.
 
-(8)[^key-a9800e98fc41ebfa568b3bdbc83637a7] Where appropriate, the information in sub-paragraph (7)(c) may be supplemented by an analysis and estimate of the value of the assets and liabilities of the CCP on a market value basis.
+(8)[^c-a9800e98fc41ebfa568b3bdbc83637a7] Where appropriate, the information in sub-paragraph (7)(c) may be supplemented by an analysis and estimate of the value of the assets and liabilities of the CCP on a market value basis.
 
-(9)[^key-a9800e98fc41ebfa568b3bdbc83637a7] Where a provisional valuation is carried out under sub-paragraph (4), the Bank need only comply with sub-paragraph (7) as far as it is reasonable to do so in the circumstances.
+(9)[^c-a9800e98fc41ebfa568b3bdbc83637a7] Where a provisional valuation is carried out under sub-paragraph (4), the Bank need only comply with sub-paragraph (7) as far as it is reasonable to do so in the circumstances.
 
-(10)[^key-47f6295d0bf99150b368bcd99fc1e7f6] The Treasury may by regulations make provision for the purposes of a valuation under this paragraph specifying—
+(10)[^c-47f6295d0bf99150b368bcd99fc1e7f6] The Treasury may by regulations make provision for the purposes of a valuation under this paragraph specifying—
 
 - (a) the methodology for assessing the value of the assets and liabilities of a CCP;
 - (b) the methodology for calculating and including a buffer for additional losses in the provisional valuation.
 
-(11)[^key-47f6295d0bf99150b368bcd99fc1e7f6] Before making regulations under sub-paragraph (10) the Treasury must consult the Bank.
+(11)[^c-47f6295d0bf99150b368bcd99fc1e7f6] Before making regulations under sub-paragraph (10) the Treasury must consult the Bank.
 
-(12)[^key-47f6295d0bf99150b368bcd99fc1e7f6] Regulations under this paragraph are subject to the negative procedure.
+(12)[^c-47f6295d0bf99150b368bcd99fc1e7f6] Regulations under this paragraph are subject to the negative procedure.
 
-#### 23. Replacement of Bank’s provisional valuation[^key-e62896bc7b18445df3282035b0a8a95a][^key-2efac9bdcb91104e841e2510d3ecd81c]
+#### 23. Replacement of Bank’s provisional valuation[^c-e62896bc7b18445df3282035b0a8a95a][^c-2efac9bdcb91104e841e2510d3ecd81c]
 
 (1) Where the Bank has carried out a provisional valuation under paragraph 22 before exercising a stabilisation power, the Bank must arrange for the appointment of an independent valuer in accordance with paragraph 24 to carry out a full valuation in accordance with this paragraph as soon as reasonably practicable.
 
@@ -659,7 +659,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 
 (3) A valuation carried out under sub-paragraph (1) must comply with sub-paragraph (5) of paragraph 22 and be accompanied by the information required in sub-paragraph (7) of that paragraph.
 
-#### 24. Independent valuer: valuation under paragraph 22 or 23[^key-07d00701ceac86f8f9073952abb44fed][^key-5e779d406a5879b469281ca36fe74634]
+#### 24. Independent valuer: valuation under paragraph 22 or 23[^c-07d00701ceac86f8f9073952abb44fed][^c-5e779d406a5879b469281ca36fe74634]
 
 (1) The Bank must make arrangements for the appointment of a person to act as an independent valuer for the purposes of a valuation to be conducted under paragraph 22 or 23.
 
@@ -673,33 +673,33 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 
 (6) In the event of the death of an independent valuer, or an independent valuer being removed from office or resigning, a new independent valuer must be appointed by the Bank in accordance with this paragraph.
 
-#### 25. Independent valuer: supplemental[^key-58e2e86cf641246a4ab53ae60cc97bee]
+#### 25. Independent valuer: supplemental[^c-58e2e86cf641246a4ab53ae60cc97bee]
 
-(1)[^key-fb642610a8719e522f492f6934e1e0dc] An independent valuer may do anything necessary or desirable for the purposes of or in connection with the performance of the functions of the office.
+(1)[^c-fb642610a8719e522f492f6934e1e0dc] An independent valuer may do anything necessary or desirable for the purposes of or in connection with the performance of the functions of the office.
 
-(2)[^key-1193dc8aebd14eda2b71e1900bf6b377] The Treasury may by regulations confer specific functions on independent valuers; in particular, the regulations may—
+(2)[^c-1193dc8aebd14eda2b71e1900bf6b377] The Treasury may by regulations confer specific functions on independent valuers; in particular, the regulations may—
 
 - (a) enable an independent valuer to apply to a court or tribunal for an order requiring the provision of information or the giving of oral or written evidence;
 - (b) enable or require independent valuers to publish, disclose or withhold information.
 
-(3)[^key-1193dc8aebd14eda2b71e1900bf6b377] Provision under sub-paragraph (2) may—
+(3)[^c-1193dc8aebd14eda2b71e1900bf6b377] Provision under sub-paragraph (2) may—
 
 - (a) confer a discretion on independent valuers;
 - (b) confer jurisdiction on a court or tribunal;
 - (c) make provision about oaths, expenses and other procedural matters relating to the giving of evidence or the provision of information;
 - (d) make provision about enforcement.
 
-(4)[^key-fb642610a8719e522f492f6934e1e0dc] An independent valuer may appoint staff.
+(4)[^c-fb642610a8719e522f492f6934e1e0dc] An independent valuer may appoint staff.
 
-(5)[^key-1193dc8aebd14eda2b71e1900bf6b377] The Treasury may by regulations make provision about the procedure to be followed by independent valuers.
+(5)[^c-1193dc8aebd14eda2b71e1900bf6b377] The Treasury may by regulations make provision about the procedure to be followed by independent valuers.
 
-(6)[^key-fb642610a8719e522f492f6934e1e0dc] Independent valuers (and their staff) are neither servants nor agents of the Crown (and, in particular, are not civil servants).
+(6)[^c-fb642610a8719e522f492f6934e1e0dc] Independent valuers (and their staff) are neither servants nor agents of the Crown (and, in particular, are not civil servants).
 
-(7)[^key-fb642610a8719e522f492f6934e1e0dc] Records of an independent valuer are public records for the purposes of the Public Records Act 1958.
+(7)[^c-fb642610a8719e522f492f6934e1e0dc] Records of an independent valuer are public records for the purposes of the Public Records Act 1958.
 
-(8)[^key-1193dc8aebd14eda2b71e1900bf6b377] Regulations under this paragraph are subject to the negative procedure.
+(8)[^c-1193dc8aebd14eda2b71e1900bf6b377] Regulations under this paragraph are subject to the negative procedure.
 
-#### 26. Consequences of a replacement valuation[^key-bfabe1805129bcc6d3b2e9701645cf8c][^key-1a200515f5ff6683c0401a4bb172fd81]
+#### 26. Consequences of a replacement valuation[^c-bfabe1805129bcc6d3b2e9701645cf8c][^c-1a200515f5ff6683c0401a4bb172fd81]
 
 (1) Where the independent valuation carried out under paragraph 23(1) produces a higher valuation of the net asset value of the CCP than a provisional valuation carried out under paragraph 22(4), the Bank may—
 
@@ -713,7 +713,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 - (a) may not be exercised so as to increase the value of the liability beyond the value it would have had if the write-down instrument which reduced, cancelled or deferred it had not been made, and
 - (b) must be exercised by a resolution instrument (whether or not that instrument contains any other provision authorised by this Schedule).
 
-#### 27. Private sector purchaser[^key-97815cc460f89ac1c66a8c9636495f01][^key-e95b3c43a61aabe56ab6f1c1072800ca]
+#### 27. Private sector purchaser[^c-97815cc460f89ac1c66a8c9636495f01][^c-e95b3c43a61aabe56ab6f1c1072800ca]
 
 (1) The first stabilisation option is to sell all or part of the business of the CCP to a commercial purchaser.
 
@@ -722,7 +722,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 - (a) one or more share transfer instruments;
 - (b) one or more property transfer instruments.
 
-#### 28. Private sector purchaser: marketing[^key-c3cc954a802adb658d283ef93b1c2700][^key-dec6d940a5cf41595fd52d02837bfebc]
+#### 28. Private sector purchaser: marketing[^c-c3cc954a802adb658d283ef93b1c2700][^c-dec6d940a5cf41595fd52d02837bfebc]
 
 (1) Subject to sub-paragraph (4) and (5), the Bank must make arrangements for marketing—
 
@@ -748,7 +748,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 - (a) there is a material threat to financial stability in the United Kingdom arising from or aggravated by the failure or likely failure of the CCP, and
 - (b) complying with sub-paragraph (1) would undermine the effectiveness of the first stabilisation option in addressing that threat or achieving the objective in paragraph 15(4).
 
-#### 29. Bridge central counterparty[^key-11e0ebaf19a3fe7658f51ea80bf6ab74][^key-12b26299d5c18a33638e29fabea070ef]
+#### 29. Bridge central counterparty[^c-11e0ebaf19a3fe7658f51ea80bf6ab74][^c-12b26299d5c18a33638e29fabea070ef]
 
 (1) The second stabilisation option is to transfer all or part of the business of the CCP to a company which meets the requirements of sub-paragraph (2) (a “bridge central counterparty”).
 
@@ -804,13 +804,13 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
   - (ii) paragraph 69, and
   - (iii) paragraph 114(1).
 
-#### 30. Transfer of ownership[^key-c4c5789c092e6cf07a093d57d2a42652][^key-a2c43b19289a26b6ea523a803f8ccc8a]
+#### 30. Transfer of ownership[^c-c4c5789c092e6cf07a093d57d2a42652][^c-a2c43b19289a26b6ea523a803f8ccc8a]
 
 (1) The third stabilisation option is to transfer ownership of the CCP to any person other than a bridge central counterparty or a commercial purchaser.
 
 (2) For that purpose the Bank may make one or more share transfer instruments.
 
-#### 31. Tear-up power[^key-5218257c8ffba01241610393c7184a62][^key-37c67c0d66b94811f4f877ce95e93fc6]
+#### 31. Tear-up power[^c-5218257c8ffba01241610393c7184a62][^c-37c67c0d66b94811f4f877ce95e93fc6]
 
 (1) The fourth stabilisation option is to make one or more tear-up instruments for the purpose of ensuring that the CCP has a matched book.
 
@@ -831,26 +831,26 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 
 (8) For the purposes of this paragraph, a CCP has a matched book when the sum of the financial obligations owed by the CCP to its clearing members is equal to the sum of the financial obligations owed to the CCP by its clearing members.
 
-#### 32. Cash call power[^key-c0d8b606f3e2fc90ee36833d07eb3ac3]
+#### 32. Cash call power[^c-c0d8b606f3e2fc90ee36833d07eb3ac3]
 
-(1)[^key-8519b8169e686f4c17764eeccf58dca9] The fifth stabilisation option is to make one or more cash call instruments.
+(1)[^c-8519b8169e686f4c17764eeccf58dca9] The fifth stabilisation option is to make one or more cash call instruments.
 
-(2)[^key-8519b8169e686f4c17764eeccf58dca9] A cash call instrument is an instrument that makes provision requiring one or more clearing members of the CCP to pay an amount in cash specified in the instrument to the CCP.
+(2)[^c-8519b8169e686f4c17764eeccf58dca9] A cash call instrument is an instrument that makes provision requiring one or more clearing members of the CCP to pay an amount in cash specified in the instrument to the CCP.
 
-(3)[^key-8e030fa5671cc7dbab357be66e3d7350] The Treasury may by regulations—
+(3)[^c-8e030fa5671cc7dbab357be66e3d7350] The Treasury may by regulations—
 
 - (a) make provision for calculating the maximum cash amount that may be specified for the purposes of sub-paragraph (2);
 - (b) specify circumstances in which the Bank may require a CCP to use specified funds of specified clearing members to satisfy all or part of that member’s obligations under sub-paragraph (2).
 
-(4)[^key-8e030fa5671cc7dbab357be66e3d7350] The power under sub-paragraph (1) does not apply to a clearing member—
+(4)[^c-8e030fa5671cc7dbab357be66e3d7350] The power under sub-paragraph (1) does not apply to a clearing member—
 
 - (a) which is an interoperable CCP,
 - (b) which falls within Article 1(4) or (5) of EMIR, or
 - (c) in relation to which a direction under regulation 3(1)(f) of the Equivalence Determinations for Financial Services and Miscellaneous Provisions (Amendment etc) (EU Exit) Regulations 2019 ([S.I. 2019/541](https://www.legislation.gov.uk/uksi/2019/541)) is in force.
 
-(5)[^key-8e030fa5671cc7dbab357be66e3d7350] Regulations under this paragraph are subject to the negative procedure.
+(5)[^c-8e030fa5671cc7dbab357be66e3d7350] Regulations under this paragraph are subject to the negative procedure.
 
-#### 33. Power to reduce variation margin payments[^key-5dec2d362ac78cd96874a89c918d8257][^key-a8f7078bf56b904fcb83503a6181d306]
+#### 33. Power to reduce variation margin payments[^c-5dec2d362ac78cd96874a89c918d8257][^c-a8f7078bf56b904fcb83503a6181d306]
 
 (1) The sixth stabilisation option is to make one or more variation instruments.
 
@@ -865,7 +865,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 
 (5) In this paragraph, a “**variation margin payment**” means a payment reflecting an increase in the market value of a clearing member’s position in the market.
 
-#### 34. Write-down power[^key-6c1d3f91406607eb9422c09adc2886c1][^key-613ecba2ed97db5343811bb77abcd896]
+#### 34. Write-down power[^c-6c1d3f91406607eb9422c09adc2886c1][^c-613ecba2ed97db5343811bb77abcd896]
 
 (1) The seventh stabilisation option is for the Bank to make one or more write-down instruments.
 
@@ -911,7 +911,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 - “**initial margin requirements**” means margins provided by clearing members to a CCP to cover the CCP’s potential future exposure in the event of default by those members;
 - “**small enterprise**” means an enterprise which employs fewer than 50 people and whose annual turnover or annual balance sheet total does not exceed £10 million.
 
-#### 35. Powers in relation to securities[^key-eef85d0dee8f883b8e6749db62bb0326][^key-a631d78c7fc4b94aff9877e28834b8c0]
+#### 35. Powers in relation to securities[^c-eef85d0dee8f883b8e6749db62bb0326][^c-a631d78c7fc4b94aff9877e28834b8c0]
 
 (1) A write-down instrument may—
 
@@ -925,7 +925,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 - (a) make provision with respect to rights attaching to securities issued by the CCP;
 - (b) provide for the listing of securities issued by the CCP to be discontinued or suspended;
 - (c) provide for the listing or admission to trading on a regulated market of securities in class 1 (and related class 3 securities) created in accordance with that or any other write-down instrument;
-- (d) provide for the listing or admission to trading on a regulated market of existing securities in class 2 modified by that or any other write-down instrument [^key-ea0308fd8f5e2c967c6d729a6bd7dd44]....
+- (d) provide for the listing or admission to trading on a regulated market of existing securities in class 2 modified by that or any other write-down instrument [^c-ea0308fd8f5e2c967c6d729a6bd7dd44]....
 
 (4) The reference in sub-paragraph (1) to converting securities from one form or class into another includes creating a new security in connection with the modification of an existing security.
 
@@ -946,7 +946,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 
 (9) The provision that may be made under this paragraph in relation to any securities is in addition to any provision that the Bank may have power to make in relation to them under paragraph 34.
 
-#### 36. Report on provisions in write-down instrument[^key-0ca6cba7d465c45321453852b6a63938][^key-a7cd9e497236bf1fe6867c9ba61e216e]
+#### 36. Report on provisions in write-down instrument[^c-0ca6cba7d465c45321453852b6a63938][^c-a7cd9e497236bf1fe6867c9ba61e216e]
 
 (1) This paragraph applies to a relevant provision in a write-down instrument.
 
@@ -967,7 +967,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 
 (8) In this paragraph a “**relevant provision**” means a provision falling within paragraph 34(2).
 
-#### 37. Priority between creditors[^key-8744caed7a2211cfcbdc04d73a29db22][^key-c9c509b4227a6324a07c55b3427a785b]
+#### 37. Priority between creditors[^c-8744caed7a2211cfcbdc04d73a29db22][^c-c9c509b4227a6324a07c55b3427a785b]
 
 (1) The Treasury may, for the purpose of ensuring that the treatment of any claims in respect of a CCP’s shares or any liabilities in any write-down instrument is aligned to an appropriate degree with the treatment of claims and liabilities on an insolvency, by regulations specify matters or principles to which the Bank is to be required to have regard in making any such instrument.
 
@@ -980,7 +980,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 
 (4) Regulations under this paragraph are subject to the affirmative procedure.
 
-#### 38. Power to take control[^key-36af9141e4c4886e04120d7847ab3a3e][^key-876e439b0e37a62016fa12028cdef7c0]
+#### 38. Power to take control[^c-36af9141e4c4886e04120d7847ab3a3e][^c-876e439b0e37a62016fa12028cdef7c0]
 
 (1) The eighth stabilisation option is for the Bank to make one or more instruments of control.
 
@@ -995,7 +995,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 - (b) provision for the Bank to exercise such powers, rights, duties or liabilities under the CCP’s rules as may be specified in the instrument;
 - (c) provision for the Bank to exercise such powers, rights, duties or liabilities in relation to any contracts that the CCP is a party to as may be specified in the instrument.
 
-#### 39. Shadow directors etc[^key-28b7565330eead18be9beb21a4a15943][^key-a5d767bcd25c6674025f8b7a3f33adc2]
+#### 39. Shadow directors etc[^c-28b7565330eead18be9beb21a4a15943][^c-a5d767bcd25c6674025f8b7a3f33adc2]
 
 (1) This paragraph applies where the Bank uses one or more of the stabilisation options mentioned in paragraph 1(3) in respect of a CCP unless the CCP has ceased to be subject to the exercise of any stabilisation power mentioned in paragraph 1(4).
 
@@ -1019,7 +1019,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
   - (b) persons who are employed by, or act on behalf of, the Bank, and
   - (c) a temporary manager appointed under paragraph 6 of this Schedule.
 
-#### 40. Interpretation: “securities”[^key-fdef309839f0bed25ef3f9997597637f][^key-7147ec2261ce673a7b0e4bfae0fde54d]
+#### 40. Interpretation: “securities”[^c-fdef309839f0bed25ef3f9997597637f][^c-7147ec2261ce673a7b0e4bfae0fde54d]
 
 (1) In this Schedule “**securities**” includes anything falling within any of the following classes.
 
@@ -1035,7 +1035,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 
 (4) Class 3: warrants or other instruments that entitle the holder to acquire anything in Class 1 or 2.
 
-#### 41. Share transfer instrument[^key-65d8628a8cf86f329947d8961c917da6][^key-2a72cfe538a687344c910699d8b4b6ae]
+#### 41. Share transfer instrument[^c-65d8628a8cf86f329947d8961c917da6][^c-2a72cfe538a687344c910699d8b4b6ae]
 
 (1) A share transfer instrument is for purposes of this Schedule an instrument which—
 
@@ -1047,7 +1047,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 - (a) specified securities, or
 - (b) securities of a specified description.
 
-#### 42. Effect[^key-a425979ac1f61b3fc7e1a6db792f2c99][^key-906aad2c5874ef8fdfd0d9e8b6873f3b]
+#### 42. Effect[^c-a425979ac1f61b3fc7e1a6db792f2c99][^c-906aad2c5874ef8fdfd0d9e8b6873f3b]
 
 (1) In this paragraph “**transfer**” means a transfer provided for by a share transfer instrument.
 
@@ -1064,7 +1064,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 
 (6) A share transfer instrument may extinguish rights to acquire securities falling within Class 1 or 2 in paragraph 40.
 
-#### 43. Continuity[^key-0e00cc62e7494c1c2d6b48ae5bc6ecef][^key-dfdbb03cf868da55026f83a3f022f8ed]
+#### 43. Continuity[^c-0e00cc62e7494c1c2d6b48ae5bc6ecef][^c-dfdbb03cf868da55026f83a3f022f8ed]
 
 (1) A share transfer instrument may provide for a transferee to be treated for any purpose connected with the transfer as the same person as the transferor.
 
@@ -1079,7 +1079,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 - (a) a transferor to provide a transferee with information and assistance;
 - (b) a transferee to provide a transferor with information and assistance.
 
-#### 44. Conversion and delisting[^key-ecc0835f49aed585a3f38c36bba508ac][^key-c70878c339349066b7ae5cd3dd87d174]
+#### 44. Conversion and delisting[^c-ecc0835f49aed585a3f38c36bba508ac][^c-c70878c339349066b7ae5cd3dd87d174]
 
 (1) A share transfer instrument may provide for securities to be converted from one form or class to another.
 
@@ -1087,7 +1087,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 
 (3) Where the listing of securities is suspended in accordance with a share transfer instrument, those securities are to be treated for the purposes of section 96 of, and paragraph 23(6) of Schedule 1ZA to, FSMA 2000 as still being listed.
 
-#### 45. Directors and senior managers[^key-f249f48d6369134019f830639d739916][^key-c66ee481dfe31c32aa23f47b29fa38a6]
+#### 45. Directors and senior managers[^c-f249f48d6369134019f830639d739916][^c-c66ee481dfe31c32aa23f47b29fa38a6]
 
 (1) A share transfer instrument may enable the Bank—
 
@@ -1102,7 +1102,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 
 (4) Appointments under sub-paragraph (1)(d) are to be on terms and conditions agreed with the Bank.
 
-#### 46. Ancillary instruments: production, registration, etc[^key-66cdc3acf9cbb9aacdab5bd88f139a15][^key-87a04138c381d38fa2bbef2a14af9e92]
+#### 46. Ancillary instruments: production, registration, etc[^c-66cdc3acf9cbb9aacdab5bd88f139a15][^c-87a04138c381d38fa2bbef2a14af9e92]
 
 (1) A share transfer instrument may permit or require the execution, issue or delivery of an instrument.
 
@@ -1120,7 +1120,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 - (a) entitle a transferee to be registered in respect of transferred securities;
 - (b) require a person to effect registration.
 
-#### 47. Incidental provision[^key-ab6d690406608abaeba8c441e1b061ed][^key-b62e4478cae5cb90d6355f9a0dd6f5c3]
+#### 47. Incidental provision[^c-ab6d690406608abaeba8c441e1b061ed][^c-b62e4478cae5cb90d6355f9a0dd6f5c3]
 
 (1) A share transfer instrument may include incidental, consequential or transitional provision.
 
@@ -1129,7 +1129,7 @@ Where the Bank is considering the exercise of a stabilisation power in respect o
 - (a) may make provision generally or only for specified purposes, cases or circumstances, and
 - (b) may make different provision for different purposes, cases or circumstances.
 
-#### 48. Procedure: instruments[^key-72c3fabd53e75d14ea2aab496b53fddb][^key-2db21b07aabf2584d6bf79f504c89d62]
+#### 48. Procedure: instruments[^c-72c3fabd53e75d14ea2aab496b53fddb][^c-2db21b07aabf2584d6bf79f504c89d62]
 
 (1) As soon as is reasonably practicable after making a share transfer instrument in respect of a CCP, the Bank must send a copy to—
 
@@ -1149,7 +1149,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (3) Where the Treasury receive a copy of a share transfer instrument under sub-paragraph (1) they must lay a copy before Parliament.
 
-#### 49. Supplemental instruments[^key-ba9bc91081f1df78b4bb29596b8fc662][^key-8f496fc09785c9a2b3ecec7e3eaa34a7]
+#### 49. Supplemental instruments[^c-ba9bc91081f1df78b4bb29596b8fc662][^c-8f496fc09785c9a2b3ecec7e3eaa34a7]
 
 (1) This paragraph applies where the Bank has made a share transfer instrument, in respect of securities issued by a CCP, in accordance with paragraph 27(2), 29(3) or 30(2) (“the original instrument”).
 
@@ -1172,7 +1172,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (7) Paragraph 48 applies where the Bank has made a supplemental share transfer instrument.
 
-#### 50. Onward transfer[^key-e8d5105528bc1830d421b069a065a250][^key-13adf469f60373c88dbcd077d5616332]
+#### 50. Onward transfer[^c-e8d5105528bc1830d421b069a065a250][^c-13adf469f60373c88dbcd077d5616332]
 
 (1) This paragraph applies where the Bank has made a share transfer instrument, in respect of securities issued by a CCP, in accordance with paragraph 27(2), 29(3) or 30(2) (“the original instrument”).
 
@@ -1202,7 +1202,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (8) Paragraph 48 applies where the Bank has made an onward share transfer instrument.
 
-#### 51. Reverse share transfer[^key-04f7cde248a684c5da08914945da2989][^key-2cf6e85ee3d58b0e8093cad7f80e60c1]
+#### 51. Reverse share transfer[^c-04f7cde248a684c5da08914945da2989][^c-2cf6e85ee3d58b0e8093cad7f80e60c1]
 
 (1) This paragraph applies where the Bank has made a share transfer instrument in accordance with paragraph 27(2), 29(3) or 30(2) (“the original instrument”) providing for the transfer of securities issued by a CCP to a person (“the original transferee”).
 
@@ -1241,7 +1241,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (9) Paragraph 48 applies where the Bank has made a reverse share transfer instrument.
 
-#### 52. Bridge central counterparties: share transfers[^key-e0ca70f35e4c4e6dd117681b5f74aabb][^key-604f45e3179e5747fc0e8f7ed5a78cea]
+#### 52. Bridge central counterparties: share transfers[^c-e0ca70f35e4c4e6dd117681b5f74aabb][^c-604f45e3179e5747fc0e8f7ed5a78cea]
 
 (1) This paragraph applies where the Bank has made a property transfer instrument or share transfer instrument in respect of a bridge central counterparty in accordance with paragraph 29(3) (“the original instrument”).
 
@@ -1262,7 +1262,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (6) Paragraph 48 applies where the Bank has made a bridge central counterparty share transfer instrument.
 
-#### 53. Bridge central counterparties: reverse share transfer[^key-88308fd010946d6de4982a9ded8f8f39][^key-c9e7c90d4929ab8c359f2f320e412b60]
+#### 53. Bridge central counterparties: reverse share transfer[^c-88308fd010946d6de4982a9ded8f8f39][^c-c9e7c90d4929ab8c359f2f320e412b60]
 
 (1) This paragraph applies where the Bank has made a bridge central counterparty share transfer instrument in accordance with paragraph 52(2) (“the original instrument”).
 
@@ -1291,7 +1291,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (7) Paragraph 48 applies where the Bank has made a bridge central counterparty reverse share transfer instrument.
 
-#### 54. Property transfer instrument[^key-d29993d88c5e84f2e03b3d317e3523a8][^key-4bf1ef63f6802626a0c7725350f7355c]
+#### 54. Property transfer instrument[^c-d29993d88c5e84f2e03b3d317e3523a8][^c-4bf1ef63f6802626a0c7725350f7355c]
 
 (1) A property transfer instrument is an instrument which—
 
@@ -1305,7 +1305,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 - (c) specified property, rights or liabilities, or
 - (d) property, rights or liabilities of a specified description.
 
-#### 55. Effect[^key-4833ce901c16741c0f319b7566468dbe][^key-05d411f71d21f2fe2b26a37f2d6dd01a]
+#### 55. Effect[^c-4833ce901c16741c0f319b7566468dbe][^c-05d411f71d21f2fe2b26a37f2d6dd01a]
 
 (1) In this paragraph “**transfer**” means a transfer provided for by a property transfer instrument.
 
@@ -1341,7 +1341,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (9) In sub-paragraph (8) references to the transferor are references to the transferor under the property transfer instrument.
 
-#### 56. Transferable property[^key-18a2008ed9b485eebebdec54c7112eb3][^key-93ae991c4c85eb175814fd2c711b8fca]
+#### 56. Transferable property[^c-18a2008ed9b485eebebdec54c7112eb3][^c-93ae991c4c85eb175814fd2c711b8fca]
 
 A property transfer instrument may transfer any property, rights or liabilities including, in particular—
 
@@ -1351,7 +1351,7 @@ A property transfer instrument may transfer any property, rights or liabilities 
 - (d) rights and liabilities under the law of a country or territory outside the United Kingdom, and
 - (e) rights and liabilities under an enactment.
 
-#### 57. Continuity[^key-6a69b551d890d5187c3e0b7dc216538d][^key-f16222b06a2fd2670118c7a96b477afa]
+#### 57. Continuity[^c-6a69b551d890d5187c3e0b7dc216538d][^c-f16222b06a2fd2670118c7a96b477afa]
 
 (1) A property transfer instrument may provide—
 
@@ -1378,7 +1378,7 @@ A property transfer instrument may transfer any property, rights or liabilities 
 - (a) a transferor to provide a transferee with information and assistance;
 - (b) a transferee to provide a transferor with information and assistance.
 
-#### 58. Directors and senior managers[^key-7a9b541613e50728eb2c1e43a4a923b2][^key-f9c6f042ffd21ca60dbef9c26b6bda5b]
+#### 58. Directors and senior managers[^c-7a9b541613e50728eb2c1e43a4a923b2][^c-f9c6f042ffd21ca60dbef9c26b6bda5b]
 
 (1) A property transfer instrument may enable the Bank—
 
@@ -1393,7 +1393,7 @@ A property transfer instrument may transfer any property, rights or liabilities 
 
 (4) Appointments under sub-paragraph (1)(d) are to be on terms and conditions agreed with the Bank.
 
-#### 59. Recognised central counterparty rules[^key-a9bf439e063c9480c060c0fc8ce63231][^key-f3abc26bf60c285d11131497d5ed980a]
+#### 59. Recognised central counterparty rules[^c-a9bf439e063c9480c060c0fc8ce63231][^c-f3abc26bf60c285d11131497d5ed980a]
 
 (1) A property transfer instrument made in respect of a CCP may make provision about the consequences of a transfer for the rules of the CCP.
 
@@ -1407,7 +1407,7 @@ A property transfer instrument may transfer any property, rights or liabilities 
 - (a) for a specified period, or
 - (b) until a specified event occurs or does not occur.
 
-#### 60. Recognised central counterparty membership[^key-8748790ce38228927da9e3ab424147d3][^key-bb7cc87b4b087a0399e1c316d38d434c]
+#### 60. Recognised central counterparty membership[^c-8748790ce38228927da9e3ab424147d3][^c-bb7cc87b4b087a0399e1c316d38d434c]
 
 (1) A property transfer instrument made in respect of a CCP may make provision about the consequences of a transfer for membership of the CCP.
 
@@ -1416,7 +1416,7 @@ A property transfer instrument may transfer any property, rights or liabilities 
 - (a) make provision modifying the terms on which a person is a clearing member of a CCP;
 - (b) in a case where some, but not all, of the business of a CCP is transferred, provide for a person who was a clearing member of the transferor to remain a clearing member of the transferor while also becoming a clearing member of the transferee.
 
-#### 61. Licences[^key-cb8d53da674f1261c24eb3986efdea1b][^key-c88c9e424f6b51e193b039fa7ff40efc]
+#### 61. Licences[^c-cb8d53da674f1261c24eb3986efdea1b][^c-c88c9e424f6b51e193b039fa7ff40efc]
 
 (1) A licence in respect of anything transferred by a property transfer instrument continues to have effect despite the transfer.
 
@@ -1426,7 +1426,7 @@ A property transfer instrument may transfer any property, rights or liabilities 
 
 (4) In this paragraph “**licence**” includes permission and approval and any other permissive document in respect of anything transferred.
 
-#### 62. Foreign property[^key-8182b78e2fb42d7903565e3e61ad6e73][^key-6da1265fbfed65ef92c9cd66e16ff19f]
+#### 62. Foreign property[^c-8182b78e2fb42d7903565e3e61ad6e73][^c-6da1265fbfed65ef92c9cd66e16ff19f]
 
 (1) This paragraph applies where a property transfer instrument transfers foreign property.
 
@@ -1460,7 +1460,7 @@ A property transfer instrument may transfer any property, rights or liabilities 
 
 (10) In this paragraph “**foreign law**” means the law of a country or territory outside the United Kingdom.
 
-#### 63. Incidental provision[^key-7d6f1b5266d3df3c903873e867501472][^key-249cb13a76627afdf683151b86dfd2b3]
+#### 63. Incidental provision[^c-7d6f1b5266d3df3c903873e867501472][^c-249cb13a76627afdf683151b86dfd2b3]
 
 (1) A property transfer instrument may include incidental, consequential or transitional provision.
 
@@ -1469,7 +1469,7 @@ A property transfer instrument may transfer any property, rights or liabilities 
 - (a) may make provision generally or only for specified purposes, cases or circumstances, and
 - (b) may make different provision for different purposes, cases or circumstances.
 
-#### 64. Procedure[^key-83e14e1a77a77d4b5c754a79bb6d4e19][^key-ba729039fd7fa326d15d64317aa24cac]
+#### 64. Procedure[^c-83e14e1a77a77d4b5c754a79bb6d4e19][^c-ba729039fd7fa326d15d64317aa24cac]
 
 (1) As soon as is reasonably practicable after making a property transfer instrument in respect of a CCP, the Bank must send a copy to—
 
@@ -1489,13 +1489,13 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (3) Where the Treasury receive a copy of a property transfer instrument under sub-paragraph (1) they must lay a copy before Parliament.
 
-#### 65. Property transfer instrument: delisting[^key-249fcfd9a1fc6b7939c91313a8ebbf68][^key-fa7e71983a546f64f16ae8c40e42e4b5]
+#### 65. Property transfer instrument: delisting[^c-249fcfd9a1fc6b7939c91313a8ebbf68][^c-fa7e71983a546f64f16ae8c40e42e4b5]
 
 (1) A property transfer instrument may provide for the listing of securities, under section 74 of FSMA 2000, to be discontinued or suspended.
 
 (2) Where the listing of securities is suspended in accordance with a property transfer instrument, those securities are to be treated for the purposes of section 96 of, and paragraph 23(6) of Schedule 1ZA to, FSMA 2000 as still being listed.
 
-#### 66. Transfer of property subsequent to resolution instrument[^key-18c741eaba97a325300d72a2928b14e0][^key-8e280669721532664393066aad81213a]
+#### 66. Transfer of property subsequent to resolution instrument[^c-18c741eaba97a325300d72a2928b14e0][^c-8e280669721532664393066aad81213a]
 
 (1) This paragraph applies where the Bank has made a resolution instrument.
 
@@ -1509,7 +1509,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 - (b) the FCA, and
 - (c) the Treasury.
 
-#### 67. Supplemental instruments[^key-3271e3a07e89f7d91906e70bdac6ce8f][^key-b8e7fc7188383666416f25762a913112]
+#### 67. Supplemental instruments[^c-3271e3a07e89f7d91906e70bdac6ce8f][^c-b8e7fc7188383666416f25762a913112]
 
 (1) This paragraph applies where the Bank has made a property transfer instrument in accordance with paragraph 27(2) or 29(3) (“the original instrument”).
 
@@ -1532,7 +1532,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (7) Paragraph 64 applies where the Bank has made a supplemental property transfer instrument.
 
-#### 68. Private sector purchaser: reverse property transfer[^key-d0e5414069de2022c2bff3c2b090644d][^key-1e5302f6bab1e0d95e8361575530a010]
+#### 68. Private sector purchaser: reverse property transfer[^c-d0e5414069de2022c2bff3c2b090644d][^c-1e5302f6bab1e0d95e8361575530a010]
 
 (1) This paragraph applies where the Bank has made a property transfer instrument in accordance with paragraph 27(2) (“the original instrument”) providing for the transfer of property, rights or liabilities of a CCP to a person (“the original transferee”).
 
@@ -1555,7 +1555,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (7) Paragraph 64 applies where the Bank has made a private sector reverse property transfer instrument.
 
-#### 69. Onward transfer[^key-a0bbc6c064198690029d87e534ca1bbc][^key-99f4a17309158d3328dcbcef86468a1e]
+#### 69. Onward transfer[^c-a0bbc6c064198690029d87e534ca1bbc][^c-99f4a17309158d3328dcbcef86468a1e]
 
 (1) This paragraph applies where the Bank has made a property transfer instrument in respect of a bridge central counterparty in accordance with paragraph 29(3) (“the original instrument”).
 
@@ -1580,7 +1580,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (8) Paragraph 64 applies where the Bank of England has made an onward property transfer instrument.
 
-#### 70. Bridge central counterparties: reverse property transfer[^key-ddc9d2ee7aef0357600515641b3a4e65][^key-1fe94fe7527c0c28d891514a481a5aa8]
+#### 70. Bridge central counterparties: reverse property transfer[^c-ddc9d2ee7aef0357600515641b3a4e65][^c-1fe94fe7527c0c28d891514a481a5aa8]
 
 (1) This paragraph applies where the Bank has made a property transfer instrument in accordance with paragraph 29(3) (“the original instrument”) providing for the transfer of property, rights or liabilities to a bridge central counterparty.
 
@@ -1612,7 +1612,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (8) Paragraph 64 applies where the Bank has made a bridge central counterparty reverse property transfer instrument.
 
-#### 71. Transfer of ownership and private sector purchaser: property transfer[^key-a1e288297de48fdfc7736342db88bf11][^key-d90b8cae4b4dc0069bc98a179e5437ca]
+#### 71. Transfer of ownership and private sector purchaser: property transfer[^c-a1e288297de48fdfc7736342db88bf11][^c-d90b8cae4b4dc0069bc98a179e5437ca]
 
 (1) This paragraph applies where the Bank has made a share transfer instrument, in respect of securities issued by a CCP, in accordance with paragraph 27(2) or 30(2) (“the original instrument”).
 
@@ -1638,7 +1638,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (7) Paragraph 64 applies where the Bank has made a property transfer instrument in accordance with this paragraph.
 
-#### 72. Transfer of ownership: reverse property transfer[^key-ca6f2e97bd15ff5c890dc2adc34dd37d][^key-494ddacc108c6b6e3d3e4d21b8d41dca]
+#### 72. Transfer of ownership: reverse property transfer[^c-ca6f2e97bd15ff5c890dc2adc34dd37d][^c-494ddacc108c6b6e3d3e4d21b8d41dca]
 
 (1) This paragraph applies where the Bank has made a property transfer instrument in accordance with paragraph 71(2) (“the original instrument”).
 
@@ -1666,7 +1666,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (7) Paragraph 64 applies where the Bank has made a reverse property transfer instrument in accordance with this paragraph.
 
-#### 73. Bridge central counterparty: supplemental property transfer powers[^key-8367266986b7e7bf3ec9f68509b21a79][^key-3e41a090e7c5f9ef09b35d8e39a9880f]
+#### 73. Bridge central counterparty: supplemental property transfer powers[^c-8367266986b7e7bf3ec9f68509b21a79][^c-3e41a090e7c5f9ef09b35d8e39a9880f]
 
 (1) This paragraph applies where the Bank has made a share transfer instrument in accordance with paragraph 29(3) (“the original instrument”) providing for the transfer of securities issued by a CCP (“the CCP”) to a bridge central counterparty.
 
@@ -1689,7 +1689,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (7) Paragraph 64 applies where the Bank has made a bridge central counterparty supplemental property transfer instrument.
 
-#### 74. Bridge central counterparty: supplemental reverse property transfer powers[^key-8f0940496d4a930721f222520ef6cd1c][^key-a8dd0a689e5b9357f1433d1c7ebd8d07]
+#### 74. Bridge central counterparty: supplemental reverse property transfer powers[^c-8f0940496d4a930721f222520ef6cd1c][^c-a8dd0a689e5b9357f1433d1c7ebd8d07]
 
 (1) This paragraph applies where the Bank has made a bridge central counterparty supplemental property transfer instrument in accordance with paragraph 73 (“the original instrument”).
 
@@ -1718,7 +1718,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (7) Paragraph 64 applies where the Bank has made a bridge central counterparty supplemental property transfer instrument.
 
-#### 75. Restriction of partial transfers[^key-45c3728d8ca5a62922c8249646ca4cab][^key-cdb68a28c8e27d7321cd04a2ba02a496]
+#### 75. Restriction of partial transfers[^c-45c3728d8ca5a62922c8249646ca4cab][^c-cdb68a28c8e27d7321cd04a2ba02a496]
 
 (1) In this Schedule, “**partial property transfer**” means a property transfer instrument which provides for the transfer of some, but not all of the property, rights and liabilities of a CCP.
 
@@ -1738,7 +1738,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (5) Regulations under this paragraph are subject to the affirmative procedure.
 
-#### 76. Power to protect certain interests[^key-cf164650bb43ff7eeeefb07554758468][^key-d116e9258e9b1262db54f1fe502643cf]
+#### 76. Power to protect certain interests[^c-cf164650bb43ff7eeeefb07554758468][^c-d116e9258e9b1262db54f1fe502643cf]
 
 (1) In this paragraph—
 
@@ -1772,13 +1772,13 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (6) Regulations under this paragraph are subject to the affirmative procedure.
 
-#### 77. Creation of liabilities[^key-7387f164d49b98ffe05d8e43e3d9ba1d][^key-b34321f1569b147471b35133c9580f29]
+#### 77. Creation of liabilities[^c-7387f164d49b98ffe05d8e43e3d9ba1d][^c-b34321f1569b147471b35133c9580f29]
 
 (1) The provision that may be made by a property transfer instrument in reliance on paragraph 54(1)(b), 67(3)(b), 68(3)(b), 69(3)(b), 70(4)(c), 71(3)(b), 72(3)(b), 73(3)(b), or 74(3)(b) includes provision for the creation of liabilities.
 
 (2) The provision may be framed by reference to an agreement which has been or is to be entered into, or anything else which has been or is to be done, by any person (including a person other than the person making the instrument).
 
-#### 78. Regulations for safeguarding certain financial arrangements: write-down instruments[^key-830434cc46d5d707076819c8c86ccef5][^key-c538503f807e754c25cc947f56cde23c]
+#### 78. Regulations for safeguarding certain financial arrangements: write-down instruments[^c-830434cc46d5d707076819c8c86ccef5][^c-c538503f807e754c25cc947f56cde23c]
 
 (1) In this paragraph “**protected arrangements**” means security interests, title transfer collateral arrangements, set-off arrangements and netting arrangements.
 
@@ -1816,7 +1816,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (7) Regulations under this paragraph are subject to the affirmative procedure.
 
-#### 79. Resolution instruments: effect and supplementary matters[^key-a9392a38df75335d0faef036ef6df0ba][^key-15db9c73e36573d3910151666691a763]
+#### 79. Resolution instruments: effect and supplementary matters[^c-a9392a38df75335d0faef036ef6df0ba][^c-15db9c73e36573d3910151666691a763]
 
 (1) In this Schedule “**resolution instrument**” means—
 
@@ -1855,7 +1855,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (11) A resolution instrument ceasing to have effect does not affect the validity of anything previously done in accordance with it.
 
-#### 80. Write-down instruments: supplementary[^key-33d98e6249ec49e1a4d3d66d697288d8][^key-bf518bd09a0210cf5d4a7c14ecd1760b]
+#### 80. Write-down instruments: supplementary[^c-33d98e6249ec49e1a4d3d66d697288d8][^c-bf518bd09a0210cf5d4a7c14ecd1760b]
 
 (1) A write-down instrument may permit or require the execution, issue or delivery of an instrument.
 
@@ -1871,7 +1871,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 - (a) entitle a person to be registered in respect of a security;
 - (b) require a person to effect registration.
 
-#### 81. Resolution instruments: procedure[^key-63de230431c33cd5940f11b415954f6c][^key-1495226556760c2d9cfd6194b07c49f1]
+#### 81. Resolution instruments: procedure[^c-63de230431c33cd5940f11b415954f6c][^c-1495226556760c2d9cfd6194b07c49f1]
 
 (1) As soon as is reasonably practicable after making a resolution instrument in respect of a CCP, the Bank must send a copy of the instrument to—
 
@@ -1891,7 +1891,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (3) Where the Treasury receive a copy of a resolution instrument under sub-paragraph (1) they must lay a copy before Parliament.
 
-#### 82. Supplemental resolution instruments[^key-4ed76623d267c5ab6290ef7a67f63200][^key-4e63398938717070c55ee97558dc352a]
+#### 82. Supplemental resolution instruments[^c-4ed76623d267c5ab6290ef7a67f63200][^c-4e63398938717070c55ee97558dc352a]
 
 (1) This paragraph applies where the Bank has made a resolution instrument (“the original instrument”) with respect to a CCP.
 
@@ -1907,7 +1907,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (5) The possibility of making a supplemental resolution instrument in reliance on sub-paragraph (2) is without prejudice to the possibility of making a new resolution instrument in accordance with paragraphs 31(1), 32(1), 33(1), 34(1) and 38(1) (and not in reliance on sub-paragraph (2) above).
 
-#### 83. Directors and senior managers[^key-630a0c703d00b0155c104792a099f0c7][^key-d5d7f5a004cce5adbb485ca62b3bfbf8]
+#### 83. Directors and senior managers[^c-630a0c703d00b0155c104792a099f0c7][^c-d5d7f5a004cce5adbb485ca62b3bfbf8]
 
 (1) A resolution instrument may enable the Bank—
 
@@ -1922,7 +1922,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (4) Appointments under sub-paragraph (1)(d) are to be on terms and conditions agreed with the Bank.
 
-#### 84. Termination rights etc[^key-78255ce84c50a484d573348d40a67362][^key-3f6cfbc56ef065b4b86ba31f2c19ad2c]
+#### 84. Termination rights etc[^c-78255ce84c50a484d573348d40a67362][^c-3f6cfbc56ef065b4b86ba31f2c19ad2c]
 
 (1) In this paragraph—
 
@@ -2003,7 +2003,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (14) A thing is not done by virtue of a stabilisation instrument for the purposes of sub-paragraph (12)(b) merely by virtue of being done under a contract or other agreement rights or obligations under which have been affected by the instrument.
 
-#### 85. Deferment[^key-ae6269f137f17b615946b5248475d804][^key-e98dab2668dce890d7c8f674caae2f33]
+#### 85. Deferment[^c-ae6269f137f17b615946b5248475d804][^c-e98dab2668dce890d7c8f674caae2f33]
 
 (1) The Treasury may by regulations make provision for and in connection with the suspension or waiver of provisions made under a resolution instrument.
 
@@ -2016,13 +2016,13 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (3) Regulations under this paragraph are subject to the negative procedure.
 
-#### 86. Recovery of expenses[^key-e66565b34e94f0345390fd25e728a536][^key-edb22368818075c7d99e0ab5350a42d5]
+#### 86. Recovery of expenses[^c-e66565b34e94f0345390fd25e728a536][^c-edb22368818075c7d99e0ab5350a42d5]
 
 (1) The Bank may, in making a resolution instrument, share transfer instrument or property transfer instrument in relation to a CCP, direct that CCP to pay the Bank a specified fee to cover expenses reasonably incurred by the Bank in connection with exercising that option.
 
 (2) The Treasury may direct a CCP in relation to which the Bank has made a resolution instrument, share transfer instrument or property transfer instrument to pay the Treasury a specified fee to cover expenses reasonably incurred by the Treasury in connection with the exercise by the Bank of that power in relation to the CCP.
 
-#### 87. Compensation scheme[^key-3ce7512b6cd98b6f768d344d099e87f4][^key-a42e01d55ac8d73e54586230ba024f87]
+#### 87. Compensation scheme[^c-3ce7512b6cd98b6f768d344d099e87f4][^c-a42e01d55ac8d73e54586230ba024f87]
 
 (1) The Treasury may by regulations make provision for protecting the financial interests of relevant persons in connection with the making of a stabilisation instrument in respect of a CCP.
 
@@ -2070,7 +2070,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (8) Regulations under this paragraph are subject to the affirmative procedure.
 
-#### 88. Instruments: notification of members and creditors[^key-bef30f3e990e34789fdb79db8fe1ecfb][^key-fda17f09a2662b5a81d7139e2e52944c]
+#### 88. Instruments: notification of members and creditors[^c-bef30f3e990e34789fdb79db8fe1ecfb][^c-fda17f09a2662b5a81d7139e2e52944c]
 
 (1) This paragraph applies where the Bank has applied one or more of the stabilisation options in respect of a CCP.
 
@@ -2079,7 +2079,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 - (a) the CCP’s shareholders or, if the CCP is an unincorporated association, its members, and
 - (b) creditors of the CCP.
 
-#### 89. General continuity obligation: property transfers[^key-352e5d10ac030057408a398ef7ad1aa4][^key-8d242cc191712be203b014964988e3fc]
+#### 89. General continuity obligation: property transfers[^c-352e5d10ac030057408a398ef7ad1aa4][^c-8d242cc191712be203b014964988e3fc]
 
 (1) In this paragraph—
 
@@ -2110,7 +2110,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (10) A notice under sub-paragraph (9) is to be determinative of the nature and extent of the continuity obligation as from the time when the notice is given.
 
-#### 90. Special continuity obligations: property transfers[^key-c658324c18da93e9c45533fec603014c][^key-1a1e9fc3e7e02f47ed46de1f67509079]
+#### 90. Special continuity obligations: property transfers[^c-c658324c18da93e9c45533fec603014c][^c-1a1e9fc3e7e02f47ed46de1f67509079]
 
 (1) Expressions in this paragraph have the same meaning as in paragraph 89.
 
@@ -2135,7 +2135,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (5) An obligation imposed on the residual CCP or a group company under sub-paragraph (2)(d) or (e) continues to apply despite the residual CCP or group company entering insolvency, and may not be disclaimed by a liquidator under section 178(2) of the Insolvency Act 1986 or Article 152(1) of the Insolvency (Northern Ireland) Order 1989.
 
-#### 91. Continuity obligations: onward property transfers[^key-80dbcaa9a4939c7bb208203ebb027649][^key-7b72d407edf75f0440d67dec46ff4471]
+#### 91. Continuity obligations: onward property transfers[^c-80dbcaa9a4939c7bb208203ebb027649][^c-7b72d407edf75f0440d67dec46ff4471]
 
 (1) In this paragraph—
 
@@ -2174,7 +2174,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (7) The Bank may act under or by virtue of sub-paragraph (2) only with the consent of the Treasury.
 
-#### 92. General continuity obligation: share transfers[^key-f0752dc402580bc735a5720123bbbb67][^key-61740f3643ff95feeb43678d225c28d3]
+#### 92. General continuity obligation: share transfers[^c-f0752dc402580bc735a5720123bbbb67][^c-61740f3643ff95feeb43678d225c28d3]
 
 (1) In this paragraph and paragraph 93—
 
@@ -2205,7 +2205,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (11) The Bank may act under or by virtue of sub-paragraph (9) only with the consent of the Treasury.
 
-#### 93. Special continuity obligations: share transfers[^key-dc98333f61a415345811aad31e7a66c6][^key-5a603d8f99f22cd2797c83294bfc6f61]
+#### 93. Special continuity obligations: share transfers[^c-dc98333f61a415345811aad31e7a66c6][^c-5a603d8f99f22cd2797c83294bfc6f61]
 
 (1) Expressions in this paragraph have the same meaning as in paragraph 92.
 
@@ -2228,7 +2228,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (5) An obligation imposed on the transferred CCP or a former group company under sub-paragraph (2)(b) or (c) continues to apply despite the transferred CCP or former group company entering insolvency, and may not be disclaimed by a liquidator under section 178(2) of the Insolvency Act 1986 or Article 152(1) of the Insolvency (Northern Ireland) Order 1989.
 
-#### 94. Continuity obligations: onward share transfers[^key-07fc99a94622138b28a1107e07bebc9b][^key-d58588216f9b0e6845a62289cdc40cc9]
+#### 94. Continuity obligations: onward share transfers[^c-07fc99a94622138b28a1107e07bebc9b][^c-d58588216f9b0e6845a62289cdc40cc9]
 
 (1) In this paragraph “**onward transfer**” means a transfer (whether or not under a power in this Schedule) of securities issued by a CCP where—
 
@@ -2261,7 +2261,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (7) The Bank may act under or by virtue of sub-paragraph (2) only with the consent of the Treasury.
 
-#### 95. Continuity obligations: consideration and terms[^key-1c6479516849faca83a5ca8fe4348114][^key-40c2970f73d80c083f4e83a682b83ce8]
+#### 95. Continuity obligations: consideration and terms[^c-1c6479516849faca83a5ca8fe4348114][^c-40c2970f73d80c083f4e83a682b83ce8]
 
 (1) The Treasury may by regulations specify matters which are to be or not to be considered in determining—
 
@@ -2272,7 +2272,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (3) Regulations under this paragraph are subject to the negative procedure.
 
-#### 96. Continuity obligations: termination[^key-dbb1d2b97d5ca635962932220646ead1][^key-19f8ba7e2ce0a37a3e860fef92f987a1]
+#### 96. Continuity obligations: termination[^c-dbb1d2b97d5ca635962932220646ead1][^c-19f8ba7e2ce0a37a3e860fef92f987a1]
 
 (1) The Bank may by notice terminate an obligation arising under paragraph 89 or 92.
 
@@ -2283,7 +2283,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (3) A reference in sub-paragraph (1) to obligations under a paragraph includes a reference to obligations under that paragraph as applied under paragraph 91 or 94.
 
-#### 97. Suspension of obligations[^key-22b0951a6a8c5be4cb4936c861f8e258][^key-18ebb90a410e8ff695275e7569422416]
+#### 97. Suspension of obligations[^c-22b0951a6a8c5be4cb4936c861f8e258][^c-18ebb90a410e8ff695275e7569422416]
 
 (1) Where the Bank is exercising a stabilisation power in respect of a CCP (a “CCP under resolution”) the Bank may suspend obligations to make a payment, or delivery, under a contract where one of the parties to the contract is the CCP under resolution.
 
@@ -2306,7 +2306,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (7) In this paragraph, “**eligible claim**” means a claim in respect of which compensation is payable under the Financial Services Compensation Scheme.
 
-#### 98. Restriction of security interests[^key-cb6d8822d9ea851b6ec8f18886bcaa5e][^key-b149549f9be67cabea9d1700647e3ea1]
+#### 98. Restriction of security interests[^c-cb6d8822d9ea851b6ec8f18886bcaa5e][^c-b149549f9be67cabea9d1700647e3ea1]
 
 (1) Where the Bank is exercising a stabilisation power in respect of a CCP (a “CCP under resolution”) the Bank may suspend the rights of a secured creditor of the CCP to enforce any security interest the creditor has in relation to any assets of the CCP.
 
@@ -2325,7 +2325,7 @@ and arrange for the publication of a copy on the website of the CCP in respect o
 
 (7) For the purposes of this paragraph, a “**security interest**” means an interest or right held for the purpose of securing the payment of money or the performance of any other obligation.
 
-#### 99. Suspension of termination rights[^key-42e4b0b739829290c88d7d12f7ba57bf][^key-8b66350ff43d3d65cb47749b50e55b21]
+#### 99. Suspension of termination rights[^c-42e4b0b739829290c88d7d12f7ba57bf][^c-8b66350ff43d3d65cb47749b50e55b21]
 
 (1) The Bank may suspend the termination right of any party to a qualifying contract (other than a party who is an excluded person).
 
@@ -2371,7 +2371,7 @@ a person may, on the expiry of the suspension, exercise the termination right in
 - (b) a right to accelerate, close out, set-off or net obligations, or any similar provision that suspends, modifies or extinguishes an obligation of a party to the contract, or
 - (c) a provision that prevents an obligation from arising under the contract.
 
-#### 100. Suspension: general provision[^key-b112e44ad3284393517894652cce30e1][^key-d3ab7f5e7e207d4324b900ce5bbed30b]
+#### 100. Suspension: general provision[^c-b112e44ad3284393517894652cce30e1][^c-d3ab7f5e7e207d4324b900ce5bbed30b]
 
 For the purposes of paragraphs 97 to 99—
 
@@ -2382,7 +2382,7 @@ For the purposes of paragraphs 97 to 99—
   - (c) a third-country central counterparty (within the meaning given by section 285 of FSMA 2000), or
   - (d) a central bank.
 
-#### 101. Stay on terminating membership[^key-d58219c24d4225c21f82716ed6b4d638][^key-25698746854adfe5ad739ef0a9d5466c]
+#### 101. Stay on terminating membership[^c-d58219c24d4225c21f82716ed6b4d638][^c-25698746854adfe5ad739ef0a9d5466c]
 
 (1) This paragraph applies where the Bank has made a resolution instrument, share transfer instrument or a property transfer instrument in relation to a CCP.
 
@@ -2397,7 +2397,7 @@ For the purposes of paragraphs 97 to 99—
 
 (5) Provision may be made under sub-paragraph (4) only if the Bank considers that such provision would advance one or more of the special resolution objectives.
 
-#### 102. Restriction on remuneration[^key-75f0a96dfb5da0f02280da4a1be120d1][^key-c59df48e38c16d9889d1622ca50450ae]
+#### 102. Restriction on remuneration[^c-75f0a96dfb5da0f02280da4a1be120d1][^c-c59df48e38c16d9889d1622ca50450ae]
 
 (1) The Bank may restrict or prohibit for a specified period discretionary payments to specified employees or specified shareholders of a CCP.
 
@@ -2415,7 +2415,7 @@ For the purposes of paragraphs 97 to 99—
 - “**discretionary payments**” has the meaning given in paragraph 13;
 - “**specified**” means specified in the instrument under sub-paragraph (2).
 
-#### 103. Pensions[^key-1f2758b4dc1c08faea1ac6edaa362b3f][^key-d6192b51ef19dcdcded08af7bd41214c]
+#### 103. Pensions[^c-1f2758b4dc1c08faea1ac6edaa362b3f][^c-d6192b51ef19dcdcded08af7bd41214c]
 
 (1) This paragraph applies to—
 
@@ -2442,7 +2442,7 @@ For the purposes of paragraphs 97 to 99—
 - (a) “**pension scheme**” includes any arrangement for the payment of pension, allowances and gratuities, and
 - (b) a reference to a pension scheme of a CCP is a reference to a scheme in respect of which the CCP, or a CCP group company, is or was an employer.
 
-#### 104. Disputes[^key-570cd63f20e2fcfe02913fa9bb029850][^key-bb7a97f3f8c6750ba34827d81044b2c3]
+#### 104. Disputes[^c-570cd63f20e2fcfe02913fa9bb029850][^c-bb7a97f3f8c6750ba34827d81044b2c3]
 
 (1) This paragraph applies to—
 
@@ -2458,7 +2458,7 @@ For the purposes of paragraphs 97 to 99—
 - (a) confer jurisdiction on a court or tribunal;
 - (b) confer discretion on a specified person.
 
-#### 105. Tax[^key-e1fc5af2b87431f2cd211bc87793763d][^key-001a596f1023ec070484eb465f14ceb0]
+#### 105. Tax[^c-e1fc5af2b87431f2cd211bc87793763d][^c-001a596f1023ec070484eb465f14ceb0]
 
 (1) The Treasury may by regulations make provision about the fiscal consequences of the exercise of a stabilisation power.
 
@@ -2502,7 +2502,7 @@ For the purposes of paragraphs 97 to 99—
 
 (8) Regulations under this paragraph are subject to the affirmative procedure.
 
-#### 106. Stay or sist of legal proceedings[^key-2ca0ca87309f0196c703272393c05f0d][^key-1ea708bb53a46ded4a92e7f0d06d2743]
+#### 106. Stay or sist of legal proceedings[^c-2ca0ca87309f0196c703272393c05f0d][^c-1ea708bb53a46ded4a92e7f0d06d2743]
 
 (1) This paragraph applies where—
 
@@ -2511,7 +2511,7 @@ For the purposes of paragraphs 97 to 99—
 
 (2) The Bank may apply to that court for a stay or sist of proceedings where the Bank reasonably considers that a stay or sist of those proceedings is necessary for an effective application of the stabilisation options or the stabilisation powers.
 
-#### 107. Insolvency proceedings[^key-56ec03014cf7a58c411c67fb76454e57][^key-418f68b1aa60b520b534ee037e90acc8]
+#### 107. Insolvency proceedings[^c-56ec03014cf7a58c411c67fb76454e57][^c-418f68b1aa60b520b534ee037e90acc8]
 
 (1) This paragraph applies to a CCP if—
 
@@ -2527,7 +2527,7 @@ For the purposes of paragraphs 97 to 99—
 - (c) proposing a resolution for voluntary winding up, or
 - (d) appointing an administrator.
 
-#### 108. Recognition of transferee company[^key-693e7fe42f528f87bff976807f5e1275][^key-e4457ae19925e0c6906e03bdafdea6da]
+#### 108. Recognition of transferee company[^c-693e7fe42f528f87bff976807f5e1275][^c-e4457ae19925e0c6906e03bdafdea6da]
 
 (1) The Bank may provide for a company to which the business of a CCP is transferred in accordance with paragraph 29(3) to be treated as a CCP for the purposes of FSMA 2000—
 
@@ -2544,7 +2544,7 @@ For the purposes of paragraphs 97 to 99—
 - (a) may be exercised only with the consent of the Treasury, and
 - (b) must be exercised by way of provision in a property transfer instrument.
 
-#### 109. International obligation notice: general[^key-62a84d3584b577b318b56e94ddcfd227][^key-56cbee6b351898f877b7ef180ec1de9c]
+#### 109. International obligation notice: general[^c-62a84d3584b577b318b56e94ddcfd227][^c-56cbee6b351898f877b7ef180ec1de9c]
 
 (1) The Bank may not exercise a stabilisation power in respect of a CCP if the Treasury notify the Bank that the exercise would be likely to contravene an international obligation of the United Kingdom.
 
@@ -2560,7 +2560,7 @@ For the purposes of paragraphs 97 to 99—
 
 (4) The Treasury may by notice to the Bank disapply sub-paragraph (3) in respect of a CCP and a notice may be revoked by further notice.
 
-#### 110. International obligation notice: bridge central counterparty[^key-ec79ee7512ddde3bc6a4e55a6b62fd4f][^key-d180f780bfc59126685cfcb64ff9aad3]
+#### 110. International obligation notice: bridge central counterparty[^c-ec79ee7512ddde3bc6a4e55a6b62fd4f][^c-d180f780bfc59126685cfcb64ff9aad3]
 
 (1) This paragraph applies where the Bank has transferred all or part of a CCP’s business to a bridge central counterparty.
 
@@ -2576,7 +2576,7 @@ For the purposes of paragraphs 97 to 99—
 
 (4) A notice may include requirements about timing.
 
-#### 111. Public funds: general[^key-de93a7795d4a2e65ebce75b8511f273e][^key-2f491d9a2a3391f13c1511cc6c4e2a21]
+#### 111. Public funds: general[^c-de93a7795d4a2e65ebce75b8511f273e][^c-2f491d9a2a3391f13c1511cc6c4e2a21]
 
 (1) The Bank may not exercise a stabilisation power in respect of a CCP without the Treasury’s consent if the exercise of that power would be likely to have implications for public funds.
 
@@ -2596,7 +2596,7 @@ For the purposes of paragraphs 97 to 99—
 
 (6) Regulations under this paragraph are subject to the negative procedure.
 
-#### 112. Public funds: bridge central counterparty[^key-dcf1abba3629de4fa22c671d52e8650e][^key-0af3012fbb749420a3139047dc7c1c68]
+#### 112. Public funds: bridge central counterparty[^c-dcf1abba3629de4fa22c671d52e8650e][^c-0af3012fbb749420a3139047dc7c1c68]
 
 (1) This paragraph applies where the Bank has transferred all or part of a CCP’s business to a bridge central counterparty.
 
@@ -2604,7 +2604,7 @@ For the purposes of paragraphs 97 to 99—
 
 (3) Paragraph 111(2) and (3) have effect for the purposes of this paragraph.
 
-#### 113. Private sector purchaser: report[^key-38f9034ad001736c9eed1d87e3763175][^key-483fdacb358a3b5f7734ca3839fd58c4]
+#### 113. Private sector purchaser: report[^c-38f9034ad001736c9eed1d87e3763175][^c-483fdacb358a3b5f7734ca3839fd58c4]
 
 (1) This paragraph applies where the Bank sells all or part of a CCP’s business to a commercial purchaser.
 
@@ -2614,7 +2614,7 @@ For the purposes of paragraphs 97 to 99—
 
 (4) The report must be made as soon as is reasonably practicable after the end of one year beginning with the date of the first transfer instrument made under paragraph 27(2).
 
-#### 114. Bridge central counterparty: report[^key-ab3c6d9aed1041efd299a1ab3f680117][^key-803bda9cf120b3b527d2505c9853adb8]
+#### 114. Bridge central counterparty: report[^c-ab3c6d9aed1041efd299a1ab3f680117][^c-803bda9cf120b3b527d2505c9853adb8]
 
 (1) Where the Bank transfers all or part of a CCP’s business to a bridge central counterparty, the Bank must report to the Chancellor of the Exchequer about the activities of the bridge central counterparty.
 
@@ -2631,7 +2631,7 @@ For the purposes of paragraphs 97 to 99—
 - (a) the content of the report;
 - (b) timing.
 
-#### 115. Resolution instruments: report[^key-dec5e3daae3c901a19bfbe2102d3ee8d][^key-f18d3d6cbdd0b9cdedf318d569d50094]
+#### 115. Resolution instruments: report[^c-dec5e3daae3c901a19bfbe2102d3ee8d][^c-f18d3d6cbdd0b9cdedf318d569d50094]
 
 (1) This paragraph applies where the Bank makes one or more resolution instruments in respect of a CCP.
 
@@ -2644,7 +2644,7 @@ For the purposes of paragraphs 97 to 99—
 
 (4) The Chancellor of the Exchequer must lay a copy of each report under sub-paragraph (2) before Parliament.
 
-#### 116. Transfer of ownership: report[^key-ccac1ecae0e15be4329d324377b52bac][^key-4aeb5fc9b50014691f45e5cb0008106b]
+#### 116. Transfer of ownership: report[^c-ccac1ecae0e15be4329d324377b52bac][^c-4aeb5fc9b50014691f45e5cb0008106b]
 
 (1) This paragraph applies where the Bank makes one or more share transfer instruments in respect of a CCP under paragraph 30(2).
 
@@ -2654,7 +2654,7 @@ For the purposes of paragraphs 97 to 99—
 
 (4) The report must be made as soon as is reasonably practicable after the end of one year beginning with the date of the first transfer instrument made under paragraph 30(2).
 
-#### 117. Sale to commercial purchaser, transfer to bridge central counterparty and transfer of ownership: conditions for group companies[^key-63d9746bdaf0e83fc982140afad04da0][^key-2e8aaeadb38b86d1af5658456cdd689d]
+#### 117. Sale to commercial purchaser, transfer to bridge central counterparty and transfer of ownership: conditions for group companies[^c-63d9746bdaf0e83fc982140afad04da0][^c-2e8aaeadb38b86d1af5658456cdd689d]
 
 (1) The Bank may exercise a stabilisation power in respect of a CCP group company in accordance with paragraph 27(2), 29(3) or 30(2) if each of the following conditions is met.
 
@@ -2682,7 +2682,7 @@ For the purposes of paragraphs 97 to 99—
 
 (8) In this paragraph “**financial assistance case**” means a case in which the Treasury notify the Bank that they have provided financial assistance in respect of a CCP in the same group for the purpose of resolving or reducing a serious threat to the stability of the UK financial system.
 
-#### 118. Paragraph 117: supplemental[^key-97cfc7ee4a428d5bd9e51058bde19b9e][^key-41463ae62f035f52030c1925147628a7]
+#### 118. Paragraph 117: supplemental[^c-97cfc7ee4a428d5bd9e51058bde19b9e][^c-41463ae62f035f52030c1925147628a7]
 
 (1) In paragraph 117 references to CCPs includes references to CCP group companies.
 
@@ -2690,7 +2690,7 @@ For the purposes of paragraphs 97 to 99—
 
 ### PART 6 — Information, investigation and enforcement
 
-#### 119. Information[^key-56cba62a7798aadada2228a5eab971b3][^key-d4ff4c6cdd61f76738dc00e8289544be]
+#### 119. Information[^c-56cba62a7798aadada2228a5eab971b3][^c-d4ff4c6cdd61f76738dc00e8289544be]
 
 (1) This paragraph applies only to information and documents reasonably required in connection with the exercise by the Bank of functions conferred by or under this Schedule.
 
@@ -2733,7 +2733,7 @@ as it may reasonably require.
 - (b) a controller of that CCP (within the meaning of section 422 of FSMA 2000), or
 - (c) in relation to that CCP, a person mentioned in Part 1 of Schedule 15 to FSMA 2000 (reading references in that Part to the authorised person as references to the CCP).
 
-#### 120. Reports by skilled persons[^key-9f50a585cc1e9fee7b57d105de0c541e][^key-e2c7f483fd0860d5e9fb27769dce6732]
+#### 120. Reports by skilled persons[^c-9f50a585cc1e9fee7b57d105de0c541e][^c-e2c7f483fd0860d5e9fb27769dce6732]
 
 (1) This paragraph applies where the Bank has required or could require a person to whom sub-paragraph (2) applies (“**the person concerned**”) to provide information or produce documents with respect to any matter (“the matter concerned”) under paragraph 119.
 
@@ -2770,7 +2770,7 @@ to give the person appointed to prepare a report all such assistance as the appo
 
 (9) The Bank may, in relation to an appointment under sub-paragraph (3)(b), require a CCP to pay to the Bank a fee to cover the expenses incurred by the Bank in relation to the appointment.
 
-#### 121. Appointment of persons to carry out general investigations[^key-95e53772bc55124e988c83444d5beffd][^key-211b806d421cc169aed1a58e984d88f4]
+#### 121. Appointment of persons to carry out general investigations[^c-95e53772bc55124e988c83444d5beffd][^c-211b806d421cc169aed1a58e984d88f4]
 
 (1) This paragraph applies only for the purposes of the functions of the Bank conferred by or under this Schedule.
 
@@ -2786,7 +2786,7 @@ to give the person appointed to prepare a report all such assistance as the appo
 
 (5) In this paragraph, “**business**” includes any part of a business.
 
-#### 122. Appointment of person to carry out investigations in particular cases[^key-64ad5880b051c95b397fcd3e63412ffb][^key-b49899300126377d7cf84e99a81bc146]
+#### 122. Appointment of person to carry out investigations in particular cases[^c-64ad5880b051c95b397fcd3e63412ffb][^c-b49899300126377d7cf84e99a81bc146]
 
 (1) This paragraph applies if it appears to the Bank that there are circumstances suggesting that a person may have failed to comply with any relevant requirement.
 
@@ -2794,7 +2794,7 @@ to give the person appointed to prepare a report all such assistance as the appo
 
 (3) In this paragraph “**relevant requirement**” means a requirement imposed by or under this Schedule.
 
-#### 123. Investigations etc in support of foreign resolution authorities[^key-822183790b8b4ed5168900ef10447bc4][^key-1003dc5eca4296b7e007d3d648b69489]
+#### 123. Investigations etc in support of foreign resolution authorities[^c-822183790b8b4ed5168900ef10447bc4][^c-1003dc5eca4296b7e007d3d648b69489]
 
 (1) On receiving a request to which sub-paragraph (3) applies from a foreign resolution authority, the Bank may—
 
@@ -2820,7 +2820,7 @@ to give the person appointed to prepare a report all such assistance as the appo
 
 (8) “**Investigative power**” means one of the powers mentioned in sub-paragraph (1).
 
-#### 124. Investigations: general[^key-d22786fad8858da08e5164812286f4c0][^key-3e020e455734e01a90034c0cc73a8acc]
+#### 124. Investigations: general[^c-d22786fad8858da08e5164812286f4c0][^c-3e020e455734e01a90034c0cc73a8acc]
 
 (1) This paragraph applies if the Bank appoints one or more competent persons (“investigators”) under paragraph 121 or 122 to conduct an investigation on its behalf.
 
@@ -2853,7 +2853,7 @@ to give the person appointed to prepare a report all such assistance as the appo
 
 (9) If the appointment is under paragraph 122, sub-paragraphs (2) and (8) do not apply if the Bank believes that the notice required by the sub-paragraph in question would be likely to result in the investigation being frustrated.
 
-#### 125. Powers of persons appointed under paragraph 121[^key-4a62e53b9680d6fe8d5fa3f5a7817a4e][^key-f406d3cdf0f11939505d77826d5175e9]
+#### 125. Powers of persons appointed under paragraph 121[^c-4a62e53b9680d6fe8d5fa3f5a7817a4e][^c-f406d3cdf0f11939505d77826d5175e9]
 
 (1) This paragraph applies to an investigator appointed under paragraph 121 to conduct an investigation on behalf of the Bank.
 
@@ -2877,7 +2877,7 @@ to give the person appointed to prepare a report all such assistance as the appo
 - “**controller**” has the meaning given in section 422 of FSMA 2000;
 - “**specified**” means specified in a notice in writing.
 
-#### 126. Powers of persons appointed as a result of paragraph 122[^key-bfcd6fa4b14adb919a7392fc1cdaf353][^key-7474232c3dc47dc5bfac4264ac1e2171]
+#### 126. Powers of persons appointed as a result of paragraph 122[^c-bfcd6fa4b14adb919a7392fc1cdaf353][^c-7474232c3dc47dc5bfac4264ac1e2171]
 
 (1) This paragraph applies to an investigator appointed under paragraph 122 to conduct an investigation on behalf of the Bank.
 
@@ -2897,7 +2897,7 @@ to give the person appointed to prepare a report all such assistance as the appo
 
 (6) Paragraph 125(5) and (6) applies for the purposes of this paragraph.
 
-#### 127. Admissibility of statements made to investigators[^key-e249e9c45f7e0bbb5efd3e4f8924230c][^key-44dfcbf5cc451032a948452378c25b61]
+#### 127. Admissibility of statements made to investigators[^c-e249e9c45f7e0bbb5efd3e4f8924230c][^c-44dfcbf5cc451032a948452378c25b61]
 
 (1) A statement made to an investigator appointed under paragraph 121 or 122 by a person in compliance with an information requirement is admissible in evidence in any proceedings, so long as it also complies with any requirement governing the admissibility of evidence in the circumstances in question.
 
@@ -2918,7 +2918,7 @@ by or on behalf of the prosecution, or the Bank (as the case may be), unless evi
 
 (4) “**Information requirement**” means a requirement imposed by an investigator under paragraph 125, 126 or 128.
 
-#### 128. Information and documents: supplemental provision[^key-1fe88c880fc71dafd7dd6baaca76c530][^key-38c7eb221214e1cfd5cb2298296cf823]
+#### 128. Information and documents: supplemental provision[^c-1fe88c880fc71dafd7dd6baaca76c530][^c-38c7eb221214e1cfd5cb2298296cf823]
 
 (1) If the Bank has power under this Schedule to require a person to produce a document but if it appears that the document is in the possession of a third person, that power may be exercised in relation to the third person.
 
@@ -2959,7 +2959,7 @@ it may be retained until the proceedings are concluded.
   - (c) has been or is an actuary, accountant or lawyer appointed or instructed by that person, or
   - (d) has been or is an employee of that person.
 
-#### 129. Protected items[^key-f6afa88fae97c149090772ad33c0007c][^key-3e490e0591998f32f55c647fe6ff24ba]
+#### 129. Protected items[^c-f6afa88fae97c149090772ad33c0007c][^c-3e490e0591998f32f55c647fe6ff24ba]
 
 (1) A person may not be required under this Schedule to produce, disclose or permit the inspection of protected items.
 
@@ -2979,7 +2979,7 @@ it may be retained until the proceedings are concluded.
 
 (4) A communication or item is not a protected item if it is held with the intention of furthering a criminal purpose.
 
-#### 130. Entry of premises under warrant[^key-3523b63941f12b764ecb8a4ba51034b1][^key-638ec8707cb220e739fce32e371201b4]
+#### 130. Entry of premises under warrant[^c-3523b63941f12b764ecb8a4ba51034b1][^c-638ec8707cb220e739fce32e371201b4]
 
 (1) A justice of the peace may issue a warrant under this paragraph if satisfied on information on oath given by or on behalf of the Secretary of State, the Bank or an investigator that there are reasonable grounds for believing that the first, second or third set of conditions is satisfied.
 
@@ -3039,7 +3039,7 @@ it may be retained until the proceedings are concluded.
 - (a) by the Bank under paragraph 119 or 128, or
 - (b) by an investigator under paragraph 125, 126 or 128.
 
-#### 131. Retention of documents obtained under paragraph 130[^key-f77016cc019abce03947519731cc8a25][^key-fb9bc859c053baa544f08d883ae10b9b]
+#### 131. Retention of documents obtained under paragraph 130[^c-f77016cc019abce03947519731cc8a25][^c-fb9bc859c053baa544f08d883ae10b9b]
 
 (1) Any document of which possession is taken under paragraph 130 (“a seized document”) may be retained for so long as it is necessary to retain it (rather than copies of it) in the circumstances.
 
@@ -3051,7 +3051,7 @@ it may be retained until the proceedings are concluded.
 
 (5) Any right to bring proceedings (as described in sub-paragraph (4)) may only be exercised within 6 months of the date of the order made under sub-paragraph (2) or (3).
 
-#### 132. Offences etc[^key-4be7ccb883c3641f251c7f0fcb26fa6f][^key-c755a5393cf8bf55c7dd4bb8b1989e76]
+#### 132. Offences etc[^c-4be7ccb883c3641f251c7f0fcb26fa6f][^c-c755a5393cf8bf55c7dd4bb8b1989e76]
 
 (1) If a person other than the investigator (“**the defaulter**”) fails to comply with a requirement imposed on the defaulter under paragraph 125, 126 or 128, the person imposing the requirement may certify that fact in writing to the court.
 
@@ -3087,7 +3087,7 @@ is guilty of an offence.
   - (b) in Scotland, the Court of Session;
 - “**relevant requirement**” has the meaning given in paragraph 122.
 
-#### 133. Prosecution of offences under paragraph 132[^key-98f2d444c813720c2dd886363f9036e2][^key-80342d6f4337a173168413a25381c161]
+#### 133. Prosecution of offences under paragraph 132[^c-98f2d444c813720c2dd886363f9036e2][^c-80342d6f4337a173168413a25381c161]
 
 (1) Proceedings for an offence under paragraph 132 may be instituted—
 
@@ -3098,7 +3098,7 @@ is guilty of an offence.
 
 (3) Conditions or restrictions may be imposed under sub-paragraph (2) in relation to proceedings generally, or such proceedings or categories of proceedings as the Treasury may direct.
 
-#### 134. Offences under paragraph 132 by bodies corporate etc[^key-6fce5789ef21cb8259464bc97df9602a][^key-d25146d9e2353bbe2ed2f94eb3daa3f9]
+#### 134. Offences under paragraph 132 by bodies corporate etc[^c-6fce5789ef21cb8259464bc97df9602a][^c-d25146d9e2353bbe2ed2f94eb3daa3f9]
 
 (1) If an offence under paragraph 132 committed by a body corporate is shown—
 
@@ -3130,7 +3130,7 @@ the partner as well as the body corporate is guilty of the offence and liable to
 
 the officer or member as well as the association is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-#### 135. Injunctions to prevent failure to comply with relevant requirement[^key-9da47889497046981fb621a390963181][^key-65bb8a3a74e131e29027315b3a56e293]
+#### 135. Injunctions to prevent failure to comply with relevant requirement[^c-9da47889497046981fb621a390963181][^c-65bb8a3a74e131e29027315b3a56e293]
 
 (1) If, on the application of the Bank, the court is satisfied that there is a reasonable likelihood that any person will contravene a relevant requirement, the court may make an order restraining, or in Scotland an interdict prohibiting, the contravention.
 
@@ -3141,7 +3141,7 @@ the officer or member as well as the association is guilty of the offence and li
 
 (3) In this paragraph “**relevant requirement**” has the meaning given in paragraph 122.
 
-#### 136. Regulatory sanctions[^key-eb855ab4c72ee9861b93a06f410e95be][^key-0e40c33ee4a30b481e75e7ebb80ba1ad]
+#### 136. Regulatory sanctions[^c-eb855ab4c72ee9861b93a06f410e95be][^c-0e40c33ee4a30b481e75e7ebb80ba1ad]
 
 (1) If the Bank considers that a person has failed to comply with a relevant requirement imposed on the person, it may do one or more of the following—
 
@@ -3172,7 +3172,7 @@ the officer or member as well as the association is guilty of the offence and li
 
 (5) In this paragraph “**relevant requirement**” has the meaning given in paragraph 122.
 
-#### 137. Determination of sanctions[^key-14c17434114992bb6d47360f11a5efb3][^key-cd5aa3b97457a1d001ab8cb4d04a62f8]
+#### 137. Determination of sanctions[^c-14c17434114992bb6d47360f11a5efb3][^c-cd5aa3b97457a1d001ab8cb4d04a62f8]
 
 When determining the type of sanction, and level of any penalty, to be imposed on a person under paragraph 136, the Bank must take into account all relevant circumstances, including where appropriate—
 
@@ -3185,7 +3185,7 @@ When determining the type of sanction, and level of any penalty, to be imposed o
 - (g) previous failures by the person, and
 - (h) any potential systemic consequences of the failure.
 
-#### 138. Procedure: warning notice[^key-f665d310346aa2907be8e8b36031ccb9][^key-7406724c21b1f8051708d3f86a6e3c26]
+#### 138. Procedure: warning notice[^c-f665d310346aa2907be8e8b36031ccb9][^c-7406724c21b1f8051708d3f86a6e3c26]
 
 (1) If the Bank proposes to impose a sanction on a person under paragraph 136(1) or (3) it must give that person a warning notice.
 
@@ -3200,7 +3200,7 @@ When determining the type of sanction, and level of any penalty, to be imposed o
 
 (4) For the purposes of sub-paragraph (2), section 387 of that Act has effect as if subsections (1A) and (3A) were omitted.
 
-#### 139. Procedure: decision notice[^key-919f862b232effcf54e9bad4eaadb54b][^key-7d06dccb3a03ec4a5a506b77766c2f77]
+#### 139. Procedure: decision notice[^c-919f862b232effcf54e9bad4eaadb54b][^c-7d06dccb3a03ec4a5a506b77766c2f77]
 
 (1) If the Bank decides to impose a sanction on a person under paragraph 136(1) or (3) it must without delay give that person a decision notice.
 
@@ -3219,7 +3219,7 @@ When determining the type of sanction, and level of any penalty, to be imposed o
 - (a) in subsection (1)(e)(i) for “this Act” there were substituted “paragraph 141 of Schedule 11 to the Financial Services and Markets Act 2023”, and
 - (b) subsections (1A) and (2) were omitted.
 
-#### 140. Procedure: general[^key-05882a7d1d39a62403fe4221480aa462][^key-900d08bbcf910667dc1131c3943374fe]
+#### 140. Procedure: general[^c-05882a7d1d39a62403fe4221480aa462][^c-900d08bbcf910667dc1131c3943374fe]
 
 (1) Sections 389, 390 and 392 to 394 of FSMA 2000 apply in relation to a warning notice given under paragraph 138, a decision notice given under paragraph 139 and the Bank as they apply in relation to a warning notice or decision notice given under that Act and the regulator which gave that notice, subject to sub-paragraphs (2) to (4).
 
@@ -3241,13 +3241,13 @@ When determining the type of sanction, and level of any penalty, to be imposed o
 > - (a) a warning notice given under paragraph 138 of Schedule 11 to the Financial Services and Markets Act 2023;
 > - (b) a decision notice given under paragraph 139 of Schedule 11 to the Financial Services and Markets Act 2023.
 
-#### 141. Appeals[^key-10c19cef8de68e3fe24c1ea533e98fdd][^key-56e05b6c481c930022927abc4e26929f]
+#### 141. Appeals[^c-10c19cef8de68e3fe24c1ea533e98fdd][^c-56e05b6c481c930022927abc4e26929f]
 
 (1) If the Bank decides to impose a sanction on a person under paragraph 136, the person may appeal to the Upper Tribunal.
 
 (2) The Bank may not impose a sanction while an appeal under this paragraph could be brought or is pending.
 
-#### 142. Injunctions: failure to comply with certain paragraph 136 sanctions[^key-5bc99609986dfdf26441954d5a290700][^key-079aad7da87dcce760ceffd19f1cd1be]
+#### 142. Injunctions: failure to comply with certain paragraph 136 sanctions[^c-5bc99609986dfdf26441954d5a290700][^c-079aad7da87dcce760ceffd19f1cd1be]
 
 (1) If, on the application of the Bank, the court is satisfied—
 
@@ -3287,7 +3287,7 @@ the court may make an order restraining that person from dealing with any assets
 - (c) references to remedying a failure include mitigating its effect, and
 - (d) references to dealing with assets include disposing of them.
 
-#### 143. Publication[^key-2d0d4006812bd1116ce59190279e0baa][^key-ba481e12d238b50a80d1b40a764aa804]
+#### 143. Publication[^c-2d0d4006812bd1116ce59190279e0baa][^c-ba481e12d238b50a80d1b40a764aa804]
 
 (1) In the case of a warning notice under paragraph 138—
 
@@ -3326,7 +3326,7 @@ the court may make an order restraining that person from dealing with any assets
 - “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
 - “**notice of discontinuance**” and “**final notice**” have the same meaning as in sections 389 and 390 of FSMA 2000 (which are applied (with modifications) by paragraph 140).
 
-#### 144. Co-operation[^key-bb3a508689f4095c12b61f6ea73be575][^key-7240944503028cef38b4206d75f800b6]
+#### 144. Co-operation[^c-bb3a508689f4095c12b61f6ea73be575][^c-7240944503028cef38b4206d75f800b6]
 
 In connection with the exercise of its powers to impose sanctions under paragraph 136, the Bank must take such steps as it considers appropriate to co-operate with—
 
@@ -3335,7 +3335,7 @@ In connection with the exercise of its powers to impose sanctions under paragrap
 
 ### PART 7 — Third-country resolution actions
 
-#### 145. Third-country resolution actions[^key-16dae33e198f5b73568b93d1df0081ee][^key-e7289bb7165a2976a6e5e4e00aefb9c4]
+#### 145. Third-country resolution actions[^c-16dae33e198f5b73568b93d1df0081ee][^c-e7289bb7165a2976a6e5e4e00aefb9c4]
 
 (1) This paragraph applies where the Bank is notified of third-country resolution action in respect of a third-country central counterparty.
 
@@ -3365,7 +3365,7 @@ An instrument within paragraph (a), (b) or (c) is a “**third-country instrumen
   - (a) the anticipated results of which are, in relation to a third-country central counterparty, broadly comparable to results which could have been anticipated from the exercise of a stabilisation option in relation to an entity in the United Kingdom corresponding to the third-country central counterparty, and
   - (b) the objectives of which are broadly comparable, in relation to the country or territory concerned, to the special resolution objectives in paragraph 15 as they apply in relation to the United Kingdom.
 
-#### 146. Effects of recognition on third-country resolution action[^key-3f6f8a9761234e8c4b77a1753007c361][^key-6004ef98a5d8a5d7f41a5f5a7e2bab6b]
+#### 146. Effects of recognition on third-country resolution action[^c-3f6f8a9761234e8c4b77a1753007c361][^c-6004ef98a5d8a5d7f41a5f5a7e2bab6b]
 
 (1) This paragraph applies where an instrument under paragraph 145 recognises any third-country resolution action (or a part of it).
 
@@ -3390,7 +3390,7 @@ An instrument under paragraph (b) is a “**third-country instrument**” (as is
 
 (8) Paragraph 145(6) applies for the purposes of this paragraph.
 
-#### 147. Third-country instruments: supplementary provision[^key-b382f6d2bcf5f77381e58561739c54c3][^key-ff9116d418590f65bbf4264cf95b0bff]
+#### 147. Third-country instruments: supplementary provision[^c-b382f6d2bcf5f77381e58561739c54c3][^c-ff9116d418590f65bbf4264cf95b0bff]
 
 (1) Paragraph 47 (incidental provision) applies to a third-country instrument as it applies to a share transfer instrument.
 
@@ -3407,7 +3407,7 @@ An instrument under paragraph (b) is a “**third-country instrument**” (as is
 
 ### PART 8 — General
 
-#### 148. Information[^key-775ad7e29c577aa3f4d25c83726587b1][^key-e00d4c5716f3c94d4791db70045e76a6]
+#### 148. Information[^c-775ad7e29c577aa3f4d25c83726587b1][^c-e00d4c5716f3c94d4791db70045e76a6]
 
 (1) The Bank may disclose information that it thinks relevant to the financial stability of—
 
@@ -3431,7 +3431,7 @@ An instrument under paragraph (b) is a “**third-country instrument**” (as is
 
 (5) In this paragraph “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
-#### 149. Restrictions on disclosure of confidential information[^key-c6938e7931d0c5fbb1ea69b5a07ab8ab][^key-52dbfb80b4df17257b3db29de60fc1da]
+#### 149. Restrictions on disclosure of confidential information[^c-c6938e7931d0c5fbb1ea69b5a07ab8ab][^c-52dbfb80b4df17257b3db29de60fc1da]
 
 (1) Sections 348, 349, 352 and 353 of FSMA 2000 (disclosure of information) apply for the purposes of this Schedule with the following modifications.
 
@@ -3458,7 +3458,7 @@ An instrument under paragraph (b) is a “**third-country instrument**” (as is
   - (ii) for “it” there were substituted “those Acts”;
 - (b) in paragraph (b) after “to the” there were inserted “Bank of England, the”.
 
-#### 150. Remedies on judicial review[^key-569d175f49f7adc4654e41b1c453ab95][^key-db01d992700da046149982cb7660cb21]
+#### 150. Remedies on judicial review[^c-569d175f49f7adc4654e41b1c453ab95][^c-db01d992700da046149982cb7660cb21]
 
 (1) Where an application is made for judicial review of a decision of the Bank to exercise the stabilisation powers in relation to a CCP or CCP group company (“relevant proceedings”)—
 
@@ -3483,11 +3483,11 @@ An instrument under paragraph (b) is a “**third-country instrument**” (as is
 
 (3) Sub-paragraph (1) does not affect the power of the court, subject to section 244 of the Banking Act 2009 (immunity), to award damages as a remedy in relevant proceedings.
 
-#### 151. Giving of notices, documents etc under this Schedule[^key-39dbd2d21f593ed8708258bcda391f09][^key-cb111bd0ff644f060506b50fd953dc55][^key-a4099cdf425446b1a0e4cb70d0e07aa5]
+#### 151. Giving of notices, documents etc under this Schedule[^c-39dbd2d21f593ed8708258bcda391f09][^c-cb111bd0ff644f060506b50fd953dc55][^c-a4099cdf425446b1a0e4cb70d0e07aa5]
 
 Regulations under section 414 of FSMA 2000 (service of notices), and subsection (4) of that section, apply in relation to any notice, direction or document of any kind required to be given under any provision of this Schedule (however that requirement is expressed) as if those provisions were provisions of that Act.
 
-#### 152. “Financial assistance”[^key-493af3167689d7c22c045c98b4ec1749][^key-c0cd14f71efaffb62fbdb7db02b6f5fd]
+#### 152. “Financial assistance”[^c-493af3167689d7c22c045c98b4ec1749][^c-c0cd14f71efaffb62fbdb7db02b6f5fd]
 
 (1) In this Schedule “**financial assistance**” includes giving guarantees or indemnities and any other kind of financial assistance (actual or contingent).
 
@@ -3495,7 +3495,7 @@ Regulations under section 414 of FSMA 2000 (service of notices), and subsection 
 
 (3) Regulations under this paragraph are subject to the negative procedure.
 
-#### 153. Modifications to the law[^key-653b7c96c40e8b52f84526aa42c28408][^key-23d60e2d145360540e26e061b1b0d4c7]
+#### 153. Modifications to the law[^c-653b7c96c40e8b52f84526aa42c28408][^c-23d60e2d145360540e26e061b1b0d4c7]
 
 (1) The Treasury may by regulations modify the law for the purpose of enabling the powers under this Schedule to be used effectively, having regard to the special resolution objectives.
 
@@ -3534,7 +3534,7 @@ Regulations under section 414 of FSMA 2000 (service of notices), and subsection 
 - (a) affect the validity of anything previously done under the regulations, or
 - (b) prevent the making of new regulations.
 
-#### 154. Interpretation[^key-e2ba92b3ddb4b29682b674b689e324d3][^key-6f109cd606b7adb8706123d754dfd156]
+#### 154. Interpretation[^c-e2ba92b3ddb4b29682b674b689e324d3][^c-6f109cd606b7adb8706123d754dfd156]
 
 In this Schedule—
 
@@ -3584,7 +3584,7 @@ In this Schedule—
 - “**variation instrument**” has the meaning given by paragraph 33;
 - “**write-down instrument**” has the meaning given by paragraph 34.
 
-#### 155. Recognised central counterparty[^key-5accf483b98ac92e18f634dea91273e6][^key-4b332d02c4a6f0d676c2dbd5a2614a21]
+#### 155. Recognised central counterparty[^c-5accf483b98ac92e18f634dea91273e6][^c-4b332d02c4a6f0d676c2dbd5a2614a21]
 
 (1) In this Schedule “**recognised central counterparty**” has the meaning given by section 285 of FSMA 2000.
 
@@ -3597,7 +3597,7 @@ In this Schedule—
 
 (3) Where a stabilisation power is exercised in respect of a recognised central counterparty, the body does not cease to be a recognised central counterparty for the purposes of this Schedule if the recognition order under Part 18 of FSMA 2000 is later revoked.
 
-#### 156. Interpretation: “CCP group company”, etc[^key-77159a4b3f7f49b8a3d911ba7a679eb7][^key-ef3bdaaa7f0b4c4b54f9ee900fb45c5e]
+#### 156. Interpretation: “CCP group company”, etc[^c-77159a4b3f7f49b8a3d911ba7a679eb7][^c-ef3bdaaa7f0b4c4b54f9ee900fb45c5e]
 
 (1) In this Schedule “**CCP group company**” means an undertaking—
 
@@ -3614,7 +3614,7 @@ In this Schedule—
 
 ### PART 9 — Treasury support for CCPs
 
-#### 157. Consolidated Fund[^key-777d0d28b5631bfa83dcfeda290666e3][^key-d098b3eeb17862f1c5db14701f46204e]
+#### 157. Consolidated Fund[^c-777d0d28b5631bfa83dcfeda290666e3][^c-d098b3eeb17862f1c5db14701f46204e]
 
 (1) There is to be paid out of money provided by Parliament expenditure incurred—
 
@@ -3638,7 +3638,7 @@ In this Schedule—
 
 (6) If the Treasury think it necessary on public interest grounds, they may delay or dispense with a report under sub-paragraph (5).
 
-#### 158. National Loans Fund[^key-f69fceeff1f2df430eafab2bfad8869e][^key-266562d48a41fc7c398b7aa67b1ee87e]
+#### 158. National Loans Fund[^c-f69fceeff1f2df430eafab2bfad8869e][^c-266562d48a41fc7c398b7aa67b1ee87e]
 
 (1) Where the Treasury propose to make a loan to or in respect of a CCP, they may arrange for money to be paid out of the National Loans Fund.
 
@@ -3659,7 +3659,7 @@ In this Schedule—
 
 ### PART 10 — Consequential etc provision
 
-#### 159. Bank of England Act 1998[^key-89dce27da59070f4cb75c0d6b3bf1f82][^key-7026492ab302d36a99932b716552d947]
+#### 159. Bank of England Act 1998[^c-89dce27da59070f4cb75c0d6b3bf1f82][^c-7026492ab302d36a99932b716552d947]
 
 In section 7D of the Bank of England Act 1998 (examination by Comptroller and Auditor General), in subsection (10)—
 
@@ -3672,7 +3672,7 @@ In section 7D of the Bank of England Act 1998 (examination by Comptroller and Au
 
   > - “**stabilisation powers**” means a stabilisation power within the meaning given by section 1(4) of the Banking Act 2009 or paragraph 1(4) of Schedule 11 to the Financial Services and Markets Act 2023.
 
-#### 160. Financial Services and Markets Act 2000[^key-33bb877f75a6ef80d6ead94724bcb7f8][^key-a961658ce0fcc6232698e943d45f44de]
+#### 160. Financial Services and Markets Act 2000[^c-33bb877f75a6ef80d6ead94724bcb7f8][^c-a961658ce0fcc6232698e943d45f44de]
 
 (1) FSMA 2000 is amended as follows.
 
@@ -3687,7 +3687,7 @@ In section 7D of the Bank of England Act 1998 (examination by Comptroller and Au
 
 (5) In section 133B (offences), in subsection (1)(c) for “or the Banking Act 2009” substitute “, the Banking Act 2009 or the Financial Services and Markets Act 2023”.
 
-#### 161. Companies Act 2006[^key-14157502013bdb902a766af90c0eae69][^key-73b32b34b8e36fc920664040536b1cf7]
+#### 161. Companies Act 2006[^c-14157502013bdb902a766af90c0eae69][^c-73b32b34b8e36fc920664040536b1cf7]
 
 (1) The Companies Act 2006 is amended as follows.
 
@@ -3695,7 +3695,7 @@ In section 7D of the Bank of England Act 1998 (examination by Comptroller and Au
 
 (3) In Part 2 of Schedule 11A (specified descriptions of disclosures for the purposes of section 1224A), in paragraph 71(c) for “or the Banking Act 2009” substitute “, the Banking Act 2009 or the Financial Services and Markets Act 2023”.
 
-#### 162. Banking Act 2009[^key-76ed9647c6f5070b59f7603c765ce7b6][^key-7dd045318b44a8039518d438f24bcf43]
+#### 162. Banking Act 2009[^c-76ed9647c6f5070b59f7603c765ce7b6][^c-7dd045318b44a8039518d438f24bcf43]
 
 (1) The Banking Act 2009 is amended as follows.
 
@@ -3719,7 +3719,7 @@ In section 7D of the Bank of England Act 1998 (examination by Comptroller and Au
 - (a) “PRA-authorised person”, and
 - (b) “recognised central counterparty”.
 
-#### 163. Financial Services Act 2012[^key-e261a12caae83dcef3317af2d3b54eea][^key-97774362463b4d77617dda8dc172a0f1]
+#### 163. Financial Services Act 2012[^c-e261a12caae83dcef3317af2d3b54eea][^c-97774362463b4d77617dda8dc172a0f1]
 
 (1) The Financial Services Act 2012 is amended as follows.
 
@@ -3746,7 +3746,7 @@ In section 7D of the Bank of England Act 1998 (examination by Comptroller and Au
 
 (5) Omit section 102.
 
-#### 164. Financial Services (Banking Reform) Act 2013[^key-ee0a646234178c897f6f11ca3dc1c4c7][^key-3244ef4ea46d36a2090c14a9974079e6]
+#### 164. Financial Services (Banking Reform) Act 2013[^c-ee0a646234178c897f6f11ca3dc1c4c7][^c-3244ef4ea46d36a2090c14a9974079e6]
 
 (1) The Financial Services (Banking Reform) Act 2013 is amended as follows.
 
@@ -3754,7 +3754,7 @@ In section 7D of the Bank of England Act 1998 (examination by Comptroller and Au
 
 (3) In Schedule 10 omit paragraph 7.
 
-#### 165. Modified application of corporate law to CCPs in resolution[^key-ccd6311f53bd337a7afeb0155bef36fb][^key-5baa9252888138a03541d81d80052cc6]
+#### 165. Modified application of corporate law to CCPs in resolution[^c-ccd6311f53bd337a7afeb0155bef36fb][^c-5baa9252888138a03541d81d80052cc6]
 
 (1) The Treasury may by regulations provide for a relevant enactment to apply for the purposes of this Schedule with or without modifications.
 
@@ -3773,676 +3773,676 @@ In section 7D of the Bank of England Act 1998 (examination by Comptroller and Au
 
 ## Annotations
 
-[^key-43a26495f850717fcb7fe883df2b812c]: Commencement: Sch. 11 para. 1 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-43a26495f850717fcb7fe883df2b812c]: Commencement: Sch. 11 para. 1 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-f487c128c6adb73da1e8a2f150475dfe]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/1) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-f487c128c6adb73da1e8a2f150475dfe]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/1) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-07c2f699bed6928af62fa83b96f175f1]: Commencement: Sch. 11 para. 2 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-07c2f699bed6928af62fa83b96f175f1]: Commencement: Sch. 11 para. 2 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-4bb393e2036bb23bc9e27bd39272b559]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/2) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-4bb393e2036bb23bc9e27bd39272b559]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/2) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-fd8857a62b15866a254ba68bbaec806c]: Commencement: Sch. 11 para. 3 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-fd8857a62b15866a254ba68bbaec806c]: Commencement: Sch. 11 para. 3 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-05de40f631d2bda0fcf68157995c569a]: Commencement: [Sch. 11 para. 3(1)-(8)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/3/1)[(12)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/3/12)[(13)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/3/13) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-05de40f631d2bda0fcf68157995c569a]: Commencement: [Sch. 11 para. 3(1)-(8)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/3/1)[(12)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/3/12)[(13)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/3/13) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-ea38c080ad62253482043a78c1a985a3]: Commencement: [Sch. 11 para. 3(9)-(11)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/3/9) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(i)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/i)
+[^c-ea38c080ad62253482043a78c1a985a3]: Commencement: [Sch. 11 para. 3(9)-(11)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/3/9) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(i)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/i)
 
-[^key-91069666f10cc176fb0daa116b7b84c3]: Commencement: Sch. 11 para. 4 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-91069666f10cc176fb0daa116b7b84c3]: Commencement: Sch. 11 para. 4 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-18e05dbef950835fc4814f361a8c8b3d]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/4) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-18e05dbef950835fc4814f361a8c8b3d]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/4) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-1af3aeac5e475250b5023681f49043be]: Commencement: Sch. 11 para. 5 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-1af3aeac5e475250b5023681f49043be]: Commencement: Sch. 11 para. 5 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-0b4471394e4542a2a2a1a60321debeb2]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/5) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-0b4471394e4542a2a2a1a60321debeb2]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/5) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-faf7a03ad2bd7cf4711f0f09488c78b7]: Commencement: Sch. 11 para. 6 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-faf7a03ad2bd7cf4711f0f09488c78b7]: Commencement: Sch. 11 para. 6 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-1fceae6771654cb4e25c5f6d3288fee2]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/6) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-1fceae6771654cb4e25c5f6d3288fee2]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/6) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-6dc8ba0dbacb6a9cdcb5c3fab8b0544a]: Commencement: Sch. 11 para. 7 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-6dc8ba0dbacb6a9cdcb5c3fab8b0544a]: Commencement: Sch. 11 para. 7 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d62b954887cf95447c2b55ba8e22959f]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/7) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-d62b954887cf95447c2b55ba8e22959f]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/7) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-f699ae3e13aaf1859d91a998eaa7d2f2]: Commencement: Sch. 11 para. 8 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-f699ae3e13aaf1859d91a998eaa7d2f2]: Commencement: Sch. 11 para. 8 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-7ad66c04239cf8ed8a7fd150a8eb20fc]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/8) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-7ad66c04239cf8ed8a7fd150a8eb20fc]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/8) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-78da7bde9dfa23d8a674a366e5244090]: Commencement: Sch. 11 para. 9 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-78da7bde9dfa23d8a674a366e5244090]: Commencement: Sch. 11 para. 9 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-8aaf27908a945ac7f029b55d4135ddb3]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/9) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-8aaf27908a945ac7f029b55d4135ddb3]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/9) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-3960d30f45b7ac1f4742d69c69956710]: Commencement: Sch. 11 para. 10 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-3960d30f45b7ac1f4742d69c69956710]: Commencement: Sch. 11 para. 10 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-1e27299e4cdb63ffdd446dff22e0502a]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/10) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-1e27299e4cdb63ffdd446dff22e0502a]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/10) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-508bad7521c419c6661a47ec68d5da6f]: Commencement: Sch. 11 para. 11 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-508bad7521c419c6661a47ec68d5da6f]: Commencement: Sch. 11 para. 11 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-3bfcc95729676f0d34566b08606763e6]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/11) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-3bfcc95729676f0d34566b08606763e6]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/11) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-a7f864b0b472a835a4df0aeb528ed24e]: Commencement: Sch. 11 para. 12 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-a7f864b0b472a835a4df0aeb528ed24e]: Commencement: Sch. 11 para. 12 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-309cba9ed1c3e0674f237c2230a7edd0]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/12) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-309cba9ed1c3e0674f237c2230a7edd0]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/12) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-a39badc9e849b2437a733897a7fa97f2]: Commencement: Sch. 11 para. 13 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-a39badc9e849b2437a733897a7fa97f2]: Commencement: Sch. 11 para. 13 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-c6eb1599d2cd82d92998313d0f27b6fd]: Commencement: [Sch. 11 para. 13(1)-(4)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/13/1)[(8)-(11)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/13/8) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-c6eb1599d2cd82d92998313d0f27b6fd]: Commencement: [Sch. 11 para. 13(1)-(4)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/13/1)[(8)-(11)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/13/8) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-655e26894d951280a9676569342faff2]: Commencement: [Sch. 11 para. 13(5)-(7)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/13/5) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/ii)
+[^c-655e26894d951280a9676569342faff2]: Commencement: [Sch. 11 para. 13(5)-(7)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/13/5) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/ii)
 
-[^key-d5c4063bed3ff86dca7a25f9e404af30]: Commencement: Sch. 11 para. 14 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-d5c4063bed3ff86dca7a25f9e404af30]: Commencement: Sch. 11 para. 14 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-b78cfe8a347434aa9cca08ad20c9bf76]: Commencement: [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/14) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-b78cfe8a347434aa9cca08ad20c9bf76]: Commencement: [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/14) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-409f59688038aa8f8617fa491a323da3]: Commencement: Sch. 11 para. 15 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-409f59688038aa8f8617fa491a323da3]: Commencement: Sch. 11 para. 15 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-88d4250486712b291b1db64e4cc606fd]: Commencement: [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/15) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-88d4250486712b291b1db64e4cc606fd]: Commencement: [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/15) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-baaa9dfa2320d2a1ccb95c36f002f8d3]: Commencement: Sch. 11 para. 16 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-baaa9dfa2320d2a1ccb95c36f002f8d3]: Commencement: Sch. 11 para. 16 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a73fc9b927459eefc984fbf94003135e]: Commencement: [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/16) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/iii)
+[^c-a73fc9b927459eefc984fbf94003135e]: Commencement: [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/16) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(iii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/iii)
 
-[^key-af2dfd31486f56864a1017f4defcc2ac]: Commencement: Sch. 11 para. 17 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-af2dfd31486f56864a1017f4defcc2ac]: Commencement: Sch. 11 para. 17 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d690c35b841852972a220a81366c484e]: Commencement: [Sch. 11 para. 17](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/17) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-d690c35b841852972a220a81366c484e]: Commencement: [Sch. 11 para. 17](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/17) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-b9c350c48f9d0fdae92707fbcc7c1485]: Commencement: Sch. 11 para. 18 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-b9c350c48f9d0fdae92707fbcc7c1485]: Commencement: Sch. 11 para. 18 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-53d5bfad110d1e70b3001ae161382b06]: Commencement: [Sch. 11 para. 18](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/18) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-53d5bfad110d1e70b3001ae161382b06]: Commencement: [Sch. 11 para. 18](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/18) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-3cb6f1d2c67e7d16daf472d356ff7205]: Commencement: Sch. 11 para. 19 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-3cb6f1d2c67e7d16daf472d356ff7205]: Commencement: Sch. 11 para. 19 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-7244a66b221b1fd89a397a98cbfcc412]: Commencement: [Sch. 11 para. 19](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/19) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-7244a66b221b1fd89a397a98cbfcc412]: Commencement: [Sch. 11 para. 19](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/19) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-c64b454664f9cba43f19f18399964de6]: Commencement: Sch. 11 para. 20 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c64b454664f9cba43f19f18399964de6]: Commencement: Sch. 11 para. 20 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-bbb7024b535749d2549593c30f51bd3a]: Commencement: [Sch. 11 para. 20](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/20) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/iv)
+[^c-bbb7024b535749d2549593c30f51bd3a]: Commencement: [Sch. 11 para. 20](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/20) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(iv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/iv)
 
-[^key-c73948553fe913a22349c045ce9656c4]: Commencement: Sch. 11 para. 21 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c73948553fe913a22349c045ce9656c4]: Commencement: Sch. 11 para. 21 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-0db169177b1f0f8319e12c6079fb8431]: Commencement: [Sch. 11 para. 21](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/21) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-0db169177b1f0f8319e12c6079fb8431]: Commencement: [Sch. 11 para. 21](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/21) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-8d241de4968c257b1ea2f13718c5ff1f]: Commencement: Sch. 11 para. 22 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-8d241de4968c257b1ea2f13718c5ff1f]: Commencement: Sch. 11 para. 22 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a9800e98fc41ebfa568b3bdbc83637a7]: Commencement: [Sch. 11 para. 22(1)-(9)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/22/1) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-a9800e98fc41ebfa568b3bdbc83637a7]: Commencement: [Sch. 11 para. 22(1)-(9)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/22/1) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-47f6295d0bf99150b368bcd99fc1e7f6]: Commencement: [Sch. 11 para. 22(10)-(12)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/22/10) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(v)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/v)
+[^c-47f6295d0bf99150b368bcd99fc1e7f6]: Commencement: [Sch. 11 para. 22(10)-(12)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/22/10) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(v)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/v)
 
-[^key-e62896bc7b18445df3282035b0a8a95a]: Commencement: Sch. 11 para. 23 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-e62896bc7b18445df3282035b0a8a95a]: Commencement: Sch. 11 para. 23 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-2efac9bdcb91104e841e2510d3ecd81c]: Commencement: [Sch. 11 para. 23](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/23) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-2efac9bdcb91104e841e2510d3ecd81c]: Commencement: [Sch. 11 para. 23](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/23) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-07d00701ceac86f8f9073952abb44fed]: Commencement: Sch. 11 para. 24 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-07d00701ceac86f8f9073952abb44fed]: Commencement: Sch. 11 para. 24 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-5e779d406a5879b469281ca36fe74634]: Commencement: [Sch. 11 para. 24](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/24) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-5e779d406a5879b469281ca36fe74634]: Commencement: [Sch. 11 para. 24](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/24) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-58e2e86cf641246a4ab53ae60cc97bee]: Commencement: Sch. 11 para. 25 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-58e2e86cf641246a4ab53ae60cc97bee]: Commencement: Sch. 11 para. 25 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-fb642610a8719e522f492f6934e1e0dc]: Commencement: [Sch. 11 para. 25(1)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/1)[(4)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/4)[(6)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/6)[(7)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/7) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-fb642610a8719e522f492f6934e1e0dc]: Commencement: [Sch. 11 para. 25(1)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/1)[(4)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/4)[(6)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/6)[(7)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/7) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-1193dc8aebd14eda2b71e1900bf6b377]: Commencement: [Sch. 11 para. 25(2)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/2)[(3)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/3)[(5)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/5)[(8)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/8) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/vi)
+[^c-1193dc8aebd14eda2b71e1900bf6b377]: Commencement: [Sch. 11 para. 25(2)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/2)[(3)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/3)[(5)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/5)[(8)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/25/8) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(vi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/vi)
 
-[^key-bfabe1805129bcc6d3b2e9701645cf8c]: Commencement: Sch. 11 para. 26 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-bfabe1805129bcc6d3b2e9701645cf8c]: Commencement: Sch. 11 para. 26 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-1a200515f5ff6683c0401a4bb172fd81]: Commencement: [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/26) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-1a200515f5ff6683c0401a4bb172fd81]: Commencement: [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/26) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-97815cc460f89ac1c66a8c9636495f01]: Commencement: Sch. 11 para. 27 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-97815cc460f89ac1c66a8c9636495f01]: Commencement: Sch. 11 para. 27 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-e95b3c43a61aabe56ab6f1c1072800ca]: Commencement: [Sch. 11 para. 27](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/27) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-e95b3c43a61aabe56ab6f1c1072800ca]: Commencement: [Sch. 11 para. 27](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/27) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-c3cc954a802adb658d283ef93b1c2700]: Commencement: Sch. 11 para. 28 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c3cc954a802adb658d283ef93b1c2700]: Commencement: Sch. 11 para. 28 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-dec6d940a5cf41595fd52d02837bfebc]: Commencement: [Sch. 11 para. 28](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/28) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-dec6d940a5cf41595fd52d02837bfebc]: Commencement: [Sch. 11 para. 28](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/28) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-11e0ebaf19a3fe7658f51ea80bf6ab74]: Commencement: Sch. 11 para. 29 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-11e0ebaf19a3fe7658f51ea80bf6ab74]: Commencement: Sch. 11 para. 29 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-12b26299d5c18a33638e29fabea070ef]: Commencement: [Sch. 11 para. 29](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/29) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-12b26299d5c18a33638e29fabea070ef]: Commencement: [Sch. 11 para. 29](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/29) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-c4c5789c092e6cf07a093d57d2a42652]: Commencement: Sch. 11 para. 30 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c4c5789c092e6cf07a093d57d2a42652]: Commencement: Sch. 11 para. 30 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a2c43b19289a26b6ea523a803f8ccc8a]: Commencement: [Sch. 11 para. 30](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/30) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-a2c43b19289a26b6ea523a803f8ccc8a]: Commencement: [Sch. 11 para. 30](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/30) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-5218257c8ffba01241610393c7184a62]: Commencement: Sch. 11 para. 31 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-5218257c8ffba01241610393c7184a62]: Commencement: Sch. 11 para. 31 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-37c67c0d66b94811f4f877ce95e93fc6]: Commencement: [Sch. 11 para. 31](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/31) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-37c67c0d66b94811f4f877ce95e93fc6]: Commencement: [Sch. 11 para. 31](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/31) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-c0d8b606f3e2fc90ee36833d07eb3ac3]: Commencement: Sch. 11 para. 32 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c0d8b606f3e2fc90ee36833d07eb3ac3]: Commencement: Sch. 11 para. 32 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-8519b8169e686f4c17764eeccf58dca9]: Commencement: [Sch. 11 para. 32(1)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/32/1)[(2)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/32/2) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-8519b8169e686f4c17764eeccf58dca9]: Commencement: [Sch. 11 para. 32(1)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/32/1)[(2)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/32/2) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-8e030fa5671cc7dbab357be66e3d7350]: Commencement: [Sch. 11 para. 32(3)-(5)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/32/3) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(vii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/vii)
+[^c-8e030fa5671cc7dbab357be66e3d7350]: Commencement: [Sch. 11 para. 32(3)-(5)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/32/3) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(vii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/vii)
 
-[^key-5dec2d362ac78cd96874a89c918d8257]: Commencement: Sch. 11 para. 33 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-5dec2d362ac78cd96874a89c918d8257]: Commencement: Sch. 11 para. 33 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a8f7078bf56b904fcb83503a6181d306]: Commencement: [Sch. 11 para. 33](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/33) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-a8f7078bf56b904fcb83503a6181d306]: Commencement: [Sch. 11 para. 33](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/33) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-6c1d3f91406607eb9422c09adc2886c1]: Commencement: Sch. 11 para. 34 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-6c1d3f91406607eb9422c09adc2886c1]: Commencement: Sch. 11 para. 34 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-613ecba2ed97db5343811bb77abcd896]: Commencement: [Sch. 11 para. 34](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/34) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-613ecba2ed97db5343811bb77abcd896]: Commencement: [Sch. 11 para. 34](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/34) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-eef85d0dee8f883b8e6749db62bb0326]: Commencement: Sch. 11 para. 35 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-eef85d0dee8f883b8e6749db62bb0326]: Commencement: Sch. 11 para. 35 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a631d78c7fc4b94aff9877e28834b8c0]: Commencement: [Sch. 11 para. 35](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/35) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-a631d78c7fc4b94aff9877e28834b8c0]: Commencement: [Sch. 11 para. 35](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/35) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-ea0308fd8f5e2c967c6d729a6bd7dd44]: Textual amendment: Words in [Sch. 11 para. 35(3)(d)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/35/3/d) omitted (30.1.2024 for specified purposes, 19.1.2026 in so far as not already in force) by virtue of [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/3), [Sch. 3 para. 26](https://www.legislation.gov.uk/uksi/2024/105/schedule/3/paragraph/26) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2025/1078/regulation/12))
+[^c-ea0308fd8f5e2c967c6d729a6bd7dd44]: Textual amendment: Words in [Sch. 11 para. 35(3)(d)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/35/3/d) omitted (30.1.2024 for specified purposes, 19.1.2026 in so far as not already in force) by virtue of [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/3), [Sch. 3 para. 26](https://www.legislation.gov.uk/uksi/2024/105/schedule/3/paragraph/26) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2025/1078/regulation/12))
 
-[^key-0ca6cba7d465c45321453852b6a63938]: Commencement: Sch. 11 para. 36 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-0ca6cba7d465c45321453852b6a63938]: Commencement: Sch. 11 para. 36 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a7cd9e497236bf1fe6867c9ba61e216e]: Commencement: [Sch. 11 para. 36](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/36) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-a7cd9e497236bf1fe6867c9ba61e216e]: Commencement: [Sch. 11 para. 36](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/36) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-8744caed7a2211cfcbdc04d73a29db22]: Commencement: Sch. 11 para. 37 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-8744caed7a2211cfcbdc04d73a29db22]: Commencement: Sch. 11 para. 37 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-c9c509b4227a6324a07c55b3427a785b]: Commencement: [Sch. 11 para. 37](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/37) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-c9c509b4227a6324a07c55b3427a785b]: Commencement: [Sch. 11 para. 37](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/37) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-36af9141e4c4886e04120d7847ab3a3e]: Commencement: Sch. 11 para. 38 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-36af9141e4c4886e04120d7847ab3a3e]: Commencement: Sch. 11 para. 38 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-876e439b0e37a62016fa12028cdef7c0]: Commencement: [Sch. 11 para. 38](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/38) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-876e439b0e37a62016fa12028cdef7c0]: Commencement: [Sch. 11 para. 38](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/38) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-28b7565330eead18be9beb21a4a15943]: Commencement: Sch. 11 para. 39 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-28b7565330eead18be9beb21a4a15943]: Commencement: Sch. 11 para. 39 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a5d767bcd25c6674025f8b7a3f33adc2]: Commencement: [Sch. 11 para. 39](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/39) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-a5d767bcd25c6674025f8b7a3f33adc2]: Commencement: [Sch. 11 para. 39](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/39) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-fdef309839f0bed25ef3f9997597637f]: Commencement: Sch. 11 para. 40 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-fdef309839f0bed25ef3f9997597637f]: Commencement: Sch. 11 para. 40 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-7147ec2261ce673a7b0e4bfae0fde54d]: Commencement: [Sch. 11 para. 40](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/40) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-7147ec2261ce673a7b0e4bfae0fde54d]: Commencement: [Sch. 11 para. 40](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/40) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-65d8628a8cf86f329947d8961c917da6]: Commencement: Sch. 11 para. 41 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-65d8628a8cf86f329947d8961c917da6]: Commencement: Sch. 11 para. 41 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-2a72cfe538a687344c910699d8b4b6ae]: Commencement: [Sch. 11 para. 41](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/41) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-2a72cfe538a687344c910699d8b4b6ae]: Commencement: [Sch. 11 para. 41](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/41) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-a425979ac1f61b3fc7e1a6db792f2c99]: Commencement: Sch. 11 para. 42 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-a425979ac1f61b3fc7e1a6db792f2c99]: Commencement: Sch. 11 para. 42 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-906aad2c5874ef8fdfd0d9e8b6873f3b]: Commencement: [Sch. 11 para. 42](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/42) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-906aad2c5874ef8fdfd0d9e8b6873f3b]: Commencement: [Sch. 11 para. 42](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/42) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-0e00cc62e7494c1c2d6b48ae5bc6ecef]: Commencement: Sch. 11 para. 43 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-0e00cc62e7494c1c2d6b48ae5bc6ecef]: Commencement: Sch. 11 para. 43 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-dfdbb03cf868da55026f83a3f022f8ed]: Commencement: [Sch. 11 para. 43](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/43) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-dfdbb03cf868da55026f83a3f022f8ed]: Commencement: [Sch. 11 para. 43](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/43) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-ecc0835f49aed585a3f38c36bba508ac]: Commencement: Sch. 11 para. 44 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ecc0835f49aed585a3f38c36bba508ac]: Commencement: Sch. 11 para. 44 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-c70878c339349066b7ae5cd3dd87d174]: Commencement: [Sch. 11 para. 44](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/44) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-c70878c339349066b7ae5cd3dd87d174]: Commencement: [Sch. 11 para. 44](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/44) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-f249f48d6369134019f830639d739916]: Commencement: Sch. 11 para. 45 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-f249f48d6369134019f830639d739916]: Commencement: Sch. 11 para. 45 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-c66ee481dfe31c32aa23f47b29fa38a6]: Commencement: [Sch. 11 para. 45](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/45) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-c66ee481dfe31c32aa23f47b29fa38a6]: Commencement: [Sch. 11 para. 45](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/45) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-66cdc3acf9cbb9aacdab5bd88f139a15]: Commencement: Sch. 11 para. 46 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-66cdc3acf9cbb9aacdab5bd88f139a15]: Commencement: Sch. 11 para. 46 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-87a04138c381d38fa2bbef2a14af9e92]: Commencement: [Sch. 11 para. 46](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/46) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-87a04138c381d38fa2bbef2a14af9e92]: Commencement: [Sch. 11 para. 46](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/46) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-ab6d690406608abaeba8c441e1b061ed]: Commencement: Sch. 11 para. 47 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ab6d690406608abaeba8c441e1b061ed]: Commencement: Sch. 11 para. 47 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-b62e4478cae5cb90d6355f9a0dd6f5c3]: Commencement: [Sch. 11 para. 47](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/47) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-b62e4478cae5cb90d6355f9a0dd6f5c3]: Commencement: [Sch. 11 para. 47](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/47) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-72c3fabd53e75d14ea2aab496b53fddb]: Commencement: Sch. 11 para. 48 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-72c3fabd53e75d14ea2aab496b53fddb]: Commencement: Sch. 11 para. 48 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-2db21b07aabf2584d6bf79f504c89d62]: Commencement: [Sch. 11 para. 48](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/48) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-2db21b07aabf2584d6bf79f504c89d62]: Commencement: [Sch. 11 para. 48](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/48) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-ba9bc91081f1df78b4bb29596b8fc662]: Commencement: Sch. 11 para. 49 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ba9bc91081f1df78b4bb29596b8fc662]: Commencement: Sch. 11 para. 49 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-8f496fc09785c9a2b3ecec7e3eaa34a7]: Commencement: [Sch. 11 para. 49](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/49) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-8f496fc09785c9a2b3ecec7e3eaa34a7]: Commencement: [Sch. 11 para. 49](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/49) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-e8d5105528bc1830d421b069a065a250]: Commencement: Sch. 11 para. 50 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-e8d5105528bc1830d421b069a065a250]: Commencement: Sch. 11 para. 50 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-13adf469f60373c88dbcd077d5616332]: Commencement: [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/50) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-13adf469f60373c88dbcd077d5616332]: Commencement: [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/50) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-04f7cde248a684c5da08914945da2989]: Commencement: Sch. 11 para. 51 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-04f7cde248a684c5da08914945da2989]: Commencement: Sch. 11 para. 51 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-2cf6e85ee3d58b0e8093cad7f80e60c1]: Commencement: [Sch. 11 para. 51](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/51) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-2cf6e85ee3d58b0e8093cad7f80e60c1]: Commencement: [Sch. 11 para. 51](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/51) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-e0ca70f35e4c4e6dd117681b5f74aabb]: Commencement: Sch. 11 para. 52 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-e0ca70f35e4c4e6dd117681b5f74aabb]: Commencement: Sch. 11 para. 52 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-604f45e3179e5747fc0e8f7ed5a78cea]: Commencement: [Sch. 11 para. 52](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/52) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-604f45e3179e5747fc0e8f7ed5a78cea]: Commencement: [Sch. 11 para. 52](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/52) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-88308fd010946d6de4982a9ded8f8f39]: Commencement: Sch. 11 para. 53 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-88308fd010946d6de4982a9ded8f8f39]: Commencement: Sch. 11 para. 53 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-c9e7c90d4929ab8c359f2f320e412b60]: Commencement: [Sch. 11 para. 53](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/53) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-c9e7c90d4929ab8c359f2f320e412b60]: Commencement: [Sch. 11 para. 53](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/53) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-d29993d88c5e84f2e03b3d317e3523a8]: Commencement: Sch. 11 para. 54 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-d29993d88c5e84f2e03b3d317e3523a8]: Commencement: Sch. 11 para. 54 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-4bf1ef63f6802626a0c7725350f7355c]: Commencement: [Sch. 11 para. 54](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/54) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-4bf1ef63f6802626a0c7725350f7355c]: Commencement: [Sch. 11 para. 54](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/54) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-4833ce901c16741c0f319b7566468dbe]: Commencement: Sch. 11 para. 55 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-4833ce901c16741c0f319b7566468dbe]: Commencement: Sch. 11 para. 55 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-05d411f71d21f2fe2b26a37f2d6dd01a]: Commencement: [Sch. 11 para. 55](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/55) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-05d411f71d21f2fe2b26a37f2d6dd01a]: Commencement: [Sch. 11 para. 55](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/55) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-18a2008ed9b485eebebdec54c7112eb3]: Commencement: Sch. 11 para. 56 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-18a2008ed9b485eebebdec54c7112eb3]: Commencement: Sch. 11 para. 56 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-93ae991c4c85eb175814fd2c711b8fca]: Commencement: [Sch. 11 para. 56](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/56) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-93ae991c4c85eb175814fd2c711b8fca]: Commencement: [Sch. 11 para. 56](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/56) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-6a69b551d890d5187c3e0b7dc216538d]: Commencement: Sch. 11 para. 57 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-6a69b551d890d5187c3e0b7dc216538d]: Commencement: Sch. 11 para. 57 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-f16222b06a2fd2670118c7a96b477afa]: Commencement: [Sch. 11 para. 57](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/57) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-f16222b06a2fd2670118c7a96b477afa]: Commencement: [Sch. 11 para. 57](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/57) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-7a9b541613e50728eb2c1e43a4a923b2]: Commencement: Sch. 11 para. 58 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-7a9b541613e50728eb2c1e43a4a923b2]: Commencement: Sch. 11 para. 58 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-f9c6f042ffd21ca60dbef9c26b6bda5b]: Commencement: [Sch. 11 para. 58](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/58) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-f9c6f042ffd21ca60dbef9c26b6bda5b]: Commencement: [Sch. 11 para. 58](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/58) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-a9bf439e063c9480c060c0fc8ce63231]: Commencement: Sch. 11 para. 59 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-a9bf439e063c9480c060c0fc8ce63231]: Commencement: Sch. 11 para. 59 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-f3abc26bf60c285d11131497d5ed980a]: Commencement: [Sch. 11 para. 59](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/59) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-f3abc26bf60c285d11131497d5ed980a]: Commencement: [Sch. 11 para. 59](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/59) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-8748790ce38228927da9e3ab424147d3]: Commencement: Sch. 11 para. 60 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-8748790ce38228927da9e3ab424147d3]: Commencement: Sch. 11 para. 60 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-bb7cc87b4b087a0399e1c316d38d434c]: Commencement: [Sch. 11 para. 60](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/60) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-bb7cc87b4b087a0399e1c316d38d434c]: Commencement: [Sch. 11 para. 60](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/60) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-cb8d53da674f1261c24eb3986efdea1b]: Commencement: Sch. 11 para. 61 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-cb8d53da674f1261c24eb3986efdea1b]: Commencement: Sch. 11 para. 61 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-c88c9e424f6b51e193b039fa7ff40efc]: Commencement: [Sch. 11 para. 61](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/61) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-c88c9e424f6b51e193b039fa7ff40efc]: Commencement: [Sch. 11 para. 61](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/61) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-8182b78e2fb42d7903565e3e61ad6e73]: Commencement: Sch. 11 para. 62 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-8182b78e2fb42d7903565e3e61ad6e73]: Commencement: Sch. 11 para. 62 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-6da1265fbfed65ef92c9cd66e16ff19f]: Commencement: [Sch. 11 para. 62](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/62) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-6da1265fbfed65ef92c9cd66e16ff19f]: Commencement: [Sch. 11 para. 62](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/62) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-7d6f1b5266d3df3c903873e867501472]: Commencement: Sch. 11 para. 63 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-7d6f1b5266d3df3c903873e867501472]: Commencement: Sch. 11 para. 63 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-249cb13a76627afdf683151b86dfd2b3]: Commencement: [Sch. 11 para. 63](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/63) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-249cb13a76627afdf683151b86dfd2b3]: Commencement: [Sch. 11 para. 63](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/63) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-83e14e1a77a77d4b5c754a79bb6d4e19]: Commencement: Sch. 11 para. 64 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-83e14e1a77a77d4b5c754a79bb6d4e19]: Commencement: Sch. 11 para. 64 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-ba729039fd7fa326d15d64317aa24cac]: Commencement: [Sch. 11 para. 64](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/64) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-ba729039fd7fa326d15d64317aa24cac]: Commencement: [Sch. 11 para. 64](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/64) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-249fcfd9a1fc6b7939c91313a8ebbf68]: Commencement: Sch. 11 para. 65 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-249fcfd9a1fc6b7939c91313a8ebbf68]: Commencement: Sch. 11 para. 65 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-fa7e71983a546f64f16ae8c40e42e4b5]: Commencement: [Sch. 11 para. 65](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/65) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-fa7e71983a546f64f16ae8c40e42e4b5]: Commencement: [Sch. 11 para. 65](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/65) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-18c741eaba97a325300d72a2928b14e0]: Commencement: Sch. 11 para. 66 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-18c741eaba97a325300d72a2928b14e0]: Commencement: Sch. 11 para. 66 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-8e280669721532664393066aad81213a]: Commencement: [Sch. 11 para. 66](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/66) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-8e280669721532664393066aad81213a]: Commencement: [Sch. 11 para. 66](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/66) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-3271e3a07e89f7d91906e70bdac6ce8f]: Commencement: Sch. 11 para. 67 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-3271e3a07e89f7d91906e70bdac6ce8f]: Commencement: Sch. 11 para. 67 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-b8e7fc7188383666416f25762a913112]: Commencement: [Sch. 11 para. 67](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/67) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-b8e7fc7188383666416f25762a913112]: Commencement: [Sch. 11 para. 67](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/67) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-d0e5414069de2022c2bff3c2b090644d]: Commencement: Sch. 11 para. 68 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-d0e5414069de2022c2bff3c2b090644d]: Commencement: Sch. 11 para. 68 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-1e5302f6bab1e0d95e8361575530a010]: Commencement: [Sch. 11 para. 68](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/68) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-1e5302f6bab1e0d95e8361575530a010]: Commencement: [Sch. 11 para. 68](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/68) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-a0bbc6c064198690029d87e534ca1bbc]: Commencement: Sch. 11 para. 69 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-a0bbc6c064198690029d87e534ca1bbc]: Commencement: Sch. 11 para. 69 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-99f4a17309158d3328dcbcef86468a1e]: Commencement: [Sch. 11 para. 69](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/69) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-99f4a17309158d3328dcbcef86468a1e]: Commencement: [Sch. 11 para. 69](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/69) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-ddc9d2ee7aef0357600515641b3a4e65]: Commencement: Sch. 11 para. 70 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ddc9d2ee7aef0357600515641b3a4e65]: Commencement: Sch. 11 para. 70 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-1fe94fe7527c0c28d891514a481a5aa8]: Commencement: [Sch. 11 para. 70](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/70) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-1fe94fe7527c0c28d891514a481a5aa8]: Commencement: [Sch. 11 para. 70](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/70) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-a1e288297de48fdfc7736342db88bf11]: Commencement: Sch. 11 para. 71 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-a1e288297de48fdfc7736342db88bf11]: Commencement: Sch. 11 para. 71 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d90b8cae4b4dc0069bc98a179e5437ca]: Commencement: [Sch. 11 para. 71](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/71) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-d90b8cae4b4dc0069bc98a179e5437ca]: Commencement: [Sch. 11 para. 71](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/71) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-ca6f2e97bd15ff5c890dc2adc34dd37d]: Commencement: Sch. 11 para. 72 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ca6f2e97bd15ff5c890dc2adc34dd37d]: Commencement: Sch. 11 para. 72 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-494ddacc108c6b6e3d3e4d21b8d41dca]: Commencement: [Sch. 11 para. 72](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/72) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-494ddacc108c6b6e3d3e4d21b8d41dca]: Commencement: [Sch. 11 para. 72](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/72) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-8367266986b7e7bf3ec9f68509b21a79]: Commencement: Sch. 11 para. 73 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-8367266986b7e7bf3ec9f68509b21a79]: Commencement: Sch. 11 para. 73 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-3e41a090e7c5f9ef09b35d8e39a9880f]: Commencement: [Sch. 11 para. 73](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/73) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-3e41a090e7c5f9ef09b35d8e39a9880f]: Commencement: [Sch. 11 para. 73](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/73) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-8f0940496d4a930721f222520ef6cd1c]: Commencement: Sch. 11 para. 74 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-8f0940496d4a930721f222520ef6cd1c]: Commencement: Sch. 11 para. 74 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a8dd0a689e5b9357f1433d1c7ebd8d07]: Commencement: [Sch. 11 para. 74](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/74) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-a8dd0a689e5b9357f1433d1c7ebd8d07]: Commencement: [Sch. 11 para. 74](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/74) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-45c3728d8ca5a62922c8249646ca4cab]: Commencement: Sch. 11 para. 75 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-45c3728d8ca5a62922c8249646ca4cab]: Commencement: Sch. 11 para. 75 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-cdb68a28c8e27d7321cd04a2ba02a496]: Commencement: [Sch. 11 para. 75](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/75) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(viii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/viii)
+[^c-cdb68a28c8e27d7321cd04a2ba02a496]: Commencement: [Sch. 11 para. 75](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/75) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(viii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/viii)
 
-[^key-cf164650bb43ff7eeeefb07554758468]: Commencement: Sch. 11 para. 76 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-cf164650bb43ff7eeeefb07554758468]: Commencement: Sch. 11 para. 76 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d116e9258e9b1262db54f1fe502643cf]: Commencement: [Sch. 11 para. 76](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/76) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(ix)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/ix)
+[^c-d116e9258e9b1262db54f1fe502643cf]: Commencement: [Sch. 11 para. 76](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/76) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(ix)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/ix)
 
-[^key-7387f164d49b98ffe05d8e43e3d9ba1d]: Commencement: Sch. 11 para. 77 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-7387f164d49b98ffe05d8e43e3d9ba1d]: Commencement: Sch. 11 para. 77 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-b34321f1569b147471b35133c9580f29]: Commencement: [Sch. 11 para. 77](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/77) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-b34321f1569b147471b35133c9580f29]: Commencement: [Sch. 11 para. 77](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/77) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-830434cc46d5d707076819c8c86ccef5]: Commencement: Sch. 11 para. 78 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-830434cc46d5d707076819c8c86ccef5]: Commencement: Sch. 11 para. 78 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-c538503f807e754c25cc947f56cde23c]: Commencement: [Sch. 11 para. 78](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/78) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(x)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/x)
+[^c-c538503f807e754c25cc947f56cde23c]: Commencement: [Sch. 11 para. 78](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/78) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(x)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/x)
 
-[^key-a9392a38df75335d0faef036ef6df0ba]: Commencement: Sch. 11 para. 79 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-a9392a38df75335d0faef036ef6df0ba]: Commencement: Sch. 11 para. 79 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-15db9c73e36573d3910151666691a763]: Commencement: [Sch. 11 para. 79](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/79) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-15db9c73e36573d3910151666691a763]: Commencement: [Sch. 11 para. 79](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/79) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-33d98e6249ec49e1a4d3d66d697288d8]: Commencement: Sch. 11 para. 80 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-33d98e6249ec49e1a4d3d66d697288d8]: Commencement: Sch. 11 para. 80 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-bf518bd09a0210cf5d4a7c14ecd1760b]: Commencement: [Sch. 11 para. 80](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/80) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-bf518bd09a0210cf5d4a7c14ecd1760b]: Commencement: [Sch. 11 para. 80](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/80) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-63de230431c33cd5940f11b415954f6c]: Commencement: Sch. 11 para. 81 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-63de230431c33cd5940f11b415954f6c]: Commencement: Sch. 11 para. 81 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-1495226556760c2d9cfd6194b07c49f1]: Commencement: [Sch. 11 para. 81](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/81) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-1495226556760c2d9cfd6194b07c49f1]: Commencement: [Sch. 11 para. 81](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/81) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-4ed76623d267c5ab6290ef7a67f63200]: Commencement: Sch. 11 para. 82 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-4ed76623d267c5ab6290ef7a67f63200]: Commencement: Sch. 11 para. 82 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-4e63398938717070c55ee97558dc352a]: Commencement: [Sch. 11 para. 82](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/82) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-4e63398938717070c55ee97558dc352a]: Commencement: [Sch. 11 para. 82](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/82) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-630a0c703d00b0155c104792a099f0c7]: Commencement: Sch. 11 para. 83 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-630a0c703d00b0155c104792a099f0c7]: Commencement: Sch. 11 para. 83 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d5d7f5a004cce5adbb485ca62b3bfbf8]: Commencement: [Sch. 11 para. 83](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/83) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-d5d7f5a004cce5adbb485ca62b3bfbf8]: Commencement: [Sch. 11 para. 83](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/83) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-78255ce84c50a484d573348d40a67362]: Commencement: Sch. 11 para. 84 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-78255ce84c50a484d573348d40a67362]: Commencement: Sch. 11 para. 84 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-3f6cfbc56ef065b4b86ba31f2c19ad2c]: Commencement: [Sch. 11 para. 84](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/84) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-3f6cfbc56ef065b4b86ba31f2c19ad2c]: Commencement: [Sch. 11 para. 84](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/84) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-ae6269f137f17b615946b5248475d804]: Commencement: Sch. 11 para. 85 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ae6269f137f17b615946b5248475d804]: Commencement: Sch. 11 para. 85 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-e98dab2668dce890d7c8f674caae2f33]: Commencement: [Sch. 11 para. 85](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/85) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xi)
+[^c-e98dab2668dce890d7c8f674caae2f33]: Commencement: [Sch. 11 para. 85](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/85) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xi)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xi)
 
-[^key-e66565b34e94f0345390fd25e728a536]: Commencement: Sch. 11 para. 86 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-e66565b34e94f0345390fd25e728a536]: Commencement: Sch. 11 para. 86 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-edb22368818075c7d99e0ab5350a42d5]: Commencement: [Sch. 11 para. 86](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/86) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-edb22368818075c7d99e0ab5350a42d5]: Commencement: [Sch. 11 para. 86](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/86) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-3ce7512b6cd98b6f768d344d099e87f4]: Commencement: Sch. 11 para. 87 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-3ce7512b6cd98b6f768d344d099e87f4]: Commencement: Sch. 11 para. 87 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a42e01d55ac8d73e54586230ba024f87]: Commencement: [Sch. 11 para. 87](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/87) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xii)
+[^c-a42e01d55ac8d73e54586230ba024f87]: Commencement: [Sch. 11 para. 87](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/87) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xii)
 
-[^key-bef30f3e990e34789fdb79db8fe1ecfb]: Commencement: Sch. 11 para. 88 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-bef30f3e990e34789fdb79db8fe1ecfb]: Commencement: Sch. 11 para. 88 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-fda17f09a2662b5a81d7139e2e52944c]: Commencement: [Sch. 11 para. 88](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/88) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-fda17f09a2662b5a81d7139e2e52944c]: Commencement: [Sch. 11 para. 88](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/88) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-352e5d10ac030057408a398ef7ad1aa4]: Commencement: Sch. 11 para. 89 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-352e5d10ac030057408a398ef7ad1aa4]: Commencement: Sch. 11 para. 89 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-8d242cc191712be203b014964988e3fc]: Commencement: [Sch. 11 para. 89](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/89) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-8d242cc191712be203b014964988e3fc]: Commencement: [Sch. 11 para. 89](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/89) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-c658324c18da93e9c45533fec603014c]: Commencement: Sch. 11 para. 90 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c658324c18da93e9c45533fec603014c]: Commencement: Sch. 11 para. 90 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-1a1e9fc3e7e02f47ed46de1f67509079]: Commencement: [Sch. 11 para. 90](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/90) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-1a1e9fc3e7e02f47ed46de1f67509079]: Commencement: [Sch. 11 para. 90](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/90) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-80dbcaa9a4939c7bb208203ebb027649]: Commencement: Sch. 11 para. 91 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-80dbcaa9a4939c7bb208203ebb027649]: Commencement: Sch. 11 para. 91 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-7b72d407edf75f0440d67dec46ff4471]: Commencement: [Sch. 11 para. 91](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/91) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-7b72d407edf75f0440d67dec46ff4471]: Commencement: [Sch. 11 para. 91](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/91) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-f0752dc402580bc735a5720123bbbb67]: Commencement: Sch. 11 para. 92 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-f0752dc402580bc735a5720123bbbb67]: Commencement: Sch. 11 para. 92 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-61740f3643ff95feeb43678d225c28d3]: Commencement: [Sch. 11 para. 92](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/92) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-61740f3643ff95feeb43678d225c28d3]: Commencement: [Sch. 11 para. 92](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/92) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-dc98333f61a415345811aad31e7a66c6]: Commencement: Sch. 11 para. 93 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-dc98333f61a415345811aad31e7a66c6]: Commencement: Sch. 11 para. 93 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-5a603d8f99f22cd2797c83294bfc6f61]: Commencement: [Sch. 11 para. 93](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/93) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-5a603d8f99f22cd2797c83294bfc6f61]: Commencement: [Sch. 11 para. 93](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/93) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-07fc99a94622138b28a1107e07bebc9b]: Commencement: Sch. 11 para. 94 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-07fc99a94622138b28a1107e07bebc9b]: Commencement: Sch. 11 para. 94 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d58588216f9b0e6845a62289cdc40cc9]: Commencement: [Sch. 11 para. 94](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/94) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-d58588216f9b0e6845a62289cdc40cc9]: Commencement: [Sch. 11 para. 94](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/94) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-1c6479516849faca83a5ca8fe4348114]: Commencement: Sch. 11 para. 95 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-1c6479516849faca83a5ca8fe4348114]: Commencement: Sch. 11 para. 95 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-40c2970f73d80c083f4e83a682b83ce8]: Commencement: [Sch. 11 para. 95](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/95) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-40c2970f73d80c083f4e83a682b83ce8]: Commencement: [Sch. 11 para. 95](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/95) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-dbb1d2b97d5ca635962932220646ead1]: Commencement: Sch. 11 para. 96 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-dbb1d2b97d5ca635962932220646ead1]: Commencement: Sch. 11 para. 96 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-19f8ba7e2ce0a37a3e860fef92f987a1]: Commencement: [Sch. 11 para. 96](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/96) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-19f8ba7e2ce0a37a3e860fef92f987a1]: Commencement: [Sch. 11 para. 96](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/96) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-22b0951a6a8c5be4cb4936c861f8e258]: Commencement: Sch. 11 para. 97 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-22b0951a6a8c5be4cb4936c861f8e258]: Commencement: Sch. 11 para. 97 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-18ebb90a410e8ff695275e7569422416]: Commencement: [Sch. 11 para. 97](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/97) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-18ebb90a410e8ff695275e7569422416]: Commencement: [Sch. 11 para. 97](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/97) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-cb6d8822d9ea851b6ec8f18886bcaa5e]: Commencement: Sch. 11 para. 98 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-cb6d8822d9ea851b6ec8f18886bcaa5e]: Commencement: Sch. 11 para. 98 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-b149549f9be67cabea9d1700647e3ea1]: Commencement: [Sch. 11 para. 98](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/98) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-b149549f9be67cabea9d1700647e3ea1]: Commencement: [Sch. 11 para. 98](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/98) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-42e4b0b739829290c88d7d12f7ba57bf]: Commencement: Sch. 11 para. 99 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-42e4b0b739829290c88d7d12f7ba57bf]: Commencement: Sch. 11 para. 99 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-8b66350ff43d3d65cb47749b50e55b21]: Commencement: [Sch. 11 para. 99](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/99) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-8b66350ff43d3d65cb47749b50e55b21]: Commencement: [Sch. 11 para. 99](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/99) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-b112e44ad3284393517894652cce30e1]: Commencement: Sch. 11 para. 100 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-b112e44ad3284393517894652cce30e1]: Commencement: Sch. 11 para. 100 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d3ab7f5e7e207d4324b900ce5bbed30b]: Commencement: [Sch. 11 para. 100](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/100) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-d3ab7f5e7e207d4324b900ce5bbed30b]: Commencement: [Sch. 11 para. 100](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/100) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-d58219c24d4225c21f82716ed6b4d638]: Commencement: Sch. 11 para. 101 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-d58219c24d4225c21f82716ed6b4d638]: Commencement: Sch. 11 para. 101 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-25698746854adfe5ad739ef0a9d5466c]: Commencement: [Sch. 11 para. 101](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/101) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-25698746854adfe5ad739ef0a9d5466c]: Commencement: [Sch. 11 para. 101](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/101) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-75f0a96dfb5da0f02280da4a1be120d1]: Commencement: Sch. 11 para. 102 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-75f0a96dfb5da0f02280da4a1be120d1]: Commencement: Sch. 11 para. 102 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-c59df48e38c16d9889d1622ca50450ae]: Commencement: [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/102) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-c59df48e38c16d9889d1622ca50450ae]: Commencement: [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/102) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-1f2758b4dc1c08faea1ac6edaa362b3f]: Commencement: Sch. 11 para. 103 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-1f2758b4dc1c08faea1ac6edaa362b3f]: Commencement: Sch. 11 para. 103 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d6192b51ef19dcdcded08af7bd41214c]: Commencement: [Sch. 11 para. 103](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/103) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-d6192b51ef19dcdcded08af7bd41214c]: Commencement: [Sch. 11 para. 103](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/103) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-570cd63f20e2fcfe02913fa9bb029850]: Commencement: Sch. 11 para. 104 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-570cd63f20e2fcfe02913fa9bb029850]: Commencement: Sch. 11 para. 104 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-bb7a97f3f8c6750ba34827d81044b2c3]: Commencement: [Sch. 11 para. 104](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/104) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-bb7a97f3f8c6750ba34827d81044b2c3]: Commencement: [Sch. 11 para. 104](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/104) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-e1fc5af2b87431f2cd211bc87793763d]: Commencement: Sch. 11 para. 105 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-e1fc5af2b87431f2cd211bc87793763d]: Commencement: Sch. 11 para. 105 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-001a596f1023ec070484eb465f14ceb0]: Commencement: [Sch. 11 para. 105](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/105) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-001a596f1023ec070484eb465f14ceb0]: Commencement: [Sch. 11 para. 105](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/105) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-2ca0ca87309f0196c703272393c05f0d]: Commencement: Sch. 11 para. 106 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-2ca0ca87309f0196c703272393c05f0d]: Commencement: Sch. 11 para. 106 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-1ea708bb53a46ded4a92e7f0d06d2743]: Commencement: [Sch. 11 para. 106](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/106) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-1ea708bb53a46ded4a92e7f0d06d2743]: Commencement: [Sch. 11 para. 106](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/106) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-56ec03014cf7a58c411c67fb76454e57]: Commencement: Sch. 11 para. 107 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-56ec03014cf7a58c411c67fb76454e57]: Commencement: Sch. 11 para. 107 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-418f68b1aa60b520b534ee037e90acc8]: Commencement: [Sch. 11 para. 107](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/107) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-418f68b1aa60b520b534ee037e90acc8]: Commencement: [Sch. 11 para. 107](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/107) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-693e7fe42f528f87bff976807f5e1275]: Commencement: Sch. 11 para. 108 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-693e7fe42f528f87bff976807f5e1275]: Commencement: Sch. 11 para. 108 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-e4457ae19925e0c6906e03bdafdea6da]: Commencement: [Sch. 11 para. 108](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/108) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-e4457ae19925e0c6906e03bdafdea6da]: Commencement: [Sch. 11 para. 108](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/108) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-62a84d3584b577b318b56e94ddcfd227]: Commencement: Sch. 11 para. 109 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-62a84d3584b577b318b56e94ddcfd227]: Commencement: Sch. 11 para. 109 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-56cbee6b351898f877b7ef180ec1de9c]: Commencement: [Sch. 11 para. 109](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/109) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-56cbee6b351898f877b7ef180ec1de9c]: Commencement: [Sch. 11 para. 109](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/109) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-ec79ee7512ddde3bc6a4e55a6b62fd4f]: Commencement: Sch. 11 para. 110 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ec79ee7512ddde3bc6a4e55a6b62fd4f]: Commencement: Sch. 11 para. 110 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d180f780bfc59126685cfcb64ff9aad3]: Commencement: [Sch. 11 para. 110](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/110) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-d180f780bfc59126685cfcb64ff9aad3]: Commencement: [Sch. 11 para. 110](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/110) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-de93a7795d4a2e65ebce75b8511f273e]: Commencement: Sch. 11 para. 111 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-de93a7795d4a2e65ebce75b8511f273e]: Commencement: Sch. 11 para. 111 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-2f491d9a2a3391f13c1511cc6c4e2a21]: Commencement: [Sch. 11 para. 111](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/111) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-2f491d9a2a3391f13c1511cc6c4e2a21]: Commencement: [Sch. 11 para. 111](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/111) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-dcf1abba3629de4fa22c671d52e8650e]: Commencement: Sch. 11 para. 112 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-dcf1abba3629de4fa22c671d52e8650e]: Commencement: Sch. 11 para. 112 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-0af3012fbb749420a3139047dc7c1c68]: Commencement: [Sch. 11 para. 112](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/112) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-0af3012fbb749420a3139047dc7c1c68]: Commencement: [Sch. 11 para. 112](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/112) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-38f9034ad001736c9eed1d87e3763175]: Commencement: Sch. 11 para. 113 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-38f9034ad001736c9eed1d87e3763175]: Commencement: Sch. 11 para. 113 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-483fdacb358a3b5f7734ca3839fd58c4]: Commencement: [Sch. 11 para. 113](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/113) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-483fdacb358a3b5f7734ca3839fd58c4]: Commencement: [Sch. 11 para. 113](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/113) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-ab3c6d9aed1041efd299a1ab3f680117]: Commencement: Sch. 11 para. 114 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ab3c6d9aed1041efd299a1ab3f680117]: Commencement: Sch. 11 para. 114 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-803bda9cf120b3b527d2505c9853adb8]: Commencement: [Sch. 11 para. 114](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/114) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-803bda9cf120b3b527d2505c9853adb8]: Commencement: [Sch. 11 para. 114](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/114) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-dec5e3daae3c901a19bfbe2102d3ee8d]: Commencement: Sch. 11 para. 115 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-dec5e3daae3c901a19bfbe2102d3ee8d]: Commencement: Sch. 11 para. 115 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-f18d3d6cbdd0b9cdedf318d569d50094]: Commencement: [Sch. 11 para. 115](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/115) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-f18d3d6cbdd0b9cdedf318d569d50094]: Commencement: [Sch. 11 para. 115](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/115) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-ccac1ecae0e15be4329d324377b52bac]: Commencement: Sch. 11 para. 116 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ccac1ecae0e15be4329d324377b52bac]: Commencement: Sch. 11 para. 116 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-4aeb5fc9b50014691f45e5cb0008106b]: Commencement: [Sch. 11 para. 116](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/116) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-4aeb5fc9b50014691f45e5cb0008106b]: Commencement: [Sch. 11 para. 116](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/116) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-63d9746bdaf0e83fc982140afad04da0]: Commencement: Sch. 11 para. 117 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-63d9746bdaf0e83fc982140afad04da0]: Commencement: Sch. 11 para. 117 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-2e8aaeadb38b86d1af5658456cdd689d]: Commencement: [Sch. 11 para. 117](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/117) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-2e8aaeadb38b86d1af5658456cdd689d]: Commencement: [Sch. 11 para. 117](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/117) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-97cfc7ee4a428d5bd9e51058bde19b9e]: Commencement: Sch. 11 para. 118 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-97cfc7ee4a428d5bd9e51058bde19b9e]: Commencement: Sch. 11 para. 118 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-41463ae62f035f52030c1925147628a7]: Commencement: [Sch. 11 para. 118](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/118) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-41463ae62f035f52030c1925147628a7]: Commencement: [Sch. 11 para. 118](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/118) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-56cba62a7798aadada2228a5eab971b3]: Commencement: Sch. 11 para. 119 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-56cba62a7798aadada2228a5eab971b3]: Commencement: Sch. 11 para. 119 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d4ff4c6cdd61f76738dc00e8289544be]: Commencement: [Sch. 11 para. 119](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/119) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-d4ff4c6cdd61f76738dc00e8289544be]: Commencement: [Sch. 11 para. 119](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/119) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-9f50a585cc1e9fee7b57d105de0c541e]: Commencement: Sch. 11 para. 120 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-9f50a585cc1e9fee7b57d105de0c541e]: Commencement: Sch. 11 para. 120 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-e2c7f483fd0860d5e9fb27769dce6732]: Commencement: [Sch. 11 para. 120](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/120) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-e2c7f483fd0860d5e9fb27769dce6732]: Commencement: [Sch. 11 para. 120](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/120) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-95e53772bc55124e988c83444d5beffd]: Commencement: Sch. 11 para. 121 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-95e53772bc55124e988c83444d5beffd]: Commencement: Sch. 11 para. 121 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-211b806d421cc169aed1a58e984d88f4]: Commencement: [Sch. 11 para. 121](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/121) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-211b806d421cc169aed1a58e984d88f4]: Commencement: [Sch. 11 para. 121](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/121) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-64ad5880b051c95b397fcd3e63412ffb]: Commencement: Sch. 11 para. 122 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-64ad5880b051c95b397fcd3e63412ffb]: Commencement: Sch. 11 para. 122 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-b49899300126377d7cf84e99a81bc146]: Commencement: [Sch. 11 para. 122](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/122) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-b49899300126377d7cf84e99a81bc146]: Commencement: [Sch. 11 para. 122](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/122) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-822183790b8b4ed5168900ef10447bc4]: Commencement: Sch. 11 para. 123 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-822183790b8b4ed5168900ef10447bc4]: Commencement: Sch. 11 para. 123 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-1003dc5eca4296b7e007d3d648b69489]: Commencement: [Sch. 11 para. 123](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/123) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-1003dc5eca4296b7e007d3d648b69489]: Commencement: [Sch. 11 para. 123](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/123) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-d22786fad8858da08e5164812286f4c0]: Commencement: Sch. 11 para. 124 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-d22786fad8858da08e5164812286f4c0]: Commencement: Sch. 11 para. 124 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-3e020e455734e01a90034c0cc73a8acc]: Commencement: [Sch. 11 para. 124](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/124) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-3e020e455734e01a90034c0cc73a8acc]: Commencement: [Sch. 11 para. 124](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/124) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-4a62e53b9680d6fe8d5fa3f5a7817a4e]: Commencement: Sch. 11 para. 125 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-4a62e53b9680d6fe8d5fa3f5a7817a4e]: Commencement: Sch. 11 para. 125 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-f406d3cdf0f11939505d77826d5175e9]: Commencement: [Sch. 11 para. 125](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/125) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-f406d3cdf0f11939505d77826d5175e9]: Commencement: [Sch. 11 para. 125](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/125) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-bfcd6fa4b14adb919a7392fc1cdaf353]: Commencement: Sch. 11 para. 126 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-bfcd6fa4b14adb919a7392fc1cdaf353]: Commencement: Sch. 11 para. 126 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-7474232c3dc47dc5bfac4264ac1e2171]: Commencement: [Sch. 11 para. 126](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/126) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-7474232c3dc47dc5bfac4264ac1e2171]: Commencement: [Sch. 11 para. 126](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/126) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-e249e9c45f7e0bbb5efd3e4f8924230c]: Commencement: Sch. 11 para. 127 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-e249e9c45f7e0bbb5efd3e4f8924230c]: Commencement: Sch. 11 para. 127 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-44dfcbf5cc451032a948452378c25b61]: Commencement: [Sch. 11 para. 127](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/127) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-44dfcbf5cc451032a948452378c25b61]: Commencement: [Sch. 11 para. 127](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/127) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-1fe88c880fc71dafd7dd6baaca76c530]: Commencement: Sch. 11 para. 128 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-1fe88c880fc71dafd7dd6baaca76c530]: Commencement: Sch. 11 para. 128 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-38c7eb221214e1cfd5cb2298296cf823]: Commencement: [Sch. 11 para. 128](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/128) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-38c7eb221214e1cfd5cb2298296cf823]: Commencement: [Sch. 11 para. 128](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/128) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-f6afa88fae97c149090772ad33c0007c]: Commencement: Sch. 11 para. 129 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-f6afa88fae97c149090772ad33c0007c]: Commencement: Sch. 11 para. 129 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-3e490e0591998f32f55c647fe6ff24ba]: Commencement: [Sch. 11 para. 129](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/129) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-3e490e0591998f32f55c647fe6ff24ba]: Commencement: [Sch. 11 para. 129](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/129) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-3523b63941f12b764ecb8a4ba51034b1]: Commencement: Sch. 11 para. 130 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-3523b63941f12b764ecb8a4ba51034b1]: Commencement: Sch. 11 para. 130 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-638ec8707cb220e739fce32e371201b4]: Commencement: [Sch. 11 para. 130](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/130) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-638ec8707cb220e739fce32e371201b4]: Commencement: [Sch. 11 para. 130](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/130) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-f77016cc019abce03947519731cc8a25]: Commencement: Sch. 11 para. 131 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-f77016cc019abce03947519731cc8a25]: Commencement: Sch. 11 para. 131 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-fb9bc859c053baa544f08d883ae10b9b]: Commencement: [Sch. 11 para. 131](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/131) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-fb9bc859c053baa544f08d883ae10b9b]: Commencement: [Sch. 11 para. 131](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/131) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-4be7ccb883c3641f251c7f0fcb26fa6f]: Commencement: Sch. 11 para. 132 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-4be7ccb883c3641f251c7f0fcb26fa6f]: Commencement: Sch. 11 para. 132 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-c755a5393cf8bf55c7dd4bb8b1989e76]: Commencement: [Sch. 11 para. 132](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/132) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-c755a5393cf8bf55c7dd4bb8b1989e76]: Commencement: [Sch. 11 para. 132](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/132) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-98f2d444c813720c2dd886363f9036e2]: Commencement: Sch. 11 para. 133 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-98f2d444c813720c2dd886363f9036e2]: Commencement: Sch. 11 para. 133 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-80342d6f4337a173168413a25381c161]: Commencement: [Sch. 11 para. 133](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/133) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-80342d6f4337a173168413a25381c161]: Commencement: [Sch. 11 para. 133](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/133) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-6fce5789ef21cb8259464bc97df9602a]: Commencement: Sch. 11 para. 134 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-6fce5789ef21cb8259464bc97df9602a]: Commencement: Sch. 11 para. 134 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d25146d9e2353bbe2ed2f94eb3daa3f9]: Commencement: [Sch. 11 para. 134](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/134) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-d25146d9e2353bbe2ed2f94eb3daa3f9]: Commencement: [Sch. 11 para. 134](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/134) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-9da47889497046981fb621a390963181]: Commencement: Sch. 11 para. 135 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-9da47889497046981fb621a390963181]: Commencement: Sch. 11 para. 135 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-65bb8a3a74e131e29027315b3a56e293]: Commencement: [Sch. 11 para. 135](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/135) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-65bb8a3a74e131e29027315b3a56e293]: Commencement: [Sch. 11 para. 135](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/135) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-eb855ab4c72ee9861b93a06f410e95be]: Commencement: Sch. 11 para. 136 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-eb855ab4c72ee9861b93a06f410e95be]: Commencement: Sch. 11 para. 136 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-0e40c33ee4a30b481e75e7ebb80ba1ad]: Commencement: [Sch. 11 para. 136](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/136) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-0e40c33ee4a30b481e75e7ebb80ba1ad]: Commencement: [Sch. 11 para. 136](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/136) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-14c17434114992bb6d47360f11a5efb3]: Commencement: Sch. 11 para. 137 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-14c17434114992bb6d47360f11a5efb3]: Commencement: Sch. 11 para. 137 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-cd5aa3b97457a1d001ab8cb4d04a62f8]: Commencement: [Sch. 11 para. 137](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/137) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-cd5aa3b97457a1d001ab8cb4d04a62f8]: Commencement: [Sch. 11 para. 137](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/137) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-f665d310346aa2907be8e8b36031ccb9]: Commencement: Sch. 11 para. 138 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-f665d310346aa2907be8e8b36031ccb9]: Commencement: Sch. 11 para. 138 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-7406724c21b1f8051708d3f86a6e3c26]: Commencement: [Sch. 11 para. 138](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/138) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-7406724c21b1f8051708d3f86a6e3c26]: Commencement: [Sch. 11 para. 138](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/138) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-919f862b232effcf54e9bad4eaadb54b]: Commencement: Sch. 11 para. 139 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-919f862b232effcf54e9bad4eaadb54b]: Commencement: Sch. 11 para. 139 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-7d06dccb3a03ec4a5a506b77766c2f77]: Commencement: [Sch. 11 para. 139](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/139) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-7d06dccb3a03ec4a5a506b77766c2f77]: Commencement: [Sch. 11 para. 139](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/139) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-05882a7d1d39a62403fe4221480aa462]: Commencement: Sch. 11 para. 140 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-05882a7d1d39a62403fe4221480aa462]: Commencement: Sch. 11 para. 140 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-900d08bbcf910667dc1131c3943374fe]: Commencement: [Sch. 11 para. 140](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/140) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-900d08bbcf910667dc1131c3943374fe]: Commencement: [Sch. 11 para. 140](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/140) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-10c19cef8de68e3fe24c1ea533e98fdd]: Commencement: Sch. 11 para. 141 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-10c19cef8de68e3fe24c1ea533e98fdd]: Commencement: Sch. 11 para. 141 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-56e05b6c481c930022927abc4e26929f]: Commencement: [Sch. 11 para. 141](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/141) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-56e05b6c481c930022927abc4e26929f]: Commencement: [Sch. 11 para. 141](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/141) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-5bc99609986dfdf26441954d5a290700]: Commencement: Sch. 11 para. 142 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-5bc99609986dfdf26441954d5a290700]: Commencement: Sch. 11 para. 142 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-079aad7da87dcce760ceffd19f1cd1be]: Commencement: [Sch. 11 para. 142](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/142) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-079aad7da87dcce760ceffd19f1cd1be]: Commencement: [Sch. 11 para. 142](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/142) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-2d0d4006812bd1116ce59190279e0baa]: Commencement: Sch. 11 para. 143 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-2d0d4006812bd1116ce59190279e0baa]: Commencement: Sch. 11 para. 143 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-ba481e12d238b50a80d1b40a764aa804]: Commencement: [Sch. 11 para. 143](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/143) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-ba481e12d238b50a80d1b40a764aa804]: Commencement: [Sch. 11 para. 143](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/143) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-bb3a508689f4095c12b61f6ea73be575]: Commencement: Sch. 11 para. 144 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-bb3a508689f4095c12b61f6ea73be575]: Commencement: Sch. 11 para. 144 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-7240944503028cef38b4206d75f800b6]: Commencement: [Sch. 11 para. 144](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/144) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-7240944503028cef38b4206d75f800b6]: Commencement: [Sch. 11 para. 144](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/144) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-16dae33e198f5b73568b93d1df0081ee]: Commencement: Sch. 11 para. 145 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-16dae33e198f5b73568b93d1df0081ee]: Commencement: Sch. 11 para. 145 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-e7289bb7165a2976a6e5e4e00aefb9c4]: Commencement: [Sch. 11 para. 145](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/145) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-e7289bb7165a2976a6e5e4e00aefb9c4]: Commencement: [Sch. 11 para. 145](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/145) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-3f6f8a9761234e8c4b77a1753007c361]: Commencement: Sch. 11 para. 146 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-3f6f8a9761234e8c4b77a1753007c361]: Commencement: Sch. 11 para. 146 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-6004ef98a5d8a5d7f41a5f5a7e2bab6b]: Commencement: [Sch. 11 para. 146](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/146) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-6004ef98a5d8a5d7f41a5f5a7e2bab6b]: Commencement: [Sch. 11 para. 146](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/146) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-b382f6d2bcf5f77381e58561739c54c3]: Commencement: Sch. 11 para. 147 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-b382f6d2bcf5f77381e58561739c54c3]: Commencement: Sch. 11 para. 147 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-ff9116d418590f65bbf4264cf95b0bff]: Commencement: [Sch. 11 para. 147](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/147) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-ff9116d418590f65bbf4264cf95b0bff]: Commencement: [Sch. 11 para. 147](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/147) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-775ad7e29c577aa3f4d25c83726587b1]: Commencement: Sch. 11 para. 148 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-775ad7e29c577aa3f4d25c83726587b1]: Commencement: Sch. 11 para. 148 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-e00d4c5716f3c94d4791db70045e76a6]: Commencement: [Sch. 11 para. 148](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/148) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-e00d4c5716f3c94d4791db70045e76a6]: Commencement: [Sch. 11 para. 148](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/148) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-c6938e7931d0c5fbb1ea69b5a07ab8ab]: Commencement: Sch. 11 para. 149 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c6938e7931d0c5fbb1ea69b5a07ab8ab]: Commencement: Sch. 11 para. 149 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-52dbfb80b4df17257b3db29de60fc1da]: Commencement: [Sch. 11 para. 149](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/149) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-52dbfb80b4df17257b3db29de60fc1da]: Commencement: [Sch. 11 para. 149](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/149) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-569d175f49f7adc4654e41b1c453ab95]: Commencement: Sch. 11 para. 150 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-569d175f49f7adc4654e41b1c453ab95]: Commencement: Sch. 11 para. 150 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-db01d992700da046149982cb7660cb21]: Commencement: [Sch. 11 para. 150](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/150) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-db01d992700da046149982cb7660cb21]: Commencement: [Sch. 11 para. 150](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/150) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-39dbd2d21f593ed8708258bcda391f09]: Commencement: Sch. 11 para. 151 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-39dbd2d21f593ed8708258bcda391f09]: Commencement: Sch. 11 para. 151 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-cb111bd0ff644f060506b50fd953dc55]: Commencement: [Sch. 11 para. 151](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/151) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-cb111bd0ff644f060506b50fd953dc55]: Commencement: [Sch. 11 para. 151](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/151) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-a4099cdf425446b1a0e4cb70d0e07aa5]: Modification: [Sch. 11 para. 151](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/151) applied (31.12.2023) by [The Financial Services and Markets Act 2023 (Resolution of Central Counterparties: Deferment of Provisions in Resolution Instruments) Regulations 2023 (S.I. 2023/1190)](https://www.legislation.gov.uk/uksi/2023/1190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1190/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1190/regulation/9)
+[^c-a4099cdf425446b1a0e4cb70d0e07aa5]: Modification: [Sch. 11 para. 151](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/151) applied (31.12.2023) by [The Financial Services and Markets Act 2023 (Resolution of Central Counterparties: Deferment of Provisions in Resolution Instruments) Regulations 2023 (S.I. 2023/1190)](https://www.legislation.gov.uk/uksi/2023/1190), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1190/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1190/regulation/9)
 
-[^key-493af3167689d7c22c045c98b4ec1749]: Commencement: Sch. 11 para. 152 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-493af3167689d7c22c045c98b4ec1749]: Commencement: Sch. 11 para. 152 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-c0cd14f71efaffb62fbdb7db02b6f5fd]: Commencement: [Sch. 11 para. 152](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/152) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-c0cd14f71efaffb62fbdb7db02b6f5fd]: Commencement: [Sch. 11 para. 152](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/152) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-653b7c96c40e8b52f84526aa42c28408]: Commencement: Sch. 11 para. 153 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-653b7c96c40e8b52f84526aa42c28408]: Commencement: Sch. 11 para. 153 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-23d60e2d145360540e26e061b1b0d4c7]: Commencement: [Sch. 11 para. 153](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/153) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-23d60e2d145360540e26e061b1b0d4c7]: Commencement: [Sch. 11 para. 153](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/153) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-e2ba92b3ddb4b29682b674b689e324d3]: Commencement: Sch. 11 para. 154 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-e2ba92b3ddb4b29682b674b689e324d3]: Commencement: Sch. 11 para. 154 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-6f109cd606b7adb8706123d754dfd156]: Commencement: [Sch. 11 para. 154](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/154) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiii)
+[^c-6f109cd606b7adb8706123d754dfd156]: Commencement: [Sch. 11 para. 154](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/154) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiii)
 
-[^key-5accf483b98ac92e18f634dea91273e6]: Commencement: Sch. 11 para. 155 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-5accf483b98ac92e18f634dea91273e6]: Commencement: Sch. 11 para. 155 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-4b332d02c4a6f0d676c2dbd5a2614a21]: Commencement: [Sch. 11 para. 155](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/155) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-4b332d02c4a6f0d676c2dbd5a2614a21]: Commencement: [Sch. 11 para. 155](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/155) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-77159a4b3f7f49b8a3d911ba7a679eb7]: Commencement: Sch. 11 para. 156 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-77159a4b3f7f49b8a3d911ba7a679eb7]: Commencement: Sch. 11 para. 156 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-ef3bdaaa7f0b4c4b54f9ee900fb45c5e]: Commencement: [Sch. 11 para. 156](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/156) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-ef3bdaaa7f0b4c4b54f9ee900fb45c5e]: Commencement: [Sch. 11 para. 156](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/156) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-777d0d28b5631bfa83dcfeda290666e3]: Commencement: Sch. 11 para. 157 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-777d0d28b5631bfa83dcfeda290666e3]: Commencement: Sch. 11 para. 157 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d098b3eeb17862f1c5db14701f46204e]: Commencement: [Sch. 11 para. 157](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/157) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-d098b3eeb17862f1c5db14701f46204e]: Commencement: [Sch. 11 para. 157](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/157) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-f69fceeff1f2df430eafab2bfad8869e]: Commencement: Sch. 11 para. 158 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-f69fceeff1f2df430eafab2bfad8869e]: Commencement: Sch. 11 para. 158 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-266562d48a41fc7c398b7aa67b1ee87e]: Commencement: [Sch. 11 para. 158](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/158) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-266562d48a41fc7c398b7aa67b1ee87e]: Commencement: [Sch. 11 para. 158](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/158) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-89dce27da59070f4cb75c0d6b3bf1f82]: Commencement: Sch. 11 para. 159 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-89dce27da59070f4cb75c0d6b3bf1f82]: Commencement: Sch. 11 para. 159 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-7026492ab302d36a99932b716552d947]: Commencement: [Sch. 11 para. 159](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/159) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-7026492ab302d36a99932b716552d947]: Commencement: [Sch. 11 para. 159](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/159) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-33bb877f75a6ef80d6ead94724bcb7f8]: Commencement: Sch. 11 para. 160 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-33bb877f75a6ef80d6ead94724bcb7f8]: Commencement: Sch. 11 para. 160 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-a961658ce0fcc6232698e943d45f44de]: Commencement: [Sch. 11 para. 160](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/160) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-a961658ce0fcc6232698e943d45f44de]: Commencement: [Sch. 11 para. 160](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/160) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-14157502013bdb902a766af90c0eae69]: Commencement: Sch. 11 para. 161 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-14157502013bdb902a766af90c0eae69]: Commencement: Sch. 11 para. 161 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-73b32b34b8e36fc920664040536b1cf7]: Commencement: [Sch. 11 para. 161](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/161) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-73b32b34b8e36fc920664040536b1cf7]: Commencement: [Sch. 11 para. 161](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/161) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-76ed9647c6f5070b59f7603c765ce7b6]: Commencement: Sch. 11 para. 162 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-76ed9647c6f5070b59f7603c765ce7b6]: Commencement: Sch. 11 para. 162 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-7dd045318b44a8039518d438f24bcf43]: Commencement: [Sch. 11 para. 162](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/162) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2023/1382/regulation/14))
+[^c-7dd045318b44a8039518d438f24bcf43]: Commencement: [Sch. 11 para. 162](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/162) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2023/1382/regulation/14))
 
-[^key-e261a12caae83dcef3317af2d3b54eea]: Commencement: Sch. 11 para. 163 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-e261a12caae83dcef3317af2d3b54eea]: Commencement: Sch. 11 para. 163 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-97774362463b4d77617dda8dc172a0f1]: Commencement: [Sch. 11 para. 163](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/163) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-97774362463b4d77617dda8dc172a0f1]: Commencement: [Sch. 11 para. 163](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/163) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-ee0a646234178c897f6f11ca3dc1c4c7]: Commencement: Sch. 11 para. 164 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ee0a646234178c897f6f11ca3dc1c4c7]: Commencement: Sch. 11 para. 164 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-3244ef4ea46d36a2090c14a9974079e6]: Commencement: [Sch. 11 para. 164](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/164) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-3244ef4ea46d36a2090c14a9974079e6]: Commencement: [Sch. 11 para. 164](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/164) in force at 31.12.2023 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-ccd6311f53bd337a7afeb0155bef36fb]: Commencement: Sch. 11 para. 165 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ccd6311f53bd337a7afeb0155bef36fb]: Commencement: Sch. 11 para. 165 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-5baa9252888138a03541d81d80052cc6]: Commencement: [Sch. 11 para. 165](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/165) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiv)
+[^c-5baa9252888138a03541d81d80052cc6]: Commencement: [Sch. 11 para. 165](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/165) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiv)

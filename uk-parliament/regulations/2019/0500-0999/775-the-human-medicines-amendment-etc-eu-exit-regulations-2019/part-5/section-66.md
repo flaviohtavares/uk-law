@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Amendment of regulation 60 (conditions of UK marketing authorisation: exceptional circumstances)[^M_I_d1857864-fa74-4bba-f9ff-aebdc40608ad][^key-10293bac94ddef373f27ff9a4e9e43c9]
+## 66. Amendment of regulation 60 (conditions of UK marketing authorisation: exceptional circumstances)[^M_I_d1857864-fa74-4bba-f9ff-aebdc40608ad][^c-10293bac94ddef373f27ff9a4e9e43c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In regulation 60—
 
 [^M_I_d1857864-fa74-4bba-f9ff-aebdc40608ad]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-10293bac94ddef373f27ff9a4e9e43c9]: Textual amendment: Reg. 66 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/49)
+[^c-10293bac94ddef373f27ff9a4e9e43c9]: Textual amendment: Reg. 66 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/49)

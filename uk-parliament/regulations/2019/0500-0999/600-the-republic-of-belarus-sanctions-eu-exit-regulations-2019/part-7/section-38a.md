@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38A. Designated persons: reporting obligations[^key-3de42af008da22a568bfbb249f764f38]
+## 38A. Designated persons: reporting obligations[^c-3de42af008da22a568bfbb249f764f38]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-3de42af008da22a568bfbb249f764f38]: Textual amendment: [Reg. 38A](https://www.legislation.gov.uk/uksi/2019/600/regulation/38A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(15)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/15)
+[^c-3de42af008da22a568bfbb249f764f38]: Textual amendment: [Reg. 38A](https://www.legislation.gov.uk/uksi/2019/600/regulation/38A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(15)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/15)

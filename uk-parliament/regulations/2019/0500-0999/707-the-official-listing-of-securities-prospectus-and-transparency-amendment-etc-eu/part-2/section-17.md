@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Public censure of issuer[^key-206b5b527adf2d4060818a994350dc60]
+## 17. Public censure of issuer[^c-206b5b527adf2d4060818a994350dc60]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-206b5b527adf2d4060818a994350dc60]: Textual amendment: Reg. 17 omitted (6.9.2019) by virtue of [The Prospectus (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1234)](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/2), [16(g)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/16/g) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2)))
+[^c-206b5b527adf2d4060818a994350dc60]: Textual amendment: Reg. 17 omitted (6.9.2019) by virtue of [The Prospectus (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1234)](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/2), [16(g)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/16/g) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2)))

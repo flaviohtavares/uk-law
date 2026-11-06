@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Amendment of the Health Professions Council (Investigating Committee) Procedure Rules Order of Council 2003[^key-dcd8aa7c0854103f20c8708f9a279c25]
+## 6. Amendment of the Health Professions Council (Investigating Committee) Procedure Rules Order of Council 2003[^c-dcd8aa7c0854103f20c8708f9a279c25]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dcd8aa7c0854103f20c8708f9a279c25]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/1479/article/6) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
+[^c-dcd8aa7c0854103f20c8708f9a279c25]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/1479/article/6) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
 
 [^f00007]: Footnote: [S.I. 2003/1574](https://www.legislation.gov.uk/uksi/2003/1574); relevant amending instruments are [S.I. 2005/1625](https://www.legislation.gov.uk/uksi/2005/1625) and [2009/1355](https://www.legislation.gov.uk/uksi/2009/1355).

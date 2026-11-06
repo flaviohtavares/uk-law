@@ -31,7 +31,7 @@ summary: ''
 
 SEA FISHERIES, WALES
 
-The European Fisheries Fund (Grants) (Wales) Regulations 2009 (revoked)[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+The European Fisheries Fund (Grants) (Wales) Regulations 2009 (revoked)[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 Made
 
@@ -45,84 +45,84 @@ Coming into force
 
 18 March 2009
 
-[^key-e96ccac2ffe4c32901adaf5f0deeeef1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e96ccac2ffe4c32901adaf5f0deeeef1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 1. Title, application and commencement[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 2. Interpretation[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Financial assistance[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 3. Financial assistance[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Applications[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 4. Applications[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Determination of applications[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 5. Determination of applications[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Eligibility and claims for payment of financial assistance[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 6. Eligibility and claims for payment of financial assistance[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Method of payment of financial assistance[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 7. Method of payment of financial assistance[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Undertakings[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 8. Undertakings[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Information[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 9. Information[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Records[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 10. Records[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Assistance to authorised officers[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 11. Assistance to authorised officers[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Powers of authorised officers[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 12. Powers of authorised officers[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Reduction, withholding and recovery of financial assistance[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 13. Reduction, withholding and recovery of financial assistance[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Interest[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 14. Interest[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Sums payable to the Welsh Ministers to be recovered as a debt[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 15. Sums payable to the Welsh Ministers to be recovered as a debt[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Offences and penalties[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 16. Offences and penalties[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Offences by bodies corporate[^key-e96ccac2ffe4c32901adaf5f0deeeef1]
+## 17. Offences by bodies corporate[^c-e96ccac2ffe4c32901adaf5f0deeeef1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e96ccac2ffe4c32901adaf5f0deeeef1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e96ccac2ffe4c32901adaf5f0deeeef1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e96ccac2ffe4c32901adaf5f0deeeef1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e96ccac2ffe4c32901adaf5f0deeeef1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e96ccac2ffe4c32901adaf5f0deeeef1]: Textual amendment: Regulations revoked (20.7.2016) by [The European Maritime and Fisheries Fund (Grants) (Wales) Regulations 2016 (S.I. 2016/665)](https://www.legislation.gov.uk/wsi/2016/665), regs. 1(2), [17(1)](https://www.legislation.gov.uk/wsi/2016/665/regulation/17/1) (with [reg. 17(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/17/2))
+[^c-e96ccac2ffe4c32901adaf5f0deeeef1]: Textual amendment: Regulations revoked (20.7.2016) by [The European Maritime and Fisheries Fund (Grants) (Wales) Regulations 2016 (S.I. 2016/665)](https://www.legislation.gov.uk/wsi/2016/665), regs. 1(2), [17(1)](https://www.legislation.gov.uk/wsi/2016/665/regulation/17/1) (with [reg. 17(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/17/2))

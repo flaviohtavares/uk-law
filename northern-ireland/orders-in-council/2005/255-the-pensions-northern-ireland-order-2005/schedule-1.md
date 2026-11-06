@@ -86,12 +86,12 @@ to exercise, on behalf of the Regulator, such of its functions, in such circumst
 - (b) the power to issue a third party notice under Article 10;
 - (c) the power to recover unpaid contributions under Article 13;
 - (d) the power to require information under Article 67;
-- (da)[^key-06b5d28899530d6e4c5cbaea4924597e] the power to issue a notice under Article 67A;
+- (da)[^c-06b5d28899530d6e4c5cbaea4924597e] the power to issue a notice under Article 67A;
 - (db) the power to issue a fixed penalty notice under Article 72A;
 - (dc) the power to issue an escalating penalty notice under Article 72B;
 - (dd) the power to require payment of a penalty under Article 83A;
 - (e) the power to vary or revoke a determination, order, notice or direction under Article 96;
-- (ea)[^key-b01e06a49c96a479c125cdc951d4bb51] the power to issue a compliance notice under regulations under Article 215G;
+- (ea)[^c-b01e06a49c96a479c125cdc951d4bb51] the power to issue a compliance notice under regulations under Article 215G;
 - (eb) the power to issue a third party compliance notice under regulations under Article 215G;
 - (ec) the power to issue a penalty notice under regulations under Article 215G;
 - (f) the power to require payment of a penalty under Article 10 of the 1995 Order;
@@ -104,7 +104,7 @@ to exercise, on behalf of the Regulator, such of its functions, in such circumst
 - (m) the power to review a notice under section 43 of that Act;
 - (n) the power to issue a compliance notice in respect of prohibited recruitment conduct under section 51 of that Act;
 - (o) the power to issue a penalty notice in respect of prohibited recruitment conduct under section 52 of that Act.
-- (p)[^key-83430f9662325009a67ad08d3fd9766f] the power to issue a fixed penalty notice under section 17 of thePension Schemes Act (Northern Ireland) 2021;
+- (p)[^c-83430f9662325009a67ad08d3fd9766f] the power to issue a fixed penalty notice under section 17 of thePension Schemes Act (Northern Ireland) 2021;
 - (q) the power to issue an escalating penalty notice under section 18 of that Act.
 
 ### PART 2 — FUNDING AND ACCOUNTS
@@ -133,8 +133,8 @@ to exercise, on behalf of the Regulator, such of its functions, in such circumst
 
 [^c21188641]: Textual amendment: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/nisi/2005/255/schedule/1/paragraph/2/2) inserted (15.12.2008) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 108(3)](https://www.legislation.gov.uk/nia/2008/13/section/108/3), [118(1)(2)(d)](https://www.legislation.gov.uk/nia/2008/13/section/118/1/2/d) (with [s. 108(4)](https://www.legislation.gov.uk/nia/2008/13/section/108/4))
 
-[^key-06b5d28899530d6e4c5cbaea4924597e]: Textual amendment: [Sch. 1 para. 2(2)(da)-(dd)](https://www.legislation.gov.uk/nisi/2005/255/schedule/1/paragraph/2/2/da) inserted (28.7.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 27](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/27); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/197/article/2/b)
+[^c-06b5d28899530d6e4c5cbaea4924597e]: Textual amendment: [Sch. 1 para. 2(2)(da)-(dd)](https://www.legislation.gov.uk/nisi/2005/255/schedule/1/paragraph/2/2/da) inserted (28.7.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 27](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/27); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/197/article/2/b)
 
-[^key-b01e06a49c96a479c125cdc951d4bb51]: Textual amendment: [Sch. 1 para. 2(2)(ea)-(ec)](https://www.legislation.gov.uk/nisi/2005/255/schedule/1/paragraph/2/2/ea) inserted (11.2.2021 for specified purposes, 31.10.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/c)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/6); [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
+[^c-b01e06a49c96a479c125cdc951d4bb51]: Textual amendment: [Sch. 1 para. 2(2)(ea)-(ec)](https://www.legislation.gov.uk/nisi/2005/255/schedule/1/paragraph/2/2/ea) inserted (11.2.2021 for specified purposes, 31.10.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/c)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/6); [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
 
-[^key-83430f9662325009a67ad08d3fd9766f]: Textual amendment: [Sch. 1 para. 2(2)(p)](https://www.legislation.gov.uk/nisi/2005/255/schedule/1/paragraph/2/2/p)[(q)](https://www.legislation.gov.uk/nisi/2005/255/schedule/1/paragraph/2/2/q) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 18](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/18); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-83430f9662325009a67ad08d3fd9766f]: Textual amendment: [Sch. 1 para. 2(2)(p)](https://www.legislation.gov.uk/nisi/2005/255/schedule/1/paragraph/2/2/p)[(q)](https://www.legislation.gov.uk/nisi/2005/255/schedule/1/paragraph/2/2/q) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 18](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/18); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)

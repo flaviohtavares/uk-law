@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Application of the 1991 Act[^key-57db7f0a4f4d4d84a2b5317e371be44e]
+## 10. Application of the 1991 Act[^c-57db7f0a4f4d4d84a2b5317e371be44e]
 
 *Extent: E+W+S*
 
 (1) Works constructed or maintained under this Order in relation to a highway which consists of or includes a carriageway are to be treated for the purposes of Part 3 (street works in England and Wales) of the 1991 Act as major highway works if—
 
 - (a) they are of a description mentioned in any of paragraphs (a), (c) to (e), (g) and (h) of section 86(3) (highway authorities, highways and related matters) of that Act; or
-- (b) they are works which, had they been executed by the highway authority, might have been carried out in exercise of the powers conferred by sections 64[^f00031] (dual carriageways and roundabouts) and[^key-52a409a049e02982a9283dc261813d6d] 184[^f00032] (vehicle crossings over footways and verges) of the 1980 Act.
+- (b) they are works which, had they been executed by the highway authority, might have been carried out in exercise of the powers conferred by sections 64[^f00031] (dual carriageways and roundabouts) and[^c-52a409a049e02982a9283dc261813d6d] 184[^f00032] (vehicle crossings over footways and verges) of the 1980 Act.
 
 (2) In Part 3 of the 1991 Act references to the highway authority concerned in relation to works which are major highway works by virtue of paragraph (1), are to be construed as references to the undertaker.
 
@@ -66,11 +66,11 @@ and all such other provisions as apply for the purposes of the provisions mentio
 
 ## Annotations
 
-[^key-57db7f0a4f4d4d84a2b5317e371be44e]: Commencement: Art. 10 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-57db7f0a4f4d4d84a2b5317e371be44e]: Commencement: Art. 10 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
 [^f00031]: Footnote: Section 64 was amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and section 168(2) of, and Schedule 9 to, the New Roads and Street Works Act 1991.
 
-[^key-52a409a049e02982a9283dc261813d6d]: Textual amendment: Word in [art. 10(1)(b)](https://www.legislation.gov.uk/uksi/2026/537/article/10/1/b) inserted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-52a409a049e02982a9283dc261813d6d]: Textual amendment: Word in [art. 10(1)(b)](https://www.legislation.gov.uk/uksi/2026/537/article/10/1/b) inserted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
 
 [^f00032]: Footnote: Section 184 was amended by sections 35, 37, 38 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48); section 4 of, and paragraph 45(11) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11); and section 168 of, and paragraph 9 of Schedule 8 and Schedule 9 to, the New Roads and Street Works Act 1991.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Calculation of voting rights (creditors)[^key-b9954027c90d3a142f89ce30b24645a0]
+## 53. Calculation of voting rights (creditors)[^c-b9954027c90d3a142f89ce30b24645a0]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9954027c90d3a142f89ce30b24645a0]: Commencement: Rule 53 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-b9954027c90d3a142f89ce30b24645a0]: Commencement: Rule 53 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

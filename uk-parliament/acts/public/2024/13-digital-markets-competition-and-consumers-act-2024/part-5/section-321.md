@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 321. The appropriateness of providing investigative assistance[^key-82f505d2edb2f407f7ff59a0888e3da4][^key-035400a383d8b7ce5b4cd0e4840ed670]
+## 321. The appropriateness of providing investigative assistance[^c-82f505d2edb2f407f7ff59a0888e3da4][^c-035400a383d8b7ce5b4cd0e4840ed670]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-82f505d2edb2f407f7ff59a0888e3da4]: Commencement: S. 321 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-82f505d2edb2f407f7ff59a0888e3da4]: Commencement: S. 321 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-035400a383d8b7ce5b4cd0e4840ed670]: Commencement: [S. 321](https://www.legislation.gov.uk/ukpga/2024/13/section/321) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/4)
+[^c-035400a383d8b7ce5b4cd0e4840ed670]: Commencement: [S. 321](https://www.legislation.gov.uk/ukpga/2024/13/section/321) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/4)

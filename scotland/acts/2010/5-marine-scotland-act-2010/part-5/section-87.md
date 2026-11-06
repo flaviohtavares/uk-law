@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Procedure for marine conservation orders[^key-fb04d5dc4e1b321c8f82c181596165b0]
+## 87. Procedure for marine conservation orders[^c-fb04d5dc4e1b321c8f82c181596165b0]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb04d5dc4e1b321c8f82c181596165b0]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2010/5/section/87) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-fb04d5dc4e1b321c8f82c181596165b0]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2010/5/section/87) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

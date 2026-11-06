@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Disclosure of information for research purposes[^key-c240d9f12a3fffbf5d1a23765d7c9b38][^key-6fb73f9891596eedf6795aa7c3abbef9]
+## 64. Disclosure of information for research purposes[^c-c240d9f12a3fffbf5d1a23765d7c9b38][^c-6fb73f9891596eedf6795aa7c3abbef9]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c240d9f12a3fffbf5d1a23765d7c9b38]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2017/30/section/64) in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
+[^c-c240d9f12a3fffbf5d1a23765d7c9b38]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2017/30/section/64) in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
 
-[^key-6fb73f9891596eedf6795aa7c3abbef9]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2017/30/section/64) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/aa)
+[^c-6fb73f9891596eedf6795aa7c3abbef9]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2017/30/section/64) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(aa)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/aa)

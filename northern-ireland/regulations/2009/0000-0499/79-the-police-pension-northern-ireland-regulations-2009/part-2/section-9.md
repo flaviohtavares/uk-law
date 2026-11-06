@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Previous service reckonable without payment[^key-1ca83238f301b44a30ffa3010babae46]
+## 9. Previous service reckonable without payment[^c-1ca83238f301b44a30ffa3010babae46]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ca83238f301b44a30ffa3010babae46]: Commencement: Reg. 9 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-1ca83238f301b44a30ffa3010babae46]: Commencement: Reg. 9 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Authorisation of post-mortem examination etc. as respects child 12 years of age or over by nominee or person with parental rights and parental responsibilities[^key-f45d730a848b434759efd5dd1e6ea839]
+## 32. Authorisation of post-mortem examination etc. as respects child 12 years of age or over by nominee or person with parental rights and parental responsibilities[^c-f45d730a848b434759efd5dd1e6ea839]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ must state that the person giving the authorisation has no actual knowledge that
 
 ## Annotations
 
-[^key-f45d730a848b434759efd5dd1e6ea839]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2006/4/section/32) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-f45d730a848b434759efd5dd1e6ea839]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2006/4/section/32) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

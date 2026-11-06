@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Abolition etc.[^key-3a77e8723d90bf89b87c7ec948d4cb6a]
+## 133. Abolition etc.[^c-3a77e8723d90bf89b87c7ec948d4cb6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a77e8723d90bf89b87c7ec948d4cb6a]: Textual amendment: [S. 133](https://www.legislation.gov.uk/ukpga/1998/38/section/133) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 51(2)(d)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/51/2/d)
+[^c-3a77e8723d90bf89b87c7ec948d4cb6a]: Textual amendment: [S. 133](https://www.legislation.gov.uk/ukpga/1998/38/section/133) omitted (E.W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 51(2)(d)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/51/2/d)

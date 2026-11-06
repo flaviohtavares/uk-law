@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Packages of salmon or trout to be marked[^key-1ffb6939d20f893bb7a47eef6d3330ab]
+## 21. Packages of salmon or trout to be marked[^c-1ffb6939d20f893bb7a47eef6d3330ab]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ shall be guilty of an offence, and liable on summary conviction to a fine not ex
 
 ## Annotations
 
-[^key-1ffb6939d20f893bb7a47eef6d3330ab]: Commencement: S. 21 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-1ffb6939d20f893bb7a47eef6d3330ab]: Commencement: S. 21 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

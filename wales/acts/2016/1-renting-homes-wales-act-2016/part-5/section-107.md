@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Variation of supplementary and additional terms[^key-7d054204cdd08e4090e3b6b352b8e045]
+## 107. Variation of supplementary and additional terms[^c-7d054204cdd08e4090e3b6b352b8e045]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d054204cdd08e4090e3b6b352b8e045]: Commencement: [S. 107](https://www.legislation.gov.uk/anaw/2016/1/section/107) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-7d054204cdd08e4090e3b6b352b8e045]: Commencement: [S. 107](https://www.legislation.gov.uk/anaw/2016/1/section/107) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Staying special purposes proceedings[^key-0e1a221ed43e81a753b0777427765028]
+## 176. Staying special purposes proceedings[^c-0e1a221ed43e81a753b0777427765028]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,11 +32,11 @@ the court must stay or, in Scotland, sist the proceedings.
 
 (3) Under subsection (1), the court must stay or sist the proceedings until either of the following conditions is met—
 
-- (a) a determination of the Commission[^key-fb8113f9891980187ac425972483d953] under section 174 with respect to the personal data or the processing takes effect;
+- (a) a determination of the Commission[^c-fb8113f9891980187ac425972483d953] under section 174 with respect to the personal data or the processing takes effect;
 - (b) where the proceedings were stayed or sisted on the making of a claim, the claim is withdrawn.
 
 ## Annotations
 
-[^key-0e1a221ed43e81a753b0777427765028]: Commencement: S. 176 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)
+[^c-0e1a221ed43e81a753b0777427765028]: Commencement: S. 176 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)
 
-[^key-fb8113f9891980187ac425972483d953]: Textual amendment: Word in s. 176(3)(a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-fb8113f9891980187ac425972483d953]: Textual amendment: Word in s. 176(3)(a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

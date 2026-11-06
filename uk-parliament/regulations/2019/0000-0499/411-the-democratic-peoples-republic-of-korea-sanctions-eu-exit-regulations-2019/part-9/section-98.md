@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Section 8B(1) to (3) of Immigration Act 1971: directions[^key-54c732e18d38025a975662a09dabb3fd][^key-ffa5ab524eec5ef8d49e259c2aafa810]
+## 98. Section 8B(1) to (3) of Immigration Act 1971: directions[^c-54c732e18d38025a975662a09dabb3fd][^c-ffa5ab524eec5ef8d49e259c2aafa810]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54c732e18d38025a975662a09dabb3fd]: Commencement: Reg. 98 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-54c732e18d38025a975662a09dabb3fd]: Commencement: Reg. 98 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-ffa5ab524eec5ef8d49e259c2aafa810]: Commencement: Reg. 98 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ffa5ab524eec5ef8d49e259c2aafa810]: Commencement: Reg. 98 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

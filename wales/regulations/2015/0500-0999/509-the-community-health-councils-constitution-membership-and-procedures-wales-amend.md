@@ -31,7 +31,7 @@ summary: ''
 
 National Health Service, Wales
 
-The Community Health Councils (Constitution, Membership and Procedures) (Wales) (Amendment) Regulations 2015 (revoked)[^key-921ab812598ed2b6a484d4699f3aca00]
+The Community Health Councils (Constitution, Membership and Procedures) (Wales) (Amendment) Regulations 2015 (revoked)[^c-921ab812598ed2b6a484d4699f3aca00]
 
 Made
 
@@ -45,132 +45,132 @@ Coming into force
 
 1 April 2015
 
-[^key-921ab812598ed2b6a484d4699f3aca00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-921ab812598ed2b6a484d4699f3aca00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-921ab812598ed2b6a484d4699f3aca00]
+## 1. Title, commencement and application[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-921ab812598ed2b6a484d4699f3aca00]
+## 2. Interpretation[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to regulation 2 of the principal Regulations[^key-921ab812598ed2b6a484d4699f3aca00]
+## 3. Amendments to regulation 2 of the principal Regulations[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Composition of Councils[^key-921ab812598ed2b6a484d4699f3aca00]
+## 4. Composition of Councils[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Term of appointment of co-opted members[^key-921ab812598ed2b6a484d4699f3aca00]
+## 5. Term of appointment of co-opted members[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Appointment of members by local authorities[^key-921ab812598ed2b6a484d4699f3aca00]
+## 6. Appointment of members by local authorities[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Procedures for appointment of members[^key-921ab812598ed2b6a484d4699f3aca00]
+## 7. Procedures for appointment of members[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Code of Conduct[^key-921ab812598ed2b6a484d4699f3aca00]
+## 8. Code of Conduct[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Eligibility of members for reappointment[^key-921ab812598ed2b6a484d4699f3aca00]
+## 9. Eligibility of members for reappointment[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Term of office – transitional arrangements for members already appointed to continued Councils[^key-921ab812598ed2b6a484d4699f3aca00]
+## 10. Term of office – transitional arrangements for members already appointed to continued Councils[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Termination of membership and suspension of members[^key-921ab812598ed2b6a484d4699f3aca00]
+## 11. Termination of membership and suspension of members[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Election of chair and vice-chair[^key-921ab812598ed2b6a484d4699f3aca00]
+## 12. Election of chair and vice-chair[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Application of regulations 17 to 19[^key-921ab812598ed2b6a484d4699f3aca00]
+## 13. Application of regulations 17 to 19[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Appointment of committees to be known as Local Committees[^key-921ab812598ed2b6a484d4699f3aca00]
+## 14. Appointment of committees to be known as Local Committees[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Appointment of other committees by a Council[^key-921ab812598ed2b6a484d4699f3aca00]
+## 15. Appointment of other committees by a Council[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Appointment of joint committees by a Council[^key-921ab812598ed2b6a484d4699f3aca00]
+## 16. Appointment of joint committees by a Council[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Officers[^key-921ab812598ed2b6a484d4699f3aca00]
+## 17. Officers[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Performance of Functions[^key-921ab812598ed2b6a484d4699f3aca00]
+## 18. Performance of Functions[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Consultation of Councils by relevant health service bodies[^key-921ab812598ed2b6a484d4699f3aca00]
+## 19. Consultation of Councils by relevant health service bodies[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Entry and inspection of premises[^key-921ab812598ed2b6a484d4699f3aca00]
+## 20. Entry and inspection of premises[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Independent complaints advocacy[^key-921ab812598ed2b6a484d4699f3aca00]
+## 21. Independent complaints advocacy[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Functions[^key-921ab812598ed2b6a484d4699f3aca00]
+## 22. Functions[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Composition of the CHC Board[^key-921ab812598ed2b6a484d4699f3aca00]
+## 23. Composition of the CHC Board[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Eligibility of Board Members for re-appointment to the CHC Board[^key-921ab812598ed2b6a484d4699f3aca00]
+## 24. Eligibility of Board Members for re-appointment to the CHC Board[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Support Staff[^key-921ab812598ed2b6a484d4699f3aca00]
+## 25. Support Staff[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26. Finance, Accounts and Indemnity[^key-921ab812598ed2b6a484d4699f3aca00]
+## 26. Finance, Accounts and Indemnity[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 27. Indemnity[^key-921ab812598ed2b6a484d4699f3aca00]
+## 27. Indemnity[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 28. Total number of members to be appointed to membership of a Council by the appointing bodies[^key-921ab812598ed2b6a484d4699f3aca00]
+## 28. Total number of members to be appointed to membership of a Council by the appointing bodies[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 29. Community Health Councils and Local Authority Areas or parts thereof for which appointments are made and Local Committees established[^key-921ab812598ed2b6a484d4699f3aca00]
+## 29. Community Health Councils and Local Authority Areas or parts thereof for which appointments are made and Local Committees established[^c-921ab812598ed2b6a484d4699f3aca00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-921ab812598ed2b6a484d4699f3aca00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-921ab812598ed2b6a484d4699f3aca00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-921ab812598ed2b6a484d4699f3aca00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-921ab812598ed2b6a484d4699f3aca00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-921ab812598ed2b6a484d4699f3aca00]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2015/509) revoked (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/wsi/2023/299/schedule)
+[^c-921ab812598ed2b6a484d4699f3aca00]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2015/509) revoked (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [Sch. para. 1](https://www.legislation.gov.uk/wsi/2023/299/schedule)

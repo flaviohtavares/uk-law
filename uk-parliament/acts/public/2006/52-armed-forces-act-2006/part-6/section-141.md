@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Right of appeal[^key-f2e11215bd6cd70312e8c00f8103c6c4][^key-973bf9baa244e6662770d9064230d464]
+## 141. Right of appeal[^c-f2e11215bd6cd70312e8c00f8103c6c4][^c-973bf9baa244e6662770d9064230d464]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ may appeal to the Summary Appeal Court against the finding or against the punish
 
 ## Annotations
 
-[^key-f2e11215bd6cd70312e8c00f8103c6c4]: Commencement: S. 141 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-f2e11215bd6cd70312e8c00f8103c6c4]: Commencement: S. 141 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-973bf9baa244e6662770d9064230d464]: Commencement: S. 141 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-973bf9baa244e6662770d9064230d464]: Commencement: S. 141 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

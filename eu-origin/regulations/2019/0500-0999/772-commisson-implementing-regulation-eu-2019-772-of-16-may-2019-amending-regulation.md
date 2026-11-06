@@ -35,18 +35,18 @@ amending Regulation (EU) No 1300/2014 as regards inventory of assets with a view
 
 (Text with EEA relevance) (revoked)
 
-[^key-970b8534912c1a0b3c2eab21d97d5e9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-970b8534912c1a0b3c2eab21d97d5e9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-970b8534912c1a0b3c2eab21d97d5e9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-970b8534912c1a0b3c2eab21d97d5e9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-970b8534912c1a0b3c2eab21d97d5e9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-970b8534912c1a0b3c2eab21d97d5e9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-970b8534912c1a0b3c2eab21d97d5e9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-970b8534912c1a0b3c2eab21d97d5e9d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-970b8534912c1a0b3c2eab21d97d5e9d]
+## ANNEX[^c-970b8534912c1a0b3c2eab21d97d5e9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-970b8534912c1a0b3c2eab21d97d5e9d]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
+[^c-970b8534912c1a0b3c2eab21d97d5e9d]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)

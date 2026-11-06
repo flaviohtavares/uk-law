@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50A. Registration as a grace period generating station[^key-cd70394af1712da8f0b02ea8f40707e4]
+## 50A. Registration as a grace period generating station[^c-cd70394af1712da8f0b02ea8f40707e4]
 
 *Extent: N.I.*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd70394af1712da8f0b02ea8f40707e4]: Textual amendment: [Art. 50A](https://www.legislation.gov.uk/nisr/2009/154/article/50A) inserted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [28](https://www.legislation.gov.uk/nisr/2013/116/article/28) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-cd70394af1712da8f0b02ea8f40707e4]: Textual amendment: [Art. 50A](https://www.legislation.gov.uk/nisr/2009/154/article/50A) inserted (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [28](https://www.legislation.gov.uk/nisr/2013/116/article/28) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))

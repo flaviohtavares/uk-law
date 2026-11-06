@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE — Amendments relating to new payment rates for student support under the Education (Student Support) Regulations 2011[^key-7d25a289faf08af0de6bbfdab7eb997c]
+## SCHEDULE — Amendments relating to new payment rates for student support under the Education (Student Support) Regulations 2011[^c-7d25a289faf08af0de6bbfdab7eb997c]
 
 *Extent: E+W*
 
 Regulation 53
 
-[^key-7d25a289faf08af0de6bbfdab7eb997c]In each provision of the Education (Student Support) Regulations 2011 listed in column 1 of the following table, for the figure listed in the corresponding entry in column 2[^f00101] substitute the figure listed in the corresponding entry in column 3—
+[^c-7d25a289faf08af0de6bbfdab7eb997c]In each provision of the Education (Student Support) Regulations 2011 listed in column 1 of the following table, for the figure listed in the corresponding entry in column 2[^f00101] substitute the figure listed in the corresponding entry in column 3—
 
 <table>
 <thead>
@@ -328,6 +328,6 @@ Regulation 53
 
 ## Annotations
 
-[^key-7d25a289faf08af0de6bbfdab7eb997c]: Commencement: Sch. in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-7d25a289faf08af0de6bbfdab7eb997c]: Commencement: Sch. in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00101]: Footnote: Figures substituted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).

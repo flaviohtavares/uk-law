@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Digital settlement assets: power to make regulations[^key-99163667a1e3a163a2f4159cb1badf31][^key-899572ca21a6ab280731499cb60210ac]
+## 23. Digital settlement assets: power to make regulations[^c-99163667a1e3a163a2f4159cb1badf31][^c-899572ca21a6ab280731499cb60210ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ summary: ''
 
 (13) In this section—
 
-- “**legislation**” means primary legislation, subordinate legislation and assimilated direct[^key-7af17d47c8cc0c66431db1539318e93e] legislation;
+- “**legislation**” means primary legislation, subordinate legislation and assimilated direct[^c-7af17d47c8cc0c66431db1539318e93e] legislation;
 - “**relevant regulator**” means—
   - (a) the FCA,
   - (b) the Bank of England, or
@@ -93,8 +93,8 @@ summary: ''
 
 ## Annotations
 
-[^key-99163667a1e3a163a2f4159cb1badf31]: Commencement: S. 23 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-99163667a1e3a163a2f4159cb1badf31]: Commencement: S. 23 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-899572ca21a6ab280731499cb60210ac]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2023/29/section/23) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/o)
+[^c-899572ca21a6ab280731499cb60210ac]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2023/29/section/23) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/o)
 
-[^key-7af17d47c8cc0c66431db1539318e93e]: Textual amendment: Words in [s. 23(13)](https://www.legislation.gov.uk/ukpga/2023/29/section/23/13) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(7)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/7)
+[^c-7af17d47c8cc0c66431db1539318e93e]: Textual amendment: Words in [s. 23(13)](https://www.legislation.gov.uk/ukpga/2023/29/section/23/13) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(7)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/7)

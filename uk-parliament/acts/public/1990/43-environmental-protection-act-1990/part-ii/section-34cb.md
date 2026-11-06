@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34CB. Further provision about regulations under section 34CA[^key-e9fb44406be9356e97de49139e5ae0c8]
+## 34CB. Further provision about regulations under section 34CA[^c-e9fb44406be9356e97de49139e5ae0c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 (6) The regulations may make different provision for different purposes.
 
-(7) The regulations may make consequential, supplementary, incidental, transitional or saving provision, including provision amending, repealing or revoking primary legislation or assimilated direct[^key-291859187b3ed3b98a8d389b46d619a9] legislation.
+(7) The regulations may make consequential, supplementary, incidental, transitional or saving provision, including provision amending, repealing or revoking primary legislation or assimilated direct[^c-291859187b3ed3b98a8d389b46d619a9] legislation.
 
 (8) In this section—
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e9fb44406be9356e97de49139e5ae0c8]: Textual amendment: [Ss. 34CA](https://www.legislation.gov.uk/ukpga/1990/43/section/34CA), [34CB](https://www.legislation.gov.uk/ukpga/1990/43/section/34CB) and cross-heading inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/58/2), [147(2)(g)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/g) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-e9fb44406be9356e97de49139e5ae0c8]: Textual amendment: [Ss. 34CA](https://www.legislation.gov.uk/ukpga/1990/43/section/34CA), [34CB](https://www.legislation.gov.uk/ukpga/1990/43/section/34CB) and cross-heading inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/58/2), [147(2)(g)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/g) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
 
-[^key-291859187b3ed3b98a8d389b46d619a9]: Textual amendment: Words in [s. 34CB(7)](https://www.legislation.gov.uk/ukpga/1990/43/section/34CB/7) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 29(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/29/3)
+[^c-291859187b3ed3b98a8d389b46d619a9]: Textual amendment: Words in [s. 34CB(7)](https://www.legislation.gov.uk/ukpga/1990/43/section/34CB/7) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 29(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/29/3)

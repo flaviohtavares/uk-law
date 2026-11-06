@@ -48,49 +48,49 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-19b345597c29bafee77cdf8770f039ed]
+### 1. Citation and commencement[^c-19b345597c29bafee77cdf8770f039ed]
 
 These Regulations may be cited as the Council Tax Reduction (Scotland) Amendment Regulations 2019 and come into force on 1 April 2019.
 
-## PART 2 — Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^key-071f7b3008ba21c4da8995897a3b09a1]
+## PART 2 — Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^c-071f7b3008ba21c4da8995897a3b09a1]
 
 **No longer in force.**
 
-### 2.[^key-071f7b3008ba21c4da8995897a3b09a1]
+### 2.[^c-071f7b3008ba21c4da8995897a3b09a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Non-recovery of council tax arrears caused by official error[^key-071f7b3008ba21c4da8995897a3b09a1]
+### 3. Non-recovery of council tax arrears caused by official error[^c-071f7b3008ba21c4da8995897a3b09a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Uprating[^key-071f7b3008ba21c4da8995897a3b09a1]
+### 4. Uprating[^c-071f7b3008ba21c4da8995897a3b09a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5.[^key-071f7b3008ba21c4da8995897a3b09a1]
+### 5.[^c-071f7b3008ba21c4da8995897a3b09a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6.[^key-071f7b3008ba21c4da8995897a3b09a1]
+### 6.[^c-071f7b3008ba21c4da8995897a3b09a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of schedule 4[^key-071f7b3008ba21c4da8995897a3b09a1]
+### 7. Amendment of schedule 4[^c-071f7b3008ba21c4da8995897a3b09a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendments of schedule 5[^key-071f7b3008ba21c4da8995897a3b09a1]
+### 8. Amendments of schedule 5[^c-071f7b3008ba21c4da8995897a3b09a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012
 
-### 9.[^key-39c9bd67af16c76afa2b261157ec79a4]
+### 9.[^c-39c9bd67af16c76afa2b261157ec79a4]
 
 The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012 [^c23555661] are amended in accordance with regulations 10 to 14.
 
-### 10. Non-recovery of council tax arrears caused by official error[^key-57bec776899b90723a656e068a25bf68]
+### 10. Non-recovery of council tax arrears caused by official error[^c-57bec776899b90723a656e068a25bf68]
 
 After regulation 19 insert—
 
@@ -112,7 +112,7 @@ After regulation 19 insert—
 
 .
 
-### 11. Uprating[^key-d8dc2bf0204d26f3182a2fa3364f486f]
+### 11. Uprating[^c-d8dc2bf0204d26f3182a2fa3364f486f]
 
 In regulation 48 (non-dependant deductions) [^c23555671]—
 
@@ -130,7 +130,7 @@ In regulation 48 (non-dependant deductions) [^c23555671]—
     - (bb) “£439.00” substitute “£451.00”, and
     - (cc) “£10.25” substitute “£10.50”.
 
-### 12.[^key-d4f2405fb071fc4a2bb6f41cde942b0b]
+### 12.[^c-d4f2405fb071fc4a2bb6f41cde942b0b]
 
 In schedule 1 (applicable amount) [^c23555681]—
 
@@ -150,7 +150,7 @@ In schedule 1 (applicable amount) [^c23555681]—
   - (iv) in entry (3) for “£62.86” substitute “ £64.19 ”, and
   - (v) in entry (4) for “£36.00” substitute “ £36.85 ”.
 
-### 13.[^key-1e41bf5e3af8f51a0ba0883ce0b1b2f1]
+### 13.[^c-1e41bf5e3af8f51a0ba0883ce0b1b2f1]
 
 In schedule 5 (amount of alternative maximum council tax reduction) in the table in paragraph 1—
 
@@ -159,7 +159,7 @@ In schedule 5 (amount of alternative maximum council tax reduction) in the table
   - (i) for “£200.00” substitute “ £205.00 ”, and
   - (ii) for “£261.00” substitute “ £268.00 ”.
 
-### 14. Amendments of schedule 4[^key-ab624dbdf283ef8475295a4bf646d2e3]
+### 14. Amendments of schedule 4[^c-ab624dbdf283ef8475295a4bf646d2e3]
 
 In schedule 4 (capital disregards)—
 
@@ -206,26 +206,26 @@ Regulation 14(a) makes an amendment to schedule 4 of the Pension Age Regulations
 
 [^c23555581]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 80 and paragraph 1 of schedule 2 were amended by paragraph 176 of schedule 13 of the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39). There are other amendments to section 80 and amendments to section 113(1) that are not relevant to these Regulations. The functions of the Secretary of State, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-19b345597c29bafee77cdf8770f039ed]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1)
+[^c-19b345597c29bafee77cdf8770f039ed]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1)
 
-[^key-071f7b3008ba21c4da8995897a3b09a1]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ssi/2019/29/part/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-071f7b3008ba21c4da8995897a3b09a1]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ssi/2019/29/part/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
-[^key-39c9bd67af16c76afa2b261157ec79a4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2019/29/regulation/9) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1)
+[^c-39c9bd67af16c76afa2b261157ec79a4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2019/29/regulation/9) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1)
 
 [^c23555661]: Marginal citation: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319), relevantly amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35), [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81), [S.S.I. 2017/41](https://www.legislation.gov.uk/ssi/2017/41) and [S.S.I. 2018/69](https://www.legislation.gov.uk/ssi/2018/69).
 
-[^key-57bec776899b90723a656e068a25bf68]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2019/29/regulation/10) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1)
+[^c-57bec776899b90723a656e068a25bf68]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2019/29/regulation/10) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1)
 
-[^key-d8dc2bf0204d26f3182a2fa3364f486f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2019/29/regulation/11) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1)
+[^c-d8dc2bf0204d26f3182a2fa3364f486f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2019/29/regulation/11) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1)
 
 [^c23555671]: Marginal citation: [Regulation 48](https://www.legislation.gov.uk/ssi/2019/29/regulation/48) was relevantly amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35), [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81), [S.S.I. 2017/41](https://www.legislation.gov.uk/ssi/2017/41) and [S.S.I. 2018/69](https://www.legislation.gov.uk/ssi/2018/69).
 
-[^key-d4f2405fb071fc4a2bb6f41cde942b0b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2019/29/regulation/12) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1)
+[^c-d4f2405fb071fc4a2bb6f41cde942b0b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2019/29/regulation/12) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1)
 
 [^c23555681]: Marginal citation: [Schedule 1](https://www.legislation.gov.uk/ssi/2019/29/schedule/1) was relevantly amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35), [S.S.I. 2015/46](https://www.legislation.gov.uk/ssi/2015/46), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81), [S.S.I. 2017/41](https://www.legislation.gov.uk/ssi/2017/41) and [S.S.I. 2018/69](https://www.legislation.gov.uk/ssi/2018/69).
 
-[^key-1e41bf5e3af8f51a0ba0883ce0b1b2f1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2019/29/regulation/13) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1)
+[^c-1e41bf5e3af8f51a0ba0883ce0b1b2f1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2019/29/regulation/13) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1)
 
-[^key-ab624dbdf283ef8475295a4bf646d2e3]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2019/29/regulation/14) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1)
+[^c-ab624dbdf283ef8475295a4bf646d2e3]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2019/29/regulation/14) in force at 1.4.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/29/regulation/1)
 
 [^c23555691]: Marginal citation: [Paragraph 30C](https://www.legislation.gov.uk/ssi/2019/29/paragraph/30C) was inserted by [S.S.I. 2018/69](https://www.legislation.gov.uk/ssi/2018/69).

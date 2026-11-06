@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Guidance to local highway authorities as to safety precautions[^key-25baeebcfcd88cbd90450a0bff465998][^key-3c7e5d37df8bb1b49f1ce8113331b89d]
+## 71. Guidance to local highway authorities as to safety precautions[^c-25baeebcfcd88cbd90450a0bff465998][^c-3c7e5d37df8bb1b49f1ce8113331b89d]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ In section 174 of the 1980 Act (precautions to be taken by persons executing wor
 
 ## Annotations
 
-[^key-25baeebcfcd88cbd90450a0bff465998]: Commencement: S. 71 in force at 26.11.2007 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
+[^c-25baeebcfcd88cbd90450a0bff465998]: Commencement: S. 71 in force at 26.11.2007 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
 
-[^key-3c7e5d37df8bb1b49f1ce8113331b89d]: Commencement: S. 71 in force at 1.10.2013 for E. by [S.I. 2013/2408](https://www.legislation.gov.uk/uksi/2013/2408), [art. 2](https://www.legislation.gov.uk/uksi/2013/2408/article/2)
+[^c-3c7e5d37df8bb1b49f1ce8113331b89d]: Commencement: S. 71 in force at 1.10.2013 for E. by [S.I. 2013/2408](https://www.legislation.gov.uk/uksi/2013/2408), [art. 2](https://www.legislation.gov.uk/uksi/2013/2408/article/2)

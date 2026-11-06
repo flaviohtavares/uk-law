@@ -22,7 +22,7 @@ summary: ''
 
 (1) This regulation applies if an employee gives Parts 2 and 3 of Form P45 to the employer after commencing employment.
 
-(2)[^key-9191bf5e11cf004f5c587a8356d1b5c6] If the employee gives Parts 2 and 3 of Form P45 to the employer before, as the case may be—
+(2)[^c-9191bf5e11cf004f5c587a8356d1b5c6] If the employee gives Parts 2 and 3 of Form P45 to the employer before, as the case may be—
 
 - (a) the employer is required to send Form P46 to HMRC under regulations 47 to 49, or
 - (b) the employer is required to send the first return in relation to the employee under regulation 67B (real time returns of information about relevant payments) or 67D (exceptions to regulation 67B) to HMRC,
@@ -31,7 +31,7 @@ regulation 42 (procedure if employer receives Form P45) applies.
 
 (3) If the employee gives Parts 2 and 3 of Form P45 to the employer—
 
-- (a)[^key-7f112b4b571258b4802b45edde7bf7de] after, as the case may be—
+- (a)[^c-7f112b4b571258b4802b45edde7bf7de] after, as the case may be—
   - (i) Form P46 is required to have been sent to HMRC, or
   - (ii) the employer is required to send the first return in relation to the employee under regulation 67B or 67D to HMRC,
 
@@ -60,6 +60,6 @@ this regulation and regulation 52 (late presentation of Form P45: employer’s d
 
 ## Annotations
 
-[^key-9191bf5e11cf004f5c587a8356d1b5c6]: Textual amendment: [Reg. 51(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/51/2) substituted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [18(a)](https://www.legislation.gov.uk/uksi/2012/822/regulation/18/a)
+[^c-9191bf5e11cf004f5c587a8356d1b5c6]: Textual amendment: [Reg. 51(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/51/2) substituted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [18(a)](https://www.legislation.gov.uk/uksi/2012/822/regulation/18/a)
 
-[^key-7f112b4b571258b4802b45edde7bf7de]: Textual amendment: [Reg. 51(3)(a)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/51/3/a) substituted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [18(b)](https://www.legislation.gov.uk/uksi/2012/822/regulation/18/b)
+[^c-7f112b4b571258b4802b45edde7bf7de]: Textual amendment: [Reg. 51(3)(a)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/51/3/a) substituted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [18(b)](https://www.legislation.gov.uk/uksi/2012/822/regulation/18/b)

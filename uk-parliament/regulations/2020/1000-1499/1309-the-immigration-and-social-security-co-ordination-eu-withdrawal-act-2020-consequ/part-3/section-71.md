@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Amendment of the Allocation of Housing and Homelessness (Eligibility) (England) Regulations 2006[^key-631ae4fed586f9a7c960b210b6efb164][^M_I_5f53d218-5226-4aaf-f939-ca16662471a8]
+## 71. Amendment of the Allocation of Housing and Homelessness (Eligibility) (England) Regulations 2006[^c-631ae4fed586f9a7c960b210b6efb164][^M_I_5f53d218-5226-4aaf-f939-ca16662471a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ summary: ''
 
 ## Annotations
 
-[^key-631ae4fed586f9a7c960b210b6efb164]: Commencement: Reg. 71 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-631ae4fed586f9a7c960b210b6efb164]: Commencement: Reg. 71 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_5f53d218-5226-4aaf-f939-ca16662471a8]: Commencement: Reg. 71 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

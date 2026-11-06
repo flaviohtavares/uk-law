@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Appeal against decision on proof[^key-3ac1d57303c7ea2bfe9d1ac7bd02fa2d]
+## 65. Appeal against decision on proof[^c-3ac1d57303c7ea2bfe9d1ac7bd02fa2d]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ac1d57303c7ea2bfe9d1ac7bd02fa2d]: Commencement: Rule 65 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-3ac1d57303c7ea2bfe9d1ac7bd02fa2d]: Commencement: Rule 65 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

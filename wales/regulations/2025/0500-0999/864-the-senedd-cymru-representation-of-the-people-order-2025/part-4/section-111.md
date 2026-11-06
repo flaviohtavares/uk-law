@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. Report as to candidate’s guilt of corrupt or illegal practice[^key-d9442d0bf8583243891913861c9e6921]
+## 111. Report as to candidate’s guilt of corrupt or illegal practice[^c-d9442d0bf8583243891913861c9e6921]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9442d0bf8583243891913861c9e6921]: Commencement: Art. 111 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-d9442d0bf8583243891913861c9e6921]: Commencement: Art. 111 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

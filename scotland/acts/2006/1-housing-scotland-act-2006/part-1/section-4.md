@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Variation of HRA designation order[^key-92b526e9e62087b58b1f22d673ebe8ed]
+## 4. Variation of HRA designation order[^c-92b526e9e62087b58b1f22d673ebe8ed]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ before deciding whether to vary an HRA designation order under subsection (1).
 
 ## Annotations
 
-[^key-92b526e9e62087b58b1f22d673ebe8ed]: Commencement: S. 4 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-92b526e9e62087b58b1f22d673ebe8ed]: Commencement: S. 4 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

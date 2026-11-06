@@ -56,9 +56,9 @@ Table 1
 | Dyfed-Powys | £ 2,035 |
 | Essex | £ 6,605 |
 | Gloucestershire | £ 2,422 |
-| [^key-9e324460404023161bed0f3a03931b88]. . . | [^key-9e324460404023161bed0f3a03931b88]. . . |
+| [^c-9e324460404023161bed0f3a03931b88]. . . | [^c-9e324460404023161bed0f3a03931b88]. . . |
 | Gwent | £ 2,199 |
-| Hampshire and Isle of Wight[^key-b9e46481a1b4e592538d5abc0302be94] | £ 7,345 |
+| Hampshire and Isle of Wight[^c-b9e46481a1b4e592538d5abc0302be94] | £ 7,345 |
 | Hertfordshire | £ 4,260 |
 | Humberside | £ 3,557 |
 | Kent | £ 6,433 |
@@ -68,12 +68,12 @@ Table 1
 | Merseyside | £ 5,139 |
 | Norfolk | £ 3,392 |
 | North Wales | £ 2,674 |
-| [^key-9e324460404023161bed0f3a03931b88]. . . | [^key-9e324460404023161bed0f3a03931b88]. . . |
+| [^c-9e324460404023161bed0f3a03931b88]. . . | [^c-9e324460404023161bed0f3a03931b88]. . . |
 | Northamptonshire | £ 2,686 |
 | Northumbria | £ 5,507 |
 | Nottinghamshire | £ 4,116 |
 | South Wales | £ 4,904 |
-| [^key-8ec2828f74510bf42b5cfdaa9c48e197]. . . | [^key-8ec2828f74510bf42b5cfdaa9c48e197]. . . |
+| [^c-8ec2828f74510bf42b5cfdaa9c48e197]. . . | [^c-8ec2828f74510bf42b5cfdaa9c48e197]. . . |
 | Staffordshire | £ 4,314 |
 | Suffolk | £ 2,828 |
 | Surrey | £ 4,345 |
@@ -82,7 +82,7 @@ Table 1
 | Warwickshire | £ 2,144 |
 | West Mercia | £ 4,750 |
 | West Midlands | £ 10,080 |
-| [^key-9e324460404023161bed0f3a03931b88]. . . | [^key-9e324460404023161bed0f3a03931b88]. . . |
+| [^c-9e324460404023161bed0f3a03931b88]. . . | [^c-9e324460404023161bed0f3a03931b88]. . . |
 | Wiltshire | £ 2,630 |
 
 (5) For the purposes of paragraph (3)(a), expenses are to be regarded as incurred by a person “as part of a concerted plan of action” if they are incurred by that person in pursuance of any plan or other arrangement whereby that person and one or more other persons are to incur, with a view to promoting or procuring the election of the same candidate, expenses which (disregarding paragraph (3)(a)) fall within paragraph (1).
@@ -126,8 +126,8 @@ that person is guilty of a corrupt practice.
 
 [^c21343641]: Marginal citation: [1996 c.55](https://www.legislation.gov.uk/ukpga/1996/55).
 
-[^key-9e324460404023161bed0f3a03931b88]: Textual amendment: Words in [art. 34(4)](https://www.legislation.gov.uk/uksi/2012/1917/article/34/4) Table 1 omitted (26.3.2024) by virtue of [The Representation of the People (Variation of Election Expenses and Exclusions) Regulations 2024 (S.I. 2024/428)](https://www.legislation.gov.uk/uksi/2024/428), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2024/428/regulation/1/1/b), [5](https://www.legislation.gov.uk/uksi/2024/428/regulation/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/428/regulation/6))
+[^c-9e324460404023161bed0f3a03931b88]: Textual amendment: Words in [art. 34(4)](https://www.legislation.gov.uk/uksi/2012/1917/article/34/4) Table 1 omitted (26.3.2024) by virtue of [The Representation of the People (Variation of Election Expenses and Exclusions) Regulations 2024 (S.I. 2024/428)](https://www.legislation.gov.uk/uksi/2024/428), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2024/428/regulation/1/1/b), [5](https://www.legislation.gov.uk/uksi/2024/428/regulation/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/428/regulation/6))
 
-[^key-b9e46481a1b4e592538d5abc0302be94]: Textual amendment: Words in [art. 34(4)](https://www.legislation.gov.uk/uksi/2012/1917/article/34/4) Table 1 substituted (13.7.2022) by [The Police Act 1996 (Amendment and Consequential Amendments) Regulations 2022 (S.I. 2022/790)](https://www.legislation.gov.uk/uksi/2022/790), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/790/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/790/regulation/3/2)
+[^c-b9e46481a1b4e592538d5abc0302be94]: Textual amendment: Words in [art. 34(4)](https://www.legislation.gov.uk/uksi/2012/1917/article/34/4) Table 1 substituted (13.7.2022) by [The Police Act 1996 (Amendment and Consequential Amendments) Regulations 2022 (S.I. 2022/790)](https://www.legislation.gov.uk/uksi/2022/790), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/790/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/790/regulation/3/2)
 
-[^key-8ec2828f74510bf42b5cfdaa9c48e197]: Textual amendment: Words in [art. 34(4)](https://www.legislation.gov.uk/uksi/2012/1917/article/34/4) Table 1 omitted (21.3.2024) by virtue of [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2024/414/article/13/a)
+[^c-8ec2828f74510bf42b5cfdaa9c48e197]: Textual amendment: Words in [art. 34(4)](https://www.legislation.gov.uk/uksi/2012/1917/article/34/4) Table 1 omitted (21.3.2024) by virtue of [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2024/414/article/13/a)

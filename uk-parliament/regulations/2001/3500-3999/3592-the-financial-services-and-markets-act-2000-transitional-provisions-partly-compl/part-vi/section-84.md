@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Intervention measure against registered individual or person[^key-09f5054f52a69598e797a682eaad47e2]
+## 84. Intervention measure against registered individual or person[^c-09f5054f52a69598e797a682eaad47e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09f5054f52a69598e797a682eaad47e2]: Commencement: Art. 84 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-09f5054f52a69598e797a682eaad47e2]: Commencement: Art. 84 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

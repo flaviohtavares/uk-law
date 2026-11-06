@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Amendment of section 113 (English text)[^key-c4df0d6e4aa06a47a97edd393a3026e7]
+## 140. Amendment of section 113 (English text)[^c-c4df0d6e4aa06a47a97edd393a3026e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4df0d6e4aa06a47a97edd393a3026e7]: Commencement: Reg. 140 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-c4df0d6e4aa06a47a97edd393a3026e7]: Commencement: Reg. 140 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

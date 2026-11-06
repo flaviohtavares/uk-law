@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 188. Duty of the Agency and NRBW to publish information[^key-ad57ab1d3c721ddd46598040640ac2e1]
+## 188. Duty of the Agency and NRBW to publish information[^c-ad57ab1d3c721ddd46598040640ac2e1]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad57ab1d3c721ddd46598040640ac2e1]: Textual amendment: S. 188 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 298](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/298) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ad57ab1d3c721ddd46598040640ac2e1]: Textual amendment: S. 188 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 298](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/298) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Dissolution of society[^key-05e848978e7a47856be49ba1c974bf7f][^M_F_87fcc706-6d93-436e-d941-298939ce4fd2]
+## 99. Dissolution of society[^c-05e848978e7a47856be49ba1c974bf7f][^M_F_87fcc706-6d93-436e-d941-298939ce4fd2]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-05e848978e7a47856be49ba1c974bf7f]: Commencement: S. 99 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-05e848978e7a47856be49ba1c974bf7f]: Commencement: S. 99 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
 
 [^M_F_87fcc706-6d93-436e-d941-298939ce4fd2]: Textual amendment: S. 99 substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 6(6)](https://www.legislation.gov.uk/asp/2018/13/section/6/6), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/253/regulation/8))

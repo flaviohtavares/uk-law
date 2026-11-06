@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Other amendments connected with landlord redress schemes[^key-26a8dbc1991cc337aaf0b464e0506af0]
+## 73. Other amendments connected with landlord redress schemes[^c-26a8dbc1991cc337aaf0b464e0506af0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 3 contains amendments connected with landlord redress schemes.
 
 ## Annotations
 
-[^key-26a8dbc1991cc337aaf0b464e0506af0]: Commencement: S. 73 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-26a8dbc1991cc337aaf0b464e0506af0]: Commencement: S. 73 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

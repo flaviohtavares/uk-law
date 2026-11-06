@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Resolutions[^key-e30c775ec6c0de4920634455ed75ded8]
+## 31. Resolutions[^c-e30c775ec6c0de4920634455ed75ded8]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e30c775ec6c0de4920634455ed75ded8]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2013/3208/rule/31) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-e30c775ec6c0de4920634455ed75ded8]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2013/3208/rule/31) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

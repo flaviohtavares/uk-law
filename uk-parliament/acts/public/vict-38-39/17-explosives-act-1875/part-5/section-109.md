@@ -42,7 +42,7 @@ In this Act with respect to Scotland—
 
 (10) The expression “**the court of summary jurisdiction**” means the sheriff principal of the sheriffdom or any one of his sheriffs[^c5690331]:
 
-(11)[^key-58e94389ae916089da8c3c2680948cf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-58e94389ae916089da8c3c2680948cf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -54,4 +54,4 @@ In this Act with respect to Scotland—
 
 [^c5690331]: Textual amendment: Words substituted by virtue of [Sheriff Courts (Scotland) Act 1971 (c. 58)](https://www.legislation.gov.uk/ukpga/1971/58), [s. 4](https://www.legislation.gov.uk/ukpga/1971/58/section/4), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1971/58/schedule/1/paragraph/1)
 
-[^key-58e94389ae916089da8c3c2680948cf1]: Textual amendment: S. 109(11) repealed (E.W.S.) (26.4.2005 with application outside E.W.S. as mentioned in reg. 3 of the repealing S.I.) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [Sch. 5 para. 1(16)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/1/16), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-58e94389ae916089da8c3c2680948cf1]: Textual amendment: S. 109(11) repealed (E.W.S.) (26.4.2005 with application outside E.W.S. as mentioned in reg. 3 of the repealing S.I.) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [Sch. 5 para. 1(16)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/1/16), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))

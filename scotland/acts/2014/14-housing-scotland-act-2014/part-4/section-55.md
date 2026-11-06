@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Inspections: supplemental[^key-6478410bfd519b7b7cfa142f995db541]
+## 55. Inspections: supplemental[^c-6478410bfd519b7b7cfa142f995db541]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6478410bfd519b7b7cfa142f995db541]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2014/14/section/55) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-6478410bfd519b7b7cfa142f995db541]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2014/14/section/55) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

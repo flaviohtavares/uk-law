@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5DFB. Notices required by regulation 5D[^key-0a935b4f8fc8a20cfe536a082773a006][^key-8ef43955e91d7850ecd84c6f42a9af50]
+## 5DFB. Notices required by regulation 5D[^c-0a935b4f8fc8a20cfe536a082773a006][^c-8ef43955e91d7850ecd84c6f42a9af50]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ that account manager shall, within the period of 30 days beginning with the day 
 
 ## Annotations
 
-[^key-0a935b4f8fc8a20cfe536a082773a006]: Textual amendment: [Regs. 5DFA-5DFD](https://www.legislation.gov.uk/uksi/1998/1870/regulation/5DFA) inserted (6.4.2015) by [The Individual Savings Account (Amendment No. 2) Regulations 2015 (S.I. 2015/869)](https://www.legislation.gov.uk/uksi/2015/869), [regs. 1](https://www.legislation.gov.uk/uksi/2015/869/regulation/1), [9](https://www.legislation.gov.uk/uksi/2015/869/regulation/9)
+[^c-0a935b4f8fc8a20cfe536a082773a006]: Textual amendment: [Regs. 5DFA-5DFD](https://www.legislation.gov.uk/uksi/1998/1870/regulation/5DFA) inserted (6.4.2015) by [The Individual Savings Account (Amendment No. 2) Regulations 2015 (S.I. 2015/869)](https://www.legislation.gov.uk/uksi/2015/869), [regs. 1](https://www.legislation.gov.uk/uksi/2015/869/regulation/1), [9](https://www.legislation.gov.uk/uksi/2015/869/regulation/9)
 
-[^key-8ef43955e91d7850ecd84c6f42a9af50]: Textual amendment: Regs. 5D-5DM inserted (8.8.2012) by [The Individual Savings Account (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1871)](https://www.legislation.gov.uk/uksi/2012/1871), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1871/regulation/1), [11](https://www.legislation.gov.uk/uksi/2012/1871/regulation/11)
+[^c-8ef43955e91d7850ecd84c6f42a9af50]: Textual amendment: Regs. 5D-5DM inserted (8.8.2012) by [The Individual Savings Account (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1871)](https://www.legislation.gov.uk/uksi/2012/1871), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1871/regulation/1), [11](https://www.legislation.gov.uk/uksi/2012/1871/regulation/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Requirement for proposed crofter to be aware of duties[^key-cb9802b7cb18bb2aba7851fb8718d951]
+## 16. Requirement for proposed crofter to be aware of duties[^c-cb9802b7cb18bb2aba7851fb8718d951]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb9802b7cb18bb2aba7851fb8718d951]: Commencement: S. 16 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-cb9802b7cb18bb2aba7851fb8718d951]: Commencement: S. 16 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Trade: licensing offences[^key-56c21d006b751f81959108257b3c221b][^key-e784d56ed04b7026b3e9331b313e680b]
+## 37. Trade: licensing offences[^c-56c21d006b751f81959108257b3c221b][^c-e784d56ed04b7026b3e9331b313e680b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ for the purpose of obtaining a trade licence (whether for P or anyone else).
 
 ## Annotations
 
-[^key-56c21d006b751f81959108257b3c221b]: Commencement: Reg. 37 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-56c21d006b751f81959108257b3c221b]: Commencement: Reg. 37 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-e784d56ed04b7026b3e9331b313e680b]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2020/1278/regulation/37) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-e784d56ed04b7026b3e9331b313e680b]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2020/1278/regulation/37) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

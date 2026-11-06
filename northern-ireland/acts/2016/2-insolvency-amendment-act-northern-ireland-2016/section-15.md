@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Regulatory objectives[^key-9a095c10189bd8268f3907cae253b6be]
+## 15. Regulatory objectives[^c-9a095c10189bd8268f3907cae253b6be]
 
 *Extent: N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a095c10189bd8268f3907cae253b6be]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2016/2/section/15) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-9a095c10189bd8268f3907cae253b6be]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2016/2/section/15) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

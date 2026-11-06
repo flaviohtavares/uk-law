@@ -71,14 +71,14 @@ In schedule 3, the amounts set out in column 2 are the amounts specified for fin
 
 (1) For the purposes of section 4(2) of the PFA Act 2000, the overall cash authorisations for financial year 2013/14 are as follows.
 
-(2) In relation to the Scottish Administration, £31,956,931,000[^key-c144c75ac0d3987cf6ed32448b4fb5f1]
+(2) In relation to the Scottish Administration, £31,956,931,000[^c-c144c75ac0d3987cf6ed32448b4fb5f1]
 
 (3) In relation to the direct-funded bodies—
 
-- (a) the Forestry Commissioners, £70,031,000[^key-7a07e6eb6299128f48cc7692bd0d4b4c]
+- (a) the Forestry Commissioners, £70,031,000[^c-7a07e6eb6299128f48cc7692bd0d4b4c]
 - (b) the Food Standards Agency, £10,800,000,
-- (c) the Scottish Parliamentary Corporate Body, £71,989,000[^key-5db5b5e0357e342d8d2f337aa453ded8]
-- (d) Audit Scotland, £7,005,000.[^key-d5cf51fb56dba6f86ceae8a689e882d7]
+- (c) the Scottish Parliamentary Corporate Body, £71,989,000[^c-5db5b5e0357e342d8d2f337aa453ded8]
+- (d) Audit Scotland, £7,005,000.[^c-d5cf51fb56dba6f86ceae8a689e882d7]
 
 #### 5. Contingency payments
 
@@ -100,11 +100,11 @@ In schedule 3, the amounts set out in column 2 are the amounts specified for fin
 
 (6) Where the Scottish Ministers authorise a payment under this section they must, as soon as possible, lay before the Scottish Parliament a report setting out the circumstances of the authorisation and why they considered it to be necessary.
 
-## PART 2 — Financial year 2014/15[^key-22abe6ba63b1a1c560635d0aa57d1a07]
+## PART 2 — Financial year 2014/15[^c-22abe6ba63b1a1c560635d0aa57d1a07]
 
 **No longer in force.**
 
-### 6. Emergency arrangements[^key-22abe6ba63b1a1c560635d0aa57d1a07][^key-22abe6ba63b1a1c560635d0aa57d1a07]
+### 6. Emergency arrangements[^c-22abe6ba63b1a1c560635d0aa57d1a07][^c-22abe6ba63b1a1c560635d0aa57d1a07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -172,7 +172,7 @@ The short title of this Act is the Budget (Scotland) Act 2013.
 </tbody>
 </table>
 
-[^key-232a86a0d4e9320278dc2264855844cc][^key-85c1382d2aaac6feefdd0e6ad2c3c952][^key-419bfef256acd90d8e6af71a831cec3e][^key-95c856274d1a6de26e263aa592fd16e8][^key-200671c592f7ef83a7aade37c503d0b7][^key-6e9694407df89383b112a625ed92c7c6][^key-9e5d138dd55eb544bc388077a0f16359][^key-664537c585632819b652e3e83392f4c9][^key-9259466c71b6c2d60392f947b77fdd82][^key-d4fe55309c722ef387cb2e947126a656][^key-6509be5b753b9fd2e8a14c10311c87fb][^key-460e778dafa694fa6449ffbf42d30544][^key-5cec05806d62bb0c1455ddaeaa06ebb3][^key-870c728c15add14acebc1b76f0e7cd6d][^key-44d01c4410ac87ce2d6b489b61768822][^key-e60961bdb27c353562c34893b5a3e077][^key-0efed60361a9a1334c5a707ef29520b2][^key-e143a9b501c0653558b95cf2fb53b2e6][^key-448b7b291806573951c4928128e23512][^key-880ac806d77b3ce17d8b24655beffe8d][^key-20beb00c1ce7c32de55c7c4a636aadf0][^key-d644f3ea68d828fb109d845e8d140fa0][^key-9a500a5ddb71e896cb200ecbe6d529da][^key-0d481f286511d3498da66191d3b91c94][^key-380ae0c8b558dc4492c4291a1d3a97e3]
+[^c-232a86a0d4e9320278dc2264855844cc][^c-85c1382d2aaac6feefdd0e6ad2c3c952][^c-419bfef256acd90d8e6af71a831cec3e][^c-95c856274d1a6de26e263aa592fd16e8][^c-200671c592f7ef83a7aade37c503d0b7][^c-6e9694407df89383b112a625ed92c7c6][^c-9e5d138dd55eb544bc388077a0f16359][^c-664537c585632819b652e3e83392f4c9][^c-9259466c71b6c2d60392f947b77fdd82][^c-d4fe55309c722ef387cb2e947126a656][^c-6509be5b753b9fd2e8a14c10311c87fb][^c-460e778dafa694fa6449ffbf42d30544][^c-5cec05806d62bb0c1455ddaeaa06ebb3][^c-870c728c15add14acebc1b76f0e7cd6d][^c-44d01c4410ac87ce2d6b489b61768822][^c-e60961bdb27c353562c34893b5a3e077][^c-0efed60361a9a1334c5a707ef29520b2][^c-e143a9b501c0653558b95cf2fb53b2e6][^c-448b7b291806573951c4928128e23512][^c-880ac806d77b3ce17d8b24655beffe8d][^c-20beb00c1ce7c32de55c7c4a636aadf0][^c-d644f3ea68d828fb109d845e8d140fa0][^c-9a500a5ddb71e896cb200ecbe6d529da][^c-0d481f286511d3498da66191d3b91c94][^c-380ae0c8b558dc4492c4291a1d3a97e3]
 
 ## SCHEDULE 2 — DIRECT-FUNDED BODIES
 
@@ -189,7 +189,7 @@ The short title of this Act is the Budget (Scotland) Act 2013.
 </tbody>
 </table>
 
-[^key-140984aff913a918cf8aef188127310a][^key-c8201dd68c009e930811c4225c1db389][^key-71b598031730b6929ff7731378915a40][^key-67255e22c0a44fc283f077096a86c58b][^key-6bae2e15eca4041227890f9fe1b5ac75][^key-7844c1795e4a8a978136b187a15f30f2]
+[^c-140984aff913a918cf8aef188127310a][^c-c8201dd68c009e930811c4225c1db389][^c-71b598031730b6929ff7731378915a40][^c-67255e22c0a44fc283f077096a86c58b][^c-6bae2e15eca4041227890f9fe1b5ac75][^c-7844c1795e4a8a978136b187a15f30f2]
 
 ## SCHEDULE 3 — BORROWING BY STATUTORY BODIES
 
@@ -209,74 +209,74 @@ The short title of this Act is the Budget (Scotland) Act 2013.
 
 ## Annotations
 
-[^key-c144c75ac0d3987cf6ed32448b4fb5f1]: Textual amendment: Word in s. 4(2) substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2014/81/article/2/a)
+[^c-c144c75ac0d3987cf6ed32448b4fb5f1]: Textual amendment: Word in s. 4(2) substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2014/81/article/2/a)
 
-[^key-7a07e6eb6299128f48cc7692bd0d4b4c]: Textual amendment: Word in s. 4(3)(a) substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2014/81/article/2/b)
+[^c-7a07e6eb6299128f48cc7692bd0d4b4c]: Textual amendment: Word in s. 4(3)(a) substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2014/81/article/2/b)
 
-[^key-5db5b5e0357e342d8d2f337aa453ded8]: Textual amendment: Word in s. 4(3)(c) substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2014/81/article/2/c)
+[^c-5db5b5e0357e342d8d2f337aa453ded8]: Textual amendment: Word in s. 4(3)(c) substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2014/81/article/2/c)
 
-[^key-d5cf51fb56dba6f86ceae8a689e882d7]: Textual amendment: Word in s. 4(3)(d) substituted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2013/328/article/2/c)
+[^c-d5cf51fb56dba6f86ceae8a689e882d7]: Textual amendment: Word in s. 4(3)(d) substituted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2013/328/article/2/c)
 
-[^key-22abe6ba63b1a1c560635d0aa57d1a07]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/asp/2013/4/part/2) repealed (13.3.2014) by [Budget (Scotland) Act 2014 (asp 6)](https://www.legislation.gov.uk/asp/2014/6), [ss. 8](https://www.legislation.gov.uk/asp/2014/6/section/8), [10](https://www.legislation.gov.uk/asp/2014/6/section/10)
+[^c-22abe6ba63b1a1c560635d0aa57d1a07]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/asp/2013/4/part/2) repealed (13.3.2014) by [Budget (Scotland) Act 2014 (asp 6)](https://www.legislation.gov.uk/asp/2014/6), [ss. 8](https://www.legislation.gov.uk/asp/2014/6/section/8), [10](https://www.legislation.gov.uk/asp/2014/6/section/10)
 
-[^key-232a86a0d4e9320278dc2264855844cc]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/a)
+[^c-232a86a0d4e9320278dc2264855844cc]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/a)
 
-[^key-85c1382d2aaac6feefdd0e6ad2c3c952]: Textual amendment: Word in Sch. 1 substituted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2013/328/article/3/4/a)
+[^c-85c1382d2aaac6feefdd0e6ad2c3c952]: Textual amendment: Word in Sch. 1 substituted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2013/328/article/3/4/a)
 
-[^key-419bfef256acd90d8e6af71a831cec3e]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/b)
+[^c-419bfef256acd90d8e6af71a831cec3e]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/b)
 
-[^key-95c856274d1a6de26e263aa592fd16e8]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/c)
+[^c-95c856274d1a6de26e263aa592fd16e8]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(c)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/c)
 
-[^key-200671c592f7ef83a7aade37c503d0b7]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(d)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/d)
+[^c-200671c592f7ef83a7aade37c503d0b7]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(d)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/d)
 
-[^key-6e9694407df89383b112a625ed92c7c6]: Textual amendment: Words in Sch. 1 substituted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2013/328/article/3/2/a)
+[^c-6e9694407df89383b112a625ed92c7c6]: Textual amendment: Words in Sch. 1 substituted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2013/328/article/3/2/a)
 
-[^key-9e5d138dd55eb544bc388077a0f16359]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(e)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/e)
+[^c-9e5d138dd55eb544bc388077a0f16359]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(e)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/e)
 
-[^key-664537c585632819b652e3e83392f4c9]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(f)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/f)
+[^c-664537c585632819b652e3e83392f4c9]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(f)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/f)
 
-[^key-9259466c71b6c2d60392f947b77fdd82]: Textual amendment: Words in Sch. 1 substituted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(2)(b)(i)](https://www.legislation.gov.uk/ssi/2013/328/article/3/2/b/i)
+[^c-9259466c71b6c2d60392f947b77fdd82]: Textual amendment: Words in Sch. 1 substituted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(2)(b)(i)](https://www.legislation.gov.uk/ssi/2013/328/article/3/2/b/i)
 
-[^key-d4fe55309c722ef387cb2e947126a656]: Textual amendment: Words in Sch. 1 inserted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2013/328/article/3/2/b/ii)
+[^c-d4fe55309c722ef387cb2e947126a656]: Textual amendment: Words in Sch. 1 inserted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2013/328/article/3/2/b/ii)
 
-[^key-6509be5b753b9fd2e8a14c10311c87fb]: Textual amendment: Words in Sch. 1 inserted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(2)(b)(iii)](https://www.legislation.gov.uk/ssi/2013/328/article/3/2/b/iii)
+[^c-6509be5b753b9fd2e8a14c10311c87fb]: Textual amendment: Words in Sch. 1 inserted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(2)(b)(iii)](https://www.legislation.gov.uk/ssi/2013/328/article/3/2/b/iii)
 
-[^key-460e778dafa694fa6449ffbf42d30544]: Textual amendment: Words in Sch. 1 inserted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(2)(b)(iv)](https://www.legislation.gov.uk/ssi/2013/328/article/3/2/b/iv)
+[^c-460e778dafa694fa6449ffbf42d30544]: Textual amendment: Words in Sch. 1 inserted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(2)(b)(iv)](https://www.legislation.gov.uk/ssi/2013/328/article/3/2/b/iv)
 
-[^key-5cec05806d62bb0c1455ddaeaa06ebb3]: Textual amendment: Words in Sch. 1 inserted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(2)(b)(v)](https://www.legislation.gov.uk/ssi/2013/328/article/3/2/b/v)
+[^c-5cec05806d62bb0c1455ddaeaa06ebb3]: Textual amendment: Words in Sch. 1 inserted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(2)(b)(v)](https://www.legislation.gov.uk/ssi/2013/328/article/3/2/b/v)
 
-[^key-870c728c15add14acebc1b76f0e7cd6d]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(g)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/g)
+[^c-870c728c15add14acebc1b76f0e7cd6d]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(g)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/g)
 
-[^key-44d01c4410ac87ce2d6b489b61768822]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(h)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/h)
+[^c-44d01c4410ac87ce2d6b489b61768822]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(h)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/h)
 
-[^key-e60961bdb27c353562c34893b5a3e077]: Textual amendment: Word in Sch. 1 substituted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(3)(i)](https://www.legislation.gov.uk/ssi/2013/328/article/3/3/i)
+[^c-e60961bdb27c353562c34893b5a3e077]: Textual amendment: Word in Sch. 1 substituted (15.11.2013) by [The Budget (Scotland) Act 2013 Amendment Order 2013 (S.S.I. 2013/328)](https://www.legislation.gov.uk/ssi/2013/328), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/328/article/1/1), [3(3)(i)](https://www.legislation.gov.uk/ssi/2013/328/article/3/3/i)
 
-[^key-0efed60361a9a1334c5a707ef29520b2]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2014/81/article/3/3/a)
+[^c-0efed60361a9a1334c5a707ef29520b2]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2014/81/article/3/3/a)
 
-[^key-e143a9b501c0653558b95cf2fb53b2e6]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(i)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/i)
+[^c-e143a9b501c0653558b95cf2fb53b2e6]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(i)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/i)
 
-[^key-448b7b291806573951c4928128e23512]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(j)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/j)
+[^c-448b7b291806573951c4928128e23512]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(j)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/j)
 
-[^key-880ac806d77b3ce17d8b24655beffe8d]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2014/81/article/3/3/b)
+[^c-880ac806d77b3ce17d8b24655beffe8d]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2014/81/article/3/3/b)
 
-[^key-20beb00c1ce7c32de55c7c4a636aadf0]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S,I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(k)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/k)
+[^c-20beb00c1ce7c32de55c7c4a636aadf0]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S,I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(k)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/k)
 
-[^key-d644f3ea68d828fb109d845e8d140fa0]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(l)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/l)
+[^c-d644f3ea68d828fb109d845e8d140fa0]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(l)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/l)
 
-[^key-9a500a5ddb71e896cb200ecbe6d529da]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(m)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/m)
+[^c-9a500a5ddb71e896cb200ecbe6d529da]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(m)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/m)
 
-[^key-0d481f286511d3498da66191d3b91c94]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(n)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/n)
+[^c-0d481f286511d3498da66191d3b91c94]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(2)(n)](https://www.legislation.gov.uk/ssi/2014/81/article/3/2/n)
 
-[^key-380ae0c8b558dc4492c4291a1d3a97e3]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(3)(c)](https://www.legislation.gov.uk/ssi/2014/81/article/3/3/c)
+[^c-380ae0c8b558dc4492c4291a1d3a97e3]: Textual amendment: Word in Sch. 1 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [3(3)(c)](https://www.legislation.gov.uk/ssi/2014/81/article/3/3/c)
 
-[^key-140984aff913a918cf8aef188127310a]: Textual amendment: Word in Sch. 2 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2014/81/article/4/2/a)
+[^c-140984aff913a918cf8aef188127310a]: Textual amendment: Word in Sch. 2 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2014/81/article/4/2/a)
 
-[^key-c8201dd68c009e930811c4225c1db389]: Textual amendment: Word in Sch. 2 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2014/81/article/4/3/a)
+[^c-c8201dd68c009e930811c4225c1db389]: Textual amendment: Word in Sch. 2 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2014/81/article/4/3/a)
 
-[^key-71b598031730b6929ff7731378915a40]: Textual amendment: Words in Sch. 2 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [4(2)(b)(i)](https://www.legislation.gov.uk/ssi/2014/81/article/4/2/b/i)
+[^c-71b598031730b6929ff7731378915a40]: Textual amendment: Words in Sch. 2 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [4(2)(b)(i)](https://www.legislation.gov.uk/ssi/2014/81/article/4/2/b/i)
 
-[^key-67255e22c0a44fc283f077096a86c58b]: Textual amendment: Words in Sch. 2 inserted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2014/81/article/4/2/b/ii)
+[^c-67255e22c0a44fc283f077096a86c58b]: Textual amendment: Words in Sch. 2 inserted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2014/81/article/4/2/b/ii)
 
-[^key-6bae2e15eca4041227890f9fe1b5ac75]: Textual amendment: Word in Sch. 2 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2014/81/article/4/3/b)
+[^c-6bae2e15eca4041227890f9fe1b5ac75]: Textual amendment: Word in Sch. 2 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2014/81/article/4/3/b)
 
-[^key-7844c1795e4a8a978136b187a15f30f2]: Textual amendment: Word in Sch. 2 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [4(3)(c)](https://www.legislation.gov.uk/ssi/2014/81/article/4/3/c)
+[^c-7844c1795e4a8a978136b187a15f30f2]: Textual amendment: Word in Sch. 2 substituted (21.3.2014) by [The Budget (Scotland) Act 2013 Amendment Order 2014 (S.S.I. 2014/81)](https://www.legislation.gov.uk/ssi/2014/81), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/81/article/1/1), [4(3)(c)](https://www.legislation.gov.uk/ssi/2014/81/article/4/3/c)

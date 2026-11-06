@@ -37,7 +37,7 @@ An Act to restate, with minor changes, certain enactments relating to capital al
 
 22nd March 2001
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ef42097d62ae4008405bd4b83a8816fb]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b583821bf91ca87f56cd99a2ec624819][^key-52be71577a07ab9a407be63e83b528c3]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ef42097d62ae4008405bd4b83a8816fb]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b583821bf91ca87f56cd99a2ec624819][^key-f38694ff269fe0c6ae254555581c1478]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ef42097d62ae4008405bd4b83a8816fb]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b583821bf91ca87f56cd99a2ec624819][^key-52be71577a07ab9a407be63e83b528c3]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ef42097d62ae4008405bd4b83a8816fb]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b583821bf91ca87f56cd99a2ec624819][^key-f38694ff269fe0c6ae254555581c1478][^key-8ad0d4034d16b2c19b6621bfa286fce0][^key-3002be0b62b006d85ac15afab669640e][^key-0fb924f166d22e77606d5aa4de8cae58][^key-33f4921c710c2c3a716e011dbb763e5b][^key-3c08c8ec2d356a779837e7293df7b9b5][^key-ab5e2f259db26b600482a5dcd75ef76a][^key-57cc5dbd1b7b261b2a5b71dcd0e53c26][^key-e42a4e756a403248fbc430b0e87e7eab][^key-4e92b9e4644a10380f7dd6f6ea251738][^key-5accafb97cf96c0d3f33b2c27c2a878d][^key-b0524372ba898cb46ebb1a3174905850][^key-32a77741be9d90e1beff589da264486a][^key-3f9aa7987c413412d2cf88244fbc5c4d][^key-c679b9a6380dac0a517e6e8d4abdceb6][^key-1c140b85ce5396bb6f60546dec9dc3c3][^key-d34e4293b5137ab8206a1aaae96ec631][^key-d8a85334f1fc0d85a40f42c6328a48e5]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ef42097d62ae4008405bd4b83a8816fb]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b583821bf91ca87f56cd99a2ec624819][^c-52be71577a07ab9a407be63e83b528c3]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ef42097d62ae4008405bd4b83a8816fb]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b583821bf91ca87f56cd99a2ec624819][^c-f38694ff269fe0c6ae254555581c1478]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ef42097d62ae4008405bd4b83a8816fb]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b583821bf91ca87f56cd99a2ec624819][^c-52be71577a07ab9a407be63e83b528c3]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ef42097d62ae4008405bd4b83a8816fb]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b583821bf91ca87f56cd99a2ec624819][^c-f38694ff269fe0c6ae254555581c1478][^c-8ad0d4034d16b2c19b6621bfa286fce0][^c-3002be0b62b006d85ac15afab669640e][^c-0fb924f166d22e77606d5aa4de8cae58][^c-33f4921c710c2c3a716e011dbb763e5b][^c-3c08c8ec2d356a779837e7293df7b9b5][^c-ab5e2f259db26b600482a5dcd75ef76a][^c-57cc5dbd1b7b261b2a5b71dcd0e53c26][^c-e42a4e756a403248fbc430b0e87e7eab][^c-4e92b9e4644a10380f7dd6f6ea251738][^c-5accafb97cf96c0d3f33b2c27c2a878d][^c-b0524372ba898cb46ebb1a3174905850][^c-32a77741be9d90e1beff589da264486a][^c-3f9aa7987c413412d2cf88244fbc5c4d][^c-c679b9a6380dac0a517e6e8d4abdceb6][^c-1c140b85ce5396bb6f60546dec9dc3c3][^c-d34e4293b5137ab8206a1aaae96ec631][^c-d8a85334f1fc0d85a40f42c6328a48e5]
 
 ## Contents
 
@@ -57,7 +57,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 5 — When capital expenditure is incurred](part-1/section-5.md)
 - [Section 6 — Meaning of “chargeable period”](part-1/section-6.md)
 
-#### CHAPTER 1A — Trades attracting Northern Ireland rate of corporation tax[^key-8affe371a4c0f1618fd4056236544418]
+#### CHAPTER 1A — Trades attracting Northern Ireland rate of corporation tax[^c-8affe371a4c0f1618fd4056236544418]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,7 +74,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 9 — Interaction between fixtures claims and other claims](part-1/section-9.md)
 - [Section 10 — Interpretation](part-1/section-10.md)
 
-### Part 2 — Plant and machinery allowances[^key-395c7ef838259544a6ee516c31a907ad][^key-accc0b7f402671ba9a1876244977d3a8][^key-5185999e4b571fa8525d1bad1fff7468][^key-d07bb78491f822cf913ed964f61c3121][^key-b8184b95e0e6d1a82eeaaace30d953b8][^key-d03da92dd5e4b88aa6e7b821216d4cc0][^key-61884cd6d626db8c24cf70e799042b45][^key-dd714b8ad190d5f08e16834d74b4ca9e][^key-7242754a9c491a309af36b3f71ed2c64][^key-661b09f8253ca07c6d062cb971343de3]
+### Part 2 — Plant and machinery allowances[^c-395c7ef838259544a6ee516c31a907ad][^c-accc0b7f402671ba9a1876244977d3a8][^c-5185999e4b571fa8525d1bad1fff7468][^c-d07bb78491f822cf913ed964f61c3121][^c-b8184b95e0e6d1a82eeaaace30d953b8][^c-d03da92dd5e4b88aa6e7b821216d4cc0][^c-61884cd6d626db8c24cf70e799042b45][^c-dd714b8ad190d5f08e16834d74b4ca9e][^c-7242754a9c491a309af36b3f71ed2c64][^c-661b09f8253ca07c6d062cb971343de3]
 
 *Extent: E+W+S+N.I.*
 
@@ -118,7 +118,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 26 — Demolition costs](part-2/section-26.md)
 
-##### Expenditure on thermal insulation and personal security[^key-336b57290d15b72a514bdbaec8668f4f]
+##### Expenditure on thermal insulation and personal security[^c-336b57290d15b72a514bdbaec8668f4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -130,7 +130,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 32 — Safety at other sports grounds](part-2/section-32.md)
 - [Section 33 — Personal security](part-2/section-33.md)
 
-##### Expenditure on integral features[^key-b586b148267f107b6ecea18649bffa71]
+##### Expenditure on integral features[^c-b586b148267f107b6ecea18649bffa71]
 
 *Extent: E+W+S+N.I.*
 
@@ -149,12 +149,12 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 38 — Production animals etc.](part-2/section-38.md)
 - [Section 38ZA — Vehicles for which deductions allowed at fixed rate under Part 2 of ITTOIA 2005](part-2/section-38za.md)
 
-#### Chapter 3A — AIA qualifying expenditure[^key-83f8ee09957daf1a5ce469a4c54bd46f]
+#### Chapter 3A — AIA qualifying expenditure[^c-83f8ee09957daf1a5ce469a4c54bd46f]
 
 - [Section 38A — AIA qualifying expenditure](part-2/section-38a.md)
 - [Section 38B — General exclusions applying to section 38A](part-2/section-38b.md)
 
-#### Chapter 4 — First-year qualifying expenditure[^key-661b09f8253ca07c6d062cb971343de3]
+#### Chapter 4 — First-year qualifying expenditure[^c-661b09f8253ca07c6d062cb971343de3]
 
 *Extent: E+W+S+N.I.*
 
@@ -211,11 +211,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 50 — Time when expenditure is incurred](part-2/section-50.md)
 - [Section 51 — Disclosure of information between UK tax authorities](part-2/section-51.md)
 
-#### Chapter 5 — Allowances and charges[^key-accc0b7f402671ba9a1876244977d3a8][^key-5185999e4b571fa8525d1bad1fff7468][^key-8bbf704f9d46944dd7a2b2899fb7a514][^key-afdf16903dae9a43057a2a478656bd7e][^key-d07bb78491f822cf913ed964f61c3121][^key-7242754a9c491a309af36b3f71ed2c64][^key-27e2104a719ff9fd66766c86b94809ef]
+#### Chapter 5 — Allowances and charges[^c-accc0b7f402671ba9a1876244977d3a8][^c-5185999e4b571fa8525d1bad1fff7468][^c-8bbf704f9d46944dd7a2b2899fb7a514][^c-afdf16903dae9a43057a2a478656bd7e][^c-d07bb78491f822cf913ed964f61c3121][^c-7242754a9c491a309af36b3f71ed2c64][^c-27e2104a719ff9fd66766c86b94809ef]
 
 *Extent: E+W+S+N.I.*
 
-##### Annual investment allowance[^key-1a98ef4ab5c694ae4329e59fe1a3b443]
+##### Annual investment allowance[^c-1a98ef4ab5c694ae4329e59fe1a3b443]
 
 *Extent: E+W+S+N.I.*
 
@@ -239,7 +239,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 52 — First-year allowances](part-2/section-52.md)
 
-##### Prevention of double relief[^key-b31eb6f12194e97199595467edca4e90]
+##### Prevention of double relief[^c-b31eb6f12194e97199595467edca4e90]
 
 - [Section 52A — Prevention of double relief](part-2/section-52a.md)
 
@@ -260,7 +260,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 58 — Initial allocation of qualifying expenditure to pools](part-2/section-58.md)
 - [Section 59 — Unrelieved qualifying expenditure](part-2/section-59.md)
 
-##### Special balancing charge in cases of full expensing etc[^key-3f2d4326db6c25d4ae2a4dcfba37689f]
+##### Special balancing charge in cases of full expensing etc[^c-3f2d4326db6c25d4ae2a4dcfba37689f]
 
 - [Section 59A — Disposal of assets where first-year allowance made under section 45S for expenditure which is not special rate expenditure](part-2/section-59a.md)
 - [Section 59B — Disposal of assets where first-year allowance made under section 45S for expenditure which is special rate expenditure](part-2/section-59b.md)
@@ -288,13 +288,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 66 — List of provisions outside this Chapter about disposal values](part-2/section-66.md)
 
-##### Application of Chapter to person leaving cash basis[^key-d10fa460c5c9f6e01d0f4f5daecadfb0]
+##### Application of Chapter to person leaving cash basis[^c-d10fa460c5c9f6e01d0f4f5daecadfb0]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 66A — Persons leaving cash basis](part-2/section-66a.md)
 
-##### Effect of changes in Northern Ireland status of SME company or SME partnership[^key-447838a15aa217140632d26856e4f98d]
+##### Effect of changes in Northern Ireland status of SME company or SME partnership[^c-447838a15aa217140632d26856e4f98d]
 
 *Extent: E+W+S+N.I.*
 
@@ -303,7 +303,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 66D — SME company leaving NI corporation tax regime](part-2/section-66d.md)
 - [Section 66E — SME partnership leaving NI corporation tax regime](part-2/section-66e.md)
 
-#### Chapter 6 — Hire-purchase etc. and plant or machinery provided by lessee[^key-661b09f8253ca07c6d062cb971343de3]
+#### Chapter 6 — Hire-purchase etc. and plant or machinery provided by lessee[^c-661b09f8253ca07c6d062cb971343de3]
 
 *Extent: E+W+S+N.I.*
 
@@ -321,7 +321,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 70 — Plant or machinery provided by lessee](part-2/section-70.md)
 
-##### Lessees under long funding leases[^key-1dfc5aa0249178ecbf946313acb2db3c]
+##### Lessees under long funding leases[^c-1dfc5aa0249178ecbf946313acb2db3c]
 
 - [Section 70A — Entitlement to capital allowances](part-2/section-70a.md)
 - [Section 70B — Long funding operating lease: amount of capital expenditure](part-2/section-70b.md)
@@ -330,52 +330,52 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 70DA — Transfer and long funding leaseback: restrictions on lessee's allowances](part-2/section-70da.md)
 - [Section 70E — Disposal events and disposal values](part-2/section-70e.md)
 
-#### Chapter 6A — Interpretation of provisions about long funding leases[^key-c61375a740fe9112c1f57d8bd179bfa0][^key-48887901acd07a8b344ff44347ab325f][^key-7e64a3fb4f08f8fd169d5e1f7d1c040a][^key-661b09f8253ca07c6d062cb971343de3][^key-e700e76611f740c2e901590a96329319][^key-5703efb87a689d0aca5dc79e67f642d9]
+#### Chapter 6A — Interpretation of provisions about long funding leases[^c-c61375a740fe9112c1f57d8bd179bfa0][^c-48887901acd07a8b344ff44347ab325f][^c-7e64a3fb4f08f8fd169d5e1f7d1c040a][^c-661b09f8253ca07c6d062cb971343de3][^c-e700e76611f740c2e901590a96329319][^c-5703efb87a689d0aca5dc79e67f642d9]
 
 *Extent: E+W+S+N.I.*
 
-##### Introductory[^key-5703efb87a689d0aca5dc79e67f642d9]
+##### Introductory[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 - [Section 70F — Introductory](part-2/section-70f.md)
 
-##### Meaning of “long funding lease” etc[^key-5703efb87a689d0aca5dc79e67f642d9]
+##### Meaning of “long funding lease” etc[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 - [Section 70G — “Long funding lease”](part-2/section-70g.md)
 - [Section 70H — Lessee: requirement for tax return treating lease as long funding lease](part-2/section-70h.md)
 - [Section 70I — “Short lease”](part-2/section-70i.md)
 - [Section 70J — “Funding lease”](part-2/section-70j.md)
 
-##### Meaning of “plant or machinery lease”[^key-5703efb87a689d0aca5dc79e67f642d9]
+##### Meaning of “plant or machinery lease”[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 - [Section 70K — “Plant or machinery lease”](part-2/section-70k.md)
 - [Section 70L — Plant or machinery leased with other assets: separate derived leases](part-2/section-70l.md)
 - [Section 70M — Derived leases of plant or machinery: term and rentals](part-2/section-70m.md)
 
-##### The tests for being a funding lease[^key-5703efb87a689d0aca5dc79e67f642d9]
+##### The tests for being a funding lease[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 - [Section 70N — The finance lease test](part-2/section-70n.md)
 - [Section 70O — The lease payments test](part-2/section-70o.md)
 - [Section 70P — The useful economic life test](part-2/section-70p.md)
 
-##### Leases excluded by right of lessor etc to claim capital allowances[^key-5703efb87a689d0aca5dc79e67f642d9]
+##### Leases excluded by right of lessor etc to claim capital allowances[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 - [Section 70Q — Leases excluded by right of lessor etc to claim capital allowances](part-2/section-70q.md)
 
-##### Excluded leases of background plant or machinery for a building[^key-5703efb87a689d0aca5dc79e67f642d9]
+##### Excluded leases of background plant or machinery for a building[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 - [Section 70R — Excluded leases of background plant or machinery for a building](part-2/section-70r.md)
 - [Section 70S — The disqualifications](part-2/section-70s.md)
 - [Section 70T — Orders relating to background plant or machinery for a building](part-2/section-70t.md)
 
-##### Exclusion for certain plant or machinery leased with land[^key-5703efb87a689d0aca5dc79e67f642d9]
+##### Exclusion for certain plant or machinery leased with land[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 - [Section 70U — Plant or machinery leased with land: low percentage value](part-2/section-70u.md)
 
-##### Avoidance[^key-5703efb87a689d0aca5dc79e67f642d9]
+##### Avoidance[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 - [Section 70V — Tax avoidance involving international leasing](part-2/section-70v.md)
 
-##### Transfers, assignments, novations, leaseback, variations etc[^key-5703efb87a689d0aca5dc79e67f642d9]
+##### Transfers, assignments, novations, leaseback, variations etc[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 - [Section 70W — Transfers, assignments etc by lessor](part-2/section-70w.md)
 - [Section 70X — Transfers, assignments etc by lessee](part-2/section-70x.md)
@@ -385,7 +385,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 70YC — Extension of term of lease that is not a long funding lease](part-2/section-70yc.md)
 - [Section 70YD — Increase in proportion of residual amount guaranteed: review of status](part-2/section-70yd.md)
 
-##### Interpretation[^key-5703efb87a689d0aca5dc79e67f642d9]
+##### Interpretation[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 - [Section 70YE — “Minimum lease payments”](part-2/section-70ye.md)
 - [Section 70YF — The “term” of a lease](part-2/section-70yf.md)
@@ -463,17 +463,17 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 103 — Later claims](part-2/section-103.md)
 - [Section 104 — Disposal value of long-life assets](part-2/section-104.md)
 
-#### Chapter 10A — Special rate expenditure[^key-c44cf10a55ef184e8b0ac49262ed6a26]
+#### Chapter 10A — Special rate expenditure[^c-c44cf10a55ef184e8b0ac49262ed6a26]
 
 *Extent: E+W+S+N.I.*
 
-##### Special rate expenditure[^key-c44cf10a55ef184e8b0ac49262ed6a26]
+##### Special rate expenditure[^c-c44cf10a55ef184e8b0ac49262ed6a26]
 
 - [Section 104A — Special rate expenditure](part-2/section-104a.md)
 - [Section 104AA — Meaning of “main rate car”](part-2/section-104aa.md)
 - [Section 104B — Application of Chapter to part of expenditure](part-2/section-104b.md)
 
-##### Rules applying to special rate expenditure[^key-c44cf10a55ef184e8b0ac49262ed6a26]
+##### Rules applying to special rate expenditure[^c-c44cf10a55ef184e8b0ac49262ed6a26]
 
 *Extent: E+W+S+N.I.*
 
@@ -538,7 +538,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 126 — Minor definitions](part-2/section-126.md)
 
-#### Chapter 12 — Ships[^key-661b09f8253ca07c6d062cb971343de3]
+#### Chapter 12 — Ships[^c-661b09f8253ca07c6d062cb971343de3]
 
 *Extent: E+W+S+N.I.*
 
@@ -622,7 +622,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 164 — General decommissioning expenditure incurred before cessation of ring fence trade](part-2/section-164.md)
 - [Section 165 — General decommissioning expenditure after ceasing ring fence trade](part-2/section-165.md)
 
-##### Restrictions on allowances: anti-avoidance[^key-5b9c04d740709b8d2c8a3afc906c1042]
+##### Restrictions on allowances: anti-avoidance[^c-5b9c04d740709b8d2c8a3afc906c1042]
 
 - [Section 165A — Decommissioning services supplied by connected person](part-2/section-165a.md)
 - [Section 165B — Restriction on allowance available](part-2/section-165b.md)
@@ -642,7 +642,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 170 — Participator’s expenditure attributable to plant or machinery](part-2/section-170.md)
 - [Section 171 — Disposal values on cessation of ownership](part-2/section-171.md)
 
-#### Chapter 14 — Fixtures[^key-b8184b95e0e6d1a82eeaaace30d953b8][^key-d03da92dd5e4b88aa6e7b821216d4cc0][^key-61884cd6d626db8c24cf70e799042b45]
+#### Chapter 14 — Fixtures[^c-b8184b95e0e6d1a82eeaaace30d953b8][^c-d03da92dd5e4b88aa6e7b821216d4cc0][^c-61884cd6d626db8c24cf70e799042b45]
 
 ##### Introduction
 
@@ -740,7 +740,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 211 — Single asset pool etc.](part-2/section-211.md)
 - [Section 212 — Reduction of allowances and charges on expenditure in single asset pool](part-2/section-212.md)
 
-#### CHAPTER 16ZA — Asset provided or used only partly for NI rate activity[^key-febc1cc50d555841149b0a41b7a285af]
+#### CHAPTER 16ZA — Asset provided or used only partly for NI rate activity[^c-febc1cc50d555841149b0a41b7a285af]
 
 - [Section 212ZA — Apportionment of expenditure incurred partly for NI rate activity](part-2/section-212za.md)
 - [Section 212ZB — Single asset pool etc](part-2/section-212zb.md)
@@ -749,16 +749,16 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 212ZE — Application of Chapter to partnerships](part-2/section-212ze.md)
 - [Section 212ZF — “Main rate activity”](part-2/section-212zf.md)
 
-#### Chapter 16A — Restrictions on allowance buying[^key-298a75262b587039f349fdea6d235f62][^key-a6156e02525f349b9c91679938aca72d]
+#### Chapter 16A — Restrictions on allowance buying[^c-298a75262b587039f349fdea6d235f62][^c-a6156e02525f349b9c91679938aca72d]
 
 *Extent: E+W+S+N.I.*
 
-##### Introduction[^key-298a75262b587039f349fdea6d235f62]
+##### Introduction[^c-298a75262b587039f349fdea6d235f62]
 
 - [Section 212A — Scope of Chapter](part-2/section-212a.md)
 - [Section 212B — Where Chapter applies](part-2/section-212b.md)
 
-##### Qualifying change[^key-298a75262b587039f349fdea6d235f62]
+##### Qualifying change[^c-298a75262b587039f349fdea6d235f62]
 
 - [Section 212C — When there is qualifying change in relation to C](part-2/section-212c.md)
 - [Section 212D — Guide to sections explaining section 212C](part-2/section-212d.md)
@@ -768,21 +768,21 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 212H — Ownership proportion](part-2/section-212h.md)
 - [Section 212I — Relevant percentage share](part-2/section-212i.md)
 
-##### Relevant excess of allowances[^key-298a75262b587039f349fdea6d235f62]
+##### Relevant excess of allowances[^c-298a75262b587039f349fdea6d235f62]
 
 - [Section 212J — Relevant excess of allowances](part-2/section-212j.md)
 - [Section 212K — Relevant tax written-down value](part-2/section-212k.md)
 - [Section 212L — Balance sheet value](part-2/section-212l.md)
 
-##### Limiting conditions[^key-6bb570d5edb213bf77bef0a58555b801][^key-298a75262b587039f349fdea6d235f62]
+##### Limiting conditions[^c-6bb570d5edb213bf77bef0a58555b801][^c-298a75262b587039f349fdea6d235f62]
 
 - [Section 212LA — Limiting conditions](part-2/section-212la.md)
 
-##### Unallowable purpose[^key-298a75262b587039f349fdea6d235f62]
+##### Unallowable purpose[^c-298a75262b587039f349fdea6d235f62]
 
 - [Section 212M — Unallowable purpose](part-2/section-212m.md)
 
-##### What happens when Chapter applies[^key-298a75262b587039f349fdea6d235f62]
+##### What happens when Chapter applies[^c-298a75262b587039f349fdea6d235f62]
 
 - [Section 212N — Old and new accounting periods](part-2/section-212n.md)
 - [Section 212O — When there is excess of allowances in pool: amount of excess](part-2/section-212o.md)
@@ -791,14 +791,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 212R — Apportionment of proceeds of disposal of relevant plant and machinery](part-2/section-212r.md)
 - [Section 212S — Transactions on relevant day](part-2/section-212s.md)
 
-#### CHAPTER 16B — Cap on first-year allowances...[^key-8721a374143753e2b185a8434fd7b8ab][^key-9c38ce7eded363d841271b16ee2ca2b2]
+#### CHAPTER 16B — Cap on first-year allowances...[^c-8721a374143753e2b185a8434fd7b8ab][^c-9c38ce7eded363d841271b16ee2ca2b2]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 212T — Cap on first-year allowances: zero-emission goods vehicles](part-2/section-212t.md)
 - [Section 212U — Cap on first-year allowances: expenditure on plant and machinery for use in designated assisted areas](part-2/section-212u.md)
 
-#### Chapter 17 — Other anti-avoidance[^key-21504f71ac6100ef100afbf344ed5dfc]
+#### Chapter 17 — Other anti-avoidance[^c-21504f71ac6100ef100afbf344ed5dfc]
 
 *Extent: E+W+S+N.I.*
 
@@ -819,7 +819,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 218ZB — Disposal values: section 215](part-2/section-218zb.md)
 - [Section 218A — Further restriction on annual investment allowance](part-2/section-218a.md)
 
-##### Finance leases and certain operating leases[^key-f36ba0d006c8fe65860f6030e42ac3e1]
+##### Finance leases and certain operating leases[^c-f36ba0d006c8fe65860f6030e42ac3e1]
 
 - [Section 219 — Meaning of “finance lease”](part-2/section-219.md)
 - [Section 220 — Allocation of expenditure to a chargeable period](part-2/section-220.md)
@@ -833,14 +833,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 225 — B’s qualifying expenditure if lessor not bearing non-compliance risk](part-2/section-225.md)
 - [Section 226 — Qualifying expenditure limited in subsequent transactions](part-2/section-226.md)
 
-##### Sale and leaseback: election for special treatment[^key-025fb10baa25fdaed44345b7f516bf6d]
+##### Sale and leaseback: election for special treatment[^c-025fb10baa25fdaed44345b7f516bf6d]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 227 — Sale and leaseback: election for special treatment](part-2/section-227.md)
 - [Section 228 — Effect of election: relaxation of restriction on B’s qualifying expenditure, etc.](part-2/section-228.md)
 
-##### Finance leaseback: parties' income and profits[^key-f4ac0e0ec46c6a6677536a519cd7c2a2]
+##### Finance leaseback: parties' income and profits[^c-f4ac0e0ec46c6a6677536a519cd7c2a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -854,7 +854,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 228H — Sections 228A to 228G: supplementary](part-2/section-228h.md)
 - [Section 228J — Plant or machinery subject to further operating lease](part-2/section-228j.md)
 
-##### Disposal of plant or machinery subject to lease where income retained[^key-a8de3bbcd99736e9202c62ea14f5c99d]
+##### Disposal of plant or machinery subject to lease where income retained[^c-a8de3bbcd99736e9202c62ea14f5c99d]
 
 *Extent: E+W+S+N.I.*
 
@@ -928,13 +928,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 251 — Professions and vocations](part-2/section-251.md)
 - [Section 252 — Mines, transport undertakings etc.](part-2/section-252.md)
 
-##### Companies with investment business[^key-0e70377a3ef96b437f08d03022fdd901]
+##### Companies with investment business[^c-0e70377a3ef96b437f08d03022fdd901]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 253 — Companies with investment business](part-2/section-253.md)
 
-##### Long-term business[^key-6e43a2a1f93499a6843c6d1520b5e44b]
+##### Long-term business[^c-6e43a2a1f93499a6843c6d1520b5e44b]
 
 *Extent: E+W+S+N.I.*
 
@@ -957,7 +957,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 262 — Employments and offices](part-2/section-262.md)
 
-##### First-year tax credits[^key-24cfc8f28b6d29e598533da7e21d7358]
+##### First-year tax credits[^c-24cfc8f28b6d29e598533da7e21d7358]
 
 - [Section 262A — First-year tax credits](part-2/section-262a.md)
 
@@ -965,7 +965,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S+N.I.*
 
-##### Co-ownership ... contractual schemes[^key-18b6232020d0001d9dbf020b95ca3a81][^key-e1f45c998040bc8dcb73a2e17fe8a488]
+##### Co-ownership ... contractual schemes[^c-18b6232020d0001d9dbf020b95ca3a81][^c-e1f45c998040bc8dcb73a2e17fe8a488]
 
 *Extent: E+W+S+N.I.*
 
@@ -989,7 +989,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 267A — Restriction on effect of election](part-2/section-267a.md)
 - [Section 268 — Successions by beneficiaries](part-2/section-268.md)
 
-##### Cars etc[^key-b8e82f16d4cd48154b2a7899b5d7f3ec]
+##### Cars etc[^c-b8e82f16d4cd48154b2a7899b5d7f3ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -1004,71 +1004,71 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 269 — Use of plant or machinery for business entertainment](part-2/section-269.md)
 - [Section 270 — Shares in plant or machinery](part-2/section-270.md)
 
-### PART 2A — STRUCTURES AND BUILDINGS ALLOWANCES[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+### PART 2A — STRUCTURES AND BUILDINGS ALLOWANCES[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — INTRODUCTION[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+#### CHAPTER 1 — INTRODUCTION[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270AA — Structures and buildings allowances](part-2a/section-270aa.md)
 - [Section 270AB — Date on which construction begins](part-2a/section-270ab.md)
 
-#### CHAPTER 2 — QUALIFYING EXPENDITURE[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+#### CHAPTER 2 — QUALIFYING EXPENDITURE[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
-##### Meaning of “qualifying expenditure”[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Meaning of “qualifying expenditure”[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270BA — Meaning of “qualifying expenditure”](part-2a/section-270ba.md)
 
-##### Qualifying expenditure incurred on construction[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Qualifying expenditure incurred on construction[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270BB — Capital expenditure incurred on construction](part-2a/section-270bb.md)
 
-##### Qualifying expenditure incurred on purchase[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Qualifying expenditure incurred on purchase[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270BC — Sale of unused buildings or structures (other than by a developer)](part-2a/section-270bc.md)
 - [Section 270BD — Sale by a developer: unused buildings or structures](part-2a/section-270bd.md)
 - [Section 270BE — Sale by a developer: used buildings or structures](part-2a/section-270be.md)
 - [Section 270BF — Meaning of references to carrying on trade as a developer](part-2a/section-270bf.md)
 
-##### Excluded expenditure[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Excluded expenditure[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270BG — Acquisition or alteration of land etc](part-2a/section-270bg.md)
 - [Section 270BH — Market value rule](part-2a/section-270bh.md)
 - [Section 270BI — Provision of plant or machinery](part-2a/section-270bi.md)
 
-##### Expenditure treated as expenditure on construction[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Expenditure treated as expenditure on construction[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270BJ — Expenditure on renovation, conversion or incidental repairs](part-2a/section-270bj.md)
 - [Section 270BK — Preparation of sites](part-2a/section-270bk.md)
 
-##### Supplementary provision about expenditure[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Supplementary provision about expenditure[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270BL — Apportionment of sums partly referable to non-qualifying assets](part-2a/section-270bl.md)
 - [Section 270BM — Evidence of the amount of expenditure](part-2a/section-270bm.md)
 - [Section 270BN — Expenditure incurred before qualifying activity carried on](part-2a/section-270bn.md)
 
-#### CHAPTER 2A — special tax site qualifying expenditure[^key-ddb104b0f24e34c1ab435e92e41c52ed][^key-63b259cb6f7aef6fc5b59b4dde260ee2][^key-15f8b06c5670eb08e9773d4e7f639291]
+#### CHAPTER 2A — special tax site qualifying expenditure[^c-ddb104b0f24e34c1ab435e92e41c52ed][^c-63b259cb6f7aef6fc5b59b4dde260ee2][^c-15f8b06c5670eb08e9773d4e7f639291]
 
 - [Section 270BNA — Meaning of “special tax site qualifying expenditure”](part-2a/section-270bna.md)
 - [Section 270BNB — Apportionment](part-2a/section-270bnb.md)
 - [Section 270BNC — Power to amend meaning of “special tax site qualifying expenditure” etc](part-2a/section-270bnc.md)
 
-#### CHAPTER 3 — QUALIFYING USE AND QUALIFYING ACTIVITIES[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+#### CHAPTER 3 — QUALIFYING USE AND QUALIFYING ACTIVITIES[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
-##### Qualifying activities[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Qualifying activities[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270CA — Qualifying activities](part-2a/section-270ca.md)
 - [Section 270CB — Property businesses](part-2a/section-270cb.md)
 - [Section 270CC — Foreign permanent establishments](part-2a/section-270cc.md)
 - [Section 270CD — Companies with investment business](part-2a/section-270cd.md)
 
-##### Qualifying use[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Qualifying use[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270CE — Qualifying use](part-2a/section-270ce.md)
 - [Section 270CF — Exclusion: residential use](part-2a/section-270cf.md)
 - [Section 270CG — Use for the purposes of a property business](part-2a/section-270cg.md)
 
-#### CHAPTER 4 — THE RELEVANT INTEREST IN THE BUILDING OR STRUCTURE[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+#### CHAPTER 4 — THE RELEVANT INTEREST IN THE BUILDING OR STRUCTURE[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270DA — General rule as to what is the relevant interest](part-2a/section-270da.md)
 - [Section 270DB — Interest acquired on completion of construction](part-2a/section-270db.md)
@@ -1076,7 +1076,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 270DD — Leases granted for 35 years or more](part-2a/section-270dd.md)
 - [Section 270DE — Merger of leasehold interest](part-2a/section-270de.md)
 
-#### CHAPTER 5 — CALCULATING THE ALLOWANCE: SUPPLEMENTARY PROVISION[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+#### CHAPTER 5 — CALCULATING THE ALLOWANCE: SUPPLEMENTARY PROVISION[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -1084,91 +1084,91 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 270EB — Multiple uses](part-2a/section-270eb.md)
 - [Section 270EC — Research and development](part-2a/section-270ec.md)
 
-#### CHAPTER 6 — HIGHWAY UNDERTAKINGS[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+#### CHAPTER 6 — HIGHWAY UNDERTAKINGS[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270FA — Carrying on of highway undertakings](part-2a/section-270fa.md)
 - [Section 270FB — The relevant interest](part-2a/section-270fb.md)
 - [Section 270FC — Cases where highway concession is to be treated as extended](part-2a/section-270fc.md)
 
-#### CHAPTER 7 — ADDITIONAL VAT LIABILITIES AND REBATES[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+#### CHAPTER 7 — ADDITIONAL VAT LIABILITIES AND REBATES[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
-##### Introduction[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Introduction[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270GA — Introduction](part-2a/section-270ga.md)
 
-##### Additional VAT liabilities[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Additional VAT liabilities[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270GB — Additional VAT liabilities](part-2a/section-270gb.md)
 
-##### Additional VAT rebates[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Additional VAT rebates[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270GC — Additional VAT rebates](part-2a/section-270gc.md)
 
-#### CHAPTER 7A — Adjustment for pre-April 2020 allowance[^M_F_d8288cc5-b1a7-4136-8ab2-9cf24422ed0b][^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+#### CHAPTER 7A — Adjustment for pre-April 2020 allowance[^M_F_d8288cc5-b1a7-4136-8ab2-9cf24422ed0b][^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270GD — Adjustment for pre-April 2020 allowance](part-2a/section-270gd.md)
 
-#### CHAPTER 8 — GIVING EFFECT TO ALLOWANCES[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+#### CHAPTER 8 — GIVING EFFECT TO ALLOWANCES[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
-##### Trades[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Trades[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270HA — Trades](part-2a/section-270ha.md)
 
-##### Property businesses[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Property businesses[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270HB — ... UK property businesses and ... overseas property businesses](part-2a/section-270hb.md)
 
-##### Activities analogous to trades[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Activities analogous to trades[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270HC — Professions and vocations](part-2a/section-270hc.md)
 - [Section 270HD — Mines, transport undertakings etc](part-2a/section-270hd.md)
 
-##### Companies with investment business[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Companies with investment business[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270HE — Companies with investment business](part-2a/section-270he.md)
 
-##### Long-term business[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Long-term business[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270HF — Application of sections 270HG and 270HH](part-2a/section-270hf.md)
 - [Section 270HG — Apportionment of allowances](part-2a/section-270hg.md)
 - [Section 270HH — Different giving effect rules for BLAGAB](part-2a/section-270hh.md)
 - [Section 270HI — Supplementary](part-2a/section-270hi.md)
 
-#### CHAPTER 9 — SUPPLEMENTARY PROVISIONS[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+#### CHAPTER 9 — SUPPLEMENTARY PROVISIONS[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
-##### Evidence of qualifying expenditure etc[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Evidence of qualifying expenditure etc[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270IA — Evidence of qualifying expenditure etc](part-2a/section-270ia.md)
 
-##### Anti-avoidance[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Anti-avoidance[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270IB — Anti-avoidance: general](part-2a/section-270ib.md)
 
-##### Co-ownership ... contractual schemes[^key-63b259cb6f7aef6fc5b59b4dde260ee2][^key-806fa2ba0f89cf03936b328dbbd06bd5]
+##### Co-ownership ... contractual schemes[^c-63b259cb6f7aef6fc5b59b4dde260ee2][^c-806fa2ba0f89cf03936b328dbbd06bd5]
 
 - [Section 270IC — Co-ownership schemes: carrying on qualifying activity](part-2a/section-270ic.md)
 - [Section 270ID — Co-ownership schemes: election](part-2a/section-270id.md)
 - [Section 270IE — Co-ownership schemes: calculation of allowance after an election](part-2a/section-270ie.md)
 - [Section 270IF — Co-ownership schemes: definitions relating to schemes](part-2a/section-270if.md)
 
-##### Leases[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+##### Leases[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 - [Section 270IG — Treatment of leases](part-2a/section-270ig.md)
 - [Section 270IH — Meaning of “lease” etc](part-2a/section-270ih.md)
 
-### Part 3 — Industrial buildings allowances[^key-3e3d3999650c5464b2853994d8e799be][^key-f2a0bd7f41e825092b2dd81790951dcc][^key-bedaf8fce6348aa67fec521c0779bc3c][^key-146ec1beba0e50d6581846d606f251c4][^key-bf3588047d7b7a1d859dd8e45d85828b][^key-e88eb372f45f4cc1746f9b4b958e09c5][^key-628a5f5fa45465234e045e67079bed4f][^key-3507198e4e311b901b0c302c85d4f748][^key-9110db95a01c0c29a5bddba26486e553]
+### Part 3 — Industrial buildings allowances[^c-3e3d3999650c5464b2853994d8e799be][^c-f2a0bd7f41e825092b2dd81790951dcc][^c-bedaf8fce6348aa67fec521c0779bc3c][^c-146ec1beba0e50d6581846d606f251c4][^c-bf3588047d7b7a1d859dd8e45d85828b][^c-e88eb372f45f4cc1746f9b4b958e09c5][^c-628a5f5fa45465234e045e67079bed4f][^c-3507198e4e311b901b0c302c85d4f748][^c-9110db95a01c0c29a5bddba26486e553]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Introduction[^key-9110db95a01c0c29a5bddba26486e553]
+#### Chapter 1 — Introduction[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 271 — Industrial buildings allowances](part-3/section-271.md)
 - [Section 272 — Expenditure on the construction of a building](part-3/section-272.md)
 - [Section 273 — Preparation of sites for plant or machinery](part-3/section-273.md)
 
-#### Chapter 2 — Industrial buildings[^key-9110db95a01c0c29a5bddba26486e553]
+#### Chapter 2 — Industrial buildings[^c-9110db95a01c0c29a5bddba26486e553]
 
-##### Buildings in use for the purposes of a qualifying trade[^key-9110db95a01c0c29a5bddba26486e553]
+##### Buildings in use for the purposes of a qualifying trade[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 274 — Trades and undertakings which are “qualifying trades”](part-3/section-274.md)
 - [Section 275 — Building used for welfare of workers](part-3/section-275.md)
@@ -1176,23 +1176,23 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 277 — Exclusion of dwelling-houses, retail shops, showrooms, hotels and offices etc.](part-3/section-277.md)
 - [Section 278 — Building used by more than one licensee](part-3/section-278.md)
 
-##### Qualifying hotels and sports pavilions[^key-9110db95a01c0c29a5bddba26486e553]
+##### Qualifying hotels and sports pavilions[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 279 — Qualifying hotels](part-3/section-279.md)
 - [Section 280 — Qualifying sports pavilions](part-3/section-280.md)
 
-##### Commercial buildings (enterprise zones)[^key-9110db95a01c0c29a5bddba26486e553]
+##### Commercial buildings (enterprise zones)[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 281 — Commercial buildings (enterprise zones)](part-3/section-281.md)
 
-##### Supplementary provisions[^key-9110db95a01c0c29a5bddba26486e553]
+##### Supplementary provisions[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 282 — Buildings outside the United Kingdom](part-3/section-282.md)
 - [Section 283 — Non-industrial part of building disregarded](part-3/section-283.md)
 - [Section 284 — Roads on industrial estates etc.](part-3/section-284.md)
 - [Section 285 — Cessation of use and temporary disuse of building](part-3/section-285.md)
 
-#### Chapter 3 — The relevant interest in the building[^key-9110db95a01c0c29a5bddba26486e553]
+#### Chapter 3 — The relevant interest in the building[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 286 — General rule as to what is the relevant interest](part-3/section-286.md)
 - [Section 287 — Interest acquired on completion of construction](part-3/section-287.md)
@@ -1201,41 +1201,41 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 290 — Election to treat grant of lease exceeding 50 years as sale](part-3/section-290.md)
 - [Section 291 — Supplementary provisions with respect to elections](part-3/section-291.md)
 
-#### Chapter 4 — Qualifying expenditure[^key-9110db95a01c0c29a5bddba26486e553]
+#### Chapter 4 — Qualifying expenditure[^c-9110db95a01c0c29a5bddba26486e553]
 
-##### Introduction[^key-9110db95a01c0c29a5bddba26486e553]
+##### Introduction[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 292 — Meaning of “qualifying expenditure”](part-3/section-292.md)
 - [Section 293 — Meaning of references to carrying on a trade as a developer](part-3/section-293.md)
 
-##### Qualifying expenditure[^key-9110db95a01c0c29a5bddba26486e553]
+##### Qualifying expenditure[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 294 — Capital expenditure on construction of a building](part-3/section-294.md)
 - [Section 295 — Purchase of unused building where developer not involved](part-3/section-295.md)
 - [Section 296 — Purchase of building which has been sold unused by developer](part-3/section-296.md)
 - [Section 297 — Purchase of used building from developer](part-3/section-297.md)
 
-##### Qualifying enterprise zone expenditure[^key-9110db95a01c0c29a5bddba26486e553]
+##### Qualifying enterprise zone expenditure[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 298 — The time limit for qualifying enterprise zone expenditure](part-3/section-298.md)
 - [Section 299 — Application of section 294](part-3/section-299.md)
 - [Section 300 — Application of sections 295 and 296](part-3/section-300.md)
 - [Section 301 — Purchase of building within 2 years of first use](part-3/section-301.md)
 
-##### Part of expenditure within time limit for qualifying enterprise zone expenditure[^key-9110db95a01c0c29a5bddba26486e553]
+##### Part of expenditure within time limit for qualifying enterprise zone expenditure[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 302 — Qualifying enterprise zone expenditure where section 295 or 296 applies](part-3/section-302.md)
 - [Section 303 — Purchase of building within 2 years of first use](part-3/section-303.md)
 - [Section 304 — Application of section 303 where developer involved](part-3/section-304.md)
 
-#### Chapter 5 — Initial allowances[^key-9110db95a01c0c29a5bddba26486e553]
+#### Chapter 5 — Initial allowances[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 305 — Initial allowances for qualifying enterprise zone expenditure](part-3/section-305.md)
 - [Section 306 — Amount of initial allowance and period for which allowance made](part-3/section-306.md)
 - [Section 307 — Building not industrial building when first used etc.](part-3/section-307.md)
 - [Section 308 — Grants affecting entitlement to initial allowances](part-3/section-308.md)
 
-#### Chapter 6 — Writing-down allowances[^key-f2a0bd7f41e825092b2dd81790951dcc][^key-628a5f5fa45465234e045e67079bed4f][^key-3507198e4e311b901b0c302c85d4f748][^key-9110db95a01c0c29a5bddba26486e553]
+#### Chapter 6 — Writing-down allowances[^c-f2a0bd7f41e825092b2dd81790951dcc][^c-628a5f5fa45465234e045e67079bed4f][^c-3507198e4e311b901b0c302c85d4f748][^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 309 — Entitlement to writing-down allowance](part-3/section-309.md)
 - [Section 310 — Basic rule for calculating amount of allowance](part-3/section-310.md)
@@ -1244,34 +1244,34 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 313 — Meaning of “the residue of qualifying expenditure”](part-3/section-313.md)
 - [Section 313A — Calculation of allowance after sale of relevant interest: anti-avoidance](part-3/section-313a.md)
 
-#### Chapter 7 — Balancing adjustments[^key-9110db95a01c0c29a5bddba26486e553]
+#### Chapter 7 — Balancing adjustments[^c-9110db95a01c0c29a5bddba26486e553]
 
-##### General[^key-9110db95a01c0c29a5bddba26486e553]
+##### General[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 314 — When balancing adjustments are made](part-3/section-314.md)
 - [Section 315 — Main balancing events](part-3/section-315.md)
 - [Section 316 — Proceeds from main balancing events](part-3/section-316.md)
 - [Section 317 — Balancing event where hotel not qualifying hotel for 2 years](part-3/section-317.md)
 
-##### Calculation of balancing adjustments[^key-9110db95a01c0c29a5bddba26486e553]
+##### Calculation of balancing adjustments[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 318 — Building an industrial building etc. throughout](part-3/section-318.md)
 - [Section 319 — Building not an industrial building etc. throughout](part-3/section-319.md)
 - [Section 320 — Overall limit on balancing charge](part-3/section-320.md)
 
-##### Meaning of “the relevant period of ownership” etc.[^key-9110db95a01c0c29a5bddba26486e553]
+##### Meaning of “the relevant period of ownership” etc.[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 321 — The relevant period of ownership](part-3/section-321.md)
 - [Section 322 — Starting expenditure](part-3/section-322.md)
 - [Section 323 — Adjusted net cost](part-3/section-323.md)
 - [Section 324 — Net allowances](part-3/section-324.md)
 
-##### Balancing allowances restricted where sale subject to subordinate interest[^key-9110db95a01c0c29a5bddba26486e553]
+##### Balancing allowances restricted where sale subject to subordinate interest[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 325 — Balancing allowances restricted where sale subject to subordinate interest](part-3/section-325.md)
 - [Section 326 — Interpretation of section 325](part-3/section-326.md)
 
-##### Qualifying enterprise zone expenditure: effect of realising capital value[^key-9110db95a01c0c29a5bddba26486e553]
+##### Qualifying enterprise zone expenditure: effect of realising capital value[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 327 — Capital value provisions: application of provisions](part-3/section-327.md)
 - [Section 328 — Balancing adjustment on realisation of capital value](part-3/section-328.md)
@@ -1279,7 +1279,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 330 — Exception for payments more than 7 years after agreement](part-3/section-330.md)
 - [Section 331 — Capital value provisions: interpretation](part-3/section-331.md)
 
-#### Chapter 8 — Writing off qualifying expenditure[^key-7725ddac11ff90973a19389370119d46][^key-f2a0bd7f41e825092b2dd81790951dcc][^key-9110db95a01c0c29a5bddba26486e553]
+#### Chapter 8 — Writing off qualifying expenditure[^c-7725ddac11ff90973a19389370119d46][^c-f2a0bd7f41e825092b2dd81790951dcc][^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 332 — Introduction](part-3/section-332.md)
 - [Section 333 — Writing off initial allowances](part-3/section-333.md)
@@ -1291,39 +1291,39 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 339 — Crown or other person not within the charge to tax entitled to the relevant interest](part-3/section-339.md)
 - [Section 340 — Treatment of demolition costs](part-3/section-340.md)
 
-#### Chapter 9 — Highway undertakings[^key-9110db95a01c0c29a5bddba26486e553]
+#### Chapter 9 — Highway undertakings[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 341 — Carrying on of highway undertakings](part-3/section-341.md)
 - [Section 342 — The relevant interest](part-3/section-342.md)
 - [Section 343 — Balancing adjustment on ending of concession](part-3/section-343.md)
 - [Section 344 — Cases where highway concession is to be treated as extended](part-3/section-344.md)
 
-#### Chapter 10 — Additional VAT liabilities and rebates[^key-9110db95a01c0c29a5bddba26486e553]
+#### Chapter 10 — Additional VAT liabilities and rebates[^c-9110db95a01c0c29a5bddba26486e553]
 
-##### Introduction[^key-9110db95a01c0c29a5bddba26486e553]
+##### Introduction[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 345 — Introduction](part-3/section-345.md)
 
-##### Additional VAT liabilities[^key-9110db95a01c0c29a5bddba26486e553]
+##### Additional VAT liabilities[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 346 — Additional VAT liabilities and initial allowances](part-3/section-346.md)
 - [Section 347 — Additional VAT liabilities and writing-down allowances](part-3/section-347.md)
 - [Section 348 — Additional VAT liabilities and writing off initial allowances](part-3/section-348.md)
 
-##### Additional VAT rebates[^key-9110db95a01c0c29a5bddba26486e553]
+##### Additional VAT rebates[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 349 — Additional VAT rebates and writing-down allowances](part-3/section-349.md)
 - [Section 350 — Additional VAT rebates and balancing adjustments](part-3/section-350.md)
 - [Section 351 — Additional VAT rebates and writing off qualifying expenditure](part-3/section-351.md)
 
-#### Chapter 11 — Giving effect to allowances and charges[^key-9110db95a01c0c29a5bddba26486e553]
+#### Chapter 11 — Giving effect to allowances and charges[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 352 — Trades](part-3/section-352.md)
 - [Section 353 — Lessors and licensors](part-3/section-353.md)
 - [Section 354 — Buildings temporarily out of use](part-3/section-354.md)
 - [Section 355 — Buildings for miners etc.: carry-back of balancing allowances](part-3/section-355.md)
 
-#### Chapter 12 — Supplementary provisions[^key-9110db95a01c0c29a5bddba26486e553]
+#### Chapter 12 — Supplementary provisions[^c-9110db95a01c0c29a5bddba26486e553]
 
 - [Section 356 — Apportionment of sums partly referable to non-qualifying assets](part-3/section-356.md)
 - [Section 357 — Arrangements having an artificial effect on pricing](part-3/section-357.md)
@@ -1331,60 +1331,60 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 359 — Provisions applying on termination of lease](part-3/section-359.md)
 - [Section 360 — Meaning of “lease” etc.](part-3/section-360.md)
 
-### Part 3A — Business Premises Renovation Allowances[^key-e55c9e0cbb84c78796990128c4d86b99]
+### Part 3A — Business Premises Renovation Allowances[^c-e55c9e0cbb84c78796990128c4d86b99]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — INTRODUCTION[^key-e55c9e0cbb84c78796990128c4d86b99]
+#### Chapter 1 — INTRODUCTION[^c-e55c9e0cbb84c78796990128c4d86b99]
 
 - [Section 360A — Business premises renovation allowances](part-3a/section-360a.md)
 
-#### Chapter 2 — QUALIFYING EXPENDITURE[^key-e55c9e0cbb84c78796990128c4d86b99]
+#### Chapter 2 — QUALIFYING EXPENDITURE[^c-e55c9e0cbb84c78796990128c4d86b99]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 360B — Meaning of “qualifying expenditure”](part-3a/section-360b.md)
 - [Section 360BA — Expenditure not treated as qualifying expenditure if delay in carrying out works etc](part-3a/section-360ba.md)
 
-#### Chapter 3 — QUALIFYING BUILDINGS AND QUALIFYING BUSINESS PREMISES[^key-e55c9e0cbb84c78796990128c4d86b99]
+#### Chapter 3 — QUALIFYING BUILDINGS AND QUALIFYING BUSINESS PREMISES[^c-e55c9e0cbb84c78796990128c4d86b99]
 
 - [Section 360C — Meaning of “qualifying building”](part-3a/section-360c.md)
 - [Section 360D — Meaning of “qualifying business premises”](part-3a/section-360d.md)
 
-#### Chapter 4 — THE RELEVANT INTEREST IN THE QUALIFYING BUILDING[^key-e55c9e0cbb84c78796990128c4d86b99]
+#### Chapter 4 — THE RELEVANT INTEREST IN THE QUALIFYING BUILDING[^c-e55c9e0cbb84c78796990128c4d86b99]
 
 - [Section 360E — General rule as to what is the relevant interest](part-3a/section-360e.md)
 - [Section 360F — Interest acquired on completion of conversion](part-3a/section-360f.md)
 
-#### Chapter 5 — INITIAL ALLOWANCES[^key-e55c9e0cbb84c78796990128c4d86b99]
+#### Chapter 5 — INITIAL ALLOWANCES[^c-e55c9e0cbb84c78796990128c4d86b99]
 
 - [Section 360G — Initial allowances](part-3a/section-360g.md)
 - [Section 360H — Premises not qualifying business premises or relevant interest sold before premises first used or let](part-3a/section-360h.md)
 
-#### Chapter 6 — WRITING-DOWN ALLOWANCES[^key-e55c9e0cbb84c78796990128c4d86b99]
+#### Chapter 6 — WRITING-DOWN ALLOWANCES[^c-e55c9e0cbb84c78796990128c4d86b99]
 
 - [Section 360I — Entitlement to writing-down allowances](part-3a/section-360i.md)
 - [Section 360J — Amount of allowance](part-3a/section-360j.md)
 - [Section 360K — Meaning of “ the residue of qualifying expenditure ”](part-3a/section-360k.md)
 
-#### Chapter 7 — GRANTS IN RESPECT OF QUALIFYING EXPENDITURE[^key-e55c9e0cbb84c78796990128c4d86b99]
+#### Chapter 7 — GRANTS IN RESPECT OF QUALIFYING EXPENDITURE[^c-e55c9e0cbb84c78796990128c4d86b99]
 
 - [Section 360L — Grants affecting entitlement to allowances](part-3a/section-360l.md)
 
-#### Chapter 8 — BALANCING ADJUSTMENTS[^key-e55c9e0cbb84c78796990128c4d86b99]
+#### Chapter 8 — BALANCING ADJUSTMENTS[^c-e55c9e0cbb84c78796990128c4d86b99]
 
 - [Section 360M — When balancing adjustments are made](part-3a/section-360m.md)
 - [Section 360N — Balancing events](part-3a/section-360n.md)
 - [Section 360O — Proceeds from balancing events](part-3a/section-360o.md)
 - [Section 360P — Calculation of balancing adjustments](part-3a/section-360p.md)
 
-#### Chapter 9 — WRITING OFF QUALIFYING EXPENDITURE[^key-e55c9e0cbb84c78796990128c4d86b99]
+#### Chapter 9 — WRITING OFF QUALIFYING EXPENDITURE[^c-e55c9e0cbb84c78796990128c4d86b99]
 
 - [Section 360Q — Introduction](part-3a/section-360q.md)
 - [Section 360R — Writing off initial allowances and writing-down allowances](part-3a/section-360r.md)
 - [Section 360S — Treatment of demolition costs](part-3a/section-360s.md)
 
-#### Chapter 10 — ADDITIONAL VAT LIABILITIES AND REBATES[^key-e55c9e0cbb84c78796990128c4d86b99]
+#### Chapter 10 — ADDITIONAL VAT LIABILITIES AND REBATES[^c-e55c9e0cbb84c78796990128c4d86b99]
 
 - [Section 360T — Introduction](part-3a/section-360t.md)
 - [Section 360U — Additional VAT liabilities and initial allowances](part-3a/section-360u.md)
@@ -1393,7 +1393,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 360X — Additional VAT rebates and balancing adjustments](part-3a/section-360x.md)
 - [Section 360Y — Additional VAT rebates and writing off qualifying expenditure](part-3a/section-360y.md)
 
-#### Chapter 11 — SUPPLEMENTARY PROVISIONS[^key-e55c9e0cbb84c78796990128c4d86b99]
+#### Chapter 11 — SUPPLEMENTARY PROVISIONS[^c-e55c9e0cbb84c78796990128c4d86b99]
 
 - [Section 360Z — Giving effect to allowances and charges: trades](part-3a/section-360z.md)
 - [Section 360Z1 — Giving effect to allowances and charges: lessors and licensees](part-3a/section-360z1.md)
@@ -1401,17 +1401,17 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 360Z3 — Provisions applying on termination of lease](part-3a/section-360z3.md)
 - [Section 360Z4 — Meaning of “lease” etc.](part-3a/section-360z4.md)
 
-### Part 4 — Agricultural buildings allowances[^key-bdec5fcb82dc09f8660d22eb77b5bacd][^key-9f70844198f57536148e142a2f693811]
+### Part 4 — Agricultural buildings allowances[^c-bdec5fcb82dc09f8660d22eb77b5bacd][^c-9f70844198f57536148e142a2f693811]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Introduction[^key-9f70844198f57536148e142a2f693811]
+#### Chapter 1 — Introduction[^c-9f70844198f57536148e142a2f693811]
 
 - [Section 361 — Agricultural buildings allowances](part-4/section-361.md)
 - [Section 362 — Meaning of “husbandry”](part-4/section-362.md)
 - [Section 363 — Expenditure on the construction of a building](part-4/section-363.md)
 
-#### Chapter 2 — The relevant interest[^key-9f70844198f57536148e142a2f693811]
+#### Chapter 2 — The relevant interest[^c-9f70844198f57536148e142a2f693811]
 
 - [Section 364 — General rule as to what is the relevant interest](part-4/section-364.md)
 - [Section 365 — Effect of creation of subordinate lease](part-4/section-365.md)
@@ -1419,13 +1419,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 367 — Merger of leasehold interest](part-4/section-367.md)
 - [Section 368 — Provisions applying on ending of lease](part-4/section-368.md)
 
-#### Chapter 3 — Qualifying expenditure[^key-9f70844198f57536148e142a2f693811]
+#### Chapter 3 — Qualifying expenditure[^c-9f70844198f57536148e142a2f693811]
 
 - [Section 369 — Capital expenditure on construction of agricultural building](part-4/section-369.md)
 - [Section 370 — Purchase of relevant interest before first use of agricultural building](part-4/section-370.md)
 - [Section 371 — Different relevant interests in different parts of the related agricultural land](part-4/section-371.md)
 
-#### Chapter 4 — Writing-down allowances[^key-9f70844198f57536148e142a2f693811]
+#### Chapter 4 — Writing-down allowances[^c-9f70844198f57536148e142a2f693811]
 
 - [Section 372 — Entitlement to writing-down allowance](part-4/section-372.md)
 - [Section 373 — Basic rule for calculating amount of allowance](part-4/section-373.md)
@@ -1436,9 +1436,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 378 — Allowance limited to residue of qualifying expenditure](part-4/section-378.md)
 - [Section 379 — Final writing-down allowance](part-4/section-379.md)
 
-#### Chapter 5 — Balancing adjustments[^key-9f70844198f57536148e142a2f693811]
+#### Chapter 5 — Balancing adjustments[^c-9f70844198f57536148e142a2f693811]
 
-##### General[^key-9f70844198f57536148e142a2f693811]
+##### General[^c-9f70844198f57536148e142a2f693811]
 
 - [Section 380 — When balancing adjustments are made](part-4/section-380.md)
 - [Section 381 — Balancing events (on making an election)](part-4/section-381.md)
@@ -1446,7 +1446,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 383 — Proceeds from balancing events](part-4/section-383.md)
 - [Section 384 — Exclusion of proportion of proceeds](part-4/section-384.md)
 
-##### Calculation of balancing adjustments[^key-9f70844198f57536148e142a2f693811]
+##### Calculation of balancing adjustments[^c-9f70844198f57536148e142a2f693811]
 
 - [Section 385 — Calculation of balancing adjustment](part-4/section-385.md)
 - [Section 386 — The residue of qualifying expenditure](part-4/section-386.md)
@@ -1455,36 +1455,36 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 389 — Balancing allowances restricted where sale subject to subordinate interest etc.](part-4/section-389.md)
 - [Section 390 — Interpretation of section 389](part-4/section-390.md)
 
-#### Chapter 6 — Supplementary provisions[^key-9f70844198f57536148e142a2f693811]
+#### Chapter 6 — Supplementary provisions[^c-9f70844198f57536148e142a2f693811]
 
-##### Giving effect to allowances and charges[^key-9f70844198f57536148e142a2f693811]
+##### Giving effect to allowances and charges[^c-9f70844198f57536148e142a2f693811]
 
 - [Section 391 — Trades](part-4/section-391.md)
 - [Section 392 — UK property businesses](part-4/section-392.md)
 
-##### Meaning of “freehold interest”, “lease” etc.[^key-9f70844198f57536148e142a2f693811]
+##### Meaning of “freehold interest”, “lease” etc.[^c-9f70844198f57536148e142a2f693811]
 
 - [Section 393 — Meaning of “freehold interest”, “lease”, etc.](part-4/section-393.md)
 
-### Part 4A — FLAT CONVERSION ALLOWANCES[^key-3570326454f20bc9a51331d6818710a8]
+### Part 4A — FLAT CONVERSION ALLOWANCES[^c-3570326454f20bc9a51331d6818710a8]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Chapter 1 — INTRODUCTION[^key-3570326454f20bc9a51331d6818710a8]
+#### Chapter 1 — INTRODUCTION[^c-3570326454f20bc9a51331d6818710a8]
 
 **No longer in force.**
 
 - [Section 393A — Flat conversion allowances](part-4a/section-393a.md)
 
-#### Chapter 2 — QUALIFYING EXPENDITURE[^key-3570326454f20bc9a51331d6818710a8]
+#### Chapter 2 — QUALIFYING EXPENDITURE[^c-3570326454f20bc9a51331d6818710a8]
 
 **No longer in force.**
 
 - [Section 393B — Meaning of “qualifying expenditure”](part-4a/section-393b.md)
 
-#### Chapter 3 — QUALIFYING BUILDINGS AND QUALIFYING FLATS[^key-3570326454f20bc9a51331d6818710a8]
+#### Chapter 3 — QUALIFYING BUILDINGS AND QUALIFYING FLATS[^c-3570326454f20bc9a51331d6818710a8]
 
 **No longer in force.**
 
@@ -1492,21 +1492,21 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 393D — Meaning of “qualifying flat”](part-4a/section-393d.md)
 - [Section 393E — High value flats](part-4a/section-393e.md)
 
-#### Chapter 4 — THE RELEVANT INTEREST IN THE FLAT[^key-3570326454f20bc9a51331d6818710a8]
+#### Chapter 4 — THE RELEVANT INTEREST IN THE FLAT[^c-3570326454f20bc9a51331d6818710a8]
 
 **No longer in force.**
 
 - [Section 393F — General rule as to what is the relevant interest](part-4a/section-393f.md)
 - [Section 393G — Interest acquired on completion of conversion](part-4a/section-393g.md)
 
-#### Chapter 5 — INITIAL ALLOWANCES[^key-3570326454f20bc9a51331d6818710a8]
+#### Chapter 5 — INITIAL ALLOWANCES[^c-3570326454f20bc9a51331d6818710a8]
 
 **No longer in force.**
 
 - [Section 393H — Initial allowances](part-4a/section-393h.md)
 - [Section 393I — Flat not qualifying flat or relevant interest sold before flat first let](part-4a/section-393i.md)
 
-#### Chapter 6 — WRITING-DOWN ALLOWANCES[^key-3570326454f20bc9a51331d6818710a8]
+#### Chapter 6 — WRITING-DOWN ALLOWANCES[^c-3570326454f20bc9a51331d6818710a8]
 
 **No longer in force.**
 
@@ -1514,7 +1514,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 393K — Amount of allowance](part-4a/section-393k.md)
 - [Section 393L — Meaning of “the residue of qualifying expenditure”](part-4a/section-393l.md)
 
-#### Chapter 7 — BALANCING ADJUSTMENTS[^key-3570326454f20bc9a51331d6818710a8]
+#### Chapter 7 — BALANCING ADJUSTMENTS[^c-3570326454f20bc9a51331d6818710a8]
 
 **No longer in force.**
 
@@ -1523,7 +1523,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 393O — Proceeds from balancing events](part-4a/section-393o.md)
 - [Section 393P — Calculation of balancing adjustments](part-4a/section-393p.md)
 
-#### Chapter 8 — WRITING OFF QUALIFYING EXPENDITURE[^key-3570326454f20bc9a51331d6818710a8]
+#### Chapter 8 — WRITING OFF QUALIFYING EXPENDITURE[^c-3570326454f20bc9a51331d6818710a8]
 
 **No longer in force.**
 
@@ -1531,7 +1531,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 393R — Writing off initial allowances and writing-down allowances](part-4a/section-393r.md)
 - [Section 393S — Treatment of demolition costs](part-4a/section-393s.md)
 
-#### Chapter 9 — SUPPLEMENTARY PROVISIONS[^key-3570326454f20bc9a51331d6818710a8]
+#### Chapter 9 — SUPPLEMENTARY PROVISIONS[^c-3570326454f20bc9a51331d6818710a8]
 
 **No longer in force.**
 
@@ -1893,7 +1893,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S+N.I.*
 
-##### Contribution allowances under Parts 2, 2A, 3, 4 and 5[^key-ef7f881998bb4d6e4668e1851e7cb150][^key-89a80ac15c17d6ce639e7b9ae5b9eaab]
+##### Contribution allowances under Parts 2, 2A, 3, 4 and 5[^c-ef7f881998bb4d6e4668e1851e7cb150][^c-89a80ac15c17d6ce639e7b9ae5b9eaab]
 
 *Extent: E+W+S+N.I.*
 
@@ -1916,7 +1916,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — LONG-TERM business[^key-819adf0bf582933d29b85b6dd48c0b87]
+#### Chapter 1 — LONG-TERM business[^c-819adf0bf582933d29b85b6dd48c0b87]
 
 *Extent: E+W+S+N.I.*
 
@@ -1995,7 +1995,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 569 — Election to treat sale as being for alternative amount](part-12/section-569.md)
 - [Section 570 — Elections: supplementary](part-12/section-570.md)
 
-##### Anti-avoidance[^key-a0e9221a13a0f56e1bca6882fe918b20]
+##### Anti-avoidance[^c-a0e9221a13a0f56e1bca6882fe918b20]
 
 - [Section 570A — Avoidance affecting proceeds of balancing event](part-12/section-570a.md)
 
@@ -2003,7 +2003,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S+N.I.*
 
-##### Orders and regulations[^key-0a4b8f1633054fb2a76c1f4da8166f9a]
+##### Orders and regulations[^c-0a4b8f1633054fb2a76c1f4da8166f9a]
 
 - [Section 570B — Orders and regulations made by Treasury or Commissioners](part-12/section-570b.md)
 
@@ -2040,198 +2040,198 @@ Schedules
 
 *Extent: E+W+S+N.I.*
 
-[^key-58164374b224977bd25ed3211ef93cfb]
+[^c-58164374b224977bd25ed3211ef93cfb]
 
 ## Annotations
 
-[^key-ef42097d62ae4008405bd4b83a8816fb]: Modification: Act construed as one with Capital Allowances Act 2001 (c. 2) (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 9 para. 37(4)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/9/paragraph/37/4) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-ef42097d62ae4008405bd4b83a8816fb]: Modification: Act construed as one with Capital Allowances Act 2001 (c. 2) (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 9 para. 37(4)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/9/paragraph/37/4) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-b583821bf91ca87f56cd99a2ec624819]: Modification: Act applied (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2004/20/schedule/9/paragraph/7) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-b583821bf91ca87f56cd99a2ec624819]: Modification: Act applied (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2004/20/schedule/9/paragraph/7) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-52be71577a07ab9a407be63e83b528c3]: Modification: 2005 c. 14, Sch. 10 construed as one with 2001 c. 2 (E.W.S.) (8.6.2005 for specified purposes, 24.7.2005 in so far as not already in force) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 para. 34(3)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/34/3); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-52be71577a07ab9a407be63e83b528c3]: Modification: 2005 c. 14, Sch. 10 construed as one with 2001 c. 2 (E.W.S.) (8.6.2005 for specified purposes, 24.7.2005 in so far as not already in force) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 para. 34(3)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/34/3); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-f38694ff269fe0c6ae254555581c1478]: Modification: Act modified (E.W.S.) (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 paras. 12-14](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/12); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-f38694ff269fe0c6ae254555581c1478]: Modification: Act modified (E.W.S.) (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 paras. 12-14](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/12); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-8ad0d4034d16b2c19b6621bfa286fce0]: Modification: Act modified by SI 2006/964 reg. 69V(6)(7) (as inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5))
+[^c-8ad0d4034d16b2c19b6621bfa286fce0]: Modification: Act modified by SI 2006/964 reg. 69V(6)(7) (as inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5))
 
-[^key-3002be0b62b006d85ac15afab669640e]: Modification: Act modified by SI 2006/964 reg. 69Z41(5)(6) (as inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5))
+[^c-3002be0b62b006d85ac15afab669640e]: Modification: Act modified by SI 2006/964 reg. 69Z41(5)(6) (as inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5))
 
-[^key-0fb924f166d22e77606d5aa4de8cae58]: Modification: Act modified (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 85(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/85/8)
+[^c-0fb924f166d22e77606d5aa4de8cae58]: Modification: Act modified (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 85(8)](https://www.legislation.gov.uk/ukpga/2008/9/section/85/8)
 
-[^key-33f4921c710c2c3a716e011dbb763e5b]: Modification: Crossrail Act 2008 (c. 18), Sch. 13 construed as one with this Act (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 3(5)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/3/5)
+[^c-33f4921c710c2c3a716e011dbb763e5b]: Modification: Crossrail Act 2008 (c. 18), Sch. 13 construed as one with this Act (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 3(5)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/3/5)
 
-[^key-3c08c8ec2d356a779837e7293df7b9b5]: Modification: Act modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 27(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/27/2)
+[^c-3c08c8ec2d356a779837e7293df7b9b5]: Modification: Act modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 27(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/27/2)
 
-[^key-ab5e2f259db26b600482a5dcd75ef76a]: Modification: Act modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 9(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/9/2)
+[^c-ab5e2f259db26b600482a5dcd75ef76a]: Modification: Act modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 9(2)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/9/2)
 
-[^key-57cc5dbd1b7b261b2a5b71dcd0e53c26]: Modification: Act modified (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Friendly Societies (Transfers of Other Business) (Modification of the Corporation Tax Acts) Regulations 2008 (S.I. 2008/1942)](https://www.legislation.gov.uk/uksi/2008/1942), [regs. 2](https://www.legislation.gov.uk/uksi/2008/1942/regulation/2), [8](https://www.legislation.gov.uk/uksi/2008/1942/regulation/8)
+[^c-57cc5dbd1b7b261b2a5b71dcd0e53c26]: Modification: Act modified (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Friendly Societies (Transfers of Other Business) (Modification of the Corporation Tax Acts) Regulations 2008 (S.I. 2008/1942)](https://www.legislation.gov.uk/uksi/2008/1942), [regs. 2](https://www.legislation.gov.uk/uksi/2008/1942/regulation/2), [8](https://www.legislation.gov.uk/uksi/2008/1942/regulation/8)
 
-[^key-e42a4e756a403248fbc430b0e87e7eab]: Modification: Act extended in part (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 184](https://www.legislation.gov.uk/ukpga/2010/4/section/184) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e42a4e756a403248fbc430b0e87e7eab]: Modification: Act extended in part (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 184](https://www.legislation.gov.uk/ukpga/2010/4/section/184) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-4e92b9e4644a10380f7dd6f6ea251738]: Modification: Act modified (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 948(1)-(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/948/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-4e92b9e4644a10380f7dd6f6ea251738]: Modification: Act modified (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 948(1)-(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/948/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-5accafb97cf96c0d3f33b2c27c2a878d]: Modification: Act modified (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 954(2)-(5)](https://www.legislation.gov.uk/ukpga/2010/4/section/954/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5accafb97cf96c0d3f33b2c27c2a878d]: Modification: Act modified (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 954(2)-(5)](https://www.legislation.gov.uk/ukpga/2010/4/section/954/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-b0524372ba898cb46ebb1a3174905850]: Modification: Act modified (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 955(2)-(6)](https://www.legislation.gov.uk/ukpga/2010/4/section/955/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b0524372ba898cb46ebb1a3174905850]: Modification: Act modified (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 955(2)-(6)](https://www.legislation.gov.uk/ukpga/2010/4/section/955/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-32a77741be9d90e1beff589da264486a]: Modification: Act applied (with modifications) by 2005 c. 5 s. 825A (as substituted (with effect in accordance with s. 3(4) of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2010/33/section/3/3) (with [s. 3(5)](https://www.legislation.gov.uk/ukpga/2010/33/section/3/5)))
+[^c-32a77741be9d90e1beff589da264486a]: Modification: Act applied (with modifications) by 2005 c. 5 s. 825A (as substituted (with effect in accordance with s. 3(4) of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2010/33/section/3/3) (with [s. 3(5)](https://www.legislation.gov.uk/ukpga/2010/33/section/3/5)))
 
-[^key-3f9aa7987c413412d2cf88244fbc5c4d]: Modification: Act modified (7.8.2015) by [The Housing and Regeneration Transfer Schemes (Tax Consequences) Regulations 2015 (S.I. 2015/1540)](https://www.legislation.gov.uk/uksi/2015/1540), [reg. 7(2)-(7)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/7/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2015/1540/regulation/3), [7(1)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/7/1)[(9)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/7/9))
+[^c-3f9aa7987c413412d2cf88244fbc5c4d]: Modification: Act modified (7.8.2015) by [The Housing and Regeneration Transfer Schemes (Tax Consequences) Regulations 2015 (S.I. 2015/1540)](https://www.legislation.gov.uk/uksi/2015/1540), [reg. 7(2)-(7)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/7/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2015/1540/regulation/3), [7(1)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/7/1)[(9)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/7/9))
 
-[^key-c679b9a6380dac0a517e6e8d4abdceb6]: Modification: Act modified (7.8.2015) by [The Housing and Regeneration Transfer Schemes (Tax Consequences) Regulations 2015 (S.I. 2015/1540)](https://www.legislation.gov.uk/uksi/2015/1540), [reg. 8(4)(a)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/4/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2015/1540/regulation/3), [8(1)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/1)[(6)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/6))
+[^c-c679b9a6380dac0a517e6e8d4abdceb6]: Modification: Act modified (7.8.2015) by [The Housing and Regeneration Transfer Schemes (Tax Consequences) Regulations 2015 (S.I. 2015/1540)](https://www.legislation.gov.uk/uksi/2015/1540), [reg. 8(4)(a)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/4/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2015/1540/regulation/3), [8(1)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/1)[(6)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/6))
 
-[^key-1c140b85ce5396bb6f60546dec9dc3c3]: Modification: Act modified (7.8.2015) by [The Housing and Regeneration Transfer Schemes (Tax Consequences) Regulations 2015 (S.I. 2015/1540)](https://www.legislation.gov.uk/uksi/2015/1540), [reg. 8(5)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/5) (with [regs. 3](https://www.legislation.gov.uk/uksi/2015/1540/regulation/3), [8(1)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/1)[(6)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/6))
+[^c-1c140b85ce5396bb6f60546dec9dc3c3]: Modification: Act modified (7.8.2015) by [The Housing and Regeneration Transfer Schemes (Tax Consequences) Regulations 2015 (S.I. 2015/1540)](https://www.legislation.gov.uk/uksi/2015/1540), [reg. 8(5)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/5) (with [regs. 3](https://www.legislation.gov.uk/uksi/2015/1540/regulation/3), [8(1)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/1)[(6)](https://www.legislation.gov.uk/uksi/2015/1540/regulation/8/6))
 
-[^key-d34e4293b5137ab8206a1aaae96ec631]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2001/2): power to amend conferred (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 30(1)](https://www.legislation.gov.uk/ukpga/2019/1/section/30/1)
+[^c-d34e4293b5137ab8206a1aaae96ec631]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2001/2): power to amend conferred (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 30(1)](https://www.legislation.gov.uk/ukpga/2019/1/section/30/1)
 
-[^key-d8a85334f1fc0d85a40f42c6328a48e5]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2001/2) excluded (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 3 paras. 4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/3/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/2025/8/schedule/3/paragraph/6)
+[^c-d8a85334f1fc0d85a40f42c6328a48e5]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2001/2) excluded (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 3 paras. 4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/3/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/2025/8/schedule/3/paragraph/6)
 
-[^key-8affe371a4c0f1618fd4056236544418]: Textual amendment: Pt. 1 Ch. 1A inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/2)
+[^c-8affe371a4c0f1618fd4056236544418]: Textual amendment: Pt. 1 Ch. 1A inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/2)
 
-[^key-395c7ef838259544a6ee516c31a907ad]: Modification: Pt. 2 modified (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/10/paragraph/12) (with [Sch. 10 para. 17(1)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/10/paragraph/17/1)); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3) [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-395c7ef838259544a6ee516c31a907ad]: Modification: Pt. 2 modified (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/10/paragraph/12) (with [Sch. 10 para. 17(1)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/10/paragraph/17/1)); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3) [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-accc0b7f402671ba9a1876244977d3a8]: Modification: Pt. 2 restricted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) , s. 198(2) , Sch. 9 paras. 10, 22 (with s. 38(2) ); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575) , art. 2(1) , Sch. 1
+[^c-accc0b7f402671ba9a1876244977d3a8]: Modification: Pt. 2 restricted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) , s. 198(2) , Sch. 9 paras. 10, 22 (with s. 38(2) ); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575) , art. 2(1) , Sch. 1
 
-[^key-5185999e4b571fa8525d1bad1fff7468]: Modification: Pt. 2 modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) , s. 198(2) , Sch. 9 paras. 9(2), 21(2) (with s. 38(2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-5185999e4b571fa8525d1bad1fff7468]: Modification: Pt. 2 modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) , s. 198(2) , Sch. 9 paras. 9(2), 21(2) (with s. 38(2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-d07bb78491f822cf913ed964f61c3121]: Modification: Pt. 2 restricted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) , [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2) , [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2004/20/schedule/4/paragraph/4) ; [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-d07bb78491f822cf913ed964f61c3121]: Modification: Pt. 2 restricted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) , [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2) , [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2004/20/schedule/4/paragraph/4) ; [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-b8184b95e0e6d1a82eeaaace30d953b8]: Modification: Pt. 2 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 19](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/19)
+[^c-b8184b95e0e6d1a82eeaaace30d953b8]: Modification: Pt. 2 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 19](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/19)
 
-[^key-d03da92dd5e4b88aa6e7b821216d4cc0]: Modification: Pt. 2 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/35)
+[^c-d03da92dd5e4b88aa6e7b821216d4cc0]: Modification: Pt. 2 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 35](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/35)
 
-[^key-61884cd6d626db8c24cf70e799042b45]: Modification: Pt. 2 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 paras. 36](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/36), [37](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/37)
+[^c-61884cd6d626db8c24cf70e799042b45]: Modification: Pt. 2 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 paras. 36](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/36), [37](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/37)
 
-[^key-dd714b8ad190d5f08e16834d74b4ca9e]: Modification: Pt. 2 modified (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 24](https://www.legislation.gov.uk/ukpga/2009/10/section/24)
+[^c-dd714b8ad190d5f08e16834d74b4ca9e]: Modification: Pt. 2 modified (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 24](https://www.legislation.gov.uk/ukpga/2009/10/section/24)
 
-[^key-7242754a9c491a309af36b3f71ed2c64]: Modification: Pt. 2 modified (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 73(7)-(11)](https://www.legislation.gov.uk/ukpga/2013/29/section/73/7) (with [s. 73(6)](https://www.legislation.gov.uk/ukpga/2013/29/section/73/6))
+[^c-7242754a9c491a309af36b3f71ed2c64]: Modification: Pt. 2 modified (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 73(7)-(11)](https://www.legislation.gov.uk/ukpga/2013/29/section/73/7) (with [s. 73(6)](https://www.legislation.gov.uk/ukpga/2013/29/section/73/6))
 
-[^key-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
+[^c-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
 
-[^key-336b57290d15b72a514bdbaec8668f4f]: Textual amendment: Words in s. 27 cross-heading substituted (with effect in accordance with Sch. 39 para. 35 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 34(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/34/3/b)
+[^c-336b57290d15b72a514bdbaec8668f4f]: Textual amendment: Words in s. 27 cross-heading substituted (with effect in accordance with Sch. 39 para. 35 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 34(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/34/3/b)
 
-[^key-b586b148267f107b6ecea18649bffa71]: Textual amendment: Ss. 33A, 33B and cross-heading inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/2)
+[^c-b586b148267f107b6ecea18649bffa71]: Textual amendment: Ss. 33A, 33B and cross-heading inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/2)
 
-[^key-83f8ee09957daf1a5ce469a4c54bd46f]: Textual amendment: Pt. 2 Ch. 3A inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/2)
+[^c-83f8ee09957daf1a5ce469a4c54bd46f]: Textual amendment: Pt. 2 Ch. 3A inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/2)
 
-[^key-8bbf704f9d46944dd7a2b2899fb7a514]: Modification: Pt. 2 modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) , [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2) , [Sch. 9 para. 21(2)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/9/paragraph/21/2) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2) ); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-8bbf704f9d46944dd7a2b2899fb7a514]: Modification: Pt. 2 modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) , [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2) , [Sch. 9 para. 21(2)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/9/paragraph/21/2) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2) ); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-afdf16903dae9a43057a2a478656bd7e]: Modification: Pt. 2 restricted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) , [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2) , [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2004/20/schedule/9/paragraph/10) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2) ); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-afdf16903dae9a43057a2a478656bd7e]: Modification: Pt. 2 restricted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) , [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2) , [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2004/20/schedule/9/paragraph/10) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2) ); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-27e2104a719ff9fd66766c86b94809ef]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/2/part/2) modified (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 7](https://www.legislation.gov.uk/ukpga/2023/30/section/7)
+[^c-27e2104a719ff9fd66766c86b94809ef]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/2/part/2) modified (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 7](https://www.legislation.gov.uk/ukpga/2023/30/section/7)
 
-[^key-1a98ef4ab5c694ae4329e59fe1a3b443]: Textual amendment: Ss. 51A-51N and cross-heading inserted (with effect in accordance with Sch. 24 para. 23 to the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/3)
+[^c-1a98ef4ab5c694ae4329e59fe1a3b443]: Textual amendment: Ss. 51A-51N and cross-heading inserted (with effect in accordance with Sch. 24 para. 23 to the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/3)
 
-[^key-b31eb6f12194e97199595467edca4e90]: Textual amendment: S. 52A and cross-heading inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/4)
+[^c-b31eb6f12194e97199595467edca4e90]: Textual amendment: S. 52A and cross-heading inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/4)
 
-[^key-3f2d4326db6c25d4ae2a4dcfba37689f]: Textual amendment: [Ss. 59A-59C](https://www.legislation.gov.uk/ukpga/2001/2/section/59A) and cross-heading inserted (22.2.2024) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 7(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/7/6) (as amended by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 1(2)](https://www.legislation.gov.uk/ukpga/2024/3/section/1/2))
+[^c-3f2d4326db6c25d4ae2a4dcfba37689f]: Textual amendment: [Ss. 59A-59C](https://www.legislation.gov.uk/ukpga/2001/2/section/59A) and cross-heading inserted (22.2.2024) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 7(6)](https://www.legislation.gov.uk/ukpga/2023/30/section/7/6) (as amended by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 1(2)](https://www.legislation.gov.uk/ukpga/2024/3/section/1/2))
 
-[^key-d10fa460c5c9f6e01d0f4f5daecadfb0]: Textual amendment: S. 66A and cross-heading inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 48](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/48)
+[^c-d10fa460c5c9f6e01d0f4f5daecadfb0]: Textual amendment: S. 66A and cross-heading inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 48](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/48)
 
-[^key-447838a15aa217140632d26856e4f98d]: Textual amendment: Ss. 66B-66E and cross-heading inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/7)
+[^c-447838a15aa217140632d26856e4f98d]: Textual amendment: Ss. 66B-66E and cross-heading inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/7)
 
-[^key-1dfc5aa0249178ecbf946313acb2db3c]: Textual amendment: Ss. 70A-70E and cross-heading inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/6)
+[^c-1dfc5aa0249178ecbf946313acb2db3c]: Textual amendment: Ss. 70A-70E and cross-heading inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/6)
 
-[^key-c61375a740fe9112c1f57d8bd179bfa0]: Modification: Pt. 2 Ch. 6A applied (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 11(12)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/11/12)
+[^c-c61375a740fe9112c1f57d8bd179bfa0]: Modification: Pt. 2 Ch. 6A applied (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 11(12)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/11/12)
 
-[^key-48887901acd07a8b344ff44347ab325f]: Modification: Pt. 2 Ch. 6A applied (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 33 para. 9(c)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/33/paragraph/9/c)
+[^c-48887901acd07a8b344ff44347ab325f]: Modification: Pt. 2 Ch. 6A applied (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 33 para. 9(c)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/33/paragraph/9/c)
 
-[^key-7e64a3fb4f08f8fd169d5e1f7d1c040a]: Modification: Pt. 2 Ch. 6A applied (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 381(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/381/1), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-7e64a3fb4f08f8fd169d5e1f7d1c040a]: Modification: Pt. 2 Ch. 6A applied (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 381(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/381/1), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-e700e76611f740c2e901590a96329319]: Modification: [Pt. 2 Ch. 6A](https://www.legislation.gov.uk/ukpga/2001/2/part/2/chapter/6A) modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 17](https://www.legislation.gov.uk/ukpga/2021/26/section/17)
+[^c-e700e76611f740c2e901590a96329319]: Modification: [Pt. 2 Ch. 6A](https://www.legislation.gov.uk/ukpga/2001/2/part/2/chapter/6A) modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 17](https://www.legislation.gov.uk/ukpga/2021/26/section/17)
 
-[^key-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)
+[^c-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)
 
-[^key-c44cf10a55ef184e8b0ac49262ed6a26]: Textual amendment: Pt. 2 Ch. 10A inserted (with effect in accordance with Sch. 26 para. 14 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 26 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/26/paragraph/2)
+[^c-c44cf10a55ef184e8b0ac49262ed6a26]: Textual amendment: Pt. 2 Ch. 10A inserted (with effect in accordance with Sch. 26 para. 14 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 26 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/26/paragraph/2)
 
 [^c1880004]: Textual amendment: Ss. 161A-161D and crossheading inserted (with effect as mentioned in Sch. 20 para. 9(1)-(4)(8) of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [s. 68](https://www.legislation.gov.uk/ukpga/2001/9/section/68), [Sch. 20 para. 5(1)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/20/paragraph/5/1)
 
-[^key-5b9c04d740709b8d2c8a3afc906c1042]: Textual amendment: [Ss. 165A-165E](https://www.legislation.gov.uk/ukpga/2001/2/section/165A) and cross-heading inserted (with effect in accordance with Sch. 32 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 32 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/32/paragraph/2)
+[^c-5b9c04d740709b8d2c8a3afc906c1042]: Textual amendment: [Ss. 165A-165E](https://www.legislation.gov.uk/ukpga/2001/2/section/165A) and cross-heading inserted (with effect in accordance with Sch. 32 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 32 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/32/paragraph/2)
 
-[^key-febc1cc50d555841149b0a41b7a285af]: Textual amendment: Pt. 2 Ch. 16ZA inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/8)
+[^c-febc1cc50d555841149b0a41b7a285af]: Textual amendment: Pt. 2 Ch. 16ZA inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/8)
 
-[^key-298a75262b587039f349fdea6d235f62]: Textual amendment: Pt. 2 Ch. 16A inserted (8.4.2010) (with effect in accordance with Sch. 4 para. 5, 6 to the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/4/paragraph/2)
+[^c-298a75262b587039f349fdea6d235f62]: Textual amendment: Pt. 2 Ch. 16A inserted (8.4.2010) (with effect in accordance with Sch. 4 para. 5, 6 to the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/4/paragraph/2)
 
-[^key-a6156e02525f349b9c91679938aca72d]: Textual amendment: Pt. 2 Ch. 16A heading substituted (with effect in accordance with Sch. 26 para. 13 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 26 para. 4](https://www.legislation.gov.uk/ukpga/2013/29/schedule/26/paragraph/4)
+[^c-a6156e02525f349b9c91679938aca72d]: Textual amendment: Pt. 2 Ch. 16A heading substituted (with effect in accordance with Sch. 26 para. 13 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 26 para. 4](https://www.legislation.gov.uk/ukpga/2013/29/schedule/26/paragraph/4)
 
-[^key-6bb570d5edb213bf77bef0a58555b801]: Textual amendment: [S. 212LA](https://www.legislation.gov.uk/ukpga/2001/2/section/212LA) and cross-heading inserted (with effect in accordance with Sch. 26 para. 13 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 26 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/26/paragraph/3)
+[^c-6bb570d5edb213bf77bef0a58555b801]: Textual amendment: [S. 212LA](https://www.legislation.gov.uk/ukpga/2001/2/section/212LA) and cross-heading inserted (with effect in accordance with Sch. 26 para. 13 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 26 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/26/paragraph/3)
 
-[^key-8721a374143753e2b185a8434fd7b8ab]: Textual amendment: Pt. 2 Ch. 16B inserted (with effect in accordance with Sch. 7 para. 7 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2010/33/schedule/7/paragraph/6)
+[^c-8721a374143753e2b185a8434fd7b8ab]: Textual amendment: Pt. 2 Ch. 16B inserted (with effect in accordance with Sch. 7 para. 7 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2010/33/schedule/7/paragraph/6)
 
-[^key-9c38ce7eded363d841271b16ee2ca2b2]: Textual amendment: Words in Pt. 2 Ch. 16B heading omitted (with effect in accordance with Sch. 11 para. 8 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 11 para. 7(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/11/paragraph/7/2)
+[^c-9c38ce7eded363d841271b16ee2ca2b2]: Textual amendment: Words in Pt. 2 Ch. 16B heading omitted (with effect in accordance with Sch. 11 para. 8 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 11 para. 7(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/11/paragraph/7/2)
 
-[^key-21504f71ac6100ef100afbf344ed5dfc]: Textual amendment: Pt. 2 Ch. 17 heading substituted (8.4.2010) (with effect in accordance with Sch. 4 para. 5 to the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2010/13/schedule/4/paragraph/3)
+[^c-21504f71ac6100ef100afbf344ed5dfc]: Textual amendment: Pt. 2 Ch. 17 heading substituted (8.4.2010) (with effect in accordance with Sch. 4 para. 5 to the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2010/13/schedule/4/paragraph/3)
 
-[^key-f36ba0d006c8fe65860f6030e42ac3e1]: Textual amendment: S. 219 cross-heading substituted (with effect in accordance with Sch. 9 para. 15(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 9 para. 15(5)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/9/paragraph/15/5)
+[^c-f36ba0d006c8fe65860f6030e42ac3e1]: Textual amendment: S. 219 cross-heading substituted (with effect in accordance with Sch. 9 para. 15(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 9 para. 15(5)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/9/paragraph/15/5)
 
-[^key-025fb10baa25fdaed44345b7f516bf6d]: Textual amendment: S. 227 heading heading substituted (with effect in accordance with Sch. 20 para. 6(19) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 6(13)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/6/13/b)
+[^c-025fb10baa25fdaed44345b7f516bf6d]: Textual amendment: S. 227 heading heading substituted (with effect in accordance with Sch. 20 para. 6(19) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 6(13)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/6/13/b)
 
-[^key-f4ac0e0ec46c6a6677536a519cd7c2a2]: Textual amendment: Ss. 228A-228J and cross-heading inserted (with effect in accordance with s. 134(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 134](https://www.legislation.gov.uk/ukpga/2004/12/section/134)
+[^c-f4ac0e0ec46c6a6677536a519cd7c2a2]: Textual amendment: Ss. 228A-228J and cross-heading inserted (with effect in accordance with s. 134(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 134](https://www.legislation.gov.uk/ukpga/2004/12/section/134)
 
-[^key-a8de3bbcd99736e9202c62ea14f5c99d]: Textual amendment: Ss. 228K-228M and cross-heading inserted (with effect in accordance with s. 84(5)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/84/3)
+[^c-a8de3bbcd99736e9202c62ea14f5c99d]: Textual amendment: Ss. 228K-228M and cross-heading inserted (with effect in accordance with s. 84(5)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/84/3)
 
-[^key-0e70377a3ef96b437f08d03022fdd901]: Textual amendment: S. 253 heading substituted (with effect in accordance with art. 1(2) of the commencing S.I.) by [Finance Act 2004, Sections 38 to 40 and 45 and Schedule 6 (Consequential Amendments of Enactments) Order 2004 (S.I. 2004/2310)](https://www.legislation.gov.uk/uksi/2004/2310) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/2310/article/1/2) , [Sch. para. 54(3)](https://www.legislation.gov.uk/uksi/2004/2310/schedule/paragraph/54/3)
+[^c-0e70377a3ef96b437f08d03022fdd901]: Textual amendment: S. 253 heading substituted (with effect in accordance with art. 1(2) of the commencing S.I.) by [Finance Act 2004, Sections 38 to 40 and 45 and Schedule 6 (Consequential Amendments of Enactments) Order 2004 (S.I. 2004/2310)](https://www.legislation.gov.uk/uksi/2004/2310) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/2310/article/1/2) , [Sch. para. 54(3)](https://www.legislation.gov.uk/uksi/2004/2310/schedule/paragraph/54/3)
 
-[^key-6e43a2a1f93499a6843c6d1520b5e44b]: Textual amendment: Words in s. 254 heading substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 96](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/96)
+[^c-6e43a2a1f93499a6843c6d1520b5e44b]: Textual amendment: Words in s. 254 heading substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 96](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/96)
 
-[^key-24cfc8f28b6d29e598533da7e21d7358]: Textual amendment: S. 262A and cross-heading inserted (with effect in accordance with Sch. 25 para. 9 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 25 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/25/paragraph/4)
+[^c-24cfc8f28b6d29e598533da7e21d7358]: Textual amendment: S. 262A and cross-heading inserted (with effect in accordance with Sch. 25 para. 9 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 25 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/25/paragraph/4)
 
-[^key-18b6232020d0001d9dbf020b95ca3a81]: Textual amendment: Ss. 262AA-262AF and cross-heading inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 40](https://www.legislation.gov.uk/ukpga/2017/32/section/40)
+[^c-18b6232020d0001d9dbf020b95ca3a81]: Textual amendment: Ss. 262AA-262AF and cross-heading inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 40](https://www.legislation.gov.uk/ukpga/2017/32/section/40)
 
-[^key-e1f45c998040bc8dcb73a2e17fe8a488]: Textual amendment: Word in [s. 262AA cross-heading](https://www.legislation.gov.uk/ukpga/2001/2/chapter/20/crossheading/coownership-authorised-contractual-schemes) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [55(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/55/2) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-e1f45c998040bc8dcb73a2e17fe8a488]: Textual amendment: Word in [s. 262AA cross-heading](https://www.legislation.gov.uk/ukpga/2001/2/chapter/20/crossheading/coownership-authorised-contractual-schemes) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [55(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/55/2) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-b8e82f16d4cd48154b2a7899b5d7f3ec]: Textual amendment: Ss. 268A-268C and cross-heading inserted (with effect in accordance with Sch. 11 paras. 26, 27, 28(1) to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/11) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))
+[^c-b8e82f16d4cd48154b2a7899b5d7f3ec]: Textual amendment: Ss. 268A-268C and cross-heading inserted (with effect in accordance with Sch. 11 paras. 26, 27, 28(1) to the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/11) (with [Sch. 11 paras. 30-32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/30))
 
-[^key-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)
+[^c-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)
 
-[^key-ddb104b0f24e34c1ab435e92e41c52ed]: Textual amendment: Pt. 2A Ch. 2A inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/22/paragraph/10)
+[^c-ddb104b0f24e34c1ab435e92e41c52ed]: Textual amendment: Pt. 2A Ch. 2A inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/22/paragraph/10)
 
-[^key-15f8b06c5670eb08e9773d4e7f639291]: Textual amendment: Words in [Pt. 2A Ch. 2A](https://www.legislation.gov.uk/ukpga/2001/2/part/2A/chapter/2A) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 13(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/13/b)
+[^c-15f8b06c5670eb08e9773d4e7f639291]: Textual amendment: Words in [Pt. 2A Ch. 2A](https://www.legislation.gov.uk/ukpga/2001/2/part/2A/chapter/2A) substituted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 23 para. 13(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/23/paragraph/13/b)
 
 [^M_F_d8288cc5-b1a7-4136-8ab2-9cf24422ed0b]: Textual amendment: Pt. 2A Ch. 7A inserted (1.4.2020 for corporation tax purposes and 6.4.2020 for income tax purposes) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 29(5)(6)](https://www.legislation.gov.uk/ukpga/2020/14/section/29/5/6) (with [s. 29(7)](https://www.legislation.gov.uk/ukpga/2020/14/section/29/7))
 
-[^key-806fa2ba0f89cf03936b328dbbd06bd5]: Textual amendment: Word in [s. 270IC cross-heading](https://www.legislation.gov.uk/ukpga/2001/2/part/2A/chapter/9/crossheading/coownership-authorised-contractual-schemes) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [56(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/56/2) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-806fa2ba0f89cf03936b328dbbd06bd5]: Textual amendment: Word in [s. 270IC cross-heading](https://www.legislation.gov.uk/ukpga/2001/2/part/2A/chapter/9/crossheading/coownership-authorised-contractual-schemes) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [56(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/56/2) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-3e3d3999650c5464b2853994d8e799be]: Modification: Pt. 3 modified (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2002/29/schedule/10/paragraph/18) (with [Sch. 10 para. 21](https://www.legislation.gov.uk/ukpga/2002/29/schedule/10/paragraph/21)); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3) [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-3e3d3999650c5464b2853994d8e799be]: Modification: Pt. 3 modified (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2002/29/schedule/10/paragraph/18) (with [Sch. 10 para. 21](https://www.legislation.gov.uk/ukpga/2002/29/schedule/10/paragraph/21)); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3) [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-f2a0bd7f41e825092b2dd81790951dcc]: Modification: Pt. 3 modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) , [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2) , [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2004/20/schedule/4/paragraph/5) ; [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-f2a0bd7f41e825092b2dd81790951dcc]: Modification: Pt. 3 modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) , [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2) , [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2004/20/schedule/4/paragraph/5) ; [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-bedaf8fce6348aa67fec521c0779bc3c]: Modification: Pt. 3 modified (E.W.S.) (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/4); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-bedaf8fce6348aa67fec521c0779bc3c]: Modification: Pt. 3 modified (E.W.S.) (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/4); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-146ec1beba0e50d6581846d606f251c4]: Modification: Pt. 3 modified (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 para. 15](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/15); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-146ec1beba0e50d6581846d606f251c4]: Modification: Pt. 3 modified (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 para. 15](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/15); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-bf3588047d7b7a1d859dd8e45d85828b]: Modification: Pt. 3 modified (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 para. 24](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/24); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-bf3588047d7b7a1d859dd8e45d85828b]: Modification: Pt. 3 modified (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 10 para. 24](https://www.legislation.gov.uk/ukpga/2005/14/schedule/10/paragraph/24); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-e88eb372f45f4cc1746f9b4b958e09c5]: Modification: Pt. 3 restricted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 36(1)-(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/36/1), [(7)](https://www.legislation.gov.uk/ukpga/2007/11/section/36/7)
+[^c-e88eb372f45f4cc1746f9b4b958e09c5]: Modification: Pt. 3 restricted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 36(1)-(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/36/1), [(7)](https://www.legislation.gov.uk/ukpga/2007/11/section/36/7)
 
-[^key-628a5f5fa45465234e045e67079bed4f]: Modification: Pt. 3 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 21(1)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/21/1)
+[^c-628a5f5fa45465234e045e67079bed4f]: Modification: Pt. 3 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 21(1)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/21/1)
 
-[^key-3507198e4e311b901b0c302c85d4f748]: Modification: Pt. 3 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 38(1)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/38/1)
+[^c-3507198e4e311b901b0c302c85d4f748]: Modification: Pt. 3 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 13 para. 38(1)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/13/paragraph/38/1)
 
-[^key-9110db95a01c0c29a5bddba26486e553]: Textual amendment: Pt. 3 omitted (with effect in relation to chargeable periods beginning on or after 1.4.2011 for corporation tax purposes and 6.4.2011 for income tax purposes in accordance with ss. 84(1)(3)(4), 85, 86 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/84/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27))
+[^c-9110db95a01c0c29a5bddba26486e553]: Textual amendment: Pt. 3 omitted (with effect in relation to chargeable periods beginning on or after 1.4.2011 for corporation tax purposes and 6.4.2011 for income tax purposes in accordance with ss. 84(1)(3)(4), 85, 86 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/84/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27))
 
-[^key-7725ddac11ff90973a19389370119d46]: Modification: Pt. 3 Ch. 8 applied (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) , [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2) , [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2004/20/schedule/4/paragraph/6) ; [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-7725ddac11ff90973a19389370119d46]: Modification: Pt. 3 Ch. 8 applied (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) , [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2) , [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2004/20/schedule/4/paragraph/6) ; [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-e55c9e0cbb84c78796990128c4d86b99]: Textual amendment: Pt. 3A inserted (11.4.2007 with effect in accordance with s. 92 of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/6/paragraph/1); [S.I. 2007/949](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-e55c9e0cbb84c78796990128c4d86b99]: Textual amendment: Pt. 3A inserted (11.4.2007 with effect in accordance with s. 92 of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/6/paragraph/1); [S.I. 2007/949](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
 
-[^key-bdec5fcb82dc09f8660d22eb77b5bacd]: Modification: Pt. 4 restricted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 36(4)-(7)](https://www.legislation.gov.uk/ukpga/2007/11/section/36/4)
+[^c-bdec5fcb82dc09f8660d22eb77b5bacd]: Modification: Pt. 4 restricted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 36(4)-(7)](https://www.legislation.gov.uk/ukpga/2007/11/section/36/4)
 
-[^key-9f70844198f57536148e142a2f693811]: Textual amendment: Pt. 4 omitted (with effect in relation to chargeable periods beginning on or after 1.4.2011 for corporation tax purposes and 6.4.2011 for income tax purposes in accordance with ss. 84(1)(3)(4), 85 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/84/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27))
+[^c-9f70844198f57536148e142a2f693811]: Textual amendment: Pt. 4 omitted (with effect in relation to chargeable periods beginning on or after 1.4.2011 for corporation tax purposes and 6.4.2011 for income tax purposes in accordance with ss. 84(1)(3)(4), 85 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/84/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27))
 
-[^key-3570326454f20bc9a51331d6818710a8]: Textual amendment: Pt. 4A repealed (with effect in accordance with Sch. 39 para. 40 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 37](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/37) (with [Sch. 39 paras. 36, 41](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/41), [42](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/42))
+[^c-3570326454f20bc9a51331d6818710a8]: Textual amendment: Pt. 4A repealed (with effect in accordance with Sch. 39 para. 40 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 37](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/37) (with [Sch. 39 paras. 36, 41](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/41), [42](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/42))
 
 [^c1894348]: Textual amendment: Pt. 5 Ch. 5A inserted (with effect as mentioned in s. 63 of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 63](https://www.legislation.gov.uk/ukpga/2002/23/section/63), [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2002/23/schedule/21/paragraph/9)
 
 [^c1896513]: Textual amendment: S. 416D and preceding crossheading inserted (with effect as mentioned in s. 63(3) of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 63](https://www.legislation.gov.uk/ukpga/2002/23/section/63), [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2002/23/schedule/21/paragraph/10)
 
-[^key-ef7f881998bb4d6e4668e1851e7cb150]: Textual amendment: Words in s. 537(1) cross-heading substituted (with effect in accordance with s. 92 of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2005/7/schedule/6/paragraph/5); [S.I. 2007/949](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-ef7f881998bb4d6e4668e1851e7cb150]: Textual amendment: Words in s. 537(1) cross-heading substituted (with effect in accordance with s. 92 of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2005/7/schedule/6/paragraph/5); [S.I. 2007/949](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
 
-[^key-89a80ac15c17d6ce639e7b9ae5b9eaab]: Textual amendment: Word in s. 537 cross-heading inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [3(10)(d)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/3/10/d)
+[^c-89a80ac15c17d6ce639e7b9ae5b9eaab]: Textual amendment: Word in s. 537 cross-heading inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [3(10)(d)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/3/10/d)
 
-[^key-819adf0bf582933d29b85b6dd48c0b87]: Textual amendment: Words in Pt. 12 Ch. 1 heading substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 102](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/102)
+[^c-819adf0bf582933d29b85b6dd48c0b87]: Textual amendment: Words in Pt. 12 Ch. 1 heading substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 102](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/102)
 
-[^key-a0e9221a13a0f56e1bca6882fe918b20]: Textual amendment: S. 570A and cross-heading inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14) , [s. 164(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/164/1) (with [s. 164(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/164/2) )
+[^c-a0e9221a13a0f56e1bca6882fe918b20]: Textual amendment: S. 570A and cross-heading inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14) , [s. 164(1)](https://www.legislation.gov.uk/ukpga/2003/14/section/164/1) (with [s. 164(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/164/2) )
 
-[^key-0a4b8f1633054fb2a76c1f4da8166f9a]: Textual amendment: S. 570B and cross-heading inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 409](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/409) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-0a4b8f1633054fb2a76c1f4da8166f9a]: Textual amendment: S. 570B and cross-heading inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 409](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/409) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-58164374b224977bd25ed3211ef93cfb]: Modification: S. 45H(2) modified (with effect in accordance with s. 167 of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14) , [Sch. 30 para. 7](https://www.legislation.gov.uk/ukpga/2003/14/schedule/30/paragraph/7)
+[^c-58164374b224977bd25ed3211ef93cfb]: Modification: S. 45H(2) modified (with effect in accordance with s. 167 of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14) , [Sch. 30 para. 7](https://www.legislation.gov.uk/ukpga/2003/14/schedule/30/paragraph/7)

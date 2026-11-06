@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Amendment of section 36Z3[^key-27b94802499bf1e7dd808d7e9be6af09]
+## 50. Amendment of section 36Z3[^c-27b94802499bf1e7dd808d7e9be6af09]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27b94802499bf1e7dd808d7e9be6af09]: Commencement: Reg. 50 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-27b94802499bf1e7dd808d7e9be6af09]: Commencement: Reg. 50 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00034]: Footnote: Section 36Z3 was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

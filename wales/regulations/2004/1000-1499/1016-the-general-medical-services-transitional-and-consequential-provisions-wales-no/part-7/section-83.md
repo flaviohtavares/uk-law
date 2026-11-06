@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Continuing validity of forms[^key-8f2114e969a487fa0393a6bacaac9cda]
+## 83. Continuing validity of forms[^c-8f2114e969a487fa0393a6bacaac9cda]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Notwithstanding the amendments made by paragraphs 1 and 5 of Schedule 1 to the f
 
 ## Annotations
 
-[^key-8f2114e969a487fa0393a6bacaac9cda]: Commencement: Art. 83 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-8f2114e969a487fa0393a6bacaac9cda]: Commencement: Art. 83 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00053]: Footnote: [S.I. 1976/615](https://www.legislation.gov.uk/uksi/1976/615); Part 2 of Schedule 2 was amended by [S.I. 1991/2284](https://www.legislation.gov.uk/uksi/1991/2284), [2001/2931](https://www.legislation.gov.uk/uksi/2001/2931) and [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469).
 

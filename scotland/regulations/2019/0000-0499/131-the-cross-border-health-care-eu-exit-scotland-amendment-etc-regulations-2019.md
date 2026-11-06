@@ -46,19 +46,19 @@ In accordance with paragraph 1(6) of schedule 7 of that Act, a draft of this ins
 
 ## Introduction
 
-### 1. Citation[^key-ddb87f9afe8628a1c0f67527e92f4e61]
+### 1. Citation[^c-ddb87f9afe8628a1c0f67527e92f4e61]
 
 These Regulations may be cited as the Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019.
 
-### 2. Commencement[^key-b22f359c4ea596cdb11c12d684aaf2fe]
+### 2. Commencement[^c-b22f359c4ea596cdb11c12d684aaf2fe]
 
 These Regulations come into force on exit day.
 
-### 3. Savings in relation to regulation 4[^key-d75c5dcf731f0fcf1d13ab1480bb89b9]
+### 3. Savings in relation to regulation 4[^c-d75c5dcf731f0fcf1d13ab1480bb89b9]
 
 (1) The modifications made by regulation 4 do not apply to a case if—
 
-- (a) it is a case in which either of the following events occurred before IP completion day[^key-abcbff680ea845e4a75617752c3bd009]—
+- (a) it is a case in which either of the following events occurred before IP completion day[^c-abcbff680ea845e4a75617752c3bd009]—
   - (i) the cost of eligible services was incurred, or
   - (ii) authorisation under section 75C of the NHS Act was applied for, and
 - (b) section 75BA of the NHS Act does not apply to the case.
@@ -70,7 +70,7 @@ These Regulations come into force on exit day.
 
 ## Modifications
 
-### 4. Modification of the National Health Service (Scotland) Act 1978[^key-f6fd323f1915c8107c553c06df5982b5]
+### 4. Modification of the National Health Service (Scotland) Act 1978[^c-f6fd323f1915c8107c553c06df5982b5]
 
 (1) The National Health Service (Scotland) Act 1978 is modified as follows.
 
@@ -97,22 +97,22 @@ These Regulations come into force on exit day.
 
 > **75BC. Restriction on reimbursement after EU withdrawal**
 >
-> (1) The duty to reimburse in section 75BA(2) applies in respect of a service provided to a person on or after IP completion day[^key-ac9ff52eb1eb57b4b61cc2f9eb6c1f93] only if one of the following conditions is met.
+> (1) The duty to reimburse in section 75BA(2) applies in respect of a service provided to a person on or after IP completion day[^c-ac9ff52eb1eb57b4b61cc2f9eb6c1f93] only if one of the following conditions is met.
 >
 > (2) Condition 1 is that the service began to be provided to the person before IP completion day.
 >
 > (3) Condition 2 is that—
 >
 > - (a) the application for authorisation under section 75BB in relation to the provision of the service to the person was made before IP completion day, and
-> - (b)[^key-2d837db8045ea6da8cded617f9cf5f5f] the service began to be provided to the person on or after IP completion day and before—
+> - (b)[^c-2d837db8045ea6da8cded617f9cf5f5f] the service began to be provided to the person on or after IP completion day and before—
 >   - (i) the end of the period specified in the authorisation as the period for which authorisation is granted, or
 >   - (ii) if no such period is specified in the authorisation, the end of the period of 1 year beginning with IP completion day.
 >
-> (4)[^key-5604f9390f865e3fb60271349a645e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (4)[^c-5604f9390f865e3fb60271349a645e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (5)[^key-5604f9390f865e3fb60271349a645e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (5)[^c-5604f9390f865e3fb60271349a645e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (6)[^key-5604f9390f865e3fb60271349a645e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (6)[^c-5604f9390f865e3fb60271349a645e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
@@ -132,13 +132,13 @@ These Regulations come into force on exit day.
 
   .
 
-### 5. Modification of the National Health Service (Cross-Border Health Care) (Scotland) Regulations 2013[^key-6a1bd3edcb3969706dd2e421935a995b]
+### 5. Modification of the National Health Service (Cross-Border Health Care) (Scotland) Regulations 2013[^c-6a1bd3edcb3969706dd2e421935a995b]
 
 (1) The National Health Service (Cross-Border Health Care) (Scotland) Regulations 2013 [^c23690571] is modified as follows.
 
 (2) In regulation 2 (interpretation)—
 
-- (a)[^key-fb6a1388f733cac23f70d3e9e9f2cb42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-fb6a1388f733cac23f70d3e9e9f2cb42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after the definition of “medicinal product” insert—
 
   > “**Member State**” means a State that is a member of the European Union or the European Economic Area,
@@ -152,7 +152,7 @@ These Regulations come into force on exit day.
 
 - (a) in paragraph (1)(e) omit “other”,
 - (b) in paragraph (2), for “visiting patient” substitute “ relevant person ”,
-- (c)[^key-2d0b63c90fb00743012311277ffe8e6b] after paragraph (3) insert—
+- (c)[^c-2d0b63c90fb00743012311277ffe8e6b] after paragraph (3) insert—
 
   > (4) In paragraph (2), “relevant person” means a person to whom health care may be, or has been, provided in Scotland as a consequence of an exercise of the person’s rights in relation to access to health care under the Directive.
 
@@ -163,13 +163,13 @@ These Regulations come into force on exit day.
 
 (5) In regulation 6(1) (national contact point: cross border co-operation)—
 
-- (a)[^key-5b209870f1e3007156240488ab6d587a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5b209870f1e3007156240488ab6d587a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (a) omit “other”.
 
 (6) In regulation 9 (information on rights and entitlements)—
 
-- (a)[^key-2721bd00f909e24a28707f8ab7850b0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-3402ed3ceb084c9889021cec74673f84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2721bd00f909e24a28707f8ab7850b0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3402ed3ceb084c9889021cec74673f84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for “resident patients” substitute “ persons ordinarily resident in Scotland ”.
 
 (7) In regulation 10 (exemption from NHS charges for certain persons who reside in another member state)—
@@ -184,7 +184,7 @@ These Regulations come into force on exit day.
   > - (a) it is not a service of the kind that falls within section 75BA(6) of the NHS Act, and
 
   ,
-- (c)[^key-a0217a99ebf3adfff7f47c53ee9276a4] after paragraph (3) insert—
+- (c)[^c-a0217a99ebf3adfff7f47c53ee9276a4] after paragraph (3) insert—
 
   > (3A) But a cross-border healthcare service is not within paragraph (3) insofar as it is provided after the cut-off day.
   >
@@ -206,7 +206,7 @@ These Regulations come into force on exit day.
 >
 > (1) A person to whom paragraph (3) applies is exempt from any charge provided for by regulations under section 98 of the NHS Act in respect of a relevant service.
 >
-> (2) A service is relevant, for the purpose of paragraph (1), insofar as it is provided during the period of 1 year beginning with IP completion day[^key-14a7cfd74c1f800d0c72379f8163ed4a].
+> (2) A service is relevant, for the purpose of paragraph (1), insofar as it is provided during the period of 1 year beginning with IP completion day[^c-14a7cfd74c1f800d0c72379f8163ed4a].
 >
 > (3) This paragraph applies to—
 >
@@ -217,7 +217,7 @@ These Regulations come into force on exit day.
 >     - (bb) a retirement pension under the Social Security Contributions and Benefits Act 1992 [^c23690611] or the Social Security Contributions and Benefits (Northern Ireland) Act 1992 [^c23690621], and
 > - (b) a person who, immediately before IP completion day, was a member of the family of a person described by sub-paragraph (a).
 >
-> (4)[^key-f9c7136c42c0ed6b8068c2fcd8e713fc] In this regulation—
+> (4)[^c-f9c7136c42c0ed6b8068c2fcd8e713fc] In this regulation—
 >
 > - “member of the family” has the meaning it had for the purposes of Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/eur/2004/0883) immediately before IP completion day.
 
@@ -228,7 +228,7 @@ These Regulations come into force on exit day.
 - (a) in paragraph (1)—
   - (i) omit “visiting” in both places it occurs,
   - (ii) for “resident patient” substitute “ British citizen who is ordinarily resident in Scotland ”,
-- (b)[^key-a46d9d6339cf0b28bc1de39e7178a1ab] after paragraph (1) insert—
+- (b)[^c-a46d9d6339cf0b28bc1de39e7178a1ab] after paragraph (1) insert—
 
   > (1A) But paragraph (1) does not apply to a cross-border healthcare service insofar as it is provided after the cut-off day.
   >
@@ -259,41 +259,41 @@ Regulation 5 amends the National Health Service (Cross-Border Health Care) (Scot
 
 [^c23690541]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-ddb87f9afe8628a1c0f67527e92f4e61]: Commencement: Reg. 1 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see reg. 2
+[^c-ddb87f9afe8628a1c0f67527e92f4e61]: Commencement: Reg. 1 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see reg. 2
 
-[^key-b22f359c4ea596cdb11c12d684aaf2fe]: Commencement: Reg. 2 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 2
+[^c-b22f359c4ea596cdb11c12d684aaf2fe]: Commencement: Reg. 2 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 2
 
-[^key-d75c5dcf731f0fcf1d13ab1480bb89b9]: Commencement: Reg. 3 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-d75c5dcf731f0fcf1d13ab1480bb89b9]: Commencement: Reg. 3 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
-[^key-abcbff680ea845e4a75617752c3bd009]: Textual amendment: Words in reg. 3(1)(a) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [3](https://www.legislation.gov.uk/ssi/2020/478/regulation/3)
+[^c-abcbff680ea845e4a75617752c3bd009]: Textual amendment: Words in reg. 3(1)(a) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [3](https://www.legislation.gov.uk/ssi/2020/478/regulation/3)
 
 [^c23690551]: Marginal citation: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29). Amendments to the National Health Service (Scotland) Act 1978 relevant for the purposes of these Regulations are made by [S.S.I. 2010/283](https://www.legislation.gov.uk/ssi/2010/283), [S.S.I. 2013/177](https://www.legislation.gov.uk/ssi/2013/177) and [S.S.I. 2013/292](https://www.legislation.gov.uk/ssi/2013/292).
 
-[^key-f6fd323f1915c8107c553c06df5982b5]: Commencement: Reg. 4 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-f6fd323f1915c8107c553c06df5982b5]: Commencement: Reg. 4 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
-[^key-ac9ff52eb1eb57b4b61cc2f9eb6c1f93]: Textual amendment: Words in reg. 4(6) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2020/478/regulation/4/a)
+[^c-ac9ff52eb1eb57b4b61cc2f9eb6c1f93]: Textual amendment: Words in reg. 4(6) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [4(a)](https://www.legislation.gov.uk/ssi/2020/478/regulation/4/a)
 
-[^key-2d837db8045ea6da8cded617f9cf5f5f]: Textual amendment: Words in reg. 4(6) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2020/478/regulation/4/b)
+[^c-2d837db8045ea6da8cded617f9cf5f5f]: Textual amendment: Words in reg. 4(6) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2020/478/regulation/4/b)
 
-[^key-5604f9390f865e3fb60271349a645e5c]: Textual amendment: Words in reg. 4(6) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [4(c)](https://www.legislation.gov.uk/ssi/2020/478/regulation/4/c)
+[^c-5604f9390f865e3fb60271349a645e5c]: Textual amendment: Words in reg. 4(6) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [4(c)](https://www.legislation.gov.uk/ssi/2020/478/regulation/4/c)
 
-[^key-6a1bd3edcb3969706dd2e421935a995b]: Commencement: Reg. 5 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-6a1bd3edcb3969706dd2e421935a995b]: Commencement: Reg. 5 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23690571]: Marginal citation: [S.S.I. 2013/292](https://www.legislation.gov.uk/ssi/2013/292), amended by [S.S.I. 2015/91](https://www.legislation.gov.uk/ssi/2015/91).
 
-[^key-fb6a1388f733cac23f70d3e9e9f2cb42]: Textual amendment: Reg. 5(2)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/a)
+[^c-fb6a1388f733cac23f70d3e9e9f2cb42]: Textual amendment: Reg. 5(2)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(a)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/a)
 
-[^key-2d0b63c90fb00743012311277ffe8e6b]: Textual amendment: Reg. 5(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/b)
+[^c-2d0b63c90fb00743012311277ffe8e6b]: Textual amendment: Reg. 5(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(b)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/b)
 
-[^key-5b209870f1e3007156240488ab6d587a]: Textual amendment: Reg. 5(5)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(c)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/c)
+[^c-5b209870f1e3007156240488ab6d587a]: Textual amendment: Reg. 5(5)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(c)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/c)
 
-[^key-2721bd00f909e24a28707f8ab7850b0f]: Textual amendment: Reg. 5(6)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(d)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/d)
+[^c-2721bd00f909e24a28707f8ab7850b0f]: Textual amendment: Reg. 5(6)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(d)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/d)
 
-[^key-3402ed3ceb084c9889021cec74673f84]: Textual amendment: Reg. 5(6)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(d)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/d)
+[^c-3402ed3ceb084c9889021cec74673f84]: Textual amendment: Reg. 5(6)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(d)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/d)
 
-[^key-a0217a99ebf3adfff7f47c53ee9276a4]: Textual amendment: Reg. 5(7)(c)-(e) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(e)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/e)
+[^c-a0217a99ebf3adfff7f47c53ee9276a4]: Textual amendment: Reg. 5(7)(c)-(e) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(e)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/e)
 
-[^key-14a7cfd74c1f800d0c72379f8163ed4a]: Textual amendment: Words in reg. 5(8) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(f)(i)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/f/i)
+[^c-14a7cfd74c1f800d0c72379f8163ed4a]: Textual amendment: Words in reg. 5(8) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(f)(i)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/f/i)
 
 [^c23690591]: Marginal citation: [2014 c.19](https://www.legislation.gov.uk/ukpga/2014/19).
 
@@ -303,6 +303,6 @@ Regulation 5 amends the National Health Service (Cross-Border Health Care) (Scot
 
 [^c23690621]: Marginal citation: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7).
 
-[^key-f9c7136c42c0ed6b8068c2fcd8e713fc]: Textual amendment: Words in reg. 5(8) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(f)(ii)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/f/ii)
+[^c-f9c7136c42c0ed6b8068c2fcd8e713fc]: Textual amendment: Words in reg. 5(8) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(f)(ii)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/f/ii)
 
-[^key-a46d9d6339cf0b28bc1de39e7178a1ab]: Textual amendment: Reg. 5(9)(b) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(g)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/g)
+[^c-a46d9d6339cf0b28bc1de39e7178a1ab]: Textual amendment: Reg. 5(9)(b) substituted (31.12.2020 immediately before IP completion day) by [The Cross-border Health Care (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/478)](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [5(g)](https://www.legislation.gov.uk/ssi/2020/478/regulation/5/g)

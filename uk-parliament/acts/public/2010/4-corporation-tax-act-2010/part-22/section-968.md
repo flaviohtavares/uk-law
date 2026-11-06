@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 968. Deductions from payments received by non-UK resident companies[^key-dd287c8cc6ecf5c906ddfc0dca5d9cbc]
+## 968. Deductions from payments received by non-UK resident companies[^c-dd287c8cc6ecf5c906ddfc0dca5d9cbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd287c8cc6ecf5c906ddfc0dca5d9cbc]: Modification: Ss. 967, 968 excluded by 2007 c. 3, s. 917A(3) (as inserted (with effect in accordance with s. 41(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 41(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/41/1))
+[^c-dd287c8cc6ecf5c906ddfc0dca5d9cbc]: Modification: Ss. 967, 968 excluded by 2007 c. 3, s. 917A(3) (as inserted (with effect in accordance with s. 41(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 41(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/41/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Early repayment of green deal finance[^key-519157dd542761310bc23ea30b442017][^key-01de02e67f3fbed296cec5bc56400878]
+## 29. Early repayment of green deal finance[^c-519157dd542761310bc23ea30b442017][^c-01de02e67f3fbed296cec5bc56400878]
 
 *Extent: E+W+S*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-519157dd542761310bc23ea30b442017]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2011/16/section/29) in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
+[^c-519157dd542761310bc23ea30b442017]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2011/16/section/29) in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
 
-[^key-01de02e67f3fbed296cec5bc56400878]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2011/16/section/29) in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/125/article/2/d)
+[^c-01de02e67f3fbed296cec5bc56400878]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2011/16/section/29) in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/125/article/2/d)

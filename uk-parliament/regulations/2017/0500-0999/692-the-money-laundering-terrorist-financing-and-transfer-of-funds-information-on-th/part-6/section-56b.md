@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56B. Requirement that cryptoasset firms acting as cryptoasset exchange providers or custodian wallet providers inform the FCA[^key-4e6a88685fb2a8adfe4399bf8feaf6d3]
+## 56B. Requirement that cryptoasset firms acting as cryptoasset exchange providers or custodian wallet providers inform the FCA[^c-4e6a88685fb2a8adfe4399bf8feaf6d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ then A must provide the FCA with details of the change or a correction of the in
 
 ## Annotations
 
-[^key-4e6a88685fb2a8adfe4399bf8feaf6d3]: Textual amendment: [Reg. 56B](https://www.legislation.gov.uk/uksi/2017/692/regulation/56B) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [48(4)](https://www.legislation.gov.uk/uksi/2026/102/regulation/48/4) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
+[^c-4e6a88685fb2a8adfe4399bf8feaf6d3]: Textual amendment: [Reg. 56B](https://www.legislation.gov.uk/uksi/2017/692/regulation/56B) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [48(4)](https://www.legislation.gov.uk/uksi/2026/102/regulation/48/4) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))

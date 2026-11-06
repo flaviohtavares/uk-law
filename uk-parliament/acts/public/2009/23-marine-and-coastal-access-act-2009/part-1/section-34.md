@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Limit on borrowing[^c2007819][^key-77ba10b5c178bbeb4c87e3b1a90ac0b0]
+## 34. Limit on borrowing[^c2007819][^c-77ba10b5c178bbeb4c87e3b1a90ac0b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c2007819]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2009/23/section/34) partly in force; [s. 34](https://www.legislation.gov.uk/ukpga/2009/23/section/34) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-77ba10b5c178bbeb4c87e3b1a90ac0b0]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2009/23/section/34) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)
+[^c-77ba10b5c178bbeb4c87e3b1a90ac0b0]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2009/23/section/34) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/5)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5E. Subscriptions made by account investors issued with certificates by Royal Bank of Scotland Group disregarded for the purposes of regulations 4ZA and 31(3)(c)(ii)[^key-dc3760ed68b078714ff393f22e12d439]
+## 5E. Subscriptions made by account investors issued with certificates by Royal Bank of Scotland Group disregarded for the purposes of regulations 4ZA and 31(3)(c)(ii)[^c-dc3760ed68b078714ff393f22e12d439]
 
 *Extent: E+W+S+N.I.*
 
 (1) A subscription to an account made in accordance with this regulation on or before 5th April 2013 must be disregarded for the purposes of—
 
-- (a) the subscription limit[^key-ec840587dacd9200110f0d12d95b287a] in regulation 4ZA (subscriptions to an account other than a junior ISA account); and
+- (a) the subscription limit[^c-ec840587dacd9200110f0d12d95b287a] in regulation 4ZA (subscriptions to an account other than a junior ISA account); and
 - (b) regulation 31(3)(c)(ii) (returns of information by account manager).
 
 (2) A subscription to an account is made in accordance with this regulation if—
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc3760ed68b078714ff393f22e12d439]: Textual amendment: Reg. 5E inserted (5.4.2013) by [The Individual Savings Account (Amendment No. 2) Regulations 2013 (S.I. 2013/623)](https://www.legislation.gov.uk/uksi/2013/623), [regs. 1](https://www.legislation.gov.uk/uksi/2013/623/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/623/regulation/2/2)
+[^c-dc3760ed68b078714ff393f22e12d439]: Textual amendment: Reg. 5E inserted (5.4.2013) by [The Individual Savings Account (Amendment No. 2) Regulations 2013 (S.I. 2013/623)](https://www.legislation.gov.uk/uksi/2013/623), [regs. 1](https://www.legislation.gov.uk/uksi/2013/623/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/623/regulation/2/2)
 
-[^key-ec840587dacd9200110f0d12d95b287a]: Textual amendment: Word in [reg. 5E(1)(a)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/5E/1/a) substituted (1.7.2014) by [The Individual Savings Account (Amendment No. 2) Regulations 2014 (S.I. 2014/1450)](https://www.legislation.gov.uk/uksi/2014/1450), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1450/regulation/1), [13](https://www.legislation.gov.uk/uksi/2014/1450/regulation/13)
+[^c-ec840587dacd9200110f0d12d95b287a]: Textual amendment: Word in [reg. 5E(1)(a)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/5E/1/a) substituted (1.7.2014) by [The Individual Savings Account (Amendment No. 2) Regulations 2014 (S.I. 2014/1450)](https://www.legislation.gov.uk/uksi/2014/1450), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1450/regulation/1), [13](https://www.legislation.gov.uk/uksi/2014/1450/regulation/13)

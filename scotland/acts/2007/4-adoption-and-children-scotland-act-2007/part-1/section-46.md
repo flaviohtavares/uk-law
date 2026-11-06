@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Duration[^key-2ae6bfc1bdc8bd825fc232fe292ea579]
+## 46. Duration[^c-2ae6bfc1bdc8bd825fc232fe292ea579]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ and who is a member of the relevant family in relation to which, or to any membe
 
 ## Annotations
 
-[^key-2ae6bfc1bdc8bd825fc232fe292ea579]: Commencement: S. 46 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-2ae6bfc1bdc8bd825fc232fe292ea579]: Commencement: S. 46 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)

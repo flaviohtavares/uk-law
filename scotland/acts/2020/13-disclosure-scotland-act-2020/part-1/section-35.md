@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Reclassification of applications[^key-588c1befadd2098e8521a9d317de2d51]
+## 35. Reclassification of applications[^c-588c1befadd2098e8521a9d317de2d51]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-588c1befadd2098e8521a9d317de2d51]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2020/13/section/35) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-588c1befadd2098e8521a9d317de2d51]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2020/13/section/35) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

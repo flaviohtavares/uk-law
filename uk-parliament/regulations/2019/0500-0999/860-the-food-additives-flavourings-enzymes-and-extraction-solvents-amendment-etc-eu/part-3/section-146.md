@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146.[^key-e119293a75ff3d517711c8dea4e46e07]
+## 146.[^c-e119293a75ff3d517711c8dea4e46e07]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 10(1)(e) for “Union” substitute “ domestic ”.
 
 ## Annotations
 
-[^key-e119293a75ff3d517711c8dea4e46e07]: Commencement: Reg. 146 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e119293a75ff3d517711c8dea4e46e07]: Commencement: Reg. 146 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -44,11 +44,11 @@ In accordance with section 191(5) of that Act, a draft of this instrument has be
 
 ## PART 1 — Introductory and General
 
-### 1. Citation and commencement[^key-132dc3272d8f0b1c8bf07a7b233418ea]
+### 1. Citation and commencement[^c-132dc3272d8f0b1c8bf07a7b233418ea]
 
 These Regulations may be cited as the Tenancy Deposit Schemes (Scotland) Regulations 2011 and come into force on the day after the day on which they are made.
 
-### 2. Interpretation[^key-e056996228bade210219e8181d5a9c95]
+### 2. Interpretation[^c-e056996228bade210219e8181d5a9c95]
 
 In these Regulations—
 
@@ -68,14 +68,14 @@ In these Regulations—
 - “working day” means a day that is not a Saturday or Sunday, nor any day that is a bank holiday under the Banking and Financial Dealings Act 1971[^f00003] in any part of the United Kingdom; and
 - “write” and “writing” include electronic communications within the meaning of section 15 (general interpretation) of the Electronic Communications Act 2000[^f00004].
 
-### 3. Duties in relation to tenancy deposits[^key-19f8725c5097aaaeaeaa18da968bceae]
+### 3. Duties in relation to tenancy deposits[^c-19f8725c5097aaaeaeaa18da968bceae]
 
 (1) A landlord who has received a tenancy deposit in connection with a relevant tenancy must, within 30 working days of the beginning of the tenancy—
 
 - (a) pay the deposit to the scheme administrator of an approved scheme; and
 - (b) provide the tenant with the information required under regulation 42.
 
-(1A)[^key-dd417bdb1ec8144608e11406fb3f6ab1] Paragraph (1) does not apply—
+(1A)[^c-dd417bdb1ec8144608e11406fb3f6ab1] Paragraph (1) does not apply—
 
 - (a) where the tenancy comes to an end by virtue of section 48 or 50 of the Private Housing (Tenancies) (Scotland) Act 2016, and
 - (b) the full amount of the tenancy deposit received by the landlord is returned to the tenant by the landlord,
@@ -84,7 +84,7 @@ within 30 working days of the beginning of the tenancy.
 
 (2) The landlord must ensure that any tenancy deposit paid in connection with a relevant tenancy is held by an approved scheme from the date it is first paid to a tenancy deposit scheme under paragraph (1)(a) until it is repaid in accordance with these Regulations following the end of the tenancy.
 
-(2A)[^key-2ca5d2cffb089d1b779e4c66997c3c2b] Where the landlord and the tenant agree that the tenancy deposit is to be paid in instalments, paragraphs (1) and (2) apply as if—
+(2A)[^c-2ca5d2cffb089d1b779e4c66997c3c2b] Where the landlord and the tenant agree that the tenancy deposit is to be paid in instalments, paragraphs (1) and (2) apply as if—
 
 - (a) the references to deposit were to each instalment of the deposit, and
 - (b) the reference to the beginning of the tenancy were to the date when any instalment of the deposit is received by the landlord.
@@ -98,13 +98,13 @@ unless the use of the house is of a type described in section 83(6) (application
 
 (4) In this regulation, the expressions “relevant person” and “unconnected person” have the meanings conferred by section 83(8) of the 2004 Act.
 
-### 4. Circumstances in which tenancy deposit duties apply[^key-44233e9e6909ce6371538946e8e385d8]
+### 4. Circumstances in which tenancy deposit duties apply[^c-44233e9e6909ce6371538946e8e385d8]
 
 Subject to regulations 47 and 48, the duties in regulation 3 apply from the date which falls on the expiry of a period of 3 months beginning with the first date on which an approved scheme becomes operational.
 
-**5.**[^key-93e604e28577c00b2b57ae7e52ffad69] The duties in regulation 3 do not apply if no approved scheme is operational.
+**5.**[^c-93e604e28577c00b2b57ae7e52ffad69] The duties in regulation 3 do not apply if no approved scheme is operational.
 
-### 6. Conditions for approval of a tenancy deposit scheme[^key-ba9dde1662cdfec77d59c6c055aeb9cc]
+### 6. Conditions for approval of a tenancy deposit scheme[^c-ba9dde1662cdfec77d59c6c055aeb9cc]
 
 (1) A tenancy deposit scheme must meet the following conditions before it can be approved—
 
@@ -115,7 +115,7 @@ Subject to regulations 47 and 48, the duties in regulation 3 apply from the date
 
 (2) The person or body making the proposal for a tenancy deposit scheme (whether the proposed scheme administrator or any other person) must provide the Scottish Ministers with any information they may reasonably require in order to assess whether the tenancy deposit scheme meets the conditions in paragraph (1).
 
-### 7. Scheme administrator to be a fit and proper person[^key-e4b0cb209a612793f92fac564e3717c5]
+### 7. Scheme administrator to be a fit and proper person[^c-e4b0cb209a612793f92fac564e3717c5]
 
 (1) A person who acts as scheme administrator must be a fit and proper person to do so.
 
@@ -134,7 +134,7 @@ Subject to regulations 47 and 48, the duties in regulation 3 apply from the date
 
 (5) The proposed scheme administrator must provide the Scottish Ministers with any information they require for the purpose of that assessment.
 
-### 8. Power of Scottish Ministers to provide financial assistance[^key-501496f8e40dff2d83f76facffcb1ada]
+### 8. Power of Scottish Ministers to provide financial assistance[^c-501496f8e40dff2d83f76facffcb1ada]
 
 The Scottish Ministers may make payments, or give guarantees or other assistance in connection with—
 
@@ -143,13 +143,13 @@ The Scottish Ministers may make payments, or give guarantees or other assistance
 
 ## PART 2 — Sanctions
 
-### 9. First-tier Tribunal orders[^key-4b979030644b7c1984cf88bf75397ca2][^key-cd5af1f5d702d8246de214974deda90c]
+### 9. First-tier Tribunal orders[^c-4b979030644b7c1984cf88bf75397ca2][^c-cd5af1f5d702d8246de214974deda90c]
 
-(1) A tenant who has paid a tenancy deposit may apply to the First-tier Tribunal[^key-52cb61824e2241c2bd5078d8fb4c1704] for an order under regulation 10 where the landlord did not comply with any duty in regulation 3 in respect of that tenancy deposit.
+(1) A tenant who has paid a tenancy deposit may apply to the First-tier Tribunal[^c-52cb61824e2241c2bd5078d8fb4c1704] for an order under regulation 10 where the landlord did not comply with any duty in regulation 3 in respect of that tenancy deposit.
 
-(2) An application under paragraph (1) must be made [^key-bab952c76e3d07af750e11f59e102018]... no later than 3 months after the tenancy has ended.
+(2) An application under paragraph (1) must be made [^c-bab952c76e3d07af750e11f59e102018]... no later than 3 months after the tenancy has ended.
 
-**10.**[^key-34e074527d340c2fb01e4a7af52614f8] If satisfied that the landlord did not comply with any duty in regulation 3 the First-tier Tribunal[^key-48ad4ed33b881dfd79a39892c18d4533]—
+**10.**[^c-34e074527d340c2fb01e4a7af52614f8] If satisfied that the landlord did not comply with any duty in regulation 3 the First-tier Tribunal[^c-48ad4ed33b881dfd79a39892c18d4533]—
 
 - (a) must order the landlord to pay the tenant an amount not exceeding three times the amount of the tenancy deposit; and
 - (b) may, as the First-tier Tribunal considers appropriate in the circumstances of the application, order the landlord to—
@@ -158,7 +158,7 @@ The Scottish Ministers may make payments, or give guarantees or other assistance
 
 ## PART 3 — Model for operation of tenancy deposit scheme
 
-### 11. Scheme model[^key-ffbb45ee82ead21dd6d22343aec477ce]
+### 11. Scheme model[^c-ffbb45ee82ead21dd6d22343aec477ce]
 
 A tenancy deposit scheme must be based on the following model—
 
@@ -167,11 +167,11 @@ A tenancy deposit scheme must be based on the following model—
 - (c) the scheme administrator pays the tenancy deposit into an account maintained for the purpose of holding tenancy deposits;
 - (d) the tenancy deposit is held in that account until it falls to be repaid in accordance with these Regulations.
 
-### 12. Agents[^key-bd48cc008f2924415871723508133395]
+### 12. Agents[^c-bd48cc008f2924415871723508133395]
 
 A tenancy deposit scheme must not operate to prevent an agent from acting on behalf of the landlord in relation to any tenancy deposit held in connection with a relevant tenancy.
 
-### 13. Geographical coverage and administrative requirements[^key-3955f7f51564fec876fa284231ae325f]
+### 13. Geographical coverage and administrative requirements[^c-3955f7f51564fec876fa284231ae325f]
 
 (1) A tenancy deposit scheme must be available to all landlords and their tenants.
 
@@ -187,7 +187,7 @@ A tenancy deposit scheme must not operate to prevent an agent from acting on beh
 - (a) handling enquiries in relation to the scheme whether made by telephone or in writing; and
 - (b) dealing with complaints about the scheme, including complaints about the service provided by the scheme administrator.
 
-### 14. Financing and sustainability[^key-0573af02b5f9aa2721a6c04b074f8c44]
+### 14. Financing and sustainability[^c-0573af02b5f9aa2721a6c04b074f8c44]
 
 (1) A tenancy deposit scheme must operate on the basis of a business plan which will enable it, within a number of months to be specified in that business plan, to be—
 
@@ -198,7 +198,7 @@ A tenancy deposit scheme must not operate to prevent an agent from acting on beh
 
 (3) A tenancy deposit scheme must have appropriate strategies in place in relation to the investment of tenancy deposits and accrued interest to support the sustainability of the tenancy deposit scheme.
 
-### 15. Protection of deposits in the event of scheme failure etc.[^key-c21b936a932dbb2ed47e0ed14c8aa567]
+### 15. Protection of deposits in the event of scheme failure etc.[^c-c21b936a932dbb2ed47e0ed14c8aa567]
 
 (1) A tenancy deposit scheme must have procedures to safeguard, and ensure the repayment in accordance with these Regulations of, tenancy deposits held by the scheme administrator in the event that the scheme fails or otherwise ceases to be operational.
 
@@ -209,7 +209,7 @@ A tenancy deposit scheme must not operate to prevent an agent from acting on beh
 
 ## PART 4 — Accounting requirements in relation to tenancy deposit schemes
 
-### 16. Designated accounts[^key-a7cd78e5acc4717edbfe6705b41f4474]
+### 16. Designated accounts[^c-a7cd78e5acc4717edbfe6705b41f4474]
 
 (1) A scheme administrator must hold one or more designated accounts for the purposes of regulation 11(c).
 
@@ -220,20 +220,20 @@ A tenancy deposit scheme must not operate to prevent an agent from acting on beh
 - (c) such sums of money as may be necessary to replace any sum which by error has been withdrawn from the account; and
 - (d) interest.
 
-**17.**[^key-0f6adb56e2cce37a2750d10b1a6baf61] A scheme administrator must follow appropriate accounting and administrative practices to ensure that—
+**17.**[^c-0f6adb56e2cce37a2750d10b1a6baf61] A scheme administrator must follow appropriate accounting and administrative practices to ensure that—
 
 - (a) tenancy deposits received by the scheme administrator are paid without delay into the relevant designated account;
 - (b) at all times the sum at the credit of the designated account, or where there are more such accounts than one, the total of the sums at the credit of those accounts, is not less than the total of the amounts of tenancy deposits held by the tenancy deposit scheme; and
 - (c) at all times each tenancy deposit held in a designated account is attributable to the landlord on whose behalf it was paid in to the account, as well as to the tenant to whom it relates.
 
-**18.**[^key-ff5f93c49a6e732cd81a76f909f63fa1] Sums may be withdrawn from a designated account only for the following purposes—
+**18.**[^c-ff5f93c49a6e732cd81a76f909f63fa1] Sums may be withdrawn from a designated account only for the following purposes—
 
 - (a) repayment of tenancy deposits in accordance with these Regulations;
 - (b) meeting the costs of the scheme from interest accrued;
 - (c) improving the quality of service provided by the scheme administrator from interest accrued, where the interest is surplus to that required to meet the costs of the scheme; and
 - (d) distributing, applying or investing interest accrued, where the conditions in regulation 19 are met.
 
-**19.**[^key-456abc3f79d2cc6b99bbfacd15ed32c6] The conditions for withdrawal of sums under regulation 18(d) are—
+**19.**[^c-456abc3f79d2cc6b99bbfacd15ed32c6] The conditions for withdrawal of sums under regulation 18(d) are—
 
 - (a) the income derived from interest accrued exceeds that required for the purposes set out in regulation 18(a), (b) and (c);
 - (b) the distribution, application or investment of that income will not adversely affect the sustainability of the tenancy deposit scheme or its ability to be self-financing within the meaning of regulation 14; and
@@ -241,16 +241,16 @@ A tenancy deposit scheme must not operate to prevent an agent from acting on beh
 
 ## PART 5 — Procedures for payment, holding and repayment of deposits
 
-### 20. Payment of tenancy deposits to a tenancy deposit scheme[^key-182e0ef208a37d3475aae61159923dcc]
+### 20. Payment of tenancy deposits to a tenancy deposit scheme[^c-182e0ef208a37d3475aae61159923dcc]
 
 A scheme administrator must accept any tenancy deposit paid to an approved scheme by or on behalf of a landlord who has received the deposit in connection with a relevant tenancy, whether it was paid in compliance with regulation 3(1)(a) or at a later date.
 
-**21.**[^key-9f36a8273cd6341994c49a0f3ce16466] A tenancy deposit paid to an approved scheme must be accompanied by sufficient information to enable the scheme administrator, both on receipt and at the end of the tenancy, to—
+**21.**[^c-9f36a8273cd6341994c49a0f3ce16466] A tenancy deposit paid to an approved scheme must be accompanied by sufficient information to enable the scheme administrator, both on receipt and at the end of the tenancy, to—
 
 - (a) identify and contact the landlord and tenant; and
 - (b) identify the tenancy and the property in connection with which the tenancy deposit was paid to the landlord.
 
-**22.**[^key-3cd874eca255c8e66384f75ed9d3a285] (1) On receipt of a tenancy deposit and the required accompanying information, the scheme administrator must—
+**22.**[^c-3cd874eca255c8e66384f75ed9d3a285] (1) On receipt of a tenancy deposit and the required accompanying information, the scheme administrator must—
 
 - (a) pay the tenancy deposit into a designated account; and
 - (b) issue written confirmation to the landlord and tenant that the tenancy deposit has been received and paid into a designated account.
@@ -260,11 +260,11 @@ A scheme administrator must accept any tenancy deposit paid to an approved schem
 - (a) the amount of the deposit;
 - (b) the date on which the deposit was received by the scheme administrator;
 - (c) the address of the property to which the tenancy deposit relates;
-- (d) the name and contact details of the landlord; [^key-1491c9cebee7e78bc16fffee99db97a7]...
-- (e) details of how to contact the scheme administrator to notify any inaccuracies in the information in sub-paragraphs (a) to (d) , and[^key-1b1dfdf57d8be49b484d57944e894d26]
+- (d) the name and contact details of the landlord; [^c-1491c9cebee7e78bc16fffee99db97a7]...
+- (e) details of how to contact the scheme administrator to notify any inaccuracies in the information in sub-paragraphs (a) to (d) , and[^c-1b1dfdf57d8be49b484d57944e894d26]
 - (f) details of the sanctions contained in regulations 9 and 10 (First-tier Tribunal orders).
 
-### 23. Landlord application to transfer a tenancy deposit[^key-c2d3aeb79558ace21e63536f0d9b03f1]
+### 23. Landlord application to transfer a tenancy deposit[^c-c2d3aeb79558ace21e63536f0d9b03f1]
 
 (1) A landlord may apply for repayment of a tenancy deposit from an approved scheme for the purpose of transferring it to another approved scheme.
 
@@ -275,7 +275,7 @@ A scheme administrator must accept any tenancy deposit paid to an approved schem
 
 (3) The scheme administrator must notify the tenant in writing of the date on which the deposit was paid to the other approved scheme or repaid to the landlord.
 
-### 24. Application for repayment of a tenancy deposit[^key-4a3993193cdd26b5ae495e96c011affc]
+### 24. Application for repayment of a tenancy deposit[^c-4a3993193cdd26b5ae495e96c011affc]
 
 (1) A landlord must apply to the scheme administrator for repayment of any tenancy deposit paid to an approved scheme on, or as soon as is reasonably practicable after, the end of the tenancy.
 
@@ -291,13 +291,13 @@ A scheme administrator must accept any tenancy deposit paid to an approved schem
 - (a) repaid to the tenant; and
 - (b) repaid to the landlord.
 
-**25.**[^key-0443fe2e8215fa51add0f44ba4d44922] (1) On receipt of an application from a landlord under regulation 24(1), the scheme administrator must write to the tenant to—
+**25.**[^c-0443fe2e8215fa51add0f44ba4d44922] (1) On receipt of an application from a landlord under regulation 24(1), the scheme administrator must write to the tenant to—
 
 - (a) notify the tenant of that application, including details of the amounts specified under regulation 24(2);
 - (b) require the tenant to contact the scheme administrator to confirm either that the tenant agrees to repayment as applied for by the landlord or that the tenant disputes the amounts specified;
 - (c) require that the tenant notify the scheme administrator of the amount of the tenancy deposit which the tenant considers should be repaid to the tenant (the “disputed amount”), if different from the amount specified;
-- (d) explain the effect of regulation 27, [^key-672d46d16b81410edd196a2d5efba041]...
-- (e) inform the tenant of the availability of the dispute resolution mechanism made available under Part 6 and of the procedures for requesting a referral to that mechanism , and[^key-f80f777c5dd04c33b6cb7081d96fa6ff]
+- (d) explain the effect of regulation 27, [^c-672d46d16b81410edd196a2d5efba041]...
+- (e) inform the tenant of the availability of the dispute resolution mechanism made available under Part 6 and of the procedures for requesting a referral to that mechanism , and[^c-f80f777c5dd04c33b6cb7081d96fa6ff]
 - (f) where a tenancy deposit was paid by the landlord to the scheme administrator later than the date set out in regulation 3(1) (duties in relation to tenancy deposits), inform the tenant of the sanctions contained in regulations 9 and 10 (First-tier Tribunal orders).
 
 (2) Where an application is accepted from a tenant under regulation 24(3), the scheme administrator must write to the landlord to—
@@ -306,29 +306,29 @@ A scheme administrator must accept any tenancy deposit paid to an approved schem
 - (b) require the landlord to contact the scheme administrator to confirm either that the landlord agrees to repayment as applied for by the tenant or to submit an alternative application in accordance with regulation 24(2); and
 - (c) explain the effect of regulation 28.
 
-(3)[^key-882942b5c246e306c8349adeb6b40573] Paragraph (1) does not apply where a landlord’s application under regulation 24(1) specifies that the amount to be repaid to the landlord in accordance with regulation 24(2)(b) is zero.
+(3)[^c-882942b5c246e306c8349adeb6b40573] Paragraph (1) does not apply where a landlord’s application under regulation 24(1) specifies that the amount to be repaid to the landlord in accordance with regulation 24(2)(b) is zero.
 
-### 26. Repayment by the scheme administrator where there is no disputed amount[^key-b60a0b6939b4bd67405d83dcb98e1cad]
+### 26. Repayment by the scheme administrator where there is no disputed amount[^c-b60a0b6939b4bd67405d83dcb98e1cad]
 
-(1)[^key-62ce1912519dfa9ce0d648329bc5babd] Paragraph (2) applies where the scheme administrator receives—
+(1)[^c-62ce1912519dfa9ce0d648329bc5babd] Paragraph (2) applies where the scheme administrator receives—
 
 - (a) confirmation as mentioned in regulation 25(1)(b) or (2)(b) that repayment of the tenancy deposit as applied for is agreed, or
 - (b) an application to which regulation 25(3) applies.
 
-(2) The scheme administrator must, within 5 working days of receipt of that confirmation or application[^key-df8b774a75e071d35c5e24c016a41717], repay the tenancy deposit in accordance with the amounts specified in the application.
+(2) The scheme administrator must, within 5 working days of receipt of that confirmation or application[^c-df8b774a75e071d35c5e24c016a41717], repay the tenancy deposit in accordance with the amounts specified in the application.
 
-**27.**[^key-28b66d6be5354bab6e87b2ecc1596c28] (1) Paragraph (2) applies where the scheme administrator does not receive the confirmation and notification from the tenant as required by regulation 25(1)(b) and (c) within 30 working days of writing to the tenant in accordance with regulation 25(1).
+**27.**[^c-28b66d6be5354bab6e87b2ecc1596c28] (1) Paragraph (2) applies where the scheme administrator does not receive the confirmation and notification from the tenant as required by regulation 25(1)(b) and (c) within 30 working days of writing to the tenant in accordance with regulation 25(1).
 
 (2) The scheme administrator must—
 
 - (a) if the amount specified under regulation 24(2)(a) is more than zero, hold that amount in a designated account (in case it is applied for by the tenant at a later date); and
 - (b) repay to the landlord the amount specified under regulation 24(2)(b) within 5 working days of the expiry of the 30 working day period.
 
-**28.**[^key-9703381307df471252982f32608a6678] (1) Paragraph (2) applies where the scheme administrator does not receive the confirmation or application from the landlord as required by regulation 25(2)(b) within 30 working days of writing to the landlord in accordance with regulation 25(2).
+**28.**[^c-9703381307df471252982f32608a6678] (1) Paragraph (2) applies where the scheme administrator does not receive the confirmation or application from the landlord as required by regulation 25(2)(b) within 30 working days of writing to the landlord in accordance with regulation 25(2).
 
 (2) The scheme administrator must repay the full amount of the tenancy deposit to the tenant within 5 working days of the expiry of the 30 working day period.
 
-### 29. Repayment by the scheme administrator where there is a disputed amount[^key-5a55fb6f1eb6ff1f63804d632d01c290]
+### 29. Repayment by the scheme administrator where there is a disputed amount[^c-5a55fb6f1eb6ff1f63804d632d01c290]
 
 (1) Where the scheme administrator receives notification from the tenant of a disputed amount as mentioned in regulation 25(1)(c), the scheme administrator must hold that amount in a designated account until the dispute is resolved.
 
@@ -336,9 +336,9 @@ A scheme administrator must accept any tenancy deposit paid to an approved schem
 
 (3) The scheme administrator must repay the disputed amount of tenancy deposit in accordance with the procedures set out in regulations 30 to 32.
 
-**30.**[^key-9469b16c254f7cc7aa07e4fd1bc858e2] If the scheme administrator receives notification that the dispute has been resolved by agreement between the landlord and tenant, the scheme administrator must repay the tenancy deposit in accordance with that agreement within 5 working days.
+**30.**[^c-9469b16c254f7cc7aa07e4fd1bc858e2] If the scheme administrator receives notification that the dispute has been resolved by agreement between the landlord and tenant, the scheme administrator must repay the tenancy deposit in accordance with that agreement within 5 working days.
 
-**31.**[^key-57b2de6c8196802e2c834e53a6eea432] (1) Paragraphs (2) and (3) apply where, following receipt of the notification referred to in regulation 29(1) the administrator does not receive from the tenant a request for, or consent to, use of the dispute resolution mechanism made available by the scheme administrator and the tenant does not otherwise agree with the landlord the amounts to be repaid.
+**31.**[^c-57b2de6c8196802e2c834e53a6eea432] (1) Paragraphs (2) and (3) apply where, following receipt of the notification referred to in regulation 29(1) the administrator does not receive from the tenant a request for, or consent to, use of the dispute resolution mechanism made available by the scheme administrator and the tenant does not otherwise agree with the landlord the amounts to be repaid.
 
 (2) On the 15th working day after receipt of the notification the scheme administrator must write to the tenant—
 
@@ -350,7 +350,7 @@ A scheme administrator must accept any tenancy deposit paid to an approved schem
 - (a) advise the tenant that the tenancy deposit is to be repaid in accordance with the amounts specified in the landlord’s application; and
 - (b) within the next 5 working days, repay the tenancy deposit in accordance with that application.
 
-**32.**[^key-573e7bfb3a9569e77a6dc6cf84e000c0] (1) Paragraphs (2) and (3) apply where the landlord and tenant agree to use the dispute resolution mechanism made available by the scheme administrator.
+**32.**[^c-573e7bfb3a9569e77a6dc6cf84e000c0] (1) Paragraphs (2) and (3) apply where the landlord and tenant agree to use the dispute resolution mechanism made available by the scheme administrator.
 
 (2) If the scheme administrator is notified that the dispute resolution process has been abandoned before a decision has been made by the adjudicator, the scheme administrator must within 5 working days of that notification repay the tenancy deposit—
 
@@ -361,7 +361,7 @@ A scheme administrator must accept any tenancy deposit paid to an approved schem
 
 ## PART 6 — Dispute resolution
 
-### 33. Dispute resolution mechanism[^key-cbeb43111489ea79644fc6531f712375]
+### 33. Dispute resolution mechanism[^c-cbeb43111489ea79644fc6531f712375]
 
 (1) A scheme administrator must make available a mechanism for the resolution by an adjudicator of disputes between landlords and tenants about the amount of the tenancy deposit to be repaid to the tenant at the end of the tenancy (“dispute resolution”).
 
@@ -377,7 +377,7 @@ A scheme administrator must accept any tenancy deposit paid to an approved schem
 - (h) the extent to which that procedure will be proportionate to the value of the disputed amount; and
 - (i) the circumstances in which and the procedures by which the decision of the adjudicator may be reviewed.
 
-**34.**[^key-81c3cccb5fe286a9cab98315e1c4a1ed] (1) The dispute resolution mechanism must be provided free of charge to the landlord and to the tenant.
+**34.**[^c-81c3cccb5fe286a9cab98315e1c4a1ed] (1) The dispute resolution mechanism must be provided free of charge to the landlord and to the tenant.
 
 (2) Adjudicators must be, and appear to be, independent of the landlord and the tenant.
 
@@ -385,7 +385,7 @@ A scheme administrator must accept any tenancy deposit paid to an approved schem
 
 (4) Use of the dispute resolution mechanism must not be compulsory, but the tenancy deposit scheme must require a landlord who has submitted a deposit to it to use the dispute resolution mechanism in any case where the tenant requests a referral.
 
-**35.**[^key-dd91229a9399677c671529485efbe444] (1) Procedures must be in place whereby the scheme administrator will refer all disputes to the dispute resolution mechanism, regardless of the value of the disputed amount, where—
+**35.**[^c-dd91229a9399677c671529485efbe444] (1) Procedures must be in place whereby the scheme administrator will refer all disputes to the dispute resolution mechanism, regardless of the value of the disputed amount, where—
 
 - (a) either the landlord or tenant requests the referral (although if the request is made by the landlord the referral must be made only if the tenant consents to use of the dispute resolution mechanism); and
 - (b) the scheme administrator is satisfied that attempts to resolve the dispute without recourse to the dispute resolution mechanism have been made and have not been successful.
@@ -395,7 +395,7 @@ A scheme administrator must accept any tenancy deposit paid to an approved schem
 - (a) specify the timescale within which a referral to the dispute resolution mechanism may be requested by the landlord or tenant; and
 - (b) provide that where a dispute has been referred to the dispute resolution mechanism it may only be suspended or abandoned with the consent of both parties.
 
-### 36. The decision of the adjudicator[^key-2fc784d2611aced62ed08ea4eee2df56]
+### 36. The decision of the adjudicator[^c-2fc784d2611aced62ed08ea4eee2df56]
 
 (1) The adjudicator must decide any dispute within 20 working days of receipt by the adjudicator of the referral.
 
@@ -405,7 +405,7 @@ A scheme administrator must accept any tenancy deposit paid to an approved schem
 - (b) the reasons for the decision; and
 - (c) the amounts of tenancy deposit to be repaid by the scheme administrator to the tenant and to the landlord.
 
-### 37. Review[^key-7512aad9a00e7b97f6cf914cbad615a3]
+### 37. Review[^c-7512aad9a00e7b97f6cf914cbad615a3]
 
 (1) Procedures must be in place whereby either the landlord or the tenant may apply to the scheme administrator, within 10 working days of an adjudicator giving notice of a decision under regulation 36, for review of that decision but only on the grounds that the adjudicator has erred in fact or in law (or both).
 
@@ -415,7 +415,7 @@ A scheme administrator must accept any tenancy deposit paid to an approved schem
 
 (4) Where an application for review is rejected by the scheme administrator, the scheme administrator must repay the tenancy deposit as soon as is reasonably practicable, but not before the expiry of the time within which another person may request review in terms of paragraph (1).
 
-**38.**[^key-1e9ca1fed865a823158b542b978849bf] (1) If, after consideration of the application under regulation 37(1) and any representations regarding it, the scheme administrator considers that there is a reasonable ground for believing that the adjudicator may have erred in fact or in law, the scheme administrator must accept the application and refer the decision of the adjudicator under regulation 36 for review by an adjudicator who was not involved in deciding the original referral.
+**38.**[^c-1e9ca1fed865a823158b542b978849bf] (1) If, after consideration of the application under regulation 37(1) and any representations regarding it, the scheme administrator considers that there is a reasonable ground for believing that the adjudicator may have erred in fact or in law, the scheme administrator must accept the application and refer the decision of the adjudicator under regulation 36 for review by an adjudicator who was not involved in deciding the original referral.
 
 (2) The adjudicator carrying out the review under paragraph (1) may—
 
@@ -428,7 +428,7 @@ and in either case must give notice of the review decision in accordance with re
 
 (4) The scheme administrator must repay the tenancy deposit in accordance with the adjudicator’s decision on the review within 5 working days of receipt of the notice of that decision
 
-### 39. Information about dispute resolution[^key-d44e2341d30fe5da2a6ff4016fe902c6]
+### 39. Information about dispute resolution[^c-d44e2341d30fe5da2a6ff4016fe902c6]
 
 The scheme administrator must collect and maintain information about disputes referred to the dispute resolution mechanism, in particular—
 
@@ -441,7 +441,7 @@ The scheme administrator must collect and maintain information about disputes re
 
 ## PART 7 — Information and publicity requirements in relation to tenancy deposit schemes
 
-### 40. Duty to publicise approved schemes[^key-ecd12c8d0a9df631680f13a05ab6eb16]
+### 40. Duty to publicise approved schemes[^c-ecd12c8d0a9df631680f13a05ab6eb16]
 
 (1) The scheme administrator must ensure that an approved scheme is publicised across Scotland, for the purposes of paragraph (2)—
 
@@ -454,7 +454,7 @@ The scheme administrator must collect and maintain information about disputes re
 - (b) make landlords, tenants and the general public aware of the date on which the scheme will become operational; and
 - (c) promote tenants’ understanding of landlords’ duties in relation to tenancy deposits.
 
-### 41. Duty to produce an information leaflet[^key-091a30aa65b6213275aa2024a7862add]
+### 41. Duty to produce an information leaflet[^c-091a30aa65b6213275aa2024a7862add]
 
 (1) Before an approved tenancy deposit scheme becomes operational, the scheme administrator must have available an information leaflet detailing—
 
@@ -465,7 +465,7 @@ The scheme administrator must collect and maintain information about disputes re
 
 (2) The scheme administrator must provide a copy of the information leaflet to the landlord and the tenant when issuing them with confirmation under regulation 22(1)(b) and also when requested to do so.
 
-### 42. Landlord’s duty to provide information to the tenant[^key-0b49965d198b4d0f4f512ef35e79aac6]
+### 42. Landlord’s duty to provide information to the tenant[^c-0b49965d198b4d0f4f512ef35e79aac6]
 
 (1) The landlord must provide the tenant with the information in paragraph (2) within the timescales specified in paragraph (3).
 
@@ -483,16 +483,16 @@ The scheme administrator must collect and maintain information about disputes re
 - (a) where the tenancy deposit is paid in compliance with regulation 3(1), within the timescale set out in that regulation; or
 - (b) in any other case, within 30 working days of payment of the deposit to the tenancy deposit scheme.
 
-(4)[^key-4e223047c408849820b9896c81cf7b2f] Where the landlord and the tenant agree that the tenancy deposit is to be paid in instalments—
+(4)[^c-4e223047c408849820b9896c81cf7b2f] Where the landlord and the tenant agree that the tenancy deposit is to be paid in instalments—
 
 - (a) paragraphs (2) and (3) apply as if the references to deposit were to each instalment of the deposit, and
 - (b) in relation to the information provided under paragraph (2)(a), confirmation of the cumulative amount of the tenancy deposit paid by the tenant in respect of each instalment after the first instalment.
 
-### 43. Duty to provide updated information[^key-a5bd6e73e8010ad975e99918a80aea8a]
+### 43. Duty to provide updated information[^c-a5bd6e73e8010ad975e99918a80aea8a]
 
 Where information required to be provided by the scheme administrator under regulation 22 or by the landlord under regulation 42 becomes inaccurate the person required to provide that information must ensure that revised information is provided.
 
-### 44. Landlord’s duty to provide information to the scheme administrator relating to landlord registration[^key-7c88d4c92fc5ba3055ad882a4a509147]
+### 44. Landlord’s duty to provide information to the scheme administrator relating to landlord registration[^c-7c88d4c92fc5ba3055ad882a4a509147]
 
 (1) In addition to the information required under regulation 21, when paying a tenancy deposit to a scheme administrator a landlord must provide information to the scheme administrator demonstrating that the landlord—
 
@@ -506,9 +506,9 @@ in the register maintained by the local authority for the area in which the rele
 
 ## PART 8 — Performance reporting
 
-### 45. Duty to provide annual report to the Scottish Ministers[^key-16d51e46ff308304a87f5b40705482ab]
+### 45. Duty to provide annual report to the Scottish Ministers[^c-16d51e46ff308304a87f5b40705482ab]
 
-(1) On or before 31 August[^key-f0baf2c1d416559f9ccef3004bca5711] following the end of each financial year, the scheme administrator must send to the Scottish Ministers a report of the operation of the approved scheme and of the performance of the scheme administrator during that financial year.
+(1) On or before 31 August[^c-f0baf2c1d416559f9ccef3004bca5711] following the end of each financial year, the scheme administrator must send to the Scottish Ministers a report of the operation of the approved scheme and of the performance of the scheme administrator during that financial year.
 
 (2) The report must include the following information—
 
@@ -527,7 +527,7 @@ in the register maintained by the local authority for the area in which the rele
   - (vi) the time taken to repay the deposit in accordance with the decision;
 - (h) details of any complaints received about the scheme including any relating to the dispute resolution mechanism.
 
-### 46. Duty to provide a quarterly performance report[^key-f8216fc097472dccb736645415b0b73d]
+### 46. Duty to provide a quarterly performance report[^c-f8216fc097472dccb736645415b0b73d]
 
 (1) Within 15 working days after the end of June, September, December and March during any financial year in which an approved scheme is operational, the scheme administrator must send to the Scottish Ministers a report of the scheme’s performance measured against the key performance indicators in the Schedule to these Regulations.
 
@@ -537,14 +537,14 @@ in the register maintained by the local authority for the area in which the rele
 
 ## PART 9 — Transitional provisions
 
-### 47. Transitional provisions[^key-b1d888f5ba10f5d1ad9f6f756da31b69]
+### 47. Transitional provisions[^c-b1d888f5ba10f5d1ad9f6f756da31b69]
 
 Where the tenancy deposit was paid to the landlord before the day on which these Regulations come into force, regulation 3 applies with the modification that the tenancy deposit must be paid, and the information provided, within 30 working days of the date determined under paragraph (a) or (b)—
 
 - (a) where the tenancy is renewed, by express agreement or by the operation of tacit relocation, on a day that falls three months or more, but less than nine months, after the first day on which an approved scheme becomes operational, the date of that renewal;
 - (b) in any other case, the date which falls nine months after the first day on which an approved scheme becomes operational.
 
-**48.**[^key-36a39fe09becd0edc42d379d27edcf07] Where the tenancy deposit was paid to the landlord on or after the day on which these Regulations come into force and before the first day on which an approved scheme becomes operational, regulation 3 applies with the modification that the tenancy deposit must be paid and the information provided within 30 working days of the date which falls three months after the first day on which such a scheme becomes operational.
+**48.**[^c-36a39fe09becd0edc42d379d27edcf07] Where the tenancy deposit was paid to the landlord on or after the day on which these Regulations come into force and before the first day on which an approved scheme becomes operational, regulation 3 applies with the modification that the tenancy deposit must be paid and the information provided within 30 working days of the date which falls three months after the first day on which such a scheme becomes operational.
 
 ALEX NEIL
 
@@ -556,7 +556,7 @@ Edinburgh
 
 6th March 2011
 
-## SCHEDULE[^key-2b0b4edbc17ea434cb9ff0dfe2ea0a8f]
+## SCHEDULE[^c-2b0b4edbc17ea434cb9ff0dfe2ea0a8f]
 
 Regulation 46
 
@@ -608,9 +608,9 @@ A Business and Regulatory Impact Assessment has been prepared for this instrumen
 
 [^f00001]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
 
-[^key-132dc3272d8f0b1c8bf07a7b233418ea]: Commencement: Reg. 1 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-132dc3272d8f0b1c8bf07a7b233418ea]: Commencement: Reg. 1 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-e056996228bade210219e8181d5a9c95]: Commencement: Reg. 2 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-e056996228bade210219e8181d5a9c95]: Commencement: Reg. 2 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
 [^f00002]: Footnote: [2004 asp 8](https://www.legislation.gov.uk/asp/2004/8).
 
@@ -618,128 +618,128 @@ A Business and Regulatory Impact Assessment has been prepared for this instrumen
 
 [^f00004]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-19f8725c5097aaaeaeaa18da968bceae]: Commencement: Reg. 3 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-19f8725c5097aaaeaeaa18da968bceae]: Commencement: Reg. 3 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-dd417bdb1ec8144608e11406fb3f6ab1]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/ssi/2011/176/regulation/3/1A) inserted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/2/a)
+[^c-dd417bdb1ec8144608e11406fb3f6ab1]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/ssi/2011/176/regulation/3/1A) inserted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/2/a)
 
-[^key-2ca5d2cffb089d1b779e4c66997c3c2b]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/ssi/2011/176/regulation/3/2A) inserted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/2/b)
+[^c-2ca5d2cffb089d1b779e4c66997c3c2b]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/ssi/2011/176/regulation/3/2A) inserted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/2/b)
 
-[^key-44233e9e6909ce6371538946e8e385d8]: Commencement: Reg. 4 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-44233e9e6909ce6371538946e8e385d8]: Commencement: Reg. 4 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-93e604e28577c00b2b57ae7e52ffad69]: Commencement: Reg. 5 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-93e604e28577c00b2b57ae7e52ffad69]: Commencement: Reg. 5 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-ba9dde1662cdfec77d59c6c055aeb9cc]: Commencement: Reg. 6 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-ba9dde1662cdfec77d59c6c055aeb9cc]: Commencement: Reg. 6 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-e4b0cb209a612793f92fac564e3717c5]: Commencement: Reg. 7 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-e4b0cb209a612793f92fac564e3717c5]: Commencement: Reg. 7 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-501496f8e40dff2d83f76facffcb1ada]: Commencement: Reg. 8 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-501496f8e40dff2d83f76facffcb1ada]: Commencement: Reg. 8 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-4b979030644b7c1984cf88bf75397ca2]: Commencement: Reg. 9 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-4b979030644b7c1984cf88bf75397ca2]: Commencement: Reg. 9 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-cd5af1f5d702d8246de214974deda90c]: Textual amendment: Reg. 9 heading substituted (1.12.2017) by virtue of [The Housing (Scotland) Act 2014 (Consequential Provisions) Order 2017 (S.S.I. 2017/329)](https://www.legislation.gov.uk/ssi/2017/329), [arts. 1](https://www.legislation.gov.uk/ssi/2017/329/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/329/article/2/2)
+[^c-cd5af1f5d702d8246de214974deda90c]: Textual amendment: Reg. 9 heading substituted (1.12.2017) by virtue of [The Housing (Scotland) Act 2014 (Consequential Provisions) Order 2017 (S.S.I. 2017/329)](https://www.legislation.gov.uk/ssi/2017/329), [arts. 1](https://www.legislation.gov.uk/ssi/2017/329/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/329/article/2/2)
 
-[^key-52cb61824e2241c2bd5078d8fb4c1704]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2011/176/regulation/9/1) substituted (1.12.2017) by [The Housing (Scotland) Act 2014 (Consequential Provisions) Order 2017 (S.S.I. 2017/329)](https://www.legislation.gov.uk/ssi/2017/329), [arts. 1](https://www.legislation.gov.uk/ssi/2017/329/article/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2017/329/article/2/3/a)
+[^c-52cb61824e2241c2bd5078d8fb4c1704]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2011/176/regulation/9/1) substituted (1.12.2017) by [The Housing (Scotland) Act 2014 (Consequential Provisions) Order 2017 (S.S.I. 2017/329)](https://www.legislation.gov.uk/ssi/2017/329), [arts. 1](https://www.legislation.gov.uk/ssi/2017/329/article/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2017/329/article/2/3/a)
 
-[^key-bab952c76e3d07af750e11f59e102018]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2011/176/regulation/9/2) omitted (1.12.2017) by virtue of [The Housing (Scotland) Act 2014 (Consequential Provisions) Order 2017 (S.S.I. 2017/329)](https://www.legislation.gov.uk/ssi/2017/329), [arts. 1](https://www.legislation.gov.uk/ssi/2017/329/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2017/329/article/2/3/b)
+[^c-bab952c76e3d07af750e11f59e102018]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/ssi/2011/176/regulation/9/2) omitted (1.12.2017) by virtue of [The Housing (Scotland) Act 2014 (Consequential Provisions) Order 2017 (S.S.I. 2017/329)](https://www.legislation.gov.uk/ssi/2017/329), [arts. 1](https://www.legislation.gov.uk/ssi/2017/329/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2017/329/article/2/3/b)
 
-[^key-34e074527d340c2fb01e4a7af52614f8]: Commencement: Reg. 10 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-34e074527d340c2fb01e4a7af52614f8]: Commencement: Reg. 10 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-48ad4ed33b881dfd79a39892c18d4533]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/ssi/2011/176/regulation/10) substituted (1.12.2017) by [The Housing (Scotland) Act 2014 (Consequential Provisions) Order 2017 (S.S.I. 2017/329)](https://www.legislation.gov.uk/ssi/2017/329), [arts. 1](https://www.legislation.gov.uk/ssi/2017/329/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2017/329/article/2/4)
+[^c-48ad4ed33b881dfd79a39892c18d4533]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/ssi/2011/176/regulation/10) substituted (1.12.2017) by [The Housing (Scotland) Act 2014 (Consequential Provisions) Order 2017 (S.S.I. 2017/329)](https://www.legislation.gov.uk/ssi/2017/329), [arts. 1](https://www.legislation.gov.uk/ssi/2017/329/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2017/329/article/2/4)
 
-[^key-ffbb45ee82ead21dd6d22343aec477ce]: Commencement: Reg. 11 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-ffbb45ee82ead21dd6d22343aec477ce]: Commencement: Reg. 11 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-bd48cc008f2924415871723508133395]: Commencement: Reg. 12 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-bd48cc008f2924415871723508133395]: Commencement: Reg. 12 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-3955f7f51564fec876fa284231ae325f]: Commencement: Reg. 13 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-3955f7f51564fec876fa284231ae325f]: Commencement: Reg. 13 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-0573af02b5f9aa2721a6c04b074f8c44]: Commencement: Reg. 14 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-0573af02b5f9aa2721a6c04b074f8c44]: Commencement: Reg. 14 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-c21b936a932dbb2ed47e0ed14c8aa567]: Commencement: Reg. 15 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-c21b936a932dbb2ed47e0ed14c8aa567]: Commencement: Reg. 15 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-a7cd78e5acc4717edbfe6705b41f4474]: Commencement: Reg. 16 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-a7cd78e5acc4717edbfe6705b41f4474]: Commencement: Reg. 16 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-0f6adb56e2cce37a2750d10b1a6baf61]: Commencement: Reg. 17 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-0f6adb56e2cce37a2750d10b1a6baf61]: Commencement: Reg. 17 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-ff5f93c49a6e732cd81a76f909f63fa1]: Commencement: Reg. 18 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-ff5f93c49a6e732cd81a76f909f63fa1]: Commencement: Reg. 18 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-456abc3f79d2cc6b99bbfacd15ed32c6]: Commencement: Reg. 19 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-456abc3f79d2cc6b99bbfacd15ed32c6]: Commencement: Reg. 19 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-182e0ef208a37d3475aae61159923dcc]: Commencement: Reg. 20 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-182e0ef208a37d3475aae61159923dcc]: Commencement: Reg. 20 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-9f36a8273cd6341994c49a0f3ce16466]: Commencement: Reg. 21 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-9f36a8273cd6341994c49a0f3ce16466]: Commencement: Reg. 21 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-3cd874eca255c8e66384f75ed9d3a285]: Commencement: Reg. 22 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-3cd874eca255c8e66384f75ed9d3a285]: Commencement: Reg. 22 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-1491c9cebee7e78bc16fffee99db97a7]: Textual amendment: Word in [reg. 22(2)](https://www.legislation.gov.uk/ssi/2011/176/regulation/22/2) omitted (11.11.2019) by virtue of [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/3/a)
+[^c-1491c9cebee7e78bc16fffee99db97a7]: Textual amendment: Word in [reg. 22(2)](https://www.legislation.gov.uk/ssi/2011/176/regulation/22/2) omitted (11.11.2019) by virtue of [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/3/a)
 
-[^key-1b1dfdf57d8be49b484d57944e894d26]: Textual amendment: [Reg. 22(2)(f)](https://www.legislation.gov.uk/ssi/2011/176/regulation/22/2/f) and word inserted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/3/b)
+[^c-1b1dfdf57d8be49b484d57944e894d26]: Textual amendment: [Reg. 22(2)(f)](https://www.legislation.gov.uk/ssi/2011/176/regulation/22/2/f) and word inserted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/3/b)
 
-[^key-c2d3aeb79558ace21e63536f0d9b03f1]: Commencement: Reg. 23 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-c2d3aeb79558ace21e63536f0d9b03f1]: Commencement: Reg. 23 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-4a3993193cdd26b5ae495e96c011affc]: Commencement: Reg. 24 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-4a3993193cdd26b5ae495e96c011affc]: Commencement: Reg. 24 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-0443fe2e8215fa51add0f44ba4d44922]: Commencement: Reg. 25 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-0443fe2e8215fa51add0f44ba4d44922]: Commencement: Reg. 25 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-672d46d16b81410edd196a2d5efba041]: Textual amendment: Word in [reg. 25](https://www.legislation.gov.uk/ssi/2011/176/regulation/25) omitted (11.11.2019) by virtue of [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/4/a)
+[^c-672d46d16b81410edd196a2d5efba041]: Textual amendment: Word in [reg. 25](https://www.legislation.gov.uk/ssi/2011/176/regulation/25) omitted (11.11.2019) by virtue of [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/4/a)
 
-[^key-f80f777c5dd04c33b6cb7081d96fa6ff]: Textual amendment: [Reg. 25(1)(f)](https://www.legislation.gov.uk/ssi/2011/176/regulation/25/1/f) and word inserted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/4/b)
+[^c-f80f777c5dd04c33b6cb7081d96fa6ff]: Textual amendment: [Reg. 25(1)(f)](https://www.legislation.gov.uk/ssi/2011/176/regulation/25/1/f) and word inserted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/4/b)
 
-[^key-882942b5c246e306c8349adeb6b40573]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/ssi/2011/176/regulation/25/3) inserted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/4/c)
+[^c-882942b5c246e306c8349adeb6b40573]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/ssi/2011/176/regulation/25/3) inserted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/4/c)
 
-[^key-b60a0b6939b4bd67405d83dcb98e1cad]: Commencement: Reg. 26 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-b60a0b6939b4bd67405d83dcb98e1cad]: Commencement: Reg. 26 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-62ce1912519dfa9ce0d648329bc5babd]: Textual amendment: [Reg. 26(1)](https://www.legislation.gov.uk/ssi/2011/176/regulation/26/1) substituted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/5/a)
+[^c-62ce1912519dfa9ce0d648329bc5babd]: Textual amendment: [Reg. 26(1)](https://www.legislation.gov.uk/ssi/2011/176/regulation/26/1) substituted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/5/a)
 
-[^key-df8b774a75e071d35c5e24c016a41717]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/ssi/2011/176/regulation/26/2) inserted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/5/b)
+[^c-df8b774a75e071d35c5e24c016a41717]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/ssi/2011/176/regulation/26/2) inserted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/5/b)
 
-[^key-28b66d6be5354bab6e87b2ecc1596c28]: Commencement: Reg. 27 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-28b66d6be5354bab6e87b2ecc1596c28]: Commencement: Reg. 27 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-9703381307df471252982f32608a6678]: Commencement: Reg. 28 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-9703381307df471252982f32608a6678]: Commencement: Reg. 28 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-5a55fb6f1eb6ff1f63804d632d01c290]: Commencement: Reg. 29 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-5a55fb6f1eb6ff1f63804d632d01c290]: Commencement: Reg. 29 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-9469b16c254f7cc7aa07e4fd1bc858e2]: Commencement: Reg. 30 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-9469b16c254f7cc7aa07e4fd1bc858e2]: Commencement: Reg. 30 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-57b2de6c8196802e2c834e53a6eea432]: Commencement: Reg. 31 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-57b2de6c8196802e2c834e53a6eea432]: Commencement: Reg. 31 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-573e7bfb3a9569e77a6dc6cf84e000c0]: Commencement: Reg. 32 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-573e7bfb3a9569e77a6dc6cf84e000c0]: Commencement: Reg. 32 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-cbeb43111489ea79644fc6531f712375]: Commencement: Reg. 33 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-cbeb43111489ea79644fc6531f712375]: Commencement: Reg. 33 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-81c3cccb5fe286a9cab98315e1c4a1ed]: Commencement: Reg. 34 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-81c3cccb5fe286a9cab98315e1c4a1ed]: Commencement: Reg. 34 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-dd91229a9399677c671529485efbe444]: Commencement: Reg. 35 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-dd91229a9399677c671529485efbe444]: Commencement: Reg. 35 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-2fc784d2611aced62ed08ea4eee2df56]: Commencement: Reg. 36 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-2fc784d2611aced62ed08ea4eee2df56]: Commencement: Reg. 36 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-7512aad9a00e7b97f6cf914cbad615a3]: Commencement: Reg. 37 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-7512aad9a00e7b97f6cf914cbad615a3]: Commencement: Reg. 37 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-1e9ca1fed865a823158b542b978849bf]: Commencement: Reg. 38 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-1e9ca1fed865a823158b542b978849bf]: Commencement: Reg. 38 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-d44e2341d30fe5da2a6ff4016fe902c6]: Commencement: Reg. 39 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-d44e2341d30fe5da2a6ff4016fe902c6]: Commencement: Reg. 39 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-ecd12c8d0a9df631680f13a05ab6eb16]: Commencement: Reg. 40 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-ecd12c8d0a9df631680f13a05ab6eb16]: Commencement: Reg. 40 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-091a30aa65b6213275aa2024a7862add]: Commencement: Reg. 41 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-091a30aa65b6213275aa2024a7862add]: Commencement: Reg. 41 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-0b49965d198b4d0f4f512ef35e79aac6]: Commencement: Reg. 42 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-0b49965d198b4d0f4f512ef35e79aac6]: Commencement: Reg. 42 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-4e223047c408849820b9896c81cf7b2f]: Textual amendment: [Reg. 42(4)](https://www.legislation.gov.uk/ssi/2011/176/regulation/42/4) inserted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/6)
+[^c-4e223047c408849820b9896c81cf7b2f]: Textual amendment: [Reg. 42(4)](https://www.legislation.gov.uk/ssi/2011/176/regulation/42/4) inserted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/6)
 
-[^key-a5bd6e73e8010ad975e99918a80aea8a]: Commencement: Reg. 43 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-a5bd6e73e8010ad975e99918a80aea8a]: Commencement: Reg. 43 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-7c88d4c92fc5ba3055ad882a4a509147]: Commencement: Reg. 44 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-7c88d4c92fc5ba3055ad882a4a509147]: Commencement: Reg. 44 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
 [^f00005]: Footnote: Section 84(5) was amended by section 176(4) of the Housing (Scotland) Act [2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1).
 
-[^key-16d51e46ff308304a87f5b40705482ab]: Commencement: Reg. 45 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-16d51e46ff308304a87f5b40705482ab]: Commencement: Reg. 45 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-f0baf2c1d416559f9ccef3004bca5711]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/ssi/2011/176/regulation/45/1) substituted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/7)
+[^c-f0baf2c1d416559f9ccef3004bca5711]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/ssi/2011/176/regulation/45/1) substituted (11.11.2019) by [The Tenancy Deposit Schemes (Scotland) Amendment Regulations 2019 (S.S.I. 2019/331)](https://www.legislation.gov.uk/ssi/2019/331), [regs. 1](https://www.legislation.gov.uk/ssi/2019/331/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2019/331/regulation/2/7)
 
-[^key-f8216fc097472dccb736645415b0b73d]: Commencement: Reg. 46 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-f8216fc097472dccb736645415b0b73d]: Commencement: Reg. 46 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-b1d888f5ba10f5d1ad9f6f756da31b69]: Commencement: Reg. 47 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-b1d888f5ba10f5d1ad9f6f756da31b69]: Commencement: Reg. 47 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-36a39fe09becd0edc42d379d27edcf07]: Commencement: Reg. 48 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-36a39fe09becd0edc42d379d27edcf07]: Commencement: Reg. 48 in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
 
-[^key-2b0b4edbc17ea434cb9ff0dfe2ea0a8f]: Commencement: Sch. in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)
+[^c-2b0b4edbc17ea434cb9ff0dfe2ea0a8f]: Commencement: Sch. in force at 7.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/176/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Protection of interests[^key-8526206bc2a2419c8f535709a78d517d]
+## 43. Protection of interests[^c-8526206bc2a2419c8f535709a78d517d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 12 (protective provisions) to the Order has effect.
 
 ## Annotations
 
-[^key-8526206bc2a2419c8f535709a78d517d]: Commencement: Art. 43 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-8526206bc2a2419c8f535709a78d517d]: Commencement: Art. 43 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)

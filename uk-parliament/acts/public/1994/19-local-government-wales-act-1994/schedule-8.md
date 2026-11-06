@@ -120,9 +120,9 @@ and, in subsection (3), after “county,” insert “ county borough, ”.
 
 *Extent: E+W*
 
-**9.** (1)[^key-01d5d79114bbb211b07ac2bf82b5598c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.** (1)[^c-01d5d79114bbb211b07ac2bf82b5598c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) In Schedule 1 to the Housing Act 1988[^key-1d94962b6f79d4002f0f6013d7ddfc4a] (tenancies which cannot be assured tenancies), in paragraph 12(2)(a) (local authority tenancies etc.), after “county,” insert “ county borough, ”.
+(2) In Schedule 1 to the Housing Act 1988[^c-1d94962b6f79d4002f0f6013d7ddfc4a] (tenancies which cannot be assured tenancies), in paragraph 12(2)(a) (local authority tenancies etc.), after “county,” insert “ county borough, ”.
 
 ### The Local Government and Housing Act 1989 (c. 42)
 
@@ -147,8 +147,8 @@ and, in subsection (3), after “county,” insert “ county borough, ”.
 
 [^c20991021]: Textual amendment: [Sch. 8 para. 3(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/8/paragraph/3/2) repealed (W.) (1.6.2003) by [The Administration of the Rent Officer Service (Wales) Order 2003 (S.I. 2003/973)](https://www.legislation.gov.uk/uksi/2003/973), [art. 13](https://www.legislation.gov.uk/uksi/2003/973/article/13)
 
-[^key-01d5d79114bbb211b07ac2bf82b5598c]: Textual amendment: [Sch. 8 para. 9(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/8/paragraph/9/1) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/9/a)
+[^c-01d5d79114bbb211b07ac2bf82b5598c]: Textual amendment: [Sch. 8 para. 9(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/8/paragraph/9/1) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/9/a)
 
-[^key-1d94962b6f79d4002f0f6013d7ddfc4a]: Textual amendment: Words in [Sch. 8 para. 9(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/8/paragraph/9/2) substituted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/9/b)
+[^c-1d94962b6f79d4002f0f6013d7ddfc4a]: Textual amendment: Words in [Sch. 8 para. 9(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/8/paragraph/9/2) substituted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/9/b)
 
 [^c10521101]: Textual amendment: [Sch. 8 para. 10(1)(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/8/paragraph/10/1/2) repealed (17.12.1996) by [1996 c. 53](https://www.legislation.gov.uk/ukpga/1996/53), [s. 147](https://www.legislation.gov.uk/ukpga/1996/53/section/147), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/53/schedule/3/part/I); [S.I. 1996/2842](https://www.legislation.gov.uk/uksi/1996/2842), [art. 3](https://www.legislation.gov.uk/uksi/1996/2842/article/3) (with transitional and saving provisions in [arts. 5](https://www.legislation.gov.uk/uksi/1996/2842/article/5), [6](https://www.legislation.gov.uk/uksi/1996/2842/article/6), [8](https://www.legislation.gov.uk/uksi/1996/2842/article/8))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 134. Rate relief schemes: application of housing benefit law[^key-d915be7cbe132f10ca0e345d8538caec]
+## 134. Rate relief schemes: application of housing benefit law[^c-d915be7cbe132f10ca0e345d8538caec]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ In Article 30A of the Rates (Northern Ireland) Order 1977 (rate relief scheme in
 
 ## Annotations
 
-[^key-d915be7cbe132f10ca0e345d8538caec]: Commencement: [Art. 134](https://www.legislation.gov.uk/nisi/2015/2006/article/134) in operation at 27.9.2017 by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(f)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/f)
+[^c-d915be7cbe132f10ca0e345d8538caec]: Commencement: [Art. 134](https://www.legislation.gov.uk/nisi/2015/2006/article/134) in operation at 27.9.2017 by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(f)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/f)

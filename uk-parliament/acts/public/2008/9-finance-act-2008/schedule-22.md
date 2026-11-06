@@ -59,55 +59,55 @@ Section 62
 
 ### Distributions arising from tax arrangements
 
-**3.**[^key-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Disposals for consideration not recognised by accounting practice
 
-**4.**[^key-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Avoidance relying on continuity of treatment provisions
 
-**5.**[^key-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Distributions from shares treated as loan relationships
 
-**6.**[^key-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Depreciatory transactions
 
-**7.**[^key-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Falsifying transactions
 
-**10.**[^key-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Non-qualifying shares
 
-**13.**[^key-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Income producing assets
 
-**14.**[^key-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Exit arrangements
 
-**15.**[^key-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Schemes etc designed to reproduce interest-like return
 
-**16.**[^key-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-57026e5e4c969832b259a027620ea07f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Partnerships
 
-**17.** (1)[^key-07938e3f0c853292ba96852b8b9b9f28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.** (1)[^c-07938e3f0c853292ba96852b8b9b9f28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 131 of FA 2004 (companies in partnership), insert at the end—
 
@@ -117,15 +117,15 @@ Section 62
 
 ### Loan relationships treated differently by debtor and creditor
 
-**18.**[^key-146f3ee1df8f6d32fe49cdc6bd0da1a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-146f3ee1df8f6d32fe49cdc6bd0da1a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Commercial rate of interest
 
-**19.**[^key-146f3ee1df8f6d32fe49cdc6bd0da1a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-146f3ee1df8f6d32fe49cdc6bd0da1a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Derivative contracts
 
-**20.**[^key-146f3ee1df8f6d32fe49cdc6bd0da1a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-146f3ee1df8f6d32fe49cdc6bd0da1a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Restrictions on relief for interest payments
 
@@ -145,8 +145,8 @@ Section 62
 
 ## Annotations
 
-[^key-57026e5e4c969832b259a027620ea07f]: Textual amendment: [Sch. 22 paras. 3-16](https://www.legislation.gov.uk/ukpga/2008/9/schedule/22/paragraph/3) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-57026e5e4c969832b259a027620ea07f]: Textual amendment: [Sch. 22 paras. 3-16](https://www.legislation.gov.uk/ukpga/2008/9/schedule/22/paragraph/3) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-07938e3f0c853292ba96852b8b9b9f28]: Textual amendment: Sch. 22 para. 17(1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-07938e3f0c853292ba96852b8b9b9f28]: Textual amendment: Sch. 22 para. 17(1) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-146f3ee1df8f6d32fe49cdc6bd0da1a2]: Textual amendment: [Sch. 22 paras. 18-20](https://www.legislation.gov.uk/ukpga/2008/9/schedule/22/paragraph/18) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-146f3ee1df8f6d32fe49cdc6bd0da1a2]: Textual amendment: [Sch. 22 paras. 18-20](https://www.legislation.gov.uk/ukpga/2008/9/schedule/22/paragraph/18) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

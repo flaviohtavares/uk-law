@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Characterisation of river basin districts[^key-511623569a8c2c8e08fc0f2db693e24e]
+## 5. Characterisation of river basin districts[^c-511623569a8c2c8e08fc0f2db693e24e]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-511623569a8c2c8e08fc0f2db693e24e]: Commencement: S. 5 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/562/article/2/a)
+[^c-511623569a8c2c8e08fc0f2db693e24e]: Commencement: S. 5 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/562/article/2/a)

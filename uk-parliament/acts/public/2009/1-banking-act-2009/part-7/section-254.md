@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 254. Abolition for cheques[^key-e2a2c884aa030e9047755e39e2743d09]
+## 254. Abolition for cheques[^c-e2a2c884aa030e9047755e39e2743d09]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2a2c884aa030e9047755e39e2743d09]: Commencement: S. 254 in force at 12.4.2009, see [s. 263(2)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/2)
+[^c-e2a2c884aa030e9047755e39e2743d09]: Commencement: S. 254 in force at 12.4.2009, see [s. 263(2)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/2)

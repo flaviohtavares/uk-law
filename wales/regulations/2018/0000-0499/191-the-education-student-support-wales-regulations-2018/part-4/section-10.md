@@ -34,8 +34,8 @@ Where the designated course is a full-time course, P is eligible for a loan in r
 
 In respect of P undertaking the designated course, P has been bestowed or paid—
 
-- (a)[^key-629f8a7fdd3fc167f056e7284f620d77] where the course is a full-time course, a healthcare bursary, the amount of which is not calculated by reference to P’s income (unless it is a bursary grant for living costs);
-- (b)[^key-c3590ffe5489e09911d8777785f16172] where the course is a part-time course, a healthcare bursary (whether or not calculated by reference to P’s income).
+- (a)[^c-629f8a7fdd3fc167f056e7284f620d77] where the course is a full-time course, a healthcare bursary, the amount of which is not calculated by reference to P’s income (unless it is a bursary grant for living costs);
+- (b)[^c-c3590ffe5489e09911d8777785f16172] where the course is a part-time course, a healthcare bursary (whether or not calculated by reference to P’s income).
 
 *Exception 4*
 
@@ -59,9 +59,9 @@ But P may be an eligible student despite being a prisoner if—
 - (b) P's present course is a full-time end-on course, or
 - (c) P has been authorised by the prison Governor or Director or other appropriate authority to study the present course and P's earliest release date is within 6 years of the first day of the first academic year of the course.
 
-*Exception 8[^key-a733cdd58409fad7b2c6a4853e6d74bb]*
+*Exception 8[^c-a733cdd58409fad7b2c6a4853e6d74bb]*
 
-The designated course begins on or after 1 January 2028 and the only paragraph or paragraphs in Schedule 2 into which P falls is one or more of paragraphs 5A, 6B , 6BA[^key-7f5bf70b05765dedc4618a89528960e3], or 6D.
+The designated course begins on or after 1 January 2028 and the only paragraph or paragraphs in Schedule 2 into which P falls is one or more of paragraphs 5A, 6B , 6BA[^c-7f5bf70b05765dedc4618a89528960e3], or 6D.
 
 (2) In Exception 3, “bursary grant for living costs” is a grant for living costs made available under the NHS Wales Bursary Scheme.
 
@@ -80,7 +80,7 @@ The designated course begins on or after 1 January 2028 and the only paragraph o
   - (a) section 63(6) of the Health Services and Public Health Act 1968 [^c23554511], but not a payment made out of the Learning Support Fund;
   - (b) Article 44 of the Health and Personal Social Services (Northern Ireland) Order 1972 [^c23554521];
 - “Learning Support Fund” (“*Cronfa Cymorth Dysgu”)* means the fund made available by NHS England to certain students in respect of qualifying healthcare courses;
-- [^key-660fd9dc442e7647f4d13ccf6cd99535]...
+- [^c-660fd9dc442e7647f4d13ccf6cd99535]...
 
 ## Annotations
 
@@ -88,13 +88,13 @@ The designated course begins on or after 1 January 2028 and the only paragraph o
 
 [^c23554461]: Marginal citation: [S.I. 1990/1506 (N.I. 11)](https://www.legislation.gov.uk/nisi/1990/1506), amended by [S.I. 1996/274 (N.I.1)](https://www.legislation.gov.uk/nisi/1996/274), [Article 43](https://www.legislation.gov.uk/nisi/1996/274/article/43) and Schedule 5 Part II, [S.I. 1996/1918 (N.I. 15)](https://www.legislation.gov.uk/nisi/1996/1918), [Article 3](https://www.legislation.gov.uk/nisi/1996/1918/article/3) and the Schedule and [S.I. 1998/258 (N.I. 1)](https://www.legislation.gov.uk/nisi/1998/258), [Articles 3 to 6](https://www.legislation.gov.uk/nisi/1998/258/article/3) and revoked, with savings, by SR (NI) 1998 No 306.
 
-[^key-629f8a7fdd3fc167f056e7284f620d77]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2018/191/regulation/10/1) substituted (4.1.2024) by [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [42(a)(i)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/42/a/i)
+[^c-629f8a7fdd3fc167f056e7284f620d77]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2018/191/regulation/10/1) substituted (4.1.2024) by [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [42(a)(i)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/42/a/i)
 
-[^key-c3590ffe5489e09911d8777785f16172]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2018/191/regulation/10/1) substituted (4.1.2024) by [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [42(a)(ii)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/42/a/ii)
+[^c-c3590ffe5489e09911d8777785f16172]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2018/191/regulation/10/1) substituted (4.1.2024) by [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [42(a)(ii)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/42/a/ii)
 
-[^key-a733cdd58409fad7b2c6a4853e6d74bb]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2018/191/regulation/10/1) inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/uksi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/481/regulation/1/2), [116](https://www.legislation.gov.uk/uksi/2021/481/regulation/116)
+[^c-a733cdd58409fad7b2c6a4853e6d74bb]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2018/191/regulation/10/1) inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/481)](https://www.legislation.gov.uk/uksi/2021/481), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/481/regulation/1/2), [116](https://www.legislation.gov.uk/uksi/2021/481/regulation/116)
 
-[^key-7f5bf70b05765dedc4618a89528960e3]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2018/191/regulation/10/1) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [40](https://www.legislation.gov.uk/wsi/2021/1365/regulation/40)
+[^c-7f5bf70b05765dedc4618a89528960e3]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2018/191/regulation/10/1) inserted (31.12.2021) by [The Education (Student Fees, Awards and Support) (Amendment) (Wales) Regulations 2021 (S.I. 2021/1365)](https://www.legislation.gov.uk/wsi/2021/1365), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1365/regulation/1/2), [40](https://www.legislation.gov.uk/wsi/2021/1365/regulation/40)
 
 [^c23554481]: Marginal citation: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6); repealed by the [Teaching and Higher Education Act 1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), [Schedule 4](https://www.legislation.gov.uk/ukpga/1998/30/schedule/4), with savings *see* the [Teaching and Higher Education Act 1998 (Commencement No. 2 and Transitional Provisions) Order 1998 (S.I. 1998/2004)](https://www.legislation.gov.uk/uksi/1998/2004) (C. 46).
 
@@ -106,4 +106,4 @@ The designated course begins on or after 1 January 2028 and the only paragraph o
 
 [^c23554521]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265).
 
-[^key-660fd9dc442e7647f4d13ccf6cd99535]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/wsi/2018/191/regulation/10/4) omitted (4.1.2024) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [42(b)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/42/b)
+[^c-660fd9dc442e7647f4d13ccf6cd99535]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/wsi/2018/191/regulation/10/4) omitted (4.1.2024) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023 (S.I. 2023/1349)](https://www.legislation.gov.uk/wsi/2023/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2), [42(b)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/42/b)

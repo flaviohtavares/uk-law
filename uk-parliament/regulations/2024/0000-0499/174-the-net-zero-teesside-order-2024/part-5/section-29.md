@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Modification of Part 1 of the 1965 Act[^key-55f7abe571bc2cae0cf2d60275b90bee]
+## 29. Modification of Part 1 of the 1965 Act[^c-55f7abe571bc2cae0cf2d60275b90bee]
 
 *Extent: E+W+S*
 
 (1) Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied to this Order by section 125 (application of compulsory acquisition provisions) of the 2008 Act, is modified as follows.
 
-(2) In section 4A(1) (extension of time limit during challenge) for “section 23 of the Acquisition of Land Act 1981 (application to High Court in respect of compulsory purchase order), the three year period mentioned in section 4” substitute “section 118 of the Planning Act 2008 (legal challenges relating to applications for orders granting development consent), the five year period mentioned in article 24 (time limit for exercise of authority to acquire land compulsorily) of the Net Zero Teesside Order 2024[^key-5b47187273e460e6113989eb04105020]”.
+(2) In section 4A(1) (extension of time limit during challenge) for “section 23 of the Acquisition of Land Act 1981 (application to High Court in respect of compulsory purchase order), the three year period mentioned in section 4” substitute “section 118 of the Planning Act 2008 (legal challenges relating to applications for orders granting development consent), the five year period mentioned in article 24 (time limit for exercise of authority to acquire land compulsorily) of the Net Zero Teesside Order 2024[^c-5b47187273e460e6113989eb04105020]”.
 
 (3) In section 11A (powers of entry: further notice of entry)—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-55f7abe571bc2cae0cf2d60275b90bee]: Commencement: Art. 29 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-55f7abe571bc2cae0cf2d60275b90bee]: Commencement: Art. 29 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-5b47187273e460e6113989eb04105020]: Textual amendment: Words in [art. 29(2)](https://www.legislation.gov.uk/uksi/2024/174/article/29/2) inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
+[^c-5b47187273e460e6113989eb04105020]: Textual amendment: Words in [art. 29(2)](https://www.legislation.gov.uk/uksi/2024/174/article/29/2) inserted (21.12.2024) by [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table

@@ -25,11 +25,11 @@ summary: ''
 (2) The requirements of this paragraph are that the communication relates to—
 
 - (a) qualifying credit;
-- (b) rights under, or rights to or interests in rights under, qualifying contracts of insurance; [^key-ce8a7962d5850b9f7eb14fba036933f9]...
-- (c) a child trust fund.;[^key-1c2f7fa6db6062440f3103ab4205311c]
-- (d) a regulated home reversion plan; [^key-e688b70fb9757804f62117954f629da7]...
-- (e) a regulated home purchase plan; or *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-978b687f06193cff8458e4aa23b6046f]
-- (f) a regulated sale and rent back agreement; or *(Extent: E+W+S)*[^key-1d4e888113015e358732c40692244f79]
+- (b) rights under, or rights to or interests in rights under, qualifying contracts of insurance; [^c-ce8a7962d5850b9f7eb14fba036933f9]...
+- (c) a child trust fund.;[^c-1c2f7fa6db6062440f3103ab4205311c]
+- (d) a regulated home reversion plan; [^c-e688b70fb9757804f62117954f629da7]...
+- (e) a regulated home purchase plan; or *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-978b687f06193cff8458e4aa23b6046f]
+- (f) a regulated sale and rent back agreement; or *(Extent: E+W+S)*[^c-1d4e888113015e358732c40692244f79]
 
 *Extent: E+W+S*
 
@@ -50,15 +50,15 @@ summary: ''
 
 ## Annotations
 
-[^key-ce8a7962d5850b9f7eb14fba036933f9]: Textual amendment: Word in art. 73(2)(b) deleted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [35(4)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/35/4/a)
+[^c-ce8a7962d5850b9f7eb14fba036933f9]: Textual amendment: Word in art. 73(2)(b) deleted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [35(4)(a)](https://www.legislation.gov.uk/uksi/2006/2383/article/35/4/a)
 
-[^key-1c2f7fa6db6062440f3103ab4205311c]: Textual amendment: Art. 73(2)(d)(e) and semi-colon inserted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [35(4)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/35/4/b)
+[^c-1c2f7fa6db6062440f3103ab4205311c]: Textual amendment: Art. 73(2)(d)(e) and semi-colon inserted (6.11.2006 for specified purposes, 6.4.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2006 (S.I. 2006/2383)](https://www.legislation.gov.uk/uksi/2006/2383), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2383/article/1/2), [35(4)(b)](https://www.legislation.gov.uk/uksi/2006/2383/article/35/4/b)
 
-[^key-e688b70fb9757804f62117954f629da7]: Textual amendment: Word in art. 73(2)(d) deleted (1.7.2009 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [30(3)(a)](https://www.legislation.gov.uk/uksi/2009/1342/article/30/3/a)
+[^c-e688b70fb9757804f62117954f629da7]: Textual amendment: Word in art. 73(2)(d) deleted (1.7.2009 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2009 (S.I. 2009/1342)](https://www.legislation.gov.uk/uksi/2009/1342), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/1342/article/1/2), [30(3)(a)](https://www.legislation.gov.uk/uksi/2009/1342/article/30/3/a)
 
-[^key-978b687f06193cff8458e4aa23b6046f]: Textual amendment: Word in art. 73(2)(e) omitted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [35(a)](https://www.legislation.gov.uk/uksi/2018/1253/article/35/a)
+[^c-978b687f06193cff8458e4aa23b6046f]: Textual amendment: Word in art. 73(2)(e) omitted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [35(a)](https://www.legislation.gov.uk/uksi/2018/1253/article/35/a)
 
-[^key-1d4e888113015e358732c40692244f79]: Textual amendment: Art. 73(2)(g) and preceding word inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [35(b)](https://www.legislation.gov.uk/uksi/2018/1253/article/35/b)
+[^c-1d4e888113015e358732c40692244f79]: Textual amendment: Art. 73(2)(g) and preceding word inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [35(b)](https://www.legislation.gov.uk/uksi/2018/1253/article/35/b)
 
 [^c14203231]: Marginal citation: [2004 c. 6](https://www.legislation.gov.uk/ukpga/2004/6).
 

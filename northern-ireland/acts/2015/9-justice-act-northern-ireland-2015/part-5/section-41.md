@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Review of criminal record certificates[^key-1dbc0cf93904d1f683fd4b31bf5ea17b]
+## 41. Review of criminal record certificates[^c-1dbc0cf93904d1f683fd4b31bf5ea17b]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dbc0cf93904d1f683fd4b31bf5ea17b]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2015/9/section/41) in operation at 1.3.2016 by [S.R. 2015/418](https://www.legislation.gov.uk/nisr/2015/418), [art. 3(a)](https://www.legislation.gov.uk/nisr/2015/418/article/3/a)
+[^c-1dbc0cf93904d1f683fd4b31bf5ea17b]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2015/9/section/41) in operation at 1.3.2016 by [S.R. 2015/418](https://www.legislation.gov.uk/nisr/2015/418), [art. 3(a)](https://www.legislation.gov.uk/nisr/2015/418/article/3/a)

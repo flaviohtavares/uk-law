@@ -35,92 +35,92 @@ establishing the reference year and the programme of the statistical data and me
 
 (Text with EEA relevance) (revoked)
 
-[^key-e154e9acd17ac32fa403bdf9a10fb1b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e154e9acd17ac32fa403bdf9a10fb1b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-e154e9acd17ac32fa403bdf9a10fb1b3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-e154e9acd17ac32fa403bdf9a10fb1b3]
+## Article 1. Subject matter[^c-e154e9acd17ac32fa403bdf9a10fb1b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Reference date[^key-e154e9acd17ac32fa403bdf9a10fb1b3]
+## Article 2. Definitions[^c-e154e9acd17ac32fa403bdf9a10fb1b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Programme of the statistical data[^key-e154e9acd17ac32fa403bdf9a10fb1b3]
+## Article 3. Reference date[^c-e154e9acd17ac32fa403bdf9a10fb1b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Metadata on the cell values[^key-e154e9acd17ac32fa403bdf9a10fb1b3]
+## Article 4. Programme of the statistical data[^c-e154e9acd17ac32fa403bdf9a10fb1b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Metadata on the topics[^key-e154e9acd17ac32fa403bdf9a10fb1b3]
+## Article 5. Metadata on the cell values[^c-e154e9acd17ac32fa403bdf9a10fb1b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-e154e9acd17ac32fa403bdf9a10fb1b3]
+## Article 6. Metadata on the topics[^c-e154e9acd17ac32fa403bdf9a10fb1b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e154e9acd17ac32fa403bdf9a10fb1b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I — Programme of the statistical data (hypercubes) for the reference year 2021[^key-e154e9acd17ac32fa403bdf9a10fb1b3]
+## Article 7. Entry into force[^c-e154e9acd17ac32fa403bdf9a10fb1b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Metadata on the topics referred to in Article 6[^key-e154e9acd17ac32fa403bdf9a10fb1b3]
+[^c-e154e9acd17ac32fa403bdf9a10fb1b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — Programme of the statistical data (hypercubes) for the reference year 2021[^c-e154e9acd17ac32fa403bdf9a10fb1b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## ANNEX II — Metadata on the topics referred to in Article 6[^c-e154e9acd17ac32fa403bdf9a10fb1b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e154e9acd17ac32fa403bdf9a10fb1b3] Place of usual residence
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e154e9acd17ac32fa403bdf9a10fb1b3] Homeless
+[^c-e154e9acd17ac32fa403bdf9a10fb1b3] Place of usual residence
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e154e9acd17ac32fa403bdf9a10fb1b3] Legal marital status/partnerships
+[^c-e154e9acd17ac32fa403bdf9a10fb1b3] Homeless
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e154e9acd17ac32fa403bdf9a10fb1b3] Economic topics
+[^c-e154e9acd17ac32fa403bdf9a10fb1b3] Legal marital status/partnerships
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e154e9acd17ac32fa403bdf9a10fb1b3] Country/place of birth
+[^c-e154e9acd17ac32fa403bdf9a10fb1b3] Economic topics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e154e9acd17ac32fa403bdf9a10fb1b3] Country of citizenship
+[^c-e154e9acd17ac32fa403bdf9a10fb1b3] Country/place of birth
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e154e9acd17ac32fa403bdf9a10fb1b3] Place of usual residence one year prior to the census
+[^c-e154e9acd17ac32fa403bdf9a10fb1b3] Country of citizenship
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e154e9acd17ac32fa403bdf9a10fb1b3] Household and family topics
+[^c-e154e9acd17ac32fa403bdf9a10fb1b3] Place of usual residence one year prior to the census
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e154e9acd17ac32fa403bdf9a10fb1b3] Type of ownership
+[^c-e154e9acd17ac32fa403bdf9a10fb1b3] Household and family topics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e154e9acd17ac32fa403bdf9a10fb1b3] Useful floor space and/or number of rooms of housing unit, density standard
+[^c-e154e9acd17ac32fa403bdf9a10fb1b3] Type of ownership
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-e154e9acd17ac32fa403bdf9a10fb1b3] Useful floor space and/or number of rooms of housing unit, density standard
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e154e9acd17ac32fa403bdf9a10fb1b3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 276](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/276); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e154e9acd17ac32fa403bdf9a10fb1b3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 276](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/276); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

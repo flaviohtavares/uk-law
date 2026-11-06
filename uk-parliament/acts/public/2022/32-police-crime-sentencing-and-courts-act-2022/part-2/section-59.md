@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Proceeds of crime: account freezing orders[^key-177ea2b62da4d5b251dba4d90c99f7e8]
+## 59. Proceeds of crime: account freezing orders[^c-177ea2b62da4d5b251dba4d90c99f7e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-177ea2b62da4d5b251dba4d90c99f7e8]: Commencement: S. 59 in force at 28.6.2022, see [s. 208(5)(h)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/h)
+[^c-177ea2b62da4d5b251dba4d90c99f7e8]: Commencement: S. 59 in force at 28.6.2022, see [s. 208(5)(h)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/h)

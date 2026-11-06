@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Inclusion of DNA profiles on National DNA Database[^key-a624df73333a0cf7496873ad59e98198]
+## 23. Inclusion of DNA profiles on National DNA Database[^c-a624df73333a0cf7496873ad59e98198]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ After section 63A of the Police and Criminal Evidence Act 1984 insert—
 
 ## Annotations
 
-[^key-a624df73333a0cf7496873ad59e98198]: Commencement: S. 23 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/g) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-a624df73333a0cf7496873ad59e98198]: Commencement: S. 23 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/g) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))

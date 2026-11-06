@@ -61,13 +61,13 @@ summary: ''
   - (vii) any mobility supplement under article 20 of the Naval, Military and Air Forces Etc (Disablement and Death) Service Pensions Order 2006[^f00250] (including such a supplement by virtue of any other scheme or order) or under article 25A of the Personal Injuries (Civilians) Scheme 1983[^f00251];
   - (viii) the disability element or the severe disability element of working tax credit under Schedule 2 to the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f00252]; or
   - (ix) main phase employment and support allowance; or
-- (b)[^key-3cb47ffee3bb291225ec2384f29e6a53] is or are registered as blind in a register compiled under section 29 of the National Assistance Act 1948 (welfare services), or registered as severely sight-impaired in a register established and maintained by a local authority under section 18(1) of the Social Services and Well-being (Wales) Act 2014 or section 77(1) of the Care Act 2014, or in Scotland, has or have been certified as blind and in consequence is or registered as blind in a register maintained by or on behalf of a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994; or
+- (b)[^c-3cb47ffee3bb291225ec2384f29e6a53] is or are registered as blind in a register compiled under section 29 of the National Assistance Act 1948 (welfare services), or registered as severely sight-impaired in a register established and maintained by a local authority under section 18(1) of the Social Services and Well-being (Wales) Act 2014 or section 77(1) of the Care Act 2014, or in Scotland, has or have been certified as blind and in consequence is or registered as blind in a register maintained by or on behalf of a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994; or
 - (c) is, or is treated as, incapable of work in accordance with the provisions of, and regulations made under, Part 12A of the SSCBA (incapacity for work), and has been incapable, or has been treated as incapable, of work for a continuous period of not less than—
   - (i) in the case of an applicant who is terminally ill within the meaning of section 30B(4) of the SCCBA, 196 days;
   - (ii) in any other case, 364 days; or
 - (d) has, or is treated as having, limited capacity for work within the meaning of section 1(4) of the Welfare Reform Act 2007 or limited capability for work-related activity within the meaning of section 2(5) of that Act and either—
   - (i) the assessment phase as defined in section 24(2) of the Welfare Reform Act 2007 has ended; or
-  - (ii) regulation 7 of the Employment and Support Allowance Regulations 2008[^f00255] or regulation 7 of the Employment and Support Allowance Regulations 2013[^key-541a9f397634adb1830d8506ed01bf06] (circumstances where the condition that the assessment phase has ended before entitlement to the support component arises[^key-0b0d3aaa3711c487c2525b586479b877] does not apply) applies.
+  - (ii) regulation 7 of the Employment and Support Allowance Regulations 2008[^f00255] or regulation 7 of the Employment and Support Allowance Regulations 2013[^c-541a9f397634adb1830d8506ed01bf06] (circumstances where the condition that the assessment phase has ended before entitlement to the support component arises[^c-0b0d3aaa3711c487c2525b586479b877] does not apply) applies.
 
 (2) Subject to sub-paragraph (3), £20 is disregarded if the applicant or, if the applicant has a partner, the applicant’s partner has, within a period of 8 weeks ending on the day in respect of which the applicant or the applicant’s partner attains the qualifying age for state pension credit, had an award of housing benefit or council tax benefit or been in receipt of a reduction under this scheme and—
 
@@ -107,7 +107,7 @@ the amount specified in sub-paragraph (7) (“the specified amount”).
 
 (6) “Exempt work” (“*gwaith esempt*”) means work of the kind described in—
 
-- (a) regulation 45(2), (3) or (4) of the Employment and Support Allowance Regulations 2008 or regulation 39(1)(a), (b) or (c) of the Employment and Support Allowance Regulations 2013[^key-8fdd5c640835b12b44786519ca2c65bf]; or (as the case may be);
+- (a) regulation 45(2), (3) or (4) of the Employment and Support Allowance Regulations 2008 or regulation 39(1)(a), (b) or (c) of the Employment and Support Allowance Regulations 2013[^c-8fdd5c640835b12b44786519ca2c65bf]; or (as the case may be);
 - (b) regulation 17(2), (3) or (4) of the Social Security (Incapacity for Work) (General) Regulations 1995[^f00257],
 
 and, in determining for the purposes of this paragraph whether an applicant or a member of a couple is undertaking any type of exempt work, it is immaterial whether that person or that person’s partner is also undertaking other work.
@@ -160,17 +160,17 @@ and, in determining for the purposes of this paragraph whether an applicant or a
 
 [^f00252]: Footnote: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005).
 
-[^key-3cb47ffee3bb291225ec2384f29e6a53]: Textual amendment: Sch. Scheme Sch. 4 para. 5(1)(b) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [27](https://www.legislation.gov.uk/wsi/2016/50/regulation/27)
+[^c-3cb47ffee3bb291225ec2384f29e6a53]: Textual amendment: Sch. Scheme Sch. 4 para. 5(1)(b) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [27](https://www.legislation.gov.uk/wsi/2016/50/regulation/27)
 
 [^f00255]: Footnote: [S.I, 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
-[^key-541a9f397634adb1830d8506ed01bf06]: Textual amendment: Words in Sch. Scheme Sch. 4 para. 5(1)(d)(ii) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/wsi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/44/regulation/1/2), [29(a)](https://www.legislation.gov.uk/wsi/2015/44/regulation/29/a)
+[^c-541a9f397634adb1830d8506ed01bf06]: Textual amendment: Words in Sch. Scheme Sch. 4 para. 5(1)(d)(ii) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/wsi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/44/regulation/1/2), [29(a)](https://www.legislation.gov.uk/wsi/2015/44/regulation/29/a)
 
-[^key-0b0d3aaa3711c487c2525b586479b877]: Textual amendment: Word in Sch. Scheme Sch. 4 para. 5(1)(d)(ii) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [26](https://www.legislation.gov.uk/wsi/2018/14/regulation/26)
+[^c-0b0d3aaa3711c487c2525b586479b877]: Textual amendment: Word in Sch. Scheme Sch. 4 para. 5(1)(d)(ii) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [26](https://www.legislation.gov.uk/wsi/2018/14/regulation/26)
 
 [^f00256]: Footnote: [S.I. 1975/556](https://www.legislation.gov.uk/uksi/1975/556).
 
-[^key-8fdd5c640835b12b44786519ca2c65bf]: Textual amendment: Words in Sch. Scheme Sch. 4 para. 6(6)(a) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/wsi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/44/regulation/1/2), [29(b)](https://www.legislation.gov.uk/wsi/2015/44/regulation/29/b)
+[^c-8fdd5c640835b12b44786519ca2c65bf]: Textual amendment: Words in Sch. Scheme Sch. 4 para. 6(6)(a) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/wsi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/44/regulation/1/2), [29(b)](https://www.legislation.gov.uk/wsi/2015/44/regulation/29/b)
 
 [^f00257]: Footnote: [S.I. 1995/41](https://www.legislation.gov.uk/uksi/1995/41).
 

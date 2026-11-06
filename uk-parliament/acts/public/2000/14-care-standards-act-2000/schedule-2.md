@@ -134,7 +134,7 @@ as may be provided for under the terms of his appointment.
 
 ### Examinations by the Comptroller and Auditor General
 
-**12.**[^key-465ab708d7b2b91a46ae7b05e3428d5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-465ab708d7b2b91a46ae7b05e3428d5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Evidence
 
@@ -208,7 +208,7 @@ as may be provided for under the terms of his appointment.
 
 [^c12428581]: Marginal citation: [1983 c. 44](https://www.legislation.gov.uk/ukpga/1983/44).
 
-[^key-465ab708d7b2b91a46ae7b05e3428d5f]: Textual amendment: Sch. 2 para. 12 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 56](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/56) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-465ab708d7b2b91a46ae7b05e3428d5f]: Textual amendment: Sch. 2 para. 12 omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 56](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/56) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
 
 [^c12428601]: Commencement: Sch. 2 para. 13 in force for W. at 13.11.2000 by [S.I. 2000/2992](https://www.legislation.gov.uk/uksi/2000/2992), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/2992/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2992/schedule/1)
 

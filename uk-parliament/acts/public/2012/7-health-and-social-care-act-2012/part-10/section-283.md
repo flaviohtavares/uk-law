@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 283. Standing advisory committees[^key-ee2c26a359bfaeaae0e8b8d369856840]
+## 283. Standing advisory committees[^c-ee2c26a359bfaeaae0e8b8d369856840]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee2c26a359bfaeaae0e8b8d369856840]: Commencement: [S. 283](https://www.legislation.gov.uk/ukpga/2012/7/section/283) in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-ee2c26a359bfaeaae0e8b8d369856840]: Commencement: [S. 283](https://www.legislation.gov.uk/ukpga/2012/7/section/283) in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)

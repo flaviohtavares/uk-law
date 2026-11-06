@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Annual rate of eligible child’s pension[^key-9cc3864a818bd265e6ce3cc0ed8204ac]
+## 115. Annual rate of eligible child’s pension[^c-9cc3864a818bd265e6ce3cc0ed8204ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cc3864a818bd265e6ce3cc0ed8204ac]: Commencement: [Reg. 115](https://www.legislation.gov.uk/uksi/2014/1964/regulation/115) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-9cc3864a818bd265e6ce3cc0ed8204ac]: Commencement: [Reg. 115](https://www.legislation.gov.uk/uksi/2014/1964/regulation/115) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

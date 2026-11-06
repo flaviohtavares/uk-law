@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Power to override easements and other rights[^key-ac040fc13f2ffb3f4e40644e61a81adb]
+## 25. Power to override easements and other rights[^c-ac040fc13f2ffb3f4e40644e61a81adb]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ that is authorised under any other provision of this Order and done in accordanc
 
 ## Annotations
 
-[^key-ac040fc13f2ffb3f4e40644e61a81adb]: Commencement: Art. 25 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-ac040fc13f2ffb3f4e40644e61a81adb]: Commencement: Art. 25 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

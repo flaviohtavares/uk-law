@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment[^f00001] makes the following Regulations in exercise of the powers conferred by Article 13(1) of the Weights and Measures (Northern Ireland) Order 1981[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-c8ef2eb96120b70fef7b4d51395023a3]
+## 1. Citation and commencement[^c-c8ef2eb96120b70fef7b4d51395023a3]
 
 These Regulations may be cited as the Measuring Instruments (Capacity Serving Measures) (Use for Trade) Regulations (Northern Ireland) 2007 and shall come into operation on 15th October 2007.
 
-## 2. Interpretation[^key-1da62cbf0c68073f45eba4aa34a8d621]
+## 2. Interpretation[^c-1da62cbf0c68073f45eba4aa34a8d621]
 
 In these Regulations—
 
@@ -55,9 +55,9 @@ In these Regulations—
 - “place on the market” means making available for the first time in a member State a capacity serving measure intended for an end user, whether for reward or free of charge; and
 - “put into use” means the first use of a capacity serving measure intended for the end user for the purposes for which it was intended.
 
-**2A.**[^key-6af4b297e83a65be561d5ab883bd483d] In these Regulations a reference to member State includes Norway, Iceland or Liechtenstein.
+**2A.**[^c-6af4b297e83a65be561d5ab883bd483d] In these Regulations a reference to member State includes Norway, Iceland or Liechtenstein.
 
-## 3. Application[^key-442597cf6912dd2051ec373791bdba69]
+## 3. Application[^c-442597cf6912dd2051ec373791bdba69]
 
 (1) Subject to paragraphs (2) and (3), these Regulations apply to a capacity serving measure described in Schedule 3 to the 2006 Regulations which is—
 
@@ -68,7 +68,7 @@ In these Regulations—
 
 (3) These Regulations do not apply to a capacity serving measure to which the 2006 Regulations do not apply by virtue of regulation 3(3) thereof.
 
-## 4. Requirements for use for trade[^key-d1395e12ee4031e06441213f6fd1d47b]
+## 4. Requirements for use for trade[^c-d1395e12ee4031e06441213f6fd1d47b]
 
 A person shall not use for trade a capacity serving measure unless—
 
@@ -76,7 +76,7 @@ A person shall not use for trade a capacity serving measure unless—
 - (b) the requirements of regulation 5 are complied with; and
 - (c) it does not bear any decorations or designs which might cause confusion in use.
 
-## 5. Manner of use[^key-11af19517eb0f70820bbb8c58d2f54ff]
+## 5. Manner of use[^c-11af19517eb0f70820bbb8c58d2f54ff]
 
 A person shall not use for trade a capacity serving measure for the measurement of intoxicating liquor before its transfer to a container in which the buyer is to receive it, unless the buyer has a clear and unobstructed view of the measurement and transfer.
 
@@ -102,20 +102,20 @@ The Regulations have been notified to the European Commission in draft pursuant 
 
 [^f00003]: Footnote: By [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846) Art. 4
 
-[^key-c8ef2eb96120b70fef7b4d51395023a3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/387/regulation/1) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/387/regulation/1)
+[^c-c8ef2eb96120b70fef7b4d51395023a3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/387/regulation/1) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/387/regulation/1)
 
-[^key-1da62cbf0c68073f45eba4aa34a8d621]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/387/regulation/2) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/387/regulation/1)
+[^c-1da62cbf0c68073f45eba4aa34a8d621]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/387/regulation/2) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/387/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2006/1264](https://www.legislation.gov.uk/uksi/2006/1264)
 
-[^key-6af4b297e83a65be561d5ab883bd483d]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2007/387/regulation/2A) inserted (17.3.2008) by [The Measuring Instruments (Use for Trade) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/52)](https://www.legislation.gov.uk/nisr/2008/52), [regs. 1](https://www.legislation.gov.uk/nisr/2008/52/regulation/1), [2](https://www.legislation.gov.uk/nisr/2008/52/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/52/schedule)
+[^c-6af4b297e83a65be561d5ab883bd483d]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2007/387/regulation/2A) inserted (17.3.2008) by [The Measuring Instruments (Use for Trade) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/52)](https://www.legislation.gov.uk/nisr/2008/52), [regs. 1](https://www.legislation.gov.uk/nisr/2008/52/regulation/1), [2](https://www.legislation.gov.uk/nisr/2008/52/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/52/schedule)
 
-[^key-442597cf6912dd2051ec373791bdba69]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/387/regulation/3) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/387/regulation/1)
+[^c-442597cf6912dd2051ec373791bdba69]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/387/regulation/3) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/387/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1993 No. 441](https://www.legislation.gov.uk/nisr/1993/441) as amended by [S.R. 1995 No. 228](https://www.legislation.gov.uk/nisr/1995/228), [S.R. 1998 No. 48](https://www.legislation.gov.uk/nisr/1998/48) and [S.R. 2002 No. 71](https://www.legislation.gov.uk/nisr/2002/71)
 
 [^f00006]: Footnote: [S.R. 1998 No. 48](https://www.legislation.gov.uk/nisr/1998/48) as amended by [S.R. 2004 No. 371](https://www.legislation.gov.uk/nisr/2004/371) and [S.R. 2005 No. 26](https://www.legislation.gov.uk/nisr/2005/26)
 
-[^key-d1395e12ee4031e06441213f6fd1d47b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/387/regulation/4) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/387/regulation/1)
+[^c-d1395e12ee4031e06441213f6fd1d47b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/387/regulation/4) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/387/regulation/1)
 
-[^key-11af19517eb0f70820bbb8c58d2f54ff]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/387/regulation/5) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/387/regulation/1)
+[^c-11af19517eb0f70820bbb8c58d2f54ff]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/387/regulation/5) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/387/regulation/1)

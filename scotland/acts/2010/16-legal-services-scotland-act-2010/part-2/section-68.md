@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Duty to warn[^key-0034813b63d9fce146e9f2a579a28d02]
+## 68. Duty to warn[^c-0034813b63d9fce146e9f2a579a28d02]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0034813b63d9fce146e9f2a579a28d02]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2010/16/section/68) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-0034813b63d9fce146e9f2a579a28d02]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2010/16/section/68) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

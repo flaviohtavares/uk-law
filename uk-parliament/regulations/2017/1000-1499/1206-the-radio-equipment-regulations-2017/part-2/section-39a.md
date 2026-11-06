@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39A. Requirement to offer common charger radio equipment without a charging device[^key-ed049a1663084f29b1d659b494cf044b]
+## 39A. Requirement to offer common charger radio equipment without a charging device[^c-ed049a1663084f29b1d659b494cf044b]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed049a1663084f29b1d659b494cf044b]: Textual amendment: [Reg. 39A](https://www.legislation.gov.uk/uksi/2017/1206/regulation/39A) inserted (N.I.) (28.12.2024) by [The Radio Equipment (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/1231)](https://www.legislation.gov.uk/uksi/2024/1231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1231/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/1231/regulation/2/7)
+[^c-ed049a1663084f29b1d659b494cf044b]: Textual amendment: [Reg. 39A](https://www.legislation.gov.uk/uksi/2017/1206/regulation/39A) inserted (N.I.) (28.12.2024) by [The Radio Equipment (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/1231)](https://www.legislation.gov.uk/uksi/2024/1231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1231/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/1231/regulation/2/7)

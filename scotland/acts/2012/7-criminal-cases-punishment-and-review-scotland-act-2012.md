@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Punishment part of non-mandatory life sentences
 
-### 1. Setting the punishment part[^key-4113c06d9dba5a5f3917eac5d6f7668e]
+### 1. Setting the punishment part[^c-4113c06d9dba5a5f3917eac5d6f7668e]
 
 (1) Part 1 (detention, transfer and release of offenders) of the Prisoners and Criminal Proceedings (Scotland) Act 1993 is amended as follows.
 
@@ -147,7 +147,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 2. Ancillary provision[^key-ea13da013dac204cc2cbbd1c78e4dcc2]
+### 2. Ancillary provision[^c-ea13da013dac204cc2cbbd1c78e4dcc2]
 
 (1) The Scottish Ministers may by regulations make such supplemental, incidental, consequential, transitional, transitory or saving provision as they consider necessary or expedient for the purposes of or in connection with section 1.
 
@@ -157,7 +157,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 2 — Disclosure of information obtained by SCCRC
 
-### 3. Exception to non-disclosure rule[^key-94f86a415fde8fcd85264c586ada3dfd]
+### 3. Exception to non-disclosure rule[^c-94f86a415fde8fcd85264c586ada3dfd]
 
 (1) Part XA (Scottish Criminal Cases Review Commission) of the Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -327,7 +327,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 4. Consequential revocation[^key-19fca2bd1fc08ced2907abceaea72477]
+### 4. Consequential revocation[^c-19fca2bd1fc08ced2907abceaea72477]
 
 The Scottish Criminal Cases Review Commission (Permitted Disclosure of Information) Order 2009 (S.S.I. 2009/448) is revoked.
 
@@ -347,10 +347,10 @@ The short title of this Act is the Criminal Cases (Punishment and Review) (Scotl
 
 ## Annotations
 
-[^key-4113c06d9dba5a5f3917eac5d6f7668e]: Commencement: S. 1 in force at 24.9.2012 by [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3) (with [arts. 2(2)](https://www.legislation.gov.uk/ssi/2012/249/article/2/2), [4](https://www.legislation.gov.uk/ssi/2012/249/article/4))
+[^c-4113c06d9dba5a5f3917eac5d6f7668e]: Commencement: S. 1 in force at 24.9.2012 by [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3) (with [arts. 2(2)](https://www.legislation.gov.uk/ssi/2012/249/article/2/2), [4](https://www.legislation.gov.uk/ssi/2012/249/article/4))
 
-[^key-ea13da013dac204cc2cbbd1c78e4dcc2]: Commencement: S. 2 in force at 24.9.2012 by [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3)
+[^c-ea13da013dac204cc2cbbd1c78e4dcc2]: Commencement: S. 2 in force at 24.9.2012 by [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3)
 
-[^key-94f86a415fde8fcd85264c586ada3dfd]: Commencement: S. 3 in force at 24.9.2012 by [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3)
+[^c-94f86a415fde8fcd85264c586ada3dfd]: Commencement: S. 3 in force at 24.9.2012 by [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3)
 
-[^key-19fca2bd1fc08ced2907abceaea72477]: Commencement: S. 4 in force at 24.9.2012 by [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3)
+[^c-19fca2bd1fc08ced2907abceaea72477]: Commencement: S. 4 in force at 24.9.2012 by [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Code of practice relating to health care associated infections[^key-265ca71d392a0885580d970c6cb78471]
+## 14. Code of practice relating to health care associated infections[^c-265ca71d392a0885580d970c6cb78471]
 
 *Extent: E+W*
 
@@ -108,4 +108,4 @@ After section 47 of the Health and Social Care (Community Health and Standards) 
 
 ## Annotations
 
-[^key-265ca71d392a0885580d970c6cb78471]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2006/28/section/14) in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 2](https://www.legislation.gov.uk/uksi/2006/2603/article/2)
+[^c-265ca71d392a0885580d970c6cb78471]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2006/28/section/14) in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 2](https://www.legislation.gov.uk/uksi/2006/2603/article/2)

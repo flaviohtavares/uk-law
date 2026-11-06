@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554Z5. Overlap with money or asset subject to earlier tax liability[^key-012f2e278e96e44e0ccaa18bda0e328a][^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554Z5. Overlap with money or asset subject to earlier tax liability[^c-012f2e278e96e44e0ccaa18bda0e328a][^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,12 +69,12 @@ summary: ''
 - (b) a payment that is treated as a payment on account under section 223(3) of FA 2014 (accelerated payments), or
 - (c) a payment pending determination of an appeal made in accordance with section 55 of TMA 1970.
 
-(12)[^key-17203fac2002b5e22cadbf412610300d] See paragraphs 4(5) and (6) and 12(4) and (5) of Schedule 11 of F(No. 2)A 2017) for provision about the effect of subsection (3) in certain cases where the relevant step is within paragraph 1 of that Schedule.
+(12)[^c-17203fac2002b5e22cadbf412610300d] See paragraphs 4(5) and (6) and 12(4) and (5) of Schedule 11 of F(No. 2)A 2017) for provision about the effect of subsection (3) in certain cases where the relevant step is within paragraph 1 of that Schedule.
 
 ## Annotations
 
-[^key-012f2e278e96e44e0ccaa18bda0e328a]: Textual amendment: S. 554Z5 substituted (with effect in accordance with Sch. 6 para. 13 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/10)
+[^c-012f2e278e96e44e0ccaa18bda0e328a]: Textual amendment: S. 554Z5 substituted (with effect in accordance with Sch. 6 para. 13 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/10)
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
 
-[^key-17203fac2002b5e22cadbf412610300d]: Textual amendment: S. 554Z5(12) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 11 para. 46(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/46/6)
+[^c-17203fac2002b5e22cadbf412610300d]: Textual amendment: S. 554Z5(12) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 11 para. 46(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/46/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. “PPP administration proceedings”[^key-2d1752a5d120a7400a6b3dfd9993bee0]
+## 122. “PPP administration proceedings”[^c-2d1752a5d120a7400a6b3dfd9993bee0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d1752a5d120a7400a6b3dfd9993bee0]: Commencement: [Rule 122](https://www.legislation.gov.uk/uksi/2007/3141/rule/122) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-2d1752a5d120a7400a6b3dfd9993bee0]: Commencement: [Rule 122](https://www.legislation.gov.uk/uksi/2007/3141/rule/122) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

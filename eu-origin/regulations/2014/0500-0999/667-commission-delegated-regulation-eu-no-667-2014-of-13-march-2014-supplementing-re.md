@@ -36,48 +36,48 @@ supplementing Regulation (EU) No 648/2012 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-b4796baa30c83ce8b84362588cc6b450]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4796baa30c83ce8b84362588cc6b450]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-b4796baa30c83ce8b84362588cc6b450]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Right to be heard by the investigation officer[^key-b4796baa30c83ce8b84362588cc6b450]
+## Article 1. Subject matter[^c-b4796baa30c83ce8b84362588cc6b450]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Right to be heard by ESMA with regard to fines and supervisory measures[^key-b4796baa30c83ce8b84362588cc6b450]
+## Article 2. Right to be heard by the investigation officer[^c-b4796baa30c83ce8b84362588cc6b450]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Right to be heard by ESMA with regard to periodic penalty payments[^key-b4796baa30c83ce8b84362588cc6b450]
+## Article 3. Right to be heard by ESMA with regard to fines and supervisory measures[^c-b4796baa30c83ce8b84362588cc6b450]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Access to the file and use of documents[^key-b4796baa30c83ce8b84362588cc6b450]
+## Article 4. Right to be heard by ESMA with regard to periodic penalty payments[^c-b4796baa30c83ce8b84362588cc6b450]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Limitation periods for the imposition of penalties[^key-b4796baa30c83ce8b84362588cc6b450]
+## Article 5. Access to the file and use of documents[^c-b4796baa30c83ce8b84362588cc6b450]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Limitation periods for the enforcement of penalties[^key-b4796baa30c83ce8b84362588cc6b450]
+## Article 6. Limitation periods for the imposition of penalties[^c-b4796baa30c83ce8b84362588cc6b450]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Collection of fines and periodic penalty payments[^key-b4796baa30c83ce8b84362588cc6b450]
+## Article 7. Limitation periods for the enforcement of penalties[^c-b4796baa30c83ce8b84362588cc6b450]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Calculation of periods, dates and time limits[^key-b4796baa30c83ce8b84362588cc6b450]
+## Article 8. Collection of fines and periodic penalty payments[^c-b4796baa30c83ce8b84362588cc6b450]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-b4796baa30c83ce8b84362588cc6b450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 9. Calculation of periods, dates and time limits[^c-b4796baa30c83ce8b84362588cc6b450]
 
-[^key-b4796baa30c83ce8b84362588cc6b450]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 10.**[^c-b4796baa30c83ce8b84362588cc6b450] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b4796baa30c83ce8b84362588cc6b450]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b4796baa30c83ce8b84362588cc6b450]: Textual amendment: Regulation revoked (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [63](https://www.legislation.gov.uk/uksi/2019/335/regulation/63) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4796baa30c83ce8b84362588cc6b450]: Textual amendment: Regulation revoked (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [63](https://www.legislation.gov.uk/uksi/2019/335/regulation/63) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

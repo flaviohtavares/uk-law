@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Efficiency etc[^key-462e6830af5563f974d1b3a9293fb7ec]
+## 7. Efficiency etc[^c-462e6830af5563f974d1b3a9293fb7ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Office must aim to carry out its functions efficiently and cost-effectively.
 
 ## Annotations
 
-[^key-462e6830af5563f974d1b3a9293fb7ec]: Commencement: S. 7 in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-462e6830af5563f974d1b3a9293fb7ec]: Commencement: S. 7 in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)

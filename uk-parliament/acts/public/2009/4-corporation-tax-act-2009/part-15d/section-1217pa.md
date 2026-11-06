@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1217PA. “Orchestral concert”[^key-ae72997d7de0e438453f66dfd6fd5589]
+## 1217PA. “Orchestral concert”[^c-ae72997d7de0e438453f66dfd6fd5589]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) But a concert is not an orchestral concert if—
 
-- (za)[^key-6a38012e5d196552df9d16737850ae89] it is produced for training purposes,
+- (za)[^c-6a38012e5d196552df9d16737850ae89] it is produced for training purposes,
 - (a) the main purpose, or one of the main purposes, of the concert is to advertise or promote any goods or services,
 - (b) the concert is to consist of or include a competition or contest, or
 - (c) the making of a relevant recording is the main object of the production company's activities in relation to the concert.
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae72997d7de0e438453f66dfd6fd5589]: Textual amendment: Pt. 15D inserted (with effect in accordance with Sch. 8 para. 17(1)(a) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/1)
+[^c-ae72997d7de0e438453f66dfd6fd5589]: Textual amendment: Pt. 15D inserted (with effect in accordance with Sch. 8 para. 17(1)(a) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/1)
 
-[^key-6a38012e5d196552df9d16737850ae89]: Textual amendment: [S. 1217PA(2)(za)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217PA/2/za) inserted (1.4.2022 in relation to a concert or series of concerts only where the production process starts on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 20(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/20/2)[(5)](https://www.legislation.gov.uk/ukpga/2022/3/section/20/5)
+[^c-6a38012e5d196552df9d16737850ae89]: Textual amendment: [S. 1217PA(2)(za)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217PA/2/za) inserted (1.4.2022 in relation to a concert or series of concerts only where the production process starts on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 20(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/20/2)[(5)](https://www.legislation.gov.uk/ukpga/2022/3/section/20/5)

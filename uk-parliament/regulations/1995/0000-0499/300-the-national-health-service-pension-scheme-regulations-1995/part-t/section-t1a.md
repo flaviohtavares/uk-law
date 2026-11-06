@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## T1A. Provision of information: continuing entitlement to benefit[^key-26dc88c9bf34d5cee2a808d27a304cc8]
+## T1A. Provision of information: continuing entitlement to benefit[^c-26dc88c9bf34d5cee2a808d27a304cc8]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26dc88c9bf34d5cee2a808d27a304cc8]: Textual amendment: [Reg. T1A](https://www.legislation.gov.uk/uksi/1995/300/regulation/T1A) inserted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2013/413/regulation/18)
+[^c-26dc88c9bf34d5cee2a808d27a304cc8]: Textual amendment: [Reg. T1A](https://www.legislation.gov.uk/uksi/1995/300/regulation/T1A) inserted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2013/413/regulation/18)

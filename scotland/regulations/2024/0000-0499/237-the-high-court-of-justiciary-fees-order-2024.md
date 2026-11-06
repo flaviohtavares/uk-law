@@ -32,7 +32,7 @@ summary: ''
 
 High Court Of Justiciary
 
-The High Court of Justiciary Fees Order 2024 (revoked)[^key-e681b7526566ba623646b39363c6cf89]
+The High Court of Justiciary Fees Order 2024 (revoked)[^c-e681b7526566ba623646b39363c6cf89]
 
 Made
 
@@ -46,35 +46,35 @@ Coming into force
 
 1st November 2024
 
-[^key-e681b7526566ba623646b39363c6cf89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e681b7526566ba623646b39363c6cf89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e681b7526566ba623646b39363c6cf89]
+## 1. Citation and commencement[^c-e681b7526566ba623646b39363c6cf89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable in the High Court of Justiciary[^key-e681b7526566ba623646b39363c6cf89]
+## 2. Fees payable in the High Court of Justiciary[^c-e681b7526566ba623646b39363c6cf89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemptions of certain persons from fees: legal aid[^key-e681b7526566ba623646b39363c6cf89]
+## 3. Exemptions of certain persons from fees: legal aid[^c-e681b7526566ba623646b39363c6cf89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemption of certain persons from fees: social security[^key-e681b7526566ba623646b39363c6cf89]
+## 4. Exemption of certain persons from fees: social security[^c-e681b7526566ba623646b39363c6cf89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-e681b7526566ba623646b39363c6cf89]
+## 5. Revocation[^c-e681b7526566ba623646b39363c6cf89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e681b7526566ba623646b39363c6cf89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e681b7526566ba623646b39363c6cf89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — TABLE OF FEES[^key-e681b7526566ba623646b39363c6cf89]
+## SCHEDULE — TABLE OF FEES[^c-e681b7526566ba623646b39363c6cf89]
 
 Article 2(1)
 
@@ -82,8 +82,8 @@ Article 2(1)
 
 **May not be in force at this date. Check the source.**
 
-[^key-e681b7526566ba623646b39363c6cf89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e681b7526566ba623646b39363c6cf89]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e681b7526566ba623646b39363c6cf89]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2024/237) revoked (1.4.2026) by [The High Court of Justiciary Fees Order 2026 (S.S.I. 2026/77)](https://www.legislation.gov.uk/ssi/2026/77), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1), [5](https://www.legislation.gov.uk/ssi/2026/77/article/5)
+[^c-e681b7526566ba623646b39363c6cf89]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2024/237) revoked (1.4.2026) by [The High Court of Justiciary Fees Order 2026 (S.S.I. 2026/77)](https://www.legislation.gov.uk/ssi/2026/77), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/77/article/1/1), [5](https://www.legislation.gov.uk/ssi/2026/77/article/5)

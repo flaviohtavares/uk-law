@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Entitlement to full retirement pension[^key-773d5517f2329061013c7f5119f0e4db]
+## 46. Entitlement to full retirement pension[^c-773d5517f2329061013c7f5119f0e4db]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-773d5517f2329061013c7f5119f0e4db]: Commencement: Reg. 46 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-773d5517f2329061013c7f5119f0e4db]: Commencement: Reg. 46 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

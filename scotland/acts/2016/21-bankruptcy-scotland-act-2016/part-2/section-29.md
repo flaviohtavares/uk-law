@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Petitions for recall of sequestration[^key-b168c34cd92c0f266617436a3c47767c]
+## 29. Petitions for recall of sequestration[^c-b168c34cd92c0f266617436a3c47767c]
 
 *Extent: S*
 
@@ -37,10 +37,10 @@ summary: ''
 
 (4) A copy of the petition, along with a notice stating that the recipient of the notice may lodge answers to the petition within 14 days after service of the notice, must be served by the petitioner on—
 
-- (a) the debtor (where the debtor is not the petitioner)[^key-d168a9a283a8918bd35998ce7cbb4dfa],
-- (b) any other[^key-136e391b25411efd8c937f0098443a59] person who was a petitioner for, or concurred in a debtor application for, the sequestration,
-- (c) the trustee (where the trustee is not the petitioner)[^key-c522a4260683f435e27df05838e9b27f], and
-- (d) AiB (where AiB is not the petitioner)[^key-0054263b28e364bbc73183d715953519].
+- (a) the debtor (where the debtor is not the petitioner)[^c-d168a9a283a8918bd35998ce7cbb4dfa],
+- (b) any other[^c-136e391b25411efd8c937f0098443a59] person who was a petitioner for, or concurred in a debtor application for, the sequestration,
+- (c) the trustee (where the trustee is not the petitioner)[^c-c522a4260683f435e27df05838e9b27f], and
+- (d) AiB (where AiB is not the petitioner)[^c-0054263b28e364bbc73183d715953519].
 
 (5) On service, under subsection (4), of a copy of the petition AiB must enter particulars of the petition in the register of insolvencies.
 
@@ -63,12 +63,12 @@ a petition under this section may be sisted in place of the person who has withd
 
 ## Annotations
 
-[^key-b168c34cd92c0f266617436a3c47767c]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2016/21/section/29) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-b168c34cd92c0f266617436a3c47767c]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2016/21/section/29) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-d168a9a283a8918bd35998ce7cbb4dfa]: Textual amendment: Words in [s. 29(4)(a)](https://www.legislation.gov.uk/asp/2016/21/section/29/4/a) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(2)(a)](https://www.legislation.gov.uk/asp/2024/9/section/4/2/a), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
+[^c-d168a9a283a8918bd35998ce7cbb4dfa]: Textual amendment: Words in [s. 29(4)(a)](https://www.legislation.gov.uk/asp/2016/21/section/29/4/a) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(2)(a)](https://www.legislation.gov.uk/asp/2024/9/section/4/2/a), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
 
-[^key-136e391b25411efd8c937f0098443a59]: Textual amendment: Word in [s. 29(4)(b)](https://www.legislation.gov.uk/asp/2016/21/section/29/4/b) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(2)(b)](https://www.legislation.gov.uk/asp/2024/9/section/4/2/b), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
+[^c-136e391b25411efd8c937f0098443a59]: Textual amendment: Word in [s. 29(4)(b)](https://www.legislation.gov.uk/asp/2016/21/section/29/4/b) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(2)(b)](https://www.legislation.gov.uk/asp/2024/9/section/4/2/b), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
 
-[^key-c522a4260683f435e27df05838e9b27f]: Textual amendment: Words in [s. 29(4)(c)](https://www.legislation.gov.uk/asp/2016/21/section/29/4/c) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(2)(c)](https://www.legislation.gov.uk/asp/2024/9/section/4/2/c), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
+[^c-c522a4260683f435e27df05838e9b27f]: Textual amendment: Words in [s. 29(4)(c)](https://www.legislation.gov.uk/asp/2016/21/section/29/4/c) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(2)(c)](https://www.legislation.gov.uk/asp/2024/9/section/4/2/c), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
 
-[^key-0054263b28e364bbc73183d715953519]: Textual amendment: Words in [s. 29(4)(d)](https://www.legislation.gov.uk/asp/2016/21/section/29/4/d) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(2)(d)](https://www.legislation.gov.uk/asp/2024/9/section/4/2/d), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
+[^c-0054263b28e364bbc73183d715953519]: Textual amendment: Words in [s. 29(4)(d)](https://www.legislation.gov.uk/asp/2016/21/section/29/4/d) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(2)(d)](https://www.legislation.gov.uk/asp/2024/9/section/4/2/d), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))

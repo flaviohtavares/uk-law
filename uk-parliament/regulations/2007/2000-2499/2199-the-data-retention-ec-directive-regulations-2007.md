@@ -32,7 +32,7 @@ summary: ''
 
 ELECTRONIC COMMUNICATIONS
 
-The Data Retention (EC Directive) Regulations 2007 (revoked)[^key-36b5f8dcabeb61b8db30a3e35f4c3d3d]
+The Data Retention (EC Directive) Regulations 2007 (revoked)[^c-36b5f8dcabeb61b8db30a3e35f4c3d3d]
 
 Made
 
@@ -42,56 +42,56 @@ Coming into force
 
 1st October 2007
 
-[^key-36b5f8dcabeb61b8db30a3e35f4c3d3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36b5f8dcabeb61b8db30a3e35f4c3d3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-36b5f8dcabeb61b8db30a3e35f4c3d3d]
+## 1. Citation and commencement[^c-36b5f8dcabeb61b8db30a3e35f4c3d3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-36b5f8dcabeb61b8db30a3e35f4c3d3d]
+## 2. Interpretation[^c-36b5f8dcabeb61b8db30a3e35f4c3d3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-36b5f8dcabeb61b8db30a3e35f4c3d3d]
+## 3. Application[^c-36b5f8dcabeb61b8db30a3e35f4c3d3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Obligation to retain data[^key-36b5f8dcabeb61b8db30a3e35f4c3d3d]
+## 4. Obligation to retain data[^c-36b5f8dcabeb61b8db30a3e35f4c3d3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Data to be retained[^key-36b5f8dcabeb61b8db30a3e35f4c3d3d]
+## 5. Data to be retained[^c-36b5f8dcabeb61b8db30a3e35f4c3d3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Data security[^key-36b5f8dcabeb61b8db30a3e35f4c3d3d]
+## 6. Data security[^c-36b5f8dcabeb61b8db30a3e35f4c3d3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Storage requirements for retained data[^key-36b5f8dcabeb61b8db30a3e35f4c3d3d]
+## 7. Storage requirements for retained data[^c-36b5f8dcabeb61b8db30a3e35f4c3d3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Supervisory authority[^key-36b5f8dcabeb61b8db30a3e35f4c3d3d]
+## 8. Supervisory authority[^c-36b5f8dcabeb61b8db30a3e35f4c3d3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Statistics[^key-36b5f8dcabeb61b8db30a3e35f4c3d3d]
+## 9. Statistics[^c-36b5f8dcabeb61b8db30a3e35f4c3d3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Payment[^key-36b5f8dcabeb61b8db30a3e35f4c3d3d]
+## 10. Payment[^c-36b5f8dcabeb61b8db30a3e35f4c3d3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-36b5f8dcabeb61b8db30a3e35f4c3d3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36b5f8dcabeb61b8db30a3e35f4c3d3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-36b5f8dcabeb61b8db30a3e35f4c3d3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36b5f8dcabeb61b8db30a3e35f4c3d3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-36b5f8dcabeb61b8db30a3e35f4c3d3d]: Textual amendment: Regulations revoked (6.4.2009) by [The Data Retention (EC Directive) Regulations 2009 (S.I. 2009/859)](https://www.legislation.gov.uk/uksi/2009/859), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/859/regulation/1/2), [12(1)](https://www.legislation.gov.uk/uksi/2009/859/regulation/12/1) (with [reg. 12(2)](https://www.legislation.gov.uk/uksi/2009/859/regulation/12/2))
+[^c-36b5f8dcabeb61b8db30a3e35f4c3d3d]: Textual amendment: Regulations revoked (6.4.2009) by [The Data Retention (EC Directive) Regulations 2009 (S.I. 2009/859)](https://www.legislation.gov.uk/uksi/2009/859), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/859/regulation/1/2), [12(1)](https://www.legislation.gov.uk/uksi/2009/859/regulation/12/1) (with [reg. 12(2)](https://www.legislation.gov.uk/uksi/2009/859/regulation/12/2))

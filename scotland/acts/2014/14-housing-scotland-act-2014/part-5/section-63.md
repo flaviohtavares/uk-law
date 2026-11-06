@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Licensing of sites for permanent residents[^key-14022ed110b7b3880a9a965f86ca4abd]
+## 63. Licensing of sites for permanent residents[^c-14022ed110b7b3880a9a965f86ca4abd]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14022ed110b7b3880a9a965f86ca4abd]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2014/14/section/63) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-14022ed110b7b3880a9a965f86ca4abd]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2014/14/section/63) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

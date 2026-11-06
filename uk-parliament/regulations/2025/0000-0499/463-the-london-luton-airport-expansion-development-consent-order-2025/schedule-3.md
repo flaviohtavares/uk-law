@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — PERMANENT STOPPING UP OF PUBLIC RIGHTS OF WAY[^key-38e4b2ae3bf79a9e394f4155ce4a2f39]
+## SCHEDULE 3 — PERMANENT STOPPING UP OF PUBLIC RIGHTS OF WAY[^c-38e4b2ae3bf79a9e394f4155ce4a2f39]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ Article 14
 
 ## Annotations
 
-[^key-38e4b2ae3bf79a9e394f4155ce4a2f39]: Commencement: Sch. 3 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-38e4b2ae3bf79a9e394f4155ce4a2f39]: Commencement: Sch. 3 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)

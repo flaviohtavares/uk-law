@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Value of security[^key-a832eae5b475cffbcdd6d96cb983095a]
+## 78. Value of security[^c-a832eae5b475cffbcdd6d96cb983095a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.101 of the 1991 Rules.
 
 ## Annotations
 
-[^key-a832eae5b475cffbcdd6d96cb983095a]: Commencement: Rule 78 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-a832eae5b475cffbcdd6d96cb983095a]: Commencement: Rule 78 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

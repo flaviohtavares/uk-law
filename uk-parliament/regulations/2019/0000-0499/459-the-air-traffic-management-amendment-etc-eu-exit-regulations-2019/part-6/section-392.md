@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 392. The Single European Sky (National Supervisory Authority) Regulations 2013[^key-722a98f2b33e48ceaafee7fa2ff1a2cf]
+## 392. The Single European Sky (National Supervisory Authority) Regulations 2013[^c-722a98f2b33e48ceaafee7fa2ff1a2cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-722a98f2b33e48ceaafee7fa2ff1a2cf]: Commencement: Reg. 392 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-722a98f2b33e48ceaafee7fa2ff1a2cf]: Commencement: Reg. 392 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24460831]: Marginal citation: [S.I. 2013/2620](https://www.legislation.gov.uk/uksi/2013/2620), amended by [S.I. 2018/1331](https://www.legislation.gov.uk/uksi/2018/1331).

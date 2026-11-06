@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49A. Penalty for pretending to hold a licence to practise[^key-0c9d5eaa2a5f2ea7dc88c106fab7a088]
+## 49A. Penalty for pretending to hold a licence to practise[^c-0c9d5eaa2a5f2ea7dc88c106fab7a088]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ he shall be liable on summary conviction to a fine not exceeding level 5 on the 
 
 ## Annotations
 
-[^key-0c9d5eaa2a5f2ea7dc88c106fab7a088]: Textual amendment: S. 49A inserted (16.11.2009 as notified in the London Gazette dated 21.8.2009) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/3), [12(7)](https://www.legislation.gov.uk/uksi/2002/3135/article/12/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
+[^c-0c9d5eaa2a5f2ea7dc88c106fab7a088]: Textual amendment: S. 49A inserted (16.11.2009 as notified in the London Gazette dated 21.8.2009) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/3), [12(7)](https://www.legislation.gov.uk/uksi/2002/3135/article/12/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))

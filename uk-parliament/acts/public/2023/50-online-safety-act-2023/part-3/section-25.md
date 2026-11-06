@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Scope of duties of care[^key-149dd7facff15296a4eee984c65e49ec][^key-591b232f9d9289584f1b30c0a219bc4e]
+## 25. Scope of duties of care[^c-149dd7facff15296a4eee984c65e49ec][^c-591b232f9d9289584f1b30c0a219bc4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-149dd7facff15296a4eee984c65e49ec]: Commencement: S. 25 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-149dd7facff15296a4eee984c65e49ec]: Commencement: S. 25 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-591b232f9d9289584f1b30c0a219bc4e]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2023/50/section/25) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)
+[^c-591b232f9d9289584f1b30c0a219bc4e]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2023/50/section/25) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)

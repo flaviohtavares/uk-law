@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Pre-commencement invitations etc[^key-24c1f3b7a0b1371eefdae40cb774d16d]
+## 21. Pre-commencement invitations etc[^c-24c1f3b7a0b1371eefdae40cb774d16d]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ it is immaterial that the invitation or guidance was given, the proposal made, o
 
 ## Annotations
 
-[^key-24c1f3b7a0b1371eefdae40cb774d16d]: Commencement: S. 21 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)
+[^c-24c1f3b7a0b1371eefdae40cb774d16d]: Commencement: S. 21 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)

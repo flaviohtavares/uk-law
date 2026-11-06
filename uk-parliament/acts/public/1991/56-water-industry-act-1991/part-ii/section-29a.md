@@ -24,7 +24,7 @@ summary: ''
 
 (2) Before undertaking an investigation under this section the Council shall consult the Authority, the Secretary of State and the Assembly.
 
-(3) Where the Council has investigated a matter under this section it may make a report on that matter to the Authority, the Secretary of State, the CMA[^key-764c475eecd69e412c2565a1a4068e9e], the Assembly or any other public authority whose functions appear to the Council to be exercisable in relation to that matter.
+(3) Where the Council has investigated a matter under this section it may make a report on that matter to the Authority, the Secretary of State, the CMA[^c-764c475eecd69e412c2565a1a4068e9e], the Assembly or any other public authority whose functions appear to the Council to be exercisable in relation to that matter.
 
 (4) Subject to subsection (5) below, the Council may—
 
@@ -65,4 +65,4 @@ and paragraph (b) applies whether the opinion is given in relation to the inform
 
 [^c19910051]: Textual amendment: Ss. 27C-27G and preceding cross-heading inserted (1.10.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 43(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/43/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/c) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/2/paragraph/8))
 
-[^key-764c475eecd69e412c2565a1a4068e9e]: Textual amendment: Word in s. 29A(3) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/83) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-764c475eecd69e412c2565a1a4068e9e]: Textual amendment: Word in s. 29A(3) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/83) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))

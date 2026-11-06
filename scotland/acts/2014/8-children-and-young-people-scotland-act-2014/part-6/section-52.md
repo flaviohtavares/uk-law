@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Flexibility in way in which early learning and childcare is made available[^key-d68ccdec8e61bd547dd69f9cbdd91f6e]
+## 52. Flexibility in way in which early learning and childcare is made available[^c-d68ccdec8e61bd547dd69f9cbdd91f6e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In exercising functions under sections 50 and 51, an education authority must ha
 
 ## Annotations
 
-[^key-d68ccdec8e61bd547dd69f9cbdd91f6e]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2014/8/section/52) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-d68ccdec8e61bd547dd69f9cbdd91f6e]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2014/8/section/52) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252. Transitional and saving provision relating to this Chapter[^key-6430b0853811817fadea5b65f2c1a695][^key-12e4728e42d4662b82e002be1a80e0bf]
+## 252. Transitional and saving provision relating to this Chapter[^c-6430b0853811817fadea5b65f2c1a695][^c-12e4728e42d4662b82e002be1a80e0bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6430b0853811817fadea5b65f2c1a695]: Commencement: S. 252 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-6430b0853811817fadea5b65f2c1a695]: Commencement: S. 252 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-12e4728e42d4662b82e002be1a80e0bf]: Commencement: [S. 252](https://www.legislation.gov.uk/ukpga/2024/13/section/252) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-12e4728e42d4662b82e002be1a80e0bf]: Commencement: [S. 252](https://www.legislation.gov.uk/ukpga/2024/13/section/252) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

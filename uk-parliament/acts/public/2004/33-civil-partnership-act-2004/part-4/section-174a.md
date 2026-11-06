@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174A. Civil partnership converted from a marriage: when voidable[^key-fbf9afa817f2f560a24a6bb1af2c2dd9]
+## 174A. Civil partnership converted from a marriage: when voidable[^c-fbf9afa817f2f560a24a6bb1af2c2dd9]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbf9afa817f2f560a24a6bb1af2c2dd9]: Textual amendment: S. 174A inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [44(6)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/44/6)
+[^c-fbf9afa817f2f560a24a6bb1af2c2dd9]: Textual amendment: S. 174A inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [44(6)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/44/6)

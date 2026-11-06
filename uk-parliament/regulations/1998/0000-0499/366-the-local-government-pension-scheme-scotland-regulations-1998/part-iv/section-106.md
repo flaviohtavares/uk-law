@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 106. Information to be supplied by employees[^key-aa645d0aafff97408ff857b3566fd9ce]
+## 106. Information to be supplied by employees[^c-aa645d0aafff97408ff857b3566fd9ce]
 
 *Extent: E+W+S*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-aa645d0aafff97408ff857b3566fd9ce]: Commencement: Reg. 106 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-aa645d0aafff97408ff857b3566fd9ce]: Commencement: Reg. 106 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00041]: Footnote: S.I. [1954/1243](https://www.legislation.gov.uk/uksi/1954/1243).
 

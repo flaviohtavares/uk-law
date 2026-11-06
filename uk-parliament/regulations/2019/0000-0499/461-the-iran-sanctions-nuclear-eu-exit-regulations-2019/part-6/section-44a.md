@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44A. Aircraft: licensing offences[^key-c6d7e9c5606d3c18451726f3cb22ef79]
+## 44A. Aircraft: licensing offences[^c-c6d7e9c5606d3c18451726f3cb22ef79]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ for the purpose of obtaining an aircraft licence (whether for P or anyone else).
 
 ## Annotations
 
-[^key-c6d7e9c5606d3c18451726f3cb22ef79]: Textual amendment: [Regs. 44A](https://www.legislation.gov.uk/uksi/2019/461/regulation/44A), [44B](https://www.legislation.gov.uk/uksi/2019/461/regulation/44B) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [9(h)](https://www.legislation.gov.uk/uksi/2026/983/regulation/9/h)
+[^c-c6d7e9c5606d3c18451726f3cb22ef79]: Textual amendment: [Regs. 44A](https://www.legislation.gov.uk/uksi/2019/461/regulation/44A), [44B](https://www.legislation.gov.uk/uksi/2019/461/regulation/44B) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [9(h)](https://www.legislation.gov.uk/uksi/2026/983/regulation/9/h)

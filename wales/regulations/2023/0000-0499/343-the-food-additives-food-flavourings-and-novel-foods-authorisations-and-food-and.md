@@ -31,156 +31,156 @@ Food, Wales
 
 Agriculture, Wales
 
-The Food Additives, Food Flavourings, and Novel Foods (Authorisations) and Food and Feed (Miscellaneous Amendments) (Wales) Regulations 2023 *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+The Food Additives, Food Flavourings, and Novel Foods (Authorisations) and Food and Feed (Miscellaneous Amendments) (Wales) Regulations 2023 *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-Made *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+Made *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-20 March 2023 *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+20 March 2023 *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-Laid before Senedd Cymru *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+Laid before Senedd Cymru *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-20 March 2023 *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+20 March 2023 *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-Coming into force in accordance with regulation 1(3) and (4) *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+Coming into force in accordance with regulation 1(3) and (4) *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-The Welsh Ministers make these Regulations in exercise of the powers conferred by— *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+The Welsh Ministers make these Regulations in exercise of the powers conferred by— *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-- Articles 7(5) and 14A(2)(b) of Regulation *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] [(EC) No 1331/2008 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2008/1331)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] of the European Parliament and of the Council establishing a common authorisation procedure for food additives, food enzymes and food flavourings *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00001];
-- Article 12(1) of Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00002];
-- sections 16(1)(a) and (2)(b), and 48(1)(c) of the Food Safety Act 1990 *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00003];
-- sections 74A(1) and 84(1) of the Agriculture Act 1970 *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00004].
+- Articles 7(5) and 14A(2)(b) of Regulation *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] [(EC) No 1331/2008 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2008/1331)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] of the European Parliament and of the Council establishing a common authorisation procedure for food additives, food enzymes and food flavourings *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00001];
+- Article 12(1) of Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00002];
+- sections 16(1)(a) and (2)(b), and 48(1)(c) of the Food Safety Act 1990 *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00003];
+- sections 74A(1) and 84(1) of the Agriculture Act 1970 *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00004].
 
-The Welsh Ministers have sought, and had regard to, advice from the Food Standards Agency as required by Article 7(5) of Regulation *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] [(EC) No 1331/2008 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2008/1331)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00005] (in relation to Parts 2 and 3) and section 48(4A) of the Food Safety Act 1990 *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00006] (in relation to regulations 7 and 8). *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+The Welsh Ministers have sought, and had regard to, advice from the Food Standards Agency as required by Article 7(5) of Regulation *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] [(EC) No 1331/2008 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2008/1331)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00005] (in relation to Parts 2 and 3) and section 48(4A) of the Food Safety Act 1990 *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00006] (in relation to regulations 7 and 8). *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-There has been open and transparent public consultation during the preparation of these Regulations in accordance with the requirements of Article 9 of Regulation *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] [(EC) No 178/2002 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2002/0178)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00007] or, in the case of provisions relating to feed for non food-producing animals, of section 84(1) of the Agriculture Act 1970. *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+There has been open and transparent public consultation during the preparation of these Regulations in accordance with the requirements of Article 9 of Regulation *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] [(EC) No 178/2002 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2002/0178)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00007] or, in the case of provisions relating to feed for non food-producing animals, of section 84(1) of the Agriculture Act 1970. *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-## PART 1 (affected by repeal, see note) — Introduction (affected by repeal, see note)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+## PART 1 (affected by repeal, see note) — Introduction (affected by repeal, see note)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-### 1. Title, extent, application and coming into force (affected by repeal, see note)[^key-3e4c9776a5c60f982488b4cd8b245866][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+### 1. Title, extent, application and coming into force (affected by repeal, see note)[^c-3e4c9776a5c60f982488b4cd8b245866][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-(1) The title of these Regulations is the Food Additives, Food Flavourings, and Novel Foods (Authorisations) and Food and Feed (Miscellaneous Amendments) (Wales) Regulations 2023. *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+(1) The title of these Regulations is the Food Additives, Food Flavourings, and Novel Foods (Authorisations) and Food and Feed (Miscellaneous Amendments) (Wales) Regulations 2023. *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-(2) These Regulations— *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+(2) These Regulations— *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-- (a) extend to England and Wales; *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
-- (b) apply in relation to Wales. *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+- (a) extend to England and Wales; *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+- (b) apply in relation to Wales. *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-(3) Parts 1 and 5 come into force on 14 April 2023. *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+(3) Parts 1 and 5 come into force on 14 April 2023. *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-(4) Parts 2, 3 and 4 come into force on 15 May 2023. *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+(4) Parts 2, 3 and 4 come into force on 15 May 2023. *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-## PART 2 (affected by repeal, see note) — Food Additives Authorisation (affected by repeal, see note)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+## PART 2 (affected by repeal, see note) — Food Additives Authorisation (affected by repeal, see note)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-### 2. Amendment of Regulation (affected by repeal, see note) [(EC) No 1333/2008 (affected by repeal, see note)](https://www.legislation.gov.uk/european/regulation/2008/1333)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 3. Amendment of (affected by repeal, see note) [Commission Regulation (EU) No 231/2012 (affected by repeal, see note)](https://www.legislation.gov.uk/european/regulation/2012/0231)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+### 2. Amendment of Regulation (affected by repeal, see note) [(EC) No 1333/2008 (affected by repeal, see note)](https://www.legislation.gov.uk/european/regulation/2008/1333)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Transitional provision (affected by repeal, see note)[^key-a54b7e198d2b6c5dd2e3858c2928ddc2][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
-
-(1) Any food additive or food labelled before the end of 14 November 2024 as E 960 steviol glycosides, or as containing E 960 steviol glycosides, that is otherwise compliant with the conditions of use and the specification for E 960a steviol glycosides from Stevia, may continue to be placed on the market and used until stocks are exhausted. *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
-
-(2) Expressions used in paragraph (1) and in Regulation *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] [(EC) No 1333/2008 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2008/1333)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] of the European Parliament and of the Council on food additives have the same meaning as in that Regulation. *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
-
-## PART 3 (affected by repeal, see note) — Food Flavourings Authorisation (affected by repeal, see note)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
-
-### 5. Amendment of Regulation (affected by repeal, see note) [(EC) No 1334/2008 (affected by repeal, see note)](https://www.legislation.gov.uk/european/regulation/2008/1334)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+### 3. Amendment of (affected by repeal, see note) [Commission Regulation (EU) No 231/2012 (affected by repeal, see note)](https://www.legislation.gov.uk/european/regulation/2012/0231)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 (affected by repeal, see note) — Novel Foods Authorisation (affected by repeal, see note)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+### 4. Transitional provision (affected by repeal, see note)[^c-a54b7e198d2b6c5dd2e3858c2928ddc2][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-### 6. Amendment of Commission Implementing Regulation (EU) 2017/2470 (affected by repeal, see note)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-9d69acaba369c9e5cea5bd623b6b86ef][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+(1) Any food additive or food labelled before the end of 14 November 2024 as E 960 steviol glycosides, or as containing E 960 steviol glycosides, that is otherwise compliant with the conditions of use and the specification for E 960a steviol glycosides from Stevia, may continue to be placed on the market and used until stocks are exhausted. *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+
+(2) Expressions used in paragraph (1) and in Regulation *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] [(EC) No 1333/2008 *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/regulation/2008/1333)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] of the European Parliament and of the Council on food additives have the same meaning as in that Regulation. *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+
+## PART 3 (affected by repeal, see note) — Food Flavourings Authorisation (affected by repeal, see note)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+
+### 5. Amendment of Regulation (affected by repeal, see note) [(EC) No 1334/2008 (affected by repeal, see note)](https://www.legislation.gov.uk/european/regulation/2008/1334)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 (affected by repeal, see note) — Miscellaneous Amendments (affected by repeal, see note)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+## PART 4 (affected by repeal, see note) — Novel Foods Authorisation (affected by repeal, see note)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-### 7. Amendment of the Materials and Articles in Contact with Food (Wales) Regulations 2012 (affected by repeal, see note)[^key-9d0eec59c653acb47db15f93a1e972c6][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+### 6. Amendment of Commission Implementing Regulation (EU) 2017/2470 (affected by repeal, see note)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-9d69acaba369c9e5cea5bd623b6b86ef][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-In the Materials and Articles in Contact with Food (Wales) Regulations 2012 *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00012], in regulation 12(2), for the words from “table 1” to the end substitute *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] “Table 1 of Schedule 6 and subject to the restrictions in that Table” *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12].
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment of the Food Additives, Flavourings, Enzymes and Extraction Solvents (Wales) Regulations 2013 (affected by repeal, see note)[^key-ab4a34866439336db145867d1ee2b12f][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+## PART 5 (affected by repeal, see note) — Miscellaneous Amendments (affected by repeal, see note)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-In the Food Additives, Flavourings, Enzymes and Extraction Solvents (Wales) Regulations 2013 *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00013], in regulation 2(1), in the definition of “the retained EU Regulations”— *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+### 7. Amendment of the Materials and Articles in Contact with Food (Wales) Regulations 2012 (affected by repeal, see note)[^c-9d0eec59c653acb47db15f93a1e972c6][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-- (a) in the Welsh language text, for “(“ *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]***the EU Regulations *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]***”)” substitute *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] “(“***the retained EU Regulations *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]***”)”;
-- (b) in the English language text, after ““the retained EU Regulations”” insert *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] “(“***Rheoliadau’r UE a ddargedwir *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]***”)”.
+In the Materials and Articles in Contact with Food (Wales) Regulations 2012 *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00012], in regulation 12(2), for the words from “table 1” to the end substitute *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] “Table 1 of Schedule 6 and subject to the restrictions in that Table” *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12].
 
-### 9. Amendment of the Animal Feed (Composition, Marketing and Use) (Wales) Regulations 2016 (affected by repeal, see note)[^key-d01d35dbafcb8af6860e832b7dc43e7e][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+### 8. Amendment of the Food Additives, Flavourings, Enzymes and Extraction Solvents (Wales) Regulations 2013 (affected by repeal, see note)[^c-ab4a34866439336db145867d1ee2b12f][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-(1) The Animal Feed (Composition, Marketing and Use) (Wales) Regulations 2016 *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00014] are amended as follows. *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+In the Food Additives, Flavourings, Enzymes and Extraction Solvents (Wales) Regulations 2013 *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00013], in regulation 2(1), in the definition of “the retained EU Regulations”— *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-(2) In Schedule 1B, in Table 1, in the Welsh language text, in the entry for “1. Arsenig”, in the second column, for “deunyddiau blawd”, in each place it occurs, substitute *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] “deunyddiau bwyd anifeiliaid” *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12].
+- (a) in the Welsh language text, for “(“ *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]***the EU Regulations *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]***”)” substitute *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] “(“***the retained EU Regulations *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]***”)”;
+- (b) in the English language text, after ““the retained EU Regulations”” insert *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] “(“***Rheoliadau’r UE a ddargedwir *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]***”)”.
 
-Lynne Neagle *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+### 9. Amendment of the Animal Feed (Composition, Marketing and Use) (Wales) Regulations 2016 (affected by repeal, see note)[^c-d01d35dbafcb8af6860e832b7dc43e7e][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-Deputy Minister for Mental Health and Wellbeing, under the authority of the Minister for Health and Social Services, one of the Welsh Ministers *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+(1) The Animal Feed (Composition, Marketing and Use) (Wales) Regulations 2016 *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^f00014] are amended as follows. *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-20 March 2023 *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+(2) In Schedule 1B, in Table 1, in the Welsh language text, in the entry for “1. Arsenig”, in the second column, for “deunyddiau blawd”, in each place it occurs, substitute *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] “deunyddiau bwyd anifeiliaid” *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12].
 
-## SCHEDULE 1 (affected by repeal, see note) — Amendments to the domestic list of food additives approved for use in foods in Annex 2 to Regulation (affected by repeal, see note) [(EC) No 1333/2008 (affected by repeal, see note)](https://www.legislation.gov.uk/european/regulation/2008/1333) concerning amendment of the designation of the food additive E 960a steviol glycosides from Stevia (formerly E 960 steviol glycosides) and for the addition of E 960c rebaudioside M produced via enzyme modification of steviol glycosides from Stevia (affected by repeal, see note)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+Lynne Neagle *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-**No longer in force.**
+Deputy Minister for Mental Health and Wellbeing, under the authority of the Minister for Health and Social Services, one of the Welsh Ministers *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-Regulation 2 *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+20 March 2023 *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-**1.**[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SCHEDULE 2 (affected by repeal, see note) — Amendments to Annex to (affected by repeal, see note) [Regulation (EU) No 231/2012 (affected by repeal, see note)](https://www.legislation.gov.uk/european/regulation/2012/0231) concerning the specification for E 960a steviol glycosides from Stevia (formerly E 960 steviol glycosides) and for the addition of a specification for E 960c rebaudioside M produced via enzyme modification of steviol glycosides from Stevia (affected by repeal, see note)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+## SCHEDULE 1 (affected by repeal, see note) — Amendments to the domestic list of food additives approved for use in foods in Annex 2 to Regulation (affected by repeal, see note) [(EC) No 1333/2008 (affected by repeal, see note)](https://www.legislation.gov.uk/european/regulation/2008/1333) concerning amendment of the designation of the food additive E 960a steviol glycosides from Stevia (formerly E 960 steviol glycosides) and for the addition of E 960c rebaudioside M produced via enzyme modification of steviol glycosides from Stevia (affected by repeal, see note)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
 **No longer in force.**
 
-Regulation 3 *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+Regulation 2 *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-**1.**[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 (affected by repeal, see note) — Amendments to the domestic list of flavouring substances in Annex 1 to Regulation (affected by repeal, see note) [(EC) No 1334/2008 (affected by repeal, see note)](https://www.legislation.gov.uk/european/regulation/2008/1334) for the addition of 3-(1-((3,5-dimethylisoxazol-4-yl)methyl)-1 (affected by repeal, see note)H-pyrazol-4-yl)-1-(3-hydroxybenzyl)imidazolidine-2,4-dione (affected by repeal, see note)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+**4.**[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**No longer in force.**
-
-Regulation 5 *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
-
-**1.**[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SCHEDULE 4 (affected by repeal, see note) — Amendments to the list of novel foods in the Annex to Commission Implementing Regulation (EU) 2017/2470 for the authorisation of UV-treated baker’s yeast ( (affected by repeal, see note)Saccharomyces cerevisiae (affected by repeal, see note)) as a novel food (affected by repeal, see note)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+## SCHEDULE 2 (affected by repeal, see note) — Amendments to Annex to (affected by repeal, see note) [Regulation (EU) No 231/2012 (affected by repeal, see note)](https://www.legislation.gov.uk/european/regulation/2012/0231) concerning the specification for E 960a steviol glycosides from Stevia (formerly E 960 steviol glycosides) and for the addition of a specification for E 960c rebaudioside M produced via enzyme modification of steviol glycosides from Stevia (affected by repeal, see note)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
 **No longer in force.**
 
-Regulation 6 *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+Regulation 3 *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-**1.**[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 (affected by repeal, see note) — Amendments to the list of novel foods in the Annex to Commission Implementing Regulation (EU) 2017/2470 for the authorisation of vitamin D (affected by repeal, see note)<sub>2</sub> mushroom powder as a novel food (affected by repeal, see note)[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12][^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+## SCHEDULE 3 (affected by repeal, see note) — Amendments to the domestic list of flavouring substances in Annex 1 to Regulation (affected by repeal, see note) [(EC) No 1334/2008 (affected by repeal, see note)](https://www.legislation.gov.uk/european/regulation/2008/1334) for the addition of 3-(1-((3,5-dimethylisoxazol-4-yl)methyl)-1 (affected by repeal, see note)H-pyrazol-4-yl)-1-(3-hydroxybenzyl)imidazolidine-2,4-dione (affected by repeal, see note)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
 **No longer in force.**
 
-Regulation 6 *(affected by repeal, see note)*[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+Regulation 5 *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
 
-**1.**[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## SCHEDULE 4 (affected by repeal, see note) — Amendments to the list of novel foods in the Annex to Commission Implementing Regulation (EU) 2017/2470 for the authorisation of UV-treated baker’s yeast ( (affected by repeal, see note)Saccharomyces cerevisiae (affected by repeal, see note)) as a novel food (affected by repeal, see note)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+
+**No longer in force.**
+
+Regulation 6 *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+
+**1.**[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 (affected by repeal, see note) — Amendments to the list of novel foods in the Annex to Commission Implementing Regulation (EU) 2017/2470 for the authorisation of vitamin D (affected by repeal, see note)<sub>2</sub> mushroom powder as a novel food (affected by repeal, see note)[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12][^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+
+**No longer in force.**
+
+Regulation 6 *(affected by repeal, see note)*[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]
+
+**1.**[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -209,7 +209,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-d5e1e0d7a9d8bd04fab7ea53b766ca12]: Textual amendment: Regulations revoked (except for regs. 4, 7-9 and reg. 1 so far as it relates to regs. 4, 7-9) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/361/schedule/2) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-d5e1e0d7a9d8bd04fab7ea53b766ca12]: Textual amendment: Regulations revoked (except for regs. 4, 7-9 and reg. 1 so far as it relates to regs. 4, 7-9) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/361/schedule/2) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
 [^f00001]: Footnote: EUR 2008/1331, amended by [S.I. 2019/860](https://www.legislation.gov.uk/uksi/2019/860) and [2022/1351](https://www.legislation.gov.uk/uksi/2022/1351). [S.I. 2019/860](https://www.legislation.gov.uk/uksi/2019/860) was amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504). The terms “domestic list”, “**prescribe**” and “**appropriate authority**” are defined in Article 2 of EUR 2008/1331. The term “sectoral food law” is defined in Article 1(2) of EUR 2008/1331. In relation to Part 2 of these Regulations, Article 7(5) of EUR 2008/1331 applies in accordance with Articles 10(3), 14 and 30(4) of Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives (EUR 2008/1333). In relation to Part 3 of these Regulations, Article 7(5) of EUR 2008/1331 applies in accordance with Article 11(3) of Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/european/regulation/2008/1334) of the European Parliament and of the Council on flavourings and certain food ingredients with flavouring properties for use in and on foods (EUR 2008/1334).
 
@@ -225,20 +225,20 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00007]: Footnote: EUR 2002/178, amended by [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641); there are other amending instruments but none is relevant.
 
-[^key-3e4c9776a5c60f982488b4cd8b245866]: Commencement: Reg. 1 in force at 14.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/343/regulation/1/3)
+[^c-3e4c9776a5c60f982488b4cd8b245866]: Commencement: Reg. 1 in force at 14.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/343/regulation/1/3)
 
-[^key-a54b7e198d2b6c5dd2e3858c2928ddc2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2023/343/regulation/4) in force at 15.5.2023, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2023/343/regulation/1/4)
+[^c-a54b7e198d2b6c5dd2e3858c2928ddc2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2023/343/regulation/4) in force at 15.5.2023, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2023/343/regulation/1/4)
 
-[^key-9d69acaba369c9e5cea5bd623b6b86ef]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2023/343/regulation/6) in force at 15.5.2023, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2023/343/regulation/1/4)
+[^c-9d69acaba369c9e5cea5bd623b6b86ef]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2023/343/regulation/6) in force at 15.5.2023, see [reg. 1(4)](https://www.legislation.gov.uk/wsi/2023/343/regulation/1/4)
 
-[^key-9d0eec59c653acb47db15f93a1e972c6]: Commencement: Reg. 7 in force at 14.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/343/regulation/1/3)
+[^c-9d0eec59c653acb47db15f93a1e972c6]: Commencement: Reg. 7 in force at 14.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/343/regulation/1/3)
 
 [^f00012]: Footnote: [S.I. 2012/2705 (W. 291)](https://www.legislation.gov.uk/wsi/2012/2705), amended by [S.I. 2022/1362 (W. 273)](https://www.legislation.gov.uk/wsi/2022/1362); there are other amending instruments but none is relevant.
 
-[^key-ab4a34866439336db145867d1ee2b12f]: Commencement: Reg. 8 in force at 14.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/343/regulation/1/3)
+[^c-ab4a34866439336db145867d1ee2b12f]: Commencement: Reg. 8 in force at 14.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/343/regulation/1/3)
 
 [^f00013]: Footnote: [S.I. 2013/2591 (W. 255)](https://www.legislation.gov.uk/wsi/2013/2591), amended by [S.I. 2022/1362 (W. 273)](https://www.legislation.gov.uk/wsi/2022/1362); there are other amending instruments but none is relevant.
 
-[^key-d01d35dbafcb8af6860e832b7dc43e7e]: Commencement: Reg. 9 in force at 14.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/343/regulation/1/3)
+[^c-d01d35dbafcb8af6860e832b7dc43e7e]: Commencement: Reg. 9 in force at 14.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/343/regulation/1/3)
 
 [^f00014]: Footnote: [S.I. 2016/386 (W. 120)](https://www.legislation.gov.uk/wsi/2016/386), amended by [S.I. 2022/1362 (W. 273)](https://www.legislation.gov.uk/wsi/2022/1362); there are other amending instruments but none is relevant.

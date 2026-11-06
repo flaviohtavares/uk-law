@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Effectiveness of agreement to exclude court’s jurisdiction.[^key-d4f9893cfb7c3832115242d69047bcce]
+## 87. Effectiveness of agreement to exclude court’s jurisdiction.[^c-d4f9893cfb7c3832115242d69047bcce]
 
 *Extent: E+W+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4f9893cfb7c3832115242d69047bcce]: Textual amendment: Ss. 85-87 and cross-heading omitted (1.8.2025) by virtue of [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 15(a)](https://www.legislation.gov.uk/ukpga/2025/4/section/15/a), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-d4f9893cfb7c3832115242d69047bcce]: Textual amendment: Ss. 85-87 and cross-heading omitted (1.8.2025) by virtue of [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 15(a)](https://www.legislation.gov.uk/ukpga/2025/4/section/15/a), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)

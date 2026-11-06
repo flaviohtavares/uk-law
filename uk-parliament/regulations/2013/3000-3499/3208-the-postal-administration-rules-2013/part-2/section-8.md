@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Service of application[^key-c4b18c14b61ddaa301cd02ce6da0d244]
+## 8. Service of application[^c-c4b18c14b61ddaa301cd02ce6da0d244]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4b18c14b61ddaa301cd02ce6da0d244]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2013/3208/rule/8) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-c4b18c14b61ddaa301cd02ce6da0d244]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2013/3208/rule/8) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

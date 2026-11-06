@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Repeals[^key-95090a346f8259c2ba548f6b8ffbcf50][^key-9510b7a0913bed223291581c788df225][^key-f30de890c1d27a504e62fac9d6cf3688][^key-6d053e182ec9fd59e8f6a20fc29329d0]
+## SCHEDULE 4 — Repeals[^c-95090a346f8259c2ba548f6b8ffbcf50][^c-9510b7a0913bed223291581c788df225][^c-f30de890c1d27a504e62fac9d6cf3688][^c-6d053e182ec9fd59e8f6a20fc29329d0]
 
 *Extent: E+W+S*
 
@@ -47,10 +47,10 @@ Section 65
 
 ## Annotations
 
-[^key-95090a346f8259c2ba548f6b8ffbcf50]: Commencement: Sch. 4 in force at 27.3.2007 for specified purposes for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/m)
+[^c-95090a346f8259c2ba548f6b8ffbcf50]: Commencement: Sch. 4 in force at 27.3.2007 for specified purposes for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/m)
 
-[^key-9510b7a0913bed223291581c788df225]: Commencement: Sch. 4 in force at 6.4.2007 for specified purposes for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m)
+[^c-9510b7a0913bed223291581c788df225]: Commencement: Sch. 4 in force at 6.4.2007 for specified purposes for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m)
 
-[^key-f30de890c1d27a504e62fac9d6cf3688]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) in force at 1.10.2007 for specified purposes for E. by [S.I. 2007/2711](https://www.legislation.gov.uk/uksi/2007/2711), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/2711/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2711/article/3))
+[^c-f30de890c1d27a504e62fac9d6cf3688]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) in force at 1.10.2007 for specified purposes for E. by [S.I. 2007/2711](https://www.legislation.gov.uk/uksi/2007/2711), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/2711/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2711/article/3))
 
-[^key-6d053e182ec9fd59e8f6a20fc29329d0]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) in force at 24.10.2007 for specified purposes for W. by [S.I. 2007/3065](https://www.legislation.gov.uk/wsi/2007/3065), [art. 2(b)](https://www.legislation.gov.uk/wsi/2007/3065/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2007/3065/article/3))
+[^c-6d053e182ec9fd59e8f6a20fc29329d0]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) in force at 24.10.2007 for specified purposes for W. by [S.I. 2007/3065](https://www.legislation.gov.uk/wsi/2007/3065), [art. 2(b)](https://www.legislation.gov.uk/wsi/2007/3065/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2007/3065/article/3))

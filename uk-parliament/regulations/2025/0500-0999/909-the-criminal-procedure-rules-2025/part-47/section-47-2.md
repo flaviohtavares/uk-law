@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.2. Meaning of ‘court’, ‘applicant’ and ‘respondent’[^key-ab955cc8b03377498981ef39fcdc9db1]
+## 47.2. Meaning of ‘court’, ‘applicant’ and ‘respondent’[^c-ab955cc8b03377498981ef39fcdc9db1]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In this Part—
 
 ## Annotations
 
-[^key-ab955cc8b03377498981ef39fcdc9db1]: Commencement: Rule 47.2 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ab955cc8b03377498981ef39fcdc9db1]: Commencement: Rule 47.2 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

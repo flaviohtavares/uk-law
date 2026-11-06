@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Careers Guidance in Schools Regulations 2013 (revoked)[^key-75ce35ebd9d9cdd61336af89a1f4b643]
+The Careers Guidance in Schools Regulations 2013 (revoked)[^c-75ce35ebd9d9cdd61336af89a1f4b643]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 1st September 2013
 
-[^key-75ce35ebd9d9cdd61336af89a1f4b643]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75ce35ebd9d9cdd61336af89a1f4b643]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-75ce35ebd9d9cdd61336af89a1f4b643]
+## 1. Citation and commencement[^c-75ce35ebd9d9cdd61336af89a1f4b643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension of section 42A of the Education Act 1997[^key-75ce35ebd9d9cdd61336af89a1f4b643]
+## 2. Extension of section 42A of the Education Act 1997[^c-75ce35ebd9d9cdd61336af89a1f4b643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-75ce35ebd9d9cdd61336af89a1f4b643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-75ce35ebd9d9cdd61336af89a1f4b643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-75ce35ebd9d9cdd61336af89a1f4b643]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75ce35ebd9d9cdd61336af89a1f4b643]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-75ce35ebd9d9cdd61336af89a1f4b643]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75ce35ebd9d9cdd61336af89a1f4b643]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-75ce35ebd9d9cdd61336af89a1f4b643]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/709) revoked (1.9.2022) by [Education (Careers Guidance in Schools) Act 2022 (c. 13)](https://www.legislation.gov.uk/ukpga/2022/13), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2022/13/section/2/3), [3(2)](https://www.legislation.gov.uk/ukpga/2022/13/section/3/2); [S.I. 2022/724](https://www.legislation.gov.uk/uksi/2022/724), [reg. 2](https://www.legislation.gov.uk/uksi/2022/724/regulation/2)
+[^c-75ce35ebd9d9cdd61336af89a1f4b643]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/709) revoked (1.9.2022) by [Education (Careers Guidance in Schools) Act 2022 (c. 13)](https://www.legislation.gov.uk/ukpga/2022/13), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2022/13/section/2/3), [3(2)](https://www.legislation.gov.uk/ukpga/2022/13/section/3/2); [S.I. 2022/724](https://www.legislation.gov.uk/uksi/2022/724), [reg. 2](https://www.legislation.gov.uk/uksi/2022/724/regulation/2)

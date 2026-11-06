@@ -31,8 +31,8 @@ summary: ''
 
 (3) Subsections (1) and (2) have effect subject to such exceptions as may be prescribed.
 
-(4) A person who fails to comply with subsection (1) or (2) commits an offence and is liable on summary conviction to a fine not exceeding level 4[^key-aabdabefc0501a5aafedb0e9928f7772] on the standard scale.
+(4) A person who fails to comply with subsection (1) or (2) commits an offence and is liable on summary conviction to a fine not exceeding level 4[^c-aabdabefc0501a5aafedb0e9928f7772] on the standard scale.
 
 ## Annotations
 
-[^key-aabdabefc0501a5aafedb0e9928f7772]: Textual amendment: Words in [s. 139(4)](https://www.legislation.gov.uk/ukpga/1991/22/section/139/4) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-aabdabefc0501a5aafedb0e9928f7772]: Textual amendment: Words in [s. 139(4)](https://www.legislation.gov.uk/ukpga/1991/22/section/139/4) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

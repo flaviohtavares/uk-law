@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 124. Credited periods for transferring members with mis-sold pension rights[^key-fe7a1ae3ee9bd4268a9a4129ded22067]
+## 124. Credited periods for transferring members with mis-sold pension rights[^c-fe7a1ae3ee9bd4268a9a4129ded22067]
 
 *Extent: E+W+S*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fe7a1ae3ee9bd4268a9a4129ded22067]: Commencement: Reg. 124 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-fe7a1ae3ee9bd4268a9a4129ded22067]: Commencement: Reg. 124 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00050]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
 

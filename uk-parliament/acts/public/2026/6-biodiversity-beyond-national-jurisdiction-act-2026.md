@@ -38,7 +38,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Part 1 — Introduction
 
-### 1. The Agreement[^key-4d0797918c5536f6fb4f52e534a59309]
+### 1. The Agreement[^c-4d0797918c5536f6fb4f52e534a59309]
 
 (1) In this Act, “**the Agreement**” means the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction, opened for signature at New York on 20 September 2023.
 
@@ -51,7 +51,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ### Provision of information
 
-#### 2. Collection[^key-4c85ecc36435e166594224acbf9ceb75][^key-4118e70aea629e50f76e9c8457416172]
+#### 2. Collection[^c-4c85ecc36435e166594224acbf9ceb75][^c-4118e70aea629e50f76e9c8457416172]
 
 (1) This section applies in relation to a project (a “collection project”) in which a UK craft is used to collect marine genetic resources in an area beyond national jurisdiction.
 
@@ -72,7 +72,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - “**collect**”, in relation to marine genetic resources, means collecting or sampling such resources other than incidentally when carrying out an activity for another purpose;
 - “**the relevant person**”, in relation to a collection project, is the individual with principal responsibility for the scientific or technical aspects of the project so far as it concerns marine genetic resources.
 
-#### 3. Utilisation[^key-1e09ffd9fab439b94da0082d111e9272][^key-fc3d31608969834716271d481e8e37db]
+#### 3. Utilisation[^c-1e09ffd9fab439b94da0082d111e9272][^c-fc3d31608969834716271d481e8e37db]
 
 (1) This section applies in relation to a project (a “utilisation project”) involving the utilisation in the United Kingdom of—
 
@@ -94,7 +94,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) publicly accessible, and
 - (b) operated, in any part of the world, in accordance with current international practice.
 
-#### 4. Onward disclosure[^key-4d5d50ead36542223e4501773c0a227d][^key-b7675df87164a527ee27b105c73a5892]
+#### 4. Onward disclosure[^c-4d5d50ead36542223e4501773c0a227d][^c-b7675df87164a527ee27b105c73a5892]
 
 (1) This section applies to information given to the Secretary of State as mentioned in section 2 or 3.
 
@@ -107,7 +107,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ### Sharing of benefits
 
-#### 5. Repositories[^key-c31d9aa17af8849fa8f71a2bb42159a4][^key-4bef78f057f91873cb0ed86f07c9541c]
+#### 5. Repositories[^c-c31d9aa17af8849fa8f71a2bb42159a4][^c-4bef78f057f91873cb0ed86f07c9541c]
 
 (1) This section applies in relation to a repository in the United Kingdom in which samples of marine genetic resources of areas beyond national jurisdiction are stored.
 
@@ -121,7 +121,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) A report under subsection (2)(c) must identify the samples by reference to any Article 12(3) identifier relating to the marine genetic resources concerned.
 
-#### 6. Databases[^key-51a0b01d01655afb8f6b04617bc7155d][^key-c0f6408f018d021ada3669c8ed2a7c0a]
+#### 6. Databases[^c-51a0b01d01655afb8f6b04617bc7155d][^c-c0f6408f018d021ada3669c8ed2a7c0a]
 
 (1) This section applies in relation to a UK database in which digital sequence information (“**DSI**”) on marine genetic resources of areas beyond national jurisdiction is stored.
 
@@ -145,7 +145,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - (a) in the case of an individual, the individual is habitually resident in the United Kingdom, and
 - (b) in any other case, the person is incorporated or formed under the law of any part of the United Kingdom.
 
-#### 7. Supplementary provision[^key-37eaf361bf02128cd5940159eb1b415a][^key-797bf1fc5f0c4ec1dcf38b833f138fbf]
+#### 7. Supplementary provision[^c-37eaf361bf02128cd5940159eb1b415a][^c-797bf1fc5f0c4ec1dcf38b833f138fbf]
 
 (1) Access provided under section 5(2)(b) or 6(3)(b) may be made subject to conditions consistent with paragraphs (a) to (d) of Article 14(4) of the Agreement (factors that may affect access).
 
@@ -165,7 +165,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ### Miscellaneous
 
-#### 8. Exceptions[^key-43dbf0569918c216a3d4a0665b9bdeab][^key-15912bd6777a8f05af2cba9d1e906e8e]
+#### 8. Exceptions[^c-43dbf0569918c216a3d4a0665b9bdeab][^c-15912bd6777a8f05af2cba9d1e906e8e]
 
 (1) Nothing in this Part applies in relation to—
 
@@ -184,7 +184,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 - “**the fisheries policy authorities**” has the meaning given by [section 52](https://www.legislation.gov.uk/ukpga/2020/22/section/52) of the [Fisheries Act 2020](https://www.legislation.gov.uk/ukpga/2020/22/contents);
 - “**joint fisheries statement**” means any joint fisheries statement published from time to time under [section 2](https://www.legislation.gov.uk/ukpga/2020/22/section/2) of [that Act](https://www.legislation.gov.uk/ukpga/2020/22/contents).
 
-#### 9. Power to make regulations[^key-679e582fe2765acabd671bd2102fec11]
+#### 9. Power to make regulations[^c-679e582fe2765acabd671bd2102fec11]
 
 (1) The Secretary of State may by regulations make provision within subsection (2) for the purposes of implementing the United Kingdom’s obligations under Part 2 of the Agreement (marine genetic resources, including the fair and equitable sharing of benefits).
 
@@ -226,7 +226,7 @@ are subject to the draft affirmative procedure.
 
 (9) Any other regulations under this section are subject to the negative procedure.
 
-#### 10. Power to make regulations: Scotland and Northern Ireland[^key-318f3c9db7ad8dffb291f2ad25147e67]
+#### 10. Power to make regulations: Scotland and Northern Ireland[^c-318f3c9db7ad8dffb291f2ad25147e67]
 
 (1) The appropriate national authority may by regulations make provision that is within section 9(2) (read with section 9(3) to (6)) for the purposes of implementing the United Kingdom’s obligations under Part 2 of the Agreement.
 
@@ -253,7 +253,7 @@ are subject to the draft affirmative procedure.
 - (a) in relation to regulations made by the Scottish Ministers, an enactment within the meaning given by [Schedule 1](https://www.legislation.gov.uk/asp/2010/10/schedule/1) to the [Interpretation and Legislative Reform (Scotland) Act 2010](https://www.legislation.gov.uk/asp/2010/10/contents) (asp 10) (whenever passed or made), and
 - (b) in relation to regulations made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, any statutory provision within the meaning given by [section 1](https://www.legislation.gov.uk/apni/1954/33/section/1)[(f)](https://www.legislation.gov.uk/apni/1954/33/section/1) of the [Interpretation Act (Northern Ireland) 1954](https://www.legislation.gov.uk/apni/1954/33/contents).
 
-#### 11. Procedure for regulations under section 10[^key-a76e8a00b758361b2e9ad2a09ac1f755]
+#### 11. Procedure for regulations under section 10[^c-a76e8a00b758361b2e9ad2a09ac1f755]
 
 (1) Regulations under section 10 that include provision—
 
@@ -276,7 +276,7 @@ are subject to the affirmative procedure.
   - (i) where the regulations are subject to the affirmative procedure, the regulations may not be made unless a draft of the regulations has been laid before and approved by a resolution of the Northern Ireland Assembly, and
   - (ii) where the regulations are subject to the negative procedure, the regulations are subject to negative resolution within the meaning given by [section 41](https://www.legislation.gov.uk/apni/1954/33/section/41)[(6)](https://www.legislation.gov.uk/apni/1954/33/section/41) of the [Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.))](https://www.legislation.gov.uk/apni/1954/33/contents).
 
-#### 12. Consultation: Scotland and Northern Ireland[^key-bc4dec5f9258f330244af0e17096ce00]
+#### 12. Consultation: Scotland and Northern Ireland[^c-bc4dec5f9258f330244af0e17096ce00]
 
 (1) The Secretary of State must consult the Scottish Ministers before making regulations under section 9 that contain provision that would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament.
 
@@ -285,7 +285,7 @@ are subject to the affirmative procedure.
 - (a) would be within the legislative competence of the Northern Ireland Assembly if it were contained in an Act of that Assembly, and
 - (b) would not, if it were contained in a Bill in the Northern Ireland Assembly, result in the Bill requiring the consent of the Secretary of State under [section 8](https://www.legislation.gov.uk/ukpga/1998/47/section/8) of the [Northern Ireland Act 1998](https://www.legislation.gov.uk/ukpga/1998/47/contents).
 
-#### 13. Guidance[^key-dbe520920141df734951975e29da5a22][^key-68d0fded32d33980d833dbbe656e0da3]
+#### 13. Guidance[^c-dbe520920141df734951975e29da5a22][^c-68d0fded32d33980d833dbbe656e0da3]
 
 (1) The Secretary of State must publish guidance about the requirements imposed by or under this Part.
 
@@ -301,7 +301,7 @@ are subject to the affirmative procedure.
 
 ## Part 3 — Area-based management tools
 
-### 14. Power to make regulations[^key-d79b188eb8e093ce99d8365f18e2ada8]
+### 14. Power to make regulations[^c-d79b188eb8e093ce99d8365f18e2ada8]
 
 (1) This section applies where the Conference of the Parties takes a decision under—
 
@@ -338,7 +338,7 @@ are subject to the affirmative procedure.
 
 (6) The consequential provision that may be made by regulations under this section in reliance on section 29(2)(b) includes provision amending or repealing a provision of an Act of Parliament whenever passed (as well as provision made under such an Act).
 
-### 15. Procedure for regulations under section 14[^key-766ce59fea5b519509f8f999ffd1868c]
+### 15. Procedure for regulations under section 14[^c-766ce59fea5b519509f8f999ffd1868c]
 
 (1) Subject to subsection (3), regulations under section 14 that contain provision—
 
@@ -354,7 +354,7 @@ are subject to the draft affirmative procedure.
 
 (4) Any other regulations under section 14 are subject to the negative procedure.
 
-### 16. Power to make regulations: Scotland and Northern Ireland[^key-bb6b20a9eced70f4d85037ea33833a9c]
+### 16. Power to make regulations: Scotland and Northern Ireland[^c-bb6b20a9eced70f4d85037ea33833a9c]
 
 (1) Where section 14 applies, the appropriate national authority may by regulations make such provision as the authority considers appropriate for the purpose mentioned in section 14(2).
 
@@ -383,7 +383,7 @@ are subject to the draft affirmative procedure.
 - (a) in relation to regulations made by the Scottish Ministers, an enactment within the meaning given by [Schedule 1](https://www.legislation.gov.uk/asp/2010/10/schedule/1) to the [Interpretation and Legislative Reform (Scotland) Act 2010](https://www.legislation.gov.uk/asp/2010/10/contents) (asp 10) (whenever passed or made), and
 - (b) in relation to regulations made by the Department of Agriculture, Environment and Rural Affairs in Northern Ireland, any statutory provision within the meaning given by [section 1](https://www.legislation.gov.uk/apni/1954/33/section/1)[(f)](https://www.legislation.gov.uk/apni/1954/33/section/1) of the [Interpretation Act (Northern Ireland) 1954](https://www.legislation.gov.uk/apni/1954/33/contents).
 
-### 17. Procedure for regulations under section 16[^key-4a0f716f1439225c88c7765505e0f6d5]
+### 17. Procedure for regulations under section 16[^c-4a0f716f1439225c88c7765505e0f6d5]
 
 (1) Subject to subsection (3), regulations under section 16 that include provision—
 
@@ -431,7 +431,7 @@ are subject to the affirmative procedure.
 - (a) affect anything previously done under or by virtue of the regulations, or
 - (b) prevent the making of new regulations.
 
-### 18. Consultation: Scotland and Northern Ireland[^key-1ba93ca9dd43a19705f78a71af607f5f]
+### 18. Consultation: Scotland and Northern Ireland[^c-1ba93ca9dd43a19705f78a71af607f5f]
 
 (1) The Secretary of State must consult the Scottish Ministers before making regulations under section 14 that contain provision that would be within the legislative competence of the Scottish Parliament if it were contained in an Act of that Parliament.
 
@@ -442,7 +442,7 @@ are subject to the affirmative procedure.
 
 (3) Subsections (1) and (2) do not apply where the Secretary of State considers that the regulations need to be made urgently in order to give effect to a measure adopted under Article 24(1) of the Agreement (decisions to adopt measures to be applied on an emergency basis).
 
-### 19. Directions[^key-f1961f2b94527b50d9044d733652ec9b]
+### 19. Directions[^c-f1961f2b94527b50d9044d733652ec9b]
 
 (1) This section applies where the Conference of the Parties takes a decision under Article 24 of the Agreement (decisions to adopt measures to be applied on an emergency basis).
 
@@ -476,7 +476,7 @@ are subject to the affirmative procedure.
 
 ### Marine licensing under the Marine and Coastal Access Act 2009
 
-#### 20. Licensable marine activities[^key-83d68cf3d456996b36b9d350d526e021]
+#### 20. Licensable marine activities[^c-83d68cf3d456996b36b9d350d526e021]
 
 (1) In the [Marine and Coastal Access Act 2009](https://www.legislation.gov.uk/ukpga/2009/23/contents), [Part 4](https://www.legislation.gov.uk/ukpga/2009/23/part/4) (marine licensing) is amended as follows.
 
@@ -506,7 +506,7 @@ are subject to the affirmative procedure.
 
   > (5A) This section does not prevent the application of this Part in relation to activity designated under section 66(3A).
 
-#### 21. Screening and procedure[^key-8189b002fabbb15d8cd33076a74efcdc][^key-8fe6afc55cda9f99969e9eb3c4f859c7]
+#### 21. Screening and procedure[^c-8189b002fabbb15d8cd33076a74efcdc][^c-8fe6afc55cda9f99969e9eb3c4f859c7]
 
 (1) The [Marine Works (Environmental Impact Assessment) Regulations 2007](https://www.legislation.gov.uk/uksi/2007/1518/contents) ([S.I. 2007/1518](https://www.legislation.gov.uk/uksi/2007/1518)) are amended as follows.
 
@@ -622,7 +622,7 @@ are subject to the affirmative procedure.
   ;
 - (b) in [paragraph 10](https://www.legislation.gov.uk/uksi/2007/1518/schedule/3/paragraph/10), for “9” substitute “9A”.
 
-#### 22. Power to make regulations: Secretary of State[^key-e3d88537bcd305709f367df0dd82fd2e]
+#### 22. Power to make regulations: Secretary of State[^c-e3d88537bcd305709f367df0dd82fd2e]
 
 (1) The Secretary of State may by regulations make such provision in relation to a licensable marine activity as the Secretary of State considers appropriate for the purpose of implementing any Article 38 standards or guidelines.
 
@@ -641,7 +641,7 @@ are subject to the affirmative procedure.
 
 ### Marine licensing under the Marine (Scotland) Act 2010
 
-#### 23. Licensable marine activities[^key-3dd98daaacfb1cb16789d8f358839463]
+#### 23. Licensable marine activities[^c-3dd98daaacfb1cb16789d8f358839463]
 
 *Extent: S*
 
@@ -672,7 +672,7 @@ are subject to the affirmative procedure.
 
   > (5A) This section does not prevent the application of this Part in relation to activity designated under section 21(3A).
 
-#### 24. Screening and procedure[^key-da73f98c9adc349328828b867c48c916][^key-13e7dad5e2a757038c9cc5951da0186f]
+#### 24. Screening and procedure[^c-da73f98c9adc349328828b867c48c916][^c-13e7dad5e2a757038c9cc5951da0186f]
 
 (1) The [Marine Works (Environmental Impact Assessment) (Scotland) Regulations 2017](https://www.legislation.gov.uk/ssi/2017/115/contents) (S.S.I 2017/115) are amended as follows.
 
@@ -779,7 +779,7 @@ are subject to the affirmative procedure.
   ;
 - (b) in [paragraph 10](https://www.legislation.gov.uk/ssi/2017/115/schedule/4/paragraph/10), for “9” substitute “9A”.
 
-#### 25. Power to make regulations: Scottish Ministers[^key-f57d78c5f7f7979890a287523a9341a8]
+#### 25. Power to make regulations: Scottish Ministers[^c-f57d78c5f7f7979890a287523a9341a8]
 
 *Extent: S*
 
@@ -810,7 +810,7 @@ are subject to the affirmative procedure.
 
 ### Environmental outcome reports
 
-#### 26. Amendments to the Levelling-up and Regeneration Act 2023[^key-be86888dfdc4705835fa0f00b682c6af]
+#### 26. Amendments to the Levelling-up and Regeneration Act 2023[^c-be86888dfdc4705835fa0f00b682c6af]
 
 In the [Levelling-up and Regeneration Act 2023](https://www.legislation.gov.uk/ukpga/2023/55/contents), in [Part 6](https://www.legislation.gov.uk/ukpga/2023/55/part/6) (environmental outcomes reports), [section 154](https://www.legislation.gov.uk/ukpga/2023/55/section/154) (power to define “relevant consent” and “relevant plan” etc) is amended as follows—
 
@@ -826,7 +826,7 @@ In the [Levelling-up and Regeneration Act 2023](https://www.legislation.gov.uk/u
 
 ## Part 5 — General
 
-### 27. Interpretation[^key-bf44b3a0cdbc70a56a668ab5b9cc94ad]
+### 27. Interpretation[^c-bf44b3a0cdbc70a56a668ab5b9cc94ad]
 
 (1) In this Act—
 
@@ -883,7 +883,7 @@ In the [Levelling-up and Regeneration Act 2023](https://www.legislation.gov.uk/u
 
 (8) Any other regulations under subsection (3) are subject to the negative procedure.
 
-### 28. Power to make consequential provision[^key-5f1bcea693dd8d6dc8401d3921ecfe72]
+### 28. Power to make consequential provision[^c-5f1bcea693dd8d6dc8401d3921ecfe72]
 
 (1) The Secretary of State may by regulations make provision that is consequential on this Act.
 
@@ -898,7 +898,7 @@ In the [Levelling-up and Regeneration Act 2023](https://www.legislation.gov.uk/u
 
 (4) Any other regulations under this section are subject to the negative procedure.
 
-### 29. Regulations under this Act[^key-721312ab678d8f519efc769c43f585ab]
+### 29. Regulations under this Act[^c-721312ab678d8f519efc769c43f585ab]
 
 (1) Regulations under this Act are to be made by statutory instrument.
 
@@ -940,7 +940,7 @@ In the [Levelling-up and Regeneration Act 2023](https://www.legislation.gov.uk/u
 - (c) section 25, or
 - (d) section 32.
 
-### 30. Crown application[^key-aa75c9fda6f9f9eea27965fa4048f8f3]
+### 30. Crown application[^c-aa75c9fda6f9f9eea27965fa4048f8f3]
 
 (1) This Act binds the Crown (but see section 8 and Article 4 of the Agreement).
 
@@ -948,7 +948,7 @@ In the [Levelling-up and Regeneration Act 2023](https://www.legislation.gov.uk/u
 
 (3) Despite subsection (2), this Act applies to persons in the service of the Crown as it applies to other persons.
 
-### 31. Extent[^key-1fd69258e8e19c57381d247be046d065]
+### 31. Extent[^c-1fd69258e8e19c57381d247be046d065]
 
 (1) Sections 23 and 25 extend to Scotland only.
 
@@ -956,7 +956,7 @@ In the [Levelling-up and Regeneration Act 2023](https://www.legislation.gov.uk/u
 
 (3) His Majesty may by Order in Council provide for any of the provisions of this Act to extend, with or without modifications, to the Isle of Man or to any British overseas territory.
 
-### 32. Commencement[^key-0a7de1bebe2e6ad8880c3550483c4e7c]
+### 32. Commencement[^c-0a7de1bebe2e6ad8880c3550483c4e7c]
 
 (1) Except as provided in subsection (2), this Act comes into force on the day on which it is passed.
 
@@ -970,7 +970,7 @@ In the [Levelling-up and Regeneration Act 2023](https://www.legislation.gov.uk/u
 
 (6) Regulations under this section are to be made by statutory instrument.
 
-### 33. Short title[^key-340b410f16f9551469e58345e23b5940]
+### 33. Short title[^c-340b410f16f9551469e58345e23b5940]
 
 This Act may be cited as the Biodiversity Beyond National Jurisdiction Act 2026.
 
@@ -978,129 +978,129 @@ This Act may be cited as the Biodiversity Beyond National Jurisdiction Act 2026.
 
 Section 3(2)
 
-**1.**[^key-227c0011adb32da487878dc2d99f39ed][^key-1a3ad191abe7b0eb156d33009961468f] Where the utilisation involves or leads to any result within Article 12(8)(a) of the Agreement (publications, patents, product development etc), the information referred to in Article 12(8)(a) to (d) must be given within the period of 1 month beginning on the day on which the result is achieved.
+**1.**[^c-227c0011adb32da487878dc2d99f39ed][^c-1a3ad191abe7b0eb156d33009961468f] Where the utilisation involves or leads to any result within Article 12(8)(a) of the Agreement (publications, patents, product development etc), the information referred to in Article 12(8)(a) to (d) must be given within the period of 1 month beginning on the day on which the result is achieved.
 
-**2.**[^key-adb2214324b8e9e74fa1001d761ceac7][^key-8080a08e552cd6533c320748d617c32a] Where the utilisation involves commercialisation, the information referred to in Article 12(8)(b) to (e) of the Agreement must be given—
+**2.**[^c-adb2214324b8e9e74fa1001d761ceac7][^c-8080a08e552cd6533c320748d617c32a] Where the utilisation involves commercialisation, the information referred to in Article 12(8)(b) to (e) of the Agreement must be given—
 
 - (a) within the period of 1 month beginning with the day on which the product in question is made available, and
 - (b) within each subsequent period of 12 months for any part of which the product remains available.
 
-**3.**[^key-6c060e36c2d936ea8dd36b3481bfeda7][^key-bc7355359e4c984b2c5d4fae4ab34c71] Information does not have to be given where—
+**3.**[^c-6c060e36c2d936ea8dd36b3481bfeda7][^c-bc7355359e4c984b2c5d4fae4ab34c71] Information does not have to be given where—
 
 - (a) the relevant person does not have, and could not with reasonable effort obtain, the information, or
 - (b) in a case where the utilisation concerned is that of digital sequence information, it is for any other reason not reasonably practicable to give the information.
 
-**4.**[^key-0bc87688ab66110fb20d71514cc29b28][^key-38acfacbc3676f383409c6c9acb97213] The Secretary of State may by written notice to the relevant person extend the period within which any information has to be given.
+**4.**[^c-0bc87688ab66110fb20d71514cc29b28][^c-38acfacbc3676f383409c6c9acb97213] The Secretary of State may by written notice to the relevant person extend the period within which any information has to be given.
 
-**5.**[^key-c6b078b26a1f4d65b32dce35d581ec98][^key-ab814800d0b501be7883bb10ea466e92] In this Schedule, “**the utilisation**” means the utilisation that—
+**5.**[^c-c6b078b26a1f4d65b32dce35d581ec98][^c-ab814800d0b501be7883bb10ea466e92] In this Schedule, “**the utilisation**” means the utilisation that—
 
 - (a) forms part of the utilisation project concerned, and
 - (b) falls within section 3(1).
 
 ## Annotations
 
-[^key-4d0797918c5536f6fb4f52e534a59309]: Commencement: S. 1 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-4d0797918c5536f6fb4f52e534a59309]: Commencement: S. 1 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-4c85ecc36435e166594224acbf9ceb75]: Commencement: S. 2 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
+[^c-4c85ecc36435e166594224acbf9ceb75]: Commencement: S. 2 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
 
-[^key-4118e70aea629e50f76e9c8457416172]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2026/6/section/2) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/827/regulation/3))
+[^c-4118e70aea629e50f76e9c8457416172]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2026/6/section/2) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/827/regulation/3))
 
-[^key-1e09ffd9fab439b94da0082d111e9272]: Commencement: S. 3 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
+[^c-1e09ffd9fab439b94da0082d111e9272]: Commencement: S. 3 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
 
-[^key-fc3d31608969834716271d481e8e37db]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2026/6/section/3) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/b)
+[^c-fc3d31608969834716271d481e8e37db]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2026/6/section/3) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/b)
 
-[^key-4d5d50ead36542223e4501773c0a227d]: Commencement: S. 4 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
+[^c-4d5d50ead36542223e4501773c0a227d]: Commencement: S. 4 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
 
-[^key-b7675df87164a527ee27b105c73a5892]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2026/6/section/4) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/c)
+[^c-b7675df87164a527ee27b105c73a5892]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2026/6/section/4) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/c)
 
-[^key-c31d9aa17af8849fa8f71a2bb42159a4]: Commencement: S. 5 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
+[^c-c31d9aa17af8849fa8f71a2bb42159a4]: Commencement: S. 5 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
 
-[^key-4bef78f057f91873cb0ed86f07c9541c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2026/6/section/5) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/d)
+[^c-4bef78f057f91873cb0ed86f07c9541c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2026/6/section/5) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/d)
 
-[^key-51a0b01d01655afb8f6b04617bc7155d]: Commencement: S. 6 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
+[^c-51a0b01d01655afb8f6b04617bc7155d]: Commencement: S. 6 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
 
-[^key-c0f6408f018d021ada3669c8ed2a7c0a]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2026/6/section/6) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/e)
+[^c-c0f6408f018d021ada3669c8ed2a7c0a]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2026/6/section/6) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/e)
 
-[^key-37eaf361bf02128cd5940159eb1b415a]: Commencement: S. 7 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
+[^c-37eaf361bf02128cd5940159eb1b415a]: Commencement: S. 7 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
 
-[^key-797bf1fc5f0c4ec1dcf38b833f138fbf]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2026/6/section/7) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/f)
+[^c-797bf1fc5f0c4ec1dcf38b833f138fbf]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2026/6/section/7) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/f)
 
-[^key-43dbf0569918c216a3d4a0665b9bdeab]: Commencement: S. 8 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
+[^c-43dbf0569918c216a3d4a0665b9bdeab]: Commencement: S. 8 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
 
-[^key-15912bd6777a8f05af2cba9d1e906e8e]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2026/6/section/8) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/g)
+[^c-15912bd6777a8f05af2cba9d1e906e8e]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2026/6/section/8) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/g)
 
-[^key-679e582fe2765acabd671bd2102fec11]: Commencement: S. 9 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-679e582fe2765acabd671bd2102fec11]: Commencement: S. 9 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-318f3c9db7ad8dffb291f2ad25147e67]: Commencement: S. 10 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-318f3c9db7ad8dffb291f2ad25147e67]: Commencement: S. 10 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-a76e8a00b758361b2e9ad2a09ac1f755]: Commencement: S. 11 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-a76e8a00b758361b2e9ad2a09ac1f755]: Commencement: S. 11 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-bc4dec5f9258f330244af0e17096ce00]: Commencement: S. 12 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-bc4dec5f9258f330244af0e17096ce00]: Commencement: S. 12 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-dbe520920141df734951975e29da5a22]: Commencement: S. 13 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
+[^c-dbe520920141df734951975e29da5a22]: Commencement: S. 13 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
 
-[^key-68d0fded32d33980d833dbbe656e0da3]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2026/6/section/13) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/h)
+[^c-68d0fded32d33980d833dbbe656e0da3]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2026/6/section/13) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/h)
 
-[^key-d79b188eb8e093ce99d8365f18e2ada8]: Commencement: S. 14 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-d79b188eb8e093ce99d8365f18e2ada8]: Commencement: S. 14 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-766ce59fea5b519509f8f999ffd1868c]: Commencement: S. 15 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-766ce59fea5b519509f8f999ffd1868c]: Commencement: S. 15 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-bb6b20a9eced70f4d85037ea33833a9c]: Commencement: S. 16 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-bb6b20a9eced70f4d85037ea33833a9c]: Commencement: S. 16 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-4a0f716f1439225c88c7765505e0f6d5]: Commencement: S. 17 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-4a0f716f1439225c88c7765505e0f6d5]: Commencement: S. 17 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-1ba93ca9dd43a19705f78a71af607f5f]: Commencement: S. 18 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-1ba93ca9dd43a19705f78a71af607f5f]: Commencement: S. 18 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-f1961f2b94527b50d9044d733652ec9b]: Commencement: S. 19 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-f1961f2b94527b50d9044d733652ec9b]: Commencement: S. 19 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-83d68cf3d456996b36b9d350d526e021]: Commencement: S. 20 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-83d68cf3d456996b36b9d350d526e021]: Commencement: S. 20 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-8189b002fabbb15d8cd33076a74efcdc]: Commencement: S. 21 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
+[^c-8189b002fabbb15d8cd33076a74efcdc]: Commencement: S. 21 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
 
-[^key-8fe6afc55cda9f99969e9eb3c4f859c7]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2026/6/section/21) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/i)
+[^c-8fe6afc55cda9f99969e9eb3c4f859c7]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2026/6/section/21) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/i)
 
-[^key-e3d88537bcd305709f367df0dd82fd2e]: Commencement: S. 22 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-e3d88537bcd305709f367df0dd82fd2e]: Commencement: S. 22 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-3dd98daaacfb1cb16789d8f358839463]: Commencement: S. 23 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-3dd98daaacfb1cb16789d8f358839463]: Commencement: S. 23 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-da73f98c9adc349328828b867c48c916]: Commencement: S. 24 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
+[^c-da73f98c9adc349328828b867c48c916]: Commencement: S. 24 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
 
-[^key-13e7dad5e2a757038c9cc5951da0186f]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2026/6/section/24) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/j)
+[^c-13e7dad5e2a757038c9cc5951da0186f]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2026/6/section/24) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/j)
 
-[^key-f57d78c5f7f7979890a287523a9341a8]: Commencement: S. 25 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-f57d78c5f7f7979890a287523a9341a8]: Commencement: S. 25 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-be86888dfdc4705835fa0f00b682c6af]: Commencement: S. 26 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-be86888dfdc4705835fa0f00b682c6af]: Commencement: S. 26 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-bf44b3a0cdbc70a56a668ab5b9cc94ad]: Commencement: S. 27 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-bf44b3a0cdbc70a56a668ab5b9cc94ad]: Commencement: S. 27 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-5f1bcea693dd8d6dc8401d3921ecfe72]: Commencement: S. 28 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-5f1bcea693dd8d6dc8401d3921ecfe72]: Commencement: S. 28 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-721312ab678d8f519efc769c43f585ab]: Commencement: S. 29 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-721312ab678d8f519efc769c43f585ab]: Commencement: S. 29 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-aa75c9fda6f9f9eea27965fa4048f8f3]: Commencement: S. 30 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-aa75c9fda6f9f9eea27965fa4048f8f3]: Commencement: S. 30 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-1fd69258e8e19c57381d247be046d065]: Commencement: S. 31 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-1fd69258e8e19c57381d247be046d065]: Commencement: S. 31 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-0a7de1bebe2e6ad8880c3550483c4e7c]: Commencement: S. 32 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-0a7de1bebe2e6ad8880c3550483c4e7c]: Commencement: S. 32 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-340b410f16f9551469e58345e23b5940]: Commencement: S. 33 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
+[^c-340b410f16f9551469e58345e23b5940]: Commencement: S. 33 in force at Royal Assent, see [s. 32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1)
 
-[^key-227c0011adb32da487878dc2d99f39ed]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
+[^c-227c0011adb32da487878dc2d99f39ed]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
 
-[^key-1a3ad191abe7b0eb156d33009961468f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2026/6/schedule/paragraph/1) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/b)
+[^c-1a3ad191abe7b0eb156d33009961468f]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2026/6/schedule/paragraph/1) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/b)
 
-[^key-adb2214324b8e9e74fa1001d761ceac7]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
+[^c-adb2214324b8e9e74fa1001d761ceac7]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
 
-[^key-8080a08e552cd6533c320748d617c32a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2026/6/schedule/paragraph/2) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/b)
+[^c-8080a08e552cd6533c320748d617c32a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2026/6/schedule/paragraph/2) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/b)
 
-[^key-6c060e36c2d936ea8dd36b3481bfeda7]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
+[^c-6c060e36c2d936ea8dd36b3481bfeda7]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
 
-[^key-bc7355359e4c984b2c5d4fae4ab34c71]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2026/6/schedule/paragraph/3) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/b)
+[^c-bc7355359e4c984b2c5d4fae4ab34c71]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2026/6/schedule/paragraph/3) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/b)
 
-[^key-0bc87688ab66110fb20d71514cc29b28]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
+[^c-0bc87688ab66110fb20d71514cc29b28]: Commencement: Sch. para. 4 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
 
-[^key-38acfacbc3676f383409c6c9acb97213]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2026/6/schedule/paragraph/4) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/b)
+[^c-38acfacbc3676f383409c6c9acb97213]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2026/6/schedule/paragraph/4) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/b)
 
-[^key-c6b078b26a1f4d65b32dce35d581ec98]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
+[^c-c6b078b26a1f4d65b32dce35d581ec98]: Commencement: Sch. para. 5 not in force at Royal Assent, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/2)
 
-[^key-ab814800d0b501be7883bb10ea466e92]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2026/6/schedule/paragraph/5) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/b)
+[^c-ab814800d0b501be7883bb10ea466e92]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2026/6/schedule/paragraph/5) in force at 9.8.2026 by [S.I. 2026/827](https://www.legislation.gov.uk/uksi/2026/827), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/827/regulation/2/b)

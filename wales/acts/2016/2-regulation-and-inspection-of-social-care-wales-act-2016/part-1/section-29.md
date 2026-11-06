@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Guidance about regulations under sections 27 and 28[^key-2d4ebca4fe180b1af89c3252be192f95]
+## 29. Guidance about regulations under sections 27 and 28[^c-2d4ebca4fe180b1af89c3252be192f95]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d4ebca4fe180b1af89c3252be192f95]: Commencement: S. 29 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
+[^c-2d4ebca4fe180b1af89c3252be192f95]: Commencement: S. 29 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)

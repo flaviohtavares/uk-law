@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Transfer schemes in connection with abolished bodies[^key-98005bb224f37aa65fb4f3296e072354][^key-827a20a47c154079292f50682cd116e5][^key-406c0a44f49fd8acb43c5fddbc7b1a7e]
+## 38. Transfer schemes in connection with abolished bodies[^c-98005bb224f37aa65fb4f3296e072354][^c-827a20a47c154079292f50682cd116e5][^c-406c0a44f49fd8acb43c5fddbc7b1a7e]
 
 *Extent: E+W*
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-98005bb224f37aa65fb4f3296e072354]: Commencement: S. 38 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-98005bb224f37aa65fb4f3296e072354]: Commencement: S. 38 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-827a20a47c154079292f50682cd116e5]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/31/section/38) in force at 9.5.2022 by [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/f)
+[^c-827a20a47c154079292f50682cd116e5]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/31/section/38) in force at 9.5.2022 by [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/f)
 
-[^key-406c0a44f49fd8acb43c5fddbc7b1a7e]: Commencement: S. 38, to the extent, if any, that it is not already in force, in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-406c0a44f49fd8acb43c5fddbc7b1a7e]: Commencement: S. 38, to the extent, if any, that it is not already in force, in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

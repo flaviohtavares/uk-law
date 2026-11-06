@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Table A – disclosure periods: ordinary cases[^key-b4049f23ee80c09064422d44b7dad488]
+## 20. Table A – disclosure periods: ordinary cases[^c-b4049f23ee80c09064422d44b7dad488]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4049f23ee80c09064422d44b7dad488]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2019/14/section/20) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-b4049f23ee80c09064422d44b7dad488]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2019/14/section/20) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

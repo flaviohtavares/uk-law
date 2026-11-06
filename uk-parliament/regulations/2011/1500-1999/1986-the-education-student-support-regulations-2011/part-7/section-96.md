@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Availability of college fee loans[^key-95ee4ceac4016953dd8b0a008c5abc32]
+## 96. Availability of college fee loans[^c-95ee4ceac4016953dd8b0a008c5abc32]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95ee4ceac4016953dd8b0a008c5abc32]: Textual amendment: [Regs. 91-98](https://www.legislation.gov.uk/uksi/2011/1986/regulation/91) omitted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by virtue of [The Education (Student Support) (Amendment) Regulations 2015 (S.I. 2015/1951)](https://www.legislation.gov.uk/uksi/2015/1951), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/1951/regulation/1/3/a), [3](https://www.legislation.gov.uk/uksi/2015/1951/regulation/3)
+[^c-95ee4ceac4016953dd8b0a008c5abc32]: Textual amendment: [Regs. 91-98](https://www.legislation.gov.uk/uksi/2011/1986/regulation/91) omitted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by virtue of [The Education (Student Support) (Amendment) Regulations 2015 (S.I. 2015/1951)](https://www.legislation.gov.uk/uksi/2015/1951), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/1951/regulation/1/3/a), [3](https://www.legislation.gov.uk/uksi/2015/1951/regulation/3)

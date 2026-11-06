@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231. Vehicles and vessels[^key-3d5a6813ab756be67d628b300ae6be41]
+## 231. Vehicles and vessels[^c-3d5a6813ab756be67d628b300ae6be41]
 
 *Extent: E+W+S*
 
@@ -38,12 +38,12 @@ summary: ''
 
 - (a) a navigation authority, within the meaning of section 221(1) of the Water Resources Act 1991 (c. 57), which has functions in relation to any place at which a vessel is moored or is likely to be moored, or to the place in the United Kingdom nearest to any place at which a vessel is or is likely to be, while activities are carried on in the vessel in reliance on a temporary use notice,
 - (b) the Environment Agency,
-- (c)[^key-06cefad9c63686f8658b38966372bd84] the British Waterways Board, if the place where the vessel is moored or is likely to be moored, or the place in the United Kingdom nearest to the place at which the vessel is or is likely to be, while activities are carried on in the vessel in reliance on a temporary use notice is in Scotland,
+- (c)[^c-06cefad9c63686f8658b38966372bd84] the British Waterways Board, if the place where the vessel is moored or is likely to be moored, or the place in the United Kingdom nearest to the place at which the vessel is or is likely to be, while activities are carried on in the vessel in reliance on a temporary use notice is in Scotland,
 - (ca) Canal & River Trust, if the place where the vessel is moored or is likely to be moored, or the place in the United Kingdom nearest to the place at which the vessel is or is likely to be, while activities are carried on in the vessel in reliance on a temporary use notice is in England or Wales, and
 - (d) the Secretary of State.
 
 ## Annotations
 
-[^key-3d5a6813ab756be67d628b300ae6be41]: Commencement: S. 231 in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-3d5a6813ab756be67d628b300ae6be41]: Commencement: S. 231 in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
 
-[^key-06cefad9c63686f8658b38966372bd84]: Textual amendment: [S. 231(3)(c)](https://www.legislation.gov.uk/ukpga/2005/19/section/231/3/c)[(ca)](https://www.legislation.gov.uk/ukpga/2005/19/section/231/3/ca) substituted for [s. 231(3)(c)](https://www.legislation.gov.uk/ukpga/2005/19/section/231/3/c) (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 17(3)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/17/3) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-06cefad9c63686f8658b38966372bd84]: Textual amendment: [S. 231(3)(c)](https://www.legislation.gov.uk/ukpga/2005/19/section/231/3/c)[(ca)](https://www.legislation.gov.uk/ukpga/2005/19/section/231/3/ca) substituted for [s. 231(3)(c)](https://www.legislation.gov.uk/ukpga/2005/19/section/231/3/c) (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 17(3)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/17/3) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))

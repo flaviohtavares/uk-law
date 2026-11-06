@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Adjournment in absence of chair[^key-a8848f7ac7e466f0add6695a2c851248]
+## 81. Adjournment in absence of chair[^c-a8848f7ac7e466f0add6695a2c851248]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8848f7ac7e466f0add6695a2c851248]: Commencement: [Rule 81](https://www.legislation.gov.uk/uksi/2011/1301/rule/81) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-a8848f7ac7e466f0add6695a2c851248]: Commencement: [Rule 81](https://www.legislation.gov.uk/uksi/2011/1301/rule/81) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

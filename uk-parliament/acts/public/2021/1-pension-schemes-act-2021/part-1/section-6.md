@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Amendment of definitions of “money purchase benefits” etc[^c24458111][^key-9be504f5dc59af702dd76fa99f47f978]
+## 6. Amendment of definitions of “money purchase benefits” etc[^c24458111][^c-9be504f5dc59af702dd76fa99f47f978]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 [^c24458111]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/1/section/6) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-9be504f5dc59af702dd76fa99f47f978]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/1/section/6) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-9be504f5dc59af702dd76fa99f47f978]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/1/section/6) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

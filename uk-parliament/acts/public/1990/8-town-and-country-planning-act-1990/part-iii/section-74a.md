@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74A. Deemed discharge of planning conditions[^key-b692cef0791995d66355b956ce46e644]
+## 74A. Deemed discharge of planning conditions[^c-b692cef0791995d66355b956ce46e644]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) has been imposed on the grant of planning permission for the development of land in England, and
 - (b) requires the consent, agreement or approval of a local planning authority to any matter.
 
-(2A)[^key-b2b3d8a796eba0393290f1493ab9c213] But this section does not apply to the condition under paragraph 13 of Schedule 7A (biodiversity gain condition).
+(2A)[^c-b2b3d8a796eba0393290f1493ab9c213] But this section does not apply to the condition under paragraph 13 of Schedule 7A (biodiversity gain condition).
 
 (3) Deemed discharge of a condition means that the local planning authority's consent, agreement or approval to any matter as required by the condition is deemed to have been given.
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b692cef0791995d66355b956ce46e644]: Textual amendment: S. 74A inserted (12.2.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 29](https://www.legislation.gov.uk/ukpga/2015/7/section/29), [57(5)(c)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/c)
+[^c-b692cef0791995d66355b956ce46e644]: Textual amendment: S. 74A inserted (12.2.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 29](https://www.legislation.gov.uk/ukpga/2015/7/section/29), [57(5)(c)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/c)
 
-[^key-b2b3d8a796eba0393290f1493ab9c213]: Textual amendment: [S. 74A(2A)](https://www.legislation.gov.uk/ukpga/1990/8/section/74A/2A) inserted (12.2.2024) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 14 para. 3(6)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/3/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4))
+[^c-b2b3d8a796eba0393290f1493ab9c213]: Textual amendment: [S. 74A(2A)](https://www.legislation.gov.uk/ukpga/1990/8/section/74A/2A) inserted (12.2.2024) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 14 para. 3(6)](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/3/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4))

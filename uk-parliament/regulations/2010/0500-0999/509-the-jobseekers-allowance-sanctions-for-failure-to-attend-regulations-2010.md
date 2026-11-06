@@ -55,13 +55,13 @@ In respect of the provisions in these Regulations relating to housing benefit an
 
 This Instrument contains only regulations made by virtue of, or consequential upon, section 33 of the [Welfare Reform Act 2009](https://www.legislation.gov.uk/ukpga/2009/24) and is made before the end of the period of 6 months beginning with the coming into force of that section[^f00006].
 
-## 1. Citation and commencement[^key-5fa06adcc86287a420659679505935e9]
+## 1. Citation and commencement[^c-5fa06adcc86287a420659679505935e9]
 
 (1) These Regulations may be cited as the Jobseeker’s Allowance (Sanctions for Failure to Attend) Regulations 2010.
 
 (2) They come into force on 6th April 2010.
 
-## 2. Amendment of the Jobseeker’s Allowance Regulations 1996[^key-72ffa1a7f146b96207f0edea0913398a]
+## 2. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-72ffa1a7f146b96207f0edea0913398a]
 
 (1) The Jobseeker’s Allowance Regulations 1996[^f00007] are amended as follows.
 
@@ -176,7 +176,7 @@ This Instrument contains only regulations made by virtue of, or consequential up
 
 (18) In regulation 152(1)(c) (relevant week)[^f00022], before “section 19” insert “regulation 27A or”.
 
-## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^key-318dce2f7ff30c878dc78e3511f9f8cf]
+## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^c-318dce2f7ff30c878dc78e3511f9f8cf]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations 1999[^f00023] are amended as follows.
 
@@ -190,7 +190,7 @@ This Instrument contains only regulations made by virtue of, or consequential up
 
 .
 
-## 4. Consequential amendments relating to sanctions[^key-61d68e63890ce6ae4b53f0a6a4bf3623]
+## 4. Consequential amendments relating to sanctions[^c-61d68e63890ce6ae4b53f0a6a4bf3623]
 
 (1) Paragraph (2) applies to the following provisions—
 
@@ -201,7 +201,7 @@ This Instrument contains only regulations made by virtue of, or consequential up
 
 (2) In each of the provisions to which this paragraph applies, before “section 19 or 20A” insert the words “regulation 27A of the Jobseeker’s Allowance Regulations or”.
 
-(3) In regulation 3(j) (circumstances in which discretionary housing payments may be made) of the Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^key-b787b0deff1ef997850695e54c4d50d1][^f00031], before “section 19 or 20A” insert “regulation 27A of the Jobseeker’s Allowance Regulations 1996 or”. *(Extent: E)* *(affected by repeal, see note)*[^key-b787b0deff1ef997850695e54c4d50d1]
+(3) In regulation 3(j) (circumstances in which discretionary housing payments may be made) of the Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^c-b787b0deff1ef997850695e54c4d50d1][^f00031], before “section 19 or 20A” insert “regulation 27A of the Jobseeker’s Allowance Regulations 1996 or”. *(Extent: E)* *(affected by repeal, see note)*[^c-b787b0deff1ef997850695e54c4d50d1]
 
 (4) In regulation 8A(5) (credits for unemployment) of the Social Security (Credits) Regulations 1975[^f00032]—
 
@@ -248,9 +248,9 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00006]: Footnote: *See* section 173(5) of the Social Security Administration Act 1992.
 
-[^key-5fa06adcc86287a420659679505935e9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/509/regulation/1) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/509/regulation/1/2)
+[^c-5fa06adcc86287a420659679505935e9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/509/regulation/1) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/509/regulation/1/2)
 
-[^key-72ffa1a7f146b96207f0edea0913398a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/509/regulation/2) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/509/regulation/1/2)
+[^c-72ffa1a7f146b96207f0edea0913398a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/509/regulation/2) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/509/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
@@ -284,7 +284,7 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00022]: Footnote: A relevant amending instrument is [S.I. 2000/1978](https://www.legislation.gov.uk/uksi/2000/1978).
 
-[^key-318dce2f7ff30c878dc78e3511f9f8cf]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/509/regulation/3) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/509/regulation/1/2)
+[^c-318dce2f7ff30c878dc78e3511f9f8cf]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/509/regulation/3) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/509/regulation/1/2)
 
 [^f00023]: Footnote: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
 
@@ -294,7 +294,7 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00026]: Footnote: Relevant amending instruments are [S.I. 1999/2677](https://www.legislation.gov.uk/uksi/1999/2677) and [2000/1982](https://www.legislation.gov.uk/uksi/2000/1982).
 
-[^key-61d68e63890ce6ae4b53f0a6a4bf3623]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/509/regulation/4) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/509/regulation/1/2)
+[^c-61d68e63890ce6ae4b53f0a6a4bf3623]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/509/regulation/4) in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/509/regulation/1/2)
 
 [^f00027]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213).
 
@@ -304,7 +304,7 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^f00030]: Footnote: [S.I. 2006/216](https://www.legislation.gov.uk/uksi/2006/216).
 
-[^key-b787b0deff1ef997850695e54c4d50d1]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2010/509/regulation/4/3) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
+[^c-b787b0deff1ef997850695e54c4d50d1]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2010/509/regulation/4/3) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
 
 [^f00031]: Footnote: [S.I. 2001/1167](https://www.legislation.gov.uk/uksi/2001/1167).
 

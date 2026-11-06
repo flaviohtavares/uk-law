@@ -43,11 +43,11 @@ Coming into force in accordance with regulation 1
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by sections 221(1) and 256(1) of the Renting Homes (Wales) Act 2016[^f00001].
 
-## 1. Title and commencement[^key-c2846d5f91f09cbc813e4940a94b4db1]
+## 1. Title and commencement[^c-c2846d5f91f09cbc813e4940a94b4db1]
 
-The title of these Regulations is the Renting Homes (Safeguarding Property in Abandoned Dwellings) (Wales) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Renting Homes (Wales) Act 2016[^key-1cf96ab8e5551963a1663dc7e42cc344][^f00002] comes into force).
+The title of these Regulations is the Renting Homes (Safeguarding Property in Abandoned Dwellings) (Wales) Regulations 2022 and they come into force on 1 December 2022 (the day on which section 239 of the Renting Homes (Wales) Act 2016[^c-1cf96ab8e5551963a1663dc7e42cc344][^f00002] comes into force).
 
-## 2. Interpretation[^key-a2092d259c4a4208b7ff271bf5dceb61]
+## 2. Interpretation[^c-a2092d259c4a4208b7ff271bf5dceb61]
 
 (1) In these Regulations—
 
@@ -58,7 +58,7 @@ The title of these Regulations is the Renting Homes (Safeguarding Property in Ab
 
 (2) The words and expressions used in these Regulations have the same meaning as they have in the Act.
 
-## 3. Safeguarding and disposal of property[^key-0e7341f3a0fe770564d28d7bf4f235f0]
+## 3. Safeguarding and disposal of property[^c-0e7341f3a0fe770564d28d7bf4f235f0]
 
 (1) Property that is in a dwelling when the occupation contract ends under section 220 of the Act must be dealt with in accordance with these Regulations.
 
@@ -74,7 +74,7 @@ The title of these Regulations is the Renting Homes (Safeguarding Property in Ab
 
 in which case the landlord may dispose of such property at such time and in such manner as the landlord thinks fit.
 
-## 4. Delivery of property to owner[^key-1e1c3f7f4d0adebec2bb9acccd8dc095]
+## 4. Delivery of property to owner[^c-1e1c3f7f4d0adebec2bb9acccd8dc095]
 
 (1) At any time prior to the disposal of any property under paragraph (3) or (4) of regulation 3, the contract-holder, or any person who appears to the landlord to have a right of ownership or possession in the property, may arrange for delivery of that property to the contract-holder or that other person.
 
@@ -82,13 +82,13 @@ in which case the landlord may dispose of such property at such time and in such
 
 (3) The landlord may require payment of such sum, as the landlord sees fit, equal to or less than the amount of any expenses incurred by the landlord in complying with these Regulations, before relinquishing custody of property under this regulation.
 
-## 5. Landlord expenses and amounts due under the occupation contract[^key-686d76a7045a5f63997e72738c79740e]
+## 5. Landlord expenses and amounts due under the occupation contract[^c-686d76a7045a5f63997e72738c79740e]
 
 (1) The landlord may apply any proceeds of disposal of property under paragraph (3) or (4) of regulation 3, in satisfaction of expenses incurred by the landlord in complying with these Regulations.
 
 (2) If there is any remainder, following the application of proceeds under paragraph (1), the landlord may, after the end of the prescribed period, apply it towards any arrears of rent due under the occupation contract.
 
-## 6. Local Government (Miscellaneous Provisions) Act 1982[^key-7a223d550e094f08398c9e34a0ba4681]
+## 6. Local Government (Miscellaneous Provisions) Act 1982[^c-7a223d550e094f08398c9e34a0ba4681]
 
 Section 41 of the Local Government (Miscellaneous Provisions) Act 1982[^f00003] does not apply to property which is in a dwelling owned or managed by a local authority when an occupation contract in relation to that dwelling ends under section 220 of the Act.
 
@@ -116,20 +116,20 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2016 anaw 1](https://www.legislation.gov.uk/anaw/2016/1).
 
-[^key-c2846d5f91f09cbc813e4940a94b4db1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/256/regulation/1) in force at 1.12.2022 , see reg. 1 (as amended by The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906), art. 12)
+[^c-c2846d5f91f09cbc813e4940a94b4db1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/256/regulation/1) in force at 1.12.2022 , see reg. 1 (as amended by The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906), art. 12)
 
-[^key-1cf96ab8e5551963a1663dc7e42cc344]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/256/regulation/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [12](https://www.legislation.gov.uk/wsi/2022/906/article/12)
+[^c-1cf96ab8e5551963a1663dc7e42cc344]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/256/regulation/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [12](https://www.legislation.gov.uk/wsi/2022/906/article/12)
 
 [^f00002]: Footnote: Section 239 of the Renting Homes (Wales) Act 2016 will come into force on a day appointed by the Welsh Ministers in an order made by statutory instrument.
 
-[^key-a2092d259c4a4208b7ff271bf5dceb61]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/256/regulation/2) in force at 1.12.2022 , see reg. 1 (as amended by The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906), art. 12)
+[^c-a2092d259c4a4208b7ff271bf5dceb61]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/256/regulation/2) in force at 1.12.2022 , see reg. 1 (as amended by The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906), art. 12)
 
-[^key-0e7341f3a0fe770564d28d7bf4f235f0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/256/regulation/3) in force at 1.12.2022 , see reg. 1 (as amended by The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906), art. 12)
+[^c-0e7341f3a0fe770564d28d7bf4f235f0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/256/regulation/3) in force at 1.12.2022 , see reg. 1 (as amended by The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906), art. 12)
 
-[^key-1e1c3f7f4d0adebec2bb9acccd8dc095]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/256/regulation/4) in force at 1.12.2022 , see reg. 1 (as amended by The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906), art. 12)
+[^c-1e1c3f7f4d0adebec2bb9acccd8dc095]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2022/256/regulation/4) in force at 1.12.2022 , see reg. 1 (as amended by The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906), art. 12)
 
-[^key-686d76a7045a5f63997e72738c79740e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/256/regulation/5) in force at 1.12.2022 , see reg. 1 (as amended by The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906), art. 12)
+[^c-686d76a7045a5f63997e72738c79740e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2022/256/regulation/5) in force at 1.12.2022 , see reg. 1 (as amended by The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906), art. 12)
 
-[^key-7a223d550e094f08398c9e34a0ba4681]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/256/regulation/6) in force at 1.12.2022 , see reg. 1 (as amended by The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906), art. 12)
+[^c-7a223d550e094f08398c9e34a0ba4681]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2022/256/regulation/6) in force at 1.12.2022 , see reg. 1 (as amended by The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906), art. 12)
 
 [^f00003]: Footnote: [1982 c. 30](https://www.legislation.gov.uk/ukpga/1982/30). Section 41 is amended by article 2 of, and paragraph 11 of Part 1 of Schedule 1 to, [S.I. 2003/1615](https://www.legislation.gov.uk/uksi/2003/1615); section 4 of, and paragraph 56(3) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11); section 120 of, and Schedule 24 to, the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25); section 21 of, and paragraph 23 of Schedule 6 to, the Norfolk and Suffolk Broads Act [1988 (c. 4)](https://www.legislation.gov.uk/ukpga/1988/4); section 84 of, and paragraph 61 of Schedule 14 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51); section 99 of, and paragraphs 155 and 157 of Part 3 of Schedule 16 to, the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13); section 88 of, and paragraph 18 of Schedule 6 to, the Police Act [1997 (c. 50)](https://www.legislation.gov.uk/ukpga/1997/50); sections 128(1) and 137 of, and paragraph 40 of Part 2 of Schedule 6 and Part 5(1) of Schedule 7 to, the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16); section 119 of, and paragraph 56 of Schedule 6 to, the Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20); sections 6 and 9 of, and paragraphs 44 and 46 of Part 2 of Schedule 1 and paragraphs 65 and 67 of Part 2 of Schedule 2 to, the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3); section 209(2) of, and paragraph 38 of Part 2 of Schedule 13 to, the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28); section 59 of, and paragraph 6(1), (16)(c) of Part 3 of Schedule 13 to, the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20); section 43 of, and paragraph 24 of Schedule 4 to, the Police and Magistrates Court Act [1994 (c. 29)](https://www.legislation.gov.uk/ukpga/1994/29); sections 325 and 328 of, and paragraph 45(1) and (3) of Schedule 27 and paragraph 36 of Part 1 of Schedule 29 to, the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29).

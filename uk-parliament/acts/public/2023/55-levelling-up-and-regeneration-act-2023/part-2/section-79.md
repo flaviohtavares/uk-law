@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Long-term empty dwellings: England[^key-fc6d86221fd517c878ea7029e6d901af]
+## 79. Long-term empty dwellings: England[^c-fc6d86221fd517c878ea7029e6d901af]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc6d86221fd517c878ea7029e6d901af]: Commencement: S. 79 in force at Royal Assent, see [s. 255(2)(q)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/q)
+[^c-fc6d86221fd517c878ea7029e6d901af]: Commencement: S. 79 in force at Royal Assent, see [s. 255(2)(q)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/q)

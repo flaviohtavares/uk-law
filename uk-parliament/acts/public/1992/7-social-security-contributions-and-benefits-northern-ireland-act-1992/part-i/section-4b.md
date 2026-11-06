@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4B. Earnings: power to make retrospective provision in consequence of retrospective tax legislation[^key-0d84afca4025822bd48340a803eb3f1b]
+## 4B. Earnings: power to make retrospective provision in consequence of retrospective tax legislation[^c-0d84afca4025822bd48340a803eb3f1b]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 - (a) section 3 (power to prescribe the manner and basis of the calculation or estimation of earnings);
 - (b) section 4(6) (power to treat amounts chargeable to income tax under the employment income Parts of ITEPA 2003 as earnings);
 - (c) section 4A (power to treat payments or benefits to workers supplied by service companies etc as earnings);
-- (d)[^key-c0767af29e8ec2faaa2b976107e67871] section 4AA (power to make provision in relation to limited liability partnerships).
+- (d)[^c-c0767af29e8ec2faaa2b976107e67871] section 4AA (power to make provision in relation to limited liability partnerships).
 
 (4) It does not matter whether the retrospective tax provision in question was passed or made before the day on which the National Insurance Contributions Act 2006 was passed.
 
@@ -76,6 +76,6 @@ is to be redetermined as it would have been determined at the time of the origin
 
 ## Annotations
 
-[^key-0d84afca4025822bd48340a803eb3f1b]: Textual amendment: [Ss. 4B](https://www.legislation.gov.uk/ukpga/1992/7/section/4B), [4C](https://www.legislation.gov.uk/ukpga/1992/7/section/4C) inserted (30.3.2006) by [National Insurance Contributions Act 2006 (c. 10)](https://www.legislation.gov.uk/ukpga/2006/10), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2006/10/section/2/1), [9](https://www.legislation.gov.uk/ukpga/2006/10/section/9)
+[^c-0d84afca4025822bd48340a803eb3f1b]: Textual amendment: [Ss. 4B](https://www.legislation.gov.uk/ukpga/1992/7/section/4B), [4C](https://www.legislation.gov.uk/ukpga/1992/7/section/4C) inserted (30.3.2006) by [National Insurance Contributions Act 2006 (c. 10)](https://www.legislation.gov.uk/ukpga/2006/10), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2006/10/section/2/1), [9](https://www.legislation.gov.uk/ukpga/2006/10/section/9)
 
-[^key-c0767af29e8ec2faaa2b976107e67871]: Textual amendment: [S. 4B(3)(d)](https://www.legislation.gov.uk/ukpga/1992/7/section/4B/3/d) inserted (13.3.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 14(7)](https://www.legislation.gov.uk/ukpga/2014/7/section/14/7)
+[^c-c0767af29e8ec2faaa2b976107e67871]: Textual amendment: [S. 4B(3)(d)](https://www.legislation.gov.uk/ukpga/1992/7/section/4B/3/d) inserted (13.3.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 14(7)](https://www.legislation.gov.uk/ukpga/2014/7/section/14/7)

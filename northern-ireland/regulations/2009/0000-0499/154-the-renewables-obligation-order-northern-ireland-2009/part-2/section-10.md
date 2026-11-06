@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Calculation C[^key-0831422c165dc6b258ed566734802b28]
+## 10. Calculation C[^c-0831422c165dc6b258ed566734802b28]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0831422c165dc6b258ed566734802b28]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/nisr/2009/154/article/10) omitted (1.4.2010) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/134)](https://www.legislation.gov.uk/nisr/2010/134), [arts. 1](https://www.legislation.gov.uk/nisr/2010/134/article/1), [5](https://www.legislation.gov.uk/nisr/2010/134/article/5)
+[^c-0831422c165dc6b258ed566734802b28]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/nisr/2009/154/article/10) omitted (1.4.2010) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/134)](https://www.legislation.gov.uk/nisr/2010/134), [arts. 1](https://www.legislation.gov.uk/nisr/2010/134/article/1), [5](https://www.legislation.gov.uk/nisr/2010/134/article/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.3. Exercise of magistrates’ court’s powers[^key-add4e178183be4ba75a98513c7e04c86]
+## 50.3. Exercise of magistrates’ court’s powers[^c-add4e178183be4ba75a98513c7e04c86]
 
 *Extent: E+W*
 
@@ -88,7 +88,7 @@ summary: ''
 
 ## Annotations
 
-[^key-add4e178183be4ba75a98513c7e04c86]: Commencement: [Rule 50.3](https://www.legislation.gov.uk/uksi/2025/909/rule/50.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-add4e178183be4ba75a98513c7e04c86]: Commencement: [Rule 50.3](https://www.legislation.gov.uk/uksi/2025/909/rule/50.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01330]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); sections 8A and 8B were inserted by section 69 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26). Sections 9 and 44 were amended by paragraph 16 of Schedule 13 to the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48). Section 21B was inserted by section 159 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12). Section 22 was amended by section 71 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26). Section 23 was amended by paragraph 7 of Schedule 13 to the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48) and section 71 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26).
 

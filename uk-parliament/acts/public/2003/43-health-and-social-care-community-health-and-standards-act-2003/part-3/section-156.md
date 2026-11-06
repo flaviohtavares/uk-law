@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Review of certificates[^c552128][^key-79baf2fac7cc8982cc11423cc842e362][^key-a96f981fd7f69d45ef27ca15c0200267]
+## 156. Review of certificates[^c552128][^c-79baf2fac7cc8982cc11423cc842e362][^c-a96f981fd7f69d45ef27ca15c0200267]
 
 *Extent: E+W+S*
 
@@ -68,6 +68,6 @@ the other must review the certificate issued by him or them (as the case may be)
 
 [^c552128]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2003/43/section/156) partly in force; [s. 156](https://www.legislation.gov.uk/ukpga/2003/43/section/156) in force at Royal Assent for certain purposes, see [s. 199(1)(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1/4)
 
-[^key-79baf2fac7cc8982cc11423cc842e362]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2003/43/section/156) in force at 29.1.2007 for E.W. in so far as not already in force by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/a)
+[^c-79baf2fac7cc8982cc11423cc842e362]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2003/43/section/156) in force at 29.1.2007 for E.W. in so far as not already in force by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2006/3397/article/2/2/a)
 
-[^key-a96f981fd7f69d45ef27ca15c0200267]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2003/43/section/156) in force at 29.1.2007 for S. in so far as not already in force by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/a)
+[^c-a96f981fd7f69d45ef27ca15c0200267]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2003/43/section/156) in force at 29.1.2007 for S. in so far as not already in force by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/a)

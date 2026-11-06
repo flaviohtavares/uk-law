@@ -35,10 +35,10 @@ summary: ''
 
 2. Where the methods used by the laboratories referred to in point (b) of paragraph 1 of this Article require confirmation of the result of the laboratory analysis, test or diagnosis, the confirmatory laboratory analysis, test or diagnosis shall be carried out by an official laboratory which complies with the requirements set out in point (e) of Article 37(4).
 
-3. The official laboratories designated in accordance with paragraph 1 shall be located in the United Kingdom.[^key-244e00c51051b7c32d27f38a1a6644dc]
+3. The official laboratories designated in accordance with paragraph 1 shall be located in the United Kingdom.[^c-244e00c51051b7c32d27f38a1a6644dc]
 
 ## Annotations
 
 [^f00058]: Footnote: Commission Implementing Regulation (EU) 2015/1375 of 10 August 2015 laying down specific rules on official controls for Trichinella in meat ([OJ L 212, 11.8.2015, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2015.212.01.0007.01.ENG)).
 
-[^key-244e00c51051b7c32d27f38a1a6644dc]: Textual amendment: Words in [Art. 40(3)](https://www.legislation.gov.uk/eur/2017/625/article/40/3) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(5)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/5) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-244e00c51051b7c32d27f38a1a6644dc]: Textual amendment: Words in [Art. 40(3)](https://www.legislation.gov.uk/eur/2017/625/article/40/3) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [8(5)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/8/5) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

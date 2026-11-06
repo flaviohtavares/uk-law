@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Annual report by Belfast PCSP to council[^key-a39f238b5036f81a92e7262e4d7fd191]
+## 25. Annual report by Belfast PCSP to council[^c-a39f238b5036f81a92e7262e4d7fd191]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a39f238b5036f81a92e7262e4d7fd191]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2011/24/section/25) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-a39f238b5036f81a92e7262e4d7fd191]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2011/24/section/25) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)

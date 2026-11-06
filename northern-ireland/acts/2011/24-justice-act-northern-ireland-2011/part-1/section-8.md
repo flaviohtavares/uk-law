@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Special measures directions for child witnesses[^key-d96357913473e160f58bf858a1d9e02a]
+## 8. Special measures directions for child witnesses[^c-d96357913473e160f58bf858a1d9e02a]
 
 *Extent: N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d96357913473e160f58bf858a1d9e02a]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/24/section/8) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(a)](https://www.legislation.gov.uk/nisr/2011/370/article/3/a)
+[^c-d96357913473e160f58bf858a1d9e02a]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/24/section/8) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(a)](https://www.legislation.gov.uk/nisr/2011/370/article/3/a)

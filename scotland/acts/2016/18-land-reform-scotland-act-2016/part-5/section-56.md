@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Right to buy: Ministers' decision on application[^key-5c23e978676f5eb4a5cffc726e6d16fa]
+## 56. Right to buy: Ministers' decision on application[^c-5c23e978676f5eb4a5cffc726e6d16fa]
 
 *Extent: S*
 
@@ -119,4 +119,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c23e978676f5eb4a5cffc726e6d16fa]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2016/18/section/56) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-5c23e978676f5eb4a5cffc726e6d16fa]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2016/18/section/56) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

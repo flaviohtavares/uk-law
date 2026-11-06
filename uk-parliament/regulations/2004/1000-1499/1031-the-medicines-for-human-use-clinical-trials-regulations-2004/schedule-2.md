@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — ADDITIONAL PROVISIONS RELATING TO ETHICS COMMITTEES[^key-fc5f92d4beb35d29606b4df5720cd498]
+## SCHEDULE 2 — ADDITIONAL PROVISIONS RELATING TO ETHICS COMMITTEES[^c-fc5f92d4beb35d29606b4df5720cd498]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,38 +24,38 @@ summary: ''
 
 Regulations 7(1)(b), 8(a) and 9
 
-**1.**[^key-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Membership[^key-fc5f92d4beb35d29606b4df5720cd498]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 7. Deputies and co-opted members[^key-fc5f92d4beb35d29606b4df5720cd498]
+### 3. Membership[^c-fc5f92d4beb35d29606b4df5720cd498]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Expenses[^key-fc5f92d4beb35d29606b4df5720cd498]
+**6.**[^c-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Deputies and co-opted members[^c-fc5f92d4beb35d29606b4df5720cd498]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 10. Expenses[^c-fc5f92d4beb35d29606b4df5720cd498]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-fc5f92d4beb35d29606b4df5720cd498] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc5f92d4beb35d29606b4df5720cd498]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1031/schedule/2) omitted (28.4.2026) by virtue of [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2025/538/regulation/38)
+[^c-fc5f92d4beb35d29606b4df5720cd498]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1031/schedule/2) omitted (28.4.2026) by virtue of [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2025/538/regulation/38)

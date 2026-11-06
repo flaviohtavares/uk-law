@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred by sections 122(1)(a), 131(1) and 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], Articles 6(5) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and sections 2(3)(b) and 19(1) to (3) of the State Pension Credit Act (Northern Ireland) 2002[^f00003], and now vested in it[^f00004], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-bdcdeb8c788c2f84dceff1daaf3a2e5b]
+## 1. Citation, commencement and interpretation[^c-bdcdeb8c788c2f84dceff1daaf3a2e5b]
 
 (1) These Regulations may be cited as the Social Security (Housing Costs Amendments) Regulations (Northern Ireland) 2004 and shall come into operation –
 
@@ -48,12 +48,12 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-2cb5a384995d84ffef421fb5d8976598]
+## 2. Amendment of the Income Support (General) Regulations[^c-2cb5a384995d84ffef421fb5d8976598]
 
 In Schedule 3[^f00006] to the Income Support (General) Regulations (Northern Ireland) 1987[^f00007] (housing costs) –
 
 - (a) in paragraph 1(2)[^f00008] (interpretation) –
-  - (i)[^key-665a9a5441618252fbbc455f135b90b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-665a9a5441618252fbbc455f135b90b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) in the definition of “standard rate” for “specified in”, there shall be substituted “determined in accordance with”;
 - (b) in paragraph 10[^f00009] (the calculation for loans), in the explanation of “B”, for “specified in respect of that loan under paragraph 12” there shall be substituted “applicable in respect of that loan”;
 - (c) for paragraph 12[^f00010] (the standard rate) there shall be substituted the following paragraph –
@@ -84,12 +84,12 @@ In Schedule 3[^f00006] to the Income Support (General) Regulations (Northern Ire
 
   .
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-c7aa8d6ee2ad4f12f95e593f9dda278c]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-c7aa8d6ee2ad4f12f95e593f9dda278c]
 
 In Schedule 2 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00014] (housing costs) –
 
 - (a) in paragraph 1(2) (interpretation) –
-  - (i)[^key-2a1697ed18a2c05f9a00d2108d9ed733] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-2a1697ed18a2c05f9a00d2108d9ed733] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) in the definition of “standard rate” for “specified in”, there shall be substituted “determined in accordance with”;
 - (b) in paragraph 9[^f00015] (the calculation for loans), in the explanation of “B”, for “specified in respect of that loan under paragraph 11” there shall be substituted “applicable in respect of that loan”;
 - (c) for paragraph 11[^f00016] there shall be substituted the following paragraph –
@@ -120,7 +120,7 @@ In Schedule 2 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996
 
   .
 
-## 4. Amendment of the State Pension Credit Regulations[^key-ad5e3f759022a87830c0123f3565b70b]
+## 4. Amendment of the State Pension Credit Regulations[^c-ad5e3f759022a87830c0123f3565b70b]
 
 In Schedule 2 to the State Pension Credit Regulations (Northern Ireland) 2003[^f00017] (housing costs) –
 
@@ -154,12 +154,12 @@ In Schedule 2 to the State Pension Credit Regulations (Northern Ireland) 2003[^f
 
   .
 
-## 5. Consequential Amendments[^key-55ffff11ac2fe98ea59f55a5b290926a][^key-b503c9ae947129465b32be8182ed7915]
+## 5. Consequential Amendments[^c-55ffff11ac2fe98ea59f55a5b290926a][^c-b503c9ae947129465b32be8182ed7915]
 
 In Schedule 8B to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00018] (deductions of mortgage interest from benefit and payment to qualifying lenders) –
 
-- (a)[^key-55ffff11ac2fe98ea59f55a5b290926a] in paragraph 2(a)[^f00019] (specified circumstances for the purposes of regulation 34ZA), “(whether at the full rate or a lesser rate)” shall be omitted;
-- (b)[^key-b503c9ae947129465b32be8182ed7915] in paragraph 10(2)(a)[^f00020] (recovery of sums wrongly paid), for “specified in” there shall be substituted “determined in accordance with”.
+- (a)[^c-55ffff11ac2fe98ea59f55a5b290926a] in paragraph 2(a)[^f00019] (specified circumstances for the purposes of regulation 34ZA), “(whether at the full rate or a lesser rate)” shall be omitted;
+- (b)[^c-b503c9ae947129465b32be8182ed7915] in paragraph 10(2)(a)[^f00020] (recovery of sums wrongly paid), for “specified in” there shall be substituted “determined in accordance with”.
 
 Sealed with the Official Seal of the Department for Social Development on 4th November 2004.
 
@@ -193,11 +193,11 @@ These Regulations do not impose a charge on business.
 
 [^f00004]: Footnote: *See* Article 8(b) and Part II of Schedule 6 to, [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-bdcdeb8c788c2f84dceff1daaf3a2e5b]: Commencement: Reg. 1 in operation at 28.11.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/461/regulation/1/1/a)
+[^c-bdcdeb8c788c2f84dceff1daaf3a2e5b]: Commencement: Reg. 1 in operation at 28.11.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/461/regulation/1/1/a)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2cb5a384995d84ffef421fb5d8976598]: Commencement: Reg. 2 in operation at 28.11.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/461/regulation/1/1/a)
+[^c-2cb5a384995d84ffef421fb5d8976598]: Commencement: Reg. 2 in operation at 28.11.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/461/regulation/1/1/a)
 
 [^f00006]: Footnote: Schedule 3 was substituted by regulation 2 of, and Schedule 1 to, [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301)
 
@@ -205,7 +205,7 @@ These Regulations do not impose a charge on business.
 
 [^f00008]: Footnote: Paragraph 1(2) was amended by regulation 2(3)(a)(i) of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434)
 
-[^key-665a9a5441618252fbbc455f135b90b8]: Textual amendment: [Reg. 2(a)(i)](https://www.legislation.gov.uk/nisr/2004/461/regulation/2/a/i) revoked (1.4.2016) by [The Social Security (Housing Costs Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/44)](https://www.legislation.gov.uk/nisr/2016/44), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/44/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/44/schedule) (with [reg. 6](https://www.legislation.gov.uk/nisr/2016/44/regulation/6))
+[^c-665a9a5441618252fbbc455f135b90b8]: Textual amendment: [Reg. 2(a)(i)](https://www.legislation.gov.uk/nisr/2004/461/regulation/2/a/i) revoked (1.4.2016) by [The Social Security (Housing Costs Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/44)](https://www.legislation.gov.uk/nisr/2016/44), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/44/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/44/schedule) (with [reg. 6](https://www.legislation.gov.uk/nisr/2016/44/regulation/6))
 
 [^f00009]: Footnote: Paragraph 10 was substituted by regulation 2(1) of [S.R. 2001 No. 406](https://www.legislation.gov.uk/nisr/2001/406)
 
@@ -217,23 +217,23 @@ These Regulations do not impose a charge on business.
 
 [^f00013]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506); Article 11 was amended by paragraph 17 of Schedule 6, and Part I of Schedule 9 to, the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671))
 
-[^key-c7aa8d6ee2ad4f12f95e593f9dda278c]: Commencement: Reg. 3 in operation at 28.11.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/461/regulation/1/1/a)
+[^c-c7aa8d6ee2ad4f12f95e593f9dda278c]: Commencement: Reg. 3 in operation at 28.11.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/461/regulation/1/1/a)
 
 [^f00014]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358) and [S.R. 2001 No. 406](https://www.legislation.gov.uk/nisr/2001/406)
 
-[^key-2a1697ed18a2c05f9a00d2108d9ed733]: Textual amendment: [Reg. 3(a)(i)](https://www.legislation.gov.uk/nisr/2004/461/regulation/3/a/i) revoked (1.4.2016) by [The Social Security (Housing Costs Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/44)](https://www.legislation.gov.uk/nisr/2016/44), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/44/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/44/schedule) (with [reg. 6](https://www.legislation.gov.uk/nisr/2016/44/regulation/6))
+[^c-2a1697ed18a2c05f9a00d2108d9ed733]: Textual amendment: [Reg. 3(a)(i)](https://www.legislation.gov.uk/nisr/2004/461/regulation/3/a/i) revoked (1.4.2016) by [The Social Security (Housing Costs Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/44)](https://www.legislation.gov.uk/nisr/2016/44), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/44/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/44/schedule) (with [reg. 6](https://www.legislation.gov.uk/nisr/2016/44/regulation/6))
 
 [^f00015]: Footnote: Paragraph 9 was substituted by regulation 2(2) of [S.R. 2001 No. 406](https://www.legislation.gov.uk/nisr/2001/406)
 
 [^f00016]: Footnote: Paragraph 11(1)(a) was substituted by regulation 29(4) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
 
-[^key-ad5e3f759022a87830c0123f3565b70b]: Commencement: Reg. 4 in operation at 28.11.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/461/regulation/1/1/a)
+[^c-ad5e3f759022a87830c0123f3565b70b]: Commencement: Reg. 4 in operation at 28.11.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/461/regulation/1/1/a)
 
 [^f00017]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28)
 
-[^key-55ffff11ac2fe98ea59f55a5b290926a]: Commencement: [Reg. 5(a)](https://www.legislation.gov.uk/nisr/2004/461/regulation/5/a) in operation at 28.11.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/461/regulation/1/1/b)
+[^c-55ffff11ac2fe98ea59f55a5b290926a]: Commencement: [Reg. 5(a)](https://www.legislation.gov.uk/nisr/2004/461/regulation/5/a) in operation at 28.11.2005, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/461/regulation/1/1/b)
 
-[^key-b503c9ae947129465b32be8182ed7915]: Commencement: Reg. 5(b) in operation at 28.11.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/461/regulation/1/1/a)
+[^c-b503c9ae947129465b32be8182ed7915]: Commencement: Reg. 5(b) in operation at 28.11.2004, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/461/regulation/1/1/a)
 
 [^f00018]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); Schedule 8B was inserted by regulation 5 of [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271); relevant amending Regulations are [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301), [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
 

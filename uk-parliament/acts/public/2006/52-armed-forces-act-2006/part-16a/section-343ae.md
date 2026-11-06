@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 343AE. Sections 343AA to 343AD: guidance[^key-053b7264171ba38addf8c43d670db5d5][^key-95b2ac701edc20c3d5e680ceb5b025fc]
+## 343AE. Sections 343AA to 343AD: guidance[^c-053b7264171ba38addf8c43d670db5d5][^c-95b2ac701edc20c3d5e680ceb5b025fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-053b7264171ba38addf8c43d670db5d5]: Textual amendment: [Ss. 343AA-343AF](https://www.legislation.gov.uk/ukpga/2006/52/section/343AA) inserted (1.5.2022 for specified purposes, 22.11.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2021/35/section/8/3), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 3](https://www.legislation.gov.uk/uksi/2022/471/regulation/3); [S.I. 2022/1161](https://www.legislation.gov.uk/uksi/2022/1161), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1161/regulation/3)
+[^c-053b7264171ba38addf8c43d670db5d5]: Textual amendment: [Ss. 343AA-343AF](https://www.legislation.gov.uk/ukpga/2006/52/section/343AA) inserted (1.5.2022 for specified purposes, 22.11.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2021/35/section/8/3), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 3](https://www.legislation.gov.uk/uksi/2022/471/regulation/3); [S.I. 2022/1161](https://www.legislation.gov.uk/uksi/2022/1161), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1161/regulation/3)
 
-[^key-95b2ac701edc20c3d5e680ceb5b025fc]: Textual amendment: Pt. 16A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 2](https://www.legislation.gov.uk/ukpga/2011/18/section/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
+[^c-95b2ac701edc20c3d5e680ceb5b025fc]: Textual amendment: Pt. 16A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 2](https://www.legislation.gov.uk/ukpga/2011/18/section/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)

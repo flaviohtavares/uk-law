@@ -32,7 +32,7 @@ summary: ''
 
 Landlord And Tenant, England
 
-The Agricultural Holdings (Units of Production) (England) Order 2021 (revoked)[^key-c6088f99151b66e2f853460da5afe39c]
+The Agricultural Holdings (Units of Production) (England) Order 2021 (revoked)[^c-c6088f99151b66e2f853460da5afe39c]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 23rd February 2021
 
-[^key-c6088f99151b66e2f853460da5afe39c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6088f99151b66e2f853460da5afe39c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c6088f99151b66e2f853460da5afe39c]
+## 1. Citation, commencement and interpretation[^c-c6088f99151b66e2f853460da5afe39c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Assessment of productive capacity of land[^key-c6088f99151b66e2f853460da5afe39c]
+## 2. Assessment of productive capacity of land[^c-c6088f99151b66e2f853460da5afe39c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-c6088f99151b66e2f853460da5afe39c]
+## 3. Revocation[^c-c6088f99151b66e2f853460da5afe39c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6088f99151b66e2f853460da5afe39c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6088f99151b66e2f853460da5afe39c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-c6088f99151b66e2f853460da5afe39c]
+## SCHEDULE[^c-c6088f99151b66e2f853460da5afe39c]
 
 Article 2
 
@@ -74,7 +74,7 @@ Article 2
 
 **No longer in force.**
 
-[^key-c6088f99151b66e2f853460da5afe39c]EXPLANATORY NOTE
+[^c-c6088f99151b66e2f853460da5afe39c]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -94,4 +94,4 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 ## Annotations
 
-[^key-c6088f99151b66e2f853460da5afe39c]: Textual amendment: Order revoked (23.2.2022) by [The Agricultural Holdings (Units of Production) (England) (No. 2) Order 2021 (S.I. 2021/1440)](https://www.legislation.gov.uk/uksi/2021/1440), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2021/1440/article/2/b), [5](https://www.legislation.gov.uk/uksi/2021/1440/article/5)
+[^c-c6088f99151b66e2f853460da5afe39c]: Textual amendment: Order revoked (23.2.2022) by [The Agricultural Holdings (Units of Production) (England) (No. 2) Order 2021 (S.I. 2021/1440)](https://www.legislation.gov.uk/uksi/2021/1440), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2021/1440/article/2/b), [5](https://www.legislation.gov.uk/uksi/2021/1440/article/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Method of notification and related matters[^key-4351c1d7feec636f487f7c02d27c6d86]
+## 70. Method of notification and related matters[^c-4351c1d7feec636f487f7c02d27c6d86]
 
 *Extent: N.I.*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4351c1d7feec636f487f7c02d27c6d86]: Commencement: [S. 70](https://www.legislation.gov.uk/nia/2015/9/section/70) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(o)](https://www.legislation.gov.uk/nisr/2016/417/article/2/o)
+[^c-4351c1d7feec636f487f7c02d27c6d86]: Commencement: [S. 70](https://www.legislation.gov.uk/nia/2015/9/section/70) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(o)](https://www.legislation.gov.uk/nisr/2016/417/article/2/o)

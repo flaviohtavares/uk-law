@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Fees, expenses, etc[^key-c19acc98484ca14ec871081dfdc24a6b]
+## 121. Fees, expenses, etc[^c-c19acc98484ca14ec871081dfdc24a6b]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Apply rule 7.31 of the 1986 Rules[^f00057].
 
 ## Annotations
 
-[^key-c19acc98484ca14ec871081dfdc24a6b]: Commencement: Rule 121 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-c19acc98484ca14ec871081dfdc24a6b]: Commencement: Rule 121 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00057]: Footnote: Rule 7.31 was amended by article 8 of Part 1 of [S.I. 2003/2108](https://www.legislation.gov.uk/uksi/2003/2108).

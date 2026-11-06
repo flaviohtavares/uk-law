@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 315. Article 8 of Commission Implementing Regulation (EU) No 1079/2012[^key-6a5af4e59bdb2f1e566fe446edd797cb]
+## 315. Article 8 of Commission Implementing Regulation (EU) No 1079/2012[^c-6a5af4e59bdb2f1e566fe446edd797cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 8 (associated procedures) omit paragraph 7.
 
 ## Annotations
 
-[^key-6a5af4e59bdb2f1e566fe446edd797cb]: Commencement: Reg. 315 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-6a5af4e59bdb2f1e566fe446edd797cb]: Commencement: Reg. 315 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

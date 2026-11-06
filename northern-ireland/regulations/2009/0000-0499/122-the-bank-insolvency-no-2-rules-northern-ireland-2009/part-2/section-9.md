@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Proof of service[^key-c7b8cb1f5746e481c5a96deb62a8465f]
+## 9. Proof of service[^c-c7b8cb1f5746e481c5a96deb62a8465f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.009 of the 1991 Rules.
 
 ## Annotations
 
-[^key-c7b8cb1f5746e481c5a96deb62a8465f]: Commencement: Rule 9 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-c7b8cb1f5746e481c5a96deb62a8465f]: Commencement: Rule 9 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

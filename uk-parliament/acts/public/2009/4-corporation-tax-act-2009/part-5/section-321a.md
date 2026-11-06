@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 321A. Restriction on debits resulting from release of loans to participators etc[^key-d3e800f7a76ea7240548fcdea75d8772]
+## 321A. Restriction on debits resulting from release of loans to participators etc[^c-d3e800f7a76ea7240548fcdea75d8772]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3e800f7a76ea7240548fcdea75d8772]: Textual amendment: S. 321A inserted (with effect in accordance with s. 43(2) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 43(1)](https://www.legislation.gov.uk/ukpga/2010/13/section/43/1)
+[^c-d3e800f7a76ea7240548fcdea75d8772]: Textual amendment: S. 321A inserted (with effect in accordance with s. 43(2) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 43(1)](https://www.legislation.gov.uk/ukpga/2010/13/section/43/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.2. Application for certificate[^key-2a79396b7388ba7c9fbcd1f38162fd98]
+## 27.2. Application for certificate[^c-2a79396b7388ba7c9fbcd1f38162fd98]
 
 *Extent: E+W*
 
@@ -64,7 +64,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2a79396b7388ba7c9fbcd1f38162fd98]: Commencement: [Rule 27.2](https://www.legislation.gov.uk/uksi/2025/909/rule/27.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2a79396b7388ba7c9fbcd1f38162fd98]: Commencement: [Rule 27.2](https://www.legislation.gov.uk/uksi/2025/909/rule/27.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00631]: Footnote: [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33); section 51 was amended by section 29 of, and paragraph 19 of Schedule 2 to, the Criminal Appeal Act [1995 (c. 35)](https://www.legislation.gov.uk/ukpga/1995/35), section 67 of, and paragraphs 21 and 22 of Schedule 4 to, the Youth Justice and Criminal Evidence Act [1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), paragraphs 62 and 64 of Schedule 36 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), section 45 of, and paragraph 36 of Schedule 17 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22) and section 50 of, and paragraph 14 of Schedule 11 to, the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2). It is further amended by paragraph 11 of Schedule 36 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), with effect from a date to be appointed.
 

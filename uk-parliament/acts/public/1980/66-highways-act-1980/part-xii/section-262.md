@@ -45,7 +45,7 @@ subsection (3) below applies for the purpose of assessing compensation in respec
 
 - “**direct access**” means access otherwise than by means of a highway which is not a special road and “**indirect access**” means access by means of a highway which is not a special road;
 - “**lorry area development**” means development for the purpose of providing a lorry area for use in connection with a special road or proposed special road;
-- “**relevant planning permission**” means any planning permission for service area development or, as the case may be, lorry area development, which is in force on the date of service of the notice to treat, or as to the grant of which any assumption is required to be made by virtue of section 15[^key-fec260ea34b5ed84e01fe2fde9d0a59d] of the [^c13430801]Land Compensation Act 1961, or the possibility of the grant of which is taken into account in assessing the compensation;
+- “**relevant planning permission**” means any planning permission for service area development or, as the case may be, lorry area development, which is in force on the date of service of the notice to treat, or as to the grant of which any assumption is required to be made by virtue of section 15[^c-fec260ea34b5ed84e01fe2fde9d0a59d] of the [^c13430801]Land Compensation Act 1961, or the possibility of the grant of which is taken into account in assessing the compensation;
 - “**service area development**” means development of the relevant land, or of any part of it, for the purpose of providing such service stations or other buildings or facilities as are mentioned in section 239(4)(c) above or of providing any other buildings or facilities designed to cater to a significant extent for traffic carried or to be carried by the special road;
 
 and any expression which is also used in the [^c13430811]Land Compensation Act 1961 has the same meaning as in that Act.
@@ -64,7 +64,7 @@ and any expression which is also used in the [^c13430811]Land Compensation Act 1
 
 [^c13430791]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 45(15)(b)(ii)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/45/15/b/ii)
 
-[^key-fec260ea34b5ed84e01fe2fde9d0a59d]: Textual amendment: Words in s. 262(4) substituted (6.4.2012) by [The Localism Act 2011 (Consequential Amendments) Order 2012 (S.I. 2012/961)](https://www.legislation.gov.uk/uksi/2012/961), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2012/961/schedule/2/paragraph/3/2) (with [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2012/961/schedule/2/paragraph/3/3))
+[^c-fec260ea34b5ed84e01fe2fde9d0a59d]: Textual amendment: Words in s. 262(4) substituted (6.4.2012) by [The Localism Act 2011 (Consequential Amendments) Order 2012 (S.I. 2012/961)](https://www.legislation.gov.uk/uksi/2012/961), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2012/961/schedule/2/paragraph/3/2) (with [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/uksi/2012/961/schedule/2/paragraph/3/3))
 
 [^c13430801]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82. Validity of acts done by unqualified persons.[^c15094991][^c15095001][^c15095011][^c15095021][^key-53e5125c94b9d2412d91de7a320d2534][^key-f2cb67322f07530203e2c6eb92d823bc]
+## 82. Validity of acts done by unqualified persons.[^c15094991][^c15095001][^c15095011][^c15095021][^c-53e5125c94b9d2412d91de7a320d2534][^c-f2cb67322f07530203e2c6eb92d823bc]
 
 *Extent: E+W*
 
-(1)[^c15095041][^c18887871][^key-ca9124ecdf3e5495c7f122aa3d4a7505][^c15095031] The acts and proceedings of any person elected to an office under this Act or elected or appointed to an office under Part[^c15095051] [^c15095061]. . . IV of the Local Government Act 1985 or elected as elected mayor or executive leader[^c15095071] and acting in that office shall, notwithstanding his disqualification or want of qualification, be as valid and effectual as if he had been qualified.
+(1)[^c15095041][^c18887871][^c-ca9124ecdf3e5495c7f122aa3d4a7505][^c15095031] The acts and proceedings of any person elected to an office under this Act or elected or appointed to an office under Part[^c15095051] [^c15095061]. . . IV of the Local Government Act 1985 or elected as elected mayor or executive leader[^c15095071] and acting in that office shall, notwithstanding his disqualification or want of qualification, be as valid and effectual as if he had been qualified.
 
 (2)[^c15095081] Subsection (1) above shall have effect, in relation to the Broads Authority, as if the reference to this Act included a reference to the Norfolk and Suffolk Broads Act 1988.
 
@@ -40,9 +40,9 @@ summary: ''
 
     S. 82: certain functions transferred (subject to modifications) (10.1.1992) by [S.I. 1991/2913](https://www.legislation.gov.uk/uksi/1991/2913), [arts. 6](https://www.legislation.gov.uk/uksi/1991/2913/article/6), [8](https://www.legislation.gov.uk/uksi/1991/2913/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2913/schedule/1)
 
-[^key-53e5125c94b9d2412d91de7a320d2534]: Modification: Ss. 79-82 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
+[^c-53e5125c94b9d2412d91de7a320d2534]: Modification: Ss. 79-82 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
 
-[^key-f2cb67322f07530203e2c6eb92d823bc]: Modification: Ss. 79-82 applied (with modifications) (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/558/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/558/schedule/1)
+[^c-f2cb67322f07530203e2c6eb92d823bc]: Modification: Ss. 79-82 applied (with modifications) (E.) (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [8](https://www.legislation.gov.uk/uksi/2017/558/article/8), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/558/schedule/1)
 
 [^c15095041]: Modification: S. 82(1) applied (with modifications) (5.12.1995) by: [S.I. 1995/3127](https://www.legislation.gov.uk/uksi/1995/3127), [art. 2](https://www.legislation.gov.uk/uksi/1995/3127/article/2), [Sch. para. 20(1)](https://www.legislation.gov.uk/uksi/1995/3127/schedule/paragraph/20/1); [S.I. 1995/3132](https://www.legislation.gov.uk/uksi/1995/3132), [art. 2](https://www.legislation.gov.uk/uksi/1995/3132/article/2), [Sch. para. 20(1)](https://www.legislation.gov.uk/uksi/1995/3132/schedule/paragraph/20/1); [S.I. 1995/3133](https://www.legislation.gov.uk/uksi/1995/3133), [art. 2](https://www.legislation.gov.uk/uksi/1995/3133/article/2), [Sch. para. 20(1)](https://www.legislation.gov.uk/uksi/1995/3133/schedule/paragraph/20/1)
 
@@ -52,7 +52,7 @@ summary: ''
 
 [^c18887871]: Modification: S. 82(1) applied (with modifications) (20.11.2006) by [The Devon and Somerset Fire and Rescue Authority (Combination Scheme) Order 2006 (S.I. 2006/2790)](https://www.legislation.gov.uk/uksi/2006/2790), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/2790/article/1/2), [2](https://www.legislation.gov.uk/uksi/2006/2790/article/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2006/2790/schedule/paragraph/15)
 
-[^key-ca9124ecdf3e5495c7f122aa3d4a7505]: Modification: [S. 82(1)](https://www.legislation.gov.uk/ukpga/1972/70/section/82/1) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/4) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
+[^c-ca9124ecdf3e5495c7f122aa3d4a7505]: Modification: [S. 82(1)](https://www.legislation.gov.uk/ukpga/1972/70/section/82/1) modified (5.10.2026) by [The Surrey (Structural Changes) (Pensions etc.) Order 2026 (S.I. 2026/1011)](https://www.legislation.gov.uk/uksi/2026/1011), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1011/article/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/4) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2026/1011/schedule/paragraph/10))
 
 [^c15095031]: Textual amendment: S. 82 renumbered as s. 82(1) by [Norfolk and Suffolk Broads Act 1988 (c. 4, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1988/4), [ss. 21](https://www.legislation.gov.uk/ukpga/1988/4/section/21), [23(2)](https://www.legislation.gov.uk/ukpga/1988/4/section/23/2), [27(2)](https://www.legislation.gov.uk/ukpga/1988/4/section/27/2), [Sch. 6 para. 10(2)](https://www.legislation.gov.uk/ukpga/1988/4/schedule/6/paragraph/10/2)
 

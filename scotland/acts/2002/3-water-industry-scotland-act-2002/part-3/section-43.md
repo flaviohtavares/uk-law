@@ -29,8 +29,8 @@ summary: ''
 - (a) payments of such amounts as they may so direct in or towards repayment of the sums so paid out, and
 - (b) payments of interest, at such rate as they may so direct, on the amount outstanding for the time being in respect of sums so paid out.
 
-(4) In subsection (1), “**subsidiary**” has the meaning given by section 1159 of the Companies Act 2006[^key-69dfe38c5926cc6e3539c49fdaf6ef3c].
+(4) In subsection (1), “**subsidiary**” has the meaning given by section 1159 of the Companies Act 2006[^c-69dfe38c5926cc6e3539c49fdaf6ef3c].
 
 ## Annotations
 
-[^key-69dfe38c5926cc6e3539c49fdaf6ef3c]: Textual amendment: Words in s. 43(4) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 200(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/200/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-69dfe38c5926cc6e3539c49fdaf6ef3c]: Textual amendment: Words in s. 43(4) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 200(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/200/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

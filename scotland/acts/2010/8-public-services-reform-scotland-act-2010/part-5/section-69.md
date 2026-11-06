@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Emergency condition notices: appeals[^key-450ca9734e70a9e4cd59140941df02d2][^key-1209e73811599dcdf1af8fc84c1f81a5]
+## 69. Emergency condition notices: appeals[^c-450ca9734e70a9e4cd59140941df02d2][^c-1209e73811599dcdf1af8fc84c1f81a5]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ may, within 14 days after the relevant date, appeal to the sheriff against the i
 
 ## Annotations
 
-[^key-450ca9734e70a9e4cd59140941df02d2]: Commencement: S. 69 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-450ca9734e70a9e4cd59140941df02d2]: Commencement: S. 69 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-1209e73811599dcdf1af8fc84c1f81a5]: Commencement: S. 69 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-1209e73811599dcdf1af8fc84c1f81a5]: Commencement: S. 69 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16G. Further provision about arrangements[^key-96beacd62650125988560a69b1225c67]
+## 16G. Further provision about arrangements[^c-96beacd62650125988560a69b1225c67]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96beacd62650125988560a69b1225c67]: Textual amendment: S. 16G inserted (19.3.2018 for specified purposes, 29.6.2018 in so far as not already in force) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 18](https://www.legislation.gov.uk/ukpga/2017/16/section/18), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/d); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/g) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2018/497/regulation/5))
+[^c-96beacd62650125988560a69b1225c67]: Textual amendment: S. 16G inserted (19.3.2018 for specified purposes, 29.6.2018 in so far as not already in force) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 18](https://www.legislation.gov.uk/ukpga/2017/16/section/18), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/d); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/g) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2018/497/regulation/5))

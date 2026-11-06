@@ -28,7 +28,7 @@ summary: ''
 
 (4) Where on any day two or more persons fall within subsection (3) above, they shall each be jointly and severally liable to pay the council tax in respect of the dwelling and that day.
 
-(5) Subsections (4) and (4A) *(Extent: W)*[^key-d27e157ecc5a320e2d61e0d498b3799f] of section 6 above shall apply for the purposes of subsection (4) above as they apply *(Extent: W)* for the purposes of subsection (3) of that section.
+(5) Subsections (4) and (4A) *(Extent: W)*[^c-d27e157ecc5a320e2d61e0d498b3799f] of section 6 above shall apply for the purposes of subsection (4) above as they apply *(Extent: W)* for the purposes of subsection (3) of that section.
 
 (6) Regulations prescribing a class of chargeable dwellings for the purposes of subsection (1) or (2) above may provide that, in relation to any dwelling of that class, subsection (3) above shall have effect as if for the reference to the owner of the dwelling there were substituted a reference to the person falling within such description as may be prescribed.
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c12072941]: Modification: S. 8(3) modified (31.3.1992) by [S.I. 1992/551](https://www.legislation.gov.uk/uksi/1992/551), [art.3](https://www.legislation.gov.uk/uksi/1992/551/article/3).
 
-[^key-d27e157ecc5a320e2d61e0d498b3799f]: Textual amendment: Words in [s. 8(5)](https://www.legislation.gov.uk/ukpga/1992/14/section/8/5) substituted (1.4.2022) by [The Council Tax (Joint and Several Liability of Care Leavers) (Wales) Regulations 2022 (S.I. 2022/210)](https://www.legislation.gov.uk/wsi/2022/210), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/210/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2022/210/regulation/2/4)
+[^c-d27e157ecc5a320e2d61e0d498b3799f]: Textual amendment: Words in [s. 8(5)](https://www.legislation.gov.uk/ukpga/1992/14/section/8/5) substituted (1.4.2022) by [The Council Tax (Joint and Several Liability of Care Leavers) (Wales) Regulations 2022 (S.I. 2022/210)](https://www.legislation.gov.uk/wsi/2022/210), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/210/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2022/210/regulation/2/4)

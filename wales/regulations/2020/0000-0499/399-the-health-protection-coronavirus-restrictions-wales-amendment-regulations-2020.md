@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus Restrictions) (Wales) (Amendment) Regulations 2020 (revoked)[^key-5e45bbd70c5c0c64b68081566c97329e]
+The Health Protection (Coronavirus Restrictions) (Wales) (Amendment) Regulations 2020 (revoked)[^c-5e45bbd70c5c0c64b68081566c97329e]
 
 Approved by both Houses of Parliament
 
@@ -47,44 +47,44 @@ Coming into force
 
 at 12.01 a.m. on 7 April 2020
 
-[^key-5e45bbd70c5c0c64b68081566c97329e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e45bbd70c5c0c64b68081566c97329e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, coming into force and application[^key-5e45bbd70c5c0c64b68081566c97329e]
+## 1. Title, coming into force and application[^c-5e45bbd70c5c0c64b68081566c97329e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Holiday accommodation businesses providing online etc. services[^key-5e45bbd70c5c0c64b68081566c97329e]
+## 2. Holiday accommodation businesses providing online etc. services[^c-5e45bbd70c5c0c64b68081566c97329e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restriction on other places of work[^key-5e45bbd70c5c0c64b68081566c97329e]
+## 3. Restriction on other places of work[^c-5e45bbd70c5c0c64b68081566c97329e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Restrictions on places of worship, crematoriums, cemeteries and community centres[^key-5e45bbd70c5c0c64b68081566c97329e]
+## 4. Restrictions on places of worship, crematoriums, cemeteries and community centres[^c-5e45bbd70c5c0c64b68081566c97329e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Guidance on maintaining distance of 2 metres between persons[^key-5e45bbd70c5c0c64b68081566c97329e]
+## 5. Guidance on maintaining distance of 2 metres between persons[^c-5e45bbd70c5c0c64b68081566c97329e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Attendance at funerals[^key-5e45bbd70c5c0c64b68081566c97329e]
+## 6. Attendance at funerals[^c-5e45bbd70c5c0c64b68081566c97329e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Minor and consequential amendments[^key-5e45bbd70c5c0c64b68081566c97329e]
+## 7. Minor and consequential amendments[^c-5e45bbd70c5c0c64b68081566c97329e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5e45bbd70c5c0c64b68081566c97329e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e45bbd70c5c0c64b68081566c97329e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5e45bbd70c5c0c64b68081566c97329e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e45bbd70c5c0c64b68081566c97329e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5e45bbd70c5c0c64b68081566c97329e]: Textual amendment: Regulations revoked (13.7.2020) by [The Health Protection (Coronavirus Restrictions) (No. 2) (Wales) Regulations 2020 (S.I. 2020/725)](https://www.legislation.gov.uk/uksi/2020/725), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/725/regulation/1/4), [3(1)(b)](https://www.legislation.gov.uk/uksi/2020/725/regulation/3/1/b) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/725/regulation/3/2), [5](https://www.legislation.gov.uk/uksi/2020/725/regulation/5))
+[^c-5e45bbd70c5c0c64b68081566c97329e]: Textual amendment: Regulations revoked (13.7.2020) by [The Health Protection (Coronavirus Restrictions) (No. 2) (Wales) Regulations 2020 (S.I. 2020/725)](https://www.legislation.gov.uk/uksi/2020/725), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/725/regulation/1/4), [3(1)(b)](https://www.legislation.gov.uk/uksi/2020/725/regulation/3/1/b) (with [regs. 3(2)](https://www.legislation.gov.uk/uksi/2020/725/regulation/3/2), [5](https://www.legislation.gov.uk/uksi/2020/725/regulation/5))

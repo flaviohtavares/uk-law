@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Orders enforcing compliance with the Rules[^key-ef8b4867260a414e5ecd711f18a9863e]
+## 113. Orders enforcing compliance with the Rules[^c-ef8b4867260a414e5ecd711f18a9863e]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef8b4867260a414e5ecd711f18a9863e]: Commencement: [Rule 113](https://www.legislation.gov.uk/uksi/2013/3208/rule/113) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-ef8b4867260a414e5ecd711f18a9863e]: Commencement: [Rule 113](https://www.legislation.gov.uk/uksi/2013/3208/rule/113) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
 
 [^f00013]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 235(4)(a) was amended by the Enterprise Act [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), Schedule 17, paragraph 24.

@@ -46,11 +46,11 @@ In accordance with section 37(3) of that Act, the Scottish Ministers have consul
 
 In accordance with section 210(6) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-73e8cc1961c39429a41047e015d5cc6f]
+## 1. Citation and commencement[^c-73e8cc1961c39429a41047e015d5cc6f]
 
 These Regulations may be cited as the Relevant Adjustments to Common Parts (Disabled Persons) (Scotland) Regulations 2020 and come into force on the day after the day on which they are made.
 
-## 2. Interpretation[^key-9c9a6ae728f8e340b5cd0b4234da405d]
+## 2. Interpretation[^c-9c9a6ae728f8e340b5cd0b4234da405d]
 
 (1) In these Regulations—
 
@@ -61,7 +61,7 @@ These Regulations may be cited as the Relevant Adjustments to Common Parts (Disa
 
 (2) A reference to an owner of the common parts affected by the proposed works is a reference to an owner of a share of the common parts whose share of the common parts would be affected by the proposed works in an application under these Regulations.
 
-## 3. Right to make relevant adjustments[^key-ba71aa86870c0778aed428d7b2c003e0]
+## 3. Right to make relevant adjustments[^c-ba71aa86870c0778aed428d7b2c003e0]
 
 (1) Subject to paragraphs (3) and (4), a disabled person[^f00005] is entitled to make relevant adjustments to common parts in relation to premises in Scotland in which the disabled person has an interest.
 
@@ -85,14 +85,14 @@ the premises and uses or intends to use the premises as the person’s only or m
 
 (5) Subject to regulation 6(3), the terms of any tenancy or occupancy agreement, title to land, any rights given by virtue of any title condition or any agreement between the disabled person and the owners of the common parts affected by the proposed works are of no effect in so far as they purport to negate or modify the effect of any provision in these Regulations.
 
-## 4. Alterations and additions that are deemed to be relevant adjustments[^key-e2c10dad6604ebd6871c5a1eaa5e32f2]
+## 4. Alterations and additions that are deemed to be relevant adjustments[^c-e2c10dad6604ebd6871c5a1eaa5e32f2]
 
 Relevant adjustments include an alteration or addition—
 
 - (a) to any common parts which affords a means of access to the premises tenanted, owned or occupied by a disabled person, or
 - (b) to make the premises suitable for the accommodation or welfare of a disabled person.
 
-## 5. Application for consent to relevant adjustments[^key-6d884512a4ee5beeb39b85f84117d6e6]
+## 5. Application for consent to relevant adjustments[^c-6d884512a4ee5beeb39b85f84117d6e6]
 
 (1) A disabled person who intends to exercise the entitlement set out in regulation 3(1) must send an application for consent to carry out relevant adjustments to all the owners of the common parts affected by the proposed works.
 
@@ -104,7 +104,7 @@ Relevant adjustments include an alteration or addition—
 - (b) consent subject to reasonable conditions, or
 - (c) withhold consent, provided that it is not unreasonably withheld.
 
-(4) The owner must, within 28 days of the date marked on the application[^key-fe56bc089d3a74f5dde68bff58982ef1], send the disabled person a notice of the owner’s decision, in the form prescribed in Part 2 of the schedule.
+(4) The owner must, within 28 days of the date marked on the application[^c-fe56bc089d3a74f5dde68bff58982ef1], send the disabled person a notice of the owner’s decision, in the form prescribed in Part 2 of the schedule.
 
 (5) Where the owner fails to comply with the requirement in paragraph (4) the owner is to be taken to have withheld consent.
 
@@ -113,7 +113,7 @@ Relevant adjustments include an alteration or addition—
 - (a) where one of those persons owns more than one half of the share in the common parts, the decision is made by that person, or
 - (b) in any other case, the decision is the agreed decision of those who together own more than one half of the share in the common parts.
 
-## 6. Matters relevant to an application under regulation 5[^key-83ee60f5ef1fed1363c1ef5e4c923ba6]
+## 6. Matters relevant to an application under regulation 5[^c-83ee60f5ef1fed1363c1ef5e4c923ba6]
 
 (1) In considering an application in terms of regulation 5(1), the owner is entitled to have regard to—
 
@@ -138,19 +138,19 @@ Relevant adjustments include an alteration or addition—
 
 (5) The owner may recover from the disabled person any expenses directly incurred by the owner in taking such steps (regardless of the owner’s decision on the disabled person’s application).
 
-## 7. Notification of the majority decision[^key-3deaaf81d280f3d22d6ae478a992697b]
+## 7. Notification of the majority decision[^c-3deaaf81d280f3d22d6ae478a992697b]
 
 (1) The disabled person must send a notice in the form set out in Part 3 of the schedule, recording the majority decision, to all owners of the common parts affected by the proposed works.
 
 (2) Where a notice under paragraph (1) has been sent, the disabled person must send an updated copy of the notice to the same recipients where the outcome is different from that stated in the notice as a result of an appeal determined under regulation 10.
 
-(3)[^key-f3311217605398ef78447a55a0a173bb] A notice under paragraph (1) must not be sent less than 28 days after the application has been sent to every owner.
+(3)[^c-f3311217605398ef78447a55a0a173bb] A notice under paragraph (1) must not be sent less than 28 days after the application has been sent to every owner.
 
 (4) A notice under paragraph (1) must be sent within 56 days after the application was sent to every owner.
 
 (5) An updated notice under paragraph (2) must be sent within 28 days of the appeal being determined under regulation 10.
 
-## 8. Consent subject to conditions[^key-878ceb4e7853da3ac2646b5f1547f240]
+## 8. Consent subject to conditions[^c-878ceb4e7853da3ac2646b5f1547f240]
 
 (1) Where an owner has consented to the application subject to conditions, the disabled person may—
 
@@ -161,25 +161,25 @@ the consent with conditions.
 
 (2) Where a consent with conditions is rejected under paragraph (1)(b), it is to be treated as if the owner withheld consent.
 
-(3)[^key-ab8e1d9b183329b5663b93cb6c9f1aa5] Where an owner has consented to the application subject to conditions, a notice provided under regulation 7(1) must state—
+(3)[^c-ab8e1d9b183329b5663b93cb6c9f1aa5] Where an owner has consented to the application subject to conditions, a notice provided under regulation 7(1) must state—
 
 - (a) whether the disabled person accepts or rejects the conditions, and
 - (b) where the disabled person rejects the conditions, the reasons why the conditions are being rejected.
 
-## 9. Liability for costs[^key-31fa94671912cee455fc938fc44b1053]
+## 9. Liability for costs[^c-31fa94671912cee455fc938fc44b1053]
 
 (1) Unless the disabled person has entered into an agreement with the other owners of the common parts in relation to sharing the costs of the relevant adjustments, the disabled person will be solely liable for the costs.
 
 (2) The costs of the relevant adjustments include the costs of maintenance and reinstatement.
 
-## 10. Appeals[^key-86599d782657523c18f82050f747247d]
+## 10. Appeals[^c-86599d782657523c18f82050f747247d]
 
 (1) The disabled person or an owner of the common parts affected by the proposed works may appeal to the sheriff against—
 
 - (a) the decision of a majority of the owners to consent, or to withhold consent, taken under regulation 5(3), or
 - (b) a condition imposed on consent given to the proposed works under regulation 5(3)(b).
 
-(1A)[^key-cef2dcc85dd8feb4b3fa49598fd876aa] An appeal must be made within the period of 28 days beginning with the date on which the notice under regulation 7(1) is sent.
+(1A)[^c-cef2dcc85dd8feb4b3fa49598fd876aa] An appeal must be made within the period of 28 days beginning with the date on which the notice under regulation 7(1) is sent.
 
 (2) The appellant must give notice of the appeal to—
 
@@ -192,7 +192,7 @@ the consent with conditions.
 - (b) authorising the disabled person to carry out the proposed works, subject to conditions, or
 - (c) quashing the decision of the majority of the owners to consent to the proposed works and directing that the disabled person may not carry out the proposed works.
 
-## 11. Amendment of section 52 of the Housing (Scotland) Act 2006[^key-63a35178b4743a58c27ec1492fa8f650]
+## 11. Amendment of section 52 of the Housing (Scotland) Act 2006[^c-63a35178b4743a58c27ec1492fa8f650]
 
 (1) Section 52 of the Housing (Scotland) Act 2006[^f00007] (right to adapt rented houses) is amended in accordance with paragraphs (2) and (3).
 
@@ -216,13 +216,13 @@ Edinburgh
 
 Regulation 5(2)
 
-### PART 1 — Form of application for consent to relevant adjustments[^key-5d796868e75f6881612c07b4fb077abe]
+### PART 1 — Form of application for consent to relevant adjustments[^c-5d796868e75f6881612c07b4fb077abe]
 
-### PART 2 — NOTICE OF DECISION OF OWNER OF A PROPERTY WITH A SHARE IN THE COMMON PARTS OF THE PREMISES[^key-2cfc2f59780c3559d63f5ed628a5d8aa]
+### PART 2 — NOTICE OF DECISION OF OWNER OF A PROPERTY WITH A SHARE IN THE COMMON PARTS OF THE PREMISES[^c-2cfc2f59780c3559d63f5ed628a5d8aa]
 
 Regulation 5(4)
 
-### PART 3 — NOTICE OF MAJORITY DECISION[^key-0e13c6abdc022aa2902d859a410aa78d]
+### PART 3 — NOTICE OF MAJORITY DECISION[^c-0e13c6abdc022aa2902d859a410aa78d]
 
 Regulation 7(1)
 
@@ -246,9 +246,9 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00001]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15). Section 207 was relevantly amended by the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), Part 6, section 98(3).
 
-[^key-73e8cc1961c39429a41047e015d5cc6f]: Commencement: Reg. 1 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
+[^c-73e8cc1961c39429a41047e015d5cc6f]: Commencement: Reg. 1 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
 
-[^key-9c9a6ae728f8e340b5cd0b4234da405d]: Commencement: Reg. 2 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
+[^c-9c9a6ae728f8e340b5cd0b4234da405d]: Commencement: Reg. 2 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
 
 [^f00002]: Footnote: “Relevant adjustments” are defined in section 37(5) of the Equality Act 2010.
 
@@ -256,40 +256,40 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00004]: Footnote: [2003 asp 8](https://www.legislation.gov.uk/asp/2003/8). Section 1 was amended by the Public Services Reform (Scotland) Act [2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), section 6(2)(a).
 
-[^key-ba71aa86870c0778aed428d7b2c003e0]: Commencement: Reg. 3 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
+[^c-ba71aa86870c0778aed428d7b2c003e0]: Commencement: Reg. 3 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
 
 [^f00005]: Footnote: “Disabled person” is referred to in section 37(2) of the Equality Act 2010.
 
-[^key-e2c10dad6604ebd6871c5a1eaa5e32f2]: Commencement: Reg. 4 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
+[^c-e2c10dad6604ebd6871c5a1eaa5e32f2]: Commencement: Reg. 4 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
 
-[^key-6d884512a4ee5beeb39b85f84117d6e6]: Commencement: Reg. 5 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
+[^c-6d884512a4ee5beeb39b85f84117d6e6]: Commencement: Reg. 5 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
 
-[^key-fe56bc089d3a74f5dde68bff58982ef1]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2020/52/regulation/5/4) substituted (9.12.2021) by [The Relevant Adjustments to Common Parts (Disabled Persons) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/459)](https://www.legislation.gov.uk/ssi/2021/459), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/459/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/2))
+[^c-fe56bc089d3a74f5dde68bff58982ef1]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2020/52/regulation/5/4) substituted (9.12.2021) by [The Relevant Adjustments to Common Parts (Disabled Persons) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/459)](https://www.legislation.gov.uk/ssi/2021/459), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/459/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/2))
 
-[^key-83ee60f5ef1fed1363c1ef5e4c923ba6]: Commencement: Reg. 6 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
+[^c-83ee60f5ef1fed1363c1ef5e4c923ba6]: Commencement: Reg. 6 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
 
 [^f00006]: Footnote: The Equality and Human Rights Commission was established under section 1 of the Equality Act [2006 (c.3)](https://www.legislation.gov.uk/ukpga/2006/3).
 
-[^key-3deaaf81d280f3d22d6ae478a992697b]: Commencement: Reg. 7 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
+[^c-3deaaf81d280f3d22d6ae478a992697b]: Commencement: Reg. 7 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
 
-[^key-f3311217605398ef78447a55a0a173bb]: Textual amendment: [Reg. 7(3)-(5)](https://www.legislation.gov.uk/ssi/2020/52/regulation/7/3) inserted (9.12.2021) by [The Relevant Adjustments to Common Parts (Disabled Persons) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/459)](https://www.legislation.gov.uk/ssi/2021/459), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/459/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/2))
+[^c-f3311217605398ef78447a55a0a173bb]: Textual amendment: [Reg. 7(3)-(5)](https://www.legislation.gov.uk/ssi/2020/52/regulation/7/3) inserted (9.12.2021) by [The Relevant Adjustments to Common Parts (Disabled Persons) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/459)](https://www.legislation.gov.uk/ssi/2021/459), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/459/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/2))
 
-[^key-878ceb4e7853da3ac2646b5f1547f240]: Commencement: Reg. 8 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
+[^c-878ceb4e7853da3ac2646b5f1547f240]: Commencement: Reg. 8 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
 
-[^key-ab8e1d9b183329b5663b93cb6c9f1aa5]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/ssi/2020/52/regulation/8/3) inserted (9.12.2021) by [The Relevant Adjustments to Common Parts (Disabled Persons) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/459)](https://www.legislation.gov.uk/ssi/2021/459), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/459/regulation/2/4) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/2))
+[^c-ab8e1d9b183329b5663b93cb6c9f1aa5]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/ssi/2020/52/regulation/8/3) inserted (9.12.2021) by [The Relevant Adjustments to Common Parts (Disabled Persons) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/459)](https://www.legislation.gov.uk/ssi/2021/459), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/459/regulation/2/4) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/2))
 
-[^key-31fa94671912cee455fc938fc44b1053]: Commencement: Reg. 9 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
+[^c-31fa94671912cee455fc938fc44b1053]: Commencement: Reg. 9 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
 
-[^key-86599d782657523c18f82050f747247d]: Commencement: Reg. 10 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
+[^c-86599d782657523c18f82050f747247d]: Commencement: Reg. 10 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
 
-[^key-cef2dcc85dd8feb4b3fa49598fd876aa]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/ssi/2020/52/regulation/10/1A) inserted (9.12.2021) by [The Relevant Adjustments to Common Parts (Disabled Persons) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/459)](https://www.legislation.gov.uk/ssi/2021/459), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2021/459/regulation/2/5) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/2))
+[^c-cef2dcc85dd8feb4b3fa49598fd876aa]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/ssi/2020/52/regulation/10/1A) inserted (9.12.2021) by [The Relevant Adjustments to Common Parts (Disabled Persons) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/459)](https://www.legislation.gov.uk/ssi/2021/459), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2021/459/regulation/2/5) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/459/regulation/1/2))
 
-[^key-63a35178b4743a58c27ec1492fa8f650]: Commencement: Reg. 11 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
+[^c-63a35178b4743a58c27ec1492fa8f650]: Commencement: Reg. 11 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
 
 [^f00007]: Footnote: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1).
 
-[^key-5d796868e75f6881612c07b4fb077abe]: Commencement: Sch. Pt. 1 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
+[^c-5d796868e75f6881612c07b4fb077abe]: Commencement: Sch. Pt. 1 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
 
-[^key-2cfc2f59780c3559d63f5ed628a5d8aa]: Commencement: Sch. Pt. 2 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
+[^c-2cfc2f59780c3559d63f5ed628a5d8aa]: Commencement: Sch. Pt. 2 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
 
-[^key-0e13c6abdc022aa2902d859a410aa78d]: Commencement: Sch. Pt. 3 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)
+[^c-0e13c6abdc022aa2902d859a410aa78d]: Commencement: Sch. Pt. 3 in force at 21.2.2020, see [reg. 1](https://www.legislation.gov.uk/ssi/2020/52/regulation/1)

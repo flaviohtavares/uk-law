@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Power to require Online Procedure Rules to be made[^key-00db1b1e4a5961e9e701f17eac68121c][^key-aa9ea4c04dac5fbe212b34d26fb755dd]
+## 27. Power to require Online Procedure Rules to be made[^c-00db1b1e4a5961e9e701f17eac68121c][^c-aa9ea4c04dac5fbe212b34d26fb755dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00db1b1e4a5961e9e701f17eac68121c]: Commencement: S. 27 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-00db1b1e4a5961e9e701f17eac68121c]: Commencement: S. 27 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-aa9ea4c04dac5fbe212b34d26fb755dd]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/35/section/27) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-aa9ea4c04dac5fbe212b34d26fb755dd]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/35/section/27) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)

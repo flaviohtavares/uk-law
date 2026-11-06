@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Application of Energy Act 2004 in relation to decommissioning[^key-c9f9599ece7baca3e702d2f61896cb55]
+## 42. Application of Energy Act 2004 in relation to decommissioning[^c-c9f9599ece7baca3e702d2f61896cb55]
 
 *Extent: E+W*
 
-(1) The undertaker must submit to the Secretary of State a programme for decommissioning the parts of the authorised development below the mean low water mark (“decommissioning programme”)[^key-43d599a895e9717dd940ca09098fb476].
+(1) The undertaker must submit to the Secretary of State a programme for decommissioning the parts of the authorised development below the mean low water mark (“decommissioning programme”)[^c-43d599a895e9717dd940ca09098fb476].
 
 (2) The decommissioning programme—
 
@@ -57,9 +57,9 @@ summary: ''
 
 ## Annotations
 
-[^key-c9f9599ece7baca3e702d2f61896cb55]: Commencement: Art. 42 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-c9f9599ece7baca3e702d2f61896cb55]: Commencement: Art. 42 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
-[^key-43d599a895e9717dd940ca09098fb476]: Textual amendment: Words in [art. 42(1)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
+[^c-43d599a895e9717dd940ca09098fb476]: Textual amendment: Words in [art. 42(1)](https://www.legislation.gov.uk/uksi/2015/1386/article/42/1) substituted (27.10.2015) by [The Swansea Bay Tidal Generating Station (Correction) Order 2015 (S.I. 2015/1830)](https://www.legislation.gov.uk/uksi/2015/1830), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1830/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1830/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1830/schedule)
 
 [^f00025]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 

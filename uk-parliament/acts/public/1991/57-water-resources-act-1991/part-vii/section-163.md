@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to the following provisions of this section and to section 164 below, where the appropriate agency[^key-774ff675d85722d26d1b3d2b1983663b]—
+(1) Subject to the following provisions of this section and to section 164 below, where the appropriate agency[^c-774ff675d85722d26d1b3d2b1983663b]—
 
 - (a) is carrying out, or is about to carry out, the construction, alteration, repair, cleaning, or examination of any reservoir, well, borehole or other work belonging to or used by the appropriate agency for the purposes of, or in connection with, the carrying out of any of its functions; or
 - (b) is exercising or about to exercise any power conferred by section 159, 160 or 162(2) or (3) above,
@@ -42,11 +42,11 @@ it shall be guilty of an offence and liable, on summary conviction, to a fine no
 
 (4) In this section—
 
-- “**railway company**” means the British Railways Board, Transport for London or any subsidiary (within the meaning of the Greater London Authority Act 1999) of Transport for London,[^key-92716c04ecef89cefca74a8fa41269d5] or any other person authorised by any enactment, or by any order, rule or regulation made under any enactment, to construct, work or carry on a railway; and
+- “**railway company**” means the British Railways Board, Transport for London or any subsidiary (within the meaning of the Greater London Authority Act 1999) of Transport for London,[^c-92716c04ecef89cefca74a8fa41269d5] or any other person authorised by any enactment, or by any order, rule or regulation made under any enactment, to construct, work or carry on a railway; and
 - “**relevant pipe**” has the same meaning as in section 159 above.
 
 ## Annotations
 
-[^key-774ff675d85722d26d1b3d2b1983663b]: Textual amendment: Words in ss. 161D-164 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 283](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/283) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-774ff675d85722d26d1b3d2b1983663b]: Textual amendment: Words in ss. 161D-164 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 283](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/283) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-92716c04ecef89cefca74a8fa41269d5]: Textual amendment: Words in s. 163(4) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/16/2)
+[^c-92716c04ecef89cefca74a8fa41269d5]: Textual amendment: Words in s. 163(4) substituted (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/16/2)

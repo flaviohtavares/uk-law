@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 15 — Minor and consequential amendments[^key-412f58edd92216bb2ac3fa1a2d9b626a]
+## SCHEDULE 15 — Minor and consequential amendments[^c-412f58edd92216bb2ac3fa1a2d9b626a]
 
 *Extent: E+W*
 
@@ -479,7 +479,7 @@ Section 265(1)
 
 **41.**[^c2052219] In section 52(1) (general provisions as to orders) after “17,” insert “ 27A, ”.
 
-**42.**[^key-9d3986d4819af31c4cbc254155752adc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-9d3986d4819af31c4cbc254155752adc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **43.**[^c2052221] In section 210 (homelessness: suitability of accommodation)—
 
@@ -510,7 +510,7 @@ Section 265(1)
 
 ## Annotations
 
-[^key-412f58edd92216bb2ac3fa1a2d9b626a]: Textual amendment: Sch. 14 para. 2(1)(c)(d) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13) , [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) , [Sch. 16 para. 335](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/335) ; [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019) , [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3) , [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 76](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/76) )
+[^c-412f58edd92216bb2ac3fa1a2d9b626a]: Textual amendment: Sch. 14 para. 2(1)(c)(d) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13) , [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) , [Sch. 16 para. 335](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/335) ; [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019) , [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3) , [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 76](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/76) )
 
 [^c2057239]: Textual amendment: Sch. 15 para. 1 repealed (1.4.2006) by [Public Services Ombudsman (Wales) Act 2005 (c. 10)](https://www.legislation.gov.uk/ukpga/2005/10), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2005/10/section/39/2), [40](https://www.legislation.gov.uk/ukpga/2005/10/section/40), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/10/schedule/7); [S.I. 2005/2800](https://www.legislation.gov.uk/uksi/2005/2800), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/2800/article/5/1)
 
@@ -594,7 +594,7 @@ Section 265(1)
 
 [^c2052219]: Commencement: Sch. 15 para. 41 wholly in force at 16.6.2006; Sch. 15 para. 41 not in force at Royal Assent see s. 270(4)(5); Sch. 15 para. 41 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 15 para. 41 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art 2(b)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-9d3986d4819af31c4cbc254155752adc]: Textual amendment: Sch. 15 para. 42 repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-9d3986d4819af31c4cbc254155752adc]: Textual amendment: Sch. 15 para. 42 repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c2052221]: Commencement: Sch. 15 para. 43 wholly in force at 16.6.2006; Sch. 15 para. 43 not in force at Royal Assent see s. 270(4)(5); Sch. 15 para. 43 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 15 para. 43 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art 2(b)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 

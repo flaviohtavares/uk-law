@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-bb21e5610c00bc8b256e2e41c10f61ba] Except as provided by regulations under this section an official log book in a form approved by the Secretary of State shall be kept in every United Kingdom ship.
+(1)[^c-bb21e5610c00bc8b256e2e41c10f61ba] Except as provided by regulations under this section an official log book in a form approved by the Secretary of State shall be kept in every United Kingdom ship.
 
 (2) The Secretary of State may make regulations prescribing the particulars to be entered in official log books, the persons by whom such entries are to be made, signed or witnessed, and the procedure to be followed in the making of such entries and in their amendment or cancellation.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb21e5610c00bc8b256e2e41c10f61ba]: Modification: [S. 77(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/77/1) restricted (13.12.2023) by [S.I. 1981/569](https://www.legislation.gov.uk/uksi/1981/569), [reg. 2](https://www.legislation.gov.uk/uksi/1981/569/regulation/2) (as substituted by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1216/schedule/2/paragraph/1/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6)))
+[^c-bb21e5610c00bc8b256e2e41c10f61ba]: Modification: [S. 77(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/77/1) restricted (13.12.2023) by [S.I. 1981/569](https://www.legislation.gov.uk/uksi/1981/569), [reg. 2](https://www.legislation.gov.uk/uksi/1981/569/regulation/2) (as substituted by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2023/1216/schedule/2/paragraph/1/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6)))

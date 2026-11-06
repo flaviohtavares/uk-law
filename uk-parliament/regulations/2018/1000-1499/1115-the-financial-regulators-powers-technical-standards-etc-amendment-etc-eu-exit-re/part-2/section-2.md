@@ -35,7 +35,7 @@ For the purpose of this Part—
 - (b) “authorised persons” and “PRA-authorised persons” have the meaning given in sections 31(2) and 2B(5) respectively of the Financial Services and Markets Act 2000 [^c23418521];
 - (c) “**central counterparty**” has the meaning given in section 313 of the Financial Services and Markets Act 2000 [^c23418531];
 - (d) “**central securities depository**” has the meaning given in section 417 of the Financial Services and Markets Act 2000 [^c23418541];
-- (e) “**the EMIR regulation**” means Regulation (EU) 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories as last amended by Regulation (EU) 2019/2099 of the European Parliament and of the Council of 23 October 2019[^key-ccd5f33b87f6b9c5b4339bddb456b5ba];
+- (e) “**the EMIR regulation**” means Regulation (EU) 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories as last amended by Regulation (EU) 2019/2099 of the European Parliament and of the Council of 23 October 2019[^c-ccd5f33b87f6b9c5b4339bddb456b5ba];
 - (f) “**EU-derived provisions**” means rules and other enactments made by the FCA, the PRA or the Bank of England which fall within the definition of “EU-derived domestic legislation” within the meaning of section 2(2) of the European Union (Withdrawal) Act 2018;
 - (g) “**EU Exit instrument**” means an instrument in writing made in accordance with regulation 3(1);
 - (h) “**FCA**” means the Financial Conduct Authority;
@@ -53,7 +53,7 @@ For the purpose of this Part—
 
 [^c23418541]: Marginal citation: The definition of “central securities depository” was inserted by [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064). There are other amendments to s.417 of the Financial Services and Markets Act 2000 which are not relevant to these Regulations.
 
-[^key-ccd5f33b87f6b9c5b4339bddb456b5ba]: Textual amendment: Words in reg. 2(e) substituted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [3](https://www.legislation.gov.uk/uksi/2020/646/regulation/3)
+[^c-ccd5f33b87f6b9c5b4339bddb456b5ba]: Textual amendment: Words in reg. 2(e) substituted (25.6.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2020 (S.I. 2020/646)](https://www.legislation.gov.uk/uksi/2020/646), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/646/regulation/1/2/c), [3](https://www.legislation.gov.uk/uksi/2020/646/regulation/3)
 
 [^c23418561]: Marginal citation: [2013 c.33](https://www.legislation.gov.uk/ukpga/2013/33).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Dissolution[^key-842dc71f176af3f502667e0c6492a92a]
+## 115. Dissolution[^c-842dc71f176af3f502667e0c6492a92a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) shall present a final report on the bank insolvency to the meeting,
 - (b) shall send a copy of the report to—
-  - (i)[^key-e6b7c520957f800ac595780d3fd953a3] the PRA,
+  - (i)[^c-e6b7c520957f800ac595780d3fd953a3] the PRA,
   - (ia) the FCA,
   - (ii) the FSCS,
   - (iii) the Bank of England,
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-842dc71f176af3f502667e0c6492a92a]: Commencement: S. 115 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-842dc71f176af3f502667e0c6492a92a]: Commencement: S. 115 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
 
-[^key-e6b7c520957f800ac595780d3fd953a3]: Textual amendment: S. 115(2)(b)(i)(ia) substituted for s. 115(2)(b)(i) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 42](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/42) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e6b7c520957f800ac595780d3fd953a3]: Textual amendment: S. 115(2)(b)(i)(ia) substituted for s. 115(2)(b)(i) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 42](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/42) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

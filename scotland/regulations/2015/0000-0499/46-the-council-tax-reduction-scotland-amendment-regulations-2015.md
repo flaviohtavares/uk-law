@@ -46,41 +46,41 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 80 and 113(1) of, and paragraph 1 of Schedule 2 to, the Local Government Finance Act 1992[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-55cdcfc7523a2ab1ab38e9bfd90e90e2]
+## 1. Citation and commencement[^c-55cdcfc7523a2ab1ab38e9bfd90e90e2]
 
 These Regulations may be cited as the Council Tax Reduction (Scotland) Amendment Regulations 2015 and come into force on 1st April 2015.
 
 ## Amendment of the Council Tax Reduction (Scotland) Regulations 2012
 
-**2.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-0374cc3771a77d05567e16c2c59ed5fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^key-288d5b756fd2218bab2a2e7bf3484764]
+## 14. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^c-288d5b756fd2218bab2a2e7bf3484764]
 
 The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00017] are amended in accordance with regulations 15 to 23.
 
-**15.**[^key-27ac97c55c78670e549d9afedd073271] In regulation 2(1) (interpretation)[^f00018], for the definition of “couple”, substitute—
+**15.**[^c-27ac97c55c78670e549d9afedd073271] In regulation 2(1) (interpretation)[^f00018], for the definition of “couple”, substitute—
 
 > - “couple” means—
 >   - (a) two people who are married to each other and are members of the same household, but not if the marriage is a polygamous marriage;
@@ -89,7 +89,7 @@ The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f0
 
 .
 
-**16.**[^key-8ebc7bbb34cf0093ed4b03952ee9524b] Regulation 16 (persons treated as not being in Great Britain) is amended as follows—
+**16.**[^c-8ebc7bbb34cf0093ed4b03952ee9524b] Regulation 16 (persons treated as not being in Great Britain) is amended as follows—
 
 - (a) for paragraph (5)(e) substitute—
 
@@ -109,7 +109,7 @@ The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f0
 
   .
 
-**17.**[^key-c55b091c7705e8a65aaabdea8644b499] Regulation 19 (persons subject to immigration control) is amended as follows—
+**17.**[^c-c55b091c7705e8a65aaabdea8644b499] Regulation 19 (persons subject to immigration control) is amended as follows—
 
 - (a) the existing text becomes paragraph (1);
 - (b) in that paragraph omit “within the meaning given in section 115(9) of the Immigration and Asylum Act 1999”; and
@@ -122,7 +122,7 @@ The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f0
 
   .
 
-**18.**[^key-e251713fe82fe2fb7538ae7fa927b61c] In regulation 48 (non-dependant deductions)[^f00024]—
+**18.**[^c-e251713fe82fe2fb7538ae7fa927b61c] In regulation 48 (non-dependant deductions)[^f00024]—
 
 - (a) in paragraph (1)—
   - (i) in sub-paragraph (a) for “£11.35” substitute “£11.70”; and
@@ -147,7 +147,7 @@ The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f0
 
     .
 
-**19.**[^key-64baba24b95102fb10379265b7d0d8e7] Regulation 70C (conduct of further reviews)[^f00026] is amended as follows—
+**19.**[^c-64baba24b95102fb10379265b7d0d8e7] Regulation 70C (conduct of further reviews)[^f00026] is amended as follows—
 
 - (a) in paragraph (5), for “member of the panel who is undertaking that review” substitute “senior reviewer appointed under regulation 90C(1) of the Council Tax Reduction Regulations”;
 - (b) in paragraph (6)(a), after “review” insert “, having regard to any guidance issued by the senior reviewer appointed under regulation 90C(1) of the Council Tax Reduction Regulations”;
@@ -172,7 +172,7 @@ The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f0
 
   .
 
-**20.**[^key-b35e482016bde145cf1f2058496917ad] In Schedule 1 (applicable amount)[^f00027]—
+**20.**[^c-b35e482016bde145cf1f2058496917ad] In Schedule 1 (applicable amount)[^f00027]—
 
 - (a) in the table in paragraph 2 (personal allowances)—
   - (i) in entry (1)(a) “£148.35” substitute “£151.20”;
@@ -192,13 +192,13 @@ The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f0
   - (iii) in entry (3) (disabled child premium) for “£59.50” substitute “£60.06”; and
   - (iv) in entry (4) (carer premium) for “£34.20” substitute “£34.60”.
 
-**21.**[^key-14d4d348a5a1bec006faefc94ec087f6] In paragraph 3 (disregard of earnings) of Schedule 2, for sub-paragraph (2)(b) substitute—
+**21.**[^c-14d4d348a5a1bec006faefc94ec087f6] In paragraph 3 (disregard of earnings) of Schedule 2, for sub-paragraph (2)(b) substitute—
 
 > - (b) as a part-time fire-fighter employed by the Scottish Fire and Rescue Service established under section 1A of the Fire (Scotland) Act 2005[^f00028];
 
 .
 
-**22.**[^key-6f83ee648899d00278b8428c2a152473] Schedule 4 (capital disregards) is amended as follows—
+**22.**[^c-6f83ee648899d00278b8428c2a152473] Schedule 4 (capital disregards) is amended as follows—
 
 - (a) in paragraph 21(2) (benefits to be disregarded)[^f00029]—
   - (i) at the end of sub-paragraph (m) omit “or”; and
@@ -221,7 +221,7 @@ The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f0
   - (iii) in sub-paragraph (4), in the definition of “the relevant date” omit paragraph (a) and, in paragraph (b) the words “in any other case,”; and
 - (c) in paragraph 29 (payments to be disregarded)[^f00031], before “sections 12A to 12D”, insert “under”.
 
-**23.**[^key-43d145d2398add62401b0a2ad3ca48b0] In Schedule 5 (amount of alternative maximum council tax reduction), in the table in paragraph 1[^f00032]—
+**23.**[^c-43d145d2398add62401b0a2ad3ca48b0] In Schedule 5 (amount of alternative maximum council tax reduction), in the table in paragraph 1[^f00032]—
 
 - (a) in entry (b)(i) for “£185.00” substitute “£186.00”; and
 - (b) in entry (b)(ii)—
@@ -264,19 +264,19 @@ Regulations 15 to 23 make amendments with similar effect to the Council Tax Redu
 
 [^f00001]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 80 was amended by paragraph 176 of Schedule 13 to the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39). There are other amendments to section 80 and section 113(1) that are not relevant to these Regulations. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-55cdcfc7523a2ab1ab38e9bfd90e90e2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+[^c-55cdcfc7523a2ab1ab38e9bfd90e90e2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
 
-[^key-0374cc3771a77d05567e16c2c59ed5fb]: Textual amendment: [Regs. 2-13](https://www.legislation.gov.uk/ssi/2015/46/regulation/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-0374cc3771a77d05567e16c2c59ed5fb]: Textual amendment: [Regs. 2-13](https://www.legislation.gov.uk/ssi/2015/46/regulation/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
-[^key-288d5b756fd2218bab2a2e7bf3484764]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/46/regulation/14) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+[^c-288d5b756fd2218bab2a2e7bf3484764]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/46/regulation/14) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
 
 [^f00017]: Footnote: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319), amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2013/218](https://www.legislation.gov.uk/ssi/2013/218), [S.S.I. 2013/287](https://www.legislation.gov.uk/ssi/2013/287), [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35) and [S.S.I. 2014/90](https://www.legislation.gov.uk/ssi/2014/90), and by [S.I. 2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-27ac97c55c78670e549d9afedd073271]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/46/regulation/15) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+[^c-27ac97c55c78670e549d9afedd073271]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/46/regulation/15) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
 
 [^f00018]: Footnote: There are amendments to regulation 2, but they are not relevant to these Regulations.
 
-[^key-8ebc7bbb34cf0093ed4b03952ee9524b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/46/regulation/16) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+[^c-8ebc7bbb34cf0093ed4b03952ee9524b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/46/regulation/16) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
 
 [^f00019]: Footnote: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
 
@@ -286,29 +286,29 @@ Regulations 15 to 23 make amendments with similar effect to the Council Tax Redu
 
 [^f00022]: Footnote: [S.I. 2013/1460](https://www.legislation.gov.uk/uksi/2013/1460). Regulation 5 is substituted by [S.I. 2014/530](https://www.legislation.gov.uk/uksi/2014/530).
 
-[^key-c55b091c7705e8a65aaabdea8644b499]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/46/regulation/17) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+[^c-c55b091c7705e8a65aaabdea8644b499]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/46/regulation/17) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
 
 [^f00023]: Footnote: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-e251713fe82fe2fb7538ae7fa927b61c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/46/regulation/18) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+[^c-e251713fe82fe2fb7538ae7fa927b61c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/46/regulation/18) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
 
 [^f00024]: Footnote: Regulation 48 is amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142) and [S.S.I 2014/35](https://www.legislation.gov.uk/ssi/2014/35).
 
 [^f00025]: Footnote: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-64baba24b95102fb10379265b7d0d8e7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/46/regulation/19) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+[^c-64baba24b95102fb10379265b7d0d8e7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/46/regulation/19) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
 
 [^f00026]: Footnote: Regulation 70C was inserted by regulation 13 of [S.S.I. 2013/218](https://www.legislation.gov.uk/ssi/2013/218).
 
-[^key-b35e482016bde145cf1f2058496917ad]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/46/regulation/20) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+[^c-b35e482016bde145cf1f2058496917ad]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/46/regulation/20) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
 
 [^f00027]: Footnote: Schedule 1 is relevantly amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49) and [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35).
 
-[^key-14d4d348a5a1bec006faefc94ec087f6]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2015/46/regulation/21) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+[^c-14d4d348a5a1bec006faefc94ec087f6]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2015/46/regulation/21) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
 
 [^f00028]: Footnote: [2005 asp 5](https://www.legislation.gov.uk/asp/2005/5). Section 1A was added by the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), section 101.
 
-[^key-6f83ee648899d00278b8428c2a152473]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2015/46/regulation/22) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+[^c-6f83ee648899d00278b8428c2a152473]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2015/46/regulation/22) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
 
 [^f00029]: Footnote: Paragraph 21 is amended by [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142).
 
@@ -316,6 +316,6 @@ Regulations 15 to 23 make amendments with similar effect to the Council Tax Redu
 
 [^f00031]: Footnote: Paragraph 29 is amended by [S.S.I. 2014/90](https://www.legislation.gov.uk/ssi/2014/90).
 
-[^key-43d145d2398add62401b0a2ad3ca48b0]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2015/46/regulation/23) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
+[^c-43d145d2398add62401b0a2ad3ca48b0]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2015/46/regulation/23) in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/46/regulation/1)
 
 [^f00032]: Footnote: Paragraph 1 of Schedule 5 is amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2013/287](https://www.legislation.gov.uk/ssi/2013/287) and [S.S.I. 2014/35](https://www.legislation.gov.uk/ssi/2014/35).

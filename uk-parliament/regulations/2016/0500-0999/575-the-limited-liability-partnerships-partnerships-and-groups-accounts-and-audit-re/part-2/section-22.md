@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Exemption from audit: qualifying subsidiaries[^key-6201740e101c077cac8cbe18177a223c]
+## 22. Exemption from audit: qualifying subsidiaries[^c-6201740e101c077cac8cbe18177a223c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6201740e101c077cac8cbe18177a223c]: Commencement: Reg. 22 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-6201740e101c077cac8cbe18177a223c]: Commencement: Reg. 22 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00037]: Footnote: Regulation 34A was inserted by [S.I. 2012/2301](https://www.legislation.gov.uk/uksi/2012/2301), regulation 20(1) and (4).

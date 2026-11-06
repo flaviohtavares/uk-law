@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State may make an order under this section[^key-02c92cb82468c88a7757f635a6446475] authorising the calling out of members of a reserve force if it appears to him that warlike operations are in preparation or progress.
+(1) The Secretary of State may make an order under this section[^c-02c92cb82468c88a7757f635a6446475] authorising the calling out of members of a reserve force if it appears to him that warlike operations are in preparation or progress.
 
 (2) A call-out order under this section—
 
@@ -47,4 +47,4 @@ shall not affect the operation of any call-out notice served on any person befor
 
 ## Annotations
 
-[^key-02c92cb82468c88a7757f635a6446475]: Textual amendment: Words in [s. 54(1)](https://www.legislation.gov.uk/ukpga/1996/14/section/54/1) inserted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 45(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/45/3), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-02c92cb82468c88a7757f635a6446475]: Textual amendment: Words in [s. 54(1)](https://www.legislation.gov.uk/ukpga/1996/14/section/54/1) inserted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 45(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/45/3), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)

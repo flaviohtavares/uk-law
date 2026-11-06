@@ -49,11 +49,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 [^c23641921]The Welsh Ministers have carried out the consultation required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety .
 
-These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears to the Welsh Ministers that it is expedient for any reference in these Regulations to provisions of EU instruments to be construed as a reference to those provisions as amended from time to time.[^key-fd001da911171afc6bcf2010c20a1105][^key-f335d611b5b2db98e18dc25d366a5858]
+These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears to the Welsh Ministers that it is expedient for any reference in these Regulations to provisions of EU instruments to be construed as a reference to those provisions as amended from time to time.[^c-fd001da911171afc6bcf2010c20a1105][^c-f335d611b5b2db98e18dc25d366a5858]
 
 ## PART 1 — Introductory
 
-### 1. Title, application and commencement[^key-1e3f05119bdb7d012d240d164097b0ab]
+### 1. Title, application and commencement[^c-1e3f05119bdb7d012d240d164097b0ab]
 
 (1) The title of these Regulations is the Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (Wales) Regulations 2019.
 
@@ -61,7 +61,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (3) These Regulations come into force on 28 March 2019.
 
-### 2. Interpretation[^key-810d1165c4ee13d2873619dc17c5e0e0]
+### 2. Interpretation[^c-810d1165c4ee13d2873619dc17c5e0e0]
 
 (1) In these Regulations—
 
@@ -113,7 +113,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - “**sell**” (“***gwerthu***”) includes possess for sale, and offer, expose or advertise for sale, and “sale” and “**sold**” (“***gwerthu***”) are to be construed accordingly;
 - “**Table 1 substance**” (“***sylwedd Tabl 1***”) means a substance classified under Article 14(2)(a), (b) or (c) of Regulation 470/2009;
 - “**Table 2 substance**” (“***sylwedd Tabl 2***”) means a substance classified under Article 14(2)(d) of Regulation 470/2009;
-- “**unauthorised substance**” (“***sylwedd diawdurdod***”) means a Table 2 substance, a prohibited substance and any other substance or product the administration of which to animals is prohibited by or under assimilated[^key-d1cf85fb10fc1ff71cf3bf98592ed22d][^key-3892d93cb6f53d15ece78c953cb400ac] law;
+- “**unauthorised substance**” (“***sylwedd diawdurdod***”) means a Table 2 substance, a prohibited substance and any other substance or product the administration of which to animals is prohibited by or under assimilated[^c-d1cf85fb10fc1ff71cf3bf98592ed22d][^c-3892d93cb6f53d15ece78c953cb400ac] law;
 - “**unlicensed substance**” (“***sylwedd didrwydded***”) means a substance—
   - (a) for which a maximum residue limit has been established under Regulation 470/2009, and
   - (b) which has been—
@@ -135,7 +135,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 ## PART 2 — Prohibitions and Exceptions
 
-### 3. Prohibition on the sale of list A and list B substances[^key-66de077566eb1b4baec2fedc5412bed6]
+### 3. Prohibition on the sale of list A and list B substances[^c-66de077566eb1b4baec2fedc5412bed6]
 
 (1) Subject to paragraph (2), no person may sell for administration to any animal any product which is, or which contains, a list A substance or a list B substance, if the animal or any product of that animal is intended for human consumption.
 
@@ -143,11 +143,11 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (3) Any product sold which is, or which contains, a list A substance or a list B substance is to be presumed, unless the contrary is proven, to have been sold for administration to an animal which is, or any product of which is, intended for human consumption.
 
-### 4. Prohibition on possession of beta-agonists[^key-d078dc9da063e8e07d650cf10958b4ed]
+### 4. Prohibition on possession of beta-agonists[^c-d078dc9da063e8e07d650cf10958b4ed]
 
 No person, other than a veterinary surgeon, may possess on a farm any veterinary medicinal product containing a beta-agonist which is authorised to be used for induction purposes in the treatment of tocolysis.
 
-### 5. Prohibition on administration of beta-agonists or hormonal substances[^key-a1c5cdde4f9f906c75319ac7fe40291c]
+### 5. Prohibition on administration of beta-agonists or hormonal substances[^c-a1c5cdde4f9f906c75319ac7fe40291c]
 
 (1) Subject to paragraph (2), no person may administer or knowingly cause or permit to be administered to any animal any product which is, or which contains, a substance listed in Annex II or III to Council Directive 96/22.
 
@@ -159,17 +159,17 @@ No person, other than a veterinary surgeon, may possess on a farm any veterinary
 
 (3) In paragraph (2), “**compliant veterinary medicinal product**” means a veterinary medicinal product which complies with the requirements of regulation 26.
 
-### 6. Prohibition of administration to animals of unlicensed substances or products[^key-66222b32819c723007f6f2cba53e4915]
+### 6. Prohibition of administration to animals of unlicensed substances or products[^c-66222b32819c723007f6f2cba53e4915]
 
 (1) Subject to paragraph (2), no person may administer or knowingly cause or permit to be administered to an animal any unlicensed substance.
 
 (2) Nothing in paragraph (1) prohibits the administration of any veterinary medicinal product in accordance with an exemption specified in paragraphs 1, 5 and 9 of Schedule 4 to the Veterinary Medicines Regulations 2013 [^c23641981].
 
-### 7. Prohibition of administration of Table 2 substances[^key-1cecc4bff243fdb7b572653e717dabba]
+### 7. Prohibition of administration of Table 2 substances[^c-1cecc4bff243fdb7b572653e717dabba]
 
 It is an offence to contravene Article 14(6) of Regulation 470/2009 (prohibition on administration of substances to food-producing animals in certain circumstances).
 
-### 8. Prohibition of possession or slaughter of animals and of processing[^key-1efeb36bd081c4605f538760da503586]
+### 8. Prohibition of possession or slaughter of animals and of processing[^c-1efeb36bd081c4605f538760da503586]
 
 (1) No person may slaughter or otherwise be in possession on a farm of an animal intended for use for human consumption to which there has been administered, which contains, or in which the presence has been established of, any substance listed in Annex II or Annex III to Council Directive 96/22.
 
@@ -183,7 +183,7 @@ any substance listed in Annex II or Annex III to Council Directive 96/22.
 
 (3) Any animal slaughtered or in the possession of a person on a farm which is commonly slaughtered or possessed for use for human consumption is presumed, until the contrary is proven, to have been slaughtered or possessed for such use and an animal commonly used for human consumption from which meat is processed is presumed, until the contrary is proven, to be an animal for such use.
 
-### 9. Prohibition on the sale of animals[^key-1133a1a5aeaa7683aff5edb43a71b35b]
+### 9. Prohibition on the sale of animals[^c-1133a1a5aeaa7683aff5edb43a71b35b]
 
 (1) Subject to paragraph (2), no person may sell or supply, for slaughter for human consumption, any animal—
 
@@ -196,7 +196,7 @@ any substance listed in Annex II or Annex III to Council Directive 96/22.
 
 (2) Nothing in paragraph (1)(f) prohibits the sale before the end of the withdrawal period of any high-value horse to which has been administered allyl trenbolone or a beta-agonist in accordance with regulation 5, provided that the type and date of treatment was entered on the horse's passport by the veterinary surgeon directly responsible for the treatment.
 
-### 10. Prohibition of the sale of animal products[^key-e88b0b621f67e30ae654b54e0660da08]
+### 10. Prohibition of the sale of animal products[^c-e88b0b621f67e30ae654b54e0660da08]
 
 (1) No person may sell for human consumption any animal product derived from an animal the sale or supply for slaughter of which is prohibited under regulation 9.
 
@@ -205,11 +205,11 @@ any substance listed in Annex II or Annex III to Council Directive 96/22.
 - (a) an unauthorised substance; or
 - (b) an authorised substance at a concentration exceeding the relevant maximum residue limit.
 
-### 11. Prohibition of disposal of slaughtered animal or batch of animals[^key-3b66b52ae6a54e8305e3103c09225c58]
+### 11. Prohibition of disposal of slaughtered animal or batch of animals[^c-3b66b52ae6a54e8305e3103c09225c58]
 
 Where an animal or batch of animals has been slaughtered further to a notice referred to in regulation 22(3), no person may dispose of the carcase or offal of that animal or of any animal of that batch of animals, or any part of such carcase or offal, for human or animal consumption.
 
-### 12. Exception to prohibition on slaughter[^key-b3cd42ac3003ed3124c93c729ee39495]
+### 12. Exception to prohibition on slaughter[^c-b3cd42ac3003ed3124c93c729ee39495]
 
 (1) Notwithstanding the prohibition on slaughter of an animal or batch of animals by notice given in accordance with regulation 22(4), that animal or batch of animals may be slaughtered before the withdrawal of such notice if the owner of that animal or batch of animals complies with the following paragraphs of this regulation.
 
@@ -223,14 +223,14 @@ Where an animal or batch of animals has been slaughtered further to a notice ref
 
 ## PART 3 — Sampling and Analysis
 
-### 13. Procurement of samples[^key-d667be500b7ddf2a5ef4bc7b45ba7853]
+### 13. Procurement of samples[^c-d667be500b7ddf2a5ef4bc7b45ba7853]
 
 An authorised officer may—
 
 - (a) take a sample of any article or substance which is found by that officer on or in any premises which the officer is authorised to enter and which the officer has reason to believe may be required as evidence in proceedings under any of the provisions of these Regulations; and
 - (b) take a sample from any animal, whether or not intended for human consumption, which is found by that officer on or in any such premises.
 
-### 14. Primary analysis of official samples[^key-ef1ad82e245dd27f72ea433e3d777feb]
+### 14. Primary analysis of official samples[^c-ef1ad82e245dd27f72ea433e3d777feb]
 
 (1) An official sample is to be submitted for analysis at an approved laboratory and dealt with in accordance with paragraph (2) or (3).
 
@@ -238,7 +238,7 @@ An authorised officer may—
 
 (3) Where the official sample contains the remains of any solid implant or injection site, the analyst is to prepare an extract of such implant or injection site and subject part of that extract to a primary analysis and retain the remainder of the extract for any reference analysis.
 
-### 15. Results of primary analysis[^key-b9848a68ff17557ede3fd07f17e0dbd3]
+### 15. Results of primary analysis[^c-b9848a68ff17557ede3fd07f17e0dbd3]
 
 (1) Where the primary analysis shows that an official sample, or in the case of such a sample containing the remains of a solid implant or injection site, such remains of a solid implant or injection site, contains—
 
@@ -253,7 +253,7 @@ the analyst is to record that information in a primary analysis certificate and 
 
 (3) For the purposes of this regulation and regulations 16 and 17, “**relevant person**” means the owner of the premises where the sample was taken or, where another person is the owner of the animal, animal product or other article or substance from which the sample was taken, whichever one of them the authorised officer considers appropriate.
 
-### 16. Reference analysis[^key-a8ca8bb969e0f958335ff02f1e4bb9d8]
+### 16. Reference analysis[^c-a8ca8bb969e0f958335ff02f1e4bb9d8]
 
 (1) The finding specified in the primary analysis certificate is to be referred by an authorised officer to an approved laboratory for a reference analysis together with the remainder of the official sample retained by the analyst in accordance with regulation 14(2) or 14(3), as appropriate, if—
 
@@ -266,17 +266,17 @@ the analyst is to record that information in a primary analysis certificate and 
 
 (4) Where, in accordance with paragraph (3), the relevant person challenges the finding specified in a primary analysis certificate that person is liable for the costs of any reference analysis which confirms the finding specified in that certificate.
 
-### 17. Notification to analyst[^key-d77cfb907569571a66f794de5b813f34]
+### 17. Notification to analyst[^c-d77cfb907569571a66f794de5b813f34]
 
 (1) An authorised officer who submits to an approved laboratory a sample for primary analysis is to inform the analyst of that approved laboratory of the name and address of the relevant person.
 
 (2) An authorised officer who refers to an approved laboratory a finding specified in a primary analysis is to inform the analyst of that approved laboratory of the name and address of the relevant person.
 
-### 18. Methods of analysis[^key-5c48738caf2ef674fe8173221fbf2132]
+### 18. Methods of analysis[^c-5c48738caf2ef674fe8173221fbf2132]
 
 The analysis of an official sample must be carried out in accordance with methods authorised by Commission Decision [2002/657/EC](https://www.legislation.gov.uk/european/decision/2002/0657) implementing Council Directive [96/23/EC](https://www.legislation.gov.uk/european/directive/1996/0023) concerning the performance of analytical methods and the interpretation of results [^c23641991].
 
-### 19. Certificates of analysis[^key-8f53f6f4c2538062dc13d8385c933d60]
+### 19. Certificates of analysis[^c-8f53f6f4c2538062dc13d8385c933d60]
 
 (1) Any certificate given by an analyst under these Regulations—
 
@@ -292,7 +292,7 @@ The analysis of an official sample must be carried out in accordance with method
 
 is sufficient evidence of the facts stated in it unless, in a case falling within sub-paragraph (a), the other party requires the analyst to be called as a witness.
 
-### 20. Animal inspections[^key-0e69b84a284f0183a85b793f0a1992cf]
+### 20. Animal inspections[^c-0e69b84a284f0183a85b793f0a1992cf]
 
 (1) An authorised officer may, by giving written notice, require—
 
@@ -310,7 +310,7 @@ in order to carry out an inspection.
 
 (4) Where removal and detention elsewhere is required the notice is to be served on the owner of the premises where the animal or batch of animals is located unless another person is the owner of the animal or batch of animals, in which case the authorised officer is to serve the notice on whichever one of them the officer considers appropriate.
 
-### 21. Examination of an animal or batch of animals[^key-d82667ea72be1c8a20010cc7ccc35a13]
+### 21. Examination of an animal or batch of animals[^c-d82667ea72be1c8a20010cc7ccc35a13]
 
 (1) If it appears to an authorised officer, as a result of an inspection carried out for the purposes referred to in regulation 20, that any animal or batch of animals may contain an unauthorised substance or a residue of an authorised substance which the officer reasonably suspects may result in any animal product derived from that animal or batch of animals containing an authorised substance at a concentration exceeding the relevant maximum residue limit or that the withdrawal period in relation to any animal has not expired, an authorised officer has the powers specified in paragraph (2) in relation to such an animal or batch of animals.
 
@@ -323,7 +323,7 @@ in order to carry out an inspection.
 - (b) subject the animal or batch of animals to such examinations for the presence of substances or residues as the authorised officer may reasonably consider to be necessary;
 - (c) paint, stamp, clip, tag or otherwise mark, or cause to be marked, the animal or batch of animals in order to identify it for the purposes of these Regulations.
 
-### 22. Notice on completion of examination[^key-8b2571a1e759b5c7cd4b9dd87a7552ff]
+### 22. Notice on completion of examination[^c-8b2571a1e759b5c7cd4b9dd87a7552ff]
 
 (1) On completion of an examination specified in regulation 21(2)(b), an authorised officer is to give notice in writing to the owner of the animal or batch of animals in accordance with the following paragraphs of this regulation.
 
@@ -346,7 +346,7 @@ in order to carry out an inspection.
 
 ## PART 4 — Offences and Penalties
 
-### 23. Offences, penalties and enforcement[^key-a3826f9e8ddc71586d255c41a97cd693]
+### 23. Offences, penalties and enforcement[^c-a3826f9e8ddc71586d255c41a97cd693]
 
 (1) A person who—
 
@@ -359,7 +359,7 @@ is guilty of an offence.
 
 (3) Each enforcement authority is to enforce these Regulations and is to give such assistance and information to each other enforcement authority as that other enforcement authority reasonably requires for the purpose of its duties under these Regulations.
 
-### 24. Corporate offences[^key-033c95faf94548056e7b68c525337cd1]
+### 24. Corporate offences[^c-033c95faf94548056e7b68c525337cd1]
 
 (1) If an offence under these Regulations committed by a body corporate is shown—
 
@@ -389,13 +389,13 @@ that officer or member as well as the association is liable to prosecution.
 - “**officer**” (“***swyddog***”), in relation to a body corporate or unincorporated association, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, or a person purporting to act in any such capacity; and
 - “**partner**” (“***partner***”) includes a person purporting to act as a partner.
 
-### 25. Defences and exceptions[^key-c1f26e9951c75d6ceea75eaf8848e1da]
+### 25. Defences and exceptions[^c-c1f26e9951c75d6ceea75eaf8848e1da]
 
 (1) In any proceedings for an offence alleging a contravention of regulation 4 it is a defence for the person charged to prove that the veterinary medicinal product to which the allegation relates is intended for purposes other than administration to an animal.
 
 (2) In any proceedings for an offence alleging a contravention of regulation 8 it is a defence for the person charged to prove that the substance listed in Annex II or Annex III to Council Directive 96/22 contained or present in the animal or which has been administered to the animal was administered in accordance with regulation 5.
 
-### 26. Compliant products[^key-e9d54b2c5b72eb6b0dad8c5a023d75b4]
+### 26. Compliant products[^c-e9d54b2c5b72eb6b0dad8c5a023d75b4]
 
 (1) A product which is, or which contains, a substance listed in Annex II or Annex III to Council Directive 96/22 complies with the requirements of this regulation if—
 
@@ -409,13 +409,13 @@ that officer or member as well as the association is liable to prosecution.
 - (b) has a withdrawal period of more than 15 days after the end of treatment; or
 - (c) was authorised before 1 January 1995, has no known conditions of use and for which no reagents or equipment exists for use in the analytical techniques for detecting the presence of residues in excess of the prescribed limits.
 
-### 27. Exception to prohibition on administration for testosterone and progesterone[^key-961570d51a1089541dd5f29ddcf141ce]
+### 27. Exception to prohibition on administration for testosterone and progesterone[^c-961570d51a1089541dd5f29ddcf141ce]
 
 (1) Subject to paragraph (2), administration of any product which is, or which contains, testosterone or progesterone is in accordance with this regulation if it is carried out by a veterinary surgeon for a therapeutic purpose on a farm animal by injection.
 
 (2) Paragraph (1) does not apply to the treatment of ovarian dysfunction, in which case administration is in accordance with this regulation if it is carried out by a veterinary surgeon using a product in the form of vaginal spirals.
 
-### 28. Exception to prohibition on administration for allyl trenbolone and beta-agonists[^key-85807896eec5ea7cc460b6dd9b0f0a2b]
+### 28. Exception to prohibition on administration for allyl trenbolone and beta-agonists[^c-85807896eec5ea7cc460b6dd9b0f0a2b]
 
 (1) Subject to paragraphs (2) and (3), administration of any product which is, or which contains, allyl trenbolone or beta-agonists is in accordance with this paragraph if it is carried out for a therapeutic purpose and it is carried out by a veterinary surgeon or under the direct responsibility of that surgeon.
 
@@ -426,7 +426,7 @@ that officer or member as well as the association is liable to prosecution.
 - (a) a member of the *equidae* Family; or
 - (b) a calving cow, by injection by a veterinary surgeon, to induce tocolysis during labour.
 
-### 29. Exception to prohibition on administration for products having oestrogenic, androgenic or gestagenic action[^key-8c16b33a2b5b335e8a76acfff000cc5c]
+### 29. Exception to prohibition on administration for products having oestrogenic, androgenic or gestagenic action[^c-8c16b33a2b5b335e8a76acfff000cc5c]
 
 (1) Administration is in accordance with this regulation if, in the case of farm animals other than production animals—
 
@@ -440,7 +440,7 @@ that officer or member as well as the association is liable to prosecution.
 
 ## PART 5 — Miscellaneous
 
-### 30. Responsibilities of processors[^key-6f6320e39ab6e638241dc0c08c5f99eb]
+### 30. Responsibilities of processors[^c-6f6320e39ab6e638241dc0c08c5f99eb]
 
 The owner of an establishment of initial processing of animal products must, in respect of each animal or animal product brought into that establishment, ensure that—
 
@@ -449,11 +449,11 @@ The owner of an establishment of initial processing of animal products must, in 
   - (ii) any unauthorised substance or product; and
 - (b) any appropriate withdrawal period has been observed.
 
-### 31. Unavailability of defence[^key-7da1eef852e8d541eca6223cd2fe2aa2]
+### 31. Unavailability of defence[^c-7da1eef852e8d541eca6223cd2fe2aa2]
 
 A person is not entitled to rely on the defence provided by section 21(1), (5) and (6) of the Act, as applied by regulation 33, in any proceedings alleging a contravention of regulation 8 or 10 if that person has contravened regulation 30.
 
-### 32. Keeping and retention of records[^key-eee25877e288cc01bbe8e9f18c13c2fd]
+### 32. Keeping and retention of records[^c-eee25877e288cc01bbe8e9f18c13c2fd]
 
 (1) The owner of an establishment of initial processing of animal products must keep such records as are sufficient, either alone or in combination with records or information held by some other person, to enable the animals from which those animal products were derived, and the farm of origin or departure of those animals, to be identified.
 
@@ -474,7 +474,7 @@ A person is not entitled to rely on the defence provided by section 21(1), (5) a
 
 (7) Where a record is so kept, the duty under paragraph (4) to produce it for inspection, is a duty to produce it in a form in which it can be taken away.
 
-### 33. Application and modification of provisions of the Food Safety Act 1990[^key-bad2eb67860c18c6504fb9c00b578229]
+### 33. Application and modification of provisions of the Food Safety Act 1990[^c-bad2eb67860c18c6504fb9c00b578229]
 
 (1) The following provisions of the Act apply for the purposes of these Regulations and, unless the context otherwise requires, any reference in them to that Act is construed for the purposes of these Regulations as a reference to these Regulations—
 
@@ -501,7 +501,7 @@ A person is not entitled to rely on the defence provided by section 21(1), (5) a
 
 (7) Section 44 of the Act (protection of officers acting in good faith) applies subject to the modification that for the words “food authority” in each place where they occur there is substituted the words “ enforcement authority ”.
 
-### 34. Revocations[^key-49d0d242b27cb08de1e7db3777ebf221]
+### 34. Revocations[^c-49d0d242b27cb08de1e7db3777ebf221]
 
 The instruments specified in the first column of the Schedule are revoked to the extent specified in the third column of the Schedule.
 
@@ -509,7 +509,7 @@ Lesley Griffiths
 
 Minister for Environment, Energy and Rural Affairs, one of the Welsh Ministers
 
-## SCHEDULE — Revocations[^key-61f4f3ef1718495efd6365588d173cfc]
+## SCHEDULE — Revocations[^c-61f4f3ef1718495efd6365588d173cfc]
 
 Regulation 34
 
@@ -560,13 +560,13 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23641921]: Marginal citation: OJ No L 31, 1.2.2002, p. 1, as last amended by Commission Regulation (EU) 2017/228 (OJ No L 35, 10.2.2017, p. 10).
 
-[^key-fd001da911171afc6bcf2010c20a1105]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-fd001da911171afc6bcf2010c20a1105]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-f335d611b5b2db98e18dc25d366a5858]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-f335d611b5b2db98e18dc25d366a5858]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-1e3f05119bdb7d012d240d164097b0ab]: Commencement: Reg. 1 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-1e3f05119bdb7d012d240d164097b0ab]: Commencement: Reg. 1 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-810d1165c4ee13d2873619dc17c5e0e0]: Commencement: Reg. 2 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-810d1165c4ee13d2873619dc17c5e0e0]: Commencement: Reg. 2 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
 [^c23641931]: Marginal citation: [Section 27](https://www.legislation.gov.uk/wsi/2019/569/section/27) has been amended by the [Food Standards Act 1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), [section 40(1)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/1), [Schedule 5](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5), [paragraphs 7](https://www.legislation.gov.uk/ukpga/1999/28/paragraph/7) and 8, and the Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [sections 22](https://www.legislation.gov.uk/ukpga/2007/28/section/22) and 241, Schedule 1, Part 2, paragraph 17 and Schedule 18, Part 1.
 
@@ -578,76 +578,76 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23641971]: Marginal citation: OJ No. L152, 16.6.2009, p. 11.
 
-[^key-d1cf85fb10fc1ff71cf3bf98592ed22d]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2019/569/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [21](https://www.legislation.gov.uk/wsi/2023/1332/regulation/21)
+[^c-d1cf85fb10fc1ff71cf3bf98592ed22d]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2019/569/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [21](https://www.legislation.gov.uk/wsi/2023/1332/regulation/21)
 
-[^key-3892d93cb6f53d15ece78c953cb400ac]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/737)](https://www.legislation.gov.uk/uksi/2019/737), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/737/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/737/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3892d93cb6f53d15ece78c953cb400ac]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/737)](https://www.legislation.gov.uk/uksi/2019/737), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/737/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/737/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-66de077566eb1b4baec2fedc5412bed6]: Commencement: Reg. 3 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-66de077566eb1b4baec2fedc5412bed6]: Commencement: Reg. 3 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-d078dc9da063e8e07d650cf10958b4ed]: Commencement: Reg. 4 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-d078dc9da063e8e07d650cf10958b4ed]: Commencement: Reg. 4 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-a1c5cdde4f9f906c75319ac7fe40291c]: Commencement: Reg. 5 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-a1c5cdde4f9f906c75319ac7fe40291c]: Commencement: Reg. 5 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-66222b32819c723007f6f2cba53e4915]: Commencement: Reg. 6 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-66222b32819c723007f6f2cba53e4915]: Commencement: Reg. 6 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
 [^c23641981]: Marginal citation: [S.I. 2013/2033](https://www.legislation.gov.uk/uksi/2013/2033).
 
-[^key-1cecc4bff243fdb7b572653e717dabba]: Commencement: Reg. 7 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-1cecc4bff243fdb7b572653e717dabba]: Commencement: Reg. 7 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-1efeb36bd081c4605f538760da503586]: Commencement: Reg. 8 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-1efeb36bd081c4605f538760da503586]: Commencement: Reg. 8 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-1133a1a5aeaa7683aff5edb43a71b35b]: Commencement: Reg. 9 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-1133a1a5aeaa7683aff5edb43a71b35b]: Commencement: Reg. 9 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-e88b0b621f67e30ae654b54e0660da08]: Commencement: Reg. 10 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-e88b0b621f67e30ae654b54e0660da08]: Commencement: Reg. 10 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-3b66b52ae6a54e8305e3103c09225c58]: Commencement: Reg. 11 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-3b66b52ae6a54e8305e3103c09225c58]: Commencement: Reg. 11 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-b3cd42ac3003ed3124c93c729ee39495]: Commencement: Reg. 12 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-b3cd42ac3003ed3124c93c729ee39495]: Commencement: Reg. 12 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-d667be500b7ddf2a5ef4bc7b45ba7853]: Commencement: Reg. 13 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-d667be500b7ddf2a5ef4bc7b45ba7853]: Commencement: Reg. 13 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-ef1ad82e245dd27f72ea433e3d777feb]: Commencement: Reg. 14 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-ef1ad82e245dd27f72ea433e3d777feb]: Commencement: Reg. 14 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-b9848a68ff17557ede3fd07f17e0dbd3]: Commencement: Reg. 15 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-b9848a68ff17557ede3fd07f17e0dbd3]: Commencement: Reg. 15 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-a8ca8bb969e0f958335ff02f1e4bb9d8]: Commencement: Reg. 16 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-a8ca8bb969e0f958335ff02f1e4bb9d8]: Commencement: Reg. 16 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-d77cfb907569571a66f794de5b813f34]: Commencement: Reg. 17 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-d77cfb907569571a66f794de5b813f34]: Commencement: Reg. 17 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-5c48738caf2ef674fe8173221fbf2132]: Commencement: Reg. 18 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-5c48738caf2ef674fe8173221fbf2132]: Commencement: Reg. 18 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
 [^c23641991]: Marginal citation: OJ No L221, 17.8.2002, p. 8, as last amended by Commission Decision 2004/25/EC (OJ No L6, 10.1.2004, p. 38).
 
-[^key-8f53f6f4c2538062dc13d8385c933d60]: Commencement: Reg. 19 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-8f53f6f4c2538062dc13d8385c933d60]: Commencement: Reg. 19 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-0e69b84a284f0183a85b793f0a1992cf]: Commencement: Reg. 20 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-0e69b84a284f0183a85b793f0a1992cf]: Commencement: Reg. 20 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-d82667ea72be1c8a20010cc7ccc35a13]: Commencement: Reg. 21 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-d82667ea72be1c8a20010cc7ccc35a13]: Commencement: Reg. 21 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-8b2571a1e759b5c7cd4b9dd87a7552ff]: Commencement: Reg. 22 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-8b2571a1e759b5c7cd4b9dd87a7552ff]: Commencement: Reg. 22 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-a3826f9e8ddc71586d255c41a97cd693]: Commencement: Reg. 23 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-a3826f9e8ddc71586d255c41a97cd693]: Commencement: Reg. 23 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-033c95faf94548056e7b68c525337cd1]: Commencement: Reg. 24 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-033c95faf94548056e7b68c525337cd1]: Commencement: Reg. 24 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-c1f26e9951c75d6ceea75eaf8848e1da]: Commencement: Reg. 25 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-c1f26e9951c75d6ceea75eaf8848e1da]: Commencement: Reg. 25 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-e9d54b2c5b72eb6b0dad8c5a023d75b4]: Commencement: Reg. 26 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-e9d54b2c5b72eb6b0dad8c5a023d75b4]: Commencement: Reg. 26 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-961570d51a1089541dd5f29ddcf141ce]: Commencement: Reg. 27 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-961570d51a1089541dd5f29ddcf141ce]: Commencement: Reg. 27 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-85807896eec5ea7cc460b6dd9b0f0a2b]: Commencement: Reg. 28 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-85807896eec5ea7cc460b6dd9b0f0a2b]: Commencement: Reg. 28 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-8c16b33a2b5b335e8a76acfff000cc5c]: Commencement: Reg. 29 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-8c16b33a2b5b335e8a76acfff000cc5c]: Commencement: Reg. 29 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-6f6320e39ab6e638241dc0c08c5f99eb]: Commencement: Reg. 30 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-6f6320e39ab6e638241dc0c08c5f99eb]: Commencement: Reg. 30 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-7da1eef852e8d541eca6223cd2fe2aa2]: Commencement: Reg. 31 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-7da1eef852e8d541eca6223cd2fe2aa2]: Commencement: Reg. 31 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-eee25877e288cc01bbe8e9f18c13c2fd]: Commencement: Reg. 32 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-eee25877e288cc01bbe8e9f18c13c2fd]: Commencement: Reg. 32 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-bad2eb67860c18c6504fb9c00b578229]: Commencement: Reg. 33 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-bad2eb67860c18c6504fb9c00b578229]: Commencement: Reg. 33 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-49d0d242b27cb08de1e7db3777ebf221]: Commencement: Reg. 34 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-49d0d242b27cb08de1e7db3777ebf221]: Commencement: Reg. 34 in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
 
-[^key-61f4f3ef1718495efd6365588d173cfc]: Commencement: Sch. in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)
+[^c-61f4f3ef1718495efd6365588d173cfc]: Commencement: Sch. in force at 28.3.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3)

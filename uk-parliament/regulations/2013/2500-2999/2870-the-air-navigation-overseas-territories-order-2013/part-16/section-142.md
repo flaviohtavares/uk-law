@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Use of radio call signs at aerodromes[^key-9683ae5c8a15bd593173a5f648d3c2c0]
+## 142. Use of radio call signs at aerodromes[^c-9683ae5c8a15bd593173a5f648d3c2c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The person in charge of an aerodrome provided with means of two-way radio commun
 
 ## Annotations
 
-[^key-9683ae5c8a15bd593173a5f648d3c2c0]: Commencement: [Art. 142](https://www.legislation.gov.uk/uksi/2013/2870/article/142) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-9683ae5c8a15bd593173a5f648d3c2c0]: Commencement: [Art. 142](https://www.legislation.gov.uk/uksi/2013/2870/article/142) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

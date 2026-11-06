@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Inquiries[^key-2903c3ea14d51b7bedce27bc1542617d][^key-daaa95bab30f0495c50d8e064fcc3831]
+## 98. Inquiries[^c-2903c3ea14d51b7bedce27bc1542617d][^c-daaa95bab30f0495c50d8e064fcc3831]
 
 *Extent: S*
 
@@ -52,6 +52,6 @@ may direct that it be held in private; but where no such direction has been give
 
 ## Annotations
 
-[^key-2903c3ea14d51b7bedce27bc1542617d]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2010/8/section/98) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-2903c3ea14d51b7bedce27bc1542617d]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2010/8/section/98) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-daaa95bab30f0495c50d8e064fcc3831]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2010/8/section/98) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-daaa95bab30f0495c50d8e064fcc3831]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2010/8/section/98) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

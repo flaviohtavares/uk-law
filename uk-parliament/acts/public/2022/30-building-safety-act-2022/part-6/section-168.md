@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Regulations[^key-085dc2c996acdc3b46cba37c00e40f50]
+## 168. Regulations[^c-085dc2c996acdc3b46cba37c00e40f50]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ may not be made unless a draft of the instrument has been laid before and approv
 
 ## Annotations
 
-[^key-085dc2c996acdc3b46cba37c00e40f50]: Commencement: S. 168 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)
+[^c-085dc2c996acdc3b46cba37c00e40f50]: Commencement: S. 168 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)
 
 [^M_F_d79f6974-ea8e-4432-941b-2bc945e34ec5]: Textual amendment: Word in s. 168(6)(a) inserted (retrospective to 28.6.2022) by [Levelling-Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 243(4)(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/243/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

@@ -97,15 +97,15 @@ Section 214.
 
 #### The Allotments (Scotland) Act 1892[^c9689611]
 
-**16.**[^key-08e59418b449f95c87d202cca5749481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-08e59418b449f95c87d202cca5749481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-08e59418b449f95c87d202cca5749481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-08e59418b449f95c87d202cca5749481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-08e59418b449f95c87d202cca5749481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-08e59418b449f95c87d202cca5749481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-08e59418b449f95c87d202cca5749481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-08e59418b449f95c87d202cca5749481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-08e59418b449f95c87d202cca5749481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-08e59418b449f95c87d202cca5749481] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Local Government (Scotland) Act 1894[^c9689621]
 
@@ -192,7 +192,7 @@ Section 214.
 
 #### The Land Settlement (Scotland) Act 1919[^c9689741]
 
-**54.**[^key-3b644a7a875788ca05cccdd17335a1ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-3b644a7a875788ca05cccdd17335a1ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **55.**[^c9689751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -204,11 +204,11 @@ Section 214.
 
 #### The Allotments (Scotland) Act 1922[^c9689771]
 
-**58.**[^key-59013c953799064a6edfb208d9507d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**58.**[^c-59013c953799064a6edfb208d9507d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**59.**[^key-59013c953799064a6edfb208d9507d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-59013c953799064a6edfb208d9507d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**60.**[^key-59013c953799064a6edfb208d9507d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-59013c953799064a6edfb208d9507d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Milk and Dairies (Amendment) Act 1922[^c9689781]
 
@@ -567,11 +567,11 @@ and the definition of “ Large burgh ” shall cease to have effect, and
 
 #### The Noise Abatement Act 1960[^c9690381]
 
-**146.**[^key-16a53bf813beeafcd74bdf35228711bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**146.**[^c-16a53bf813beeafcd74bdf35228711bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**147.**[^key-16a53bf813beeafcd74bdf35228711bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**147.**[^c-16a53bf813beeafcd74bdf35228711bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**148.**[^key-16a53bf813beeafcd74bdf35228711bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**148.**[^c-16a53bf813beeafcd74bdf35228711bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **149, 150.**[^c9690391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -821,7 +821,7 @@ and the definition of “ Large burgh ” shall cease to have effect, and
 
 [^c9689611]: Marginal citation: [1892 c. 54](https://www.legislation.gov.uk/ukpga/1892/54).
 
-[^key-08e59418b449f95c87d202cca5749481]: Textual amendment: [Sch. 27 paras. 16-20](https://www.legislation.gov.uk/ukpga/1973/65/schedule/27/paragraph/16) repealed (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2017/458/article/10))
+[^c-08e59418b449f95c87d202cca5749481]: Textual amendment: [Sch. 27 paras. 16-20](https://www.legislation.gov.uk/ukpga/1973/65/schedule/27/paragraph/16) repealed (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2017/458/article/10))
 
 [^c9689621]: Marginal citation: [1894 c. 58](https://www.legislation.gov.uk/ukpga/1894/58).
 
@@ -885,7 +885,7 @@ and the definition of “ Large burgh ” shall cease to have effect, and
 
 [^c9689741]: Marginal citation: [1919 c. 97](https://www.legislation.gov.uk/ukpga/1919/97).
 
-[^key-3b644a7a875788ca05cccdd17335a1ea]: Textual amendment: [Sch. 27 para. 54](https://www.legislation.gov.uk/ukpga/1973/65/schedule/27/paragraph/54) repealed (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2017/458/article/10))
+[^c-3b644a7a875788ca05cccdd17335a1ea]: Textual amendment: [Sch. 27 para. 54](https://www.legislation.gov.uk/ukpga/1973/65/schedule/27/paragraph/54) repealed (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2017/458/article/10))
 
 [^c9689751]: Textual amendment: [Sch. 27 paras. 55](https://www.legislation.gov.uk/ukpga/1973/65/schedule/27/paragraph/55), [68](https://www.legislation.gov.uk/ukpga/1973/65/schedule/27/paragraph/68), [87](https://www.legislation.gov.uk/ukpga/1973/65/schedule/27/paragraph/87), [129–131](https://www.legislation.gov.uk/ukpga/1973/65/schedule/27/paragraph/129) repealed by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(3)(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3/4), [Sch. 17 para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1), [Sch. 18](https://www.legislation.gov.uk/ukpga/1989/29/schedule/18)
 
@@ -893,7 +893,7 @@ and the definition of “ Large burgh ” shall cease to have effect, and
 
 [^c9689771]: Marginal citation: [1922 c. 52](https://www.legislation.gov.uk/ukpga/1922/52).
 
-[^key-59013c953799064a6edfb208d9507d68]: Textual amendment: [Sch. 27 paras. 58-60](https://www.legislation.gov.uk/ukpga/1973/65/schedule/27/paragraph/58) repealed (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2017/458/article/10))
+[^c-59013c953799064a6edfb208d9507d68]: Textual amendment: [Sch. 27 paras. 58-60](https://www.legislation.gov.uk/ukpga/1973/65/schedule/27/paragraph/58) repealed (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2017/458/article/10))
 
 [^c9689781]: Marginal citation: [1922 c. 54](https://www.legislation.gov.uk/ukpga/1922/54).
 
@@ -1017,7 +1017,7 @@ and the definition of “ Large burgh ” shall cease to have effect, and
 
 [^c9690381]: Marginal citation: [1960 c. 68](https://www.legislation.gov.uk/ukpga/1960/68).
 
-[^key-16a53bf813beeafcd74bdf35228711bd]: Textual amendment: [Sch. 27 paras. 146-148](https://www.legislation.gov.uk/ukpga/1973/65/schedule/27/paragraph/146) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 18](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/18); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-16a53bf813beeafcd74bdf35228711bd]: Textual amendment: [Sch. 27 paras. 146-148](https://www.legislation.gov.uk/ukpga/1973/65/schedule/27/paragraph/146) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 18](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/18); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
 [^c9690391]: Textual amendment: Sch. 27 Pt. II paras. 149, 150 repealed by [Consumer Safety Act 1978 (c. 38)](https://www.legislation.gov.uk/ukpga/1978/38), [Sch. 3](https://www.legislation.gov.uk/ukpga/1978/38/schedule/3)
 

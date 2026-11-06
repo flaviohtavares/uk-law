@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 159. Notice etc to solicitors[^key-d8d64ea6a237400c8bd28b3ffef8d38b]
+## 159. Notice etc to solicitors[^c-d8d64ea6a237400c8bd28b3ffef8d38b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where under the 1986 Act or the Rules a notice or other document is required or 
 
 ## Annotations
 
-[^key-d8d64ea6a237400c8bd28b3ffef8d38b]: Commencement: [Rule 159](https://www.legislation.gov.uk/uksi/2013/3208/rule/159) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-d8d64ea6a237400c8bd28b3ffef8d38b]: Commencement: [Rule 159](https://www.legislation.gov.uk/uksi/2013/3208/rule/159) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

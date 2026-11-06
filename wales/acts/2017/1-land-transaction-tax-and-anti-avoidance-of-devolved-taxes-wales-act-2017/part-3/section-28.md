@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Amount of tax chargeable: linked transactions[^key-66211005384efee8250da72727ef6eec]
+## 28. Amount of tax chargeable: linked transactions[^c-66211005384efee8250da72727ef6eec]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66211005384efee8250da72727ef6eec]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2017/1/section/28) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-66211005384efee8250da72727ef6eec]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2017/1/section/28) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

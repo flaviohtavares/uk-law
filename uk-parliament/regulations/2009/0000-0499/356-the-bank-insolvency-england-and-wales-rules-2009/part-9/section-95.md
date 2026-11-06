@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Release of resigning or removed bank liquidator[^key-bd72140bb365ceff698777beb6e3bc0e]
+## 95. Release of resigning or removed bank liquidator[^c-bd72140bb365ceff698777beb6e3bc0e]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In paragraph (1), for “accepted by” substitute “notified to”.
 
-(3) For rule 4.109 substitute “rule 88 of the 2009 Rules[^key-16d0aa8f93e010498e798aaeadbb47ef]”.
+(3) For rule 4.109 substitute “rule 88 of the 2009 Rules[^c-16d0aa8f93e010498e798aaeadbb47ef]”.
 
 (4) In paragraph (3)—
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd72140bb365ceff698777beb6e3bc0e]: Commencement: Rule 95 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-bd72140bb365ceff698777beb6e3bc0e]: Commencement: Rule 95 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-16d0aa8f93e010498e798aaeadbb47ef]: Textual amendment: Words in [rule 95(3)](https://www.legislation.gov.uk/uksi/2009/356/rule/95/3) substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [40](https://www.legislation.gov.uk/uksi/2010/2579/rule/40)
+[^c-16d0aa8f93e010498e798aaeadbb47ef]: Textual amendment: Words in [rule 95(3)](https://www.legislation.gov.uk/uksi/2009/356/rule/95/3) substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [40](https://www.legislation.gov.uk/uksi/2010/2579/rule/40)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Amendments and repeals[^key-69668bbc1394c20a977bf26646ca3ecc]
+## 91. Amendments and repeals[^c-69668bbc1394c20a977bf26646ca3ecc]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69668bbc1394c20a977bf26646ca3ecc]: Commencement: S. 91 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-69668bbc1394c20a977bf26646ca3ecc]: Commencement: S. 91 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Investigations under section 60: reports[^key-45685731eb32afe226d105b27996f926][^key-af073b47e0c0917c7fb47282697ac9c6][^key-1cb3282b79dfdd52559b5ec23de3ef56]
+## 61. Investigations under section 60: reports[^c-45685731eb32afe226d105b27996f926][^c-af073b47e0c0917c7fb47282697ac9c6][^c-1cb3282b79dfdd52559b5ec23de3ef56]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,8 +65,8 @@ Paragraphs (b) and (c) are subject to subsection (5).
 
 ## Annotations
 
-[^key-45685731eb32afe226d105b27996f926]: Commencement: S. 61 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-45685731eb32afe226d105b27996f926]: Commencement: S. 61 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-af073b47e0c0917c7fb47282697ac9c6]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2023/54/section/61) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-af073b47e0c0917c7fb47282697ac9c6]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2023/54/section/61) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-1cb3282b79dfdd52559b5ec23de3ef56]: Modification: [Ss. 61-66](https://www.legislation.gov.uk/ukpga/2023/54/section/61) applied (with modifications) (24.2.2025) by [S.I. 2023/1348](https://www.legislation.gov.uk/uksi/2023/1348), [reg. 20D(2)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/20D/2) (as inserted by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(5)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/5) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34)))
+[^c-1cb3282b79dfdd52559b5ec23de3ef56]: Modification: [Ss. 61-66](https://www.legislation.gov.uk/ukpga/2023/54/section/61) applied (with modifications) (24.2.2025) by [S.I. 2023/1348](https://www.legislation.gov.uk/uksi/2023/1348), [reg. 20D(2)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/20D/2) (as inserted by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(5)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/5) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34)))

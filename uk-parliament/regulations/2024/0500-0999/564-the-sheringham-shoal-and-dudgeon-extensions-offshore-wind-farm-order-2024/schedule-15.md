@@ -22,7 +22,7 @@ summary: ''
 
 Article 42
 
-### 1. Primary objective[^key-820504f7df4b7a83c007bedabae2056e]
+### 1. Primary objective[^c-820504f7df4b7a83c007bedabae2056e]
 
 (1) The primary objective of these arbitration rules is to achieve a fair, impartial, final and binding award on the substantive difference between the parties (save as to costs) within four months from the date the Arbitrator is appointed pursuant to article 42 (arbitration) of the Order.
 
@@ -30,7 +30,7 @@ Article 42
 
 (3) The Arbitration is deemed to have commenced when a party (“the Claimant”) serves a written notice of arbitration on the other party (“the Respondent”).
 
-### 2. Time periods[^key-859e58c770f20c4294112c7629df07c2]
+### 2. Time periods[^c-859e58c770f20c4294112c7629df07c2]
 
 (1) All time periods in these Arbitration Rules are measured in days and include weekends, but not bank or public holidays.
 
@@ -39,7 +39,7 @@ Article 42
 - (a) the date the Arbitrator notifies the parties in writing of the Arbitrator’s acceptance of an appointment by agreement of the parties; or
 - (b) the date the Arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-88f7a017032efb19191b2164a073971b]
+### 3. Timetable[^c-88f7a017032efb19191b2164a073971b]
 
 (1) The timetable for the Arbitration is set out in sub–paragraphs ‎(2) to ‎(4) below unless amended in accordance with paragraph 5(3).
 
@@ -62,7 +62,7 @@ Article 42
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the Respondent; and
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-919f6c74d4e3f3b34d87d7e271ec616d]
+### 4. Procedure[^c-919f6c74d4e3f3b34d87d7e271ec616d]
 
 (1) The parties’ pleadings, witness statements and expert reports (if any) must be concise. No single pleading is to exceed 30 single-sided A4 pages using 10pt Arial font.
 
@@ -90,7 +90,7 @@ Article 42
 
 (11) The Arbitrator’s award must include reasons. The parties must accept that the extent to which reasons are given are proportionate to the issues in dispute and the time available to the Arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-00fc26137d946df693fec4c8211cab81]
+### 5. Arbitrator’s powers[^c-00fc26137d946df693fec4c8211cab81]
 
 (1) The Arbitrator has all the powers of the Arbitration Act 1996[^f00057], including the non-mandatory sections, save where modified by these Rules.
 
@@ -103,7 +103,7 @@ Article 42
 
 (4) On the date the award is made, the Arbitrator must notify the parties that the award is completed, signed and dated, and that it is to be issued to the parties on receipt of cleared funds for the Arbitrator’s fees and expenses.
 
-### 6. Costs[^key-866e656a08a1c29af07d5419a1eddd15]
+### 6. Costs[^c-866e656a08a1c29af07d5419a1eddd15]
 
 (1) The costs of the Arbitration must include the fees and expenses of the Arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the Arbitration.
 
@@ -113,7 +113,7 @@ Article 42
 
 (4) The Arbitrator must award recoverable costs on the general principle that costs follow the event, having regard to all material circumstances, including such matters as exaggerated claims and/or defences, the degree of success for different elements of the claims, claims that have incurred substantial costs, the conduct of the parties and the degree of success of a party.
 
-### 7. Confidentiality[^key-839dddb71f5882ba60381cf0872e2561]
+### 7. Confidentiality[^c-839dddb71f5882ba60381cf0872e2561]
 
 (1) Subject to sub-paragraphs ‎(2), ‎(3) and ‎(4), any arbitration hearing and documentation shall be open to and accessible by the public.
 
@@ -125,18 +125,18 @@ Article 42
 
 ## Annotations
 
-[^key-820504f7df4b7a83c007bedabae2056e]: Commencement: Sch. 15 para. 1 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-820504f7df4b7a83c007bedabae2056e]: Commencement: Sch. 15 para. 1 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-859e58c770f20c4294112c7629df07c2]: Commencement: Sch. 15 para. 2 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-859e58c770f20c4294112c7629df07c2]: Commencement: Sch. 15 para. 2 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-88f7a017032efb19191b2164a073971b]: Commencement: Sch. 15 para. 3 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-88f7a017032efb19191b2164a073971b]: Commencement: Sch. 15 para. 3 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-919f6c74d4e3f3b34d87d7e271ec616d]: Commencement: Sch. 15 para. 4 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-919f6c74d4e3f3b34d87d7e271ec616d]: Commencement: Sch. 15 para. 4 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-00fc26137d946df693fec4c8211cab81]: Commencement: Sch. 15 para. 5 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-00fc26137d946df693fec4c8211cab81]: Commencement: Sch. 15 para. 5 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
 [^f00057]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23)
 
-[^key-866e656a08a1c29af07d5419a1eddd15]: Commencement: Sch. 15 para. 6 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-866e656a08a1c29af07d5419a1eddd15]: Commencement: Sch. 15 para. 6 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-839dddb71f5882ba60381cf0872e2561]: Commencement: Sch. 15 para. 7 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-839dddb71f5882ba60381cf0872e2561]: Commencement: Sch. 15 para. 7 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)

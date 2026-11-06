@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Modifications in connection with the Northern Ireland Protocol[^key-f69a69e3f6ef4c4e4d4843b8c2f82f5f]
+## 11. Modifications in connection with the Northern Ireland Protocol[^c-f69a69e3f6ef4c4e4d4843b8c2f82f5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f69a69e3f6ef4c4e4d4843b8c2f82f5f]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2020/27/section/11) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-f69a69e3f6ef4c4e4d4843b8c2f82f5f]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2020/27/section/11) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

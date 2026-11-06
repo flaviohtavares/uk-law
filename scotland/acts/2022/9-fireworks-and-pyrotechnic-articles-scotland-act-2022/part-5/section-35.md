@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Prohibition of pyrotechnic articles in public places[^key-9ed01ffc5dfbac592425b204fdc21b16][^key-d92fa8ebd859534b461c32dbd44614bd]
+## 35. Prohibition of pyrotechnic articles in public places[^c-9ed01ffc5dfbac592425b204fdc21b16][^c-d92fa8ebd859534b461c32dbd44614bd]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ed01ffc5dfbac592425b204fdc21b16]: Commencement: S. 35 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-9ed01ffc5dfbac592425b204fdc21b16]: Commencement: S. 35 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-d92fa8ebd859534b461c32dbd44614bd]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2022/9/section/35) in force at 6.6.2023 by [S.S.I. 2023/99](https://www.legislation.gov.uk/ssi/2023/99), [reg. 2](https://www.legislation.gov.uk/ssi/2023/99/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/99/schedule)
+[^c-d92fa8ebd859534b461c32dbd44614bd]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2022/9/section/35) in force at 6.6.2023 by [S.S.I. 2023/99](https://www.legislation.gov.uk/ssi/2023/99), [reg. 2](https://www.legislation.gov.uk/ssi/2023/99/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/99/schedule)

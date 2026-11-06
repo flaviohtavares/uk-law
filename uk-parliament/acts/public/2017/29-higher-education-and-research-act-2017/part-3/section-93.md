@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. UK research and innovation functions[^key-9d275274ac1ee9b80b5ee1bc266b3d43]
+## 93. UK research and innovation functions[^c-9d275274ac1ee9b80b5ee1bc266b3d43]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d275274ac1ee9b80b5ee1bc266b3d43]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2017/29/section/93) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)
+[^c-9d275274ac1ee9b80b5ee1bc266b3d43]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2017/29/section/93) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)

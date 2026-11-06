@@ -37,7 +37,7 @@ An Act to make further Provision for the good Government and Extension of the Un
 
 ## Constitution of the University.
 
-### 5. Establishment of Hebdomadal Council.[^key-ce6398f4f53099e60180d1fc2308c3c3]
+### 5. Establishment of Hebdomadal Council.[^c-ce6398f4f53099e60180d1fc2308c3c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -176,7 +176,7 @@ Except in so far as they are expressly altered or taken away by the provisions o
 
 ### 48. Interpretation of terms.
 
-In the construction of this Act, the expression “**University or college emolument**” shall include all fellowships, studentships, scholarships, exhibitions, demyships, postmasterships, taberdarships, Bible clerkships, servitorships, and every other such place of emolument payable out of the revenues of the University, or of any college, or to be held and enjoyed by the members of any college or hall as such within the University; [^key-1b902953c8e8217066a97737ff790052]... the word “**school**” shall include colleges in Scotland; and the words “**professor**” and “**professorship**” shall be taken to include respectively public readers, prælectors, and their several offices; and the words “**public examiner**” shall be taken to include moderators and masters of the schools; and the word “**hall**” shall be taken to mean all halls other than affiliated halls, or such private halls as are authorized by this Act; and the governing body of any college shall mean and include the head and all actual fellows thereof, being graduates, but in the case of Christ Church shall mean the dean and canons thereof; and the word “**residents**” shall mean and include all members of Convocation who shall have resided twenty weeks within one mile and a half of Carfax during the year that shall expire on the first day of September next preceding the making and promulgation of the register as directed by the fourteenth section of this Act.
+In the construction of this Act, the expression “**University or college emolument**” shall include all fellowships, studentships, scholarships, exhibitions, demyships, postmasterships, taberdarships, Bible clerkships, servitorships, and every other such place of emolument payable out of the revenues of the University, or of any college, or to be held and enjoyed by the members of any college or hall as such within the University; [^c-1b902953c8e8217066a97737ff790052]... the word “**school**” shall include colleges in Scotland; and the words “**professor**” and “**professorship**” shall be taken to include respectively public readers, prælectors, and their several offices; and the words “**public examiner**” shall be taken to include moderators and masters of the schools; and the word “**hall**” shall be taken to mean all halls other than affiliated halls, or such private halls as are authorized by this Act; and the governing body of any college shall mean and include the head and all actual fellows thereof, being graduates, but in the case of Christ Church shall mean the dean and canons thereof; and the word “**residents**” shall mean and include all members of Convocation who shall have resided twenty weeks within one mile and a half of Carfax during the year that shall expire on the first day of September next preceding the making and promulgation of the register as directed by the fourteenth section of this Act.
 
 ## Schedule A
 
@@ -214,7 +214,7 @@ Keepers of University Museums and Repositories of Art or Science.
 
 [^c561318]: Textual amendment: [Ss. 1–4](https://www.legislation.gov.uk/ukpga/Vict/17-18/81/section/1), [7](https://www.legislation.gov.uk/ukpga/Vict/17-18/81/section/7), [27–38](https://www.legislation.gov.uk/ukpga/Vict/17-18/81/section/27), [42](https://www.legislation.gov.uk/ukpga/Vict/17-18/81/section/42), [44](https://www.legislation.gov.uk/ukpga/Vict/17-18/81/section/44) repealed by [Statute Law Revision Act 1875 (c. 66)](https://www.legislation.gov.uk/ukpga/1875/66)
 
-[^key-ce6398f4f53099e60180d1fc2308c3c3]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Vict/17-18/81/section/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-ce6398f4f53099e60180d1fc2308c3c3]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Vict/17-18/81/section/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
 [^c561320]: Textual amendment: [Ss. 1–4](https://www.legislation.gov.uk/ukpga/Vict/17-18/81/section/1), [7](https://www.legislation.gov.uk/ukpga/Vict/17-18/81/section/7), [27–38](https://www.legislation.gov.uk/ukpga/Vict/17-18/81/section/27), [42](https://www.legislation.gov.uk/ukpga/Vict/17-18/81/section/42), [44](https://www.legislation.gov.uk/ukpga/Vict/17-18/81/section/44) repealed by [Statute Law Revision Act 1875 (c. 66)](https://www.legislation.gov.uk/ukpga/1875/66)
 
@@ -238,4 +238,4 @@ Keepers of University Museums and Repositories of Art or Science.
 
 [^c561332]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/Vict/17-18/81/section/46) repealed by [Statute Law Revision Act 1875 (c. 66)](https://www.legislation.gov.uk/ukpga/1875/66)
 
-[^key-1b902953c8e8217066a97737ff790052]: Textual amendment: Words in s. 48 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-1b902953c8e8217066a97737ff790052]: Textual amendment: Words in s. 48 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)

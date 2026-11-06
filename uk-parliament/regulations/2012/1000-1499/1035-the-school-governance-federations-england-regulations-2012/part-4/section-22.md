@@ -34,8 +34,8 @@ summary: ''
 
 (7) The governing body of a federation comprising more than one category of school including at least one foundation, foundation special or voluntary aided school must also include at least two foundation governors (or partnership governors as appropriate in respect of any school without a foundation).
 
-(8)[^key-092956d52d0fad7737e12635b587bf00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-092956d52d0fad7737e12635b587bf00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-092956d52d0fad7737e12635b587bf00]: Textual amendment: [Reg. 22(8)](https://www.legislation.gov.uk/uksi/2012/1035/regulation/22/8) omitted (1.5.2017) by virtue of [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2017 (S.I. 2017/487)](https://www.legislation.gov.uk/uksi/2017/487), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/487/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2017/487/regulation/3/2)
+[^c-092956d52d0fad7737e12635b587bf00]: Textual amendment: [Reg. 22(8)](https://www.legislation.gov.uk/uksi/2012/1035/regulation/22/8) omitted (1.5.2017) by virtue of [The School Governance (Constitution and Federations) (England) (Amendment) Regulations 2017 (S.I. 2017/487)](https://www.legislation.gov.uk/uksi/2017/487), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/487/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2017/487/regulation/3/2)

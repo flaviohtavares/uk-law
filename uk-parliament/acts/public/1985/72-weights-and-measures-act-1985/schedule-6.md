@@ -46,7 +46,7 @@ being in either case the volume of the gas which would be produced from the fuel
 
 **4.** This Part of the Schedule applies to ready-mixed cement mortar and ready-mixed concrete.
 
-**5.** (1)[^key-a376db4b45a6830105f5e3852004ad21] Subject to the following provisions of this Part of this Schedule, any goods to which this Part of this Schedule applies—
+**5.** (1)[^c-a376db4b45a6830105f5e3852004ad21] Subject to the following provisions of this Part of this Schedule, any goods to which this Part of this Schedule applies—
 
 - (a) if made up in advance ready for retail sale or wholesale in a securely closed container, shall be sold only by volume, and
 - (b) if not so made up, shall be sold only by volume in a multiple of 0.1 cubic metre.
@@ -103,19 +103,19 @@ being in either case the volume of the gas which would be produced from the fuel
 
 **14.** Paragraphs 9 and 10 of Schedule 5 to this Act shall have effect as if any reference in those paragraphs to solid fuel included a reference to wood fuel.
 
-### Part V — COSMETIC PRODUCTS[^key-c9e5406f2743c4c04416448e7148f890]
+### Part V — COSMETIC PRODUCTS[^c-c9e5406f2743c4c04416448e7148f890]
 
 **No longer in force.**
 
-**15.**[^key-c9e5406f2743c4c04416448e7148f890] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-c9e5406f2743c4c04416448e7148f890] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-c9e5406f2743c4c04416448e7148f890] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-c9e5406f2743c4c04416448e7148f890] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part VI — Soap
 
-**16A.**[^c13371831] (1)[^key-8e12211dbf9654bf05c3ab06e341741c] In this Part of this Schedule “soap” does not include any soap which is a cosmetic product [^key-89ef2a081ddbc85e3e53612b0934aab3]....
+**16A.**[^c13371831] (1)[^c-8e12211dbf9654bf05c3ab06e341741c] In this Part of this Schedule “soap” does not include any soap which is a cosmetic product [^c-89ef2a081ddbc85e3e53612b0934aab3]....
 
-(2)[^key-9c360216bc7c3afbfb2811fcb7c03a28] “Cosmetic product” has the same meaning as in Regulation [(EC) 1223/2009](https://www.legislation.gov.uk/european/regulation/2009/1223) of the European Parliament and of the Council on cosmetic products (recast), as amended from time to time.
+(2)[^c-9c360216bc7c3afbfb2811fcb7c03a28] “Cosmetic product” has the same meaning as in Regulation [(EC) 1223/2009](https://www.legislation.gov.uk/european/regulation/2009/1223) of the European Parliament and of the Council on cosmetic products (recast), as amended from time to time.
 
 **17.** Subject to paragraph 18 below—
 
@@ -244,7 +244,7 @@ being in either case the volume of the gas which would be produced from the fuel
 
 [^c13371611]: Textual amendment: Words in Sch. 6 para. 3 substituted (1.10.1995) by [S.I. 1994/2866](https://www.legislation.gov.uk/uksi/1994/2866), [reg. 3(6)(b)](https://www.legislation.gov.uk/uksi/1994/2866/regulation/3/6/b)
 
-[^key-a376db4b45a6830105f5e3852004ad21]: Textual amendment: Sch. 6 para. 5(1) substituted (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/663/regulation/2/4)
+[^c-a376db4b45a6830105f5e3852004ad21]: Textual amendment: Sch. 6 para. 5(1) substituted (11.4.2009) by [The Weights and Measures (Specified Quantities) (Pre-packed Products) Regulations 2009 (S.I. 2009/663)](https://www.legislation.gov.uk/uksi/2009/663), [regs. 1](https://www.legislation.gov.uk/uksi/2009/663/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/663/regulation/2/4)
 
 [^c13371621]: Modification: S. 6 modified (1.3.1996) by [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44), [s. 36B](https://www.legislation.gov.uk/ukpga/1986/44/section/36B) (which was inserted (1.3.1996) by [1994 c. 45](https://www.legislation.gov.uk/ukpga/1994/45), [s. 10](https://www.legislation.gov.uk/ukpga/1994/45/section/10), [Sch. 3 para. 44](https://www.legislation.gov.uk/ukpga/1994/45/schedule/3/paragraph/44); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
@@ -256,15 +256,15 @@ being in either case the volume of the gas which would be produced from the fuel
 
 [^c13371731]: Textual amendment: Words in Sch. 6 para. 13 substituted (1.10.1995) by [S.I. 1994/2866](https://www.legislation.gov.uk/uksi/1994/2866), [reg. 3(6)(d)](https://www.legislation.gov.uk/uksi/1994/2866/regulation/3/6/d)
 
-[^key-c9e5406f2743c4c04416448e7148f890]: Textual amendment: Sch. 6 Pt. V repealed (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/3) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
+[^c-c9e5406f2743c4c04416448e7148f890]: Textual amendment: Sch. 6 Pt. V repealed (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/3) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
 
 [^c13371831]: Textual amendment: Sch. 6 para. 16A inserted (31.7.1994) by [S.I. 1994/1884](https://www.legislation.gov.uk/uksi/1994/1884), [art. 3](https://www.legislation.gov.uk/uksi/1994/1884/article/3)
 
-[^key-8e12211dbf9654bf05c3ab06e341741c]: Textual amendment: Sch. 6 para. 16A(1) renumbered (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 4(b)](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/4/b) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
+[^c-8e12211dbf9654bf05c3ab06e341741c]: Textual amendment: Sch. 6 para. 16A(1) renumbered (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 4(b)](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/4/b) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
 
-[^key-89ef2a081ddbc85e3e53612b0934aab3]: Textual amendment: Words in Sch. 6 para. 16A omitted (11.7.2013) by virtue of [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 4(a)](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/4/a) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
+[^c-89ef2a081ddbc85e3e53612b0934aab3]: Textual amendment: Words in Sch. 6 para. 16A omitted (11.7.2013) by virtue of [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 4(a)](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/4/a) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
 
-[^key-9c360216bc7c3afbfb2811fcb7c03a28]: Textual amendment: Sch. 6 para. 16A(2) inserted (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 4(c)](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/4/c) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
+[^c-9c360216bc7c3afbfb2811fcb7c03a28]: Textual amendment: Sch. 6 para. 16A(2) inserted (11.7.2013) by [The Cosmetic Products Enforcement Regulations 2013 (S.I. 2013/1478)](https://www.legislation.gov.uk/uksi/2013/1478), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/1/2), [Sch. 5 para. 4(c)](https://www.legislation.gov.uk/uksi/2013/1478/schedule/5/paragraph/4/c) (with [reg. 6(5)](https://www.legislation.gov.uk/uksi/2013/1478/regulation/6/5))
 
 [^c13371851]: Textual amendment: Words in Sch. 6 para. 18 substituted (1.10.1995) by [S.I. 1994/2866](https://www.legislation.gov.uk/uksi/1994/2866), [reg. 3(6)(e)](https://www.legislation.gov.uk/uksi/1994/2866/regulation/3/6/e)
 

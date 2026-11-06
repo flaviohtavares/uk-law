@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-8bccae3d5460d15d839dd72a13c3ab50] Where the owner of land in respect of which a tenant’s interest in acquiring land is registered under section 25 or a creditor in a standard security with a right to sell the land proposes to transfer the land or any part of it to another person, the owner or, as the case may be, the creditor must, subject to section 27—
+(1)[^c-8bccae3d5460d15d839dd72a13c3ab50] Where the owner of land in respect of which a tenant’s interest in acquiring land is registered under section 25 or a creditor in a standard security with a right to sell the land proposes to transfer the land or any part of it to another person, the owner or, as the case may be, the creditor must, subject to section 27—
 
 - (a) give notice in writing of that fact to the tenant; and
 - (b) send a copy of the notice to the Keeper.
 
-(2)[^key-c0c12eead2a168ec7f4e905c8ca6836e] Notice under subsection (1) must be given in accordance with such provisions (including provisions as to the form of the notice) as the Scottish Ministers may prescribe by regulations.
+(2)[^c-c0c12eead2a168ec7f4e905c8ca6836e] Notice under subsection (1) must be given in accordance with such provisions (including provisions as to the form of the notice) as the Scottish Ministers may prescribe by regulations.
 
 ## Annotations
 
-[^key-8bccae3d5460d15d839dd72a13c3ab50]: Commencement: S. 26(1) in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)
+[^c-8bccae3d5460d15d839dd72a13c3ab50]: Commencement: S. 26(1) in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)
 
-[^key-c0c12eead2a168ec7f4e905c8ca6836e]: Commencement: S. 26(2) in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(b)(ii)](https://www.legislation.gov.uk/ssi/2003/548/article/2/b/ii) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-c0c12eead2a168ec7f4e905c8ca6836e]: Commencement: S. 26(2) in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(b)(ii)](https://www.legislation.gov.uk/ssi/2003/548/article/2/b/ii) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

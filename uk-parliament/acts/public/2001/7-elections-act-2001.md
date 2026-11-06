@@ -160,9 +160,9 @@ In rule 23 after paragraph (2) insert—
 
 #### 4. Official poll cards
 
-In rule 28 after paragraph (3A)[^key-3955a733761ca00f561e386c34ac3e19] insert—
+In rule 28 after paragraph (3A)[^c-3955a733761ca00f561e386c34ac3e19] insert—
 
-> (3B)[^key-e4177278c86a893c75ad6fa8c50caa0f] An official poll card issued under this rule may be combined with an official poll card issued at a local election.
+> (3B)[^c-e4177278c86a893c75ad6fa8c50caa0f] An official poll card issued under this rule may be combined with an official poll card issued at a local election.
 
 #### 5. Equipment of polling stations
 
@@ -175,11 +175,11 @@ In rule 28 after paragraph (3A)[^key-3955a733761ca00f561e386c34ac3e19] insert—
 > (4A) The notice referred to in paragraph (4)—
 >
 > - (a) must clearly indicate the election to which it relates;
-> - (b) must be printed on paper of the same colour as the ballot papers (other than tendered ballot papers or tendered postal ballot papers[^key-dc6791e661490fe946ebc6544a35d375]) used at the election to which it relates.
+> - (b) must be printed on paper of the same colour as the ballot papers (other than tendered ballot papers or tendered postal ballot papers[^c-dc6791e661490fe946ebc6544a35d375]) used at the election to which it relates.
 
 (4) Omit paragraph (5).
 
-#### 6. Questions to be put to voters[^key-1c7d463169e503d883d089c5266bc41f]
+#### 6. Questions to be put to voters[^c-1c7d463169e503d883d089c5266bc41f]
 
 In rule 35, in the table after paragraph (1), after “this” insert “parliamentary”—
 
@@ -221,7 +221,7 @@ In rule 40 after paragraph (3) insert—
 >
 > (3B) If it is, an entry in the list must be taken to mean that the tendered ballot papers were marked in respect of each election unless the list identifies the election at which a tendered ballot paper was marked.
 
-#### 10A. Tendered postal ballot papers[^key-2a47d32c3532e513dfa62a3bd26a23b2]
+#### 10A. Tendered postal ballot papers[^c-2a47d32c3532e513dfa62a3bd26a23b2]
 
 In rule 40ZA after paragraph (10) insert—
 
@@ -281,7 +281,7 @@ After rule 46 insert—
 > - (c) the returning officer must seal up all of those ballot papers whether the votes on them have been counted or not;
 > - (d) it is not necessary to seal up counted and rejected ballot papers in separate packets.
 
-### Part 2 — Local Elections Rules[^key-77931118e3bd9c703229784201cde72f]
+### Part 2 — Local Elections Rules[^c-77931118e3bd9c703229784201cde72f]
 
 #### 14. Introduction
 
@@ -319,11 +319,11 @@ In rule 26 after paragraph (4) insert—
 > (4A) The notice referred to in paragraph (4)—
 >
 > - (a) must clearly indicate the election to which it relates;
-> - (b) must be printed on paper of the same colour as the ballot papers (other than tendered ballot papers or tendered postal ballot papers[^key-a21a04aa6ab21ce7285d81ac8c1a4b23]) used at the election to which it relates.
+> - (b) must be printed on paper of the same colour as the ballot papers (other than tendered ballot papers or tendered postal ballot papers[^c-a21a04aa6ab21ce7285d81ac8c1a4b23]) used at the election to which it relates.
 
 #### 20. Questions to be put to voters
 
-In rule 32 in question (ii) of each of paragraphs (1)(a) and (1)(b) and in in each of questions (a), (b) and (c) in paragraph (2)[^key-19605320f1de544eedfbd6174947fa3d] after “at this” insert “ local ”.
+In rule 32 in question (ii) of each of paragraphs (1)(a) and (1)(b) and in in each of questions (a), (b) and (c) in paragraph (2)[^c-19605320f1de544eedfbd6174947fa3d] after “at this” insert “ local ”.
 
 #### 21. Voting procedure
 
@@ -345,9 +345,9 @@ In rule 35 at the end insert—
 
 #### 23. Voting by persons with disabilities
 
-In rule 36 after paragraph (4A)[^key-0e002fa93d79ba287eb463a7d70010b6] insert—
+In rule 36 after paragraph (4A)[^c-0e002fa93d79ba287eb463a7d70010b6] insert—
 
-> (4B)[^key-fb683e3587b8a744c308fe7e40d5dbc7] The same list may be used for each election.
+> (4B)[^c-fb683e3587b8a744c308fe7e40d5dbc7] The same list may be used for each election.
 >
 > (4C) If it is, an entry in the list must be taken to mean that the votes were given in accordance with this rule in respect of each election unless the list identifies the election at which the vote was so given.
 
@@ -359,7 +359,7 @@ In rule 37 after paragraph (6) insert—
 >
 > (6B) If it is, an entry in the list must be taken to mean that the tendered ballot papers were marked in respect of each election unless the list identifies the election at which a tendered ballot paper was marked.
 
-#### 24A. Tendered postal ballot papers[^key-1a41b5439f0fb76bf59730a5e35ed5f1]
+#### 24A. Tendered postal ballot papers[^c-1a41b5439f0fb76bf59730a5e35ed5f1]
 
 In rule 37A after paragraph (10) insert—
 
@@ -406,13 +406,13 @@ After rule 53 insert—
 
 #### 28. Countermand or abandonment of poll on death of candidate
 
-(1)[^key-20d708c72489eb9204389d311207d395] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-20d708c72489eb9204389d311207d395] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) In rule 63 after paragraph (2)[^key-2cdbc8f6ae9f0fdd57db896ef6ff0fef] insert—
+(2) In rule 63 after paragraph (2)[^c-2cdbc8f6ae9f0fdd57db896ef6ff0fef] insert—
 
-> (2A)[^key-7cfc4dbaf0f44f459bcf02ee897f6d04] Neither the countermand of the poll at the local election nor the direction that that poll be abandoned affects the poll at the parliamentary election.
+> (2A)[^c-7cfc4dbaf0f44f459bcf02ee897f6d04] Neither the countermand of the poll at the local election nor the direction that that poll be abandoned affects the poll at the parliamentary election.
 
-(3) In rule 64, for paragraphs (2) to (6) substitute[^key-2c97ff6c78521141e3c584ef132b7796] substitute—
+(3) In rule 64, for paragraphs (2) to (6) substitute[^c-2c97ff6c78521141e3c584ef132b7796] substitute—
 
 > (2) If the poll at the local election is abandoned because of a candidate’s death—
 >
@@ -435,11 +435,11 @@ After rule 53 insert—
 
 (2) In the Appendix of Forms after Form 5 (declaration of identity) insert—
 
-> **Form 5A. Declaration of identity (combined polls)[^key-ec328ccbcf8dc4d6778f6f0cdec05739]**
+> **Form 5A. Declaration of identity (combined polls)[^c-ec328ccbcf8dc4d6778f6f0cdec05739]**
 >
 > [image: see source](https://www.legislation.gov.uk/ukpga/2001/7/images/ukpga_20010007_en_epp_003.gif)[image: see source](https://www.legislation.gov.uk/ukpga/2001/7/images/ukpga_20010007_en_epp_004.gif)
 
-### Part 3 — Postal Ballots[^key-286a9b3a560abbf88b229bf7e6d9606b]
+### Part 3 — Postal Ballots[^c-286a9b3a560abbf88b229bf7e6d9606b]
 
 #### 30. Parliamentary elections
 
@@ -544,36 +544,36 @@ After rule 53 insert—
 
 ## Annotations
 
-[^key-3955a733761ca00f561e386c34ac3e19]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/4) substituted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/9/2/a)
+[^c-3955a733761ca00f561e386c34ac3e19]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/4) substituted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/9/2/a)
 
-[^key-e4177278c86a893c75ad6fa8c50caa0f]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/4) substituted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2014/1116/article/9/2/b)
+[^c-e4177278c86a893c75ad6fa8c50caa0f]: Textual amendment: Word in [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/4) substituted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2014/1116/article/9/2/b)
 
-[^key-dc6791e661490fe946ebc6544a35d375]: Textual amendment: Words in [Sch. para. 5(3)](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/5/3) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2014/1116/article/9/3)
+[^c-dc6791e661490fe946ebc6544a35d375]: Textual amendment: Words in [Sch. para. 5(3)](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/5/3) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2014/1116/article/9/3)
 
-[^key-1c7d463169e503d883d089c5266bc41f]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/6) substituted (31.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 31(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/31/2); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(e)(ix)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/e/ix) (with [Sch. para. 6](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/6))
+[^c-1c7d463169e503d883d089c5266bc41f]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/6) substituted (31.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 31(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/31/2); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(e)(ix)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/e/ix) (with [Sch. para. 6](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/6))
 
-[^key-2a47d32c3532e513dfa62a3bd26a23b2]: Textual amendment: [Sch. para. 10A](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/10A) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2014/1116/article/9/4)
+[^c-2a47d32c3532e513dfa62a3bd26a23b2]: Textual amendment: [Sch. para. 10A](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/10A) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2014/1116/article/9/4)
 
-[^key-77931118e3bd9c703229784201cde72f]: Modification: Sch. 1 Pt. 2: power to modify conferred by 1985 c. 50, s. 15(5B)(a) (as substituted (15.9.2011) by [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 15(3)](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/15/3) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6)))
+[^c-77931118e3bd9c703229784201cde72f]: Modification: Sch. 1 Pt. 2: power to modify conferred by 1985 c. 50, s. 15(5B)(a) (as substituted (15.9.2011) by [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 15(3)](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/15/3) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6)))
 
-[^key-a21a04aa6ab21ce7285d81ac8c1a4b23]: Textual amendment: Words in [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/19) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2014/1116/article/9/5)
+[^c-a21a04aa6ab21ce7285d81ac8c1a4b23]: Textual amendment: Words in [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/19) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2014/1116/article/9/5)
 
-[^key-19605320f1de544eedfbd6174947fa3d]: Textual amendment: Words in [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/20) substituted (31.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 31(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/31/3); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(e)(ix)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/e/ix) (with [Sch. para. 6](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/6))
+[^c-19605320f1de544eedfbd6174947fa3d]: Textual amendment: Words in [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/20) substituted (31.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 6 para. 31(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/6/paragraph/31/3); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(e)(ix)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/e/ix) (with [Sch. para. 6](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/6))
 
-[^key-0e002fa93d79ba287eb463a7d70010b6]: Textual amendment: Words in Sch. para. 23 substituted (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2010/2977/article/6/2/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
+[^c-0e002fa93d79ba287eb463a7d70010b6]: Textual amendment: Words in Sch. para. 23 substituted (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2010/2977/article/6/2/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
 
-[^key-fb683e3587b8a744c308fe7e40d5dbc7]: Textual amendment: Words in Sch. para. 23 substituted (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2010/2977/article/6/2/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
+[^c-fb683e3587b8a744c308fe7e40d5dbc7]: Textual amendment: Words in Sch. para. 23 substituted (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2010/2977/article/6/2/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
 
-[^key-1a41b5439f0fb76bf59730a5e35ed5f1]: Textual amendment: [Sch. para. 24A](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/24A) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [9(6)](https://www.legislation.gov.uk/uksi/2014/1116/article/9/6)
+[^c-1a41b5439f0fb76bf59730a5e35ed5f1]: Textual amendment: [Sch. para. 24A](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/24A) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [9(6)](https://www.legislation.gov.uk/uksi/2014/1116/article/9/6)
 
-[^key-20d708c72489eb9204389d311207d395]: Textual amendment: Sch. para. 28(1) omitted (16.12.2010) by virtue of [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2010/2977/article/6/3/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
+[^c-20d708c72489eb9204389d311207d395]: Textual amendment: Sch. para. 28(1) omitted (16.12.2010) by virtue of [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2010/2977/article/6/3/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
 
-[^key-2cdbc8f6ae9f0fdd57db896ef6ff0fef]: Textual amendment: Words in Sch. para. 28(2) substituted (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [6(3)(b)(i)](https://www.legislation.gov.uk/uksi/2010/2977/article/6/3/b/i) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
+[^c-2cdbc8f6ae9f0fdd57db896ef6ff0fef]: Textual amendment: Words in Sch. para. 28(2) substituted (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [6(3)(b)(i)](https://www.legislation.gov.uk/uksi/2010/2977/article/6/3/b/i) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
 
-[^key-7cfc4dbaf0f44f459bcf02ee897f6d04]: Textual amendment: Word in Sch. para. 28(2) substituted (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [6(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2010/2977/article/6/3/b/ii) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
+[^c-7cfc4dbaf0f44f459bcf02ee897f6d04]: Textual amendment: Word in Sch. para. 28(2) substituted (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [6(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2010/2977/article/6/3/b/ii) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
 
-[^key-2c97ff6c78521141e3c584ef132b7796]: Textual amendment: Words in Sch. para. 28(3) substituted (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [6(3)(c)](https://www.legislation.gov.uk/uksi/2010/2977/article/6/3/c) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
+[^c-2c97ff6c78521141e3c584ef132b7796]: Textual amendment: Words in Sch. para. 28(3) substituted (16.12.2010) by [The Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/2/2), [6(3)(c)](https://www.legislation.gov.uk/uksi/2010/2977/article/6/3/c) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
 
-[^key-ec328ccbcf8dc4d6778f6f0cdec05739]: Textual amendment: [Sch. para. 29](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/29) Form 5A substituted (4.4.2024) by [The Local Elections (Northern Ireland) (Amendment) Order 2024 (S.I. 2024/382)](https://www.legislation.gov.uk/uksi/2024/382), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/382/article/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2024/382/schedule/5) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/382/article/1/3))
+[^c-ec328ccbcf8dc4d6778f6f0cdec05739]: Textual amendment: [Sch. para. 29](https://www.legislation.gov.uk/ukpga/2001/7/schedule/paragraph/29) Form 5A substituted (4.4.2024) by [The Local Elections (Northern Ireland) (Amendment) Order 2024 (S.I. 2024/382)](https://www.legislation.gov.uk/uksi/2024/382), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/382/article/1/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2024/382/schedule/5) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/382/article/1/3))
 
-[^key-286a9b3a560abbf88b229bf7e6d9606b]: Modification: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2001/7/schedule/1/part/3): power to modify conferred by 1985 c. 50, s. 15(5B)(a) (as substituted (15.9.2011) by [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 15(3)](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/15/3) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6)))
+[^c-286a9b3a560abbf88b229bf7e6d9606b]: Modification: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2001/7/schedule/1/part/3): power to modify conferred by 1985 c. 50, s. 15(5B)(a) (as substituted (15.9.2011) by [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 15(3)](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/15/3) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6)))

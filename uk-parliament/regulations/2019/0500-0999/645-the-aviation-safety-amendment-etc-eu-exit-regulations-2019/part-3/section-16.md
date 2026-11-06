@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Amendment of the title of Regulation [(EC) No 2111/2005](https://www.legislation.gov.uk/eur/2005/2111)[^key-47e07cadb8369f97d768538c188cf364]
+## 16. Amendment of the title of Regulation [(EC) No 2111/2005](https://www.legislation.gov.uk/eur/2005/2111)[^c-47e07cadb8369f97d768538c188cf364]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The title is amended as follows—
 
 ## Annotations
 
-[^key-47e07cadb8369f97d768538c188cf364]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-47e07cadb8369f97d768538c188cf364]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

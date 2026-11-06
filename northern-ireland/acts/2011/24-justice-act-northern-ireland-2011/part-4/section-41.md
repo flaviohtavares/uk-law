@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Banning orders: making on conviction[^key-4258eafaaa88e6249bc69f7040efd477]
+## 41. Banning orders: making on conviction[^c-4258eafaaa88e6249bc69f7040efd477]
 
 *Extent: N.I.*
 
@@ -59,4 +59,4 @@ it must make such an order in respect of the offender.
 
 ## Annotations
 
-[^key-4258eafaaa88e6249bc69f7040efd477]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2011/24/section/41) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(d)](https://www.legislation.gov.uk/nisr/2011/370/article/3/d)
+[^c-4258eafaaa88e6249bc69f7040efd477]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2011/24/section/41) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(d)](https://www.legislation.gov.uk/nisr/2011/370/article/3/d)

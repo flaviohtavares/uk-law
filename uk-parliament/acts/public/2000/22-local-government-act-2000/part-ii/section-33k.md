@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33K. Changes subject to approval in a referendum: additional requirements[^key-4746ad9faf156d7ab34c6e4f199518c5]
+## 33K. Changes subject to approval in a referendum: additional requirements[^c-4746ad9faf156d7ab34c6e4f199518c5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4746ad9faf156d7ab34c6e4f199518c5]: Textual amendment: S. 33K repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 46](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/46), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/c)[(ee)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-4746ad9faf156d7ab34c6e4f199518c5]: Textual amendment: S. 33K repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 46](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/46), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/c)[(ee)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

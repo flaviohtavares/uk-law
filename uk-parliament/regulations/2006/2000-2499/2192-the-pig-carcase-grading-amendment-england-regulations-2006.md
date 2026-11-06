@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Pig Carcase (Grading) (Amendment) (England) Regulations 2006 (revoked)[^key-6a58e3dfa70f674f50bf77c3c00ce57e]
+The Pig Carcase (Grading) (Amendment) (England) Regulations 2006 (revoked)[^c-6a58e3dfa70f674f50bf77c3c00ce57e]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 5th September 2006
 
-[^key-6a58e3dfa70f674f50bf77c3c00ce57e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a58e3dfa70f674f50bf77c3c00ce57e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-6a58e3dfa70f674f50bf77c3c00ce57e]
+## 1. Title, commencement and application[^c-6a58e3dfa70f674f50bf77c3c00ce57e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Pig Carcase (Grading) Regulations 1994[^key-6a58e3dfa70f674f50bf77c3c00ce57e]
+## 2. Amendments to the Pig Carcase (Grading) Regulations 1994[^c-6a58e3dfa70f674f50bf77c3c00ce57e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-6a58e3dfa70f674f50bf77c3c00ce57e]
+## 3. Revocations[^c-6a58e3dfa70f674f50bf77c3c00ce57e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6a58e3dfa70f674f50bf77c3c00ce57e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a58e3dfa70f674f50bf77c3c00ce57e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6a58e3dfa70f674f50bf77c3c00ce57e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a58e3dfa70f674f50bf77c3c00ce57e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6a58e3dfa70f674f50bf77c3c00ce57e]: Textual amendment: Regulations revoked (1.6.2010) by [The Beef and Pig Carcase Classification (England) Regulations 2010 (S.I. 2010/1090)](https://www.legislation.gov.uk/uksi/2010/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1090/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2010/1090/regulation/4/e)
+[^c-6a58e3dfa70f674f50bf77c3c00ce57e]: Textual amendment: Regulations revoked (1.6.2010) by [The Beef and Pig Carcase Classification (England) Regulations 2010 (S.I. 2010/1090)](https://www.legislation.gov.uk/uksi/2010/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1090/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2010/1090/regulation/4/e)

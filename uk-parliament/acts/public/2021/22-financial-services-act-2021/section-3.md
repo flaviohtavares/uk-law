@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Transfer of certain prudential regulation matters into PRA rules[^key-4a47e0630054c1074704867ddecf064a]
+## 3. Transfer of certain prudential regulation matters into PRA rules[^c-4a47e0630054c1074704867ddecf064a]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a47e0630054c1074704867ddecf064a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/22/section/3) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/a)
+[^c-4a47e0630054c1074704867ddecf064a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/22/section/3) in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/a)

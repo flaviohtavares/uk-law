@@ -50,19 +50,19 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — General
 
-### 1. Citation, commencement, extent and application[^key-7b5c9e9b9b01c54381c1900e17c064fa]
+### 1. Citation, commencement, extent and application[^c-7b5c9e9b9b01c54381c1900e17c064fa]
 
 These Regulations may be cited as the Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 and come into force on 7th April 2020.
 
-### 2.[^key-cfdac9aaa01be2f591f4f4bb25c0aecf]
+### 2.[^c-cfdac9aaa01be2f591f4f4bb25c0aecf]
 
 These Regulations extend to England and Wales.
 
-### 3.[^key-4b42ed989b800d244d3e2b8d3785014e]
+### 3.[^c-4b42ed989b800d244d3e2b8d3785014e]
 
 Regulations 5 to 9 and 11 to 14 apply to England only.
 
-### 4. Interpretation[^key-5f0837972d99e9b83111565b8a743c5b]
+### 4. Interpretation[^c-5f0837972d99e9b83111565b8a743c5b]
 
 In these Regulations—
 
@@ -78,7 +78,7 @@ In these Regulations—
 
 ## PART 2 — Postponement of by-elections
 
-### 5. By-elections of councillors of principal areas[^key-ea85d56a847e57936619b549823b955d][^key-2acd116cb01d3d098781ec060dbe7783][^key-588516cecafbb880464600d636912ad9][^key-79d8141274d3a65f6e8db5f2ca6ba918]
+### 5. By-elections of councillors of principal areas[^c-ea85d56a847e57936619b549823b955d][^c-2acd116cb01d3d098781ec060dbe7783][^c-588516cecafbb880464600d636912ad9][^c-79d8141274d3a65f6e8db5f2ca6ba918]
 
 (1) The poll for the election of a councillor to fill a casual vacancy in the office of councillor for any principal area in England that, pursuant to section 89(1) of the 1972 Act (filling of casual vacancies in case of councillors), would otherwise be held, or have been held, on a day during the relevant period is to be held instead on the ordinary day of election in 2021.
 
@@ -102,7 +102,7 @@ the vacancy in the office of councillor is to be filled at the poll at the ordin
   - (c) section 59 of the 2009 Act (implementation of review recommendations); and
   - (d) section 60(2) of the 2020 Act (postponement of elections due to be held on 7 May 2020).
 
-### 6. By-elections of parish councillors[^key-1b3ac5780faaef474773ad1f5f775e4d]
+### 6. By-elections of parish councillors[^c-1b3ac5780faaef474773ad1f5f775e4d]
 
 (1) The poll for the election of a councillor to fill a casual vacancy in the office of parish councillor that, pursuant to rule 5(3) of the Local Elections (Parishes and Communities) (England and Wales) Rules 2006 [^c24049611] (filling of casual vacancies) (“**the 2006 Rules**”), would otherwise be held, or have been held, on a day during the relevant period is to be held instead on the ordinary day of election in 2021.
 
@@ -123,7 +123,7 @@ the vacancy in the office of councillor is to be filled at the poll at the ordin
 - (b) sections 7, 10 and 53 (power of council to alter years of ordinary elections of parish councillors) of the 2007 Act; and
 - (c) section 60(2) of the 2020 Act.
 
-### 7. By-elections of directly elected local authority mayors[^key-e11bf794b655cdc0fbb8bcf41ce8bbbf]
+### 7. By-elections of directly elected local authority mayors[^c-e11bf794b655cdc0fbb8bcf41ce8bbbf]
 
 (1) The poll for an election to fill a casual vacancy in the office of an elected mayor that, pursuant to regulation 9(1) of the 2012 Regulations (filling of casual vacancies), would otherwise be held on a day during the relevant period is to be held instead on the ordinary day of election in 2021.
 
@@ -139,7 +139,7 @@ the vacancy is to be filled at the ordinary election on that day and a poll is n
 - “**the 2012 Regulations**” means the Local Authorities (Elected Mayors) (Elections, Terms of Office and Casual Vacancies) (England) Regulations 2012 [^c24049621];
 - “**elected mayor**” has the same meaning as in section 9H(1) of the 2000 Act (elected mayors, etc) [^c24049631].
 
-### 8. By-elections of combined authority mayors[^key-0b7763d05c7d5b15157e7ae1db186669]
+### 8. By-elections of combined authority mayors[^c-0b7763d05c7d5b15157e7ae1db186669]
 
 (1) The poll for an election to fill a vacancy in the office of a combined authority mayor that, pursuant to regulation 3(2) of the 2017 Order (filling of vacancies in the office of elected mayor), would otherwise be held on a day during the relevant period is to be held instead on the ordinary day of election in 2021.
 
@@ -155,7 +155,7 @@ the vacancy is to be filled at the ordinary election in 2021 and a poll is not t
 - “**the 2017 Order**” means the Combined Authorities (Mayors) (Filling of Vacancies) Order 2017 [^c24049651];
 - “**combined authority mayor**” means a mayor in relation to whose office an order has been made under section 107A(1) of the 2009 Act (power to provide for election of mayor) [^c24049661].
 
-### 9. By-elections to the Greater London Authority[^key-7231aba8d6f32aea275295dba438d7a1]
+### 9. By-elections to the Greater London Authority[^c-7231aba8d6f32aea275295dba438d7a1]
 
 (1) The poll for an election to fill a vacancy in the office of an Assembly member of the Greater London Authority returned for an Assembly constituency that, pursuant to section 10 of the 1999 Act (filling a vacancy in an Assembly constituency), would otherwise be held on a day during the relevant period is to be held instead on the ordinary day of election in 2021.
 
@@ -165,7 +165,7 @@ the vacancy is to be filled at the ordinary election in 2021 and a poll is not t
 
 (4) In this regulation “**the 1999 Act**” means the Greater London Authority Act 1999 [^c24049671].
 
-### 10. Police and crime commissioner by-elections[^key-4908efd276cef15e27ae1a7e6a7594bd]
+### 10. Police and crime commissioner by-elections[^c-4908efd276cef15e27ae1a7e6a7594bd]
 
 (1) The poll for an election to fill a vacancy in the office of police and crime commissioner for any police area in England and Wales [^c24049681] that, pursuant to section 51 of the 2011 Act (election to fill vacancy in office of commissioner), would otherwise be held on a day during the relevant period is to be held instead on the ordinary day of election in 2021.
 
@@ -177,19 +177,19 @@ the vacancy is to be filled at the ordinary election in 2021 and a poll is not t
 
 ## PART 3 — Postponement of local polls and referendums
 
-### 11. Local polls under the Local Government Act 2003[^key-407c84de69875f9b073c389adc86cdcf]
+### 11. Local polls under the Local Government Act 2003[^c-407c84de69875f9b073c389adc86cdcf]
 
 (1) Where a poll under section 116 of the Local Government Act 2003 [^c24049701] (local polls) (“**the 2003 Act**”) is to be conducted during the relevant period the poll is instead to be conducted on the ordinary day of election in 2021.
 
 (2) Paragraph (1) does not apply in relation to a poll that has been held, pursuant to section 116 of the 2003 Act, on a day during the antecedent period.
 
-### 12. Local authority governance change referendums[^key-6c50aca3618ace755dc90e927cdf4942]
+### 12. Local authority governance change referendums[^c-6c50aca3618ace755dc90e927cdf4942]
 
 (1) A referendum under section 9MB of the 2000 Act (requirement to hold and give effect to referendum) [^c24049711] that would otherwise be held, or have been held, during the relevant period is to be held instead on the ordinary day of election in 2021.
 
 (2) A referendum that, pursuant to regulation 16 of the 2011 Regulations (timing of referendum in consequence of valid petition), would otherwise be held, or have been held, during the relevant period is to be held instead on the ordinary day of election in 2021.
 
-(3)[^key-f823d4ca4830bc5d0631efd0ce61315c] Regulation 9 of the 2011 Regulations (validity of petitions) is to be read during the relevant period as if that period were to be disregarded for the purposes of calculating the period of 12 months mentioned in paragraph (5) of that regulation.
+(3)[^c-f823d4ca4830bc5d0631efd0ce61315c] Regulation 9 of the 2011 Regulations (validity of petitions) is to be read during the relevant period as if that period were to be disregarded for the purposes of calculating the period of 12 months mentioned in paragraph (5) of that regulation.
 
 (3A) Subject to paragraph (3B), for the purposes of the 2011 Regulations a petition presented to, or received by, a local authority on any day during the period beginning with 16th March 2020 and ending with 8th February 2021 is to be treated as having been presented or received on 9th February 2021.
 
@@ -199,7 +199,7 @@ the vacancy is to be filled at the ordinary election in 2021 and a poll is not t
 
 (5) In this regulation “**the 2011 Regulations**” means the Local Authorities (Referendums) (Petitions) (England) Regulations 2011 [^c24049721].
 
-### 13. Neighbourhood planning referendums[^key-4aaf462d80412e6fce420fab5a5cfd51]
+### 13. Neighbourhood planning referendums[^c-4aaf462d80412e6fce420fab5a5cfd51]
 
 (1) A referendum that, pursuant to regulation 2A of the Neighbourhood Planning (Referendums) Regulations 2012 [^c24049731] (date by which referendum must be held), would otherwise be held, or have been held, during the relevant period is to be held instead on the ordinary day of election in 2021.
 
@@ -207,7 +207,7 @@ the vacancy is to be filled at the ordinary election in 2021 and a poll is not t
 
 ## PART 4 — Supplementary provisions
 
-### 14. Supplementary provision: terms of office of councillors[^key-c93d32219c7f5915a6ec427719fc29e1]
+### 14. Supplementary provision: terms of office of councillors[^c-c93d32219c7f5915a6ec427719fc29e1]
 
 (1) This regulation applies if—
 
@@ -225,7 +225,7 @@ the vacancy is to be filled at the ordinary election in 2021 and a poll is not t
 - (b) sections 7 (implementation of proposals by order), 10 (implementation of recommendations by order), 32 (resolution for whole-council elections) and 53 (power of council to alter years of ordinary elections of parish councillors) of the 2007 Act; and
 - (c) section 59 of the 2009 Act (implementation of review recommendations).
 
-### 15. Disapplication of certain provisions relating to elections[^key-1e11b1590923094049099e23da54a5fe]
+### 15. Disapplication of certain provisions relating to elections[^c-1e11b1590923094049099e23da54a5fe]
 
 (1) This regulation applies in relation to the poll for a relevant election or relevant referendum if the poll—
 
@@ -282,13 +282,13 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c24049541]: Marginal citation: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-7b5c9e9b9b01c54381c1900e17c064fa]: Commencement: Reg. 1 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
+[^c-7b5c9e9b9b01c54381c1900e17c064fa]: Commencement: Reg. 1 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
 
-[^key-cfdac9aaa01be2f591f4f4bb25c0aecf]: Commencement: Reg. 2 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
+[^c-cfdac9aaa01be2f591f4f4bb25c0aecf]: Commencement: Reg. 2 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
 
-[^key-4b42ed989b800d244d3e2b8d3785014e]: Commencement: Reg. 3 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
+[^c-4b42ed989b800d244d3e2b8d3785014e]: Commencement: Reg. 3 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
 
-[^key-5f0837972d99e9b83111565b8a743c5b]: Commencement: Reg. 4 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
+[^c-5f0837972d99e9b83111565b8a743c5b]: Commencement: Reg. 4 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
 
 [^c24049551]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -300,27 +300,27 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c24049591]: Marginal citation: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20).
 
-[^key-ea85d56a847e57936619b549823b955d]: Commencement: Reg. 5 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
+[^c-ea85d56a847e57936619b549823b955d]: Commencement: Reg. 5 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
 
-[^key-2acd116cb01d3d098781ec060dbe7783]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/395/regulation/5) applied (with modifications) (18.3.2021) by [The Somerset (Change to Year of Election) Order 2021 (S.I. 2021/176)](https://www.legislation.gov.uk/uksi/2021/176), [arts. 1](https://www.legislation.gov.uk/uksi/2021/176/article/1), [5](https://www.legislation.gov.uk/uksi/2021/176/article/5)
+[^c-2acd116cb01d3d098781ec060dbe7783]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/395/regulation/5) applied (with modifications) (18.3.2021) by [The Somerset (Change to Year of Election) Order 2021 (S.I. 2021/176)](https://www.legislation.gov.uk/uksi/2021/176), [arts. 1](https://www.legislation.gov.uk/uksi/2021/176/article/1), [5](https://www.legislation.gov.uk/uksi/2021/176/article/5)
 
-[^key-588516cecafbb880464600d636912ad9]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/395/regulation/5) applied (with modifications) (18.3.2021) by [The North Yorkshire (Changes to Years of Elections) Order 2021 (S.I. 2021/175)](https://www.legislation.gov.uk/uksi/2021/175), [arts. 1](https://www.legislation.gov.uk/uksi/2021/175/article/1), [5](https://www.legislation.gov.uk/uksi/2021/175/article/5)
+[^c-588516cecafbb880464600d636912ad9]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/395/regulation/5) applied (with modifications) (18.3.2021) by [The North Yorkshire (Changes to Years of Elections) Order 2021 (S.I. 2021/175)](https://www.legislation.gov.uk/uksi/2021/175), [arts. 1](https://www.legislation.gov.uk/uksi/2021/175/article/1), [5](https://www.legislation.gov.uk/uksi/2021/175/article/5)
 
-[^key-79d8141274d3a65f6e8db5f2ca6ba918]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/395/regulation/5) applied (with modifications) (18.3.2021) by [The Cumbria (Changes to Years of Elections) Order 2021 (S.I. 2021/174)](https://www.legislation.gov.uk/uksi/2021/174), [arts. 1](https://www.legislation.gov.uk/uksi/2021/174/article/1), [5](https://www.legislation.gov.uk/uksi/2021/174/article/5)
+[^c-79d8141274d3a65f6e8db5f2ca6ba918]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/395/regulation/5) applied (with modifications) (18.3.2021) by [The Cumbria (Changes to Years of Elections) Order 2021 (S.I. 2021/174)](https://www.legislation.gov.uk/uksi/2021/174), [arts. 1](https://www.legislation.gov.uk/uksi/2021/174/article/1), [5](https://www.legislation.gov.uk/uksi/2021/174/article/5)
 
 [^c24049601]: Marginal citation: [Section 17](https://www.legislation.gov.uk/uksi/2020/395/section/17) was repealed by Part 3 of Schedule 7 to the [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20) but the effect of orders made under that section has been saved by section 146(2) of that Act.
 
-[^key-1b3ac5780faaef474773ad1f5f775e4d]: Commencement: Reg. 6 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
+[^c-1b3ac5780faaef474773ad1f5f775e4d]: Commencement: Reg. 6 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
 
 [^c24049611]: Marginal citation: [S.I. 2006/3305](https://www.legislation.gov.uk/uksi/2006/3305).
 
-[^key-e11bf794b655cdc0fbb8bcf41ce8bbbf]: Commencement: Reg. 7 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
+[^c-e11bf794b655cdc0fbb8bcf41ce8bbbf]: Commencement: Reg. 7 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
 
 [^c24049621]: Marginal citation: [S.I. 2012/336](https://www.legislation.gov.uk/uksi/2012/336).
 
 [^c24049631]: Marginal citation: [Section 9H](https://www.legislation.gov.uk/uksi/2020/395/section/9H) was inserted by paragraph 1 of Part 1 to Schedule 2 to the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-0b7763d05c7d5b15157e7ae1db186669]: Commencement: Reg. 8 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
+[^c-0b7763d05c7d5b15157e7ae1db186669]: Commencement: Reg. 8 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
 
 [^c24049641]: Marginal citation: [Schedule 5B](https://www.legislation.gov.uk/uksi/2020/395/schedule/5B) was inserted by Schedule 1 to the [Cities and Local Government Devolution Act 2016 (c.1)](https://www.legislation.gov.uk/ukpga/2016/1).
 
@@ -328,35 +328,35 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c24049661]: Marginal citation: [Section 107A](https://www.legislation.gov.uk/uksi/2020/395/section/107A) was inserted by section 2(1) of the [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1).
 
-[^key-7231aba8d6f32aea275295dba438d7a1]: Commencement: Reg. 9 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
+[^c-7231aba8d6f32aea275295dba438d7a1]: Commencement: Reg. 9 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
 
 [^c24049671]: Marginal citation: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
 
-[^key-4908efd276cef15e27ae1a7e6a7594bd]: Commencement: Reg. 10 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
+[^c-4908efd276cef15e27ae1a7e6a7594bd]: Commencement: Reg. 10 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
 
 [^c24049681]: Marginal citation: [Section 1](https://www.legislation.gov.uk/uksi/2020/395/section/1) of the [Police Act 1996 (c. 16)](https://www.legislation.gov.uk/ukpga/1996/16) makes provision for England and Wales to be divided into police areas.
 
 [^c24049691]: Marginal citation: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
 
-[^key-407c84de69875f9b073c389adc86cdcf]: Commencement: Reg. 11 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
+[^c-407c84de69875f9b073c389adc86cdcf]: Commencement: Reg. 11 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
 
 [^c24049701]: Marginal citation: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26).
 
-[^key-6c50aca3618ace755dc90e927cdf4942]: Commencement: Reg. 12 in force at 7.4.2020, see reg. 1
+[^c-6c50aca3618ace755dc90e927cdf4942]: Commencement: Reg. 12 in force at 7.4.2020, see reg. 1
 
 [^c24049711]: Marginal citation: Sections 9MB and 9MC were inserted by section 21 of, and Schedule 2 to, the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-f823d4ca4830bc5d0631efd0ce61315c]: Textual amendment: Reg. 12(3)-(3B) substituted for reg. 12(3) (9.2.2021) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) (Amendment) (England) Regulations 2021 (S.I. 2021/52)](https://www.legislation.gov.uk/uksi/2021/52), [regs. 1](https://www.legislation.gov.uk/uksi/2021/52/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/52/regulation/3)
+[^c-f823d4ca4830bc5d0631efd0ce61315c]: Textual amendment: Reg. 12(3)-(3B) substituted for reg. 12(3) (9.2.2021) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) (Amendment) (England) Regulations 2021 (S.I. 2021/52)](https://www.legislation.gov.uk/uksi/2021/52), [regs. 1](https://www.legislation.gov.uk/uksi/2021/52/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/52/regulation/3)
 
 [^c24049721]: Marginal citation: [S.I. 2011/2914](https://www.legislation.gov.uk/uksi/2011/2914).
 
-[^key-4aaf462d80412e6fce420fab5a5cfd51]: Commencement: Reg. 13 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
+[^c-4aaf462d80412e6fce420fab5a5cfd51]: Commencement: Reg. 13 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
 
 [^c24049731]: Marginal citation: [S.I. 2012/2031](https://www.legislation.gov.uk/uksi/2012/2031) amended by [S.I. 2016/934](https://www.legislation.gov.uk/uksi/2016/934).
 
-[^key-c93d32219c7f5915a6ec427719fc29e1]: Commencement: Reg. 14 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
+[^c-c93d32219c7f5915a6ec427719fc29e1]: Commencement: Reg. 14 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
 
-[^key-1e11b1590923094049099e23da54a5fe]: Commencement: Reg. 15 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
+[^c-1e11b1590923094049099e23da54a5fe]: Commencement: Reg. 15 in force at 7.4.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1)
 
 [^c24049741]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). Section 39 has been amended by section 19 of the [Representation of the People Act 1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50) and by section 17 of, and Schedule 3 to, the Greater London Authority Act 1999,
 

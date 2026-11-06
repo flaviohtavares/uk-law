@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Paragraph 1(1)(d) of Schedule 1 to the [^c14527471]Administration of Justice Act 1956 (Admiralty jurisdiction in claims for damage done by ships) shall be construed as extending to any claim in respect of a liability falling on the Fund or the Supplementary Fund[^key-04f8d83cc71b1ce79e33a862394e9e33] under this Chapter; and the Admiralty jurisdiction of the Court of Session shall extend to any case arising out of any such claim.
+(1) Paragraph 1(1)(d) of Schedule 1 to the [^c14527471]Administration of Justice Act 1956 (Admiralty jurisdiction in claims for damage done by ships) shall be construed as extending to any claim in respect of a liability falling on the Fund or the Supplementary Fund[^c-04f8d83cc71b1ce79e33a862394e9e33] under this Chapter; and the Admiralty jurisdiction of the Court of Session shall extend to any case arising out of any such claim.
 
-(2) Where in accordance with rules of court made for the purposes of this subsection the Fund has been given notice of proceedings brought against an owner or guarantor in respect of liability under section 153[^key-ad1d2554e3c9207cdb48c84c6be7b485]...
+(2) Where in accordance with rules of court made for the purposes of this subsection the Fund has been given notice of proceedings brought against an owner or guarantor in respect of liability under section 153[^c-ad1d2554e3c9207cdb48c84c6be7b485]...
 
 - (a) the notice shall be deemed to have been given to the Supplementary Fund as well; and
 - (b) any judgment given in the proceedings shall, after it has become final and enforceable, become binding on the Fund and the Supplementary Fund in the sense that the facts and evidence in the judgment may not be disputed by the Fund or the Supplementary Fund even if it has not intervened in the proceedings
 
 (3) Where a person incurs a liability under the law of a Fund Convention country corresponding to Chapter III of this Part for damage which is partly in the territory of the United Kingdom, subsection (2) above shall, for the purpose of proceedings under this Chapter, apply with any necessary modifications to a judgment in proceedings under that law of the said country.
 
-(4)[^key-9e0bbbc3c3cdfe2182cca6f84b4fcaa0] Subject to subsections (5) and (6), Part 1 of the Foreign Judgments (Reciprocal Enforcement) Act 1933 shall apply, whether or not it would so apply apart from this subsection, to—
+(4)[^c-9e0bbbc3c3cdfe2182cca6f84b4fcaa0] Subject to subsections (5) and (6), Part 1 of the Foreign Judgments (Reciprocal Enforcement) Act 1933 shall apply, whether or not it would so apply apart from this subsection, to—
 
 - (a) any judgment given by a court in a Fund Convention country to enforce a claim in respect of liability incurred under any provision corresponding to section 175; and
 - (b) any judgment given by a court in a Supplementary Fund Protocol country to enforce a claim in respect of liability incurred under any provision corresponding to section 176A,
@@ -77,8 +77,8 @@ and in its application to such a judgment the said Part 1 shall have effect with
 
 [^c14527471]: Marginal citation: [1956 c. 46](https://www.legislation.gov.uk/ukpga/1956/46).
 
-[^key-04f8d83cc71b1ce79e33a862394e9e33]: Textual amendment: Words in s. 177(1) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/7/2)
+[^c-04f8d83cc71b1ce79e33a862394e9e33]: Textual amendment: Words in s. 177(1) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/7/2)
 
-[^key-ad1d2554e3c9207cdb48c84c6be7b485]: Textual amendment: Words in s. 177(2) substituted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2006/1265/article/7/3)
+[^c-ad1d2554e3c9207cdb48c84c6be7b485]: Textual amendment: Words in s. 177(2) substituted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2006/1265/article/7/3)
 
-[^key-9e0bbbc3c3cdfe2182cca6f84b4fcaa0]: Textual amendment: S. 177(4)-(6) substituted for s. 177(4)(5) (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2006/1265/article/7/4)
+[^c-9e0bbbc3c3cdfe2182cca6f84b4fcaa0]: Textual amendment: S. 177(4)-(6) substituted for s. 177(4)(5) (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2006/1265/article/7/4)

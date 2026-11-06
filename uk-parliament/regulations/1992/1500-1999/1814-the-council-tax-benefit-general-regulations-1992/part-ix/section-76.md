@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 76. Provisions common to regulations 74 and 75[^key-d9e60f4e2ca25c5872da77f1a2b1cf23]
+## 76. Provisions common to regulations 74 and 75[^c-d9e60f4e2ca25c5872da77f1a2b1cf23]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9e60f4e2ca25c5872da77f1a2b1cf23]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/1992/1814/regulation/76) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-d9e60f4e2ca25c5872da77f1a2b1cf23]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/1992/1814/regulation/76) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 268. “Core fuel sector activity” and other key concepts[^key-f901be29bd877e46c0c1de55990d7196][^key-f5e2b6fdcf4e70769be2c3c6a1a2d263]
+## 268. “Core fuel sector activity” and other key concepts[^c-f901be29bd877e46c0c1de55990d7196][^c-f5e2b6fdcf4e70769be2c3c6a1a2d263]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,6 +85,6 @@ disruptions to core fuel sector activities.
 
 ## Annotations
 
-[^key-f901be29bd877e46c0c1de55990d7196]: Commencement: S. 268 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-f901be29bd877e46c0c1de55990d7196]: Commencement: S. 268 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-f5e2b6fdcf4e70769be2c3c6a1a2d263]: Commencement: [S. 268](https://www.legislation.gov.uk/ukpga/2023/52/section/268) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/i)
+[^c-f5e2b6fdcf4e70769be2c3c6a1a2d263]: Commencement: [S. 268](https://www.legislation.gov.uk/ukpga/2023/52/section/268) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/i)

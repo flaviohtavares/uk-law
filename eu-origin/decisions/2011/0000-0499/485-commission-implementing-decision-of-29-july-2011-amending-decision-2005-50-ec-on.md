@@ -39,14 +39,14 @@ amending Decision 2005/50/EC on the harmonisation of the 24 GHz range radio spe
 
 (2011/485/EU) (revoked)
 
-[^key-f715d481e07e3c11d6614606c20f8938]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f715d481e07e3c11d6614606c20f8938]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f715d481e07e3c11d6614606c20f8938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f715d481e07e3c11d6614606c20f8938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f715d481e07e3c11d6614606c20f8938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f715d481e07e3c11d6614606c20f8938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f715d481e07e3c11d6614606c20f8938]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f715d481e07e3c11d6614606c20f8938]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f715d481e07e3c11d6614606c20f8938]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f715d481e07e3c11d6614606c20f8938]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Failure to comply with a notice[^key-fb4cc31246ae14ba0dd01cf65227d6aa]
+## 31. Failure to comply with a notice[^c-fb4cc31246ae14ba0dd01cf65227d6aa]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb4cc31246ae14ba0dd01cf65227d6aa]: Commencement: Reg. 31 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-fb4cc31246ae14ba0dd01cf65227d6aa]: Commencement: Reg. 31 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Amendment of regulation 19[^key-211eaebc5e24827498f58813130ecd72]
+## 118. Amendment of regulation 19[^c-211eaebc5e24827498f58813130ecd72]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation 19 (offset for crime, negligence or fraud), for â€œT5 of the 1995â
 
 ## Annotations
 
-[^key-211eaebc5e24827498f58813130ecd72]: Commencement: [Reg. 118](https://www.legislation.gov.uk/ssi/2011/364/regulation/118) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-211eaebc5e24827498f58813130ecd72]: Commencement: [Reg. 118](https://www.legislation.gov.uk/ssi/2011/364/regulation/118) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

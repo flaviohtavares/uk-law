@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Amendment of regulation 104[^key-d360fa07356ab953776c0002ff697be7]
+## 47. Amendment of regulation 104[^c-d360fa07356ab953776c0002ff697be7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In regulation 104—
 
 ## Annotations
 
-[^key-d360fa07356ab953776c0002ff697be7]: Commencement: Reg. 47 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-d360fa07356ab953776c0002ff697be7]: Commencement: Reg. 47 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

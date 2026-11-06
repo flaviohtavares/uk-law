@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Inspector’s report[^key-64d55942826148a80a62a2acec4e2d2e]
+## 12. Inspector’s report[^c-64d55942826148a80a62a2acec4e2d2e]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64d55942826148a80a62a2acec4e2d2e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2021/84/regulation/12) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-64d55942826148a80a62a2acec4e2d2e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2021/84/regulation/12) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

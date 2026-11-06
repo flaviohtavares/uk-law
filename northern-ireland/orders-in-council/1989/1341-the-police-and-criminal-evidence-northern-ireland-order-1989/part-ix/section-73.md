@@ -23,7 +23,7 @@ summary: ''
 (1) Where evidence that a person has been convicted of an offence is admissible by virtue of Article 72, then without prejudice to the reception of any other admissible evidence for the purpose of identifying the facts on which the conviction was based—
 
 - (a) the contents of any document which is admissible as evidence of the conviction; and
-- (b)[^key-0a7b2076ee0c332caa4e517b0f5318f5] the contents of the complaint, indictment or charge-sheet on which the person in question was convicted,
+- (b)[^c-0a7b2076ee0c332caa4e517b0f5318f5] the contents of the complaint, indictment or charge-sheet on which the person in question was convicted,
 
 shall be admissible in evidence for that purpose.
 
@@ -43,7 +43,7 @@ shall affect the operation of Article 72; and for the purposes of that Article a
 
 ## Annotations
 
-[^key-0a7b2076ee0c332caa4e517b0f5318f5]: Textual amendment: [Art. 73(1)(b)](https://www.legislation.gov.uk/nisi/1989/1341/article/73/1/b) substituted (31.12.2020) by [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [28(4)](https://www.legislation.gov.uk/uksi/2019/780/regulation/28/4) (with [reg. 31](https://www.legislation.gov.uk/uksi/2019/780/regulation/31)) (as amended by [S.I. 2020/1520](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1520/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0a7b2076ee0c332caa4e517b0f5318f5]: Textual amendment: [Art. 73(1)(b)](https://www.legislation.gov.uk/nisi/1989/1341/article/73/1/b) substituted (31.12.2020) by [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [28(4)](https://www.legislation.gov.uk/uksi/2019/780/regulation/28/4) (with [reg. 31](https://www.legislation.gov.uk/uksi/2019/780/regulation/31)) (as amended by [S.I. 2020/1520](https://www.legislation.gov.uk/uksi/2020/1520), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1520/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1520/regulation/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19408151]: Textual amendment: Art. 73(3)(aa) inserted (28.3.2009 for certain purposes otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 120](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/120); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The amount of the BLAGAB tax credit[^key-29e1606c1cb8cad8d830f0d2f783ebc1] to which a company is entitled for an accounting period is 16% of the amount of the qualifying BLAGAB loss[^key-752aefde9db0d1f3b263f7555930561d] for the period.
+(1) The amount of the BLAGAB tax credit[^c-29e1606c1cb8cad8d830f0d2f783ebc1] to which a company is entitled for an accounting period is 16% of the amount of the qualifying BLAGAB loss[^c-752aefde9db0d1f3b263f7555930561d] for the period.
 
 (2) The Treasury may by order replace the percentage for the time being specified in subsection (1) with a different percentage.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29e1606c1cb8cad8d830f0d2f783ebc1]: Textual amendment: Words in s. 1166(1) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 203(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/203/a)
+[^c-29e1606c1cb8cad8d830f0d2f783ebc1]: Textual amendment: Words in s. 1166(1) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 203(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/203/a)
 
-[^key-752aefde9db0d1f3b263f7555930561d]: Textual amendment: Words in s. 1166(1) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 203(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/203/b)
+[^c-752aefde9db0d1f3b263f7555930561d]: Textual amendment: Words in s. 1166(1) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 203(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/203/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Certificate under section 115(2): responsible medical officer’s duty to revoke[^key-1b6f084ce71f60a033ce7fd06bc060fb]
+## 118. Certificate under section 115(2): responsible medical officer’s duty to revoke[^c-1b6f084ce71f60a033ce7fd06bc060fb]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ the responsible medical officer shall revoke the certificate.
 
 ## Annotations
 
-[^key-1b6f084ce71f60a033ce7fd06bc060fb]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2003/13/section/118) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-1b6f084ce71f60a033ce7fd06bc060fb]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2003/13/section/118) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

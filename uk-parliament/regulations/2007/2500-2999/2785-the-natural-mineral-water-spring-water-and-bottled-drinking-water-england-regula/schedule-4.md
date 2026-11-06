@@ -28,13 +28,13 @@ Regulations 4(2)(b), 5(1)(c) and (2),7(3), 9(2)(b), 10(1)(b) and (3) and16(1)(a)
 
 **3.** The catchment, pipes and reservoirs must be of materials suitable for water and so built as to prevent any chemical, physico-chemical or microbiological alteration of the water.
 
-**4.**[^key-660aef04f49b50a56261671a433fe7ae] The conditions of exploitation, particularly the washing and bottling equipment, must meet hygiene requirements. In particular, the containers must be so treated or manufactured as to avoid adverse effects on the microbiological and chemical characteristics of the water.
+**4.**[^c-660aef04f49b50a56261671a433fe7ae] The conditions of exploitation, particularly the washing and bottling equipment, must meet hygiene requirements. In particular, the containers must be so treated or manufactured as to avoid adverse effects on the microbiological and chemical characteristics of the water.
 
 **5.** (1) Subject to sub-paragraphs (2) and (3), water must not be transported in containers other than those authorised for distribution to the ultimate consumer.
 
 (2) Natural mineral water may be transported from the spring to the bottling plant in a container which is not for distribution to the ultimate consumer if on or before 17<sup>th</sup> July 1980 water from that spring was so transported.
 
-(3)[^key-a3ec1d17f585a738f5e748906724538e] Water distributed to the ultimate consumer in a bottle marked or labelled with the description “spring water” may be transported from the spring to the bottling plant in a container which is not for distribution to the ultimate consumer if, on or before 13th December 1996, water from that spring was so transported.
+(3)[^c-a3ec1d17f585a738f5e748906724538e] Water distributed to the ultimate consumer in a bottle marked or labelled with the description “spring water” may be transported from the spring to the bottling plant in a container which is not for distribution to the ultimate consumer if, on or before 13th December 1996, water from that spring was so transported.
 
 **6.** (1) The revivable total colony count of the water at source, determined according to sub-paragraph (2), shall conform to the normal viable colony count of that water and shall not show that the source of that water is contaminated.
 
@@ -50,7 +50,7 @@ Regulations 4(2)(b), 5(1)(c) and (2),7(3), 9(2)(b), 10(1)(b) and (3) and16(1)(a)
 
 (2) The total colony count shall be measured within the period of 12 hours following bottling, the water being maintained at 4<sup> o</sup>C +/- 1<sup> o</sup>C during the period before which it is measured.
 
-**8.**[^key-9cbe3c06c5d43d3b27a8a41d238a559d] Both at source and during its marketing, water shall be free from—
+**8.**[^c-9cbe3c06c5d43d3b27a8a41d238a559d] Both at source and during its marketing, water shall be free from—
 
 - (a) parasites and pathogenic micro-organisms;
 - (b) *Escherichia coli* and other coliforms and faecal streptococci in any 250 ml sample examined;
@@ -59,8 +59,8 @@ Regulations 4(2)(b), 5(1)(c) and (2),7(3), 9(2)(b), 10(1)(b) and (3) and16(1)(a)
 
 ## Annotations
 
-[^key-660aef04f49b50a56261671a433fe7ae]: Textual amendment: Sch. 4 para. 4 substituted (16.7.2009) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2009 (S.I. 2009/1598)](https://www.legislation.gov.uk/uksi/2009/1598), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1598/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2009/1598/regulation/8/a)
+[^c-660aef04f49b50a56261671a433fe7ae]: Textual amendment: Sch. 4 para. 4 substituted (16.7.2009) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2009 (S.I. 2009/1598)](https://www.legislation.gov.uk/uksi/2009/1598), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1598/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2009/1598/regulation/8/a)
 
-[^key-a3ec1d17f585a738f5e748906724538e]: Textual amendment: Sch. 4 para. 5(3) substituted (16.7.2009) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2009 (S.I. 2009/1598)](https://www.legislation.gov.uk/uksi/2009/1598), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1598/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2009/1598/regulation/8/b)
+[^c-a3ec1d17f585a738f5e748906724538e]: Textual amendment: Sch. 4 para. 5(3) substituted (16.7.2009) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2009 (S.I. 2009/1598)](https://www.legislation.gov.uk/uksi/2009/1598), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1598/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2009/1598/regulation/8/b)
 
-[^key-9cbe3c06c5d43d3b27a8a41d238a559d]: Textual amendment: Sch. 4 para. 8 substituted (16.7.2009) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2009 (S.I. 2009/1598)](https://www.legislation.gov.uk/uksi/2009/1598), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1598/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2009/1598/regulation/8/c)
+[^c-9cbe3c06c5d43d3b27a8a41d238a559d]: Textual amendment: Sch. 4 para. 8 substituted (16.7.2009) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2009 (S.I. 2009/1598)](https://www.legislation.gov.uk/uksi/2009/1598), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1598/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2009/1598/regulation/8/c)

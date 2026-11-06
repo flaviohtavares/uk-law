@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Pension Schemes Act 2015 (Transitional Provisions and Appropriate Independent Advice) (Amendment No. 2) Regulations (Northern Ireland) 2018 (revoked)[^key-7034af703811eb209581f0c064dfae85]
+The Pension Schemes Act 2015 (Transitional Provisions and Appropriate Independent Advice) (Amendment No. 2) Regulations (Northern Ireland) 2018 (revoked)[^c-7034af703811eb209581f0c064dfae85]
 
 Made
 
@@ -42,40 +42,40 @@ Coming into operation
 
 6th April 2018
 
-[^key-7034af703811eb209581f0c064dfae85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7034af703811eb209581f0c064dfae85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-7034af703811eb209581f0c064dfae85]
+## 1. Citation, commencement and interpretation[^c-7034af703811eb209581f0c064dfae85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Advice Regulations[^key-7034af703811eb209581f0c064dfae85]
+## 2. Amendment of the Advice Regulations[^c-7034af703811eb209581f0c064dfae85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 1[^key-7034af703811eb209581f0c064dfae85]
+## 3. Amendment of regulation 1[^c-7034af703811eb209581f0c064dfae85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Substitution of regulation 5[^key-7034af703811eb209581f0c064dfae85]
+## 4. Substitution of regulation 5[^c-7034af703811eb209581f0c064dfae85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 8[^key-7034af703811eb209581f0c064dfae85]
+## 5. Amendment of regulation 8[^c-7034af703811eb209581f0c064dfae85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional provision[^key-7034af703811eb209581f0c064dfae85]
+## 6. Transitional provision[^c-7034af703811eb209581f0c064dfae85]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7034af703811eb209581f0c064dfae85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7034af703811eb209581f0c064dfae85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7034af703811eb209581f0c064dfae85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7034af703811eb209581f0c064dfae85]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7034af703811eb209581f0c064dfae85]: Textual amendment: Regulations revoked (4.10.2018) by [The Pension Schemes Act 2015 (Transitional Provisions and Appropriate Independent Advice) (Amendment No. 3) Regulations (Northern Ireland) 2018 (S.R. 2018/170)](https://www.legislation.gov.uk/nisr/2018/170), [regs. 1](https://www.legislation.gov.uk/nisr/2018/170/regulation/1), [6](https://www.legislation.gov.uk/nisr/2018/170/regulation/6)
+[^c-7034af703811eb209581f0c064dfae85]: Textual amendment: Regulations revoked (4.10.2018) by [The Pension Schemes Act 2015 (Transitional Provisions and Appropriate Independent Advice) (Amendment No. 3) Regulations (Northern Ireland) 2018 (S.R. 2018/170)](https://www.legislation.gov.uk/nisr/2018/170), [regs. 1](https://www.legislation.gov.uk/nisr/2018/170/regulation/1), [6](https://www.legislation.gov.uk/nisr/2018/170/regulation/6)

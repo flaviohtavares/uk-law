@@ -36,7 +36,7 @@ DEVOLUTION, WALES
 
 REPRESENTATION OF THE PEOPLE
 
-The National Assembly for Wales (Representation of the People) Order 2007 (revoked)[^key-04a11dd6ab6be98400f828f4fd81136c]
+The National Assembly for Wales (Representation of the People) Order 2007 (revoked)[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 Made
 
@@ -44,11 +44,11 @@ Made
 
 Coming into force in accordance with article 1(1)
 
-[^key-04a11dd6ab6be98400f828f4fd81136c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-04a11dd6ab6be98400f828f4fd81136c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-04a11dd6ab6be98400f828f4fd81136c]
+### PART 1 — General[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,7 +57,7 @@ Coming into force in accordance with article 1(1)
 - [Section 1 — Citation, commencement and revocation](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — Assembly franchise and its exercise[^key-04a11dd6ab6be98400f828f4fd81136c]
+### PART 2 — Assembly franchise and its exercise[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,7 +100,7 @@ Coming into force in accordance with article 1(1)
 - [Section 35 — Requirement of secrecy](part-2/section-35.md)
 - [Section 36 — Prohibition on publication of exit polls](part-2/section-36.md)
 
-### PART 3 — The election campaign[^key-04a11dd6ab6be98400f828f4fd81136c]
+### PART 3 — The election campaign[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 *Extent: E+W+S+N.I.*
 
@@ -156,7 +156,7 @@ Coming into force in accordance with article 1(1)
 - [Section 84 — Interpretation of Part 3](part-3/section-84.md)
 - [Section 85 — Computation of time for purposes of Part 3](part-3/section-85.md)
 
-### PART 4 — Legal proceedings[^key-04a11dd6ab6be98400f828f4fd81136c]
+### PART 4 — Legal proceedings[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 *Extent: E+W+S+N.I.*
 
@@ -216,7 +216,7 @@ Coming into force in accordance with article 1(1)
 - [Section 137 — Interpretation of Part 4](part-4/section-137.md)
 - [Section 138 — Computation of time for purposes of Part 4](part-4/section-138.md)
 
-### PART 5 — Miscellaneous and supplemental[^key-04a11dd6ab6be98400f828f4fd81136c]
+### PART 5 — Miscellaneous and supplemental[^c-04a11dd6ab6be98400f828f4fd81136c]
 
 *Extent: E+W+S+N.I.*
 
@@ -250,14 +250,14 @@ Coming into force in accordance with article 1(1)
 
 **No longer in force.**
 
-[^key-04a11dd6ab6be98400f828f4fd81136c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-04a11dd6ab6be98400f828f4fd81136c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-04a11dd6ab6be98400f828f4fd81136c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-04a11dd6ab6be98400f828f4fd81136c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-04a11dd6ab6be98400f828f4fd81136c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/236) revoked (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 12 para. 1](https://www.legislation.gov.uk/wsi/2025/864/schedule/12/paragraph/1) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4)[(5)](https://www.legislation.gov.uk/wsi/2025/864/article/1/5), [Sch. 5 rule 70(3)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/70/3))
+[^c-04a11dd6ab6be98400f828f4fd81136c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/236) revoked (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 12 para. 1](https://www.legislation.gov.uk/wsi/2025/864/schedule/12/paragraph/1) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4)[(5)](https://www.legislation.gov.uk/wsi/2025/864/article/1/5), [Sch. 5 rule 70(3)](https://www.legislation.gov.uk/wsi/2025/864/schedule/5/rule/70/3))

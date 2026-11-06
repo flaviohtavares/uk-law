@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Compensation in relation to termination[^key-db3630ffd880b7079417540922acdea8][^key-9f5f93d17037d5c493d1dac4adaa8205]
+## 28. Compensation in relation to termination[^c-db3630ffd880b7079417540922acdea8][^c-9f5f93d17037d5c493d1dac4adaa8205]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ in relation to a scheduled monument partnership agreement.
 
 ## Annotations
 
-[^key-db3630ffd880b7079417540922acdea8]: Commencement: S. 28 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-db3630ffd880b7079417540922acdea8]: Commencement: S. 28 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-9f5f93d17037d5c493d1dac4adaa8205]: Commencement: [S. 28](https://www.legislation.gov.uk/asc/2023/3/section/28) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-9f5f93d17037d5c493d1dac4adaa8205]: Commencement: [S. 28](https://www.legislation.gov.uk/asc/2023/3/section/28) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

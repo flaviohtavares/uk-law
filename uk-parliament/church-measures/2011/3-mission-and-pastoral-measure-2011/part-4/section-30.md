@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 30. Supplementary powers of Commissioners and mission and pastoral committees[^key-81186d2be9ac3671ce163cd3ddf93d63]
+## 30. Supplementary powers of Commissioners and mission and pastoral committees[^c-81186d2be9ac3671ce163cd3ddf93d63]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81186d2be9ac3671ce163cd3ddf93d63]: Commencement: S. 30 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-81186d2be9ac3671ce163cd3ddf93d63]: Commencement: S. 30 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

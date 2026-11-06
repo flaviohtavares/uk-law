@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**95.**[^key-5f80a21d377df8436471616ddfb081af] In rule 18(2)(a), for “the Family Proceedings Courts (Constitution of Committees and Right to Preside) Rules 2007” substitute “the Family Court (Constitution of Committees: Family Panels) Rules 2014”.
+**95.**[^c-5f80a21d377df8436471616ddfb081af] In rule 18(2)(a), for “the Family Proceedings Courts (Constitution of Committees and Right to Preside) Rules 2007” substitute “the Family Court (Constitution of Committees: Family Panels) Rules 2014”.
 
 ## Annotations
 
-[^key-5f80a21d377df8436471616ddfb081af]: Commencement: Art. 95 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-5f80a21d377df8436471616ddfb081af]: Commencement: Art. 95 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

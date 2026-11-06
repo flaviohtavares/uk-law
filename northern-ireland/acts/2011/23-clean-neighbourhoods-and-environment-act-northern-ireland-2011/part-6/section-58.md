@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Powers of entry: supplementary[^key-91196ffefa93968a9881bc2cdac6d3fb]
+## 58. Powers of entry: supplementary[^c-91196ffefa93968a9881bc2cdac6d3fb]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ as the officer thinks necessary for the purpose of silencing the alarm.
 
 ## Annotations
 
-[^key-91196ffefa93968a9881bc2cdac6d3fb]: Commencement: [S. 58](https://www.legislation.gov.uk/nia/2011/23/section/58) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-91196ffefa93968a9881bc2cdac6d3fb]: Commencement: [S. 58](https://www.legislation.gov.uk/nia/2011/23/section/58) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

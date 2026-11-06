@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Fitness of staff[^key-775b5765514c046d9765a64b33cad4a0]
+## 28. Fitness of staff[^c-775b5765514c046d9765a64b33cad4a0]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-775b5765514c046d9765a64b33cad4a0]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2019/163/regulation/28) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-775b5765514c046d9765a64b33cad4a0]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2019/163/regulation/28) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
 
 [^c23552351]: Marginal citation: *See* section 67(3) of the Act for the definition of Social Care Wales as “SCW”.

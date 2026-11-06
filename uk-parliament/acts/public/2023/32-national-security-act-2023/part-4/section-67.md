@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Offence of carrying out etc relevant activities pursuant to unregistered foreign activity arrangement[^key-078134b1c3e6a1888c720e8ee6e55af5][^key-ac7621405c3214dc2d93f02357afe514]
+## 67. Offence of carrying out etc relevant activities pursuant to unregistered foreign activity arrangement[^c-078134b1c3e6a1888c720e8ee6e55af5][^c-ac7621405c3214dc2d93f02357afe514]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies where a person (“**P**”) makes a foreign activity arrangement required to be registered under section 65(4).
 
-(2)[^key-30215324820100949fd66da2e3158a65][^key-09bf86c7e02d98d0aa10abd1728c8e31] P commits an offence if—
+(2)[^c-30215324820100949fd66da2e3158a65][^c-09bf86c7e02d98d0aa10abd1728c8e31] P commits an offence if—
 
 - (a) P carries out a relevant activity, or arranges for a relevant activity to be carried out, in the United Kingdom pursuant to the arrangement,
 - (b) the arrangement is not registered, and
 - (c) P knows, or having regard to other matters known to them ought reasonably to know, that they are acting pursuant to a foreign activity arrangement.
 
-(3)[^key-30215324820100949fd66da2e3158a65][^key-09bf86c7e02d98d0aa10abd1728c8e31] A person other than P commits an offence if—
+(3)[^c-30215324820100949fd66da2e3158a65][^c-09bf86c7e02d98d0aa10abd1728c8e31] A person other than P commits an offence if—
 
 - (a) the person carries out a relevant activity, or arranges for a relevant activity to be carried out, in the United Kingdom pursuant to the arrangement,
 - (b) the arrangement is not registered, and
@@ -48,10 +48,10 @@ summary: ''
 
 ## Annotations
 
-[^key-078134b1c3e6a1888c720e8ee6e55af5]: Commencement: S. 67 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-078134b1c3e6a1888c720e8ee6e55af5]: Commencement: S. 67 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-ac7621405c3214dc2d93f02357afe514]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/32/section/67) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-ac7621405c3214dc2d93f02357afe514]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/32/section/67) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
 
-[^key-30215324820100949fd66da2e3158a65]: Modification: [S. 67(2)](https://www.legislation.gov.uk/ukpga/2023/32/section/67/2)[(3)](https://www.legislation.gov.uk/ukpga/2023/32/section/67/3) excluded (temp.) (1.7.2025) by [The National Security Act 2023 (Foreign Activities and Foreign Influence Registration Scheme: Specified Persons) (Iran) Regulations 2025 (S.I. 2025/685)](https://www.legislation.gov.uk/uksi/2025/685), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/685/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/685/regulation/3/3); S.I. 2025/674, [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-30215324820100949fd66da2e3158a65]: Modification: [S. 67(2)](https://www.legislation.gov.uk/ukpga/2023/32/section/67/2)[(3)](https://www.legislation.gov.uk/ukpga/2023/32/section/67/3) excluded (temp.) (1.7.2025) by [The National Security Act 2023 (Foreign Activities and Foreign Influence Registration Scheme: Specified Persons) (Iran) Regulations 2025 (S.I. 2025/685)](https://www.legislation.gov.uk/uksi/2025/685), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/685/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/685/regulation/3/3); S.I. 2025/674, [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
 
-[^key-09bf86c7e02d98d0aa10abd1728c8e31]: Modification: [S. 67(2)](https://www.legislation.gov.uk/ukpga/2023/32/section/67/2)[(3)](https://www.legislation.gov.uk/ukpga/2023/32/section/67/3) excluded (temp.) (1.7.2025) by [The National Security Act 2023 (Foreign Activities and Foreign Influence Registration Scheme: Specified Persons) (Russia) Regulations 2025 (S.I. 2025/684)](https://www.legislation.gov.uk/uksi/2025/684), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/684/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/684/regulation/3/3); S.I. 2025/674, [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-09bf86c7e02d98d0aa10abd1728c8e31]: Modification: [S. 67(2)](https://www.legislation.gov.uk/ukpga/2023/32/section/67/2)[(3)](https://www.legislation.gov.uk/ukpga/2023/32/section/67/3) excluded (temp.) (1.7.2025) by [The National Security Act 2023 (Foreign Activities and Foreign Influence Registration Scheme: Specified Persons) (Russia) Regulations 2025 (S.I. 2025/684)](https://www.legislation.gov.uk/uksi/2025/684), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/684/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/684/regulation/3/3); S.I. 2025/674, [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

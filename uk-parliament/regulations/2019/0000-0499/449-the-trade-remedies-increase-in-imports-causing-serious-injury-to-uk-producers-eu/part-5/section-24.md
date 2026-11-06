@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Registration of interest and the issuing of questionnaires[^key-494d4cfd45fc6eef298ae3aeed820d3b]
+## 24. Registration of interest and the issuing of questionnaires[^c-494d4cfd45fc6eef298ae3aeed820d3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,10 +34,10 @@ summary: ''
 
 (5) Where an interested party makes themselves known to the TRA after the end of the registration period, the TRA may include that party in a limited examination in accordance with regulation 26 (limited examination).
 
-(6)[^key-0868faf8e5b72a0e12d3d3dd8d29c014] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0868faf8e5b72a0e12d3d3dd8d29c014] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-494d4cfd45fc6eef298ae3aeed820d3b]: Commencement: Reg. 24 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-494d4cfd45fc6eef298ae3aeed820d3b]: Commencement: Reg. 24 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
 
-[^key-0868faf8e5b72a0e12d3d3dd8d29c014]: Textual amendment: [Reg. 24(6)](https://www.legislation.gov.uk/uksi/2019/449/regulation/24/6) omitted (25.9.2023) by virtue of [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/954/regulation/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))
+[^c-0868faf8e5b72a0e12d3d3dd8d29c014]: Textual amendment: [Reg. 24(6)](https://www.legislation.gov.uk/uksi/2019/449/regulation/24/6) omitted (25.9.2023) by virtue of [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/954/regulation/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))

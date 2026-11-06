@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 86. Incidents etc in England and Wales[^key-0149e8d4fa6f1e98c8b72be658acce3b]
+## 86. Incidents etc in England and Wales[^c-0149e8d4fa6f1e98c8b72be658acce3b]
 
 *Extent: E+W+S*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0149e8d4fa6f1e98c8b72be658acce3b]: Commencement: S. 86 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-0149e8d4fa6f1e98c8b72be658acce3b]: Commencement: S. 86 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)

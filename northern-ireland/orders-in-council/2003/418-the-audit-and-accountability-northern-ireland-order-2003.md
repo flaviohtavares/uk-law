@@ -196,7 +196,7 @@ to provide the Comptroller and Auditor General or a person acting on his behalf 
 (3) But nothing in this Article authorises a disclosure which—
 
 - (a) contravenes the Data Protection Act 1998 (c. 29); or
-- (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016[^key-e5fbe08be7049cbfc694183de72ee0d0] .
+- (b) is prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016[^c-e5fbe08be7049cbfc694183de72ee0d0] .
 
 (4) Data may not be disclosed under paragraph (1) if the data comprise or include patient data.
 
@@ -219,12 +219,12 @@ to provide the Comptroller and Auditor General or a person acting on his behalf 
 (2) Information to which this Article applies may be disclosed by or on behalf of the Comptroller and Auditor General if the disclosure is—
 
 - (a) for or in connection with a purpose for which the data matching exercise is conducted;
-- (b) to a body or person[^key-f6e7280abd57800625828607a0a5d787] mentioned in paragraph (3) (or a related party) for or in connection with a function of that body or person corresponding or similar to the audit functions of the Comptroller and Auditor General or a local government auditor under any statutory provision or the data matching functions of the Comptroller and Auditor General under Article 4A; or
+- (b) to a body or person[^c-f6e7280abd57800625828607a0a5d787] mentioned in paragraph (3) (or a related party) for or in connection with a function of that body or person corresponding or similar to the audit functions of the Comptroller and Auditor General or a local government auditor under any statutory provision or the data matching functions of the Comptroller and Auditor General under Article 4A; or
 - (c) in pursuance of a duty imposed by or under a statutory provision.
 
-(3) The bodies and persons[^key-f6549158803d7ce2ab654e97aced2ab8] are—
+(3) The bodies and persons[^c-f6549158803d7ce2ab654e97aced2ab8] are—
 
-- (a)[^key-654d8bad900060fc3cd081599ca38560] the Secretary of State,
+- (a)[^c-654d8bad900060fc3cd081599ca38560] the Secretary of State,
 - (aa) the Minister for the Cabinet Office,
 - (ab) a local auditor within the meaning of the Local Audit and Accountability Act 2014,
 - (b) the Auditor General for Wales;
@@ -232,7 +232,7 @@ to provide the Comptroller and Auditor General or a person acting on his behalf 
 - (d) the Accounts Commission for Scotland;
 - (e) Audit Scotland.
 
-(4) “ **Related party** ”, in relation to a body or person[^key-b60e7b1d3236e49cce533ae0f6a2c292] mentioned in paragraph (3), means—
+(4) “ **Related party** ”, in relation to a body or person[^c-b60e7b1d3236e49cce533ae0f6a2c292] mentioned in paragraph (3), means—
 
 - (a) a body or person acting on its behalf;
 - (b) a body whose accounts are required to be audited by it or by a person appointed by it;
@@ -247,8 +247,8 @@ to provide the Comptroller and Auditor General or a person acting on his behalf 
 
 - (a) “ **patient data** ” has the same meaning as in Article 4C;
 - (b) “ **relevant NHS body** ” means—
-  - (i)[^key-8f03cd6aa150653321ce53459a5ff473] a health and social care body mentioned in paragraphs (a) to (e) of section 1(5) of the Health and Social Care (Reform) Act (Northern Ireland) 2009;
-  - (ii)[^key-1f3c917cc57240c6df5b237b6b7c2a0e] a body mentioned in paragraph (a), (b) or (c) of paragraph 4(12) of Schedule 9 to the Local Audit and Accountability Act 2014 (“relevant NHS body”);
+  - (i)[^c-8f03cd6aa150653321ce53459a5ff473] a health and social care body mentioned in paragraphs (a) to (e) of section 1(5) of the Health and Social Care (Reform) Act (Northern Ireland) 2009;
+  - (ii)[^c-1f3c917cc57240c6df5b237b6b7c2a0e] a body mentioned in paragraph (a), (b) or (c) of paragraph 4(12) of Schedule 9 to the Local Audit and Accountability Act 2014 (“relevant NHS body”);
   - (iii) a Welsh NHS body as defined in section 60 of the Public Audit (Wales) Act 2004 (c. 23);
   - (iv) an NHS body as defined in section 22(1) of the Community Care and Health (Scotland) Act 2002 (asp 5).
 
@@ -297,7 +297,7 @@ to provide the Comptroller and Auditor General or a person acting on his behalf 
 
 (2) Regard must be had to the code in conducting and participating in any such exercise.
 
-(3) Before preparing or altering the code, the Comptroller and Auditor General must consult the bodies mentioned in Article 4B(2), the Information Commission[^key-db1c5aec2f7ac953bc106ecaab664613] and such other bodies or persons as he thinks fit.
+(3) Before preparing or altering the code, the Comptroller and Auditor General must consult the bodies mentioned in Article 4B(2), the Information Commission[^c-db1c5aec2f7ac953bc106ecaab664613] and such other bodies or persons as he thinks fit.
 
 (4) The Comptroller and Auditor General must—
 
@@ -341,7 +341,7 @@ but, in the latter case, the body or person is a public body to the extent only 
 (1) The Comptroller and Auditor General shall examine, certify and report on the annual statement of accounts of the following bodies—
 
 - (a) the Council for Catholic Maintained Schools;
-- (b)[^key-c4595a8bba05e23fd10fb125b67cf262] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c4595a8bba05e23fd10fb125b67cf262] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Fire Authority for Northern Ireland;
 - (d) [^c21556081]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the General Consumer Council for Northern Ireland;
@@ -501,23 +501,23 @@ For Articles 90 to 92A of the Health and Personal Social Services (Northern Irel
 
 [^c20507731]: Textual amendment: Arts. 4A-4H and preceding cross-heading inserted (1.3.2008 for preceding cross-heading and Art. 4G(1)(3)(4) otherwise 6.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 73](https://www.legislation.gov.uk/ukpga/2007/27/section/73), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2007/27/schedule/7/paragraph/6); [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 3(j)](https://www.legislation.gov.uk/uksi/2008/219/article/3/j); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 16(a)](https://www.legislation.gov.uk/uksi/2008/755/article/16/a)
 
-[^key-e5fbe08be7049cbfc694183de72ee0d0]: Textual amendment: Words in [art. 4C(3)(b)](https://www.legislation.gov.uk/nisi/2003/418/article/4C/3/b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 15](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/15) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
+[^c-e5fbe08be7049cbfc694183de72ee0d0]: Textual amendment: Words in [art. 4C(3)(b)](https://www.legislation.gov.uk/nisi/2003/418/article/4C/3/b) substituted (27.6.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 15](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/15) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(g)(iii)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/g/iii)
 
-[^key-f6e7280abd57800625828607a0a5d787]: Textual amendment: Words in art. 4D(2)(b) inserted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 58(2)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/58/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2))
+[^c-f6e7280abd57800625828607a0a5d787]: Textual amendment: Words in art. 4D(2)(b) inserted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 58(2)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/58/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2))
 
-[^key-f6549158803d7ce2ab654e97aced2ab8]: Textual amendment: Words in art. 4D(3) inserted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 58(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/58/3); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2))
+[^c-f6549158803d7ce2ab654e97aced2ab8]: Textual amendment: Words in art. 4D(3) inserted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 58(3)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/58/3); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2))
 
-[^key-654d8bad900060fc3cd081599ca38560]: Textual amendment: Art. 4D(3)(a)-(ab) substituted for art. 4D(3)(a) (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 58(4)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/58/4); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2))
+[^c-654d8bad900060fc3cd081599ca38560]: Textual amendment: Art. 4D(3)(a)-(ab) substituted for art. 4D(3)(a) (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 58(4)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/58/4); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2))
 
-[^key-b60e7b1d3236e49cce533ae0f6a2c292]: Textual amendment: Words in art. 4D(4) inserted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 58(5)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/58/5); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2))
+[^c-b60e7b1d3236e49cce533ae0f6a2c292]: Textual amendment: Words in art. 4D(4) inserted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 58(5)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/58/5); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2))
 
-[^key-8f03cd6aa150653321ce53459a5ff473]: Textual amendment: Art. 4D(6)(b)(i) substituted (4.6.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), [s. 10](https://www.legislation.gov.uk/nia/2014/6/section/10); [S.R. 2014/155](https://www.legislation.gov.uk/nisr/2014/155), [art. 2](https://www.legislation.gov.uk/nisr/2014/155/article/2)
+[^c-8f03cd6aa150653321ce53459a5ff473]: Textual amendment: Art. 4D(6)(b)(i) substituted (4.6.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), [s. 10](https://www.legislation.gov.uk/nia/2014/6/section/10); [S.R. 2014/155](https://www.legislation.gov.uk/nisr/2014/155), [art. 2](https://www.legislation.gov.uk/nisr/2014/155/article/2)
 
-[^key-1f3c917cc57240c6df5b237b6b7c2a0e]: Textual amendment: Art. 4D(6)(b)(ii) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 58(6)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/58/6); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2))
+[^c-1f3c917cc57240c6df5b237b6b7c2a0e]: Textual amendment: Art. 4D(6)(b)(ii) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 58(6)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/58/6); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/2))
 
-[^key-db1c5aec2f7ac953bc106ecaab664613]: Textual amendment: Words in [art. 4G(3)](https://www.legislation.gov.uk/nisi/2003/418/article/4G/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-db1c5aec2f7ac953bc106ecaab664613]: Textual amendment: Words in [art. 4G(3)](https://www.legislation.gov.uk/nisi/2003/418/article/4G/3) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-c4595a8bba05e23fd10fb125b67cf262]: Textual amendment: [Art. 5(1)(b)](https://www.legislation.gov.uk/nisi/2003/418/article/5/1/b) repealed (1.5.2015) by [Public Authorities (Reform) Act (Northern Ireland) 2009 (c. 3)](https://www.legislation.gov.uk/nia/2009/3), [ss. 4(1)(e)](https://www.legislation.gov.uk/nia/2009/3/section/4/1/e), [7(1)](https://www.legislation.gov.uk/nia/2009/3/section/7/1), [Sch. 3](https://www.legislation.gov.uk/nia/2009/3/schedule/3) (with [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/nia/2009/3/schedule/1/paragraph/4/3)); [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(c)](https://www.legislation.gov.uk/nisr/2015/230/article/2/c)
+[^c-c4595a8bba05e23fd10fb125b67cf262]: Textual amendment: [Art. 5(1)(b)](https://www.legislation.gov.uk/nisi/2003/418/article/5/1/b) repealed (1.5.2015) by [Public Authorities (Reform) Act (Northern Ireland) 2009 (c. 3)](https://www.legislation.gov.uk/nia/2009/3), [ss. 4(1)(e)](https://www.legislation.gov.uk/nia/2009/3/section/4/1/e), [7(1)](https://www.legislation.gov.uk/nia/2009/3/section/7/1), [Sch. 3](https://www.legislation.gov.uk/nia/2009/3/schedule/3) (with [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/nia/2009/3/schedule/1/paragraph/4/3)); [S.R. 2015/230](https://www.legislation.gov.uk/nisr/2015/230), [art. 2(c)](https://www.legislation.gov.uk/nisr/2015/230/article/2/c)
 
 [^c21556081]: Textual amendment: Art. 5(1)(d) repealed (1.6.2009) by [Public Authorities (Reform) Act (Northern Ireland) 2009 (c. 3)](https://www.legislation.gov.uk/nia/2009/3), [ss. 1(3)](https://www.legislation.gov.uk/nia/2009/3/section/1/3), [6](https://www.legislation.gov.uk/nia/2009/3/section/6), [7(1)](https://www.legislation.gov.uk/nia/2009/3/section/7/1), [Sch. 1 Pt. 2 para. 14(1)](https://www.legislation.gov.uk/nia/2009/3/schedule/1/part/2/paragraph/14/1), [Sch. 3](https://www.legislation.gov.uk/nia/2009/3/schedule/3) (with [Sch. 1 Pt. 1 para. 4(3)](https://www.legislation.gov.uk/nia/2009/3/schedule/1/part/1/paragraph/4/3)); [S.R. 2009/172](https://www.legislation.gov.uk/nisr/2009/172), [art. 2(b)(e)](https://www.legislation.gov.uk/nisr/2009/172/article/2/b/e)
 

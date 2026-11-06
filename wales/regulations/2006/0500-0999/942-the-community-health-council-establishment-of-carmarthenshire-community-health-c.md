@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, WALES
 
-The Community Health Council (Establishment of Carmarthenshire Community Health Council, Transfer of Functions and Abolition of Llanelli/Dinefwr and Carmarthen/Dinefwr Community Health Councils) Order 2006 (revoked)[^key-090f0fbe1a3ac883715da884192989de]
+The Community Health Council (Establishment of Carmarthenshire Community Health Council, Transfer of Functions and Abolition of Llanelli/Dinefwr and Carmarthen/Dinefwr Community Health Councils) Order 2006 (revoked)[^c-090f0fbe1a3ac883715da884192989de]
 
 Made
 
@@ -41,56 +41,56 @@ Coming into force
 
 1 April 2006
 
-[^key-090f0fbe1a3ac883715da884192989de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-090f0fbe1a3ac883715da884192989de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-090f0fbe1a3ac883715da884192989de]
+## 1. Citation, commencement and interpretation[^c-090f0fbe1a3ac883715da884192989de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Establishment of Carmarthenshire Community Health Council[^key-090f0fbe1a3ac883715da884192989de]
+## 2. Establishment of Carmarthenshire Community Health Council[^c-090f0fbe1a3ac883715da884192989de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Functions of Carmarthenshire Community Health Council[^key-090f0fbe1a3ac883715da884192989de]
+## 3. Functions of Carmarthenshire Community Health Council[^c-090f0fbe1a3ac883715da884192989de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transfer of Functions from the Councils to Carmarthenshire Community Health Council[^key-090f0fbe1a3ac883715da884192989de]
+## 4. Transfer of Functions from the Councils to Carmarthenshire Community Health Council[^c-090f0fbe1a3ac883715da884192989de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transfer of Members[^key-090f0fbe1a3ac883715da884192989de]
+## 5. Transfer of Members[^c-090f0fbe1a3ac883715da884192989de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transfer of Chief Officer and Officers[^key-090f0fbe1a3ac883715da884192989de]
+## 6. Transfer of Chief Officer and Officers[^c-090f0fbe1a3ac883715da884192989de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Accounts[^key-090f0fbe1a3ac883715da884192989de]
+## 7. Accounts[^c-090f0fbe1a3ac883715da884192989de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Reports[^key-090f0fbe1a3ac883715da884192989de]
+## 8. Reports[^c-090f0fbe1a3ac883715da884192989de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Provision for continuity in the exercise of functions[^key-090f0fbe1a3ac883715da884192989de]
+## 9. Provision for continuity in the exercise of functions[^c-090f0fbe1a3ac883715da884192989de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Abolition of the Councils[^key-090f0fbe1a3ac883715da884192989de]
+## 10. Abolition of the Councils[^c-090f0fbe1a3ac883715da884192989de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-090f0fbe1a3ac883715da884192989de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-090f0fbe1a3ac883715da884192989de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-090f0fbe1a3ac883715da884192989de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-090f0fbe1a3ac883715da884192989de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-090f0fbe1a3ac883715da884192989de]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/942) revoked (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2023/299/regulation/10)
+[^c-090f0fbe1a3ac883715da884192989de]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/942) revoked (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2023/299/regulation/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Adjustment of basic and occupier’s loss payments[^key-7ad4efc9f50dade78c9836fd3662c130]
+## 110. Adjustment of basic and occupier’s loss payments[^c-7ad4efc9f50dade78c9836fd3662c130]
 
 *Extent: E+W*
 
@@ -123,4 +123,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ad4efc9f50dade78c9836fd3662c130]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2025/34/section/110) in force at 18.2.2026, see [s. 118(5)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/e)
+[^c-7ad4efc9f50dade78c9836fd3662c130]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2025/34/section/110) in force at 18.2.2026, see [s. 118(5)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/e)

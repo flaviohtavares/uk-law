@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Further provision relating to certain premises[^key-fdc3955598a66bd430eed49af58ef91b]
+## 40. Further provision relating to certain premises[^c-fdc3955598a66bd430eed49af58ef91b]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fdc3955598a66bd430eed49af58ef91b]: Commencement: Reg. 40 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-fdc3955598a66bd430eed49af58ef91b]: Commencement: Reg. 40 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
 [^f00018]: Footnote: [S.R. 2005 No. 78](https://www.legislation.gov.uk/nisr/2005/78) as amended by [S.R. 2005 No. 446](https://www.legislation.gov.uk/nisr/2005/446)

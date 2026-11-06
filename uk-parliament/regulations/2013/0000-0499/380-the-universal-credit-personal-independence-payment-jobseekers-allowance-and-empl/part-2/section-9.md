@@ -33,7 +33,7 @@ summary: ''
 
 (5) Where the Secretary of State considers that one member of a couple is unable to make a joint claim with the other member of that couple, the other member of the couple may make a claim jointly for both of them.
 
-(6)[^key-7bae3d26a7e7392b5e51902aca00b7f4] Where an award of universal credit to joint claimants is terminated because they cease to be a couple an award may be made, without a claim, to either or each one of them—
+(6)[^c-7bae3d26a7e7392b5e51902aca00b7f4] Where an award of universal credit to joint claimants is terminated because they cease to be a couple an award may be made, without a claim, to either or each one of them—
 
 - (a) as a single person; or
 - (b) if either of them has formed a new couple with a person who is already entitled to universal credit, jointly with that person.
@@ -42,10 +42,10 @@ summary: ''
 
 (8) A couple who are joint claimants are to be treated as making a claim for universal credit where—
 
-- (a)[^key-61c17ef4062a4d28dd2c7f5c76acf79e] one of them ceased to be entitled to an award of universal credit (whether as a single person or as a member of a different couple) on the formation of that couple;
+- (a)[^c-61c17ef4062a4d28dd2c7f5c76acf79e] one of them ceased to be entitled to an award of universal credit (whether as a single person or as a member of a different couple) on the formation of that couple;
 - (b) the other member of the couple did not have an award of universal credit as a single person before formation of the couple.
 
-and the claim is to be treated as made on the day after the member of the couple mentioned in sub-paragraph (a) ceased to be entitled to universal credit.[^key-ed82926e998422a73e45d11f1b7506fd]
+and the claim is to be treated as made on the day after the member of the couple mentioned in sub-paragraph (a) ceased to be entitled to universal credit.[^c-ed82926e998422a73e45d11f1b7506fd]
 
 (9) In relation to an award which may be made by virtue of paragraph (6) or (7) without a claim being required, a claimant and every person by whom or on whose behalf, sums by way of universal credit are receivable must supply in such manner and at such times as the Secretary of State may determine such information or evidence as the Secretary of State may require in connection with the formation or dissolution of a couple.
 
@@ -53,8 +53,8 @@ and the claim is to be treated as made on the day after the member of the couple
 
 ## Annotations
 
-[^key-7bae3d26a7e7392b5e51902aca00b7f4]: Textual amendment: Reg. 9(6) substituted (26.11.2014) by [The Universal Credit (Digital Service) Amendment Regulations 2014 (S.I. 2014/2887)](https://www.legislation.gov.uk/uksi/2014/2887), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2887/regulation/1), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2014/2887/regulation/3/2/b/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2887/regulation/5))
+[^c-7bae3d26a7e7392b5e51902aca00b7f4]: Textual amendment: Reg. 9(6) substituted (26.11.2014) by [The Universal Credit (Digital Service) Amendment Regulations 2014 (S.I. 2014/2887)](https://www.legislation.gov.uk/uksi/2014/2887), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2887/regulation/1), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2014/2887/regulation/3/2/b/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2887/regulation/5))
 
-[^key-61c17ef4062a4d28dd2c7f5c76acf79e]: Textual amendment: Reg. 9(8)(a) substituted (26.11.2014) by [The Universal Credit (Digital Service) Amendment Regulations 2014 (S.I. 2014/2887)](https://www.legislation.gov.uk/uksi/2014/2887), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2887/regulation/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2887/regulation/3/2/b/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2887/regulation/5))
+[^c-61c17ef4062a4d28dd2c7f5c76acf79e]: Textual amendment: Reg. 9(8)(a) substituted (26.11.2014) by [The Universal Credit (Digital Service) Amendment Regulations 2014 (S.I. 2014/2887)](https://www.legislation.gov.uk/uksi/2014/2887), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2887/regulation/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2887/regulation/3/2/b/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2887/regulation/5))
 
-[^key-ed82926e998422a73e45d11f1b7506fd]: Textual amendment: Words in reg. 9(8) inserted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [6(2)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/6/2)
+[^c-ed82926e998422a73e45d11f1b7506fd]: Textual amendment: Words in reg. 9(8) inserted (29.7.2013) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2013 (S.I. 2013/1508)](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2/a), [6(2)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/6/2)

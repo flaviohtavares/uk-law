@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Commutation of smallholdings and housing payments.[^key-d98ce49ad1e112ded1fa88f17172021d]
+## 64. Commutation of smallholdings and housing payments.[^c-d98ce49ad1e112ded1fa88f17172021d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d98ce49ad1e112ded1fa88f17172021d]: Textual amendment: [Ss. 63-65](https://www.legislation.gov.uk/ukpga/1985/51/section/63) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-d98ce49ad1e112ded1fa88f17172021d]: Textual amendment: [Ss. 63-65](https://www.legislation.gov.uk/ukpga/1985/51/section/63) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

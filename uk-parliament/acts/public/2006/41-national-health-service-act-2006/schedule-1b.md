@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1B — Integrated care boards[^key-cffe1a1380ec08df5da9882478413c81]
+## SCHEDULE 1B — Integrated care boards[^c-cffe1a1380ec08df5da9882478413c81]
 
 *Extent: E+W*
 
@@ -260,6 +260,6 @@ The power conferred on an integrated care board by section 2 includes, in partic
 
 ## Annotations
 
-[^key-cffe1a1380ec08df5da9882478413c81]: Textual amendment: [Sch. 1B](https://www.legislation.gov.uk/ukpga/2006/41/schedule/1B) inserted (9.5.2022 but only for the insertion of Sch. 1B Pt. 1, 1.7.2022 in so far as not already in force) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/2/paragraph/1); [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/e); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-cffe1a1380ec08df5da9882478413c81]: Textual amendment: [Sch. 1B](https://www.legislation.gov.uk/ukpga/2006/41/schedule/1B) inserted (9.5.2022 but only for the insertion of Sch. 1B Pt. 1, 1.7.2022 in so far as not already in force) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/2/paragraph/1); [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/e); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
 [^M_F_17dcb9a6-957c-4896-99c8-84c60824ae2a]: Textual amendment: Sch. 1B para. 19(4)(b)(vi) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 10(12)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/10/12) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))

@@ -31,9 +31,9 @@ summary: ''
 
 (4) The Police Association shall be entirely independent of, and subject to subsection (5) unassociated with, any body or person outside the police services of the United Kingdom, but may employ persons outside those services in an administrative or advisory capacity.
 
-(5) The Department of Justice[^key-245353a2ae5fe2af61d0545c2cb1e43d]—
+(5) The Department of Justice[^c-245353a2ae5fe2af61d0545c2cb1e43d]—
 
-- (a) may authorise the Police Association or a section thereof to be associated with a person or body outside the police services of the United Kingdom in such cases and manner, and subject to such conditions and restrictions, as the Department of Justice[^key-6092c2ac353ea8c46e235dac2fcc864e] may specify; and
+- (a) may authorise the Police Association or a section thereof to be associated with a person or body outside the police services of the United Kingdom in such cases and manner, and subject to such conditions and restrictions, as the Department of Justice[^c-6092c2ac353ea8c46e235dac2fcc864e] may specify; and
 - (b) may vary or withdraw an authorisation previously given;
 
 and anything for the time being so authorised shall not be precluded by subsection (4).
@@ -42,6 +42,6 @@ and anything for the time being so authorised shall not be precluded by subsecti
 
 [^c1371821]: Modification: S. 32 applied (30.3.2001) by [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32), [s. 41(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2000/32/section/41/1/a/ii); [S.R. 2001/132](https://www.legislation.gov.uk/nisr/2001/132), [art. 2](https://www.legislation.gov.uk/nisr/2001/132/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/132/schedule)
 
-[^key-245353a2ae5fe2af61d0545c2cb1e43d]: Textual amendment: Words in [s. 32(5)](https://www.legislation.gov.uk/ukpga/1998/32/section/32/5) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 15(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/15/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-245353a2ae5fe2af61d0545c2cb1e43d]: Textual amendment: Words in [s. 32(5)](https://www.legislation.gov.uk/ukpga/1998/32/section/32/5) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 15(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/15/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-6092c2ac353ea8c46e235dac2fcc864e]: Textual amendment: Words in [s. 32(5)](https://www.legislation.gov.uk/ukpga/1998/32/section/32/5) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 15(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/15/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-6092c2ac353ea8c46e235dac2fcc864e]: Textual amendment: Words in [s. 32(5)](https://www.legislation.gov.uk/ukpga/1998/32/section/32/5) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 15(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/15/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

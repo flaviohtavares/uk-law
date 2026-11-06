@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Trunk road picnic areas[^key-b481ea1272eeebe9229c4fe14cc1554c]
+## 55. Trunk road picnic areas[^c-b481ea1272eeebe9229c4fe14cc1554c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In section 112 of the Highways Act 1980 (c. 66) (provision of picnic sites and p
 
 ## Annotations
 
-[^key-b481ea1272eeebe9229c4fe14cc1554c]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2006/49/section/55) in force at 28.1.2008 for E.W. by [S.I. 2007/3492](https://www.legislation.gov.uk/uksi/2007/3492), [art. 2](https://www.legislation.gov.uk/uksi/2007/3492/article/2)
+[^c-b481ea1272eeebe9229c4fe14cc1554c]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2006/49/section/55) in force at 28.1.2008 for E.W. by [S.I. 2007/3492](https://www.legislation.gov.uk/uksi/2007/3492), [art. 2](https://www.legislation.gov.uk/uksi/2007/3492/article/2)

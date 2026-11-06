@@ -28,14 +28,14 @@ summary: ''
 
 *Extent: E+W*
 
-(4)[^key-c1767f60a1a7e87ad6646fdef3fd78df] The Secretary of State may pay arrears of personal independence payment in instalments where—
+(4)[^c-c1767f60a1a7e87ad6646fdef3fd78df] The Secretary of State may pay arrears of personal independence payment in instalments where—
 
 - (a) the Secretary of State considers it is necessary for protecting the interests of the claimant; and
 - (b) the claimant agrees that those arrears may be paid in instalments.
 
 *Extent: S*
 
-(5)[^key-ee61e46cadfd9cf59c0cd6394d3fc887] The Scottish Ministers may pay arrears of personal independence payment in instalments where—
+(5)[^c-ee61e46cadfd9cf59c0cd6394d3fc887] The Scottish Ministers may pay arrears of personal independence payment in instalments where—
 
 - (a) the Scottish Ministers consider it is necessary for protecting the interests of the claimant, and
 - (b) the claimant agrees that those arrears may be paid in instalments.
@@ -44,6 +44,6 @@ summary: ''
 
 [^c2167223]: Marginal citation: 2012.c.5.
 
-[^key-c1767f60a1a7e87ad6646fdef3fd78df]: Textual amendment: [Reg. 48(4)](https://www.legislation.gov.uk/uksi/2013/380/regulation/48/4) inserted (E.W.) (18.10.2021) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2021 (S.I. 2021/1065)](https://www.legislation.gov.uk/uksi/2021/1065), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/3/3)
+[^c-c1767f60a1a7e87ad6646fdef3fd78df]: Textual amendment: [Reg. 48(4)](https://www.legislation.gov.uk/uksi/2013/380/regulation/48/4) inserted (E.W.) (18.10.2021) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2021 (S.I. 2021/1065)](https://www.legislation.gov.uk/uksi/2021/1065), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/3/3)
 
-[^key-ee61e46cadfd9cf59c0cd6394d3fc887]: Textual amendment: [Reg. 48(5)](https://www.legislation.gov.uk/uksi/2013/380/regulation/48/5) inserted (S.) (18.10.2021) by [The Social Security (Claims and Payments) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/305)](https://www.legislation.gov.uk/ssi/2021/305), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/305/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2021/305/regulation/4)
+[^c-ee61e46cadfd9cf59c0cd6394d3fc887]: Textual amendment: [Reg. 48(5)](https://www.legislation.gov.uk/uksi/2013/380/regulation/48/5) inserted (S.) (18.10.2021) by [The Social Security (Claims and Payments) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/305)](https://www.legislation.gov.uk/ssi/2021/305), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/305/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2021/305/regulation/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Finance Act 1996[^key-9aaf556c4393cf48d6513da9daadd059]
+## 130. Finance Act 1996[^c-9aaf556c4393cf48d6513da9daadd059]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In Schedule 15 to the Finance Act 1996[^f00041] (loan relationships: savings and
 
 ## Annotations
 
-[^key-9aaf556c4393cf48d6513da9daadd059]: Commencement: Reg. 130 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-9aaf556c4393cf48d6513da9daadd059]: Commencement: Reg. 130 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
 
 [^f00041]: Footnote: [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8).

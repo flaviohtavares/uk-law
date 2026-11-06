@@ -38,7 +38,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Declaration recognising British Sign Language
 
-### 1. Recognition of British Sign Language[^key-607f52ad9ea5f4fbadff333c454530b5]
+### 1. Recognition of British Sign Language[^c-607f52ad9ea5f4fbadff333c454530b5]
 
 (1) British Sign Language is recognised as a language of England, Wales and Scotland.
 
@@ -50,7 +50,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Duties relating to the promotion and facilitation of British Sign Language
 
-### 2. Duty of Secretary of State to report on British Sign Language[^key-9b8c2ca38260aad27b2d8809e50a2d63]
+### 2. Duty of Secretary of State to report on British Sign Language[^c-9b8c2ca38260aad27b2d8809e50a2d63]
 
 (1) The Secretary of State must prepare and publish a British Sign Language report for each reporting period.
 
@@ -90,7 +90,7 @@ but do not include communications with individual members of the public, or any 
 
 (10) A statutory instrument containing regulations under subsection (9) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 3. Guidance on use of British Sign Language[^key-536e79276499856415473dfe06e76c3d]
+### 3. Guidance on use of British Sign Language[^c-536e79276499856415473dfe06e76c3d]
 
 **Not yet in force.**
 
@@ -111,7 +111,7 @@ but do not include communications with individual members of the public, or any 
 
 ## General
 
-### 4. Extent, commencement and short title[^key-5451a32d5337a6099632f11f2cd24c4b]
+### 4. Extent, commencement and short title[^c-5451a32d5337a6099632f11f2cd24c4b]
 
 (1) This Act extends to England and Wales and Scotland.
 
@@ -127,106 +127,106 @@ but do not include communications with individual members of the public, or any 
 
 Section 2
 
-**1.**[^key-7bb7d995b0dc742602927cbf0e09a936] Attorney General’s Office.
+**1.**[^c-7bb7d995b0dc742602927cbf0e09a936] Attorney General’s Office.
 
-**2.**[^key-14a5461e2807215f422d07a7d7299fce] Cabinet Office.
+**2.**[^c-14a5461e2807215f422d07a7d7299fce] Cabinet Office.
 
-**3.**[^key-0cf7c066cc24a1d4f857e083b16d8bf9] Department for Business and Trade[^key-d3b90f0fa52c8fc093ddc85849035b95].
+**3.**[^c-0cf7c066cc24a1d4f857e083b16d8bf9] Department for Business and Trade[^c-d3b90f0fa52c8fc093ddc85849035b95].
 
-**4.**[^key-dd486e68fa8b9ec082f7330ae661698a] Department for Culture, Media and Sport[^key-03359825b9ed82a737e45484bf4e4dc7].
+**4.**[^c-dd486e68fa8b9ec082f7330ae661698a] Department for Culture, Media and Sport[^c-03359825b9ed82a737e45484bf4e4dc7].
 
-**5.**[^key-33d87f52a9593b627ebbeac7c2d60fbd] Department for Education.
+**5.**[^c-33d87f52a9593b627ebbeac7c2d60fbd] Department for Education.
 
-**5A.**[^key-df32f3ba2ce52a563746436c3e07c305] Department for Energy Security and Net Zero.
+**5A.**[^c-df32f3ba2ce52a563746436c3e07c305] Department for Energy Security and Net Zero.
 
-**6.**[^key-a97b23c18c5bb833f3c038bc24d7f1f6] Department for Environment, Food and Rural Affairs.
+**6.**[^c-a97b23c18c5bb833f3c038bc24d7f1f6] Department for Environment, Food and Rural Affairs.
 
-**7.**[^key-2ab5e46e979a0ae8a290d60eb3fd2eea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2ab5e46e979a0ae8a290d60eb3fd2eea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-0b78e7fdf18e2969bcf09c9355d41580][^key-dcd12424cb3c087aef0c80e25e60c5f3] Ministry of Housing, Communities and Local Government.
+**8.**[^c-0b78e7fdf18e2969bcf09c9355d41580][^c-dcd12424cb3c087aef0c80e25e60c5f3] Ministry of Housing, Communities and Local Government.
 
-**8A.**[^key-6bbb7b54958347b307019c87e52e95a8] Department for Science, Innovation and Technology.
+**8A.**[^c-6bbb7b54958347b307019c87e52e95a8] Department for Science, Innovation and Technology.
 
-**9.**[^key-e235ea78de9d58e60875e67f180848f3] Department for Transport.
+**9.**[^c-e235ea78de9d58e60875e67f180848f3] Department for Transport.
 
-**10.**[^key-51415fc1faa0885777015c9399cc5945] Department for Work and Pensions.
+**10.**[^c-51415fc1faa0885777015c9399cc5945] Department for Work and Pensions.
 
-**11.**[^key-cda5bb949a721985718d62e0e6caf702] Department of Health and Social Care.
+**11.**[^c-cda5bb949a721985718d62e0e6caf702] Department of Health and Social Care.
 
-**12.**[^key-2cd219d54b5e3121436a14bd2c1b13c4] Foreign, Commonwealth and Development Office.
+**12.**[^c-2cd219d54b5e3121436a14bd2c1b13c4] Foreign, Commonwealth and Development Office.
 
-**13.**[^key-16a9356066d9c4706dded088a21605cf] Her Majesty’s Treasury.
+**13.**[^c-16a9356066d9c4706dded088a21605cf] Her Majesty’s Treasury.
 
-**14.**[^key-59b346a3a09f487ddebd5cd778cf7594] Home Office.
+**14.**[^c-59b346a3a09f487ddebd5cd778cf7594] Home Office.
 
-**15.**[^key-9ed124cf1268214a145a718a1fdd4b1b] Ministry of Defence.
+**15.**[^c-9ed124cf1268214a145a718a1fdd4b1b] Ministry of Defence.
 
-**16.**[^key-b28e5c97dfecdd139607f4c0e0d6912d] Ministry of Justice.
+**16.**[^c-b28e5c97dfecdd139607f4c0e0d6912d] Ministry of Justice.
 
-**17.**[^key-087c3da963689eb11cb74233b0756545] Office of the Leader of the House of Commons.
+**17.**[^c-087c3da963689eb11cb74233b0756545] Office of the Leader of the House of Commons.
 
-**18.**[^key-f05ee5694572dd04cacdbfa933bbc02b] Office of the Leader of the House of Lords.
+**18.**[^c-f05ee5694572dd04cacdbfa933bbc02b] Office of the Leader of the House of Lords.
 
-**19.**[^key-10de413f8fabcb475f5940fc61608d12] Office of the Secretary of State for Scotland.
+**19.**[^c-10de413f8fabcb475f5940fc61608d12] Office of the Secretary of State for Scotland.
 
-**20.**[^key-39de8dfe3ec91c72f6fec4c98e59a6ed] Office of the Secretary of State for Wales.
+**20.**[^c-39de8dfe3ec91c72f6fec4c98e59a6ed] Office of the Secretary of State for Wales.
 
 ## Annotations
 
-[^key-607f52ad9ea5f4fbadff333c454530b5]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/34/section/1) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-607f52ad9ea5f4fbadff333c454530b5]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/34/section/1) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-9b8c2ca38260aad27b2d8809e50a2d63]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/34/section/2) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-9b8c2ca38260aad27b2d8809e50a2d63]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/34/section/2) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-536e79276499856415473dfe06e76c3d]: Commencement: S. 3 not in force at Royal Assent, see [s. 4(4)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/4)
+[^c-536e79276499856415473dfe06e76c3d]: Commencement: S. 3 not in force at Royal Assent, see [s. 4(4)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/4)
 
-[^key-5451a32d5337a6099632f11f2cd24c4b]: Commencement: S. 4 in force at Royal Assent, see [s. 4(2)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/2)
+[^c-5451a32d5337a6099632f11f2cd24c4b]: Commencement: S. 4 in force at Royal Assent, see [s. 4(2)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/2)
 
-[^key-7bb7d995b0dc742602927cbf0e09a936]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/1) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-7bb7d995b0dc742602927cbf0e09a936]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/1) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-14a5461e2807215f422d07a7d7299fce]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/2) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-14a5461e2807215f422d07a7d7299fce]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/2) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-0cf7c066cc24a1d4f857e083b16d8bf9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/3) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-0cf7c066cc24a1d4f857e083b16d8bf9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/3) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-d3b90f0fa52c8fc093ddc85849035b95]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/3) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 23(a)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/23/a) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-d3b90f0fa52c8fc093ddc85849035b95]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/3) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 23(a)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/23/a) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-dd486e68fa8b9ec082f7330ae661698a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/4) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-dd486e68fa8b9ec082f7330ae661698a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/4) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-03359825b9ed82a737e45484bf4e4dc7]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/4) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 23(b)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/23/b) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-03359825b9ed82a737e45484bf4e4dc7]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/4) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 23(b)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/23/b) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-33d87f52a9593b627ebbeac7c2d60fbd]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/5) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-33d87f52a9593b627ebbeac7c2d60fbd]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/5) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-df32f3ba2ce52a563746436c3e07c305]: Textual amendment: [Sch. para. 5A](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/5A) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 23(c)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/23/c) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-df32f3ba2ce52a563746436c3e07c305]: Textual amendment: [Sch. para. 5A](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/5A) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 23(c)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/23/c) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-a97b23c18c5bb833f3c038bc24d7f1f6]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/6) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-a97b23c18c5bb833f3c038bc24d7f1f6]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/6) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-2ab5e46e979a0ae8a290d60eb3fd2eea]: Textual amendment: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/7) omitted (3.5.2023) by virtue of [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 23(d)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/23/d) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-2ab5e46e979a0ae8a290d60eb3fd2eea]: Textual amendment: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/7) omitted (3.5.2023) by virtue of [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 23(d)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/23/d) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-0b78e7fdf18e2969bcf09c9355d41580]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/8) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-0b78e7fdf18e2969bcf09c9355d41580]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/8) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-dcd12424cb3c087aef0c80e25e60c5f3]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/8) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/15) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-dcd12424cb3c087aef0c80e25e60c5f3]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/8) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/15) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
 
-[^key-6bbb7b54958347b307019c87e52e95a8]: Textual amendment: [Sch. para. 8A](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/8A) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 23(e)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/23/e) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-6bbb7b54958347b307019c87e52e95a8]: Textual amendment: [Sch. para. 8A](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/8A) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 23(e)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/23/e) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-e235ea78de9d58e60875e67f180848f3]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/9) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-e235ea78de9d58e60875e67f180848f3]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/9) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-51415fc1faa0885777015c9399cc5945]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/10) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-51415fc1faa0885777015c9399cc5945]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/10) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-cda5bb949a721985718d62e0e6caf702]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/11) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-cda5bb949a721985718d62e0e6caf702]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/11) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-2cd219d54b5e3121436a14bd2c1b13c4]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/12) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-2cd219d54b5e3121436a14bd2c1b13c4]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/12) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-16a9356066d9c4706dded088a21605cf]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/13) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-16a9356066d9c4706dded088a21605cf]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/13) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-59b346a3a09f487ddebd5cd778cf7594]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/14) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-59b346a3a09f487ddebd5cd778cf7594]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/14) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-9ed124cf1268214a145a718a1fdd4b1b]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/15) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-9ed124cf1268214a145a718a1fdd4b1b]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/15) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-b28e5c97dfecdd139607f4c0e0d6912d]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/16) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-b28e5c97dfecdd139607f4c0e0d6912d]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/16) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-087c3da963689eb11cb74233b0756545]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/17) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-087c3da963689eb11cb74233b0756545]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/17) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-f05ee5694572dd04cacdbfa933bbc02b]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/18) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-f05ee5694572dd04cacdbfa933bbc02b]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/18) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-10de413f8fabcb475f5940fc61608d12]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/19) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-10de413f8fabcb475f5940fc61608d12]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/19) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
 
-[^key-39de8dfe3ec91c72f6fec4c98e59a6ed]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/20) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)
+[^c-39de8dfe3ec91c72f6fec4c98e59a6ed]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2022/34/schedule/paragraph/20) in force at 28.6.2022, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2022/34/section/4/3)

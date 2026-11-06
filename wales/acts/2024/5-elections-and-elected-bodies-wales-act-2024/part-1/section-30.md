@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Guidance for political parties to promote diversity in persons seeking elected office[^key-5471ce3bb1475b09c7bb7b787e8474bb]
+## 30. Guidance for political parties to promote diversity in persons seeking elected office[^c-5471ce3bb1475b09c7bb7b787e8474bb]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5471ce3bb1475b09c7bb7b787e8474bb]: Commencement: [S. 30](https://www.legislation.gov.uk/asc/2024/5/section/30) in force at 9.11.2024, see [s. 72(2)(c)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/c)
+[^c-5471ce3bb1475b09c7bb7b787e8474bb]: Commencement: [S. 30](https://www.legislation.gov.uk/asc/2024/5/section/30) in force at 9.11.2024, see [s. 72(2)(c)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/c)

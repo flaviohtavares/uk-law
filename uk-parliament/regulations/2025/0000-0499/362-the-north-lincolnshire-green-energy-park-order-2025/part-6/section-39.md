@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Felling or lopping of trees[^key-424a6629452c5dd7797bb43fa159b360]
+## 39. Felling or lopping of trees[^c-424a6629452c5dd7797bb43fa159b360]
 
 *Extent: E+W+S*
 
@@ -31,12 +31,12 @@ summary: ''
 
 (4) Save in an emergency, the undertaker must not enter any land under paragraph (1) without serving a notice of the intended entry on the owners and occupiers of that land and, where the land is a highway maintainable at the public expense, on the highway authority.
 
-(5) The notice under paragraph (4)[^key-000507c97768bcb86f74d682be6653e2] must be served no less than 14 days before entering the land.
+(5) The notice under paragraph (4)[^c-000507c97768bcb86f74d682be6653e2] must be served no less than 14 days before entering the land.
 
 (6) In carrying out any activity authorised by paragraph (1) the duty contained in section 206(1) (replacement of trees) of the 1990 Act does not apply.
 
 ## Annotations
 
-[^key-424a6629452c5dd7797bb43fa159b360]: Commencement: Art. 39 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-424a6629452c5dd7797bb43fa159b360]: Commencement: Art. 39 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
-[^key-000507c97768bcb86f74d682be6653e2]: Textual amendment: Words in [art. 39(5)](https://www.legislation.gov.uk/uksi/2025/362/article/39/5) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-000507c97768bcb86f74d682be6653e2]: Textual amendment: Words in [art. 39(5)](https://www.legislation.gov.uk/uksi/2025/362/article/39/5) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)

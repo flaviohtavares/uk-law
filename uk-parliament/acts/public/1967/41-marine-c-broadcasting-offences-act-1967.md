@@ -31,66 +31,66 @@ Marine, &c., Broadcasting (Offences) Act 1967 (repealed)
 
 1967 c.41
 
-[^key-db5daea38c792972e3db6e3bf0b6820f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db5daea38c792972e3db6e3bf0b6820f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Prohibition of broadcasting from ships and aircraft.[^key-db5daea38c792972e3db6e3bf0b6820f]
+## 1. Prohibition of broadcasting from ships and aircraft.[^c-db5daea38c792972e3db6e3bf0b6820f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prohibition of broadcasting from marine structures.[^key-db5daea38c792972e3db6e3bf0b6820f]
+## 2. Prohibition of broadcasting from marine structures.[^c-db5daea38c792972e3db6e3bf0b6820f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2A. Unlawful broadcasting from within prescribed areas of the high seas.[^key-db5daea38c792972e3db6e3bf0b6820f]
+## 2A. Unlawful broadcasting from within prescribed areas of the high seas.[^c-db5daea38c792972e3db6e3bf0b6820f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition of acts connected with broadcasting from certain ships and aircraft, and from marine structures outside United Kingdom.[^key-db5daea38c792972e3db6e3bf0b6820f]
+## 3. Prohibition of acts connected with broadcasting from certain ships and aircraft, and from marine structures outside United Kingdom.[^c-db5daea38c792972e3db6e3bf0b6820f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3A. Prohibition of management of stations broadcasting from ships, aircraft, etc.[^key-db5daea38c792972e3db6e3bf0b6820f]
+## 3A. Prohibition of management of stations broadcasting from ships, aircraft, etc.[^c-db5daea38c792972e3db6e3bf0b6820f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition of acts facilitating broadcasting from ships, aircraft, &c.[^key-db5daea38c792972e3db6e3bf0b6820f]
+## 4. Prohibition of acts facilitating broadcasting from ships, aircraft, &c.[^c-db5daea38c792972e3db6e3bf0b6820f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Prohibition of acts relating to matter broadcast from ships, aircraft, &c.[^key-db5daea38c792972e3db6e3bf0b6820f]
+## 5. Prohibition of acts relating to matter broadcast from ships, aircraft, &c.[^c-db5daea38c792972e3db6e3bf0b6820f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Penalties and legal proceedings.[^key-db5daea38c792972e3db6e3bf0b6820f]
+## 6. Penalties and legal proceedings.[^c-db5daea38c792972e3db6e3bf0b6820f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Special defence available in proceedings for carrying goods or persons in contravention of section 4.[^key-db5daea38c792972e3db6e3bf0b6820f]
+## 7. Special defence available in proceedings for carrying goods or persons in contravention of section 4.[^c-db5daea38c792972e3db6e3bf0b6820f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7A. Powers of enforcement in relation to marine offences under this Act.[^key-db5daea38c792972e3db6e3bf0b6820f]
+## 7A. Powers of enforcement in relation to marine offences under this Act.[^c-db5daea38c792972e3db6e3bf0b6820f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Saving for things done under wireless telegraphy licence.[^key-db5daea38c792972e3db6e3bf0b6820f]
+## 8. Saving for things done under wireless telegraphy licence.[^c-db5daea38c792972e3db6e3bf0b6820f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Interpretation.[^key-db5daea38c792972e3db6e3bf0b6820f]
+## 9. Interpretation.[^c-db5daea38c792972e3db6e3bf0b6820f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Power to extend Act to Isle of Man and Channel Islands.[^key-db5daea38c792972e3db6e3bf0b6820f]
+## 10. Power to extend Act to Isle of Man and Channel Islands.[^c-db5daea38c792972e3db6e3bf0b6820f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Short title and commencement.[^key-db5daea38c792972e3db6e3bf0b6820f]
+## 11. Short title and commencement.[^c-db5daea38c792972e3db6e3bf0b6820f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-db5daea38c792972e3db6e3bf0b6820f]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1967/41) repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
+[^c-db5daea38c792972e3db6e3bf0b6820f]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1967/41) repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))

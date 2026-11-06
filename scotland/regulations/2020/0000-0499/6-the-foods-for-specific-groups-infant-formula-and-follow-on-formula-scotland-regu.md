@@ -50,7 +50,7 @@ In accordance with section 48(4A) of the Food Safety Act 1990 [^c23962871], the 
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c23962881].
 
-## 1. Citation, commencement and extent[^key-77fefee13e87f76fbbb5286829da7b7a]
+## 1. Citation, commencement and extent[^c-77fefee13e87f76fbbb5286829da7b7a]
 
 (1) These Regulations may be cited as the Foods for Specific Groups (Infant Formula and Follow-on Formula) (Scotland) Regulations 2020 and come into force on 22 February 2020, except where paragraph (2) applies.
 
@@ -58,7 +58,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (3) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-4071f089914eee3ee0786a9eab2dec35][^key-0aacee6cdbbc8b2441ceb6e1c6e0fb03]
+## 2. Interpretation[^c-4071f089914eee3ee0786a9eab2dec35][^c-0aacee6cdbbc8b2441ceb6e1c6e0fb03]
 
 (1) In these Regulations—
 
@@ -71,21 +71,21 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (3) Expressions defined in Article 2 of the EU Regulation have the same meaning in these Regulations as they have in that Regulation.
 
-## 3. Enforcement[^key-17cba95ddebd6ea314984094d1c668df][^key-86881581c4d19d95340b99c967375c1e]
+## 3. Enforcement[^c-17cba95ddebd6ea314984094d1c668df][^c-86881581c4d19d95340b99c967375c1e]
 
 Each food authority must enforce and execute these Regulations within its area.
 
-## 4. Offences and penalties[^key-332a66aa181fae237ccb192f28b719f3][^key-5ab77b4324346f5169bebae5510ee90c]
+## 4. Offences and penalties[^c-332a66aa181fae237ccb192f28b719f3][^c-5ab77b4324346f5169bebae5510ee90c]
 
 (1) Subject to regulation 6(3), a person is commits an offence if they fail to comply with any specified EU law requirement.
 
 (2) A person who commits an offence under this regulation is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 5. Application of provisions of the Act[^key-d4e58eb3427e4f81a1a2480b35075933][^key-01964d66718500cfc672d1e88a2914ab]
+## 5. Application of provisions of the Act[^c-d4e58eb3427e4f81a1a2480b35075933][^c-01964d66718500cfc672d1e88a2914ab]
 
 The provisions of the Act specified in column 1 of the table in schedule 2 apply, with the modifications specified in column 2 of that table, for the purposes of these Regulations.
 
-## 6. Revocations, savings and transitional provisions[^key-1c3ce2853666ca0dbed50a5ea3712d71]
+## 6. Revocations, savings and transitional provisions[^c-1c3ce2853666ca0dbed50a5ea3712d71]
 
 (1) The instruments specified in column 1 of the table in schedule 3 are revoked to the extent specified in column 3 of that table, subject to paragraph 2.
 
@@ -103,11 +103,11 @@ The provisions of the Act specified in column 1 of the table in schedule 2 apply
   - (i) regulation 3(1) in the case of infant formula,
   - (ii) regulation 3(2) in the case of follow-on formula.
 
-(4)[^key-39aea4ea9cc97d930ebd775e275e4cc5] Regulations 2 to 5 do not apply in respect of infant formula and follow-on formula manufactured from protein hydrolysates until 22 February 2022.
+(4)[^c-39aea4ea9cc97d930ebd775e275e4cc5] Regulations 2 to 5 do not apply in respect of infant formula and follow-on formula manufactured from protein hydrolysates until 22 February 2022.
 
 (5) Schedule 4 makes provision in relation to infant formula and follow-on formula manufactured from protein hydrolysates until 22 February 2022.
 
-## 7. Consequential amendment[^key-00e4c7369303b4bbc2ed8af3bbda8845]
+## 7. Consequential amendment[^c-00e4c7369303b4bbc2ed8af3bbda8845]
 
 (1) The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 [^c23962901] are amended as follows.
 
@@ -121,7 +121,7 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE 1 — Specified EU law requirements[^key-2912a5d8c75da1ce655d0c7eb65ef43a]
+## SCHEDULE 1 — Specified EU law requirements[^c-2912a5d8c75da1ce655d0c7eb65ef43a]
 
 Regulation 2(1)
 
@@ -164,7 +164,7 @@ Regulation 2(1)
 | Article 11(3) (requirements on donations of informational or educational equipment or materials) |  |
 | Article 12 (notification requirements) | Article 1(1) |
 
-## SCHEDULE 2 — Modification of provisions of the Act[^key-a984ee7d70c3c2041572820122c1e2a3]
+## SCHEDULE 2 — Modification of provisions of the Act[^c-a984ee7d70c3c2041572820122c1e2a3]
 
 Regulation 5
 
@@ -190,7 +190,7 @@ Regulation 5
 </tbody>
 </table>
 
-## SCHEDULE 3 — Revocations[^key-538811c4322b8554df8fc5943e59c20e]
+## SCHEDULE 3 — Revocations[^c-538811c4322b8554df8fc5943e59c20e]
 
 Regulation 6(1)
 
@@ -202,7 +202,7 @@ Regulation 6(1)
 | The Infant Formula and Follow-on Formula (Scotland) Amendment Regulations 2014 | S.S.I. 2014/12 | The whole Regulations |
 | The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 | S.S.I. 2015/100 | Paragraph 19 of the schedule |
 
-## SCHEDULE 4 — Regulation of infant formula and follow-on formula manufactured from protein hydrolysates until 22 February 2022[^key-29ac2163028a8baea04dff85b72c6546]
+## SCHEDULE 4 — Regulation of infant formula and follow-on formula manufactured from protein hydrolysates until 22 February 2022[^c-29ac2163028a8baea04dff85b72c6546]
 
 Regulation 6(5)
 
@@ -293,7 +293,7 @@ The prohibitions and limitations on the use of food ingredients in infant formul
 
 (3) The relevant purity criteria for the purposes of sub-paragraph (2) are—
 
-- (a) the purity criteria for substances, as provided for in assimilated[^key-9430aba4f9ff1489520bfdc3dca08a41] law concerning the use of substances listed in Annex III, in the manufacture of foodstuffs for purposes other than those covered by the Directive, and
+- (a) the purity criteria for substances, as provided for in assimilated[^c-9430aba4f9ff1489520bfdc3dca08a41] law concerning the use of substances listed in Annex III, in the manufacture of foodstuffs for purposes other than those covered by the Directive, and
 - (b) in the absence of such purity criteria, generally acceptable purity criteria recommended by international bodies.
 
 ### 12. Notification of infant formula
@@ -514,42 +514,42 @@ Regulation 7 makes an amendment which arises as a consequence of those revocatio
 
 [^c23962881]: Marginal citation: OJ L 31, 1.2.2002, p.1, as last amended by Regulation (EU) 2019/1243 of the European Parliament and of the Council (OJ L 198, 25.7.2019, p.241).
 
-[^key-77fefee13e87f76fbbb5286829da7b7a]: Commencement: Reg. 1 in force at 22.2.2020, see reg. 1(1)
+[^c-77fefee13e87f76fbbb5286829da7b7a]: Commencement: Reg. 1 in force at 22.2.2020, see reg. 1(1)
 
-[^key-4071f089914eee3ee0786a9eab2dec35]: Commencement: Reg. 2 in force at 22.2.2020 for specified purposes, see reg. 1(1)
+[^c-4071f089914eee3ee0786a9eab2dec35]: Commencement: Reg. 2 in force at 22.2.2020 for specified purposes, see reg. 1(1)
 
-[^key-0aacee6cdbbc8b2441ceb6e1c6e0fb03]: Commencement: Reg. 2 in force at 22.2.2021 in so far as not already in force, see reg. 1(2)
+[^c-0aacee6cdbbc8b2441ceb6e1c6e0fb03]: Commencement: Reg. 2 in force at 22.2.2021 in so far as not already in force, see reg. 1(2)
 
-[^key-17cba95ddebd6ea314984094d1c668df]: Commencement: Reg. 3 in force at 22.2.2020 for specified purposes, see reg. 1(1)
+[^c-17cba95ddebd6ea314984094d1c668df]: Commencement: Reg. 3 in force at 22.2.2020 for specified purposes, see reg. 1(1)
 
-[^key-86881581c4d19d95340b99c967375c1e]: Commencement: Reg. 3 in force at 22.2.2021 in so far as not already in force, see reg. 1(2)
+[^c-86881581c4d19d95340b99c967375c1e]: Commencement: Reg. 3 in force at 22.2.2021 in so far as not already in force, see reg. 1(2)
 
-[^key-332a66aa181fae237ccb192f28b719f3]: Commencement: Reg. 4 in force at 22.2.2020 for specified purposes, see reg. 1(1)
+[^c-332a66aa181fae237ccb192f28b719f3]: Commencement: Reg. 4 in force at 22.2.2020 for specified purposes, see reg. 1(1)
 
-[^key-5ab77b4324346f5169bebae5510ee90c]: Commencement: Reg. 4 in force at 22.2.2021 in so far as not already in force, see reg. 1(2)
+[^c-5ab77b4324346f5169bebae5510ee90c]: Commencement: Reg. 4 in force at 22.2.2021 in so far as not already in force, see reg. 1(2)
 
-[^key-d4e58eb3427e4f81a1a2480b35075933]: Commencement: Reg. 5 in force at 22.2.2020 for specified purposes, see reg. 1(1)
+[^c-d4e58eb3427e4f81a1a2480b35075933]: Commencement: Reg. 5 in force at 22.2.2020 for specified purposes, see reg. 1(1)
 
-[^key-01964d66718500cfc672d1e88a2914ab]: Commencement: Reg. 5 in force at 22.2.2021 in so far as not already in force, see reg. 1(2)
+[^c-01964d66718500cfc672d1e88a2914ab]: Commencement: Reg. 5 in force at 22.2.2021 in so far as not already in force, see reg. 1(2)
 
-[^key-1c3ce2853666ca0dbed50a5ea3712d71]: Commencement: Reg. 6 in force at 22.2.2020, see reg. 1(1)
+[^c-1c3ce2853666ca0dbed50a5ea3712d71]: Commencement: Reg. 6 in force at 22.2.2020, see reg. 1(1)
 
 [^c23962891]: Marginal citation: [S.S.I. 2007/549](https://www.legislation.gov.uk/ssi/2007/549), as modified by [S.S.I. 2008/322](https://www.legislation.gov.uk/ssi/2008/322), [S.I](https://www.legislation.gov.uk/ssi/2008/322/section/I). 2011/1043, [S.S.I. 2014/12](https://www.legislation.gov.uk/ssi/2014/12), [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100) and [S.S.I. 2016/190](https://www.legislation.gov.uk/ssi/2016/190).
 
-[^key-39aea4ea9cc97d930ebd775e275e4cc5]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/ssi/2020/6/regulation/6/4)[(5)](https://www.legislation.gov.uk/ssi/2020/6/regulation/6/5) inserted (26.3.2021) by [The Foods for Specific Groups (Infant Formula and Follow-on Formula) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/123)](https://www.legislation.gov.uk/ssi/2021/123), [regs. 1](https://www.legislation.gov.uk/ssi/2021/123/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/123/regulation/2/2)
+[^c-39aea4ea9cc97d930ebd775e275e4cc5]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/ssi/2020/6/regulation/6/4)[(5)](https://www.legislation.gov.uk/ssi/2020/6/regulation/6/5) inserted (26.3.2021) by [The Foods for Specific Groups (Infant Formula and Follow-on Formula) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/123)](https://www.legislation.gov.uk/ssi/2021/123), [regs. 1](https://www.legislation.gov.uk/ssi/2021/123/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/123/regulation/2/2)
 
-[^key-00e4c7369303b4bbc2ed8af3bbda8845]: Commencement: Reg. 7 in force at 22.2.2020, see reg. 1(1)
+[^c-00e4c7369303b4bbc2ed8af3bbda8845]: Commencement: Reg. 7 in force at 22.2.2020, see reg. 1(1)
 
 [^c23962901]: Marginal citation: [S.S.I. 2019/193](https://www.legislation.gov.uk/ssi/2019/193), as amended by [S.S.I. 2019/232](https://www.legislation.gov.uk/ssi/2019/232).
 
-[^key-2912a5d8c75da1ce655d0c7eb65ef43a]: Commencement: Sch. 1 in force at 22.2.2020, see reg. 1(1)
+[^c-2912a5d8c75da1ce655d0c7eb65ef43a]: Commencement: Sch. 1 in force at 22.2.2020, see reg. 1(1)
 
 [^c23962911]: Marginal citation: Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 (OJ L 304, 22.11.2011, p.18).
 
-[^key-a984ee7d70c3c2041572820122c1e2a3]: Commencement: Sch. 2 in force at 22.2.2020, see reg. 1(1)
+[^c-a984ee7d70c3c2041572820122c1e2a3]: Commencement: Sch. 2 in force at 22.2.2020, see reg. 1(1)
 
-[^key-538811c4322b8554df8fc5943e59c20e]: Commencement: Sch. 3 in force at 22.2.2020, see reg. 1(1)
+[^c-538811c4322b8554df8fc5943e59c20e]: Commencement: Sch. 3 in force at 22.2.2020, see reg. 1(1)
 
-[^key-29ac2163028a8baea04dff85b72c6546]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ssi/2020/6/schedule/4) inserted (26.3.2021) by [The Foods for Specific Groups (Infant Formula and Follow-on Formula) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/123)](https://www.legislation.gov.uk/ssi/2021/123), [reg. 1](https://www.legislation.gov.uk/ssi/2021/123/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2021/123/schedule)
+[^c-29ac2163028a8baea04dff85b72c6546]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ssi/2020/6/schedule/4) inserted (26.3.2021) by [The Foods for Specific Groups (Infant Formula and Follow-on Formula) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/123)](https://www.legislation.gov.uk/ssi/2021/123), [reg. 1](https://www.legislation.gov.uk/ssi/2021/123/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2021/123/schedule)
 
-[^key-9430aba4f9ff1489520bfdc3dca08a41]: Textual amendment: Word in [sch. 4 para. 11(3)(a)](https://www.legislation.gov.uk/ssi/2020/6/schedule/4/paragraph/11/3/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 37](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/37)
+[^c-9430aba4f9ff1489520bfdc3dca08a41]: Textual amendment: Word in [sch. 4 para. 11(3)(a)](https://www.legislation.gov.uk/ssi/2020/6/schedule/4/paragraph/11/3/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 37](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/37)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Transitional provision: pending applications for trade licences[^key-3a1cf31224ce6218cd009f01441bea53][^key-a5b6327495eace2c01e6de475911938e]
+## 133. Transitional provision: pending applications for trade licences[^c-3a1cf31224ce6218cd009f01441bea53][^c-a5b6327495eace2c01e6de475911938e]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a1cf31224ce6218cd009f01441bea53]: Commencement: Reg. 133 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-3a1cf31224ce6218cd009f01441bea53]: Commencement: Reg. 133 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-a5b6327495eace2c01e6de475911938e]: Commencement: [Reg. 133](https://www.legislation.gov.uk/uksi/2019/411/regulation/133) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a5b6327495eace2c01e6de475911938e]: Commencement: [Reg. 133](https://www.legislation.gov.uk/uksi/2019/411/regulation/133) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

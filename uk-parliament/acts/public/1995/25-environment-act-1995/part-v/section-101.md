@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-afa57d3475818bf24d47b2fab92841b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-afa57d3475818bf24d47b2fab92841b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 59 of the [^c14540481]Land Drainage Act 1991 (grants to drainage bodies) in subsection (4), after the words “expenditure properly incurred by them with a view to” there shall be inserted “ (a) ” and at the end of that subsection there shall be added—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-afa57d3475818bf24d47b2fab92841b8]: Textual amendment: [S. 101(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/101/1) repealed (17.3.2004 for E., 1.4.2004 for W.) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 42](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/42), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2004/641/article/2/c/d); [S.I. 2004/910](https://www.legislation.gov.uk/wsi/2004/910), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2004/910/article/2/1/c)[(d)](https://www.legislation.gov.uk/wsi/2004/910/article/2/1/d)
+[^c-afa57d3475818bf24d47b2fab92841b8]: Textual amendment: [S. 101(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/101/1) repealed (17.3.2004 for E., 1.4.2004 for W.) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 42](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/42), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2004/641/article/2/c/d); [S.I. 2004/910](https://www.legislation.gov.uk/wsi/2004/910), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2004/910/article/2/1/c)[(d)](https://www.legislation.gov.uk/wsi/2004/910/article/2/1/d)
 
 [^c14540481]: Marginal citation: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).

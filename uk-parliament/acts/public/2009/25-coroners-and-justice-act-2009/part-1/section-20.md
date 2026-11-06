@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Medical certificate of cause of death[^key-78557d60ee1c215df1b381ed65453a78]
+## 20. Medical certificate of cause of death[^c-78557d60ee1c215df1b381ed65453a78]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
   - (ii) to give him or her the opportunity to mention any matter that might cause a senior coroner to think that the death should be investigated under section 1;
 - (l) provision for confirmation to be given in writing, either by the informant or by a person of a prescribed description, that the requirement referred to in paragraph (k) has been complied with;
 - (m) provision prescribing forms (including the form of an attending practitioner's certificate and of a medical examiner's certificate) for use by persons exercising functions under the regulations, and requiring the forms to be made available to those persons;
-- (n) provision requiring the Chief Medical Officer of the Department of Health and Social Care[^key-a564c6799c547a732d1232946c66a008], after consulting—
+- (n) provision requiring the Chief Medical Officer of the Department of Health and Social Care[^c-a564c6799c547a732d1232946c66a008], after consulting—
   - (i) the Officer with corresponding functions in relation to Wales,
   - (ii) the Registrar General, and
   - (iii) the Statistics Board,
@@ -64,7 +64,7 @@ summary: ''
 
 (4) Regulations under subsection (1) may provide for functions that would otherwise be exercisable by a registered medical practitioner who attended the deceased before his or her death to be exercisable, during a period of emergency, by a registered medical practitioner who did not do so.
 
-(5) The appropriate Minister may by regulations provide for a fee to be payable to an English NHS body (as defined by section[^key-39d1304c534262ad7987633d7f4ad893] 18A) or a Welsh NHS body (as defined by section 18B) in respect of—
+(5) The appropriate Minister may by regulations provide for a fee to be payable to an English NHS body (as defined by section[^c-39d1304c534262ad7987633d7f4ad893] 18A) or a Welsh NHS body (as defined by section 18B) in respect of—
 
 - (a) a medical examiner's confirmation of the cause of death stated on an attending practitioner's certificate, or
 - (b) the issue of a medical examiner's certificate.
@@ -84,8 +84,8 @@ summary: ''
 
 ## Annotations
 
-[^key-78557d60ee1c215df1b381ed65453a78]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2009/25/section/20) in force at 1.10.2023 by [S.I. 2023/1036](https://www.legislation.gov.uk/uksi/2023/1036), [art. 2(b)](https://www.legislation.gov.uk/uksi/2023/1036/article/2/b)
+[^c-78557d60ee1c215df1b381ed65453a78]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2009/25/section/20) in force at 1.10.2023 by [S.I. 2023/1036](https://www.legislation.gov.uk/uksi/2023/1036), [art. 2(b)](https://www.legislation.gov.uk/uksi/2023/1036/article/2/b)
 
-[^key-a564c6799c547a732d1232946c66a008]: Textual amendment: Words in s. 20(1)(n) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 15(b)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/15/b) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-a564c6799c547a732d1232946c66a008]: Textual amendment: Words in s. 20(1)(n) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 15(b)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/15/b) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
-[^key-39d1304c534262ad7987633d7f4ad893]: Textual amendment: Words in [s. 20(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/20/5) substituted (1.10.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
+[^c-39d1304c534262ad7987633d7f4ad893]: Textual amendment: Words in [s. 20(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/20/5) substituted (1.10.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)

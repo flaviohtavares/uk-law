@@ -35,7 +35,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Introductory
 
-### 1. Interpretation[^key-173231ad3385673f4aaf02aff39373b8]
+### 1. Interpretation[^c-173231ad3385673f4aaf02aff39373b8]
 
 In this Act—
 
@@ -44,7 +44,7 @@ In this Act—
 
 ## Terms and conditions of higher education funding
 
-### 2. Higher education institutions: good governance[^key-e60904fef15545fb2fd1902dd70fd663]
+### 2. Higher education institutions: good governance[^c-e60904fef15545fb2fd1902dd70fd663]
 
 After section 9 of the 2005 Act insert—
 
@@ -54,7 +54,7 @@ After section 9 of the 2005 Act insert—
 
 .
 
-### 3. Widening access to higher education[^key-1e551bceeb6d99bd46b434bf9bea9026]
+### 3. Widening access to higher education[^c-1e551bceeb6d99bd46b434bf9bea9026]
 
 After section 9B of the 2005 Act, inserted by section 14, insert—
 
@@ -80,7 +80,7 @@ After section 9B of the 2005 Act, inserted by section 14, insert—
 
 .
 
-### 4. Fee cap: students liable for higher education fees[^key-b590c894acfc0cfbc9d1ed55c5f8d928]
+### 4. Fee cap: students liable for higher education fees[^c-b590c894acfc0cfbc9d1ed55c5f8d928]
 
 After section 9C of the 2005 Act, inserted by section 3, insert—
 
@@ -118,7 +118,7 @@ After section 9C of the 2005 Act, inserted by section 3, insert—
 
 ### 5. Regional colleges
 
-(1)[^key-ae16218e65e67e0c5348c8d589f24217] After section 7 of the 2005 Act insert—
+(1)[^c-ae16218e65e67e0c5348c8d589f24217] After section 7 of the 2005 Act insert—
 
 > **7A. Regional colleges**
 >
@@ -135,7 +135,7 @@ After section 9C of the 2005 Act, inserted by section 3, insert—
 
 .
 
-(2)[^key-d69f9395e728300eb3ee26ffdc1fe9c2] After section 23 of the 2005 Act insert—
+(2)[^c-d69f9395e728300eb3ee26ffdc1fe9c2] After section 23 of the 2005 Act insert—
 
 > **Regional colleges: functions**
 >
@@ -253,7 +253,7 @@ After section 9C of the 2005 Act, inserted by section 3, insert—
 
 ### 6. Colleges: boards of management
 
-(1)[^key-c2b32eff54eb2bc8b0f9dc84e85cefc2] For paragraph 3 of Schedule 2 to the 1992 Act substitute—
+(1)[^c-c2b32eff54eb2bc8b0f9dc84e85cefc2] For paragraph 3 of Schedule 2 to the 1992 Act substitute—
 
 > **3.**
 >
@@ -325,14 +325,14 @@ After section 9C of the 2005 Act, inserted by section 3, insert—
 
 .
 
-(2)[^key-8d10862826c7b34481003465e320ed2a] The Scottish Ministers may make such arrangements in relation to a board of management of a college of further education as they consider appropriate in connection with the coming into force of subsection (1) and may, in particular—
+(2)[^c-8d10862826c7b34481003465e320ed2a] The Scottish Ministers may make such arrangements in relation to a board of management of a college of further education as they consider appropriate in connection with the coming into force of subsection (1) and may, in particular—
 
 - (a) appoint on terms and conditions determined by them persons who are, from the day on which that subsection comes into force, to hold office as a member of the board as if appointed under paragraph 3(2)(a) or (f) or, as the case may be, 3A(2)(a) or (f) of Schedule 2 to the 1992 Act, or
 - (b) in the case of persons who are members of the board immediately before that day—
   - (i) make arrangements for them to continue in office from that day as if appointed under such provision of paragraph 3 or, as the case may be, 3A of Schedule 2 to the 1992 Act as they may determine, or
   - (ii) remove them from office.
 
-### 7. Colleges: mismanagement[^key-798e60743de4d1a08c2784332d47ca35]
+### 7. Colleges: mismanagement[^c-798e60743de4d1a08c2784332d47ca35]
 
 For section 24 of the 1992 Act substitute—
 
@@ -365,7 +365,7 @@ For section 24 of the 1992 Act substitute—
 
 ### 8. Regional strategic bodies
 
-(1)[^key-3667b833f3d2bdd2e53cd14bc5350ad4][^key-b1f7dc449d250321e3cc7ce56da35bad][^key-9fc8e02a1882f401de279a6bd4c8bf85][^key-710c195265e6a846d7c8d3aee8638c2d] After section 7A of the 2005 Act, inserted by section 5(1), insert—
+(1)[^c-3667b833f3d2bdd2e53cd14bc5350ad4][^c-b1f7dc449d250321e3cc7ce56da35bad][^c-9fc8e02a1882f401de279a6bd4c8bf85][^c-710c195265e6a846d7c8d3aee8638c2d] After section 7A of the 2005 Act, inserted by section 5(1), insert—
 
 > **7B. Regional strategic bodies**
 >
@@ -388,7 +388,7 @@ For section 24 of the 1992 Act substitute—
 
 .
 
-(2)[^key-3667b833f3d2bdd2e53cd14bc5350ad4][^key-b1f7dc449d250321e3cc7ce56da35bad][^key-9fc8e02a1882f401de279a6bd4c8bf85][^key-710c195265e6a846d7c8d3aee8638c2d] After schedule 2 to the 2005 Act insert—
+(2)[^c-3667b833f3d2bdd2e53cd14bc5350ad4][^c-b1f7dc449d250321e3cc7ce56da35bad][^c-9fc8e02a1882f401de279a6bd4c8bf85][^c-710c195265e6a846d7c8d3aee8638c2d] After schedule 2 to the 2005 Act insert—
 
 > **SCHEDULE 2A — Regional strategic bodies**
 >
@@ -405,7 +405,7 @@ For section 24 of the 1992 Act substitute—
 
 .
 
-(3)[^key-f0ebe767047337148a42cd7f7545f248] After section 7B of the 2005 Act, inserted by subsection (1), insert—
+(3)[^c-f0ebe767047337148a42cd7f7545f248] After section 7B of the 2005 Act, inserted by subsection (1), insert—
 
 > **7C. Assignation of colleges**
 >
@@ -451,7 +451,7 @@ For section 24 of the 1992 Act substitute—
 
 ### 9. Funding of and by regional strategic bodies
 
-(1)[^key-75ce1ad78f14725f305823944f9204a3] In section 12 of the 2005 Act—
+(1)[^c-75ce1ad78f14725f305823944f9204a3] In section 12 of the 2005 Act—
 
 - (a) in subsection (1)—
   - (i) in paragraph (a), after “fundable” insert “ post-16 education ”,
@@ -464,7 +464,7 @@ For section 24 of the 1992 Act substitute—
 - (b) in subsection (2), omit “subsection (5) of”,
 - (c) in subsection (5)(b), for “fundable bodies” substitute “ post-16 education bodies, or regional strategic bodies, ”.
 
-(2)[^key-7a7e38a1a6f39da969f406758e44b362][^key-b2cb359c0b2ac8e9f8a0ce84a2b6c8e0] After section 12 of the 2005 Act insert—
+(2)[^c-7a7e38a1a6f39da969f406758e44b362][^c-b2cb359c0b2ac8e9f8a0ce84a2b6c8e0] After section 12 of the 2005 Act insert—
 
 > **12A. Regional strategic bodies: administration of funds**
 >
@@ -527,7 +527,7 @@ For section 24 of the 1992 Act substitute—
 
 .
 
-### 10. Regional strategic bodies: functions[^key-bdda63df0115b5ba2730ff51f41d9511]
+### 10. Regional strategic bodies: functions[^c-bdda63df0115b5ba2730ff51f41d9511]
 
 After section 23D of the 2005 Act, inserted by section 5(2), insert—
 
@@ -784,7 +784,7 @@ After section 23D of the 2005 Act, inserted by section 5(2), insert—
 
 ### 11. Regional boards: constitution
 
-(1)[^key-9cfac2d0a9492cb9da4c1af6e95fe1cb] After section 23O of the 2005 Act, inserted by section 10, insert—
+(1)[^c-9cfac2d0a9492cb9da4c1af6e95fe1cb] After section 23O of the 2005 Act, inserted by section 10, insert—
 
 > **Regional boards: constitution etc.**
 >
@@ -794,7 +794,7 @@ After section 23D of the 2005 Act, inserted by section 5(2), insert—
 
 .
 
-(2)[^key-0bb6ba0fe37d60daed24dc3a58f309a5][^key-e5bd5e74b0db5369aceb21b4205fc5a7] After schedule 2A to the 2005 Act, inserted by section 8(2), insert—
+(2)[^c-0bb6ba0fe37d60daed24dc3a58f309a5][^c-e5bd5e74b0db5369aceb21b4205fc5a7] After schedule 2A to the 2005 Act, inserted by section 8(2), insert—
 
 > **SCHEDULE 2B — Regional boards**
 >
@@ -1093,7 +1093,7 @@ After section 23D of the 2005 Act, inserted by section 5(2), insert—
 
 .
 
-### 12. Regional boards: mismanagement[^key-cf15d703e161c061d26ccb57fc937ec4]
+### 12. Regional boards: mismanagement[^c-cf15d703e161c061d26ccb57fc937ec4]
 
 After section 23P of the 2005 Act, inserted by section 11(1), insert—
 
@@ -1122,7 +1122,7 @@ After section 23P of the 2005 Act, inserted by section 11(1), insert—
 
 .
 
-### 13. Establishment and abolition of regional boards: supplemental[^key-07f8f4c0df86a19c92ef70bcc67424a7][^key-567bbf0a802646c50ada69228ba65b27]
+### 13. Establishment and abolition of regional boards: supplemental[^c-07f8f4c0df86a19c92ef70bcc67424a7][^c-567bbf0a802646c50ada69228ba65b27]
 
 After section 23Q of the 2005 Act, inserted by section 12, insert—
 
@@ -1151,7 +1151,7 @@ After section 23Q of the 2005 Act, inserted by section 12, insert—
 
 ## Further education institutions: good governance
 
-### 14. Further education institutions: good governance[^key-3d13cfd1b58e9a74389911868706059a]
+### 14. Further education institutions: good governance[^c-3d13cfd1b58e9a74389911868706059a]
 
 After section 9A of the 2005 Act, inserted by section 2, insert—
 
@@ -1168,7 +1168,7 @@ After section 9A of the 2005 Act, inserted by section 2, insert—
 
 ## Duties of Funding Council in relation to widening access
 
-### 15. Council to have regard to desirability of widening access[^key-e25c4ad903a9ddec138d416a3ef43865]
+### 15. Council to have regard to desirability of widening access[^c-e25c4ad903a9ddec138d416a3ef43865]
 
 (1) Section 20 of the 2005 Act is amended as follows.
 
@@ -1200,7 +1200,7 @@ After section 9A of the 2005 Act, inserted by section 2, insert—
 
 .
 
-### 16. Council to review progress with widening access[^key-705804f7788d74c0d73b916eebf95475]
+### 16. Council to review progress with widening access[^c-705804f7788d74c0d73b916eebf95475]
 
 After section 19 of the 2005 Act insert—
 
@@ -1244,7 +1244,7 @@ After section 19 of the 2005 Act insert—
 
 ## Review of further and higher education
 
-### 17. Review of further and higher education[^key-a3acc1f3ba5de525f8b2b1ad543cfc0b]
+### 17. Review of further and higher education[^c-a3acc1f3ba5de525f8b2b1ad543cfc0b]
 
 After section 14 of the 2005 Act insert—
 
@@ -1289,7 +1289,7 @@ After section 14 of the 2005 Act insert—
 
 ## Collective bargaining framework for college staff
 
-### 18. Collective bargaining framework for college staff[^key-2c5cc43f725293b4c1525bff5b1d5c50]
+### 18. Collective bargaining framework for college staff[^c-2c5cc43f725293b4c1525bff5b1d5c50]
 
 After section 15 of the 1992 Act insert—
 
@@ -1320,7 +1320,7 @@ After section 15 of the 1992 Act insert—
 
 ## Equal opportunities
 
-### 19. Equal opportunities: post-16 education bodies etc.[^key-87e1571b562ebfa4bee445c590037266][^key-f5c3f8fb848a4dc27f542b4a04dde35a]
+### 19. Equal opportunities: post-16 education bodies etc.[^c-87e1571b562ebfa4bee445c590037266][^c-f5c3f8fb848a4dc27f542b4a04dde35a]
 
 After section 26 of the 2005 Act insert—
 
@@ -1334,7 +1334,7 @@ After section 26 of the 2005 Act insert—
 
 ## Information about young people's involvement in education and training
 
-### 20. Duty to provide information to Skills Development Scotland[^key-c6a3c5e398e3e65b153fb78da25e637a]
+### 20. Duty to provide information to Skills Development Scotland[^c-c6a3c5e398e3e65b153fb78da25e637a]
 
 (1) The Scottish Ministers may, by order, require a person to provide information the person holds about a young person to The Skills Development Scotland Co. Limited for the purposes of enabling or assisting it—
 
@@ -1372,7 +1372,7 @@ After section 26 of the 2005 Act insert—
 
 ## General
 
-### 21. Modification of enactments[^key-046401f0e62a05345dea6f8feb168420][^key-60f0b8c0d31ab82c95ab2f1e0f706417][^key-ba289d883409afc2346dd3dee201b621][^key-970d35fdb62839411d22c2b1cd7498ec][^key-0057b10e776f1aff0e3b0e15140718da]
+### 21. Modification of enactments[^c-046401f0e62a05345dea6f8feb168420][^c-60f0b8c0d31ab82c95ab2f1e0f706417][^c-ba289d883409afc2346dd3dee201b621][^c-970d35fdb62839411d22c2b1cd7498ec][^c-0057b10e776f1aff0e3b0e15140718da]
 
 The schedule to this Act (which makes minor amendments to enactments and otherwise modifies enactments for the purposes of or in consequence of this Act) has effect.
 
@@ -1405,7 +1405,7 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 
 ### Education (Scotland) Act 1980 (c.44)
 
-**1.**[^key-c79da2e83fb3a393cdeeea31dd72545e] (1) The Education (Scotland) Act 1980 is amended as follows.
+**1.**[^c-c79da2e83fb3a393cdeeea31dd72545e] (1) The Education (Scotland) Act 1980 is amended as follows.
 
 (2) In section 73ZA—
 
@@ -1419,12 +1419,12 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 
 ### Further and Higher Education (Scotland) Act 1992 (c.37)
 
-**2.** (1)[^key-ffffab206897ca2bbec0959c534fd117] The 1992 Act is amended as follows.
+**2.** (1)[^c-ffffab206897ca2bbec0959c534fd117] The 1992 Act is amended as follows.
 
 (2) In section 3—
 
 - (a) in subsection (6), after “Act” insert “ and the Further and Higher Education (Scotland) Act 2005 ”,
-- (b)[^key-2fdfa28b0d3c5e05456ac7d74f142667][^key-38424c760054095a0b089fe1d291a54e] after subsection (6) insert—
+- (b)[^c-2fdfa28b0d3c5e05456ac7d74f142667][^c-38424c760054095a0b089fe1d291a54e] after subsection (6) insert—
 
   > (7) Before making regulations under subsection (6), the Scottish Ministers must consult—
   >
@@ -1456,7 +1456,7 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 
   .
 
-(4)[^key-20edf1b3a4aaecfb15e50bd8c5fbec11] In section 12—
+(4)[^c-20edf1b3a4aaecfb15e50bd8c5fbec11] In section 12—
 
 - (a) in subsection (2)(d), after “Act” insert “ or of the Further and Higher Education (Scotland) Act 2005 ”,
 - (b) after subsection (4) insert—
@@ -1578,7 +1578,7 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
   > **5C.** Paragraphs 5A and 5B do not apply in relation to the principal of the college.
 
   ,
-- (d)[^key-bb8764b13ef35840c6b4466dc7638a35][^key-12657a1662f6852f5a48ff9c9d8e8e2f] omit paragraphs 6 to 10,
+- (d)[^c-bb8764b13ef35840c6b4466dc7638a35][^c-12657a1662f6852f5a48ff9c9d8e8e2f] omit paragraphs 6 to 10,
 - (e) in paragraph 11(1), for “paragraphs 12 and” substitute “ paragraph ”,
 - (f) omit paragraph 12,
 - (g) in paragraph 16, after “Act” insert “ and paragraph 16A below ”,
@@ -1590,15 +1590,15 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 
 ### Education Act 1994 (c.30)
 
-**3.**[^key-f0aa330f5823c21af2632b34cdee50db] In section 21(2)(b) of the Education Act 1994, for the words from “, or” to “4(1)” substitute “ is established in pursuance of Part 1 ”.
+**3.**[^c-f0aa330f5823c21af2632b34cdee50db] In section 21(2)(b) of the Education Act 1994, for the words from “, or” to “4(1)” substitute “ is established in pursuance of Part 1 ”.
 
 ### Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
 
-**4.**[^key-9fa3bf46439bff896289f1c03e0f2efc] In schedule 3 to the Ethical Standards in Public Life etc. (Scotland) Act 2000, after the entry for “Quality Meat Scotland” insert— “ A regional board (within the meaning of the Further and Higher Education (Scotland) Act 2005) ”.
+**4.**[^c-9fa3bf46439bff896289f1c03e0f2efc] In schedule 3 to the Ethical Standards in Public Life etc. (Scotland) Act 2000, after the entry for “Quality Meat Scotland” insert— “ A regional board (within the meaning of the Further and Higher Education (Scotland) Act 2005) ”.
 
 ### Scottish Public Services Ombudsman Act 2002 (asp 11)
 
-**5.**[^key-75155a581b75d41a5eb6e53700d08b7e] (1) The Scottish Public Services Ombudsman Act 2002 is amended as follows.
+**5.**[^c-75155a581b75d41a5eb6e53700d08b7e] (1) The Scottish Public Services Ombudsman Act 2002 is amended as follows.
 
 (2) In section 3—
 
@@ -1617,11 +1617,11 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 
 ### Freedom of Information (Scotland) Act 2002 (asp 13)
 
-**6.**[^key-c77901426c21eb7c87ec6999ba0692d7] In paragraph 49 of schedule 1 to the Freedom of Information (Scotland) Act 2002, after “Council” insert “ or a regional strategic body (within the meaning of the Further and Higher Education (Scotland) Act 2005) ”.
+**6.**[^c-c77901426c21eb7c87ec6999ba0692d7] In paragraph 49 of schedule 1 to the Freedom of Information (Scotland) Act 2002, after “Council” insert “ or a regional strategic body (within the meaning of the Further and Higher Education (Scotland) Act 2005) ”.
 
 ### Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
 
-**7.**[^key-876a050f8ff02f85e0ab707606a41a3c][^key-8dd3776468cee2d769e957bb9bb35041] In schedule 2 to the Public Appointments and Public Bodies etc. (Scotland) Act 2003, after the cross-heading “*Offices*” insert—
+**7.**[^c-876a050f8ff02f85e0ab707606a41a3c][^c-8dd3776468cee2d769e957bb9bb35041] In schedule 2 to the Public Appointments and Public Bodies etc. (Scotland) Act 2003, after the cross-heading “*Offices*” insert—
 
 > The chairing member of the board of management of a college of further education which is designated as a regional college by order under section 7A of the Further and Higher Education (Scotland) Act 2005
 >
@@ -1631,19 +1631,19 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 
 ### Further and Higher Education (Scotland) Act 2005 (asp 6)
 
-**8.** (1)[^key-9e7b7a49d0b5ca4ae9c647f5e636bcd7] The 2005 Act is amended as follows.
+**8.** (1)[^c-9e7b7a49d0b5ca4ae9c647f5e636bcd7] The 2005 Act is amended as follows.
 
-(2)[^key-137bf7a6c1b9ff442c42fd81d6de175a] In section 3—
+(2)[^c-137bf7a6c1b9ff442c42fd81d6de175a] In section 3—
 
 - (a) in paragraph (a), for first “fundable” substitute “ post-16 education ”,
 - (b) in paragraph (b), for “fundable” substitute “ post-16 education ”.
 
-(3)[^key-137bf7a6c1b9ff442c42fd81d6de175a] In section 4(1)—
+(3)[^c-137bf7a6c1b9ff442c42fd81d6de175a] In section 4(1)—
 
 - (a) in paragraph (a), for third “fundable” substitute “ post-16 education ”,
 - (b) in paragraph (b), for “fundable” substitute “ post-16 education ”.
 
-(4)[^key-137bf7a6c1b9ff442c42fd81d6de175a] In section 6—
+(4)[^c-137bf7a6c1b9ff442c42fd81d6de175a] In section 6—
 
 - (a) for subsection (1) substitute—
 
@@ -1660,24 +1660,24 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 (5) In section 7—
 
 - (a) in subsection (2)—
-  - (i)[^key-6db2a7890a2831b85714b7a759820ebd] after paragraph (f) insert—
+  - (i)[^c-6db2a7890a2831b85714b7a759820ebd] after paragraph (f) insert—
 
     > - (fa) arrangements for the purpose of seeking to ensure that the interests of the body's students are represented by a students' association;
 
     ,
-  - (ii)[^key-137bf7a6c1b9ff442c42fd81d6de175a] in paragraph (h), for third “fundable” substitute “ post-16 education ”,
-  - (iii)[^key-401c041c5e9c9039ee4721619f91a5d8] omit the word “and” appearing after paragraph (h),
-  - (iv)[^key-401c041c5e9c9039ee4721619f91a5d8] after paragraph (h) insert—
+  - (ii)[^c-137bf7a6c1b9ff442c42fd81d6de175a] in paragraph (h), for third “fundable” substitute “ post-16 education ”,
+  - (iii)[^c-401c041c5e9c9039ee4721619f91a5d8] omit the word “and” appearing after paragraph (h),
+  - (iv)[^c-401c041c5e9c9039ee4721619f91a5d8] after paragraph (h) insert—
 
     > - (ha) where the body is a regional strategic body, procedures and arrangements for the administration by the body of the funds mentioned in section 12A(2) and for the exercise of its other functions as a regional strategic body; and
 
     ,
-- (b)[^key-401c041c5e9c9039ee4721619f91a5d8] after subsection (2) insert—
+- (b)[^c-401c041c5e9c9039ee4721619f91a5d8] after subsection (2) insert—
 
   > (2A) Paragraph (ha) of subsection (2) applies only where the Council is considering whether to remove the entry relating to the body concerned from schedule 2.
-- (c)[^key-401c041c5e9c9039ee4721619f91a5d8] in subsection (4), for “(h)” substitute “ (ha) ”.
+- (c)[^c-401c041c5e9c9039ee4721619f91a5d8] in subsection (4), for “(h)” substitute “ (ha) ”.
 
-(6)[^key-64326a02a554ed3408a8a1c575e431b3][^key-fbaf90aee0c21688925c4dfe5c599241] After section 7C, inserted by section 8(3), insert—
+(6)[^c-64326a02a554ed3408a8a1c575e431b3][^c-fbaf90aee0c21688925c4dfe5c599241] After section 7C, inserted by section 8(3), insert—
 
 > **7D. Orders under sections 7A to 7C: supplemental**
 >
@@ -1719,7 +1719,7 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 (7) In section 9—
 
 - (a) in subsection (3)—
-  - (i)[^key-5b6fe9b49733ebc2c15134a9cb9b1267] in paragraph (b), for the words from “the” to “both)” substitute “ any of the conditions referred to in subsections (4) to (5A) ”,
+  - (i)[^c-5b6fe9b49733ebc2c15134a9cb9b1267] in paragraph (b), for the words from “the” to “both)” substitute “ any of the conditions referred to in subsections (4) to (5A) ”,
   - (ii) after paragraph (b) insert—
 
     > - (c) include any terms or conditions referred to in sections 9A to 9D.
@@ -1736,7 +1736,7 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 
   ,
 - (c) in subsection (5)(a), after “fundable” insert “ post-16 education ”,
-- (d)[^key-5b6fe9b49733ebc2c15134a9cb9b1267] after subsection (5) insert—
+- (d)[^c-5b6fe9b49733ebc2c15134a9cb9b1267] after subsection (5) insert—
 
   > (5A) The condition is that—
   >
@@ -1794,7 +1794,7 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 - (a) in subsection (1), for third “fundable” substitute “ post-16 education ”,
 - (b) in subsection (2), for “fundable” substitute “ post-16 education ”.
 
-(11)[^key-cc35ea235abd8cba953f6cb65094bd46] After section 13 insert—
+(11)[^c-cc35ea235abd8cba953f6cb65094bd46] After section 13 insert—
 
 > **13A. Performance of regional strategic bodies**
 >
@@ -1890,7 +1890,7 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 
   .
 
-(18)[^key-ce1d8e71a59e078a7d230d535f6bbe2c][^key-64627f2d4f056ce8d883422bcc52a6f8] After section 25 insert—
+(18)[^c-ce1d8e71a59e078a7d230d535f6bbe2c][^c-64627f2d4f056ce8d883422bcc52a6f8] After section 25 insert—
 
 > **25A. Provision of information**
 >
@@ -1905,7 +1905,7 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 
 .
 
-(19)[^key-1080c958e8616fad9303c06e8af3d625] In section 26—
+(19)[^c-1080c958e8616fad9303c06e8af3d625] In section 26—
 
 - (a) in subsection (1), for “fundable” substitute “ post-16 education ”,
 - (b) in subsection (2), for “fundable” substitute “ post-16 education ”,
@@ -1913,16 +1913,16 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 
 (20) In section 28—
 
-- (a)[^key-1080c958e8616fad9303c06e8af3d625] in subsection (1), after “body” insert “ or of any of a regional strategic body's colleges ”,
-- (b)[^key-cc35ea235abd8cba953f6cb65094bd46] in subsection (3), after “12” insert “ or, as the case may be, by a regional strategic body under section 12B ”.
+- (a)[^c-1080c958e8616fad9303c06e8af3d625] in subsection (1), after “body” insert “ or of any of a regional strategic body's colleges ”,
+- (b)[^c-cc35ea235abd8cba953f6cb65094bd46] in subsection (3), after “12” insert “ or, as the case may be, by a regional strategic body under section 12B ”.
 
-(21)[^key-1080c958e8616fad9303c06e8af3d625] In section 31, for “fundable” substitute “ post-16 education ”.
+(21)[^c-1080c958e8616fad9303c06e8af3d625] In section 31, for “fundable” substitute “ post-16 education ”.
 
 (22) In section 34(4)—
 
-- (a)[^key-6db2a7890a2831b85714b7a759820ebd] in paragraph (b), for “7(1) or (4)” substitute “ 7(4) ”,
-- (b)[^key-6db2a7890a2831b85714b7a759820ebd] omit the word “or” appearing after paragraph (b),
-- (c)[^key-4edf8c1837b91d4eb7c4437e269fd80e][^key-a4ef2c4d06fb522acf8f55ff3e29b6cd][^key-64627f2d4f056ce8d883422bcc52a6f8] after paragraph (b) insert—
+- (a)[^c-6db2a7890a2831b85714b7a759820ebd] in paragraph (b), for “7(1) or (4)” substitute “ 7(4) ”,
+- (b)[^c-6db2a7890a2831b85714b7a759820ebd] omit the word “or” appearing after paragraph (b),
+- (c)[^c-4edf8c1837b91d4eb7c4437e269fd80e][^c-a4ef2c4d06fb522acf8f55ff3e29b6cd][^c-64627f2d4f056ce8d883422bcc52a6f8] after paragraph (b) insert—
 
   > - (ba) an order under section 7(1) (other than an order which is made only in consequence of a body changing its name or being closed);
   > - (bb) an order under section 7B(2)(a) which establishes a regional board;
@@ -1932,7 +1932,7 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
   > - (bf) an order under section 23O(11);
 
   ,
-- (d)[^key-cc35ea235abd8cba953f6cb65094bd46] after paragraph (c) insert
+- (d)[^c-cc35ea235abd8cba953f6cb65094bd46] after paragraph (c) insert
 
   > ; or
   >
@@ -1940,10 +1940,10 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 
   .
 
-(23)[^key-1080c958e8616fad9303c06e8af3d625] In section 35—
+(23)[^c-1080c958e8616fad9303c06e8af3d625] In section 35—
 
 - (a) in subsection (1)—
-  - (i)[^key-9e7b7a49d0b5ca4ae9c647f5e636bcd7] after the definition of “the 1992 Act” insert—
+  - (i)[^c-9e7b7a49d0b5ca4ae9c647f5e636bcd7] after the definition of “the 1992 Act” insert—
 
     > “**college of further education**” means the governing body of a body—
     >
@@ -1952,7 +1952,7 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 
     ,
   - (ii) in the definition of “fundable body”, for “6(2)” substitute “ 6(1) ”,
-  - (iii)[^key-5b8499092f98d20c48060113f0dfe310] after the definition of “fundable higher education” insert—
+  - (iii)[^c-5b8499092f98d20c48060113f0dfe310] after the definition of “fundable higher education” insert—
 
     > “**fundable post-16 education body**” is to be construed in accordance with section 6(2);
     >
@@ -1962,7 +1962,7 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
     > - (b) a designated institution (within the meaning of section 44(2) of the 1992 Act);
 
     ,
-  - (iv)[^key-95b90ea87a378ed45907d05fc3cc2a9d] after the definition of “the Parliament” insert—
+  - (iv)[^c-95b90ea87a378ed45907d05fc3cc2a9d] after the definition of “the Parliament” insert—
 
     > “**post-16 education body**” means—
     >
@@ -1988,7 +1988,7 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 
   .
 
-(24)[^key-1080c958e8616fad9303c06e8af3d625] In schedule 1, in paragraph 4—
+(24)[^c-1080c958e8616fad9303c06e8af3d625] In schedule 1, in paragraph 4—
 
 - (a) the existing provision becomes sub-paragraph (1), and
 - (b) after that sub-paragraph insert—
@@ -2018,138 +2018,138 @@ The short title of this Act is the Post-16 Education (Scotland) Act 2013.
 
 ### Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)
 
-**9.**[^key-0f9420773c6522a9f958ef7dd7b6aa10] In the definition of “further education institution” in paragraph 15 of schedule 2 to the Protection of Vulnerable Groups (Scotland) Act 2007, after “(asp 6)” insert “ or a college of further education which is assigned to a regional strategic body by order made under section 7C(1) of that Act ”.
+**9.**[^c-0f9420773c6522a9f958ef7dd7b6aa10] In the definition of “further education institution” in paragraph 15 of schedule 2 to the Protection of Vulnerable Groups (Scotland) Act 2007, after “(asp 6)” insert “ or a college of further education which is assigned to a regional strategic body by order made under section 7C(1) of that Act ”.
 
 ## Annotations
 
-[^key-173231ad3385673f4aaf02aff39373b8]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2013/12/section/1) in force at 10.10.2013 by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
+[^c-173231ad3385673f4aaf02aff39373b8]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2013/12/section/1) in force at 10.10.2013 by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
 
-[^key-e60904fef15545fb2fd1902dd70fd663]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2013/12/section/2) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-e60904fef15545fb2fd1902dd70fd663]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2013/12/section/2) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-1e551bceeb6d99bd46b434bf9bea9026]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2013/12/section/3) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-1e551bceeb6d99bd46b434bf9bea9026]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2013/12/section/3) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-b590c894acfc0cfbc9d1ed55c5f8d928]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2013/12/section/4) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2014/21/article/3/2))
+[^c-b590c894acfc0cfbc9d1ed55c5f8d928]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2013/12/section/4) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2014/21/article/3/2))
 
-[^key-ae16218e65e67e0c5348c8d589f24217]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/asp/2013/12/section/5/1) in force at 13.1.2014 by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
+[^c-ae16218e65e67e0c5348c8d589f24217]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/asp/2013/12/section/5/1) in force at 13.1.2014 by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
 
-[^key-d69f9395e728300eb3ee26ffdc1fe9c2]: Commencement: [S. 5(2)](https://www.legislation.gov.uk/asp/2013/12/section/5/2) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-d69f9395e728300eb3ee26ffdc1fe9c2]: Commencement: [S. 5(2)](https://www.legislation.gov.uk/asp/2013/12/section/5/2) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-c2b32eff54eb2bc8b0f9dc84e85cefc2]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2013/12/section/6/1) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/21/article/5), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/21/schedule/2))
+[^c-c2b32eff54eb2bc8b0f9dc84e85cefc2]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/asp/2013/12/section/6/1) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/21/article/5), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/21/schedule/2))
 
-[^key-8d10862826c7b34481003465e320ed2a]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/asp/2013/12/section/6/2) in force at 10.10.2013 by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
+[^c-8d10862826c7b34481003465e320ed2a]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/asp/2013/12/section/6/2) in force at 10.10.2013 by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
 
-[^key-798e60743de4d1a08c2784332d47ca35]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2013/12/section/7) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2014/21/article/3/2))
+[^c-798e60743de4d1a08c2784332d47ca35]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2013/12/section/7) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2014/21/article/3/2))
 
-[^key-3667b833f3d2bdd2e53cd14bc5350ad4]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/asp/2013/12/section/8/1)[(2)](https://www.legislation.gov.uk/asp/2013/12/section/8/2) in force at 3.3.2014 for specified purposes by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-3667b833f3d2bdd2e53cd14bc5350ad4]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/asp/2013/12/section/8/1)[(2)](https://www.legislation.gov.uk/asp/2013/12/section/8/2) in force at 3.3.2014 for specified purposes by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-b1f7dc449d250321e3cc7ce56da35bad]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/asp/2013/12/section/8/1)[(2)](https://www.legislation.gov.uk/asp/2013/12/section/8/2) in force at 1.5.2014 for specified purposes by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-b1f7dc449d250321e3cc7ce56da35bad]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/asp/2013/12/section/8/1)[(2)](https://www.legislation.gov.uk/asp/2013/12/section/8/2) in force at 1.5.2014 for specified purposes by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
 
-[^key-9fc8e02a1882f401de279a6bd4c8bf85]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/asp/2013/12/section/8/1)[(2)](https://www.legislation.gov.uk/asp/2013/12/section/8/2) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/144](https://www.legislation.gov.uk/ssi/2014/144), [art. 2](https://www.legislation.gov.uk/ssi/2014/144/article/2)
+[^c-9fc8e02a1882f401de279a6bd4c8bf85]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/asp/2013/12/section/8/1)[(2)](https://www.legislation.gov.uk/asp/2013/12/section/8/2) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/144](https://www.legislation.gov.uk/ssi/2014/144), [art. 2](https://www.legislation.gov.uk/ssi/2014/144/article/2)
 
-[^key-710c195265e6a846d7c8d3aee8638c2d]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/asp/2013/12/section/8/1)[(2)](https://www.legislation.gov.uk/asp/2013/12/section/8/2) in force at 31.3.2015 in so far as not already in force by [S.S.I. 2015/82](https://www.legislation.gov.uk/ssi/2015/82), [art. 2](https://www.legislation.gov.uk/ssi/2015/82/article/2)
+[^c-710c195265e6a846d7c8d3aee8638c2d]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/asp/2013/12/section/8/1)[(2)](https://www.legislation.gov.uk/asp/2013/12/section/8/2) in force at 31.3.2015 in so far as not already in force by [S.S.I. 2015/82](https://www.legislation.gov.uk/ssi/2015/82), [art. 2](https://www.legislation.gov.uk/ssi/2015/82/article/2)
 
-[^key-f0ebe767047337148a42cd7f7545f248]: Commencement: [S. 8(3)](https://www.legislation.gov.uk/asp/2013/12/section/8/3) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-f0ebe767047337148a42cd7f7545f248]: Commencement: [S. 8(3)](https://www.legislation.gov.uk/asp/2013/12/section/8/3) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-75ce1ad78f14725f305823944f9204a3]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/asp/2013/12/section/9/1) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-75ce1ad78f14725f305823944f9204a3]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/asp/2013/12/section/9/1) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-7a7e38a1a6f39da969f406758e44b362]: Commencement: [S. 9(2)](https://www.legislation.gov.uk/asp/2013/12/section/9/2) in force at 1.5.2014 for specified purposes by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-7a7e38a1a6f39da969f406758e44b362]: Commencement: [S. 9(2)](https://www.legislation.gov.uk/asp/2013/12/section/9/2) in force at 1.5.2014 for specified purposes by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
 
-[^key-b2cb359c0b2ac8e9f8a0ce84a2b6c8e0]: Commencement: [S. 9(2)](https://www.legislation.gov.uk/asp/2013/12/section/9/2) in force at 1.8.2014 in so far as not already in force by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
+[^c-b2cb359c0b2ac8e9f8a0ce84a2b6c8e0]: Commencement: [S. 9(2)](https://www.legislation.gov.uk/asp/2013/12/section/9/2) in force at 1.8.2014 in so far as not already in force by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
 
-[^key-bdda63df0115b5ba2730ff51f41d9511]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2013/12/section/10) in force at 1.8.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
+[^c-bdda63df0115b5ba2730ff51f41d9511]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2013/12/section/10) in force at 1.8.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
 
-[^key-9cfac2d0a9492cb9da4c1af6e95fe1cb]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/asp/2013/12/section/11/1) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-9cfac2d0a9492cb9da4c1af6e95fe1cb]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/asp/2013/12/section/11/1) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
 
-[^key-0bb6ba0fe37d60daed24dc3a58f309a5]: Commencement: [S. 11(2)](https://www.legislation.gov.uk/asp/2013/12/section/11/2) in force at 1.5.2014 for specified purposes by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/79/article/3))
+[^c-0bb6ba0fe37d60daed24dc3a58f309a5]: Commencement: [S. 11(2)](https://www.legislation.gov.uk/asp/2013/12/section/11/2) in force at 1.5.2014 for specified purposes by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/79/article/3))
 
-[^key-e5bd5e74b0db5369aceb21b4205fc5a7]: Commencement: [S. 11(2)](https://www.legislation.gov.uk/asp/2013/12/section/11/2) in force at 1.8.2014 in so far as not already in force by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
+[^c-e5bd5e74b0db5369aceb21b4205fc5a7]: Commencement: [S. 11(2)](https://www.legislation.gov.uk/asp/2013/12/section/11/2) in force at 1.8.2014 in so far as not already in force by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
 
-[^key-cf15d703e161c061d26ccb57fc937ec4]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2013/12/section/12) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-cf15d703e161c061d26ccb57fc937ec4]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2013/12/section/12) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
 
-[^key-07f8f4c0df86a19c92ef70bcc67424a7]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2013/12/section/13) in force at 10.10.2013 for specified purposes by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
+[^c-07f8f4c0df86a19c92ef70bcc67424a7]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2013/12/section/13) in force at 10.10.2013 for specified purposes by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
 
-[^key-567bbf0a802646c50ada69228ba65b27]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2013/12/section/13) in force at 3.3.2014 in so far as not already in force by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-567bbf0a802646c50ada69228ba65b27]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2013/12/section/13) in force at 3.3.2014 in so far as not already in force by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-3d13cfd1b58e9a74389911868706059a]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2013/12/section/14) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2014/21/article/3/2))
+[^c-3d13cfd1b58e9a74389911868706059a]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2013/12/section/14) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2014/21/article/3/2))
 
-[^key-e25c4ad903a9ddec138d416a3ef43865]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2013/12/section/15) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-e25c4ad903a9ddec138d416a3ef43865]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2013/12/section/15) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-705804f7788d74c0d73b916eebf95475]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2013/12/section/16) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2014/21/article/3/1))
+[^c-705804f7788d74c0d73b916eebf95475]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2013/12/section/16) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2014/21/article/3/1))
 
-[^key-a3acc1f3ba5de525f8b2b1ad543cfc0b]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2013/12/section/17) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2014/21/article/3/1))
+[^c-a3acc1f3ba5de525f8b2b1ad543cfc0b]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2013/12/section/17) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2014/21/article/3/1))
 
-[^key-2c5cc43f725293b4c1525bff5b1d5c50]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2013/12/section/18) in force at 13.1.2014 by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
+[^c-2c5cc43f725293b4c1525bff5b1d5c50]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2013/12/section/18) in force at 13.1.2014 by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
 
-[^key-87e1571b562ebfa4bee445c590037266]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2013/12/section/19) in force at 3.3.2014 for specified purposes by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/21/article/4), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/21/schedule/2))
+[^c-87e1571b562ebfa4bee445c590037266]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2013/12/section/19) in force at 3.3.2014 for specified purposes by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/21/article/4), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/21/schedule/2))
 
-[^key-f5c3f8fb848a4dc27f542b4a04dde35a]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2013/12/section/19) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-f5c3f8fb848a4dc27f542b4a04dde35a]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2013/12/section/19) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
 
-[^key-c6a3c5e398e3e65b153fb78da25e637a]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2013/12/section/20) in force at 13.1.2014 by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
+[^c-c6a3c5e398e3e65b153fb78da25e637a]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2013/12/section/20) in force at 13.1.2014 by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
 
-[^key-046401f0e62a05345dea6f8feb168420]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/12/section/21) in force at 10.10.2013 for specified purposes by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
+[^c-046401f0e62a05345dea6f8feb168420]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/12/section/21) in force at 10.10.2013 for specified purposes by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
 
-[^key-60f0b8c0d31ab82c95ab2f1e0f706417]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/12/section/21) in force at 13.1.2014 for specified purposes by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
+[^c-60f0b8c0d31ab82c95ab2f1e0f706417]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/12/section/21) in force at 13.1.2014 for specified purposes by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
 
-[^key-ba289d883409afc2346dd3dee201b621]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/12/section/21) in force at 3.3.2014 for specified purposes by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-ba289d883409afc2346dd3dee201b621]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/12/section/21) in force at 3.3.2014 for specified purposes by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-970d35fdb62839411d22c2b1cd7498ec]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/12/section/21) in force at 1.5.2014 for specified purposes by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-970d35fdb62839411d22c2b1cd7498ec]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/12/section/21) in force at 1.5.2014 for specified purposes by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
 
-[^key-0057b10e776f1aff0e3b0e15140718da]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/12/section/21) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
+[^c-0057b10e776f1aff0e3b0e15140718da]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2013/12/section/21) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
 
-[^key-c79da2e83fb3a393cdeeea31dd72545e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/1) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-c79da2e83fb3a393cdeeea31dd72545e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/1) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-ffffab206897ca2bbec0959c534fd117]: Commencement: [Sch. para. 2(1)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/2/1) in force at 13.1.2014 by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
+[^c-ffffab206897ca2bbec0959c534fd117]: Commencement: [Sch. para. 2(1)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/2/1) in force at 13.1.2014 by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
 
-[^key-2fdfa28b0d3c5e05456ac7d74f142667]: Commencement: [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/2/2/b) in force at 13.1.2014 for specified purposes by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
+[^c-2fdfa28b0d3c5e05456ac7d74f142667]: Commencement: [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/2/2/b) in force at 13.1.2014 for specified purposes by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
 
-[^key-38424c760054095a0b089fe1d291a54e]: Commencement: [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/2/2/b) in force at 3.3.2014 in so far as not already in force by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [arts. 3(4)](https://www.legislation.gov.uk/ssi/2014/21/article/3/4), [5](https://www.legislation.gov.uk/ssi/2014/21/article/5), [Schs. 2](https://www.legislation.gov.uk/ssi/2014/21/schedule/2))
+[^c-38424c760054095a0b089fe1d291a54e]: Commencement: [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/2/2/b) in force at 3.3.2014 in so far as not already in force by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [arts. 3(4)](https://www.legislation.gov.uk/ssi/2014/21/article/3/4), [5](https://www.legislation.gov.uk/ssi/2014/21/article/5), [Schs. 2](https://www.legislation.gov.uk/ssi/2014/21/schedule/2))
 
-[^key-20edf1b3a4aaecfb15e50bd8c5fbec11]: Commencement: [Sch. para. 2(4)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/2/4) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-20edf1b3a4aaecfb15e50bd8c5fbec11]: Commencement: [Sch. para. 2(4)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/2/4) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
 
-[^key-bb8764b13ef35840c6b4466dc7638a35]: Commencement: [Sch. para. 2(7)(d)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/2/7/d) in force at 10.10.2013 for specified purposes by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
+[^c-bb8764b13ef35840c6b4466dc7638a35]: Commencement: [Sch. para. 2(7)(d)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/2/7/d) in force at 10.10.2013 for specified purposes by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
 
-[^key-12657a1662f6852f5a48ff9c9d8e8e2f]: Commencement: [Sch. para. 2(7)(d)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/2/7/d) in force at 3.3.2014 in so far as not already in force by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [arts. 3(4)](https://www.legislation.gov.uk/ssi/2014/21/article/3/4), [5](https://www.legislation.gov.uk/ssi/2014/21/article/5), [Schs. 2](https://www.legislation.gov.uk/ssi/2014/21/schedule/2))
+[^c-12657a1662f6852f5a48ff9c9d8e8e2f]: Commencement: [Sch. para. 2(7)(d)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/2/7/d) in force at 3.3.2014 in so far as not already in force by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [arts. 3(4)](https://www.legislation.gov.uk/ssi/2014/21/article/3/4), [5](https://www.legislation.gov.uk/ssi/2014/21/article/5), [Schs. 2](https://www.legislation.gov.uk/ssi/2014/21/schedule/2))
 
-[^key-f0aa330f5823c21af2632b34cdee50db]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/3) in force at 10.10.2013 by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
+[^c-f0aa330f5823c21af2632b34cdee50db]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/3) in force at 10.10.2013 by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
 
-[^key-9fa3bf46439bff896289f1c03e0f2efc]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/4) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-9fa3bf46439bff896289f1c03e0f2efc]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/4) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
 
-[^key-75155a581b75d41a5eb6e53700d08b7e]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/5) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-75155a581b75d41a5eb6e53700d08b7e]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/5) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-c77901426c21eb7c87ec6999ba0692d7]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/6) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-c77901426c21eb7c87ec6999ba0692d7]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/6) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
 
-[^key-876a050f8ff02f85e0ab707606a41a3c]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/7) in force at 3.3.2014 for specified purposes by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-876a050f8ff02f85e0ab707606a41a3c]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/7) in force at 3.3.2014 for specified purposes by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-8dd3776468cee2d769e957bb9bb35041]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/7) in force at 1.5.2014 in so far as not already in force by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-8dd3776468cee2d769e957bb9bb35041]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/7) in force at 1.5.2014 in so far as not already in force by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
 
-[^key-9e7b7a49d0b5ca4ae9c647f5e636bcd7]: Commencement: [Sch. para. 8(1)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/1)[(23)(a)(i)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/23/a/i) in force at 13.1.2014 by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
+[^c-9e7b7a49d0b5ca4ae9c647f5e636bcd7]: Commencement: [Sch. para. 8(1)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/1)[(23)(a)(i)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/23/a/i) in force at 13.1.2014 by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
 
-[^key-137bf7a6c1b9ff442c42fd81d6de175a]: Commencement: [Sch. para. 8(2)-(4)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/2) [(5)(a)(ii)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/5/a/ii) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-137bf7a6c1b9ff442c42fd81d6de175a]: Commencement: [Sch. para. 8(2)-(4)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/2) [(5)(a)(ii)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/5/a/ii) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-6db2a7890a2831b85714b7a759820ebd]: Commencement: [Sch. para. 8(5)(a)(i)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/5/a/i)[(22)(a)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/22/a)[(22)(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/22/b) in force at 10.10.2013 by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
+[^c-6db2a7890a2831b85714b7a759820ebd]: Commencement: [Sch. para. 8(5)(a)(i)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/5/a/i)[(22)(a)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/22/a)[(22)(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/22/b) in force at 10.10.2013 by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
 
-[^key-401c041c5e9c9039ee4721619f91a5d8]: Commencement: [Sch. para. 8(5)(a)(iii)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/5/a/iii)[(iv)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/5/a/iv)[(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/5/b)[(c)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/5/c) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-401c041c5e9c9039ee4721619f91a5d8]: Commencement: [Sch. para. 8(5)(a)(iii)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/5/a/iii)[(iv)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/5/a/iv)[(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/5/b)[(c)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/5/c) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
 
-[^key-64326a02a554ed3408a8a1c575e431b3]: Commencement: [Sch. para. 8(6)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/6) in force at 3.3.2014 for specified purposes by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-64326a02a554ed3408a8a1c575e431b3]: Commencement: [Sch. para. 8(6)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/6) in force at 3.3.2014 for specified purposes by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-fbaf90aee0c21688925c4dfe5c599241]: Commencement: [Sch. para. 8(6)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/6) in force at 31.3.2015 in so far as not already in force by [S.S.I. 2015/82](https://www.legislation.gov.uk/ssi/2015/82), [art. 2](https://www.legislation.gov.uk/ssi/2015/82/article/2)
+[^c-fbaf90aee0c21688925c4dfe5c599241]: Commencement: [Sch. para. 8(6)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/6) in force at 31.3.2015 in so far as not already in force by [S.S.I. 2015/82](https://www.legislation.gov.uk/ssi/2015/82), [art. 2](https://www.legislation.gov.uk/ssi/2015/82/article/2)
 
-[^key-5b6fe9b49733ebc2c15134a9cb9b1267]: Commencement: [Sch. para. 8(7)(a)(i)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/7/a/i)[(d)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/7/d) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-5b6fe9b49733ebc2c15134a9cb9b1267]: Commencement: [Sch. para. 8(7)(a)(i)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/7/a/i)[(d)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/7/d) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
 
-[^key-cc35ea235abd8cba953f6cb65094bd46]: Commencement: [Sch. para. 8(11)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/11)[(20)(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/20/b)[(22)(d)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/22/d) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-cc35ea235abd8cba953f6cb65094bd46]: Commencement: [Sch. para. 8(11)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/11)[(20)(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/20/b)[(22)(d)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/22/d) in force at 1.5.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
 
-[^key-ce1d8e71a59e078a7d230d535f6bbe2c]: Commencement: [Sch. para. 8(18)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/18) in force at 3.3.2014 for specified purposes by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-ce1d8e71a59e078a7d230d535f6bbe2c]: Commencement: [Sch. para. 8(18)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/18) in force at 3.3.2014 for specified purposes by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-64627f2d4f056ce8d883422bcc52a6f8]: Commencement: [Sch. para. 8(18)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/18)[(22)(c)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/22/c) in force at 1.5.2014 in so far as not already in force by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-64627f2d4f056ce8d883422bcc52a6f8]: Commencement: [Sch. para. 8(18)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/18)[(22)(c)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/22/c) in force at 1.5.2014 in so far as not already in force by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
 
-[^key-1080c958e8616fad9303c06e8af3d625]: Commencement: [Sch. para. 8(19)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/19)[(20)(a)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/20/a)[(21)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/21)[(23)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/23)[(24)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/24) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2014/21/article/3/3)[(4)](https://www.legislation.gov.uk/ssi/2014/21/article/3/4))
+[^c-1080c958e8616fad9303c06e8af3d625]: Commencement: [Sch. para. 8(19)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/19)[(20)(a)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/20/a)[(21)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/21)[(23)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/23)[(24)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/24) in force at 3.3.2014 by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2014/21/article/3/3)[(4)](https://www.legislation.gov.uk/ssi/2014/21/article/3/4))
 
-[^key-4edf8c1837b91d4eb7c4437e269fd80e]: Commencement: [Sch. para. 8(22)(c)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/22/c) in force at 10.10.2013 for specified purposes by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
+[^c-4edf8c1837b91d4eb7c4437e269fd80e]: Commencement: [Sch. para. 8(22)(c)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/22/c) in force at 10.10.2013 for specified purposes by [S.S.I. 2013/281](https://www.legislation.gov.uk/ssi/2013/281), [art. 2](https://www.legislation.gov.uk/ssi/2013/281/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/281/schedule)
 
-[^key-a4ef2c4d06fb522acf8f55ff3e29b6cd]: Commencement: [Sch. para. 8(22)(c)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/22/c) in force at 3.3.2014 for specified purposes by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-a4ef2c4d06fb522acf8f55ff3e29b6cd]: Commencement: [Sch. para. 8(22)(c)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/22/c) in force at 3.3.2014 for specified purposes by [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-5b8499092f98d20c48060113f0dfe310]: Commencement: [Sch. para. 8(23)(a)(iii)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/23/a/iii) in force at 13.1.2014 for specified purposes by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
+[^c-5b8499092f98d20c48060113f0dfe310]: Commencement: [Sch. para. 8(23)(a)(iii)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/23/a/iii) in force at 13.1.2014 for specified purposes by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
 
-[^key-95b90ea87a378ed45907d05fc3cc2a9d]: Commencement: [Sch. para. 8(23)(a)(iv)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/23/a/iv) in force at 13.1.2014 for specified purposes by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
+[^c-95b90ea87a378ed45907d05fc3cc2a9d]: Commencement: [Sch. para. 8(23)(a)(iv)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/8/23/a/iv) in force at 13.1.2014 for specified purposes by [S.S.I. 2013/348](https://www.legislation.gov.uk/ssi/2013/348), [art. 2](https://www.legislation.gov.uk/ssi/2013/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2013/348/schedule)
 
-[^key-0f9420773c6522a9f958ef7dd7b6aa10]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/9) in force at 1.8.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
+[^c-0f9420773c6522a9f958ef7dd7b6aa10]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/9) in force at 1.8.2014 by [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)

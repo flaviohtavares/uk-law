@@ -31,7 +31,7 @@ summary: ''
 
 European Union
 
-The European Communities (Definition of Treaties) (Côte d’Ivoire Economic Partnership Agreement) Order 2010 (revoked)[^key-4ab52fc90629cdf46cc2dac3a86d601b]
+The European Communities (Definition of Treaties) (Côte d’Ivoire Economic Partnership Agreement) Order 2010 (revoked)[^c-4ab52fc90629cdf46cc2dac3a86d601b]
 
 Made
 
@@ -39,19 +39,19 @@ Made
 
 Coming into force in accordance with Article 3
 
-[^key-4ab52fc90629cdf46cc2dac3a86d601b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ab52fc90629cdf46cc2dac3a86d601b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-4ab52fc90629cdf46cc2dac3a86d601b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4ab52fc90629cdf46cc2dac3a86d601b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4ab52fc90629cdf46cc2dac3a86d601b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4ab52fc90629cdf46cc2dac3a86d601b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4ab52fc90629cdf46cc2dac3a86d601b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4ab52fc90629cdf46cc2dac3a86d601b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4ab52fc90629cdf46cc2dac3a86d601b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4ab52fc90629cdf46cc2dac3a86d601b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ab52fc90629cdf46cc2dac3a86d601b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ab52fc90629cdf46cc2dac3a86d601b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -59,4 +59,4 @@ Coming into force in accordance with Article 3
 
 ## Annotations
 
-[^key-4ab52fc90629cdf46cc2dac3a86d601b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2980) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ab52fc90629cdf46cc2dac3a86d601b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2980) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

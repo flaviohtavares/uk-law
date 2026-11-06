@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Finance and Personnel[^f00001], in exercise of the powers conferred on it by Article 26(2A) of the Rates (Northern Ireland) Order 1977[^f00002], and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-57032c833693387b0e0ab293b97bb5c2]
+## 1. Citation, commencement and interpretation[^c-57032c833693387b0e0ab293b97bb5c2]
 
 (1) These Regulations may be cited as the Non-Domestic Rating (Unoccupied Property) (Prescribed Information) Regulations (Northern Ireland) 2004 and shall come into operation on 24th May 2004.
 
@@ -50,7 +50,7 @@ The Department of Finance and Personnel[^f00001], in exercise of the powers conf
 - “the 1977 Order” means the Rates (Northern Ireland) Order 1977; and
 - “estate agency work” has the same meaning as in the Estate Agents Act 1979[^f00003].
 
-## 2. Information to be provided by a relevant person[^key-e9fa1ef79c27872ea309b42fce2c89a7]
+## 2. Information to be provided by a relevant person[^c-e9fa1ef79c27872ea309b42fce2c89a7]
 
 For the purposes of Article 26(2A) of the 1977 Order, the following information is prescribed in relation to a notice served under that paragraph in respect of any hereditament, that is to say:
 
@@ -85,11 +85,11 @@ A person who fails, without reasonable excuse, to comply with the requirements o
 
 [^f00002]: Footnote: S.I. [1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 26(2A) was inserted by Article 6 of the Rates (Amendment) (Northern Ireland) Order 2004 (S.I. [2004/703 (N.I. 4)](https://www.legislation.gov.uk/nisi/2004/703)) which is commenced from 14th April 2004 by Article 2 of the Rates (Amendment) (2004 Order) (Commencement) Order (Northern Ireland) 2004 ([S.R. 2004 No. 147](https://www.legislation.gov.uk/nisr/2004/147))
 
-[^key-57032c833693387b0e0ab293b97bb5c2]: Commencement: Reg. 1 in operation at 24.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/191/regulation/1/1)
+[^c-57032c833693387b0e0ab293b97bb5c2]: Commencement: Reg. 1 in operation at 24.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/191/regulation/1/1)
 
 [^f00003]: Footnote: [1979 (c. 38)](https://www.legislation.gov.uk/ukpga/1979/38)
 
-[^key-e9fa1ef79c27872ea309b42fce2c89a7]: Commencement: Reg. 2 in operation at 24.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/191/regulation/1/1)
+[^c-e9fa1ef79c27872ea309b42fce2c89a7]: Commencement: Reg. 2 in operation at 24.5.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/191/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1985/1208 (N.I. 15)](https://www.legislation.gov.uk/nisi/1985/1208)
 

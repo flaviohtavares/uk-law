@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Round prices for the first principal stage round[^key-59b598bb15a6c2eedb8903b8b98e017b]
+## 24. Round prices for the first principal stage round[^c-59b598bb15a6c2eedb8903b8b98e017b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ For the first principal stage round—
 
 ## Annotations
 
-[^key-59b598bb15a6c2eedb8903b8b98e017b]: Commencement: Reg. 24 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-59b598bb15a6c2eedb8903b8b98e017b]: Commencement: Reg. 24 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

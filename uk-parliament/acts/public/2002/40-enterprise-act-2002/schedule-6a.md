@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 6A — Determination of when a foreign state newspaper merger situation has been created[^key-4a2928b62e15c0820c5b0a561a1303eb]
+## Schedule 6A — Determination of when a foreign state newspaper merger situation has been created[^c-4a2928b62e15c0820c5b0a561a1303eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -107,4 +107,4 @@ Section 70A
 
 ## Annotations
 
-[^key-4a2928b62e15c0820c5b0a561a1303eb]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/ukpga/2002/40/schedule/6A) inserted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/3) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))
+[^c-4a2928b62e15c0820c5b0a561a1303eb]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/ukpga/2002/40/schedule/6A) inserted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/3) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))

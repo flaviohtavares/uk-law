@@ -48,21 +48,21 @@ The Lord Chancellor, with the agreement of the Treasury, makes the following Ord
 
 The Lord Chancellor has consulted in accordance with section 52(4) to (6) of that Act.
 
-## 1. Citation, commencement, extent and interpretation[^key-2da6a6dc2d2ba88e66d810ed5916b837]
+## 1. Citation, commencement, extent and interpretation[^c-2da6a6dc2d2ba88e66d810ed5916b837]
 
 (1) This Order may be cited as the Supreme Court Fees Order 2024 and comes into force on 1st April 2024.
 
 (2) This Order extends to England and Wales, Scotland and Northern Ireland.
 
-(3) Expressions used in this Order which are also used in the Supreme Court Rules 2024[^key-d4372a1c860b29376ad98dcbf3dd7f9f] have the same meaning as in those Rules, unless specified otherwise.
+(3) Expressions used in this Order which are also used in the Supreme Court Rules 2024[^c-d4372a1c860b29376ad98dcbf3dd7f9f] have the same meaning as in those Rules, unless specified otherwise.
 
-## 2. Fees payable[^key-7b3a8a017a3d4fe95f5c27d33bd9bc7e]
+## 2. Fees payable[^c-7b3a8a017a3d4fe95f5c27d33bd9bc7e]
 
 (1) The fees set out in column (2) of the table in paragraph 2 of Schedule 1 are payable in the Supreme Court in respect of the items described in column (1) of that table, subject to paragraph (2).
 
 (2) No fee is payable under this article in respect of criminal proceedings, other than the fee payable on submitting a claim for costs.
 
-## 3. Fees payable: appeals commenced or claims submitted before 1st April 2024[^key-a43117a45c64e1715385b643e8c06b94]
+## 3. Fees payable: appeals commenced or claims submitted before 1st April 2024[^c-a43117a45c64e1715385b643e8c06b94]
 
 (1) Where, before 1st April 2024, a party files—
 
@@ -80,11 +80,11 @@ but, on or after 1st April 2024, files a statement of relevant facts and issues 
 
 (4) No fee is payable under this article in respect of criminal proceedings.
 
-## 4. Remissions, part remissions and refunds[^key-e18412c6a0db2bd9571cb0d42c68481e]
+## 4. Remissions, part remissions and refunds[^c-e18412c6a0db2bd9571cb0d42c68481e]
 
 Schedule 2 applies for the purpose of ascertaining whether a party is entitled to a remission, part remission or a refund of a fee prescribed by this Order.
 
-## 5. Revocations[^key-2c2347afc6c7976a5792da1c08412b3a]
+## 5. Revocations[^c-2c2347afc6c7976a5792da1c08412b3a]
 
 The instruments specified in column (1) of Schedule 3 are revoked to the extent specified in column (3) of that Schedule.
 
@@ -112,12 +112,12 @@ Two of the Lords Commissioners of His Majesty’s Treasury
 
 Article 2
 
-**1.**[^key-ef48d8f628574521a3450d3f2112d008] In this Schedule, a “**reference**” means any reference under—
+**1.**[^c-ef48d8f628574521a3450d3f2112d008] In this Schedule, a “**reference**” means any reference under—
 
-- (a) rule 44 of the Supreme Court Rules 2024[^key-cb20c2ac47069f803bbf0f0c412f344d] in relation to the Supreme Court’s devolution jurisdiction[^f00006]; or
+- (a) rule 44 of the Supreme Court Rules 2024[^c-cb20c2ac47069f803bbf0f0c412f344d] in relation to the Supreme Court’s devolution jurisdiction[^f00006]; or
 - (b) section 6A or 6B of the European Union (Withdrawal) Act 2018[^f00007] in relation to assimilated case law[^f00008].
 
-**2.**[^key-534ede5a05a9fd00dcbe3f8d341cc6fd] The table for the purposes of article 2(1) is as follows.
+**2.**[^c-534ede5a05a9fd00dcbe3f8d341cc6fd] The table for the purposes of article 2(1) is as follows.
 
 <table>
 <thead>
@@ -149,13 +149,13 @@ Article 2
 </tbody>
 </table>
 
-[^key-567ae404be19f9554718df128bbdb39c]
+[^c-567ae404be19f9554718df128bbdb39c]
 
 ## SCHEDULE 2 — Remissions, part remissions and refunds
 
 Article 4
 
-### 1. Interpretation[^key-a6d0f11c9b3d42da7c2086a69894a9f4]
+### 1. Interpretation[^c-a6d0f11c9b3d42da7c2086a69894a9f4]
 
 (1) In this Schedule—
 
@@ -219,11 +219,11 @@ Article 4
 
 (2) References to remission of a fee are to be read as including references to a part remission of a fee as appropriate and remit and remitted are to be construed accordingly.
 
-### 2. Fee remission if a party satisfies the disposable capital test[^key-b43d1019387c55a0b10dd3a5d69d640e]
+### 2. Fee remission if a party satisfies the disposable capital test[^c-b43d1019387c55a0b10dd3a5d69d640e]
 
 If a party satisfies the disposable capital test, the amount of any fee remission is determined in accordance with the gross monthly income test set out in paragraph 10.
 
-### 3. Disposable capital test[^key-bd31d4853d52949793cdea31567c52a8]
+### 3. Disposable capital test[^c-bd31d4853d52949793cdea31567c52a8]
 
 A party satisfies the disposable capital test—
 
@@ -233,18 +233,18 @@ A party satisfies the disposable capital test—
   - (ii) more than £1,420, but less than or equal to £5,000 and the party’s disposable capital is less than three times the amount of the fee payable;
   - (iii) more than £5,000 and the party’s disposable capital is less than £16,000.
 
-### 4. Disposable capital: general[^key-a99e2f8006ad1a7ee7cf25e1aad22f82]
+### 4. Disposable capital: general[^c-a99e2f8006ad1a7ee7cf25e1aad22f82]
 
 Disposable capital is the value of any savings and investments belonging to the party on the date on which the application for remission is made, unless any savings and investments are treated as income under this Schedule or are excluded disposable capital.
 
-### 5. Disposable capital: non-monetary savings and investments[^key-a9deec5bb2167f2abc054999e992b170]
+### 5. Disposable capital: non-monetary savings and investments[^c-a9deec5bb2167f2abc054999e992b170]
 
 The value of any savings and investments that do not consist of money is calculated as the amount which the savings and investments would realise if sold, less—
 
 - (a) 10% of the sale value; and
 - (b) the amount of any borrowing secured against the savings and investments that would be repayable on sale.
 
-### 6. Disposable capital: savings and investments held outside the United Kingdom[^key-e14ee836e1031a0d6361fb170b4dc1a7]
+### 6. Disposable capital: savings and investments held outside the United Kingdom[^c-e14ee836e1031a0d6361fb170b4dc1a7]
 
 (1) Savings and investments in a country outside the United Kingdom count towards disposable capital.
 
@@ -252,15 +252,15 @@ The value of any savings and investments that do not consist of money is calcula
 
 (3) If there is a prohibition in that country against the transfer of savings and investments into the United Kingdom, the value of those savings and investments is to be calculated in accordance with paragraph 5 as if they were sold in that country.
 
-### 7. Disposable capital: foreign currency[^key-f166a4b2f34f1ad037070daa6d9c8896]
+### 7. Disposable capital: foreign currency[^c-f166a4b2f34f1ad037070daa6d9c8896]
 
 Where disposable capital is held in currency other than sterling, the cost of any banking charge or commission that would be payable if that amount were converted into sterling is deducted from its value.
 
-### 8. Disposable capital: jointly owned savings and investments[^key-794968359b31438e5c80b3c39394687e]
+### 8. Disposable capital: jointly owned savings and investments[^c-794968359b31438e5c80b3c39394687e]
 
 Where any savings and investments are owned jointly or in common, there is a presumption that the savings and investments are owned in equal shares, unless evidence to the contrary is produced.
 
-### 9. Excluded disposable capital[^key-0b8d07f473c92f25ba806fc944f7d6d9]
+### 9. Excluded disposable capital[^c-0b8d07f473c92f25ba806fc944f7d6d9]
 
 The following are excluded disposable capital—
 
@@ -302,7 +302,7 @@ The following are excluded disposable capital—
     - (dd) the Wales Infected Blood Support Scheme[^f00048]; and
     - (ee) the UK-wide Infected Blood Interim Compensation Payment Scheme[^f00049].
 
-### 10. Gross monthly income test[^key-40ba67cef1abdf70d7790c3aaeff1b69]
+### 10. Gross monthly income test[^c-40ba67cef1abdf70d7790c3aaeff1b69]
 
 (1) If a party satisfies the disposable capital test, no fee is payable under this Order if, at the time when the fee would otherwise be payable—
 
@@ -377,11 +377,11 @@ The following are excluded disposable capital—
 - (d) pension credit (Guarantee Credit); and
 - (e) universal credit with additional gross annual earnings of less than £6,000.
 
-### 11. Gross monthly income cap[^key-c537a91558c67237ea1bfb8658905167]
+### 11. Gross monthly income cap[^c-c537a91558c67237ea1bfb8658905167]
 
 No remission is available if a party’s gross monthly income exceeds the applicable threshold determined in accordance with paragraph 10(2), plus the sum of £3,000.
 
-### 12. Gross monthly income[^key-4402520dc756fc3687e3f35f3bc1c8ed]
+### 12. Gross monthly income[^c-4402520dc756fc3687e3f35f3bc1c8ed]
 
 (1) “**Gross monthly income**” means the total sum of—
 
@@ -397,13 +397,13 @@ No remission is available if a party’s gross monthly income exceeds the applic
 
 (3) In sub-paragraph (2), “**net profits**” means the profits which have accrued to the party less all sums necessarily expended to earn those profits.
 
-### 13. Disposable capital and gross monthly income of a partner[^key-369c6a00a99e3eedf23bee943035b2b7]
+### 13. Disposable capital and gross monthly income of a partner[^c-369c6a00a99e3eedf23bee943035b2b7]
 
 (1) The disposable capital and gross monthly income of a partner of a party is to be treated as disposable capital and gross monthly income of the party, subject to sub-paragraph (2).
 
 (2) Where the partner of a party has a contrary interest to the party in the matter to which the fee relates, the disposable capital and gross monthly income of that partner, if any, is not treated as the disposable capital and gross monthly income of the party.
 
-### 14. Application for remission of a fee[^key-4c298b383ee2830f3b8cbc9adbc95c5c]
+### 14. Application for remission of a fee[^c-4c298b383ee2830f3b8cbc9adbc95c5c]
 
 (1) An application for remission of a fee must be made at the time when the fee would otherwise be payable.
 
@@ -421,15 +421,15 @@ No remission is available if a party’s gross monthly income exceeds the applic
 
 (6) An application for remission of a fee may be treated as abandoned and no further action taken, if a party fails to provide the information requested under sub-paragraph (5) within the period specified by that notice, or such other extended period as may be agreed in writing at the Chief Executive of the Supreme Court’s discretion.
 
-### 15. Remission in exceptional circumstances[^key-443f5d259586999e5ee4c5a21059ef2b]
+### 15. Remission in exceptional circumstances[^c-443f5d259586999e5ee4c5a21059ef2b]
 
 A fee specified in this Order may be remitted where the Chief Executive of the Supreme Court is satisfied that there are exceptional circumstances which justify doing so.
 
-### 16. Remission for charitable or not-for-profit organisations[^key-ab972790d50045baa24c4a1a5891a1a8]
+### 16. Remission for charitable or not-for-profit organisations[^c-ab972790d50045baa24c4a1a5891a1a8]
 
 Where an application for permission to intervene in an appeal is filed by a charitable or not- for-profit organisation which seeks to make submissions in the public interest, the Chief Executive of the Supreme Court may remit the fee in that case.
 
-### 17. Refunds[^key-c54e57c61743c77f707fcc9b595aa96d]
+### 17. Refunds[^c-c54e57c61743c77f707fcc9b595aa96d]
 
 (1) Where a party pays a fee at a time when that party would have been entitled to a remission if they had provided the documentary evidence required by paragraph 14, the fee, or the amount by which the fee would have been remitted as the case may be, must be refunded if documentary evidence relating to the time when the fee became payable is provided at a later date.
 
@@ -439,7 +439,7 @@ Where an application for permission to intervene in an appeal is filed by a char
 
 (4) The Chief Executive of the Supreme Court may extend the period of 3 months mentioned in sub-paragraph (3) if the Chief Executive of the Supreme Court considers that there is a good reason for a refund being made after the end of the period of 3 months.
 
-### 18. Legal aid[^key-a7f65b86132a44ed679b158a650e8935]
+### 18. Legal aid[^c-a7f65b86132a44ed679b158a650e8935]
 
 A party is not entitled to a remission of a fee if, for the purpose of the proceedings to which the fee relates—
 
@@ -449,7 +449,7 @@ A party is not entitled to a remission of a fee if, for the purpose of the proce
 - (b) they are in receipt of legal aid under Part 2 of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981[^f00051]; or
 - (c) they are living in Scotland and are in receipt of legal aid.
 
-### 19. Vexatious litigants[^key-7b38e3fa94992d0d05ec4bafa631da99]
+### 19. Vexatious litigants[^c-7b38e3fa94992d0d05ec4bafa631da99]
 
 (1) This paragraph applies where—
 
@@ -466,11 +466,11 @@ A party is not entitled to a remission of a fee if, for the purpose of the proce
 - (a) the fee paid; and
 - (b) the fee that would have been payable if this Schedule had been applied without reference to this paragraph.
 
-### 20. Exceptions[^key-d55136f183139ac31d28e169c5f6471b]
+### 20. Exceptions[^c-d55136f183139ac31d28e169c5f6471b]
 
 No remissions or refunds are available in respect of the fee payable for copy or duplicate documents.
 
-## SCHEDULE 3 — Revocations[^key-d1823f0115577d48e11ca52014f00b5f]
+## SCHEDULE 3 — Revocations[^c-d1823f0115577d48e11ca52014f00b5f]
 
 Article 5
 
@@ -551,13 +551,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2005 c. 4](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-2da6a6dc2d2ba88e66d810ed5916b837]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2024/148/article/1) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-2da6a6dc2d2ba88e66d810ed5916b837]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2024/148/article/1) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-d4372a1c860b29376ad98dcbf3dd7f9f]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/148/article/1/3) substituted (8.4.2025) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/351)](https://www.legislation.gov.uk/uksi/2025/351), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/351/article/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2025/351/article/12/2)
+[^c-d4372a1c860b29376ad98dcbf3dd7f9f]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/148/article/1/3) substituted (8.4.2025) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/351)](https://www.legislation.gov.uk/uksi/2025/351), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/351/article/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2025/351/article/12/2)
 
-[^key-7b3a8a017a3d4fe95f5c27d33bd9bc7e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2024/148/article/2) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-7b3a8a017a3d4fe95f5c27d33bd9bc7e]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2024/148/article/2) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-a43117a45c64e1715385b643e8c06b94]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2024/148/article/3) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-a43117a45c64e1715385b643e8c06b94]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2024/148/article/3) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
 [^f00003]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
@@ -565,13 +565,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00005]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-e18412c6a0db2bd9571cb0d42c68481e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2024/148/article/4) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-e18412c6a0db2bd9571cb0d42c68481e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2024/148/article/4) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-2c2347afc6c7976a5792da1c08412b3a]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2024/148/article/5) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-2c2347afc6c7976a5792da1c08412b3a]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2024/148/article/5) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-ef48d8f628574521a3450d3f2112d008]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2024/148/schedule/1/paragraph/1) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-ef48d8f628574521a3450d3f2112d008]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2024/148/schedule/1/paragraph/1) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-cb20c2ac47069f803bbf0f0c412f344d]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2024/148/schedule/1/paragraph/1/a) substituted (8.4.2025) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/351)](https://www.legislation.gov.uk/uksi/2025/351), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/351/article/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2025/351/article/12/3)
+[^c-cb20c2ac47069f803bbf0f0c412f344d]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2024/148/schedule/1/paragraph/1/a) substituted (8.4.2025) by [The Court and Tribunal Fees (Miscellaneous Amendments) Order 2025 (S.I. 2025/351)](https://www.legislation.gov.uk/uksi/2025/351), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/351/article/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2025/351/article/12/3)
 
 [^f00006]: Footnote: “Devolution jurisdiction” is defined in rule 3(2) of [S.I. 2009/1603 (L. 17)](https://www.legislation.gov.uk/uksi/2009/1603).
 
@@ -579,11 +579,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00008]: Footnote: “Assimilated case law” is defined in section 6(7) of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-534ede5a05a9fd00dcbe3f8d341cc6fd]: Commencement: Sch. 1 para. 2 in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-534ede5a05a9fd00dcbe3f8d341cc6fd]: Commencement: Sch. 1 para. 2 in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-567ae404be19f9554718df128bbdb39c]: Textual amendment: Sums in Sch. 1 para. 2 substituted (1.4.2026) by [The Supreme Court Fees (Amendment) Order 2026 (S.I. 2026/241)](https://www.legislation.gov.uk/uksi/2026/241), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/241/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/241/schedule)
+[^c-567ae404be19f9554718df128bbdb39c]: Textual amendment: Sums in Sch. 1 para. 2 substituted (1.4.2026) by [The Supreme Court Fees (Amendment) Order 2026 (S.I. 2026/241)](https://www.legislation.gov.uk/uksi/2026/241), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/241/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/241/schedule)
 
-[^key-a6d0f11c9b3d42da7c2086a69894a9f4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/1) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-a6d0f11c9b3d42da7c2086a69894a9f4]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/1) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
 [^f00009]: Footnote: [S.I. 2006/223](https://www.legislation.gov.uk/uksi/2006/223); relevant amending instruments are [S.I. 2012/818](https://www.legislation.gov.uk/uksi/2012/818), [2014/1231](https://www.legislation.gov.uk/uksi/2014/1231), [2015/1512](https://www.legislation.gov.uk/uksi/2015/1512), [2016/360](https://www.legislation.gov.uk/uksi/2016/360), [2017/607](https://www.legislation.gov.uk/uksi/2017/607), [2021/810](https://www.legislation.gov.uk/uksi/2021/810), [1286](https://www.legislation.gov.uk/uksi/2021/1286) and [2023/179](https://www.legislation.gov.uk/uksi/2023/179).
 
@@ -629,21 +629,21 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00030]: Footnote: [S.I. 2010/2955 (L. 17)](https://www.legislation.gov.uk/uksi/2010/2955); amended by [S.I. 2013/3204](https://www.legislation.gov.uk/uksi/2013/3204).
 
-[^key-b43d1019387c55a0b10dd3a5d69d640e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/2) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-b43d1019387c55a0b10dd3a5d69d640e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/2) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-bd31d4853d52949793cdea31567c52a8]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/3) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-bd31d4853d52949793cdea31567c52a8]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/3) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-a99e2f8006ad1a7ee7cf25e1aad22f82]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/4) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-a99e2f8006ad1a7ee7cf25e1aad22f82]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/4) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-a9deec5bb2167f2abc054999e992b170]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/5) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-a9deec5bb2167f2abc054999e992b170]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/5) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-e14ee836e1031a0d6361fb170b4dc1a7]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/6) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-e14ee836e1031a0d6361fb170b4dc1a7]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/6) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-f166a4b2f34f1ad037070daa6d9c8896]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/7) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-f166a4b2f34f1ad037070daa6d9c8896]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/7) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-794968359b31438e5c80b3c39394687e]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/8) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-794968359b31438e5c80b3c39394687e]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/8) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-0b8d07f473c92f25ba806fc944f7d6d9]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/9) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-0b8d07f473c92f25ba806fc944f7d6d9]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/9) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
 [^f00031]: Footnote: [S.I. 2017/410](https://www.legislation.gov.uk/uksi/2017/410); amended by [S.I. 2023/134](https://www.legislation.gov.uk/uksi/2023/134).
 
@@ -683,30 +683,30 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00049]: Footnote: The UK-wide Infected Blood Interim Compensation Payment Scheme is a scheme administered by the National Health Services Business Services Authority in England; the Velindre National Health Service Trust and the National Health Service Wales Shared Services Partnership in Wales; the Common Services Agency for the Scottish Health Service in Scotland; and the Regional Business Services Organisation in Northern Ireland.
 
-[^key-40ba67cef1abdf70d7790c3aaeff1b69]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/10) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-40ba67cef1abdf70d7790c3aaeff1b69]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/10) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-c537a91558c67237ea1bfb8658905167]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/11) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-c537a91558c67237ea1bfb8658905167]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/11) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-4402520dc756fc3687e3f35f3bc1c8ed]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/12) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-4402520dc756fc3687e3f35f3bc1c8ed]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/12) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-369c6a00a99e3eedf23bee943035b2b7]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/13) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-369c6a00a99e3eedf23bee943035b2b7]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/13) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-4c298b383ee2830f3b8cbc9adbc95c5c]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/14) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-4c298b383ee2830f3b8cbc9adbc95c5c]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/14) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-443f5d259586999e5ee4c5a21059ef2b]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/15) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-443f5d259586999e5ee4c5a21059ef2b]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/15) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-ab972790d50045baa24c4a1a5891a1a8]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/16) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-ab972790d50045baa24c4a1a5891a1a8]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/16) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-c54e57c61743c77f707fcc9b595aa96d]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/17) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-c54e57c61743c77f707fcc9b595aa96d]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/17) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-a7f65b86132a44ed679b158a650e8935]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/18) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-a7f65b86132a44ed679b158a650e8935]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/18) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
 [^f00050]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
 [^f00051]: Footnote: [S.I. 1981/228 (N.I. 8)](https://www.legislation.gov.uk/nisi/1981/228).
 
-[^key-7b38e3fa94992d0d05ec4bafa631da99]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/19) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-7b38e3fa94992d0d05ec4bafa631da99]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/19) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-d55136f183139ac31d28e169c5f6471b]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/20) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-d55136f183139ac31d28e169c5f6471b]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2024/148/schedule/2/paragraph/20) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
 
-[^key-d1823f0115577d48e11ca52014f00b5f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)
+[^c-d1823f0115577d48e11ca52014f00b5f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3) in force at 1.4.2024, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1)

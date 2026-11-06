@@ -32,7 +32,7 @@ summary: ''
 
 FOOD
 
-The Food Hygiene (Scotland) Amendment Regulations 2007 (revoked)[^key-61a1a37c7cc12e894c8829e1379b829a]
+The Food Hygiene (Scotland) Amendment Regulations 2007 (revoked)[^c-61a1a37c7cc12e894c8829e1379b829a]
 
 Made
 
@@ -46,34 +46,34 @@ Coming into force
 
 14th February 2007
 
-[^key-61a1a37c7cc12e894c8829e1379b829a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61a1a37c7cc12e894c8829e1379b829a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-61a1a37c7cc12e894c8829e1379b829a]
+## 1. Citation and commencement[^c-61a1a37c7cc12e894c8829e1379b829a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Food Hygiene (Scotland) Regulations 2006[^key-61a1a37c7cc12e894c8829e1379b829a]
+## 2. Amendments to the Food Hygiene (Scotland) Regulations 2006[^c-61a1a37c7cc12e894c8829e1379b829a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61a1a37c7cc12e894c8829e1379b829a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61a1a37c7cc12e894c8829e1379b829a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-61a1a37c7cc12e894c8829e1379b829a]
+## SCHEDULE[^c-61a1a37c7cc12e894c8829e1379b829a]
 
 Regulation 2(3).
 
-> **SCHEDULE 1 — Definitions of Community legislation[^key-61a1a37c7cc12e894c8829e1379b829a]**
+> **SCHEDULE 1 — Definitions of Community legislation[^c-61a1a37c7cc12e894c8829e1379b829a]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-61a1a37c7cc12e894c8829e1379b829a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61a1a37c7cc12e894c8829e1379b829a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61a1a37c7cc12e894c8829e1379b829a]: Textual amendment: Regulations revoked (13.4.2010) by [The Food Hygiene (Scotland) Amendment Regulations 2010 (S.S.I. 2010/69)](https://www.legislation.gov.uk/ssi/2010/69), [regs. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1), [3](https://www.legislation.gov.uk/ssi/2010/69/regulation/3)
+[^c-61a1a37c7cc12e894c8829e1379b829a]: Textual amendment: Regulations revoked (13.4.2010) by [The Food Hygiene (Scotland) Amendment Regulations 2010 (S.S.I. 2010/69)](https://www.legislation.gov.uk/ssi/2010/69), [regs. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1), [3](https://www.legislation.gov.uk/ssi/2010/69/regulation/3)

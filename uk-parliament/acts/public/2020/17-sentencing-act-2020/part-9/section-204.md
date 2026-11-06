@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Exercise of power to impose community order: general considerations[^key-fa833e20854e9282384f640bf50ffdc7]
+## 204. Exercise of power to impose community order: general considerations[^c-fa833e20854e9282384f640bf50ffdc7]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ was serious enough to warrant the making of such an order.
 
 ## Annotations
 
-[^key-fa833e20854e9282384f640bf50ffdc7]: Commencement: S. 204 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fa833e20854e9282384f640bf50ffdc7]: Commencement: S. 204 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

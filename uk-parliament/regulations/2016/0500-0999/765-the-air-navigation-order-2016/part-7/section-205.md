@@ -28,7 +28,7 @@ summary: ''
 - (b) that the equipment is fit for its intended purpose; and
 - (c) that the person is competent to operate the equipment.
 
-(3) The person in charge of an aeronautical radio station at an aerodrome for which a public use licence has been granted or at a[^key-bd8f6739ff2a3f3fbdb5445129911fc3] certified aerodrome must cause to be notified in relation to that aeronautical radio station the type and availability of operation of any service which is available for use by any aircraft.
+(3) The person in charge of an aeronautical radio station at an aerodrome for which a public use licence has been granted or at a[^c-bd8f6739ff2a3f3fbdb5445129911fc3] certified aerodrome must cause to be notified in relation to that aeronautical radio station the type and availability of operation of any service which is available for use by any aircraft.
 
 (4) An approval granted under paragraph (1) may include a condition requiring a person in charge of an aeronautical radio station at any other aerodrome or place to cause the information specified in paragraph (3) to be notified.
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd8f6739ff2a3f3fbdb5445129911fc3]: Textual amendment: Word in [art. 205(3)](https://www.legislation.gov.uk/uksi/2016/765/article/205/3) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/52) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bd8f6739ff2a3f3fbdb5445129911fc3]: Textual amendment: Word in [art. 205(3)](https://www.legislation.gov.uk/uksi/2016/765/article/205/3) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/52) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

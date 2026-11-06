@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, England
 
-The Direct Payments to Farmers (Reductions) (England) Regulations 2022 (revoked)[^key-1873b60caa3c8e890f7db6990a0bee4f]
+The Direct Payments to Farmers (Reductions) (England) Regulations 2022 (revoked)[^c-1873b60caa3c8e890f7db6990a0bee4f]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into force
 
 15th April 2022
 
-[^key-1873b60caa3c8e890f7db6990a0bee4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1873b60caa3c8e890f7db6990a0bee4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-1873b60caa3c8e890f7db6990a0bee4f]
+## 1. Citation, commencement, extent and application[^c-1873b60caa3c8e890f7db6990a0bee4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of [Regulation (EU) No 1307/2013](https://www.legislation.gov.uk/european/regulation/2013/1307)[^key-1873b60caa3c8e890f7db6990a0bee4f]
+## 2. Amendment of [Regulation (EU) No 1307/2013](https://www.legislation.gov.uk/european/regulation/2013/1307)[^c-1873b60caa3c8e890f7db6990a0bee4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving[^key-1873b60caa3c8e890f7db6990a0bee4f]
+## 3. Saving[^c-1873b60caa3c8e890f7db6990a0bee4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1873b60caa3c8e890f7db6990a0bee4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1873b60caa3c8e890f7db6990a0bee4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1873b60caa3c8e890f7db6990a0bee4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1873b60caa3c8e890f7db6990a0bee4f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1873b60caa3c8e890f7db6990a0bee4f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/407) revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))
+[^c-1873b60caa3c8e890f7db6990a0bee4f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/407) revoked (1.1.2024) by [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/paragraph/1) Table 2 (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1430/schedule/3/part/2))

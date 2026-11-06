@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Form of proxy[^key-9ed99888f7a7b2ccca92682f3d2fd7e7]
+## 73. Form of proxy[^c-9ed99888f7a7b2ccca92682f3d2fd7e7]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ed99888f7a7b2ccca92682f3d2fd7e7]: Commencement: Rule 73 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-9ed99888f7a7b2ccca92682f3d2fd7e7]: Commencement: Rule 73 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

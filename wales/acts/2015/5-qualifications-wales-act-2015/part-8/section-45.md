@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Provision of services etc by Qualifications Wales[^key-d26581aa6f2e19fc3a80a6c3b09b2d0b]
+## 45. Provision of services etc by Qualifications Wales[^c-d26581aa6f2e19fc3a80a6c3b09b2d0b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d26581aa6f2e19fc3a80a6c3b09b2d0b]: Commencement: [S. 45](https://www.legislation.gov.uk/anaw/2015/5/section/45) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-d26581aa6f2e19fc3a80a6c3b09b2d0b]: Commencement: [S. 45](https://www.legislation.gov.uk/anaw/2015/5/section/45) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

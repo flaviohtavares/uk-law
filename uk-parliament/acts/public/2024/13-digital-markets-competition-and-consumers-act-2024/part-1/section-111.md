@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Extra-territorial application[^key-b96e95f13d4e6a0cb06bcf526430f9a5][^key-81ee0e5f5786153bcc8ed3342c8fdd96]
+## 111. Extra-territorial application[^c-b96e95f13d4e6a0cb06bcf526430f9a5][^c-81ee0e5f5786153bcc8ed3342c8fdd96]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b96e95f13d4e6a0cb06bcf526430f9a5]: Commencement: S. 111 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-b96e95f13d4e6a0cb06bcf526430f9a5]: Commencement: S. 111 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-81ee0e5f5786153bcc8ed3342c8fdd96]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2024/13/section/111) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-81ee0e5f5786153bcc8ed3342c8fdd96]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2024/13/section/111) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

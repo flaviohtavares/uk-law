@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Duties of cooperation etc[^key-4df5c513f831fa8a22b5c6f7658b028e][^key-fc7a621551cdfa82d9b5f684e9750195]
+## 5. Duties of cooperation etc[^c-4df5c513f831fa8a22b5c6f7658b028e][^c-fc7a621551cdfa82d9b5f684e9750195]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4df5c513f831fa8a22b5c6f7658b028e]: Commencement: S. 5 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-4df5c513f831fa8a22b5c6f7658b028e]: Commencement: S. 5 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-fc7a621551cdfa82d9b5f684e9750195]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/31/section/5) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)
+[^c-fc7a621551cdfa82d9b5f684e9750195]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/31/section/5) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Power to change amount of fixed penalties: England[^key-c9e95b5602d430df6271bb9a8137a4eb][^key-e2c2e3f857a8d1ef23f36e1e634fe7db]
+## 39. Power to change amount of fixed penalties: England[^c-c9e95b5602d430df6271bb9a8137a4eb][^c-e2c2e3f857a8d1ef23f36e1e634fe7db]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c9e95b5602d430df6271bb9a8137a4eb]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-c9e95b5602d430df6271bb9a8137a4eb]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-e2c2e3f857a8d1ef23f36e1e634fe7db]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2026/18/section/39) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-e2c2e3f857a8d1ef23f36e1e634fe7db]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2026/18/section/39) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

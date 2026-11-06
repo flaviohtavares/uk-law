@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Amendment of relevant Act
 
-### 1. Restriction on automatic early release[^key-7cc58dad674565366215d6febd9204fd]
+### 1. Restriction on automatic early release[^c-7cc58dad674565366215d6febd9204fd]
 
 (1) The Prisoners and Criminal Proceedings (Scotland) Act 1993 is amended as follows.
 
@@ -60,7 +60,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-### 2. Release timed to benefit re-integration[^key-abbd407c308379b03cc71b26d438126d]
+### 2. Release timed to benefit re-integration[^c-abbd407c308379b03cc71b26d438126d]
 
 (1) The Prisoners and Criminal Proceedings (Scotland) Act 1993 is amended as follows.
 
@@ -98,6 +98,6 @@ The short title of this Act is the Prisoners (Control of Release) (Scotland) Act
 
 ## Annotations
 
-[^key-7cc58dad674565366215d6febd9204fd]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2015/8/section/1) in force at 1.2.2016 by [S.S.I. 2015/409](https://www.legislation.gov.uk/ssi/2015/409), [art. 2](https://www.legislation.gov.uk/ssi/2015/409/article/2)
+[^c-7cc58dad674565366215d6febd9204fd]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2015/8/section/1) in force at 1.2.2016 by [S.S.I. 2015/409](https://www.legislation.gov.uk/ssi/2015/409), [art. 2](https://www.legislation.gov.uk/ssi/2015/409/article/2)
 
-[^key-abbd407c308379b03cc71b26d438126d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2015/8/section/2) in force at 1.2.2016 by [S.S.I. 2015/409](https://www.legislation.gov.uk/ssi/2015/409), [art. 2](https://www.legislation.gov.uk/ssi/2015/409/article/2)
+[^c-abbd407c308379b03cc71b26d438126d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2015/8/section/2) in force at 1.2.2016 by [S.S.I. 2015/409](https://www.legislation.gov.uk/ssi/2015/409), [art. 2](https://www.legislation.gov.uk/ssi/2015/409/article/2)

@@ -48,7 +48,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-1e064ff94a8478e87b70be5659145a7d][^key-4bf12aad60898411018342e50635ba15][^key-6544b3173f9dee59c614692b1af14d35][^key-7e975d498003029bc5fda3529792dde3][^key-28780201753a8286470c42e431a0ddfe][^key-4102b43df25df3ce3c31434937860954]
+### 1. Citation, commencement and interpretation[^c-1e064ff94a8478e87b70be5659145a7d][^c-4bf12aad60898411018342e50635ba15][^c-6544b3173f9dee59c614692b1af14d35][^c-7e975d498003029bc5fda3529792dde3][^c-28780201753a8286470c42e431a0ddfe][^c-4102b43df25df3ce3c31434937860954]
 
 (1) These Regulations may be cited as the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 and shall come into operation—
 
@@ -105,7 +105,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-### 2. Service of notices or documents[^key-c182f8d6c3e6624ec1096686a485f9c1][^key-d15344655f2cfbae1d907f0972ab637f][^key-b678e55f4a058020d6b40d457bb69e85][^key-cf016a26e45d8bb6b253e52700b1f7f9][^key-7f1a078e2efb520e829f33423f1deab9][^key-d5684d2e9db0f39a7c82696ba8795ecd]
+### 2. Service of notices or documents[^c-c182f8d6c3e6624ec1096686a485f9c1][^c-d15344655f2cfbae1d907f0972ab637f][^c-b678e55f4a058020d6b40d457bb69e85][^c-cf016a26e45d8bb6b253e52700b1f7f9][^c-7f1a078e2efb520e829f33423f1deab9][^c-d5684d2e9db0f39a7c82696ba8795ecd]
 
 Where, by any provision of the Order or of these Regulations—
 
@@ -116,7 +116,7 @@ Where, by any provision of the Order or of these Regulations—
 
 ### CHAPTER I — Revisions
 
-#### 3. Revision of decisions[^key-93d0a8064b9bd4aa0329be3989b842cf][^key-0f5febfc9fc0a67395ee87f6eb353d97][^key-82d8a7181dc7e64106123906b6327dae][^key-a366051db3a59989d44babeb08c49eeb][^key-7f39e5017867e84e9a928ce03e5c1991][^key-2c00f763c533e2bb048809486dd96063]
+#### 3. Revision of decisions[^c-93d0a8064b9bd4aa0329be3989b842cf][^c-0f5febfc9fc0a67395ee87f6eb353d97][^c-82d8a7181dc7e64106123906b6327dae][^c-a366051db3a59989d44babeb08c49eeb][^c-7f39e5017867e84e9a928ce03e5c1991][^c-2c00f763c533e2bb048809486dd96063]
 
 (1) Subject to the following provisions of this regulation, any decision of the Department under Article 9 or 11 (“the original decision”) may be revised by the Department if—
 
@@ -164,7 +164,7 @@ may be revised at any time by the Department.
 - (a) an office of the Department, the address of which is indicated on the notification of the original decision; or
 - (b) in the case of a person who has claimed a jobseeker’s allowance, the office specified by the Department in accordance with regulation 23 of the Jobseeker’s Allowance Regulations.
 
-#### 4. Late application for a revision[^key-c0aa5be09351454ed679e021451db7c4][^key-df40f8096d95cf5e32dea92307cb40f8][^key-458a282133602aa73e557b5d39e02eef][^key-9246e2a19e02f1c93f5588c916d7acf2][^key-3cd818e13e662eed53ca3174c9cb087f][^key-3ff92ddb09617e8d7bd5913d075b75be]
+#### 4. Late application for a revision[^c-c0aa5be09351454ed679e021451db7c4][^c-df40f8096d95cf5e32dea92307cb40f8][^c-458a282133602aa73e557b5d39e02eef][^c-9246e2a19e02f1c93f5588c916d7acf2][^c-3cd818e13e662eed53ca3174c9cb087f][^c-3ff92ddb09617e8d7bd5913d075b75be]
 
 (1) The time limit for making an application for a revision specified in regulation 3(1) or (3) may be extended where the conditions specified in the following provisions of this regulation are satisfied.
 
@@ -192,13 +192,13 @@ may be revised at any time by the Department.
 
 (8) In this regulation “Commissioner” includes a Commissioner within the meaning of section 39(1) of the Social Security Act 1998[^f00014].
 
-#### 5. Date from which a decision revised under Article 10 takes effect[^key-dc90fa7a87181ca934db505ef024ffb7][^key-15fc9a319a9973abe231ab66f37232ab][^key-573e48ee72a365bcad6287fc97073ac9][^key-0d508263ab89e67ec9afe82a4fa02bd3][^key-49084ebc665b9aee7ec2d55130c1aa4d][^key-c94328aa6d44e98d820f2b368a958a87]
+#### 5. Date from which a decision revised under Article 10 takes effect[^c-dc90fa7a87181ca934db505ef024ffb7][^c-15fc9a319a9973abe231ab66f37232ab][^c-573e48ee72a365bcad6287fc97073ac9][^c-0d508263ab89e67ec9afe82a4fa02bd3][^c-49084ebc665b9aee7ec2d55130c1aa4d][^c-c94328aa6d44e98d820f2b368a958a87]
 
 Where, on a revision under Article 10, the Department decides that the date from which the decision under Article 9 or 11 (“the original decision”) took effect was erroneous, the decision under Article 10 shall take effect on the date from which the original decision would have taken effect had the error not been made.
 
 ### CHAPTER II — Supersessions
 
-#### 6. Supersession of decisions[^key-0f292281ce1f6ec63bb5f60e9a7371fc][^key-b96bd3d4cfcc82cf27a97463b3f9a3e4][^key-0517566e9e633b89f8d1df909782cf71][^key-1a3c97979eccd2cca6e3e9c67cba88c0][^key-4dd3bd8756cf464ba90464a3a3ee0643][^key-41e5c84355612f2fb49d10e7acb5c29f]
+#### 6. Supersession of decisions[^c-0f292281ce1f6ec63bb5f60e9a7371fc][^c-b96bd3d4cfcc82cf27a97463b3f9a3e4][^c-0517566e9e633b89f8d1df909782cf71][^c-1a3c97979eccd2cca6e3e9c67cba88c0][^c-4dd3bd8756cf464ba90464a3a3ee0643][^c-41e5c84355612f2fb49d10e7acb5c29f]
 
 (1) Subject to the following provisions of this regulation, for the purposes of Article 11, the cases and circumstances in which a decision may be superseded under that Article are set out in paragraphs (2) to (4).
 
@@ -238,7 +238,7 @@ Where, on a revision under Article 10, the Department decides that the date from
 
 (7) In paragraph (6)(b) “nursing home” and “residential care home” have the same meanings as in regulation 19(2) of the Income Support Regulations[^f00016] or, as the case may be, regulation 1(2) of the Jobseeker’s Allowance Regulations.
 
-#### 7. Date from which a decision superseded under Article 11 takes effect[^key-04895d1b519dbdd57de73d688724e3f8][^key-f68c5492ff4446348f1789a21bd2b6ea][^key-8a880bacd8f44f3e87c07f14773d5ac5][^key-e9ff2deecdf361b7bcddfe145105b4e1][^key-d1a01db017643b1ebb750071334ab788][^key-5efb74473eebd1127ae6fc6c4ae198e9]
+#### 7. Date from which a decision superseded under Article 11 takes effect[^c-04895d1b519dbdd57de73d688724e3f8][^c-f68c5492ff4446348f1789a21bd2b6ea][^c-8a880bacd8f44f3e87c07f14773d5ac5][^c-e9ff2deecdf361b7bcddfe145105b4e1][^c-d1a01db017643b1ebb750071334ab788][^c-5efb74473eebd1127ae6fc6c4ae198e9]
 
 (1) This regulation contains exceptions to the provisions of Article 11(5) as to the date from which a decision under Article 11 which supersedes an earlier decision is to take effect.
 
@@ -353,7 +353,7 @@ the decision under Article 11 referred to in sub-paragraph (d) shall take effect
 
 the decision under Article 11 shall take effect from the same date as the decision made in consequence of sub-paragraph (a) has effect.
 
-#### 8. Effective date for late notifications of change of circumstances[^key-87cc25a1882d85976c8fdf9f482e5cd9][^key-313eda73949a1a0d6d1ae3bec77c2508][^key-7bd5bacb7979f6598138b6b86e0503f0][^key-9db50c6f0fbdaaf196b48a69ac68d308][^key-5acb8b6953d8fd0327c073c7b9866579][^key-b44c6c6f5991aa1ea221b23f30df24c1]
+#### 8. Effective date for late notifications of change of circumstances[^c-87cc25a1882d85976c8fdf9f482e5cd9][^c-313eda73949a1a0d6d1ae3bec77c2508][^c-7bd5bacb7979f6598138b6b86e0503f0][^c-9db50c6f0fbdaaf196b48a69ac68d308][^c-5acb8b6953d8fd0327c073c7b9866579][^c-b44c6c6f5991aa1ea221b23f30df24c1]
 
 (1) For the purposes of regulation 7(2), a longer period of time may be allowed for the notification of a change of circumstances in so far as it affects the effective date of the change where the conditions specified in the following provisions of this regulation are satisfied.
 
@@ -383,7 +383,7 @@ the decision under Article 11 shall take effect from the same date as the decisi
 
 ### CHAPTER III — Other matters
 
-#### 9. Certificates of recoverable benefits[^key-1228e18ac6869d96c94e3c20c0d521be][^key-ddeed568f77ca971ac63aeafdd8a5bbd][^key-920fcfa194f054af200c04270b731316][^key-f0989a9eda99dbf2235367ed345949ce][^key-89caf72d48e2a8355f11f7f6f846c9ec][^key-1de6d2a30fae3b845deb12876bb318cb]
+#### 9. Certificates of recoverable benefits[^c-1228e18ac6869d96c94e3c20c0d521be][^c-ddeed568f77ca971ac63aeafdd8a5bbd][^c-920fcfa194f054af200c04270b731316][^c-f0989a9eda99dbf2235367ed345949ce][^c-89caf72d48e2a8355f11f7f6f846c9ec][^c-1de6d2a30fae3b845deb12876bb318cb]
 
 A certificate of recoverable benefits may be reviewed under Article 12 of the Recovery of Benefits Order[^f00024] where the Department is satisfied that—
 
@@ -392,11 +392,11 @@ A certificate of recoverable benefits may be reviewed under Article 12 of the Re
 - (c) incorrect or insufficient information was supplied to the Department by the person who applied for the certificate and in consequence the amount of benefit specified in the certificate was less than it would have been had the information supplied been correct and sufficient; or
 - (d) a ground for appeal is satisfied under Article 13 of the Recovery of Benefits Order.
 
-#### 10. Effect of a determination as to capacity for work[^key-c54bf6db358e1e1ffe01db5965e8d079][^key-02a097fa947bdbdd55cef76d2b9a2fa5][^key-c7140ac74691b83bd2d3f54f3befad3f][^key-89ae3e993beeaad9aa255d743789c695][^key-7e15f9c6ef3185d0f8fd3046aa578714][^key-c18ed636ae6ac866e792fe35deb373b7]
+#### 10. Effect of a determination as to capacity for work[^c-c54bf6db358e1e1ffe01db5965e8d079][^c-02a097fa947bdbdd55cef76d2b9a2fa5][^c-c7140ac74691b83bd2d3f54f3befad3f][^c-89ae3e993beeaad9aa255d743789c695][^c-7e15f9c6ef3185d0f8fd3046aa578714][^c-c18ed636ae6ac866e792fe35deb373b7]
 
 A determination (including a determination made following a change of circumstances) whether a person is, or is to be treated as, capable or incapable of work which is embodied in or necessary to a decision under Chapter II of Part II of the Order or on which such a decision is based shall be conclusive for the purposes of any further such decision.
 
-#### 11. Department to determine certain matters[^key-a4533480ba3ac4aea2a29a2c1b949e68][^key-376061707ed198940382bbd8d13aa2c7][^key-8373d91e2730bcd9519cd00e67e0f627][^key-7b7e0e4f5783f38333110d952844a400][^key-ff99b694f8a969d3f5a4964ec84f4e70][^key-e6bd7452aa96dde6f46e00bbafe0ecd7]
+#### 11. Department to determine certain matters[^c-a4533480ba3ac4aea2a29a2c1b949e68][^c-376061707ed198940382bbd8d13aa2c7][^c-8373d91e2730bcd9519cd00e67e0f627][^c-7b7e0e4f5783f38333110d952844a400][^c-ff99b694f8a969d3f5a4964ec84f4e70][^c-e6bd7452aa96dde6f46e00bbafe0ecd7]
 
 Where, in relation to a determination for any purpose to which Part XIIA of the Contributions and Benefits Act[^f00025] applies, an issue arises as to—
 
@@ -405,7 +405,7 @@ Where, in relation to a determination for any purpose to which Part XIIA of the 
 
 that issue shall be determined by the Department, notwithstanding that other matters fall to be determined by another authority.
 
-#### 12. Decisions of the Department relating to industrial injuries benefit[^key-cf9cf30605cd39231e25df7b9709205c][^key-d27f027e409cb771d3aeeac069feb07f][^key-14ad569f22453eb15a78762a11b4d337][^key-617cad3d2c455746b5887d7c6c2663ae][^key-b2453203d039e84cde3de5a44acd9342][^key-652c8bc53efff9dfb16b9569d3a15205]
+#### 12. Decisions of the Department relating to industrial injuries benefit[^c-cf9cf30605cd39231e25df7b9709205c][^c-d27f027e409cb771d3aeeac069feb07f][^c-14ad569f22453eb15a78762a11b4d337][^c-617cad3d2c455746b5887d7c6c2663ae][^c-b2453203d039e84cde3de5a44acd9342][^c-652c8bc53efff9dfb16b9569d3a15205]
 
 (1) This regulation applies where, for the purpose of a decision of the Department relating to a claim for industrial injuries benefit under Part V of the Contributions and Benefits Act an issue to be decided is—
 
@@ -420,7 +420,7 @@ that issue shall be determined by the Department, notwithstanding that other mat
 - (a) all relevant medical reports provided to it in connection with that decision; and
 - (b) the experience, in such of the issues specified in paragraph (1) as are relevant to the decision, of any medical practitioner who has provided a report, including a medical practitioner who has provided a report following an examination required by the Department under Article 19.
 
-#### 13. Income support and social fund determinations on incomplete evidence[^key-b718073c95f4d496d6c36c3ceb078fae][^key-aeaf434180faba9e170d6e547d11d7a5][^key-ef504ba68d509dfe0efd931854d6a82f][^key-b3a9dba79e0558cadb288f3c05e3c724][^key-d42b345807b0ba7511a8615f11b54893][^key-0357a3985fb66634a5d425493971d852]
+#### 13. Income support and social fund determinations on incomplete evidence[^c-b718073c95f4d496d6c36c3ceb078fae][^c-aeaf434180faba9e170d6e547d11d7a5][^c-ef504ba68d509dfe0efd931854d6a82f][^c-b3a9dba79e0558cadb288f3c05e3c724][^c-d42b345807b0ba7511a8615f11b54893][^c-0357a3985fb66634a5d425493971d852]
 
 (1) Where, for the purpose of a decision under Article 9 or 11—
 
@@ -439,7 +439,7 @@ it shall make the determination on the assumption that the housing costs to be i
 
 it shall make the determination on the assumption that the relevant information or evidence which is not in its possession is adverse to the claimant.
 
-#### 14. Effect of alteration in the component rates of income support and jobseeker’s allowance[^key-995e7eb3ad2568024be83f50114411a7][^key-3842984a549922e73cbf9068f357972b][^key-fb5008779df6caa0d0a4dfeae0f1a820][^key-21f0fa98db0123d88fb003d581ec8829][^key-cf51251f154860148980f67a745588c1][^key-4a213439eb08feadf4d6d3bf50d79900]
+#### 14. Effect of alteration in the component rates of income support and jobseeker’s allowance[^c-995e7eb3ad2568024be83f50114411a7][^c-3842984a549922e73cbf9068f357972b][^c-fb5008779df6caa0d0a4dfeae0f1a820][^c-21f0fa98db0123d88fb003d581ec8829][^c-cf51251f154860148980f67a745588c1][^c-4a213439eb08feadf4d6d3bf50d79900]
 
 (1) Section 139 of the Administration Act shall not apply to any award of income support in force in favour of a person where there is applicable to that person—
 
@@ -453,7 +453,7 @@ it shall make the determination on the assumption that the relevant information 
 
 (4) Where section 139A of the Administration Act does not apply to an award of a jobseeker’s allowance by virtue of paragraph (3), a decision under Article 11 may be made in respect of that award for the sole purpose of giving effect to any change made by an order under section 132 of the Administration Act.
 
-#### 15. Jobseeker’s allowance determinations on incomplete evidence[^key-0dfb2139a407aa061d026aff1640da61][^key-356468bcad969ed2563fea5ca5d11c25][^key-167286d6e14b4ca4a1754b6361afe070][^key-843b5b19ba3d61e82136ec0218418ef5][^key-1a12be92a315f927e57f8f4d3ceab454][^key-06b4a79fb3a7bf4c759def3eddc09ac9]
+#### 15. Jobseeker’s allowance determinations on incomplete evidence[^c-0dfb2139a407aa061d026aff1640da61][^c-356468bcad969ed2563fea5ca5d11c25][^c-167286d6e14b4ca4a1754b6361afe070][^c-843b5b19ba3d61e82136ec0218418ef5][^c-1a12be92a315f927e57f8f4d3ceab454][^c-06b4a79fb3a7bf4c759def3eddc09ac9]
 
 Where, for the purpose of a decision under Article 9 or 11—
 
@@ -468,7 +468,7 @@ it shall make the determination on the assumption that the relevant information 
 
 ### CHAPTER I — Suspension and termination
 
-#### 16. Suspension in prescribed cases[^key-af9ec76855212560667365fa2f742501][^key-937cfc9e004d2c697e8a87a7bcea1a6b][^key-ad4129741b172cdbddfd4a43a574f0d1][^key-7b8e835f7944bc2ad3b42c4b5072c425][^key-bed2f6b782770d530c785080afbc405b][^key-c8381fdfcea888fc7f7b0824f1d3a8f6]
+#### 16. Suspension in prescribed cases[^c-af9ec76855212560667365fa2f742501][^c-937cfc9e004d2c697e8a87a7bcea1a6b][^c-ad4129741b172cdbddfd4a43a574f0d1][^c-7b8e835f7944bc2ad3b42c4b5072c425][^c-bed2f6b782770d530c785080afbc405b][^c-c8381fdfcea888fc7f7b0824f1d3a8f6]
 
 (1) Subject to paragraph (2), the Department may suspend payment of a relevant benefit, in whole or in part, in the circumstances prescribed in paragraph (3).
 
@@ -493,7 +493,7 @@ it shall make the determination on the assumption that the relevant information 
 
 (5) In this regulation “Commissioner” includes a Commissioner within the meaning of section 39(1) of the Social Security Act 1998.
 
-#### 17. Provision of information or evidence[^key-69e985103f371325462b9a690b28cf2d][^key-c9f106db053e78da62b7cdc66cb30c9f][^key-9be3a71df7ad99fc810088db508405e2][^key-e3a4fd5773fb4fc82d49d69da2b621aa][^key-5aa7dc308289b39604c53c4a864a702f][^key-e886d36bc44dd9824ec02b0f360e2a58]
+#### 17. Provision of information or evidence[^c-69e985103f371325462b9a690b28cf2d][^c-c9f106db053e78da62b7cdc66cb30c9f][^c-9be3a71df7ad99fc810088db508405e2][^c-e3a4fd5773fb4fc82d49d69da2b621aa][^c-5aa7dc308289b39604c53c4a864a702f][^c-e886d36bc44dd9824ec02b0f360e2a58]
 
 (1) This regulation applies where the Department requires information or evidence for a determination whether a decision awarding a relevant benefit should be—
 
@@ -523,7 +523,7 @@ it shall make the determination on the assumption that the relevant information 
 
 (6) In this regulation “evidence” includes evidence which a person is required to provide in accordance with regulation 2 of the Social Security (Medical Evidence) Regulations (Northern Ireland) 1976[^f00035].
 
-#### 18. Termination in cases of failure to furnish information or evidence[^key-4a03b0be17704627a6d96b33d4d9a504][^key-cfed09f6517de1c3555dee930497ef6e][^key-dcb9e729da34e92c0572ff5015c77ab6][^key-43049ce6631a73eab09b166929f42fce][^key-655d0113dd8a7f509297a45634a0641c][^key-7e979e2f26991e28cc2a9a8f2ba92091]
+#### 18. Termination in cases of failure to furnish information or evidence[^c-4a03b0be17704627a6d96b33d4d9a504][^c-cfed09f6517de1c3555dee930497ef6e][^c-dcb9e729da34e92c0572ff5015c77ab6][^c-43049ce6631a73eab09b166929f42fce][^c-655d0113dd8a7f509297a45634a0641c][^c-7e979e2f26991e28cc2a9a8f2ba92091]
 
 (1) Subject to paragraphs (2) to (4), the Department shall decide that where a person—
 
@@ -538,7 +538,7 @@ that person shall cease to be entitled to that benefit from the date on which pa
 
 (4) Paragraph (1) shall not apply where benefit has been suspended in part under regulation 16 or, as the case may be, regulation 17.
 
-#### 19. Suspension and termination for failure to submit to medical examination[^key-84db1f85cbcd017b149461f5509e4500][^key-4e2eb719e338cec70921c28db93d3cd4][^key-2a6e8788269d42a3749924b759ecd8b9][^key-d6acf1d907f4966cee2cdb9c29932966][^key-a34401108a771bb845f5e10cde555cf5][^key-466fd3ab923b8e47f557ab12e7695bd7]
+#### 19. Suspension and termination for failure to submit to medical examination[^c-84db1f85cbcd017b149461f5509e4500][^c-4e2eb719e338cec70921c28db93d3cd4][^c-2a6e8788269d42a3749924b759ecd8b9][^c-d6acf1d907f4966cee2cdb9c29932966][^c-a34401108a771bb845f5e10cde555cf5][^c-466fd3ab923b8e47f557ab12e7695bd7]
 
 (1) Except where regulation 8 of the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995 applies, the Department may require a person to submit to a medical examination by a medical practitioner where that person is in receipt of a relevant benefit, and either—
 
@@ -551,7 +551,7 @@ that person shall cease to be entitled to that benefit from the date on which pa
 
 (4) Paragraph (3) shall not apply where not more than one month has elapsed since the first payment was suspended under paragraph (2).
 
-#### 20. Making of payments which have been suspended[^key-47c5a15e573e5cdb2a60514ae8d9d2aa][^key-7b01600d0527b146bb3029509a73a7ec][^key-ebd226968a2fcdd2c04c18acb6e03c9a][^key-8c9aaf77649e7aa03e893370efe33782][^key-2b08d5d34f47d85e6caab6ac52d16353][^key-65c3e5a08d70e2eb86b2c0c289538ac6]
+#### 20. Making of payments which have been suspended[^c-47c5a15e573e5cdb2a60514ae8d9d2aa][^c-7b01600d0527b146bb3029509a73a7ec][^c-ebd226968a2fcdd2c04c18acb6e03c9a][^c-8c9aaf77649e7aa03e893370efe33782][^c-2b08d5d34f47d85e6caab6ac52d16353][^c-65c3e5a08d70e2eb86b2c0c289538ac6]
 
 (1) Subject to paragraphs (2) and (3), payment of a benefit suspended in accordance with regulation 16 shall be made where—
 
@@ -567,7 +567,7 @@ that person shall cease to be entitled to that benefit from the date on which pa
 
 ### CHAPTER II — Other matters
 
-#### 21. Decisions involving issues that arise on appeal in other cases[^key-d79cc03ec3068f3556f0c92ee8f9038a][^key-efa7d3aa8bbd19f8c47779a5896492a9][^key-aaef1a235bc7aece7c6842fa2f732b38][^key-1a5c0166f27e42d442b6bf3eb61be2d1][^key-c2d4541087e0ab74bd6c077c79945e7b][^key-68038e6dda1032abc1ddd68774c2267c]
+#### 21. Decisions involving issues that arise on appeal in other cases[^c-d79cc03ec3068f3556f0c92ee8f9038a][^c-efa7d3aa8bbd19f8c47779a5896492a9][^c-aaef1a235bc7aece7c6842fa2f732b38][^c-1a5c0166f27e42d442b6bf3eb61be2d1][^c-c2d4541087e0ab74bd6c077c79945e7b][^c-68038e6dda1032abc1ddd68774c2267c]
 
 (1) For the purposes of Article 25(3)(b), a case which satisfies the condition in paragraph (2) is a prescribed case.
 
@@ -585,14 +585,14 @@ that person shall cease to be entitled to that benefit from the date on which pa
   - (i) there would be no entitlement to benefit in a case to which Article 25(1)(a) refers, or
   - (ii) the appeal would affect the decision in that case in some other way.
 
-#### 22. Appeals involving issues that arise in other cases[^key-2f58cb3493343721bb4155ec8deff11d][^key-f08c3d670c125233aa742b7e8f2ad457][^key-4427458cf3ff17e680ae9ed68aa4174a][^key-116c49d1d0ab3381c1b990f73b4f5c8e][^key-74f03e920fa77c22c65fbb43399c6a5d][^key-59b4ea6c5dae4e77348bb32b2b0a6037]
+#### 22. Appeals involving issues that arise in other cases[^c-2f58cb3493343721bb4155ec8deff11d][^c-f08c3d670c125233aa742b7e8f2ad457][^c-4427458cf3ff17e680ae9ed68aa4174a][^c-116c49d1d0ab3381c1b990f73b4f5c8e][^c-74f03e920fa77c22c65fbb43399c6a5d][^c-59b4ea6c5dae4e77348bb32b2b0a6037]
 
 The circumstances prescribed under Article 26(6)(c), where an appeal is pending against a decision in the case described in Article 26(1)(b), even though an appeal against the decision has not been brought (or, as the case may be, an application for leave to appeal against the decision has not been made) but the time for doing so has not yet expired, are where the Department—
 
 - (a) certifies in writing that it is considering appealing against that decision; and
 - (b) considers that, if such an appeal were already determined, it would affect the determination of the appeal described in Article 26(1)(a).
 
-#### 23. Child support decisions involving issues that arise on appeal in other cases[^key-f7fa136df79d59043f0c4c32ae527cba][^key-609abf840cb265658a519aeb9cb89391][^key-9b3f0222efffd63b4852477239cc6afc][^key-e40bc7ec727f48b8261282265d22e4ba][^key-9de85931bed64a63c06e09b07413b780][^key-eac8a89353fcdf1d870972e08e063ff8]
+#### 23. Child support decisions involving issues that arise on appeal in other cases[^c-f7fa136df79d59043f0c4c32ae527cba][^c-609abf840cb265658a519aeb9cb89391][^c-9b3f0222efffd63b4852477239cc6afc][^c-e40bc7ec727f48b8261282265d22e4ba][^c-9de85931bed64a63c06e09b07413b780][^c-eac8a89353fcdf1d870972e08e063ff8]
 
 (1) For the purposes of Article 28ZA(2)(b) of the Child Support Order[^f00036], a case which satisfies either of the conditions in paragraph (2) is a prescribed case.
 
@@ -618,7 +618,7 @@ The circumstances prescribed under Article 26(6)(c), where an appeal is pending 
 - “absent parent” and “parent with care” have the same meanings as in Article 2(2) of the Child Support Order[^f00038];
 - “employed earner” and “self-employed earner” have the same meanings as in section 2(1) of the Contributions and Benefits Act.
 
-#### 24. Child support appeals involving issues that arise in other cases[^key-8d179c703e9e9c7c1030edf5df5e37bb][^key-54d881d90669a0e4b85149ae3d452ce4][^key-affe18b4c1e7e91635af3b14768dc372][^key-aa88729018ea080612923dd8623dfa69][^key-74aca82724b8e22d2ba98236eeb4d1f0][^key-c86a5c9cf9e51626186ee78c553ad8a9]
+#### 24. Child support appeals involving issues that arise in other cases[^c-8d179c703e9e9c7c1030edf5df5e37bb][^c-54d881d90669a0e4b85149ae3d452ce4][^c-affe18b4c1e7e91635af3b14768dc372][^c-aa88729018ea080612923dd8623dfa69][^c-74aca82724b8e22d2ba98236eeb4d1f0][^c-c86a5c9cf9e51626186ee78c553ad8a9]
 
 The circumstances prescribed under Article 28ZB(6)(c) of the Child Support Order[^f00039], where an appeal is pending against a decision in the case described in Article 28ZB(1)(b) of that Order, even though an appeal against the decision has not been brought (or, as the case may be, an application for leave to appeal against the decision has not been made) but the time for doing so has not yet expired, are where the Department—
 
@@ -629,7 +629,7 @@ The circumstances prescribed under Article 28ZB(6)(c) of the Child Support Order
 
 ### CHAPTER I — General appeals matters not including child support appeals
 
-#### 25. Other persons with a right of appeal[^key-1ec9a43b94aeded73f37b9d6367066f1][^key-bcf860b74db3f2d2dac7252ad009d8fc][^key-78c2528cd3953df8318833de109cdff1][^key-849dbcbb890b0199b13a7c598581bbe9][^key-11b0ed7c2ef092ba15a53c8e3b934d0d][^key-c38d7286ae681a13e68722753b576897]
+#### 25. Other persons with a right of appeal[^c-1ec9a43b94aeded73f37b9d6367066f1][^c-bcf860b74db3f2d2dac7252ad009d8fc][^c-78c2528cd3953df8318833de109cdff1][^c-849dbcbb890b0199b13a7c598581bbe9][^c-11b0ed7c2ef092ba15a53c8e3b934d0d][^c-c38d7286ae681a13e68722753b576897]
 
 For the purposes of Article 13(2)(b), the following other persons have a right to appeal to an appeal tribunal—
 
@@ -637,14 +637,14 @@ For the purposes of Article 13(2)(b), the following other persons have a right t
 - (b) any person claiming attendance allowance or disability living allowance on behalf of another under section 66(2)(b) of the Contributions and Benefits Act or, as the case may be, section 76(3) of that Act; and
 - (c) in relation to a pension scheme, any person who, for the purposes of Part X of the Pension Schemes Act, is an employer, member, trustee or manager by virtue of section 142(8) of that Act.
 
-#### 26. Decisions against which an appeal lies[^key-1cae3e28548ebb4d5d387d5af1d8aeaf][^key-59cacfd40324f76850c2f770378b9b3a][^key-4fba218d42f45a43970163abb2ba3aac][^key-010d1ad55a1d5b6f6059d95176ffc8bd][^key-2de458c334d0b4bf79f73f740f05c199][^key-8288b33c1cb3896d37d0765925492d08]
+#### 26. Decisions against which an appeal lies[^c-1cae3e28548ebb4d5d387d5af1d8aeaf][^c-59cacfd40324f76850c2f770378b9b3a][^c-4fba218d42f45a43970163abb2ba3aac][^c-010d1ad55a1d5b6f6059d95176ffc8bd][^c-2de458c334d0b4bf79f73f740f05c199][^c-8288b33c1cb3896d37d0765925492d08]
 
 An appeal shall lie to an appeal tribunal against a decision made by the Department—
 
 - (a) as to whether a person is entitled to a relevant benefit for which no claim is required by virtue of regulation 3 of the Claims and Payments Regulations; or
 - (b) as to whether a payment be made out of the social fund to a person to meet expenses for heating by virtue of regulations made under section 134(2) of the Contributions and Benefits Act.
 
-#### 27. Decisions against which no appeal lies[^key-a6aedb37837e812f1173b2b89a836d3a][^key-14ce0fac0792fe17d5d4ad57cb317f14][^key-b84976a8e5724cace4e14b2be22cfe82][^key-bd36fea817f98284cb7c2f8a41c9ca98][^key-903f9972a28fcc220d089f669d4d5cb3][^key-09b4e1e9dbca0950abc3e7a3ae984967]
+#### 27. Decisions against which no appeal lies[^c-a6aedb37837e812f1173b2b89a836d3a][^c-14ce0fac0792fe17d5d4ad57cb317f14][^c-b84976a8e5724cace4e14b2be22cfe82][^c-bd36fea817f98284cb7c2f8a41c9ca98][^c-903f9972a28fcc220d089f669d4d5cb3][^c-09b4e1e9dbca0950abc3e7a3ae984967]
 
 (1) No appeal lies to an appeal tribunal against a decision set out in Schedule 1.
 
@@ -652,7 +652,7 @@ An appeal shall lie to an appeal tribunal against a decision made by the Departm
 
 (3) An appeal brought against a decision specified in paragraph (1) may be struck out in accordance with regulation 46.
 
-#### 28. Notice of decision against which appeal lies[^key-fae4cec85a214db4854b7b26e4722e5d][^key-91b91f56bd21aa3430976c4359786a9d][^key-c09ff21d9f5b03abe4f71e4b988ddf66][^key-eb5eeba036205962e592032bb2c338ae][^key-8ef1619f2a5ae7881f1681f6d8e4ab19][^key-1908f22a9538cd7195fa0c530e84d963]
+#### 28. Notice of decision against which appeal lies[^c-fae4cec85a214db4854b7b26e4722e5d][^c-91b91f56bd21aa3430976c4359786a9d][^c-c09ff21d9f5b03abe4f71e4b988ddf66][^c-eb5eeba036205962e592032bb2c338ae][^c-8ef1619f2a5ae7881f1681f6d8e4ab19][^c-1908f22a9538cd7195fa0c530e84d963]
 
 (1) A person with a right of appeal under the Order or these Regulations against any decision of the Department shall—
 
@@ -662,7 +662,7 @@ An appeal shall lie to an appeal tribunal against a decision made by the Departm
 
 (2) Where a written statement of the reasons for the decision is not included in the written notice of the decision and is requested under paragraph (1)(b), the Department shall provide that statement within 14 days of receipt of the request.
 
-#### 29. Further particulars required relating to certificate of recoverable benefits appeals or applications[^key-0b01ccc11001ca907486c2ca4c9202e0][^key-699958ffe11b30133a12c34479e5dbf5][^key-dee55c0596f740715d762cb255e900ed][^key-d87596a97d0a0ec7a74045a899e5ab7c][^key-26bcace0ac0281156aa74dbc1ed3ab7e][^key-1f0cc34bb1e7e8108f5c058e1cc771f7]
+#### 29. Further particulars required relating to certificate of recoverable benefits appeals or applications[^c-0b01ccc11001ca907486c2ca4c9202e0][^c-699958ffe11b30133a12c34479e5dbf5][^c-dee55c0596f740715d762cb255e900ed][^c-d87596a97d0a0ec7a74045a899e5ab7c][^c-26bcace0ac0281156aa74dbc1ed3ab7e][^c-1f0cc34bb1e7e8108f5c058e1cc771f7]
 
 (1) An appeal or application under the Recovery of Benefits Order relating to a certificate of recoverable benefits shall, in addition to any requirements specified in regulation 33, include the following particulars—
 
@@ -681,7 +681,7 @@ An appeal shall lie to an appeal tribunal against a decision made by the Departm
 
 ### CHAPTER II — General appeals matters including child support appeals
 
-#### 30. Appeals against decisions which have been revised[^key-302c079ea6e69f00727554c54fe166c8][^key-7d11e370e358d37a9eefe38cecd28b49][^key-42ca8ae51b8b7ab2bdf0bb3063d9f68e][^key-5c42c99d25040df998da5556ac9a7bfa][^key-5b2969b9398d3aaf8a822aa9c1d0d86b][^key-b15baaa4699a3e0c17a1eacef4123ac6]
+#### 30. Appeals against decisions which have been revised[^c-302c079ea6e69f00727554c54fe166c8][^c-7d11e370e358d37a9eefe38cecd28b49][^c-42ca8ae51b8b7ab2bdf0bb3063d9f68e][^c-5c42c99d25040df998da5556ac9a7bfa][^c-5b2969b9398d3aaf8a822aa9c1d0d86b][^c-b15baaa4699a3e0c17a1eacef4123ac6]
 
 (1) An appeal against a decision of the Department shall not lapse where the decision is revised under Article 18 of the Child Support Order[^f00041] or under Article 10 before the appeal is determined and the decision as revised is not more advantageous to the appellant than the decision before it was revised.
 
@@ -700,7 +700,7 @@ An appeal shall lie to an appeal tribunal against a decision made by the Departm
 
 (5) After the expiry of the period specified in paragraph (4), or within that period if the appellant consents in writing, the appeal to the appeal tribunal shall proceed except where, in the light of any further representations from the appellant, the Department further revises its decision and that decision is more advantageous to the appellant than the decision before it was revised.
 
-#### 31. Time within which appeals are to be brought[^key-8616c91032188d3b539fbad5642112e8][^key-650fbfcd87bff3ecdd1da273297c268f][^key-45434d7dd81d93feca844a0214bc18bd][^key-6d05057887e06a41df5c9f72489c2647][^key-51c74eef1169f482c641db4da4bb955f][^key-e27e1a39db34c0370cfbce6109bc91d1]
+#### 31. Time within which appeals are to be brought[^c-8616c91032188d3b539fbad5642112e8][^c-650fbfcd87bff3ecdd1da273297c268f][^c-45434d7dd81d93feca844a0214bc18bd][^c-6d05057887e06a41df5c9f72489c2647][^c-51c74eef1169f482c641db4da4bb955f][^c-e27e1a39db34c0370cfbce6109bc91d1]
 
 (1) Where an appeal lies from a decision of the Department to an appeal tribunal, the time within which that appeal shall be brought is, subject to the following provisions of this Part—
 
@@ -724,7 +724,7 @@ the period of one month specified in paragraph (1) shall run from the date of no
 
 (5) The time limit specified in this regulation for bringing an appeal may be extended in accordance with regulation 32.
 
-#### 32. Late appeals[^key-24cc1b7c088994a5d610eab32e901dd6][^key-45ac150582ba716504201fa85a15b692][^key-a187de8bf1b05387cdeb73070eaa3aa2][^key-7f95889bd56a157aa75a947991ed4f73][^key-cda7f748408d8d706933ce8ec3cb633d][^key-2431f10ac4ca000ec2e823a7f9cccc5b]
+#### 32. Late appeals[^c-24cc1b7c088994a5d610eab32e901dd6][^c-45ac150582ba716504201fa85a15b692][^c-a187de8bf1b05387cdeb73070eaa3aa2][^c-7f95889bd56a157aa75a947991ed4f73][^c-cda7f748408d8d706933ce8ec3cb633d][^c-2431f10ac4ca000ec2e823a7f9cccc5b]
 
 (1) The time for bringing an appeal may be extended where the conditions specified in paragraphs (2) to (8) are satisfied, but no appeal shall in any event be brought more than one year after the expiry of the last day for appealing under regulation 31.
 
@@ -768,7 +768,7 @@ and as a result of those special circumstances it was not practicable for the ap
 - (a) a Commissioner within the meaning of section 39(1) of the Social Security Act 1998[^f00043]; and
 - (b) a Child Support Commissioner appointed under section 22 or 23 of the Child Support Act 1991[^f00044].
 
-#### 33. Making of appeals and applications[^key-be7d50a4052df5cdbe668acd96c2694f][^key-ee71f5761c3e4afc27693a7a0cd51f03][^key-db2fcf9cca588f29b8086d566d6f0d09][^key-057e2f10c02df189eb76bd45015520fe][^key-d3b78d11a43ef42d52e2ac85cd96dd73][^key-ae44e9cf332699f05df8470ebfa5dbcb]
+#### 33. Making of appeals and applications[^c-be7d50a4052df5cdbe668acd96c2694f][^c-ee71f5761c3e4afc27693a7a0cd51f03][^c-db2fcf9cca588f29b8086d566d6f0d09][^c-057e2f10c02df189eb76bd45015520fe][^c-d3b78d11a43ef42d52e2ac85cd96dd73][^c-ae44e9cf332699f05df8470ebfa5dbcb]
 
 (1) An appeal, or an application for an extension of time for making an appeal to an appeal tribunal, shall be in writing either on a form approved for the purpose by the Department or in such other format as it accepts as sufficient for the purpose and shall—
 
@@ -810,7 +810,7 @@ the time for making the appeal shall be extended by 14 days from the date on whi
 
 that form or those further particulars shall also be forwarded to the legally qualified panel member who shall take into account any further information or evidence set out in the form or further particulars.
 
-#### 34. Death of a party to an appeal[^key-98811280f1fd332f9e8746bc33fc2c05][^key-3d38705b3e32a68fe12108477f3c4bf5][^key-edecd0418ed27d54903e8c05379e07ee][^key-80451ee9cbdbc8c8293033a0306a54b2][^key-ab2e66109bbc04afefcd82bd8a73265d][^key-a7e0d3d0b525293ef481d3b061b3def2]
+#### 34. Death of a party to an appeal[^c-98811280f1fd332f9e8746bc33fc2c05][^c-3d38705b3e32a68fe12108477f3c4bf5][^c-edecd0418ed27d54903e8c05379e07ee][^c-80451ee9cbdbc8c8293033a0306a54b2][^c-ab2e66109bbc04afefcd82bd8a73265d][^c-a7e0d3d0b525293ef481d3b061b3def2]
 
 (1) In any proceedings, on the death of a party to those proceedings, the Department may appoint such person as it thinks fit to proceed with the appeal in the place of such deceased party.
 
@@ -822,11 +822,11 @@ that form or those further particulars shall also be forwarded to the legally qu
 
 ### CHAPTER I — The panel and appeal tribunals
 
-#### 35. Persons appointed to the panel[^key-9750700be3a6252fc159848a17e51e7b][^key-84a556ed3f8924fe30fc655b5a06878d][^key-60dc03b14420700902b7171091bea125][^key-cdb671f565a5ed5be76d7bfb041c7f34][^key-444e3b7c33ab91493ad6221cd99fd84b][^key-fd27323cf0f82c802b3884e3a6be2b9a]
+#### 35. Persons appointed to the panel[^c-9750700be3a6252fc159848a17e51e7b][^c-84a556ed3f8924fe30fc655b5a06878d][^c-60dc03b14420700902b7171091bea125][^c-cdb671f565a5ed5be76d7bfb041c7f34][^c-444e3b7c33ab91493ad6221cd99fd84b][^c-fd27323cf0f82c802b3884e3a6be2b9a]
 
 For the purposes of Article 7(3), the panel shall include persons with the qualifications specified in Schedule 2.
 
-#### 36. Composition of appeal tribunals[^key-295ef62666adddb72ade192937b093a5][^key-5700ba34449c6887a09b1cc8571699aa][^key-b8c2f3a2e299638d284f65e79a237247][^key-dc45f2735ac27927a51bf9f1c3f5410f][^key-4452b7e437da21f81acb7a1861a38af2][^key-004a297e845ce557ea26dbdec5adaa2d]
+#### 36. Composition of appeal tribunals[^c-295ef62666adddb72ade192937b093a5][^c-5700ba34449c6887a09b1cc8571699aa][^c-b8c2f3a2e299638d284f65e79a237247][^c-dc45f2735ac27927a51bf9f1c3f5410f][^c-4452b7e437da21f81acb7a1861a38af2][^c-004a297e845ce557ea26dbdec5adaa2d]
 
 (1) Subject to the following provisions of this regulation, an appeal tribunal, including an appeal tribunal determining a misconceived appeal as a preliminary issue in accordance with regulation 48, shall consist of a legally qualified panel member.
 
@@ -852,13 +852,13 @@ For the purposes of Article 7(3), the panel shall include persons with the quali
 
 (6) An appeal tribunal shall consist of a legally qualified panel member, a medically qualified panel member and a panel member with a disability qualification in any appeal which relates to an attendance allowance or a disability living allowance under Part III of the Contributions and Benefits Act or a disability working allowance under section 128 of that Act[^f00047].
 
-#### 37. Assignment of clerks to appeal tribunals[^key-7e5933a6f34ec58c5f98330cb224d2ba][^key-4dba0133609576de7e88e0135f0f510d][^key-864cdddc5825a084fa65e1a9480e8cf8][^key-1807801d4a88f633b77826925e3251ff][^key-c5d4f2af5346e31b05e2afeebd4c9e6e][^key-548b18308adf32409ac2d7557926e854]
+#### 37. Assignment of clerks to appeal tribunals[^c-7e5933a6f34ec58c5f98330cb224d2ba][^c-4dba0133609576de7e88e0135f0f510d][^c-864cdddc5825a084fa65e1a9480e8cf8][^c-1807801d4a88f633b77826925e3251ff][^c-c5d4f2af5346e31b05e2afeebd4c9e6e][^c-548b18308adf32409ac2d7557926e854]
 
 The Department shall assign a clerk to service each appeal tribunal and the clerk so assigned shall be responsible for summoning members of the panel to serve on the tribunal.
 
 ### CHAPTER II — Procedure in connection with determination of appeals and referrals
 
-#### 38. Consideration and determination of appeals and referrals[^key-4ecc6244b50bad86f84119a5c57a154a][^key-d6f076f19bbc874d2a628cc73b16a157][^key-2f9239a9614a402b13b5f2c4d11eb7d6][^key-aa842cca8928105d25b7373f7a57b81a][^key-3f296bb38c820c5f3ae7c49c667d323f][^key-17a2c9183df6c2c0f6ef5732819b34be]
+#### 38. Consideration and determination of appeals and referrals[^c-4ecc6244b50bad86f84119a5c57a154a][^c-d6f076f19bbc874d2a628cc73b16a157][^c-2f9239a9614a402b13b5f2c4d11eb7d6][^c-aa842cca8928105d25b7373f7a57b81a][^c-3f296bb38c820c5f3ae7c49c667d323f][^c-17a2c9183df6c2c0f6ef5732819b34be]
 
 (1) The procedure in connection with the consideration and determination of an appeal or a referral shall, subject to the following provisions of these Regulations, be such as a legally qualified panel member shall determine.
 
@@ -866,7 +866,7 @@ The Department shall assign a clerk to service each appeal tribunal and the cler
 
 (3) Where a clerk to the appeal tribunal is authorised to take steps in relation to the procedure of the tribunal he may give directions requiring any party to the proceedings to comply with any provision of these Regulations.
 
-#### 39. Directions concerning oral hearings[^key-b6a4be9340a64ba543b15d4edfbfd3ee][^key-10a9920d8f6f25703ccb63e3316213e2][^key-969fdafe4255b2d07f80d1f0ac2d9af0][^key-aaabf4a5705c395aca9b4d9ab82efc7d][^key-aae736b8ff3b34e18df417b580b940bc][^key-5add3315d915436913a47b21cacdbcb1]
+#### 39. Directions concerning oral hearings[^c-b6a4be9340a64ba543b15d4edfbfd3ee][^c-10a9920d8f6f25703ccb63e3316213e2][^c-969fdafe4255b2d07f80d1f0ac2d9af0][^c-aaabf4a5705c395aca9b4d9ab82efc7d][^c-aae736b8ff3b34e18df417b580b940bc][^c-5add3315d915436913a47b21cacdbcb1]
 
 (1) Where an appeal or a referral is made to an appeal tribunal, the clerk to the appeal tribunal shall direct the appellant and any other party to the proceedings to notify the clerk to the appeal tribunal in writing whether he wishes to have an oral hearing of the appeal or referral or whether he is content for the appeal or referral to proceed without an oral hearing.
 
@@ -878,7 +878,7 @@ The Department shall assign a clerk to service each appeal tribunal and the cler
 
 (5) The chairman or, in the case of an appeal tribunal which has only one member, that member, may of his own motion direct that an oral hearing of the appeal or referral be held if he is satisfied that such a hearing is necessary to enable the appeal tribunal to reach a decision.
 
-#### 40. Withdrawal of appeals and referrals[^key-7673e4f3ff9da1e1ebd945d27123ac5d][^key-6c4856da581638f9369e17e30c20cca8][^key-9f32fd6dc8e09c6ff57a8369bbd8d01e][^key-fe29bc846b7ee1a226578d3d5d648701][^key-c8f42ada4d9d09a36533fbeb3799e229][^key-95986a56826a17fb02ce4536a5d3668b]
+#### 40. Withdrawal of appeals and referrals[^c-7673e4f3ff9da1e1ebd945d27123ac5d][^c-6c4856da581638f9369e17e30c20cca8][^c-9f32fd6dc8e09c6ff57a8369bbd8d01e][^c-fe29bc846b7ee1a226578d3d5d648701][^c-c8f42ada4d9d09a36533fbeb3799e229][^c-95986a56826a17fb02ce4536a5d3668b]
 
 (1) An appeal may be withdrawn by the appellant or an authorised representative of his or, as the case may be, a referral may be withdrawn by the Department either—
 
@@ -889,7 +889,7 @@ The Department shall assign a clerk to service each appeal tribunal and the cler
 
 (3) If an appeal or, as the case may be, a referral is withdrawn in accordance with paragraph (1)(b), the clerk to the appeal tribunal shall send notice in writing to every party to the proceedings informing them that the appeal or, as the case may be, referral has been withdrawn.
 
-#### 41. Medical examination required by appeal tribunal[^key-076dd601dd4e0e3c5710824efede79cb][^key-161c6fb88e2d29bc5715200cae4e185d][^key-ccf2d55a7bf8f838bc5347ad0183af9c][^key-3cf09376559045f192daeec4a3a09d32][^key-629cd4b1988dda6a44fbcac9c84ef1ad][^key-a6fd414e5292bb7884a28de8a61aefc7]
+#### 41. Medical examination required by appeal tribunal[^c-076dd601dd4e0e3c5710824efede79cb][^c-161c6fb88e2d29bc5715200cae4e185d][^c-ccf2d55a7bf8f838bc5347ad0183af9c][^c-3cf09376559045f192daeec4a3a09d32][^c-629cd4b1988dda6a44fbcac9c84ef1ad][^c-a6fd414e5292bb7884a28de8a61aefc7]
 
 For the purposes of Article 20(2), the prescribed condition which shall be satisfied is that the issue, or one of the issues, raised on the appeal—
 
@@ -909,7 +909,7 @@ For the purposes of Article 20(2), the prescribed condition which shall be satis
 - (h) relates to any disease or injury prescribed for the purposes of section 108 of that Act; or
 - (i) relates to any payment arising under, or by virtue of a scheme having effect under, section 111 of, and Schedule 8 to, that Act.
 
-#### 42. Non-disclosure of medical advice or evidence[^key-740c6028dc842ceeaaf71f8751681cda][^key-98a8119808000e6afa2bb06e68fb8e2b][^key-0e07498db9ed89ec90e4e260918ed5c6][^key-18f28011bf993da9bb3c05930eeab1e2][^key-4b1aeba9784595954be3620e24a49b70][^key-b7a3606d6d9a6da570915a9a9748c67a]
+#### 42. Non-disclosure of medical advice or evidence[^c-740c6028dc842ceeaaf71f8751681cda][^c-98a8119808000e6afa2bb06e68fb8e2b][^c-0e07498db9ed89ec90e4e260918ed5c6][^c-18f28011bf993da9bb3c05930eeab1e2][^c-4b1aeba9784595954be3620e24a49b70][^c-b7a3606d6d9a6da570915a9a9748c67a]
 
 (1) Where, in connection with the consideration and determination of an appeal or a referral there is before an appeal tribunal medical advice or medical evidence relating to a person which has not been disclosed to him and in the opinion of the chairman or, in the case of an appeal tribunal which has only one member, that member, the disclosure to that person of that advice or evidence would be harmful to his health, such advice or evidence shall not be required to be disclosed to that person.
 
@@ -917,7 +917,7 @@ For the purposes of Article 20(2), the prescribed condition which shall be satis
 
 (3) A tribunal shall not be precluded from taking into account for the purposes of the determination advice or evidence which has not been disclosed to a person under the provisions of paragraph (1) or (2).
 
-#### 43. Summoning of witnesses and administration of oaths[^key-3f336d1608e32b7898303e745d023a2f][^key-f5a076a3b8b2be96a5507022e1f857cb][^key-6111cb14701f8e587510254a46149f72][^key-01c6d77db50ebe3d18ed6719ba3d64b7][^key-7914517f959dbdbd6bc7cb8a9552c877][^key-1186c0d731cc59ac73847830723c8ea5]
+#### 43. Summoning of witnesses and administration of oaths[^c-3f336d1608e32b7898303e745d023a2f][^c-f5a076a3b8b2be96a5507022e1f857cb][^c-6111cb14701f8e587510254a46149f72][^c-01c6d77db50ebe3d18ed6719ba3d64b7][^c-7914517f959dbdbd6bc7cb8a9552c877][^c-1186c0d731cc59ac73847830723c8ea5]
 
 (1) A chairman or, in the case of an appeal tribunal which has only one member, that member, may by summons require any person in Northern Ireland to attend as a witness at a hearing of an appeal, application or referral at such time and place as shall be specified in the summons and, subject to paragraph (2), at the hearing to answer any question or produce any documents in his custody or under his control which relate to any matter in question in the appeal, application or referral but—
 
@@ -932,7 +932,7 @@ For the purposes of Article 20(2), the prescribed condition which shall be satis
 
 (5) A chairman or, in the case of an appeal tribunal which has only one member, that member, may require any witness, including a witness summoned under the powers conferred by this regulation, to give evidence on oath and for that purpose there may be administered an oath in due form.
 
-#### 44. Confidentiality in child support appeals and referrals[^key-7a20d5327076a76a5342c9cf0f2a55a5][^key-f4b235112c64156a7a4d7a28a5dca07f][^key-562e744aebcb6d704fd92c221122a327][^key-ac67822ea0f92b1244a77914655820e4][^key-b4a97872b06674aa78df25b0f39bc44f][^key-06b06a376b67b229c1e960903b6e77b4]
+#### 44. Confidentiality in child support appeals and referrals[^c-7a20d5327076a76a5342c9cf0f2a55a5][^c-f4b235112c64156a7a4d7a28a5dca07f][^c-562e744aebcb6d704fd92c221122a327][^c-ac67822ea0f92b1244a77914655820e4][^c-b4a97872b06674aa78df25b0f39bc44f][^c-06b06a376b67b229c1e960903b6e77b4]
 
 (1) In the circumstances specified in paragraph (2), for the purposes of paragraph 7 of Schedule 1 to the Order, in a child support appeal or referral, the prescribed material is—
 
@@ -943,13 +943,13 @@ For the purposes of Article 20(2), the prescribed condition which shall be satis
 
 (3) In this regulation “absent parent” and “parent with care” have the same meanings as in Article 2(2) of the Child Support Order.
 
-#### 45. Consideration of more than one appeal under Article 22 of the Child Support Order[^key-685a2148c9c3b44e5a9da0fbb4310819][^key-92f0aeaf6c7a69bcc95fa1ea7737087b][^key-bad7b6ec57d39aad89fd57506714c2ec][^key-3e5cf10a7db3c0a5818bd713dab46d89][^key-eb51208acf8bccf015c57034fc49f469][^key-2e5605d88d94233490dd1fa0dc4a5165]
+#### 45. Consideration of more than one appeal under Article 22 of the Child Support Order[^c-685a2148c9c3b44e5a9da0fbb4310819][^c-92f0aeaf6c7a69bcc95fa1ea7737087b][^c-bad7b6ec57d39aad89fd57506714c2ec][^c-3e5cf10a7db3c0a5818bd713dab46d89][^c-eb51208acf8bccf015c57034fc49f469][^c-2e5605d88d94233490dd1fa0dc4a5165]
 
 An appeal tribunal which is considering an appeal under Article 22 of the Child Support Order in respect of a departure direction which relates to a maintenance assessment may, if it considers it appropriate to do so, consider at the same time any appeal under that Article in respect of another departure direction which relates to the same maintenance assessment.
 
 ### CHAPTER III — Striking out of appeals
 
-#### 46. Appeals which may be struck out[^key-83b020237f15e32fd9a2b5c7bd23c1d8][^key-c5540f5bb19e4c0106a2f6294de62bd1][^key-e648c388380fd5bdac59b79e9f9e503f][^key-24718bb36895f4ad64e70e6cf70cf038][^key-8a374cffa4d2dca047d7bf5a4cca745b][^key-4ae6455e723622dcc40728d82fbc1497]
+#### 46. Appeals which may be struck out[^c-83b020237f15e32fd9a2b5c7bd23c1d8][^c-c5540f5bb19e4c0106a2f6294de62bd1][^c-e648c388380fd5bdac59b79e9f9e503f][^c-24718bb36895f4ad64e70e6cf70cf038][^c-8a374cffa4d2dca047d7bf5a4cca745b][^c-4ae6455e723622dcc40728d82fbc1497]
 
 (1) Subject to paragraphs (2) and (3), an appeal may be struck out by the clerk to the appeal tribunal—
 
@@ -967,7 +967,7 @@ An appeal tribunal which is considering an appeal under Article 22 of the Child 
 - (b) the ground on which the intention to strike out is based; and
 - (c) the requirement to notify the clerk to the appeal tribunal in writing of the matters specified in regulation 48(1)(a) or (b) and that failure to comply with this requirement may result in the appeal being struck out.
 
-#### 47. Reinstatement of struck out appeals[^key-cbd838c5af52467f408f07cd0e87a525][^key-21276edfd0357f3fee048852a7e12bb2][^key-899c681ad79099d6947e7589ef3a9df1][^key-72492e56fc539b8ed1b7d375d0d17fe7][^key-0dadc5936b5796acefed634fe86ee435][^key-5381928e129f32e432790e720861f76e]
+#### 47. Reinstatement of struck out appeals[^c-cbd838c5af52467f408f07cd0e87a525][^c-21276edfd0357f3fee048852a7e12bb2][^c-899c681ad79099d6947e7589ef3a9df1][^c-72492e56fc539b8ed1b7d375d0d17fe7][^c-0dadc5936b5796acefed634fe86ee435][^c-5381928e129f32e432790e720861f76e]
 
 A legally qualified panel member may reinstate an appeal which has been struck out in accordance with regulation 46 or 48(2) where—
 
@@ -976,7 +976,7 @@ A legally qualified panel member may reinstate an appeal which has been struck o
 - (c) that panel member is satisfied that the appeal is not an appeal which may be struck out under regulation 46; or
 - (d) that panel member is satisfied that notwithstanding that the appeal is one which may be struck out under regulation 46, it is not in the interests of justice for the appeal to be struck out.
 
-#### 48. Misconceived appeals[^key-d861073e94aa591c36cbf9ccd2cfefe8][^key-e7c8d20e086e73da647ad35096cb7031][^key-1706f2f012c43194057e3d671cceffbe][^key-d17a02c0613d4374c93261cec3e30c25][^key-7aa7d305c7e6bafb9888dcc2f6fa81cd][^key-f2335790fed090bdb208168ee59a4dc0]
+#### 48. Misconceived appeals[^c-d861073e94aa591c36cbf9ccd2cfefe8][^c-e7c8d20e086e73da647ad35096cb7031][^c-1706f2f012c43194057e3d671cceffbe][^c-d17a02c0613d4374c93261cec3e30c25][^c-7aa7d305c7e6bafb9888dcc2f6fa81cd][^c-f2335790fed090bdb208168ee59a4dc0]
 
 (1) Where the appellant has been given notice under regulation 46(4) of the intention to strike out an appeal on the ground that it is a misconceived appeal, he shall within 14 days of the issue of such notice notify the clerk to the appeal tribunal in writing that—
 
@@ -1000,7 +1000,7 @@ A legally qualified panel member may reinstate an appeal which has been struck o
 
 ### CHAPTER IV — Oral hearings
 
-#### 49. Procedure at oral hearings[^key-97e7a251b7f2552c13aaa8af538a20be][^key-c4f3064ea55b272985c81aa019544d3a][^key-e697056a57348cdb0aaf00ebbc2b3af7][^key-e4247179b4e1d4bacb59bdf3e18ba655][^key-9f2b32a00358b33b92ca4f04e99c867a][^key-f1f3d5cac361e2e9e0f8d633463433d7]
+#### 49. Procedure at oral hearings[^c-97e7a251b7f2552c13aaa8af538a20be][^c-c4f3064ea55b272985c81aa019544d3a][^c-e697056a57348cdb0aaf00ebbc2b3af7][^c-e4247179b4e1d4bacb59bdf3e18ba655][^c-9f2b32a00358b33b92ca4f04e99c867a][^c-f1f3d5cac361e2e9e0f8d633463433d7]
 
 (1) Subject to the following provisions of this Part, the procedure for an oral hearing shall be such as the chairman or, in the case of an appeal tribunal which has only one member, such as that member, shall determine.
 
@@ -1039,13 +1039,13 @@ A legally qualified panel member may reinstate an appeal which has been struck o
 
 may remain present at any such sitting.
 
-#### 50. Manner of providing expert assistance[^key-3e5f84b809fc167b182c6139e6a44fac][^key-923ea475dd89d9fa84191bab8088afd6][^key-09e12066e6d292a13c49435894434665][^key-5874ddc309282524a8b417c54b360397][^key-9af822aeeac553424e5734bd4b3ec2d5][^key-198e94c8a8f69ce3c6d225c8906d12a3]
+#### 50. Manner of providing expert assistance[^c-3e5f84b809fc167b182c6139e6a44fac][^c-923ea475dd89d9fa84191bab8088afd6][^c-09e12066e6d292a13c49435894434665][^c-5874ddc309282524a8b417c54b360397][^c-9af822aeeac553424e5734bd4b3ec2d5][^c-198e94c8a8f69ce3c6d225c8906d12a3]
 
 (1) Where an appeal tribunal requires one or more experts to provide assistance to it in dealing with a question of fact of special difficulty under Article 8(4), such an expert shall, if the chairman or, in the case of a tribunal which has only one member, that member, so requests, attend at the hearing and give evidence and if the chairman or that member considers it appropriate, the expert shall enquire into and provide a written report on the question.
 
 (2) A copy of any written report received from an expert in accordance with paragraph (1) shall be supplied to every party to the proceedings.
 
-#### 51. Postponement and adjournment[^key-56f3335313dba16517071f67e6299a3c][^key-6a357ebbe4113aa857e4854d96e8c813][^key-8caf3d63ffbe269a045158ccb078c131][^key-da8b20491df83fcde4338c7b617394f3][^key-da45ba18b27a8e7aa8eedd83c8c401da][^key-a5f92c364e82c03e7b0920fbfb24f3cb]
+#### 51. Postponement and adjournment[^c-56f3335313dba16517071f67e6299a3c][^c-6a357ebbe4113aa857e4854d96e8c813][^c-8caf3d63ffbe269a045158ccb078c131][^c-da8b20491df83fcde4338c7b617394f3][^c-da45ba18b27a8e7aa8eedd83c8c401da][^c-a5f92c364e82c03e7b0920fbfb24f3cb]
 
 (1) Where a person to whom notice of an oral hearing is given wishes to request a postponement of that hearing, he shall do so in writing to the clerk to the appeal tribunal stating his reasons for the request, and the clerk to the appeal tribunal may grant or refuse the request as he thinks fit or may pass the request to a legally qualified panel member who may grant or refuse the request as he thinks fit.
 
@@ -1060,7 +1060,7 @@ may remain present at any such sitting.
 
 (5) Where a hearing has been adjourned and it is not practicable, or would cause undue delay, for it to be resumed before an appeal tribunal consisting of the same member or members, the appeal or referral shall be heard by a differently constituted appeal tribunal and the proceedings shall be by way of a complete rehearing.
 
-#### 52. Physical examination at oral hearings[^key-c5fe11185781081248e58e1c628ebac5][^key-1e646e0703c3c12b3d99f0966477c1a5][^key-63a19271eb2256a1addc43dba185fc94][^key-68fd39d0071c4d4d7d88fb78e32eabc7][^key-8fa729e6ac2db35362b9cf1dd40e3e9f][^key-224fdfb5b57aeff493d0780f5a619ff9]
+#### 52. Physical examination at oral hearings[^c-c5fe11185781081248e58e1c628ebac5][^c-1e646e0703c3c12b3d99f0966477c1a5][^c-63a19271eb2256a1addc43dba185fc94][^c-68fd39d0071c4d4d7d88fb78e32eabc7][^c-8fa729e6ac2db35362b9cf1dd40e3e9f][^c-224fdfb5b57aeff493d0780f5a619ff9]
 
 For the purposes of Article 20(3), an appeal tribunal may not carry out a physical examination except in a case which relates to—
 
@@ -1070,7 +1070,7 @@ For the purposes of Article 20(3), an appeal tribunal may not carry out a physic
 
 ### CHAPTER V — Decisions of appeal tribunals and related matters
 
-#### 53. Decisions of appeal tribunals[^key-6c96a700f592cd7115032ed0b9f7a4cf][^key-e95f227274e35a3f82c54a5367523ac9][^key-061a2b7adb0ee213498284d84d17fd15][^key-c2a179ebbe6b7f736c9421e7c11a5015][^key-d7448fb63e233a6e0b1d6886d31292ee][^key-4d70f6a55b3c74980ea4cacafff2040b]
+#### 53. Decisions of appeal tribunals[^c-6c96a700f592cd7115032ed0b9f7a4cf][^c-e95f227274e35a3f82c54a5367523ac9][^c-061a2b7adb0ee213498284d84d17fd15][^c-c2a179ebbe6b7f736c9421e7c11a5015][^c-d7448fb63e233a6e0b1d6886d31292ee][^c-4d70f6a55b3c74980ea4cacafff2040b]
 
 (1) Every decision of an appeal tribunal shall be recorded in summary by the chairman or, in the case of an appeal tribunal which has only one member, by that member.
 
@@ -1085,7 +1085,7 @@ For the purposes of Article 20(3), an appeal tribunal may not carry out a physic
 
 (5) If the decision is not unanimous, the decision notice specified in paragraph (1) shall record that one of the members dissented and the statement of reasons referred to in paragraph (4) shall include the reasons given by that member for dissenting.
 
-#### 54. Late applications for statement of reasons for tribunal decision[^key-bde636dac65af0bf3dd527ac7d8caf64][^key-2672a20a8395923b3ef6a2e00108d025][^key-32790ece47ff429b7bddcabd9337fdc6][^key-b2d5942232ed571c720196ba876d7705][^key-ed808c0985a6d80455aebe840862a5a0][^key-3487835605632ed53518940e01012469]
+#### 54. Late applications for statement of reasons for tribunal decision[^c-bde636dac65af0bf3dd527ac7d8caf64][^c-2672a20a8395923b3ef6a2e00108d025][^c-32790ece47ff429b7bddcabd9337fdc6][^c-b2d5942232ed571c720196ba876d7705][^c-ed808c0985a6d80455aebe840862a5a0][^c-3487835605632ed53518940e01012469]
 
 (1) The time for making an application for a copy of the statement of the reasons for an appeal tribunal’s decision may be extended where the conditions specified in paragraphs (2) to (8) are satisfied, but no application shall in any event be made more than three months after the date of the sending or giving of the notice of the decision of the appeal tribunal.
 
@@ -1128,13 +1128,13 @@ and as a result of those special circumstances it was not practicable for the ap
 - (a) the Commissioner within the meaning of section 39(1) of the Social Security Act 1998[^f00048]; and
 - (b) a Child Support Commissioner appointed under section 22 or 23 of the Child Support Act 1991.
 
-#### 55. Record of tribunal proceedings[^key-30075db27435049457978f372b424096][^key-891caee369721b3f70f939c41cb7c86e][^key-34323cc0ff9070fc2e8b7d19bac2476e][^key-ae214dc72bb05bc4a51f70f5d53e650b][^key-ce99880728d13741f48df5401f53da57][^key-74657275ed2938745f6ad0d0dd8a89e5]
+#### 55. Record of tribunal proceedings[^c-30075db27435049457978f372b424096][^c-891caee369721b3f70f939c41cb7c86e][^c-34323cc0ff9070fc2e8b7d19bac2476e][^c-ae214dc72bb05bc4a51f70f5d53e650b][^c-ce99880728d13741f48df5401f53da57][^c-74657275ed2938745f6ad0d0dd8a89e5]
 
 (1) A record of the proceedings at an oral hearing, which is sufficient to indicate the evidence taken, shall be made by the chairman or, in the case of an appeal tribunal which has only one member, by that member, in such medium as he may determine.
 
 (2) Such record shall be preserved by the clerk to the appeal tribunal for six months from the date of the decision made by the appeal tribunal to which the record relates and any party to the proceedings may within that period apply in writing for a copy of that record and a copy shall be supplied to him.
 
-#### 56. Correction of accidental errors[^key-18e1afeac14a8561f3fc040f043c727a][^key-58337af480d3db948a9f9f865558cd3d][^key-b999a1e9ef458fd8d3aaf2bc3a31c49b][^key-b1441de13bbb6be993213f89eb4ceff1][^key-e470eacc50e5be4f624304f6b54bee31][^key-e440f552890926da238ef0995190f70b]
+#### 56. Correction of accidental errors[^c-18e1afeac14a8561f3fc040f043c727a][^c-58337af480d3db948a9f9f865558cd3d][^c-b999a1e9ef458fd8d3aaf2bc3a31c49b][^c-b1441de13bbb6be993213f89eb4ceff1][^c-e470eacc50e5be4f624304f6b54bee31][^c-e440f552890926da238ef0995190f70b]
 
 (1) The clerk to the appeal tribunal or, where the clerk refers the matter to a legally qualified panel member, that member, may at any time correct accidental errors in any decision, or the record of any such decision, of an appeal tribunal made under a relevant statutory provision or the Child Support Order.
 
@@ -1142,7 +1142,7 @@ and as a result of those special circumstances it was not practicable for the ap
 
 (3) In this regulation and regulation 57 “relevant statutory provision” has the same meaning as in Article 28(3).
 
-#### 57. Setting aside decisions on certain grounds[^key-b7f2a2799dbb80a96879431475d9cffd][^key-4ca11adc9f781fce12b1ee42f6abd31f][^key-e1db0eede9f71c4aa49d5c70b6cff1d9][^key-cc755773faefe1d48e52fe111074527b][^key-0ea631cc9f68c5bd2e5ff3dbbc6e3255][^key-5d15d45c15d14068ab757df87f32d082]
+#### 57. Setting aside decisions on certain grounds[^c-b7f2a2799dbb80a96879431475d9cffd][^c-4ca11adc9f781fce12b1ee42f6abd31f][^c-e1db0eede9f71c4aa49d5c70b6cff1d9][^c-cc755773faefe1d48e52fe111074527b][^c-0ea631cc9f68c5bd2e5ff3dbbc6e3255][^c-5d15d45c15d14068ab757df87f32d082]
 
 (1) On an application made by a party to the proceedings, a decision of an appeal tribunal made under a relevant statutory provision or the Child Support Order may be set aside by a legally qualified panel member in a case where it appears just to set the decision aside on the ground that—
 
@@ -1157,7 +1157,7 @@ and as a result of those special circumstances it was not practicable for the ap
 
 (5) Notice in writing of a determination on an application to set aside a decision shall be sent or given to every party to the proceedings as soon as may be practicable and the notice shall contain a statement giving the reasons for the determination.
 
-#### 58. Application for leave to appeal to a Commissioner from an appeal tribunal[^key-ec319a2b1c0ecea65ccbd1a7a8d9149d][^key-10c34520e15b652cd2024903affc6682][^key-26d487fcd2d921d6901fbffc238578cc][^key-0f01a0488b0eb434467b8de2a05d2dd7][^key-3a5cb5c76a1f50c1ea8d56b14792c025][^key-56eb4cb83311fb379534c383f7ee5b37]
+#### 58. Application for leave to appeal to a Commissioner from an appeal tribunal[^c-ec319a2b1c0ecea65ccbd1a7a8d9149d][^c-10c34520e15b652cd2024903affc6682][^c-26d487fcd2d921d6901fbffc238578cc][^c-0f01a0488b0eb434467b8de2a05d2dd7][^c-3a5cb5c76a1f50c1ea8d56b14792c025][^c-56eb4cb83311fb379534c383f7ee5b37]
 
 (1) An application for leave to appeal to a Commissioner from a decision of an appeal tribunal under Article 13 or 14 shall—
 
@@ -1176,7 +1176,7 @@ and as a result of those special circumstances it was not practicable for the ap
 
 ## PART VI — REVOCATIONS
 
-### 59. Revocations[^key-424500c1533664de6433cab85f3ae540][^key-f005c34715073961cb6e557ed40ac02d][^key-f332ebbc00f1539c100cbc253131991f][^key-37f6618af5ccce59484833dd312376fa][^key-ba0b2c1745f4474434b869d65cb115f0][^key-f4c25eabed4e95368789eb358b614c63]
+### 59. Revocations[^c-424500c1533664de6433cab85f3ae540][^c-f005c34715073961cb6e557ed40ac02d][^c-f332ebbc00f1539c100cbc253131991f][^c-37f6618af5ccce59484833dd312376fa][^c-ba0b2c1745f4474434b869d65cb115f0][^c-f4c25eabed4e95368789eb358b614c63]
 
 (1) The Regulations listed in column (1) of Schedule 3 are hereby revoked to the extent specified in column (3) of that Schedule.
 
@@ -1202,17 +1202,17 @@ Irvine of Lairg, C.
 
 Regulation 27
 
-### 1. Child benefit[^key-aa9dfe379fd4e4e8d6519454f79cc8b1][^key-355c5d83885040cbb4025506f6129461][^key-99f28e6399be7dcf752ccad37e16e92b][^key-86945fe8cc9d9dcb913639b7cacc3b92][^key-41aafc7c2c0625d5ad2a07cafd9cff12][^key-d45077f47d00e5e6270f1d2737c20782]
+### 1. Child benefit[^c-aa9dfe379fd4e4e8d6519454f79cc8b1][^c-355c5d83885040cbb4025506f6129461][^c-99f28e6399be7dcf752ccad37e16e92b][^c-86945fe8cc9d9dcb913639b7cacc3b92][^c-41aafc7c2c0625d5ad2a07cafd9cff12][^c-d45077f47d00e5e6270f1d2737c20782]
 
 A decision of the Department as to whether an educational establishment be recognised for the purposes of Part IX of the Contributions and Benefits Act.
 
-**2.**[^key-d9c0079c47ff8add507567acadb0b6aa][^key-508c27fc044a63ddd63ab865b5c5eda4][^key-d1cb4b66b5a49df68b83d3a7077d4601][^key-39951ecc4ff48006e73f315d0eb9b51a][^key-11804d7e3d7f5913aef3b32363bf0124][^key-ca12fd5cff97cc3e6a75c32bdfb68c0c] A decision of the Department to recognise education provided otherwise than at a recognised educational establishment.
+**2.**[^c-d9c0079c47ff8add507567acadb0b6aa][^c-508c27fc044a63ddd63ab865b5c5eda4][^c-d1cb4b66b5a49df68b83d3a7077d4601][^c-39951ecc4ff48006e73f315d0eb9b51a][^c-11804d7e3d7f5913aef3b32363bf0124][^c-ca12fd5cff97cc3e6a75c32bdfb68c0c] A decision of the Department to recognise education provided otherwise than at a recognised educational establishment.
 
-**3.**[^key-b822e0af4f68d8abe1fc463607a40276][^key-55d926410001589c5a853659ce86dc63][^key-ec29158806e6f69369ec46de584be303][^key-ccaddb1a598b0eefdb0c6d5347f82d38][^key-81a38382814b1b3e14a4d2f701d93cf3][^key-0c6466b945e7f30e754d28041f0909db] A decision of the Department made in accordance with the discretion conferred on it by regulations 2(2)(c)(iii) and 7(3) of the Child Benefit (Residence and Persons Abroad) Regulations (Northern Ireland) 1976[^f00049].
+**3.**[^c-b822e0af4f68d8abe1fc463607a40276][^c-55d926410001589c5a853659ce86dc63][^c-ec29158806e6f69369ec46de584be303][^c-ccaddb1a598b0eefdb0c6d5347f82d38][^c-81a38382814b1b3e14a4d2f701d93cf3][^c-0c6466b945e7f30e754d28041f0909db] A decision of the Department made in accordance with the discretion conferred on it by regulations 2(2)(c)(iii) and 7(3) of the Child Benefit (Residence and Persons Abroad) Regulations (Northern Ireland) 1976[^f00049].
 
-**4.**[^key-15f2a9fd668bea59f96fa499fa21e1b4][^key-a65377c5129a40d9fd2fb38150591124][^key-0b2d8bbc68dce27da030d90b328106be][^key-16a7b049b6744b9129a0533652b1bc0a][^key-230f57c972923f818d42990dad22ad98][^key-2f1d424be2361628d36f2cedb55d54a9] A decision of the Department made in accordance with the discretion conferred on it by regulation 2(1) or (3) of the Child Benefit (General) Regulations (Northern Ireland) 1979[^f00050].
+**4.**[^c-15f2a9fd668bea59f96fa499fa21e1b4][^c-a65377c5129a40d9fd2fb38150591124][^c-0b2d8bbc68dce27da030d90b328106be][^c-16a7b049b6744b9129a0533652b1bc0a][^c-230f57c972923f818d42990dad22ad98][^c-2f1d424be2361628d36f2cedb55d54a9] A decision of the Department made in accordance with the discretion conferred on it by regulation 2(1) or (3) of the Child Benefit (General) Regulations (Northern Ireland) 1979[^f00050].
 
-### 5. Claims and payments[^key-876effa29eb72452a5466842a62d6dee][^key-a7993dfc483620d1a2b78771ec3b0a79][^key-5f248be8cd5857e9174b0ce71465241f][^key-a03c1951a0b649f4a6229f7df6ae83de][^key-e5f80f0bc9d11097e6b70e7baa712cab][^key-4452d76492516698cc8a6aeb8660ef7c]
+### 5. Claims and payments[^c-876effa29eb72452a5466842a62d6dee][^c-a7993dfc483620d1a2b78771ec3b0a79][^c-5f248be8cd5857e9174b0ce71465241f][^c-a03c1951a0b649f4a6229f7df6ae83de][^c-e5f80f0bc9d11097e6b70e7baa712cab][^c-4452d76492516698cc8a6aeb8660ef7c]
 
 A decision of the Department under the Claims and Payments Regulations except a decision under the following provisions of those Regulations—
 
@@ -1230,31 +1230,31 @@ A decision of the Department under the Claims and Payments Regulations except a 
   - (viii) paragraph 7B[^f00057] as to whether an amount in respect of arrears of child support maintenance is to be deducted from a person’s jobseeker’s allowance, and
   - (ix) paragraph 9(3)[^f00058] as to the priority between liabilities for items of gas or electricity.
 
-### 6. Contracted-out pension schemes[^key-5cf152c1a992df025a3d04e013823af0][^key-182bfb54b96390c46ece99bded38052b][^key-b06a952c0b61b658223941c4baab4499][^key-4c5a78cba02c0e144c0e8f090e9fbdf5][^key-bbb889d43aaf12ed00c2eb616c9f9a04][^key-ee2d56cd1f6c497b0261c89fc4d5fa35]
+### 6. Contracted-out pension schemes[^c-5cf152c1a992df025a3d04e013823af0][^c-182bfb54b96390c46ece99bded38052b][^c-b06a952c0b61b658223941c4baab4499][^c-4c5a78cba02c0e144c0e8f090e9fbdf5][^c-bbb889d43aaf12ed00c2eb616c9f9a04][^c-ee2d56cd1f6c497b0261c89fc4d5fa35]
 
 A decision of the Department under section 105 of the Pension Schemes Act[^f00059] or any order made under it.
 
-### 7. Decisions dependent on other cases[^key-68838a0e1ba3e6601c742a05dfd7e158][^key-a900f83b3e8d5e8487e4013258e626b6][^key-76125e63a46634c128b8b0a2bd625ebd][^key-5adff4f6239541a1e34b08de53a3cd1b][^key-8037664427e398580cfd110956204487][^key-d7b9923e992daf0961c5ee3a3cd550b0]
+### 7. Decisions dependent on other cases[^c-68838a0e1ba3e6601c742a05dfd7e158][^c-a900f83b3e8d5e8487e4013258e626b6][^c-76125e63a46634c128b8b0a2bd625ebd][^c-5adff4f6239541a1e34b08de53a3cd1b][^c-8037664427e398580cfd110956204487][^c-d7b9923e992daf0961c5ee3a3cd550b0]
 
 A decision of the Department under Article 25 or 26.
 
-### 8. European Community regulations[^key-3a3ed4cef6145f4d6abc0869da0570fa][^key-7b1222bf09e017d230f6080f222b3631][^key-fc5ede2464403215fb38da677c19ccd8][^key-8bb48af74c019b86f8fdbdab7d1c9614][^key-235ed5a705b45d41af5d5657df55d8c7][^key-3d9e4d52dd8d53278497c4ee607c4c74]
+### 8. European Community regulations[^c-3a3ed4cef6145f4d6abc0869da0570fa][^c-7b1222bf09e017d230f6080f222b3631][^c-fc5ede2464403215fb38da677c19ccd8][^c-8bb48af74c019b86f8fdbdab7d1c9614][^c-235ed5a705b45d41af5d5657df55d8c7][^c-3d9e4d52dd8d53278497c4ee607c4c74]
 
 An authorisation given by the Department in accordance with Article 22(1) or 55(1) of Council Regulation [(EEC) No. 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408)[^f00060] on the application of social security schemes to employed persons, to self-employed persons and to members of their families moving within the Community.
 
-### 9. Expenses[^key-1b735a98e7e529b1788c0c64adf568fd][^key-dea073b34b1dd1b6859bccf8e7aad18d][^key-1c9f65633a32b25582648cc24aa61526][^key-02c4def70ed9ed4bc22907b4e74170f3][^key-dbe5f8b83e46ad82a16b05e3a176935c][^key-67612c6d82c9342bbd9244693bc41e2d]
+### 9. Expenses[^c-1b735a98e7e529b1788c0c64adf568fd][^c-dea073b34b1dd1b6859bccf8e7aad18d][^c-1c9f65633a32b25582648cc24aa61526][^c-02c4def70ed9ed4bc22907b4e74170f3][^c-dbe5f8b83e46ad82a16b05e3a176935c][^c-67612c6d82c9342bbd9244693bc41e2d]
 
 A decision of the Department whether to pay expenses to any person under section 156 of the Administration Act[^f00061].
 
-### 10. Guardian’s allowance[^key-cd2e4ae8036e7ecf1d020f693d8dc670][^key-79abba5d46eb69ec4403749e36108bb8][^key-eb0acde6fc2120059719882bfcea876c][^key-0d8d52a94a16e431607cea17b7359785][^key-348b31f1051c0f650e624a2cfcd7e93d][^key-5578a9ce92505135227dfce6c2814f87]
+### 10. Guardian’s allowance[^c-cd2e4ae8036e7ecf1d020f693d8dc670][^c-79abba5d46eb69ec4403749e36108bb8][^c-eb0acde6fc2120059719882bfcea876c][^c-0d8d52a94a16e431607cea17b7359785][^c-348b31f1051c0f650e624a2cfcd7e93d][^c-5578a9ce92505135227dfce6c2814f87]
 
 A decision of the Department relating to the giving of a notice under regulation 5(8) of the Social Security (Guardian’s Allowances) Regulations (Northern Ireland) 1975[^f00062].
 
-### 11. Income support[^key-e1edaf3696afd32f853af90cf32a9b35][^key-2daf5a170dc8cec3768b41cc3f69da15][^key-13ee156eb6f95a74ed3c366d2376c4f0][^key-176b21ee697e251e41d7a3cfd4edd4fb][^key-c4ecfcc0f6814a6ba5f92936a2cbdb5e][^key-584d3fa9320a7310b7bd5bb200f82545]
+### 11. Income support[^c-e1edaf3696afd32f853af90cf32a9b35][^c-2daf5a170dc8cec3768b41cc3f69da15][^c-13ee156eb6f95a74ed3c366d2376c4f0][^c-176b21ee697e251e41d7a3cfd4edd4fb][^c-c4ecfcc0f6814a6ba5f92936a2cbdb5e][^c-584d3fa9320a7310b7bd5bb200f82545]
 
 A decision of the Department which embodies a determination made in accordance with regulation 13(1) or (2).
 
-### 12. Industrial injuries benefit[^key-fbdabdaf27fef9593a74d150be456a99][^key-849e93f5d940dd5c1c9421435c80efd4][^key-1762ca7305ff61502f4daa2ee8eb49f8][^key-776cbaf5ced588e6a29903c41e0e871e][^key-00179913e458581d329fe5dfabd09495][^key-edc8cb0879407435bfa49ff1a529317f]
+### 12. Industrial injuries benefit[^c-fbdabdaf27fef9593a74d150be456a99][^c-849e93f5d940dd5c1c9421435c80efd4][^c-1762ca7305ff61502f4daa2ee8eb49f8][^c-776cbaf5ced588e6a29903c41e0e871e][^c-00179913e458581d329fe5dfabd09495][^c-edc8cb0879407435bfa49ff1a529317f]
 
 A decision of the Department relating to the question whether—
 
@@ -1263,17 +1263,17 @@ A decision of the Department relating to the question whether—
 
 and if an increase is to be granted or renewed, the period for which and the amount at which it is payable.
 
-**13.**[^key-0179edfae3ad7b06b6ab70870e081ee2][^key-93c64d3141725c8a54f955f1c76be6cc][^key-280a54044ce2e4fcd0c50859c20f209f][^key-ed7d05181561d317af3c048e19b8adf7][^key-fe987d9b84eda972440a7ff6b985b6e2][^key-a4c4bf18ca462dbcc9e1de557fb92c30] A decision of the Department under regulation 2(2) of the Social Security (Industrial Injuries and Diseases) (Miscellaneous Provisions) Regulations (Northern Ireland) 1986[^f00063] as to the length of any period of interruption of education which is to be disregarded.
+**13.**[^c-0179edfae3ad7b06b6ab70870e081ee2][^c-93c64d3141725c8a54f955f1c76be6cc][^c-280a54044ce2e4fcd0c50859c20f209f][^c-ed7d05181561d317af3c048e19b8adf7][^c-fe987d9b84eda972440a7ff6b985b6e2][^c-a4c4bf18ca462dbcc9e1de557fb92c30] A decision of the Department under regulation 2(2) of the Social Security (Industrial Injuries and Diseases) (Miscellaneous Provisions) Regulations (Northern Ireland) 1986[^f00063] as to the length of any period of interruption of education which is to be disregarded.
 
-**14.**[^key-97732a46d926384a12fef126cb30c3e2][^key-fd8a6c52f5f10a17b2ef6c8cdcbb508e][^key-f536155677d10c835c27fbbcf3b8a9be][^key-0758db8e73ab210ea4659adc86b7296d][^key-6db62b95b0604b21c24f931c99afe136][^key-5b6d29ca2e875e43660fc5bf3de1491f] A decision of the Department to approve or not to approve a person undertaking work for the purposes of regulation 15 of the Social Security (General Benefit) Regulations (Northern Ireland) 1984[^f00064].
+**14.**[^c-97732a46d926384a12fef126cb30c3e2][^c-fd8a6c52f5f10a17b2ef6c8cdcbb508e][^c-f536155677d10c835c27fbbcf3b8a9be][^c-0758db8e73ab210ea4659adc86b7296d][^c-6db62b95b0604b21c24f931c99afe136][^c-5b6d29ca2e875e43660fc5bf3de1491f] A decision of the Department to approve or not to approve a person undertaking work for the purposes of regulation 15 of the Social Security (General Benefit) Regulations (Northern Ireland) 1984[^f00064].
 
-**15.**[^key-09122b6b17f96698cd7d30347b390e03][^key-74314c4232712781f20e4b7f00ef19cd][^key-b3d331037552105db86673d2246bf69f][^key-9182ec1284d5194dd168977f457060b6][^key-651a2a1339f86677a7645afe521f54dc][^key-f305fba6adf53f73ee7adb992d292640] A decision of the Department as to how the limitations under Part VI of Schedule 7 to the Contributions and Benefits Act on the benefit payable in respect of any death are to be applied in the circumstances of any case.
+**15.**[^c-09122b6b17f96698cd7d30347b390e03][^c-74314c4232712781f20e4b7f00ef19cd][^c-b3d331037552105db86673d2246bf69f][^c-9182ec1284d5194dd168977f457060b6][^c-651a2a1339f86677a7645afe521f54dc][^c-f305fba6adf53f73ee7adb992d292640] A decision of the Department as to how the limitations under Part VI of Schedule 7 to the Contributions and Benefits Act on the benefit payable in respect of any death are to be applied in the circumstances of any case.
 
-### 16. Invalid vehicle scheme[^key-3279bab27d75af7cb94f5dd2e113e00c][^key-1d3a2f975cbae3082391eae46d4510c3][^key-b8a0e3e6cc547e44d31293d4b7a45159][^key-581cb2f64898be51f3bd971b6b25fade][^key-ac07a957cbd9b261f0138cdadb944a24][^key-09d47fc166ab9ec975c2fe08934d5af6]
+### 16. Invalid vehicle scheme[^c-3279bab27d75af7cb94f5dd2e113e00c][^c-1d3a2f975cbae3082391eae46d4510c3][^c-b8a0e3e6cc547e44d31293d4b7a45159][^c-581cb2f64898be51f3bd971b6b25fade][^c-ac07a957cbd9b261f0138cdadb944a24][^c-09d47fc166ab9ec975c2fe08934d5af6]
 
 A decision of the Department relating to the issue of certificates under regulation 13 of, and Schedule 2 to, the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00065].
 
-### 17. Jobseeker’s allowance[^key-b708c79338aa0719ee1dd2c97f8fe753][^key-cf913e25b4ca33afb90e32189f7a4e2b][^key-5b3fbfa80312269ff00823826ed537c6][^key-92afbe5619826bd89bba53d3076c8093][^key-ab17a298c3815860fc732f8fcce0767f][^key-0ec26b37978363f609adf4face710446]
+### 17. Jobseeker’s allowance[^c-b708c79338aa0719ee1dd2c97f8fe753][^c-cf913e25b4ca33afb90e32189f7a4e2b][^c-5b3fbfa80312269ff00823826ed537c6][^c-92afbe5619826bd89bba53d3076c8093][^c-ab17a298c3815860fc732f8fcce0767f][^c-0ec26b37978363f609adf4face710446]
 
 (1) A decision of the Department under Chapter IV of Part II of the Jobseeker’s Allowance Regulations as to the day and the time a claimant is to attend at an office of the Department.
 
@@ -1281,7 +1281,7 @@ A decision of the Department relating to the issue of certificates under regulat
 
 (3) A decision of the Department which embodies a determination made in accordance with regulation 15.
 
-### 18. Payments on account, overpayments and recovery[^key-c17d37dd5e70d35b395abc8cd2426424][^key-95c58056613b5446c1690b90f9ca99c4][^key-cf7a07ddbcfbc08c69263b50f066980c][^key-0ddac42ba66345e6fd41b35e6d319c1a][^key-c99b3fc4f81470c76f25b419af91f2f5][^key-81ae648402fba7fd1c35e41ceaad5557]
+### 18. Payments on account, overpayments and recovery[^c-c17d37dd5e70d35b395abc8cd2426424][^c-95c58056613b5446c1690b90f9ca99c4][^c-cf7a07ddbcfbc08c69263b50f066980c][^c-0ddac42ba66345e6fd41b35e6d319c1a][^c-c99b3fc4f81470c76f25b419af91f2f5][^c-81ae648402fba7fd1c35e41ceaad5557]
 
 A decision of the Department under the Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00066], except a decision of the Department under the following provisions of those Regulations—
 
@@ -1294,26 +1294,26 @@ A decision of the Department under the Social Security (Payments on account, Ove
 - (g) regulation 19 determining a claimant’s protected earnings; and
 - (h) regulation 24 whether a determination as to a claimant’s protected earnings is revised or superseded.
 
-### 19. Persons abroad[^key-7199a5a624a0a9ccd9b301cec8f90c27][^key-102323d160cc4b1c35a1d399513087a7][^key-cdea9291f8d23189d6f525e8acc04436][^key-1d0f372e524e784dfe2ffef7d5bff3ad][^key-8ae7c0e245e5ef4ca87d45945b830ff4][^key-1f104751eb087a1238d061274d0892be]
+### 19. Persons abroad[^c-7199a5a624a0a9ccd9b301cec8f90c27][^c-102323d160cc4b1c35a1d399513087a7][^c-cdea9291f8d23189d6f525e8acc04436][^c-1d0f372e524e784dfe2ffef7d5bff3ad][^c-8ae7c0e245e5ef4ca87d45945b830ff4][^c-1f104751eb087a1238d061274d0892be]
 
 A decision of the Department made under—
 
 - (a) regulation 2(1)(a) of the Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978[^f00067]. whether to certify that it is consistent with the proper administration of the Contributions and Benefits Act that a disqualification under section 113(1)(a) of that Act should not apply;
 - (b) regulation 9(4) or (5) of those Regulations whether to allow a person to avoid disqualification for receiving benefit during a period of temporary absence from Northern Ireland longer than that specified in that regulation.
 
-### 20. Reciprocal agreements[^key-5073fed4679b1e01faa496a92d4540b1][^key-52846e5e09849bd0f8bf12e86e3f058a][^key-209a6bf7f801acad223015eaf1e072b3][^key-b5fb533fc2b2d2c71f1bcef2541c34da][^key-3bd67032d6dc3a1a20af0a04b4b37d35][^key-81e176c82e137c69a33c48a1df2c516f]
+### 20. Reciprocal agreements[^c-5073fed4679b1e01faa496a92d4540b1][^c-52846e5e09849bd0f8bf12e86e3f058a][^c-209a6bf7f801acad223015eaf1e072b3][^c-b5fb533fc2b2d2c71f1bcef2541c34da][^c-3bd67032d6dc3a1a20af0a04b4b37d35][^c-81e176c82e137c69a33c48a1df2c516f]
 
 A decision of the Department made in accordance with an order made under section 155 of the Administration Act[^f00068].
 
-### 21. Social fund awards[^key-2382d33ecce1b39168e2ac365a02460f][^key-b579dcc42744c6b2d09d81b04211219e][^key-ab9ae7c44db968e409b68a1748fb824c][^key-a6ceb5bc197ebe1bc60d1016ec7b2fa9][^key-1e1f218cc5650a6ce803825f4dab6254][^key-325f734cafc3b16fb80dd980511e9e3a]
+### 21. Social fund awards[^c-2382d33ecce1b39168e2ac365a02460f][^c-b579dcc42744c6b2d09d81b04211219e][^c-ab9ae7c44db968e409b68a1748fb824c][^c-a6ceb5bc197ebe1bc60d1016ec7b2fa9][^c-1e1f218cc5650a6ce803825f4dab6254][^c-325f734cafc3b16fb80dd980511e9e3a]
 
 A decision of the Department under section 74 of the Administration Act[^f00069] relating to the recovery of social fund awards.
 
-### 22. Suspension[^key-a45837b59a070c6972b1116b807713f3][^key-8705bcfedeaa1f2bb243b1326d5e1921][^key-b215d32ce6aedc45a0c1c2211da58b53][^key-fce78da719f68ddc2ca236ef3e879156][^key-abbe746349d76aad47780459353c2c06][^key-4ebeb5a537ba4811c776a1e397ece41f]
+### 22. Suspension[^c-a45837b59a070c6972b1116b807713f3][^c-8705bcfedeaa1f2bb243b1326d5e1921][^c-b215d32ce6aedc45a0c1c2211da58b53][^c-fce78da719f68ddc2ca236ef3e879156][^c-abbe746349d76aad47780459353c2c06][^c-4ebeb5a537ba4811c776a1e397ece41f]
 
 A decision of the Department relating to the suspension of a relevant benefit or to the payment of such a benefit which has been suspended under Part III of these Regulations.
 
-### 23. Up-rating[^key-bd1b97abaf588b9c546b32a2a47697e5][^key-b39b472049e57f5b07d5bd03cf5fbaea][^key-3349fc645d0603c31c5a7b5af22b6f25][^key-a21e8937d68f6c434554e833f81b45e5][^key-59e835e5d8c12716dd32e7b05d04a467][^key-8632dc53861c697b994042bee62cec55]
+### 23. Up-rating[^c-bd1b97abaf588b9c546b32a2a47697e5][^c-b39b472049e57f5b07d5bd03cf5fbaea][^c-3349fc645d0603c31c5a7b5af22b6f25][^c-a21e8937d68f6c434554e833f81b45e5][^c-59e835e5d8c12716dd32e7b05d04a467][^c-8632dc53861c697b994042bee62cec55]
 
 A decision of the Department relating to the up-rating of benefits under Part IX of the Administration Act.
 
@@ -1321,11 +1321,11 @@ A decision of the Department relating to the up-rating of benefits under Part IX
 
 Regulation 35
 
-### 1. Legal qualifications[^key-eb4fe56f6cfb84d7d2267154c86d5ef9][^key-b5bb1eb7ea23e8e016eaf7694c20a905][^key-837f6efdf0d60af351d7b509c7b07989][^key-174540a0ab2688e282ca356276df3ff9][^key-98a896c815f3a541527e6585dfe7b1aa][^key-2df00ba658b1cdd8ccae6ee7fb73c11d]
+### 1. Legal qualifications[^c-eb4fe56f6cfb84d7d2267154c86d5ef9][^c-b5bb1eb7ea23e8e016eaf7694c20a905][^c-837f6efdf0d60af351d7b509c7b07989][^c-174540a0ab2688e282ca356276df3ff9][^c-98a896c815f3a541527e6585dfe7b1aa][^c-2df00ba658b1cdd8ccae6ee7fb73c11d]
 
 Persons who are barristers or solicitors.
 
-### 2. Medical qualifications[^key-8c525238ed34ace6e9b850f0969c0731][^key-e0364423edadef3fce3d66e5e92d7c00][^key-e28dcb9fe8f767092459afb923962b35][^key-b8c2a7a188ce864ba5a22cc5b38a0ab3][^key-f248d55ccd474b8f9f739b55830def99][^key-4780a18e63053773982837d1d5b12de0]
+### 2. Medical qualifications[^c-8c525238ed34ace6e9b850f0969c0731][^c-e0364423edadef3fce3d66e5e92d7c00][^c-e28dcb9fe8f767092459afb923962b35][^c-b8c2a7a188ce864ba5a22cc5b38a0ab3][^c-f248d55ccd474b8f9f739b55830def99][^c-4780a18e63053773982837d1d5b12de0]
 
 (1) Fully registered medical practitioners, where—
 
@@ -1340,7 +1340,7 @@ Persons who are barristers or solicitors.
 - “Medical Directive” means Council Directive [93/16/EEC](https://www.legislation.gov.uk/european/directive/1993/0016) of 5th April 1993 to facilitate the free movement of doctors and the mutual recognitions of their diplomas, certificates and other evidence of formal qualifications[^f00071], as amended by Council Directive [97/50/EC](https://www.legislation.gov.uk/european/directive/1997/0050) of 6th October 1997[^f00072]; and
 - “vocational training certificate” means a diploma, certificate or other evidence of formal qualifications awarded on completion of a course of specific training in general medical practice and referred to in Article 30 of the Medical Directive.
 
-### 3. Financial qualifications[^key-fc98f465dd08f9d1874690ba544730f4][^key-7663e6e4ca4bd924c8b6c3bf454fe4dc][^key-8c84931da7085f29d931c9b7354b01d8][^key-c7db948967ac2b74b0a28c2c5b107ad7][^key-7067bdbd6884e559a98b60bc632f9c11][^key-c65592ac320f4767dd6020853fbbc7ae]
+### 3. Financial qualifications[^c-fc98f465dd08f9d1874690ba544730f4][^c-7663e6e4ca4bd924c8b6c3bf454fe4dc][^c-8c84931da7085f29d931c9b7354b01d8][^c-c7db948967ac2b74b0a28c2c5b107ad7][^c-7067bdbd6884e559a98b60bc632f9c11][^c-c65592ac320f4767dd6020853fbbc7ae]
 
 Accountants who are members of—
 
@@ -1351,14 +1351,14 @@ Accountants who are members of—
 - (e) the Chartered Institute of Management Accountants; or
 - (f) the Chartered Institute of Public Finance and Accountancy.
 
-### 4. Disability qualifications[^key-78520bcc4c63b1f7e86e0c8f5e37ee49][^key-adb5f5a9c07f3099a1e474f668b98607][^key-a0415746bce1c15dc60638eb0cb49bad][^key-313835f12ce4468bd36ce8464e8b95df][^key-84aea206140f949b5e3c8a58e2da35a4][^key-0ed747e19d5891531b16205712c3ea0a]
+### 4. Disability qualifications[^c-78520bcc4c63b1f7e86e0c8f5e37ee49][^c-adb5f5a9c07f3099a1e474f668b98607][^c-a0415746bce1c15dc60638eb0cb49bad][^c-313835f12ce4468bd36ce8464e8b95df][^c-84aea206140f949b5e3c8a58e2da35a4][^c-0ed747e19d5891531b16205712c3ea0a]
 
 Persons, other than registered medical practitioners, who are experienced in dealing with the needs of disabled persons—
 
 - (a) in a professional or voluntary capacity; or
 - (b) because they are themselves disabled.
 
-## SCHEDULE 3 — Regulations revoked[^key-3a05f65c183edb53727281f070647662][^key-960d1cba86ce961dc51ff8cc2a70b465][^key-4663879f05c4240f372965a1e7f7a22a][^key-2d6ac94ccce747b7eb05496693caa707][^key-2c6da1bdcf023a39fe0e5ec093f08b9a][^key-7099af91dd8731f69fdb241dd44f961c]
+## SCHEDULE 3 — Regulations revoked[^c-3a05f65c183edb53727281f070647662][^c-960d1cba86ce961dc51ff8cc2a70b465][^c-4663879f05c4240f372965a1e7f7a22a][^c-2d6ac94ccce747b7eb05496693caa707][^c-2c6da1bdcf023a39fe0e5ec093f08b9a][^c-7099af91dd8731f69fdb241dd44f961c]
 
 Regulation 59
 
@@ -1427,17 +1427,17 @@ As these Regulations are made by virtue of, or are consequential upon, provision
 
 [^f00005]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-1e064ff94a8478e87b70be5659145a7d]: Commencement: Reg. 1 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-1e064ff94a8478e87b70be5659145a7d]: Commencement: Reg. 1 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-4bf12aad60898411018342e50635ba15]: Commencement: Reg. 1 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-4bf12aad60898411018342e50635ba15]: Commencement: Reg. 1 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-6544b3173f9dee59c614692b1af14d35]: Commencement: Reg. 1 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-6544b3173f9dee59c614692b1af14d35]: Commencement: Reg. 1 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-7e975d498003029bc5fda3529792dde3]: Commencement: Reg. 1 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-7e975d498003029bc5fda3529792dde3]: Commencement: Reg. 1 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-28780201753a8286470c42e431a0ddfe]: Commencement: Reg. 1 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-28780201753a8286470c42e431a0ddfe]: Commencement: Reg. 1 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-4102b43df25df3ce3c31434937860954]: Commencement: Reg. 1 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-4102b43df25df3ce3c31434937860954]: Commencement: Reg. 1 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00006]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1988 Nos. 67](https://www.legislation.gov.uk/nisr/1988/67) and [141](https://www.legislation.gov.uk/nisr/1988/141), [S.R. 1989 Nos. 40](https://www.legislation.gov.uk/nisr/1989/40) and [398](https://www.legislation.gov.uk/nisr/1989/398), [S.R. 1991 No. 488](https://www.legislation.gov.uk/nisr/1991/488), [S.R.1992 Nos. 7](https://www.legislation.gov.uk/nisr/1992/7), [271](https://www.legislation.gov.uk/nisr/1992/271) and [453](https://www.legislation.gov.uk/nisr/1992/453), [S.R. 1993 Nos. 146](https://www.legislation.gov.uk/nisr/1993/146), [149](https://www.legislation.gov.uk/nisr/1993/149), [217](https://www.legislation.gov.uk/nisr/1993/217) and [375](https://www.legislation.gov.uk/nisr/1993/375), [S.R. 1994 Nos. 345](https://www.legislation.gov.uk/nisr/1994/345) and [456](https://www.legislation.gov.uk/nisr/1994/456), [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301), [S.R. 1996 Nos. 85](https://www.legislation.gov.uk/nisr/1996/85), [354](https://www.legislation.gov.uk/nisr/1996/354) and [432](https://www.legislation.gov.uk/nisr/1996/432), [S.R. 1997 Nos. 155](https://www.legislation.gov.uk/nisr/1997/155), [156](https://www.legislation.gov.uk/nisr/1997/156), [417](https://www.legislation.gov.uk/nisr/1997/417) and [435](https://www.legislation.gov.uk/nisr/1997/435) and [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182)
 
@@ -1451,87 +1451,87 @@ As these Regulations are made by virtue of, or are consequential upon, provision
 
 [^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c182f8d6c3e6624ec1096686a485f9c1]: Commencement: Reg. 2 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-c182f8d6c3e6624ec1096686a485f9c1]: Commencement: Reg. 2 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-d15344655f2cfbae1d907f0972ab637f]: Commencement: Reg. 2 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-d15344655f2cfbae1d907f0972ab637f]: Commencement: Reg. 2 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-b678e55f4a058020d6b40d457bb69e85]: Commencement: Reg. 2 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-b678e55f4a058020d6b40d457bb69e85]: Commencement: Reg. 2 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-cf016a26e45d8bb6b253e52700b1f7f9]: Commencement: Reg. 2 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-cf016a26e45d8bb6b253e52700b1f7f9]: Commencement: Reg. 2 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-7f1a078e2efb520e829f33423f1deab9]: Commencement: Reg. 2 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-7f1a078e2efb520e829f33423f1deab9]: Commencement: Reg. 2 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-d5684d2e9db0f39a7c82696ba8795ecd]: Commencement: Reg. 2 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-d5684d2e9db0f39a7c82696ba8795ecd]: Commencement: Reg. 2 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-93d0a8064b9bd4aa0329be3989b842cf]: Commencement: Reg. 3 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-93d0a8064b9bd4aa0329be3989b842cf]: Commencement: Reg. 3 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-0f5febfc9fc0a67395ee87f6eb353d97]: Commencement: Reg. 3 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-0f5febfc9fc0a67395ee87f6eb353d97]: Commencement: Reg. 3 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-82d8a7181dc7e64106123906b6327dae]: Commencement: Reg. 3 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-82d8a7181dc7e64106123906b6327dae]: Commencement: Reg. 3 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-a366051db3a59989d44babeb08c49eeb]: Commencement: Reg. 3 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-a366051db3a59989d44babeb08c49eeb]: Commencement: Reg. 3 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-7f39e5017867e84e9a928ce03e5c1991]: Commencement: Reg. 3 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-7f39e5017867e84e9a928ce03e5c1991]: Commencement: Reg. 3 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-2c00f763c533e2bb048809486dd96063]: Commencement: Reg. 3 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-2c00f763c533e2bb048809486dd96063]: Commencement: Reg. 3 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00012]: Footnote: Regulation 19 was substituted by regulation 3(7) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156) and amended by [S.R. 1997 No. 417](https://www.legislation.gov.uk/nisr/1997/417) and Schedule 4 was amended by [S.R. 1988 No. 141](https://www.legislation.gov.uk/nisr/1988/141), [S.R. 1991 No. 488](https://www.legislation.gov.uk/nisr/1991/488), [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), [S.R. 1996 Nos. 354](https://www.legislation.gov.uk/nisr/1996/354), [432](https://www.legislation.gov.uk/nisr/1996/432) and [456](https://www.legislation.gov.uk/nisr/1996/456) and [S.R. 1997 Nos. 155](https://www.legislation.gov.uk/nisr/1997/155) and [156](https://www.legislation.gov.uk/nisr/1997/156)
 
 [^f00013]: Footnote: Article 21 was amended by Schedule 1 to the Employment Rights (Northern Ireland) Order 1996 (S.I. [1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919))
 
-[^key-c0aa5be09351454ed679e021451db7c4]: Commencement: Reg. 4 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-c0aa5be09351454ed679e021451db7c4]: Commencement: Reg. 4 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-df40f8096d95cf5e32dea92307cb40f8]: Commencement: Reg. 4 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-df40f8096d95cf5e32dea92307cb40f8]: Commencement: Reg. 4 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-458a282133602aa73e557b5d39e02eef]: Commencement: Reg. 4 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-458a282133602aa73e557b5d39e02eef]: Commencement: Reg. 4 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-9246e2a19e02f1c93f5588c916d7acf2]: Commencement: Reg. 4 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-9246e2a19e02f1c93f5588c916d7acf2]: Commencement: Reg. 4 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-3cd818e13e662eed53ca3174c9cb087f]: Commencement: Reg. 4 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-3cd818e13e662eed53ca3174c9cb087f]: Commencement: Reg. 4 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-3ff92ddb09617e8d7bd5913d075b75be]: Commencement: Reg. 4 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-3ff92ddb09617e8d7bd5913d075b75be]: Commencement: Reg. 4 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00014]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14)
 
-[^key-dc90fa7a87181ca934db505ef024ffb7]: Commencement: Reg. 5 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-dc90fa7a87181ca934db505ef024ffb7]: Commencement: Reg. 5 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-15fc9a319a9973abe231ab66f37232ab]: Commencement: Reg. 5 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-15fc9a319a9973abe231ab66f37232ab]: Commencement: Reg. 5 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-573e48ee72a365bcad6287fc97073ac9]: Commencement: Reg. 5 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-573e48ee72a365bcad6287fc97073ac9]: Commencement: Reg. 5 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-0d508263ab89e67ec9afe82a4fa02bd3]: Commencement: Reg. 5 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-0d508263ab89e67ec9afe82a4fa02bd3]: Commencement: Reg. 5 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-49084ebc665b9aee7ec2d55130c1aa4d]: Commencement: Reg. 5 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-49084ebc665b9aee7ec2d55130c1aa4d]: Commencement: Reg. 5 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-c94328aa6d44e98d820f2b368a958a87]: Commencement: Reg. 5 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-c94328aa6d44e98d820f2b368a958a87]: Commencement: Reg. 5 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-0f292281ce1f6ec63bb5f60e9a7371fc]: Commencement: Reg. 6 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-0f292281ce1f6ec63bb5f60e9a7371fc]: Commencement: Reg. 6 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-b96bd3d4cfcc82cf27a97463b3f9a3e4]: Commencement: Reg. 6 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-b96bd3d4cfcc82cf27a97463b3f9a3e4]: Commencement: Reg. 6 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-0517566e9e633b89f8d1df909782cf71]: Commencement: Reg. 6 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-0517566e9e633b89f8d1df909782cf71]: Commencement: Reg. 6 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-1a3c97979eccd2cca6e3e9c67cba88c0]: Commencement: Reg. 6 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-1a3c97979eccd2cca6e3e9c67cba88c0]: Commencement: Reg. 6 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-4dd3bd8756cf464ba90464a3a3ee0643]: Commencement: Reg. 6 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-4dd3bd8756cf464ba90464a3a3ee0643]: Commencement: Reg. 6 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-41e5c84355612f2fb49d10e7acb5c29f]: Commencement: Reg. 6 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-41e5c84355612f2fb49d10e7acb5c29f]: Commencement: Reg. 6 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00015]: Footnote: Regulation 66A was inserted by regulation 4(7) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297) and amended by [S.R. 1991 Nos. 46](https://www.legislation.gov.uk/nisr/1991/46) and [338](https://www.legislation.gov.uk/nisr/1991/338) and [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
 
 [^f00016]: Footnote: The definition of “nursing home” was substituted by paragraph 6(5)(b) of Schedule 2 to [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149); the definition of “residential care home” was inserted by paragraph 1(3)(a) of Schedule 1 to [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and amended by [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373) and [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
 
-[^key-04895d1b519dbdd57de73d688724e3f8]: Commencement: Reg. 7 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-04895d1b519dbdd57de73d688724e3f8]: Commencement: Reg. 7 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-f68c5492ff4446348f1789a21bd2b6ea]: Commencement: Reg. 7 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-f68c5492ff4446348f1789a21bd2b6ea]: Commencement: Reg. 7 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-8a880bacd8f44f3e87c07f14773d5ac5]: Commencement: Reg. 7 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-8a880bacd8f44f3e87c07f14773d5ac5]: Commencement: Reg. 7 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-e9ff2deecdf361b7bcddfe145105b4e1]: Commencement: Reg. 7 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-e9ff2deecdf361b7bcddfe145105b4e1]: Commencement: Reg. 7 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-d1a01db017643b1ebb750071334ab788]: Commencement: Reg. 7 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-d1a01db017643b1ebb750071334ab788]: Commencement: Reg. 7 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-5efb74473eebd1127ae6fc6c4ae198e9]: Commencement: Reg. 7 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-5efb74473eebd1127ae6fc6c4ae198e9]: Commencement: Reg. 7 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00017]: Footnote: Regulation 26A was inserted by regulation 2(14) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and amended by [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182)
 
@@ -1547,95 +1547,95 @@ As these Regulations are made by virtue of, or are consequential upon, provision
 
 [^f00023]: Footnote: [S.R. 1996 No. 518](https://www.legislation.gov.uk/nisr/1996/518), to which there are amendments not relevant to these regulations
 
-[^key-87cc25a1882d85976c8fdf9f482e5cd9]: Commencement: Reg. 8 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-87cc25a1882d85976c8fdf9f482e5cd9]: Commencement: Reg. 8 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-313eda73949a1a0d6d1ae3bec77c2508]: Commencement: Reg. 8 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-313eda73949a1a0d6d1ae3bec77c2508]: Commencement: Reg. 8 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-7bd5bacb7979f6598138b6b86e0503f0]: Commencement: Reg. 8 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-7bd5bacb7979f6598138b6b86e0503f0]: Commencement: Reg. 8 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-9db50c6f0fbdaaf196b48a69ac68d308]: Commencement: Reg. 8 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-9db50c6f0fbdaaf196b48a69ac68d308]: Commencement: Reg. 8 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-5acb8b6953d8fd0327c073c7b9866579]: Commencement: Reg. 8 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-5acb8b6953d8fd0327c073c7b9866579]: Commencement: Reg. 8 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-b44c6c6f5991aa1ea221b23f30df24c1]: Commencement: Reg. 8 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-b44c6c6f5991aa1ea221b23f30df24c1]: Commencement: Reg. 8 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-1228e18ac6869d96c94e3c20c0d521be]: Commencement: Reg. 9 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-1228e18ac6869d96c94e3c20c0d521be]: Commencement: Reg. 9 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-ddeed568f77ca971ac63aeafdd8a5bbd]: Commencement: Reg. 9 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-ddeed568f77ca971ac63aeafdd8a5bbd]: Commencement: Reg. 9 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-920fcfa194f054af200c04270b731316]: Commencement: Reg. 9 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-920fcfa194f054af200c04270b731316]: Commencement: Reg. 9 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-f0989a9eda99dbf2235367ed345949ce]: Commencement: Reg. 9 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-f0989a9eda99dbf2235367ed345949ce]: Commencement: Reg. 9 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-89caf72d48e2a8355f11f7f6f846c9ec]: Commencement: Reg. 9 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-89caf72d48e2a8355f11f7f6f846c9ec]: Commencement: Reg. 9 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-1de6d2a30fae3b845deb12876bb318cb]: Commencement: Reg. 9 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-1de6d2a30fae3b845deb12876bb318cb]: Commencement: Reg. 9 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00024]: Footnote: Article 12(1) was substituted by paragraph 120(1) of Schedule 6 to the Social Security (Northern Ireland) Order 1998 (S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506))
 
-[^key-c54bf6db358e1e1ffe01db5965e8d079]: Commencement: Reg. 10 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-c54bf6db358e1e1ffe01db5965e8d079]: Commencement: Reg. 10 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-02a097fa947bdbdd55cef76d2b9a2fa5]: Commencement: Reg. 10 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-02a097fa947bdbdd55cef76d2b9a2fa5]: Commencement: Reg. 10 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-c7140ac74691b83bd2d3f54f3befad3f]: Commencement: Reg. 10 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-c7140ac74691b83bd2d3f54f3befad3f]: Commencement: Reg. 10 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-89ae3e993beeaad9aa255d743789c695]: Commencement: Reg. 10 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-89ae3e993beeaad9aa255d743789c695]: Commencement: Reg. 10 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-7e15f9c6ef3185d0f8fd3046aa578714]: Commencement: Reg. 10 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-7e15f9c6ef3185d0f8fd3046aa578714]: Commencement: Reg. 10 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-c18ed636ae6ac866e792fe35deb373b7]: Commencement: Reg. 10 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-c18ed636ae6ac866e792fe35deb373b7]: Commencement: Reg. 10 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-a4533480ba3ac4aea2a29a2c1b949e68]: Commencement: Reg. 11 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-a4533480ba3ac4aea2a29a2c1b949e68]: Commencement: Reg. 11 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-376061707ed198940382bbd8d13aa2c7]: Commencement: Reg. 11 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-376061707ed198940382bbd8d13aa2c7]: Commencement: Reg. 11 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-8373d91e2730bcd9519cd00e67e0f627]: Commencement: Reg. 11 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-8373d91e2730bcd9519cd00e67e0f627]: Commencement: Reg. 11 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-7b7e0e4f5783f38333110d952844a400]: Commencement: Reg. 11 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-7b7e0e4f5783f38333110d952844a400]: Commencement: Reg. 11 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-ff99b694f8a969d3f5a4964ec84f4e70]: Commencement: Reg. 11 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-ff99b694f8a969d3f5a4964ec84f4e70]: Commencement: Reg. 11 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-e6bd7452aa96dde6f46e00bbafe0ecd7]: Commencement: Reg. 11 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-e6bd7452aa96dde6f46e00bbafe0ecd7]: Commencement: Reg. 11 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00025]: Footnote: Part XIIA was inserted by Articles 7 and 8(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994
 
-[^key-cf9cf30605cd39231e25df7b9709205c]: Commencement: Reg. 12 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-cf9cf30605cd39231e25df7b9709205c]: Commencement: Reg. 12 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-d27f027e409cb771d3aeeac069feb07f]: Commencement: Reg. 12 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-d27f027e409cb771d3aeeac069feb07f]: Commencement: Reg. 12 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-14ad569f22453eb15a78762a11b4d337]: Commencement: Reg. 12 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-14ad569f22453eb15a78762a11b4d337]: Commencement: Reg. 12 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-617cad3d2c455746b5887d7c6c2663ae]: Commencement: Reg. 12 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-617cad3d2c455746b5887d7c6c2663ae]: Commencement: Reg. 12 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-b2453203d039e84cde3de5a44acd9342]: Commencement: Reg. 12 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-b2453203d039e84cde3de5a44acd9342]: Commencement: Reg. 12 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-652c8bc53efff9dfb16b9569d3a15205]: Commencement: Reg. 12 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-652c8bc53efff9dfb16b9569d3a15205]: Commencement: Reg. 12 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-b718073c95f4d496d6c36c3ceb078fae]: Commencement: Reg. 13 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-b718073c95f4d496d6c36c3ceb078fae]: Commencement: Reg. 13 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-aeaf434180faba9e170d6e547d11d7a5]: Commencement: Reg. 13 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-aeaf434180faba9e170d6e547d11d7a5]: Commencement: Reg. 13 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-ef504ba68d509dfe0efd931854d6a82f]: Commencement: Reg. 13 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-ef504ba68d509dfe0efd931854d6a82f]: Commencement: Reg. 13 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-b3a9dba79e0558cadb288f3c05e3c724]: Commencement: Reg. 13 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-b3a9dba79e0558cadb288f3c05e3c724]: Commencement: Reg. 13 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-d42b345807b0ba7511a8615f11b54893]: Commencement: Reg. 13 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-d42b345807b0ba7511a8615f11b54893]: Commencement: Reg. 13 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-0357a3985fb66634a5d425493971d852]: Commencement: Reg. 13 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-0357a3985fb66634a5d425493971d852]: Commencement: Reg. 13 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00026]: Footnote: Regulation 12 was substituted by regulation 5 of [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131) and amended by [S.R. 1992 No. 403](https://www.legislation.gov.uk/nisr/1992/403) and [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373)
 
-[^key-995e7eb3ad2568024be83f50114411a7]: Commencement: Reg. 14 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-995e7eb3ad2568024be83f50114411a7]: Commencement: Reg. 14 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-3842984a549922e73cbf9068f357972b]: Commencement: Reg. 14 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-3842984a549922e73cbf9068f357972b]: Commencement: Reg. 14 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-fb5008779df6caa0d0a4dfeae0f1a820]: Commencement: Reg. 14 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-fb5008779df6caa0d0a4dfeae0f1a820]: Commencement: Reg. 14 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-21f0fa98db0123d88fb003d581ec8829]: Commencement: Reg. 14 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-21f0fa98db0123d88fb003d581ec8829]: Commencement: Reg. 14 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-cf51251f154860148980f67a745588c1]: Commencement: Reg. 14 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-cf51251f154860148980f67a745588c1]: Commencement: Reg. 14 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-4a213439eb08feadf4d6d3bf50d79900]: Commencement: Reg. 14 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-4a213439eb08feadf4d6d3bf50d79900]: Commencement: Reg. 14 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00027]: Footnote: Paragraphs (2) to (7) were added by regulation 2 of [S.R. 1988 No. 193](https://www.legislation.gov.uk/nisr/1988/193) and amended by [S.R. 1989 No. 395](https://www.legislation.gov.uk/nisr/1989/395) and [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
 
@@ -1647,121 +1647,121 @@ As these Regulations are made by virtue of, or are consequential upon, provision
 
 [^f00031]: Footnote: Section 139A was inserted by Article 26 of the Jobseekers (Northern Ireland) Order 1995 (S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705))
 
-[^key-0dfb2139a407aa061d026aff1640da61]: Commencement: Reg. 15 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-0dfb2139a407aa061d026aff1640da61]: Commencement: Reg. 15 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-356468bcad969ed2563fea5ca5d11c25]: Commencement: Reg. 15 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-356468bcad969ed2563fea5ca5d11c25]: Commencement: Reg. 15 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-167286d6e14b4ca4a1754b6361afe070]: Commencement: Reg. 15 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-167286d6e14b4ca4a1754b6361afe070]: Commencement: Reg. 15 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-843b5b19ba3d61e82136ec0218418ef5]: Commencement: Reg. 15 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-843b5b19ba3d61e82136ec0218418ef5]: Commencement: Reg. 15 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-1a12be92a315f927e57f8f4d3ceab454]: Commencement: Reg. 15 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-1a12be92a315f927e57f8f4d3ceab454]: Commencement: Reg. 15 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-06b4a79fb3a7bf4c759def3eddc09ac9]: Commencement: Reg. 15 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-06b4a79fb3a7bf4c759def3eddc09ac9]: Commencement: Reg. 15 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00032]: Footnote: Regulation 54 was amended by regulation 5 of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
 
-[^key-af9ec76855212560667365fa2f742501]: Commencement: Reg. 16 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-af9ec76855212560667365fa2f742501]: Commencement: Reg. 16 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-937cfc9e004d2c697e8a87a7bcea1a6b]: Commencement: Reg. 16 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-937cfc9e004d2c697e8a87a7bcea1a6b]: Commencement: Reg. 16 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-ad4129741b172cdbddfd4a43a574f0d1]: Commencement: Reg. 16 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-ad4129741b172cdbddfd4a43a574f0d1]: Commencement: Reg. 16 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-7b8e835f7944bc2ad3b42c4b5072c425]: Commencement: Reg. 16 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-7b8e835f7944bc2ad3b42c4b5072c425]: Commencement: Reg. 16 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-bed2f6b782770d530c785080afbc405b]: Commencement: Reg. 16 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-bed2f6b782770d530c785080afbc405b]: Commencement: Reg. 16 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-c8381fdfcea888fc7f7b0824f1d3a8f6]: Commencement: Reg. 16 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-c8381fdfcea888fc7f7b0824f1d3a8f6]: Commencement: Reg. 16 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
 [^f00033]: Footnote: Section 69 was amended by Article 33(1) of, and paragraph 31 of Schedule 2 to, the Jobseekers (Northern Ireland) Order 1995 and section 2(2) to (4) of the Social Security (Overpayments) Act [1996 (c. 51)](https://www.legislation.gov.uk/ukpga/1996/51); section 69A was inserted by Article 20 of the Jobseekers (Northern Ireland) Order 1995; section 72 was amended by paragraph 33 of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995
 
-[^key-69e985103f371325462b9a690b28cf2d]: Commencement: Reg. 17 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-69e985103f371325462b9a690b28cf2d]: Commencement: Reg. 17 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-c9f106db053e78da62b7cdc66cb30c9f]: Commencement: Reg. 17 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-c9f106db053e78da62b7cdc66cb30c9f]: Commencement: Reg. 17 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-9be3a71df7ad99fc810088db508405e2]: Commencement: Reg. 17 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-9be3a71df7ad99fc810088db508405e2]: Commencement: Reg. 17 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-e3a4fd5773fb4fc82d49d69da2b621aa]: Commencement: Reg. 17 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-e3a4fd5773fb4fc82d49d69da2b621aa]: Commencement: Reg. 17 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-5aa7dc308289b39604c53c4a864a702f]: Commencement: Reg. 17 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-5aa7dc308289b39604c53c4a864a702f]: Commencement: Reg. 17 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-e886d36bc44dd9824ec02b0f360e2a58]: Commencement: Reg. 17 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-e886d36bc44dd9824ec02b0f360e2a58]: Commencement: Reg. 17 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00034]: Footnote: Schedule 1B was inserted by Schedule 1 to [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
 
 [^f00035]: Footnote: [S.R. 1976 No. 175](https://www.legislation.gov.uk/nisr/1976/175); relevant amending regulations are [S.R. 1982 No. 153](https://www.legislation.gov.uk/nisr/1982/153), [S.R. 1987 No. 117](https://www.legislation.gov.uk/nisr/1987/117), [S.R. 1992 No. 83](https://www.legislation.gov.uk/nisr/1992/83), [S.R. 1994 No. 468](https://www.legislation.gov.uk/nisr/1994/468) and [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149)
 
-[^key-4a03b0be17704627a6d96b33d4d9a504]: Commencement: Reg. 18 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-4a03b0be17704627a6d96b33d4d9a504]: Commencement: Reg. 18 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-cfed09f6517de1c3555dee930497ef6e]: Commencement: Reg. 18 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-cfed09f6517de1c3555dee930497ef6e]: Commencement: Reg. 18 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-dcb9e729da34e92c0572ff5015c77ab6]: Commencement: Reg. 18 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-dcb9e729da34e92c0572ff5015c77ab6]: Commencement: Reg. 18 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-43049ce6631a73eab09b166929f42fce]: Commencement: Reg. 18 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-43049ce6631a73eab09b166929f42fce]: Commencement: Reg. 18 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-655d0113dd8a7f509297a45634a0641c]: Commencement: Reg. 18 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-655d0113dd8a7f509297a45634a0641c]: Commencement: Reg. 18 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-7e979e2f26991e28cc2a9a8f2ba92091]: Commencement: Reg. 18 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-7e979e2f26991e28cc2a9a8f2ba92091]: Commencement: Reg. 18 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-84db1f85cbcd017b149461f5509e4500]: Commencement: Reg. 19 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-84db1f85cbcd017b149461f5509e4500]: Commencement: Reg. 19 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-4e2eb719e338cec70921c28db93d3cd4]: Commencement: Reg. 19 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-4e2eb719e338cec70921c28db93d3cd4]: Commencement: Reg. 19 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-2a6e8788269d42a3749924b759ecd8b9]: Commencement: Reg. 19 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-2a6e8788269d42a3749924b759ecd8b9]: Commencement: Reg. 19 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-d6acf1d907f4966cee2cdb9c29932966]: Commencement: Reg. 19 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-d6acf1d907f4966cee2cdb9c29932966]: Commencement: Reg. 19 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-a34401108a771bb845f5e10cde555cf5]: Commencement: Reg. 19 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-a34401108a771bb845f5e10cde555cf5]: Commencement: Reg. 19 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-466fd3ab923b8e47f557ab12e7695bd7]: Commencement: Reg. 19 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-466fd3ab923b8e47f557ab12e7695bd7]: Commencement: Reg. 19 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-47c5a15e573e5cdb2a60514ae8d9d2aa]: Commencement: Reg. 20 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-47c5a15e573e5cdb2a60514ae8d9d2aa]: Commencement: Reg. 20 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-7b01600d0527b146bb3029509a73a7ec]: Commencement: Reg. 20 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-7b01600d0527b146bb3029509a73a7ec]: Commencement: Reg. 20 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-ebd226968a2fcdd2c04c18acb6e03c9a]: Commencement: Reg. 20 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-ebd226968a2fcdd2c04c18acb6e03c9a]: Commencement: Reg. 20 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-8c9aaf77649e7aa03e893370efe33782]: Commencement: Reg. 20 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-8c9aaf77649e7aa03e893370efe33782]: Commencement: Reg. 20 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-2b08d5d34f47d85e6caab6ac52d16353]: Commencement: Reg. 20 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-2b08d5d34f47d85e6caab6ac52d16353]: Commencement: Reg. 20 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-65c3e5a08d70e2eb86b2c0c289538ac6]: Commencement: Reg. 20 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-65c3e5a08d70e2eb86b2c0c289538ac6]: Commencement: Reg. 20 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-d79cc03ec3068f3556f0c92ee8f9038a]: Commencement: Reg. 21 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-d79cc03ec3068f3556f0c92ee8f9038a]: Commencement: Reg. 21 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-efa7d3aa8bbd19f8c47779a5896492a9]: Commencement: Reg. 21 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-efa7d3aa8bbd19f8c47779a5896492a9]: Commencement: Reg. 21 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-aaef1a235bc7aece7c6842fa2f732b38]: Commencement: Reg. 21 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-aaef1a235bc7aece7c6842fa2f732b38]: Commencement: Reg. 21 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-1a5c0166f27e42d442b6bf3eb61be2d1]: Commencement: Reg. 21 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-1a5c0166f27e42d442b6bf3eb61be2d1]: Commencement: Reg. 21 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-c2d4541087e0ab74bd6c077c79945e7b]: Commencement: Reg. 21 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-c2d4541087e0ab74bd6c077c79945e7b]: Commencement: Reg. 21 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-68038e6dda1032abc1ddd68774c2267c]: Commencement: Reg. 21 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-68038e6dda1032abc1ddd68774c2267c]: Commencement: Reg. 21 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-2f58cb3493343721bb4155ec8deff11d]: Commencement: Reg. 22 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-2f58cb3493343721bb4155ec8deff11d]: Commencement: Reg. 22 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-f08c3d670c125233aa742b7e8f2ad457]: Commencement: Reg. 22 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-f08c3d670c125233aa742b7e8f2ad457]: Commencement: Reg. 22 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-4427458cf3ff17e680ae9ed68aa4174a]: Commencement: Reg. 22 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-4427458cf3ff17e680ae9ed68aa4174a]: Commencement: Reg. 22 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-116c49d1d0ab3381c1b990f73b4f5c8e]: Commencement: Reg. 22 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-116c49d1d0ab3381c1b990f73b4f5c8e]: Commencement: Reg. 22 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-74f03e920fa77c22c65fbb43399c6a5d]: Commencement: Reg. 22 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-74f03e920fa77c22c65fbb43399c6a5d]: Commencement: Reg. 22 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-59b4ea6c5dae4e77348bb32b2b0a6037]: Commencement: Reg. 22 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-59b4ea6c5dae4e77348bb32b2b0a6037]: Commencement: Reg. 22 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-f7fa136df79d59043f0c4c32ae527cba]: Commencement: Reg. 23 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-f7fa136df79d59043f0c4c32ae527cba]: Commencement: Reg. 23 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-609abf840cb265658a519aeb9cb89391]: Commencement: Reg. 23 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-609abf840cb265658a519aeb9cb89391]: Commencement: Reg. 23 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-9b3f0222efffd63b4852477239cc6afc]: Commencement: Reg. 23 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-9b3f0222efffd63b4852477239cc6afc]: Commencement: Reg. 23 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-e40bc7ec727f48b8261282265d22e4ba]: Commencement: Reg. 23 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-e40bc7ec727f48b8261282265d22e4ba]: Commencement: Reg. 23 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-9de85931bed64a63c06e09b07413b780]: Commencement: Reg. 23 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-9de85931bed64a63c06e09b07413b780]: Commencement: Reg. 23 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-eac8a89353fcdf1d870972e08e063ff8]: Commencement: Reg. 23 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-eac8a89353fcdf1d870972e08e063ff8]: Commencement: Reg. 23 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00036]: Footnote: Article 28ZA(2)(b) was inserted by Article 43 of the Social Security (Northern Ireland) Order 1998
 
@@ -1769,173 +1769,173 @@ As these Regulations are made by virtue of, or are consequential upon, provision
 
 [^f00038]: Footnote: The definition of “parent with care” was inserted by paragraph 2(a) of Schedule 3 to the Child Support (Northern Ireland) Order 1995 (S.I. [1995/2702 (N.I. 13)](https://www.legislation.gov.uk/nisi/1995/2702))
 
-[^key-8d179c703e9e9c7c1030edf5df5e37bb]: Commencement: Reg. 24 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-8d179c703e9e9c7c1030edf5df5e37bb]: Commencement: Reg. 24 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-54d881d90669a0e4b85149ae3d452ce4]: Commencement: Reg. 24 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-54d881d90669a0e4b85149ae3d452ce4]: Commencement: Reg. 24 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-affe18b4c1e7e91635af3b14768dc372]: Commencement: Reg. 24 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-affe18b4c1e7e91635af3b14768dc372]: Commencement: Reg. 24 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-aa88729018ea080612923dd8623dfa69]: Commencement: Reg. 24 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-aa88729018ea080612923dd8623dfa69]: Commencement: Reg. 24 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-74aca82724b8e22d2ba98236eeb4d1f0]: Commencement: Reg. 24 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-74aca82724b8e22d2ba98236eeb4d1f0]: Commencement: Reg. 24 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-c86a5c9cf9e51626186ee78c553ad8a9]: Commencement: Reg. 24 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-c86a5c9cf9e51626186ee78c553ad8a9]: Commencement: Reg. 24 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00039]: Footnote: Article 28ZB(6)(c) was inserted by Article 43 of the Social Security (Northern Ireland) Order 1998
 
-[^key-1ec9a43b94aeded73f37b9d6367066f1]: Commencement: Reg. 25 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-1ec9a43b94aeded73f37b9d6367066f1]: Commencement: Reg. 25 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-bcf860b74db3f2d2dac7252ad009d8fc]: Commencement: Reg. 25 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-bcf860b74db3f2d2dac7252ad009d8fc]: Commencement: Reg. 25 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-78c2528cd3953df8318833de109cdff1]: Commencement: Reg. 25 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-78c2528cd3953df8318833de109cdff1]: Commencement: Reg. 25 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-849dbcbb890b0199b13a7c598581bbe9]: Commencement: Reg. 25 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-849dbcbb890b0199b13a7c598581bbe9]: Commencement: Reg. 25 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-11b0ed7c2ef092ba15a53c8e3b934d0d]: Commencement: Reg. 25 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-11b0ed7c2ef092ba15a53c8e3b934d0d]: Commencement: Reg. 25 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-c38d7286ae681a13e68722753b576897]: Commencement: Reg. 25 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-c38d7286ae681a13e68722753b576897]: Commencement: Reg. 25 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-1cae3e28548ebb4d5d387d5af1d8aeaf]: Commencement: Reg. 26 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-1cae3e28548ebb4d5d387d5af1d8aeaf]: Commencement: Reg. 26 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-59cacfd40324f76850c2f770378b9b3a]: Commencement: Reg. 26 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-59cacfd40324f76850c2f770378b9b3a]: Commencement: Reg. 26 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-4fba218d42f45a43970163abb2ba3aac]: Commencement: Reg. 26 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-4fba218d42f45a43970163abb2ba3aac]: Commencement: Reg. 26 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-010d1ad55a1d5b6f6059d95176ffc8bd]: Commencement: Reg. 26 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-010d1ad55a1d5b6f6059d95176ffc8bd]: Commencement: Reg. 26 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-2de458c334d0b4bf79f73f740f05c199]: Commencement: Reg. 26 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-2de458c334d0b4bf79f73f740f05c199]: Commencement: Reg. 26 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-8288b33c1cb3896d37d0765925492d08]: Commencement: Reg. 26 comes into force in accordance with reg. 1(1)(f)
+[^c-8288b33c1cb3896d37d0765925492d08]: Commencement: Reg. 26 comes into force in accordance with reg. 1(1)(f)
 
-[^key-a6aedb37837e812f1173b2b89a836d3a]: Commencement: Reg. 27 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-a6aedb37837e812f1173b2b89a836d3a]: Commencement: Reg. 27 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-14ce0fac0792fe17d5d4ad57cb317f14]: Commencement: Reg. 27 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-14ce0fac0792fe17d5d4ad57cb317f14]: Commencement: Reg. 27 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-b84976a8e5724cace4e14b2be22cfe82]: Commencement: Reg. 27 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-b84976a8e5724cace4e14b2be22cfe82]: Commencement: Reg. 27 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-bd36fea817f98284cb7c2f8a41c9ca98]: Commencement: Reg. 27 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-bd36fea817f98284cb7c2f8a41c9ca98]: Commencement: Reg. 27 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-903f9972a28fcc220d089f669d4d5cb3]: Commencement: Reg. 27 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-903f9972a28fcc220d089f669d4d5cb3]: Commencement: Reg. 27 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-09b4e1e9dbca0950abc3e7a3ae984967]: Commencement: Reg. 27 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-09b4e1e9dbca0950abc3e7a3ae984967]: Commencement: Reg. 27 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-fae4cec85a214db4854b7b26e4722e5d]: Commencement: Reg. 28 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-fae4cec85a214db4854b7b26e4722e5d]: Commencement: Reg. 28 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-91b91f56bd21aa3430976c4359786a9d]: Commencement: Reg. 28 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-91b91f56bd21aa3430976c4359786a9d]: Commencement: Reg. 28 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-c09ff21d9f5b03abe4f71e4b988ddf66]: Commencement: Reg. 28 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-c09ff21d9f5b03abe4f71e4b988ddf66]: Commencement: Reg. 28 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-eb5eeba036205962e592032bb2c338ae]: Commencement: Reg. 28 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-eb5eeba036205962e592032bb2c338ae]: Commencement: Reg. 28 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-8ef1619f2a5ae7881f1681f6d8e4ab19]: Commencement: Reg. 28 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-8ef1619f2a5ae7881f1681f6d8e4ab19]: Commencement: Reg. 28 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-1908f22a9538cd7195fa0c530e84d963]: Commencement: Reg. 28 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-1908f22a9538cd7195fa0c530e84d963]: Commencement: Reg. 28 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-0b01ccc11001ca907486c2ca4c9202e0]: Commencement: Reg. 29 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-0b01ccc11001ca907486c2ca4c9202e0]: Commencement: Reg. 29 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-699958ffe11b30133a12c34479e5dbf5]: Commencement: Reg. 29 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-699958ffe11b30133a12c34479e5dbf5]: Commencement: Reg. 29 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-dee55c0596f740715d762cb255e900ed]: Commencement: Reg. 29 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-dee55c0596f740715d762cb255e900ed]: Commencement: Reg. 29 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-d87596a97d0a0ec7a74045a899e5ab7c]: Commencement: Reg. 29 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-d87596a97d0a0ec7a74045a899e5ab7c]: Commencement: Reg. 29 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-26bcace0ac0281156aa74dbc1ed3ab7e]: Commencement: Reg. 29 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-26bcace0ac0281156aa74dbc1ed3ab7e]: Commencement: Reg. 29 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-1f0cc34bb1e7e8108f5c058e1cc771f7]: Commencement: Reg. 29 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-1f0cc34bb1e7e8108f5c058e1cc771f7]: Commencement: Reg. 29 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00040]: Footnote: Article 12(1) was substituted by paragraph 120(1) of Schedule 6 to the Social Security (Northern Ireland) Order 1998 (S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506))
 
-[^key-302c079ea6e69f00727554c54fe166c8]: Commencement: Reg. 30 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-302c079ea6e69f00727554c54fe166c8]: Commencement: Reg. 30 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-7d11e370e358d37a9eefe38cecd28b49]: Commencement: Reg. 30 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-7d11e370e358d37a9eefe38cecd28b49]: Commencement: Reg. 30 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-42ca8ae51b8b7ab2bdf0bb3063d9f68e]: Commencement: Reg. 30 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-42ca8ae51b8b7ab2bdf0bb3063d9f68e]: Commencement: Reg. 30 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-5c42c99d25040df998da5556ac9a7bfa]: Commencement: Reg. 30 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-5c42c99d25040df998da5556ac9a7bfa]: Commencement: Reg. 30 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-5b2969b9398d3aaf8a822aa9c1d0d86b]: Commencement: Reg. 30 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-5b2969b9398d3aaf8a822aa9c1d0d86b]: Commencement: Reg. 30 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-b15baaa4699a3e0c17a1eacef4123ac6]: Commencement: Reg. 30 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-b15baaa4699a3e0c17a1eacef4123ac6]: Commencement: Reg. 30 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00041]: Footnote: Article 18 was substituted by Article 40 of the Social Security (Northern Ireland) Order 1998
 
-[^key-8616c91032188d3b539fbad5642112e8]: Commencement: Reg. 31 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-8616c91032188d3b539fbad5642112e8]: Commencement: Reg. 31 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-650fbfcd87bff3ecdd1da273297c268f]: Commencement: Reg. 31 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-650fbfcd87bff3ecdd1da273297c268f]: Commencement: Reg. 31 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-45434d7dd81d93feca844a0214bc18bd]: Commencement: Reg. 31 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-45434d7dd81d93feca844a0214bc18bd]: Commencement: Reg. 31 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-6d05057887e06a41df5c9f72489c2647]: Commencement: Reg. 31 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-6d05057887e06a41df5c9f72489c2647]: Commencement: Reg. 31 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-51c74eef1169f482c641db4da4bb955f]: Commencement: Reg. 31 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-51c74eef1169f482c641db4da4bb955f]: Commencement: Reg. 31 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-e27e1a39db34c0370cfbce6109bc91d1]: Commencement: Reg. 31 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-e27e1a39db34c0370cfbce6109bc91d1]: Commencement: Reg. 31 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00042]: Footnote: Article 19(3) and (5) was substituted by Article 41 of the Social Security (Northern Ireland) Order 1998
 
-[^key-24cc1b7c088994a5d610eab32e901dd6]: Commencement: Reg. 32 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-24cc1b7c088994a5d610eab32e901dd6]: Commencement: Reg. 32 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-45ac150582ba716504201fa85a15b692]: Commencement: Reg. 32 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-45ac150582ba716504201fa85a15b692]: Commencement: Reg. 32 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-a187de8bf1b05387cdeb73070eaa3aa2]: Commencement: Reg. 32 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-a187de8bf1b05387cdeb73070eaa3aa2]: Commencement: Reg. 32 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-7f95889bd56a157aa75a947991ed4f73]: Commencement: Reg. 32 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-7f95889bd56a157aa75a947991ed4f73]: Commencement: Reg. 32 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-cda7f748408d8d706933ce8ec3cb633d]: Commencement: Reg. 32 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-cda7f748408d8d706933ce8ec3cb633d]: Commencement: Reg. 32 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-2431f10ac4ca000ec2e823a7f9cccc5b]: Commencement: Reg. 32 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-2431f10ac4ca000ec2e823a7f9cccc5b]: Commencement: Reg. 32 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00043]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14)
 
 [^f00044]: Footnote: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48)
 
-[^key-be7d50a4052df5cdbe668acd96c2694f]: Commencement: Reg. 33 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-be7d50a4052df5cdbe668acd96c2694f]: Commencement: Reg. 33 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-ee71f5761c3e4afc27693a7a0cd51f03]: Commencement: Reg. 33 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-ee71f5761c3e4afc27693a7a0cd51f03]: Commencement: Reg. 33 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-db2fcf9cca588f29b8086d566d6f0d09]: Commencement: Reg. 33 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-db2fcf9cca588f29b8086d566d6f0d09]: Commencement: Reg. 33 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-057e2f10c02df189eb76bd45015520fe]: Commencement: Reg. 33 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-057e2f10c02df189eb76bd45015520fe]: Commencement: Reg. 33 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-d3b78d11a43ef42d52e2ac85cd96dd73]: Commencement: Reg. 33 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-d3b78d11a43ef42d52e2ac85cd96dd73]: Commencement: Reg. 33 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-ae44e9cf332699f05df8470ebfa5dbcb]: Commencement: Reg. 33 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-ae44e9cf332699f05df8470ebfa5dbcb]: Commencement: Reg. 33 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-98811280f1fd332f9e8746bc33fc2c05]: Commencement: Reg. 34 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-98811280f1fd332f9e8746bc33fc2c05]: Commencement: Reg. 34 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-3d38705b3e32a68fe12108477f3c4bf5]: Commencement: Reg. 34 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-3d38705b3e32a68fe12108477f3c4bf5]: Commencement: Reg. 34 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-edecd0418ed27d54903e8c05379e07ee]: Commencement: Reg. 34 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-edecd0418ed27d54903e8c05379e07ee]: Commencement: Reg. 34 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-80451ee9cbdbc8c8293033a0306a54b2]: Commencement: Reg. 34 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-80451ee9cbdbc8c8293033a0306a54b2]: Commencement: Reg. 34 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-ab2e66109bbc04afefcd82bd8a73265d]: Commencement: Reg. 34 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-ab2e66109bbc04afefcd82bd8a73265d]: Commencement: Reg. 34 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-a7e0d3d0b525293ef481d3b061b3def2]: Commencement: Reg. 34 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-a7e0d3d0b525293ef481d3b061b3def2]: Commencement: Reg. 34 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-9750700be3a6252fc159848a17e51e7b]: Commencement: Reg. 35 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-9750700be3a6252fc159848a17e51e7b]: Commencement: Reg. 35 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-84a556ed3f8924fe30fc655b5a06878d]: Commencement: Reg. 35 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-84a556ed3f8924fe30fc655b5a06878d]: Commencement: Reg. 35 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-60dc03b14420700902b7171091bea125]: Commencement: Reg. 35 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-60dc03b14420700902b7171091bea125]: Commencement: Reg. 35 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-cdb671f565a5ed5be76d7bfb041c7f34]: Commencement: Reg. 35 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-cdb671f565a5ed5be76d7bfb041c7f34]: Commencement: Reg. 35 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-444e3b7c33ab91493ad6221cd99fd84b]: Commencement: Reg. 35 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-444e3b7c33ab91493ad6221cd99fd84b]: Commencement: Reg. 35 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-fd27323cf0f82c802b3884e3a6be2b9a]: Commencement: Reg. 35 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-fd27323cf0f82c802b3884e3a6be2b9a]: Commencement: Reg. 35 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-295ef62666adddb72ade192937b093a5]: Commencement: Reg. 36 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-295ef62666adddb72ade192937b093a5]: Commencement: Reg. 36 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-5700ba34449c6887a09b1cc8571699aa]: Commencement: Reg. 36 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-5700ba34449c6887a09b1cc8571699aa]: Commencement: Reg. 36 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-b8c2f3a2e299638d284f65e79a237247]: Commencement: Reg. 36 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-b8c2f3a2e299638d284f65e79a237247]: Commencement: Reg. 36 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-dc45f2735ac27927a51bf9f1c3f5410f]: Commencement: Reg. 36 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-dc45f2735ac27927a51bf9f1c3f5410f]: Commencement: Reg. 36 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-4452b7e437da21f81acb7a1861a38af2]: Commencement: Reg. 36 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-4452b7e437da21f81acb7a1861a38af2]: Commencement: Reg. 36 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-004a297e845ce557ea26dbdec5adaa2d]: Commencement: Reg. 36 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-004a297e845ce557ea26dbdec5adaa2d]: Commencement: Reg. 36 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00045]: Footnote: Section 30A was inserted by Article 3(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898))
 
@@ -1943,347 +1943,347 @@ As these Regulations are made by virtue of, or are consequential upon, provision
 
 [^f00047]: Footnote: Section 128 was amended by Article 12 of, and paragraph 32 of Schedule 1 to, the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 and paragraph 17 of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 (S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705))
 
-[^key-7e5933a6f34ec58c5f98330cb224d2ba]: Commencement: Reg. 37 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-7e5933a6f34ec58c5f98330cb224d2ba]: Commencement: Reg. 37 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-4dba0133609576de7e88e0135f0f510d]: Commencement: Reg. 37 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-4dba0133609576de7e88e0135f0f510d]: Commencement: Reg. 37 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-864cdddc5825a084fa65e1a9480e8cf8]: Commencement: Reg. 37 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-864cdddc5825a084fa65e1a9480e8cf8]: Commencement: Reg. 37 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-1807801d4a88f633b77826925e3251ff]: Commencement: Reg. 37 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-1807801d4a88f633b77826925e3251ff]: Commencement: Reg. 37 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-c5d4f2af5346e31b05e2afeebd4c9e6e]: Commencement: Reg. 37 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-c5d4f2af5346e31b05e2afeebd4c9e6e]: Commencement: Reg. 37 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-548b18308adf32409ac2d7557926e854]: Commencement: Reg. 37 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-548b18308adf32409ac2d7557926e854]: Commencement: Reg. 37 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-4ecc6244b50bad86f84119a5c57a154a]: Commencement: Reg. 38 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-4ecc6244b50bad86f84119a5c57a154a]: Commencement: Reg. 38 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-d6f076f19bbc874d2a628cc73b16a157]: Commencement: Reg. 38 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-d6f076f19bbc874d2a628cc73b16a157]: Commencement: Reg. 38 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-2f9239a9614a402b13b5f2c4d11eb7d6]: Commencement: Reg. 38 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-2f9239a9614a402b13b5f2c4d11eb7d6]: Commencement: Reg. 38 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-aa842cca8928105d25b7373f7a57b81a]: Commencement: Reg. 38 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-aa842cca8928105d25b7373f7a57b81a]: Commencement: Reg. 38 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-3f296bb38c820c5f3ae7c49c667d323f]: Commencement: Reg. 38 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-3f296bb38c820c5f3ae7c49c667d323f]: Commencement: Reg. 38 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-17a2c9183df6c2c0f6ef5732819b34be]: Commencement: Reg. 38 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-17a2c9183df6c2c0f6ef5732819b34be]: Commencement: Reg. 38 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-b6a4be9340a64ba543b15d4edfbfd3ee]: Commencement: Reg. 39 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-b6a4be9340a64ba543b15d4edfbfd3ee]: Commencement: Reg. 39 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-10a9920d8f6f25703ccb63e3316213e2]: Commencement: Reg. 39 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-10a9920d8f6f25703ccb63e3316213e2]: Commencement: Reg. 39 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-969fdafe4255b2d07f80d1f0ac2d9af0]: Commencement: Reg. 39 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-969fdafe4255b2d07f80d1f0ac2d9af0]: Commencement: Reg. 39 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-aaabf4a5705c395aca9b4d9ab82efc7d]: Commencement: Reg. 39 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-aaabf4a5705c395aca9b4d9ab82efc7d]: Commencement: Reg. 39 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-aae736b8ff3b34e18df417b580b940bc]: Commencement: Reg. 39 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-aae736b8ff3b34e18df417b580b940bc]: Commencement: Reg. 39 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-5add3315d915436913a47b21cacdbcb1]: Commencement: Reg. 39 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-5add3315d915436913a47b21cacdbcb1]: Commencement: Reg. 39 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-7673e4f3ff9da1e1ebd945d27123ac5d]: Commencement: Reg. 40 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-7673e4f3ff9da1e1ebd945d27123ac5d]: Commencement: Reg. 40 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-6c4856da581638f9369e17e30c20cca8]: Commencement: Reg. 40 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-6c4856da581638f9369e17e30c20cca8]: Commencement: Reg. 40 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-9f32fd6dc8e09c6ff57a8369bbd8d01e]: Commencement: Reg. 40 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-9f32fd6dc8e09c6ff57a8369bbd8d01e]: Commencement: Reg. 40 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-fe29bc846b7ee1a226578d3d5d648701]: Commencement: Reg. 40 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-fe29bc846b7ee1a226578d3d5d648701]: Commencement: Reg. 40 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-c8f42ada4d9d09a36533fbeb3799e229]: Commencement: Reg. 40 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-c8f42ada4d9d09a36533fbeb3799e229]: Commencement: Reg. 40 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-95986a56826a17fb02ce4536a5d3668b]: Commencement: Reg. 40 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-95986a56826a17fb02ce4536a5d3668b]: Commencement: Reg. 40 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-076dd601dd4e0e3c5710824efede79cb]: Commencement: Reg. 41 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-076dd601dd4e0e3c5710824efede79cb]: Commencement: Reg. 41 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-161c6fb88e2d29bc5715200cae4e185d]: Commencement: Reg. 41 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-161c6fb88e2d29bc5715200cae4e185d]: Commencement: Reg. 41 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-ccf2d55a7bf8f838bc5347ad0183af9c]: Commencement: Reg. 41 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-ccf2d55a7bf8f838bc5347ad0183af9c]: Commencement: Reg. 41 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-3cf09376559045f192daeec4a3a09d32]: Commencement: Reg. 41 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-3cf09376559045f192daeec4a3a09d32]: Commencement: Reg. 41 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-629cd4b1988dda6a44fbcac9c84ef1ad]: Commencement: Reg. 41 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-629cd4b1988dda6a44fbcac9c84ef1ad]: Commencement: Reg. 41 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-a6fd414e5292bb7884a28de8a61aefc7]: Commencement: Reg. 41 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-a6fd414e5292bb7884a28de8a61aefc7]: Commencement: Reg. 41 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-740c6028dc842ceeaaf71f8751681cda]: Commencement: Reg. 42 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-740c6028dc842ceeaaf71f8751681cda]: Commencement: Reg. 42 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-98a8119808000e6afa2bb06e68fb8e2b]: Commencement: Reg. 42 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-98a8119808000e6afa2bb06e68fb8e2b]: Commencement: Reg. 42 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-0e07498db9ed89ec90e4e260918ed5c6]: Commencement: Reg. 42 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-0e07498db9ed89ec90e4e260918ed5c6]: Commencement: Reg. 42 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-18f28011bf993da9bb3c05930eeab1e2]: Commencement: Reg. 42 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-18f28011bf993da9bb3c05930eeab1e2]: Commencement: Reg. 42 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-4b1aeba9784595954be3620e24a49b70]: Commencement: Reg. 42 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-4b1aeba9784595954be3620e24a49b70]: Commencement: Reg. 42 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-b7a3606d6d9a6da570915a9a9748c67a]: Commencement: Reg. 42 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-b7a3606d6d9a6da570915a9a9748c67a]: Commencement: Reg. 42 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-3f336d1608e32b7898303e745d023a2f]: Commencement: Reg. 43 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-3f336d1608e32b7898303e745d023a2f]: Commencement: Reg. 43 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-f5a076a3b8b2be96a5507022e1f857cb]: Commencement: Reg. 43 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-f5a076a3b8b2be96a5507022e1f857cb]: Commencement: Reg. 43 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-6111cb14701f8e587510254a46149f72]: Commencement: Reg. 43 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-6111cb14701f8e587510254a46149f72]: Commencement: Reg. 43 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-01c6d77db50ebe3d18ed6719ba3d64b7]: Commencement: Reg. 43 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-01c6d77db50ebe3d18ed6719ba3d64b7]: Commencement: Reg. 43 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-7914517f959dbdbd6bc7cb8a9552c877]: Commencement: Reg. 43 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-7914517f959dbdbd6bc7cb8a9552c877]: Commencement: Reg. 43 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-1186c0d731cc59ac73847830723c8ea5]: Commencement: Reg. 43 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-1186c0d731cc59ac73847830723c8ea5]: Commencement: Reg. 43 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-7a20d5327076a76a5342c9cf0f2a55a5]: Commencement: Reg. 44 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-7a20d5327076a76a5342c9cf0f2a55a5]: Commencement: Reg. 44 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-f4b235112c64156a7a4d7a28a5dca07f]: Commencement: Reg. 44 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-f4b235112c64156a7a4d7a28a5dca07f]: Commencement: Reg. 44 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-562e744aebcb6d704fd92c221122a327]: Commencement: Reg. 44 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-562e744aebcb6d704fd92c221122a327]: Commencement: Reg. 44 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-ac67822ea0f92b1244a77914655820e4]: Commencement: Reg. 44 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-ac67822ea0f92b1244a77914655820e4]: Commencement: Reg. 44 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-b4a97872b06674aa78df25b0f39bc44f]: Commencement: Reg. 44 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-b4a97872b06674aa78df25b0f39bc44f]: Commencement: Reg. 44 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-06b06a376b67b229c1e960903b6e77b4]: Commencement: Reg. 44 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-06b06a376b67b229c1e960903b6e77b4]: Commencement: Reg. 44 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-685a2148c9c3b44e5a9da0fbb4310819]: Commencement: Reg. 45 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-685a2148c9c3b44e5a9da0fbb4310819]: Commencement: Reg. 45 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-92f0aeaf6c7a69bcc95fa1ea7737087b]: Commencement: Reg. 45 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-92f0aeaf6c7a69bcc95fa1ea7737087b]: Commencement: Reg. 45 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-bad7b6ec57d39aad89fd57506714c2ec]: Commencement: Reg. 45 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-bad7b6ec57d39aad89fd57506714c2ec]: Commencement: Reg. 45 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-3e5cf10a7db3c0a5818bd713dab46d89]: Commencement: Reg. 45 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-3e5cf10a7db3c0a5818bd713dab46d89]: Commencement: Reg. 45 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-eb51208acf8bccf015c57034fc49f469]: Commencement: Reg. 45 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-eb51208acf8bccf015c57034fc49f469]: Commencement: Reg. 45 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-2e5605d88d94233490dd1fa0dc4a5165]: Commencement: Reg. 45 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-2e5605d88d94233490dd1fa0dc4a5165]: Commencement: Reg. 45 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-83b020237f15e32fd9a2b5c7bd23c1d8]: Commencement: Reg. 46 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-83b020237f15e32fd9a2b5c7bd23c1d8]: Commencement: Reg. 46 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-c5540f5bb19e4c0106a2f6294de62bd1]: Commencement: Reg. 46 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-c5540f5bb19e4c0106a2f6294de62bd1]: Commencement: Reg. 46 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-e648c388380fd5bdac59b79e9f9e503f]: Commencement: Reg. 46 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-e648c388380fd5bdac59b79e9f9e503f]: Commencement: Reg. 46 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-24718bb36895f4ad64e70e6cf70cf038]: Commencement: Reg. 46 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-24718bb36895f4ad64e70e6cf70cf038]: Commencement: Reg. 46 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-8a374cffa4d2dca047d7bf5a4cca745b]: Commencement: Reg. 46 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-8a374cffa4d2dca047d7bf5a4cca745b]: Commencement: Reg. 46 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-4ae6455e723622dcc40728d82fbc1497]: Commencement: Reg. 46 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-4ae6455e723622dcc40728d82fbc1497]: Commencement: Reg. 46 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-cbd838c5af52467f408f07cd0e87a525]: Commencement: Reg. 47 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-cbd838c5af52467f408f07cd0e87a525]: Commencement: Reg. 47 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-21276edfd0357f3fee048852a7e12bb2]: Commencement: Reg. 47 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-21276edfd0357f3fee048852a7e12bb2]: Commencement: Reg. 47 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-899c681ad79099d6947e7589ef3a9df1]: Commencement: Reg. 47 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-899c681ad79099d6947e7589ef3a9df1]: Commencement: Reg. 47 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-72492e56fc539b8ed1b7d375d0d17fe7]: Commencement: Reg. 47 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-72492e56fc539b8ed1b7d375d0d17fe7]: Commencement: Reg. 47 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-0dadc5936b5796acefed634fe86ee435]: Commencement: Reg. 47 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-0dadc5936b5796acefed634fe86ee435]: Commencement: Reg. 47 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-5381928e129f32e432790e720861f76e]: Commencement: Reg. 47 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-5381928e129f32e432790e720861f76e]: Commencement: Reg. 47 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-d861073e94aa591c36cbf9ccd2cfefe8]: Commencement: Reg. 48 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-d861073e94aa591c36cbf9ccd2cfefe8]: Commencement: Reg. 48 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-e7c8d20e086e73da647ad35096cb7031]: Commencement: Reg. 48 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-e7c8d20e086e73da647ad35096cb7031]: Commencement: Reg. 48 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-1706f2f012c43194057e3d671cceffbe]: Commencement: Reg. 48 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-1706f2f012c43194057e3d671cceffbe]: Commencement: Reg. 48 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-d17a02c0613d4374c93261cec3e30c25]: Commencement: Reg. 48 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-d17a02c0613d4374c93261cec3e30c25]: Commencement: Reg. 48 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-7aa7d305c7e6bafb9888dcc2f6fa81cd]: Commencement: Reg. 48 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-7aa7d305c7e6bafb9888dcc2f6fa81cd]: Commencement: Reg. 48 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-f2335790fed090bdb208168ee59a4dc0]: Commencement: Reg. 48 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-f2335790fed090bdb208168ee59a4dc0]: Commencement: Reg. 48 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-97e7a251b7f2552c13aaa8af538a20be]: Commencement: Reg. 49 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-97e7a251b7f2552c13aaa8af538a20be]: Commencement: Reg. 49 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-c4f3064ea55b272985c81aa019544d3a]: Commencement: Reg. 49 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-c4f3064ea55b272985c81aa019544d3a]: Commencement: Reg. 49 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-e697056a57348cdb0aaf00ebbc2b3af7]: Commencement: Reg. 49 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-e697056a57348cdb0aaf00ebbc2b3af7]: Commencement: Reg. 49 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-e4247179b4e1d4bacb59bdf3e18ba655]: Commencement: Reg. 49 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-e4247179b4e1d4bacb59bdf3e18ba655]: Commencement: Reg. 49 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-9f2b32a00358b33b92ca4f04e99c867a]: Commencement: Reg. 49 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-9f2b32a00358b33b92ca4f04e99c867a]: Commencement: Reg. 49 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-f1f3d5cac361e2e9e0f8d633463433d7]: Commencement: Reg. 49 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-f1f3d5cac361e2e9e0f8d633463433d7]: Commencement: Reg. 49 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-3e5f84b809fc167b182c6139e6a44fac]: Commencement: Reg. 50 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-3e5f84b809fc167b182c6139e6a44fac]: Commencement: Reg. 50 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-923ea475dd89d9fa84191bab8088afd6]: Commencement: Reg. 50 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-923ea475dd89d9fa84191bab8088afd6]: Commencement: Reg. 50 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-09e12066e6d292a13c49435894434665]: Commencement: Reg. 50 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-09e12066e6d292a13c49435894434665]: Commencement: Reg. 50 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-5874ddc309282524a8b417c54b360397]: Commencement: Reg. 50 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-5874ddc309282524a8b417c54b360397]: Commencement: Reg. 50 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-9af822aeeac553424e5734bd4b3ec2d5]: Commencement: Reg. 50 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-9af822aeeac553424e5734bd4b3ec2d5]: Commencement: Reg. 50 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-198e94c8a8f69ce3c6d225c8906d12a3]: Commencement: Reg. 50 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-198e94c8a8f69ce3c6d225c8906d12a3]: Commencement: Reg. 50 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-56f3335313dba16517071f67e6299a3c]: Commencement: Reg. 51 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-56f3335313dba16517071f67e6299a3c]: Commencement: Reg. 51 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-6a357ebbe4113aa857e4854d96e8c813]: Commencement: Reg. 51 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-6a357ebbe4113aa857e4854d96e8c813]: Commencement: Reg. 51 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-8caf3d63ffbe269a045158ccb078c131]: Commencement: Reg. 51 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-8caf3d63ffbe269a045158ccb078c131]: Commencement: Reg. 51 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-da8b20491df83fcde4338c7b617394f3]: Commencement: Reg. 51 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-da8b20491df83fcde4338c7b617394f3]: Commencement: Reg. 51 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-da45ba18b27a8e7aa8eedd83c8c401da]: Commencement: Reg. 51 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-da45ba18b27a8e7aa8eedd83c8c401da]: Commencement: Reg. 51 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-a5f92c364e82c03e7b0920fbfb24f3cb]: Commencement: Reg. 51 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-a5f92c364e82c03e7b0920fbfb24f3cb]: Commencement: Reg. 51 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-c5fe11185781081248e58e1c628ebac5]: Commencement: Reg. 52 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-c5fe11185781081248e58e1c628ebac5]: Commencement: Reg. 52 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-1e646e0703c3c12b3d99f0966477c1a5]: Commencement: Reg. 52 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-1e646e0703c3c12b3d99f0966477c1a5]: Commencement: Reg. 52 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-63a19271eb2256a1addc43dba185fc94]: Commencement: Reg. 52 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-63a19271eb2256a1addc43dba185fc94]: Commencement: Reg. 52 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-68fd39d0071c4d4d7d88fb78e32eabc7]: Commencement: Reg. 52 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-68fd39d0071c4d4d7d88fb78e32eabc7]: Commencement: Reg. 52 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-8fa729e6ac2db35362b9cf1dd40e3e9f]: Commencement: Reg. 52 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-8fa729e6ac2db35362b9cf1dd40e3e9f]: Commencement: Reg. 52 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-224fdfb5b57aeff493d0780f5a619ff9]: Commencement: Reg. 52 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-224fdfb5b57aeff493d0780f5a619ff9]: Commencement: Reg. 52 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-6c96a700f592cd7115032ed0b9f7a4cf]: Commencement: Reg. 53 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-6c96a700f592cd7115032ed0b9f7a4cf]: Commencement: Reg. 53 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-e95f227274e35a3f82c54a5367523ac9]: Commencement: Reg. 53 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-e95f227274e35a3f82c54a5367523ac9]: Commencement: Reg. 53 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-061a2b7adb0ee213498284d84d17fd15]: Commencement: Reg. 53 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-061a2b7adb0ee213498284d84d17fd15]: Commencement: Reg. 53 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-c2a179ebbe6b7f736c9421e7c11a5015]: Commencement: Reg. 53 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-c2a179ebbe6b7f736c9421e7c11a5015]: Commencement: Reg. 53 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-d7448fb63e233a6e0b1d6886d31292ee]: Commencement: Reg. 53 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-d7448fb63e233a6e0b1d6886d31292ee]: Commencement: Reg. 53 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-4d70f6a55b3c74980ea4cacafff2040b]: Commencement: Reg. 53 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-4d70f6a55b3c74980ea4cacafff2040b]: Commencement: Reg. 53 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-bde636dac65af0bf3dd527ac7d8caf64]: Commencement: Reg. 54 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-bde636dac65af0bf3dd527ac7d8caf64]: Commencement: Reg. 54 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-2672a20a8395923b3ef6a2e00108d025]: Commencement: Reg. 54 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-2672a20a8395923b3ef6a2e00108d025]: Commencement: Reg. 54 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-32790ece47ff429b7bddcabd9337fdc6]: Commencement: Reg. 54 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-32790ece47ff429b7bddcabd9337fdc6]: Commencement: Reg. 54 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-b2d5942232ed571c720196ba876d7705]: Commencement: Reg. 54 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-b2d5942232ed571c720196ba876d7705]: Commencement: Reg. 54 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-ed808c0985a6d80455aebe840862a5a0]: Commencement: Reg. 54 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-ed808c0985a6d80455aebe840862a5a0]: Commencement: Reg. 54 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-3487835605632ed53518940e01012469]: Commencement: Reg. 54 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-3487835605632ed53518940e01012469]: Commencement: Reg. 54 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00048]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14)
 
-[^key-30075db27435049457978f372b424096]: Commencement: Reg. 55 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-30075db27435049457978f372b424096]: Commencement: Reg. 55 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-891caee369721b3f70f939c41cb7c86e]: Commencement: Reg. 55 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-891caee369721b3f70f939c41cb7c86e]: Commencement: Reg. 55 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-34323cc0ff9070fc2e8b7d19bac2476e]: Commencement: Reg. 55 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-34323cc0ff9070fc2e8b7d19bac2476e]: Commencement: Reg. 55 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-ae214dc72bb05bc4a51f70f5d53e650b]: Commencement: Reg. 55 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-ae214dc72bb05bc4a51f70f5d53e650b]: Commencement: Reg. 55 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-ce99880728d13741f48df5401f53da57]: Commencement: Reg. 55 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-ce99880728d13741f48df5401f53da57]: Commencement: Reg. 55 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-74657275ed2938745f6ad0d0dd8a89e5]: Commencement: Reg. 55 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-74657275ed2938745f6ad0d0dd8a89e5]: Commencement: Reg. 55 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-18e1afeac14a8561f3fc040f043c727a]: Commencement: Reg. 56 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-18e1afeac14a8561f3fc040f043c727a]: Commencement: Reg. 56 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-58337af480d3db948a9f9f865558cd3d]: Commencement: Reg. 56 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-58337af480d3db948a9f9f865558cd3d]: Commencement: Reg. 56 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-b999a1e9ef458fd8d3aaf2bc3a31c49b]: Commencement: Reg. 56 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-b999a1e9ef458fd8d3aaf2bc3a31c49b]: Commencement: Reg. 56 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-b1441de13bbb6be993213f89eb4ceff1]: Commencement: Reg. 56 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-b1441de13bbb6be993213f89eb4ceff1]: Commencement: Reg. 56 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-e470eacc50e5be4f624304f6b54bee31]: Commencement: Reg. 56 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-e470eacc50e5be4f624304f6b54bee31]: Commencement: Reg. 56 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-e440f552890926da238ef0995190f70b]: Commencement: Reg. 56 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-e440f552890926da238ef0995190f70b]: Commencement: Reg. 56 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-b7f2a2799dbb80a96879431475d9cffd]: Commencement: Reg. 57 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-b7f2a2799dbb80a96879431475d9cffd]: Commencement: Reg. 57 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-4ca11adc9f781fce12b1ee42f6abd31f]: Commencement: Reg. 57 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-4ca11adc9f781fce12b1ee42f6abd31f]: Commencement: Reg. 57 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-e1db0eede9f71c4aa49d5c70b6cff1d9]: Commencement: Reg. 57 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-e1db0eede9f71c4aa49d5c70b6cff1d9]: Commencement: Reg. 57 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-cc755773faefe1d48e52fe111074527b]: Commencement: Reg. 57 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-cc755773faefe1d48e52fe111074527b]: Commencement: Reg. 57 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-0ea631cc9f68c5bd2e5ff3dbbc6e3255]: Commencement: Reg. 57 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-0ea631cc9f68c5bd2e5ff3dbbc6e3255]: Commencement: Reg. 57 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-5d15d45c15d14068ab757df87f32d082]: Commencement: Reg. 57 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-5d15d45c15d14068ab757df87f32d082]: Commencement: Reg. 57 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-ec319a2b1c0ecea65ccbd1a7a8d9149d]: Commencement: Reg. 58 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-ec319a2b1c0ecea65ccbd1a7a8d9149d]: Commencement: Reg. 58 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-10c34520e15b652cd2024903affc6682]: Commencement: Reg. 58 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-10c34520e15b652cd2024903affc6682]: Commencement: Reg. 58 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-26d487fcd2d921d6901fbffc238578cc]: Commencement: Reg. 58 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-26d487fcd2d921d6901fbffc238578cc]: Commencement: Reg. 58 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-0f01a0488b0eb434467b8de2a05d2dd7]: Commencement: Reg. 58 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-0f01a0488b0eb434467b8de2a05d2dd7]: Commencement: Reg. 58 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-3a5cb5c76a1f50c1ea8d56b14792c025]: Commencement: Reg. 58 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-3a5cb5c76a1f50c1ea8d56b14792c025]: Commencement: Reg. 58 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-56eb4cb83311fb379534c383f7ee5b37]: Commencement: Reg. 58 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-56eb4cb83311fb379534c383f7ee5b37]: Commencement: Reg. 58 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-424500c1533664de6433cab85f3ae540]: Commencement: Reg. 59 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-424500c1533664de6433cab85f3ae540]: Commencement: Reg. 59 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-f005c34715073961cb6e557ed40ac02d]: Commencement: Reg. 59 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-f005c34715073961cb6e557ed40ac02d]: Commencement: Reg. 59 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-f332ebbc00f1539c100cbc253131991f]: Commencement: Reg. 59 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-f332ebbc00f1539c100cbc253131991f]: Commencement: Reg. 59 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-37f6618af5ccce59484833dd312376fa]: Commencement: Reg. 59 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-37f6618af5ccce59484833dd312376fa]: Commencement: Reg. 59 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-ba0b2c1745f4474434b869d65cb115f0]: Commencement: Reg. 59 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-ba0b2c1745f4474434b869d65cb115f0]: Commencement: Reg. 59 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-f4c25eabed4e95368789eb358b614c63]: Commencement: Reg. 59 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-f4c25eabed4e95368789eb358b614c63]: Commencement: Reg. 59 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-aa9dfe379fd4e4e8d6519454f79cc8b1]: Commencement: Sch. 1 para. 1 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-aa9dfe379fd4e4e8d6519454f79cc8b1]: Commencement: Sch. 1 para. 1 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-355c5d83885040cbb4025506f6129461]: Commencement: Sch. 1 para. 1 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-355c5d83885040cbb4025506f6129461]: Commencement: Sch. 1 para. 1 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-99f28e6399be7dcf752ccad37e16e92b]: Commencement: Sch. 1 para. 1 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-99f28e6399be7dcf752ccad37e16e92b]: Commencement: Sch. 1 para. 1 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-86945fe8cc9d9dcb913639b7cacc3b92]: Commencement: Sch. 1 para. 1 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-86945fe8cc9d9dcb913639b7cacc3b92]: Commencement: Sch. 1 para. 1 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-41aafc7c2c0625d5ad2a07cafd9cff12]: Commencement: Sch. 1 para. 1 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-41aafc7c2c0625d5ad2a07cafd9cff12]: Commencement: Sch. 1 para. 1 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-d45077f47d00e5e6270f1d2737c20782]: Commencement: Sch. 1 para. 1 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-d45077f47d00e5e6270f1d2737c20782]: Commencement: Sch. 1 para. 1 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-d9c0079c47ff8add507567acadb0b6aa]: Commencement: Sch. 1 para. 2 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-d9c0079c47ff8add507567acadb0b6aa]: Commencement: Sch. 1 para. 2 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-508c27fc044a63ddd63ab865b5c5eda4]: Commencement: Sch. 1 para. 2 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-508c27fc044a63ddd63ab865b5c5eda4]: Commencement: Sch. 1 para. 2 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-d1cb4b66b5a49df68b83d3a7077d4601]: Commencement: Sch. 1 para. 2 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-d1cb4b66b5a49df68b83d3a7077d4601]: Commencement: Sch. 1 para. 2 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-39951ecc4ff48006e73f315d0eb9b51a]: Commencement: Sch. 1 para. 2 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-39951ecc4ff48006e73f315d0eb9b51a]: Commencement: Sch. 1 para. 2 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-11804d7e3d7f5913aef3b32363bf0124]: Commencement: Sch. 1 para. 2 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-11804d7e3d7f5913aef3b32363bf0124]: Commencement: Sch. 1 para. 2 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-ca12fd5cff97cc3e6a75c32bdfb68c0c]: Commencement: Sch. 1 para. 2 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-ca12fd5cff97cc3e6a75c32bdfb68c0c]: Commencement: Sch. 1 para. 2 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-b822e0af4f68d8abe1fc463607a40276]: Commencement: Sch. 1 para. 3 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-b822e0af4f68d8abe1fc463607a40276]: Commencement: Sch. 1 para. 3 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-55d926410001589c5a853659ce86dc63]: Commencement: Sch. 1 para. 3 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-55d926410001589c5a853659ce86dc63]: Commencement: Sch. 1 para. 3 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-ec29158806e6f69369ec46de584be303]: Commencement: Sch. 1 para. 3 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-ec29158806e6f69369ec46de584be303]: Commencement: Sch. 1 para. 3 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-ccaddb1a598b0eefdb0c6d5347f82d38]: Commencement: Sch. 1 para. 3 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-ccaddb1a598b0eefdb0c6d5347f82d38]: Commencement: Sch. 1 para. 3 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-81a38382814b1b3e14a4d2f701d93cf3]: Commencement: Sch. 1 para. 3 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-81a38382814b1b3e14a4d2f701d93cf3]: Commencement: Sch. 1 para. 3 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-0c6466b945e7f30e754d28041f0909db]: Commencement: Sch. 1 para. 3 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-0c6466b945e7f30e754d28041f0909db]: Commencement: Sch. 1 para. 3 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00049]: Footnote: [S.R. 1976 No. 227](https://www.legislation.gov.uk/nisr/1976/227), to which there are amendments not relevant to these regulations
 
-[^key-15f2a9fd668bea59f96fa499fa21e1b4]: Commencement: Sch. 1 para. 4 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-15f2a9fd668bea59f96fa499fa21e1b4]: Commencement: Sch. 1 para. 4 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-a65377c5129a40d9fd2fb38150591124]: Commencement: Sch. 1 para. 4 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-a65377c5129a40d9fd2fb38150591124]: Commencement: Sch. 1 para. 4 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-0b2d8bbc68dce27da030d90b328106be]: Commencement: Sch. 1 para. 4 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-0b2d8bbc68dce27da030d90b328106be]: Commencement: Sch. 1 para. 4 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-16a7b049b6744b9129a0533652b1bc0a]: Commencement: Sch. 1 para. 4 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-16a7b049b6744b9129a0533652b1bc0a]: Commencement: Sch. 1 para. 4 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-230f57c972923f818d42990dad22ad98]: Commencement: Sch. 1 para. 4 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-230f57c972923f818d42990dad22ad98]: Commencement: Sch. 1 para. 4 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-2f1d424be2361628d36f2cedb55d54a9]: Commencement: Sch. 1 para. 4 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-2f1d424be2361628d36f2cedb55d54a9]: Commencement: Sch. 1 para. 4 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00050]: Footnote: [S.R. 1979 No. 5](https://www.legislation.gov.uk/nisr/1979/5), to which there are amendments not relevant to these regulations
 
-[^key-876effa29eb72452a5466842a62d6dee]: Commencement: Sch. 1 para. 5 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-876effa29eb72452a5466842a62d6dee]: Commencement: Sch. 1 para. 5 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-a7993dfc483620d1a2b78771ec3b0a79]: Commencement: Sch. 1 para. 5 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-a7993dfc483620d1a2b78771ec3b0a79]: Commencement: Sch. 1 para. 5 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-5f248be8cd5857e9174b0ce71465241f]: Commencement: Sch. 1 para. 5 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-5f248be8cd5857e9174b0ce71465241f]: Commencement: Sch. 1 para. 5 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-a03c1951a0b649f4a6229f7df6ae83de]: Commencement: Sch. 1 para. 5 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-a03c1951a0b649f4a6229f7df6ae83de]: Commencement: Sch. 1 para. 5 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-e5f80f0bc9d11097e6b70e7baa712cab]: Commencement: Sch. 1 para. 5 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-e5f80f0bc9d11097e6b70e7baa712cab]: Commencement: Sch. 1 para. 5 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-4452d76492516698cc8a6aeb8660ef7c]: Commencement: Sch. 1 para. 5 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-4452d76492516698cc8a6aeb8660ef7c]: Commencement: Sch. 1 para. 5 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00051]: Footnote: Regulation 19 was substituted by regulation 3(7) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156) and amended by [S.R. 1997 No. 417](https://www.legislation.gov.uk/nisr/1997/417)
 
@@ -2301,267 +2301,267 @@ As these Regulations are made by virtue of, or are consequential upon, provision
 
 [^f00058]: Footnote: Paragraph 9(3) was inserted by regulation 2(8)(d)(ii) of [S.R. 1996 No. 432](https://www.legislation.gov.uk/nisr/1996/432)
 
-[^key-5cf152c1a992df025a3d04e013823af0]: Commencement: Sch. 1 para. 6 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-5cf152c1a992df025a3d04e013823af0]: Commencement: Sch. 1 para. 6 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-182bfb54b96390c46ece99bded38052b]: Commencement: Sch. 1 para. 6 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-182bfb54b96390c46ece99bded38052b]: Commencement: Sch. 1 para. 6 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-b06a952c0b61b658223941c4baab4499]: Commencement: Sch. 1 para. 6 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-b06a952c0b61b658223941c4baab4499]: Commencement: Sch. 1 para. 6 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-4c5a78cba02c0e144c0e8f090e9fbdf5]: Commencement: Sch. 1 para. 6 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-4c5a78cba02c0e144c0e8f090e9fbdf5]: Commencement: Sch. 1 para. 6 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-bbb889d43aaf12ed00c2eb616c9f9a04]: Commencement: Sch. 1 para. 6 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-bbb889d43aaf12ed00c2eb616c9f9a04]: Commencement: Sch. 1 para. 6 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-ee2d56cd1f6c497b0261c89fc4d5fa35]: Commencement: Sch. 1 para. 6 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-ee2d56cd1f6c497b0261c89fc4d5fa35]: Commencement: Sch. 1 para. 6 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00059]: Footnote: Section 105 was amended by Article 55 of the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
 
-[^key-68838a0e1ba3e6601c742a05dfd7e158]: Commencement: Sch. 1 para. 7 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-68838a0e1ba3e6601c742a05dfd7e158]: Commencement: Sch. 1 para. 7 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-a900f83b3e8d5e8487e4013258e626b6]: Commencement: Sch. 1 para. 7 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-a900f83b3e8d5e8487e4013258e626b6]: Commencement: Sch. 1 para. 7 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-76125e63a46634c128b8b0a2bd625ebd]: Commencement: Sch. 1 para. 7 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-76125e63a46634c128b8b0a2bd625ebd]: Commencement: Sch. 1 para. 7 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-5adff4f6239541a1e34b08de53a3cd1b]: Commencement: Sch. 1 para. 7 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-5adff4f6239541a1e34b08de53a3cd1b]: Commencement: Sch. 1 para. 7 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-8037664427e398580cfd110956204487]: Commencement: Sch. 1 para. 7 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-8037664427e398580cfd110956204487]: Commencement: Sch. 1 para. 7 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-d7b9923e992daf0961c5ee3a3cd550b0]: Commencement: Sch. 1 para. 7 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-d7b9923e992daf0961c5ee3a3cd550b0]: Commencement: Sch. 1 para. 7 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-3a3ed4cef6145f4d6abc0869da0570fa]: Commencement: Sch. 1 para. 8 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-3a3ed4cef6145f4d6abc0869da0570fa]: Commencement: Sch. 1 para. 8 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-7b1222bf09e017d230f6080f222b3631]: Commencement: Sch. 1 para. 8 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-7b1222bf09e017d230f6080f222b3631]: Commencement: Sch. 1 para. 8 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-fc5ede2464403215fb38da677c19ccd8]: Commencement: Sch. 1 para. 8 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-fc5ede2464403215fb38da677c19ccd8]: Commencement: Sch. 1 para. 8 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-8bb48af74c019b86f8fdbdab7d1c9614]: Commencement: Sch. 1 para. 8 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-8bb48af74c019b86f8fdbdab7d1c9614]: Commencement: Sch. 1 para. 8 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-235ed5a705b45d41af5d5657df55d8c7]: Commencement: Sch. 1 para. 8 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-235ed5a705b45d41af5d5657df55d8c7]: Commencement: Sch. 1 para. 8 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-3d9e4d52dd8d53278497c4ee607c4c74]: Commencement: Sch. 1 para. 8 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-3d9e4d52dd8d53278497c4ee607c4c74]: Commencement: Sch. 1 para. 8 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00060]: Footnote: O.J. No. L149/2, 5.7.1971 (O.J./S.E. 1971 (II) p. 416)
 
-[^key-1b735a98e7e529b1788c0c64adf568fd]: Commencement: Sch. 1 para. 9 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-1b735a98e7e529b1788c0c64adf568fd]: Commencement: Sch. 1 para. 9 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-dea073b34b1dd1b6859bccf8e7aad18d]: Commencement: Sch. 1 para. 9 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-dea073b34b1dd1b6859bccf8e7aad18d]: Commencement: Sch. 1 para. 9 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-1c9f65633a32b25582648cc24aa61526]: Commencement: Sch. 1 para. 9 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-1c9f65633a32b25582648cc24aa61526]: Commencement: Sch. 1 para. 9 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-02c4def70ed9ed4bc22907b4e74170f3]: Commencement: Sch. 1 para. 9 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-02c4def70ed9ed4bc22907b4e74170f3]: Commencement: Sch. 1 para. 9 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-dbe5f8b83e46ad82a16b05e3a176935c]: Commencement: Sch. 1 para. 9 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-dbe5f8b83e46ad82a16b05e3a176935c]: Commencement: Sch. 1 para. 9 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-67612c6d82c9342bbd9244693bc41e2d]: Commencement: Sch. 1 para. 9 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-67612c6d82c9342bbd9244693bc41e2d]: Commencement: Sch. 1 para. 9 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00061]: Footnote: Section 156 was amended by paragraph 49 of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995 (S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)) and paragraph 8 of Schedule 3 to the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 (S.I. [1997/1183 (N.I. 12)](https://www.legislation.gov.uk/nisi/1997/1183))
 
-[^key-cd2e4ae8036e7ecf1d020f693d8dc670]: Commencement: Sch. 1 para. 10 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-cd2e4ae8036e7ecf1d020f693d8dc670]: Commencement: Sch. 1 para. 10 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-79abba5d46eb69ec4403749e36108bb8]: Commencement: Sch. 1 para. 10 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-79abba5d46eb69ec4403749e36108bb8]: Commencement: Sch. 1 para. 10 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-eb0acde6fc2120059719882bfcea876c]: Commencement: Sch. 1 para. 10 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-eb0acde6fc2120059719882bfcea876c]: Commencement: Sch. 1 para. 10 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-0d8d52a94a16e431607cea17b7359785]: Commencement: Sch. 1 para. 10 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-0d8d52a94a16e431607cea17b7359785]: Commencement: Sch. 1 para. 10 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-348b31f1051c0f650e624a2cfcd7e93d]: Commencement: Sch. 1 para. 10 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-348b31f1051c0f650e624a2cfcd7e93d]: Commencement: Sch. 1 para. 10 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-5578a9ce92505135227dfce6c2814f87]: Commencement: Sch. 1 para. 10 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-5578a9ce92505135227dfce6c2814f87]: Commencement: Sch. 1 para. 10 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00062]: Footnote: [S.R. 1975 No. 98](https://www.legislation.gov.uk/nisr/1975/98), to which there are amendments not relevant to these regulations
 
-[^key-e1edaf3696afd32f853af90cf32a9b35]: Commencement: Sch. 1 para. 11 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-e1edaf3696afd32f853af90cf32a9b35]: Commencement: Sch. 1 para. 11 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-2daf5a170dc8cec3768b41cc3f69da15]: Commencement: Sch. 1 para. 11 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-2daf5a170dc8cec3768b41cc3f69da15]: Commencement: Sch. 1 para. 11 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-13ee156eb6f95a74ed3c366d2376c4f0]: Commencement: Sch. 1 para. 11 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-13ee156eb6f95a74ed3c366d2376c4f0]: Commencement: Sch. 1 para. 11 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-176b21ee697e251e41d7a3cfd4edd4fb]: Commencement: Sch. 1 para. 11 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-176b21ee697e251e41d7a3cfd4edd4fb]: Commencement: Sch. 1 para. 11 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-c4ecfcc0f6814a6ba5f92936a2cbdb5e]: Commencement: Sch. 1 para. 11 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-c4ecfcc0f6814a6ba5f92936a2cbdb5e]: Commencement: Sch. 1 para. 11 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-584d3fa9320a7310b7bd5bb200f82545]: Commencement: Sch. 1 para. 11 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-584d3fa9320a7310b7bd5bb200f82545]: Commencement: Sch. 1 para. 11 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-fbdabdaf27fef9593a74d150be456a99]: Commencement: Sch. 1 para. 12 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-fbdabdaf27fef9593a74d150be456a99]: Commencement: Sch. 1 para. 12 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-849e93f5d940dd5c1c9421435c80efd4]: Commencement: Sch. 1 para. 12 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-849e93f5d940dd5c1c9421435c80efd4]: Commencement: Sch. 1 para. 12 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-1762ca7305ff61502f4daa2ee8eb49f8]: Commencement: Sch. 1 para. 12 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-1762ca7305ff61502f4daa2ee8eb49f8]: Commencement: Sch. 1 para. 12 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-776cbaf5ced588e6a29903c41e0e871e]: Commencement: Sch. 1 para. 12 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-776cbaf5ced588e6a29903c41e0e871e]: Commencement: Sch. 1 para. 12 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-00179913e458581d329fe5dfabd09495]: Commencement: Sch. 1 para. 12 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-00179913e458581d329fe5dfabd09495]: Commencement: Sch. 1 para. 12 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-edc8cb0879407435bfa49ff1a529317f]: Commencement: Sch. 1 para. 12 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-edc8cb0879407435bfa49ff1a529317f]: Commencement: Sch. 1 para. 12 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-0179edfae3ad7b06b6ab70870e081ee2]: Commencement: Sch. 1 para. 13 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-0179edfae3ad7b06b6ab70870e081ee2]: Commencement: Sch. 1 para. 13 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-93c64d3141725c8a54f955f1c76be6cc]: Commencement: Sch. 1 para. 13 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-93c64d3141725c8a54f955f1c76be6cc]: Commencement: Sch. 1 para. 13 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-280a54044ce2e4fcd0c50859c20f209f]: Commencement: Sch. 1 para. 13 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-280a54044ce2e4fcd0c50859c20f209f]: Commencement: Sch. 1 para. 13 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-ed7d05181561d317af3c048e19b8adf7]: Commencement: Sch. 1 para. 13 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-ed7d05181561d317af3c048e19b8adf7]: Commencement: Sch. 1 para. 13 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-fe987d9b84eda972440a7ff6b985b6e2]: Commencement: Sch. 1 para. 13 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-fe987d9b84eda972440a7ff6b985b6e2]: Commencement: Sch. 1 para. 13 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-a4c4bf18ca462dbcc9e1de557fb92c30]: Commencement: Sch. 1 para. 13 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-a4c4bf18ca462dbcc9e1de557fb92c30]: Commencement: Sch. 1 para. 13 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00063]: Footnote: [S.R. 1986 No. 340](https://www.legislation.gov.uk/nisr/1986/340), to which there are amendments not relevant to these regulations
 
-[^key-97732a46d926384a12fef126cb30c3e2]: Commencement: Sch. 1 para. 14 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-97732a46d926384a12fef126cb30c3e2]: Commencement: Sch. 1 para. 14 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-fd8a6c52f5f10a17b2ef6c8cdcbb508e]: Commencement: Sch. 1 para. 14 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-fd8a6c52f5f10a17b2ef6c8cdcbb508e]: Commencement: Sch. 1 para. 14 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-f536155677d10c835c27fbbcf3b8a9be]: Commencement: Sch. 1 para. 14 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-f536155677d10c835c27fbbcf3b8a9be]: Commencement: Sch. 1 para. 14 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-0758db8e73ab210ea4659adc86b7296d]: Commencement: Sch. 1 para. 14 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-0758db8e73ab210ea4659adc86b7296d]: Commencement: Sch. 1 para. 14 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-6db62b95b0604b21c24f931c99afe136]: Commencement: Sch. 1 para. 14 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-6db62b95b0604b21c24f931c99afe136]: Commencement: Sch. 1 para. 14 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-5b6d29ca2e875e43660fc5bf3de1491f]: Commencement: Sch. 1 para. 14 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-5b6d29ca2e875e43660fc5bf3de1491f]: Commencement: Sch. 1 para. 14 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00064]: Footnote: [S.R. 1984 No. 92](https://www.legislation.gov.uk/nisr/1984/92); relevant amending regulations are [S.R. 1986 No. 340](https://www.legislation.gov.uk/nisr/1986/340)
 
-[^key-09122b6b17f96698cd7d30347b390e03]: Commencement: Sch. 1 para. 15 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-09122b6b17f96698cd7d30347b390e03]: Commencement: Sch. 1 para. 15 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-74314c4232712781f20e4b7f00ef19cd]: Commencement: Sch. 1 para. 15 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-74314c4232712781f20e4b7f00ef19cd]: Commencement: Sch. 1 para. 15 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-b3d331037552105db86673d2246bf69f]: Commencement: Sch. 1 para. 15 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-b3d331037552105db86673d2246bf69f]: Commencement: Sch. 1 para. 15 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-9182ec1284d5194dd168977f457060b6]: Commencement: Sch. 1 para. 15 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-9182ec1284d5194dd168977f457060b6]: Commencement: Sch. 1 para. 15 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-651a2a1339f86677a7645afe521f54dc]: Commencement: Sch. 1 para. 15 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-651a2a1339f86677a7645afe521f54dc]: Commencement: Sch. 1 para. 15 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-f305fba6adf53f73ee7adb992d292640]: Commencement: Sch. 1 para. 15 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-f305fba6adf53f73ee7adb992d292640]: Commencement: Sch. 1 para. 15 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-3279bab27d75af7cb94f5dd2e113e00c]: Commencement: Sch. 1 para. 16 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-3279bab27d75af7cb94f5dd2e113e00c]: Commencement: Sch. 1 para. 16 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-1d3a2f975cbae3082391eae46d4510c3]: Commencement: Sch. 1 para. 16 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-1d3a2f975cbae3082391eae46d4510c3]: Commencement: Sch. 1 para. 16 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-b8a0e3e6cc547e44d31293d4b7a45159]: Commencement: Sch. 1 para. 16 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-b8a0e3e6cc547e44d31293d4b7a45159]: Commencement: Sch. 1 para. 16 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-581cb2f64898be51f3bd971b6b25fade]: Commencement: Sch. 1 para. 16 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-581cb2f64898be51f3bd971b6b25fade]: Commencement: Sch. 1 para. 16 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-ac07a957cbd9b261f0138cdadb944a24]: Commencement: Sch. 1 para. 16 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-ac07a957cbd9b261f0138cdadb944a24]: Commencement: Sch. 1 para. 16 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-09d47fc166ab9ec975c2fe08934d5af6]: Commencement: Sch. 1 para. 16 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-09d47fc166ab9ec975c2fe08934d5af6]: Commencement: Sch. 1 para. 16 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00065]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32), to which there are amendments not relevant to these regulations
 
-[^key-b708c79338aa0719ee1dd2c97f8fe753]: Commencement: Sch. 1 para. 17 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-b708c79338aa0719ee1dd2c97f8fe753]: Commencement: Sch. 1 para. 17 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-cf913e25b4ca33afb90e32189f7a4e2b]: Commencement: Sch. 1 para. 17 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-cf913e25b4ca33afb90e32189f7a4e2b]: Commencement: Sch. 1 para. 17 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-5b3fbfa80312269ff00823826ed537c6]: Commencement: Sch. 1 para. 17 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-5b3fbfa80312269ff00823826ed537c6]: Commencement: Sch. 1 para. 17 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-92afbe5619826bd89bba53d3076c8093]: Commencement: Sch. 1 para. 17 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-92afbe5619826bd89bba53d3076c8093]: Commencement: Sch. 1 para. 17 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-ab17a298c3815860fc732f8fcce0767f]: Commencement: Sch. 1 para. 17 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-ab17a298c3815860fc732f8fcce0767f]: Commencement: Sch. 1 para. 17 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-0ec26b37978363f609adf4face710446]: Commencement: Sch. 1 para. 17 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-0ec26b37978363f609adf4face710446]: Commencement: Sch. 1 para. 17 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-c17d37dd5e70d35b395abc8cd2426424]: Commencement: Sch. 1 para. 18 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-c17d37dd5e70d35b395abc8cd2426424]: Commencement: Sch. 1 para. 18 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-95c58056613b5446c1690b90f9ca99c4]: Commencement: Sch. 1 para. 18 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-95c58056613b5446c1690b90f9ca99c4]: Commencement: Sch. 1 para. 18 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-cf7a07ddbcfbc08c69263b50f066980c]: Commencement: Sch. 1 para. 18 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-cf7a07ddbcfbc08c69263b50f066980c]: Commencement: Sch. 1 para. 18 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-0ddac42ba66345e6fd41b35e6d319c1a]: Commencement: Sch. 1 para. 18 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-0ddac42ba66345e6fd41b35e6d319c1a]: Commencement: Sch. 1 para. 18 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-c99b3fc4f81470c76f25b419af91f2f5]: Commencement: Sch. 1 para. 18 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-c99b3fc4f81470c76f25b419af91f2f5]: Commencement: Sch. 1 para. 18 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-81ae648402fba7fd1c35e41ceaad5557]: Commencement: Sch. 1 para. 18 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-81ae648402fba7fd1c35e41ceaad5557]: Commencement: Sch. 1 para. 18 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00066]: Footnote: [S.R. 1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); relevant amending regulations are [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6), [S.R. 1993 No. 175](https://www.legislation.gov.uk/nisr/1993/175) and [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
 
-[^key-7199a5a624a0a9ccd9b301cec8f90c27]: Commencement: Sch. 1 para. 19 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-7199a5a624a0a9ccd9b301cec8f90c27]: Commencement: Sch. 1 para. 19 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-102323d160cc4b1c35a1d399513087a7]: Commencement: Sch. 1 para. 19 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-102323d160cc4b1c35a1d399513087a7]: Commencement: Sch. 1 para. 19 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-cdea9291f8d23189d6f525e8acc04436]: Commencement: Sch. 1 para. 19 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-cdea9291f8d23189d6f525e8acc04436]: Commencement: Sch. 1 para. 19 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-1d0f372e524e784dfe2ffef7d5bff3ad]: Commencement: Sch. 1 para. 19 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-1d0f372e524e784dfe2ffef7d5bff3ad]: Commencement: Sch. 1 para. 19 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-8ae7c0e245e5ef4ca87d45945b830ff4]: Commencement: Sch. 1 para. 19 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-8ae7c0e245e5ef4ca87d45945b830ff4]: Commencement: Sch. 1 para. 19 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-1f104751eb087a1238d061274d0892be]: Commencement: Sch. 1 para. 19 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-1f104751eb087a1238d061274d0892be]: Commencement: Sch. 1 para. 19 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00067]: Footnote: [S.R. 1978 No. 114](https://www.legislation.gov.uk/nisr/1978/114); relevant amending regulations are [S.R. 1983 No. 36](https://www.legislation.gov.uk/nisr/1983/36), [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317), [S.R. 1986 No. 340](https://www.legislation.gov.uk/nisr/1986/340), [S.R. 1994 No. 45](https://www.legislation.gov.uk/nisr/1994/45) and [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150)
 
-[^key-5073fed4679b1e01faa496a92d4540b1]: Commencement: Sch. 1 para. 20 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-5073fed4679b1e01faa496a92d4540b1]: Commencement: Sch. 1 para. 20 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-52846e5e09849bd0f8bf12e86e3f058a]: Commencement: Sch. 1 para. 20 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-52846e5e09849bd0f8bf12e86e3f058a]: Commencement: Sch. 1 para. 20 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-209a6bf7f801acad223015eaf1e072b3]: Commencement: Sch. 1 para. 20 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-209a6bf7f801acad223015eaf1e072b3]: Commencement: Sch. 1 para. 20 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-b5fb533fc2b2d2c71f1bcef2541c34da]: Commencement: Sch. 1 para. 20 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-b5fb533fc2b2d2c71f1bcef2541c34da]: Commencement: Sch. 1 para. 20 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-3bd67032d6dc3a1a20af0a04b4b37d35]: Commencement: Sch. 1 para. 20 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-3bd67032d6dc3a1a20af0a04b4b37d35]: Commencement: Sch. 1 para. 20 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-81e176c82e137c69a33c48a1df2c516f]: Commencement: Sch. 1 para. 20 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-81e176c82e137c69a33c48a1df2c516f]: Commencement: Sch. 1 para. 20 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00068]: Footnote: Section 155 was amended by paragraph 48 of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995
 
-[^key-2382d33ecce1b39168e2ac365a02460f]: Commencement: Sch. 1 para. 21 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-2382d33ecce1b39168e2ac365a02460f]: Commencement: Sch. 1 para. 21 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-b579dcc42744c6b2d09d81b04211219e]: Commencement: Sch. 1 para. 21 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-b579dcc42744c6b2d09d81b04211219e]: Commencement: Sch. 1 para. 21 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-ab9ae7c44db968e409b68a1748fb824c]: Commencement: Sch. 1 para. 21 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-ab9ae7c44db968e409b68a1748fb824c]: Commencement: Sch. 1 para. 21 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-a6ceb5bc197ebe1bc60d1016ec7b2fa9]: Commencement: Sch. 1 para. 21 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-a6ceb5bc197ebe1bc60d1016ec7b2fa9]: Commencement: Sch. 1 para. 21 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-1e1f218cc5650a6ce803825f4dab6254]: Commencement: Sch. 1 para. 21 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-1e1f218cc5650a6ce803825f4dab6254]: Commencement: Sch. 1 para. 21 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-325f734cafc3b16fb80dd980511e9e3a]: Commencement: Sch. 1 para. 21 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-325f734cafc3b16fb80dd980511e9e3a]: Commencement: Sch. 1 para. 21 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00069]: Footnote: Section 74 was amended by paragraph 186 of Schedule 9 to the Children (Northern Ireland) Order 1995 (S.I. [1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)) and Article 33(2) of, and paragraph 34 of Schedule 2 to, the Jobseekers (Northern Ireland) Order 1995
 
-[^key-a45837b59a070c6972b1116b807713f3]: Commencement: Sch. 1 para. 22 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-a45837b59a070c6972b1116b807713f3]: Commencement: Sch. 1 para. 22 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-8705bcfedeaa1f2bb243b1326d5e1921]: Commencement: Sch. 1 para. 22 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-8705bcfedeaa1f2bb243b1326d5e1921]: Commencement: Sch. 1 para. 22 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-b215d32ce6aedc45a0c1c2211da58b53]: Commencement: Sch. 1 para. 22 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-b215d32ce6aedc45a0c1c2211da58b53]: Commencement: Sch. 1 para. 22 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-fce78da719f68ddc2ca236ef3e879156]: Commencement: Sch. 1 para. 22 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-fce78da719f68ddc2ca236ef3e879156]: Commencement: Sch. 1 para. 22 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-abbe746349d76aad47780459353c2c06]: Commencement: Sch. 1 para. 22 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-abbe746349d76aad47780459353c2c06]: Commencement: Sch. 1 para. 22 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-4ebeb5a537ba4811c776a1e397ece41f]: Commencement: Sch. 1 para. 22 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-4ebeb5a537ba4811c776a1e397ece41f]: Commencement: Sch. 1 para. 22 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-bd1b97abaf588b9c546b32a2a47697e5]: Commencement: Sch. 1 para. 23 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-bd1b97abaf588b9c546b32a2a47697e5]: Commencement: Sch. 1 para. 23 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-b39b472049e57f5b07d5bd03cf5fbaea]: Commencement: Sch. 1 para. 23 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-b39b472049e57f5b07d5bd03cf5fbaea]: Commencement: Sch. 1 para. 23 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-3349fc645d0603c31c5a7b5af22b6f25]: Commencement: Sch. 1 para. 23 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-3349fc645d0603c31c5a7b5af22b6f25]: Commencement: Sch. 1 para. 23 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-a21e8937d68f6c434554e833f81b45e5]: Commencement: Sch. 1 para. 23 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-a21e8937d68f6c434554e833f81b45e5]: Commencement: Sch. 1 para. 23 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-59e835e5d8c12716dd32e7b05d04a467]: Commencement: Sch. 1 para. 23 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-59e835e5d8c12716dd32e7b05d04a467]: Commencement: Sch. 1 para. 23 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-8632dc53861c697b994042bee62cec55]: Commencement: Sch. 1 para. 23 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-8632dc53861c697b994042bee62cec55]: Commencement: Sch. 1 para. 23 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-eb4fe56f6cfb84d7d2267154c86d5ef9]: Commencement: Sch. 2 para. 1 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-eb4fe56f6cfb84d7d2267154c86d5ef9]: Commencement: Sch. 2 para. 1 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-b5bb1eb7ea23e8e016eaf7694c20a905]: Commencement: Sch. 2 para. 1 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-b5bb1eb7ea23e8e016eaf7694c20a905]: Commencement: Sch. 2 para. 1 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-837f6efdf0d60af351d7b509c7b07989]: Commencement: Sch. 2 para. 1 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-837f6efdf0d60af351d7b509c7b07989]: Commencement: Sch. 2 para. 1 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-174540a0ab2688e282ca356276df3ff9]: Commencement: Sch. 2 para. 1 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-174540a0ab2688e282ca356276df3ff9]: Commencement: Sch. 2 para. 1 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-98a896c815f3a541527e6585dfe7b1aa]: Commencement: Sch. 2 para. 1 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-98a896c815f3a541527e6585dfe7b1aa]: Commencement: Sch. 2 para. 1 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-2df00ba658b1cdd8ccae6ee7fb73c11d]: Commencement: Sch. 2 para. 1 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-2df00ba658b1cdd8ccae6ee7fb73c11d]: Commencement: Sch. 2 para. 1 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-8c525238ed34ace6e9b850f0969c0731]: Commencement: Sch. 2 para. 2 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-8c525238ed34ace6e9b850f0969c0731]: Commencement: Sch. 2 para. 2 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-e0364423edadef3fce3d66e5e92d7c00]: Commencement: Sch. 2 para. 2 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-e0364423edadef3fce3d66e5e92d7c00]: Commencement: Sch. 2 para. 2 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-e28dcb9fe8f767092459afb923962b35]: Commencement: Sch. 2 para. 2 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-e28dcb9fe8f767092459afb923962b35]: Commencement: Sch. 2 para. 2 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-b8c2a7a188ce864ba5a22cc5b38a0ab3]: Commencement: Sch. 2 para. 2 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-b8c2a7a188ce864ba5a22cc5b38a0ab3]: Commencement: Sch. 2 para. 2 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-f248d55ccd474b8f9f739b55830def99]: Commencement: Sch. 2 para. 2 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-f248d55ccd474b8f9f739b55830def99]: Commencement: Sch. 2 para. 2 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-4780a18e63053773982837d1d5b12de0]: Commencement: Sch. 2 para. 2 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-4780a18e63053773982837d1d5b12de0]: Commencement: Sch. 2 para. 2 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
 [^f00070]: Footnote: Cm. 2183 and O.J. No. L1, 3.1.1994, p. 572
 
@@ -2569,38 +2569,38 @@ As these Regulations are made by virtue of, or are consequential upon, provision
 
 [^f00072]: Footnote: O.J. No. L921, 24.10.1997, p. 35
 
-[^key-fc98f465dd08f9d1874690ba544730f4]: Commencement: Sch. 2 para. 3 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-fc98f465dd08f9d1874690ba544730f4]: Commencement: Sch. 2 para. 3 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-7663e6e4ca4bd924c8b6c3bf454fe4dc]: Commencement: Sch. 2 para. 3 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-7663e6e4ca4bd924c8b6c3bf454fe4dc]: Commencement: Sch. 2 para. 3 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-8c84931da7085f29d931c9b7354b01d8]: Commencement: Sch. 2 para. 3 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-8c84931da7085f29d931c9b7354b01d8]: Commencement: Sch. 2 para. 3 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-c7db948967ac2b74b0a28c2c5b107ad7]: Commencement: Sch. 2 para. 3 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-c7db948967ac2b74b0a28c2c5b107ad7]: Commencement: Sch. 2 para. 3 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-7067bdbd6884e559a98b60bc632f9c11]: Commencement: Sch. 2 para. 3 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-7067bdbd6884e559a98b60bc632f9c11]: Commencement: Sch. 2 para. 3 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-c65592ac320f4767dd6020853fbbc7ae]: Commencement: Sch. 2 para. 3 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-c65592ac320f4767dd6020853fbbc7ae]: Commencement: Sch. 2 para. 3 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-78520bcc4c63b1f7e86e0c8f5e37ee49]: Commencement: Sch. 2 para. 4 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-78520bcc4c63b1f7e86e0c8f5e37ee49]: Commencement: Sch. 2 para. 4 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-adb5f5a9c07f3099a1e474f668b98607]: Commencement: Sch. 2 para. 4 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-adb5f5a9c07f3099a1e474f668b98607]: Commencement: Sch. 2 para. 4 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-a0415746bce1c15dc60638eb0cb49bad]: Commencement: Sch. 2 para. 4 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-a0415746bce1c15dc60638eb0cb49bad]: Commencement: Sch. 2 para. 4 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-313835f12ce4468bd36ce8464e8b95df]: Commencement: Sch. 2 para. 4 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-313835f12ce4468bd36ce8464e8b95df]: Commencement: Sch. 2 para. 4 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-84aea206140f949b5e3c8a58e2da35a4]: Commencement: Sch. 2 para. 4 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-84aea206140f949b5e3c8a58e2da35a4]: Commencement: Sch. 2 para. 4 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-0ed747e19d5891531b16205712c3ea0a]: Commencement: Sch. 2 para. 4 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-0ed747e19d5891531b16205712c3ea0a]: Commencement: Sch. 2 para. 4 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
 
-[^key-3a05f65c183edb53727281f070647662]: Commencement: Sch. 3 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
+[^c-3a05f65c183edb53727281f070647662]: Commencement: Sch. 3 in operation at 1.6.1999 for specified purposes, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/a)
 
-[^key-960d1cba86ce961dc51ff8cc2a70b465]: Commencement: Sch. 3 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
+[^c-960d1cba86ce961dc51ff8cc2a70b465]: Commencement: Sch. 3 in operation at 5.7.1999 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/b)
 
-[^key-4663879f05c4240f372965a1e7f7a22a]: Commencement: Sch. 3 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
+[^c-4663879f05c4240f372965a1e7f7a22a]: Commencement: Sch. 3 in operation at 6.9.1999 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/c)
 
-[^key-2d6ac94ccce747b7eb05496693caa707]: Commencement: Sch. 3 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
+[^c-2d6ac94ccce747b7eb05496693caa707]: Commencement: Sch. 3 in operation at 5.10.1999 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/d)
 
-[^key-2c6da1bdcf023a39fe0e5ec093f08b9a]: Commencement: Sch. 3 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
+[^c-2c6da1bdcf023a39fe0e5ec093f08b9a]: Commencement: Sch. 3 in operation at 18.10.1999 for specified purposes, see [reg. 1(1)(e)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/e)
 
-[^key-7099af91dd8731f69fdb241dd44f961c]: Commencement: Sch. 3 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)
+[^c-7099af91dd8731f69fdb241dd44f961c]: Commencement: Sch. 3 in operation at 29.11.1999 in so far as not already in force, see [reg. 1(1)(f)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1/1/f)

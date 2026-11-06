@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — ACCESS TO WORKS[^key-8e453dbdc54e81ae6ffc7393d13e9cef]
+## SCHEDULE 5 — ACCESS TO WORKS[^c-8e453dbdc54e81ae6ffc7393d13e9cef]
 
 *Extent: E+W+S*
 
@@ -99,4 +99,4 @@ Article 13
 
 ## Annotations
 
-[^key-8e453dbdc54e81ae6ffc7393d13e9cef]: Commencement: Sch. 5 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-8e453dbdc54e81ae6ffc7393d13e9cef]: Commencement: Sch. 5 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

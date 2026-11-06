@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Assessment of whether flood warning system should be provided or altered[^key-2a6ce8922474e445179ffe94937e3686]
+## 75. Assessment of whether flood warning system should be provided or altered[^c-2a6ce8922474e445179ffe94937e3686]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a6ce8922474e445179ffe94937e3686]: Commencement: S. 75 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-2a6ce8922474e445179ffe94937e3686]: Commencement: S. 75 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.12. Service of the claim form relating to a contract on an agent of a principal who is out of the jurisdiction[^key-fe589970343ba157e4f46d596d14d251]
+## 6.12. Service of the claim form relating to a contract on an agent of a principal who is out of the jurisdiction[^c-fe589970343ba157e4f46d596d14d251]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe589970343ba157e4f46d596d14d251]: Textual amendment: Pt. 6 substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rule 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2178/schedule/1)
+[^c-fe589970343ba157e4f46d596d14d251]: Textual amendment: Pt. 6 substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rule 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2178/schedule/1)

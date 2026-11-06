@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Annual reports, statistical reports and strategic plans[^key-04e0f44d5b9d257f361a2b2322d1276c]
+## 44. Annual reports, statistical reports and strategic plans[^c-04e0f44d5b9d257f361a2b2322d1276c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04e0f44d5b9d257f361a2b2322d1276c]: Textual amendment: [Art. 44](https://www.legislation.gov.uk/uksi/2002/254/article/44) substituted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/c), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2009/1182/schedule/2/paragraph/13)
+[^c-04e0f44d5b9d257f361a2b2322d1276c]: Textual amendment: [Art. 44](https://www.legislation.gov.uk/uksi/2002/254/article/44) substituted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/c), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2009/1182/schedule/2/paragraph/13)

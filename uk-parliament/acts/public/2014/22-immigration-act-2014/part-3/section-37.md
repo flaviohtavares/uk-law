@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Interpretation[^key-fd55e86564e81e10f3643504a20bd3a6]
+## 37. Interpretation[^c-fd55e86564e81e10f3643504a20bd3a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,10 +50,10 @@ and references to a person occupying premises under an agreement are to be read 
 
 - (a) the references to the landlord in—
   - (i) section 22(7)(a),
-  - (ii) section 24(5), (6)(a) and (7), [^key-edd2ccf3e807726c586f5bf8bf9282d7]...
+  - (ii) section 24(5), (6)(a) and (7), [^c-edd2ccf3e807726c586f5bf8bf9282d7]...
   - (iii) section 26(6)(a) and (7)(b),
-  - (iv)[^key-f9d087e4e86ae060490bc40108dcdd87] section 33A,
-  - (v)[^key-62c2dd67c14ad391c012f5af543b08a0] section 33D, and
+  - (iv)[^c-f9d087e4e86ae060490bc40108dcdd87] section 33A,
+  - (v)[^c-62c2dd67c14ad391c012f5af543b08a0] section 33D, and
   - (vi) section 33E,
 
   are to be taken as references to any of those persons;
@@ -82,10 +82,10 @@ and references to a person occupying premises under an agreement are to be read 
 
 ## Annotations
 
-[^key-fd55e86564e81e10f3643504a20bd3a6]: Commencement: S. 37 in force at 1.12.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 7(f)](https://www.legislation.gov.uk/uksi/2014/2771/article/7/f)
+[^c-fd55e86564e81e10f3643504a20bd3a6]: Commencement: S. 37 in force at 1.12.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 7(f)](https://www.legislation.gov.uk/uksi/2014/2771/article/7/f)
 
-[^key-edd2ccf3e807726c586f5bf8bf9282d7]: Textual amendment: Word in s. 37(4)(a)(ii) omitted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 39(5)(a)](https://www.legislation.gov.uk/ukpga/2016/19/section/39/5/a), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a), [5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c)
+[^c-edd2ccf3e807726c586f5bf8bf9282d7]: Textual amendment: Word in s. 37(4)(a)(ii) omitted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 39(5)(a)](https://www.legislation.gov.uk/ukpga/2016/19/section/39/5/a), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a), [5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c)
 
-[^key-f9d087e4e86ae060490bc40108dcdd87]: Textual amendment: S. 37(4)(a)(iv) inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 39(5)(b)](https://www.legislation.gov.uk/ukpga/2016/19/section/39/5/b), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a), [5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c)
+[^c-f9d087e4e86ae060490bc40108dcdd87]: Textual amendment: S. 37(4)(a)(iv) inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 39(5)(b)](https://www.legislation.gov.uk/ukpga/2016/19/section/39/5/b), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/a), [5(c)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/c)
 
-[^key-62c2dd67c14ad391c012f5af543b08a0]: Textual amendment: S. 37(4)(a)(v)(vi) inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2016/19/section/40/4), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/b), [5(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/d)
+[^c-62c2dd67c14ad391c012f5af543b08a0]: Textual amendment: S. 37(4)(a)(v)(vi) inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2016/19/section/40/4), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/b), [5(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/d)

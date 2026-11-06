@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.179. General duties of liquidator[^key-795398210b9ec132495a2f03ef33e00d]
+## 4.179. General duties of liquidator[^c-795398210b9ec132495a2f03ef33e00d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-795398210b9ec132495a2f03ef33e00d]: Commencement: [Rule 4.179](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.179) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-795398210b9ec132495a2f03ef33e00d]: Commencement: [Rule 4.179](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.179) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

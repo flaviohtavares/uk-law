@@ -43,13 +43,13 @@ The Department for Social Development makes the following Regulations in exercis
 
 The Social Security Advisory Committee has agreed that proposals in respect of regulations 4 and 5 should not be referred to it[^f00005].
 
-## 1. Citation, commencement and interpretation[^key-d8c9105743eff7aae9f3f8f6c47425e7]
+## 1. Citation, commencement and interpretation[^c-d8c9105743eff7aae9f3f8f6c47425e7]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2008 and shall come into operation on 6th October 2008.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-10903ed90cc2780afd5da728cd6cdcf5]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-10903ed90cc2780afd5da728cd6cdcf5]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00007] are amended in accordance with paragraphs (2) and (3).
 
@@ -65,7 +65,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (3) In Schedule 4 (prescribed times for claiming benefit) omit paragraph 12[^f00009].
 
-## 3. Amendment of the State Pension Credit Regulations[^key-3396aac68842aaeee7e57b5a803b650c]
+## 3. Amendment of the State Pension Credit Regulations[^c-3396aac68842aaeee7e57b5a803b650c]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00010] are amended in accordance with paragraphs (2) to (4).
 
@@ -101,18 +101,18 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (4) In Schedule 3 (special groups) in paragraph 1(8) after “regulations” omit “3,”.
 
-## 4. Amendment of the Housing Benefit Regulations[^key-6997fcd1c48508cf9a191aebea6118bb]
+## 4. Amendment of the Housing Benefit Regulations[^c-6997fcd1c48508cf9a191aebea6118bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-2ce2a95ea3c62fffe436e933b1b0f03b]
+## 5. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-2ce2a95ea3c62fffe436e933b1b0f03b]
 
 In regulation 62 of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00015] (time and manner in which claims are to be made)—
 
 - (a) in paragraph (1) for “12 months” substitute “3 months”, and
-- (b)[^key-2407bc2061ee221b1ccac87bc1e07c99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-2407bc2061ee221b1ccac87bc1e07c99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocations[^key-49cec4f4352e225305bc2fe7c0422dfb]
+## 6. Revocations[^c-49cec4f4352e225305bc2fe7c0422dfb]
 
 The following regulations are revoked—
 
@@ -158,11 +158,11 @@ In so far as these Regulations are required, for the purposes of regulations 4 a
 
 [^f00005]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-d8c9105743eff7aae9f3f8f6c47425e7]: Commencement: Reg. 1 in operation at 6.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/410/regulation/1/1)
+[^c-d8c9105743eff7aae9f3f8f6c47425e7]: Commencement: Reg. 1 in operation at 6.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/410/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-10903ed90cc2780afd5da728cd6cdcf5]: Commencement: Reg. 2 in operation at 6.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/410/regulation/1/1)
+[^c-10903ed90cc2780afd5da728cd6cdcf5]: Commencement: Reg. 2 in operation at 6.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/410/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156), [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323), [S.R. 2004 No. 304](https://www.legislation.gov.uk/nisr/2004/304) and [S.R. 2005 Nos. 122](https://www.legislation.gov.uk/nisr/2005/122) and [139](https://www.legislation.gov.uk/nisr/2005/139)
 
@@ -170,7 +170,7 @@ In so far as these Regulations are required, for the purposes of regulations 4 a
 
 [^f00009]: Footnote: Paragraph 12 was inserted by regulation 2(3) of [S.R. 2004 No. 304](https://www.legislation.gov.uk/nisr/2004/304)
 
-[^key-3396aac68842aaeee7e57b5a803b650c]: Commencement: Reg. 3 in operation at 6.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/410/regulation/1/1)
+[^c-3396aac68842aaeee7e57b5a803b650c]: Commencement: Reg. 3 in operation at 6.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/410/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); relevant amending Regulations are [S.R. 2003 No. 421](https://www.legislation.gov.uk/nisr/2003/421) and [S.R. 2006 No. 128](https://www.legislation.gov.uk/nisr/2006/128)
 
@@ -180,15 +180,15 @@ In so far as these Regulations are required, for the purposes of regulations 4 a
 
 [^f00013]: Footnote: Paragraph (3) was inserted by regulation 2(5)(b) of [S.R. 2003 No. 421](https://www.legislation.gov.uk/nisr/2003/421)
 
-[^key-6997fcd1c48508cf9a191aebea6118bb]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/410/regulation/4) revoked (1.5.2011) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/136)](https://www.legislation.gov.uk/nisr/2011/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2011/136/regulation/6)
+[^c-6997fcd1c48508cf9a191aebea6118bb]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/410/regulation/4) revoked (1.5.2011) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/136)](https://www.legislation.gov.uk/nisr/2011/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2011/136/regulation/6)
 
-[^key-2ce2a95ea3c62fffe436e933b1b0f03b]: Commencement: Reg. 5 in operation at 6.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/410/regulation/1/1)
+[^c-2ce2a95ea3c62fffe436e933b1b0f03b]: Commencement: Reg. 5 in operation at 6.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/410/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); to which there are amendments not relevant to these Regulations
 
-[^key-2407bc2061ee221b1ccac87bc1e07c99]: Textual amendment: [Reg. 5(b)](https://www.legislation.gov.uk/nisr/2008/410/regulation/5/b) revoked (27.1.2009) by [The Housing Benefit (Amendment No. 2) Regulations (Northern Ireland) 2008 (S.R. 2008/504)](https://www.legislation.gov.uk/nisr/2008/504), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/504/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2008/504/regulation/4)
+[^c-2407bc2061ee221b1ccac87bc1e07c99]: Textual amendment: [Reg. 5(b)](https://www.legislation.gov.uk/nisr/2008/410/regulation/5/b) revoked (27.1.2009) by [The Housing Benefit (Amendment No. 2) Regulations (Northern Ireland) 2008 (S.R. 2008/504)](https://www.legislation.gov.uk/nisr/2008/504), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/504/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2008/504/regulation/4)
 
-[^key-49cec4f4352e225305bc2fe7c0422dfb]: Commencement: Reg. 6 in operation at 6.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/410/regulation/1/1)
+[^c-49cec4f4352e225305bc2fe7c0422dfb]: Commencement: Reg. 6 in operation at 6.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/410/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 2003 No. 421](https://www.legislation.gov.uk/nisr/2003/421)
 

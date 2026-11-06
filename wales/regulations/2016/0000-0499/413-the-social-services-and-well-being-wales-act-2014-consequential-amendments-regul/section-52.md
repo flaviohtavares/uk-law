@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**52.**[^key-4800827dc714f918b3635f2f89ea594a] (1) In Schedule 5 to the Local Government Finance Act 1988 (non-domestic rating: exemption), paragraph 16 is amended as follows.
+**52.**[^c-4800827dc714f918b3635f2f89ea594a] (1) In Schedule 5 to the Local Government Finance Act 1988 (non-domestic rating: exemption), paragraph 16 is amended as follows.
 
 (2) For sub-paragraph (2)[^f00062] substitute—
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4800827dc714f918b3635f2f89ea594a]: Commencement: Reg. 52 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-4800827dc714f918b3635f2f89ea594a]: Commencement: Reg. 52 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00062]: Footnote: Sub-paragraph (2) was amended by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraph 42(1) and (3).
 

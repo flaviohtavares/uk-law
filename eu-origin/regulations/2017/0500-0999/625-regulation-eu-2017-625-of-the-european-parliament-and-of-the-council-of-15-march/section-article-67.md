@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 67. Measures to be taken on animals or goods entering Great Britain from third countries presenting a risk[^key-ac40a98dc24accec68628125f79e8291]
+## Article 67. Measures to be taken on animals or goods entering Great Britain from third countries presenting a risk[^c-ac40a98dc24accec68628125f79e8291]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ The measures referred to in this Article shall be applied at the expense of the 
 
 ## Annotations
 
-[^key-ac40a98dc24accec68628125f79e8291]: Textual amendment: Words in [Art. 67](https://www.legislation.gov.uk/eur/2017/625/article/67) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [12(5)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/12/5) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-ac40a98dc24accec68628125f79e8291]: Textual amendment: Words in [Art. 67](https://www.legislation.gov.uk/eur/2017/625/article/67) heading substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [12(5)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/12/5) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

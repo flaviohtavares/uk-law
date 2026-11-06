@@ -22,7 +22,7 @@ summary: ''
 
 Article 17
 
-### PART 1 — ACCOMMODATION CROSSINGS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-92bded8295a256dd3c2359bfc61dafb1]
+### PART 1 — ACCOMMODATION CROSSINGS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-92bded8295a256dd3c2359bfc61dafb1]
 
 | *(1)*<br>*Area* | *(2)*<br>*Accommodation facility to be discontinued* | *(3)*<br>*Private right of way to be extinguished* | *(4)*<br>*Accommodation facility to be substituted* |
 | --- | --- | --- | --- |
@@ -38,7 +38,7 @@ Article 17
 |  | Northfield Farm Bridge Crossing | Within the limits of deviation | Accommodation access and Work No. 16 |
 |  | Water Eaton No. 5 Crossing | Within the limits of deviation | Work No. 16 |
 
-### PART 2 — ACCOMMODATION CROSSINGS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-9e6eed4e2b383c0e1e148be6ca4ad681]
+### PART 2 — ACCOMMODATION CROSSINGS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-9e6eed4e2b383c0e1e148be6ca4ad681]
 
 | *(1)*<br>*Area* | *(2)*<br>*Accommodation facility to be discontinued* | *(3)*<br>*Private right of way to be extinguished* |
 | --- | --- | --- |
@@ -57,6 +57,6 @@ Article 17
 
 ## Annotations
 
-[^key-92bded8295a256dd3c2359bfc61dafb1]: Commencement: Sch. 9 Pt. 1 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-92bded8295a256dd3c2359bfc61dafb1]: Commencement: Sch. 9 Pt. 1 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
 
-[^key-9e6eed4e2b383c0e1e148be6ca4ad681]: Commencement: Sch. 9 Pt. 2 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-9e6eed4e2b383c0e1e148be6ca4ad681]: Commencement: Sch. 9 Pt. 2 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

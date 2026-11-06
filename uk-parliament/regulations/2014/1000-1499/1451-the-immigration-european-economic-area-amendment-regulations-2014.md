@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration (European Economic Area) (Amendment) Regulations 2014 (revoked)[^key-b87e5968d6fb0ef37a5c98a1ddfb8f4b]
+The Immigration (European Economic Area) (Amendment) Regulations 2014 (revoked)[^c-b87e5968d6fb0ef37a5c98a1ddfb8f4b]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 1st July 2014
 
-[^key-b87e5968d6fb0ef37a5c98a1ddfb8f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b87e5968d6fb0ef37a5c98a1ddfb8f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b87e5968d6fb0ef37a5c98a1ddfb8f4b]
+## 1. Citation and commencement[^c-b87e5968d6fb0ef37a5c98a1ddfb8f4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b87e5968d6fb0ef37a5c98a1ddfb8f4b]
+## 2. Interpretation[^c-b87e5968d6fb0ef37a5c98a1ddfb8f4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to regulation 6 of the 2006 Regulations[^key-b87e5968d6fb0ef37a5c98a1ddfb8f4b]
+## 3. Amendments to regulation 6 of the 2006 Regulations[^c-b87e5968d6fb0ef37a5c98a1ddfb8f4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision[^key-b87e5968d6fb0ef37a5c98a1ddfb8f4b]
+## 4. Transitional provision[^c-b87e5968d6fb0ef37a5c98a1ddfb8f4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b87e5968d6fb0ef37a5c98a1ddfb8f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b87e5968d6fb0ef37a5c98a1ddfb8f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b87e5968d6fb0ef37a5c98a1ddfb8f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b87e5968d6fb0ef37a5c98a1ddfb8f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b87e5968d6fb0ef37a5c98a1ddfb8f4b]: Textual amendment: Regulations revoked (1.2.2017) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), reg. 1(2)(b), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/1)
+[^c-b87e5968d6fb0ef37a5c98a1ddfb8f4b]: Textual amendment: Regulations revoked (1.2.2017) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), reg. 1(2)(b), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/1)

@@ -34,7 +34,7 @@ Environmental Protection,
 
 England And Wales
 
-The Marine Works (Environmental Impact Assessment)(Amendment)(England and Wales) Regulations 2009 (revoked)[^key-93bcadf811628fff710942a2f65f0a01]
+The Marine Works (Environmental Impact Assessment)(Amendment)(England and Wales) Regulations 2009 (revoked)[^c-93bcadf811628fff710942a2f65f0a01]
 
 Made
 
@@ -48,23 +48,23 @@ Coming into force
 
 1st October 2009
 
-[^key-93bcadf811628fff710942a2f65f0a01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93bcadf811628fff710942a2f65f0a01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-93bcadf811628fff710942a2f65f0a01]
+## 1. Title, commencement and extent[^c-93bcadf811628fff710942a2f65f0a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Marine Works (Environmental Impact Assessment) Regulations 2007[^key-93bcadf811628fff710942a2f65f0a01]
+## 2. Amendment to the Marine Works (Environmental Impact Assessment) Regulations 2007[^c-93bcadf811628fff710942a2f65f0a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-93bcadf811628fff710942a2f65f0a01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93bcadf811628fff710942a2f65f0a01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-93bcadf811628fff710942a2f65f0a01]EXPLANATORY NOTE
+[^c-93bcadf811628fff710942a2f65f0a01]EXPLANATORY NOTE
 
 (This note is not part of the Regulations )
 
@@ -78,4 +78,4 @@ A transposition note setting out how the amendments made in these Regulations tr
 
 ## Annotations
 
-[^key-93bcadf811628fff710942a2f65f0a01]: Textual amendment: Regulations revoked (6.4.2011) by [The Marine Works (Environmental Impact Assessment) (Amendment) Regulations 2011 (S.I. 2011/735)](https://www.legislation.gov.uk/uksi/2011/735), regs. 1, [15](https://www.legislation.gov.uk/uksi/2011/735/regulation/15)
+[^c-93bcadf811628fff710942a2f65f0a01]: Textual amendment: Regulations revoked (6.4.2011) by [The Marine Works (Environmental Impact Assessment) (Amendment) Regulations 2011 (S.I. 2011/735)](https://www.legislation.gov.uk/uksi/2011/735), regs. 1, [15](https://www.legislation.gov.uk/uksi/2011/735/regulation/15)

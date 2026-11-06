@@ -25,7 +25,7 @@ summary: ''
 - (a) revoke an overcrowding notice; or
 - (b) vary it so as to allow more people to be accommodated in the HMO concerned.
 
-(2) The applicant may appeal to the appropriate tribunal[^key-a6c1641023364497b8178699f7e05184] if the local housing authority—
+(2) The applicant may appeal to the appropriate tribunal[^c-a6c1641023364497b8178699f7e05184] if the local housing authority—
 
 - (a) refuse an application under subsection (1); or
 - (b) do not notify the applicant of their decision within the period of 35 days beginning with the making of the application (or within such further period as the applicant may in writing allow).
@@ -41,7 +41,7 @@ as the case may be.
 
 (5) On an appeal the tribunal may revoke the notice or vary it in any manner in which it might have been varied by the local housing authority.
 
-(6) The appropriate tribunal[^key-11e6ea7b3fe758468c26614bb8a3ef83] may allow an appeal to be made to it after the end of the 21-day period mentioned in subsection (3)(a) or (b) if it is satisfied that there is good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal).
+(6) The appropriate tribunal[^c-11e6ea7b3fe758468c26614bb8a3ef83] may allow an appeal to be made to it after the end of the 21-day period mentioned in subsection (3)(a) or (b) if it is satisfied that there is good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal).
 
 (7) In this section “**relevant person**” means—
 
@@ -52,6 +52,6 @@ as the case may be.
 
 [^c2051477]: Commencement: S. 144 wholly in force at 16.6.2006; s. 144 not in force at Royal Assent see s. 270(4)(5); s. 144 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 144 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-a6c1641023364497b8178699f7e05184]: Textual amendment: Words in [s. 144(2)](https://www.legislation.gov.uk/ukpga/2004/34/section/144/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 171(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/171/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-a6c1641023364497b8178699f7e05184]: Textual amendment: Words in [s. 144(2)](https://www.legislation.gov.uk/ukpga/2004/34/section/144/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 171(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/171/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-11e6ea7b3fe758468c26614bb8a3ef83]: Textual amendment: Words in [s. 144(6)](https://www.legislation.gov.uk/ukpga/2004/34/section/144/6) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 171(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/171/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-11e6ea7b3fe758468c26614bb8a3ef83]: Textual amendment: Words in [s. 144(6)](https://www.legislation.gov.uk/ukpga/2004/34/section/144/6) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 171(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/171/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

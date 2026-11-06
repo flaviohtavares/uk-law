@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## F5. Payment of lump sum[^key-a27d79f1db63326e15707b7b1cd3e03f]
+## F5. Payment of lump sum[^c-a27d79f1db63326e15707b7b1cd3e03f]
 
 *Extent: E+W+S*
 
@@ -77,7 +77,7 @@ but is not entitled to specify one or more persons referred to in sub-paragraph 
 
 (11) In paragraph (10), the specified amount means £5,000 or any higher amount specified in an order made under section 6(1) of the Administration of Estates (Small Payments) Act 1965 as the amount to be treated as substituted for references to £500 in section 1 of that Act.
 
-(12)[^key-d9e1e5fee29b7835d1870f533bc17e2c] In this regulation “surviving partner” means—
+(12)[^c-d9e1e5fee29b7835d1870f533bc17e2c] In this regulation “surviving partner” means—
 
 - (a) a surviving scheme partner; or
 - (b) one of the following, who survives the member—
@@ -85,14 +85,14 @@ but is not entitled to specify one or more persons referred to in sub-paragraph 
   - (ii) a widower;
   - (iii) a civil partner.
 
-(13)[^key-d53c124ccefeeb6e57d2ceb39c562c6d] In the case of a Waiting Period Joiner, a notice given by a member for the purposes of regulation 2.E.21 or 3.E.21 of the 2008 Section of the Scheme shall be treated as a nomination or notice given by the member for the purposes of this regulation.
+(13)[^c-d53c124ccefeeb6e57d2ceb39c562c6d] In the case of a Waiting Period Joiner, a notice given by a member for the purposes of regulation 2.E.21 or 3.E.21 of the 2008 Section of the Scheme shall be treated as a nomination or notice given by the member for the purposes of this regulation.
 
 ## Annotations
 
-[^key-a27d79f1db63326e15707b7b1cd3e03f]: Textual amendment: [Reg. F5](https://www.legislation.gov.uk/uksi/1995/300/regulation/F5) substituted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2008/654/regulation/17)
+[^c-a27d79f1db63326e15707b7b1cd3e03f]: Textual amendment: [Reg. F5](https://www.legislation.gov.uk/uksi/1995/300/regulation/F5) substituted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2008/654/regulation/17)
 
 [^M_F_f8d14695-f2b5-40c1-e36b-f543bb992be9]: Textual amendment: Words in reg. F5 inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/1)
 
-[^key-d9e1e5fee29b7835d1870f533bc17e2c]: Textual amendment: [Reg. F5(12)](https://www.legislation.gov.uk/uksi/1995/300/regulation/F5/12) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/9), [10](https://www.legislation.gov.uk/uksi/2019/418/regulation/10)
+[^c-d9e1e5fee29b7835d1870f533bc17e2c]: Textual amendment: [Reg. F5(12)](https://www.legislation.gov.uk/uksi/1995/300/regulation/F5/12) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/9), [10](https://www.legislation.gov.uk/uksi/2019/418/regulation/10)
 
-[^key-d53c124ccefeeb6e57d2ceb39c562c6d]: Textual amendment: [Reg. F5(13)](https://www.legislation.gov.uk/uksi/1995/300/regulation/F5/13) added (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2010/492/regulation/8)
+[^c-d53c124ccefeeb6e57d2ceb39c562c6d]: Textual amendment: [Reg. F5(13)](https://www.legislation.gov.uk/uksi/1995/300/regulation/F5/13) added (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2010/492/regulation/8)

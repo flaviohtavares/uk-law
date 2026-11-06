@@ -109,7 +109,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 - [Section 32 — Safeguard](part-vi/section-32.md)
 
-### PART VIA — Inspection powers, offences and service of notices[^key-6965b045904f4489e84724ea8f121d9d]
+### PART VIA — Inspection powers, offences and service of notices[^c-6965b045904f4489e84724ea8f121d9d]
 
 - [Section 32A — Powers of inspectors](part-via/section-32a.md)
 - [Section 32B — Offences and penalties](part-via/section-32b.md)
@@ -186,4 +186,4 @@ Schedule 7 provides for certain revocations of the Genetically Modified Organism
 
 [^c8714061]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/ssi/2002/541/section/2/2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/15/3). The function conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-6965b045904f4489e84724ea8f121d9d]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/ssi/2002/541/part/6A) inserted (15.3.2019) by [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [16](https://www.legislation.gov.uk/ssi/2019/86/regulation/16)
+[^c-6965b045904f4489e84724ea8f121d9d]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/ssi/2002/541/part/6A) inserted (15.3.2019) by [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [16](https://www.legislation.gov.uk/ssi/2019/86/regulation/16)

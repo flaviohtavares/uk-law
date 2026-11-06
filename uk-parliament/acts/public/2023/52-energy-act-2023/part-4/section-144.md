@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Application of scheme[^key-780148cd6761618b11b7be55a1c4b33b]
+## 144. Application of scheme[^c-780148cd6761618b11b7be55a1c4b33b]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ Section 145 contains further provision about the setting of targets.
 
 ## Annotations
 
-[^key-780148cd6761618b11b7be55a1c4b33b]: Commencement: S. 144 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)
+[^c-780148cd6761618b11b7be55a1c4b33b]: Commencement: S. 144 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)

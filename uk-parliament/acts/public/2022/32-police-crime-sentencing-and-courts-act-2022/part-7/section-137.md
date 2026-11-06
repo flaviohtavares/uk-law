@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Power to change test for release of fixed-term prisoners following recall[^key-1198ce31c560edfd628b22355f568c7b]
+## 137. Power to change test for release of fixed-term prisoners following recall[^c-1198ce31c560edfd628b22355f568c7b]
 
 *Extent: E+W*
 
-(1)[^key-59409aab110bf8feb893d31a5374e1b1] The Criminal Justice Act 2003 is amended as follows.
+(1)[^c-59409aab110bf8feb893d31a5374e1b1] The Criminal Justice Act 2003 is amended as follows.
 
-(2)[^key-59409aab110bf8feb893d31a5374e1b1] After section 256AZA insert—
+(2)[^c-59409aab110bf8feb893d31a5374e1b1] After section 256AZA insert—
 
 > **256AZB. Power to change test for release following recall**
 >
@@ -37,7 +37,7 @@ summary: ''
 > - (a) apply to a person recalled before the day on which the order comes into force (as well as to a person recalled on or after that day);
 > - (b) amend this Chapter.
 
-(3)[^key-feebbdb5573995f437f519defeaacc1c] In section 330(5)(a) (orders subject to affirmative procedure), at the appropriate place insert—
+(3)[^c-feebbdb5573995f437f519defeaacc1c] In section 330(5)(a) (orders subject to affirmative procedure), at the appropriate place insert—
 
 > - section 256AZB,
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1198ce31c560edfd628b22355f568c7b]: Commencement: S. 137 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-1198ce31c560edfd628b22355f568c7b]: Commencement: S. 137 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-59409aab110bf8feb893d31a5374e1b1]: Commencement: [S. 137(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/137/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/137/2) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)
+[^c-59409aab110bf8feb893d31a5374e1b1]: Commencement: [S. 137(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/137/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/137/2) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)
 
-[^key-feebbdb5573995f437f519defeaacc1c]: Commencement: [S. 137(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/137/3) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(p)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/p)
+[^c-feebbdb5573995f437f519defeaacc1c]: Commencement: [S. 137(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/137/3) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(p)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/p)

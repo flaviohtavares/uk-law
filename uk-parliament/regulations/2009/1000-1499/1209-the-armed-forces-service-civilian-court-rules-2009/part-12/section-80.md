@@ -35,7 +35,7 @@ summary: ''
 
 (5) Where a recording is admitted under section 27 of the 1999 Act—
 
-- (a)[^key-d59fce9539497d88a3d173c2afcf08f4] the witness must be called by the party tendering it in evidence, unless –
+- (a)[^c-d59fce9539497d88a3d173c2afcf08f4] the witness must be called by the party tendering it in evidence, unless –
   - (i) a special measures direction provides for the witness’s evidence on cross-examination to be given in any recording admissible under section 28 of the 1999 Act (video recorded cross-examination or re-examination), or
   - (ii) the parties to the proceedings have agreed that there is no need for the witness to be called; and
 - (b) the witness may not give evidence in chief otherwise than by means of the recording—
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d59fce9539497d88a3d173c2afcf08f4]: Textual amendment: [Rule 80(5)(a)](https://www.legislation.gov.uk/uksi/2009/1209/rule/80/5/a) substituted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [22](https://www.legislation.gov.uk/uksi/2022/605/rule/22)
+[^c-d59fce9539497d88a3d173c2afcf08f4]: Textual amendment: [Rule 80(5)(a)](https://www.legislation.gov.uk/uksi/2009/1209/rule/80/5/a) substituted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [22](https://www.legislation.gov.uk/uksi/2022/605/rule/22)

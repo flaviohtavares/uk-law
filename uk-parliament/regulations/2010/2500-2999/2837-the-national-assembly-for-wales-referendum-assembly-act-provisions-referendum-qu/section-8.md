@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Rules for the conduct of the referendum[^key-e58572213747740e89a9998e62bd334a]
+## 8. Rules for the conduct of the referendum[^c-e58572213747740e89a9998e62bd334a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 makes provision about the rules for the conduct of proceedings in the
 
 ## Annotations
 
-[^key-e58572213747740e89a9998e62bd334a]: Commencement: Art. 8 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-e58572213747740e89a9998e62bd334a]: Commencement: Art. 8 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

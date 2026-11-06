@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72. Publication of general directions[^key-d303e6db658b8d76e0d218c85b561aff]
+## 72. Publication of general directions[^c-d303e6db658b8d76e0d218c85b561aff]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d303e6db658b8d76e0d218c85b561aff]: Commencement: Art. 72 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-d303e6db658b8d76e0d218c85b561aff]: Commencement: Art. 72 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

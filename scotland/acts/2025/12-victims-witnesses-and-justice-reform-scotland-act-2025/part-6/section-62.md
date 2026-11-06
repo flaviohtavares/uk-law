@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Jury size and quorum[^key-7ef865fb1b3299419d4913a72adb2d52][^key-9269e4ebe9f70d7eadd70713f3abc835]
+## 62. Jury size and quorum[^c-7ef865fb1b3299419d4913a72adb2d52][^c-9269e4ebe9f70d7eadd70713f3abc835]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7ef865fb1b3299419d4913a72adb2d52]: Commencement: S. 62 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-7ef865fb1b3299419d4913a72adb2d52]: Commencement: S. 62 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-9269e4ebe9f70d7eadd70713f3abc835]: Commencement: S. 62 in force at 1.1.2026 by [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/393/regulation/3))
+[^c-9269e4ebe9f70d7eadd70713f3abc835]: Commencement: S. 62 in force at 1.1.2026 by [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/393/regulation/3))

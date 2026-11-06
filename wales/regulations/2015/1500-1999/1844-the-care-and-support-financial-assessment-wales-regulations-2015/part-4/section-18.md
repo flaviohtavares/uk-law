@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Calculation of capital[^key-9c3a15367357b01a321a90b13b776a5d]
+## 18. Calculation of capital[^c-9c3a15367357b01a321a90b13b776a5d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c3a15367357b01a321a90b13b776a5d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2015/1844/regulation/18) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-9c3a15367357b01a321a90b13b776a5d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2015/1844/regulation/18) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)

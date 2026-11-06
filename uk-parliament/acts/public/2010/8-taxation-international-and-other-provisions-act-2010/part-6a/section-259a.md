@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259A. Overview of Part[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259A. Overview of Part[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,11 +76,11 @@ summary: ''
 - (a) for adjustments to be made where a reasonable supposition made for the purposes of this Part turns out to be mistaken or otherwise ceases to be reasonable, and
 - (b) for deductions from taxable total profits to be made where a relevant deduction has been denied under certain provisions of this Part and amounts of ordinary income arise later than is permitted.
 
-(16A)[^key-ba823c6a22034051231cab5b9596c078] Chapter 12A contains provision allowing surplus dual inclusion income to be allocated within a group of companies.
+(16A)[^c-ba823c6a22034051231cab5b9596c078] Chapter 12A contains provision allowing surplus dual inclusion income to be allocated within a group of companies.
 
 (17) Chapter 13 contains anti-avoidance provision.
 
-(17A)[^key-1e9b2d1a0b5e0292d84ebbdf5ffc845d] Chapter 13A makes provision about the application of Chapters 3, 4, 5, 7, 9 and 11 in cases involving transparent funds (within the meaning of that Chapter).
+(17A)[^c-1e9b2d1a0b5e0292d84ebbdf5ffc845d] Chapter 13A makes provision about the application of Chapters 3, 4, 5, 7, 9 and 11 in cases involving transparent funds (within the meaning of that Chapter).
 
 (18) Chapter 14 contains definitions and other provision about the interpretation of this Part.
 
@@ -108,8 +108,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-ba823c6a22034051231cab5b9596c078]: Textual amendment: [S. 259A(16A)](https://www.legislation.gov.uk/ukpga/2010/8/section/259A/16A) inserted (with effect in accordance with Sch. 7 para. 40 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 15(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/15/2)
+[^c-ba823c6a22034051231cab5b9596c078]: Textual amendment: [S. 259A(16A)](https://www.legislation.gov.uk/ukpga/2010/8/section/259A/16A) inserted (with effect in accordance with Sch. 7 para. 40 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 15(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/15/2)
 
-[^key-1e9b2d1a0b5e0292d84ebbdf5ffc845d]: Textual amendment: [S. 259A(17A)](https://www.legislation.gov.uk/ukpga/2010/8/section/259A/17A) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 35(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/35/2)
+[^c-1e9b2d1a0b5e0292d84ebbdf5ffc845d]: Textual amendment: [S. 259A(17A)](https://www.legislation.gov.uk/ukpga/2010/8/section/259A/17A) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 35(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/35/2)

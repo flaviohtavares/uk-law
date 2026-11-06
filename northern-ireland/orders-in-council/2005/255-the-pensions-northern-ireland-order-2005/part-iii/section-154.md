@@ -27,17 +27,17 @@ summary: ''
 
 (2) Regulations must make provision in respect of cases to which paragraph (1) applies requiring the Board to secure that liabilities in respect of such benefits transferred to the Board under Article 145 are discharged by it in the prescribed manner.
 
-(3)[^key-216b93ab584f7aecec6860858f00e9b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-216b93ab584f7aecec6860858f00e9b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In this Article—
 
 - “accrued rights”, under the scheme rules, include pension credit rights within the meaning of Article 121(1) of the 1995 Order;
-- [^key-a031e117a8a595329ae9008ba5e99139]...
+- [^c-a031e117a8a595329ae9008ba5e99139]...
 
 ## Annotations
 
 [^c17105501]: Textual amendment: mod. by SR 2005/55
 
-[^key-216b93ab584f7aecec6860858f00e9b6]: Textual amendment: [Art. 154(3)](https://www.legislation.gov.uk/nisi/2005/255/article/154/3) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [6(a)](https://www.legislation.gov.uk/nisr/2012/124/article/6/a)
+[^c-216b93ab584f7aecec6860858f00e9b6]: Textual amendment: [Art. 154(3)](https://www.legislation.gov.uk/nisi/2005/255/article/154/3) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [6(a)](https://www.legislation.gov.uk/nisr/2012/124/article/6/a)
 
-[^key-a031e117a8a595329ae9008ba5e99139]: Textual amendment: Words in [art. 154(4)](https://www.legislation.gov.uk/nisi/2005/255/article/154/4) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [6(b)](https://www.legislation.gov.uk/nisr/2012/124/article/6/b)
+[^c-a031e117a8a595329ae9008ba5e99139]: Textual amendment: Words in [art. 154(4)](https://www.legislation.gov.uk/nisi/2005/255/article/154/4) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [6(b)](https://www.legislation.gov.uk/nisr/2012/124/article/6/b)

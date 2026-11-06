@@ -30,7 +30,7 @@ summary: ''
 
 (2) Information is exempt information if—
 
-- (a) held by a Scottish public authority for the purposes of an inquiry instituted under the Inquiries into Fatal Accidents and Sudden Deaths[^key-75189328262c3e960510e86bdedab8df] etc. (Scotland) Act 2016 but not for the time being concluded; or
+- (a) held by a Scottish public authority for the purposes of an inquiry instituted under the Inquiries into Fatal Accidents and Sudden Deaths[^c-75189328262c3e960510e86bdedab8df] etc. (Scotland) Act 2016 but not for the time being concluded; or
 - (b) held at any time by a Scottish public authority for the purposes of any other investigation being carried out—
   - (i) by virtue of a duty to ascertain; or
   - (ii) for the purpose of making a report to the procurator fiscal as respects,
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75189328262c3e960510e86bdedab8df]: Textual amendment: Words in s. 34(2)(a) substituted (15.6.2017) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2), [sch. 2 para. 10(2)](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/10/2); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-75189328262c3e960510e86bdedab8df]: Textual amendment: Words in s. 34(2)(a) substituted (15.6.2017) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2), [sch. 2 para. 10(2)](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/10/2); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))

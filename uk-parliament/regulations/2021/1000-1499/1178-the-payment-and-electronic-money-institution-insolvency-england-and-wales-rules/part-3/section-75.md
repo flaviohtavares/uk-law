@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Resignation[^key-845acb93b36d9f5e6c720114cb8960a5]
+## 75. Resignation[^c-845acb93b36d9f5e6c720114cb8960a5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A member of the creditors’ committee may resign by notice in writing delivered
 
 ## Annotations
 
-[^key-845acb93b36d9f5e6c720114cb8960a5]: Commencement: Rule 75 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-845acb93b36d9f5e6c720114cb8960a5]: Commencement: Rule 75 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

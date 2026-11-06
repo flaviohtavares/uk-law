@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13 — Repeals[^c19534101][^key-f77fd0748c2c5841c879ee3f1d551d19][^key-0bb97151719756d41ce9977d729d66e8][^key-d50fcc1be194166dbef0df78b824947d][^key-6a1cfd95b5afd0f6592d0fbff71a3c7e][^key-dd283114b74c1574ca2ca835903c3652][^key-7bb371a89c20a76b9625d8bcaa1f2b9b]
+## SCHEDULE 13 — Repeals[^c19534101][^c-f77fd0748c2c5841c879ee3f1d551d19][^c-0bb97151719756d41ce9977d729d66e8][^c-d50fcc1be194166dbef0df78b824947d][^c-6a1cfd95b5afd0f6592d0fbff71a3c7e][^c-dd283114b74c1574ca2ca835903c3652][^c-7bb371a89c20a76b9625d8bcaa1f2b9b]
 
 *Extent: E+W+S*
 
@@ -35,14 +35,14 @@ Section 238
 
 [^c19534101]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) partly in force; [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) in force for certain purposes at 26.1.2009 see [s. 241](https://www.legislation.gov.uk/ukpga/2008/29/section/241)
 
-[^key-f77fd0748c2c5841c879ee3f1d551d19]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) in force at 6.4.2009 for specified purposes for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(g)](https://www.legislation.gov.uk/uksi/2009/400/article/5/g)
+[^c-f77fd0748c2c5841c879ee3f1d551d19]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) in force at 6.4.2009 for specified purposes for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(g)](https://www.legislation.gov.uk/uksi/2009/400/article/5/g)
 
-[^key-0bb97151719756d41ce9977d729d66e8]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(o)](https://www.legislation.gov.uk/uksi/2009/400/article/3/o)
+[^c-0bb97151719756d41ce9977d729d66e8]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) in force at 6.4.2009 for specified purposes for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(o)](https://www.legislation.gov.uk/uksi/2009/400/article/3/o)
 
-[^key-d50fcc1be194166dbef0df78b824947d]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) in force at 23.6.2009 for specified purposes for E. by [S.I. 2009/1303](https://www.legislation.gov.uk/uksi/2009/1303), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1303/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2009/1303/schedule)
+[^c-d50fcc1be194166dbef0df78b824947d]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) in force at 23.6.2009 for specified purposes for E. by [S.I. 2009/1303](https://www.legislation.gov.uk/uksi/2009/1303), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/1303/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2009/1303/schedule)
 
-[^key-6a1cfd95b5afd0f6592d0fbff71a3c7e]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) in force at 6.4.2010 for specified purposes for E.W. by [S.I. 2010/566](https://www.legislation.gov.uk/uksi/2010/566), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/566/article/3/d), [Sch.](https://www.legislation.gov.uk/uksi/2010/566/schedule)
+[^c-6a1cfd95b5afd0f6592d0fbff71a3c7e]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) in force at 6.4.2010 for specified purposes for E.W. by [S.I. 2010/566](https://www.legislation.gov.uk/uksi/2010/566), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/566/article/3/d), [Sch.](https://www.legislation.gov.uk/uksi/2010/566/schedule)
 
-[^key-dd283114b74c1574ca2ca835903c3652]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) in force at 6.4.2012 for specified purposes for E. by [S.I. 2012/601](https://www.legislation.gov.uk/uksi/2012/601), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/601/article/2/c)
+[^c-dd283114b74c1574ca2ca835903c3652]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) in force at 6.4.2012 for specified purposes for E. by [S.I. 2012/601](https://www.legislation.gov.uk/uksi/2012/601), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/601/article/2/c)
 
-[^key-7bb371a89c20a76b9625d8bcaa1f2b9b]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) in force at 30.4.2012 for specified purposes for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/802/article/2/c)
+[^c-7bb371a89c20a76b9625d8bcaa1f2b9b]: Commencement: [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) in force at 30.4.2012 for specified purposes for W. by [S.I. 2012/802](https://www.legislation.gov.uk/wsi/2012/802), [art. 2(c)](https://www.legislation.gov.uk/wsi/2012/802/article/2/c)

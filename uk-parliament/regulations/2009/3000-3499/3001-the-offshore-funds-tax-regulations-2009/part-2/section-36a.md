@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Exchanges and schemes of reconstruction[^key-6cc22fd932b7d33a2df57fd37e5f2685]
+## 36A. Exchanges and schemes of reconstruction[^c-6cc22fd932b7d33a2df57fd37e5f2685]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cc22fd932b7d33a2df57fd37e5f2685]: Textual amendment: Reg. 36A substituted for regs. 35, 36 (8.6.2013) by [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/15/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))
+[^c-6cc22fd932b7d33a2df57fd37e5f2685]: Textual amendment: Reg. 36A substituted for regs. 35, 36 (8.6.2013) by [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/15/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))

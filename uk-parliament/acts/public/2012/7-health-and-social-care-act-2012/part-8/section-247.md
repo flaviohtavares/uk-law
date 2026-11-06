@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 247. Interpretation of this Part[^key-8b70a6294df01210b20f07f73b1f9fa4]
+## 247. Interpretation of this Part[^c-8b70a6294df01210b20f07f73b1f9fa4]
 
 *Extent: E+W*
 
 In this Part—
 
-- [^key-59f4ce1c6ee5e45601c78a562a08dbb2]...
+- [^c-59f4ce1c6ee5e45601c78a562a08dbb2]...
 - “**health care**” has the meaning given by section 240(4);
 - “**the health service**” has the same meaning as in the National Health Service Act 2006 (see section 275(1) of that Act);
 - “**health services**” has the meaning given by section 233(3);
@@ -33,6 +33,6 @@ In this Part—
 
 ## Annotations
 
-[^key-8b70a6294df01210b20f07f73b1f9fa4]: Commencement: [S. 247](https://www.legislation.gov.uk/ukpga/2012/7/section/247) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-8b70a6294df01210b20f07f73b1f9fa4]: Commencement: [S. 247](https://www.legislation.gov.uk/ukpga/2012/7/section/247) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-59f4ce1c6ee5e45601c78a562a08dbb2]: Textual amendment: Words in [s. 247](https://www.legislation.gov.uk/ukpga/2012/7/section/247) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/18); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-59f4ce1c6ee5e45601c78a562a08dbb2]: Textual amendment: Words in [s. 247](https://www.legislation.gov.uk/ukpga/2012/7/section/247) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/18); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

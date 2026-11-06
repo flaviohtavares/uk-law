@@ -31,7 +31,7 @@ summary: ''
 
 Representation Of The People
 
-The Parliamentary Elections (Returning Officers' Charges) Order 2019 (revoked)[^key-6795cb6fa9ace528aff2c7b46a15c8c2]
+The Parliamentary Elections (Returning Officers' Charges) Order 2019 (revoked)[^c-6795cb6fa9ace528aff2c7b46a15c8c2]
 
 Made
 
@@ -39,46 +39,46 @@ Made
 
 Coming into force in accordance with article 1(1)
 
-[^key-6795cb6fa9ace528aff2c7b46a15c8c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6795cb6fa9ace528aff2c7b46a15c8c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-6795cb6fa9ace528aff2c7b46a15c8c2]
+## 1. Citation, commencement and extent[^c-6795cb6fa9ace528aff2c7b46a15c8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-6795cb6fa9ace528aff2c7b46a15c8c2]
+## 2. Revocation[^c-6795cb6fa9ace528aff2c7b46a15c8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Returning officers: maximum recoverable amount for specified services[^key-6795cb6fa9ace528aff2c7b46a15c8c2]
+## 3. Returning officers: maximum recoverable amount for specified services[^c-6795cb6fa9ace528aff2c7b46a15c8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Returning officers: maximum recoverable amount for specified expenses[^key-6795cb6fa9ace528aff2c7b46a15c8c2]
+## 4. Returning officers: maximum recoverable amount for specified expenses[^c-6795cb6fa9ace528aff2c7b46a15c8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Returning officers: overall maximum recoverable amount[^key-6795cb6fa9ace528aff2c7b46a15c8c2]
+## 5. Returning officers: overall maximum recoverable amount[^c-6795cb6fa9ace528aff2c7b46a15c8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Overall maximum recoverable amount at an uncontested parliamentary election[^key-6795cb6fa9ace528aff2c7b46a15c8c2]
+## 6. Overall maximum recoverable amount at an uncontested parliamentary election[^c-6795cb6fa9ace528aff2c7b46a15c8c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6795cb6fa9ace528aff2c7b46a15c8c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6795cb6fa9ace528aff2c7b46a15c8c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Overall maximum recoverable amounts and maximum recoverable amounts for specified services and specified expenses for each constituency where a parliamentary election is a standalone poll[^key-6795cb6fa9ace528aff2c7b46a15c8c2]
+## SCHEDULE — Overall maximum recoverable amounts and maximum recoverable amounts for specified services and specified expenses for each constituency where a parliamentary election is a standalone poll[^c-6795cb6fa9ace528aff2c7b46a15c8c2]
 
 Articles 3(1), 4(1) and 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6795cb6fa9ace528aff2c7b46a15c8c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6795cb6fa9ace528aff2c7b46a15c8c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6795cb6fa9ace528aff2c7b46a15c8c2]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2019/1454) revoked (24.5.2024) by [The Parliamentary Elections (Returning Officers’ Charges) Order 2024 (S.I. 2024/693)](https://www.legislation.gov.uk/uksi/2024/693), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/693/article/1/1), [6(1)(a)](https://www.legislation.gov.uk/uksi/2024/693/article/6/1/a) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2024/693/article/6/2))
+[^c-6795cb6fa9ace528aff2c7b46a15c8c2]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2019/1454) revoked (24.5.2024) by [The Parliamentary Elections (Returning Officers’ Charges) Order 2024 (S.I. 2024/693)](https://www.legislation.gov.uk/uksi/2024/693), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/693/article/1/1), [6(1)(a)](https://www.legislation.gov.uk/uksi/2024/693/article/6/1/a) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2024/693/article/6/2))

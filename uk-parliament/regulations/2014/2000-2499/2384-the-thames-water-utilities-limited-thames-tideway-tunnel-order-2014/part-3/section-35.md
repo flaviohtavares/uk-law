@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Temporary use of land for carrying out the authorised project[^key-dda4267528f6874f8f0524e82fb82548]
+## 35. Temporary use of land for carrying out the authorised project[^c-dda4267528f6874f8f0524e82fb82548]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dda4267528f6874f8f0524e82fb82548]: Commencement: Art. 35 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-dda4267528f6874f8f0524e82fb82548]: Commencement: Art. 35 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

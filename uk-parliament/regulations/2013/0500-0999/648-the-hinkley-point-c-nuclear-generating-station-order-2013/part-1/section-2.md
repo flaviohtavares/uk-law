@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-91b01bdef6d04542e291bef123c0ee9e]
+## 2. Interpretation[^c-91b01bdef6d04542e291bef123c0ee9e]
 
 *Extent: E+W+S*
 
@@ -33,21 +33,21 @@ summary: ''
 - “approved plans” means the plans listed in Part 3 of Schedule 1 (approved plans) and such revised or supplemental plans as may be approved pursuant to the requirements;
 - “authorised development” means the development described in Part 1 of Schedule 1 (authorised development) and any other development authorised by this Order, but does not include the temporary jetty works;
 - “authorised project” means the authorised development and the temporary jetty works authorised by this Order;
-- “book of reference” means the book of reference certified by the Secretary of State as the book of reference for the purposes of this Order (but excluding section 5 (Bridgwater C) in the book of reference so certified)[^key-d6dd35e8876814e26fa0775ea5bd4a76];
+- “book of reference” means the book of reference certified by the Secretary of State as the book of reference for the purposes of this Order (but excluding section 5 (Bridgwater C) in the book of reference so certified)[^c-d6dd35e8876814e26fa0775ea5bd4a76];
 - “building” includes any structure or erection or any part of a building, structure or erection;
 - “carriageway” has the meaning given in section 329 of the 1980 Act (interpretation);
 - “discharging authority” means the body responsible for giving any agreement or approval required by a requirement;
 - “footpath implementation plan” means a written plan agreed between the undertaker and the highway authority for creation or improvement of a footpath to a specified standard;
 - “HPC development site” means the land within the Order limits shown on sheet nos. 2, 3 and 4;
 - “land” includes land covered by water, any interest in land or right in, to or over land;
-- “land plans” means the plans certified as the land plans by the Secretary of State for the purposes of this Order (but excluding sheet no. 5 (Bridgwater C Land Plan) in the land plans so certified)[^key-b560f8c4ed9cbb7f99ed31d412c872b5];
+- “land plans” means the plans certified as the land plans by the Secretary of State for the purposes of this Order (but excluding sheet no. 5 (Bridgwater C Land Plan) in the land plans so certified)[^c-b560f8c4ed9cbb7f99ed31d412c872b5];
 - “Order limits” means the limits shown on the works plans within which the authorised project may be carried out;
 - “owner”, in relation to land, has the same meaning as in section 7 of the Acquisition of Land Act 1981[^f00011] (interpretation);
 - “permanent development site” means the land within the permanent development site boundary as shown on plan HINK-A1-SL-00-GA-010 (Site Layout Plan (Operational));
 - “permanent limits” means the limits of land for the purpose of article 24 (compulsory acquisition of land) as shown shaded pink on the land plans;
 - “relevant planning authority” means, in any given provision of this Order, the district planning authority for any area of land that the provision relates to, i.e. West Somerset District Council and/or Sedgemoor District Council, as the case may be;
 - “requirements” has the meaning given in article 3 (development consent for authorised development etc.);
-- “rights of way plans” means the plans certified as the rights of way plans by the Secretary of State for the purposes of this Order (but excluding sheet no. 5 (Bridgwater C Rights of Way Plan) in the rights of way plans so certified)[^key-b87ab17e17fa3aaae5f49e12cb0bc4a1];
+- “rights of way plans” means the plans certified as the rights of way plans by the Secretary of State for the purposes of this Order (but excluding sheet no. 5 (Bridgwater C Rights of Way Plan) in the rights of way plans so certified)[^c-b87ab17e17fa3aaae5f49e12cb0bc4a1];
 - “site preparation permission” means the planning permission in respect of land to the West of Hinkley Point, Stogursey, Bridgwater TA5 1TP granted by West Somerset District Council on 27th January 2012, with reference number 3/32/10/037;
 - “statutory undertaker” means any person falling within section 127(8), 128(5) or 129(2) of the 2008 Act (which make provision about orders affecting statutory undertakers’ land);
 - “street” means a street within the meaning of section 48 of the 1991 Act (streets, street works and undertakers), together with land on the verge of a street or between two carriageways, and includes part of a street;
@@ -57,9 +57,9 @@ summary: ''
 - “temporary jetty works” means Work Nos. TJ1, TJ2 and TJ3 described in Part 2 of Schedule 1 (temporary jetty works) and any other works authorised by Part 2 of this Order (provisions relating to temporary jetty works) or, as the case may require, any part of those works, but excluding the temporary jetty demolition works;
 - “tree preservation order” has the meaning given in section 198 of the 1990 Act (power to make tree preservation orders);
 - “undertaker” means NNB Generation Company Limited (Company number 06937084);
-- “undertaking” means[^key-f7c904321083aa5505874eb9e694a608] the generation of electricity by the undertaker as authorised from time to time;
+- “undertaking” means[^c-f7c904321083aa5505874eb9e694a608] the generation of electricity by the undertaker as authorised from time to time;
 - “watercourse” includes all rivers, streams, ditches, drains, canals, cuts, culverts, dykes, sluices, sewers and passages through which water flows except a public sewer or drain; and
-- “the works plans” means the plans certified as the works plans by the Secretary of State for the purposes of this Order (but excluding sheet no. 13 (Bridgwater C Works Plan) in the works plans so certified)[^key-9229d5a4d9680785dbed15fa1f6061c9].
+- “the works plans” means the plans certified as the works plans by the Secretary of State for the purposes of this Order (but excluding sheet no. 13 (Bridgwater C Works Plan) in the works plans so certified)[^c-9229d5a4d9680785dbed15fa1f6061c9].
 
 (2) References in this Order to rights over land include references to rights to do or to place and maintain, anything in, on or under land or in the air-space above its surface.
 
@@ -79,7 +79,7 @@ summary: ''
 
 ## Annotations
 
-[^key-91b01bdef6d04542e291bef123c0ee9e]: Commencement: Art. 2 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-91b01bdef6d04542e291bef123c0ee9e]: Commencement: Art. 2 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
 [^f00004]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33). Section 2(2) was amended by section 193 of, and paragraph 5 of Schedule 33 to, the Local Government, Planning and Land Act [1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65). There are other amendments to the 1961 Act which are not relevant to this Order.
 
@@ -95,14 +95,14 @@ summary: ''
 
 [^f00010]: Footnote: [S.I. 2003/1998](https://www.legislation.gov.uk/uksi/2003/1998).
 
-[^key-d6dd35e8876814e26fa0775ea5bd4a76]: Textual amendment: Words in art. 2(1) inserted (18.8.2017) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/843/article/3/2)
+[^c-d6dd35e8876814e26fa0775ea5bd4a76]: Textual amendment: Words in art. 2(1) inserted (18.8.2017) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2017/843/article/3/2)
 
-[^key-b560f8c4ed9cbb7f99ed31d412c872b5]: Textual amendment: Words in art. 2(1) inserted (18.8.2017) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/843/article/3/3)
+[^c-b560f8c4ed9cbb7f99ed31d412c872b5]: Textual amendment: Words in art. 2(1) inserted (18.8.2017) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/843/article/3/3)
 
 [^f00011]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). Section 7 was amended by section 70 of, and paragraph 9 of Schedule 15 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the 1981 Act which are not relevant to this Order.
 
-[^key-b87ab17e17fa3aaae5f49e12cb0bc4a1]: Textual amendment: Words in art. 2(1) inserted (18.8.2017) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2017/843/article/3/4)
+[^c-b87ab17e17fa3aaae5f49e12cb0bc4a1]: Textual amendment: Words in art. 2(1) inserted (18.8.2017) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2017/843/article/3/4)
 
-[^key-f7c904321083aa5505874eb9e694a608]: Textual amendment: Word in art. 2(1) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 1
+[^c-f7c904321083aa5505874eb9e694a608]: Textual amendment: Word in art. 2(1) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 1
 
-[^key-9229d5a4d9680785dbed15fa1f6061c9]: Textual amendment: Words in art. 2(1) inserted (18.8.2017) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [3(5)](https://www.legislation.gov.uk/uksi/2017/843/article/3/5)
+[^c-9229d5a4d9680785dbed15fa1f6061c9]: Textual amendment: Words in art. 2(1) inserted (18.8.2017) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [3(5)](https://www.legislation.gov.uk/uksi/2017/843/article/3/5)

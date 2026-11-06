@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Rights related to residence: application deadline and temporary protection[^key-3740c3427cee346f4b70befde4049807]
+## 7. Rights related to residence: application deadline and temporary protection[^c-3740c3427cee346f4b70befde4049807]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3740c3427cee346f4b70befde4049807]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2020/1/section/7) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/a)
+[^c-3740c3427cee346f4b70befde4049807]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2020/1/section/7) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/a)

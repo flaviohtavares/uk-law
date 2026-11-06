@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State for Environment, Food and Rural Affairs and the Secretary of State concerned with sea fishing in Northern Ireland, in exercise of the powers conferred by section 30(2) of the Fisheries Act 1981[^f00001], and now vested in them[^f00002], make the following Order.
 
-## 1. Citation and commencement[^key-75ac0663672bb46e217d6280aedee9c7]
+## 1. Citation and commencement[^c-75ac0663672bb46e217d6280aedee9c7]
 
 This Order may be cited as the Sea Fishing (Enforcement of Community Measures) (Penalty Notices) Order 2008 and comes into force on 28th April 2008.
 
-## 2. Extent and application[^key-dd04d99dc077907945ec7c2b3c94c60e]
+## 2. Extent and application[^c-dd04d99dc077907945ec7c2b3c94c60e]
 
 (1) This Order extends to England and Wales.
 
@@ -63,7 +63,7 @@ This Order may be cited as the Sea Fishing (Enforcement of Community Measures) (
   - (ii) the Northern Ireland zone (as defined in section 98 of the Northern Ireland Act 1998[^f00004]); or
   - (iii) the territorial sea adjacent to the Isle of Man, Jersey[^f00005] or Guernsey.
 
-## 3. Interpretation[^key-c47e619a3922f8ab45adc1a77fd151e7]
+## 3. Interpretation[^c-c47e619a3922f8ab45adc1a77fd151e7]
 
 (1) In this Order—
 
@@ -91,13 +91,13 @@ This Order may be cited as the Sea Fishing (Enforcement of Community Measures) (
 
 and in this paragraph “registered” means registered in the register maintained under section 8 of the Merchant Shipping Act 1995 and “specified port” means the port specified in the entry in that register as the one to which the boat is to be treated as belonging.
 
-## 4. Issue of penalty notice for penalty offence[^key-f2cae95c15dc44820ae215e2e5ccb0c4]
+## 4. Issue of penalty notice for penalty offence[^c-f2cae95c15dc44820ae215e2e5ccb0c4]
 
 (1) An authorised officer who has reason to believe that a person has committed a penalty offence may issue that person with a penalty notice for an amount not exceeding £4000.
 
 (2) A penalty notice is issued at the time when it is sent by post or delivered by hand to the person to whom it relates.
 
-## 5. Restriction on proceedings for penalty offence[^key-cb97d8463aea32ac0e8f2d74f66ac563]
+## 5. Restriction on proceedings for penalty offence[^c-cb97d8463aea32ac0e8f2d74f66ac563]
 
 (1) Where a person is issued with a penalty notice—
 
@@ -109,13 +109,13 @@ and in this paragraph “registered” means registered in the register maintain
 - (a) is subject to article 10, and
 - (b) does not apply if the penalty notice is withdrawn in accordance with article 9.
 
-## 6. Payment of penalty[^key-2ba2007ef3a3b6b5f4c9316042e5dc16]
+## 6. Payment of penalty[^c-2ba2007ef3a3b6b5f4c9316042e5dc16]
 
 (1) Payment of a penalty must be made to the person specified in the penalty notice by sending it by post or by such method as may be specified in the notice.
 
 (2) It may not be made in cash.
 
-## 7. Payment of one penalty treated as payment of connected penalties[^key-440206c21546d67b9175ce9f5e27e162]
+## 7. Payment of one penalty treated as payment of connected penalties[^c-440206c21546d67b9175ce9f5e27e162]
 
 (1) Where a person (“A”) pays the penalty in accordance with article 6, an authorised officer must give a notice (a “notice of deemed payment”) to all other persons who have been issued with a connected penalty notice.
 
@@ -135,13 +135,13 @@ and in this paragraph “registered” means registered in the register maintain
 
 (5) If no notice of objection is given in accordance with this article, the penalty notice issued to a person who has been given a notice of deemed payment is to be treated as having been paid.
 
-## 8. Certificate of payment or non-payment of penalty notice[^key-ab7970e6ae65b668e203b3db22a5c513]
+## 8. Certificate of payment or non-payment of penalty notice[^c-ab7970e6ae65b668e203b3db22a5c513]
 
 (1) In any proceedings a certificate purporting to be signed by or on behalf of the Secretary of State stating that payment in respect of a penalty notice was or was not received on or before a date specified in the certificate is evidence of the facts stated.
 
 (2) In relation to Wales, that certificate may purport to be signed by or on behalf of the Welsh Ministers instead.
 
-## 9. Withdrawal of penalty notices[^key-c9d2eb81489f34693a9aef49357f6493]
+## 9. Withdrawal of penalty notices[^c-c9d2eb81489f34693a9aef49357f6493]
 
 (1) A penalty notice may be withdrawn by an authorised officer who has reason to believe that it ought not to have been issued (whether to the person named in the penalty notice or otherwise).
 
@@ -149,7 +149,7 @@ and in this paragraph “registered” means registered in the register maintain
 
 (3) If a penalty notice is withdrawn any penalty paid must be repaid.
 
-## 10. Commencement of proceedings after payment of penalty in relation to fishing boats from outside the United Kingdom[^key-a1e4a69ca33ddfb5223c0528784b10ae]
+## 10. Commencement of proceedings after payment of penalty in relation to fishing boats from outside the United Kingdom[^c-a1e4a69ca33ddfb5223c0528784b10ae]
 
 (1) This article applies in relation to a penalty notice issued to the master, owner or charterer of a fishing boat other than an English, Northern Ireland, Scottish or Welsh fishing boat.
 
@@ -215,9 +215,9 @@ A Regulatory Impact Assessment in relation to this Order has been prepared and p
 
     Any remaining functions of the Secretaries of State for Scotland and Wales under section 30(2) the 1981 Act in relation to England have been transferred to the Minister of Agriculture, Fisheries and Food: see article 2(1) of the Transfer of Functions (Agriculture and Fisheries) Order 2000 ([S.I. 2000/1812](https://www.legislation.gov.uk/uksi/2000/1812)). The function of that Minister and the Secretary of State concerned with sea fishing in Northern Ireland acting jointly under section 30(2) has been transferred to the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State concerned with sea fishing in Northern Ireland acting jointly: see article 2(5) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
-[^key-75ac0663672bb46e217d6280aedee9c7]: Commencement: Art. 1 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
+[^c-75ac0663672bb46e217d6280aedee9c7]: Commencement: Art. 1 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
 
-[^key-dd04d99dc077907945ec7c2b3c94c60e]: Commencement: Art. 2 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
+[^c-dd04d99dc077907945ec7c2b3c94c60e]: Commencement: Art. 2 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
 
 [^f00003]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
@@ -225,7 +225,7 @@ A Regulatory Impact Assessment in relation to this Order has been prepared and p
 
 [^f00005]: Footnote: See section 1(5) of the Territorial Sea Act [1987 (c. 49)](https://www.legislation.gov.uk/ukpga/1987/49) (as extended to Jersey by [S.I. 1997/278](https://www.legislation.gov.uk/uksi/1997/278), as amended by [S.I. 2002/250](https://www.legislation.gov.uk/uksi/2002/250), and to the Isle of Man by [S.I. 1991/1722](https://www.legislation.gov.uk/uksi/1991/1722)).
 
-[^key-c47e619a3922f8ab45adc1a77fd151e7]: Commencement: Art. 3 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
+[^c-c47e619a3922f8ab45adc1a77fd151e7]: Commencement: Art. 3 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
 
 [^f00006]: Footnote: [1968 c. 77](https://www.legislation.gov.uk/ukpga/1968/77).
 
@@ -243,16 +243,16 @@ A Regulatory Impact Assessment in relation to this Order has been prepared and p
 
 [^f00013]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-f2cae95c15dc44820ae215e2e5ccb0c4]: Commencement: Art. 4 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
+[^c-f2cae95c15dc44820ae215e2e5ccb0c4]: Commencement: Art. 4 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
 
-[^key-cb97d8463aea32ac0e8f2d74f66ac563]: Commencement: Art. 5 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
+[^c-cb97d8463aea32ac0e8f2d74f66ac563]: Commencement: Art. 5 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
 
-[^key-2ba2007ef3a3b6b5f4c9316042e5dc16]: Commencement: Art. 6 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
+[^c-2ba2007ef3a3b6b5f4c9316042e5dc16]: Commencement: Art. 6 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
 
-[^key-440206c21546d67b9175ce9f5e27e162]: Commencement: Art. 7 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
+[^c-440206c21546d67b9175ce9f5e27e162]: Commencement: Art. 7 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
 
-[^key-ab7970e6ae65b668e203b3db22a5c513]: Commencement: Art. 8 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
+[^c-ab7970e6ae65b668e203b3db22a5c513]: Commencement: Art. 8 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
 
-[^key-c9d2eb81489f34693a9aef49357f6493]: Commencement: Art. 9 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
+[^c-c9d2eb81489f34693a9aef49357f6493]: Commencement: Art. 9 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
 
-[^key-a1e4a69ca33ddfb5223c0528784b10ae]: Commencement: Art. 10 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)
+[^c-a1e4a69ca33ddfb5223c0528784b10ae]: Commencement: Art. 10 in force at 28.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/984/article/1)

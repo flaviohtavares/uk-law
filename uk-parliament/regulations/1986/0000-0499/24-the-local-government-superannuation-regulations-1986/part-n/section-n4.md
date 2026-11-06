@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## N4. Decisions by administering authorities as to war service[^key-049c46727eb24712d980239b49d288ad]
+## N4. Decisions by administering authorities as to war service[^c-049c46727eb24712d980239b49d288ad]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-049c46727eb24712d980239b49d288ad]: Commencement: [Reg. N4](https://www.legislation.gov.uk/uksi/1986/24/regulation/N4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-049c46727eb24712d980239b49d288ad]: Commencement: [Reg. N4](https://www.legislation.gov.uk/uksi/1986/24/regulation/N4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

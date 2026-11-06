@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Settlement costs levy: the first levy period[^key-caa530ffd8d7a3acc632132d30faa2d4]
+## 44. Settlement costs levy: the first levy period[^c-caa530ffd8d7a3acc632132d30faa2d4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-caa530ffd8d7a3acc632132d30faa2d4]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/uksi/2014/2043/regulation/44) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/11)
+[^c-caa530ffd8d7a3acc632132d30faa2d4]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/uksi/2014/2043/regulation/44) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/11)

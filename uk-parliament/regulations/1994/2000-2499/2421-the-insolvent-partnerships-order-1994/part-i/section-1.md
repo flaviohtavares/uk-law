@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement and extent[^key-bc21d9da2a76bc81b88f93fd090d2cad]
+## 1. Citation, commencement and extent[^c-bc21d9da2a76bc81b88f93fd090d2cad]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc21d9da2a76bc81b88f93fd090d2cad]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1994/2421/article/1) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-bc21d9da2a76bc81b88f93fd090d2cad]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1994/2421/article/1) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)

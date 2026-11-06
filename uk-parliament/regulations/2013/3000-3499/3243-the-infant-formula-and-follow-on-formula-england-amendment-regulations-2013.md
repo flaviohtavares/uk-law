@@ -32,7 +32,7 @@ summary: ''
 
 Food, England
 
-The Infant Formula and Follow-on Formula (England) (Amendment) Regulations 2013 (revoked)[^key-ae04138f5a6ec0c319d71564a4108838]
+The Infant Formula and Follow-on Formula (England) (Amendment) Regulations 2013 (revoked)[^c-ae04138f5a6ec0c319d71564a4108838]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 28th February 2014
 
-[^key-ae04138f5a6ec0c319d71564a4108838]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae04138f5a6ec0c319d71564a4108838]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-ae04138f5a6ec0c319d71564a4108838]
+## 1. Title, commencement and application[^c-ae04138f5a6ec0c319d71564a4108838]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Infant Formula and Follow-on Formula (England) Regulations 2007[^key-ae04138f5a6ec0c319d71564a4108838]
+## 2. Amendment of the Infant Formula and Follow-on Formula (England) Regulations 2007[^c-ae04138f5a6ec0c319d71564a4108838]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ae04138f5a6ec0c319d71564a4108838]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae04138f5a6ec0c319d71564a4108838]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ae04138f5a6ec0c319d71564a4108838]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae04138f5a6ec0c319d71564a4108838]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ae04138f5a6ec0c319d71564a4108838]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/3243) revoked (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/43/schedule/3) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/5/2)) (as amended by [S.I. 2021/168](https://www.legislation.gov.uk/uksi/2021/168), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/168/regulation/2/3))
+[^c-ae04138f5a6ec0c319d71564a4108838]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/3243) revoked (22.2.2020) by [The Food for Specific Groups (Food for Special Medical Purposes for Infants, Infant Formula and Follow-on Formula) (Information and Compositional Requirements) (Amendment etc.) (England) Regulations 2020 (S.I. 2020/43)](https://www.legislation.gov.uk/uksi/2020/43), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/43/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/43/schedule/3) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2020/43/regulation/5/2)) (as amended by [S.I. 2021/168](https://www.legislation.gov.uk/uksi/2021/168), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/168/regulation/2/3))

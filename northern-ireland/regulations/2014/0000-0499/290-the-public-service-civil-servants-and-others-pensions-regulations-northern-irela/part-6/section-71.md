@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Meaning of “incapacity for employment” and “total incapacity for employment”[^key-8d819681b300e543c019b0d1a678d775]
+## 71. Meaning of “incapacity for employment” and “total incapacity for employment”[^c-8d819681b300e543c019b0d1a678d775]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ For the purpose of these Regulations—
 
 ## Annotations
 
-[^key-8d819681b300e543c019b0d1a678d775]: Commencement: [Reg. 71](https://www.legislation.gov.uk/nisr/2014/290/regulation/71) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-8d819681b300e543c019b0d1a678d775]: Commencement: [Reg. 71](https://www.legislation.gov.uk/nisr/2014/290/regulation/71) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

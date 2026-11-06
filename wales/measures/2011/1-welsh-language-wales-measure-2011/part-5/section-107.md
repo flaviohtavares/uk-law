@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Obstruction and contempt[^key-dc128a55ca155dbc4bcd7e55e2b19aa2]
+## 107. Obstruction and contempt[^c-dc128a55ca155dbc4bcd7e55e2b19aa2]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc128a55ca155dbc4bcd7e55e2b19aa2]: Commencement: [S. 107](https://www.legislation.gov.uk/mwa/2011/1/section/107) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-dc128a55ca155dbc4bcd7e55e2b19aa2]: Commencement: [S. 107](https://www.legislation.gov.uk/mwa/2011/1/section/107) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

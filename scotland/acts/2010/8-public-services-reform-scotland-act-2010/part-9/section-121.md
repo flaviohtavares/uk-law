@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Variation, revocation and review of directions[^key-296c0f9eab17c9d75eb9675072a163c0]
+## 121. Variation, revocation and review of directions[^c-296c0f9eab17c9d75eb9675072a163c0]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-296c0f9eab17c9d75eb9675072a163c0]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2010/8/section/121) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-296c0f9eab17c9d75eb9675072a163c0]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2010/8/section/121) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

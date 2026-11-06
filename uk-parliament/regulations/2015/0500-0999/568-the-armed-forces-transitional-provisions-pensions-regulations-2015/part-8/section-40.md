@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Amendment of article 35 (entitlement to resettlement grants) of the AF(RRGES) (No.2) Order[^key-12568a8fbc09b62e66ab24fd874be21e]
+## 40. Amendment of article 35 (entitlement to resettlement grants) of the AF(RRGES) (No.2) Order[^c-12568a8fbc09b62e66ab24fd874be21e]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ for—
 
 ## Annotations
 
-[^key-12568a8fbc09b62e66ab24fd874be21e]: Commencement: Reg. 40 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-12568a8fbc09b62e66ab24fd874be21e]: Commencement: Reg. 40 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

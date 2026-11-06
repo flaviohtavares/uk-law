@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3A. Common bonds: corporate members[^key-e78b6f08da4226000738f84b0f8235f4]
+## 3A. Common bonds: corporate members[^c-e78b6f08da4226000738f84b0f8235f4]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ has a common bond within Article 3(4)(a) to (d) in relation to other members of 
 
 ## Annotations
 
-[^key-e78b6f08da4226000738f84b0f8235f4]: Textual amendment: Art. 3A inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17](https://www.legislation.gov.uk/nia/2016/16/section/17), [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/2)
+[^c-e78b6f08da4226000738f84b0f8235f4]: Textual amendment: Art. 3A inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17](https://www.legislation.gov.uk/nia/2016/16/section/17), [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/2)

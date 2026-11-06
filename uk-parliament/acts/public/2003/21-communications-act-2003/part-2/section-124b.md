@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124B. Obligation to provide copyright infringement lists to copyright owners[^key-ec46b7002d5533c41848cefc81f2987e]
+## 124B. Obligation to provide copyright infringement lists to copyright owners[^c-ec46b7002d5533c41848cefc81f2987e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec46b7002d5533c41848cefc81f2987e]: Textual amendment: S. 124B inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 4](https://www.legislation.gov.uk/ukpga/2010/24/section/4), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-ec46b7002d5533c41848cefc81f2987e]: Textual amendment: S. 124B inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 4](https://www.legislation.gov.uk/ukpga/2010/24/section/4), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

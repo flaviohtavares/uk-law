@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Resolutions passed at adjourned meetings[^key-b7bc3a58c074f27ac4f559a5e8e1669a]
+## 51. Resolutions passed at adjourned meetings[^c-b7bc3a58c074f27ac4f559a5e8e1669a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Omit Article 163 (resolutions passed at adjourned meetings).
 
 ## Annotations
 
-[^key-b7bc3a58c074f27ac4f559a5e8e1669a]: Commencement: S. 51 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-b7bc3a58c074f27ac4f559a5e8e1669a]: Commencement: S. 51 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 296. Electronic delivery by administrator[^key-4146f20933eeb238eaaddbb499346c0d]
+## 296. Electronic delivery by administrator[^c-4146f20933eeb238eaaddbb499346c0d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4146f20933eeb238eaaddbb499346c0d]: Commencement: [Rule 296](https://www.legislation.gov.uk/uksi/2011/1301/rule/296) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-4146f20933eeb238eaaddbb499346c0d]: Commencement: [Rule 296](https://www.legislation.gov.uk/uksi/2011/1301/rule/296) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

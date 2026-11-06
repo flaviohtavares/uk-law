@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Compulsory acquisition of land[^key-21b050ab43397f8df37b170b36288b87]
+## 18. Compulsory acquisition of land[^c-21b050ab43397f8df37b170b36288b87]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21b050ab43397f8df37b170b36288b87]: Commencement: Art. 18 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-21b050ab43397f8df37b170b36288b87]: Commencement: Art. 18 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)

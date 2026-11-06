@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Power to exempt certain cross-border employment from enrolment duty[^key-c721577b19e4daa90d216c538f3d597b]
+## 18. Power to exempt certain cross-border employment from enrolment duty[^c-c721577b19e4daa90d216c538f3d597b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c721577b19e4daa90d216c538f3d597b]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/2011/19/section/18) repealed (11.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 38(3)(c)](https://www.legislation.gov.uk/ukpga/2014/19/section/38/3/c), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/c)
+[^c-c721577b19e4daa90d216c538f3d597b]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/2011/19/section/18) repealed (11.9.2014) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [ss. 38(3)(c)](https://www.legislation.gov.uk/ukpga/2014/19/section/38/3/c), [56(1)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1); [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(c)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/c)

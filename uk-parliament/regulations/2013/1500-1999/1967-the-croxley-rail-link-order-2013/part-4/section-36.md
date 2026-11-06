@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Transfer of former Croxley Green Branch line[^key-d1e8c2293a2599f6556b8cc4aff35acd]
+## 36. Transfer of former Croxley Green Branch line[^c-d1e8c2293a2599f6556b8cc4aff35acd]
 
 *Extent: E+W+S*
 
@@ -47,6 +47,6 @@ and for the transfer back to Network Rail in such circumstances as may be specif
 
 ## Annotations
 
-[^key-d1e8c2293a2599f6556b8cc4aff35acd]: Commencement: Art. 36 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-d1e8c2293a2599f6556b8cc4aff35acd]: Commencement: Art. 36 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
 
 [^f00023]: Footnote: [1907 c. clxxxvii](https://www.legislation.gov.uk/ukla/1907/187).

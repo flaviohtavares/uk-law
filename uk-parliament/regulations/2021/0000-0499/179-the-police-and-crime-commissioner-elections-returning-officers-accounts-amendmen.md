@@ -32,7 +32,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police and Crime Commissioner Elections (Returning Officers’ Accounts) (Amendment) Regulations 2021 (revoked)[^key-a2d9501db4c5607a3a7f057b96630e8f]
+The Police and Crime Commissioner Elections (Returning Officers’ Accounts) (Amendment) Regulations 2021 (revoked)[^c-a2d9501db4c5607a3a7f057b96630e8f]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 25th March 2021
 
-[^key-a2d9501db4c5607a3a7f057b96630e8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2d9501db4c5607a3a7f057b96630e8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent, and transitional provision[^key-a2d9501db4c5607a3a7f057b96630e8f]
+## 1. Citation, commencement, extent, and transitional provision[^c-a2d9501db4c5607a3a7f057b96630e8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2012[^key-a2d9501db4c5607a3a7f057b96630e8f]
+## 2. Amendment of the Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2012[^c-a2d9501db4c5607a3a7f057b96630e8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendments[^key-a2d9501db4c5607a3a7f057b96630e8f]
+## 3. Consequential amendments[^c-a2d9501db4c5607a3a7f057b96630e8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2d9501db4c5607a3a7f057b96630e8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2d9501db4c5607a3a7f057b96630e8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2d9501db4c5607a3a7f057b96630e8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2d9501db4c5607a3a7f057b96630e8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a2d9501db4c5607a3a7f057b96630e8f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/179) revoked (with savings) (16.3.2024) by [The Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2024 (S.I. 2024/181)](https://www.legislation.gov.uk/uksi/2024/181), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2024/181/regulation/8/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/3))
+[^c-a2d9501db4c5607a3a7f057b96630e8f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/179) revoked (with savings) (16.3.2024) by [The Police and Crime Commissioner Elections (Returning Officers’ Accounts) Regulations 2024 (S.I. 2024/181)](https://www.legislation.gov.uk/uksi/2024/181), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2024/181/regulation/8/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/181/regulation/1/3))

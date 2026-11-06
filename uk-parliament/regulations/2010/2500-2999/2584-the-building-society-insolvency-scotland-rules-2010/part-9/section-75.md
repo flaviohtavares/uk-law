@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Expenses of members, etc[^key-9d2538c9dc397b7718cfd9dd54efdcc6]
+## 75. Expenses of members, etc[^c-9d2538c9dc397b7718cfd9dd54efdcc6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.57(1) of the 1986 Rules.
 
 ## Annotations
 
-[^key-9d2538c9dc397b7718cfd9dd54efdcc6]: Commencement: Rule 75 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-9d2538c9dc397b7718cfd9dd54efdcc6]: Commencement: Rule 75 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

@@ -18,9 +18,9 @@ summary: ''
 
 The claimant shall be notified of—
 
-- (a) any determination of the Secretary of State[^key-2ae3d9e730302dc45d0d71b46d1bd0be] under section 10;
+- (a) any determination of the Secretary of State[^c-2ae3d9e730302dc45d0d71b46d1bd0be] under section 10;
 - (b) any direction of the Secretary of State under section 10.
 
 ## Annotations
 
-[^key-2ae3d9e730302dc45d0d71b46d1bd0be]: Textual amendment: Words in reg. 40 substituted (18.10.1999) by [The Social Security Act 1998 (Commencement No. 11, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2860)](https://www.legislation.gov.uk/uksi/1999/2860), [art. 3(1)](https://www.legislation.gov.uk/uksi/1999/2860/article/3/1), [Sch. 12 para. 2](https://www.legislation.gov.uk/uksi/1999/2860/schedule/12/paragraph/2)
+[^c-2ae3d9e730302dc45d0d71b46d1bd0be]: Textual amendment: Words in reg. 40 substituted (18.10.1999) by [The Social Security Act 1998 (Commencement No. 11, and Savings and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/2860)](https://www.legislation.gov.uk/uksi/1999/2860), [art. 3(1)](https://www.legislation.gov.uk/uksi/1999/2860/article/3/1), [Sch. 12 para. 2](https://www.legislation.gov.uk/uksi/1999/2860/schedule/12/paragraph/2)

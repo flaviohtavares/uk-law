@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44C. Determination of disputes[^key-900ea886bbf1e3573afd45617d64e30c]
+## 44C. Determination of disputes[^c-900ea886bbf1e3573afd45617d64e30c]
 
 *Extent: E+W+S*
 
-(1) A section 44B[^key-e67fe57e089473e15127739ba6ae5a7f] dispute (other than one which may be referred to the Authority under or by virtue of any other provision of this Act) may be referred to the Authority under this section by the person who is the complainant in relation to the dispute.
+(1) A section 44B[^c-e67fe57e089473e15127739ba6ae5a7f] dispute (other than one which may be referred to the Authority under or by virtue of any other provision of this Act) may be referred to the Authority under this section by the person who is the complainant in relation to the dispute.
 
-(2) A section 44B[^key-7cc73f6404e5f4d6b3f24fd9a9c929c7] dispute referred to the Authority under this section shall be determined by order made either by the Authority or, if the Authority thinks fit, by an arbitrator (or in Scotland an arbiter) appointed by the Authority.
+(2) A section 44B[^c-7cc73f6404e5f4d6b3f24fd9a9c929c7] dispute referred to the Authority under this section shall be determined by order made either by the Authority or, if the Authority thinks fit, by an arbitrator (or in Scotland an arbiter) appointed by the Authority.
 
-(3) The practice and procedure to be followed in connection with a section 44B[^key-160d6b68e144c1f8657009474d92ff77] dispute referred to the Authority under this section shall be such as the Authority may consider appropriate.
+(3) The practice and procedure to be followed in connection with a section 44B[^c-160d6b68e144c1f8657009474d92ff77] dispute referred to the Authority under this section shall be such as the Authority may consider appropriate.
 
 (4) An order under this section—
 
@@ -40,19 +40,19 @@ summary: ''
 - (a) in England and Wales, as if it were a judgment of the county court;
 - (b) in Scotland, as if it were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff.
 
-(8)[^key-dbb8d68b42ff8c3271d1a89ddecded17] Sections 25 to 28 have effect in relation to a person against whom a complaint is made as mentioned in section 44B(1)(a), and on whom a duty or other requirement is imposed by an order under this section—
+(8)[^c-dbb8d68b42ff8c3271d1a89ddecded17] Sections 25 to 28 have effect in relation to a person against whom a complaint is made as mentioned in section 44B(1)(a), and on whom a duty or other requirement is imposed by an order under this section—
 
 - (a) as if references in those sections to a relevant requirement (other than the reference in section 25(8)) included references to that duty or requirement;
 - (b) if the complaint is made against the person as mentioned in sub-paragraph (v) of section 44B(1)(a), also as if references in those sections to a regulated person included references to that person.
 
 ## Annotations
 
-[^key-900ea886bbf1e3573afd45617d64e30c]: Textual amendment: Ss. 44B-44D and cross-heading inserted (E.W.S.) (29.6.2009) by [The Gas and Electricity (Dispute Resolution) Regulations 2009 (S.I. 2009/1349)](https://www.legislation.gov.uk/uksi/2009/1349), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1349/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2009/1349/regulation/3)
+[^c-900ea886bbf1e3573afd45617d64e30c]: Textual amendment: Ss. 44B-44D and cross-heading inserted (E.W.S.) (29.6.2009) by [The Gas and Electricity (Dispute Resolution) Regulations 2009 (S.I. 2009/1349)](https://www.legislation.gov.uk/uksi/2009/1349), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1349/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2009/1349/regulation/3)
 
-[^key-e67fe57e089473e15127739ba6ae5a7f]: Textual amendment: Words in s. 44C(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [57(2)](https://www.legislation.gov.uk/uksi/2019/530/regulation/57/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e67fe57e089473e15127739ba6ae5a7f]: Textual amendment: Words in s. 44C(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [57(2)](https://www.legislation.gov.uk/uksi/2019/530/regulation/57/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7cc73f6404e5f4d6b3f24fd9a9c929c7]: Textual amendment: Words in s. 44C(2) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [57(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/57/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7cc73f6404e5f4d6b3f24fd9a9c929c7]: Textual amendment: Words in s. 44C(2) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [57(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/57/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-160d6b68e144c1f8657009474d92ff77]: Textual amendment: Words in s. 44C(3) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [57(4)](https://www.legislation.gov.uk/uksi/2019/530/regulation/57/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-160d6b68e144c1f8657009474d92ff77]: Textual amendment: Words in s. 44C(3) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [57(4)](https://www.legislation.gov.uk/uksi/2019/530/regulation/57/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dbb8d68b42ff8c3271d1a89ddecded17]: Textual amendment: S. 44C(8) substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [29(4)(b)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/29/4/b)
+[^c-dbb8d68b42ff8c3271d1a89ddecded17]: Textual amendment: S. 44C(8) substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [29(4)(b)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/29/4/b)

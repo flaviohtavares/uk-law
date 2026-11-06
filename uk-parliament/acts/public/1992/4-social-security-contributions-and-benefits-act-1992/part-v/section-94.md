@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Industrial injuries benefit shall be payable where an employed earner suffers personal injury caused [^key-b52a7021a57455fb3371c2e1c688d337]... by accident arising out of and in the course of his employment, being employed earner’s employment.
+(1) Industrial injuries benefit shall be payable where an employed earner suffers personal injury caused [^c-b52a7021a57455fb3371c2e1c688d337]... by accident arising out of and in the course of his employment, being employed earner’s employment.
 
 (2) Industrial injuries benefit consists of the following benefits—
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b52a7021a57455fb3371c2e1c688d337]: Textual amendment: Words in s. 94(1) repealed (30.10.2012 for specified purposes, 5.12.2012 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 64(1)(a)](https://www.legislation.gov.uk/ukpga/2012/5/section/64/1/a), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/5/a)[(6)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/a)
+[^c-b52a7021a57455fb3371c2e1c688d337]: Textual amendment: Words in s. 94(1) repealed (30.10.2012 for specified purposes, 5.12.2012 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 64(1)(a)](https://www.legislation.gov.uk/ukpga/2012/5/section/64/1/a), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/5/a)[(6)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/a)

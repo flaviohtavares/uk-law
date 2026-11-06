@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Absent voting at elections: miscellaneous[^key-86304aa05c83a4d5baa0b94e5d216c10]
+## 12. Absent voting at elections: miscellaneous[^c-86304aa05c83a4d5baa0b94e5d216c10]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-86304aa05c83a4d5baa0b94e5d216c10]: Commencement: Art. 12 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-86304aa05c83a4d5baa0b94e5d216c10]: Commencement: Art. 12 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00026]: Footnote: Section 59 was amended by the Representation of the People Act [1993 (c.29)](https://www.legislation.gov.uk/ukpga/1993/29), section 1; the 2000 Act, Schedule 1, paragraph 16 and the 2006 Act, section 13.

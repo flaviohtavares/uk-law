@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. References to certain entries in Register of Inhibitions[^key-3e41e04f0fd2cbfd39bf034c7ddb0165]
+## 32. References to certain entries in Register of Inhibitions[^c-3e41e04f0fd2cbfd39bf034c7ddb0165]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e41e04f0fd2cbfd39bf034c7ddb0165]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2012/5/section/32) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-3e41e04f0fd2cbfd39bf034c7ddb0165]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2012/5/section/32) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

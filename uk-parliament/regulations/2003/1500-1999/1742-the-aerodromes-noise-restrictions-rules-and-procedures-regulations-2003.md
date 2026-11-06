@@ -43,7 +43,7 @@ Coming into force
 
 6th August 2003
 
-[^key-4f651f11e460aa6240df2f65dbd8eb35][^key-6f324b3aecc4b65560fe650bb8bd87b6]The Secretary of State for Transport, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 [^c5061621] in relation to measures relating to air transport [^c5061631], in exercise of the powers conferred by that section, hereby makes the following Regulations:
+[^c-4f651f11e460aa6240df2f65dbd8eb35][^c-6f324b3aecc4b65560fe650bb8bd87b6]The Secretary of State for Transport, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 [^c5061621] in relation to measures relating to air transport [^c5061631], in exercise of the powers conferred by that section, hereby makes the following Regulations:
 
 ## 1. Citation and commencement
 
@@ -248,9 +248,9 @@ There is provision, in certain circumstances, for exemptions for aircraft regist
 
 ## Annotations
 
-[^key-4f651f11e460aa6240df2f65dbd8eb35]: Textual amendment: Regulations revoked (S.) (29.3.2019) by [The Airports (Noise-related Operating Restrictions) (Scotland) Regulations 2019 (S.I. 2019/409)](https://www.legislation.gov.uk/uksi/2019/409), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/785/regulation/7), [4](https://www.legislation.gov.uk/uksi/2019/409/regulation/4)
+[^c-4f651f11e460aa6240df2f65dbd8eb35]: Textual amendment: Regulations revoked (S.) (29.3.2019) by [The Airports (Noise-related Operating Restrictions) (Scotland) Regulations 2019 (S.I. 2019/409)](https://www.legislation.gov.uk/uksi/2019/409), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/785/regulation/7), [4](https://www.legislation.gov.uk/uksi/2019/409/regulation/4)
 
-[^key-6f324b3aecc4b65560fe650bb8bd87b6]: Textual amendment: Regulations revoked (E.W.) (23.7.2018) by [The Airports (Noise-related Operating Restrictions) (England and Wales) Regulations 2018 (S.I. 2018/785)](https://www.legislation.gov.uk/uksi/2018/785), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/785/regulation/7), [7](https://www.legislation.gov.uk/uksi/2018/785/regulation/7)
+[^c-6f324b3aecc4b65560fe650bb8bd87b6]: Textual amendment: Regulations revoked (E.W.) (23.7.2018) by [The Airports (Noise-related Operating Restrictions) (England and Wales) Regulations 2018 (S.I. 2018/785)](https://www.legislation.gov.uk/uksi/2018/785), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/785/regulation/7), [7](https://www.legislation.gov.uk/uksi/2018/785/regulation/7)
 
 [^c5061621]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 

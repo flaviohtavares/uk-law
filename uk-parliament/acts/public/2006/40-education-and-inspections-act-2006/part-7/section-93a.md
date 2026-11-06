@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93A. Recording and reporting the use of force by members of staff: England[^key-3335f0c6b1f634ddf8ef9d371a025671]
+## 93A. Recording and reporting the use of force by members of staff: England[^c-3335f0c6b1f634ddf8ef9d371a025671]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3335f0c6b1f634ddf8ef9d371a025671]: Textual amendment: S. 93A inserted (1.4.2026) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 246](https://www.legislation.gov.uk/ukpga/2009/22/section/246), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4)
+[^c-3335f0c6b1f634ddf8ef9d371a025671]: Textual amendment: S. 93A inserted (1.4.2026) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 246](https://www.legislation.gov.uk/ukpga/2009/22/section/246), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4)
 
 [^M_F_ba57733a-d570-4a26-c1da-095f4745601b]: Textual amendment: Words in s. 93A(7) inserted (1.4.2026) by [S.I. 2016/413](https://www.legislation.gov.uk/uksi/2016/413), [regs. 2(4)](https://www.legislation.gov.uk/uksi/2016/413/regulation/2/4), [235](https://www.legislation.gov.uk/uksi/2016/413/regulation/235)); [S.I. 2025/1341](https://www.legislation.gov.uk/uksi/2025/1341), [art. 2](https://www.legislation.gov.uk/uksi/2025/1341/article/2)

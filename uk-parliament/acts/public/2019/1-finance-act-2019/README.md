@@ -178,17 +178,17 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 67 — Application of penalty provisions](part-2/section-67.md)
 - [Section 68 — Isle of Man](part-2/section-68.md)
 
-### PART 3 — Carbon emissions tax[^key-45b8feccf58bdc927a8b910001199baa]
+### PART 3 — Carbon emissions tax[^c-45b8feccf58bdc927a8b910001199baa]
 
 **No longer in force.**
 
-#### Introductory[^key-45b8feccf58bdc927a8b910001199baa]
+#### Introductory[^c-45b8feccf58bdc927a8b910001199baa]
 
 **No longer in force.**
 
 - [Section 69 — Carbon emissions tax](part-3/section-69.md)
 
-#### Charge to tax[^key-45b8feccf58bdc927a8b910001199baa]
+#### Charge to tax[^c-45b8feccf58bdc927a8b910001199baa]
 
 **No longer in force.**
 
@@ -198,14 +198,14 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 73 — “Emissions allowance”](part-3/section-73.md)
 - [Section 74 — Liability to pay carbon emissions tax](part-3/section-74.md)
 
-#### Administration etc.[^key-45b8feccf58bdc927a8b910001199baa]
+#### Administration etc.[^c-45b8feccf58bdc927a8b910001199baa]
 
 **No longer in force.**
 
 - [Section 75 — Power to make further provision about carbon emissions tax](part-3/section-75.md)
 - [Section 76 — Consequential provision](part-3/section-76.md)
 
-#### General[^key-45b8feccf58bdc927a8b910001199baa]
+#### General[^c-45b8feccf58bdc927a8b910001199baa]
 
 **No longer in force.**
 
@@ -293,4 +293,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-45b8feccf58bdc927a8b910001199baa]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2019/1/part/3) omitted (10.6.2021) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 112(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/112/1)
+[^c-45b8feccf58bdc927a8b910001199baa]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2019/1/part/3) omitted (10.6.2021) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 112(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/112/1)

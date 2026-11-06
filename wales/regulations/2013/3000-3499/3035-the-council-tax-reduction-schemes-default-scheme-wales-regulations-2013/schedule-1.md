@@ -58,7 +58,7 @@ Paragraphs 2 to 7 of this Schedule apply to an application for a reduction under
 
 (2) An application made by telephone is defective if the applicant does not provide all the information the authority requests during the telephone call.
 
-#### 7A. Applications: universal credit claimants[^key-a2972b1d760fc203852bbf7dc439fb4b]
+#### 7A. Applications: universal credit claimants[^c-a2972b1d760fc203852bbf7dc439fb4b]
 
 An application may be treated as made where—
 
@@ -184,4 +184,4 @@ If it is necessary to prove, for the purpose of any legal proceedings, the conte
 
 ## Annotations
 
-[^key-a2972b1d760fc203852bbf7dc439fb4b]: Textual amendment: [Sch. Scheme Sch. 1 para. 7A](https://www.legislation.gov.uk/wsi/2013/3035/schedule/Scheme/schedule/1/paragraph/7A) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/59)](https://www.legislation.gov.uk/wsi/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/59/regulation/1/2), [19](https://www.legislation.gov.uk/wsi/2025/59/regulation/19)
+[^c-a2972b1d760fc203852bbf7dc439fb4b]: Textual amendment: [Sch. Scheme Sch. 1 para. 7A](https://www.legislation.gov.uk/wsi/2013/3035/schedule/Scheme/schedule/1/paragraph/7A) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/59)](https://www.legislation.gov.uk/wsi/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/59/regulation/1/2), [19](https://www.legislation.gov.uk/wsi/2025/59/regulation/19)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Contents of affidavit[^key-22e051ba887ec4a0b3496fd5f882bc27]
+## 5. Contents of affidavit[^c-22e051ba887ec4a0b3496fd5f882bc27]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-22e051ba887ec4a0b3496fd5f882bc27]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2007/3141/rule/5) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-22e051ba887ec4a0b3496fd5f882bc27]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2007/3141/rule/5) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
 
 [^f00011]: Footnote: Section 124A was inserted by the Companies Act [1989 (c.40)](https://www.legislation.gov.uk/ukpga/1989/40), section 60(3). Section 124A was amended by the Companies (Audit, Investigations and Community Enterprise) Act [2004 (c.27)](https://www.legislation.gov.uk/ukpga/2004/27), section 25(1) and Schedule 2, and by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), article 305.

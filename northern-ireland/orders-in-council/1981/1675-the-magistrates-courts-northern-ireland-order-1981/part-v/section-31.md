@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Power to conduct preliminary inquiry[^key-905e62ff8e929e40983907e59aa27e08]
+## 31. Power to conduct preliminary inquiry[^c-905e62ff8e929e40983907e59aa27e08]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-905e62ff8e929e40983907e59aa27e08]: Textual amendment: [Art. 31](https://www.legislation.gov.uk/nisi/1981/1675/article/31) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 8(1)(c)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8/1/c); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-905e62ff8e929e40983907e59aa27e08]: Textual amendment: [Art. 31](https://www.legislation.gov.uk/nisi/1981/1675/article/31) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 8(1)(c)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8/1/c); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)

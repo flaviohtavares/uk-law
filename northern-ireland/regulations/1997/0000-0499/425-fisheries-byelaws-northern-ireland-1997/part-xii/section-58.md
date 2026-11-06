@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**58.**[^key-34a0c5da07409bb8ef0930749a90595a] A draft net and a tidal draft net shall not be of a greater length than 120 metres as measured along the head rope of the net.
+**58.**[^c-34a0c5da07409bb8ef0930749a90595a] A draft net and a tidal draft net shall not be of a greater length than 120 metres as measured along the head rope of the net.
 
 ## Annotations
 
-[^key-34a0c5da07409bb8ef0930749a90595a]: Commencement: S. 58 in operation at 1.11.1997, see byelaw 1
+[^c-34a0c5da07409bb8ef0930749a90595a]: Commencement: S. 58 in operation at 1.11.1997, see byelaw 1

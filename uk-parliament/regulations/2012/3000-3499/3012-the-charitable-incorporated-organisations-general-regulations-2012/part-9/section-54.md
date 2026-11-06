@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Commission’s requirements as to form etc of document[^key-22dd426977fef0ee61a5905f32c630ce]
+## 54. Commission’s requirements as to form etc of document[^c-22dd426977fef0ee61a5905f32c630ce]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22dd426977fef0ee61a5905f32c630ce]: Commencement: Reg. 54 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-22dd426977fef0ee61a5905f32c630ce]: Commencement: Reg. 54 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

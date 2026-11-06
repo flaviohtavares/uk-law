@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Feeding Stuffs (England) (Amendment) Regulations 2006 (revoked)[^key-74ab6cebf9097f68e649fb17c8447404]
+The Feeding Stuffs (England) (Amendment) Regulations 2006 (revoked)[^c-74ab6cebf9097f68e649fb17c8447404]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 17th November 2006
 
-[^key-74ab6cebf9097f68e649fb17c8447404]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74ab6cebf9097f68e649fb17c8447404]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-74ab6cebf9097f68e649fb17c8447404]
+## 1. Title and commencement[^c-74ab6cebf9097f68e649fb17c8447404]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Feeding Stuffs (England) Regulations 2005[^key-74ab6cebf9097f68e649fb17c8447404]
+## 2. Amendments to the Feeding Stuffs (England) Regulations 2005[^c-74ab6cebf9097f68e649fb17c8447404]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-74ab6cebf9097f68e649fb17c8447404]
+## 3. Revocations[^c-74ab6cebf9097f68e649fb17c8447404]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-74ab6cebf9097f68e649fb17c8447404]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74ab6cebf9097f68e649fb17c8447404]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-74ab6cebf9097f68e649fb17c8447404]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-74ab6cebf9097f68e649fb17c8447404]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-74ab6cebf9097f68e649fb17c8447404]: Textual amendment: Regulations revoked (23.11.2010) by [The Animal Feed (England) Regulations 2010 (S.I. 2010/2503)](https://www.legislation.gov.uk/uksi/2010/2503), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2503/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2010/2503/schedule/2/paragraph/3)
+[^c-74ab6cebf9097f68e649fb17c8447404]: Textual amendment: Regulations revoked (23.11.2010) by [The Animal Feed (England) Regulations 2010 (S.I. 2010/2503)](https://www.legislation.gov.uk/uksi/2010/2503), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2503/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2010/2503/schedule/2/paragraph/3)

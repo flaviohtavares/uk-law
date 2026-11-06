@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Internet and telephone support services etc[^key-c43b1428ec398a71fd804dffebe34f65]
+## 74. Internet and telephone support services etc[^c-c43b1428ec398a71fd804dffebe34f65]
 
 *Extent: E+W*
 
@@ -34,10 +34,10 @@ summary: ''
 - (a) for grants, loans and other kinds of financial assistance to be provided by the Secretary of State (whether or not on conditions);
 - (b) requiring persons with whom arrangements are made to have regard to guidance issued by the Secretary of State.
 
-(5) For the purposes of this section, a young person or relevant young adult is in England if he or she is a person for whom a local authority[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6] in England is responsible.
+(5) For the purposes of this section, a young person or relevant young adult is in England if he or she is a person for whom a local authority[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6] in England is responsible.
 
 ## Annotations
 
-[^key-c43b1428ec398a71fd804dffebe34f65]: Commencement: S. 74 in force at 26.1.2009 by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/a)
+[^c-c43b1428ec398a71fd804dffebe34f65]: Commencement: S. 74 in force at 26.1.2009 by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/a)
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

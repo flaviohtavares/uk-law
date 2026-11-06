@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Amendment to regulation 3[^key-5b5b7202539fc7469e8e3a5ff8ef22db]
+## 4. Amendment to regulation 3[^c-5b5b7202539fc7469e8e3a5ff8ef22db]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 3 (scope of these Regulations: special provisions)[^f00004], omitâ
 
 ## Annotations
 
-[^key-5b5b7202539fc7469e8e3a5ff8ef22db]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/832/regulation/4) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-5b5b7202539fc7469e8e3a5ff8ef22db]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/832/regulation/4) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00004]: Footnote: Paragraph (ia) was inserted into paragraph (12)(d) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488); sub-paragraph (aa) was inserted into paragraph (15) by [S.I. 2021/834](https://www.legislation.gov.uk/uksi/2021/834).

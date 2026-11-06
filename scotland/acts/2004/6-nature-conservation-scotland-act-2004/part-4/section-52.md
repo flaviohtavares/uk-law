@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Scottish Fossil Code[^key-e7a26f9027a0b7f834e87c28c079df50]
+## 52. Scottish Fossil Code[^c-e7a26f9027a0b7f834e87c28c079df50]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ consult such persons appearing to them to have an interest in the geological fea
 
 ## Annotations
 
-[^key-e7a26f9027a0b7f834e87c28c079df50]: Commencement: S. 52 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-e7a26f9027a0b7f834e87c28c079df50]: Commencement: S. 52 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

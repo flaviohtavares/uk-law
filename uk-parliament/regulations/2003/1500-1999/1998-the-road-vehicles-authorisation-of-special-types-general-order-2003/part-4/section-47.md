@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Straddle carriers: restrictions on use, speed and width[^key-74a54babd3e733e0d497abb0ca308f2c]
+## 47. Straddle carriers: restrictions on use, speed and width[^c-74a54babd3e733e0d497abb0ca308f2c]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74a54babd3e733e0d497abb0ca308f2c]: Commencement: Art. 47 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-74a54babd3e733e0d497abb0ca308f2c]: Commencement: Art. 47 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

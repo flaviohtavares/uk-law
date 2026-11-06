@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124C. Environmental management agreements[^key-91d4a202ce5a583e72b66cfdb9a389d3]
+## 124C. Environmental management agreements[^c-91d4a202ce5a583e72b66cfdb9a389d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91d4a202ce5a583e72b66cfdb9a389d3]: Textual amendment: [S. 124C](https://www.legislation.gov.uk/ukpga/1984/51/section/124C) substituted (with effect in accordance with s. 61(2) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/61/1)
+[^c-91d4a202ce5a583e72b66cfdb9a389d3]: Textual amendment: [S. 124C](https://www.legislation.gov.uk/ukpga/1984/51/section/124C) substituted (with effect in accordance with s. 61(2) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/61/1)

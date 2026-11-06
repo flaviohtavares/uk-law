@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Transfer of employees otherwise than under transfer scheme[^key-5cd81ef54a119269d4f6f564250c87fc]
+## 9. Transfer of employees otherwise than under transfer scheme[^c-5cd81ef54a119269d4f6f564250c87fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ whether or not the agreement would otherwise be regarded for the purposes of tho
 
 ## Annotations
 
-[^key-5cd81ef54a119269d4f6f564250c87fc]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2011/5/section/9) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-5cd81ef54a119269d4f6f564250c87fc]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2011/5/section/9) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

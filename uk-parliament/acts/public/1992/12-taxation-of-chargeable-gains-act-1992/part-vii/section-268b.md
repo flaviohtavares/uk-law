@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 268B. Compensation for deprivation of foreign assets[^key-2c52cf27be032c869a0727f1d7b1299e]
+## 268B. Compensation for deprivation of foreign assets[^c-2c52cf27be032c869a0727f1d7b1299e]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ subsection (1) applies only to so much of any gain as exceeds that loss.
 
 ## Annotations
 
-[^key-2c52cf27be032c869a0727f1d7b1299e]: Textual amendment: S. 268B inserted (with effect in accordance with art. 9(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [9(1)](https://www.legislation.gov.uk/uksi/2010/157/article/9/1)
+[^c-2c52cf27be032c869a0727f1d7b1299e]: Textual amendment: S. 268B inserted (with effect in accordance with art. 9(2) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [9(1)](https://www.legislation.gov.uk/uksi/2010/157/article/9/1)

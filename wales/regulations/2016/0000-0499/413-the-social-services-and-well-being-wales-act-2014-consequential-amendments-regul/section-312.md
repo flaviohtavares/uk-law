@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**312.**[^key-0f30405d826ad0c7b4e7ddb17921c004] After section 164 (duty to co-operate and provide information in the exercise of social services functions) insert—
+**312.**[^c-0f30405d826ad0c7b4e7ddb17921c004] After section 164 (duty to co-operate and provide information in the exercise of social services functions) insert—
 
 > **164A. Duty of other persons to co-operate and provide information**
 >
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f30405d826ad0c7b4e7ddb17921c004]: Commencement: Reg. 312 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-0f30405d826ad0c7b4e7ddb17921c004]: Commencement: Reg. 312 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

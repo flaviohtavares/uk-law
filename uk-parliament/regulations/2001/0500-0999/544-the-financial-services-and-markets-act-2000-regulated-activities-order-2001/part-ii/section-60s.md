@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60S. Meaning of consumer etc.[^key-76720bf76a095cc4117f5db428705a7b][^key-715a373f306ef1d29d9e1397179a518c]
+## 60S. Meaning of consumer etc.[^c-76720bf76a095cc4117f5db428705a7b][^c-715a373f306ef1d29d9e1397179a518c]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ a person who is treated by A as a person who is or has been the hirer under a re
 
 ## Annotations
 
-[^key-76720bf76a095cc4117f5db428705a7b]: Textual amendment: Art. 60S and cross-heading inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(37)](https://www.legislation.gov.uk/uksi/2014/366/article/2/37)
+[^c-76720bf76a095cc4117f5db428705a7b]: Textual amendment: Art. 60S and cross-heading inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(37)](https://www.legislation.gov.uk/uksi/2014/366/article/2/37)
 
-[^key-715a373f306ef1d29d9e1397179a518c]: Textual amendment: Pt. II Ch. 14A, 14B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [6](https://www.legislation.gov.uk/uksi/2013/1881/article/6)
+[^c-715a373f306ef1d29d9e1397179a518c]: Textual amendment: Pt. II Ch. 14A, 14B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [6](https://www.legislation.gov.uk/uksi/2013/1881/article/6)

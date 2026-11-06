@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34C. Seizure of vehicles etc: supplementary[^key-acda3f4fc433ac5a3fefab0e1571306e][^c18960341]
+## 34C. Seizure of vehicles etc: supplementary[^c-acda3f4fc433ac5a3fefab0e1571306e][^c18960341]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-acda3f4fc433ac5a3fefab0e1571306e]: Modification: Ss. 33-34C applied (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [47(3)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-acda3f4fc433ac5a3fefab0e1571306e]: Modification: Ss. 33-34C applied (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [47(3)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
 [^c18960341]: Textual amendment: Ss. 34B, 34C and preceding cross-heading inserted (E.W.) (16.3.2006 for W. for specified purposes, 3.3.2015 for E. for specified purposes, 6.4.2015 in so far as not already in force) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 46(1)](https://www.legislation.gov.uk/ukpga/2005/16/section/46/1), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108) (as amended (21.11.2005) by [The Waste (Household Waste Duty of Care) (England and Wales) Regulations 2005 (S.I. 2005/2900)](https://www.legislation.gov.uk/uksi/2005/2900), [reg. 3](https://www.legislation.gov.uk/uksi/2005/2900/regulation/3)); [S.I. 2006/768](https://www.legislation.gov.uk/uksi/2006/768), [art. 3](https://www.legislation.gov.uk/uksi/2006/768/article/3); [S.I. 2015/425](https://www.legislation.gov.uk/uksi/2015/425), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2015/425/article/2/b), [4(1)(b)](https://www.legislation.gov.uk/uksi/2015/425/article/4/1/b)

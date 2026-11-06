@@ -43,11 +43,11 @@ Coming into operation
 
 The Foyle, Carlingford and Irish Lights Commission, in exercise of its powers under section 13(1) (amended by section 34(3) of the British-Irish Agreement Act 1999[^f00001] and (2) of the Foyle Fisheries Act 1952[^f00001] which stand transferred to it under section 34(1)[^f00001] of the British-Irish Agreement Act 1999, and in exercise of the powers conferred by section 13(1) and (2) of the Foyle Fisheries Act (Northern Ireland) 1952[^f00002] and now vested in it[^f00003] and of every other power enabling it in that behalf, with the approval of the North/South Ministerial Council, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-0e412c0039730400c150476f9f61399b]
+## 1. Citation and commencement[^c-0e412c0039730400c150476f9f61399b]
 
 These Regulations may be cited as the Foyle and Carlingford Area (Licensing of Fishing Engines) Regulations 2001 and shall come into operation on 1st January 2002.
 
-## 2. Interpretation[^key-b4994b4970043cd919ecf5cdacf45b49]
+## 2. Interpretation[^c-b4994b4970043cd919ecf5cdacf45b49]
 
 In these Regulations:—
 
@@ -56,7 +56,7 @@ In these Regulations:—
 - “the Commission” means the Foyle, Carlingford and Irish Lights Commission;
 - “a licence distributor” means a person duly authorised by the Commission to distribute fishing licences in respect of fishing engines.
 
-## 3. Licensing of fishing engines[^key-aac9962a064ec3516164f0e28d4a49a5]
+## 3. Licensing of fishing engines[^c-aac9962a064ec3516164f0e28d4a49a5]
 
 (1) A person shall not use a fishing engine in any part of the Foyle Area or the Carlingford Area for the purpose of taking salmon, trout, rainbow trout or coarse fish or with intent to take salmon, trout, rainbow trout or coarse fish except under and in accordance with a fishing licence issued by the Commission.
 
@@ -64,7 +64,7 @@ In these Regulations:—
 
 (3) A fishing licence, other than a game fishing rod and line licence or a coarse fishing rod and line licence, shall not be issued to any person under the age of eighteen years.
 
-## 4. Applications for Draft and Drift Net Licences[^key-5608002430d6735479d01dfcdd6c0019]
+## 4. Applications for Draft and Drift Net Licences[^c-5608002430d6735479d01dfcdd6c0019]
 
 (1) Each application for a fishing licence in respect of any fishing engine specified in Part I of the Schedule shall be in writing in such form as the Commission may from time to time require and without prejudice to the generality of the foregoing—
 
@@ -98,15 +98,15 @@ the applicant or, where a fishing licence has already been issued, the licensee 
 
 (9) Where an applicant has been approved under paragraph (8) an officer authorised by the Commission in that behalf shall endorse the approval on the application and shall return it to the applicant.
 
-## 5. Applications for Stake, Bag and Fixed Draft Net Licences[^key-8e0366e5649326d250fa96ec87aa9d01]
+## 5. Applications for Stake, Bag and Fixed Draft Net Licences[^c-8e0366e5649326d250fa96ec87aa9d01]
 
 An application for a fishing licence in respect of any fishing engine specified in Part II of the Schedule shall be made in writing to an office of the Commission.
 
-## 6. Applications for Game Fishing Rod and Line Licences and Coarse Fishing Rod and Line Licences[^key-19ebe70282c2f3250a906c1c7d661308]
+## 6. Applications for Game Fishing Rod and Line Licences and Coarse Fishing Rod and Line Licences[^c-19ebe70282c2f3250a906c1c7d661308]
 
 An application for a game fishing rod and line licence or a coarse fishing rod and line licence specified in Part III of the Schedule may be made to the Commission or to any licence distributor.
 
-## 7. Payment of fishing licence fee[^key-181657ecadd5065637c79974f7439c78]
+## 7. Payment of fishing licence fee[^c-181657ecadd5065637c79974f7439c78]
 
 (1) The fishing licence fees specified in the Schedule shall be paid in the manner set out in paragraphs (2) to (4).
 
@@ -119,7 +119,7 @@ An application for a game fishing rod and line licence or a coarse fishing rod a
 
 (4) Where application is made to the Commission or to a licence distributor for a game fishing rod and line licence or a coarse fishing rod and line licence specified in Part III of the Schedule the fishing licence fee shall be paid in full at the time of the application.
 
-## 8. Issue of fishing licences[^key-97fb022bcf035edadc7a5da3a6547edc]
+## 8. Issue of fishing licences[^c-97fb022bcf035edadc7a5da3a6547edc]
 
 (1) Each application for a fishing licence in respect of any fishing engine specified in Part I of the Schedule which has been endorsed under regulation 4(9) may be presented by the applicant to the licence distributor specified therein who, on payment in the manner provided in regulation 7(2) of the appropriate fishing licence fee specified in the Schedule, or as the case may be, the first moiety of that fee, shall issue the appropriate licence on behalf of the Commission and shall retain the application.
 
@@ -129,11 +129,11 @@ An application for a game fishing rod and line licence or a coarse fishing rod a
 
 (4) A game fishing rod and line licence or a coarse fishing rod and line licence specified in Part III of the Schedule may be obtained on application to the Commission or to any licence distributor, provided that no licence distributor shall save by authority given in writing in that behalf by the Commission issue to any person more than one fishing licence of a particular description.
 
-## 9. Restriction on use of net in certain waters[^key-46c7b78ec083e434c83d86bec50153f2]
+## 9. Restriction on use of net in certain waters[^c-46c7b78ec083e434c83d86bec50153f2]
 
 The holder of a fishing licence issued in accordance with these Regulations shall not save by authority given in writing in that behalf by the Commission, use for the purpose of taking or with intent to take fish any net in that portion of the River Foyle which lies between the defined mouth of the river and an imaginary straight line drawn across the River Foyle to join the points where the southernmost boundary of the County of Londonderry meets the river on each side.
 
-## 10. Revocation[^key-557558904e8cc791c9d7b474253bf6e1]
+## 10. Revocation[^c-557558904e8cc791c9d7b474253bf6e1]
 
 The Foyle Area (Licensing of Fishing Engines) Regulations 1976[^f00007], the Foyle Area (Licensing of Fishing Engines) (Amendment No. 2) Regulations 1985[^f00008], the Foyle Area (Licensing of Fishing Engines) (Amendment No. 2) Regulations 1989[^f00009], the Foyle Area (Licensing of Fishing Engines) (Amendment) Regulations 1990[^f00010], and the Foyle Area (Licensing of Fishing Engines) (Amendment No. 2) Regulations 1999[^f00011] are hereby revoked.
 
@@ -161,7 +161,7 @@ being persons authorised by the North/South Ministerial Council to signify appro
 
 Regulations 3, 4, 5, 6 7 and 8
 
-### Part I[^key-96c83c6e37bcb831e90eba9dad83047e]
+### Part I[^c-96c83c6e37bcb831e90eba9dad83047e]
 
 <table>
 <thead>
@@ -178,7 +178,7 @@ Regulations 3, 4, 5, 6 7 and 8
 </tbody>
 </table>
 
-### Part II[^key-92d5392ed76eb5ea66e9ab66b018c29a]
+### Part II[^c-92d5392ed76eb5ea66e9ab66b018c29a]
 
 |  |  |  |
 | --- | --- | --- |
@@ -223,13 +223,13 @@ Commercial netting licence fees have been reduced by approximately 20% in the Lo
 
 [^f00003]: Footnote: By S.I. [1999/859](https://www.legislation.gov.uk/uksi/1999/859) Article 21(1)
 
-[^key-0e412c0039730400c150476f9f61399b]: Commencement: Reg. 1 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
+[^c-0e412c0039730400c150476f9f61399b]: Commencement: Reg. 1 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
 
-[^key-b4994b4970043cd919ecf5cdacf45b49]: Commencement: Reg. 2 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
+[^c-b4994b4970043cd919ecf5cdacf45b49]: Commencement: Reg. 2 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
 
-[^key-aac9962a064ec3516164f0e28d4a49a5]: Commencement: Reg. 3 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
+[^c-aac9962a064ec3516164f0e28d4a49a5]: Commencement: Reg. 3 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
 
-[^key-5608002430d6735479d01dfcdd6c0019]: Commencement: Reg. 4 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
+[^c-5608002430d6735479d01dfcdd6c0019]: Commencement: Reg. 4 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
 
 [^f00004]: Footnote: [S.R 1981 No. 169](https://www.legislation.gov.uk/nisr/1981/169); relevant amending Regulations are [S.R 1985 No. 342](https://www.legislation.gov.uk/nisr/1985/342)
 
@@ -237,17 +237,17 @@ Commercial netting licence fees have been reduced by approximately 20% in the Lo
 
 [^f00006]: Footnote: [1966 c. 17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17)
 
-[^key-8e0366e5649326d250fa96ec87aa9d01]: Commencement: Reg. 5 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
+[^c-8e0366e5649326d250fa96ec87aa9d01]: Commencement: Reg. 5 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
 
-[^key-19ebe70282c2f3250a906c1c7d661308]: Commencement: Reg. 6 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
+[^c-19ebe70282c2f3250a906c1c7d661308]: Commencement: Reg. 6 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
 
-[^key-181657ecadd5065637c79974f7439c78]: Commencement: Reg. 7 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
+[^c-181657ecadd5065637c79974f7439c78]: Commencement: Reg. 7 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
 
-[^key-97fb022bcf035edadc7a5da3a6547edc]: Commencement: Reg. 8 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
+[^c-97fb022bcf035edadc7a5da3a6547edc]: Commencement: Reg. 8 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
 
-[^key-46c7b78ec083e434c83d86bec50153f2]: Commencement: Reg. 9 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
+[^c-46c7b78ec083e434c83d86bec50153f2]: Commencement: Reg. 9 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
 
-[^key-557558904e8cc791c9d7b474253bf6e1]: Commencement: Reg. 10 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
+[^c-557558904e8cc791c9d7b474253bf6e1]: Commencement: Reg. 10 in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
 
 [^f00007]: Footnote: [S.R 1976 No. 362](https://www.legislation.gov.uk/nisr/1976/362)
 
@@ -259,8 +259,8 @@ Commercial netting licence fees have been reduced by approximately 20% in the Lo
 
 [^f00011]: Footnote: [S.R 1999 No. 485](https://www.legislation.gov.uk/nisr/1999/485)
 
-[^key-96c83c6e37bcb831e90eba9dad83047e]: Commencement: Sch. Pt. I in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
+[^c-96c83c6e37bcb831e90eba9dad83047e]: Commencement: Sch. Pt. I in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
 
-[^key-92d5392ed76eb5ea66e9ab66b018c29a]: Commencement: Sch. Pt. II in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
+[^c-92d5392ed76eb5ea66e9ab66b018c29a]: Commencement: Sch. Pt. II in operation at 1.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/397/regulation/1)
 
 [^f00012]: Footnote: Legislation of the Republic of Ireland

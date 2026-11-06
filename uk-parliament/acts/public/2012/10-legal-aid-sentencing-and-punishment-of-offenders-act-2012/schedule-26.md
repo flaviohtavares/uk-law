@@ -105,37 +105,37 @@ Section 142
 
 ### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
-**9.**[^key-872775eb675aab21ea0adf08c8d8179a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-872775eb675aab21ea0adf08c8d8179a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-872775eb675aab21ea0adf08c8d8179a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-872775eb675aab21ea0adf08c8d8179a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-872775eb675aab21ea0adf08c8d8179a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-872775eb675aab21ea0adf08c8d8179a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-872775eb675aab21ea0adf08c8d8179a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-872775eb675aab21ea0adf08c8d8179a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-872775eb675aab21ea0adf08c8d8179a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-872775eb675aab21ea0adf08c8d8179a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-872775eb675aab21ea0adf08c8d8179a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-872775eb675aab21ea0adf08c8d8179a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Criminal Justice Act 2003 (c 44)
 
 **15.** The Criminal Justice Act 2003 is amended as follows.
 
-**16.**[^key-52bad6cae5d26ea475b9de2a7a928855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-52bad6cae5d26ea475b9de2a7a928855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-52bad6cae5d26ea475b9de2a7a928855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-52bad6cae5d26ea475b9de2a7a928855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-52bad6cae5d26ea475b9de2a7a928855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-52bad6cae5d26ea475b9de2a7a928855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**19.**[^key-63b15951d8ccdee386f931e45b65b5df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-63b15951d8ccdee386f931e45b65b5df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-52bad6cae5d26ea475b9de2a7a928855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-52bad6cae5d26ea475b9de2a7a928855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-52bad6cae5d26ea475b9de2a7a928855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-52bad6cae5d26ea475b9de2a7a928855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-52bad6cae5d26ea475b9de2a7a928855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-52bad6cae5d26ea475b9de2a7a928855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Armed Forces Act 2006 (c. 52)
 
@@ -188,14 +188,14 @@ Section 142
 
 ### Coroners and Justice Act 2009 (c. 25)
 
-**31.**[^key-c33fa9773362e9231d59ab44c92f81f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-c33fa9773362e9231d59ab44c92f81f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-872775eb675aab21ea0adf08c8d8179a]: Textual amendment: [Sch. 26 paras. 9-14](https://www.legislation.gov.uk/ukpga/2012/10/schedule/26/paragraph/9) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-872775eb675aab21ea0adf08c8d8179a]: Textual amendment: [Sch. 26 paras. 9-14](https://www.legislation.gov.uk/ukpga/2012/10/schedule/26/paragraph/9) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-52bad6cae5d26ea475b9de2a7a928855]: Textual amendment: [Sch. 26 paras. 16-22](https://www.legislation.gov.uk/ukpga/2012/10/schedule/26/paragraph/16) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-52bad6cae5d26ea475b9de2a7a928855]: Textual amendment: [Sch. 26 paras. 16-22](https://www.legislation.gov.uk/ukpga/2012/10/schedule/26/paragraph/16) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-63b15951d8ccdee386f931e45b65b5df]: Textual amendment: Sch. 26 para. 19 omitted (11.12.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 16 para. 23(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/23/2); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
+[^c-63b15951d8ccdee386f931e45b65b5df]: Textual amendment: Sch. 26 para. 19 omitted (11.12.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 16 para. 23(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/23/2); [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
 
-[^key-c33fa9773362e9231d59ab44c92f81f0]: Textual amendment: [Sch. 26 para. 31](https://www.legislation.gov.uk/ukpga/2012/10/schedule/26/paragraph/31) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c33fa9773362e9231d59ab44c92f81f0]: Textual amendment: [Sch. 26 para. 31](https://www.legislation.gov.uk/ukpga/2012/10/schedule/26/paragraph/31) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

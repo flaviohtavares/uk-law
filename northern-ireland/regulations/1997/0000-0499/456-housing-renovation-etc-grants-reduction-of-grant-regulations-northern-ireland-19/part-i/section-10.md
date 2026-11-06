@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Financial resources[^key-1790779ed2050691ade628622e896aa6]
+## 10. Financial resources[^c-1790779ed2050691ade628622e896aa6]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In respect of any one application, the amount which is to be taken to be the fin
 
 ## Annotations
 
-[^key-1790779ed2050691ade628622e896aa6]: Commencement: Reg. 10 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-1790779ed2050691ade628622e896aa6]: Commencement: Reg. 10 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

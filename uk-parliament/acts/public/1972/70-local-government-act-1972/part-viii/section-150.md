@@ -28,11 +28,11 @@ summary: ''
 
 (4)[^c15112431] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-4e9895dc765428aa4baec6f704f20dd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4e9895dc765428aa4baec6f704f20dd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Every parish or community council and the chairman of the parish meeting for a parish not having a separate parish council shall keep such accounts as may be prescribed of the receipts and payments of the council or parish meeting, as the case may be.
 
-(7) References in this section to the expenses of a parish or community meeting include references to the expenses of any poll consequent on a parish [^key-6451c7e66e73c5fb8d19e702afe6625b]... meeting or of a community governance poll (as to which, see paragraph 34(8) of Schedule 12) *(Extent: W)*[^key-bfb935b3222657e6664aae3bd9011489].
+(7) References in this section to the expenses of a parish or community meeting include references to the expenses of any poll consequent on a parish [^c-6451c7e66e73c5fb8d19e702afe6625b]... meeting or of a community governance poll (as to which, see paragraph 34(8) of Schedule 12) *(Extent: W)*[^c-bfb935b3222657e6664aae3bd9011489].
 
 ## Annotations
 
@@ -42,8 +42,8 @@ summary: ''
 
 [^c15112431]: Textual amendment: S. 150(4) repealed (21.8.1991) by [S.I. 1991/1730](https://www.legislation.gov.uk/uksi/1991/1730), [arts. 1](https://www.legislation.gov.uk/uksi/1991/1730/article/1), [2(1)](https://www.legislation.gov.uk/uksi/1991/1730/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/1730/schedule/1).
 
-[^key-4e9895dc765428aa4baec6f704f20dd4]: Textual amendment: [S. 150(5)](https://www.legislation.gov.uk/ukpga/1972/70/section/150/5) omitted (12.3.2014) by virtue of [The Legislative Reform (Payments by Parish Councils, Community Councils and Charter Trustees) Order 2014 (S.I. 2014/580)](https://www.legislation.gov.uk/uksi/2014/580), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2014/580/article/1/c), [2](https://www.legislation.gov.uk/uksi/2014/580/article/2)
+[^c-4e9895dc765428aa4baec6f704f20dd4]: Textual amendment: [S. 150(5)](https://www.legislation.gov.uk/ukpga/1972/70/section/150/5) omitted (12.3.2014) by virtue of [The Legislative Reform (Payments by Parish Councils, Community Councils and Charter Trustees) Order 2014 (S.I. 2014/580)](https://www.legislation.gov.uk/uksi/2014/580), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2014/580/article/1/c), [2](https://www.legislation.gov.uk/uksi/2014/580/article/2)
 
-[^key-6451c7e66e73c5fb8d19e702afe6625b]: Textual amendment: Words in [s. 150(7)](https://www.legislation.gov.uk/ukpga/1972/70/section/150/7) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 13 para. 3(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/13/paragraph/3/a); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(v)](https://www.legislation.gov.uk/wsi/2021/231/article/6/v)
+[^c-6451c7e66e73c5fb8d19e702afe6625b]: Textual amendment: Words in [s. 150(7)](https://www.legislation.gov.uk/ukpga/1972/70/section/150/7) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 13 para. 3(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/13/paragraph/3/a); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(v)](https://www.legislation.gov.uk/wsi/2021/231/article/6/v)
 
-[^key-bfb935b3222657e6664aae3bd9011489]: Textual amendment: Words in [s. 150(7)](https://www.legislation.gov.uk/ukpga/1972/70/section/150/7) inserted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 13 para. 3(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/13/paragraph/3/b); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(v)](https://www.legislation.gov.uk/wsi/2021/231/article/6/v)
+[^c-bfb935b3222657e6664aae3bd9011489]: Textual amendment: Words in [s. 150(7)](https://www.legislation.gov.uk/ukpga/1972/70/section/150/7) inserted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 13 para. 3(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/13/paragraph/3/b); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(v)](https://www.legislation.gov.uk/wsi/2021/231/article/6/v)

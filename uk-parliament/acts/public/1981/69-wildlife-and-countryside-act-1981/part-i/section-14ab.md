@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: S*
 
-**14AB.**[^key-e4fd1aff16d483cb9f84990a14626659] Contravention of emergency measures
+**14AB.**[^c-e4fd1aff16d483cb9f84990a14626659] Contravention of emergency measures
 
 (1) Section (2) applies where regulations made under Article 10 of the Invasive Alien Species Regulation (emergency measures) provide that a restriction set out in one of the following paragraphs of Article 7(1) of that Regulation applies to a species specified in those regulations as it applies to an invasive alien species—
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4fd1aff16d483cb9f84990a14626659]: Textual amendment: [S. 14AB](https://www.legislation.gov.uk/ukpga/1981/69/section/14AB) inserted (S.) (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(3)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/3)
+[^c-e4fd1aff16d483cb9f84990a14626659]: Textual amendment: [S. 14AB](https://www.legislation.gov.uk/ukpga/1981/69/section/14AB) inserted (S.) (31.12.2020) by [The Invasive Non-native Species (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/473)](https://www.legislation.gov.uk/ssi/2020/473), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/473/regulation/1/1), [10(3)](https://www.legislation.gov.uk/ssi/2020/473/regulation/10/3)

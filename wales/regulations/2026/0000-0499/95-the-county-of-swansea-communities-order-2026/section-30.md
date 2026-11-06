@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Creation of the new community ward of Llanrhidian Lower[^key-ed1accff05335dbe39cc835250872aea]
+## 30. Creation of the new community ward of Llanrhidian Lower[^c-ed1accff05335dbe39cc835250872aea]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A new community ward is created in the community of Gower North which is to be k
 
 ## Annotations
 
-[^key-ed1accff05335dbe39cc835250872aea]: Commencement: [Art. 30](https://www.legislation.gov.uk/wsi/2026/95/article/30) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-ed1accff05335dbe39cc835250872aea]: Commencement: [Art. 30](https://www.legislation.gov.uk/wsi/2026/95/article/30) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

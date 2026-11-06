@@ -64,7 +64,7 @@ Schedule 2 (revocations of secondary legislation) has effect.
 
 Until the repeal of Part 1 of the Regulation of Investigatory Powers Act 2000 [^c23008441] by paragraphs 45 and 54 of Schedule 10 to the Investigatory Powers Act 2016 is fully in force, the amendments made by paragraphs 5, 9-29, 30(2) and 31-40 of Schedule 1 to these Regulations have effect as if the reference to any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016 included a reference to Part 1 of the Regulation of Investigatory Powers Act 2000.
 
-## 5. Designation of a relevant international agreement[^key-961bb860b91e097a469dfb2fda4ce1e9]
+## 5. Designation of a relevant international agreement[^c-961bb860b91e097a469dfb2fda4ce1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -296,7 +296,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23008441]: Marginal citation: [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23); there are amendments to Part 1 not relevant to these Regulations.
 
-[^key-961bb860b91e097a469dfb2fda4ce1e9]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/682/regulation/5) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [101](https://www.legislation.gov.uk/uksi/2019/742/regulation/101) (with [reg. 102](https://www.legislation.gov.uk/uksi/2019/742/regulation/102)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-961bb860b91e097a469dfb2fda4ce1e9]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/682/regulation/5) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [101](https://www.legislation.gov.uk/uksi/2019/742/regulation/101) (with [reg. 102](https://www.legislation.gov.uk/uksi/2019/742/regulation/102)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23008461]: Marginal citation: [S.I. 2018/349](https://www.legislation.gov.uk/uksi/2018/349).
 

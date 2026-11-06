@@ -31,7 +31,7 @@ summary: ''
 - sections 30 to 33;
 - section 36;
 - sections 55 to 69;
-- sections 70 to 70F[^key-71267cf836ed377affe971e38887b903]
+- sections 70 to 70F[^c-71267cf836ed377affe971e38887b903]
 - section 74, so far as relevant to any of the provisions mentioned above;
 - section 111; and
 - section 125.
@@ -39,7 +39,7 @@ summary: ''
 (3) The incidents referred to in subsection (1) above in relation to an application for a European patent (UK) are as follows:—
 
 - (a) any declaration of priority made in connection with the application under the European Patent Convention shall be treated for the purposes of this Act as a declaration made under section 5(2) above;
-- (b) where a period of time relevant to priority is extended under that convention, the period of twelve months allowed under section 5(2A)(a)[^key-20d1f8473821566cb5c11d725690f204] above shall be so treated as altered correspondingly;
+- (b) where a period of time relevant to priority is extended under that convention, the period of twelve months allowed under section 5(2A)(a)[^c-20d1f8473821566cb5c11d725690f204] above shall be so treated as altered correspondingly;
 - (c) where the date of filing an application is re-dated under that convention to a later date, that date shall be so treated as the date of filing the application;
 - (d) the application, if published in accordance with that convention, shall, subject to subsection (7) and section 79 below, be so treated as published under section 16 above;
 - (e) any designation of the inventor under that convention or any statement under it indicating the origin of the right to a European patent shall be treated for the purposes of section 13(3) above as a statement filed under section 13(2) above;
@@ -54,9 +54,9 @@ summary: ''
 
 but shall apply again if the rights of the applicant are re-established under the European Patent Convention, as from their re-establishment.
 
-(5A) The occurrence of any of the events mentioned in subsection (5)(a) or (b) shall not affect the continued operation of section 2(3) above in relation to matter contained in an application for a European patent (UK) which by virtue of that provision has become part of the state of the art as regards other inventions. ; and the occurrence of any event mentioned in subsection (5)(b) shall not prevent matter contained in an application for a European patent ([^key-9dd2865c758659039a9ece5bf66a0918]UK) becoming part of the state of the art by virtue of section 2(3) above as regards other inventions where the event occurs before the publication of that application.
+(5A) The occurrence of any of the events mentioned in subsection (5)(a) or (b) shall not affect the continued operation of section 2(3) above in relation to matter contained in an application for a European patent (UK) which by virtue of that provision has become part of the state of the art as regards other inventions. ; and the occurrence of any event mentioned in subsection (5)(b) shall not prevent matter contained in an application for a European patent ([^c-9dd2865c758659039a9ece5bf66a0918]UK) becoming part of the state of the art by virtue of section 2(3) above as regards other inventions where the event occurs before the publication of that application.
 
-(6)[^key-88acf3146491b938bda02781199b92ab] Where, between subsections (1) to (3) above ceasing to apply to an application for a European patent (UK) and the re-establishment of the rights of the applicant, a person—
+(6)[^c-88acf3146491b938bda02781199b92ab] Where, between subsections (1) to (3) above ceasing to apply to an application for a European patent (UK) and the re-establishment of the rights of the applicant, a person—
 
 - (a) begins in good faith to do an act which would constitute an infringement of the rights conferred by publication of the application if those subsections then applied, or
 - (b) makes in good faith effective and serious preparations to do such an act,
@@ -82,14 +82,14 @@ if before that use or the doing of that act he has sent by post or delivered to 
 
 ## Annotations
 
-[^key-71267cf836ed377affe971e38887b903]: Textual amendment: Words in [s. 78(2)](https://www.legislation.gov.uk/ukpga/1977/37/section/78/2) inserted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2017/14/section/1/6), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-71267cf836ed377affe971e38887b903]: Textual amendment: Words in [s. 78(2)](https://www.legislation.gov.uk/ukpga/1977/37/section/78/2) inserted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2017/14/section/1/6), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
 
-[^key-20d1f8473821566cb5c11d725690f204]: Textual amendment: Words in s. 78(3)(b) substituted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [14](https://www.legislation.gov.uk/uksi/2004/2357/article/14) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
+[^c-20d1f8473821566cb5c11d725690f204]: Textual amendment: Words in s. 78(3)(b) substituted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [14](https://www.legislation.gov.uk/uksi/2004/2357/article/14) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
 
 [^c8021061]: Textual amendment: S. 78(5)(5A) substituted for subsection (5) by [Copyright, Designs and Patents Act 1988 (c. 48, SIF 67A)](https://www.legislation.gov.uk/ukpga/1988/48), [s. 295](https://www.legislation.gov.uk/ukpga/1988/48/section/295), [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/1988/48/schedule/5/paragraph/22)
 
-[^key-9dd2865c758659039a9ece5bf66a0918]: Textual amendment: Words in s. 78(5A) inserted (13.12.2007) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/3/2); [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/3396/article/3))
+[^c-9dd2865c758659039a9ece5bf66a0918]: Textual amendment: Words in s. 78(5A) inserted (13.12.2007) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/3/2); [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/3396/article/3))
 
-[^key-88acf3146491b938bda02781199b92ab]: Textual amendment: S. 78(6)-(6C) substituted for s. 78(6) (13.12.2007) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/3/3); [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j)
+[^c-88acf3146491b938bda02781199b92ab]: Textual amendment: S. 78(6)-(6C) substituted for s. 78(6) (13.12.2007) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/ukpga/2004/16/schedule/1/paragraph/3/3); [S.I. 2007/3396](https://www.legislation.gov.uk/uksi/2007/3396), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/3396/article/2/j)
 
 [^c8021081]: Modification: S. 78(8): 1.9.1986 appointed by [S.I. 1987/288](https://www.legislation.gov.uk/uksi/1987/288), [rule 4(1)](https://www.legislation.gov.uk/uksi/1987/288/rule/4/1) (subject to saving in [rule 4(2)](https://www.legislation.gov.uk/uksi/1987/288/rule/4/2))

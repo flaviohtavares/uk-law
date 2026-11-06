@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Adjustment of account after early payment of deferred pension ceases[^key-088799a4ec4f11989d018553dd75cb55]
+## 56. Adjustment of account after early payment of deferred pension ceases[^c-088799a4ec4f11989d018553dd75cb55]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ When a deferred member who has received the early payment of a deferred pension 
 
 ## Annotations
 
-[^key-088799a4ec4f11989d018553dd75cb55]: Commencement: Reg. 56 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-088799a4ec4f11989d018553dd75cb55]: Commencement: Reg. 56 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

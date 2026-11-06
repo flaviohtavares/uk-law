@@ -35,54 +35,54 @@ implementing Regulation (EC) No 223/2009 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-257f0460421257d325d2b4e894a73047]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-257f0460421257d325d2b4e894a73047]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-257f0460421257d325d2b4e894a73047]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-257f0460421257d325d2b4e894a73047]
+## Article 1. Subject matter[^c-257f0460421257d325d2b4e894a73047]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. General principles[^key-257f0460421257d325d2b4e894a73047]
+## Article 2. Definitions[^c-257f0460421257d325d2b4e894a73047]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Research entities[^key-257f0460421257d325d2b4e894a73047]
+## Article 3. General principles[^c-257f0460421257d325d2b4e894a73047]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Research proposal[^key-257f0460421257d325d2b4e894a73047]
+## Article 4. Research entities[^c-257f0460421257d325d2b4e894a73047]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Position of national statistical authorities[^key-257f0460421257d325d2b4e894a73047]
+## Article 5. Research proposal[^c-257f0460421257d325d2b4e894a73047]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Confidential data for scientific purposes[^key-257f0460421257d325d2b4e894a73047]
+## Article 6. Position of national statistical authorities[^c-257f0460421257d325d2b4e894a73047]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Access facilities[^key-257f0460421257d325d2b4e894a73047]
+## Article 7. Confidential data for scientific purposes[^c-257f0460421257d325d2b4e894a73047]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Organisational matters[^key-257f0460421257d325d2b4e894a73047]
+## Article 8. Access facilities[^c-257f0460421257d325d2b4e894a73047]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Repeal[^key-257f0460421257d325d2b4e894a73047]
+## Article 9. Organisational matters[^c-257f0460421257d325d2b4e894a73047]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Entry into force[^key-257f0460421257d325d2b4e894a73047]
+## Article 10. Repeal[^c-257f0460421257d325d2b4e894a73047]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-257f0460421257d325d2b4e894a73047]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 11. Entry into force[^c-257f0460421257d325d2b4e894a73047]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-257f0460421257d325d2b4e894a73047]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-257f0460421257d325d2b4e894a73047]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 218](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/218); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-257f0460421257d325d2b4e894a73047]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 218](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/218); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

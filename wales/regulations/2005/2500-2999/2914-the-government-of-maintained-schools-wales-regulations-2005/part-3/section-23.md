@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Surplus governors[^key-dbafce7b00ec59884bcffe61b9f7b8aa]
+## 23. Surplus governors[^c-dbafce7b00ec59884bcffe61b9f7b8aa]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbafce7b00ec59884bcffe61b9f7b8aa]: Commencement: Reg. 23 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-dbafce7b00ec59884bcffe61b9f7b8aa]: Commencement: Reg. 23 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)

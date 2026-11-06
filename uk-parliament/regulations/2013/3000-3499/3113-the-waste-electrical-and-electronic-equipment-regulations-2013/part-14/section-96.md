@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Revocations and Savings[^key-80078a447c620f4efaaec85cc8d3c707]
+## 96. Revocations and Savings[^c-80078a447c620f4efaaec85cc8d3c707]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80078a447c620f4efaaec85cc8d3c707]: Commencement: Reg. 96 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-80078a447c620f4efaaec85cc8d3c707]: Commencement: Reg. 96 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

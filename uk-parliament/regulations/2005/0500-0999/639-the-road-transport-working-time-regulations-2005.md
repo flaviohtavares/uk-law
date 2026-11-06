@@ -58,7 +58,7 @@ In these Regulations—
 
 - “**AETR**” means the European agreement concerning the work of crews of vehicles engaged in international road transport [^c11336241] of 1st July 1970;
 - “**collective agreement**” means a collective agreement within the meaning of section 178 of the Trade Union and Labour Relations (Consolidation) Act 1992 [^c11336251], the trade union parties to which are independent trade unions within the meaning of section 5 of that Act;
-- “the Community Drivers’ Hours Regulation” means Regulation[^key-4133c27b1a1a57f1e912a3b316b60662] [(EC) No 561/2006](https://www.legislation.gov.uk/eur/2006/0561) of the European Parliament and of the Council of 15 March 2006 on the harmonisation of certain social legislation relating to road transport (and amending and repealing certain Council Regulations);
+- “the Community Drivers’ Hours Regulation” means Regulation[^c-4133c27b1a1a57f1e912a3b316b60662] [(EC) No 561/2006](https://www.legislation.gov.uk/eur/2006/0561) of the European Parliament and of the Council of 15 March 2006 on the harmonisation of certain social legislation relating to road transport (and amending and repealing certain Council Regulations);
 - “**employer**” in relation to a worker, means the person by whom the worker is (or, where the employment has ceased, was) employed;
 - “**employment**” in relation to a worker, means employment under his contract, and “**employed**” shall be construed accordingly;
 - “**goods**” includes goods or burden of any description;
@@ -69,23 +69,23 @@ In these Regulations—
 - “**motor vehicle**” means a mechanically propelled vehicle intended or adapted for use on roads;
 - “**night work**” means any work performed during night time;
 - “**passenger vehicle**” means a motor vehicle which is constructed or adapted to carry more than eight seated passengers in addition to the driver;
-- “**period of availability**” means a period during which the mobile worker or self-employed driver[^key-6042414022e47b878f29f1c35f1df2ba] is not required to remain at his workstation, but—[^key-2678f9913b110365b75adb599d632863]
+- “**period of availability**” means a period during which the mobile worker or self-employed driver[^c-6042414022e47b878f29f1c35f1df2ba] is not required to remain at his workstation, but—[^c-2678f9913b110365b75adb599d632863]
   - ((a)) in the case of a mobile worker, is required to be available; or
   - ((b)) in the case of a self-employed driver, makes himself available;
 
   to answer any calls to start or resume driving or to carry out other work , including periods during which the mobile worker or self-employed driver is accompanying a vehicle being transported by a ferry or by a train as well as periods of waiting at frontiers and those due to traffic prohibitions;
 - “**reference period**” means the period for calculation of the average maximum weekly working time;
-- “**relevant requirements**” means regulations 4(8), 4(9)[^key-11b0175a5280adc0a777ed46eb5fb9a1], 7(5), 7(6), 8(2), 8(3), 9(4), 9(5), 10, 11, 11A and 12;
-- “**self-employed driver**” means anyone whose main occupation is to transport passengers or goods by road for hire or reward within the meaning of EU[^key-8c8fd9a4bbc6b7d4063281b96eba841d] legislation under cover of a Community licence or any other professional authorisation to carry out such transport, who is entitled to work for himself and who is not tied to an employer by an employment contract or by any other type of working hierarchical relationship, who is free to organise the relevant working activities, whose income depends directly on the profits made and who has the freedom, individually or through a co-operation between self-employed drivers, to have commercial relations with several customers;
+- “**relevant requirements**” means regulations 4(8), 4(9)[^c-11b0175a5280adc0a777ed46eb5fb9a1], 7(5), 7(6), 8(2), 8(3), 9(4), 9(5), 10, 11, 11A and 12;
+- “**self-employed driver**” means anyone whose main occupation is to transport passengers or goods by road for hire or reward within the meaning of EU[^c-8c8fd9a4bbc6b7d4063281b96eba841d] legislation under cover of a Community licence or any other professional authorisation to carry out such transport, who is entitled to work for himself and who is not tied to an employer by an employment contract or by any other type of working hierarchical relationship, who is free to organise the relevant working activities, whose income depends directly on the profits made and who has the freedom, individually or through a co-operation between self-employed drivers, to have commercial relations with several customers;
 - “**vehicle**” means a goods vehicle or a passenger vehicle;
 - “**week**” means a period of seven days beginning at midnight between Sunday and Monday;
-- “**worker**” means an individual who is not a self-employed driver and[^key-a4993d83d4b16f0c172b3a23ac92d3e1] who has entered into or works under (or, where employment has ceased, worked under)—
+- “**worker**” means an individual who is not a self-employed driver and[^c-a4993d83d4b16f0c172b3a23ac92d3e1] who has entered into or works under (or, where employment has ceased, worked under)—
   - (a) a contract of employment; or
   - (b) any other contract, whether express or implied and (if it is express) whether oral or in writing, whereby the individual undertakes to do or perform personally any work or services for another party to the contract;
 
   and any reference to a worker's contract shall be construed accordingly;
 - “**workforce agreement**” means an agreement between an employer and mobile workers employed by him or their representatives in respect of which the conditions set out in Schedule 1 to these Regulations are satisfied;
-- “working time” means the time from the beginning to the end of work during which –[^key-e0ff571a2c8f8efb3eec67affacee30d]
+- “working time” means the time from the beginning to the end of work during which –[^c-e0ff571a2c8f8efb3eec67affacee30d]
   - (a) the mobile worker or self-employed driver is at his workstation;
   - (b) the mobile worker is at the disposal of his employer, or (as applicable) the self employed driver is at the disposal of the client; and
   - (c) the mobile worker or self-employed driver is exercising his functions or activities, being:
@@ -99,36 +99,36 @@ In these Regulations—
 
   but, in relation to self-employed drivers, general administrative work that is not directly linked to the specific transport operation under way is excluded from working time.
 - “**workstation**” means
-  - (a) in relation to a mobile worker[^key-7f5306bf41a0dfa93bdfd6de18c76574] the location of the main place of business of the undertaking for which the person performing mobile transport activities carries out duties, together with its various subsidiary places of business, regardless of whether they are located in the same place as its head office or its main place of business; or[^key-6aed6c4154b45c59f6c71507dbd0be51]
-  - (b) in relation to a mobile worker or self-employed driver[^key-6d05ee03c948b622350c09cdcd77854f] the vehicle which the person performing mobile road transport activities uses when he carries out duties; or
-  - (c) in relation to a mobile worker or self-employed driver[^key-8658e4612ae848de85f2d7b06aa0ee36] any other place in which activities connected with transport are carried out.
+  - (a) in relation to a mobile worker[^c-7f5306bf41a0dfa93bdfd6de18c76574] the location of the main place of business of the undertaking for which the person performing mobile transport activities carries out duties, together with its various subsidiary places of business, regardless of whether they are located in the same place as its head office or its main place of business; or[^c-6aed6c4154b45c59f6c71507dbd0be51]
+  - (b) in relation to a mobile worker or self-employed driver[^c-6d05ee03c948b622350c09cdcd77854f] the vehicle which the person performing mobile road transport activities uses when he carries out duties; or
+  - (c) in relation to a mobile worker or self-employed driver[^c-8658e4612ae848de85f2d7b06aa0ee36] any other place in which activities connected with transport are carried out.
 
 ## 3. Application
 
-(1) These Regulations apply to mobile workers who are employed by, or who do work for, undertakings established in the United Kingdom[^key-197fe158ebdeefa3b053788f5d1fefcd], and to whom paragraph (2) or paragraph (3) applies.
+(1) These Regulations apply to mobile workers who are employed by, or who do work for, undertakings established in the United Kingdom[^c-197fe158ebdeefa3b053788f5d1fefcd], and to whom paragraph (2) or paragraph (3) applies.
 
-(1A)[^key-d7e88d654983e30563c86c8df71779e5] These Regulations also apply to self-employed drivers who are established in, or who do work for undertakings established in, the United Kingdom[^key-904304c96cfdd8278af3b8ab8c75914b], and to whom paragraph (2) or paragraph (3) applies.
+(1A)[^c-d7e88d654983e30563c86c8df71779e5] These Regulations also apply to self-employed drivers who are established in, or who do work for undertakings established in, the United Kingdom[^c-904304c96cfdd8278af3b8ab8c75914b], and to whom paragraph (2) or paragraph (3) applies.
 
-(2)[^key-11b84b90e19dd47541d1268022c26192] This paragraph applies to mobile workers or self-employed drivers[^key-d4f798e20b6b97525fe7e126f57e3dee] who, in the course of their employment or working activities[^key-14923879946dbc5f7c1b091d3691c354], drive or travel in or on vehicles—
+(2)[^c-11b84b90e19dd47541d1268022c26192] This paragraph applies to mobile workers or self-employed drivers[^c-d4f798e20b6b97525fe7e126f57e3dee] who, in the course of their employment or working activities[^c-14923879946dbc5f7c1b091d3691c354], drive or travel in or on vehicles—
 
 - (a) which are vehicles within the meaning of Article 4(b) of the Community Drivers’ Hours Regulation,
 - (b) which are not vehicles described in Article 3 of that Regulation, and
-- (c)[^key-c4a3d112bc7f249d490735d967ff765f] which are not vehicles exempted from the provisions of that Regulation under regulation 2 of the Community Drivers’ Hours and Recording Equipment Regulations 2007.
+- (c)[^c-c4a3d112bc7f249d490735d967ff765f] which are not vehicles exempted from the provisions of that Regulation under regulation 2 of the Community Drivers’ Hours and Recording Equipment Regulations 2007.
 
-(3) This paragraph applies to mobile workers or self-employed drivers[^key-49cfec9c8f5aaae397a3cb1ec6897275], to whom paragraph (2) does not apply, who in the course of their employment or working activities[^key-267ff666e36e0f3496a9f80db23d27c2] drive, or travel in, vehicles
+(3) This paragraph applies to mobile workers or self-employed drivers[^c-49cfec9c8f5aaae397a3cb1ec6897275], to whom paragraph (2) does not apply, who in the course of their employment or working activities[^c-267ff666e36e0f3496a9f80db23d27c2] drive, or travel in, vehicles
 
 - (a) which fall within the meaning of a “vehicle” in Article 1 of the AETR;
-- (b) which are not referred to in Article 2(2)[^key-3cfb38ab65e552e87693727ec1e81165] of the AETR; and
-- (c) which are performing transport operations wholly or partly outside the United Kingdom[^key-8aa27b4fd6ecfb3b28800ad90ade7148].
+- (b) which are not referred to in Article 2(2)[^c-3cfb38ab65e552e87693727ec1e81165] of the AETR; and
+- (c) which are performing transport operations wholly or partly outside the United Kingdom[^c-8aa27b4fd6ecfb3b28800ad90ade7148].
 
 (4) These Regulations do not apply to—
 
-- (a)[^key-e0c69b3843b157c0b3a8b6b82625ab2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) any mobile worker or self-employed driver[^key-6926abf6a88d99133a9bf2fc4041484d] who does work which is included in the calculation of working time—
+- (a)[^c-e0c69b3843b157c0b3a8b6b82625ab2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) any mobile worker or self-employed driver[^c-6926abf6a88d99133a9bf2fc4041484d] who does work which is included in the calculation of working time—
   - (i) where the reference period is shorter than 26 weeks, on fewer than 11 days in a reference period applicable to that mobile worker or self-employed driver, or
   - (ii) in any other case on fewer than 16 days in a reference period applicable to that mobile worker or self-employed driver.
 
-## 3A. Duty to Review Regulation 3(1A)[^key-ae1abeb69329b907501f9b75f6fa6d8b]
+## 3A. Duty to Review Regulation 3(1A)[^c-ae1abeb69329b907501f9b75f6fa6d8b]
 
 (1) The Secretary of State must from time to time—
 
@@ -136,7 +136,7 @@ In these Regulations—
 - (b) set out the conclusions of the review in a report, and
 - (c) publish the report.
 
-(2)[^key-82d7e1baeaf98282dff8a8f5f9520e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-82d7e1baeaf98282dff8a8f5f9520e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
@@ -150,17 +150,17 @@ In these Regulations—
 
 ## 4. Working time
 
-(1)[^key-e3527757d5618f40d4511b231e386e16][^key-a7870f4d1eff1b8dd34eaf43ea4d9fb3] Subject to paragraph (2) below, the working time, including overtime, of a mobile worker or self-employed driver[^key-a86cba71d65427c791cad476cf2ec0e2] shall not exceed 60 hours in a week.
+(1)[^c-e3527757d5618f40d4511b231e386e16][^c-a7870f4d1eff1b8dd34eaf43ea4d9fb3] Subject to paragraph (2) below, the working time, including overtime, of a mobile worker or self-employed driver[^c-a86cba71d65427c791cad476cf2ec0e2] shall not exceed 60 hours in a week.
 
-(2)[^key-036a0f31df0d0e7bfb3c15de92dd1be6][^key-effd125e63326d78be82313206c0c4e6] In any reference period which is applicable to his case, the working time of a mobile worker or self-employed driver[^key-abcfb9318bd16b9c52836ede59e525dc] shall not exceed an average of 48 hours for each week.
+(2)[^c-036a0f31df0d0e7bfb3c15de92dd1be6][^c-effd125e63326d78be82313206c0c4e6] In any reference period which is applicable to his case, the working time of a mobile worker or self-employed driver[^c-abcfb9318bd16b9c52836ede59e525dc] shall not exceed an average of 48 hours for each week.
 
-(3) The reference periods which apply [^key-5338b6f8589d6297038709747b1732da]... shall be—
+(3) The reference periods which apply [^c-5338b6f8589d6297038709747b1732da]... shall be—
 
-- (a)[^key-cc0b2295a8fd49d64cd0e2e7429078b4] in the case of a mobile worker—
+- (a)[^c-cc0b2295a8fd49d64cd0e2e7429078b4] in the case of a mobile worker—
   - (i) where a collective agreement or a workforce agreement provides for the application of this regulation in relation to successive periods of 17 weeks, each such period, or
   - (ii) in a case where there is no such provision, and the employer gives written notice to the mobile worker in writing that he intends to apply this subparagraph, any period of 17 weeks in the course of the worker’s employment,
-- (b)[^key-9bd83882661030bb0260d057880a4dae] in the case of a self-employed driver who elects to apply this subparagraph in relation to any period of 17 weeks or to successive periods of 17 weeks, each such period,
-- (c) in any other case for a mobile worker or self-employed driver,[^key-b860dcff9d76604690463b89e479d1fd] the period ending at midnight between Sunday 31st July 2005 and Monday 1st August 2005 and thereafter, in each year, the successive periods beginning at midnight at the beginning of the Monday which falls on, or is the first Monday after, a date in column 1 below and ending at midnight at the beginning of the Monday which falls on, or is the first Monday after, the date on the same line in column 2 below.
+- (b)[^c-9bd83882661030bb0260d057880a4dae] in the case of a self-employed driver who elects to apply this subparagraph in relation to any period of 17 weeks or to successive periods of 17 weeks, each such period,
+- (c) in any other case for a mobile worker or self-employed driver,[^c-b860dcff9d76604690463b89e479d1fd] the period ending at midnight between Sunday 31st July 2005 and Monday 1st August 2005 and thereafter, in each year, the successive periods beginning at midnight at the beginning of the Monday which falls on, or is the first Monday after, a date in column 1 below and ending at midnight at the beginning of the Monday which falls on, or is the first Monday after, the date on the same line in column 2 below.
 
   |  |  |
   | --- | --- |
@@ -171,17 +171,17 @@ In these Regulations—
 
 (4) The reference period may be extended in relation to particular mobile workers or groups of mobile workers for objective or technical reasons or reasons concerning the organisation of work, by a collective agreement or a workforce agreement, by the substitution for 17 weeks of a period not exceeding 26 weeks in the application of paragraphs (2) and (3)(a) above.
 
-(4A)[^key-1bc6eb9dd4826a187a1c0f686053831c] The reference period may be extended in relation to self-employed drivers for objective or technical reasons or reasons concerning the organisation of work, by the substitution for 17 weeks of a period not exceeding 26 weeks in the application of paragraphs (2) and (3)(b) above.
+(4A)[^c-1bc6eb9dd4826a187a1c0f686053831c] The reference period may be extended in relation to self-employed drivers for objective or technical reasons or reasons concerning the organisation of work, by the substitution for 17 weeks of a period not exceeding 26 weeks in the application of paragraphs (2) and (3)(b) above.
 
-(5) The[^key-566bd219b34a6db6fd5505ea269f2ddd] average weekly working time during a reference period shall be determined according to the formula—
+(5) The[^c-566bd219b34a6db6fd5505ea269f2ddd] average weekly working time during a reference period shall be determined according to the formula—
 
-**(A+B)÷C[^key-b2748647b024e062f84eb260bcda9d28]** for mobile workers, or
+**(A+B)÷C[^c-b2748647b024e062f84eb260bcda9d28]** for mobile workers, or
 
 **A÷C** for self-employed drivers
 
 where—
 
-**A** is the aggregate number of hours comprised in [^key-4f839ec1d4f6cbcf802d5664b2bde506]... working time during the course of the reference period;
+**A** is the aggregate number of hours comprised in [^c-4f839ec1d4f6cbcf802d5664b2bde506]... working time during the course of the reference period;
 
 **B** is the number of excluded hours during the reference period; and
 
@@ -189,7 +189,7 @@ where—
 
 (6) In paragraph (5), “**excluded hours**” means hours comprised in—
 
-- (a) any period of annual leave taken by the mobile worker in exercise of entitlement under regulation 13 or 15B[^key-701b496c14150fcf2b5401b15152fd5c] of the Working Time Regulations 1998 [^c11336281];
+- (a) any period of annual leave taken by the mobile worker in exercise of entitlement under regulation 13 or 15B[^c-701b496c14150fcf2b5401b15152fd5c] of the Working Time Regulations 1998 [^c11336281];
 - (b) any period of sick leave taken by the mobile worker;
 - (c) any period of maternity, paternity, adoption or parental leave taken by the mobile worker;
 
@@ -197,7 +197,7 @@ where—
 
 (8) An employer shall take all reasonable steps, in keeping with the need to protect the health and safety of the mobile worker, to ensure that the limits specified above are complied with in the case of each mobile worker employed by him.
 
-(9)[^key-4d09c49a08dfb0ad0c5257b29ce92b2d] A self-employed driver must take all reasonable steps, in keeping with the need to protect his health and safety, to comply with the limits specified above.
+(9)[^c-4d09c49a08dfb0ad0c5257b29ce92b2d] A self-employed driver must take all reasonable steps, in keeping with the need to protect his health and safety, to comply with the limits specified above.
 
 ## 5.
 
@@ -205,49 +205,49 @@ The times of breaks, rests and periods of availability shall not be included in 
 
 ## 6. Periods of availability
 
-(1) A period shall not be treated as a period of availability unless the mobile worker or self-employed driver[^key-24a27db3a81f4709640ec806402553dd] knows before the start of the relevant period about that period of availability and its reasonably foreseeable duration.
+(1) A period shall not be treated as a period of availability unless the mobile worker or self-employed driver[^c-24a27db3a81f4709640ec806402553dd] knows before the start of the relevant period about that period of availability and its reasonably foreseeable duration.
 
-(2) The time spent by a mobile worker or self-employed driver[^key-e96a3e7bf4f8f39f6d142be46c308095], who is working as part of a team, travelling in, but not driving, a moving vehicle as part of that team shall be a period of availability for that mobile worker or self-employed driver.
+(2) The time spent by a mobile worker or self-employed driver[^c-e96a3e7bf4f8f39f6d142be46c308095], who is working as part of a team, travelling in, but not driving, a moving vehicle as part of that team shall be a period of availability for that mobile worker or self-employed driver.
 
 (3) Subject to paragraph (4) a period of availability shall not include a period of rest or a break.
 
-(4) A period of availability may include a break taken by a mobile worker or self-employed driver[^key-fe2d34f70f9160ae7d42ef5c07c8453c] during waiting time or time which is not devoted to driving by the mobile worker or self-employed driver and is spent in a moving vehicle, a ferry or a train.
+(4) A period of availability may include a break taken by a mobile worker or self-employed driver[^c-fe2d34f70f9160ae7d42ef5c07c8453c] during waiting time or time which is not devoted to driving by the mobile worker or self-employed driver and is spent in a moving vehicle, a ferry or a train.
 
 ## 7. Breaks
 
-(1) No mobile worker or self-employed driver[^key-bdf7e3f7c7b46f1ad8cbee8679eb4b34] shall work for more than six hours without a break.
+(1) No mobile worker or self-employed driver[^c-bdf7e3f7c7b46f1ad8cbee8679eb4b34] shall work for more than six hours without a break.
 
-(2)[^key-a35ce686e9e2c40fa033ecbcba2d9c2b] Where the working time of a mobile worker or self-employed driver exceeds six hours but does not exceed nine hours, the mobile worker or self-employed driver must take a break lasting at least 30 minutes and interrupting that period.
+(2)[^c-a35ce686e9e2c40fa033ecbcba2d9c2b] Where the working time of a mobile worker or self-employed driver exceeds six hours but does not exceed nine hours, the mobile worker or self-employed driver must take a break lasting at least 30 minutes and interrupting that period.
 
-(3)[^key-cd7d3fcf05aa71bb3bd55a6a6eb4810d] Where the working time of a mobile worker or self-employed driver exceeds nine hours, the mobile worker or self-employed driver must take a break lasting at least 45 minutes and interrupting that period.
+(3)[^c-cd7d3fcf05aa71bb3bd55a6a6eb4810d] Where the working time of a mobile worker or self-employed driver exceeds nine hours, the mobile worker or self-employed driver must take a break lasting at least 45 minutes and interrupting that period.
 
 (4) Each break may be made up of separate periods of not less than 15 minutes each.
 
 (5) An employer shall take all reasonable steps, in keeping with the need to protect the health and safety of the mobile worker, to ensure that the limits specified above are complied with in the case of each mobile worker employed by him.
 
-(6)[^key-71ad3281b4a7910decabe940be4b1260] A self-employed driver must take all reasonable steps, in keeping with the need to protect his health and safety, to comply with the limits specified above.
+(6)[^c-71ad3281b4a7910decabe940be4b1260] A self-employed driver must take all reasonable steps, in keeping with the need to protect his health and safety, to comply with the limits specified above.
 
 ## 8. Rest periods
 
-(1) In the application of these Regulations, the provisions of the Community Drivers' Hours Regulation relating to daily and weekly rest shall apply to all mobile workers and self-employed drivers[^key-21324d08fcf1106246aefecbd918e391] to whom they do not apply under that Regulation as they apply to other mobile workers under that Regulation.
+(1) In the application of these Regulations, the provisions of the Community Drivers' Hours Regulation relating to daily and weekly rest shall apply to all mobile workers and self-employed drivers[^c-21324d08fcf1106246aefecbd918e391] to whom they do not apply under that Regulation as they apply to other mobile workers under that Regulation.
 
 (2) An employer shall take all reasonable steps, in keeping with the need to protect the health and safety of the mobile worker, to ensure that those provisions are complied with in the case of each mobile worker employed by him, to whom they are applied by paragraph (1).
 
-(3)[^key-229d5a5dca5c5f20f2d7b1c39f01f879] A self-employed driver must take all reasonable steps, in keeping with the need to protect his health and safety, to ensure that he complies with the provisions applied by paragraph (1).
+(3)[^c-229d5a5dca5c5f20f2d7b1c39f01f879] A self-employed driver must take all reasonable steps, in keeping with the need to protect his health and safety, to ensure that he complies with the provisions applied by paragraph (1).
 
 ## 9. Night work
 
-(1) The working time of a mobile worker or self-employed driver[^key-1ee5d60e892feef377357f3bab12e1b4], who performs night work in any period of 24 hours, shall not exceed 10 hours during that period.
+(1) The working time of a mobile worker or self-employed driver[^c-1ee5d60e892feef377357f3bab12e1b4], who performs night work in any period of 24 hours, shall not exceed 10 hours during that period.
 
 (2) The period of 10 hours may be extended in relation to particular mobile workers or groups of mobile workers for objective or technical reasons or reasons concerning the organisation of work, by a collective agreement or a workforce agreement.
 
-(2A)[^key-f70b612aa65f58d91f0d3003e77eb5bd] A self-employed driver may elect to extend the period of 10 hours for objective or technical reasons or reasons concerning the organisation of work.
+(2A)[^c-f70b612aa65f58d91f0d3003e77eb5bd] A self-employed driver may elect to extend the period of 10 hours for objective or technical reasons or reasons concerning the organisation of work.
 
-(3) Compensation for night work shall not be given to a mobile worker or to a self-employed driver[^key-d0b09cf3515d49293e705ec0b77ba0b4] in any manner which is liable to endanger road safety.
+(3) Compensation for night work shall not be given to a mobile worker or to a self-employed driver[^c-d0b09cf3515d49293e705ec0b77ba0b4] in any manner which is liable to endanger road safety.
 
 (4) An employer shall take all reasonable steps in keeping with the need to protect the health and safety of mobile workers to ensure that the limit specified in paragraph (1), or extended in accordance with paragraph (2), is complied with in the case of each mobile worker employed by him.
 
-(5)[^key-00c82137b18d7438faf4eb10fe023356] A self-employed driver must take all reasonable steps, in keeping with the need to protect his health and safety, to ensure that the limit specified in paragraph (1), or extended in accordance with paragraph (2A), is complied with.
+(5)[^c-00c82137b18d7438faf4eb10fe023356] A self-employed driver must take all reasonable steps, in keeping with the need to protect his health and safety, to ensure that the limit specified in paragraph (1), or extended in accordance with paragraph (2A), is complied with.
 
 ## 10. Information and records
 
@@ -265,7 +265,7 @@ An employer of a mobile worker shall
 - (f) provide to an enforcement officer copies of such records relating to mobile workers as the officer may require;
 - (g) provide to a mobile worker or enforcement officer copies of such documentary evidence in the employer's possession as may be requested by the worker or officer in relation to records provided to him in accordance with paragraph (e) or (f) above.
 
-## 11A.[^key-a709936cf96fa76f4065274c04ff7869]
+## 11A.[^c-a709936cf96fa76f4065274c04ff7869]
 
 A self-employed driver must—
 
@@ -281,7 +281,7 @@ A mobile worker shall, at the request of his employer under regulation 11(a), no
 
 (1) The Secretary of State shall arrange for the publication, in such form and manner as he considers appropriate, of information and advice concerning the operation of these Regulations.
 
-(2) The information and advice shall be such as appear to him best calculated to enable employers, workers and self-employed drivers[^key-e291653810d2261b805af4d316282fe2] affected by these Regulations to understand their respective rights and obligations.
+(2) The information and advice shall be such as appear to him best calculated to enable employers, workers and self-employed drivers[^c-e291653810d2261b805af4d316282fe2] affected by these Regulations to understand their respective rights and obligations.
 
 ## 14. Agency workers not otherwise mobile workers
 
@@ -297,7 +297,7 @@ A mobile worker shall, at the request of his employer under regulation 11(a), no
 - (b) if neither the agent nor the principal is so responsible, whichever of them pays the agency worker in respect of the work,
 - (c) and as if that person were the agency worker's employer.
 
-## 15. Individual carrying on own trade or business[^key-8042fdb9c91c5da66f71324a9dda2d5d]
+## 15. Individual carrying on own trade or business[^c-8042fdb9c91c5da66f71324a9dda2d5d]
 
 (1) This regulation applies to an individual who—
 
@@ -582,120 +582,120 @@ A transposition note has been prepared and copies may be obtained from the Depar
 
 [^c11336251]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-4133c27b1a1a57f1e912a3b316b60662]: Textual amendment: Words in reg. 2 substituted (11.4.2007) by [The Road Transport (Working Time) (Amendment) Regulations 2007 (S.I. 2007/853)](https://www.legislation.gov.uk/uksi/2007/853), [regs. 1](https://www.legislation.gov.uk/uksi/2007/853/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/853/regulation/2/2)
+[^c-4133c27b1a1a57f1e912a3b316b60662]: Textual amendment: Words in reg. 2 substituted (11.4.2007) by [The Road Transport (Working Time) (Amendment) Regulations 2007 (S.I. 2007/853)](https://www.legislation.gov.uk/uksi/2007/853), [regs. 1](https://www.legislation.gov.uk/uksi/2007/853/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/853/regulation/2/2)
 
-[^key-6042414022e47b878f29f1c35f1df2ba]: Textual amendment: Words in reg. 2 inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/a/i)
+[^c-6042414022e47b878f29f1c35f1df2ba]: Textual amendment: Words in reg. 2 inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/a/i)
 
-[^key-2678f9913b110365b75adb599d632863]: Textual amendment: Words in reg. 2 substituted (11.5.2012) by virtue of [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/a/ii)
+[^c-2678f9913b110365b75adb599d632863]: Textual amendment: Words in reg. 2 substituted (11.5.2012) by virtue of [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/a/ii)
 
-[^key-11b0175a5280adc0a777ed46eb5fb9a1]: Textual amendment: Words in reg. 2 inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/b)
+[^c-11b0175a5280adc0a777ed46eb5fb9a1]: Textual amendment: Words in reg. 2 inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/b)
 
-[^key-8c8fd9a4bbc6b7d4063281b96eba841d]: Textual amendment: Word in reg. 2 substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6)
+[^c-8c8fd9a4bbc6b7d4063281b96eba841d]: Textual amendment: Word in reg. 2 substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6)
 
-[^key-a4993d83d4b16f0c172b3a23ac92d3e1]: Textual amendment: Words in reg. 2 inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/c)
+[^c-a4993d83d4b16f0c172b3a23ac92d3e1]: Textual amendment: Words in reg. 2 inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/c)
 
-[^key-e0ff571a2c8f8efb3eec67affacee30d]: Textual amendment: Words in reg. 2 substituted (11.5.2012) by virtue of [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/d)
+[^c-e0ff571a2c8f8efb3eec67affacee30d]: Textual amendment: Words in reg. 2 substituted (11.5.2012) by virtue of [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/d)
 
-[^key-7f5306bf41a0dfa93bdfd6de18c76574]: Textual amendment: Words in reg. 2 inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(e)(i)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/e/i)
+[^c-7f5306bf41a0dfa93bdfd6de18c76574]: Textual amendment: Words in reg. 2 inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(e)(i)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/e/i)
 
-[^key-6aed6c4154b45c59f6c71507dbd0be51]: Textual amendment: Words in reg. 2 inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(e)(ii)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/e/ii)
+[^c-6aed6c4154b45c59f6c71507dbd0be51]: Textual amendment: Words in reg. 2 inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(e)(ii)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/e/ii)
 
-[^key-6d05ee03c948b622350c09cdcd77854f]: Textual amendment: Words in reg. 2 inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(e)(iii)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/e/iii)
+[^c-6d05ee03c948b622350c09cdcd77854f]: Textual amendment: Words in reg. 2 inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(e)(iii)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/e/iii)
 
-[^key-8658e4612ae848de85f2d7b06aa0ee36]: Textual amendment: Words in reg. 2 inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(e)(iv)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/e/iv)
+[^c-8658e4612ae848de85f2d7b06aa0ee36]: Textual amendment: Words in reg. 2 inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [3(e)(iv)](https://www.legislation.gov.uk/uksi/2012/991/regulation/3/e/iv)
 
-[^key-197fe158ebdeefa3b053788f5d1fefcd]: Textual amendment: Words in reg. 3(1A) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [50(2)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/50/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-197fe158ebdeefa3b053788f5d1fefcd]: Textual amendment: Words in reg. 3(1A) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [50(2)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/50/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d7e88d654983e30563c86c8df71779e5]: Textual amendment: Reg. 3(1A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/a)
+[^c-d7e88d654983e30563c86c8df71779e5]: Textual amendment: Reg. 3(1A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/a)
 
-[^key-904304c96cfdd8278af3b8ab8c75914b]: Textual amendment: Words in reg. 3(1) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [50(2)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/50/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-904304c96cfdd8278af3b8ab8c75914b]: Textual amendment: Words in reg. 3(1) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [50(2)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/50/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-11b84b90e19dd47541d1268022c26192]: Textual amendment: Reg. 3(2) substituted (11.4.2007) by [The Road Transport (Working Time) (Amendment) Regulations 2007 (S.I. 2007/853)](https://www.legislation.gov.uk/uksi/2007/853), [regs. 1](https://www.legislation.gov.uk/uksi/2007/853/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/853/regulation/2/3)
+[^c-11b84b90e19dd47541d1268022c26192]: Textual amendment: Reg. 3(2) substituted (11.4.2007) by [The Road Transport (Working Time) (Amendment) Regulations 2007 (S.I. 2007/853)](https://www.legislation.gov.uk/uksi/2007/853), [regs. 1](https://www.legislation.gov.uk/uksi/2007/853/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/853/regulation/2/3)
 
-[^key-d4f798e20b6b97525fe7e126f57e3dee]: Textual amendment: Words in reg. 3(2) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/b/i)
+[^c-d4f798e20b6b97525fe7e126f57e3dee]: Textual amendment: Words in reg. 3(2) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/b/i)
 
-[^key-14923879946dbc5f7c1b091d3691c354]: Textual amendment: Words in reg. 3(2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/b/ii)
+[^c-14923879946dbc5f7c1b091d3691c354]: Textual amendment: Words in reg. 3(2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/b/ii)
 
-[^key-c4a3d112bc7f249d490735d967ff765f]: Textual amendment: Reg. 3(2)(c) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/c)
+[^c-c4a3d112bc7f249d490735d967ff765f]: Textual amendment: Reg. 3(2)(c) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/c)
 
-[^key-49cfec9c8f5aaae397a3cb1ec6897275]: Textual amendment: Words in reg. 3(3) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(d)(i)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/d/i)
+[^c-49cfec9c8f5aaae397a3cb1ec6897275]: Textual amendment: Words in reg. 3(3) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(d)(i)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/d/i)
 
-[^key-267ff666e36e0f3496a9f80db23d27c2]: Textual amendment: Words in reg. 3(3) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(d)(ii)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/d/ii)
+[^c-267ff666e36e0f3496a9f80db23d27c2]: Textual amendment: Words in reg. 3(3) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(d)(ii)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/d/ii)
 
-[^key-3cfb38ab65e552e87693727ec1e81165]: Textual amendment: Words in reg. 3(3)(b) substituted (26.3.2019) by [The Drivers Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2019/453/regulation/26)
+[^c-3cfb38ab65e552e87693727ec1e81165]: Textual amendment: Words in reg. 3(3)(b) substituted (26.3.2019) by [The Drivers Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2019/453/regulation/26)
 
-[^key-8aa27b4fd6ecfb3b28800ad90ade7148]: Textual amendment: Words in reg. 3(3)(c) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [50(2)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/50/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8aa27b4fd6ecfb3b28800ad90ade7148]: Textual amendment: Words in reg. 3(3)(c) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [50(2)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/50/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e0c69b3843b157c0b3a8b6b82625ab2e]: Textual amendment: Reg. 3(4)(a) revoked (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/e)
+[^c-e0c69b3843b157c0b3a8b6b82625ab2e]: Textual amendment: Reg. 3(4)(a) revoked (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/e)
 
-[^key-6926abf6a88d99133a9bf2fc4041484d]: Textual amendment: Words in reg. 3(4)(b) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(f)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/f)
+[^c-6926abf6a88d99133a9bf2fc4041484d]: Textual amendment: Words in reg. 3(4)(b) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [4(f)](https://www.legislation.gov.uk/uksi/2012/991/regulation/4/f)
 
-[^key-ae1abeb69329b907501f9b75f6fa6d8b]: Textual amendment: Reg. 3A inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/991/regulation/5)
+[^c-ae1abeb69329b907501f9b75f6fa6d8b]: Textual amendment: Reg. 3A inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/991/regulation/5)
 
-[^key-82d7e1baeaf98282dff8a8f5f9520e8c]: Textual amendment: [Reg. 3A(2)](https://www.legislation.gov.uk/uksi/2005/639/regulation/3A/2) omitted (31.12.2020) by virtue of [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [50(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/50/3) (with [reg. 114](https://www.legislation.gov.uk/uksi/2019/453/regulation/114)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82d7e1baeaf98282dff8a8f5f9520e8c]: Textual amendment: [Reg. 3A(2)](https://www.legislation.gov.uk/uksi/2005/639/regulation/3A/2) omitted (31.12.2020) by virtue of [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [50(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/50/3) (with [reg. 114](https://www.legislation.gov.uk/uksi/2019/453/regulation/114)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e3527757d5618f40d4511b231e386e16]: Modification: Reg. 4(1) modified (12.1.2006) by [The Community Drivers Hours and Working Time (Road Tankers) (Temporary Exception) Regulations 2006 (S.I. 2006/17)](https://www.legislation.gov.uk/uksi/2006/17), [regs. 1](https://www.legislation.gov.uk/uksi/2006/17/regulation/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2006/17/regulation/4/1/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2006/17/regulation/4/2))
+[^c-e3527757d5618f40d4511b231e386e16]: Modification: Reg. 4(1) modified (12.1.2006) by [The Community Drivers Hours and Working Time (Road Tankers) (Temporary Exception) Regulations 2006 (S.I. 2006/17)](https://www.legislation.gov.uk/uksi/2006/17), [regs. 1](https://www.legislation.gov.uk/uksi/2006/17/regulation/1), [4(1)(a)](https://www.legislation.gov.uk/uksi/2006/17/regulation/4/1/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2006/17/regulation/4/2))
 
-[^key-a7870f4d1eff1b8dd34eaf43ea4d9fb3]: Modification: Reg. 4(1) modified (6.10.2007) by [The Community Drivers Hours and Working Time (Foot-and-Mouth Disease) (Temporary Exception) Regulations 2007 (S.I. 2007/2904)](https://www.legislation.gov.uk/uksi/2007/2904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2904/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2007/2904/regulation/4/a)
+[^c-a7870f4d1eff1b8dd34eaf43ea4d9fb3]: Modification: Reg. 4(1) modified (6.10.2007) by [The Community Drivers Hours and Working Time (Foot-and-Mouth Disease) (Temporary Exception) Regulations 2007 (S.I. 2007/2904)](https://www.legislation.gov.uk/uksi/2007/2904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2904/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2007/2904/regulation/4/a)
 
-[^key-a86cba71d65427c791cad476cf2ec0e2]: Textual amendment: Words in reg. 4(1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/a)
+[^c-a86cba71d65427c791cad476cf2ec0e2]: Textual amendment: Words in reg. 4(1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/a)
 
-[^key-036a0f31df0d0e7bfb3c15de92dd1be6]: Modification: Reg. 4(2) modified (12.1.2006) by [The Community Drivers Hours and Working Time (Road Tankers) (Temporary Exception) Regulations 2006 (S.I. 2006/17)](https://www.legislation.gov.uk/uksi/2006/17), [regs. 1](https://www.legislation.gov.uk/uksi/2006/17/regulation/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2006/17/regulation/4/1/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2006/17/regulation/4/2))
+[^c-036a0f31df0d0e7bfb3c15de92dd1be6]: Modification: Reg. 4(2) modified (12.1.2006) by [The Community Drivers Hours and Working Time (Road Tankers) (Temporary Exception) Regulations 2006 (S.I. 2006/17)](https://www.legislation.gov.uk/uksi/2006/17), [regs. 1](https://www.legislation.gov.uk/uksi/2006/17/regulation/1), [4(1)(b)](https://www.legislation.gov.uk/uksi/2006/17/regulation/4/1/b) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2006/17/regulation/4/2))
 
-[^key-effd125e63326d78be82313206c0c4e6]: Modification: Reg. 4(2) modified (6.10.2007) by [The Community Drivers Hours and Working Time (Foot-and-Mouth Disease) (Temporary Exception) Regulations 2007 (S.I. 2007/2904)](https://www.legislation.gov.uk/uksi/2007/2904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2904/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2007/2904/regulation/4/b)
+[^c-effd125e63326d78be82313206c0c4e6]: Modification: Reg. 4(2) modified (6.10.2007) by [The Community Drivers Hours and Working Time (Foot-and-Mouth Disease) (Temporary Exception) Regulations 2007 (S.I. 2007/2904)](https://www.legislation.gov.uk/uksi/2007/2904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2904/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2007/2904/regulation/4/b)
 
-[^key-abcfb9318bd16b9c52836ede59e525dc]: Textual amendment: Words in reg. 4(2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/b)
+[^c-abcfb9318bd16b9c52836ede59e525dc]: Textual amendment: Words in reg. 4(2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/b)
 
-[^key-5338b6f8589d6297038709747b1732da]: Textual amendment: Words in reg. 4(3) deleted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/c)
+[^c-5338b6f8589d6297038709747b1732da]: Textual amendment: Words in reg. 4(3) deleted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/c)
 
-[^key-cc0b2295a8fd49d64cd0e2e7429078b4]: Textual amendment: Reg. 4(3)(a) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(d)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/d)
+[^c-cc0b2295a8fd49d64cd0e2e7429078b4]: Textual amendment: Reg. 4(3)(a) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(d)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/d)
 
-[^key-9bd83882661030bb0260d057880a4dae]: Textual amendment: Reg. 4(3)(b) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(e)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/e)
+[^c-9bd83882661030bb0260d057880a4dae]: Textual amendment: Reg. 4(3)(b) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(e)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/e)
 
-[^key-b860dcff9d76604690463b89e479d1fd]: Textual amendment: Words in reg. 4(3)(c) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(g)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/g)
+[^c-b860dcff9d76604690463b89e479d1fd]: Textual amendment: Words in reg. 4(3)(c) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(g)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/g)
 
-[^key-1bc6eb9dd4826a187a1c0f686053831c]: Textual amendment: Reg. 4(4A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(h)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/h)
+[^c-1bc6eb9dd4826a187a1c0f686053831c]: Textual amendment: Reg. 4(4A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(h)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/h)
 
-[^key-566bd219b34a6db6fd5505ea269f2ddd]: Textual amendment: Words in reg. 4(5) substituted (11.5.2012) by virtue of [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(i)(i)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/i/i)
+[^c-566bd219b34a6db6fd5505ea269f2ddd]: Textual amendment: Words in reg. 4(5) substituted (11.5.2012) by virtue of [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(i)(i)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/i/i)
 
-[^key-b2748647b024e062f84eb260bcda9d28]: Textual amendment: Words in reg. 4(5) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(i)(ii)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/i/ii)
+[^c-b2748647b024e062f84eb260bcda9d28]: Textual amendment: Words in reg. 4(5) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(i)(ii)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/i/ii)
 
-[^key-4f839ec1d4f6cbcf802d5664b2bde506]: Textual amendment: Words in reg. 4(5) deleted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(i)(iii)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/i/iii)
+[^c-4f839ec1d4f6cbcf802d5664b2bde506]: Textual amendment: Words in reg. 4(5) deleted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(i)(iii)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/i/iii)
 
-[^key-701b496c14150fcf2b5401b15152fd5c]: Textual amendment: Words in [reg. 4(6)(a)](https://www.legislation.gov.uk/uksi/2005/639/regulation/4/6/a) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1426/regulation/5)
+[^c-701b496c14150fcf2b5401b15152fd5c]: Textual amendment: Words in [reg. 4(6)(a)](https://www.legislation.gov.uk/uksi/2005/639/regulation/4/6/a) inserted (1.1.2024) by [The Employment Rights (Amendment, Revocation and Transitional Provision) Regulations 2023 (S.I. 2023/1426)](https://www.legislation.gov.uk/uksi/2023/1426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1426/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1426/regulation/5)
 
 [^c11336281]: Marginal citation: S.I.1998; the relevant amending instrument is [S.I. 2001/3256](https://www.legislation.gov.uk/uksi/2001/3256).
 
-[^key-4d09c49a08dfb0ad0c5257b29ce92b2d]: Textual amendment: Reg. 4(9) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(j)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/j)
+[^c-4d09c49a08dfb0ad0c5257b29ce92b2d]: Textual amendment: Reg. 4(9) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [6(j)](https://www.legislation.gov.uk/uksi/2012/991/regulation/6/j)
 
-[^key-24a27db3a81f4709640ec806402553dd]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2005/639/regulation/6/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/991/regulation/7/a)
+[^c-24a27db3a81f4709640ec806402553dd]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2005/639/regulation/6/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/991/regulation/7/a)
 
-[^key-e96a3e7bf4f8f39f6d142be46c308095]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2005/639/regulation/6/2) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2012/991/regulation/7/b)
+[^c-e96a3e7bf4f8f39f6d142be46c308095]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2005/639/regulation/6/2) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2012/991/regulation/7/b)
 
-[^key-fe2d34f70f9160ae7d42ef5c07c8453c]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2005/639/regulation/6/4) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2012/991/regulation/7/c)
+[^c-fe2d34f70f9160ae7d42ef5c07c8453c]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2005/639/regulation/6/4) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2012/991/regulation/7/c)
 
-[^key-bdf7e3f7c7b46f1ad8cbee8679eb4b34]: Textual amendment: Words in reg. 7(1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2012/991/regulation/8/a)
+[^c-bdf7e3f7c7b46f1ad8cbee8679eb4b34]: Textual amendment: Words in reg. 7(1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2012/991/regulation/8/a)
 
-[^key-a35ce686e9e2c40fa033ecbcba2d9c2b]: Textual amendment: Reg. 7(2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2012/991/regulation/8/b)
+[^c-a35ce686e9e2c40fa033ecbcba2d9c2b]: Textual amendment: Reg. 7(2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2012/991/regulation/8/b)
 
-[^key-cd7d3fcf05aa71bb3bd55a6a6eb4810d]: Textual amendment: Reg. 7(3) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2012/991/regulation/8/c)
+[^c-cd7d3fcf05aa71bb3bd55a6a6eb4810d]: Textual amendment: Reg. 7(3) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2012/991/regulation/8/c)
 
-[^key-71ad3281b4a7910decabe940be4b1260]: Textual amendment: Reg. 7(6) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2012/991/regulation/8/d)
+[^c-71ad3281b4a7910decabe940be4b1260]: Textual amendment: Reg. 7(6) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2012/991/regulation/8/d)
 
-[^key-21324d08fcf1106246aefecbd918e391]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2005/639/regulation/8/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2012/991/regulation/9/a)
+[^c-21324d08fcf1106246aefecbd918e391]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2005/639/regulation/8/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2012/991/regulation/9/a)
 
-[^key-229d5a5dca5c5f20f2d7b1c39f01f879]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2005/639/regulation/8/3) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2012/991/regulation/9/b)
+[^c-229d5a5dca5c5f20f2d7b1c39f01f879]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2005/639/regulation/8/3) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2012/991/regulation/9/b)
 
-[^key-1ee5d60e892feef377357f3bab12e1b4]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2005/639/regulation/9/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2012/991/regulation/10/a)
+[^c-1ee5d60e892feef377357f3bab12e1b4]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2005/639/regulation/9/1) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2012/991/regulation/10/a)
 
-[^key-f70b612aa65f58d91f0d3003e77eb5bd]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/uksi/2005/639/regulation/9/2A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2012/991/regulation/10/b)
+[^c-f70b612aa65f58d91f0d3003e77eb5bd]: Textual amendment: [Reg. 9(2A)](https://www.legislation.gov.uk/uksi/2005/639/regulation/9/2A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2012/991/regulation/10/b)
 
-[^key-d0b09cf3515d49293e705ec0b77ba0b4]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2005/639/regulation/9/3) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2012/991/regulation/10/c)
+[^c-d0b09cf3515d49293e705ec0b77ba0b4]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2005/639/regulation/9/3) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2012/991/regulation/10/c)
 
-[^key-00c82137b18d7438faf4eb10fe023356]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2005/639/regulation/9/5) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/2012/991/regulation/10/d)
+[^c-00c82137b18d7438faf4eb10fe023356]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2005/639/regulation/9/5) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/2012/991/regulation/10/d)
 
-[^key-a709936cf96fa76f4065274c04ff7869]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2005/639/regulation/11A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [11](https://www.legislation.gov.uk/uksi/2012/991/regulation/11)
+[^c-a709936cf96fa76f4065274c04ff7869]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2005/639/regulation/11A) inserted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [11](https://www.legislation.gov.uk/uksi/2012/991/regulation/11)
 
-[^key-e291653810d2261b805af4d316282fe2]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2005/639/regulation/13/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [12](https://www.legislation.gov.uk/uksi/2012/991/regulation/12)
+[^c-e291653810d2261b805af4d316282fe2]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2005/639/regulation/13/2) substituted (11.5.2012) by [The Road Transport (Working Time) (Amendment) Regulations 2012 (S.I. 2012/991)](https://www.legislation.gov.uk/uksi/2012/991), [regs. 1](https://www.legislation.gov.uk/uksi/2012/991/regulation/1), [12](https://www.legislation.gov.uk/uksi/2012/991/regulation/12)
 
-[^key-8042fdb9c91c5da66f71324a9dda2d5d]: Textual amendment: Reg. 15 substituted (11.4.2007) by [The Road Transport (Working Time) (Amendment) Regulations 2007 (S.I. 2007/853)](https://www.legislation.gov.uk/uksi/2007/853), [regs. 1](https://www.legislation.gov.uk/uksi/2007/853/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/853/regulation/2/4)
+[^c-8042fdb9c91c5da66f71324a9dda2d5d]: Textual amendment: Reg. 15 substituted (11.4.2007) by [The Road Transport (Working Time) (Amendment) Regulations 2007 (S.I. 2007/853)](https://www.legislation.gov.uk/uksi/2007/853), [regs. 1](https://www.legislation.gov.uk/uksi/2007/853/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2007/853/regulation/2/4)

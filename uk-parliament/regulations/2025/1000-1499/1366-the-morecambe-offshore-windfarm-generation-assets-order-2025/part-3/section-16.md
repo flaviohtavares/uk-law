@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Approvals[^key-d129e838f32b8d7fc56748654fef21cb]
+## 16. Approvals[^c-d129e838f32b8d7fc56748654fef21cb]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d129e838f32b8d7fc56748654fef21cb]: Commencement: Art. 16 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-d129e838f32b8d7fc56748654fef21cb]: Commencement: Art. 16 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)

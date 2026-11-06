@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Guarantees in respect of payment of compensation[^key-458d73cbf9c86d3d4f631f2c0d7707a0]
+## 53. Guarantees in respect of payment of compensation[^c-458d73cbf9c86d3d4f631f2c0d7707a0]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-458d73cbf9c86d3d4f631f2c0d7707a0]: Commencement: Art. 53 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-458d73cbf9c86d3d4f631f2c0d7707a0]: Commencement: Art. 53 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)

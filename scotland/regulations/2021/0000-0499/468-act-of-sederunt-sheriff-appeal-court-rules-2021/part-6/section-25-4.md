@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25.4. Administration of oath or affirmation to witnesses[^key-b7e832e5f1694a381e91bd4a42d1890b]
+## 25.4. Administration of oath or affirmation to witnesses[^c-b7e832e5f1694a381e91bd4a42d1890b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7e832e5f1694a381e91bd4a42d1890b]: Commencement: Para. 25.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-b7e832e5f1694a381e91bd4a42d1890b]: Commencement: Para. 25.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

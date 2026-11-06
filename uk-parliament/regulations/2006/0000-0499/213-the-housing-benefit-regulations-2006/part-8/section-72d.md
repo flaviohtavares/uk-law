@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72D. Relationship between extended payment and entitlement to housing benefit under the general conditions of entitlement[^key-887179035e0abd88d7b373ba5757f24f]
+## 72D. Relationship between extended payment and entitlement to housing benefit under the general conditions of entitlement[^c-887179035e0abd88d7b373ba5757f24f]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-887179035e0abd88d7b373ba5757f24f]: Textual amendment: Regs. 72-72D substituted for (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/2/2)
+[^c-887179035e0abd88d7b373ba5757f24f]: Textual amendment: Regs. 72-72D substituted for (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/2/2)

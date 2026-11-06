@@ -35,17 +35,17 @@ summary: ''
 
 (4) An authority may provide accommodation for any child within the authority's area (even though a person who has parental responsibility for him is able to provide him with accommodation) if the authority considers that to do so would safeguard or promote the child's welfare.
 
-(5)[^key-49054547e5e0a66fed7c6499b1b2da00] An authority may provide accommodation for any person who has reached the age of 16 but is under 21 in any home provided under Part VII which takes children who have reached the age of 16 if the authority considers that to do so would safeguard or promote his welfare.
+(5)[^c-49054547e5e0a66fed7c6499b1b2da00] An authority may provide accommodation for any person who has reached the age of 16 but is under 21 in any home provided under Part VII which takes children who have reached the age of 16 if the authority considers that to do so would safeguard or promote his welfare.
 
 (6) Before providing accommodation under this Article, an authority shall, so far as is reasonably practicable and consistent with the child's welfare—
 
-- (a) ascertain the child's wishes and feelings[^key-e61c4c243feb70432f733fa03ba73258] regarding the provision of accommodation; and
-- (b) give due consideration (having regard to his age and understanding) to such wishes and feelings[^key-07fb3bce4a48a7cedcb0534becc50e15] of the child as the authority has been able to ascertain.
+- (a) ascertain the child's wishes and feelings[^c-e61c4c243feb70432f733fa03ba73258] regarding the provision of accommodation; and
+- (b) give due consideration (having regard to his age and understanding) to such wishes and feelings[^c-07fb3bce4a48a7cedcb0534becc50e15] of the child as the authority has been able to ascertain.
 
 ## Annotations
 
-[^key-49054547e5e0a66fed7c6499b1b2da00]: Modification: [Art. 21(5)](https://www.legislation.gov.uk/nisi/1995/755/article/21/5) applied (10.12.2015) by [Children’s Services Co-operation Act (Northern Ireland) 2015 (c. 10)](https://www.legislation.gov.uk/nia/2015/10), [ss. 9(2)(a)](https://www.legislation.gov.uk/nia/2015/10/section/9/2/a), [10(1)](https://www.legislation.gov.uk/nia/2015/10/section/10/1)
+[^c-49054547e5e0a66fed7c6499b1b2da00]: Modification: [Art. 21(5)](https://www.legislation.gov.uk/nisi/1995/755/article/21/5) applied (10.12.2015) by [Children’s Services Co-operation Act (Northern Ireland) 2015 (c. 10)](https://www.legislation.gov.uk/nia/2015/10), [ss. 9(2)(a)](https://www.legislation.gov.uk/nia/2015/10/section/9/2/a), [10(1)](https://www.legislation.gov.uk/nia/2015/10/section/10/1)
 
-[^key-e61c4c243feb70432f733fa03ba73258]: Textual amendment: Words in [art. 21(6)(a)](https://www.legislation.gov.uk/nisi/1995/755/article/21/6/a) inserted (1.4.2024) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 120(2)](https://www.legislation.gov.uk/nia/2022/18/section/120/2), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(c)](https://www.legislation.gov.uk/nisr/2024/30/article/2/c)
+[^c-e61c4c243feb70432f733fa03ba73258]: Textual amendment: Words in [art. 21(6)(a)](https://www.legislation.gov.uk/nisi/1995/755/article/21/6/a) inserted (1.4.2024) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 120(2)](https://www.legislation.gov.uk/nia/2022/18/section/120/2), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(c)](https://www.legislation.gov.uk/nisr/2024/30/article/2/c)
 
-[^key-07fb3bce4a48a7cedcb0534becc50e15]: Textual amendment: Words in [art. 21(6)(b)](https://www.legislation.gov.uk/nisi/1995/755/article/21/6/b) inserted (1.4.2024) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 120(2)](https://www.legislation.gov.uk/nia/2022/18/section/120/2), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(c)](https://www.legislation.gov.uk/nisr/2024/30/article/2/c)
+[^c-07fb3bce4a48a7cedcb0534becc50e15]: Textual amendment: Words in [art. 21(6)(b)](https://www.legislation.gov.uk/nisi/1995/755/article/21/6/b) inserted (1.4.2024) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 120(2)](https://www.legislation.gov.uk/nia/2022/18/section/120/2), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2024/30](https://www.legislation.gov.uk/nisr/2024/30), [art. 2(c)](https://www.legislation.gov.uk/nisr/2024/30/article/2/c)

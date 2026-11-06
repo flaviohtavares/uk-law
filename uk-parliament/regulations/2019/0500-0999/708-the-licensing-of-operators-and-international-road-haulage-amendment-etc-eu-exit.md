@@ -46,19 +46,19 @@ In accordance with paragraph 1(1) and (2)(a) and (d) of Schedule 7 to that Act, 
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-7cf7b0243933639e8a6762d94daaafba]
+### 1. Citation, commencement and extent[^c-7cf7b0243933639e8a6762d94daaafba]
 
 (1) These Regulations may be cited as the Licensing of Operators and International Road Haulage (Amendment etc.) (EU Exit) Regulations 2019 and come into force on exit day.
 
 (2) Except as provided for in paragraphs (3) and (4) these Regulations extend to the United Kingdom.
 
-(3) Regulations 2, 4, 5, and 10[^key-f302641d7cbaf9bfcdc20c27fff67ff5] extend to Great Britain.
+(3) Regulations 2, 4, 5, and 10[^c-f302641d7cbaf9bfcdc20c27fff67ff5] extend to Great Britain.
 
 (4) Regulations 3, 6, 7, 8 and 12 extend to Northern Ireland.
 
 ## PART 2 — Licensing of Operators
 
-### 2. Amendment of the Goods Vehicles (Licensing of Operators) Act 1995[^key-cbd706b603e4d907639a69617590b3d6]
+### 2. Amendment of the Goods Vehicles (Licensing of Operators) Act 1995[^c-cbd706b603e4d907639a69617590b3d6]
 
 *Extent: E+W+S*
 
@@ -80,7 +80,7 @@ In accordance with paragraph 1(1) and (2)(a) and (d) of Schedule 7 to that Act, 
 - (b) in paragraph (b), for “or” substitute “and”; and
 - (c) omit paragraph (c).
 
-### 3. Amendment of the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010[^key-ac59499172ce862b336e8817e468fb4b]
+### 3. Amendment of the Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010[^c-ac59499172ce862b336e8817e468fb4b]
 
 *Extent: N.I.*
 
@@ -103,7 +103,7 @@ In accordance with paragraph 1(1) and (2)(a) and (d) of Schedule 7 to that Act, 
 
 (4) In section 58(1), in the definition of “road transport undertaking”, omit “other than the United Kingdom”.
 
-### 4. Amendment of the Goods Vehicles (Licensing of Operators) Regulations 1995[^key-fa5943308ac04dec1560cbbc641a7d96]
+### 4. Amendment of the Goods Vehicles (Licensing of Operators) Regulations 1995[^c-fa5943308ac04dec1560cbbc641a7d96]
 
 *Extent: E+W+S*
 
@@ -120,7 +120,7 @@ In accordance with paragraph 1(1) and (2)(a) and (d) of Schedule 7 to that Act, 
   ;
 - (b) in paragraph 23A(1)(a) and (2)[^f00008], for “driver attestation” substitute “EU driver attestation”.
 
-### 5. Amendment of the Goods Vehicles (Community Licences) Regulations 2011[^key-38082a0f7632b6cc13fe583fb05bcb16]
+### 5. Amendment of the Goods Vehicles (Community Licences) Regulations 2011[^c-38082a0f7632b6cc13fe583fb05bcb16]
 
 *Extent: E+W+S*
 
@@ -188,7 +188,7 @@ In accordance with paragraph 1(1) and (2)(a) and (d) of Schedule 7 to that Act, 
 
 (10) In regulation 14, in the heading and in paragraph (1), for “Community licence” substitute “UK licence for the Community”.
 
-### 6. Amendment of the Goods Vehicles (Licensing of Operators) (Exemption) Regulations (Northern Ireland) 2012[^key-a620723de976512bda24cce0820ee7e5]
+### 6. Amendment of the Goods Vehicles (Licensing of Operators) (Exemption) Regulations (Northern Ireland) 2012[^c-a620723de976512bda24cce0820ee7e5]
 
 *Extent: N.I.*
 
@@ -211,7 +211,7 @@ In accordance with paragraph 1(1) and (2)(a) and (d) of Schedule 7 to that Act, 
 
   .
 
-### 7. Amendment of the Goods Vehicles (Qualification of Operators) Regulations (Northern Ireland) 2012[^key-9f5471ae93a5ff76508569531916b1a1]
+### 7. Amendment of the Goods Vehicles (Qualification of Operators) Regulations (Northern Ireland) 2012[^c-9f5471ae93a5ff76508569531916b1a1]
 
 *Extent: N.I.*
 
@@ -229,7 +229,7 @@ In accordance with paragraph 1(1) and (2)(a) and (d) of Schedule 7 to that Act, 
 
 .
 
-### 8. Amendment of the Goods Vehicles (Community Licence) Regulations (Northern Ireland) 2013[^key-1a5d23efd0b2bea5a8b561110f594d07]
+### 8. Amendment of the Goods Vehicles (Community Licence) Regulations (Northern Ireland) 2013[^c-1a5d23efd0b2bea5a8b561110f594d07]
 
 *Extent: N.I.*
 
@@ -283,7 +283,7 @@ In accordance with paragraph 1(1) and (2)(a) and (d) of Schedule 7 to that Act, 
 
 (8) In regulation 12, in the heading and in paragraph (1), for each occurrence of “Community licence” substitute “UK licence for the Community”.
 
-### 9. Amendment of Regulation [(EC) 1071/2009](https://www.legislation.gov.uk/european/regulation/2009/1071)[^key-6b0ad97429b97417c91440d941509ecc]
+### 9. Amendment of Regulation [(EC) 1071/2009](https://www.legislation.gov.uk/european/regulation/2009/1071)[^c-6b0ad97429b97417c91440d941509ecc]
 
 (1) Regulation [(EC) No 1071/2009](https://www.legislation.gov.uk/european/regulation/2009/1071) of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing Council [Directive 96/26/EC](https://www.legislation.gov.uk/european/directive/1996/0026) is amended as follows.
 
@@ -585,19 +585,19 @@ In accordance with paragraph 1(1) and (2)(a) and (d) of Schedule 7 to that Act, 
 
 ## PART 3 — International Road Haulage
 
-### 10. Amendment of the Road Traffic (Foreign Vehicles) Act 1972[^key-c57398c2ec65f02fc1a03e1196549700]
+### 10. Amendment of the Road Traffic (Foreign Vehicles) Act 1972[^c-c57398c2ec65f02fc1a03e1196549700]
 
 *Extent: E+W+S*
 
 In Schedule 1 to the Road Traffic (Foreign Vehicles) Act 1972[^f00031] (provisions conferring functions on examiners), in column 1, in the entry relating to Article 4(6) of Regulation [(EC) No 1072/2009](https://www.legislation.gov.uk/european/regulation/2009/1072), after “haulage market” insert “as it has effect in EU law[^f00032]”.
 
-### 11. Amendment of the HGV Road User Levy Act 2013[^key-b0cd4023427d6bc36e63c53655d3b513]
+### 11. Amendment of the HGV Road User Levy Act 2013[^c-b0cd4023427d6bc36e63c53655d3b513]
 
 *Extent: N.I.*
 
 In section 4(8) of the HGV Road User Levy Act 2013[^f00033] (liability for a levy from Community licence holders), after “haulage market” insert “as it has effect in EU law[^f00034]”.
 
-### 12. Amendment of the Road Traffic (Northern Ireland) Order 1981[^key-8856f5f4cf90ecd97dfcb520c2fcd1df]
+### 12. Amendment of the Road Traffic (Northern Ireland) Order 1981[^c-8856f5f4cf90ecd97dfcb520c2fcd1df]
 
 *Extent: N.I.*
 
@@ -607,7 +607,7 @@ In section 4(8) of the HGV Road User Levy Act 2013[^f00033] (liability for a lev
 
 (3) In Schedule 2, in column 2, in the entry relating to regulation 3 of the Goods Vehicles (Community Licence) Regulations (Northern Ireland) 2013[^f00037], for “Community licence” substitute “UK licence for the Community, Community licence, driver attestation or an EU driver attestation”.
 
-### 13. Amendment of Regulation [(EC) 1072/2009](https://www.legislation.gov.uk/european/regulation/2009/1072)[^key-b1e7396c81a971e0c5129fd84c0d4d5e]
+### 13. Amendment of Regulation [(EC) 1072/2009](https://www.legislation.gov.uk/european/regulation/2009/1072)[^c-b1e7396c81a971e0c5129fd84c0d4d5e]
 
 (1) Regulation [(EC) No 1072/2009](https://www.legislation.gov.uk/european/regulation/2009/1072) of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market is amended as follows.
 
@@ -948,13 +948,13 @@ Department for Transport
 
 SCHEDULES
 
-## SCHEDULE 1 — Annex substituted for Annex III of Regulation [(EC) 1071/2009](https://www.legislation.gov.uk/european/regulation/2009/1071)[^key-19b44ef217ffbabb8804040a9ce64ed9]
+## SCHEDULE 1 — Annex substituted for Annex III of Regulation [(EC) 1071/2009](https://www.legislation.gov.uk/european/regulation/2009/1071)[^c-19b44ef217ffbabb8804040a9ce64ed9]
 
 Reg 9(27)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2019/708/images/uksi_20190708_en_001)
 
-## SCHEDULE 2 — Annexes substituted for Annex II and III of Regulation (EU) 1072/2009[^key-6220a0e9c30685a00f7c2796f61cfd95]
+## SCHEDULE 2 — Annexes substituted for Annex II and III of Regulation (EU) 1072/2009[^c-6220a0e9c30685a00f7c2796f61cfd95]
 
 Ref 13(20)
 
@@ -974,11 +974,11 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-7cf7b0243933639e8a6762d94daaafba]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-7cf7b0243933639e8a6762d94daaafba]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-f302641d7cbaf9bfcdc20c27fff67ff5]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/3) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [16](https://www.legislation.gov.uk/uksi/2022/293/regulation/16)
+[^c-f302641d7cbaf9bfcdc20c27fff67ff5]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/3) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [16](https://www.legislation.gov.uk/uksi/2022/293/regulation/16)
 
-[^key-cbd706b603e4d907639a69617590b3d6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/708/regulation/2) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-cbd706b603e4d907639a69617590b3d6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/708/regulation/2) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^f00002]: Footnote: [1995 c. 23](https://www.legislation.gov.uk/ukpga/1995/23).
 
@@ -986,11 +986,11 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00004]: Footnote: Subsection (3) was substituted by [S.I. 2011/2632](https://www.legislation.gov.uk/uksi/2011/2632), regulation 8(1) and Schedule 2 paragraphs 1, 2(1) and (4).
 
-[^key-ac59499172ce862b336e8817e468fb4b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/708/regulation/3) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-ac59499172ce862b336e8817e468fb4b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/708/regulation/3) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^f00005]: Footnote: [2010 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2010/2).
 
-[^key-fa5943308ac04dec1560cbbc641a7d96]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/708/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-fa5943308ac04dec1560cbbc641a7d96]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/708/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 1995/2869](https://www.legislation.gov.uk/uksi/1995/2869).
 
@@ -998,7 +998,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00008]: Footnote: Paragraph 23A was inserted by [S.I. 2013/1750](https://www.legislation.gov.uk/uksi/2013/1750).
 
-[^key-38082a0f7632b6cc13fe583fb05bcb16]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/708/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-38082a0f7632b6cc13fe583fb05bcb16]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/708/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 2011/2633](https://www.legislation.gov.uk/uksi/2011/2633).
 
@@ -1008,17 +1008,17 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00012]: Footnote: OJ No. L 300, 14.11.2009, p. 72.
 
-[^key-a620723de976512bda24cce0820ee7e5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/708/regulation/6)in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a620723de976512bda24cce0820ee7e5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/708/regulation/6)in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 2012 No. 256](https://www.legislation.gov.uk/nisr/2012/256).
 
 [^f00014]: Footnote: OJ No. L 300, 14.11.2009, p. 72.
 
-[^key-9f5471ae93a5ff76508569531916b1a1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/708/regulation/7) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-9f5471ae93a5ff76508569531916b1a1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/708/regulation/7) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 2012 No. 257](https://www.legislation.gov.uk/nisr/2012/257), amended by [S.R. 2012 No. 261](https://www.legislation.gov.uk/nisr/2012/261).
 
-[^key-1a5d23efd0b2bea5a8b561110f594d07]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/708/regulation/8)in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1a5d23efd0b2bea5a8b561110f594d07]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/708/regulation/8)in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 2013 No. 115](https://www.legislation.gov.uk/nisr/2013/115).
 
@@ -1026,7 +1026,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00018]: Footnote: OJ No. L 300, 14.11.2009, p. 72.
 
-[^key-6b0ad97429b97417c91440d941509ecc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/708/regulation/9) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-6b0ad97429b97417c91440d941509ecc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/708/regulation/9) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^f00019]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
 
@@ -1052,19 +1052,19 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00030]: Footnote: [S.R. 2010 No.160](https://www.legislation.gov.uk/nisr/2010/160), amended by [S.R. 2013 No.235](https://www.legislation.gov.uk/nisr/2013/235), [2017 No. 229](https://www.legislation.gov.uk/nisr/2017/229).
 
-[^key-c57398c2ec65f02fc1a03e1196549700]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/708/regulation/10) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c57398c2ec65f02fc1a03e1196549700]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/708/regulation/10) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^f00031]: Footnote: [1972 c. 27](https://www.legislation.gov.uk/ukpga/1972/27). A relevant amendment to column 1 of Schedule 1 was made by regulation 16(2)(b) of the Goods Vehicles (Community Licences) Regulations 2011 ([S.I. 2011//2633](https://www.legislation.gov.uk/uksi/2011/2633)).
 
 [^f00032]: Footnote: OJ No. L 300, 14.11.2009, p. 72.
 
-[^key-b0cd4023427d6bc36e63c53655d3b513]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/708/regulation/11) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-b0cd4023427d6bc36e63c53655d3b513]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/708/regulation/11) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^f00033]: Footnote: [2013 c. 7](https://www.legislation.gov.uk/ukpga/2013/7).
 
 [^f00034]: Footnote: OJ No. L 300, 14.11.2009, p. 72.
 
-[^key-8856f5f4cf90ecd97dfcb520c2fcd1df]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/708/regulation/12)in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-8856f5f4cf90ecd97dfcb520c2fcd1df]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/708/regulation/12)in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^f00035]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154).
 
@@ -1072,7 +1072,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00037]: Footnote: Entry inserted by [S.R. 2013 No. 115](https://www.legislation.gov.uk/nisr/2013/115).
 
-[^key-b1e7396c81a971e0c5129fd84c0d4d5e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/708/regulation/13) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-b1e7396c81a971e0c5129fd84c0d4d5e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/708/regulation/13) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^f00038]: Footnote: OJ No. L 300, 14.11.2009, p. 72.
 
@@ -1086,6 +1086,6 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00043]: Footnote: [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
 
-[^key-19b44ef217ffbabb8804040a9ce64ed9]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2019/708/schedule/1) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1)
+[^c-19b44ef217ffbabb8804040a9ce64ed9]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2019/708/schedule/1) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1)
 
-[^key-6220a0e9c30685a00f7c2796f61cfd95]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2019/708/schedule/2) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1)
+[^c-6220a0e9c30685a00f7c2796f61cfd95]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2019/708/schedule/2) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/708/regulation/1/1)

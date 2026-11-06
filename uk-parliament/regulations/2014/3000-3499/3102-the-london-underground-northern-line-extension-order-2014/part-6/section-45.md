@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Certification of plans, etc.[^key-c6b5809e3b4b815787e7d3979dcb391d]
+## 45. Certification of plans, etc.[^c-c6b5809e3b4b815787e7d3979dcb391d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ LUL must, as soon as practicable after the making of this Order, submit copies o
 
 ## Annotations
 
-[^key-c6b5809e3b4b815787e7d3979dcb391d]: Commencement: Art. 45 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-c6b5809e3b4b815787e7d3979dcb391d]: Commencement: Art. 45 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Offences relating to pharmacovigilance obligations under Regulation (EC) No 726/2004[^key-2601174ff1530f5d692bf121afd3da36]
+## 210. Offences relating to pharmacovigilance obligations under Regulation (EC) No 726/2004[^c-2601174ff1530f5d692bf121afd3da36]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2601174ff1530f5d692bf121afd3da36]: Textual amendment: [Reg. 210](https://www.legislation.gov.uk/uksi/2012/1916/regulation/210) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [98](https://www.legislation.gov.uk/uksi/2024/832/regulation/98)
+[^c-2601174ff1530f5d692bf121afd3da36]: Textual amendment: [Reg. 210](https://www.legislation.gov.uk/uksi/2012/1916/regulation/210) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [98](https://www.legislation.gov.uk/uksi/2024/832/regulation/98)

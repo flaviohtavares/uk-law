@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Further provision in connection with the Northern Ireland Protocol[^key-194f02769095382619cfa138da396597]
+## 55. Further provision in connection with the Northern Ireland Protocol[^c-194f02769095382619cfa138da396597]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-194f02769095382619cfa138da396597]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2020/27/section/55) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/l)
+[^c-194f02769095382619cfa138da396597]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2020/27/section/55) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/l)

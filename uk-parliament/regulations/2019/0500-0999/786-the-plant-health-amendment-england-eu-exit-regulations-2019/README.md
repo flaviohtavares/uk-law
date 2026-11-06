@@ -34,7 +34,7 @@ Exiting The European Union, England
 
 Plant Health, England
 
-The Plant Health (Amendment) (England) (EU Exit) Regulations 2019 (revoked)[^key-7e22964547637880b6325cb99af29701]
+The Plant Health (Amendment) (England) (EU Exit) Regulations 2019 (revoked)[^c-7e22964547637880b6325cb99af29701]
 
 Made
 
@@ -42,11 +42,11 @@ Made
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-7e22964547637880b6325cb99af29701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e22964547637880b6325cb99af29701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introductory[^key-7e22964547637880b6325cb99af29701]
+### PART 1 — Introductory[^c-7e22964547637880b6325cb99af29701]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 1 — Citation, commencement, extent and application](part-1/section-1.md)
 
-### PART 2 — Amendment of the Plant Health (England) Order 2015[^key-7e22964547637880b6325cb99af29701]
+### PART 2 — Amendment of the Plant Health (England) Order 2015[^c-7e22964547637880b6325cb99af29701]
 
 *Extent: E+W*
 
@@ -66,7 +66,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 5](part-2/section-5.md)
 - [Section 6](part-2/section-6.md)
 
-### PART 3 — Amendment of the Plant Health (Forestry) Order 2005: exiting the European Union[^key-7e22964547637880b6325cb99af29701]
+### PART 3 — Amendment of the Plant Health (Forestry) Order 2005: exiting the European Union[^c-7e22964547637880b6325cb99af29701]
 
 *Extent: E+W*
 
@@ -127,7 +127,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 59](part-3/section-59.md)
 - [Section 60](part-3/section-60.md)
 
-### PART 4 — Amendment of the Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015: exiting the European Union[^key-7e22964547637880b6325cb99af29701]
+### PART 4 — Amendment of the Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015: exiting the European Union[^c-7e22964547637880b6325cb99af29701]
 
 *Extent: E+W*
 
@@ -136,7 +136,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 61](part-4/section-61.md)
 - [Section 62](part-4/section-62.md)
 
-### PART 5 — Further amendment of the Plant Health (England) Order 2015: exiting the European Union[^key-7e22964547637880b6325cb99af29701]
+### PART 5 — Further amendment of the Plant Health (England) Order 2015: exiting the European Union[^c-7e22964547637880b6325cb99af29701]
 
 *Extent: E+W*
 
@@ -194,7 +194,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 112](part-5/section-112.md)
 - [Section 113](part-5/section-113.md)
 
-### PART 6 — Amendment of the Plant Health etc. (Fees) (England) Regulations 2018: exiting the European Union[^key-7e22964547637880b6325cb99af29701]
+### PART 6 — Amendment of the Plant Health etc. (Fees) (England) Regulations 2018: exiting the European Union[^c-7e22964547637880b6325cb99af29701]
 
 *Extent: E+W*
 
@@ -208,7 +208,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 119](part-6/section-119.md)
 - [Section 120](part-6/section-120.md)
 
-### PART 7 — Revocations[^key-7e22964547637880b6325cb99af29701]
+### PART 7 — Revocations[^c-7e22964547637880b6325cb99af29701]
 
 *Extent: E+W*
 
@@ -220,14 +220,14 @@ Coming into force in accordance with regulation 1(2)
 
 **No longer in force.**
 
-[^key-7e22964547637880b6325cb99af29701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e22964547637880b6325cb99af29701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-7e22964547637880b6325cb99af29701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e22964547637880b6325cb99af29701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7e22964547637880b6325cb99af29701]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/a), [54(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/54/a)
+[^c-7e22964547637880b6325cb99af29701]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/a), [54(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/54/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271. Agreements about associated and joint property[^key-60d2aeefefa345d862807680ac878d3c]
+## 271. Agreements about associated and joint property[^c-60d2aeefefa345d862807680ac878d3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,8 +36,8 @@ the recovery order may, instead of vesting the recoverable property in the trust
 
 (4) But if—
 
-- (a) a property freezing order, an interim receiving order, a prohibitory property order or an[^key-acb5f5b42226f9c40ae98498c79b0d18] interim administration order applied at any time to the associated property or joint tenancy, and
-- (b) the enforcement authority agrees that the person has suffered loss as a result of the order mentioned in paragraph (a)[^key-5808b1ae5cb316712e255104e3089429],
+- (a) a property freezing order, an interim receiving order, a prohibitory property order or an[^c-acb5f5b42226f9c40ae98498c79b0d18] interim administration order applied at any time to the associated property or joint tenancy, and
+- (b) the enforcement authority agrees that the person has suffered loss as a result of the order mentioned in paragraph (a)[^c-5808b1ae5cb316712e255104e3089429],
 
 the amount of the payment may be reduced by any amount the enforcement authority and that person agree is reasonable, having regard to that loss and to any other relevant circumstances.
 
@@ -47,8 +47,8 @@ the amount of the payment may be reduced by any amount the enforcement authority
 
 ## Annotations
 
-[^key-60d2aeefefa345d862807680ac878d3c]: Commencement: S. 271 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-60d2aeefefa345d862807680ac878d3c]: Commencement: S. 271 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-acb5f5b42226f9c40ae98498c79b0d18]: Textual amendment: Words in s. 271(4)(a) substituted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 6 para. 16(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/6/paragraph/16/a); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/c)
+[^c-acb5f5b42226f9c40ae98498c79b0d18]: Textual amendment: Words in s. 271(4)(a) substituted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 6 para. 16(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/6/paragraph/16/a); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/c)
 
-[^key-5808b1ae5cb316712e255104e3089429]: Textual amendment: Words in s. 271(4)(b) substituted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 6 para. 16(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/6/paragraph/16/b); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/c)
+[^c-5808b1ae5cb316712e255104e3089429]: Textual amendment: Words in s. 271(4)(b) substituted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 6 para. 16(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/6/paragraph/16/b); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/c)

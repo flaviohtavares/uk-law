@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Contents of apprenticeship certificate[^key-fb5bf8aa641fce8360649acbb531e763][^key-f11aa677c1e4eb0b851934cec0799ae1][^key-86e3546cc5697f54eb7036d249310bac]
+## 11. Contents of apprenticeship certificate[^c-fb5bf8aa641fce8360649acbb531e763][^c-f11aa677c1e4eb0b851934cec0799ae1][^c-86e3546cc5697f54eb7036d249310bac]
 
 *Extent: E+W*
 
@@ -27,18 +27,18 @@ summary: ''
 - (c) the level of that framework, and
 - (d) the apprenticeship sector to which that framework relates.
 
-(2) An apprenticeship certificate must also state such other matters as the Welsh Ministers[^key-d5424fd7e30554bd0b16ad3a453ae4b2] may by regulations require to be stated in a certificate of that description.
+(2) An apprenticeship certificate must also state such other matters as the Welsh Ministers[^c-d5424fd7e30554bd0b16ad3a453ae4b2] may by regulations require to be stated in a certificate of that description.
 
-(3)[^key-b3a6eb316e51953d9e2270b02123b955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b3a6eb316e51953d9e2270b02123b955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb5bf8aa641fce8360649acbb531e763]: Commencement: S. 11 in force at 6.4.2011 for E. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 3](https://www.legislation.gov.uk/uksi/2011/200/article/3)
+[^c-fb5bf8aa641fce8360649acbb531e763]: Commencement: S. 11 in force at 6.4.2011 for E. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 3](https://www.legislation.gov.uk/uksi/2011/200/article/3)
 
-[^key-f11aa677c1e4eb0b851934cec0799ae1]: Commencement: S. 11 in force at 10.5.2013 for W. by [S.I. 2013/1100](https://www.legislation.gov.uk/wsi/2013/1100), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2013/1100/article/2/2/a)
+[^c-f11aa677c1e4eb0b851934cec0799ae1]: Commencement: S. 11 in force at 10.5.2013 for W. by [S.I. 2013/1100](https://www.legislation.gov.uk/wsi/2013/1100), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2013/1100/article/2/2/a)
 
-[^key-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
+[^c-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
 
-[^key-d5424fd7e30554bd0b16ad3a453ae4b2]: Textual amendment: Words in s. 11(2) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/9/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-d5424fd7e30554bd0b16ad3a453ae4b2]: Textual amendment: Words in s. 11(2) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/9/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
 
-[^key-b3a6eb316e51953d9e2270b02123b955]: Textual amendment: S. 11(3) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/9/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-b3a6eb316e51953d9e2270b02123b955]: Textual amendment: S. 11(3) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/1/paragraph/9/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))

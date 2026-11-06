@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40A. Power to specify fish[^key-217bd22d49088207ab7d9110128effa8]
+## 40A. Power to specify fish[^c-217bd22d49088207ab7d9110128effa8]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ The appropriate national authority may by order specify fish of any description 
 
 ## Annotations
 
-[^key-217bd22d49088207ab7d9110128effa8]: Textual amendment: [S. 40A](https://www.legislation.gov.uk/ukpga/1975/51/section/40A) inserted (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 221(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/221/1), [324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c), [324(1)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/12)
+[^c-217bd22d49088207ab7d9110128effa8]: Textual amendment: [S. 40A](https://www.legislation.gov.uk/ukpga/1975/51/section/40A) inserted (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 221(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/221/1), [324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c), [324(1)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/12)

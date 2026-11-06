@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Completion of purchase[^key-a1ef73314889062619785038b5d3e880]
+## 63. Completion of purchase[^c-a1ef73314889062619785038b5d3e880]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ it must refer that matter to the Scottish Ministers.
 
 ## Annotations
 
-[^key-a1ef73314889062619785038b5d3e880]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2016/18/section/63) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-a1ef73314889062619785038b5d3e880]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2016/18/section/63) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

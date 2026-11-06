@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 154. Late payment of retirement index adjustment[^key-e3e8a3076c6b0e97e91ee9355daa749d]
+## 154. Late payment of retirement index adjustment[^c-e3e8a3076c6b0e97e91ee9355daa749d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Nothing in these Regulations requires any part of a pension attributable to a re
 
 ## Annotations
 
-[^key-e3e8a3076c6b0e97e91ee9355daa749d]: Commencement: [Reg. 154](https://www.legislation.gov.uk/ssi/2015/19/regulation/154) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-e3e8a3076c6b0e97e91ee9355daa749d]: Commencement: [Reg. 154](https://www.legislation.gov.uk/ssi/2015/19/regulation/154) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

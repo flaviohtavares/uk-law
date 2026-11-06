@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Applications for authorisation made to the Regulator: appeal of decision[^key-c21ea6d3b17c2fb4faa4810f3db5bed1][^key-7b7f7f1e38b4eed96baa20bc1ab5b7d2]
+## 42. Applications for authorisation made to the Regulator: appeal of decision[^c-c21ea6d3b17c2fb4faa4810f3db5bed1][^c-7b7f7f1e38b4eed96baa20bc1ab5b7d2]
 
 *Extent: E+W+S*
 
@@ -36,9 +36,9 @@ summary: ''
 
 ## Annotations
 
-[^key-c21ea6d3b17c2fb4faa4810f3db5bed1]: Commencement: Art. 42 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-c21ea6d3b17c2fb4faa4810f3db5bed1]: Commencement: Art. 42 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-7b7f7f1e38b4eed96baa20bc1ab5b7d2]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2018/1253/article/42) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-7b7f7f1e38b4eed96baa20bc1ab5b7d2]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2018/1253/article/42) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00075]: Footnote: Section 55X was inserted (together with the rest of Part 4A of the 2000 Act) by the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), section 11(2).
 

@@ -47,13 +47,13 @@ The Welsh Ministers, in exercise of the powers conferred on the National Assembl
 
 In accordance with section 49(5) of that Act, the Welsh Ministers have consulted the Auditor General for Wales, the Public Services Ombudsman for Wales, representatives of relevant authorities, and such other persons as considered appropriate.
 
-## 1. Title and coming into force[^key-e55488231da2db2c8381ad324d696b1d]
+## 1. Title and coming into force[^c-e55488231da2db2c8381ad324d696b1d]
 
 (1) The title of this Order is The Local Authorities (Model Code of Conduct) (Wales) (Amendment) Order 2022.
 
 (2) This Order comes into force on 5 August 2022.
 
-## 2. Amendment of the Schedule to the Local Authorities (Model Code of Conduct) (Wales) Order 2008[^key-716381239f615d03526e2f3d98c6e34d]
+## 2. Amendment of the Schedule to the Local Authorities (Model Code of Conduct) (Wales) Order 2008[^c-716381239f615d03526e2f3d98c6e34d]
 
 In the definition of “relevant authority” in Part 1 (*Interpretation*) of the Schedule to the Local Authorities (Model Code of Conduct) (Wales) Order 2008[^f00003] after “a community council” insert—
 
@@ -83,9 +83,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-e55488231da2db2c8381ad324d696b1d]: Commencement: Art. 1 in force at 5.8.2022, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2022/806/article/1/2)
+[^c-e55488231da2db2c8381ad324d696b1d]: Commencement: Art. 1 in force at 5.8.2022, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2022/806/article/1/2)
 
-[^key-716381239f615d03526e2f3d98c6e34d]: Commencement: Art. 2 in force at 5.8.2022, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2022/806/article/1/2)
+[^c-716381239f615d03526e2f3d98c6e34d]: Commencement: Art. 2 in force at 5.8.2022, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2022/806/article/1/2)
 
 [^f00003]: Footnote: [S.I. 2008/788](https://www.legislation.gov.uk/uksi/2008/788).
 

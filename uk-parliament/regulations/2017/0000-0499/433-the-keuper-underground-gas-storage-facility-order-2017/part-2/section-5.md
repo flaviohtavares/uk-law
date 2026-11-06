@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Authorisation of Use[^key-af17219aa9230d5b7c1dc355bf501e64]
+## 5. Authorisation of Use[^c-af17219aa9230d5b7c1dc355bf501e64]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af17219aa9230d5b7c1dc355bf501e64]: Commencement: Art. 5 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
+[^c-af17219aa9230d5b7c1dc355bf501e64]: Commencement: Art. 5 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)

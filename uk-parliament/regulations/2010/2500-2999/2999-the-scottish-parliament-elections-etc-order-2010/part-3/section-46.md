@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Election agent’s claim[^key-ffa49f51fcad24e61727ba9481385385]
+## 46. Election agent’s claim[^c-ffa49f51fcad24e61727ba9481385385]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ So far as circumstances admit, this Order applies to an election agent’s claim
 
 ## Annotations
 
-[^key-ffa49f51fcad24e61727ba9481385385]: Commencement: Art. 46 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-ffa49f51fcad24e61727ba9481385385]: Commencement: Art. 46 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

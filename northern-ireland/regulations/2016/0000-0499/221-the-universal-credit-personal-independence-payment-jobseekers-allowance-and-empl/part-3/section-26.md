@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Medical evidence and limited capability for work etc.[^key-a4c557ea129794fe5a4dffcb8c57a4d8]
+## 26. Medical evidence and limited capability for work etc.[^c-a4c557ea129794fe5a4dffcb8c57a4d8]
 
 *Extent: N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a4c557ea129794fe5a4dffcb8c57a4d8]: Modification: Reg. 26 applied (with modifications) (temp.) (13.3.2020) by [The Employment and Support Allowance and Universal Credit (Coronavirus) Regulations (Northern Ireland) 2020 (S.R. 2020/33)](https://www.legislation.gov.uk/nisr/2020/33), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/33/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2020/33/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/nisr/2020/33/regulation/5)), as amended (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020 (S.R. 2020/53)](https://www.legislation.gov.uk/nisr/2020/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/53/regulation/1/1), [10(3)](https://www.legislation.gov.uk/nisr/2020/53/regulation/10/3)
+[^c-a4c557ea129794fe5a4dffcb8c57a4d8]: Modification: Reg. 26 applied (with modifications) (temp.) (13.3.2020) by [The Employment and Support Allowance and Universal Credit (Coronavirus) Regulations (Northern Ireland) 2020 (S.R. 2020/33)](https://www.legislation.gov.uk/nisr/2020/33), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/33/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2020/33/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/nisr/2020/33/regulation/5)), as amended (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations (Northern Ireland) 2020 (S.R. 2020/53)](https://www.legislation.gov.uk/nisr/2020/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/53/regulation/1/1), [10(3)](https://www.legislation.gov.uk/nisr/2020/53/regulation/10/3)
 
 [^c22846871]: Marginal citation: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8); section 60 was amended by section 26(9) of the [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17) and paragraph 1 of Schedule 8, paragraph 10 of Schedule 10 and Part 2 of Schedule 15 to the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [sections 209(1) to (10)](https://www.legislation.gov.uk/ukpga/2008/14/section/209/1), [210](https://www.legislation.gov.uk/ukpga/2008/14/section/210) and 213(7)(i) of, and paragraphs 60 and 72(2) of Schedule 15 to, the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) and paragraph 8(a) of Schedule 4 to [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254).

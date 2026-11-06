@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Modification of contracts and framework agreements during their term[^key-0cf6788df4526e4e1b9768152f615a9e]
+## 13. Modification of contracts and framework agreements during their term[^c-0cf6788df4526e4e1b9768152f615a9e]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 - (b) the modification is attributable to a decision of the relevant authority, and
 - (c) the cumulative change in the lifetime value of the contract since it was entered into, or framework agreement since it was concluded, is £500,000 or more,
 
-the relevant authority must submit a notice of the modification for publication on the central digital platform[^key-60a23de91f7266a26722189f4580e515].
+the relevant authority must submit a notice of the modification for publication on the central digital platform[^c-60a23de91f7266a26722189f4580e515].
 
 (5) The notice in paragraph (4) must—
 
@@ -55,6 +55,6 @@ the relevant authority must submit a notice of the modification for publication 
 
 ## Annotations
 
-[^key-0cf6788df4526e4e1b9768152f615a9e]: Commencement: Reg. 13 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-0cf6788df4526e4e1b9768152f615a9e]: Commencement: Reg. 13 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-60a23de91f7266a26722189f4580e515]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/13/4) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))
+[^c-60a23de91f7266a26722189f4580e515]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/13/4) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))

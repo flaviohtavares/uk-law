@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Provisions supplemental to s. 21[^key-fb1e38a513e20a5172f8ec10deba333d]
+## 22. Provisions supplemental to s. 21[^c-fb1e38a513e20a5172f8ec10deba333d]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb1e38a513e20a5172f8ec10deba333d]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2006/38/section/22) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/a)
+[^c-fb1e38a513e20a5172f8ec10deba333d]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2006/38/section/22) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/a)

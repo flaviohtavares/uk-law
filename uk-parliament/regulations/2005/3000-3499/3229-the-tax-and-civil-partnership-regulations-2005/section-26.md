@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26.[^key-bfd83c4312d2c257558e0e192ef48231]
+## 26.[^c-bfd83c4312d2c257558e0e192ef48231]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 133 (shares - capital receipts), in subsections (1) and (2), after â€
 
 ## Annotations
 
-[^key-bfd83c4312d2c257558e0e192ef48231]: Commencement: Reg. 26 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-bfd83c4312d2c257558e0e192ef48231]: Commencement: Reg. 26 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

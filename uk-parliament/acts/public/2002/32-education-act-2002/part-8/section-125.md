@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Reference to Review Body[^key-d747140f6d30e09d7a74cf5fe6628a47][^key-498b433d24dd1416ef23e67e65a7dcb2]
+## 125. Reference to Review Body[^c-d747140f6d30e09d7a74cf5fe6628a47][^c-498b433d24dd1416ef23e67e65a7dcb2]
 
 *Extent: E+W*
 
-(1) An order under section 122 or 122A[^key-3610ddd99c48a40d114ae00161d1bf27] may make provision about a matter only if the Secretary of State has—
+(1) An order under section 122 or 122A[^c-3610ddd99c48a40d114ae00161d1bf27] may make provision about a matter only if the Secretary of State has—
 
 - (a) referred the matter to the School Teachers’ Review Body under section 120, and
 - (b) considered their report.
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d747140f6d30e09d7a74cf5fe6628a47]: Commencement: S. 125 in force at 1.8.2003 by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 2](https://www.legislation.gov.uk/uksi/2003/1667/article/2)
+[^c-d747140f6d30e09d7a74cf5fe6628a47]: Commencement: S. 125 in force at 1.8.2003 by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 2](https://www.legislation.gov.uk/uksi/2003/1667/article/2)
 
-[^key-498b433d24dd1416ef23e67e65a7dcb2]: Modification: S. 125 excluded (30.9.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/644/article/1/2), [39(4)](https://www.legislation.gov.uk/uksi/2018/644/article/39/4)
+[^c-498b433d24dd1416ef23e67e65a7dcb2]: Modification: S. 125 excluded (30.9.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/644/article/1/2), [39(4)](https://www.legislation.gov.uk/uksi/2018/644/article/39/4)
 
-[^key-3610ddd99c48a40d114ae00161d1bf27]: Textual amendment: Words in s. 125(1) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(2)(i)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/i), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/9)
+[^c-3610ddd99c48a40d114ae00161d1bf27]: Textual amendment: Words in s. 125(1) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(2)(i)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/i), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/9)

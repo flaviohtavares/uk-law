@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Construction and maintenance of new, altered or diverted streets and other structures[^key-c28e313b6ed8aa19c5c63b5ee8e697a9]
+## 12. Construction and maintenance of new, altered or diverted streets and other structures[^c-c28e313b6ed8aa19c5c63b5ee8e697a9]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (5) The reasonable satisfaction of the local highway authority under paragraph (4) is to be signified by the issue by the local highway authority of a certificate to that effect.
 
-(6) Unless otherwise agreed in writing with the relevant local highway authority, that part of the highway within the boundary specified in the certificate issued under paragraph (5)[^key-7a68a01ba1dcacb54a530ee4c4f4328c] (including any culverts or other structures laid under it) must be maintained by and at the expense of the relevant local highway authority from date of issue of the certificate.
+(6) Unless otherwise agreed in writing with the relevant local highway authority, that part of the highway within the boundary specified in the certificate issued under paragraph (5)[^c-7a68a01ba1dcacb54a530ee4c4f4328c] (including any culverts or other structures laid under it) must be maintained by and at the expense of the relevant local highway authority from date of issue of the certificate.
 
 (7) Where a highway is de-trunked under this Order—
 
@@ -63,8 +63,8 @@ but for the purposes of such a defence it is not relevant to prove that the unde
 
 ## Annotations
 
-[^key-c28e313b6ed8aa19c5c63b5ee8e697a9]: Commencement: Art. 12 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-c28e313b6ed8aa19c5c63b5ee8e697a9]: Commencement: Art. 12 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
-[^key-7a68a01ba1dcacb54a530ee4c4f4328c]: Textual amendment: Words in [art. 12(6)](https://www.legislation.gov.uk/uksi/2022/934/article/12/6) substituted (17.1.2023) by [The A428 Black Cat to Caxton Gibbet (Correction) Order 2023 (S.I. 2023/40)](https://www.legislation.gov.uk/uksi/2023/40), [art. 1](https://www.legislation.gov.uk/uksi/2023/40/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/40/schedule)
+[^c-7a68a01ba1dcacb54a530ee4c4f4328c]: Textual amendment: Words in [art. 12(6)](https://www.legislation.gov.uk/uksi/2022/934/article/12/6) substituted (17.1.2023) by [The A428 Black Cat to Caxton Gibbet (Correction) Order 2023 (S.I. 2023/40)](https://www.legislation.gov.uk/uksi/2023/40), [art. 1](https://www.legislation.gov.uk/uksi/2023/40/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/40/schedule)
 
 [^f00050]: Footnote: Section 265 was amended by section 1(6) of, and paragraph 52 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Rights under or over streets[^key-01f8ff62e2e6f4e7e45836e6d059657c]
+## 35. Rights under or over streets[^c-01f8ff62e2e6f4e7e45836e6d059657c]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01f8ff62e2e6f4e7e45836e6d059657c]: Commencement: Art. 35 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-01f8ff62e2e6f4e7e45836e6d059657c]: Commencement: Art. 35 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00033]: Footnote: [2006 c. 26](https://www.legislation.gov.uk/ukpga/2006/26).

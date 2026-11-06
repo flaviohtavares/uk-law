@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9AZA. Sums in exchange for qualifying stablecoin[^key-429cee7ec41201ea10f5d3f91851a5e6]
+## 9AZA. Sums in exchange for qualifying stablecoin[^c-429cee7ec41201ea10f5d3f91851a5e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A sum is not a deposit for the purposes of article 5 (accepting deposits) if it 
 
 ## Annotations
 
-[^key-429cee7ec41201ea10f5d3f91851a5e6]: Textual amendment: [Art. 9AZA](https://www.legislation.gov.uk/uksi/2001/544/article/9AZA) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [40(4)](https://www.legislation.gov.uk/uksi/2026/102/regulation/40/4) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))
+[^c-429cee7ec41201ea10f5d3f91851a5e6]: Textual amendment: [Art. 9AZA](https://www.legislation.gov.uk/uksi/2001/544/article/9AZA) inserted (25.2.2026 for specified purposes) by [The Financial Services and Markets Act 2000 (Cryptoassets) Regulations 2026 (S.I. 2026/102)](https://www.legislation.gov.uk/uksi/2026/102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/102/regulation/1/3), [40(4)](https://www.legislation.gov.uk/uksi/2026/102/regulation/40/4) (with [regs. 53-56](https://www.legislation.gov.uk/uksi/2026/102/regulation/53))

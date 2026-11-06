@@ -31,62 +31,62 @@ Carers and Disabled Children Act 2000 (repealed)
 
 2000 c.16
 
-[^key-ab824e4b4d797c9554a8c6f845de0fe0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab824e4b4d797c9554a8c6f845de0fe0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Right of carers to assessment.[^key-ab824e4b4d797c9554a8c6f845de0fe0]
+## 1. Right of carers to assessment.[^c-ab824e4b4d797c9554a8c6f845de0fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Services for carers.[^key-ab824e4b4d797c9554a8c6f845de0fe0]
+## 2. Services for carers.[^c-ab824e4b4d797c9554a8c6f845de0fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Vouchers.[^key-ab824e4b4d797c9554a8c6f845de0fe0]
+## 3. Vouchers.[^c-ab824e4b4d797c9554a8c6f845de0fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Assessments and services for both carer and person cared for.[^key-ab824e4b4d797c9554a8c6f845de0fe0]
+## 4. Assessments and services for both carer and person cared for.[^c-ab824e4b4d797c9554a8c6f845de0fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Direct payments.[^key-ab824e4b4d797c9554a8c6f845de0fe0]
+## 5. Direct payments.[^c-ab824e4b4d797c9554a8c6f845de0fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Assessments: persons with parental responsibility for disabled children.[^key-ab824e4b4d797c9554a8c6f845de0fe0]
+## 6. Assessments: persons with parental responsibility for disabled children.[^c-ab824e4b4d797c9554a8c6f845de0fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6A. Duty to inform carers of right to assessment[^key-ab824e4b4d797c9554a8c6f845de0fe0]
+## 6A. Duty to inform carers of right to assessment[^c-ab824e4b4d797c9554a8c6f845de0fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Vouchers, and direct payments to disabled children and persons with parental responsibility for them.[^key-ab824e4b4d797c9554a8c6f845de0fe0]
+## 7. Vouchers, and direct payments to disabled children and persons with parental responsibility for them.[^c-ab824e4b4d797c9554a8c6f845de0fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Charging.[^key-ab824e4b4d797c9554a8c6f845de0fe0]
+## 8. Charging.[^c-ab824e4b4d797c9554a8c6f845de0fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Minor and consequential amendments.[^key-ab824e4b4d797c9554a8c6f845de0fe0]
+## 9. Minor and consequential amendments.[^c-ab824e4b4d797c9554a8c6f845de0fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Financial provision.[^key-ab824e4b4d797c9554a8c6f845de0fe0]
+## 10. Financial provision.[^c-ab824e4b4d797c9554a8c6f845de0fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Interpretation and regulations.[^key-ab824e4b4d797c9554a8c6f845de0fe0]
+## 11. Interpretation and regulations.[^c-ab824e4b4d797c9554a8c6f845de0fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Short title, commencement and extent.[^key-ab824e4b4d797c9554a8c6f845de0fe0]
+## 12. Short title, commencement and extent.[^c-ab824e4b4d797c9554a8c6f845de0fe0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab824e4b4d797c9554a8c6f845de0fe0]: Textual amendment: Act repealed (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [reg. 177(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/177/1) (with [reg. 177(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/177/2))
+[^c-ab824e4b4d797c9554a8c6f845de0fe0]: Textual amendment: Act repealed (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [reg. 177(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/177/1) (with [reg. 177(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/177/2))

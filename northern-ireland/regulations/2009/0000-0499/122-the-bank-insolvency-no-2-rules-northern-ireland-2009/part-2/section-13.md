@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Certificate of compliance[^key-ad110cf946730c34ae77ddfe964202c5]
+## 13. Certificate of compliance[^c-ad110cf946730c34ae77ddfe964202c5]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad110cf946730c34ae77ddfe964202c5]: Commencement: Rule 13 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-ad110cf946730c34ae77ddfe964202c5]: Commencement: Rule 13 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Offence: false statements[^key-efd224744a7064041563bab6972852db]
+## 41. Offence: false statements[^c-efd224744a7064041563bab6972852db]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ makes a statement which that person knows to be false in a material particular, 
 
 ## Annotations
 
-[^key-efd224744a7064041563bab6972852db]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2017/282/regulation/41) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-efd224744a7064041563bab6972852db]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2017/282/regulation/41) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

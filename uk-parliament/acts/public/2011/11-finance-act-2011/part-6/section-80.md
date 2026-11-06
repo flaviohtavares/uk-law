@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Power to suspend exemption for supplies used in recycling processes[^key-3fa87efd3dd8a5c7c1c5f8b63e0cbefe]
+## 80. Power to suspend exemption for supplies used in recycling processes[^c-3fa87efd3dd8a5c7c1c5f8b63e0cbefe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fa87efd3dd8a5c7c1c5f8b63e0cbefe]: Textual amendment: [S. 80](https://www.legislation.gov.uk/ukpga/2011/11/section/80) omitted (with effect in accordance with Sch. 30 para. 19 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 30 para. 18(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/30/paragraph/18/3)
+[^c-3fa87efd3dd8a5c7c1c5f8b63e0cbefe]: Textual amendment: [S. 80](https://www.legislation.gov.uk/ukpga/2011/11/section/80) omitted (with effect in accordance with Sch. 30 para. 19 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 30 para. 18(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/30/paragraph/18/3)

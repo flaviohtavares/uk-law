@@ -48,15 +48,15 @@ The Secretary of State is a Minister designated for the purposes of section 2(2)
 
 The Secretary of State, in exercise of the powers conferred by section 2(2) of that Act, makes the following Regulations:
 
-## 1. Citation and Commencement[^key-b086bd4b0a43c672ef2b0e6490cbe867]
+## 1. Citation and Commencement[^c-b086bd4b0a43c672ef2b0e6490cbe867]
 
 These Regulations may be cited as the Copyright (Free Public Showing or Playing) (Amendment) Regulations 2016 and come into force on the 15th June 2016.
 
-## 2. Amendments to the Copyright, Designs and Patents Act 1988[^key-3532b6deee0041145d68595345fe3c90]
+## 2. Amendments to the Copyright, Designs and Patents Act 1988[^c-3532b6deee0041145d68595345fe3c90]
 
 The Copyright, Designs and Patents Act 1988[^f00003] is amended as follows.
 
-**3.**[^key-c39a85cc9e0e3ebc963a0fd7fd68e5e3] In section 72[^f00004]—
+**3.**[^c-c39a85cc9e0e3ebc963a0fd7fd68e5e3] In section 72[^f00004]—
 
 - (a) at the end of subsection (1)(a) insert “or”;
 - (b) in subsection (1)(b), omit “; or”;
@@ -87,12 +87,12 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00002]: Footnote: [S.I. 1992/707](https://www.legislation.gov.uk/uksi/1992/707) and [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
 
-[^key-b086bd4b0a43c672ef2b0e6490cbe867]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1) in force at 15.6.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1)
+[^c-b086bd4b0a43c672ef2b0e6490cbe867]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1) in force at 15.6.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1)
 
-[^key-3532b6deee0041145d68595345fe3c90]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/565/regulation/2) in force at 15.6.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1)
+[^c-3532b6deee0041145d68595345fe3c90]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/565/regulation/2) in force at 15.6.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1)
 
 [^f00003]: Footnote: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-c39a85cc9e0e3ebc963a0fd7fd68e5e3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/565/regulation/3) in force at 15.6.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1)
+[^c-c39a85cc9e0e3ebc963a0fd7fd68e5e3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/565/regulation/3) in force at 15.6.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/565/regulation/1)
 
 [^f00004]: Footnote: Section 72 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 2(2), regulation 3, regulation 21(1) and Schedule 2, and [S.I. 2010/2694](https://www.legislation.gov.uk/uksi/2010/2694), regulation 4(1).

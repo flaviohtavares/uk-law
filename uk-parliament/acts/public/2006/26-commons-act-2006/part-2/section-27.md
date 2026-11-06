@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Procedure for establishment[^key-e41986120e7320df0bead17f0b9e2d03]
+## 27. Procedure for establishment[^c-e41986120e7320df0bead17f0b9e2d03]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ it is satisfied that there is substantial support for the making of the order.
 
 ## Annotations
 
-[^key-e41986120e7320df0bead17f0b9e2d03]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2006/26/section/27) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))
+[^c-e41986120e7320df0bead17f0b9e2d03]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2006/26/section/27) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))

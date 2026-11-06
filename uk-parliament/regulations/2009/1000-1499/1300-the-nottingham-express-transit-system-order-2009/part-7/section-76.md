@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Street and market traders[^key-7cde4aa930cd6db2df6b80efb0fe0c8c]
+## 76. Street and market traders[^c-7cde4aa930cd6db2df6b80efb0fe0c8c]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7cde4aa930cd6db2df6b80efb0fe0c8c]: Commencement: Art. 76 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-7cde4aa930cd6db2df6b80efb0fe0c8c]: Commencement: Art. 76 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00045]: Footnote: [1982 c. 30](https://www.legislation.gov.uk/ukpga/1982/30).

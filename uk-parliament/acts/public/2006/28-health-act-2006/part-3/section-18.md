@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Co-operation between health bodies and other organisations[^c16418481][^key-b8992dcf5c10fac040a81851f5c4e723][^key-861f95fe4e5eabe4c9dec24158b2243a][^key-688ed4c34e834f4394e99a66c5eecd07][^key-3b7d1717197ebba6df55fa8897a0a31d]
+## 18. Co-operation between health bodies and other organisations[^c16418481][^c-b8992dcf5c10fac040a81851f5c4e723][^c-861f95fe4e5eabe4c9dec24158b2243a][^c-688ed4c34e834f4394e99a66c5eecd07][^c-3b7d1717197ebba6df55fa8897a0a31d]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,11 +62,11 @@ summary: ''
 
 - (a) “**chief officer**” means—
   - (i) in relation to a police force in England and Wales, the chief officer of police;
-  - (ii) in relation to the Police Service of Scotland, the chief constable of that Service[^key-a8c8384f31be2f6f599d0817dfd87292];
+  - (ii) in relation to the Police Service of Scotland, the chief constable of that Service[^c-a8c8384f31be2f6f599d0817dfd87292];
   - (iii) in relation to the Police Service of Northern Ireland or the Police Service of Northern Ireland Reserve, the Chief Constable of the Police Service of Northern Ireland;
 - (b) “**police force**” means—
-  - (i) a police force in England and Wales,[^key-4b156281eab03b804829327a3f2024d3]
-  - (ia)[^key-8a821b5ca1b7690868ca1174473e2f34] the Police Service of Scotland, or
+  - (i) a police force in England and Wales,[^c-4b156281eab03b804829327a3f2024d3]
+  - (ia)[^c-8a821b5ca1b7690868ca1174473e2f34] the Police Service of Scotland, or
   - (ii) the Police Service of Northern Ireland or the Police Service of Northern Ireland Reserve;
 - (c) “**prescribed**” means prescribed by regulations under this section.
 
@@ -74,16 +74,16 @@ summary: ''
 
 [^c16418481]: Commencement: S. 18 in force for certain purposes at Royal Assent, see s. 83
 
-[^key-b8992dcf5c10fac040a81851f5c4e723]: Commencement: S. 18 in force at 1.1.2007 for E. in so far as not already in force by [S.I. 2006/3125](https://www.legislation.gov.uk/uksi/2006/3125), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3125/article/2/1)
+[^c-b8992dcf5c10fac040a81851f5c4e723]: Commencement: S. 18 in force at 1.1.2007 for E. in so far as not already in force by [S.I. 2006/3125](https://www.legislation.gov.uk/uksi/2006/3125), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3125/article/2/1)
 
-[^key-861f95fe4e5eabe4c9dec24158b2243a]: Commencement: S. 18 in force at 1.3.2007 for S. in so far as not already in force by [S.I. 2006/3125](https://www.legislation.gov.uk/uksi/2006/3125), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3125/article/2/2)
+[^c-861f95fe4e5eabe4c9dec24158b2243a]: Commencement: S. 18 in force at 1.3.2007 for S. in so far as not already in force by [S.I. 2006/3125](https://www.legislation.gov.uk/uksi/2006/3125), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3125/article/2/2)
 
-[^key-688ed4c34e834f4394e99a66c5eecd07]: Commencement: S. 18 in force at 13.12.2008 for W. in so far as not already in force by [S.I. 2008/3171](https://www.legislation.gov.uk/uksi/2008/3171), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/3171/article/2/a)
+[^c-688ed4c34e834f4394e99a66c5eecd07]: Commencement: S. 18 in force at 13.12.2008 for W. in so far as not already in force by [S.I. 2008/3171](https://www.legislation.gov.uk/uksi/2008/3171), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/3171/article/2/a)
 
-[^key-3b7d1717197ebba6df55fa8897a0a31d]: Commencement: S. 18 in force at 1.8.2012 for N.I. in so far as not already in force by [S.R. 2012/307](https://www.legislation.gov.uk/nisr/2012/307), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/307/article/2/a)
+[^c-3b7d1717197ebba6df55fa8897a0a31d]: Commencement: S. 18 in force at 1.8.2012 for N.I. in so far as not already in force by [S.R. 2012/307](https://www.legislation.gov.uk/nisr/2012/307), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/307/article/2/a)
 
-[^key-a8c8384f31be2f6f599d0817dfd87292]: Textual amendment: Words in [s. 18(9)(a)(ii)](https://www.legislation.gov.uk/ukpga/2006/28/section/18/9/a/ii) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 51(2)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/51/2/a)
+[^c-a8c8384f31be2f6f599d0817dfd87292]: Textual amendment: Words in [s. 18(9)(a)(ii)](https://www.legislation.gov.uk/ukpga/2006/28/section/18/9/a/ii) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 51(2)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/51/2/a)
 
-[^key-4b156281eab03b804829327a3f2024d3]: Textual amendment: Words in [s. 18(9)(b)(i)](https://www.legislation.gov.uk/ukpga/2006/28/section/18/9/b/i) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 51(2)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/51/2/b)
+[^c-4b156281eab03b804829327a3f2024d3]: Textual amendment: Words in [s. 18(9)(b)(i)](https://www.legislation.gov.uk/ukpga/2006/28/section/18/9/b/i) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 51(2)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/51/2/b)
 
-[^key-8a821b5ca1b7690868ca1174473e2f34]: Textual amendment: [S. 18(9)(b)](https://www.legislation.gov.uk/ukpga/2006/28/section/18/9/b)[(ia)](https://www.legislation.gov.uk/ukpga/2006/28/section/18/9/ia) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 51(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/51/2/c/ii)
+[^c-8a821b5ca1b7690868ca1174473e2f34]: Textual amendment: [S. 18(9)(b)](https://www.legislation.gov.uk/ukpga/2006/28/section/18/9/b)[(ia)](https://www.legislation.gov.uk/ukpga/2006/28/section/18/9/ia) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 51(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/51/2/c/ii)

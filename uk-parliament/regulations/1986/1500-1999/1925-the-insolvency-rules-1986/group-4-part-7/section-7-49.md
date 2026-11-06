@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.49. Procedure on appeal[^key-06567001ae84cb9f00119596fa58336c]
+## 7.49. Procedure on appeal[^c-06567001ae84cb9f00119596fa58336c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06567001ae84cb9f00119596fa58336c]: Textual amendment: [Rule 7.49](https://www.legislation.gov.uk/uksi/1986/1925/article/7.49) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/4)
+[^c-06567001ae84cb9f00119596fa58336c]: Textual amendment: [Rule 7.49](https://www.legislation.gov.uk/uksi/1986/1925/article/7.49) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Rejection of partial adjacency agreement forms submitted to OFCOM at a time outside the second phase of the negotiation period[^key-a016389788b72ea26e31f354e8afba48]
+## 91. Rejection of partial adjacency agreement forms submitted to OFCOM at a time outside the second phase of the negotiation period[^c-a016389788b72ea26e31f354e8afba48]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a016389788b72ea26e31f354e8afba48]: Commencement: Reg. 91 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-a016389788b72ea26e31f354e8afba48]: Commencement: Reg. 91 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

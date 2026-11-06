@@ -74,9 +74,9 @@ The Secretary of State, in exercise of the powers conferred on her by sections 1
 
 and references in this article to “animal” shall be construed accordingly.
 
-(1A)[^key-c2775373452e77d1769f9a85d0023c9a] This article shall not apply in the circumstances set out in Schedule 1A.
+(1A)[^c-c2775373452e77d1769f9a85d0023c9a] This article shall not apply in the circumstances set out in Schedule 1A.
 
-(2)[^key-3c98410b039813dc572e40b00fd70d1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3c98410b039813dc572e40b00fd70d1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The user of any means of transport which has been used to transport any animal, or anything which may give rise to a risk of transmission of disease, shall, as soon as reasonably practicable and not more than 24 hours after the journey is completed, ensure that it and any equipment are cleansed and disinfected in accordance with Schedule 2 or (in the case of a container) destroyed.
 
@@ -84,9 +84,9 @@ and references in this article to “animal” shall be construed accordingly.
 
 (5) If a means of transport or any equipment has become soiled so that it may give rise to a risk of transmission of disease since last being cleansed and disinfected, no person shall load, or cause or permit to be loaded, any animal into the means of transport unless the soiled parts of the means of transport or the equipment have been again cleansed and disinfected in accordance with paragraphs 1, 3 and 4 of Schedule 2.
 
-(6)[^key-0f47eb3d035dfaa5c0110430532a314c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0f47eb3d035dfaa5c0110430532a314c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Cleansing and disinfection in relation to the transport of other mammals and birds, and hoofed animals and poultry in certain circumstances[^key-68be3b36100159c10d58bd07d1120a65]
+## 4. Cleansing and disinfection in relation to the transport of other mammals and birds, and hoofed animals and poultry in certain circumstances[^c-68be3b36100159c10d58bd07d1120a65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -97,7 +97,7 @@ and references in this article to “animal” shall be construed accordingly.
 - (a) they are loaded on to a means of transport which has been cleansed and, where necessary, disinfected; and
 - (b) any horses that die during transport, and any soiled litter and excreta are removed as soon as practicable.
 
-(2)[^key-39dbbfc8ebe25f8b35a453c79697a9c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-39dbbfc8ebe25f8b35a453c79697a9c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) No person shall use, or cause or permit the use of, any means of transport to transport any animal to which article 3 applies unless the means of transport and any equipment have been cleansed and disinfected in accordance with Schedule 2 since they were last used to transport a horse.
 
@@ -150,7 +150,7 @@ he may serve a notice on any person appearing to him to be in charge of that mea
 
 (3) If a notice is served under the preceding paragraph, the cleansing and disinfection shall be carried out in accordance with Schedule 2 unless the notice specifies a different method of cleansing and disinfection.
 
-(4) An inspector may serve a notice on any person who is required to carry out cleansing and disinfection in accordance with articles 3,[^key-9480b7ec1dc1a3dfb70407f2ff07c254]...or 5 requiring him to carry out the cleansing and disinfection as specified in the notice instead of in accordance with Schedule 2 if he is satisfied that this is necessary for animal health purposes.
+(4) An inspector may serve a notice on any person who is required to carry out cleansing and disinfection in accordance with articles 3,[^c-9480b7ec1dc1a3dfb70407f2ff07c254]...or 5 requiring him to carry out the cleansing and disinfection as specified in the notice instead of in accordance with Schedule 2 if he is satisfied that this is necessary for animal health purposes.
 
 (5) Where a person fails to comply with a notice served under this article, an inspector may arrange for the provisions of the notice to be complied with at the expense of the person on whom the notice was served.
 
@@ -160,7 +160,7 @@ he may serve a notice on any person appearing to him to be in charge of that mea
 
 (2) The Secretary of State may direct, in relation to cases of a particular description or any particular case, that an enforcement duty imposed on a local authority under this regulation shall be discharged by the Secretary of State and not by the local authority.
 
-(3)[^key-ed6ae270b675c82a7ab15a321c13c5c6] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
+(3)[^c-ed6ae270b675c82a7ab15a321c13c5c6] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
 
 ## 11. Revocations and amendments
 
@@ -172,29 +172,29 @@ Parliamentary Under Secretary of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE 1 — CIRCUMSTANCES IN WHICH ARTICLE 4 APPLIES TO ANIMALS SPECIFIED IN ARTICLE 3[^key-9fcf572fab2826237439fa38f97b8f37]
+## SCHEDULE 1 — CIRCUMSTANCES IN WHICH ARTICLE 4 APPLIES TO ANIMALS SPECIFIED IN ARTICLE 3[^c-9fcf572fab2826237439fa38f97b8f37]
 
 **No longer in force.**
 
 Articles 3(2) and 4(1)
 
-### 1. Journey made within a single farming enterprise[^key-9fcf572fab2826237439fa38f97b8f37]
+### 1. Journey made within a single farming enterprise[^c-9fcf572fab2826237439fa38f97b8f37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Journeys between the same two points[^key-9fcf572fab2826237439fa38f97b8f37]
+### 2. Journeys between the same two points[^c-9fcf572fab2826237439fa38f97b8f37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Journeys to and from livestock shows not in the course of a single day[^key-9fcf572fab2826237439fa38f97b8f37]
+### 3. Journeys to and from livestock shows not in the course of a single day[^c-9fcf572fab2826237439fa38f97b8f37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Temporary unloading[^key-9fcf572fab2826237439fa38f97b8f37]
+### 4. Temporary unloading[^c-9fcf572fab2826237439fa38f97b8f37]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 1A — CIRCUMSTANCES IN WHICH ARTICLE 3 SHALL NOT APPLY[^key-3b97f22da67a66638900b299bca08a29]
+## SCHEDULE 1A — CIRCUMSTANCES IN WHICH ARTICLE 3 SHALL NOT APPLY[^c-3b97f22da67a66638900b299bca08a29]
 
 Article 3(1A)
 
@@ -294,26 +294,26 @@ A regulatory impact assessment has been prepared for this Order and placed in th
 
 [^f00002]: Footnote: S.I. [2003/1723](https://www.legislation.gov.uk/uksi/2003/1723).
 
-[^key-c2775373452e77d1769f9a85d0023c9a]: Textual amendment: [Art. 3(1A)](https://www.legislation.gov.uk/uksi/2003/1724/article/3/1A) inserted (24.4.2007) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 3) (Amendment) Order 2007 (S.I. 2007/1020)](https://www.legislation.gov.uk/uksi/2007/1020), [arts. 1](https://www.legislation.gov.uk/uksi/2007/1020/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2007/1020/article/2/a)
+[^c-c2775373452e77d1769f9a85d0023c9a]: Textual amendment: [Art. 3(1A)](https://www.legislation.gov.uk/uksi/2003/1724/article/3/1A) inserted (24.4.2007) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 3) (Amendment) Order 2007 (S.I. 2007/1020)](https://www.legislation.gov.uk/uksi/2007/1020), [arts. 1](https://www.legislation.gov.uk/uksi/2007/1020/article/1), [2(a)](https://www.legislation.gov.uk/uksi/2007/1020/article/2/a)
 
-[^key-3c98410b039813dc572e40b00fd70d1b]: Textual amendment: Art. 3(2) omitted (5.1.2007) by virtue of [The Welfare of Animals (Transport) (England) Order 2006 (S.I. 2006/3260)](https://www.legislation.gov.uk/uksi/2006/3260), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2006/3260/article/1/b), [30(2)](https://www.legislation.gov.uk/uksi/2006/3260/article/30/2)
+[^c-3c98410b039813dc572e40b00fd70d1b]: Textual amendment: Art. 3(2) omitted (5.1.2007) by virtue of [The Welfare of Animals (Transport) (England) Order 2006 (S.I. 2006/3260)](https://www.legislation.gov.uk/uksi/2006/3260), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2006/3260/article/1/b), [30(2)](https://www.legislation.gov.uk/uksi/2006/3260/article/30/2)
 
-[^key-0f47eb3d035dfaa5c0110430532a314c]: Textual amendment: [Art. 3(6)](https://www.legislation.gov.uk/uksi/2003/1724/article/3/6) omitted (24.4.2007) by virtue of [The Transport of Animals (Cleansing and Disinfection) (England) (No. 3) (Amendment) Order 2007 (S.I. 2007/1020)](https://www.legislation.gov.uk/uksi/2007/1020), [arts. 1](https://www.legislation.gov.uk/uksi/2007/1020/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2007/1020/article/2/b)
+[^c-0f47eb3d035dfaa5c0110430532a314c]: Textual amendment: [Art. 3(6)](https://www.legislation.gov.uk/uksi/2003/1724/article/3/6) omitted (24.4.2007) by virtue of [The Transport of Animals (Cleansing and Disinfection) (England) (No. 3) (Amendment) Order 2007 (S.I. 2007/1020)](https://www.legislation.gov.uk/uksi/2007/1020), [arts. 1](https://www.legislation.gov.uk/uksi/2007/1020/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2007/1020/article/2/b)
 
-[^key-68be3b36100159c10d58bd07d1120a65]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2003/1724/article/4) omitted (5.1.2007) by virtue of [The Welfare of Animals (Transport) (England) Order 2006 (S.I. 2006/3260)](https://www.legislation.gov.uk/uksi/2006/3260), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2006/3260/article/1/b), [30(3)](https://www.legislation.gov.uk/uksi/2006/3260/article/30/3)
+[^c-68be3b36100159c10d58bd07d1120a65]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2003/1724/article/4) omitted (5.1.2007) by virtue of [The Welfare of Animals (Transport) (England) Order 2006 (S.I. 2006/3260)](https://www.legislation.gov.uk/uksi/2006/3260), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2006/3260/article/1/b), [30(3)](https://www.legislation.gov.uk/uksi/2006/3260/article/30/3)
 
-[^key-39dbbfc8ebe25f8b35a453c79697a9c1]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/uksi/2003/1724/article/5/2) omitted (5.1.2007) by virtue of [The Welfare of Animals (Transport) (England) Order 2006 (S.I. 2006/3260)](https://www.legislation.gov.uk/uksi/2006/3260), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2006/3260/article/1/b), [30(4)](https://www.legislation.gov.uk/uksi/2006/3260/article/30/4)
+[^c-39dbbfc8ebe25f8b35a453c79697a9c1]: Textual amendment: [Art. 5(2)](https://www.legislation.gov.uk/uksi/2003/1724/article/5/2) omitted (5.1.2007) by virtue of [The Welfare of Animals (Transport) (England) Order 2006 (S.I. 2006/3260)](https://www.legislation.gov.uk/uksi/2006/3260), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2006/3260/article/1/b), [30(4)](https://www.legislation.gov.uk/uksi/2006/3260/article/30/4)
 
 [^f00003]: Footnote: S.I. [2003/1482](https://www.legislation.gov.uk/uksi/2003/1482).
 
-[^key-9480b7ec1dc1a3dfb70407f2ff07c254]: Textual amendment: Word in [art. 9(4)](https://www.legislation.gov.uk/uksi/2003/1724/article/9/4) omitted (5.1.2007) by virtue of [The Welfare of Animals (Transport) (England) Order 2006 (S.I. 2006/3260)](https://www.legislation.gov.uk/uksi/2006/3260), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2006/3260/article/1/b), [30(5)](https://www.legislation.gov.uk/uksi/2006/3260/article/30/5)
+[^c-9480b7ec1dc1a3dfb70407f2ff07c254]: Textual amendment: Word in [art. 9(4)](https://www.legislation.gov.uk/uksi/2003/1724/article/9/4) omitted (5.1.2007) by virtue of [The Welfare of Animals (Transport) (England) Order 2006 (S.I. 2006/3260)](https://www.legislation.gov.uk/uksi/2006/3260), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2006/3260/article/1/b), [30(5)](https://www.legislation.gov.uk/uksi/2006/3260/article/30/5)
 
-[^key-ed6ae270b675c82a7ab15a321c13c5c6]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/uksi/2003/1724/article/10/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [4](https://www.legislation.gov.uk/uksi/2012/2897/article/4)
+[^c-ed6ae270b675c82a7ab15a321c13c5c6]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/uksi/2003/1724/article/10/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [4](https://www.legislation.gov.uk/uksi/2012/2897/article/4)
 
 [^f00004]: Footnote: S.I. [2003/1336](https://www.legislation.gov.uk/uksi/2003/1336).
 
-[^key-9fcf572fab2826237439fa38f97b8f37]: Textual amendment: Sch. 1 omitted (5.1.2007) by virtue of [The Welfare of Animals (Transport) (England) Order 2006 (S.I. 2006/3260)](https://www.legislation.gov.uk/uksi/2006/3260), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2006/3260/article/1/b), [30(6)](https://www.legislation.gov.uk/uksi/2006/3260/article/30/6)
+[^c-9fcf572fab2826237439fa38f97b8f37]: Textual amendment: Sch. 1 omitted (5.1.2007) by virtue of [The Welfare of Animals (Transport) (England) Order 2006 (S.I. 2006/3260)](https://www.legislation.gov.uk/uksi/2006/3260), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2006/3260/article/1/b), [30(6)](https://www.legislation.gov.uk/uksi/2006/3260/article/30/6)
 
-[^key-3b97f22da67a66638900b299bca08a29]: Textual amendment: Sch. 1A inserted (24.4.2007) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 3) (Amendment) Order 2007 (S.I. 2007/1020)](https://www.legislation.gov.uk/uksi/2007/1020), [arts. 1](https://www.legislation.gov.uk/uksi/2007/1020/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2007/1020/article/2/c)
+[^c-3b97f22da67a66638900b299bca08a29]: Textual amendment: Sch. 1A inserted (24.4.2007) by [The Transport of Animals (Cleansing and Disinfection) (England) (No. 3) (Amendment) Order 2007 (S.I. 2007/1020)](https://www.legislation.gov.uk/uksi/2007/1020), [arts. 1](https://www.legislation.gov.uk/uksi/2007/1020/article/1), [2(c)](https://www.legislation.gov.uk/uksi/2007/1020/article/2/c)
 
 [^f00005]: Footnote: S.I. [1978/32](https://www.legislation.gov.uk/uksi/1978/32), as amended by S.I. [1994/3141](https://www.legislation.gov.uk/uksi/1994/3141), S.I. [1999/919](https://www.legislation.gov.uk/uksi/1999/919), S.I. [2000/3195](https://www.legislation.gov.uk/uksi/2000/3195) and, as regards England, S.I. [2001/608](https://www.legislation.gov.uk/uksi/2001/608) and S.I. [2003/1428](https://www.legislation.gov.uk/uksi/2003/1428).

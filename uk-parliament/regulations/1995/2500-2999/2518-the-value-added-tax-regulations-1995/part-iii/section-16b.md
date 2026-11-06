@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16B. Retailers' and simplified invoices: exceptions[^key-f9f1b99cd878d2edb5ce13bee00f35b4][^key-32e5557ae59b74808f39758c18cd7a0a]
+## 16B. Retailers' and simplified invoices: exceptions[^c-f9f1b99cd878d2edb5ce13bee00f35b4][^c-32e5557ae59b74808f39758c18cd7a0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ Regulations 16 and 16A do not apply in relation to a supply of goods if—
 
 ## Annotations
 
-[^key-f9f1b99cd878d2edb5ce13bee00f35b4]: Modification: [Reg. 16B](https://www.legislation.gov.uk/uksi/1995/2518/regulation/16B) modified (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by 1994 c. 23, Sch. 9ZC para. 5A(4) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 8(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/8/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3))
+[^c-f9f1b99cd878d2edb5ce13bee00f35b4]: Modification: [Reg. 16B](https://www.legislation.gov.uk/uksi/1995/2518/regulation/16B) modified (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by 1994 c. 23, Sch. 9ZC para. 5A(4) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 8(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/8/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3))
 
-[^key-32e5557ae59b74808f39758c18cd7a0a]: Textual amendment: [Reg. 16B](https://www.legislation.gov.uk/uksi/1995/2518/regulation/16B) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/24) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-32e5557ae59b74808f39758c18cd7a0a]: Textual amendment: [Reg. 16B](https://www.legislation.gov.uk/uksi/1995/2518/regulation/16B) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/24) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

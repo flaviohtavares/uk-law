@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10A — MINISTRY PLATE[^key-0a2655fd7468a075abc8a6fe2da34da0]
+## SCHEDULE 10A — MINISTRY PLATE[^c-0a2655fd7468a075abc8a6fe2da34da0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a2655fd7468a075abc8a6fe2da34da0]: Textual amendment: [Sch. 10A](https://www.legislation.gov.uk/uksi/1986/1078/schedule/10A) inserted (6.5.1987) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1987 (S.I. 1987/676)](https://www.legislation.gov.uk/uksi/1987/676), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1987/676/schedule)
+[^c-0a2655fd7468a075abc8a6fe2da34da0]: Textual amendment: [Sch. 10A](https://www.legislation.gov.uk/uksi/1986/1078/schedule/10A) inserted (6.5.1987) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1987 (S.I. 1987/676)](https://www.legislation.gov.uk/uksi/1987/676), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/1987/676/schedule)

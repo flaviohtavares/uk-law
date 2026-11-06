@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Application to agencies and agency workers[^key-10a69d6c9ac727a459153c6bbe50e1aa]
+## 10. Application to agencies and agency workers[^c-10a69d6c9ac727a459153c6bbe50e1aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,8 +46,8 @@ and not each time the agency worker stops providing services to a client of the 
 
 |  |  |
 | --- | --- |
-| [^key-c2f54c2c0386ddc1b1b3ab5a9d644c36]. . . | [^key-c2f54c2c0386ddc1b1b3ab5a9d644c36]. . . |
-| [^key-c2f54c2c0386ddc1b1b3ab5a9d644c36]. . . | [^key-c2f54c2c0386ddc1b1b3ab5a9d644c36]. . . |
+| [^c-c2f54c2c0386ddc1b1b3ab5a9d644c36]. . . | [^c-c2f54c2c0386ddc1b1b3ab5a9d644c36]. . . |
+| [^c-c2f54c2c0386ddc1b1b3ab5a9d644c36]. . . | [^c-c2f54c2c0386ddc1b1b3ab5a9d644c36]. . . |
 | regulation 91 | termination awards: information to be provided |
 | regulation 92 | termination awards: return if award changes |
 | regulation 93 | termination awards: return if more than one employer |
@@ -58,6 +58,6 @@ and not each time the agency worker stops providing services to a client of the 
 
 ## Annotations
 
-[^key-10a69d6c9ac727a459153c6bbe50e1aa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2003/2682/regulation/10) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-10a69d6c9ac727a459153c6bbe50e1aa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2003/2682/regulation/10) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
 
-[^key-c2f54c2c0386ddc1b1b3ab5a9d644c36]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/10/4) omitted (6.4.2014) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/4), [7](https://www.legislation.gov.uk/uksi/2013/521/regulation/7)
+[^c-c2f54c2c0386ddc1b1b3ab5a9d644c36]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/10/4) omitted (6.4.2014) by virtue of [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/4), [7](https://www.legislation.gov.uk/uksi/2013/521/regulation/7)

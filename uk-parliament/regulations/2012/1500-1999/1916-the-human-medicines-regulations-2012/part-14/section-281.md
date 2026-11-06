@@ -22,13 +22,13 @@ summary: ''
 
 (1) This regulation applies to a person who holds—
 
-- (a) a UK[^key-1582797c67add0f40506b5982436e269] marketing authorisation for a medicinal product;
+- (a) a UK[^c-1582797c67add0f40506b5982436e269] marketing authorisation for a medicinal product;
 - (b) a certificate of registration for a medicinal product;
-- (c) a traditional herbal registration for a medicinal product; or[^key-a95ed1f4f0769b87f345c214757fe6f5]
-- (d) an Article 126a authorisation for a medicinal product ; [^key-499896545166f95ba42f8ce3971aa675]...
-- (e)[^key-499896545166f95ba42f8ce3971aa675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a traditional herbal registration for a medicinal product; or[^c-a95ed1f4f0769b87f345c214757fe6f5]
+- (d) an Article 126a authorisation for a medicinal product ; [^c-499896545166f95ba42f8ce3971aa675]...
+- (e)[^c-499896545166f95ba42f8ce3971aa675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-0cc2d1bf1fae4f12b2362d9bccd6b497] Paragraphs (3) to (5) apply to the holder of a temporary authorisation in relation to a medicinal product.
+(1A)[^c-0cc2d1bf1fae4f12b2362d9bccd6b497] Paragraphs (3) to (5) apply to the holder of a temporary authorisation in relation to a medicinal product.
 
 (2) The person must establish a scientific service to compile and collate all information relating to the product (whether received from medical sales representatives employed by that person or from any other source).
 
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1582797c67add0f40506b5982436e269]: Textual amendment: Word in [reg. 281(1)(a)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/281/1/a) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [213(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/213/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1582797c67add0f40506b5982436e269]: Textual amendment: Word in [reg. 281(1)(a)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/281/1/a) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [213(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/213/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a95ed1f4f0769b87f345c214757fe6f5]: Textual amendment: Word in reg. 281(1)(c) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [123(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/123/a)
+[^c-a95ed1f4f0769b87f345c214757fe6f5]: Textual amendment: Word in reg. 281(1)(c) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [123(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/123/a)
 
-[^key-499896545166f95ba42f8ce3971aa675]: Textual amendment: Reg. 281(1)(e) and word omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [123(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/123/b)
+[^c-499896545166f95ba42f8ce3971aa675]: Textual amendment: Reg. 281(1)(e) and word omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [123(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/123/b)
 
-[^key-0cc2d1bf1fae4f12b2362d9bccd6b497]: Textual amendment: Reg. 281(1A) inserted (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.I. 2020/1125)](https://www.legislation.gov.uk/uksi/2020/1125), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2020/1125/regulation/19) and reg. 281(1A) inserted (N.I.) (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.R. 2020/349)](https://www.legislation.gov.uk/nisr/2020/349), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/349/regulation/1/2), [19](https://www.legislation.gov.uk/nisr/2020/349/regulation/19)
+[^c-0cc2d1bf1fae4f12b2362d9bccd6b497]: Textual amendment: Reg. 281(1A) inserted (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.I. 2020/1125)](https://www.legislation.gov.uk/uksi/2020/1125), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1125/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2020/1125/regulation/19) and reg. 281(1A) inserted (N.I.) (6.11.2020) by [The Human Medicines (Coronavirus and Influenza) (Amendment) Regulations 2020 (S.R. 2020/349)](https://www.legislation.gov.uk/nisr/2020/349), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/349/regulation/1/2), [19](https://www.legislation.gov.uk/nisr/2020/349/regulation/19)

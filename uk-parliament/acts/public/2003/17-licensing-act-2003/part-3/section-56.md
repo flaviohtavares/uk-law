@@ -23,7 +23,7 @@ summary: ''
 (1) Where—
 
 - (a) the relevant licensing authority, in relation to a premises licence, makes a determination or receives a notice under this Part,
-- (aa)[^key-98e1c5a84245814b7042aa4cbefdc74b] a London licensing authority, in relation to a premises licence, is subject to a direction under section 41ZB (directions by Mayor of London),
+- (aa)[^c-98e1c5a84245814b7042aa4cbefdc74b] a London licensing authority, in relation to a premises licence, is subject to a direction under section 41ZB (directions by Mayor of London),
 - (b) a premises licence lapses under this Part, or
 - (c) an appeal against a decision under this Part is disposed of,
 
@@ -37,4 +37,4 @@ the relevant licensing authority must make the appropriate amendments (if any) t
 
 ## Annotations
 
-[^key-98e1c5a84245814b7042aa4cbefdc74b]: Textual amendment: [S. 56(1)(aa)](https://www.legislation.gov.uk/ukpga/2003/17/section/56/1/aa) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 26 para. 17](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/17) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))
+[^c-98e1c5a84245814b7042aa4cbefdc74b]: Textual amendment: [S. 56(1)(aa)](https://www.legislation.gov.uk/ukpga/2003/17/section/56/1/aa) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 26 para. 17](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/17) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))

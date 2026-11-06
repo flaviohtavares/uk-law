@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Consequential revocations[^key-de7f2637a740d88926371dfe866a967c][^key-e299c13bd566a3917bee48a30a531f02]
+## 61. Consequential revocations[^c-de7f2637a740d88926371dfe866a967c][^c-e299c13bd566a3917bee48a30a531f02]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de7f2637a740d88926371dfe866a967c]: Commencement: S. 61 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-de7f2637a740d88926371dfe866a967c]: Commencement: S. 61 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-e299c13bd566a3917bee48a30a531f02]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2025/4/section/61) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-e299c13bd566a3917bee48a30a531f02]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2025/4/section/61) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Application of general directions[^key-e8dc041a315c509bc18d318766ee4c49]
+## 3. Application of general directions[^c-e8dc041a315c509bc18d318766ee4c49]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The general directions in the final Part of each of Schedules 2 to 15 apply to t
 
 ## Annotations
 
-[^key-e8dc041a315c509bc18d318766ee4c49]: Commencement: [Dir. 3](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/3) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
+[^c-e8dc041a315c509bc18d318766ee4c49]: Commencement: [Dir. 3](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/3) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)

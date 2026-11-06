@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 209. Further provision as respects assessment of performance or decision making[^key-a02fa8478836c5d95e13853eb6b56439][^key-b7382bd81e379b931458f62b5c1dd335]
+## 209. Further provision as respects assessment of performance or decision making[^c-a02fa8478836c5d95e13853eb6b56439][^c-b7382bd81e379b931458f62b5c1dd335]
 
 *Extent: N.I.*
 
@@ -56,6 +56,6 @@ which the Department or the appointed person may reasonably require to be provid
 
 ## Annotations
 
-[^key-a02fa8478836c5d95e13853eb6b56439]: Commencement: S. 209 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-a02fa8478836c5d95e13853eb6b56439]: Commencement: S. 209 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-b7382bd81e379b931458f62b5c1dd335]: Commencement: S. 209 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-b7382bd81e379b931458f62b5c1dd335]: Commencement: S. 209 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)

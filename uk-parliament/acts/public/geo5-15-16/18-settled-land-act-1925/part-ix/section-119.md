@@ -28,7 +28,7 @@ summary: ''
 
 (2) References in any statute to the [^c6452191]Settled Estates Act, 1877, and to any enactment which it replaced shall be construed as references to this Act.
 
-(3)[^key-752b7e10816298afe13c4fd6ae9d85ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-752b7e10816298afe13c4fd6ae9d85ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c6452191]: Marginal citation: [1877 c. 18](https://www.legislation.gov.uk/ukpga/1877/18).
 
-[^key-752b7e10816298afe13c4fd6ae9d85ba]: Textual amendment: S. 119(3) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-752b7e10816298afe13c4fd6ae9d85ba]: Textual amendment: S. 119(3) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)

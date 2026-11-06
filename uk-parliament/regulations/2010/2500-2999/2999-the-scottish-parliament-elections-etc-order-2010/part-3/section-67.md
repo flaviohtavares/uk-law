@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Schools and rooms for Scottish parliamentary election meetings: candidates for return as regional members[^key-b4987656725a26b22f6c01f6aebb1375]
+## 67. Schools and rooms for Scottish parliamentary election meetings: candidates for return as regional members[^c-b4987656725a26b22f6c01f6aebb1375]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ to the use of the rooms described in paragraphs (2) and (3), free of charge, at 
 
 ## Annotations
 
-[^key-b4987656725a26b22f6c01f6aebb1375]: Commencement: Art. 67 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-b4987656725a26b22f6c01f6aebb1375]: Commencement: Art. 67 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

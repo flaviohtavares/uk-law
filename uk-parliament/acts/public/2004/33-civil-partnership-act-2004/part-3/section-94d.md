@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94D. Alterations to register maintained under section 94B[^key-cc65d7ade2e7dec5340816dfc336f1d2]
+## 94D. Alterations to register maintained under section 94B[^c-cc65d7ade2e7dec5340816dfc336f1d2]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc65d7ade2e7dec5340816dfc336f1d2]: Textual amendment: Ss. 94A-94E inserted (1.9.2014 for specified purposes, 16.12.2014 in so far as not already in force for the insertion of ss. 94A(1)(2)(a)(3)(4), 94B(1)(2)(a)-(c)(4)-(11), 94C, 94D, 94E(1)(3)(5) and otherwise prosp.) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(13)](https://www.legislation.gov.uk/asp/2014/5/section/24/13), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule) (as amended (1.9.2014) by [S.S.I. 2014/218](https://www.legislation.gov.uk/ssi/2014/218), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/218/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2014/218/schedule)); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-cc65d7ade2e7dec5340816dfc336f1d2]: Textual amendment: Ss. 94A-94E inserted (1.9.2014 for specified purposes, 16.12.2014 in so far as not already in force for the insertion of ss. 94A(1)(2)(a)(3)(4), 94B(1)(2)(a)-(c)(4)-(11), 94C, 94D, 94E(1)(3)(5) and otherwise prosp.) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(13)](https://www.legislation.gov.uk/asp/2014/5/section/24/13), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule) (as amended (1.9.2014) by [S.S.I. 2014/218](https://www.legislation.gov.uk/ssi/2014/218), [art. 2(3)](https://www.legislation.gov.uk/ssi/2014/218/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2014/218/schedule)); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 459. Assets of Haiti: definition of “investments”[^key-0cd4147d193e5f13aa0f894a60796024]
+## 459. Assets of Haiti: definition of “investments”[^c-0cd4147d193e5f13aa0f894a60796024]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In paragraph (4) of article 9 of the Haiti (United Nations Sanctions) (Isle of M
 
 ## Annotations
 
-[^key-0cd4147d193e5f13aa0f894a60796024]: Commencement: Art. 459 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0cd4147d193e5f13aa0f894a60796024]: Commencement: Art. 459 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00309]: Footnote: Amended by [S.I. 2000/1106](https://www.legislation.gov.uk/uksi/2000/1106).

@@ -24,8 +24,8 @@ summary: ''
 
 - (a) contributions paid under regulation 30, 47, 61 or 63;
 - (b) contributions due under regulation 30, 47, 61 or 63, but unpaid;
-- (c) contributions paid under regulation 32, 33 or 34[^key-402c0861ed2112382c4ddec9da4fb72c];
-- (d) contributions due under regulation 32, 33 or 34[^key-fbe301908ec1683dd5011f6b948bd4d6], but unpaid;
+- (c) contributions paid under regulation 32, 33 or 34[^c-402c0861ed2112382c4ddec9da4fb72c];
+- (d) contributions due under regulation 32, 33 or 34[^c-fbe301908ec1683dd5011f6b948bd4d6], but unpaid;
 - (e) hours or sessions of service if the employment is not whole time employment;
 - (f) pensionable earnings;
 - (g) absences from work referred to in regulation 21;
@@ -62,6 +62,6 @@ the authority must, before the end of the period of one month after the revision
 
 ## Annotations
 
-[^key-402c0861ed2112382c4ddec9da4fb72c]: Textual amendment: Words in [reg. 36(1)(c)](https://www.legislation.gov.uk/ssi/2015/94/regulation/36/1/c) inserted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [7(a)](https://www.legislation.gov.uk/ssi/2017/28/regulation/7/a)
+[^c-402c0861ed2112382c4ddec9da4fb72c]: Textual amendment: Words in [reg. 36(1)(c)](https://www.legislation.gov.uk/ssi/2015/94/regulation/36/1/c) inserted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [7(a)](https://www.legislation.gov.uk/ssi/2017/28/regulation/7/a)
 
-[^key-fbe301908ec1683dd5011f6b948bd4d6]: Textual amendment: Words in [reg. 36(1)(d)](https://www.legislation.gov.uk/ssi/2015/94/regulation/36/1/d) inserted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [7(b)](https://www.legislation.gov.uk/ssi/2017/28/regulation/7/b)
+[^c-fbe301908ec1683dd5011f6b948bd4d6]: Textual amendment: Words in [reg. 36(1)(d)](https://www.legislation.gov.uk/ssi/2015/94/regulation/36/1/d) inserted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [7(b)](https://www.legislation.gov.uk/ssi/2017/28/regulation/7/b)

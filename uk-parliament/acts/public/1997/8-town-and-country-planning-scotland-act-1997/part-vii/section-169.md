@@ -48,7 +48,7 @@ summary: ''
 - (a) dismiss an appeal if the appellant fails to comply with subsection (3) within the time prescribed under subsection (4)(a), and
 - (b) allow an appeal and quash the notice under section 168(1) if the planning authority fail to comply with any requirement imposed by virtue of paragraph (b), (c) or (e) of subsection (4).
 
-(6)[^key-d97ebf37fbf4dd6b55d9559ebb38c743] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d97ebf37fbf4dd6b55d9559ebb38c743] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Where such an appeal is brought, the notice under section 168(1) shall be of no effect pending the final determination or the withdrawal of the appeal.
 
@@ -65,4 +65,4 @@ if he is satisfied that the correction or variation will not cause injustice to 
 
 ## Annotations
 
-[^key-d97ebf37fbf4dd6b55d9559ebb38c743]: Textual amendment: S. 169(6) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(2)(g)](https://www.legislation.gov.uk/ssi/2009/222/article/9/2/g)); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-d97ebf37fbf4dd6b55d9559ebb38c743]: Textual amendment: S. 169(6) repealed (3.8.2009) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 9(2)(g)](https://www.legislation.gov.uk/ssi/2009/222/article/9/2/g)); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

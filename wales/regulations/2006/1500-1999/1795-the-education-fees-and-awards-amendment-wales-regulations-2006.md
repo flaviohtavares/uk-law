@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The Education (Fees and Awards) (Amendment) (Wales) Regulations 2006 (revoked)[^key-ba56bc91d2c33da25189dd5953e143c0]
+The Education (Fees and Awards) (Amendment) (Wales) Regulations 2006 (revoked)[^c-ba56bc91d2c33da25189dd5953e143c0]
 
 Made
 
@@ -41,68 +41,68 @@ Coming into force
 
 7 July 2006
 
-[^key-ba56bc91d2c33da25189dd5953e143c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba56bc91d2c33da25189dd5953e143c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement and interpretation[^key-ba56bc91d2c33da25189dd5953e143c0]
+## 1. Title and commencement and interpretation[^c-ba56bc91d2c33da25189dd5953e143c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-ba56bc91d2c33da25189dd5953e143c0]
+## 2.[^c-ba56bc91d2c33da25189dd5953e143c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Regulations[^key-ba56bc91d2c33da25189dd5953e143c0]
+## 3. Amendment of Regulations[^c-ba56bc91d2c33da25189dd5953e143c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-ba56bc91d2c33da25189dd5953e143c0]
+## 4.[^c-ba56bc91d2c33da25189dd5953e143c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-ba56bc91d2c33da25189dd5953e143c0]
+## 5.[^c-ba56bc91d2c33da25189dd5953e143c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-ba56bc91d2c33da25189dd5953e143c0]
+## 6.[^c-ba56bc91d2c33da25189dd5953e143c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-ba56bc91d2c33da25189dd5953e143c0]
+## 7.[^c-ba56bc91d2c33da25189dd5953e143c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-ba56bc91d2c33da25189dd5953e143c0]
+## 8.[^c-ba56bc91d2c33da25189dd5953e143c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-ba56bc91d2c33da25189dd5953e143c0]
+## 9.[^c-ba56bc91d2c33da25189dd5953e143c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-ba56bc91d2c33da25189dd5953e143c0]
+## 10.[^c-ba56bc91d2c33da25189dd5953e143c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-ba56bc91d2c33da25189dd5953e143c0]
+## 11.[^c-ba56bc91d2c33da25189dd5953e143c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-ba56bc91d2c33da25189dd5953e143c0]
+## 12.[^c-ba56bc91d2c33da25189dd5953e143c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-ba56bc91d2c33da25189dd5953e143c0]
+## 13.[^c-ba56bc91d2c33da25189dd5953e143c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ba56bc91d2c33da25189dd5953e143c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba56bc91d2c33da25189dd5953e143c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ba56bc91d2c33da25189dd5953e143c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba56bc91d2c33da25189dd5953e143c0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ba56bc91d2c33da25189dd5953e143c0]: Textual amendment: Regulations revoked (31.8.2007) by [The Education (Fees and Awards) (Wales) Regulations 2007 (S.I. 2007/2310)](https://www.legislation.gov.uk/uksi/2007/2310), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2310/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2007/2310/regulation/9)
+[^c-ba56bc91d2c33da25189dd5953e143c0]: Textual amendment: Regulations revoked (31.8.2007) by [The Education (Fees and Awards) (Wales) Regulations 2007 (S.I. 2007/2310)](https://www.legislation.gov.uk/uksi/2007/2310), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2310/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2007/2310/regulation/9)

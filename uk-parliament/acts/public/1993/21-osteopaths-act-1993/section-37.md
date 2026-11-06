@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Indemnity arrangements[^key-41760d04842565d4117f8c068748185a]
+## 37. Indemnity arrangements[^c-41760d04842565d4117f8c068748185a]
 
 *Extent: E+W+S+N.I.*
 
 (1) A registered osteopath who practises as such must have in force in relation to him an indemnity arrangement which provides appropriate cover for practising as such.
 
-(2)[^key-06d20310f41220981cb4e8ffc1cedc6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-06d20310f41220981cb4e8ffc1cedc6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purposes of this section, an “indemnity arrangement” may comprise—
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41760d04842565d4117f8c068748185a]: Textual amendment: S. 37 substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/9) (with [Sch. 3 paras. 10-14](https://www.legislation.gov.uk/uksi/2014/1887/schedule/3/paragraph/10))
+[^c-41760d04842565d4117f8c068748185a]: Textual amendment: S. 37 substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/9) (with [Sch. 3 paras. 10-14](https://www.legislation.gov.uk/uksi/2014/1887/schedule/3/paragraph/10))
 
-[^key-06d20310f41220981cb4e8ffc1cedc6a]: Textual amendment: [S. 37(2)](https://www.legislation.gov.uk/ukpga/1993/21/section/37/2) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/10) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-06d20310f41220981cb4e8ffc1cedc6a]: Textual amendment: [S. 37(2)](https://www.legislation.gov.uk/ukpga/1993/21/section/37/2) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/10) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

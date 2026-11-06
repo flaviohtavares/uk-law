@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 205. Warrants under Article 200[^key-7343c788f7da655bcfdf65a24bd7ee97]
+## 205. Warrants under Article 200[^c-7343c788f7da655bcfdf65a24bd7ee97]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7343c788f7da655bcfdf65a24bd7ee97]: Commencement: Rule 205 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-7343c788f7da655bcfdf65a24bd7ee97]: Commencement: Rule 205 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

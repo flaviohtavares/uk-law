@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59A. Further provision on penalties[^key-ca407f835899e76232a4181cd8021d76]
+## 59A. Further provision on penalties[^c-ca407f835899e76232a4181cd8021d76]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca407f835899e76232a4181cd8021d76]: Textual amendment: [Reg. 59A](https://www.legislation.gov.uk/uksi/2014/1613/regulation/59A) inserted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2018/667/regulation/2/10)
+[^c-ca407f835899e76232a4181cd8021d76]: Textual amendment: [Reg. 59A](https://www.legislation.gov.uk/uksi/2014/1613/regulation/59A) inserted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2018/667/regulation/2/10)

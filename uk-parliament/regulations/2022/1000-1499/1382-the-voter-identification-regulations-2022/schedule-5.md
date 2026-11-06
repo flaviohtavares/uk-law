@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Representation of the People (Combination of Polls) (England and Wales) Regulations 2004: New Form of directions for the guidance of voters[^key-d2da73202078bc2e079aabe7487fb856]
+## SCHEDULE 5 — Representation of the People (Combination of Polls) (England and Wales) Regulations 2004: New Form of directions for the guidance of voters[^c-d2da73202078bc2e079aabe7487fb856]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 37(d)
 
-[^key-d2da73202078bc2e079aabe7487fb856]**Form of directions for the guidance of the voters in voting**
+[^c-d2da73202078bc2e079aabe7487fb856]**Form of directions for the guidance of the voters in voting**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2022/1382/images/uksi_20221382_en_003)
 
 ## Annotations
 
-[^key-d2da73202078bc2e079aabe7487fb856]: Commencement: Sch. 5 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-d2da73202078bc2e079aabe7487fb856]: Commencement: Sch. 5 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

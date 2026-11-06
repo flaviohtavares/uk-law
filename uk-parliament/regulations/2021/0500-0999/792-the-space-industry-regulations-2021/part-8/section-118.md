@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Remote pilot’s obligations to a spaceflight participant about stations[^key-ec5220a47f013ca24c84884fe359e679]
+## 118. Remote pilot’s obligations to a spaceflight participant about stations[^c-ec5220a47f013ca24c84884fe359e679]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ If a launch vehicle has a remote pilot, that pilot must ensure that each spacefl
 
 ## Annotations
 
-[^key-ec5220a47f013ca24c84884fe359e679]: Commencement: Reg. 118 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-ec5220a47f013ca24c84884fe359e679]: Commencement: Reg. 118 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

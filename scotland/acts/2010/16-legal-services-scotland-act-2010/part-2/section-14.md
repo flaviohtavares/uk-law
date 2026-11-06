@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Licensing rules: general[^key-d8461b3c03f0700d4e37312acb173375]
+## 14. Licensing rules: general[^c-d8461b3c03f0700d4e37312acb173375]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8461b3c03f0700d4e37312acb173375]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2010/16/section/14) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-d8461b3c03f0700d4e37312acb173375]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2010/16/section/14) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

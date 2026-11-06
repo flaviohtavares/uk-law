@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Controlled activity relating to children[^key-f0166bb94ad4f0cc11ae18ad893ab27f]
+## 25. Controlled activity relating to children[^c-f0166bb94ad4f0cc11ae18ad893ab27f]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0166bb94ad4f0cc11ae18ad893ab27f]: Textual amendment: Arts. 25-27 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/5), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-f0166bb94ad4f0cc11ae18ad893ab27f]: Textual amendment: Arts. 25-27 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/5), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)

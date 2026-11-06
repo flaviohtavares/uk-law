@@ -64,7 +64,7 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 1 — Introductory
 
-### 1. Title and commencement[^key-ef6b2174b4514aa3b502b3892b186d73]
+### 1. Title and commencement[^c-ef6b2174b4514aa3b502b3892b186d73]
 
 (1) The title of these Regulations is the Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019.
 
@@ -75,7 +75,7 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 2 — Amendments to out of date references
 
-### 2. The Waste (Wales) Measure 2010[^key-074519ab524d193ac3117de644a16941]
+### 2. The Waste (Wales) Measure 2010[^c-074519ab524d193ac3117de644a16941]
 
 (1) The Waste (Wales) Measure 2010 [^c23613261] is amended as follows.
 
@@ -83,7 +83,7 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 
 (3) In section 17(2), at the end insert “ , as last amended by Council Regulation (EU) 2017/997 [^c23613281] ”.
 
-### 3. The Landfill Allowance Scheme (Wales) Regulations 2005[^key-2084c98f9ce938a63cdced3d3f88152f]
+### 3. The Landfill Allowance Scheme (Wales) Regulations 2005[^c-2084c98f9ce938a63cdced3d3f88152f]
 
 (1) The Landfill Allowance Scheme (Wales) Regulations 2004 [^c23613291] are amended as follows.
 
@@ -91,7 +91,7 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 
 (3) In regulation 7(10), at the end insert “as last amended by Council Regulation 2011/97/EU.
 
-### 4. The Hazardous Waste (Wales) Regulations 2005[^key-732708d4deecd437bdb101e6a70633c7]
+### 4. The Hazardous Waste (Wales) Regulations 2005[^c-732708d4deecd437bdb101e6a70633c7]
 
 (1) The Hazardous Waste (Wales) Regulations 2005 [^c23613301] are amended as follows.
 
@@ -99,17 +99,17 @@ The requirements of paragraph 4(2) of Schedule 7 to the European Union (Withdraw
 
 (3) In regulation 48(6B), after “waste,” insert “ as last amended by Council Directive 2011/97/EU ”.
 
-### 5. The Recycling, Preparation for Re-use and Compositing Targets (Monitoring and Penalties) (Wales) Regulations 2011[^key-a25f2cb8b013231b9140e2bbb650f6ba]
+### 5. The Recycling, Preparation for Re-use and Compositing Targets (Monitoring and Penalties) (Wales) Regulations 2011[^c-a25f2cb8b013231b9140e2bbb650f6ba]
 
 In regulation 2(1) of the Recycling, Preparation for Re-use and Composting Targets (Monitoring and Penalties) (Wales) Regulations 2011 [^c23613311] in the definition of “the Waste Framework Directive” (*“y Gyfarwyddeb Fframwaith Gwastraff”*) for “as last amended by Commission Directive (EU) 2015/1127” substitute “ as last amended by Council Regulation (EU) 2017/997 ”.
 
 ## PART 3 — Amendment of primary legislation
 
-### 6. The Waste (Wales) Measure 2010[^key-16f0d05004b983f3e447822f32e60060]
+### 6. The Waste (Wales) Measure 2010[^c-16f0d05004b983f3e447822f32e60060]
 
 (1) The Waste (Wales) Measure 2010 [^c23613321] is amended as follows.
 
-(2)[^key-0cdc04a81bdd389bb7dabed3335e60b0] In section 9(3) at the end insert “, and read as if—
+(2)[^c-0cdc04a81bdd389bb7dabed3335e60b0] In section 9(3) at the end insert “, and read as if—
 
 - (a) in Article 2—
   - (i) in point (a) the reference to the definition of ’waste’ were omitted;
@@ -124,14 +124,14 @@ In regulation 2(1) of the Recycling, Preparation for Re-use and Composting Targe
 
     > **3.** The management of extractive waste, within the meaning given in regulation 2(1) of the Environmental Permitting (England and Wales) Regulations 2016, is excluded from the scope of this Directive where it falls within the scope of Schedule 20, or paragraph 8(a) or (b) of Schedule 22, to those Regulations.
 
-(3)[^key-ed65d0191d525df2c486b42caf8eecb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ed65d0191d525df2c486b42caf8eecb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 17—
 
-- (a) in subsection (2) [^key-a7511749bf2090bc733281eb3c10a219]..., at the end insert “ , and read in accordance with subsections (3) to (8) ”;
+- (a) in subsection (2) [^c-a7511749bf2090bc733281eb3c10a219]..., at the end insert “ , and read in accordance with subsections (3) to (8) ”;
 - (b) after subsection (2) insert—
 
-  > (3) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the Welsh Ministers, the Natural Resources Body for Wales or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020)[^key-661f897827b51a9f49fc10a28e0c7a97], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
+  > (3) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the Welsh Ministers, the Natural Resources Body for Wales or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020)[^c-661f897827b51a9f49fc10a28e0c7a97], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
   >
   > (4) Article 2 is to be read as if—
   >
@@ -142,7 +142,7 @@ In regulation 2(1) of the Recycling, Preparation for Re-use and Composting Targe
   > - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
   > - (c) paragraph 4 were omitted.
   >
-  > (5)[^key-872768019048424e18de883c76b302b4] Article 5 is to be read as if—
+  > (5)[^c-872768019048424e18de883c76b302b4] Article 5 is to be read as if—
   >
   > - (a) in paragraph 1, for “Member States shall take appropriate measures to ensure that a”, there were substituted “A”;
   > - (b) after paragraph 1 there were inserted—
@@ -221,22 +221,22 @@ In regulation 2(1) of the Recycling, Preparation for Re-use and Composting Targe
 
 ## PART 4 — Amendment of subordinate legislation
 
-### 7. The Landfill Allowances Scheme (Wales) Regulations 2004[^key-c5e93a44efc9dc7aea81f6a78f41e153]
+### 7. The Landfill Allowances Scheme (Wales) Regulations 2004[^c-c5e93a44efc9dc7aea81f6a78f41e153]
 
 (1) The Landfill Allowances Scheme (Wales) Regulations 2004 [^c23613411] are amended as follows.
 
-(2)[^key-b7061cf82ecdbd019992c97f350b915f] In regulation 2(1)—
+(2)[^c-b7061cf82ecdbd019992c97f350b915f] In regulation 2(1)—
 
 - (a) in the definition of “waste facility *(“cyfleuster gwastraff”)*”, omit “(as substituted by regulation 4(2))”;
 - (b) after the definition of “waste facility” insert—
 
   > - “the Waste Framework Directive” *(“y* *Gyfarwyddeb Fframwaith Gwastraff”**)* means [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851 and read in accordance with paragraphs (3) to (9).
 
-(3)[^key-330222415bceb95d07bebd07554c7c8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-330222415bceb95d07bebd07554c7c8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) After regulation 2(2)[^key-d0c33649cbb19b9d1700ee6b644aac3b] insert—
+(4) After regulation 2(2)[^c-d0c33649cbb19b9d1700ee6b644aac3b] insert—
 
-> (3) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the Welsh Ministers, the Natural Resources Body for Wales or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020)[^key-c26a12eacb575b71d454c742d4911c14], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
+> (3) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the Welsh Ministers, the Natural Resources Body for Wales or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020)[^c-c26a12eacb575b71d454c742d4911c14], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
 >
 > (4) Article 2 is to be read as if—
 >
@@ -247,7 +247,7 @@ In regulation 2(1) of the Recycling, Preparation for Re-use and Composting Targe
 > - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
 > - (c) paragraph 4 were omitted.
 >
-> (5)[^key-45ef411e4864b8bef87d305b40fcf223] Article 5 is to be read as if—
+> (5)[^c-45ef411e4864b8bef87d305b40fcf223] Article 5 is to be read as if—
 >
 > - (a) in paragraph 1, for “Member States shall take appropriate measures to ensure that a”, there were substituted “A”;
 > - (b) after paragraph 1 there were inserted—
@@ -324,9 +324,9 @@ In regulation 2(1) of the Recycling, Preparation for Re-use and Composting Targe
 >
 >   .
 
-(6) In regulation 7(10) [^key-2897b66234fd01fc07764f0fa3c84226]... , at the end, insert “read in accordance with paragraph (11).
+(6) In regulation 7(10) [^c-2897b66234fd01fc07764f0fa3c84226]... , at the end, insert “read in accordance with paragraph (11).
 
-(7)[^key-d816f933f5595d586c79e83b59a0901a] After regulation 7(10) insert—
+(7)[^c-d816f933f5595d586c79e83b59a0901a] After regulation 7(10) insert—
 
 > (11) For the purposes of regulation 7(10) [Directive 1999/31/EC](https://www.legislation.gov.uk/eudr/1999/0031) is to be read as if—
 >
@@ -341,7 +341,7 @@ In regulation 2(1) of the Recycling, Preparation for Re-use and Composting Targe
 >
 > (3) The management of extractive waste, within the meaning given in regulation 2(1) of the Environmental Permitting (England and Wales) Regulations 2016, is excluded from the scope of this Directive where it falls within the scope of Schedule 20, or paragraph 8(a) or (b) of Schedule 22, to those Regulations.
 
-### 8. The Hazardous Waste (Wales) Regulations 2005[^key-163c6687126413a52aca4efe11a59aab]
+### 8. The Hazardous Waste (Wales) Regulations 2005[^c-163c6687126413a52aca4efe11a59aab]
 
 (1) The Hazardous Waste (Wales) Regulations 2005 [^c23613451] are amended as follows.
 
@@ -356,7 +356,7 @@ In regulation 2(1) of the Recycling, Preparation for Re-use and Composting Targe
 >
 > (1) For the purposes of these Regulations, the Waste Directive is to be read in accordance with this regulation.
 >
-> (2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020)[^key-bbbe5c2cbfe5e8cadd4757e60b1c64b7], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
+> (2) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the appropriate authority or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020)[^c-bbbe5c2cbfe5e8cadd4757e60b1c64b7], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
 >
 > (3) Article 2 is to be read as if—
 >
@@ -367,9 +367,9 @@ In regulation 2(1) of the Recycling, Preparation for Re-use and Composting Targe
 > - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
 > - (c) paragraph 4 were omitted.
 >
-> (4)[^key-cf5d60ca6ba5cc2dac4eb1182b001bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (4)[^c-cf5d60ca6ba5cc2dac4eb1182b001bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (5)[^key-197e0df510fa4c669861ffa03a79df53] Article 5 is to be read as if—
+> (5)[^c-197e0df510fa4c669861ffa03a79df53] Article 5 is to be read as if—
 >
 > - (a) in paragraph 1, for “Member States shall take appropriate measures to ensure that a” there were substituted “A”;
 > - (b) after paragraph 1 there were inserted—
@@ -425,7 +425,7 @@ In regulation 2(1) of the Recycling, Preparation for Re-use and Composting Targe
 >
 > (10) In paragraph (2) “**local authority**” means a county council or a county borough council.
 >
-> **2B. Meaning of the “Mining Waste Directive” ...[^key-3d8a74e7bb2e5ee4d64a35cf00b0bd2e]**
+> **2B. Meaning of the “Mining Waste Directive” ...[^c-3d8a74e7bb2e5ee4d64a35cf00b0bd2e]**
 >
 > (1) In regulation 2A(3)(a)(iii), “**the Mining Waste Directive**” means Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and of the Council on the management of waste from extractive industries, read in accordance with paragraphs (2) and (3).
 >
@@ -436,11 +436,11 @@ In regulation 2(1) of the Recycling, Preparation for Re-use and Composting Targe
 >
 > (3) Article 3(1) is to be read as if, for “Article 1(a) of Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442)” there were substituted “ Article 3(1) of the Waste Directive, as read with Articles 5 and 6 of that Directive ”.
 >
-> (4)[^key-b6ac611aebb34321d95b59d7f5c91420] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (4)[^c-b6ac611aebb34321d95b59d7f5c91420] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (5)[^key-b6ac611aebb34321d95b59d7f5c91420] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (5)[^c-b6ac611aebb34321d95b59d7f5c91420] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (6)[^key-b6ac611aebb34321d95b59d7f5c91420] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (6)[^c-b6ac611aebb34321d95b59d7f5c91420] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > (7) For the purposes of paragraph (2)(a), Article 11(3)(j) of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) is to be read as if—
 >
@@ -458,7 +458,7 @@ In regulation 2(1) of the Recycling, Preparation for Re-use and Composting Targe
   “**appropriate authority**” (“**awdurdod priodol**”) means the Welsh Ministers, NRBW or the Agency;”;
 - (b) after the definition of “**hazardous waste**” (“**gwastraff peryglus**”) insert—
 
-  “the Landfill Directive”[^key-577fbbb94e9e396cf981d3031b4ada99] *(“y Gyfarwyddeb Dirlenwi”)* means Council [Directive 1999/31/EC](https://www.legislation.gov.uk/eudr/1999/0031) on the landfill of waste, as last amended by Directive (EU) 2018/850, and read as if—
+  “the Landfill Directive”[^c-577fbbb94e9e396cf981d3031b4ada99] *(“y Gyfarwyddeb Dirlenwi”)* means Council [Directive 1999/31/EC](https://www.legislation.gov.uk/eudr/1999/0031) on the landfill of waste, as last amended by Directive (EU) 2018/850, and read as if—
 
   - (a) in Article 2—
     - (i) in point (a)—
@@ -507,19 +507,19 @@ In regulation 2(1) of the Recycling, Preparation for Re-use and Composting Targe
 
   .
 
-(7) In regulations 47(5B) and 48(6B) [^key-de21bdac935044664a1370df35792035]..., for “Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) on the landfill of waste as last amended by Council Directive 2011/97/EU” substitute “ the Landfill Directive ”.
+(7) In regulations 47(5B) and 48(6B) [^c-de21bdac935044664a1370df35792035]..., for “Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) on the landfill of waste as last amended by Council Directive 2011/97/EU” substitute “ the Landfill Directive ”.
 
 (8) In regulation 60(1), in the words before sub-paragraph (a), omit from “and” to “Directive”.
 
-### 9. The Recycling, Preparation for Re-use and Composting Targets (Monitoring and Penalties) (Wales) Regulations 2011[^key-7e739fd86cba56df2150f4a51fac2c1a]
+### 9. The Recycling, Preparation for Re-use and Composting Targets (Monitoring and Penalties) (Wales) Regulations 2011[^c-7e739fd86cba56df2150f4a51fac2c1a]
 
 (1) The Recycling, Preparation for Re-use and Composting Targets (Monitoring and Penalties) (Wales) Regulations 2011 [^c23613541] are amended as follows.
 
-(2) In regulation 2(1), in the definition of “**the Waste Framework Directive**” [^key-a1621931535607dcd690542d8373a3b9]..., at the end, insert “ and read in accordance with paragraphs (3) to (8) ”.
+(2) In regulation 2(1), in the definition of “**the Waste Framework Directive**” [^c-a1621931535607dcd690542d8373a3b9]..., at the end, insert “ and read in accordance with paragraphs (3) to (8) ”.
 
-(3) After regulation 2(2)[^key-3813afceeb2b956e4c8ebc226b5b948a] insert—
+(3) After regulation 2(2)[^c-3813afceeb2b956e4c8ebc226b5b948a] insert—
 
-> (3) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the Welsh Ministers, the Natural Resources Body for Wales or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020)[^key-348e8c170fc9ebbd2dc8c960beeb12d2], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
+> (3) A reference to one or more member States in a provision imposing an obligation or conferring a discretion on a member State or member States is to be read as a reference to the Welsh Ministers, the Natural Resources Body for Wales or local authority which, immediately before IP completion day (within the meaning given to that expression in the European Union (Withdrawal Agreement) Act 2020)[^c-348e8c170fc9ebbd2dc8c960beeb12d2], was responsible for the United Kingdom's compliance with that obligation or able to exercise that discretion in respect of Wales.
 >
 > (4) Article 2 is to be read as if—
 >
@@ -530,7 +530,7 @@ In regulation 2(1) of the Recycling, Preparation for Re-use and Composting Targe
 > - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
 > - (c) paragraph 4 were omitted.(5) Article 5 is to be read as if paragraph 2 were omitted.
 >
-> (5)[^key-aaeba8eb57306dff73a0bb3038c8a233] Article 5 is to be read as if—
+> (5)[^c-aaeba8eb57306dff73a0bb3038c8a233] Article 5 is to be read as if—
 >
 > - (a) in paragraph 1, for “Member States shall take appropriate measures to ensure that a” there were substituted “A”;
 > - (b) after paragraph 1 there were inserted—
@@ -629,9 +629,9 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23613251]: Marginal citation: [S.I.2010/1552](https://www.legislation.gov.uk/uksi/2010/1552).
 
-[^key-ef6b2174b4514aa3b502b3892b186d73]: Commencement: Reg. 1 in force at 22.3.2019, see reg. 1(2)(a)
+[^c-ef6b2174b4514aa3b502b3892b186d73]: Commencement: Reg. 1 in force at 22.3.2019, see reg. 1(2)(a)
 
-[^key-074519ab524d193ac3117de644a16941]: Commencement: Reg. 2 in force at 22.3.2019, see reg. 1(2)(a)
+[^c-074519ab524d193ac3117de644a16941]: Commencement: Reg. 2 in force at 22.3.2019, see reg. 1(2)(a)
 
 [^c23613261]: Marginal citation: 2010 nawm 8, to which there are amendments not relevant to these Regulations.
 
@@ -639,31 +639,31 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23613281]: Marginal citation: OJ No L 150, 14.6.2017, p 1.
 
-[^key-2084c98f9ce938a63cdced3d3f88152f]: Commencement: Reg. 3 in force at 22.3.2019, see reg. 1(2)(a)
+[^c-2084c98f9ce938a63cdced3d3f88152f]: Commencement: Reg. 3 in force at 22.3.2019, see reg. 1(2)(a)
 
 [^c23613291]: Marginal citation: [S.I. 2004/1490](https://www.legislation.gov.uk/uksi/2004/1490) (W. 155), as amended by [S.I. 2011/971](https://www.legislation.gov.uk/uksi/2011/971) (W. 141); there are other amending instruments but none is relevant to these Regulations.
 
-[^key-732708d4deecd437bdb101e6a70633c7]: Commencement: Reg. 4 in force at 22.3.2019, see reg. 1(2)(a)
+[^c-732708d4deecd437bdb101e6a70633c7]: Commencement: Reg. 4 in force at 22.3.2019, see reg. 1(2)(a)
 
 [^c23613301]: Marginal citation: [S.I. 2005/1806](https://www.legislation.gov.uk/uksi/2005/1806) (W. 138), as amended by [S.I. 2011/971](https://www.legislation.gov.uk/uksi/2011/971) (W. 141) and [S.I. 2018/721](https://www.legislation.gov.uk/uksi/2018/721) (W. 140); there are other amending instruments but none is relevant to these Regulations.
 
-[^key-a25f2cb8b013231b9140e2bbb650f6ba]: Commencement: Reg. 5 in force at 22.3.2019, see reg. 1(2)(a)
+[^c-a25f2cb8b013231b9140e2bbb650f6ba]: Commencement: Reg. 5 in force at 22.3.2019, see reg. 1(2)(a)
 
 [^c23613311]: Marginal citation: [S.I. 2011/1014](https://www.legislation.gov.uk/uksi/2011/1014) (W. 152), amended by [S.I. 2016/691](https://www.legislation.gov.uk/uksi/2016/691) (W. 189); there are other amending instruments but none is relevant to these Regulations.
 
-[^key-16f0d05004b983f3e447822f32e60060]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-16f0d05004b983f3e447822f32e60060]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23613321]: Marginal citation: 2010 nawm 8. Section 9A was inserted by the Environment (Wales) Act 2016, s 67.
 
-[^key-0cdc04a81bdd389bb7dabed3335e60b0]: Textual amendment: Reg. 6(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/a)
+[^c-0cdc04a81bdd389bb7dabed3335e60b0]: Textual amendment: Reg. 6(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/a)
 
-[^key-ed65d0191d525df2c486b42caf8eecb4]: Textual amendment: Reg. 6(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/b)
+[^c-ed65d0191d525df2c486b42caf8eecb4]: Textual amendment: Reg. 6(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/b)
 
-[^key-a7511749bf2090bc733281eb3c10a219]: Textual amendment: Words in reg. 6(4)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(c)(i)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/c/i)
+[^c-a7511749bf2090bc733281eb3c10a219]: Textual amendment: Words in reg. 6(4)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(c)(i)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/c/i)
 
-[^key-661f897827b51a9f49fc10a28e0c7a97]: Textual amendment: Words in reg. 6(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(c)(ii)(aa)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/c/ii/aa)
+[^c-661f897827b51a9f49fc10a28e0c7a97]: Textual amendment: Words in reg. 6(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(c)(ii)(aa)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/c/ii/aa)
 
-[^key-872768019048424e18de883c76b302b4]: Textual amendment: Words in reg. 6(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(c)(ii)(bb)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/c/ii/bb)
+[^c-872768019048424e18de883c76b302b4]: Textual amendment: Words in reg. 6(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(2)(c)(ii)(bb)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/2/c/ii/bb)
 
 [^c23613381]: Marginal citation: OJ No L 102, 11.4.2006, p 15, as amended by Regulation (EC) No 596/2009 of the European Parliament and of the Council (OJ No L 118, 18.7.2009, p 14).
 
@@ -671,54 +671,54 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23613401]: Marginal citation: [S.I. 2017/407](https://www.legislation.gov.uk/uksi/2017/407), to which there are amendments not relevant to these Regulations.
 
-[^key-c5e93a44efc9dc7aea81f6a78f41e153]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-c5e93a44efc9dc7aea81f6a78f41e153]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23613411]: Marginal citation: [S.I. 2004/1490](https://www.legislation.gov.uk/uksi/2004/1490) (W.155).
 
-[^key-b7061cf82ecdbd019992c97f350b915f]: Textual amendment: Reg. 7(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/a)
+[^c-b7061cf82ecdbd019992c97f350b915f]: Textual amendment: Reg. 7(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/a)
 
-[^key-330222415bceb95d07bebd07554c7c8f]: Textual amendment: Reg. 7(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/b)
+[^c-330222415bceb95d07bebd07554c7c8f]: Textual amendment: Reg. 7(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/b)
 
-[^key-d0c33649cbb19b9d1700ee6b644aac3b]: Textual amendment: Words in reg. 7(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(c)(i)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/c/i)
+[^c-d0c33649cbb19b9d1700ee6b644aac3b]: Textual amendment: Words in reg. 7(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(c)(i)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/c/i)
 
-[^key-c26a12eacb575b71d454c742d4911c14]: Textual amendment: Words in reg. 7(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(c)(ii)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/c/ii)
+[^c-c26a12eacb575b71d454c742d4911c14]: Textual amendment: Words in reg. 7(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(c)(ii)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/c/ii)
 
-[^key-45ef411e4864b8bef87d305b40fcf223]: Textual amendment: Words in reg. 7(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(c)(iii)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/c/iii)
+[^c-45ef411e4864b8bef87d305b40fcf223]: Textual amendment: Words in reg. 7(4) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(c)(iii)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/c/iii)
 
-[^key-2897b66234fd01fc07764f0fa3c84226]: Textual amendment: Words in reg. 7(6) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(d)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/d)
+[^c-2897b66234fd01fc07764f0fa3c84226]: Textual amendment: Words in reg. 7(6) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(d)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/d)
 
-[^key-d816f933f5595d586c79e83b59a0901a]: Textual amendment: Reg. 7(7) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(e)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/e)
+[^c-d816f933f5595d586c79e83b59a0901a]: Textual amendment: Reg. 7(7) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(3)(e)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/3/e)
 
-[^key-163c6687126413a52aca4efe11a59aab]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-163c6687126413a52aca4efe11a59aab]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23613451]: Marginal citation: [S.I. 2005/1806](https://www.legislation.gov.uk/uksi/2005/1806) (W.138).
 
-[^key-bbbe5c2cbfe5e8cadd4757e60b1c64b7]: Textual amendment: Words in reg. 8(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(a)(i)(aa)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/a/i/aa)
+[^c-bbbe5c2cbfe5e8cadd4757e60b1c64b7]: Textual amendment: Words in reg. 8(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(a)(i)(aa)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/a/i/aa)
 
-[^key-cf5d60ca6ba5cc2dac4eb1182b001bfc]: Textual amendment: Words in reg. 8(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(a)(i)(bb)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/a/i/bb)
+[^c-cf5d60ca6ba5cc2dac4eb1182b001bfc]: Textual amendment: Words in reg. 8(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(a)(i)(bb)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/a/i/bb)
 
-[^key-197e0df510fa4c669861ffa03a79df53]: Textual amendment: Words in reg. 8(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(a)(i)(cc)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/a/i/cc)
+[^c-197e0df510fa4c669861ffa03a79df53]: Textual amendment: Words in reg. 8(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(a)(i)(cc)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/a/i/cc)
 
-[^key-3d8a74e7bb2e5ee4d64a35cf00b0bd2e]: Textual amendment: Words in reg. 8(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(a)(ii)(aa)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/a/ii/aa)
+[^c-3d8a74e7bb2e5ee4d64a35cf00b0bd2e]: Textual amendment: Words in reg. 8(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(a)(ii)(aa)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/a/ii/aa)
 
-[^key-b6ac611aebb34321d95b59d7f5c91420]: Textual amendment: Words in reg. 8(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(a)(ii)(bb)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/a/ii/bb)
+[^c-b6ac611aebb34321d95b59d7f5c91420]: Textual amendment: Words in reg. 8(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(a)(ii)(bb)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/a/ii/bb)
 
-[^key-577fbbb94e9e396cf981d3031b4ada99]: Textual amendment: Words in reg. 8(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/b)
+[^c-577fbbb94e9e396cf981d3031b4ada99]: Textual amendment: Words in reg. 8(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/b)
 
 [^c23613521]: Marginal citation: [S.I. 2005/894](https://www.legislation.gov.uk/uksi/2005/894), amended by [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988), 2015/1360, 2016/738, 2018/575.
 
 [^c23613531]: Marginal citation: S.R. [2005 No. 300](https://www.legislation.gov.uk/ukcm/2005/300); relevant amending instruments are S.R [2011 No. 127](https://www.legislation.gov.uk/ukcm/2011/127) and S.R [2015 No. 288](https://www.legislation.gov.uk/ukcm/2015/288).
 
-[^key-de21bdac935044664a1370df35792035]: Textual amendment: Words in reg. 8(7) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(c)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/c)
+[^c-de21bdac935044664a1370df35792035]: Textual amendment: Words in reg. 8(7) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(4)(c)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/4/c)
 
-[^key-7e739fd86cba56df2150f4a51fac2c1a]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-7e739fd86cba56df2150f4a51fac2c1a]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23613541]: Marginal citation: [S.I. 2011/1014](https://www.legislation.gov.uk/uksi/2011/1014) (W.152), amended by [S.I.2016/691](https://www.legislation.gov.uk/uksi/2016/691) (W.189); there are other amending instruments but none is relevant.
 
-[^key-a1621931535607dcd690542d8373a3b9]: Textual amendment: Words in reg. 9(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/5/a)
+[^c-a1621931535607dcd690542d8373a3b9]: Textual amendment: Words in reg. 9(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/5/a)
 
-[^key-3813afceeb2b956e4c8ebc226b5b948a]: Textual amendment: Words in reg. 9(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(5)(b)(i)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/5/b/i)
+[^c-3813afceeb2b956e4c8ebc226b5b948a]: Textual amendment: Words in reg. 9(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(5)(b)(i)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/5/b/i)
 
-[^key-348e8c170fc9ebbd2dc8c960beeb12d2]: Textual amendment: Words in reg. 9(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(5)(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/5/b/ii)
+[^c-348e8c170fc9ebbd2dc8c960beeb12d2]: Textual amendment: Words in reg. 9(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(5)(b)(ii)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/5/b/ii)
 
-[^key-aaeba8eb57306dff73a0bb3038c8a233]: Textual amendment: Words in reg. 9(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(5)(b)(iii)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/5/b/iii)
+[^c-aaeba8eb57306dff73a0bb3038c8a233]: Textual amendment: Words in reg. 9(3) substituted (31.12.2020 immediately before IP completion day) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1339)](https://www.legislation.gov.uk/wsi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/1/3), [2(5)(b)(iii)](https://www.legislation.gov.uk/wsi/2020/1339/regulation/2/5/b/iii)

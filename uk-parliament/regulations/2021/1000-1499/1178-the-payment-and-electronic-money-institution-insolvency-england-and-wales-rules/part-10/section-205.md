@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 205. Hearings without notice[^key-1e6bac2ad17173506fcad55ee0206394]
+## 205. Hearings without notice[^c-1e6bac2ad17173506fcad55ee0206394]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ but nothing in those provisions is to be taken as prohibiting the applicant from
 
 ## Annotations
 
-[^key-1e6bac2ad17173506fcad55ee0206394]: Commencement: Rule 205 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-1e6bac2ad17173506fcad55ee0206394]: Commencement: Rule 205 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

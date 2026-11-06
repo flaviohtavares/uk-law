@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 175. Recovery of overpayment of benefits[^key-40497652201ee712fe2b36bdbb22b475]
+## 175. Recovery of overpayment of benefits[^c-40497652201ee712fe2b36bdbb22b475]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-40497652201ee712fe2b36bdbb22b475]: Commencement: Reg. 175 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-40497652201ee712fe2b36bdbb22b475]: Commencement: Reg. 175 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00072]: Footnote: Under section 9 of the 2013 Act the change in earnings to be applied in a period is the percentage increase or decrease as a Treasury order under that section may specify in relation to the period.

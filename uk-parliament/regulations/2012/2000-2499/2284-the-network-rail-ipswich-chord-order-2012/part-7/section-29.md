@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Defence to proceedings in respect of statutory nuisance[^key-0db953e20eea88d2411301cc7e27cecf]
+## 29. Defence to proceedings in respect of statutory nuisance[^c-0db953e20eea88d2411301cc7e27cecf]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0db953e20eea88d2411301cc7e27cecf]: Commencement: Art. 29 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-0db953e20eea88d2411301cc7e27cecf]: Commencement: Art. 29 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
 [^f00022]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to this Act which are not relevant to this Order.
 

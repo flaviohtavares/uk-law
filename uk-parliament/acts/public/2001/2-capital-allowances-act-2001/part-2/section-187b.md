@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187B. Section 187A: supplementary provision[^key-1683c13345e9f6eac96cb42afa7780c2]
+## 187B. Section 187A: supplementary provision[^c-1683c13345e9f6eac96cb42afa7780c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ the relevant earlier time does not include any time before the seller ceased to 
 
 ## Annotations
 
-[^key-1683c13345e9f6eac96cb42afa7780c2]: Textual amendment: Ss. 187A, 187B inserted (with effect in accordance with Sch. 10 paras. 11, 13 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/1)
+[^c-1683c13345e9f6eac96cb42afa7780c2]: Textual amendment: Ss. 187A, 187B inserted (with effect in accordance with Sch. 10 paras. 11, 13 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Procedure for making exemption orders[^key-688545d8ee0996022335a060aa84d3b7]
+## 184. Procedure for making exemption orders[^c-688545d8ee0996022335a060aa84d3b7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-688545d8ee0996022335a060aa84d3b7]: Textual amendment: S. 184 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 10 para. 30(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/30/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(p)](https://www.legislation.gov.uk/uksi/2015/994/article/11/p)
+[^c-688545d8ee0996022335a060aa84d3b7]: Textual amendment: S. 184 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 10 para. 30(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/10/paragraph/30/a); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(p)](https://www.legislation.gov.uk/uksi/2015/994/article/11/p)

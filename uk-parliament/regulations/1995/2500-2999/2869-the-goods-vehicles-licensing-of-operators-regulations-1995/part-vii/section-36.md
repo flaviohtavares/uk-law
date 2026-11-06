@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Meaning of “relevant weight"[^key-5fddf1bf8e0a8b479a92ef8bc6010622]
+## 36. Meaning of “relevant weight"[^c-5fddf1bf8e0a8b479a92ef8bc6010622]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fddf1bf8e0a8b479a92ef8bc6010622]: Commencement: Reg. 36 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)
+[^c-5fddf1bf8e0a8b479a92ef8bc6010622]: Commencement: Reg. 36 in force at 1.1.1996, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2869/regulation/1)

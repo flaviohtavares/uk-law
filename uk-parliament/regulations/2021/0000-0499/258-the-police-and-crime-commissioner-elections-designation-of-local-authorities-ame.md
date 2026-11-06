@@ -31,7 +31,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police and Crime Commissioner Elections (Designation of Local Authorities) (Amendment) Order 2021 (revoked)[^key-fdf240086588c65a110a60049d89f5aa]
+The Police and Crime Commissioner Elections (Designation of Local Authorities) (Amendment) Order 2021 (revoked)[^c-fdf240086588c65a110a60049d89f5aa]
 
 Made
 
@@ -39,26 +39,26 @@ Made
 
 Coming into force in accordance with article 1(2)
 
-[^key-fdf240086588c65a110a60049d89f5aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdf240086588c65a110a60049d89f5aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fdf240086588c65a110a60049d89f5aa]
+## 1. Citation and commencement[^c-fdf240086588c65a110a60049d89f5aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of 2020 Order[^key-fdf240086588c65a110a60049d89f5aa]
+## 2. Amendment of 2020 Order[^c-fdf240086588c65a110a60049d89f5aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitory provision[^key-fdf240086588c65a110a60049d89f5aa]
+## 3. Transitory provision[^c-fdf240086588c65a110a60049d89f5aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fdf240086588c65a110a60049d89f5aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdf240086588c65a110a60049d89f5aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fdf240086588c65a110a60049d89f5aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fdf240086588c65a110a60049d89f5aa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fdf240086588c65a110a60049d89f5aa]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/258) revoked (22.2.2024) by [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) Order 2024 (S.I. 2024/186)](https://www.legislation.gov.uk/uksi/2024/186), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1), [7(1)(c)](https://www.legislation.gov.uk/uksi/2024/186/article/7/1/c) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/186/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2024/186/article/7/3))
+[^c-fdf240086588c65a110a60049d89f5aa]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/258) revoked (22.2.2024) by [The Police and Crime Commissioner Elections (Designation of Local Authorities and Police Area Returning Officers) Order 2024 (S.I. 2024/186)](https://www.legislation.gov.uk/uksi/2024/186), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/186/article/1/1), [7(1)(c)](https://www.legislation.gov.uk/uksi/2024/186/article/7/1/c) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/186/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2024/186/article/7/3))

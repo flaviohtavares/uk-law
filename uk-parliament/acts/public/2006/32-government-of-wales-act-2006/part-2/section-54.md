@@ -22,7 +22,7 @@ summary: ''
 
 (1) Different provision may be made under section 53 for different cases.
 
-(2) The[^c20932261] Senedd[^key-60edd79c70d763519861630d1afb7962] Commission must ensure that information concerning—
+(2) The[^c20932261] Senedd[^c-60edd79c70d763519861630d1afb7962] Commission must ensure that information concerning—
 
 - (a) the amounts paid to each person to whom section 53 applies as salary and allowances, and
 - (b) the total amount paid to such persons as salaries and allowances,
@@ -39,7 +39,7 @@ is published for each financial year [^c21073601]. . .
 
 [^c20932261]: Textual amendment: Words in s. 54(2) substituted (24.9.2010) by virtue of [National Assembly for Wales (Remuneration) Measure 2010 (nawm 4)](https://www.legislation.gov.uk/mwa/2010/4), [ss. 16](https://www.legislation.gov.uk/mwa/2010/4/section/16), [20(3)(4)](https://www.legislation.gov.uk/mwa/2010/4/section/20/3/4), [Sch. 3 para. 17](https://www.legislation.gov.uk/mwa/2010/4/schedule/3/paragraph/17) (with [s. 19](https://www.legislation.gov.uk/mwa/2010/4/section/19)) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
 [^c21073601]: Textual amendment: Words in s. 54(2) omitted (24.9.2010) by virtue of [National Assembly for Wales (Remuneration) Measure 2010 (nawm 4)](https://www.legislation.gov.uk/mwa/2010/4), [ss. 16](https://www.legislation.gov.uk/mwa/2010/4/section/16), [20(3)(4)](https://www.legislation.gov.uk/mwa/2010/4/section/20/3/4), [Sch. 3 para. 17](https://www.legislation.gov.uk/mwa/2010/4/schedule/3/paragraph/17) (with [s. 19](https://www.legislation.gov.uk/mwa/2010/4/section/19)) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
 

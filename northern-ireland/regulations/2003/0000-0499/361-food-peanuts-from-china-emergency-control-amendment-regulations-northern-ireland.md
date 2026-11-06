@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Food (Peanuts from China) (Emergency Control) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-6f44eb2c2fb2eb47deacad7c29b54740]
+Food (Peanuts from China) (Emergency Control) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-6f44eb2c2fb2eb47deacad7c29b54740]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 1st August 2003
 
-[^key-6f44eb2c2fb2eb47deacad7c29b54740]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f44eb2c2fb2eb47deacad7c29b54740]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6f44eb2c2fb2eb47deacad7c29b54740]
+## 1. Citation and commencement[^c-6f44eb2c2fb2eb47deacad7c29b54740]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Food (Peanuts from China) (Emergency Control) Regulations (Northern Ireland) 2002[^key-6f44eb2c2fb2eb47deacad7c29b54740]
+## 2. Amendment to the Food (Peanuts from China) (Emergency Control) Regulations (Northern Ireland) 2002[^c-6f44eb2c2fb2eb47deacad7c29b54740]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f44eb2c2fb2eb47deacad7c29b54740]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f44eb2c2fb2eb47deacad7c29b54740]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f44eb2c2fb2eb47deacad7c29b54740]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f44eb2c2fb2eb47deacad7c29b54740]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f44eb2c2fb2eb47deacad7c29b54740]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/361) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)
+[^c-6f44eb2c2fb2eb47deacad7c29b54740]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/361) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)

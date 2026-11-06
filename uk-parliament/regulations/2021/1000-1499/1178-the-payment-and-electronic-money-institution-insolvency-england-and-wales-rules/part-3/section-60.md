@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Requisite majorities at contributories’ meetings[^key-6056329e429f2003cdf175d3cc0d9f73]
+## 60. Requisite majorities at contributories’ meetings[^c-6056329e429f2003cdf175d3cc0d9f73]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ At a meeting of contributories, voting rights are as at a general meeting of the
 
 ## Annotations
 
-[^key-6056329e429f2003cdf175d3cc0d9f73]: Commencement: Rule 60 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-6056329e429f2003cdf175d3cc0d9f73]: Commencement: Rule 60 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

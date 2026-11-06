@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Disqualification of persons suffering from disability[^key-5de92a67d365d0fca6ab1f73989b93f7]
+## 18. Disqualification of persons suffering from disability[^c-5de92a67d365d0fca6ab1f73989b93f7]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5de92a67d365d0fca6ab1f73989b93f7]: Textual amendment: Art. 18 repealed (1.10.2012) by [The Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/308)](https://www.legislation.gov.uk/nisr/2012/308), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/308/article/1/1), [13](https://www.legislation.gov.uk/nisr/2012/308/article/13) (with [Sch. 3](https://www.legislation.gov.uk/nisr/2012/308/schedule/3))
+[^c-5de92a67d365d0fca6ab1f73989b93f7]: Textual amendment: Art. 18 repealed (1.10.2012) by [The Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/308)](https://www.legislation.gov.uk/nisr/2012/308), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/308/article/1/1), [13](https://www.legislation.gov.uk/nisr/2012/308/article/13) (with [Sch. 3](https://www.legislation.gov.uk/nisr/2012/308/schedule/3))

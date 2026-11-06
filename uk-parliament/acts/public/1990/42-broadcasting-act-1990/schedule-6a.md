@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 6A — The S4C Board[^key-64e3e2c01ebbcd5d117ec61553e25bdb]
+## Schedule 6A — The S4C Board[^c-64e3e2c01ebbcd5d117ec61553e25bdb]
 
 *Extent: E+W+S+N.I.*
 
@@ -126,4 +126,4 @@ Section 56A
 
 ## Annotations
 
-[^key-64e3e2c01ebbcd5d117ec61553e25bdb]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/ukpga/1990/42/schedule/6A) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 33(4)](https://www.legislation.gov.uk/ukpga/2024/15/section/33/4), [55(3)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/b); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/k)
+[^c-64e3e2c01ebbcd5d117ec61553e25bdb]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/ukpga/1990/42/schedule/6A) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 33(4)](https://www.legislation.gov.uk/ukpga/2024/15/section/33/4), [55(3)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/b); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/k)

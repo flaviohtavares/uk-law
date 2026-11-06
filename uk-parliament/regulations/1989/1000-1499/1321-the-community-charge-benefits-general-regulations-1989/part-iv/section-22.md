@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Deduction of tax and contributions for self-employed earners[^key-815b98803c6a3c79c2e489866d52635d]
+## 22. Deduction of tax and contributions for self-employed earners[^c-815b98803c6a3c79c2e489866d52635d]
 
 *Extent: E+W+S*
 
-(1) The amount to be deducted in respect of income tax under regulation 21(1)(b)(i), (3)(b)(i) or (9)(a)(i) (calculation of net profit of self-employed earners) shall be calculated on the basis of the amount of chargeable income and as if that income were assessable to income tax at the lower rate or, as the case may be, the lower rate and the basic rate of tax[^key-2474de62542edebfcb47cba304a8f04c] in the year of assessment in which the claim was made less only the personal relief to which the claimant is entitled under sections 257(1), (6) and (7) and 259(1)(a) and (2) of the Income and Corporation Taxes Act 1988[^f00052] (personal relief) as is appropriate to his circumstances; but, if the assessment period is less than a year, the earnings to which the lower rate and, if appropriate, the basic rate of tax is to be applied and[^key-5bf7155070651ba0fb3e359f1f6e3803] the amount of the personal relief deductible under this paragraph shall be calculated on a pro-rata basis.
+(1) The amount to be deducted in respect of income tax under regulation 21(1)(b)(i), (3)(b)(i) or (9)(a)(i) (calculation of net profit of self-employed earners) shall be calculated on the basis of the amount of chargeable income and as if that income were assessable to income tax at the lower rate or, as the case may be, the lower rate and the basic rate of tax[^c-2474de62542edebfcb47cba304a8f04c] in the year of assessment in which the claim was made less only the personal relief to which the claimant is entitled under sections 257(1), (6) and (7) and 259(1)(a) and (2) of the Income and Corporation Taxes Act 1988[^f00052] (personal relief) as is appropriate to his circumstances; but, if the assessment period is less than a year, the earnings to which the lower rate and, if appropriate, the basic rate of tax is to be applied and[^c-5bf7155070651ba0fb3e359f1f6e3803] the amount of the personal relief deductible under this paragraph shall be calculated on a pro-rata basis.
 
 (2) The amount to be deducted in respect of social security contributions under regulation 21(1)(b)(i), (3)(b)(ii) or (9)(a)(ii) shall be the total of–
 
@@ -34,13 +34,13 @@ summary: ''
 
 ## Annotations
 
-[^key-815b98803c6a3c79c2e489866d52635d]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1989/1321/regulation/22) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-815b98803c6a3c79c2e489866d52635d]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1989/1321/regulation/22) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
-[^key-2474de62542edebfcb47cba304a8f04c]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/22/1) substituted (5.10.1992) by [The Housing Benefit and Community Charge Benefits (Miscellaneous Amendments) (No.2) Regulations 1992 (S.I. 1992/2148)](https://www.legislation.gov.uk/uksi/1992/2148), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/2148/regulation/1/made), [17(a)](https://www.legislation.gov.uk/uksi/1992/2148/regulation/17/a/made)
+[^c-2474de62542edebfcb47cba304a8f04c]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/22/1) substituted (5.10.1992) by [The Housing Benefit and Community Charge Benefits (Miscellaneous Amendments) (No.2) Regulations 1992 (S.I. 1992/2148)](https://www.legislation.gov.uk/uksi/1992/2148), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/2148/regulation/1/made), [17(a)](https://www.legislation.gov.uk/uksi/1992/2148/regulation/17/a/made)
 
 [^f00052]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-5bf7155070651ba0fb3e359f1f6e3803]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/22/1) inserted (5.10.1992) by [The Housing Benefit and Community Charge Benefits (Miscellaneous Amendments) (No.2) Regulations 1992 (S.I. 1992/2148)](https://www.legislation.gov.uk/uksi/1992/2148), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/2148/regulation/1/made), [17(b)](https://www.legislation.gov.uk/uksi/1992/2148/regulation/17/b/made)
+[^c-5bf7155070651ba0fb3e359f1f6e3803]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/22/1) inserted (5.10.1992) by [The Housing Benefit and Community Charge Benefits (Miscellaneous Amendments) (No.2) Regulations 1992 (S.I. 1992/2148)](https://www.legislation.gov.uk/uksi/1992/2148), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1992/2148/regulation/1/made), [17(b)](https://www.legislation.gov.uk/uksi/1992/2148/regulation/17/b/made)
 
 [^f00053]: Footnote: Section 7(1) was amended by section 2(4) of the Education (School-Leaving Dates) Act [1976 (c. 5)](https://www.legislation.gov.uk/ukpga/1976/5), section 17(1) of the Health and Social Security Act [1984 (c. 48)](https://www.legislation.gov.uk/ukpga/1984/48), and article 3 of S.I. [1989/26](https://www.legislation.gov.uk/uksi/1989/26).
 

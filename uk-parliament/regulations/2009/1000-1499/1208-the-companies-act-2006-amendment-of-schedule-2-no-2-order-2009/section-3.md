@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Revocation[^key-1125eb2580e097cfbe9256360497cc1c]
+## 3. Revocation[^c-1125eb2580e097cfbe9256360497cc1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Companies Act 2006 (Amendment of Schedule 2) Order 2009[^f00002] is revoked.
 
 ## Annotations
 
-[^key-1125eb2580e097cfbe9256360497cc1c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/1208/article/3) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)
+[^c-1125eb2580e097cfbe9256360497cc1c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/1208/article/3) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2009/202](https://www.legislation.gov.uk/uksi/2009/202).

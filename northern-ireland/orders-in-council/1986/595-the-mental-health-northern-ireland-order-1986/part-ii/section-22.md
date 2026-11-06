@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where a guardianship application, duly made in accordance with the provisions of this Part and forwarded to the responsible authority[^c17123241] within the period allowed by paragraph (2), is accepted by that authority, the application shall, subject to regulations, confer on the [^key-ae16f9f93977f5323cfe542f587e329b]... authorised HSC[^c21355291] trust or person named in the application as guardian, to the exclusion of any other person—
+(1) Where a guardianship application, duly made in accordance with the provisions of this Part and forwarded to the responsible authority[^c17123241] within the period allowed by paragraph (2), is accepted by that authority, the application shall, subject to regulations, confer on the [^c-ae16f9f93977f5323cfe542f587e329b]... authorised HSC[^c21355291] trust or person named in the application as guardian, to the exclusion of any other person—
 
-- (a) the power to require the patient to reside at a place specified by the[^key-ae16f9f93977f5323cfe542f587e329b]... authorised HSC trust or person named as guardian;
+- (a) the power to require the patient to reside at a place specified by the[^c-ae16f9f93977f5323cfe542f587e329b]... authorised HSC trust or person named as guardian;
 - (b) the power to require the patient to attend at places and times so specified for the purpose of medical treatment, occupation, education or training;
 - (c) the power to require access to the patient to be given at any place where the patient is residing to any medical practitioner, approved social worker or other person so specified.
 
@@ -41,7 +41,7 @@ summary: ''
 
 [^c17123241]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/1994/ni2)
 
-[^key-ae16f9f93977f5323cfe542f587e329b]: Textual amendment: Word in [art. 22(1)](https://www.legislation.gov.uk/nisi/1986/595/article/22/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 71](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/71); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ae16f9f93977f5323cfe542f587e329b]: Textual amendment: Word in [art. 22(1)](https://www.legislation.gov.uk/nisi/1986/595/article/22/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 71](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/71); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c21355291]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(d)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/d) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 

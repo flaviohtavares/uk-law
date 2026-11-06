@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Interpretation[^key-dbcd0d6cf5e6cdca9591c25726137e4a]
+## 86. Interpretation[^c-dbcd0d6cf5e6cdca9591c25726137e4a]
 
 *Extent: E+W*
 
@@ -84,4 +84,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-dbcd0d6cf5e6cdca9591c25726137e4a]: Commencement: S. 86 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-dbcd0d6cf5e6cdca9591c25726137e4a]: Commencement: S. 86 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

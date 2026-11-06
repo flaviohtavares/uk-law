@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 223. Service of notices following appointment[^key-58606c78aa847993ce8fac4b65217747]
+## 223. Service of notices following appointment[^c-58606c78aa847993ce8fac4b65217747]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.46 of the 1986 Rules.
 
 ## Annotations
 
-[^key-58606c78aa847993ce8fac4b65217747]: Commencement: Rule 223 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-58606c78aa847993ce8fac4b65217747]: Commencement: Rule 223 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

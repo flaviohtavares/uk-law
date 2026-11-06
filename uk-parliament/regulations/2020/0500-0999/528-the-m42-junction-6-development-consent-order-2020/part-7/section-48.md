@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Removal of human remains[^key-72da55c177b528264c0fb97774171d13]
+## 48. Removal of human remains[^c-72da55c177b528264c0fb97774171d13]
 
 *Extent: E+W*
 
@@ -93,7 +93,7 @@ and in section 240(1) (provisions supplemental to ss. 238 and 239) of the 1990 A
 
 ## Annotations
 
-[^key-72da55c177b528264c0fb97774171d13]: Commencement: Art. 48 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-72da55c177b528264c0fb97774171d13]: Commencement: Art. 48 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
 [^f00071]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81).
 

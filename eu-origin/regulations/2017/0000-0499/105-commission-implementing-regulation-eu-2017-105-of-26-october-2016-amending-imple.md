@@ -34,7 +34,7 @@ amending Implementing Regulation (EU) No 1247/2012 laying down implementing tech
 
 (Text with EEA relevance)
 
-[^key-d55d671408e3b7e8594d567e5eb46265]
+[^c-d55d671408e3b7e8594d567e5eb46265]
 
 THE EUROPEAN COMMISSION,
 
@@ -428,7 +428,7 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Commission Implementing Regulation (EU) 2017/105 of 19 October 2016 amending Implementing Regulation (EU) No 1247/2012 laying down implementing technical standards with regard to the format and frequency of trade reports to trade repositories according to Regulation (EU) No 648/2012 of the European Parliament and of the Council on OTC derivatives, central counterparties and trade repositories (Official Journal of the European Union L 17 of 21 January 2017)](https://www.legislation.gov.uk/eur/2017/105/pdfs/eurcs_20170105_en_001.pdf).
 
-[^key-d55d671408e3b7e8594d567e5eb46265]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-d55d671408e3b7e8594d567e5eb46265]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 201, 27.7.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.201.01.0001.01.ENG).
 

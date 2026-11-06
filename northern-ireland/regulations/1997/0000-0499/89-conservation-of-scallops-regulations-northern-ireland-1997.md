@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture, in exercise of the powers conferred on it by sections 19(1), 124(1) and (2) of the Fisheries Act (Northern Ireland) 1966[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-2de502fa7cade288c9d8e1a6820b6caf]
+## 1. Citation and commencement[^c-2de502fa7cade288c9d8e1a6820b6caf]
 
 These Regulations may be cited as the Conservation of Scallops Regulations (Northern Ireland) 1997 and shall come into operation on 31st March 1997.
 
-## 2. Interpretation[^key-f381e25ac390594056e01eea18cf1d72]
+## 2. Interpretation[^c-f381e25ac390594056e01eea18cf1d72]
 
 In these Regulations:—
 
@@ -58,7 +58,7 @@ In these Regulations:—
 - “scallop dredge” includes any appliance with a rigid framed mouth which is towed through the water and is manufactured, adapted, used or intended for use for the purpose of fishing for scallops or other shell fish;
 - “width” in relation to any scallop dredge means the distance across the mouth of a dredge when measured horizontally.
 
-## 3. Prohibition of fishing and fishing methods[^key-51f3dc0f901008fb250f85a16552deb0]
+## 3. Prohibition of fishing and fishing methods[^c-51f3dc0f901008fb250f85a16552deb0]
 
 (1) The prohibitions in this regulation are subject to the exceptions in regulation 4.
 
@@ -79,7 +79,7 @@ In these Regulations:—
 
 (6) A person shall not, in waters within British fishery limits which are adjacent to Northern Ireland, take and retain on board scallops which are more than 1% by weight of the total of all catches on board.
 
-## 4. Exceptions[^key-b5f1b3be5cb80aeb7046a4bfb1b15fa0]
+## 4. Exceptions[^c-b5f1b3be5cb80aeb7046a4bfb1b15fa0]
 
 The prohibitions contained in these Regulations shall not apply to any person who is not a British citizen or to any person who is operating under the authority of and in accordance with the terms and conditions of a fish culture licence granted under section 11 of the Act or a permit granted under section 14 of the Act.
 
@@ -116,10 +116,10 @@ The Regulations prohibit:—
 
 [^f00001]: Footnote: [1966 c. 17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17); the relevant amendment to which is S.I. [1981/227 (N.I. 7)](https://www.legislation.gov.uk/nisi/1981/227) Art. 6
 
-[^key-2de502fa7cade288c9d8e1a6820b6caf]: Commencement: Reg. 1 in operation at 31.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/89/regulation/1)
+[^c-2de502fa7cade288c9d8e1a6820b6caf]: Commencement: Reg. 1 in operation at 31.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/89/regulation/1)
 
-[^key-f381e25ac390594056e01eea18cf1d72]: Commencement: Reg. 2 in operation at 31.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/89/regulation/1)
+[^c-f381e25ac390594056e01eea18cf1d72]: Commencement: Reg. 2 in operation at 31.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/89/regulation/1)
 
-[^key-51f3dc0f901008fb250f85a16552deb0]: Commencement: Reg. 3 in operation at 31.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/89/regulation/1)
+[^c-51f3dc0f901008fb250f85a16552deb0]: Commencement: Reg. 3 in operation at 31.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/89/regulation/1)
 
-[^key-b5f1b3be5cb80aeb7046a4bfb1b15fa0]: Commencement: Reg. 4 in operation at 31.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/89/regulation/1)
+[^c-b5f1b3be5cb80aeb7046a4bfb1b15fa0]: Commencement: Reg. 4 in operation at 31.3.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/89/regulation/1)

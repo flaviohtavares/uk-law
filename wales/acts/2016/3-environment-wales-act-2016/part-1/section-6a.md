@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6A. Evaluation of action to maintain and enhance biodiversity[^key-6aadf8e0069bf83daf77408237feb1d3]
+## 6A. Evaluation of action to maintain and enhance biodiversity[^c-6aadf8e0069bf83daf77408237feb1d3]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6aadf8e0069bf83daf77408237feb1d3]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/anaw/2016/3/section/6A) inserted (27.6.2026) by [Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4)](https://www.legislation.gov.uk/asc/2026/4), [ss. 39(1)](https://www.legislation.gov.uk/asc/2026/4/section/39/1), [46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)
+[^c-6aadf8e0069bf83daf77408237feb1d3]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/anaw/2016/3/section/6A) inserted (27.6.2026) by [Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026 (asc 4)](https://www.legislation.gov.uk/asc/2026/4), [ss. 39(1)](https://www.legislation.gov.uk/asc/2026/4/section/39/1), [46(2)(f)](https://www.legislation.gov.uk/asc/2026/4/section/46/2/f)

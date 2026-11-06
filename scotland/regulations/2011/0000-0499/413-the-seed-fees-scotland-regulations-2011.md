@@ -32,7 +32,7 @@ summary: ''
 
 Seeds
 
-The Seed (Fees) (Scotland) Regulations 2011 (revoked)[^key-e16226adfda34b885b5fe84047c15a70]
+The Seed (Fees) (Scotland) Regulations 2011 (revoked)[^c-e16226adfda34b885b5fe84047c15a70]
 
 Made
 
@@ -46,51 +46,51 @@ Coming into force
 
 1st January 2012
 
-[^key-e16226adfda34b885b5fe84047c15a70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e16226adfda34b885b5fe84047c15a70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-e16226adfda34b885b5fe84047c15a70]
+## 1. Citation, commencement and extent[^c-e16226adfda34b885b5fe84047c15a70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e16226adfda34b885b5fe84047c15a70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e16226adfda34b885b5fe84047c15a70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-e16226adfda34b885b5fe84047c15a70]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Fees for matters set out in Schedule 1[^key-e16226adfda34b885b5fe84047c15a70]
+## 3. Interpretation[^c-e16226adfda34b885b5fe84047c15a70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Fees for matters set out in Schedule 2[^key-e16226adfda34b885b5fe84047c15a70]
+## 4. Fees for matters set out in Schedule 1[^c-e16226adfda34b885b5fe84047c15a70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Reduced or additional fees[^key-e16226adfda34b885b5fe84047c15a70]
+## 5. Fees for matters set out in Schedule 2[^c-e16226adfda34b885b5fe84047c15a70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Exemptions[^key-e16226adfda34b885b5fe84047c15a70]
+## 6. Reduced or additional fees[^c-e16226adfda34b885b5fe84047c15a70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocations[^key-e16226adfda34b885b5fe84047c15a70]
+## 7. Exemptions[^c-e16226adfda34b885b5fe84047c15a70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e16226adfda34b885b5fe84047c15a70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 8. Revocations[^c-e16226adfda34b885b5fe84047c15a70]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-e16226adfda34b885b5fe84047c15a70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — FEES FOR MATTERS RELATING TO THE SEED MARKETING REGULATIONS[^key-e16226adfda34b885b5fe84047c15a70]
+## SCHEDULE 1 — FEES FOR MATTERS RELATING TO THE SEED MARKETING REGULATIONS[^c-e16226adfda34b885b5fe84047c15a70]
 
 Regulation 4(2)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — FEES FOR MATTERS RELATING TO THE 2006 REGULATIONS[^key-e16226adfda34b885b5fe84047c15a70]
+## SCHEDULE 2 — FEES FOR MATTERS RELATING TO THE 2006 REGULATIONS[^c-e16226adfda34b885b5fe84047c15a70]
 
 Regulation 5(2)(a)
 
@@ -98,8 +98,8 @@ Regulation 5(2)(a)
 
 **May not be in force at this date. Check the source.**
 
-[^key-e16226adfda34b885b5fe84047c15a70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e16226adfda34b885b5fe84047c15a70]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e16226adfda34b885b5fe84047c15a70]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/413) revoked (18.8.2014) by [The Seed (Fees) (Scotland) Regulations 2014 (S.S.I. 2014/167)](https://www.legislation.gov.uk/ssi/2014/167), [regs. 1](https://www.legislation.gov.uk/ssi/2014/167/regulation/1), [7](https://www.legislation.gov.uk/ssi/2014/167/regulation/7)
+[^c-e16226adfda34b885b5fe84047c15a70]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2011/413) revoked (18.8.2014) by [The Seed (Fees) (Scotland) Regulations 2014 (S.S.I. 2014/167)](https://www.legislation.gov.uk/ssi/2014/167), [regs. 1](https://www.legislation.gov.uk/ssi/2014/167/regulation/1), [7](https://www.legislation.gov.uk/ssi/2014/167/regulation/7)

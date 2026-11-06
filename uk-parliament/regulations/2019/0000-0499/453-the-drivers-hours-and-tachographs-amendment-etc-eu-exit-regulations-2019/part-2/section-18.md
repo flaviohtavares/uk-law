@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18.[^key-334d5adb37cc1127aa9443c989f19508]
+## 18.[^c-334d5adb37cc1127aa9443c989f19508]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ In section 99ZE(2)(a) [^c23620731], for “or section 97” substitute “ , the
 
 ## Annotations
 
-[^key-334d5adb37cc1127aa9443c989f19508]: Commencement: Reg. 18 in force at 26.3.2019, see reg. 1(2)
+[^c-334d5adb37cc1127aa9443c989f19508]: Commencement: Reg. 18 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620731]: Marginal citation: Section 99ZE was inserted by [S.I. 2005/1904](https://www.legislation.gov.uk/uksi/2005/1904) and amended by [S.I. 2016/248](https://www.legislation.gov.uk/uksi/2016/248).

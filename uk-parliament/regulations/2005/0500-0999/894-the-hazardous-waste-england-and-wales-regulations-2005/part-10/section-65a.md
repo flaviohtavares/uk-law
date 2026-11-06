@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65A. Civil sanctions[^key-19c83e786229fa17ccaeb6ee4d8762d2]
+## 65A. Civil sanctions[^c-19c83e786229fa17ccaeb6ee4d8762d2]
 
 *Extent: E+W*
 
@@ -28,9 +28,9 @@ Table of civil sanctions
 | --- | --- | --- | --- | --- | --- |
 | regulation 19 | Yes | Yes | Yes | Yes | Yes |
 | regulation 20 | Yes | Yes | Yes | Yes | Yes |
-| [^key-1dcb96e4abffa8ba61b9c1a065736b52]. . . | [^key-1dcb96e4abffa8ba61b9c1a065736b52]. . . | [^key-1dcb96e4abffa8ba61b9c1a065736b52]. . . | [^key-1dcb96e4abffa8ba61b9c1a065736b52]. . . | [^key-1dcb96e4abffa8ba61b9c1a065736b52]. . . | [^key-1dcb96e4abffa8ba61b9c1a065736b52]. . . |
+| [^c-1dcb96e4abffa8ba61b9c1a065736b52]. . . | [^c-1dcb96e4abffa8ba61b9c1a065736b52]. . . | [^c-1dcb96e4abffa8ba61b9c1a065736b52]. . . | [^c-1dcb96e4abffa8ba61b9c1a065736b52]. . . | [^c-1dcb96e4abffa8ba61b9c1a065736b52]. . . | [^c-1dcb96e4abffa8ba61b9c1a065736b52]. . . |
 | regulation 34 | Yes | No | Yes | No | Yes |
-| regulations 35 to 43[^key-0160e42717683020a2cd05635a6e38df] | Yes | No | Yes | No | Yes |
+| regulations 35 to 43[^c-0160e42717683020a2cd05635a6e38df] | Yes | No | Yes | No | Yes |
 | regulation 46 and Schedule 7 | Yes | No | Yes | No | Yes |
 | regulation 47 | Yes | No | Yes | No | Yes |
 | regulation 48 | Yes | No | Yes | No | Yes |
@@ -51,8 +51,8 @@ Table of civil sanctions
 
 ## Annotations
 
-[^key-19c83e786229fa17ccaeb6ee4d8762d2]: Textual amendment: Reg. 65A inserted (6.4.2010) by [The Environmental Civil Sanctions (Miscellaneous Amendments) (England) Regulations 2010 (S.I. 2010/1159)](https://www.legislation.gov.uk/uksi/2010/1159), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1159/regulation/1), [6](https://www.legislation.gov.uk/uksi/2010/1159/regulation/6)
+[^c-19c83e786229fa17ccaeb6ee4d8762d2]: Textual amendment: Reg. 65A inserted (6.4.2010) by [The Environmental Civil Sanctions (Miscellaneous Amendments) (England) Regulations 2010 (S.I. 2010/1159)](https://www.legislation.gov.uk/uksi/2010/1159), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1159/regulation/1), [6](https://www.legislation.gov.uk/uksi/2010/1159/regulation/6)
 
-[^key-1dcb96e4abffa8ba61b9c1a065736b52]: Textual amendment: Words in [reg. 65A(1)](https://www.legislation.gov.uk/uksi/2005/894/regulation/65A/1) omitted (1.4.2016) by virtue of [The Hazardous Waste (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/336)](https://www.legislation.gov.uk/uksi/2016/336), [regs. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2016/336/regulation/2/6)
+[^c-1dcb96e4abffa8ba61b9c1a065736b52]: Textual amendment: Words in [reg. 65A(1)](https://www.legislation.gov.uk/uksi/2005/894/regulation/65A/1) omitted (1.4.2016) by virtue of [The Hazardous Waste (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/336)](https://www.legislation.gov.uk/uksi/2016/336), [regs. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2016/336/regulation/2/6)
 
-[^key-0160e42717683020a2cd05635a6e38df]: Textual amendment: Word in reg. 65A(1) substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/26) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-0160e42717683020a2cd05635a6e38df]: Textual amendment: Word in reg. 65A(1) substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/26) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))

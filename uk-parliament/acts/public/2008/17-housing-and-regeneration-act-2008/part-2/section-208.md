@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208. Inquiry: evidence[^key-93072ccb41fdc8dcbc071304d9e0df9b]
+## 208. Inquiry: evidence[^c-93072ccb41fdc8dcbc071304d9e0df9b]
 
 *Extent: E+W*
 
@@ -26,10 +26,10 @@ summary: ''
 
 (3) The power under subsection (1) may be exercised only in relation to documents and information of a kind in respect of which the regulator can impose a requirement under section 107.
 
-(4) Sections 107(2A) to (4) and (5) to (7)[^key-b4dfe54e2bc86f3d284a3f8c0bf1f19e] and 108 apply for the purposes of this section (with any necessary modifications).
+(4) Sections 107(2A) to (4) and (5) to (7)[^c-b4dfe54e2bc86f3d284a3f8c0bf1f19e] and 108 apply for the purposes of this section (with any necessary modifications).
 
 ## Annotations
 
-[^key-93072ccb41fdc8dcbc071304d9e0df9b]: Commencement: S. 208 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-93072ccb41fdc8dcbc071304d9e0df9b]: Commencement: S. 208 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-b4dfe54e2bc86f3d284a3f8c0bf1f19e]: Textual amendment: Words in [s. 208(4)](https://www.legislation.gov.uk/ukpga/2008/17/section/208/4) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/22); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/z)
+[^c-b4dfe54e2bc86f3d284a3f8c0bf1f19e]: Textual amendment: Words in [s. 208(4)](https://www.legislation.gov.uk/ukpga/2008/17/section/208/4) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/22); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/z)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Effect of non-incorporation and modification of supplementary provisions[^key-b0ca6aabf1a33731690b852969f8c08f]
+## 25. Effect of non-incorporation and modification of supplementary provisions[^c-b0ca6aabf1a33731690b852969f8c08f]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0ca6aabf1a33731690b852969f8c08f]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2016/1/section/25) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-b0ca6aabf1a33731690b852969f8c08f]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2016/1/section/25) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

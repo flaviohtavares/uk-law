@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Agriculture and Rural Development[^f00001], in exercise of the powers conferred on it by Article 8 of the Diseases of Animals (Northern Ireland) Order 1981[^f00002] and of every other power enabling it in that behalf, having consulted with the bodies which appeared to it to be substantially representative of the interests concerned and with the approval of the Department of Finance and Personnel, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-1e80263c09e991a7972c221b5c74e052]
+## 1. Citation and commencement[^c-1e80263c09e991a7972c221b5c74e052]
 
 This Order may be cited as the Brucellosis (Examination and Testing) Scheme Order (Northern Ireland) 2004 and shall come into operation on 1st October 2004.
 
-## 2. Brucellosis (Examination and Testing) Scheme (Northern Ireland) 2004[^key-bac991632582005bbd67b0ab5a0b6ddf]
+## 2. Brucellosis (Examination and Testing) Scheme (Northern Ireland) 2004[^c-bac991632582005bbd67b0ab5a0b6ddf]
 
 For the purposes of keeping bovine animals, so far as practicable, free from bovine brucellosis, and controlling and, so far as practicable, reducing the incidence of that disease, the Department hereby makes the Scheme set out in the Schedule.
 
@@ -71,7 +71,7 @@ Department of Finance and Personnel
 
 Article 2
 
-### 1. Citation and interpretation[^key-03cbe9805d7a90e1d98992c4f76149a5]
+### 1. Citation and interpretation[^c-03cbe9805d7a90e1d98992c4f76149a5]
 
 (1) This Scheme may be cited as the Brucellosis (Examination and Testing) Scheme (Northern Ireland) 2004.
 
@@ -80,12 +80,12 @@ Article 2
 - “approved laboratory” means a laboratory approved by the Department to carry out tests on samples submitted to it under this Scheme;
 - “authorised officer” means an inspector, a veterinary inspector or other person authorised by the Department for the purposes of this Scheme;
 - “official test” means a test to determine whether or not an animal is diseased and includes –
-  - (a) a test carried out in an approved laboratory on a sample of blood or milk from an animal in accordance with Annex C of the Directive , as amended by Commission[^key-62207fb891873b19492f7796afa184d3] [Decision 2008/984/EC](https://www.legislation.gov.uk/european/decision/2008/0984) ;
+  - (a) a test carried out in an approved laboratory on a sample of blood or milk from an animal in accordance with Annex C of the Directive , as amended by Commission[^c-62207fb891873b19492f7796afa184d3] [Decision 2008/984/EC](https://www.legislation.gov.uk/european/decision/2008/0984) ;
   - (b) such other test carried out on an animal or sample therefrom, as the Department may require.
 
 (3) Any other expression used in this Scheme that is also used in the Brucellosis (Control) Order (Northern Ireland) 2004[^f00003] shall have the same meaning as in that Order.
 
-### 2. Examination and official tests[^key-f322614cc360c3bb6225820b69cae500]
+### 2. Examination and official tests[^c-f322614cc360c3bb6225820b69cae500]
 
 (1) The Department may, for the purposes of this Scheme, require an authorised officer to carry out such examination or official test as it may determine in relation to an animal kept on a holding and upon being so required that officer –
 
@@ -99,7 +99,7 @@ Article 2
 - (a) subject the sample or cause it to be subjected to such tests as the Department shall specify for the presence of disease; and
 - (b) notify the Department and the keeper of the animal, without delay, of the results of such tests.
 
-### 3. Powers of entry[^key-a934cc620aadb9d0b25d68920d82459a]
+### 3. Powers of entry[^c-a934cc620aadb9d0b25d68920d82459a]
 
 (1) For the purpose of carrying out his functions under paragraph 2, an authorised officer may at any time, and on production if so required of his authority, enter onto any land, building, shed, place or pen where an animal or carcase is kept or suspected, on reasonable grounds, to be kept.
 
@@ -116,7 +116,7 @@ Article 2
 - (b) prohibit the movement of any animal to or from the holding except under and in accordance with the conditions of a licence issued by the Department;
 - (c) require that person to have such animal subjected to an official test, at his own expense and within such time limit, as shall be specified in the notice.
 
-### 4. Prohibition on movement during testing[^key-6b4b1b56561497fc32c322e393f8681f]
+### 4. Prohibition on movement during testing[^c-6b4b1b56561497fc32c322e393f8681f]
 
 A person shall not, except with the prior permission of the Department, move or attempt to move or cause or permit to be moved any animal off a holding –
 
@@ -125,11 +125,11 @@ A person shall not, except with the prior permission of the Department, move or 
 
 until the result of any such test is notified to the person by the Department.
 
-### 5. Prohibition on tampering with official tests[^key-6dbaac34e1d724fbf6df6eaacc5a9692]
+### 5. Prohibition on tampering with official tests[^c-6dbaac34e1d724fbf6df6eaacc5a9692]
 
 A person shall not do any act or thing or attempt to do any act or thing or cause or permit any act or thing to be done whether before, during or after the carrying out of an official test, whereby the result of the test is intended to be affected.
 
-### 6. Prohibition on testing, treatment and vaccination[^key-be0cb32606d3b7639eda6536a89bf8a9]
+### 6. Prohibition on testing, treatment and vaccination[^c-be0cb32606d3b7639eda6536a89bf8a9]
 
 (1) A person, including an authorised officer, shall not take or cause or permit to be taken a sample from any animal for the purposes of an official test under this Scheme or the Brucellosis Control Order (Northern Ireland) 2004, or carry out any test on an animal for detection of the disease, except under and in accordance with the conditions of a licence issued by the Department.
 
@@ -137,11 +137,11 @@ A person shall not do any act or thing or attempt to do any act or thing or caus
 
 (3) A person shall not vaccinate any animal with an anti-abortion vaccine intended for use in the vaccination of an animal against the disease except under and in accordance with the conditions of a licence issued by the Department.
 
-### 7. Sampling of milk[^key-c38a17e939704e982aac4969016b7cfb]
+### 7. Sampling of milk[^c-c38a17e939704e982aac4969016b7cfb]
 
 A person who buys milk in any form, from the keeper of a herd of dairy cows, for resale as milk or milk products shall, if required and in accordance with the conditions of a notice issued by the Department, ensure that a sample of milk (which includes milk from all the dairy cows in that herd whose milk is available for sale) is supplied to the Department.
 
-### 8. Action in case of default[^key-bd4ee18f3b01c01901d7e6402a664825]
+### 8. Action in case of default[^c-bd4ee18f3b01c01901d7e6402a664825]
 
 Where a person fails to comply with any requirement imposed on him under this Scheme or by virtue of any licence, notice, approval or authorisation issued under it, an inspector may, without prejudice to any proceedings arising out of such default, carry out or cause to be carried out those requirements.
 
@@ -168,26 +168,26 @@ Any person who, without lawful authority or excuse, proof of which shall lie on 
 
 [^f00002]: Footnote: S.I. [1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) to which there are amendments not relevant to the subject matter of this Order
 
-[^key-1e80263c09e991a7972c221b5c74e052]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
+[^c-1e80263c09e991a7972c221b5c74e052]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
 
-[^key-bac991632582005bbd67b0ab5a0b6ddf]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2004/364/article/2) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
+[^c-bac991632582005bbd67b0ab5a0b6ddf]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2004/364/article/2) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
 
-[^key-03cbe9805d7a90e1d98992c4f76149a5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/1) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
+[^c-03cbe9805d7a90e1d98992c4f76149a5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/1) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
 
-[^key-62207fb891873b19492f7796afa184d3]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/1/2) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/5)
+[^c-62207fb891873b19492f7796afa184d3]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/1/2) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/5)
 
 [^f00003]: Footnote: [S.R. 2004 No. 361](https://www.legislation.gov.uk/nisr/2004/361)
 
-[^key-f322614cc360c3bb6225820b69cae500]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/2) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
+[^c-f322614cc360c3bb6225820b69cae500]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/2) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
 
-[^key-a934cc620aadb9d0b25d68920d82459a]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/3) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
+[^c-a934cc620aadb9d0b25d68920d82459a]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/3) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
 
-[^key-6b4b1b56561497fc32c322e393f8681f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/4) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
+[^c-6b4b1b56561497fc32c322e393f8681f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/4) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
 
-[^key-6dbaac34e1d724fbf6df6eaacc5a9692]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/5) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
+[^c-6dbaac34e1d724fbf6df6eaacc5a9692]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/5) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
 
-[^key-be0cb32606d3b7639eda6536a89bf8a9]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/6) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
+[^c-be0cb32606d3b7639eda6536a89bf8a9]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/6) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
 
-[^key-c38a17e939704e982aac4969016b7cfb]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/7) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
+[^c-c38a17e939704e982aac4969016b7cfb]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/7) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
 
-[^key-bd4ee18f3b01c01901d7e6402a664825]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/8) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)
+[^c-bd4ee18f3b01c01901d7e6402a664825]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2004/364/schedule/paragraph/8) in operation at 1.10.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/364/article/1)

@@ -24,13 +24,13 @@ Section 175
 
 ### Introduction
 
-**1.**[^key-eb5f9fba7b9a8760a419338b8b408b70][^key-eaf021c4f956dba2124a69779346342c] (1) This Schedule applies to an application for a casino premises licence of a kind in respect of which a limit under section 175 has effect.
+**1.**[^c-eb5f9fba7b9a8760a419338b8b408b70][^c-eaf021c4f956dba2124a69779346342c] (1) This Schedule applies to an application for a casino premises licence of a kind in respect of which a limit under section 175 has effect.
 
 (2) An application for the variation or transfer of a premises licence is not to be treated for the purposes of this Schedule as an application for a premises licence (despite sections 187(3) and 188(2)).
 
 ### Competition for licences
 
-**2.**[^key-b9365d6a6c4daeb85198229f093c04f6][^key-f2faca6a4e22795d7d8095638b9fbde5] (1) Before considering an application to which this Schedule applies a licensing authority shall comply with regulations of the Secretary of State about inviting competing applications.
+**2.**[^c-b9365d6a6c4daeb85198229f093c04f6][^c-f2faca6a4e22795d7d8095638b9fbde5] (1) Before considering an application to which this Schedule applies a licensing authority shall comply with regulations of the Secretary of State about inviting competing applications.
 
 (2) The regulations shall, in particular, make provision—
 
@@ -39,12 +39,12 @@ Section 175
 
 ### Two-stage consideration
 
-**3.**[^key-ae9734d0f2ee43a97fb3fd50f673bbb4][^key-5b318b0e59b48ef18f28f73aaf984652] Paragraph 4 applies where (whether or not as a result of the competition provided for by paragraph 2)—
+**3.**[^c-ae9734d0f2ee43a97fb3fd50f673bbb4][^c-5b318b0e59b48ef18f28f73aaf984652] Paragraph 4 applies where (whether or not as a result of the competition provided for by paragraph 2)—
 
 - (a) a number of applications for a casino premises licence are made to a licensing authority (“the competing applications”), and
 - (b) as a result of section 175 and the order under it the authority are able to grant one or more, but not all, of the competing applications.
 
-**4.**[^key-828c1d966cc1b1d00e99170411beddbc][^key-c8dc9bacd9225ab6d08f9b9939880f9a] (1) The licensing authority shall first consider in respect of each application whether they would grant it under section 163 if section 175 did not apply.
+**4.**[^c-828c1d966cc1b1d00e99170411beddbc][^c-c8dc9bacd9225ab6d08f9b9939880f9a] (1) The licensing authority shall first consider in respect of each application whether they would grant it under section 163 if section 175 did not apply.
 
 (2) For that purpose—
 
@@ -52,7 +52,7 @@ Section 175
 - (b) subject to paragraph (a), each competing applicant is an interested party in relation to each of the other competing applications, and
 - (c) Part 8 shall apply, but with the substitution for a reference to the grant of an application in sections 163(1)(a) and 206(2) of a reference to a provisional decision to grant an application subject to the provisions of paragraph 5 below.
 
-**5.**[^key-ab9aa47387f46fb67c0d719973257dbd][^key-9097c121404720097f159f7b5bd67f62] (1) This paragraph applies if a licensing authority determine under paragraph 4 that they would grant a number of competing applications greater than the number which they can grant as a result of section 175 and the order under it.
+**5.**[^c-ab9aa47387f46fb67c0d719973257dbd][^c-9097c121404720097f159f7b5bd67f62] (1) This paragraph applies if a licensing authority determine under paragraph 4 that they would grant a number of competing applications greater than the number which they can grant as a result of section 175 and the order under it.
 
 (2) The authority shall then determine which of those applications to grant under section 163(1)(a).
 
@@ -70,14 +70,14 @@ Section 175
 
 (5) The list in section 164(1)(a) shall be treated as including any competing applicant whose application the authority decided provisionally to grant under paragraph 4.
 
-**6.**[^key-d9e821678cad026f59761da2f2b5b2c8][^key-1015686dc87ed6e3b6f6168b72bbff88] (1) The Secretary of State may issue a code of practice about—
+**6.**[^c-d9e821678cad026f59761da2f2b5b2c8][^c-1015686dc87ed6e3b6f6168b72bbff88] (1) The Secretary of State may issue a code of practice about—
 
 - (a) the procedure to be followed in making the determinations required by paragraphs 4 and 5, and
 - (b) matters to which a licensing authority should have regard in making those determinations.
 
 (2) A licensing authority shall comply with a code of practice under sub-paragraph (1).
 
-**7.**[^key-480efafb8043a8ad3d8936ab1b604ac5][^key-43d206b1d289f826ffd749b880e427d2] (1) Where a licensing authority issue a casino premises licence following a determination to grant an application in accordance with paragraph 5, a condition attached to the licence under section 169 may, in particular, give effect to any agreement entered into under paragraph 5(3)(b) above.
+**7.**[^c-480efafb8043a8ad3d8936ab1b604ac5][^c-43d206b1d289f826ffd749b880e427d2] (1) Where a licensing authority issue a casino premises licence following a determination to grant an application in accordance with paragraph 5, a condition attached to the licence under section 169 may, in particular, give effect to any agreement entered into under paragraph 5(3)(b) above.
 
 (2) In that case—
 
@@ -85,7 +85,7 @@ Section 175
 - (b) a copy of the agreement shall be attached to the licence, and
 - (c) a variation of the agreement shall have effect only if accompanied by variation of the condition under section 187.
 
-**8.**[^key-87982908f8d9a64f0babee203e4a48b7][^key-0912f2e39cc84d605afba8e8aa940728] (1) An appeal may be brought under section 206(1) or (2) in respect of a decision under paragraph 4.
+**8.**[^c-87982908f8d9a64f0babee203e4a48b7][^c-0912f2e39cc84d605afba8e8aa940728] (1) An appeal may be brought under section 206(1) or (2) in respect of a decision under paragraph 4.
 
 (2) While an appeal under section 206 could be brought by virtue of sub-paragraph (1), or has been brought by virtue of that sub-paragraph and has not yet been either finally determined or abandoned, the licensing authority shall take no action under paragraph 5(2).
 
@@ -95,9 +95,9 @@ Section 175
 
 ### Provisional statements
 
-**9.**[^key-bc69990cb0fb617f364b6e4dc456e9b6][^key-1c7e63d40282c822e7f6569ecc80a17d] A reference in this Schedule to an application for a casino premises licence includes a reference to an application for a provisional statement where this Schedule would apply to an application for a premises licence made in reliance on the provisional statement.
+**9.**[^c-bc69990cb0fb617f364b6e4dc456e9b6][^c-1c7e63d40282c822e7f6569ecc80a17d] A reference in this Schedule to an application for a casino premises licence includes a reference to an application for a provisional statement where this Schedule would apply to an application for a premises licence made in reliance on the provisional statement.
 
-**10.**[^key-be57254970ff0f33ad901b1352c8bdc2][^key-15c9484ac1dac91dff0e2cc0a4e6d621] (1) This paragraph applies where the process described in paragraphs 3 to 5 results in the issue of a provisional statement.
+**10.**[^c-be57254970ff0f33ad901b1352c8bdc2][^c-15c9484ac1dac91dff0e2cc0a4e6d621] (1) This paragraph applies where the process described in paragraphs 3 to 5 results in the issue of a provisional statement.
 
 (2) Paragraphs 2 to 5 shall not apply by reason only of the fact that an application for a casino premises licence is made—
 
@@ -116,42 +116,42 @@ Section 175
 
 ## Annotations
 
-[^key-eb5f9fba7b9a8760a419338b8b408b70]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/1) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
+[^c-eb5f9fba7b9a8760a419338b8b408b70]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/1) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
 
-[^key-eaf021c4f956dba2124a69779346342c]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/1) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
+[^c-eaf021c4f956dba2124a69779346342c]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/1) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
 
-[^key-b9365d6a6c4daeb85198229f093c04f6]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/2) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
+[^c-b9365d6a6c4daeb85198229f093c04f6]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/2) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
 
-[^key-f2faca6a4e22795d7d8095638b9fbde5]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/2) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
+[^c-f2faca6a4e22795d7d8095638b9fbde5]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/2) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
 
-[^key-ae9734d0f2ee43a97fb3fd50f673bbb4]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/3) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
+[^c-ae9734d0f2ee43a97fb3fd50f673bbb4]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/3) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
 
-[^key-5b318b0e59b48ef18f28f73aaf984652]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/3) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
+[^c-5b318b0e59b48ef18f28f73aaf984652]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/3) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
 
-[^key-828c1d966cc1b1d00e99170411beddbc]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/4) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
+[^c-828c1d966cc1b1d00e99170411beddbc]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/4) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
 
-[^key-c8dc9bacd9225ab6d08f9b9939880f9a]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/4) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
+[^c-c8dc9bacd9225ab6d08f9b9939880f9a]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/4) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
 
-[^key-ab9aa47387f46fb67c0d719973257dbd]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/5) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
+[^c-ab9aa47387f46fb67c0d719973257dbd]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/5) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
 
-[^key-9097c121404720097f159f7b5bd67f62]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/5) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
+[^c-9097c121404720097f159f7b5bd67f62]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/5) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
 
-[^key-d9e821678cad026f59761da2f2b5b2c8]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/6) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
+[^c-d9e821678cad026f59761da2f2b5b2c8]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/6) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
 
-[^key-1015686dc87ed6e3b6f6168b72bbff88]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/6) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
+[^c-1015686dc87ed6e3b6f6168b72bbff88]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/6) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
 
-[^key-480efafb8043a8ad3d8936ab1b604ac5]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/7) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
+[^c-480efafb8043a8ad3d8936ab1b604ac5]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/7) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
 
-[^key-43d206b1d289f826ffd749b880e427d2]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/7) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
+[^c-43d206b1d289f826ffd749b880e427d2]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/7) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
 
-[^key-87982908f8d9a64f0babee203e4a48b7]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/8) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
+[^c-87982908f8d9a64f0babee203e4a48b7]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/8) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
 
-[^key-0912f2e39cc84d605afba8e8aa940728]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/8) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
+[^c-0912f2e39cc84d605afba8e8aa940728]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/8) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
 
-[^key-bc69990cb0fb617f364b6e4dc456e9b6]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/9) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
+[^c-bc69990cb0fb617f364b6e4dc456e9b6]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/9) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
 
-[^key-1c7e63d40282c822e7f6569ecc80a17d]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/9) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
+[^c-1c7e63d40282c822e7f6569ecc80a17d]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/9) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
 
-[^key-be57254970ff0f33ad901b1352c8bdc2]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/10) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
+[^c-be57254970ff0f33ad901b1352c8bdc2]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/10) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by SI 2007/1157, art. 3(3), 4(2))
 
-[^key-15c9484ac1dac91dff0e2cc0a4e6d621]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/10) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)
+[^c-15c9484ac1dac91dff0e2cc0a4e6d621]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2005/19/schedule/9/paragraph/10) in force at 20.5.2008 for specified purposes by [S.I. 2008/1326](https://www.legislation.gov.uk/uksi/2008/1326), [art. 2](https://www.legislation.gov.uk/uksi/2008/1326/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1326/schedule)

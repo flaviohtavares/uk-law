@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138A. Regulations made by Welsh Ministers under section 71(7A) or sections 89 to 90[^key-82a89e35379ae332ac3d85a5963f7160][^M_F_60fa6a2b-8868-4e14-9557-4316ad033882]
+## 138A. Regulations made by Welsh Ministers under section 71(7A) or sections 89 to 90[^c-82a89e35379ae332ac3d85a5963f7160][^M_F_60fa6a2b-8868-4e14-9557-4316ad033882]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-82a89e35379ae332ac3d85a5963f7160]: Textual amendment: [S. 138A](https://www.legislation.gov.uk/ukpga/1998/31/section/138A) inserted (2.12.2008) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 71](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/71); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/3077/article/2/d)
+[^c-82a89e35379ae332ac3d85a5963f7160]: Textual amendment: [S. 138A](https://www.legislation.gov.uk/ukpga/1998/31/section/138A) inserted (2.12.2008) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 71](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/71); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/3077/article/2/d)
 
 [^M_F_60fa6a2b-8868-4e14-9557-4316ad033882]: Textual amendment: Words in s. 138A heading inserted (30.4.2021) by [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [ss. 73](https://www.legislation.gov.uk/asc/2021/4/section/73), [84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 38(a)](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/38/a)
 

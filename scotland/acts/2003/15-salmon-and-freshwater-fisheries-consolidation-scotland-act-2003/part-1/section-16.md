@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Buying and selling salmon in close time[^key-9b3ddf36fcd4aaeaf69c297d9d6da517]
+## 16. Buying and selling salmon in close time[^c-9b3ddf36fcd4aaeaf69c297d9d6da517]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b3ddf36fcd4aaeaf69c297d9d6da517]: Commencement: S. 16 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-9b3ddf36fcd4aaeaf69c297d9d6da517]: Commencement: S. 16 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

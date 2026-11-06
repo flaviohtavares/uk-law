@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18C. Trust services[^key-c1c1f013a7fae39fc2932e7957293369]
+## 18C. Trust services[^c-c1c1f013a7fae39fc2932e7957293369]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,11 +42,11 @@ summary: ''
 - “**trust services**” means—
   - (a) the creation of a trust or similar arrangement,
   - (b) the provision of a registered office, business address, correspondence address or administrative address for a trust or similar arrangement,
-  - (c) the operation or management of a trust or similar arrangement, [^key-ea675503fca3d4e07aeb83f16c6d72f4]...
-  - (d) acting or arranging for another person to act as trustee of a trust or similar arrangement, where “**trustee**”, in relation to an arrangement similar to a trust, means a person who holds an equivalent or similar position to a trustee of a trust , or[^key-2b9110b164a8993d26770504e3f9137c]
-  - (e) acting as a nominee shareholder.[^key-f633721f4e15e82c6346fad8f0059f99]
+  - (c) the operation or management of a trust or similar arrangement, [^c-ea675503fca3d4e07aeb83f16c6d72f4]...
+  - (d) acting or arranging for another person to act as trustee of a trust or similar arrangement, where “**trustee**”, in relation to an arrangement similar to a trust, means a person who holds an equivalent or similar position to a trustee of a trust , or[^c-2b9110b164a8993d26770504e3f9137c]
+  - (e) acting as a nominee shareholder.[^c-f633721f4e15e82c6346fad8f0059f99]
 
-(8)[^key-c5dc728f437ae5f192298debb6e7a443] For the purposes of this regulation “**acting as a nominee shareholder**” means undertaking the following activities as the legal owner of the shares—
+(8)[^c-c5dc728f437ae5f192298debb6e7a443] For the purposes of this regulation “**acting as a nominee shareholder**” means undertaking the following activities as the legal owner of the shares—
 
 - (a) exercising the voting rights of those shares in accordance with the wishes of the beneficial owner of those shares (“**O**”), or
 - (b) receiving dividends in respect of those shares held on behalf of O,
@@ -55,12 +55,12 @@ where the activities are undertaken in accordance with an arrangement with O tha
 
 ## Annotations
 
-[^key-c1c1f013a7fae39fc2932e7957293369]: Textual amendment: Reg. 18C inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [7](https://www.legislation.gov.uk/uksi/2022/1331/regulation/7)
+[^c-c1c1f013a7fae39fc2932e7957293369]: Textual amendment: Reg. 18C inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [7](https://www.legislation.gov.uk/uksi/2022/1331/regulation/7)
 
-[^key-ea675503fca3d4e07aeb83f16c6d72f4]: Textual amendment: Word in reg. 18C(7) omitted (5.12.2024) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(4)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/4/a/i)
+[^c-ea675503fca3d4e07aeb83f16c6d72f4]: Textual amendment: Word in reg. 18C(7) omitted (5.12.2024) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(4)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/4/a/i)
 
-[^key-2b9110b164a8993d26770504e3f9137c]: Textual amendment: Words in reg. 18C(7) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/4/a/ii)
+[^c-2b9110b164a8993d26770504e3f9137c]: Textual amendment: Words in reg. 18C(7) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/4/a/ii)
 
-[^key-f633721f4e15e82c6346fad8f0059f99]: Textual amendment: Words in reg. 18C(7) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/4/a/iii)
+[^c-f633721f4e15e82c6346fad8f0059f99]: Textual amendment: Words in reg. 18C(7) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/4/a/iii)
 
-[^key-c5dc728f437ae5f192298debb6e7a443]: Textual amendment: Reg. 18C(8) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(4)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/4/b)
+[^c-c5dc728f437ae5f192298debb6e7a443]: Textual amendment: Reg. 18C(8) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(4)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/4/b)

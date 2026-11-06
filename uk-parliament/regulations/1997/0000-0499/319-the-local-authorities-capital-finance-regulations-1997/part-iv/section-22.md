@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Licensing contracts[^key-c4989045069ae1288aafb5320c5d54e4]
+## 22. Licensing contracts[^c-c4989045069ae1288aafb5320c5d54e4]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c4989045069ae1288aafb5320c5d54e4]: Commencement: Reg. 22 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-c4989045069ae1288aafb5320c5d54e4]: Commencement: Reg. 22 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00017]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52). *See* section 175 of that Act.
 

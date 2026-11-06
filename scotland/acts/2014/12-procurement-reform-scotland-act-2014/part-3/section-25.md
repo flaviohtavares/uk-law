@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Community benefit requirements in major contracts[^key-b54f43825f18fc9eada3a725ca006888]
+## 25. Community benefit requirements in major contracts[^c-b54f43825f18fc9eada3a725ca006888]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b54f43825f18fc9eada3a725ca006888]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2014/12/section/25) in force at 1.6.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 4](https://www.legislation.gov.uk/ssi/2016/30/article/4) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-b54f43825f18fc9eada3a725ca006888]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2014/12/section/25) in force at 1.6.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 4](https://www.legislation.gov.uk/ssi/2016/30/article/4) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))

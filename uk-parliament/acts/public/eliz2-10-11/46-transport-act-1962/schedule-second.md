@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SECOND SCHEDULE — Transfer of Commission’s Statutory Functions[^key-0de03d2ce98c9474537d08ccccd726ef]
+## SECOND SCHEDULE — Transfer of Commission’s Statutory Functions[^c-0de03d2ce98c9474537d08ccccd726ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -188,7 +188,7 @@ The following enactments in the [^c4803231]Railways Clauses Consolidation Act 18
 
 ## Annotations
 
-[^key-0de03d2ce98c9474537d08ccccd726ef]: Modification: Sch. 2 specified provisions modified (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/2/2/b)[(3)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/2/3)
+[^c-0de03d2ce98c9474537d08ccccd726ef]: Modification: Sch. 2 specified provisions modified (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/2/2/b)[(3)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/2/3)
 
 [^c4802851]: Modification: Sch. 2 Pt. I amended (E.W.) by [London Regional Transport Act 1984 (c. 32, SIF 126)](https://www.legislation.gov.uk/ukpga/1984/32), [s. 67(2)](https://www.legislation.gov.uk/ukpga/1984/32/section/67/2), [Sch. 4 paras. 1(1)(2)](https://www.legislation.gov.uk/ukpga/1984/32/schedule/4/paragraph/1/1/2)(*b*), 6(2)(*b*)(3)(5)
 

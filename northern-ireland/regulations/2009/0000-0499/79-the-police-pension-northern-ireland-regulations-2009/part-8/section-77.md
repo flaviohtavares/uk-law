@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Board responsibility for payment of awards[^key-0cf91dcebeaae1ee9cd9e301834ef098]
+## 77. Board responsibility for payment of awards[^c-0cf91dcebeaae1ee9cd9e301834ef098]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cf91dcebeaae1ee9cd9e301834ef098]: Commencement: Reg. 77 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-0cf91dcebeaae1ee9cd9e301834ef098]: Commencement: Reg. 77 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

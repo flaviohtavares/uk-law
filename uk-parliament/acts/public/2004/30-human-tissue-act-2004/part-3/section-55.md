@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Financial provisions[^key-25b7d90ae34a7c63801f25a815f2ec9d]
+## 55. Financial provisions[^c-25b7d90ae34a7c63801f25a815f2ec9d]
 
 *Extent: E+W+N.I.*
 
@@ -27,4 +27,4 @@ There shall be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-25b7d90ae34a7c63801f25a815f2ec9d]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2004/30/section/55) in force at 1.4.2005 by [S.I. 2005/919](https://www.legislation.gov.uk/uksi/2005/919), [art. 3](https://www.legislation.gov.uk/uksi/2005/919/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/919/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/919/article/2))
+[^c-25b7d90ae34a7c63801f25a815f2ec9d]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2004/30/section/55) in force at 1.4.2005 by [S.I. 2005/919](https://www.legislation.gov.uk/uksi/2005/919), [art. 3](https://www.legislation.gov.uk/uksi/2005/919/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/919/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/919/article/2))

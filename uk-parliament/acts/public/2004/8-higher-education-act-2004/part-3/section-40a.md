@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Provision of reports, information and advice by the relevant authority in relation to Wales[^key-98f9b6fc0d5d26c1eaeb08236414198e]
+## 40A. Provision of reports, information and advice by the relevant authority in relation to Wales[^c-98f9b6fc0d5d26c1eaeb08236414198e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98f9b6fc0d5d26c1eaeb08236414198e]: Textual amendment: S. 40A omitted (1.9.2015) by virtue of [Higher Education (Wales) Act 2015 (anaw 1)](https://www.legislation.gov.uk/anaw/2015/1), [s. 59(2)](https://www.legislation.gov.uk/anaw/2015/1/section/59/2), [Sch. para. 20](https://www.legislation.gov.uk/anaw/2015/1/schedule/paragraph/20) (with [Sch. paras. 27-30](https://www.legislation.gov.uk/anaw/2015/1/schedule/paragraph/27)); [S.I. 2015/1327](https://www.legislation.gov.uk/wsi/2015/1327), [art. 5(s)(iii)](https://www.legislation.gov.uk/wsi/2015/1327/article/5/s/iii)
+[^c-98f9b6fc0d5d26c1eaeb08236414198e]: Textual amendment: S. 40A omitted (1.9.2015) by virtue of [Higher Education (Wales) Act 2015 (anaw 1)](https://www.legislation.gov.uk/anaw/2015/1), [s. 59(2)](https://www.legislation.gov.uk/anaw/2015/1/section/59/2), [Sch. para. 20](https://www.legislation.gov.uk/anaw/2015/1/schedule/paragraph/20) (with [Sch. paras. 27-30](https://www.legislation.gov.uk/anaw/2015/1/schedule/paragraph/27)); [S.I. 2015/1327](https://www.legislation.gov.uk/wsi/2015/1327), [art. 5(s)(iii)](https://www.legislation.gov.uk/wsi/2015/1327/article/5/s/iii)

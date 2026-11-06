@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Carriage of goods by air.[^key-358cc87183666a9f6d8cac3e3fd52bd1]
+## 47. Carriage of goods by air.[^c-358cc87183666a9f6d8cac3e3fd52bd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In section 60 of the [^c10458631]Civil Aviation Act 1982 (power to give effect t
 
 ## Annotations
 
-[^key-358cc87183666a9f6d8cac3e3fd52bd1]: Modification: S. 47 extended (Isle of Man) (1.4.2007) by [The Civil Aviation (Isle of Man) Order 2007 (S.I. 2007/614)](https://www.legislation.gov.uk/uksi/2007/614), [arts. 1](https://www.legislation.gov.uk/uksi/2007/614/article/1), [3](https://www.legislation.gov.uk/uksi/2007/614/article/3)
+[^c-358cc87183666a9f6d8cac3e3fd52bd1]: Modification: S. 47 extended (Isle of Man) (1.4.2007) by [The Civil Aviation (Isle of Man) Order 2007 (S.I. 2007/614)](https://www.legislation.gov.uk/uksi/2007/614), [arts. 1](https://www.legislation.gov.uk/uksi/2007/614/article/1), [3](https://www.legislation.gov.uk/uksi/2007/614/article/3)
 
 [^c10458631]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).

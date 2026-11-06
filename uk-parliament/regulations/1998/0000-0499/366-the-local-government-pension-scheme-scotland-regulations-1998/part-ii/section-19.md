@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Calculations[^key-d770a4e9c0ad1e6fdc6a05091c3c79bf]
+## 19. Calculations[^c-d770a4e9c0ad1e6fdc6a05091c3c79bf]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d770a4e9c0ad1e6fdc6a05091c3c79bf]: Commencement: Reg. 19 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-d770a4e9c0ad1e6fdc6a05091c3c79bf]: Commencement: Reg. 19 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

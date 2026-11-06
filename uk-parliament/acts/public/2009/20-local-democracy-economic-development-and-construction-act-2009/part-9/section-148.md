@@ -22,7 +22,7 @@ summary: ''
 
 (1) In Part 1 (democracy and involvement)—
 
-- (a)[^key-173fe7e119a157f652c5b2ea9659a5bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-173fe7e119a157f652c5b2ea9659a5bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) Chapter 3 comes into force on a day appointed by the Secretary of State;
 - (c) Chapter 4 comes into force on the day on which this Act is passed;
 - (d) Chapters 5 and 6 come into force at the end of the period of two months beginning with the day on which this Act is passed.
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-173fe7e119a157f652c5b2ea9659a5bf]: Textual amendment: S. 148(1)(a) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(m)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/m), [Sch. 25 Pt. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/6)
+[^c-173fe7e119a157f652c5b2ea9659a5bf]: Textual amendment: S. 148(1)(a) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(m)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/m), [Sch. 25 Pt. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/6)

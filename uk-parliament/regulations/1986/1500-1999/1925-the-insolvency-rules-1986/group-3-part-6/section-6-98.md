@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.98. Contents of proof[^key-1cdcf1b22937e0242b1bb0a1c8cc95b5]
+## 6.98. Contents of proof[^c-1cdcf1b22937e0242b1bb0a1c8cc95b5]
 
 *Extent: E+W*
 
-(1)[^key-32e09f488f77361ff83017ed1fa5c0b0] Subject to Rule 6.96(4), the following matters shall be stated in a creditor’s proof of debt—
+(1)[^c-32e09f488f77361ff83017ed1fa5c0b0] Subject to Rule 6.96(4), the following matters shall be stated in a creditor’s proof of debt—
 
 - (a) the creditor’s name and address, and, if a company, its company registration number;
 - (b) the total amount of his claim (including any Value Added Tax) as at the date of the bankruptcy order;
@@ -32,12 +32,12 @@ summary: ''
 
 (2) There shall be specified in the proof any documents by reference to which the debt can be substantiated; but (subject as follows) it is not essential that such documents be attached to the proof or submitted with it.
 
-(3) The trustee, the official receiver, acting as receiver and manager[^key-b00f2b7ca6b398c214b7dad765603b71] or the convener or chairman of any meeting, may call for any document or other evidence to be produced to him, where he thinks it necessary for the purpose of substantiating the whole or any part of the claim made in the proof.
+(3) The trustee, the official receiver, acting as receiver and manager[^c-b00f2b7ca6b398c214b7dad765603b71] or the convener or chairman of any meeting, may call for any document or other evidence to be produced to him, where he thinks it necessary for the purpose of substantiating the whole or any part of the claim made in the proof.
 
 ## Annotations
 
-[^key-1cdcf1b22937e0242b1bb0a1c8cc95b5]: Commencement: Rule 6.98 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1cdcf1b22937e0242b1bb0a1c8cc95b5]: Commencement: Rule 6.98 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-32e09f488f77361ff83017ed1fa5c0b0]: Textual amendment: Rule 6.98(1) substituted (3.5.2004) by [The Insolvency (Amendment No. 2) Rules 2004 (S.I. 2004/1070)](https://www.legislation.gov.uk/uksi/2004/1070), [rules 1](https://www.legislation.gov.uk/uksi/2004/1070/rule/2), [2](https://www.legislation.gov.uk/uksi/2004/1070/rule/1)
+[^c-32e09f488f77361ff83017ed1fa5c0b0]: Textual amendment: Rule 6.98(1) substituted (3.5.2004) by [The Insolvency (Amendment No. 2) Rules 2004 (S.I. 2004/1070)](https://www.legislation.gov.uk/uksi/2004/1070), [rules 1](https://www.legislation.gov.uk/uksi/2004/1070/rule/2), [2](https://www.legislation.gov.uk/uksi/2004/1070/rule/1)
 
-[^key-b00f2b7ca6b398c214b7dad765603b71]: Textual amendment: Words in rule 6.98(3) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [28(2)](https://www.legislation.gov.uk/uksi/2004/584/article/28/2)
+[^c-b00f2b7ca6b398c214b7dad765603b71]: Textual amendment: Words in rule 6.98(3) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [28(2)](https://www.legislation.gov.uk/uksi/2004/584/article/28/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Grant of licences subject to conditions imposed for environmental purposes[^key-63b1b8af1901f4a95214181249b780fb]
+## 197. Grant of licences subject to conditions imposed for environmental purposes[^c-63b1b8af1901f4a95214181249b780fb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63b1b8af1901f4a95214181249b780fb]: Textual amendment: [S. 197](https://www.legislation.gov.uk/ukpga/2009/23/section/197) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 11(5)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/11/5) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-63b1b8af1901f4a95214181249b780fb]: Textual amendment: [S. 197](https://www.legislation.gov.uk/ukpga/2009/23/section/197) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 11(5)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/11/5) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

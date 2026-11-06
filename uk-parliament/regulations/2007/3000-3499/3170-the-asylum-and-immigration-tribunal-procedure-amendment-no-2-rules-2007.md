@@ -32,7 +32,7 @@ summary: ''
 
 immigration
 
-The Asylum and Immigration Tribunal (Procedure) (Amendment No. 2) Rules 2007 (revoked)[^key-0830403cbf2ec36d64ceea9b51b0af4e]
+The Asylum and Immigration Tribunal (Procedure) (Amendment No. 2) Rules 2007 (revoked)[^c-0830403cbf2ec36d64ceea9b51b0af4e]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st December 2007
 
-[^key-0830403cbf2ec36d64ceea9b51b0af4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0830403cbf2ec36d64ceea9b51b0af4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0830403cbf2ec36d64ceea9b51b0af4e]
+## 1. Citation and commencement[^c-0830403cbf2ec36d64ceea9b51b0af4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Asylum and Immigration Tribunal (Procedure) Rules 2005[^key-0830403cbf2ec36d64ceea9b51b0af4e]
+## 2. Amendments to the Asylum and Immigration Tribunal (Procedure) Rules 2005[^c-0830403cbf2ec36d64ceea9b51b0af4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-0830403cbf2ec36d64ceea9b51b0af4e]
+## 3.[^c-0830403cbf2ec36d64ceea9b51b0af4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0830403cbf2ec36d64ceea9b51b0af4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0830403cbf2ec36d64ceea9b51b0af4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0830403cbf2ec36d64ceea9b51b0af4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0830403cbf2ec36d64ceea9b51b0af4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0830403cbf2ec36d64ceea9b51b0af4e]: Textual amendment: Rules revoked (20.10.2014) by [The Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014 (S.I. 2014/2604)](https://www.legislation.gov.uk/uksi/2014/2604), [rules 1](https://www.legislation.gov.uk/uksi/2014/2604/rule/1), [45](https://www.legislation.gov.uk/uksi/2014/2604/rule/45) Table 1
+[^c-0830403cbf2ec36d64ceea9b51b0af4e]: Textual amendment: Rules revoked (20.10.2014) by [The Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014 (S.I. 2014/2604)](https://www.legislation.gov.uk/uksi/2014/2604), [rules 1](https://www.legislation.gov.uk/uksi/2014/2604/rule/1), [45](https://www.legislation.gov.uk/uksi/2014/2604/rule/45) Table 1

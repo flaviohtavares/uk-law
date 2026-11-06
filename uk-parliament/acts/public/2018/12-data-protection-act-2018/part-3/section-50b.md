@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50B. Restrictions on automated decision-making based on sensitive processing[^key-8c1041f35a0b088d2c6574d402bd386c]
+## 50B. Restrictions on automated decision-making based on sensitive processing[^c-8c1041f35a0b088d2c6574d402bd386c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c1041f35a0b088d2c6574d402bd386c]: Textual amendment: Ss. 50A-50D substituted for ss. 49, 50 (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 80(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/80/3), [142(1)(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1/2/h); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/j) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/82/regulation/5))
+[^c-8c1041f35a0b088d2c6574d402bd386c]: Textual amendment: Ss. 50A-50D substituted for ss. 49, 50 (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 80(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/80/3), [142(1)(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1/2/h); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/j) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/82/regulation/5))

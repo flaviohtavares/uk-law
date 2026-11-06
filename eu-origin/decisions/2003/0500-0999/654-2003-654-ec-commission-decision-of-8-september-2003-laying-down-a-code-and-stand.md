@@ -31,10 +31,10 @@ summary: ''
 
 of 8 September 2003 laying down a code and standard rules for the transcription into a machine-readable form of the data relating to intermediate statistical surveys of areas under vines (Text with EEA relevance) (notified under document number C(2003) 3191) (revoked)
 
-[^key-4f8a22ae2b9c885ed4c73a4745b574e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f8a22ae2b9c885ed4c73a4745b574e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-4f8a22ae2b9c885ed4c73a4745b574e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-4f8a22ae2b9c885ed4c73a4745b574e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4f8a22ae2b9c885ed4c73a4745b574e7]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/43)
+[^c-4f8a22ae2b9c885ed4c73a4745b574e7]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/43)

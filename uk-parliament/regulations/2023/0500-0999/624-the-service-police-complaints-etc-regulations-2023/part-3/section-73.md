@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. General duties of the Defence Council, the Boards, Provost Marshals and Inspectors[^key-1485208598980b1108c3257bc3f3394a]
+## 73. General duties of the Defence Council, the Boards, Provost Marshals and Inspectors[^c-1485208598980b1108c3257bc3f3394a]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ but a Provost Marshal of a third service police force may be required to give as
 
 ## Annotations
 
-[^key-1485208598980b1108c3257bc3f3394a]: Commencement: Reg. 73 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-1485208598980b1108c3257bc3f3394a]: Commencement: Reg. 73 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

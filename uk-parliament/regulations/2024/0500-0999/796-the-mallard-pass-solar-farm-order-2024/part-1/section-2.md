@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-1aa3acced4c2fd79efad4a4e5825e47e]
+## 2. Interpretation[^c-1aa3acced4c2fd79efad4a4e5825e47e]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 - “**claimed public right of way**” means the route of a public right of way that is claimed to exist by members of the public within the area shown on the claimed public right of way plan;
 - “**claimed public right of way plan**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the claimed public right of way plan for the purposes of this Order;
 - “**commence**” means beginning to carry out a material operation, as defined in section 155 (when development begins) of the 2008 Act, comprised in or carried out for the purposes of, the authorised development other than the permitted preliminary works (except where stated to the contrary) and “commencement”, “commenced” and cognate expressions are to be construed accordingly;
-- “[^key-df904df64d89f957fae318ec9951a537]**commissioning**” means the process of testing the systems and components of the phase of Work No. 1 that is the subject of the notice given under requirement 3 of Schedule 2 (requirements) in order to ensure that they function in accordance with plant design specifications and the undertaker’s operational and safety requirements;
+- “[^c-df904df64d89f957fae318ec9951a537]**commissioning**” means the process of testing the systems and components of the phase of Work No. 1 that is the subject of the notice given under requirement 3 of Schedule 2 (requirements) in order to ensure that they function in accordance with plant design specifications and the undertaker’s operational and safety requirements;
 - “**date of final commissioning**” means in respect of each phase of the authorised development as approved under requirement 3 of Schedule 2 (requirements) the date on which each phase of the authorised development commences operation by generating electricity on a commercial basis but excluding the generation of electricity during commissioning;
 - “**design and access statement**” means the document of that name identified in the table of Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the design and access statement for the purposes of this Order;
 - “**design guidance**” means section 4.5 of the design and access statement;
@@ -60,7 +60,7 @@ summary: ''
 - “**limits of deviation**” means the limits of deviation shown for each numbered work on the works plans;
 - “**maintain**” includes inspect, repair, adjust, alter, remove, refurbish, reconstruct, replace and improve any part of the authorised development (but not remove, reconstruct or replace the whole of Work No. 1 at the same time), to the extent that such works do not give rise to any materially new or materially different environmental effects than those identified in the environmental statement for the operation of the authorised development and “maintenance” and “maintaining” are to be construed accordingly;
 - “**Order land**” means the land shown coloured pink and the land shown coloured blue on the land plans, which is described in the book of reference;
-- “**Order limits**” means the limits of land or rights over land[^key-5037c6dcb91a536120d15f8005fa6dc7] to be acquired permanently or used temporarily as shown on the land plans, and within which the authorised development as shown on the works plans may be carried out;
+- “**Order limits**” means the limits of land or rights over land[^c-5037c6dcb91a536120d15f8005fa6dc7] to be acquired permanently or used temporarily as shown on the land plans, and within which the authorised development as shown on the works plans may be carried out;
 - “**outline construction environmental management plan**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the outline construction environmental management plan for the purposes of this Order;
 - “**outline construction traffic management plan**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the outline construction traffic management plan for the purposes of this Order;
 - “**outline decommissioning environmental management plan**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the outline decommissioning environmental management plan for the purposes of this Order;
@@ -118,7 +118,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1aa3acced4c2fd79efad4a4e5825e47e]: Commencement: Art. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-1aa3acced4c2fd79efad4a4e5825e47e]: Commencement: Art. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
 [^f00012]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -138,13 +138,13 @@ summary: ''
 
 [^f00020]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-df904df64d89f957fae318ec9951a537]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2024/796/article/2) substituted by virtue of (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-df904df64d89f957fae318ec9951a537]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2024/796/article/2) substituted by virtue of (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
 
 [^f00021]: Footnote: “highway” is defined in section 328(1). For “highway authority” see section 1.
 
 [^f00022]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-5037c6dcb91a536120d15f8005fa6dc7]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2024/796/article/2) inserted (1.11.2024) by virtue of [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-5037c6dcb91a536120d15f8005fa6dc7]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2024/796/article/2) inserted (1.11.2024) by virtue of [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
 
 [^f00023]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 

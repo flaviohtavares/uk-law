@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Opting out after the first three months[^key-a8c2d4ca652de56445c0013489310d1e]
+## 16. Opting out after the first three months[^c-a8c2d4ca652de56445c0013489310d1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8c2d4ca652de56445c0013489310d1e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/2848/regulation/16) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-a8c2d4ca652de56445c0013489310d1e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/2848/regulation/16) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

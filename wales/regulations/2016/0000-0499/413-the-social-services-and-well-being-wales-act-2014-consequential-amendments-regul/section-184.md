@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**184.**[^key-df94cb934a32bf28cf91c75099d4e1a7] Omit section 56 (cross border placements).
+**184.**[^c-df94cb934a32bf28cf91c75099d4e1a7] Omit section 56 (cross border placements).
 
 ## Annotations
 
-[^key-df94cb934a32bf28cf91c75099d4e1a7]: Commencement: Reg. 184 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-df94cb934a32bf28cf91c75099d4e1a7]: Commencement: Reg. 184 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

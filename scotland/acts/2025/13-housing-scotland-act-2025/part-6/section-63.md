@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Decisions of the Scottish Housing Regulator: reviews and appeals[^key-89e35a5d0902e6967e17c251e2d5e0f9]
+## 63. Decisions of the Scottish Housing Regulator: reviews and appeals[^c-89e35a5d0902e6967e17c251e2d5e0f9]
 
 *Extent: S*
 
@@ -131,4 +131,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89e35a5d0902e6967e17c251e2d5e0f9]: Commencement: S. 63 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-89e35a5d0902e6967e17c251e2d5e0f9]: Commencement: S. 63 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

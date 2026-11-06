@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Visits to children in long-term care[^key-474af98834fac3950ab70ed34e30ad4e][^key-6c2d3468439de5ec21eb41c9ef80a7ce]
+## 18. Visits to children in long-term care[^c-474af98834fac3950ab70ed34e30ad4e][^c-6c2d3468439de5ec21eb41c9ef80a7ce]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ After section 86 of the 1989 Act insert—
 
 ## Annotations
 
-[^key-474af98834fac3950ab70ed34e30ad4e]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2008/23/section/18) in force at 1.1.2010 for specified purposes by [S.I. 2009/3354](https://www.legislation.gov.uk/uksi/2009/3354), [art. 2](https://www.legislation.gov.uk/uksi/2009/3354/article/2)
+[^c-474af98834fac3950ab70ed34e30ad4e]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2008/23/section/18) in force at 1.1.2010 for specified purposes by [S.I. 2009/3354](https://www.legislation.gov.uk/uksi/2009/3354), [art. 2](https://www.legislation.gov.uk/uksi/2009/3354/article/2)
 
-[^key-6c2d3468439de5ec21eb41c9ef80a7ce]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2008/23/section/18) in force at 1.4.2011 in so far as not already in force by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2981/article/2/b)
+[^c-6c2d3468439de5ec21eb41c9ef80a7ce]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2008/23/section/18) in force at 1.4.2011 in so far as not already in force by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2981/article/2/b)

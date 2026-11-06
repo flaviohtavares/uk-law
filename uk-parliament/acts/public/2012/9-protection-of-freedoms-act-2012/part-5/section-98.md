@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Section 96: supplementary[^key-eeeca73bafe0f1d33d295f0288e9c0b0]
+## 98. Section 96: supplementary[^c-eeeca73bafe0f1d33d295f0288e9c0b0]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ to determine any question affecting the rights, privileges, obligations or liabi
 
 ## Annotations
 
-[^key-eeeca73bafe0f1d33d295f0288e9c0b0]: Commencement: S. 98 in force at 1.10.2012 by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/i)
+[^c-eeeca73bafe0f1d33d295f0288e9c0b0]: Commencement: S. 98 in force at 1.10.2012 by [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 3(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/3/i)

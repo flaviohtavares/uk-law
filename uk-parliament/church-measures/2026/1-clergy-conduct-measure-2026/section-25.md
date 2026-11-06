@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 25. Complaint of misconduct: report[^key-58c02701827250b8b9bc4537a1886999]
+## 25. Complaint of misconduct: report[^c-58c02701827250b8b9bc4537a1886999]
 
 *Extent: E*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58c02701827250b8b9bc4537a1886999]: Commencement: S. 25 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-58c02701827250b8b9bc4537a1886999]: Commencement: S. 25 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

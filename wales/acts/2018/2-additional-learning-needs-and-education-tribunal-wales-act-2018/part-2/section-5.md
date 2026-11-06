@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Procedure for making the code[^key-6e5819d15a75be000759f68766322161]
+## 5. Procedure for making the code[^c-6e5819d15a75be000759f68766322161]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) the governing body of each maintained school in Wales;
 - (c) the governing body of each institution in the further education sector in Wales;
 - (d) Her Majesty's Chief Inspector of Education and Training in Wales;
-- (da)[^key-f5a25425824bfcb27128c2c38cb81c0c] the Commission for Tertiary Education and Research;
+- (da)[^c-f5a25425824bfcb27128c2c38cb81c0c] the Commission for Tertiary Education and Research;
 - (e) the Children's Commissioner for Wales;
 - (f) the Welsh Language Commissioner;
 - (g) the relevant committee of the National Assembly for Wales with remit for the education of children and young persons;
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e5819d15a75be000759f68766322161]: Commencement: S. 5 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/a)
+[^c-6e5819d15a75be000759f68766322161]: Commencement: S. 5 in force at 2.11.2020 by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/2/a)
 
-[^key-f5a25425824bfcb27128c2c38cb81c0c]: Textual amendment: S. 5(1)(da) inserted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 39(3)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/39/3) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww)[(xlv)](https://www.legislation.gov.uk/wsi/2026/62/article/2/xlv)
+[^c-f5a25425824bfcb27128c2c38cb81c0c]: Textual amendment: S. 5(1)(da) inserted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 39(3)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/39/3) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww)[(xlv)](https://www.legislation.gov.uk/wsi/2026/62/article/2/xlv)

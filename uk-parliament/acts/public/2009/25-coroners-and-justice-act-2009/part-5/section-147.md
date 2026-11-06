@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Retention of knives surrendered or seized (Northern Ireland)[^key-c9d22507f9dd1dcace78aaa14955c0ee]
+## 147. Retention of knives surrendered or seized (Northern Ireland)[^c-c9d22507f9dd1dcace78aaa14955c0ee]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9d22507f9dd1dcace78aaa14955c0ee]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2009/25/section/147) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/10)
+[^c-c9d22507f9dd1dcace78aaa14955c0ee]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2009/25/section/147) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/10)

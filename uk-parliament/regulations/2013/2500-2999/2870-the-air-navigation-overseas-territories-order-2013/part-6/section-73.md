@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Regulation of small unmanned aircraft[^key-43e6b53551e02e19738dd4b7200e0980]
+## 73. Regulation of small unmanned aircraft[^c-43e6b53551e02e19738dd4b7200e0980]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,9 +24,9 @@ summary: ''
 
 (2) The person in charge of a small unmanned aircraft may only fly the aircraft if reasonably satisfied that the flight can safely be made.
 
-(3) Unless the Governor has granted written permission, the person[^key-e1c1fb1a2e1fbb6962dc43f63945f904] in charge of a small unmanned aircraft must maintain direct, unaided visual contact with the aircraft sufficient to monitor its flight path in relation to other aircraft, persons, vehicles, vessels and structures for the purpose of avoiding collisions.
+(3) Unless the Governor has granted written permission, the person[^c-e1c1fb1a2e1fbb6962dc43f63945f904] in charge of a small unmanned aircraft must maintain direct, unaided visual contact with the aircraft sufficient to monitor its flight path in relation to other aircraft, persons, vehicles, vessels and structures for the purpose of avoiding collisions.
 
-(4)[^key-443c3325f3ebd7922f982310b0bebf56] The person in charge of a small unmanned aircraft must not fly the aircraft—
+(4)[^c-443c3325f3ebd7922f982310b0bebf56] The person in charge of a small unmanned aircraft must not fly the aircraft—
 
 - (a) at a height of more than 400 feet above the surface;
 - (b) for aerial work;
@@ -37,16 +37,16 @@ summary: ''
 
 except with the permission of the Governor.
 
-(5)[^key-8c5abd7b40227af2c9a1982410402548] A small unmanned aircraft must be operated in accordance with instructions issued and requirements published by the Governor, and in such a manner as to minimise hazards to persons, property or other aircraft
+(5)[^c-8c5abd7b40227af2c9a1982410402548] A small unmanned aircraft must be operated in accordance with instructions issued and requirements published by the Governor, and in such a manner as to minimise hazards to persons, property or other aircraft
 
 (6) The Governor may require that a person who intends to operate in the Territory a small unmanned aircraft with a mass of more than 400 grammes, excluding its fuel but including any articles or equipment installed in or attached to the aircraft at the commencement of its flight, must provide the Governor with such information regarding the purpose, scope, location and manner of operation as the Governor may prescribe.
 
 ## Annotations
 
-[^key-43e6b53551e02e19738dd4b7200e0980]: Commencement: [Art. 73](https://www.legislation.gov.uk/uksi/2013/2870/article/73) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-43e6b53551e02e19738dd4b7200e0980]: Commencement: [Art. 73](https://www.legislation.gov.uk/uksi/2013/2870/article/73) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-e1c1fb1a2e1fbb6962dc43f63945f904]: Textual amendment: Words in [art. 73(3)](https://www.legislation.gov.uk/uksi/2013/2870/article/73/3) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2021/755/article/9/a)
+[^c-e1c1fb1a2e1fbb6962dc43f63945f904]: Textual amendment: Words in [art. 73(3)](https://www.legislation.gov.uk/uksi/2013/2870/article/73/3) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2021/755/article/9/a)
 
-[^key-443c3325f3ebd7922f982310b0bebf56]: Textual amendment: [Art. 73(4)-(6)](https://www.legislation.gov.uk/uksi/2013/2870/article/73/4) substituted for art. 73(4)-(10) (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2021/755/article/9/b)
+[^c-443c3325f3ebd7922f982310b0bebf56]: Textual amendment: [Art. 73(4)-(6)](https://www.legislation.gov.uk/uksi/2013/2870/article/73/4) substituted for art. 73(4)-(10) (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2021/755/article/9/b)
 
-[^key-8c5abd7b40227af2c9a1982410402548]: Textual amendment: [Art. 73(5)](https://www.legislation.gov.uk/uksi/2013/2870/article/73/5) substituted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [7(1)](https://www.legislation.gov.uk/uksi/2024/384/article/7/1)
+[^c-8c5abd7b40227af2c9a1982410402548]: Textual amendment: [Art. 73(5)](https://www.legislation.gov.uk/uksi/2013/2870/article/73/5) substituted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [7(1)](https://www.legislation.gov.uk/uksi/2024/384/article/7/1)

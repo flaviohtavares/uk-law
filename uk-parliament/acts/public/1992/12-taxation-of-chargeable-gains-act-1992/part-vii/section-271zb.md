@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271ZB. Official agents of Commonwealth countries or Republic of Ireland etc[^key-59a45579f31559a8bee40b2f091b9f78]
+## 271ZB. Official agents of Commonwealth countries or Republic of Ireland etc[^c-59a45579f31559a8bee40b2f091b9f78]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59a45579f31559a8bee40b2f091b9f78]: Textual amendment: [Ss. 271ZA](https://www.legislation.gov.uk/ukpga/1992/12/section/271ZA), [271ZB](https://www.legislation.gov.uk/ukpga/1992/12/section/271ZB) and cross-heading inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/9)
+[^c-59a45579f31559a8bee40b2f091b9f78]: Textual amendment: [Ss. 271ZA](https://www.legislation.gov.uk/ukpga/1992/12/section/271ZA), [271ZB](https://www.legislation.gov.uk/ukpga/1992/12/section/271ZB) and cross-heading inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Burial register[^key-fe684bbbf6d98c840445a6ead8588fa8][^key-f553fd33523b60e450ec2c24ab84c654]
+## 10. Burial register[^c-fe684bbbf6d98c840445a6ead8588fa8][^c-f553fd33523b60e450ec2c24ab84c654]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe684bbbf6d98c840445a6ead8588fa8]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/20/section/10) in force at 2.6.2023 for specified purposes by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)
+[^c-fe684bbbf6d98c840445a6ead8588fa8]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/20/section/10) in force at 2.6.2023 for specified purposes by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)
 
-[^key-f553fd33523b60e450ec2c24ab84c654]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/20/section/10) in force at 1.3.2025 in so far as not already in force by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2024/335/schedule)
+[^c-f553fd33523b60e450ec2c24ab84c654]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2016/20/section/10) in force at 1.3.2025 in so far as not already in force by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2024/335/schedule)

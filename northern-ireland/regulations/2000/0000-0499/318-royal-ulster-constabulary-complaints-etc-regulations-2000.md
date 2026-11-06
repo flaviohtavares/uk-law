@@ -43,13 +43,13 @@ Coming into operation
 
 The Secretary of State, in pursuance of Section 64 of the Police (Northern Ireland) Act 1998 and after consulting the Ombudsman, the Police Authority and the Police Association for Northern Ireland, in accordance with Section 64(4) of that Act, hereby makes the following regulations:—
 
-## 1. Citation, commencement and revocation[^key-5dfe5fbfd73e6d514182d353f752243e]
+## 1. Citation, commencement and revocation[^c-5dfe5fbfd73e6d514182d353f752243e]
 
 (1) These regulations may be cited as the Royal Ulster Constabulary (Complaints etc) Regulations 2000 and shall come into operation on 6th November 2000.
 
 (2) The Royal Ulster Constabulary (Complaints, etc) Regulations 1988 are hereby revoked.
 
-## 2. Interpretation[^key-f290e122df1d624bdf94d396e8d8bc18]
+## 2. Interpretation[^c-f290e122df1d624bdf94d396e8d8bc18]
 
 The following expressions have the meanings hereby respectively assigned to them, that is to say:—
 
@@ -58,7 +58,7 @@ The following expressions have the meanings hereby respectively assigned to them
 - “complaint” means a complaint to which Section 50 of the Act of 1998 applies and “copy of a complaint”, in the case of a complaint made orally, shall include a copy of the record of the complaint;
 - “member” means a member of the Royal Ulster Constabulary, or of the Royal Ulster Constabulary Reserve;
 - “member concerned”, in relation to a complaint, means the member about whose conduct the complaint is made;
-- “member of appropriate rank” means an officer of chief superintendent or superintendent rank; and[^key-14135894d7c02ad213fb4d0f3bcfc6b3]
+- “member of appropriate rank” means an officer of chief superintendent or superintendent rank; and[^c-14135894d7c02ad213fb4d0f3bcfc6b3]
 - “a panel member who is not a serving police officer”, means a person who is eligible to sit on an employment tribunal or a legal practitioner.
 - “Register” includes the holding of information by electronic means
 - “senior officer” means an officer of the rank of chief constable, deputy chief constable or assistant chief constable.
@@ -69,7 +69,7 @@ The following expressions have the meanings hereby respectively assigned to them
 - “the Director” means the Director of Public Prosecutions for Northern Ireland
 - “the Ombudsman” means the Police Ombudsman for Northern Ireland established by Section 51 of the Act of 1998;
 
-## 3. Application of regulations[^key-ed74a306ecbbbd08bacef166dd75cb90]
+## 3. Application of regulations[^c-ed74a306ecbbbd08bacef166dd75cb90]
 
 These Regulations apply to—
 
@@ -77,13 +77,13 @@ These Regulations apply to—
 - (b) any matter under consideration by the Ombudsman under section 55 of the Act of 1998; and
 - (c) any complaint referred to in Article 4 of the Police (Northern Ireland) Act 1998 (Commencement) Order (Northern Ireland) 2000
 
-## 4. Making complaints[^key-19d838ab55c8d7bc9f8b7587efd41b36]
+## 4. Making complaints[^c-19d838ab55c8d7bc9f8b7587efd41b36]
 
 (1) A complainant may make a complaint to the Ombudsman, the Police Authority or the Chief Constable; or
 
 (2) A complainant may have a complaint registered on his behalf by a third party providing the complainant gives his consent, either in writing or orally, or is incapable of giving consent.
 
-## 5. Definition of a complaint[^key-27e697de10102bc8d002ca0526e031d2]
+## 5. Definition of a complaint[^c-27e697de10102bc8d002ca0526e031d2]
 
 It is for the Ombudsman to determine what constitutes a complaint under Section (52)(8) of the Act of 1998, subject to the following exceptions;
 
@@ -93,13 +93,13 @@ It is for the Ombudsman to determine what constitutes a complaint under Section 
 
 shall not constitute a complaint under Section (52)(8) of the Act of 1998.
 
-## 6. Police Ombudsman to notify the appropriate authority, the complainant and the member concerned[^key-7afd1c6c4cb49c488a8052f058707c7f]
+## 6. Police Ombudsman to notify the appropriate authority, the complainant and the member concerned[^c-7afd1c6c4cb49c488a8052f058707c7f]
 
 (1) Where the Ombudsman has recorded a complaint against a member, the Ombudsman shall, as soon as practicable, send a copy of, or a record of the complaint to the appropriate authority and the complainant.
 
 (2) Where the Ombudsman has received a complaint against a member, or the Ombudsman is to investigate any other matter under Section 55 of the Act of 1998 he shall, as soon as practicable, send a copy of, or a record of the complaint to the member, unless to do so would impede the investigation or any other investigation of the matter.
 
-## 7. Procedures for notification of matters relating to suspension[^key-e3d6db16b21bfdc4c52ab60e8c7a6012]
+## 7. Procedures for notification of matters relating to suspension[^c-e3d6db16b21bfdc4c52ab60e8c7a6012]
 
 (1) Where the Ombudsman determines during the course of an investigation that the investigation indicates that the conduct of a member did not meet the appropriate standard, the Ombudsman shall immediately notify the appropriate authority, and provide all relevant material, to enable the appropriate authority to consider suspension.
 
@@ -109,15 +109,15 @@ shall not constitute a complaint under Section (52)(8) of the Act of 1998.
 
 (4) The Ombudsman shall immediately inform the appropriate authority of any matter which indicates that the appropriate authority should reconsider the suspension.
 
-## 8. Supply of information to Ombudsman – general[^key-7af46a88b3722c4f8488d3e51728c16a]
+## 8. Supply of information to Ombudsman – general[^c-7af46a88b3722c4f8488d3e51728c16a]
 
 The appropriate authority shall supply the Ombudsman with such material as he may require relating to a complaint under Section 52 of the Act of 1998, or investigation under Section 55 of the Act of 1998, whether or not such complaint or matter is the subject of an investigation by the Ombudsman or supervised by the Ombudsman, for the purpose of enabling the Ombudsman to fulfil his functions under the said Act.
 
-## 9. Procedures for the Ombudsman to refer complaints to the Chief Constable to investigate[^key-73964be2246471d5878c087a7e542ae7]
+## 9. Procedures for the Ombudsman to refer complaints to the Chief Constable to investigate[^c-73964be2246471d5878c087a7e542ae7]
 
 Where the Ombudsman decides to forward a complaint to the Chief Constable to investigate under Section 54 of the 1998 Act, he shall do so immediately on making that decision, and forward all relevant material.
 
-## 10. Procedures for the Ombudsman to refer complaints to the appropriate authority to resolve by way of informal resolution[^key-cb84f7f25ce688e8ef3eb919e088ecb0]
+## 10. Procedures for the Ombudsman to refer complaints to the appropriate authority to resolve by way of informal resolution[^c-cb84f7f25ce688e8ef3eb919e088ecb0]
 
 (1) Where the Ombudsman decides to forward the complaint to the appropriate authority to resolve by informal resolution under Section 53 of the 1998 Act, he shall do so immediately and forward all relevant material.
 
@@ -125,31 +125,31 @@ Where the Ombudsman decides to forward a complaint to the Chief Constable to inv
 
 (3) A complaint is not suitable for informal resolution where the Ombudsman is satisfied that the conduct complained of, if proved, would justify a criminal charge.
 
-## 11. Procedures for complaints being formally investigated to be informally resolved[^key-4dc00c68fa94dc82c8eb3d994c74d4c6]
+## 11. Procedures for complaints being formally investigated to be informally resolved[^c-4dc00c68fa94dc82c8eb3d994c74d4c6]
 
 (1) Where the Ombudsman is investigating a complaint under Section 56 of the Act of 1998 and he determines that the evidence uncovered shows that the complaint is suitable for informal resolution, he may refer it to the appropriate authority to informally resolve under Section 53 of the Act.
 
 (2) Where the Chief Constable is investigating a complaint under Section 57 of the Act of 1998 and he determines that the evidence uncovered shows that the complaint is suitable for informal resolution, he may seek permission from the Ombudsman to informally resolve the complaint and if he agrees, informally resolve the complaint under Section 53 of the Act.
 
-## 12. Procedures for the Ombudsman to forward complaints to the Chief Constable to initiate unsatisfactory performance procedures[^key-f6b20b43b5508ed8c28171524f1a8219]
+## 12. Procedures for the Ombudsman to forward complaints to the Chief Constable to initiate unsatisfactory performance procedures[^c-f6b20b43b5508ed8c28171524f1a8219]
 
 (1) Where the Ombudsman in consultation with the Chief Constable considers the complaint to be a matter of unsatisfactory performance rather than misconduct, the Ombudsman shall notify the Chief Constable and forward all relevant material.
 
 (2) Where the Ombudsman forwards the complaint to the Chief Constable to deal with under the Royal Ulster Constabulary (Unsatisfactory Performance) Regulations 2000, the requirements of Part VII of the Act to the extent that they have not already been satisfied should be dispensed with and he shall notify the member concerned and the complainant accordingly.
 
-## 13. Notification of supervision[^key-4bda6f213d24f51e5aa7a1374a3c5e89]
+## 13. Notification of supervision[^c-4bda6f213d24f51e5aa7a1374a3c5e89]
 
 (1) Where the Ombudsman has referred a complaint to the Chief Constable to investigate under Section 54 of the Act of 1998, if the Ombudsman determines to supervise an investigation he shall notify the Chief Constable when he forwards the complaint for investigation.
 
 (2) If during the course of the investigation the Ombudsman determines to relinquish supervision of the investigation, he shall notify the Chief Constable immediately of that decision.
 
-## 14. Power of Ombudsman to impose requirements in relation to investigations[^key-e46e5861a5a9a2b400f4c15324da2ab1]
+## 14. Power of Ombudsman to impose requirements in relation to investigations[^c-e46e5861a5a9a2b400f4c15324da2ab1]
 
 (1) Without prejudice to the Ombudsman’s powers in relation to the appointment of an investigating officer under Section 57 of the 1998 Act, the Ombudsman may, where he undertakes the supervision of an investigation of a complaint, issue directions imposing such additional requirements as to the conduct of the investigation as appear to him to be necessary.
 
 (2) The Ombudsman shall not, under paragraph (1) above, impose any requirement relating to the resources to be made available by the Chief Constable for the purposes of an investigation without first consulting him and having regard to any representations he may make.
 
-## 15. Procedures for the Ombudsman to continue investigations which have previously been conducted by the Chief Constable[^key-d4ba5d3386951ca031cf453d63bf8488]
+## 15. Procedures for the Ombudsman to continue investigations which have previously been conducted by the Chief Constable[^c-d4ba5d3386951ca031cf453d63bf8488]
 
 (1) Where the Chief Constable is conducting an investigation under Section 57 of the Act of 1998, and the Ombudsman determines to assume the investigation—
 
@@ -158,18 +158,18 @@ Where the Ombudsman decides to forward a complaint to the Chief Constable to inv
 
 (2) Where the Chief Constable is conducting an investigation, the Chief Constable shall notify the Ombudsman of any information revealed during an investigation which may suggest that it is in the public interest for the Ombudsman to continue the investigation in accordance with Section 56 of the Act of 1998.
 
-## 16. Procedures for the Ombudsman to refer an investigation which he has been conducting to the Chief Constable to continue[^key-836c14de8b44be7584106c1241cd4ef4]
+## 16. Procedures for the Ombudsman to refer an investigation which he has been conducting to the Chief Constable to continue[^c-836c14de8b44be7584106c1241cd4ef4]
 
 Where the Ombudsman is conducting an investigation under Section 56 of the Act of 1998 and he determines to refer the complaint to the Chief Constable to investigate under Section 57 of the Act of 1998—
 
 - (a) the Ombudsman shall notify the Chief Constable immediately of his decision; and
 - (b) the Ombudsman shall immediately furnish the Chief Constable with all relevant material.
 
-## 17. Conduct of Investigations[^key-113b5585ee69b35d3be4a4069d352b25]
+## 17. Conduct of Investigations[^c-113b5585ee69b35d3be4a4069d352b25]
 
 Investigations under Section 56 or 57 of the Act of 1998 shall be conducted without undue delay.
 
-## 18. Functions of Ombudsman as to criminal proceedings[^key-f48e725412349cda5314838a9c937cdd]
+## 18. Functions of Ombudsman as to criminal proceedings[^c-f48e725412349cda5314838a9c937cdd]
 
 (1) Where the Ombudsman considers any report under Section 58 of the Act of 1998 he shall deal with the report without undue delay and shall, as soon as practicable, take such decisions as appear to him appropriate.
 
@@ -178,7 +178,7 @@ Investigations under Section 56 or 57 of the Act of 1998 shall be conducted with
 - (a) forward the report to the Director without undue delay; and
 - (b) notify the appropriate authority without undue delay.
 
-## 19. Functions of Ombudsman as to disciplinary charges[^key-86a0e468845ca493d4e1a63ec6e2c182]
+## 19. Functions of Ombudsman as to disciplinary charges[^c-86a0e468845ca493d4e1a63ec6e2c182]
 
 (1) Where the Ombudsman considers disciplinary proceedings under Section 59 of the Act of 1998 he shall deal with the case without undue delay and shall, as soon as practicable, and send all relevant material, and a memorandum with such particulars as specified in Section 59(2) of the Act of 1998 concerning such disciplinary proceedings as appear to him appropriate .
 
@@ -197,16 +197,16 @@ and may furnish the complainant with such relevant information in explanation th
 
 (6) The Ombudsman shall be relieved of the duty of notifying the complainant as mentioned in paragraphs (3), 4(*b*) or (5) if compliance therewith appears to it to be not reasonably practicable.
 
-(7) Where the Chief Constable has, under the Police (Conduct) Regulations (Northern Ireland) 2016[^key-1c9cccc12dfb54405839528adbd58bff], delegated the duty of deciding whether a member should be charged with a disciplinary offence, the references in paragraphs (2), (4) and (5) to the Chief Constable shall be taken as references to the officer to whom the duty is delegated.
+(7) Where the Chief Constable has, under the Police (Conduct) Regulations (Northern Ireland) 2016[^c-1c9cccc12dfb54405839528adbd58bff], delegated the duty of deciding whether a member should be charged with a disciplinary offence, the references in paragraphs (2), (4) and (5) to the Chief Constable shall be taken as references to the officer to whom the duty is delegated.
 
-## 20. Supply of report on the investigation of matters not the subject of a complaint[^key-ac41dc9bed9b3a27ffa84e29d0358d40]
+## 20. Supply of report on the investigation of matters not the subject of a complaint[^c-ac41dc9bed9b3a27ffa84e29d0358d40]
 
 At the end of an investigation of a matter investigated under Section 55 of the Act of 1998, the Ombudsman shall send a copy of the report on the investigation to:
 
 - (i) the Police Authority and the Chief Constable unless they have already received a copy of the report under regulation 18; and
-- (ii) the Department of Justice[^key-78a2946f932f307c86d1bfc39adeb485].
+- (ii) the Department of Justice[^c-78a2946f932f307c86d1bfc39adeb485].
 
-## 21. Copies of complaints[^key-74d47b8c0619edd4a8c132578d1fe064]
+## 21. Copies of complaints[^c-74d47b8c0619edd4a8c132578d1fe064]
 
 (1) Subject to paragraph (2), a copy of the complaint shall be supplied by the Ombudsman to—
 
@@ -218,15 +218,15 @@ where either of them so requests in writing.
 (2) The Ombudsman may, by notice in writing to the person who made the request, refuse to supply a copy of the complaint under paragraph (1) if of the opinion that compliance with the request—
 
 - (a) might prejudice any criminal investigation or proceedings pending at the time the request is made, or
-- (b) would be contrary to the public interest and the Department of Justice[^key-c16eedd427989e05b4dd1296948a83d4] agrees the request should not be complied with;
+- (b) would be contrary to the public interest and the Department of Justice[^c-c16eedd427989e05b4dd1296948a83d4] agrees the request should not be complied with;
 
 and where such notice is given no further request may be made under paragraph (1) within the period of six months beginning with the date of the notice, without prejudice, however, to further such requests being made subsequently.
 
-## 22. Complaints register[^key-0afe277a51ed571a118db7acda59438f]
+## 22. Complaints register[^c-0afe277a51ed571a118db7acda59438f]
 
 The Ombudsman shall cause a register of complaints against members to be kept in which there shall be recorded the steps taken in dealing with a complaint and their outcome.
 
-## 23. Withdrawn complaints[^key-280651d9c52c614fde001c90f83aeb29]
+## 23. Withdrawn complaints[^c-280651d9c52c614fde001c90f83aeb29]
 
 The provisions of Part VII of the Act of 1998 shall not apply in respect of a complaint if:
 
@@ -241,7 +241,7 @@ The provisions of Part VII of the Act of 1998 shall not apply in respect of a co
 
 (4) Where the complaint is withdrawn the Ombudsman shall record the complaint as withdrawn.
 
-## 24. Complaints where the complainant fails to indicate whether he wishes further steps to be taken[^key-34957583121b39b68918e59e421b389f]
+## 24. Complaints where the complainant fails to indicate whether he wishes further steps to be taken[^c-34957583121b39b68918e59e421b389f]
 
 (1) Where the complainant fails to indicate whether he wishes further steps to be taken the provisions of Part VII of the Act of 1998 shall not apply in respect of a complaint, where the Ombudsman has written to the complainant by recorded delivery and the complainant has not notified the investigating officer within 21 days that he wishes any further steps to be taken.
 
@@ -249,13 +249,13 @@ The provisions of Part VII of the Act of 1998 shall not apply in respect of a co
 
 (3) Where the complainant fails to indicate whether he wishes any further steps to be taken, the member concerned, the appropriate authority and the complainant shall be notified by the Ombudsman accordingly.
 
-## 25. Complaints which are anonymous, repetitious, vexatious, oppressive or otherwise an abuse of the procedures for dealing with complaints or incapable of investigation[^key-100c7a166d8ffb1a1b2a934681cef0f3]
+## 25. Complaints which are anonymous, repetitious, vexatious, oppressive or otherwise an abuse of the procedures for dealing with complaints or incapable of investigation[^c-100c7a166d8ffb1a1b2a934681cef0f3]
 
 (1) Where the Ombudsman is of the opinion—
 
-- (a) that a complaint is an anonymous or a repetitious one within the meaning of paragraph 2 or 3 of the Schedule or that a complaint is vexatious, oppressive or otherwise an abuse of the procedures for dealing with complaints or that it is not reasonably practicable to complete the investigation of a complaint, within the meaning of paragraph 4 thereof, [^key-4a6bf17797e4b2434a8f59dc6ff49169]...
-- (b)[^key-def7136cc468197a65eab66d7b69182d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) and[^key-8f606aeba8e2ecfcb6f03c6d284ec332], in all the circumstances, the requirements of Part VII of the Act to the extent that they have not already been satisfied should be dispensed with,
+- (a) that a complaint is an anonymous or a repetitious one within the meaning of paragraph 2 or 3 of the Schedule or that a complaint is vexatious, oppressive or otherwise an abuse of the procedures for dealing with complaints or that it is not reasonably practicable to complete the investigation of a complaint, within the meaning of paragraph 4 thereof, [^c-4a6bf17797e4b2434a8f59dc6ff49169]...
+- (b)[^c-def7136cc468197a65eab66d7b69182d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) and[^c-8f606aeba8e2ecfcb6f03c6d284ec332], in all the circumstances, the requirements of Part VII of the Act to the extent that they have not already been satisfied should be dispensed with,
 
 the Ombudsman may dispense with the said requirements as respects the complaint.
 
@@ -274,16 +274,16 @@ the Ombudsman may dispense with the said requirements as respects the complaint.
 
 (6) The Ombudsman shall inform the member concerned, where known, in writing of his decision to dispense with the requirements mentioned in paragraph (1).
 
-## 26. Expenses of complainants and witnesses[^key-5768bba51b29d5665dc04e8508b35687]
+## 26. Expenses of complainants and witnesses[^c-5768bba51b29d5665dc04e8508b35687]
 
 (1) The Ombudsman may, if he thinks fit, pay to the person by whom the complaint was made:
 
 - (a) sums in respect of expenses properly incurred by them, excluding legal expenses;
 - (b) allowances by way of compensation for the loss of their time,
 
-in accordance with such scales and subject to such conditions as the Department of Justice[^key-80c2d1661f09de162a75b52664a6fa11] may determine.
+in accordance with such scales and subject to such conditions as the Department of Justice[^c-80c2d1661f09de162a75b52664a6fa11] may determine.
 
-## 27. Recommendations on compensation for complainants[^key-aba60e12d5864d95b3bcc2e960a10306]
+## 27. Recommendations on compensation for complainants[^c-aba60e12d5864d95b3bcc2e960a10306]
 
 (1) Where the Ombudsman is satisfied that a complaint has been substantiated, the Ombudsman may recommend to the Chief Constable that he should pay compensation to the complainant where:
 
@@ -295,11 +295,11 @@ in accordance with such scales and subject to such conditions as the Department 
 
 (3) It shall not be disclosed in any criminal or disciplinary proceedings that compensation has been recommended or paid.
 
-## 28. Directed tribunals[^key-b84013bff9e571b92474f77bb3f3d9cc]
+## 28. Directed tribunals[^c-b84013bff9e571b92474f77bb3f3d9cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 29. Exceptional Ccircumstances[^key-eee8bc5c3e7f7dbfbc4f43338a9d48d8]
+## 29. Exceptional Ccircumstances[^c-eee8bc5c3e7f7dbfbc4f43338a9d48d8]
 
 (1) Where the Ombudsman recommends special disciplinary proceedings under Section 59(2)(*c*) and the Chief Constable agrees:
 
@@ -310,7 +310,7 @@ in accordance with such scales and subject to such conditions as the Department 
 
 (3) Where the panel determine that there was a breach of conduct the Chairman may, after consulting the other members of the panel, make recommendations to the Chief Constable as to any sanctions it considers appropriate.
 
-## 30. Delegation of functions by chief constable[^key-701cbb2ea8632e715ee3c823952d041e]
+## 30. Delegation of functions by chief constable[^c-701cbb2ea8632e715ee3c823952d041e]
 
 (1) Subject to paragraphs (3) and (4), the Chief Constable may delegate all or any of the functions or duties conferred on him under Part VII the Act of 1998, to the deputy chief constable or an assistant chief constable.
 
@@ -320,7 +320,7 @@ in accordance with such scales and subject to such conditions as the Department 
 
 (4) A member who has conducted an investigation in a case, or who has acted in relation to it in pursuance of an attempt to resolve it by way of informal resolution shall not, as respects that case, exercise any function or duty in pursuance of a delegation under paragraph (1).
 
-## 31. Regulation relating to excepted and reserved matters etc[^key-a649fd730af98c34f3581c0ebcd6d4a8]
+## 31. Regulation relating to excepted and reserved matters etc[^c-a649fd730af98c34f3581c0ebcd6d4a8]
 
 (1) At the end of an investigation of a matter investigated under section 55 of the Act of 1998, the Ombudsman shall send a copy of the report on the investigation to the Secretary of State if the report relates wholly or in part to an excepted matter (within the meaning given by section 4 of the Northern Ireland Act 1998), a reserved matter (within the meaning given by that section) or a matter in respect of which a function is conferred or imposed on the Secretary of State by or under a statutory provision.
 
@@ -338,13 +338,13 @@ Northern Ireland Office
 
 Regulation 22
 
-**1.**[^key-8c421aa28c094f04be1259782762e0dd] (1) In this Schedule any reference to an injured person other than the complainant shall have effect only in the case of a complaint against a member in respect of his conduct towards a person other than the complainant; and, in such a case, any such reference is a reference to that other person.
+**1.**[^c-8c421aa28c094f04be1259782762e0dd] (1) In this Schedule any reference to an injured person other than the complainant shall have effect only in the case of a complaint against a member in respect of his conduct towards a person other than the complainant; and, in such a case, any such reference is a reference to that other person.
 
 (2) In this Schedule any reference to action not being reasonably practicable shall include a reference to action which it does not appear reasonably practicable to take within a period which is reasonable in all the circumstances of the case.
 
-**2.**[^key-357fbe2aeb20e6c63a308034be8039f6] For the purposes of regulation 25 a complaint is an anonymous one if, and only if, it discloses (or purports to disclose) neither the name and address of the complainant nor that of any other injured person and it is not reasonably practicable to ascertain such a name and address.
+**2.**[^c-357fbe2aeb20e6c63a308034be8039f6] For the purposes of regulation 25 a complaint is an anonymous one if, and only if, it discloses (or purports to disclose) neither the name and address of the complainant nor that of any other injured person and it is not reasonably practicable to ascertain such a name and address.
 
-**3.**[^key-a5ac6c2c7a7915d1a1edfd9580363231] (1) For the purposes of regulation 25 a complaint is a repetitious one if, and only if—
+**3.**[^c-a5ac6c2c7a7915d1a1edfd9580363231] (1) For the purposes of regulation 25 a complaint is a repetitious one if, and only if—
 
 - (a) it is substantially the same as a previous complaint (whether made by or on behalf of the same or a different complainant);
 - (b) it contains no fresh allegations which significantly affect the account of the conduct complained of;
@@ -358,7 +358,7 @@ Regulation 22
 - (c) the complainant gave such a notification as is mentioned in regulation 20(1); or
 - (d) the Ombudsman, under regulation 25, dispensed with the requirements mentioned in paragraph (1) of that regulation.
 
-**4.**[^key-c49fa27b9af1d04e76f56dcd88f3fd46] For the purposes of regulation 25 it shall not be reasonably practicable to complete the investigation of a complaint if, and only if, in the opinion of the Ombudsman:
+**4.**[^c-c49fa27b9af1d04e76f56dcd88f3fd46] For the purposes of regulation 25 it shall not be reasonably practicable to complete the investigation of a complaint if, and only if, in the opinion of the Ombudsman:
 
 - (a) it is not reasonably practicable to communicate with the complainant or, as the case may be, the person who submitted the complaint, or any other injured person, notwithstanding that the complaint is not an anonymous one within the meaning of paragraph 2, or
 - (b) it is not reasonably practicable to complete a satisfactory investigation in consequence of—
@@ -378,88 +378,88 @@ The Ombudsman will also produce an annual report, and such other reports as are 
 
 ## Annotations
 
-[^key-5dfe5fbfd73e6d514182d353f752243e]: Commencement: Reg. 1 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-5dfe5fbfd73e6d514182d353f752243e]: Commencement: Reg. 1 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-f290e122df1d624bdf94d396e8d8bc18]: Commencement: Reg. 2 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-f290e122df1d624bdf94d396e8d8bc18]: Commencement: Reg. 2 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-14135894d7c02ad213fb4d0f3bcfc6b3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2000/318/regulation/2) inserted (12.8.2005) by [Police Service of Northern Ireland (Complaints etc. ) (Amendment) Regulations 2005 (S.R. 2005/341)](https://www.legislation.gov.uk/nisr/2005/341), [regs. 1](https://www.legislation.gov.uk/nisr/2005/341/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2005/341/regulation/2)
+[^c-14135894d7c02ad213fb4d0f3bcfc6b3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2000/318/regulation/2) inserted (12.8.2005) by [Police Service of Northern Ireland (Complaints etc. ) (Amendment) Regulations 2005 (S.R. 2005/341)](https://www.legislation.gov.uk/nisr/2005/341), [regs. 1](https://www.legislation.gov.uk/nisr/2005/341/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2005/341/regulation/2)
 
-[^key-ed74a306ecbbbd08bacef166dd75cb90]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/318/regulation/3) substituted (with application in accordance with reg. 4 of the amending Rule) by [RUC (Complaints etc) Regulations 2001 (S.R. 2001/184)](https://www.legislation.gov.uk/nisr/2001/184), [regs. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2001/184/regulation/2/5/a)
+[^c-ed74a306ecbbbd08bacef166dd75cb90]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/318/regulation/3) substituted (with application in accordance with reg. 4 of the amending Rule) by [RUC (Complaints etc) Regulations 2001 (S.R. 2001/184)](https://www.legislation.gov.uk/nisr/2001/184), [regs. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2001/184/regulation/2/5/a)
 
-[^key-19d838ab55c8d7bc9f8b7587efd41b36]: Commencement: Reg. 4 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-19d838ab55c8d7bc9f8b7587efd41b36]: Commencement: Reg. 4 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-27e697de10102bc8d002ca0526e031d2]: Commencement: Reg. 5 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-27e697de10102bc8d002ca0526e031d2]: Commencement: Reg. 5 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-7afd1c6c4cb49c488a8052f058707c7f]: Commencement: Reg. 6 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-7afd1c6c4cb49c488a8052f058707c7f]: Commencement: Reg. 6 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-e3d6db16b21bfdc4c52ab60e8c7a6012]: Commencement: Reg. 7 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-e3d6db16b21bfdc4c52ab60e8c7a6012]: Commencement: Reg. 7 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-7af46a88b3722c4f8488d3e51728c16a]: Commencement: Reg. 8 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-7af46a88b3722c4f8488d3e51728c16a]: Commencement: Reg. 8 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-73964be2246471d5878c087a7e542ae7]: Commencement: Reg. 9 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-73964be2246471d5878c087a7e542ae7]: Commencement: Reg. 9 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-cb84f7f25ce688e8ef3eb919e088ecb0]: Commencement: Reg. 10 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-cb84f7f25ce688e8ef3eb919e088ecb0]: Commencement: Reg. 10 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-4dc00c68fa94dc82c8eb3d994c74d4c6]: Commencement: Reg. 11 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-4dc00c68fa94dc82c8eb3d994c74d4c6]: Commencement: Reg. 11 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-f6b20b43b5508ed8c28171524f1a8219]: Commencement: Reg. 12 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-f6b20b43b5508ed8c28171524f1a8219]: Commencement: Reg. 12 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-4bda6f213d24f51e5aa7a1374a3c5e89]: Commencement: Reg. 13 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-4bda6f213d24f51e5aa7a1374a3c5e89]: Commencement: Reg. 13 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-e46e5861a5a9a2b400f4c15324da2ab1]: Commencement: Reg. 14 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-e46e5861a5a9a2b400f4c15324da2ab1]: Commencement: Reg. 14 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-d4ba5d3386951ca031cf453d63bf8488]: Commencement: Reg. 15 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-d4ba5d3386951ca031cf453d63bf8488]: Commencement: Reg. 15 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-836c14de8b44be7584106c1241cd4ef4]: Commencement: Reg. 16 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-836c14de8b44be7584106c1241cd4ef4]: Commencement: Reg. 16 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-113b5585ee69b35d3be4a4069d352b25]: Commencement: Reg. 17 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-113b5585ee69b35d3be4a4069d352b25]: Commencement: Reg. 17 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-f48e725412349cda5314838a9c937cdd]: Commencement: Reg. 18 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-f48e725412349cda5314838a9c937cdd]: Commencement: Reg. 18 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-86a0e468845ca493d4e1a63ec6e2c182]: Commencement: Reg. 19 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-86a0e468845ca493d4e1a63ec6e2c182]: Commencement: Reg. 19 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-1c9cccc12dfb54405839528adbd58bff]: Textual amendment: Words in [reg. 19(7)](https://www.legislation.gov.uk/nisr/2000/318/regulation/19/7) substituted (1.6.2016) by [The Police (Conduct) Regulations (Northern Ireland) 2016 (S.R. 2016/41)](https://www.legislation.gov.uk/nisr/2016/41), [regs. 1](https://www.legislation.gov.uk/nisr/2016/41/regulation/1), [58](https://www.legislation.gov.uk/nisr/2016/41/regulation/58)
+[^c-1c9cccc12dfb54405839528adbd58bff]: Textual amendment: Words in [reg. 19(7)](https://www.legislation.gov.uk/nisr/2000/318/regulation/19/7) substituted (1.6.2016) by [The Police (Conduct) Regulations (Northern Ireland) 2016 (S.R. 2016/41)](https://www.legislation.gov.uk/nisr/2016/41), [regs. 1](https://www.legislation.gov.uk/nisr/2016/41/regulation/1), [58](https://www.legislation.gov.uk/nisr/2016/41/regulation/58)
 
-[^key-ac41dc9bed9b3a27ffa84e29d0358d40]: Commencement: Reg. 20 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-ac41dc9bed9b3a27ffa84e29d0358d40]: Commencement: Reg. 20 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-78a2946f932f307c86d1bfc39adeb485]: Textual amendment: Words in [reg. 20(ii)](https://www.legislation.gov.uk/nisr/2000/318/regulation/20/ii) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 90(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/90/2) (with [Sch. 3 para. 91](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/91))
+[^c-78a2946f932f307c86d1bfc39adeb485]: Textual amendment: Words in [reg. 20(ii)](https://www.legislation.gov.uk/nisr/2000/318/regulation/20/ii) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 90(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/90/2) (with [Sch. 3 para. 91](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/91))
 
-[^key-74d47b8c0619edd4a8c132578d1fe064]: Commencement: Reg. 21 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-74d47b8c0619edd4a8c132578d1fe064]: Commencement: Reg. 21 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-c16eedd427989e05b4dd1296948a83d4]: Textual amendment: Words in [reg. 21(2)(b)](https://www.legislation.gov.uk/nisr/2000/318/regulation/21/2/b) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 90(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/90/3) (with [Sch. 3 para. 91](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/91))
+[^c-c16eedd427989e05b4dd1296948a83d4]: Textual amendment: Words in [reg. 21(2)(b)](https://www.legislation.gov.uk/nisr/2000/318/regulation/21/2/b) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 90(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/90/3) (with [Sch. 3 para. 91](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/91))
 
-[^key-0afe277a51ed571a118db7acda59438f]: Commencement: Reg. 22 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-0afe277a51ed571a118db7acda59438f]: Commencement: Reg. 22 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-280651d9c52c614fde001c90f83aeb29]: Commencement: Reg. 23 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-280651d9c52c614fde001c90f83aeb29]: Commencement: Reg. 23 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-34957583121b39b68918e59e421b389f]: Commencement: Reg. 24 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-34957583121b39b68918e59e421b389f]: Commencement: Reg. 24 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-100c7a166d8ffb1a1b2a934681cef0f3]: Commencement: Reg. 25 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-100c7a166d8ffb1a1b2a934681cef0f3]: Commencement: Reg. 25 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-4a6bf17797e4b2434a8f59dc6ff49169]: Textual amendment: Word in [reg. 25(1)(a)](https://www.legislation.gov.uk/nisr/2000/318/regulation/25/1/a) omitted (with application in accordance with reg. 4 of the amending Rule) by virtue of [RUC (Complaints etc) Regulations 2001 (S.R. 2001/184)](https://www.legislation.gov.uk/nisr/2001/184), [regs. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1), [2(5)(b)(i)](https://www.legislation.gov.uk/nisr/2001/184/regulation/2/5/b/i)
+[^c-4a6bf17797e4b2434a8f59dc6ff49169]: Textual amendment: Word in [reg. 25(1)(a)](https://www.legislation.gov.uk/nisr/2000/318/regulation/25/1/a) omitted (with application in accordance with reg. 4 of the amending Rule) by virtue of [RUC (Complaints etc) Regulations 2001 (S.R. 2001/184)](https://www.legislation.gov.uk/nisr/2001/184), [regs. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1), [2(5)(b)(i)](https://www.legislation.gov.uk/nisr/2001/184/regulation/2/5/b/i)
 
-[^key-def7136cc468197a65eab66d7b69182d]: Textual amendment: [Reg. 25(1)(b)](https://www.legislation.gov.uk/nisr/2000/318/regulation/25/1/b) omitted (with application in accordance with reg. 4 of the amending Rule) by virtue of [RUC (Complaints etc) Regulations 2001 (S.R. 2001/184)](https://www.legislation.gov.uk/nisr/2001/184), [regs. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/nisr/2001/184/regulation/2/5/b/ii)
+[^c-def7136cc468197a65eab66d7b69182d]: Textual amendment: [Reg. 25(1)(b)](https://www.legislation.gov.uk/nisr/2000/318/regulation/25/1/b) omitted (with application in accordance with reg. 4 of the amending Rule) by virtue of [RUC (Complaints etc) Regulations 2001 (S.R. 2001/184)](https://www.legislation.gov.uk/nisr/2001/184), [regs. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/nisr/2001/184/regulation/2/5/b/ii)
 
-[^key-8f606aeba8e2ecfcb6f03c6d284ec332]: Textual amendment: Word in [reg. 25(1)(c)](https://www.legislation.gov.uk/nisr/2000/318/regulation/25/1/c) substituted (with application in accordance with reg. 4 of the amending Rule) by [RUC (Complaints etc) Regulations 2001 (S.R. 2001/184)](https://www.legislation.gov.uk/nisr/2001/184), [regs. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1), [2(5)(b)(iii)](https://www.legislation.gov.uk/nisr/2001/184/regulation/2/5/b/iii)
+[^c-8f606aeba8e2ecfcb6f03c6d284ec332]: Textual amendment: Word in [reg. 25(1)(c)](https://www.legislation.gov.uk/nisr/2000/318/regulation/25/1/c) substituted (with application in accordance with reg. 4 of the amending Rule) by [RUC (Complaints etc) Regulations 2001 (S.R. 2001/184)](https://www.legislation.gov.uk/nisr/2001/184), [regs. 1](https://www.legislation.gov.uk/nisr/2001/184/regulation/1), [2(5)(b)(iii)](https://www.legislation.gov.uk/nisr/2001/184/regulation/2/5/b/iii)
 
-[^key-5768bba51b29d5665dc04e8508b35687]: Commencement: Reg. 26 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-5768bba51b29d5665dc04e8508b35687]: Commencement: Reg. 26 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-80c2d1661f09de162a75b52664a6fa11]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/nisr/2000/318/regulation/26) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 90(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/90/4) (with [Sch. 3 para. 91](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/91))
+[^c-80c2d1661f09de162a75b52664a6fa11]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/nisr/2000/318/regulation/26) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 90(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/90/4) (with [Sch. 3 para. 91](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/91))
 
-[^key-aba60e12d5864d95b3bcc2e960a10306]: Commencement: Reg. 27 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-aba60e12d5864d95b3bcc2e960a10306]: Commencement: Reg. 27 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-b84013bff9e571b92474f77bb3f3d9cc]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/nisr/2000/318/regulation/28) revoked (1.6.2016) by [The Police (Conduct) Regulations (Northern Ireland) 2016 (S.R. 2016/41)](https://www.legislation.gov.uk/nisr/2016/41), [regs. 1](https://www.legislation.gov.uk/nisr/2016/41/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2016/41/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/41/regulation/2/2))
+[^c-b84013bff9e571b92474f77bb3f3d9cc]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/nisr/2000/318/regulation/28) revoked (1.6.2016) by [The Police (Conduct) Regulations (Northern Ireland) 2016 (S.R. 2016/41)](https://www.legislation.gov.uk/nisr/2016/41), [regs. 1](https://www.legislation.gov.uk/nisr/2016/41/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2016/41/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/41/regulation/2/2))
 
-[^key-eee8bc5c3e7f7dbfbc4f43338a9d48d8]: Commencement: Reg. 29 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-eee8bc5c3e7f7dbfbc4f43338a9d48d8]: Commencement: Reg. 29 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-701cbb2ea8632e715ee3c823952d041e]: Commencement: Reg. 30 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-701cbb2ea8632e715ee3c823952d041e]: Commencement: Reg. 30 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-a649fd730af98c34f3581c0ebcd6d4a8]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/nisr/2000/318/regulation/31) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 90(5)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/90/5) (with [Sch. 3 para. 91](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/91))
+[^c-a649fd730af98c34f3581c0ebcd6d4a8]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/nisr/2000/318/regulation/31) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 90(5)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/90/5) (with [Sch. 3 para. 91](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/91))
 
-[^key-8c421aa28c094f04be1259782762e0dd]: Commencement: Sch. para. 1 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-8c421aa28c094f04be1259782762e0dd]: Commencement: Sch. para. 1 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-357fbe2aeb20e6c63a308034be8039f6]: Commencement: Sch. para. 2 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-357fbe2aeb20e6c63a308034be8039f6]: Commencement: Sch. para. 2 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-a5ac6c2c7a7915d1a1edfd9580363231]: Commencement: Sch. para. 3 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-a5ac6c2c7a7915d1a1edfd9580363231]: Commencement: Sch. para. 3 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
 
-[^key-c49fa27b9af1d04e76f56dcd88f3fd46]: Commencement: Sch. para. 4 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)
+[^c-c49fa27b9af1d04e76f56dcd88f3fd46]: Commencement: Sch. para. 4 in operation at 6.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/318/regulation/1/1)

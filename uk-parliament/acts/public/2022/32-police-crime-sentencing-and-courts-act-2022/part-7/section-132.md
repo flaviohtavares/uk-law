@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Power to refer high-risk offenders to Parole Board in place of automatic release[^key-dc8b4ef7222c96c695a6466ea8fc40ef]
+## 132. Power to refer high-risk offenders to Parole Board in place of automatic release[^c-dc8b4ef7222c96c695a6466ea8fc40ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,14 +119,14 @@ summary: ''
 
 .
 
-(6) In section 255A(2) (duty to consider suitability for automatic release following recall of certain prisoners) (as amended by the Counter-Terrorism and Sentencing Act 2021), for “or a serious terrorism prisoner” substitute *(affected by repeal, see note)*[^key-dcf59d8c99d3be9f1bb3b7ac18f90924] “, a serious terrorism prisoner or a prisoner whose case was referred to the Board under section 244ZB” *(affected by repeal, see note)*[^key-dcf59d8c99d3be9f1bb3b7ac18f90924].
+(6) In section 255A(2) (duty to consider suitability for automatic release following recall of certain prisoners) (as amended by the Counter-Terrorism and Sentencing Act 2021), for “or a serious terrorism prisoner” substitute *(affected by repeal, see note)*[^c-dcf59d8c99d3be9f1bb3b7ac18f90924] “, a serious terrorism prisoner or a prisoner whose case was referred to the Board under section 244ZB” *(affected by repeal, see note)*[^c-dcf59d8c99d3be9f1bb3b7ac18f90924].
 
-(7) In section 255C(1) (prisoners whose release after recall is not automatic), for the words from “who” to the end substitute *(affected by repeal, see note)*[^key-dcf59d8c99d3be9f1bb3b7ac18f90924]
+(7) In section 255C(1) (prisoners whose release after recall is not automatic), for the words from “who” to the end substitute *(affected by repeal, see note)*[^c-dcf59d8c99d3be9f1bb3b7ac18f90924]
 
 > —
 >
-> - (a) whose suitability for automatic release does not have to be considered under section 255A(2), or *(affected by repeal, see note)*[^key-dcf59d8c99d3be9f1bb3b7ac18f90924]
-> - (b) who is not considered suitable for automatic release. *(affected by repeal, see note)*[^key-dcf59d8c99d3be9f1bb3b7ac18f90924]
+> - (a) whose suitability for automatic release does not have to be considered under section 255A(2), or *(affected by repeal, see note)*[^c-dcf59d8c99d3be9f1bb3b7ac18f90924]
+> - (b) who is not considered suitable for automatic release. *(affected by repeal, see note)*[^c-dcf59d8c99d3be9f1bb3b7ac18f90924]
 
 (8) In section 260(5) (powers and duties of Secretary of State that continue to apply to prisoner removed from prison pending deportation), after “244,” insert “244ZB,”.
 
@@ -158,6 +158,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc8b4ef7222c96c695a6466ea8fc40ef]: Commencement: S. 132 in force at Royal Assent, see [s. 208(4)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/p)
+[^c-dc8b4ef7222c96c695a6466ea8fc40ef]: Commencement: S. 132 in force at Royal Assent, see [s. 208(4)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/p)
 
-[^key-dcf59d8c99d3be9f1bb3b7ac18f90924]: Textual amendment: [S. 132(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/132/6)[(7)](https://www.legislation.gov.uk/ukpga/2022/32/section/132/7) omitted (for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(13)(e)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/13/e), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-dcf59d8c99d3be9f1bb3b7ac18f90924]: Textual amendment: [S. 132(6)](https://www.legislation.gov.uk/ukpga/2022/32/section/132/6)[(7)](https://www.legislation.gov.uk/ukpga/2022/32/section/132/7) omitted (for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(13)(e)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/13/e), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)

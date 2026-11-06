@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — OTHER CONTRACTUAL TERMS[^key-efdad9fb24e57ede795a13bcb5bad474]
+## SCHEDULE 5 — OTHER CONTRACTUAL TERMS[^c-efdad9fb24e57ede795a13bcb5bad474]
 
 *Extent: N.I.*
 
@@ -24,14 +24,14 @@ Regulation 26
 
 ### PART 1 — provision of services
 
-#### 1. Premises[^key-269162cf3ef7656258e26587055620a6]
+#### 1. Premises[^c-269162cf3ef7656258e26587055620a6]
 
 Subject to any plan which is included in the contract pursuant to regulation 18(3), the contractor shall ensure that the premises used for the provision of services under the contract are –
 
 - (a) suitable for the delivery of those services; and
 - (b) sufficient to meet the reasonable needs of the contractor’s patients.
 
-#### 1A. Telephone services[^key-eb0902de4f3cfb0f9eb27845891a0b66]
+#### 1A. Telephone services[^c-eb0902de4f3cfb0f9eb27845891a0b66]
 
 (1) The contractor shall not be a party to any contract or other arrangement under which the number for telephone services to be used—
 
@@ -42,7 +42,7 @@ starts with the digits 087, 090 or 091 or consists of a personal number, unless 
 
 (2) In this paragraph, “personal number” means a telephone number which starts with the number 070 followed by a further 8 digits.
 
-#### 1B. Cost of relevant calls[^key-d6c841b05223386dea1eddcf22a02e32]
+#### 1B. Cost of relevant calls[^c-d6c841b05223386dea1eddcf22a02e32]
 
 (1) The contractor must not enter into, renew or extend a contract or other arrangement for telephone services unless it is satisfied that, having regard to the arrangement as a whole, persons will not pay more to make relevant calls to the practice than they would to make equivalent calls to a geographical number.
 
@@ -68,7 +68,7 @@ starts with the digits 087, 090 or 091 or consists of a personal number, unless 
   - (i) made by patients to the practice for any reason related to services provided under the contract, and
   - (ii) made by persons, other than patients, to the practice in relation to services provided as part of the health service.
 
-#### 2. Attendance at practice premises[^key-b4b483e5a174432cd7b7778fa8f3bcb0]
+#### 2. Attendance at practice premises[^c-b4b483e5a174432cd7b7778fa8f3bcb0]
 
 (1) The contractor shall take steps to ensure that any patient who –
 
@@ -82,7 +82,7 @@ is provided with such services by an appropriate health care professional during
 - (a) it is more appropriate for the patient to be referred elsewhere for services under the Order; or
 - (b) the patient is then offered an appointment to attend again within a time which is appropriate and reasonable having regard to all the circumstances and the patient’s health would not thereby be jeopardised.
 
-#### 3. Attendance outside practice premises[^key-044589d32deb69711ae43e65d3d78098][^key-51c6f4786a0a8eb1c252357f72c2dae3]
+#### 3. Attendance outside practice premises[^c-044589d32deb69711ae43e65d3d78098][^c-51c6f4786a0a8eb1c252357f72c2dae3]
 
 (1) In the case of a patient whose medical condition is such that in the reasonable opinion of the contractor –
 
@@ -102,9 +102,9 @@ the contractor shall provide services to that patient at whichever in his judgem
 - (a) arranging for the referral of a patient without first seeing the patient, in a case where the medical condition of that patient makes that course of action appropriate; or
 - (b) visiting the patient in circumstances where this paragraph does not place him under an obligation to do so.
 
-(4)[^key-ae9f1c092c85b7f25c87888e997bf18f] Notwithstanding anything in this paragraph, the contractor shall not be required to attend on a patient [^key-11114eefd73e29449062f87e9fa215cb]...outside Northern Ireland.
+(4)[^c-ae9f1c092c85b7f25c87888e997bf18f] Notwithstanding anything in this paragraph, the contractor shall not be required to attend on a patient [^c-11114eefd73e29449062f87e9fa215cb]...outside Northern Ireland.
 
-#### 4. Newly registered patients[^key-9a39b7f8f05246e21a8f11653954fed0]
+#### 4. Newly registered patients[^c-9a39b7f8f05246e21a8f11653954fed0]
 
 (1) Where a patient has been –
 
@@ -117,7 +117,7 @@ the contractor shall, in addition and without prejudice to his other obligations
 
 (3) Where a patient (or, where appropriate, in the case of a patient who is a child, his parent) agrees to participate in a consultation mentioned in sub-paragraph (1) the contractor shall, in the course of that consultation make such inquiries and undertake such examinations as appear to him to be appropriate in all the circumstances.
 
-#### 5. Patients not seen within three years[^key-d680e56f8b13b82a80816249691c85ad]
+#### 5. Patients not seen within three years[^c-d680e56f8b13b82a80816249691c85ad]
 
 Where a registered patient who –
 
@@ -126,7 +126,7 @@ Where a registered patient who –
 
 requests a consultation the contractor shall, in addition and without prejudice to his other obligations in respect of that patient under the contract, provide such a consultation in the course of which it shall make such inquiries and undertake such examinations as appear to him to be appropriate in all the circumstances.
 
-#### 6. Patients aged 75 years and over[^key-80c9acb00db8d96735ed995ec1bda831]
+#### 6. Patients aged 75 years and over[^c-80c9acb00db8d96735ed995ec1bda831]
 
 (1) Where a registered patient who –
 
@@ -137,7 +137,7 @@ requests a consultation, the contractor shall, in addition and without prejudice
 
 (2) A consultation under sub-paragraph (1) shall take place in the home of the patient where, in the reasonable opinion of the contractor, it would be inappropriate, as a result of the patient’s medical condition, for him to attend at the practice premises.
 
-#### 7. Clinical reports[^key-196304c2984c7b3c9dceb5304bcb522c]
+#### 7. Clinical reports[^c-196304c2984c7b3c9dceb5304bcb522c]
 
 (1) Where the contractor provides any clinical services, other than under a private arrangement, to a patient who is not on his list of patients, he shall, as soon as reasonably practicable, provide a clinical report relating to the consultation, and any treatment provided, to the Board.
 
@@ -146,37 +146,37 @@ requests a consultation, the contractor shall, in addition and without prejudice
 - (a) to the person with whom the patient is registered for the provision of essential services or their equivalent; or
 - (b) if the person referred to in head (a) is not known to it, to the Board in whose area the patient is resident.
 
-(3)[^key-b7e4a3cdc03f89215b4ada4d2f34ae00] This paragraph does not apply in relation to out of hours services provided by a contractor on or after 1st May 2005.
+(3)[^c-b7e4a3cdc03f89215b4ada4d2f34ae00] This paragraph does not apply in relation to out of hours services provided by a contractor on or after 1st May 2005.
 
-#### 8. Storage of vaccines[^key-c7dd6d00c098b23074dcbcc5b51f35a0]
+#### 8. Storage of vaccines[^c-c7dd6d00c098b23074dcbcc5b51f35a0]
 
 The contractor shall ensure that –
 
 - (a) all vaccines are stored in accordance with the manufacturer’s instructions,
 - (b) all refrigerators in which vaccines are stored have a maximum/minimum thermometer and that readings are taken on all working days.
 
-#### 9. Infection control[^key-55fd2298717685e642739196198d1ec1]
+#### 9. Infection control[^c-55fd2298717685e642739196198d1ec1]
 
 The contractor shall ensure that he has appropriate arrangements for infection control and decontamination.
 
-#### 10. Criteria for out of hours services[^key-5ab7fbe55efc1a8fef06480205c6cd06][^key-dff9a7252bdbbe81e520665ba2a84aeb]
+#### 10. Criteria for out of hours services[^c-5ab7fbe55efc1a8fef06480205c6cd06][^c-dff9a7252bdbbe81e520665ba2a84aeb]
 
 A contractor whose contract includes the provision of out of hours services shall only be required to provide such services if, in the reasonable opinion of the contractor in the light of the patient’s medical condition, it would not be reasonable in all the circumstances for the patient to wait for the services required until the next time at which he could obtain such services during core hours.
 
-#### 11. Standards for out of hours services[^key-ee903e0014329f10840cf88d2c5e811a]
+#### 11. Standards for out of hours services[^c-ee903e0014329f10840cf88d2c5e811a]
 
-[^key-ff0b9079ff74538899f90d523623cb3e]...a contractor which provides out of hours services must in the provision of such services meet any quality standards which have been approved by the Department and specified in writing by the Board in relation to the provision of those services.
+[^c-ff0b9079ff74538899f90d523623cb3e]...a contractor which provides out of hours services must in the provision of such services meet any quality standards which have been approved by the Department and specified in writing by the Board in relation to the provision of those services.
 
-#### 11A. Supply of medicines, etc. by contractors providing out of hours services[^key-8b5ad09671e73c1f9481375f1c564c28]
+#### 11A. Supply of medicines, etc. by contractors providing out of hours services[^c-8b5ad09671e73c1f9481375f1c564c28]
 
 (1) In this paragraph—
 
 - “the Charges Regulations” means the Charges for Drugs and Appliances Regulations (Northern Ireland) 1997;
 - “complete course” means the course of treatment appropriate to the patient’s condition, being the same as the amount that would have been prescribed if the patient had been seen during core hours;
-- “necessary drugs, medicines and appliances” means those drugs, medicines and appliances which the patient requires and for which, in[^key-cbf57c496618cec2d1d15954d8398984] the reasonable opinion of the contractor, and in the light of the patient’s medical condition, it would not be reasonable in all the circumstances for the patient to wait until such time as he could obtain them[^key-8d4f2b4698b7c9ddfc7edc507f7827d0] during core hours;
-- “out of hours performer” means a prescriber, a person acting in accordance with a Patient Group Direction or any other health care[^key-e5ae667f294b0a4345ff389294ba8182] professional employed or engaged by the contractor who can lawfully supply a drug, medicine or appliance, who is performing out of hours services under the contract;
-- “Patient Group Direction” has the same meaning as in the the Human Medicines Regulations 2012[^key-f7d2ab5f1a8863b448b5cc914570a5d0] ; and
-- “supply form” means a form provided by the RBSO[^key-96a7a758e496abd7f0518a2e737765c9] and completed by or on behalf of the contractor for the purpose of recording the provision of drugs, medicines or appliances to a patient during the out of hours period.
+- “necessary drugs, medicines and appliances” means those drugs, medicines and appliances which the patient requires and for which, in[^c-cbf57c496618cec2d1d15954d8398984] the reasonable opinion of the contractor, and in the light of the patient’s medical condition, it would not be reasonable in all the circumstances for the patient to wait until such time as he could obtain them[^c-8d4f2b4698b7c9ddfc7edc507f7827d0] during core hours;
+- “out of hours performer” means a prescriber, a person acting in accordance with a Patient Group Direction or any other health care[^c-e5ae667f294b0a4345ff389294ba8182] professional employed or engaged by the contractor who can lawfully supply a drug, medicine or appliance, who is performing out of hours services under the contract;
+- “Patient Group Direction” has the same meaning as in the the Human Medicines Regulations 2012[^c-f7d2ab5f1a8863b448b5cc914570a5d0] ; and
+- “supply form” means a form provided by the RBSO[^c-96a7a758e496abd7f0518a2e737765c9] and completed by or on behalf of the contractor for the purpose of recording the provision of drugs, medicines or appliances to a patient during the out of hours period.
 
 (2) Where a contractor whose contract includes the provision of out of hours services has agreed with the Board that its contract should also include the supply of necessary drugs, medicines or appliances to patients at the time that it is providing them with out of hours services, the contractor shall comply with the requirements in sub-paragraphs (3) to (5).
 
@@ -205,7 +205,7 @@ A contractor whose contract includes the provision of out of hours services shal
 
 (7) The provisions of regulation 24 (fees and charges) apply in respect of the supply of necessary drugs, medicines and appliances as they apply in respect of prescriptions for drugs, medicines and appliances.
 
-#### 12. Duty of co-operation in relation to additional, enhanced and out of hours services[^key-5f831a7e3a8fbeea53718b2b11a58702]
+#### 12. Duty of co-operation in relation to additional, enhanced and out of hours services[^c-5f831a7e3a8fbeea53718b2b11a58702]
 
 (1) A contractor which does not provide to his registered patients or to persons whom he has accepted as temporary residents –
 
@@ -223,7 +223,7 @@ shall comply with the requirements specified in sub-paragraph (2).
 
 (3) Nothing in this paragraph shall require a contractor whose contract does not include the provision of out of hours services to make himself available during the out of hours period.
 
-**13.**[^key-2f091cdc4792e9d7c14250826e8365bb] Where a contractor is to cease to be required to provide to his patients –
+**13.**[^c-2f091cdc4792e9d7c14250826e8365bb] Where a contractor is to cease to be required to provide to his patients –
 
 - (a) a particular additional service;
 - (b) a particular enhanced service; or
@@ -233,14 +233,14 @@ he shall comply with any reasonable request for information relating to the prov
 
 ### PART 2 — patients
 
-#### 14. List of patients[^key-7d2eecbf14704be143bfa794a2a25e9e]
+#### 14. List of patients[^c-7d2eecbf14704be143bfa794a2a25e9e]
 
 The Board shall prepare and keep up to date a list of the patients –
 
 - (a) who have been accepted by the contractor for inclusion in his list of patients under paragraph 15 and who have not subsequently been removed from that list under paragraphs 19 to 27; and
 - (b) who have been assigned to the contractor under paragraph 32 or 33 and whose assignment has not subsequently been rescinded.
 
-#### 15. Application for inclusion in a list of patients[^key-b4d1cae79f171230318266aabf97ab76]
+#### 15. Application for inclusion in a list of patients[^c-b4d1cae79f171230318266aabf97ab76]
 
 (1) The contractor may, if his list of patients is open, accept an application for inclusion in his list of patients made by or on behalf of any person whether or not resident in his practice area or included, at the time of that application, in the list of patients of another contractor or provider of primary medical services.
 
@@ -263,11 +263,11 @@ The Board shall prepare and keep up to date a list of the patients –
 - (a) include that person in the contractor’s list of patients from the date on which the notice is received; and
 - (b) notify the applicant (or, in the case of a child or incapable adult, the person making the application on their behalf) of the acceptance.
 
-#### 15A. Application to the contractor for regulation 15(3) and (5) services[^key-8a284537810773fa1b1d41b875fcc27d]
+#### 15A. Application to the contractor for regulation 15(3) and (5) services[^c-8a284537810773fa1b1d41b875fcc27d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15B. Application for inclusion in a list of patients by a regulation 24 category of visitor[^key-9e09a482572cfd2ec91fdcf23a93db35]
+#### 15B. Application for inclusion in a list of patients by a regulation 24 category of visitor[^c-9e09a482572cfd2ec91fdcf23a93db35]
 
 (1) The contractor may, if his list of patients is open, accept an application for inclusion in his list of patients made by or on behalf of a regulation 24 category of visitor.
 
@@ -287,9 +287,9 @@ The Board shall prepare and keep up to date a list of the patients –
 - (a) include that person in the contractor’s list of patients from the date on which the notice is received; and
 - (b) notify the applicant (or, in the case of a child or incapable adult, the person making the application on their behalf) of the acceptance.
 
-#### 16. Temporary residents[^key-467f2e91ae09febfa6d7ceb0e136fa44]
+#### 16. Temporary residents[^c-467f2e91ae09febfa6d7ceb0e136fa44]
 
-(1) The contractor may, if his list of patients is open, accept a person who is ordinarily resident in Northern Ireland[^key-33073aa09bc7de895342461eba032a80] as a temporary resident provided he is satisfied that the person is –
+(1) The contractor may, if his list of patients is open, accept a person who is ordinarily resident in Northern Ireland[^c-33073aa09bc7de895342461eba032a80] as a temporary resident provided he is satisfied that the person is –
 
 - (a) temporarily resident away from his normal place of residence and is not being provided with essential services (or their equivalent) under any other arrangement in the place where he is temporarily residing; or
 - (b) moving from place to place and not for the time being resident in any place.
@@ -305,20 +305,20 @@ shall notify him either orally or in writing and his responsibility for that pat
 
 (4) At the end of three months, or on such earlier date as his responsibility for the temporary resident has come to an end, the contractor shall notify the Board in writing of any person whom he accepted as a temporary resident.
 
-#### 17. Refusal of applications under paragraph 15, 15A, 15B or 16[^key-4f02beb31851c8436be23ef0ad3bddfe][^key-968b67b2d8a5c58bf176d615eb8647d5]
+#### 17. Refusal of applications under paragraph 15, 15A, 15B or 16[^c-4f02beb31851c8436be23ef0ad3bddfe][^c-968b67b2d8a5c58bf176d615eb8647d5]
 
-(1) The contractor shall only refuse an application made under paragraph 15 , 15A, 15B[^key-c360066c192d65d0f4bd4bfc9a1639ce] or 16 if he has reasonable grounds for doing so which do not relate to the applicant’s race, gender, social class, marital status, age, religion, political opinion, sexual orientation, appearance, disability, medical condition or whether or not the applicant has dependants.
+(1) The contractor shall only refuse an application made under paragraph 15 , 15A, 15B[^c-c360066c192d65d0f4bd4bfc9a1639ce] or 16 if he has reasonable grounds for doing so which do not relate to the applicant’s race, gender, social class, marital status, age, religion, political opinion, sexual orientation, appearance, disability, medical condition or whether or not the applicant has dependants.
 
-(2)[^key-f2fa050318d9282666456abcdd198a69] The reasonable grounds referred to in paragraph (1) may, in the case of an application made under paragraph 15 or 15B[^key-ba6478942b9706b4812e707e5dbc8a38] , include the grounds that the applicant—
+(2)[^c-f2fa050318d9282666456abcdd198a69] The reasonable grounds referred to in paragraph (1) may, in the case of an application made under paragraph 15 or 15B[^c-ba6478942b9706b4812e707e5dbc8a38] , include the grounds that the applicant—
 
 - (a) does not live in the contractor’s practice area; or
 - (b) lives in the outer boundary area (the area referred to in paragraph 18(1A)).
 
-(3) A contractor which refuses an application made under paragraph 15 , 15A, 15B[^key-33e078401ee9f01cb79246634b94e1c8] or 16 shall, within 14 days of his decision, notify the applicant (or, in the case of a child or incapable adult, the person making the application on their behalf) in writing of the refusal and the reason for it.
+(3) A contractor which refuses an application made under paragraph 15 , 15A, 15B[^c-33e078401ee9f01cb79246634b94e1c8] or 16 shall, within 14 days of his decision, notify the applicant (or, in the case of a child or incapable adult, the person making the application on their behalf) in writing of the refusal and the reason for it.
 
-(4) The contractor shall keep a written record of refusals of applications made under paragraph 15 , 15A and 15B[^key-b09695ab1278e019838925716661ad03] and of the reasons for them and shall make this record available to the Board on request.
+(4) The contractor shall keep a written record of refusals of applications made under paragraph 15 , 15A and 15B[^c-b09695ab1278e019838925716661ad03] and of the reasons for them and shall make this record available to the Board on request.
 
-#### 18. Patient preference of practitioner[^key-6443edcc29734c1fb37208275dc08075]
+#### 18. Patient preference of practitioner[^c-6443edcc29734c1fb37208275dc08075]
 
 (1) Where the contractor has accepted an application for inclusion in his list of patients, he shall –
 
@@ -330,7 +330,7 @@ shall notify him either orally or in writing and his responsibility for that pat
 - (a) has reasonable grounds for refusing to provide services to the patient; or
 - (b) does not routinely perform the service in question within the practice.
 
-#### 19. Removal from the list at the request of the patient[^key-b1643c7b1e35f32fae86f3c86e899cfb]
+#### 19. Removal from the list at the request of the patient[^c-b1643c7b1e35f32fae86f3c86e899cfb]
 
 (1) The contractor shall notify the Board in writing of any request for removal from his list of patients received from a registered patient.
 
@@ -360,9 +360,9 @@ that the patient’s name will be or has been removed from the contractor’s li
 - (a) in the case of a patient who is a child, a parent or other person referred to in paragraph 15(4)(a); or
 - (b) in the case of an adult patient who is incapable of making the relevant request or receiving the relevant advice, information or notification, a relative or the primary carer of the patient.
 
-#### 20. Removal from the list at the request of the contractor[^key-b2fc61cc4840981b98b11faad4097ce2]
+#### 20. Removal from the list at the request of the contractor[^c-b2fc61cc4840981b98b11faad4097ce2]
 
-(1) Subject to paragraph 21, a contractor which has reasonable grounds for wishing a patient to be removed from his list of patients which do not relate to the patient’s[^key-3a756e5363ef866513134c463d7b7a08] race, gender, social class, marital status, age, religion, political opinion, sexual orientation, appearance, disability, medical condition, or whether or not the patient has dependants shall –
+(1) Subject to paragraph 21, a contractor which has reasonable grounds for wishing a patient to be removed from his list of patients which do not relate to the patient’s[^c-3a756e5363ef866513134c463d7b7a08] race, gender, social class, marital status, age, religion, political opinion, sexual orientation, appearance, disability, medical condition, or whether or not the patient has dependants shall –
 
 - (a) notify the Board in writing that he wishes to have the patient removed; and
 - (b) subject to sub-paragraph (2), notify the patient of his specific reasons for requesting removal.
@@ -429,7 +429,7 @@ whichever is the sooner.
 
 that the patient’s name has been or will be removed from the contractor’s list of patients on the date referred to in sub-paragraph (8) or (9).
 
-#### 21. Removals from the list of patients who are violent[^key-133c1334f9fc783b84b71b81ba6c138a]
+#### 21. Removals from the list of patients who are violent[^c-133c1334f9fc783b84b71b81ba6c138a]
 
 (1) A contractor which wishes a patient to be removed from his list of patients with immediate effect on the grounds that –
 
@@ -458,10 +458,10 @@ shall notify the Board in accordance with sub-paragraph (3).
 - (a) makes the telephone call to the Board; or
 - (b) sends or delivers the notification to the Board.
 
-(6) Where, pursuant to this paragraph, [^key-25cfcf61cb38b0b1b3f701a3776cdc46]... he[^key-8925af774d0e841b960134449493fa5f] has notified the Board that he wishes to have a patient removed from his list of patients, it shall inform the patient concerned unless –
+(6) Where, pursuant to this paragraph, [^c-25cfcf61cb38b0b1b3f701a3776cdc46]... he[^c-8925af774d0e841b960134449493fa5f] has notified the Board that he wishes to have a patient removed from his list of patients, it shall inform the patient concerned unless –
 
-- (a) it is not reasonably practicable for [^key-bebcba0bfc73ecbd25e834dfaf2ea977]... him[^key-54eb9a2d255ad01423042da19c029512] to do so; or
-- (b) [^key-ebabc87f4d3814ea93c9786ec473f1d0]... he[^key-3f74e97ba26b4b7f7957471606fbdb45] has reasonable grounds for believing that to do so would –
+- (a) it is not reasonably practicable for [^c-bebcba0bfc73ecbd25e834dfaf2ea977]... him[^c-54eb9a2d255ad01423042da19c029512] to do so; or
+- (b) [^c-ebabc87f4d3814ea93c9786ec473f1d0]... he[^c-3f74e97ba26b4b7f7957471606fbdb45] has reasonable grounds for believing that to do so would –
   - (i) be harmful to the physical or mental health of the patient; or
   - (ii) put at risk the safety of one or more of the persons specified in sub-paragraph (2).
 
@@ -469,12 +469,12 @@ shall notify the Board in accordance with sub-paragraph (3).
 
 (8) Where a patient is removed from the contractor’s list of patients in accordance with this paragraph, the contractor shall record in the patient’s medical records that the patient has been removed under this paragraph and the circumstances leading to his removal.
 
-#### 22. Removals from the list of patients registered elsewhere[^key-cc303d040dd633e030de07227ecaeece]
+#### 22. Removals from the list of patients registered elsewhere[^c-cc303d040dd633e030de07227ecaeece]
 
 (1) The Board shall remove a patient from the contractor’s list of patients if –
 
 - (a) the patient has subsequently been registered with another provider of essential services (or their equivalent) in the area of the Board; or
-- (b) it has received notice from another Board, NHS England[^key-2c65469008d82f0f3eec5a7ca84ef8da] , a Local Health Board or a Health Board that the patient has subsequently been registered with a provider of essential services (or their equivalent) outside the area of the Board.
+- (b) it has received notice from another Board, NHS England[^c-2c65469008d82f0f3eec5a7ca84ef8da] , a Local Health Board or a Health Board that the patient has subsequently been registered with a provider of essential services (or their equivalent) outside the area of the Board.
 
 (2) A removal in accordance with sub-paragraph (1) shall take effect –
 
@@ -483,7 +483,7 @@ shall notify the Board in accordance with sub-paragraph (3).
 
 (3) The Board shall notify the contractor in writing of persons removed from his list of patients under sub-paragraph (1).
 
-#### 23. Removals from the list of patients who have moved[^key-9bc9b2ab83d2cdb5b192974df9d6c335]
+#### 23. Removals from the list of patients who have moved[^c-9bc9b2ab83d2cdb5b192974df9d6c335]
 
 (1) Subject to sub-paragraph (2), where the Board is satisfied that a person on the contractor’s list of patients has moved and no longer resides in that contractor’s practice area, the Board shall –
 
@@ -493,12 +493,12 @@ shall notify the Board in accordance with sub-paragraph (3).
 
 (2) If, at the expiration of the period of 30 days referred to in sub-paragraph (1)(c), the Board has not been notified of the action taken, it shall remove the patient from the contractor’s list of patients and inform him and the contractor accordingly.
 
-**24.**[^key-b03dce19f48cedb0ed47ba6e39f23f9b] Where the address of a patient who is on the contractor’s list of patients is no longer known to the Board, the Board shall –
+**24.**[^c-b03dce19f48cedb0ed47ba6e39f23f9b] Where the address of a patient who is on the contractor’s list of patients is no longer known to the Board, the Board shall –
 
 - (a) give to the contractor notice in writing that it intends, at the end of the period of six months commencing with the date of the notice, to remove the patient from the contractor’s list of patients; and
 - (b) at the end of that period, remove the patient from the contractor’s list of patients unless, within that period, the contractor satisfies the Board that he is still responsible for providing essential services to that patient.
 
-#### 25. Removals from the list of patients absent from the United Kingdom etc.[^key-693e6d5355012acd3d84c6a9f0eeea83]
+#### 25. Removals from the list of patients absent from the United Kingdom etc.[^c-693e6d5355012acd3d84c6a9f0eeea83]
 
 (1) The Board shall remove a patient from the contractor’s list of patients where it receives notification that that patient –
 
@@ -515,7 +515,7 @@ shall notify the Board in accordance with sub-paragraph (3).
 
 (3) The Board shall notify the contractor in writing of patients removed from his list of patients under sub-paragraph (1).
 
-#### 26. Removals from the list of patients accepted elsewhere as temporary residents[^key-551ab2037abefc13eb50c2a2de66b872]
+#### 26. Removals from the list of patients accepted elsewhere as temporary residents[^c-551ab2037abefc13eb50c2a2de66b872]
 
 (1) The Board shall remove from the contractor’s list of patients a patient who has been accepted as a temporary resident by another contractor or other provider of essential services (or their equivalent) where it is satisfied, after due inquiry –
 
@@ -532,7 +532,7 @@ shall notify the Board in accordance with sub-paragraph (3).
 - (a) his entitlement to make arrangements for the provision to him of essential services (or their equivalent), including by the contractor by which he has been treated as a temporary resident; and
 - (b) the name and address of the Board in whose area he is resident.
 
-#### 27. Removals from the list of pupils etc. of a school[^key-3ae5b4223954722daad8fe72531ba16e]
+#### 27. Removals from the list of pupils etc. of a school[^c-3ae5b4223954722daad8fe72531ba16e]
 
 (1) Where the contractor provides essential services under the contract to persons on the grounds that they are pupils at or staff or residents of a school, the Board shall remove from the contractor’s list of patients any such persons who do not appear on particulars of persons who are pupils at or staff or residents of that school provided by that school.
 
@@ -540,7 +540,7 @@ shall notify the Board in accordance with sub-paragraph (3).
 
 (3) The Board shall notify the contractor in writing of patients removed from his list of patients under sub-paragraph (1).
 
-#### 28. Termination of responsibility for patients not registered with the contractor[^key-21d68b69a7bd3267d115f2f84b15e0d3]
+#### 28. Termination of responsibility for patients not registered with the contractor[^c-21d68b69a7bd3267d115f2f84b15e0d3]
 
 (1) Where a contractor –
 
@@ -569,11 +569,11 @@ his responsibility for that patient shall be terminated in the circumstances ref
 - (a) from the date on which the notice is given where the grounds for termination are those specified in paragraph 21(1); or
 - (b) in all other cases, 14 days from the date on which the notice is given.
 
-#### 29. Closure of lists of patients[^key-8144c42f55658101fae3dc88aba7159a]
+#### 29. Closure of lists of patients[^c-8144c42f55658101fae3dc88aba7159a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 29A. Application for closure of lists of patients[^key-f3cb1fbf7bbea003508289c1d0519c53]
+#### 29A. Application for closure of lists of patients[^c-f3cb1fbf7bbea003508289c1d0519c53]
 
 (1) A contractor which wishes to close its list of patients must send a written application (“the Application”) to close its list to the Board and the Application must include the following details—
 
@@ -710,15 +710,15 @@ whichever is the later.
 
 The contractor may re-open its list of patients before the expiry of the closure period if the Board and contractor agree that the contractor should re-open its list of patients”.
 
-#### 30. Approval of closure notice by the Board[^key-e0e9a9d5f7adf50791d09feedf2b163a]
+#### 30. Approval of closure notice by the Board[^c-e0e9a9d5f7adf50791d09feedf2b163a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 31. Rejection of closure notice by the Board[^key-2e657dc0a907867a6a6152bc3e25a9ac]
+#### 31. Rejection of closure notice by the Board[^c-2e657dc0a907867a6a6152bc3e25a9ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 32. Assignment of patients to lists: open lists[^key-a5018d069d075168c7afed94813978f9]
+#### 32. Assignment of patients to lists: open lists[^c-a5018d069d075168c7afed94813978f9]
 
 (1) A Board may, subject to paragraph 34, assign a new patient to a contractor whose list of patients is open.
 
@@ -728,11 +728,11 @@ The contractor may re-open its list of patients before the expiry of the closure
 - (b) has been refused inclusion in a list of patients of, or has not been accepted as a temporary resident by, a contractor whose premises are within such an area; and
 - (c) wishes to be included in the list of patients of a contractor whose practice premises are within that area.
 
-#### 32A. Assignment of a person to a contractor for regulation 15(3) and (5) services[^key-6aeceafbb0bb4d5bb5a1c1c9274bd2e1]
+#### 32A. Assignment of a person to a contractor for regulation 15(3) and (5) services[^c-6aeceafbb0bb4d5bb5a1c1c9274bd2e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 32B. Assignment of a person who has made an application under paragraph 15B[^key-c0a2105eca37f107453337167e279897]
+#### 32B. Assignment of a person who has made an application under paragraph 15B[^c-c0a2105eca37f107453337167e279897]
 
 (1) On receipt of a request from a regulation 24 category of visitor the Board may, having regard to paragraph 34 (a),(b) and (e) assign that person to a contractor whose list of patients is open if that person has been refused inclusion in a contractor’s list of patients under paragraph 15B.
 
@@ -747,7 +747,7 @@ The contractor may re-open its list of patients before the expiry of the closure
 
 (5) The Board may not assign such a person to a contractor whose list of patients is closed.
 
-#### 33. Assignment of patients to lists: closed lists[^key-3eedb1c49f14dea2156e8e7a18f2add5]
+#### 33. Assignment of patients to lists: closed lists[^c-3eedb1c49f14dea2156e8e7a18f2add5]
 
 (1) A Board may not assign a new patient to a contractor which has closed his list of patients except in the circumstances specified in sub-paragraph (2).
 
@@ -757,7 +757,7 @@ The contractor may re-open its list of patients before the expiry of the closure
 - (b) the assessment panel has determined under paragraph 35(7) that patients may be assigned to the contractor in question, and that determination has not been overturned either by a determination of the Department under paragraph 36(13) or (where applicable) by a court; and
 - (c) the Board has entered into discussions with the contractor in question regarding the assignment of a patient if such discussions are required under paragraph 37.
 
-#### 34. Factors relevant to assignments[^key-6f9598d59df844b9a2ded78495844b5b]
+#### 34. Factors relevant to assignments[^c-6f9598d59df844b9a2ded78495844b5b]
 
 In making an assignment to a contractor under paragraph 32 or 33, the Board shall have regard to –
 
@@ -767,7 +767,7 @@ In making an assignment to a contractor under paragraph 32 or 33, the Board shal
 - (d) whether the patient’s name has been removed from the list of patients of any contractor in the area of the Board under paragraph 21 or its equivalent provision in relation to an Article 15B provider in the area of the Board and, if so, whether the contractor has appropriate facilities to deal with such a patient;
 - (e) such other matters as the Board considers to be relevant.
 
-#### 35. Assignments to closed lists: determinations of the assessment panel[^key-6411eced377cbf4de37e922d074c1362]
+#### 35. Assignments to closed lists: determinations of the assessment panel[^c-6411eced377cbf4de37e922d074c1362]
 
 (1) This paragraph applies where most or all of the providers of essential services whose practice premises are within a Local Medical Committee area have closed their lists of patients.
 
@@ -781,11 +781,11 @@ In making an assignment to a contractor under paragraph 32 or 33, the Board shal
 - (b) a person representative of patients in an area other than that of the contractor which is party to the contract;
 - (c) a person representative of a Local Medical Committee which does not represent practitioners in the Local Medical Committee area of the contractor which is a party to the contract”.
 
-#### 36. Assignments to closed lists: dispute resolution procedure relating to determinations of the assessment panel[^key-3453a42fcd33c4e96bdddc8ba72caa3c]
+#### 36. Assignments to closed lists: dispute resolution procedure relating to determinations of the assessment panel[^c-3453a42fcd33c4e96bdddc8ba72caa3c]
 
-(1) Where an assessment panel makes a determination under paragraph 35(7) that the Department[^key-345dead791191551ccc775506f3be393] may assign new patients to contractors which have closed their lists of patients, any contractor specified in that determination may refer the matter to the Family Practitioner Services Independent Appeal Panel[^key-ff6ba5ae8f3a9b0436f2d22e470bc242] to review the determination of the assessment panel.
+(1) Where an assessment panel makes a determination under paragraph 35(7) that the Department[^c-345dead791191551ccc775506f3be393] may assign new patients to contractors which have closed their lists of patients, any contractor specified in that determination may refer the matter to the Family Practitioner Services Independent Appeal Panel[^c-ff6ba5ae8f3a9b0436f2d22e470bc242] to review the determination of the assessment panel.
 
-(2) Where a matter is referred to the Family Practitioner Services Independent Appeal Panel[^key-cdeb1f304296c196aa9612427b88f939] in accordance with sub-paragraph (1), it shall be reviewed in accordance with the procedure specified in the following sub-paragraphs.
+(2) Where a matter is referred to the Family Practitioner Services Independent Appeal Panel[^c-cdeb1f304296c196aa9612427b88f939] in accordance with sub-paragraph (1), it shall be reviewed in accordance with the procedure specified in the following sub-paragraphs.
 
 (3) Where more than one contractor specified in the determination in accordance with paragraph 35(7) wishes to refer the matter for dispute resolution, those contractors may, if they all agree, refer the matter jointly, and in that case the Family Practitioner Services Independent Appeal Panel shall review the matter in relation to those contractors together.
 
@@ -821,23 +821,23 @@ In making an assignment to a contractor under paragraph 32 or 33, the Board shal
 
 (11) Subject to the other provisions of this paragraph and to any agreement by the parties, the Family Practitioner Services Independent Appeal Panel shall have wide discretion in determining the procedure of the dispute resolution to ensure the just, expeditious, economical and final determination of the dispute.
 
-(12) In this paragraph, “specified period” means such period as the Family Practitioner Services Independent Appeal Panel[^key-c1a60c5fafdeca88ce703b7e63b64d00] shall specify in the request, being not less than one, nor more than two, weeks beginning with and including the date on which the notice referred to is given, but the Family Practitioner Services Independent Appeal Panel may, if the period for determination of the dispute has been extended in accordance with sub-paragraph (16), extend any such period (even after it has expired) and, where it does so, a reference in this paragraph to the specified period is to the period as so extended.
+(12) In this paragraph, “specified period” means such period as the Family Practitioner Services Independent Appeal Panel[^c-c1a60c5fafdeca88ce703b7e63b64d00] shall specify in the request, being not less than one, nor more than two, weeks beginning with and including the date on which the notice referred to is given, but the Family Practitioner Services Independent Appeal Panel may, if the period for determination of the dispute has been extended in accordance with sub-paragraph (16), extend any such period (even after it has expired) and, where it does so, a reference in this paragraph to the specified period is to the period as so extended.
 
-(13) Subject to sub-paragraph (16), within the period of 21 days beginning with and including the date on which the matter was referred to it, the Family Practitioner Services Independent Appeal Panel[^key-7d4ae775de19567184caa2b02b3ce0fc] shall determine whether the Department[^key-58525228a23fb945d1fe94cd5f42d9e1] may assign patients to contractors which have closed their lists of patients; and if it determines that the Department may make such assignments, it shall also determine those contractors to which patients may be assigned.
+(13) Subject to sub-paragraph (16), within the period of 21 days beginning with and including the date on which the matter was referred to it, the Family Practitioner Services Independent Appeal Panel[^c-7d4ae775de19567184caa2b02b3ce0fc] shall determine whether the Department[^c-58525228a23fb945d1fe94cd5f42d9e1] may assign patients to contractors which have closed their lists of patients; and if it determines that the Department may make such assignments, it shall also determine those contractors to which patients may be assigned.
 
-(14) The Family Practitioner Services Independent Appeal Panel[^key-861551deda4b42bede80bfade17fa2ad] may not determine that patients may be assigned to a contractor which was not specified in the determination of the assessment panel under paragraph 35(7).
+(14) The Family Practitioner Services Independent Appeal Panel[^c-861551deda4b42bede80bfade17fa2ad] may not determine that patients may be assigned to a contractor which was not specified in the determination of the assessment panel under paragraph 35(7).
 
-(15) In the case of a matter referred jointly by contractors in accordance with sub-paragraph (3), the Family Practitioner Services Independent Appeal Panel[^key-b4761d0e27955723b08fe60da018fa67] may determine that patients may be assigned to one, some or all of the contractors which referred the matter.
+(15) In the case of a matter referred jointly by contractors in accordance with sub-paragraph (3), the Family Practitioner Services Independent Appeal Panel[^c-b4761d0e27955723b08fe60da018fa67] may determine that patients may be assigned to one, some or all of the contractors which referred the matter.
 
 (16) The period of 21 days referred to in sub-paragraph (13) may be extended (even after it has expired) by a further specified number of days if an agreement to that effect is reached by –
 
-- (a) the Family Practitioner Services Independent Appeal Panel[^key-87c1a64617fb27d5389052a151d39aaf] ;
-- (b) the Department[^key-d446593b3fc82bf28916b2f351cf1abc] ; and
+- (a) the Family Practitioner Services Independent Appeal Panel[^c-87c1a64617fb27d5389052a151d39aaf] ;
+- (b) the Department[^c-d446593b3fc82bf28916b2f351cf1abc] ; and
 - (c) the contractor which referred the matter to dispute resolution.
 
-(17) The Family Practitioner Services Independent Appeal Panel[^key-77d75b2e1c4c128b4d006a9109d13b3c] shall record its determination, and the reasons for it, in writing and shall give notice of the determination (including the record of the reasons) to the parties.
+(17) The Family Practitioner Services Independent Appeal Panel[^c-77d75b2e1c4c128b4d006a9109d13b3c] shall record its determination, and the reasons for it, in writing and shall give notice of the determination (including the record of the reasons) to the parties.
 
-#### 37. Assignments to closed lists: assignments of patients by a Board[^key-adcf2bf3a6fd0b98f27f16fef63e81a2]
+#### 37. Assignments to closed lists: assignments of patients by a Board[^c-adcf2bf3a6fd0b98f27f16fef63e81a2]
 
 (1) Before the Board may assign a new patient to a contractor, it shall, subject to sub-paragraph (3), enter into discussions with that contractor regarding additional support that the Board can offer the contractor, and the Board shall use its best endeavours to provide appropriate support.
 
@@ -850,18 +850,18 @@ In making an assignment to a contractor under paragraph 32 or 33, the Board shal
 
 ### PART 3 — prescribing and dispensing
 
-#### 38. Prescribing[^key-ff0912704fd8f1e2bb93fe5fe47d7e93]
+#### 38. Prescribing[^c-ff0912704fd8f1e2bb93fe5fe47d7e93]
 
-The contractor shall ensure that any prescription form or repeatable prescription[^key-8bc61790867be7123ecaf4681bf11850] for drugs, medicines or appliances issued by a prescriber complies as appropriate with the requirements in paragraphs 39 to 44[^key-370c86abed5fbc1ff7dbe17620ecdded] .
+The contractor shall ensure that any prescription form or repeatable prescription[^c-8bc61790867be7123ecaf4681bf11850] for drugs, medicines or appliances issued by a prescriber complies as appropriate with the requirements in paragraphs 39 to 44[^c-370c86abed5fbc1ff7dbe17620ecdded] .
 
-**39.**[^key-4d346eaacf46a7355e2230fb05070bac] (1) Subject to paragraphs 40 and 41, a prescriber shall order any drugs, medicines or appliances which are needed for the treatment of any patient who is receiving treatment under the contract by issuing to that patient a prescription form and such a prescription form shall not be used in any other circumstances.
+**39.**[^c-4d346eaacf46a7355e2230fb05070bac] (1) Subject to paragraphs 40 and 41, a prescriber shall order any drugs, medicines or appliances which are needed for the treatment of any patient who is receiving treatment under the contract by issuing to that patient a prescription form and such a prescription form shall not be used in any other circumstances.
 
 (2) In issuing any such prescription form the prescriber shall himself sign the prescription form in ink with his initials, or forenames, and surname in his own handwriting and not by means of a stamp and shall so sign only after particulars of the order have been inserted in the prescription form, and –
 
 - (a) the prescription form shall not refer to any previous prescription form; and
 - (b) a separate prescription form shall be used for each patient.
 
-(3) Where a prescriber orders the drug buprenorphine or diazepam[^key-d672a46d9f89f213c8681a274edda52f] or a drug specified in Schedule 2 to the Misuse of Drugs Regulations (Northern Ireland) 2002 (controlled drugs to which regulations 14, 15, 16, 18, 19, 20, 21, 23, 26 and 27 of those Regulations apply)[^f00069] for supply by instalments for treating addiction to any drug specified in that Schedule, he shall –
+(3) Where a prescriber orders the drug buprenorphine or diazepam[^c-d672a46d9f89f213c8681a274edda52f] or a drug specified in Schedule 2 to the Misuse of Drugs Regulations (Northern Ireland) 2002 (controlled drugs to which regulations 14, 15, 16, 18, 19, 20, 21, 23, 26 and 27 of those Regulations apply)[^f00069] for supply by instalments for treating addiction to any drug specified in that Schedule, he shall –
 
 - (a) specify the number of instalments to be dispensed and the interval between each instalment; and
 - (b) order only such quantity of the drug as will provide treatment for a period not exceeding 14 days.
@@ -878,7 +878,7 @@ The contractor shall ensure that any prescription form or repeatable prescriptio
 - (b) in the case of a restricted availability appliance, the patient is a person, or it is for a purpose, specified in the Drug Tariff; and
 - (c) he undertakes to furnish the chemist, within 72 hours, with a prescription form completed in accordance with sub-paragraph (3).
 
-#### 39A. Repeatable prescribing services[^key-5776a34f396b4e5322c28c2b3783265d]
+#### 39A. Repeatable prescribing services[^c-5776a34f396b4e5322c28c2b3783265d]
 
 (1) The contractor may only provide repeatable prescribing services to any person on its list of patients if he –
 
@@ -934,7 +934,7 @@ The contractor shall ensure that any prescription form or repeatable prescriptio
 - (a) notify that person; and
 - (b) make reasonable efforts to notify the chemist who has been providing repeat dispensing services to that person, that the repeatable prescription should no longer be used to obtain or provide repeat dispensing services.
 
-#### 40. Restrictions on prescribing by medical practitioners[^key-c538e05361c95619eb52b6f584c6b5ae]
+#### 40. Restrictions on prescribing by medical practitioners[^c-c538e05361c95619eb52b6f584c6b5ae]
 
 (1) In the course of treating a patient to whom he is providing treatment under the contract, a medical practitioner shall not order on a prescription form a drug, medicine or other substance specified in any directions given by the Department under Article 57D of the Order[^f00072] as being drugs, medicines or other substances which may not be ordered for patients in the provision of medical services under the contract but may, subject to regulation 24(2)(b), prescribe such a drug, medicine or other substance for that patient in the course of that treatment under a private arrangement.
 
@@ -953,9 +953,9 @@ but may, subject to regulation 24(2)(b), prescribe such a drug, medicine or othe
 
 but may, subject to regulation 24(2)(b), prescribe such an appliance for that patient in the course of that treatment under a private arrangement.
 
-(4)[^key-74b46b3fea2d0aec770cfef28cffc1fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-74b46b3fea2d0aec770cfef28cffc1fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 41. Restrictions on prescribing by supplementary prescribers[^key-9fa404941495688aa8d4c7be0a3f3e1d]
+#### 41. Restrictions on prescribing by supplementary prescribers[^c-9fa404941495688aa8d4c7be0a3f3e1d]
 
 (1) The contractor shall have arrangements in place to secure that a supplementary prescriber will –
 
@@ -967,14 +967,14 @@ as a supplementary prescriber only under the conditions set out in sub-paragraph
 
 (2) The conditions referred to in sub-paragraph (1) are that –
 
-- (a) the person satisfies the applicable conditions set out in regulation 215 of the Human Medicines Regulations 2012[^key-bd860418f24d58f347f748581c23be4a] (prescribing and administration by supplementary prescribers), unless those conditions do not apply by virtue of any of the exemptions set out in the subsequent provisions of those Regulations[^key-6237b94abf0799ac4afefe536a68865d] ;
-- (b)[^key-93d5b90780eaaa62ce30d5ebb4a5259c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the person satisfies the applicable conditions set out in regulation 215 of the Human Medicines Regulations 2012[^c-bd860418f24d58f347f748581c23be4a] (prescribing and administration by supplementary prescribers), unless those conditions do not apply by virtue of any of the exemptions set out in the subsequent provisions of those Regulations[^c-6237b94abf0799ac4afefe536a68865d] ;
+- (b)[^c-93d5b90780eaaa62ce30d5ebb4a5259c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the drug, medicine or other substance is not specified in any directions given by the Department under Article 57D of the Order[^f00074] as being a drug, medicine or other substance which may not be ordered for patients in the provision of medical services under the contract;
 - (d) the drug, medicine or other substance is not specified in any directions given by the Department under Article 57D of the Order as being a drug, medicine or other substance which can only be ordered for specified patients and specified purposes unless –
   - (i) the patient is a person of the specified description,
   - (ii) the medicine is prescribed for that patient only for the specified purposes, and
   - (iii) if a supplementary prescriber is giving a prescription, he endorses the face of the form with the reference “SL2”.
-- (e)[^key-666d8f8737d67f78709f09c1af92c6fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-666d8f8737d67f78709f09c1af92c6fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where the functions of a supplementary prescriber include prescribing, the contractor shall have arrangements in place to secure that that person will only give a prescription for –
 
@@ -997,19 +997,19 @@ as a supplementary prescriber under the conditions set out in sub-paragraph (4).
     - (bb) incidents occurring with the appliance which might lead, might have led or has led to the death or serious deterioration of state of health of the patient, and
   - (viii) the circumstances in which the supplementary prescriber should refer to, or seek the advice of, the medical practitioner or dentist who is a party to the plan;
 - (b) he has access to the health records of the patient to whom the plan relates which are used by any medical practitioner or dentist who is a party to the plan;
-- (c)[^key-58c7fa72f8c38f962869be3b06497edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-58c7fa72f8c38f962869be3b06497edb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) if it is a prescription for a drug, medicine or other substance, that drug, medicine or other substance is not specified in any directions given by the Department under Article 57D of the Order as being a drug, medicine or other substance which may not be ordered for patients in the provision of medical services under the contract;
 - (e) if it is a prescription for a drug, medicine or other substance, that drug, medicine or other substance is not specified in any directions given by the Department under Article 57D of the Order as being a drug, medicine or other substance which can only be ordered for specified patients and specified purposes unless –
   - (i) the patient is a person of the specified description,
   - (ii) the medicine is prescribed for that patient only for the specified purposes, and
   - (iii) when giving the prescription, he endorses the face of the form with the reference “SL2”;
-- (f)[^key-ceee9bca77023f1ed186ce08db4b3300] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-ceee9bca77023f1ed186ce08db4b3300] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) if it is a prescription for an appliance, the appliance is listed in Part IX of the Drug Tariff; and
 - (h) if it is a prescription for a restricted availability appliance –
   - (i) the patient is a person of a description mentioned in the entry in Part IX of the Drug Tariff in respect of that appliance,
   - (ii) the appliance is prescribed only for the purposes specified in respect of that person in that entry, and
   - (iii) when giving the prescription, he endorses the face of the form with the reference “SL2”.
-- (i)[^key-f635f4cbad8cb3c19cf7db35d1b96d31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-f635f4cbad8cb3c19cf7db35d1b96d31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In sub-paragraph (4)(a), “clinical management plan” means a written plan (which may be amended from time to time) relating to the treatment of an individual patient agreed by –
 
@@ -1017,19 +1017,19 @@ as a supplementary prescriber under the conditions set out in sub-paragraph (4).
 - (b) the medical practitioner or dentist who is a party to the plan; and
 - (c) any supplementary prescriber who is to prescribe, give directions for administration or administer under the plan.
 
-(6)[^key-9179526a7cdcc54006f541855c4fd795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-9179526a7cdcc54006f541855c4fd795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 42. Interpretation of paragraphs 38, 39, 40 and 41[^key-dd3b42139a5b445603c6c3ebfdb5aacf]
+#### 42. Interpretation of paragraphs 38, 39, 40 and 41[^c-dd3b42139a5b445603c6c3ebfdb5aacf]
 
 For the purposes of paragraphs 38, 39, 40 and 41 in their application to a contractor whose contract includes the provision of contraceptive services, drugs includes contraceptive substances and appliances includes contraceptive appliances.
 
-#### 43. Excessive prescribing[^key-a28e6ad04dc122beb09f66f274d68d13]
+#### 43. Excessive prescribing[^c-a28e6ad04dc122beb09f66f274d68d13]
 
 (1) The contractor shall not prescribe drugs, medicines or appliances whose cost or quantity, in relation to any patient, is, by reason of the character of the drug, medicine or appliance in question in excess of that which was reasonably necessary for the proper treatment of that patient.
 
 (2) In considering whether a contractor has breached his obligations under sub-paragraph (1), the Board shall seek the views of the Local Medical Committee (if any) for its area.
 
-#### 44. Provision of dispensing services[^key-6508f3f4b2c4580048608940a10e155c]
+#### 44. Provision of dispensing services[^c-6508f3f4b2c4580048608940a10e155c]
 
 (1) Without prejudice to any separate right a medical practitioner may have under regulation 12 of the Pharmaceutical Regulations (arrangements for provision of pharmaceutical services by doctors)[^f00078], a contractor may provide dispensing services to his registered patients under the contract only if he is required to do so by the Board in accordance with the following provisions of this paragraph.
 
@@ -1050,7 +1050,7 @@ will have serious difficulty in obtaining from a chemist any drugs, medicines or
 
 (5) A contractor which is required under this paragraph to provide dispensing services to some or all of his registered patients may provide any necessary dispensing services to a person whom that contractor has accepted as a temporary resident.
 
-#### 45. Terms relating to the provision of dispensing services[^key-4d3c14733b6ee599d7bcf4b882b6db44]
+#### 45. Terms relating to the provision of dispensing services[^c-4d3c14733b6ee599d7bcf4b882b6db44]
 
 (1) A contractor which has been required to secure the provision of dispensing services under paragraph 44 shall ensure that dispensing services are provided in accordance with the following sub-paragraphs.
 
@@ -1063,9 +1063,9 @@ will have serious difficulty in obtaining from a chemist any drugs, medicines or
   - (ii) the drug or medicine is supplied for that patient only for the specified purpose; and
 - (d) provide for the patient a restricted availability appliance only if the patient is a person, or it is for a purpose, specified in the Drug Tariff.
 
-(3) Sub-paragraph (2) does not apply to drugs, medicines or appliances ordered on a prescription form by an independent prescriber or a supplementary prescriber[^key-53b5be0af93bc3b517b4fe07c8e9515c] .
+(3) Sub-paragraph (2) does not apply to drugs, medicines or appliances ordered on a prescription form by an independent prescriber or a supplementary prescriber[^c-53b5be0af93bc3b517b4fe07c8e9515c] .
 
-(4) Where a patient presents an order on a prescription form for drugs, medicines or appliances signed by an independent prescriber or a supplementary prescriber[^key-e047acccd3383408c8abff240f916627] , or an order for a restricted availability appliance signed by and endorsed on its face with the reference “SL2” by an independent prescriber or a supplementary prescriber , to a contractor who may provide dispensing services, the contractor may provide to the patient such of the drugs, medicines or appliances so ordered as he supplies in the normal course of his practice.
+(4) Where a patient presents an order on a prescription form for drugs, medicines or appliances signed by an independent prescriber or a supplementary prescriber[^c-e047acccd3383408c8abff240f916627] , or an order for a restricted availability appliance signed by and endorsed on its face with the reference “SL2” by an independent prescriber or a supplementary prescriber , to a contractor who may provide dispensing services, the contractor may provide to the patient such of the drugs, medicines or appliances so ordered as he supplies in the normal course of his practice.
 
 (5) Drugs, medicines or appliances provided under sub-paragraph (4) shall be provided in a suitable container.
 
@@ -1075,16 +1075,16 @@ will have serious difficulty in obtaining from a chemist any drugs, medicines or
 
 (8) A contractor providing dispensing services shall comply with paragraph 14A of Schedule 2 to the Pharmaceutical Regulations, as if modified as follows –
 
-- (a) for “paragraph 13(a)”, substitute “sub-paragraph (2)(a) of paragraph 45 of Schedule 5 to the[^key-058c3ac316dae0505208114d7f176059] GMS Regulations ”;
-- (b) for “paragraph 11A(2)”, substitute “sub-paragraph (4) of that paragraph[^key-775d75d3b69606dee6faa6337aac0ca5] ”;
+- (a) for “paragraph 13(a)”, substitute “sub-paragraph (2)(a) of paragraph 45 of Schedule 5 to the[^c-058c3ac316dae0505208114d7f176059] GMS Regulations ”;
+- (b) for “paragraph 11A(2)”, substitute “sub-paragraph (4) of that paragraph[^c-775d75d3b69606dee6faa6337aac0ca5] ”;
 - (c) for “a doctor who is required by the Board under regulation 12 to provide drugs and appliances to a patient”, substitute “a contractor providing dispensing services to a patient”; and
-- (d) for “doctor”, substitute “ contractor[^key-e2ea6ba77c1c193828a33a440c2bed44] ”.
+- (d) for “doctor”, substitute “ contractor[^c-e2ea6ba77c1c193828a33a440c2bed44] ”.
 
 (9) The provisions of regulation 24 (fees and charges) apply in respect of the provision of any drugs, medicines or appliances by a contractor providing dispensing services as they apply in respect of prescriptions for drugs, medicines or appliances.
 
 (10) A contractor who is entitled to provide dispensing services may, with the consent of the patient, order a drug, medicine or appliance for a patient on a prescription form, rather than providing it himself.
 
-#### 46. Dispensing contractor list[^key-d8a39652543723dc16f4b7c643809bd2]
+#### 46. Dispensing contractor list[^c-d8a39652543723dc16f4b7c643809bd2]
 
 (1) Where the contractor is required by the Board under paragraph 44 to provide dispensing services to his patients and is actually doing so, the Board shall include –
 
@@ -1095,7 +1095,7 @@ on a list of such contractors (to be called the dispensing contractors list) whi
 
 (2) The Board shall remove the name of the contractor from the list referred to in sub-paragraph (1) where the contractor ceases to provide dispensing services to his patients.
 
-#### 47. Provision of drugs, medicines and appliances for immediate treatment or personal administration[^key-fadce6fec04ee7be489de9408395bde9]
+#### 47. Provision of drugs, medicines and appliances for immediate treatment or personal administration[^c-fadce6fec04ee7be489de9408395bde9]
 
 (1) Subject to sub-paragraph (2), a contractor –
 
@@ -1104,11 +1104,11 @@ on a list of such contractors (to be called the dispensing contractors list) whi
 
 but shall, in either case, provide a restricted availability appliance only if it is for a person or a purpose specified in the Drug Tariff.
 
-(2) Nothing in sub-paragraph (1) authorises a person to supply any drug or medicine to a patient otherwise than in accordance with Part 12 of the Human Medicines Regulations 2012[^key-0fa489cf4c358b19645c3b2191e20ec5] .
+(2) Nothing in sub-paragraph (1) authorises a person to supply any drug or medicine to a patient otherwise than in accordance with Part 12 of the Human Medicines Regulations 2012[^c-0fa489cf4c358b19645c3b2191e20ec5] .
 
 ### PART 4 — persons who perform services
 
-#### 48. Qualifications of performers[^key-427a7ea21b21e560792f3ca3809c6685]
+#### 48. Qualifications of performers[^c-427a7ea21b21e560792f3ca3809c6685]
 
 (1) Subject to sub-paragraph (2), no medical practitioner shall perform medical services under the contract unless he is –
 
@@ -1120,20 +1120,20 @@ but shall, in either case, provide a restricted availability appliance only if i
 
 - (a) a medical practitioner employed by a Heath and Social Services Trust, (in Scotland) a Health Board, an NHS Trust or an NHS foundation trust who is providing services other than primary medical services at the practice premises;
 - (b) a person who is provisionally registered under section 15, 15A or 21 of the Medical Act 1983[^f00082] acting in the course of his employment in a resident medical capacity in an approved medical practice; or
-- (c)[^key-085c3a7b27caeada312c31e546f74bd7] a GP Registrar who has applied to a Board to have his name included in its primary medical services performers list until the first of the following events arises –
+- (c)[^c-085c3a7b27caeada312c31e546f74bd7] a GP Registrar who has applied to a Board to have his name included in its primary medical services performers list until the first of the following events arises –
   - (i) the Board notifies him of its decision on that application; or
   - (ii) the end of a period of two months, starting with and including the date on which his vocational training scheme began.
-- (d)[^key-7e9cd52cdc0df64942cea0ec57a53a39] a medical practitioner who is undergoing a programme of post-registration supervised clinical practice approved by the General Medical Council[^key-a4c8c783d05babc8a5d0c84f2df5ff07] , but only in so far as any medical services such a medical practitioner performs constitute part of that programme.
+- (d)[^c-7e9cd52cdc0df64942cea0ec57a53a39] a medical practitioner who is undergoing a programme of post-registration supervised clinical practice approved by the General Medical Council[^c-a4c8c783d05babc8a5d0c84f2df5ff07] , but only in so far as any medical services such a medical practitioner performs constitute part of that programme.
 
-(3)[^key-262a42849c327d6d5b86a1c901bba07b] In this paragraph, “vocational training scheme” has the meaning given in regulation 2 of the Health and Personal Social Services (Primary Medical Services Performers Lists) Regulations (Northern Ireland ) 2004.
+(3)[^c-262a42849c327d6d5b86a1c901bba07b] In this paragraph, “vocational training scheme” has the meaning given in regulation 2 of the Health and Personal Social Services (Primary Medical Services Performers Lists) Regulations (Northern Ireland ) 2004.
 
-**49.**[^key-b7af006d45c5607cd789e38473406f2f] No health care professional other than one to whom paragraph 48 applies shall perform clinical services under the contract unless he is appropriately registered with his relevant professional body and his registration is not currently suspended.
+**49.**[^c-b7af006d45c5607cd789e38473406f2f] No health care professional other than one to whom paragraph 48 applies shall perform clinical services under the contract unless he is appropriately registered with his relevant professional body and his registration is not currently suspended.
 
-**50.**[^key-bfd369c74ec66069a2d3728c42dd30b2] Where the registration of a health care professional or, in the case of a medical practitioner, his inclusion in a primary medical services performers list is subject to conditions, the contractor shall ensure compliance with those conditions insofar as they are relevant to the contract.
+**50.**[^c-bfd369c74ec66069a2d3728c42dd30b2] Where the registration of a health care professional or, in the case of a medical practitioner, his inclusion in a primary medical services performers list is subject to conditions, the contractor shall ensure compliance with those conditions insofar as they are relevant to the contract.
 
-**51.**[^key-5cb857c281cbe1e84c624614727371c8] No health care professional shall perform any clinical services unless he has such clinical experience and training as are necessary to enable him properly to perform such services.
+**51.**[^c-5cb857c281cbe1e84c624614727371c8] No health care professional shall perform any clinical services unless he has such clinical experience and training as are necessary to enable him properly to perform such services.
 
-#### 52. Conditions for employment and engagement[^key-06e0bbce76e3d418e9cc376a8bb1dbf6]
+#### 52. Conditions for employment and engagement[^c-06e0bbce76e3d418e9cc376a8bb1dbf6]
 
 (1) Subject to sub-paragraphs (2) and (3), a contractor shall not employ or engage a medical practitioner (other than one falling within paragraph 48(2)), unless –
 
@@ -1147,7 +1147,7 @@ but shall, in either case, provide a restricted availability appliance only if i
 - (a) the name and address provided under sub-paragraph (1) may be the name and address of the Board on whose primary medical services performers list he has applied for inclusion; and
 - (b) confirmation that his name appears on those lists shall not be required until the end of the first two months of the Registrar’s training period.
 
-**53.**[^key-6bc71e1b043a51817f99d1118f2c10ed] (1) A contractor shall not employ or engage –
+**53.**[^c-6bc71e1b043a51817f99d1118f2c10ed] (1) A contractor shall not employ or engage –
 
 - (a) a health care professional other than one to whom paragraph 48 applies unless the contractor has checked that he meets the requirements in paragraph 49; or
 - (b) a health care professional to perform clinical services unless he has taken reasonable steps to satisfy himself that he meets the requirements in paragraph 51.
@@ -1159,7 +1159,7 @@ but shall, in either case, provide a restricted availability appliance only if i
 - (a) any post-graduate or post-registration qualification held by the health care professional; and
 - (b) any relevant training undertaken by him and any relevant clinical experience gained by him.
 
-**54.**[^key-f22bd5f788e0d349834666ae36af7174] (1) The contractor shall not employ or engage a health care professional to perform medical services under the contract , other than a medical practitioner falling within paragraph 48(2)(d),[^key-67572b8eae9e18c00f54f03a19cad29e] unless –
+**54.**[^c-f22bd5f788e0d349834666ae36af7174] (1) The contractor shall not employ or engage a health care professional to perform medical services under the contract , other than a medical practitioner falling within paragraph 48(2)(d),[^c-67572b8eae9e18c00f54f03a19cad29e] unless –
 
 - (a) that person has provided two clinical references, relating to two recent posts (which may include any current post) as a health care professional which lasted for three months without a significant break, or where this is not possible, a full explanation and alternative referees; and
 - (b) the contractor has checked and is satisfied with the references.
@@ -1168,7 +1168,7 @@ but shall, in either case, provide a restricted availability appliance only if i
 
 (3) Where the contractor employs or engages the same person on more than one occasion within a period of three months, he may rely on the references provided on the first occasion, provided that those references are not more than twelve months old.
 
-**55.**[^key-cd6c7254184a7046669ec7c15af6e700] (1) Before employing or engaging any person to assist him in the provision of services under the contract, the contractor shall take reasonable care to satisfy himself that the person in question is both suitably qualified and competent to discharge the duties for which he is to be employed or engaged.
+**55.**[^c-cd6c7254184a7046669ec7c15af6e700] (1) Before employing or engaging any person to assist him in the provision of services under the contract, the contractor shall take reasonable care to satisfy himself that the person in question is both suitably qualified and competent to discharge the duties for which he is to be employed or engaged.
 
 (2) The duty imposed by sub-paragraph (1) is in addition to the duties imposed by paragraphs 52 to 54.
 
@@ -1178,7 +1178,7 @@ but shall, in either case, provide a restricted availability appliance only if i
 - (b) his education and training; and
 - (c) his previous employment or work experience.
 
-#### 56. Training[^key-0d419a0f26911bb1b5e778df0915e8a1]
+#### 56. Training[^c-0d419a0f26911bb1b5e778df0915e8a1]
 
 The contractor shall ensure that for any health care professional who is –
 
@@ -1187,15 +1187,15 @@ The contractor shall ensure that for any health care professional who is –
 
 there are in place arrangements for the purpose of maintaining and updating his skills and knowledge in relation to the services which he is performing or assisting in performing.
 
-**57.**[^key-b9c9bdbde71545b19d001c5fa9e5d05f] The contractor shall afford to each employee reasonable opportunities to undertake appropriate training with a view to maintaining that employee’s competence.
+**57.**[^c-b9c9bdbde71545b19d001c5fa9e5d05f] The contractor shall afford to each employee reasonable opportunities to undertake appropriate training with a view to maintaining that employee’s competence.
 
-#### 58. Terms and conditions[^key-a8246d6c4b19ff1aad80e7b9ea1c8367]
+#### 58. Terms and conditions[^c-a8246d6c4b19ff1aad80e7b9ea1c8367]
 
 The contractor shall only offer employment to a general medical practitioner on terms and conditions which are no less favourable than those contained in the “Model terms and conditions of service for a salaried general practitioner employed by a GMS practice” published by the British Medical Association and the NHS Confederation as item 1.2 of the supplementary documents to the new GMS contract 2003[^f00083].
 
-#### 59. Arrangements for GP Registrars[^key-680cb22bde7cab5e056cd0e8cd56a9d1]
+#### 59. Arrangements for GP Registrars[^c-680cb22bde7cab5e056cd0e8cd56a9d1]
 
-(1) The contractor shall only employ a GP Registrar[^key-3a1ed64eb5b0ea4657e843cb947c4238]... subject to the conditions in sub-paragraph (2).
+(1) The contractor shall only employ a GP Registrar[^c-3a1ed64eb5b0ea4657e843cb947c4238]... subject to the conditions in sub-paragraph (2).
 
 (2) The conditions referred to in sub-paragraph (1) are that the contractor shall not, by reason only of having employed or engaged a GP Registrar, reduce the total number of hours for which other medical practitioners perform primary medical services under the contract or for which other staff assist them in the performance of those services.
 
@@ -1204,11 +1204,11 @@ The contractor shall only offer employment to a general medical practitioner on 
 - (a) offer him terms of employment in accordance with the rates and subject to the conditions contained in any guidance given by the Department concerning the grants, fees, travelling and other allowances payable to GP Registrars; and
 - (b) take into account any guidance issued by the Department in relation to the GP Registrar Scheme.
 
-#### 60. Independent prescribers and supplementary prescribers[^key-d033ffa861d1d355e4d17c281a08c717][^key-2f5053b684591837a25f0a1e0944abd1]
+#### 60. Independent prescribers and supplementary prescribers[^c-d033ffa861d1d355e4d17c281a08c717][^c-2f5053b684591837a25f0a1e0944abd1]
 
 (1) Where –
 
-- (a) a contractor employs or engages a person who is an independent prescriber or a supplementary prescriber[^key-188691275c56b9354567b8f8df90d88e] whose functions will include prescribing;
+- (a) a contractor employs or engages a person who is an independent prescriber or a supplementary prescriber[^c-188691275c56b9354567b8f8df90d88e] whose functions will include prescribing;
 - (b) a party to the contract is an independent prescriber or a supplementary prescriber whose functions will include prescribing; or
 - (c) the functions of a person who is an independent nurse prescriber or a supplementary prescriber whom the contractor already employs or has already engaged are extended to include prescribing,
 
@@ -1245,7 +1245,7 @@ he shall notify the Board in writing by the end of the second working day after 
   - (iii) his functions changed so as no longer to include prescribing, or
   - (iv) on which he was removed or suspended from the relevant register.
 
-#### 61. Signing of documents[^key-f1ba687447e55f1cc66e612d7a6df80c]
+#### 61. Signing of documents[^c-f1ba687447e55f1cc66e612d7a6df80c]
 
 (1) In addition to any other requirements relating to such documents whether in these regulations or otherwise, the contractor shall ensure that the documents specified in paragraph (2) include –
 
@@ -1255,14 +1255,14 @@ he shall notify the Board in writing by the end of the second working day after 
 (2) The documents referred to in sub-paragraph (1) are –
 
 - (a) certificates issued in accordance with regulation 21, unless regulations relating to particular certificates provide otherwise;
-- (b) prescription forms and repeatable prescriptions[^key-6d5c0b05f05eec4af6b173b4e6d60639] ;
+- (b) prescription forms and repeatable prescriptions[^c-6d5c0b05f05eec4af6b173b4e6d60639] ;
 - (c) any other clinical documents.
 
-#### 62. Level of skill[^key-0ca0071b73129ffa0469bcaed7121b03]
+#### 62. Level of skill[^c-0ca0071b73129ffa0469bcaed7121b03]
 
 The contractor shall carry out his obligations under the contract with reasonable care and skill.
 
-#### 63. Appraisal and assessment[^key-aa957b7c58bdfa7063e4f824eb9a71e2]
+#### 63. Appraisal and assessment[^c-aa957b7c58bdfa7063e4f824eb9a71e2]
 
 (1) The contractor shall ensure that any medical practitioner performing services under the contract –
 
@@ -1271,7 +1271,7 @@ The contractor shall carry out his obligations under the contract with reasonabl
 
 (2) In sub-paragraph (1), “armed forces GP” means a medical practitioner who is employed on a contract of service by the Ministry of Defence, whether or not as a member of the United Kingdom Armed Forces of Her Majesty.
 
-#### 64. Sub-contracting of clinical matters[^key-8dc49a23ee48fbee77ef76ed11c1d643]
+#### 64. Sub-contracting of clinical matters[^c-8dc49a23ee48fbee77ef76ed11c1d643]
 
 (1) Subject to sub-paragraph (2), the contractor shall not sub-contract any of his rights or duties under the contract in relation to clinical matters unless –
 
@@ -1306,7 +1306,7 @@ The contractor shall carry out his obligations under the contract with reasonabl
 
 (9) A contract with a sub-contractor must prohibit the sub-contractor from sub-contracting the clinical services he has agreed with the contractor to provide.
 
-(10)[^key-8ad082d1519f3d0605fcb8bc1f80f681] The contractor shall not sub-contract any of his rights or duties under the contract in relation to the provision of essential services to a company or firm –
+(10)[^c-8ad082d1519f3d0605fcb8bc1f80f681] The contractor shall not sub-contract any of his rights or duties under the contract in relation to the provision of essential services to a company or firm –
 
 - (a) owned wholly or partly by the contractor, or by any former or current employee of, or partner or shareholder in, the contractor;
 - (b) formed by or on behalf of the contractor, or from which he derives or may derive a pecuniary benefit; or
@@ -1314,13 +1314,13 @@ The contractor shall carry out his obligations under the contract with reasonabl
 
 where that company or firm is or was formed wholly or partly for the purpose of avoiding restrictions on the sale of goodwill of a medical practice in Article 60 of and Schedule 10 to the 1972 Order or any Regulations made wholly or partly under those provisions.
 
-#### 65. Sub-contracting of out of hours services[^key-63a1c7412791fe183ccddf796b1ccd2e]
+#### 65. Sub-contracting of out of hours services[^c-63a1c7412791fe183ccddf796b1ccd2e]
 
 (1) A contractor shall not, otherwise than in accordance with the written approval of the Board, sub-contract all or part of his duty to provide out of hours services to any person other than those listed in sub-paragraph (2) other than on a short-term occasional basis.
 
 (2)[^M_C_68624687-fc7f-4fbd-9455-cced0639a5e2] The persons referred to in sub-paragraph (1) are –
 
-- (a)[^key-62e2234ef0a400670240c14f917de87c] a person who holds a contract with a Board which includes out of hours services;
+- (a)[^c-62e2234ef0a400670240c14f917de87c] a person who holds a contract with a Board which includes out of hours services;
 - (b) an Article 15B provider who is required to provide the equivalent of essential services to his patients during all or part of the out of hours period;
 - (c) a health care professional, not falling within paragraph (a) or (b), who is to provide the out of hours services personally under a contract for services; or
 - (d) a group of medical practitioners, whether in partnership or not, who provide out of hours services for each other under informal rota arrangements.
@@ -1354,18 +1354,18 @@ where that company or firm is or was formed wholly or partly for the purpose of 
 
 (10) A contract with a sub-contractor must prohibit the sub-contractor from sub-contracting the out of hours services it has agreed with the contractor to provide.
 
-#### 66. Withdrawal and variation of approval under paragraph 65[^key-e23c3087f2f8c84ba6d5fee7faa0b89b]
+#### 66. Withdrawal and variation of approval under paragraph 65[^c-e23c3087f2f8c84ba6d5fee7faa0b89b]
 
 (1) Without prejudice to any other remedies which it may have under the contract, where a Board has approved an application made under paragraph 65(3) it shall, subject to paragraph 67, be entitled to serve notice on the contractor withdrawing or varying that approval, from a date specified in the notice, if it is no longer satisfied that the proposed arrangement will enable the contractor to meet satisfactorily his obligations under the contract.
 
-(2)[^key-05c9d877eb3fe70693b4aadca8b97ce7] A notice served under sub-paragraph (1) shall take effect on the date on which it is received by the contractor.
+(2)[^c-05c9d877eb3fe70693b4aadca8b97ce7] A notice served under sub-paragraph (1) shall take effect on the date on which it is received by the contractor.
 
 (3) The notice referred to in sub-paragraph (1) shall take effect on whichever is the later of –
 
 - (a) the date specified in the notice; or
 - (b) (if applicable) the date of the final determination of the dispute resolution procedure (or any court proceedings) relating to the notice in favour of the Board.
 
-**67.**[^key-7d9e7d199a820ec5c8a0aafc04aafa49] (1) Without prejudice to any other remedies which it may have under the contract, where a Board has approved an application made under paragraph 65(3) it shall be entitled to serve notice on the contractor withdrawing or varying that approval with immediate effect if –
+**67.**[^c-7d9e7d199a820ec5c8a0aafc04aafa49] (1) Without prejudice to any other remedies which it may have under the contract, where a Board has approved an application made under paragraph 65(3) it shall be entitled to serve notice on the contractor withdrawing or varying that approval with immediate effect if –
 
 - (a) it is no longer satisfied that the proposed arrangement will enable the contractor to meet satisfactorily his obligations under the contract; and
 - (b) it is satisfied that immediate withdrawal or variation is necessary to protect the safety of the contractor’s patients.
@@ -1374,7 +1374,7 @@ where that company or firm is or was formed wholly or partly for the purpose of 
 
 ### PART 5 — records, information, notifications and rights of entry
 
-#### 68. Patient records[^key-5e14d5fa74d0cf68c0f76266b88ff2b6]
+#### 68. Patient records[^c-5e14d5fa74d0cf68c0f76266b88ff2b6]
 
 (1) In this paragraph, “computerised records” means records created by way of entries on a computer.
 
@@ -1389,7 +1389,7 @@ or in a combination of those two ways.
 
 (4) The consent of the Board required by sub-paragraph (2)(b) shall not be withheld or withdrawn provided the Board is satisfied, and continues to be satisfied, that –
 
-- (a) the computer system upon which the contractor proposes to keep the records has been accredited by the Department or another person on its behalf in accordance with General Practice Systems of Choice Level 0 and the Northern Ireland Minimum Systems Specification Version 2.[^key-e7001a5dbad2ebdd224ba62315f0b14e]
+- (a) the computer system upon which the contractor proposes to keep the records has been accredited by the Department or another person on its behalf in accordance with General Practice Systems of Choice Level 0 and the Northern Ireland Minimum Systems Specification Version 2.[^c-e7001a5dbad2ebdd224ba62315f0b14e]
 - (b) the security measures, audit and system management functions incorporated into the computer system as accredited in accordance with head (a) have been enabled; and
 - (c) the contractor is aware of, and has signed an undertaking that he will have regard to–
   - (i) any guidelines issued by the Department and notified in writing to the contractor by the Board; and
@@ -1418,27 +1418,27 @@ or in a combination of those two ways.
 
 (9) A contractor whose patient records are computerised records shall not disable, or attempt to disable, either the security measures, or the audit and system management functions referred to in sub-paragraph (4)(b).
 
-#### 69. Access to records for the purpose of the Quality Information Preparation Scheme[^key-11d666c5ffa74056d756d8ae2e439b70]
+#### 69. Access to records for the purpose of the Quality Information Preparation Scheme[^c-11d666c5ffa74056d756d8ae2e439b70]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 70. Confidentiality of personal data[^key-afcfd4d5048598fc9c54d49e329c4e42]
+#### 70. Confidentiality of personal data[^c-afcfd4d5048598fc9c54d49e329c4e42]
 
 The contractor shall nominate a person with responsibility for practices and procedures relating to the confidentiality of personal data held by him.
 
-#### 71. Practice leaflet[^key-8b4c74591ffd2741eb02580730c6139f]
+#### 71. Practice leaflet[^c-8b4c74591ffd2741eb02580730c6139f]
 
 The contractor shall –
 
-- (a) compile a document (in this paragraph called a practice leaflet) which shall include the information specified in Schedule 8[^key-12f6a2f0d818150d38756d4fc8188b1d] ;
+- (a) compile a document (in this paragraph called a practice leaflet) which shall include the information specified in Schedule 8[^c-12f6a2f0d818150d38756d4fc8188b1d] ;
 - (b) review his practice leaflet at least once in every period of 12 months and make any amendments necessary to maintain its accuracy; and
 - (c) make available a copy of the leaflet, and any subsequent updates, to his patients and prospective patients.
 
-#### 71A. Provision of information on website[^key-9666128041899c46c702710ff98643f3]
+#### 71A. Provision of information on website[^c-9666128041899c46c702710ff98643f3]
 
 In the case where a contractor has a website, the contractor must publish on that website details of the practice area, including the area known as the outer boundary area (within the meaning given in regulation 18(1A)), by reference to a sketch diagram, plan or postcode.
 
-#### 72. Provision of information[^key-16fb930497590f2bf7789fefe8e9e110]
+#### 72. Provision of information[^c-16fb930497590f2bf7789fefe8e9e110]
 
 (1) Subject to sub-paragraph (2), the contractor shall, at the request of the Board produce to the Board or to a person authorised in writing by the Board or allow it, or a person authorised in writing by it, to access –
 
@@ -1447,16 +1447,16 @@ In the case where a contractor has a website, the contractor must publish on tha
 
 (2) The contractor shall not be required to comply with any request made in accordance with sub-paragraph (1) unless it has been made by the Board in accordance with directions relating to the provision of information by contractors given to it by the Department under Article 17 of the Order.
 
-(3)[^key-45164ce8bb6f7317b7bda49518df23af] The contractor shall produce the information requested, or, as the case may be, allow access to it –
+(3)[^c-45164ce8bb6f7317b7bda49518df23af] The contractor shall produce the information requested, or, as the case may be, allow access to it –
 
 - (a) by such date as has been agreed as reasonable between the contractor and the Board; or
 - (b) in the absence of such agreement, within 28 days of the request being made.
 
-#### 73. Inquiries about prescriptions and referrals[^key-a29ec8ea336a3d94f953312ddeab3f5c]
+#### 73. Inquiries about prescriptions and referrals[^c-a29ec8ea336a3d94f953312ddeab3f5c]
 
 (1) The contractor shall, subject to sub-paragraphs (2) and (3), sufficiently answer any inquiries whether oral or in writing from the Board concerning –
 
-- (a) any prescription form or repeatable prescription[^key-336b37826ce2dbcd026f808ec3752769] issued by a prescriber;
+- (a) any prescription form or repeatable prescription[^c-336b37826ce2dbcd026f808ec3752769] issued by a prescriber;
 - (b) the considerations by reference to which prescribers issue such forms;
 - (c) the referral by or on behalf of the contractor of any patient to any other services provided under the Order; or
 - (d) the considerations by which the contractor makes such referrals or provides for them to be made on his behalf.
@@ -1470,7 +1470,7 @@ In the case where a contractor has a website, the contractor must publish on tha
 
 appointed in either case by the Board to assist it in the exercise of its functions under this paragraph and that person produces, on request, written evidence that he is authorised by the Board to make such an inquiry on its behalf.
 
-#### 74. Provision of information to a medical officer etc.[^key-bd8b3b4d09389e7f5a07d435f846b20e]
+#### 74. Provision of information to a medical officer etc.[^c-bd8b3b4d09389e7f5a07d435f846b20e]
 
 (1) The contractor must, if satisfied that the patient consents—
 
@@ -1504,11 +1504,11 @@ appointed in either case by the Board to assist it in the exercise of its functi
   - (i) employed by the Department for Social Development, or
   - (ii) provided by an organisation under a contract entered into with the Department for Social Development”.
 
-#### 75. Annual return and review[^key-c3dd07aeacc457843390ab258478507d]
+#### 75. Annual return and review[^c-c3dd07aeacc457843390ab258478507d]
 
 (1) The contractor shall submit an annual return relating to the contract to the Board which shall require the same categories of information from all persons who hold contracts with that Board.
 
-(1A)[^key-2f7e3e6cf7bc1f0ada298c7989bacfb9] Subject to Article 50 (annual returns and reviews) of the General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004, one such return may be requested by the Board at any time during each financial year in relation to such period (not including any period covered by a previous annual return) as may be specified in the request.
+(1A)[^c-2f7e3e6cf7bc1f0ada298c7989bacfb9] Subject to Article 50 (annual returns and reviews) of the General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004, one such return may be requested by the Board at any time during each financial year in relation to such period (not including any period covered by a previous annual return) as may be specified in the request.
 
 (1B) The contractor shall submit the completed return to the Board –
 
@@ -1523,7 +1523,7 @@ appointed in either case by the Board to assist it in the exercise of its functi
 
 (5) A copy of the final record referred to in sub-paragraph (4) shall be sent to the contractor.
 
-#### 76. Notifications to the Board[^key-844449dce89f7a9b9020a756dea46540]
+#### 76. Notifications to the Board[^c-844449dce89f7a9b9020a756dea46540]
 
 In addition to any requirements of notification elsewhere in the regulations, the contractor shall notify the Board in writing, as soon as reasonably practicable, of –
 
@@ -1533,18 +1533,18 @@ In addition to any requirements of notification elsewhere in the regulations, th
 - (d) any change of which he is aware in the address of a registered patient;
 - (e) the death of any patient of which he is aware.
 
-**77.**[^key-df8b25ee876eb31497bf5ae32ce688da] The contractor shall, unless it is impracticable for him to do so, notify the Board in writing within 28 days of any occurrence requiring a change in the information about him published by the Board in accordance with regulations made under Article 56(3) of the Order[^f00085].
+**77.**[^c-df8b25ee876eb31497bf5ae32ce688da] The contractor shall, unless it is impracticable for him to do so, notify the Board in writing within 28 days of any occurrence requiring a change in the information about him published by the Board in accordance with regulations made under Article 56(3) of the Order[^f00085].
 
-**78.**[^key-22701904957912b4389c841a29af929a][^key-80c7b2793b0df34436a766c50cc88c92] (1) The contractor shall notify the Board in writing of any person other than a registered patient or a person whom the contractor has accepted as a temporary resident to whom he has provided the essential services described in regulation 15(6) or 98) within the period of 28 days beginning on the day that services were provided.
+**78.**[^c-22701904957912b4389c841a29af929a][^c-80c7b2793b0df34436a766c50cc88c92] (1) The contractor shall notify the Board in writing of any person other than a registered patient or a person whom the contractor has accepted as a temporary resident to whom he has provided the essential services described in regulation 15(6) or 98) within the period of 28 days beginning on the day that services were provided.
 
-(2)[^key-f6923aedd8fca850bfd270980b66a974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f6923aedd8fca850bfd270980b66a974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 79. Notice provisions specific to a contract with a company limited by shares[^key-d690b8d180ab66ca8dc8db44ca66f28e]
+#### 79. Notice provisions specific to a contract with a company limited by shares[^c-d690b8d180ab66ca8dc8db44ca66f28e]
 
 (1) A contractor which is a company limited by shares shall give notice in writing to the Board forthwith when –
 
 - (a) any share in the contractor is transmitted or transferred (whether legally or beneficially) to another person on a date after the contract has been entered into;
-- (aa)[^key-f234a20d37e7266faacdbf29fde4c5ee] a new director or secretary is appointed;
+- (aa)[^c-f234a20d37e7266faacdbf29fde4c5ee] a new director or secretary is appointed;
 - (b) it passes a resolution or the High Court makes an order that the contractor be wound up;
 - (c) circumstances arise which might entitle a creditor or the High Court to appoint a receiver, administrator or administrative receiver for the contractor;
 - (d) circumstances arise which would enable the High Court to make a winding up order in respect of the contractor; or
@@ -1555,9 +1555,9 @@ In addition to any requirements of notification elsewhere in the regulations, th
 - (a) is a medical practitioner, or that he satisfies the conditions specified in Article 57B(2)(b)(i) to (iv) of the Order[^f00087]; and
 - (b) meets the further conditions imposed on shareholders by virtue of regulations 4 and 5.
 
-(3)[^key-a2bb0f71f1710366fbdc724263d169ed] A notice under sub-paragraph (1)(aa) shall confirm that the new director or, as the case may be, secretary meets the conditions imposed on directors and secretaries by virtue of regulation 5.
+(3)[^c-a2bb0f71f1710366fbdc724263d169ed] A notice under sub-paragraph (1)(aa) shall confirm that the new director or, as the case may be, secretary meets the conditions imposed on directors and secretaries by virtue of regulation 5.
 
-#### 80. Notice provisions specific to a contract with two or more individuals practising in partnership[^key-359cbcda44a7b594984e86ecc57d1b61]
+#### 80. Notice provisions specific to a contract with two or more individuals practising in partnership[^c-359cbcda44a7b594984e86ecc57d1b61]
 
 (1) A contractor which is a partnership shall give notice in writing to the Board forthwith when –
 
@@ -1571,7 +1571,7 @@ In addition to any requirements of notification elsewhere in the regulations, th
 - (c) confirm that the new partner meets the conditions imposed by regulations 4 and 5; and
 - (d) state whether the new partner is a general or a limited partner.
 
-#### 81. Notification of deaths[^key-bf17a991fbd5dee8e800680abae1bfd8]
+#### 81. Notification of deaths[^c-bf17a991fbd5dee8e800680abae1bfd8]
 
 (1) The contractor shall report in writing to the Board the death on his practice premises of any patient no later than the end of the first working day after the date on which the death occurred.
 
@@ -1586,7 +1586,7 @@ In addition to any requirements of notification elsewhere in the regulations, th
 
 (3) The contractor shall send a copy of the report referred to in sub-paragraph (1) to any other Board in whose area the deceased was resident at the time of his death.
 
-#### 82. Notifications to patients following variation of the contract[^key-068614836a0082c2e0df403da5686dbf]
+#### 82. Notifications to patients following variation of the contract[^c-068614836a0082c2e0df403da5686dbf]
 
 Where the contract is varied in accordance with Part 8 and, as a result of that variation –
 
@@ -1595,7 +1595,7 @@ Where the contract is varied in accordance with Part 8 and, as a result of that 
 
 the Board shall notify those patients in writing of the variation and its effect and inform them of the steps they can take to obtain elsewhere the services in question or, as the case may be, register elsewhere for the provision of essential services(or their equivalent).
 
-#### 83. Entry and inspection by the Board[^key-89922bca928e934964395f3b04fece40]
+#### 83. Entry and inspection by the Board[^c-89922bca928e934964395f3b04fece40]
 
 (1) Subject to the conditions in sub-paragraph (2), the contractor shall allow persons authorised in writing by the Board to enter and inspect the practice premises at any reasonable time.
 
@@ -1605,11 +1605,11 @@ the Board shall notify those patients in writing of the variation and its effect
 - (b) written evidence of the authority of the person seeking entry is produced to the contractor on request; and
 - (c) entry is not made to any premises or part of the premises used as residential accommodation without the consent of the resident.
 
-(3) Either the contractor or the Board may, if he or[^key-9201c6722720f00a60248823010b9ae6] it wishes to do so, invite the Local Medical Committee for the area of the Board to be present at an inspection of the practice premises which takes place under this paragraph.
+(3) Either the contractor or the Board may, if he or[^c-9201c6722720f00a60248823010b9ae6] it wishes to do so, invite the Local Medical Committee for the area of the Board to be present at an inspection of the practice premises which takes place under this paragraph.
 
 ### PART 6 — complaints
 
-#### 84. Complaints procedure[^key-258af63025c2ecc7ca072bc986bc8cf7]
+#### 84. Complaints procedure[^c-258af63025c2ecc7ca072bc986bc8cf7]
 
 (1) The contractor shall establish and operate a complaints procedure to deal with any complaints in relation to any matter reasonably connected with the provision of services under the contract, which shall comply with the requirements of paragraphs 85 to 88 and 90.
 
@@ -1620,7 +1620,7 @@ the Board shall notify those patients in writing of the variation and its effect
 
 (3) The contractor shall take reasonable steps to ensure that the complaints procedure is accessible to all patients.
 
-#### 85. Making of complaints[^key-e97030558b4741e9d3174b2c79ac4435]
+#### 85. Making of complaints[^c-e97030558b4741e9d3174b2c79ac4435]
 
 A complaint may be made by or, with his consent, on behalf of a patient, or former patient, who is receiving or has received services under the contract, or –
 
@@ -1630,9 +1630,9 @@ A complaint may be made by or, with his consent, on behalf of a patient, or form
   - (iii) by a person duly authorised by a voluntary organisation by which the child is being accommodated under the provisions of that Order;
 - (b) where the patient is incapable of making a complaint, by a relative or other adult who has an interest in his welfare.
 
-**86.**[^key-8223e2732388b6c56c5a54d9bf842be0] Where a patient has died a complaint may be made by a relative or other adult who had an interest in his welfare or, where the patient falls within paragraph 85(a)(ii) or (iii), by the Trust or voluntary organisation.
+**86.**[^c-8223e2732388b6c56c5a54d9bf842be0] Where a patient has died a complaint may be made by a relative or other adult who had an interest in his welfare or, where the patient falls within paragraph 85(a)(ii) or (iii), by the Trust or voluntary organisation.
 
-#### 87. Period for making complaints[^key-27eb1dd8c5f0f111d98e898e7a14fb7d]
+#### 87. Period for making complaints[^c-27eb1dd8c5f0f111d98e898e7a14fb7d]
 
 (1) Subject to sub-paragraph (2), the period for making a complaint is –
 
@@ -1646,7 +1646,7 @@ A complaint may be made by or, with his consent, on behalf of a patient, or form
 
 the complaint shall be treated as if it had been received during the period specified in sub-paragraph (1).
 
-#### 88. Further requirements for complaints procedures[^key-796d95b25cf9826726b477d0c4025682]
+#### 88. Further requirements for complaints procedures[^c-796d95b25cf9826726b477d0c4025682]
 
 (1) A complaints procedure shall also comply with the requirements set out in sub-paragraphs (2) to (6).
 
@@ -1667,7 +1667,7 @@ the complaint shall be treated as if it had been received during the period spec
 
 (6) The contractor must keep a record of all complaints and copies of all correspondence relating to complaints, but such records must be kept separate from patients' medical records.
 
-#### 89. Co-operation with investigations[^key-d26a80c26e15098f442f6b28f70b881e]
+#### 89. Co-operation with investigations[^c-d26a80c26e15098f442f6b28f70b881e]
 
 (1) The contractor shall co-operate with –
 
@@ -1678,7 +1678,7 @@ the complaint shall be treated as if it had been received during the period spec
 
 (2) In sub-paragraph (1) –
 
-- “NHS body” means a clinical commissioning group,[^key-da5c1082d5f1451797607ad773a7680a] (in England and Wales and Scotland) an NHS Trust, an NHS foundation trust, NHS England[^key-1a32af080e55dc91f620bb89a24450d6] , a Local Health Board, and a Health Board;
+- “NHS body” means a clinical commissioning group,[^c-da5c1082d5f1451797607ad773a7680a] (in England and Wales and Scotland) an NHS Trust, an NHS foundation trust, NHS England[^c-1a32af080e55dc91f620bb89a24450d6] , a Local Health Board, and a Health Board;
 - “local authority” means –
   - (a) any of the bodies listed in section 1 of the Local Authority Social Services Act 1970[^f00089];
   - (b) the Council of the Isles of Scilly, or
@@ -1690,44 +1690,44 @@ the complaint shall be treated as if it had been received during the period spec
 - (b) providing any information relating to the complaint reasonably required by the Board ; and
 - (c) attending any meeting to consider the complaint (if held at a reasonably accessible place and at a reasonable hour, and due notice has been given) if the contractor’s presence at the meeting is reasonably required by the Board.
 
-#### 90. Provision of information about complaints[^key-38cf76d579d31691e2e146be408d54e0]
+#### 90. Provision of information about complaints[^c-38cf76d579d31691e2e146be408d54e0]
 
-(1)[^key-5149440bd71c76c49c1bc887b5b839e2] The contractor shall inform the Board, at such intervals as required, of the number of complaints it has received under the procedure established in accordance with this Part.
+(1)[^c-5149440bd71c76c49c1bc887b5b839e2] The contractor shall inform the Board, at such intervals as required, of the number of complaints it has received under the procedure established in accordance with this Part.
 
-(2)[^key-9762dd60919d1cee866d924ea0067b6d] This paragraph does not apply in relation to out of hours services provided by a contractor on or after 1st May 2005.
+(2)[^c-9762dd60919d1cee866d924ea0067b6d] This paragraph does not apply in relation to out of hours services provided by a contractor on or after 1st May 2005.
 
 ### PART 7 — dispute resolution
 
-#### 91. Local resolution of contract disputes[^key-aff659aa09ac664c0929ceac1b7891ac]
+#### 91. Local resolution of contract disputes[^c-aff659aa09ac664c0929ceac1b7891ac]
 
-(1) Subject to sub-paragraph (3), in the case of any dispute arising out of or in connection with the contract, the contractor and the Department[^key-77c39756c2ccf7f00dcf661ceac31f03] must make every reasonable effort to communicate and co-operate with each other with a view to resolving the dispute, before referring the dispute for determination in accordance with the dispute resolution procedure (or, where applicable, before commencing court proceedings).
+(1) Subject to sub-paragraph (3), in the case of any dispute arising out of or in connection with the contract, the contractor and the Department[^c-77c39756c2ccf7f00dcf661ceac31f03] must make every reasonable effort to communicate and co-operate with each other with a view to resolving the dispute, before referring the dispute for determination in accordance with the dispute resolution procedure (or, where applicable, before commencing court proceedings).
 
-(2) Either the contractor or the Department[^key-724681bfb613a6cb79cd042f8255a4ea] may, if it wishes to do so, invite the relevant[^key-548765c78152079a9af0110a7b8029f2] Local Medical Committee [^key-76afe3f253e7b6d3ab7d066b47fd115b]... to participate in discussions which take place pursuant to sub-paragraph (1).
+(2) Either the contractor or the Department[^c-724681bfb613a6cb79cd042f8255a4ea] may, if it wishes to do so, invite the relevant[^c-548765c78152079a9af0110a7b8029f2] Local Medical Committee [^c-76afe3f253e7b6d3ab7d066b47fd115b]... to participate in discussions which take place pursuant to sub-paragraph (1).
 
 (3) In the case of a dispute which falls to be dealt with under the procedure specified in paragraph 36, sub-paragraph (1) does not apply where it is not practicable for the parties to attempt local resolution before the expiry of the period specified in paragraph 36(4).
 
-#### 92. Dispute resolution: non-HSS contracts[^key-1d33d56e4cfdb8529a23864c847a2ac2]
+#### 92. Dispute resolution: non-HSS contracts[^c-1d33d56e4cfdb8529a23864c847a2ac2]
 
-(1) In the case of a contract which is not an HSS contract, any dispute arising out of or in connection with the contract, except matters dealt with under the complaints procedure pursuant to Part 6, may be referred for consideration and determination to the Family Practitioner Services Independent Appeal Panel[^key-5a26091cbb50e8ad1b212b99bdfd2918] , if –
+(1) In the case of a contract which is not an HSS contract, any dispute arising out of or in connection with the contract, except matters dealt with under the complaints procedure pursuant to Part 6, may be referred for consideration and determination to the Family Practitioner Services Independent Appeal Panel[^c-5a26091cbb50e8ad1b212b99bdfd2918] , if –
 
-- (a) the Department[^key-e2b48c7e57bd6bfae1730c47b794e674] so wishes and the contractor has agreed in writing; or
+- (a) the Department[^c-e2b48c7e57bd6bfae1730c47b794e674] so wishes and the contractor has agreed in writing; or
 - (b) the contractor so wishes (even if the Department does not agree).
 
-(2) In the case of a dispute referred to the Family Practitioner Services Independent Appeal Panel[^key-afafb0720d5f8c6ccd49cfeea10b9a56] under sub-paragraph (1) –
+(2) In the case of a dispute referred to the Family Practitioner Services Independent Appeal Panel[^c-afafb0720d5f8c6ccd49cfeea10b9a56] under sub-paragraph (1) –
 
 - (a) the procedure to be followed is the dispute resolution procedure; and
 - (b) the parties agree to be bound by any determination made by the adjudicator.
 
-#### 93. Dispute resolution procedure[^key-9e59233361bccf9cb021034fb10c313e]
+#### 93. Dispute resolution procedure[^c-9e59233361bccf9cb021034fb10c313e]
 
-(1) Subject to sub-paragraph (2), the procedure specified in the following sub-paragraphs and paragraph 94 applies in the case of any dispute arising out of or in connection with the contract which is referred to the Family Practitioner Services Independent Appeal Panel[^key-cc7e50d32365a735990a0d978b26ec54] –
+(1) Subject to sub-paragraph (2), the procedure specified in the following sub-paragraphs and paragraph 94 applies in the case of any dispute arising out of or in connection with the contract which is referred to the Family Practitioner Services Independent Appeal Panel[^c-cc7e50d32365a735990a0d978b26ec54] –
 
 - (a) in accordance with Article 8(4) of the 1991 Order (where the contract is a HSS contract); or
 - (b) in accordance with paragraph 92(1) (where the contract is not a HSS contract).
 
 (2) The procedure specified in this paragraph and paragraph 94 does not apply where a contractor refers a matter for determination in accordance with paragraph 36(1), and in such a case the procedure specified in that paragraph shall apply instead.
 
-(3) Any party wishing to refer a dispute as mentioned in sub-paragraph (1) shall send to the Family Practitioner Services Independent Appeal Panel[^key-be4364f3a5d61a6fd9fbb14c307022f2] a written request for dispute resolution which shall include or be accompanied by –
+(3) Any party wishing to refer a dispute as mentioned in sub-paragraph (1) shall send to the Family Practitioner Services Independent Appeal Panel[^c-be4364f3a5d61a6fd9fbb14c307022f2] a written request for dispute resolution which shall include or be accompanied by –
 
 - (a) the names and addresses of the parties to the dispute;
 - (b) a copy of the contract; and
@@ -1735,9 +1735,9 @@ the complaint shall be treated as if it had been received during the period spec
 
 (4) Any party wishing to refer a dispute as mentioned in sub-paragraph (1) must send the request under sub-paragraph (3) within a period of three years beginning with and including the date on which the matter giving rise to the dispute happened or should reasonably have come to the attention of the party wishing to refer the dispute.
 
-(5) Where the dispute relates to a contract which is not a HSS contract, the Family Practitioner Services Independent Appeal Panel[^key-2743723a7ba006802bfe3411c8556cb0] may determine the matter itself or, if it considers it appropriate, appoint a person to consider and determine it[^f00091].
+(5) Where the dispute relates to a contract which is not a HSS contract, the Family Practitioner Services Independent Appeal Panel[^c-2743723a7ba006802bfe3411c8556cb0] may determine the matter itself or, if it considers it appropriate, appoint a person to consider and determine it[^f00091].
 
-(6) Before reaching a decision as to who should determine the dispute, either under sub-paragraph (5) or under Article 8(5) of the 1991 Order, the Family Practitioner Services Independent Appeal Panel shall, within the period of 7 days beginning with and including the date on which a matter was referred to it, send a written request to the parties to make in writing, within a specified period, any representations which they may wish to make about the matter under dispute[^key-e8fdd38408b4b8e3a4ef209f70e9b6a2] .
+(6) Before reaching a decision as to who should determine the dispute, either under sub-paragraph (5) or under Article 8(5) of the 1991 Order, the Family Practitioner Services Independent Appeal Panel shall, within the period of 7 days beginning with and including the date on which a matter was referred to it, send a written request to the parties to make in writing, within a specified period, any representations which they may wish to make about the matter under dispute[^c-e8fdd38408b4b8e3a4ef209f70e9b6a2] .
 
 (7) The Family Practitioner Services Independent Appeal Panel shall give, with the notice given under sub-paragraph (6), to the party other than the one which referred the matter to dispute resolution a copy of any document by which the matter was referred to dispute resolution.
 
@@ -1745,7 +1745,7 @@ the complaint shall be treated as if it had been received during the period spec
 
 (9) Following receipt of any representations from the parties or, if earlier, at the end of the period for making such representations specified in the request sent under sub-paragraph (6) or (8), the Family Practitioner Services Independent Appeal Panel shall, if it decides to appoint a person to hear the dispute –
 
-- (a) inform the parties in writing of the name of the person or persons whom it[^key-ead381ab2b84d088e74c07e3356ffcc6] has appointed; and
+- (a) inform the parties in writing of the name of the person or persons whom it[^c-ead381ab2b84d088e74c07e3356ffcc6] has appointed; and
 - (b) pass to the person or persons so appointed any documents received from the parties under or pursuant to paragraphs (3), (6) or (8).
 
 (10) For the purpose of assisting him in his consideration of the matter, the adjudicator may –
@@ -1763,11 +1763,11 @@ the complaint shall be treated as if it had been received during the period spec
 - (d) the results of any consultation under sub-paragraph (10)(b); and
 - (e) any observations made in accordance with an opportunity given under sub-paragraph (11).
 
-(13) In this paragraph, “specified period” means such period as the Family Practitioner Services Independent Appeal Panel[^key-0f19165b30df0a3bd6d0ed15a91a1001] shall specify in the request, being not less than 2, nor more than 4, weeks beginning with and including the date on which the notice referred to is given, but the Family Practitioner Services Independent Appeal Panel may, if it considers that there is good reason for doing so, extend any such period (even after it has expired) and, where it does so, a reference in this paragraph to the specified period is to the period as so extended.
+(13) In this paragraph, “specified period” means such period as the Family Practitioner Services Independent Appeal Panel[^c-0f19165b30df0a3bd6d0ed15a91a1001] shall specify in the request, being not less than 2, nor more than 4, weeks beginning with and including the date on which the notice referred to is given, but the Family Practitioner Services Independent Appeal Panel may, if it considers that there is good reason for doing so, extend any such period (even after it has expired) and, where it does so, a reference in this paragraph to the specified period is to the period as so extended.
 
 (14) Subject to the other provisions of this paragraph and paragraph 94 and to any agreement by the parties, the adjudicator shall have wide discretion in determining the procedure of the dispute resolution to ensure the just, expeditious, economical and final determination of the dispute.
 
-#### 94. Determination of dispute[^key-5304ce314e0d5dfde0ac45ae271d754c]
+#### 94. Determination of dispute[^c-5304ce314e0d5dfde0ac45ae271d754c]
 
 (1) The adjudicator shall record his determination and the reasons for it, in writing and shall give notice of the determination (including the record of the reasons) to the parties.
 
@@ -1775,7 +1775,7 @@ the complaint shall be treated as if it had been received during the period spec
 
 (3) In the case of a contract referred for determination in accordance with paragraph 92(1), sub-paragraph (5) of Article 57F of the Order shall apply as that subparagraph applies in the case of a contract referred for determination in accordance with sub-paragraph (4) of Article 8 of the 1991 Order.
 
-#### 95. Interpretation of Part 7[^key-f035d85ee9bb370c0413ea47de94873e]
+#### 95. Interpretation of Part 7[^c-f035d85ee9bb370c0413ea47de94873e]
 
 (1) In this Part, “any dispute arising out of or in connection with the contract” includes any dispute arising out of or in connection with the termination of the contract.
 
@@ -1783,7 +1783,7 @@ the complaint shall be treated as if it had been received during the period spec
 
 ### PART 8 — variation and termination of contracts
 
-#### 96. Variation of a contract: general[^key-dd48b6c3ec84ad1e67acdca57d785468]
+#### 96. Variation of a contract: general[^c-dd48b6c3ec84ad1e67acdca57d785468]
 
 (1) Subject to Schedule 2 and paragraphs 64(8), 65(8), 97, 98 and 109, no amendment or variation shall have effect unless it is in writing and signed by or on behalf of the Board and the contractor.
 
@@ -1794,7 +1794,7 @@ the complaint shall be treated as if it had been received during the period spec
 
 and, where it is reasonably practicable to do so, the date that the proposed variation is to take effect shall be not less than 14 days after the date on which the notice under head (b) is served on the contractor.
 
-#### 97. Variation provisions specific to a contract with an individual medical practitioner[^key-9789f071fa06ea1982b94c0c8d4de69e]
+#### 97. Variation provisions specific to a contract with an individual medical practitioner[^c-9789f071fa06ea1982b94c0c8d4de69e]
 
 (1) If a contractor which is an individual medical practitioner proposes to practise in partnership with a person during the existence of the contract, the contractor shall notify the Board in writing of –
 
@@ -1822,7 +1822,7 @@ and the notice shall be signed by the individual medical practitioner and by the
 - (a) may vary the contract but only to the extent that it is satisfied is necessary to reflect the change in status of the contractor from an individual medical practitioner to a partnership; and
 - (b) if it does propose to so vary the contract, it shall include in the notice served on the contractor pursuant to sub-paragraph (4) the wording of the proposed variation and the date upon which that variation is to take effect.
 
-#### 98. Variation provisions specific to a contract with two or more individuals practising in partnership[^key-f986c20013c3c2cc9594d105498f0437]
+#### 98. Variation provisions specific to a contract with two or more individuals practising in partnership[^c-f986c20013c3c2cc9594d105498f0437]
 
 (1) Subject to sub-paragraph (4), where a contractor consists of two or more individuals practising in partnership in the event that the partnership is terminated or dissolved, the contract shall only continue with one of the former partners if that partner is –
 
@@ -1839,12 +1839,12 @@ and provided that the requirements in sub-paragraphs (2) and (3) are met.
 - (b) specify the name of the medical practitioner with whom the contract will continue, which must be one of the partners; and
 - (c) be signed by all of the persons who are practising in partnership.
 
-(4) If a partnership is terminated or dissolved because, in a partnership consisting of two individuals practising in partnership, one of the partners has died, [^key-c67cbbb63a27abb48f4c0b1911ecc3c4]... the remaining individual shall notify the Board in writing as soon as it is reasonably practicable of the death of his partner and sub-paragraph (4A) or (4B) shall apply.[^M_F_7b7f781f-dbbf-4b69-b4b3-a421dc5ad99a] –
+(4) If a partnership is terminated or dissolved because, in a partnership consisting of two individuals practising in partnership, one of the partners has died, [^c-c67cbbb63a27abb48f4c0b1911ecc3c4]... the remaining individual shall notify the Board in writing as soon as it is reasonably practicable of the death of his partner and sub-paragraph (4A) or (4B) shall apply.[^M_F_7b7f781f-dbbf-4b69-b4b3-a421dc5ad99a] –
 
 - (a) the contract shall continue with the individual who has not died only if that individual is a medical practitioner who meets the condition in regulation 4(2)(a); and
 - (b) that individual shall in any event notify the Board in writing as soon as is reasonably practicable of the death of his partner.
 
-(4A)[^key-c7c9cee03f5285a8e227d6dc4df2a01d] If the remaining individual is a general medical practitioner, the contract shall continue with that individual.
+(4A)[^c-c7c9cee03f5285a8e227d6dc4df2a01d] If the remaining individual is a general medical practitioner, the contract shall continue with that individual.
 
 (4B) If sub-paragraph (4A) does not apply, the Board may, if it thinks fit, serve notice in writing on the remaining individual confirming that the Board will allow the contract to continue with that individual, for a period specified by the Board of up to six months (the “interim period”) provided that he consents to the Board employing or supplying a general medical practitioner to him for the interim period to assist in the provision of clinical services under the contract.
 
@@ -1854,19 +1854,19 @@ and provided that the requirements in sub-paragraphs (2) and (3) are met.
 
 (4E) If, at the end of the interim period, the contractor has not entered into partnership with a general medical practitioner who is not a limited partner, the Board shall serve notice on the contractor terminating the contract forthwith.
 
-(5) When the Board receives a notice pursuant to sub-paragraph (2) or (4)[^key-e9dbdfebd13ba1e1d504949e4a08ec7d] , it shall acknowledge in writing receipt of the notice, and in relation to a notice served pursuant to sub-paragraph (2), the Board shall do so before the date specified pursuant to sub-paragraph (3)(a).
+(5) When the Board receives a notice pursuant to sub-paragraph (2) or (4)[^c-e9dbdfebd13ba1e1d504949e4a08ec7d] , it shall acknowledge in writing receipt of the notice, and in relation to a notice served pursuant to sub-paragraph (2), the Board shall do so before the date specified pursuant to sub-paragraph (3)(a).
 
 (6) Where a contractor gives notice to the Board pursuant to sub-paragraph (2) or (4), the Board may vary the contract but only to the extent that it is satisfied is necessary to reflect the change in status of the contractor from a partnership to an individual medical practitioner.
 
 (7) If the Board varies the contract pursuant to sub-paragraph (6), it shall notify the contractor in writing of the wording of the proposed variation and the date upon which that variation is to take effect.
 
-(8)[^key-12c2a4b217126a6af60358fe3f504d07] In this paragraph, “general medical practitioner” has the same meaning as in regulation 4(1).
+(8)[^c-12c2a4b217126a6af60358fe3f504d07] In this paragraph, “general medical practitioner” has the same meaning as in regulation 4(1).
 
-#### 99. Termination by agreement[^key-f7b2984c78fd9fda66703c347697ffb0]
+#### 99. Termination by agreement[^c-f7b2984c78fd9fda66703c347697ffb0]
 
 The Board and the contractor may agree in writing to terminate the contract, and if the parties so agree, they shall agree the date upon which that termination should take effect and any further terms upon which the contract should be terminated.
 
-#### 99A. Termination on the death of an individual medical practitioner[^key-ffa70454664a8528519ff40dc93ba2fd]
+#### 99A. Termination on the death of an individual medical practitioner[^c-ffa70454664a8528519ff40dc93ba2fd]
 
 (1) Where the contract is with an individual medical practitioner and that practitioner dies, the contract shall terminate at the end of the period seven days after the date of his death unless, before the end of that period—
 
@@ -1877,7 +1877,7 @@ The Board and the contractor may agree in writing to terminate the contract, and
 
 (3) Sub-paragraph (1) does not affect any other rights to terminate the contract which the Board may have under paragraphs 104 to 107.
 
-#### 100. Termination by the contractor[^key-4571912e0bfaf50635be9c5912ef1860]
+#### 100. Termination by the contractor[^c-4571912e0bfaf50635be9c5912ef1860]
 
 (1) A contractor may terminate the contract by serving notice in writing on the Board at any time.
 
@@ -1887,7 +1887,7 @@ The Board and the contractor may agree in writing to terminate the contract, and
 
 (4) This paragraph and paragraph 101 are without prejudice to any other rights to terminate the contract that the contractor may have.
 
-#### 101. Late payment notices[^key-890511c8186bb46a20a93c5baa650d8c]
+#### 101. Late payment notices[^c-890511c8186bb46a20a93c5baa650d8c]
 
 (1) The contractor may give notice in writing (a “late payment notice”) to the Board if the Board has failed to make any payments due to the contractor in accordance with a term of the contract that has the effect specified in regulation 22, and the contractor shall specify in the late payment notice the payments that the Board has failed to make in accordance with that regulation.
 
@@ -1900,22 +1900,22 @@ The Board and the contractor may agree in writing to terminate the contract, and
 
 whichever is the sooner.
 
-#### 102. Termination by the Board: general[^key-b4da172f2c1840831a5b058721731815]
+#### 102. Termination by the Board: general[^c-b4da172f2c1840831a5b058721731815]
 
 The Board may only terminate the contract in accordance with the provisions in this Part.
 
-#### 103. Termination by the Board for breach of conditions in regulation 4[^key-fd2de0b4952250d7feb80fc44b48fbb5]
+#### 103. Termination by the Board for breach of conditions in regulation 4[^c-fd2de0b4952250d7feb80fc44b48fbb5]
 
-(1) Subject to sub-paragraph (1A),[^key-53dc421f3693c8892a8de5d8e090b503] the Board shall serve notice in writing on the contractor terminating the contract forthwith if the contractor is an individual medical practitioner and the medical practitioner no longer satisfies the condition specified in regulation 4(1).
+(1) Subject to sub-paragraph (1A),[^c-53dc421f3693c8892a8de5d8e090b503] the Board shall serve notice in writing on the contractor terminating the contract forthwith if the contractor is an individual medical practitioner and the medical practitioner no longer satisfies the condition specified in regulation 4(1).
 
-(1A)[^key-91c5b47c818dce8e3e016fedc571a935] Where the failure of an individual medical practitioner to continue to satisfy the condition specified in regulation 4(1) is the result of a suspension specified in sub-paragraph (3B), sub-paragraph (1) shall not apply unless—
+(1A)[^c-91c5b47c818dce8e3e016fedc571a935] Where the failure of an individual medical practitioner to continue to satisfy the condition specified in regulation 4(1) is the result of a suspension specified in sub-paragraph (3B), sub-paragraph (1) shall not apply unless—
 
 - (a) the contractor is unable to satisfy the Board that it has in place adequate arrangements for the provision of clinical services under the contract for as long as the suspension continues; or
 - (b) the Board is satisfied that the circumstances of the suspension are such that if the contract is not terminated forthwith—
   - (i) the safety of the contractor’s patients is at serious risk, or
   - (ii) the Board is at risk of material financial loss.
 
-(2) Except in a case to which paragraph 98(4)[^key-b73b1102b564e52d8a1fb12f01f4ea45] where the contractor is –
+(2) Except in a case to which paragraph 98(4)[^c-b73b1102b564e52d8a1fb12f01f4ea45] where the contractor is –
 
 - (a) two or more persons practising in partnership, and the condition specified in regulation 4(2)(a) is no longer satisfied; or
 - (b) a company limited by shares, and the condition specified in regulation 4(3)(a) is no longer satisfied,
@@ -1925,9 +1925,9 @@ sub-paragraph (3) shall apply.
 (3) Where sub-paragraph (2)(a) or (b) applies, the Board shall –
 
 - (a) serve notice in writing on the contractor terminating the contract forthwith; or
-- (b) serve notice in writing on the contractor confirming that the Board will allow the contract to continue, for a period specified by the Board of in accordance with paragraph (3A)[^key-20de275637aa43bede2b9435cc1cab59] (the “interim period”), during which time the Board shall, with the consent of the contractor, employ or supply a general medical practitioner to the contractor for the interim period to assist the contractor in the provision of clinical services under the contract.
+- (b) serve notice in writing on the contractor confirming that the Board will allow the contract to continue, for a period specified by the Board of in accordance with paragraph (3A)[^c-20de275637aa43bede2b9435cc1cab59] (the “interim period”), during which time the Board shall, with the consent of the contractor, employ or supply a general medical practitioner to the contractor for the interim period to assist the contractor in the provision of clinical services under the contract.
 
-(3A)[^key-16f5bde9f6a597659636bcf8a539988e] The period specified by the Board under sub-paragraph (3)(b) shall not exceed—
+(3A)[^c-16f5bde9f6a597659636bcf8a539988e] The period specified by the Board under sub-paragraph (3)(b) shall not exceed—
 
 - (a) six months; or
 - (b) in a case where the failure of the contractor to continue to satisfy the condition in regulation 4(2)(a) or, as the case may be, 4(3)(a), is the result of a suspension referred to in sub-paragraph (3B), the period for which that suspension continues.
@@ -1947,11 +1947,11 @@ sub-paragraph (3) shall apply.
 
 (6) If, at the end of the interim period, the contractor still falls within sub-paragraph (2)(a) or (b), the Board shall serve notice in writing on the contractor terminating the contract forthwith.
 
-(7)[^key-4af02ebdf8a5ea4ae17969f64ffaaafe] In sub-paragraphs (3) and (5), “general medical practitioner” has the same meaning as in regulation 4(1).
+(7)[^c-4af02ebdf8a5ea4ae17969f64ffaaafe] In sub-paragraphs (3) and (5), “general medical practitioner” has the same meaning as in regulation 4(1).
 
-#### 104. Termination by the Board for the provision of untrue etc. information[^key-2bf10d481e3a71b7256338ba212964aa]
+#### 104. Termination by the Board for the provision of untrue etc. information[^c-2bf10d481e3a71b7256338ba212964aa]
 
-The Board may serve notice in writing on the contractor terminating the contract forthwith, or from such date as may be specified in the notice if, after the contract has been entered into, it comes to the attention of the Board that written information provided to the Board by the contractor—[^key-090faaabdea07d6971cc3178e0d76754]
+The Board may serve notice in writing on the contractor terminating the contract forthwith, or from such date as may be specified in the notice if, after the contract has been entered into, it comes to the attention of the Board that written information provided to the Board by the contractor—[^c-090faaabdea07d6971cc3178e0d76754]
 
 - by the contractor—
   - (a) before the contract was entered into; or
@@ -1959,7 +1959,7 @@ The Board may serve notice in writing on the contractor terminating the contract
 
   in relation to the conditions set out in regulations 4 and 5 (and compliance with those conditions) was, when given, untrue or inaccurate in a material respect.
 
-#### 105. Other grounds for termination by the Board[^key-c32c15ffa0687f6f5e821583e9773b91]
+#### 105. Other grounds for termination by the Board[^c-c32c15ffa0687f6f5e821583e9773b91]
 
 (1) The Board may serve notice in writing on the contractor terminating the contract forthwith, or from such date as may be specified in the notice if –
 
@@ -1970,7 +1970,7 @@ The Board may serve notice in writing on the contractor terminating the contract
   - (ii) any person legally and beneficially owning a share in the company, or
   - (iii) any director or secretary of the company,
 
-  falls within sub-paragraph (2) during the existence of the contract or, if later, on or after the date on which a notice in respect of his compliance with the conditions in regulation 5 was given under paragraph 79(2) or (3) or 80(2).[^key-f0eaddfda62713d445180dc75c34494c]
+  falls within sub-paragraph (2) during the existence of the contract or, if later, on or after the date on which a notice in respect of his compliance with the conditions in regulation 5 was given under paragraph 79(2) or (3) or 80(2).[^c-f0eaddfda62713d445180dc75c34494c]
 
 (2) A person falls within this sub-paragraph if –
 
@@ -1988,7 +1988,7 @@ The Board may serve notice in writing on the contractor terminating the contract
 - (j) he has –
   - (i) been adjudged bankrupt or had sequestration of his estate awarded unless (in either case) he has been discharged or the bankruptcy order has been annulled,
   - (ai)[^M_F_92110ceb-6a02-4b61-9768-7256bba44571] become a person in relation to whom a moratorium period under a debt relief order applies;
-  - (ii) been made the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986[^f00096] or Schedule 2A to the Insolvency (Northern Ireland) Order 1989[^key-2f1055d81e3d586e03229dd7e02b232c] or a debt relief restrictions order or an interim debt relief restrictions order under Schedule 4ZB to the Insolvency Act 1986 or Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989[^key-72a5cbe6b0cb9e8b0143c8cba3bf5f01] , unless that order has ceased to have effect or has been annulled,
+  - (ii) been made the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986[^f00096] or Schedule 2A to the Insolvency (Northern Ireland) Order 1989[^c-2f1055d81e3d586e03229dd7e02b232c] or a debt relief restrictions order or an interim debt relief restrictions order under Schedule 4ZB to the Insolvency Act 1986 or Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989[^c-72a5cbe6b0cb9e8b0143c8cba3bf5f01] , unless that order has ceased to have effect or has been annulled,
   - (iii) made a composition or arrangement with, or granted a trust deed for, his creditors unless he has been discharged in respect of it,
   - (iv) been wound up under Part V of the Insolvency (Northern Ireland) Order 1989[^f00097];
 - (k) there is –
@@ -1999,7 +1999,7 @@ The Board may serve notice in writing on the contractor terminating the contract
   - (ii) an event happens that makes it unlawful for the business of the partnership to continue, or for members of the partnership to carry on in partnership;
 - (m) he has been –
   - (i) removed from the office of charity trustee or trustee for a charity by an order made by the Charity Commissioners or the High Court on the grounds of any misconduct or mismanagement in the administration of the charity for which he was responsible or to which he was privy, or which he by his conduct contributed to or facilitated, or
-  - (ii) removed under section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990[^f00098] (powers of the Court of Session to deal with management of charities) or under section 34 of the Charities and Trustee Investment (Scotland) Act 2005 (powers of Court of Session)[^key-e6100d0a00061a07b1045d360110dee1] , from being concerned in the management or control of any body;
+  - (ii) removed under section 7 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990[^f00098] (powers of the Court of Session to deal with management of charities) or under section 34 of the Charities and Trustee Investment (Scotland) Act 2005 (powers of Court of Session)[^c-e6100d0a00061a07b1045d360110dee1] , from being concerned in the management or control of any body;
 - (n) he is subject to a disqualification order under the Company Directors Disqualification (Northern Ireland) Order 2002[^f00099], the Company Directors Disqualification Act 1986[^f00100] or to an order made under section 429(2)(b) of the Insolvency Act 1986[^f00101] (failure to pay under county court administration order);
 - (o) he has refused to comply with a request by the Board for him to be medically examined on the grounds that it is concerned that he is incapable of adequately providing services under the contract and, in a case where the contract is with two or more individuals practising in partnership or with a company, the Board is not satisfied that the contractor is taking adequate steps to deal with the matter.
 
@@ -2030,21 +2030,21 @@ and the Board may only terminate the contract at the end of the period specified
 
   as the case may be.
 
-**106.**[^key-f9a11801a0a54fdc07a02707fe5ffc61] The Board may serve notice in writing on the contractor terminating the contract forthwith or with effect from such date as may be specified in the notice if –
+**106.**[^c-f9a11801a0a54fdc07a02707fe5ffc61] The Board may serve notice in writing on the contractor terminating the contract forthwith or with effect from such date as may be specified in the notice if –
 
 - (a) the contractor has breached the contract and as a result of that breach, the safety of the contractor’s patients is at serious risk if the contract is not terminated; or
 - (b) the contractor’s financial situation is such that the Board considers that the Board is at risk of material financial loss.
 
-#### 106A. Termination by the Board for unlawful sub-contracting[^key-cfb28be55ce8e479d5c310e3f3d3aeda]
+#### 106A. Termination by the Board for unlawful sub-contracting[^c-cfb28be55ce8e479d5c310e3f3d3aeda]
 
 If the contractor breaches the condition specified in paragraph 64 (10) and it comes to the Board’s attention that the contractor has done so, the Board shall serve a notice in writing on the contractor –
 
 - (a) terminating the contract forthwith; or
 - (b) instructing him to terminate the sub-contracting arrangements that give rise to the breach forthwith, and if he fails to comply with the instruction, the Board shall serve a notice in writing on the contractor terminating the contract forthwith.
 
-#### 107. Termination by the Board: remedial notices and breach notices[^key-103db949f8a2219aea86024d8776fbd6]
+#### 107. Termination by the Board: remedial notices and breach notices[^c-103db949f8a2219aea86024d8776fbd6]
 
-(1) Where a contractor has breached the contract other than as specified in paragraphs 103 to 106A[^key-41ff91c31c7421aec2c0d859684905e8] and the breach is capable of remedy, the Board shall, before taking any action it is otherwise entitled to take by virtue of the contract, serve a notice on the contractor requiring it to remedy the breach (“remedial notice”).
+(1) Where a contractor has breached the contract other than as specified in paragraphs 103 to 106A[^c-41ff91c31c7421aec2c0d859684905e8] and the breach is capable of remedy, the Board shall, before taking any action it is otherwise entitled to take by virtue of the contract, serve a notice on the contractor requiring it to remedy the breach (“remedial notice”).
 
 (2) A remedial notice shall specify –
 
@@ -2061,7 +2061,7 @@ be no less than 28 days from the date that notice is given.
 
 (4) Where a Board is satisfied that the contractor has not taken the required steps to remedy the breach by the end of the notice period, the Board may terminate the contract with effect from such date as the Board may specify in a further notice to the contractor.
 
-(5) Where a contractor has breached the contract other than as specified in specified in paragraphs 103 to 106A[^key-9e72ece8ffcf0f25c3a7700c208b5dac] and the breach is not capable of remedy, the Board may serve notice on the contractor requiring the contractor not to repeat the breach (“breach notice”).
+(5) Where a contractor has breached the contract other than as specified in specified in paragraphs 103 to 106A[^c-9e72ece8ffcf0f25c3a7700c208b5dac] and the breach is not capable of remedy, the Board may serve notice on the contractor requiring the contractor not to repeat the breach (“breach notice”).
 
 (6) If, following a breach notice or a remedial notice, the contractor –
 
@@ -2074,7 +2074,7 @@ the Board may serve notice on the contractor terminating the contract with effec
 
 (8) If the contractor is in breach of any obligation and a breach notice or a remedial notice in respect of that default has been given to the contractor, the Board may withhold or deduct monies which would otherwise be payable under the contract in respect of that obligation which is the subject of the default.
 
-#### 108. Termination by the Board: additional provisions specific to contracts with two or more individuals practising in partnership and companies limited by shares[^key-cca030728f8e35d0ee87d74c566d7660]
+#### 108. Termination by the Board: additional provisions specific to contracts with two or more individuals practising in partnership and companies limited by shares[^c-cca030728f8e35d0ee87d74c566d7660]
 
 (1) Where the contractor is a company limited by shares, if the Board becomes aware that the contractor is carrying on any business which the Board considers to be detrimental to the contractor’s performance of his obligations under the contract –
 
@@ -2088,7 +2088,7 @@ the Board may serve notice on the contractor terminating the contract with effec
 - (a) the date upon which the contract is to be terminated; and
 - (b) the Board’s reasons for considering that the change in the membership of the partnership is likely to have a serious adverse impact on the ability of the contractor or the Board to perform his obligations under the contract.
 
-#### 109. Contract sanctions[^key-91e5516ff3dce415e00ee2b0403ad695]
+#### 109. Contract sanctions[^c-91e5516ff3dce415e00ee2b0403ad695]
 
 (1) In this paragraph and paragraph 110, “contract sanction” means –
 
@@ -2109,7 +2109,7 @@ the Board may serve notice on the contractor terminating the contract with effec
 
 (6) Where the Board imposes a contract sanction, the Board shall be entitled to charge the contractor the reasonable costs of additional administration that the Board has incurred in order to impose, or as a result of imposing, the contract sanction.
 
-#### 110. Contract sanctions and the dispute resolution procedure[^key-bd18bc67f601e453e50ea62841528066]
+#### 110. Contract sanctions and the dispute resolution procedure[^c-bd18bc67f601e453e50ea62841528066]
 
 (1) If there is a dispute between the Board and the contractor in relation to a contract sanction that the Board is proposing to impose, the Board shall not, subject to sub-paragraph (4), impose the proposed contract sanction except in the circumstances specified in sub-paragraph (2)(a) or (b).
 
@@ -2129,11 +2129,11 @@ whichever is the sooner.
 
 the Board shall be entitled to impose the contract sanction forthwith, pending the outcome of that procedure.
 
-#### 111. Termination and the dispute resolution procedure[^key-b09f594487f73dea9fbe4f12b3766a67]
+#### 111. Termination and the dispute resolution procedure[^c-b09f594487f73dea9fbe4f12b3766a67]
 
-(1) Where the Department[^key-c0d001818d4d3169bd133e8b36bdd1ce] is entitled to serve written notice on the contractor terminating the contract pursuant to paragraph 104, 105, 106, 107(4) or (6) or 108, the Department shall, in the notice served on the contractor pursuant to those provisions, specify a date on which the contract terminates that is not less than 28 days after the date on which the Department has served that notice on the contractor unless sub-paragraph (2) applies.
+(1) Where the Department[^c-c0d001818d4d3169bd133e8b36bdd1ce] is entitled to serve written notice on the contractor terminating the contract pursuant to paragraph 104, 105, 106, 107(4) or (6) or 108, the Department shall, in the notice served on the contractor pursuant to those provisions, specify a date on which the contract terminates that is not less than 28 days after the date on which the Department has served that notice on the contractor unless sub-paragraph (2) applies.
 
-(2) This sub-paragraph applies if the Department[^key-d608f8a036ea22afefd8e75fa51038c0] is satisfied that a period less than 28 days is necessary in order to –
+(2) This sub-paragraph applies if the Department[^c-d608f8a036ea22afefd8e75fa51038c0] is satisfied that a period less than 28 days is necessary in order to –
 
 - (a) protect the safety of the contractor’s patients; or
 - (b) protect itself from material financial loss.
@@ -2147,18 +2147,18 @@ the Board shall be entitled to impose the contract sanction forthwith, pending t
 
 whichever is the sooner.
 
-(5) If the Department[^key-c345107cf38bd3958bbcc40323a05d01] is satisfied that it is necessary to terminate the contract before the dispute resolution procedure is concluded in order to –
+(5) If the Department[^c-c345107cf38bd3958bbcc40323a05d01] is satisfied that it is necessary to terminate the contract before the dispute resolution procedure is concluded in order to –
 
 - (a) protect the safety of the contractor’s patients; or
 - (b) protect itself from material financial loss,
 
 sub-paragraphs (3) and (4) shall not apply and the Department shall be entitled to confirm, by written notice to be served on the contractor, that the contract will nevertheless terminate at the end of the period of the notice it served pursuant to paragraph 104, 105(1), 106, 107(4) or (6) or 108.
 
-#### 112. Consultation with the Local Medical Committee[^key-5f6910004576b38933d3e5336077b07e]
+#### 112. Consultation with the Local Medical Committee[^c-5f6910004576b38933d3e5336077b07e]
 
 (1) Whenever the Board is considering –
 
-- (a)[^key-7622e19ddfd163958692b3deaadde4e1] terminating the contract pursuant to paragraph 104, 105, 106, 107(4) or (6) or 108;
+- (a)[^c-7622e19ddfd163958692b3deaadde4e1] terminating the contract pursuant to paragraph 104, 105, 106, 107(4) or (6) or 108;
 - (b) which of the alternative sanctions in writing available under the provisions of paragraph 106A it will serve; or
 - (c) imposing a contract sanction,
 
@@ -2168,9 +2168,9 @@ it shall, whenever it is reasonably practicable to do so, consult the Local Medi
 
 ### PART 9 — miscellaneous
 
-#### 113. Clinical governance[^key-3df6a47b2d0da3f37dfc85ea0fff8868]
+#### 113. Clinical governance[^c-3df6a47b2d0da3f37dfc85ea0fff8868]
 
-(1) The contractor shall have an effective system of clinical governance which shall include appropriate standard operating procedures in relation to the management and use of controlled drugs[^key-d352fa1e738087788b5c2cccc5f09afb] .
+(1) The contractor shall have an effective system of clinical governance which shall include appropriate standard operating procedures in relation to the management and use of controlled drugs[^c-d352fa1e738087788b5c2cccc5f09afb] .
 
 (2) The contractor shall nominate a person who will have responsibility for ensuring the effective operation of the system of clinical governance.
 
@@ -2178,23 +2178,23 @@ it shall, whenever it is reasonably practicable to do so, consult the Local Medi
 
 (4) In this paragraph “system of clinical governance” means a framework through which the contractor endeavours continuously to improve the quality of his services and safeguard high standards of care by creating an environment in which clinical excellence can flourish.
 
-**113A.**[^key-1ea64035bf7286a759236355019abbd8] The contractor shall co-operate with the Board in the discharge of any obligations of the Board or its accountable officer under the Controlled Drugs (Supervision of Management and Use) Regulations (Northern Ireland) 2009.
+**113A.**[^c-1ea64035bf7286a759236355019abbd8] The contractor shall co-operate with the Board in the discharge of any obligations of the Board or its accountable officer under the Controlled Drugs (Supervision of Management and Use) Regulations (Northern Ireland) 2009.
 
-#### 114. Insurance[^key-ebe17471eda22c5e18ef9ca5db88fa5f]
+#### 114. Insurance[^c-ebe17471eda22c5e18ef9ca5db88fa5f]
 
-(1) The contractor shall at all times have in force in relation to it an indemnity arrangement which provides appropriate cover[^key-9dd423623dc5ffbb3a4c4b8b899cce3b] .
+(1) The contractor shall at all times have in force in relation to it an indemnity arrangement which provides appropriate cover[^c-9dd423623dc5ffbb3a4c4b8b899cce3b] .
 
-(2) The contractor shall not sub-contract his obligations to provide clinical services under the contract unless he has satisfied himself that the sub-contractor has in force in relation to it an indemnity arrangement which provides appropriate cover[^key-80a7668d72e1cd3acbd8cbce01977a66].
+(2) The contractor shall not sub-contract his obligations to provide clinical services under the contract unless he has satisfied himself that the sub-contractor has in force in relation to it an indemnity arrangement which provides appropriate cover[^c-80a7668d72e1cd3acbd8cbce01977a66].
 
 (3) In this paragraph –
 
-- (a) “[^key-95cda5fb6b9c6960d2375e689f4ab2f4]**indemnity arrangement**” means a contract of insurance or other arrangement made for the purpose of indemnifying the contractor;
-- (aa)[^key-81e77a7f0ed3aa5dd0eec99984012803] “**appropriate cover**” means cover against liabilities that may be incurred by the contractor in the performance of clinical services under the contract, which is appropriate, having regard to the nature and extent of the risks in the performance of such services;and
-- (b) a contractor shall be regarded as “ having in force in relation to it an indemnity arrangement if there is an indemnity arrangement in force in relation to[^key-7addaa5ee3b5f06325b2dc8675fad126] a person employed or engaged by him in connection with clinical services which that person[^key-723bb52380dd6cd7d784852cdf31c97a] provides under the contract or, as the case may be, sub-contract.
+- (a) “[^c-95cda5fb6b9c6960d2375e689f4ab2f4]**indemnity arrangement**” means a contract of insurance or other arrangement made for the purpose of indemnifying the contractor;
+- (aa)[^c-81e77a7f0ed3aa5dd0eec99984012803] “**appropriate cover**” means cover against liabilities that may be incurred by the contractor in the performance of clinical services under the contract, which is appropriate, having regard to the nature and extent of the risks in the performance of such services;and
+- (b) a contractor shall be regarded as “ having in force in relation to it an indemnity arrangement if there is an indemnity arrangement in force in relation to[^c-7addaa5ee3b5f06325b2dc8675fad126] a person employed or engaged by him in connection with clinical services which that person[^c-723bb52380dd6cd7d784852cdf31c97a] provides under the contract or, as the case may be, sub-contract.
 
-**115.**[^key-4551b856ca0d9c860b577dc572f2de2f] The contractor shall at all times hold adequate public liability insurance in relation to liabilities to third parties arising under or in connection with the contract which are not covered by an indemnity arrangement[^key-ea4d3436e03425f571b6dd0f2ad97b1e] referred to in paragraph 114(1).
+**115.**[^c-4551b856ca0d9c860b577dc572f2de2f] The contractor shall at all times hold adequate public liability insurance in relation to liabilities to third parties arising under or in connection with the contract which are not covered by an indemnity arrangement[^c-ea4d3436e03425f571b6dd0f2ad97b1e] referred to in paragraph 114(1).
 
-#### 116. Gifts[^key-1c3a25a610aeaec3315e7cca9d82ff04]
+#### 116. Gifts[^c-1c3a25a610aeaec3315e7cca9d82ff04]
 
 (1) The contractor shall keep a register of gifts which –
 
@@ -2213,8 +2213,8 @@ it shall, whenever it is reasonably practicable to do so, consult the Local Medi
   - (ii) a director or secretary of the company;
 - (d) any person employed by the contractor for the purposes of the contract;
 - (e) any general medical practitioner engaged by the contractor for the purposes of the contract;
-- (f) any spouse or civil partner[^key-ce35f9225b1fa06c8f542a0d16ad7f34] of a contractor (where the contractor is an individual medical practitioner) or of a person specified in paragraphs (b) to (e); or
-- (g)[^key-47ab241590dc0f8083feab11c21d04c5] any person (whether or not of the opposite sex) whose relationship with a contractor (where the contractor is an individual medical practitioner) or with a person specified in paragraphs (b) to (e) has the characteristics of the relationship between husband and wife.
+- (f) any spouse or civil partner[^c-ce35f9225b1fa06c8f542a0d16ad7f34] of a contractor (where the contractor is an individual medical practitioner) or of a person specified in paragraphs (b) to (e); or
+- (g)[^c-47ab241590dc0f8083feab11c21d04c5] any person (whether or not of the opposite sex) whose relationship with a contractor (where the contractor is an individual medical practitioner) or with a person specified in paragraphs (b) to (e) has the characteristics of the relationship between husband and wife.
 
 (3) Sub-paragraph (1) does not apply where –
 
@@ -2235,194 +2235,194 @@ it shall, whenever it is reasonably practicable to do so, consult the Local Medi
 
 (6) The contractor shall make the register available to the Board on request.
 
-#### 117. Compliance with legislation and guidance[^key-830550563830ebd2369e9efcf0ba940f]
+#### 117. Compliance with legislation and guidance[^c-830550563830ebd2369e9efcf0ba940f]
 
 The contractor shall –
 
 - (a) comply with all relevant legislation; and
 - (b) have regard to all relevant guidance issued by the Board or the Department.
 
-#### 118. Third party rights[^key-e7d8557f904b69de60fbf08b29f332b0]
+#### 118. Third party rights[^c-e7d8557f904b69de60fbf08b29f332b0]
 
 The contract shall not create any right enforceable by any person not a party to it.
 
 ## Annotations
 
-[^key-efdad9fb24e57ede795a13bcb5bad474]: Modification: [Sch. 5](https://www.legislation.gov.uk/nisr/2004/140/schedule/5) applied (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [regs. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [6(4)](https://www.legislation.gov.uk/nisr/2022/109/regulation/6/4)
+[^c-efdad9fb24e57ede795a13bcb5bad474]: Modification: [Sch. 5](https://www.legislation.gov.uk/nisr/2004/140/schedule/5) applied (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [regs. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [6(4)](https://www.legislation.gov.uk/nisr/2022/109/regulation/6/4)
 
-[^key-269162cf3ef7656258e26587055620a6]: Commencement: Sch. 5 para. 1 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-269162cf3ef7656258e26587055620a6]: Commencement: Sch. 5 para. 1 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-eb0902de4f3cfb0f9eb27845891a0b66]: Textual amendment: [Sch. 5 para. 1A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/1A) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/2)
+[^c-eb0902de4f3cfb0f9eb27845891a0b66]: Textual amendment: [Sch. 5 para. 1A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/1A) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/2)
 
-[^key-d6c841b05223386dea1eddcf22a02e32]: Textual amendment: [Sch. 5 para. 1B](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/1B) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(2)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/2)
+[^c-d6c841b05223386dea1eddcf22a02e32]: Textual amendment: [Sch. 5 para. 1B](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/1B) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(2)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/2)
 
-[^key-b4b483e5a174432cd7b7778fa8f3bcb0]: Commencement: Sch. 5 para. 2 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-b4b483e5a174432cd7b7778fa8f3bcb0]: Commencement: Sch. 5 para. 2 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-044589d32deb69711ae43e65d3d78098]: Commencement: Sch. 5 para. 3 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-044589d32deb69711ae43e65d3d78098]: Commencement: Sch. 5 para. 3 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-51c6f4786a0a8eb1c252357f72c2dae3]: Modification: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/3) excluded (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [regs.](https://www.legislation.gov.uk/nisr/2022/109/regulation), [1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1) 6(4(a)
+[^c-51c6f4786a0a8eb1c252357f72c2dae3]: Modification: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/3) excluded (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [regs.](https://www.legislation.gov.uk/nisr/2022/109/regulation), [1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1) 6(4(a)
 
-[^key-ae9f1c092c85b7f25c87888e997bf18f]: Textual amendment: [Sch. 5 para. 3(4)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/3/4) inserted (27.12.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/301)](https://www.legislation.gov.uk/nisr/2013/301), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/301/regulation/1/1), [5(2)](https://www.legislation.gov.uk/nisr/2013/301/regulation/5/2)
+[^c-ae9f1c092c85b7f25c87888e997bf18f]: Textual amendment: [Sch. 5 para. 3(4)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/3/4) inserted (27.12.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/301)](https://www.legislation.gov.uk/nisr/2013/301), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/301/regulation/1/1), [5(2)](https://www.legislation.gov.uk/nisr/2013/301/regulation/5/2)
 
-[^key-11114eefd73e29449062f87e9fa215cb]: Textual amendment: Words in [Sch. 5 para. 3(4)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/3/4) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/5/a) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-11114eefd73e29449062f87e9fa215cb]: Textual amendment: Words in [Sch. 5 para. 3(4)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/3/4) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/5/a) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9a39b7f8f05246e21a8f11653954fed0]: Commencement: Sch. 5 para. 4 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-9a39b7f8f05246e21a8f11653954fed0]: Commencement: Sch. 5 para. 4 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-d680e56f8b13b82a80816249691c85ad]: Commencement: Sch. 5 para. 5 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-d680e56f8b13b82a80816249691c85ad]: Commencement: Sch. 5 para. 5 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-80c9acb00db8d96735ed995ec1bda831]: Commencement: Sch. 5 para. 6 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-80c9acb00db8d96735ed995ec1bda831]: Commencement: Sch. 5 para. 6 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-196304c2984c7b3c9dceb5304bcb522c]: Commencement: Sch. 5 para. 7 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-196304c2984c7b3c9dceb5304bcb522c]: Commencement: Sch. 5 para. 7 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-b7e4a3cdc03f89215b4ada4d2f34ae00]: Textual amendment: [Sch. 5 para. 7(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/7/3) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(2)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/2)
+[^c-b7e4a3cdc03f89215b4ada4d2f34ae00]: Textual amendment: [Sch. 5 para. 7(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/7/3) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(2)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/2)
 
-[^key-c7dd6d00c098b23074dcbcc5b51f35a0]: Commencement: Sch. 5 para. 8 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-c7dd6d00c098b23074dcbcc5b51f35a0]: Commencement: Sch. 5 para. 8 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-55fd2298717685e642739196198d1ec1]: Commencement: Sch. 5 para. 9 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-55fd2298717685e642739196198d1ec1]: Commencement: Sch. 5 para. 9 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-5ab7fbe55efc1a8fef06480205c6cd06]: Commencement: Sch. 5 para. 10 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-5ab7fbe55efc1a8fef06480205c6cd06]: Commencement: Sch. 5 para. 10 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-dff9a7252bdbbe81e520665ba2a84aeb]: Modification: [Sch. 5 reg. 10](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/regulation/10) excluded (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [regs. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/nisr/2022/109/regulation/6/4/b)
+[^c-dff9a7252bdbbe81e520665ba2a84aeb]: Modification: [Sch. 5 reg. 10](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/regulation/10) excluded (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [regs. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/nisr/2022/109/regulation/6/4/b)
 
-[^key-ee903e0014329f10840cf88d2c5e811a]: Commencement: Sch. 5 para. 11 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-ee903e0014329f10840cf88d2c5e811a]: Commencement: Sch. 5 para. 11 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-ff0b9079ff74538899f90d523623cb3e]: Textual amendment: Words in [Sch. 5 para. 11](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/11) omitted (1.4.2013) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/3/a)
+[^c-ff0b9079ff74538899f90d523623cb3e]: Textual amendment: Words in [Sch. 5 para. 11](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/11) omitted (1.4.2013) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/3/a)
 
-[^key-8b5ad09671e73c1f9481375f1c564c28]: Textual amendment: [Sch. 5 para. 11A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/11A) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/3)
+[^c-8b5ad09671e73c1f9481375f1c564c28]: Textual amendment: [Sch. 5 para. 11A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/11A) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/3)
 
-[^key-cbf57c496618cec2d1d15954d8398984]: Textual amendment: Word in [Sch. 5 para. 11A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/11A) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(4)(a)(i)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/4/a/i)
+[^c-cbf57c496618cec2d1d15954d8398984]: Textual amendment: Word in [Sch. 5 para. 11A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/11A) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(4)(a)(i)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/4/a/i)
 
-[^key-8d4f2b4698b7c9ddfc7edc507f7827d0]: Textual amendment: Word in [Sch. 5 para. 11A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/11A) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/4/a/ii)
+[^c-8d4f2b4698b7c9ddfc7edc507f7827d0]: Textual amendment: Word in [Sch. 5 para. 11A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/11A) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/4/a/ii)
 
-[^key-e5ae667f294b0a4345ff389294ba8182]: Textual amendment: Word in [Sch. 5 para. 11A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/11A) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/4/b)
+[^c-e5ae667f294b0a4345ff389294ba8182]: Textual amendment: Word in [Sch. 5 para. 11A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/11A) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/4/b)
 
-[^key-f7d2ab5f1a8863b448b5cc914570a5d0]: Textual amendment: Words in [Sch. 5 para. 11A(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/11A/1) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 113(4)(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/113/4/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-f7d2ab5f1a8863b448b5cc914570a5d0]: Textual amendment: Words in [Sch. 5 para. 11A(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/11A/1) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 113(4)(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/113/4/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-96a7a758e496abd7f0518a2e737765c9]: Textual amendment: Word in [Sch. 5 para. 11A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/11A) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(4)(c)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/4/c)
+[^c-96a7a758e496abd7f0518a2e737765c9]: Textual amendment: Word in [Sch. 5 para. 11A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/11A) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(4)(c)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/4/c)
 
-[^key-5f831a7e3a8fbeea53718b2b11a58702]: Commencement: Sch. 5 para. 12 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-5f831a7e3a8fbeea53718b2b11a58702]: Commencement: Sch. 5 para. 12 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-2f091cdc4792e9d7c14250826e8365bb]: Commencement: Sch. 5 para. 13 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-2f091cdc4792e9d7c14250826e8365bb]: Commencement: Sch. 5 para. 13 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-7d2eecbf14704be143bfa794a2a25e9e]: Commencement: Sch. 5 para. 14 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-7d2eecbf14704be143bfa794a2a25e9e]: Commencement: Sch. 5 para. 14 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-b4d1cae79f171230318266aabf97ab76]: Commencement: Sch. 5 para. 15 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-b4d1cae79f171230318266aabf97ab76]: Commencement: Sch. 5 para. 15 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-8a284537810773fa1b1d41b875fcc27d]: Textual amendment: [Sch. 5 para. 15A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/15A) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/5/b) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8a284537810773fa1b1d41b875fcc27d]: Textual amendment: [Sch. 5 para. 15A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/15A) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/5/b) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9e09a482572cfd2ec91fdcf23a93db35]: Textual amendment: [Sch. 5 para. 15B](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/15B) inserted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/3)
+[^c-9e09a482572cfd2ec91fdcf23a93db35]: Textual amendment: [Sch. 5 para. 15B](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/15B) inserted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/3)
 
-[^key-467f2e91ae09febfa6d7ceb0e136fa44]: Commencement: Sch. 5 para. 16 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-467f2e91ae09febfa6d7ceb0e136fa44]: Commencement: Sch. 5 para. 16 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-33073aa09bc7de895342461eba032a80]: Textual amendment: Words in [Sch. 5 para. 16(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/16/1) inserted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/4)
+[^c-33073aa09bc7de895342461eba032a80]: Textual amendment: Words in [Sch. 5 para. 16(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/16/1) inserted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/4)
 
-[^key-4f02beb31851c8436be23ef0ad3bddfe]: Commencement: Sch. 5 para. 17 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-4f02beb31851c8436be23ef0ad3bddfe]: Commencement: Sch. 5 para. 17 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-968b67b2d8a5c58bf176d615eb8647d5]: Textual amendment: [Sch. 5 para. 17](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/17) heading substituted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/5/a)
+[^c-968b67b2d8a5c58bf176d615eb8647d5]: Textual amendment: [Sch. 5 para. 17](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/17) heading substituted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(5)(a)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/5/a)
 
-[^key-c360066c192d65d0f4bd4bfc9a1639ce]: Textual amendment: Words in [Sch. 5 para. 17(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/17/1) inserted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/5/b)
+[^c-c360066c192d65d0f4bd4bfc9a1639ce]: Textual amendment: Words in [Sch. 5 para. 17(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/17/1) inserted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/5/b)
 
-[^key-f2fa050318d9282666456abcdd198a69]: Textual amendment: [Sch. 5 para. 17(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/17/2) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(5)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/5)
+[^c-f2fa050318d9282666456abcdd198a69]: Textual amendment: [Sch. 5 para. 17(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/17/2) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(5)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/5)
 
-[^key-ba6478942b9706b4812e707e5dbc8a38]: Textual amendment: Words in [Sch. 5 para. 17(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/17/2) inserted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(5)(c)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/5/c)
+[^c-ba6478942b9706b4812e707e5dbc8a38]: Textual amendment: Words in [Sch. 5 para. 17(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/17/2) inserted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(5)(c)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/5/c)
 
-[^key-33e078401ee9f01cb79246634b94e1c8]: Textual amendment: Words in [Sch. 5 para. 17(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/17/3) inserted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(5)(d)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/5/d)
+[^c-33e078401ee9f01cb79246634b94e1c8]: Textual amendment: Words in [Sch. 5 para. 17(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/17/3) inserted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(5)(d)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/5/d)
 
-[^key-b09695ab1278e019838925716661ad03]: Textual amendment: Words in [Sch. 5 para. 17(4)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/17/4) inserted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(5)(e)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/5/e)
+[^c-b09695ab1278e019838925716661ad03]: Textual amendment: Words in [Sch. 5 para. 17(4)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/17/4) inserted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(5)(e)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/5/e)
 
-[^key-6443edcc29734c1fb37208275dc08075]: Commencement: Sch. 5 para. 18 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-6443edcc29734c1fb37208275dc08075]: Commencement: Sch. 5 para. 18 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-b1643c7b1e35f32fae86f3c86e899cfb]: Commencement: Sch. 5 para. 19 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-b1643c7b1e35f32fae86f3c86e899cfb]: Commencement: Sch. 5 para. 19 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-b2fc61cc4840981b98b11faad4097ce2]: Commencement: Sch. 5 para. 20 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-b2fc61cc4840981b98b11faad4097ce2]: Commencement: Sch. 5 para. 20 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-3a756e5363ef866513134c463d7b7a08]: Textual amendment: Words in [Sch. 5 para. 20(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/20/1) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(6)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/6)
+[^c-3a756e5363ef866513134c463d7b7a08]: Textual amendment: Words in [Sch. 5 para. 20(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/20/1) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(6)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/6)
 
-[^key-133c1334f9fc783b84b71b81ba6c138a]: Commencement: Sch. 5 para. 21 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-133c1334f9fc783b84b71b81ba6c138a]: Commencement: Sch. 5 para. 21 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-25cfcf61cb38b0b1b3f701a3776cdc46]: Textual amendment: Words in [Sch. 5 para. 21(6)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/21/6) omitted (1.5.2005) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/3/a)
+[^c-25cfcf61cb38b0b1b3f701a3776cdc46]: Textual amendment: Words in [Sch. 5 para. 21(6)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/21/6) omitted (1.5.2005) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/3/a)
 
-[^key-8925af774d0e841b960134449493fa5f]: Textual amendment: Word in [Sch. 5 para. 21(6)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/21/6) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/3/a)
+[^c-8925af774d0e841b960134449493fa5f]: Textual amendment: Word in [Sch. 5 para. 21(6)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/21/6) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/3/a)
 
-[^key-bebcba0bfc73ecbd25e834dfaf2ea977]: Textual amendment: Word in [Sch. 5 para. 21(6)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/21/6/a) omitted (1.5.2005) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/3/b)
+[^c-bebcba0bfc73ecbd25e834dfaf2ea977]: Textual amendment: Word in [Sch. 5 para. 21(6)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/21/6/a) omitted (1.5.2005) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/3/b)
 
-[^key-54eb9a2d255ad01423042da19c029512]: Textual amendment: Word in [Sch. 5 para. 21(6)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/21/6/a) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/3/b)
+[^c-54eb9a2d255ad01423042da19c029512]: Textual amendment: Word in [Sch. 5 para. 21(6)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/21/6/a) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(3)(b)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/3/b)
 
-[^key-ebabc87f4d3814ea93c9786ec473f1d0]: Textual amendment: Word in [Sch. 5 para. 21(6)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/21/6/b) omitted (1.5.2005) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(3)(c)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/3/c)
+[^c-ebabc87f4d3814ea93c9786ec473f1d0]: Textual amendment: Word in [Sch. 5 para. 21(6)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/21/6/b) omitted (1.5.2005) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(3)(c)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/3/c)
 
-[^key-3f74e97ba26b4b7f7957471606fbdb45]: Textual amendment: Word in [Sch. 5 para. 21(6)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/21/6/b) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(3)(c)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/3/c)
+[^c-3f74e97ba26b4b7f7957471606fbdb45]: Textual amendment: Word in [Sch. 5 para. 21(6)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/21/6/b) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(3)(c)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/3/c)
 
-[^key-cc303d040dd633e030de07227ecaeece]: Commencement: Sch. 5 para. 22 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-cc303d040dd633e030de07227ecaeece]: Commencement: Sch. 5 para. 22 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-2c65469008d82f0f3eec5a7ca84ef8da]: Textual amendment: Words in [Sch. 5 para. 22(1)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/22/1/b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/8/3/a)
+[^c-2c65469008d82f0f3eec5a7ca84ef8da]: Textual amendment: Words in [Sch. 5 para. 22(1)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/22/1/b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [8(3)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/8/3/a)
 
-[^key-9bc9b2ab83d2cdb5b192974df9d6c335]: Commencement: Sch. 5 para. 23 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-9bc9b2ab83d2cdb5b192974df9d6c335]: Commencement: Sch. 5 para. 23 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-b03dce19f48cedb0ed47ba6e39f23f9b]: Commencement: Sch. 5 para. 24 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-b03dce19f48cedb0ed47ba6e39f23f9b]: Commencement: Sch. 5 para. 24 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-693e6d5355012acd3d84c6a9f0eeea83]: Commencement: Sch. 5 para. 25 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-693e6d5355012acd3d84c6a9f0eeea83]: Commencement: Sch. 5 para. 25 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-551ab2037abefc13eb50c2a2de66b872]: Commencement: Sch. 5 para. 26 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-551ab2037abefc13eb50c2a2de66b872]: Commencement: Sch. 5 para. 26 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-3ae5b4223954722daad8fe72531ba16e]: Commencement: Sch. 5 para. 27 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-3ae5b4223954722daad8fe72531ba16e]: Commencement: Sch. 5 para. 27 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-21d68b69a7bd3267d115f2f84b15e0d3]: Commencement: Sch. 5 para. 28 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-21d68b69a7bd3267d115f2f84b15e0d3]: Commencement: Sch. 5 para. 28 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-8144c42f55658101fae3dc88aba7159a]: Textual amendment: [Sch. 5 para. 29](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/29) omitted (1.4.2013) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(7)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/7)
+[^c-8144c42f55658101fae3dc88aba7159a]: Textual amendment: [Sch. 5 para. 29](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/29) omitted (1.4.2013) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(7)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/7)
 
-[^key-f3cb1fbf7bbea003508289c1d0519c53]: Textual amendment: [Sch. 5 paras. 29A-29E](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/29A) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(7)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/7)
+[^c-f3cb1fbf7bbea003508289c1d0519c53]: Textual amendment: [Sch. 5 paras. 29A-29E](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/29A) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(7)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/7)
 
-[^key-e0e9a9d5f7adf50791d09feedf2b163a]: Textual amendment: [Sch. 5 para. 30](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/30) omitted (1.4.2013) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(8)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/8)
+[^c-e0e9a9d5f7adf50791d09feedf2b163a]: Textual amendment: [Sch. 5 para. 30](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/30) omitted (1.4.2013) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(8)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/8)
 
-[^key-2e657dc0a907867a6a6152bc3e25a9ac]: Textual amendment: [Sch. 5 para. 31](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/31) omitted (1.4.2013) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(8)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/8)
+[^c-2e657dc0a907867a6a6152bc3e25a9ac]: Textual amendment: [Sch. 5 para. 31](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/31) omitted (1.4.2013) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(8)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/8)
 
-[^key-a5018d069d075168c7afed94813978f9]: Commencement: Sch. 5 para. 32 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-a5018d069d075168c7afed94813978f9]: Commencement: Sch. 5 para. 32 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-6aeceafbb0bb4d5bb5a1c1c9274bd2e1]: Textual amendment: [Sch. 5 para. 32A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/32A) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(5)(c)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/5/c) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6aeceafbb0bb4d5bb5a1c1c9274bd2e1]: Textual amendment: [Sch. 5 para. 32A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/32A) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(5)(c)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/5/c) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c0a2105eca37f107453337167e279897]: Textual amendment: [Sch. 5 para. 32B](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/32B) inserted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(6)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/6)
+[^c-c0a2105eca37f107453337167e279897]: Textual amendment: [Sch. 5 para. 32B](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/32B) inserted (23.2.2015) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/26)](https://www.legislation.gov.uk/nisr/2015/26), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/26/regulation/1/1), [3(6)](https://www.legislation.gov.uk/nisr/2015/26/regulation/3/6)
 
-[^key-3eedb1c49f14dea2156e8e7a18f2add5]: Commencement: Sch. 5 para. 33 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-3eedb1c49f14dea2156e8e7a18f2add5]: Commencement: Sch. 5 para. 33 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-6f9598d59df844b9a2ded78495844b5b]: Commencement: Sch. 5 para. 34 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-6f9598d59df844b9a2ded78495844b5b]: Commencement: Sch. 5 para. 34 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-6411eced377cbf4de37e922d074c1362]: Textual amendment: [Sch. 5 para. 35](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/35) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(9)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/9)
+[^c-6411eced377cbf4de37e922d074c1362]: Textual amendment: [Sch. 5 para. 35](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/35) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(9)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/9)
 
-[^key-3453a42fcd33c4e96bdddc8ba72caa3c]: Commencement: Sch. 5 para. 36 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-3453a42fcd33c4e96bdddc8ba72caa3c]: Commencement: Sch. 5 para. 36 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-345dead791191551ccc775506f3be393]: Textual amendment: Word in [Sch. 5 para. 36(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(a)(i)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/a/i)
+[^c-345dead791191551ccc775506f3be393]: Textual amendment: Word in [Sch. 5 para. 36(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(a)(i)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/a/i)
 
-[^key-ff6ba5ae8f3a9b0436f2d22e470bc242]: Textual amendment: Words in [Sch. 5 para. 36(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/a/ii)
+[^c-ff6ba5ae8f3a9b0436f2d22e470bc242]: Textual amendment: Words in [Sch. 5 para. 36(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/a/ii)
 
-[^key-cdeb1f304296c196aa9612427b88f939]: Textual amendment: Words in [Sch. 5 para. 36(2)-(11)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/b)
+[^c-cdeb1f304296c196aa9612427b88f939]: Textual amendment: Words in [Sch. 5 para. 36(2)-(11)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/b)
 
-[^key-c1a60c5fafdeca88ce703b7e63b64d00]: Textual amendment: Words in [Sch. 5 para. 36(12)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/12) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(c)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/c)
+[^c-c1a60c5fafdeca88ce703b7e63b64d00]: Textual amendment: Words in [Sch. 5 para. 36(12)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/12) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(c)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/c)
 
-[^key-7d4ae775de19567184caa2b02b3ce0fc]: Textual amendment: Words in [Sch. 5 para. 36(13)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/13) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(d)(i)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/d/i)
+[^c-7d4ae775de19567184caa2b02b3ce0fc]: Textual amendment: Words in [Sch. 5 para. 36(13)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/13) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(d)(i)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/d/i)
 
-[^key-58525228a23fb945d1fe94cd5f42d9e1]: Textual amendment: Word in [Sch. 5 para. 36(13)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/13) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/d/ii)
+[^c-58525228a23fb945d1fe94cd5f42d9e1]: Textual amendment: Word in [Sch. 5 para. 36(13)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/13) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/d/ii)
 
-[^key-861551deda4b42bede80bfade17fa2ad]: Textual amendment: Words in [Sch. 5 para. 36(14)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/14) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(e)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/e)
+[^c-861551deda4b42bede80bfade17fa2ad]: Textual amendment: Words in [Sch. 5 para. 36(14)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/14) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(e)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/e)
 
-[^key-b4761d0e27955723b08fe60da018fa67]: Textual amendment: Words in [Sch. 5 para. 36(15)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/15) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(e)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/e)
+[^c-b4761d0e27955723b08fe60da018fa67]: Textual amendment: Words in [Sch. 5 para. 36(15)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/15) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(e)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/e)
 
-[^key-87c1a64617fb27d5389052a151d39aaf]: Textual amendment: Words in [Sch. 5 para. 36(16)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/16) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(f)(i)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/f/i)
+[^c-87c1a64617fb27d5389052a151d39aaf]: Textual amendment: Words in [Sch. 5 para. 36(16)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/16) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(f)(i)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/f/i)
 
-[^key-d446593b3fc82bf28916b2f351cf1abc]: Textual amendment: Word in [Sch. 5 para. 36(16)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/16) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(f)(ii)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/f/ii)
+[^c-d446593b3fc82bf28916b2f351cf1abc]: Textual amendment: Word in [Sch. 5 para. 36(16)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/16) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(f)(ii)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/f/ii)
 
-[^key-77d75b2e1c4c128b4d006a9109d13b3c]: Textual amendment: Words in [Sch. 5 para. 36(17)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/17) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(g)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/g)
+[^c-77d75b2e1c4c128b4d006a9109d13b3c]: Textual amendment: Words in [Sch. 5 para. 36(17)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/36/17) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(2)(g)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/2/g)
 
-[^key-adcf2bf3a6fd0b98f27f16fef63e81a2]: Commencement: Sch. 5 para. 37 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-adcf2bf3a6fd0b98f27f16fef63e81a2]: Commencement: Sch. 5 para. 37 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-ff0912704fd8f1e2bb93fe5fe47d7e93]: Commencement: Sch. 5 para. 38 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-ff0912704fd8f1e2bb93fe5fe47d7e93]: Commencement: Sch. 5 para. 38 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-8bc61790867be7123ecaf4681bf11850]: Textual amendment: Words in [Sch. 5 para. 38](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/38) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(10)(a)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/10/a)
+[^c-8bc61790867be7123ecaf4681bf11850]: Textual amendment: Words in [Sch. 5 para. 38](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/38) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(10)(a)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/10/a)
 
-[^key-370c86abed5fbc1ff7dbe17620ecdded]: Textual amendment: Words in [Sch. 5 para. 38](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/38) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(10)(b)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/10/b)
+[^c-370c86abed5fbc1ff7dbe17620ecdded]: Textual amendment: Words in [Sch. 5 para. 38](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/38) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(10)(b)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/10/b)
 
-[^key-4d346eaacf46a7355e2230fb05070bac]: Commencement: Sch. 5 para. 39 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-4d346eaacf46a7355e2230fb05070bac]: Commencement: Sch. 5 para. 39 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-d672a46d9f89f213c8681a274edda52f]: Textual amendment: Word in [Sch. 5 para. 39(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/39/3) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/4)
+[^c-d672a46d9f89f213c8681a274edda52f]: Textual amendment: Word in [Sch. 5 para. 39(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/39/3) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/4)
 
 [^f00069]: Footnote: [S.R. 2002/1](https://www.legislation.gov.uk/nisr/2002/1)
 
@@ -2430,309 +2430,309 @@ The contract shall not create any right enforceable by any person not a party to
 
 [^f00071]: Footnote: Schedule 4 was amended by [S.R. 2003/314](https://www.legislation.gov.uk/nisr/2003/314)
 
-[^key-5776a34f396b4e5322c28c2b3783265d]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/nisr/2004/140/schedule/5) para.(39A)(39B) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(5)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/5)
+[^c-5776a34f396b4e5322c28c2b3783265d]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/nisr/2004/140/schedule/5) para.(39A)(39B) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(5)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/5)
 
-[^key-c538e05361c95619eb52b6f584c6b5ae]: Commencement: Sch. 5 para. 40 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-c538e05361c95619eb52b6f584c6b5ae]: Commencement: Sch. 5 para. 40 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
 [^f00072]: Footnote: Article 57D was inserted into the Order by Article 4 of the 2004 Order
 
-[^key-74b46b3fea2d0aec770cfef28cffc1fe]: Textual amendment: [Sch. 5 para. 40(4)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/40/4) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(5)(d)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/5/d) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74b46b3fea2d0aec770cfef28cffc1fe]: Textual amendment: [Sch. 5 para. 40(4)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/40/4) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(5)(d)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/5/d) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9fa404941495688aa8d4c7be0a3f3e1d]: Commencement: Sch. 5 para. 41 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-9fa404941495688aa8d4c7be0a3f3e1d]: Commencement: Sch. 5 para. 41 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-bd860418f24d58f347f748581c23be4a]: Textual amendment: Words in [Sch. 5 para. 41(2)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/2/a) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 113(4)(b)(i)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/113/4/b/i) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-bd860418f24d58f347f748581c23be4a]: Textual amendment: Words in [Sch. 5 para. 41(2)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/2/a) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 113(4)(b)(i)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/113/4/b/i) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-6237b94abf0799ac4afefe536a68865d]: Textual amendment: Words in [Sch. 5 para. 41(2)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/2/a) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 113(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/113/4/b/ii) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-6237b94abf0799ac4afefe536a68865d]: Textual amendment: Words in [Sch. 5 para. 41(2)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/2/a) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 113(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/113/4/b/ii) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-93d5b90780eaaa62ce30d5ebb4a5259c]: Textual amendment: [Sch. 5 para. 41(2)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/2/b) omitted (25.8.2005) by virtue of [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/5)
+[^c-93d5b90780eaaa62ce30d5ebb4a5259c]: Textual amendment: [Sch. 5 para. 41(2)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/2/b) omitted (25.8.2005) by virtue of [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/5)
 
 [^f00074]: Footnote: Article 57D was inserted into the Order by Article 4 of the 2004 Order
 
-[^key-666d8f8737d67f78709f09c1af92c6fc]: Textual amendment: [Sch. 5 para. 41(2)(e)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/2/e) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(5)(e)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/5/e) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-666d8f8737d67f78709f09c1af92c6fc]: Textual amendment: [Sch. 5 para. 41(2)(e)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/2/e) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(5)(e)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/5/e) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-58c7fa72f8c38f962869be3b06497edb]: Textual amendment: [Sch. 5 para. 41(4)(c)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/4/c) omitted (25.8.2005) by virtue of [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/5)
+[^c-58c7fa72f8c38f962869be3b06497edb]: Textual amendment: [Sch. 5 para. 41(4)(c)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/4/c) omitted (25.8.2005) by virtue of [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/5)
 
-[^key-ceee9bca77023f1ed186ce08db4b3300]: Textual amendment: [Sch. 5 para. 41(4)(f)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/4/f) omitted (25.8.2005) by virtue of [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/5)
+[^c-ceee9bca77023f1ed186ce08db4b3300]: Textual amendment: [Sch. 5 para. 41(4)(f)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/4/f) omitted (25.8.2005) by virtue of [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/5)
 
-[^key-f635f4cbad8cb3c19cf7db35d1b96d31]: Textual amendment: [Sch. 5 para. 41(4)(i)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/4/i) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(5)(e)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/5/e) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f635f4cbad8cb3c19cf7db35d1b96d31]: Textual amendment: [Sch. 5 para. 41(4)(i)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/4/i) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(5)(e)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/5/e) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9179526a7cdcc54006f541855c4fd795]: Textual amendment: [Sch. 5 para. 41(6)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/6) omitted (25.8.2005) by virtue of [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/5)
+[^c-9179526a7cdcc54006f541855c4fd795]: Textual amendment: [Sch. 5 para. 41(6)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/41/6) omitted (25.8.2005) by virtue of [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/5)
 
-[^key-dd3b42139a5b445603c6c3ebfdb5aacf]: Commencement: Sch. 5 para. 42 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-dd3b42139a5b445603c6c3ebfdb5aacf]: Commencement: Sch. 5 para. 42 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-a28e6ad04dc122beb09f66f274d68d13]: Commencement: Sch. 5 para. 43 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-a28e6ad04dc122beb09f66f274d68d13]: Commencement: Sch. 5 para. 43 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-6508f3f4b2c4580048608940a10e155c]: Commencement: Sch. 5 para. 44 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-6508f3f4b2c4580048608940a10e155c]: Commencement: Sch. 5 para. 44 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
 [^f00078]: Footnote: Regulation 12 was amended by [S.R. 2001/222](https://www.legislation.gov.uk/nisr/2001/222)
 
-[^key-4d3c14733b6ee599d7bcf4b882b6db44]: Commencement: Sch. 5 para. 45 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-4d3c14733b6ee599d7bcf4b882b6db44]: Commencement: Sch. 5 para. 45 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
 [^f00079]: Footnote: Article 57D was inserted into the Order by Article 4 of the 2004 Order
 
-[^key-53b5be0af93bc3b517b4fe07c8e9515c]: Textual amendment: Words in [Sch. 5 para. 45(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/45/3) substituted (14.4.2022) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/162)](https://www.legislation.gov.uk/nisr/2022/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/162/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2022/162/regulation/3/2)
+[^c-53b5be0af93bc3b517b4fe07c8e9515c]: Textual amendment: Words in [Sch. 5 para. 45(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/45/3) substituted (14.4.2022) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/162)](https://www.legislation.gov.uk/nisr/2022/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/162/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2022/162/regulation/3/2)
 
-[^key-e047acccd3383408c8abff240f916627]: Textual amendment: Words in [Sch. 5 para. 45(4)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/45/4) substituted (14.4.2022) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/162)](https://www.legislation.gov.uk/nisr/2022/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/162/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2022/162/regulation/3/2)
+[^c-e047acccd3383408c8abff240f916627]: Textual amendment: Words in [Sch. 5 para. 45(4)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/45/4) substituted (14.4.2022) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/162)](https://www.legislation.gov.uk/nisr/2022/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/162/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2022/162/regulation/3/2)
 
-[^key-058c3ac316dae0505208114d7f176059]: Textual amendment: Words in [Sch. 5 para. 45(8)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/45/8/a) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(6)(a)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/6/a)
+[^c-058c3ac316dae0505208114d7f176059]: Textual amendment: Words in [Sch. 5 para. 45(8)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/45/8/a) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(6)(a)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/6/a)
 
-[^key-775d75d3b69606dee6faa6337aac0ca5]: Textual amendment: Words in [Sch. 5 para. 45(8)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/45/8/b) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(6)(b)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/6/b)
+[^c-775d75d3b69606dee6faa6337aac0ca5]: Textual amendment: Words in [Sch. 5 para. 45(8)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/45/8/b) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(6)(b)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/6/b)
 
-[^key-e2ea6ba77c1c193828a33a440c2bed44]: Textual amendment: Word in [Sch. 5 para. 45(8)(d)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/45/8/d) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(6)(c)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/6/c)
+[^c-e2ea6ba77c1c193828a33a440c2bed44]: Textual amendment: Word in [Sch. 5 para. 45(8)(d)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/45/8/d) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(6)(c)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/6/c)
 
-[^key-d8a39652543723dc16f4b7c643809bd2]: Commencement: Sch. 5 para. 46 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-d8a39652543723dc16f4b7c643809bd2]: Commencement: Sch. 5 para. 46 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-fadce6fec04ee7be489de9408395bde9]: Commencement: Sch. 5 para. 47 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-fadce6fec04ee7be489de9408395bde9]: Commencement: Sch. 5 para. 47 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-0fa489cf4c358b19645c3b2191e20ec5]: Textual amendment: Words in [reg. 47(2)](https://www.legislation.gov.uk/nisr/2004/140/regulation/47/2) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 113(3)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/113/3) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-0fa489cf4c358b19645c3b2191e20ec5]: Textual amendment: Words in [reg. 47(2)](https://www.legislation.gov.uk/nisr/2004/140/regulation/47/2) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 113(3)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/113/3) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-427a7ea21b21e560792f3ca3809c6685]: Commencement: Sch. 5 para. 48 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-427a7ea21b21e560792f3ca3809c6685]: Commencement: Sch. 5 para. 48 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
 [^f00081]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54); section 41A was inserted by [S.I. 2000/1803](https://www.legislation.gov.uk/uksi/2000/1803)
 
 [^f00082]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54); section 15A was inserted by regulations 2 and 3 of [S.I. 2000/3041](https://www.legislation.gov.uk/uksi/2000/3041)
 
-[^key-085c3a7b27caeada312c31e546f74bd7]: Textual amendment: [Sch. 5 para. 48(2)(c)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/48/2/c) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(7)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/7)
+[^c-085c3a7b27caeada312c31e546f74bd7]: Textual amendment: [Sch. 5 para. 48(2)(c)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/48/2/c) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(7)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/7)
 
-[^key-7e9cd52cdc0df64942cea0ec57a53a39]: Textual amendment: [Sch. 5 para. 48(2)(d)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/48/2/d) added (15.8.2006) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/319)](https://www.legislation.gov.uk/nisr/2006/319), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/319/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2006/319/regulation/5/b)
+[^c-7e9cd52cdc0df64942cea0ec57a53a39]: Textual amendment: [Sch. 5 para. 48(2)(d)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/48/2/d) added (15.8.2006) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/319)](https://www.legislation.gov.uk/nisr/2006/319), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/319/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2006/319/regulation/5/b)
 
-[^key-a4c8c783d05babc8a5d0c84f2df5ff07]: Textual amendment: Words in [Sch. 5 para. 48(2)(d)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/48/2/d) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(11)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/11)
+[^c-a4c8c783d05babc8a5d0c84f2df5ff07]: Textual amendment: Words in [Sch. 5 para. 48(2)(d)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/48/2/d) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(11)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/11)
 
-[^key-262a42849c327d6d5b86a1c901bba07b]: Textual amendment: [Sch. 5 para. 48(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/48/3) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(7)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/7)
+[^c-262a42849c327d6d5b86a1c901bba07b]: Textual amendment: [Sch. 5 para. 48(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/48/3) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(7)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/7)
 
-[^key-b7af006d45c5607cd789e38473406f2f]: Commencement: Sch. 5 para. 49 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-b7af006d45c5607cd789e38473406f2f]: Commencement: Sch. 5 para. 49 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-bfd369c74ec66069a2d3728c42dd30b2]: Commencement: Sch. 5 para. 50 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-bfd369c74ec66069a2d3728c42dd30b2]: Commencement: Sch. 5 para. 50 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-5cb857c281cbe1e84c624614727371c8]: Commencement: Sch. 5 para. 51 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-5cb857c281cbe1e84c624614727371c8]: Commencement: Sch. 5 para. 51 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-06e0bbce76e3d418e9cc376a8bb1dbf6]: Commencement: Sch. 5 para. 52 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-06e0bbce76e3d418e9cc376a8bb1dbf6]: Commencement: Sch. 5 para. 52 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-6bc71e1b043a51817f99d1118f2c10ed]: Commencement: Sch. 5 para. 53 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-6bc71e1b043a51817f99d1118f2c10ed]: Commencement: Sch. 5 para. 53 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-f22bd5f788e0d349834666ae36af7174]: Commencement: Sch. 5 para. 54 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-f22bd5f788e0d349834666ae36af7174]: Commencement: Sch. 5 para. 54 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-67572b8eae9e18c00f54f03a19cad29e]: Textual amendment: Words in [Sch. 5 para. 54(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/54/1) inserted (15.8.2006) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/319)](https://www.legislation.gov.uk/nisr/2006/319), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/319/regulation/1/1), [5(c)](https://www.legislation.gov.uk/nisr/2006/319/regulation/5/c)
+[^c-67572b8eae9e18c00f54f03a19cad29e]: Textual amendment: Words in [Sch. 5 para. 54(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/54/1) inserted (15.8.2006) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/319)](https://www.legislation.gov.uk/nisr/2006/319), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/319/regulation/1/1), [5(c)](https://www.legislation.gov.uk/nisr/2006/319/regulation/5/c)
 
-[^key-cd6c7254184a7046669ec7c15af6e700]: Commencement: Sch. 5 para. 55 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-cd6c7254184a7046669ec7c15af6e700]: Commencement: Sch. 5 para. 55 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-0d419a0f26911bb1b5e778df0915e8a1]: Commencement: Sch. 5 para. 56 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-0d419a0f26911bb1b5e778df0915e8a1]: Commencement: Sch. 5 para. 56 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-b9c9bdbde71545b19d001c5fa9e5d05f]: Commencement: Sch. 5 para. 57 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-b9c9bdbde71545b19d001c5fa9e5d05f]: Commencement: Sch. 5 para. 57 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-a8246d6c4b19ff1aad80e7b9ea1c8367]: Commencement: Sch. 5 para. 58 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-a8246d6c4b19ff1aad80e7b9ea1c8367]: Commencement: Sch. 5 para. 58 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
 [^f00083]: Footnote: This document is published jointly by the General Practitioners Committee of the British Medical Association and the NHS Confederation. It is available on the Confederation’s website at www.nhsconfed.org or a copy may be obtained by writing to the NHS Confederation, 1 Warwick Row, London, SW1E 5ER
 
-[^key-680cb22bde7cab5e056cd0e8cd56a9d1]: Commencement: Sch. 5 para. 59 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-680cb22bde7cab5e056cd0e8cd56a9d1]: Commencement: Sch. 5 para. 59 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-3a1ed64eb5b0ea4657e843cb947c4238]: Textual amendment: Words in [Sch. 5 para. 59(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/59/1) omitted (1.5.2005) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(8)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/8)
+[^c-3a1ed64eb5b0ea4657e843cb947c4238]: Textual amendment: Words in [Sch. 5 para. 59(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/59/1) omitted (1.5.2005) by virtue of [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(8)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/8)
 
-[^key-d033ffa861d1d355e4d17c281a08c717]: Commencement: Sch. 5 para. 60 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-d033ffa861d1d355e4d17c281a08c717]: Commencement: Sch. 5 para. 60 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-2f5053b684591837a25f0a1e0944abd1]: Textual amendment: [Sch. 5 para. 60](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/60) heading substituted (14.4.2022) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/162)](https://www.legislation.gov.uk/nisr/2022/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/162/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2022/162/regulation/3/3)
+[^c-2f5053b684591837a25f0a1e0944abd1]: Textual amendment: [Sch. 5 para. 60](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/60) heading substituted (14.4.2022) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/162)](https://www.legislation.gov.uk/nisr/2022/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/162/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2022/162/regulation/3/3)
 
-[^key-188691275c56b9354567b8f8df90d88e]: Textual amendment: Words in [Sch. 5 para. 60(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/60/1) substituted (14.4.2022) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/162)](https://www.legislation.gov.uk/nisr/2022/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/162/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2022/162/regulation/3/4)
+[^c-188691275c56b9354567b8f8df90d88e]: Textual amendment: Words in [Sch. 5 para. 60(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/60/1) substituted (14.4.2022) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/162)](https://www.legislation.gov.uk/nisr/2022/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/162/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2022/162/regulation/3/4)
 
-[^key-f1ba687447e55f1cc66e612d7a6df80c]: Commencement: Sch. 5 para. 61 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-f1ba687447e55f1cc66e612d7a6df80c]: Commencement: Sch. 5 para. 61 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-6d5c0b05f05eec4af6b173b4e6d60639]: Textual amendment: Words in [Sch. 5 para. 61(2)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/61/2/b) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(9)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/9)
+[^c-6d5c0b05f05eec4af6b173b4e6d60639]: Textual amendment: Words in [Sch. 5 para. 61(2)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/61/2/b) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(9)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/9)
 
-[^key-0ca0071b73129ffa0469bcaed7121b03]: Commencement: Sch. 5 para. 62 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-0ca0071b73129ffa0469bcaed7121b03]: Commencement: Sch. 5 para. 62 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-aa957b7c58bdfa7063e4f824eb9a71e2]: Commencement: Sch. 5 para. 63 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-aa957b7c58bdfa7063e4f824eb9a71e2]: Commencement: Sch. 5 para. 63 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-8dc49a23ee48fbee77ef76ed11c1d643]: Commencement: Sch. 5 para. 64 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-8dc49a23ee48fbee77ef76ed11c1d643]: Commencement: Sch. 5 para. 64 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-8ad082d1519f3d0605fcb8bc1f80f681]: Textual amendment: [Sch. 5 Pt. 4 para. 64(10)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/part/4/paragraph/64/10) added (16.12.2004) by [The Primary Medical Services (Sale of Goodwill and Restrictions on Sub-contracting) Regulations (Northern Ireland) 2004 (S.R. 2004/477)](https://www.legislation.gov.uk/nisr/2004/477), [regs. 1](https://www.legislation.gov.uk/nisr/2004/477/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2004/477/regulation/4/1)
+[^c-8ad082d1519f3d0605fcb8bc1f80f681]: Textual amendment: [Sch. 5 Pt. 4 para. 64(10)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/part/4/paragraph/64/10) added (16.12.2004) by [The Primary Medical Services (Sale of Goodwill and Restrictions on Sub-contracting) Regulations (Northern Ireland) 2004 (S.R. 2004/477)](https://www.legislation.gov.uk/nisr/2004/477), [regs. 1](https://www.legislation.gov.uk/nisr/2004/477/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2004/477/regulation/4/1)
 
-[^key-63a1c7412791fe183ccddf796b1ccd2e]: Commencement: Sch. 5 para. 65 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-63a1c7412791fe183ccddf796b1ccd2e]: Commencement: Sch. 5 para. 65 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
 [^M_C_68624687-fc7f-4fbd-9455-cced0639a5e2]: Modification: Sch. 5 para. 65(2) modified (29.3.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 1) (Northern Ireland) Order 2004 (S.R. 2004/141)](https://www.legislation.gov.uk/nisr/2004/141), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1), [22(a)](https://editorial.legislation.gov.uk/nisr/2004/141/article/22)
 
-[^key-62e2234ef0a400670240c14f917de87c]: Modification: [Sch. 5 para. 65(2)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/65/2/a) modified (29.3.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 1) (Northern Ireland) Order 2004 (S.R. 2004/141)](https://www.legislation.gov.uk/nisr/2004/141), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1), [21(a)](https://www.legislation.gov.uk/nisr/2004/141/article/21/a)
+[^c-62e2234ef0a400670240c14f917de87c]: Modification: [Sch. 5 para. 65(2)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/65/2/a) modified (29.3.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 1) (Northern Ireland) Order 2004 (S.R. 2004/141)](https://www.legislation.gov.uk/nisr/2004/141), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1), [21(a)](https://www.legislation.gov.uk/nisr/2004/141/article/21/a)
 
-[^key-e23c3087f2f8c84ba6d5fee7faa0b89b]: Commencement: Sch. 5 para. 66 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-e23c3087f2f8c84ba6d5fee7faa0b89b]: Commencement: Sch. 5 para. 66 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-05c9d877eb3fe70693b4aadca8b97ce7]: Textual amendment: [Sch. 5 para. 66(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/66/2) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(10)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/10)
+[^c-05c9d877eb3fe70693b4aadca8b97ce7]: Textual amendment: [Sch. 5 para. 66(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/66/2) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(10)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/10)
 
-[^key-7d9e7d199a820ec5c8a0aafc04aafa49]: Commencement: Sch. 5 para. 67 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-7d9e7d199a820ec5c8a0aafc04aafa49]: Commencement: Sch. 5 para. 67 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-5e14d5fa74d0cf68c0f76266b88ff2b6]: Commencement: Sch. 5 para. 68 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-5e14d5fa74d0cf68c0f76266b88ff2b6]: Commencement: Sch. 5 para. 68 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-e7001a5dbad2ebdd224ba62315f0b14e]: Textual amendment: Words in [Sch. 5 para. 68(4)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/68/4/a) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(12)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/12)
+[^c-e7001a5dbad2ebdd224ba62315f0b14e]: Textual amendment: Words in [Sch. 5 para. 68(4)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/68/4/a) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(12)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/12)
 
-[^key-11d666c5ffa74056d756d8ae2e439b70]: Textual amendment: [Sch. 5 para. 69](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/69) omitted (25.8.2005) by virtue of [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(6)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/6)
+[^c-11d666c5ffa74056d756d8ae2e439b70]: Textual amendment: [Sch. 5 para. 69](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/69) omitted (25.8.2005) by virtue of [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(6)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/6)
 
-[^key-afcfd4d5048598fc9c54d49e329c4e42]: Commencement: Sch. 5 para. 70 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-afcfd4d5048598fc9c54d49e329c4e42]: Commencement: Sch. 5 para. 70 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-8b4c74591ffd2741eb02580730c6139f]: Commencement: Sch. 5 para. 71 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-8b4c74591ffd2741eb02580730c6139f]: Commencement: Sch. 5 para. 71 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-12f6a2f0d818150d38756d4fc8188b1d]: Textual amendment: Words in [Sch. 5 para. 71(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/71/a) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(11)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/11)
+[^c-12f6a2f0d818150d38756d4fc8188b1d]: Textual amendment: Words in [Sch. 5 para. 71(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/71/a) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(11)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/11)
 
-[^key-9666128041899c46c702710ff98643f3]: Textual amendment: [Sch. 5 para. 71A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/71A) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(13)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/13)
+[^c-9666128041899c46c702710ff98643f3]: Textual amendment: [Sch. 5 para. 71A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/71A) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(13)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/13)
 
-[^key-16fb930497590f2bf7789fefe8e9e110]: Commencement: Sch. 5 para. 72 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-16fb930497590f2bf7789fefe8e9e110]: Commencement: Sch. 5 para. 72 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-45164ce8bb6f7317b7bda49518df23af]: Textual amendment: [Sch. 5 para. 72(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/72/3) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(12)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/12)
+[^c-45164ce8bb6f7317b7bda49518df23af]: Textual amendment: [Sch. 5 para. 72(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/72/3) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(12)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/12)
 
-[^key-a29ec8ea336a3d94f953312ddeab3f5c]: Commencement: Sch. 5 para. 73 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-a29ec8ea336a3d94f953312ddeab3f5c]: Commencement: Sch. 5 para. 73 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-336b37826ce2dbcd026f808ec3752769]: Textual amendment: Words in [Sch. 5 para. 73(1)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/73/1/a) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(13)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/13)
+[^c-336b37826ce2dbcd026f808ec3752769]: Textual amendment: Words in [Sch. 5 para. 73(1)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/73/1/a) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(13)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/13)
 
-[^key-bd8b3b4d09389e7f5a07d435f846b20e]: Textual amendment: [Sch. 5 para. 74](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/74) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(14)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/14)
+[^c-bd8b3b4d09389e7f5a07d435f846b20e]: Textual amendment: [Sch. 5 para. 74](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/74) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(14)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/14)
 
-[^key-c3dd07aeacc457843390ab258478507d]: Commencement: Sch. 5 para. 75 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-c3dd07aeacc457843390ab258478507d]: Commencement: Sch. 5 para. 75 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-2f7e3e6cf7bc1f0ada298c7989bacfb9]: Textual amendment: [Sch. 5 para. 75(1A)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/75/1A)[(1B)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/75/1B) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(14)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/14)
+[^c-2f7e3e6cf7bc1f0ada298c7989bacfb9]: Textual amendment: [Sch. 5 para. 75(1A)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/75/1A)[(1B)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/75/1B) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(14)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/14)
 
-[^key-844449dce89f7a9b9020a756dea46540]: Commencement: Sch. 5 para. 76 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-844449dce89f7a9b9020a756dea46540]: Commencement: Sch. 5 para. 76 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-df8b25ee876eb31497bf5ae32ce688da]: Commencement: Sch. 5 para. 77 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-df8b25ee876eb31497bf5ae32ce688da]: Commencement: Sch. 5 para. 77 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
 [^f00085]: Footnote: Article 56 was inserted into the Order by Article 3 of the 2004 Order
 
-[^key-22701904957912b4389c841a29af929a]: Commencement: Sch. 5 para. 78 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-22701904957912b4389c841a29af929a]: Commencement: Sch. 5 para. 78 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-80c7b2793b0df34436a766c50cc88c92]: Textual amendment: [Sch. 5 para. 78](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/78) substituted (27.12.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/301)](https://www.legislation.gov.uk/nisr/2013/301), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/301/regulation/1/1), [5(7)](https://www.legislation.gov.uk/nisr/2013/301/regulation/5/7)
+[^c-80c7b2793b0df34436a766c50cc88c92]: Textual amendment: [Sch. 5 para. 78](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/78) substituted (27.12.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/301)](https://www.legislation.gov.uk/nisr/2013/301), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/301/regulation/1/1), [5(7)](https://www.legislation.gov.uk/nisr/2013/301/regulation/5/7)
 
-[^key-f6923aedd8fca850bfd270980b66a974]: Textual amendment: [Sch. 5 para. 78(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/78/2) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(5)(f)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/5/f) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f6923aedd8fca850bfd270980b66a974]: Textual amendment: [Sch. 5 para. 78(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/78/2) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [4(5)(f)](https://www.legislation.gov.uk/uksi/2019/784/regulation/4/5/f) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [reg. 16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d690b8d180ab66ca8dc8db44ca66f28e]: Commencement: Sch. 5 para. 79 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-d690b8d180ab66ca8dc8db44ca66f28e]: Commencement: Sch. 5 para. 79 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-f234a20d37e7266faacdbf29fde4c5ee]: Textual amendment: [Sch. 5 para. 79(1)(aa)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/79/1/aa) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/7/a)
+[^c-f234a20d37e7266faacdbf29fde4c5ee]: Textual amendment: [Sch. 5 para. 79(1)(aa)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/79/1/aa) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/7/a)
 
 [^f00086]: Footnote: S.I. [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45)
 
 [^f00087]: Footnote: Article 57B was inserted into the Order by Article 4 of the 2004 Order
 
-[^key-a2bb0f71f1710366fbdc724263d169ed]: Textual amendment: [Sch. 5 para. 79(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/79/3) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(7)(b)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/7/b)
+[^c-a2bb0f71f1710366fbdc724263d169ed]: Textual amendment: [Sch. 5 para. 79(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/79/3) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(7)(b)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/7/b)
 
-[^key-359cbcda44a7b594984e86ecc57d1b61]: Commencement: Sch. 5 para. 80 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-359cbcda44a7b594984e86ecc57d1b61]: Commencement: Sch. 5 para. 80 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-bf17a991fbd5dee8e800680abae1bfd8]: Commencement: Sch. 5 para. 81 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-bf17a991fbd5dee8e800680abae1bfd8]: Commencement: Sch. 5 para. 81 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-068614836a0082c2e0df403da5686dbf]: Commencement: Sch. 5 para. 82 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-068614836a0082c2e0df403da5686dbf]: Commencement: Sch. 5 para. 82 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-89922bca928e934964395f3b04fece40]: Commencement: Sch. 5 para. 83 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-89922bca928e934964395f3b04fece40]: Commencement: Sch. 5 para. 83 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-9201c6722720f00a60248823010b9ae6]: Textual amendment: Words in [Sch. 5 para. 83(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/83/3) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(15)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/15)
+[^c-9201c6722720f00a60248823010b9ae6]: Textual amendment: Words in [Sch. 5 para. 83(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/83/3) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(15)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/15)
 
-[^key-258af63025c2ecc7ca072bc986bc8cf7]: Commencement: Sch. 5 para. 84 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-258af63025c2ecc7ca072bc986bc8cf7]: Commencement: Sch. 5 para. 84 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-e97030558b4741e9d3174b2c79ac4435]: Commencement: Sch. 5 para. 85 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-e97030558b4741e9d3174b2c79ac4435]: Commencement: Sch. 5 para. 85 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
 [^f00088]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-8223e2732388b6c56c5a54d9bf842be0]: Commencement: Sch. 5 para. 86 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-8223e2732388b6c56c5a54d9bf842be0]: Commencement: Sch. 5 para. 86 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-27eb1dd8c5f0f111d98e898e7a14fb7d]: Commencement: Sch. 5 para. 87 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-27eb1dd8c5f0f111d98e898e7a14fb7d]: Commencement: Sch. 5 para. 87 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-796d95b25cf9826726b477d0c4025682]: Commencement: Sch. 5 para. 88 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-796d95b25cf9826726b477d0c4025682]: Commencement: Sch. 5 para. 88 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-d26a80c26e15098f442f6b28f70b881e]: Commencement: Sch. 5 para. 89 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-d26a80c26e15098f442f6b28f70b881e]: Commencement: Sch. 5 para. 89 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-da5c1082d5f1451797607ad773a7680a]: Textual amendment: Words in [Sch. 5 para. 89(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/89/2) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 75(4)(b)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/75/4/b/i) (with [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/12))
+[^c-da5c1082d5f1451797607ad773a7680a]: Textual amendment: Words in [Sch. 5 para. 89(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/89/2) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 75(4)(b)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/75/4/b/i) (with [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/12))
 
-[^key-1a32af080e55dc91f620bb89a24450d6]: Textual amendment: Words in [Sch. 5 para. 89(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/89/2) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/8/3/b)
+[^c-1a32af080e55dc91f620bb89a24450d6]: Textual amendment: Words in [Sch. 5 para. 89(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/89/2) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/8/3/b)
 
 [^f00089]: Footnote: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42); section 1 was amended by the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), section 195 and by the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), Schedule 10, paragraph 7
 
 [^f00090]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39)
 
-[^key-38cf76d579d31691e2e146be408d54e0]: Commencement: Sch. 5 para. 90 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-38cf76d579d31691e2e146be408d54e0]: Commencement: Sch. 5 para. 90 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-5149440bd71c76c49c1bc887b5b839e2]: Textual amendment: [Sch. 5 para. 90](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/90): renumbered as para. 90(1) (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(16)(a)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/16/a)
+[^c-5149440bd71c76c49c1bc887b5b839e2]: Textual amendment: [Sch. 5 para. 90](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/90): renumbered as para. 90(1) (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(16)(a)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/16/a)
 
-[^key-9762dd60919d1cee866d924ea0067b6d]: Textual amendment: [Sch. 5 para. 90(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/90/2) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(16)(b)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/16/b)
+[^c-9762dd60919d1cee866d924ea0067b6d]: Textual amendment: [Sch. 5 para. 90(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/90/2) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(16)(b)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/16/b)
 
-[^key-aff659aa09ac664c0929ceac1b7891ac]: Commencement: Sch. 5 para. 91 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-aff659aa09ac664c0929ceac1b7891ac]: Commencement: Sch. 5 para. 91 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-77c39756c2ccf7f00dcf661ceac31f03]: Textual amendment: Word in [Sch. 5 para. 91(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/91/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(3)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/3/a)
+[^c-77c39756c2ccf7f00dcf661ceac31f03]: Textual amendment: Word in [Sch. 5 para. 91(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/91/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(3)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/3/a)
 
-[^key-724681bfb613a6cb79cd042f8255a4ea]: Textual amendment: Word in [Sch. 5 para. 91(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/91/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(3)(b)(i)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/3/b/i)
+[^c-724681bfb613a6cb79cd042f8255a4ea]: Textual amendment: Word in [Sch. 5 para. 91(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/91/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(3)(b)(i)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/3/b/i)
 
-[^key-548765c78152079a9af0110a7b8029f2]: Textual amendment: Word in [Sch. 5 para. 91(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/91/2) inserted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/3/b/ii)
+[^c-548765c78152079a9af0110a7b8029f2]: Textual amendment: Word in [Sch. 5 para. 91(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/91/2) inserted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/3/b/ii)
 
-[^key-76afe3f253e7b6d3ab7d066b47fd115b]: Textual amendment: Words in [Sch. 5 para. 91(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/91/2) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(3)(b)(iii)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/3/b/iii)
+[^c-76afe3f253e7b6d3ab7d066b47fd115b]: Textual amendment: Words in [Sch. 5 para. 91(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/91/2) omitted (1.4.2022) by virtue of [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(3)(b)(iii)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/3/b/iii)
 
-[^key-1d33d56e4cfdb8529a23864c847a2ac2]: Commencement: Sch. 5 para. 92 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-1d33d56e4cfdb8529a23864c847a2ac2]: Commencement: Sch. 5 para. 92 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-5a26091cbb50e8ad1b212b99bdfd2918]: Textual amendment: Words in [Sch. 5 para. 92(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/92/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(4)(a)(i)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/4/a/i)
+[^c-5a26091cbb50e8ad1b212b99bdfd2918]: Textual amendment: Words in [Sch. 5 para. 92(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/92/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(4)(a)(i)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/4/a/i)
 
-[^key-e2b48c7e57bd6bfae1730c47b794e674]: Textual amendment: Word in [Sch. 5 para. 92(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/92/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/4/a/ii)
+[^c-e2b48c7e57bd6bfae1730c47b794e674]: Textual amendment: Word in [Sch. 5 para. 92(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/92/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/4/a/ii)
 
-[^key-afafb0720d5f8c6ccd49cfeea10b9a56]: Textual amendment: Words in [Sch. 5 para. 92(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/92/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(4)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/4/b)
+[^c-afafb0720d5f8c6ccd49cfeea10b9a56]: Textual amendment: Words in [Sch. 5 para. 92(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/92/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(4)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/4/b)
 
-[^key-9e59233361bccf9cb021034fb10c313e]: Commencement: Sch. 5 para. 93 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-9e59233361bccf9cb021034fb10c313e]: Commencement: Sch. 5 para. 93 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-cc7e50d32365a735990a0d978b26ec54]: Textual amendment: Words in [Sch. 5 para. 93(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/93/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(5)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/5/a)
+[^c-cc7e50d32365a735990a0d978b26ec54]: Textual amendment: Words in [Sch. 5 para. 93(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/93/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(5)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/5/a)
 
-[^key-be4364f3a5d61a6fd9fbb14c307022f2]: Textual amendment: Words in [Sch. 5 para. 93(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/93/3) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(5)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/5/a)
+[^c-be4364f3a5d61a6fd9fbb14c307022f2]: Textual amendment: Words in [Sch. 5 para. 93(3)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/93/3) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(5)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/5/a)
 
-[^key-2743723a7ba006802bfe3411c8556cb0]: Textual amendment: Words in [Sch. 5 para. 93(5)-(9)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/93/5) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(5)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/5/a)
+[^c-2743723a7ba006802bfe3411c8556cb0]: Textual amendment: Words in [Sch. 5 para. 93(5)-(9)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/93/5) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(5)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/5/a)
 
 [^f00091]: Footnote: Where the dispute relates to a contract which is a HSS contract, Article 8(4) of the 1991 Order applies
 
-[^key-e8fdd38408b4b8e3a4ef209f70e9b6a2]: Textual amendment: Words in [Sch. 5 para. 93(6)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/93/6) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(17)(a)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/17/a)
+[^c-e8fdd38408b4b8e3a4ef209f70e9b6a2]: Textual amendment: Words in [Sch. 5 para. 93(6)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/93/6) inserted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(17)(a)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/17/a)
 
-[^key-ead381ab2b84d088e74c07e3356ffcc6]: Textual amendment: Word in [Sch. 5 para. 93(9)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/93/9/a) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(17)(b)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/17/b)
+[^c-ead381ab2b84d088e74c07e3356ffcc6]: Textual amendment: Word in [Sch. 5 para. 93(9)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/93/9/a) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(17)(b)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/17/b)
 
-[^key-0f19165b30df0a3bd6d0ed15a91a1001]: Textual amendment: Words in [Sch. 5 para. 93(13)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/93/13) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(5)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/5/b)
+[^c-0f19165b30df0a3bd6d0ed15a91a1001]: Textual amendment: Words in [Sch. 5 para. 93(13)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/93/13) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(5)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/5/b)
 
-[^key-5304ce314e0d5dfde0ac45ae271d754c]: Commencement: Sch. 5 para. 94 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-5304ce314e0d5dfde0ac45ae271d754c]: Commencement: Sch. 5 para. 94 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-f035d85ee9bb370c0413ea47de94873e]: Commencement: Sch. 5 para. 95 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-f035d85ee9bb370c0413ea47de94873e]: Commencement: Sch. 5 para. 95 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-dd48b6c3ec84ad1e67acdca57d785468]: Commencement: Sch. 5 para. 96 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-dd48b6c3ec84ad1e67acdca57d785468]: Commencement: Sch. 5 para. 96 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-9789f071fa06ea1982b94c0c8d4de69e]: Commencement: Sch. 5 para. 97 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-9789f071fa06ea1982b94c0c8d4de69e]: Commencement: Sch. 5 para. 97 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
 [^f00092]: Footnote: Article 57 was inserted into the Order by Article 4 of the 2004 Order
 
-[^key-f986c20013c3c2cc9594d105498f0437]: Commencement: Sch. 5 para. 98 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-f986c20013c3c2cc9594d105498f0437]: Commencement: Sch. 5 para. 98 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-c67cbbb63a27abb48f4c0b1911ecc3c4]: Textual amendment: Words in [Sch. 5 para. 98(4)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/98/4) omitted (25.8.2005) by virtue of [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(8)(a)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/8/a)
+[^c-c67cbbb63a27abb48f4c0b1911ecc3c4]: Textual amendment: Words in [Sch. 5 para. 98(4)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/98/4) omitted (25.8.2005) by virtue of [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(8)(a)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/8/a)
 
 [^M_F_7b7f781f-dbbf-4b69-b4b3-a421dc5ad99a]: Textual amendment: Words in [Sch. 5 para. 98(4)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/98/4) inserted (25.8.2005) by virtue of [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(8)(a)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/8/a)
 
-[^key-c7c9cee03f5285a8e227d6dc4df2a01d]: Textual amendment: [Sch. 5 para. 98(4A)-(4E)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/98/4A) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(8)(b)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/8/b)
+[^c-c7c9cee03f5285a8e227d6dc4df2a01d]: Textual amendment: [Sch. 5 para. 98(4A)-(4E)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/98/4A) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(8)(b)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/8/b)
 
-[^key-e9dbdfebd13ba1e1d504949e4a08ec7d]: Textual amendment: Words in [Sch. 5 para. 98(5)-(6)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/98/5) substituted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(8)(c)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/8/c)
+[^c-e9dbdfebd13ba1e1d504949e4a08ec7d]: Textual amendment: Words in [Sch. 5 para. 98(5)-(6)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/98/5) substituted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(8)(c)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/8/c)
 
-[^key-12c2a4b217126a6af60358fe3f504d07]: Textual amendment: [Sch. 5 para. 98(8)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/98/8) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(8)(d)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/8/d)
+[^c-12c2a4b217126a6af60358fe3f504d07]: Textual amendment: [Sch. 5 para. 98(8)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/98/8) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(8)(d)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/8/d)
 
-[^key-f7b2984c78fd9fda66703c347697ffb0]: Commencement: Sch. 5 para. 99 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-f7b2984c78fd9fda66703c347697ffb0]: Commencement: Sch. 5 para. 99 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-ffa70454664a8528519ff40dc93ba2fd]: Textual amendment: [Sch. 5 para. 99A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/99A) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(9)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/9)
+[^c-ffa70454664a8528519ff40dc93ba2fd]: Textual amendment: [Sch. 5 para. 99A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/99A) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(9)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/9)
 
-[^key-4571912e0bfaf50635be9c5912ef1860]: Commencement: Sch. 5 para. 100 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-4571912e0bfaf50635be9c5912ef1860]: Commencement: Sch. 5 para. 100 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-890511c8186bb46a20a93c5baa650d8c]: Commencement: Sch. 5 para. 101 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-890511c8186bb46a20a93c5baa650d8c]: Commencement: Sch. 5 para. 101 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-b4da172f2c1840831a5b058721731815]: Commencement: Sch. 5 para. 102 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-b4da172f2c1840831a5b058721731815]: Commencement: Sch. 5 para. 102 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-fd2de0b4952250d7feb80fc44b48fbb5]: Commencement: Sch. 5 para. 103 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-fd2de0b4952250d7feb80fc44b48fbb5]: Commencement: Sch. 5 para. 103 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-53dc421f3693c8892a8de5d8e090b503]: Textual amendment: Words in [Sch. 5 para. 103(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/103/1) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(10)(a)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/10/a)
+[^c-53dc421f3693c8892a8de5d8e090b503]: Textual amendment: Words in [Sch. 5 para. 103(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/103/1) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(10)(a)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/10/a)
 
-[^key-91c5b47c818dce8e3e016fedc571a935]: Textual amendment: [Sch. 5 para. 103(1A)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/103/1A) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(10)(b)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/10/b)
+[^c-91c5b47c818dce8e3e016fedc571a935]: Textual amendment: [Sch. 5 para. 103(1A)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/103/1A) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(10)(b)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/10/b)
 
-[^key-b73b1102b564e52d8a1fb12f01f4ea45]: Textual amendment: Words in [Sch. 5 para. 103(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/103/2) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(10)(c)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/10/c)
+[^c-b73b1102b564e52d8a1fb12f01f4ea45]: Textual amendment: Words in [Sch. 5 para. 103(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/103/2) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(10)(c)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/10/c)
 
-[^key-20de275637aa43bede2b9435cc1cab59]: Textual amendment: Words in [Sch. 5 para. 103(3)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/103/3/b) substituted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(10)(d)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/10/d)
+[^c-20de275637aa43bede2b9435cc1cab59]: Textual amendment: Words in [Sch. 5 para. 103(3)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/103/3/b) substituted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(10)(d)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/10/d)
 
-[^key-16f5bde9f6a597659636bcf8a539988e]: Textual amendment: [Sch. 5 para. 103(3A)-(3C)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/103/3A) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(10)(e)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/10/e)
+[^c-16f5bde9f6a597659636bcf8a539988e]: Textual amendment: [Sch. 5 para. 103(3A)-(3C)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/103/3A) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(10)(e)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/10/e)
 
-[^key-4af02ebdf8a5ea4ae17969f64ffaaafe]: Textual amendment: [Sch. 5 para. 103(7)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/103/7) added (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(10)(f)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/10/f)
+[^c-4af02ebdf8a5ea4ae17969f64ffaaafe]: Textual amendment: [Sch. 5 para. 103(7)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/103/7) added (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(10)(f)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/10/f)
 
-[^key-2bf10d481e3a71b7256338ba212964aa]: Commencement: Sch. 5 para. 104 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-2bf10d481e3a71b7256338ba212964aa]: Commencement: Sch. 5 para. 104 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-090faaabdea07d6971cc3178e0d76754]: Textual amendment: Words in [Sch. 5 para. 104](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/104) substituted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(11)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/11)
+[^c-090faaabdea07d6971cc3178e0d76754]: Textual amendment: Words in [Sch. 5 para. 104](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/104) substituted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(11)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/11)
 
-[^key-c32c15ffa0687f6f5e821583e9773b91]: Commencement: Sch. 5 para. 105 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-c32c15ffa0687f6f5e821583e9773b91]: Commencement: Sch. 5 para. 105 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-f0eaddfda62713d445180dc75c34494c]: Textual amendment: Words in [Sch. 5 para. 105(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/105/1) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(12)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/12)
+[^c-f0eaddfda62713d445180dc75c34494c]: Textual amendment: Words in [Sch. 5 para. 105(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/105/1) inserted (25.8.2005) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/368)](https://www.legislation.gov.uk/nisr/2005/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/368/regulation/1/1), [3(12)](https://www.legislation.gov.uk/nisr/2005/368/regulation/3/12)
 
 [^f00093]: Footnote: [c. 34 (N.I)](https://www.legislation.gov.uk/ukpga/1968/34)
 
@@ -2744,15 +2744,15 @@ The contract shall not create any right enforceable by any person not a party to
 
 [^f00096]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Schedule 4A was inserted by section 257 of and Schedule 2 to the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40)
 
-[^key-2f1055d81e3d586e03229dd7e02b232c]: Textual amendment: Words in [Sch. 5 para. 105(2)(j)(ii)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/105/2/j/ii) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(15)(a)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/15/a)
+[^c-2f1055d81e3d586e03229dd7e02b232c]: Textual amendment: Words in [Sch. 5 para. 105(2)(j)(ii)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/105/2/j/ii) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(15)(a)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/15/a)
 
-[^key-72a5cbe6b0cb9e8b0143c8cba3bf5f01]: Textual amendment: Words in [Sch. 5 para. 105(2)(j)(ii)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/105/2/j/ii) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 38(3)(b)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/38/3/b)
+[^c-72a5cbe6b0cb9e8b0143c8cba3bf5f01]: Textual amendment: Words in [Sch. 5 para. 105(2)(j)(ii)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/105/2/j/ii) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 38(3)(b)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/38/3/b)
 
 [^f00097]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
 [^f00098]: Footnote: [1990 c. 40](https://www.legislation.gov.uk/ukpga/1990/40)
 
-[^key-e6100d0a00061a07b1045d360110dee1]: Textual amendment: Words in [Sch. 5 para. 105(2)(m)(ii)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/105/2/m/ii) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(15)(b)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/15/b)
+[^c-e6100d0a00061a07b1045d360110dee1]: Textual amendment: Words in [Sch. 5 para. 105(2)(m)(ii)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/105/2/m/ii) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(15)(b)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/15/b)
 
 [^f00099]: Footnote: [S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150)
 
@@ -2760,64 +2760,64 @@ The contract shall not create any right enforceable by any person not a party to
 
 [^f00101]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45)
 
-[^key-f9a11801a0a54fdc07a02707fe5ffc61]: Commencement: Sch. 5 para. 106 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-f9a11801a0a54fdc07a02707fe5ffc61]: Commencement: Sch. 5 para. 106 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-cfb28be55ce8e479d5c310e3f3d3aeda]: Textual amendment: [Sch. 5 Pt. 8 para. 106A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/part/8/paragraph/106A) inserted (16.12.2004) by [The Primary Medical Services (Sale of Goodwill and Restrictions on Sub-contracting) Regulations (Northern Ireland) 2004 (S.R. 2004/477)](https://www.legislation.gov.uk/nisr/2004/477), [reg. 4(2)](https://www.legislation.gov.uk/nisr/2004/477/regulation/4/2)
+[^c-cfb28be55ce8e479d5c310e3f3d3aeda]: Textual amendment: [Sch. 5 Pt. 8 para. 106A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/part/8/paragraph/106A) inserted (16.12.2004) by [The Primary Medical Services (Sale of Goodwill and Restrictions on Sub-contracting) Regulations (Northern Ireland) 2004 (S.R. 2004/477)](https://www.legislation.gov.uk/nisr/2004/477), [reg. 4(2)](https://www.legislation.gov.uk/nisr/2004/477/regulation/4/2)
 
-[^key-103db949f8a2219aea86024d8776fbd6]: Commencement: Sch. 5 para. 107 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-103db949f8a2219aea86024d8776fbd6]: Commencement: Sch. 5 para. 107 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-41ff91c31c7421aec2c0d859684905e8]: Textual amendment: Words in [Sch. 5 para. 107(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/107/1) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(16)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/16)
+[^c-41ff91c31c7421aec2c0d859684905e8]: Textual amendment: Words in [Sch. 5 para. 107(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/107/1) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(16)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/16)
 
-[^key-9e72ece8ffcf0f25c3a7700c208b5dac]: Textual amendment: Words in [Sch. 5 para. 107(5)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/107/5) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(16)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/16)
+[^c-9e72ece8ffcf0f25c3a7700c208b5dac]: Textual amendment: Words in [Sch. 5 para. 107(5)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/107/5) substituted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(16)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/16)
 
-[^key-cca030728f8e35d0ee87d74c566d7660]: Commencement: Sch. 5 para. 108 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-cca030728f8e35d0ee87d74c566d7660]: Commencement: Sch. 5 para. 108 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-91e5516ff3dce415e00ee2b0403ad695]: Commencement: Sch. 5 para. 109 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-91e5516ff3dce415e00ee2b0403ad695]: Commencement: Sch. 5 para. 109 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-bd18bc67f601e453e50ea62841528066]: Commencement: Sch. 5 para. 110 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-bd18bc67f601e453e50ea62841528066]: Commencement: Sch. 5 para. 110 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-b09f594487f73dea9fbe4f12b3766a67]: Commencement: Sch. 5 para. 111 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-b09f594487f73dea9fbe4f12b3766a67]: Commencement: Sch. 5 para. 111 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-c0d001818d4d3169bd133e8b36bdd1ce]: Textual amendment: Word in [Sch. 5 para. 111(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/111/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(6)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/6/a)
+[^c-c0d001818d4d3169bd133e8b36bdd1ce]: Textual amendment: Word in [Sch. 5 para. 111(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/111/1) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(6)(a)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/6/a)
 
-[^key-d608f8a036ea22afefd8e75fa51038c0]: Textual amendment: Word in [Sch. 5 para. 111(2)-(4)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/111/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(6)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/6/b)
+[^c-d608f8a036ea22afefd8e75fa51038c0]: Textual amendment: Word in [Sch. 5 para. 111(2)-(4)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/111/2) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(6)(b)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/6/b)
 
-[^key-c345107cf38bd3958bbcc40323a05d01]: Textual amendment: Word in [Sch. 5 para. 111(5)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/111/5) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(6)(c)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/6/c)
+[^c-c345107cf38bd3958bbcc40323a05d01]: Textual amendment: Word in [Sch. 5 para. 111(5)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/111/5) substituted (1.4.2022) by [The Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 (S.R. 2022/109)](https://www.legislation.gov.uk/nisr/2022/109), [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1), [Sch. para. 10(6)(c)](https://www.legislation.gov.uk/nisr/2022/109/schedule/paragraph/10/6/c)
 
-[^key-5f6910004576b38933d3e5336077b07e]: Commencement: Sch. 5 para. 112 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-5f6910004576b38933d3e5336077b07e]: Commencement: Sch. 5 para. 112 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-7622e19ddfd163958692b3deaadde4e1]: Textual amendment: [Sch. 5 para. 112(1)(a)-(c)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/112/1/a) substituted for (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(17)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/17)
+[^c-7622e19ddfd163958692b3deaadde4e1]: Textual amendment: [Sch. 5 para. 112(1)(a)-(c)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/112/1/a) substituted for (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(17)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/17)
 
-[^key-3df6a47b2d0da3f37dfc85ea0fff8868]: Commencement: Sch. 5 para. 113 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-3df6a47b2d0da3f37dfc85ea0fff8868]: Commencement: Sch. 5 para. 113 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-d352fa1e738087788b5c2cccc5f09afb]: Textual amendment: Words in [Sch. 5 para. 113(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/113/1) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(18)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/18)
+[^c-d352fa1e738087788b5c2cccc5f09afb]: Textual amendment: Words in [Sch. 5 para. 113(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/113/1) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(18)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/18)
 
-[^key-1ea64035bf7286a759236355019abbd8]: Textual amendment: [Sch. 5 para. 113A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/113A) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(19)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/19)
+[^c-1ea64035bf7286a759236355019abbd8]: Textual amendment: [Sch. 5 para. 113A](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/113A) inserted (1.4.2013) by [The Health and Personal Social Services (General Medical Services Contracts) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/59)](https://www.legislation.gov.uk/nisr/2013/59), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/59/regulation/1/1), [9(19)](https://www.legislation.gov.uk/nisr/2013/59/regulation/9/19)
 
-[^key-ebe17471eda22c5e18ef9ca5db88fa5f]: Commencement: Sch. 5 para. 114 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-ebe17471eda22c5e18ef9ca5db88fa5f]: Commencement: Sch. 5 para. 114 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-9dd423623dc5ffbb3a4c4b8b899cce3b]: Textual amendment: Words in [Sch. 5 para. 114(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/114/1) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/7/a)
+[^c-9dd423623dc5ffbb3a4c4b8b899cce3b]: Textual amendment: Words in [Sch. 5 para. 114(1)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/114/1) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/7/a)
 
-[^key-80a7668d72e1cd3acbd8cbce01977a66]: Textual amendment: Words in [Sch. 5 para. 114(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/114/2) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/7/b)
+[^c-80a7668d72e1cd3acbd8cbce01977a66]: Textual amendment: Words in [Sch. 5 para. 114(2)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/114/2) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 7(b)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/7/b)
 
-[^key-95cda5fb6b9c6960d2375e689f4ab2f4]: Textual amendment: Words in [Sch. 5 para. 114(3)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/114/3/a) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/7/c)
+[^c-95cda5fb6b9c6960d2375e689f4ab2f4]: Textual amendment: Words in [Sch. 5 para. 114(3)(a)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/114/3/a) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/7/c)
 
-[^key-81e77a7f0ed3aa5dd0eec99984012803]: Textual amendment: [Sch. 5 para. 114(3)(aa)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/114/3/aa) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 7(d)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/7/d)
+[^c-81e77a7f0ed3aa5dd0eec99984012803]: Textual amendment: [Sch. 5 para. 114(3)(aa)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/114/3/aa) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 7(d)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/7/d)
 
-[^key-7addaa5ee3b5f06325b2dc8675fad126]: Textual amendment: Words in [Sch. 5 para. 114(3)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/114/3/b) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 7(e)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/7/e)
+[^c-7addaa5ee3b5f06325b2dc8675fad126]: Textual amendment: Words in [Sch. 5 para. 114(3)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/114/3/b) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 7(e)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/7/e)
 
-[^key-723bb52380dd6cd7d784852cdf31c97a]: Textual amendment: Words in [Sch. 5 para. 114(3)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/114/3/b) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(18)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/18)
+[^c-723bb52380dd6cd7d784852cdf31c97a]: Textual amendment: Words in [Sch. 5 para. 114(3)(b)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/114/3/b) substituted (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(18)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/18)
 
-[^key-4551b856ca0d9c860b577dc572f2de2f]: Commencement: Sch. 5 para. 115 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-4551b856ca0d9c860b577dc572f2de2f]: Commencement: Sch. 5 para. 115 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-ea4d3436e03425f571b6dd0f2ad97b1e]: Textual amendment: Words in [Sch. 5 para. 115](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/115) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 7(f)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/7/f)
+[^c-ea4d3436e03425f571b6dd0f2ad97b1e]: Textual amendment: Words in [Sch. 5 para. 115](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/115) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 7(f)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/7/f)
 
-[^key-1c3a25a610aeaec3315e7cca9d82ff04]: Commencement: Sch. 5 para. 116 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-1c3a25a610aeaec3315e7cca9d82ff04]: Commencement: Sch. 5 para. 116 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-ce35f9225b1fa06c8f542a0d16ad7f34]: Textual amendment: Words in [Sch. 5 para. 116(2)(f)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/116/2/f) inserted (15.8.2006) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/319)](https://www.legislation.gov.uk/nisr/2006/319), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/319/regulation/1/1), [5(f)](https://www.legislation.gov.uk/nisr/2006/319/regulation/5/f)
+[^c-ce35f9225b1fa06c8f542a0d16ad7f34]: Textual amendment: Words in [Sch. 5 para. 116(2)(f)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/116/2/f) inserted (15.8.2006) by [The Health and Personal Social Services (Primary Medical Services) (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (S.R. 2006/319)](https://www.legislation.gov.uk/nisr/2006/319), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/319/regulation/1/1), [5(f)](https://www.legislation.gov.uk/nisr/2006/319/regulation/5/f)
 
-[^key-47ab241590dc0f8083feab11c21d04c5]: Textual amendment: Words in [Sch. 5 para. 116(2)(g)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/116/2/g) numbered (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(19)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/19)
+[^c-47ab241590dc0f8083feab11c21d04c5]: Textual amendment: Words in [Sch. 5 para. 116(2)(g)](https://www.legislation.gov.uk/nisr/2004/140/schedule/5/paragraph/116/2/g) numbered (1.5.2005) by [The Health and Personal Social Services (General Medical Services Contracts) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/230)](https://www.legislation.gov.uk/nisr/2005/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/230/regulation/1/1), [9(19)](https://www.legislation.gov.uk/nisr/2005/230/regulation/9/19)
 
-[^key-830550563830ebd2369e9efcf0ba940f]: Commencement: Sch. 5 para. 117 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-830550563830ebd2369e9efcf0ba940f]: Commencement: Sch. 5 para. 117 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
-[^key-e7d8557f904b69de60fbf08b29f332b0]: Commencement: Sch. 5 para. 118 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-e7d8557f904b69de60fbf08b29f332b0]: Commencement: Sch. 5 para. 118 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)

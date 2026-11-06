@@ -23,7 +23,7 @@ summary: ''
   - (b) amounts held by the Authority by virtue of articles 46(4)(b), 47(4), 51(5) and 52(6)(b); and
   - (c) any interest earned on those amounts;
 - “**compliant United Kingdom supplier**” means a United Kingdom supplier which, at the end of the late payment period, has discharged or is treated as if it had discharged in full every UK renewables obligation imposed on it in respect of the relevant period;
-- “[^key-59c1129a7cab99efb5a696c86bad6b62]**consumer prices index**” means—
+- “[^c-59c1129a7cab99efb5a696c86bad6b62]**consumer prices index**” means—
   - (a) the consumer prices index calculated and published by the Statistics Board, or
   - (b) where the index is not published for a month, any substituted index or figures published by the Statistics Board,
 - “**GBRO costs**” means the costs which have been or are expected to be incurred by the Authority in connection with the performance of any of its functions conferred by or under sections 32 to 32M of the Act during the settlement period;
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59c1129a7cab99efb5a696c86bad6b62]: Textual amendment: Words in art. 42(1) inserted (1.4.2026) by [The Renewables Obligation (Scotland) Amendment Order 2026 (S.S.I. 2026/160)](https://www.legislation.gov.uk/ssi/2026/160), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/160/article/1/1), [3](https://www.legislation.gov.uk/ssi/2026/160/article/3)
+[^c-59c1129a7cab99efb5a696c86bad6b62]: Textual amendment: Words in art. 42(1) inserted (1.4.2026) by [The Renewables Obligation (Scotland) Amendment Order 2026 (S.S.I. 2026/160)](https://www.legislation.gov.uk/ssi/2026/160), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/160/article/1/1), [3](https://www.legislation.gov.uk/ssi/2026/160/article/3)

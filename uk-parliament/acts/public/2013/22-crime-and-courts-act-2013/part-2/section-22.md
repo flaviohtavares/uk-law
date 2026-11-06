@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Transfer of immigration or nationality judicial review applications[^key-577c18ead00ba20275765596cfab9d44][^key-4fd86604becab6653453cb4348f71d10]
+## 22. Transfer of immigration or nationality judicial review applications[^c-577c18ead00ba20275765596cfab9d44][^c-4fd86604becab6653453cb4348f71d10]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-577c18ead00ba20275765596cfab9d44]: Commencement: S. 22 in force at 1.10.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1725/article/3/b)
+[^c-577c18ead00ba20275765596cfab9d44]: Commencement: S. 22 in force at 1.10.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1725/article/3/b)
 
-[^key-4fd86604becab6653453cb4348f71d10]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2013/22/section/22) in force at 1.11.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 5](https://www.legislation.gov.uk/uksi/2013/2200/article/5)
+[^c-4fd86604becab6653453cb4348f71d10]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2013/22/section/22) in force at 1.11.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 5](https://www.legislation.gov.uk/uksi/2013/2200/article/5)

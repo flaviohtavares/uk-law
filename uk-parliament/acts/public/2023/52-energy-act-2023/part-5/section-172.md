@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Power to require information from regulated persons etc[^key-16231b668926c093ccf6a09a439b5b21][^key-9a068e67ae23617700b79b13cfd83105]
+## 172. Power to require information from regulated persons etc[^c-16231b668926c093ccf6a09a439b5b21][^c-9a068e67ae23617700b79b13cfd83105]
 
 *Extent: E+W+S*
 
@@ -45,6 +45,6 @@ In determining whether a disclosure would do so, the duty imposed by subsection 
 
 ## Annotations
 
-[^key-16231b668926c093ccf6a09a439b5b21]: Commencement: S. 172 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-16231b668926c093ccf6a09a439b5b21]: Commencement: S. 172 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-9a068e67ae23617700b79b13cfd83105]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2023/52/section/172) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(vi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/vi)
+[^c-9a068e67ae23617700b79b13cfd83105]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2023/52/section/172) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(vi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/vi)

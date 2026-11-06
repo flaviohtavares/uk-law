@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Statutory undertakers[^key-0e94a8acf0ddf7c3b01684d581f3e506]
+## 27. Statutory undertakers[^c-0e94a8acf0ddf7c3b01684d581f3e506]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e94a8acf0ddf7c3b01684d581f3e506]: Commencement: Art. 27 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-0e94a8acf0ddf7c3b01684d581f3e506]: Commencement: Art. 27 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)

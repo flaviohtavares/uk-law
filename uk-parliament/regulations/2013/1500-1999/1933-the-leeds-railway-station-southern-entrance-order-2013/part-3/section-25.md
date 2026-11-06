@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. New rights only to be acquired in certain lands[^key-59425f65d97b997642af00f5345fb125]
+## 25. New rights only to be acquired in certain lands[^c-59425f65d97b997642af00f5345fb125]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59425f65d97b997642af00f5345fb125]: Commencement: Art. 25 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-59425f65d97b997642af00f5345fb125]: Commencement: Art. 25 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

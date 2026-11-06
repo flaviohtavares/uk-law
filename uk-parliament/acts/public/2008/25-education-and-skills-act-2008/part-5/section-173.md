@@ -70,7 +70,7 @@ summary: ''
 - (b) make different provision for different purposes and in relation to different areas; and
 - (c) contain such transitory and transitional provisions and savings as the person making the order thinks fit.
 
-(9)[^key-94970f80e590c05e32dcd82672eb1f25] An order under subsection (4) may provide for the following provisions to come into force with the substitution of “ the first anniversary of the date on which the person ceased to be of compulsory school age ” for “the age of 18”
+(9)[^c-94970f80e590c05e32dcd82672eb1f25] An order under subsection (4) may provide for the following provisions to come into force with the substitution of “ the first anniversary of the date on which the person ceased to be of compulsory school age ” for “the age of 18”
 
 - (a) section 1(b) (persons to whom Part 1 applies);
 - (b) section 29(1)(b) (employer to enable participation in education or training: extension for persons reaching 18).
@@ -84,4 +84,4 @@ subject, in each case, to any provision made by virtue of subsection (8).
 
 ## Annotations
 
-[^key-94970f80e590c05e32dcd82672eb1f25]: Textual amendment: [S. 173(9)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/9)[(10)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/10) substituted (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 74](https://www.legislation.gov.uk/ukpga/2011/21/section/74), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-94970f80e590c05e32dcd82672eb1f25]: Textual amendment: [S. 173(9)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/9)[(10)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/10) substituted (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 74](https://www.legislation.gov.uk/ukpga/2011/21/section/74), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

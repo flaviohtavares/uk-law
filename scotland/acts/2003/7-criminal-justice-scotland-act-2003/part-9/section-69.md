@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Bribery and corruption committed outwith UK[^key-1dd85ef9974203b48cb49903be662b19]
+## 69. Bribery and corruption committed outwith UK[^c-1dd85ef9974203b48cb49903be662b19]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dd85ef9974203b48cb49903be662b19]: Textual amendment: [S. 69](https://www.legislation.gov.uk/asp/2003/7/section/69) repealed (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/23/schedule/2) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)
+[^c-1dd85ef9974203b48cb49903be662b19]: Textual amendment: [S. 69](https://www.legislation.gov.uk/asp/2003/7/section/69) repealed (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/23/schedule/2) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)

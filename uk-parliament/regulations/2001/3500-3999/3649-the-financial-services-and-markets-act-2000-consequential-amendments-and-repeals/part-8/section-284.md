@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 284. Exclusions from Part 11 of the Fair Trading Act 1973[^key-bdc7b07b0a55040ec1d06cecce370583]
+## 284. Exclusions from Part 11 of the Fair Trading Act 1973[^c-bdc7b07b0a55040ec1d06cecce370583]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdc7b07b0a55040ec1d06cecce370583]: Commencement: Art. 284 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-bdc7b07b0a55040ec1d06cecce370583]: Commencement: Art. 284 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00205]: Footnote: Section 118 was substituted by the Trading Schemes Act [1996 (c. 32)](https://www.legislation.gov.uk/ukpga/1996/32) s. 1.

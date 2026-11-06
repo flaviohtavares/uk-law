@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46A. Further information to be supplied[^key-382cd376426232cf204857137fa2f0a6]
+## 46A. Further information to be supplied[^c-382cd376426232cf204857137fa2f0a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Subject to regulation 47A(7), regulations 47 and 47A apply to any person who, be
 
 ## Annotations
 
-[^key-382cd376426232cf204857137fa2f0a6]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/2019/266/regulation/46A) inserted (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [50(5)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/5)
+[^c-382cd376426232cf204857137fa2f0a6]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/2019/266/regulation/46A) inserted (27.11.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2), [50(5)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/5)

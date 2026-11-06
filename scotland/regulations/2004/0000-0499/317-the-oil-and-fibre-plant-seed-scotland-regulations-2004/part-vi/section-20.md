@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Sealing of packages of seed in relation to breeder’s confirmation[^key-81311e67b7dee470b2badf5ce067567a]
+## 20. Sealing of packages of seed in relation to breeder’s confirmation[^c-81311e67b7dee470b2badf5ce067567a]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81311e67b7dee470b2badf5ce067567a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2004/317/regulation/20) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-81311e67b7dee470b2badf5ce067567a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2004/317/regulation/20) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)

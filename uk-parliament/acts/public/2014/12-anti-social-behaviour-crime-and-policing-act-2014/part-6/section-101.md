@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. The community remedy document[^key-8a2428d93427dd5b0a9951f104c97d5d][^key-660ac7c706e2298deda93139fdee58f2]
+## 101. The community remedy document[^c-8a2428d93427dd5b0a9951f104c97d5d][^c-660ac7c706e2298deda93139fdee58f2]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ summary: ''
 
 (9) In this section—
 
-- “[^key-75c55cd58eb9ed2f8b3dd115d8f8c373]**anti-social behaviour**” means—
+- “[^c-75c55cd58eb9ed2f8b3dd115d8f8c373]**anti-social behaviour**” means—
   - (a) conduct that has caused, or is likely to cause, harassment, alarm or distress to any person, or
   - (b) housing-related anti-social conduct as defined by section 2 (ignoring subsection (2) of that section);
 - “**community representative**”, in relation to a police area, means any individual or body appearing to the local policing body to represent the views of people who live in, work in or visit the area;
@@ -65,8 +65,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8a2428d93427dd5b0a9951f104c97d5d]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2014/12/section/101) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/2)
+[^c-8a2428d93427dd5b0a9951f104c97d5d]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2014/12/section/101) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/2)
 
-[^key-660ac7c706e2298deda93139fdee58f2]: Modification: [S. 101](https://www.legislation.gov.uk/ukpga/2014/12/section/101) modified (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2017/510/article/20/4)
+[^c-660ac7c706e2298deda93139fdee58f2]: Modification: [S. 101](https://www.legislation.gov.uk/ukpga/2014/12/section/101) modified (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2017/510/article/20/4)
 
-[^key-75c55cd58eb9ed2f8b3dd115d8f8c373]: Textual amendment: Words in [s. 101(9)](https://www.legislation.gov.uk/ukpga/2014/12/section/101/9) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/20) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
+[^c-75c55cd58eb9ed2f8b3dd115d8f8c373]: Textual amendment: Words in [s. 101(9)](https://www.legislation.gov.uk/ukpga/2014/12/section/101/9) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/20) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)

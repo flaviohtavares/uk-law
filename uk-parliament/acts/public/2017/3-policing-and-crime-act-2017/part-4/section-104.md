@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Maritime enforcement powers: other supplementary provision[^c22719431][^key-5f47eb7f983bce6db5d53c92c70e6c70]
+## 104. Maritime enforcement powers: other supplementary provision[^c22719431][^c-5f47eb7f983bce6db5d53c92c70e6c70]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ to assist the officer in the exercise of powers under this Chapter.
 
 [^c22719431]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2017/3/section/104) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-5f47eb7f983bce6db5d53c92c70e6c70]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2017/3/section/104) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)
+[^c-5f47eb7f983bce6db5d53c92c70e6c70]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2017/3/section/104) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)

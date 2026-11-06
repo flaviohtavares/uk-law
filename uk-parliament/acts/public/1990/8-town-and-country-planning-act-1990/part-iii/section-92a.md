@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92A. Extension of outline planning permission etc in event of legal challenge[^key-6e25cb423a85a22dd24b4a70762af620]
+## 92A. Extension of outline planning permission etc in event of legal challenge[^c-6e25cb423a85a22dd24b4a70762af620]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e25cb423a85a22dd24b4a70762af620]: Textual amendment: S. 92A inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 56(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/56/3), [118(2)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/e) (with [ss. 56(7)](https://www.legislation.gov.uk/ukpga/2025/34/section/56/7), [116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-6e25cb423a85a22dd24b4a70762af620]: Textual amendment: S. 92A inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 56(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/56/3), [118(2)(e)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/e) (with [ss. 56(7)](https://www.legislation.gov.uk/ukpga/2025/34/section/56/7), [116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

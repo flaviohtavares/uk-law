@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — PERSONS BY WHOM A MEDICAL RECOMMENDATION OR MEDICAL REPORT UNDER ARTICLE 12 MAY NOT BE GIVEN[^key-1af49f389e0906b58c67cc29f91629d7][^key-b066535e6296f3180c5eeffb262d0d65]
+## SCHEDULE 1 — PERSONS BY WHOM A MEDICAL RECOMMENDATION OR MEDICAL REPORT UNDER ARTICLE 12 MAY NOT BE GIVEN[^c-1af49f389e0906b58c67cc29f91629d7][^c-b066535e6296f3180c5eeffb262d0d65]
 
 *Extent: N.I.*
 
@@ -34,9 +34,9 @@ Articles 6, 12(2) and 20(1).
 
 ## Annotations
 
-[^key-1af49f389e0906b58c67cc29f91629d7]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisi/1986/595/schedule/1) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(10)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/10), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-1af49f389e0906b58c67cc29f91629d7]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisi/1986/595/schedule/1) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(10)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/10), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
-[^key-b066535e6296f3180c5eeffb262d0d65]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisi/1986/595/schedule/1) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(10)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/10), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-b066535e6296f3180c5eeffb262d0d65]: Modification: [Sch. 1](https://www.legislation.gov.uk/nisi/1986/595/schedule/1) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(10)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/10), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
 [^c17126751]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 

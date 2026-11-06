@@ -47,11 +47,11 @@ Now, therefore, the Scottish Ministers, in exercise of the powers conferred by s
 
 ## PART I — PRELIMINARY
 
-### 1. Citation, commencement and extent[^key-65ae1a632c17e076752f1542b4c26616]
+### 1. Citation, commencement and extent[^c-65ae1a632c17e076752f1542b4c26616]
 
 This Order may be cited as the Clydeport (Closure of Govan Basin) Harbour Revision Order 2004 and shall come into force on 5th May 2004.
 
-### 2. Interpretation[^key-ff646930648ded1331aeb133f07e336a]
+### 2. Interpretation[^c-ff646930648ded1331aeb133f07e336a]
 
 In this Order–
 
@@ -62,11 +62,11 @@ In this Order–
 
 ## PART II — CLOSURE OF GOVAN BASIN
 
-### 3. Closure of Govan Basin[^key-adec4623832ff55930dce1b43130b23d]
+### 3. Closure of Govan Basin[^c-adec4623832ff55930dce1b43130b23d]
 
 Subject to the provisions of this Order, the Company may close Govan Basin.
 
-### 4. Removal of vessels from Govan Basin[^key-0625adb9349943f63065bcde95e8bd1f]
+### 4. Removal of vessels from Govan Basin[^c-0625adb9349943f63065bcde95e8bd1f]
 
 (1) Before exercising the power conferred on it by Article 3 (closure of Govan Basin) of this Order to close Govan Basin the Company shall–
 
@@ -85,11 +85,11 @@ Subject to the provisions of this Order, the Company may close Govan Basin.
 
 (5) The powers conferred on the Company and the harbourmaster by this Article shall be in addition to and without prejudice to the powers as to the removal of vessels conferred upon them by sections 64 and 65 of the Harbours, Docks and Piers Clauses Act 1847[^f00006].
 
-### 5. As to vessels entering Govan Basin after date of closure[^key-5393f3f227ea784fce258f0d198675ce]
+### 5. As to vessels entering Govan Basin after date of closure[^c-5393f3f227ea784fce258f0d198675ce]
 
 If any vessel enters Govan Basin after the date specified in accordance with paragraph (2)(b) of Article 4 (removal of vessels from Govan Basin) of this Order, the harbourmaster may direct the master of such vessel forthwith to remove the vessel from Govan Basin, and if the master of such vessel does not forthwith comply with such directions the provisions of paragraphs (3) to (5) inclusive of the said Article 4 shall apply to and in respect of such vessel as if such vessel had been within Govan Basin before the said date.
 
-### 6. Rights of navigation on Govan Basin extinguished[^key-9da5850580546e06c71cd18f50e66151]
+### 6. Rights of navigation on Govan Basin extinguished[^c-9da5850580546e06c71cd18f50e66151]
 
 (1) After the date specified in accordance with paragraph 2(b) of Article 4 any right of navigation on Govan Basin shall be extinguished.
 
@@ -119,18 +119,18 @@ This Order empowers Clydeport Operations Limited to close Govan Basin, extinguis
 
 [^f00004]: Footnote: The Scottish Ministers are the “appropriate Minister” under section 14(7) of the Harbours Act [1964 (c. 46)](https://www.legislation.gov.uk/ukpga/1964/46).
 
-[^key-65ae1a632c17e076752f1542b4c26616]: Commencement: Art. 1 in force at 5.5.2004, see [art. 1](https://www.legislation.gov.uk/ssi/2004/207/article/1)
+[^c-65ae1a632c17e076752f1542b4c26616]: Commencement: Art. 1 in force at 5.5.2004, see [art. 1](https://www.legislation.gov.uk/ssi/2004/207/article/1)
 
-[^key-ff646930648ded1331aeb133f07e336a]: Commencement: Art. 2 in force at 5.5.2004, see [art. 1](https://www.legislation.gov.uk/ssi/2004/207/article/1)
+[^c-ff646930648ded1331aeb133f07e336a]: Commencement: Art. 2 in force at 5.5.2004, see [art. 1](https://www.legislation.gov.uk/ssi/2004/207/article/1)
 
 [^f00005]: Footnote: Schedule to [1965 c.xlv](https://www.legislation.gov.uk/ukla/1965/44).
 
-[^key-adec4623832ff55930dce1b43130b23d]: Commencement: Art. 3 in force at 5.5.2004, see [art. 1](https://www.legislation.gov.uk/ssi/2004/207/article/1)
+[^c-adec4623832ff55930dce1b43130b23d]: Commencement: Art. 3 in force at 5.5.2004, see [art. 1](https://www.legislation.gov.uk/ssi/2004/207/article/1)
 
-[^key-0625adb9349943f63065bcde95e8bd1f]: Commencement: Art. 4 in force at 5.5.2004, see [art. 1](https://www.legislation.gov.uk/ssi/2004/207/article/1)
+[^c-0625adb9349943f63065bcde95e8bd1f]: Commencement: Art. 4 in force at 5.5.2004, see [art. 1](https://www.legislation.gov.uk/ssi/2004/207/article/1)
 
 [^f00006]: Footnote: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27).
 
-[^key-5393f3f227ea784fce258f0d198675ce]: Commencement: Art. 5 in force at 5.5.2004, see [art. 1](https://www.legislation.gov.uk/ssi/2004/207/article/1)
+[^c-5393f3f227ea784fce258f0d198675ce]: Commencement: Art. 5 in force at 5.5.2004, see [art. 1](https://www.legislation.gov.uk/ssi/2004/207/article/1)
 
-[^key-9da5850580546e06c71cd18f50e66151]: Commencement: Art. 6 in force at 5.5.2004, see [art. 1](https://www.legislation.gov.uk/ssi/2004/207/article/1)
+[^c-9da5850580546e06c71cd18f50e66151]: Commencement: Art. 6 in force at 5.5.2004, see [art. 1](https://www.legislation.gov.uk/ssi/2004/207/article/1)

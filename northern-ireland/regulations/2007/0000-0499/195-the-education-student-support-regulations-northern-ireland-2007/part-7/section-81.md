@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Qualifying conditions[^key-27fb1f4c0af24a603110cffe4a38feef]
+## 81. Qualifying conditions[^c-27fb1f4c0af24a603110cffe4a38feef]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27fb1f4c0af24a603110cffe4a38feef]: Commencement: [Reg. 81](https://www.legislation.gov.uk/nisr/2007/195/regulation/81) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-27fb1f4c0af24a603110cffe4a38feef]: Commencement: [Reg. 81](https://www.legislation.gov.uk/nisr/2007/195/regulation/81) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

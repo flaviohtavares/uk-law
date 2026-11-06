@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Student Fees (Amounts) (England) (Amendment) Regulations 2009 (revoked)[^key-f4a370ad657dfd73a5280e72db32653c]
+The Student Fees (Amounts) (England) (Amendment) Regulations 2009 (revoked)[^c-f4a370ad657dfd73a5280e72db32653c]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st September 2010
 
-[^key-f4a370ad657dfd73a5280e72db32653c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f4a370ad657dfd73a5280e72db32653c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-f4a370ad657dfd73a5280e72db32653c]
+## 1. Citation and Commencement[^c-f4a370ad657dfd73a5280e72db32653c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Increases to the prescribed basic and higher amounts[^key-f4a370ad657dfd73a5280e72db32653c]
+## 2. Increases to the prescribed basic and higher amounts[^c-f4a370ad657dfd73a5280e72db32653c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of the Student Fees (Amounts) (England) (Amendment) Regulations 2008[^key-f4a370ad657dfd73a5280e72db32653c]
+## 3. Revocation of the Student Fees (Amounts) (England) (Amendment) Regulations 2008[^c-f4a370ad657dfd73a5280e72db32653c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4a370ad657dfd73a5280e72db32653c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f4a370ad657dfd73a5280e72db32653c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f4a370ad657dfd73a5280e72db32653c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f4a370ad657dfd73a5280e72db32653c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f4a370ad657dfd73a5280e72db32653c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3113) revoked (1.8.2011) by [The Student Fees (Amounts) (England) (Amendment) Regulations 2011 (S.I. 2011/432)](https://www.legislation.gov.uk/uksi/2011/432), [regs. 1](https://www.legislation.gov.uk/uksi/2011/432/regulation/1), [3](https://www.legislation.gov.uk/uksi/2011/432/regulation/3)
+[^c-f4a370ad657dfd73a5280e72db32653c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3113) revoked (1.8.2011) by [The Student Fees (Amounts) (England) (Amendment) Regulations 2011 (S.I. 2011/432)](https://www.legislation.gov.uk/uksi/2011/432), [regs. 1](https://www.legislation.gov.uk/uksi/2011/432/regulation/1), [3](https://www.legislation.gov.uk/uksi/2011/432/regulation/3)

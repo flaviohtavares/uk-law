@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where recording equipment is installed in a vehicle to which this Part of this Act applies, any record produced by means of the equipment shall, in any proceedings under this Part of this Act, be evidence, and in Scotland sufficient evidence, of matters appearing from the record.
 
-(2)[^key-b7467ed2ca164aa843e39bfea7f6eedd] Any entry made on a record sheet or printout by a driver for the purposes of—
+(2)[^c-b7467ed2ca164aa843e39bfea7f6eedd] Any entry made on a record sheet or printout by a driver for the purposes of—
 
 - (a) Article 34(1), (3), (4) or (6) or 37(2) of the EU Tachographs Regulation, or
 - (b) Article 12(1), (2) or (5) or 13(2)(a) of the Annex to the AETR,
@@ -35,4 +35,4 @@ shall, in any proceedings under this Part of this Act, be evidence, and in Scotl
 
 [^c15327021]: Textual amendment: Ss. 97, 97A, 97B substituted for s. 97 by [S.I. 1979/1746](https://www.legislation.gov.uk/uksi/1979/1746), [reg. 2](https://www.legislation.gov.uk/uksi/1979/1746/regulation/2)
 
-[^key-b7467ed2ca164aa843e39bfea7f6eedd]: Textual amendment: [S. 97B(2)](https://www.legislation.gov.uk/ukpga/1968/73/section/97B/2) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2019/453/regulation/7)
+[^c-b7467ed2ca164aa843e39bfea7f6eedd]: Textual amendment: [S. 97B(2)](https://www.legislation.gov.uk/ukpga/1968/73/section/97B/2) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2019/453/regulation/7)

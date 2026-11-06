@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Joining the Scheme[^key-25d2f44d8a5e3a80f22bcaeb377e11a2]
+## 13. Joining the Scheme[^c-25d2f44d8a5e3a80f22bcaeb377e11a2]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25d2f44d8a5e3a80f22bcaeb377e11a2]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-25d2f44d8a5e3a80f22bcaeb377e11a2]: Commencement: Reg. 13 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Chepstow — community ward electoral arrangements[^key-4e51ec27415a14c83c7e6a7b16584871][^key-35b53635fd5730f185b27a7813aa53a9]
+## 78. Chepstow — community ward electoral arrangements[^c-4e51ec27415a14c83c7e6a7b16584871][^c-35b53635fd5730f185b27a7813aa53a9]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ In the community of Chepstow the number of councillors to be elected for the—
 
 ## Annotations
 
-[^key-4e51ec27415a14c83c7e6a7b16584871]: Commencement: Art. 78 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-4e51ec27415a14c83c7e6a7b16584871]: Commencement: Art. 78 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-35b53635fd5730f185b27a7813aa53a9]: Commencement: [Art. 78](https://www.legislation.gov.uk/wsi/2021/1227/article/78) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-35b53635fd5730f185b27a7813aa53a9]: Commencement: [Art. 78](https://www.legislation.gov.uk/wsi/2021/1227/article/78) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

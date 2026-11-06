@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32.2. Transmission of appeal[^key-5b0abf0e46cc3bc9f63eb6d10c04f095]
+## 32.2. Transmission of appeal[^c-5b0abf0e46cc3bc9f63eb6d10c04f095]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b0abf0e46cc3bc9f63eb6d10c04f095]: Commencement: Para. 32.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-5b0abf0e46cc3bc9f63eb6d10c04f095]: Commencement: Para. 32.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

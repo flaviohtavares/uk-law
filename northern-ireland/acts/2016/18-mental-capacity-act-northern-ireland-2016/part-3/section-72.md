@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72. Resignation[^key-d7a7e99ab3f33e1291b362a5c83ca5f4]
+## 72. Resignation[^c-d7a7e99ab3f33e1291b362a5c83ca5f4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A person appointed under section70 may resign as the appointer's nominated perso
 
 ## Annotations
 
-[^key-d7a7e99ab3f33e1291b362a5c83ca5f4]: Commencement: [S. 72](https://www.legislation.gov.uk/nia/2016/18/section/72) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-d7a7e99ab3f33e1291b362a5c83ca5f4]: Commencement: [S. 72](https://www.legislation.gov.uk/nia/2016/18/section/72) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

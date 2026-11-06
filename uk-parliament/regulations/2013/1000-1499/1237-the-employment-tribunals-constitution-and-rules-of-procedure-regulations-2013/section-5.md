@@ -30,7 +30,7 @@ summary: ''
 
 (3) A President may at any time resign from office by giving the appointing officer holder notice in writing to that effect.
 
-(4) The appointing officer holder may remove a President from office on the ground of inability or misbehaviour, or if the President is made[^key-8251ee2601a74a4104da1b84c39ee8d2] bankrupt or makes a composition or arrangement with his creditors.
+(4) The appointing officer holder may remove a President from office on the ground of inability or misbehaviour, or if the President is made[^c-8251ee2601a74a4104da1b84c39ee8d2] bankrupt or makes a composition or arrangement with his creditors.
 
 (5) Where a President is unable to carry out the functions set out in these Regulations, those functions may be discharged by a person nominated by the appointing office holder (save that any nomination in relation to England and Wales shall be made by the Lord Chief Justice following consultation with the Senior President of Tribunals, rather than by the Lord Chancellor).
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8251ee2601a74a4104da1b84c39ee8d2]: Textual amendment: Word in reg. 5(4) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/12)
+[^c-8251ee2601a74a4104da1b84c39ee8d2]: Textual amendment: Word in reg. 5(4) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/12)
 
 [^c21803811]: Marginal citation: [2005 c. 4](https://www.legislation.gov.uk/ukpga/2005/4); section 109 was amended by the Tribunals, Courts and Enforcement Act 2007, Schedule 8, paragraph 63.

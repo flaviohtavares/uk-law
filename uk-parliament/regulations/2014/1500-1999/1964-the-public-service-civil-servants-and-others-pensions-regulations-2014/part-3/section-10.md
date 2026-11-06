@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Scheme advisory board: establishment[^key-88387692c749b352e68b81b9004ae937]
+## 10. Scheme advisory board: establishment[^c-88387692c749b352e68b81b9004ae937]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88387692c749b352e68b81b9004ae937]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/1964/regulation/10) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-88387692c749b352e68b81b9004ae937]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/1964/regulation/10) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00047]: Footnote: See section 7(6) of the Act for the meaning of “scheme advisory board”.

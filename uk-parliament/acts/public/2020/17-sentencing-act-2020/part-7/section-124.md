@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Fixing of fine: duty of court to inquire into individual offender's circumstances[^key-07fd70d49d56c02a76328aeb10862a54]
+## 124. Fixing of fine: duty of court to inquire into individual offender's circumstances[^c-07fd70d49d56c02a76328aeb10862a54]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07fd70d49d56c02a76328aeb10862a54]: Commencement: S. 124 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-07fd70d49d56c02a76328aeb10862a54]: Commencement: S. 124 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

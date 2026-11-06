@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. What happens after the consent form is signed[^key-5926d7fcf39d692214fff43e6c3dae8d]
+## 214. What happens after the consent form is signed[^c-5926d7fcf39d692214fff43e6c3dae8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A human occupant must give the duplicate consent form to the spaceflight operato
 
 ## Annotations
 
-[^key-5926d7fcf39d692214fff43e6c3dae8d]: Commencement: Reg. 214 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-5926d7fcf39d692214fff43e6c3dae8d]: Commencement: Reg. 214 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

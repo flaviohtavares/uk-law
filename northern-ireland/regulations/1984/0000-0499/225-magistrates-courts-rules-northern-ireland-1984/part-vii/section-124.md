@@ -26,10 +26,10 @@ In this Section-
 - [(aa) [^f00172] “**the 2008 Order**” means the Criminal Justice (Northern Ireland) Order 2008;\]
 - (b) “pre-sentence report”; “community order”; “custodial sentence”; “custody probation order”; and “mentally disordered” have the meanings assigned to them by Article 2(2) of the 1996 Order;
 - (c) “**medical report**” has the meaning assigned to it by Article 22(5) of the 1996 Order;
-- (d)[^key-1c798b7b48b95ae71eeaacfe7c534aea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-1c798b7b48b95ae71eeaacfe7c534aea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^f00172]: Footnote: Words inserted by [S.R. 2008 No. 251](https://www.legislation.gov.uk/nisr/2008/251) with effect from 01.04.09
 
-[^key-1c798b7b48b95ae71eeaacfe7c534aea]: Textual amendment: [Rule 124(d)](https://www.legislation.gov.uk/nisr/1984/225/rule/124/d) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(23)](https://www.legislation.gov.uk/nisr/2016/304/article/3/23); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-1c798b7b48b95ae71eeaacfe7c534aea]: Textual amendment: [Rule 124(d)](https://www.legislation.gov.uk/nisr/1984/225/rule/124/d) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(23)](https://www.legislation.gov.uk/nisr/2016/304/article/3/23); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

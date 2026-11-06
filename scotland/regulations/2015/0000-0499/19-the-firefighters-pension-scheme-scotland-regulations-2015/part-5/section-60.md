@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Annual rate of retirement pension (deferred members)[^key-91e074b4584e1267856a7948913a484e]
+## 60. Annual rate of retirement pension (deferred members)[^c-91e074b4584e1267856a7948913a484e]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91e074b4584e1267856a7948913a484e]: Commencement: [Reg. 60](https://www.legislation.gov.uk/ssi/2015/19/regulation/60) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-91e074b4584e1267856a7948913a484e]: Commencement: [Reg. 60](https://www.legislation.gov.uk/ssi/2015/19/regulation/60) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

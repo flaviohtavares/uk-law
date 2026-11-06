@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Acquisition in good faith for personal, domestic or household purposes[^key-b1f13ff829c00a914af4126b9860f229][^key-70d599c0de9ff196108dc5485353e0c2][^key-7b42558dc607329ea231e134b27c67bb]
+## 54. Acquisition in good faith for personal, domestic or household purposes[^c-b1f13ff829c00a914af4126b9860f229][^c-70d599c0de9ff196108dc5485353e0c2][^c-7b42558dc607329ea231e134b27c67bb]
 
 *Extent: S*
 
-[^key-7b42558dc607329ea231e134b27c67bb]
+[^c-7b42558dc607329ea231e134b27c67bb]
 
 (1) An individual who acquires corporeal property which is encumbered property under a statutory pledge acquires it unencumbered by the statutory pledge, despite the consent mentioned in section 51(2) not having been obtained, if—
 
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b1f13ff829c00a914af4126b9860f229]: Commencement: S. 54 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-b1f13ff829c00a914af4126b9860f229]: Commencement: S. 54 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-70d599c0de9ff196108dc5485353e0c2]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2023/3/section/54) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-70d599c0de9ff196108dc5485353e0c2]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2023/3/section/54) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
-[^key-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))
+[^c-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))

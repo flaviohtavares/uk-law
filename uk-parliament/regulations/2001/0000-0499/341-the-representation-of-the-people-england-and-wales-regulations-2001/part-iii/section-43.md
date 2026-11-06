@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Publication of register[^key-dcb07a19ff84ab0772ff96c04e92999c]
+## 43. Publication of register[^c-dcb07a19ff84ab0772ff96c04e92999c]
 
 *Extent: E+W*
 
-(1)[^key-95da198c409d504a08e3fd59eaae0fd5] The manner in which each revised version of the full register is to be published under section 13(1) and (3) of the 1983 Act is by the registration officer—
+(1)[^c-95da198c409d504a08e3fd59eaae0fd5] The manner in which each revised version of the full register is to be published under section 13(1) and (3) of the 1983 Act is by the registration officer—
 
 - (a) making a copy of it available for inspection under supervision—
   - (i) at his office, and
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dcb07a19ff84ab0772ff96c04e92999c]: Commencement: Reg. 43 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-dcb07a19ff84ab0772ff96c04e92999c]: Commencement: Reg. 43 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
 
-[^key-95da198c409d504a08e3fd59eaae0fd5]: Textual amendment: Reg. 43(1)(1A) substituted for reg. 43(1) (16.10.2002) by [The Representation of the People (England and Wales) (Amendment) Regulations 2002 (S.I. 2002/1871)](https://www.legislation.gov.uk/uksi/2002/1871), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/2), [10](https://www.legislation.gov.uk/uksi/2002/1871/regulation/10) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/3))
+[^c-95da198c409d504a08e3fd59eaae0fd5]: Textual amendment: Reg. 43(1)(1A) substituted for reg. 43(1) (16.10.2002) by [The Representation of the People (England and Wales) (Amendment) Regulations 2002 (S.I. 2002/1871)](https://www.legislation.gov.uk/uksi/2002/1871), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/2), [10](https://www.legislation.gov.uk/uksi/2002/1871/regulation/10) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Elections as to employments covered by contracting-out certificates.[^key-b81e7d4bb0deccd3f492c6fa3ae05f21]
+## 11. Elections as to employments covered by contracting-out certificates.[^c-b81e7d4bb0deccd3f492c6fa3ae05f21]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b81e7d4bb0deccd3f492c6fa3ae05f21]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1993/48/section/11) repealed (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/9) (with a temp. saving in [The Pensions Act 2014 (Savings) Order 2015 (S.I. 2015/1502)](https://www.legislation.gov.uk/uksi/2015/1502), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/3), [2(1)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/2/c))
+[^c-b81e7d4bb0deccd3f492c6fa3ae05f21]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1993/48/section/11) repealed (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/9) (with a temp. saving in [The Pensions Act 2014 (Savings) Order 2015 (S.I. 2015/1502)](https://www.legislation.gov.uk/uksi/2015/1502), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/1502/article/1/3), [2(1)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2015/1502/article/2/2/c))

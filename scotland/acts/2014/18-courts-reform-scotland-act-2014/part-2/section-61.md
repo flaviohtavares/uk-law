@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Clerk and Deputy Clerks: further provision[^key-08834880eccdd1810ab23fe26034f2d0]
+## 61. Clerk and Deputy Clerks: further provision[^c-08834880eccdd1810ab23fe26034f2d0]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08834880eccdd1810ab23fe26034f2d0]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2014/18/section/61) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-08834880eccdd1810ab23fe26034f2d0]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2014/18/section/61) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

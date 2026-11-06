@@ -54,7 +54,7 @@ summary: ''
 - “**registered**” (“***cofrestredig***”) means registered under section 35 and “**registration**” (“***cofrestru***”) means registration under that section;
 - “**restoration work**” (“***gwaith adfer***”) has the meaning given by section 8(4);
 - “**tax**” (“***treth***”) means landfill disposals tax;
-- “tax credit” (“[^key-f86aeb02853eb6df2a6cea951f3534b9]*credyd treth”*) means a tax credit under regulations made under section 54;
+- “tax credit” (“[^c-f86aeb02853eb6df2a6cea951f3534b9]*credyd treth”*) means a tax credit under regulations made under section 54;
 - “**tax return**” (“***ffurflen dreth***”) means a tax return that a person is required to make under section 39;
 - “**TCMA**” (“***DCRhT***”) means the Tax Collection and Management (Wales) Act 2016 (anaw 6);
 - “**the tribunal**” (“***y tribiwnlys***”) means—
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f86aeb02853eb6df2a6cea951f3534b9]: Textual amendment: Words in [s. 96(1)](https://www.legislation.gov.uk/anaw/2017/3/section/96/1) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 7](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/7)
+[^c-f86aeb02853eb6df2a6cea951f3534b9]: Textual amendment: Words in [s. 96(1)](https://www.legislation.gov.uk/anaw/2017/3/section/96/1) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 7](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/7)

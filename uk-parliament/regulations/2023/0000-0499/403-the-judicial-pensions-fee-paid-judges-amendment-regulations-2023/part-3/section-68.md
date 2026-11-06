@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Meaning of “interim amendments payments amount” and “pre-amendment day benefits increase amount”[^key-402e6c21e867d36c7aaa7c0b3699d73f]
+## 68. Meaning of “interim amendments payments amount” and “pre-amendment day benefits increase amount”[^c-402e6c21e867d36c7aaa7c0b3699d73f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Part—
 
 ## Annotations
 
-[^key-402e6c21e867d36c7aaa7c0b3699d73f]: Commencement: Reg. 68 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-402e6c21e867d36c7aaa7c0b3699d73f]: Commencement: Reg. 68 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

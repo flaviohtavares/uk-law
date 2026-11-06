@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 477.[^M_C_1d4aa40a-9aae-4a6f-d90f-9601c188ee36][^key-92703bb7fcc0e91dec3b78fcb88368d5]
+## 477.[^M_C_1d4aa40a-9aae-4a6f-d90f-9601c188ee36][^c-92703bb7fcc0e91dec3b78fcb88368d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Commission Regulation [(EC) No. 1981/2006](https://www.legislation.gov.uk/eur/20
 
 [^M_C_1d4aa40a-9aae-4a6f-d90f-9601c188ee36]: Modification: Regs. 390-477 substituted for reg. 390 (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [17(21)(22)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/17/21/22)
 
-[^key-92703bb7fcc0e91dec3b78fcb88368d5]: Textual amendment: Regs. 390-477 substituted for reg. 390 (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [17(21)(22)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/17/21/22)
+[^c-92703bb7fcc0e91dec3b78fcb88368d5]: Textual amendment: Regs. 390-477 substituted for reg. 390 (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [17(21)(22)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/17/21/22)

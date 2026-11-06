@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Exemptions from harbour dues[^key-d497cfa73b769bc5f53ddf2349c79d36]
+## 47. Exemptions from harbour dues[^c-d497cfa73b769bc5f53ddf2349c79d36]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d497cfa73b769bc5f53ddf2349c79d36]: Commencement: Art. 47 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-d497cfa73b769bc5f53ddf2349c79d36]: Commencement: Art. 47 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

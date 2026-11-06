@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84. Income of participants in the self-employment route[^key-3b8ea6db8be9e934f77fd6c8541b8276]
+## 84. Income of participants in the self-employment route[^c-3b8ea6db8be9e934f77fd6c8541b8276]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Chapters 2, 3, 4, 6, 8 and 9 and regulations 132 to 137, 142 and 143 do not appl
 
 ## Annotations
 
-[^key-3b8ea6db8be9e934f77fd6c8541b8276]: Commencement: [Reg. 84](https://www.legislation.gov.uk/nisr/2008/280/regulation/84) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-3b8ea6db8be9e934f77fd6c8541b8276]: Commencement: [Reg. 84](https://www.legislation.gov.uk/nisr/2008/280/regulation/84) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

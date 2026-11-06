@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Other exceptions from section 24[^key-6b15a87c2c9a4a2fb5cdaf3380392f7a]
+## 27. Other exceptions from section 24[^c-6b15a87c2c9a4a2fb5cdaf3380392f7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b15a87c2c9a4a2fb5cdaf3380392f7a]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2020/27/section/27) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/c)
+[^c-6b15a87c2c9a4a2fb5cdaf3380392f7a]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2020/27/section/27) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/c)

@@ -78,7 +78,7 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 *Extent: E+W*
 
-[^key-570e5ae8afb91f7ea857669442b8d632] . . . . . . . . . . . . . . . .
+[^c-570e5ae8afb91f7ea857669442b8d632] . . . . . . . . . . . . . . . .
 
 ## 3. Amendment of the Seeds (National Lists of Varieties) Regulations 2001
 
@@ -387,7 +387,7 @@ In the Environmental Damage (Prevention and Remediation) Regulations 2009 [^c214
 
 .
 
-## 27. Amendment of the Ozone-Depleting Substances (Qualifications) Regulations 2009[^key-2264edcb1b29101bd3677a3c9d81d03f]
+## 27. Amendment of the Ozone-Depleting Substances (Qualifications) Regulations 2009[^c-2264edcb1b29101bd3677a3c9d81d03f]
 
 *Extent: E+W*
 
@@ -422,7 +422,7 @@ In the Control of Salmonella in Broiler Flocks Order 2009 [^c21446411]—
 
   .
 
-## 29. Amendment of the Fluorinated Greenhouse Gases Regulations 2009[^key-e34cdbc1cc000f0562fe121205f5fd29]
+## 29. Amendment of the Fluorinated Greenhouse Gases Regulations 2009[^c-e34cdbc1cc000f0562fe121205f5fd29]
 
 *Extent: E+W*
 
@@ -607,7 +607,7 @@ In the Energy Information Regulations 2011 [^c21446561], in regulation 4 (enforc
 
 .
 
-## 43. Amendment of the Environmental Protection (Controls on Ozone-Depleting Substances) Regulations 2011[^key-b3ce538e2ec8d52a4043042bf4d9d9a4]
+## 43. Amendment of the Environmental Protection (Controls on Ozone-Depleting Substances) Regulations 2011[^c-b3ce538e2ec8d52a4043042bf4d9d9a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -704,7 +704,7 @@ No impact assessment has been prepared for this instrument as no impact on the p
 
 [^c21446061]: Marginal citation: [S.I. 2011/1543](https://www.legislation.gov.uk/uksi/2011/1543).
 
-[^key-570e5ae8afb91f7ea857669442b8d632]: Textual amendment: Art. 2 revoked (E.S.) (1.7.2015) by [The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (England and Scotland) Regulations 2015 (S.I. 2015/787)](https://www.legislation.gov.uk/uksi/2015/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/787/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2015/787/regulation/33), [Sch.](https://www.legislation.gov.uk/uksi/2015/787/schedule)
+[^c-570e5ae8afb91f7ea857669442b8d632]: Textual amendment: Art. 2 revoked (E.S.) (1.7.2015) by [The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (England and Scotland) Regulations 2015 (S.I. 2015/787)](https://www.legislation.gov.uk/uksi/2015/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/787/regulation/1/1), [33](https://www.legislation.gov.uk/uksi/2015/787/regulation/33), [Sch.](https://www.legislation.gov.uk/uksi/2015/787/schedule)
 
     Art. 2 revoked (W.) (28.3.2019) by [The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (Wales) Regulations 2019 (S.I. 2019/569)](https://www.legislation.gov.uk/wsi/2019/569), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/569/regulation/1/3), [Sch.](https://www.legislation.gov.uk/wsi/2019/569/schedule)
 
@@ -772,13 +772,13 @@ No impact assessment has been prepared for this instrument as no impact on the p
 
 [^c21446391]: Marginal citation: [S.I. 2009/153](https://www.legislation.gov.uk/uksi/2009/153), to which there are amendments not relevant to this Order.
 
-[^key-2264edcb1b29101bd3677a3c9d81d03f]: Textual amendment: Art. 27 revoked (7.3.2015) by [The Ozone-Depleting Substances Regulations 2015 (S.I. 2015/168)](https://www.legislation.gov.uk/uksi/2015/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/168/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2015/168/regulation/21/2/a) (with [reg. 12(7)](https://www.legislation.gov.uk/uksi/2015/168/regulation/12/7))
+[^c-2264edcb1b29101bd3677a3c9d81d03f]: Textual amendment: Art. 27 revoked (7.3.2015) by [The Ozone-Depleting Substances Regulations 2015 (S.I. 2015/168)](https://www.legislation.gov.uk/uksi/2015/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/168/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2015/168/regulation/21/2/a) (with [reg. 12(7)](https://www.legislation.gov.uk/uksi/2015/168/regulation/12/7))
 
 [^c21446411]: Marginal citation: [S.I. 2009/260](https://www.legislation.gov.uk/uksi/2009/260).
 
 [^c21446421]: Marginal citation: OJ No L 71, 9.3.2012, p.31.
 
-[^key-e34cdbc1cc000f0562fe121205f5fd29]: Textual amendment: Art. 29 omitted (19.3.2015) by virtue of [The Fluorinated Greenhouse Gases Regulations 2015 (S.I. 2015/310)](https://www.legislation.gov.uk/uksi/2015/310), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/310/regulation/1/1/b), [33(2)](https://www.legislation.gov.uk/uksi/2015/310/regulation/33/2)
+[^c-e34cdbc1cc000f0562fe121205f5fd29]: Textual amendment: Art. 29 omitted (19.3.2015) by virtue of [The Fluorinated Greenhouse Gases Regulations 2015 (S.I. 2015/310)](https://www.legislation.gov.uk/uksi/2015/310), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/310/regulation/1/1/b), [33(2)](https://www.legislation.gov.uk/uksi/2015/310/regulation/33/2)
 
 [^c21446441]: Marginal citation: [S.I. 2009/1299](https://www.legislation.gov.uk/uksi/2009/1299), to which there are amendments not relevant to this Order.
 
@@ -806,7 +806,7 @@ No impact assessment has been prepared for this instrument as no impact on the p
 
 [^c21446561]: Marginal citation: [S.I. 2011/1524](https://www.legislation.gov.uk/uksi/2011/1524), to which there is an amendment not relevant to this Order.
 
-[^key-b3ce538e2ec8d52a4043042bf4d9d9a4]: Textual amendment: [Art. 43](https://www.legislation.gov.uk/uksi/2012/2897/article/43) revoked (7.3.2015) by [The Ozone-Depleting Substances Regulations 2015 (S.I. 2015/168)](https://www.legislation.gov.uk/uksi/2015/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/168/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2015/168/regulation/21/2/a) (with [reg. 12(7)](https://www.legislation.gov.uk/uksi/2015/168/regulation/12/7))
+[^c-b3ce538e2ec8d52a4043042bf4d9d9a4]: Textual amendment: [Art. 43](https://www.legislation.gov.uk/uksi/2012/2897/article/43) revoked (7.3.2015) by [The Ozone-Depleting Substances Regulations 2015 (S.I. 2015/168)](https://www.legislation.gov.uk/uksi/2015/168), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/168/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2015/168/regulation/21/2/a) (with [reg. 12(7)](https://www.legislation.gov.uk/uksi/2015/168/regulation/12/7))
 
 [^c21446581]: Marginal citation: [S.I. 2011/2154](https://www.legislation.gov.uk/uksi/2011/2154).
 

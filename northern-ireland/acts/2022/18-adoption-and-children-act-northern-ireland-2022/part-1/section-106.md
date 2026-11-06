@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 106. Children’s court guardians[^key-c85b35fa70846890f62c3455c37397ae]
+## 106. Children’s court guardians[^c-c85b35fa70846890f62c3455c37397ae]
 
 *Extent: N.I.*
 
@@ -69,4 +69,4 @@ is not to be appointed under subsection (1).
 
 ## Annotations
 
-[^key-c85b35fa70846890f62c3455c37397ae]: Commencement: S. 106 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-c85b35fa70846890f62c3455c37397ae]: Commencement: S. 106 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

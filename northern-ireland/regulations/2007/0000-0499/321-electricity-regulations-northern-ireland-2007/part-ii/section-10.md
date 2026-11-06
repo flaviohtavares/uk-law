@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Consumer Protection[^key-a39e7e2e6032d222c94a34c5a56d3788]
+## 10. Consumer Protection[^c-a39e7e2e6032d222c94a34c5a56d3788]
 
 *Extent: N.I.*
 
@@ -119,4 +119,4 @@ For Articles 42 and 43 there shall be substituted the following Articles—
 
 ## Annotations
 
-[^key-a39e7e2e6032d222c94a34c5a56d3788]: Commencement: Reg. 10 in operation at 1.11.2007 with effect in accordance with reg. 1(3)
+[^c-a39e7e2e6032d222c94a34c5a56d3788]: Commencement: Reg. 10 in operation at 1.11.2007 with effect in accordance with reg. 1(3)

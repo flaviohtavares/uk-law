@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Restriction, suspension or withdrawal of approval[^M_E_427c62fe-5cb9-4ca5-e5d4-6023ddbc3f08][^key-819bc0dbe42933501fb9b560b0fdcea2]
+## 57. Restriction, suspension or withdrawal of approval[^M_E_427c62fe-5cb9-4ca5-e5d4-6023ddbc3f08][^c-819bc0dbe42933501fb9b560b0fdcea2]
 
 *Extent: E+W+S*
 
@@ -67,6 +67,6 @@ A notification under regulation 55 (notification) must include—
 
 [^M_E_427c62fe-5cb9-4ca5-e5d4-6023ddbc3f08]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-819bc0dbe42933501fb9b560b0fdcea2]: Textual amendment: Pt. 5 (regs. 53-59) substituted for Pt. 5 (regs. 53-60) (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 38](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/38) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-819bc0dbe42933501fb9b560b0fdcea2]: Textual amendment: Pt. 5 (regs. 53-59) substituted for Pt. 5 (regs. 53-60) (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 38](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/38) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_99305b88-472d-4c95-c2a9-560c20556464]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

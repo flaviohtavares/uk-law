@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Review of child's case before making alternative arrangements for accommodation[^key-e660ba9251d2fda97582d3363e33e9e0][^key-0c54769e3aef7f9bf0b5f5a43462e1bd]
+## 82. Review of child's case before making alternative arrangements for accommodation[^c-e660ba9251d2fda97582d3363e33e9e0][^c-0c54769e3aef7f9bf0b5f5a43462e1bd]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e660ba9251d2fda97582d3363e33e9e0]: Commencement: S. 82 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-e660ba9251d2fda97582d3363e33e9e0]: Commencement: S. 82 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-0c54769e3aef7f9bf0b5f5a43462e1bd]: Modification: S. 82 excluded by S.I. 2012/2813, reg. 2A(b) (as inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 131](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/131))
+[^c-0c54769e3aef7f9bf0b5f5a43462e1bd]: Modification: S. 82 excluded by S.I. 2012/2813, reg. 2A(b) (as inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 131](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/131))

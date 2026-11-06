@@ -24,11 +24,11 @@ Regulation 4(7)
 
 ### PART I — GENERAL PROVISIONS
 
-#### 1. Application[^key-3c7a1bcfe67456207e4349d5c5d80ae8]
+#### 1. Application[^c-3c7a1bcfe67456207e4349d5c5d80ae8]
 
 The provisions of this Schedule shall apply for the classification of preparations.
 
-#### 2. Interpretation and application[^key-566328928d6e1a8879ed2bec48250843]
+#### 2. Interpretation and application[^c-566328928d6e1a8879ed2bec48250843]
 
 (1) In this Schedule, for the purposes of classification—
 
@@ -38,7 +38,7 @@ The provisions of this Schedule shall apply for the classification of preparatio
 
 (2) In its application to preparations that are gases, this Part shall be modified so that reference to concentrations expressed as percentage by weight are to concentrations expressed as the same percentage by volume.
 
-#### 3. Classification of preparations by physico-chemical properties[^key-34fd00efefd2ae4f5f116ed62fea2241]
+#### 3. Classification of preparations by physico-chemical properties[^c-34fd00efefd2ae4f5f116ed62fea2241]
 
 (1) The requisite physico-chemical properties for the classification of preparations shall be determined in accordance with the criteria set out in the approved classification and labelling guide.
 
@@ -50,7 +50,7 @@ The provisions of this Schedule shall apply for the classification of preparatio
 - (b) in the event of a change in composition of a preparation of known composition, scientific evidence indicates that a reassessment of the hazards will not lead to a change in classification; and
 - (c) in the case of a preparation supplied in the form of an aerosol, that preparation satisfies the provisions of Article 8.1a of Council Directive [75/324/EEC](https://www.legislation.gov.uk/european/directive/1975/0324)[^f00051].
 
-#### 4. Classification of preparations by health effects[^key-bf52904e64401e54ddd3069985f97252]
+#### 4. Classification of preparations by health effects[^c-bf52904e64401e54ddd3069985f97252]
 
 (1) The health effects of a preparation shall be assessed by one or more of the following methods—
 
@@ -89,7 +89,7 @@ or,
 
 (6) The revised assessment required by sub-paragraph (5) shall not be required where there is a valid scientific justification for considering that a re-evaluation of the hazard will not result in a change of classification.
 
-#### 5. Use of concentration limits in classification for health effects by the conventional method[^key-0f0846e9dec087b490ec33db1f32ed08]
+#### 5. Use of concentration limits in classification for health effects by the conventional method[^c-0f0846e9dec087b490ec33db1f32ed08]
 
 (1) In accordance with paragraph 4(1)(a), the health effects shall be assessed by the conventional method described in paragraphs 7 to 15 using concentration limits.
 
@@ -97,7 +97,7 @@ or,
 
 (3) Where the substances concerned are dangerous substances and do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation as dangerous substances or appear there without the concentration limits necessary for the application of the method of evaluation described below, the concentration limits shall be assigned in accordance with Part II of this Schedule.
 
-#### 6. Lower limits of concentration[^key-916d071089d383cf566df20f9de09b01]
+#### 6. Lower limits of concentration[^c-916d071089d383cf566df20f9de09b01]
 
 (1) For preparations to which this Schedule applies, account shall be taken of dangerous substances which are classified as dangerous on the basis of their health or environmental effects (whether they are present as additives or impurities) when their concentrations are equal to or greater than those defined in the following table unless lower limits are given in Table 3.2 of part 3 of Annex VI of the CLP Regulation or in Part II of this Schedule—
 
@@ -134,7 +134,7 @@ or,
 
 (2) Some substances may have more than one health effect and each of these properties shall be characterised by its specific concentration limit.
 
-#### 7. Classification by the conventional method as very toxic[^key-a73eb1ea8efb36bea7cbe808820653a3]
+#### 7. Classification by the conventional method as very toxic[^c-a73eb1ea8efb36bea7cbe808820653a3]
 
 (1) The following preparations shall be classified as very toxic owing to their acute lethal effects and assigned the symbol “T+”, the indication of danger “very toxic” and the risk phrase R26, R27 or R28—
 
@@ -156,7 +156,7 @@ or,
   - (i) either the concentration specified in Table 3.2 of part 3 of Annex VI of the CLP Regulation for the substance or substances under consideration, or
   - (ii) the concentration specified in paragraph 2 of Part II of this Schedule (Table II or Table IIA) where the substance or substances do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation or appear in it without concentration limits.
 
-#### 8. Classification by the conventional method as toxic[^key-e3dfde40d8690766414f48b1285d28fd]
+#### 8. Classification by the conventional method as toxic[^c-e3dfde40d8690766414f48b1285d28fd]
 
 (1) The following preparations shall be classified as toxic owing to their acute lethal effects and assigned the symbol “T”, the indication of danger “toxic” and the risk phrase R23, R24, or R25—
 
@@ -185,7 +185,7 @@ or,
   - (i) either the concentration specified in Table 3.2 of part 3 of Annex VI of the CLP Regulation for the substance or substances under consideration, or
   - (ii) the concentration specified in paragraph 3 of Part II of this Schedule (Table III or Table IIIA) where the substance or substances do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation or appear in it without concentration limits.
 
-#### 9. Classification by the conventional method as harmful[^key-6e27125d6bfd330da507aa21862979a4]
+#### 9. Classification by the conventional method as harmful[^c-6e27125d6bfd330da507aa21862979a4]
 
 (1) The following preparations shall be classified as harmful owing to their acute lethal effects and assigned the symbol “Xn”, the indication of danger “harmful” and the risk phrase R20, R21 or R22—
 
@@ -220,7 +220,7 @@ or,
   - (i) either the concentration specified in Table 3.2 of part 3 of Annex VI of the CLP Regulation for the substance or substances under consideration, or
   - (ii) the concentration specified in paragraph 3 of Part II of this Schedule (Table III or Table IIIA) where the substance or substances do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation or appear in it without concentration limits.
 
-#### 10. Classification by the conventional method as corrosive[^key-9d8a8c98620955ff3ccae28fe9306370]
+#### 10. Classification by the conventional method as corrosive[^c-9d8a8c98620955ff3ccae28fe9306370]
 
 (1) The following preparations shall be classified as corrosive and assigned the symbol “C”, the indication of danger “corrosive” and the risk phrase R35—
 
@@ -251,7 +251,7 @@ or,
   - P<sub>C.R34</sub> is the percentage by weight or by volume of each corrosive substance to which is assigned the risk phrase R34 in the preparation,
   - L<sub>C.R34</sub> is the respective corrosive limit R34 specified for each corrosive substance to which is assigned the risk phrase R35 or R34 expressed as a percentage by weight or by volume.
 
-#### 11. Classification by the conventional method as irritant[^key-0c9ca5009d243149d41f0b6fae86a762]
+#### 11. Classification by the conventional method as irritant[^c-0c9ca5009d243149d41f0b6fae86a762]
 
 (1) The following preparations shall be classified as irritants liable to cause serious eye damage and assigned the symbol “Xi”, the indication of danger “irritant” and risk phrase R41—
 
@@ -326,7 +326,7 @@ or,
   - P<sub>Xi. R37</sub> is the percentage by volume of each irritant substance to which is assigned the risk phrase R37 in the preparation,
   - L<sub>Xi. R37</sub> is the respective irritant limit R37 specified for each gaseous corrosive substance to which is assigned the risk phrase R35 or R34 or gaseous irritant substance to which is assigned the risk phrase R37, expressed as a percentage by weight or by volume.
 
-#### 12. Classification by the conventional method as sensitising[^key-69e16b89d516ff2048ab16066b4daad1]
+#### 12. Classification by the conventional method as sensitising[^c-69e16b89d516ff2048ab16066b4daad1]
 
 (1) The following preparations shall be classified as sensitising by skin contact and assigned the symbol “Xi”, the indication of danger “irritant” and risk phrase R43—
 
@@ -340,7 +340,7 @@ or,
   - (i) either the concentration specified in Table 3.2 of part 3 of Annex VI of the CLP Regulation for the substance or substances under consideration, or
   - (ii) the concentration specified in paragraph 5 of Part II of this Schedule (Table V or Table VA) where the substance or substances do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation or appear in it without concentration limits.
 
-#### 13. Classification by the conventional method as carcinogenic[^key-e3985de4dc22f3cb36947f5a14221b19]
+#### 13. Classification by the conventional method as carcinogenic[^c-e3985de4dc22f3cb36947f5a14221b19]
 
 (1) Preparations shall be classified as carcinogenic category 1 or 2 and assigned the symbol “T” and the risk phrase R45 or R49 if they contain one or more substance producing such effects to which is assigned the risk phrase R45 or R49 which denotes carcinogenic substances in category 1 and category 2 in individual concentrations equal to or exceeding—
 
@@ -352,7 +352,7 @@ or,
 - (a) either the concentration specified in Table 3.2 of part 3 of Annex VI of the CLP Regulation for the substance or substances under consideration, or
 - (b) the concentration specified in paragraph 6 of Part II of this Schedule (Table VI or Table VIA) where the substance or substances do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation or appear in it without concentration limits.
 
-#### 14. Classification by the conventional method as mutagenic[^key-f87633ed866657301debe19d29fe7498]
+#### 14. Classification by the conventional method as mutagenic[^c-f87633ed866657301debe19d29fe7498]
 
 (1) Preparations shall be classified as mutagenic category 1 or 2 and assigned the symbol “T” and risk phrase R46 if they contain one or more substances producing such effects to which is assigned the risk phrase R46 which denotes mutagenic substances in category 1 and category 2 in individual concentrations equal to or exceeding—
 
@@ -364,7 +364,7 @@ or,
 - (a) either the concentration specified in Table 3.2 of part 3 of Annex VI of the CLP Regulation for the substance or substances under consideration, or
 - (b) the concentration specified in paragraph 6 of Part II of this Schedule (Table VI or Table VIA) where the substance or substances do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation or appear in it without concentration limits.
 
-#### 15. Classification by the conventional method as toxic for reproduction[^key-66313ae836096465546bbafb44791731]
+#### 15. Classification by the conventional method as toxic for reproduction[^c-66313ae836096465546bbafb44791731]
 
 (1) Preparations shall be classified as toxic for reproduction category 1 or 2 and assigned the symbol “T” and risk phrase R60 (fertility) if they contain one or more substances producing such effects to which is assigned the risk phrase R60 which denotes substances toxic for reproduction of category 1 and category 2 in individual concentrations equal to or exceeding—
 
@@ -386,7 +386,7 @@ or,
 - (a) either the concentration specified in Table 3.2 of part 3 of Annex VI of the CLP Regulation for the substance or substances under consideration, or
 - (b) the concentration specified in paragraph 6 of Part II of this Schedule (Table VI or Table VIA) where the substance or substances do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation or appear in it without concentration limits.
 
-#### 16. Classification of preparations for environmental hazards[^key-a916f52a262dbe7be25cd5a5fc803908]
+#### 16. Classification of preparations for environmental hazards[^c-a916f52a262dbe7be25cd5a5fc803908]
 
 (1) The environmental hazards of a preparation shall be assessed by one or more of the following methods—
 
@@ -414,7 +414,7 @@ or,
 
 (4) The revised assessment required by paragraph (3) shall not be required where there is a valid scientific justification for considering that a re-evaluation of the hazard will not result in a change of classification.
 
-#### 17. Use of concentration limits in classification for environmental effects[^key-adce91ca0fd718059ec47a8ddc95d2a8]
+#### 17. Use of concentration limits in classification for environmental effects[^c-adce91ca0fd718059ec47a8ddc95d2a8]
 
 (1) In accordance with paragraph 16(1)(a), the environmental hazards shall be assessed by the conventional method described in paragraphs 18 and 19 using concentration limits.
 
@@ -422,7 +422,7 @@ or,
 
 (3) Where the substances concerned are dangerous substances and do not appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation as dangerous substances or appear there without the concentration limits necessary for the application of the method of evaluation described below, the concentration limits shall be assigned in accordance with Part III of this Schedule.
 
-#### 18. Conventional method for the evaluation of hazards to the aquatic environment[^key-1704faf30c0cc714f149a503fce2ae4a]
+#### 18. Conventional method for the evaluation of hazards to the aquatic environment[^c-1704faf30c0cc714f149a503fce2ae4a]
 
 (1) The following preparations shall be classified as dangerous for the environment and assigned the symbol “N”, the indication of danger “dangerous for the environment” and the risk phrases R50 and R53 (R50-R53)—
 
@@ -531,7 +531,7 @@ or,
   - P<sub>R 52-53</sub> is the percentage by weight of each substance dangerous for the environment to which is assigned risk phrases R52-53 in the preparation,
   - L<sub>R 53</sub> is the respective limit R53 for each substance dangerous for the environment to which is assigned risk phrases R53, R50-53, R51-53 or R52-53 expressed as a percentage by weight.
 
-#### 19. Conventional method for the evaluation of hazards to the ozone layer[^key-8a85cc18669fb77a0628ba43cf38a33b]
+#### 19. Conventional method for the evaluation of hazards to the ozone layer[^c-8a85cc18669fb77a0628ba43cf38a33b]
 
 Preparations containing one or more substances classified as dangerous for the environment and to which is assigned the symbol “N” and the risk phrase R59 in individual concentrations equal to or greater than—
 
@@ -544,27 +544,27 @@ shall be classified as dangerous for the environment and assigned the symbol “
 
 An assessment shall be made of the health effects that the use of a substance or a preparation might entail. For that purpose the dangerous health effects have been subdivided into:
 
-**1.**[^key-77f7f3a8de9f42b6e1ecf55a02889ba0] acute lethal effects;
+**1.**[^c-77f7f3a8de9f42b6e1ecf55a02889ba0] acute lethal effects;
 
-**2.**[^key-50215e512c29c9517914873f2c38e560] non-lethal irreversible effects after a single exposure;
+**2.**[^c-50215e512c29c9517914873f2c38e560] non-lethal irreversible effects after a single exposure;
 
-**3.**[^key-b37cc74d73d9e511c752dc5145c12642] severe effects after repeated or prolonged exposure;
+**3.**[^c-b37cc74d73d9e511c752dc5145c12642] severe effects after repeated or prolonged exposure;
 
-**4.**[^key-1a346930573126d3ca1e5ae7efad8765] corrosive effects, irritant effects;
+**4.**[^c-1a346930573126d3ca1e5ae7efad8765] corrosive effects, irritant effects;
 
-**5.**[^key-dd71c63710ca1c6c88ae21b2e7e72498] sensitising effects;
+**5.**[^c-dd71c63710ca1c6c88ae21b2e7e72498] sensitising effects;
 
-**6.**[^key-6bca4e87fa5a22178257bc77dc2c205e] carcinogenic effects, mutagenic effects, toxic effects for reproduction.
+**6.**[^c-6bca4e87fa5a22178257bc77dc2c205e] carcinogenic effects, mutagenic effects, toxic effects for reproduction.
 
 The systematic assessment of the dangerous health effects is expressed by means of concentration limits, expressed as weight/weight percentage except for gaseous preparations (Tables A) where they are expressed as a volume/volume percentage and in conjunction with the classification of a substance.
 
 The classification of the substance is expressed either by a symbol and one or more risk phrases or by categories (category 1, category 2 or category 3) also expressed by risk phrases when substances are shown to be carcinogenic, mutagenic or toxic for reproduction. Therefore it is important to consider, in addition to the symbol, all the phrases denoting specific risks which are assigned to each substance under consideration.
 
-#### 1. Acute lethal effects[^key-5977dcee1cda048efb15c2420f06df3b]
+#### 1. Acute lethal effects[^c-5977dcee1cda048efb15c2420f06df3b]
 
  
 
-#### 1.1. Other than gaseous preparations[^key-b1ce7f176ce8ad0167063259564949af]
+#### 1.1. Other than gaseous preparations[^c-b1ce7f176ce8ad0167063259564949af]
 
 The concentration limits fixed in Table I determine the classification of the preparation in relation to the individual concentration of the substance(s) present whose classification is also shown.
 
@@ -585,7 +585,7 @@ The concentration limits fixed in Table I determine the classification of the pr
 </tbody>
 </table>
 
-#### 1.2. Gaseous preparations[^key-923ad202a7b4b6fb7464d7b82c90d0f6]
+#### 1.2. Gaseous preparations[^c-923ad202a7b4b6fb7464d7b82c90d0f6]
 
 The concentration limits expressed as a volume/volume percentage in Table IA determine the classification of the gaseous preparations in relation to the individual concentrations of the gas(es) present whose classification is also shown.
 
@@ -606,11 +606,11 @@ The concentration limits expressed as a volume/volume percentage in Table IA det
 </tbody>
 </table>
 
-#### 2. Non-lethal irreversible effects after a single exposure[^key-20e04da39299ceb66c3183b090f56457]
+#### 2. Non-lethal irreversible effects after a single exposure[^c-20e04da39299ceb66c3183b090f56457]
 
  
 
-#### 2.1. Other than gaseous preparations[^key-f0218751e955525bdce12ee6fafbe383]
+#### 2.1. Other than gaseous preparations[^c-f0218751e955525bdce12ee6fafbe383]
 
 For substances that produce non-lethal irreversible effects after a single exposure (R39/route of exposure, R68/route of exposure), the individual concentration limits specified in Table II determine, when appropriate, the classification of the preparation.
 
@@ -634,7 +634,7 @@ For substances that produce non-lethal irreversible effects after a single expos
 
 [^f01000][^f01000][^f01000][^f01001][^f01000][^f01000][^f01001][^f01000][^f01001]
 
-#### 2.2. Gaseous preparations[^key-e71153b48a3c370c2ef8115f0bc87985]
+#### 2.2. Gaseous preparations[^c-e71153b48a3c370c2ef8115f0bc87985]
 
 For gases that produce non-lethal irreversible effects after a single exposure (R39/route of exposure, R68/route of exposure), the individual concentration limits specified in Table IIA, expressed as a volume/volume percentage, determine, when appropriate, the classification of the preparation.
 
@@ -658,11 +658,11 @@ For gases that produce non-lethal irreversible effects after a single exposure (
 
 [^f01002][^f01002][^f01002][^f01003][^f01002][^f01002][^f01003][^f01002][^f01003]
 
-#### 3. Severe effects after repeated or prolonged exposure[^key-e0632d36e48cf343fefb028a8869bf52]
+#### 3. Severe effects after repeated or prolonged exposure[^c-e0632d36e48cf343fefb028a8869bf52]
 
  
 
-#### 3.1. Other than gaseous preparations[^key-aaf4bb2d2d49e4913d6a55d0b4214aa6]
+#### 3.1. Other than gaseous preparations[^c-aaf4bb2d2d49e4913d6a55d0b4214aa6]
 
 For substances that produce severe effects after repeated exposure (R48/route of exposure), the individual concentration limits specified in Table III determine, when appropriate, the classification of the preparation.
 
@@ -684,7 +684,7 @@ For substances that produce severe effects after repeated exposure (R48/route of
 
 [^f01004][^f01004][^f01004]
 
-#### 3.2. Gaseous preparations[^key-6aff7a2dd91459a62002668104028396]
+#### 3.2. Gaseous preparations[^c-6aff7a2dd91459a62002668104028396]
 
 For gases that produce severe effects after repeated or prolonged exposure (R48/route of exposure), the individual concentration limits specified in Table IIIA, expressed as a volume/volume percentage, determine, when appropriate, the classification of the preparation.
 
@@ -706,11 +706,11 @@ For gases that produce severe effects after repeated or prolonged exposure (R48/
 
 [^f01005][^f01005][^f01005]
 
-#### 4. Corrosive and irritant effects including serious damage to eye[^key-a4bb12d43e1cb6097f6ea8ddfbd8916f]
+#### 4. Corrosive and irritant effects including serious damage to eye[^c-a4bb12d43e1cb6097f6ea8ddfbd8916f]
 
  
 
-#### 4.1. Other than gaseous preparations[^key-9a4013a762b2fd54957142dcb79f3984]
+#### 4.1. Other than gaseous preparations[^c-9a4013a762b2fd54957142dcb79f3984]
 
 For substances that produce corrosive effects (R34, R35) or irritant effect (R36, R37, R38, R41), the individual concentration limits specified in Table IV determine, when appropriate, the classification of the preparation.
 
@@ -735,7 +735,7 @@ For substances that produce corrosive effects (R34, R35) or irritant effect (R36
 
 [^f01006][^f01006]
 
-#### 4.2. Gaseous preparations[^key-777a84b4260fe887a717a0f5b289509e]
+#### 4.2. Gaseous preparations[^c-777a84b4260fe887a717a0f5b289509e]
 
 For gases that produce such effects (R34, R35 or R36, R37, R38, R41), the individual concentration limits specified in Table IVA, expressed as a volume/volume percentage determine, when appropriate, the classification of the preparation.
 
@@ -760,11 +760,11 @@ For gases that produce such effects (R34, R35 or R36, R37, R38, R41), the indivi
 
 [^f01007][^f01007]
 
-#### 5. Sensitising effects[^key-174df01efd5c24cef83eec94b7c99be1]
+#### 5. Sensitising effects[^c-174df01efd5c24cef83eec94b7c99be1]
 
  
 
-#### 5.1. Other than gaseous preparations[^key-d97684c916d74de1a5e6d52bf7db68e6]
+#### 5.1. Other than gaseous preparations[^c-d97684c916d74de1a5e6d52bf7db68e6]
 
 Preparations that produce such effects are classified as sensitising and assigned:
 
@@ -786,7 +786,7 @@ The individual concentration limits specified in Table V determine, when appropr
 </tbody>
 </table>
 
-#### 5.2. Gaseous preparations[^key-275b8e63195f664e6e3c8556e654a9c7]
+#### 5.2. Gaseous preparations[^c-275b8e63195f664e6e3c8556e654a9c7]
 
 Gases that produce such effects are classified as sensitising and assigned:
 
@@ -808,11 +808,11 @@ The individual concentration limits specified in Table VA expressed as a volume/
 </tbody>
 </table>
 
-#### 6. Carcinogenic/mutagenic/toxic effects for reproduction[^key-045c6087aaf6bda13a39b0dd9663a3ba]
+#### 6. Carcinogenic/mutagenic/toxic effects for reproduction[^c-045c6087aaf6bda13a39b0dd9663a3ba]
 
  
 
-#### 6.1. Other than gaseous preparations[^key-e0b8f48fe8766faa04ce669f06e4f515]
+#### 6.1. Other than gaseous preparations[^c-e0b8f48fe8766faa04ce669f06e4f515]
 
 For substances that produce such effects and for which specific concentration limits do not yet appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation, concentration limits laid down in Table VI shall determine, where appropriate, the classification of the preparation.
 
@@ -854,7 +854,7 @@ The following symbol and risk phrases are assigned:
 
 [^f01008][^f01009][^f01009]
 
-#### 6.2. Gaseous preparations[^key-b96c739e710dddf1a3a34fc39bbb1201]
+#### 6.2. Gaseous preparations[^c-b96c739e710dddf1a3a34fc39bbb1201]
 
 For gases which produce such effects and for which specific concentration limits do not yet appear in Table 3.2 of part 3 of Annex VI of the CLP Regulation, concentration limits laid down in Table VIA, expressed as a volume/volume percentage, shall determine, where appropriate, the classification of the preparation.
 
@@ -898,7 +898,7 @@ The following symbol and risk phrases are assigned:
 
 ### PART III — CONCENTRATION LIMITS TO BE USED FOR THE EVALUATION OF ENVIRONMENT HAZARDS
 
-#### 1. The aquatic environment[^key-005a5d4696faa1bcbbcc4eec9c7d26df]
+#### 1. The aquatic environment[^c-005a5d4696faa1bcbbcc4eec9c7d26df]
 
 The concentration limits fixed in the following tables, expressed as a weight/weight percentage, determine the classification of the preparation in relation to the individual concentration of the substances present whose classification is also shown.
 
@@ -973,7 +973,7 @@ For preparations containing substances with a lower LC<sub>50</sub> or EC<sub>50
 | N, R51-53 | C<sub>n</sub> ≥ 25% |
 | R52-53 | C<sub>n</sub> ≥ 25% |
 
-#### 2. The non-aquatic environment[^key-6227d22d867552a44761977a678045de]
+#### 2. The non-aquatic environment[^c-6227d22d867552a44761977a678045de]
 
 The concentration limits fixed in the following table, expressed as a weight/weight percentage or, for gaseous preparations as a volume/volume percentage, determine the classification of the preparation in relation to the individual concentration of the substances present whose classification is also shown.
 
@@ -987,67 +987,67 @@ The concentration limits fixed in the following table, expressed as a weight/wei
 
 ## Annotations
 
-[^key-3c7a1bcfe67456207e4349d5c5d80ae8]: Commencement: [Sch. 3 Pt. I para. 1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/I/paragraph/1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-3c7a1bcfe67456207e4349d5c5d80ae8]: Commencement: [Sch. 3 Pt. I para. 1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/I/paragraph/1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-566328928d6e1a8879ed2bec48250843]: Commencement: [Sch. 3 Pt. I para. 2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/I/paragraph/2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-566328928d6e1a8879ed2bec48250843]: Commencement: [Sch. 3 Pt. I para. 2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/I/paragraph/2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-34fd00efefd2ae4f5f116ed62fea2241]: Commencement: [Sch. 3 Pt. I para. 3](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/I/paragraph/3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-34fd00efefd2ae4f5f116ed62fea2241]: Commencement: [Sch. 3 Pt. I para. 3](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/I/paragraph/3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
 [^f00051]: Footnote: O.J. No. L147, p.40; Article 8 is amended to add paragraph 1a by Commission Directive [2008/47/EC](https://www.legislation.gov.uk/european/directive/2008/0047), O.J. No. L96, 9.4.2008, p.15
 
-[^key-bf52904e64401e54ddd3069985f97252]: Commencement: [Sch. 3 Pt. I para. 4](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/I/paragraph/4) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-bf52904e64401e54ddd3069985f97252]: Commencement: [Sch. 3 Pt. I para. 4](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/I/paragraph/4) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-0f0846e9dec087b490ec33db1f32ed08]: Commencement: [Sch. 3 Pt. I para. 5](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/I/paragraph/5) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-0f0846e9dec087b490ec33db1f32ed08]: Commencement: [Sch. 3 Pt. I para. 5](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/I/paragraph/5) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-916d071089d383cf566df20f9de09b01]: Commencement: [Sch. 3 Pt. I para. 6](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/I/paragraph/6) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-916d071089d383cf566df20f9de09b01]: Commencement: [Sch. 3 Pt. I para. 6](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/I/paragraph/6) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-a73eb1ea8efb36bea7cbe808820653a3]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/7) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-a73eb1ea8efb36bea7cbe808820653a3]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/7) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-e3dfde40d8690766414f48b1285d28fd]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/8) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-e3dfde40d8690766414f48b1285d28fd]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/8) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-6e27125d6bfd330da507aa21862979a4]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/9) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-6e27125d6bfd330da507aa21862979a4]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/9) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-9d8a8c98620955ff3ccae28fe9306370]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/10) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-9d8a8c98620955ff3ccae28fe9306370]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/10) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-0c9ca5009d243149d41f0b6fae86a762]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/11) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-0c9ca5009d243149d41f0b6fae86a762]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/11) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-69e16b89d516ff2048ab16066b4daad1]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/12) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-69e16b89d516ff2048ab16066b4daad1]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/12) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-e3985de4dc22f3cb36947f5a14221b19]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/13) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-e3985de4dc22f3cb36947f5a14221b19]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/13) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-f87633ed866657301debe19d29fe7498]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/14) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-f87633ed866657301debe19d29fe7498]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/14) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-66313ae836096465546bbafb44791731]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/15) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-66313ae836096465546bbafb44791731]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/15) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-a916f52a262dbe7be25cd5a5fc803908]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/16) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-a916f52a262dbe7be25cd5a5fc803908]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/16) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-adce91ca0fd718059ec47a8ddc95d2a8]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/17) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-adce91ca0fd718059ec47a8ddc95d2a8]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/17) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-1704faf30c0cc714f149a503fce2ae4a]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/18) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-1704faf30c0cc714f149a503fce2ae4a]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/18) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-8a85cc18669fb77a0628ba43cf38a33b]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/19) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-8a85cc18669fb77a0628ba43cf38a33b]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/19) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-77f7f3a8de9f42b6e1ecf55a02889ba0]: Commencement: [Sch. 3 Pt. II para. 1n2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/1n2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-77f7f3a8de9f42b6e1ecf55a02889ba0]: Commencement: [Sch. 3 Pt. II para. 1n2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/1n2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-50215e512c29c9517914873f2c38e560]: Commencement: [Sch. 3 Pt. II para. 2n2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/2n2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-50215e512c29c9517914873f2c38e560]: Commencement: [Sch. 3 Pt. II para. 2n2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/2n2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-b37cc74d73d9e511c752dc5145c12642]: Commencement: [Sch. 3 Pt. II para. 3n2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/3n2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-b37cc74d73d9e511c752dc5145c12642]: Commencement: [Sch. 3 Pt. II para. 3n2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/3n2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-1a346930573126d3ca1e5ae7efad8765]: Commencement: [Sch. 3 Pt. II para. 4n2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/4n2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-1a346930573126d3ca1e5ae7efad8765]: Commencement: [Sch. 3 Pt. II para. 4n2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/4n2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-dd71c63710ca1c6c88ae21b2e7e72498]: Commencement: [Sch. 3 Pt. II para. 5n2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/5n2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-dd71c63710ca1c6c88ae21b2e7e72498]: Commencement: [Sch. 3 Pt. II para. 5n2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/5n2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-6bca4e87fa5a22178257bc77dc2c205e]: Commencement: [Sch. 3 Pt. II para. 6n2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/6n2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-6bca4e87fa5a22178257bc77dc2c205e]: Commencement: [Sch. 3 Pt. II para. 6n2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/6n2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-5977dcee1cda048efb15c2420f06df3b]: Commencement: [Sch. 3 Pt. II para. 1n3](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/1n3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-5977dcee1cda048efb15c2420f06df3b]: Commencement: [Sch. 3 Pt. II para. 1n3](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/1n3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-b1ce7f176ce8ad0167063259564949af]: Commencement: [Sch. 3 para. 1.1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/1.1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-b1ce7f176ce8ad0167063259564949af]: Commencement: [Sch. 3 para. 1.1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/1.1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-923ad202a7b4b6fb7464d7b82c90d0f6]: Commencement: [Sch. 3 para. 1.2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/1.2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-923ad202a7b4b6fb7464d7b82c90d0f6]: Commencement: [Sch. 3 para. 1.2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/1.2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-20e04da39299ceb66c3183b090f56457]: Commencement: [Sch. 3 Pt. II para. 2n3](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/2n3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-20e04da39299ceb66c3183b090f56457]: Commencement: [Sch. 3 Pt. II para. 2n3](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/2n3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-f0218751e955525bdce12ee6fafbe383]: Commencement: [Sch. 3 para. 2.1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/2.1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-f0218751e955525bdce12ee6fafbe383]: Commencement: [Sch. 3 para. 2.1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/2.1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
 [^f01000]: Footnote: (\*)
 
@@ -1057,7 +1057,7 @@ The concentration limits fixed in the following table, expressed as a weight/wei
 
     R68 here refers to substances classified as harmful. Concentration limits for substances required to be labelled R68 but classified mutagenic are given in Table VI.
 
-[^key-e71153b48a3c370c2ef8115f0bc87985]: Commencement: [Sch. 3 para. 2.2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/2.2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-e71153b48a3c370c2ef8115f0bc87985]: Commencement: [Sch. 3 para. 2.2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/2.2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
 [^f01002]: Footnote: (\*)
 
@@ -1067,54 +1067,54 @@ The concentration limits fixed in the following table, expressed as a weight/wei
 
     R68 here refers to substances classified as harmful. Concentration limits for substances required to be labelled R68 but classified mutagenic are given in Table VI.
 
-[^key-e0632d36e48cf343fefb028a8869bf52]: Commencement: [Sch. 3 Pt. II para. 3n3](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/3n3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-e0632d36e48cf343fefb028a8869bf52]: Commencement: [Sch. 3 Pt. II para. 3n3](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/3n3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-aaf4bb2d2d49e4913d6a55d0b4214aa6]: Commencement: [Sch. 3 para. 3.1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/3.1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-aaf4bb2d2d49e4913d6a55d0b4214aa6]: Commencement: [Sch. 3 para. 3.1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/3.1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
 [^f01004]: Footnote: (\*)
 
     In order to indicate the route of administration/exposure the combined R phrases listed in Annex III of Council Directive [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) shall be used.
 
-[^key-6aff7a2dd91459a62002668104028396]: Commencement: [Sch. 3 para. 3.2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/3.2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-6aff7a2dd91459a62002668104028396]: Commencement: [Sch. 3 para. 3.2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/3.2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
 [^f01005]: Footnote: (\*)
 
     In order to indicate the route of administration/exposure the combined R phrases listed in Annex III of Council Directive [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) shall be used.
 
-[^key-a4bb12d43e1cb6097f6ea8ddfbd8916f]: Commencement: [Sch. 3 Pt. II para. 4n3](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/4n3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-a4bb12d43e1cb6097f6ea8ddfbd8916f]: Commencement: [Sch. 3 Pt. II para. 4n3](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/4n3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-9a4013a762b2fd54957142dcb79f3984]: Commencement: [Sch. 3 para. 4.1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/4.1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-9a4013a762b2fd54957142dcb79f3984]: Commencement: [Sch. 3 para. 4.1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/4.1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
 [^f01006]: Footnote: (\*)
 
     According to the approved classification and labelling guide, when a substance or preparation is classified as corrosive and assigned the risk phrase R34 or R35, the risk of severe damage to the eyes is considered implicit and the risk phrase R41 is not included on the label. Consequently, if the preparation contains corrosive substances with R35 or R34 below the concentration limits for a classification of the preparation as corrosive, such substances can contribute to a classification of the preparation as irritant (R41) or irritant (R36).
 
-[^key-777a84b4260fe887a717a0f5b289509e]: Commencement: [Sch. 3 para. 4.2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/4.2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-777a84b4260fe887a717a0f5b289509e]: Commencement: [Sch. 3 para. 4.2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/4.2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
 [^f01007]: Footnote: (\*)
 
     According to the approved classification and labelling guide, when a substance or preparation is classified as corrosive and assigned the risk phrase R34 or R35, the risk of severe damage to the eyes is considered implicit and the risk phrase R41 is not included on the label. Consequently, if the preparation contains corrosive substances with R35 or R34 below the concentration limits for a classification of the preparation as corrosive, such substances can contribute to a classification of the preparation as irritant (R41) or irritant (R36).
 
-[^key-174df01efd5c24cef83eec94b7c99be1]: Commencement: [Sch. 3 Pt. II para. 5n3](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/5n3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-174df01efd5c24cef83eec94b7c99be1]: Commencement: [Sch. 3 Pt. II para. 5n3](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/5n3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-d97684c916d74de1a5e6d52bf7db68e6]: Commencement: [Sch. 3 para. 5.1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/5.1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-d97684c916d74de1a5e6d52bf7db68e6]: Commencement: [Sch. 3 para. 5.1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/5.1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-275b8e63195f664e6e3c8556e654a9c7]: Commencement: [Sch. 3 para. 5.2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/5.2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-275b8e63195f664e6e3c8556e654a9c7]: Commencement: [Sch. 3 para. 5.2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/5.2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-045c6087aaf6bda13a39b0dd9663a3ba]: Commencement: [Sch. 3 Pt. II para. 6n3](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/6n3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-045c6087aaf6bda13a39b0dd9663a3ba]: Commencement: [Sch. 3 Pt. II para. 6n3](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/II/paragraph/6n3) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-e0b8f48fe8766faa04ce669f06e4f515]: Commencement: [Sch. 3 para. 6.1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/6.1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-e0b8f48fe8766faa04ce669f06e4f515]: Commencement: [Sch. 3 para. 6.1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/6.1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
 [^f01008]: Footnote: In cases where the preparation is assigned R49 and R40, both R phrases shall be kept, because R40 does not distinguish between the exposure routes, whereas R49 is only assigned for the inhalation route.
 
 [^f01009]: Footnote: R68 here refers to substances classified as mutagenic. Concentration limits for substances required to be labelled R68 but classified as harmful are given in Table II.
 
-[^key-b96c739e710dddf1a3a34fc39bbb1201]: Commencement: [Sch. 3 para. 6.2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/6.2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-b96c739e710dddf1a3a34fc39bbb1201]: Commencement: [Sch. 3 para. 6.2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/paragraph/6.2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
 [^f01010]: Footnote: In cases where the preparation is assigned R49 and R40, both R phrases shall be kept, because R40 does not distinguish between the exposure routes, whereas R49 is only assigned for the inhalation route.
 
 [^f01011]: Footnote: R68 here refers to substances classified as mutagenic. Concentration limits for substances required to be labelled R68 but classified as harmful are given in Table IIA.
 
-[^key-005a5d4696faa1bcbbcc4eec9c7d26df]: Commencement: [Sch. 3 Pt. III para. 1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/III/paragraph/1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-005a5d4696faa1bcbbcc4eec9c7d26df]: Commencement: [Sch. 3 Pt. III para. 1](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/III/paragraph/1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
 
-[^key-6227d22d867552a44761977a678045de]: Commencement: [Sch. 3 Pt. III para. 2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/III/paragraph/2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-6227d22d867552a44761977a678045de]: Commencement: [Sch. 3 Pt. III para. 2](https://www.legislation.gov.uk/nisr/2009/238/schedule/3/part/III/paragraph/2) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)

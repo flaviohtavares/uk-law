@@ -16,68 +16,68 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX XIII — DETAILED RULES ON TRANSFERS OF SUGAR OR ISOGLUCOSE QUOTAS IN ACCORDANCE WITH ARTICLE 138[^key-182323545e74147618bd7a4d3004c354]
+## ANNEX XIII — DETAILED RULES ON TRANSFERS OF SUGAR OR ISOGLUCOSE QUOTAS IN ACCORDANCE WITH ARTICLE 138[^c-182323545e74147618bd7a4d3004c354]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-182323545e74147618bd7a4d3004c354]POINT I
+[^c-182323545e74147618bd7a4d3004c354]POINT I
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-182323545e74147618bd7a4d3004c354]POINT II
+[^c-182323545e74147618bd7a4d3004c354]POINT II
 
-[^key-182323545e74147618bd7a4d3004c354]1.
+[^c-182323545e74147618bd7a4d3004c354]1.
 
 Without prejudice to paragraph 2, in the event of the merger or transfer of sugar-producing undertakings or the transfer of sugar factories, the quota shall be adjusted as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-182323545e74147618bd7a4d3004c354]2.
+[^c-182323545e74147618bd7a4d3004c354]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-182323545e74147618bd7a4d3004c354]3.
+[^c-182323545e74147618bd7a4d3004c354]3.
 
 In the event of closure, in circumstances other than those referred to in paragraph 1, of:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-182323545e74147618bd7a4d3004c354]4.
+[^c-182323545e74147618bd7a4d3004c354]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-182323545e74147618bd7a4d3004c354]5.
+[^c-182323545e74147618bd7a4d3004c354]5.
 
 In the event of the lease of a factory belonging to a sugar-producing undertaking, the Member State may reduce the quota of the undertaking offering the factory for rent and allocate the portion by which the quota was reduced to the undertaking which rents the factory in order to produce sugar in it.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-182323545e74147618bd7a4d3004c354]6.
+[^c-182323545e74147618bd7a4d3004c354]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-182323545e74147618bd7a4d3004c354]7.
+[^c-182323545e74147618bd7a4d3004c354]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-182323545e74147618bd7a4d3004c354]POINT III
+[^c-182323545e74147618bd7a4d3004c354]POINT III
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-182323545e74147618bd7a4d3004c354]POINT IV
+[^c-182323545e74147618bd7a4d3004c354]POINT IV
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-182323545e74147618bd7a4d3004c354]POINT V
+[^c-182323545e74147618bd7a4d3004c354]POINT V
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-182323545e74147618bd7a4d3004c354]POINT VI
+[^c-182323545e74147618bd7a4d3004c354]POINT VI
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-182323545e74147618bd7a4d3004c354]: Textual amendment: Annexes 11-13 omitted (31.12.2020) by virtue of The Common Organisation of the Markets in [Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [85](https://www.legislation.gov.uk/uksi/2019/821/regulation/85); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-182323545e74147618bd7a4d3004c354]: Textual amendment: Annexes 11-13 omitted (31.12.2020) by virtue of The Common Organisation of the Markets in [Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [85](https://www.legislation.gov.uk/uksi/2019/821/regulation/85); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

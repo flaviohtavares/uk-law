@@ -44,7 +44,7 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-The Secretary of State [^c23636341], in exercise of the powers conferred by sections 1(1)(a) and (c) and (3), 3(1)(a), (b)(ii) and (iii), (c)(ii) and (iii), (d) and (e)(ii) and (iii), 3(2)(a), (b) and (c), 4, 5 to 8, 9(2)(a), 10(2), (3) and (4), 11(2) to (9), 13, 14, 15(2), (3), (4)(b), (5) and (6), 16, 17(2) to (9), 19, 20, 21(1), 54(1) and (2)(a), 56(1) and 62(4) to (6) of, and paragraphs 2(a)(iii) and (b), 3(a), (b) and (c)(iii)*,* 4(a)(iii), (b) and (c), 5(a)(ii) and (iii), (b), (c) and (d), 6(a)(ii) and (iii), (b) and (c), 7(a)(ii) and (iii) and (b), 8(c), 9(a)(iii), 11(a), 12(a)(ii), 13(a), (b), (d), (g), (h), (k), (l), (m), (n), (p), (r) and (w), 14(a), (f), (g), (i), (j) and (k), 17, 19, 20, 21, 22, 23 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018 [^c23636351], and having decided, upon consideration of the matters set out in section 2(2) and 56(1) of that Act, that it is appropriate to do so, makes the following Regulations:[^key-6176f0bcaccd014d6170275d08050b2d]
+The Secretary of State [^c23636341], in exercise of the powers conferred by sections 1(1)(a) and (c) and (3), 3(1)(a), (b)(ii) and (iii), (c)(ii) and (iii), (d) and (e)(ii) and (iii), 3(2)(a), (b) and (c), 4, 5 to 8, 9(2)(a), 10(2), (3) and (4), 11(2) to (9), 13, 14, 15(2), (3), (4)(b), (5) and (6), 16, 17(2) to (9), 19, 20, 21(1), 54(1) and (2)(a), 56(1) and 62(4) to (6) of, and paragraphs 2(a)(iii) and (b), 3(a), (b) and (c)(iii)*,* 4(a)(iii), (b) and (c), 5(a)(ii) and (iii), (b), (c) and (d), 6(a)(ii) and (iii), (b) and (c), 7(a)(ii) and (iii) and (b), 8(c), 9(a)(iii), 11(a), 12(a)(ii), 13(a), (b), (d), (g), (h), (k), (l), (m), (n), (p), (r) and (w), 14(a), (f), (g), (i), (j) and (k), 17, 19, 20, 21, 22, 23 and 27 of Schedule 1 to, the Sanctions and Anti-Money Laundering Act 2018 [^c23636351], and having decided, upon consideration of the matters set out in section 2(2) and 56(1) of that Act, that it is appropriate to do so, makes the following Regulations:[^c-6176f0bcaccd014d6170275d08050b2d]
 
 ## Contents
 
@@ -117,7 +117,7 @@ The Secretary of State [^c23636341], in exercise of the powers conferred by sect
 - [Section 32 — Meaning of “designated person” in Part 4](part-4/section-32.md)
 - [Section 33 — Interpretation of Part 4](part-4/section-33.md)
 
-### PART 4A — Director disqualification sanctions[^key-0d6d5e674c847d80f1858e53959d9f7f]
+### PART 4A — Director disqualification sanctions[^c-0d6d5e674c847d80f1858e53959d9f7f]
 
 - [Section 33A — Director disqualification sanctions](part-4a/section-33a.md)
 
@@ -144,7 +144,7 @@ The Secretary of State [^c23636341], in exercise of the powers conferred by sect
 - [Section 41 — Financial services and funds relating to restricted goods and restricted technology](part-6/section-41.md)
 - [Section 42 — Brokering services: non-UK activity relating to restricted goods and restricted technology](part-6/section-42.md)
 
-#### CHAPTER 2 — Other goods, technology , services and land[^key-f9e14f30c8c77beb9d2b20c11c43beb6]
+#### CHAPTER 2 — Other goods, technology , services and land[^c-f9e14f30c8c77beb9d2b20c11c43beb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -350,8 +350,8 @@ An Impact Assessment has not been produced for these Regulations, as the instrum
 
 [^c23636351]: Marginal citation: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13).
 
-[^key-6176f0bcaccd014d6170275d08050b2d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/411) extended (British overseas territories) (with modifications) (31.12.2020 immediately after both S.I. 2020/591 and S.I. 2020/950 have come into force) by [The Democratic People’s Republic of Korea (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1561)](https://www.legislation.gov.uk/uksi/2020/1561), [art. 2](https://www.legislation.gov.uk/uksi/2020/1561/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1561/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1561/schedule/2) (as amended (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1307/schedule/3)); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5), [17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-6176f0bcaccd014d6170275d08050b2d]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/411) extended (British overseas territories) (with modifications) (31.12.2020 immediately after both S.I. 2020/591 and S.I. 2020/950 have come into force) by [The Democratic People’s Republic of Korea (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1561)](https://www.legislation.gov.uk/uksi/2020/1561), [art. 2](https://www.legislation.gov.uk/uksi/2020/1561/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1561/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1561/schedule/2) (as amended (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1307/schedule/3)); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5), [17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
-[^key-0d6d5e674c847d80f1858e53959d9f7f]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2019/411/part/4A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/644/regulation/2/4)
+[^c-0d6d5e674c847d80f1858e53959d9f7f]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2019/411/part/4A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/644/regulation/2/4)
 
-[^key-f9e14f30c8c77beb9d2b20c11c43beb6]: Textual amendment: Words in [Pt. 6 Ch. 2](https://www.legislation.gov.uk/uksi/2019/411/part/6/chapter/2) heading substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/3/5)
+[^c-f9e14f30c8c77beb9d2b20c11c43beb6]: Textual amendment: Words in [Pt. 6 Ch. 2](https://www.legislation.gov.uk/uksi/2019/411/part/6/chapter/2) heading substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/3/5)

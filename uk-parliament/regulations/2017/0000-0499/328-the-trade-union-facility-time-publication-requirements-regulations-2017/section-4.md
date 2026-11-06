@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Meaning of total cost of facility time[^key-d70ffede8d4a7283c4e00c7fc7f56126]
+## 4. Meaning of total cost of facility time[^c-d70ffede8d4a7283c4e00c7fc7f56126]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d70ffede8d4a7283c4e00c7fc7f56126]: Commencement: Reg. 4 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)
+[^c-d70ffede8d4a7283c4e00c7fc7f56126]: Commencement: Reg. 4 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)

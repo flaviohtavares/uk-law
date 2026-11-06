@@ -22,7 +22,7 @@ summary: ''
 
 Article 13
 
-### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^key-a45470a02a08ac9123f6059708446dd6]
+### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^c-a45470a02a08ac9123f6059708446dd6]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of means of access* |
 | --- | --- | --- |
@@ -42,7 +42,7 @@ Article 13
 | District of West Lindsey | Thorpe Lane, at Thorpe Bridge | The provision of a permanent means of access to the authorised development from the point marked AC001 on sheet 12 of the access plan |
 | District of West Lindsey | Stone Pit Lane, at Cot Garth Lane | The provision of a permanent means of access to the authorised development from the point marked AC013 on sheet 14 of the access plan |
 
-### PART 2 — TEMPORARY MEANS OF ACCESS[^key-6aa9ad330510da5e3f1879bca66bd487]
+### PART 2 — TEMPORARY MEANS OF ACCESS[^c-6aa9ad330510da5e3f1879bca66bd487]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of means of access* |
 | --- | --- | --- |
@@ -83,6 +83,6 @@ Article 13
 
 ## Annotations
 
-[^key-a45470a02a08ac9123f6059708446dd6]: Commencement: Sch. 7 Pt. 1 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-a45470a02a08ac9123f6059708446dd6]: Commencement: Sch. 7 Pt. 1 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
-[^key-6aa9ad330510da5e3f1879bca66bd487]: Commencement: Sch. 7 Pt. 2 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-6aa9ad330510da5e3f1879bca66bd487]: Commencement: Sch. 7 Pt. 2 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)

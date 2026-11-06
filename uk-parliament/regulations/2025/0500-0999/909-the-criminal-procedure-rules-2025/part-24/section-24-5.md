@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24.5. Evidence of a witness in writing[^key-8b4da8c70988bfa75df7ad102a74cde8]
+## 24.5. Evidence of a witness in writing[^c-8b4da8c70988bfa75df7ad102a74cde8]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b4da8c70988bfa75df7ad102a74cde8]: Commencement: [Rule 24.5](https://www.legislation.gov.uk/uksi/2025/909/rule/24.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8b4da8c70988bfa75df7ad102a74cde8]: Commencement: [Rule 24.5](https://www.legislation.gov.uk/uksi/2025/909/rule/24.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00535]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); section 120 was amended by sections 112 and 178 of, and Schedule 23 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25).

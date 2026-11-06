@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Arrest under warrant under section 10[^key-ca7888b0ff84d501e5be7d2ff698b62e]
+## 11. Arrest under warrant under section 10[^c-ca7888b0ff84d501e5be7d2ff698b62e]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca7888b0ff84d501e5be7d2ff698b62e]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2016/21/section/11) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-ca7888b0ff84d501e5be7d2ff698b62e]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2016/21/section/11) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

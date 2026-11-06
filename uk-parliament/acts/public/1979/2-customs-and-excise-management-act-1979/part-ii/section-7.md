@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Privileges of Commissioners, etc.[^key-7ba7d598b9333a8953718fdd37337a11]
+## 7. Privileges of Commissioners, etc.[^c-7ba7d598b9333a8953718fdd37337a11]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ba7d598b9333a8953718fdd37337a11]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1979/2/section/7) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 21(b)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/21/b), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
+[^c-7ba7d598b9333a8953718fdd37337a11]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1979/2/section/7) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 21(b)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/21/b), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)

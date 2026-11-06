@@ -46,13 +46,13 @@ In accordance with Article 47(3A) of the Food Safety (Northern Ireland) Order 19
 
 As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004] there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## 1. Citation, commencement and interpretation[^key-419e5812adfa83be33add4e24a12e2f4]
+## 1. Citation, commencement and interpretation[^c-419e5812adfa83be33add4e24a12e2f4]
 
 These Regulations may be cited as the Breakfast Foods (Amendment) Regulations (Northern Ireland) 2026 and come into operation on 14th June 2026.
 
-**2.**[^key-1a4074ee27a5f8bb09cfbf3ba05e44a5][^key-419e5812adfa83be33add4e24a12e2f4] The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
+**2.**[^c-1a4074ee27a5f8bb09cfbf3ba05e44a5][^c-419e5812adfa83be33add4e24a12e2f4] The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Amendment to the Honey Regulations (Northern Ireland) 2015[^key-da3f88cb6faa0005b9c17cbee47e2201]
+## 3. Amendment to the Honey Regulations (Northern Ireland) 2015[^c-da3f88cb6faa0005b9c17cbee47e2201]
 
 (1) The Honey Regulations (Northern Ireland) 2015[^f00006] are amended as follows.
 
@@ -127,7 +127,7 @@ These Regulations may be cited as the Breakfast Foods (Amendment) Regulations (N
 
 (9) In Schedule 1 (Compositional criteria) omit paragraph 11.
 
-## 4. Amendment to the Jam and Similar Products Regulations (Northern Ireland) 2018[^key-4b19585149ab262b7e76e6c61de60031]
+## 4. Amendment to the Jam and Similar Products Regulations (Northern Ireland) 2018[^c-4b19585149ab262b7e76e6c61de60031]
 
 (1) The Jam and Similar Products Regulations (Northern Ireland) 2018[^f00007] are amended as follows.
 
@@ -169,7 +169,7 @@ These Regulations may be cited as the Breakfast Foods (Amendment) Regulations (N
 - (f) in Part 6 (Marmalade) in every place that “marmalade” appears substitute “citrus marmalade”;
 - (g) in Part 7 (Jelly marmalade) in paragraph 1 after “the requirements for” insert “citrus”.
 
-## 5. Amendment to the Fruit Juices and Fruit Nectars Regulations (Northern Ireland) 2013[^key-6f20c2ff1a70582c24b7fa27cd556298]
+## 5. Amendment to the Fruit Juices and Fruit Nectars Regulations (Northern Ireland) 2013[^c-6f20c2ff1a70582c24b7fa27cd556298]
 
 (1) The Fruit Juices and Fruit Nectars Regulations (Northern Ireland) 2013[^f00008] are amended as follows.
 
@@ -287,7 +287,7 @@ These Regulations may be cited as the Breakfast Foods (Amendment) Regulations (N
 > | --- | --- | --- |
 > | Coconut (\*) | Cocos nucifera L. | 4.5 |
 
-## 6. Amendment to the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018[^key-823562ba34b40b75e0528fa5587aae13]
+## 6. Amendment to the Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018[^c-823562ba34b40b75e0528fa5587aae13]
 
 (1) The Condensed Milk and Dried Milk Regulations (Northern Ireland) 2018[^f00009] are amended as follows.
 
@@ -320,7 +320,7 @@ These Regulations may be cited as the Breakfast Foods (Amendment) Regulations (N
 
 (5) In Paragraph 1 of Schedule 2 (Permitted alternative descriptions to the reserved descriptions specified in Schedule 1) for “9% fat and 31%” substitute “7.5 % fat and 25%”.
 
-## 7. Transitional Provisions[^key-891711a2ed41492a6d4f9fbd562ce97d]
+## 7. Transitional Provisions[^c-891711a2ed41492a6d4f9fbd562ce97d]
 
 (1) Any products lawfully placed on the market or labelled before 14 June 2026 in accordance with the Regulations as in operation at the time may continue to be marketed until these stocks are exhausted.
 
@@ -337,7 +337,7 @@ Kathryn Baker
 
 A senior officer of the Department of Health
 
-## SCHEDULE[^key-d42c8f760a8604e969350cd2fb614ca8]
+## SCHEDULE[^c-d42c8f760a8604e969350cd2fb614ca8]
 
 Regulation 5(12)
 
@@ -447,28 +447,28 @@ A transposition note and an impact assessment of the effect that this Statutory 
 
 [^f00004]: Footnote: OJ No. L 31, 1.2.2002, p. 1
 
-[^key-419e5812adfa83be33add4e24a12e2f4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)
+[^c-419e5812adfa83be33add4e24a12e2f4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)
 
-[^key-1a4074ee27a5f8bb09cfbf3ba05e44a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/5/regulation/2) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)
+[^c-1a4074ee27a5f8bb09cfbf3ba05e44a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2026/5/regulation/2) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)
 
 [^f00005]: Footnote: [1954 c.33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-da3f88cb6faa0005b9c17cbee47e2201]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2026/5/regulation/3) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)
+[^c-da3f88cb6faa0005b9c17cbee47e2201]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2026/5/regulation/3) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)
 
 [^f00006]: Footnote: [S.R. 2015 No. 261](https://www.legislation.gov.uk/nisr/2015/261), as amended by [S.R. 2019 No. 5](https://www.legislation.gov.uk/nisr/2019/5)
 
-[^key-4b19585149ab262b7e76e6c61de60031]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2026/5/regulation/4) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)
+[^c-4b19585149ab262b7e76e6c61de60031]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2026/5/regulation/4) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)
 
 [^f00007]: Footnote: [S.R. 2018 No. 78](https://www.legislation.gov.uk/nisr/2018/78) to which there are amendments not relevant to these Regulations
 
-[^key-6f20c2ff1a70582c24b7fa27cd556298]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2026/5/regulation/5) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)
+[^c-6f20c2ff1a70582c24b7fa27cd556298]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2026/5/regulation/5) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)
 
 [^f00008]: Footnote: [S.R. 2013 No. 253](https://www.legislation.gov.uk/nisr/2013/253) as amended by [S.R. 2019 No. 5](https://www.legislation.gov.uk/nisr/2019/5) and to which there are other amendments not relevant to these Regulations
 
-[^key-823562ba34b40b75e0528fa5587aae13]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2026/5/regulation/6) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)
+[^c-823562ba34b40b75e0528fa5587aae13]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2026/5/regulation/6) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)
 
 [^f00009]: Footnote: [S.R. 2018 No. 77](https://www.legislation.gov.uk/nisr/2018/77)
 
-[^key-891711a2ed41492a6d4f9fbd562ce97d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2026/5/regulation/7) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)
+[^c-891711a2ed41492a6d4f9fbd562ce97d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2026/5/regulation/7) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)
 
-[^key-d42c8f760a8604e969350cd2fb614ca8]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2026/5/schedule) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)
+[^c-d42c8f760a8604e969350cd2fb614ca8]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2026/5/schedule) in operation at 14.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/5/regulation/1)

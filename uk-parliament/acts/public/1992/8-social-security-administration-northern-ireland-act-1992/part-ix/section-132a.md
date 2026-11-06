@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132A. Annual up-rating of basic pension etc. and standard minimum guarantee[^key-b664c577e7a14b30d7156782a84d0f88]
+## 132A. Annual up-rating of basic pension etc. and standard minimum guarantee[^c-b664c577e7a14b30d7156782a84d0f88]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Whenever the Secretary of State makes an order under section 150A of the Great B
 
 ## Annotations
 
-[^key-b664c577e7a14b30d7156782a84d0f88]: Textual amendment: S. 132A inserted (with effect in accordance with s. 5(3)(4) of the amending Act) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 5(1)](https://www.legislation.gov.uk/nia/2008/1/section/5/1)
+[^c-b664c577e7a14b30d7156782a84d0f88]: Textual amendment: S. 132A inserted (with effect in accordance with s. 5(3)(4) of the amending Act) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 5(1)](https://www.legislation.gov.uk/nia/2008/1/section/5/1)

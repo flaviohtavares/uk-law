@@ -47,7 +47,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 .
 
-## 2. Commencement.[^key-d20951f0b77e91b46af558e07c4505ed]
+## 2. Commencement.[^c-d20951f0b77e91b46af558e07c4505ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -63,4 +63,4 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 [^c766204]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-d20951f0b77e91b46af558e07c4505ed]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1985/39/section/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 7
+[^c-d20951f0b77e91b46af558e07c4505ed]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1985/39/section/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 7

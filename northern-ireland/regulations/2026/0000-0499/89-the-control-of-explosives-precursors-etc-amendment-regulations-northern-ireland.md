@@ -53,7 +53,7 @@ which are, with modifications, exercisable by the Secretary of State in relation
 
 In accordance with Article 46(1) of the Health and Safety at Work (Northern Ireland) Order 1978, the Secretary of State has consulted with the Health and Safety Executive for Northern Ireland and such other bodies as appear to the Secretary of State to be appropriate.
 
-## 1. Citation, commencement and extent[^key-9bd9a4bef4a4cc3f97cf2982ee50541b]
+## 1. Citation, commencement and extent[^c-9bd9a4bef4a4cc3f97cf2982ee50541b]
 
 (1) These Regulations may be cited as the Control of Explosives Precursors etc. (Amendment) Regulations (Northern Ireland) 2026.
 
@@ -61,11 +61,11 @@ In accordance with Article 46(1) of the Health and Safety at Work (Northern Irel
 
 (3) These Regulations extend to Northern Ireland.
 
-## 2. Amendment of the Control of Explosives Precursors etc. Regulations (Northern Ireland) 2014[^key-215ce9e8f49ece14c2fb334a681c9888]
+## 2. Amendment of the Control of Explosives Precursors etc. Regulations (Northern Ireland) 2014[^c-215ce9e8f49ece14c2fb334a681c9888]
 
 The Control of Explosives Precursors etc. Regulations (Northern Ireland) 2014[^f00003] are amended in accordance with regulations 3 to 20.
 
-## 3. New and updated definitions[^key-47c60171ab7530755ede2cc239e4356c]
+## 3. New and updated definitions[^c-47c60171ab7530755ede2cc239e4356c]
 
 In regulation 2, in paragraph (1)—
 
@@ -110,7 +110,7 @@ In regulation 2, in paragraph (1)—
   ;
 - (j) in the definition of “using”, after “treating” insert “, consuming, keeping, filling into containers, transferring from one container to another”.
 
-## 4. Control of hydrochloric and phosphoric acids[^key-776f108e93c44fbf4905629288b53dfb]
+## 4. Control of hydrochloric and phosphoric acids[^c-776f108e93c44fbf4905629288b53dfb]
 
 After regulation 3 insert—
 
@@ -140,7 +140,7 @@ After regulation 3 insert—
 
 .
 
-## 5. Control of hexamine[^key-1b71c40a576e378fa525636615566d08]
+## 5. Control of hexamine[^c-1b71c40a576e378fa525636615566d08]
 
 After regulation 3B (as inserted by regulation 4) insert—
 
@@ -159,7 +159,7 @@ After regulation 3B (as inserted by regulation 4) insert—
 
 .
 
-## 6. Control of sulfur[^key-834bf76a0eac6e35f937c3b31dc5d48f]
+## 6. Control of sulfur[^c-834bf76a0eac6e35f937c3b31dc5d48f]
 
 After regulation 3C (as inserted by regulation 5) insert—
 
@@ -176,7 +176,7 @@ After regulation 3C (as inserted by regulation 5) insert—
 
 .
 
-## 7. Update to definition of “tier 2 substance” etc[^key-5403bce6cdd9ed8d4be241282522856d]
+## 7. Update to definition of “tier 2 substance” etc[^c-5403bce6cdd9ed8d4be241282522856d]
 
 In regulation 4—
 
@@ -192,7 +192,7 @@ In regulation 4—
 
   .
 
-## 8. Grant of licences[^key-b6ab63c7233e09953f6b6af6f5504577]
+## 8. Grant of licences[^c-b6ab63c7233e09953f6b6af6f5504577]
 
 In regulation 5—
 
@@ -224,7 +224,7 @@ In regulation 5—
 
   .
 
-## 9. Reporting of significant disappearances and thefts[^key-5d9abad6204f36b083bb2ba119450f35]
+## 9. Reporting of significant disappearances and thefts[^c-5d9abad6204f36b083bb2ba119450f35]
 
 After regulation 10 insert—
 
@@ -234,14 +234,14 @@ After regulation 10 insert—
 
 .
 
-## 10. Recognised non-NI licences[^key-d1be90011ca56e0445fb362487051b6f]
+## 10. Recognised non-NI licences[^c-d1be90011ca56e0445fb362487051b6f]
 
 In regulation 11—
 
 - (a) in paragraph (2) for “Article 7(6)” substitute “Article 6(7)”;
 - (b) omit paragraph (4).
 
-## 11. Suppliers: instructing employees[^key-328c4c5b96635f37a25ca9f45d6dbfdf]
+## 11. Suppliers: instructing employees[^c-328c4c5b96635f37a25ca9f45d6dbfdf]
 
 Before regulation 12 insert—
 
@@ -266,7 +266,7 @@ Before regulation 12 insert—
 
 .
 
-## 12. Supply of tier 1 substances[^key-f85aaeb89477c8aa26da521a16d81fdb]
+## 12. Supply of tier 1 substances[^c-f85aaeb89477c8aa26da521a16d81fdb]
 
 In regulation 12—
 
@@ -290,7 +290,7 @@ In regulation 12—
   - (iii) after the definition of “parent or guardian” omit “and”;
   - (iv) omit the definition of “relevant Great Britain legislation”.
 
-## 13. Supply of tier 2 substances[^key-2abe920b23e986137188ec0601557da3]
+## 13. Supply of tier 2 substances[^c-2abe920b23e986137188ec0601557da3]
 
 In regulation 13—
 
@@ -330,7 +330,7 @@ In regulation 13—
   - (ii) after the definition of “parent or guardian” omit “and”;
   - (iii) omit the definition of “relevant Great Britain legislation”.
 
-## 14. Labelling: Annex I substances[^key-c7a861eb2fdf99982da5193ac1dde496]
+## 14. Labelling: Annex I substances[^c-c7a861eb2fdf99982da5193ac1dde496]
 
 In regulation 15—
 
@@ -342,15 +342,15 @@ In regulation 15—
 - (b) in paragraph (2), after “acquisition” insert “, importation”;
 - (c) omit paragraph (4).
 
-## 15. Application of enforcement provisions in the 1978 Order[^key-f3bb843db945f9c01fadfe40b968150c]
+## 15. Application of enforcement provisions in the 1978 Order[^c-f3bb843db945f9c01fadfe40b968150c]
 
 In regulation 18, in paragraph (1) for “Articles 4(1), 5, 9(3) and 9(4)” substitute “Articles 5(1) and (2), 7, 8 and 9(1), (2) and (4) to (6)”.
 
-## 16. Enforcement[^key-87c7ea7f6d466deda34980d6c1b34c95]
+## 16. Enforcement[^c-87c7ea7f6d466deda34980d6c1b34c95]
 
 In regulation 19, in paragraph (2) omit “and Article 5 of the Precursors Regulation”.
 
-## 17. Defence of due diligence[^key-e5d926bbf8642319775d109f0d16762e]
+## 17. Defence of due diligence[^c-e5d926bbf8642319775d109f0d16762e]
 
 In regulation 20—
 
@@ -368,7 +368,7 @@ In regulation 20—
   ;
 - (b) in paragraph (1), for the words from “in any proceedings” to “(by virtue of regulation 18),” substitute “in any such proceedings”.
 
-## 18. Proof of lack of knowledge[^key-52ce4fa70feab116093c9f464cde375c]
+## 18. Proof of lack of knowledge[^c-52ce4fa70feab116093c9f464cde375c]
 
 In regulation 21—
 
@@ -382,11 +382,11 @@ In regulation 21—
 
   .
 
-## 19. Guidance[^key-2a84633c24a8a44168388eead133949a]
+## 19. Guidance[^c-2a84633c24a8a44168388eead133949a]
 
 In regulation 24, in paragraph (1)(c) for “Articles 5 and 9” substitute “Articles 7 to 9”.
 
-## 20. Modifications to the Precursors Regulation relating to control of hydrochloric and phosphoric acids, hexamine and sulfur[^key-d9c971847b6f90ecb42bd4c6dfa00c85]
+## 20. Modifications to the Precursors Regulation relating to control of hydrochloric and phosphoric acids, hexamine and sulfur[^c-d9c971847b6f90ecb42bd4c6dfa00c85]
 
 After Schedule 1 insert—
 
@@ -542,13 +542,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976). Paragraph 4(1)(b) of Schedule 12 enables the Secretary of State to make regulations for purposes connected with any reserved matter falling within paragraph 12 or 20 of Schedule 3 to the Northern Ireland Act [1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47) (reserved matters: firearms and explosives; import and export controls). By paragraph 4(3) and (4) of Schedule 12 to [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976), the Secretary of State’s powers under [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039) to make orders or regulations are exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 ([S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573)), and any orders and regulations are subject to annulment in pursuance of a resolution of either House of Parliament and section 5 of the Statutory Instruments Act [1946 (c. 36)](https://www.legislation.gov.uk/ukpga/1946/36) applies accordingly.
 
-[^key-9bd9a4bef4a4cc3f97cf2982ee50541b]: Commencement: Reg. 1 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-9bd9a4bef4a4cc3f97cf2982ee50541b]: Commencement: Reg. 1 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-215ce9e8f49ece14c2fb334a681c9888]: Commencement: Reg. 2 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-215ce9e8f49ece14c2fb334a681c9888]: Commencement: Reg. 2 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2014 No. 224](https://www.legislation.gov.uk/nisr/2014/224), amended by [S.I. 2019/742](https://www.legislation.gov.uk/uksi/2019/742); there are other amending instruments but none is relevant.
 
-[^key-47c60171ab7530755ede2cc239e4356c]: Commencement: Reg. 3 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-47c60171ab7530755ede2cc239e4356c]: Commencement: Reg. 3 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
 [^f00004]: Footnote: Command Paper 2073 (Cm 2073) and OJ L 1, 3.1.1994, p. 3.
 
@@ -556,40 +556,40 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00006]: Footnote: OJ L 186, 11.7.2019, p. 1, as corrected by Corrigendum OJ L 231, 6.9.2019, p. 30. [Regulation (EU) 2019/1148](https://www.legislation.gov.uk/european/regulation/2019/1148) was incorporated in Annex II (technical regulations, standards, testing and certification) to the agreement on the European Economic Area by Decision of the EEA Joint Committee No 66/2024 of 15 March 2024 (OJ L 1580, 4.7.2024 and EEA Supplement No 52, 4.7.2024, p. 42).
 
-[^key-776f108e93c44fbf4905629288b53dfb]: Commencement: Reg. 4 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-776f108e93c44fbf4905629288b53dfb]: Commencement: Reg. 4 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-1b71c40a576e378fa525636615566d08]: Commencement: Reg. 5 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-1b71c40a576e378fa525636615566d08]: Commencement: Reg. 5 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-834bf76a0eac6e35f937c3b31dc5d48f]: Commencement: Reg. 6 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-834bf76a0eac6e35f937c3b31dc5d48f]: Commencement: Reg. 6 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-5403bce6cdd9ed8d4be241282522856d]: Commencement: Reg. 7 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-5403bce6cdd9ed8d4be241282522856d]: Commencement: Reg. 7 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-b6ab63c7233e09953f6b6af6f5504577]: Commencement: Reg. 8 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-b6ab63c7233e09953f6b6af6f5504577]: Commencement: Reg. 8 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-5d9abad6204f36b083bb2ba119450f35]: Commencement: Reg. 9 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-5d9abad6204f36b083bb2ba119450f35]: Commencement: Reg. 9 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-d1be90011ca56e0445fb362487051b6f]: Commencement: Reg. 10 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-d1be90011ca56e0445fb362487051b6f]: Commencement: Reg. 10 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-328c4c5b96635f37a25ca9f45d6dbfdf]: Commencement: Reg. 11 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-328c4c5b96635f37a25ca9f45d6dbfdf]: Commencement: Reg. 11 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-f85aaeb89477c8aa26da521a16d81fdb]: Commencement: Reg. 12 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-f85aaeb89477c8aa26da521a16d81fdb]: Commencement: Reg. 12 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
 [^f00007]: Footnote: [1972 c. 66](https://www.legislation.gov.uk/ukpga/1972/66). Section 4A was inserted by paragraph 6 of Schedule 21 to the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 
 [^f00008]: Footnote: Section 2 of the Poisons Act 1972 was substituted by paragraph 3 of Schedule 21 to the Deregulation Act 2015.
 
-[^key-2abe920b23e986137188ec0601557da3]: Commencement: Reg. 13 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-2abe920b23e986137188ec0601557da3]: Commencement: Reg. 13 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-c7a861eb2fdf99982da5193ac1dde496]: Commencement: Reg. 14 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-c7a861eb2fdf99982da5193ac1dde496]: Commencement: Reg. 14 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-f3bb843db945f9c01fadfe40b968150c]: Commencement: Reg. 15 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-f3bb843db945f9c01fadfe40b968150c]: Commencement: Reg. 15 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-87c7ea7f6d466deda34980d6c1b34c95]: Commencement: Reg. 16 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-87c7ea7f6d466deda34980d6c1b34c95]: Commencement: Reg. 16 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-e5d926bbf8642319775d109f0d16762e]: Commencement: Reg. 17 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-e5d926bbf8642319775d109f0d16762e]: Commencement: Reg. 17 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-52ce4fa70feab116093c9f464cde375c]: Commencement: Reg. 18 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-52ce4fa70feab116093c9f464cde375c]: Commencement: Reg. 18 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-2a84633c24a8a44168388eead133949a]: Commencement: Reg. 19 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-2a84633c24a8a44168388eead133949a]: Commencement: Reg. 19 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
 
-[^key-d9c971847b6f90ecb42bd4c6dfa00c85]: Commencement: Reg. 20 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)
+[^c-d9c971847b6f90ecb42bd4c6dfa00c85]: Commencement: Reg. 20 in operation at 8.6.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/89/regulation/1/2)

@@ -25,7 +25,7 @@ summary: ''
 - (a) he fails to leave the relevant land as soon as reasonably practicable,or
 - (b) he enters any land in the area of the relevant local authority as a trespasser before the end of the relevant period with the intention of residing there.
 
-(2) The relevant period is the period of three[^key-19779e2c12727ab1e2303256144c895f] months starting with the day on which the direction is given.
+(2) The relevant period is the period of three[^c-19779e2c12727ab1e2303256144c895f] months starting with the day on which the direction is given.
 
 (3) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding 3 months or a fine not exceeding level 4 on the standard scale or both.
 
@@ -43,6 +43,6 @@ summary: ''
 
 [^c19808881]: Textual amendment: S. 62B inserted (E.W.) (27.2.2004) by Anti-social [Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 61](https://www.legislation.gov.uk/ukpga/2003/38/section/61), [93](https://www.legislation.gov.uk/ukpga/2003/38/section/93); [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/b)
 
-[^key-19779e2c12727ab1e2303256144c895f]: Textual amendment: Word in s. 62B(2) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 168(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/168/5), [255(3)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/f)
+[^c-19779e2c12727ab1e2303256144c895f]: Textual amendment: Word in s. 62B(2) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 168(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/168/5), [255(3)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/f)
 
 [^c19818661]: Textual amendment: S. 62B(4) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111), [174](https://www.legislation.gov.uk/ukpga/2005/15/section/174), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 7 para. 31(2)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/31/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), {2(1)(u)(xxxvi)} (subject to art. 2(2))

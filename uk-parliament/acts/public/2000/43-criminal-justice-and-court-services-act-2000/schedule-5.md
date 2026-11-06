@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Amendments of the Sex Offenders Act 1997[^key-613e83985c68ec9eacae832b536b0805]
+## SCHEDULE 5 — Amendments of the Sex Offenders Act 1997[^c-613e83985c68ec9eacae832b536b0805]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,40 +28,40 @@ Section 66.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-613e83985c68ec9eacae832b536b0805]
+[^c-613e83985c68ec9eacae832b536b0805]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-613e83985c68ec9eacae832b536b0805]
+[^c-613e83985c68ec9eacae832b536b0805]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-613e83985c68ec9eacae832b536b0805]
+[^c-613e83985c68ec9eacae832b536b0805]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-613e83985c68ec9eacae832b536b0805]
+[^c-613e83985c68ec9eacae832b536b0805]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-613e83985c68ec9eacae832b536b0805]
+[^c-613e83985c68ec9eacae832b536b0805]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-613e83985c68ec9eacae832b536b0805]
+[^c-613e83985c68ec9eacae832b536b0805]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-613e83985c68ec9eacae832b536b0805]
+[^c-613e83985c68ec9eacae832b536b0805]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-613e83985c68ec9eacae832b536b0805]
+[^c-613e83985c68ec9eacae832b536b0805]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-613e83985c68ec9eacae832b536b0805]: Textual amendment: Sch. 5 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 44(6)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/44/6), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-613e83985c68ec9eacae832b536b0805]: Textual amendment: Sch. 5 repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 44(6)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/44/6), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)

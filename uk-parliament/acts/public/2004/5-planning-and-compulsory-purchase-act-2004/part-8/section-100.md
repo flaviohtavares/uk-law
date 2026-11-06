@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 100. Procedure for authorisation by authority other than a Minister[^key-a3915f69f73eb026562d517897ef15a6][^key-e41a823a5188d5c4b4e6201ffff53fcf]
+## 100. Procedure for authorisation by authority other than a Minister[^c-a3915f69f73eb026562d517897ef15a6][^c-e41a823a5188d5c4b4e6201ffff53fcf]
 
 *Extent: E+W*
 
@@ -187,6 +187,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3915f69f73eb026562d517897ef15a6]: Commencement: S. 100 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-a3915f69f73eb026562d517897ef15a6]: Commencement: S. 100 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-e41a823a5188d5c4b4e6201ffff53fcf]: Commencement: S. 100 in force at 31.10.2004 in so far as not already in force by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-e41a823a5188d5c4b4e6201ffff53fcf]: Commencement: S. 100 in force at 31.10.2004 in so far as not already in force by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

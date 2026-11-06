@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166A. Post-offence convictions etc.[^key-8faef7b27b3d5d5bb45b0651720a8d0e][^c19931751]
+## 166A. Post-offence convictions etc.[^c-8faef7b27b3d5d5bb45b0651720a8d0e][^c19931751]
 
 *Extent: S*
 
@@ -41,12 +41,12 @@ summary: ''
 - (a) specified in a notice laid before the court by the prosecutor, and
 - (b) admitted by the accused or proved by the prosecutor (on evidence adduced then or at another diet).
 
-(5) A reference in this section to a conviction which occurred on or after the date of offence O is a reference to such a conviction by a court in any part of the United Kingdom or , where the court considers appropriate, in any[^key-b35787fe6951650ca22120e7b1ecef52] member State of the European Union.
+(5) A reference in this section to a conviction which occurred on or after the date of offence O is a reference to such a conviction by a court in any part of the United Kingdom or , where the court considers appropriate, in any[^c-b35787fe6951650ca22120e7b1ecef52] member State of the European Union.
 
 ## Annotations
 
-[^key-8faef7b27b3d5d5bb45b0651720a8d0e]: Textual amendment: S. 166A substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [ss. 70(2)](https://www.legislation.gov.uk/asp/2010/13/section/70/2) , [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-8faef7b27b3d5d5bb45b0651720a8d0e]: Textual amendment: S. 166A substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [ss. 70(2)](https://www.legislation.gov.uk/asp/2010/13/section/70/2) , [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c19931751]: Textual amendment: S. 166A inserted (10.3.2008) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6) , [ss. 12(2)](https://www.legislation.gov.uk/asp/2007/6/section/12/2) , [84](https://www.legislation.gov.uk/asp/2007/6/section/84) ; [S.S.I. 2008/42](https://www.legislation.gov.uk/ssi/2008/42) , [art. 3](https://www.legislation.gov.uk/ssi/2008/42/article/3) , [Sch.](https://www.legislation.gov.uk/ssi/2008/42/schedule) (subject to [art. 5](https://www.legislation.gov.uk/ssi/2008/42/article/5) )
 
-[^key-b35787fe6951650ca22120e7b1ecef52]: Textual amendment: Words in s. 166A(5) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(9)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/9) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-b35787fe6951650ca22120e7b1ecef52]: Textual amendment: Words in s. 166A(5) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [13(9)](https://www.legislation.gov.uk/ssi/2020/339/regulation/13/9) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))

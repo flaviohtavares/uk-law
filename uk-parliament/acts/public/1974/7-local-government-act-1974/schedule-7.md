@@ -44,7 +44,7 @@ Section 42.
 
 ### The Breeding of Dogs Act 1973[^c780482]
 
-**15.**[^key-ea91d2175f5199e46f1d5a0ef74f4ac6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-ea91d2175f5199e46f1d5a0ef74f4ac6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -66,4 +66,4 @@ Section 42.
 
 [^c780482]: Marginal citation: [1973 c. 60](https://www.legislation.gov.uk/ukpga/1973/60).
 
-[^key-ea91d2175f5199e46f1d5a0ef74f4ac6]: Textual amendment: Sch. 7 para. 15 omitted (1.10.2018) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 6](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/6) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
+[^c-ea91d2175f5199e46f1d5a0ef74f4ac6]: Textual amendment: Sch. 7 para. 15 omitted (1.10.2018) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 6](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/6) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))

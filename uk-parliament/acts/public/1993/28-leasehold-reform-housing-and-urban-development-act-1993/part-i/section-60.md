@@ -34,10 +34,10 @@ but this subsection shall not apply to any costs if on a sale made voluntarily a
 
 (4) A tenant shall not be liable for any costs under this section if the tenant’s notice ceases to have effect by virtue of section 47(1) or 55(2).
 
-(5) A tenant shall not be liable under this section for any costs which a party to any proceedings under this Chapter before the appropriate tribunal[^key-df34a3c0516732302ad7a83ceb3fe44a] incurs in connection with the proceedings.
+(5) A tenant shall not be liable under this section for any costs which a party to any proceedings under this Chapter before the appropriate tribunal[^c-df34a3c0516732302ad7a83ceb3fe44a] incurs in connection with the proceedings.
 
 (6) In this section “**relevant person**”, in relation to a claim by a tenant under this Chapter, means the landlord for the purposes of this Chapter, any other landlord (as defined by section 40(4)) or any third party to the tenant’s lease.
 
 ## Annotations
 
-[^key-df34a3c0516732302ad7a83ceb3fe44a]: Textual amendment: Words in [s. 60(5)](https://www.legislation.gov.uk/ukpga/1993/28/section/60/5) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 109](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/109) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-df34a3c0516732302ad7a83ceb3fe44a]: Textual amendment: Words in [s. 60(5)](https://www.legislation.gov.uk/ukpga/1993/28/section/60/5) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 109](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/109) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

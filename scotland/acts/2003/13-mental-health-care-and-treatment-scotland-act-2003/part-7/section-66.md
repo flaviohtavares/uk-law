@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Measures that may be authorised[^key-315cda2cbaf584c2ec4a2f390fb7df83][^key-2d84ec12560e7c4297a0632be753dca8]
+## 66. Measures that may be authorised[^c-315cda2cbaf584c2ec4a2f390fb7df83][^c-2d84ec12560e7c4297a0632be753dca8]
 
 *Extent: S*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-315cda2cbaf584c2ec4a2f390fb7df83]: Commencement: S. 66 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-315cda2cbaf584c2ec4a2f390fb7df83]: Commencement: S. 66 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-2d84ec12560e7c4297a0632be753dca8]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2003/13/section/66) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-2d84ec12560e7c4297a0632be753dca8]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2003/13/section/66) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Indication to excluded person[^key-ed256d584347d76418cda01c5aeb5ce9]
+## 64. Indication to excluded person[^c-ed256d584347d76418cda01c5aeb5ce9]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed256d584347d76418cda01c5aeb5ce9]: Commencement: Rule 64 not in operation at made date, see [rule 2(2)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/2)
+[^c-ed256d584347d76418cda01c5aeb5ce9]: Commencement: Rule 64 not in operation at made date, see [rule 2(2)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/2)

@@ -29,7 +29,7 @@ summary: ''
 - “**the OEIC Regulations**” means the Open-ended Investment Companies (Tax) Regulations 1997 (S.I. 1997/1154),
 - “**open-ended investment company**” has the same meaning as in Chapter 3 of Part 12 of ICTA (unit trust schemes etc.) (see section 468(10) and (11) of ICTA, as inserted by regulation 10 of the OEIC Regulations),
 - “**owner of shares**” has the same meaning as in that Chapter (see section 468(10) and (15) of that Act, as so inserted), and
-- “[^key-9e5e7d09ccc1bdc7e7421f8ea88494ac]**umbrella company**” has the meaning given by section 615 of CTA 2010.
+- “[^c-9e5e7d09ccc1bdc7e7421f8ea88494ac]**umbrella company**” has the meaning given by section 615 of CTA 2010.
 
 (2) In subsection (1) “**accumulation share**” means a share in respect of which income is credited periodically to the capital part of the company's scheme property.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e5e7d09ccc1bdc7e7421f8ea88494ac]: Textual amendment: Words in s. 375(1) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 452](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/452) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-9e5e7d09ccc1bdc7e7421f8ea88494ac]: Textual amendment: Words in s. 375(1) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 452](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/452) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -34,7 +34,7 @@ Constitutional Law
 
 Representation Of The People
 
-The Scottish Parliament (Constituencies and Regions) Order 2020 (revoked)[^key-b6a10c41f791e2b92deac40d27f83298]
+The Scottish Parliament (Constituencies and Regions) Order 2020 (revoked)[^c-b6a10c41f791e2b92deac40d27f83298]
 
 Made
 
@@ -48,39 +48,39 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-b6a10c41f791e2b92deac40d27f83298]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6a10c41f791e2b92deac40d27f83298]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b6a10c41f791e2b92deac40d27f83298]
+## 1. Citation, commencement and interpretation[^c-b6a10c41f791e2b92deac40d27f83298]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Constituencies[^key-b6a10c41f791e2b92deac40d27f83298]
+## 2. Constituencies[^c-b6a10c41f791e2b92deac40d27f83298]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Regions[^key-b6a10c41f791e2b92deac40d27f83298]
+## 3. Regions[^c-b6a10c41f791e2b92deac40d27f83298]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-b6a10c41f791e2b92deac40d27f83298]
+## 4. Revocation[^c-b6a10c41f791e2b92deac40d27f83298]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b6a10c41f791e2b92deac40d27f83298]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6a10c41f791e2b92deac40d27f83298]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Scottish Parliament Constituencies[^key-b6a10c41f791e2b92deac40d27f83298]
+## SCHEDULE 1 — Scottish Parliament Constituencies[^c-b6a10c41f791e2b92deac40d27f83298]
 
 Article 2
 
-### (other than Na h-Eileanan an Iar, Orkney Islands and Shetland Islands Constituencies)[^key-b6a10c41f791e2b92deac40d27f83298]
+### (other than Na h-Eileanan an Iar, Orkney Islands and Shetland Islands Constituencies)[^c-b6a10c41f791e2b92deac40d27f83298]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Scottish Parliament Regions[^key-b6a10c41f791e2b92deac40d27f83298]
+## SCHEDULE 2 — Scottish Parliament Regions[^c-b6a10c41f791e2b92deac40d27f83298]
 
 Article 3
 
@@ -88,8 +88,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-b6a10c41f791e2b92deac40d27f83298]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6a10c41f791e2b92deac40d27f83298]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b6a10c41f791e2b92deac40d27f83298]: Textual amendment: Order revoked (9.4.2026) by [The Scottish Parliament (Constituencies and Regions) Order 2025 (S.S.I. 2025/285)](https://www.legislation.gov.uk/ssi/2025/285), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2025/285/article/1/3), [4](https://www.legislation.gov.uk/ssi/2025/285/article/4)
+[^c-b6a10c41f791e2b92deac40d27f83298]: Textual amendment: Order revoked (9.4.2026) by [The Scottish Parliament (Constituencies and Regions) Order 2025 (S.S.I. 2025/285)](https://www.legislation.gov.uk/ssi/2025/285), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2025/285/article/1/3), [4](https://www.legislation.gov.uk/ssi/2025/285/article/4)

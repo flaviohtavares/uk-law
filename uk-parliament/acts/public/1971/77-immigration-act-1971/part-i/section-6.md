@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Recommendations by court for deportation.[^key-4a23f7dea584b681e27084e08ff5a7dc][^M_C_2b65e342-fd7f-426e-d055-308272774347]
+## 6. Recommendations by court for deportation.[^c-4a23f7dea584b681e27084e08ff5a7dc][^M_C_2b65e342-fd7f-426e-d055-308272774347]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ and for purposes of deportation a person who on being charged with an offence is
 
 ## Annotations
 
-[^key-4a23f7dea584b681e27084e08ff5a7dc]: Modification: Ss. 1-9, 11 extended (with modifications) (Guernsey) (1.8.1993) by [The Immigration (Guernsey) Order 1993 (S.I. 1993/1796)](https://www.legislation.gov.uk/uksi/1993/1796), [arts. 1](https://www.legislation.gov.uk/uksi/1993/1796/article/1), [3(1)](https://www.legislation.gov.uk/uksi/1993/1796/article/3/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/1993/1796/schedule/1/part/I)
+[^c-4a23f7dea584b681e27084e08ff5a7dc]: Modification: Ss. 1-9, 11 extended (with modifications) (Guernsey) (1.8.1993) by [The Immigration (Guernsey) Order 1993 (S.I. 1993/1796)](https://www.legislation.gov.uk/uksi/1993/1796), [arts. 1](https://www.legislation.gov.uk/uksi/1993/1796/article/1), [3(1)](https://www.legislation.gov.uk/uksi/1993/1796/article/3/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/1993/1796/schedule/1/part/I)
 
 [^M_C_2b65e342-fd7f-426e-d055-308272774347]: Modification: Ss. 1-9, 11 extended (with modifications) (Jersey) (1.8.1993) by [The Immigration (Jersey) Order 1993 (S.I. 1993/1797)](https://www.legislation.gov.uk/uksi/1993/1797), [arts. 1](https://www.legislation.gov.uk/uksi/1993/1797/article/1), [3(1)](https://www.legislation.gov.uk/uksi/1993/1797/article/3/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/1993/1797/schedule/1/part/I) (as amended (17.10.2012) by [S.I. 2012/2593](https://www.legislation.gov.uk/uksi/2012/2593), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2593/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2593/article/2/2); and (coming into force in accordance with art. 1 of the amending S.I.) by [S.I. 2017/981](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6)))
 

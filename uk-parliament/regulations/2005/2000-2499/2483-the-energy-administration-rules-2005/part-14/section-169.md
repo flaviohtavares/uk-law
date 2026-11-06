@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 169. Charge for copy documents[^key-0b9c8754db69154ac153861e22143ba1]
+## 169. Charge for copy documents[^c-0b9c8754db69154ac153861e22143ba1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the energy administrator is requested by a creditor or member to supply co
 
 ## Annotations
 
-[^key-0b9c8754db69154ac153861e22143ba1]: Commencement: Rule 169 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-0b9c8754db69154ac153861e22143ba1]: Commencement: Rule 169 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

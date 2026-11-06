@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 43(16) and 45(16)
 
-### PART 1 — Forms for use at a mayoral election in England where the poll is not taken together with another election or referendum[^key-d192e693f795e49d51530ab6a4be4e61]
+### PART 1 — Forms for use at a mayoral election in England where the poll is not taken together with another election or referendum[^c-d192e693f795e49d51530ab6a4be4e61]
 
 **Form 8A: Elector’s official poll card (for use at mayoral elections in England)**
 
@@ -52,7 +52,7 @@ Regulations 43(16) and 45(16)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2022/1382/images/uksi_20221382_en_016)
 
-### PART 2 — Forms for use at a mayoral election in England where the poll is taken together with another election or referendum[^key-bf43906b87e27b417dcb3a1cf2e4f3f8]
+### PART 2 — Forms for use at a mayoral election in England where the poll is taken together with another election or referendum[^c-bf43906b87e27b417dcb3a1cf2e4f3f8]
 
 **Form 8A: Elector’s official poll card (for use at mayoral elections in England)**
 
@@ -84,6 +84,6 @@ Regulations 43(16) and 45(16)
 
 ## Annotations
 
-[^key-d192e693f795e49d51530ab6a4be4e61]: Commencement: Sch. 7 Pt. 1 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-d192e693f795e49d51530ab6a4be4e61]: Commencement: Sch. 7 Pt. 1 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
-[^key-bf43906b87e27b417dcb3a1cf2e4f3f8]: Commencement: Sch. 7 Pt. 2 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-bf43906b87e27b417dcb3a1cf2e4f3f8]: Commencement: Sch. 7 Pt. 2 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Disapplication and modification of legislative provisions[^key-180e5f83ea5c644a47556a3299112d80]
+## 5. Disapplication and modification of legislative provisions[^c-180e5f83ea5c644a47556a3299112d80]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ Section 6 of the Ecclesiastical Jurisdiction Measure 1963[^f00024], section 7 of
 
 ## Annotations
 
-[^key-180e5f83ea5c644a47556a3299112d80]: Commencement: Art. 5 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-180e5f83ea5c644a47556a3299112d80]: Commencement: Art. 5 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
 [^f00024]: Footnote: [1963 No. 1](https://www.legislation.gov.uk/ukcm/1963/1)
 

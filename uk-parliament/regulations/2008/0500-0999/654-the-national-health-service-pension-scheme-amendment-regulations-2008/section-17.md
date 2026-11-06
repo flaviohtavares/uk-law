@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Substitution of regulation F5[^key-4ed95449792369ddf55ab3f0c88b5f6e]
+## 17. Substitution of regulation F5[^c-4ed95449792369ddf55ab3f0c88b5f6e]
 
 *Extent: E+W*
 
@@ -94,6 +94,6 @@ For regulation F5 (payment of lump sum) substitute—
 
 ## Annotations
 
-[^key-4ed95449792369ddf55ab3f0c88b5f6e]: Commencement: Reg. 17 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-4ed95449792369ddf55ab3f0c88b5f6e]: Commencement: Reg. 17 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^f00014]: Footnote: [1965 c. 32](https://www.legislation.gov.uk/ukpga/1965/32)

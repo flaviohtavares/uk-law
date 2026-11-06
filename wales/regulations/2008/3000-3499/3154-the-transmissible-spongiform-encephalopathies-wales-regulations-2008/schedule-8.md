@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8 — Restrictions on export[^key-6d521f35a027671148d1c98cddcbfa3f]
+## SCHEDULE 8 — Restrictions on export[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 *Extent: E+W*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Regulation 5
 
-### 1. Export to other member States and to third countries of bovine animals and products[^key-6d521f35a027671148d1c98cddcbfa3f]
+### 1. Export to other member States and to third countries of bovine animals and products[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Export to member States of heads and un-split carcases[^key-6d521f35a027671148d1c98cddcbfa3f]
+### 2. Export to member States of heads and un-split carcases[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Export to third countries of products containing specified risk material[^key-6d521f35a027671148d1c98cddcbfa3f]
+### 3. Export to third countries of products containing specified risk material[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d521f35a027671148d1c98cddcbfa3f]: Textual amendment: Regulations revoked (1.10.2018) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/uksi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/968/regulation/1/3), [24(a)](https://www.legislation.gov.uk/uksi/2018/968/regulation/24/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2018/968/regulation/25))
+[^c-6d521f35a027671148d1c98cddcbfa3f]: Textual amendment: Regulations revoked (1.10.2018) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/uksi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/968/regulation/1/3), [24(a)](https://www.legislation.gov.uk/uksi/2018/968/regulation/24/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2018/968/regulation/25))

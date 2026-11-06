@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Vehicles (Construction and Use) (Amendment No. 3) Regulations (Northern Ireland) 2003 (revoked)[^key-65325c8e017d1d4fcc6f21d4f712d381]
+Motor Vehicles (Construction and Use) (Amendment No. 3) Regulations (Northern Ireland) 2003 (revoked)[^c-65325c8e017d1d4fcc6f21d4f712d381]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 1st November 2003
 
-[^key-65325c8e017d1d4fcc6f21d4f712d381]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65325c8e017d1d4fcc6f21d4f712d381]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-65325c8e017d1d4fcc6f21d4f712d381]
+## 1. Citation and commencement[^c-65325c8e017d1d4fcc6f21d4f712d381]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to Schedule 10 (emissions from certain vehicles)[^key-65325c8e017d1d4fcc6f21d4f712d381]
+## 2. Amendment to Schedule 10 (emissions from certain vehicles)[^c-65325c8e017d1d4fcc6f21d4f712d381]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-65325c8e017d1d4fcc6f21d4f712d381]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65325c8e017d1d4fcc6f21d4f712d381]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-65325c8e017d1d4fcc6f21d4f712d381]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65325c8e017d1d4fcc6f21d4f712d381]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-65325c8e017d1d4fcc6f21d4f712d381]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/431) revoked (1.10.2004) by [Motor Vehicles (Construction and Use) (Amendment No. 4) Regulations (Northern Ireland) 2004 (S.R. 2004/356)](https://www.legislation.gov.uk/nisr/2004/356), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/356/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2004/356/regulation/3)
+[^c-65325c8e017d1d4fcc6f21d4f712d381]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/431) revoked (1.10.2004) by [Motor Vehicles (Construction and Use) (Amendment No. 4) Regulations (Northern Ireland) 2004 (S.R. 2004/356)](https://www.legislation.gov.uk/nisr/2004/356), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/356/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2004/356/regulation/3)

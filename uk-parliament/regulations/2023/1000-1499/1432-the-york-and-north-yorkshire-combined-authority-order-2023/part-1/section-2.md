@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-6950859b3b05eb4a47191ccd4d1f03f1]
+## 2. Interpretation[^c-6950859b3b05eb4a47191ccd4d1f03f1]
 
 *Extent: E+W*
 
@@ -24,16 +24,16 @@ In this Order and in any modifications to legislation made by this Order—
 
 - “**the 1980 Act**” means the Highways Act 1980[^f00005];
 - “**the 1984 Act**” means the Road Traffic Regulation Act 1984[^f00006];
-- [^key-ee4216ae1165a05817cde28db6c0147d]...
+- [^c-ee4216ae1165a05817cde28db6c0147d]...
 - “**the 1989 Act**” means the Local Government and Housing Act 1989[^f00008];
-- [^key-457f50a7eafbcffbee4a9c8c0e4e369b]...
+- [^c-457f50a7eafbcffbee4a9c8c0e4e369b]...
 - “**the 1999 Act**” means the Greater London Authority Act 1999[^f00010];
 - “**the 2000 Act**” means the Transport Act 2000[^f00011];
 - “**the 2003 Act**” means the Local Government Act 2003[^f00012];
 - “**the 2004 Act**” means the Fire and Rescue Services Act 2004[^f00013];
-- [^key-1214810fe7e1fe3bd041b57b90683cf5]...
+- [^c-1214810fe7e1fe3bd041b57b90683cf5]...
 - “**the 2009 Act**” means the Local Democracy, Economic Development and Construction Act 2009[^f00015];
-- [^key-ba64d19d2964e5b8f53cd558b00750a0]...
+- [^c-ba64d19d2964e5b8f53cd558b00750a0]...
 - “**the BRS Act**” means the Business Rate Supplements Act 2009[^f00017];
 - “**the PRSR Act**” means the Police Reform and Social Responsibility Act 2011[^f00018];
 - “**the TM Act**” means the Traffic Management Act 2004[^f00019];
@@ -46,7 +46,7 @@ In this Order and in any modifications to legislation made by this Order—
     - (i) the Combined Authority’s priorities and objectives, and
     - (ii) an assessment of all foreseeable fire and rescue related risks that could affect its community, in accordance with the discharge of the Combined Authority’s functions as a fire and rescue authority;
 - “**constituent councils**” means the councils for the local government areas of North Yorkshire and the City of York;
-- [^key-bf27476f8022eccb82680e4cc69b2a62]...
+- [^c-bf27476f8022eccb82680e4cc69b2a62]...
 - “**deputy mayor for policing and crime**” means the deputy mayor for policing and crime for the Area;
 - “**election for the return of the mayor**” means an election held pursuant to article 4;
 - “**fire and rescue authority**” means a fire and rescue authority under the 2004 Act;
@@ -73,17 +73,17 @@ In this Order and in any modifications to legislation made by this Order—
 
 ## Annotations
 
-[^key-6950859b3b05eb4a47191ccd4d1f03f1]: Commencement: Art. 2 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-6950859b3b05eb4a47191ccd4d1f03f1]: Commencement: Art. 2 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00005]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
 [^f00006]: Footnote: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 
-[^key-ee4216ae1165a05817cde28db6c0147d]: Textual amendment: Words in art. 2 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(2)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/2/a)
+[^c-ee4216ae1165a05817cde28db6c0147d]: Textual amendment: Words in art. 2 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(2)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/2/a)
 
 [^f00008]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-457f50a7eafbcffbee4a9c8c0e4e369b]: Textual amendment: Words in art. 2 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(2)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/2/b)
+[^c-457f50a7eafbcffbee4a9c8c0e4e369b]: Textual amendment: Words in art. 2 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(2)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/2/b)
 
 [^f00010]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
 
@@ -93,11 +93,11 @@ In this Order and in any modifications to legislation made by this Order—
 
 [^f00013]: Footnote: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21).
 
-[^key-1214810fe7e1fe3bd041b57b90683cf5]: Textual amendment: Words in art. 2 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(2)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/2/c)
+[^c-1214810fe7e1fe3bd041b57b90683cf5]: Textual amendment: Words in art. 2 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(2)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/2/c)
 
 [^f00015]: Footnote: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20).
 
-[^key-ba64d19d2964e5b8f53cd558b00750a0]: Textual amendment: Words in art. 2 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(2)(d)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/2/d)
+[^c-ba64d19d2964e5b8f53cd558b00750a0]: Textual amendment: Words in art. 2 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(2)(d)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/2/d)
 
 [^f00017]: Footnote: [2009 c. 7](https://www.legislation.gov.uk/ukpga/2009/7).
 
@@ -105,7 +105,7 @@ In this Order and in any modifications to legislation made by this Order—
 
 [^f00019]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-bf27476f8022eccb82680e4cc69b2a62]: Textual amendment: Words in art. 2 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(2)(e)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/2/e)
+[^c-bf27476f8022eccb82680e4cc69b2a62]: Textual amendment: Words in art. 2 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(2)(e)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/2/e)
 
 [^f00020]: Footnote: Section 21 was amended by paragraph 9 of Schedule 1 to the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3). The Framework is available at https://www.gov.uk/government/publications/fire-and-rescue-national-framework-for-england. A hard copy can be obtained by writing to the Fire Strategy and Reform Unit, Home Office, 2 Marsham Street, London, SW1P 4DF.
 

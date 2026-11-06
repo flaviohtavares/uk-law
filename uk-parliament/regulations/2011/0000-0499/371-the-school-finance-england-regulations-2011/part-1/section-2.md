@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Revocation of previous Regulations[^key-a15ed8bc8edd3f617d5bbe0dba5c294c]
+## 2. Revocation of previous Regulations[^c-a15ed8bc8edd3f617d5bbe0dba5c294c]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ The School Finance (England) Regulations 2006[^f00026] and the School Finance (A
 
 ## Annotations
 
-[^key-a15ed8bc8edd3f617d5bbe0dba5c294c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/371/regulation/2) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-a15ed8bc8edd3f617d5bbe0dba5c294c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/371/regulation/2) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
 
 [^f00026]: Footnote: [S.I. 2006/468](https://www.legislation.gov.uk/uksi/2006/468).
 

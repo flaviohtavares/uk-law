@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Extension of offence in section 3A of Road Traffic Act 1988[^key-eb5f87f977b3eb9d21ee423e8f2b7f6c]
+## 31. Extension of offence in section 3A of Road Traffic Act 1988[^c-eb5f87f977b3eb9d21ee423e8f2b7f6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb5f87f977b3eb9d21ee423e8f2b7f6c]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2006/49/section/31) in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/i)
+[^c-eb5f87f977b3eb9d21ee423e8f2b7f6c]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2006/49/section/31) in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/i)

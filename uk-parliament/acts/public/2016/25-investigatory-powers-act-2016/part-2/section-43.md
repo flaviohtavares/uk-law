@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Duty of operators to assist with implementation[^key-110282c4672f8d7cabec63e3cf94095a]
+## 43. Duty of operators to assist with implementation[^c-110282c4672f8d7cabec63e3cf94095a]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ This is subject to subsection (4).
 (7) A person who knowingly fails to comply with subsection (1) is guilty of an offence and liable—
 
 - (a) on summary conviction in England and Wales—
-  - (i) to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-638b85bc089078587c954963241682e6] (or 6 months, if the offence was committed before 2 May 2022[^key-ae2e0e2526aa2377a381c0fe6cd89237]), or
+  - (i) to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-638b85bc089078587c954963241682e6] (or 6 months, if the offence was committed before 2 May 2022[^c-ae2e0e2526aa2377a381c0fe6cd89237]), or
   - (ii) to a fine,
 
   or to both;
@@ -63,8 +63,8 @@ This is subject to subsection (4).
 
 ## Annotations
 
-[^key-110282c4672f8d7cabec63e3cf94095a]: Commencement: S. 43 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(o)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/o)
+[^c-110282c4672f8d7cabec63e3cf94095a]: Commencement: S. 43 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(o)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/o)
 
-[^key-638b85bc089078587c954963241682e6]: Textual amendment: Words in [s. 43(7)(a)(i)](https://www.legislation.gov.uk/ukpga/2016/25/section/43/7/a/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-638b85bc089078587c954963241682e6]: Textual amendment: Words in [s. 43(7)(a)(i)](https://www.legislation.gov.uk/ukpga/2016/25/section/43/7/a/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-ae2e0e2526aa2377a381c0fe6cd89237]: Textual amendment: Words in [s. 43(7)(a)(i)](https://www.legislation.gov.uk/ukpga/2016/25/section/43/7/a/i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-ae2e0e2526aa2377a381c0fe6cd89237]: Textual amendment: Words in [s. 43(7)(a)(i)](https://www.legislation.gov.uk/ukpga/2016/25/section/43/7/a/i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)

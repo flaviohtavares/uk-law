@@ -26,7 +26,7 @@ summary: ''
 
 - (a) the strategic priorities, and other main considerations, of Her Majesty's government in formulating its energy policy for Great Britain (“strategic priorities”),
 - (b) the particular outcomes to be achieved as a result of the implementation of that policy (“policy outcomes”), and
-- (c) the roles and responsibilities of persons (whether the Secretary of State, the Authority , the Independent System Operator and Planner[^key-694b0ae9532f78599d2f15380ed6a184] or other persons) who are involved in implementing that policy or who have other functions that are affected by it.
+- (c) the roles and responsibilities of persons (whether the Secretary of State, the Authority , the Independent System Operator and Planner[^c-694b0ae9532f78599d2f15380ed6a184] or other persons) who are involved in implementing that policy or who have other functions that are affected by it.
 
 (3) The Secretary of State must publish the strategy and policy statement (including any amended statement following a review under section 134) in such manner as the Secretary of State considers appropriate.
 
@@ -38,13 +38,13 @@ summary: ''
 (5) In this Part—
 
 - “**the 1986 Act**” means the Gas Act 1986;
-- “[^key-c665d9fc830543603449a67f624136ff]**Independent System Operator and Planner**” means the person for the time being designated under section 162(1) of the Energy Act 2023;
+- “[^c-c665d9fc830543603449a67f624136ff]**Independent System Operator and Planner**” means the person for the time being designated under section 162(1) of the Energy Act 2023;
 - “**policy outcomes**” has the meaning given in subsection (2)(b);
 - “**strategic priorities**” has the meaning given in subsection (2)(a);
 - “**the strategy and policy statement**” means the statement for the time being designated under subsection (1) as the strategy and policy statement for the purposes of this Part.
 
 ## Annotations
 
-[^key-694b0ae9532f78599d2f15380ed6a184]: Textual amendment: Words in [s. 131(2)(c)](https://www.legislation.gov.uk/ukpga/2013/32/section/131/2/c) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 165(6)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/165/6/a), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)
+[^c-694b0ae9532f78599d2f15380ed6a184]: Textual amendment: Words in [s. 131(2)(c)](https://www.legislation.gov.uk/ukpga/2013/32/section/131/2/c) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 165(6)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/165/6/a), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)
 
-[^key-c665d9fc830543603449a67f624136ff]: Textual amendment: Words in [s. 131(5)](https://www.legislation.gov.uk/ukpga/2013/32/section/131/5) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 165(6)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/165/6/b), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)
+[^c-c665d9fc830543603449a67f624136ff]: Textual amendment: Words in [s. 131(5)](https://www.legislation.gov.uk/ukpga/2013/32/section/131/5) inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 165(6)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/165/6/b), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/ii)

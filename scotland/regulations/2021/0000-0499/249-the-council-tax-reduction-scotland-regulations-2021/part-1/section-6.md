@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Meaning of “young person”[^key-6fccec9525d2067ffbc1938419fe8508]
+## 6. Meaning of “young person”[^c-6fccec9525d2067ffbc1938419fe8508]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6fccec9525d2067ffbc1938419fe8508]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/249/regulation/6) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-6fccec9525d2067ffbc1938419fe8508]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/249/regulation/6) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00083]: Footnote: Section 145A was inserted by section 55 of the Tax Credits Act [2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21) and amended by paragraph 48 of schedule 24 of the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), paragraph 12 of schedule 1 of the Child Benefit Act [2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6) and [S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).
 

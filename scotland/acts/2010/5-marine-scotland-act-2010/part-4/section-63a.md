@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63A. Proceedings for questioning certain decisions under sections 28 and 29[^key-30747568bca35c0c6ef2fbf5cd986f1f]
+## 63A. Proceedings for questioning certain decisions under sections 28 and 29[^c-30747568bca35c0c6ef2fbf5cd986f1f]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30747568bca35c0c6ef2fbf5cd986f1f]: Textual amendment: Ss. 63A, 63B and cross-heading inserted (26.2.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [ss. 54(3)](https://www.legislation.gov.uk/asp/2014/3/section/54/3), [61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2); [S.S.I. 2015/52](https://www.legislation.gov.uk/ssi/2015/52), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/52/article/2/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/52/article/3))
+[^c-30747568bca35c0c6ef2fbf5cd986f1f]: Textual amendment: Ss. 63A, 63B and cross-heading inserted (26.2.2015) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [ss. 54(3)](https://www.legislation.gov.uk/asp/2014/3/section/54/3), [61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2); [S.S.I. 2015/52](https://www.legislation.gov.uk/ssi/2015/52), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/52/article/2/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/52/article/3))

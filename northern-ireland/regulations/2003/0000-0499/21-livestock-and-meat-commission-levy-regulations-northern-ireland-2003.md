@@ -31,7 +31,7 @@ summary: ''
 
 LIVESTOCK AND MEAT COMMISSION FOR NORTHERN IRELAND
 
-Livestock and Meat Commission (Levy) Regulations (Northern Ireland) 2003 (revoked)[^key-f76f1182547896c12eaff11e2896c1d7]
+Livestock and Meat Commission (Levy) Regulations (Northern Ireland) 2003 (revoked)[^c-f76f1182547896c12eaff11e2896c1d7]
 
 Made
 
@@ -41,38 +41,38 @@ Coming into operation
 
 28th February 2003
 
-[^key-f76f1182547896c12eaff11e2896c1d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f76f1182547896c12eaff11e2896c1d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f76f1182547896c12eaff11e2896c1d7]
+## 1. Citation and commencement[^c-f76f1182547896c12eaff11e2896c1d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Payment and Rates of levy[^key-f76f1182547896c12eaff11e2896c1d7]
+## 2. Payment and Rates of levy[^c-f76f1182547896c12eaff11e2896c1d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f76f1182547896c12eaff11e2896c1d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f76f1182547896c12eaff11e2896c1d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Collection[^key-f76f1182547896c12eaff11e2896c1d7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-f76f1182547896c12eaff11e2896c1d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 6. Offences and penalties[^key-f76f1182547896c12eaff11e2896c1d7]
+## 4. Collection[^c-f76f1182547896c12eaff11e2896c1d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-f76f1182547896c12eaff11e2896c1d7]
+**5.**[^c-f76f1182547896c12eaff11e2896c1d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Offences and penalties[^c-f76f1182547896c12eaff11e2896c1d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f76f1182547896c12eaff11e2896c1d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 7. Revocation[^c-f76f1182547896c12eaff11e2896c1d7]
 
-[^key-f76f1182547896c12eaff11e2896c1d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f76f1182547896c12eaff11e2896c1d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f76f1182547896c12eaff11e2896c1d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f76f1182547896c12eaff11e2896c1d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/21) revoked (28.2.2003) by [Livestock and Meat Commission (Levy) (No. 2) Regulations (Northern Ireland) 2003 (S.R. 2003/104)](https://www.legislation.gov.uk/nisr/2003/104), [reg. 7](https://www.legislation.gov.uk/nisr/2003/104/regulation/7)
+[^c-f76f1182547896c12eaff11e2896c1d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/21) revoked (28.2.2003) by [Livestock and Meat Commission (Levy) (No. 2) Regulations (Northern Ireland) 2003 (S.R. 2003/104)](https://www.legislation.gov.uk/nisr/2003/104), [reg. 7](https://www.legislation.gov.uk/nisr/2003/104/regulation/7)

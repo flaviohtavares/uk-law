@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Application of provisions of other Acts[^key-53e2208b558213640ddf60441495c748]
+## 80. Application of provisions of other Acts[^c-53e2208b558213640ddf60441495c748]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 makes provision about the application of Acts (other than the 1983 Ac
 
 ## Annotations
 
-[^key-53e2208b558213640ddf60441495c748]: Commencement: Reg. 80 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-53e2208b558213640ddf60441495c748]: Commencement: Reg. 80 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

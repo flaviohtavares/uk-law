@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 137. Additional safeguards[^key-7e79096dc38edb473cfab2fc7f2e5b3e]
+## 137. Additional safeguards[^c-7e79096dc38edb473cfab2fc7f2e5b3e]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e79096dc38edb473cfab2fc7f2e5b3e]: Commencement: [S. 137](https://www.legislation.gov.uk/nia/2016/18/section/137) in operation at 1.10.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-7e79096dc38edb473cfab2fc7f2e5b3e]: Commencement: [S. 137](https://www.legislation.gov.uk/nia/2016/18/section/137) in operation at 1.10.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(1)](https://www.legislation.gov.uk/nisr/2019/163/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

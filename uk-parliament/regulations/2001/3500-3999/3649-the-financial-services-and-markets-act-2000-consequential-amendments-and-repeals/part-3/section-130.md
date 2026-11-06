@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Ways of giving effect to the protected rights: the pension and annuity requirements[^key-aa07fe360c8e7b8e8755d68884d82be0]
+## 130. Ways of giving effect to the protected rights: the pension and annuity requirements[^c-aa07fe360c8e7b8e8755d68884d82be0]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa07fe360c8e7b8e8755d68884d82be0]: Commencement: Art. 130 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-aa07fe360c8e7b8e8755d68884d82be0]: Commencement: Art. 130 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

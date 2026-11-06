@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5B. Notice of termination of employment[^key-01851bca60742079d40afd132f077a46]
+## 5B. Notice of termination of employment[^c-01851bca60742079d40afd132f077a46]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ is the date of that agreement.
 
 ## Annotations
 
-[^key-01851bca60742079d40afd132f077a46]: Textual amendment: Regs. 5B-5F inserted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/501/regulation/5)
+[^c-01851bca60742079d40afd132f077a46]: Textual amendment: Regs. 5B-5F inserted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/501/regulation/5)

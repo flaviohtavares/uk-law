@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by sections 16(1)(a), (e) and (f), 17(2), 26(1)(a) and (3) and 48(1) of the Food Safety Act 1990[^f00001], and now vested in him[^f00002], having had regard, in accordance with section 48(4A) of that Act, to relevant advice given by the Food Standards Agency, and after consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], and in accordance with section 48(4) and (4B) of that Act, makes the following Regulations:
 
-## 1. Title, commencement and extent[^key-11b15d4d9011f2fcc63290e1ff02bfa3]
+## 1. Title, commencement and extent[^c-11b15d4d9011f2fcc63290e1ff02bfa3]
 
 These Regulations may be cited as the Contaminants in Food (England) Regulations 2003, shall come into force on 30th June 2003 and shall extend to England only.
 
-## 2. Interpretation[^key-0bed0e732257a0edd3e5dbf2ce4234c8]
+## 2. Interpretation[^c-0bed0e732257a0edd3e5dbf2ce4234c8]
 
 (1) In these Regulations—
 
@@ -70,7 +70,7 @@ These Regulations may be cited as the Contaminants in Food (England) Regulations
 
 (2) Other expressions used in these Regulations and in the Commission Regulation have the same meaning as in the Commission Regulation.
 
-## 3. Offences and penalties[^key-0356c4fd2e33c62c1e41eda0b9d15905]
+## 3. Offences and penalties[^c-0356c4fd2e33c62c1e41eda0b9d15905]
 
 (1) Subject to regulations 9 and 10, a person shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale if—
 
@@ -87,13 +87,13 @@ These Regulations may be cited as the Contaminants in Food (England) Regulations
 - (a) “authorised spinach” means spinach of the kind specified in point 1.1 of section 1 of Annex I to the Commission Regulation, which is grown in the United Kingdom in accordance with the proviso to Article 3.1 of that Regulation and is intended for human consumption there; and
 - (b) “authorised lettuce” means lettuce of the kind specified in point 1.3 or in point 1.4 of section 1 of Annex I to the Commission Regulation, which is grown in the United Kingdom in accordance with the proviso to Article 3.1 of that Regulation and is intended for human consumption there.
 
-## 4. Enforcement[^key-2058f585ed5472e04a87cd7e02d28505]
+## 4. Enforcement[^c-2058f585ed5472e04a87cd7e02d28505]
 
 (1) Subject to paragraph (2), it shall be the duty of each port health authority to execute and enforce these Regulations within its district.
 
 (2) In relation to any place which is not situated in the district of a port health authority, these Regulations shall be executed and enforced by the food authority for the area in which that place is situated.
 
-## 5. Modification of section 29 of the Food Safety Act 1990 (procurement of samples) and analysis of samples[^key-6db6727326259f97ea42dee5dfc7043e]
+## 5. Modification of section 29 of the Food Safety Act 1990 (procurement of samples) and analysis of samples[^c-6db6727326259f97ea42dee5dfc7043e]
 
 (1) In its application to the taking of a sample of any food specified in sections 1 to 5 of Annex I to the Commission Regulation, section 29 of the Act shall be modified so as to require the power to take samples under subsection (b) and (d) of that section to be exercised in accordance with the methods of taking samples described or referred to—
 
@@ -151,14 +151,14 @@ These Regulations may be cited as the Contaminants in Food (England) Regulations
   - (ii) by a laboratory which complies with the requirements of paragraph 4 of Annex II to Directive [2002/69/EC](https://www.legislation.gov.uk/european/directive/2002/0069); and
 - (c) the reporting of the results of the analysis of that sample is in accordance with paragraph 8 of Annex II to Directive [2002/69/EC](https://www.legislation.gov.uk/european/directive/2002/0069).
 
-## 6. Defence in relation to exports[^key-88553df57f8ec1c4c2973d8c63939291]
+## 6. Defence in relation to exports[^c-88553df57f8ec1c4c2973d8c63939291]
 
 In any proceedings for an offence consisting of a contravention of regulation 3 it shall be a defence for the accused to prove that—
 
 - (a) the food in respect of which the offence is alleged to have been committed was intended for export to a country (other than an EEA State) which has legislation analogous to these Regulations, and that the food complies with that legislation; or
 - (b) that food was intended for export to an EEA State which has legislation which complies with the provisions of the Commission Regulation.
 
-## 7. Application of various sections of the Food Safety Act 1990[^key-335b2223886cbd3b0059fc2e323753e6]
+## 7. Application of various sections of the Food Safety Act 1990[^c-335b2223886cbd3b0059fc2e323753e6]
 
 (1) The following provisions of the Act shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part thereof shall be construed as a reference to these Regulations—
 
@@ -214,7 +214,7 @@ In any proceedings for an offence consisting of a contravention of regulation 3 
 
 (3) The expressions “authorised officer”, “food authority”, “port health authority”, “human consumption”, “placing on the market”, “authorised spinach”, “authorised lettuce”, “Directive [98/53/EC](https://www.legislation.gov.uk/european/directive/1998/0053)”, “Directive [2001/22/EC](https://www.legislation.gov.uk/european/directive/2001/0022)”, “Directive [2002/26/EC](https://www.legislation.gov.uk/european/directive/2002/0026)” and “Directive [2002/69/EC](https://www.legislation.gov.uk/european/directive/2002/0069)”, which are used in section 9 of the Act so far as it applies for the purposes of these Regulations by virtue of paragraph (2), shall, for those purposes, bear the meanings that those expressions respectively bear in these Regulations.
 
-## 8. Re-dispatch or destruction of food imported into England that does not comply with these Regulations[^key-dc41217e65baddceea33d7332cea856a]
+## 8. Re-dispatch or destruction of food imported into England that does not comply with these Regulations[^c-dc41217e65baddceea33d7332cea856a]
 
 (1) If it appears to an authorised officer of a port health authority or as the case may be food authority that any food contravenes regulation 3(1)(a)(i) or (b)(i) and has been imported into England, he may, after appropriate consultation with a person appearing to him to be the importer, serve on that person a notice requiring—
 
@@ -238,13 +238,13 @@ In any proceedings for an offence consisting of a contravention of regulation 3 
 
 (8) Any person who breaches the terms of a notice served under paragraph (1) shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding three months.
 
-## 9. Transitional provisions[^key-b0a425f04047db63fbb0ebf766a51b0a]
+## 9. Transitional provisions[^c-b0a425f04047db63fbb0ebf766a51b0a]
 
 Regulation 3(1)(a)(i) and (b)(i) shall not apply in relation to any food lawfully placed on the market in the European Economic Area before 5th April 2002 which is covered by, but fails to meet the requirements of, Article 1.1, 2.1 or 2.2 of the Commission Regulation, as read with Article 1.2 of that Regulation, to the extent that the failure consists in the food being placed on the market containing a contaminant specified in section 3 or 4 of Annex I to that Regulation at a level higher than that specified in the second column of the section concerned.
 
-**10.**[^key-b343b21bacb2c8ff5081c0f72883090c] Regulation 3(1)(a)(ii) and (b)(ii) shall not apply in relation to any contravention of Article 2.3 of the Commission Regulation, to the extent that the contravention consists in the use as a food ingredient, for the production of a compound foodstuff, of food lawfully placed on the market in the European Economic Area before 5th April 2002 and containing a contaminant specified in section 3 or 4 of Annex I to that Regulation at a level higher than that specified in the second column of the section concerned.
+**10.**[^c-b343b21bacb2c8ff5081c0f72883090c] Regulation 3(1)(a)(ii) and (b)(ii) shall not apply in relation to any contravention of Article 2.3 of the Commission Regulation, to the extent that the contravention consists in the use as a food ingredient, for the production of a compound foodstuff, of food lawfully placed on the market in the European Economic Area before 5th April 2002 and containing a contaminant specified in section 3 or 4 of Annex I to that Regulation at a level higher than that specified in the second column of the section concerned.
 
-## 11. Consequential amendments[^key-64c0207bdd06554385f45cff3b24d0bd]
+## 11. Consequential amendments[^c-64c0207bdd06554385f45cff3b24d0bd]
 
 In Schedule 1 to the Food Safety (Sampling and Qualifications) Regulations 1990[^f00027] so far as they extend to England (provisions to which those Regulations do not apply) for the entry relating to the Contaminants in Food (England) Regulations 2002 there shall be substituted the following entry—
 
@@ -254,7 +254,7 @@ In Schedule 1 to the Food Safety (Sampling and Qualifications) Regulations 1990[
 
 .
 
-## 12. Revocation of the Contaminants in Food (England) Regulations 2002 and the Contaminants in Food (England) (Amendment) Regulations 2002[^key-23e39e5f0b58d957d0ed06ebcb75cdad]
+## 12. Revocation of the Contaminants in Food (England) Regulations 2002 and the Contaminants in Food (England) (Amendment) Regulations 2002[^c-23e39e5f0b58d957d0ed06ebcb75cdad]
 
 The Contaminants in Food (England) Regulations 2002[^f00028] and the Contaminants in Food (England) (Amendment) Regulations 2002[^f00029] shall be revoked.
 
@@ -306,9 +306,9 @@ Department of Health
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1.
 
-[^key-11b15d4d9011f2fcc63290e1ff02bfa3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
+[^c-11b15d4d9011f2fcc63290e1ff02bfa3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
 
-[^key-0bed0e732257a0edd3e5dbf2ce4234c8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
+[^c-0bed0e732257a0edd3e5dbf2ce4234c8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
 
 [^f00004]: Footnote: OJ No. L77, 16.3.2001, p.1, as adopted by EEA Joint Committee Decision No. 81/2002 (OJ No. L266, 3.10.2002, p.30 and EEA supplement No. 49, 3.10.2002).
 
@@ -352,31 +352,31 @@ Department of Health
 
 [^f00024]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-0356c4fd2e33c62c1e41eda0b9d15905]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
+[^c-0356c4fd2e33c62c1e41eda0b9d15905]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
 
-[^key-2058f585ed5472e04a87cd7e02d28505]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
+[^c-2058f585ed5472e04a87cd7e02d28505]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
 
-[^key-6db6727326259f97ea42dee5dfc7043e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
+[^c-6db6727326259f97ea42dee5dfc7043e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
 
 [^f00025]: Footnote: OJ No. L187, 16.7.2002, p.30.
 
-[^key-88553df57f8ec1c4c2973d8c63939291]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
+[^c-88553df57f8ec1c4c2973d8c63939291]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
 
-[^key-335b2223886cbd3b0059fc2e323753e6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
+[^c-335b2223886cbd3b0059fc2e323753e6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
 
-[^key-dc41217e65baddceea33d7332cea856a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
+[^c-dc41217e65baddceea33d7332cea856a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
 
 [^f00026]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-b0a425f04047db63fbb0ebf766a51b0a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
+[^c-b0a425f04047db63fbb0ebf766a51b0a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
 
-[^key-b343b21bacb2c8ff5081c0f72883090c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
+[^c-b343b21bacb2c8ff5081c0f72883090c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
 
-[^key-64c0207bdd06554385f45cff3b24d0bd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
+[^c-64c0207bdd06554385f45cff3b24d0bd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
 
 [^f00027]: Footnote: S.I. [1990/2463](https://www.legislation.gov.uk/uksi/1990/2463). The relevant amending instruments are S.I. [1999/1603](https://www.legislation.gov.uk/uksi/1999/1603) and S.I. [2002/890](https://www.legislation.gov.uk/uksi/2002/890).
 
-[^key-23e39e5f0b58d957d0ed06ebcb75cdad]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
+[^c-23e39e5f0b58d957d0ed06ebcb75cdad]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2005/222/regulation/2) in force at 30.6.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/1478/regulation/1)
 
 [^f00028]: Footnote: S.I. [2002/890](https://www.legislation.gov.uk/uksi/2002/890).
 

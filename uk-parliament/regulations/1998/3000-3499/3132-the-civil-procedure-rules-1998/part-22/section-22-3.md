@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22.3. Failure to verify a witness statement[^key-e405eed75fa536b6a1687a301c9f6306]
+## 22.3. Failure to verify a witness statement[^c-e405eed75fa536b6a1687a301c9f6306]
 
 *Extent: E+W*
 
-If the maker of a witness statement fails to verify it[^key-d21e6dd70b6147fcce64cb576b3f2216] by a statement of truth the court may direct that it shall not be admissible as evidence.
+If the maker of a witness statement fails to verify it[^c-d21e6dd70b6147fcce64cb576b3f2216] by a statement of truth the court may direct that it shall not be admissible as evidence.
 
 ## Annotations
 
-[^key-e405eed75fa536b6a1687a301c9f6306]: Commencement: [Rule 22.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/22.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-e405eed75fa536b6a1687a301c9f6306]: Commencement: [Rule 22.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/22.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-d21e6dd70b6147fcce64cb576b3f2216]: Textual amendment: Word in rule 22.3 substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2023/788/rule/13/3)
+[^c-d21e6dd70b6147fcce64cb576b3f2216]: Textual amendment: Word in rule 22.3 substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2023/788/rule/13/3)

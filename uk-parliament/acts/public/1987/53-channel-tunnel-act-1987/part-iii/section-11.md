@@ -92,7 +92,7 @@ outside the tunnel system (whether in the United Kingdom or elsewhere);
 - (b) “**the former Concessionaires**” means, in relation to any such substitution or in relation to the expiry or termination of the Concession, the person or persons who cease to be the Concessionaires on that substitution or on that expiry or termination;
 - (c) “**liabilities**” includes duties and obligations;
 - (d) “**company**” means a British company or a French company;
-- (e) “**British company**” means a company formed and registered under the Companies Act 2006[^key-271b6158f1bb5770f83206cc5df111db];
+- (e) “**British company**” means a company formed and registered under the Companies Act 2006[^c-271b6158f1bb5770f83206cc5df111db];
 - (f) “**French company**” means a body corporate incorporated under the law of France;
 - (g) “**liquidator**” means, in relation to a company, a person appointed as liquidator or provisional liquidator of the company under any provision of the [^c7868551]Insolvency Act 1986 or exercising in relation to the company functions under the law of France corresponding to those of a person so appointed, and the reference in subsection (8) above to any person other than a liquidator exercising functions under insolvency law in relation to a company is a reference to—
   - (i) any person appointed as the administrator of the company under any provision of that Act;
@@ -103,6 +103,6 @@ outside the tunnel system (whether in the United Kingdom or elsewhere);
 
 ## Annotations
 
-[^key-271b6158f1bb5770f83206cc5df111db]: Textual amendment: Words in [s. 11(11)(e)](https://www.legislation.gov.uk/ukpga/1987/53/section/11/11/e) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 91](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/91) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-271b6158f1bb5770f83206cc5df111db]: Textual amendment: Words in [s. 11(11)(e)](https://www.legislation.gov.uk/ukpga/1987/53/section/11/11/e) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 91](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/91) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c7868551]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).

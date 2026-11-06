@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Advocacy service standards[^key-665088cfea98865c8776d9848cc4eeb4]
+## 11. Advocacy service standards[^c-665088cfea98865c8776d9848cc4eeb4]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-665088cfea98865c8776d9848cc4eeb4]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2018/9/section/11) in force at 27.3.2020 by [S.S.I. 2020/75](https://www.legislation.gov.uk/ssi/2020/75), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2020/75/regulation/2/1/b)
+[^c-665088cfea98865c8776d9848cc4eeb4]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2018/9/section/11) in force at 27.3.2020 by [S.S.I. 2020/75](https://www.legislation.gov.uk/ssi/2020/75), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2020/75/regulation/2/1/b)

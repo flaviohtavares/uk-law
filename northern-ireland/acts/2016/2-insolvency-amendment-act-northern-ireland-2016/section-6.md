@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Fast-track voluntary arrangements: notification of the Department[^key-6845e0fc975d4f4df7885a9d89496b41]
+## 6. Fast-track voluntary arrangements: notification of the Department[^c-6845e0fc975d4f4df7885a9d89496b41]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In Article 237C of the Insolvency Order (result) after “Court” insert “ , 
 
 ## Annotations
 
-[^key-6845e0fc975d4f4df7885a9d89496b41]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2016/2/section/6) in operation at 4.11.2020 by [S.R. 2020/236](https://www.legislation.gov.uk/nisr/2020/236), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/236/article/2/a)
+[^c-6845e0fc975d4f4df7885a9d89496b41]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2016/2/section/6) in operation at 4.11.2020 by [S.R. 2020/236](https://www.legislation.gov.uk/nisr/2020/236), [art. 2(a)](https://www.legislation.gov.uk/nisr/2020/236/article/2/a)

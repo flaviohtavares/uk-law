@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Partnerships[^key-621542f1a67c512968aa43f23f120050]
+## 132. Partnerships[^c-621542f1a67c512968aa43f23f120050]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-3b106c12220558d9c71821b7beff25cd] The Lord Chancellor may, by order made with the concurrence of the Secretary of State and the Lord Chief Justice, modify provisions of this Part in their application to partnerships.
+(1)[^c-3b106c12220558d9c71821b7beff25cd] The Lord Chancellor may, by order made with the concurrence of the Secretary of State and the Lord Chief Justice, modify provisions of this Part in their application to partnerships.
 
 (2) For procedural purposes an order under subsection (1) shall be treated in the same way as an order under section 420 of the Insolvency Act 1986 (partnerships).
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-621542f1a67c512968aa43f23f120050]: Commencement: S. 132 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-621542f1a67c512968aa43f23f120050]: Commencement: S. 132 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
 
-[^key-3b106c12220558d9c71821b7beff25cd]: Modification: S. 132(1): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 23](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/23) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-3b106c12220558d9c71821b7beff25cd]: Modification: S. 132(1): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 23](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/23) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

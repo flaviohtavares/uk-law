@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71ZI. Overpayment of non-benefit payments: overview and recovery[^key-4878a8887c9505f62f11c666e4ce1398]
+## 71ZI. Overpayment of non-benefit payments: overview and recovery[^c-4878a8887c9505f62f11c666e4ce1398]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ and the “overpayment” is that payment or amount.
 
 ## Annotations
 
-[^key-4878a8887c9505f62f11c666e4ce1398]: Textual amendment: [Ss. 71ZI-71ZK](https://www.legislation.gov.uk/ukpga/1992/5/section/71ZI) and cross-heading inserted (1.4.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 93](https://www.legislation.gov.uk/ukpga/2025/28/section/93), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/d)
+[^c-4878a8887c9505f62f11c666e4ce1398]: Textual amendment: [Ss. 71ZI-71ZK](https://www.legislation.gov.uk/ukpga/1992/5/section/71ZI) and cross-heading inserted (1.4.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 93](https://www.legislation.gov.uk/ukpga/2025/28/section/93), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/d)

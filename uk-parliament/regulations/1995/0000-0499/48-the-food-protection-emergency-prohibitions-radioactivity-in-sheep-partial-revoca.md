@@ -30,7 +30,7 @@ PUBLIC HEALTH, NORTHERN IRELAND
 
 CONTAMINATION OF FOOD
 
-[^key-a97c79be0e0fd7ab0d7f6eaf888aa54e]The Food Protection (Emergency Prohibitions) (Radioactivity in Sheep) Partial Revocation Order 1995 (revoked)
+[^c-a97c79be0e0fd7ab0d7f6eaf888aa54e]The Food Protection (Emergency Prohibitions) (Radioactivity in Sheep) Partial Revocation Order 1995 (revoked)
 
 Made
 
@@ -76,4 +76,4 @@ Coming into force
 
 ## Annotations
 
-[^key-a97c79be0e0fd7ab0d7f6eaf888aa54e]: Textual amendment: Regulations revoked (1.10.2012) by [The Food Protection (Emergency Prohibitions) (Radioactivity in Sheep) and the Export of Sheep (Prohibition) Revocation (Scotland) Order 2012 (S.S.I. 2012/263)](https://www.legislation.gov.uk/ssi/2012/263), [reg. 1](https://www.legislation.gov.uk/ssi/2012/263/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2012/263/schedule)
+[^c-a97c79be0e0fd7ab0d7f6eaf888aa54e]: Textual amendment: Regulations revoked (1.10.2012) by [The Food Protection (Emergency Prohibitions) (Radioactivity in Sheep) and the Export of Sheep (Prohibition) Revocation (Scotland) Order 2012 (S.S.I. 2012/263)](https://www.legislation.gov.uk/ssi/2012/263), [reg. 1](https://www.legislation.gov.uk/ssi/2012/263/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2012/263/schedule)

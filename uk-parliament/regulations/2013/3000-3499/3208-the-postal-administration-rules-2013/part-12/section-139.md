@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139. Use of proxies at meetings[^key-d32ab52bf1f36cca39c767ae031cbee3]
+## 139. Use of proxies at meetings[^c-d32ab52bf1f36cca39c767ae031cbee3]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d32ab52bf1f36cca39c767ae031cbee3]: Commencement: [Rule 139](https://www.legislation.gov.uk/uksi/2013/3208/rule/139) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-d32ab52bf1f36cca39c767ae031cbee3]: Commencement: [Rule 139](https://www.legislation.gov.uk/uksi/2013/3208/rule/139) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

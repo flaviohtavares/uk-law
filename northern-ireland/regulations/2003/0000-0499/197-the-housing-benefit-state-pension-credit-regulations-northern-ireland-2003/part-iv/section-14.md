@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Time claims are made or treated as made[^key-0d08339663657882488d225f9e16bab8]
+## 14. Time claims are made or treated as made[^c-0d08339663657882488d225f9e16bab8]
 
 *Extent: N.I.*
 
@@ -40,7 +40,7 @@ In regulation 72 of the Housing Benefit Regulations (time and manner in which cl
 
 ## Annotations
 
-[^key-0d08339663657882488d225f9e16bab8]: Commencement: Reg. 14 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-0d08339663657882488d225f9e16bab8]: Commencement: Reg. 14 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00083]: Footnote: Paragraph (5) was amended by regulation 4(4)(a) of [S.R. 1990 No. 137](https://www.legislation.gov.uk/nisr/1990/137), regulation 9(a) of [S.R. 1991 No. 47](https://www.legislation.gov.uk/nisr/1991/47), regulation 3(a) of [S.R. 1991 No. 176](https://www.legislation.gov.uk/nisr/1991/176) and regulation 13(b) of [S.R. 1996 No. 334](https://www.legislation.gov.uk/nisr/1996/334)
 

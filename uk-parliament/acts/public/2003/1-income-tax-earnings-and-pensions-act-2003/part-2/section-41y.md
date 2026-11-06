@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41Y. Location of employment duties[^key-136f1c4573a8120bd967a5b83f07519e]
+## 41Y. Location of employment duties[^c-136f1c4573a8120bd967a5b83f07519e]
 
 *Extent: E+W+S+N.I.*
 
-(1) Section 38 (period of absence from employment) and section 38A (earnings in respect of duties not performed) apply[^key-705d08f732a49e65f1433910d7d0fa5a] for the purposes of this Chapter as if references to general earnings were to general earnings or third party income.
+(1) Section 38 (period of absence from employment) and section 38A (earnings in respect of duties not performed) apply[^c-705d08f732a49e65f1433910d7d0fa5a] for the purposes of this Chapter as if references to general earnings were to general earnings or third party income.
 
 (2) Section 40(1) and (2) (place of performance of duties on board vessel or aircraft) applies for the purposes of this Chapter.
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-136f1c4573a8120bd967a5b83f07519e]: Textual amendment: [Pt. 2 Ch. 5C](https://www.legislation.gov.uk/ukpga/2003/1/part/2/chapter/5C) inserted (20.3.2025 for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/1)[(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))
+[^c-136f1c4573a8120bd967a5b83f07519e]: Textual amendment: [Pt. 2 Ch. 5C](https://www.legislation.gov.uk/ukpga/2003/1/part/2/chapter/5C) inserted (20.3.2025 for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/1)[(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))
 
-[^key-705d08f732a49e65f1433910d7d0fa5a]: Textual amendment: Words in [s. 41Y(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/41Y/1) substituted (with effect in accordance with s. 23(7) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 23(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/23/5)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/23/7)
+[^c-705d08f732a49e65f1433910d7d0fa5a]: Textual amendment: Words in [s. 41Y(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/41Y/1) substituted (with effect in accordance with s. 23(7) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 23(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/23/5)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/23/7)

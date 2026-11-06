@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 51. Role of PCC in maintaining etc. trees in churchyards[^key-40fd819a5cd2fa29e70ffa09a60c72a1]
+## 51. Role of PCC in maintaining etc. trees in churchyards[^c-40fd819a5cd2fa29e70ffa09a60c72a1]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40fd819a5cd2fa29e70ffa09a60c72a1]: Commencement: [S. 51](https://www.legislation.gov.uk/ukcm/2018/3/section/51) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-40fd819a5cd2fa29e70ffa09a60c72a1]: Commencement: [S. 51](https://www.legislation.gov.uk/ukcm/2018/3/section/51) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

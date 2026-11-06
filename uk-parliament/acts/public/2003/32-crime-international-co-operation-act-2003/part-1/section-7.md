@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Requests for assistance in obtaining evidence abroad[^key-bc40f253934b02d03c1a4ecf295e131d]
+## 7. Requests for assistance in obtaining evidence abroad[^c-bc40f253934b02d03c1a4ecf295e131d]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,10 +53,10 @@ the judicial authority may request assistance under this section.
 - (a) that an offence has been committed or that there are reasonable grounds for suspecting that an offence has been committed, and
 - (b) that proceedings in respect of the offence have been instituted or that the offence is being investigated.
 
-(7)[^key-ad4d5547d4981c996f594ece3bda2f68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-ad4d5547d4981c996f594ece3bda2f68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bc40f253934b02d03c1a4ecf295e131d]: Commencement: S. 7 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-bc40f253934b02d03c1a4ecf295e131d]: Commencement: S. 7 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-ad4d5547d4981c996f594ece3bda2f68]: Textual amendment: [S. 7(7)](https://www.legislation.gov.uk/ukpga/2003/32/section/7/7) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [87(3)](https://www.legislation.gov.uk/uksi/2019/742/regulation/87/3) (with [reg. 98](https://www.legislation.gov.uk/uksi/2019/742/regulation/98)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [22](https://www.legislation.gov.uk/uksi/2020/1408/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad4d5547d4981c996f594ece3bda2f68]: Textual amendment: [S. 7(7)](https://www.legislation.gov.uk/ukpga/2003/32/section/7/7) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [87(3)](https://www.legislation.gov.uk/uksi/2019/742/regulation/87/3) (with [reg. 98](https://www.legislation.gov.uk/uksi/2019/742/regulation/98)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [22](https://www.legislation.gov.uk/uksi/2020/1408/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Academies: land[^key-e6dfa7a04e6ca46cd78b5730d94f0d18]
+## 63. Academies: land[^c-e6dfa7a04e6ca46cd78b5730d94f0d18]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 14 (Academies: land) has effect.
 
 ## Annotations
 
-[^key-e6dfa7a04e6ca46cd78b5730d94f0d18]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2011/21/section/63) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-e6dfa7a04e6ca46cd78b5730d94f0d18]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2011/21/section/63) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

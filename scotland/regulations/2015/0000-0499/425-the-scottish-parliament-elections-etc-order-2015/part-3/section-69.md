@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. False statements as to candidates[^key-01ae58dcd58ab39a3832385b955c0a9d]
+## 69. False statements as to candidates[^c-01ae58dcd58ab39a3832385b955c0a9d]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ makes or publishes any false statement of fact in relation to the personal chara
 
 ## Annotations
 
-[^key-01ae58dcd58ab39a3832385b955c0a9d]: Commencement: Art. 69 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-01ae58dcd58ab39a3832385b955c0a9d]: Commencement: Art. 69 in force at 16.12.2015 in accordance with art. 1(1)

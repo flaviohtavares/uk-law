@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18C. Review of polling districts and places: Great Britain[^c19430921][^c14479931][^key-fdd1838eee8ecf7a14b3332a92d66a86]
+## 18C. Review of polling districts and places: Great Britain[^c19430921][^c14479931][^c-fdd1838eee8ecf7a14b3332a92d66a86]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-92ed7def7bea38e48c912ec8ee8e9337] A relevant authority must during each compulsory review period carry out and complete—
+(1)[^c-92ed7def7bea38e48c912ec8ee8e9337] A relevant authority must during each compulsory review period carry out and complete—
 
 - (a) a review under section 18A of all the polling districts in its area, and
 - (b) a review under section 18B of all the polling places in its area.
@@ -34,7 +34,7 @@ summary: ''
 
 (6) Schedule A1 has effect in relation to a review.
 
-(7)[^key-b5a520ab9d54bce2f182fb05408719e2] This section does not apply to Northern Ireland.
+(7)[^c-b5a520ab9d54bce2f182fb05408719e2] This section does not apply to Northern Ireland.
 
 ## Annotations
 
@@ -42,8 +42,8 @@ summary: ''
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 
-[^key-fdd1838eee8ecf7a14b3332a92d66a86]: Textual amendment: Words in s. 18C heading inserted (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2013/3156/article/9/4/a)
+[^c-fdd1838eee8ecf7a14b3332a92d66a86]: Textual amendment: Words in s. 18C heading inserted (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2013/3156/article/9/4/a)
 
-[^key-92ed7def7bea38e48c912ec8ee8e9337]: Textual amendment: S. 18C(1)-(3) substituted for s. 18(1)-(5) (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 17](https://www.legislation.gov.uk/ukpga/2013/6/section/17), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/702/article/3/c)
+[^c-92ed7def7bea38e48c912ec8ee8e9337]: Textual amendment: S. 18C(1)-(3) substituted for s. 18(1)-(5) (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 17](https://www.legislation.gov.uk/ukpga/2013/6/section/17), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/702/article/3/c)
 
-[^key-b5a520ab9d54bce2f182fb05408719e2]: Textual amendment: S. 18C(7) inserted (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2013/3156/article/9/4/b)
+[^c-b5a520ab9d54bce2f182fb05408719e2]: Textual amendment: S. 18C(7) inserted (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2013/3156/article/9/4/b)

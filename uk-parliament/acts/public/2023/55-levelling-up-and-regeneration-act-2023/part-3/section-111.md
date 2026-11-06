@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Development commencement notices[^key-0fda38eefb6cfd3ec950230ef78c9e45][^key-cb8b6119164f0deb0e95f25ce180b548]
+## 111. Development commencement notices[^c-0fda38eefb6cfd3ec950230ef78c9e45][^c-cb8b6119164f0deb0e95f25ce180b548]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0fda38eefb6cfd3ec950230ef78c9e45]: Commencement: S. 111 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-0fda38eefb6cfd3ec950230ef78c9e45]: Commencement: S. 111 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-cb8b6119164f0deb0e95f25ce180b548]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2023/55/section/111) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/g)
+[^c-cb8b6119164f0deb0e95f25ce180b548]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2023/55/section/111) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/g)

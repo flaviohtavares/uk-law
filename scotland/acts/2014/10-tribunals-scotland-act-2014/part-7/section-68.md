@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Tribunal Rules[^key-8820b6ae8da781f29da182c199939fab]
+## 68. Tribunal Rules[^c-8820b6ae8da781f29da182c199939fab]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8820b6ae8da781f29da182c199939fab]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2014/10/section/68) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-8820b6ae8da781f29da182c199939fab]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2014/10/section/68) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67F. Additional information about payments[^key-08b6e8f9f8eba33d4316dc76fb9ec396]
+## 67F. Additional information about payments[^c-08b6e8f9f8eba33d4316dc76fb9ec396]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 - (a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) be sent within 14 days of the end of final tax period of the tax year.
-- (c)[^key-8c236e824f2653d8bb4e02ac5182eb4c] if the notification is under paragraph (1)(b)(i), include the date on which the PAYE scheme ceased
+- (c)[^c-8c236e824f2653d8bb4e02ac5182eb4c] if the notification is under paragraph (1)(b)(i), include the date on which the PAYE scheme ceased
 
 (3) A notification under this regulation must—
 
@@ -42,12 +42,12 @@ summary: ''
   - (iv) the employer’s accounts office reference, and
 - (b) be sent using an approved method of electronic communications unless the employer is one to whom regulation 67D applies.
 
-(4)[^key-6661fd89f02e96cb653234616405b71d] This regulation applies in addition to the provisions set out in regulation 147D (duty to report amount of apprenticeship levy to be paid).
+(4)[^c-6661fd89f02e96cb653234616405b71d] This regulation applies in addition to the provisions set out in regulation 147D (duty to report amount of apprenticeship levy to be paid).
 
 ## Annotations
 
-[^key-08b6e8f9f8eba33d4316dc76fb9ec396]: Textual amendment: Regs. 67B-67H and cross-headings inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2012/822/regulation/27/b) (with [regs. 54-57](https://www.legislation.gov.uk/uksi/2012/822/regulation/54))
+[^c-08b6e8f9f8eba33d4316dc76fb9ec396]: Textual amendment: Regs. 67B-67H and cross-headings inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2012/822/regulation/27/b) (with [regs. 54-57](https://www.legislation.gov.uk/uksi/2012/822/regulation/54))
 
-[^key-8c236e824f2653d8bb4e02ac5182eb4c]: Textual amendment: Reg. 67F(2)(c) inserted (with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2013/521/regulation/24)
+[^c-8c236e824f2653d8bb4e02ac5182eb4c]: Textual amendment: Reg. 67F(2)(c) inserted (with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2013/521/regulation/24)
 
-[^key-6661fd89f02e96cb653234616405b71d]: Textual amendment: Reg. 67F(4) inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/4)
+[^c-6661fd89f02e96cb653234616405b71d]: Textual amendment: Reg. 67F(4) inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/4)

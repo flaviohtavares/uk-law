@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Revocation[^key-48db7e61bfb577fea26b2dbb9c01b857]
+## 4. Revocation[^c-48db7e61bfb577fea26b2dbb9c01b857]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ Regulations 1, 2 and 4 and schedules 1 and 3 of the First-tier Tribunal for Scot
 
 ## Annotations
 
-[^key-48db7e61bfb577fea26b2dbb9c01b857]: Commencement: Reg. 4 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
+[^c-48db7e61bfb577fea26b2dbb9c01b857]: Commencement: Reg. 4 in force at 1.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/328/regulation/1/2)
 
 [^f00014]: Footnote: [S.S.I. 2016/339](https://www.legislation.gov.uk/ssi/2016/339) amended by [S.S.I. 2017/68](https://www.legislation.gov.uk/ssi/2017/68).
 

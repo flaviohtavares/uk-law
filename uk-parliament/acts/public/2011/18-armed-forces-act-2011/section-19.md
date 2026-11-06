@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Administrative reduction in rank or rate[^key-23d203b508d536e0bc180be74317b847]
+## 19. Administrative reduction in rank or rate[^c-23d203b508d536e0bc180be74317b847]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23d203b508d536e0bc180be74317b847]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2011/18/section/19) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
+[^c-23d203b508d536e0bc180be74317b847]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2011/18/section/19) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)

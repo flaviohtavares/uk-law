@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Return of child in other cases[^key-ae87a4d67d784709644a22010032f595]
+## 32. Return of child in other cases[^c-ae87a4d67d784709644a22010032f595]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ prospective adopters are not required by virtue of the notice to secure the chil
 
 ## Annotations
 
-[^key-ae87a4d67d784709644a22010032f595]: Commencement: S. 32 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-ae87a4d67d784709644a22010032f595]: Commencement: S. 32 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

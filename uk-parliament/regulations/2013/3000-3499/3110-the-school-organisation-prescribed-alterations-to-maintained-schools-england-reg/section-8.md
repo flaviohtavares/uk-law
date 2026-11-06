@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Revocations and saving provisions[^key-7474c9ffd5cf39b216b1972cdfaa2fd8]
+## 8. Revocations and saving provisions[^c-7474c9ffd5cf39b216b1972cdfaa2fd8]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7474c9ffd5cf39b216b1972cdfaa2fd8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/3110/regulation/8) in force at 28.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3110/regulation/1/1)
+[^c-7474c9ffd5cf39b216b1972cdfaa2fd8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/3110/regulation/8) in force at 28.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3110/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 2007/1289](https://www.legislation.gov.uk/uksi/2007/1289).
 

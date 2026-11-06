@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Production of licences[^key-acfdc80c3f0fb8dd2cddd8985447e2df]
+## 39. Production of licences[^c-acfdc80c3f0fb8dd2cddd8985447e2df]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-acfdc80c3f0fb8dd2cddd8985447e2df]: Commencement: Reg. 39 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-acfdc80c3f0fb8dd2cddd8985447e2df]: Commencement: Reg. 39 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

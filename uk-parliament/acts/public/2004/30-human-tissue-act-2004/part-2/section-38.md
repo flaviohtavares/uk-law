@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Duties in relation to carrying out functions[^key-8eefb5ad26b03cb845147c76f7115ee7]
+## 38. Duties in relation to carrying out functions[^c-8eefb5ad26b03cb845147c76f7115ee7]
 
 *Extent: E+W+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8eefb5ad26b03cb845147c76f7115ee7]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2004/30/section/38) in force at 1.4.2005 by [S.I. 2005/919](https://www.legislation.gov.uk/uksi/2005/919), [art. 3](https://www.legislation.gov.uk/uksi/2005/919/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/919/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/919/article/2))
+[^c-8eefb5ad26b03cb845147c76f7115ee7]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2004/30/section/38) in force at 1.4.2005 by [S.I. 2005/919](https://www.legislation.gov.uk/uksi/2005/919), [art. 3](https://www.legislation.gov.uk/uksi/2005/919/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/919/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/919/article/2))

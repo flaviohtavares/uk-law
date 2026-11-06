@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The county court[^key-8b968a466898380c853ff658cf0972d3] or the sheriff may, on an application by a person who has an interest in a contract or other agreement which includes a term that is unenforceable as a result of section 142, make an order for the term to be removed or modified.
+(1) The county court[^c-8b968a466898380c853ff658cf0972d3] or the sheriff may, on an application by a person who has an interest in a contract or other agreement which includes a term that is unenforceable as a result of section 142, make an order for the term to be removed or modified.
 
 (2) An order under this section must not be made unless every person who would be affected by it—
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b968a466898380c853ff658cf0972d3]: Textual amendment: Words in [s. 143(1)](https://www.legislation.gov.uk/ukpga/2010/15/section/143/1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-8b968a466898380c853ff658cf0972d3]: Textual amendment: Words in [s. 143(1)](https://www.legislation.gov.uk/ukpga/2010/15/section/143/1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

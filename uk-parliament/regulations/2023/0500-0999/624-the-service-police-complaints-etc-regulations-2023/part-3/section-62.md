@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Appropriate authority to notify the Commissioner of outcome of administrative action procedures etc.[^key-a1740b66314db5d7d8425d66d8f4c67e]
+## 62. Appropriate authority to notify the Commissioner of outcome of administrative action procedures etc.[^c-a1740b66314db5d7d8425d66d8f4c67e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The appropriate authority must notify the Commissioner of the outcome of any adm
 
 ## Annotations
 
-[^key-a1740b66314db5d7d8425d66d8f4c67e]: Commencement: Reg. 62 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-a1740b66314db5d7d8425d66d8f4c67e]: Commencement: Reg. 62 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

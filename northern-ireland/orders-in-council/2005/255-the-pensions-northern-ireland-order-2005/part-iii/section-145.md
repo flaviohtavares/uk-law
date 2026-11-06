@@ -33,7 +33,7 @@ and, accordingly, the scheme is to be treated as having been wound up immediatel
 (3)[^c17105191] In paragraph (2)(a) the reference to liabilities of the scheme does not include any liability to, or in respect of, any member of the scheme, other than—
 
 - (a) liabilities in respect of money purchase benefits, and
-- (b)[^key-653d979a649809ecd7f0703122078a33] such other liabilities as may be prescribed.
+- (b)[^c-653d979a649809ecd7f0703122078a33] such other liabilities as may be prescribed.
 
 (4) In paragraph (2)(b) “pension obligations” in relation to the trustees or managers of the scheme means—
 
@@ -66,4 +66,4 @@ and, accordingly, the scheme is to be treated as having been wound up immediatel
 
 [^c17105231]: Textual amendment: mod. by SR 2005/91
 
-[^key-653d979a649809ecd7f0703122078a33]: Commencement: [Art. 145(3)(b)](https://www.legislation.gov.uk/nisi/2005/255/article/145/3/b) in operation at 25.6.2014 by [S.R. 2014/183](https://www.legislation.gov.uk/nisr/2014/183), [art. 2](https://www.legislation.gov.uk/nisr/2014/183/article/2)
+[^c-653d979a649809ecd7f0703122078a33]: Commencement: [Art. 145(3)(b)](https://www.legislation.gov.uk/nisi/2005/255/article/145/3/b) in operation at 25.6.2014 by [S.R. 2014/183](https://www.legislation.gov.uk/nisr/2014/183), [art. 2](https://www.legislation.gov.uk/nisr/2014/183/article/2)

@@ -112,7 +112,7 @@ Now therefore, the Secretary of State for Social Security, in exercise of the po
 (1) This regulation applies where—
 
 - (i) the Secretary of State recovers arrears from an non-resident parent[^M_F_7e648319-000b-42f5-b8b1-07376810dab1] under section 41 of the Act ; and
-- (ii) income support or income-based jobseeker’s allowance[^key-d890dd5ada78f9373c815314b8f8d108] is paid to or in respect of the person with care or was paid to or in respect of that person at the date or dates upon which the payment or payments of child support maintenance referred to in paragraph (2) should have been made.
+- (ii) income support or income-based jobseeker’s allowance[^c-d890dd5ada78f9373c815314b8f8d108] is paid to or in respect of the person with care or was paid to or in respect of that person at the date or dates upon which the payment or payments of child support maintenance referred to in paragraph (2) should have been made.
 
 (2) Where paragraph (1) applies, the Secretary of State may retain such amount of those arrears as is equal to the difference between the amount of income support or income-based jobseeker’s allowance that was paid to or in respect of the person with care and the amount of income support or income-based jobseeker’s allowance that he is satisfied would have been paid had the non-resident parent[^M_F_f4653f05-a831-439b-c93f-af28f3ded3d1] paid, by the due dates, the amounts due under the child support maintenance calculation[^M_F_d29311dc-b987-441c-ca47-ee31db85618c] in force or to be taken to have been in force by virtue of the provisions of section 41(2A) of the Act .
 
@@ -130,7 +130,7 @@ Now therefore, the Secretary of State for Social Security, in exercise of the po
 
 (1) The Secretary of State may require a relevant person to repay the whole or a part of any payment by way of reimbursement made to an non-resident parent[^M_F_f00ab23f-61fd-497a-98f9-c9858a4a3f80] under section 41B(2) of the Act where the overpayment referred to in section 41B(1) of the Act arose—
 
-- (a) in respect of the amount payable under a maintenance calculation[^M_F_235a007c-f11f-4187-b0be-db5475e7af90] calculated in accordance with Part I of Schedule 1 to the Act and where income support, income-related employment and support allowance[^key-04126f3f0a3d5a001946778f53d433b5], state pension credit[^M_F_e574c959-50cf-41cf-8ada-148ea9160ad3] or income-based jobseeker’s allowance[^key-0e9d98bda482d6e7116422261322f173] , [^M_F_356fb335-7156-4eae-c418-da06eb261b11]... was not in payment to that person at any time during the period in which that overpayment occurred or at the date or dates on which the payment by way of reimbursement was made; or
+- (a) in respect of the amount payable under a maintenance calculation[^M_F_235a007c-f11f-4187-b0be-db5475e7af90] calculated in accordance with Part I of Schedule 1 to the Act and where income support, income-related employment and support allowance[^c-04126f3f0a3d5a001946778f53d433b5], state pension credit[^M_F_e574c959-50cf-41cf-8ada-148ea9160ad3] or income-based jobseeker’s allowance[^c-0e9d98bda482d6e7116422261322f173] , [^M_F_356fb335-7156-4eae-c418-da06eb261b11]... was not in payment to that person at any time during the period in which that overpayment occurred or at the date or dates on which the payment by way of reimbursement was made; or
 - (b)[^M_F_b5a0c28c-8923-4350-ad56-e4cb95aa66c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In a case falling within section 4 or 7 of the Act , where the circumstances set out in section 41B(6) apply, the Secretary of State may retain out of the child support maintenance collected by him in accordance with section 29 of the Act such sums as cover the amount of any payment by way of reimbursement required by him from the relevant person under section 41B(3) of the Act .
@@ -248,7 +248,7 @@ Regulations 14 and 15 apply certain provisions of the Child Support (Maintenance
 
 [^M_F_7e648319-000b-42f5-b8b1-07376810dab1]: Textual amendment: Reg. 8 words substituted (3.3.2003) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 5(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
 
-[^key-d890dd5ada78f9373c815314b8f8d108]: Textual amendment: Words in reg. 8 inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/3/2/b)
+[^c-d890dd5ada78f9373c815314b8f8d108]: Textual amendment: Words in reg. 8 inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/3/2/b)
 
 [^M_F_f4653f05-a831-439b-c93f-af28f3ded3d1]: Textual amendment: Reg. 8 words substituted (3.3.2003) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 5(3)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
 
@@ -268,11 +268,11 @@ Regulations 14 and 15 apply certain provisions of the Child Support (Maintenance
 
 [^M_F_235a007c-f11f-4187-b0be-db5475e7af90]: Textual amendment: Words in reg. 10A(1)(a) substituted (3.3.2003) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 5(4)(b)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/4/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
 
-[^key-04126f3f0a3d5a001946778f53d433b5]: Textual amendment: Words in reg. 10A(1)(a) inserted (23.3.2015) by [The Child Support (Miscellaneous and Consequential Amendments) Regulations 2015 (S.I. 2015/338)](https://www.legislation.gov.uk/uksi/2015/338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/338/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2015/338/regulation/4)
+[^c-04126f3f0a3d5a001946778f53d433b5]: Textual amendment: Words in reg. 10A(1)(a) inserted (23.3.2015) by [The Child Support (Miscellaneous and Consequential Amendments) Regulations 2015 (S.I. 2015/338)](https://www.legislation.gov.uk/uksi/2015/338), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/338/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2015/338/regulation/4)
 
 [^M_F_e574c959-50cf-41cf-8ada-148ea9160ad3]: Textual amendment: Word in reg. 10A inserted (6.10.2003) by [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019), [reg. 26(3)](https://www.legislation.gov.uk/uksi/2002/3019/regulation/26/3)
 
-[^key-0e9d98bda482d6e7116422261322f173]: Textual amendment: Words in reg. 10A inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/3/2/c)
+[^c-0e9d98bda482d6e7116422261322f173]: Textual amendment: Words in reg. 10A inserted (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/1996/1345/regulation/3/2/c)
 
 [^M_F_356fb335-7156-4eae-c418-da06eb261b11]: Textual amendment: Words in reg 10A(1)(a) omitted (3.3.2003) by [S.I. 2001/162](https://www.legislation.gov.uk/uksi/2001/162), [reg. 5(4)(e)](https://www.legislation.gov.uk/uksi/2001/162/regulation/5/4/e) (with [reg. 6](https://www.legislation.gov.uk/uksi/2001/162/regulation/6))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4D. Further provision about authority created by section 4A order[^key-f455a5ec8458ad32a969552ec2e67dd3]
+## 4D. Further provision about authority created by section 4A order[^c-f455a5ec8458ad32a969552ec2e67dd3]
 
 *Extent: E+W*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f455a5ec8458ad32a969552ec2e67dd3]: Textual amendment: [Ss. 4A-4M](https://www.legislation.gov.uk/ukpga/2004/21/section/4A) and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/5); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-f455a5ec8458ad32a969552ec2e67dd3]: Textual amendment: [Ss. 4A-4M](https://www.legislation.gov.uk/ukpga/2004/21/section/4A) and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/5); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 297C. Armed forces: Continuity of Education Allowance[^key-da2c6b3693a7e4e0d1692ce624c65435]
+## 297C. Armed forces: Continuity of Education Allowance[^c-da2c6b3693a7e4e0d1692ce624c65435]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da2c6b3693a7e4e0d1692ce624c65435]: Textual amendment: S. 297C inserted (with effect in accordance with s. 16(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 16(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/16/4)
+[^c-da2c6b3693a7e4e0d1692ce624c65435]: Textual amendment: S. 297C inserted (with effect in accordance with s. 16(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 16(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/16/4)

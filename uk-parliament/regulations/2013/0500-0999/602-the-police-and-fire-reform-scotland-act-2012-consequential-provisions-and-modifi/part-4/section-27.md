@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Transitional and savings provision[^key-16f5b81f5c92f15214daa39b2fad2c72]
+## 27. Transitional and savings provision[^c-16f5b81f5c92f15214daa39b2fad2c72]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 (transitional and savings provisions) has effect.
 
 ## Annotations
 
-[^key-16f5b81f5c92f15214daa39b2fad2c72]: Commencement: Art. 27 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-16f5b81f5c92f15214daa39b2fad2c72]: Commencement: Art. 27 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)

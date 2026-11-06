@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Time limits[^key-e25f34bee201f8435ce82045423f990d][^key-33b04b990f62e6a81fab9ebc1c3c74f7]
+## 105. Time limits[^c-e25f34bee201f8435ce82045423f990d][^c-33b04b990f62e6a81fab9ebc1c3c74f7]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e25f34bee201f8435ce82045423f990d]: Commencement: S. 105 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-e25f34bee201f8435ce82045423f990d]: Commencement: S. 105 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-33b04b990f62e6a81fab9ebc1c3c74f7]: Commencement: [S. 105](https://www.legislation.gov.uk/asc/2024/3/section/105) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-33b04b990f62e6a81fab9ebc1c3c74f7]: Commencement: [S. 105](https://www.legislation.gov.uk/asc/2024/3/section/105) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

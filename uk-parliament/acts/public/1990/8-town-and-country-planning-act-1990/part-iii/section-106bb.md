@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106BB. Duty to notify the Mayor of London of certain applications under section 106BA[^key-06c23d965cf9779c077dec32f95fc8db]
+## 106BB. Duty to notify the Mayor of London of certain applications under section 106BA[^c-06c23d965cf9779c077dec32f95fc8db]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06c23d965cf9779c077dec32f95fc8db]: Textual amendment: S. 106BB repealed (1.5.2016) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2013/27/section/7/4), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2)
+[^c-06c23d965cf9779c077dec32f95fc8db]: Textual amendment: S. 106BB repealed (1.5.2016) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2013/27/section/7/4), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2)

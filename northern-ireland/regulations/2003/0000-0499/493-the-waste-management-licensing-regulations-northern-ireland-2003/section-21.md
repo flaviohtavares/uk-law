@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Waste Framework Directive[^key-82d7d971f6d579cee3ac23abd1992ad5]
+## 21. Waste Framework Directive[^c-82d7d971f6d579cee3ac23abd1992ad5]
 
 *Extent: N.I.*
 
-Schedule 3 [^key-5cce78ecbe0dc5f4aa2249c40895cc85]... shall have effect.
+Schedule 3 [^c-5cce78ecbe0dc5f4aa2249c40895cc85]... shall have effect.
 
 ## Annotations
 
-[^key-82d7d971f6d579cee3ac23abd1992ad5]: Commencement: Reg. 21 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-82d7d971f6d579cee3ac23abd1992ad5]: Commencement: Reg. 21 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-5cce78ecbe0dc5f4aa2249c40895cc85]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/nisr/2003/493/regulation/21) omitted (31.12.2020) by virtue of [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 1 para. 3(8)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5cce78ecbe0dc5f4aa2249c40895cc85]: Textual amendment: Words in [reg. 21](https://www.legislation.gov.uk/nisr/2003/493/regulation/21) omitted (31.12.2020) by virtue of [The Environmental Protection (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/289)](https://www.legislation.gov.uk/uksi/2019/289), [reg. 1](https://www.legislation.gov.uk/uksi/2019/289/regulation/1), [Sch. 1 para. 3(8)](https://www.legislation.gov.uk/uksi/2019/289/schedule/1/paragraph/3/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

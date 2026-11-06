@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Requirements with which a qualified practitioner included in a supplementary list must comply[^key-c7f0648ad89ffb248597e684ea7d0c09]
+## 16. Requirements with which a qualified practitioner included in a supplementary list must comply[^c-c7f0648ad89ffb248597e684ea7d0c09]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7f0648ad89ffb248597e684ea7d0c09]: Commencement: Reg. 16 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-c7f0648ad89ffb248597e684ea7d0c09]: Commencement: Reg. 16 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00018]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50); section 113B was inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Regulatory principles: diversity[^key-cecc5ad8bc8cdcd3ccab9d90dbda96ab]
+## 20. Regulatory principles: diversity[^c-cecc5ad8bc8cdcd3ccab9d90dbda96ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cecc5ad8bc8cdcd3ccab9d90dbda96ab]: Commencement: S. 20 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(o)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/o)
+[^c-cecc5ad8bc8cdcd3ccab9d90dbda96ab]: Commencement: S. 20 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(o)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/o)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Special administration (bank insolvency) order[^key-2795a2247370d22137b002282b62acb2]
+## 27. Special administration (bank insolvency) order[^c-2795a2247370d22137b002282b62acb2]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ If the court makes a special administration (bank insolvency) order, the order s
 
 ## Annotations
 
-[^key-2795a2247370d22137b002282b62acb2]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2011/1301/rule/27) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-2795a2247370d22137b002282b62acb2]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2011/1301/rule/27) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

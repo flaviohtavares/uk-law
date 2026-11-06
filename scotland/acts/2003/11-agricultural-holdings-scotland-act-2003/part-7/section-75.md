@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Jurisdiction of the Land Court[^key-f67cef20d059d520a78fcaae6cdacd27]
+## 75. Jurisdiction of the Land Court[^c-f67cef20d059d520a78fcaae6cdacd27]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ For section 60 (questions between landlord and tenant) of the 1991 Act there is 
 
 ## Annotations
 
-[^key-f67cef20d059d520a78fcaae6cdacd27]: Commencement: S. 75 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-f67cef20d059d520a78fcaae6cdacd27]: Commencement: S. 75 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

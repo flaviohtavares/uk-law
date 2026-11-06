@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Power to update references to Annexes to Directive [2009/128/EC](https://www.legislation.gov.uk/eudr/2009/128) in light of scientific and technical progress[^key-45b7cb29f8785d6b525196c88b2902f7]
+## 23. Power to update references to Annexes to Directive [2009/128/EC](https://www.legislation.gov.uk/eudr/2009/128) in light of scientific and technical progress[^c-45b7cb29f8785d6b525196c88b2902f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45b7cb29f8785d6b525196c88b2902f7]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-45b7cb29f8785d6b525196c88b2902f7]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)

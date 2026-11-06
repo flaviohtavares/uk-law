@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Education relating to relationships and sex[^key-768ec77cc8cd54804b00fda30939eb42]
+## 34. Education relating to relationships and sex[^c-768ec77cc8cd54804b00fda30939eb42]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-768ec77cc8cd54804b00fda30939eb42]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/16/section/34) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/e)
+[^c-768ec77cc8cd54804b00fda30939eb42]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/16/section/34) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/e)

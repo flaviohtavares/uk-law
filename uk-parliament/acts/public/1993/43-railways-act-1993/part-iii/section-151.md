@@ -24,7 +24,7 @@ summary: ''
 
 - “[^c19355591]**the Authority *(affected by repeal, see note)*[^c19355591]**” means the Strategic Rail Authority; *(affected by repeal, see note)*[^c19355591]
 - “**the Board**” means the British Railways Board;
-- “**body corporate**” has the meaning given by section 1173(1) of the Companies Act 2006[^key-a39065bf6610f54e67ef16c4a891d82e];
+- “**body corporate**” has the meaning given by section 1173(1) of the Companies Act 2006[^c-a39065bf6610f54e67ef16c4a891d82e];
 - “**company**” means any body corporate;
 - “**contravention**”, in relation to any direction, condition, requirement, regulation or order, includes any failure to comply with it and cognate expressions shall be construed accordingly;
 - “**debentures**” includes debenture stock;
@@ -38,9 +38,9 @@ summary: ''
   - (a) an undertaking derived, or to be derived, (whether wholly or partly and whether directly or indirectly) from, or from some part of, an undertaking carried on by the Board or a wholly owned subsidiary of the Board; or
   - (b) an undertaking in the course of which the company uses, or will use, any property, rights or liabilities acquired, or to be acquired, (whether directly or indirectly) from the Board or a wholly owned subsidiary of the Board;
 - [^c18817231]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “**securities**” has the meaning given by section 102A(2)[^key-ecdb9ec54854439d6047a5c349196a11][^c14116841] of the Financial Services and Markets Act 2000;
+- “**securities**” has the meaning given by section 102A(2)[^c-ecdb9ec54854439d6047a5c349196a11][^c14116841] of the Financial Services and Markets Act 2000;
 - “**shares**” includes stock;
-- “**subsidiary**” has the meaning given by section 1159 of the Companies Act 2006[^key-72e1291a8eef767274c73b155e368db1];
+- “**subsidiary**” has the meaning given by section 1159 of the Companies Act 2006[^c-72e1291a8eef767274c73b155e368db1];
 - [^c14116781]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**wholly owned subsidiary**” has the meaning given by section 1159 of the Companies Act 2006.
 
@@ -74,7 +74,7 @@ summary: ''
 
 [^c19355591]: Textual amendment: S. 151: definition of "the Authority" repealed (E.W.S.) (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/14/section/59), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911) {art. 2}, Sch. (subject to the transitional and saving provisions in arts. 3-7)
 
-[^key-a39065bf6610f54e67ef16c4a891d82e]: Textual amendment: Words in s. 151(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(6)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/6/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-a39065bf6610f54e67ef16c4a891d82e]: Textual amendment: Words in s. 151(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(6)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/6/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c14116781]: Textual amendment: Definitions of “the Franchising Director" and “transfer scheme" in s. 151(1) repealed (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 274](https://www.legislation.gov.uk/ukpga/2000/38/section/274), [Sch. 31 Pt. IV](https://www.legislation.gov.uk/ukpga/2000/38/schedule/31/part/IV); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
@@ -90,11 +90,11 @@ summary: ''
 
 [^c18817231]: Textual amendment: S. 151(1): definition of "the Regulator" repealed (5.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 16](https://www.legislation.gov.uk/ukpga/2003/20/section/16), [118](https://www.legislation.gov.uk/ukpga/2003/20/section/118), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120), [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2003/20/schedule/2/paragraph/17), [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8); [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(i)](https://www.legislation.gov.uk/uksi/2004/827/article/4/i)
 
-[^key-ecdb9ec54854439d6047a5c349196a11]: Textual amendment: Words in s. 151(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 77(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/77/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-ecdb9ec54854439d6047a5c349196a11]: Textual amendment: Words in s. 151(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 77(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/77/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c14116841]: Textual amendment: Words in the definition of “securities" in s. 151(1) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [344](https://www.legislation.gov.uk/uksi/2001/3649/article/344)
 
-[^key-72e1291a8eef767274c73b155e368db1]: Textual amendment: Words in s. 151(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(6)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/6/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-72e1291a8eef767274c73b155e368db1]: Textual amendment: Words in s. 151(1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 143(6)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/143/6/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c14116881]: Textual amendment: Words in s. 151(2)(a)(c)(3)(a)-(c) substituted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 215](https://www.legislation.gov.uk/ukpga/2000/38/section/215), [Sch. 16 para. 53](https://www.legislation.gov.uk/ukpga/2000/38/schedule/16/paragraph/53); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II)) (which S.I. was amended by [S.I. 2001/115](https://www.legislation.gov.uk/uksi/2001/115))
 

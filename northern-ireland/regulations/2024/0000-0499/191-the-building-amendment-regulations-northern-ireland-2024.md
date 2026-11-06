@@ -42,15 +42,15 @@ Coming into operation
 
 The Department of Finance[^f00001], in exercise of the powers conferred by Articles 3, 5(1), 5(2) and 5A(1) of, and paragraphs 4, 9, 21 and 22 of Schedule 1 to, the Building Regulations (Northern Ireland) Order 1979[^f00002] and now vested in it[^f00003], and after consultation with the Building Regulations Advisory Committee and such other bodies as appear to be representative of the interests concerned[^f00004], makes the following regulations:
 
-## 1. Citation and commencement[^key-835e5280d8a2978eb3976b751286d671]
+## 1. Citation and commencement[^c-835e5280d8a2978eb3976b751286d671]
 
 These regulations may be cited as the Building (Amendment) Regulations (Northern Ireland) 2024 and shall come into operation on 6th May 2025.
 
-## 2. Interpretation[^key-2bb7becdd13fceef3800d8ecc775d69d]
+## 2. Interpretation[^c-2bb7becdd13fceef3800d8ecc775d69d]
 
 In these regulations “**the principal Regulations**” means the Building Regulations (Northern Ireland) 2012[^f00005].
 
-## 3. Transitional provisions[^key-66457e35d6231f168056f6bdd6dd7680]
+## 3. Transitional provisions[^c-66457e35d6231f168056f6bdd6dd7680]
 
 (1) The principal Regulations shall continue to apply to—
 
@@ -65,15 +65,15 @@ as if the amendments effected by these Regulations had not been made.
 - (a) “**building notice**” means a notice given under regulation 9 (Giving of notices and deposit of plans) of the principal Regulations; and
 - (b) “**building work**” has the same meaning as in the principal Regulations.
 
-## 4. Amendment of the principal Regulations[^key-4b01120f55fa55bc08d6e7a3b9bd4c83]
+## 4. Amendment of the principal Regulations[^c-4b01120f55fa55bc08d6e7a3b9bd4c83]
 
 The principal Regulations shall be amended as provided in regulations 5 and 6.
 
-## 5. Amendment of Part A (Interpretation and general)[^key-3a4d3d9f4d18170d07feeda0adca4a3c]
+## 5. Amendment of Part A (Interpretation and general)[^c-3a4d3d9f4d18170d07feeda0adca4a3c]
 
 In regulation 8 (Application to material change of use) for the Table to Regulation 8 substitute the Table set out in the Schedule.
 
-## 6. Amendment of Part E (Fire safety)[^key-1f5d6b814ba59c8a583b0b7ab75c8961]
+## 6. Amendment of Part E (Fire safety)[^c-1f5d6b814ba59c8a583b0b7ab75c8961]
 
 (1) For regulation 32 substitute—
 
@@ -135,7 +135,7 @@ A senior officer of the
 
 Department of Finance
 
-## SCHEDULE — Table to be substituted for the Table to Regulation 8 (Application to material change of use) to the principal Regulations.[^key-cd90eca3b0fc942cabb8dab81148c6e4]
+## SCHEDULE — Table to be substituted for the Table to Regulation 8 (Application to material change of use) to the principal Regulations.[^c-cd90eca3b0fc942cabb8dab81148c6e4]
 
 Regulation 5
 
@@ -168,7 +168,7 @@ Table to Regulation 8 (Application to material change of use)
 
 ### Notes to Table to Regulation 8 (Application to material change of use)
 
-[^key-cd90eca3b0fc942cabb8dab81148c6e4]
+[^c-cd90eca3b0fc942cabb8dab81148c6e4]
 
 \* Denotes Parts which apply.
 
@@ -238,18 +238,18 @@ The Department of Finance has prepared an Amendments Booklet (AMD 9) giving guid
 
 [^f00004]: Footnote: [S.I. 1979/1709 (N.I. 16)](https://www.legislation.gov.uk/nisi/1979/1709); Article 5(4)
 
-[^key-835e5280d8a2978eb3976b751286d671]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1) in operation at 6.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1)
+[^c-835e5280d8a2978eb3976b751286d671]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1) in operation at 6.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1)
 
-[^key-2bb7becdd13fceef3800d8ecc775d69d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/191/regulation/2) in operation at 6.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1)
+[^c-2bb7becdd13fceef3800d8ecc775d69d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/191/regulation/2) in operation at 6.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2012 No. 192](https://www.legislation.gov.uk/nisr/2012/192) as amended by [S.R. 2012 No. 375](https://www.legislation.gov.uk/nisr/2012/375), [S.R. 2014 No. 44](https://www.legislation.gov.uk/nisr/2014/44), [S.R. 2016 No. 412](https://www.legislation.gov.uk/nisr/2016/412) and [S.R. 2022 No.71](https://www.legislation.gov.uk/nisr/2022/71)
 
-[^key-66457e35d6231f168056f6bdd6dd7680]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/191/regulation/3) in operation at 6.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1)
+[^c-66457e35d6231f168056f6bdd6dd7680]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/191/regulation/3) in operation at 6.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1)
 
-[^key-4b01120f55fa55bc08d6e7a3b9bd4c83]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2024/191/regulation/4) in operation at 6.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1)
+[^c-4b01120f55fa55bc08d6e7a3b9bd4c83]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2024/191/regulation/4) in operation at 6.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1)
 
-[^key-3a4d3d9f4d18170d07feeda0adca4a3c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2024/191/regulation/5) in operation at 6.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1)
+[^c-3a4d3d9f4d18170d07feeda0adca4a3c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2024/191/regulation/5) in operation at 6.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1)
 
-[^key-1f5d6b814ba59c8a583b0b7ab75c8961]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2024/191/regulation/6) in operation at 6.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1)
+[^c-1f5d6b814ba59c8a583b0b7ab75c8961]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2024/191/regulation/6) in operation at 6.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1)
 
-[^key-cd90eca3b0fc942cabb8dab81148c6e4]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2024/191/schedule) in operation at 6.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1)
+[^c-cd90eca3b0fc942cabb8dab81148c6e4]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2024/191/schedule) in operation at 6.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Release from duty to submit statement of affairs[^key-f37eeea713958379af92ee1afd732653]
+## 23. Release from duty to submit statement of affairs[^c-f37eeea713958379af92ee1afd732653]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f37eeea713958379af92ee1afd732653]: Commencement: Rule 23 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-f37eeea713958379af92ee1afd732653]: Commencement: Rule 23 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

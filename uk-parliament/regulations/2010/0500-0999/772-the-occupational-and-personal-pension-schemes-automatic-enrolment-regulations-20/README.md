@@ -60,7 +60,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 - [Section 4 — Pay reference periods for the purposes of sections 1(1)(c), 3(1)(c) and 5(1)(c) of the Act](part-1/section-4.md)
 - [Section 5 — Pay reference periods for the purposes of section 20(1)(b) and (c) and section 26(4)(b) and (5)(b) of the Act](part-1/section-5.md)
 
-### PART  1A — Exemption and Exceptions[^key-f864c850e9716424973651047b831c64][^key-e6aaa90306f537930154481c9fadc782]
+### PART  1A — Exemption and Exceptions[^c-f864c850e9716424973651047b831c64][^c-e6aaa90306f537930154481c9fadc782]
 
 - [Section 5A — Exemption of European employers](part-1a/section-5a.md)
 - [Section 5B — Notice of termination of employment](part-1a/section-5b.md)
@@ -101,7 +101,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 - [Section 22 — Form and content of joining notices](part-5/section-22.md)
 - [Section 23 — Arrangements to achieve active membership](part-5/section-23.md)
 
-### PART 6 — Postponement of automatic enrolment or disapplication of automatic enrolment[^key-e6ad135654f549972290b17b467c7e28]
+### PART 6 — Postponement of automatic enrolment or disapplication of automatic enrolment[^c-e6ad135654f549972290b17b467c7e28]
 
 *Extent: E+W+S*
 
@@ -118,7 +118,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 - [Section 31](part-7/section-31.md)
 - [Section 32 — Refunds](part-7/section-32.md)
 
-### PART 7A — Certification that a quality or alternative requirement is satisfied[^key-021bf0aea326ae513867e96a32ed0baf]
+### PART 7A — Certification that a quality or alternative requirement is satisfied[^c-021bf0aea326ae513867e96a32ed0baf]
 
 - [Section 32A — Effect of a certificate under section 28 of the Act](part-7a/section-32a.md)
 - [Section 32B — Giving of a certificate, retention and disclosure](part-7a/section-32b.md)
@@ -133,11 +133,11 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 - [Section 32J — Pension schemes based in an EEA State other than the United Kingdom](part-7a/section-32j.md)
 - [Section 32K — Definitions](part-7a/section-32k.md)
 
-### PART 7B[^key-9e2b0649e7766a790f3c00499f91a081]
+### PART 7B[^c-9e2b0649e7766a790f3c00499f91a081]
 
 *Extent: E+W+S*
 
-#### Alternative quality requirements: UK defined benefits schemes[^key-9e2b0649e7766a790f3c00499f91a081]
+#### Alternative quality requirements: UK defined benefits schemes[^c-9e2b0649e7766a790f3c00499f91a081]
 
 - [Section 32L — Alternative quality requirements for UK defined benefits schemes](part-7b/section-32l.md)
 
@@ -182,12 +182,12 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 - [Section 49 — Amendment of the Personal Pension Schemes (Payments by Employers) Regulations 2000](part-14/section-49.md)
 - [Section 50 — Due Date for the purposes of section 37(3) of the Act](part-14/section-50.md)
 
-### PART 15 — Special occupations[^key-713166f0782ca61781dfca641063e1e6]
+### PART 15 — Special occupations[^c-713166f0782ca61781dfca641063e1e6]
 
 - [Section 51 — Police members appointed other than under a contract of employment](part-15/section-51.md)
 - [Section 52 — Persons working on vessels](part-15/section-52.md)
 
-### PART 16 — Review[^key-fcefe07b0adeb004aa0e4e80486663b7]
+### PART 16 — Review[^c-fcefe07b0adeb004aa0e4e80486663b7]
 
 - [Section 53](part-16/section-53.md)
 
@@ -248,16 +248,16 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c2019368]: Marginal citation: [2008 c.30](https://www.legislation.gov.uk/ukpga/2008/30).
 
-[^key-f864c850e9716424973651047b831c64]: Textual amendment: Pt. 1A inserted (2.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1477)](https://www.legislation.gov.uk/uksi/2012/1477), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1477/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/1477/regulation/2)
+[^c-f864c850e9716424973651047b831c64]: Textual amendment: Pt. 1A inserted (2.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1477)](https://www.legislation.gov.uk/uksi/2012/1477), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1477/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/1477/regulation/2)
 
-[^key-e6aaa90306f537930154481c9fadc782]: Textual amendment: Words in Pt. 1A heading added (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/501/regulation/4)
+[^c-e6aaa90306f537930154481c9fadc782]: Textual amendment: Words in Pt. 1A heading added (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/501/regulation/4)
 
-[^key-e6ad135654f549972290b17b467c7e28]: Textual amendment: Words in Pt. 6 heading inserted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [25](https://www.legislation.gov.uk/uksi/2012/215/regulation/25)
+[^c-e6ad135654f549972290b17b467c7e28]: Textual amendment: Words in Pt. 6 heading inserted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [25](https://www.legislation.gov.uk/uksi/2012/215/regulation/25)
 
-[^key-021bf0aea326ae513867e96a32ed0baf]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1257/regulation/4)
+[^c-021bf0aea326ae513867e96a32ed0baf]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1257/regulation/4)
 
-[^key-9e2b0649e7766a790f3c00499f91a081]: Textual amendment: Pt. 7B inserted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [11](https://www.legislation.gov.uk/uksi/2015/501/regulation/11)
+[^c-9e2b0649e7766a790f3c00499f91a081]: Textual amendment: Pt. 7B inserted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [11](https://www.legislation.gov.uk/uksi/2015/501/regulation/11)
 
-[^key-713166f0782ca61781dfca641063e1e6]: Textual amendment: Pt. 15 inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [7](https://www.legislation.gov.uk/uksi/2012/1257/regulation/7)
+[^c-713166f0782ca61781dfca641063e1e6]: Textual amendment: Pt. 15 inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [7](https://www.legislation.gov.uk/uksi/2012/1257/regulation/7)
 
-[^key-fcefe07b0adeb004aa0e4e80486663b7]: Textual amendment: Pt. 16 inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [8](https://www.legislation.gov.uk/uksi/2012/1257/regulation/8)
+[^c-fcefe07b0adeb004aa0e4e80486663b7]: Textual amendment: Pt. 16 inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [8](https://www.legislation.gov.uk/uksi/2012/1257/regulation/8)

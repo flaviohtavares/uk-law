@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Building standards – construction[^key-8bc3e33a18f97fe0b0489b5401f76088]
+## 9. Building standards – construction[^c-8bc3e33a18f97fe0b0489b5401f76088]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8bc3e33a18f97fe0b0489b5401f76088]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2004/406/regulation/9) substituted (1.7.2017) by [The Building (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/188)](https://www.legislation.gov.uk/ssi/2017/188), [regs. 1](https://www.legislation.gov.uk/ssi/2017/188/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2017/188/regulation/3/2)
+[^c-8bc3e33a18f97fe0b0489b5401f76088]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2004/406/regulation/9) substituted (1.7.2017) by [The Building (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/188)](https://www.legislation.gov.uk/ssi/2017/188), [regs. 1](https://www.legislation.gov.uk/ssi/2017/188/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2017/188/regulation/3/2)
 
 [^M_F_0dd445e4-0f8c-4a17-813a-24e8529bb7a9]: Textual amendment: Schedule 5 was substituted by [S.S.I. 2006/534](https://www.legislation.gov.uk/ssi/2006/534). There are other amendments not relevant to these Regulations.

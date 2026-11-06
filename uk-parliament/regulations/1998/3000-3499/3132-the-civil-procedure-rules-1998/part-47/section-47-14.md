@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.14. Detailed assessment hearing[^key-b941119c8cdc9da1893b8454ae2b36e6]
+## 47.14. Detailed assessment hearing[^c-b941119c8cdc9da1893b8454ae2b36e6]
 
 *Extent: E+W*
 
@@ -51,12 +51,12 @@ may be heard at the detailed assessment hearing unless the court gives permissio
 
 (6) Only items specified in the points of dispute may be raised at the hearing, unless the court gives permission.
 
-(7) If an assessment is carried out at more than one hearing, then for the purposes of rule 52.12[^key-48bfea6ff2bb54e0dfc13f29dc2bba76] time for appealing shall not start to run until the conclusion of the final hearing, unless the court orders otherwise.
+(7) If an assessment is carried out at more than one hearing, then for the purposes of rule 52.12[^c-48bfea6ff2bb54e0dfc13f29dc2bba76] time for appealing shall not start to run until the conclusion of the final hearing, unless the court orders otherwise.
 
 (Practice Direction 47 specifies other documents which must be filed with the request for hearing and the length of notice which the court will give when it fixes a hearing date.)
 
 ## Annotations
 
-[^key-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
 
-[^key-48bfea6ff2bb54e0dfc13f29dc2bba76]: Textual amendment: Word in [rule 47.14(7)](https://www.legislation.gov.uk/uksi/1998/3132/rule/47.14/7) substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rules 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [9](https://www.legislation.gov.uk/uksi/2016/788/rule/9)
+[^c-48bfea6ff2bb54e0dfc13f29dc2bba76]: Textual amendment: Word in [rule 47.14(7)](https://www.legislation.gov.uk/uksi/1998/3132/rule/47.14/7) substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rules 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [9](https://www.legislation.gov.uk/uksi/2016/788/rule/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Part-time summary sheriffs[^key-ee9b792c5afaa715f3bf0e2b506ac3c0][^key-39550f07d1b2993d016b169da2701ab9]
+## 10. Part-time summary sheriffs[^c-ee9b792c5afaa715f3bf0e2b506ac3c0][^c-39550f07d1b2993d016b169da2701ab9]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ee9b792c5afaa715f3bf0e2b506ac3c0]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/18/section/10) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-ee9b792c5afaa715f3bf0e2b506ac3c0]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/18/section/10) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-39550f07d1b2993d016b169da2701ab9]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/18/section/10) in force at 22.9.2015 in so far as not already in force by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-39550f07d1b2993d016b169da2701ab9]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/18/section/10) in force at 22.9.2015 in so far as not already in force by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

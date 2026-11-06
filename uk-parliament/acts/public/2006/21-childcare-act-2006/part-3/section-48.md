@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Amendments relating to curriculum[^key-a5306872bdb7677da488a77954b2c52d][^key-0e84a98749fb551c97538e38d49ddf01]
+## 48. Amendments relating to curriculum[^c-a5306872bdb7677da488a77954b2c52d][^c-0e84a98749fb551c97538e38d49ddf01]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 1 (which contains amendments relating to the preceding provisions of th
 
 ## Annotations
 
-[^key-a5306872bdb7677da488a77954b2c52d]: Commencement: S. 48 in force at 1.10.2007 for specified purposes by [S.I. 2007/2717](https://www.legislation.gov.uk/uksi/2007/2717), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/2717/article/2/d)
+[^c-a5306872bdb7677da488a77954b2c52d]: Commencement: S. 48 in force at 1.10.2007 for specified purposes by [S.I. 2007/2717](https://www.legislation.gov.uk/uksi/2007/2717), [art. 2(d)](https://www.legislation.gov.uk/uksi/2007/2717/article/2/d)
 
-[^key-0e84a98749fb551c97538e38d49ddf01]: Commencement: S. 48 in force at 1.9.2008 for specified purposes by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Schs. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1), [2](https://www.legislation.gov.uk/uksi/2008/2261/schedule/2))
+[^c-0e84a98749fb551c97538e38d49ddf01]: Commencement: S. 48 in force at 1.9.2008 for specified purposes by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Schs. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1), [2](https://www.legislation.gov.uk/uksi/2008/2261/schedule/2))

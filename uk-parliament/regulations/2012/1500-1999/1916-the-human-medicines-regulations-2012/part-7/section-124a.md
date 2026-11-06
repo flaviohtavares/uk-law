@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124A. Interpretation of this Part[^key-3f0b75dcf4b4ccfdd222ee046378304f]
+## 124A. Interpretation of this Part[^c-3f0b75dcf4b4ccfdd222ee046378304f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Part, “**relevant list**” means—
 
 ## Annotations
 
-[^key-3f0b75dcf4b4ccfdd222ee046378304f]: Textual amendment: [Reg. 124A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/124A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [109](https://www.legislation.gov.uk/uksi/2019/775/regulation/109); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f0b75dcf4b4ccfdd222ee046378304f]: Textual amendment: [Reg. 124A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/124A) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [109](https://www.legislation.gov.uk/uksi/2019/775/regulation/109); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Interim arrangements[^key-fc14a5ec212d39f0550decd03a920b94]
+## 29. Interim arrangements[^c-fc14a5ec212d39f0550decd03a920b94]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The Secretary of State may by written notice require English Nature or the Count
 
 ## Annotations
 
-[^key-fc14a5ec212d39f0550decd03a920b94]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2006/16/section/29) in force at 2.5.2006 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 4](https://www.legislation.gov.uk/uksi/2006/1176/article/4)
+[^c-fc14a5ec212d39f0550decd03a920b94]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2006/16/section/29) in force at 2.5.2006 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 4](https://www.legislation.gov.uk/uksi/2006/1176/article/4)

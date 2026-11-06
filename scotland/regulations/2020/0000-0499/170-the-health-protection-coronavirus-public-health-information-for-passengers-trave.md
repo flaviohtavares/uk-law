@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, Public Health Information for Passengers Travelling to Scotland) Regulations 2020 (revoked)[^key-19c6f6090d89592df9622d1b6b7b7f15]
+The Health Protection (Coronavirus, Public Health Information for Passengers Travelling to Scotland) Regulations 2020 (revoked)[^c-19c6f6090d89592df9622d1b6b7b7f15]
 
 Approved by the Scottish Parliament
 
@@ -48,81 +48,81 @@ Coming into force
 
 at 12.01 a.m. on 8th June 2020
 
-[^key-19c6f6090d89592df9622d1b6b7b7f15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19c6f6090d89592df9622d1b6b7b7f15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-19c6f6090d89592df9622d1b6b7b7f15]
+## 1. Citation and commencement[^c-19c6f6090d89592df9622d1b6b7b7f15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-19c6f6090d89592df9622d1b6b7b7f15]
+## 2. Interpretation[^c-19c6f6090d89592df9622d1b6b7b7f15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Provision of information before booking[^key-19c6f6090d89592df9622d1b6b7b7f15]
+## 3. Provision of information before booking[^c-19c6f6090d89592df9622d1b6b7b7f15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3A. Provision of information between 24 and 48 hours before scheduled departure[^key-19c6f6090d89592df9622d1b6b7b7f15]
+## 3A. Provision of information between 24 and 48 hours before scheduled departure[^c-19c6f6090d89592df9622d1b6b7b7f15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Provision of information before check in[^key-19c6f6090d89592df9622d1b6b7b7f15]
+## 4. Provision of information before check in[^c-19c6f6090d89592df9622d1b6b7b7f15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Provision of information during journey[^key-19c6f6090d89592df9622d1b6b7b7f15]
+## 5. Provision of information during journey[^c-19c6f6090d89592df9622d1b6b7b7f15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences[^key-19c6f6090d89592df9622d1b6b7b7f15]
+## 6. Offences[^c-19c6f6090d89592df9622d1b6b7b7f15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Extra-territorial jurisdiction[^key-19c6f6090d89592df9622d1b6b7b7f15]
+## 7. Extra-territorial jurisdiction[^c-19c6f6090d89592df9622d1b6b7b7f15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Review[^key-19c6f6090d89592df9622d1b6b7b7f15]
+## 8. Review[^c-19c6f6090d89592df9622d1b6b7b7f15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Expiry[^key-19c6f6090d89592df9622d1b6b7b7f15]
+## 9. Expiry[^c-19c6f6090d89592df9622d1b6b7b7f15]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-19c6f6090d89592df9622d1b6b7b7f15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19c6f6090d89592df9622d1b6b7b7f15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REQUIRED INFORMATION[^key-19c6f6090d89592df9622d1b6b7b7f15]
+## SCHEDULE — REQUIRED INFORMATION[^c-19c6f6090d89592df9622d1b6b7b7f15]
 
 Regulation 2
 
-**....**[^key-19c6f6090d89592df9622d1b6b7b7f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-19c6f6090d89592df9622d1b6b7b7f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-19c6f6090d89592df9622d1b6b7b7f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19c6f6090d89592df9622d1b6b7b7f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-19c6f6090d89592df9622d1b6b7b7f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19c6f6090d89592df9622d1b6b7b7f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 1 — REQUIRED INFORMATION[^key-19c6f6090d89592df9622d1b6b7b7f15]
-
-Regulation 2
-
-**1.**[^key-19c6f6090d89592df9622d1b6b7b7f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-19c6f6090d89592df9622d1b6b7b7f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-19c6f6090d89592df9622d1b6b7b7f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-19c6f6090d89592df9622d1b6b7b7f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SCHEDULE 2 — PASSENGER NOTICES[^key-19c6f6090d89592df9622d1b6b7b7f15]
+## SCHEDULE 1 — REQUIRED INFORMATION[^c-19c6f6090d89592df9622d1b6b7b7f15]
 
 Regulation 2
 
-### PART 1[^key-19c6f6090d89592df9622d1b6b7b7f15]
+**1.**[^c-19c6f6090d89592df9622d1b6b7b7f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**2.**[^c-19c6f6090d89592df9622d1b6b7b7f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**3.**[^c-19c6f6090d89592df9622d1b6b7b7f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-19c6f6090d89592df9622d1b6b7b7f15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — PASSENGER NOTICES[^c-19c6f6090d89592df9622d1b6b7b7f15]
+
+Regulation 2
+
+### PART 1[^c-19c6f6090d89592df9622d1b6b7b7f15]
 
 > ESSENTIAL INFORMATION TO ENTER THE UK
 >
@@ -176,7 +176,7 @@ Regulation 2
 >
 > Failure to comply with these measures is a criminal offence and you could be fined. There are a limited set of exemptions from these measures. Check the list of exemptions carefully. You may be fined if you fraudulently claim an exemption.
 
-### PART 2[^key-19c6f6090d89592df9622d1b6b7b7f15]
+### PART 2[^c-19c6f6090d89592df9622d1b6b7b7f15]
 
 > The following is a public health message on behalf of the UK’s public health agencies.
 >
@@ -190,8 +190,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-19c6f6090d89592df9622d1b6b7b7f15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19c6f6090d89592df9622d1b6b7b7f15]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-19c6f6090d89592df9622d1b6b7b7f15]: Textual amendment: Regulations revoked (20.9.2021) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021 (S.S.I. 2021/322)](https://www.legislation.gov.uk/ssi/2021/322), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2021/322/schedule/9) (with [regs. 50](https://www.legislation.gov.uk/ssi/2021/322/regulation/50), [52(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/52/2))
+[^c-19c6f6090d89592df9622d1b6b7b7f15]: Textual amendment: Regulations revoked (20.9.2021) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021 (S.S.I. 2021/322)](https://www.legislation.gov.uk/ssi/2021/322), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2021/322/schedule/9) (with [regs. 50](https://www.legislation.gov.uk/ssi/2021/322/regulation/50), [52(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/52/2))

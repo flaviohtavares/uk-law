@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Insolvency Regulations[^key-90f2f4873c16319bace629d4f9e4cc81]
+## 24A. Insolvency Regulations[^c-90f2f4873c16319bace629d4f9e4cc81]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Sections 93(4) and 233 to 236 of the Banking Act 2009 apply to authorised electr
 
 ## Annotations
 
-[^key-90f2f4873c16319bace629d4f9e4cc81]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/2011/99/regulation/24A) inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1275/regulation/3)
+[^c-90f2f4873c16319bace629d4f9e4cc81]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/2011/99/regulation/24A) inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1275/regulation/3)

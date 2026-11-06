@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Provision for continuity in the exercise of functions[^key-55147157fbca211e2d20de79cc28ffb3]
+## 11. Provision for continuity in the exercise of functions[^c-55147157fbca211e2d20de79cc28ffb3]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ shall be treated on and after that date as if done by or in relation to the Care
 
 ## Annotations
 
-[^key-55147157fbca211e2d20de79cc28ffb3]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
+[^c-55147157fbca211e2d20de79cc28ffb3]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)

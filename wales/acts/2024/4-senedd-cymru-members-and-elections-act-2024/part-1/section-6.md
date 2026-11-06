@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Disqualification from being a Member of the Senedd or a candidate[^key-bd8bf1e1eb7193e7dfa82e2a276a74f5]
+## 6. Disqualification from being a Member of the Senedd or a candidate[^c-bd8bf1e1eb7193e7dfa82e2a276a74f5]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In Part 1 of Schedule 1A (disqualification) to the 2006 Act, after paragraph 7 i
 
 ## Annotations
 
-[^key-bd8bf1e1eb7193e7dfa82e2a276a74f5]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2024/4/section/6) in force at 24.8.2024, see [s. 25(2)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/a)
+[^c-bd8bf1e1eb7193e7dfa82e2a276a74f5]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2024/4/section/6) in force at 24.8.2024, see [s. 25(2)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/a)

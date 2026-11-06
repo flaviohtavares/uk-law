@@ -32,7 +32,7 @@ summary: ''
 
 EDUCATION
 
-The Education (Assisted Places) (Scotland) Amendment Regulations 2008 (revoked)[^key-27deddaf0923151e04fa6fe4b36f8dd0]
+The Education (Assisted Places) (Scotland) Amendment Regulations 2008 (revoked)[^c-27deddaf0923151e04fa6fe4b36f8dd0]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st August 2008
 
-[^key-27deddaf0923151e04fa6fe4b36f8dd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27deddaf0923151e04fa6fe4b36f8dd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-27deddaf0923151e04fa6fe4b36f8dd0]
+## 1. Citation and commencement[^c-27deddaf0923151e04fa6fe4b36f8dd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Education (Assisted Places) (Scotland) Regulations 2001[^key-27deddaf0923151e04fa6fe4b36f8dd0]
+## 2. Amendment of Education (Assisted Places) (Scotland) Regulations 2001[^c-27deddaf0923151e04fa6fe4b36f8dd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-27deddaf0923151e04fa6fe4b36f8dd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27deddaf0923151e04fa6fe4b36f8dd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-27deddaf0923151e04fa6fe4b36f8dd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27deddaf0923151e04fa6fe4b36f8dd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-27deddaf0923151e04fa6fe4b36f8dd0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2008/213) revoked (8.10.2015) by [The Education (Assisted Places) (Scotland) Revocation Regulations 2015 (S.S.I. 2015/318)](https://www.legislation.gov.uk/ssi/2015/318), [reg. 1](https://www.legislation.gov.uk/ssi/2015/318/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2015/318/schedule)
+[^c-27deddaf0923151e04fa6fe4b36f8dd0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2008/213) revoked (8.10.2015) by [The Education (Assisted Places) (Scotland) Revocation Regulations 2015 (S.S.I. 2015/318)](https://www.legislation.gov.uk/ssi/2015/318), [reg. 1](https://www.legislation.gov.uk/ssi/2015/318/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2015/318/schedule)

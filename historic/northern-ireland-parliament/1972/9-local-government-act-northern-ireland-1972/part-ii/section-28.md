@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Disclosure of councillors' pecuniary interests and disability from voting on account thereof.[^c21333631][^c21333641][^key-05cb11472a82a6d186453dc02becf9c5][^key-3eb6afa9de7aeaa687f3257838034b09]
+## 28. Disclosure of councillors' pecuniary interests and disability from voting on account thereof.[^c21333631][^c21333641][^c-05cb11472a82a6d186453dc02becf9c5][^c-3eb6afa9de7aeaa687f3257838034b09]
 
 *Extent: N.I.*
 
@@ -56,9 +56,9 @@ subsection (1) shall not have effect in relation to that pecuniary interest.
 
 [^c21333641]: Modification: S. 28 applied (with modifications) (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 7(2)](https://www.legislation.gov.uk/nia/2009/1/section/7/2), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 2 para. 11(1)](https://www.legislation.gov.uk/nia/2009/1/schedule/2/paragraph/11/1) (with [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/nia/2009/1/schedule/2/paragraph/11/2)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-05cb11472a82a6d186453dc02becf9c5]: Modification: Ss. 28-33 applied (with modifications) (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 2 para. 20](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/20) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-05cb11472a82a6d186453dc02becf9c5]: Modification: Ss. 28-33 applied (with modifications) (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 2 para. 20](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/20) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-3eb6afa9de7aeaa687f3257838034b09]: Modification: Ss. 28-33 applied (with modifications) (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2011/24/schedule/1/paragraph/20) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-3eb6afa9de7aeaa687f3257838034b09]: Modification: Ss. 28-33 applied (with modifications) (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2011/24/schedule/1/paragraph/20) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
 [^c16962361]: Textual amendment: [1965 c.13 (NI)](https://www.legislation.gov.uk/apni/1965/13), [1970 c.9 (NI)](https://www.legislation.gov.uk/apni/1970/9), [1972 NI 14](https://www.legislation.gov.uk/nisi/1972), [1981 NI 3](https://www.legislation.gov.uk/nisi/1981)
 

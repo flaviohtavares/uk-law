@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Instructions to discriminate[^key-b94aa20c2e9c6dd3fc55c2c07fd65b41]
+## 5. Instructions to discriminate[^c-b94aa20c2e9c6dd3fc55c2c07fd65b41]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of these Regulations, a person (“A”) discriminates against 
 
 ## Annotations
 
-[^key-b94aa20c2e9c6dd3fc55c2c07fd65b41]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/261/regulation/5) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-b94aa20c2e9c6dd3fc55c2c07fd65b41]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/261/regulation/5) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)

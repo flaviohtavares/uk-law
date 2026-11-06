@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Investigation procedure[^key-7913f34339afa17c3aae0ef4bce7c52d]
+## 52. Investigation procedure[^c-7913f34339afa17c3aae0ef4bce7c52d]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ subsection (2) does not apply to the related investigation.
 
 ## Annotations
 
-[^key-7913f34339afa17c3aae0ef4bce7c52d]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2019/3/section/52) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-7913f34339afa17c3aae0ef4bce7c52d]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2019/3/section/52) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

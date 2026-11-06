@@ -29,7 +29,7 @@ summary: ''
 
 (2) “**Bearer instrument**” means any of the following investments title to which is capable of being transferred by delivery—
 
-- (a) any investment falling within paragraph 14, 15 or 15A[^key-2aec4bbb267e98ad86dbbfd6eae64bcc] of Schedule 1;
+- (a) any investment falling within paragraph 14, 15 or 15A[^c-2aec4bbb267e98ad86dbbfd6eae64bcc] of Schedule 1;
 - (b) any investment falling within paragraph 17 or 18 of that Schedule which confers rights in respect of an investment falling within paragraph 14, 15 or 15A.
 
 (3) For the purposes of this article, a bearer instrument falling within paragraph 17 or 18 of Schedule 1 is treated as issued by the person (“P”) who issued the investment in respect of which the bearer instrument confers rights if it is issued by—
@@ -39,14 +39,14 @@ summary: ''
 
 (4) “**Relevant market**”, in relation to instruments of any particular class, means any market on which instruments of that class can be traded or dealt in and which—
 
-- (za)[^key-f97c56f7a398c7236bdc1f4c41daaaae] is a relevant UK market;
+- (za)[^c-f97c56f7a398c7236bdc1f4c41daaaae] is a relevant UK market;
 - (a) meets the criteria specified in Part I of Schedule 3; or
-- (b) is specified in, or established under the rules of an exchange specified in, Part[^key-aa7d6d71507bade10b39e81a3bdb83bd]... III of that Schedule.
+- (b) is specified in, or established under the rules of an exchange specified in, Part[^c-aa7d6d71507bade10b39e81a3bdb83bd]... III of that Schedule.
 
 ## Annotations
 
-[^key-2aec4bbb267e98ad86dbbfd6eae64bcc]: Textual amendment: Words in art. 41(2)(a)(b) substituted (24.2.2010) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2010 (S.I. 2010/86)](https://www.legislation.gov.uk/uksi/2010/86), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/86/article/1/2), [Sch. para. 9(a)(ii)](https://www.legislation.gov.uk/uksi/2010/86/schedule/paragraph/9/a/ii)
+[^c-2aec4bbb267e98ad86dbbfd6eae64bcc]: Textual amendment: Words in art. 41(2)(a)(b) substituted (24.2.2010) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2010 (S.I. 2010/86)](https://www.legislation.gov.uk/uksi/2010/86), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/86/article/1/2), [Sch. para. 9(a)(ii)](https://www.legislation.gov.uk/uksi/2010/86/schedule/paragraph/9/a/ii)
 
-[^key-f97c56f7a398c7236bdc1f4c41daaaae]: Textual amendment: [Art. 41(4)(za)](https://www.legislation.gov.uk/uksi/2005/1529/article/41/4/za) inserted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/2/4)
+[^c-f97c56f7a398c7236bdc1f4c41daaaae]: Textual amendment: [Art. 41(4)(za)](https://www.legislation.gov.uk/uksi/2005/1529/article/41/4/za) inserted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/2/4)
 
-[^key-aa7d6d71507bade10b39e81a3bdb83bd]: Textual amendment: Words in art. 41(4)(b) omitted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [Sch. para. 9(6)](https://www.legislation.gov.uk/uksi/2017/488/schedule/paragraph/9/6)
+[^c-aa7d6d71507bade10b39e81a3bdb83bd]: Textual amendment: Words in art. 41(4)(b) omitted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [Sch. para. 9(6)](https://www.legislation.gov.uk/uksi/2017/488/schedule/paragraph/9/6)

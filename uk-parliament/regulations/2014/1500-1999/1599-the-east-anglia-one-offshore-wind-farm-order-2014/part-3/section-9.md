@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Temporary stopping up of public rights of way[^key-02f0086bd5224598c5a6f13826bb4016]
+## 9. Temporary stopping up of public rights of way[^c-02f0086bd5224598c5a6f13826bb4016]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02f0086bd5224598c5a6f13826bb4016]: Commencement: Art. 9 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-02f0086bd5224598c5a6f13826bb4016]: Commencement: Art. 9 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)

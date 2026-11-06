@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Works in tidal lands etc.[^key-26966354d16752f88e8e6f0b8d8f5848]
+## 187. Works in tidal lands etc.[^c-26966354d16752f88e8e6f0b8d8f5848]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26966354d16752f88e8e6f0b8d8f5848]: Modification: [S. 187](https://www.legislation.gov.uk/ukpga/1991/56/section/187) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 13(9)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/13/9) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-26966354d16752f88e8e6f0b8d8f5848]: Modification: [S. 187](https://www.legislation.gov.uk/ukpga/1991/56/section/187) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 13(9)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/13/9) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Duties of licensee[^key-03aab341e051fe4a2d67363c9ff8c0c3]
+## 5. Duties of licensee[^c-03aab341e051fe4a2d67363c9ff8c0c3]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ The licensee shall—
 
 ## Annotations
 
-[^key-03aab341e051fe4a2d67363c9ff8c0c3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/247/regulation/5) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-03aab341e051fe4a2d67363c9ff8c0c3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/247/regulation/5) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Certification of documents and plans[^key-a9a2276c7bea834d98381454998d1874]
+## 33. Certification of documents and plans[^c-a9a2276c7bea834d98381454998d1874]
 
 *Extent: E+W+S*
 
@@ -35,10 +35,10 @@ for certification that they are true copies of the documents referred to in this
 
 (2) A plan or document so certified is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-(3)[^key-d6b5f5a4d77c0810ec7a4fb85775079c] The undertaker may submit to the Secretary of State a written memorandum explaining any differences between references to the works comprising the Authorised Development used in this Order and those used in the plans and documents submitted for certification in accordance with article 33(1). The Secretary of State may certify such memorandum as being a true and accurate explanation of any differences and any document certified in accordance with article 33(1) shall be interpreted in accordance with the certified memorandum.
+(3)[^c-d6b5f5a4d77c0810ec7a4fb85775079c] The undertaker may submit to the Secretary of State a written memorandum explaining any differences between references to the works comprising the Authorised Development used in this Order and those used in the plans and documents submitted for certification in accordance with article 33(1). The Secretary of State may certify such memorandum as being a true and accurate explanation of any differences and any document certified in accordance with article 33(1) shall be interpreted in accordance with the certified memorandum.
 
 ## Annotations
 
-[^key-a9a2276c7bea834d98381454998d1874]: Commencement: Art. 33 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-a9a2276c7bea834d98381454998d1874]: Commencement: Art. 33 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
 
-[^key-d6b5f5a4d77c0810ec7a4fb85775079c]: Textual amendment: [Art. 33(3)](https://www.legislation.gov.uk/uksi/2017/215/article/33/3) inserted (6.7.2018) by [The North London Heat and Power Generating Station (Correction) Order 2018 (S.I. 2018/822)](https://www.legislation.gov.uk/uksi/2018/822), [art. 1](https://www.legislation.gov.uk/uksi/2018/822/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/822/schedule)
+[^c-d6b5f5a4d77c0810ec7a4fb85775079c]: Textual amendment: [Art. 33(3)](https://www.legislation.gov.uk/uksi/2017/215/article/33/3) inserted (6.7.2018) by [The North London Heat and Power Generating Station (Correction) Order 2018 (S.I. 2018/822)](https://www.legislation.gov.uk/uksi/2018/822), [art. 1](https://www.legislation.gov.uk/uksi/2018/822/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/822/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Associate members[^key-5f15b891b814d5e62e5852b95655e7db]
+## 20. Associate members[^c-5f15b891b814d5e62e5852b95655e7db]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f15b891b814d5e62e5852b95655e7db]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/1035/regulation/20) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-5f15b891b814d5e62e5852b95655e7db]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/1035/regulation/20) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

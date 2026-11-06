@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where a person is convicted of an offence under any provision of this Act, application may be made, by notice under Part VII of the Magistrates' Courts (Northern Ireland) Order 1981[^c16998181], to a court of summary jurisdiction [^key-19f695945e4c6994d14b9b3b624fe077]..., for an order that any vehicle used by him as an aid to the commission of the offence shall be forfeited.
+(1) Where a person is convicted of an offence under any provision of this Act, application may be made, by notice under Part VII of the Magistrates' Courts (Northern Ireland) Order 1981[^c16998181], to a court of summary jurisdiction [^c-19f695945e4c6994d14b9b3b624fe077]..., for an order that any vehicle used by him as an aid to the commission of the offence shall be forfeited.
 
 (2) An application under this section shall not be made—
 
@@ -48,4 +48,4 @@ but, subject to the foregoing provisions of this subsection, shall be made as so
 
 [^c16998181]: Textual amendment: [1981 NI 26](https://www.legislation.gov.uk/nisi/1981)
 
-[^key-19f695945e4c6994d14b9b3b624fe077]: Textual amendment: Words in [s. 197(1)](https://www.legislation.gov.uk/apni/1966/17/section/197/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 58(4)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/58/4), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-19f695945e4c6994d14b9b3b624fe077]: Textual amendment: Words in [s. 197(1)](https://www.legislation.gov.uk/apni/1966/17/section/197/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 58(4)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/58/4), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

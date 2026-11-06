@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Avoidance of election for employing corrupt agent[^key-68d51cf558d76e7b2655dc9742c97415]
+## 118. Avoidance of election for employing corrupt agent[^c-68d51cf558d76e7b2655dc9742c97415]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68d51cf558d76e7b2655dc9742c97415]: Commencement: Art. 118 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-68d51cf558d76e7b2655dc9742c97415]: Commencement: Art. 118 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00065]: Footnote: [1962 c. 14 (N.I)](https://www.legislation.gov.uk/apni/1962/14).

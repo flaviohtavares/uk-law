@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 71A. Marking of date of manufacture of trailers[^key-7b4a10c7420f519d05f932a9a078059b]
+## 71A. Marking of date of manufacture of trailers[^c-7b4a10c7420f519d05f932a9a078059b]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b4a10c7420f519d05f932a9a078059b]: Textual amendment: [Reg. 71A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/71A) inserted (1.1.1997) by [The Road Vehicles (Construction and Use) (Amendment) (No. 7) Regulations 1996 (S.I. 1996/3033)](https://www.legislation.gov.uk/uksi/1996/3033), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3033/regulation/1), [7](https://www.legislation.gov.uk/uksi/1996/3033/regulation/7)
+[^c-7b4a10c7420f519d05f932a9a078059b]: Textual amendment: [Reg. 71A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/71A) inserted (1.1.1997) by [The Road Vehicles (Construction and Use) (Amendment) (No. 7) Regulations 1996 (S.I. 1996/3033)](https://www.legislation.gov.uk/uksi/1996/3033), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3033/regulation/1), [7](https://www.legislation.gov.uk/uksi/1996/3033/regulation/7)

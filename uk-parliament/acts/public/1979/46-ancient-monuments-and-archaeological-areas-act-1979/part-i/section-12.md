@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Power to place ancient monument under guardianship.[^c250838][^key-c2ec74edbbc532a3921b29a32070b43e][^key-ba45a667a141c3d80d457d15c385b649]
+## 12. Power to place ancient monument under guardianship.[^c250838][^c-c2ec74edbbc532a3921b29a32070b43e][^c-ba45a667a141c3d80d457d15c385b649]
 
 *Extent: E+W*
 
@@ -94,7 +94,7 @@ Where the monument in question is situated in England, the Secretary of State sh
 (9) Every person deriving title to any ancient monument from, through or under any person who has executed a guardianship deed shall be bound by the guardianship deed unless—
 
 - (a) in the case of a monument in England and Wales, he derives title by virtue of any disposition made by the person who executed the deed before the date of the deed; or
-- (b) in the case of a monument in Scotland, he is a person who in good faith and for value acquired right (whether title has been completed[^key-b7be6f5f5950db70bda141c00c6282f2] or not) to his interest in the monument before the date of the deed.
+- (b) in the case of a monument in Scotland, he is a person who in good faith and for value acquired right (whether title has been completed[^c-b7be6f5f5950db70bda141c00c6282f2] or not) to his interest in the monument before the date of the deed.
 
 (10) The Secretary of State or the Commission[^c250855] or a local authority shall not consent to become guardians of any structure which is occupied as a dwelling house by any person other than a person employed as the caretaker thereof or his family.
 
@@ -104,9 +104,9 @@ Where the monument in question is situated in England, the Secretary of State sh
 
 [^c250838]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-c2ec74edbbc532a3921b29a32070b43e]: Modification: Ss. 12-17: functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [25(2)(xxvi)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/2/xxvi) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1777/article/35))
+[^c-c2ec74edbbc532a3921b29a32070b43e]: Modification: Ss. 12-17: functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [25(2)(xxvi)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/2/xxvi) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1777/article/35))
 
-[^key-ba45a667a141c3d80d457d15c385b649]: Modification: [Ss. 12-17](https://www.legislation.gov.uk/ukpga/1979/46/section/12): functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(2)(xxvi)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/2/xxvi) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
+[^c-ba45a667a141c3d80d457d15c385b649]: Modification: [Ss. 12-17](https://www.legislation.gov.uk/ukpga/1979/46/section/12): functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(2)(xxvi)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/2/xxvi) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
 
 [^c250839]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 38(2)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/38/2)
 
@@ -136,7 +136,7 @@ Where the monument in question is situated in England, the Secretary of State sh
 
 [^c250854]: Textual amendment: Words substituted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 38(5)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/38/5)
 
-[^key-b7be6f5f5950db70bda141c00c6282f2]: Textual amendment: Words in [s. 12(9)(b)](https://www.legislation.gov.uk/ukpga/1979/46/section/12/9/b) substituted (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 40(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/40/2) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-b7be6f5f5950db70bda141c00c6282f2]: Textual amendment: Words in [s. 12(9)(b)](https://www.legislation.gov.uk/ukpga/1979/46/section/12/9/b) substituted (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 40(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/40/2) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c250855]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 38(6)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/38/6)
 

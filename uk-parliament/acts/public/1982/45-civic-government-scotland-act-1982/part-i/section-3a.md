@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3A. Mandatory licence conditions[^key-be0d2f586b7c7183f211c3d9d9b16510]
+## 3A. Mandatory licence conditions[^c-be0d2f586b7c7183f211c3d9d9b16510]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be0d2f586b7c7183f211c3d9d9b16510]: Textual amendment: Ss. 3A, 3B inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 172(3)](https://www.legislation.gov.uk/asp/2010/13/section/172/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-be0d2f586b7c7183f211c3d9d9b16510]: Textual amendment: Ss. 3A, 3B inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 172(3)](https://www.legislation.gov.uk/asp/2010/13/section/172/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

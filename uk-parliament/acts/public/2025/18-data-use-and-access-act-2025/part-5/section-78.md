@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Searches in response to data subjects’ requests[^key-6c2d6e74818e44ae1869fe4f0e66ca86]
+## 78. Searches in response to data subjects’ requests[^c-6c2d6e74818e44ae1869fe4f0e66ca86]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c2d6e74818e44ae1869fe4f0e66ca86]: Commencement: S. 78 in force at Royal Assent, see [s. 142(2)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/b)
+[^c-6c2d6e74818e44ae1869fe4f0e66ca86]: Commencement: S. 78 in force at Royal Assent, see [s. 142(2)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Interaction with LLAOL planning permission[^key-5fd76b5917f1315506a16b15efee80f2]
+## 44. Interaction with LLAOL planning permission[^c-5fd76b5917f1315506a16b15efee80f2]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ including any variations thereto granted under section 96A[^f00089] (power to ma
 
 ## Annotations
 
-[^key-5fd76b5917f1315506a16b15efee80f2]: Commencement: Art. 44 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-5fd76b5917f1315506a16b15efee80f2]: Commencement: Art. 44 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
 
 [^f00089]: Footnote: Section 96A was inserted by section 190(2) of the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29) and was amended by [S.I. 2017/276](https://www.legislation.gov.uk/uksi/2017/276).

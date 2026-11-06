@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Amendment of article 37[^key-47579bebdd7591161117b658f267913b]
+## 63. Amendment of article 37[^c-47579bebdd7591161117b658f267913b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47579bebdd7591161117b658f267913b]: Commencement: Reg. 63 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-47579bebdd7591161117b658f267913b]: Commencement: Reg. 63 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00047]: Footnote: Article 37 was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2014/1887](https://www.legislation.gov.uk/uksi/2014/1887) and [2015/806](https://www.legislation.gov.uk/uksi/2015/806). There are other amendments but these are not relevant to these Regulations.

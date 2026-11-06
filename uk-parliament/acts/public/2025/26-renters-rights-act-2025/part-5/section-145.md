@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 145. Commencement[^key-23aae0100a9e70cbc53d6dc304065f7e]
+## 145. Commencement[^c-23aae0100a9e70cbc53d6dc304065f7e]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ and here “**social housing assured tenancy**” means an assured tenancy of so
 
 ## Annotations
 
-[^key-23aae0100a9e70cbc53d6dc304065f7e]: Commencement: S. 145 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-23aae0100a9e70cbc53d6dc304065f7e]: Commencement: S. 145 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)

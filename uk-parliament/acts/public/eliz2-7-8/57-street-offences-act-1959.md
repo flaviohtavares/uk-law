@@ -35,11 +35,11 @@ An Act to make, as respects England and Wales, further provision against loiteri
 
 ## 1. Loitering or soliciting for purposes of prostitution.
 
-(1) It shall be an offence for a person[^key-84369392b919776d765d093df1af337a] aged 18 or over[^key-39298b6b2c79ed34e1a3a024986b4809] (whether male or female)[^key-61b30a38d9b64eaf209ab7a481ab70bf] persistently[^key-112fffa45806b1af2245d17ae9d1487a] to loiter or solicit in a street or public place for the purpose of prostitution.
+(1) It shall be an offence for a person[^c-84369392b919776d765d093df1af337a] aged 18 or over[^c-39298b6b2c79ed34e1a3a024986b4809] (whether male or female)[^c-61b30a38d9b64eaf209ab7a481ab70bf] persistently[^c-112fffa45806b1af2245d17ae9d1487a] to loiter or solicit in a street or public place for the purpose of prostitution.
 
 (2)[^c623815] A person guilty of an offence under this section shall be liable on summary conviction to a fine of an amount not exceeding level 2 on the standard scale, [^c623816] . . . or, for an offence committed after a previous conviction, to a fine of an amount not exceeding level 3 on that scale.
 
-(2A)[^key-6bf234de64a245c8c9280b04b6ab54aa] The court may deal with a person convicted of an offence under this section by making an order requiring the offender to attend three meetings with the person for the time being specified in the order (“ **the supervisor** ”) or with such other person as the supervisor may direct.
+(2A)[^c-6bf234de64a245c8c9280b04b6ab54aa] The court may deal with a person convicted of an offence under this section by making an order requiring the offender to attend three meetings with the person for the time being specified in the order (“ **the supervisor** ”) or with such other person as the supervisor may direct.
 
 (2B) The purpose of an order under subsection (2A) is to assist the offender, through attendance at those meetings, to—
 
@@ -50,9 +50,9 @@ An Act to make, as respects England and Wales, further provision against loiteri
 
 (2D) If the court makes an order under subsection (2A) it may not impose any other penalty in respect of the offence.
 
-(3)[^key-fcdccc209449919a3264425a138f084e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-fcdccc209449919a3264425a138f084e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) For the purposes of this section—[^key-141db62b70027f755a3b15277046dc9f]
+(4) For the purposes of this section—[^c-141db62b70027f755a3b15277046dc9f]
 
 - (a) conduct is persistent if it takes place on two or more occasions in any period of three months;
 - (b) any reference to a person loitering or soliciting for the purposes of prostitution is a reference to a person loitering or soliciting for the purposes of offering services as a prostitute;
@@ -60,7 +60,7 @@ An Act to make, as respects England and Wales, further provision against loiteri
 
 (5)[^c623817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1A. Orders under section 1(2A): supplementary[^key-c6d9ae030c790e75648e4b28deab45ba]
+## 1A. Orders under section 1(2A): supplementary[^c-c6d9ae030c790e75648e4b28deab45ba]
 
 (1) This section applies to an order under section 1(2A).
 
@@ -104,7 +104,7 @@ whichever first occurs.
 
 (11) The Schedule to this Act (which relates to failure to comply with orders under section 1(2A) and to the revocation or amendment of such orders) has effect.
 
-## 2. Application to court by person cautioned for loitering or soliciting.[^key-3f730ce528aed838566c77af960fed41][^key-1e078b450116e4cb802693214e1a8f1f]
+## 2. Application to court by person cautioned for loitering or soliciting.[^c-3f730ce528aed838566c77af960fed41][^c-1e078b450116e4cb802693214e1a8f1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -128,7 +128,7 @@ The maximum term of imprisonment to which a person is liable if convicted on ind
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c623823]
 
-## Schedule — Orders Under Section 1(2A): Breach, Amendment etc.[^key-f6ebe3beb23a90a20e62bec2b74cc1d0]
+## Schedule — Orders Under Section 1(2A): Breach, Amendment etc.[^c-f6ebe3beb23a90a20e62bec2b74cc1d0]
 
 Section 1A(11)
 
@@ -300,31 +300,31 @@ Section 1A(11)
 
 ## Annotations
 
-[^key-84369392b919776d765d093df1af337a]: Textual amendment: Word in s. 1(1) substituted (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2009/26/section/16/2/a), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) (with [s. 16(5)](https://www.legislation.gov.uk/ukpga/2009/26/section/16/5)); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(c)](https://www.legislation.gov.uk/uksi/2010/507/article/5/c)
+[^c-84369392b919776d765d093df1af337a]: Textual amendment: Word in s. 1(1) substituted (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2009/26/section/16/2/a), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) (with [s. 16(5)](https://www.legislation.gov.uk/ukpga/2009/26/section/16/5)); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(c)](https://www.legislation.gov.uk/uksi/2010/507/article/5/c)
 
-[^key-39298b6b2c79ed34e1a3a024986b4809]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/57/section/1/1) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 68(7)](https://www.legislation.gov.uk/ukpga/2015/9/section/68/7), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(11)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/11)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/l)
+[^c-39298b6b2c79ed34e1a3a024986b4809]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/57/section/1/1) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 68(7)](https://www.legislation.gov.uk/ukpga/2015/9/section/68/7), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(11)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/11)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/l)
 
-[^key-61b30a38d9b64eaf209ab7a481ab70bf]: Textual amendment: Words in s. 1(1) inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2003/42/schedule/1/paragraph/2); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-61b30a38d9b64eaf209ab7a481ab70bf]: Textual amendment: Words in s. 1(1) inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2003/42/schedule/1/paragraph/2); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
-[^key-112fffa45806b1af2245d17ae9d1487a]: Textual amendment: Word in s. 1(1) inserted (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/16/2/b), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) (with [s. 16(5)](https://www.legislation.gov.uk/ukpga/2009/26/section/16/5)); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(c)](https://www.legislation.gov.uk/uksi/2010/507/article/5/c)
+[^c-112fffa45806b1af2245d17ae9d1487a]: Textual amendment: Word in s. 1(1) inserted (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/16/2/b), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) (with [s. 16(5)](https://www.legislation.gov.uk/ukpga/2009/26/section/16/5)); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(c)](https://www.legislation.gov.uk/uksi/2010/507/article/5/c)
 
 [^c623815]: Textual amendment: S. 1(2) substituted by [Criminal Justice Act 1982 (c. 48, SIF 82)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 71](https://www.legislation.gov.uk/ukpga/1982/48/section/71)
 
 [^c623816]: Textual amendment: Words in s. 1(2) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt.XIV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XIV).
 
-[^key-6bf234de64a245c8c9280b04b6ab54aa]: Textual amendment: S. 1(2A)-(2D) inserted (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/17/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(d)](https://www.legislation.gov.uk/uksi/2010/507/article/5/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/507/article/6))
+[^c-6bf234de64a245c8c9280b04b6ab54aa]: Textual amendment: S. 1(2A)-(2D) inserted (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/17/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(d)](https://www.legislation.gov.uk/uksi/2010/507/article/5/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/507/article/6))
 
-[^key-fcdccc209449919a3264425a138f084e]: Textual amendment: S. 1(3) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/14), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-fcdccc209449919a3264425a138f084e]: Textual amendment: S. 1(3) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/14), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
 
-[^key-141db62b70027f755a3b15277046dc9f]: Textual amendment: Words in s. 1(4) inserted (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/16/3), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) (with [s. 16(5)](https://www.legislation.gov.uk/ukpga/2009/26/section/16/5)); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(c)](https://www.legislation.gov.uk/uksi/2010/507/article/5/c)
+[^c-141db62b70027f755a3b15277046dc9f]: Textual amendment: Words in s. 1(4) inserted (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/16/3), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) (with [s. 16(5)](https://www.legislation.gov.uk/ukpga/2009/26/section/16/5)); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(c)](https://www.legislation.gov.uk/uksi/2010/507/article/5/c)
 
 [^c623817]: Textual amendment: S. 1(5) repealed by [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1989/43/section/1/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1989/43/schedule/1)
 
-[^key-c6d9ae030c790e75648e4b28deab45ba]: Textual amendment: S. 1A inserted (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 17(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/17/3), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(d)](https://www.legislation.gov.uk/uksi/2010/507/article/5/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/507/article/6))
+[^c-c6d9ae030c790e75648e4b28deab45ba]: Textual amendment: S. 1A inserted (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 17(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/17/3), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(d)](https://www.legislation.gov.uk/uksi/2010/507/article/5/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/507/article/6))
 
-[^key-3f730ce528aed838566c77af960fed41]: Textual amendment: S. 2 repealed (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 16(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/16/4), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 8 Pts. 2](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/2); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(c)(x)](https://www.legislation.gov.uk/uksi/2010/507/article/5/c/x)
+[^c-3f730ce528aed838566c77af960fed41]: Textual amendment: S. 2 repealed (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 16(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/16/4), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 8 Pts. 2](https://www.legislation.gov.uk/ukpga/2009/26/schedule/8/part/2); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(c)(x)](https://www.legislation.gov.uk/uksi/2010/507/article/5/c/x)
 
-[^key-1e078b450116e4cb802693214e1a8f1f]: Textual amendment: Word in s. 2 heading substituted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/1/paragraph/3/2); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-1e078b450116e4cb802693214e1a8f1f]: Textual amendment: Word in s. 2 heading substituted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/1/paragraph/3/2); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c623820]: Textual amendment: S. 3 repealed by [Licensing Act 1961 (c. 61)](https://www.legislation.gov.uk/ukpga/1961/61), [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1961/61/schedule/9/part/II)
 
@@ -334,7 +334,7 @@ Section 1A(11)
 
 [^c623823]: Textual amendment: Original Sch. repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
 
-[^key-f6ebe3beb23a90a20e62bec2b74cc1d0]: Textual amendment: Sch. inserted (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/17/4), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/2009/26/schedule/1); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(d)](https://www.legislation.gov.uk/uksi/2010/507/article/5/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/507/article/6))
+[^c-f6ebe3beb23a90a20e62bec2b74cc1d0]: Textual amendment: Sch. inserted (1.4.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/17/4), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/2009/26/schedule/1); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(d)](https://www.legislation.gov.uk/uksi/2010/507/article/5/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/507/article/6))
 
 [^M_F_692f6d03-292e-45b0-a292-40f92d6635ca]: Textual amendment: Words in Sch. para. 2(3) substituted for Sch. para. 2(3)(a)(b) (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/2/2) (with s. 86(11)); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(ii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/ii)
 

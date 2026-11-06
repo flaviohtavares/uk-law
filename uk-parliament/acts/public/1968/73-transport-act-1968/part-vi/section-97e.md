@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97E. Driver cards: downloading data[^key-e330be0867afc24c41c40e53132dbb3c]
+## 97E. Driver cards: downloading data[^c-e330be0867afc24c41c40e53132dbb3c]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies where a transport undertaking is required by article 10 of the Community Drivers’ Hours Regulation or article 11(2)(b) of the Annex to the AETR[^key-965a5f8222152acab0e8d3cd9441c2ca] to ensure that data is downloaded from a driver card issued to a driver.
+(1) This section applies where a transport undertaking is required by article 10 of the Community Drivers’ Hours Regulation or article 11(2)(b) of the Annex to the AETR[^c-965a5f8222152acab0e8d3cd9441c2ca] to ensure that data is downloaded from a driver card issued to a driver.
 
 (2) The undertaking must ensure that all data is downloaded from the card not later than the end of the download period.
 
@@ -36,7 +36,7 @@ summary: ''
 </tbody>
 </table>
 
-[^key-0775ba177d87322138370b2147facf5a]
+[^c-0775ba177d87322138370b2147facf5a]
 
 (4) The undertaking must ensure that the data is downloaded from the card—
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e330be0867afc24c41c40e53132dbb3c]: Textual amendment: Ss. 97C-97H inserted (5.2.2008) by [The Passenger and Goods Vehicles (Recording Equipment) (Downloading and Retention of Data) Regulations 2008 (S.I. 2008/198)](https://www.legislation.gov.uk/uksi/2008/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/198/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/198/regulation/2)
+[^c-e330be0867afc24c41c40e53132dbb3c]: Textual amendment: Ss. 97C-97H inserted (5.2.2008) by [The Passenger and Goods Vehicles (Recording Equipment) (Downloading and Retention of Data) Regulations 2008 (S.I. 2008/198)](https://www.legislation.gov.uk/uksi/2008/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/198/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/198/regulation/2)
 
-[^key-965a5f8222152acab0e8d3cd9441c2ca]: Textual amendment: Words in [s. 97E(1)](https://www.legislation.gov.uk/ukpga/1968/73/section/97E/1) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/10/a)
+[^c-965a5f8222152acab0e8d3cd9441c2ca]: Textual amendment: Words in [s. 97E(1)](https://www.legislation.gov.uk/ukpga/1968/73/section/97E/1) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/10/a)
 
-[^key-0775ba177d87322138370b2147facf5a]: Textual amendment: Words in [s. 97E(3)](https://www.legislation.gov.uk/ukpga/1968/73/section/97E/3) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/10/b)
+[^c-0775ba177d87322138370b2147facf5a]: Textual amendment: Words in [s. 97E(3)](https://www.legislation.gov.uk/ukpga/1968/73/section/97E/3) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/10/b)

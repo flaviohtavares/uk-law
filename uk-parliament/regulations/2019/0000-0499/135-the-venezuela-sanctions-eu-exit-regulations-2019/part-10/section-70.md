@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Other revocations[^key-c8edcaf5b52f9da59542608662375e4e]
+## 70. Other revocations[^c-c8edcaf5b52f9da59542608662375e4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c8edcaf5b52f9da59542608662375e4e]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8edcaf5b52f9da59542608662375e4e]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23543291]: Marginal citation: [S.I. 2017/1094](https://www.legislation.gov.uk/uksi/2017/1094) as amended by [S.I. 2018/682](https://www.legislation.gov.uk/uksi/2018/682).
 

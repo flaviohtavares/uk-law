@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Designation of hydrogen transport counterparty[^key-05150c017737b9f6324b27c51a4f5cbe]
+## 61. Designation of hydrogen transport counterparty[^c-05150c017737b9f6324b27c51a4f5cbe]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05150c017737b9f6324b27c51a4f5cbe]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2023/52/section/61) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-05150c017737b9f6324b27c51a4f5cbe]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2023/52/section/61) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

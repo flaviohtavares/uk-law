@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Displays of products and prices in Northern Ireland[^key-6b0588b5990555a76b567e48a795cf1e][^key-638f11af2c3e0a63861c73908b974554]
+## 83. Displays of products and prices in Northern Ireland[^c-6b0588b5990555a76b567e48a795cf1e][^c-638f11af2c3e0a63861c73908b974554]
 
 *Extent: N.I.*
 
@@ -56,6 +56,6 @@ After Article 4J of the Health and Personal Social Services (Northern Ireland) O
 
 ## Annotations
 
-[^key-6b0588b5990555a76b567e48a795cf1e]: Commencement: S. 83 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-6b0588b5990555a76b567e48a795cf1e]: Commencement: S. 83 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-638f11af2c3e0a63861c73908b974554]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2026/18/section/83) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-638f11af2c3e0a63861c73908b974554]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2026/18/section/83) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

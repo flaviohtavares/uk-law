@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Oil and gas activities and carbon dioxide storage[^key-72befccacfaeee0fede515ef8af3af34]
+## 77. Oil and gas activities and carbon dioxide storage[^c-72befccacfaeee0fede515ef8af3af34]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72befccacfaeee0fede515ef8af3af34]: Commencement: S. 77 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-72befccacfaeee0fede515ef8af3af34]: Commencement: S. 77 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

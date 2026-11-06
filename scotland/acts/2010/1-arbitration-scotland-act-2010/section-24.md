@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Arbitral appointments referee[^key-2f5cec7bb49eeb05745c7f2bf98373f2]
+## 24. Arbitral appointments referee[^c-2f5cec7bb49eeb05745c7f2bf98373f2]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f5cec7bb49eeb05745c7f2bf98373f2]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2010/1/section/24) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))
+[^c-2f5cec7bb49eeb05745c7f2bf98373f2]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2010/1/section/24) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))

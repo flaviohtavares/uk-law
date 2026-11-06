@@ -30,7 +30,7 @@ summary: ''
 
 PROTECTION OF WRECKS
 
-The Protection of Wrecks (Designation No. 3) Order 1997 (revoked)[^key-1251f243549d4836fd38cdc819082ecb]
+The Protection of Wrecks (Designation No. 3) Order 1997 (revoked)[^c-1251f243549d4836fd38cdc819082ecb]
 
 Made
 
@@ -44,24 +44,24 @@ Coming into force
 
 19th July 1997
 
-[^key-1251f243549d4836fd38cdc819082ecb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1251f243549d4836fd38cdc819082ecb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1251f243549d4836fd38cdc819082ecb]
+## 1. Citation and commencement[^c-1251f243549d4836fd38cdc819082ecb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Identification of site and designation of restricted area[^key-1251f243549d4836fd38cdc819082ecb]
+## 2. Identification of site and designation of restricted area[^c-1251f243549d4836fd38cdc819082ecb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1251f243549d4836fd38cdc819082ecb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1251f243549d4836fd38cdc819082ecb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1251f243549d4836fd38cdc819082ecb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1251f243549d4836fd38cdc819082ecb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1251f243549d4836fd38cdc819082ecb]: Textual amendment: Order revoked (2.6.2022) by [The Protection of Wrecks (Designation and Amendment) (England) Order 2022 (S.I. 2022/535)](https://www.legislation.gov.uk/uksi/2022/535), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/535/article/1/1), [4](https://www.legislation.gov.uk/uksi/2022/535/article/4)
+[^c-1251f243549d4836fd38cdc819082ecb]: Textual amendment: Order revoked (2.6.2022) by [The Protection of Wrecks (Designation and Amendment) (England) Order 2022 (S.I. 2022/535)](https://www.legislation.gov.uk/uksi/2022/535), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/535/article/1/1), [4](https://www.legislation.gov.uk/uksi/2022/535/article/4)

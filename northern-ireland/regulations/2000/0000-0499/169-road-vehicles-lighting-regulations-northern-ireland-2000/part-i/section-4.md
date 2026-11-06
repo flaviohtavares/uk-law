@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Exceptions — general[^key-d0f1dd0be1fdc33c9049ab777ae2b605]
+## 4. Exceptions — general[^c-d0f1dd0be1fdc33c9049ab777ae2b605]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0f1dd0be1fdc33c9049ab777ae2b605]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/169/regulation/4) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-d0f1dd0be1fdc33c9049ab777ae2b605]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/169/regulation/4) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

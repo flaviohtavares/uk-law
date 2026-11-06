@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Amendment of Commission Regulation (EU) No 1160/2011[^key-e552e04c4745f936206c7419fce647eb]
+## 40. Amendment of Commission Regulation (EU) No 1160/2011[^c-e552e04c4745f936206c7419fce647eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,13 +24,13 @@ summary: ''
 
 (2) In Article 1—
 
-- (a) in paragraph 1, for “European Union” substitute “ Great Britain[^key-561c6bb203802b255d9f58844bf29f5d] ”;
+- (a) in paragraph 1, for “European Union” substitute “ Great Britain[^c-561c6bb203802b255d9f58844bf29f5d] ”;
 - (b) omit paragraph 2.
 
 (3) In Article 2, for the words from “shall not” to the end of that Article, substitute “ may not be made on foods on the Great Britain market. ”.
 
 ## Annotations
 
-[^key-e552e04c4745f936206c7419fce647eb]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-e552e04c4745f936206c7419fce647eb]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-561c6bb203802b255d9f58844bf29f5d]: Textual amendment: Words in [reg. 40](https://www.legislation.gov.uk/uksi/2019/651/regulation/40) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/3)[(4)(j)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/4/j)
+[^c-561c6bb203802b255d9f58844bf29f5d]: Textual amendment: Words in [reg. 40](https://www.legislation.gov.uk/uksi/2019/651/regulation/40) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/3)[(4)(j)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/4/j)

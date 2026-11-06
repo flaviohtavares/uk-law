@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-dd8f29745f196a7f0c53acda55c3490a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-dd8f29745f196a7f0c53acda55c3490a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A Minister of the Crown may not without the consent of the National Assembly for Wales take action of a kind specified in subsection (3) that relates wholly or partly to a person or body specified in subsection (4).
 
@@ -35,13 +35,13 @@ summary: ''
 
 (4) The persons and bodies referred to in subsection (2) are—
 
-- (a)[^key-042353d0626d7b76f85ea61d583668e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) a person or body specified in paragraph 9 or 10 of Schedule 1[^key-2dd20c11b4b28a5ee691a323c5707ff7], if and in so far as the person or body has functions in relation to Wales.
+- (a)[^c-042353d0626d7b76f85ea61d583668e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a person or body specified in paragraph 9 or 10 of Schedule 1[^c-2dd20c11b4b28a5ee691a323c5707ff7], if and in so far as the person or body has functions in relation to Wales.
 
 ## Annotations
 
-[^key-dd8f29745f196a7f0c53acda55c3490a]: Textual amendment: S. 16(1) omitted (24.5.2018) by virtue of [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(16)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/41/16/a)
+[^c-dd8f29745f196a7f0c53acda55c3490a]: Textual amendment: S. 16(1) omitted (24.5.2018) by virtue of [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(16)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/41/16/a)
 
-[^key-042353d0626d7b76f85ea61d583668e0]: Textual amendment: S. 16(4)(a) omitted (24.5.2018) by virtue of [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(16)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/41/16/b)
+[^c-042353d0626d7b76f85ea61d583668e0]: Textual amendment: S. 16(4)(a) omitted (24.5.2018) by virtue of [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(16)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/41/16/b)
 
-[^key-2dd20c11b4b28a5ee691a323c5707ff7]: Textual amendment: Words in s. 16(4)(b) substituted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(16)(c)](https://www.legislation.gov.uk/uksi/2018/644/article/41/16/c)
+[^c-2dd20c11b4b28a5ee691a323c5707ff7]: Textual amendment: Words in s. 16(4)(b) substituted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(16)(c)](https://www.legislation.gov.uk/uksi/2018/644/article/41/16/c)

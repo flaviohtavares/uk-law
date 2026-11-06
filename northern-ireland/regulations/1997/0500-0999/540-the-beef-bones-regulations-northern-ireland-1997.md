@@ -45,11 +45,11 @@ Whereas it appears to the Department of Agriculture acting as the Department con
 
 Now therefore the said Department concerned, in the exercise of the powers conferred on it by Articles 15(1), (3), 25, 26(3) and 47(2) of, and paragraphs 2(1), 3, 5(1) and 6(1) of Schedule 1 to, the Food Safety (Northern Ireland) Order 1991[^f00001] and of every other power enabling it in that behalf and after consultation in accordance with Article 47(3) of the said Order with such organisations as appear to it to be representative of interests likely to be substantially affected by these Regulations, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-43667a24dbea173e0609bd2ee22d896a]
+## 1. Citation and commencement[^c-43667a24dbea173e0609bd2ee22d896a]
 
 These Regulations may be cited as the Beef Bones Regulations (Northern Ireland) 1997 and shall come into operation on 16th December 1997.
 
-## 2. Interpretation[^key-6e712fcd655460cdb546f074023abccd]
+## 2. Interpretation[^c-6e712fcd655460cdb546f074023abccd]
 
 (1) In these Regulations —
 
@@ -74,13 +74,13 @@ These Regulations may be cited as the Beef Bones Regulations (Northern Ireland) 
 
 (3) For the purposes of these Regulations, the delivery in the course of a business of bone-in beef to or to the order of its owner for human consumption shall be deemed to be a sale.
 
-## 3. Bone-in beef[^key-c89dd3f565ecba04a9e70470cd6b4cea]
+## 3. Bone-in beef[^c-c89dd3f565ecba04a9e70470cd6b4cea]
 
 (1) A person shall not sell any bone-in beef to the ultimate consumer for human consumption.
 
 (2) A person shall not use any bone-in beef in the preparation of any food or ingredient for sale direct to the ultimate consumer.
 
-## 4. Bones[^key-24acd7e4cf3c44998fa34c31e6a69dd4]
+## 4. Bones[^c-24acd7e4cf3c44998fa34c31e6a69dd4]
 
 (1) A person shall not sell to the ultimate consumer any bone for human consumption.
 
@@ -92,7 +92,7 @@ These Regulations may be cited as the Beef Bones Regulations (Northern Ireland) 
 
 (5) A person shall not use any bone removed from bone-in beef deboned outside the United Kingdom in the preparation of any food or ingredient for sale direct to the ultimate consumer for human consumption.
 
-## 5. Food and food ingredients[^key-22cfaa3a5276ea405c9dc8f36ae90611]
+## 5. Food and food ingredients[^c-22cfaa3a5276ea405c9dc8f36ae90611]
 
 (1) A person shall not sell to the ultimate consumer for human consumption any food an ingredient of which consists of, or is derived from, bones removed from bone-in beef deboned in the United Kingdom.
 
@@ -102,13 +102,13 @@ These Regulations may be cited as the Beef Bones Regulations (Northern Ireland) 
 
 (4) Until 15th March 1998, this regulation shall not apply to anything other than bone-in beef or bones, prepared for sale before the coming into operation of these Regulations.
 
-## 6. Deboning[^key-02dd57d9cf241c51bf6277ab1030f875]
+## 6. Deboning[^c-02dd57d9cf241c51bf6277ab1030f875]
 
 (1) A person shall not, in the course of a business, debone any bone-in beef for preparation, preparation for sale or sale for human consumption except at food premises.
 
 (2) The occupier of any food premises shall ensure that any deboning of bone-in beef there is carried out in a hygienic manner, in particular so as to avoid the risk of any bones removed in the process contaminating any food or ingredient.
 
-## 7. Storage of bones[^key-1c856d2a4c7cfe8f43c3d894a163c518]
+## 7. Storage of bones[^c-1c856d2a4c7cfe8f43c3d894a163c518]
 
 (1) Bones removed from bone-in beef deboned in the United Kingdom shall be stored at food premises separately from any food or ingredient.
 
@@ -116,11 +116,11 @@ These Regulations may be cited as the Beef Bones Regulations (Northern Ireland) 
 
 (3) The occupier of food premises shall ensure that any bones stored on the premises are stored in a hygienic manner, in particular so as to avoid the risk of the bones contaminating any food or ingredient.
 
-## 8. Disposal of bones[^key-eb3000a8c81558bf91fa70f03a2efbf2]
+## 8. Disposal of bones[^c-eb3000a8c81558bf91fa70f03a2efbf2]
 
 Bones derived from any bone-in beef deboned in the United Kingdom shall be treated as if they were animal by-products referred to in Part II of Schedule 1 to the Animal By-Products Regulations (Northern Ireland) 1993[^f00002] and shall be disposed of in accordance with those Regulations.
 
-## 9. Records[^key-a15a4ba2b78076b1c9423aae0c080820]
+## 9. Records[^c-a15a4ba2b78076b1c9423aae0c080820]
 
 (1) For the purposes of these Regulations the occupier of food premises shall keep records relating to any bones removed from bone-in beef, used or stored on the premises.
 
@@ -129,7 +129,7 @@ Bones derived from any bone-in beef deboned in the United Kingdom shall be treat
 - (a) shall contain sufficient information to ensure that the origin of any bones referred to in that paragraph stored at the food premises, and any commercial operations previously carried out in relation to those bones (whether or not at those premises and whether or not in the United Kingdom), can be clearly traced and identified by an authorised officer of an enforcement authority; and
 - (b) shall be retained for a period of two years from the date on which commercial operations in relation to the bones were last carried out on those premises.
 
-## 10. Offences and penalties[^key-ff334c6181eb11325f8a2be968178e0e]
+## 10. Offences and penalties[^c-ff334c6181eb11325f8a2be968178e0e]
 
 (1) An occupier of food premises shall take all practicable steps to secure compliance by any of his employees with the provisions of these Regulations which apply to those premises.
 
@@ -149,7 +149,7 @@ he shall be guilty of an offence and liable—
 
 (5) For the purposes of this regulation a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient in his opinion to warrant the proceedings came to his knowledge shall be conclusive evidence of that fact.
 
-## 11. Application of provisions of the Food Safety (Northern Ireland) Order 1991[^key-139244ffa09d7da273e6e0bc1fc667a2]
+## 11. Application of provisions of the Food Safety (Northern Ireland) Order 1991[^c-139244ffa09d7da273e6e0bc1fc667a2]
 
 The following provisions of the Order shall apply for the purposes of these Regulations as they apply for the purposes of Articles 7, 13 and 14 of that Order and, accordingly, any reference in them to the Order shall be construed as a reference to the Regulations—
 
@@ -160,7 +160,7 @@ The following provisions of the Order shall apply for the purposes of these Regu
 - Article 20 (defence of due diligence);
 - Article 34 (offence of obstruction, etc. of officers).
 
-## 12. Enforcement[^key-3c57dcd6adb1c6aceda63de6486bfb26]
+## 12. Enforcement[^c-3c57dcd6adb1c6aceda63de6486bfb26]
 
 (1) In premises licensed under the Slaughter Houses Act (Northern Ireland) 1953, these Regulations shall be enforced by the Department and in any other case the Regulations shall be enforced by each district council within its district and each such authority shall for the purposes of these Regulations be an enforcement authority.
 
@@ -194,28 +194,28 @@ These Regulations have been notified in draft to the European Commission as a te
 
 [^f00001]: Footnote: [S.I. 1991 No. 762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996 No. 1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633)
 
-[^key-43667a24dbea173e0609bd2ee22d896a]: Commencement: Reg. 1 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
+[^c-43667a24dbea173e0609bd2ee22d896a]: Commencement: Reg. 1 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
 
-[^key-6e712fcd655460cdb546f074023abccd]: Commencement: Reg. 2 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
+[^c-6e712fcd655460cdb546f074023abccd]: Commencement: Reg. 2 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
 
-[^key-c89dd3f565ecba04a9e70470cd6b4cea]: Commencement: Reg. 3 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
+[^c-c89dd3f565ecba04a9e70470cd6b4cea]: Commencement: Reg. 3 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
 
-[^key-24acd7e4cf3c44998fa34c31e6a69dd4]: Commencement: Reg. 4 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
+[^c-24acd7e4cf3c44998fa34c31e6a69dd4]: Commencement: Reg. 4 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
 
-[^key-22cfaa3a5276ea405c9dc8f36ae90611]: Commencement: Reg. 5 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
+[^c-22cfaa3a5276ea405c9dc8f36ae90611]: Commencement: Reg. 5 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
 
-[^key-02dd57d9cf241c51bf6277ab1030f875]: Commencement: Reg. 6 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
+[^c-02dd57d9cf241c51bf6277ab1030f875]: Commencement: Reg. 6 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
 
-[^key-1c856d2a4c7cfe8f43c3d894a163c518]: Commencement: Reg. 7 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
+[^c-1c856d2a4c7cfe8f43c3d894a163c518]: Commencement: Reg. 7 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
 
-[^key-eb3000a8c81558bf91fa70f03a2efbf2]: Commencement: Reg. 8 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
+[^c-eb3000a8c81558bf91fa70f03a2efbf2]: Commencement: Reg. 8 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1993 No. 192](https://www.legislation.gov.uk/nisr/1993/192)
 
-[^key-a15a4ba2b78076b1c9423aae0c080820]: Commencement: Reg. 9 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
+[^c-a15a4ba2b78076b1c9423aae0c080820]: Commencement: Reg. 9 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
 
-[^key-ff334c6181eb11325f8a2be968178e0e]: Commencement: Reg. 10 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
+[^c-ff334c6181eb11325f8a2be968178e0e]: Commencement: Reg. 10 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
 
-[^key-139244ffa09d7da273e6e0bc1fc667a2]: Commencement: Reg. 11 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
+[^c-139244ffa09d7da273e6e0bc1fc667a2]: Commencement: Reg. 11 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
 
-[^key-3c57dcd6adb1c6aceda63de6486bfb26]: Commencement: Reg. 12 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)
+[^c-3c57dcd6adb1c6aceda63de6486bfb26]: Commencement: Reg. 12 in operation at 16.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/540/regulation/1)

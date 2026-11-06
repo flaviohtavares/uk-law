@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Temporary stop notices[^key-65433bfbeb34b285d9555d79f8ca76c8][^key-ac584aa8221aeb4d623e5724a12026f1]
+## 26. Temporary stop notices[^c-65433bfbeb34b285d9555d79f8ca76c8][^c-ac584aa8221aeb4d623e5724a12026f1]
 
 *Extent: S*
 
@@ -132,6 +132,6 @@ summary: ''
 
 ## Annotations
 
-[^key-65433bfbeb34b285d9555d79f8ca76c8]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2006/17/section/26) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(b)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/b)
+[^c-65433bfbeb34b285d9555d79f8ca76c8]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2006/17/section/26) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(b)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/b)
 
-[^key-ac584aa8221aeb4d623e5724a12026f1]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2006/17/section/26) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-ac584aa8221aeb4d623e5724a12026f1]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2006/17/section/26) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.114. Debt payable at future time[^key-0faee0d9afb02e48d30717690164c13c]
+## 6.114. Debt payable at future time[^c-0faee0d9afb02e48d30717690164c13c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A creditor may prove for a debt of which payment was not yet due at the date of 
 
 ## Annotations
 
-[^key-0faee0d9afb02e48d30717690164c13c]: Commencement: [Rule 6.114](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.114) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0faee0d9afb02e48d30717690164c13c]: Commencement: [Rule 6.114](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.114) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

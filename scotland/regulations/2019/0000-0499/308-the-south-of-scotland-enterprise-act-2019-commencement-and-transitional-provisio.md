@@ -46,13 +46,13 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 23(1) and 24(2) and (3) of the South of Scotland Enterprise Act 2019 [^c23890441].
 
-## 1. Citation, commencement and interpretation[^key-feef4d99254f61b8ea092c25c25d5932]
+## 1. Citation, commencement and interpretation[^c-feef4d99254f61b8ea092c25c25d5932]
 
 (1) These Regulations may be cited as the South of Scotland Enterprise Act 2019 (Commencement and Transitional Provision) Regulations 2019 and come into force on 16 October 2019.
 
 (2) In these Regulations “**the Act**” means the South of Scotland Enterprise Act 2019.
 
-## 2. Appointed day[^key-fc1c379d923f614d104b0f9398717716]
+## 2. Appointed day[^c-fc1c379d923f614d104b0f9398717716]
 
 The day appointed for the coming into force of each provision of the Act shown in column 1 of the following table (the subject matter of which is specified in column 2 of the table) is 16 October 2019, but, where a purpose is specified in column 3 of the table in relation to a provision in column 1, that provision comes into force only for that purpose—
 
@@ -77,13 +77,13 @@ The day appointed for the coming into force of each provision of the Act shown i
 | Schedule 1 | Members and staff |  |
 | Schedule 2 | Application of public bodies legislation |  |
 
-## 3.[^key-e472b0d764170fcb08d0fb5e21a2e2a4]
+## 3.[^c-e472b0d764170fcb08d0fb5e21a2e2a4]
 
 (1) The day appointed for the coming into force of section 20(1) of the Act is 1 June 2020.
 
 (2) The day appointed for the coming into force of all provisions of the Act other than section 20(1) which are not already commenced for all purposes by virtue of regulation 2 or in accordance with section 24(1) of the Act, is 1 April 2020.
 
-## 4. Transitional provision[^key-91bfe3ab96c4f2c96234685fe50c1852]
+## 4. Transitional provision[^c-91bfe3ab96c4f2c96234685fe50c1852]
 
 Section 8(1)(b) of the Act will not apply until there is in existence an action plan made under section 6(1)(a) of that Act.
 
@@ -127,10 +127,10 @@ The Bill for the Act received Royal Assent on 12 July 2019. Sections 22 to 25 ca
 
 [^c23890441]: Marginal citation: [2019 asp 9](https://www.legislation.gov.uk/asp/2019/9).
 
-[^key-feef4d99254f61b8ea092c25c25d5932]: Commencement: Reg. 1 in force at 16.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/308/regulation/1/1)
+[^c-feef4d99254f61b8ea092c25c25d5932]: Commencement: Reg. 1 in force at 16.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/308/regulation/1/1)
 
-[^key-fc1c379d923f614d104b0f9398717716]: Commencement: Reg. 2 in force at 16.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/308/regulation/1/1)
+[^c-fc1c379d923f614d104b0f9398717716]: Commencement: Reg. 2 in force at 16.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/308/regulation/1/1)
 
-[^key-e472b0d764170fcb08d0fb5e21a2e2a4]: Textual amendment: Reg. 3 substituted (31.3.2020) by [The South of Scotland Enterprise Act 2019 (Commencement and Transitional Provision) Amendment Regulations 2020 (S.S.I. 2020/85)](https://www.legislation.gov.uk/ssi/2020/85), [regs. 1](https://www.legislation.gov.uk/ssi/2020/85/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/85/regulation/2)
+[^c-e472b0d764170fcb08d0fb5e21a2e2a4]: Textual amendment: Reg. 3 substituted (31.3.2020) by [The South of Scotland Enterprise Act 2019 (Commencement and Transitional Provision) Amendment Regulations 2020 (S.S.I. 2020/85)](https://www.legislation.gov.uk/ssi/2020/85), [regs. 1](https://www.legislation.gov.uk/ssi/2020/85/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/85/regulation/2)
 
-[^key-91bfe3ab96c4f2c96234685fe50c1852]: Commencement: Reg. 4 in force at 16.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/308/regulation/1/1)
+[^c-91bfe3ab96c4f2c96234685fe50c1852]: Commencement: Reg. 4 in force at 16.10.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/308/regulation/1/1)

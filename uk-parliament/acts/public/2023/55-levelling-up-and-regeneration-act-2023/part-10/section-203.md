@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Rental auctions[^key-04efd561e54321d95847206c067df4f0][^key-2f458122fd2601c93a64611cc4da8477][^key-5624f9573814d14c0f6442b1475f98f2]
+## 203. Rental auctions[^c-04efd561e54321d95847206c067df4f0][^c-2f458122fd2601c93a64611cc4da8477][^c-5624f9573814d14c0f6442b1475f98f2]
 
 *Extent: E+W*
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-04efd561e54321d95847206c067df4f0]: Commencement: S. 203 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-04efd561e54321d95847206c067df4f0]: Commencement: S. 203 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-2f458122fd2601c93a64611cc4da8477]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2023/55/section/203) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/m)
+[^c-2f458122fd2601c93a64611cc4da8477]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2023/55/section/203) in force at 31.3.2024 for specified purposes by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/m)
 
-[^key-5624f9573814d14c0f6442b1475f98f2]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2023/55/section/203) in force at 2.12.2024 in so far as not already in force by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/b)
+[^c-5624f9573814d14c0f6442b1475f98f2]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2023/55/section/203) in force at 2.12.2024 in so far as not already in force by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/b)

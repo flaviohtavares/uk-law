@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Meaning of “psychoactive substance” etc[^key-1a3b0b93c1e0fd8d2c9915872ba7927e]
+## 2. Meaning of “psychoactive substance” etc[^c-1a3b0b93c1e0fd8d2c9915872ba7927e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a3b0b93c1e0fd8d2c9915872ba7927e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/2/section/2) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-1a3b0b93c1e0fd8d2c9915872ba7927e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2016/2/section/2) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13B. Certain dispute procedures under withdrawal agreement[^key-cba87f69555cbf8fe81d49fc093c6951]
+## 13B. Certain dispute procedures under withdrawal agreement[^c-cba87f69555cbf8fe81d49fc093c6951]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cba87f69555cbf8fe81d49fc093c6951]: Textual amendment: S. 13B inserted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 30](https://www.legislation.gov.uk/ukpga/2020/1/section/30), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(f)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/f)
+[^c-cba87f69555cbf8fe81d49fc093c6951]: Textual amendment: S. 13B inserted (31.12.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 30](https://www.legislation.gov.uk/ukpga/2020/1/section/30), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(f)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/f)

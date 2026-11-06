@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. Appeals to the Supreme Court[^key-739d64cd5edcd448b57ffd45f50535f6]
+## 117. Appeals to the Supreme Court[^c-739d64cd5edcd448b57ffd45f50535f6]
 
 *Extent: S*
 
@@ -78,4 +78,4 @@ In the Court of Session Act 1988, for section 40 (appeals to the Supreme Court: 
 
 ## Annotations
 
-[^key-739d64cd5edcd448b57ffd45f50535f6]: Commencement: [S. 117](https://www.legislation.gov.uk/asp/2014/18/section/117) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 5(2)](https://www.legislation.gov.uk/ssi/2015/247/article/5/2)[(3)](https://www.legislation.gov.uk/ssi/2015/247/article/5/3))
+[^c-739d64cd5edcd448b57ffd45f50535f6]: Commencement: [S. 117](https://www.legislation.gov.uk/asp/2014/18/section/117) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 5(2)](https://www.legislation.gov.uk/ssi/2015/247/article/5/2)[(3)](https://www.legislation.gov.uk/ssi/2015/247/article/5/3))

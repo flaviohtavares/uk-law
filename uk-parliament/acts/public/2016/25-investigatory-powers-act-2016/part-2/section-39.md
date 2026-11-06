@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Cancellation of warrants[^key-cd69f1f40852154262ac18bf57281884]
+## 39. Cancellation of warrants[^c-cd69f1f40852154262ac18bf57281884]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ the person must cancel the warrant.
 
 ## Annotations
 
-[^key-cd69f1f40852154262ac18bf57281884]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2016/25/section/39) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(k)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/k)
+[^c-cd69f1f40852154262ac18bf57281884]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2016/25/section/39) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(k)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/k)

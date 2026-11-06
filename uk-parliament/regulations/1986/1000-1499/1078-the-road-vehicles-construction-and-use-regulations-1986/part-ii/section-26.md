@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Mixing of tyres[^key-4b121d3d8be0a2eb8fcabfa5e25f62dc]
+## 26. Mixing of tyres[^c-4b121d3d8be0a2eb8fcabfa5e25f62dc]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) Save as provided in paragraph (5) pneumatic tyres fitted to—
 
-- (a) the steerable axles of a wheeled vehicle; or[^key-21ecb5d79c63cbd05a68011827e5d47d]
+- (a) the steerable axles of a wheeled vehicle; or[^c-21ecb5d79c63cbd05a68011827e5d47d]
 - (b) the driven axles of a wheeled vehicle, not being steerable axles,
 
 shall all be of the same type of structure.
@@ -54,6 +54,6 @@ shall all be of the same type of structure.
 
 ## Annotations
 
-[^key-4b121d3d8be0a2eb8fcabfa5e25f62dc]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1986/1078/regulation/26) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-4b121d3d8be0a2eb8fcabfa5e25f62dc]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1986/1078/regulation/26) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-21ecb5d79c63cbd05a68011827e5d47d]: Textual amendment: Word in [reg. 26(4)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/26/4) substituted (2.11.1990) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1990 (S.I. 1990/1981)](https://www.legislation.gov.uk/uksi/1990/1981), [regs. 1](https://www.legislation.gov.uk/uksi/1990/1981/regulation/1), [8](https://www.legislation.gov.uk/uksi/1990/1981/regulation/8)
+[^c-21ecb5d79c63cbd05a68011827e5d47d]: Textual amendment: Word in [reg. 26(4)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/26/4) substituted (2.11.1990) by [The Road Vehicles (Construction and Use) (Amendment) (No. 4) Regulations 1990 (S.I. 1990/1981)](https://www.legislation.gov.uk/uksi/1990/1981), [regs. 1](https://www.legislation.gov.uk/uksi/1990/1981/regulation/1), [8](https://www.legislation.gov.uk/uksi/1990/1981/regulation/8)

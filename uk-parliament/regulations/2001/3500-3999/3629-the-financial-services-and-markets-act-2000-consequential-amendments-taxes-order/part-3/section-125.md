@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Returns of information by plan manager[^key-87d78161272f986603b8f71dfd1f478c]
+## 125. Returns of information by plan manager[^c-87d78161272f986603b8f71dfd1f478c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ In regulation 24A(3) (returns of information by plan manager)[^f00119]—
 
 ## Annotations
 
-[^key-87d78161272f986603b8f71dfd1f478c]: Commencement: Art. 125 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-87d78161272f986603b8f71dfd1f478c]: Commencement: Art. 125 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00119]: Footnote: Regulation 24A was inserted by regulation 13 of S.I. [1993/756](https://www.legislation.gov.uk/uksi/1993/756) and relevantly amended by regulation 12 of S.I. [2001/923](https://www.legislation.gov.uk/uksi/2001/923).

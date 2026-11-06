@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Replying to an employer’s contract claim[^key-e7d5d18627663deee65e8952bfbd0fae]
+## 26. Replying to an employer’s contract claim[^c-e7d5d18627663deee65e8952bfbd0fae]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) references to a claimant must be read as a reference to a respondent, and
 - (c) reference to rule 17(1) must be read as a reference to rule 26(1).
 
-(2A)[^key-cf45738faf2113fffad5669c3b726b12] But the Tribunal may order a departure from rule 22 if—
+(2A)[^c-cf45738faf2113fffad5669c3b726b12] But the Tribunal may order a departure from rule 22 if—
 
 - (a) the Tribunal does not receive a reply by the end of the period specified in paragraph (1), and
 - (b) it considers it in the interests of justice to do so.
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e7d5d18627663deee65e8952bfbd0fae]: Commencement: Rule 26 in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-e7d5d18627663deee65e8952bfbd0fae]: Commencement: Rule 26 in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-cf45738faf2113fffad5669c3b726b12]: Textual amendment: Rule 26(2A) inserted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [8(7)](https://www.legislation.gov.uk/uksi/2026/115/rule/8/7)
+[^c-cf45738faf2113fffad5669c3b726b12]: Textual amendment: Rule 26(2A) inserted (2.3.2026) by [The Tribunal Procedure and Employment Tribunal Procedure (Amendment) Rules 2026 (S.I. 2026/115)](https://www.legislation.gov.uk/uksi/2026/115), [rules 1(2)](https://www.legislation.gov.uk/uksi/2026/115/rule/1/2), [8(7)](https://www.legislation.gov.uk/uksi/2026/115/rule/8/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — AMENDMENTS[^key-36ce52ac1085340c298f3353a5d46034]
+## SCHEDULE 4 — AMENDMENTS[^c-36ce52ac1085340c298f3353a5d46034]
 
 *Extent: E+W*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Regulation 51
 
-### AMENDMENTS TO THE TSE (ENGLAND) REGULATIONS 2002[^key-36ce52ac1085340c298f3353a5d46034]
+### AMENDMENTS TO THE TSE (ENGLAND) REGULATIONS 2002[^c-36ce52ac1085340c298f3353a5d46034]
 
-**1.**[^key-36ce52ac1085340c298f3353a5d46034] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-36ce52ac1085340c298f3353a5d46034] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-36ce52ac1085340c298f3353a5d46034] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-36ce52ac1085340c298f3353a5d46034] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-36ce52ac1085340c298f3353a5d46034] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-36ce52ac1085340c298f3353a5d46034] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-36ce52ac1085340c298f3353a5d46034] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-36ce52ac1085340c298f3353a5d46034] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-36ce52ac1085340c298f3353a5d46034] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-36ce52ac1085340c298f3353a5d46034] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-36ce52ac1085340c298f3353a5d46034] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-36ce52ac1085340c298f3353a5d46034] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-36ce52ac1085340c298f3353a5d46034]: Textual amendment: Regulations revoked (28.9.2005) by [The Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(2)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/2)
+[^c-36ce52ac1085340c298f3353a5d46034]: Textual amendment: Regulations revoked (28.9.2005) by [The Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(2)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Local Government Boundary Commission for Wales.[^key-9c619abc572605149cc8d9d785b0982f]
+## 53. Local Government Boundary Commission for Wales.[^c-9c619abc572605149cc8d9d785b0982f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c619abc572605149cc8d9d785b0982f]: Textual amendment: S. 53 repealed (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 2](https://www.legislation.gov.uk/anaw/2013/4/schedule/2)
+[^c-9c619abc572605149cc8d9d785b0982f]: Textual amendment: S. 53 repealed (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 2](https://www.legislation.gov.uk/anaw/2013/4/schedule/2)

@@ -26,10 +26,10 @@ summary: ''
 
 (3) In section 206(4) (special lump sum death benefits charge: rate of charge) for “55%” substitute “ 45% ”.
 
-(4)[^key-81dc03904a1d94597b82f4dd85c30762] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-81dc03904a1d94597b82f4dd85c30762] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The amendments made by this section apply to lump sums paid on or after 6 April 2015.
 
 ## Annotations
 
-[^key-81dc03904a1d94597b82f4dd85c30762]: Textual amendment: [S. 2(4)](https://www.legislation.gov.uk/ukpga/2014/30/section/2/4) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/b)
+[^c-81dc03904a1d94597b82f4dd85c30762]: Textual amendment: [S. 2(4)](https://www.legislation.gov.uk/ukpga/2014/30/section/2/4) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/b)

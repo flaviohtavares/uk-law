@@ -102,11 +102,11 @@ Section 60.
 
 #### Calculation of profits of intermediary: deduction for deemed Schedule E payment
 
-**17.**[^key-1702104a3b47fbe11fb1f7d99a9fb919] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-1702104a3b47fbe11fb1f7d99a9fb919] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Calculation of profits of intermediary: special rules for partnerships
 
-**18.**[^key-d8cb05ccf0c4c81f2629c228a04aafb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-d8cb05ccf0c4c81f2629c228a04aafb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Meaning of “associate"
 
@@ -170,9 +170,9 @@ Section 60.
 
 [^c22564051]: Textual amendment: Sch. 12 paras. 1-16, 19-24 repealed (with effect in accordance with [s. 723(1)(a)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/723/1/a/b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
-[^key-1702104a3b47fbe11fb1f7d99a9fb919]: Textual amendment: [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2000/17/schedule/12/paragraph/17) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 467](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/467), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-1702104a3b47fbe11fb1f7d99a9fb919]: Textual amendment: [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2000/17/schedule/12/paragraph/17) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 467](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/467), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-d8cb05ccf0c4c81f2629c228a04aafb1]: Textual amendment: [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2000/17/schedule/12/paragraph/18) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 467](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/467), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-d8cb05ccf0c4c81f2629c228a04aafb1]: Textual amendment: [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2000/17/schedule/12/paragraph/18) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 467](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/467), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
 [^c22564061]: Textual amendment: Sch. 12 paras. 1-16, 19-24 repealed (with effect in accordance with [s. 723(1)(a)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/723/1/a/b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 

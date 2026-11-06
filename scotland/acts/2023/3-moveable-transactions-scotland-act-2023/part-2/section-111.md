@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Rules[^key-52b715d36bc260b45d2ab1cf0a28cb25][^key-849e1efb49204fdc3000f1ffd5ae945a][^key-7b42558dc607329ea231e134b27c67bb]
+## 111. Rules[^c-52b715d36bc260b45d2ab1cf0a28cb25][^c-849e1efb49204fdc3000f1ffd5ae945a][^c-7b42558dc607329ea231e134b27c67bb]
 
 *Extent: S*
 
-[^key-7b42558dc607329ea231e134b27c67bb]
+[^c-7b42558dc607329ea231e134b27c67bb]
 
 (1) The Scottish Ministers may by regulations make rules (“RSP Rules”)—
 
@@ -49,14 +49,14 @@ summary: ''
   - (i) registration,
   - (ii) searches.
 
-(3)[^key-2fba927658e9236b6360cfc19eea43fd] Before making RSP Rules under subsection (1), the Scottish Ministers must consult the Keeper.
+(3)[^c-2fba927658e9236b6360cfc19eea43fd] Before making RSP Rules under subsection (1), the Scottish Ministers must consult the Keeper.
 
 ## Annotations
 
-[^key-52b715d36bc260b45d2ab1cf0a28cb25]: Commencement: S. 111 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-52b715d36bc260b45d2ab1cf0a28cb25]: Commencement: S. 111 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-849e1efb49204fdc3000f1ffd5ae945a]: Commencement: S. 111 in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-849e1efb49204fdc3000f1ffd5ae945a]: Commencement: S. 111 in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
-[^key-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))
+[^c-7b42558dc607329ea231e134b27c67bb]: Modification: Pt. 2 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [5](https://www.legislation.gov.uk/uksi/2025/275/article/5) (with [arts. 6-20](https://www.legislation.gov.uk/uksi/2025/275/article/6))
 
-[^key-2fba927658e9236b6360cfc19eea43fd]: Textual amendment: S. 111(3) substituted (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 Amendment Regulations 2025 (S.S.I. 2025/104)](https://www.legislation.gov.uk/ssi/2025/104), [regs. 1](https://www.legislation.gov.uk/ssi/2025/104/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2025/104/regulation/2/7)
+[^c-2fba927658e9236b6360cfc19eea43fd]: Textual amendment: S. 111(3) substituted (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 Amendment Regulations 2025 (S.S.I. 2025/104)](https://www.legislation.gov.uk/ssi/2025/104), [regs. 1](https://www.legislation.gov.uk/ssi/2025/104/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2025/104/regulation/2/7)

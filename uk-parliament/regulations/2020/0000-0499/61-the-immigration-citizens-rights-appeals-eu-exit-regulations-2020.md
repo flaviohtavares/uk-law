@@ -52,27 +52,27 @@ The instrument containing these Regulations is the first to be made under sectio
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-4d9440ee463e2926c863d49c1ffd7d79]
+### 1. Citation and commencement[^c-4d9440ee463e2926c863d49c1ffd7d79]
 
 (1) These Regulations may be cited as the Immigration (Citizens' Rights Appeals) (EU Exit) Regulations 2020.
 
 (2) These Regulations come into force on exit day and paragraph 1(1) of Schedule 5 to the European Union (Withdrawal Agreement) Act 2020 does not apply.
 
-### 2. Interpretation[^key-1d0d3331c0a7f785f8fa4f009fbdd63e]
+### 2. Interpretation[^c-1d0d3331c0a7f785f8fa4f009fbdd63e]
 
 (1) In these Regulations—
 
 - “**the 1971 Act**” means the Immigration Act 1971 [^c24096321];
 - “**the 1997 Act**” means the Special Immigration Appeals Commission Act 1997 [^c24096331];
 - “**the 2002 Act**” means the Nationality, Immigration and Asylum Act 2002 [^c24096341];
-- “[^key-6df1a2eda50f910123923fd4274cbdbe]**the 1972 Order**” means the Immigration (Control of Entry through Republic of Ireland) Order 1972;
-- “[^key-9377b4fc72153240f8d0c4a66338ccfe]**the 2020 Regulations**” means the Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020;
+- “[^c-6df1a2eda50f910123923fd4274cbdbe]**the 1972 Order**” means the Immigration (Control of Entry through Republic of Ireland) Order 1972;
+- “[^c-9377b4fc72153240f8d0c4a66338ccfe]**the 2020 Regulations**” means the Citizens' Rights (Frontier Workers) (EU Exit) Regulations 2020;
 - “**appealable decision**” means a decision which may be appealed against under these Regulations;
 - “**appellant**” means a person who brings an appeal under these Regulations;
-- “[^key-6f476f02cbdaae64624f6a3b1268bc3f]**Appendix S2**” means Appendix S2 Healthcare Visitor to the immigration rules;
-- “[^key-10956af3c4dfa1c1b4ed0a14ca9bb6be]**frontier worker**” has the meaning given in regulation 3 of the 2020 Regulations;
+- “[^c-6f476f02cbdaae64624f6a3b1268bc3f]**Appendix S2**” means Appendix S2 Healthcare Visitor to the immigration rules;
+- “[^c-10956af3c4dfa1c1b4ed0a14ca9bb6be]**frontier worker**” has the meaning given in regulation 3 of the 2020 Regulations;
 - “**frontier worker permit**” has the meaning given in regulation 2 of the 2020 Regulations;
-- “[^key-7246f50d1ff0b64ff3b92e5bc61ee8b0]**healthcare entry clearance**” means entry clearance granted by virtue of Appendix S2 for the purpose of acquiring leave to enter or remain in the United Kingdom by virtue of that Appendix ;
+- “[^c-7246f50d1ff0b64ff3b92e5bc61ee8b0]**healthcare entry clearance**” means entry clearance granted by virtue of Appendix S2 for the purpose of acquiring leave to enter or remain in the United Kingdom by virtue of that Appendix ;
 - “**healthcare leave**”, in relation to a person (“P”), means leave to enter or remain in the United Kingdom granted to P by virtue of Appendix S2 ;
 - “**person with a healthcare right of entry**” means a person who has the right to enter the United Kingdom by virtue of—
   - Article 32(1)(b) of the withdrawal agreement,
@@ -83,11 +83,11 @@ The instrument containing these Regulations is the first to be made under sectio
   - (b) otherwise, the Tribunal;
 - “**scheme entry clearance**” means entry clearance granted by virtue of relevant entry clearance immigration rules [^c24096351];
 - “**the Tribunal**” means the First-tier Tribunal.
-- “[^key-3fadcf9516b10f927c58812e72e5a2fb]**valid identity document**” means—
+- “[^c-3fadcf9516b10f927c58812e72e5a2fb]**valid identity document**” means—
   - a valid national identity card issued by an EEA state, or
   - a valid passport issued by an EEA state.
 
-(1A)[^key-f973076a843fa309d1ddfb7fc188f515] For the purposes of the definition of “valid identity document”, “**EEA state**” means—
+(1A)[^c-f973076a843fa309d1ddfb7fc188f515] For the purposes of the definition of “valid identity document”, “**EEA state**” means—
 
 - (a) a member State, or
 - (b) Iceland, Liechtenstein, Norway or Switzerland.
@@ -98,9 +98,9 @@ The instrument containing these Regulations is the first to be made under sectio
 
 ### CHAPTER 1 — Appeals: general
 
-#### Decisions other than those relating to frontier workers[^key-1705f974b7d24d96fcd69313da7b8d89]
+#### Decisions other than those relating to frontier workers[^c-1705f974b7d24d96fcd69313da7b8d89]
 
-##### 3. Right of appeal against decisions relating to leave to enter or remain in the United Kingdom made by virtue of residence scheme immigration rules[^key-d5c09cc464c23bbfbbfcf6a56f5eb848]
+##### 3. Right of appeal against decisions relating to leave to enter or remain in the United Kingdom made by virtue of residence scheme immigration rules[^c-d5c09cc464c23bbfbbfcf6a56f5eb848]
 
 (1) A person (“P”) may appeal against a decision made on or after exit day—
 
@@ -109,16 +109,16 @@ The instrument containing these Regulations is the first to be made under sectio
 - (c) not to grant any leave to enter or remain in the United Kingdom in response to P's relevant application, or
 - (d) not to grant indefinite leave to enter or remain in the United Kingdom in response to P's relevant application (where limited leave to enter or remain is granted, or P had limited leave to enter or remain when P made the relevant application).
 
-(2)[^key-1dce983788063d29aa0ad71fb2165de9] In this regulation, “**relevant application**” means an application for leave to enter or remain in the United Kingdom made under residence scheme immigration rules—
+(2)[^c-1dce983788063d29aa0ad71fb2165de9] In this regulation, “**relevant application**” means an application for leave to enter or remain in the United Kingdom made under residence scheme immigration rules—
 
 - (a) on or after exit day, or
 - (b) before exit day if a decision is made on that application on or after 8th May 2023.
 
-##### 4. Right of appeal against decisions under section 76 of the 2002 Act to revoke indefinite leave to enter or remain by virtue of residence scheme immigration rules[^key-f4e5ddc41970d93d2fd6c334b0d598cd]
+##### 4. Right of appeal against decisions under section 76 of the 2002 Act to revoke indefinite leave to enter or remain by virtue of residence scheme immigration rules[^c-f4e5ddc41970d93d2fd6c334b0d598cd]
 
 A person may appeal against a decision made on or after exit day under section 76(1) or (2) of the 2002 Act [^c24096371] to revoke their indefinite leave to enter or remain in the United Kingdom which was granted by virtue of residence scheme immigration rules.
 
-##### 5. Right of appeal against decisions made in connection with scheme entry clearance[^key-09f3465ddbe5b95d0743707677b50715]
+##### 5. Right of appeal against decisions made in connection with scheme entry clearance[^c-09f3465ddbe5b95d0743707677b50715]
 
 A person may appeal against a decision made on or after exit day—
 
@@ -127,25 +127,25 @@ A person may appeal against a decision made on or after exit day—
 - (c) where they have scheme entry clearance, to refuse them leave to enter the United Kingdom under article 7(1) of the Immigration (Leave to Enter and Remain) Order 2000 [^c24096381], or
 - (d) to cancel or vary leave to enter the United Kingdom which they have by virtue of having arrived in the United Kingdom with scheme entry clearance.
 
-##### 6. Right of appeal against decisions to make a deportation order in respect of a person other than a person claiming to be a frontier worker or a person with a healthcare right of entry[^key-0b634efdd504eda7419d0f68f689002f][^key-5b25723d26acf2bbdf52c7c026bf6bbe][^key-170ceba50fa2d8f8f7b2d5743c662e74]
+##### 6. Right of appeal against decisions to make a deportation order in respect of a person other than a person claiming to be a frontier worker or a person with a healthcare right of entry[^c-0b634efdd504eda7419d0f68f689002f][^c-5b25723d26acf2bbdf52c7c026bf6bbe][^c-170ceba50fa2d8f8f7b2d5743c662e74]
 
 (1) A person to whom paragraph (2) applies may appeal against a decision, made on or after exit day, to make a deportation order under section 5(1) of the 1971 Act in respect of them.
 
-(1A)[^key-4de939fd4ab0e85f8564d4ab9a664904] For the purposes of paragraph (1) only, a decision to make a deportation order means a decision to pursue deportation that is made after a person has been asked to make representations to the Secretary of State as to why they should not be deported.
+(1A)[^c-4de939fd4ab0e85f8564d4ab9a664904] For the purposes of paragraph (1) only, a decision to make a deportation order means a decision to pursue deportation that is made after a person has been asked to make representations to the Secretary of State as to why they should not be deported.
 
 (2) This paragraph applies to a person who—
 
 - (a) has leave to enter or remain in the United Kingdom granted by virtue of residence scheme immigration rules, or
 - (b) is in the United Kingdom (whether or not the person has entered within the meaning of section 11(1) of the 1971 Act [^c24096391]) having arrived with scheme entry clearance.
 
-(3)[^key-3f7bd9d2c2f688f8efba1e918636089d] But paragraph (2) does not apply to a person if the decision to remove that person was taken—
+(3)[^c-3f7bd9d2c2f688f8efba1e918636089d] But paragraph (2) does not apply to a person if the decision to remove that person was taken—
 
 - (a) under regulation 23(6)(b) of the Immigration (European Economic Area) Regulations 2016 (“**the 2016 Regulations**”), where the decision to remove was taken before the revocation of the 2016 Regulations, or
 - (b) otherwise, under regulation 23(6)(b) of the 2016 Regulations as it continues to have effect by virtue of the Citizens' Rights (Restrictions of Rights of Entry and Residence) (EU Exit) Regulations 2020 or the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020.
 
 (4) The references in paragraph (2) to a person who has leave to enter or remain include references to a person who would have had leave to enter or remain but for the making of a deportation order under section 5(1) of the 1971 Act.
 
-#### Decisions relating to frontier workers[^key-e3cc596ae0adcc3525a733a7f5893c00]
+#### Decisions relating to frontier workers[^c-e3cc596ae0adcc3525a733a7f5893c00]
 
 ##### 6A. Right of appeal against decisions relating to issue, renewal or revocation of frontier worker permits
 
@@ -201,7 +201,7 @@ A person may appeal against a decision—
 
 Where a provision of this Part requires a person to hold or produce a valid identity document, the Secretary of State may accept alternative evidence of identity and nationality where the person is unable to obtain or produce the required document due to circumstances beyond the person's control.
 
-#### Decisions relating to persons with a healthcare right of entry[^key-9d3fdd163df8102b1c29020834661d5d]
+#### Decisions relating to persons with a healthcare right of entry[^c-9d3fdd163df8102b1c29020834661d5d]
 
 ##### 6G. Right of appeal against decisions relating to leave to enter or remain in the United Kingdom granted to or obtained by a person with a healthcare right of entry
 
@@ -247,7 +247,7 @@ A person (“P”) may appeal against a decision, made on or after IP completion
 
 (4) The reference in paragraph (2) to a person who has healthcare leave includes reference to a person who would have such leave but for the making of a deportation order under section 5(1) of the 1971 Act.
 
-##### 7. Appeal to the Tribunal or the Special Immigration Appeals Commission[^key-95f401145e3af8f887bbe1173ee68b96]
+##### 7. Appeal to the Tribunal or the Special Immigration Appeals Commission[^c-95f401145e3af8f887bbe1173ee68b96]
 
 (1) An appeal under these Regulations lies to the Tribunal.
 
@@ -258,15 +258,15 @@ A person (“P”) may appeal against a decision, made on or after IP completion
 
 (3) Schedule 1 also makes provision for the application of the 1997 Act to appeals to the Special Immigration Appeals Commission (see Part 2 of that Schedule).
 
-##### 8. Grounds of appeal[^key-e68f4ce78520a27d2b43d8b4e2d8e5b9]
+##### 8. Grounds of appeal[^c-e68f4ce78520a27d2b43d8b4e2d8e5b9]
 
 (1) An appeal under these Regulations must be brought on one or both of the following two grounds.
 
 (2) The first ground of appeal is that the decision breaches any right which the appellant has by virtue of—
 
-- (a) Chapter 1, or Article 24(2) , 24(3), 25(2) or 25(3)[^key-6d599ac9a50609802b550dbce597675b] of Chapter 2, of Title II , or Article 32(1)(b) of Title III,[^key-cfca50197d79fc54468084446d8017d1] of Part 2 of the withdrawal agreement,
-- (b) Chapter 1, or Article 23(2) , 23(3), 24(2) or 24(3)[^key-8145eb8cdaeb203e98723a59654e68e6] of Chapter 2, of Title II , or Article 31(1)(b) of Title III,[^key-8162a0ce45ee2cb798d714b792b0ff4b] of Part 2 of the EEA EFTA separation agreement, or
-- (c) Part 2 , or Article 26a(1)(b),[^key-6fe0f4c42fb5ec2c51c770ac005ecd2a] of the Swiss citizens' rights agreement [^c24096411].
+- (a) Chapter 1, or Article 24(2) , 24(3), 25(2) or 25(3)[^c-6d599ac9a50609802b550dbce597675b] of Chapter 2, of Title II , or Article 32(1)(b) of Title III,[^c-cfca50197d79fc54468084446d8017d1] of Part 2 of the withdrawal agreement,
+- (b) Chapter 1, or Article 23(2) , 23(3), 24(2) or 24(3)[^c-8145eb8cdaeb203e98723a59654e68e6] of Chapter 2, of Title II , or Article 31(1)(b) of Title III,[^c-8162a0ce45ee2cb798d714b792b0ff4b] of Part 2 of the EEA EFTA separation agreement, or
+- (c) Part 2 , or Article 26a(1)(b),[^c-6fe0f4c42fb5ec2c51c770ac005ecd2a] of the Swiss citizens' rights agreement [^c24096411].
 
 (3) The second ground of appeal is that—
 
@@ -274,16 +274,16 @@ A person (“P”) may appeal against a decision, made on or after IP completion
 - (b) where the decision is mentioned in regulation 3(1)(c) or (d), it is not in accordance with residence scheme immigration rules;
 - (c) where the decision is mentioned in regulation 4, it is not in accordance with section 76(1) or (2) of the 2002 Act (as the case may be);
 - (d) where the decision is mentioned in regulation 6, it is not in accordance with section 3(5) or (6) of the 1971 Act (as the case may be).
-- (e)[^key-1a15af1e06024ad796a6bd031bbc13df] where the decision is mentioned in regulation 6A, 6B, 6C or 6D, it is not in accordance with regulation 9, 11, 12, 14, 15(1)(a) or 15(1)(c) of the 2020 Regulations (as the case may be);
+- (e)[^c-1a15af1e06024ad796a6bd031bbc13df] where the decision is mentioned in regulation 6A, 6B, 6C or 6D, it is not in accordance with regulation 9, 11, 12, 14, 15(1)(a) or 15(1)(c) of the 2020 Regulations (as the case may be);
 - (f) where the decision is mentioned in regulation 6E, it is not in accordance with section 3(5) or 3(6) of the 1971 Act, or regulation 15(1)(b) of the 2020 Regulations (as the case may be).
-- (g)[^key-2685db66220459c928042fc2b5a3b236] where the decision is mentioned in regulation 6G(1)(a) or (1)(b) or 6H, it is not in accordance with the provision of the immigration rules by virtue of which it was made;
+- (g)[^c-2685db66220459c928042fc2b5a3b236] where the decision is mentioned in regulation 6G(1)(a) or (1)(b) or 6H, it is not in accordance with the provision of the immigration rules by virtue of which it was made;
 - (h) where the decision is mentioned in regulation 6G(1)(c) or (1)(d), it is not made in accordance with Appendix S2;
 - (i) where the decision is mentioned in regulation 6I, it is not made in accordance with the provision of, or made under, the 1971 Act (including the immigration rules) by virtue of which it was made;
 - (j) where the decision is mentioned in regulation 6J, it is not in accordance with section 3(5) or (6) of the 1971 Act, or Appendix S2 (as the case may be).
 
 (4) But this is subject to regulation 9.
 
-##### 9. Matters to be considered by the relevant authority[^key-0ad676a9ff4c8075f305c30d4a01cfb7]
+##### 9. Matters to be considered by the relevant authority[^c-0ad676a9ff4c8075f305c30d4a01cfb7]
 
 (1) If an appellant makes a section 120 statement, the relevant authority must consider any matter raised in that statement which constitutes a specified ground of appeal against the decision appealed against. For the purposes of this paragraph, a “specified ground of appeal” is a ground of appeal of a kind listed in regulation 8 or section 84 of the 2002 Act [^c24096421].
 
@@ -302,7 +302,7 @@ A person (“P”) may appeal against a decision, made on or after IP completion
   - (i) the decision appealed against under these Regulations, or
   - (ii) a section 120 statement made by the appellant.
 
-##### 10. Determination of appeal[^key-19ea8c39e718dddc69dde2ad10421183]
+##### 10. Determination of appeal[^c-19ea8c39e718dddc69dde2ad10421183]
 
 On an appeal under these Regulations, the relevant authority must determine—
 
@@ -311,17 +311,17 @@ On an appeal under these Regulations, the relevant authority must determine—
 
 ### CHAPTER 2 — Appeals before the Tribunal: admission on bail and other procedural matters
 
-#### 11. Application of the 2002 Act to appeals to the Tribunal[^key-7da3f46c53a580ae141009c690b40244]
+#### 11. Application of the 2002 Act to appeals to the Tribunal[^c-7da3f46c53a580ae141009c690b40244]
 
 Schedule 2 makes provision for the application of the 2002 Act to appeals to the Tribunal.
 
-#### 12. Admission on bail to the United Kingdom to make submissions in person in connection with an appeal[^key-cd438660a9a44b164c4bb27ba1fc506b]
+#### 12. Admission on bail to the United Kingdom to make submissions in person in connection with an appeal[^c-cd438660a9a44b164c4bb27ba1fc506b]
 
 Schedule 3 contains provisions about admission on bail to the United Kingdom for the purposes of making submissions in person in connection with an appeal.
 
 ### CHAPTER 3 — Procedural matters and certification
 
-#### 13. Pending appeal[^key-2ee218dae315a5cf672b9adb3c250de1]
+#### 13. Pending appeal[^c-2ee218dae315a5cf672b9adb3c250de1]
 
 (1) An appeal under these Regulations is to be treated as pending during the period which—
 
@@ -339,18 +339,18 @@ Schedule 3 contains provisions about admission on bail to the United Kingdom for
   - (iii) an application for permission to appeal under section 7C of the applied 1997 Act [^c24096451], or
 - (e) leave to appeal under section 7, or permission to appeal under section 7C, of the applied 1997 Act has been granted and the appeal is awaiting determination.
 
-(3) An appeal under regulations 3 to 6[^key-03ce94e6253ac06928eb0c4962f807e2] is to be treated as abandoned if the appellant (“A”) is granted leave to enter or remain in the United Kingdom by virtue of residence scheme immigration rules.
+(3) An appeal under regulations 3 to 6[^c-03ce94e6253ac06928eb0c4962f807e2] is to be treated as abandoned if the appellant (“A”) is granted leave to enter or remain in the United Kingdom by virtue of residence scheme immigration rules.
 
 (4) But paragraph (3) does not apply where—
 
 - (a) A is not granted indefinite leave to enter or remain in the United Kingdom, or A's indefinite leave to enter or remain in the United Kingdom is cancelled or revoked, and
 - (b) A gives notice, in accordance with the relevant rules, that A wishes to pursue the appeal insofar as it relates to a decision not to grant A, or to cancel or revoke A's, indefinite leave to enter or remain in the United Kingdom.
 
-(4A)[^key-7b9e04a7f3abd363a635502db8b0e767] An appeal under regulation 6A is to be treated as abandoned if the appellant is issued with a frontier worker permit.
+(4A)[^c-7b9e04a7f3abd363a635502db8b0e767] An appeal under regulation 6A is to be treated as abandoned if the appellant is issued with a frontier worker permit.
 
 (4B) An appeal under regulation 6B is to be treated as abandoned if the appellant is admitted to the United Kingdom under regulation 6 of the 2020 Regulations.
 
-(4C)[^key-8bdab8cfe0f738b1700351c8fcf9bef2] An appeal under regulations 6G to 6J is to be treated as abandoned if the appellant—
+(4C)[^c-8bdab8cfe0f738b1700351c8fcf9bef2] An appeal under regulations 6G to 6J is to be treated as abandoned if the appellant—
 
 - (a) is granted leave to enter or remain in the United Kingdom by virtue of Appendix S2, or
 - (b) obtains leave to enter the United Kingdom by passing through an automated gate in accordance with article 8B of the Immigration (Leave to Enter and Remain) Order 2000 as a person seeking to enter the United Kingdom as an S2 Healthcare Visitor under Appendix S2.
@@ -368,7 +368,7 @@ Schedule 3 contains provisions about admission on bail to the United Kingdom for
   - (a) where the appeal is before the Tribunal, means Tribunal Procedure Rules [^c24096461];
   - (b) where the appeal is before the Special Immigration Appeals Commission, means rules made under section 5 of the 1997 Act, insofar as they apply in relation to an appeal under these Regulations, or rules made under section 5 of the applied 1997 Act [^c24096471].
 
-#### 13A. Continuation of leave during specified appeals[^key-85eb54b4917a8498e595b620e25a8ae0]
+#### 13A. Continuation of leave during specified appeals[^c-85eb54b4917a8498e595b620e25a8ae0]
 
 (1) This regulation applies where—
 
@@ -384,7 +384,7 @@ Schedule 3 contains provisions about admission on bail to the United Kingdom for
 
 (5) Leave extended by this regulation remains subject to Part IV of the Immigration (Leave to Enter and Remain) Order 2000.
 
-#### 14. Place from which an appeal may be brought or continued: general[^key-df6accbfb72892f3330ea1a1bdf764d3]
+#### 14. Place from which an appeal may be brought or continued: general[^c-df6accbfb72892f3330ea1a1bdf764d3]
 
 (1) A person may bring or continue an appeal under these Regulations—
 
@@ -395,11 +395,11 @@ Schedule 3 contains provisions about admission on bail to the United Kingdom for
 
 (3) This regulation is subject to regulation 15.
 
-#### 15. National security decisions: place from which an appeal may be brought or continued, certification of removal etc.[^key-ce6dc3ef1adec18b426540cafcc98596]
+#### 15. National security decisions: place from which an appeal may be brought or continued, certification of removal etc.[^c-ce6dc3ef1adec18b426540cafcc98596]
 
 (1) This regulation applies where the Secretary of State certifies, under paragraph 1 or 2 of Schedule 1, that an appealable decision in relation to a person (“P”) was taken in the interests of national security. Such a decision is referred to in this regulation as a “**national security decision**”.
 
-(2)[^key-25f8fd32fc0e13872218b47c9b63e571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-25f8fd32fc0e13872218b47c9b63e571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) P, while in the United Kingdom, may not bring or continue an appeal under these Regulations against the national security decision unless P has made a human rights claim while in the United Kingdom.
 
@@ -440,7 +440,7 @@ But those exceptions do not apply at any time when the removal of P is prohibite
 - “**human rights claim**” has the meaning given in section 113(1) of the 2002 Act;
 - “**relevant period**” means the period of one month beginning with the day on which P is notified of the decision to remove them.
 
-#### 16. Other appealable decisions: certification of removal[^key-b39b28ff9b4dea332f47ef2c969e543a]
+#### 16. Other appealable decisions: certification of removal[^c-b39b28ff9b4dea332f47ef2c969e543a]
 
 (1) This regulation applies where—
 
@@ -462,7 +462,7 @@ would not be unlawful under section 6 of the Human Rights Act 1998.
 
 (6) See sections 78 and 79 of the 2002 Act, as applied by Schedule 1 or 2 to these Regulations, for the consequences of certification under this regulation.
 
-#### 16A. Other appealable decisions: certification of removal in cases of abuse of rights or fraud[^key-af3280f89d5f4b52d755bc9d65303153]
+#### 16A. Other appealable decisions: certification of removal in cases of abuse of rights or fraud[^c-af3280f89d5f4b52d755bc9d65303153]
 
 (1) This regulation applies where a relevant appealable decision has been made in relation to a person (“**P**”) and that decision was taken by the Secretary of State, whether in whole or in part, because of abuse of rights or fraud.
 
@@ -486,7 +486,7 @@ would not be unlawful under section 6 of the Human Rights Act 1998.
 
 ## PART 3 — Consequential amendments
 
-### 17. Consequential amendments[^key-a8f2ee2b9fb80bcbbb5ec3515944786f]
+### 17. Consequential amendments[^c-a8f2ee2b9fb80bcbbb5ec3515944786f]
 
 Schedule 4 contains consequential amendments.
 
@@ -502,7 +502,7 @@ Regulation 7(2) and (3)
 
 ### PART 1 — Certification of appealable decisions on national security etc. grounds
 
-#### 1. Certification that decision was taken on national security etc. grounds[^key-dde7c83cc77eb3541708c4b1123714a6]
+#### 1. Certification that decision was taken on national security etc. grounds[^c-dde7c83cc77eb3541708c4b1123714a6]
 
 (1) The Secretary of State may certify an appealable decision under this paragraph if it was taken—
 
@@ -516,7 +516,7 @@ Regulation 7(2) and (3)
 
 (3) In this paragraph any reference to the Secretary of State is to the Secretary of State acting in person.
 
-#### 2. Certification that decision was taken on information which cannot be disclosed for reasons of national security etc.[^key-2c3165bbf278862f00adfbf38f3a4968]
+#### 2. Certification that decision was taken on information which cannot be disclosed for reasons of national security etc.[^c-2c3165bbf278862f00adfbf38f3a4968]
 
 (1) The Secretary of State may certify an appealable decision under this paragraph if it was taken wholly or partly in reliance on information which the Secretary of State considers must not be made public—
 
@@ -526,13 +526,13 @@ Regulation 7(2) and (3)
 
 (2) In this paragraph any reference to the Secretary of State is to the Secretary of State acting in person.
 
-#### 3. Effect of certification: appeal pending before the Tribunal[^key-96f219c1407c2dd607aa77692569a1d9]
+#### 3. Effect of certification: appeal pending before the Tribunal[^c-96f219c1407c2dd607aa77692569a1d9]
 
 Where a certificate is given under paragraph 1 or 2 in relation to a decision in respect of which an appeal is pending to the Tribunal, the appeal lapses.
 
 ### PART 2 — Application of the 1997 Act to appeals to the Special Immigration Appeals Commission
 
-#### 4. Application of the 1997 Act to appeals under these Regulations[^key-8ef812f445cfeb8525f9ec23d868ae46]
+#### 4. Application of the 1997 Act to appeals under these Regulations[^c-8ef812f445cfeb8525f9ec23d868ae46]
 
 (1) The 1997 Act applies to an appeal to the Special Immigration Appeals Commission (“**the Commission**”) under these Regulations as it applies to an appeal under section 2 of that Act (subject to the modifications specified in sub-paragraphs (2) and (3)).
 
@@ -569,7 +569,7 @@ Where a certificate is given under paragraph 1 or 2 in relation to a decision in
   >     >
   >     > (1B) A person is a “**relevant appellant**” for the purposes of this section if—
   >     >
-  >     > - (a) the person's removal is certified under regulation 16(3) or 16A(3)[^key-c39b9b878895d70a1c22c38e30ad5949] of the 2020 Regulations, and
+  >     > - (a) the person's removal is certified under regulation 16(3) or 16A(3)[^c-c39b9b878895d70a1c22c38e30ad5949] of the 2020 Regulations, and
   >     > - (b) the relevant appealable decision in respect of which the person's removal is certified in accordance with that provision is the decision in relation to which the appeal to the Commission under the 2020 Regulations is pending.
   >     >
   >     > (1C) A relevant appellant may not be removed from, or required to leave, the United Kingdom in accordance with a provision of the Immigration Acts [^c24096521] before the end of the relevant period except—
@@ -622,20 +622,20 @@ Where a certificate is given under paragraph 1 or 2 in relation to a decision in
 
 Regulation 11
 
-### 1. Application of provisions of the 2002 Act in connection with appeals to the Tribunal[^key-0e37d6390d5560970239c17c335537df]
+### 1. Application of provisions of the 2002 Act in connection with appeals to the Tribunal[^c-0e37d6390d5560970239c17c335537df]
 
 The following provisions of the 2002 Act apply in connection with an appeal to the Tribunal under these Regulations as they apply in connection with an appeal under section 82(1) of that Act (but subject to the general modifications specified in paragraph 2 and the specific modifications specified in paragraph 3)—
 
 - (a) section 72 [^c24096531];
 - (b) sections 78 to 79;
-- (ba)[^key-b35bf0192f8145c3382f7cc20aa71f95] section 86B;
+- (ba)[^c-b35bf0192f8145c3382f7cc20aa71f95] section 86B;
 - (c) section 105 and any regulations made under that section;
 - (d) section 106 and any rules made pursuant to that section [^c24096541];
 - (e) sections 107 and 108 [^c24096551];
 - (f) sections 112 and 113 [^c24096561];
 - (g) section 120.
 
-### 2. General modifications[^key-fcb7f3fa7fd77d2afd07368348b40e34]
+### 2. General modifications[^c-fcb7f3fa7fd77d2afd07368348b40e34]
 
 (1) The provisions mentioned in paragraph 1 have effect as if—
 
@@ -648,7 +648,7 @@ The following provisions of the 2002 Act apply in connection with an appeal to t
 - (a) sub-paragraph (1)(a) does not apply to the reference to section 84 of the 2002 Act inserted by paragraph 3(2) of this Schedule;
 - (b) sub-paragraph (1) is also subject to the specific modifications made in paragraph 3.
 
-### 3. Specific modifications[^key-5aa7c721bf901c96390564ff003d72f3]
+### 3. Specific modifications[^c-5aa7c721bf901c96390564ff003d72f3]
 
 (1) The specific modifications to the provisions of the 2002 Act are as follows.
 
@@ -670,7 +670,7 @@ The following provisions of the 2002 Act apply in connection with an appeal to t
   >
   > (1B) A person is a “**relevant appellant**” for the purposes of this section if—
   >
-  > - (a) the person's removal is certified under regulation 16(3) or 16A(3)[^key-50f20360bd5c683dd8514cf56b618509] of the 2020 Regulations, and
+  > - (a) the person's removal is certified under regulation 16(3) or 16A(3)[^c-50f20360bd5c683dd8514cf56b618509] of the 2020 Regulations, and
   > - (b) the relevant appealable decision in respect of which the person's removal is certified in accordance with that provision is the decision in relation to which the appeal to the Tribunal under the 2020 Regulations is pending.
   >
   > (1C) A relevant appellant may not be removed from, or required to leave, the United Kingdom in accordance with a provision of the Immigration Acts before the end of the relevant period except—
@@ -715,7 +715,7 @@ The following provisions of the 2002 Act apply in connection with an appeal to t
   ;
 - (c) in subsection (2), for “section 104” there were substituted “ regulation 13 of the 2020 Regulations ”.
 
-(5A)[^key-f5de3ab80e7b79e5100569300b496ae8] Section 86B has effect as if for subsection (4) there were substituted—
+(5A)[^c-f5de3ab80e7b79e5100569300b496ae8] Section 86B has effect as if for subsection (4) there were substituted—
 
 > (4) But subsection (3) does not apply or, as the case may be, ceases to apply, if the appeal is brought, or is continued, from outside the United Kingdom.
 
@@ -737,14 +737,14 @@ The following provisions of the 2002 Act apply in connection with an appeal to t
 
 Regulation 12
 
-### 1. Application for permission to be admitted on bail to the United Kingdom to make submissions in person[^key-4261da60592c08edd867fe79a705b06d]
+### 1. Application for permission to be admitted on bail to the United Kingdom to make submissions in person[^c-4261da60592c08edd867fe79a705b06d]
 
 (1) An appellant (“A”) may apply to the Secretary of State for permission to be admitted on bail to the United Kingdom in order to make submissions in person at a hearing if the conditions in sub-paragraph (2) are satisfied.
 
 (2) The conditions are—
 
-- (a) that the Secretary of State has certified A's removal from the United Kingdom under regulation 16(3) or 16A(3)[^key-3d867d26e9bc42ffcb005e7e2a6515b5],
-- (b) the hearing forms part of the proceedings on, or in connection with, an appeal to the Tribunal against the appealable decision in respect of which A's removal was certified under regulation 16(3) or 16A(3)[^key-cdc80f62d9702d8309a4300d8330543e],
+- (a) that the Secretary of State has certified A's removal from the United Kingdom under regulation 16(3) or 16A(3)[^c-3d867d26e9bc42ffcb005e7e2a6515b5],
+- (b) the hearing forms part of the proceedings on, or in connection with, an appeal to the Tribunal against the appealable decision in respect of which A's removal was certified under regulation 16(3) or 16A(3)[^c-cdc80f62d9702d8309a4300d8330543e],
 - (c) a date for the hearing has been set by the Tribunal, the Upper Tribunal or the court (as the case may be) before which the hearing is to take place, and
 - (d) A is outside the United Kingdom.
 
@@ -762,7 +762,7 @@ Regulation 12
 
 (6) If A is removed from the United Kingdom while A's appeal is pending, A is not prevented from applying for admission to the United Kingdom on bail in order to make submissions in person at any subsequent hearing in accordance with this paragraph.
 
-### 2. Application of enactments to person given permission under paragraph 1[^key-a15e597fc3c540832b7cb798dfd704f9]
+### 2. Application of enactments to person given permission under paragraph 1[^c-a15e597fc3c540832b7cb798dfd704f9]
 
 (1) Where the Secretary of State gives an appellant (“A”) permission to be admitted on bail to the United Kingdom under paragraph 1—
 
@@ -784,7 +784,7 @@ Regulation 17
 
 ### PART 1 — Amendment of primary legislation
 
-#### 1. Amendment of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision)[^key-ff34a4f222c16a09be5d6bac4f6ec6e7]
+#### 1. Amendment of section 3C of the Immigration Act 1971 (continuation of leave pending variation decision)[^c-ff34a4f222c16a09be5d6bac4f6ec6e7]
 
 In section 3C of the 1971 Act [^c24096581], in subsection (2)—
 
@@ -796,7 +796,7 @@ In section 3C of the 1971 Act [^c24096581], in subsection (2)—
 
   .
 
-#### 2. Amendment of section 2C of the Special Immigration Appeals Commission Act 1997 (jurisdiction: review of certain exclusion decisions)[^key-effb489a6c3bf50f41173e2ba8b1372c]
+#### 2. Amendment of section 2C of the Special Immigration Appeals Commission Act 1997 (jurisdiction: review of certain exclusion decisions)[^c-effb489a6c3bf50f41173e2ba8b1372c]
 
 (1) Section 2C of the 1997 Act [^c24096591] is amended as follows.
 
@@ -812,7 +812,7 @@ In section 3C of the 1971 Act [^c24096581], in subsection (2)—
 
 ### PART 2 — Amendment of subordinate legislation
 
-#### 3. Amendment of the Immigration (Notices) Regulations 2003[^key-64a547cafd73c6aa8d90c6e5433ccc77]
+#### 3. Amendment of the Immigration (Notices) Regulations 2003[^c-64a547cafd73c6aa8d90c6e5433ccc77]
 
 (1) The Immigration (Notices) Regulations 2003 [^c24096601] are amended as follows.
 
@@ -822,7 +822,7 @@ In section 3C of the 1971 Act [^c24096581], in subsection (2)—
 
 (3) In regulation 4, in paragraph (1), for “or any EEA decision” substitute “, any EEA decision or any citizens' rights immigration decision”.
 
-#### 4. Amendment of the Special Immigration Appeals Commission (Procedure) Rules 2003[^key-ebf6bc3f65e73a5d5314cd16244d03b2]
+#### 4. Amendment of the Special Immigration Appeals Commission (Procedure) Rules 2003[^c-ebf6bc3f65e73a5d5314cd16244d03b2]
 
 (1) The Special Immigration Appeals Commission (Procedure) Rules 2003 [^c24096611] are amended as follows.
 
@@ -887,7 +887,7 @@ In section 3C of the 1971 Act [^c24096581], in subsection (2)—
 
   .
 
-#### 5. Amendment of the Tribunal Procedure (Upper Tribunal) Rules 2008[^key-c8237c77c9b0e83d9caf2fb7e12ed66a]
+#### 5. Amendment of the Tribunal Procedure (Upper Tribunal) Rules 2008[^c-c8237c77c9b0e83d9caf2fb7e12ed66a]
 
 (1) The Tribunal Procedure (Upper Tribunal) Rules 2008 [^c24096671] are amended as follows.
 
@@ -906,7 +906,7 @@ In section 3C of the 1971 Act [^c24096581], in subsection (2)—
 - (b) in paragraph (2), after “Regulations 2006” insert “ or regulation 13(3) of the 2020 Regulations ”;
 - (c) in paragraph (3), after “Act 2002”, insert “ or regulation 13(3) of the 2020 Regulations ”.
 
-#### 6. Amendment of the Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014[^key-6e1221ee271d6b3f5757f6e085ac14b0]
+#### 6. Amendment of the Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014[^c-6e1221ee271d6b3f5757f6e085ac14b0]
 
 (1) The Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014 [^c24096681] are amended as follows.
 
@@ -979,9 +979,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24096311]: Marginal citation: [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1).
 
-[^key-4d9440ee463e2926c863d49c1ffd7d79]: Commencement: Reg. 1 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-4d9440ee463e2926c863d49c1ffd7d79]: Commencement: Reg. 1 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-1d0d3331c0a7f785f8fa4f009fbdd63e]: Commencement: Reg. 2 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-1d0d3331c0a7f785f8fa4f009fbdd63e]: Commencement: Reg. 2 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
 [^c24096321]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
@@ -989,125 +989,125 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24096341]: Marginal citation: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
 
-[^key-6df1a2eda50f910123923fd4274cbdbe]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/2/a)
+[^c-6df1a2eda50f910123923fd4274cbdbe]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/2/a)
 
-[^key-9377b4fc72153240f8d0c4a66338ccfe]: Textual amendment: Words in reg. 2(1) inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/2/a/i)
+[^c-9377b4fc72153240f8d0c4a66338ccfe]: Textual amendment: Words in reg. 2(1) inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/2/a/i)
 
-[^key-6f476f02cbdaae64624f6a3b1268bc3f]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/2/b)
+[^c-6f476f02cbdaae64624f6a3b1268bc3f]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/2/b)
 
-[^key-10956af3c4dfa1c1b4ed0a14ca9bb6be]: Textual amendment: Words in reg. 2(1) inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/2/a/ii)
+[^c-10956af3c4dfa1c1b4ed0a14ca9bb6be]: Textual amendment: Words in reg. 2(1) inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/2/a/ii)
 
-[^key-7246f50d1ff0b64ff3b92e5bc61ee8b0]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/2/c)
+[^c-7246f50d1ff0b64ff3b92e5bc61ee8b0]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(2)(c)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/2/c)
 
 [^c24096351]: Marginal citation: See section 17(2) of the European Union (Withdrawal Agreement) Act 2020 (“the EUWAA”) for the meaning of “relevant entry clearance immigration rules”; and see section 17(5) of the EUWAA for the meanings of “entry clearance” and “immigration rules”.
 
-[^key-3fadcf9516b10f927c58812e72e5a2fb]: Textual amendment: Words in reg. 2(1) inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/2/a/iii)
+[^c-3fadcf9516b10f927c58812e72e5a2fb]: Textual amendment: Words in reg. 2(1) inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/2/a/iii)
 
-[^key-f973076a843fa309d1ddfb7fc188f515]: Textual amendment: Reg. 2(1A) inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(2)(b)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/2/b)
+[^c-f973076a843fa309d1ddfb7fc188f515]: Textual amendment: Reg. 2(1A) inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(2)(b)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/2/b)
 
-[^key-1705f974b7d24d96fcd69313da7b8d89]: Textual amendment: Pt. 2 Ch. 1 cross-heading inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/3)
+[^c-1705f974b7d24d96fcd69313da7b8d89]: Textual amendment: Pt. 2 Ch. 1 cross-heading inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/3)
 
-[^key-d5c09cc464c23bbfbbfcf6a56f5eb848]: Commencement: Reg. 3 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-d5c09cc464c23bbfbbfcf6a56f5eb848]: Commencement: Reg. 3 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
 [^c24096361]: Marginal citation: See section 17(1) of the EUWAA for the meaning of “residence scheme immigration rules”.
 
-[^key-1dce983788063d29aa0ad71fb2165de9]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/3/2) substituted (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/441/regulation/3)
+[^c-1dce983788063d29aa0ad71fb2165de9]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/3/2) substituted (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/441/regulation/3)
 
-[^key-f4e5ddc41970d93d2fd6c334b0d598cd]: Commencement: Reg. 4 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-f4e5ddc41970d93d2fd6c334b0d598cd]: Commencement: Reg. 4 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
 [^c24096371]: Marginal citation: Section 76(2) was amended by paragraph 3(3)(a) of Schedule 9 to the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
 
-[^key-09f3465ddbe5b95d0743707677b50715]: Commencement: Reg. 5 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-09f3465ddbe5b95d0743707677b50715]: Commencement: Reg. 5 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
 [^c24096381]: Marginal citation: [S.I. 2000/1161](https://www.legislation.gov.uk/uksi/2000/1161); to which there are amendments not relevant to these Regulations.
 
-[^key-0b634efdd504eda7419d0f68f689002f]: Commencement: Reg. 6 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-0b634efdd504eda7419d0f68f689002f]: Commencement: Reg. 6 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-5b25723d26acf2bbdf52c7c026bf6bbe]: Textual amendment: Words in reg. 6 heading inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(4)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/4)
+[^c-5b25723d26acf2bbdf52c7c026bf6bbe]: Textual amendment: Words in reg. 6 heading inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(4)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/4)
 
-[^key-170ceba50fa2d8f8f7b2d5743c662e74]: Textual amendment: Words in reg. 6 heading inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/4/a)
+[^c-170ceba50fa2d8f8f7b2d5743c662e74]: Textual amendment: Words in reg. 6 heading inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/4/a)
 
-[^key-4de939fd4ab0e85f8564d4ab9a664904]: Textual amendment: Reg. 6(1A) inserted (25.6.2025) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/639)](https://www.legislation.gov.uk/uksi/2025/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/639/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/639/regulation/2)
+[^c-4de939fd4ab0e85f8564d4ab9a664904]: Textual amendment: Reg. 6(1A) inserted (25.6.2025) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/639)](https://www.legislation.gov.uk/uksi/2025/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/639/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/639/regulation/2)
 
 [^c24096391]: Marginal citation: Section 11(1) was amended by the [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), [Schedule 14](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14), [paragraph 48](https://www.legislation.gov.uk/ukpga/1999/33/paragraph/48), the Nationality, Immigration and Asylum Act 2002, section 62(8), and the [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [Schedule 10](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10), [paragraph 15](https://www.legislation.gov.uk/ukpga/2016/19/paragraph/15).
 
-[^key-3f7bd9d2c2f688f8efba1e918636089d]: Textual amendment: Reg. 6(3) substituted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/4/b)
+[^c-3f7bd9d2c2f688f8efba1e918636089d]: Textual amendment: Reg. 6(3) substituted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/4/b)
 
-[^key-e3cc596ae0adcc3525a733a7f5893c00]: Textual amendment: Regs. 6A-6F and cross-heading inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by The Citizens’ [Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2/3), [24(5)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/5) (as amended (22.12.2020) by [S.I. 2020/1372](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/7/3))
+[^c-e3cc596ae0adcc3525a733a7f5893c00]: Textual amendment: Regs. 6A-6F and cross-heading inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by The Citizens’ [Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2/3), [24(5)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/5) (as amended (22.12.2020) by [S.I. 2020/1372](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/7/3))
 
-[^key-9d3fdd163df8102b1c29020834661d5d]: Textual amendment: Regs. 6G-6J and cross-heading inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(5)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/5)
+[^c-9d3fdd163df8102b1c29020834661d5d]: Textual amendment: Regs. 6G-6J and cross-heading inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(5)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/5)
 
-[^key-95f401145e3af8f887bbe1173ee68b96]: Commencement: Reg. 7 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-95f401145e3af8f887bbe1173ee68b96]: Commencement: Reg. 7 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-e68f4ce78520a27d2b43d8b4e2d8e5b9]: Commencement: Reg. 8 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-e68f4ce78520a27d2b43d8b4e2d8e5b9]: Commencement: Reg. 8 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-6d599ac9a50609802b550dbce597675b]: Textual amendment: Words in reg. 8(2)(a) substituted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/6/a/i)
+[^c-6d599ac9a50609802b550dbce597675b]: Textual amendment: Words in reg. 8(2)(a) substituted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/6/a/i)
 
-[^key-cfca50197d79fc54468084446d8017d1]: Textual amendment: Words in reg. 8(2)(a) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/6/a/i)
+[^c-cfca50197d79fc54468084446d8017d1]: Textual amendment: Words in reg. 8(2)(a) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/6/a/i)
 
-[^key-8145eb8cdaeb203e98723a59654e68e6]: Textual amendment: Words in reg. 8(2)(b) substituted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/6/a/ii)
+[^c-8145eb8cdaeb203e98723a59654e68e6]: Textual amendment: Words in reg. 8(2)(b) substituted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/6/a/ii)
 
-[^key-8162a0ce45ee2cb798d714b792b0ff4b]: Textual amendment: Words in reg. 8(2)(b) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/6/a/ii)
+[^c-8162a0ce45ee2cb798d714b792b0ff4b]: Textual amendment: Words in reg. 8(2)(b) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/6/a/ii)
 
-[^key-6fe0f4c42fb5ec2c51c770ac005ecd2a]: Textual amendment: Words in reg. 8(2)(c) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/6/a/iii)
+[^c-6fe0f4c42fb5ec2c51c770ac005ecd2a]: Textual amendment: Words in reg. 8(2)(c) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/6/a/iii)
 
 [^c24096411]: Marginal citation: See section 39(1) of the EUWAA for the meanings of “EEA EFTA separation agreement”, “Swiss citizens' rights agreement” and “withdrawal agreement”.
 
-[^key-1a15af1e06024ad796a6bd031bbc13df]: Textual amendment: Reg. 8(3)(e)(f) inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(6)(b)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/6/b)
+[^c-1a15af1e06024ad796a6bd031bbc13df]: Textual amendment: Reg. 8(3)(e)(f) inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(6)(b)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/6/b)
 
-[^key-2685db66220459c928042fc2b5a3b236]: Textual amendment: Reg. 8(3)(g)-(j) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(6)(b)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/6/b)
+[^c-2685db66220459c928042fc2b5a3b236]: Textual amendment: Reg. 8(3)(g)-(j) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(6)(b)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/6/b)
 
-[^key-0ad676a9ff4c8075f305c30d4a01cfb7]: Commencement: Reg. 9 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-0ad676a9ff4c8075f305c30d4a01cfb7]: Commencement: Reg. 9 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
 [^c24096421]: Marginal citation: Section 84 was substituted by the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [section 15](https://www.legislation.gov.uk/ukpga/2014/22/section/15).
 
 [^c24096431]: Marginal citation: Section 120 was substituted by the Immigration Act 2014, Schedule 9, paragraph 55, and amended by the [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [section 64](https://www.legislation.gov.uk/ukpga/2016/19/section/64).
 
-[^key-19ea8c39e718dddc69dde2ad10421183]: Commencement: Reg. 10 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-19ea8c39e718dddc69dde2ad10421183]: Commencement: Reg. 10 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-7da3f46c53a580ae141009c690b40244]: Commencement: Reg. 11 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-7da3f46c53a580ae141009c690b40244]: Commencement: Reg. 11 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-cd438660a9a44b164c4bb27ba1fc506b]: Commencement: Reg. 12 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-cd438660a9a44b164c4bb27ba1fc506b]: Commencement: Reg. 12 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-2ee218dae315a5cf672b9adb3c250de1]: Commencement: Reg. 13 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-2ee218dae315a5cf672b9adb3c250de1]: Commencement: Reg. 13 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
 [^c24096441]: Marginal citation: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 
 [^c24096451]: Marginal citation: Sections 7B and 7C of the 1997 Act were inserted by the [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [section 68](https://www.legislation.gov.uk/ukpga/2015/2/section/68).
 
-[^key-03ce94e6253ac06928eb0c4962f807e2]: Textual amendment: Words in reg. 13(3) substituted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(7)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/7/a)
+[^c-03ce94e6253ac06928eb0c4962f807e2]: Textual amendment: Words in reg. 13(3) substituted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(7)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/7/a)
 
-[^key-7b9e04a7f3abd363a635502db8b0e767]: Textual amendment: Reg. 13(4A)(4B) inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(7)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/7)
+[^c-7b9e04a7f3abd363a635502db8b0e767]: Textual amendment: Reg. 13(4A)(4B) inserted (4.11.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Citizens’ Rights (Frontier Workers) (EU Exit) Regulations 2020 (S.I. 2020/1213)](https://www.legislation.gov.uk/uksi/2020/1213), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/1/3), [24(7)](https://www.legislation.gov.uk/uksi/2020/1213/regulation/24/7)
 
-[^key-8bdab8cfe0f738b1700351c8fcf9bef2]: Textual amendment: Reg. 13(4C)-(4E) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(7)(b)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/7/b)
+[^c-8bdab8cfe0f738b1700351c8fcf9bef2]: Textual amendment: Reg. 13(4C)-(4E) inserted (31.12.2020 immediately after IP completion day) by [The Immigration (Citizens’ Rights etc.) (EU Exit) Regulations 2020 (S.I. 2020/1372)](https://www.legislation.gov.uk/uksi/2020/1372), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/1/3/a), [2(7)(b)](https://www.legislation.gov.uk/uksi/2020/1372/regulation/2/7/b)
 
 [^c24096461]: Marginal citation: See section 22 of the [Tribunal, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15) for the meaning of “Tribunal Procedure Rules”. The relevant Tribunal Procedure Rules are currently the [Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014 (S.I. 2014/2604)](https://www.legislation.gov.uk/uksi/2014/2604).
 
 [^c24096471]: Marginal citation: The relevant rules are currently the [Special Immigration Appeals Commission (Procedure) Rules 2003 (S.I. 2003/1034)](https://www.legislation.gov.uk/uksi/2003/1034).
 
-[^key-85eb54b4917a8498e595b620e25a8ae0]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2020/61/regulation/13A) inserted (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/441/regulation/4)
+[^c-85eb54b4917a8498e595b620e25a8ae0]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2020/61/regulation/13A) inserted (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/441/regulation/4)
 
-[^key-df6accbfb72892f3330ea1a1bdf764d3]: Commencement: Reg. 14 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-df6accbfb72892f3330ea1a1bdf764d3]: Commencement: Reg. 14 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-ce6dc3ef1adec18b426540cafcc98596]: Commencement: Reg. 15 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-ce6dc3ef1adec18b426540cafcc98596]: Commencement: Reg. 15 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-25f8fd32fc0e13872218b47c9b63e571]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/15/2) omitted (8.5.2023) by virtue of [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/441/regulation/5)
+[^c-25f8fd32fc0e13872218b47c9b63e571]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/61/regulation/15/2) omitted (8.5.2023) by virtue of [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/441/regulation/5)
 
 [^c24096481]: Marginal citation: See the definition of “the Immigration Acts” in Schedule 1 to the [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-b39b28ff9b4dea332f47ef2c969e543a]: Commencement: Reg. 16 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-b39b28ff9b4dea332f47ef2c969e543a]: Commencement: Reg. 16 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-af3280f89d5f4b52d755bc9d65303153]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2020/61/regulation/16A) inserted (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/441/regulation/6)
+[^c-af3280f89d5f4b52d755bc9d65303153]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/uksi/2020/61/regulation/16A) inserted (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/441/regulation/6)
 
-[^key-a8f2ee2b9fb80bcbbb5ec3515944786f]: Commencement: Reg. 17 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-a8f2ee2b9fb80bcbbb5ec3515944786f]: Commencement: Reg. 17 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-dde7c83cc77eb3541708c4b1123714a6]: Commencement: Sch. 1 para. 1 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-dde7c83cc77eb3541708c4b1123714a6]: Commencement: Sch. 1 para. 1 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-2c3165bbf278862f00adfbf38f3a4968]: Commencement: Sch. 1 para. 2 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-2c3165bbf278862f00adfbf38f3a4968]: Commencement: Sch. 1 para. 2 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-96f219c1407c2dd607aa77692569a1d9]: Commencement: Sch. 1 para. 3 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-96f219c1407c2dd607aa77692569a1d9]: Commencement: Sch. 1 para. 3 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-8ef812f445cfeb8525f9ec23d868ae46]: Commencement: Sch. 1 para. 4 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-8ef812f445cfeb8525f9ec23d868ae46]: Commencement: Sch. 1 para. 4 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
 [^c24096491]: Marginal citation: Section 2 was substituted by the Nationality, Immigration and Asylum Act 2002, Schedule 7, paragraph 20. It has been amended by the [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [Schedule 1](https://www.legislation.gov.uk/ukpga/2006/13/schedule/1), [paragraph 14](https://www.legislation.gov.uk/ukpga/2006/13/paragraph/14), and Schedule 7, paragraph 20, the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22) (“**the 2014 Act**”), Schedule 9, paragraph 2, and the [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [section 64](https://www.legislation.gov.uk/ukpga/2016/19/section/64).
 
@@ -1115,15 +1115,15 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24096511]: Marginal citation: Section 120 was substituted by the 2014 Act, Schedule 9, paragraph 55, and amended by the Immigration Act 2016, section 64.
 
-[^key-c39b9b878895d70a1c22c38e30ad5949]: Textual amendment: Words in [Sch. 1 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2020/61/schedule/1/paragraph/4/3/a) inserted (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2023/441/regulation/7/1)
+[^c-c39b9b878895d70a1c22c38e30ad5949]: Textual amendment: Words in [Sch. 1 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2020/61/schedule/1/paragraph/4/3/a) inserted (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2023/441/regulation/7/1)
 
 [^c24096521]: Marginal citation: See the definition of “the Immigration Acts” in Schedule 1 to the [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-0e37d6390d5560970239c17c335537df]: Commencement: Sch. 2 para. 1 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-0e37d6390d5560970239c17c335537df]: Commencement: Sch. 2 para. 1 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
 [^c24096531]: Marginal citation: Section 72 was amended by the [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19) (“**the 2004 Act**”), Schedule 2, paragraph 17, the UK Borders Act 2007, section 39, the Immigration Act 2014 (“**the 2014 Act**”), Schedule 9, paragraph 31, and [S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21).
 
-[^key-b35bf0192f8145c3382f7cc20aa71f95]: Textual amendment: [Sch. 2 para. 1(ba)](https://www.legislation.gov.uk/uksi/2020/61/schedule/2/paragraph/1/ba) inserted (12.8.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 50(2)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/50/2/a), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/766](https://www.legislation.gov.uk/uksi/2026/766), [reg. 2](https://www.legislation.gov.uk/uksi/2026/766/regulation/2)
+[^c-b35bf0192f8145c3382f7cc20aa71f95]: Textual amendment: [Sch. 2 para. 1(ba)](https://www.legislation.gov.uk/uksi/2020/61/schedule/2/paragraph/1/ba) inserted (12.8.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 50(2)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/50/2/a), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/766](https://www.legislation.gov.uk/uksi/2026/766), [reg. 2](https://www.legislation.gov.uk/uksi/2026/766/regulation/2)
 
 [^c24096541]: Marginal citation: Section 106 was amended by the 2004 Act, Schedule 2, paragraph 21, the 2014 Act, Schedule 9, paragraph 39, and [S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21). Section 107 was amended by the 2004 Act, Schedule 2, paragraph 22, the [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15) (“**the 2007 Act**”) , Schedule 8, paragraph 54, the 2014 Act, Schedule 9, paragraph 50, and [S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21). Section 108 was amended by the 2004 Act, Schedule 2, paragraph 23, and the 2014 Act, Schedule 9, paragraph 54.
 
@@ -1131,37 +1131,37 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24096561]: Marginal citation: Section 112 was amended by the Asylum and Immigration (Treatment of Claimants, etc) Act 2004, section 29 and Schedule 2, paragraph 24, the [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13) (“**the 2006 Act**”), section 7, the Immigration Act 2014 (“**the 2014 Act**”), Schedule 9, paragraph 52 and by [S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21). Section 113 was amended by the 2006 Act, section 12, and the 2014 Act, Schedule 9, paragraph 53.
 
-[^key-fcb7f3fa7fd77d2afd07368348b40e34]: Commencement: Sch. 2 para. 2 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-fcb7f3fa7fd77d2afd07368348b40e34]: Commencement: Sch. 2 para. 2 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-5aa7c721bf901c96390564ff003d72f3]: Commencement: Sch. 2 para. 3 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-5aa7c721bf901c96390564ff003d72f3]: Commencement: Sch. 2 para. 3 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-50f20360bd5c683dd8514cf56b618509]: Textual amendment: Words in [Sch. 2 para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2020/61/schedule/2/paragraph/3/3/b) inserted (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/7/2)
+[^c-50f20360bd5c683dd8514cf56b618509]: Textual amendment: Words in [Sch. 2 para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2020/61/schedule/2/paragraph/3/3/b) inserted (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/7/2)
 
-[^key-f5de3ab80e7b79e5100569300b496ae8]: Textual amendment: [Sch. 2 para. 3(5A)](https://www.legislation.gov.uk/uksi/2020/61/schedule/2/paragraph/3/5A) inserted (12.8.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 50(2)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/50/2/b), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/766](https://www.legislation.gov.uk/uksi/2026/766), [reg. 2](https://www.legislation.gov.uk/uksi/2026/766/regulation/2)
+[^c-f5de3ab80e7b79e5100569300b496ae8]: Textual amendment: [Sch. 2 para. 3(5A)](https://www.legislation.gov.uk/uksi/2020/61/schedule/2/paragraph/3/5A) inserted (12.8.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 50(2)(b)](https://www.legislation.gov.uk/ukpga/2025/31/section/50/2/b), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2026/766](https://www.legislation.gov.uk/uksi/2026/766), [reg. 2](https://www.legislation.gov.uk/uksi/2026/766/regulation/2)
 
-[^key-4261da60592c08edd867fe79a705b06d]: Commencement: Sch. 3 para. 1 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-4261da60592c08edd867fe79a705b06d]: Commencement: Sch. 3 para. 1 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
-[^key-3d867d26e9bc42ffcb005e7e2a6515b5]: Textual amendment: Words in [Sch. 3 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/61/schedule/3/paragraph/1/2/a) inserted (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2023/441/regulation/7/3)
+[^c-3d867d26e9bc42ffcb005e7e2a6515b5]: Textual amendment: Words in [Sch. 3 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/61/schedule/3/paragraph/1/2/a) inserted (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2023/441/regulation/7/3)
 
-[^key-cdc80f62d9702d8309a4300d8330543e]: Textual amendment: Words in [Sch. 3 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/61/schedule/3/paragraph/1/2/b) inserted (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2023/441/regulation/7/3)
+[^c-cdc80f62d9702d8309a4300d8330543e]: Textual amendment: Words in [Sch. 3 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/61/schedule/3/paragraph/1/2/b) inserted (8.5.2023) by [The Immigration (Citizens’ Rights Appeals) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/441)](https://www.legislation.gov.uk/uksi/2023/441), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/441/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2023/441/regulation/7/3)
 
-[^key-a15e597fc3c540832b7cb798dfd704f9]: Commencement: Sch. 3 para. 2 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-a15e597fc3c540832b7cb798dfd704f9]: Commencement: Sch. 3 para. 2 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
 [^c24096571]: Marginal citation: Paragraph 8 was amended by paragraph 9(1) of the Schedule to the [Immigration Act 1988 (c. 14)](https://www.legislation.gov.uk/ukpga/1988/14) and paragraph 4 of Schedule 7 to the Nationality, Immigration and Asylum Act 2002 (“**the 2002 Act**”); paragraph 10 was amended by paragraph 9(2) of the Schedule to the Immigration Act 1988; paragraph 10A was inserted by section 73(1) of the 2002 Act; paragraph 11 was amended by paragraph 1 of Schedule 9 to the Immigration Act 2014 (“**the 2014 Act**”); paragraph 16 was amended by section 140(1) of, and paragraph 60 of Schedule 14 to, the Immigration and Asylum Act 1999 (“**the 1999 Act**”), section 73(5) of the 2002 Act, section 42(3) of the Immigration, Asylum and Nationality Act 2006 (“**the 2006 Act**”), section 5(2) of the 2014 Act, section 60(10) of the Immigration Act 2016, and [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813); paragraph 17 was amended by paragraph 1 of Schedule 4 to the [Asylum and Immigration Act 1996 (c. 49)](https://www.legislation.gov.uk/ukpga/1996/49), [section 140(2)](https://www.legislation.gov.uk/ukpga/1996/49/section/140/2) of the 1999 Act, and sections 63 and 64 of the 2002 Act; paragraph 18 was amended by paragraph 61 of Schedule 14 to the 1999 Act, sections 5(3), 9 and 13(3) of, and paragraph 1 of Schedule 1 and paragraph 1(4) of Schedule 2 to, the 2014 Act; paragraph 18A was inserted by paragraph 2(1) of Schedule 1 to the 2014 Act.
 
-[^key-ff34a4f222c16a09be5d6bac4f6ec6e7]: Commencement: Sch. 4 para. 1 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-ff34a4f222c16a09be5d6bac4f6ec6e7]: Commencement: Sch. 4 para. 1 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
 [^c24096581]: Marginal citation: Section 3C was inserted by the Immigration and Asylum Act 1999, section 3, and substituted by the Nationality, Immigration and Asylum Act 2002, section 118. It was amended by the Immigration, Asylum and Nationality Act 2006, section 11, the Immigration Act 2014, Schedule 9, paragraph 21, and the Immigration Act 2016, section 62.
 
-[^key-effb489a6c3bf50f41173e2ba8b1372c]: Commencement: Sch. 4 para. 2 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-effb489a6c3bf50f41173e2ba8b1372c]: Commencement: Sch. 4 para. 2 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
 [^c24096591]: Marginal citation: Section 2C was inserted by the [Justice and Security Act 2013 (c. 18)](https://www.legislation.gov.uk/ukpga/2013/18), [section 15](https://www.legislation.gov.uk/ukpga/2013/18/section/15).
 
-[^key-64a547cafd73c6aa8d90c6e5433ccc77]: Commencement: Sch. 4 para. 3 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-64a547cafd73c6aa8d90c6e5433ccc77]: Commencement: Sch. 4 para. 3 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
 [^c24096601]: Marginal citation: [S.I. 2003/658](https://www.legislation.gov.uk/uksi/2003/658), as amended by [S.I. 2006/2168](https://www.legislation.gov.uk/uksi/2006/2168) and 2014/2768. There are other amending instruments but none is relevant.
 
-[^key-ebf6bc3f65e73a5d5314cd16244d03b2]: Commencement: Sch. 4 para. 4 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-ebf6bc3f65e73a5d5314cd16244d03b2]: Commencement: Sch. 4 para. 4 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
 [^c24096611]: Marginal citation: [S.I. 2003/1034](https://www.legislation.gov.uk/uksi/2003/1034).
 
@@ -1175,10 +1175,10 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24096661]: Marginal citation: Rule 12 has been amended by [S.I. 2007/1285](https://www.legislation.gov.uk/uksi/2007/1285), 2013/2995 and 2015/867.
 
-[^key-c8237c77c9b0e83d9caf2fb7e12ed66a]: Commencement: Sch. 4 para. 5 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-c8237c77c9b0e83d9caf2fb7e12ed66a]: Commencement: Sch. 4 para. 5 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
 [^c24096671]: Marginal citation: [S.I. 2008/2698](https://www.legislation.gov.uk/uksi/2008/2698), as amended by [S.I. 2010/44](https://www.legislation.gov.uk/uksi/2010/44) and 2013/2067. There are other amending instruments but none is relevant.
 
-[^key-6e1221ee271d6b3f5757f6e085ac14b0]: Commencement: Sch. 4 para. 6 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
+[^c-6e1221ee271d6b3f5757f6e085ac14b0]: Commencement: Sch. 4 para. 6 in force at 31.1.2020 on exit day, see reg. 1(2) and [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16), [s. 20(1)-(5)](https://www.legislation.gov.uk/ukpga/2018/16/section/20/1)
 
 [^c24096681]: Marginal citation: [S.I. 2014/2604](https://www.legislation.gov.uk/uksi/2014/2604), to which there are amendments not relevant to this instrument.

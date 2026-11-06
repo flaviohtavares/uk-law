@@ -22,13 +22,13 @@ summary: ''
 
 Section 177.
 
-### Part I — Occupational pensions[^key-052fe5ade4f7a6256416c7aeb133a405]
+### Part I — Occupational pensions[^c-052fe5ade4f7a6256416c7aeb133a405]
 
 | *Chapter* | *Short title* | *Extent of repeal* |
 | --- | --- | --- |
-| [^key-6379fcde86644599e0c98ddff03d802e]. . . | [^key-6379fcde86644599e0c98ddff03d802e]. . . | [^key-6379fcde86644599e0c98ddff03d802e]. . . |
+| [^c-6379fcde86644599e0c98ddff03d802e]. . . | [^c-6379fcde86644599e0c98ddff03d802e]. . . | [^c-6379fcde86644599e0c98ddff03d802e]. . . |
 | 1986 c. 53. | The Building Societies Act 1986. | In section 53(15), the “or” after paragraph (a). |
-| [^key-6379fcde86644599e0c98ddff03d802e]. . . | [^key-6379fcde86644599e0c98ddff03d802e]. . . | [^key-6379fcde86644599e0c98ddff03d802e]. . . |
+| [^c-6379fcde86644599e0c98ddff03d802e]. . . | [^c-6379fcde86644599e0c98ddff03d802e]. . . | [^c-6379fcde86644599e0c98ddff03d802e]. . . |
 | 1989 c. 24. | The Social Security Act 1989. | In Schedule 5, paragraph 14. |
 | 1993 c. 48. | The Pension Schemes Act 1993. | Sections 77 to 80. |
 |  |  | Sections 102 to 108. |
@@ -55,7 +55,7 @@ Section 177.
 |  |  | In Schedule 7, paragraphs 1 and 3. |
 |  |  | In Schedule 8, paragraph 3. |
 
-### Part II[^c2136433][^key-a49e3038c85a1af5da58c3e128aa0262]
+### Part II[^c2136433][^c-a49e3038c85a1af5da58c3e128aa0262]
 
 State pensions
 
@@ -70,7 +70,7 @@ State pensions
 
 These repeals have effect in accordance with Schedule 4 to this Act.
 
-### Part III[^key-5e0b75edc0904fc4fca693b10b330b22][^key-bac6db9a3c52d010549d2c0d387b5b96]
+### Part III[^c-5e0b75edc0904fc4fca693b10b330b22][^c-bac6db9a3c52d010549d2c0d387b5b96]
 
 Certification of pension schemes etc.
 
@@ -81,7 +81,7 @@ Certification of pension schemes etc.
 | 1975 c. 25. | The Northern Ireland Assembly Disqualification Act 1975. | In Part II of Schedule 1, the entry relating to the Occupational Pensions Board. |
 | 1975 c. 60. | The Social Security Pensions Act 1975. | In section 61B(1), “except any power of the Occupational Pensions Board to make orders”. |
 | 1979 c. 50. | The European Parliament (Pay and Pensions) Act 1979. | In section 6(4), “and the Occupational Pensions Board”. |
-| [^key-21c6e6ba354599eaa6f60ca5ae0ac02c]. . . | [^key-21c6e6ba354599eaa6f60ca5ae0ac02c]. . . | [^key-21c6e6ba354599eaa6f60ca5ae0ac02c]. . . |
+| [^c-21c6e6ba354599eaa6f60ca5ae0ac02c]. . . | [^c-21c6e6ba354599eaa6f60ca5ae0ac02c]. . . | [^c-21c6e6ba354599eaa6f60ca5ae0ac02c]. . . |
 | 1989 c. 24. | The Social Security Act 1989. | Section 29(7). |
 |  |  | In Schedule 5, paragraph 4. |
 | 1992 c. 5. | The Social Security Administration Act 1992. | In Schedule 4, the entries in Part I relating to the Occupational Pensions Board. |
@@ -141,7 +141,7 @@ Certification of pension schemes etc.
 |  |  | In Schedule 6, paragraph 11. |
 |  |  | In Schedule 8, paragraph 44(a) and (b)(i) and the “and” immediately following it. |
 
-### Part IV[^c2136434][^key-13a44343c59cd84a9d79ea9746a6e267]
+### Part IV[^c2136434][^c-13a44343c59cd84a9d79ea9746a6e267]
 
 Miscellaneous and General
 
@@ -166,20 +166,20 @@ The repeal in the Pensions (Increase) Act 1971 shall come into force on the day 
 
 [^c2136432]: Extent: The amendment by this Act of an enactment which extends to Northern Ireland extends also to Northern Ireland see s. 178(1)(2)(3).
 
-[^key-052fe5ade4f7a6256416c7aeb133a405]: Commencement: Sch. 7 Pt. I in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-052fe5ade4f7a6256416c7aeb133a405]: Commencement: Sch. 7 Pt. I in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
-[^key-6379fcde86644599e0c98ddff03d802e]: Textual amendment: Words in [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I) repealed (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [149(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/149/c)
+[^c-6379fcde86644599e0c98ddff03d802e]: Textual amendment: Words in [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I) repealed (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [149(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/149/c)
 
 [^c2136433]: Commencement: Sch. 7 Part II in force at Royal Assent (19.7.1995) see s. 180(1)(2).
 
-[^key-a49e3038c85a1af5da58c3e128aa0262]: Commencement: Sch. 7 Pt. II in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-a49e3038c85a1af5da58c3e128aa0262]: Commencement: Sch. 7 Pt. II in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
-[^key-5e0b75edc0904fc4fca693b10b330b22]: Commencement: Sch. 7 Pt. III in force at 6.4.1996 for specified purposes by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(4)](https://www.legislation.gov.uk/uksi/1996/778/article/2/4), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/IV)
+[^c-5e0b75edc0904fc4fca693b10b330b22]: Commencement: Sch. 7 Pt. III in force at 6.4.1996 for specified purposes by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(4)](https://www.legislation.gov.uk/uksi/1996/778/article/2/4), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/IV)
 
-[^key-bac6db9a3c52d010549d2c0d387b5b96]: Commencement: Sch. 7 Pt. III in force at 6.4.1997 for specified purposes by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-bac6db9a3c52d010549d2c0d387b5b96]: Commencement: Sch. 7 Pt. III in force at 6.4.1997 for specified purposes by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
-[^key-21c6e6ba354599eaa6f60ca5ae0ac02c]: Textual amendment: Words in [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/II) repealed (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [149(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/149/c)
+[^c-21c6e6ba354599eaa6f60ca5ae0ac02c]: Textual amendment: Words in [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/II) repealed (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [149(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/149/c)
 
 [^c2136434]: Commencement: S. 177, Sch. 7: Any repeal in Schedule 7 for which there is a note shall come into force into accordance with that note see s. 180(1)(2).
 
-[^key-13a44343c59cd84a9d79ea9746a6e267]: Commencement: [Sch. 7 Pt. IV](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/IV) in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-13a44343c59cd84a9d79ea9746a6e267]: Commencement: [Sch. 7 Pt. IV](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/IV) in force at 6.4.1997 in so far as not already in force by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)

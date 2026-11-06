@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 549A. Distributions from one UK REIT to another UK REIT[^key-3de8a9146f72bb1d3c6cd9e333116528]
+## 549A. Distributions from one UK REIT to another UK REIT[^c-3de8a9146f72bb1d3c6cd9e333116528]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ This is subject to section 531(4A) and (4B).
 
 ## Annotations
 
-[^key-3de8a9146f72bb1d3c6cd9e333116528]: Textual amendment: S. 549A inserted (with effect in accordance with Sch. 19 para. 13(2)-(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 19 para. 7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/19/paragraph/7)
+[^c-3de8a9146f72bb1d3c6cd9e333116528]: Textual amendment: S. 549A inserted (with effect in accordance with Sch. 19 para. 13(2)-(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 19 para. 7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/19/paragraph/7)

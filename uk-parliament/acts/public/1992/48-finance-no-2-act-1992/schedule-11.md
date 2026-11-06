@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — Paying and collecting agents etc.[^key-886d79ec578999ba74b0bdba2af14ccb]
+## SCHEDULE 11 — Paying and collecting agents etc.[^c-886d79ec578999ba74b0bdba2af14ccb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Section 63.
 
-**1.**[^key-886d79ec578999ba74b0bdba2af14ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-886d79ec578999ba74b0bdba2af14ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-886d79ec578999ba74b0bdba2af14ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-886d79ec578999ba74b0bdba2af14ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-886d79ec578999ba74b0bdba2af14ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-886d79ec578999ba74b0bdba2af14ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-886d79ec578999ba74b0bdba2af14ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-886d79ec578999ba74b0bdba2af14ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-886d79ec578999ba74b0bdba2af14ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-886d79ec578999ba74b0bdba2af14ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-886d79ec578999ba74b0bdba2af14ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-886d79ec578999ba74b0bdba2af14ccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-886d79ec578999ba74b0bdba2af14ccb]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/ukpga/1992/48/schedule/11) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-886d79ec578999ba74b0bdba2af14ccb]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/ukpga/1992/48/schedule/11) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

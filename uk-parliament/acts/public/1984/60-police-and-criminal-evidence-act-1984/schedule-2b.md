@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 2B — Testing for controlled drugs: trigger offences[^key-2f5befe63a643ad015aac31fea2449f7]
+## Schedule 2B — Testing for controlled drugs: trigger offences[^c-2f5befe63a643ad015aac31fea2449f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -154,4 +154,4 @@ Offences under the following provisions of the [Serious Crime Act 2015](https://
 
 ## Annotations
 
-[^key-2f5befe63a643ad015aac31fea2449f7]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/ukpga/1984/60/schedule/2B) inserted (29.4.2026 for specified purposes) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/f), [Sch. 20](https://www.legislation.gov.uk/ukpga/2026/20/schedule/20)
+[^c-2f5befe63a643ad015aac31fea2449f7]: Textual amendment: [Sch. 2B](https://www.legislation.gov.uk/ukpga/1984/60/schedule/2B) inserted (29.4.2026 for specified purposes) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/f), [Sch. 20](https://www.legislation.gov.uk/ukpga/2026/20/schedule/20)

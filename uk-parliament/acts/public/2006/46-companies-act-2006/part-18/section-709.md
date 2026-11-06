@@ -24,8 +24,8 @@ summary: ''
 
 (2) References below in this Chapter to payment out of capital are to any payment so made, whether or not it would be regarded apart from this section as a payment out of capital.
 
-(3)[^key-9bdc0d39cd3a926c66427651ecb28a75] This Chapter is subject to section 692(1ZA) (purchase of own shares up to annual limit).
+(3)[^c-9bdc0d39cd3a926c66427651ecb28a75] This Chapter is subject to section 692(1ZA) (purchase of own shares up to annual limit).
 
 ## Annotations
 
-[^key-9bdc0d39cd3a926c66427651ecb28a75]: Textual amendment: S. 709(3) added (6.4.2015) by [The Companies Act 2006 (Amendment of Part 18) Regulations 2015 (S.I. 2015/532)](https://www.legislation.gov.uk/uksi/2015/532), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/532/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2015/532/regulation/5)
+[^c-9bdc0d39cd3a926c66427651ecb28a75]: Textual amendment: S. 709(3) added (6.4.2015) by [The Companies Act 2006 (Amendment of Part 18) Regulations 2015 (S.I. 2015/532)](https://www.legislation.gov.uk/uksi/2015/532), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/532/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2015/532/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Amendment of the Pensions (Northern Ireland) Order 1995[^key-84b3c861064c1b22a0e7d78df36dea5b]
+## 60. Amendment of the Pensions (Northern Ireland) Order 1995[^c-84b3c861064c1b22a0e7d78df36dea5b]
 
 *Extent: N.I.*
 
@@ -39,7 +39,7 @@ In Article 67A of the Pensions (Northern Ireland) Order 1995[^f00072] (the subsi
 
 ## Annotations
 
-[^key-84b3c861064c1b22a0e7d78df36dea5b]: Commencement: Reg. 60 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-84b3c861064c1b22a0e7d78df36dea5b]: Commencement: Reg. 60 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00072]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); Article 67A was inserted by Article 239 of the Pensions (Northern Ireland) Order 2005 and amended by section 75 of the Pension Schemes Act 2021
 

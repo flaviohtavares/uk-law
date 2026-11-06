@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Power to lay moorings[^key-f3816b0a6e900cb609622f02f238dbe6]
+## 51. Power to lay moorings[^c-f3816b0a6e900cb609622f02f238dbe6]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ as it considers necessary or desirable for the convenience of vessels.
 
 ## Annotations
 
-[^key-f3816b0a6e900cb609622f02f238dbe6]: Commencement: Art. 51 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-f3816b0a6e900cb609622f02f238dbe6]: Commencement: Art. 51 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

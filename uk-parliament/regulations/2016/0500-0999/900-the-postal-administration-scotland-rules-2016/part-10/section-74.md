@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Use of proxy at meeting[^key-76e91dedbcf93b0a1095ecacb071d1f3]
+## 74. Use of proxy at meeting[^c-76e91dedbcf93b0a1095ecacb071d1f3]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76e91dedbcf93b0a1095ecacb071d1f3]: Commencement: Rule 74 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-76e91dedbcf93b0a1095ecacb071d1f3]: Commencement: Rule 74 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

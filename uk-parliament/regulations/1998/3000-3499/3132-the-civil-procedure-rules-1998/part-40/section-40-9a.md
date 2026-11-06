@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.9A. County Court judgments and orders - variation of payment[^key-ddf433284cb33d8d517ea4f67530faf3]
+## 40.9A. County Court judgments and orders - variation of payment[^c-ddf433284cb33d8d517ea4f67530faf3]
 
 *Extent: E+W*
 
@@ -83,4 +83,4 @@ and the court officer may make an order accordingly, subject to paragraph (4).
 
 ## Annotations
 
-[^key-ddf433284cb33d8d517ea4f67530faf3]: Textual amendment: [Rule 40.9A](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.9A) inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(3)](https://www.legislation.gov.uk/uksi/2014/407/article/2/3), [16(c)](https://www.legislation.gov.uk/uksi/2014/407/rule/16/c) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/regulation/41/2))
+[^c-ddf433284cb33d8d517ea4f67530faf3]: Textual amendment: [Rule 40.9A](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.9A) inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(3)](https://www.legislation.gov.uk/uksi/2014/407/article/2/3), [16(c)](https://www.legislation.gov.uk/uksi/2014/407/rule/16/c) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/regulation/41/2))

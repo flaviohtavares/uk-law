@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81.[^key-46cf5cbd74a2ec3cf2c2df6857091e05]
+## 81.[^c-46cf5cbd74a2ec3cf2c2df6857091e05]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In point 6.8 for “Union from third” substitute “ United Kingdom from other
 
 ## Annotations
 
-[^key-46cf5cbd74a2ec3cf2c2df6857091e05]: Commencement: Reg. 81 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-46cf5cbd74a2ec3cf2c2df6857091e05]: Commencement: Reg. 81 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

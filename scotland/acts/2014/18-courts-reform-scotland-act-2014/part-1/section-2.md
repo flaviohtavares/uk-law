@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Power to alter sheriffdoms, sheriff court districts and sheriff courts[^key-b849e4444f4602a260efaaaba0916f42]
+## 2. Power to alter sheriffdoms, sheriff court districts and sheriff courts[^c-b849e4444f4602a260efaaaba0916f42]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b849e4444f4602a260efaaaba0916f42]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/18/section/2) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-b849e4444f4602a260efaaaba0916f42]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/18/section/2) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

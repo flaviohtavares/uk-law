@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Dismissal of claim[^key-5f619e2ae061503807453e0098f94640]
+## 28. Dismissal of claim[^c-5f619e2ae061503807453e0098f94640]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f619e2ae061503807453e0098f94640]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2024/1155/rule/28) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-5f619e2ae061503807453e0098f94640]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2024/1155/rule/28) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

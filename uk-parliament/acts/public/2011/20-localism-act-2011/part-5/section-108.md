@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-322aa6bc05ed4f5fbc8777ba7fb51af9] In this Chapter—
+(1)[^c-322aa6bc05ed4f5fbc8777ba7fb51af9] In this Chapter—
 
 - “appropriate authority”—
   - (a) in relation to England means the Secretary of State, and
@@ -36,14 +36,14 @@ summary: ''
 - “**owner**”, in relation to any land, is to read in accordance with section 107;
 - “**unsuccessful**”, in relation to a community nomination, has the meaning given by sections 90(5) and 92(4)(b)(i).
 
-(2)[^key-5c63a8605c469c0b1f80a6542ee35742] For the meaning of “list of assets of community value” see section 87(2).
+(2)[^c-5c63a8605c469c0b1f80a6542ee35742] For the meaning of “list of assets of community value” see section 87(2).
 
-(3)[^key-5c63a8605c469c0b1f80a6542ee35742] For the meaning of “list of land nominated by unsuccessful community nominations” see section 93(2).
+(3)[^c-5c63a8605c469c0b1f80a6542ee35742] For the meaning of “list of land nominated by unsuccessful community nominations” see section 93(2).
 
 ## Annotations
 
 [^c2116566]: Commencement: S. 108 in force for specified purposes at Royal Assent see [s. 240(5)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/f)
 
-[^key-322aa6bc05ed4f5fbc8777ba7fb51af9]: Commencement: S. 108(1) in force at 21.9.2012 for specified purposes for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-322aa6bc05ed4f5fbc8777ba7fb51af9]: Commencement: S. 108(1) in force at 21.9.2012 for specified purposes for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
 
-[^key-5c63a8605c469c0b1f80a6542ee35742]: Commencement: S. 108(2)(3) in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-5c63a8605c469c0b1f80a6542ee35742]: Commencement: S. 108(2)(3) in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)

@@ -35,22 +35,22 @@ concerning the authorisation of betaine anhydrous as a feed additive for food-pr
 
 (Text with EEA relevance) (revoked)
 
-[^key-3ebc05bedea7c446ee206ca396666b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ebc05bedea7c446ee206ca396666b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-3ebc05bedea7c446ee206ca396666b3f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Entry into force[^key-3ebc05bedea7c446ee206ca396666b3f]
+## Article 1. Authorisation[^c-3ebc05bedea7c446ee206ca396666b3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3ebc05bedea7c446ee206ca396666b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Entry into force[^c-3ebc05bedea7c446ee206ca396666b3f]
 
-## ANNEX[^key-3ebc05bedea7c446ee206ca396666b3f]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3ebc05bedea7c446ee206ca396666b3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-3ebc05bedea7c446ee206ca396666b3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3ebc05bedea7c446ee206ca396666b3f]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 304](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/304) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-3ebc05bedea7c446ee206ca396666b3f]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 304](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/304) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

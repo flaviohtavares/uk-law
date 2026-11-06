@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Supplies of water, gas or any form of power, heat, refrigeration or other cooling, or ventilation[^key-d0a47025a3062011387a227da37bc80c][^key-807f2e4ca5a587a5d7eb2b70fb2743d3]
+## 86. Supplies of water, gas or any form of power, heat, refrigeration or other cooling, or ventilation[^c-d0a47025a3062011387a227da37bc80c][^c-807f2e4ca5a587a5d7eb2b70fb2743d3]
 
 *Extent: E+W+S+N.I.*
 
 —
 
-(1) Except in relation to a supply to which sub-paragraphs (1) and (2) of paragraph 28 of Schedule 9ZB to[^key-b86c86014f83ca455cf2ef385edf70e3] the Act apply, and subject to paragraphs (2) and (3) below, a supply of—
+(1) Except in relation to a supply to which sub-paragraphs (1) and (2) of paragraph 28 of Schedule 9ZB to[^c-b86c86014f83ca455cf2ef385edf70e3] the Act apply, and subject to paragraphs (2) and (3) below, a supply of—
 
 - (a) water other than—
   - (i) distilled water, deionised water and water of similar purity, and
   - (ii) water comprised in any of the excepted items set out in Group 1 of Schedule 8 to the Act, or
 - (b) coal gas, water gas, producer gases or similar gases, or
 - (c) petroleum gases, or other gaseous hydrocarbons, in a gaseous state, or
-- (d) any form of power, heat, refrigeration or other cooling,[^key-f70ada1e49f77c49ad7d76c1f3238c50] or ventilation,
+- (d) any form of power, heat, refrigeration or other cooling,[^c-f70ada1e49f77c49ad7d76c1f3238c50] or ventilation,
 
 shall be treated as taking place each time that a payment in respect of the supply is received by the supplier, or a VAT invoice relating to the supply is issued by the supplier, whichever is the earlier.
 
@@ -48,16 +48,16 @@ goods shall be treated as separately and successively supplied each time that pa
 
 (4) Where, on or before any of the dates that a payment is due as stated on an invoice issued as described in paragraph (3) above, there is a change in the VAT chargeable on supplies of the description to which the invoice relates, that invoice shall cease to be treated as a VAT invoice in respect of any such supplies for which payments are due after the change (and not received before the change).
 
-(5)[^key-118a1b0f3c962de80d497d1c568707c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-118a1b0f3c962de80d497d1c568707c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d0a47025a3062011387a227da37bc80c]: Commencement: Reg. 86 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-d0a47025a3062011387a227da37bc80c]: Commencement: Reg. 86 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
 
-[^key-807f2e4ca5a587a5d7eb2b70fb2743d3]: Textual amendment: Words in [reg. 86](https://www.legislation.gov.uk/uksi/1995/2518/regulation/86) heading inserted (1.1.2011) by [The Value Added Tax (Amendment) (No. 4) Regulations 2010 (S.I. 2010/3022)](https://www.legislation.gov.uk/uksi/2010/3022), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/3022/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2010/3022/regulation/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3022/regulation/1/2))
+[^c-807f2e4ca5a587a5d7eb2b70fb2743d3]: Textual amendment: Words in [reg. 86](https://www.legislation.gov.uk/uksi/1995/2518/regulation/86) heading inserted (1.1.2011) by [The Value Added Tax (Amendment) (No. 4) Regulations 2010 (S.I. 2010/3022)](https://www.legislation.gov.uk/uksi/2010/3022), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/3022/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2010/3022/regulation/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3022/regulation/1/2))
 
-[^key-b86c86014f83ca455cf2ef385edf70e3]: Textual amendment: Words in [reg. 86(1)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/86/1) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [29](https://www.legislation.gov.uk/uksi/2021/715/regulation/29)
+[^c-b86c86014f83ca455cf2ef385edf70e3]: Textual amendment: Words in [reg. 86(1)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/86/1) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [29](https://www.legislation.gov.uk/uksi/2021/715/regulation/29)
 
-[^key-f70ada1e49f77c49ad7d76c1f3238c50]: Textual amendment: Words in [reg. 86(1)(d)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/86/1/d) inserted (1.1.2011) by [The Value Added Tax (Amendment) (No. 4) Regulations 2010 (S.I. 2010/3022)](https://www.legislation.gov.uk/uksi/2010/3022), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/3022/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2010/3022/regulation/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3022/regulation/1/2))
+[^c-f70ada1e49f77c49ad7d76c1f3238c50]: Textual amendment: Words in [reg. 86(1)(d)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/86/1/d) inserted (1.1.2011) by [The Value Added Tax (Amendment) (No. 4) Regulations 2010 (S.I. 2010/3022)](https://www.legislation.gov.uk/uksi/2010/3022), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/3022/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2010/3022/regulation/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/3022/regulation/1/2))
 
-[^key-118a1b0f3c962de80d497d1c568707c0]: Textual amendment: [Reg. 86(5)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/86/5) omitted (1.1.2013) by virtue of [The Value Added Tax (Amendment) (No. 3) Regulations 2012 (S.I. 2012/2951)](https://www.legislation.gov.uk/uksi/2012/2951), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2951/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2012/2951/regulation/2/7)
+[^c-118a1b0f3c962de80d497d1c568707c0]: Textual amendment: [Reg. 86(5)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/86/5) omitted (1.1.2013) by virtue of [The Value Added Tax (Amendment) (No. 3) Regulations 2012 (S.I. 2012/2951)](https://www.legislation.gov.uk/uksi/2012/2951), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2951/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2012/2951/regulation/2/7)

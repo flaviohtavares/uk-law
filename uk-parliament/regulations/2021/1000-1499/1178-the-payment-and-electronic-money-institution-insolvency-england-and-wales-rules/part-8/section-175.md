@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 175. Notice of vacation of office when administrator ceases to be qualified[^key-3fe72bca7171c4c7733dc4b4cfae8318]
+## 175. Notice of vacation of office when administrator ceases to be qualified[^c-3fe72bca7171c4c7733dc4b4cfae8318]
 
 *Extent: E+W*
 
 Where the administrator who has ceased to be qualified to act as an insolvency practitioner in relation to the institution gives notice in accordance with paragraph 89, notice must also be given to—
 
 - (a) the registrar of companies, and
-- (b) where the administrator was appointed on the application of the FCA or the Secretary of State, to[^key-0bd97ff3ef2dc40616075c3ded0e0cf2] the applicant.
+- (b) where the administrator was appointed on the application of the FCA or the Secretary of State, to[^c-0bd97ff3ef2dc40616075c3ded0e0cf2] the applicant.
 
 ## Annotations
 
-[^key-3fe72bca7171c4c7733dc4b4cfae8318]: Commencement: Rule 175 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-3fe72bca7171c4c7733dc4b4cfae8318]: Commencement: Rule 175 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
-[^key-0bd97ff3ef2dc40616075c3ded0e0cf2]: Textual amendment: Word in [rule 175(b)](https://www.legislation.gov.uk/uksi/2021/1178/rule/175/b) inserted (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/10)
+[^c-0bd97ff3ef2dc40616075c3ded0e0cf2]: Textual amendment: Word in [rule 175(b)](https://www.legislation.gov.uk/uksi/2021/1178/rule/175/b) inserted (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/10)

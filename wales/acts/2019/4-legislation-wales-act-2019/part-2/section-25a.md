@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25A. References to relevant separation agreement law[^key-fd3a3d6c3489af656b9ba6e8eff2fe0e]
+## 25A. References to relevant separation agreement law[^c-fd3a3d6c3489af656b9ba6e8eff2fe0e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd3a3d6c3489af656b9ba6e8eff2fe0e]: Textual amendment: S. 25A inserted (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/8/3/a)
+[^c-fd3a3d6c3489af656b9ba6e8eff2fe0e]: Textual amendment: S. 25A inserted (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/8/3/a)

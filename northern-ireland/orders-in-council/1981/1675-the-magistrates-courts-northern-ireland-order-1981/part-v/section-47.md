@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Period of remand in custody or in bail[^key-649f30933972bf979e84865b1373e3c5]
+## 47. Period of remand in custody or in bail[^c-649f30933972bf979e84865b1373e3c5]
 
 *Extent: N.I.*
 
 (1) Without prejudice to any other provision of this Order, in adjourning any proceedings for an offence a magistrates' court may remand the accused—
 
-- (a) in custody, that is to say, commit him to custody to be brought at the end of the period of remand before that court or any other magistrates' court [^key-559471b9d2a2f4b1ea7b0bcc4acd8a99]...; or
+- (a) in custody, that is to say, commit him to custody to be brought at the end of the period of remand before that court or any other magistrates' court [^c-559471b9d2a2f4b1ea7b0bcc4acd8a99]...; or
 - (b) on bail, that is to say, take from him a recognizance conditioned for his subsequent appearance before such court;
 
 and may, if the accused is remanded in custody, certify in the prescribed manner its consent to the accused being remanded on bail in accordance with sub-paragraph (b) in which event the court shall fix the amount of the recognizance with a view to its being taken subsequently.
@@ -56,11 +56,11 @@ commencing on the day following that on which the accused is remanded, so, howev
 
 (4E) An accused shall not be committed to detention at a police station under paragraph (4A) unless there is a need for him to be so detained for the purposes of inquiries into other offences; and, if a person is committed to such detention—
 
-- (a) he shall, as soon as that need ceases, be brought back before a magistrates' court[^key-b9609316c9c04b74d11bdbfd1321278d] ;
+- (a) he shall, as soon as that need ceases, be brought back before a magistrates' court[^c-b9609316c9c04b74d11bdbfd1321278d] ;
 - (b) he shall be treated as a person in police detention to whom the duties under Article 40 of the Police and Criminal Evidence (Northern Ireland) Order 1989 (responsibilities in relation to persons detained) relate; and
 - (c) his detention shall be subject to periodic review at the times set out in Article 41 of that Order (review of police detention).
 
-(4F) An accused shall not be committed to the custody (otherwise than at a police station) of a constable under paragraph (4B) unless there is a need for him to be kept in such custody for the purposes of inquiries into other offences; and if a person is committed to such custody, he shall, as soon as that need ceases, be brought back before a magistrates' court[^key-e7f03554759aef02eef2831c20f17ad0] .
+(4F) An accused shall not be committed to the custody (otherwise than at a police station) of a constable under paragraph (4B) unless there is a need for him to be kept in such custody for the purposes of inquiries into other offences; and if a person is committed to such custody, he shall, as soon as that need ceases, be brought back before a magistrates' court[^c-e7f03554759aef02eef2831c20f17ad0] .
 
 (5) The court may order the accused to be brought before it at any time before the expiration of the period for which he has been remanded.
 
@@ -73,9 +73,9 @@ commencing on the day following that on which the accused is remanded, so, howev
 
 ## Annotations
 
-[^key-649f30933972bf979e84865b1373e3c5]: Modification: Art. 47 applied (with modifications) (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [110(8)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/110/8) (with [reg. 110(12)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/110/12))
+[^c-649f30933972bf979e84865b1373e3c5]: Modification: Art. 47 applied (with modifications) (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [110(8)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/110/8) (with [reg. 110(12)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/110/12))
 
-[^key-559471b9d2a2f4b1ea7b0bcc4acd8a99]: Textual amendment: Words in [art. 47(1)(a)](https://www.legislation.gov.uk/nisi/1981/1675/article/47/1/a) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(11)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/11/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-559471b9d2a2f4b1ea7b0bcc4acd8a99]: Textual amendment: Words in [art. 47(1)(a)](https://www.legislation.gov.uk/nisi/1981/1675/article/47/1/a) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(11)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/11/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c20292221]: Modification: Art. 47(2) modified by [Extradition Act 2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), [ss. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2003/41/section/23/3/b), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2003/41/section/89/3/b) (as inserted (15.1.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 42](https://www.legislation.gov.uk/ukpga/2006/48/section/42), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/7)); [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2](https://www.legislation.gov.uk/uksi/2006/3364/article/2)
 
@@ -85,9 +85,9 @@ commencing on the day following that on which the accused is remanded, so, howev
 
 [^c16969621]: Textual amendment: [1991 NI 16](https://www.legislation.gov.uk/nisi/1991)
 
-[^key-b9609316c9c04b74d11bdbfd1321278d]: Textual amendment: Words in [art. 47(4E)(a)](https://www.legislation.gov.uk/nisi/1981/1675/article/47/4E/a) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(11)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/11/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-b9609316c9c04b74d11bdbfd1321278d]: Textual amendment: Words in [art. 47(4E)(a)](https://www.legislation.gov.uk/nisi/1981/1675/article/47/4E/a) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(11)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/11/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-e7f03554759aef02eef2831c20f17ad0]: Textual amendment: Words in [art. 47(4F)](https://www.legislation.gov.uk/nisi/1981/1675/article/47/4F) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(11)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/11/c) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-e7f03554759aef02eef2831c20f17ad0]: Textual amendment: Words in [art. 47(4F)](https://www.legislation.gov.uk/nisi/1981/1675/article/47/4F) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(11)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/11/c) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16969641]: Textual amendment: [1998 NI 9](https://www.legislation.gov.uk/nisi/1998)
 

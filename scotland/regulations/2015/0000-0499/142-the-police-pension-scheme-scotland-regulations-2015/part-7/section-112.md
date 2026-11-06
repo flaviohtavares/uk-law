@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Option to buy out early payment reduction[^key-bf4f64b6b34e67d370eadb71aa898435]
+## 112. Option to buy out early payment reduction[^c-bf4f64b6b34e67d370eadb71aa898435]
 
 *Extent: S*
 
@@ -25,9 +25,9 @@ summary: ''
 - (a) if the member is an active member, the member has not reached normal pension age under this scheme; or
 - (b) if the member is a deferred member, the member has not reached the member’s state pension age.
 
-(2) The member may opt under this regulation to buy out all or part of[^key-7064d84fd277668418b5576b2c821b1a] the early payment reduction that would otherwise apply to the calculation of the annual rate of full retirement pension.
+(2) The member may opt under this regulation to buy out all or part of[^c-7064d84fd277668418b5576b2c821b1a] the early payment reduction that would otherwise apply to the calculation of the annual rate of full retirement pension.
 
-(3) The cost to buy out all or part of the early payment reduction[^key-ff423b04ed6c14720a70a45668392f0c] must be met by way of a special payment to this scheme—
+(3) The cost to buy out all or part of the early payment reduction[^c-ff423b04ed6c14720a70a45668392f0c] must be met by way of a special payment to this scheme—
 
 - (a) made by the member;
 - (b) made by the employer of an active member or a deferred member in eligible service; or
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bf4f64b6b34e67d370eadb71aa898435]: Commencement: Reg. 112 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-bf4f64b6b34e67d370eadb71aa898435]: Commencement: Reg. 112 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-7064d84fd277668418b5576b2c821b1a]: Textual amendment: Words in [reg. 112(2)](https://www.legislation.gov.uk/ssi/2015/142/regulation/112/2) inserted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [53(a)](https://www.legislation.gov.uk/ssi/2019/68/regulation/53/a)
+[^c-7064d84fd277668418b5576b2c821b1a]: Textual amendment: Words in [reg. 112(2)](https://www.legislation.gov.uk/ssi/2015/142/regulation/112/2) inserted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [53(a)](https://www.legislation.gov.uk/ssi/2019/68/regulation/53/a)
 
-[^key-ff423b04ed6c14720a70a45668392f0c]: Textual amendment: Words in [reg. 112(3)](https://www.legislation.gov.uk/ssi/2015/142/regulation/112/3) inserted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [53(b)](https://www.legislation.gov.uk/ssi/2019/68/regulation/53/b)
+[^c-ff423b04ed6c14720a70a45668392f0c]: Textual amendment: Words in [reg. 112(3)](https://www.legislation.gov.uk/ssi/2015/142/regulation/112/3) inserted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [53(b)](https://www.legislation.gov.uk/ssi/2019/68/regulation/53/b)

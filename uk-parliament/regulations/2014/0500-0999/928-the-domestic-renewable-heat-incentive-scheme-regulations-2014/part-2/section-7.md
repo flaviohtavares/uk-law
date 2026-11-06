@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Installation requirements[^key-f7ff3a29400ce20a567219506132db44]
+## 7. Installation requirements[^c-f7ff3a29400ce20a567219506132db44]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The requirements referred to in regulation 3(b) are that, on the RHI date for th
 
 ## Annotations
 
-[^key-f7ff3a29400ce20a567219506132db44]: Commencement: Reg. 7 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-f7ff3a29400ce20a567219506132db44]: Commencement: Reg. 7 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Notice of hearing[^key-a70be7304a041e557fd9f4aa417a1384]
+## 27. Notice of hearing[^c-a70be7304a041e557fd9f4aa417a1384]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a70be7304a041e557fd9f4aa417a1384]: Commencement: Reg. 27 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-a70be7304a041e557fd9f4aa417a1384]: Commencement: Reg. 27 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

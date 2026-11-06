@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Protective work to buildings[^key-07d3bf3d91ed953c2dee0556c1957476]
+## 17. Protective work to buildings[^c-07d3bf3d91ed953c2dee0556c1957476]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ the Secretary of State must compensate the owners and occupiers of the building 
 
 ## Annotations
 
-[^key-07d3bf3d91ed953c2dee0556c1957476]: Commencement: Art. 17 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-07d3bf3d91ed953c2dee0556c1957476]: Commencement: Art. 17 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
 
 [^f00030]: Footnote: As amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

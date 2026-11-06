@@ -31,7 +31,7 @@ summary: ''
 
 Ecclesiastical Law, England
 
-The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2019 (revoked)[^key-ca8aedf858da74480291632b59ae5800]
+The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2019 (revoked)[^c-ca8aedf858da74480291632b59ae5800]
 
 Made
 
@@ -45,80 +45,80 @@ Coming into force
 
 1st January 2020
 
-[^key-ca8aedf858da74480291632b59ae5800]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca8aedf858da74480291632b59ae5800]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-ca8aedf858da74480291632b59ae5800]
+## 1. Citation, commencement and interpretation[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Direction as to fee[^key-ca8aedf858da74480291632b59ae5800]
+## 2. Direction as to fee[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Faculty fees payable to diocesan boards of finance[^key-ca8aedf858da74480291632b59ae5800]
+## 3. Faculty fees payable to diocesan boards of finance[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The register of patrons under Part 1 of the Patronage (Benefices) Measure 1986[^key-ca8aedf858da74480291632b59ae5800]
+## 4. The register of patrons under Part 1 of the Patronage (Benefices) Measure 1986[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Proceedings before the consistory court[^key-ca8aedf858da74480291632b59ae5800]
+## 5. Proceedings before the consistory court[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Appeals from consistory court and intervention by provincial court[^key-ca8aedf858da74480291632b59ae5800]
+## 6. Appeals from consistory court and intervention by provincial court[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Proceedings on review by Commission of Review[^key-ca8aedf858da74480291632b59ae5800]
+## 7. Proceedings on review by Commission of Review[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Proceedings in Vicar-General's court[^key-ca8aedf858da74480291632b59ae5800]
+## 8. Proceedings in Vicar-General's court[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Proceedings on certain ecclesiastical offences[^key-ca8aedf858da74480291632b59ae5800]
+## 9. Proceedings on certain ecclesiastical offences[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Proceedings on review of finding of Court of Ecclesiastical Causes Reserved[^key-ca8aedf858da74480291632b59ae5800]
+## 10. Proceedings on review of finding of Court of Ecclesiastical Causes Reserved[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Disciplinary proceedings under the Clergy Discipline Measure 2003[^key-ca8aedf858da74480291632b59ae5800]
+## 11. Disciplinary proceedings under the Clergy Discipline Measure 2003[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Appeals under the Clergy Discipline Measure 2003[^key-ca8aedf858da74480291632b59ae5800]
+## 12. Appeals under the Clergy Discipline Measure 2003[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Miscellaneous annual fees etc.[^key-ca8aedf858da74480291632b59ae5800]
+## 13. Miscellaneous annual fees etc.[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Travel, subsistence, accommodation and court hearings[^key-ca8aedf858da74480291632b59ae5800]
+## 14. Travel, subsistence, accommodation and court hearings[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Value Added Tax[^key-ca8aedf858da74480291632b59ae5800]
+## 15. Value Added Tax[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Revocation[^key-ca8aedf858da74480291632b59ae5800]
+## 16. Revocation[^c-ca8aedf858da74480291632b59ae5800]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ca8aedf858da74480291632b59ae5800]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca8aedf858da74480291632b59ae5800]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ca8aedf858da74480291632b59ae5800]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca8aedf858da74480291632b59ae5800]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ca8aedf858da74480291632b59ae5800]: Textual amendment: Order revoked (1.1.2021) by [The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2020 (S.I. 2020/1539)](https://www.legislation.gov.uk/uksi/2020/1539), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1539/article/1/2), [16](https://www.legislation.gov.uk/uksi/2020/1539/article/16) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2020/1539/article/1/3))
+[^c-ca8aedf858da74480291632b59ae5800]: Textual amendment: Order revoked (1.1.2021) by [The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2020 (S.I. 2020/1539)](https://www.legislation.gov.uk/uksi/2020/1539), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1539/article/1/2), [16](https://www.legislation.gov.uk/uksi/2020/1539/article/16) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2020/1539/article/1/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 13. Transmission of copies of scheme or order[^key-8ed86edab4e419e598930f415644492d]
+## 13. Transmission of copies of scheme or order[^c-8ed86edab4e419e598930f415644492d]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ed86edab4e419e598930f415644492d]: Commencement: S. 13 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-8ed86edab4e419e598930f415644492d]: Commencement: S. 13 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

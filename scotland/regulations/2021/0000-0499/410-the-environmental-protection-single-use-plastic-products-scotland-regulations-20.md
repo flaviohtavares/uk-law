@@ -50,13 +50,13 @@ In accordance with section 140(6) of that Act[^f00002], they have published noti
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-02bef7ed21e25baedffdbc44037f6e76]
+### 1. Citation, commencement and extent[^c-02bef7ed21e25baedffdbc44037f6e76]
 
 (1) These Regulations may be cited as the Environmental Protection (Single-use Plastic Products) (Scotland) Regulations 2021 and come into force on 1 June 2022.
 
 (2) These Regulations extend to Scotland only.
 
-### 2. Interpretation[^key-d0f8b0b45c675337bf941a23252df1c8]
+### 2. Interpretation[^c-d0f8b0b45c675337bf941a23252df1c8]
 
 In these Regulations—
 
@@ -109,7 +109,7 @@ In these Regulations—
 
 ## PART 2 — Single-use plastic products and single-use expanded polystyrene products
 
-### 3. Offences: single-use plastic products and single-use expanded polystyrene products[^key-c27e491c9e7599b257ea92489c53ba4e]
+### 3. Offences: single-use plastic products and single-use expanded polystyrene products[^c-c27e491c9e7599b257ea92489c53ba4e]
 
 (1) A person who, in the course of a business, supplies, offers to supply, or has in their possession for supply any of the products referred to in paragraph (4) commits an offence.
 
@@ -128,7 +128,7 @@ In these Regulations—
 
 (5) A person who commits an offence under paragraph (1), (2) or (3) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 4. Offence: single-use plastic balloon sticks[^key-a70eafa9c7e308fcc145ac2c469d4fbf]
+### 4. Offence: single-use plastic balloon sticks[^c-a70eafa9c7e308fcc145ac2c469d4fbf]
 
 (1) A person who, in the course of a business, supplies, offers to supply, or has in their possession for supply a single-use plastic balloon stick commits an offence.
 
@@ -136,7 +136,7 @@ In these Regulations—
 
 (3) A person who commits an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 5. Offence: single-use plastic straws[^key-f183a50ac0d394e1d1870ae66d882663]
+### 5. Offence: single-use plastic straws[^c-f183a50ac0d394e1d1870ae66d882663]
 
 (1) A person who, in the course of a business, supplies, offers to supply, or has in their possession for supply, to an end-user, a single-use plastic straw commits an offence.
 
@@ -144,7 +144,7 @@ In these Regulations—
 
 (3) A person who commits an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 6. Exemption: medical devices and medical purposes[^key-f621814a89ad6eb4aa99f97a3f8129d5]
+### 6. Exemption: medical devices and medical purposes[^c-f621814a89ad6eb4aa99f97a3f8129d5]
 
 (1) Regulation 5(1) does not apply to the supply of a single-use plastic straw—
 
@@ -158,7 +158,7 @@ In these Regulations—
 
 (3) This regulation does not apply to the supply of a single-use plastic straw by a retail pharmacy business or by a catering establishment.
 
-### 7. Exemption: retail pharmacy business[^key-e398fb3d3600f65e363b6bfd3773ec10]
+### 7. Exemption: retail pharmacy business[^c-e398fb3d3600f65e363b6bfd3773ec10]
 
 (1) Regulation 5(1) does not apply to the supply of a single-use plastic straw by a retail pharmacy business in the cases referred to in paragraph (2), provided that the conditions in paragraph (3) are complied with.
 
@@ -180,7 +180,7 @@ In these Regulations—
 
 (6) In this regulation, “registered pharmacy” and “retail pharmacy business” have the meanings given in regulation 8(1) of the Human Medicines Regulations 2012[^f00006].
 
-### 8. Exemption: catering establishments[^key-fc31a80c018efeb324f33aaa18362541]
+### 8. Exemption: catering establishments[^c-fc31a80c018efeb324f33aaa18362541]
 
 (1) Regulation 5(1) does not apply to the supply by a catering establishment of a single-use plastic straw together with food or drink which is supplied for immediate consumption, provided that the conditions in paragraph (2) are complied with.
 
@@ -191,7 +191,7 @@ In these Regulations—
 
 (3) In this regulation, “catering establishment” means a restaurant, canteen, club, public house or similar establishment (including a vehicle or a fixed or mobile stall) which supplies food or drink that is ready for consumption without further preparation.
 
-### 9. Exemption: other establishments[^key-e26b741eb921b62a8a10052bfc9a5f7d]
+### 9. Exemption: other establishments[^c-e26b741eb921b62a8a10052bfc9a5f7d]
 
 (1) Regulation 5(1) does not apply to the supply of a single-use plastic straw in a—
 
@@ -211,7 +211,7 @@ In these Regulations—
   - (ii) a young offenders institution within the meaning of section 19(1)(b) of that Act[^f00011], and
 - (f) “school” has the meaning given in section 135(1) of the Education (Scotland) Act 1980[^f00012].
 
-### 10. Exemption: support service which provides personal care or personal support[^key-a398980de37655259f2344153c56b68a]
+### 10. Exemption: support service which provides personal care or personal support[^c-a398980de37655259f2344153c56b68a]
 
 (1) Regulation 5(1) does not apply to the supply of a single-use plastic straw for use in the course of a support service which provides personal care or personal support.
 
@@ -220,7 +220,7 @@ In these Regulations—
 - “personal care” and “personal support” have the meanings given in paragraph 20 of schedule 12 of the Public Services Reform (Scotland) Act 2010, and
 - “support service” has the meaning given in paragraph 1 of schedule 12 of the Public Services Reform (Scotland) Act 2010[^f00013].
 
-### 11. Exemption: packaging[^key-2070cc5c88a824e8c10adaf411b8d62f]
+### 11. Exemption: packaging[^c-2070cc5c88a824e8c10adaf411b8d62f]
 
 (1) Regulation 5(1) does not apply to the supply of a single-use plastic straw that is packaging.
 
@@ -228,7 +228,7 @@ In these Regulations—
 
 ## PART 3 — Offences by bodies corporate, defence of due diligence and enforcement
 
-### 12. Offences by bodies corporate[^key-1fadf1499d5edfd4fb92614c4910ead3]
+### 12. Offences by bodies corporate[^c-1fadf1499d5edfd4fb92614c4910ead3]
 
 (1) Where—
 
@@ -247,19 +247,19 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 - (b) in relation to a Scottish partnership, a partner,
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-### 13. Defence of due diligence[^key-04fa8459cb00d264affba3e14eb87bb5]
+### 13. Defence of due diligence[^c-04fa8459cb00d264affba3e14eb87bb5]
 
 (1) Where a person is charged with an offence under these Regulations, it is a defence for that person to show that the person took all reasonable precautions and exercised all due diligence to prevent the offence being committed.
 
 (2) Where the defence provided by paragraph (1) involves an allegation that the commission of the offence was due to the act or omission of another person, the person charged must not, without leave of the court, be entitled to rely on the defence unless, within the period of 7 days before the hearing, the person charged has served on the prosecutor a notice giving such information identifying or assisting in the identification of the other person as was then in the possession of the person charged.
 
-### 14. Enforcement[^key-fc036ac797f77300ea8bbde95f9f951d]
+### 14. Enforcement[^c-fc036ac797f77300ea8bbde95f9f951d]
 
 (1) A local authority may authorise any person to exercise in its area, for an authorised purpose and in accordance with the terms of the authorisation, any of the powers specified in regulation 15, if that person appears suitable to exercise them.
 
 (2) An authorisation under paragraph (1) must be in writing.
 
-### 15. Powers of entry and examination etc.[^key-f77df020f68968e516d7da72fcdefb2f]
+### 15. Powers of entry and examination etc.[^c-f77df020f68968e516d7da72fcdefb2f]
 
 (1) The powers which an enforcement officer may be authorised to exercise are—
 
@@ -324,7 +324,7 @@ the sheriff, summary sheriff or justice of the peace may by warrant authorise th
 
 and that immediate entry to any premises is necessary to verify the existence of that risk or those circumstances or to ascertain the cause of that risk or those circumstances or to effect a remedy.
 
-### 16. Power to give a fixed penalty notice[^key-e819fb72afeb278cce1521b5d309247b]
+### 16. Power to give a fixed penalty notice[^c-e819fb72afeb278cce1521b5d309247b]
 
 (1) An enforcement officer may, if having reason to believe that a person is committing or has committed an offence under regulations 3(1), (2) or (3), 4(1) or 5(1) of these Regulations, give that person a fixed penalty notice.
 
@@ -426,31 +426,31 @@ A Business Regulatory Impact Assessment has been prepared and placed in the Scot
 
 [^f00002]: Footnote: The requirement to consult the Advisory Committee on Hazardous Substances, formerly established under section 140(5) of the Environmental Protection Act 1990, was removed by [S.I. 2012/1923](https://www.legislation.gov.uk/uksi/2012/1923).
 
-[^key-02bef7ed21e25baedffdbc44037f6e76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/410/regulation/1) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
+[^c-02bef7ed21e25baedffdbc44037f6e76]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/410/regulation/1) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
 
-[^key-d0f8b0b45c675337bf941a23252df1c8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/410/regulation/2) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
+[^c-d0f8b0b45c675337bf941a23252df1c8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/410/regulation/2) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
 
 [^f00003]: Footnote: [1994 c. 43](https://www.legislation.gov.uk/ukpga/1994/43). Section 2 was amended by paragraph 232(1) of schedule 22 of the Environment Act [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
 [^f00004]: Footnote: [EUR 206/1907](https://www.legislation.gov.uk/european/regulation/2006/1907), to which there are amendments not relevant to these Regulations.
 
-[^key-c27e491c9e7599b257ea92489c53ba4e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/410/regulation/3) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
+[^c-c27e491c9e7599b257ea92489c53ba4e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/410/regulation/3) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
 
-[^key-a70eafa9c7e308fcc145ac2c469d4fbf]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/410/regulation/4) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
+[^c-a70eafa9c7e308fcc145ac2c469d4fbf]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/410/regulation/4) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
 
-[^key-f183a50ac0d394e1d1870ae66d882663]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/410/regulation/5) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
+[^c-f183a50ac0d394e1d1870ae66d882663]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/410/regulation/5) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
 
-[^key-f621814a89ad6eb4aa99f97a3f8129d5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/410/regulation/6) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
+[^c-f621814a89ad6eb4aa99f97a3f8129d5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/410/regulation/6) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618), as relevantly amended by [S.I. 2008/2936](https://www.legislation.gov.uk/uksi/2008/2936).
 
-[^key-e398fb3d3600f65e363b6bfd3773ec10]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/410/regulation/7) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
+[^c-e398fb3d3600f65e363b6bfd3773ec10]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/410/regulation/7) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), to which there are amendments not relevant to these Regulations.
 
-[^key-fc31a80c018efeb324f33aaa18362541]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/410/regulation/8) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
+[^c-fc31a80c018efeb324f33aaa18362541]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/410/regulation/8) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
 
-[^key-e26b741eb921b62a8a10052bfc9a5f7d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/410/regulation/9) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
+[^c-e26b741eb921b62a8a10052bfc9a5f7d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/410/regulation/9) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
 
 [^f00007]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
@@ -464,20 +464,20 @@ A Business Regulatory Impact Assessment has been prepared and placed in the Scot
 
 [^f00012]: Footnote: The definition of “school” was amended by schedule 3 of the Standards in Scotland’s Schools etc. Act [2000 asp 6](https://www.legislation.gov.uk/asp/2000/6) and the section 2(2) of the Registered Establishments (Scotland) Act [1987 c. 4](https://www.legislation.gov.uk/ukpga/1987/4).
 
-[^key-a398980de37655259f2344153c56b68a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/410/regulation/10) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
+[^c-a398980de37655259f2344153c56b68a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/410/regulation/10) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
 
 [^f00013]: Footnote: The definition of “support service” is modified by [S.S.I. 2012/44](https://www.legislation.gov.uk/ssi/2012/44).
 
-[^key-2070cc5c88a824e8c10adaf411b8d62f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2021/410/regulation/11) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
+[^c-2070cc5c88a824e8c10adaf411b8d62f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2021/410/regulation/11) in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 2015/1640](https://www.legislation.gov.uk/uksi/2015/1640), to which there are amendments not relevant to these Regulations.
 
-[^key-1fadf1499d5edfd4fb92614c4910ead3]: Commencement: Reg. 12 in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
+[^c-1fadf1499d5edfd4fb92614c4910ead3]: Commencement: Reg. 12 in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
 
-[^key-04fa8459cb00d264affba3e14eb87bb5]: Commencement: Reg. 13 in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
+[^c-04fa8459cb00d264affba3e14eb87bb5]: Commencement: Reg. 13 in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
 
-[^key-fc036ac797f77300ea8bbde95f9f951d]: Commencement: Reg. 14 in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
+[^c-fc036ac797f77300ea8bbde95f9f951d]: Commencement: Reg. 14 in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
 
-[^key-f77df020f68968e516d7da72fcdefb2f]: Commencement: Reg. 15 in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
+[^c-f77df020f68968e516d7da72fcdefb2f]: Commencement: Reg. 15 in force at 1.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/410/regulation/1/1)
 
-[^key-e819fb72afeb278cce1521b5d309247b]: Textual amendment: Regs. 16-18 inserted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2025/28/regulation/5/2)
+[^c-e819fb72afeb278cce1521b5d309247b]: Textual amendment: Regs. 16-18 inserted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2025/28/regulation/5/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Searches of indexes kept by superintendent registrars.[^key-41eb71b097b8fcfa3316aa757cc75850]
+## 64. Searches of indexes kept by superintendent registrars.[^c-41eb71b097b8fcfa3316aa757cc75850]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41eb71b097b8fcfa3316aa757cc75850]: Textual amendment: S. 64 substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/37) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-41eb71b097b8fcfa3316aa757cc75850]: Textual amendment: S. 64 substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/37) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))

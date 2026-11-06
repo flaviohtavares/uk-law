@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Temporary stopping up of streets[^key-6c0997224b71969cd7a420a46dc00929]
+## 13. Temporary stopping up of streets[^c-6c0997224b71969cd7a420a46dc00929]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c0997224b71969cd7a420a46dc00929]: Commencement: Art. 13 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-6c0997224b71969cd7a420a46dc00929]: Commencement: Art. 13 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)

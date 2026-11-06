@@ -32,14 +32,14 @@ summary: ''
 
 (4) The consent of the Secretary of State is not required for the disposal of land which is or forms part of property to which this section applies where the disposal is in consequence of the compulsory acquisition of such land by any authority in pursuance of any power of compulsory acquisition under any enactment; but the board of management shall inform the Secretary of State of any such compulsory acquisition.
 
-(5) Where any property to which this section applies is disposed of, the board of management shall pay to such educational charity as the Scottish Ministers may direct,[^key-94a2bc87eaeba7902b56a3e3d5c75a7e] such portion of the proceeds or value of the consideration for the disposal, after deduction of such expenses as appear to the Secretary of State to have been reasonably incurred in the disposal, as the Secretary of State may, after consultation with the board, determine.
+(5) Where any property to which this section applies is disposed of, the board of management shall pay to such educational charity as the Scottish Ministers may direct,[^c-94a2bc87eaeba7902b56a3e3d5c75a7e] such portion of the proceeds or value of the consideration for the disposal, after deduction of such expenses as appear to the Secretary of State to have been reasonably incurred in the disposal, as the Secretary of State may, after consultation with the board, determine.
 
-(6)[^key-1501e85876909cae3e2bf55d8c39eb08] In this section, “educational charity” means a body entered in the Scottish Charity Register which has the advancement of education as one of its charitable purposes.
+(6)[^c-1501e85876909cae3e2bf55d8c39eb08] In this section, “educational charity” means a body entered in the Scottish Charity Register which has the advancement of education as one of its charitable purposes.
 
 ## Annotations
 
 [^c1309658]: Commencement: S. 18 wholly in force at 16.5.1992 see s. 63(2) and [S.I. 1992/817](https://www.legislation.gov.uk/uksi/1992/817), [art. 3(2)](https://www.legislation.gov.uk/uksi/1992/817/article/3/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1992/817/schedule/1)
 
-[^key-94a2bc87eaeba7902b56a3e3d5c75a7e]: Textual amendment: Words in s. 18(5) substituted (9.3.2009) by [Further and Higher Education (Scotland) Act 1992 Modification Order 2009 (S.S.I. 2009/28)](https://www.legislation.gov.uk/ssi/2009/28), [arts. 1](https://www.legislation.gov.uk/ssi/2009/28/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2009/28/article/2/a)
+[^c-94a2bc87eaeba7902b56a3e3d5c75a7e]: Textual amendment: Words in s. 18(5) substituted (9.3.2009) by [Further and Higher Education (Scotland) Act 1992 Modification Order 2009 (S.S.I. 2009/28)](https://www.legislation.gov.uk/ssi/2009/28), [arts. 1](https://www.legislation.gov.uk/ssi/2009/28/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2009/28/article/2/a)
 
-[^key-1501e85876909cae3e2bf55d8c39eb08]: Textual amendment: S. 18(6) inserted (9.3.2009) by [Further and Higher Education (Scotland) Act 1992 Modification Order 2009 (S.S.I. 2009/28)](https://www.legislation.gov.uk/ssi/2009/28), [arts. 1](https://www.legislation.gov.uk/ssi/2009/28/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2009/28/article/2/b)
+[^c-1501e85876909cae3e2bf55d8c39eb08]: Textual amendment: S. 18(6) inserted (9.3.2009) by [Further and Higher Education (Scotland) Act 1992 Modification Order 2009 (S.S.I. 2009/28)](https://www.legislation.gov.uk/ssi/2009/28), [arts. 1](https://www.legislation.gov.uk/ssi/2009/28/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2009/28/article/2/b)

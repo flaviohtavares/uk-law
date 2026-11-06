@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Penalty notices[^key-d74f9e8bcf27a66cb1be1903c65a962f][^key-2cf79ce637a36966178699f493f18925]
+## 60. Penalty notices[^c-d74f9e8bcf27a66cb1be1903c65a962f][^c-2cf79ce637a36966178699f493f18925]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d74f9e8bcf27a66cb1be1903c65a962f]: Commencement: S. 60 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-d74f9e8bcf27a66cb1be1903c65a962f]: Commencement: S. 60 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-2cf79ce637a36966178699f493f18925]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2025/28/section/60) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-2cf79ce637a36966178699f493f18925]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2025/28/section/60) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

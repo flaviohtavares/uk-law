@@ -31,10 +31,10 @@ Commission Regulation (EC) No 2032/2000
 
 of 27 September 2000 on the nomenclature of countries and territories for the external trade statistics of the Community and statistics of trade between Member States (Text with EEA relevance) (revoked)
 
-[^key-f1cb14b7b733b6a7dee88080e077e35f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1cb14b7b733b6a7dee88080e077e35f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-f1cb14b7b733b6a7dee88080e077e35f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-f1cb14b7b733b6a7dee88080e077e35f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f1cb14b7b733b6a7dee88080e077e35f]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/28)
+[^c-f1cb14b7b733b6a7dee88080e077e35f]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/28)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Grants and loans[^key-06b1f4dc525faa9ab8284eacd78c741b]
+## 39. Grants and loans[^c-06b1f4dc525faa9ab8284eacd78c741b]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06b1f4dc525faa9ab8284eacd78c741b]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2010/8/section/39) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)
+[^c-06b1f4dc525faa9ab8284eacd78c741b]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2010/8/section/39) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 16. Joint boundary committees[^key-1fb6c0238bbcebbb02e2028a5c2855b0]
+## 16. Joint boundary committees[^c-1fb6c0238bbcebbb02e2028a5c2855b0]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fb6c0238bbcebbb02e2028a5c2855b0]: Commencement: S. 16 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-1fb6c0238bbcebbb02e2028a5c2855b0]: Commencement: S. 16 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

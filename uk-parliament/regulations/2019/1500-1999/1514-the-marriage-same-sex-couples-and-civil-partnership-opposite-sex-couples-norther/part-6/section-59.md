@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Superannuation (Miscellaneous Provisions) Act (Northern Ireland) 1969[^key-953908576fed09a4401acd0d938eb736]
+## 59. Superannuation (Miscellaneous Provisions) Act (Northern Ireland) 1969[^c-953908576fed09a4401acd0d938eb736]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-953908576fed09a4401acd0d938eb736]: Commencement: Reg. 59 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-953908576fed09a4401acd0d938eb736]: Commencement: Reg. 59 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00085]: Footnote: [1969 c.7 (N.I.)](https://www.legislation.gov.uk/apni/1969/7).

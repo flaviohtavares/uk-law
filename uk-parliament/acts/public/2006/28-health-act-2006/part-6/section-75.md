@@ -41,10 +41,10 @@ summary: ''
 
 - “**amendments**” includes repeals, revocations and modifications;
 - “**the Assembly**” means the National Assembly for Wales;
-- “**relevant directions**” means directions given in regulations made under section 16BB of the National Health Service Act 1977 (c. 49) or section 12 of the National Health Service (Wales) Act 2006[^key-0b73ac053e49f5c2204b698459957c0f];
+- “**relevant directions**” means directions given in regulations made under section 16BB of the National Health Service Act 1977 (c. 49) or section 12 of the National Health Service (Wales) Act 2006[^c-0b73ac053e49f5c2204b698459957c0f];
 - “**transferred function**” means a function transferred to the Assembly by the Health Authorities (Transfer of Functions, Staff, Property, Rights and Liabilities and Abolition) (Wales) Order 2003 (S.I. 2003/813 (W. 98));
 - “**Welsh health authority**” means a Health Authority for an area in, or consisting of, Wales.
 
 ## Annotations
 
-[^key-0b73ac053e49f5c2204b698459957c0f]: Textual amendment: Words in s. 75(5) inserted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 288](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/288) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-0b73ac053e49f5c2204b698459957c0f]: Textual amendment: Words in s. 75(5) inserted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 288](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/288) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))

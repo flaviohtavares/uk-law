@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Transitional and saving provisions[^key-22ca4a7230e1dc229a0f3355e75acfa9]
+## 30. Transitional and saving provisions[^c-22ca4a7230e1dc229a0f3355e75acfa9]
 
 *Extent: S*
 
@@ -37,7 +37,7 @@ continues in force after the relevant date, the holder of that licence does not 
 
 ## Annotations
 
-[^key-22ca4a7230e1dc229a0f3355e75acfa9]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2021/84/regulation/30) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-22ca4a7230e1dc229a0f3355e75acfa9]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2021/84/regulation/30) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
 [^f00010]: Footnote: [1951 c.35](https://www.legislation.gov.uk/ukpga/1951/35) (14 & 15 Geo 6).
 

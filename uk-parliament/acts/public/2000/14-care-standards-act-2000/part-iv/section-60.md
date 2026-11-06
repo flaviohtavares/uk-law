@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Rules about registration.[^key-862c7d29b7cbe1c1e265027d8b8b7703]
+## 60. Rules about registration.[^c-862c7d29b7cbe1c1e265027d8b8b7703]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-862c7d29b7cbe1c1e265027d8b8b7703]: Textual amendment: Ss. 56-66 repealed (3.4.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 41(a)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/41/a); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-862c7d29b7cbe1c1e265027d8b8b7703]: Textual amendment: Ss. 56-66 repealed (3.4.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 41(a)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/41/a); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

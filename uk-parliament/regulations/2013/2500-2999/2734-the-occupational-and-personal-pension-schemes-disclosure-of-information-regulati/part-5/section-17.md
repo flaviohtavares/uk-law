@@ -70,7 +70,7 @@ summary: ''
 
 (10) For the purposes of paragraph (6), a part of an occupational pension scheme that provides additional money purchase benefits where the member pays voluntary contributions to that part is to be treated as a separate scheme from any other part of that scheme.
 
-(11)[^key-7a741f39528460fadb90becfc4bc5bfa] Paragraph (12) applies where—
+(11)[^c-7a741f39528460fadb90becfc4bc5bfa] Paragraph (12) applies where—
 
 - (a) information must be given in accordance with this regulation by the trustees or managers of an automatic enrolment scheme to a member, and
 - (b) the automatic enrolment scheme is a scheme under which all the benefits which may be payable are money purchase benefits.
@@ -92,4 +92,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a741f39528460fadb90becfc4bc5bfa]: Textual amendment: [Reg. 17(11)-(15)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/17/11) inserted (1.10.2022) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Statements of Benefits: Money Purchase Benefits) (Amendment) Regulations 2021 (S.I. 2021/1150)](https://www.legislation.gov.uk/uksi/2021/1150), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1150/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1150/regulation/2/2)
+[^c-7a741f39528460fadb90becfc4bc5bfa]: Textual amendment: [Reg. 17(11)-(15)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/17/11) inserted (1.10.2022) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Statements of Benefits: Money Purchase Benefits) (Amendment) Regulations 2021 (S.I. 2021/1150)](https://www.legislation.gov.uk/uksi/2021/1150), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1150/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1150/regulation/2/2)

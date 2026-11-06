@@ -249,7 +249,7 @@ Section 48.
 
 *Extent: E+W*
 
-**39.**[^key-579a63db369ed5c34392deed8d61bad6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-579a63db369ed5c34392deed8d61bad6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Coroners Act 1988 (c.13)
 
@@ -497,7 +497,7 @@ and after the entry for “Type approval requirements” there shall be inserted
 
 .
 
-(5)[^key-d6216458f3291d0b7837a8a44e85a048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d6216458f3291d0b7837a8a44e85a048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) After paragraph (l) there shall be added—
 
@@ -633,9 +633,9 @@ and after the entry for “Type approval requirements” there shall be inserted
 
 (4) Subsection (3) shall be omitted.
 
-**93.**[^key-7097304990af15922e38d9a789de3abd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**93.**[^c-7097304990af15922e38d9a789de3abd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**94.**[^key-6d9ea6cc1a51dbf7725982263f567610] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**94.**[^c-6d9ea6cc1a51dbf7725982263f567610] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **95.**[^c10863831] (1) Section 35 of that Act (disqualification for repeated offences) shall be amended as follows.
 
@@ -676,11 +676,11 @@ and after the entry for “Type approval requirements” there shall be inserted
 >
 > (5B) A notice under subsection (5A) above must be sent in such manner and to such address, and must contain such particulars, as the Secretary of State may determine.
 
-**99.**[^key-4f336f6ab8e0278d4e234b2372478947] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**99.**[^c-4f336f6ab8e0278d4e234b2372478947] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **100.**[^c10863881] (1) Section 47 of that Act (supplementary provisions as to disqualifications and endorsements) shall be amended as follows.
 
-(2)[^key-533fd4136e625e01be4627ce9f4130e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-533fd4136e625e01be4627ce9f4130e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (3), for the words “any such order” there shall be substituted the words “ an order for the endorsement of a licence or the disqualification of a person ”.
 
@@ -719,13 +719,13 @@ and after the entry for “Type approval requirements” there shall be inserted
 
 **103.**[^c10863921] (1) Section 54 of that Act (power to give fixed penalty notices on the spot or at a police station exercisable only if offender would not if convicted be liable to disqualification under section 35) shall be amended as follows.
 
-(2) In subsection (1), after the word “where”, there shall be inserted the words “ in England and Wales ”. *(affected by repeal, see note)*[^key-4758be9255d480820f5b4c28a3f128fe]
+(2) In subsection (1), after the word “where”, there shall be inserted the words “ in England and Wales ”. *(affected by repeal, see note)*[^c-4758be9255d480820f5b4c28a3f128fe]
 
 (3) After subsection (9) there shall be added—
 
 > (10) In determining for the purposes of subsections (3)(b) and (5)(a) above whether a person convicted of an offence would be liable to disqualification under section 35, it shall be assumed, in the case of an offence in relation to which a range of numbers is shown in the last column of Part I of Schedule 2 to this Act, that the number of penalty points to be attributed to the offence would be the lowest in the range.
 
-**104.**[^key-746eb52437fa4ed662637dded76212d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**104.**[^c-746eb52437fa4ed662637dded76212d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **105.**[^c10863941] In section 69(4) of that Act (references to fixed penalty clerk) after the words “of this Act” there shall be inserted the words “ (except in sections 75 to 77) ”.
 
@@ -862,7 +862,7 @@ and after the entry for “Type approval requirements” there shall be inserted
 
 [^c10863161]: Commencement: Sch. 4 para. 38 wholly in force at 1.7.1992 see s. 84 and [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 
-[^key-579a63db369ed5c34392deed8d61bad6]: Textual amendment: Sch. 4 para. 39 repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-579a63db369ed5c34392deed8d61bad6]: Textual amendment: Sch. 4 para. 39 repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
 
 [^c10863191]: Commencement: Sch. 4 para. 40 wholly in force at 1.7.1992 see s. 84 and [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 
@@ -932,7 +932,7 @@ and after the entry for “Type approval requirements” there shall be inserted
 
 [^c10863541]: Commencement: Sch. 4 para. 73 wholly in force: Sch. 4 para. 73(2)(3) in force and para. 73(1) in force for certain purposes at 1.4.1992 see s. 84 and [S.I. 1992/421](https://www.legislation.gov.uk/uksi/1992/421), [art. 2](https://www.legislation.gov.uk/uksi/1992/421/article/2),Sch.; Sch. 4 para. 73 wholly in force at 1.7.1992 by [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 
-[^key-d6216458f3291d0b7837a8a44e85a048]: Textual amendment: Sch. 4 para. 73(5) repealed (24.9.2007) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(13)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/13); [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(n)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/n)
+[^c-d6216458f3291d0b7837a8a44e85a048]: Textual amendment: Sch. 4 para. 73(5) repealed (24.9.2007) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(13)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/13); [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(n)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/n)
 
 [^c10863551]: Commencement: Sch. 4 para. 74 wholly in force at 1.7.1992 see s. 84 and [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 
@@ -980,9 +980,9 @@ and after the entry for “Type approval requirements” there shall be inserted
 
 [^c10863801]: Commencement: Sch. 4 para. 92 wholly in force at 1.7.1992 see s. 84 and [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 
-[^key-7097304990af15922e38d9a789de3abd]: Textual amendment: Sch. 4 para. 93 repealed (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(8)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/8)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(3)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/3); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/c)
+[^c-7097304990af15922e38d9a789de3abd]: Textual amendment: Sch. 4 para. 93 repealed (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(8)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/8)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(3)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/3); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/c)
 
-[^key-6d9ea6cc1a51dbf7725982263f567610]: Textual amendment: Sch. 4 para. 94 repealed (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/583/schedule/1) Table 1
+[^c-6d9ea6cc1a51dbf7725982263f567610]: Textual amendment: Sch. 4 para. 94 repealed (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/583/schedule/1) Table 1
 
 [^c10863831]: Commencement: Sch. 4 para. 95 wholly in force at 1.7.1992 see s. 84 and [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 
@@ -992,11 +992,11 @@ and after the entry for “Type approval requirements” there shall be inserted
 
 [^c10863861]: Commencement: Sch. 4 para. 98 wholly in force at 1.7.1992 see s. 84 and [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 
-[^key-4f336f6ab8e0278d4e234b2372478947]: Textual amendment: Sch. 4 para. 99 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-4f336f6ab8e0278d4e234b2372478947]: Textual amendment: Sch. 4 para. 99 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
 [^c10863881]: Commencement: Sch. 4 para. 100 wholly in force at 1.7.1992 see s. 84 and [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 
-[^key-533fd4136e625e01be4627ce9f4130e9]: Textual amendment: Sch. 4 para. 100(2) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-533fd4136e625e01be4627ce9f4130e9]: Textual amendment: Sch. 4 para. 100(2) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
 [^c10863891]: Commencement: Sch. 4 para. 101 wholly in force at 1.7.1992 see s. 84 and [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 
@@ -1006,9 +1006,9 @@ and after the entry for “Type approval requirements” there shall be inserted
 
 [^c10863921]: Commencement: Sch. 4 para. 103 wholly in force at 1.7.1992 see s. 84 and [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 
-[^key-4758be9255d480820f5b4c28a3f128fe]: Textual amendment: [Sch. 4 para. 103(2)](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4/paragraph/103/2) omitted (30.11.2022 for S.) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 97(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/97/3), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/b) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-4758be9255d480820f5b4c28a3f128fe]: Textual amendment: [Sch. 4 para. 103(2)](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4/paragraph/103/2) omitted (30.11.2022 for S.) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 97(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/97/3), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/b) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-746eb52437fa4ed662637dded76212d5]: Textual amendment: Sch. 4 para. 104 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-746eb52437fa4ed662637dded76212d5]: Textual amendment: Sch. 4 para. 104 repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/560/article/3/b) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
 [^c10863941]: Commencement: Sch. 4 para. 105 wholly in force at 1.7.1992 see s. 84 and [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 

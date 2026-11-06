@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66C. Introduction of water provided by secondary water undertaker[^key-85d13c0878349b979aef627000cd07cf][^c19901941]
+## 66C. Introduction of water provided by secondary water undertaker[^c-85d13c0878349b979aef627000cd07cf][^c19901941]
 
 *Extent: E+W*
 
@@ -91,6 +91,6 @@ the failure of the undertaker to acquire the necessary authority or agreement do
 
 ## Annotations
 
-[^key-85d13c0878349b979aef627000cd07cf]: Textual amendment: S. 66A-66C and cross-heading substituted (1.4.2017 for the substitution of ss. 66A, 66AA, 66C) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/1); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/i) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2017/462/article/6), [12](https://www.legislation.gov.uk/uksi/2017/462/article/12))
+[^c-85d13c0878349b979aef627000cd07cf]: Textual amendment: S. 66A-66C and cross-heading substituted (1.4.2017 for the substitution of ss. 66A, 66AA, 66C) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/1); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/i) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2017/462/article/6), [12](https://www.legislation.gov.uk/uksi/2017/462/article/12))
 
 [^c19901941]: Textual amendment: Pt. 3 Ch. 2A inserted (1.4.2004 for specified provisions and purposes and 1.12.2005 otherwise) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 56](https://www.legislation.gov.uk/ukpga/2003/37/section/56), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/4/paragraph/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(l)](https://www.legislation.gov.uk/uksi/2004/641/article/3/l), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/641/schedule/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/641/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/641/schedule/3)); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/a) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/2/paragraph/8))

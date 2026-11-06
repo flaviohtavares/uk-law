@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Occupational pension scheme under a trust: power of investment and delegation[^key-87ed617a5feb68dee44a513d00d204d3]
+## 150. Occupational pension scheme under a trust: power of investment and delegation[^c-87ed617a5feb68dee44a513d00d204d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87ed617a5feb68dee44a513d00d204d3]: Commencement: Art. 150 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-87ed617a5feb68dee44a513d00d204d3]: Commencement: Art. 150 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

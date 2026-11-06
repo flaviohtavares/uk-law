@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION, ENGLAND
 
-The Waste Management Licensing (Amendment) (England) Regulations 2003 (revoked)[^key-734d13debd2dd6d2e58feac1cbbb2ee3]
+The Waste Management Licensing (Amendment) (England) Regulations 2003 (revoked)[^c-734d13debd2dd6d2e58feac1cbbb2ee3]
 
 Made
 
@@ -45,66 +45,66 @@ Coming into force
 
 1st April 2003
 
-[^key-734d13debd2dd6d2e58feac1cbbb2ee3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-734d13debd2dd6d2e58feac1cbbb2ee3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and territorial application[^key-734d13debd2dd6d2e58feac1cbbb2ee3]
+## 1. Citation, commencement and territorial application[^c-734d13debd2dd6d2e58feac1cbbb2ee3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Waste Management Licensing Regulations 1994[^key-734d13debd2dd6d2e58feac1cbbb2ee3]
+## 2. Amendment of the Waste Management Licensing Regulations 1994[^c-734d13debd2dd6d2e58feac1cbbb2ee3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation – scrap metal dealer[^key-734d13debd2dd6d2e58feac1cbbb2ee3]
+## 3. Interpretation – scrap metal dealer[^c-734d13debd2dd6d2e58feac1cbbb2ee3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Technical competence[^key-734d13debd2dd6d2e58feac1cbbb2ee3]
+## 4. Technical competence[^c-734d13debd2dd6d2e58feac1cbbb2ee3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional provision[^key-734d13debd2dd6d2e58feac1cbbb2ee3]
+## 5. Transitional provision[^c-734d13debd2dd6d2e58feac1cbbb2ee3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Insertion of Schedule 1A – Certificates of Technical Competence[^key-734d13debd2dd6d2e58feac1cbbb2ee3]
+## 6. Insertion of Schedule 1A – Certificates of Technical Competence[^c-734d13debd2dd6d2e58feac1cbbb2ee3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-734d13debd2dd6d2e58feac1cbbb2ee3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-734d13debd2dd6d2e58feac1cbbb2ee3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-734d13debd2dd6d2e58feac1cbbb2ee3]
+## SCHEDULE[^c-734d13debd2dd6d2e58feac1cbbb2ee3]
 
 regulation 6
 
-> **SCHEDULE 1A — CERTIFICATES OF TECHNICAL COMPETENCE[^key-734d13debd2dd6d2e58feac1cbbb2ee3]**
+> **SCHEDULE 1A — CERTIFICATES OF TECHNICAL COMPETENCE[^c-734d13debd2dd6d2e58feac1cbbb2ee3]**
 >
 > regulation 4
 >
-> **1.**[^key-734d13debd2dd6d2e58feac1cbbb2ee3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-734d13debd2dd6d2e58feac1cbbb2ee3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-734d13debd2dd6d2e58feac1cbbb2ee3]
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> [^key-734d13debd2dd6d2e58feac1cbbb2ee3]
+> [^c-734d13debd2dd6d2e58feac1cbbb2ee3]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-734d13debd2dd6d2e58feac1cbbb2ee3]
+> [^c-734d13debd2dd6d2e58feac1cbbb2ee3]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-734d13debd2dd6d2e58feac1cbbb2ee3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> [^c-734d13debd2dd6d2e58feac1cbbb2ee3]
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **2.**[^c-734d13debd2dd6d2e58feac1cbbb2ee3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-734d13debd2dd6d2e58feac1cbbb2ee3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-734d13debd2dd6d2e58feac1cbbb2ee3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-734d13debd2dd6d2e58feac1cbbb2ee3]: Textual amendment: Regulations revoked (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/b), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
+[^c-734d13debd2dd6d2e58feac1cbbb2ee3]: Textual amendment: Regulations revoked (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/b), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))

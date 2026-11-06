@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1.4. Revocations and transitional provisions[^key-8e5c78e226a4bf4e3de460e7b9639507]
+## 1.4. Revocations and transitional provisions[^c-8e5c78e226a4bf4e3de460e7b9639507]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e5c78e226a4bf4e3de460e7b9639507]: Commencement: Rule 1.4 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-8e5c78e226a4bf4e3de460e7b9639507]: Commencement: Rule 1.4 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

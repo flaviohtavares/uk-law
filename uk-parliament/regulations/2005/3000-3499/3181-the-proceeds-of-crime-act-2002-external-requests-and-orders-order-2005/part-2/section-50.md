@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Tainted gifts[^key-082baa0e454fa61c90f2450525fc7293]
+## 50. Tainted gifts[^c-082baa0e454fa61c90f2450525fc7293]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-082baa0e454fa61c90f2450525fc7293]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2005/3181/article/50) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-082baa0e454fa61c90f2450525fc7293]: Commencement: [Art. 50](https://www.legislation.gov.uk/uksi/2005/3181/article/50) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

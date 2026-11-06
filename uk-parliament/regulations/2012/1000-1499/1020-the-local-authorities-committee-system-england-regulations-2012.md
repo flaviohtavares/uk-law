@@ -44,15 +44,15 @@ Coming into force
 
 4th May 2012
 
-The Secretary of State for Communities and Local Government, in exercise of the powers conferred by sections 9J, 9JA and 105 of the Local Government Act 2000[^f00001] makes the following Regulations.[^key-804bbddad7a0ea2162e458c1523f6532]
+The Secretary of State for Communities and Local Government, in exercise of the powers conferred by sections 9J, 9JA and 105 of the Local Government Act 2000[^f00001] makes the following Regulations.[^c-804bbddad7a0ea2162e458c1523f6532]
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-51186ee40bb8fb406fb3f1ba1a5f0158]
+### 1. Citation and commencement[^c-51186ee40bb8fb406fb3f1ba1a5f0158]
 
 These Regulations may be cited as the Local Authorities (Committee System) (England) Regulations 2012 and come into force on 4th May 2012.
 
-### 2. Interpretation[^key-21c0efc902dc4ce378c2e75dd4da8bc2]
+### 2. Interpretation[^c-21c0efc902dc4ce378c2e75dd4da8bc2]
 
 (1) In these Regulations—
 
@@ -67,7 +67,7 @@ These Regulations may be cited as the Local Authorities (Committee System) (Engl
 
 ## PART 2 — Discharge of functions
 
-### 3. Functions to be discharged by the local authority[^key-060ba753e38c084ae1c52357aaf602fc]
+### 3. Functions to be discharged by the local authority[^c-060ba753e38c084ae1c52357aaf602fc]
 
 (1) Section 101 (arrangements for the discharge of functions by local authorities) of the 1972 Act[^f00007] does not apply with respect to the discharge, by a local authority, of any function referred to in paragraphs (2) to (8).
 
@@ -94,9 +94,9 @@ These Regulations may be cited as the Local Authorities (Committee System) (Engl
 
 (8) The function referred to in this paragraph is the function relating to the voting rights of co-opted members of an overview and scrutiny committee under regulation 11.
 
-(9) Subject to paragraph (10), section 101 of the 1972 Act does not apply with respect to the discharge of the function of amending, modifying, varying , revising[^key-4eb0e07fb19024e6105e02e0a78336a4] or revoking any plan or strategy referred to in paragraph (2)(a) or (b) (whether approved or adopted before or after the coming into force of these Regulations).
+(9) Subject to paragraph (10), section 101 of the 1972 Act does not apply with respect to the discharge of the function of amending, modifying, varying , revising[^c-4eb0e07fb19024e6105e02e0a78336a4] or revoking any plan or strategy referred to in paragraph (2)(a) or (b) (whether approved or adopted before or after the coming into force of these Regulations).
 
-(10) Paragraph (9) does not apply to any amendment, modification, variation , revision[^key-f44fe081ef794c1ed15e074b28e10e0c] or revocation which—
+(10) Paragraph (9) does not apply to any amendment, modification, variation , revision[^c-f44fe081ef794c1ed15e074b28e10e0c] or revocation which—
 
 - (a) is required for giving effect to requirements of the Secretary of State or a Minister of the Crown in relation to a plan or strategy submitted for approval, or to any part submitted; or
 - (b) is authorised by a determination made by the local authority—
@@ -105,7 +105,7 @@ These Regulations may be cited as the Local Authorities (Committee System) (Engl
 
 ## PART 3 — Overview and scrutiny: general provisions
 
-### 4. Overview and scrutiny committees[^key-ec46069a25efdbe6e14b6d9f9a0f7480]
+### 4. Overview and scrutiny committees[^c-ec46069a25efdbe6e14b6d9f9a0f7480]
 
 (1) Parts 3 to 5 apply where a local authority resolves to appoint one or more committees as the authority’s overview and scrutiny committee or, as the case may be, committees under section 9JA of the 2000 Act.
 
@@ -129,8 +129,8 @@ These Regulations may be cited as the Local Authorities (Committee System) (Engl
 
 (3) In paragraph (2), “joint overview and scrutiny committee”, in relation to a local authority (“the authority concerned”), means—
 
-- (a)[^key-4c5649da28e5c1d3d03e7bdb62e0b6ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7a59a0ebfb71f99ba88f4ad3cf19d87f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4c5649da28e5c1d3d03e7bdb62e0b6ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7a59a0ebfb71f99ba88f4ad3cf19d87f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a joint overview and scrutiny committee within the meaning of section 123 of the 2007 Act[^f00012] (joint overview and scrutiny committees) appointed by two or more local authorities including the authority concerned.
 
 (4) The power of an overview and scrutiny committee under paragraph (2)(a) to review or scrutinise a decision made but not yet implemented includes power—
@@ -138,13 +138,13 @@ These Regulations may be cited as the Local Authorities (Committee System) (Engl
 - (a) to recommend that the decision be reconsidered by the person who made it; or
 - (b) to arrange for its function under paragraph (2)(a), so far as it relates to the decision, to be exercised by the authority.
 
-(5)[^key-2012fbf9df634f0db8924c068f0eda7a] An overview and scrutiny committee of a local authority may not discharge any functions other than—
+(5)[^c-2012fbf9df634f0db8924c068f0eda7a] An overview and scrutiny committee of a local authority may not discharge any functions other than—
 
 - (a) its functions under this Part,
 - (b) its functions under section 19 of the 2006 Act (local authority scrutiny of crime and disorder matters), or
 - (c) any functions which may be conferred on it by virtue of regulations under section 244(2ZE) of the National Health Service Act 2006 (local authority scrutiny of health matters).
 
-### 5. Overview and scrutiny committees: supplementary provision[^key-de4d86cd459f6fea9af4ab608a184158]
+### 5. Overview and scrutiny committees: supplementary provision[^c-de4d86cd459f6fea9af4ab608a184158]
 
 (1) An overview and scrutiny committee of a local authority—
 
@@ -175,7 +175,7 @@ These Regulations may be cited as the Local Authorities (Committee System) (Engl
 
 (10) Guidance under paragraph (9) may make different provision for different cases or for different descriptions of committee or sub-committee.
 
-### 6. Reference of matters to overview and scrutiny committees[^key-ae3f0981210c90423931f13cafeec9cc]
+### 6. Reference of matters to overview and scrutiny committees[^c-ae3f0981210c90423931f13cafeec9cc]
 
 (1) The local authority must ensure that it enables—
 
@@ -210,7 +210,7 @@ These Regulations may be cited as the Local Authorities (Committee System) (Engl
 - (a) a local crime and disorder matter within the meaning of section 19 of the 2006 Act; or
 - (b) a matter of any description specified in an order made by the Secretary of State for the purposes of section 9FC of the 2000 Act.
 
-### 7. Duty of local authority to respond to overview and scrutiny committee[^key-3d096d7920c5eb365efd0c174d4a7c34]
+### 7. Duty of local authority to respond to overview and scrutiny committee[^c-3d096d7920c5eb365efd0c174d4a7c34]
 
 (1) This regulation applies where an overview and scrutiny committee makes a report or recommendation otherwise than—
 
@@ -236,7 +236,7 @@ These Regulations may be cited as the Local Authorities (Committee System) (Engl
 - (a) “the local authority” means the local authority or a committee or sub-committee of the local authority, or a joint committee on which the local authority is represented or any sub-committee of such a committee, to whom the report or recommendations are made; and
 - (b) references to an overview and scrutiny committee include references to a sub-committee of such a committee.
 
-### 8. Confidential and exempt information[^key-3015d582d907774ef731c14124f30e0d]
+### 8. Confidential and exempt information[^c-3015d582d907774ef731c14124f30e0d]
 
 (1) This regulation applies to—
 
@@ -278,7 +278,7 @@ it is nevertheless to be taken for the purposes of regulation 7(2) to have publi
 
 (7) In this regulation, references to an overview and scrutiny committee include references to a sub-committee of such a committee.
 
-### 9. Relevant partner authorities: reports and recommendations[^key-29853d95d9840c8c84d5e78ecfea2493]
+### 9. Relevant partner authorities: reports and recommendations[^c-29853d95d9840c8c84d5e78ecfea2493]
 
 (1) This regulation applies where—
 
@@ -305,14 +305,14 @@ it is nevertheless to be taken for the purposes of regulation 7(2) to have publi
 (6) In paragraph (5) “health service body” means—
 
 - (a) a National Health Service Trust;
-- (aa)[^key-e491429c2f2afd6626e6e7311ab1ccc0] an integrated care board[^key-081cebeaf2157a907a5584afa9435a2d] ;
-- (ab) NHS England[^key-7cf6f8ae3f4f0a4df72597ff887e23ed]; or
-- (b) an NHS foundation trust; [^key-f47306cc26ef5a8e13a9e4bb39dfa7d9]...
-- (c)[^key-f47306cc26ef5a8e13a9e4bb39dfa7d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-e491429c2f2afd6626e6e7311ab1ccc0] an integrated care board[^c-081cebeaf2157a907a5584afa9435a2d] ;
+- (ab) NHS England[^c-7cf6f8ae3f4f0a4df72597ff887e23ed]; or
+- (b) an NHS foundation trust; [^c-f47306cc26ef5a8e13a9e4bb39dfa7d9]...
+- (c)[^c-f47306cc26ef5a8e13a9e4bb39dfa7d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) A relevant partner authority must provide to an overview and scrutiny committee such information as that committee may reasonably require in order to discharge its functions which has been requested in writing.
 
-(7A)[^key-381b4a3993e4ae46aae6b7f6bae6c5a5] In paragraph (7) the reference to “information” does not include information in respect of which provision may be made in exercise of the power conferred by section 244(2)(d) or (e) of the National Health Service Act 2006.
+(7A)[^c-381b4a3993e4ae46aae6b7f6bae6c5a5] In paragraph (7) the reference to “information” does not include information in respect of which provision may be made in exercise of the power conferred by section 244(2)(d) or (e) of the National Health Service Act 2006.
 
 (8) A relevant partner authority may not provide to the overview and scrutiny committee—
 
@@ -328,7 +328,7 @@ it is nevertheless to be taken for the purposes of regulation 7(2) to have publi
 
 (10) In this regulation, references to an overview and scrutiny committee include references to a sub-committee of such a committee.
 
-### 10. Scrutiny officers[^key-f38f662733eeff30940f217b4716c736]
+### 10. Scrutiny officers[^c-f38f662733eeff30940f217b4716c736]
 
 (1) Subject as follows, where a local authority resolves to appoint one or more committees as its overview and scrutiny committee, it must designate one of its officers to discharge the functions in paragraph (2).
 
@@ -356,7 +356,7 @@ it is nevertheless to be taken for the purposes of regulation 7(2) to have publi
 
 ## PART 4 — Overview and scrutiny committees: voting rights of co-opted members
 
-### 11. Voting rights of co-opted members[^key-00cdae69dfc1fe35c8996622efa9562c]
+### 11. Voting rights of co-opted members[^c-00cdae69dfc1fe35c8996622efa9562c]
 
 (1) A local authority may permit a co-opted member of an overview and scrutiny committee of the authority to vote at meetings of the committee.
 
@@ -373,7 +373,7 @@ it is nevertheless to be taken for the purposes of regulation 7(2) to have publi
 
 (6) In this regulation, references to a co-opted member, in relation to an overview and scrutiny committee of a local authority, are to a member of the committee who is not a member of the authority.
 
-### 12. Voting rights of co-opted members: publication of schemes[^key-cbc3c78168a2bffd3ede74fa943195cb]
+### 12. Voting rights of co-opted members: publication of schemes[^c-cbc3c78168a2bffd3ede74fa943195cb]
 
 (1) A local authority which makes a scheme for the purposes of regulation 11 must, while the scheme is in force, make copies of it available at its principal office at all reasonable hours for inspection by members of the public.
 
@@ -401,7 +401,7 @@ it is nevertheless to be taken for the purposes of regulation 7(2) to have publi
 
 ## PART 5 — Overview and scrutiny: education functions
 
-### 13. Church representatives[^key-f0d785bc5bc8b16a088c0380e82f6c9c]
+### 13. Church representatives[^c-f0d785bc5bc8b16a088c0380e82f6c9c]
 
 (1) In this regulation and regulation 14—
 
@@ -427,13 +427,13 @@ it is nevertheless to be taken for the purposes of regulation 7(2) to have publi
 
 (8) Directions under paragraph (7) may make provision with respect to the voting rights of persons appointed in accordance with such directions.
 
-### 14. Parent governor representatives[^key-b968bea763d368251b0ad6005d0bfe8b]
+### 14. Parent governor representatives[^c-b968bea763d368251b0ad6005d0bfe8b]
 
 Regulations 2 to 10 of the Parent Governor Representatives (England) Regulations 2001[^f00025] apply to a local authority which has appointed an education overview and scrutiny committee.
 
 ## PART 6 — Revocation
 
-### 15. Revocation[^key-9c8a2511b4c0772324da497682365fd1]
+### 15. Revocation[^c-9c8a2511b4c0772324da497682365fd1]
 
 The Local Authorities (Alternative Arrangements) (England) Regulations 2001[^f00026] are revoked.
 
@@ -447,7 +447,7 @@ Department for Communities and Local Government
 
 30th March 2012
 
-## SCHEDULE — Plans and strategies specified for the purposes of regulation 3[^key-83473cf4389d80e3cc058c98d87563cc]
+## SCHEDULE — Plans and strategies specified for the purposes of regulation 3[^c-83473cf4389d80e3cc058c98d87563cc]
 
 Regulation 3
 
@@ -455,10 +455,10 @@ Regulation 3
 | --- | --- |
 | Annual library plan | Section 1(2) of the Public Libraries and Museums Act 1964[^f00027] |
 | Crime and disorder reduction strategy | Sections 5 and 6 of the Crime and Disorder Act 1998[^f00028] |
-| Documents which are to be or form part of minerals and waste plans, local plans and supplementary plans[^key-1c74f70aeaa20724d3f97df6359b4bb9] | Part 2[^key-66bf25608cffddf32fa82a59ddf8abc8] of the Planning and Compulsory Purchase Act 2004[^f00029] |
+| Documents which are to be or form part of minerals and waste plans, local plans and supplementary plans[^c-1c74f70aeaa20724d3f97df6359b4bb9] | Part 2[^c-66bf25608cffddf32fa82a59ddf8abc8] of the Planning and Compulsory Purchase Act 2004[^f00029] |
 | Licensing authority policy statement | Section 349 of the Gambling Act 2005[^f00030] |
 | Local transport plan | Section 108(3) of the Transport Act 2000[^f00031] |
-| [^key-25eb27f8a2fcbbd6749274403310b1fe]. . . | [^key-14fbfabd468a1284cf4290daaf23dba6]. . . |
+| [^c-25eb27f8a2fcbbd6749274403310b1fe]. . . | [^c-14fbfabd468a1284cf4290daaf23dba6]. . . |
 | Sustainable community strategy | Section 4 of the 2000 Act |
 | Youth justice plan | Section 40 of the Crime and Disorder Act 1998[^f00034] |
 
@@ -490,11 +490,11 @@ A full impact assessment has not been produced in relation to these Regulations 
 
 [^f00001]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22). Sections 9J and 9JA were inserted into the Local Government Act 2000 by section 21 of, and Schedule 2 to, the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20). Schedule 2 to the 2011 Act inserted a new Part 1A, applying to England only, into the 2000 Act. Section 105 was amended by section 100(3) of, and Schedule 3 to, the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26), and by section 191(5) of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28); and paragraph 70 of Schedule 3 to the Localism Act 2011.
 
-[^key-804bbddad7a0ea2162e458c1523f6532]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/1020) continued (temp.) (25.3.2026) by [The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1)
+[^c-804bbddad7a0ea2162e458c1523f6532]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/1020) continued (temp.) (25.3.2026) by [The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1)
 
-[^key-51186ee40bb8fb406fb3f1ba1a5f0158]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-51186ee40bb8fb406fb3f1ba1a5f0158]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
-[^key-21c0efc902dc4ce378c2e75dd4da8bc2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1020/regulation/2) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-21c0efc902dc4ce378c2e75dd4da8bc2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1020/regulation/2) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
 [^f00002]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
@@ -506,7 +506,7 @@ A full impact assessment has not been produced in relation to these Regulations 
 
 [^f00006]: Footnote: Section 9FF was inserted into the 2000 Act by section 21 of, and Schedule 2 to, the Localism Act 2011.
 
-[^key-060ba753e38c084ae1c52357aaf602fc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1020/regulation/3) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-060ba753e38c084ae1c52357aaf602fc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1020/regulation/3) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
 [^f00007]: Footnote: Section 101 was amended by section 30 of, and Schedule 10 to, the Health and Social Services and Social Security Adjudications Act [1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41); sections 84 and 102 of, and Schedules 14 and 17 to, the Local Government Act [1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51); the Statute Law (Repeals) Act [1986 (c.12)](https://www.legislation.gov.uk/ukpga/1986/12); section 237 of, and Schedule 13 to, the Education Reform Act [1988 (c.40)](https://www.legislation.gov.uk/ukpga/1988/40); sections 45(5) and 194 of, and Schedule 12 to, the 1989 Act; section 307 of, and Schedules 19 and 21 to, the Education Act [1993 (c.35)](https://www.legislation.gov.uk/ukpga/1993/35); section 93 of, and Schedule 9 to, the Police and Magistrates’ Courts Act [1994 (c.29)](https://www.legislation.gov.uk/ukpga/1994/29); section 66(5) of, and Schedule 15 to, the Local Government (Wales) Act [1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19); section 120 of, and Schedule 24 to, the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25); section 332(1) of the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29); section 198 of, and Schedule 6 to, the Licensing Act [2003 (c.17)](https://www.legislation.gov.uk/ukpga/2003/17); section 64 of, and Schedule 5 to, the Children Act [2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31); section 209 of, and Schedule 6 to the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28); section 224 of the Planning Act [2008 (c.29)](https://www.legislation.gov.uk/ukpga/2008/29); section 119 of, and Schedule 6 to, the Local Democracy, Economic Development and Construction Act [2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20); section 321 of, and Schedule 22 to, the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23); section 99 of, and Schedule 16 to, the Police Reform and Social Responsibility Act [2011 (c.13)](https://www.legislation.gov.uk/ukpga/2011/13); section 22 of, and Schedule 3 to, the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20); (in relation to England) [S.I. 2001/1517](https://www.legislation.gov.uk/uksi/2001/1517); and [S.I. 2009/1375](https://www.legislation.gov.uk/uksi/2009/1375).
 
@@ -516,53 +516,53 @@ A full impact assessment has not been produced in relation to these Regulations 
 
 [^f00010]: Footnote: Section 86 was amended by section 67(1) of, and Schedule 4 to, the Local Democracy, Economic Development and Construction Act [2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20).
 
-[^key-4eb0e07fb19024e6105e02e0a78336a4]: Textual amendment: Word in [reg. 3(9)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/3/9) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/2/a)
+[^c-4eb0e07fb19024e6105e02e0a78336a4]: Textual amendment: Word in [reg. 3(9)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/3/9) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/2/a)
 
-[^key-f44fe081ef794c1ed15e074b28e10e0c]: Textual amendment: Word in [reg. 3(10)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/3/10) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/2/b)
+[^c-f44fe081ef794c1ed15e074b28e10e0c]: Textual amendment: Word in [reg. 3(10)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/3/10) inserted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/2/b)
 
-[^key-ec46069a25efdbe6e14b6d9f9a0f7480]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/1020/regulation/4) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-ec46069a25efdbe6e14b6d9f9a0f7480]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/1020/regulation/4) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
-[^key-4c5649da28e5c1d3d03e7bdb62e0b6ba]: Textual amendment: [Reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/4/3/a) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 172(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/172/2/a/i)
+[^c-4c5649da28e5c1d3d03e7bdb62e0b6ba]: Textual amendment: [Reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/4/3/a) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 172(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/172/2/a/i)
 
-[^key-7a59a0ebfb71f99ba88f4ad3cf19d87f]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/4/3/b) and word omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 172(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/172/2/a/ii)
+[^c-7a59a0ebfb71f99ba88f4ad3cf19d87f]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/4/3/b) and word omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 172(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/172/2/a/ii)
 
 [^f00012]: Footnote: Section 123 was substituted by section 32(1) of the Local Democracy, Economic Development and Construction Act 2009.
 
-[^key-2012fbf9df634f0db8924c068f0eda7a]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/4/5) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 172(2)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/172/2/b)
+[^c-2012fbf9df634f0db8924c068f0eda7a]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/4/5) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 172(2)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/172/2/b)
 
-[^key-de4d86cd459f6fea9af4ab608a184158]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/1020/regulation/5) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-de4d86cd459f6fea9af4ab608a184158]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/1020/regulation/5) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
 [^f00014]: Footnote: Section 15 is modified by the Local Government (Committees and Political Groups) Regulations 1990 ([S.I. 1990/1553](https://www.legislation.gov.uk/uksi/1990/1553)), Regulation 16.
 
 [^f00015]: Footnote: Section 102(2) was amended (in relation to England) by [S.I. 2001/1517](https://www.legislation.gov.uk/uksi/2001/1517); section 194 (1) of, and Schedule 11 to, the 1989 Act.
 
-[^key-ae3f0981210c90423931f13cafeec9cc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/1020/regulation/6) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-ae3f0981210c90423931f13cafeec9cc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/1020/regulation/6) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
-[^key-3d096d7920c5eb365efd0c174d4a7c34]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/1020/regulation/7) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-3d096d7920c5eb365efd0c174d4a7c34]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/1020/regulation/7) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
-[^key-3015d582d907774ef731c14124f30e0d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/1020/regulation/8) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-3015d582d907774ef731c14124f30e0d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/1020/regulation/8) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
 [^f00016]: Footnote: Section 100A was inserted by section 1(1) of the Local Government (Access to Information) Act [1985 (c.43)](https://www.legislation.gov.uk/ukpga/1985/43) and subsequently amended by [S.I. 2002/715](https://www.legislation.gov.uk/uksi/2002/715).
 
 [^f00017]: Footnote: Section 100I was inserted by section 1(1) of the Local Government (Access to Information) Act 1985, and subsequently amended by [S.I. 2006/88](https://www.legislation.gov.uk/uksi/2006/88).
 
-[^key-29853d95d9840c8c84d5e78ecfea2493]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/1020/regulation/9) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-29853d95d9840c8c84d5e78ecfea2493]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/1020/regulation/9) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
 [^f00018]: Footnote: Section 244 was amended by section 121(4) of the Local Government and Public Involvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28); section 22 of, and Schedule 3 to, the Localism Act 2011.
 
-[^key-e491429c2f2afd6626e6e7311ab1ccc0]: Textual amendment: [Reg. 9(6)(aa)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/9/6/aa)[(ab)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/9/6/ab) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 172(3)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/172/3/a)
+[^c-e491429c2f2afd6626e6e7311ab1ccc0]: Textual amendment: [Reg. 9(6)(aa)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/9/6/aa)[(ab)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/9/6/ab) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 172(3)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/172/3/a)
 
-[^key-081cebeaf2157a907a5584afa9435a2d]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/1020) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-081cebeaf2157a907a5584afa9435a2d]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/1020) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-7cf6f8ae3f4f0a4df72597ff887e23ed]: Textual amendment: Words in reg. 9 substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-7cf6f8ae3f4f0a4df72597ff887e23ed]: Textual amendment: Words in reg. 9 substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-f47306cc26ef5a8e13a9e4bb39dfa7d9]: Textual amendment: [Reg. 9(6)(c)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/9/6/c) and word omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 172(3)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/172/3/b)
+[^c-f47306cc26ef5a8e13a9e4bb39dfa7d9]: Textual amendment: [Reg. 9(6)(c)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/9/6/c) and word omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 172(3)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/172/3/b)
 
-[^key-381b4a3993e4ae46aae6b7f6bae6c5a5]: Textual amendment: [Reg. 9(7A)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/9/7A) inserted (1.4.2013) by [The Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) Regulations 2013 (S.I. 2013/218)](https://www.legislation.gov.uk/uksi/2013/218), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/33/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2013/218/regulation/34))
+[^c-381b4a3993e4ae46aae6b7f6bae6c5a5]: Textual amendment: [Reg. 9(7A)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/9/7A) inserted (1.4.2013) by [The Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) Regulations 2013 (S.I. 2013/218)](https://www.legislation.gov.uk/uksi/2013/218), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/33/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2013/218/regulation/34))
 
 [^f00019]: Footnote: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29).
 
-[^key-f38f662733eeff30940f217b4716c736]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/1020/regulation/10) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-f38f662733eeff30940f217b4716c736]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/1020/regulation/10) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
 [^f00020]: Footnote: Section 4 was amended by section 119 of, and Schedule 6 to, the Local Democracy, Economic Development and Construction Act 2009.
 
@@ -570,33 +570,33 @@ A full impact assessment has not been produced in relation to these Regulations 
 
 [^f00022]: Footnote: Section 5(8) was amended by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237); section 132 of the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29); section 321 of, and Schedule 22 to, the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-00cdae69dfc1fe35c8996622efa9562c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/1020/regulation/11) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-00cdae69dfc1fe35c8996622efa9562c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/1020/regulation/11) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
-[^key-cbc3c78168a2bffd3ede74fa943195cb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/1020/regulation/12) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-cbc3c78168a2bffd3ede74fa943195cb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/1020/regulation/12) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
-[^key-f0d785bc5bc8b16a088c0380e82f6c9c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/1020/regulation/13) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-f0d785bc5bc8b16a088c0380e82f6c9c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/1020/regulation/13) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
 [^f00023]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). The definition of “education functions” in section 579(1) was inserted by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
 [^f00024]: Footnote: [S.I. 2001/478](https://www.legislation.gov.uk/uksi/2001/478). Regulations 4 to 6 were amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
 
-[^key-b968bea763d368251b0ad6005d0bfe8b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/1020/regulation/14) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-b968bea763d368251b0ad6005d0bfe8b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/1020/regulation/14) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
 [^f00025]: Footnote: Regulation 2 was amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172) and [S.I. 2003/2045](https://www.legislation.gov.uk/uksi/2003/2045). Regulations 3 to 9 inclusive were amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
 
-[^key-9c8a2511b4c0772324da497682365fd1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/1020/regulation/15) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-9c8a2511b4c0772324da497682365fd1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/1020/regulation/15) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
 [^f00026]: Footnote: [S.I. 2001/1299](https://www.legislation.gov.uk/uksi/2001/1299).
 
-[^key-83473cf4389d80e3cc058c98d87563cc]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2012/1020/schedule) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
+[^c-83473cf4389d80e3cc058c98d87563cc]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2012/1020/schedule) in force at 4.5.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1)
 
 [^f00027]: Footnote: [1964 c.75](https://www.legislation.gov.uk/ukpga/1964/75).
 
 [^f00028]: Footnote: [1998 c.37](https://www.legislation.gov.uk/ukpga/1998/37). Section 5 was amended by sections 97 and 107 of, and Schedule 8 to, the Police Reform Act [2002 (c.30)](https://www.legislation.gov.uk/ukpga/2002/30); section 32 of, and Schedule 2 to, the Civil Contingencies Act [2004 (c.36)](https://www.legislation.gov.uk/ukpga/2004/36); section 53 of, and Schedule 1 to, the Fire and Rescue Service Act [2004 (c.21)](https://www.legislation.gov.uk/ukpga/2004/21); sections 21 and 22 of, and Schedule 9 to, the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48); [S.I. 2007/961](https://www.legislation.gov.uk/uksi/2007/961), and [S.I. 2008/912](https://www.legislation.gov.uk/uksi/2008/912). Section 6 was substituted by section 22 of, and Schedule 9 to, the Police and Justice Act 2006 and was amended by section 108 of the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26).
 
-[^key-1c74f70aeaa20724d3f97df6359b4bb9]: Textual amendment: Words in Sch. substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(3)(a)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/3/a)
+[^c-1c74f70aeaa20724d3f97df6359b4bb9]: Textual amendment: Words in Sch. substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(3)(a)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/3/a)
 
-[^key-66bf25608cffddf32fa82a59ddf8abc8]: Textual amendment: Words in Sch. substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(3)(b)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/3/b)
+[^c-66bf25608cffddf32fa82a59ddf8abc8]: Textual amendment: Words in Sch. substituted (25.3.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(3)(b)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/3/b)
 
 [^f00029]: Footnote: [2004 c.4](https://www.legislation.gov.uk/ukpga/2004/4). Section 15 was amended by section 30 of the Greater London Authority Act [2007 (c.24)](https://www.legislation.gov.uk/ukpga/2007/24); section 180 of, and Schedule 13 to, the Planning Act [2008 (c.29)](https://www.legislation.gov.uk/ukpga/2008/29) and by sections 111 and 237 of, and Schedule 25 to, the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
@@ -604,8 +604,8 @@ A full impact assessment has not been produced in relation to these Regulations 
 
 [^f00031]: Footnote: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38). Section 108(3) was substituted by section 9 of the Local Transport Act [2008 (c.26)](https://www.legislation.gov.uk/ukpga/2008/26).
 
-[^key-25eb27f8a2fcbbd6749274403310b1fe]: Textual amendment: Words in Sch. omitted (25.3.2026) by virtue of [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(3)(c)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/3/c)
+[^c-25eb27f8a2fcbbd6749274403310b1fe]: Textual amendment: Words in Sch. omitted (25.3.2026) by virtue of [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(3)(c)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/3/c)
 
-[^key-14fbfabd468a1284cf4290daaf23dba6]: Textual amendment: Words in Sch. omitted (25.3.2026) by virtue of [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(3)(d)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/3/d)
+[^c-14fbfabd468a1284cf4290daaf23dba6]: Textual amendment: Words in Sch. omitted (25.3.2026) by virtue of [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026 (S.I. 2026/170)](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [12(3)(d)](https://www.legislation.gov.uk/uksi/2026/170/regulation/12/3/d)
 
 [^f00034]: Footnote: [1998 c.37](https://www.legislation.gov.uk/ukpga/1998/37). Subsection (1) is disapplied in part in relation to England by [S.I. 2005/157](https://www.legislation.gov.uk/uksi/2005/157).

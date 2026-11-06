@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Defamation[^key-f3c0fb363e18b96030cb7929f79d5135][^key-47c35a1131d139435f50f092ccc9bb9a]
+## 112. Defamation[^c-f3c0fb363e18b96030cb7929f79d5135][^c-47c35a1131d139435f50f092ccc9bb9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ For the purposes of the law relating to defamation, absolute privilege attaches 
 
 ## Annotations
 
-[^key-f3c0fb363e18b96030cb7929f79d5135]: Commencement: S. 112 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-f3c0fb363e18b96030cb7929f79d5135]: Commencement: S. 112 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-47c35a1131d139435f50f092ccc9bb9a]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2024/13/section/112) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-47c35a1131d139435f50f092ccc9bb9a]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2024/13/section/112) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

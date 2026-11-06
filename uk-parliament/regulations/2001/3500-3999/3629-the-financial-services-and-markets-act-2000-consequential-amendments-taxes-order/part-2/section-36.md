@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Taxation in respect of other business: withdrawal of “qualifying” status from incorporated friendly society[^key-720d88f018dffb611bb5c3b661681fed]
+## 36. Taxation in respect of other business: withdrawal of “qualifying” status from incorporated friendly society[^c-720d88f018dffb611bb5c3b661681fed]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-720d88f018dffb611bb5c3b661681fed]: Commencement: Art. 36 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-720d88f018dffb611bb5c3b661681fed]: Commencement: Art. 36 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

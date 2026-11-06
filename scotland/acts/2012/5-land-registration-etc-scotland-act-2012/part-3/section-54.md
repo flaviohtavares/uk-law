@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Registration of decree of reduction[^key-ddc002247c4f4b171e4fb8ce6e855083]
+## 54. Registration of decree of reduction[^c-ddc002247c4f4b171e4fb8ce6e855083]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ After section 46 of the Conveyancing (Scotland) Act 1924 (c.27) insert—
 
 ## Annotations
 
-[^key-ddc002247c4f4b171e4fb8ce6e855083]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2012/5/section/54) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-ddc002247c4f4b171e4fb8ce6e855083]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2012/5/section/54) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17A. Publication of information about earnings[^key-ef26b959424f4c946cb2de93ff5aec6f]
+## 17A. Publication of information about earnings[^c-ef26b959424f4c946cb2de93ff5aec6f]
 
 *Extent: E+W*
 
-(1) Using the information that it has obtained to make the payments to contractors mentioned in regulation 17(1)(a), NHS England[^key-d1caf22cc98adae401c0bdbf330d1379] must publish the information specified in paragraph (2).
+(1) Using the information that it has obtained to make the payments to contractors mentioned in regulation 17(1)(a), NHS England[^c-d1caf22cc98adae401c0bdbf330d1379] must publish the information specified in paragraph (2).
 
 (2) The information specified in this paragraph is, in respect of each agreement—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef26b959424f4c946cb2de93ff5aec6f]: Textual amendment: Reg. 17A inserted (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2016/298/regulation/20)
+[^c-ef26b959424f4c946cb2de93ff5aec6f]: Textual amendment: Reg. 17A inserted (1.4.2016) by [The National Health Service (Primary Dental Services Miscellaneous Amendments and Directions to the NHS Business Services Authority) Regulations 2016 (S.I. 2016/298)](https://www.legislation.gov.uk/uksi/2016/298), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/298/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2016/298/regulation/20)
 
-[^key-d1caf22cc98adae401c0bdbf330d1379]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d1caf22cc98adae401c0bdbf330d1379]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

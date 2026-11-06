@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44L. Removal of restriction[^key-fcb3a6dbc397e67c5555c05af4711143]
+## 44L. Removal of restriction[^c-fcb3a6dbc397e67c5555c05af4711143]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcb3a6dbc397e67c5555c05af4711143]: Textual amendment: Pt. 3A Ch. 2 inserted (13.8.2026 for specified purposes) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/24); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/iii)
+[^c-fcb3a6dbc397e67c5555c05af4711143]: Textual amendment: Pt. 3A Ch. 2 inserted (13.8.2026 for specified purposes) by [Victims and Courts Act 2026 (c. 19)](https://www.legislation.gov.uk/ukpga/2026/19), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2026/19/schedule/2/paragraph/24); [S.I. 2026/918](https://www.legislation.gov.uk/uksi/2026/918), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2026/918/regulation/2/b/iii)

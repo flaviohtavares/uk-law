@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69Z25. Documents to be included with company tax return[^key-228ceee17a63954421c7bcbab46e5182]
+## 69Z25. Documents to be included with company tax return[^c-228ceee17a63954421c7bcbab46e5182]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) Document B is a reconciliation between—
 
 - (a) the net income of the company (see regulation 69Z), and
-- (b) the total amount available for income allocation[^key-cba6074028df90433b41a95abbd41e4e] as attributed in accordance with regulation 69Z14.
+- (b) the total amount available for income allocation[^c-cba6074028df90433b41a95abbd41e4e] as attributed in accordance with regulation 69Z14.
 
 (4) In paragraph (1) “company tax return” means the return required to be delivered pursuant to a notice under paragraph 3 of Schedule 18 to the Finance Act 1998, as read with paragraph 4 of that Schedule.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
+[^c-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
 
-[^key-cba6074028df90433b41a95abbd41e4e]: Textual amendment: Words in [reg. 69Z25(3)(b)](https://www.legislation.gov.uk/uksi/2006/964/regulation/69Z25/3/b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2010/294/regulation/17) (with [reg. 24](https://www.legislation.gov.uk/uksi/2010/294/regulation/24))
+[^c-cba6074028df90433b41a95abbd41e4e]: Textual amendment: Words in [reg. 69Z25(3)(b)](https://www.legislation.gov.uk/uksi/2006/964/regulation/69Z25/3/b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2010/294/regulation/17) (with [reg. 24](https://www.legislation.gov.uk/uksi/2010/294/regulation/24))

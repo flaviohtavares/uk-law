@@ -27,7 +27,7 @@ summary: ''
 
 (2) These Regulations do not apply to—
 
-- (a) lifts and safety components for lifts which have been placed on the market before[^key-0a27b14acf5c378359c16448826cdb31] the commencement date;
+- (a) lifts and safety components for lifts which have been placed on the market before[^c-0a27b14acf5c378359c16448826cdb31] the commencement date;
 - (b) the lifts specified in Schedule 2 (excluded lifts); and
 - (c) safety components for the lifts referred to in paragraph (b).
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a27b14acf5c378359c16448826cdb31]: Textual amendment: Word in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3/2/a) substituted (8.12.2016) by [The Lifts (Amendment) Regulations 2016 (S.I. 2016/1186)](https://www.legislation.gov.uk/uksi/2016/1186), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1186/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/1186/regulation/2)
+[^c-0a27b14acf5c378359c16448826cdb31]: Textual amendment: Word in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3/2/a) substituted (8.12.2016) by [The Lifts (Amendment) Regulations 2016 (S.I. 2016/1186)](https://www.legislation.gov.uk/uksi/2016/1186), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1186/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/1186/regulation/2)
 
 [^c23162131]: Marginal citation: [S.I. 2013/1387](https://www.legislation.gov.uk/uksi/2013/1387).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Private prosecutions: regulations about costs payable out of central funds[^key-9de525897a4a30a5396ac065e375b449]
+## 12. Private prosecutions: regulations about costs payable out of central funds[^c-9de525897a4a30a5396ac065e375b449]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9de525897a4a30a5396ac065e375b449]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2026/19/section/12) in force at 29.6.2026, see [s. 18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)
+[^c-9de525897a4a30a5396ac065e375b449]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2026/19/section/12) in force at 29.6.2026, see [s. 18(2)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/2)

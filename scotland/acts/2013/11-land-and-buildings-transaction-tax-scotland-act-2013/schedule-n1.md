@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## Schedule 16D (introduced by section 27) — Green Freeports Relief[^key-7f33ecfab1cc388223b21180a1b92da0]
+## Schedule 16D (introduced by section 27) — Green Freeports Relief[^c-7f33ecfab1cc388223b21180a1b92da0]
 
 *Extent: S*
 
@@ -168,4 +168,4 @@ In this schedule, “**transaction land**”, in relation to a land transaction,
 
 ## Annotations
 
-[^key-7f33ecfab1cc388223b21180a1b92da0]: Textual amendment: [Sch. 16D](https://www.legislation.gov.uk/asp/2013/11/schedule/16D) inserted (1.10.2023) by [The Land and Buildings Transaction Tax (Green Freeports Relief) (Scotland) Order 2023 (S.S.I. 2023/280)](https://www.legislation.gov.uk/ssi/2023/280), [art. 1(1)](https://www.legislation.gov.uk/ssi/2023/280/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2023/280/schedule)
+[^c-7f33ecfab1cc388223b21180a1b92da0]: Textual amendment: [Sch. 16D](https://www.legislation.gov.uk/asp/2013/11/schedule/16D) inserted (1.10.2023) by [The Land and Buildings Transaction Tax (Green Freeports Relief) (Scotland) Order 2023 (S.S.I. 2023/280)](https://www.legislation.gov.uk/ssi/2023/280), [art. 1(1)](https://www.legislation.gov.uk/ssi/2023/280/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2023/280/schedule)

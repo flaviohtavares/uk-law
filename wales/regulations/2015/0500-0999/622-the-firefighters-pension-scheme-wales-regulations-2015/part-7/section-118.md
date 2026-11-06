@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Commutation of part of pension[^key-c9a4495299a0b3b6a5bca9952ba2a4aa]
+## 118. Commutation of part of pension[^c-c9a4495299a0b3b6a5bca9952ba2a4aa]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9a4495299a0b3b6a5bca9952ba2a4aa]: Commencement: Reg. 118 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-c9a4495299a0b3b6a5bca9952ba2a4aa]: Commencement: Reg. 118 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

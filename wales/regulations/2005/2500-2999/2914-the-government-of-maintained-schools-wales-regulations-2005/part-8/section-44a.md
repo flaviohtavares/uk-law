@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44A. Exclusion of associated pupil governors from meetings[^key-3b81196043b97b8a5d81c5a4f3783bf1]
+## 44A. Exclusion of associated pupil governors from meetings[^c-3b81196043b97b8a5d81c5a4f3783bf1]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b81196043b97b8a5d81c5a4f3783bf1]: Textual amendment: [Reg. 44A](https://www.legislation.gov.uk/wsi/2005/2914/regulation/44A) inserted (31.12.2005) by [The School Councils (Wales) Regulations 2005 (S.I. 2005/3200)](https://www.legislation.gov.uk/wsi/2005/3200), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/1/1), [8(9)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/8/9)
+[^c-3b81196043b97b8a5d81c5a4f3783bf1]: Textual amendment: [Reg. 44A](https://www.legislation.gov.uk/wsi/2005/2914/regulation/44A) inserted (31.12.2005) by [The School Councils (Wales) Regulations 2005 (S.I. 2005/3200)](https://www.legislation.gov.uk/wsi/2005/3200), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/1/1), [8(9)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/8/9)

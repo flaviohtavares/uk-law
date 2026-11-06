@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Further modifications to Part 8[^key-1129650280ae0b9363b2982d7482a492]
+## 71. Further modifications to Part 8[^c-1129650280ae0b9363b2982d7482a492]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 43 (developing country exception) has effect as if, in paragraph (1),
 
 ## Annotations
 
-[^key-1129650280ae0b9363b2982d7482a492]: Commencement: Reg. 71 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-1129650280ae0b9363b2982d7482a492]: Commencement: Reg. 71 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

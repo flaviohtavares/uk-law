@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Enforcement of Community Infrastructure Levy[^key-d193286c16282e46923ae0812db29c8e][^key-6f373da7c673c6e24f6fed183f7e4bad]
+## 140. Enforcement of Community Infrastructure Levy[^c-d193286c16282e46923ae0812db29c8e][^c-6f373da7c673c6e24f6fed183f7e4bad]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d193286c16282e46923ae0812db29c8e]: Commencement: S. 140 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-d193286c16282e46923ae0812db29c8e]: Commencement: S. 140 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
 
-[^key-6f373da7c673c6e24f6fed183f7e4bad]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2023/55/section/140) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/h)
+[^c-6f373da7c673c6e24f6fed183f7e4bad]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2023/55/section/140) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/h)

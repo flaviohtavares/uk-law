@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Exclusion: other remedies[^key-bde66770cdb1297f28a109ae2d4c5bc6]
+## 13. Exclusion: other remedies[^c-bde66770cdb1297f28a109ae2d4c5bc6]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bde66770cdb1297f28a109ae2d4c5bc6]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2019/3/section/13) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-bde66770cdb1297f28a109ae2d4c5bc6]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2019/3/section/13) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

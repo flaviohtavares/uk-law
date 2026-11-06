@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where a secure tenant has claimed to exercise the right to buy, he may serve on his landlord a notice (in this section referred to as an “initial notice of delay”) in any of the following cases, namely,—
 
-- (a) where the landlord has failed to serve a notice under section 124 within the period appropriate under subsection (2) [^key-a551613ed8483fdac827482ac7f3a9c1]...of that section;
+- (a) where the landlord has failed to serve a notice under section 124 within the period appropriate under subsection (2) [^c-a551613ed8483fdac827482ac7f3a9c1]...of that section;
 - (b) where the tenant’s right to buy has been established and the landlord has failed to serve a notice under section 125 within the period appropriate under subsection (1) of that section;
 - (c)[^c15065041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d)[^c15065041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -55,7 +55,7 @@ the tenant may serve on the landlord a notice (in this section and section 153B 
 
 [^c15065031]: Textual amendment: Ss. 153A, 153B inserted by [Housing Act 1988 (c. 50, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/50), [s. 124](https://www.legislation.gov.uk/ukpga/1988/50/section/124)
 
-[^key-a551613ed8483fdac827482ac7f3a9c1]: Textual amendment: Words in [s. 153A(1)(a)](https://www.legislation.gov.uk/ukpga/1985/68/section/153A/1/a) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(k)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))
+[^c-a551613ed8483fdac827482ac7f3a9c1]: Textual amendment: Words in [s. 153A(1)(a)](https://www.legislation.gov.uk/ukpga/1985/68/section/153A/1/a) omitted (26.1.2019) by virtue of [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(k)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/k) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))
 
 [^c15065041]: Textual amendment: S. 153A(1)(c)(d) repealed (11.10.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 187(2)](https://www.legislation.gov.uk/ukpga/1993/28/section/187/2), [Sch. 22](https://www.legislation.gov.uk/ukpga/1993/28/schedule/22); [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [arts. 2](https://www.legislation.gov.uk/uksi/1993/2134/article/2), [4(b)](https://www.legislation.gov.uk/uksi/1993/2134/article/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1993/2134/schedule/2) (with saving in [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/uksi/1993/2134/schedule/1/paragraph/4/1)).
 

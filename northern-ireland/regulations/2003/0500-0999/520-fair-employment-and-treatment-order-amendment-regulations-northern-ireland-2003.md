@@ -41,7 +41,7 @@ Coming into operation
 
 The Office of the First Minister and deputy First Minister, being a Department designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to measures relating to discrimination[^f00002], in exercise of the powers conferred on it by that section and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-0774529bdf17476309fe29b9fbe9d1bf]
+## 1. Citation, commencement and interpretation[^c-0774529bdf17476309fe29b9fbe9d1bf]
 
 (1) These Regulations may be cited as the Fair Employment and Treatment Order (Amendment) Regulations (Northern Ireland) 2003 and shall come into operation on 10th December 2003.
 
@@ -49,7 +49,7 @@ The Office of the First Minister and deputy First Minister, being a Department d
 
 (3) In these Regulations “the Fair Employment and Treatment Order” means the Fair Employment and Treatment (Northern Ireland) Order 1998[^f00004].
 
-## 2. Transitional provisions[^key-4106ac33766ba899acebaa466a9cc21f]
+## 2. Transitional provisions[^c-4106ac33766ba899acebaa466a9cc21f]
 
 (1) Regulations 23 and 26 shall not apply to proceedings instituted before 10th December 2003.
 
@@ -59,7 +59,7 @@ The Office of the First Minister and deputy First Minister, being a Department d
 
 (4) In paragraph (3) “question” and “respondent” shall be construed in accordance with Article 44 of the Fair Employment and Treatment Order.
 
-## 3. Definitions[^key-10aad6aa0f7ed26f4f386369099ecaad]
+## 3. Definitions[^c-10aad6aa0f7ed26f4f386369099ecaad]
 
 In Article 2(2) of the Fair Employment and Treatment Order (general interpretation) –
 
@@ -81,7 +81,7 @@ In Article 2(2) of the Fair Employment and Treatment Order (general interpretati
 
   .
 
-## 4. Definition of “discrimination” and “unlawful discrimination”[^key-3f7421a0477c0433b57b3b6cb5c30c91]
+## 4. Definition of “discrimination” and “unlawful discrimination”[^c-3f7421a0477c0433b57b3b6cb5c30c91]
 
 (1) In Article 3 of the Fair Employment and Treatment Order (definition of “discrimination” and “unlawful discrimination”) –
 
@@ -109,7 +109,7 @@ In Article 2(2) of the Fair Employment and Treatment Order (general interpretati
 
 (3) In paragraph (7)(a) of that Article, after the words “he does an act”, insert “other than an act of harassment”.
 
-## 5. Harassment[^key-5cb487c4f53673b345042300f20ee391]
+## 5. Harassment[^c-5cb487c4f53673b345042300f20ee391]
 
 After Article 3 of the Fair Employment and Treatment Order insert –
 
@@ -126,7 +126,7 @@ After Article 3 of the Fair Employment and Treatment Order insert –
 
 .
 
-## 6. Meaning of employment in Northern Ireland[^key-e364ba3889622385a7740005becc6d23]
+## 6. Meaning of employment in Northern Ireland[^c-e364ba3889622385a7740005becc6d23]
 
 (1) In Article 6 of the Fair Employment and Treatment Order (meaning of employment in Northern Ireland and occupation in Northern Ireland), in paragraph (1), for the words from “unless the employee” to the end, substitute –
 
@@ -157,13 +157,13 @@ After Article 3 of the Fair Employment and Treatment Order insert –
 
 .
 
-## 7. Functions of the Equality Commission[^key-fa6c5def1e8459461c45e23d2b148dc0]
+## 7. Functions of the Equality Commission[^c-fa6c5def1e8459461c45e23d2b148dc0]
 
 In Article 7 of the Fair Employment and Treatment Order (general duty of Commission), in paragraph (c), after the word “discrimination” insert “and unlawful harassment”.
 
-**8.**[^key-bd95a1eed9954eb24e50396d3512e29e] In Article 9 of the Fair Employment and Treatment Order (codes of practice), in paragraphs (1) and (3) after the word “discrimination” in each case, insert “and harassment”.
+**8.**[^c-bd95a1eed9954eb24e50396d3512e29e] In Article 9 of the Fair Employment and Treatment Order (codes of practice), in paragraphs (1) and (3) after the word “discrimination” in each case, insert “and harassment”.
 
-## 9. Harassment by employers[^key-4aab578615a6ad6e4bcb503dbe8e1f40]
+## 9. Harassment by employers[^c-4aab578615a6ad6e4bcb503dbe8e1f40]
 
 (1) For the heading to Part III of the Fair Employment and Treatment Order there shall be substituted “DISCRIMINATION AND HARASSMENT IN THE EMPLOYMENT FIELD” and for the cross heading immediately thereafter there shall be substituted “*Discrimination and harassment in the employment field*”.
 
@@ -184,7 +184,7 @@ In Article 7 of the Fair Employment and Treatment Order (general duty of Commiss
 
 .
 
-## 10. Contract workers[^key-5ee93509f0fea7d15911fa1b82ab5c66]
+## 10. Contract workers[^c-5ee93509f0fea7d15911fa1b82ab5c66]
 
 (1) In the heading to Article 20 of the Fair Employment and Treatment Order (discrimination against contract workers), omit the words “Discrimination against”.
 
@@ -194,7 +194,7 @@ In Article 7 of the Fair Employment and Treatment Order (general duty of Commiss
 
 .
 
-## 11. Office holders etc.[^key-30056dbdbaa87fd5ec44c007d6eb5490]
+## 11. Office holders etc.[^c-30056dbdbaa87fd5ec44c007d6eb5490]
 
 After Article 20 of the Fair Employment and Treatment Order insert –
 
@@ -269,7 +269,7 @@ After Article 20 of the Fair Employment and Treatment Order insert –
 
 .
 
-## 12. Persons with statutory power to select employees for others[^key-562b98dc414e93dbb71d0b31d13cca7c]
+## 12. Persons with statutory power to select employees for others[^c-562b98dc414e93dbb71d0b31d13cca7c]
 
 (1) In the heading to Article 21 of the Fair Employment and Treatment Order (discrimination by persons with statutory power to select employees for others) omit the words “Discrimination by”.
 
@@ -281,7 +281,7 @@ After Article 20 of the Fair Employment and Treatment Order insert –
 
 .
 
-## 13. Employment agencies[^key-3608c11432a8fbe52a48be78227b9999]
+## 13. Employment agencies[^c-3608c11432a8fbe52a48be78227b9999]
 
 (1) In the heading to Article 22 of the Fair Employment and Treatment Order (discrimination by employment agencies) omit the words “Discrimination by”.
 
@@ -299,7 +299,7 @@ After Article 20 of the Fair Employment and Treatment Order insert –
 
 (6) In paragraph (4) of that Article for the words “this Article” substitute “paragraph (1)”.
 
-## 14. Vocational organisations[^key-6f9d4db1c2c4794af20318324539d51c]
+## 14. Vocational organisations[^c-6f9d4db1c2c4794af20318324539d51c]
 
 For Article 23 of the Fair Employment and Treatment Order (discrimination by vocational organisations) there shall be substituted –
 
@@ -319,7 +319,7 @@ For Article 23 of the Fair Employment and Treatment Order (discrimination by voc
 
 .
 
-## 15. Persons providing training services[^key-df8ab6675d01abbf680ac7b3211510a6]
+## 15. Persons providing training services[^c-df8ab6675d01abbf680ac7b3211510a6]
 
 (1) In the heading to Article 24 of the Fair Employment and Treatment Order (discrimination by persons providing training services) omit the words “Discrimination by”.
 
@@ -342,7 +342,7 @@ For Article 23 of the Fair Employment and Treatment Order (discrimination by voc
 
 .
 
-## 16. Assisting persons to obtain employment etc.[^key-a5d2b5d78e1b0a95d485933e29c73e42]
+## 16. Assisting persons to obtain employment etc.[^c-a5d2b5d78e1b0a95d485933e29c73e42]
 
 After Article 24 of the Fair Employment and Treatment Order insert –
 
@@ -357,7 +357,7 @@ After Article 24 of the Fair Employment and Treatment Order insert –
 
 .
 
-## 17. Persons with power to confer qualifications[^key-90ba6f805425e348c9eaa95d39062ddd]
+## 17. Persons with power to confer qualifications[^c-90ba6f805425e348c9eaa95d39062ddd]
 
 (1) In the heading to Article 25 of the Fair Employment and Treatment Order (discrimination by persons with power to confer qualifications) omit the words “Discrimination by”.
 
@@ -375,7 +375,7 @@ After Article 24 of the Fair Employment and Treatment Order insert –
 
 .
 
-## 18. Trustees and managers of occupational pension schemes[^key-fb6d54afc828e0b93c01fd0f3fa38fd7]
+## 18. Trustees and managers of occupational pension schemes[^c-fb6d54afc828e0b93c01fd0f3fa38fd7]
 
 (1) After Article 25 of the Fair Employment and Treatment Order insert –
 
@@ -478,7 +478,7 @@ After Article 24 of the Fair Employment and Treatment Order insert –
 
 .
 
-## 19. Partnerships[^key-494a730305517a551a621ab9c911b775]
+## 19. Partnerships[^c-494a730305517a551a621ab9c911b775]
 
 (1) In the heading to Article 26 of the Fair Employment and Treatment Order (discrimination by partnerships) omit the words “Discrimination by”.
 
@@ -501,7 +501,7 @@ After Article 24 of the Fair Employment and Treatment Order insert –
 
 .
 
-## 20. Harassment in other fields[^key-516128c0972945540c3f35cd5989fb12]
+## 20. Harassment in other fields[^c-516128c0972945540c3f35cd5989fb12]
 
 (1) For the heading to Part IV of the Fair Employment and Treatment Order there shall be substituted “DISCRIMINATION AND HARASSMENT IN OTHER FIELDS”.
 
@@ -516,7 +516,7 @@ After Article 24 of the Fair Employment and Treatment Order insert –
 
 .
 
-## 21. Harassment by, or in relation to, barristers[^key-9434444a13dca00ffdcf149d95249d24]
+## 21. Harassment by, or in relation to, barristers[^c-9434444a13dca00ffdcf149d95249d24]
 
 (1) In the heading to Article 32 of the Fair Employment and Treatment Order (discrimination by, or in relation to, barristers), omit the words “Discrimination by, or in relation to,”.
 
@@ -528,7 +528,7 @@ After Article 24 of the Fair Employment and Treatment Order insert –
 
 (3) In paragraph (3) of that Article after the words “discriminate against any person” insert “or to subject any person to harassment”.
 
-## 22. Relationships which have come to an end[^key-addba1cbc0b3675a77ed58424630ad97]
+## 22. Relationships which have come to an end[^c-addba1cbc0b3675a77ed58424630ad97]
 
 In Part V of the Fair Employment and Treatment Order, before Article 34, insert –
 
@@ -554,14 +554,14 @@ In Part V of the Fair Employment and Treatment Order, before Article 34, insert 
 
 .
 
-## 23. Barristers: Jurisdiction of the Tribunal[^key-c6778af35a81ab54ed1388ce1bbdbb7f]
+## 23. Barristers: Jurisdiction of the Tribunal[^c-c6778af35a81ab54ed1388ce1bbdbb7f]
 
 In Article 38(1) of the Fair Employment and Treatment Order (complaint to Tribunal) –
 
 - (a) after the words “of discrimination” , in both places where they occur, insert “or harassment”; and
 - (b) after the words “Part III” insert “or Article 32”.
 
-## 24. Burden of proof: Tribunal[^key-ee34b5a4557e4eb59fdef6cbe23fcf01]
+## 24. Burden of proof: Tribunal[^c-ee34b5a4557e4eb59fdef6cbe23fcf01]
 
 After Article 38 of the Fair Employment and Treatment Order insert –
 
@@ -576,21 +576,21 @@ After Article 38 of the Fair Employment and Treatment Order insert –
 
 .
 
-## 25. Remedies on complaint under Article 38[^key-34659f50c618eb59dd80927be34682c8]
+## 25. Remedies on complaint under Article 38[^c-34659f50c618eb59dd80927be34682c8]
 
 In Article 39 of the Fair Employment and Treatment Order (remedies on complaint under Article 38) –
 
 - (a) in paragraph (1), after the word “discrimination” in both places where it occurs, insert “or unlawful harassment”; and
 - (b) in paragraph (3), for “Article 3(2)(b)” substitute “Article 3(2A)(b)” and for “requirement or condition” substitute “provision, criterion or practice”.
 
-## 26. Claims under Part IV of the Order[^key-7976ed2349e14db554a1826f008c69ce]
+## 26. Claims under Part IV of the Order[^c-7976ed2349e14db554a1826f008c69ce]
 
 In Article 40 of the Fair Employment and Treatment Order (claims under Part IV) –
 
 - (a) in paragraph (1) omit the words “of discrimination” in both places where they occur and after the words “Part IV” insert “other than Article 32”; and
 - (b) in paragraph (4), after the words “unlawful discrimination” insert “or unlawful harassment”.
 
-## 27. Burden of proof – county court[^key-4cc3cd4934213b1c745e17b1def4a7a1]
+## 27. Burden of proof – county court[^c-4cc3cd4934213b1c745e17b1def4a7a1]
 
 After Article 40 of the Fair Employment and Treatment Order insert –
 
@@ -610,22 +610,22 @@ After Article 40 of the Fair Employment and Treatment Order insert –
 
 .
 
-## 28. Period within which respondent must reply[^key-3cfeb67ce3cff67143004dce807150ba]
+## 28. Period within which respondent must reply[^c-3cfeb67ce3cff67143004dce807150ba]
 
 In Article 44 of the Fair Employment and Treatment Order (help for aggrieved persons in obtaining information etc) –
 
 - (a) in paragraph (1), after the words “discriminated against him”, insert “or subjected him to unlawful harassment”; and
 - (b) in paragraph (2)(b), for the words “reasonable period”, substitute “period of eight weeks beginning with the day on which the question was served on him”.
 
-## 29. Exceptions[^key-98adbd7d9851dca24e046f6f72860527]
+## 29. Exceptions[^c-98adbd7d9851dca24e046f6f72860527]
 
 In Article 70 of the Fair Employment and Treatment Order (excepted employments) omit paragraph (1)(b) and the word “or” immediately before it.
 
-## 30. School teachers[^key-59e2fb0dd826ad07bb46c033f615a6b0]
+## 30. School teachers[^c-59e2fb0dd826ad07bb46c033f615a6b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 31. Charities[^key-8412470b6819ce4db706147a7e205cf3]
+## 31. Charities[^c-8412470b6819ce4db706147a7e205cf3]
 
 In Article 77 of the Fair Employment and Treatment Order (charities) –
 
@@ -636,7 +636,7 @@ In Article 77 of the Fair Employment and Treatment Order (charities) –
 
   .
 
-## 32. Acts done under statutory authority[^key-b1c4a5cc5bdae2552e57463f6977cdb4]
+## 32. Acts done under statutory authority[^c-b1c4a5cc5bdae2552e57463f6977cdb4]
 
 In Article 78 of the Fair Employment and Treatment Order (acts done under statutory authority) –
 
@@ -647,7 +647,7 @@ In Article 78 of the Fair Employment and Treatment Order (acts done under statut
 
   .
 
-## 33. Collective agreements and rules of undertaking[^key-9e101c8cdd1e55cb09cdccc90563ea3b]
+## 33. Collective agreements and rules of undertaking[^c-9e101c8cdd1e55cb09cdccc90563ea3b]
 
 After Article 100 of the Fair Employment and Treatment Order insert –
 
@@ -709,7 +709,7 @@ After Article 100 of the Fair Employment and Treatment Order insert –
 
 .
 
-## 34. Consequential amendments[^key-71245d695b026272002e35de453b78a1]
+## 34. Consequential amendments[^c-71245d695b026272002e35de453b78a1]
 
 The Fair Employment and Treatment Order shall be amended as follows –
 
@@ -792,84 +792,84 @@ A copy of the Regulatory Impact Assessment relating to these Regulations has bee
 
 [^f00002]: Footnote: *see* the European Communities (Designation) (No. 3) Order 2002 ([S.I. 2002/1819](https://www.legislation.gov.uk/uksi/2002/1819))
 
-[^key-0774529bdf17476309fe29b9fbe9d1bf]: Commencement: Reg. 1 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-0774529bdf17476309fe29b9fbe9d1bf]: Commencement: Reg. 1 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^f00004]: Footnote: [S.I. 1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162)
 
-[^key-4106ac33766ba899acebaa466a9cc21f]: Commencement: Reg. 2 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-4106ac33766ba899acebaa466a9cc21f]: Commencement: Reg. 2 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-10aad6aa0f7ed26f4f386369099ecaad]: Commencement: Reg. 3 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-10aad6aa0f7ed26f4f386369099ecaad]: Commencement: Reg. 3 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-3f7421a0477c0433b57b3b6cb5c30c91]: Commencement: Reg. 4 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-3f7421a0477c0433b57b3b6cb5c30c91]: Commencement: Reg. 4 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-5cb487c4f53673b345042300f20ee391]: Commencement: Reg. 5 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-5cb487c4f53673b345042300f20ee391]: Commencement: Reg. 5 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-e364ba3889622385a7740005becc6d23]: Commencement: Reg. 6 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-e364ba3889622385a7740005becc6d23]: Commencement: Reg. 6 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-fa6c5def1e8459461c45e23d2b148dc0]: Commencement: Reg. 7 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-fa6c5def1e8459461c45e23d2b148dc0]: Commencement: Reg. 7 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-bd95a1eed9954eb24e50396d3512e29e]: Commencement: Reg. 8 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-bd95a1eed9954eb24e50396d3512e29e]: Commencement: Reg. 8 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-4aab578615a6ad6e4bcb503dbe8e1f40]: Commencement: Reg. 9 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-4aab578615a6ad6e4bcb503dbe8e1f40]: Commencement: Reg. 9 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-5ee93509f0fea7d15911fa1b82ab5c66]: Commencement: Reg. 10 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-5ee93509f0fea7d15911fa1b82ab5c66]: Commencement: Reg. 10 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-30056dbdbaa87fd5ec44c007d6eb5490]: Commencement: Reg. 11 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-30056dbdbaa87fd5ec44c007d6eb5490]: Commencement: Reg. 11 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
 [^f00005]: Footnote: [1958 c. 21](https://www.legislation.gov.uk/ukpga/1958/21)
 
-[^key-562b98dc414e93dbb71d0b31d13cca7c]: Commencement: Reg. 12 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-562b98dc414e93dbb71d0b31d13cca7c]: Commencement: Reg. 12 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-3608c11432a8fbe52a48be78227b9999]: Commencement: Reg. 13 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-3608c11432a8fbe52a48be78227b9999]: Commencement: Reg. 13 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-6f9d4db1c2c4794af20318324539d51c]: Commencement: Reg. 14 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-6f9d4db1c2c4794af20318324539d51c]: Commencement: Reg. 14 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-df8ab6675d01abbf680ac7b3211510a6]: Commencement: Reg. 15 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-df8ab6675d01abbf680ac7b3211510a6]: Commencement: Reg. 15 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-a5d2b5d78e1b0a95d485933e29c73e42]: Commencement: Reg. 16 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-a5d2b5d78e1b0a95d485933e29c73e42]: Commencement: Reg. 16 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
 [^f00006]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29) as amended by [S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087) Art. 3; *see also* [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999, Art. 4 and Schedule 2, Part II
 
-[^key-90ba6f805425e348c9eaa95d39062ddd]: Commencement: Reg. 17 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-90ba6f805425e348c9eaa95d39062ddd]: Commencement: Reg. 17 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-fb6d54afc828e0b93c01fd0f3fa38fd7]: Commencement: Reg. 18 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-fb6d54afc828e0b93c01fd0f3fa38fd7]: Commencement: Reg. 18 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
 [^f00007]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
 [^f00008]: Footnote: [S.I.1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-494a730305517a551a621ab9c911b775]: Commencement: Reg. 19 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-494a730305517a551a621ab9c911b775]: Commencement: Reg. 19 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-516128c0972945540c3f35cd5989fb12]: Commencement: Reg. 20 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-516128c0972945540c3f35cd5989fb12]: Commencement: Reg. 20 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-9434444a13dca00ffdcf149d95249d24]: Commencement: Reg. 21 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-9434444a13dca00ffdcf149d95249d24]: Commencement: Reg. 21 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-addba1cbc0b3675a77ed58424630ad97]: Commencement: Reg. 22 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-addba1cbc0b3675a77ed58424630ad97]: Commencement: Reg. 22 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-c6778af35a81ab54ed1388ce1bbdbb7f]: Commencement: Reg. 23 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-c6778af35a81ab54ed1388ce1bbdbb7f]: Commencement: Reg. 23 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-ee34b5a4557e4eb59fdef6cbe23fcf01]: Commencement: Reg. 24 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-ee34b5a4557e4eb59fdef6cbe23fcf01]: Commencement: Reg. 24 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-34659f50c618eb59dd80927be34682c8]: Commencement: Reg. 25 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-34659f50c618eb59dd80927be34682c8]: Commencement: Reg. 25 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-7976ed2349e14db554a1826f008c69ce]: Commencement: Reg. 26 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-7976ed2349e14db554a1826f008c69ce]: Commencement: Reg. 26 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-4cc3cd4934213b1c745e17b1def4a7a1]: Commencement: Reg. 27 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-4cc3cd4934213b1c745e17b1def4a7a1]: Commencement: Reg. 27 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-3cfeb67ce3cff67143004dce807150ba]: Commencement: Reg. 28 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-3cfeb67ce3cff67143004dce807150ba]: Commencement: Reg. 28 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-98adbd7d9851dca24e046f6f72860527]: Commencement: Reg. 29 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-98adbd7d9851dca24e046f6f72860527]: Commencement: Reg. 29 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-59e2fb0dd826ad07bb46c033f615a6b0]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/nisr/2003/520/regulation/30) omitted (12.5.2022) by virtue of [Fair Employment (School Teachers) Act (Northern Ireland) 2022 (c. 23)](https://www.legislation.gov.uk/nia/2022/23), [s. 3(1)](https://www.legislation.gov.uk/nia/2022/23/section/3/1)[(2)](https://www.legislation.gov.uk/nia/2022/23/section/3/2), [Sch. para. 6](https://www.legislation.gov.uk/nia/2022/23/schedule/paragraph/6)
+[^c-59e2fb0dd826ad07bb46c033f615a6b0]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/nisr/2003/520/regulation/30) omitted (12.5.2022) by virtue of [Fair Employment (School Teachers) Act (Northern Ireland) 2022 (c. 23)](https://www.legislation.gov.uk/nia/2022/23), [s. 3(1)](https://www.legislation.gov.uk/nia/2022/23/section/3/1)[(2)](https://www.legislation.gov.uk/nia/2022/23/section/3/2), [Sch. para. 6](https://www.legislation.gov.uk/nia/2022/23/schedule/paragraph/6)
 
-[^key-8412470b6819ce4db706147a7e205cf3]: Commencement: Reg. 31 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-8412470b6819ce4db706147a7e205cf3]: Commencement: Reg. 31 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-b1c4a5cc5bdae2552e57463f6977cdb4]: Commencement: Reg. 32 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-b1c4a5cc5bdae2552e57463f6977cdb4]: Commencement: Reg. 32 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
-[^key-9e101c8cdd1e55cb09cdccc90563ea3b]: Commencement: Reg. 33 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-9e101c8cdd1e55cb09cdccc90563ea3b]: Commencement: Reg. 33 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807)
 
-[^key-71245d695b026272002e35de453b78a1]: Commencement: Reg. 34 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)
+[^c-71245d695b026272002e35de453b78a1]: Commencement: Reg. 34 in operation at 10.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/520/regulation/1/1)

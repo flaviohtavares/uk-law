@@ -33,17 +33,17 @@ summary: ''
 
 (5) A superseding decision made in consequence of a decision which is a relevant determination for the purposes of section 27 of the 1998 Act (restrictions on entitlement to benefit in certain cases of error) [^c2167605] takes effect from the date of the relevant determination.
 
-(6)[^key-6fedbf2321f74e7807163b19a38f32e6] In the case of an employment and support allowance, a superseding decision made in accordance with regulation 26(1) (medical evidence and limited capability for work etc.), following an application by the claimant, that embodies a determination that the claimant has limited capability for work-related activity, takes effect from the date of the application.
+(6)[^c-6fedbf2321f74e7807163b19a38f32e6] In the case of an employment and support allowance, a superseding decision made in accordance with regulation 26(1) (medical evidence and limited capability for work etc.), following an application by the claimant, that embodies a determination that the claimant has limited capability for work-related activity, takes effect from the date of the application.
 
-(7)[^key-6fedbf2321f74e7807163b19a38f32e6] In the case of an employment and support allowance, a superseding decision made on the Secretary of State's own initiative in accordance with regulation 26(1) that embodies a determination that the claimant has—
+(7)[^c-6fedbf2321f74e7807163b19a38f32e6] In the case of an employment and support allowance, a superseding decision made on the Secretary of State's own initiative in accordance with regulation 26(1) that embodies a determination that the claimant has—
 
 - (a) limited capability for work; or
 - (b) limited capability for work-related activity; or
 - (c) limited capability for work and limited capability for work-related activity,
 
-takes effect from the day after the last day of the relevant period as defined in regulation 5(4) of the Employment and Support Allowance Regulations 2013[^key-03ed16c80e9668c188d9f76e092501ae] where the determination is the first such determination.
+takes effect from the day after the last day of the relevant period as defined in regulation 5(4) of the Employment and Support Allowance Regulations 2013[^c-03ed16c80e9668c188d9f76e092501ae] where the determination is the first such determination.
 
-(8)[^key-6fedbf2321f74e7807163b19a38f32e6] In the case of an employment and support allowance where regulation 6 of the Employment and Support Allowance Regulations 2013 (assessment phase – previous claimants) applies, a superseding decision made in accordance with regulation 26(1) of these Regulations that embodies a determination that the claimant has—
+(8)[^c-6fedbf2321f74e7807163b19a38f32e6] In the case of an employment and support allowance where regulation 6 of the Employment and Support Allowance Regulations 2013 (assessment phase – previous claimants) applies, a superseding decision made in accordance with regulation 26(1) of these Regulations that embodies a determination that the claimant has—
 
 - (a) limited capability for work; or
 - (b) limited capability for work-related activity; or
@@ -51,7 +51,7 @@ takes effect from the day after the last day of the relevant period as defined i
 
 takes effect from the beginning of the 14th week of the claimant's continuous period of limited capability for work.
 
-(9)[^key-6fedbf2321f74e7807163b19a38f32e6] In the case of universal credit, a superseding decision made in accordance with regulation 26(1) that embodies a determination that the claimant has limited capability for work or limited capability for work and work-related activity takes effect—
+(9)[^c-6fedbf2321f74e7807163b19a38f32e6] In the case of universal credit, a superseding decision made in accordance with regulation 26(1) that embodies a determination that the claimant has limited capability for work or limited capability for work and work-related activity takes effect—
 
 - (a) in a case to which regulation 28(1) (period for which the LCW or LCWRA element is not to be included) of the Universal Credit Regulations applies, from the beginning of the assessment period specified in that paragraph; or
 - (b) in any other case, from the beginning of the assessment period in which the decision (if made on the Secretary of State's own initiative) or the application for a supersession was made.
@@ -84,8 +84,8 @@ takes effect from the beginning of the 14th week of the claimant's continuous pe
 
 [^c2167605]: Marginal citation: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14). Section 27(1) and (3) was amended by [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833). Section 27(7) was amended by the 2002 Act, section 11, Schedule 1, Part 2, by the [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [section 40(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/40/4) and Schedule 9, paragraph 64, by the 2007 Act, section 28 and by Schedule 3, paragraph 17, by the 2012 Act, sections 31 and 91 and Schedule 2, paragraphs 43 and 47, Schedule 9, paragraphs 37 and 41 and by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). Section 27(10) was amended by [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
 
-[^key-6fedbf2321f74e7807163b19a38f32e6]: Modification: Reg. 35(6)-(9) applied (with modifications) (temp.) (13.3.2020) by [The Employment and Support Allowance and Universal Credit (Coronavirus Disease) Regulations 2020 (S.I. 2020/289)](https://www.legislation.gov.uk/uksi/2020/289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/289/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/289/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/289/regulation/5)) (as amended (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2020/371/regulation/10/3))
+[^c-6fedbf2321f74e7807163b19a38f32e6]: Modification: Reg. 35(6)-(9) applied (with modifications) (temp.) (13.3.2020) by [The Employment and Support Allowance and Universal Credit (Coronavirus Disease) Regulations 2020 (S.I. 2020/289)](https://www.legislation.gov.uk/uksi/2020/289), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/289/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/289/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/289/regulation/5)) (as amended (30.3.2020) by [The Social Security (Coronavirus) (Further Measures) Regulations 2020 (S.I. 2020/371)](https://www.legislation.gov.uk/uksi/2020/371), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/371/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2020/371/regulation/10/3))
 
-[^key-03ed16c80e9668c188d9f76e092501ae]: Textual amendment: Words in reg. 35(7) substituted (30.3.2015) by [The Jobseeker's Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2015/339/regulation/8/3)
+[^c-03ed16c80e9668c188d9f76e092501ae]: Textual amendment: Words in reg. 35(7) substituted (30.3.2015) by [The Jobseeker's Allowance (Extended Period of Sickness) Amendment Regulations 2015 (S.I. 2015/339)](https://www.legislation.gov.uk/uksi/2015/339), [regs. 1](https://www.legislation.gov.uk/uksi/2015/339/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2015/339/regulation/8/3)
 
 [^c2167606]: Marginal citation: Section 6B was inserted by section 24(1) of the 2009 Act. Section 6B is amended by section 113(8) of the 2012 Act and by the 2009 and 2012 Acts, from a date to be appointed. Section 7 was amended by paragraph 45 of Schedule 2 to the 2002 Act, by Schedule 6 to the Tax Credits, by section 49 of, and paragraph 23 to Schedule 3 to, the 2007 Act and by paragraph 2 of Schedule 4 to the 2009 Act. Section 7(4A) was inserted by paragraph 45(2) of Schedule 2 to the 2002 Act. Section 7(4B) was inserted by paragraph 23(2) of Schedule 3 to the 2007 Act.

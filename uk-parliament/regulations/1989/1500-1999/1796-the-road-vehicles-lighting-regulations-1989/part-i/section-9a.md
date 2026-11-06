@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9A. Exemptions—Tramcars[^key-591064b84cc073ac7e2887971e0d0ecd]
+## 9A. Exemptions—Tramcars[^c-591064b84cc073ac7e2887971e0d0ecd]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Parts II to IV of these Regulations do not apply to tramcars.
 
 ## Annotations
 
-[^key-591064b84cc073ac7e2887971e0d0ecd]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/1989/1796/regulation/9A) inserted (1.7.1992) by [Tramcars and Trolley Vehicles (Modification of Enactments) Regulations 1992 (S.I. 1992/1217)](https://www.legislation.gov.uk/uksi/1992/1217), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1217/regulation/1), [14](https://www.legislation.gov.uk/uksi/1992/1217/regulation/14)
+[^c-591064b84cc073ac7e2887971e0d0ecd]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/1989/1796/regulation/9A) inserted (1.7.1992) by [Tramcars and Trolley Vehicles (Modification of Enactments) Regulations 1992 (S.I. 1992/1217)](https://www.legislation.gov.uk/uksi/1992/1217), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1217/regulation/1), [14](https://www.legislation.gov.uk/uksi/1992/1217/regulation/14)

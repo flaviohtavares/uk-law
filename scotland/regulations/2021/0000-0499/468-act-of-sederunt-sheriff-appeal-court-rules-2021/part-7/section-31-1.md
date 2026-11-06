@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31.1. Appeals from Simple Procedure[^key-5589b4453b458a7e2cd5e4a41427c1ec]
+## 31.1. Appeals from Simple Procedure[^c-5589b4453b458a7e2cd5e4a41427c1ec]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Part 16 of the Simple Procedure Rules[^f00037] applies to an appeal of a decisio
 
 ## Annotations
 
-[^key-5589b4453b458a7e2cd5e4a41427c1ec]: Commencement: Para. 31.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-5589b4453b458a7e2cd5e4a41427c1ec]: Commencement: Para. 31.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00037]: Footnote: [S.S.I. 2016/200](https://www.legislation.gov.uk/ssi/2016/200), last amended by [S.S.I. 2021/295](https://www.legislation.gov.uk/ssi/2021/295).

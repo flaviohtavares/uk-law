@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Supply of documents[^key-e5234867afcd327cbe03f6463ba2a106]
+## 20. Supply of documents[^c-e5234867afcd327cbe03f6463ba2a106]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to regulation 19, an authority may make a reasonable charge for the supp
 
 ## Annotations
 
-[^key-e5234867afcd327cbe03f6463ba2a106]: Commencement: Reg. 20 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-e5234867afcd327cbe03f6463ba2a106]: Commencement: Reg. 20 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

@@ -26,10 +26,10 @@ summary: ''
 
 (3) In this section “**the relevant time**” means the time when the contract ceases to be a derivative contract.
 
-(4) For the purposes of this section, the “notional carrying value” of the contract at the relevant time is the amount which would have been the tax-adjusted carrying value of the contract based on[^key-7da3ad2a13e867423380b8a6c3155da6] the accounts of the company if a period of account had ended immediately before that time.
+(4) For the purposes of this section, the “notional carrying value” of the contract at the relevant time is the amount which would have been the tax-adjusted carrying value of the contract based on[^c-7da3ad2a13e867423380b8a6c3155da6] the accounts of the company if a period of account had ended immediately before that time.
 
 (5) See also section 662 (chargeable gains provision for contracts ceasing to be derivative contracts).
 
 ## Annotations
 
-[^key-7da3ad2a13e867423380b8a6c3155da6]: Textual amendment: Words in s. 622(4) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 78](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/78)
+[^c-7da3ad2a13e867423380b8a6c3155da6]: Textual amendment: Words in s. 622(4) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 78](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/78)

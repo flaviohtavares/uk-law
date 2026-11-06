@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Institutions of further and higher education[^key-02c856a58637cbd358322577b901b2d4]
+## 24. Institutions of further and higher education[^c-02c856a58637cbd358322577b901b2d4]
 
 *Extent: N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-02c856a58637cbd358322577b901b2d4]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/261/regulation/24) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-02c856a58637cbd358322577b901b2d4]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/261/regulation/24) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00021]: Footnote: S.I. [1997/1772 (N.I.15)](https://www.legislation.gov.uk/nisi/1997/1772)
 

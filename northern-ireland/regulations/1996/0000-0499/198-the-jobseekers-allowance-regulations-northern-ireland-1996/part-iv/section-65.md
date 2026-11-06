@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Active seeking[^key-e78855c64c3e39780eff080113e85f7a]
+## 65. Active seeking[^c-e78855c64c3e39780eff080113e85f7a]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e78855c64c3e39780eff080113e85f7a]: Commencement: Reg. 65 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-e78855c64c3e39780eff080113e85f7a]: Commencement: Reg. 65 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

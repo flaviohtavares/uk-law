@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Technical assistance relating to restricted goods and restricted technology[^key-893ca9ac94a3786dc2323787975405ba][^key-d5594a92350a406d8ac1cef679cf88e9]
+## 25. Technical assistance relating to restricted goods and restricted technology[^c-893ca9ac94a3786dc2323787975405ba][^c-d5594a92350a406d8ac1cef679cf88e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-893ca9ac94a3786dc2323787975405ba]: Commencement: Reg. 25 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-893ca9ac94a3786dc2323787975405ba]: Commencement: Reg. 25 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-d5594a92350a406d8ac1cef679cf88e9]: Commencement: Reg. 25 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5594a92350a406d8ac1cef679cf88e9]: Commencement: Reg. 25 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

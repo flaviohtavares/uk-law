@@ -40,7 +40,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 ## Preliminary
 
-### 1. Citation and commencement[^key-7309411a8e1e2eb1628c3296e611a511]
+### 1. Citation and commencement[^c-7309411a8e1e2eb1628c3296e611a511]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Deficiency on Winding Up, etc.) Regulations (Northern Ireland) 1996.
 
@@ -54,7 +54,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (6) Regulations 7 to 9 shall only apply where the act or omission to which the reduction in value is attributable occurred after 5th April 1997.
 
-### 2. Interpretation[^key-e9a5c835a270c35d4088c8dc3595b0df]
+### 2. Interpretation[^c-e9a5c835a270c35d4088c8dc3595b0df]
 
 **Not yet in force.**
 
@@ -105,7 +105,7 @@ the scheme begins to be wound up at the time specified in the order or, if none 
 
 **Not yet in force.**
 
-### 3. Calculation of the value of scheme liabilities and assets[^key-f76fe288ca301e1657bde4a1b97acfed]
+### 3. Calculation of the value of scheme liabilities and assets[^c-f76fe288ca301e1657bde4a1b97acfed]
 
 (1) The liabilities and assets of a scheme which are to be taken into account for the purposes of Article 75(1) and their amount or value shall be determined, calculated and verified by the actuary—
 
@@ -130,7 +130,7 @@ and where in these Regulations (or in the MFR Regulations as applied by this par
 
 .
 
-### 4. Multi-employer schemes[^key-c0cb7d0e385058fdad5622ff5439b599]
+### 4. Multi-employer schemes[^c-c0cb7d0e385058fdad5622ff5439b599]
 
 (1) In its application to a scheme in relation to which there is more than one employer, Article 75 has effect with the following modifications.
 
@@ -178,7 +178,7 @@ and where in these Regulations (or in the MFR Regulations as applied by this par
 
 shall be such amount as is determined, calculated and verified by the actuary in accordance with the guidance given in GN 19; and a determination under this paragraph must be certified by the actuary as being in accordance with that guidance.
 
-### 5. Former employers[^key-324360f6e5ef37f3245c51945ce32050]
+### 5. Former employers[^c-324360f6e5ef37f3245c51945ce32050]
 
 (1) In the application of Article 75 and these Regulations to a scheme which has no active members, “the employer” includes every person who employed persons in the description or category of employment to which the scheme relates immediately before the occurrence of the event after which the scheme ceased to have any active members.
 
@@ -193,7 +193,7 @@ shall be such amount as is determined, calculated and verified by the actuary in
 - (b) that such a debt was treated as becoming due from him and has been paid before the applicable time;
 - (c) that such a debt was treated as becoming due from him but at the applicable time it is excluded from the value of the assets of the scheme by virtue of regulation 6(1)(*b*) of the MFR Regulations (exclusion of debts unlikely to be recovered).
 
-### 6. Ceasing to participate: transitional provision[^key-b34ad6768a64b75a6e09466cb1e3b44c]
+### 6. Ceasing to participate: transitional provision[^c-b34ad6768a64b75a6e09466cb1e3b44c]
 
 (1) This regulation applies to a scheme if a person ceased to be a person employing persons in the description or category of employment to which the scheme relates during the period beginning on 19th December 1996 and ending with 5th April 1997 and at a time when the scheme was not being wound up and continued to have active members; and in this regulation “former participator” means a person who so ceased.
 
@@ -214,7 +214,7 @@ whichever is the earlier.
 
 **Not yet in force.**
 
-### 7. Money purchase schemes: deficiency in assets owing to fraud, etc.[^key-32168752ea33a96b3a7e91af14db1cd7]
+### 7. Money purchase schemes: deficiency in assets owing to fraud, etc.[^c-32168752ea33a96b3a7e91af14db1cd7]
 
 (1) Subject to regulation 10, Article 75 shall apply to money purchase schemes with the following modifications.
 
@@ -255,13 +255,13 @@ adjusted appropriately to take account of any alteration in their values (other 
 - “ear-marked scheme” means a scheme under which all the benefits are secured by one or more policies of insurance or annuity contracts, being policies or contracts specifically allocated to the provision of benefits for individual members or any other person who has a right to benefits under the scheme; and
 - “the relevant insurer”, in relation to such a scheme, is the insurer with whom the insurance contract or annuity contract is made.
 
-### 8. Multi-employer money purchase schemes[^key-9cab31f2369b9dfbf819a4da0f5d4999]
+### 8. Multi-employer money purchase schemes[^c-9cab31f2369b9dfbf819a4da0f5d4999]
 
 (1) Regulation 4(1) and (3) to (5) does not apply to a money purchase scheme, but in its application to such a scheme in relation to which there is more than one employer, Article 75 (as modified by regulation 7) applies with the insertion after paragraph (1) of the same paragraphs as are inserted by regulation 4(2), omitting from paragraph (1A) the words “, in the opinion of the actuary after consultation with the trustees or managers,”.
 
 (2) Where (apart from this paragraph) Article 75 does not apply to a money purchase scheme with the modification made by paragraph (1) but, if it did so, paragraph (1C) of that Article would apply to the scheme, that Article shall have effect with the modification made by paragraph (1).
 
-### 9. Money purchase schemes: former employers[^key-ca303d73221019aca98d088a1fc37fc4]
+### 9. Money purchase schemes: former employers[^c-ca303d73221019aca98d088a1fc37fc4]
 
 Regulations 5 and 6 shall not apply to a money purchase scheme, but in the application of Article 75 and these Regulations to such a scheme which has no active members at the applicable time, “the employer” includes every person who employed persons in the description or category of employment to which the scheme relates immediately before the occurrence of the event after which the scheme ceased to have any active members.
 
@@ -269,7 +269,7 @@ Regulations 5 and 6 shall not apply to a money purchase scheme, but in the appli
 
 **Not yet in force.**
 
-### 10. Disapplication of Article 75[^key-0c277b9edee9f5b1b17bc0b964ec425b]
+### 10. Disapplication of Article 75[^c-0c277b9edee9f5b1b17bc0b964ec425b]
 
 (1) Article 75 does not apply to—
 
@@ -300,15 +300,15 @@ Regulations 5 and 6 shall not apply to a money purchase scheme, but in the appli
 
 (3) For the purposes of paragraph (1)(*e*), “scheme” shall be construed as if paragraphs (1B) and (1C) of Article 75 (as inserted by regulation 4(2) or, as the case may be, regulation 8) were omitted.
 
-### 11. Minor modifications[^key-7af0246a1b82c30550dae7e2c63c2196]
+### 11. Minor modifications[^c-7af0246a1b82c30550dae7e2c63c2196]
 
 Schedule 2 shall have effect for the purpose of modifying Article 75 and these Regulations.
 
-### 12. Modification of schemes: apportionment of Article 75 debts[^key-0624dda40a6fc710e06944bef4a659fd]
+### 12. Modification of schemes: apportionment of Article 75 debts[^c-0624dda40a6fc710e06944bef4a659fd]
 
 In the case of a trust scheme (whether or not a money purchase scheme) which apart from this regulation could not be modified for the purpose of making provision for the total amount of a debt due under Article 75(1) to be apportioned amongst the employers in different proportions from those which would otherwise apply by virtue of Article 75(1A) (as inserted by regulation 4(2) or, as the case may be, regulation 8), for the purposes of Article 68(2)(*e*), such a modification of the scheme is a modification for a prescribed purpose.
 
-### 13. Revocations and savings[^key-86de7d6525bf0795437c959275262381]
+### 13. Revocations and savings[^c-86de7d6525bf0795437c959275262381]
 
 (1) The Occupational Pension Schemes (Deficiency on Winding Up, etc.) Regulations (Northern Ireland) 1994[^f00011] (“the 1994 Regulations”) are hereby revoked, except in their application in any case in which section 140 of the Pension Schemes Act continues to apply (schemes which began winding up before 19th December 1996 and debts treated as due by virtue of valuations as at applicable times falling before 6th April 1997).
 
@@ -329,7 +329,7 @@ Assistant Secretary
 
 **Not yet in force.**
 
-## SCHEDULE 1[^key-0c87f4eaaaa332b37174d9c827c54a03]
+## SCHEDULE 1[^c-0c87f4eaaaa332b37174d9c827c54a03]
 
 Regulation 3(2)
 
@@ -343,7 +343,7 @@ Actuarial Certificate given for the purposes of Regulation 3 of the Occupational
 
 Regulation 11
 
-### 1. Schemes covering United Kingdom and foreign employment[^key-e4e7b6a4810def830a8d2af4bf89e581]
+### 1. Schemes covering United Kingdom and foreign employment[^c-e4e7b6a4810def830a8d2af4bf89e581]
 
 (1) This paragraph applies where a scheme which applies to members in employment in the United Kingdom and members in employment outside the United Kingdom is divided into 2 or more sections and the provisions of the scheme are such that—
 
@@ -356,15 +356,15 @@ Regulation 11
 
 (3) Where this paragraph applies, Article 75 and these Regulations shall apply as if each section of the scheme were a separate scheme, and the reference to the scheme in the form set out in Schedule 1 may be modified appropriately.
 
-**2.**[^key-66a1647acfec0c21ff13f0de864adb67] (1) This paragraph applies in any case where a scheme which applies to members in employment in the United Kingdom and members in employment outside the United Kingdom does not fall within paragraph 1 and part of the scheme is approved under section 590 or 591 of the Taxes Act 1988 by virtue of section 611(3) of that Act.
+**2.**[^c-66a1647acfec0c21ff13f0de864adb67] (1) This paragraph applies in any case where a scheme which applies to members in employment in the United Kingdom and members in employment outside the United Kingdom does not fall within paragraph 1 and part of the scheme is approved under section 590 or 591 of the Taxes Act 1988 by virtue of section 611(3) of that Act.
 
 (2) Where this paragraph applies, Article 75 and these Regulations shall apply as if the approved and unapproved parts of the scheme were separate schemes, and the reference to the scheme in the form set out in Schedule 1 may be modified appropriately.
 
-### 3. Schemes with partial government guarantee[^key-cdce13940374fcbe634141c0749e6b99]
+### 3. Schemes with partial government guarantee[^c-cdce13940374fcbe634141c0749e6b99]
 
 Where such a guarantee has been given or such arrangements have been made as are mentioned in regulation 10(1)(*b*) in respect of part only of a scheme, Article 75 and these Regulations shall apply as if that part and the other part of the scheme were separate schemes, and the reference to the scheme in the form set out in Schedule 1 may be modified appropriately.
 
-### 4. Schemes providing salary-related death benefits[^key-963c131de6688ac409cf36f35ad70f42]
+### 4. Schemes providing salary-related death benefits[^c-963c131de6688ac409cf36f35ad70f42]
 
 In determining for the purposes of Article 75 and these Regulations whether a scheme is a money purchase scheme, death benefits which are not money purchase benefits shall be disregarded.
 
@@ -408,9 +408,9 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00001]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-7309411a8e1e2eb1628c3296e611a511]: Commencement: Reg. 1 in operation at 19.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/2)
+[^c-7309411a8e1e2eb1628c3296e611a511]: Commencement: Reg. 1 in operation at 19.12.1996, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/2)
 
-[^key-e9a5c835a270c35d4088c8dc3595b0df]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
+[^c-e9a5c835a270c35d4088c8dc3595b0df]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
 
 [^f00002]: Footnote: [S.R. 1996 No. 570](https://www.legislation.gov.uk/nisr/1996/570)
 
@@ -418,23 +418,23 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-f76fe288ca301e1657bde4a1b97acfed]: Commencement: Reg. 3 in operation at 6.4.1997 with application in accordance with reg. 1(4)(5)
+[^c-f76fe288ca301e1657bde4a1b97acfed]: Commencement: Reg. 3 in operation at 6.4.1997 with application in accordance with reg. 1(4)(5)
 
 [^f00005]: Footnote: [S.R. 1996 No. 584](https://www.legislation.gov.uk/nisr/1996/584)
 
-[^key-c0cb7d0e385058fdad5622ff5439b599]: Commencement: Reg. 4 in operation at 6.4.1997 with application in accordance with reg. 1(4)(5)
+[^c-c0cb7d0e385058fdad5622ff5439b599]: Commencement: Reg. 4 in operation at 6.4.1997 with application in accordance with reg. 1(4)(5)
 
-[^key-324360f6e5ef37f3245c51945ce32050]: Commencement: Reg. 5 in operation at 6.4.1997 with application in accordance with reg. 1(4)(5)
+[^c-324360f6e5ef37f3245c51945ce32050]: Commencement: Reg. 5 in operation at 6.4.1997 with application in accordance with reg. 1(4)(5)
 
-[^key-b34ad6768a64b75a6e09466cb1e3b44c]: Commencement: Reg. 6 in operation at 6.4.1997 with application in accordance with reg. 1(4)(5)
+[^c-b34ad6768a64b75a6e09466cb1e3b44c]: Commencement: Reg. 6 in operation at 6.4.1997 with application in accordance with reg. 1(4)(5)
 
-[^key-32168752ea33a96b3a7e91af14db1cd7]: Commencement: Reg. 7 in operation at 6.4.1997 with application in accordance with reg. 1(6)
+[^c-32168752ea33a96b3a7e91af14db1cd7]: Commencement: Reg. 7 in operation at 6.4.1997 with application in accordance with reg. 1(6)
 
-[^key-9cab31f2369b9dfbf819a4da0f5d4999]: Commencement: Reg. 8 in operation at 6.4.1997 with application in accordance with reg. 1(6)
+[^c-9cab31f2369b9dfbf819a4da0f5d4999]: Commencement: Reg. 8 in operation at 6.4.1997 with application in accordance with reg. 1(6)
 
-[^key-ca303d73221019aca98d088a1fc37fc4]: Commencement: Reg. 9 in operation at 6.4.1997 with application in accordance with reg. 1(6)
+[^c-ca303d73221019aca98d088a1fc37fc4]: Commencement: Reg. 9 in operation at 6.4.1997 with application in accordance with reg. 1(6)
 
-[^key-0c277b9edee9f5b1b17bc0b964ec425b]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
+[^c-0c277b9edee9f5b1b17bc0b964ec425b]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
 
 [^f00006]: Footnote: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
 
@@ -446,20 +446,20 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00010]: Footnote: Section 611A was inserted by paragraph 15 of Schedule 6 to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26)
 
-[^key-7af0246a1b82c30550dae7e2c63c2196]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
+[^c-7af0246a1b82c30550dae7e2c63c2196]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
 
-[^key-0624dda40a6fc710e06944bef4a659fd]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
+[^c-0624dda40a6fc710e06944bef4a659fd]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
 
-[^key-86de7d6525bf0795437c959275262381]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
+[^c-86de7d6525bf0795437c959275262381]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
 
 [^f00011]: Footnote: [S.R. 1994 No. 107](https://www.legislation.gov.uk/nisr/1994/107)
 
-[^key-0c87f4eaaaa332b37174d9c827c54a03]: Commencement: Sch. 1 in operation at 6.4.1997 with application in accordance with reg. 1(4)(5)
+[^c-0c87f4eaaaa332b37174d9c827c54a03]: Commencement: Sch. 1 in operation at 6.4.1997 with application in accordance with reg. 1(4)(5)
 
-[^key-e4e7b6a4810def830a8d2af4bf89e581]: Commencement: Sch. 2 para. 1 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
+[^c-e4e7b6a4810def830a8d2af4bf89e581]: Commencement: Sch. 2 para. 1 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
 
-[^key-66a1647acfec0c21ff13f0de864adb67]: Commencement: Sch. 2 para. 2 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
+[^c-66a1647acfec0c21ff13f0de864adb67]: Commencement: Sch. 2 para. 2 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
 
-[^key-cdce13940374fcbe634141c0749e6b99]: Commencement: Sch. 2 para. 3 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
+[^c-cdce13940374fcbe634141c0749e6b99]: Commencement: Sch. 2 para. 3 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
 
-[^key-963c131de6688ac409cf36f35ad70f42]: Commencement: Sch. 2 para. 4 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)
+[^c-963c131de6688ac409cf36f35ad70f42]: Commencement: Sch. 2 para. 4 in operation at 6.4.1997, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/585/regulation/1/3)

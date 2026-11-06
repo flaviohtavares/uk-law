@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Application to have person medically examined[^key-2b66f9fff9d57ad0d61e468639a49e79]
+## 33. Application to have person medically examined[^c-2b66f9fff9d57ad0d61e468639a49e79]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b66f9fff9d57ad0d61e468639a49e79]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2008/5/section/33) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-2b66f9fff9d57ad0d61e468639a49e79]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2008/5/section/33) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

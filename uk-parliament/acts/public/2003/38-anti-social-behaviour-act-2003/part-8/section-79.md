@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 79. Service of documents[^key-98eaa14425377d1a504bf2e484c62adc][^key-1fee15352fc2d32470199531c0ce7d8c]
+## 79. Service of documents[^c-98eaa14425377d1a504bf2e484c62adc][^c-1fee15352fc2d32470199531c0ce7d8c]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ the document may be served either by leaving it in the hands of a person who is 
 
 ## Annotations
 
-[^key-98eaa14425377d1a504bf2e484c62adc]: Commencement: S. 79 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-98eaa14425377d1a504bf2e484c62adc]: Commencement: S. 79 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-1fee15352fc2d32470199531c0ce7d8c]: Commencement: S. 79 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-1fee15352fc2d32470199531c0ce7d8c]: Commencement: S. 79 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

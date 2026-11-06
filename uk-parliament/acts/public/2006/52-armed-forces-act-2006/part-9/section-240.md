@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Increase in sentence for racial or religious aggravation[^key-20f68a75cc1899f1ca6838c4a7dea386][^key-62c8f983afe5bfaf7abda3e9dfb16732]
+## 240. Increase in sentence for racial or religious aggravation[^c-20f68a75cc1899f1ca6838c4a7dea386][^c-62c8f983afe5bfaf7abda3e9dfb16732]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-20f68a75cc1899f1ca6838c4a7dea386]: Commencement: S. 240 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-20f68a75cc1899f1ca6838c4a7dea386]: Commencement: S. 240 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-62c8f983afe5bfaf7abda3e9dfb16732]: Commencement: S. 240 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-62c8f983afe5bfaf7abda3e9dfb16732]: Commencement: S. 240 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

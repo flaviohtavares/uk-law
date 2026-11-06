@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Tenancy deposit information[^key-638371a8f55b7ce99319125fa95decba]
+## 128. Tenancy deposit information[^c-638371a8f55b7ce99319125fa95decba]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-638371a8f55b7ce99319125fa95decba]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2016/22/section/128) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/g)
+[^c-638371a8f55b7ce99319125fa95decba]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2016/22/section/128) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/g)

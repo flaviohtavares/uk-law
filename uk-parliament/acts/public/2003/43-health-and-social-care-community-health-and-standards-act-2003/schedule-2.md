@@ -24,32 +24,32 @@ Section 2
 
 ### Membership
 
-**1.**[^key-75319495c017a12912fdf66367c15332] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-75319495c017a12912fdf66367c15332] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Tenure of office
 
-**2.**[^key-75319495c017a12912fdf66367c15332] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-75319495c017a12912fdf66367c15332] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Remuneration and pensions
 
-**3.**[^key-75319495c017a12912fdf66367c15332] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-75319495c017a12912fdf66367c15332] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Staff
 
-**4.**[^key-75319495c017a12912fdf66367c15332] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-75319495c017a12912fdf66367c15332] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Superannuation
 
-**5.**[^key-1a85ddca537a6ee7bbce4855fe61102c] (1) Sub-paragraph (2) applies where—
+**5.**[^c-1a85ddca537a6ee7bbce4855fe61102c] (1) Sub-paragraph (2) applies where—
 
 - (a) a person is an active or deferred member of a scheme under section 1 of the Superannuation Act 1972 (c. 11), and
 - (b) he is appointed as chairman.
 
-(2)[^key-75319495c017a12912fdf66367c15332] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-75319495c017a12912fdf66367c15332] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-83d0ff56e8b07512fa046c9dcedac78b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-83d0ff56e8b07512fa046c9dcedac78b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-78fd883e15f729f402ae063cad543ca6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-78fd883e15f729f402ae063cad543ca6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Procedure
 
@@ -91,21 +91,21 @@ Section 2
 
 ### Amendments
 
-**17.**[^key-dc81695c81e822a3c11b9871429e0633] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-dc81695c81e822a3c11b9871429e0633] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-fa97afc602aa30487b80ec8f37723f5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-fa97afc602aa30487b80ec8f37723f5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-524ce9bdb3d7cb0da5ae70ff54442f7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-524ce9bdb3d7cb0da5ae70ff54442f7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-75319495c017a12912fdf66367c15332]: Textual amendment: Sch. 2 paras. 1-5(2) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-75319495c017a12912fdf66367c15332]: Textual amendment: Sch. 2 paras. 1-5(2) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-1a85ddca537a6ee7bbce4855fe61102c]: Commencement: Sch. 2 para. 5 in force at 1.1.2004 by [S.I. 2003/3346](https://www.legislation.gov.uk/uksi/2003/3346), [art. 2](https://www.legislation.gov.uk/uksi/2003/3346/article/2)
+[^c-1a85ddca537a6ee7bbce4855fe61102c]: Commencement: Sch. 2 para. 5 in force at 1.1.2004 by [S.I. 2003/3346](https://www.legislation.gov.uk/uksi/2003/3346), [art. 2](https://www.legislation.gov.uk/uksi/2003/3346/article/2)
 
-[^key-83d0ff56e8b07512fa046c9dcedac78b]: Textual amendment: [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2003/43/schedule/2/paragraph/5/3) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 13 para. 4(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/13/paragraph/4/2); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-83d0ff56e8b07512fa046c9dcedac78b]: Textual amendment: [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2003/43/schedule/2/paragraph/5/3) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 13 para. 4(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/13/paragraph/4/2); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
-[^key-78fd883e15f729f402ae063cad543ca6]: Textual amendment: Sch. 2 paras. 5(4)-16 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-78fd883e15f729f402ae063cad543ca6]: Textual amendment: Sch. 2 paras. 5(4)-16 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^M_F_e97369f4-3a8c-4e1f-d658-c21cbbf3b76e]: Textual amendment: Sch. 2 paras. 5(4)-16 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
@@ -129,8 +129,8 @@ Section 2
 
 [^M_F_9a0ad24a-31a5-46f5-9fd5-9ca91fc5a2c3]: Textual amendment: Sch. 2 paras. 5(4)-16 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-dc81695c81e822a3c11b9871429e0633]: Textual amendment: Sch. 2 para. 17 omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 13 para. 3(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/13/paragraph/3/2); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-dc81695c81e822a3c11b9871429e0633]: Textual amendment: Sch. 2 para. 17 omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 13 para. 3(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/13/paragraph/3/2); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
-[^key-fa97afc602aa30487b80ec8f37723f5f]: Textual amendment: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2003/43/schedule/2/paragraph/18) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 13 para. 5(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/13/paragraph/5/2); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-fa97afc602aa30487b80ec8f37723f5f]: Textual amendment: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2003/43/schedule/2/paragraph/18) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 13 para. 5(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/13/paragraph/5/2); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
-[^key-524ce9bdb3d7cb0da5ae70ff54442f7a]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2003/43/schedule/2/paragraph/19) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 13 para. 6(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/13/paragraph/6/2); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-524ce9bdb3d7cb0da5ae70ff54442f7a]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2003/43/schedule/2/paragraph/19) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 13 para. 6(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/13/paragraph/6/2); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)

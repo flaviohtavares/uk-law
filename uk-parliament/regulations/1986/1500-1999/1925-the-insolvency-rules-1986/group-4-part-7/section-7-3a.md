@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.3A. Application under section 176A(5) to disapply section 176A[^key-5b5e3767d2fbcdf63398e6757abd7db5]
+## 7.3A. Application under section 176A(5) to disapply section 176A[^c-5b5e3767d2fbcdf63398e6757abd7db5]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b5e3767d2fbcdf63398e6757abd7db5]: Textual amendment: [Rule 7](https://www.legislation.gov.uk/uksi/1986/1925/rule/7).3A inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/55)
+[^c-5b5e3767d2fbcdf63398e6757abd7db5]: Textual amendment: [Rule 7](https://www.legislation.gov.uk/uksi/1986/1925/rule/7).3A inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/55)

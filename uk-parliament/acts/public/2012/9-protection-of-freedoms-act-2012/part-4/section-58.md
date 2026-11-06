@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Emergency power for temporary extension and review of extensions[^key-a9572399861bebe53262c8a4cc942bb0]
+## 58. Emergency power for temporary extension and review of extensions[^c-a9572399861bebe53262c8a4cc942bb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -150,4 +150,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9572399861bebe53262c8a4cc942bb0]: Commencement: S. 58 in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/b)
+[^c-a9572399861bebe53262c8a4cc942bb0]: Commencement: S. 58 in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/b)

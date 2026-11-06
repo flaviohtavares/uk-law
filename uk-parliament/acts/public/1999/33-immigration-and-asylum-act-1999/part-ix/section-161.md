@@ -29,7 +29,7 @@ summary: ''
 
 (3) In the 1949 Act, in section 26(1) (marriages which may be solemnized on authority of a certificate of a superintendent registrar), for “a certificate” substitute “two certificates”.
 
-(4)[^key-a2823ede6aae9a88958e93244a098213] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a2823ede6aae9a88958e93244a098213] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c11434881]: Marginal citation: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
 
-[^key-a2823ede6aae9a88958e93244a098213]: Textual amendment: [S. 161(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/161/4) repealed (N.I.) (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413)](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)
+[^c-a2823ede6aae9a88958e93244a098213]: Textual amendment: [S. 161(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/161/4) repealed (N.I.) (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413)](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)

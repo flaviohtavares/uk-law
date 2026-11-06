@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Transitional arrangements[^key-8b2b0be8de1a9df7dd0ba09ed77c5965][^key-0e3dab98c22236e5291fcca6f57a20da]
+## 67. Transitional arrangements[^c-8b2b0be8de1a9df7dd0ba09ed77c5965][^c-0e3dab98c22236e5291fcca6f57a20da]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b2b0be8de1a9df7dd0ba09ed77c5965]: Commencement: S. 67 in force at 8.9.2008 as it applies in relation to, or makes provision about the tax implications of, schemes under ss. 51 and 65 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
+[^c-8b2b0be8de1a9df7dd0ba09ed77c5965]: Commencement: S. 67 in force at 8.9.2008 as it applies in relation to, or makes provision about the tax implications of, schemes under ss. 51 and 65 by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
 
-[^key-0e3dab98c22236e5291fcca6f57a20da]: Commencement: S. 67 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-0e3dab98c22236e5291fcca6f57a20da]: Commencement: S. 67 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

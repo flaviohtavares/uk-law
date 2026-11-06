@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — REVIEW OF OLD MINERAL PLANNING PERMISSION[^key-88af436bbda1793766bd881d07732b61]
+## SCHEDULE 2 — REVIEW OF OLD MINERAL PLANNING PERMISSION[^c-88af436bbda1793766bd881d07732b61]
 
 *Extent: N.I.*
 
@@ -502,4 +502,4 @@ then for the purpose of the determination of the applications and any appeal aga
 
 ## Annotations
 
-[^key-88af436bbda1793766bd881d07732b61]: Modification: [Schs. 1-3](https://www.legislation.gov.uk/nia/2011/25/schedule/1): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-88af436bbda1793766bd881d07732b61]: Modification: [Schs. 1-3](https://www.legislation.gov.uk/nia/2011/25/schedule/1): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Sealing up of corresponding number lists and security of special lists[^key-fc4199f138fe5a7f84f85d7bd7507f1d]
+## 92. Sealing up of corresponding number lists and security of special lists[^c-fc4199f138fe5a7f84f85d7bd7507f1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc4199f138fe5a7f84f85d7bd7507f1d]: Commencement: Reg. 92 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-fc4199f138fe5a7f84f85d7bd7507f1d]: Commencement: Reg. 92 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

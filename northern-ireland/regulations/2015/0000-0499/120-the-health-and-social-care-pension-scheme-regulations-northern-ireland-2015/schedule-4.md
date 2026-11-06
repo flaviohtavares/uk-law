@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 15 & 16
 
-### 1. Opting out of the scheme[^key-90f289e2ae8a4b4b2a444fe0ef216db7]
+### 1. Opting out of the scheme[^c-90f289e2ae8a4b4b2a444fe0ef216db7]
 
 (1) A person who does not wish to, or who no longer wishes to, participate in this scheme may opt out of the scheme at any time by giving notice in writing to the person's employing authority and such person will be treated as having left pensionable employment on the date the notice takes effect.
 
@@ -51,4 +51,4 @@ A person who has opted out of this scheme pursuant to paragraph 1 may, if eligib
 
 ## Annotations
 
-[^key-90f289e2ae8a4b4b2a444fe0ef216db7]: Modification: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2015/120/schedule/4/paragraph/1) modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [4](https://www.legislation.gov.uk/nisr/2015/122/regulation/4)
+[^c-90f289e2ae8a4b4b2a444fe0ef216db7]: Modification: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2015/120/schedule/4/paragraph/1) modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [4](https://www.legislation.gov.uk/nisr/2015/122/regulation/4)

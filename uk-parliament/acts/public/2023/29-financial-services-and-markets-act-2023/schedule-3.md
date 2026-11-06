@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — New Schedule 6B to FSMA 2000[^key-dad675bee86be7e2a665b38d2c0efadc][^key-bf21b03992f6bb151653b092b1c4df52]
+## SCHEDULE 3 — New Schedule 6B to FSMA 2000[^c-dad675bee86be7e2a665b38d2c0efadc][^c-bf21b03992f6bb151653b092b1c4df52]
 
 *Extent: E+W+S+N.I.*
 
 Section 8
 
-[^key-bf21b03992f6bb151653b092b1c4df52]
+[^c-bf21b03992f6bb151653b092b1c4df52]
 
 > **SCHEDULE 6B — Designated activities**
 >
@@ -76,6 +76,6 @@ Section 8
 
 ## Annotations
 
-[^key-dad675bee86be7e2a665b38d2c0efadc]: Commencement: Sch. 3 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-dad675bee86be7e2a665b38d2c0efadc]: Commencement: Sch. 3 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-bf21b03992f6bb151653b092b1c4df52]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/3) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(aaa)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/aaa)
+[^c-bf21b03992f6bb151653b092b1c4df52]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/3) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(aaa)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/aaa)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Application for registration[^key-0bfd9d27718e788d6083cd6231ce3568]
+## 17. Application for registration[^c-0bfd9d27718e788d6083cd6231ce3568]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bfd9d27718e788d6083cd6231ce3568]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2013/2870/article/17) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-0bfd9d27718e788d6083cd6231ce3568]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2013/2870/article/17) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

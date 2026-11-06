@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Application of Part 9A of the FSMA (rules and guidance)[^key-e14e223ae42233d4a3601a3b32d86fd7][^key-c5d346b69d8d0d168999319d154d6457][^key-e14e223ae42233d4a3601a3b32d86fd7]
+## 74. Application of Part 9A of the FSMA (rules and guidance)[^c-e14e223ae42233d4a3601a3b32d86fd7][^c-c5d346b69d8d0d168999319d154d6457][^c-e14e223ae42233d4a3601a3b32d86fd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,7 +62,7 @@ summary: ''
 - (a) each reference to a regulator is a reference to the FCA;
 - (b) each reference to either regulator is a reference to the FCA only.
 
-(7A)[^key-02f3b568dd89f159838e42c8b6a6f0bd] In section 138H (verification of rules)—
+(7A)[^c-02f3b568dd89f159838e42c8b6a6f0bd] In section 138H (verification of rules)—
 
 - (a) each reference to a regulator is a reference to the FCA;
 - (b) each reference to either regulator is a reference to the FCA only.
@@ -91,8 +91,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e14e223ae42233d4a3601a3b32d86fd7]: Modification: Pt. 4 applied (with modifications) (31.12.2020) by Regulation (EU) No. 2017/2402, Art. 15(2)(3) (as substituted by [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2019/660/regulation/15) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-e14e223ae42233d4a3601a3b32d86fd7]: Modification: Pt. 4 applied (with modifications) (31.12.2020) by Regulation (EU) No. 2017/2402, Art. 15(2)(3) (as substituted by [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2019/660/regulation/15) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-c5d346b69d8d0d168999319d154d6457]: Commencement: Reg. 74 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c5d346b69d8d0d168999319d154d6457]: Commencement: Reg. 74 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-02f3b568dd89f159838e42c8b6a6f0bd]: Textual amendment: Reg. 74(7A) inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [52(7)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52/7)
+[^c-02f3b568dd89f159838e42c8b6a6f0bd]: Textual amendment: Reg. 74(7A) inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [52(7)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52/7)

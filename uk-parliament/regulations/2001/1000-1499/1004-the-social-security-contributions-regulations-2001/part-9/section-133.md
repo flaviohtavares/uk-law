@@ -50,10 +50,10 @@ summary: ''
 
 he shall immediately return the certificate to her.
 
-(10) Where under the foregoing provisions of this Case an election has been made by a woman to pay at the reduced rate in respect of so much of her liability for primary Class 1 contributions as is attributable to section 8(1)(a) of the Act[^key-99c9b3c1819e712975ab781054f747a6] and that election ceases to have effect, it shall be the duty of that woman to inform the secondary contributor accordingly.
+(10) Where under the foregoing provisions of this Case an election has been made by a woman to pay at the reduced rate in respect of so much of her liability for primary Class 1 contributions as is attributable to section 8(1)(a) of the Act[^c-99c9b3c1819e712975ab781054f747a6] and that election ceases to have effect, it shall be the duty of that woman to inform the secondary contributor accordingly.
 
 (11) Any certificate issued for the purpose of an election made or deemed to have been made under the regulation 91 of the 1975 Regulations shall, if by virtue of regulation 124 the election is treated as made under regulation 127, continue in force for the purposes of that regulation.
 
 ## Annotations
 
-[^key-99c9b3c1819e712975ab781054f747a6]: Textual amendment: Reg. 133(10) substituted (6.4.2003) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2003 (S.I. 2003/964)](https://www.legislation.gov.uk/uksi/2003/964), [regs. 1](https://www.legislation.gov.uk/uksi/2003/964/regulation/1), [7](https://www.legislation.gov.uk/uksi/2003/964/regulation/7)
+[^c-99c9b3c1819e712975ab781054f747a6]: Textual amendment: Reg. 133(10) substituted (6.4.2003) by [The Social Security (Contributions) (Amendment No. 2) Regulations 2003 (S.I. 2003/964)](https://www.legislation.gov.uk/uksi/2003/964), [regs. 1](https://www.legislation.gov.uk/uksi/2003/964/regulation/1), [7](https://www.legislation.gov.uk/uksi/2003/964/regulation/7)

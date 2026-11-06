@@ -44,7 +44,7 @@ Coming into force
 
 A draft of these Regulations has been laid before Parliament in accordance with section 43(3) of the Welfare Reform Act 2012 and approved by a resolution of each House of Parliament.
 
-This instrument has not been referred to the Social Security Advisory Committee because it contains only regulations made by virtue of or consequential on Part 1 and sections 96 and 97 of, and Schedules 1 and 5 to, the Welfare Reform Act 2012 and is made before the end of the period of 6 months beginning with the coming into force of those provisions [^c2165890].[^key-779e419c9fe7208a9cea0bc29fb5c9c4][^key-d9453adaca0b8c88d698b63ba3e10abb]
+This instrument has not been referred to the Social Security Advisory Committee because it contains only regulations made by virtue of or consequential on Part 1 and sections 96 and 97 of, and Schedules 1 and 5 to, the Welfare Reform Act 2012 and is made before the end of the period of 6 months beginning with the coming into force of those provisions [^c2165890].[^c-779e419c9fe7208a9cea0bc29fb5c9c4][^c-d9453adaca0b8c88d698b63ba3e10abb]
 
 ## Contents
 
@@ -189,7 +189,7 @@ This instrument has not been referred to the Social Security Advisory Committee 
 - [Section 49 — Valuation of capital](part-6/section-49.md)
 - [Section 50 — Notional capital](part-6/section-50.md)
 
-#### CHAPTER 2 — EARNED INCOME[^c2191026][^key-1e1025d5fe515ea8a71b8d69871c8e5a]
+#### CHAPTER 2 — EARNED INCOME[^c2191026][^c-1e1025d5fe515ea8a71b8d69871c8e5a]
 
 *Extent: E+W+S*
 
@@ -375,10 +375,10 @@ An assessment has been made of the impact of the introduction of universal credi
 
 [^c2165890]: Marginal citation: See section 173(5) of the Social Security Administration Act 1992. The requirement to refer regulations to the Social Security Advisory Committee does not apply where regulations are contained in a statutory instrument made before the end of the period of six months beginning with the coming into force of the enactment under which the regulations were made.
 
-[^key-779e419c9fe7208a9cea0bc29fb5c9c4]: Modification: Regulations applied by S.I. 2014/1230, reg. 10A (as inserted (11.9.2018) by [The Social Security (Treatment of Arrears of Benefit) Regulations 2018 (S.I. 2018/932)](https://www.legislation.gov.uk/uksi/2018/932), [regs. 1](https://www.legislation.gov.uk/uksi/2018/932/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/932/regulation/8))
+[^c-779e419c9fe7208a9cea0bc29fb5c9c4]: Modification: Regulations applied by S.I. 2014/1230, reg. 10A (as inserted (11.9.2018) by [The Social Security (Treatment of Arrears of Benefit) Regulations 2018 (S.I. 2018/932)](https://www.legislation.gov.uk/uksi/2018/932), [regs. 1](https://www.legislation.gov.uk/uksi/2018/932/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/932/regulation/8))
 
-[^key-d9453adaca0b8c88d698b63ba3e10abb]: Modification: Regulations modified (temp.) (8.4.2020) by [The Social Security (Coronavirus) (Prisoners) Regulations 2020 (S.I. 2020/409)](https://www.legislation.gov.uk/uksi/2020/409), [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2020/409/regulation/2/2/e) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/409/regulation/6/2)) (as amended (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/6))
+[^c-d9453adaca0b8c88d698b63ba3e10abb]: Modification: Regulations modified (temp.) (8.4.2020) by [The Social Security (Coronavirus) (Prisoners) Regulations 2020 (S.I. 2020/409)](https://www.legislation.gov.uk/uksi/2020/409), [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2020/409/regulation/2/2/e) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2020/409/regulation/6/2)) (as amended (12.5.2021) by [The Social Security (Coronavirus) (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/476)](https://www.legislation.gov.uk/uksi/2021/476), [regs. 1](https://www.legislation.gov.uk/uksi/2021/476/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2021/476/regulation/4/6))
 
 [^c2191026]: Modification: Pt. 6 Ch. 2 excluded in part (27.7.2013) by [S.I. 2013/1508](https://www.legislation.gov.uk/uksi/2013/1508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/1/2), [7(3)(b)](https://www.legislation.gov.uk/uksi/2013/1508/regulation/7/3/b)
 
-[^key-1e1025d5fe515ea8a71b8d69871c8e5a]: Modification: Pt. 6 Ch. 2 applied (with modifications) by S.I. 2013/383, reg. 13(7) as substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments Regulations 2015 (S.I. 2015/1754)](https://www.legislation.gov.uk/uksi/2015/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/1754/regulation/7)
+[^c-1e1025d5fe515ea8a71b8d69871c8e5a]: Modification: Pt. 6 Ch. 2 applied (with modifications) by S.I. 2013/383, reg. 13(7) as substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments Regulations 2015 (S.I. 2015/1754)](https://www.legislation.gov.uk/uksi/2015/1754), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1754/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/1754/regulation/7)

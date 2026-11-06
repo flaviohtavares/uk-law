@@ -69,11 +69,11 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - “**the Charges Regulations**” means the National Health Service (Charges for Drugs and Appliances) Regulations 2000 [^c19595601]; and
 - “**the Travel Expenses and Remission of Charges Regulations**” means the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003 [^c19595611].
 
-## 2. Amendment of the Charges Regulations to increase charges[^key-7b6d0c4672789dbd371eb97527529821]
+## 2. Amendment of the Charges Regulations to increase charges[^c-7b6d0c4672789dbd371eb97527529821]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision relating to the Charges Regulations[^key-3eea30e0b106bdaea97e2a645dbe2ff3]
+## 3. Transitional provision relating to the Charges Regulations[^c-3eea30e0b106bdaea97e2a645dbe2ff3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -126,6 +126,6 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c19595611]: Marginal citation: [S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382); relevant amendments are made by [S.I. 2005/578](https://www.legislation.gov.uk/uksi/2005/578) and 2008/843.
 
-[^key-7b6d0c4672789dbd371eb97527529821]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/411/regulation/2) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
+[^c-7b6d0c4672789dbd371eb97527529821]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/411/regulation/2) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
 
-[^key-3eea30e0b106bdaea97e2a645dbe2ff3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/411/regulation/3) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
+[^c-3eea30e0b106bdaea97e2a645dbe2ff3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/411/regulation/3) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)

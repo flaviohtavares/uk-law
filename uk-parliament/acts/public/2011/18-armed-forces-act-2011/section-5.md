@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Provost Marshals: appointment[^key-dad3fad736e975fab33aa5bc71790940]
+## 5. Provost Marshals: appointment[^c-dad3fad736e975fab33aa5bc71790940]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ After section 365 of AFA 2006 insert—
 
 ## Annotations
 
-[^key-dad3fad736e975fab33aa5bc71790940]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2011/18/section/5) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
+[^c-dad3fad736e975fab33aa5bc71790940]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2011/18/section/5) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Purposes[^key-cb5ef3e73b3befbe0cd4dad2887552cc][^key-e6f88fedf57d862577f03f952405111d]
+## 4. Purposes[^c-cb5ef3e73b3befbe0cd4dad2887552cc][^c-e6f88fedf57d862577f03f952405111d]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,9 +67,9 @@ otherwise than by compliance with the relevant UN obligations.
 
 ## Annotations
 
-[^key-cb5ef3e73b3befbe0cd4dad2887552cc]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-cb5ef3e73b3befbe0cd4dad2887552cc]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-e6f88fedf57d862577f03f952405111d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/438/regulation/4) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(1)(c)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/1/c)
+[^c-e6f88fedf57d862577f03f952405111d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/438/regulation/4) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(1)(c)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/1/c)
 
 [^c23619621]: Marginal citation: The Ceasefire Transitional Security Arrangements Monitoring Mechanism (CTSAMM) was established under Chapter II (Permanent ceasefire and transitional security arrangements) of the Agreement on the Resolution of the Conflict in the Republic of South Sudan done at Addis Ababa on 17 August 2015; it was restructured and reconstituted as the Ceasefire Transitional Security Arrangements Monitoring and Verification Mechanism (CTSAMVM) under Chapter II of the Revitalised Agreement on the Resolution of the Conflict in the Republic of South Sudan done at Addis Ababa on 12 September 2018.
 

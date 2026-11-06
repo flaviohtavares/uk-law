@@ -22,15 +22,15 @@ summary: ''
 
 (1) This Act may be cited as the Airports Act 1986.
 
-(2)[^key-94d9c03f50880bf8e4c66c6c1abf9be9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-94d9c03f50880bf8e4c66c6c1abf9be9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-94d9c03f50880bf8e4c66c6c1abf9be9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-94d9c03f50880bf8e4c66c6c1abf9be9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-94d9c03f50880bf8e4c66c6c1abf9be9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-94d9c03f50880bf8e4c66c6c1abf9be9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-94d9c03f50880bf8e4c66c6c1abf9be9][^c9347231] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-94d9c03f50880bf8e4c66c6c1abf9be9][^c9347231] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-94d9c03f50880bf8e4c66c6c1abf9be9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-94d9c03f50880bf8e4c66c6c1abf9be9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) With the exception of the provisions mentioned in subsection (8), this Act does not extend to Northern Ireland.
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94d9c03f50880bf8e4c66c6c1abf9be9]: Textual amendment: [S. 85(2)-(6)](https://www.legislation.gov.uk/ukpga/1986/31/section/85/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-94d9c03f50880bf8e4c66c6c1abf9be9]: Textual amendment: [S. 85(2)-(6)](https://www.legislation.gov.uk/ukpga/1986/31/section/85/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
 
 [^c9347231]: Subordinate legislation: S. 85(5) powers of appointment conferred by s. 85(5), fully exercised: [S.I. 1986/1228](https://www.legislation.gov.uk/uksi/1986/1228), 1487

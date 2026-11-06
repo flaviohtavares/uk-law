@@ -24,24 +24,24 @@ summary: ''
 
 Regulation G1
 
-**1.**[^key-aabc18b754547264b244e779c9fa3477] Where—
+**1.**[^c-aabc18b754547264b244e779c9fa3477] Where—
 
 - (a) a person is employed by two or more magistrates' courts committees, and
 - (b) any of the employments is an employment for which he does not receive separate remuneration,
 
 his remuneration for that employment is that part of his total remuneration which is paid by the body responsible for defraying the expenses of the employing committee, or, where the remuneration for more than one employment is paid by the same body, such part of his total remuneration for those employments as may be agreed between him and the body, or, in default of agreement, determined by the Secretary of State.
 
-**2.**[^key-082f9b0326364204f3ce8e01bee04012] Without prejudice to regulation B6, a person who holds two or more clerkships under a magistrates' courts committee or is employed by a magistrates' courts committee to assist a justices' clerk or clerks in two or more clerkships shall be deemed for the purposes of these regulations (except regulation C1) to be in separate employments under separate scheduled bodies as respects any clerkships for which the remuneration is paid by different bodies.
+**2.**[^c-082f9b0326364204f3ce8e01bee04012] Without prejudice to regulation B6, a person who holds two or more clerkships under a magistrates' courts committee or is employed by a magistrates' courts committee to assist a justices' clerk or clerks in two or more clerkships shall be deemed for the purposes of these regulations (except regulation C1) to be in separate employments under separate scheduled bodies as respects any clerkships for which the remuneration is paid by different bodies.
 
-**3.**[^key-2d7a1b3268c95b4062643e770cf70008] Regulation C10 (statement of remuneration received otherwise than from employing authority) does not apply.
+**3.**[^c-2d7a1b3268c95b4062643e770cf70008] Regulation C10 (statement of remuneration received otherwise than from employing authority) does not apply.
 
-**4.**[^key-f818bab2a000a5e78cd51ac0e233553f] The body paying the person's remuneration are to be treated—
+**4.**[^c-f818bab2a000a5e78cd51ac0e233553f] The body paying the person's remuneration are to be treated—
 
 - (a) as his employing authority for the purposes of regulations C11 (deduction of contributions) and P8 (employer's additional contributions),
 - (b) as employing him for the purposes of regulation P7 (employer's contributions), and
 - (c) as the scheduled body concerned for the purposes of regulation P9 (employer's further payments).
 
-**5.**[^key-f33a17707d81a75c5a8bb043b5eb4c2e] (1) A magistrates' courts committee are to report to the body paying the person's remuneration any decision made by them under—
+**5.**[^c-f33a17707d81a75c5a8bb043b5eb4c2e] (1) A magistrates' courts committee are to report to the body paying the person's remuneration any decision made by them under—
 
 - (a) regulation C12(9) (return of contributions in case of offence, etc., in connection with employment),
 - (b) regulation D7 (increase of reckonable service at discretion of employing authority), or
@@ -49,28 +49,28 @@ his remuneration for that employment is that part of his total remuneration whic
 
 (2) Regulation N8 has effect as if the body receiving the report were a person mentioned in paragraph (3) of that regulation (service of notice of appeal) and paragraph (2) were omitted.
 
-**6.**[^key-7fa5b052f7f0e8e6688a3e1706ba9e01] In the case of a person who—
+**6.**[^c-7fa5b052f7f0e8e6688a3e1706ba9e01] In the case of a person who—
 
 - (a) was on 30th March 1939 subject to the Act of 1922 by virtue of a local Act or an order made by the Secretary of State under a local Act, or
 - (b) was on 30th September 1954 a person to whom paragraph (h) of Part III of Schedule 2 to the Act of 1937 applied,
 
 regulation C2 (employee's contributions) has effect with the substitution for "6%“of ”5%".
 
-**7.**[^key-466129c49bd0088d2df7140004702a79] Regulation B8 (age of compulsory retirement) has effect as if for the reference to the age of 65 years there were substituted a reference to the age of 70 years or any lesser age (not being less than 65 years) at which the justices' clerk completes 45 years' reckonable service.
+**7.**[^c-466129c49bd0088d2df7140004702a79] Regulation B8 (age of compulsory retirement) has effect as if for the reference to the age of 65 years there were substituted a reference to the age of 70 years or any lesser age (not being less than 65 years) at which the justices' clerk completes 45 years' reckonable service.
 
-**8.**[^key-cf0f17d28c8ca64e25d52df4583401bd] Schedule 9 (additional reckonable service for ill-health) has effect with the substitution for “65 years”, wherever occurring, of “70 years”.
+**8.**[^c-cf0f17d28c8ca64e25d52df4583401bd] Schedule 9 (additional reckonable service for ill-health) has effect with the substitution for “65 years”, wherever occurring, of “70 years”.
 
 ### PART II — CERTAIN EMPLOYEES OF THE COMMITTEE OF MAGISTRATES FOR THE INNER LONDON AREA
 
 Regulation G2
 
-**1.**[^key-8db81ad910b75852a469021dc8a1844c] The Receiver for the Metropolitan Police District is to be treated—
+**1.**[^c-8db81ad910b75852a469021dc8a1844c] The Receiver for the Metropolitan Police District is to be treated—
 
 - (a) as the person's employing authority for the purposes of regulation C11 (deduction of contributions) and PS (employer's additional contributions),
 - (b) as employing him for the purposes of regulation P7 (employer's contributions), and
 - (c) as the scheduled body concerned for the purposes of regulation P9 (employer's further payments).
 
-**2.**[^key-99a07eab091da3f5fe52421a369ce3c6] (1) The committee of magistrates are to report to the Secretary of State any decision made by them under—
+**2.**[^c-99a07eab091da3f5fe52421a369ce3c6] (1) The committee of magistrates are to report to the Secretary of State any decision made by them under—
 
 - (a) regulation C12(9) (return of contributions in case of offence, etc, in connection with employment),
 - (b) regulation D7 (increase of reckonable service at discretion of employing authority), or
@@ -78,23 +78,23 @@ Regulation G2
 
 (2) Such a decision has no effect until approved by the Secretary of State.
 
-**3.**[^key-10e1a6cfcd0ad0579bce502befdea8a0] Regulation B8 (age of compulsory retirement) has effect as if for the reference to the age of 65 years there were substituted a reference to the age of 70 years or any lesser age (not being less than 65 years) at which the justices' clerk completes 45 years' reckonable service.
+**3.**[^c-10e1a6cfcd0ad0579bce502befdea8a0] Regulation B8 (age of compulsory retirement) has effect as if for the reference to the age of 65 years there were substituted a reference to the age of 70 years or any lesser age (not being less than 65 years) at which the justices' clerk completes 45 years' reckonable service.
 
-**4.**[^key-5d7db5e1ffc9ca8505cedaf2bf16a84c] Schedule 9 (additional reckonable service for ill-health) has effect with the substitution for “65 years”, wherever occurring, of “70 years”.
+**4.**[^c-5d7db5e1ffc9ca8505cedaf2bf16a84c] Schedule 9 (additional reckonable service for ill-health) has effect with the substitution for “65 years”, wherever occurring, of “70 years”.
 
 ### PART III — EMPLOYEES OF PROBATION COMMITTEES
 
 Regulation G3
 
-**1.**[^key-211f771f8c588ec2e07e937b7d809404] For the purposes of the definition of “employee” in Schedule 1, a probation officer whose appointment is determinable within 3 months unless confirmed by the Secretary of State is not for that reason to be treated as being a person appointed to a post in a temporary capacity for a period of not more than 3 months.
+**1.**[^c-211f771f8c588ec2e07e937b7d809404] For the purposes of the definition of “employee” in Schedule 1, a probation officer whose appointment is determinable within 3 months unless confirmed by the Secretary of State is not for that reason to be treated as being a person appointed to a post in a temporary capacity for a period of not more than 3 months.
 
-**2.**[^key-afacf79861a81905ccb35597e1e465e0] In relation to a pensionable employee of the probation committee for the inner London area, the Receiver for the Metropolitan Police District is to be treated—
+**2.**[^c-afacf79861a81905ccb35597e1e465e0] In relation to a pensionable employee of the probation committee for the inner London area, the Receiver for the Metropolitan Police District is to be treated—
 
 - (a) as his employing authority for the purposes of regulations C10 (statement of remuneration received otherwise than from employing authority), C11 (deduction of contributions) and PS (employer's additional contributions),
 - (b) as employing him for the purposes of regulation P7 (employer's contributions), and
 - (c) as the scheduled body concerned for the purposes of regulation P9 (employer's further payments).
 
-**3.**[^key-4dd7ed281de173ea64ae3ceb8861fe70] (1) The probation committee for the inner London area are to report to the Secretary of State any decision made by them under—
+**3.**[^c-4dd7ed281de173ea64ae3ceb8861fe70] (1) The probation committee for the inner London area are to report to the Secretary of State any decision made by them under—
 
 - (a) regulation C12(9) (return of contributions in case of offence, etc., in connection with employment),
 - (b) regulation D7 (increase of reckonable service at discretion of employment authority), or
@@ -102,11 +102,11 @@ Regulation G3
 
 (2) Such a decision has no effect until approved by the Secretary of State.
 
-**4.**[^key-9ed49e387d043180070d7826b7595829] (1) The probation committee for an area other than the inner London area are to report any decision made by them under regulation C12(9), D7 or M1 to the body responsible for defraying the expenses of the committee, or, where two or more bodies contribute to the defraying of those expenses, to each of those bodies.
+**4.**[^c-9ed49e387d043180070d7826b7595829] (1) The probation committee for an area other than the inner London area are to report any decision made by them under regulation C12(9), D7 or M1 to the body responsible for defraying the expenses of the committee, or, where two or more bodies contribute to the defraying of those expenses, to each of those bodies.
 
 (2) Regulation N8 has effect as if a body receiving such a report were a person mentioned in paragraph (3) of that regulation (service of notice of appeal) and paragraph (2) were omitted.
 
-**5.**[^key-d5ca2281da7dfa5e5090590be30b69f3] (1) In the application of regulation E25 (calculation of part-time service) to part-time service as a probation officer, the proportionately reduced period is to be determined by making a separate calculation in respect of each year of part-time service.
+**5.**[^c-d5ca2281da7dfa5e5090590be30b69f3] (1) In the application of regulation E25 (calculation of part-time service) to part-time service as a probation officer, the proportionately reduced period is to be determined by making a separate calculation in respect of each year of part-time service.
 
 (2) Subject to paragraph (3), in respect of any year of part-time service the period is
 
@@ -142,17 +142,17 @@ TABLE
 
 Regulation G4
 
-**1.**[^key-ba484ac7dbecbd6a36b182e3a1a1ba36] Regulation B8 (age of compulsory retirement) has effect as if for the reference to the age of 65 years there were substituted a reference to the age of 70 years or any lesser age (not being less than 65 years) at which the coroner completes 45 years' reckonable service.
+**1.**[^c-ba484ac7dbecbd6a36b182e3a1a1ba36] Regulation B8 (age of compulsory retirement) has effect as if for the reference to the age of 65 years there were substituted a reference to the age of 70 years or any lesser age (not being less than 65 years) at which the coroner completes 45 years' reckonable service.
 
-**2.**[^key-1aa28bc87cf3ca5940dcc118bbe4686b] Schedule 9 (additional reckonable service for ill-health) has effect with the substitution for “65 years”, wherever occurring, of “70 years”.
+**2.**[^c-1aa28bc87cf3ca5940dcc118bbe4686b] Schedule 9 (additional reckonable service for ill-health) has effect with the substitution for “65 years”, wherever occurring, of “70 years”.
 
 ### PART V — CERTAIN EMPLOYEES OF CITY OF LONDON EMPLOYING BODIES
 
 Regulation G5
 
-**1.**[^key-e26ca0794776c47e91882bdd8d112cba] In this Part, unless the context otherwise requires, “existing contributor”, “former contributor”, and “the local Act superannuation provisions” have the same meanings as in the Local Government Superannuation (City of London) Regulations 1977[^f00144].
+**1.**[^c-e26ca0794776c47e91882bdd8d112cba] In this Part, unless the context otherwise requires, “existing contributor”, “former contributor”, and “the local Act superannuation provisions” have the same meanings as in the Local Government Superannuation (City of London) Regulations 1977[^f00144].
 
-**2.**[^key-cc8d5040ebbfaabfac1d4e4eb3c70eca] In relation to existing contributors and former contributors, these regulations have effect as if for any reference to an expression in column (1) of the Table below there were substituted a reference to the expression appearing opposite it in column (2).
+**2.**[^c-cc8d5040ebbfaabfac1d4e4eb3c70eca] In relation to existing contributors and former contributors, these regulations have effect as if for any reference to an expression in column (1) of the Table below there were substituted a reference to the expression appearing opposite it in column (2).
 
 TABLE
 
@@ -173,9 +173,9 @@ TABLE
 </tbody>
 </table>
 
-**3.**[^key-c7465201e00966709b8b1f69f52ad31c] In relation to an existing contributor or former contributor who was immediately before 1st March 1986 entitled by virtue of regulation 10 of the Local Government Superannuation (City of London) Regulations 1977 to make contributions at a lower rate, regulation C2 has effect, while he continues in the employment of the same City of London employing body, with the substitution for "6%“or ”5%" of that lower rate.
+**3.**[^c-c7465201e00966709b8b1f69f52ad31c] In relation to an existing contributor or former contributor who was immediately before 1st March 1986 entitled by virtue of regulation 10 of the Local Government Superannuation (City of London) Regulations 1977 to make contributions at a lower rate, regulation C2 has effect, while he continues in the employment of the same City of London employing body, with the substitution for "6%“or ”5%" of that lower rate.
 
-**4.**[^key-37b950542bfecbba9c4ade69ea5c8b0c] In relation to existing contributors and former contributors these regulations have effect—
+**4.**[^c-37b950542bfecbba9c4ade69ea5c8b0c] In relation to existing contributors and former contributors these regulations have effect—
 
 - (a) with the substitution for regulation E19 of the following:
 
@@ -327,7 +327,7 @@ TABLE
 
   .
 
-**5.**[^key-27b9a1aa868208cbcd1070349f457c5b] In relation to existing contributors these regulations have effect with the substitution for regulation H6 of the following:
+**5.**[^c-27b9a1aa868208cbcd1070349f457c5b] In relation to existing contributors these regulations have effect with the substitution for regulation H6 of the following:
 
 > **H6. Persons transferred to the Common Council under section 18(4)(a) of the National Health Service Reorganisation Act 1973**
 >
@@ -369,52 +369,52 @@ TABLE
 
 ## Annotations
 
-[^key-aabc18b754547264b244e779c9fa3477]: Commencement: [Sch. 15 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/1/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-aabc18b754547264b244e779c9fa3477]: Commencement: [Sch. 15 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/1/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-082f9b0326364204f3ce8e01bee04012]: Commencement: [Sch. 15 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/1/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-082f9b0326364204f3ce8e01bee04012]: Commencement: [Sch. 15 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/1/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-2d7a1b3268c95b4062643e770cf70008]: Commencement: [Sch. 15 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/1/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-2d7a1b3268c95b4062643e770cf70008]: Commencement: [Sch. 15 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/1/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-f818bab2a000a5e78cd51ac0e233553f]: Commencement: [Sch. 15 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/1/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-f818bab2a000a5e78cd51ac0e233553f]: Commencement: [Sch. 15 Pt. 1 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/1/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-f33a17707d81a75c5a8bb043b5eb4c2e]: Commencement: [Sch. 15 Pt. 1 para. 5](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/I/paragraph/5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-f33a17707d81a75c5a8bb043b5eb4c2e]: Commencement: [Sch. 15 Pt. 1 para. 5](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/I/paragraph/5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-7fa5b052f7f0e8e6688a3e1706ba9e01]: Commencement: [Sch. 15 Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/paragraph/6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-7fa5b052f7f0e8e6688a3e1706ba9e01]: Commencement: [Sch. 15 Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/paragraph/6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-466129c49bd0088d2df7140004702a79]: Commencement: [Sch. 15 Pt. 1 para. 7](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/paragraph/7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-466129c49bd0088d2df7140004702a79]: Commencement: [Sch. 15 Pt. 1 para. 7](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/paragraph/7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-cf0f17d28c8ca64e25d52df4583401bd]: Commencement: [Sch. 15 Pt. 1 para. 8](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/paragraph/8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-cf0f17d28c8ca64e25d52df4583401bd]: Commencement: [Sch. 15 Pt. 1 para. 8](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/paragraph/8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-8db81ad910b75852a469021dc8a1844c]: Commencement: [Sch. 15 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/II/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-8db81ad910b75852a469021dc8a1844c]: Commencement: [Sch. 15 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/II/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-99a07eab091da3f5fe52421a369ce3c6]: Commencement: [Sch. 15 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/II/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-99a07eab091da3f5fe52421a369ce3c6]: Commencement: [Sch. 15 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/II/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-10e1a6cfcd0ad0579bce502befdea8a0]: Commencement: [Sch. 15 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/II/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-10e1a6cfcd0ad0579bce502befdea8a0]: Commencement: [Sch. 15 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/II/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-5d7db5e1ffc9ca8505cedaf2bf16a84c]: Commencement: [Sch. 15 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/II/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-5d7db5e1ffc9ca8505cedaf2bf16a84c]: Commencement: [Sch. 15 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/II/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-211f771f8c588ec2e07e937b7d809404]: Commencement: [Sch. 15 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/III/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-211f771f8c588ec2e07e937b7d809404]: Commencement: [Sch. 15 Pt. 3 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/III/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-afacf79861a81905ccb35597e1e465e0]: Commencement: [Sch. 15 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/III/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-afacf79861a81905ccb35597e1e465e0]: Commencement: [Sch. 15 Pt. 3 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/III/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-4dd7ed281de173ea64ae3ceb8861fe70]: Commencement: [Sch. 15 Pt. 3 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/III/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-4dd7ed281de173ea64ae3ceb8861fe70]: Commencement: [Sch. 15 Pt. 3 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/III/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-9ed49e387d043180070d7826b7595829]: Commencement: [Sch. 15 Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/III/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-9ed49e387d043180070d7826b7595829]: Commencement: [Sch. 15 Pt. 3 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/III/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-d5ca2281da7dfa5e5090590be30b69f3]: Commencement: [Sch. 15 Pt. 3 para. 5](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/III/paragraph/5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-d5ca2281da7dfa5e5090590be30b69f3]: Commencement: [Sch. 15 Pt. 3 para. 5](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/III/paragraph/5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-ba484ac7dbecbd6a36b182e3a1a1ba36]: Commencement: [Sch. 15 Pt. 4 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/IV/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-ba484ac7dbecbd6a36b182e3a1a1ba36]: Commencement: [Sch. 15 Pt. 4 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/IV/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-1aa28bc87cf3ca5940dcc118bbe4686b]: Commencement: [Sch. 15 Pt. 4 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/IV/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-1aa28bc87cf3ca5940dcc118bbe4686b]: Commencement: [Sch. 15 Pt. 4 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/IV/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-e26ca0794776c47e91882bdd8d112cba]: Commencement: [Sch. 15 Pt. 5 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/V/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-e26ca0794776c47e91882bdd8d112cba]: Commencement: [Sch. 15 Pt. 5 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/V/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00144]: Footnote: [S.I. 1977/1341](https://www.legislation.gov.uk/uksi/1977/1341).
 
-[^key-cc8d5040ebbfaabfac1d4e4eb3c70eca]: Commencement: [Sch. 15 Pt. 5 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/V/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-cc8d5040ebbfaabfac1d4e4eb3c70eca]: Commencement: [Sch. 15 Pt. 5 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/V/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-c7465201e00966709b8b1f69f52ad31c]: Commencement: [Sch. 15 Pt. 5 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/V/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-c7465201e00966709b8b1f69f52ad31c]: Commencement: [Sch. 15 Pt. 5 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/V/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-37b950542bfecbba9c4ade69ea5c8b0c]: Commencement: [Sch. 15 Pt. 5 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/V/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-37b950542bfecbba9c4ade69ea5c8b0c]: Commencement: [Sch. 15 Pt. 5 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/V/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-27b9a1aa868208cbcd1070349f457c5b]: Commencement: [Sch. 15 Pt. 5 para. 5](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/V/paragraph/5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-27b9a1aa868208cbcd1070349f457c5b]: Commencement: [Sch. 15 Pt. 5 para. 5](https://www.legislation.gov.uk/uksi/1986/24/schedule/15/part/V/paragraph/5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

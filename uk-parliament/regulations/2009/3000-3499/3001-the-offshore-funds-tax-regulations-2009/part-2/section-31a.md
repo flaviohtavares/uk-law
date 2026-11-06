@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31A. Unlisted trading company exception[^key-6885667e4b4df87e7cbf19fb4d3be6b1]
+## 31A. Unlisted trading company exception[^c-6885667e4b4df87e7cbf19fb4d3be6b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ if the only asset of the fund during that period is cash.
 
 ## Annotations
 
-[^key-6885667e4b4df87e7cbf19fb4d3be6b1]: Textual amendment: Regs. 31A-31C inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2011/1211/regulation/19)
+[^c-6885667e4b4df87e7cbf19fb4d3be6b1]: Textual amendment: Regs. 31A-31C inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2011/1211/regulation/19)

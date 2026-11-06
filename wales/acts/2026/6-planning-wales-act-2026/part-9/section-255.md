@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 255. Determination of appeal[^key-f7f0f52dc9c991e8f7dbdc750cb2cd84]
+## 255. Determination of appeal[^c-f7f0f52dc9c991e8f7dbdc750cb2cd84]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ if they are satisfied that the correction or variation will not cause injustice 
 
 ## Annotations
 
-[^key-f7f0f52dc9c991e8f7dbdc750cb2cd84]: Commencement: S. 255 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f7f0f52dc9c991e8f7dbdc750cb2cd84]: Commencement: S. 255 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

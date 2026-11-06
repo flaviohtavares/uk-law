@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Annual publication of the number of licences[^key-79ed140cd8828ffc7a9655a468edf379][^key-51f36983573edd76995c8d78441ca2d2]
+## 24. Annual publication of the number of licences[^c-79ed140cd8828ffc7a9655a468edf379][^c-51f36983573edd76995c8d78441ca2d2]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-79ed140cd8828ffc7a9655a468edf379]: Commencement: S. 24 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-79ed140cd8828ffc7a9655a468edf379]: Commencement: S. 24 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-51f36983573edd76995c8d78441ca2d2]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2021/7/section/24) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-51f36983573edd76995c8d78441ca2d2]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2021/7/section/24) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Medical list[^key-16668c34721a01c3f650f5891e31f212]
+## 4. Medical list[^c-16668c34721a01c3f650f5891e31f212]
 
 *Extent: N.I.*
 
@@ -61,6 +61,6 @@ having taken account of any condition imposed in relation to him under regulatio
 
 ## Annotations
 
-[^key-16668c34721a01c3f650f5891e31f212]: Commencement: Reg. 4 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-16668c34721a01c3f650f5891e31f212]: Commencement: Reg. 4 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00016]: Footnote: Article 56(2) was amended by Articles 29 and 35 of, and Part I of Schedule 6 to, [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)

@@ -45,30 +45,30 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred upon them by sections 1(3)(a), 1(3)(b), 2 (2), and 175, of the Local Government (Wales) Measure 2011[^f00001] make the following Regulations:
 
-## 1. Title and commencement[^key-d705a64b88d905fec9ca2036a9ee13ed]
+## 1. Title and commencement[^c-d705a64b88d905fec9ca2036a9ee13ed]
 
 (1) The title of these Regulations is the Local Election Survey (Wales) Regulations 2012.
 
 (2) These Regulations come into force on 31 March 2012.
 
-## 2. Interpretation[^key-7529f869321f38319a9e5d1e0ddc6c12]
+## 2. Interpretation[^c-7529f869321f38319a9e5d1e0ddc6c12]
 
 In these Regulations—
 
 - “the Measure” (“*y Mesur*”) means the Local Government (Wales) Measure 2011.
 
-## 3. Survey questions and form[^key-c3a0f05394fc43e9d25ffd1843c569e7][^key-c04e6e64e28e4d27429128429e643c98]
+## 3. Survey questions and form[^c-c3a0f05394fc43e9d25ffd1843c569e7][^c-c04e6e64e28e4d27429128429e643c98]
 
 For the purposes of section 1(3)(a) of the Measure, the questions and form in which they are to be asked are set out in—
 
 - (a) Parts 1, 2 and 4 of the Schedule if the survey is conducted in accordance with section 1(3A)(b) of the Measure; and
 - (b) Parts 1, 3 and 4 of the Schedule if the survey is conducted in accordance with section 1(3A)(a) of the Measure.
 
-## 4. Collation of survey information[^key-6ee6476f66df73fc7fa34b69b0677468]
+## 4. Collation of survey information[^c-6ee6476f66df73fc7fa34b69b0677468]
 
 For the purposes of section 1(3) (b) of the Measure, the information must be collated in an electronic spreadsheet.
 
-## 5. Provision of survey information[^key-2f97d5215ae5fd69ac27dba951a120ee]
+## 5. Provision of survey information[^c-2f97d5215ae5fd69ac27dba951a120ee]
 
 For the purposes of section 2(2) of the Measure, the collated information must be provided to the Welsh Ministers by electronic spreadsheet.
 
@@ -78,7 +78,7 @@ Minister for Local Government and Communities, one of the Welsh Ministers
 
 4 March 2012
 
-## SCHEDULE — Survey of Local Government Candidates in Wales[^key-17d2de5f2e58f26382f895feda977618]
+## SCHEDULE — Survey of Local Government Candidates in Wales[^c-17d2de5f2e58f26382f895feda977618]
 
 Regulation 3
 
@@ -102,16 +102,16 @@ In addition, these Regulations prescribe that the manner in which the collated i
 
 [^f00001]: Footnote: [2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4).
 
-[^key-d705a64b88d905fec9ca2036a9ee13ed]: Commencement: Reg. 1 in force at 31.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/685/regulation/1/2)
+[^c-d705a64b88d905fec9ca2036a9ee13ed]: Commencement: Reg. 1 in force at 31.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/685/regulation/1/2)
 
-[^key-7529f869321f38319a9e5d1e0ddc6c12]: Commencement: Reg. 2 in force at 31.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/685/regulation/1/2)
+[^c-7529f869321f38319a9e5d1e0ddc6c12]: Commencement: Reg. 2 in force at 31.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/685/regulation/1/2)
 
-[^key-c3a0f05394fc43e9d25ffd1843c569e7]: Commencement: Reg. 3 in force at 31.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/685/regulation/1/2)
+[^c-c3a0f05394fc43e9d25ffd1843c569e7]: Commencement: Reg. 3 in force at 31.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/685/regulation/1/2)
 
-[^key-c04e6e64e28e4d27429128429e643c98]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2012/685/regulation/3) substituted (6.1.2017) by [The Local Election Survey (Wales) (Amendment) Regulations 2016 (S.I. 2016/1220)](https://www.legislation.gov.uk/wsi/2016/1220), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/1220/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2016/1220/regulation/3)
+[^c-c04e6e64e28e4d27429128429e643c98]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2012/685/regulation/3) substituted (6.1.2017) by [The Local Election Survey (Wales) (Amendment) Regulations 2016 (S.I. 2016/1220)](https://www.legislation.gov.uk/wsi/2016/1220), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/1220/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2016/1220/regulation/3)
 
-[^key-6ee6476f66df73fc7fa34b69b0677468]: Commencement: Reg. 4 in force at 31.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/685/regulation/1/2)
+[^c-6ee6476f66df73fc7fa34b69b0677468]: Commencement: Reg. 4 in force at 31.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/685/regulation/1/2)
 
-[^key-2f97d5215ae5fd69ac27dba951a120ee]: Commencement: Reg. 5 in force at 31.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/685/regulation/1/2)
+[^c-2f97d5215ae5fd69ac27dba951a120ee]: Commencement: Reg. 5 in force at 31.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/685/regulation/1/2)
 
-[^key-17d2de5f2e58f26382f895feda977618]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2012/685/schedule) substituted (28.3.2022) by [The Local Election Survey (Wales) (Amendment) Regulations 2022 (S.I. 2022/220)](https://www.legislation.gov.uk/uksi/2022/220), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/220/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/220/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/220/schedule)
+[^c-17d2de5f2e58f26382f895feda977618]: Textual amendment: [Sch.](https://www.legislation.gov.uk/wsi/2012/685/schedule) substituted (28.3.2022) by [The Local Election Survey (Wales) (Amendment) Regulations 2022 (S.I. 2022/220)](https://www.legislation.gov.uk/uksi/2022/220), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/220/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/220/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/220/schedule)

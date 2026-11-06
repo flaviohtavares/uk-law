@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Review of ill-health award or early payment of retirement pension[^key-bc7007778f38aa5d6857935b56df8ebb]
+## 68. Review of ill-health award or early payment of retirement pension[^c-bc7007778f38aa5d6857935b56df8ebb]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc7007778f38aa5d6857935b56df8ebb]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2014/2848/regulation/68) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-bc7007778f38aa5d6857935b56df8ebb]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2014/2848/regulation/68) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

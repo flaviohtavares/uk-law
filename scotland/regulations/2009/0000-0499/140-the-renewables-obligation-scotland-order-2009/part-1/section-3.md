@@ -21,7 +21,7 @@ summary: ''
 (2) The proportion of waste which is, or is derived from, fossil fuel–
 
 - (a) is to be determined by the Authority, and
-- (b)[^key-937c716613f6da883c35868a4fae145a] is—
+- (b)[^c-937c716613f6da883c35868a4fae145a] is—
   - (i) for any waste that is a fossil derived bioliquid, the energy content of the fossil fuel from which the fossil derived bioliquid is directly or indirectly produced expressed as a percentage of the energy content of that fossil derived bioliquid as a whole;
   - (ii) for all other waste, the energy content of the fossil fuel from which the waste is in part composed or derived expressed as a percentage of the energy content of that waste as a whole.
 
@@ -47,13 +47,13 @@ the Authority may require the operator of the generating station to arrange for 
 
 (7) In this article–
 
-- “**allocating authority**” [^key-41ee1bd0237f168900075c5be270b244]... and “**waste disposal authority**” have the same meaning as in Chapter 1 of Part 1 of the Waste and Emissions Trading Act 2003[^c1964619]; and
+- “**allocating authority**” [^c-41ee1bd0237f168900075c5be270b244]... and “**waste disposal authority**” have the same meaning as in Chapter 1 of Part 1 of the Waste and Emissions Trading Act 2003[^c1964619]; and
 - “**waste collection authority**” has the same meaning as in Part 2 of the Environmental Protection Act 1990.
 
 ## Annotations
 
-[^key-937c716613f6da883c35868a4fae145a]: Textual amendment: Art. 3(2)(b) substituted (1.4.2011) by [The Renewables Obligation (Scotland) Amendment Order 2011 (S.S.I. 2011/225)](https://www.legislation.gov.uk/ssi/2011/225), [arts. 1](https://www.legislation.gov.uk/ssi/2011/225/article/1), [4](https://www.legislation.gov.uk/ssi/2011/225/article/4) (with [art. 19](https://www.legislation.gov.uk/ssi/2011/225/article/19))
+[^c-937c716613f6da883c35868a4fae145a]: Textual amendment: Art. 3(2)(b) substituted (1.4.2011) by [The Renewables Obligation (Scotland) Amendment Order 2011 (S.S.I. 2011/225)](https://www.legislation.gov.uk/ssi/2011/225), [arts. 1](https://www.legislation.gov.uk/ssi/2011/225/article/1), [4](https://www.legislation.gov.uk/ssi/2011/225/article/4) (with [art. 19](https://www.legislation.gov.uk/ssi/2011/225/article/19))
 
-[^key-41ee1bd0237f168900075c5be270b244]: Textual amendment: Words in art. 3(7) omitted (1.4.2014) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [4](https://www.legislation.gov.uk/ssi/2014/94/article/4) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-41ee1bd0237f168900075c5be270b244]: Textual amendment: Words in art. 3(7) omitted (1.4.2014) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [4](https://www.legislation.gov.uk/ssi/2014/94/article/4) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
 
 [^c1964619]: Marginal citation: [2003 c. 33](https://www.legislation.gov.uk/ukpga/2003/33). See sections 21 and 24 of that Act.

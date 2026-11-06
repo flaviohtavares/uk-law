@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Water abstraction[^key-a756b2b070dc3ce26c4fc78625b2b9b1]
+## 36. Water abstraction[^c-a756b2b070dc3ce26c4fc78625b2b9b1]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ it must compensate the other person for the loss or damage.
 
 ## Annotations
 
-[^key-a756b2b070dc3ce26c4fc78625b2b9b1]: Commencement: Art. 36 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-a756b2b070dc3ce26c4fc78625b2b9b1]: Commencement: Art. 36 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

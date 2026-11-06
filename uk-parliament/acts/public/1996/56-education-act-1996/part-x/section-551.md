@@ -26,7 +26,7 @@ summary: ''
 
 (2) The schools to which this section applies are—
 
-- (a) any school maintained by a local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] ; and[^c15253711]
+- (a) any school maintained by a local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] ; and[^c15253711]
 - (b)[^c15253721] . . .
 - (c) any special school not maintained by a local authority.
 
@@ -34,7 +34,7 @@ summary: ''
 
 [^c15253701]: Textual amendment: S. 551(1A) inserted (14.6.1997) by [1997 c. 44](https://www.legislation.gov.uk/ukpga/1997/44), [s. 57(1)](https://www.legislation.gov.uk/ukpga/1997/44/section/57/1), [Sch. 7 para. 39](https://www.legislation.gov.uk/ukpga/1997/44/schedule/7/paragraph/39); [S.I. 1997/1468](https://www.legislation.gov.uk/uksi/1997/1468), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/1468/article/2/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1997/1468/schedule/1/part/I)
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
 [^c15253711]: Textual amendment: Word at the end of s. 551(2)(a) inserted (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1), [Sch. 30 para.166](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/166) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 

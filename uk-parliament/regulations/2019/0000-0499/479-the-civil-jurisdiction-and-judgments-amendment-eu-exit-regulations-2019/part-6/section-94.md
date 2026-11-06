@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Savings for European Enforcement Orders and European Orders for Payment applied for, and European Small Claims Procedures commenced, before exit day[^key-d39d330042d497280f1e2c36f13f75ae]
+## 94. Savings for European Enforcement Orders and European Orders for Payment applied for, and European Small Claims Procedures commenced, before exit day[^c-d39d330042d497280f1e2c36f13f75ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d39d330042d497280f1e2c36f13f75ae]: Textual amendment: Reg. 94 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/5)
+[^c-d39d330042d497280f1e2c36f13f75ae]: Textual amendment: Reg. 94 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23B. Renewal declarations[^key-fb22a176d1374f44322f667375fa1c9d]
+## 23B. Renewal declarations[^c-fb22a176d1374f44322f667375fa1c9d]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb22a176d1374f44322f667375fa1c9d]: Textual amendment: [Regs. 23A-23C](https://www.legislation.gov.uk/uksi/2008/1741/regulation/23A) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/43/regulation/8) (with reg. [27(2)(3)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/3))
+[^c-fb22a176d1374f44322f667375fa1c9d]: Textual amendment: [Regs. 23A-23C](https://www.legislation.gov.uk/uksi/2008/1741/regulation/23A) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/43/regulation/8) (with reg. [27(2)(3)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/3))

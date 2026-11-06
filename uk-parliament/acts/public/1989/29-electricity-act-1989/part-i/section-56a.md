@@ -32,9 +32,9 @@ summary: ''
 - (a) amendments (or repeals) in any provision of this Act or any other enactment; and
 - (b) provision modifying any standard conditions of licences or (in the case of an order under subsection (1)(a)) provision determining the conditions which are to be standard conditions for the purposes of licences authorising the undertaking of activities which are to become licensable activities.
 
-(4) An order under this section may only provide for activities to become licensable activities if they are activities connected with the generation, transmission, distribution or supply of electricity, or with providing a smart meter communication service[^key-60980ac6cb7c97b7de50d1b8ee7e999a].
+(4) An order under this section may only provide for activities to become licensable activities if they are activities connected with the generation, transmission, distribution or supply of electricity, or with providing a smart meter communication service[^c-60980ac6cb7c97b7de50d1b8ee7e999a].
 
-(4A)[^key-9d1b4410d69c3854e9820325ba12a1ba] For the purposes of subsection (4), activities connected with the supply of electricity include the following activities, whether or not carried on by a person supplying electricity—
+(4A)[^c-9d1b4410d69c3854e9820325ba12a1ba] For the purposes of subsection (4), activities connected with the supply of electricity include the following activities, whether or not carried on by a person supplying electricity—
 
 - (a) giving advice, information or assistance in relation to contracts for the supply of electricity to persons who are or may become customers under such contracts, and
 - (b) providing any other services to such persons in connection with such contracts.
@@ -54,6 +54,6 @@ summary: ''
 
 [^c4115941]: Textual amendment: Ss. 56A-56F and cross-heading inserted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 43](https://www.legislation.gov.uk/ukpga/2000/27/section/43); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-60980ac6cb7c97b7de50d1b8ee7e999a]: Textual amendment: Words in s. 56A(4) inserted (19.9.2012) by [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [11](https://www.legislation.gov.uk/uksi/2012/2400/article/11)
+[^c-60980ac6cb7c97b7de50d1b8ee7e999a]: Textual amendment: Words in s. 56A(4) inserted (19.9.2012) by [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [11](https://www.legislation.gov.uk/uksi/2012/2400/article/11)
 
-[^key-9d1b4410d69c3854e9820325ba12a1ba]: Textual amendment: S. 56A(4A) inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 143(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/143/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
+[^c-9d1b4410d69c3854e9820325ba12a1ba]: Textual amendment: S. 56A(4A) inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 143(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/143/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)

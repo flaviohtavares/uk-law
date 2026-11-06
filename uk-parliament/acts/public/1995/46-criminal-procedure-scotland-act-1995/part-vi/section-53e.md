@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53E. Acquittal involving mental disorder[^key-e21a10084ea0f1d2c1ec311326f78c45]
+## 53E. Acquittal involving mental disorder[^c-e21a10084ea0f1d2c1ec311326f78c45]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e21a10084ea0f1d2c1ec311326f78c45]: Textual amendment: S. 53E and cross-heading inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 169](https://www.legislation.gov.uk/asp/2010/13/section/169), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-e21a10084ea0f1d2c1ec311326f78c45]: Textual amendment: S. 53E and cross-heading inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 169](https://www.legislation.gov.uk/asp/2010/13/section/169), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)

@@ -215,7 +215,7 @@ A Measure of the National Assembly for Wales to make provision for and in connec
 
 - [Section 80 — Interpretation of this Chapter](part-6/section-80.md)
 
-#### CHAPTER 2 — GOVERNANCE AND AUDIT COMMITTEES[^key-b73c5e8202773043506d7b0ad7647fc1]
+#### CHAPTER 2 — GOVERNANCE AND AUDIT COMMITTEES[^c-b73c5e8202773043506d7b0ad7647fc1]
 
 - [Section 81 — Local authorities to appoint governance and audit committees](part-6/section-81.md)
 - [Section 82 — Membership](part-6/section-82.md)
@@ -307,7 +307,7 @@ A Measure of the National Assembly for Wales to make provision for and in connec
 - [Section 139 — Applications for accreditation of quality in community government: delegation of functions](part-7/section-139.md)
 - [Section 140 — Accreditation of quality in community government: consequences](part-7/section-140.md)
 
-### PART 8 — ...PAYMENTS AND PENSIONS[^key-d196e42aa27358aa73531cc0e2299327][^key-a096fced8cc98cb430f1dfd9e89a095e][^key-3b7a7aba9fb740b7daf1bfeaf410de08]
+### PART 8 — ...PAYMENTS AND PENSIONS[^c-d196e42aa27358aa73531cc0e2299327][^c-a096fced8cc98cb430f1dfd9e89a095e][^c-3b7a7aba9fb740b7daf1bfeaf410de08]
 
 *Extent: E+W*
 
@@ -389,10 +389,10 @@ A Measure of the National Assembly for Wales to make provision for and in connec
 
 ## Annotations
 
-[^key-b73c5e8202773043506d7b0ad7647fc1]: Textual amendment: Words in [Pt. 6 Ch. 2](https://www.legislation.gov.uk/mwa/2011/4/part/6/chapter/2) title inserted (1.4.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 10 para. 2](https://www.legislation.gov.uk/asc/2021/1/schedule/10/paragraph/2); [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [reg. 2(h)](https://www.legislation.gov.uk/wsi/2021/297/regulation/2/h)
+[^c-b73c5e8202773043506d7b0ad7647fc1]: Textual amendment: Words in [Pt. 6 Ch. 2](https://www.legislation.gov.uk/mwa/2011/4/part/6/chapter/2) title inserted (1.4.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 10 para. 2](https://www.legislation.gov.uk/asc/2021/1/schedule/10/paragraph/2); [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [reg. 2(h)](https://www.legislation.gov.uk/wsi/2021/297/regulation/2/h)
 
-[^key-d196e42aa27358aa73531cc0e2299327]: Modification: Pt. 8 applied (with modifications) (25.1.2016) by [Local Government (Wales) Act 2015 (anaw 6)](https://www.legislation.gov.uk/anaw/2015/6), [ss. 25(3)](https://www.legislation.gov.uk/anaw/2015/6/section/25/3)[(4)](https://www.legislation.gov.uk/anaw/2015/6/section/25/4), [46(1)](https://www.legislation.gov.uk/anaw/2015/6/section/46/1)
+[^c-d196e42aa27358aa73531cc0e2299327]: Modification: Pt. 8 applied (with modifications) (25.1.2016) by [Local Government (Wales) Act 2015 (anaw 6)](https://www.legislation.gov.uk/anaw/2015/6), [ss. 25(3)](https://www.legislation.gov.uk/anaw/2015/6/section/25/3)[(4)](https://www.legislation.gov.uk/anaw/2015/6/section/25/4), [46(1)](https://www.legislation.gov.uk/anaw/2015/6/section/46/1)
 
-[^key-a096fced8cc98cb430f1dfd9e89a095e]: Modification: Pt. 8 applied (with modifications) (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 142(3)](https://www.legislation.gov.uk/asc/2021/1/section/142/3)[(4)](https://www.legislation.gov.uk/asc/2021/1/section/142/4)[(5)](https://www.legislation.gov.uk/asc/2021/1/section/142/5), [143](https://www.legislation.gov.uk/asc/2021/1/section/143), [175(1)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)[(2)](https://www.legislation.gov.uk/asc/2021/1/section/175/2)
+[^c-a096fced8cc98cb430f1dfd9e89a095e]: Modification: Pt. 8 applied (with modifications) (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 142(3)](https://www.legislation.gov.uk/asc/2021/1/section/142/3)[(4)](https://www.legislation.gov.uk/asc/2021/1/section/142/4)[(5)](https://www.legislation.gov.uk/asc/2021/1/section/142/5), [143](https://www.legislation.gov.uk/asc/2021/1/section/143), [175(1)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)[(2)](https://www.legislation.gov.uk/asc/2021/1/section/175/2)
 
-[^key-3b7a7aba9fb740b7daf1bfeaf410de08]: Textual amendment: Word in Pt. 8 omitted (1.4.2014) by virtue of [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [ss. 63(2)](https://www.legislation.gov.uk/anaw/2013/4/section/63/2), [75(3)](https://www.legislation.gov.uk/anaw/2013/4/section/75/3); [S.I. 2014/380](https://www.legislation.gov.uk/wsi/2014/380), [art. 2](https://www.legislation.gov.uk/wsi/2014/380/article/2)
+[^c-3b7a7aba9fb740b7daf1bfeaf410de08]: Textual amendment: Word in Pt. 8 omitted (1.4.2014) by virtue of [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [ss. 63(2)](https://www.legislation.gov.uk/anaw/2013/4/section/63/2), [75(3)](https://www.legislation.gov.uk/anaw/2013/4/section/75/3); [S.I. 2014/380](https://www.legislation.gov.uk/wsi/2014/380), [art. 2](https://www.legislation.gov.uk/wsi/2014/380/article/2)

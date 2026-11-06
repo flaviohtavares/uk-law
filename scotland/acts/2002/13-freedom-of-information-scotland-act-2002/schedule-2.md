@@ -24,9 +24,9 @@ summary: ''
 
 ### 1. Status
 
-(1) [^key-ede93154801b53d64225cc299e07cf2f]The Commissioner and that officer’s staff are not to be regarded as servants or agents of the Crown or as having any status, immunity or privilege of the Crown; and the Commissioner’s property is not to be regarded as property of, or property held on behalf of, the Crown.
+(1) [^c-ede93154801b53d64225cc299e07cf2f]The Commissioner and that officer’s staff are not to be regarded as servants or agents of the Crown or as having any status, immunity or privilege of the Crown; and the Commissioner’s property is not to be regarded as property of, or property held on behalf of, the Crown.
 
-(2)[^key-eaa4a2885004d0a21dc3e287f029b83c] The Commissioner is, as such, to be regarded as a juristic person distinct from the natural person holding the office.
+(2)[^c-eaa4a2885004d0a21dc3e287f029b83c] The Commissioner is, as such, to be regarded as a juristic person distinct from the natural person holding the office.
 
 ### 2. Pensions, allowances, etc.
 
@@ -48,7 +48,7 @@ summary: ''
 
 (3) The references in sub-paragraph (2) to pensions, allowances and gratuities include references to, as the case may be, pensions, allowances or gratuities by way of compensation for loss of employment.
 
-(4)[^key-cf88c40e51ff5600e42bcced133d7d62] The exercise of a power in sub-paragraph (1) or (2) is subject to the approval of the Parliamentary corporation.
+(4)[^c-cf88c40e51ff5600e42bcced133d7d62] The exercise of a power in sub-paragraph (1) or (2) is subject to the approval of the Parliamentary corporation.
 
 ### 4. Accountable officer
 
@@ -72,7 +72,7 @@ and the accountable officer is answerable to the Parliament for the exercise of 
 - (a) obtain written authority from the Commissioner before taking the action; and
 - (b) send a copy of that authority as soon as possible to the Auditor General.
 
-### Budget[^key-5276ac725786c744d6d6723800068fc6]
+### Budget[^c-5276ac725786c744d6d6723800068fc6]
 
 **4A.** (1) The Commissioner must, before the start of each financial year, prepare proposals for the Commissioner's use of resources and expenditure during the year (a “budget”) and, by such date as the Parliamentary corporation determines, send the budget to the Parliamentary corporation for approval.
 
@@ -102,14 +102,14 @@ in accordance with such directions as the Scottish Ministers may give that offic
 
 ### 6. General powers
 
-(1) [^key-dee6041bbc12cc27737a8db61b851dd1]The Commissioner may do anything which appears necessary or expedient for the purpose of, or in connection with, or which appears conducive to, the exercise of that officer’s functions; and without prejudice to that generality, may in particular—
+(1) [^c-dee6041bbc12cc27737a8db61b851dd1]The Commissioner may do anything which appears necessary or expedient for the purpose of, or in connection with, or which appears conducive to, the exercise of that officer’s functions; and without prejudice to that generality, may in particular—
 
 - (a) acquire and dispose of land and other property; and
 - (b) enter into contracts.
 
-(2)[^key-bb66d8a77a03672115ac162df5925f12] The exercise of the power to acquire or dispose of land is subject to the approval of the Parliamentary corporation.
+(2)[^c-bb66d8a77a03672115ac162df5925f12] The exercise of the power to acquire or dispose of land is subject to the approval of the Parliamentary corporation.
 
-### Location of office[^key-5966ec99623582dd1d6e3fe9b335b7e6]
+### Location of office[^c-5966ec99623582dd1d6e3fe9b335b7e6]
 
 **7.** The Commissioner must comply with any direction given by the Parliamentary corporation as to the location of the Commissioner's office.
 
@@ -117,7 +117,7 @@ in accordance with such directions as the Scottish Ministers may give that offic
 
 **8.** The Commissioner must comply with any direction given by the Parliamentary corporation as to the sharing of premises, staff, services or other resources with any other officeholder or any public body.
 
-### Restrictions on subsequent appointments etc.[^key-1a23e32b39bf8016fcef2a5c4fdcc1a0]
+### Restrictions on subsequent appointments etc.[^c-1a23e32b39bf8016fcef2a5c4fdcc1a0]
 
 **9.** (1) A person who has ceased being the Commissioner may not, without the approval of the Parliamentary corporation—
 
@@ -132,18 +132,18 @@ in accordance with such directions as the Scottish Ministers may give that offic
 
 ## Annotations
 
-[^key-ede93154801b53d64225cc299e07cf2f]: Textual amendment: [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/1/1): sch. 2 para.1 renumbered as sch. 1 para. 1(1) (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 9](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/9) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-ede93154801b53d64225cc299e07cf2f]: Textual amendment: [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/1/1): sch. 2 para.1 renumbered as sch. 1 para. 1(1) (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 9](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/9) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-eaa4a2885004d0a21dc3e287f029b83c]: Textual amendment: [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/1/2) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 9](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/9) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-eaa4a2885004d0a21dc3e287f029b83c]: Textual amendment: [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/1/2) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 9](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/9) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-cf88c40e51ff5600e42bcced133d7d62]: Textual amendment: [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/3/4) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 10](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/10) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-cf88c40e51ff5600e42bcced133d7d62]: Textual amendment: [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/3/4) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 10](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/10) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-5276ac725786c744d6d6723800068fc6]: Textual amendment: [Sch. 2 para. 4A](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/4A) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 11](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/11) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-5276ac725786c744d6d6723800068fc6]: Textual amendment: [Sch. 2 para. 4A](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/4A) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 11](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/11) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-dee6041bbc12cc27737a8db61b851dd1]: Textual amendment: [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/6/1): sch. 2 para. 6 renumbered as sch. 2 para. 6(1) (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 12](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/12) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-dee6041bbc12cc27737a8db61b851dd1]: Textual amendment: [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/6/1): sch. 2 para. 6 renumbered as sch. 2 para. 6(1) (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 12](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/12) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-bb66d8a77a03672115ac162df5925f12]: Textual amendment: [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/6/2) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 12](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/12) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-bb66d8a77a03672115ac162df5925f12]: Textual amendment: [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/6/2) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 12](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/12) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-5966ec99623582dd1d6e3fe9b335b7e6]: Textual amendment: [Sch. 2 paras. 7](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/7), [8](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/8) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 13](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/13) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-5966ec99623582dd1d6e3fe9b335b7e6]: Textual amendment: [Sch. 2 paras. 7](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/7), [8](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/8) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 13](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/13) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-1a23e32b39bf8016fcef2a5c4fdcc1a0]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/9) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 14](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/14) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-1a23e32b39bf8016fcef2a5c4fdcc1a0]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2002/13/schedule/2/paragraph/9) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 14](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/14) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))

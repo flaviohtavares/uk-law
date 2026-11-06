@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Child abduction: Northern Ireland[^key-09f6f42c90800589a167132cd4c9f952]
+## 138. Child abduction: Northern Ireland[^c-09f6f42c90800589a167132cd4c9f952]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09f6f42c90800589a167132cd4c9f952]: Commencement: S. 138 not in force at Royal Assent, see [s. 255(8)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/l)
+[^c-09f6f42c90800589a167132cd4c9f952]: Commencement: S. 138 not in force at Royal Assent, see [s. 255(8)(l)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/l)

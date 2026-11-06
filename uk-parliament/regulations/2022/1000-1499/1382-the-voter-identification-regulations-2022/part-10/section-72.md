@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Amendment of regulation 18 (issue of official petition notice)[^key-a06067c32465c65ad39337bc2c9a14b0]
+## 72. Amendment of regulation 18 (issue of official petition notice)[^c-a06067c32465c65ad39337bc2c9a14b0]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ In regulation 18 (issue of official petition notice), in paragraph (7)—
 
 ## Annotations
 
-[^key-a06067c32465c65ad39337bc2c9a14b0]: Commencement: Reg. 72 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-a06067c32465c65ad39337bc2c9a14b0]: Commencement: Reg. 72 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

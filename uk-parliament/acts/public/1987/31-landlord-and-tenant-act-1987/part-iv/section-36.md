@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Application by respondent for variation of other leases.[^key-89ef0ed66530b15573d45346020cb10a]
+## 36. Application by respondent for variation of other leases.[^c-89ef0ed66530b15573d45346020cb10a]
 
 *Extent: E+W*
 
-(1) Where an application (“the original application”) is made under section 35 by any party to a lease, any other party to the lease may make an application to the tribunal[^key-f84eb092a51151e8c4e80107b22bc773] asking it, in the event of its deciding to make an order effecting any variation of the lease in pursuance of the original application, to make an order which effects a corresponding variation of each of such one or more other leases as are specified in the application.
+(1) Where an application (“the original application”) is made under section 35 by any party to a lease, any other party to the lease may make an application to the tribunal[^c-f84eb092a51151e8c4e80107b22bc773] asking it, in the event of its deciding to make an order effecting any variation of the lease in pursuance of the original application, to make an order which effects a corresponding variation of each of such one or more other leases as are specified in the application.
 
 (2) Any lease so specified—
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89ef0ed66530b15573d45346020cb10a]: Modification: Ss. 35, 36 modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/10); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
+[^c-89ef0ed66530b15573d45346020cb10a]: Modification: Ss. 35, 36 modified (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2002/15/schedule/7/paragraph/10); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
 
-[^key-f84eb092a51151e8c4e80107b22bc773]: Textual amendment: Word in s. 36(1) substituted (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 163(3)](https://www.legislation.gov.uk/ukpga/2002/15/section/163/3), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)
+[^c-f84eb092a51151e8c4e80107b22bc773]: Textual amendment: Word in s. 36(1) substituted (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 163(3)](https://www.legislation.gov.uk/ukpga/2002/15/section/163/3), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/a); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/669/article/2/a)

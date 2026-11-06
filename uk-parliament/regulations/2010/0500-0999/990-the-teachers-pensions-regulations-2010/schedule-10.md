@@ -48,7 +48,7 @@ Regulation 135
 
 (5) A period for which P has, before the day of the new employment, elected to pay contributions under Schedule 4 to TPR 1997 is treated as being in the previous employment.
 
-(6) Regulation 97(3) does not have effect so as to preclude the payment [^key-720c708fe3c370080c11b1b17738289b]... of a child pension in respect of each of the employments.
+(6) Regulation 97(3) does not have effect so as to preclude the payment [^c-720c708fe3c370080c11b1b17738289b]... of a child pension in respect of each of the employments.
 
 ### PART 2 — Policy scheme service
 
@@ -93,6 +93,6 @@ Regulation 135
 
 ## Annotations
 
-[^key-720c708fe3c370080c11b1b17738289b]: Textual amendment: Words in [Sch. 10 para. 2(6)](https://www.legislation.gov.uk/uksi/2010/990/schedule/10/paragraph/2/6) omitted (1.4.2015) by virtue of [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [28](https://www.legislation.gov.uk/uksi/2014/2651/regulation/28)
+[^c-720c708fe3c370080c11b1b17738289b]: Textual amendment: Words in [Sch. 10 para. 2(6)](https://www.legislation.gov.uk/uksi/2010/990/schedule/10/paragraph/2/6) omitted (1.4.2015) by virtue of [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [28](https://www.legislation.gov.uk/uksi/2014/2651/regulation/28)
 
 [^c20238331]: Marginal citation: [S.I. 1979/47](https://www.legislation.gov.uk/uksi/1979/47)

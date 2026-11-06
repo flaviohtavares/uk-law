@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. The City of London Magistrates’ Court: removal of duty to provide premises[^key-0827a63c04784dc1b2f3dda62b71ab27]
+## 47. The City of London Magistrates’ Court: removal of duty to provide premises[^c-0827a63c04784dc1b2f3dda62b71ab27]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0827a63c04784dc1b2f3dda62b71ab27]: Commencement: S. 47 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-0827a63c04784dc1b2f3dda62b71ab27]: Commencement: S. 47 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)

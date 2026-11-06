@@ -32,7 +32,7 @@ summary: ''
 
 Magistrates’ Courts, England And Wales
 
-The Family Proceedings Courts (Constitution of Committees and Right to Preside) (Amendment) Rules 2011 (revoked)[^key-5fa731e7dcfc92d548ef8a765c49c5cc]
+The Family Proceedings Courts (Constitution of Committees and Right to Preside) (Amendment) Rules 2011 (revoked)[^c-5fa731e7dcfc92d548ef8a765c49c5cc]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st January 2012
 
-[^key-5fa731e7dcfc92d548ef8a765c49c5cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fa731e7dcfc92d548ef8a765c49c5cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5fa731e7dcfc92d548ef8a765c49c5cc]
+## 1. Citation and commencement[^c-5fa731e7dcfc92d548ef8a765c49c5cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Family Proceedings Courts (Constitution of Committees and Right to Preside) Rules 2007[^key-5fa731e7dcfc92d548ef8a765c49c5cc]
+## 2. Amendments to the Family Proceedings Courts (Constitution of Committees and Right to Preside) Rules 2007[^c-5fa731e7dcfc92d548ef8a765c49c5cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5fa731e7dcfc92d548ef8a765c49c5cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fa731e7dcfc92d548ef8a765c49c5cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5fa731e7dcfc92d548ef8a765c49c5cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fa731e7dcfc92d548ef8a765c49c5cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5fa731e7dcfc92d548ef8a765c49c5cc]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2011/1495) revoked (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/879/schedule)
+[^c-5fa731e7dcfc92d548ef8a765c49c5cc]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2011/1495) revoked (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) (No.2) Order 2014 (S.I. 2014/879)](https://www.legislation.gov.uk/uksi/2014/879), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/879/schedule)

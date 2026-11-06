@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Conclusiveness[^key-3826a924f764aa547018648603f1faa8][^key-0ea43637f6e7b45b8fcf9c092dbb9128]
+## 18. Conclusiveness[^c-3826a924f764aa547018648603f1faa8][^c-0ea43637f6e7b45b8fcf9c092dbb9128]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3826a924f764aa547018648603f1faa8]: Commencement: S. 18 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/d), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
+[^c-3826a924f764aa547018648603f1faa8]: Commencement: S. 18 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/d), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
 
-[^key-0ea43637f6e7b45b8fcf9c092dbb9128]: Commencement: S. 18 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/d) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))
+[^c-0ea43637f6e7b45b8fcf9c092dbb9128]: Commencement: S. 18 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/d) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))

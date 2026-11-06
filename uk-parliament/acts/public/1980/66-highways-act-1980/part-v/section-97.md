@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Lighting of highways.[^key-1efdc6a46c474d566828d6a2371acf0b]
+## 97. Lighting of highways.[^c-1efdc6a46c474d566828d6a2371acf0b]
 
 *Extent: E+W*
 
-(1) A[^key-13ac16808ed7015c0d1ad3b2baba8dba] highway authority may provide lighting for the purposes of any highway or proposed highway for which they are or will be the highway authority, and may for that purpose—
+(1) A[^c-13ac16808ed7015c0d1ad3b2baba8dba] highway authority may provide lighting for the purposes of any highway or proposed highway for which they are or will be the highway authority, and may for that purpose—
 
 - (a) contract with any persons for the supply of gas, electricity or other means of lighting; and
 - (b) construct and maintain such lamps, posts and other works as they consider necessary.
@@ -33,9 +33,9 @@ summary: ''
 
 ## Annotations
 
-[^key-1efdc6a46c474d566828d6a2371acf0b]: Modification: S. 97 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(w)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/w)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
+[^c-1efdc6a46c474d566828d6a2371acf0b]: Modification: S. 97 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(w)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/w)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
 
-[^key-13ac16808ed7015c0d1ad3b2baba8dba]: Textual amendment: Word in s. 97(1) substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/29); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-13ac16808ed7015c0d1ad3b2baba8dba]: Textual amendment: Word in s. 97(1) substituted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/29); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13421781]: Marginal citation: [1966 c. 42](https://www.legislation.gov.uk/ukpga/1966/42).
 

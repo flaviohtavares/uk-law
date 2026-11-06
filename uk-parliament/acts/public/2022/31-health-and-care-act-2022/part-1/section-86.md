@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Special Health Authorities: removal of 3 year limit[^key-f75182916f56154c7a7bbdb42cd948b7][^key-e39c859ad2cf3d9e3daeaaa5d76697be]
+## 86. Special Health Authorities: removal of 3 year limit[^c-f75182916f56154c7a7bbdb42cd948b7][^c-e39c859ad2cf3d9e3daeaaa5d76697be]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f75182916f56154c7a7bbdb42cd948b7]: Commencement: S. 86 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-f75182916f56154c7a7bbdb42cd948b7]: Commencement: S. 86 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-e39c859ad2cf3d9e3daeaaa5d76697be]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2022/31/section/86) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-e39c859ad2cf3d9e3daeaaa5d76697be]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2022/31/section/86) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

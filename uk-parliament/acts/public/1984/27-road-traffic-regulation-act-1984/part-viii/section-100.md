@@ -26,9 +26,9 @@ summary: ''
 
 (3)[^c13561691] Any vehicle removed by a constable in pursuance of any such regulations and appearing to him to have been abandoned may be delivered by the chief officer of the police force to which the constable belongs to a local authority, with the consent of that authority.
 
-(3A)[^c19976281] Any vehicle removed by, or by virtue of arrangements made by, a traffic officer in pursuance of regulations made under section 99 of this Act and appearing to the traffic officer to have been abandoned shall be delivered to the Secretary of State or a strategic highways company[^key-f0f6e995477da60f9d81b3ad870b1e6b].
+(3A)[^c19976281] Any vehicle removed by, or by virtue of arrangements made by, a traffic officer in pursuance of regulations made under section 99 of this Act and appearing to the traffic officer to have been abandoned shall be delivered to the Secretary of State or a strategic highways company[^c-f0f6e995477da60f9d81b3ad870b1e6b].
 
-(4)[^key-3206637035d25f7f1e589649e19e7b93] While a vehicle is in the custody of an authority in pursuance of this section or of regulations under section 99 of this Act, other than a vehicle which in the opinion of that authority is in such a condition that it ought to be destroyed, it shall be the duty of that authority to take such steps as are reasonably necessary for the safe custody of the vehicle.
+(4)[^c-3206637035d25f7f1e589649e19e7b93] While a vehicle is in the custody of an authority in pursuance of this section or of regulations under section 99 of this Act, other than a vehicle which in the opinion of that authority is in such a condition that it ought to be destroyed, it shall be the duty of that authority to take such steps as are reasonably necessary for the safe custody of the vehicle.
 
 (5) In this section —[^c19976351]
 
@@ -56,9 +56,9 @@ and *(affected by repeal, see note)*[^c19976421]“**vehicle**” has the meanin
 
 [^c19976281]: Textual amendment: S. 100(3A) inserted (E.) (1.10.2008) by [The Removal and Disposal of Vehicles (Traffic Officers) (England) Regulations 2008 (S.I. 2008/2367)](https://www.legislation.gov.uk/uksi/2008/2367), [reg. 13(2)(a)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/13/2/a)
 
-[^key-f0f6e995477da60f9d81b3ad870b1e6b]: Textual amendment: Words in s. 100(3A) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 92](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/92); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-f0f6e995477da60f9d81b3ad870b1e6b]: Textual amendment: Words in s. 100(3A) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 92](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/92); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-3206637035d25f7f1e589649e19e7b93]: Modification: [S. 100(4)](https://www.legislation.gov.uk/ukpga/1984/27/section/100/4) applied (15.3.2018) by [City of London Corporation (Open Spaces) Act 2018 (c. i)](https://www.legislation.gov.uk/ukla/2018/1), [s. 13(5)(a)](https://www.legislation.gov.uk/ukla/2018/1/section/13/5/a) (with [ss. 3](https://www.legislation.gov.uk/ukla/2018/1/section/3), [4(2)](https://www.legislation.gov.uk/ukla/2018/1/section/4/2))
+[^c-3206637035d25f7f1e589649e19e7b93]: Modification: [S. 100(4)](https://www.legislation.gov.uk/ukpga/1984/27/section/100/4) applied (15.3.2018) by [City of London Corporation (Open Spaces) Act 2018 (c. i)](https://www.legislation.gov.uk/ukla/2018/1), [s. 13(5)(a)](https://www.legislation.gov.uk/ukla/2018/1/section/13/5/a) (with [ss. 3](https://www.legislation.gov.uk/ukla/2018/1/section/3), [4(2)](https://www.legislation.gov.uk/ukla/2018/1/section/4/2))
 
 [^c19976351]: Textual amendment: "—" in s. 100(5) inserted (E.) (1.10.2008) by [The Removal and Disposal of Vehicles (Traffic Officers) (England) Regulations 2008 (S.I. 2008/2367)](https://www.legislation.gov.uk/uksi/2008/2367), [reg. 13(2)(b)(i)](https://www.legislation.gov.uk/uksi/2008/2367/regulation/13/2/b/i)
 

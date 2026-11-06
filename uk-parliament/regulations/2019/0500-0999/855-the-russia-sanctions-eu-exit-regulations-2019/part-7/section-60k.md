@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60K. Trade: exceptions in relation to uranium[^key-a59b0e6dbe312c1d3a9b696cd57b216c]
+## 60K. Trade: exceptions in relation to uranium[^c-a59b0e6dbe312c1d3a9b696cd57b216c]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a59b0e6dbe312c1d3a9b696cd57b216c]: Textual amendment: [Regs. 60J-60L](https://www.legislation.gov.uk/uksi/2019/855/regulation/60J) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2026/543/regulation/17)
+[^c-a59b0e6dbe312c1d3a9b696cd57b216c]: Textual amendment: [Regs. 60J-60L](https://www.legislation.gov.uk/uksi/2019/855/regulation/60J) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2026/543/regulation/17)

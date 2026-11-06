@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. Minor modifications: Scottish Social Services Council[^key-a4bf496a241b3393153319bd0b86e58f]
+## 107. Minor modifications: Scottish Social Services Council[^c-a4bf496a241b3393153319bd0b86e58f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 15 (which makes minor modifications of Part 3 of the Regulation of Care
 
 ## Annotations
 
-[^key-a4bf496a241b3393153319bd0b86e58f]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2010/8/section/107) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-a4bf496a241b3393153319bd0b86e58f]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2010/8/section/107) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

@@ -38,7 +38,7 @@ summary: ''
 - (e) prepare a framework document in accordance with section 5;
 - (f) formulate the general policy and principles by reference to which particular functions are to be exercised;
 - (g) secure the commissioning and development of programmes and initiatives conducive to the improvement of the health and social well-being of, and the reduction of health inequalities between, people in Northern Ireland;
-- (h)[^key-285d7915519356c01490a4ca9edb0d2c] monitor and hold to account [^key-0bfff5156229b255774fed4c42a55b88]... the Regional Agency, RBSO and HSC trusts in the discharge of their functions;
+- (h)[^c-285d7915519356c01490a4ca9edb0d2c] monitor and hold to account [^c-0bfff5156229b255774fed4c42a55b88]... the Regional Agency, RBSO and HSC trusts in the discharge of their functions;
 - (i) make and maintain effective arrangements to secure the monitoring and holding to account of the other health and social care bodies in the discharge of their functions;
 - (j) facilitate the discharge by bodies to which Article 67 of the Order of 1972 applies of the duty to co-operate with one another for the purposes mentioned in that Article.
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-285d7915519356c01490a4ca9edb0d2c]: Modification: [S. 2(3)(h)](https://www.legislation.gov.uk/nia/2009/1/section/2/3/h) applied (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(c)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/c), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/2/paragraph/7/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/102/article/2/c)
+[^c-285d7915519356c01490a4ca9edb0d2c]: Modification: [S. 2(3)(h)](https://www.legislation.gov.uk/nia/2009/1/section/2/3/h) applied (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(c)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/c), [Sch. 2 para. 7(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/2/paragraph/7/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/102/article/2/c)
 
-[^key-0bfff5156229b255774fed4c42a55b88]: Textual amendment: Words in [s. 2(3)(h)](https://www.legislation.gov.uk/nia/2009/1/section/2/3/h) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 230](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/230); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-0bfff5156229b255774fed4c42a55b88]: Textual amendment: Words in [s. 2(3)(h)](https://www.legislation.gov.uk/nia/2009/1/section/2/3/h) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 230](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/230); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

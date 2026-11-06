@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order (Northern Ireland) 2001 (revoked)[^key-853f635066d47c6a292a1efb17ff928a]
+The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order (Northern Ireland) 2001 (revoked)[^c-853f635066d47c6a292a1efb17ff928a]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 9th April 2001
 
-[^key-853f635066d47c6a292a1efb17ff928a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-853f635066d47c6a292a1efb17ff928a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-853f635066d47c6a292a1efb17ff928a]
+## 1. Citation and commencement[^c-853f635066d47c6a292a1efb17ff928a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Increase of earnings limits in respect of dependent children[^key-853f635066d47c6a292a1efb17ff928a]
+## 2. Increase of earnings limits in respect of dependent children[^c-853f635066d47c6a292a1efb17ff928a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-853f635066d47c6a292a1efb17ff928a]
+## 3. Revocation[^c-853f635066d47c6a292a1efb17ff928a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-853f635066d47c6a292a1efb17ff928a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-853f635066d47c6a292a1efb17ff928a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-853f635066d47c6a292a1efb17ff928a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-853f635066d47c6a292a1efb17ff928a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-853f635066d47c6a292a1efb17ff928a]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2001/107) revoked (14.4.2004) by [The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order (Northern Ireland) 2004 (S.R. 2004/84)](https://www.legislation.gov.uk/nisr/2004/84), [arts. 1](https://www.legislation.gov.uk/nisr/2004/84/article/1), [3](https://www.legislation.gov.uk/nisr/2004/84/article/3)
+[^c-853f635066d47c6a292a1efb17ff928a]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2001/107) revoked (14.4.2004) by [The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order (Northern Ireland) 2004 (S.R. 2004/84)](https://www.legislation.gov.uk/nisr/2004/84), [arts. 1](https://www.legislation.gov.uk/nisr/2004/84/article/1), [3](https://www.legislation.gov.uk/nisr/2004/84/article/3)

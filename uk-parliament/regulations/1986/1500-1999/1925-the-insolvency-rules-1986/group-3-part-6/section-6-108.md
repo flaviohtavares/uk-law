@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.108. Negotiable instruments, etc[^key-c3f11a23338e93aa081028e6948b6e88]
+## 6.108. Negotiable instruments, etc[^c-c3f11a23338e93aa081028e6948b6e88]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Unless the trustee allows, a proof in respect of money owed on a bill of exchang
 
 ## Annotations
 
-[^key-c3f11a23338e93aa081028e6948b6e88]: Commencement: [Rule 6.108](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.108) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c3f11a23338e93aa081028e6948b6e88]: Commencement: [Rule 6.108](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.108) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

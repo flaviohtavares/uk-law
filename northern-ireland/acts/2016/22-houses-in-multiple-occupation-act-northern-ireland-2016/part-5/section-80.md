@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Powers of entry: supplementary provisions[^key-84372ff07b574645e9f015739e572f2f]
+## 80. Powers of entry: supplementary provisions[^c-84372ff07b574645e9f015739e572f2f]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84372ff07b574645e9f015739e572f2f]: Commencement: [S. 80](https://www.legislation.gov.uk/nia/2016/22/section/80) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-84372ff07b574645e9f015739e572f2f]: Commencement: [S. 80](https://www.legislation.gov.uk/nia/2016/22/section/80) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

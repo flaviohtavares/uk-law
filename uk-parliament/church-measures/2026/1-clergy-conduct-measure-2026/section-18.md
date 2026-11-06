@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 18. Self-referral by cleric[^key-bce1378fea3b3afe5c1c155fb623703d]
+## 18. Self-referral by cleric[^c-bce1378fea3b3afe5c1c155fb623703d]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bce1378fea3b3afe5c1c155fb623703d]: Commencement: S. 18 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-bce1378fea3b3afe5c1c155fb623703d]: Commencement: S. 18 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

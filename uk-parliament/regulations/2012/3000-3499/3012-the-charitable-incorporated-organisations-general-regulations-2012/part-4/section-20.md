@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Execution of documents[^key-2e0da3ad310e8004a557899bc7bade50]
+## 20. Execution of documents[^c-2e0da3ad310e8004a557899bc7bade50]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ has the same effect as if executed under the common seal of the CIO.
 
 ## Annotations
 
-[^key-2e0da3ad310e8004a557899bc7bade50]: Commencement: Reg. 20 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-2e0da3ad310e8004a557899bc7bade50]: Commencement: Reg. 20 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

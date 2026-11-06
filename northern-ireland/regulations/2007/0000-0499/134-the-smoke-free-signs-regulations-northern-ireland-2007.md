@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001], makes the following Regulations in exercise of the powers conferred by Articles 7(2), (3), and (4) and 15(1) of the Smoking (Northern Ireland) Order 2006[^f00002]:
 
-## 1. Citation, commencement, and interpretation[^key-c14e7e08be0662f6c35a964a95945a1c]
+## 1. Citation, commencement, and interpretation[^c-c14e7e08be0662f6c35a964a95945a1c]
 
 (1) These Regulations may be cited as the Smoke-Free (Signs) Regulations (Northern Ireland) 2007 and shall come into operation on 30th April 2007.
 
@@ -51,9 +51,9 @@ The Department of Health, Social Services and Public Safety[^f00001], makes the 
 - “entrance” means an entrance for use by persons;
 - “no-smoking symbol” means a symbol which consists of a graphic representation of a single burning cigarette enclosed in a red circle of at least 75 millimetres in diameter with a red bar across it;
 - “smoke-free premises” means all public places and workplaces other than those that are exempt by virtue of regulations made under Article 4 of the Order; and
-- [^key-5a3923ec6a3a8347b8949bb912bd2d74]...
+- [^c-5a3923ec6a3a8347b8949bb912bd2d74]...
 
-## 2. No-smoking signs in premises[^key-4815ba2ca9ca282aac2edf0a0c2ff73b]
+## 2. No-smoking signs in premises[^c-4815ba2ca9ca282aac2edf0a0c2ff73b]
 
 (1) Except where paragraphs (3) and (4) apply, at each entrance to smoke-free premises there shall be displayed in a prominent position at least one no-smoking sign which—
 
@@ -74,9 +74,9 @@ The Department of Health, Social Services and Public Safety[^f00001], makes the 
 
 (4) Where paragraph (3) applies, a no-smoking sign which displays only the no-smoking symbol may be displayed in a prominent position at an entrance instead of a no-smoking sign which complies with paragraphs (1) and (2).
 
-## 3. No-smoking signs in vehicles[^key-d4d20419392f2ccbfadd00ed32afb950]
+## 3. No-smoking signs in vehicles[^c-d4d20419392f2ccbfadd00ed32afb950]
 
-(1) Any person with management responsibilities for a a vehicle that is smoke-free by virtue of regulation 12(1) of the Smoke-free (Exemptions, Vehicles, Penalties and Discounted Amounts) Regulations (Northern Ireland) 2007[^key-ba7d8cf257c0effa95cb08792057256f] shall be under a duty corresponding to that in Article 7(1) of the Order to make sure that at least one no-smoking sign is displayed in a prominent position in each compartment of his vehicle.
+(1) Any person with management responsibilities for a a vehicle that is smoke-free by virtue of regulation 12(1) of the Smoke-free (Exemptions, Vehicles, Penalties and Discounted Amounts) Regulations (Northern Ireland) 2007[^c-ba7d8cf257c0effa95cb08792057256f] shall be under a duty corresponding to that in Article 7(1) of the Order to make sure that at least one no-smoking sign is displayed in a prominent position in each compartment of his vehicle.
 
 (2) In paragraph (1)—
 
@@ -110,12 +110,12 @@ These Regulations were notified in draft to the European Commission in accordanc
 
 [^f00002]: Footnote: S.I. [2006/2957 (N.I. 20)](https://www.legislation.gov.uk/nisi/2006/2957)
 
-[^key-c14e7e08be0662f6c35a964a95945a1c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/134/regulation/1) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/134/regulation/1/1)
+[^c-c14e7e08be0662f6c35a964a95945a1c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/134/regulation/1) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/134/regulation/1/1)
 
-[^key-5a3923ec6a3a8347b8949bb912bd2d74]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/134/regulation/1/2) omitted (1.2.2022) by virtue of [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2021/328/regulation/3/2)
+[^c-5a3923ec6a3a8347b8949bb912bd2d74]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/134/regulation/1/2) omitted (1.2.2022) by virtue of [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2021/328/regulation/3/2)
 
-[^key-4815ba2ca9ca282aac2edf0a0c2ff73b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/134/regulation/2) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/134/regulation/1/1)
+[^c-4815ba2ca9ca282aac2edf0a0c2ff73b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/134/regulation/2) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/134/regulation/1/1)
 
-[^key-d4d20419392f2ccbfadd00ed32afb950]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/134/regulation/3) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/134/regulation/1/1)
+[^c-d4d20419392f2ccbfadd00ed32afb950]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/134/regulation/3) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/134/regulation/1/1)
 
-[^key-ba7d8cf257c0effa95cb08792057256f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2007/134/regulation/3/1) substituted (1.2.2022) by [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2021/328/regulation/3/3)
+[^c-ba7d8cf257c0effa95cb08792057256f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2007/134/regulation/3/1) substituted (1.2.2022) by [The Smoke-Free (Private Vehicles) Regulations (Northern Ireland) 2021 (S.R. 2021/328)](https://www.legislation.gov.uk/nisr/2021/328), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/328/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2021/328/regulation/3/3)

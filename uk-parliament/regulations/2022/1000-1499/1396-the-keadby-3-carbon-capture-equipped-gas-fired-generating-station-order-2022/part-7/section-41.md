@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Certification of plans etc.[^key-c36e2773e2ec6a3595160498f0893470]
+## 41. Certification of plans etc.[^c-c36e2773e2ec6a3595160498f0893470]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c36e2773e2ec6a3595160498f0893470]: Commencement: Art. 41 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-c36e2773e2ec6a3595160498f0893470]: Commencement: Art. 41 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

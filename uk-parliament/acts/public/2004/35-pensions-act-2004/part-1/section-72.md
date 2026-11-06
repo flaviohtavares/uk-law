@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Provision of information[^key-df42df6489a9636dfce680c623e8e2ab]
+## 72. Provision of information[^c-df42df6489a9636dfce680c623e8e2ab]
 
 *Extent: E+W+S*
 
@@ -25,14 +25,14 @@ summary: ''
 - (a) of a description specified in the notice, and
 - (b) relevant to the exercise of the Regulator’s functions.
 
-(1A)[^key-e15153b201f39ce64342889e97b66435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-e15153b201f39ce64342889e97b66435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1B)[^key-92f179a8440e016f14c37d1c141da050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-92f179a8440e016f14c37d1c141da050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) This subsection applies to—
 
 - (a) a trustee or manager of an occupational or personal pension scheme,
-- (aa)[^key-b9a3c9ee65799732c60a591984432091] a member of the pension board of a public service pension scheme,
+- (aa)[^c-b9a3c9ee65799732c60a591984432091] a member of the pension board of a public service pension scheme,
 - (b) a professional adviser in relation to an occupational pension scheme,
 - (c) the employer in relation to—
   - (i) an occupational pension scheme, or
@@ -43,10 +43,10 @@ summary: ''
 
 ## Annotations
 
-[^key-df42df6489a9636dfce680c623e8e2ab]: Commencement: S. 72 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-df42df6489a9636dfce680c623e8e2ab]: Commencement: S. 72 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-e15153b201f39ce64342889e97b66435]: Textual amendment: [S. 72(1A)](https://www.legislation.gov.uk/ukpga/2004/35/section/72/1A) omitted (1.10.2021) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 110(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/3), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/950/regulation/9))
+[^c-e15153b201f39ce64342889e97b66435]: Textual amendment: [S. 72(1A)](https://www.legislation.gov.uk/ukpga/2004/35/section/72/1A) omitted (1.10.2021) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 110(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/3), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/950/regulation/9))
 
-[^key-92f179a8440e016f14c37d1c141da050]: Textual amendment: [S. 72(1B)](https://www.legislation.gov.uk/ukpga/2004/35/section/72/1B) omitted (1.10.2021) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 110(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/3), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/950/regulation/9))
+[^c-92f179a8440e016f14c37d1c141da050]: Textual amendment: [S. 72(1B)](https://www.legislation.gov.uk/ukpga/2004/35/section/72/1B) omitted (1.10.2021) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 110(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/3), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/950/regulation/9))
 
-[^key-b9a3c9ee65799732c60a591984432091]: Textual amendment: S. 72(2)(aa) inserted (1.4.2015) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/9) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)
+[^c-b9a3c9ee65799732c60a591984432091]: Textual amendment: S. 72(2)(aa) inserted (1.4.2015) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/9) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2015/4](https://www.legislation.gov.uk/uksi/2015/4), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2015/4/article/4/1/b)

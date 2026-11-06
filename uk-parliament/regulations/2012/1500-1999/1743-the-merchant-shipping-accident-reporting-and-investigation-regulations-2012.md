@@ -32,7 +32,7 @@ summary: ''
 
 Merchant Shipping
 
-The Merchant Shipping (Accident Reporting and Investigation) Regulations 2012 (revoked)[^key-b8dbeefeb39295dadad0576dc6428990]
+The Merchant Shipping (Accident Reporting and Investigation) Regulations 2012 (revoked)[^c-b8dbeefeb39295dadad0576dc6428990]
 
 Made
 
@@ -46,154 +46,154 @@ Coming into force
 
 31st July 2012
 
-[^key-b8dbeefeb39295dadad0576dc6428990]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8dbeefeb39295dadad0576dc6428990]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and revocation[^key-b8dbeefeb39295dadad0576dc6428990]
+## 1. Citation, commencement and revocation[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b8dbeefeb39295dadad0576dc6428990]
+## 2. Interpretation[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Meaning of “accident”[^key-b8dbeefeb39295dadad0576dc6428990]
+## 3. Meaning of “accident”[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application[^key-b8dbeefeb39295dadad0576dc6428990]
+## 4. Application[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Objective of a safety investigation[^key-b8dbeefeb39295dadad0576dc6428990]
+## 5. Objective of a safety investigation[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Duty to report accidents and serious injuries[^key-b8dbeefeb39295dadad0576dc6428990]
+## 6. Duty to report accidents and serious injuries[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Preliminary assessments[^key-b8dbeefeb39295dadad0576dc6428990]
+## 7. Preliminary assessments[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Ordering of a safety investigation[^key-b8dbeefeb39295dadad0576dc6428990]
+## 8. Ordering of a safety investigation[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Subsequent or reopened investigations[^key-b8dbeefeb39295dadad0576dc6428990]
+## 9. Subsequent or reopened investigations[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Preservation of evidence[^key-b8dbeefeb39295dadad0576dc6428990]
+## 10. Preservation of evidence[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Conduct of a safety investigation[^key-b8dbeefeb39295dadad0576dc6428990]
+## 11. Conduct of a safety investigation[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Co-operation with other States[^key-b8dbeefeb39295dadad0576dc6428990]
+## 12. Co-operation with other States[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Disclosure of records[^key-b8dbeefeb39295dadad0576dc6428990]
+## 13. Disclosure of records[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Reports of safety investigations[^key-b8dbeefeb39295dadad0576dc6428990]
+## 14. Reports of safety investigations[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Publications other than reports of safety investigations[^key-b8dbeefeb39295dadad0576dc6428990]
+## 15. Publications other than reports of safety investigations[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Recommendations[^key-b8dbeefeb39295dadad0576dc6428990]
+## 16. Recommendations[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Extension of time[^key-b8dbeefeb39295dadad0576dc6428990]
+## 17. Extension of time[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Service of documents[^key-b8dbeefeb39295dadad0576dc6428990]
+## 18. Service of documents[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Penalties[^key-b8dbeefeb39295dadad0576dc6428990]
+## 19. Penalties[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Review[^key-b8dbeefeb39295dadad0576dc6428990]
+## 20. Review[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b8dbeefeb39295dadad0576dc6428990]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8dbeefeb39295dadad0576dc6428990]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — MARINE CASUALTY OR INCIDENT NOTIFICATION DATA[^key-b8dbeefeb39295dadad0576dc6428990]
+## SCHEDULE 1 — MARINE CASUALTY OR INCIDENT NOTIFICATION DATA[^c-b8dbeefeb39295dadad0576dc6428990]
 
 Regulation 6
 
-### The information is—[^key-b8dbeefeb39295dadad0576dc6428990]
+### The information is—[^c-b8dbeefeb39295dadad0576dc6428990]
 
-[^key-b8dbeefeb39295dadad0576dc6428990]
+[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Information to be included, where relevant, in reports in relation to an accident[^key-b8dbeefeb39295dadad0576dc6428990]
+## SCHEDULE 2 — Information to be included, where relevant, in reports in relation to an accident[^c-b8dbeefeb39295dadad0576dc6428990]
 
 Regulation 14
 
-### 1. Summary[^key-b8dbeefeb39295dadad0576dc6428990]
+### 1. Summary[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b8dbeefeb39295dadad0576dc6428990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b8dbeefeb39295dadad0576dc6428990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Factual information[^key-b8dbeefeb39295dadad0576dc6428990]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-b8dbeefeb39295dadad0576dc6428990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-b8dbeefeb39295dadad0576dc6428990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**6.**[^key-b8dbeefeb39295dadad0576dc6428990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 7. Narrative details[^key-b8dbeefeb39295dadad0576dc6428990]
+### 3. Factual information[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b8dbeefeb39295dadad0576dc6428990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b8dbeefeb39295dadad0576dc6428990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Analysis[^key-b8dbeefeb39295dadad0576dc6428990]
+**5.**[^c-b8dbeefeb39295dadad0576dc6428990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b8dbeefeb39295dadad0576dc6428990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Conclusions[^key-b8dbeefeb39295dadad0576dc6428990]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 11. Safety Recommendations[^key-b8dbeefeb39295dadad0576dc6428990]
+### 7. Narrative details[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-b8dbeefeb39295dadad0576dc6428990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b8dbeefeb39295dadad0576dc6428990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-b8dbeefeb39295dadad0576dc6428990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 9. Analysis[^c-b8dbeefeb39295dadad0576dc6428990]
 
-### 14. Appendices[^key-b8dbeefeb39295dadad0576dc6428990]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Conclusions[^c-b8dbeefeb39295dadad0576dc6428990]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Safety Recommendations[^c-b8dbeefeb39295dadad0576dc6428990]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-b8dbeefeb39295dadad0576dc6428990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-b8dbeefeb39295dadad0576dc6428990] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 14. Appendices[^c-b8dbeefeb39295dadad0576dc6428990]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b8dbeefeb39295dadad0576dc6428990]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b8dbeefeb39295dadad0576dc6428990]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b8dbeefeb39295dadad0576dc6428990]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1743) revoked (15.5.2026) by [The Merchant Shipping (Accident Reporting and Investigation) Regulations 2026 (S.I. 2026/430)](https://www.legislation.gov.uk/uksi/2026/430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/430/regulation/1/2), [25(1)(a)](https://www.legislation.gov.uk/uksi/2026/430/regulation/25/1/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/430/regulation/4))
+[^c-b8dbeefeb39295dadad0576dc6428990]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1743) revoked (15.5.2026) by [The Merchant Shipping (Accident Reporting and Investigation) Regulations 2026 (S.I. 2026/430)](https://www.legislation.gov.uk/uksi/2026/430), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/430/regulation/1/2), [25(1)(a)](https://www.legislation.gov.uk/uksi/2026/430/regulation/25/1/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/430/regulation/4))

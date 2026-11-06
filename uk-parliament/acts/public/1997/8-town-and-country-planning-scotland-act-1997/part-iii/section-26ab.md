@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26AB. Power by order to provide marine fish farming is not “development”[^key-4e9688a94790705c56cca88a53bfa675]
+## 26AB. Power by order to provide marine fish farming is not “development”[^c-4e9688a94790705c56cca88a53bfa675]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e9688a94790705c56cca88a53bfa675]: Textual amendment: S. 26AB inserted (6.4.2011) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [ss. 63(3)](https://www.legislation.gov.uk/asp/2010/5/section/63/3), [168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-4e9688a94790705c56cca88a53bfa675]: Textual amendment: S. 26AB inserted (6.4.2011) by [Marine (Scotland) Act 2010 (asp 5)](https://www.legislation.gov.uk/asp/2010/5), [ss. 63(3)](https://www.legislation.gov.uk/asp/2010/5/section/63/3), [168(1)](https://www.legislation.gov.uk/asp/2010/5/section/168/1) (with [s. 162](https://www.legislation.gov.uk/asp/2010/5/section/162)); [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

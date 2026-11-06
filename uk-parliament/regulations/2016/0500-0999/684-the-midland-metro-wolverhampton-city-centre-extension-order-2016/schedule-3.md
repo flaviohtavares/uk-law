@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — STREETS TO BE TEMPORARILY STOPPED UP[^key-3422d33f30a1344d04b5602005ca7328]
+## SCHEDULE 3 — STREETS TO BE TEMPORARILY STOPPED UP[^c-3422d33f30a1344d04b5602005ca7328]
 
 *Extent: E+W*
 
 Article 12
 
-[^key-3422d33f30a1344d04b5602005ca7328]
+[^c-3422d33f30a1344d04b5602005ca7328]
 
 In the City of Wolverhampton—
 
@@ -45,4 +45,4 @@ In the City of Wolverhampton—
 
 ## Annotations
 
-[^key-3422d33f30a1344d04b5602005ca7328]: Commencement: Sch. 3 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-3422d33f30a1344d04b5602005ca7328]: Commencement: Sch. 3 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

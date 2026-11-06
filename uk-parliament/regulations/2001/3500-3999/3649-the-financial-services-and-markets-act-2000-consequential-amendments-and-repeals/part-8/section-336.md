@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 336. Removal of unnecessary right of appeal[^key-953744f0c2182ac42f1e78b6c827d11d]
+## 336. Removal of unnecessary right of appeal[^c-953744f0c2182ac42f1e78b6c827d11d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 11(1)[^f00248] of the Tribunals and Inquiries Act 1992 (right of appe
 
 ## Annotations
 
-[^key-953744f0c2182ac42f1e78b6c827d11d]: Commencement: Art. 336 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-953744f0c2182ac42f1e78b6c827d11d]: Commencement: Art. 336 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00248]: Footnote: Section 11(1) has been amended in terms not relevant to this Order.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 154. Assets discovered after discharge of trustee: appeal[^key-d7206ea6ce25476a46e608f5050daa84]
+## 154. Assets discovered after discharge of trustee: appeal[^c-d7206ea6ce25476a46e608f5050daa84]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where AiB makes or refuses to make an appointment or reappointment under section
 
 ## Annotations
 
-[^key-d7206ea6ce25476a46e608f5050daa84]: Commencement: [S. 154](https://www.legislation.gov.uk/asp/2016/21/section/154) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-d7206ea6ce25476a46e608f5050daa84]: Commencement: [S. 154](https://www.legislation.gov.uk/asp/2016/21/section/154) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

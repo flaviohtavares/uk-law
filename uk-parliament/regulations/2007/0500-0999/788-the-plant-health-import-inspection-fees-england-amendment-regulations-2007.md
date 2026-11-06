@@ -32,7 +32,7 @@ summary: ''
 
 PLANT HEALTH, ENGLAND
 
-The Plant Health (Import Inspection Fees) (England) (Amendment) Regulations 2007 (revoked)[^key-26fb53df7bfcf4b011c268cb74cad020]
+The Plant Health (Import Inspection Fees) (England) (Amendment) Regulations 2007 (revoked)[^c-26fb53df7bfcf4b011c268cb74cad020]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 6th April 2007
 
-[^key-26fb53df7bfcf4b011c268cb74cad020]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26fb53df7bfcf4b011c268cb74cad020]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, extent and application[^key-26fb53df7bfcf4b011c268cb74cad020]
+## 1. Title, commencement, extent and application[^c-26fb53df7bfcf4b011c268cb74cad020]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Import Inspection Fees) (England) Regulations 2006[^key-26fb53df7bfcf4b011c268cb74cad020]
+## 2. Amendment of the Plant Health (Import Inspection Fees) (England) Regulations 2006[^c-26fb53df7bfcf4b011c268cb74cad020]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-26fb53df7bfcf4b011c268cb74cad020]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26fb53df7bfcf4b011c268cb74cad020]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-26fb53df7bfcf4b011c268cb74cad020]EXPLANATORY NOTE
+[^c-26fb53df7bfcf4b011c268cb74cad020]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -74,4 +74,4 @@ A regulatory impact assessment was prepared in respect of the predecessor to the
 
 ## Annotations
 
-[^key-26fb53df7bfcf4b011c268cb74cad020]: Textual amendment: Regulations revoked (1.12.2010) by [The Plant Health (Import Inspection Fees) (England) Regulations 2010 (S.I. 2010/2693)](https://www.legislation.gov.uk/uksi/2010/2693), regs. 1(c), [5(b)](https://www.legislation.gov.uk/uksi/2010/2693/regulation/5/b)
+[^c-26fb53df7bfcf4b011c268cb74cad020]: Textual amendment: Regulations revoked (1.12.2010) by [The Plant Health (Import Inspection Fees) (England) Regulations 2010 (S.I. 2010/2693)](https://www.legislation.gov.uk/uksi/2010/2693), regs. 1(c), [5(b)](https://www.legislation.gov.uk/uksi/2010/2693/regulation/5/b)

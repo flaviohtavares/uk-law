@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Old system students who are gap year students who have studied on a previous course[^key-5118651e725c51e3fbee209a0580cd38]
+## 28. Old system students who are gap year students who have studied on a previous course[^c-5118651e725c51e3fbee209a0580cd38]
 
 *Extent: N.I.*
 
@@ -66,4 +66,4 @@ where
 
 ## Annotations
 
-[^key-5118651e725c51e3fbee209a0580cd38]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2007/195/regulation/28) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-5118651e725c51e3fbee209a0580cd38]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2007/195/regulation/28) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

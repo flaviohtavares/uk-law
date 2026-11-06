@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. General access conditions[^key-1a9618fb417ad2d462f4232bf8c823f5]
+## 50. General access conditions[^c-1a9618fb417ad2d462f4232bf8c823f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a9618fb417ad2d462f4232bf8c823f5]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2011/5/section/50) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-1a9618fb417ad2d462f4232bf8c823f5]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2011/5/section/50) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

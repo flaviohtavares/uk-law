@@ -29,7 +29,7 @@ National Assistance (Amendment) Act 1951
 
 1951 c.57
 
-[^key-440c1ea3c02b5c4d64d9e509cf76fc48]An Act to amend section forty-seven of the National Assistance Act, 1948.
+[^c-440c1ea3c02b5c4d64d9e509cf76fc48]An Act to amend section forty-seven of the National Assistance Act, 1948.
 
 \[1st August 1951\][^c601608]
 
@@ -58,7 +58,7 @@ National Assistance (Amendment) Act 1951
 
 ## Annotations
 
-[^key-440c1ea3c02b5c4d64d9e509cf76fc48]: Textual amendment: Act repealed (S.) (29.10.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [s. 79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3), [Sch. 2](https://www.legislation.gov.uk/asp/2007/10/schedule/2); [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-440c1ea3c02b5c4d64d9e509cf76fc48]: Textual amendment: Act repealed (S.) (29.10.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [s. 79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3), [Sch. 2](https://www.legislation.gov.uk/asp/2007/10/schedule/2); [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
 
 [^c601608]: Modification: Words of enactment omitted under authority of [Statute Law Revision Act 1948 (c. 62)](https://www.legislation.gov.uk/ukpga/1948/62), [s. 3](https://www.legislation.gov.uk/ukpga/1948/62/section/3)
 

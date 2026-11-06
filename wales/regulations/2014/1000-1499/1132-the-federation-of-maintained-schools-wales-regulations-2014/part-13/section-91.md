@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Transfer of property[^key-47b682500b610330e42c2cdbdb916a6a]
+## 91. Transfer of property[^c-47b682500b610330e42c2cdbdb916a6a]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47b682500b610330e42c2cdbdb916a6a]: Commencement: Reg. 91 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-47b682500b610330e42c2cdbdb916a6a]: Commencement: Reg. 91 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00043]: Footnote: [1988 c.40](https://www.legislation.gov.uk/ukpga/1988/40).

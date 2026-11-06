@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 154. Prohibition on disclosure pending determination of certain appeals[^key-f3effa2d6bea885fbaa89dff0c16a98e]
+## 154. Prohibition on disclosure pending determination of certain appeals[^c-f3effa2d6bea885fbaa89dff0c16a98e]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3effa2d6bea885fbaa89dff0c16a98e]: Commencement: S. 154 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-f3effa2d6bea885fbaa89dff0c16a98e]: Commencement: S. 154 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71L. Offences relating to regulated transactions[^key-7c856cd6ccc721183d3a166458492f07][^c20234671][^c20069971][^c20235071]
+## 71L. Offences relating to regulated transactions[^c-7c856cd6ccc721183d3a166458492f07][^c20234671][^c20069971][^c20235071]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,7 +87,7 @@ any arrangement which facilitates or is likely to facilitate, whether by means o
 
 ## Annotations
 
-[^key-7c856cd6ccc721183d3a166458492f07]: Modification: S. 71L modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/13); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-7c856cd6ccc721183d3a166458492f07]: Modification: S. 71L modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/13); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
 [^c20234671]: Textual amendment: Pt. 4A (ss. 71F-71Y) renumbered (1.7.2008) as Pt. 4A Ch. 1 by [The Electoral Administration Act 2006 (Regulation of Loans etc: Northern Ireland) Order 2008 (S.I. 2008/1319)](https://www.legislation.gov.uk/uksi/2008/1319), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2008/1319/article/3/1)
 

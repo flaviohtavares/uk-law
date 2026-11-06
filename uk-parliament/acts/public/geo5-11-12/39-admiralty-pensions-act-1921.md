@@ -43,9 +43,9 @@ An Act to make further provision with respect to Admiralty Pensions, and with re
 
 (1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c582323]
 
-(2) During such time as any person whose Admiralty pension has been forfeited, whether under the [^c582324]Forfeiture Act, 1870, or otherwise, is undergoing imprisonment, the Admiralty may in their discretion pay or apply any part of the pension which may be restored, under the foregoing provision or otherwise, to or for the benefit of the wife,civil partner,[^key-fbc42b449f37f8a972ed33ece188e0c6] children, or other dependents of that person.
+(2) During such time as any person whose Admiralty pension has been forfeited, whether under the [^c582324]Forfeiture Act, 1870, or otherwise, is undergoing imprisonment, the Admiralty may in their discretion pay or apply any part of the pension which may be restored, under the foregoing provision or otherwise, to or for the benefit of the wife,civil partner,[^c-fbc42b449f37f8a972ed33ece188e0c6] children, or other dependents of that person.
 
-(3)[^key-efcea78fbfa2e65c4c21c1032a6b35a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-efcea78fbfa2e65c4c21c1032a6b35a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c582328]
 
@@ -75,9 +75,9 @@ This Act may be cited as the Admiralty Pensions Act, 1921.
 
 [^c582324]: Marginal citation: [1870 c. 23](https://www.legislation.gov.uk/ukpga/1870/23).
 
-[^key-fbc42b449f37f8a972ed33ece188e0c6]: Textual amendment: Words in s. 2(2) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/13); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), , [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-fbc42b449f37f8a972ed33ece188e0c6]: Textual amendment: Words in s. 2(2) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/13); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), , [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-efcea78fbfa2e65c4c21c1032a6b35a5]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukpga/Geo5/11-12/39/section/2/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), , [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-efcea78fbfa2e65c4c21c1032a6b35a5]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukpga/Geo5/11-12/39/section/2/3) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), , [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
 
 [^c582328]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/Geo5/11-12/39/section/3) repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6)
 

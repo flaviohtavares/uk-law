@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Local development schemes[^key-e6d4c4b90cf957d52da7d3b752acaaf5]
+## 30. Local development schemes[^c-e6d4c4b90cf957d52da7d3b752acaaf5]
 
 *Extent: E+W*
 
 (1) Section 15 of PCPA 2004 (local development schemes) is amended as follows.
 
-(2)[^key-78e9ca3b536a88dbf7a0747a8da08d45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-78e9ca3b536a88dbf7a0747a8da08d45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-78e9ca3b536a88dbf7a0747a8da08d45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-78e9ca3b536a88dbf7a0747a8da08d45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (4) (power of Secretary of State to direct amendments to scheme) after “The Secretary of State” insert “ or the Mayor of London ”.
 
@@ -99,6 +99,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e6d4c4b90cf957d52da7d3b752acaaf5]: Commencement: S. 30 in force at 27.6.2008 by [S.I. 2008/1372](https://www.legislation.gov.uk/uksi/2008/1372), [art. 2](https://www.legislation.gov.uk/uksi/2008/1372/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1372/article/3))
+[^c-e6d4c4b90cf957d52da7d3b752acaaf5]: Commencement: S. 30 in force at 27.6.2008 by [S.I. 2008/1372](https://www.legislation.gov.uk/uksi/2008/1372), [art. 2](https://www.legislation.gov.uk/uksi/2008/1372/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1372/article/3))
 
-[^key-78e9ca3b536a88dbf7a0747a8da08d45]: Textual amendment: [S. 30(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/30/2)[(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/30/3) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(m)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/m), [Sch. 25 Pt. 17](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/17)
+[^c-78e9ca3b536a88dbf7a0747a8da08d45]: Textual amendment: [S. 30(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/30/2)[(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/30/3) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(m)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/m), [Sch. 25 Pt. 17](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/17)

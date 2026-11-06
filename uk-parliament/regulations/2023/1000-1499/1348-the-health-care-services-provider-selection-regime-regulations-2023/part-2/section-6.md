@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Overview[^key-760edb869207c667bcafe4e7fcfc5653]
+## 6. Overview[^c-760edb869207c667bcafe4e7fcfc5653]
 
 *Extent: E+W*
 
@@ -92,4 +92,4 @@ the relevant authority must follow the Competitive Process.
 
 ## Annotations
 
-[^key-760edb869207c667bcafe4e7fcfc5653]: Commencement: Reg. 6 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-760edb869207c667bcafe4e7fcfc5653]: Commencement: Reg. 6 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)

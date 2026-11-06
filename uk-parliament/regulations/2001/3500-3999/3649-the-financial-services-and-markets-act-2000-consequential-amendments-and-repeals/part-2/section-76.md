@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Requests for assistance by overseas regulatory authorities[^key-b336594414e22bb96c2fb55edb627c6d]
+## 76. Requests for assistance by overseas regulatory authorities[^c-b336594414e22bb96c2fb55edb627c6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b336594414e22bb96c2fb55edb627c6d]: Commencement: Art. 76 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b336594414e22bb96c2fb55edb627c6d]: Commencement: Art. 76 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00079]: Footnote: Amended by the Bank of England Act [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11) Schedule 5 paragraph 66(2)(a).
 

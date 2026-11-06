@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Rewards[^key-de99875051eb86fa4d05975bc142148b]
+## 13. Rewards[^c-de99875051eb86fa4d05975bc142148b]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The Authority may, on the recommendation of the chief constable, pay such sums b
 
 ## Annotations
 
-[^key-de99875051eb86fa4d05975bc142148b]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2012/8/section/13) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-de99875051eb86fa4d05975bc142148b]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2012/8/section/13) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

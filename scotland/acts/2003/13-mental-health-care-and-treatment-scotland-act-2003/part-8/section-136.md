@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 136. Transfer of prisoners for treatment for mental disorder[^key-5525d6ffa3eae233076d2dad69c6acb1][^key-2f59888df8cf4e9cc7967fe048a0c274]
+## 136. Transfer of prisoners for treatment for mental disorder[^c-5525d6ffa3eae233076d2dad69c6acb1][^c-2f59888df8cf4e9cc7967fe048a0c274]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) The matters referred to in subsection (2) above are—
 
 - (a) that the conditions mentioned in subsection (4) below are met in respect of the prisoner;
-- (aa)[^key-5350bb2ad578c09515e83664c653eb8b] that—
+- (aa)[^c-5350bb2ad578c09515e83664c653eb8b] that—
   - (i) a mental health officer has agreed to the making of the direction, or
   - (ii) it has been impracticable to obtain the agreement of a mental health officer;
 - (b) that the prisoner could be admitted to the hospital to be specified in the direction before the expiry of the period of 7 days beginning with the day on which the direction is made; and
@@ -77,16 +77,16 @@ summary: ''
 - “**place of safety**” has the same meaning as in section 300 of this Act; and
 - “**specified**” means specified in the transfer for treatment direction.
 
-(11)[^key-8d86fd8e74daee453ae9cc28a403b814] A reference in this section to a hospital may be read as a reference to a hospital unit.
+(11)[^c-8d86fd8e74daee453ae9cc28a403b814] A reference in this section to a hospital may be read as a reference to a hospital unit.
 
 (12) For the purpose of subsection (11) above, “**hospital unit**” means any part of a hospital which is treated as a separate unit.
 
 ## Annotations
 
-[^key-5525d6ffa3eae233076d2dad69c6acb1]: Commencement: S. 136 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-5525d6ffa3eae233076d2dad69c6acb1]: Commencement: S. 136 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-2f59888df8cf4e9cc7967fe048a0c274]: Modification: S. 136 applied (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [13](https://www.legislation.gov.uk/uksi/2005/2078/article/13)
+[^c-2f59888df8cf4e9cc7967fe048a0c274]: Modification: S. 136 applied (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [13](https://www.legislation.gov.uk/uksi/2005/2078/article/13)
 
-[^key-5350bb2ad578c09515e83664c653eb8b]: Textual amendment: [S. 136(3)(aa)](https://www.legislation.gov.uk/asp/2003/13/section/136/3/aa) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 34(2)](https://www.legislation.gov.uk/asp/2015/9/section/34/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-5350bb2ad578c09515e83664c653eb8b]: Textual amendment: [S. 136(3)(aa)](https://www.legislation.gov.uk/asp/2003/13/section/136/3/aa) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 34(2)](https://www.legislation.gov.uk/asp/2015/9/section/34/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-8d86fd8e74daee453ae9cc28a403b814]: Textual amendment: [S. 136(11)](https://www.legislation.gov.uk/asp/2003/13/section/136/11)[(12)](https://www.legislation.gov.uk/asp/2003/13/section/136/12) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 12(2)](https://www.legislation.gov.uk/asp/2015/9/section/12/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-8d86fd8e74daee453ae9cc28a403b814]: Textual amendment: [S. 136(11)](https://www.legislation.gov.uk/asp/2003/13/section/136/11)[(12)](https://www.legislation.gov.uk/asp/2003/13/section/136/12) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 12(2)](https://www.legislation.gov.uk/asp/2015/9/section/12/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

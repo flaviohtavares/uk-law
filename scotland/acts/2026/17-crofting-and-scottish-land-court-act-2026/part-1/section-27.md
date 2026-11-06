@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Meaning of “crofting community”, “parish” and “township”[^key-9298c1f17c3e8cd92143a50cc1c91556]
+## 27. Meaning of “crofting community”, “parish” and “township”[^c-9298c1f17c3e8cd92143a50cc1c91556]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9298c1f17c3e8cd92143a50cc1c91556]: Commencement: S. 27 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-9298c1f17c3e8cd92143a50cc1c91556]: Commencement: S. 27 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

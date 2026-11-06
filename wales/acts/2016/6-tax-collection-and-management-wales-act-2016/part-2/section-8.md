@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Committees and sub-committees[^key-2987f364258525ebff486f31a6a8b24f]
+## 8. Committees and sub-committees[^c-2987f364258525ebff486f31a6a8b24f]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2987f364258525ebff486f31a6a8b24f]: Commencement: S. 8 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-2987f364258525ebff486f31a6a8b24f]: Commencement: S. 8 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

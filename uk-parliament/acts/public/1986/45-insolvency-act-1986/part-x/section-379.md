@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W*
 
-As soon as practicable after the end of 1986 and each subsequent calendar year, the Secretary of State shall prepare and lay before each House of Parliament a report about the operation during that year of so much of this Act as is comprised in this Group of Parts[^key-bbc4c50247540667d22726acce15fe65]....
+As soon as practicable after the end of 1986 and each subsequent calendar year, the Secretary of State shall prepare and lay before each House of Parliament a report about the operation during that year of so much of this Act as is comprised in this Group of Parts[^c-bbc4c50247540667d22726acce15fe65]....
 
 ## Annotations
 
 [^c15581491]: Modification: S. 379 applied with modifications by [S.I. 1986/1999](https://www.legislation.gov.uk/uksi/1986/1999), [art. 3](https://www.legislation.gov.uk/uksi/1986/1999/article/3), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1986/1999/schedule/1/part/II)
 
-[^key-bbc4c50247540667d22726acce15fe65]: Textual amendment: Words in s. 379 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(11)(e)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/11/e) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-bbc4c50247540667d22726acce15fe65]: Textual amendment: Words in s. 379 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(11)(e)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/11/e) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27B. Qualifying new hydro stations[^key-600fd53aeb598c8a336793af959fe131]
+## 27B. Qualifying new hydro stations[^c-600fd53aeb598c8a336793af959fe131]
 
 *Extent: N.I.*
 
@@ -26,11 +26,11 @@ summary: ''
 
 - (a) in relation to a qualifying new hydro station which has not had a declared net capacity in excess of 20 kilowatts at any time after 31st March 2010, ¼ megawatt hour;
 - (b) in relation to a qualifying new hydro station which has had a declared net capacity in excess of 20 kilowatts but not in excess 250 kilowatts at any time after 31st March 2010, ⅓ megawatt hour;
-- (c) in relation to a qualifying new hydro station which has had a declared net capacity in excess of 250[^key-eb4e04f0c83a6662599b21603aff29bd] kilowatts but not in excess of 1 megawatt at any time after 31st March 2010, ½ megawatt hour;
+- (c) in relation to a qualifying new hydro station which has had a declared net capacity in excess of 250[^c-eb4e04f0c83a6662599b21603aff29bd] kilowatts but not in excess of 1 megawatt at any time after 31st March 2010, ½ megawatt hour;
 - (d) in relation to a qualifying new hydro station which has had a declared net capacity in excess of 1 megawatt but not in excess of 5 megawatts at any time after 31st March 2010, 1 megawatt hour.
 
 ## Annotations
 
-[^key-600fd53aeb598c8a336793af959fe131]: Textual amendment: [Arts. 27-27D](https://www.legislation.gov.uk/nisr/2009/154/article/27) substituted for arts. 27-27B (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [10](https://www.legislation.gov.uk/nisr/2011/169/article/10) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))
+[^c-600fd53aeb598c8a336793af959fe131]: Textual amendment: [Arts. 27-27D](https://www.legislation.gov.uk/nisr/2009/154/article/27) substituted for arts. 27-27B (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [10](https://www.legislation.gov.uk/nisr/2011/169/article/10) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))
 
-[^key-eb4e04f0c83a6662599b21603aff29bd]: Textual amendment: [Art. 27B(2)(c)](https://www.legislation.gov.uk/nisr/2009/154/article/27B/2/c)[(d)](https://www.legislation.gov.uk/nisr/2009/154/article/27B/2/d) substituted for [art. 27B(2)(c)](https://www.legislation.gov.uk/nisr/2009/154/article/27B/2/c) (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [19](https://www.legislation.gov.uk/nisr/2013/116/article/19) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-eb4e04f0c83a6662599b21603aff29bd]: Textual amendment: [Art. 27B(2)(c)](https://www.legislation.gov.uk/nisr/2009/154/article/27B/2/c)[(d)](https://www.legislation.gov.uk/nisr/2009/154/article/27B/2/d) substituted for [art. 27B(2)(c)](https://www.legislation.gov.uk/nisr/2009/154/article/27B/2/c) (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [19](https://www.legislation.gov.uk/nisr/2013/116/article/19) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))

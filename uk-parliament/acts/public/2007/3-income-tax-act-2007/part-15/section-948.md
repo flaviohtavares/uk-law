@@ -24,8 +24,8 @@ summary: ''
 
 “**Deposit-taker**” has the same meaning as in Chapter 2 (see section 853).
 
-(2) See Chapter 2 of Part 2 of CTA 2009 (accounting periods)[^key-b812a1f70c3477bb9745493334965fde] for provision about accounting periods of companies.
+(2) See Chapter 2 of Part 2 of CTA 2009 (accounting periods)[^c-b812a1f70c3477bb9745493334965fde] for provision about accounting periods of companies.
 
 ## Annotations
 
-[^key-b812a1f70c3477bb9745493334965fde]: Textual amendment: Words in s. 948(2) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 714](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/714) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-b812a1f70c3477bb9745493334965fde]: Textual amendment: Words in s. 948(2) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 714](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/714) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

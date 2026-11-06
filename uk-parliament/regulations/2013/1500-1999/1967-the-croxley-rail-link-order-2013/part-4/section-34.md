@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Power to transfer undertaking[^key-ff23798294d66dde2a3059249eb172c5]
+## 34. Power to transfer undertaking[^c-ff23798294d66dde2a3059249eb172c5]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ on such terms as may be agreed between the Council and the transferee.
 
 ## Annotations
 
-[^key-ff23798294d66dde2a3059249eb172c5]: Commencement: Art. 34 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-ff23798294d66dde2a3059249eb172c5]: Commencement: Art. 34 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

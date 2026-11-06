@@ -26,13 +26,13 @@ summary: ''
 
 #### Housing Act 1985
 
-**1.**[^key-7135b50830c140c63ee3e2b7c4df1f79] In paragraph 4 of Schedule 1 to the Housing Act 1985 (tenancies which are not secure tenancies), after “(homelessness)” insert “ or Part 2 of the Housing (Wales) Act 2014 (homelessness) ”.
+**1.**[^c-7135b50830c140c63ee3e2b7c4df1f79] In paragraph 4 of Schedule 1 to the Housing Act 1985 (tenancies which are not secure tenancies), after “(homelessness)” insert “ or Part 2 of the Housing (Wales) Act 2014 (homelessness) ”.
 
 #### Housing Act 1996
 
-**2.**[^key-4bdff0340b861f376f33d150e8bfeac9] The Housing Act 1996 is amended as follows.
+**2.**[^c-4bdff0340b861f376f33d150e8bfeac9] The Housing Act 1996 is amended as follows.
 
-**3.**[^key-99a087b4f25f6c892024d111d8220aba] In section 167 (allocation of housing accommodation in accordance with allocation scheme: Wales)—
+**3.**[^c-99a087b4f25f6c892024d111d8220aba] In section 167 (allocation of housing accommodation in accordance with allocation scheme: Wales)—
 
 - (a) in subsection (2)—
   - (i) in paragraph (a), for “(within the meaning of Part 7)” substitute “ (within the meaning of Part 2 of the Housing (Wales) Act 2014) ”;
@@ -42,24 +42,24 @@ summary: ''
 - (b) in subsection (2ZA), for “Part 7” substitute “ Part 2 of the Housing (Wales) Act 2014 ”;
 - (c) in subsection (2A)(c), for “section 199” substitute “ section 81 of the Housing (Wales) Act 2014 ”.
 
-**4.**[^key-a4d3d52a9e6465655b8aae4c69d9132c] In the Part title of Part 7 (homelessness), after “Homelessness” insert “ : England ”.
+**4.**[^c-a4d3d52a9e6465655b8aae4c69d9132c] In the Part title of Part 7 (homelessness), after “Homelessness” insert “ : England ”.
 
-**5.**[^key-5dbfe8ab281559f569cc11510dc56ec3] In subsection (1) of section 179 (duty of local housing authority to provide advisory services), after “local housing authority” insert “ in England ”.
+**5.**[^c-5dbfe8ab281559f569cc11510dc56ec3] In subsection (1) of section 179 (duty of local housing authority to provide advisory services), after “local housing authority” insert “ in England ”.
 
-**6.**[^key-461e4ad434002889851e63049b3ca21c] In subsection (1) of section 180 (assistance for voluntary organisations), after “local housing authority” insert “ in England ”.
+**6.**[^c-461e4ad434002889851e63049b3ca21c] In subsection (1) of section 180 (assistance for voluntary organisations), after “local housing authority” insert “ in England ”.
 
-**7.**[^key-626eb89c7c64c9fec2d07eeb28fac73f] In subsection (1) of section 182 (guidance by the Secretary of State), after “social services authority” insert “ in England ”.
+**7.**[^c-626eb89c7c64c9fec2d07eeb28fac73f] In subsection (1) of section 182 (guidance by the Secretary of State), after “social services authority” insert “ in England ”.
 
-**8.**[^key-350ed92dc2b8d06bed86b0ab28f9029f] In subsection (1) of section 183 (application for assistance), after “local housing authority” insert “ in England ”.
+**8.**[^c-350ed92dc2b8d06bed86b0ab28f9029f] In subsection (1) of section 183 (application for assistance), after “local housing authority” insert “ in England ”.
 
-**9.**[^key-b0a5d339301588c4c4be99c0c782a10c] In subsection (1) of section 187 (provision of information by Secretary of State), after “local housing authority” insert “ in England ”.
+**9.**[^c-b0a5d339301588c4c4be99c0c782a10c] In subsection (1) of section 187 (provision of information by Secretary of State), after “local housing authority” insert “ in England ”.
 
-**10.**[^key-b62493b45f6636ae8377b842f4344d3a] In section 193 (duty to persons with priority need who are not homeless intentionally)—
+**10.**[^c-b62493b45f6636ae8377b842f4344d3a] In section 193 (duty to persons with priority need who are not homeless intentionally)—
 
 - (a) in subsection (10), for “appropriate authority” substitute “ Secretary of State ”;
 - (b) omit subsection (12).
 
-**11.**[^key-ed826e70bc04dec8bde6055a08e46230] In section 198 (referral of case to another local housing authority)—
+**11.**[^c-ed826e70bc04dec8bde6055a08e46230] In section 198 (referral of case to another local housing authority)—
 
 - (a) after subsection (4) insert—
 
@@ -75,12 +75,12 @@ summary: ''
   - (i) for “No such order shall” substitute “ An order under this section shall not ”; and
   - (ii) at the end, insert “ and, in the case of a joint order, a resolution of the National Assembly for Wales ”.
 
-**12.**[^key-e4418bd75b29d7cebb63625cc94a7f4b] In subsection (4) of section 200 (duties to applicant whose case is considered for referral or referred)—
+**12.**[^c-e4418bd75b29d7cebb63625cc94a7f4b] In subsection (4) of section 200 (duties to applicant whose case is considered for referral or referred)—
 
 - (a) after “met” insert “ and the notified authority is not an authority in Wales ”, and
 - (b) at the end, insert “ ; for provision about cases where it is decided that those conditions are met and the notified authority is an authority in Wales, see section 83 of the Housing (Wales) Act 2014 (cases referred from a local housing authority in England) ”.
 
-**13.**[^key-a51d719b61d18edd1093bcbdbcfa192d] After section 201 (application of referral provisions to cases arising in Scotland) insert—
+**13.**[^c-a51d719b61d18edd1093bcbdbcfa192d] After section 201 (application of referral provisions to cases arising in Scotland) insert—
 
 > **201A. Cases referred from a local housing authority in Wales**
 >
@@ -90,28 +90,28 @@ summary: ''
 >
 > (3) References in this Part to an applicant include a reference to a person to whom a duty is owed by virtue of subsection (2).
 
-**14.**[^key-d4608f322ca24e1b9fe2331f67420d3a] In subsection (1) of section 213 (co-operation between relevant housing authorities and bodies), after “local housing authority” insert “ in England ”.
+**14.**[^c-d4608f322ca24e1b9fe2331f67420d3a] In subsection (1) of section 213 (co-operation between relevant housing authorities and bodies), after “local housing authority” insert “ in England ”.
 
 #### Homelessness Act 2002
 
-**15.**[^key-5cdbf04e0df76a36316d4b6d15577125] The Homelessness Act 2002 is amended as follows.
+**15.**[^c-5cdbf04e0df76a36316d4b6d15577125] The Homelessness Act 2002 is amended as follows.
 
-**16.**[^key-9dce12f88e5e2634eb5b0b25a2cee41d] In the cross-heading above section 1, after “strategies” insert “ : England ”.
+**16.**[^c-9dce12f88e5e2634eb5b0b25a2cee41d] In the cross-heading above section 1, after “strategies” insert “ : England ”.
 
-**17.**[^key-62aedacb71cf3b727afaaa0ef14f880b] In section 1 (duty of local housing authority to formulate a homelessness strategy)—
+**17.**[^c-62aedacb71cf3b727afaaa0ef14f880b] In section 1 (duty of local housing authority to formulate a homelessness strategy)—
 
 - (a) in subsections (1) and (5), after “local housing authority” insert “ in England ”;
 - (b) in the heading, after “local housing authority” insert “ in England ”.
 
-**18.**[^key-0241f7bc98b4ae665e8599ab3849c0ca] In subsection (7A) of section 3 (homelessness strategies), omit “in England”.
+**18.**[^c-0241f7bc98b4ae665e8599ab3849c0ca] In subsection (7A) of section 3 (homelessness strategies), omit “in England”.
 
 #### Mental Health (Wales) Measure 2010
 
-**19.**[^key-2a43b6051b45474970f10dee56da2966] In subsection (1)(a) of section 50 of the Mental Health (Wales) Measure 2010 (meaning of housing or well-being services), for “Part 7 of that Act” substitute “ Part 2 of the Housing (Wales) Act 2014 ”.
+**19.**[^c-2a43b6051b45474970f10dee56da2966] In subsection (1)(a) of section 50 of the Mental Health (Wales) Measure 2010 (meaning of housing or well-being services), for “Part 7 of that Act” substitute “ Part 2 of the Housing (Wales) Act 2014 ”.
 
 #### Legal Aid, Sentencing and Punishment of Offenders Act 2012
 
-**20.**[^key-213cbdb2ae06fc8caae06a5a294848c7] (1) The Legal Aid, Sentencing and Punishment of Offenders Act 2012 is amended as follows.
+**20.**[^c-213cbdb2ae06fc8caae06a5a294848c7] (1) The Legal Aid, Sentencing and Punishment of Offenders Act 2012 is amended as follows.
 
 (2) In paragraph 34 of Part 1 of Schedule 1 (homelessness)—
 
@@ -133,11 +133,11 @@ summary: ''
 
 #### Prevention of Social Housing Fraud Act 2013
 
-**21.**[^key-6e1cab6e96198371448808a6ef301cea] In subsection (7)(d) of section 7 of the Prevention of Social Housing Fraud Act 2013 (regulations about powers to require information), after “Housing Act 1996” insert “ or under Part 2 of the Housing (Wales) Act 2014 ”.
+**21.**[^c-6e1cab6e96198371448808a6ef301cea] In subsection (7)(d) of section 7 of the Prevention of Social Housing Fraud Act 2013 (regulations about powers to require information), after “Housing Act 1996” insert “ or under Part 2 of the Housing (Wales) Act 2014 ”.
 
 #### Social Services and Well-being (Wales) Act 2014
 
-**22.**[^key-6610b33f960feb0c4f44ed7d43c309be] (1) The Social Services and Well-being (Wales) Act 2014 is amended as follows.
+**22.**[^c-6610b33f960feb0c4f44ed7d43c309be] (1) The Social Services and Well-being (Wales) Act 2014 is amended as follows.
 
 (2) In paragraph (a) of section 48 (exception for provision of housing etc), for “Housing Act 1996” substitute “ Housing (Wales) Act 2014 ”.
 
@@ -154,7 +154,7 @@ summary: ''
 
 #### Local Government Act 2003
 
-**23.**[^key-0d0e04e8fce7de042c76ef863f7ade8f] (1) The definition of “housing” in subsection (4) of section 87 of the Local Government Act 2003 (housing strategies and statements) is amended as follows—
+**23.**[^c-0d0e04e8fce7de042c76ef863f7ade8f] (1) The definition of “housing” in subsection (4) of section 87 of the Local Government Act 2003 (housing strategies and statements) is amended as follows—
 
 - (a) omit the words “section 225 of the Housing Act 2004”, and
 - (b) after “of” where it first occurs insert—
@@ -164,7 +164,7 @@ summary: ''
 
 #### Housing Act 2004
 
-**24.**[^key-673ebb915304da92215dd848cc804da1] (1) The Housing Act 2004 is amended as follows.
+**24.**[^c-673ebb915304da92215dd848cc804da1] (1) The Housing Act 2004 is amended as follows.
 
 (2) In section 225 (duties of local housing authorities: accommodation needs of Gypsies and Travellers)—
 
@@ -180,11 +180,11 @@ summary: ''
 
 #### Housing (Assessment of Accommodation Needs) (Meaning of Gypsies and Travellers) (Wales) Regulations 2007 (S.I. 2007/3235)
 
-**25.**[^key-83c8109f9fb420604b214d3dce4f4129] The Housing (Assessment of Accommodation Needs) (Meaning of Gypsies and Travellers) (Wales) Regulations 2007 (S.I. 2007/3235) are revoked.
+**25.**[^c-83c8109f9fb420604b214d3dce4f4129] The Housing (Assessment of Accommodation Needs) (Meaning of Gypsies and Travellers) (Wales) Regulations 2007 (S.I. 2007/3235) are revoked.
 
 #### Mobile Homes (Wales) Act 2013
 
-**26.**[^key-31033f9ee6193a97f9fd3386360aee93] (1) The Mobile Homes (Wales) Act 2013 is amended as follows.
+**26.**[^c-31033f9ee6193a97f9fd3386360aee93] (1) The Mobile Homes (Wales) Act 2013 is amended as follows.
 
 (2) In the definition of “Gypsies and Travellers” in section 62 (other interpretation), for the words from “persons” where it first occurs to the end substitute
 
@@ -205,7 +205,7 @@ summary: ''
 
 #### Housing Act 1985
 
-**27.**[^key-4e9bf3515b606530d15eca72ec5465a0] In section 24 (rents for occupation of local housing authority houses) of the Housing Act 1985—
+**27.**[^c-4e9bf3515b606530d15eca72ec5465a0] In section 24 (rents for occupation of local housing authority houses) of the Housing Act 1985—
 
 - (a) omit subsections (3) and (4);
 - (b) after subsection (5), insert—
@@ -217,7 +217,7 @@ summary: ''
 
 #### Housing Act 1996
 
-**28.**[^key-2cc0c74aa271741857e1734ef230ddb5] (1) The Housing Act 1996 is amended as follows.
+**28.**[^c-2cc0c74aa271741857e1734ef230ddb5] (1) The Housing Act 1996 is amended as follows.
 
 (2) In section 33A (standards of performance to be met by registered social landlords) after subsection (2), insert—
 
@@ -248,7 +248,7 @@ summary: ''
 
 #### Local Government Finance Act 1992
 
-**29.**[^M_I_4dedba46-5ec1-477b-8c28-d629cc747ebd][^key-efc768120dea0f07b6567488f439f410] (1) The Local Government Finance Act 1992 is amended as follows.
+**29.**[^M_I_4dedba46-5ec1-477b-8c28-d629cc747ebd][^c-efc768120dea0f07b6567488f439f410] (1) The Local Government Finance Act 1992 is amended as follows.
 
 (2) In section 11(2) (discounts), for “and 12” substitute “ , 12, 12A and 12B ”.
 
@@ -266,7 +266,7 @@ summary: ''
 
 ### PART 5 — AMENDMENTS TO THE MOBILE HOMES (WALES) ACT 2013
 
-**30.**[^key-499f917549dcfc842bc4c3c7649da597] (1) The Mobile Homes (Wales) Act 2013 is amended as follows.
+**30.**[^c-499f917549dcfc842bc4c3c7649da597] (1) The Mobile Homes (Wales) Act 2013 is amended as follows.
 
 (2) In section 29(3) (decision whether a person is fit and proper to manage a site), for paragraph (b) substitute—
 
@@ -290,64 +290,64 @@ summary: ''
 
 ## Annotations
 
-[^key-7135b50830c140c63ee3e2b7c4df1f79]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/1) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-7135b50830c140c63ee3e2b7c4df1f79]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/1) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-4bdff0340b861f376f33d150e8bfeac9]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/2) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-4bdff0340b861f376f33d150e8bfeac9]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/2) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-99a087b4f25f6c892024d111d8220aba]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/3) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-99a087b4f25f6c892024d111d8220aba]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/3) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-a4d3d52a9e6465655b8aae4c69d9132c]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/4) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-a4d3d52a9e6465655b8aae4c69d9132c]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/4) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-5dbfe8ab281559f569cc11510dc56ec3]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/5) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-5dbfe8ab281559f569cc11510dc56ec3]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/5) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-461e4ad434002889851e63049b3ca21c]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/6) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-461e4ad434002889851e63049b3ca21c]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/6) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-626eb89c7c64c9fec2d07eeb28fac73f]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/7) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-626eb89c7c64c9fec2d07eeb28fac73f]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/7) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-350ed92dc2b8d06bed86b0ab28f9029f]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/8) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-350ed92dc2b8d06bed86b0ab28f9029f]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/8) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-b0a5d339301588c4c4be99c0c782a10c]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/9) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-b0a5d339301588c4c4be99c0c782a10c]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/9) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-b62493b45f6636ae8377b842f4344d3a]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/10) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-b62493b45f6636ae8377b842f4344d3a]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/10) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-ed826e70bc04dec8bde6055a08e46230]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/11) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-ed826e70bc04dec8bde6055a08e46230]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/11) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-e4418bd75b29d7cebb63625cc94a7f4b]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/12) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-e4418bd75b29d7cebb63625cc94a7f4b]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/12) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-a51d719b61d18edd1093bcbdbcfa192d]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/13) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-a51d719b61d18edd1093bcbdbcfa192d]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/13) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-d4608f322ca24e1b9fe2331f67420d3a]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/14) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-d4608f322ca24e1b9fe2331f67420d3a]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/14) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-5cdbf04e0df76a36316d4b6d15577125]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/15) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-5cdbf04e0df76a36316d4b6d15577125]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/15) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-9dce12f88e5e2634eb5b0b25a2cee41d]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/16) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-9dce12f88e5e2634eb5b0b25a2cee41d]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/16) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-62aedacb71cf3b727afaaa0ef14f880b]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/17) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-62aedacb71cf3b727afaaa0ef14f880b]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/17) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-0241f7bc98b4ae665e8599ab3849c0ca]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/18) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-0241f7bc98b4ae665e8599ab3849c0ca]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/18) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-2a43b6051b45474970f10dee56da2966]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/19) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-2a43b6051b45474970f10dee56da2966]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/19) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-213cbdb2ae06fc8caae06a5a294848c7]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/20) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-213cbdb2ae06fc8caae06a5a294848c7]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/20) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-6e1cab6e96198371448808a6ef301cea]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/21) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-6e1cab6e96198371448808a6ef301cea]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/21) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-6610b33f960feb0c4f44ed7d43c309be]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/22) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
+[^c-6610b33f960feb0c4f44ed7d43c309be]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/22) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 53](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1272/article/7))
 
-[^key-0d0e04e8fce7de042c76ef863f7ade8f]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/23) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/380/article/2/h)
+[^c-0d0e04e8fce7de042c76ef863f7ade8f]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/23) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/380/article/2/h)
 
-[^key-673ebb915304da92215dd848cc804da1]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/24) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/380/article/2/h)
+[^c-673ebb915304da92215dd848cc804da1]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/24) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/380/article/2/h)
 
-[^key-83c8109f9fb420604b214d3dce4f4129]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/25) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/380/article/2/h)
+[^c-83c8109f9fb420604b214d3dce4f4129]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/25) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/380/article/2/h)
 
-[^key-31033f9ee6193a97f9fd3386360aee93]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/26) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/380/article/2/h)
+[^c-31033f9ee6193a97f9fd3386360aee93]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/26) in force at 25.2.2015 by [S.I. 2015/380](https://www.legislation.gov.uk/wsi/2015/380), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/380/article/2/h)
 
-[^key-4e9bf3515b606530d15eca72ec5465a0]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/27) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-4e9bf3515b606530d15eca72ec5465a0]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/27) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
 
-[^key-2cc0c74aa271741857e1734ef230ddb5]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/28) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-2cc0c74aa271741857e1734ef230ddb5]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/28) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
 
 [^M_I_4dedba46-5ec1-477b-8c28-d629cc747ebd]: Commencement: Sch. 3 para. 29 in force at 16.12.2015 for specified purposes by [S.I. 2015/2046](https://www.legislation.gov.uk/uksi/2015/2046), [art. 2](https://www.legislation.gov.uk/uksi/2015/2046/article/2)
 
-[^key-efc768120dea0f07b6567488f439f410]: Commencement: Sch. 3 para. 29 in force at 1.4.2016 in so far as not already in force by [S.I. 2015/2046](https://www.legislation.gov.uk/wsi/2015/2046), [art. 2](https://www.legislation.gov.uk/wsi/2015/2046/article/2)
+[^c-efc768120dea0f07b6567488f439f410]: Commencement: Sch. 3 para. 29 in force at 1.4.2016 in so far as not already in force by [S.I. 2015/2046](https://www.legislation.gov.uk/wsi/2015/2046), [art. 2](https://www.legislation.gov.uk/wsi/2015/2046/article/2)
 
-[^key-499f917549dcfc842bc4c3c7649da597]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/30) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-499f917549dcfc842bc4c3c7649da597]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/30) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

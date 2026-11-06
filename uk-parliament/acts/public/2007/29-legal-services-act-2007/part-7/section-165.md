@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 165. Procedure for making orders under section 164[^key-4af5c13da5bf74569c936f9bbc7365c1]
+## 165. Procedure for making orders under section 164[^c-4af5c13da5bf74569c936f9bbc7365c1]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4af5c13da5bf74569c936f9bbc7365c1]: Commencement: S. 165 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-4af5c13da5bf74569c936f9bbc7365c1]: Commencement: S. 165 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

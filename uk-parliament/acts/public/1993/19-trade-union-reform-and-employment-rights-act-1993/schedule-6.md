@@ -24,11 +24,11 @@ Section 39(2).
 
 ### Sex Discrimination Act 1975 (c.65)
 
-**1.**[^key-9bcb388bf4629bab8d92a3accf686b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9bcb388bf4629bab8d92a3accf686b25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Race Relations Act 1976 (c. 74)
 
-**2.**[^key-ffd2d0f514befb0e19b8966b482d0dad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ffd2d0f514befb0e19b8966b482d0dad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Wages Act 1986 (c.48)
 
@@ -58,9 +58,9 @@ Section 39(2).
 
 ## Annotations
 
-[^key-9bcb388bf4629bab8d92a3accf686b25]: Textual amendment: Sch. 6 para. 1 repealed by 2010 c. 15, Sch. 26 Pt. 1 para. 26, Sch. 27 Pt. 1 (as amended (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
+[^c-9bcb388bf4629bab8d92a3accf686b25]: Textual amendment: Sch. 6 para. 1 repealed by 2010 c. 15, Sch. 26 Pt. 1 para. 26, Sch. 27 Pt. 1 (as amended (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
 
-[^key-ffd2d0f514befb0e19b8966b482d0dad]: Textual amendment: Sch. 6 para. 2 repealed by 2010 c. 15, Sch. 26 Pt. 1 para. 26, Sch. 27 Pt. 1 (as amended (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
+[^c-ffd2d0f514befb0e19b8966b482d0dad]: Textual amendment: Sch. 6 para. 2 repealed by 2010 c. 15, Sch. 26 Pt. 1 para. 26, Sch. 27 Pt. 1 (as amended (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
 
 [^c1092634]: Textual amendment: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/1993/19/schedule/6/paragraph/3) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 

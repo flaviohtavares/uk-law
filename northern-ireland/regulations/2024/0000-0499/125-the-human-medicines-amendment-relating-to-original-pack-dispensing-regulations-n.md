@@ -48,7 +48,7 @@ In accordance with section 2(2) to (4) of that Act, the Department of Health’s
 
 In accordance with section 47(3) and (6)(b) of that Act, a draft of these Regulations was laid before and approved by a resolution of the Assembly.
 
-## 1. Citation, commencement and extent[^key-89f3e00ae65f388741a07dce7eb4b964]
+## 1. Citation, commencement and extent[^c-89f3e00ae65f388741a07dce7eb4b964]
 
 (1) These Regulations may be cited as the Human Medicines (Amendment Relating to Original Pack Dispensing) Regulations (Northern Ireland) 2024.
 
@@ -56,7 +56,7 @@ In accordance with section 47(3) and (6)(b) of that Act, a draft of these Regula
 
 (3) These Regulations extend to Northern Ireland.
 
-## 2. New regulations 217BA and 217CA of the Human Medicines Regulations 2012[^key-d738a52e498abbbef3e443ed6cdab2a5]
+## 2. New regulations 217BA and 217CA of the Human Medicines Regulations 2012[^c-d738a52e498abbbef3e443ed6cdab2a5]
 
 (1) The Human Medicines Regulations 2012[^f00002] are amended as follows.
 
@@ -138,9 +138,9 @@ Regulation 217CA(1) provides that, subject to the exception in regulation 217CA(
 
 [^f00001]: Footnote: [2021 c. 3](https://www.legislation.gov.uk/ukpga/2021/3). The powers in section 2(1) of the Medicines and Medical Devices Act 2021, and in the provisions that relate to it, are exercisable by the “appropriate authority”. *See* section 2(6) of that Act, which contains the definition of “appropriate authority” that is relevant to the powers being exercised.
 
-[^key-89f3e00ae65f388741a07dce7eb4b964]: Commencement: Reg. 1 in operation at 4.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/125/regulation/1/2)
+[^c-89f3e00ae65f388741a07dce7eb4b964]: Commencement: Reg. 1 in operation at 4.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/125/regulation/1/2)
 
-[^key-d738a52e498abbbef3e443ed6cdab2a5]: Commencement: Reg. 2 in operation at 4.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/125/regulation/1/2)
+[^c-d738a52e498abbbef3e443ed6cdab2a5]: Commencement: Reg. 2 in operation at 4.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/125/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), as amended.
 

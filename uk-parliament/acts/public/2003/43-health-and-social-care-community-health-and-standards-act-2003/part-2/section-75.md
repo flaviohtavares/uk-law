@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Power to require explanation[^c552096][^key-8f8b0c23bead0ffbf17f3616a35377bd]
+## 75. Power to require explanation[^c552096][^c-8f8b0c23bead0ffbf17f3616a35377bd]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ in circumstances where the Assembly considers the explanation necessary or exped
 
 [^c552096]: Commencement: S. 75 partly in force; s. 75 in force at Royal Assent for certain purposes, see s. 199(1)(4)
 
-[^key-8f8b0c23bead0ffbf17f3616a35377bd]: Commencement: S. 75 in force at 1.4.2004 in so far as not already in force by [S.I. 2004/873](https://www.legislation.gov.uk/uksi/2004/873), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/873/article/2/b)
+[^c-8f8b0c23bead0ffbf17f3616a35377bd]: Commencement: S. 75 in force at 1.4.2004 in so far as not already in force by [S.I. 2004/873](https://www.legislation.gov.uk/uksi/2004/873), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/873/article/2/b)

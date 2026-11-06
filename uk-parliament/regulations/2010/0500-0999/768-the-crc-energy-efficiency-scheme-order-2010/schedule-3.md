@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Public bodies[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+## SCHEDULE 3 — Public bodies[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,80 +24,80 @@ summary: ''
 
 Article 5
 
-### SECTION 1 — Interpretation[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### SECTION 1 — Interpretation[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
-#### 1. Public bodies[^key-b7a52f3626210c3787e0acdbaaaa5a08]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Public authorities and the National Assembly for Wales Commission[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### 1. Public bodies[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Public bodies: bodies corporate[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### 2. Public authorities and the National Assembly for Wales Commission[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Public bodies: proprietors of Academies and colleges[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### 3. Public bodies: bodies corporate[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Public bodies: one public body part of another[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### 4. Public bodies: proprietors of Academies and colleges[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 2 — Public bodies: groups[^key-b7a52f3626210c3787e0acdbaaaa5a08]
-
-#### 6. Groups and members[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### 5. Public bodies: one public body part of another[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Bodies corporate[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### SECTION 2 — Public bodies: groups[^c-b7a52f3626210c3787e0acdbaaaa5a08]
+
+#### 6. Groups and members[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Educational bodies: England and Wales[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### 7. Bodies corporate[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Grant-aided schools: Northern Ireland[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### 8. Educational bodies: England and Wales[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 3 — Public bodies: government and local authority decisions[^key-b7a52f3626210c3787e0acdbaaaa5a08]
-
-#### 10. Government and local authority decisions[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### 9. Grant-aided schools: Northern Ireland[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. The Scottish Ministers[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### SECTION 3 — Public bodies: government and local authority decisions[^c-b7a52f3626210c3787e0acdbaaaa5a08]
+
+#### 10. Government and local authority decisions[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. The Welsh Assembly Government and Welsh Ministers[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### 11. The Scottish Ministers[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Northern Ireland departments[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### 12. The Welsh Assembly Government and Welsh Ministers[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Government decisions[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### 13. Northern Ireland departments[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Government decisions: supplies and departments[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### 14. Government decisions[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Local authority decisions[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### 15. Government decisions: supplies and departments[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Notification of government and local authority decisions[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+#### 16. Local authority decisions[^c-b7a52f3626210c3787e0acdbaaaa5a08]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 17. Notification of government and local authority decisions[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7a52f3626210c3787e0acdbaaaa5a08]: Textual amendment: Order revoked (with savings) (20.5.2013 and 1.4.2019 in so far as not already in force) by [The CRC Energy Efficiency Scheme Order 2013 (revoked) 2013 (S.I. 2013/1119)](https://www.legislation.gov.uk/uksi/2013/1119), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1119/article/1), [96(1)(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/96/1/2) (with [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/2/2), [86](https://www.legislation.gov.uk/uksi/2013/1119/article/86))
+[^c-b7a52f3626210c3787e0acdbaaaa5a08]: Textual amendment: Order revoked (with savings) (20.5.2013 and 1.4.2019 in so far as not already in force) by [The CRC Energy Efficiency Scheme Order 2013 (revoked) 2013 (S.I. 2013/1119)](https://www.legislation.gov.uk/uksi/2013/1119), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1119/article/1), [96(1)(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/96/1/2) (with [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/2/2), [86](https://www.legislation.gov.uk/uksi/2013/1119/article/86))

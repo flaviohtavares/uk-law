@@ -22,10 +22,10 @@ summary: ''
 
 (1) In section 159 of the principal Act (general duties of planning authority as respects trees)—
 
-- (a)[^key-5e95f7e76d8abf7937f1f9301788d66f] the words “ of the planning authority ” are repealed,
-- (b)[^key-5e95f7e76d8abf7937f1f9301788d66f] at the beginning of paragraph (a), insert “ of the Scottish Ministers and the planning authority ”,
-- (c)[^key-5e95f7e76d8abf7937f1f9301788d66f] at the beginning of paragraph (b), insert “ of the planning authority ”, and
-- (d)[^key-006ee95b1b2fe0c3e4b500481cfc2c72] at the end add
+- (a)[^c-5e95f7e76d8abf7937f1f9301788d66f] the words “ of the planning authority ” are repealed,
+- (b)[^c-5e95f7e76d8abf7937f1f9301788d66f] at the beginning of paragraph (a), insert “ of the Scottish Ministers and the planning authority ”,
+- (c)[^c-5e95f7e76d8abf7937f1f9301788d66f] at the beginning of paragraph (b), insert “ of the planning authority ”, and
+- (d)[^c-006ee95b1b2fe0c3e4b500481cfc2c72] at the end add
 
   > , and
   >
@@ -35,7 +35,7 @@ summary: ''
 
 (2) In section 160 of that Act (power to make tree preservation orders)—
 
-- (a)[^key-006ee95b1b2fe0c3e4b500481cfc2c72] for subsection (1) substitute—
+- (a)[^c-006ee95b1b2fe0c3e4b500481cfc2c72] for subsection (1) substitute—
 
   > (1) A planning authority may, if it appears to them that the requirements of subsection (1A) are met, make an order specifying any trees, groups of trees or woodlands in their district and providing for their preservation.
   >
@@ -45,8 +45,8 @@ summary: ''
   > - (b) that the trees, groups of trees or woodlands are of cultural or historical significance.
 
   ,
-- (b)[^key-006ee95b1b2fe0c3e4b500481cfc2c72] in subsection (6), the words “ , where paragraph (a) or (b) applies, ” are repealed, and
-- (c)[^key-27de8c4668c78fb77402a4f65930b01f] after subsection (7) insert—
+- (b)[^c-006ee95b1b2fe0c3e4b500481cfc2c72] in subsection (6), the words “ , where paragraph (a) or (b) applies, ” are repealed, and
+- (c)[^c-27de8c4668c78fb77402a4f65930b01f] after subsection (7) insert—
 
   > (8) In relation to an application for consent under a tree preservation order the Scottish Ministers may by regulations make provision as to—
   >
@@ -56,7 +56,7 @@ summary: ''
 
   .
 
-(3)[^key-006ee95b1b2fe0c3e4b500481cfc2c72] In section 161 of that Act (form of, and procedure applicable to, tree preservation orders), for subsection (1) substitute—
+(3)[^c-006ee95b1b2fe0c3e4b500481cfc2c72] In section 161 of that Act (form of, and procedure applicable to, tree preservation orders), for subsection (1) substitute—
 
 > (1) Subject to section 249, a tree preservation order—
 >
@@ -67,7 +67,7 @@ summary: ''
 
 .
 
-(4)[^key-006ee95b1b2fe0c3e4b500481cfc2c72] After section 161 insert—
+(4)[^c-006ee95b1b2fe0c3e4b500481cfc2c72] After section 161 insert—
 
 > **161A. Imminent danger to trees: entry to affix copy of tree preservation order**
 >
@@ -82,9 +82,9 @@ summary: ''
 
 .
 
-(5)[^key-006ee95b1b2fe0c3e4b500481cfc2c72] In section 164(2) of that Act (effect of tree preservation order made by Scottish Ministers), after the word “and” insert “ timeously ”.
+(5)[^c-006ee95b1b2fe0c3e4b500481cfc2c72] In section 164(2) of that Act (effect of tree preservation order made by Scottish Ministers), after the word “and” insert “ timeously ”.
 
-(6)[^key-006ee95b1b2fe0c3e4b500481cfc2c72] In section 168 of that Act (enforcement of duties as to replacement of trees), after subsection (3) insert—
+(6)[^c-006ee95b1b2fe0c3e4b500481cfc2c72] In section 168 of that Act (enforcement of duties as to replacement of trees), after subsection (3) insert—
 
 > (3A) In relation to any tree planted by virtue of a requirement such as is mentioned in subsection (1)(b), the relevant tree preservation order shall apply as it applied to the original trees.
 
@@ -92,8 +92,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5e95f7e76d8abf7937f1f9301788d66f]: Commencement: S. 28(1)(a)(b)(c) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-5e95f7e76d8abf7937f1f9301788d66f]: Commencement: S. 28(1)(a)(b)(c) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
 
-[^key-006ee95b1b2fe0c3e4b500481cfc2c72]: Commencement: S. 28(1)(d)(2)(a)(b)(3)-(6) in force at 1.2.2011 by [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)
+[^c-006ee95b1b2fe0c3e4b500481cfc2c72]: Commencement: S. 28(1)(d)(2)(a)(b)(3)-(6) in force at 1.2.2011 by [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 3](https://www.legislation.gov.uk/ssi/2010/400/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/400/schedule)
 
-[^key-27de8c4668c78fb77402a4f65930b01f]: Commencement: S. 28(2)(c) in force at 26.11.2010 by [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/400/article/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2010/400/article/2/2/a)
+[^c-27de8c4668c78fb77402a4f65930b01f]: Commencement: S. 28(2)(c) in force at 26.11.2010 by [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/400/article/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2010/400/article/2/2/a)

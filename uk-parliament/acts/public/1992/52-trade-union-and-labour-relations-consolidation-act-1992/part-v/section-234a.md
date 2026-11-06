@@ -28,11 +28,11 @@ summary: ''
 
 - (a)[^c20397041] contains—
   - (i) the lists mentioned in subsection (3A) and the figures mentioned in subsection (3B), together with an explanation of how those figures were arrived at, or
-  - (ii) where some or all of the affected employees are employees from whose wages the employer makes deductions representing payments to the union, either those lists and figures and that explanation or the information mentioned in subsection (3C), [^key-3d1f14f8ba07ecc5107ae79e05a46f0c]... and[^key-dd0d91815f6503b1c5164d5b295455bc]
+  - (ii) where some or all of the affected employees are employees from whose wages the employer makes deductions representing payments to the union, either those lists and figures and that explanation or the information mentioned in subsection (3C), [^c-3d1f14f8ba07ecc5107ae79e05a46f0c]... and[^c-dd0d91815f6503b1c5164d5b295455bc]
 - (b) states whether industrial action is intended to be continuous or discontinuous and specifies—
   - (i) where it is to be continuous, the intended date for any of the affected employees to begin to take part in the action,
-  - (ii) where it is to be discontinuous, the intended dates for any of the affected employees to take part in the action, [^c20397031]... [^key-9cbfe1d1e69082f1d56889074cab0568]...
-- (ba)[^key-9cbfe1d1e69082f1d56889074cab0568] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) where it is to be discontinuous, the intended dates for any of the affected employees to take part in the action, [^c20397031]... [^c-9cbfe1d1e69082f1d56889074cab0568]...
+- (ba)[^c-9cbfe1d1e69082f1d56889074cab0568] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c)[^c20397031] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3A)[^c20397061] The lists referred to in subsection (3)(a) are—
@@ -43,13 +43,13 @@ summary: ''
 (3B) The figures referred to in subsection (3)(a) are—
 
 - (a) the total number of the affected employees,
-- (b)[^key-21d9d2cec4e60d2b8a2e47dcd4628190] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
+- (b)[^c-21d9d2cec4e60d2b8a2e47dcd4628190] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
 - (c) the number of the affected employees who work at each workplace in the list mentioned in subsection (3A)(b).
 
 (3C) The information referred to in subsection (3)(a)(ii) is such information as will enable the employer readily to deduce—
 
 - (a) the total number of the affected employees,
-- (b) the categories of employee to which the affected employees belong [^key-d98a03667c91bf9bd9db76e2f24ed48f]..., and
+- (b) the categories of employee to which the affected employees belong [^c-d98a03667c91bf9bd9db76e2f24ed48f]..., and
 - (c) the workplaces at which the affected employees work and the number of them who work at each of those workplaces.
 
 (3D) The lists and figures supplied under this section, or the information mentioned in subsection (3C) that is so supplied, must be as accurate as is reasonably practicable in the light of the information in the possession of the union at the time when it complies with subsection (1).
@@ -64,7 +64,7 @@ summary: ''
 (4) For the purposes of subsection (1) the appropriate period is the period—
 
 - (a) beginning with the day when the union satisfies the requirement of section 231A in relation to the ballot in respect of the industrial action, and
-- (b)[^key-8db6f02a1c001ace2f13d10afbbe5170] ending with the tenth day before the day, or before the first of the days, specified in the relevant notice.
+- (b)[^c-8db6f02a1c001ace2f13d10afbbe5170] ending with the tenth day before the day, or before the first of the days, specified in the relevant notice.
 
 (5) For the purposes of subsection (1) a relevant notice covers an act done by the union if the person induced falls within a notified category of employee and the workplace at which he works is a notified workplace[^c20397091] and—
 
@@ -121,21 +121,21 @@ no relevant notice covering acts done to induce persons to take part in the earl
 
 [^c20397041]: Textual amendment: S. 234A(3)(a) substituted (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 25(2)(a)](https://www.legislation.gov.uk/ukpga/2004/24/section/25/2/a), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
 
-[^key-3d1f14f8ba07ecc5107ae79e05a46f0c]: Textual amendment: Word in s. 234A(3)(a) omitted (20.7.2023) by virtue of [Strikes (Minimum Service Levels) Act 2023 (c. 39)](https://www.legislation.gov.uk/ukpga/2023/39), [s. 5](https://www.legislation.gov.uk/ukpga/2023/39/section/5), [Sch. para. 5(a)](https://www.legislation.gov.uk/ukpga/2023/39/schedule/paragraph/5/a)
+[^c-3d1f14f8ba07ecc5107ae79e05a46f0c]: Textual amendment: Word in s. 234A(3)(a) omitted (20.7.2023) by virtue of [Strikes (Minimum Service Levels) Act 2023 (c. 39)](https://www.legislation.gov.uk/ukpga/2023/39), [s. 5](https://www.legislation.gov.uk/ukpga/2023/39/section/5), [Sch. para. 5(a)](https://www.legislation.gov.uk/ukpga/2023/39/schedule/paragraph/5/a)
 
-[^key-dd0d91815f6503b1c5164d5b295455bc]: Textual amendment: Word in s. 234A(3)(a) inserted (18.12.2025) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 78(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2025/36/section/78/2/b/i), [159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)
+[^c-dd0d91815f6503b1c5164d5b295455bc]: Textual amendment: Word in s. 234A(3)(a) inserted (18.12.2025) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 78(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2025/36/section/78/2/b/i), [159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)
 
 [^c20397031]: Textual amendment: S. 234A(3)(c) and preceding word repealed (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 25(2)(b)](https://www.legislation.gov.uk/ukpga/2004/24/section/25/2/b), [57(2)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/2), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)(c)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a/c), [Sch.](https://www.legislation.gov.uk/uksi/2005/2419/schedule) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
 
-[^key-9cbfe1d1e69082f1d56889074cab0568]: Textual amendment: S. 234A(3)(ba) and word omitted (18.12.2025) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 78(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/36/section/78/2/b/ii), [159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)
+[^c-9cbfe1d1e69082f1d56889074cab0568]: Textual amendment: S. 234A(3)(ba) and word omitted (18.12.2025) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 78(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/36/section/78/2/b/ii), [159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)
 
 [^c20397061]: Textual amendment: S. 234A(3A)-(3F) inserted (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/25/3), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
 
-[^key-21d9d2cec4e60d2b8a2e47dcd4628190]: Textual amendment: S. 234A(3B)(b) omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 74(1)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/74/1/a), [159(2)(k)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/k) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/10))
+[^c-21d9d2cec4e60d2b8a2e47dcd4628190]: Textual amendment: S. 234A(3B)(b) omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 74(1)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/74/1/a), [159(2)(k)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/k) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/10))
 
-[^key-d98a03667c91bf9bd9db76e2f24ed48f]: Textual amendment: Words in s. 234A(3C)(b) omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 74(1)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/74/1/b), [159(2)(k)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/k) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/10))
+[^c-d98a03667c91bf9bd9db76e2f24ed48f]: Textual amendment: Words in s. 234A(3C)(b) omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 74(1)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/74/1/b), [159(2)(k)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/k) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/10))
 
-[^key-8db6f02a1c001ace2f13d10afbbe5170]: Textual amendment: S. 234A(4)(b) substituted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 74(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/74/1/c), [159(2)(k)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/k) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/10))
+[^c-8db6f02a1c001ace2f13d10afbbe5170]: Textual amendment: S. 234A(4)(b) substituted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 74(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/74/1/c), [159(2)(k)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/k) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/10))
 
 [^c20397091]: Textual amendment: Words in s. 234A(5) substituted (1.10.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 25(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/25/4), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/2419](https://www.legislation.gov.uk/uksi/2005/2419), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2419/article/3/a) (with [arts. 5-7](https://www.legislation.gov.uk/uksi/2005/2419/article/5))
 

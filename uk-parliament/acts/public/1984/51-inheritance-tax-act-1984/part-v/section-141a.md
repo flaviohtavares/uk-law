@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141A. Apportionment of relief under section 141[^key-d141f7a1a511e9145b92034635df4563]
+## 141A. Apportionment of relief under section 141[^c-d141f7a1a511e9145b92034635df4563]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d141f7a1a511e9145b92034635df4563]: Textual amendment: S. 141A inserted (with effect in accordance with Sch. 33 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 33 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/33/paragraph/7)
+[^c-d141f7a1a511e9145b92034635df4563]: Textual amendment: S. 141A inserted (with effect in accordance with Sch. 33 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 33 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/33/paragraph/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Students becoming eligible in the course of an academic year[^key-9f378cd2172d7b1e8b46c947d7482722]
+## 75. Students becoming eligible in the course of an academic year[^c-9f378cd2172d7b1e8b46c947d7482722]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f378cd2172d7b1e8b46c947d7482722]: Commencement: Reg. 75 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-9f378cd2172d7b1e8b46c947d7482722]: Commencement: Reg. 75 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

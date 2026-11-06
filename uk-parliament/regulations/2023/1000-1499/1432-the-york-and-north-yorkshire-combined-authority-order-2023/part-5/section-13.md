@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Local Transport[^key-792cfe978c4c8d8ab40a1dbd12451969]
+## 13. Local Transport[^c-792cfe978c4c8d8ab40a1dbd12451969]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-792cfe978c4c8d8ab40a1dbd12451969]: Textual amendment: Art. 13 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(5)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/5/a)
+[^c-792cfe978c4c8d8ab40a1dbd12451969]: Textual amendment: Art. 13 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [33(5)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/33/5/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55A. Prescribing software and supply shortages etc. of medicines[^key-b623ad940be547ce9cbf75cd9bac539a]
+## 55A. Prescribing software and supply shortages etc. of medicines[^c-b623ad940be547ce9cbf75cd9bac539a]
 
 *Extent: E*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b623ad940be547ce9cbf75cd9bac539a]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/2015/1862/regulation/55A) inserted (1.4.2023) by [The National Health Service (Amendments Relating to Pre-Payment Certificates, Hormone Replacement Therapy Treatments and Medicines Shortages) Regulations 2023 (S.I. 2023/171)](https://www.legislation.gov.uk/uksi/2023/171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/171/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2023/171/regulation/12)
+[^c-b623ad940be547ce9cbf75cd9bac539a]: Textual amendment: [Reg. 55A](https://www.legislation.gov.uk/uksi/2015/1862/regulation/55A) inserted (1.4.2023) by [The National Health Service (Amendments Relating to Pre-Payment Certificates, Hormone Replacement Therapy Treatments and Medicines Shortages) Regulations 2023 (S.I. 2023/171)](https://www.legislation.gov.uk/uksi/2023/171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/171/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2023/171/regulation/12)

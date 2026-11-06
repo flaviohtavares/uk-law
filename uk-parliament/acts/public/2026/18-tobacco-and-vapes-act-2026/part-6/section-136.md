@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Power of ministers etc to take over enforcement functions[^key-7a86cf83efc08df7bf5254dc34401cb2]
+## 136. Power of ministers etc to take over enforcement functions[^c-7a86cf83efc08df7bf5254dc34401cb2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a86cf83efc08df7bf5254dc34401cb2]: Commencement: S. 136 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-7a86cf83efc08df7bf5254dc34401cb2]: Commencement: S. 136 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

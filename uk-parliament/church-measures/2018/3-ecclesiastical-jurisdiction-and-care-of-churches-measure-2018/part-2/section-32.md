@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 32. Registrars: term of office[^key-879793824277af2a9eda4b9033d21641]
+## 32. Registrars: term of office[^c-879793824277af2a9eda4b9033d21641]
 
 *Extent: E*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-879793824277af2a9eda4b9033d21641]: Commencement: [S. 32](https://www.legislation.gov.uk/ukcm/2018/3/section/32) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-879793824277af2a9eda4b9033d21641]: Commencement: [S. 32](https://www.legislation.gov.uk/ukcm/2018/3/section/32) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

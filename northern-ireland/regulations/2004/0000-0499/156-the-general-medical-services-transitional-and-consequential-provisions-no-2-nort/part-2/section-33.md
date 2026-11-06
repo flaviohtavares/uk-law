@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Refund of fees paid under paragraph 43(e) of Schedule 2 to the 1997 Regulations[^key-9b4aed68c868d35052ba062bae95397e]
+## 33. Refund of fees paid under paragraph 43(e) of Schedule 2 to the 1997 Regulations[^c-9b4aed68c868d35052ba062bae95397e]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ the period for applying for a refund and the powers of the Board in dealing with
 
 ## Annotations
 
-[^key-9b4aed68c868d35052ba062bae95397e]: Commencement: Art. 33 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-9b4aed68c868d35052ba062bae95397e]: Commencement: Art. 33 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

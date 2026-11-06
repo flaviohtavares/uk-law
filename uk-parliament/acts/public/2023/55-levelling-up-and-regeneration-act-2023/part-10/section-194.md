@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. Local benefit condition[^key-166dd93a37a3aee2fd1a672b78932cfc][^key-65718c3efba77041ee9d16e181c1ea90]
+## 194. Local benefit condition[^c-166dd93a37a3aee2fd1a672b78932cfc][^c-65718c3efba77041ee9d16e181c1ea90]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ For the purposes of this Part, the “local benefit condition” is satisfied in
 
 ## Annotations
 
-[^key-166dd93a37a3aee2fd1a672b78932cfc]: Commencement: S. 194 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-166dd93a37a3aee2fd1a672b78932cfc]: Commencement: S. 194 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-65718c3efba77041ee9d16e181c1ea90]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2023/55/section/194) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)
+[^c-65718c3efba77041ee9d16e181c1ea90]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2023/55/section/194) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)

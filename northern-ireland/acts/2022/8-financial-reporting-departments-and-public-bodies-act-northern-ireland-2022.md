@@ -36,7 +36,7 @@ An Act to amend the law relating to the preparation of estimates and accounts of
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Estimates: inclusion of resources used by designated bodies[^key-45b0b374902d9aa8d70d2e0046e3c37d]
+## 1. Estimates: inclusion of resources used by designated bodies[^c-45b0b374902d9aa8d70d2e0046e3c37d]
 
 (1) The Government Resources and Accounts Act (Northern Ireland) 2001 is amended as mentioned in subsections (2) to (4).
 
@@ -99,24 +99,24 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 .
 
-## 2. Definition of “the Department”[^key-e3f27fbb5ed334875e7da8af4e9df87b]
+## 2. Definition of “the Department”[^c-e3f27fbb5ed334875e7da8af4e9df87b]
 
 In section 26(2) (interpretation) of the Government Resources and Accounts Act (Northern Ireland) 2001, in the definition of “the Department”, omit “and Personnel”.
 
-## 3. Commencement[^key-00055c449b31a5eba24622711a8289d0]
+## 3. Commencement[^c-00055c449b31a5eba24622711a8289d0]
 
 This Act comes into operation on the day after this Act receives Royal Assent.
 
-## 4. Short title[^key-1c5f8e2010f332311b38b57f3804dd35]
+## 4. Short title[^c-1c5f8e2010f332311b38b57f3804dd35]
 
 This Act may be cited as the Financial Reporting (Departments and Public Bodies) Act (Northern Ireland) 2022.
 
 ## Annotations
 
-[^key-45b0b374902d9aa8d70d2e0046e3c37d]: Commencement: S. 1 in operation at 31.3.2022, see [s. 3](https://www.legislation.gov.uk/nia/2022/8/section/3)
+[^c-45b0b374902d9aa8d70d2e0046e3c37d]: Commencement: S. 1 in operation at 31.3.2022, see [s. 3](https://www.legislation.gov.uk/nia/2022/8/section/3)
 
-[^key-e3f27fbb5ed334875e7da8af4e9df87b]: Commencement: S. 2 in operation at 31.3.2022, see [s. 3](https://www.legislation.gov.uk/nia/2022/8/section/3)
+[^c-e3f27fbb5ed334875e7da8af4e9df87b]: Commencement: S. 2 in operation at 31.3.2022, see [s. 3](https://www.legislation.gov.uk/nia/2022/8/section/3)
 
-[^key-00055c449b31a5eba24622711a8289d0]: Commencement: S. 3 in operation at 31.3.2022, see [s. 3](https://www.legislation.gov.uk/nia/2022/8/section/3)
+[^c-00055c449b31a5eba24622711a8289d0]: Commencement: S. 3 in operation at 31.3.2022, see [s. 3](https://www.legislation.gov.uk/nia/2022/8/section/3)
 
-[^key-1c5f8e2010f332311b38b57f3804dd35]: Commencement: S. 4 in operation at 31.3.2022, see [s. 3](https://www.legislation.gov.uk/nia/2022/8/section/3)
+[^c-1c5f8e2010f332311b38b57f3804dd35]: Commencement: S. 4 in operation at 31.3.2022, see [s. 3](https://www.legislation.gov.uk/nia/2022/8/section/3)

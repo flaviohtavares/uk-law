@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 92. Attachment of sidecars[^key-0d915c59b07ab4da92374b054e86f05b]
+## 92. Attachment of sidecars[^c-0d915c59b07ab4da92374b054e86f05b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Every sidecar fitted to a motor cycle shall be so attached that the wheel thereo
 
 ## Annotations
 
-[^key-0d915c59b07ab4da92374b054e86f05b]: Commencement: [Reg. 92](https://www.legislation.gov.uk/uksi/1986/1078/regulation/92) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-0d915c59b07ab4da92374b054e86f05b]: Commencement: [Reg. 92](https://www.legislation.gov.uk/uksi/1986/1078/regulation/92) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

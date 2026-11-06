@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Assessment of environmental effects[^key-380e9bdac22f279b4e438cb4e53f3ea1]
+## 24. Assessment of environmental effects[^c-380e9bdac22f279b4e438cb4e53f3ea1]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-380e9bdac22f279b4e438cb4e53f3ea1]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2019/13/section/24) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
+[^c-380e9bdac22f279b4e438cb4e53f3ea1]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2019/13/section/24) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)

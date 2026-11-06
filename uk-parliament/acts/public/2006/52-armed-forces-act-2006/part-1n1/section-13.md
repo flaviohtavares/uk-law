@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Contravention of standing orders[^key-ddd228c38ca2de319cc14aeb567a872a][^key-e8524ea9cfadfba5c1b84cd92c7540c4]
+## 13. Contravention of standing orders[^c-ddd228c38ca2de319cc14aeb567a872a][^c-e8524ea9cfadfba5c1b84cd92c7540c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ but paragraph (a) of this subsection does not apply in relation to a civilian su
 
 ## Annotations
 
-[^key-ddd228c38ca2de319cc14aeb567a872a]: Commencement: S. 13 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-ddd228c38ca2de319cc14aeb567a872a]: Commencement: S. 13 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-e8524ea9cfadfba5c1b84cd92c7540c4]: Commencement: S. 13 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-e8524ea9cfadfba5c1b84cd92c7540c4]: Commencement: S. 13 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

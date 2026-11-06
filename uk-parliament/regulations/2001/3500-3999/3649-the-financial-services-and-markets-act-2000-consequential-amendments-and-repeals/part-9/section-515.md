@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 515. Meaning of “the reference banks”[^key-b649d5e8db1f51695c7281b31cc15d69]
+## 515. Meaning of “the reference banks”[^c-b649d5e8db1f51695c7281b31cc15d69]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ Regulation 8 of the Local Authorities (Precepts) (Wales) Regulations 1995 (Calcu
 
 ## Annotations
 
-[^key-b649d5e8db1f51695c7281b31cc15d69]: Commencement: Art. 515 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b649d5e8db1f51695c7281b31cc15d69]: Commencement: Art. 515 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00335]: Footnote: Regulation 18(3) was amended by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129).

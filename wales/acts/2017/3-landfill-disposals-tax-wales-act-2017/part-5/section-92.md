@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Landfill Disposals Tax Communities Scheme[^key-81ca4c4f98e91a6cb7b59fcdefe8cfdf]
+## 92. Landfill Disposals Tax Communities Scheme[^c-81ca4c4f98e91a6cb7b59fcdefe8cfdf]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81ca4c4f98e91a6cb7b59fcdefe8cfdf]: Commencement: [S. 92](https://www.legislation.gov.uk/anaw/2017/3/section/92) in force at 8.11.2017 by [S.I. 2017/955](https://www.legislation.gov.uk/wsi/2017/955), [art. 3(b)](https://www.legislation.gov.uk/wsi/2017/955/article/3/b)
+[^c-81ca4c4f98e91a6cb7b59fcdefe8cfdf]: Commencement: [S. 92](https://www.legislation.gov.uk/anaw/2017/3/section/92) in force at 8.11.2017 by [S.I. 2017/955](https://www.legislation.gov.uk/wsi/2017/955), [art. 3(b)](https://www.legislation.gov.uk/wsi/2017/955/article/3/b)

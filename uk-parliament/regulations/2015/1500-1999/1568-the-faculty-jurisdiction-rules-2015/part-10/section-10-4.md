@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 10.4. Further proceedings where objector becomes party opponent[^key-0bd486dd44bceb6a4d848336e7597502]
+## 10.4. Further proceedings where objector becomes party opponent[^c-0bd486dd44bceb6a4d848336e7597502]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bd486dd44bceb6a4d848336e7597502]: Commencement: [Rule 10.4](https://www.legislation.gov.uk/uksi/2015/1568/article/10.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-0bd486dd44bceb6a4d848336e7597502]: Commencement: [Rule 10.4](https://www.legislation.gov.uk/uksi/2015/1568/article/10.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

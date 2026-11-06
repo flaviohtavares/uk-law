@@ -27,7 +27,7 @@ summary: ''
 
 2012 No. 2085
 
-[^key-5e4f00b1635463117e9aee54731d885b]Police, England And Wales
+[^c-5e4f00b1635463117e9aee54731d885b]Police, England And Wales
 
 The Police and Crime Commissioner Elections (Designation of Police Area Returning Officers) (No.2) Order 2012
 
@@ -41,7 +41,7 @@ This Order is made by the Secretary of State in exercise of the powers conferred
 
 In accordance with section 7(2)(ha) of the Political Parties, Elections and Referendums Act 2000[^f00002], the Secretary of State has consulted the Electoral Commission.
 
-## 1. Citation, commencement and interpretation[^key-d41d4a7353de54a307893be20109d24d]
+## 1. Citation, commencement and interpretation[^c-d41d4a7353de54a307893be20109d24d]
 
 (1) This Order may be cited as the Police and Crime Commissioner Elections (Designation of Police Area Returning Officers) (No.2) Order 2012.
 
@@ -49,11 +49,11 @@ In accordance with section 7(2)(ha) of the Political Parties, Elections and Refe
 
 (3) “Police area” means a police area listed in Schedule 1 to the Police Act 1996[^f00003] (police areas outside London).
 
-## 2. Revocation[^key-4a7fbe266b912b2540ce082984fc85d3]
+## 2. Revocation[^c-4a7fbe266b912b2540ce082984fc85d3]
 
 The Police and Crime Commissioner Elections (Designation of Police Area Returning Officers) Order 2012[^f00004] is revoked.
 
-## 3. Designation of police area returning officers[^key-31a0b8319906a0363f981d5b75390461]
+## 3. Designation of police area returning officers[^c-31a0b8319906a0363f981d5b75390461]
 
 (1) This article designates for the purposes of section 54(1) of the Police Reform and Social Responsibility Act 2011 (returning officers etc) the person who is to be police area returning officer for each police area in England and each police area in Wales.
 
@@ -71,7 +71,7 @@ Home Office
 
 SCHEDULES
 
-## SCHEDULE 1 — Police area returning officers: England[^key-70dc2a2eec9ee9e1826d2f1c0b21a1f5]
+## SCHEDULE 1 — Police area returning officers: England[^c-70dc2a2eec9ee9e1826d2f1c0b21a1f5]
 
 Article 3(2)
 
@@ -121,7 +121,7 @@ Article 3(2)
 </tbody>
 </table>
 
-## SCHEDULE 2 — Police area returning officers: Wales[^key-3802a37654f82f4afae994f00d53239d]
+## SCHEDULE 2 — Police area returning officers: Wales[^c-3802a37654f82f4afae994f00d53239d]
 
 Article 3(3)
 
@@ -152,26 +152,26 @@ Article 3(3) and Schedule 2 designate the persons who are to act as the returnin
 
 ## Annotations
 
-[^key-5e4f00b1635463117e9aee54731d885b]: Textual amendment: Order revoked in part (15.12.2015) by [The Police and Crime Commissioner Elections (Designation of Police Area Returning Officers) Order 2015 (S.I. 2015/2031)](https://www.legislation.gov.uk/uksi/2015/2031), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/2031/article/1/2), [3](https://www.legislation.gov.uk/uksi/2015/2031/article/3)
+[^c-5e4f00b1635463117e9aee54731d885b]: Textual amendment: Order revoked in part (15.12.2015) by [The Police and Crime Commissioner Elections (Designation of Police Area Returning Officers) Order 2015 (S.I. 2015/2031)](https://www.legislation.gov.uk/uksi/2015/2031), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/2031/article/1/2), [3](https://www.legislation.gov.uk/uksi/2015/2031/article/3)
 
 [^f00001]: Footnote: [2011 c.13](https://www.legislation.gov.uk/ukpga/2011/13).
 
 [^f00002]: Footnote: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41). Section 7(2)(ha) was inserted by paragraph 11 of Schedule 10 to the Police Reform and Social Responsibility Act 2011.
 
-[^key-d41d4a7353de54a307893be20109d24d]: Commencement: Art. 1 in force at 10.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2085/article/1/2)
+[^c-d41d4a7353de54a307893be20109d24d]: Commencement: Art. 1 in force at 10.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2085/article/1/2)
 
 [^f00003]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-4a7fbe266b912b2540ce082984fc85d3]: Commencement: Art. 2 in force at 10.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2085/article/1/2)
+[^c-4a7fbe266b912b2540ce082984fc85d3]: Commencement: Art. 2 in force at 10.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2085/article/1/2)
 
 [^f00004]: Footnote: [S.I. 2012/1965](https://www.legislation.gov.uk/uksi/2012/1965).
 
-[^key-31a0b8319906a0363f981d5b75390461]: Commencement: Art. 3 in force at 10.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2085/article/1/2)
+[^c-31a0b8319906a0363f981d5b75390461]: Commencement: Art. 3 in force at 10.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2085/article/1/2)
 
 [^f00005]: Footnote: The person who is acting returning officer for a parliamentary constituency in England is determined by section 28(1)(a) of the Representation of the People Act [1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2) (“the 1983 Act”) and by order made under section 28(1)(b) of that Act. Section 28(1)(b) was amended by paragraph 6 of Schedule 4 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50).
 
 [^f00006]: Footnote: The person who is acting returning officer for a parliamentary constituency in Wales is determined by section 28(1)(aa) of the 1983 Act and by order made under section 28(1)(b) of that Act. Section 28(1)(aa) was inserted by paragraph 68(3) of Schedule 16 to the Local Government (Wales) Act [1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19).
 
-[^key-70dc2a2eec9ee9e1826d2f1c0b21a1f5]: Commencement: Sch. 1 in force at 10.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2085/article/1/2)
+[^c-70dc2a2eec9ee9e1826d2f1c0b21a1f5]: Commencement: Sch. 1 in force at 10.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2085/article/1/2)
 
-[^key-3802a37654f82f4afae994f00d53239d]: Commencement: Sch. 2 in force at 10.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2085/article/1/2)
+[^c-3802a37654f82f4afae994f00d53239d]: Commencement: Sch. 2 in force at 10.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2085/article/1/2)

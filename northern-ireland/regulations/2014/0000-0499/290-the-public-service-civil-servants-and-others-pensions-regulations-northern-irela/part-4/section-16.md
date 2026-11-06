@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Fair Deal eligible persons[^key-c326bf2bac25242a40736099bce1cc3c]
+## 16. Fair Deal eligible persons[^c-c326bf2bac25242a40736099bce1cc3c]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 - (e) P is not, in respect of the transferred services, an active member of an occupational pension scheme or a personal pension scheme provided by P’s employer; and
 - (f) P has not signed an agreement with P’s employer to waive voluntarily, P’s eligibility to be an active member of this scheme as a Fair Deal eligible person.
 
-(3) For the purposes of paragraph 2(c), P has not been continuously employed where P has had a gap[^key-c61dd2653f3a9f1773f5fcdf0a32737f] in service of any period.
+(3) For the purposes of paragraph 2(c), P has not been continuously employed where P has had a gap[^c-c61dd2653f3a9f1773f5fcdf0a32737f] in service of any period.
 
 (4) In determining whether P meets the condition in paragraph (2)(d)—
 
@@ -48,19 +48,19 @@ summary: ''
 
 (5) A person who ceases to meet the conditions of eligibility ceases to be a Fair Deal eligible person on the date that the person ceases to meet those conditions.
 
-(6) In these Regulations[^key-ea63d8d804f1e51a51315ada94476968] —
+(6) In these Regulations[^c-ea63d8d804f1e51a51315ada94476968] —
 
-- “Admission Agreement” means a contractual agreement between the Department and P’s employer (and if applicable a third party[^key-a6e92f5b2cca1c00298603749ab4456f] ) relating to participation in this scheme;
+- “Admission Agreement” means a contractual agreement between the Department and P’s employer (and if applicable a third party[^c-a6e92f5b2cca1c00298603749ab4456f] ) relating to participation in this scheme;
 - “Fair Deal transfer date” means the date specified in the published list as the date on which a person, in order to be eligible to be an active member of this scheme in respect of the transferred services, must have been employed to carry out those services;
 - “published list” means a list of persons to whom the scheme relates published for the purposes of section 25(9) of the Act; and
 - “the transferred services”, in relation to a person, means the functions or services in the description of employment specified in a published list that relates to that person.
 
 ## Annotations
 
-[^key-c326bf2bac25242a40736099bce1cc3c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2014/290/regulation/16) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-c326bf2bac25242a40736099bce1cc3c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2014/290/regulation/16) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-c61dd2653f3a9f1773f5fcdf0a32737f]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/16/3) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [8(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/8/a)
+[^c-c61dd2653f3a9f1773f5fcdf0a32737f]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/16/3) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [8(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/8/a)
 
-[^key-ea63d8d804f1e51a51315ada94476968]: Textual amendment: Word in [reg. 16(6)](https://www.legislation.gov.uk/nisr/2014/290/regulation/16/6) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [8(b)(i)](https://www.legislation.gov.uk/nisr/2022/67/regulation/8/b/i)
+[^c-ea63d8d804f1e51a51315ada94476968]: Textual amendment: Word in [reg. 16(6)](https://www.legislation.gov.uk/nisr/2014/290/regulation/16/6) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [8(b)(i)](https://www.legislation.gov.uk/nisr/2022/67/regulation/8/b/i)
 
-[^key-a6e92f5b2cca1c00298603749ab4456f]: Textual amendment: Words in [reg. 16(6)](https://www.legislation.gov.uk/nisr/2014/290/regulation/16/6) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [8(b)(ii)](https://www.legislation.gov.uk/nisr/2022/67/regulation/8/b/ii)
+[^c-a6e92f5b2cca1c00298603749ab4456f]: Textual amendment: Words in [reg. 16(6)](https://www.legislation.gov.uk/nisr/2014/290/regulation/16/6) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [8(b)(ii)](https://www.legislation.gov.uk/nisr/2022/67/regulation/8/b/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Power of Scottish Ministers to make penalty fare regulations[^key-b35d291c0ba563834887c7678d59c055]
+## 47. Power of Scottish Ministers to make penalty fare regulations[^c-b35d291c0ba563834887c7678d59c055]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b35d291c0ba563834887c7678d59c055]: Commencement: S. 47 in force at 16.10.2005 by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
+[^c-b35d291c0ba563834887c7678d59c055]: Commencement: S. 47 in force at 16.10.2005 by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)

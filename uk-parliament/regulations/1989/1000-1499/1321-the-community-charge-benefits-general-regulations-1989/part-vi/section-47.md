@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Entitlement to more than one community charge benefit[^key-82c8485b275a82ed99ac5579d982f0db]
+## 47. Entitlement to more than one community charge benefit[^c-82c8485b275a82ed99ac5579d982f0db]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82c8485b275a82ed99ac5579d982f0db]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1989/1321/regulation/47) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-82c8485b275a82ed99ac5579d982f0db]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1989/1321/regulation/47) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

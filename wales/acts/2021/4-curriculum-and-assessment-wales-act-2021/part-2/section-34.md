@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Duty to ensure implementation of adopted curriculum[^key-f20ff64f817b8e8cdfcf098f46c77c13][^key-a38791f7ad7a14febcdb2f6cde8216df][^key-260a127048615c558401688803cbd073][^key-f4301acdc4329c02706dc7e88ab9c260][^key-0fb662999c280fffbb1322f325b86aa4]
+## 34. Duty to ensure implementation of adopted curriculum[^c-f20ff64f817b8e8cdfcf098f46c77c13][^c-a38791f7ad7a14febcdb2f6cde8216df][^c-260a127048615c558401688803cbd073][^c-f4301acdc4329c02706dc7e88ab9c260][^c-0fb662999c280fffbb1322f325b86aa4]
 
 *Extent: E+W*
 
@@ -26,12 +26,12 @@ summary: ''
 
 ## Annotations
 
-[^key-f20ff64f817b8e8cdfcf098f46c77c13]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2021/4/section/34) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/c), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
+[^c-f20ff64f817b8e8cdfcf098f46c77c13]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2021/4/section/34) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/c), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
 
-[^key-a38791f7ad7a14febcdb2f6cde8216df]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2021/4/section/34) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/c)
+[^c-a38791f7ad7a14febcdb2f6cde8216df]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2021/4/section/34) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/c)
 
-[^key-260a127048615c558401688803cbd073]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2021/4/section/34) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(c)](https://www.legislation.gov.uk/wsi/2022/652/article/7/c)
+[^c-260a127048615c558401688803cbd073]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2021/4/section/34) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(c)](https://www.legislation.gov.uk/wsi/2022/652/article/7/c)
 
-[^key-f4301acdc4329c02706dc7e88ab9c260]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2021/4/section/34) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
+[^c-f4301acdc4329c02706dc7e88ab9c260]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2021/4/section/34) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
 
-[^key-0fb662999c280fffbb1322f325b86aa4]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2021/4/section/34) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)
+[^c-0fb662999c280fffbb1322f325b86aa4]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2021/4/section/34) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)

@@ -42,7 +42,7 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 2
 
-The Secretary of State, being a Minister designated [^c21956431] for the purposes of section 2(2) of the European Communities Act 1972 [^c21956441] in relation to measures relating to rights of entry into, and residence in, the United Kingdom, in exercise of the powers conferred by that section, and of the powers conferred by section 109 of the Nationality, Immigration and Asylum Act 2002 [^c21956451], makes the following Regulations.[^key-49a7681fa3818460e2c69293c5d6964c]
+The Secretary of State, being a Minister designated [^c21956431] for the purposes of section 2(2) of the European Communities Act 1972 [^c21956441] in relation to measures relating to rights of entry into, and residence in, the United Kingdom, in exercise of the powers conferred by that section, and of the powers conferred by section 109 of the Nationality, Immigration and Asylum Act 2002 [^c21956451], makes the following Regulations.[^c-49a7681fa3818460e2c69293c5d6964c]
 
 ## 1. Citation
 
@@ -510,7 +510,7 @@ An impact assessment has not been produced for these Regulations as no impact on
 
 [^c21956451]: Marginal citation: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
 
-[^key-49a7681fa3818460e2c69293c5d6964c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/3032) revoked (1.2.2017 for specified purposes) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/1)
+[^c-49a7681fa3818460e2c69293c5d6964c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/3032) revoked (1.2.2017 for specified purposes) by [The Immigration (European Economic Area) Regulations 2016 (S.I. 2016/1052)](https://www.legislation.gov.uk/uksi/2016/1052), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2016/1052/schedule/4/paragraph/1)
 
 [^c21956461]: Marginal citation: [S.I. 2006/1003](https://www.legislation.gov.uk/uksi/2006/1003), as amended by [S.I. 2006/3317](https://www.legislation.gov.uk/uksi/2006/3317), 2009/1117, 2010/21, 1593, 2011/544, 1247, 2012/1547, 1809, 2560 and 2013/1391 and 1460.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Provision supplementing section 19[^key-b1b803b63366f5396b759b299a11c93b][^key-05c04b0ac732db87629f374aaec62838]
+## 21. Provision supplementing section 19[^c-b1b803b63366f5396b759b299a11c93b][^c-05c04b0ac732db87629f374aaec62838]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b1b803b63366f5396b759b299a11c93b]: Commencement: S. 21 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-b1b803b63366f5396b759b299a11c93b]: Commencement: S. 21 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-05c04b0ac732db87629f374aaec62838]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/35/section/21) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-05c04b0ac732db87629f374aaec62838]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/35/section/21) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)

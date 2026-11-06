@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Power of appropriate authority to deal with matters[^key-b2ae7dc33c18045f02173766982f0cc2][^key-e941c566e45066eb82f23bb0b232a4d2]
+## 48. Power of appropriate authority to deal with matters[^c-b2ae7dc33c18045f02173766982f0cc2][^c-e941c566e45066eb82f23bb0b232a4d2]
 
 *Extent: E+W+S*
 
@@ -46,6 +46,6 @@ In paragraph (b) “**specified**” means specified in regulations made by the 
 
 ## Annotations
 
-[^key-b2ae7dc33c18045f02173766982f0cc2]: Commencement: S. 48 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-b2ae7dc33c18045f02173766982f0cc2]: Commencement: S. 48 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-e941c566e45066eb82f23bb0b232a4d2]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2025/36/section/48) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(18)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/18)
+[^c-e941c566e45066eb82f23bb0b232a4d2]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2025/36/section/48) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(18)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/18)

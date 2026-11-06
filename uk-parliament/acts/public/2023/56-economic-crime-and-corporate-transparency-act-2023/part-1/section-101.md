@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Overseas companies: identity verification of directors[^key-f0c780fed40e562907dcb13a57c86b93]
+## 101. Overseas companies: identity verification of directors[^c-f0c780fed40e562907dcb13a57c86b93]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ After section 1048A of the Companies Act 2006 (inserted by section 100 of this A
 
 ## Annotations
 
-[^key-f0c780fed40e562907dcb13a57c86b93]: Commencement: S. 101 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-f0c780fed40e562907dcb13a57c86b93]: Commencement: S. 101 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

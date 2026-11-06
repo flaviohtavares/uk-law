@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**23E.**[^key-ae43cf4864e1995e237e120cc08488bd] (1) In this Part—
+**23E.**[^c-ae43cf4864e1995e237e120cc08488bd] (1) In this Part—
 
 - “establishing Regulation” means the Council and European Parliament Regulation [(EC) No. 638/2004](https://www.legislation.gov.uk/european/regulation/2004/0638);
 - “implementing Regulation” means the [Commission Regulation (EC) No. 1982/2004](https://www.legislation.gov.uk/european/regulation/2004/1982)[^f00005];
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ae43cf4864e1995e237e120cc08488bd]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/uksi/1995/2518/part/4B) inserted (1.4.2008) by [The Value Added Tax (Amendment) Regulations 2008 (S.I. 2008/556)](https://www.legislation.gov.uk/uksi/2008/556), [regs. 1](https://www.legislation.gov.uk/uksi/2008/556/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/556/regulation/2/2)
+[^c-ae43cf4864e1995e237e120cc08488bd]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/uksi/1995/2518/part/4B) inserted (1.4.2008) by [The Value Added Tax (Amendment) Regulations 2008 (S.I. 2008/556)](https://www.legislation.gov.uk/uksi/2008/556), [regs. 1](https://www.legislation.gov.uk/uksi/2008/556/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/556/regulation/2/2)
 
 [^f00005]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45) .
 

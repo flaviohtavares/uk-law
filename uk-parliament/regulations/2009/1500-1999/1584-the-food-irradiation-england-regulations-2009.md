@@ -48,7 +48,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 48(4A) of that Act, he has had regard to relevant advice given by the Food Standards Agency.
 
-As required by Article 9 of Regulation EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c19747201] there has been open and transparent public consultation during the preparation and evaluation of the following Regulations:[^key-ee2167ace1e375e7502819f9a1e9f894]
+As required by Article 9 of Regulation EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c19747201] there has been open and transparent public consultation during the preparation and evaluation of the following Regulations:[^c-ee2167ace1e375e7502819f9a1e9f894]
 
 ## 1. Title, application and commencement
 
@@ -74,11 +74,11 @@ These Regulations do not apply to—
 - “**the Agency**” means the Food Standards Agency;
 - “**approval**” includes a licence;
 - “**approved**” includes “licensed”;
-- “**import**” means to introduce from outside the United Kingdom[^key-9b9dec936b49169b81e8ec7a6db39a67];
+- “**import**” means to introduce from outside the United Kingdom[^c-9b9dec936b49169b81e8ec7a6db39a67];
 - “**ionising radiation**” means any gamma rays, X rays or corpuscular radiations which are capable of producing ions either directly or indirectly;
 - “**irradiated**” means treated by ionising radiation, and similar expressions shall be construed accordingly;
 - “licence” save in regulation 7(a)(ii)(bb) means a licence granted by the Agency in accordance with Schedule 2 to a person and a facility to irradiate food and “**licensed**” and “**licensee**” shall be construed accordingly;
-- “**official reference number**” in relation to a facility in a member State means the number shown for it in the list in Schedule 3[^key-dc87b953d59d48912c37a7267b241c6d];
+- “**official reference number**” in relation to a facility in a member State means the number shown for it in the list in Schedule 3[^c-dc87b953d59d48912c37a7267b241c6d];
 - “**sell**” includes possess, offer, expose and advertise for sale, and “**sale**” shall be construed accordingly.
 
 (2) For the purposes of these Regulations—
@@ -134,9 +134,9 @@ These Regulations do not apply to—
 (1) No person shall import into England for the purpose of sale any irradiated food unless—
 
 - (a) it falls within a permitted category of food;
-- (b)[^key-809c85d1e02dc631bb56317107f38db4] it has been irradiated in one of the facilities listed in the Table in Schedule 3 or Schedule 4;
+- (b)[^c-809c85d1e02dc631bb56317107f38db4] it has been irradiated in one of the facilities listed in the Table in Schedule 3 or Schedule 4;
 - (c) it is properly irradiated food; and
-- (d) where it was irradiated in a[^key-4701fd6ef57a6149d96e96b136c609c6] member State, it is accompanied by documents containing—
+- (d) where it was irradiated in a[^c-4701fd6ef57a6149d96e96b136c609c6] member State, it is accompanied by documents containing—
   - (i) either the name and address of the facility which carried out the irradiation, or its official reference number; and
   - (ii) the information specified in paragraph 9(1)(a) to (d) and (2)(d) of Part 3 of Schedule 2; or
 - (e) where it was irradiated outside the European Union[^M_F_b5227ccb-e3a0-4cfe-8fba-bbc1b0a39bdb]—
@@ -447,7 +447,7 @@ and may contain conditions.
 **9.** (1) Every licensee shall record for each batch of food irradiated by the licensee—
 
 - (a) the nature and quantity of food in the batch;
-- (b)[^key-1f9d0f65702be804fbe963e16009c8be] its batch number;
+- (b)[^c-1f9d0f65702be804fbe963e16009c8be] its batch number;
 - (c) the name and address of each consignor and consignee of food within the batch;
 - (d) the date on which the batch was irradiated;
 - (e) any microbiological information relating to food within the batch;
@@ -526,7 +526,7 @@ and shall state in outline the effect of the matter to which it relates.
 
 **3.** Save as provided by section 43 of the Act (continuance on death), a licence is not transferable.
 
-## SCHEDULE 3 — LIST OF FACILITIES IN MEMBER STATES AND THE UNITED KINGDOM[^key-ad149b817dfdc570b63dd4bd12f9f754][^key-d954dd5a3d2c4179889136f0260b29eb]
+## SCHEDULE 3 — LIST OF FACILITIES IN MEMBER STATES AND THE UNITED KINGDOM[^c-ad149b817dfdc570b63dd4bd12f9f754][^c-d954dd5a3d2c4179889136f0260b29eb]
 
 Regulations 3(1) and 5(1)(b)(i)
 
@@ -555,7 +555,7 @@ Regulations 3(1) and 5(1)(b)(i)
 | RG016/2008 | Multipurpose Irradiation Facility<br>IRASM Technological Irradiations Department<br>Horia Hulubei National Institute for Research and Development of Physics and Nuclear Engineering<br>Atomistilor Street No. 407<br>PO Box MG-6<br>Magurele. Ilfov County<br>Romania |
 | EW/04 | Isotron Limited<br>Moray Road<br>Elgin Industrial Estate<br>Swindon<br>Wilts SN2 8XS<br>United Kingdom. |
 
-## SCHEDULE 4 — LIST OF FACILITIES IN COUNTRIES OUTSIDE THE EUROPEAN UNION[^key-b73795a9d9f99b39ac6c66d65319ba45]
+## SCHEDULE 4 — LIST OF FACILITIES IN COUNTRIES OUTSIDE THE EUROPEAN UNION[^c-b73795a9d9f99b39ac6c66d65319ba45]
 
 Regulation 5(1)(b)(ii)
 
@@ -611,15 +611,15 @@ Regulation 5(1)(b)(ii)
 
 [^c19747201]: Marginal citation: OJ No. L31, 1.2.2002, p.1, as last amended by Commission Regulation (EC) No. 202/2008 amending Regulation (EC) No. 178/2002 of the European Parliament and of the Council as regards the number and names of the Scientific Panels of the European Food Safety Authority (OJ No. L60, 5.3.2008, p17).
 
-[^key-ee2167ace1e375e7502819f9a1e9f894]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2009/1584) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-ee2167ace1e375e7502819f9a1e9f894]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2009/1584) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-9b9dec936b49169b81e8ec7a6db39a67]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/1584/regulation/3/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/5/2/a)
+[^c-9b9dec936b49169b81e8ec7a6db39a67]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/1584/regulation/3/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/5/2/a)
 
-[^key-dc87b953d59d48912c37a7267b241c6d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/1584/regulation/3/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/5/2/b)
+[^c-dc87b953d59d48912c37a7267b241c6d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/1584/regulation/3/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/5/2/b)
 
-[^key-809c85d1e02dc631bb56317107f38db4]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2009/1584/regulation/5/1/b) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/5/3/a)
+[^c-809c85d1e02dc631bb56317107f38db4]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2009/1584/regulation/5/1/b) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/5/3/a)
 
-[^key-4701fd6ef57a6149d96e96b136c609c6]: Textual amendment: Word in [reg. 5(1)(d)](https://www.legislation.gov.uk/uksi/2009/1584/regulation/5/1/d) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/5/3/b)
+[^c-4701fd6ef57a6149d96e96b136c609c6]: Textual amendment: Word in [reg. 5(1)(d)](https://www.legislation.gov.uk/uksi/2009/1584/regulation/5/1/d) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/5/3/b)
 
 [^M_F_b5227ccb-e3a0-4cfe-8fba-bbc1b0a39bdb]: Textual amendment: Words in reg. 5(1)(e) substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
@@ -639,12 +639,12 @@ Regulation 5(1)(b)(ii)
 
 [^c19747281]: Marginal citation: A copy of the Code of Practice may be obtained from the Codex Alimentarius Commission, Food and Agriculture Organisation of the United Nations, Vialle della Terme di Caracalla, 0010, Rome.
 
-[^key-1f9d0f65702be804fbe963e16009c8be]: Textual amendment: [Sch. 2 para. 9(1)(b)](https://www.legislation.gov.uk/uksi/2009/1584/schedule/2/paragraph/9/1/b) substituted (20.10.2010) by [The Food Irradiation (England) (Amendment) Regulations 2010 (S.I. 2010/2312)](https://www.legislation.gov.uk/uksi/2010/2312), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2312/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/2312/regulation/3)
+[^c-1f9d0f65702be804fbe963e16009c8be]: Textual amendment: [Sch. 2 para. 9(1)(b)](https://www.legislation.gov.uk/uksi/2009/1584/schedule/2/paragraph/9/1/b) substituted (20.10.2010) by [The Food Irradiation (England) (Amendment) Regulations 2010 (S.I. 2010/2312)](https://www.legislation.gov.uk/uksi/2010/2312), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2312/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/2312/regulation/3)
 
-[^key-ad149b817dfdc570b63dd4bd12f9f754]: Textual amendment: Sch. 3 substituted (20.10.2010) by [The Food Irradiation (England) (Amendment) Regulations 2010 (S.I. 2010/2312)](https://www.legislation.gov.uk/uksi/2010/2312), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2312/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2312/schedule/1)
+[^c-ad149b817dfdc570b63dd4bd12f9f754]: Textual amendment: Sch. 3 substituted (20.10.2010) by [The Food Irradiation (England) (Amendment) Regulations 2010 (S.I. 2010/2312)](https://www.legislation.gov.uk/uksi/2010/2312), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2312/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2312/schedule/1)
 
-[^key-d954dd5a3d2c4179889136f0260b29eb]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1584/schedule/3) heading substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [5(3)(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/5/3/c)
+[^c-d954dd5a3d2c4179889136f0260b29eb]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1584/schedule/3) heading substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [5(3)(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/5/3/c)
 
-[^key-b73795a9d9f99b39ac6c66d65319ba45]: Textual amendment: Sch. 4 substituted (20.10.2010) by [The Food Irradiation (England) (Amendment) Regulations 2010 (S.I. 2010/2312)](https://www.legislation.gov.uk/uksi/2010/2312), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2312/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2312/schedule/2)
+[^c-b73795a9d9f99b39ac6c66d65319ba45]: Textual amendment: Sch. 4 substituted (20.10.2010) by [The Food Irradiation (England) (Amendment) Regulations 2010 (S.I. 2010/2312)](https://www.legislation.gov.uk/uksi/2010/2312), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2312/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2312/schedule/2)
 
 [^c19747291]: Marginal citation: Published on the Commission website via http://ec.europa.eu/food/food/biosafety/irradiation.comm\_legisl\_en.pdf. A hard copy may be obtained from the European Commission, Directorate General for Health and Consumers, B-1049 Brussels, Belgium.

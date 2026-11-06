@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Local authority applications for registration under Chapter 4[^key-6e24f861bb06c0b45b22601a7f187206][^key-f4b3282e459a91bb590eee1c86a535f4]
+## 83. Local authority applications for registration under Chapter 4[^c-6e24f861bb06c0b45b22601a7f187206][^c-f4b3282e459a91bb590eee1c86a535f4]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ must make an application to SCSWIS for registration of the service.
 
 ## Annotations
 
-[^key-6e24f861bb06c0b45b22601a7f187206]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2010/8/section/83) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-6e24f861bb06c0b45b22601a7f187206]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2010/8/section/83) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-f4b3282e459a91bb590eee1c86a535f4]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2010/8/section/83) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-f4b3282e459a91bb590eee1c86a535f4]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2010/8/section/83) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

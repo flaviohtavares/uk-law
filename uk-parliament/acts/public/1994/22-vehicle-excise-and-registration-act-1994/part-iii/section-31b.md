@@ -59,12 +59,12 @@ and a vehicle licence for the vehicle is taken out within the grace days for a p
 (9) In this section—
 
 - (a) references to the expiry of a vehicle licence include a reference to—
-  - (i) its [^key-5237d2571743d286da4e910ea7e11134]... ceasing to be in force under section 19(7)[^key-7dfb4dd3c051d2b1479056a46de6ea83], and
+  - (i) its [^c-5237d2571743d286da4e910ea7e11134]... ceasing to be in force under section 19(7)[^c-7dfb4dd3c051d2b1479056a46de6ea83], and
   - (ii) its being treated as no longer in force for the purposes of subsection (2) of section 31A by subsection (4) of that section;
 - (b) “**prescribed**” means prescribed by regulations made by the Secretary of State.
 
 ## Annotations
 
-[^key-5237d2571743d286da4e910ea7e11134]: Textual amendment: Words in s. 31B(9)(a)(i) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 11](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/11), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-5237d2571743d286da4e910ea7e11134]: Textual amendment: Words in s. 31B(9)(a)(i) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 11](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/11), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
 
-[^key-7dfb4dd3c051d2b1479056a46de6ea83]: Textual amendment: Words in s. 31B(9)(a)(i) inserted (1.1.2009) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 144(5)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/5/b)[(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/7)
+[^c-7dfb4dd3c051d2b1479056a46de6ea83]: Textual amendment: Words in s. 31B(9)(a)(i) inserted (1.1.2009) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 144(5)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/5/b)[(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/7)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Amount payable on death of deferred member or pensioner member (death out of service)[^key-6791610b78c755c0534492af49431f36]
+## 122. Amount payable on death of deferred member or pensioner member (death out of service)[^c-6791610b78c755c0534492af49431f36]
 
 *Extent: E+W+S+N.I.*
 
 (1) This regulation applies in relation to a continuous period of pensionable service under this scheme (“period of service”).
 
-(2) If the member is a transition member with continuity of service, the period of service includes the member’s period of pensionable service under a relevant[^key-49d7afdb5691f0c68cdb5a0a7c0ebd7b] scheme before the closing date.
+(2) If the member is a transition member with continuity of service, the period of service includes the member’s period of pensionable service under a relevant[^c-49d7afdb5691f0c68cdb5a0a7c0ebd7b] scheme before the closing date.
 
 (3) For the purpose of this regulation, a person dies out of service if the person—
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6791610b78c755c0534492af49431f36]: Commencement: [Reg. 122](https://www.legislation.gov.uk/uksi/2015/182/regulation/122) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-6791610b78c755c0534492af49431f36]: Commencement: [Reg. 122](https://www.legislation.gov.uk/uksi/2015/182/regulation/122) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
-[^key-49d7afdb5691f0c68cdb5a0a7c0ebd7b]: Textual amendment: Words in [reg. 122(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/122/2) substituted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2017/508/regulation/14)
+[^c-49d7afdb5691f0c68cdb5a0a7c0ebd7b]: Textual amendment: Words in [reg. 122(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/122/2) substituted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2017/508/regulation/14)
 
 [^f00043]: Footnote: Section 8(2) was amended by the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7) section 1(5) and the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) section 39(1) and (4).

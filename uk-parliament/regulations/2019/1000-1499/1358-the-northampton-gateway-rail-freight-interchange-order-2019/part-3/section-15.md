@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Classification of highways[^key-e343f800bcd8b6019c54700f07adee04]
+## 15. Classification of highways[^c-e343f800bcd8b6019c54700f07adee04]
 
 *Extent: E+W+S*
 
@@ -40,6 +40,6 @@ as if such classification had been made under sections 10(2)[^f00028] and 12(3) 
 
 ## Annotations
 
-[^key-e343f800bcd8b6019c54700f07adee04]: Commencement: Art. 15 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-e343f800bcd8b6019c54700f07adee04]: Commencement: Art. 15 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00028]: Footnote: Section 10(2) was amended by section 22(2)(a) of the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22).

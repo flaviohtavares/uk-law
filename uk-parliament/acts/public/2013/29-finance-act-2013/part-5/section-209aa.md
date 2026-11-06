@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209AA. Protective GAAR notices[^key-3a26120f6096ff74794f258d3689d28e]
+## 209AA. Protective GAAR notices[^c-3a26120f6096ff74794f258d3689d28e]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ the protective GAAR notice has effect for all purposes (other than the purposes 
 
 ## Annotations
 
-[^key-3a26120f6096ff74794f258d3689d28e]: Textual amendment: S. 209AA inserted (with effect in accordance with Sch. 14 paras. 11, 15 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2020/14/schedule/14/paragraph/3)
+[^c-3a26120f6096ff74794f258d3689d28e]: Textual amendment: S. 209AA inserted (with effect in accordance with Sch. 14 paras. 11, 15 of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2020/14/schedule/14/paragraph/3)

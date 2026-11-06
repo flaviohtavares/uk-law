@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Abandoned shopping and luggage trolleys[^key-99a9451c038bdcd60ca120e7300df7f4][^key-9c44a2714c062eabf1d3a78ec9567136]
+## 99. Abandoned shopping and luggage trolleys[^c-99a9451c038bdcd60ca120e7300df7f4][^c-9c44a2714c062eabf1d3a78ec9567136]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99a9451c038bdcd60ca120e7300df7f4]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2005/16/section/99) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-99a9451c038bdcd60ca120e7300df7f4]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2005/16/section/99) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-9c44a2714c062eabf1d3a78ec9567136]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2005/16/section/99) in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(r)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/r)
+[^c-9c44a2714c062eabf1d3a78ec9567136]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2005/16/section/99) in force at 27.10.2006 for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 2(r)](https://www.legislation.gov.uk/wsi/2006/2797/article/2/r)

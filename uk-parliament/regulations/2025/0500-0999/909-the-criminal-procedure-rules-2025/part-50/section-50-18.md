@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.18. Case management in the High Court[^key-d0aca1722de63d00d5a09e1cc0e51130]
+## 50.18. Case management in the High Court[^c-d0aca1722de63d00d5a09e1cc0e51130]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0aca1722de63d00d5a09e1cc0e51130]: Commencement: [Rule 50.18](https://www.legislation.gov.uk/uksi/2025/909/rule/50.18) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d0aca1722de63d00d5a09e1cc0e51130]: Commencement: [Rule 50.18](https://www.legislation.gov.uk/uksi/2025/909/rule/50.18) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

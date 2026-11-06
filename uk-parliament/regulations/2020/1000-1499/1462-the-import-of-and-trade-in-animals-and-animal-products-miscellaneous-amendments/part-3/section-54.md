@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Commission Regulation [(EC) No 119/2009](https://www.legislation.gov.uk/european/regulation/2009/0119) laying down a list of third countries or parts thereof, for imports into, or transit through, the Community of meat of wild leporidae, of certain wild land mammals and of farmed rabbits and the veterinary certification requirements[^key-424b271fa379dc13ed8869207b49d096]
+## 54. Commission Regulation [(EC) No 119/2009](https://www.legislation.gov.uk/european/regulation/2009/0119) laying down a list of third countries or parts thereof, for imports into, or transit through, the Community of meat of wild leporidae, of certain wild land mammals and of farmed rabbits and the veterinary certification requirements[^c-424b271fa379dc13ed8869207b49d096]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-424b271fa379dc13ed8869207b49d096]: Commencement: Reg. 54 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-424b271fa379dc13ed8869207b49d096]: Commencement: Reg. 54 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

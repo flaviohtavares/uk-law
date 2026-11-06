@@ -34,10 +34,10 @@ summary: ''
 
 (4) The provisions of this Article shall apply in relation to water which is supplied by a water undertaker whether or not the water is water which the undertaker is required to supply by virtue of any provision of this Order.
 
-(5) The duties of a water undertaker under this Article shall be enforceable under Article 30 by DOE[^key-15e0a7fa807d76d64454ffea8e3f1509] .
+(5) The duties of a water undertaker under this Article shall be enforceable under Article 30 by DOE[^c-15e0a7fa807d76d64454ffea8e3f1509] .
 
 ## Annotations
 
 [^c20596471]: Commencement: Art. 108 wholly in operation at 1.4.2007, see art. 1(2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-15e0a7fa807d76d64454ffea8e3f1509]: Textual amendment: Word in art. 108(5) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 19(6)](https://www.legislation.gov.uk/nia/2016/13/section/19/6), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(1) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))
+[^c-15e0a7fa807d76d64454ffea8e3f1509]: Textual amendment: Word in art. 108(5) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 19(6)](https://www.legislation.gov.uk/nia/2016/13/section/19/6), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(1) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))

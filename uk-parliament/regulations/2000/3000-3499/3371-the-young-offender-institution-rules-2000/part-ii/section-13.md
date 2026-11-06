@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Disclosure of material[^key-f7e7280a0ca912ef2d5664ddeaea79f3]
+## 13. Disclosure of material[^c-f7e7280a0ca912ef2d5664ddeaea79f3]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ any intercepted material, information retained pursuant to rule 12 or material o
 
 ## Annotations
 
-[^key-f7e7280a0ca912ef2d5664ddeaea79f3]: Textual amendment: [Rule 13](https://www.legislation.gov.uk/uksi/2000/3371/rule/13) substituted (7.12.2008) by [The Youth Justice Board for England and Wales (Amendment) Order 2008 (S.I. 2008/3155)](https://www.legislation.gov.uk/uksi/2008/3155), [arts. 1](https://www.legislation.gov.uk/uksi/2008/3155/article/1), [3](https://www.legislation.gov.uk/uksi/2008/3155/article/3)
+[^c-f7e7280a0ca912ef2d5664ddeaea79f3]: Textual amendment: [Rule 13](https://www.legislation.gov.uk/uksi/2000/3371/rule/13) substituted (7.12.2008) by [The Youth Justice Board for England and Wales (Amendment) Order 2008 (S.I. 2008/3155)](https://www.legislation.gov.uk/uksi/2008/3155), [arts. 1](https://www.legislation.gov.uk/uksi/2008/3155/article/1), [3](https://www.legislation.gov.uk/uksi/2008/3155/article/3)

@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The School Finance (England) (Amendment) Regulations 2010 (revoked)[^key-ac6e96c3aa13f80f664f5a0817320126]
+The School Finance (England) (Amendment) Regulations 2010 (revoked)[^c-ac6e96c3aa13f80f664f5a0817320126]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 8th March 2010
 
-[^key-ac6e96c3aa13f80f664f5a0817320126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac6e96c3aa13f80f664f5a0817320126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-ac6e96c3aa13f80f664f5a0817320126]
+## 1. Citation, commencement and application[^c-ac6e96c3aa13f80f664f5a0817320126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the School Finance (England) Regulations 2008[^key-ac6e96c3aa13f80f664f5a0817320126]
+## 2. Amendment of the School Finance (England) Regulations 2008[^c-ac6e96c3aa13f80f664f5a0817320126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ac6e96c3aa13f80f664f5a0817320126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ac6e96c3aa13f80f664f5a0817320126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ac6e96c3aa13f80f664f5a0817320126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ac6e96c3aa13f80f664f5a0817320126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ac6e96c3aa13f80f664f5a0817320126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ac6e96c3aa13f80f664f5a0817320126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ac6e96c3aa13f80f664f5a0817320126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ac6e96c3aa13f80f664f5a0817320126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ac6e96c3aa13f80f664f5a0817320126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ac6e96c3aa13f80f664f5a0817320126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-ac6e96c3aa13f80f664f5a0817320126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ac6e96c3aa13f80f664f5a0817320126] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ac6e96c3aa13f80f664f5a0817320126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac6e96c3aa13f80f664f5a0817320126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ac6e96c3aa13f80f664f5a0817320126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac6e96c3aa13f80f664f5a0817320126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ac6e96c3aa13f80f664f5a0817320126]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/210) revoked (15.3.2012) by [The School Finance (England) Regulations 2012 (S.I. 2012/335)](https://www.legislation.gov.uk/uksi/2012/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/335/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/335/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/335/regulation/1/2))
+[^c-ac6e96c3aa13f80f664f5a0817320126]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/210) revoked (15.3.2012) by [The School Finance (England) Regulations 2012 (S.I. 2012/335)](https://www.legislation.gov.uk/uksi/2012/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/335/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/335/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/335/regulation/1/2))

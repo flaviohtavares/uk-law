@@ -32,13 +32,13 @@ summary: ''
 
 *Extent: E+W*
 
-- (aa)[^key-9b925084e3efbe561ce45ff9a36fcd40] consultation about their proposal;
+- (aa)[^c-9b925084e3efbe561ce45ff9a36fcd40] consultation about their proposal;
 - (b) the form and manner in which notice is to be given; and
 - (c) the publication of notices.
 
 *Extent: E+W*
 
-(4A)[^key-1fbdf828f6aecd35451401ba37b50d47] Regulations under this section may make different provision for different purposes.
+(4A)[^c-1fbdf828f6aecd35451401ba37b50d47] Regulations under this section may make different provision for different purposes.
 
 (5) In giving any notice under this section a local authority shall comply with the regulations.
 
@@ -46,6 +46,6 @@ summary: ''
 
 [^c13551001]: Textual amendment: S. 35C inserted (5.7.1993 in relation to E.W. and otherwise 10.10.1997) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s.41](https://www.legislation.gov.uk/ukpga/1991/40/section/41); [S.I. 1993/1461](https://www.legislation.gov.uk/uksi/1993/1461), [art. 2(a)](https://www.legislation.gov.uk/uksi/1993/1461/article/2/a); [S.I. 1993/1686](https://www.legislation.gov.uk/uksi/1993/1686), [art.2](https://www.legislation.gov.uk/uksi/1993/1686/article/2).; [S.I. 1997/2260](https://www.legislation.gov.uk/uksi/1997/2260), [art. 2](https://www.legislation.gov.uk/uksi/1997/2260/article/2)
 
-[^key-9b925084e3efbe561ce45ff9a36fcd40]: Textual amendment: [S. 35C(4)(aa)](https://www.legislation.gov.uk/ukpga/1984/27/section/35C/4/aa) inserted (E.W.) (27.6.2017) by [Parking Places (Variation of Charges) Act 2017 (c. 11)](https://www.legislation.gov.uk/ukpga/2017/11), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2017/11/section/1/2), [3(1)](https://www.legislation.gov.uk/ukpga/2017/11/section/3/1) (with [s. 3(3)](https://www.legislation.gov.uk/ukpga/2017/11/section/3/3))
+[^c-9b925084e3efbe561ce45ff9a36fcd40]: Textual amendment: [S. 35C(4)(aa)](https://www.legislation.gov.uk/ukpga/1984/27/section/35C/4/aa) inserted (E.W.) (27.6.2017) by [Parking Places (Variation of Charges) Act 2017 (c. 11)](https://www.legislation.gov.uk/ukpga/2017/11), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2017/11/section/1/2), [3(1)](https://www.legislation.gov.uk/ukpga/2017/11/section/3/1) (with [s. 3(3)](https://www.legislation.gov.uk/ukpga/2017/11/section/3/3))
 
-[^key-1fbdf828f6aecd35451401ba37b50d47]: Textual amendment: [S. 35C(4A)](https://www.legislation.gov.uk/ukpga/1984/27/section/35C/4A) inserted (E.W.) (27.6.2017) by [Parking Places (Variation of Charges) Act 2017 (c. 11)](https://www.legislation.gov.uk/ukpga/2017/11), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2017/11/section/1/3), [3(1)](https://www.legislation.gov.uk/ukpga/2017/11/section/3/1) (with [s. 3(3)](https://www.legislation.gov.uk/ukpga/2017/11/section/3/3))
+[^c-1fbdf828f6aecd35451401ba37b50d47]: Textual amendment: [S. 35C(4A)](https://www.legislation.gov.uk/ukpga/1984/27/section/35C/4A) inserted (E.W.) (27.6.2017) by [Parking Places (Variation of Charges) Act 2017 (c. 11)](https://www.legislation.gov.uk/ukpga/2017/11), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2017/11/section/1/3), [3(1)](https://www.legislation.gov.uk/ukpga/2017/11/section/3/1) (with [s. 3(3)](https://www.legislation.gov.uk/ukpga/2017/11/section/3/3))

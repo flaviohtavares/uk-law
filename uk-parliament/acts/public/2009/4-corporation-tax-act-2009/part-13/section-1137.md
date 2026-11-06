@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies to a company if—
 
 - (a) it is not within the charge to corporation tax, and
-- (b) it incurs qualifying Chapter 2 expenditure [^key-5ad6abcecfe1363aef076a040531ddf7]... .
+- (b) it incurs qualifying Chapter 2 expenditure [^c-5ad6abcecfe1363aef076a040531ddf7]... .
 
 (2) For the purposes of this Part the company is treated as having the accounting periods it would have if—
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ad6abcecfe1363aef076a040531ddf7]: Textual amendment: Words in s. 1137(1)(b) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(8)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/8)
+[^c-5ad6abcecfe1363aef076a040531ddf7]: Textual amendment: Words in s. 1137(1)(b) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(8)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/8)

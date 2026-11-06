@@ -48,17 +48,17 @@ In accordance with section 97(2) of that Act, the Scottish Ministers have inform
 
 ## PART 1 — Introductory and interpretation
 
-### 1. Citation and commencement[^key-2dc6cee9a701c81cef19f7470e40e898]
+### 1. Citation and commencement[^c-2dc6cee9a701c81cef19f7470e40e898]
 
 These Regulations may be cited as the Winter Heating Assistance (Pension Age) (Scotland) Regulations 2024 and come into force on 20 November 2024.
 
-### 2. Interpretation[^key-1cf92c40b1427b8f845bdc9b4174a0bd]
+### 2. Interpretation[^c-1cf92c40b1427b8f845bdc9b4174a0bd]
 
 In these Regulations—
 
 - “**the 2018 Act**” means the Social Security (Scotland) Act 2018,
 - “**care home**” means an establishment which provides a care home service as defined in paragraph 2 of schedule 12 of the Public Services Reform (Scotland) Act 2010,
-- [^key-68ac81daa02509f827b43df45d479767]...
+- [^c-68ac81daa02509f827b43df45d479767]...
 - “**couple**” means two people who are—
   - (a) married to, or civil partners of, each other and are members of the same household, or
   - (b) not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners,
@@ -80,19 +80,19 @@ In these Regulations—
   - (c) income-related employment and support allowance,
   - (d) income support,
   - (e) universal credit,
-  - (f) [^key-0ac1274e21bab84f83382ecf0ea21a57]...
-- “[^key-2e52c0b928d106a329506f11414959a6]**residential care**” means, disregarding any period of temporary absence, a care home or an independent hospital where the individual has lived in a care home or independent hospital throughout the qualifying week and for the 12 weeks immediately preceding the qualifying week,
+  - (f) [^c-0ac1274e21bab84f83382ecf0ea21a57]...
+- “[^c-2e52c0b928d106a329506f11414959a6]**residential care**” means, disregarding any period of temporary absence, a care home or an independent hospital where the individual has lived in a care home or independent hospital throughout the qualifying week and for the 12 weeks immediately preceding the qualifying week,
 - “**state pension credit**” has the meaning set out in section 1 of the State Pension Credit Act 2002 (entitlement)[^f00010],
 - “**universal credit**” means universal credit under Part 1 of the Welfare Reform Act 2012 (universal credit)[^f00011],
-- [^key-4b03dc7186a45f63b5f6c49e9a081e50]...
+- [^c-4b03dc7186a45f63b5f6c49e9a081e50]...
 
-### 2A. Entitlement to a relevant benefit where the individual is a member of a couple or polygamous marriage[^key-b03319c926da958ab23cbd79af84a577]
+### 2A. Entitlement to a relevant benefit where the individual is a member of a couple or polygamous marriage[^c-b03319c926da958ab23cbd79af84a577]
 
 In these Regulations, an individual is to be treated as if they were entitled to a relevant benefit where the individual is a member of a couple or polygamous marriage and the other member of that couple or another member of that marriage is entitled to a relevant benefit.
 
 ## PART 2 — Pension Age Winter Heating Payment
 
-### 3. Overview[^key-b6752e3889db4d243f86d303600e96e0]
+### 3. Overview[^c-b6752e3889db4d243f86d303600e96e0]
 
 (1) Regulations 4 to 9 provide for eligibility rules for determining entitlement to Pension Age Winter Heating Payment.
 
@@ -100,7 +100,7 @@ In these Regulations, an individual is to be treated as if they were entitled to
 
 (3) Regulations 15 and 16 make provision about the Pension Age Winter Heating Payment that is to be given to individuals who are eligible for assistance.
 
-### 4. Effect of award of another benefit[^key-20e2faed46e23f6d1629cf3e876568f7]
+### 4. Effect of award of another benefit[^c-20e2faed46e23f6d1629cf3e876568f7]
 
 (1) An individual is not entitled to a Pension Age Winter Heating Payment under these Regulations if the individual has been awarded a winter fuel payment under—
 
@@ -113,24 +113,24 @@ in respect of the qualifying week.
 
 ## PART 3 — Eligibility rules for Pension Age Winter Heating Payment
 
-### 5. Eligibility rules[^key-8074c0f89954ac9a7a95b8e51ab27bf8]
+### 5. Eligibility rules[^c-8074c0f89954ac9a7a95b8e51ab27bf8]
 
 An individual is entitled to be paid Pension Age Winter Heating Payment in respect of a qualifying week if the individual—
 
-- (a)[^key-0aae63a8fb25dbcbe8edc80ccd0ed540] meets—
+- (a)[^c-0aae63a8fb25dbcbe8edc80ccd0ed540] meets—
   - (i) the age condition in regulation 6, and
   - (ii) the residence condition in regulation 8, and
 - (b) is not an individual who is not entitled to Pension Age Winter Heating Payment by virtue of regulation 9.
 
-### 6. Age condition[^key-009ee3b3548e9032b4778892a34be0f9]
+### 6. Age condition[^c-009ee3b3548e9032b4778892a34be0f9]
 
 The condition is that the individual has reached pensionable age before or on a day in the qualifying week.
 
-### 7. Relevant benefit condition[^key-9b16209d2cb8fe0f2349faa635de0e6e][^key-2c4f303e27a6244d99417f08bb448e3b]
+### 7. Relevant benefit condition[^c-9b16209d2cb8fe0f2349faa635de0e6e][^c-2c4f303e27a6244d99417f08bb448e3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Residence condition[^key-ba462dd4a7aa8ebe99b1faea18feaa49][^key-edc905aecf3495b0c90fe3ca3e9d7e44]
+### 8. Residence condition[^c-ba462dd4a7aa8ebe99b1faea18feaa49][^c-edc905aecf3495b0c90fe3ca3e9d7e44]
 
 (1)  An individual satisfies the residence condition where that individual meets the condition in paragraph (2).
 
@@ -150,7 +150,7 @@ The condition is that the individual has reached pensionable age before or on a 
 
 (5) In this regulation “**immigration rules**” means the rules laid before the United Kingdom Parliament under section 3(2) of the Immigration Act 1971.
 
-### 9. Individuals not entitled to Pension Age Winter Heating Payment[^key-c82f103ec4318660648f0f4f9b0dfcda][^key-86a44278d32472f8bd97d516ae4f37e4]
+### 9. Individuals not entitled to Pension Age Winter Heating Payment[^c-c82f103ec4318660648f0f4f9b0dfcda][^c-86a44278d32472f8bd97d516ae4f37e4]
 
 An individual is not entitled to Pension Age Winter Heating Payment where they are—
 
@@ -159,7 +159,7 @@ An individual is not entitled to Pension Age Winter Heating Payment where they a
 - (c) an individual who is entitled to a relevant benefit throughout the qualifying week and is in residential care,
 - (d) one member of a couple or polygamous marriage who is entitled to a relevant benefit throughout the qualifying week where Pension Age Winter Heating Payment, or a winter fuel payment under legislation mentioned in regulation 4(1)(a) or (b), has been paid in respect of the qualifying week to the other member of that couple or another member of that marriage, respectively.
 
-## Part 3A — Opt-out requests and opt-in requests[^key-2ee366be7bf684bf519743f81d9f39f6]
+## Part 3A — Opt-out requests and opt-in requests[^c-2ee366be7bf684bf519743f81d9f39f6]
 
 ### 9A. Request to opt out of payment of Pension Age Winter Heating Payment
 
@@ -189,7 +189,7 @@ An individual is not entitled to Pension Age Winter Heating Payment where they a
 
 ## PART 4 — Amount of Pension Age Winter Heating Payment
 
-### 10. Amount of Pension Age Winter Heating Payment[^key-e47779a6141169ba0c5c72ed2091dfc6][^key-8b232f9960cd8073e850a5ae75797c28]
+### 10. Amount of Pension Age Winter Heating Payment[^c-e47779a6141169ba0c5c72ed2091dfc6][^c-8b232f9960cd8073e850a5ae75797c28]
 
 (1) The amount of Pension Age Winter Heating Payment payable to an entitled individual is decided in accordance with this regulation.
 
@@ -202,35 +202,35 @@ An individual is not entitled to Pension Age Winter Heating Payment where they a
 
 (4) The amount payable is—
 
-- (a) £316.70[^key-1001912dc1b2e3629cd960b3d803497c], if the individual—
+- (a) £316.70[^c-1001912dc1b2e3629cd960b3d803497c], if the individual—
   - (i) has reached the age of 80 in or before the qualifying week, or
   - (ii) is a member of a couple or a polygamous marriage in which the other member of the couple or another member of that marriage has reached that age in or before that week,
-- (b) £211.15[^key-16954617e5f0be04b5bb1b8b221b2f7a], in any other case.
+- (b) £211.15[^c-16954617e5f0be04b5bb1b8b221b2f7a], in any other case.
 
 (5) The amount payable is—
 
-- (a) £211.15[^key-02dd8286e7361b72556fd4824b5b402c], if the individual does not live with any other entitled individual,
-- (b) £105.55[^key-ff86f87d626aafe89184e8c427db4040], if the individual—
+- (a) £211.15[^c-02dd8286e7361b72556fd4824b5b402c], if the individual does not live with any other entitled individual,
+- (b) £105.55[^c-ff86f87d626aafe89184e8c427db4040], if the individual—
   - (i) lives with any other entitled individual, or
   - (ii) is in residential care.
 
 (6) The amount payable is—
 
-- (a) £316.70[^key-eb95f91e99853b852fcc2a5192d6c164], if the individual does not live with any other entitled individual,
-- (b) £211.15[^key-f570feceb4970a826db347ec97989f04], if the individual lives with any other entitled individual who has not reached the age of 80 in or before the qualifying week,
-- (c) £158.35[^key-7dda2e5d81a1010dfac5278a066f821d], if the individual—
+- (a) £316.70[^c-eb95f91e99853b852fcc2a5192d6c164], if the individual does not live with any other entitled individual,
+- (b) £211.15[^c-f570feceb4970a826db347ec97989f04], if the individual lives with any other entitled individual who has not reached the age of 80 in or before the qualifying week,
+- (c) £158.35[^c-7dda2e5d81a1010dfac5278a066f821d], if the individual—
   - (i) lives with any other entitled individual who has reached the age of 80 in or before the qualifying week, or
   - (ii) is in residential care.
 
 (7) Where paragraph (5) or (6) applies, the amount payable is to be decided by reference to which sub-paragraph applies on the last day of the qualifying week.
 
-(8)[^key-dd59fccb9739a91451408113f95eb584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-dd59fccb9739a91451408113f95eb584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In this regulation and regulation 11A, “**lives with**” means, disregarding any period of temporary absence, two or more people who share accommodation as their mutual home and they are not in residential care, and cognate expressions are to be construed accordingly.
 
 ## PART 5 — Determination of entitlement to Pension Age Winter Heating Payment without application
 
-### 11. Determination of entitlement to Pension Age Winter Heating Payment without receiving an application[^key-b36064edf1621e3a06ba91260ed9bb73]
+### 11. Determination of entitlement to Pension Age Winter Heating Payment without receiving an application[^c-b36064edf1621e3a06ba91260ed9bb73]
 
 (1) The Scottish Ministers must, without receiving an application, make a determination of an individual’s entitlement to Pension Age Winter Heating Payment where it appears to the Scottish Ministers from information available to them that the individual is likely to meet the eligibility rules in regulations 4 to 9.
 
@@ -239,7 +239,7 @@ An individual is not entitled to Pension Age Winter Heating Payment where they a
 - (a) until 1 April following the qualifying week, or
 - (b) on and after 1 April following the qualifying week where an individual becomes entitled to a relevant benefit in respect of the qualifying week by virtue of a decision made after that week.
 
-### 11A. Determination of entitlement to Pension Age Winter Heating Payment without receiving an application following previous award for the same qualifying week[^key-99f5c00606c50ae3551d293cabc2ee9c]
+### 11A. Determination of entitlement to Pension Age Winter Heating Payment without receiving an application following previous award for the same qualifying week[^c-99f5c00606c50ae3551d293cabc2ee9c]
 
 (1) The Scottish Ministers must, without receiving an application, make a determination of an individual’s entitlement to Pension Age Winter Heating Payment where—
 
@@ -252,7 +252,7 @@ An individual is not entitled to Pension Age Winter Heating Payment where they a
 
 (2) Paragraph (1) does not apply where, on the last day of the qualifying week, the individual lived with the other entitled individual as a couple or as members of a polygamous marriage.
 
-### 12. Determination following official error – underpayments[^key-94c305dee5833a4d11b28681007e45fb]
+### 12. Determination following official error – underpayments[^c-94c305dee5833a4d11b28681007e45fb]
 
 (1) The Scottish Ministers must make a determination of an individual’s entitlement to Pension Age Winter Heating Payment without receiving an application where they—
 
@@ -265,7 +265,7 @@ An individual is not entitled to Pension Age Winter Heating Payment where they a
 
 (2) In this regulation, “**official error**” means an error made by someone acting on behalf of the Scottish Ministers or on behalf of a Minister of the Crown that was not materially contributed to by anyone else.
 
-### 13. Determination following error – overpayments[^key-216490ff964ddacd1f636aa4794054f9]
+### 13. Determination following error – overpayments[^c-216490ff964ddacd1f636aa4794054f9]
 
 (1) The Scottish Ministers must make a determination of an individual’s entitlement to Pension Age Winter Heating Payment without receiving an application where they—
 
@@ -283,7 +283,7 @@ An individual is not entitled to Pension Age Winter Heating Payment where they a
     - (bb) an assumption which proves to be wrong, or
 - (b) a new determination not being made after an assumption on the basis of which an earlier determination was made has proved to be wrong.
 
-### 13A. Determination without application following opt-in request[^key-f3a2e7b6c3878601e3555e1c0019e185]
+### 13A. Determination without application following opt-in request[^c-f3a2e7b6c3878601e3555e1c0019e185]
 
 The Scottish Ministers must, without receiving an application, make a determination of an individual’s entitlement to Pension Age Winter Heating Payment in respect of the immediately preceding qualifying week where—
 
@@ -300,9 +300,9 @@ The Scottish Ministers must, without receiving an application, make a determinat
 
 ## PART 6 — Periods in respect of a re-determination request
 
-### 14. Periods in respect of a re-determination request[^key-ae4f152f735865ed8928d994b428eba9]
+### 14. Periods in respect of a re-determination request[^c-ae4f152f735865ed8928d994b428eba9]
 
-(1) The period for requesting a re-determination of entitlement to Pension Age Winter Heating Payment under section 41 of the 2018 Act (right to request re-determination) is 42[^key-77aec3a7e0a9f6bb26d63512442a64ac] days beginning with the day that the individual is informed, in accordance with section 40 of that Act (notice of determination), of the right to make the request.
+(1) The period for requesting a re-determination of entitlement to Pension Age Winter Heating Payment under section 41 of the 2018 Act (right to request re-determination) is 42[^c-77aec3a7e0a9f6bb26d63512442a64ac] days beginning with the day that the individual is informed, in accordance with section 40 of that Act (notice of determination), of the right to make the request.
 
 (2) In relation to determining entitlement to Pension Age Winter Heating Payment, the period allowed for re-determination (within the meaning of section 43 of the 2018 Act (duty to re-determine)) is 56 days beginning with—
 
@@ -310,17 +310,17 @@ The Scottish Ministers must, without receiving an application, make a determinat
 - (b) where the request for a re-determination is received by the Scottish Ministers later than the period prescribed by paragraph (1), the day on which the Scottish Ministers, or, on appeal, the First-tier Tribunal for Scotland, decide that the individual in question has a good reason for not requesting the re-determination sooner, or
 - (c) where the Scottish Ministers have informed the individual of their decision that the request for re-determination was not made in such form as the Scottish Ministers require, the day on which it is subsequently decided by the First-tier Tribunal for Scotland that the individual in question has made the request in such form as the Scottish Ministers require.
 
-## PART 7 — Payments and making of applications[^key-3015c4da1eea19d665b9112154720bd9]
+## PART 7 — Payments and making of applications[^c-3015c4da1eea19d665b9112154720bd9]
 
-### 15. Form of Pension Age Winter Heating Payment[^key-9fd541597606cdb4f853bfd4918bb4ca]
+### 15. Form of Pension Age Winter Heating Payment[^c-9fd541597606cdb4f853bfd4918bb4ca]
 
 Pension Age Winter Heating Payment is to be given in the form of money in a single payment in respect of the winter following the qualifying week.
 
-### 16. Making payments[^key-23361e6d43db553cff0d9fd2c9de3d3d]
+### 16. Making payments[^c-23361e6d43db553cff0d9fd2c9de3d3d]
 
 Where Pension Age Winter Heating Payment is payable in respect of an individual, the Scottish Ministers may, where they consider appropriate, make the payment to another person to be used for the benefit of the individual.
 
-### 16A. Calculation of payments[^key-18cea4139ffee5cde983998c1f000c3f]
+### 16A. Calculation of payments[^c-18cea4139ffee5cde983998c1f000c3f]
 
 Where, under a determination, an individual has previously received an amount of Pension Age Winter Heating Payment in accordance with regulation 10 in respect of a qualifying week and a determination without application under Part 5 has subsequently been made that the same individual is entitled to Pension Age Winter Heating Payment at a higher amount in accordance with regulation 10 for that qualifying week, that individual will be entitled to the difference between the amount of Pension Age Winter Heating Payment payable under the subsequent determination and the amount of Pension Age Winter Heating Payment which that individual previously received in respect of that qualifying week.
 
@@ -339,7 +339,7 @@ Where, under a determination, an individual has previously received an amount of
 
 ## PART 8 — Expiry
 
-### 17. Expiry[^key-c3c558448e71db6eb3daaa77139c7fad][^key-9c9f54b5527d57bd2a49410f4c968668]
+### 17. Expiry[^c-c3c558448e71db6eb3daaa77139c7fad][^c-9c9f54b5527d57bd2a49410f4c968668]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -353,7 +353,7 @@ Edinburgh
 
 19th November 2024
 
-## SCHEDULE — Countries[^key-c2fc9bbb14ee6ddce8f853b247990820]
+## SCHEDULE — Countries[^c-c2fc9bbb14ee6ddce8f853b247990820]
 
 **No longer in force.**
 
@@ -385,11 +385,11 @@ Part 8 provides for the expiry, on 1 April 2025, of provisions giving entitlemen
 
 [^f00001]: Footnote: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9) (“**the 2018 Act**”). Schedule 4 of the 2018 Act makes provision about the exercise of powers under section 30. Section 41 was amended by paragraph 2 of schedule 7 of the Coronavirus (Scotland) Act [2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7). The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). The Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-2dc6cee9a701c81cef19f7470e40e898]: Commencement: Reg. 1 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-2dc6cee9a701c81cef19f7470e40e898]: Commencement: Reg. 1 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-1cf92c40b1427b8f845bdc9b4174a0bd]: Commencement: Reg. 2 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-1cf92c40b1427b8f845bdc9b4174a0bd]: Commencement: Reg. 2 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-68ac81daa02509f827b43df45d479767]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2024/351/regulation/2) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/ssi/2025/195/regulation/9/2/a)
+[^c-68ac81daa02509f827b43df45d479767]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2024/351/regulation/2) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/ssi/2025/195/regulation/9/2/a)
 
 [^f00004]: Footnote: [S.I. 2005/3360](https://www.legislation.gov.uk/uksi/2005/3360).
 
@@ -403,90 +403,90 @@ Part 8 provides for the expiry, on 1 April 2025, of provisions giving entitlemen
 
 [^f00009]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26). Paragraph 1 of schedule 4 was amended by paragraph 39 of schedule 2 of the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), paragraph 13 of schedule 3 of the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), paragraph 4 of schedule 3 of the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), section 1 of the Pensions Act [2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19) and section 26 and paragraph 30 of schedule 12 of the Pensions Act [2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19).
 
-[^key-0ac1274e21bab84f83382ecf0ea21a57]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2024/351/regulation/2) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/ssi/2025/195/regulation/9/2/b)
+[^c-0ac1274e21bab84f83382ecf0ea21a57]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2024/351/regulation/2) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/ssi/2025/195/regulation/9/2/b)
 
-[^key-2e52c0b928d106a329506f11414959a6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2024/351/regulation/2) inserted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2025/282/regulation/3) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
+[^c-2e52c0b928d106a329506f11414959a6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2024/351/regulation/2) inserted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2025/282/regulation/3) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
 
 [^f00010]: Footnote: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16).
 
 [^f00011]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-4b03dc7186a45f63b5f6c49e9a081e50]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2024/351/regulation/2) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/ssi/2025/195/regulation/9/2/c)
+[^c-4b03dc7186a45f63b5f6c49e9a081e50]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2024/351/regulation/2) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [9(2)(c)](https://www.legislation.gov.uk/ssi/2025/195/regulation/9/2/c)
 
-[^key-b03319c926da958ab23cbd79af84a577]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/ssi/2024/351/regulation/2A) inserted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/2) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
+[^c-b03319c926da958ab23cbd79af84a577]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/ssi/2024/351/regulation/2A) inserted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/2) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
 
-[^key-b6752e3889db4d243f86d303600e96e0]: Commencement: Reg. 3 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-b6752e3889db4d243f86d303600e96e0]: Commencement: Reg. 3 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-20e2faed46e23f6d1629cf3e876568f7]: Commencement: Reg. 4 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-20e2faed46e23f6d1629cf3e876568f7]: Commencement: Reg. 4 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
 [^f00012]: Footnote: [S.I. 2024/869](https://www.legislation.gov.uk/uksi/2024/869).
 
 [^f00013]: Footnote: [S.R. 2024 No. 160](https://www.legislation.gov.uk/nisr/2024/160).
 
-[^key-8074c0f89954ac9a7a95b8e51ab27bf8]: Commencement: Reg. 5 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-8074c0f89954ac9a7a95b8e51ab27bf8]: Commencement: Reg. 5 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-0aae63a8fb25dbcbe8edc80ccd0ed540]: Textual amendment: [Reg. 5(a)](https://www.legislation.gov.uk/ssi/2024/351/regulation/5/a) substituted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2025/282/regulation/4) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
+[^c-0aae63a8fb25dbcbe8edc80ccd0ed540]: Textual amendment: [Reg. 5(a)](https://www.legislation.gov.uk/ssi/2024/351/regulation/5/a) substituted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2025/282/regulation/4) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
 
-[^key-009ee3b3548e9032b4778892a34be0f9]: Commencement: Reg. 6 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-009ee3b3548e9032b4778892a34be0f9]: Commencement: Reg. 6 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-9b16209d2cb8fe0f2349faa635de0e6e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2024/351/regulation/7) omitted (11.10.2025) by virtue of [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2025/282/regulation/5) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
+[^c-9b16209d2cb8fe0f2349faa635de0e6e]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2024/351/regulation/7) omitted (11.10.2025) by virtue of [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2025/282/regulation/5) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
 
-[^key-2c4f303e27a6244d99417f08bb448e3b]: Commencement: Reg. 7 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-2c4f303e27a6244d99417f08bb448e3b]: Commencement: Reg. 7 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-ba462dd4a7aa8ebe99b1faea18feaa49]: Commencement: Reg. 8 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-ba462dd4a7aa8ebe99b1faea18feaa49]: Commencement: Reg. 8 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-edc905aecf3495b0c90fe3ca3e9d7e44]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2024/351/regulation/8) substituted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2025/282/regulation/6) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
+[^c-edc905aecf3495b0c90fe3ca3e9d7e44]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/ssi/2024/351/regulation/8) substituted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2025/282/regulation/6) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
 
-[^key-c82f103ec4318660648f0f4f9b0dfcda]: Commencement: Reg. 9 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-c82f103ec4318660648f0f4f9b0dfcda]: Commencement: Reg. 9 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-86a44278d32472f8bd97d516ae4f37e4]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2024/351/regulation/9) substituted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/282/regulation/7) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
+[^c-86a44278d32472f8bd97d516ae4f37e4]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2024/351/regulation/9) substituted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/282/regulation/7) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
 
-[^key-2ee366be7bf684bf519743f81d9f39f6]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/ssi/2024/351/part/3A) inserted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2025/282/regulation/8) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
+[^c-2ee366be7bf684bf519743f81d9f39f6]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/ssi/2024/351/part/3A) inserted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2025/282/regulation/8) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
 
-[^key-e47779a6141169ba0c5c72ed2091dfc6]: Commencement: Reg. 10 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-e47779a6141169ba0c5c72ed2091dfc6]: Commencement: Reg. 10 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-8b232f9960cd8073e850a5ae75797c28]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/ssi/2024/351/regulation/10) substituted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2025/282/regulation/9) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
+[^c-8b232f9960cd8073e850a5ae75797c28]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/ssi/2024/351/regulation/10) substituted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2025/282/regulation/9) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
 
-[^key-1001912dc1b2e3629cd960b3d803497c]: Textual amendment: Sum in reg. 10(4)(a) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(a)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/a) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
+[^c-1001912dc1b2e3629cd960b3d803497c]: Textual amendment: Sum in reg. 10(4)(a) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(a)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/a) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
 
-[^key-16954617e5f0be04b5bb1b8b221b2f7a]: Textual amendment: Sum in reg. 10(4)(b) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(b)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/b) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
+[^c-16954617e5f0be04b5bb1b8b221b2f7a]: Textual amendment: Sum in reg. 10(4)(b) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(b)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/b) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
 
-[^key-02dd8286e7361b72556fd4824b5b402c]: Textual amendment: Sum in reg. 10(5)(a) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(c)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/c) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
+[^c-02dd8286e7361b72556fd4824b5b402c]: Textual amendment: Sum in reg. 10(5)(a) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(c)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/c) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
 
-[^key-ff86f87d626aafe89184e8c427db4040]: Textual amendment: Sum in reg. 10(5)(b) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(d)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/d) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
+[^c-ff86f87d626aafe89184e8c427db4040]: Textual amendment: Sum in reg. 10(5)(b) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(d)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/d) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
 
-[^key-eb95f91e99853b852fcc2a5192d6c164]: Textual amendment: Sum in reg. 10(6)(a) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(e)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/e) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
+[^c-eb95f91e99853b852fcc2a5192d6c164]: Textual amendment: Sum in reg. 10(6)(a) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(e)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/e) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
 
-[^key-f570feceb4970a826db347ec97989f04]: Textual amendment: Sum in reg. 10(6)(b) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(f)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/f) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
+[^c-f570feceb4970a826db347ec97989f04]: Textual amendment: Sum in reg. 10(6)(b) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(f)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/f) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
 
-[^key-7dda2e5d81a1010dfac5278a066f821d]: Textual amendment: Sum in reg. 10(6)(c) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(g)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/g) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
+[^c-7dda2e5d81a1010dfac5278a066f821d]: Textual amendment: Sum in reg. 10(6)(c) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(g)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/g) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
 
-[^key-dd59fccb9739a91451408113f95eb584]: Textual amendment: [Reg. 10(8)](https://www.legislation.gov.uk/ssi/2024/351/regulation/10/8) omitted (1.4.2026) by virtue of [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(h)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/h) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
+[^c-dd59fccb9739a91451408113f95eb584]: Textual amendment: [Reg. 10(8)](https://www.legislation.gov.uk/ssi/2024/351/regulation/10/8) omitted (1.4.2026) by virtue of [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [15(3)(h)](https://www.legislation.gov.uk/ssi/2026/170/regulation/15/3/h) (with [sch. para. 13](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/13))
 
-[^key-b36064edf1621e3a06ba91260ed9bb73]: Commencement: Reg. 11 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-b36064edf1621e3a06ba91260ed9bb73]: Commencement: Reg. 11 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-99f5c00606c50ae3551d293cabc2ee9c]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/ssi/2024/351/regulation/11A) inserted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2025/282/regulation/10) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
+[^c-99f5c00606c50ae3551d293cabc2ee9c]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/ssi/2024/351/regulation/11A) inserted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2025/282/regulation/10) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
 
-[^key-94c305dee5833a4d11b28681007e45fb]: Commencement: Reg. 12 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-94c305dee5833a4d11b28681007e45fb]: Commencement: Reg. 12 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-216490ff964ddacd1f636aa4794054f9]: Commencement: Reg. 13 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-216490ff964ddacd1f636aa4794054f9]: Commencement: Reg. 13 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-f3a2e7b6c3878601e3555e1c0019e185]: Textual amendment: [Regs. 13A](https://www.legislation.gov.uk/ssi/2024/351/regulation/13A), [13B](https://www.legislation.gov.uk/ssi/2024/351/regulation/13B) inserted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [11](https://www.legislation.gov.uk/ssi/2025/282/regulation/11) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
+[^c-f3a2e7b6c3878601e3555e1c0019e185]: Textual amendment: [Regs. 13A](https://www.legislation.gov.uk/ssi/2024/351/regulation/13A), [13B](https://www.legislation.gov.uk/ssi/2024/351/regulation/13B) inserted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [11](https://www.legislation.gov.uk/ssi/2025/282/regulation/11) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
 
-[^key-ae4f152f735865ed8928d994b428eba9]: Commencement: Reg. 14 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-ae4f152f735865ed8928d994b428eba9]: Commencement: Reg. 14 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-77aec3a7e0a9f6bb26d63512442a64ac]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/ssi/2024/351/regulation/14/1) substituted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2025/282/regulation/12) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
+[^c-77aec3a7e0a9f6bb26d63512442a64ac]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/ssi/2024/351/regulation/14/1) substituted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2025/282/regulation/12) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
 
-[^key-3015c4da1eea19d665b9112154720bd9]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/ssi/2024/351/part/7) heading substituted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [13](https://www.legislation.gov.uk/ssi/2025/282/regulation/13) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
+[^c-3015c4da1eea19d665b9112154720bd9]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/ssi/2024/351/part/7) heading substituted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [13](https://www.legislation.gov.uk/ssi/2025/282/regulation/13) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
 
-[^key-9fd541597606cdb4f853bfd4918bb4ca]: Commencement: Reg. 15 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-9fd541597606cdb4f853bfd4918bb4ca]: Commencement: Reg. 15 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-23361e6d43db553cff0d9fd2c9de3d3d]: Commencement: Reg. 16 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-23361e6d43db553cff0d9fd2c9de3d3d]: Commencement: Reg. 16 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-18cea4139ffee5cde983998c1f000c3f]: Textual amendment: [Regs. 16A](https://www.legislation.gov.uk/ssi/2024/351/regulation/16A), [16B](https://www.legislation.gov.uk/ssi/2024/351/regulation/16B) inserted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [14](https://www.legislation.gov.uk/ssi/2025/282/regulation/14) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
+[^c-18cea4139ffee5cde983998c1f000c3f]: Textual amendment: [Regs. 16A](https://www.legislation.gov.uk/ssi/2024/351/regulation/16A), [16B](https://www.legislation.gov.uk/ssi/2024/351/regulation/16B) inserted (11.10.2025) by [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [14](https://www.legislation.gov.uk/ssi/2025/282/regulation/14) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
 
-[^key-c3c558448e71db6eb3daaa77139c7fad]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/ssi/2024/351/part/8) omitted (11.10.2025) by virtue of [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [15](https://www.legislation.gov.uk/ssi/2025/282/regulation/15) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
+[^c-c3c558448e71db6eb3daaa77139c7fad]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/ssi/2024/351/part/8) omitted (11.10.2025) by virtue of [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [15](https://www.legislation.gov.uk/ssi/2025/282/regulation/15) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
 
-[^key-9c9f54b5527d57bd2a49410f4c968668]: Commencement: Reg. 17 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
+[^c-9c9f54b5527d57bd2a49410f4c968668]: Commencement: Reg. 17 in force at 20.11.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/351/regulation/1)
 
-[^key-c2fc9bbb14ee6ddce8f853b247990820]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2024/351/schedule) omitted (11.10.2025) by virtue of [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [16](https://www.legislation.gov.uk/ssi/2025/282/regulation/16) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))
+[^c-c2fc9bbb14ee6ddce8f853b247990820]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2024/351/schedule) omitted (11.10.2025) by virtue of [The Winter Heating Assistance (Pension Age) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/282)](https://www.legislation.gov.uk/ssi/2025/282), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/282/regulation/1/1), [16](https://www.legislation.gov.uk/ssi/2025/282/regulation/16) (with [reg. 17](https://www.legislation.gov.uk/ssi/2025/282/regulation/17))

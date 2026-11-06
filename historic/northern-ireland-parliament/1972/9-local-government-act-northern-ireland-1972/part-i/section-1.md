@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) For every local government district established in pursuance of section 1 of the Local Government (Boundaries) Act (Northern Ireland) 2008[^key-223c54148e58dcbca95402ee81fa3ebd] or the succeeding provisions of this Act there shall be a district council which—
+(1) For every local government district established in pursuance of section 1 of the Local Government (Boundaries) Act (Northern Ireland) 2008[^c-223c54148e58dcbca95402ee81fa3ebd] or the succeeding provisions of this Act there shall be a district council which—
 
 - (a) shall consist of members—
   - (i)[^c16961871] elected by the local electors (within the meaning of section 130(1) of the Electoral Law Act (Northern Ireland) 1962) in each district electoral area in the district in accordance with the provisions of the Electoral Law Acts (Northern Ireland) 1962 to 1971 and the provisions of the Local Elections (Northern Ireland) Order 1985;
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-223c54148e58dcbca95402ee81fa3ebd]: Textual amendment: Words in s. 1(1) substituted (3.10.2013 for specified purposes, 26.5.2014 for further specified purposes, 1.4.2015 for remaining purposes and with effect in accordance with art. 4(1) of the commencing Rule) by [Local Government (Boundaries) Act (Northern Ireland) 2008 (c. 7)](https://www.legislation.gov.uk/nia/2008/7), [ss. 3(1)](https://www.legislation.gov.uk/nia/2008/7/section/3/1), [5(3)](https://www.legislation.gov.uk/nia/2008/7/section/5/3); [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [arts. 2](https://www.legislation.gov.uk/nisr/2013/238/article/2), [3(1)](https://www.legislation.gov.uk/nisr/2013/238/article/3/1), [4(1)](https://www.legislation.gov.uk/nisr/2013/238/article/4/1), [5(1)](https://www.legislation.gov.uk/nisr/2013/238/article/5/1) (with [arts. 3(2)](https://www.legislation.gov.uk/nisr/2013/238/article/3/2), [4(2)](https://www.legislation.gov.uk/nisr/2013/238/article/4/2), [5(2)-(4) (as amended (31.3.2015) by S.R. 2015/210, art. 2)](https://www.legislation.gov.uk/nisr/2013/238/article/5/2))
+[^c-223c54148e58dcbca95402ee81fa3ebd]: Textual amendment: Words in s. 1(1) substituted (3.10.2013 for specified purposes, 26.5.2014 for further specified purposes, 1.4.2015 for remaining purposes and with effect in accordance with art. 4(1) of the commencing Rule) by [Local Government (Boundaries) Act (Northern Ireland) 2008 (c. 7)](https://www.legislation.gov.uk/nia/2008/7), [ss. 3(1)](https://www.legislation.gov.uk/nia/2008/7/section/3/1), [5(3)](https://www.legislation.gov.uk/nia/2008/7/section/5/3); [S.R. 2013/238](https://www.legislation.gov.uk/nisr/2013/238), [arts. 2](https://www.legislation.gov.uk/nisr/2013/238/article/2), [3(1)](https://www.legislation.gov.uk/nisr/2013/238/article/3/1), [4(1)](https://www.legislation.gov.uk/nisr/2013/238/article/4/1), [5(1)](https://www.legislation.gov.uk/nisr/2013/238/article/5/1) (with [arts. 3(2)](https://www.legislation.gov.uk/nisr/2013/238/article/3/2), [4(2)](https://www.legislation.gov.uk/nisr/2013/238/article/4/2), [5(2)-(4) (as amended (31.3.2015) by S.R. 2015/210, art. 2)](https://www.legislation.gov.uk/nisr/2013/238/article/5/2))
 
 [^c16961871]: Textual amendment: SI 1985/454
 

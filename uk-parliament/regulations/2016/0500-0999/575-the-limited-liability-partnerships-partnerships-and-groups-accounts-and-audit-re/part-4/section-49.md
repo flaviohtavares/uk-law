@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Amendments to Part 2 (form and content of accounts)[^key-e2049acb5efe1818db4b6073447ebcd4]
+## 49. Amendments to Part 2 (form and content of accounts)[^c-e2049acb5efe1818db4b6073447ebcd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In regulation 4 (medium-sized LLPs: exemptions for non-IAS individual accounts),
 
 ## Annotations
 
-[^key-e2049acb5efe1818db4b6073447ebcd4]: Commencement: Reg. 49 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-e2049acb5efe1818db4b6073447ebcd4]: Commencement: Reg. 49 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

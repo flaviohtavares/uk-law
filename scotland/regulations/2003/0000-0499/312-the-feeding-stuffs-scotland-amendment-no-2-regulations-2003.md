@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Feeding Stuffs (Scotland) Amendment (No. 2) Regulations 2003 (revoked)[^key-c7c0870afa172562f8dfe4c1e09b9229]
+The Feeding Stuffs (Scotland) Amendment (No. 2) Regulations 2003 (revoked)[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 Made
 
@@ -51,124 +51,124 @@ regulations 5, 8 and 10
 
 6th November 2003
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7c0870afa172562f8dfe4c1e09b9229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-c7c0870afa172562f8dfe4c1e09b9229]
+## 1. Citation, commencement and extent[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Feeding Stuffs (Scotland) Regulations 2000[^key-c7c0870afa172562f8dfe4c1e09b9229]
+## 2. Amendments to the Feeding Stuffs (Scotland) Regulations 2000[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-c7c0870afa172562f8dfe4c1e09b9229]
+## 3.[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-c7c0870afa172562f8dfe4c1e09b9229]
+## 4.[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-c7c0870afa172562f8dfe4c1e09b9229]
+## 5.[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-c7c0870afa172562f8dfe4c1e09b9229]
+## 6.[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-c7c0870afa172562f8dfe4c1e09b9229]
+## 7.[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-c7c0870afa172562f8dfe4c1e09b9229]
+## 8.[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-c7c0870afa172562f8dfe4c1e09b9229]
+## 9.[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-c7c0870afa172562f8dfe4c1e09b9229]
+## 10.[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7c0870afa172562f8dfe4c1e09b9229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PROVISIONS SUBSTITUTED FOR PART IX OF THE TABLE TO SCHEDULE 3 TO THE FEEDING STUFFS (SCOTLAND) REGULATIONS 2000[^key-c7c0870afa172562f8dfe4c1e09b9229]
+## SCHEDULE — PROVISIONS SUBSTITUTED FOR PART IX OF THE TABLE TO SCHEDULE 3 TO THE FEEDING STUFFS (SCOTLAND) REGULATIONS 2000[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 Regulation 7
 
-### “PART IX — EUROPEAN COMMUNITY REGULATIONS BY WHICH ADDITIVES ARE CONTROLLED[^key-c7c0870afa172562f8dfe4c1e09b9229]
+### “PART IX — EUROPEAN COMMUNITY REGULATIONS BY WHICH ADDITIVES ARE CONTROLLED[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-c7c0870afa172562f8dfe4c1e09b9229]
+[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]
+[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]
+[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]
+[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]
+[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]
+[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]
+[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]
+[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]
+[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]
+[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]
+[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]
+[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]
+[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]
+[^c-c7c0870afa172562f8dfe4c1e09b9229]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c7c0870afa172562f8dfe4c1e09b9229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7c0870afa172562f8dfe4c1e09b9229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c7c0870afa172562f8dfe4c1e09b9229]: Textual amendment: Regulations revoked (17.11.2006) by [The Feeding Stuffs (Scotland) Amendment Regulations 2006 (S.S.I. 2006/516)](https://www.legislation.gov.uk/ssi/2006/516), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/516/regulation/1), [3](https://www.legislation.gov.uk/ssi/2006/516/regulation/3)
+[^c-c7c0870afa172562f8dfe4c1e09b9229]: Textual amendment: Regulations revoked (17.11.2006) by [The Feeding Stuffs (Scotland) Amendment Regulations 2006 (S.S.I. 2006/516)](https://www.legislation.gov.uk/ssi/2006/516), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/516/regulation/1), [3](https://www.legislation.gov.uk/ssi/2006/516/regulation/3)

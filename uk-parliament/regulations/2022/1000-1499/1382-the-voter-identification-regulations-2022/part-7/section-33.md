@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Application of rule 40B of the parliamentary election rules[^key-ebb5f82a9490d9975d419d185537aaba]
+## 33. Application of rule 40B of the parliamentary election rules[^c-ebb5f82a9490d9975d419d185537aaba]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ Rule 40B of Schedule 1 to the 1983 Act (collection and disclosure of information
 
 ## Annotations
 
-[^key-ebb5f82a9490d9975d419d185537aaba]: Commencement: Reg. 33 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-ebb5f82a9490d9975d419d185537aaba]: Commencement: Reg. 33 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
 [^f00055]: Footnote: Rule 40B was inserted by paragraph 24 of Schedule 1 to the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37).
 

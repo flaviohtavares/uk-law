@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 83. Inward transfers of pension rights[^key-5678147cfbd889465dd784c681258ccc]
+## 83. Inward transfers of pension rights[^c-5678147cfbd889465dd784c681258ccc]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5678147cfbd889465dd784c681258ccc]: Commencement: Reg. 83 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-5678147cfbd889465dd784c681258ccc]: Commencement: Reg. 83 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

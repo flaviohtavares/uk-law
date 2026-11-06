@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25A. Regulation 25 supplementary: additional supporting material in relation to identity[^key-aee1c96d3581a2b02f6a3068637478b4]
+## 25A. Regulation 25 supplementary: additional supporting material in relation to identity[^c-aee1c96d3581a2b02f6a3068637478b4]
 
 *Extent: N.I.*
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-aee1c96d3581a2b02f6a3068637478b4]: Textual amendment: [Regs. 25A-25C](https://www.legislation.gov.uk/uksi/2008/1741/regulation/25A) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2024/43/regulation/11) (with [reg. 28(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/28/1))
+[^c-aee1c96d3581a2b02f6a3068637478b4]: Textual amendment: [Regs. 25A-25C](https://www.legislation.gov.uk/uksi/2008/1741/regulation/25A) inserted (16.1.2024) by [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2024/43/regulation/11) (with [reg. 28(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/28/1))
 
 [^f00022]: Footnote: Section 1 of the 1985 Act was substituted by Schedule 2 to the 2000 Act.
 

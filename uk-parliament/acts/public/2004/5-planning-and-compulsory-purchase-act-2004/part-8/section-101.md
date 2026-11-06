@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 101. Procedure for authorisation by a Minister[^key-eb2c229bde95f037466b1e569a477bba][^key-0212050969315c1f4ade8386a7301f39]
+## 101. Procedure for authorisation by a Minister[^c-eb2c229bde95f037466b1e569a477bba][^c-0212050969315c1f4ade8386a7301f39]
 
 *Extent: E+W*
 
@@ -175,6 +175,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb2c229bde95f037466b1e569a477bba]: Commencement: S. 101 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-eb2c229bde95f037466b1e569a477bba]: Commencement: S. 101 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-0212050969315c1f4ade8386a7301f39]: Commencement: S. 101 in force at 31.10.2004 in so far as not already in force by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-0212050969315c1f4ade8386a7301f39]: Commencement: S. 101 in force at 31.10.2004 in so far as not already in force by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

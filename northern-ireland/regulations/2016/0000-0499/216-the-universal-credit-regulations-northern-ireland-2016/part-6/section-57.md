@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Self-employed earnings — treatment of losses[^key-a0a644e7650ae88eed2c1111d3a842b5]
+## 57. Self-employed earnings — treatment of losses[^c-a0a644e7650ae88eed2c1111d3a842b5]
 
 *Extent: N.I.*
 
@@ -37,7 +37,7 @@ Where a trade, profession or vocation is carried on in a partnership, take the a
 
 If the person has carried on more than one trade, profession or vocation in the assessment period, add together the amounts resulting from step 1 in respect of each trade, profession or vocation.
 
-*Step 3[^key-c41d304e0970f2023d7a18e895cc2ce3]*
+*Step 3[^c-c41d304e0970f2023d7a18e895cc2ce3]*
 
 Deduct from the amount resulting from Step 1 or (if applicable) Step 2 any payment made by the person to HMRC in the assessment period by way of national insurance contributions or income tax in respect of any trade, profession or vocation carried on by the person.
 
@@ -65,6 +65,6 @@ If the amount resulting from this step is nil or a negative amount, the amount o
 
 ## Annotations
 
-[^key-a0a644e7650ae88eed2c1111d3a842b5]: Modification: Pt. 6 Ch. 2 applied (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [regs. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h), [13(7)](https://www.legislation.gov.uk/nisr/2016/223/regulation/13/7)
+[^c-a0a644e7650ae88eed2c1111d3a842b5]: Modification: Pt. 6 Ch. 2 applied (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Payments on Account of Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/223)](https://www.legislation.gov.uk/nisr/2016/223), [regs. 1(3)(h)](https://www.legislation.gov.uk/nisr/2016/223/regulation/1/3/h), [13(7)](https://www.legislation.gov.uk/nisr/2016/223/regulation/13/7)
 
-[^key-c41d304e0970f2023d7a18e895cc2ce3]: Textual amendment: Words in [reg. 57(2)](https://www.legislation.gov.uk/nisr/2016/216/regulation/57/2) substituted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(10)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/10)
+[^c-c41d304e0970f2023d7a18e895cc2ce3]: Textual amendment: Words in [reg. 57(2)](https://www.legislation.gov.uk/nisr/2016/216/regulation/57/2) substituted (8.5.2018) by [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(10)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/10)

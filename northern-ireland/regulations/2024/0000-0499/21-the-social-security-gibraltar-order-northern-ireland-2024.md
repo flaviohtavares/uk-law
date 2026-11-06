@@ -39,7 +39,7 @@ Coming into operation in accordance with article 1
 
 The Secretary of State and the Commissioners for His Majesty’s Revenue and Customs make the following Order in exercise of the powers conferred by section 155(1)(a) and (2) of the Social Security Administration (Northern Ireland) Act 1992[^f00001].
 
-## 1. Citation, commencement, extent and interpretation[^key-958e0fb6980fdd6f37359aa80297274d]
+## 1. Citation, commencement, extent and interpretation[^c-958e0fb6980fdd6f37359aa80297274d]
 
 (1) This Order may be cited as the Social Security (Gibraltar) Order (Northern Ireland) 2024.
 
@@ -51,7 +51,7 @@ The Secretary of State and the Commissioners for His Majesty’s Revenue and Cus
 
 (5) In this Order “**the Agreement**” means the agreement in the Schedule to this Order as set out in the Exchange of Letters between His Majesty’s Government of the United Kingdom of Great Britain and Northern Ireland and His Majesty’s Government of Gibraltar dated 25th January 2024 and 26th January 2024, respectively.
 
-## 2. Modification of legislation[^key-d9119adfc51557e9a213455657a623ce]
+## 2. Modification of legislation[^c-d9119adfc51557e9a213455657a623ce]
 
 (1) The legislation to which this paragraph applies is modified to the extent required to give effect to the provisions contained in the Agreement so far as such legislation relates to Northern Ireland.
 
@@ -70,7 +70,7 @@ The Secretary of State and the Commissioners for His Majesty’s Revenue and Cus
   - (ii) Regulation [(EC) No 987/2009](https://www.legislation.gov.uk/european/regulation/2009/0987) of the European Parliament and of the Council of 16 September 2009 laying down the procedure for implementing Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883); and
 - (j) regulations within the scope of section 155(5) of the Social Security Administration (Northern Ireland) Act 1992[^f00012].
 
-## 3. Variation of Order[^key-ce85227406fa4ccb0e6d4744f40e7555]
+## 3. Variation of Order[^c-ce85227406fa4ccb0e6d4744f40e7555]
 
 The Family Allowances, National Insurance and Industrial Injuries (Gibraltar) Order (Northern Ireland) 1974[^f00013] is varied in accordance with Article 65 of the Agreement (relationship with the 1974 Exchange of Letters), so far as the Order relates to Northern Ireland.
 
@@ -94,7 +94,7 @@ Two of the Commissioners for His Majesty’s Revenue and Customs
 
 26th February 2024
 
-## SCHEDULE — Exchange of Letters between His Majesty’s Government of the United Kingdom of Great Britain and Northern Ireland and His Majesty’s Government of Gibraltar for the agreement on social security between His Majesty’s Government of the United Kingdom of Great Britain and Northern Ireland and His Majesty’s Government of Gibraltar[^key-979bf42da95e47a74de9ad1d73ba593b]
+## SCHEDULE — Exchange of Letters between His Majesty’s Government of the United Kingdom of Great Britain and Northern Ireland and His Majesty’s Government of Gibraltar for the agreement on social security between His Majesty’s Government of the United Kingdom of Great Britain and Northern Ireland and His Majesty’s Government of Gibraltar[^c-979bf42da95e47a74de9ad1d73ba593b]
 
 Articles 1, 2 and 3
 
@@ -118,11 +118,11 @@ The Order does not impose any costs on business, charities or the voluntary sect
 
 [^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8), as amended by [S.I. 2020/1508](https://www.legislation.gov.uk/uksi/2020/1508). There are other amendments but none are relevant to this Order. In relation to Child Benefit and Guardian’s Allowance in Northern Ireland, the power under section 155 was transferred to the Board by section 50(1) and (2)(d) of the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21). The Board is defined in section 67 of that Act as the Commissioners of Inland Revenue. The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for His Majesty’s Revenue and Customs by section 5(2) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that, insofar as is appropriate, in consequence of section 5, a reference to the Commissioners of Inland Revenue in an enactment, however expressed, shall be taken as a reference to the Commissioners for His Majesty’s Revenue and Customs.
 
-[^key-958e0fb6980fdd6f37359aa80297274d]: Commencement: Art. 1 in operation at 27.2.2024, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2024/21/article/1/2)
+[^c-958e0fb6980fdd6f37359aa80297274d]: Commencement: Art. 1 in operation at 27.2.2024, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2024/21/article/1/2)
 
 [^f00002]: Footnote: Upon the parties having notified each other that their respective domestic procedures for entry into force have been completed, in accordance with Article 61 of the Agreement, a notice will be published in The Gazette by the Department for Work and Pensions.
 
-[^key-d9119adfc51557e9a213455657a623ce]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/21/article/2) in operation at 26.2.2024 coming into force in accordance with art. 1(3), see [art. 1(3)](https://www.legislation.gov.uk/nisr/2024/21/article/1/3)
+[^c-d9119adfc51557e9a213455657a623ce]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/21/article/2) in operation at 26.2.2024 coming into force in accordance with art. 1(3), see [art. 1(3)](https://www.legislation.gov.uk/nisr/2024/21/article/1/3)
 
 [^f00003]: Footnote: No modifications are made in respect of payments out of the social fund, Christmas bonus, statutory sick pay or statutory maternity pay because section 155(4)(b)(i) to (iv) of the Social Security Administration (Northern Ireland) Act 1992 excludes these benefits from the scope of the power to modify.
 
@@ -144,8 +144,8 @@ The Order does not impose any costs on business, charities or the voluntary sect
 
 [^f00012]: Footnote: Section 155(5) has been amended by paragraph 48(4) of Schedule 2 to [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); paragraph 19(c) of Schedule 2 to the State Pension Credit Act (Northern Ireland) 2002; paragraph 1 of Schedule 6 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21); paragraph 4(25)(c) of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2007; paragraph 23(5) of Schedule 2 to [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006); paragraph 21(4) of Schedule 12, and paragraph 31(4) of Schedule 16 to the Pensions Act (Northern Ireland) 2015; and by regulation 3 of [S.R. 2011/357](https://www.legislation.gov.uk/nisr/2011/357).
 
-[^key-ce85227406fa4ccb0e6d4744f40e7555]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2024/21/article/3) in operation at 26.2.2024 coming into force in accordance with art. 1(3), see [art. 1(3)](https://www.legislation.gov.uk/nisr/2024/21/article/1/3)
+[^c-ce85227406fa4ccb0e6d4744f40e7555]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2024/21/article/3) in operation at 26.2.2024 coming into force in accordance with art. 1(3), see [art. 1(3)](https://www.legislation.gov.uk/nisr/2024/21/article/1/3)
 
 [^f00013]: Footnote: [S.R. 1974/153](https://www.legislation.gov.uk/nisr/1974/153).
 
-[^key-979bf42da95e47a74de9ad1d73ba593b]: Commencement: Sch. in operation at 27.2.2024, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2024/21/article/1/2)
+[^c-979bf42da95e47a74de9ad1d73ba593b]: Commencement: Sch. in operation at 27.2.2024, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2024/21/article/1/2)

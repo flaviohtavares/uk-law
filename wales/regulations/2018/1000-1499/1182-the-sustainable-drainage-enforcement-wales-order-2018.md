@@ -399,7 +399,7 @@ When determining an appeal against an enforcement notice, the Welsh Ministers ma
 
 (1) A person who fails to comply with a temporary stop notice, enforcement notice or stop notice is guilty of an offence, and is liable—
 
-- (a) on summary conviction, to a fine [^key-a0d7423183723d99ea930a86927538d0]..., or
+- (a) on summary conviction, to a fine [^c-a0d7423183723d99ea930a86927538d0]..., or
 - (b) on conviction on indictment, to a fine.
 
 (2) In determining the amount of the fine, the court must have regard in particular to any financial benefit which has accrued, or has appeared to accrue, to the person convicted in consequence of the offence.
@@ -539,7 +539,7 @@ A regulatory impact assessment in relation to Wales has been prepared on the lik
 
 [^c23435221]: Marginal citation: [Section 322C](https://www.legislation.gov.uk/wsi/2018/1182/section/322C) was inserted by section 49 of the Planning (Wales) Act 2015 (anaw 4).
 
-[^key-a0d7423183723d99ea930a86927538d0]: Textual amendment: Words in [art. 21](https://www.legislation.gov.uk/wsi/2018/1182/article/21) omitted (5.2.2020) by virtue of [The Sustainable Drainage (Enforcement) (Wales) (Amendment) Order 2020 (S.I. 2020/120)](https://www.legislation.gov.uk/wsi/2020/120), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2020/120/article/1/2), [2](https://www.legislation.gov.uk/wsi/2020/120/article/2)
+[^c-a0d7423183723d99ea930a86927538d0]: Textual amendment: Words in [art. 21](https://www.legislation.gov.uk/wsi/2018/1182/article/21) omitted (5.2.2020) by virtue of [The Sustainable Drainage (Enforcement) (Wales) (Amendment) Order 2020 (S.I. 2020/120)](https://www.legislation.gov.uk/wsi/2020/120), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2020/120/article/1/2), [2](https://www.legislation.gov.uk/wsi/2020/120/article/2)
 
 [^c23435231]: Marginal citation: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Section 33 was amended by Schedule 6 to the [Magistrates Courts Act 1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55); [paragraph 19](https://www.legislation.gov.uk/wsi/2018/1182/paragraph/19) of Schedule 8 to the [Courts Act 1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23) and Schedule 10 to the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 

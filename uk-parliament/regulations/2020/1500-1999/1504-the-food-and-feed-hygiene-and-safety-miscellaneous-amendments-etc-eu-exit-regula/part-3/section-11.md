@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Amendment of the General Food Hygiene (Amendment) (EU Exit) Regulations 2019[^key-e1e28da82dcbcd6a223a5014ccde155f]
+## 11. Amendment of the General Food Hygiene (Amendment) (EU Exit) Regulations 2019[^c-e1e28da82dcbcd6a223a5014ccde155f]
 
 *Extent: E+W+S*
 
@@ -79,6 +79,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e1e28da82dcbcd6a223a5014ccde155f]: Commencement: Reg. 11 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-e1e28da82dcbcd6a223a5014ccde155f]: Commencement: Reg. 11 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
 
 [^c24375481]: Marginal citation: [S.I. 2019/642](https://www.legislation.gov.uk/uksi/2019/642).

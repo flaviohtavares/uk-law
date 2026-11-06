@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Remote attendance at meetings conducted in accordance with section 246A[^key-3165088af2b85c03c2ab7cda89b969e0]
+## 98. Remote attendance at meetings conducted in accordance with section 246A[^c-3165088af2b85c03c2ab7cda89b969e0]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ and the notices required by sub-paragraphs (a) and (c) may be given at the same 
 
 ## Annotations
 
-[^key-3165088af2b85c03c2ab7cda89b969e0]: Commencement: [Rule 98](https://www.legislation.gov.uk/uksi/2011/1301/rule/98) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-3165088af2b85c03c2ab7cda89b969e0]: Commencement: [Rule 98](https://www.legislation.gov.uk/uksi/2011/1301/rule/98) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
 [^f00015]: Footnote: Section 246A was inserted by [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18).

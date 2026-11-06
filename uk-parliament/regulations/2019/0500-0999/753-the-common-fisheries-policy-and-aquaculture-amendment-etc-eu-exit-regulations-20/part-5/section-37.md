@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Regulation (EU) 2016/2336 of the European Parliament and of the Council establishing specific conditions for fishing for deep-sea stocks in the north-east Atlantic and provisions for fishing in international waters of the north-east Atlantic[^key-207f49983496965ca00e61b67bf4d5c4]
+## 37. Regulation (EU) 2016/2336 of the European Parliament and of the Council establishing specific conditions for fishing for deep-sea stocks in the north-east Atlantic and provisions for fishing in international waters of the north-east Atlantic[^c-207f49983496965ca00e61b67bf4d5c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -118,7 +118,7 @@ summary: ''
 
 ## Annotations
 
-[^key-207f49983496965ca00e61b67bf4d5c4]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-207f49983496965ca00e61b67bf4d5c4]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c24328281]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 

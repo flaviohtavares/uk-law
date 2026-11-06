@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where a manufacturer or importer places a pyrotechnic article on the market before 17th October 2016, the manufacturer or importer must—
 
-- (a) maintain a record of the UK[^key-371d98365262ee674830151e4a274006] registration number of the pyrotechnic article for a period of at least 10 years beginning on the day on which it is placed on the market; and
+- (a) maintain a record of the UK[^c-371d98365262ee674830151e4a274006] registration number of the pyrotechnic article for a period of at least 10 years beginning on the day on which it is placed on the market; and
 - (b) upon request, make this information available to an enforcing authority.
 
 (2) Where a manufacturer or importer places a pyrotechnic article on the market after 16th October 2016, the manufacturer or importer must—
@@ -68,6 +68,6 @@ summary: ''
 
 [^M_E_5e532910-d2bb-40b3-ef00-24cb84091c18]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-371d98365262ee674830151e4a274006]: Textual amendment: Word in [reg. 20](https://www.legislation.gov.uk/uksi/2015/1553/regulation/20) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 15](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/15) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-371d98365262ee674830151e4a274006]: Textual amendment: Word in [reg. 20](https://www.legislation.gov.uk/uksi/2015/1553/regulation/20) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 15](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/15) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_af9b0a14-cfc6-459a-a61e-f21f0ad07572]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

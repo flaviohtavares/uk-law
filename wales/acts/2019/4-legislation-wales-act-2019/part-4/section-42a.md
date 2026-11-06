@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42A. Review of Parts 2A and 2B of this Act[^key-2a5b1a9c81fc0f108907cd2794fa37cd]
+## 42A. Review of Parts 2A and 2B of this Act[^c-2a5b1a9c81fc0f108907cd2794fa37cd]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a5b1a9c81fc0f108907cd2794fa37cd]: Textual amendment: [S. 42A](https://www.legislation.gov.uk/anaw/2019/4/section/42A) inserted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [ss. 5](https://www.legislation.gov.uk/asc/2025/3/section/5), [9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(c)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/c)
+[^c-2a5b1a9c81fc0f108907cd2794fa37cd]: Textual amendment: [S. 42A](https://www.legislation.gov.uk/anaw/2019/4/section/42A) inserted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [ss. 5](https://www.legislation.gov.uk/asc/2025/3/section/5), [9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(c)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/c)

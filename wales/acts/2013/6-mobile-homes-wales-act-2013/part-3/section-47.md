@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Interpretation[^key-a49e2115e104afb94d213ef3cd2297a1]
+## 47. Interpretation[^c-a49e2115e104afb94d213ef3cd2297a1]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a49e2115e104afb94d213ef3cd2297a1]: Commencement: [S. 47](https://www.legislation.gov.uk/anaw/2013/6/section/47) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-a49e2115e104afb94d213ef3cd2297a1]: Commencement: [S. 47](https://www.legislation.gov.uk/anaw/2013/6/section/47) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

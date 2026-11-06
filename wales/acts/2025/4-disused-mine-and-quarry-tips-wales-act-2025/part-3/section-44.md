@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Authority’s power to carry out operations[^key-461636bba56422e07c429acf9ba3c8a2]
+## 44. Authority’s power to carry out operations[^c-461636bba56422e07c429acf9ba3c8a2]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ so as to avoid or reduce threats to human welfare.
 
 ## Annotations
 
-[^key-461636bba56422e07c429acf9ba3c8a2]: Commencement: S. 44 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-461636bba56422e07c429acf9ba3c8a2]: Commencement: S. 44 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

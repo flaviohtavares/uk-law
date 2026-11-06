@@ -36,18 +36,18 @@ concerning the authorisation of a preparation of 6-phytase, produced by *Aspergi
 
 (Text with EEA relevance) (revoked)
 
-[^key-e30798b375c164474b17e6cc5f32b26b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e30798b375c164474b17e6cc5f32b26b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e30798b375c164474b17e6cc5f32b26b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e30798b375c164474b17e6cc5f32b26b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e30798b375c164474b17e6cc5f32b26b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e30798b375c164474b17e6cc5f32b26b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e30798b375c164474b17e6cc5f32b26b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e30798b375c164474b17e6cc5f32b26b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-e30798b375c164474b17e6cc5f32b26b]
+## ANNEX[^c-e30798b375c164474b17e6cc5f32b26b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e30798b375c164474b17e6cc5f32b26b]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 284](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/284) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-e30798b375c164474b17e6cc5f32b26b]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 284](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/284) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

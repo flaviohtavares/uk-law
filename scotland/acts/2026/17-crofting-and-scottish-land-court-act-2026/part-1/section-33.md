@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Payment of fees for applications for registration[^key-388db8664e02ac55e18a4264d53e60a1]
+## 33. Payment of fees for applications for registration[^c-388db8664e02ac55e18a4264d53e60a1]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-388db8664e02ac55e18a4264d53e60a1]: Commencement: S. 33 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-388db8664e02ac55e18a4264d53e60a1]: Commencement: S. 33 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

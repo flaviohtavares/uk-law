@@ -40,7 +40,7 @@ Coming into force
 
 1st April 1999
 
-[^key-823673fcb577ebeb1577e5681d222361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-823673fcb577ebeb1577e5681d222361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -52,12 +52,12 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-823673fcb577ebeb1577e5681d222361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-823673fcb577ebeb1577e5681d222361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-823673fcb577ebeb1577e5681d222361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-823673fcb577ebeb1577e5681d222361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-823673fcb577ebeb1577e5681d222361]: Textual amendment: Instrument revoked (1.4.2017) by [The Social Security (Fees Payable by Qualifying Lenders) (Amendment) Regulations 2017 (S.I. 2017/270)](https://www.legislation.gov.uk/uksi/2017/270), [regs. 1](https://www.legislation.gov.uk/uksi/2017/270/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/270/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2017/270/schedule)
+[^c-823673fcb577ebeb1577e5681d222361]: Textual amendment: Instrument revoked (1.4.2017) by [The Social Security (Fees Payable by Qualifying Lenders) (Amendment) Regulations 2017 (S.I. 2017/270)](https://www.legislation.gov.uk/uksi/2017/270), [regs. 1](https://www.legislation.gov.uk/uksi/2017/270/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/270/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2017/270/schedule)

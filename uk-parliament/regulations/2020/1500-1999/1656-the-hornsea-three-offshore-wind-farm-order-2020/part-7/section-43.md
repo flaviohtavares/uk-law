@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Funding[^key-7b5b44f031c480f13e6cb6ad635a8e28]
+## 43. Funding[^c-7b5b44f031c480f13e6cb6ad635a8e28]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b5b44f031c480f13e6cb6ad635a8e28]: Commencement: Art. 43 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-7b5b44f031c480f13e6cb6ad635a8e28]: Commencement: Art. 43 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Notification of first registration[^key-013b5c870e34f4e1697d6a4939c7ebd1]
+## 35. Notification of first registration[^c-013b5c870e34f4e1697d6a4939c7ebd1]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-013b5c870e34f4e1697d6a4939c7ebd1]: Commencement: S. 35 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-013b5c870e34f4e1697d6a4939c7ebd1]: Commencement: S. 35 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

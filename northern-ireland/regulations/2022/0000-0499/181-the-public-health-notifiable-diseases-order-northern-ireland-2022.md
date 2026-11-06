@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Public Health (Notifiable Diseases) Order (Northern Ireland) 2022 (revoked)[^key-3c038d0d3baaf5195211aa27dfb21f07]
+The Public Health (Notifiable Diseases) Order (Northern Ireland) 2022 (revoked)[^c-3c038d0d3baaf5195211aa27dfb21f07]
 
 Made
 
@@ -42,27 +42,27 @@ Coming into operation
 
 7th June 2022
 
-[^key-3c038d0d3baaf5195211aa27dfb21f07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c038d0d3baaf5195211aa27dfb21f07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3c038d0d3baaf5195211aa27dfb21f07]
+## 1. Citation, commencement and interpretation[^c-3c038d0d3baaf5195211aa27dfb21f07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 1 to the Act[^key-3c038d0d3baaf5195211aa27dfb21f07]
+## 2. Amendment of Schedule 1 to the Act[^c-3c038d0d3baaf5195211aa27dfb21f07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-3c038d0d3baaf5195211aa27dfb21f07]
+## 3. Revocation[^c-3c038d0d3baaf5195211aa27dfb21f07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c038d0d3baaf5195211aa27dfb21f07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c038d0d3baaf5195211aa27dfb21f07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Notifiable Diseases[^key-3c038d0d3baaf5195211aa27dfb21f07]
+## SCHEDULE — Notifiable Diseases[^c-3c038d0d3baaf5195211aa27dfb21f07]
 
 Regulation 2
 
@@ -70,8 +70,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-3c038d0d3baaf5195211aa27dfb21f07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c038d0d3baaf5195211aa27dfb21f07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3c038d0d3baaf5195211aa27dfb21f07]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2022/181) revoked (20.6.2026) by [The Public Health (Notifiable Diseases – Hantavirus Diseases) Order (Northern Ireland) 2026 (S.R. 2026/121)](https://www.legislation.gov.uk/nisr/2026/121), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2026/121/article/1/1), [3](https://www.legislation.gov.uk/nisr/2026/121/article/3)
+[^c-3c038d0d3baaf5195211aa27dfb21f07]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2022/181) revoked (20.6.2026) by [The Public Health (Notifiable Diseases – Hantavirus Diseases) Order (Northern Ireland) 2026 (S.R. 2026/121)](https://www.legislation.gov.uk/nisr/2026/121), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2026/121/article/1/1), [3](https://www.legislation.gov.uk/nisr/2026/121/article/3)

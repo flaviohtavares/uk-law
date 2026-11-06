@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Assignment of 2.6 GHz individual frequency lots in the case where 2.6 GHz individual frequency lots were included in only one winning principal stage bid[^key-2cb896d9d1b89ec6c63c42f64932316c]
+## 87. Assignment of 2.6 GHz individual frequency lots in the case where 2.6 GHz individual frequency lots were included in only one winning principal stage bid[^c-2cb896d9d1b89ec6c63c42f64932316c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cb896d9d1b89ec6c63c42f64932316c]: Commencement: Reg. 87 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-2cb896d9d1b89ec6c63c42f64932316c]: Commencement: Reg. 87 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

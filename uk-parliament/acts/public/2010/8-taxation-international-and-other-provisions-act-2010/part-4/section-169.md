@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Giving of transfer pricing notices[^key-3979b09122da12a1036cf30e789065de]
+## 169. Giving of transfer pricing notices[^c-3979b09122da12a1036cf30e789065de]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3979b09122da12a1036cf30e789065de]: Modification: Ss. 166-171 excluded (1.4.2010 with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 542(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/542/2), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-3979b09122da12a1036cf30e789065de]: Modification: Ss. 166-171 excluded (1.4.2010 with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [ss. 542(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/542/2), [1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Applications for LME orders[^key-f7339851b320d03e6e312d7b5658548d][^key-671a928ed5b6dd451197453f829fcc04]
+## 124. Applications for LME orders[^c-f7339851b320d03e6e312d7b5658548d][^c-671a928ed5b6dd451197453f829fcc04]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f7339851b320d03e6e312d7b5658548d]: Commencement: S. 124 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-f7339851b320d03e6e312d7b5658548d]: Commencement: S. 124 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-671a928ed5b6dd451197453f829fcc04]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2025/36/section/124) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(25)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/25)
+[^c-671a928ed5b6dd451197453f829fcc04]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2025/36/section/124) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(25)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/25)

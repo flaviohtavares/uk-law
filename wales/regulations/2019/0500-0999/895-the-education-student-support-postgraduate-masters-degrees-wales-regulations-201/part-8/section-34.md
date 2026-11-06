@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Confirmation of attendance[^key-3ea0dc4a2e6cb23bde1c061bdb80000b]
+## 34. Confirmation of attendance[^c-3ea0dc4a2e6cb23bde1c061bdb80000b]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ea0dc4a2e6cb23bde1c061bdb80000b]: Commencement: Reg. 34 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-3ea0dc4a2e6cb23bde1c061bdb80000b]: Commencement: Reg. 34 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Differential treatment of refugees[^key-412ed7ec1c9688101c043ebfd3051ec2][^key-1c5381ab49d82e096ad1adb294955277]
+## 12. Differential treatment of refugees[^c-412ed7ec1c9688101c043ebfd3051ec2][^c-1c5381ab49d82e096ad1adb294955277]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ Subsections (1) to (3) of section 37 apply in relation to the interpretation of 
 
 ## Annotations
 
-[^key-412ed7ec1c9688101c043ebfd3051ec2]: Commencement: S. 12 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-412ed7ec1c9688101c043ebfd3051ec2]: Commencement: S. 12 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-1c5381ab49d82e096ad1adb294955277]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/36/section/12) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/10) (with [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/4/1))
+[^c-1c5381ab49d82e096ad1adb294955277]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/36/section/12) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/10) (with [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/4/1))

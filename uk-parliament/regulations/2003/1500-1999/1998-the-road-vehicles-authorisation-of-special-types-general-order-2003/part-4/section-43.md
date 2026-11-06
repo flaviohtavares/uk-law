@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Track-laying vehicles: restrictions on use[^key-950ecf2975a0f8640b20b2a12ec09a20]
+## 43. Track-laying vehicles: restrictions on use[^c-950ecf2975a0f8640b20b2a12ec09a20]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-950ecf2975a0f8640b20b2a12ec09a20]: Commencement: Art. 43 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-950ecf2975a0f8640b20b2a12ec09a20]: Commencement: Art. 43 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

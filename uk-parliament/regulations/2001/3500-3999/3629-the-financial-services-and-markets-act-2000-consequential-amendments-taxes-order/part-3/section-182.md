@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Substitution of paragraph 1(5) of Schedule 19AB[^key-22b342f1861f7d7f02c918149c5f29ca]
+## 182. Substitution of paragraph 1(5) of Schedule 19AB[^c-22b342f1861f7d7f02c918149c5f29ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 5(2) of the Friendly Societies (Provisional Repayments for Exempt 
 
 ## Annotations
 
-[^key-22b342f1861f7d7f02c918149c5f29ca]: Commencement: Art. 182 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-22b342f1861f7d7f02c918149c5f29ca]: Commencement: Art. 182 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

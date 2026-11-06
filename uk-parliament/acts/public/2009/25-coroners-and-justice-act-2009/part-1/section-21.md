@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. National Medical Examiner[^key-694cf3542c314e24bc15a480435cb7c8]
+## 21. National Medical Examiner[^c-694cf3542c314e24bc15a480435cb7c8]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-694cf3542c314e24bc15a480435cb7c8]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/25/section/21) in force at 18.6.2018 by [S.I. 2018/727](https://www.legislation.gov.uk/uksi/2018/727), [art. 2](https://www.legislation.gov.uk/uksi/2018/727/article/2)
+[^c-694cf3542c314e24bc15a480435cb7c8]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2009/25/section/21) in force at 18.6.2018 by [S.I. 2018/727](https://www.legislation.gov.uk/uksi/2018/727), [art. 2](https://www.legislation.gov.uk/uksi/2018/727/article/2)

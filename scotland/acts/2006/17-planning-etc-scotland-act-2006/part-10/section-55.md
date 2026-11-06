@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-8f303c8c5b2749afa241f2bfb7e78d16] The listed buildings Act is amended as follows.
+(1)[^c-8f303c8c5b2749afa241f2bfb7e78d16] The listed buildings Act is amended as follows.
 
-(2)[^key-c3869a4ab469f6c4b6f9c1043a9abb88] In section 13 (directions concerning notification of applications etc.), at the end add—
+(2)[^c-c3869a4ab469f6c4b6f9c1043a9abb88] In section 13 (directions concerning notification of applications etc.), at the end add—
 
 > (4) Directions under subsection (1) or (3) may be given to—
 >
@@ -32,7 +32,7 @@ summary: ''
 
 .
 
-(3)[^key-8f303c8c5b2749afa241f2bfb7e78d16] In section 69(1) (grants and loans for preservation or enhancement of conservation areas)—
+(3)[^c-8f303c8c5b2749afa241f2bfb7e78d16] In section 69(1) (grants and loans for preservation or enhancement of conservation areas)—
 
 - (a) for the words “If in the opinion of the Secretary of State any conservation area is an area of outstanding architectural or historic interest, he” substitute “ The Scottish Ministers ”, and
 - (b) for the words “the area or any part of it” substitute “ a conservation area or any part of a conservation area ”.
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f303c8c5b2749afa241f2bfb7e78d16]: Commencement: [S. 55(1)](https://www.legislation.gov.uk/asp/2006/17/section/55/1)[(3)](https://www.legislation.gov.uk/asp/2006/17/section/55/3) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-8f303c8c5b2749afa241f2bfb7e78d16]: Commencement: [S. 55(1)](https://www.legislation.gov.uk/asp/2006/17/section/55/1)[(3)](https://www.legislation.gov.uk/asp/2006/17/section/55/3) in force at 1.4.2007 by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
 
-[^key-c3869a4ab469f6c4b6f9c1043a9abb88]: Commencement: [S. 55(2)](https://www.legislation.gov.uk/asp/2006/17/section/55/2) in force at 1.6.2008 by [S.S.I. 2008/191](https://www.legislation.gov.uk/ssi/2008/191), [art. 2](https://www.legislation.gov.uk/ssi/2008/191/article/2)
+[^c-c3869a4ab469f6c4b6f9c1043a9abb88]: Commencement: [S. 55(2)](https://www.legislation.gov.uk/asp/2006/17/section/55/2) in force at 1.6.2008 by [S.S.I. 2008/191](https://www.legislation.gov.uk/ssi/2008/191), [art. 2](https://www.legislation.gov.uk/ssi/2008/191/article/2)

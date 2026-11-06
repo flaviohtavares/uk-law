@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A. Adjustment of charges to help disadvantaged groups of customers.[^key-3e734e55dbecb3a47c09ff5bdd58c0ed]
+## 43A. Adjustment of charges to help disadvantaged groups of customers.[^c-3e734e55dbecb3a47c09ff5bdd58c0ed]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e734e55dbecb3a47c09ff5bdd58c0ed]: Textual amendment: S. 43B omitted (8.6.2010) by virtue of [Energy Act 2010 (c. 27)](https://www.legislation.gov.uk/ukpga/2010/27), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2010/27/section/38/3), [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/9)
+[^c-3e734e55dbecb3a47c09ff5bdd58c0ed]: Textual amendment: S. 43B omitted (8.6.2010) by virtue of [Energy Act 2010 (c. 27)](https://www.legislation.gov.uk/ukpga/2010/27), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2010/27/section/38/3), [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/9)

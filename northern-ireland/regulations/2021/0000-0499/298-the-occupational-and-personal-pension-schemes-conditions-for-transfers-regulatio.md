@@ -42,7 +42,7 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 91(6ZA) to (6ZC), 97F(5A) to (5C), 177(2) and (3) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and now vested in it[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-35ac9bbf44f1d29af6f74b9765ce8001]
+## 1. Citation, commencement and interpretation[^c-35ac9bbf44f1d29af6f74b9765ce8001]
 
 (1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Conditions for Transfers) Regulations (Northern Ireland) 2021 and shall come into operation on 30th November 2021.
 
@@ -70,7 +70,7 @@ The Department for Communities makes the following Regulations in exercise of th
 
 (4) Without prejudice to any other method of service authorised under section 24 of the Interpretation Act (Northern Ireland) 1954, the requirement to send any document under these Regulations may be met by sending it by ordinary post.
 
-## 2. Application of the conditions to all uses of the cash equivalent[^key-d7f9124a2f5616e121fa36ef6dfd80cf]
+## 2. Application of the conditions to all uses of the cash equivalent[^c-d7f9124a2f5616e121fa36ef6dfd80cf]
 
 (1) The conditions set out in these Regulations apply to all of the specified ways in which the cash equivalent may be used in accordance with the provisions of section 91[^f00009] of the 1993 Act (ways of taking right to cash equivalent) set out in subsection (6ZA) of that section and the authorised purposes for which the cash equivalent may be used in accordance with the provisions of section 97F[^f00010] of the 1993 Act (power to give transfer notice) set out in subsection (5A) of that section.
 
@@ -81,11 +81,11 @@ The Department for Communities makes the following Regulations in exercise of th
 
 (3) In these Regulations, “**transfer**” means using the cash equivalent in one of the specified ways, or for one of the authorised purposes, in accordance with the provisions referred to in paragraph (1), and “**request to make a transfer**” means, respectively, an application, or giving notice, to use the cash equivalent in one of those ways or for one of those purposes.
 
-## 3. Transfers to which these Regulations apply[^key-81a57836502d63a92f1a98bc3a7dd497]
+## 3. Transfers to which these Regulations apply[^c-81a57836502d63a92f1a98bc3a7dd497]
 
 These Regulations apply to transfers where, in a case where the member applies for a statement of the cash equivalent value of their transferrable rights under section 89A[^f00016] of the 1993 Act (right to statement of entitlement: benefits other than money purchase), the date of the member’s application, and in any other case, the date of the member’s request to make a transfer, occurs on or after the day that these Regulations come into operation.
 
-## 4. Conditions satisfied upon a decision by the trustees or managers of the transferring scheme[^key-bce5e34f708ba283dd7ec82a4a91ad4a]
+## 4. Conditions satisfied upon a decision by the trustees or managers of the transferring scheme[^c-bce5e34f708ba283dd7ec82a4a91ad4a]
 
 (1) The prescribed conditions under sections 91(6ZA) (ways of taking right to cash equivalent) and 97F(5A) (power to give transfer notice) of the 1993 Act are the First Condition and the Second Condition, and, for the purposes of those sections, the prescribed conditions are satisfied in respect of a transfer when the trustees or managers of the transferring scheme make a decision that either the First Condition or the Second Condition is satisfied in respect of that transfer.
 
@@ -96,7 +96,7 @@ These Regulations apply to transfers where, in a case where the member applies f
 - (a) they realise that the decision was incorrect, or
 - (b) they receive further evidence or information from the member, which enables them to conclude that the First Condition or the Second Condition is satisfied, and they consider that the delay in this being provided was for good reason and no longer than was necessary in the circumstances.
 
-## 5. Requirement to inform the member of the conditions and notify decisions regarding satisfaction of the conditions[^key-08faa81d8c410704c93482ee22591bf4]
+## 5. Requirement to inform the member of the conditions and notify decisions regarding satisfaction of the conditions[^c-08faa81d8c410704c93482ee22591bf4]
 
 (1) Subject to paragraph (2), the trustees or managers of the transferring scheme must ensure that the member is informed about the provision in regulation 4(1), in a case where the member applies for a statement of the cash equivalent value of their transferrable rights under section 89A of the 1993 Act (right to statement of entitlement: benefits other than money purchase), within the period of one month after the date of the member’s application for that statement, or, in any other case, within the period of one month after the date of the member’s request to make a transfer.
 
@@ -112,7 +112,7 @@ These Regulations apply to transfers where, in a case where the member applies f
 - (a) a Saturday or Sunday, or
 - (b) a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00020].
 
-## 6. Standards of proof, relevant evidence or information, and timing for decisions regarding satisfaction of the conditions[^key-2a468dfda3f8b3db5cb54af7bc6fda6b]
+## 6. Standards of proof, relevant evidence or information, and timing for decisions regarding satisfaction of the conditions[^c-2a468dfda3f8b3db5cb54af7bc6fda6b]
 
 (1) In order for the trustees or managers of the transferring scheme to decide that the First Condition is satisfied, they must satisfy themselves beyond reasonable doubt either that the receiving scheme is established, or listed as authorised, as set out in regulation 7(4).
 
@@ -145,7 +145,7 @@ These Regulations apply to transfers where, in a case where the member applies f
   - (ii) the date on which they have received sufficient evidence or information in response to their request to decide that the Second Condition is satisfied in accordance with paragraph (3), or
   - (iii) the date on which they may apply the amber flag in regulation 9(2) in accordance with sub-paragraph (b).
 
-## 7. The First Condition: transfers into certain receiving schemes[^key-aa83f43b77ed5d6f906fe79b7f0feec2]
+## 7. The First Condition: transfers into certain receiving schemes[^c-aa83f43b77ed5d6f906fe79b7f0feec2]
 
 (1) For the purposes of these Regulations, this regulation will be referred to as “**the First Condition**”.
 
@@ -167,7 +167,7 @@ These Regulations apply to transfers where, in a case where the member applies f
 
 (6) For the purposes of paragraph (3)(c), where a pension scheme is divided into sections and the transfer is into a section that is a collective money purchase scheme for the purposes of Part 1 or Part 2 of the 2021 Act, receiving scheme means that section of the divided pension scheme.
 
-## 8. The Second Condition: transfers into all other receiving schemes[^key-57e58c37abd00364ff8f9c1e18fd5b6b]
+## 8. The Second Condition: transfers into all other receiving schemes[^c-57e58c37abd00364ff8f9c1e18fd5b6b]
 
 (1) For the purposes of these Regulations, this regulation will be referred to as “**the Second Condition**”.
 
@@ -201,9 +201,9 @@ These Regulations apply to transfers where, in a case where the member applies f
 - “**a regulated activity**” means—
   - (a) the making of any of the arrangements set out in Article 25(1) and (2)[^f00027] of the 2001 Order (arranging deals in investments);
   - (b) advising a person as set out in Article 53(1) or (2)[^f00028] of the 2001 Order (advising on investments);
-  - (c) advising a person as set out in Article 53E(1)(a), (b) and (c)(ii)[^f00029] of the 2001 Order (advising on conversion or transfer of pension benefits), [^key-710f6ffec66990c38c5e7315b398d4e6]...
-  - (ea) providing targeted support as set out in article 55A of the 2001 Order (providing targeted support), or[^key-f0b90d26c60b1cb8d052e7c5aef38260]
-  - (f) agreeing to carry on any of the regulated activities in sub-paragraphs (c) to (ea)[^key-8f53d96757689aa8fea66fe6326f59d3] as set out in Article 64[^f00030] of the 2001 Order (agreeing to carry on specified kinds of activity),
+  - (c) advising a person as set out in Article 53E(1)(a), (b) and (c)(ii)[^f00029] of the 2001 Order (advising on conversion or transfer of pension benefits), [^c-710f6ffec66990c38c5e7315b398d4e6]...
+  - (ea) providing targeted support as set out in article 55A of the 2001 Order (providing targeted support), or[^c-f0b90d26c60b1cb8d052e7c5aef38260]
+  - (f) agreeing to carry on any of the regulated activities in sub-paragraphs (c) to (ea)[^c-8f53d96757689aa8fea66fe6326f59d3] as set out in Article 64[^f00030] of the 2001 Order (agreeing to carry on specified kinds of activity),
 
   save to the extent that the activity falls within an applicable exclusion in the 2001 Order;
 - “specified evidence” and “specified guidance” have the meanings given by regulation 9(6);
@@ -211,7 +211,7 @@ These Regulations apply to transfers where, in a case where the member applies f
 - “**substantive response**” means one that provides at least part of the evidence or information requested, so that the trustees or managers of the transferring scheme can either reach a decision that part of the employment link or residency link is demonstrated, or that the red flags in paragraph (5) are not present;
 - “**unsolicited contact**” means contact in person, or by telephone call, text message, letter, electronic mail, or direct message via social media, either from a party with whom the member had no existing client relationship or to whom the member states they had not previously notified consent to such contact.
 
-## 9. The Second Condition: requirement to take specified guidance[^key-ab2eccb10c62c2e68a7b40678b3822e7]
+## 9. The Second Condition: requirement to take specified guidance[^c-ab2eccb10c62c2e68a7b40678b3822e7]
 
 (1) Where the trustees or managers of the transferring scheme decide that one or more of the circumstances set out in paragraphs (2) to (5) (“the amber flags”) is present in respect of the transfer they must require that the member—
 
@@ -264,7 +264,7 @@ These Regulations apply to transfers where, in a case where the member applies f
 - (b) by comparing the evidence or information provided by the member to their knowledge of the current financial market, or
 - (c) information they hold on volumes of transfers from the transferring scheme or other pension schemes of which they have knowledge.
 
-## 10. The Second Condition: requirements on trustees or managers of the transferring scheme to request evidence or information[^key-3b4648f5f165f04cb36363841fcdf75c]
+## 10. The Second Condition: requirements on trustees or managers of the transferring scheme to request evidence or information[^c-3b4648f5f165f04cb36363841fcdf75c]
 
 (1) The trustees or managers of the transferring scheme must request from the member the following evidence, where the Second Condition applies to a transfer into one of the following types of receiving scheme—
 
@@ -283,7 +283,7 @@ These Regulations apply to transfers where, in a case where the member applies f
 - (a) the member has a controller appointed under Part VIII of the Mental Health (Northern Ireland) Order 1986[^f00032] (management of property and affairs of patients), or
 - (b) there is an attorney with a general power, or a power to make the request for a transfer, appointed by the member under the Powers of Attorney Act (Northern Ireland) 1971[^f00033], the Enduring Powers of Attorney (Northern Ireland) Order 1987[^f00034] or otherwise.
 
-## 11. The Second Condition: transfers into an occupational pension scheme and the employment link[^key-de5f8bfe8c3c9e19a01d9d898ee1eff5]
+## 11. The Second Condition: transfers into an occupational pension scheme and the employment link[^c-de5f8bfe8c3c9e19a01d9d898ee1eff5]
 
 (1) There is an employment link between the member and the receiving scheme where the trustees or managers of the transferring scheme decide that—
 
@@ -323,7 +323,7 @@ These Regulations apply to transfers where, in a case where the member applies f
 - “**certified copy**” means a copy certified as a true copy by the personal bank or a building society;
 - “**sponsoring employer**” has the same meaning as in section 150(6) of the 2004 Act (meaning of “pension scheme” and related terms).
 
-## 12. The Second Condition: transfers into a QROPS and the residency link[^key-0970bd6ee68961a46b02e1dcafe63304]
+## 12. The Second Condition: transfers into a QROPS and the residency link[^c-0970bd6ee68961a46b02e1dcafe63304]
 
 (1) There is a residency link between the member and the receiving scheme where the trustees or managers of the transferring scheme decide that the member is resident in the country or territory in which the QROPS is established.
 
@@ -396,7 +396,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5))
 
-[^key-35ac9bbf44f1d29af6f74b9765ce8001]: Commencement: Reg. 1 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
+[^c-35ac9bbf44f1d29af6f74b9765ce8001]: Commencement: Reg. 1 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
 
 [^f00003]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8)
 
@@ -410,7 +410,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-d7f9124a2f5616e121fa36ef6dfd80cf]: Commencement: Reg. 2 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
+[^c-d7f9124a2f5616e121fa36ef6dfd80cf]: Commencement: Reg. 2 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
 
 [^f00009]: Footnote: Section 91(2) was amended by paragraph 55 of Schedule 4 to the Pension Schemes Act [2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8) and Article 133 of [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649); section 91(2A) was inserted by section 71(3) of the Pension Schemes Act 2015; section 91(3) was amended by paragraph 55 of Schedule 4 to the Pension Schemes Act 2015
 
@@ -426,13 +426,13 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00015]: Footnote: *See* the definition of “eligible member” in section 97P(1) of the Pension Schemes (Northern Ireland) Act 1993
 
-[^key-81a57836502d63a92f1a98bc3a7dd497]: Commencement: Reg. 3 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
+[^c-81a57836502d63a92f1a98bc3a7dd497]: Commencement: Reg. 3 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
 
 [^f00016]: Footnote: Section 89A was inserted by paragraph 54 of Schedule 4 to the Pension Schemes Act 2015
 
-[^key-bce5e34f708ba283dd7ec82a4a91ad4a]: Commencement: Reg. 4 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
+[^c-bce5e34f708ba283dd7ec82a4a91ad4a]: Commencement: Reg. 4 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
 
-[^key-08faa81d8c410704c93482ee22591bf4]: Commencement: Reg. 5 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
+[^c-08faa81d8c410704c93482ee22591bf4]: Commencement: Reg. 5 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
 
 [^f00017]: Footnote: Section 94 was substituted by paragraph 58 of Schedule 4 to the Pension Schemes Act 2015 and subsection (2) was amended by paragraph 13(3) of Schedule 11 to the Pension Schemes Act 2021
 
@@ -442,9 +442,9 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00020]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
 
-[^key-2a468dfda3f8b3db5cb54af7bc6fda6b]: Commencement: Reg. 6 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
+[^c-2a468dfda3f8b3db5cb54af7bc6fda6b]: Commencement: Reg. 6 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
 
-[^key-aa83f43b77ed5d6f906fe79b7f0feec2]: Commencement: Reg. 7 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
+[^c-aa83f43b77ed5d6f906fe79b7f0feec2]: Commencement: Reg. 7 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
 
 [^f00021]: Footnote: Section 1 became section 1(1) by virtue of Article 216(2) of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255))
 
@@ -454,7 +454,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00024]: Footnote: [2021 c. 6 (N.I.)](https://www.legislation.gov.uk/nia/2021/6)
 
-[^key-57e58c37abd00364ff8f9c1e18fd5b6b]: Commencement: Reg. 8 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
+[^c-57e58c37abd00364ff8f9c1e18fd5b6b]: Commencement: Reg. 8 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
 
 [^f00025]: Footnote: Part 4A was substituted for Part 4 by section 11(2) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21)
 
@@ -466,19 +466,19 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00029]: Footnote: Article 53E was inserted by Article 2(2) of [S.I. 2015/731](https://www.legislation.gov.uk/uksi/2015/731)
 
-[^key-710f6ffec66990c38c5e7315b398d4e6]: Textual amendment: Word in [reg. 8(6)](https://www.legislation.gov.uk/nisr/2021/298/regulation/8/6) omitted (23.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Providing Targeted Support) (Amendment) Order 2026 (S.I. 2026/74)](https://www.legislation.gov.uk/uksi/2026/74), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/74/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/74/article/1/3), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2026/74/schedule/paragraph/9/a)
+[^c-710f6ffec66990c38c5e7315b398d4e6]: Textual amendment: Word in [reg. 8(6)](https://www.legislation.gov.uk/nisr/2021/298/regulation/8/6) omitted (23.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Providing Targeted Support) (Amendment) Order 2026 (S.I. 2026/74)](https://www.legislation.gov.uk/uksi/2026/74), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/74/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/74/article/1/3), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2026/74/schedule/paragraph/9/a)
 
-[^key-f0b90d26c60b1cb8d052e7c5aef38260]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/nisr/2021/298/regulation/8/6) inserted (23.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Providing Targeted Support) (Amendment) Order 2026 (S.I. 2026/74)](https://www.legislation.gov.uk/uksi/2026/74), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/74/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/74/article/1/3), [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2026/74/schedule/paragraph/9/b)
+[^c-f0b90d26c60b1cb8d052e7c5aef38260]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/nisr/2021/298/regulation/8/6) inserted (23.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Providing Targeted Support) (Amendment) Order 2026 (S.I. 2026/74)](https://www.legislation.gov.uk/uksi/2026/74), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/74/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/74/article/1/3), [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2026/74/schedule/paragraph/9/b)
 
-[^key-8f53d96757689aa8fea66fe6326f59d3]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/nisr/2021/298/regulation/8/6) substituted (23.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Providing Targeted Support) (Amendment) Order 2026 (S.I. 2026/74)](https://www.legislation.gov.uk/uksi/2026/74), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/74/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/74/article/1/3), [Sch. para. 9(c)](https://www.legislation.gov.uk/uksi/2026/74/schedule/paragraph/9/c)
+[^c-8f53d96757689aa8fea66fe6326f59d3]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/nisr/2021/298/regulation/8/6) substituted (23.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Providing Targeted Support) (Amendment) Order 2026 (S.I. 2026/74)](https://www.legislation.gov.uk/uksi/2026/74), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/74/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/74/article/1/3), [Sch. para. 9(c)](https://www.legislation.gov.uk/uksi/2026/74/schedule/paragraph/9/c)
 
 [^f00030]: Footnote: Article 64 was amended by Article 5 of [S.I. 2002/682](https://www.legislation.gov.uk/uksi/2002/682), Article 18 of [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384), Article 5 of [S.I. 2009/1389](https://www.legislation.gov.uk/uksi/2009/1389), paragraph 1(14) of Schedule 2 to [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), Article 12(7) of [S.I. 2017/488](https://www.legislation.gov.uk/uksi/2017/488), regulation 52 of [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135) and Article 5 of [S.I. 2018/1253](https://www.legislation.gov.uk/uksi/2018/1253)
 
-[^key-ab2eccb10c62c2e68a7b40678b3822e7]: Commencement: Reg. 9 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
+[^c-ab2eccb10c62c2e68a7b40678b3822e7]: Commencement: Reg. 9 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
 
 [^f00031]: Footnote: The Money and Pensions Service can be contacted at Holborn Centre, 120 Holborn, London, EC1N 2TD or at www. moneyandpensionsservice.org.uk
 
-[^key-3b4648f5f165f04cb36363841fcdf75c]: Commencement: Reg. 10 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
+[^c-3b4648f5f165f04cb36363841fcdf75c]: Commencement: Reg. 10 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
 
 [^f00032]: Footnote: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595)
 
@@ -486,10 +486,10 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00034]: Footnote: [S.I. 1987/1627 (N.I. 16)](https://www.legislation.gov.uk/nisi/1987/1627)
 
-[^key-de5f8bfe8c3c9e19a01d9d898ee1eff5]: Commencement: Reg. 11 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
+[^c-de5f8bfe8c3c9e19a01d9d898ee1eff5]: Commencement: Reg. 11 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
 
 [^f00035]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 5 was substituted by paragraph 1 of Schedule 10 to the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) and amended by Part 4 of Schedule 7 to the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22) and Schedule 2 to the National Insurance Contributions Act [2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16)
 
-[^key-0970bd6ee68961a46b02e1dcafe63304]: Commencement: Reg. 12 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
+[^c-0970bd6ee68961a46b02e1dcafe63304]: Commencement: Reg. 12 in operation at 30.11.2021, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2021/298/regulation/1/1)
 
 [^f00036]: Footnote: Section 244B was inserted by paragraph 14 of Schedule 4 to the Finance Act 2017

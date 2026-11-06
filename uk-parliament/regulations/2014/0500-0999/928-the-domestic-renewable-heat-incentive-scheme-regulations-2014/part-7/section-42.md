@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Ongoing obligations: emissions from biomass[^key-bd3e434c11c404a76ba691b6a903ec8f]
+## 42. Ongoing obligations: emissions from biomass[^c-bd3e434c11c404a76ba691b6a903ec8f]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Where an accredited domestic plant is a biomass plant to which an RHI emission c
 
 ## Annotations
 
-[^key-bd3e434c11c404a76ba691b6a903ec8f]: Commencement: Reg. 42 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-bd3e434c11c404a76ba691b6a903ec8f]: Commencement: Reg. 42 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

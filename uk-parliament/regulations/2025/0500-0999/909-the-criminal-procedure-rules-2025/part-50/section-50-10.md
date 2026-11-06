@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.10. Issue of provisional arrest warrant[^key-fcd88d737a9bb1363985a49e111fe33b]
+## 50.10. Issue of provisional arrest warrant[^c-fcd88d737a9bb1363985a49e111fe33b]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fcd88d737a9bb1363985a49e111fe33b]: Commencement: [Rule 50.10](https://www.legislation.gov.uk/uksi/2025/909/rule/50.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-fcd88d737a9bb1363985a49e111fe33b]: Commencement: [Rule 50.10](https://www.legislation.gov.uk/uksi/2025/909/rule/50.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01340]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); section 73 was amended by paragraph 203 of Schedule 16 to the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52). Section 137 was amended by sections 164 and 181 of, and paragraph 117 of Schedule 11 to, the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12). Section 138 was amended by sections 164 and 181 of, and paragraph 118 of Schedule 11 to, the 2014 Act.

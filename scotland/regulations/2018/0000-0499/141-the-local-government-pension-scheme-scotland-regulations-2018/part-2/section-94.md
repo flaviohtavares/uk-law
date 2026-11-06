@@ -24,7 +24,7 @@ summary: ''
 
 (2) The actuary may make such adjustments as are thought fit in calculating that amount and in particular as respects the period from the date mentioned in paragraph (1) to the date of actual payment of the transfer value.
 
-(2A)[^key-ce46fc3120a3f801eab8e9b25bab3868] The actuary must take into account the member’s provisional underpin amount and provisional assumed benefits, which are calculated in relation to the member in accordance with regulations 4I and 4J of the Transitional Provisions and Savings Regulations 2014.
+(2A)[^c-ce46fc3120a3f801eab8e9b25bab3868] The actuary must take into account the member’s provisional underpin amount and provisional assumed benefits, which are calculated in relation to the member in accordance with regulations 4I and 4J of the Transitional Provisions and Savings Regulations 2014.
 
 (3) The actuary must specify in the valuation the actuarial assumptions used in making it.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce46fc3120a3f801eab8e9b25bab3868]: Textual amendment: [Reg. 94(2A)](https://www.legislation.gov.uk/ssi/2018/141/regulation/94/2A) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(16)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/16)
+[^c-ce46fc3120a3f801eab8e9b25bab3868]: Textual amendment: [Reg. 94(2A)](https://www.legislation.gov.uk/ssi/2018/141/regulation/94/2A) inserted (1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/240)](https://www.legislation.gov.uk/ssi/2023/240), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/240/regulation/1/2), [3(16)](https://www.legislation.gov.uk/ssi/2023/240/regulation/3/16)

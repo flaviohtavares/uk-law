@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Immunity from seizure or forfeiture[^key-f1193f31df2f93d5ad4e415823a42ef5]
+## 28. Immunity from seizure or forfeiture[^c-f1193f31df2f93d5ad4e415823a42ef5]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1193f31df2f93d5ad4e415823a42ef5]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/6/section/28) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-f1193f31df2f93d5ad4e415823a42ef5]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/6/section/28) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

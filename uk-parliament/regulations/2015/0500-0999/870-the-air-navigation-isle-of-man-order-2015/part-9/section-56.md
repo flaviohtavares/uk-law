@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Exceptions[^key-e8c173f5567c2ca021e800c11e520f49]
+## 56. Exceptions[^c-e8c173f5567c2ca021e800c11e520f49]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ The loading instructions need not conform with article 54(4) if—
 
 ## Annotations
 
-[^key-e8c173f5567c2ca021e800c11e520f49]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2015/870/article/56) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-e8c173f5567c2ca021e800c11e520f49]: Commencement: [Art. 56](https://www.legislation.gov.uk/uksi/2015/870/article/56) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

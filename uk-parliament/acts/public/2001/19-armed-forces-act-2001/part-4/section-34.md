@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Miscellaneous amendments[^c1420044][^key-5b346da68196d37f0e209299194369b4]
+## 34. Miscellaneous amendments[^c1420044][^c-5b346da68196d37f0e209299194369b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Schedule 6 (which contains miscellaneous amendments relating to the armed forces
 
 [^c1420044]: Commencement: S. 34 partly in force; s. 34 in force for certain purposes at 11.5.2001 see s. 39; s. 34 in force for certain purposes at 1.10.2001 by [S.I. 2001/3234](https://www.legislation.gov.uk/uksi/2001/3234), [art. 2](https://www.legislation.gov.uk/uksi/2001/3234/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2001/3234/article/3)); s. 34 in force for certain further purposes at 28.2.2002 by [S.I. 2002/345](https://www.legislation.gov.uk/uksi/2002/345), [art. 2](https://www.legislation.gov.uk/uksi/2002/345/article/2)
 
-[^key-5b346da68196d37f0e209299194369b4]: Commencement: S. 34 in force at 30.9.2003 for specified purposes by [S.I. 2003/2268](https://www.legislation.gov.uk/uksi/2003/2268), [art. 2](https://www.legislation.gov.uk/uksi/2003/2268/article/2)
+[^c-5b346da68196d37f0e209299194369b4]: Commencement: S. 34 in force at 30.9.2003 for specified purposes by [S.I. 2003/2268](https://www.legislation.gov.uk/uksi/2003/2268), [art. 2](https://www.legislation.gov.uk/uksi/2003/2268/article/2)

@@ -42,99 +42,99 @@ renewing the authorisation for continued marketing of products containing, consi
 
 (2010/419/EU) (revoked)
 
-[^key-82e1f3d1efb57690505aa8cf0411c453]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82e1f3d1efb57690505aa8cf0411c453]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Genetically modified organism and unique identifier[^key-82e1f3d1efb57690505aa8cf0411c453]
+## Article 1. Genetically modified organism and unique identifier[^c-82e1f3d1efb57690505aa8cf0411c453]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Authorisation[^key-82e1f3d1efb57690505aa8cf0411c453]
+## Article 2. Authorisation[^c-82e1f3d1efb57690505aa8cf0411c453]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Labelling[^key-82e1f3d1efb57690505aa8cf0411c453]
+## Article 3. Labelling[^c-82e1f3d1efb57690505aa8cf0411c453]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Monitoring for environmental effects[^key-82e1f3d1efb57690505aa8cf0411c453]
+## Article 4. Monitoring for environmental effects[^c-82e1f3d1efb57690505aa8cf0411c453]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Register[^key-82e1f3d1efb57690505aa8cf0411c453]
+## Article 5. Register[^c-82e1f3d1efb57690505aa8cf0411c453]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Authorisation holder[^key-82e1f3d1efb57690505aa8cf0411c453]
+## Article 6. Authorisation holder[^c-82e1f3d1efb57690505aa8cf0411c453]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Validity[^key-82e1f3d1efb57690505aa8cf0411c453]
+## Article 7. Validity[^c-82e1f3d1efb57690505aa8cf0411c453]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Repeal[^key-82e1f3d1efb57690505aa8cf0411c453]
+## Article 8. Repeal[^c-82e1f3d1efb57690505aa8cf0411c453]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Addressee[^key-82e1f3d1efb57690505aa8cf0411c453]
+## Article 9. Addressee[^c-82e1f3d1efb57690505aa8cf0411c453]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-82e1f3d1efb57690505aa8cf0411c453]
+## ANNEX[^c-82e1f3d1efb57690505aa8cf0411c453]
 
-[^key-82e1f3d1efb57690505aa8cf0411c453](a)
+[^c-82e1f3d1efb57690505aa8cf0411c453](a)
 
 **Applicant and authorisation holder:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82e1f3d1efb57690505aa8cf0411c453](b)
+[^c-82e1f3d1efb57690505aa8cf0411c453](b)
 
 **Designation and specification of the products:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82e1f3d1efb57690505aa8cf0411c453](c)
+[^c-82e1f3d1efb57690505aa8cf0411c453](c)
 
 **Labelling:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82e1f3d1efb57690505aa8cf0411c453](d)
+[^c-82e1f3d1efb57690505aa8cf0411c453](d)
 
 **Method for detection:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82e1f3d1efb57690505aa8cf0411c453](e)
+[^c-82e1f3d1efb57690505aa8cf0411c453](e)
 
 **Unique identifier:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82e1f3d1efb57690505aa8cf0411c453](f)
+[^c-82e1f3d1efb57690505aa8cf0411c453](f)
 
 **Information required under Annex II to the Cartagena Protocol on Biosafety to the Convention on Biological Diversity:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82e1f3d1efb57690505aa8cf0411c453](g)
+[^c-82e1f3d1efb57690505aa8cf0411c453](g)
 
 **Conditions or restrictions on the placing on the market, use or handling of the products:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82e1f3d1efb57690505aa8cf0411c453](h)
+[^c-82e1f3d1efb57690505aa8cf0411c453](h)
 
 **Monitoring plan:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82e1f3d1efb57690505aa8cf0411c453](i)
+[^c-82e1f3d1efb57690505aa8cf0411c453](i)
 
 **Post-market monitoring requirements for the use of the food for human consumption:**
 
@@ -142,4 +142,4 @@ renewing the authorisation for continued marketing of products containing, consi
 
 ## Annotations
 
-[^key-82e1f3d1efb57690505aa8cf0411c453]: Textual amendment: Decision revoked (E.) (20.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (England) Regulations 2022 (S.I. 2022/486)](https://www.legislation.gov.uk/uksi/2022/486), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/486/regulation/1/b), [4(d)](https://www.legislation.gov.uk/uksi/2022/486/regulation/4/d); Decision revoked (W.) (20.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (Wales) Regulations 2022 (S.I. 2022/472)](https://www.legislation.gov.uk/uksi/2022/472), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/472/regulation/1/2/c), [4(d)](https://www.legislation.gov.uk/uksi/2022/472/regulation/4/d); and Decision revoked (S.) (31.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (Scotland) Regulations 2022 (S.S.I. 2022/137)](https://www.legislation.gov.uk/ssi/2022/137), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/137/regulation/1/1), [4(d)](https://www.legislation.gov.uk/ssi/2022/137/regulation/4/d)
+[^c-82e1f3d1efb57690505aa8cf0411c453]: Textual amendment: Decision revoked (E.) (20.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (England) Regulations 2022 (S.I. 2022/486)](https://www.legislation.gov.uk/uksi/2022/486), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/486/regulation/1/b), [4(d)](https://www.legislation.gov.uk/uksi/2022/486/regulation/4/d); Decision revoked (W.) (20.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (Wales) Regulations 2022 (S.I. 2022/472)](https://www.legislation.gov.uk/uksi/2022/472), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/472/regulation/1/2/c), [4(d)](https://www.legislation.gov.uk/uksi/2022/472/regulation/4/d); and Decision revoked (S.) (31.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (Scotland) Regulations 2022 (S.S.I. 2022/137)](https://www.legislation.gov.uk/ssi/2022/137), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/137/regulation/1/1), [4(d)](https://www.legislation.gov.uk/ssi/2022/137/regulation/4/d)

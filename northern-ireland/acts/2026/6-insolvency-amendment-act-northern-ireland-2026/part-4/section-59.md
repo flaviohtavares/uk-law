@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Definition of “the relevant date”[^key-2f858fa8eb6db18f154c3600530d9e4c]
+## 59. Definition of “the relevant date”[^c-2f858fa8eb6db18f154c3600530d9e4c]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 347(2) (definition of “the relevant date”), for “meetings to co
 
 ## Annotations
 
-[^key-2f858fa8eb6db18f154c3600530d9e4c]: Commencement: S. 59 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-2f858fa8eb6db18f154c3600530d9e4c]: Commencement: S. 59 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

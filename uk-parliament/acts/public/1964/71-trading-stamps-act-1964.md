@@ -31,56 +31,56 @@ Trading Stamps Act 1964 (repealed)
 
 1964 c.71
 
-[^key-9078639c21e3a7e745535a05d18a54ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9078639c21e3a7e745535a05d18a54ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[31st July 1964\]
 
 **No longer in force.**
 
-## 1. Restrictions on persons who may carry on business as promoters of trading stamp schemes.[^key-9078639c21e3a7e745535a05d18a54ca][^key-9078639c21e3a7e745535a05d18a54ca]
+## 1. Restrictions on persons who may carry on business as promoters of trading stamp schemes.[^c-9078639c21e3a7e745535a05d18a54ca][^c-9078639c21e3a7e745535a05d18a54ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Statements required on face of trading stamps.[^key-9078639c21e3a7e745535a05d18a54ca][^key-9078639c21e3a7e745535a05d18a54ca]
+## 2. Statements required on face of trading stamps.[^c-9078639c21e3a7e745535a05d18a54ca][^c-9078639c21e3a7e745535a05d18a54ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Redemption of trading stamps for cash.[^key-9078639c21e3a7e745535a05d18a54ca][^key-9078639c21e3a7e745535a05d18a54ca]
+## 3. Redemption of trading stamps for cash.[^c-9078639c21e3a7e745535a05d18a54ca][^c-9078639c21e3a7e745535a05d18a54ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Warranties to be implied on redemption of trading stamps for goods.[^key-9078639c21e3a7e745535a05d18a54ca][^key-9078639c21e3a7e745535a05d18a54ca]
+## 4. Warranties to be implied on redemption of trading stamps for goods.[^c-9078639c21e3a7e745535a05d18a54ca][^c-9078639c21e3a7e745535a05d18a54ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Catalogues and stamp books to include name and address of promoter.[^key-9078639c21e3a7e745535a05d18a54ca][^key-9078639c21e3a7e745535a05d18a54ca]
+## 5. Catalogues and stamp books to include name and address of promoter.[^c-9078639c21e3a7e745535a05d18a54ca][^c-9078639c21e3a7e745535a05d18a54ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Advertisements referring to value of trading stamps.[^key-9078639c21e3a7e745535a05d18a54ca][^key-9078639c21e3a7e745535a05d18a54ca]
+## 6. Advertisements referring to value of trading stamps.[^c-9078639c21e3a7e745535a05d18a54ca][^c-9078639c21e3a7e745535a05d18a54ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Display of information in shops.[^key-9078639c21e3a7e745535a05d18a54ca][^key-9078639c21e3a7e745535a05d18a54ca]
+## 7. Display of information in shops.[^c-9078639c21e3a7e745535a05d18a54ca][^c-9078639c21e3a7e745535a05d18a54ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Offences committed by corporations.[^key-9078639c21e3a7e745535a05d18a54ca][^key-9078639c21e3a7e745535a05d18a54ca]
+## 8. Offences committed by corporations.[^c-9078639c21e3a7e745535a05d18a54ca][^c-9078639c21e3a7e745535a05d18a54ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Venue in summary proceedings.[^key-9078639c21e3a7e745535a05d18a54ca][^key-9078639c21e3a7e745535a05d18a54ca]
+## 9. Venue in summary proceedings.[^c-9078639c21e3a7e745535a05d18a54ca][^c-9078639c21e3a7e745535a05d18a54ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Interpretation.[^key-9078639c21e3a7e745535a05d18a54ca][^key-9078639c21e3a7e745535a05d18a54ca]
+## 10. Interpretation.[^c-9078639c21e3a7e745535a05d18a54ca][^c-9078639c21e3a7e745535a05d18a54ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Short title, extent and commencement.[^key-9078639c21e3a7e745535a05d18a54ca][^key-9078639c21e3a7e745535a05d18a54ca]
+## 11. Short title, extent and commencement.[^c-9078639c21e3a7e745535a05d18a54ca][^c-9078639c21e3a7e745535a05d18a54ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9078639c21e3a7e745535a05d18a54ca]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1964/71) repealed (6.4.2005) by [Regulatory Reform (Trading Stamps) Order 2005 (S.I. 2005/871)](https://www.legislation.gov.uk/uksi/2005/871), [arts. 1](https://www.legislation.gov.uk/uksi/2005/871/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2005/871/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2005/871/article/3/2))
+[^c-9078639c21e3a7e745535a05d18a54ca]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1964/71) repealed (6.4.2005) by [Regulatory Reform (Trading Stamps) Order 2005 (S.I. 2005/871)](https://www.legislation.gov.uk/uksi/2005/871), [arts. 1](https://www.legislation.gov.uk/uksi/2005/871/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2005/871/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2005/871/article/3/2))

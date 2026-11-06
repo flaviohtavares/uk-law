@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3.[^key-9737ac46fb982da005312fb1254e4e93]
+## 3.[^c-9737ac46fb982da005312fb1254e4e93]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9737ac46fb982da005312fb1254e4e93]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-9737ac46fb982da005312fb1254e4e93]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23882671]: Marginal citation: Section 10 was amended by paragraph 38(1) and (8) of Schedule 25 to the [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2002/40/paragraph/1) and 4 of Schedule 5 to the [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [S.I](https://www.legislation.gov.uk/ukpga/2013/24/section/I). 2004/1261 and [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).

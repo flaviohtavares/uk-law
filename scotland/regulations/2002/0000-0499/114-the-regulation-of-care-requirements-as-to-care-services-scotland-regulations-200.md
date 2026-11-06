@@ -45,7 +45,7 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 29 of the Regulation of Care (Scotland) Act 2001[^f00001] and of all other powers enabling them in that behalf, and having consulted such persons and groups of persons as they consider appropriate in accordance with section 29(12) of that Act, hereby make the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-87c0c27cc0275e1983724b2b1da64d67]
+## 1. Citation, commencement and interpretation[^c-87c0c27cc0275e1983724b2b1da64d67]
 
 (1) These Regulations may be cited as the Regulation of Care (Requirements as to Care Services) (Scotland) Regulations 2002 and shall come into force on 1st April 2002.
 
@@ -66,15 +66,15 @@ The Scottish Ministers, in exercise of the powers conferred by section 29 of the
 
 (3) In these Regulations, references to employing a person include employing a person whether or not for payment and whether under a contract of service, a contract for services or otherwise than under a contract, and allowing a person to work as a volunteer; and references to an employee or to a person being employed shall be construed accordingly.
 
-## 2. Principles[^key-740335fcb48349554fc82e9938044d13]
+## 2. Principles[^c-740335fcb48349554fc82e9938044d13]
 
 A provider of a care service shall provide the service in a manner which promotes and respects the independence of service users and, so far as it is practicable to do so, affords them choice in the way in which the service is provided to them.
 
-## 3. Statement of aims and objectives[^key-7d506ebb4d5e4728521a400640fcba9d]
+## 3. Statement of aims and objectives[^c-7d506ebb4d5e4728521a400640fcba9d]
 
 A provider shall prepare a written statement of the aims and objectives of the care service.
 
-## 4. Welfare of users[^key-59d44ead969ed9d231147ca2faf9e1b9]
+## 4. Welfare of users[^c-59d44ead969ed9d231147ca2faf9e1b9]
 
 (1) Providers shall–
 
@@ -87,7 +87,7 @@ A provider shall prepare a written statement of the aims and objectives of the c
 
 (3) A provider of day care or child minding shall not administer, or permit any person employed in the provision of the service to administer, physical chastisement or punishment to any child who is looked after or cared for by the service.
 
-## 5. Personal plans[^key-1e3576e2ff8f741fce2c813f3994dd24]
+## 5. Personal plans[^c-1e3576e2ff8f741fce2c813f3994dd24]
 
 (1) Subject to paragraph (4), a provider shall, after consultation with each service user and, where it appears to the provider to be appropriate, any representative, within one month of the date on which the service user first received the service prepare a written plan (“the personal plan”) which sets out how the service user’s health and welfare needs are to be met.
 
@@ -104,7 +104,7 @@ A provider shall prepare a written statement of the aims and objectives of the c
 
 (4) This regulation does not apply to any care service which is a nurse agency, child minding or day care of children.
 
-## 6. Fitness of providers[^key-ab2cddc90d65959e1d1f2f0c23a0856a]
+## 6. Fitness of providers[^c-ab2cddc90d65959e1d1f2f0c23a0856a]
 
 (1) A person shall not provide a care service unless the person is fit to do so.
 
@@ -134,7 +134,7 @@ Provided that–
 
 (4) A provider shall inform the Commission immediately in writing where the provider becomes a person who is not fit to provide a care service in terms of this regulation.
 
-## 7. Fitness of managers[^key-5701289374afecc95e4fa1a780da3f47]
+## 7. Fitness of managers[^c-5701289374afecc95e4fa1a780da3f47]
 
 (1) A person shall not act as a manager in relation to a care service unless the person is fit to do so.
 
@@ -146,7 +146,7 @@ Provided that–
 - (d) a person who does not have the skills, knowledge and experience necessary for managing the care service;
 - (e) a person who, in order to perform the duties for which the person is employed in the care service, is required by any enactment to be registered with any person or body and is not so registered.
 
-## 8. Notification of unfitness[^key-53763cb444a9298244f52b66a6d0bfd7]
+## 8. Notification of unfitness[^c-53763cb444a9298244f52b66a6d0bfd7]
 
 (1) Where a provider of a care service is, or becomes aware that a person acting as a manager in relation to the care service has been, convicted of any criminal offence whether in the United Kingdom or elsewhere, the provider shall immediately give notice to the Commission of–
 
@@ -156,7 +156,7 @@ Provided that–
 
 (2) Where a provider of a care service becomes aware that a person acting as manager in relation to that service is not fit to do so in terms of this regulation, the provider shall immediately notify the Commission in writing of that fact.
 
-## 9. Fitness of employees[^key-d40a831d0add8a7337fb5babbaf47f70]
+## 9. Fitness of employees[^c-d40a831d0add8a7337fb5babbaf47f70]
 
 (1) A provider shall not employ any person in the provision of a care service unless that person is fit to be so employed.
 
@@ -166,7 +166,7 @@ Provided that–
 - (b) a person who does not have the qualifications skills and experience necessary for the work that the person is to perform; and
 - (c) any person to whom regulation 7(2)(e) applies.
 
-## 10. Fitness of premises[^key-486f7229c5336824a3e547d717370926]
+## 10. Fitness of premises[^c-486f7229c5336824a3e547d717370926]
 
 (1) A provider shall not use premises for the provision of a care service unless they are fit to be so used.
 
@@ -178,11 +178,11 @@ Provided that–
 
 (3) Accommodation shall not be provided and used for the purpose of restricting the liberty of children in any residential premises where care services are provided unless it has been approved for such provision and use by the Scottish Ministers.
 
-## 11. Fitness in relation to child minding[^key-abb70e63da979314abaa4f6fdab4c06b]
+## 11. Fitness in relation to child minding[^c-abb70e63da979314abaa4f6fdab4c06b]
 
 A provider of child minding shall not permit any person who is not fit to be in the proximity of children to live at the premises which are used for the provision of the service.
 
-## 12. Facilities in care homes[^key-a895ce356a3d1cb5e3970d604f35d1eb]
+## 12. Facilities in care homes[^c-a895ce356a3d1cb5e3970d604f35d1eb]
 
 Providers of a care home service shall, having regard to the size of the service, the statement of aims and objectives and the number and needs of service users–
 
@@ -192,7 +192,7 @@ Providers of a care home service shall, having regard to the size of the service
 - (d) ensure that there are provided at appropriate places in the premises from which the service is provided sufficient numbers of lavatories, and of wash-basins, baths and showers fitted with a hot and cold water supply; and
 - (e) provide a place where the money and valuables of service users may be deposited for safe keeping, and make arrangements for service users to acknowledge in writing the return to them of any money or valuables so deposited.
 
-## 13. Staffing[^key-305b0a73084402f76db60b1058438aef]
+## 13. Staffing[^c-305b0a73084402f76db60b1058438aef]
 
 A provider shall, having regard to the size and nature of the service, the statement of aims and objectives and the number and needs of service users–
 
@@ -202,15 +202,15 @@ A provider shall, having regard to the size and nature of the service, the state
   - (i) training appropriate to the work they are to perform; and
   - (ii) suitable assistance, including time off work, for the purpose of obtaining further qualifications appropriate to such work.
 
-## 14. Medical practitioners in care homes[^key-00f7f7593f23371f7f13df550b3d9e20]
+## 14. Medical practitioners in care homes[^c-00f7f7593f23371f7f13df550b3d9e20]
 
 A person having a financial interest in a care home service shall not act as a medical practitioner for any user of that service.
 
-## 15. Quality of independent health care[^key-079fd39de0ccc4b3b3ac11e219e094c3]
+## 15. Quality of independent health care[^c-079fd39de0ccc4b3b3ac11e219e094c3]
 
 A provider of an independent health care service shall make such arrangements as are necessary for securing that any treatment or services provided by the service are of a quality which is appropriate to meet the needs of service users.
 
-## 16. Financial position[^key-57ddbc622f2ece9da07f3526ebc0428f]
+## 16. Financial position[^c-57ddbc622f2ece9da07f3526ebc0428f]
 
 (1) Subject to paragraph (3), a provider shall provide the Commission with such information and documents as it may require in order to consider the financial viability of the care service, including–
 
@@ -233,7 +233,7 @@ A provider of an independent health care service shall make such arrangements as
 
 (4) In this regulation a company is an associated company of another if one of them has control of the other or both are under the control of the same person.
 
-## 17. Appointment of manager[^key-96b1852aef1cd61c3ef17f46ed165740]
+## 17. Appointment of manager[^c-96b1852aef1cd61c3ef17f46ed165740]
 
 (1) A provider who–
 
@@ -248,14 +248,14 @@ shall appoint an individual to be the manager of the care service.
 - (a) the name of the person so appointed; and
 - (b) the date on which the appointment is to take effect.
 
-## 18. Appointment of liquidators etc[^key-0656d905b1c9e8f963e9392389a82a35]
+## 18. Appointment of liquidators etc[^c-0656d905b1c9e8f963e9392389a82a35]
 
 Any person to whom section 29(3) of the Regulation of Care (Scotland) Act 2001 applies must–
 
 - (a) forthwith notify the Commission of that person’s appointment; and
 - (b) where no person has been appointed to manage the care service, appoint such a person.
 
-## 19. Records[^key-0783926c9bc66ede57abc6273b812ca2]
+## 19. Records[^c-0783926c9bc66ede57abc6273b812ca2]
 
 (1) A provider shall keep a record of the following matters in respect of each service user:–
 
@@ -288,11 +288,11 @@ Any person to whom section 29(3) of the Regulation of Care (Scotland) Act 2001 a
 - (j) medicines for the use of service users which are kept on the premises from which the care service is provided; and
 - (k) details of any instance in which medication has been administered to a service user without the consent of that service user or of a person duly authorised to consent on the service user’s behalf.
 
-## 20. Returns[^key-9054919d9e1fd06f28e74540d09935e2]
+## 20. Returns[^c-9054919d9e1fd06f28e74540d09935e2]
 
 A provider shall make returns to the Commission at least once in every twelve month period giving details of any instance referred to in regulation 19(3)(k) above.
 
-## 21. Notification of death, illness and other events[^key-71ed2bf0147664bd524b46d77db788b6]
+## 21. Notification of death, illness and other events[^c-71ed2bf0147664bd524b46d77db788b6]
 
 (1) A provider shall give notice to the Commission without delay of the death of any service user who has died while the care service was being provided to the service user, and of the circumstances of the death.
 
@@ -303,7 +303,7 @@ A provider shall make returns to the Commission at least once in every twelve mo
 - (c) any theft or accident; or
 - (d) any allegation of misconduct by the provider or any person who is employed in the care service.
 
-## 22. Notice of absence[^key-a4afe121d45f1ff54023144e7660c128]
+## 22. Notice of absence[^c-a4afe121d45f1ff54023144e7660c128]
 
 (1) Where a manager proposes to be absent from the duties of manager of the care service for a continuous period of 28 days or more, the provider shall give notice to the Commission of the proposed absence.
 
@@ -316,7 +316,7 @@ A provider shall make returns to the Commission at least once in every twelve mo
 
 (3) Where the absence arises as a result of an emergency, the provider shall give notice of the absence within one week of its occurrence specifying the matters in sub-paragraphs (a) to (d) of paragraph (2).
 
-## 23. Notice of changes[^key-ada029299ec16024ddc0ad6522594460]
+## 23. Notice of changes[^c-ada029299ec16024ddc0ad6522594460]
 
 (1) A provider shall give notice in writing to the Commission as soon as it is practicable to do so if any of the following events takes place or is proposed to take place:–
 
@@ -334,11 +334,11 @@ A provider shall make returns to the Commission at least once in every twelve mo
 
 or where another person begins to live at the premises.
 
-## 24. Death of provider[^key-4eb36eedbaa3b5755f6f9616f94d3d70]
+## 24. Death of provider[^c-4eb36eedbaa3b5755f6f9616f94d3d70]
 
 Where a provider who is an individual dies and there is no other provider, the personal representatives of the provider shall without delay give notice of the death to the Commission.
 
-## 25. Complaints[^key-dfdac304291b483e639d4e04e520468b]
+## 25. Complaints[^c-dfdac304291b483e639d4e04e520468b]
 
 (1) A provider shall establish a procedure (“the complaints procedure”) for considering complaints made to the provider by a service user or person acting on the service user’s behalf.
 
@@ -357,7 +357,7 @@ Where a provider who is an individual dies and there is no other provider, the p
 
 (7) The provider shall supply to the Commission at its request a statement containing a summary of the complaints made during the preceding twelve months and the action that was taken.
 
-## 26. Offences[^key-2498e36dbfda9ba61d7962af4f64a5ad]
+## 26. Offences[^c-2498e36dbfda9ba61d7962af4f64a5ad]
 
 A contravention of or failure to comply with any of the provisions of regulations 4(3), 6(1), 7(1), 9(1) or 14 shall be an offence.
 
@@ -391,7 +391,7 @@ Regulation 26 provides that the contravention of specified provisions of these R
 
 [^f00001]: Footnote: [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8).
 
-[^key-87c0c27cc0275e1983724b2b1da64d67]: Commencement: Reg. 1 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-87c0c27cc0275e1983724b2b1da64d67]: Commencement: Reg. 1 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
 [^f00002]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -403,52 +403,52 @@ Regulation 26 provides that the contravention of specified provisions of these R
 
 [^f00006]: Footnote: [1994 c. 17](https://www.legislation.gov.uk/ukpga/1994/17).
 
-[^key-740335fcb48349554fc82e9938044d13]: Commencement: Reg. 2 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-740335fcb48349554fc82e9938044d13]: Commencement: Reg. 2 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-7d506ebb4d5e4728521a400640fcba9d]: Commencement: Reg. 3 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-7d506ebb4d5e4728521a400640fcba9d]: Commencement: Reg. 3 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-59d44ead969ed9d231147ca2faf9e1b9]: Commencement: Reg. 4 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-59d44ead969ed9d231147ca2faf9e1b9]: Commencement: Reg. 4 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-1e3576e2ff8f741fce2c813f3994dd24]: Commencement: Reg. 5 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-1e3576e2ff8f741fce2c813f3994dd24]: Commencement: Reg. 5 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-ab2cddc90d65959e1d1f2f0c23a0856a]: Commencement: Reg. 6 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-ab2cddc90d65959e1d1f2f0c23a0856a]: Commencement: Reg. 6 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-5701289374afecc95e4fa1a780da3f47]: Commencement: Reg. 7 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-5701289374afecc95e4fa1a780da3f47]: Commencement: Reg. 7 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-53763cb444a9298244f52b66a6d0bfd7]: Commencement: Reg. 8 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-53763cb444a9298244f52b66a6d0bfd7]: Commencement: Reg. 8 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-d40a831d0add8a7337fb5babbaf47f70]: Commencement: Reg. 9 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-d40a831d0add8a7337fb5babbaf47f70]: Commencement: Reg. 9 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-486f7229c5336824a3e547d717370926]: Commencement: Reg. 10 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-486f7229c5336824a3e547d717370926]: Commencement: Reg. 10 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-abb70e63da979314abaa4f6fdab4c06b]: Commencement: Reg. 11 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-abb70e63da979314abaa4f6fdab4c06b]: Commencement: Reg. 11 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-a895ce356a3d1cb5e3970d604f35d1eb]: Commencement: Reg. 12 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-a895ce356a3d1cb5e3970d604f35d1eb]: Commencement: Reg. 12 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-305b0a73084402f76db60b1058438aef]: Commencement: Reg. 13 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-305b0a73084402f76db60b1058438aef]: Commencement: Reg. 13 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-00f7f7593f23371f7f13df550b3d9e20]: Commencement: Reg. 14 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-00f7f7593f23371f7f13df550b3d9e20]: Commencement: Reg. 14 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-079fd39de0ccc4b3b3ac11e219e094c3]: Commencement: Reg. 15 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-079fd39de0ccc4b3b3ac11e219e094c3]: Commencement: Reg. 15 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-57ddbc622f2ece9da07f3526ebc0428f]: Commencement: Reg. 16 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-57ddbc622f2ece9da07f3526ebc0428f]: Commencement: Reg. 16 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-96b1852aef1cd61c3ef17f46ed165740]: Commencement: Reg. 17 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-96b1852aef1cd61c3ef17f46ed165740]: Commencement: Reg. 17 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-0656d905b1c9e8f963e9392389a82a35]: Commencement: Reg. 18 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-0656d905b1c9e8f963e9392389a82a35]: Commencement: Reg. 18 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-0783926c9bc66ede57abc6273b812ca2]: Commencement: Reg. 19 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-0783926c9bc66ede57abc6273b812ca2]: Commencement: Reg. 19 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-9054919d9e1fd06f28e74540d09935e2]: Commencement: Reg. 20 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-9054919d9e1fd06f28e74540d09935e2]: Commencement: Reg. 20 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-71ed2bf0147664bd524b46d77db788b6]: Commencement: Reg. 21 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-71ed2bf0147664bd524b46d77db788b6]: Commencement: Reg. 21 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-a4afe121d45f1ff54023144e7660c128]: Commencement: Reg. 22 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-a4afe121d45f1ff54023144e7660c128]: Commencement: Reg. 22 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-ada029299ec16024ddc0ad6522594460]: Commencement: Reg. 23 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-ada029299ec16024ddc0ad6522594460]: Commencement: Reg. 23 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-4eb36eedbaa3b5755f6f9616f94d3d70]: Commencement: Reg. 24 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-4eb36eedbaa3b5755f6f9616f94d3d70]: Commencement: Reg. 24 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-dfdac304291b483e639d4e04e520468b]: Commencement: Reg. 25 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-dfdac304291b483e639d4e04e520468b]: Commencement: Reg. 25 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
 
-[^key-2498e36dbfda9ba61d7962af4f64a5ad]: Commencement: Reg. 26 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)
+[^c-2498e36dbfda9ba61d7962af4f64a5ad]: Commencement: Reg. 26 in force at 1.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/114/regulation/1/1)

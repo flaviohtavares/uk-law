@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Health and social services contract[^key-6c6a5a04d06d5aa42b55592817ebb14c]
+## 12. Health and social services contract[^c-6c6a5a04d06d5aa42b55592817ebb14c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ If the contractor is to be regarded as a health services body pursuant to regula
 
 ## Annotations
 
-[^key-6c6a5a04d06d5aa42b55592817ebb14c]: Commencement: Reg. 12 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-6c6a5a04d06d5aa42b55592817ebb14c]: Commencement: Reg. 12 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)

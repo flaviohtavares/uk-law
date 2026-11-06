@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. Institutions shall adjust the risk-weighted exposure amounts for non-defaulted exposures to an SME (RWEA), which are calculated in accordance with Chapter 2 or 3 of Title II of Part Three of this Regulation and Articles 132a to 132c of Chapter 3 of the Standardised Approach and Internal Ratings Based Approach to Credit Risk (CRR) Part of the PRA Rulebook[^key-0d0dd05c68034ccd98cb4d7c586f108c], as applicable, in accordance with the following formula:
+1. Institutions shall adjust the risk-weighted exposure amounts for non-defaulted exposures to an SME (RWEA), which are calculated in accordance with Chapter 2 or 3 of Title II of Part Three of this Regulation and Articles 132a to 132c of Chapter 3 of the Standardised Approach and Internal Ratings Based Approach to Credit Risk (CRR) Part of the PRA Rulebook[^c-0d0dd05c68034ccd98cb4d7c586f108c], as applicable, in accordance with the following formula:
 
 [formula: see source](https://www.legislation.gov.uk/eur/2013/575)
 
@@ -37,7 +37,7 @@ the total amount owed to the institution, its subsidiaries, its parent undertaki
 2. For the purposes of this Article:
 
 - (a) the exposure to an SME shall be included either in the retail or in the corporates or secured by mortgages on immovable property classes;
-- (b)[^key-e5f13f0c2f2ff7c938b442845b3034ca] an SME is defined as set out in Article 4(1)(128D) of this Regulation, save that in Article 2 of the Annex to Commission Recommendation 2003/361/EC only the annual turnover shall be taken into account;
+- (b)[^c-e5f13f0c2f2ff7c938b442845b3034ca] an SME is defined as set out in Article 4(1)(128D) of this Regulation, save that in Article 2 of the Annex to Commission Recommendation 2003/361/EC only the annual turnover shall be taken into account;
 - (c) institutions shall take reasonable steps to correctly determine E\* and obtain the information required under point (b).
 
 ## Annotations
@@ -46,6 +46,6 @@ the total amount owed to the institution, its subsidiaries, its parent undertaki
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-0d0dd05c68034ccd98cb4d7c586f108c]: Textual amendment: Words in [Art. 501(1)](https://www.legislation.gov.uk/eur/2013/575/article/501/1) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(55)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/55)
+[^c-0d0dd05c68034ccd98cb4d7c586f108c]: Textual amendment: Words in [Art. 501(1)](https://www.legislation.gov.uk/eur/2013/575/article/501/1) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(55)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/55)
 
-[^key-e5f13f0c2f2ff7c938b442845b3034ca]: Textual amendment: [Art. 501(2)(b)](https://www.legislation.gov.uk/eur/2013/575/article/501/2/b) substituted (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [213](https://www.legislation.gov.uk/uksi/2018/1401/regulation/213) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5f13f0c2f2ff7c938b442845b3034ca]: Textual amendment: [Art. 501(2)(b)](https://www.legislation.gov.uk/eur/2013/575/article/501/2/b) substituted (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [213](https://www.legislation.gov.uk/uksi/2018/1401/regulation/213) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

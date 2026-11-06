@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Method of testing capability of transferring constituents[^key-9e1c6cc804a8513d3fe31841c3f83dc2]
+## 6. Method of testing capability of transferring constituents[^c-9e1c6cc804a8513d3fe31841c3f83dc2]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e1c6cc804a8513d3fe31841c3f83dc2]: Commencement: Reg. 6 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-9e1c6cc804a8513d3fe31841c3f83dc2]: Commencement: Reg. 6 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)

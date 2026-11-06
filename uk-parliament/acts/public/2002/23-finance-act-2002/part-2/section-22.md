@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Disallowance of input tax where consideration not paid[^key-3a8d0a7a38515e30cbbed2e72ab2be58]
+## 22. Disallowance of input tax where consideration not paid[^c-3a8d0a7a38515e30cbbed2e72ab2be58]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a8d0a7a38515e30cbbed2e72ab2be58]: Commencement: S. 22 has effect as specified by [The Finance Act 2002, section 22, (Appointed Day) Order 2002 (S.I. 2002/3028)](https://www.legislation.gov.uk/uksi/2002/3028), [art. 2](https://www.legislation.gov.uk/uksi/2002/3028/article/2)
+[^c-3a8d0a7a38515e30cbbed2e72ab2be58]: Commencement: S. 22 has effect as specified by [The Finance Act 2002, section 22, (Appointed Day) Order 2002 (S.I. 2002/3028)](https://www.legislation.gov.uk/uksi/2002/3028), [art. 2](https://www.legislation.gov.uk/uksi/2002/3028/article/2)
 
 [^c10569741]: Subordinate legislation: S. 22(3) power fully exercised: 1.1.2003 appointed by [S.I. 2002/3028](https://www.legislation.gov.uk/uksi/2002/3028), [art. 2](https://www.legislation.gov.uk/uksi/2002/3028/article/2)

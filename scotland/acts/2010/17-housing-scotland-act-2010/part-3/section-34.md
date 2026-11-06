@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Performance improvement targets[^key-b74770e34cd5dc42792cd39a09e81f6a]
+## 34. Performance improvement targets[^c-b74770e34cd5dc42792cd39a09e81f6a]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ This subsection does not apply where—
 
 ## Annotations
 
-[^key-b74770e34cd5dc42792cd39a09e81f6a]: Commencement: S. 34 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-b74770e34cd5dc42792cd39a09e81f6a]: Commencement: S. 34 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

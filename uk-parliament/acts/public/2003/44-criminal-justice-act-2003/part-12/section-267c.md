@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 267C. Fixed-term prisoners also serving life sentence[^key-8f17c5a650f27f20806e04c0acd94199]
+## 267C. Fixed-term prisoners also serving life sentence[^c-8f17c5a650f27f20806e04c0acd94199]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f17c5a650f27f20806e04c0acd94199]: Textual amendment: [S. 267C](https://www.legislation.gov.uk/ukpga/2003/44/section/267C) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 144(11)](https://www.legislation.gov.uk/ukpga/2022/32/section/144/11), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
+[^c-8f17c5a650f27f20806e04c0acd94199]: Textual amendment: [S. 267C](https://www.legislation.gov.uk/ukpga/2003/44/section/267C) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 144(11)](https://www.legislation.gov.uk/ukpga/2022/32/section/144/11), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)

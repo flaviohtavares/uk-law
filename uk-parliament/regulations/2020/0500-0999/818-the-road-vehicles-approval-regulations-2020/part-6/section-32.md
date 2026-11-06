@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Transitional provision: national small series type approval certificate of conformity[^key-8648aa1d7874c90edcad920abf6e2947]
+## 32. Transitional provision: national small series type approval certificate of conformity[^c-8648aa1d7874c90edcad920abf6e2947]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the period beginning with the day on which these Regulations are commenced a
 
 ## Annotations
 
-[^key-8648aa1d7874c90edcad920abf6e2947]: Commencement: Reg. 32 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-8648aa1d7874c90edcad920abf6e2947]: Commencement: Reg. 32 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)

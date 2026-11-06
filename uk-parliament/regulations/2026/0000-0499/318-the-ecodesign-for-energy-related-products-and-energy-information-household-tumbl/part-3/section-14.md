@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Verification procedure for compliance purposes[^key-922add2f27a22701b8ae7903a3579cd1]
+## 14. Verification procedure for compliance purposes[^c-922add2f27a22701b8ae7903a3579cd1]
 
 *Extent: E+W+S*
 
@@ -27,6 +27,6 @@ The market surveillance authority[^f00017] must apply the following verification
 
 ## Annotations
 
-[^key-922add2f27a22701b8ae7903a3579cd1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2026/318/regulation/14) in force at 19.9.2026, see [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/b)
+[^c-922add2f27a22701b8ae7903a3579cd1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2026/318/regulation/14) in force at 19.9.2026, see [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/2/b)
 
 [^f00017]: Footnote: See Article 2(28) of the Framework Regulation for the meanings of “market surveillance” and “market surveillance authority”. Point (28) was inserted by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539/contents), as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528/contents).

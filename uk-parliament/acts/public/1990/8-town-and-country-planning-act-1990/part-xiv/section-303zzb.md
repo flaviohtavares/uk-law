@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 303ZZB. Surcharge on planning fees[^key-2ddc7a5dd29472d824c1aafaa0b61f62]
+## 303ZZB. Surcharge on planning fees[^c-2ddc7a5dd29472d824c1aafaa0b61f62]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ that are made under or for the purposes of the planning Acts and that relate to 
 
 ## Annotations
 
-[^key-2ddc7a5dd29472d824c1aafaa0b61f62]: Textual amendment: S. 303ZZB inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 52](https://www.legislation.gov.uk/ukpga/2025/34/section/52), [118(2)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/b) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-2ddc7a5dd29472d824c1aafaa0b61f62]: Textual amendment: S. 303ZZB inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 52](https://www.legislation.gov.uk/ukpga/2025/34/section/52), [118(2)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/b) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

@@ -39,10 +39,10 @@ summary: ''
 - (a) to make such contribution towards the cost of doing so as the supervisory authority considers appropriate; and
 - (b) to comply with such conditions in relation to the information and documents as the supervisory authority considers appropriate.
 
-(5)[^key-95cf8be1881be03aa847c7cb18f00980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-95cf8be1881be03aa847c7cb18f00980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) “**Foreign authority**” means an authority in a territory which is not part of the United Kingdom which exercises functions referred to in paragraph (2).
 
 ## Annotations
 
-[^key-95cf8be1881be03aa847c7cb18f00980]: Textual amendment: [Reg. 67(5)](https://www.legislation.gov.uk/uksi/2017/692/regulation/67/5) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/253/regulation/11/1) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-95cf8be1881be03aa847c7cb18f00980]: Textual amendment: [Reg. 67(5)](https://www.legislation.gov.uk/uksi/2017/692/regulation/67/5) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [11(1)](https://www.legislation.gov.uk/uksi/2019/253/regulation/11/1) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Duty to give notice to Republic of Ireland of UK driving disqualification[^key-bdfad4f40d65eddd492ac97b1faea769][^key-a339028f9b1ba73427f12e68c7be6987]
+## 55. Duty to give notice to Republic of Ireland of UK driving disqualification[^c-bdfad4f40d65eddd492ac97b1faea769][^c-a339028f9b1ba73427f12e68c7be6987]
 
 *Extent: E+W+S+N.I.*
 
-(1) Where this section applies, the appropriate Minister must give the central authority of the Republic of Ireland[^key-d4efaeb8d2c12e13c7b7f6bc93e15dd1] a notice under this section.
+(1) Where this section applies, the appropriate Minister must give the central authority of the Republic of Ireland[^c-d4efaeb8d2c12e13c7b7f6bc93e15dd1] a notice under this section.
 
 (2) A notice under this section must—
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) state that no appeal is outstanding in relation to it,
 - (d) give particulars of the disqualification,
 - (e) state whether or not the offender took part in the proceedings in which the disqualification was imposed,
-- (f) state that the offender has been informed that any decision made for the purposes of the specified agreement on driving disqualifications[^key-f476add96aa8aaecd2c2716dcf357b4a] will have no effect on the disqualification.
+- (f) state that the offender has been informed that any decision made for the purposes of the specified agreement on driving disqualifications[^c-f476add96aa8aaecd2c2716dcf357b4a] will have no effect on the disqualification.
 
 (3) A notice under this section may contain such other information as the appropriate Minister considers appropriate.
 
@@ -39,7 +39,7 @@ summary: ''
 
 (6) Where the offender is the holder of a Community licence, a notice under this section must also be accompanied by the licence unless it has been returned to the driver—
 
-- (a) under section 91A(7A)(b)[^key-057d90308b02923b46d880da90ab69e9] of the Road Traffic Offenders Act 1988 (c. 53), or
+- (a) under section 91A(7A)(b)[^c-057d90308b02923b46d880da90ab69e9] of the Road Traffic Offenders Act 1988 (c. 53), or
 - (b) under Article 92A(7)(b)(ii) of the Road Traffic Offenders (Northern Ireland) Order 1996 (S.I. 1996/ 1320 (N.I.10)).
 
 (7) Where the period of disqualification is reduced by virtue of section 34A of that Act or Article 36 of that Order, the appropriate Minister must give the central authority particulars of the reduction.
@@ -49,22 +49,22 @@ summary: ''
 (9) The appropriate Minister must provide—
 
 - (a) the central authority, or
-- (b) the competent authority of the Republic of Ireland[^key-7ca26a2cde57a604feac67674c90410e],
+- (b) the competent authority of the Republic of Ireland[^c-7ca26a2cde57a604feac67674c90410e],
 
-with any further information which it requires for the purposes of the specified agreement on driving disqualifications[^key-2e199735bde7cecee3f10d60ace6ee66].
+with any further information which it requires for the purposes of the specified agreement on driving disqualifications[^c-2e199735bde7cecee3f10d60ace6ee66].
 
 ## Annotations
 
-[^key-bdfad4f40d65eddd492ac97b1faea769]: Commencement: S. 55 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(3)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/3)
+[^c-bdfad4f40d65eddd492ac97b1faea769]: Commencement: S. 55 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(3)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/3)
 
-[^key-a339028f9b1ba73427f12e68c7be6987]: Textual amendment: S. 55 heading substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/3/2) (with [Sch. 7 paras. 23-27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/23)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
+[^c-a339028f9b1ba73427f12e68c7be6987]: Textual amendment: S. 55 heading substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/3/2) (with [Sch. 7 paras. 23-27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/23)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
 
-[^key-d4efaeb8d2c12e13c7b7f6bc93e15dd1]: Textual amendment: Words in s. 55(1) substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 3(3)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/3/3) (with [Sch. 7 paras. 23-27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/23)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
+[^c-d4efaeb8d2c12e13c7b7f6bc93e15dd1]: Textual amendment: Words in s. 55(1) substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 3(3)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/3/3) (with [Sch. 7 paras. 23-27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/23)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
 
-[^key-f476add96aa8aaecd2c2716dcf357b4a]: Textual amendment: Words in s. 55(2)(f) substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 3(4)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/3/4) (with [Sch. 7 paras. 23-27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/23)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
+[^c-f476add96aa8aaecd2c2716dcf357b4a]: Textual amendment: Words in s. 55(2)(f) substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 3(4)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/3/4) (with [Sch. 7 paras. 23-27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/23)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
 
-[^key-057d90308b02923b46d880da90ab69e9]: Textual amendment: Words in s. 55(6)(a) substituted (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/6/a)
+[^c-057d90308b02923b46d880da90ab69e9]: Textual amendment: Words in s. 55(6)(a) substituted (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/6/a)
 
-[^key-7ca26a2cde57a604feac67674c90410e]: Textual amendment: Words in s. 55(9)(b) substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 3(5)(a)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/3/5/a) (with [Sch. 7 paras. 23-27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/23)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
+[^c-7ca26a2cde57a604feac67674c90410e]: Textual amendment: Words in s. 55(9)(b) substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 3(5)(a)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/3/5/a) (with [Sch. 7 paras. 23-27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/23)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
 
-[^key-2e199735bde7cecee3f10d60ace6ee66]: Textual amendment: Words in s. 55(9) substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 3(5)(b)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/3/5/b) (with [Sch. 7 paras. 23-27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/23)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
+[^c-2e199735bde7cecee3f10d60ace6ee66]: Textual amendment: Words in s. 55(9) substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 3(5)(b)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/3/5/b) (with [Sch. 7 paras. 23-27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/23)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)

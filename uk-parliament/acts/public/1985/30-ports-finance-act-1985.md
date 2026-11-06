@@ -70,7 +70,7 @@ increased in each case by 20 per cent.
 
 (1) Where by virtue of an existing local provision any function of appointing or revoking the appointment of the auditor of a relevant harbour authority or determining the amount of the remuneration or expenses payable to such an auditor is exercisable by a Minister of the Crown, it shall be exercisable instead by the authority itself; and any requirement that the consent or approval of such a Minister be given with respect to the exercise of such a function shall cease to have effect.
 
-(2) Notwithstanding anything to the contrary in any such provision, a person shall not be appointed as auditor of a relevant harbour authority unless he is eligible for appointment as a[^c766017] statutory auditor under Part 42 of the Companies Act 2006[^key-dd8b9d4904cbcd04360aa5c33188f066].
+(2) Notwithstanding anything to the contrary in any such provision, a person shall not be appointed as auditor of a relevant harbour authority unless he is eligible for appointment as a[^c766017] statutory auditor under Part 42 of the Companies Act 2006[^c-dd8b9d4904cbcd04360aa5c33188f066].
 
 ## 5. Provisions supplemental to ss. 3 and 4.
 
@@ -79,7 +79,7 @@ increased in each case by 20 per cent.
 - “**existing local provision**” means a provision of a local Act (including an Act confirming a provisional order) or a provision of an instrument made under any such local Act or of an instrument in the nature of a local enactment made under any other Act, being a provision in force on the date on which this section comes into force; and
 - “**relevant harbour authority**” means a harbour authority constituted by or under an existing local provision for the purpose of managing a harbour (within the meaning of the [^c766018]Harbours Act 1964).
 
-(2)[^key-a82cac7a4ae3ebd3244f4408e2fed6f4] Where a Minister of the Crown considers it necessary or appropriate to do so in consequence of section 3 or 4 above he may by order—
+(2)[^c-a82cac7a4ae3ebd3244f4408e2fed6f4] Where a Minister of the Crown considers it necessary or appropriate to do so in consequence of section 3 or 4 above he may by order—
 
 - (a) repeal or revoke any existing local provision which in his opinion has ceased to have effect; or
 - (b) make such amendments in any such provision as he thinks fit.
@@ -128,11 +128,11 @@ Section 6(2).
 
 [^c766017]: Textual amendment: Words in s. 4(2) substituted (1.10.1991) by [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997), [reg. 2](https://www.legislation.gov.uk/uksi/1991/1997/regulation/2), [Sch. para. 54](https://www.legislation.gov.uk/uksi/1991/1997/schedule/paragraph/54) (with [reg. 4](https://www.legislation.gov.uk/uksi/1991/1997/regulation/4)).
 
-[^key-dd8b9d4904cbcd04360aa5c33188f066]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/ukpga/1985/30/section/4/2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 1(ee)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/ee) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-dd8b9d4904cbcd04360aa5c33188f066]: Textual amendment: Words in [s. 4(2)](https://www.legislation.gov.uk/ukpga/1985/30/section/4/2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 1(ee)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/ee) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^c766018]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
-[^key-a82cac7a4ae3ebd3244f4408e2fed6f4]: Modification: [S. 5(2)](https://www.legislation.gov.uk/ukpga/1985/30/section/5/2): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(e)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/e), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
+[^c-a82cac7a4ae3ebd3244f4408e2fed6f4]: Modification: [S. 5(2)](https://www.legislation.gov.uk/ukpga/1985/30/section/5/2): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(e)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/e), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in S.I. 2018/278, reg. 2, Sch.)
 
 [^c766019]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 

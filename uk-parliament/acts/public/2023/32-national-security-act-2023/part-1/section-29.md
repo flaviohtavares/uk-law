@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Border security[^key-59ad67a1c11806fd4a4573a81b32f474][^key-cf5a462d5749202ca614101f2328edec]
+## 29. Border security[^c-59ad67a1c11806fd4a4573a81b32f474][^c-cf5a462d5749202ca614101f2328edec]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ In paragraph 12(11) of Schedule 3 to the Counter-Terrorism and Border Security A
 
 ## Annotations
 
-[^key-59ad67a1c11806fd4a4573a81b32f474]: Commencement: S. 29 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-59ad67a1c11806fd4a4573a81b32f474]: Commencement: S. 29 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-cf5a462d5749202ca614101f2328edec]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/32/section/29) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-cf5a462d5749202ca614101f2328edec]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2023/32/section/29) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

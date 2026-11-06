@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Amendments to requirements for the forwarding of ballot papers[^key-d17eb2353db754ebef191a6e94df5949]
+## 53. Amendments to requirements for the forwarding of ballot papers[^c-d17eb2353db754ebef191a6e94df5949]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d17eb2353db754ebef191a6e94df5949]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2006/2910/regulation/53) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-d17eb2353db754ebef191a6e94df5949]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2006/2910/regulation/53) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00072]: Footnote: Paragraph (1) of regulation 91, was amended by [SI 2006/752](https://www.legislation.gov.uk/uksi/2006/752).

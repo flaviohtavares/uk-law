@@ -38,7 +38,7 @@ A Measure of the National Assembly for Wales to make provision about safety on t
 
 **This Measure, passed by the National Assembly for Wales on 22 March 2011 and approved by Her Majesty in Council on 10 May 2011, enacts the following provisions:**—
 
-## 1. Requirement for seat belts on buses used for learner transport[^key-b5b9b8f51983dbb3aefa0641d1138d53]
+## 1. Requirement for seat belts on buses used for learner transport[^c-b5b9b8f51983dbb3aefa0641d1138d53]
 
 After section 14 of the Learner Travel (Wales) Measure 2008 insert—
 
@@ -67,7 +67,7 @@ After section 14 of the Learner Travel (Wales) Measure 2008 insert—
 
 .
 
-## 2. Further provision as to descriptions of vehicle that may be used for learner transport[^key-dd534e6ce61f4075030c6437da9e0777]
+## 2. Further provision as to descriptions of vehicle that may be used for learner transport[^c-dd534e6ce61f4075030c6437da9e0777]
 
 After section 14A of the Learner Travel (Wales) Measure 2008 insert—
 
@@ -85,7 +85,7 @@ After section 14A of the Learner Travel (Wales) Measure 2008 insert—
 
 .
 
-## 3. Recording visual images or sound on learner transport[^key-077a9a6bece54715959458929fdefb0b]
+## 3. Recording visual images or sound on learner transport[^c-077a9a6bece54715959458929fdefb0b]
 
 After section 14B of the Learner Travel (Wales) Measure 2008 insert—
 
@@ -106,7 +106,7 @@ After section 14B of the Learner Travel (Wales) Measure 2008 insert—
 
 .
 
-## 4. Safety risk assessment of learner transport[^key-76705229c76b27864ab305ed50550c1d]
+## 4. Safety risk assessment of learner transport[^c-76705229c76b27864ab305ed50550c1d]
 
 After section 14C of the Learner Travel (Wales) Measure 2008 insert—
 
@@ -123,7 +123,7 @@ After section 14C of the Learner Travel (Wales) Measure 2008 insert—
 
 .
 
-## 5. Driver training[^key-ddabbb46f9f0652644423a4ee99f80b0]
+## 5. Driver training[^c-ddabbb46f9f0652644423a4ee99f80b0]
 
 After section 14D of the Learner Travel (Wales) Measure 2008 insert—
 
@@ -137,7 +137,7 @@ After section 14D of the Learner Travel (Wales) Measure 2008 insert—
 
 .
 
-## 6. Supervisors on learner transport[^key-8c1e528af1e8910dbc17a2c88bf75285]
+## 6. Supervisors on learner transport[^c-8c1e528af1e8910dbc17a2c88bf75285]
 
 After section 14E of the Learner Travel (Wales) Measure 2008 insert—
 
@@ -152,7 +152,7 @@ After section 14E of the Learner Travel (Wales) Measure 2008 insert—
 
 .
 
-## 7. Civil sanctions[^key-a6067626ba4afe4710c9e577a0a1bbe1]
+## 7. Civil sanctions[^c-a6067626ba4afe4710c9e577a0a1bbe1]
 
 (1) After section 14F of the Learner Travel (Wales) Measure 2008 insert—
 
@@ -164,7 +164,7 @@ After section 14E of the Learner Travel (Wales) Measure 2008 insert—
 
 (2) The Schedule to this Measure has effect.
 
-## 8. Enforcement authority[^key-6f175ba913e369d3165a66f7d3285c82]
+## 8. Enforcement authority[^c-6f175ba913e369d3165a66f7d3285c82]
 
 After section 14G of the Learner Travel (Wales) Measure 2008 insert—
 
@@ -190,7 +190,7 @@ After section 14G of the Learner Travel (Wales) Measure 2008 insert—
 
 .
 
-## 9. Power of entry[^key-b81fdbc821a3fb25afd75a9d81123a18]
+## 9. Power of entry[^c-b81fdbc821a3fb25afd75a9d81123a18]
 
 After section 14H of the Learner Travel (Wales) Measure 2008 insert—
 
@@ -217,7 +217,7 @@ After section 14H of the Learner Travel (Wales) Measure 2008 insert—
 
 .
 
-## 10. Power of inspection[^key-f9c1e58e3f53c939b7a42ef17b82339e]
+## 10. Power of inspection[^c-f9c1e58e3f53c939b7a42ef17b82339e]
 
 After section 14I of the Learner Travel (Wales) Measure 2008 insert—
 
@@ -260,7 +260,7 @@ After section 14I of the Learner Travel (Wales) Measure 2008 insert—
 
 .
 
-## 11. Power to require provision of information[^key-c0fdf0b88ad2f5fca0eaee1dbe3c215a]
+## 11. Power to require provision of information[^c-c0fdf0b88ad2f5fca0eaee1dbe3c215a]
 
 After section 14J of the Learner Travel (Wales) Measure 2008 insert—
 
@@ -284,7 +284,7 @@ After section 14J of the Learner Travel (Wales) Measure 2008 insert—
 
 .
 
-## 12. Offences: liability of officers and partners[^key-8a07b02b64a90972feca9d8eeb33e6d5]
+## 12. Offences: liability of officers and partners[^c-8a07b02b64a90972feca9d8eeb33e6d5]
 
 After section 14K of the Learner Travel (Wales) Measure 2008 insert—
 
@@ -296,7 +296,7 @@ After section 14K of the Learner Travel (Wales) Measure 2008 insert—
 
 .
 
-## 13. Regulations: consultation[^key-3c71819124cbd2d508cf7aa794b9b764]
+## 13. Regulations: consultation[^c-3c71819124cbd2d508cf7aa794b9b764]
 
 After 14L of the Learner Travel (Wales) Measure 2008 insert—
 
@@ -306,7 +306,7 @@ After 14L of the Learner Travel (Wales) Measure 2008 insert—
 
 .
 
-## 14. Interpretation[^key-6d793bb9921221c79e708379c899798e]
+## 14. Interpretation[^c-6d793bb9921221c79e708379c899798e]
 
 After section 14M of the Learner Travel (Wales) Measure 2008 insert—
 
@@ -332,7 +332,7 @@ After section 14M of the Learner Travel (Wales) Measure 2008 insert—
 
 .
 
-## 15. General provisions about orders and regulations[^key-4ca71a48007c4f322bb5a8d0b121f196]
+## 15. General provisions about orders and regulations[^c-4ca71a48007c4f322bb5a8d0b121f196]
 
 (1) Section 27 of the Learner Travel (Wales) Measure 2008 (orders and regulations) is amended as follows.
 
@@ -364,17 +364,17 @@ After section 14M of the Learner Travel (Wales) Measure 2008 insert—
 
   .
 
-## 16. Commencement[^key-0dadb45d9a6f4f5d480758e78ca2fad5]
+## 16. Commencement[^c-0dadb45d9a6f4f5d480758e78ca2fad5]
 
 (1) Section 1 comes into force on 1 October 2014.
 
 (2) The remaining provisions of this Measure come into force at the end of a period of two months beginning on the day on which this Measure is approved by Her Majesty in Council.
 
-## 17. Short title[^key-ad65e52cda3b0fe8e2c2400769cf91d7]
+## 17. Short title[^c-ad65e52cda3b0fe8e2c2400769cf91d7]
 
 This Measure may be cited as the Safety on Learner Transport (Wales) Measure 2011.
 
-## SCHEDULE — CIVIL SANCTIONS[^key-592ca2cf8e64507bd2656361d15886a9]
+## SCHEDULE — CIVIL SANCTIONS[^c-592ca2cf8e64507bd2656361d15886a9]
 
 *(introduced by section 7)*
 
@@ -856,38 +856,38 @@ After section 29 of the Learner Travel (Wales) Measure 2008 insert—
 
 ## Annotations
 
-[^key-b5b9b8f51983dbb3aefa0641d1138d53]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2011/6/section/1) in force at 1.10.2014, see [s. 16(1)](https://www.legislation.gov.uk/mwa/2011/6/section/16/1)
+[^c-b5b9b8f51983dbb3aefa0641d1138d53]: Commencement: [S. 1](https://www.legislation.gov.uk/mwa/2011/6/section/1) in force at 1.10.2014, see [s. 16(1)](https://www.legislation.gov.uk/mwa/2011/6/section/16/1)
 
-[^key-dd534e6ce61f4075030c6437da9e0777]: Commencement: [S. 2](https://www.legislation.gov.uk/mwa/2011/6/section/2) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-dd534e6ce61f4075030c6437da9e0777]: Commencement: [S. 2](https://www.legislation.gov.uk/mwa/2011/6/section/2) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-077a9a6bece54715959458929fdefb0b]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2011/6/section/3) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-077a9a6bece54715959458929fdefb0b]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2011/6/section/3) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-76705229c76b27864ab305ed50550c1d]: Commencement: [S. 4](https://www.legislation.gov.uk/mwa/2011/6/section/4) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-76705229c76b27864ab305ed50550c1d]: Commencement: [S. 4](https://www.legislation.gov.uk/mwa/2011/6/section/4) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-ddabbb46f9f0652644423a4ee99f80b0]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2011/6/section/5) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-ddabbb46f9f0652644423a4ee99f80b0]: Commencement: [S. 5](https://www.legislation.gov.uk/mwa/2011/6/section/5) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-8c1e528af1e8910dbc17a2c88bf75285]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2011/6/section/6) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-8c1e528af1e8910dbc17a2c88bf75285]: Commencement: [S. 6](https://www.legislation.gov.uk/mwa/2011/6/section/6) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-a6067626ba4afe4710c9e577a0a1bbe1]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2011/6/section/7) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-a6067626ba4afe4710c9e577a0a1bbe1]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2011/6/section/7) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-6f175ba913e369d3165a66f7d3285c82]: Commencement: [S. 8](https://www.legislation.gov.uk/mwa/2011/6/section/8) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-6f175ba913e369d3165a66f7d3285c82]: Commencement: [S. 8](https://www.legislation.gov.uk/mwa/2011/6/section/8) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-b81fdbc821a3fb25afd75a9d81123a18]: Commencement: [S. 9](https://www.legislation.gov.uk/mwa/2011/6/section/9) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-b81fdbc821a3fb25afd75a9d81123a18]: Commencement: [S. 9](https://www.legislation.gov.uk/mwa/2011/6/section/9) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-f9c1e58e3f53c939b7a42ef17b82339e]: Commencement: [S. 10](https://www.legislation.gov.uk/mwa/2011/6/section/10) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-f9c1e58e3f53c939b7a42ef17b82339e]: Commencement: [S. 10](https://www.legislation.gov.uk/mwa/2011/6/section/10) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-c0fdf0b88ad2f5fca0eaee1dbe3c215a]: Commencement: [S. 11](https://www.legislation.gov.uk/mwa/2011/6/section/11) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-c0fdf0b88ad2f5fca0eaee1dbe3c215a]: Commencement: [S. 11](https://www.legislation.gov.uk/mwa/2011/6/section/11) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-8a07b02b64a90972feca9d8eeb33e6d5]: Commencement: [S. 12](https://www.legislation.gov.uk/mwa/2011/6/section/12) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-8a07b02b64a90972feca9d8eeb33e6d5]: Commencement: [S. 12](https://www.legislation.gov.uk/mwa/2011/6/section/12) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-3c71819124cbd2d508cf7aa794b9b764]: Commencement: [S. 13](https://www.legislation.gov.uk/mwa/2011/6/section/13) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-3c71819124cbd2d508cf7aa794b9b764]: Commencement: [S. 13](https://www.legislation.gov.uk/mwa/2011/6/section/13) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-6d793bb9921221c79e708379c899798e]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2011/6/section/14) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-6d793bb9921221c79e708379c899798e]: Commencement: [S. 14](https://www.legislation.gov.uk/mwa/2011/6/section/14) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-4ca71a48007c4f322bb5a8d0b121f196]: Commencement: [S. 15](https://www.legislation.gov.uk/mwa/2011/6/section/15) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-4ca71a48007c4f322bb5a8d0b121f196]: Commencement: [S. 15](https://www.legislation.gov.uk/mwa/2011/6/section/15) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-0dadb45d9a6f4f5d480758e78ca2fad5]: Commencement: [S. 16](https://www.legislation.gov.uk/mwa/2011/6/section/16) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-0dadb45d9a6f4f5d480758e78ca2fad5]: Commencement: [S. 16](https://www.legislation.gov.uk/mwa/2011/6/section/16) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-ad65e52cda3b0fe8e2c2400769cf91d7]: Commencement: [S. 17](https://www.legislation.gov.uk/mwa/2011/6/section/17) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-ad65e52cda3b0fe8e2c2400769cf91d7]: Commencement: [S. 17](https://www.legislation.gov.uk/mwa/2011/6/section/17) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
 
-[^key-592ca2cf8e64507bd2656361d15886a9]: Commencement: [Sch.](https://www.legislation.gov.uk/mwa/2011/6/schedule) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)
+[^c-592ca2cf8e64507bd2656361d15886a9]: Commencement: [Sch.](https://www.legislation.gov.uk/mwa/2011/6/schedule) in force at 10.7.2011, see [s. 16(2)](https://www.legislation.gov.uk/mwa/2011/6/section/16/2)

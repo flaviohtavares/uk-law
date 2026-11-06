@@ -77,7 +77,7 @@ These Regulations may be cited as the Emissions Performance Standard Monitoring 
 - “**Greenhouse Gas Emissions Report**” means a report required to be submitted by an operator by Article 67(1) of the Monitoring and Reporting Regulation;
 - “**information notice**” means a notice issued under regulation 8;
 - “**installed generating capacity**”, in relation to a generating station or generating unit, means the maximum capacity of electricity generation (in MW) at which that generating station or generating unit could be operated for a sustained period without damage being caused to it (assuming the source of energy used to generate electricity is available without interruption);
-- “the Monitoring and Reporting Regulation” means[^key-eb2fa8dfd53fdef3e4ccc62818d35b3b] [Commission Regulation (EU) No. 601/2012](https://www.legislation.gov.uk/european/regulation/2012/0601) on the monitoring and reporting of greenhouse gas emissions pursuant to [Directive 2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council as last amended by Commission Regulation (EU) 743/2014;
+- “the Monitoring and Reporting Regulation” means[^c-eb2fa8dfd53fdef3e4ccc62818d35b3b] [Commission Regulation (EU) No. 601/2012](https://www.legislation.gov.uk/european/regulation/2012/0601) on the monitoring and reporting of greenhouse gas emissions pursuant to [Directive 2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council as last amended by Commission Regulation (EU) 743/2014;
 - “**MW**” means megawatts;
 - “**operator**”, in relation to a relevant fossil fuel plant, means the person required to hold a Greenhouse Gas Emissions Permit for the relevant fossil fuel plant;
 - “**relevant fossil fuel plant**” means a fossil fuel plant to which the emissions limit duty applies under the Act or a generating unit to which the emissions limit duty applies by virtue of regulation 3 of the EPS Regulations;
@@ -387,7 +387,7 @@ The Schedule to regulation 12 provides for appeals to the Planning Appeals Commi
 
 [^c22819531]: Marginal citation: [S.I. 2012/3038](https://www.legislation.gov.uk/uksi/2012/3038).which.has.been.amended.by [S.I. 2013/1037](https://www.legislation.gov.uk/uksi/2013/1037), [S.I](https://www.legislation.gov.uk/uksi/2013/1037/section/I). 2013/3135 and [S.I. 2014/3125](https://www.legislation.gov.uk/uksi/2014/3125)
 
-[^key-eb2fa8dfd53fdef3e4ccc62818d35b3b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/28/regulation/2/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 15](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/15)
+[^c-eb2fa8dfd53fdef3e4ccc62818d35b3b]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/28/regulation/2/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 15](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/15)
 
 [^c22819551]: Marginal citation: OJ No L 181, 12.7.2012, p 1
 

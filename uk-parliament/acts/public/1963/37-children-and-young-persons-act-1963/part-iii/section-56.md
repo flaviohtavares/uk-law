@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Prosecution of offences under Part I or Part II of principal Act.[^key-c000df41a7641519e3530020de959675]
+## 56. Prosecution of offences under Part I or Part II of principal Act.[^c-c000df41a7641519e3530020de959675]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c000df41a7641519e3530020de959675]: Textual amendment: S. 56 omitted (5.5.2010) by virtue of [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/21), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2)
+[^c-c000df41a7641519e3530020de959675]: Textual amendment: S. 56 omitted (5.5.2010) by virtue of [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/21), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — WATER SUPPLY LICENCES: AUTHORISATIONS[^key-c2ba26271d78577de1bd1eb769841c62]
+## SCHEDULE 2A — WATER SUPPLY LICENCES: AUTHORISATIONS[^c-c2ba26271d78577de1bd1eb769841c62]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ### Wholesale authorisation
 
-**5.**[^key-4fd12193b110e1c5d4418a9521c794b7] A wholesale authorisation given by a water supply licence is an authorisation to the water supply licensee to introduce water into the supply system of a water undertaker—
+**5.**[^c-4fd12193b110e1c5d4418a9521c794b7] A wholesale authorisation given by a water supply licence is an authorisation to the water supply licensee to introduce water into the supply system of a water undertaker—
 
 - (a) by means of which system any particular supply in accordance with a retail authorisation (whether the licensee's or another water supply licensee's) is to take place, and
 - (b) where that introduction is to be made in connection with that intended supply.
@@ -85,6 +85,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c2ba26271d78577de1bd1eb769841c62]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/ukpga/1991/56/schedule/2A) inserted (1.1.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2014/21/schedule/1); [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/d)
+[^c-c2ba26271d78577de1bd1eb769841c62]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/ukpga/1991/56/schedule/2A) inserted (1.1.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2014/21/schedule/1); [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/d)
 
-[^key-4fd12193b110e1c5d4418a9521c794b7]: Modification: [Sch. 2A para. 5](https://www.legislation.gov.uk/ukpga/1991/56/schedule/2A/paragraph/5) modified (temp.) (22.3.2017) by [The Water Act 2014 (Commencement No. 9 and Transitional Provisions) Order 2017 (S.I. 2017/462)](https://www.legislation.gov.uk/uksi/2017/462), [art. 11(5)](https://www.legislation.gov.uk/uksi/2017/462/article/11/5)
+[^c-4fd12193b110e1c5d4418a9521c794b7]: Modification: [Sch. 2A para. 5](https://www.legislation.gov.uk/ukpga/1991/56/schedule/2A/paragraph/5) modified (temp.) (22.3.2017) by [The Water Act 2014 (Commencement No. 9 and Transitional Provisions) Order 2017 (S.I. 2017/462)](https://www.legislation.gov.uk/uksi/2017/462), [art. 11(5)](https://www.legislation.gov.uk/uksi/2017/462/article/11/5)

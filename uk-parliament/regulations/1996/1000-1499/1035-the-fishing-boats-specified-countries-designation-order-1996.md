@@ -30,7 +30,7 @@ summary: ''
 
 SEA FISHERIES
 
-The Fishing Boats (Specified Countries) Designation Order 1996 (revoked)[^key-a0030642c2aa204fbfa0f365b18e4946]
+The Fishing Boats (Specified Countries) Designation Order 1996 (revoked)[^c-a0030642c2aa204fbfa0f365b18e4946]
 
 Made
 
@@ -44,40 +44,40 @@ Coming into Force
 
 24th April 1996
 
-[^key-a0030642c2aa204fbfa0f365b18e4946]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0030642c2aa204fbfa0f365b18e4946]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-a0030642c2aa204fbfa0f365b18e4946]
+## 1. Title and commencement[^c-a0030642c2aa204fbfa0f365b18e4946]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a0030642c2aa204fbfa0f365b18e4946]
+## 2. Interpretation[^c-a0030642c2aa204fbfa0f365b18e4946]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Access to British fisheries[^key-a0030642c2aa204fbfa0f365b18e4946]
+## 3. Access to British fisheries[^c-a0030642c2aa204fbfa0f365b18e4946]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a0030642c2aa204fbfa0f365b18e4946]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0030642c2aa204fbfa0f365b18e4946]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-a0030642c2aa204fbfa0f365b18e4946]
+## SCHEDULE 1[^c-a0030642c2aa204fbfa0f365b18e4946]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-a0030642c2aa204fbfa0f365b18e4946]
+## SCHEDULE 2[^c-a0030642c2aa204fbfa0f365b18e4946]
 
 Article 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a0030642c2aa204fbfa0f365b18e4946]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0030642c2aa204fbfa0f365b18e4946]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a0030642c2aa204fbfa0f365b18e4946]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1996/1035) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 paras. 3(1)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/1), [4(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/4/i) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-a0030642c2aa204fbfa0f365b18e4946]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1996/1035) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 paras. 3(1)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/1), [4(i)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/4/i) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

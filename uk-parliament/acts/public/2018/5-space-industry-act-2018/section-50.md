@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Powers in relation to land: notices[^key-10040622498c4bcb3f48614e32712180]
+## 50. Powers in relation to land: notices[^c-10040622498c4bcb3f48614e32712180]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10040622498c4bcb3f48614e32712180]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2018/5/section/50) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 90](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/90) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-10040622498c4bcb3f48614e32712180]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2018/5/section/50) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 90](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/90) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

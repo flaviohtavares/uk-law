@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Employed earnings (applicants with an award of universal credit)[^key-d507ae6c21ec2b8a24bb918ebffdaad0]
+## 49. Employed earnings (applicants with an award of universal credit)[^c-d507ae6c21ec2b8a24bb918ebffdaad0]
 
 *Extent: S*
 
@@ -38,7 +38,7 @@ summary: ''
 - (b) statutory maternity pay,
 - (c) statutory paternity pay,
 - (d) statutory adoption pay,
-- (da)[^key-926ceb4a292456f96ef0564607e3e67a] statutory neonatal care pay,
+- (da)[^c-926ceb4a292456f96ef0564607e3e67a] statutory neonatal care pay,
 - (e) statutory parental bereavement pay,
 - (f) statutory shared parental pay, and
 - (g) any corresponding payment under any enactment having effect in Northern Ireland.
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d507ae6c21ec2b8a24bb918ebffdaad0]: Commencement: [Reg. 49](https://www.legislation.gov.uk/ssi/2021/249/regulation/49) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-d507ae6c21ec2b8a24bb918ebffdaad0]: Commencement: [Reg. 49](https://www.legislation.gov.uk/ssi/2021/249/regulation/49) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
-[^key-926ceb4a292456f96ef0564607e3e67a]: Textual amendment: [Reg. 49(4)(da)](https://www.legislation.gov.uk/ssi/2021/249/regulation/49/4/da) inserted (25.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2025 (S.S.I. 2025/150)](https://www.legislation.gov.uk/ssi/2025/150), [regs. 1](https://www.legislation.gov.uk/ssi/2025/150/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2025/150/regulation/3/4)
+[^c-926ceb4a292456f96ef0564607e3e67a]: Textual amendment: [Reg. 49(4)(da)](https://www.legislation.gov.uk/ssi/2021/249/regulation/49/4/da) inserted (25.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2025 (S.S.I. 2025/150)](https://www.legislation.gov.uk/ssi/2025/150), [regs. 1](https://www.legislation.gov.uk/ssi/2025/150/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2025/150/regulation/3/4)

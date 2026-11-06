@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 49. Interest rate[^key-c4f6a39f7ccc477cfae672983aa4143a]
+## 49. Interest rate[^c-c4f6a39f7ccc477cfae672983aa4143a]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4f6a39f7ccc477cfae672983aa4143a]: Commencement: [S. 49](https://www.legislation.gov.uk/ukcm/2018/9/section/49) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-c4f6a39f7ccc477cfae672983aa4143a]: Commencement: [S. 49](https://www.legislation.gov.uk/ukcm/2018/9/section/49) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

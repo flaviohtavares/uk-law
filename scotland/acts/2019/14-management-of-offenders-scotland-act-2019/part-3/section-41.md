@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Administrative arrangements[^key-f67cffa2bbbc2d029a75f31e9053f6b3]
+## 41. Administrative arrangements[^c-f67cffa2bbbc2d029a75f31e9053f6b3]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f67cffa2bbbc2d029a75f31e9053f6b3]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2019/14/section/41) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/g)
+[^c-f67cffa2bbbc2d029a75f31e9053f6b3]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2019/14/section/41) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/g)

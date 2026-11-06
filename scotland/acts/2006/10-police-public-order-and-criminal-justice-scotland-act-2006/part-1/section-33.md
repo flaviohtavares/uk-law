@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. The Police Investigations and Review Commissioner[^key-69e224555501c16f4b3ae264bf1dc9db]
+## 33. The Police Investigations and Review Commissioner[^c-69e224555501c16f4b3ae264bf1dc9db]
 
 *Extent: S*
 
-(1) There is to be an officer known as the Police Investigations and Review Commissioner[^key-1340bf6427f3a567a25d0d42bdafe7f1] (“**the Commissioner**”).
+(1) There is to be an officer known as the Police Investigations and Review Commissioner[^c-1340bf6427f3a567a25d0d42bdafe7f1] (“**the Commissioner**”).
 
 (2) The Commissioner is to be an individual appointed by the Scottish Ministers.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-69e224555501c16f4b3ae264bf1dc9db]: Textual amendment: S. 33 provision heading substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 61(2)(b)](https://www.legislation.gov.uk/asp/2012/8/section/61/2/b), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-69e224555501c16f4b3ae264bf1dc9db]: Textual amendment: S. 33 provision heading substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 61(2)(b)](https://www.legislation.gov.uk/asp/2012/8/section/61/2/b), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-1340bf6427f3a567a25d0d42bdafe7f1]: Textual amendment: Words in s. 33(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 61(2)(c)](https://www.legislation.gov.uk/asp/2012/8/section/61/2/c), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-1340bf6427f3a567a25d0d42bdafe7f1]: Textual amendment: Words in s. 33(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 61(2)(c)](https://www.legislation.gov.uk/asp/2012/8/section/61/2/c), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Power to make further provision[^key-81310d4e762badb5c9b56ebb6773db4e]
+## 18. Power to make further provision[^c-81310d4e762badb5c9b56ebb6773db4e]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81310d4e762badb5c9b56ebb6773db4e]: Commencement: S. 18 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-81310d4e762badb5c9b56ebb6773db4e]: Commencement: S. 18 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Declarations as to election expenses: candidates on a registered party’s regional list[^key-3e67cf97f195ea1b3bfb0e72da340893]
+## 49. Declarations as to election expenses: candidates on a registered party’s regional list[^c-3e67cf97f195ea1b3bfb0e72da340893]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e67cf97f195ea1b3bfb0e72da340893]: Commencement: Art. 49 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-3e67cf97f195ea1b3bfb0e72da340893]: Commencement: Art. 49 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

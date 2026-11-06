@@ -28,7 +28,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-[^key-2be7c55cb2e74e38270719720186012d]The Lifts Regulations 1997 (revoked)
+[^c-2be7c55cb2e74e38270719720186012d]The Lifts Regulations 1997 (revoked)
 
 Made
 
@@ -42,11 +42,11 @@ Coming into force
 
 1st July 1997
 
-[^key-2be7c55cb2e74e38270719720186012d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2be7c55cb2e74e38270719720186012d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — PRELIMINARY[^key-2be7c55cb2e74e38270719720186012d]
+### PART I — PRELIMINARY[^c-2be7c55cb2e74e38270719720186012d]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,7 +55,7 @@ Coming into force
 - [Section 1 — Citation, commencement and revocation](part-i/section-1.md)
 - [Section 2 — Interpretation](part-i/section-2.md)
 
-### PART II — APPLICATION[^key-2be7c55cb2e74e38270719720186012d]
+### PART II — APPLICATION[^c-2be7c55cb2e74e38270719720186012d]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,7 +67,7 @@ Coming into force
 - [Section 6 — Exclusion until 30th June 1999 of lifts and safety components complying with provisions in force on 29th June 1995](part-ii/section-6.md)
 - [Section 7 — Lifts where risks are wholly or partly covered by other directives](part-ii/section-7.md)
 
-### PART III — GENERAL REQUIREMENTS[^key-2be7c55cb2e74e38270719720186012d]
+### PART III — GENERAL REQUIREMENTS[^c-2be7c55cb2e74e38270719720186012d]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ Coming into force
 - [Section 17 — Fees](part-iii/section-17.md)
 - [Section 18 — Conditions for lifts and safety components being taken to conform with the provisions of the Lifts Directive](part-iii/section-18.md)
 
-### PART IV — ENFORCEMENT[^key-2be7c55cb2e74e38270719720186012d]
+### PART IV — ENFORCEMENT[^c-2be7c55cb2e74e38270719720186012d]
 
 *Extent: E+W+S+N.I.*
 
@@ -118,14 +118,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-2be7c55cb2e74e38270719720186012d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2be7c55cb2e74e38270719720186012d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-2be7c55cb2e74e38270719720186012d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2be7c55cb2e74e38270719720186012d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2be7c55cb2e74e38270719720186012d]: Textual amendment: Regulations revoked (8.12.2016) by [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1093/regulation/1), [83(1)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/83/1) (with savings in [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3), [83(2)-(3A)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/83/2) (as amended ([31](https://www.legislation.gov.uk/uksi/2016/1093/regulation/31).[12](https://www.legislation.gov.uk/uksi/2016/1093/regulation/12).[2020](https://www.legislation.gov.uk/uksi/2016/1093/regulation/2020)) by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696)), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 22 para. 38](https://www.legislation.gov.uk/uksi/2019/696/schedule/22/paragraph/38) (with [Sch. 22 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/22/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-2be7c55cb2e74e38270719720186012d]: Textual amendment: Regulations revoked (8.12.2016) by [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1093/regulation/1), [83(1)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/83/1) (with savings in [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3), [83(2)-(3A)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/83/2) (as amended ([31](https://www.legislation.gov.uk/uksi/2016/1093/regulation/31).[12](https://www.legislation.gov.uk/uksi/2016/1093/regulation/12).[2020](https://www.legislation.gov.uk/uksi/2016/1093/regulation/2020)) by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696)), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 22 para. 38](https://www.legislation.gov.uk/uksi/2019/696/schedule/22/paragraph/38) (with [Sch. 22 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/22/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2))); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

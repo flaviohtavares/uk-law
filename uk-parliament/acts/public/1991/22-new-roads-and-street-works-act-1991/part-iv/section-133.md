@@ -25,7 +25,7 @@ summary: ''
 - (a) the duration of the works exceeds such period as may be prescribed, and
 - (b) the works are not completed within a reasonable period.
 
-(2) For this purpose “**a reasonable period**” means such period as is agreed by the authority and the undertaker to be reasonable or, in default of such agreement, is determined in the prescribed manner[^key-6e9c5dbad4845ca29b954430c7e7450a] to be reasonable, for completion of the works in question.
+(2) For this purpose “**a reasonable period**” means such period as is agreed by the authority and the undertaker to be reasonable or, in default of such agreement, is determined in the prescribed manner[^c-6e9c5dbad4845ca29b954430c7e7450a] to be reasonable, for completion of the works in question.
 
 In default of agreement, the authority’s view as to what is a reasonable period shall be acted upon pending the decision of the arbiter.
 
@@ -57,4 +57,4 @@ Different rates of charge may be prescribed according to the place and time at w
 
 ## Annotations
 
-[^key-6e9c5dbad4845ca29b954430c7e7450a]: Textual amendment: Words in [s. 133(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/133/2) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 36(1)](https://www.legislation.gov.uk/asp/2005/12/section/36/1)[(2)(d)](https://www.legislation.gov.uk/asp/2005/12/section/36/2/d), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-6e9c5dbad4845ca29b954430c7e7450a]: Textual amendment: Words in [s. 133(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/133/2) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 36(1)](https://www.legislation.gov.uk/asp/2005/12/section/36/1)[(2)(d)](https://www.legislation.gov.uk/asp/2005/12/section/36/2/d), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

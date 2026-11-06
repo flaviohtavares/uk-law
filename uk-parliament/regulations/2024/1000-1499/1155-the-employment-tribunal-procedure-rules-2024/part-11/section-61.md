@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Absence of presiding member[^key-55876a1705af268bd63e2d8f20221b34]
+## 61. Absence of presiding member[^c-55876a1705af268bd63e2d8f20221b34]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55876a1705af268bd63e2d8f20221b34]: Commencement: [Rule 61](https://www.legislation.gov.uk/uksi/2024/1155/rule/61) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-55876a1705af268bd63e2d8f20221b34]: Commencement: [Rule 61](https://www.legislation.gov.uk/uksi/2024/1155/rule/61) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

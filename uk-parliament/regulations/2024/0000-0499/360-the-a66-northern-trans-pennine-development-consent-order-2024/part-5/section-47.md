@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Defence to proceedings in respect of statutory nuisance[^key-c48ebbed19811231d2129d35ef9afffe]
+## 47. Defence to proceedings in respect of statutory nuisance[^c-c48ebbed19811231d2129d35ef9afffe]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c48ebbed19811231d2129d35ef9afffe]: Commencement: Art. 47 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-c48ebbed19811231d2129d35ef9afffe]: Commencement: Art. 47 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
 [^f00107]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to section 82(1) which are not relevant to this Order.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76. Section 73: meaning of “carer”[^key-7e10c8b48c7a8459cf5f5d9dc50cc716]
+## 76. Section 73: meaning of “carer”[^c-7e10c8b48c7a8459cf5f5d9dc50cc716]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e10c8b48c7a8459cf5f5d9dc50cc716]: Commencement: [S. 76](https://www.legislation.gov.uk/nia/2016/18/section/76) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-7e10c8b48c7a8459cf5f5d9dc50cc716]: Commencement: [S. 76](https://www.legislation.gov.uk/nia/2016/18/section/76) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

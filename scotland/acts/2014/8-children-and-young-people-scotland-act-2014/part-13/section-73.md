@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Kinship care assistance: further provision[^key-1638b7590e2c0d93494cff635581e230][^key-2bf7f9592221233f3c0d67043cf976c8]
+## 73. Kinship care assistance: further provision[^c-1638b7590e2c0d93494cff635581e230][^c-2bf7f9592221233f3c0d67043cf976c8]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1638b7590e2c0d93494cff635581e230]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2014/8/section/73) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-1638b7590e2c0d93494cff635581e230]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2014/8/section/73) in force at 1.8.2014 for specified purposes by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
 
-[^key-2bf7f9592221233f3c0d67043cf976c8]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2014/8/section/73) in force at 1.4.2016 in so far as not already in force by [S.S.I. 2015/406](https://www.legislation.gov.uk/ssi/2015/406), [art. 3(2)](https://www.legislation.gov.uk/ssi/2015/406/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2015/406/article/3/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2015/406/schedule/part/2)
+[^c-2bf7f9592221233f3c0d67043cf976c8]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2014/8/section/73) in force at 1.4.2016 in so far as not already in force by [S.S.I. 2015/406](https://www.legislation.gov.uk/ssi/2015/406), [art. 3(2)](https://www.legislation.gov.uk/ssi/2015/406/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2015/406/article/3/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2015/406/schedule/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Amendment of regulation G1[^key-6de3cdf02521a63891b617bc0ad4741f]
+## 19. Amendment of regulation G1[^c-6de3cdf02521a63891b617bc0ad4741f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ After paragraph (1) of regulation G1 (widow’s pension) insert—
 
 ## Annotations
 
-[^key-6de3cdf02521a63891b617bc0ad4741f]: Commencement: Reg. 19 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-6de3cdf02521a63891b617bc0ad4741f]: Commencement: Reg. 19 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

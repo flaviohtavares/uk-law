@@ -32,7 +32,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Plant Health (Export Certification) (Forestry) (Great Britain) Order 2004 (revoked)[^key-fa5934c825cfe0c6dee302bb82371226]
+The Plant Health (Export Certification) (Forestry) (Great Britain) Order 2004 (revoked)[^c-fa5934c825cfe0c6dee302bb82371226]
 
 Made
 
@@ -46,57 +46,57 @@ Coming into force
 
 28th July 2004
 
-[^key-fa5934c825cfe0c6dee302bb82371226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa5934c825cfe0c6dee302bb82371226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-fa5934c825cfe0c6dee302bb82371226]
+## 1. Title and commencement[^c-fa5934c825cfe0c6dee302bb82371226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-fa5934c825cfe0c6dee302bb82371226]
+## 2. Interpretation[^c-fa5934c825cfe0c6dee302bb82371226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Certificates for export or re-export of relevant material to third countries[^key-fa5934c825cfe0c6dee302bb82371226]
+## 3. Certificates for export or re-export of relevant material to third countries[^c-fa5934c825cfe0c6dee302bb82371226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Charges[^key-fa5934c825cfe0c6dee302bb82371226]
+## 4. Charges[^c-fa5934c825cfe0c6dee302bb82371226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences[^key-fa5934c825cfe0c6dee302bb82371226]
+## 5. Offences[^c-fa5934c825cfe0c6dee302bb82371226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa5934c825cfe0c6dee302bb82371226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa5934c825cfe0c6dee302bb82371226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-fa5934c825cfe0c6dee302bb82371226]
+## SCHEDULE 1[^c-fa5934c825cfe0c6dee302bb82371226]
 
 Article 2
 
-[^key-fa5934c825cfe0c6dee302bb82371226]...
+[^c-fa5934c825cfe0c6dee302bb82371226]...
 
-## SCHEDULE 2[^key-fa5934c825cfe0c6dee302bb82371226]
+## SCHEDULE 2[^c-fa5934c825cfe0c6dee302bb82371226]
 
 Article 2
 
-[^key-fa5934c825cfe0c6dee302bb82371226]...
+[^c-fa5934c825cfe0c6dee302bb82371226]...
 
-## SCHEDULE 3[^key-fa5934c825cfe0c6dee302bb82371226]
+## SCHEDULE 3[^c-fa5934c825cfe0c6dee302bb82371226]
 
 Articles 3 and 4
 
-[^key-fa5934c825cfe0c6dee302bb82371226]...
+[^c-fa5934c825cfe0c6dee302bb82371226]...
 
-[^key-fa5934c825cfe0c6dee302bb82371226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa5934c825cfe0c6dee302bb82371226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fa5934c825cfe0c6dee302bb82371226]: Textual amendment: Order revoked (S.) 14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6)
+[^c-fa5934c825cfe0c6dee302bb82371226]: Textual amendment: Order revoked (S.) 14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 (S.S.I. 2019/421)](https://www.legislation.gov.uk/ssi/2019/421), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1), [sch. 6](https://www.legislation.gov.uk/ssi/2019/421/schedule/6)
 
     Order revoked (E.) (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)
 

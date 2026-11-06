@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Application of Part to condition notices following emergency condition notices[^key-eaad50099e5f5143debfa1ba0d076adc][^key-cd3e477181827ff63bc0954855d0ae68]
+## 68. Application of Part to condition notices following emergency condition notices[^c-eaad50099e5f5143debfa1ba0d076adc][^c-cd3e477181827ff63bc0954855d0ae68]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eaad50099e5f5143debfa1ba0d076adc]: Commencement: S. 68 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-eaad50099e5f5143debfa1ba0d076adc]: Commencement: S. 68 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-cd3e477181827ff63bc0954855d0ae68]: Commencement: S. 68 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-cd3e477181827ff63bc0954855d0ae68]: Commencement: S. 68 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

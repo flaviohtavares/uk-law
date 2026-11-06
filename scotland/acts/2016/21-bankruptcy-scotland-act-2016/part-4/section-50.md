@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Functions of trustee[^key-6783c54a5528d435490ea06c04d57178]
+## 50. Functions of trustee[^c-6783c54a5528d435490ea06c04d57178]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ the trustee must report the matter to AiB.
 
 ## Annotations
 
-[^key-6783c54a5528d435490ea06c04d57178]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2016/21/section/50) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-6783c54a5528d435490ea06c04d57178]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2016/21/section/50) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

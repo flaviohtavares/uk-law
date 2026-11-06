@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Final meeting[^key-135ad6dfcc6f36c80d3c557a2b605844]
+## 45. Final meeting[^c-135ad6dfcc6f36c80d3c557a2b605844]
 
 *Extent: S*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-135ad6dfcc6f36c80d3c557a2b605844]: Commencement: Rule 45 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-135ad6dfcc6f36c80d3c557a2b605844]: Commencement: Rule 45 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^M_F_e8621171-61d1-4c2d-ac9f-210d5e4947c3]: Textual amendment: Words in Rules substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(8)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. New rights etc. only to be acquired in certain lands[^key-5ee87b4d3618d6ecaac53af0ba81e289]
+## 20. New rights etc. only to be acquired in certain lands[^c-5ee87b4d3618d6ecaac53af0ba81e289]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Council may in or over any of the land shown on the deposited plans and spec
 
 ## Annotations
 
-[^key-5ee87b4d3618d6ecaac53af0ba81e289]: Commencement: Art. 20 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-5ee87b4d3618d6ecaac53af0ba81e289]: Commencement: Art. 20 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

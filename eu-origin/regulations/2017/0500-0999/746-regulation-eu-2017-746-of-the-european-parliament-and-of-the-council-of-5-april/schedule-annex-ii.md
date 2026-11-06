@@ -16,65 +16,65 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX II — TECHNICAL DOCUMENTATION[^key-f0fe3e1a362a57117977e93ea17feacd]
+## ANNEX II — TECHNICAL DOCUMENTATION[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]The technical documentation and, if applicable, the summary thereof to be drawn up by the manufacturer shall be presented in a clear, organised, readily searchable and unambiguous manner and shall include in particular the elements listed in this Annex.
+[^c-f0fe3e1a362a57117977e93ea17feacd]The technical documentation and, if applicable, the summary thereof to be drawn up by the manufacturer shall be presented in a clear, organised, readily searchable and unambiguous manner and shall include in particular the elements listed in this Annex.
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]1.
+[^c-f0fe3e1a362a57117977e93ea17feacd]1.
 
 DEVICE DESCRIPTION AND SPECIFICATION, INCLUDING VARIANTS AND ACCESSORIES
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]1.1.
+[^c-f0fe3e1a362a57117977e93ea17feacd]1.1.
 
 Device description and specification
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]1.2.
+[^c-f0fe3e1a362a57117977e93ea17feacd]1.2.
 
 Reference to previous and similar generations of the device
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]2.
+[^c-f0fe3e1a362a57117977e93ea17feacd]2.
 
 INFORMATION TO BE SUPPLIED BY THE MANUFACTURER
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]3.
+[^c-f0fe3e1a362a57117977e93ea17feacd]3.
 
 DESIGN AND MANUFACTURING INFORMATION
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]3.1.
+[^c-f0fe3e1a362a57117977e93ea17feacd]3.1.
 
 Design information
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]3.2.
+[^c-f0fe3e1a362a57117977e93ea17feacd]3.2.
 
 Manufacturing information
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]4.
+[^c-f0fe3e1a362a57117977e93ea17feacd]4.
 
 GENERAL SAFETY AND PERFORMANCE REQUIREMENTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]5.
+[^c-f0fe3e1a362a57117977e93ea17feacd]5.
 
 BENFIT-RISK ANALYSIS AND RISK MANAGEMENT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]6.
+[^c-f0fe3e1a362a57117977e93ea17feacd]6.
 
 PRODUCT VERIFICATION AND VALIDATION
 
@@ -82,4 +82,4 @@ PRODUCT VERIFICATION AND VALIDATION
 
 ## Annotations
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]: Textual amendment: Regulation revoked (31.12.2020) by [The Medical Devices Regulations 2002 (S.I. 2002/618)](https://www.legislation.gov.uk/uksi/2002/618), [reg. 4P](https://www.legislation.gov.uk/uksi/2002/618/regulation/4P) (as inserted by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/791/regulation/3/7) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [9(m)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/9/m)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-f0fe3e1a362a57117977e93ea17feacd]: Textual amendment: Regulation revoked (31.12.2020) by [The Medical Devices Regulations 2002 (S.I. 2002/618)](https://www.legislation.gov.uk/uksi/2002/618), [reg. 4P](https://www.legislation.gov.uk/uksi/2002/618/regulation/4P) (as inserted by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/791/regulation/3/7) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [9(m)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/9/m)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

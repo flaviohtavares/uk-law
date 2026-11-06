@@ -24,7 +24,7 @@ summary: ''
 
 ### PART 1 — ORDERS MADE BY PLANNING AUTHORITIES
 
-#### 1. Requirement for confirmation by Welsh Ministers[^key-239bb2d47cb0c9c70b14f25aec972962][^key-c4254cf897c166b4b9c76c7108411265]
+#### 1. Requirement for confirmation by Welsh Ministers[^c-239bb2d47cb0c9c70b14f25aec972962][^c-c4254cf897c166b4b9c76c7108411265]
 
 (1) An order under section 115 made by a planning authority does not take effect unless it is confirmed by the Welsh Ministers.
 
@@ -44,7 +44,7 @@ summary: ''
 
 ### PART 2 — ORDERS MADE BY THE WELSH MINISTERS
 
-#### 2. Procedure to be followed before making order[^key-fdce0b0d42a8d3a4f0c2df6c3b30cc13][^key-c5ab31741db1f9dffd89c5d2e3322e23]
+#### 2. Procedure to be followed before making order[^c-fdce0b0d42a8d3a4f0c2df6c3b30cc13][^c-c5ab31741db1f9dffd89c5d2e3322e23]
 
 (1) Before making an order under section 115, the Welsh Ministers must serve notice of the proposed order on—
 
@@ -60,10 +60,10 @@ summary: ''
 
 ## Annotations
 
-[^key-239bb2d47cb0c9c70b14f25aec972962]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-239bb2d47cb0c9c70b14f25aec972962]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-c4254cf897c166b4b9c76c7108411265]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/asc/2023/3/schedule/10/paragraph/1) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-c4254cf897c166b4b9c76c7108411265]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/asc/2023/3/schedule/10/paragraph/1) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-fdce0b0d42a8d3a4f0c2df6c3b30cc13]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-fdce0b0d42a8d3a4f0c2df6c3b30cc13]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-c5ab31741db1f9dffd89c5d2e3322e23]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/asc/2023/3/schedule/10/paragraph/2) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-c5ab31741db1f9dffd89c5d2e3322e23]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/asc/2023/3/schedule/10/paragraph/2) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69L. The corporate ownership condition: further provisions[^key-228ceee17a63954421c7bcbab46e5182]
+## 69L. The corporate ownership condition: further provisions[^c-228ceee17a63954421c7bcbab46e5182]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The open-ended investment company meets conditions B and C of the corporate ownership condition if—
 
-- (a) it provides in its instrument of incorporation and its prospectus that a body corporate is prohibited from acquiring shares as a participant[^key-86df0ee985e70485d6a073d0c9e78719] in the open-ended investment company,
+- (a) it provides in its instrument of incorporation and its prospectus that a body corporate is prohibited from acquiring shares as a participant[^c-86df0ee985e70485d6a073d0c9e78719] in the open-ended investment company,
 - (b) a body corporate (“BC”) acquires shares in the open-ended investment company,
 - (c) BC does not hold those shares as beneficial owner, and
 - (d) BC gives a certificate in accordance with paragraph (3).
@@ -39,7 +39,7 @@ summary: ''
 - (a) hold shares in the open-ended investment company, and
 - (b) are chargeable, in the United Kingdom, either to income tax or to corporation tax in their capacity as trustees of that unit trust scheme.
 
-(5) For the purposes of regulation 69K the unit trust scheme is treated[^key-a11cc62af753a168a25aeeb79e284bb9] as the beneficial owners of the shares; and a person holding units in the unit trust shall not be treated as beneficially entitled (directly or indirectly) to 10% or more of the net asset value of the open-ended investment company’s fund by virtue of holding the units.
+(5) For the purposes of regulation 69K the unit trust scheme is treated[^c-a11cc62af753a168a25aeeb79e284bb9] as the beneficial owners of the shares; and a person holding units in the unit trust shall not be treated as beneficially entitled (directly or indirectly) to 10% or more of the net asset value of the open-ended investment company’s fund by virtue of holding the units.
 
 (6) In this Part “body corporate” means—
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
+[^c-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
 
-[^key-86df0ee985e70485d6a073d0c9e78719]: Textual amendment: Words in reg. 69L(2)(a) inserted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/22/2)
+[^c-86df0ee985e70485d6a073d0c9e78719]: Textual amendment: Words in reg. 69L(2)(a) inserted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/22/2)
 
-[^key-a11cc62af753a168a25aeeb79e284bb9]: Textual amendment: Words in reg. 69L(5) substituted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [22(3)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/22/3)
+[^c-a11cc62af753a168a25aeeb79e284bb9]: Textual amendment: Words in reg. 69L(5) substituted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [22(3)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/22/3)

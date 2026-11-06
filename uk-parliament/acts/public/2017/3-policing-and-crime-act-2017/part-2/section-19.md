@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Sensitive information received by IPCC: restriction on disclosure[^c22718521][^key-b6fcbb767ad1e08b3e873b2d62511814]
+## 19. Sensitive information received by IPCC: restriction on disclosure[^c22718521][^c-b6fcbb767ad1e08b3e873b2d62511814]
 
 *Extent: E+W*
 
@@ -106,4 +106,4 @@ summary: ''
 
 [^c22718521]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/3/section/19) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-b6fcbb767ad1e08b3e873b2d62511814]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/3/section/19) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/g) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-b6fcbb767ad1e08b3e873b2d62511814]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/3/section/19) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/g) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))

@@ -125,7 +125,7 @@ Jean-Claude Juncker
 
 (referred to in Article 1)
 
-The following tables contain categories and types of serious infringements against the Union rules in commercial road transport, divided into three categories of seriousness according to their potential to create a risk of fatalities or serious injuries or of distorting competition in the road transport market, or both[^key-06f56f0f1d5a1a019419fcc99a270f36].
+The following tables contain categories and types of serious infringements against the Union rules in commercial road transport, divided into three categories of seriousness according to their potential to create a risk of fatalities or serious injuries or of distorting competition in the road transport market, or both[^c-06f56f0f1d5a1a019419fcc99a270f36].
 
 1\.
 
@@ -183,7 +183,7 @@ The following tables contain categories and types of serious infringements again
 </tbody>
 </table>
 
-[^f00005][^key-1f79ef43fc5479b931148c44ed702c2c][^key-8310168bdfb3b5ff08d00b0ab72c3478][^key-39c8f810fd85f729831bcc284b645806][^key-063714e533b10c6fcc1e0280c7e71d57][^key-8b0ed13da2f5be2f0e19351891a30c4a][^key-41608a7e187034ec878c4b541bdb46cb][^key-41608a7e187034ec878c4b541bdb46cb][^key-41608a7e187034ec878c4b541bdb46cb][^key-41608a7e187034ec878c4b541bdb46cb][^key-41608a7e187034ec878c4b541bdb46cb][^key-41608a7e187034ec878c4b541bdb46cb][^key-c3abbd409cb1ae4b5eefd5812ca28c05]
+[^f00005][^c-1f79ef43fc5479b931148c44ed702c2c][^c-8310168bdfb3b5ff08d00b0ab72c3478][^c-39c8f810fd85f729831bcc284b645806][^c-063714e533b10c6fcc1e0280c7e71d57][^c-8b0ed13da2f5be2f0e19351891a30c4a][^c-41608a7e187034ec878c4b541bdb46cb][^c-41608a7e187034ec878c4b541bdb46cb][^c-41608a7e187034ec878c4b541bdb46cb][^c-41608a7e187034ec878c4b541bdb46cb][^c-41608a7e187034ec878c4b541bdb46cb][^c-41608a7e187034ec878c4b541bdb46cb][^c-c3abbd409cb1ae4b5eefd5812ca28c05]
 
 2\.
 
@@ -229,7 +229,7 @@ The following tables contain categories and types of serious infringements again
 </tbody>
 </table>
 
-[^key-3619f5e2fb593cd9f92d4806f61161dc][^key-82cc54460700ff5456910863f1481312][^key-dc80f4beda1f76f85e98b6620a5d1a31][^key-098173a312a6f972559ce9973d08ea46][^key-098173a312a6f972559ce9973d08ea46][^key-098173a312a6f972559ce9973d08ea46][^key-098173a312a6f972559ce9973d08ea46][^key-5910c95c3465230f915579c54ec70b09]
+[^c-3619f5e2fb593cd9f92d4806f61161dc][^c-82cc54460700ff5456910863f1481312][^c-dc80f4beda1f76f85e98b6620a5d1a31][^c-098173a312a6f972559ce9973d08ea46][^c-098173a312a6f972559ce9973d08ea46][^c-098173a312a6f972559ce9973d08ea46][^c-098173a312a6f972559ce9973d08ea46][^c-5910c95c3465230f915579c54ec70b09]
 
 3\.
 
@@ -319,7 +319,7 @@ The level of infringements against the provisions of the roadworthiness directiv
 </tbody>
 </table>
 
-[^key-e1a392ce033ca195efa40cc3dbbe086d][^key-d3ebd7e09e6c380242d20933b229af52]
+[^c-e1a392ce033ca195efa40cc3dbbe086d][^c-d3ebd7e09e6c380242d20933b229af52]
 
 7\.
 
@@ -408,9 +408,9 @@ The level of infringements against the provisions shall reflect the risk categor
 </tbody>
 </table>
 
-[^key-da222a13e6c491a406d3828ec3215404]
+[^c-da222a13e6c491a406d3828ec3215404]
 
-[^key-94629142647078860a9642990f2d1198]11.
+[^c-94629142647078860a9642990f2d1198]11.
 
 **Groups of infringements against Regulation (EC) No 1073/2009 of the European Parliament and of the Council**[^f00018]**(Access to the market for coach and bus services)**
 
@@ -432,7 +432,7 @@ The level of infringements against the provisions shall reflect the risk categor
 </tbody>
 </table>
 
-13.[^key-b22c4017487bcac5f3f937cc9c0cbcc1]
+13.[^c-b22c4017487bcac5f3f937cc9c0cbcc1]
 
 **Infringement against Regulation [(EC) No 593/2008](https://www.legislation.gov.uk/european/regulation/2008/0593) of the European Parliament and of the Council [^f00012] (law applicable to contractual obligations)**
 
@@ -469,17 +469,17 @@ The level of infringements against the provisions shall reflect the risk categor
 
 1\.
 
-The serious (SI) and very serious (VSI) infringements listed in Annex I, when committed repeatedly shall be regarded as more serious by the competent authority [^key-93631a8eae114eb98e43703d205129b6].... When calculating the frequency of occurrence of repeated infringements the competent authority[^key-cee8b52d76ed593a1f7031d707ef2634] shall take into account the following factors:
+The serious (SI) and very serious (VSI) infringements listed in Annex I, when committed repeatedly shall be regarded as more serious by the competent authority [^c-93631a8eae114eb98e43703d205129b6].... When calculating the frequency of occurrence of repeated infringements the competent authority[^c-cee8b52d76ed593a1f7031d707ef2634] shall take into account the following factors:
 
 - ((a)) seriousness of infringement (SI or VSI);
 - ((b)) time (at least one rolling year from the date of a control);
-- ((c)) number of vehicles[^key-a1577e7545b2710803042920de07c968] used for the transport activities managed by the transport manager (average per year)
+- ((c)) number of vehicles[^c-a1577e7545b2710803042920de07c968] used for the transport activities managed by the transport manager (average per year)
 
 2\.
 
 Taking into account the potential of creating a risk to road safety the maximum frequency of serious infringements beyond which they should be considered as more serious shall be established as follows:
 
-3 SI/per vehicle[^key-bdf14a41cc725de1cf9783fac136b880]/per year
+3 SI/per vehicle[^c-bdf14a41cc725de1cf9783fac136b880]/per year
 
 1 VSI
 
@@ -489,9 +489,9 @@ launch of a national procedure on good repute
 
 3\.
 
-The number of infringements per vehicle[^key-3213e174dc7dbb8e82443edd8653cddf] per year is an average figure calculated by dividing the total number of all infringements of the same level of seriousness (SI or VSI) by the average number of vehicles used[^key-f1a227d29d92a28455a8d5d387746dcf] during the year. The frequency formula provides for a maximum threshold for occurrence of serious infringements beyond which they shall be considered more serious. The competent authority[^key-fb5fceb2528ff5718e65ec4631991d34] may establish stricter thresholds if envisaged in the national administrative procedure[^key-9fcf16d2dfb6dbe28d4deb2551206d0f] for assessing good repute.
+The number of infringements per vehicle[^c-3213e174dc7dbb8e82443edd8653cddf] per year is an average figure calculated by dividing the total number of all infringements of the same level of seriousness (SI or VSI) by the average number of vehicles used[^c-f1a227d29d92a28455a8d5d387746dcf] during the year. The frequency formula provides for a maximum threshold for occurrence of serious infringements beyond which they shall be considered more serious. The competent authority[^c-fb5fceb2528ff5718e65ec4631991d34] may establish stricter thresholds if envisaged in the national administrative procedure[^c-9fcf16d2dfb6dbe28d4deb2551206d0f] for assessing good repute.
 
-## ANNEX III[^key-f7ee07baed971f685976941c558eedc5]
+## ANNEX III[^c-f7ee07baed971f685976941c558eedc5]
 
 **No longer in force.**
 
@@ -505,37 +505,37 @@ The number of infringements per vehicle[^key-3213e174dc7dbb8e82443edd8653cddf] p
 
 [^f00003]: Footnote: Council Regulation (EEC) No 3821/85 of 20 December 1985 on recording equipment in road transport ([OJ L 370, 31.12.1985, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1985.370.01.0008.01.ENG)).
 
-[^key-06f56f0f1d5a1a019419fcc99a270f36]: Textual amendment: Words in Annex 1 inserted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/2)
+[^c-06f56f0f1d5a1a019419fcc99a270f36]: Textual amendment: Words in Annex 1 inserted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/2)
 
 [^f00004]: Footnote: Regulation (EC) No 561/2006 of the European Parliament and of the Council of 15 March 2006 on the harmonisation of certain social legislation relating to road transport and amending Council Regulations (EEC) No 3821/85 and (EC) No 2135/98 and repealing Council Regulation (EEC) No 3820/85 ([OJ L 102, 11.4.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.102.01.0001.01.ENG)).
 
 [^f00005]: Footnote: MSI = most serious infringements/VSI = very serious infringement/SI = serious infringement.
 
-[^key-1f79ef43fc5479b931148c44ed702c2c]: Textual amendment: Words in Annex 1 Section 1 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/3)
+[^c-1f79ef43fc5479b931148c44ed702c2c]: Textual amendment: Words in Annex 1 Section 1 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/3)
 
-[^key-8310168bdfb3b5ff08d00b0ab72c3478]: Textual amendment: Words in Annex 1 Section 1 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/4)
+[^c-8310168bdfb3b5ff08d00b0ab72c3478]: Textual amendment: Words in Annex 1 Section 1 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/4)
 
-[^key-39c8f810fd85f729831bcc284b645806]: Textual amendment: Word in Annex 1 Section 1 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/5)
+[^c-39c8f810fd85f729831bcc284b645806]: Textual amendment: Word in Annex 1 Section 1 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/5)
 
-[^key-063714e533b10c6fcc1e0280c7e71d57]: Textual amendment: Words in Annex 1 Section 1 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/6)
+[^c-063714e533b10c6fcc1e0280c7e71d57]: Textual amendment: Words in Annex 1 Section 1 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/6)
 
-[^key-8b0ed13da2f5be2f0e19351891a30c4a]: Textual amendment: Words in Annex 1 Section 1 omitted (21.4.2025) by virtue of [The Drivers’ Hours and Tachographs (Amendment and Modification) Regulations 2025 (S.I. 2025/402)](https://www.legislation.gov.uk/uksi/2025/402), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/402/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/402/regulation/4/2/a)
+[^c-8b0ed13da2f5be2f0e19351891a30c4a]: Textual amendment: Words in Annex 1 Section 1 omitted (21.4.2025) by virtue of [The Drivers’ Hours and Tachographs (Amendment and Modification) Regulations 2025 (S.I. 2025/402)](https://www.legislation.gov.uk/uksi/2025/402), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/402/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2025/402/regulation/4/2/a)
 
-[^key-41608a7e187034ec878c4b541bdb46cb]: Textual amendment: Words in Annex 1 Section 1 omitted (21.4.2025) by virtue of [The Drivers’ Hours and Tachographs (Amendment and Modification) Regulations 2025 (S.I. 2025/402)](https://www.legislation.gov.uk/uksi/2025/402), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/402/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/402/regulation/4/2/b)
+[^c-41608a7e187034ec878c4b541bdb46cb]: Textual amendment: Words in Annex 1 Section 1 omitted (21.4.2025) by virtue of [The Drivers’ Hours and Tachographs (Amendment and Modification) Regulations 2025 (S.I. 2025/402)](https://www.legislation.gov.uk/uksi/2025/402), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/402/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2025/402/regulation/4/2/b)
 
-[^key-c3abbd409cb1ae4b5eefd5812ca28c05]: Textual amendment: Words in Annex 1 Section 1 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/7)
+[^c-c3abbd409cb1ae4b5eefd5812ca28c05]: Textual amendment: Words in Annex 1 Section 1 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/7)
 
 [^f00006]: Footnote: Regulation (EU) No 165/2014 of the European Parliament and of the Council of 4 February 2014 on tachographs in road transport, repealing Council Regulation (EEC) No 3821/85 on recording equipment in road transport and amending Regulation (EC) No 561/2006 of the European Parliament and of the Council on the harmonisation of certain social legislation relating to road transport ([OJ L 60, 28.2.2014, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.060.01.0001.01.ENG)).
 
-[^key-3619f5e2fb593cd9f92d4806f61161dc]: Textual amendment: Words in Annex 1 Section 2 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(8)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/8)
+[^c-3619f5e2fb593cd9f92d4806f61161dc]: Textual amendment: Words in Annex 1 Section 2 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(8)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/8)
 
-[^key-82cc54460700ff5456910863f1481312]: Textual amendment: Words in Annex 1 Section 2 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(9)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/9)
+[^c-82cc54460700ff5456910863f1481312]: Textual amendment: Words in Annex 1 Section 2 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(9)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/9)
 
-[^key-dc80f4beda1f76f85e98b6620a5d1a31]: Textual amendment: Words in Annex 1 Section 2 inserted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(10)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/10)
+[^c-dc80f4beda1f76f85e98b6620a5d1a31]: Textual amendment: Words in Annex 1 Section 2 inserted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(10)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/10)
 
-[^key-098173a312a6f972559ce9973d08ea46]: Textual amendment: Words in Annex 1 Section 2 omitted (1.1.2026) by virtue of [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(11)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/11)
+[^c-098173a312a6f972559ce9973d08ea46]: Textual amendment: Words in Annex 1 Section 2 omitted (1.1.2026) by virtue of [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(11)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/11)
 
-[^key-5910c95c3465230f915579c54ec70b09]: Textual amendment: Words in Annex 1 Section 2 substituted (21.4.2025) by [The Drivers’ Hours and Tachographs (Amendment and Modification) Regulations 2025 (S.I. 2025/402)](https://www.legislation.gov.uk/uksi/2025/402), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/402/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2025/402/regulation/4/3/b)
+[^c-5910c95c3465230f915579c54ec70b09]: Textual amendment: Words in Annex 1 Section 2 substituted (21.4.2025) by [The Drivers’ Hours and Tachographs (Amendment and Modification) Regulations 2025 (S.I. 2025/402)](https://www.legislation.gov.uk/uksi/2025/402), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/402/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2025/402/regulation/4/3/b)
 
 [^f00007]: Footnote: Directive 2002/15/EC of the European Parliament and of the Council of 11 March 2002 on the organisation of the working time of persons performing mobile road transport activities ([OJ L 80, 23.3.2002, p. 35](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.080.01.0035.01.ENG)).
 
@@ -547,9 +547,9 @@ The number of infringements per vehicle[^key-3213e174dc7dbb8e82443edd8653cddf] p
 
 [^f00011]: Footnote: Council Directive 92/6/EEC of 10 February 1992 on the installation and use of speed limitation devices for certain categories of motor vehicles in the Community ([OJ L 57, 2.3.1992, p. 27](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1992.057.01.0027.01.ENG)).
 
-[^key-e1a392ce033ca195efa40cc3dbbe086d]: Textual amendment: Words in Annex 1 Section 6 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(12)(a)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/12/a)
+[^c-e1a392ce033ca195efa40cc3dbbe086d]: Textual amendment: Words in Annex 1 Section 6 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(12)(a)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/12/a)
 
-[^key-d3ebd7e09e6c380242d20933b229af52]: Textual amendment: Words in Annex 1 Section 6 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(12)(b)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/12/b)
+[^c-d3ebd7e09e6c380242d20933b229af52]: Textual amendment: Words in Annex 1 Section 6 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(12)(b)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/12/b)
 
 [^f00012]: Footnote: Directive 2003/59/EC of the European Parliament and of the Council of 15 July 2003 on the initial qualification and periodic training of drivers of certain road vehicles for the carriage of goods or passengers, amending Council Regulation (EEC) No 3820/85 and Council Directive 91/439/EEC and repealing Council Directive 76/914/EEC ([OJ L 226, 10.9.2003, p. 4](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.226.01.0004.01.ENG)).
 
@@ -563,30 +563,30 @@ The number of infringements per vehicle[^key-3213e174dc7dbb8e82443edd8653cddf] p
 
 [^f00017]: Footnote: Regulation (EC) No 1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market ([OJ L 300, 14.11.2009, p. 72](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.300.01.0072.01.ENG)).
 
-[^key-da222a13e6c491a406d3828ec3215404]: Textual amendment: Annex 1 Section 10 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(13)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/13)
+[^c-da222a13e6c491a406d3828ec3215404]: Textual amendment: Annex 1 Section 10 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(13)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/13)
 
-[^key-94629142647078860a9642990f2d1198]: Textual amendment: Annex 1 Section 11 omitted (1.1.2026) by virtue of [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(14)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/14)
+[^c-94629142647078860a9642990f2d1198]: Textual amendment: Annex 1 Section 11 omitted (1.1.2026) by virtue of [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(14)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/14)
 
 [^f00018]: Footnote: Regulation (EC) No 1073/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international market for coach and bus services, and amending Regulation (EC) No 561/2006 ([OJ L 300, 14.11.2009, p. 88](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.300.01.0088.01.ENG)).
 
 [^f00019]: Footnote: Council Regulation (EC) No 1/2005 of 22 December 2004 on the protection of animals during transport and related operations and amending Directives 64/432/EEC and 93/119/EC and Regulation (EC) No 1255/97 ([OJ L 3, 5.1.2005, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.003.01.0001.01.ENG)).
 
-[^key-b22c4017487bcac5f3f937cc9c0cbcc1]: Textual amendment: Annex 1 Sections 13, 14 inserted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(15)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/15)
+[^c-b22c4017487bcac5f3f937cc9c0cbcc1]: Textual amendment: Annex 1 Sections 13, 14 inserted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(15)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/15)
 
-[^key-93631a8eae114eb98e43703d205129b6]: Textual amendment: Words in Annex 2 para. 1 omitted (1.1.2026) by virtue of [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/a/i)
+[^c-93631a8eae114eb98e43703d205129b6]: Textual amendment: Words in Annex 2 para. 1 omitted (1.1.2026) by virtue of [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/a/i)
 
-[^key-cee8b52d76ed593a1f7031d707ef2634]: Textual amendment: Words in Annex 2 para. 1 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/a/ii)
+[^c-cee8b52d76ed593a1f7031d707ef2634]: Textual amendment: Words in Annex 2 para. 1 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/a/ii)
 
-[^key-a1577e7545b2710803042920de07c968]: Textual amendment: Word in Annex 2 para. 1(c) substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/a/iii)
+[^c-a1577e7545b2710803042920de07c968]: Textual amendment: Word in Annex 2 para. 1(c) substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/a/iii)
 
-[^key-bdf14a41cc725de1cf9783fac136b880]: Textual amendment: Word in Annex 2 para. 2 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(b)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/b)
+[^c-bdf14a41cc725de1cf9783fac136b880]: Textual amendment: Word in Annex 2 para. 2 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(b)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/b)
 
-[^key-3213e174dc7dbb8e82443edd8653cddf]: Textual amendment: Word in Annex 2 para. 3 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(c)(i)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/c/i)
+[^c-3213e174dc7dbb8e82443edd8653cddf]: Textual amendment: Word in Annex 2 para. 3 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(c)(i)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/c/i)
 
-[^key-f1a227d29d92a28455a8d5d387746dcf]: Textual amendment: Words in Annex 2 para. 3 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/c/ii)
+[^c-f1a227d29d92a28455a8d5d387746dcf]: Textual amendment: Words in Annex 2 para. 3 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/c/ii)
 
-[^key-fb5fceb2528ff5718e65ec4631991d34]: Textual amendment: Words in Annex 2 para. 3 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/c/iii)
+[^c-fb5fceb2528ff5718e65ec4631991d34]: Textual amendment: Words in Annex 2 para. 3 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/c/iii)
 
-[^key-9fcf16d2dfb6dbe28d4deb2551206d0f]: Textual amendment: Words in Annex 2 para. 3 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(c)(iv)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/c/iv)
+[^c-9fcf16d2dfb6dbe28d4deb2551206d0f]: Textual amendment: Words in Annex 2 para. 3 substituted (1.1.2026) by [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(16)(c)(iv)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/16/c/iv)
 
-[^key-f7ee07baed971f685976941c558eedc5]: Textual amendment: [Annex 3](https://www.legislation.gov.uk/eur/2016/403/annex/III) omitted (1.1.2026) by virtue of [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(17)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/17)
+[^c-f7ee07baed971f685976941c558eedc5]: Textual amendment: [Annex 3](https://www.legislation.gov.uk/eur/2016/403/annex/III) omitted (1.1.2026) by virtue of [The European Registers of Road Transport Undertakings (Disclosure of Information) (Amendment) Regulations 2025 (S.I. 2025/1202)](https://www.legislation.gov.uk/uksi/2025/1202), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/1/1), [4(17)](https://www.legislation.gov.uk/uksi/2025/1202/regulation/4/17)

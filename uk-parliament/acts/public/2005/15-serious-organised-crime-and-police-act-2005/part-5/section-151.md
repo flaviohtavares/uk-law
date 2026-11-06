@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Power of constables etc. to require production of registration documents in respect of a vehicle[^key-da433328ceed685988c29427e9ab8b45]
+## 151. Power of constables etc. to require production of registration documents in respect of a vehicle[^c-da433328ceed685988c29427e9ab8b45]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ After section 28 of the Vehicle Excise and Registration Act 1994 (c. 22) insertâ
 
 ## Annotations
 
-[^key-da433328ceed685988c29427e9ab8b45]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2005/15/section/151) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(u)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/u)
+[^c-da433328ceed685988c29427e9ab8b45]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2005/15/section/151) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(u)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/u)

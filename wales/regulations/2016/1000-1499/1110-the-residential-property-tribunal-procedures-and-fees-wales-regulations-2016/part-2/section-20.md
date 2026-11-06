@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Determination without a hearing[^key-b26f2881a386a30b06125ef6dfc7df4c]
+## 20. Determination without a hearing[^c-b26f2881a386a30b06125ef6dfc7df4c]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b26f2881a386a30b06125ef6dfc7df4c]: Commencement: Reg. 20 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-b26f2881a386a30b06125ef6dfc7df4c]: Commencement: Reg. 20 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Borrowing[^key-4a86ed606d943b37b2afc2297c273576]
+## 20. Borrowing[^c-4a86ed606d943b37b2afc2297c273576]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a86ed606d943b37b2afc2297c273576]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2016/11/section/20) in force at 1.4.2017 by [S.I. 2016/1178](https://www.legislation.gov.uk/uksi/2016/1178), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/1178/regulation/2/a)
+[^c-4a86ed606d943b37b2afc2297c273576]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2016/11/section/20) in force at 1.4.2017 by [S.I. 2016/1178](https://www.legislation.gov.uk/uksi/2016/1178), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/1178/regulation/2/a)

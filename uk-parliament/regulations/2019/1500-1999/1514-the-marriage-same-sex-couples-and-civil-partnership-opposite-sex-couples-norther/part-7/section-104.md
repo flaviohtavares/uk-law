@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005[^key-c7da19ed6d97684d3e48d4bc1ec041f3]
+## 104. Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005[^c-c7da19ed6d97684d3e48d4bc1ec041f3]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 2(1) of the Social Fund Maternity and Funeral Expenses (General) R
 
 ## Annotations
 
-[^key-c7da19ed6d97684d3e48d4bc1ec041f3]: Commencement: Reg. 104 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-c7da19ed6d97684d3e48d4bc1ec041f3]: Commencement: Reg. 104 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00167]: Footnote: [S.R. (N.I.) 2005/506](https://www.legislation.gov.uk/nisr/2005/506).

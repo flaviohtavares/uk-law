@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. DPRK ships: transfers of goods[^key-89df78854c15215b26442bc1b66ee52e][^key-6d969431738794624ce1642df225d0ea]
+## 74. DPRK ships: transfers of goods[^c-89df78854c15215b26442bc1b66ee52e][^c-6d969431738794624ce1642df225d0ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ if the goods originated in, or are destined for, the DPRK.
 
 ## Annotations
 
-[^key-89df78854c15215b26442bc1b66ee52e]: Commencement: Reg. 74 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-89df78854c15215b26442bc1b66ee52e]: Commencement: Reg. 74 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-6d969431738794624ce1642df225d0ea]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2019/411/regulation/74) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d969431738794624ce1642df225d0ea]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2019/411/regulation/74) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

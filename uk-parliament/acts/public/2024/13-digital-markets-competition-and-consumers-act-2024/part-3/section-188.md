@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Provisional breach of undertakings enforcement notice[^key-3048d5359c5f009ed85e3abf495ce86b][^key-fac2dcbab3859176c2c98077e6cd4bd0]
+## 188. Provisional breach of undertakings enforcement notice[^c-3048d5359c5f009ed85e3abf495ce86b][^c-fac2dcbab3859176c2c98077e6cd4bd0]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3048d5359c5f009ed85e3abf495ce86b]: Commencement: S. 188 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-3048d5359c5f009ed85e3abf495ce86b]: Commencement: S. 188 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-fac2dcbab3859176c2c98077e6cd4bd0]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2024/13/section/188) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-fac2dcbab3859176c2c98077e6cd4bd0]: Commencement: [S. 188](https://www.legislation.gov.uk/ukpga/2024/13/section/188) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

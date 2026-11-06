@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-6a9ca64bd0b5b377503129ef1e053396] The following provisions shall cease to have effect—
+(1)[^c-6a9ca64bd0b5b377503129ef1e053396] The following provisions shall cease to have effect—
 
 - (a) sections 468H to 468Q of ICTA (authorised unit trusts),
-- (b)[^key-d995d40067d85e2d3e7bee4c66c71689] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-d995d40067d85e2d3e7bee4c66c71689] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d995d40067d85e2d3e7bee4c66c71689] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-d995d40067d85e2d3e7bee4c66c71689] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) section 373(4) and (6) of ITTOIA 2005 (open-ended investment company: interest distributions), and
 - (e) section 376(4) and (6) of ITTOIA 2005 (authorised unit trust: interest distributions).
 
@@ -59,20 +59,20 @@ summary: ''
   - (i) the date specified by or in accordance with the terms of the trust or the instrument of incorporation of the company for any distribution for that distribution period, or
   - (ii) if no date is specified, the last day of that distribution period,
 - (k) “**distribution period**” in relation to an authorised investment fund means a period by reference to which the total amount available for distribution to unit holders or shareholders is ascertained,
-- (l) “**umbrella company**” has the meaning given by section 615 of the Corporation Tax Act 2010[^key-09e96382276666d70c0c489ce89c1044],
-- (m) “**umbrella scheme**” has the meaning given by section 619 of the Corporation Tax Act 2010[^key-169dd74a3a21fd0f2048ae0e3ec23bf8], and
-- (n) section 1122 of the Corporation Tax Act 2010[^key-e796e56c925ff0ac805082549e3f5879] (connected persons) applies.
+- (l) “**umbrella company**” has the meaning given by section 615 of the Corporation Tax Act 2010[^c-09e96382276666d70c0c489ce89c1044],
+- (m) “**umbrella scheme**” has the meaning given by section 619 of the Corporation Tax Act 2010[^c-169dd74a3a21fd0f2048ae0e3ec23bf8], and
+- (n) section 1122 of the Corporation Tax Act 2010[^c-e796e56c925ff0ac805082549e3f5879] (connected persons) applies.
 
 ## Annotations
 
 [^c1274154]: Commencement: S. 17 partly in force; s. 17(2)-(4) in force at Royal Assent, see s. 19(1)
 
-[^key-6a9ca64bd0b5b377503129ef1e053396]: Commencement: S. 17(1) in force at 1.4.2006 for the purposes of corporation tax, with effect as specifed in art. 2(3) of the commencing S.I. and 6.4.2006 for the purposes of income tax, with effect as specifed in art. 2(2) of the commencing S.I. by [S.I. 2006/982](https://www.legislation.gov.uk/uksi/2006/982), [art. 2](https://www.legislation.gov.uk/uksi/2006/982/article/2)
+[^c-6a9ca64bd0b5b377503129ef1e053396]: Commencement: S. 17(1) in force at 1.4.2006 for the purposes of corporation tax, with effect as specifed in art. 2(3) of the commencing S.I. and 6.4.2006 for the purposes of income tax, with effect as specifed in art. 2(2) of the commencing S.I. by [S.I. 2006/982](https://www.legislation.gov.uk/uksi/2006/982), [art. 2](https://www.legislation.gov.uk/uksi/2006/982/article/2)
 
-[^key-d995d40067d85e2d3e7bee4c66c71689]: Textual amendment: S. 17(1)(b)(c) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-d995d40067d85e2d3e7bee4c66c71689]: Textual amendment: S. 17(1)(b)(c) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-09e96382276666d70c0c489ce89c1044]: Textual amendment: Words in s. 17(4)(l) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 479(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/479/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-09e96382276666d70c0c489ce89c1044]: Textual amendment: Words in s. 17(4)(l) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 479(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/479/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-169dd74a3a21fd0f2048ae0e3ec23bf8]: Textual amendment: Words in s. 17(4)(m) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 479(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/479/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-169dd74a3a21fd0f2048ae0e3ec23bf8]: Textual amendment: Words in s. 17(4)(m) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 479(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/479/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-e796e56c925ff0ac805082549e3f5879]: Textual amendment: Words in s. 17(4)(n) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 479(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/479/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e796e56c925ff0ac805082549e3f5879]: Textual amendment: Words in s. 17(4)(n) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 479(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/479/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

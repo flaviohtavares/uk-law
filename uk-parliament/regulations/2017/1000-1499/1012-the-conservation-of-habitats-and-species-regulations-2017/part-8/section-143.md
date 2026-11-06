@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Amendment of Schedules[^key-d6cfab54d0ed2b66008175a9c6ce2e57]
+## 143. Amendment of Schedules[^c-d6cfab54d0ed2b66008175a9c6ce2e57]
 
 *Extent: E.W.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6cfab54d0ed2b66008175a9c6ce2e57]: Textual amendment: Regs. 143-145 inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [30](https://www.legislation.gov.uk/uksi/2019/579/regulation/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d6cfab54d0ed2b66008175a9c6ce2e57]: Textual amendment: Regs. 143-145 inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [30](https://www.legislation.gov.uk/uksi/2019/579/regulation/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

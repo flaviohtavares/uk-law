@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Comparative tests and trials[^key-37ae8c19a27cc6d59a44c7c972488776]
+## 22. Comparative tests and trials[^c-37ae8c19a27cc6d59a44c7c972488776]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37ae8c19a27cc6d59a44c7c972488776]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/ssi/2004/317/regulation/22) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [12(20)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-37ae8c19a27cc6d59a44c7c972488776]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/ssi/2004/317/regulation/22) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [12(20)](https://www.legislation.gov.uk/ssi/2019/59/regulation/12/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 231. Office copies of documents[^key-051f759ce489c3960202c36787702c64]
+## 231. Office copies of documents[^c-051f759ce489c3960202c36787702c64]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 7.55 of the 1991 Rules.
 
 ## Annotations
 
-[^key-051f759ce489c3960202c36787702c64]: Commencement: Rule 231 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-051f759ce489c3960202c36787702c64]: Commencement: Rule 231 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

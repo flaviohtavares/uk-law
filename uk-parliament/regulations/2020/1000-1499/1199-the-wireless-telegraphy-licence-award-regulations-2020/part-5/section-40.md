@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Eligibility rule[^key-4401420bb301b8259ce0339fe825c5ed]
+## 40. Eligibility rule[^c-4401420bb301b8259ce0339fe825c5ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4401420bb301b8259ce0339fe825c5ed]: Commencement: Reg. 40 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-4401420bb301b8259ce0339fe825c5ed]: Commencement: Reg. 40 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

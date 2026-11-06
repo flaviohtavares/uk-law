@@ -52,13 +52,13 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 Accordingly the Secretary of State, in exercise of the powers conferred by section 2 and 7(9) of and Schedule 1 to the 1999 Act[^f00004], and by section 2(2) of the European Communities Act 1972, as read with paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00005], makes the following Regulations[^f00006]:
 
-## 1. Citation, commencement and interpretation[^key-682d77d8a937c09bf57ba649d92b9224]
+## 1. Citation, commencement and interpretation[^c-682d77d8a937c09bf57ba649d92b9224]
 
 (1) These Regulations may be cited as the Greenhouse Gas Emissions Trading Scheme (Amendment) Regulations 2015 and come into force on 4th December 2015.
 
 (2) In these Regulations a reference to a numbered regulation or a numbered Schedule is to that regulation of, or Schedule to, the Greenhouse Gas Emissions Trading Scheme Regulations 2012[^f00007].
 
-## 2. Amendments to definitions[^key-bee6b72764989bf8f4fc487ad757647b]
+## 2. Amendments to definitions[^c-bee6b72764989bf8f4fc487ad757647b]
 
 (1) Regulation 3 is amended as follows.
 
@@ -81,7 +81,7 @@ Accordingly the Secretary of State, in exercise of the powers conferred by secti
 
 .
 
-## 3. Surrender of permits[^key-97162c51042352369bf0a5001d6e2326]
+## 3. Surrender of permits[^c-97162c51042352369bf0a5001d6e2326]
 
 For paragraphs (2) and (3) of regulation 13, substitute—
 
@@ -97,7 +97,7 @@ For paragraphs (2) and (3) of regulation 13, substitute—
 
 .
 
-## 4. Excluded installations[^key-498245cfe54d2f6619e917f02b5eb8a5]
+## 4. Excluded installations[^c-498245cfe54d2f6619e917f02b5eb8a5]
 
 For paragraph (3) of regulation 15, substitute—
 
@@ -108,7 +108,7 @@ For paragraph (3) of regulation 15, substitute—
 
 .
 
-## 5. Allocation of allowances for 2013 to 2020[^key-d0be91c24ee5431fa10f6938e74eca25]
+## 5. Allocation of allowances for 2013 to 2020[^c-d0be91c24ee5431fa10f6938e74eca25]
 
 (1) Regulation 16 is amended as follows.
 
@@ -120,7 +120,7 @@ For paragraph (3) of regulation 15, substitute—
 
 (3) In paragraph (4)(a), after “Schedule 6”, insert “or Schedule 6A”.
 
-## 6. Failures to notify changes at an excluded installation[^key-44d8918bfb92faa0c3e735a1d96b85a1]
+## 6. Failures to notify changes at an excluded installation[^c-44d8918bfb92faa0c3e735a1d96b85a1]
 
 After regulation 58, insert—
 
@@ -134,7 +134,7 @@ After regulation 58, insert—
 
 .
 
-## 7. Failure to return allowances[^key-d46b47d9cd9391a83aae66d28683fe89]
+## 7. Failure to return allowances[^c-d46b47d9cd9391a83aae66d28683fe89]
 
 (1) Regulation 67 is amended as follows.
 
@@ -146,7 +146,7 @@ After regulation 58, insert—
 
 .
 
-## 8. Providing false or misleading information[^key-99f994a6cd6b81c85fd612eccd09f485]
+## 8. Providing false or misleading information[^c-99f994a6cd6b81c85fd612eccd09f485]
 
 (1) Regulation 70(1) is amended as follows.
 
@@ -164,7 +164,7 @@ After regulation 58, insert—
 
 .
 
-## 9. Rights of appeal[^key-14371b713d8897b37d58d1c2cf883473]
+## 9. Rights of appeal[^c-14371b713d8897b37d58d1c2cf883473]
 
 (1) Regulation 73 is amended as follows.
 
@@ -180,7 +180,7 @@ After regulation 58, insert—
 
 .
 
-## 10. Effect of an appeal[^key-1a85f4dd18fd8327e784dd8b8765125c]
+## 10. Effect of an appeal[^c-1a85f4dd18fd8327e784dd8b8765125c]
 
 (1) Regulation 76(2)(c) is amended as follows.
 
@@ -196,7 +196,7 @@ After regulation 58, insert—
 
 .
 
-## 11. The Union Registry[^key-773e7fd8be61ded3f1bfa2a81f9e603e]
+## 11. The Union Registry[^c-773e7fd8be61ded3f1bfa2a81f9e603e]
 
 For paragraph (11)(b) of regulation 80, substitute—
 
@@ -204,11 +204,11 @@ For paragraph (11)(b) of regulation 80, substitute—
 
 .
 
-## 12. Content of greenhouse gas emissions permit[^key-eb19a992879265beefc7146d06919912]
+## 12. Content of greenhouse gas emissions permit[^c-eb19a992879265beefc7146d06919912]
 
 In paragraph 2(7)(a) of Schedule 4 for “paragraph 1(3)(b)” substitute “paragraph 1A(1)(a)”.
 
-## 13. Allocation and adjustment of allowances[^key-d24f5f3ab9e2491af3cbf549dcd7fa98]
+## 13. Allocation and adjustment of allowances[^c-d24f5f3ab9e2491af3cbf549dcd7fa98]
 
 (1) Schedule 6 is amended as follows.
 
@@ -256,7 +256,7 @@ In paragraph 2(7)(a) of Schedule 4 for “paragraph 1(3)(b)” substitute “par
 
 .
 
-## 14. Allocation and adjustment of allowances: installations which cease to be excluded installations[^key-52c44be8a51fc8bf7425909ce3ead83a]
+## 14. Allocation and adjustment of allowances: installations which cease to be excluded installations[^c-52c44be8a51fc8bf7425909ce3ead83a]
 
 After Schedule 6, insert—
 
@@ -657,35 +657,35 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00006]: Footnote: Under section 57 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to the Scottish Ministers of functions in relation to observing and implementing obligations under EU law in respect of devolved matters, any function of the Secretary of State in relation to any matter continues to be exercisable as regards Scotland for the purposes specified in section 2(2) of the European Communities Act 1972. And similarly, under paragraph 5 of Schedule 3 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), despite the transfer to the Welsh Ministers of functions under section 2 of the 1999 Act so far as exercisable in relation to Wales (except in relation to offshore oil and gas exploration and exploitation), those functions continue to be exercisable by the Secretary of State in relation to Wales for such purposes.
 
-[^key-682d77d8a937c09bf57ba649d92b9224]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
+[^c-682d77d8a937c09bf57ba649d92b9224]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2012/3038](https://www.legislation.gov.uk/uksi/2012/3038); those Regulations are amended by Schedule 4 to W.[S.I. 2013/755 (W. 90)](https://www.legislation.gov.uk/wsi/2013/755) (see in particular paragraph 425), by [S.I. 2013/1037](https://www.legislation.gov.uk/uksi/2013/1037), by [S.I. 2013/3135](https://www.legislation.gov.uk/uksi/2013/3135), by [S.I. 2014/3125](https://www.legislation.gov.uk/uksi/2014/3125), by [S.I. 2015/933](https://www.legislation.gov.uk/uksi/2015/933), and by [S.I. 2015/1388](https://www.legislation.gov.uk/uksi/2015/1388).
 
-[^key-bee6b72764989bf8f4fc487ad757647b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1849/regulation/2) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
+[^c-bee6b72764989bf8f4fc487ad757647b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1849/regulation/2) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
 
-[^key-97162c51042352369bf0a5001d6e2326]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1849/regulation/3) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
+[^c-97162c51042352369bf0a5001d6e2326]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1849/regulation/3) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
 
-[^key-498245cfe54d2f6619e917f02b5eb8a5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1849/regulation/4) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
+[^c-498245cfe54d2f6619e917f02b5eb8a5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1849/regulation/4) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
 
-[^key-d0be91c24ee5431fa10f6938e74eca25]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1849/regulation/5) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
+[^c-d0be91c24ee5431fa10f6938e74eca25]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1849/regulation/5) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
 
-[^key-44d8918bfb92faa0c3e735a1d96b85a1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1849/regulation/6) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
+[^c-44d8918bfb92faa0c3e735a1d96b85a1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1849/regulation/6) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
 
-[^key-d46b47d9cd9391a83aae66d28683fe89]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1849/regulation/7) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
+[^c-d46b47d9cd9391a83aae66d28683fe89]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1849/regulation/7) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
 
-[^key-99f994a6cd6b81c85fd612eccd09f485]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1849/regulation/8) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
+[^c-99f994a6cd6b81c85fd612eccd09f485]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1849/regulation/8) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
 
-[^key-14371b713d8897b37d58d1c2cf883473]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1849/regulation/9) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
+[^c-14371b713d8897b37d58d1c2cf883473]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1849/regulation/9) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
 
-[^key-1a85f4dd18fd8327e784dd8b8765125c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1849/regulation/10) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
+[^c-1a85f4dd18fd8327e784dd8b8765125c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1849/regulation/10) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
 
-[^key-773e7fd8be61ded3f1bfa2a81f9e603e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1849/regulation/11) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
+[^c-773e7fd8be61ded3f1bfa2a81f9e603e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1849/regulation/11) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
 
-[^key-eb19a992879265beefc7146d06919912]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1849/regulation/12) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
+[^c-eb19a992879265beefc7146d06919912]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1849/regulation/12) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
 
-[^key-d24f5f3ab9e2491af3cbf549dcd7fa98]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1849/regulation/13) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
+[^c-d24f5f3ab9e2491af3cbf549dcd7fa98]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1849/regulation/13) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
 
-[^key-52c44be8a51fc8bf7425909ce3ead83a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1849/regulation/14) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
+[^c-52c44be8a51fc8bf7425909ce3ead83a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1849/regulation/14) in force at 4.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1849/regulation/1/1)
 
 [^f00008]: Footnote: OJ No L 24, 29.1.2008, p 8.
 

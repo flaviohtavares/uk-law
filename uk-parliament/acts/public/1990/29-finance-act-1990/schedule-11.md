@@ -24,7 +24,7 @@ Section 69.
 
 ### Taxation
 
-**1.**[^key-06ef7b38bae5ac8e108d434f1ec340ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-06ef7b38bae5ac8e108d434f1ec340ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Management
 
@@ -97,7 +97,7 @@ Section 69.
 
 ## Annotations
 
-[^key-06ef7b38bae5ac8e108d434f1ec340ae]: Textual amendment: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/1990/29/schedule/11/paragraph/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-06ef7b38bae5ac8e108d434f1ec340ae]: Textual amendment: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/1990/29/schedule/11/paragraph/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c12833091]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 

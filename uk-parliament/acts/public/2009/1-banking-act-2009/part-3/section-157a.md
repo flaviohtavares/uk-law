@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157A. Banks not regulated by PRA[^key-6cf5f8b3662c37a17d3fde36a7f20ee1]
+## 157A. Banks not regulated by PRA[^c-6cf5f8b3662c37a17d3fde36a7f20ee1]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ TABLE OF MODIFICATIONS
 
 ## Annotations
 
-[^key-6cf5f8b3662c37a17d3fde36a7f20ee1]: Textual amendment: S. 157A inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 50](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/50) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-6cf5f8b3662c37a17d3fde36a7f20ee1]: Textual amendment: S. 157A inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 50](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/50) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

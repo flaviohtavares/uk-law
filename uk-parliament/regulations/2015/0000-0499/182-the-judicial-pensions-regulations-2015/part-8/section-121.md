@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Amount payable on death of active member (death in service)[^key-4e072bc44581e2d0bf78c8b19ac078fd]
+## 121. Amount payable on death of active member (death in service)[^c-4e072bc44581e2d0bf78c8b19ac078fd]
 
 *Extent: E+W+S+N.I.*
 
 (1) This regulation applies in relation to a continuous period of pensionable service under this scheme (“period of service”).
 
-(2) If the member is a transition member with continuity of service, the period of service includes the member’s period of pensionable service under a relevant[^key-150bbf68e01a24ffce5cac7074fbc443] scheme before the closing date.
+(2) If the member is a transition member with continuity of service, the period of service includes the member’s period of pensionable service under a relevant[^c-150bbf68e01a24ffce5cac7074fbc443] scheme before the closing date.
 
 (3) For the purpose of this regulation, a person dies in service if the person dies while an active member of this scheme in relation to a period of service.
 
@@ -47,12 +47,12 @@ summary: ''
 
 (7) For the purpose of this regulation, any amounts paid or payable to or in respect of P in the capacity of a pension credit member are disregarded.
 
-(8)[^key-ee5e33c052bdfb45eb99307055c0521f] In this regulation a reference to “pensionable service” in relation to the Fee-Paid Judges Scheme is a reference to qualifying judicial service.
+(8)[^c-ee5e33c052bdfb45eb99307055c0521f] In this regulation a reference to “pensionable service” in relation to the Fee-Paid Judges Scheme is a reference to qualifying judicial service.
 
 ## Annotations
 
-[^key-4e072bc44581e2d0bf78c8b19ac078fd]: Commencement: [Reg. 121](https://www.legislation.gov.uk/uksi/2015/182/regulation/121) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-4e072bc44581e2d0bf78c8b19ac078fd]: Commencement: [Reg. 121](https://www.legislation.gov.uk/uksi/2015/182/regulation/121) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
-[^key-150bbf68e01a24ffce5cac7074fbc443]: Textual amendment: Words in [reg. 121(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/121/2) substituted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2017/508/regulation/13/a)
+[^c-150bbf68e01a24ffce5cac7074fbc443]: Textual amendment: Words in [reg. 121(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/121/2) substituted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2017/508/regulation/13/a)
 
-[^key-ee5e33c052bdfb45eb99307055c0521f]: Textual amendment: [Reg. 121(8)](https://www.legislation.gov.uk/uksi/2015/182/regulation/121/8) inserted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2017/508/regulation/13/b)
+[^c-ee5e33c052bdfb45eb99307055c0521f]: Textual amendment: [Reg. 121(8)](https://www.legislation.gov.uk/uksi/2015/182/regulation/121/8) inserted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2017/508/regulation/13/b)

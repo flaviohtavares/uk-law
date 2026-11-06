@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Power to extend Part 1 to other products[^key-758f5ad068d1aaef05f57f9554ea0044][^key-225fefcf14da53416188dbc95a7183db]
+## 48. Power to extend Part 1 to other products[^c-758f5ad068d1aaef05f57f9554ea0044][^c-225fefcf14da53416188dbc95a7183db]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-758f5ad068d1aaef05f57f9554ea0044]: Commencement: S. 48 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-758f5ad068d1aaef05f57f9554ea0044]: Commencement: S. 48 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-225fefcf14da53416188dbc95a7183db]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2026/18/section/48) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-225fefcf14da53416188dbc95a7183db]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2026/18/section/48) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

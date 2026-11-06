@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to subsections (2) and (3)—
 
-- (a)[^key-c4674a2207c93dbf41605524a12ac43c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c4674a2207c93dbf41605524a12ac43c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any sum secured under any arrangement by which the price or part of the price of a house sold by a local authority is secured by a standard security; and
 - (c) any sum secured under any security which is taken over by a local authority under a power conferred by section 229 (local authority indemnities for building societies, etc.),
 
@@ -49,4 +49,4 @@ is a variable interest home loan for the purposes of this section.
 
 [^c12777251]: Modification: S. 219 excluded by [Local Government Act 1988 (c. 9, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1988/9), [s. 24(4)](https://www.legislation.gov.uk/ukpga/1988/9/section/24/4)
 
-[^key-c4674a2207c93dbf41605524a12ac43c]: Textual amendment: [S. 219(1)(a)](https://www.legislation.gov.uk/ukpga/1987/26/section/219/1/a) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 4F](https://www.legislation.gov.uk/ssi/2009/122/article/4F)) (as amended (17.3.2010) by [S.S.I. 2010/114](https://www.legislation.gov.uk/ssi/2010/114), art. 2)
+[^c-c4674a2207c93dbf41605524a12ac43c]: Textual amendment: [S. 219(1)(a)](https://www.legislation.gov.uk/ukpga/1987/26/section/219/1/a) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 4F](https://www.legislation.gov.uk/ssi/2009/122/article/4F)) (as amended (17.3.2010) by [S.S.I. 2010/114](https://www.legislation.gov.uk/ssi/2010/114), art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Notification requirements for child cruelty offenders: power to amend Schedule 24[^key-a8e80ae5f678ccfc880be367d72e908e]
+## 195. Notification requirements for child cruelty offenders: power to amend Schedule 24[^c-a8e80ae5f678ccfc880be367d72e908e]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8e80ae5f678ccfc880be367d72e908e]: Commencement: S. 195 in force at Royal Assent, see [s. 255(2)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/g)
+[^c-a8e80ae5f678ccfc880be367d72e908e]: Commencement: S. 195 in force at Royal Assent, see [s. 255(2)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/g)

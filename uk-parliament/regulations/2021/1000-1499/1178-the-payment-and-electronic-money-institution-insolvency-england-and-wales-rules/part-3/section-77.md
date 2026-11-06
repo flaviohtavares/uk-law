@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Removal[^key-3633c14ea2addbc1aa2d85563e4fd060]
+## 77. Removal[^c-3633c14ea2addbc1aa2d85563e4fd060]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3633c14ea2addbc1aa2d85563e4fd060]: Commencement: Rule 77 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-3633c14ea2addbc1aa2d85563e4fd060]: Commencement: Rule 77 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

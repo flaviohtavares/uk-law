@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151BC. CITR: company reconstructions etc[^key-83d82670d235ea9756a21bfe7c418b46]
+## 151BC. CITR: company reconstructions etc[^c-83d82670d235ea9756a21bfe7c418b46]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ sections 135 and 136 (share exchanges and company reconstructions) do not apply 
 
 ## Annotations
 
-[^key-83d82670d235ea9756a21bfe7c418b46]: Textual amendment: S. 151BC inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 318](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/318) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-83d82670d235ea9756a21bfe7c418b46]: Textual amendment: S. 151BC inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 318](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/318) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

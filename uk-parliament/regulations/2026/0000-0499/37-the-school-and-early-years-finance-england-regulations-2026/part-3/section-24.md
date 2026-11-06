@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Energy scheme factor[^key-049e63947df138bf7393b2a74fc21a4c]
+## 24. Energy scheme factor[^c-049e63947df138bf7393b2a74fc21a4c]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-049e63947df138bf7393b2a74fc21a4c]: Commencement: Reg. 24 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-049e63947df138bf7393b2a74fc21a4c]: Commencement: Reg. 24 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)

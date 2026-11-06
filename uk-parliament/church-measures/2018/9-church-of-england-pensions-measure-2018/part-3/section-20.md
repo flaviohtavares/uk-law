@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 20. Death within one year of retirement[^key-457728db4c17e4fd1fce7f60c88e01c8]
+## 20. Death within one year of retirement[^c-457728db4c17e4fd1fce7f60c88e01c8]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-457728db4c17e4fd1fce7f60c88e01c8]: Commencement: [S. 20](https://www.legislation.gov.uk/ukcm/2018/9/section/20) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-457728db4c17e4fd1fce7f60c88e01c8]: Commencement: [S. 20](https://www.legislation.gov.uk/ukcm/2018/9/section/20) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

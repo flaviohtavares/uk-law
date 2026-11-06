@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Students with reduced entitlement[^key-948293a72c2c262be2425a30ee7da812]
+## 70. Students with reduced entitlement[^c-948293a72c2c262be2425a30ee7da812]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-948293a72c2c262be2425a30ee7da812]: Commencement: Reg. 70 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-948293a72c2c262be2425a30ee7da812]: Commencement: Reg. 70 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

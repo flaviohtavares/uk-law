@@ -203,7 +203,7 @@ Section 15
 
 (2) In consequence of the amendments made by sub-paragraph (1), in the Real Estate Investment Trusts (Financial Statements of Group Real Estate Investment Trusts) Regulations 2006 ([S.I. 2006/2865](https://www.legislation.gov.uk/uksi/2006/2865)), omit regulation 7.
 
-### 5. Holders of excessive rights[^key-f63d0ce06ded1ed899e8e52cb95681b1]
+### 5. Holders of excessive rights[^c-f63d0ce06ded1ed899e8e52cb95681b1]
 
 In section 553 (meaning of “**holder of excessive rights**”), in subsection (1), after paragraph (b) insert
 
@@ -219,4 +219,4 @@ In section 553 (meaning of “**holder of excessive rights**”), in subsection 
 
 ## Annotations
 
-[^key-f63d0ce06ded1ed899e8e52cb95681b1]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/5) in force at 1.4.2022, see [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/2)
+[^c-f63d0ce06ded1ed899e8e52cb95681b1]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/5) in force at 1.4.2022, see [Sch. 3 para. 6(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Deemed marine licence[^key-4ec40b4fdeb731d39a5ce97893038189]
+## 31. Deemed marine licence[^c-4ec40b4fdeb731d39a5ce97893038189]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker is deemed to be granted a licence under Part 4 (marine licences) 
 
 ## Annotations
 
-[^key-4ec40b4fdeb731d39a5ce97893038189]: Commencement: Art. 31 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-4ec40b4fdeb731d39a5ce97893038189]: Commencement: Art. 31 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

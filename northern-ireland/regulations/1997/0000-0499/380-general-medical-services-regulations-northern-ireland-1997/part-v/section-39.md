@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Claims and overpayments[^key-6247ef1bf555e03619a9856c9b261b25]
+## 39. Claims and overpayments[^c-6247ef1bf555e03619a9856c9b261b25]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ the overpayment shall be recoverable either by deduction from the doctor’s rem
 
 ## Annotations
 
-[^key-6247ef1bf555e03619a9856c9b261b25]: Commencement: Reg. 39 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-6247ef1bf555e03619a9856c9b261b25]: Commencement: Reg. 39 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

@@ -75,8 +75,8 @@ summary: ''
 - (a) where the qualifying premium is payable monthly, by multiplying the amount of the qualifying premium by 12 and dividing the product by 365;
 - (b) in any other case, by dividing the amount of the qualifying premium by the number equal to the number of days in the period to which the qualifying premium relates.
 
-(11) In this regulation, “**qualifying premium**” means any premium which is payable periodically in respect of [^key-d0e95007d82765f9a1dbccb3d05ed1fc]... a personal pension scheme and is so payable on or after the date of claim.
+(11) In this regulation, “**qualifying premium**” means any premium which is payable periodically in respect of [^c-d0e95007d82765f9a1dbccb3d05ed1fc]... a personal pension scheme and is so payable on or after the date of claim.
 
 ## Annotations
 
-[^key-d0e95007d82765f9a1dbccb3d05ed1fc]: Textual amendment: Words in reg. 29(11) omitted (16.7.2007) by virtue of [Social Security (Miscellaneous Amendments) (No.3) Regulations 2007 (S.I. 2007/1749)](https://www.legislation.gov.uk/uksi/2007/1749), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1749/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2007/1749/regulation/7/3)
+[^c-d0e95007d82765f9a1dbccb3d05ed1fc]: Textual amendment: Words in reg. 29(11) omitted (16.7.2007) by virtue of [Social Security (Miscellaneous Amendments) (No.3) Regulations 2007 (S.I. 2007/1749)](https://www.legislation.gov.uk/uksi/2007/1749), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1749/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2007/1749/regulation/7/3)

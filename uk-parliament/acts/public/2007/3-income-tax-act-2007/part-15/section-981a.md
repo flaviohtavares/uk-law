@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 981A. Offshore receipts in respect of intangible property: exception from duties to deduct[^key-258b0afe28bcd1c481cdf5a39a947a57]
+## 981A. Offshore receipts in respect of intangible property: exception from duties to deduct[^c-258b0afe28bcd1c481cdf5a39a947a57]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-258b0afe28bcd1c481cdf5a39a947a57]: Textual amendment: [S. 981A](https://www.legislation.gov.uk/ukpga/2007/3/section/981A) omitted (with effect in accordance with s. 20(12) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/11)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)
+[^c-258b0afe28bcd1c481cdf5a39a947a57]: Textual amendment: [S. 981A](https://www.legislation.gov.uk/ukpga/2007/3/section/981A) omitted (with effect in accordance with s. 20(12) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(11)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/11)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)

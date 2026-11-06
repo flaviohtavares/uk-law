@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Cap on distributions and interest[^key-ae3ba52520ab139c752aa59383f0d6c8]
+## 30. Cap on distributions and interest[^c-ae3ba52520ab139c752aa59383f0d6c8]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae3ba52520ab139c752aa59383f0d6c8]: Commencement: S. 30 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-ae3ba52520ab139c752aa59383f0d6c8]: Commencement: S. 30 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)

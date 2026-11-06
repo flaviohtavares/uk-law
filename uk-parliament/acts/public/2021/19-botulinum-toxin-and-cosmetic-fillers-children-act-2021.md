@@ -35,7 +35,7 @@ An Act to make provision about the administration to persons under the age of 18
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Offence of administering certain substances to a child[^key-1ba3635e682de90d25031072cfea180c]
+## 1. Offence of administering certain substances to a child[^c-1ba3635e682de90d25031072cfea180c]
 
 *Extent: E+W*
 
@@ -75,7 +75,7 @@ where A is under the age of 18.
 - (c) a registered pharmacist within the meaning of the Pharmacy Order 2010 (S.I. 2010/231) (see article 3 of that Order);
 - (d) a registered person within the meaning of the Pharmacy (Northern Ireland) Order 1976 (S.I. 1976/1213 (N.I. 22)) (see Article 2 of that Order).
 
-## 2. Offence by persons carrying on a business[^key-89c1aaac72fa7170f7bcceb54dedbb13]
+## 2. Offence by persons carrying on a business[^c-89c1aaac72fa7170f7bcceb54dedbb13]
 
 *Extent: E+W*
 
@@ -110,7 +110,7 @@ where A is under the age of 18.
   “**filler**” has the same meaning as in section 1;
 - “**regulated health professional**” has the same meaning as in section 1.
 
-## 3. Offences by bodies corporate[^key-cef46e9aaeda69d2da1e9149ce7120e5]
+## 3. Offences by bodies corporate[^c-cef46e9aaeda69d2da1e9149ce7120e5]
 
 *Extent: E+W*
 
@@ -125,7 +125,7 @@ that director, manager, secretary or person purporting to act as such (as well a
 
 (3) The reference in subsection (2) to the director, manager or secretary of the body corporate includes a reference to any other similar officer of the body corporate.
 
-## 4. Enforcement[^key-5b4855e9f5b9486beac3a3d543ab2d9e]
+## 4. Enforcement[^c-5b4855e9f5b9486beac3a3d543ab2d9e]
 
 (1) A local weights and measures authority may enforce in its area the provisions of section 2*.*
 
@@ -155,10 +155,10 @@ that director, manager, secretary or person purporting to act as such (as well a
 
 ## Annotations
 
-[^key-1ba3635e682de90d25031072cfea180c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/19/section/1) in force at 1.10.2021 by [S.I. 2021/1004](https://www.legislation.gov.uk/uksi/2021/1004), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1004/regulation/2)
+[^c-1ba3635e682de90d25031072cfea180c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/19/section/1) in force at 1.10.2021 by [S.I. 2021/1004](https://www.legislation.gov.uk/uksi/2021/1004), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1004/regulation/2)
 
-[^key-89c1aaac72fa7170f7bcceb54dedbb13]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/19/section/2) in force at 1.10.2021 by [S.I. 2021/1004](https://www.legislation.gov.uk/uksi/2021/1004), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1004/regulation/2)
+[^c-89c1aaac72fa7170f7bcceb54dedbb13]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/19/section/2) in force at 1.10.2021 by [S.I. 2021/1004](https://www.legislation.gov.uk/uksi/2021/1004), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1004/regulation/2)
 
-[^key-cef46e9aaeda69d2da1e9149ce7120e5]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/19/section/3) in force at 1.10.2021 by [S.I. 2021/1004](https://www.legislation.gov.uk/uksi/2021/1004), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1004/regulation/2)
+[^c-cef46e9aaeda69d2da1e9149ce7120e5]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/19/section/3) in force at 1.10.2021 by [S.I. 2021/1004](https://www.legislation.gov.uk/uksi/2021/1004), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1004/regulation/2)
 
-[^key-5b4855e9f5b9486beac3a3d543ab2d9e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/19/section/4) in force at 1.10.2021 by [S.I. 2021/1004](https://www.legislation.gov.uk/uksi/2021/1004), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1004/regulation/2)
+[^c-5b4855e9f5b9486beac3a3d543ab2d9e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/19/section/4) in force at 1.10.2021 by [S.I. 2021/1004](https://www.legislation.gov.uk/uksi/2021/1004), [reg. 2](https://www.legislation.gov.uk/uksi/2021/1004/regulation/2)

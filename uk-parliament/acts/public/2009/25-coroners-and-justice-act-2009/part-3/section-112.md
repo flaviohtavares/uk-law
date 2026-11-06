@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Admissibility of evidence of previous complaints[^key-784454e1b321f7a5cff3180fff31d592]
+## 112. Admissibility of evidence of previous complaints[^c-784454e1b321f7a5cff3180fff31d592]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 120(7) of the Criminal Justice Act 2003 (third condition for admittin
 
 ## Annotations
 
-[^key-784454e1b321f7a5cff3180fff31d592]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2009/25/section/112) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/6)
+[^c-784454e1b321f7a5cff3180fff31d592]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2009/25/section/112) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/6)

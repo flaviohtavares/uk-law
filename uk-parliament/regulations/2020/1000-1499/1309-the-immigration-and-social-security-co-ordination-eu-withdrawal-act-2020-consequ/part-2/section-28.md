@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Amendment and saving of the Immigration (Notices) Regulations 2003[^key-e8f35c60c85d790289b2a0eba5934505][^M_I_c4b9477d-2185-4020-c24f-2dc8e4949b0c]
+## 28. Amendment and saving of the Immigration (Notices) Regulations 2003[^c-e8f35c60c85d790289b2a0eba5934505][^M_I_c4b9477d-2185-4020-c24f-2dc8e4949b0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e8f35c60c85d790289b2a0eba5934505]: Commencement: Reg. 28 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-e8f35c60c85d790289b2a0eba5934505]: Commencement: Reg. 28 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_c4b9477d-2185-4020-c24f-2dc8e4949b0c]: Commencement: Reg. 28 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

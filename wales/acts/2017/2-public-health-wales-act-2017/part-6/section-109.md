@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Health impact assessments: publication and taking into account[^key-9490a5e8e020b6e1fe2bb44631694af3]
+## 109. Health impact assessments: publication and taking into account[^c-9490a5e8e020b6e1fe2bb44631694af3]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9490a5e8e020b6e1fe2bb44631694af3]: Commencement: [S. 109](https://www.legislation.gov.uk/anaw/2017/2/section/109) in force at 19.9.2025 by [S.I. 2025/1028](https://www.legislation.gov.uk/wsi/2025/1028), [art. 2](https://www.legislation.gov.uk/wsi/2025/1028/article/2)
+[^c-9490a5e8e020b6e1fe2bb44631694af3]: Commencement: [S. 109](https://www.legislation.gov.uk/anaw/2017/2/section/109) in force at 19.9.2025 by [S.I. 2025/1028](https://www.legislation.gov.uk/wsi/2025/1028), [art. 2](https://www.legislation.gov.uk/wsi/2025/1028/article/2)

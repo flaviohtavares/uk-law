@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Avoidance of danger from gas in waste.[^key-60ee2bf2604b5b47e794c34c3ce2292d]
+## 56. Avoidance of danger from gas in waste.[^c-60ee2bf2604b5b47e794c34c3ce2292d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60ee2bf2604b5b47e794c34c3ce2292d]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70/section/56) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-60ee2bf2604b5b47e794c34c3ce2292d]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70/section/56) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))

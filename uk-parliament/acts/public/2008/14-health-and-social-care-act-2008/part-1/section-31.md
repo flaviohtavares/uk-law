@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Urgent procedure for suspension, variation etc.[^key-083eb8cafd243fcbee0fea203e315eba][^key-edcbd880505dd2076f953eab2e6ebf48]
+## 31. Urgent procedure for suspension, variation etc.[^c-083eb8cafd243fcbee0fea203e315eba][^c-edcbd880505dd2076f953eab2e6ebf48]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-083eb8cafd243fcbee0fea203e315eba]: Commencement: S. 31 in force at 1.4.2009 for specified purposes by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2](https://www.legislation.gov.uk/uksi/2009/462/article/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/11)
+[^c-083eb8cafd243fcbee0fea203e315eba]: Commencement: S. 31 in force at 1.4.2009 for specified purposes by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2](https://www.legislation.gov.uk/uksi/2009/462/article/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/11)
 
-[^key-edcbd880505dd2076f953eab2e6ebf48]: Commencement: S. 31 in force at 1.10.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/807/article/2/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/22) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
+[^c-edcbd880505dd2076f953eab2e6ebf48]: Commencement: S. 31 in force at 1.10.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/807/article/2/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/22) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))

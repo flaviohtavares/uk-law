@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Purposes[^key-429bc33f885819f8f73b38107c0f1d2d]
+## 4. Purposes[^c-429bc33f885819f8f73b38107c0f1d2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ The purposes of the regulations contained in this instrument that are made under
 
 ## Annotations
 
-[^key-429bc33f885819f8f73b38107c0f1d2d]: Textual amendment: Reg. 4 substituted (25.4.2025) by [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/507/regulation/5)
+[^c-429bc33f885819f8f73b38107c0f1d2d]: Textual amendment: Reg. 4 substituted (25.4.2025) by [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/507)](https://www.legislation.gov.uk/uksi/2025/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/507/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/507/regulation/5)

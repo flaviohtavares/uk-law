@@ -18,7 +18,7 @@ summary: ''
 
 (1) Each SROC is to state the amount of electricity in respect of which it has been issued.
 
-(2)[^key-c4a4449b84b73677e9541dfa3c5cdf25] The amount of electricity to be stated in each SROC depends on—
+(2)[^c-c4a4449b84b73677e9541dfa3c5cdf25] The amount of electricity to be stated in each SROC depends on—
 
 - (a) the way in which the electricity in respect of which it is to be issued has been generated; and
 - (b) the type of generating capacity used to generate the electricity in respect of which the SROC is to be issued.
@@ -76,4 +76,4 @@ is one megawatt hour.
 
 ## Annotations
 
-[^key-c4a4449b84b73677e9541dfa3c5cdf25]: Textual amendment: Art. 27(2)-(10) substituted for art. 27(2)-(5) (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [11](https://www.legislation.gov.uk/ssi/2013/116/article/11) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
+[^c-c4a4449b84b73677e9541dfa3c5cdf25]: Textual amendment: Art. 27(2)-(10) substituted for art. 27(2)-(5) (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [11](https://www.legislation.gov.uk/ssi/2013/116/article/11) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))

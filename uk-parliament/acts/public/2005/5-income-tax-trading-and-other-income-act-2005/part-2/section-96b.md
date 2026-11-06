@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96B. Section 96A: supplementary provision[^key-d2da86f8b26a16f2e1429dd20ecd29da]
+## 96B. Section 96A: supplementary provision[^c-d2da86f8b26a16f2e1429dd20ecd29da]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,14 +26,14 @@ summary: ''
 
 (3) A person carrying on a trade “enters the cash basis” for a tax year if—
 
-- (a) the cash basis applies[^key-cf089f438a1db11d5d722a2590bfcba7] in relation to the trade for the tax year, and
-- (b) the cash basis did not apply[^key-954496ee096d61bf14db282b744baec8] in relation to the trade for the previous tax year.
+- (a) the cash basis applies[^c-cf089f438a1db11d5d722a2590bfcba7] in relation to the trade for the tax year, and
+- (b) the cash basis did not apply[^c-954496ee096d61bf14db282b744baec8] in relation to the trade for the previous tax year.
 
 (4) Expenditure is “**cash basis deductible**” in relation to a tax year if, on the assumption that the expenditure was paid in that tax year, a deduction would be allowed in respect of the expenditure in calculating the profits of the trade on the cash basis for that tax year.
 
 (5) Expenditure is “brought into account under CAA 2001” in calculating the profits of a trade if and to the extent that—
 
-- (a) a capital allowance made under Part 2, 2A,[^key-b4b6268562e31a88a332f976cdd30cb8] 5, 6, 7 or 8 of that Act in respect of the expenditure is treated as an expense in calculating those profits (see, for example, section 247 of that Act), or
+- (a) a capital allowance made under Part 2, 2A,[^c-b4b6268562e31a88a332f976cdd30cb8] 5, 6, 7 or 8 of that Act in respect of the expenditure is treated as an expense in calculating those profits (see, for example, section 247 of that Act), or
 - (b) qualifying expenditure (within the meaning of Part 2, 7 or 8 of CAA 2001) is allocated to a pool for the trade and is set-off against different disposal receipts.
 
 (6) An amount of qualifying expenditure is “set-off against different disposal receipts” if—
@@ -74,10 +74,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d2da86f8b26a16f2e1429dd20ecd29da]: Textual amendment: S. 96B inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/5)
+[^c-d2da86f8b26a16f2e1429dd20ecd29da]: Textual amendment: S. 96B inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/5)
 
-[^key-cf089f438a1db11d5d722a2590bfcba7]: Textual amendment: Words in [s. 96B(3)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/96B/3/a) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 22(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/22/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-cf089f438a1db11d5d722a2590bfcba7]: Textual amendment: Words in [s. 96B(3)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/96B/3/a) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 22(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/22/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
 
-[^key-954496ee096d61bf14db282b744baec8]: Textual amendment: Words in [s. 96B(3)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/96B/3/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 22(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/22/b), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-954496ee096d61bf14db282b744baec8]: Textual amendment: Words in [s. 96B(3)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/96B/3/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 22(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/22/b), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
 
-[^key-b4b6268562e31a88a332f976cdd30cb8]: Textual amendment: Word in [s. 96B(5)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/96B/5/a) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/5/3)
+[^c-b4b6268562e31a88a332f976cdd30cb8]: Textual amendment: Word in [s. 96B(5)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/96B/5/a) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/5/3)

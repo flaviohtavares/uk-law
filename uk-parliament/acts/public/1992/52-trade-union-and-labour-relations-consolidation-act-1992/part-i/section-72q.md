@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72Q. Application of sections 73 to 78[^key-06732482af4a141d32acaa360f1d4b74]
+## 72Q. Application of sections 73 to 78[^c-06732482af4a141d32acaa360f1d4b74]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Sections 73 to 78 apply in relation to a trade union with a branch or section in
 
 ## Annotations
 
-[^key-06732482af4a141d32acaa360f1d4b74]: Textual amendment: [S. 72Q](https://www.legislation.gov.uk/ukpga/1992/52/section/72Q) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2026/881/article/4/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-06732482af4a141d32acaa360f1d4b74]: Textual amendment: [S. 72Q](https://www.legislation.gov.uk/ukpga/1992/52/section/72Q) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2026/881/article/4/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

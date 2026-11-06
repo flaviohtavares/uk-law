@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Exemption for loaned computer equipment[^key-e5c8059fe7fc28d18e95cb31d0fe48ad]
+## 79. Exemption for loaned computer equipment[^c-e5c8059fe7fc28d18e95cb31d0fe48ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5c8059fe7fc28d18e95cb31d0fe48ad]: Textual amendment: S. 79 repealed (with effect in accordance with Sch. 26 Pt. 3(7) Note of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(7)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/7)
+[^c-e5c8059fe7fc28d18e95cb31d0fe48ad]: Textual amendment: S. 79 repealed (with effect in accordance with Sch. 26 Pt. 3(7) Note of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 3(7)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/7)

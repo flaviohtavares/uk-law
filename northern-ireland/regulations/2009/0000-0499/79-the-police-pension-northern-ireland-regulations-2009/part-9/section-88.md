@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Pensionable service and pension contributions[^key-78718cf3cc454d72e7f2712cf7719e94]
+## 88. Pensionable service and pension contributions[^c-78718cf3cc454d72e7f2712cf7719e94]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ as though he had remained a police officer.
 
 ## Annotations
 
-[^key-78718cf3cc454d72e7f2712cf7719e94]: Commencement: Reg. 88 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-78718cf3cc454d72e7f2712cf7719e94]: Commencement: Reg. 88 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

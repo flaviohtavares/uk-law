@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 448A. Protection in relation to certain disclosures: information provided to Secretary of State[^key-b428dd3eb9d64f5c5758e17b3a2e5769][^c19382201]
+## 448A. Protection in relation to certain disclosures: information provided to Secretary of State[^c-b428dd3eb9d64f5c5758e17b3a2e5769][^c19382201]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b428dd3eb9d64f5c5758e17b3a2e5769]: Modification: S. 448A applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
+[^c-b428dd3eb9d64f5c5758e17b3a2e5769]: Modification: S. 448A applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
 
 [^c19382201]: Textual amendment: S. 448A inserted (6.4.2005) by [Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27), [ss. 22](https://www.legislation.gov.uk/ukpga/2004/27/section/22), [65](https://www.legislation.gov.uk/ukpga/2004/27/section/65); [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (subject to [arts. 3-13](https://www.legislation.gov.uk/uksi/2004/3322/article/3))
 

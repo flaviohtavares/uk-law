@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Permanent light on tidal works[^key-45003e1ab3a971fef377885acd4f127e]
+## 51. Permanent light on tidal works[^c-45003e1ab3a971fef377885acd4f127e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ After a completion of a tidal work, the undertaker must at the outer extremity o
 
 ## Annotations
 
-[^key-45003e1ab3a971fef377885acd4f127e]: Commencement: Art. 51 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-45003e1ab3a971fef377885acd4f127e]: Commencement: Art. 51 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

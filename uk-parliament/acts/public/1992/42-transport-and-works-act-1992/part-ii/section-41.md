@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) For the purpose of securing the safe operation of railways, tramways, trolley vehicle systems and prescribed systems of guided transport, the Secretary of State may make regulations requiring that the approval of a specified authority[^key-e0afff63848168bae44bdd24ff7a0e84] be obtained before—
+(1) For the purpose of securing the safe operation of railways, tramways, trolley vehicle systems and prescribed systems of guided transport, the Secretary of State may make regulations requiring that the approval of a specified authority[^c-e0afff63848168bae44bdd24ff7a0e84] be obtained before—
 
 - (a) new works, plant or equipment are first brought into use, or
 - (b) works, plant or equipment are first brought into use after alterations have been made to them.
@@ -29,14 +29,14 @@ summary: ''
 
 - (a) shall prescribe the cases in which approval is required and the procedure for obtaining it;
 - (b) may include provision as to the time when works, plant or equipment are to be treated as first brought into use, including provision for disregarding periods of testing and other periods of use before sufficient information is available for a decision to be made on an application for approval;
-- (c) may include provision prohibiting the giving of false information to the specified authority[^key-974b6cec3fddb6fb96753c60c6f95d1d] .
+- (c) may include provision prohibiting the giving of false information to the specified authority[^c-974b6cec3fddb6fb96753c60c6f95d1d] .
 
-(3) Regulations under this section may make different provision for different cases, and may include provision authorising the specified authority[^key-527d3777572bd4c5b38d12c4812957b5] —
+(3) Regulations under this section may make different provision for different cases, and may include provision authorising the specified authority[^c-527d3777572bd4c5b38d12c4812957b5] —
 
 - (a) to dispense (conditionally or unconditionally) with compliance with regulations that would otherwise apply, or
 - (b) to require compliance with regulations that would not otherwise apply,
 
-either in the case of any particular works, plant, equipment or alterations, or in the case of works, plant, equipment or alterations of such descriptions as it[^key-6f2ee930d95d65bd22d078e73cc1bdc7] may determine.
+either in the case of any particular works, plant, equipment or alterations, or in the case of works, plant, equipment or alterations of such descriptions as it[^c-6f2ee930d95d65bd22d078e73cc1bdc7] may determine.
 
 (4) Regulations under this section may provide that any person who without reasonable cause contravenes any specified provision of the regulations, or does so in specified circumstances, shall be guilty of an offence under this section.
 
@@ -48,7 +48,7 @@ either in the case of any particular works, plant, equipment or alterations, or 
 
 - “**equipment**” includes vehicles;
 - “**prescribed systems of guided transport**” means systems using a mode of guided transport prescribed by regulations under this section.
-- “specified authority” means such authority as may be specified in regulations under this section .[^key-ae986d05ce3c122c53e1960b4165dfa0]
+- “specified authority” means such authority as may be specified in regulations under this section .[^c-ae986d05ce3c122c53e1960b4165dfa0]
 
 (8) The power to make regulations under this section shall be exercisable by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -62,12 +62,12 @@ either in the case of any particular works, plant, equipment or alterations, or 
 
 [^c8596141]: Modification: S. 41: transfer of functions (in part) (10.5.1997) by [S.I. 1997/553](https://www.legislation.gov.uk/uksi/1997/553), [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/1997/553/regulation/10/1/a)
 
-[^key-e0afff63848168bae44bdd24ff7a0e84]: Textual amendment: Words in [s. 41(1)](https://www.legislation.gov.uk/ukpga/1992/42/section/41/1) substituted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/1/2/a)
+[^c-e0afff63848168bae44bdd24ff7a0e84]: Textual amendment: Words in [s. 41(1)](https://www.legislation.gov.uk/ukpga/1992/42/section/41/1) substituted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/1/2/a)
 
-[^key-974b6cec3fddb6fb96753c60c6f95d1d]: Textual amendment: Words in [s. 41(2)(c)](https://www.legislation.gov.uk/ukpga/1992/42/section/41/2/c) substituted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/1/2/b)
+[^c-974b6cec3fddb6fb96753c60c6f95d1d]: Textual amendment: Words in [s. 41(2)(c)](https://www.legislation.gov.uk/ukpga/1992/42/section/41/2/c) substituted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/1/2/b)
 
-[^key-527d3777572bd4c5b38d12c4812957b5]: Textual amendment: Words in [s. 41(3)](https://www.legislation.gov.uk/ukpga/1992/42/section/41/3) substituted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 1(2)(c)(i)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/1/2/c/i)
+[^c-527d3777572bd4c5b38d12c4812957b5]: Textual amendment: Words in [s. 41(3)](https://www.legislation.gov.uk/ukpga/1992/42/section/41/3) substituted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 1(2)(c)(i)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/1/2/c/i)
 
-[^key-6f2ee930d95d65bd22d078e73cc1bdc7]: Textual amendment: Word in [s. 41(3)](https://www.legislation.gov.uk/ukpga/1992/42/section/41/3) substituted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 1(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/1/2/c/ii)
+[^c-6f2ee930d95d65bd22d078e73cc1bdc7]: Textual amendment: Word in [s. 41(3)](https://www.legislation.gov.uk/ukpga/1992/42/section/41/3) substituted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 1(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/1/2/c/ii)
 
-[^key-ae986d05ce3c122c53e1960b4165dfa0]: Textual amendment: Words in [s. 41(7)](https://www.legislation.gov.uk/ukpga/1992/42/section/41/7) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 1(2)(d)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/1/2/d)
+[^c-ae986d05ce3c122c53e1960b4165dfa0]: Textual amendment: Words in [s. 41(7)](https://www.legislation.gov.uk/ukpga/1992/42/section/41/7) inserted (1.4.2006) by [The Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006 (S.I. 2006/557)](https://www.legislation.gov.uk/uksi/2006/557), [reg. 1](https://www.legislation.gov.uk/uksi/2006/557/regulation/1), [Sch. para. 1(2)(d)](https://www.legislation.gov.uk/uksi/2006/557/schedule/paragraph/1/2/d)

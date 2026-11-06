@@ -39,7 +39,7 @@ Coming into operation in accordance with regulations 1(2) to (6)
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a) and (d), 131(1), 132(3) and (4)(a), (b) and (c), 133(2)(m) and 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 14(2), (3) and (4)(b), 36(2) of, and paragraph 13 of Schedule 1 to the Jobseekers (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003], and of all other powers enabling it in that behalf, by this statutory rule, which contains only regulations which are consequential upon sections 1(1) and (3)(d) and 60 of, and Schedule 6 to, the Tax Credits Act 2002[^f00004] and which is made before the end of a period of six months from the commencement of those provisions, with the consent of the Department of Finance and Personnel[^f00005] in so far as regulation 3 and Schedule 2 are concerned, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-3ab903930654c487177388c85ff6b4ac]
+## 1. Citation, commencement and interpretation[^c-3ab903930654c487177388c85ff6b4ac]
 
 (1) These Regulations may be cited as the Income-Related Benefits and Jobseeker’s Allowance (Working Tax Credit and Child Tax Credit Amendment) Regulations (Northern Ireland) 2003.
 
@@ -55,21 +55,21 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (7) In these Regulations–
 
-- [^key-053227b21ea1f8794e467ad559c1a9c1]...
+- [^c-053227b21ea1f8794e467ad559c1a9c1]...
 - “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00009];
 - “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00010].
 
 (8) The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support Regulations[^key-a6e8257f00f6df35b1b675144bb806cf]
+## 2. Amendment of the Income Support Regulations[^c-a6e8257f00f6df35b1b675144bb806cf]
 
 The Income Support Regulations shall be amended in accordance with Schedule 1 and references in that Schedule to regulations and Schedules are to regulations of and Schedules to those Regulations.
 
-## 3. Amendment of the Housing Benefit Regulations[^key-e8ce0782cdaa29eaafea23d55f0bd9af]
+## 3. Amendment of the Housing Benefit Regulations[^c-e8ce0782cdaa29eaafea23d55f0bd9af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-b5e51469c6ff6e6bd83cc67355c70608]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-b5e51469c6ff6e6bd83cc67355c70608]
 
 The Jobseeker’s Allowance Regulations shall be amended in accordance with Schedule 3 and references in that Schedule to regulations and Schedules are to regulations of and Schedules to those Regulations.
 
@@ -95,7 +95,7 @@ Department of Finance and Personnel
 
 Regulation 2
 
-**1.**[^key-68a50f50876e3759314402e448a972f6] In regulation 2(1) (interpretation)–
+**1.**[^c-68a50f50876e3759314402e448a972f6] In regulation 2(1) (interpretation)–
 
 - (a) after the definition of “child benefit” there shall be inserted the following definition–
 
@@ -109,57 +109,57 @@ Regulation 2
   , and
 - (c) the definitions of “disabled person’s tax credit”[^f00013] and “working families' tax credit”[^f00014] shall be omitted.
 
-**2.**[^key-e2bbf95822becd10ed118757360ef45a] In regulation 14 (persons of a prescribed description) after paragraph (2)[^f00015] there shall be added the following paragraph–
+**2.**[^c-e2bbf95822becd10ed118757360ef45a] In regulation 14 (persons of a prescribed description) after paragraph (2)[^f00015] there shall be added the following paragraph–
 
 > (3) A person of a prescribed description for the purposes of section 133(1) of the Contributions and Benefits Act as it applies to income support (definition of family) includes a child or young person in respect of whom section 141A[^f00016] of that Act applies for the purposes of entitlement to child benefit but only for the period prescribed under section 141A(1) of that Act.
 
 .
 
-**3.**[^key-37f685a603e68e930664518d5e2fc137] In regulation 15 (circumstances in which a person is to be treated as responsible or not responsible for another) at the end of paragraph (1)[^f00017] there shall be added “and this includes a child or young person to whom regulation 14(3) applies”.
+**3.**[^c-37f685a603e68e930664518d5e2fc137] In regulation 15 (circumstances in which a person is to be treated as responsible or not responsible for another) at the end of paragraph (1)[^f00017] there shall be added “and this includes a child or young person to whom regulation 14(3) applies”.
 
-**4.**[^key-ce94b9ed845ba42836f30420365e721f] In regulation 31 (date on which income is treated as paid) for paragraph (3)[^f00018] there shall be substituted the following paragraph–
+**4.**[^c-ce94b9ed845ba42836f30420365e721f] In regulation 31 (date on which income is treated as paid) for paragraph (3)[^f00018] there shall be substituted the following paragraph–
 
 > (3) Where an award of working tax credit or child tax credit does not commence on the first day of a benefit week, it shall be treated as paid on the first day of the benefit week that follows the date of the award.
 
 .
 
-**5.**[^key-620e28d6277a524041eba826b4a2be27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-620e28d6277a524041eba826b4a2be27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — AMENDMENTS TO THE HOUSING BENEFIT REGULATIONS[^key-c0d9abedf15751c793a4cb4607569035]
+## SCHEDULE 2 — AMENDMENTS TO THE HOUSING BENEFIT REGULATIONS[^c-c0d9abedf15751c793a4cb4607569035]
 
 **No longer in force.**
 
 Regulation 3
 
-**1.**[^key-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c0d9abedf15751c793a4cb4607569035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — AMENDMENTS TO THE JOBSEEKER'S ALLOWANCE REGULATIONS
 
 Regulation 4
 
-**1.**[^key-0e5decfe3598f5090e366f4777e1381a] In regulation 1(2) (interpretation)–
+**1.**[^c-0e5decfe3598f5090e366f4777e1381a] In regulation 1(2) (interpretation)–
 
 - (a) after the definition of “the Child Benefit Regulations” there shall be inserted the following definition–
 
@@ -173,21 +173,21 @@ Regulation 4
   , and
 - (c) the definitions of “disabled person’s tax credit”[^f00034] and “working families' tax credit”[^f00035] shall be omitted.
 
-**2.**[^key-0479ccbf476ca17efb68e3d597f3578e] In regulation 76 (persons of a prescribed description) after paragraph (2) there shall be added the following paragraph–
+**2.**[^c-0479ccbf476ca17efb68e3d597f3578e] In regulation 76 (persons of a prescribed description) after paragraph (2) there shall be added the following paragraph–
 
 > (3) A person of a prescribed description for the purposes of the definition of “family” in Article 2 of the Order includes a child or young person in respect of whom section 141A of the Benefits Act applies for the purposes of entitlement to child benefit but only for the period prescribed under section 141A(1) of that Act.
 
 .
 
-**3.**[^key-060d22e4a4327038d6ea4ff3ed6a35fd] In regulation 77 (circumstances in which a person is to be treated as responsible or not responsible for another) at the end of paragraph (1) there shall be added “and this includes a child or young person to whom regulation 76(3) applies”.
+**3.**[^c-060d22e4a4327038d6ea4ff3ed6a35fd] In regulation 77 (circumstances in which a person is to be treated as responsible or not responsible for another) at the end of paragraph (1) there shall be added “and this includes a child or young person to whom regulation 76(3) applies”.
 
-**4.**[^key-3f77e0e8d23c313edb6984846c58e1dd] In regulation 96 (date on which income is treated as paid) for paragraph (3)[^f00036] there shall be substituted the following paragraph–
+**4.**[^c-3f77e0e8d23c313edb6984846c58e1dd] In regulation 96 (date on which income is treated as paid) for paragraph (3)[^f00036] there shall be substituted the following paragraph–
 
 > (3) Where an award of working tax credit or child tax credit does not commence on the first day of a benefit week, it shall be treated as paid on the first day of the benefit week that follows the date of the award.
 
 .
 
-**5.**[^key-2ae386c9cbc57d88f2700dd9b2af34e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2ae386c9cbc57d88f2700dd9b2af34e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (This note is not part of the Regulations.)
 
@@ -213,13 +213,13 @@ These Regulations do not impose any charge on business.
 
 [^f00005]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); *see* also Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-3ab903930654c487177388c85ff6b4ac]: Commencement: Reg. 1 in operation at 6.4.2003 with effect in accordance with reg. 1(2)(6)
+[^c-3ab903930654c487177388c85ff6b4ac]: Commencement: Reg. 1 in operation at 6.4.2003 with effect in accordance with reg. 1(2)(6)
 
 [^f00006]: Footnote: The definition of “benefit week” was amended by regulation 2(a) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
 
 [^f00007]: Footnote: The definition of “benefit week” was amended by regulation 2(2) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358) and regulation 2(2)(a) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
 
-[^key-053227b21ea1f8794e467ad559c1a9c1]: Textual amendment: Words in [reg. 1(7)](https://www.legislation.gov.uk/nisr/2003/1/regulation/1/7) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-053227b21ea1f8794e467ad559c1a9c1]: Textual amendment: Words in [reg. 1(7)](https://www.legislation.gov.uk/nisr/2003/1/regulation/1/7) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00009]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131), [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1996 No. 449](https://www.legislation.gov.uk/nisr/1996/449), [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324), [S.R. 1999 No. 385](https://www.legislation.gov.uk/nisr/1999/385) and [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74)
 
@@ -227,13 +227,13 @@ These Regulations do not impose any charge on business.
 
 [^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-a6e8257f00f6df35b1b675144bb806cf]: Commencement: Reg. 2 in operation at 6.4.2003 with effect in accordance with reg. 1(2)
+[^c-a6e8257f00f6df35b1b675144bb806cf]: Commencement: Reg. 2 in operation at 6.4.2003 with effect in accordance with reg. 1(2)
 
-[^key-e8ce0782cdaa29eaafea23d55f0bd9af]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/1/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-e8ce0782cdaa29eaafea23d55f0bd9af]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/1/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-b5e51469c6ff6e6bd83cc67355c70608]: Commencement: Reg. 4 in operation at 6.4.2003 with effect in accordance with reg. 1(6)
+[^c-b5e51469c6ff6e6bd83cc67355c70608]: Commencement: Reg. 4 in operation at 6.4.2003 with effect in accordance with reg. 1(6)
 
-[^key-68a50f50876e3759314402e448a972f6]: Commencement: Sch. 1 para. 1 in operation at 6.4.2003 with effect in accordance with reg. 1(2)
+[^c-68a50f50876e3759314402e448a972f6]: Commencement: Sch. 1 para. 1 in operation at 6.4.2003 with effect in accordance with reg. 1(2)
 
 [^f00012]: Footnote: The definition of “welfare to work beneficiary” was inserted by regulation 8(2) of [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324)
 
@@ -241,25 +241,25 @@ These Regulations do not impose any charge on business.
 
 [^f00014]: Footnote: The definition of “working families' tax credit” was inserted by regulation 2(3)(b) of [S.R. 1999 No. 385](https://www.legislation.gov.uk/nisr/1999/385)
 
-[^key-e2bbf95822becd10ed118757360ef45a]: Commencement: Sch. 1 para. 2 in operation at 6.4.2003 with effect in accordance with reg. 1(2)
+[^c-e2bbf95822becd10ed118757360ef45a]: Commencement: Sch. 1 para. 2 in operation at 6.4.2003 with effect in accordance with reg. 1(2)
 
 [^f00015]: Footnote: Paragraph (2) was amended by regulation 6 of [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131)
 
 [^f00016]: Footnote: Section 141A is inserted by section 55 of the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21)
 
-[^key-37f685a603e68e930664518d5e2fc137]: Commencement: Sch. 1 para. 3 in operation at 6.4.2003 with effect in accordance with reg. 1(2)
+[^c-37f685a603e68e930664518d5e2fc137]: Commencement: Sch. 1 para. 3 in operation at 6.4.2003 with effect in accordance with reg. 1(2)
 
 [^f00017]: Footnote: Paragraph (1) was substituted by regulation 4(5) of [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373)
 
-[^key-ce94b9ed845ba42836f30420365e721f]: Commencement: Sch. 1 para. 4 in operation at 6.4.2003 with effect in accordance with reg. 1(2)
+[^c-ce94b9ed845ba42836f30420365e721f]: Commencement: Sch. 1 para. 4 in operation at 6.4.2003 with effect in accordance with reg. 1(2)
 
 [^f00018]: Footnote: Paragraph (3) was added by regulation 3(1)(b) of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74)
 
-[^key-620e28d6277a524041eba826b4a2be27]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2003/1/schedule/1/paragraph/5) omitted (1.4.2003) by virtue of [The Social Security (Working Tax Credit and Child Tax Credit Consequential Amendments) Regulations (Northern Ireland) 2003 (S.R. 2003/195)](https://www.legislation.gov.uk/nisr/2003/195), [reg. 1(10)(b)](https://www.legislation.gov.uk/nisr/2003/195/regulation/1/10/b), [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2003/195/schedule/4/paragraph/5)
+[^c-620e28d6277a524041eba826b4a2be27]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2003/1/schedule/1/paragraph/5) omitted (1.4.2003) by virtue of [The Social Security (Working Tax Credit and Child Tax Credit Consequential Amendments) Regulations (Northern Ireland) 2003 (S.R. 2003/195)](https://www.legislation.gov.uk/nisr/2003/195), [reg. 1(10)(b)](https://www.legislation.gov.uk/nisr/2003/195/regulation/1/10/b), [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2003/195/schedule/4/paragraph/5)
 
-[^key-c0d9abedf15751c793a4cb4607569035]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2003/1/schedule/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-c0d9abedf15751c793a4cb4607569035]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2003/1/schedule/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-0e5decfe3598f5090e366f4777e1381a]: Commencement: Sch. 3 para. 1 in operation at 6.4.2003 with effect in accordance with reg. 1(6)
+[^c-0e5decfe3598f5090e366f4777e1381a]: Commencement: Sch. 3 para. 1 in operation at 6.4.2003 with effect in accordance with reg. 1(6)
 
 [^f00033]: Footnote: The definition of “welfare to work beneficiary” was inserted by regulation 11(2) of [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324)
 
@@ -267,12 +267,12 @@ These Regulations do not impose any charge on business.
 
 [^f00035]: Footnote: The definition of “working families' tax credit” was inserted by regulation 2(3)(b) of and Part III of Schedule 2 to [S.R. 1999 No. 385](https://www.legislation.gov.uk/nisr/1999/385)
 
-[^key-0479ccbf476ca17efb68e3d597f3578e]: Commencement: Sch. 3 para. 2 in operation at 6.4.2003 with effect in accordance with reg. 1(6)
+[^c-0479ccbf476ca17efb68e3d597f3578e]: Commencement: Sch. 3 para. 2 in operation at 6.4.2003 with effect in accordance with reg. 1(6)
 
-[^key-060d22e4a4327038d6ea4ff3ed6a35fd]: Commencement: Sch. 3 para. 3 in operation at 6.4.2003 with effect in accordance with reg. 1(6)
+[^c-060d22e4a4327038d6ea4ff3ed6a35fd]: Commencement: Sch. 3 para. 3 in operation at 6.4.2003 with effect in accordance with reg. 1(6)
 
-[^key-3f77e0e8d23c313edb6984846c58e1dd]: Commencement: Sch. 3 para. 4 in operation at 6.4.2003 with effect in accordance with reg. 1(6)
+[^c-3f77e0e8d23c313edb6984846c58e1dd]: Commencement: Sch. 3 para. 4 in operation at 6.4.2003 with effect in accordance with reg. 1(6)
 
 [^f00036]: Footnote: Paragraph 3 was added by regulation 3(2)(b) of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74)
 
-[^key-2ae386c9cbc57d88f2700dd9b2af34e4]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2003/1/schedule/3/paragraph/5) omitted (1.4.2003) by virtue of [The Social Security (Working Tax Credit and Child Tax Credit Consequential Amendments) Regulations (Northern Ireland) 2003 (S.R. 2003/195)](https://www.legislation.gov.uk/nisr/2003/195), [reg. 1(10)(b)](https://www.legislation.gov.uk/nisr/2003/195/regulation/1/10/b), [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2003/195/schedule/4/paragraph/5)
+[^c-2ae386c9cbc57d88f2700dd9b2af34e4]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2003/1/schedule/3/paragraph/5) omitted (1.4.2003) by virtue of [The Social Security (Working Tax Credit and Child Tax Credit Consequential Amendments) Regulations (Northern Ireland) 2003 (S.R. 2003/195)](https://www.legislation.gov.uk/nisr/2003/195), [reg. 1(10)(b)](https://www.legislation.gov.uk/nisr/2003/195/regulation/1/10/b), [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2003/195/schedule/4/paragraph/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Parental responsibility of unmarried father[^key-926862f256b9d6765d754ebf23203ad0]
+## 111. Parental responsibility of unmarried father[^c-926862f256b9d6765d754ebf23203ad0]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-926862f256b9d6765d754ebf23203ad0]: Commencement: S. 111 in force at 1.12.2003 by [S.I. 2003/3079](https://www.legislation.gov.uk/uksi/2003/3079), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2003/3079/article/2/2/a)
+[^c-926862f256b9d6765d754ebf23203ad0]: Commencement: S. 111 in force at 1.12.2003 by [S.I. 2003/3079](https://www.legislation.gov.uk/uksi/2003/3079), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2003/3079/article/2/2/a)

@@ -36,7 +36,7 @@ An Act to make provision about the meaning of references to Article 23A benchmar
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. References to Article 23A benchmarks[^key-e464d0b8e236c7ded6f8cf434a84f8b0]
+## 1. References to Article 23A benchmarks[^c-e464d0b8e236c7ded6f8cf434a84f8b0]
 
 In Chapter 4 of Title 3 of the Benchmarks Regulation (critical benchmarks), after Article 23F insert—
 
@@ -117,7 +117,7 @@ In Chapter 4 of Title 3 of the Benchmarks Regulation (critical benchmarks), afte
 >
 > **7.** Regulations under paragraph 6 may make provision that applies generally or only for specific purposes (for example, provision that only applies in relation to a particular benchmark, a particular description of contracts or other arrangements or a particular type of fallback provision).
 
-## 2. Liability of administrator of Article 23A benchmark[^key-a08d50fcdc40635ad394ac8aec21ee52]
+## 2. Liability of administrator of Article 23A benchmark[^c-a08d50fcdc40635ad394ac8aec21ee52]
 
 In the Benchmarks Regulation, after Article 23FB (inserted by section 1) insert—
 
@@ -132,7 +132,7 @@ In the Benchmarks Regulation, after Article 23FB (inserted by section 1) insert�
 >
 > **3.** Paragraph 1(b) does not remove liability in respect of loss or damage arising from the exercise of any other discretion of the administrator as to the time or manner of publication.
 
-## 3. Consequential provision[^key-4672cf6b7871fab8367107f79574646a]
+## 3. Consequential provision[^c-4672cf6b7871fab8367107f79574646a]
 
 (1) In Article 2 of the Benchmarks Regulation (scope), at the end insert—
 
@@ -140,7 +140,7 @@ In the Benchmarks Regulation, after Article 23FB (inserted by section 1) insert�
 
 (2) In Article 23G(3) of the Benchmarks Regulation (critical benchmarks provided for different currencies etc), for “and 23A to 23E” substitute “, 23A to 23E and 23FA to 23FC”.
 
-## 4. Interpretation, extent, commencement and short title[^key-cc3f395e339e5d3dd729a07fe8be4b11]
+## 4. Interpretation, extent, commencement and short title[^c-cc3f395e339e5d3dd729a07fe8be4b11]
 
 (1) In this Act, “**the Benchmarks Regulation**” means [Regulation (EU) 2016/1011](https://www.legislation.gov.uk/european/regulation/2016/1011) of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds.
 
@@ -152,10 +152,10 @@ In the Benchmarks Regulation, after Article 23FB (inserted by section 1) insert�
 
 ## Annotations
 
-[^key-e464d0b8e236c7ded6f8cf434a84f8b0]: Commencement: S. 1 in force at Royal Assent, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2021/33/section/4/3)
+[^c-e464d0b8e236c7ded6f8cf434a84f8b0]: Commencement: S. 1 in force at Royal Assent, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2021/33/section/4/3)
 
-[^key-a08d50fcdc40635ad394ac8aec21ee52]: Commencement: S. 2 in force at Royal Assent, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2021/33/section/4/3)
+[^c-a08d50fcdc40635ad394ac8aec21ee52]: Commencement: S. 2 in force at Royal Assent, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2021/33/section/4/3)
 
-[^key-4672cf6b7871fab8367107f79574646a]: Commencement: S. 3 in force at Royal Assent, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2021/33/section/4/3)
+[^c-4672cf6b7871fab8367107f79574646a]: Commencement: S. 3 in force at Royal Assent, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2021/33/section/4/3)
 
-[^key-cc3f395e339e5d3dd729a07fe8be4b11]: Commencement: S. 4 in force at Royal Assent, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2021/33/section/4/3)
+[^c-cc3f395e339e5d3dd729a07fe8be4b11]: Commencement: S. 4 in force at Royal Assent, see [s. 4(3)](https://www.legislation.gov.uk/ukpga/2021/33/section/4/3)

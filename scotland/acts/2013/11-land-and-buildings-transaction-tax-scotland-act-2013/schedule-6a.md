@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 6A — RELIEF FOR CERTAIN ACQUISITIONS BY LOCAL AUTHORITIES[^key-1479fad08a8f3b90254ca52733f7a8c4]
+## SCHEDULE 6A — RELIEF FOR CERTAIN ACQUISITIONS BY LOCAL AUTHORITIES[^c-1479fad08a8f3b90254ca52733f7a8c4]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1479fad08a8f3b90254ca52733f7a8c4]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/asp/2013/11/schedule/6A) inserted (1.4.2024) by [The Land and Buildings Transaction Tax (Miscellaneous Amendments) (Scotland) Order 2024 (S.S.I. 2024/104)](https://www.legislation.gov.uk/ssi/2024/104), [art. 1](https://www.legislation.gov.uk/ssi/2024/104/article/1), [sch.](https://www.legislation.gov.uk/ssi/2024/104/schedule)
+[^c-1479fad08a8f3b90254ca52733f7a8c4]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/asp/2013/11/schedule/6A) inserted (1.4.2024) by [The Land and Buildings Transaction Tax (Miscellaneous Amendments) (Scotland) Order 2024 (S.S.I. 2024/104)](https://www.legislation.gov.uk/ssi/2024/104), [art. 1](https://www.legislation.gov.uk/ssi/2024/104/article/1), [sch.](https://www.legislation.gov.uk/ssi/2024/104/schedule)

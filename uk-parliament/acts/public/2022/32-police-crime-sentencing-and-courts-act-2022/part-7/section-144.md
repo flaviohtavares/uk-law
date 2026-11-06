@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Calculation of period before release or Parole Board referral where multiple sentences being served[^key-68d54b84c096bcc76d29d213eb3f9b7e]
+## 144. Calculation of period before release or Parole Board referral where multiple sentences being served[^c-68d54b84c096bcc76d29d213eb3f9b7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -129,4 +129,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68d54b84c096bcc76d29d213eb3f9b7e]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2022/32/section/144) in force at 28.6.2022, see [s. 208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
+[^c-68d54b84c096bcc76d29d213eb3f9b7e]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2022/32/section/144) in force at 28.6.2022, see [s. 208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)

@@ -57,7 +57,7 @@ The Council of the Pharmaceutical Society of Northern Ireland makes the followin
 - “**CPD record**”, in relation to a registered person, means a written record in hard copy form or electronic form which is completed by the registered person and in which details are entered by the registered person about the CPD that the registered person has undertaken since—
   - (c) the date of completion of the immediately preceding review by the registrar of the registered person's CPD; or
   - (d) if no review has taken place since the date on which the registered person's name was entered in, or restored to, the register, the date of that entry;
-- “the chair” means the chair of the Statutory Committee;[^key-683da73b9fa860208c1e76e89650026d]
+- “the chair” means the chair of the Statutory Committee;[^c-683da73b9fa860208c1e76e89650026d]
 - “**Fitness to Practise Regulations**” means the Council of the Pharmaceutical Society of Northern Ireland (Fitness to Practise and Disqualification) Regulations (Northern Ireland) 2012 [^c21349461];
 - “**Notice of Appeal**” means a notice of appeal against an appealable decision;
 - “**the Order**” means the Pharmacy (Northern Ireland) Order 1976;
@@ -92,8 +92,8 @@ The Council of the Pharmaceutical Society of Northern Ireland makes the followin
 
 - (a) include any CPD that relates to a specialist area of practice of the registered person or the environment in which the registered person practises; or
 - (b) reflect any conditions as to the practice of pharmacy by the registered person which were in operation for the whole or part of the relevant period and were imposed—
-  - (i) by virtue of a direction given by the Statutory Committee under paragraph 7(2)(e) or (3)(a)(v) or (b)(i) or (ii) of Schedule 3 to the Order; [^key-8d3c24aa7f795b2704cc8bd2fe29ce1c]...
-  - (ii)[^key-8d3c24aa7f795b2704cc8bd2fe29ce1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) by virtue of a direction given by the Statutory Committee under paragraph 7(2)(e) or (3)(a)(v) or (b)(i) or (ii) of Schedule 3 to the Order; [^c-8d3c24aa7f795b2704cc8bd2fe29ce1c]...
+  - (ii)[^c-8d3c24aa7f795b2704cc8bd2fe29ce1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) The registrar is of the opinion that the entries in the registered person's CPD record do not reflect any requirement which—
 
@@ -128,7 +128,7 @@ The Council of the Pharmaceutical Society of Northern Ireland makes the followin
 - (b) remove the registered person's name from the register; or
 - (c) remove an annotation in respect of a specialist area of practice recorded against the registered person's name in the register.
 
-(3)[^key-4d4d265f2974e6b929a368880782b64b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4d4d265f2974e6b929a368880782b64b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The registrar must follow the procedure set out in regulation 4(2) when imposing a requirement to take a remedial measure.
 
@@ -187,8 +187,8 @@ The Council of the Pharmaceutical Society of Northern Ireland makes the followin
 - (b) be accompanied by copies of evidence (in a form that can be copied) on which the registrar would seek to rely in any proceedings under these Regulations to remove R's name or the annotation recorded against R's name;
 - (c) invite R to submit written representations, and any relevant evidence, to the registrar as to why R's name or the annotation recorded against R's name should not be removed from the register;
 - (d) inform R that any such representations or evidence must be submitted no later than 28 days after service of the notice;
-- (e)[^key-74df201e8a7fc0137cc560dd8d29894a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-74df201e8a7fc0137cc560dd8d29894a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-74df201e8a7fc0137cc560dd8d29894a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-74df201e8a7fc0137cc560dd8d29894a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) inform R that, if R fails to submit written representations to the registrar within the 28 day period referred to in sub-paragraph (d), R's name or the annotation recorded against R's name may be removed from the register.
 
 ## 6. Subsequent action by the registrar: stage 2
@@ -196,7 +196,7 @@ The Council of the Pharmaceutical Society of Northern Ireland makes the followin
 (1) Where—
 
 - (a) the registrar has served a Notice of Intention to Remove on a registered person; and
-- (b) has not received any representations from the registered person within the 28 day period referred to in that notice (see regulation 5(5)(d)[^key-73375c8547d5966ad2e8e25cd33bc0cf]... and (g)),
+- (b) has not received any representations from the registered person within the 28 day period referred to in that notice (see regulation 5(5)(d)[^c-73375c8547d5966ad2e8e25cd33bc0cf]... and (g)),
 
 the registrar may remove the name of the registered person, or the annotation recorded against the registered person's name in respect of a specialist area of practice, from the register.
 
@@ -215,11 +215,11 @@ the registrar may remove the name of the registered person, or the annotation re
 (5) Where the registrar is not so satisfied and, in making a determination, proposes to rely on evidence that was obtained as a result of the registrar's further inquiries under paragraph (3)(b), the registrar must send to the registered person—
 
 - (a) copies of that evidence (in a form that can be copied); and
-- (b) [^key-0542542a6eada0d08e9180bdf28b683a]... a notice (referred to in these Regulations as a “**supplementary notice**”) which—
-  - (i) invites the registered person to submit written representations, and any relevant additional evidence, to the registrar as to why the name of the registered person or the annotation recorded against the registered person's name should not be removed from the register, and[^key-cfd5582c74496a436a7d7be92db27d37]
-  - (ii) informs the registered person that any such representations or evidence must be submitted no later than 28 days after service of the supplementary notice .[^key-82da2a9674fe4b12923e069854060869]
-  - (iii)[^key-2b19a231eaf8aa524c93ce5e858ae7a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iv)[^key-2b19a231eaf8aa524c93ce5e858ae7a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) [^c-0542542a6eada0d08e9180bdf28b683a]... a notice (referred to in these Regulations as a “**supplementary notice**”) which—
+  - (i) invites the registered person to submit written representations, and any relevant additional evidence, to the registrar as to why the name of the registered person or the annotation recorded against the registered person's name should not be removed from the register, and[^c-cfd5582c74496a436a7d7be92db27d37]
+  - (ii) informs the registered person that any such representations or evidence must be submitted no later than 28 days after service of the supplementary notice .[^c-82da2a9674fe4b12923e069854060869]
+  - (iii)[^c-2b19a231eaf8aa524c93ce5e858ae7a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-2b19a231eaf8aa524c93ce5e858ae7a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Paragraphs (3) to (5) also have effect in relation to any further representations from the registered person which the registrar receives within the 28 day period referred to in a supplementary notice.
 
@@ -230,12 +230,12 @@ the registrar may remove the name of the registered person, or the annotation re
 
 ## 7. Decisions in contested cases: stage 3
 
-(1) Where regulation 6(7) applies[^key-c938c4d23ecd2d96905605d3e96b5eae] , the registrar must determine the matter—
+(1) Where regulation 6(7) applies[^c-c938c4d23ecd2d96905605d3e96b5eae] , the registrar must determine the matter—
 
 - (a) if the registrar was required to serve one or more supplementary notices on the registered person, after the expiry of the 28 day period referred to in the supplementary notice or, if more than one supplementary notice was served, the most recent supplementary notice; or
 - (b) if no supplementary notice was required to be served, after the expiry of the 28 day period referred to in the Notice of Intention to Remove served on the registered person under regulation 5.
 
-(2)[^key-13655c70b487c841e2af94199aa09794] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-13655c70b487c841e2af94199aa09794] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where the registrar determines that the registered person did not—
 
@@ -256,7 +256,7 @@ the registrar must close the matter and notify the registered person accordingly
 
 (6) In imposing a requirement to take a remedial measure, the registrar must follow the procedure set out in regulation 4(2).
 
-## 8. Notification of removal of the name of a registered person or the annotation recorded against the registered person's name under regulation 6 or 7[^key-5c8bc38947e1af25edc3cb8b46b288af]
+## 8. Notification of removal of the name of a registered person or the annotation recorded against the registered person's name under regulation 6 or 7[^c-5c8bc38947e1af25edc3cb8b46b288af]
 
 Where the registrar has decided to remove the name of a registered person, or the annotation recorded against the registered person’s name, the registrar must send the registered person a written statement giving notice of—
 
@@ -269,7 +269,7 @@ Where the registrar has decided to remove the name of a registered person, or th
 (1) Where—
 
 - (a) the registrar has decided to remove the name of a registered person from the register; and
-- (b) a Notice of Appeal is served under Article 4A(13) of the Order (in accordance with regulations 13 and 14)[^key-e22d7d36ca6fc653dd29b7f124c75ab8] ,
+- (b) a Notice of Appeal is served under Article 4A(13) of the Order (in accordance with regulations 13 and 14)[^c-e22d7d36ca6fc653dd29b7f124c75ab8] ,
 
 the registrar may suspend the registered person's entry in the register pending the final outcome of the appeal.
 
@@ -347,7 +347,7 @@ and, where necessary, the registrar may determine the additional education, trai
 - (a) if an annotation recorded against the registered person's name was removed because of a failure to provide any document, evidence or information and that document, evidence or information is not included in the application; or
 - (b) if the applicant has not paid, or has not made arrangements with the registrar to pay by direct debit, the prescribed fees in respect of the application.
 
-(9)[^key-be20c35d3bf043d79b0d4141274cb413] Where the registrar has refused an application for the restoration of an annotation to be recorded against a registered person’s name in the register, the applicant may appeal to the Statutory Committee under Article 4A(13) of the Order (in accordance with regulations 13 and 14) against the refusal of the application.
+(9)[^c-be20c35d3bf043d79b0d4141274cb413] Where the registrar has refused an application for the restoration of an annotation to be recorded against a registered person’s name in the register, the applicant may appeal to the Statutory Committee under Article 4A(13) of the Order (in accordance with regulations 13 and 14) against the refusal of the application.
 
 (10) The registrar must send a written statement to the applicant giving notice of—
 
@@ -355,7 +355,7 @@ and, where necessary, the registrar may determine the additional education, trai
 - (b) the reasons for it; and
 - (c) the applicant’s right of appeal to the Statutory Committee
 
-## 12. Appeals[^key-cbec4e45c86fcfa3bd92f8816a23efe4]
+## 12. Appeals[^c-cbec4e45c86fcfa3bd92f8816a23efe4]
 
 Where a decision has been taken to remove the name of a registered person or the annotation recorded against the registered person’s name from the register under regulation 6 or 7, the decision does not take effect—
 
@@ -368,7 +368,7 @@ Where a decision has been taken to remove the name of a registered person or the
 
 (2) Where the secretary considers that it was not reasonably practicable for the Notice of Appeal to be served within 28 days, the secretary may by authorisation in writing extend the time limit for serving the Notice of Appeal.
 
-## 14. Notice of Appeal[^key-714d888039de80f92a5cc313f91a47cb]
+## 14. Notice of Appeal[^c-714d888039de80f92a5cc313f91a47cb]
 
 (1) Subject to paragraph (3), a Notice of Appeal will only be valid if it is in the format described in paragraph (2).
 
@@ -394,7 +394,7 @@ Where a decision has been taken to remove the name of a registered person or the
 - (a) extend the time for the delivery of the skeleton argument and any additional material necessary to determine the appeal; and
 - (b) allow the appellant to amend the details regarding representation provided under paragraph (2)(e).
 
-## 15. Action following receipt of Notice of Appeal[^key-714d888039de80f92a5cc313f91a47cb]
+## 15. Action following receipt of Notice of Appeal[^c-714d888039de80f92a5cc313f91a47cb]
 
 Following receipt of the Notice of Appeal, the secretary must—
 
@@ -407,7 +407,7 @@ Following receipt of the Notice of Appeal, the secretary must—
   - (ii) on which the Statutory Committee will consider the appeal (which, in the case of a hearing, unless the parties agree otherwise, must be no less than 28 days after the date on which the secretary serves the Notice of Hearing); and
 - (f) where the appellant has stated that the appellant wishes the Statutory Committee to consider the appeal at a hearing, send a Notice of Hearing to any person to whom the proceedings relate, which must be in the format described in regulation 16.
 
-## 16. Notice of Hearing[^key-714d888039de80f92a5cc313f91a47cb]
+## 16. Notice of Hearing[^c-714d888039de80f92a5cc313f91a47cb]
 
 The Notice of Hearing must—
 
@@ -423,7 +423,7 @@ The Notice of Hearing must—
   - (iii) seek to call any witnesses at the hearing, and if so, whom, and
 - (e) inform the appellant that, if the appellant fails to attend the hearing, the Statutory Committee may proceed with the hearing in the appellant’s absence.
 
-## 17. Case management meetings[^key-714d888039de80f92a5cc313f91a47cb]
+## 17. Case management meetings[^c-714d888039de80f92a5cc313f91a47cb]
 
 (1) Where a hearing is to be held a case management meeting may be convened by the chair of the chair’s own motion or at the written request of one or both of the parties.
 
@@ -437,7 +437,7 @@ The Notice of Hearing must—
 
 (6) Any preliminary rulings mentioned in paragraph (5) are binding on the Committee hearing the appeal.
 
-## 18. Evidence[^key-714d888039de80f92a5cc313f91a47cb]
+## 18. Evidence[^c-714d888039de80f92a5cc313f91a47cb]
 
 (1) All questions of admissibility of evidence and law before the Statutory Committee must be decided by the Statutory Committee.
 
@@ -471,7 +471,7 @@ whether or not such evidence would be admissible in any civil proceedings.
 
 (9) The Statutory Committee may only allow a party to adduce written evidence at a hearing which has not been submitted in accordance with these regulations in such exceptional circumstances as it may determine.
 
-## 19. Advice from clinical, specialist and legal advisers[^key-714d888039de80f92a5cc313f91a47cb]
+## 19. Advice from clinical, specialist and legal advisers[^c-714d888039de80f92a5cc313f91a47cb]
 
 The Statutory Committee may, at any time in the course of proceedings before it (including during a hearing), seek advice from—
 
@@ -479,13 +479,13 @@ The Statutory Committee may, at any time in the course of proceedings before it 
 - (b) a specialist adviser, appointed under paragraph 18 of Schedule 3 to the Order, on issues falling within the specialty of the adviser or related to it; or
 - (c) a legal adviser appointed under paragraph 17 of Schedule 3 to the Order.
 
-## 20. Burden and standard of proof[^key-714d888039de80f92a5cc313f91a47cb]
+## 20. Burden and standard of proof[^c-714d888039de80f92a5cc313f91a47cb]
 
 (1) The appellant bears the burden of establishing that the registrar’s decision against which the appellant is appealing should be overturned.
 
 (2) Where facts are in dispute, the Statutory Committee must consider whether they have been established in accordance with the civil standard of proof.
 
-## 21. Consideration of appeals on the papers[^key-714d888039de80f92a5cc313f91a47cb]
+## 21. Consideration of appeals on the papers[^c-714d888039de80f92a5cc313f91a47cb]
 
 (1) The Statutory Committee shall determine an appeal on the papers unless the appellant has requested a hearing in the Notice of Appeal.
 
@@ -493,7 +493,7 @@ The Statutory Committee may, at any time in the course of proceedings before it 
 
 (3) An appeal on the papers shall be conducted in accordance with regulations 18, 19 and 20 insofar as those regulations apply to an appeal on the papers and in accordance with practice directions given by the chair under regulation 24 of the Council of the Pharmaceutical Society of Northern Ireland (Fitness to Practise and Disqualification) Regulations (Northern Ireland) (2012).
 
-## 22. Procedure at appeal hearings[^key-714d888039de80f92a5cc313f91a47cb]
+## 22. Procedure at appeal hearings[^c-714d888039de80f92a5cc313f91a47cb]
 
 (1) No later than 7 days before the day of the hearing, the secretary must provide the Statutory Committee with an agenda and the documents relevant to the consideration of the appeal.
 
@@ -516,7 +516,7 @@ The Statutory Committee may, at any time in the course of proceedings before it 
 
 (4) The Statutory Committee may refuse to allow a witness to give oral evidence, or to give oral evidence on a particular matter, if the Committee is satisfied that all or part of the evidence that the witness is to provide, or is to provide on that matter, should have been disclosed to the party not calling the witness at an earlier stage in the proceedings.
 
-## 23. Representation[^key-714d888039de80f92a5cc313f91a47cb]
+## 23. Representation[^c-714d888039de80f92a5cc313f91a47cb]
 
 (1) The presenter must be a person who is—
 
@@ -536,7 +536,7 @@ The Statutory Committee may, at any time in the course of proceedings before it 
   - (iii) a witness at the hearing; and
 - (b) may only address the Statutory Committee with the permission of the chair.
 
-## 24. Witness evidence[^key-714d888039de80f92a5cc313f91a47cb]
+## 24. Witness evidence[^c-714d888039de80f92a5cc313f91a47cb]
 
 (1) Witnesses must be required to take an oath, or to affirm, before giving their oral evidence.
 
@@ -570,7 +570,7 @@ The Statutory Committee may, at any time in the course of proceedings before it 
 
 (10) Except for expert witnesses and the appellant, witnesses must not be allowed to attend the proceedings until after they have completed giving evidence and been formally released by the chair.
 
-## 25. Attendance of the public at hearings[^key-714d888039de80f92a5cc313f91a47cb]
+## 25. Attendance of the public at hearings[^c-714d888039de80f92a5cc313f91a47cb]
 
 (1) Except as provided for by this regulation, hearings of the Statutory Committee must be conducted in public.
 
@@ -588,7 +588,7 @@ that the interest of the appellant or the third party in maintaining their priva
 
 (4) The Statutory Committee may exclude from the whole or any part of a hearing any person whose conduct, in its opinion, has disrupted or is likely to disrupt the hearing.
 
-## 26. Postponements and adjournments[^key-714d888039de80f92a5cc313f91a47cb]
+## 26. Postponements and adjournments[^c-714d888039de80f92a5cc313f91a47cb]
 
 (1) The chair may, of the chair’s own motion, or upon the application of a party, postpone any hearing of which notice has been given under these regulations before the hearing begins.
 
@@ -606,7 +606,7 @@ that the interest of the appellant or the third party in maintaining their priva
 
 (4) Where the proceedings have been postponed or adjourned, the secretary must, as soon as practicable, notify the parties of the date, time and venue of the re-listed or resumed hearing.
 
-## 27. Decision of the Statutory Committee[^key-714d888039de80f92a5cc313f91a47cb]
+## 27. Decision of the Statutory Committee[^c-714d888039de80f92a5cc313f91a47cb]
 
 (1) Having considered the appeal, the Statutory Committee may—
 
@@ -619,7 +619,7 @@ that the interest of the appellant or the third party in maintaining their priva
 
 (3) The written statement, under paragraph (2), given to the appellant must be accompanied by a record of any rulings on questions of law or admissibility of evidence made by the Statutory Committee.
 
-## 28. Costs of the hearing[^key-714d888039de80f92a5cc313f91a47cb]
+## 28. Costs of the hearing[^c-714d888039de80f92a5cc313f91a47cb]
 
 (1) Where a hearing is to be held and a party is seeking or intends to seek an order for payment of its costs, the party must serve on the other party, and on the secretary, a schedule of costs relating to the hearing no less than 24 hours before the date of the hearing.
 
@@ -634,7 +634,7 @@ that the interest of the appellant or the third party in maintaining their priva
 
 (5) Where a person is appointed by the secretary in accordance with paragraph (4)(b), that person must also determine how the costs of the assessment are to be apportioned.
 
-## 29. Notes and transcripts of hearings[^key-714d888039de80f92a5cc313f91a47cb][^key-51c3a346b0ef9d257e7fd5a7d4616ead]
+## 29. Notes and transcripts of hearings[^c-714d888039de80f92a5cc313f91a47cb][^c-51c3a346b0ef9d257e7fd5a7d4616ead]
 
 (1) Subject to paragraph (3), the Statutory Committee must arrange for all hearings to be recorded in writing or electronic form.
 
@@ -682,40 +682,40 @@ Regulation 9 sets out where the registrar may suspend a registered person's entr
 
 [^c21349451]: Marginal citation: [Article 25A](https://www.legislation.gov.uk/nisr/2012/312/article/25A) is inserted by Article 9 of S.R. [2012 No.308](https://www.legislation.gov.uk/ukcm/2012/308)
 
-[^key-683da73b9fa860208c1e76e89650026d]: Textual amendment: Words in reg. 1 inserted (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2013/147/regulation/2)
+[^c-683da73b9fa860208c1e76e89650026d]: Textual amendment: Words in reg. 1 inserted (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2013/147/regulation/2)
 
 [^c21349461]: Marginal citation: S.R. [2012 No.311](https://www.legislation.gov.uk/ukcm/2012/311)
 
-[^key-8d3c24aa7f795b2704cc8bd2fe29ce1c]: Textual amendment: [Reg. 2(7)(b)(ii)](https://www.legislation.gov.uk/nisr/2012/312/regulation/2/7/b/ii) and word omitted (31.12.2020) by virtue of [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 27(2)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/27/2) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d3c24aa7f795b2704cc8bd2fe29ce1c]: Textual amendment: [Reg. 2(7)(b)(ii)](https://www.legislation.gov.uk/nisr/2012/312/regulation/2/7/b/ii) and word omitted (31.12.2020) by virtue of [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 27(2)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/27/2) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4d4d265f2974e6b929a368880782b64b]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2012/312/regulation/3/3) omitted (31.12.2020) by virtue of [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 27(3)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/27/3) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d4d265f2974e6b929a368880782b64b]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2012/312/regulation/3/3) omitted (31.12.2020) by virtue of [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 27(3)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/27/3) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_d5506f3d-071e-4464-dde5-bab8946b2e8d]: Textual amendment: Reg. 4(1)(f)(ii) and word omitted (31.12.2020) by virtue of [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 27(4)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/27/4) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-74df201e8a7fc0137cc560dd8d29894a]: Textual amendment: Reg. 5(5)(e)(f) omitted (31.5.2013) by virtue of [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2013/147/regulation/3)
+[^c-74df201e8a7fc0137cc560dd8d29894a]: Textual amendment: Reg. 5(5)(e)(f) omitted (31.5.2013) by virtue of [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2013/147/regulation/3)
 
-[^key-73375c8547d5966ad2e8e25cd33bc0cf]: Textual amendment: Words in reg. 6(1)(b) omitted (31.5.2013) by virtue of [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2013/147/regulation/4/a)
+[^c-73375c8547d5966ad2e8e25cd33bc0cf]: Textual amendment: Words in reg. 6(1)(b) omitted (31.5.2013) by virtue of [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2013/147/regulation/4/a)
 
-[^key-0542542a6eada0d08e9180bdf28b683a]: Textual amendment: Words in reg. 6(5)(b) omitted (31.5.2013) by virtue of [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/nisr/2013/147/regulation/4/b/i)
+[^c-0542542a6eada0d08e9180bdf28b683a]: Textual amendment: Words in reg. 6(5)(b) omitted (31.5.2013) by virtue of [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/nisr/2013/147/regulation/4/b/i)
 
-[^key-cfd5582c74496a436a7d7be92db27d37]: Textual amendment: Word in reg. 6(5)(b)(i) inserted (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [4(b)(ii)](https://www.legislation.gov.uk/nisr/2013/147/regulation/4/b/ii)
+[^c-cfd5582c74496a436a7d7be92db27d37]: Textual amendment: Word in reg. 6(5)(b)(i) inserted (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [4(b)(ii)](https://www.legislation.gov.uk/nisr/2013/147/regulation/4/b/ii)
 
-[^key-82da2a9674fe4b12923e069854060869]: Textual amendment: Reg. 6(5)(b)(ii): full stop substituted for semicolon (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [4(b)(iii)](https://www.legislation.gov.uk/nisr/2013/147/regulation/4/b/iii)
+[^c-82da2a9674fe4b12923e069854060869]: Textual amendment: Reg. 6(5)(b)(ii): full stop substituted for semicolon (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [4(b)(iii)](https://www.legislation.gov.uk/nisr/2013/147/regulation/4/b/iii)
 
-[^key-2b19a231eaf8aa524c93ce5e858ae7a7]: Textual amendment: Reg. 6(5)(b)(iii)(iv) omitted (31.5.2013) by virtue of [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [4(b)(iv)](https://www.legislation.gov.uk/nisr/2013/147/regulation/4/b/iv)
+[^c-2b19a231eaf8aa524c93ce5e858ae7a7]: Textual amendment: Reg. 6(5)(b)(iii)(iv) omitted (31.5.2013) by virtue of [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [4(b)(iv)](https://www.legislation.gov.uk/nisr/2013/147/regulation/4/b/iv)
 
-[^key-c938c4d23ecd2d96905605d3e96b5eae]: Textual amendment: Words in reg. 7(1) substituted (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2013/147/regulation/5/a)
+[^c-c938c4d23ecd2d96905605d3e96b5eae]: Textual amendment: Words in reg. 7(1) substituted (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2013/147/regulation/5/a)
 
-[^key-13655c70b487c841e2af94199aa09794]: Textual amendment: Reg. 7(2) omitted (31.5.2013) by virtue of [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2013/147/regulation/5/b)
+[^c-13655c70b487c841e2af94199aa09794]: Textual amendment: Reg. 7(2) omitted (31.5.2013) by virtue of [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2013/147/regulation/5/b)
 
-[^key-5c8bc38947e1af25edc3cb8b46b288af]: Textual amendment: Reg. 8 substituted (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2013/147/regulation/6)
+[^c-5c8bc38947e1af25edc3cb8b46b288af]: Textual amendment: Reg. 8 substituted (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2013/147/regulation/6)
 
-[^key-e22d7d36ca6fc653dd29b7f124c75ab8]: Textual amendment: Words in reg. 9(1)(b) substituted (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2013/147/regulation/7)
+[^c-e22d7d36ca6fc653dd29b7f124c75ab8]: Textual amendment: Words in reg. 9(1)(b) substituted (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2013/147/regulation/7)
 
-[^key-be20c35d3bf043d79b0d4141274cb413]: Textual amendment: Reg. 11(9)(10) inserted (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2013/147/regulation/8)
+[^c-be20c35d3bf043d79b0d4141274cb413]: Textual amendment: Reg. 11(9)(10) inserted (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2013/147/regulation/8)
 
-[^key-cbec4e45c86fcfa3bd92f8816a23efe4]: Textual amendment: Regs. 12-29 inserted (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2013/147/regulation/9)
+[^c-cbec4e45c86fcfa3bd92f8816a23efe4]: Textual amendment: Regs. 12-29 inserted (31.5.2013) by [The Council of the Pharmaceutical Society of Northern Ireland (Continuing Professional Development) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/147)](https://www.legislation.gov.uk/nisr/2013/147), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/147/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2013/147/regulation/9)
 
-[^key-714d888039de80f92a5cc313f91a47cb]: Modification: Regs. 14-29 applied (1.6.2014) by [The Council of the Pharmacetical Society of Northern Ireland (Indemnity Arrangements) Regulations (Northern Ireland) 2014 (S.R. 2014/126)](https://www.legislation.gov.uk/nisr/2014/126), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/126/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2014/126/regulation/10)
+[^c-714d888039de80f92a5cc313f91a47cb]: Modification: Regs. 14-29 applied (1.6.2014) by [The Council of the Pharmacetical Society of Northern Ireland (Indemnity Arrangements) Regulations (Northern Ireland) 2014 (S.R. 2014/126)](https://www.legislation.gov.uk/nisr/2014/126), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/126/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2014/126/regulation/10)
 
-[^key-51c3a346b0ef9d257e7fd5a7d4616ead]: Modification: [Reg. 29](https://www.legislation.gov.uk/nisr/2012/312/regulation/29) applied (21.11.2022) by [The Council of the Pharmaceutical Society of Northern Ireland (Indemnity Arrangements) Regulations (Northern Ireland) 2022 (S.R. 2022/285)](https://www.legislation.gov.uk/nisr/2022/285), [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/285/article/1/1), [reg. 10](https://www.legislation.gov.uk/nisr/2022/285/regulation/10)
+[^c-51c3a346b0ef9d257e7fd5a7d4616ead]: Modification: [Reg. 29](https://www.legislation.gov.uk/nisr/2012/312/regulation/29) applied (21.11.2022) by [The Council of the Pharmaceutical Society of Northern Ireland (Indemnity Arrangements) Regulations (Northern Ireland) 2022 (S.R. 2022/285)](https://www.legislation.gov.uk/nisr/2022/285), [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/285/article/1/1), [reg. 10](https://www.legislation.gov.uk/nisr/2022/285/regulation/10)

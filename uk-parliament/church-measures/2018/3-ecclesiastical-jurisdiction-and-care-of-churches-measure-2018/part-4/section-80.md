@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 80. Interpretation of Part 4[^key-9d713922bec463c5ce71e7b7acfe1e67]
+## 80. Interpretation of Part 4[^c-9d713922bec463c5ce71e7b7acfe1e67]
 
 *Extent: E*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d713922bec463c5ce71e7b7acfe1e67]: Commencement: [S. 80](https://www.legislation.gov.uk/ukcm/2018/3/section/80) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-9d713922bec463c5ce71e7b7acfe1e67]: Commencement: [S. 80](https://www.legislation.gov.uk/ukcm/2018/3/section/80) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

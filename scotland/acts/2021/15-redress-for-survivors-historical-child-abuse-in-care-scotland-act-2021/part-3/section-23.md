@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Power to create exceptions to eligibility[^key-288f63e50479076a3c09fe2794b91c26]
+## 23. Power to create exceptions to eligibility[^c-288f63e50479076a3c09fe2794b91c26]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-288f63e50479076a3c09fe2794b91c26]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2021/15/section/23) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-288f63e50479076a3c09fe2794b91c26]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2021/15/section/23) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

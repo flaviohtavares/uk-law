@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10A. Certification of SONI Limited[^key-74ec7eeaca73bdb7d30c02419ec37208]
+## 10A. Certification of SONI Limited[^c-74ec7eeaca73bdb7d30c02419ec37208]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74ec7eeaca73bdb7d30c02419ec37208]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/nisr/2011/155/regulation/10A) inserted (18.7.2013) by [The Gas and Electricity (Internal Markets) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/173)](https://www.legislation.gov.uk/nisr/2013/173), [regs. 1](https://www.legislation.gov.uk/nisr/2013/173/regulation/1), [3](https://www.legislation.gov.uk/nisr/2013/173/regulation/3)
+[^c-74ec7eeaca73bdb7d30c02419ec37208]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/nisr/2011/155/regulation/10A) inserted (18.7.2013) by [The Gas and Electricity (Internal Markets) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/173)](https://www.legislation.gov.uk/nisr/2013/173), [regs. 1](https://www.legislation.gov.uk/nisr/2013/173/regulation/1), [3](https://www.legislation.gov.uk/nisr/2013/173/regulation/3)

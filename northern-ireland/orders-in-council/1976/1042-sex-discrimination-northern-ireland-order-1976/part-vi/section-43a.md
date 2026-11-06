@@ -33,7 +33,7 @@ summary: ''
 (3) The following elections are relevant elections for the purposes of this Article—
 
 - (a) parliamentary elections;
-- (b)[^key-f23dae1c1fdc944b1bdb87e0f0b4a005] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f23dae1c1fdc944b1bdb87e0f0b4a005] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) elections to the Northern Ireland Assembly;
 - (d) elections to a district council.
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c17234081]: Textual amendment: [2002 c.2](https://www.legislation.gov.uk/ukpga/2002/2)
 
-[^key-f23dae1c1fdc944b1bdb87e0f0b4a005]: Textual amendment: [Art. 43A(3)(b)](https://www.legislation.gov.uk/nisi/1976/1042/article/43A/3/b) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-f23dae1c1fdc944b1bdb87e0f0b4a005]: Textual amendment: [Art. 43A(3)(b)](https://www.legislation.gov.uk/nisi/1976/1042/article/43A/3/b) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

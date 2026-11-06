@@ -25,7 +25,7 @@ summary: ''
 - (a) over a period of one year; or
 - (b) where the claimant has recently become engaged in that employment or there has been a change which is likely to affect the normal pattern of business, over such other period as may, in any particular case, enable the weekly amount of the claimant's earnings to be determined more accurately.
 
-(2)[^key-ea542d01eca8c30d969dc8a8e25564f8]
+(2)[^c-ea542d01eca8c30d969dc8a8e25564f8]
 
 - (a) Where the claimant's earnings consist of any items to which this paragraph applies those earnings shall be taken into account over a period equal to such number of weeks as is equal to the number obtained (and any fraction shall be treated as a corresponding fraction of a week) by dividing the earnings by the amount of employment and support allowance which would be payable had the payment not been made plus an amount equal to the total of the sums which would fall to be disregarded from the payment under Schedule 7 (earnings to be disregarded) as is appropriate in the claimant's case;
 - (b) This paragraph applies to—
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea542d01eca8c30d969dc8a8e25564f8]: Textual amendment: Reg. 92(2) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 10(4)](https://www.legislation.gov.uk/uksi/2009/583/regulation/10/4)
+[^c-ea542d01eca8c30d969dc8a8e25564f8]: Textual amendment: Reg. 92(2) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 10(4)](https://www.legislation.gov.uk/uksi/2009/583/regulation/10/4)

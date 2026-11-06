@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Vacancies: regional member seats[^key-f8fb4f290201090b9fe9a962c17bef5d]
+## 86. Vacancies: regional member seats[^c-f8fb4f290201090b9fe9a962c17bef5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8fb4f290201090b9fe9a962c17bef5d]: Commencement: Art. 86 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-f8fb4f290201090b9fe9a962c17bef5d]: Commencement: Art. 86 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

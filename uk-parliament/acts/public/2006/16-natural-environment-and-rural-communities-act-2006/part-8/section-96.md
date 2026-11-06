@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. “The appropriate authority”[^key-4adc188352733ab98c000220c4f77684]
+## 96. “The appropriate authority”[^c-4adc188352733ab98c000220c4f77684]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ unless a draft of the order has been laid before, and approved by a resolution o
 
 ## Annotations
 
-[^key-4adc188352733ab98c000220c4f77684]: Commencement: S. 96 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-4adc188352733ab98c000220c4f77684]: Commencement: S. 96 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

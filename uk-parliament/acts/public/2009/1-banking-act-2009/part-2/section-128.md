@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Evidence[^key-0c0cdb529ff8c360bf868714993b2c39]
+## 128. Evidence[^c-0c0cdb529ff8c360bf868714993b2c39]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 433(1) of the Insolvency Act 1986 (admissibility of statements of aff
 
 ## Annotations
 
-[^key-0c0cdb529ff8c360bf868714993b2c39]: Commencement: S. 128 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-0c0cdb529ff8c360bf868714993b2c39]: Commencement: S. 128 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)

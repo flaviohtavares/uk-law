@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Restrictions on contracting out.[^c9532611][^c9532621][^c9532631][^key-40d6c45d47885cfb9318c2dc0b35ec37]
+## 49. Restrictions on contracting out.[^c9532611][^c9532621][^c9532631][^c-40d6c45d47885cfb9318c2dc0b35ec37]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,15 +27,15 @@ summary: ''
 
 (2) Subsection (1) above does not apply to any agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under—
 
-- (a) any of sections 18A to 18C[^key-b68aaf69797787efea33aa756d2f70a2] of the [^c9532641]Employment Tribunals Act 1996 (conciliation), or
+- (a) any of sections 18A to 18C[^c-b68aaf69797787efea33aa756d2f70a2] of the [^c9532641]Employment Tribunals Act 1996 (conciliation), or
 - (b) in relation to Northern Ireland, any of Articles 20A to 20C[^M_F_2b2e5d35-e96c-4821-a81a-5dc6efebde9f] of the [^c9532651]Industrial Tribunals (Northern Ireland) Order 1996.
 
 (3) Subsection (1) above does not apply to any agreement to refrain from instituting or continuing before an employment tribunal any proceedings within—
 
-- (a) section 18(1)(c)[^key-51e41c816f8ce8159030db7f401e9134] of the [^c9532661]Employment Tribunals Act 1996 (proceedings under or by virtue of this Act where conciliation is available), or
+- (a) section 18(1)(c)[^c-51e41c816f8ce8159030db7f401e9134] of the [^c9532661]Employment Tribunals Act 1996 (proceedings under or by virtue of this Act where conciliation is available), or
 - (b) in relation to Northern Ireland, Article 20(1)(cc) of the [^c9532671]Industrial Tribunals (Northern Ireland) Order 1996,
 
-if the conditions regulating settlement[^key-3e96b9ba8b26dab3094145e4e7817111] agreements under this Act are satisfied in relation to the agreement.
+if the conditions regulating settlement[^c-3e96b9ba8b26dab3094145e4e7817111] agreements under this Act are satisfied in relation to the agreement.
 
 (4) For the purposes of subsection (3) above the conditions regulating settlement agreements under this Act are that—
 
@@ -62,7 +62,7 @@ if the conditions regulating settlement[^key-3e96b9ba8b26dab3094145e4e7817111] a
 
 (7) In this section “**qualified lawyer**” means—
 
-- (a)[^key-e3677ead21245b668acf36e5308197e0] as regards England and Wales, a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act);
+- (a)[^c-e3677ead21245b668acf36e5308197e0] as regards England and Wales, a person who, for the purposes of the Legal Services Act 2007, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act);
 - (b) as respects Scotland—
   - (i) an advocate (whether in practice as such or employed to give legal advice); or
   - (ii) a solicitor who holds a practising certificate; and
@@ -77,7 +77,7 @@ if the conditions regulating settlement[^key-3e96b9ba8b26dab3094145e4e7817111] a
 
 and “**associated employer**” shall be construed accordingly.
 
-(8A)[^key-6a8af2eeb3735eb2b6a70d5d7c231cec] In the application of this section in relation to Northern Ireland, subsections (3) and (4) above shall have effect as if for “settlement agreements” (in each place) there were substituted “compromise agreements.
+(8A)[^c-6a8af2eeb3735eb2b6a70d5d7c231cec] In the application of this section in relation to Northern Ireland, subsections (3) and (4) above shall have effect as if for “settlement agreements” (in each place) there were substituted “compromise agreements.
 
 (9) In the application of this section in relation to Northern Ireland—
 
@@ -98,9 +98,9 @@ and “**associated employer**” shall be construed accordingly.
 
 [^c9532631]: Commencement: S. 49 partly in force; s. 49(11) in force at Royal Assent see s. 56(2); s. 49(1)-(8) in force at 1.11.1998 by [S.I. 1998/2574](https://www.legislation.gov.uk/uksi/1998/2574), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/2574/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/2574/schedule/1)
 
-[^key-40d6c45d47885cfb9318c2dc0b35ec37]: Modification: S. 49 applied (with modifications) (E.W.) (30.7.2014) by [Agricultural Sector (Wales) Act 2014 (anaw 6)](https://www.legislation.gov.uk/anaw/2014/6), [ss. 5(1)](https://www.legislation.gov.uk/anaw/2014/6/section/5/1)[(2)(n)](https://www.legislation.gov.uk/anaw/2014/6/section/5/2/n)[(3)-(7)](https://www.legislation.gov.uk/anaw/2014/6/section/5/3), [19](https://www.legislation.gov.uk/anaw/2014/6/section/19) (with [s. 14(1)](https://www.legislation.gov.uk/anaw/2014/6/section/14/1))
+[^c-40d6c45d47885cfb9318c2dc0b35ec37]: Modification: S. 49 applied (with modifications) (E.W.) (30.7.2014) by [Agricultural Sector (Wales) Act 2014 (anaw 6)](https://www.legislation.gov.uk/anaw/2014/6), [ss. 5(1)](https://www.legislation.gov.uk/anaw/2014/6/section/5/1)[(2)(n)](https://www.legislation.gov.uk/anaw/2014/6/section/5/2/n)[(3)-(7)](https://www.legislation.gov.uk/anaw/2014/6/section/5/3), [19](https://www.legislation.gov.uk/anaw/2014/6/section/19) (with [s. 14(1)](https://www.legislation.gov.uk/anaw/2014/6/section/14/1))
 
-[^key-b68aaf69797787efea33aa756d2f70a2]: Textual amendment: Words in s. 49(2)(a) substituted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/11); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1))
+[^c-b68aaf69797787efea33aa756d2f70a2]: Textual amendment: Words in s. 49(2)(a) substituted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/11); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1))
 
 [^c9532641]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17).
 
@@ -108,14 +108,14 @@ and “**associated employer**” shall be construed accordingly.
 
 [^c9532651]: Marginal citation: [S.I. 1996/1921 (N.I.18)](https://www.legislation.gov.uk/nisi/1996/1921).
 
-[^key-51e41c816f8ce8159030db7f401e9134]: Textual amendment: Words in s. 49(3)(a) substituted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/5)
+[^c-51e41c816f8ce8159030db7f401e9134]: Textual amendment: Words in s. 49(3)(a) substituted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/5)
 
 [^c9532661]: Marginal citation: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17).
 
 [^c9532671]: Marginal citation: [S.I. 1996/1921 (N.I.18)](https://www.legislation.gov.uk/nisi/1996/1921).
 
-[^key-3e96b9ba8b26dab3094145e4e7817111]: Textual amendment: Word in s. 49(3)(4) substituted (29.7.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 23(3)(a)](https://www.legislation.gov.uk/ukpga/2013/24/section/23/3/a), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/c)
+[^c-3e96b9ba8b26dab3094145e4e7817111]: Textual amendment: Word in s. 49(3)(4) substituted (29.7.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 23(3)(a)](https://www.legislation.gov.uk/ukpga/2013/24/section/23/3/a), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/c)
 
-[^key-e3677ead21245b668acf36e5308197e0]: Textual amendment: S. 49(7)(a) substituted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 126](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/126) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h)
+[^c-e3677ead21245b668acf36e5308197e0]: Textual amendment: S. 49(7)(a) substituted (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 126](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/126) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h)
 
-[^key-6a8af2eeb3735eb2b6a70d5d7c231cec]: Textual amendment: S. 49(8A) inserted (29.7.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2013/24/section/23/3/b), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/c)
+[^c-6a8af2eeb3735eb2b6a70d5d7c231cec]: Textual amendment: S. 49(8A) inserted (29.7.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 23(3)(b)](https://www.legislation.gov.uk/ukpga/2013/24/section/23/3/b), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/1648](https://www.legislation.gov.uk/uksi/2013/1648), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1648/article/2/c)

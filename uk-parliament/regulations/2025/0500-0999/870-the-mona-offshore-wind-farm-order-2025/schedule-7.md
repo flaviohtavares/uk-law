@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — Land of which only temporary possession may be taken[^key-1b444f46dd99505f719eae5dfe812eaf]
+## SCHEDULE 7 — Land of which only temporary possession may be taken[^c-1b444f46dd99505f719eae5dfe812eaf]
 
 *Extent: E+W*
 
 Article 28
 
-[^key-1b444f46dd99505f719eae5dfe812eaf]
+[^c-1b444f46dd99505f719eae5dfe812eaf]
 
 In the County of Conwy:
 
@@ -36,7 +36,7 @@ In the County of Conwy:
 | 03-052, 03-055, 03-057, 03-058, 04-068, 04-069, 04-071, 04-076 | Access to Work No. 12 during construction | Work Nos. 12 and 12a |
 | 05-094, 05-095, 06-099, 06-102, 06-104 | Temporary construction compounds and laydown areas with a total maximum area of 37,500 square metres and access to Work Nos. 12 and 14 during construction including works to the public highway and visibility splays | Work Nos. 12, 13 and 14 |
 
-[^key-1b444f46dd99505f719eae5dfe812eaf]
+[^c-1b444f46dd99505f719eae5dfe812eaf]
 
 In the County of Denbighshire:
 
@@ -52,4 +52,4 @@ In the County of Denbighshire:
 
 ## Annotations
 
-[^key-1b444f46dd99505f719eae5dfe812eaf]: Commencement: Sch. 7 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-1b444f46dd99505f719eae5dfe812eaf]: Commencement: Sch. 7 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Repeals[^c1751904][^key-17558d3bea57480babad718c5902631b][^key-361fc3e9492f6a6c1ca326c88a6b958b][^key-a8b6933c7711a90fd68982ad49df7140][^key-8cd133da84999258e4b86e9bf76ec3d0]
+## SCHEDULE 5 — Repeals[^c1751904][^c-17558d3bea57480babad718c5902631b][^c-361fc3e9492f6a6c1ca326c88a6b958b][^c-a8b6933c7711a90fd68982ad49df7140][^c-8cd133da84999258e4b86e9bf76ec3d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,10 +50,10 @@ Section 65
 
 [^c1751904]: Commencement: Specified repeal in force at Royal Assent, but Sch. 5 not otherwise in force at Royal Assent, see [s. 66(2)(d)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2/d)
 
-[^key-17558d3bea57480babad718c5902631b]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5) in force for specified purposes at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(n)](https://www.legislation.gov.uk/uksi/2007/858/article/2/n)
+[^c-17558d3bea57480babad718c5902631b]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5) in force for specified purposes at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(n)](https://www.legislation.gov.uk/uksi/2007/858/article/2/n)
 
-[^key-361fc3e9492f6a6c1ca326c88a6b958b]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5) in force for specified purposes at 1.10.2007 by [S.I. 2007/2518](https://www.legislation.gov.uk/uksi/2007/2518), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/2518/article/3/c)
+[^c-361fc3e9492f6a6c1ca326c88a6b958b]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5) in force for specified purposes at 1.10.2007 by [S.I. 2007/2518](https://www.legislation.gov.uk/uksi/2007/2518), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/2518/article/3/c)
 
-[^key-a8b6933c7711a90fd68982ad49df7140]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5) in force for specified purposes at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(f)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/f)
+[^c-a8b6933c7711a90fd68982ad49df7140]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5) in force for specified purposes at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 4(f)](https://www.legislation.gov.uk/uksi/2007/2180/article/4/f)
 
-[^key-8cd133da84999258e4b86e9bf76ec3d0]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5) in force at 1.4.2008 for specified purposes by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/791/article/2/e)
+[^c-8cd133da84999258e4b86e9bf76ec3d0]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5) in force at 1.4.2008 for specified purposes by [S.I. 2008/791](https://www.legislation.gov.uk/uksi/2008/791), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/791/article/2/e)

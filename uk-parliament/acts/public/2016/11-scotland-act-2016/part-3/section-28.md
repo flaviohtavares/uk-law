@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Power to create other new benefits[^key-50f49447a68a8327333235926665f5ac]
+## 28. Power to create other new benefits[^c-50f49447a68a8327333235926665f5ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50f49447a68a8327333235926665f5ac]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2016/11/section/28) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/e)
+[^c-50f49447a68a8327333235926665f5ac]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2016/11/section/28) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/e)

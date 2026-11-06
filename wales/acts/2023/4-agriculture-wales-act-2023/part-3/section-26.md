@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Meaning of “agri-food supply chain”[^key-37d0e1ea4dc22d84aa71631269747516][^key-14d43797b291bba37a700f867562d466]
+## 26. Meaning of “agri-food supply chain”[^c-37d0e1ea4dc22d84aa71631269747516][^c-14d43797b291bba37a700f867562d466]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37d0e1ea4dc22d84aa71631269747516]: Commencement: S. 26 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
+[^c-37d0e1ea4dc22d84aa71631269747516]: Commencement: S. 26 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
 
-[^key-14d43797b291bba37a700f867562d466]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2023/4/section/26) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)
+[^c-14d43797b291bba37a700f867562d466]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2023/4/section/26) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)

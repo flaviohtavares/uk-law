@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 86. Recoupment of subsidy in certain cases.[^key-6f8f395f7b820e8da429c3a8a9162a00]
+## 86. Recoupment of subsidy in certain cases.[^c-6f8f395f7b820e8da429c3a8a9162a00]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f8f395f7b820e8da429c3a8a9162a00]: Textual amendment: [S. 86](https://www.legislation.gov.uk/ukpga/1989/42/section/86) omitted (20.3.2019) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 131(3)(f)](https://www.legislation.gov.uk/anaw/2014/7/section/131/3/f), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2019/553](https://www.legislation.gov.uk/wsi/2019/553), [art. 2](https://www.legislation.gov.uk/wsi/2019/553/article/2)
+[^c-6f8f395f7b820e8da429c3a8a9162a00]: Textual amendment: [S. 86](https://www.legislation.gov.uk/ukpga/1989/42/section/86) omitted (20.3.2019) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 131(3)(f)](https://www.legislation.gov.uk/anaw/2014/7/section/131/3/f), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2019/553](https://www.legislation.gov.uk/wsi/2019/553), [art. 2](https://www.legislation.gov.uk/wsi/2019/553/article/2)

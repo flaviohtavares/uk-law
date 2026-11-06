@@ -31,7 +31,7 @@ summary: ''
 
 CHILDREN AND YOUNG PERSONS, WALES
 
-The Children (Secure Accommodation) (Amendment) (Wales) Regulations 2013 (revoked)[^key-7c98b6db764a89cfafb1afcb640ae90a]
+The Children (Secure Accommodation) (Amendment) (Wales) Regulations 2013 (revoked)[^c-7c98b6db764a89cfafb1afcb640ae90a]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 18 April 2013
 
-[^key-7c98b6db764a89cfafb1afcb640ae90a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c98b6db764a89cfafb1afcb640ae90a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-7c98b6db764a89cfafb1afcb640ae90a]
+## 1. Title, commencement and application[^c-7c98b6db764a89cfafb1afcb640ae90a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 6 of the Children (Secure Accommodation) Regulations 1991[^key-7c98b6db764a89cfafb1afcb640ae90a]
+## 2. Amendment of regulation 6 of the Children (Secure Accommodation) Regulations 1991[^c-7c98b6db764a89cfafb1afcb640ae90a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7c98b6db764a89cfafb1afcb640ae90a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c98b6db764a89cfafb1afcb640ae90a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7c98b6db764a89cfafb1afcb640ae90a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c98b6db764a89cfafb1afcb640ae90a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7c98b6db764a89cfafb1afcb640ae90a]: Textual amendment: Regulations revoked (6.4.2016) by [The Children (Secure Accommodation) (Wales) Regulations 2015 (S.I. 2015/1988)](https://www.legislation.gov.uk/uksi/2015/1988), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1988/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2015/1988/regulation/18/b)
+[^c-7c98b6db764a89cfafb1afcb640ae90a]: Textual amendment: Regulations revoked (6.4.2016) by [The Children (Secure Accommodation) (Wales) Regulations 2015 (S.I. 2015/1988)](https://www.legislation.gov.uk/uksi/2015/1988), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1988/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2015/1988/regulation/18/b)

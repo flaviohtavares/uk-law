@@ -47,9 +47,9 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 These Regulations may be cited as the Social Security Amendment (Carer Premium) Regulations 2002 and shall come into force on 28th October 2002.
 
-## 2. Income Support, ...: Carer Premium Run-on[^key-cf4119b63d17427d6dd0cd1cc13d838a]
+## 2. Income Support, ...: Carer Premium Run-on[^c-cf4119b63d17427d6dd0cd1cc13d838a]
 
-In paragraph 14ZA of Schedule 2 to the Income Support (General) Regulations 1987 [^c961335], [^key-e48c503d4b88aa8fb1fc55e7d0c3d173].........
+In paragraph 14ZA of Schedule 2 to the Income Support (General) Regulations 1987 [^c961335], [^c-e48c503d4b88aa8fb1fc55e7d0c3d173].........
 
 - (a) for sub-paragraph (3) there shall be substituted the following sub-paragraphs—
 
@@ -155,11 +155,11 @@ These Regulations do not impose any charge on business.
 
 [^c961334]: Marginal citation: See sections 170 and 173(1)(b) of the Social Security Administration Act 1992 (c .5); [paragraph 67](https://www.legislation.gov.uk/uksi/2002/2020/paragraph/67) of Schedule 2 to the Jobseekers Act 1995 added that Act to the list of “relevant enactments” in respect of which regulations must normally be referred to the Committee.
 
-[^key-cf4119b63d17427d6dd0cd1cc13d838a]: Textual amendment: Words in reg. 2 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-cf4119b63d17427d6dd0cd1cc13d838a]: Textual amendment: Words in reg. 2 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c961335]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). Paragraph 14ZA was inserted by [S.I. 1990/1776](https://www.legislation.gov.uk/uksi/1990/1776). The relevant amending Instruments are [S.I. 1991/1559](https://www.legislation.gov.uk/uksi/1991/1559), [S.I](https://www.legislation.gov.uk/uksi/1991/1559/section/I). 1991/2742 and [S.I. 2000/681](https://www.legislation.gov.uk/uksi/2000/681).
 
-[^key-e48c503d4b88aa8fb1fc55e7d0c3d173]: Textual amendment: Words in reg. 2 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-e48c503d4b88aa8fb1fc55e7d0c3d173]: Textual amendment: Words in reg. 2 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c961338]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Jurisdiction for offence under section 113 of the Anti-terrorism, Crime and Security Act 2001[^key-40ccce1a106d9591185cd6a8da4cf5c2]
+## 53. Jurisdiction for offence under section 113 of the Anti-terrorism, Crime and Security Act 2001[^c-40ccce1a106d9591185cd6a8da4cf5c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ After section 113 of the Anti-terrorism, Crime and Security Act 2001 (c. 24) (us
 
 ## Annotations
 
-[^key-40ccce1a106d9591185cd6a8da4cf5c2]: Commencement: S. 53 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-40ccce1a106d9591185cd6a8da4cf5c2]: Commencement: S. 53 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

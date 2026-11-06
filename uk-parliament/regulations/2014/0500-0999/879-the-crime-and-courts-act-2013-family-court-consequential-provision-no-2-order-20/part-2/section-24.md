@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Amendments to the Parental Responsibility Agreement Regulations 1991[^key-2e5fe707203acd1e45671c7d7cb0a133]
+## 24. Amendments to the Parental Responsibility Agreement Regulations 1991[^c-2e5fe707203acd1e45671c7d7cb0a133]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In the notes to the forms C(PRA1), C(PRA2) and C(PRA3) in the Schedule to the Pa
 
 ## Annotations
 
-[^key-2e5fe707203acd1e45671c7d7cb0a133]: Commencement: Art. 24 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-2e5fe707203acd1e45671c7d7cb0a133]: Commencement: Art. 24 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00009]: Footnote: [S.I. 1991/1478](https://www.legislation.gov.uk/uksi/1991/1478). [S.I. 2009/2026](https://www.legislation.gov.uk/uksi/2009/2026) makes relevant amendments.

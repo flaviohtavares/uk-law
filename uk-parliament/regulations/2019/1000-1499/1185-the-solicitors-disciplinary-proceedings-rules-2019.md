@@ -46,11 +46,11 @@ The Legal Services Board has approved the Rules in accordance with section 178 o
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-4e99077c18b7cc91334ceb458d0db836]
+### 1. Citation and commencement[^c-4e99077c18b7cc91334ceb458d0db836]
 
 These Rules may be cited as the Solicitors (Disciplinary Proceedings) Rules 2019 and come into force on 25th November 2019.
 
-### 2. Scope[^key-16064ed024304a9d33c35a3927346e7f]
+### 2. Scope[^c-16064ed024304a9d33c35a3927346e7f]
 
 These Rules apply to—
 
@@ -69,7 +69,7 @@ These Rules apply to—
   - (vii) section 37(4) of the 1974 Act (complaint in respect of failure by solicitor to comply with indemnity rules);
   - (viii) section 44(2) of the 1974 Act (complaint in respect of contravention of order under section 43(2) in respect of solicitors’ employees and consultants).
 
-### 3. Interpretation[^key-a4c6c64695a51b9a2aca5f8e8a115c13]
+### 3. Interpretation[^c-a4c6c64695a51b9a2aca5f8e8a115c13]
 
 (1) In these Rules—
 
@@ -86,7 +86,7 @@ These Rules apply to—
 - “case to answer” means an arguable case;
 - “clerk” means any clerk appointed under rules 8(1) and (2);
 - “the Clerk to the Tribunal” means the Clerk to the Tribunal who is in office at the date these Rules come into force, or the Clerk to the Tribunal subsequently appointed under rule 8(1);
-- [^key-f23a83dde427564f3791ef311ab2ba06]“a lay application” means an application other than one—
+- [^c-f23a83dde427564f3791ef311ab2ba06]“a lay application” means an application other than one—
   - (a) made by the Society; or
   - (b) to which Chapter 2 of Part 3 of these Rules applies;
 - “panel” means a panel appointed under rule 9(1) for the hearing of an application or any matter connected with an application;
@@ -109,22 +109,22 @@ These Rules apply to—
 
 (3) References in these Rules to registered foreign lawyers are references to lawyers whose names are entered in the register of foreign lawyers maintained under section 89 of the Courts and Legal Services Act 1990[^f00007] and include, where appropriate, those who have ceased to be registered in that register or whose registration has been suspended.
 
-(4)[^key-0ee73001401e6042a55681d052f624a7] Subject to paragraph (5), references in these Rules to registered European lawyers are references to—
+(4)[^c-0ee73001401e6042a55681d052f624a7] Subject to paragraph (5), references in these Rules to registered European lawyers are references to—
 
 - (a) those lawyers—
   - (i) whose names were entered in the register of registered European lawyers maintained by the Society under regulation 15 of the European Communities (Lawyer’s Practice) Regulations 2000, as it had effect immediately before IP completion day, at a time before IP completion day, but
   - (ii) in relation to whom regulation 6 of the Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 does not apply;
 - (b) those lawyers whose names are entered in the register of registered European lawyers maintained by the Society under regulation 15 of the European Communities (Lawyer’s Practice) Regulations 2000, as that regulation has effect by virtue of regulation 6 of the Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 and includes, where appropriate, those who have ceased to be registered in that register or whose registration has been suspended.
 
-(5) During the period[^key-1ee44802a711653ae1c5bec045596d52] when these Rules are in force before IP completion day[^key-fdb8dc30472686b7cf525341e6e46876], references in these Rules to registered European lawyers are references to lawyers whose names are entered in the register of European lawyers maintained by the Society under regulation 15 of the European Communities (Lawyer’s Practice) Regulations 2000[^f00010] and include, where appropriate, those who have ceased to be registered in that register or whose registration has been suspended.
+(5) During the period[^c-1ee44802a711653ae1c5bec045596d52] when these Rules are in force before IP completion day[^c-fdb8dc30472686b7cf525341e6e46876], references in these Rules to registered European lawyers are references to lawyers whose names are entered in the register of European lawyers maintained by the Society under regulation 15 of the European Communities (Lawyer’s Practice) Regulations 2000[^f00010] and include, where appropriate, those who have ceased to be registered in that register or whose registration has been suspended.
 
-(6)[^key-01c8ba04f1299004b67e1a6b46afde72] Reference in these Rules to registered Swiss qualified lawyers undertaking an adaptation period are references to those lawyers whose names were entered on the register of Swiss qualified lawyers undertaking an adaptation period maintained by the Society under regulation 9A of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023.
+(6)[^c-01c8ba04f1299004b67e1a6b46afde72] Reference in these Rules to registered Swiss qualified lawyers undertaking an adaptation period are references to those lawyers whose names were entered on the register of Swiss qualified lawyers undertaking an adaptation period maintained by the Society under regulation 9A of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023.
 
-### 4. The overriding objective[^key-7f7487512e49be9db2d11023aa089495]
+### 4. The overriding objective[^c-7f7487512e49be9db2d11023aa089495]
 
 (1) The overriding objective of these Rules is to enable the Tribunal to deal with cases justly and at proportionate cost.
 
-(2) The Tribunal must[^key-297e49aebf542d8c01a8872194d4512c] seek to give effect to the overriding objective when it—
+(2) The Tribunal must[^c-297e49aebf542d8c01a8872194d4512c] seek to give effect to the overriding objective when it—
 
 - (a) exercises any power under these Rules; or
 - (b) interprets any rule or practice direction.
@@ -138,11 +138,11 @@ These Rules apply to—
 
 (4) The parties are required to help the Tribunal to further the overriding objective set out above.
 
-### 5. Standard of proof[^key-f1e5e4f4087ae3d1e2a555ef797624aa]
+### 5. Standard of proof[^c-f1e5e4f4087ae3d1e2a555ef797624aa]
 
-The standard of proof that must[^key-e00f6f1eff76750c8a7724e1167da40a] be applied to proceedings considered under these Rules is the civil standard of proof[^key-5effcc23dca4f09aa60358fd42cae5a8].
+The standard of proof that must[^c-e00f6f1eff76750c8a7724e1167da40a] be applied to proceedings considered under these Rules is the civil standard of proof[^c-5effcc23dca4f09aa60358fd42cae5a8].
 
-### 6. Regulation of procedure and practice directions[^key-da8f86d5c9b5c58462534f41302321e0]
+### 6. Regulation of procedure and practice directions[^c-da8f86d5c9b5c58462534f41302321e0]
 
 (1) Subject to the provisions of the 1974 Act, these Rules and any other enactment, the Tribunal may regulate its own procedure.
 
@@ -154,7 +154,7 @@ The standard of proof that must[^key-e00f6f1eff76750c8a7724e1167da40a] be applie
 
 ## PART 2 — Constitution
 
-### 7. President and Vice Presidents[^key-eb42d1405d1135ee7000e9e1efe5be1f]
+### 7. President and Vice Presidents[^c-eb42d1405d1135ee7000e9e1efe5be1f]
 
 (1) The President holding office at the date these Rules come into force may not hold the office of President for a total period exceeding six years and will only be eligible for re-election as President if he or she has not previously been re-elected as President.
 
@@ -164,7 +164,7 @@ The standard of proof that must[^key-e00f6f1eff76750c8a7724e1167da40a] be applie
 
 (4) The Tribunal must meet at least once in each calendar year and must publish an annual report, a copy of which must be sent to the Master of the Rolls, the Society and the Legal Services Board.
 
-### 8. The Clerk to the Tribunal and other clerks and staff[^key-e4e54f97822995a959ae172a2db42b6e]
+### 8. The Clerk to the Tribunal and other clerks and staff[^c-e4e54f97822995a959ae172a2db42b6e]
 
 (1) The Tribunal must appoint a Clerk to the Tribunal.
 
@@ -195,7 +195,7 @@ The standard of proof that must[^key-e00f6f1eff76750c8a7724e1167da40a] be applie
 - (i) determining applications in respect of substituted service (see rule 46);
 - (j) drawing orders and findings and sending them to the Society.
 
-### 9. Composition of panels[^key-ad289ab8e853ea5f69eb9e0ba78eff33]
+### 9. Composition of panels[^c-ad289ab8e853ea5f69eb9e0ba78eff33]
 
 (1) The Tribunal must appoint a panel of three members of the Tribunal for the hearing of any application. Two of the panel members must be solicitor members and one must be a lay member.
 
@@ -203,7 +203,7 @@ The standard of proof that must[^key-e00f6f1eff76750c8a7724e1167da40a] be applie
 
 (3) If the President does not appoint a chair of a panel, a solicitor member must act as the chair.
 
-### 10. Functions exercisable by a single solicitor member[^key-37649c47532bf06b53dde0553479fe78]
+### 10. Functions exercisable by a single solicitor member[^c-37649c47532bf06b53dde0553479fe78]
 
 A single solicitor member may exercise the functions set out in—
 
@@ -215,7 +215,7 @@ A single solicitor member may exercise the functions set out in—
 
 ### CHAPTER 1 — Applications by the Law Society and lay applications
 
-#### 11. Application of Rules in Chapter 1[^key-6fc3f1face9a5cfada8b2626341c9c94]
+#### 11. Application of Rules in Chapter 1[^c-6fc3f1face9a5cfada8b2626341c9c94]
 
 (1) Rules 12, 13 and 14 apply to applications made by the Society and to lay applications.
 
@@ -223,7 +223,7 @@ A single solicitor member may exercise the functions set out in—
 
 (3) Rule 16 applies to lay applications.
 
-#### 12. Method and form of application[^key-37ac7a4179d5c3463d2ccef163f2d269]
+#### 12. Method and form of application[^c-37ac7a4179d5c3463d2ccef163f2d269]
 
 (1) An application to which this Rule applies must be sent to the Tribunal offices and must be made using the prescribed form.
 
@@ -237,7 +237,7 @@ A single solicitor member may exercise the functions set out in—
 
 (4) In the case of a lay application, the application must be accompanied by three copies of the application and supporting documents and one further copy for any second and each further respondent.
 
-#### 13. Certification of case to answer[^key-302e24c677ed2a7a41e442ff403c5d2f]
+#### 13. Certification of case to answer[^c-302e24c677ed2a7a41e442ff403c5d2f]
 
 (1) An application made in accordance with rule 12 must initially be considered by a solicitor member (“the initial solicitor member”) for consideration of the question of whether there is a case to answer in respect of the allegations made in the application.
 
@@ -249,9 +249,9 @@ A single solicitor member may exercise the functions set out in—
 
 (5) If a panel or solicitor member certifies that a case to answer is established in respect of all or any of the allegations made, a clerk must serve a copy of each of the documents referred to in rule 12(3) or (4), as the case may be, on each respondent.
 
-#### 14. Supplementary Statements[^key-e7f9bc685201cd6ba5b0292ddf59a411]
+#### 14. Supplementary Statements[^c-e7f9bc685201cd6ba5b0292ddf59a411]
 
-(1) An applicant who has made an application to which this Rule applies may, subject to paragraph (5)[^key-809dcf19252bcd122f78becc34a3323a], send supplementary statements to the Tribunal containing additional facts or matters on which the applicant seeks to rely or further allegations in support of the application.
+(1) An applicant who has made an application to which this Rule applies may, subject to paragraph (5)[^c-809dcf19252bcd122f78becc34a3323a], send supplementary statements to the Tribunal containing additional facts or matters on which the applicant seeks to rely or further allegations in support of the application.
 
 (2) A supplementary statement must be supported by a Statement setting out any new allegations, facts and matters supporting the application and each allegation contained within it and exhibiting any new documents relied upon by the applicant.
 
@@ -271,16 +271,16 @@ A single solicitor member may exercise the functions set out in—
 
 (6) Rule 13 applies in respect of any supplementary statement containing additional facts or matters on which the applicant seeks to rely or further allegations in support of the application as it applies to an application made in accordance with rule 12.
 
-#### 15. Applications in respect of solicitors’ employees[^key-71adbe48cf57d5247f3139951a93fbd0]
+#### 15. Applications in respect of solicitors’ employees[^c-71adbe48cf57d5247f3139951a93fbd0]
 
 In a case where an application is made for an order under section 43(2) of the 1974 Act, the solicitor, recognised body, registered European lawyer or registered foreign lawyer by or for whose benefit the respondent is employed or remunerated—
 
 - (a) may also be named or joined as a respondent to the application; and
 - (b) must be joined as a respondent to the application if the Tribunal so directs.
 
-#### 16. Adjournment of application pending Law Society investigation[^key-b11527c6ad615209741352f8ed733045]
+#### 16. Adjournment of application pending Law Society investigation[^c-b11527c6ad615209741352f8ed733045]
 
-(1) The Tribunal[^key-30c2a65d68807e90c906205ca40aa6fa] may adjourn the consideration of the question of whether to certify any application to which this Rule applies for an initial period of up to three months to enable the Society to carry out its own investigations and consider whether to—
+(1) The Tribunal[^c-30c2a65d68807e90c906205ca40aa6fa] may adjourn the consideration of the question of whether to certify any application to which this Rule applies for an initial period of up to three months to enable the Society to carry out its own investigations and consider whether to—
 
 - (a) initiate its own application; or
 - (b) by agreement with the applicant, take over conduct of the application.
@@ -291,13 +291,13 @@ In a case where an application is made for an order under section 43(2) of the 1
 
 ### CHAPTER 2 — Applications by solicitors, etc.
 
-#### 17. Applications for restoration and termination of indefinite suspension[^key-9c65688583ff02eb91400208eb33e765]
+#### 17. Applications for restoration and termination of indefinite suspension[^c-9c65688583ff02eb91400208eb33e765]
 
-(1) This Rule applies to applications made to the Tribunal under section 47 of the 1974 Act[^key-1c5331b0d5e040f090d348e080da0301] by—
+(1) This Rule applies to applications made to the Tribunal under section 47 of the 1974 Act[^c-1c5331b0d5e040f090d348e080da0301] by—
 
 - (a) a former solicitor seeking restoration to the Roll of Solicitors kept by the Society under section 6 the 1974 Act[^f00011];
-- (b) a person seeking restoration to the register of Swiss qualified lawyers undertaking an adaptation period,[^key-3886118d2cd57c96837ceebe9195b57f] the register of European lawyers or the register of foreign lawyers if his name has been withdrawn or removed from that register (whichever is relevant)[^key-d8707a3fdf1d1dc53c10d21b9118d14e] by the Tribunal;
-- (c) a solicitor, registered Swiss qualified lawyer undertaking an adaptation period,[^key-35e82370f64ea1986440e64799deed3e] registered European lawyer or registered foreign lawyer seeking the termination of an indefinite period of suspension from practice imposed by the Tribunal.
+- (b) a person seeking restoration to the register of Swiss qualified lawyers undertaking an adaptation period,[^c-3886118d2cd57c96837ceebe9195b57f] the register of European lawyers or the register of foreign lawyers if his name has been withdrawn or removed from that register (whichever is relevant)[^c-d8707a3fdf1d1dc53c10d21b9118d14e] by the Tribunal;
+- (c) a solicitor, registered Swiss qualified lawyer undertaking an adaptation period,[^c-35e82370f64ea1986440e64799deed3e] registered European lawyer or registered foreign lawyer seeking the termination of an indefinite period of suspension from practice imposed by the Tribunal.
 
 (2) An application to which this Rule applies must be sent to the Tribunal and must be made using the prescribed form.
 
@@ -314,7 +314,7 @@ In a case where an application is made for an order under section 43(2) of the 1
 
 (7) Any person may, no later than 21 days before the hearing date of an application to which this Rule applies, serve on the Tribunal and the parties to the application notice of that person’s intention to oppose the allowing of the application and the Tribunal may allow the person to appear before it at the hearing of the application, call evidence and make representations upon which the Tribunal may allow the person to be cross-examined.
 
-#### 18. Application to vary or remove conditions on practice[^key-e0efe892d26bc73981280706c3b1f526]
+#### 18. Application to vary or remove conditions on practice[^c-e0efe892d26bc73981280706c3b1f526]
 
 (1) This Rule applies to applications made to the Tribunal to vary or remove conditions on practice imposed by the Tribunal.
 
@@ -324,7 +324,7 @@ In a case where an application is made for an order under section 43(2) of the 1
 
 (4) The Society must be a respondent to any application to which this Rule applies.
 
-#### 19. Application for review of order relating to solicitors’ employees and consultants[^key-07be83dc395c7fa826929ba2c0306cdd]
+#### 19. Application for review of order relating to solicitors’ employees and consultants[^c-07be83dc395c7fa826929ba2c0306cdd]
 
 (1) An application for a review of an order made under section 43(3)(a) of the 1974 Act must be sent to the Tribunal and must be made using the prescribed form.
 
@@ -334,7 +334,7 @@ In a case where an application is made for an order under section 43(2) of the 1
 
 ## PART 4 — CASE MANAGEMENT
 
-### 20. Standard Directions[^key-c4462e067aa73721bd7765adbe904602]
+### 20. Standard Directions[^c-c4462e067aa73721bd7765adbe904602]
 
 (1) Following certification of a case to answer under rule 13, standard directions must be issued by a clerk and sent to the parties.
 
@@ -350,7 +350,7 @@ In a case where an application is made for an order under section 43(2) of the 1
 - (h) the date by which hearing bundles (and the number of copies) must be sent to the Tribunal;
 - (i) any other standard direction which the Tribunal considers appropriate to ensure the management of matters in accordance with the overriding objective of these Rules mentioned in rule 4.
 
-(3) If a party fails to comply with the standard directions, any other direction or any of these Rules, the matter may be listed for a non-compliance hearing before a clerk, who may[^key-e4f601344c07612ee1c9458baaa69bb3] make appropriate directions, which may include listing the matter before the Tribunal which may direct that—
+(3) If a party fails to comply with the standard directions, any other direction or any of these Rules, the matter may be listed for a non-compliance hearing before a clerk, who may[^c-e4f601344c07612ee1c9458baaa69bb3] make appropriate directions, which may include listing the matter before the Tribunal which may direct that—
 
 - (a) evidence which has not been sent or served as directed may not be relied upon without permission of the Tribunal;
 - (b) an adverse costs order be made in default of compliance, which may be ordered to be paid immediately to any other party;
@@ -366,7 +366,7 @@ In a case where an application is made for an order under section 43(2) of the 1
   - (ii) setting out what, if any, further directions are required by the parties; and
   - (iii) setting out whether the time estimate for the final hearing is the same as was anticipated when standard directions were issued or at any subsequent case management hearing, or otherwise providing a revised time estimate.
 
-### 21. Case management hearings[^key-662e5056f23d27006da054a65d5afedd]
+### 21. Case management hearings[^c-662e5056f23d27006da054a65d5afedd]
 
 (1) A case management hearing must be arranged by the Tribunal or a clerk in cases where—
 
@@ -381,7 +381,7 @@ In a case where an application is made for an order under section 43(2) of the 1
 
 (5) If on receipt of a list of witnesses (see rule 20(2)(d)) or a statement of readiness (see rule 20(2)(g)) a clerk considers that a further case management hearing is required, a further case management hearing date may be fixed so that any further directions can be made.
 
-### 22. Procedural applications[^key-23d532ec1eb08839b7c4aedeed5c3995]
+### 22. Procedural applications[^c-23d532ec1eb08839b7c4aedeed5c3995]
 
 (1) Any procedural application must be—
 
@@ -390,7 +390,7 @@ In a case where an application is made for an order under section 43(2) of the 1
 
 (2) The Tribunal, single solicitor member or clerk must issue written reasons for its decisions on procedural applications.
 
-(3) Any party aggrieved by a decision of a clerk under rule 8(6)[^key-59396f5017f8af3ca742db3ba767d2db] may request that the application be re-determined by a panel or single solicitor member by notifying the Tribunal of this request within 14 days of receipt of the written reasons for the decision.
+(3) Any party aggrieved by a decision of a clerk under rule 8(6)[^c-59396f5017f8af3ca742db3ba767d2db] may request that the application be re-determined by a panel or single solicitor member by notifying the Tribunal of this request within 14 days of receipt of the written reasons for the decision.
 
 (4) In this rule, a “procedural application” means an application for—
 
@@ -403,7 +403,7 @@ In a case where an application is made for an order under section 43(2) of the 1
 - (g) a direction that a witness or respondent may give their evidence or otherwise participate in the proceedings by videolink or other electronic means;
 - (h) any other procedural application, including an application for a stay of proceedings for abuse of process, and general applications to exclude or adduce evidence.
 
-### 23. Adjournments[^key-69a4eeae3beb6fc930a9187c05215027]
+### 23. Adjournments[^c-69a4eeae3beb6fc930a9187c05215027]
 
 (1) An application for an adjournment of the hearing of an application must be supported by documentary evidence of the need for the adjournment.
 
@@ -411,11 +411,11 @@ In a case where an application is made for an order under section 43(2) of the 1
 
 (3) An application for an adjournment made 21 days or less before the hearing date will be considered by the panel listed to sit on the substantive hearing on the papers unless it is in the interests of justice for the matter to be dealt with at an oral hearing.
 
-### 24. Amendment or withdrawal of allegations[^key-8e3cf4de947aa1090f381841134e5c9c]
+### 24. Amendment or withdrawal of allegations[^c-8e3cf4de947aa1090f381841134e5c9c]
 
 No allegation made in an application may be amended or withdrawn without leave of the Tribunal.
 
-### 25. Agreed Outcome Proposals[^key-fc3993c92c59f1135dd9b3ab95cb54a8]
+### 25. Agreed Outcome Proposals[^c-fc3993c92c59f1135dd9b3ab95cb54a8]
 
 (1) The parties may up to 28 days before the substantive hearing of an application (unless the Tribunal directs otherwise) submit to the Tribunal an Agreed Outcome Proposal for approval by the Tribunal.
 
@@ -438,13 +438,13 @@ No allegation made in an application may be amended or withdrawn without leave o
 
 (8) If on considering a submission under this rule the Tribunal decides not to make an Order and the Tribunal does not publish that decision or announce it in an open hearing, no information will be published or announced about the submission save that the Agreed Outcome Proposal was not approved.
 
-### 26. Disclosure and discovery[^key-dc4c08e3ebcd5d83e0429b07087bfe85]
+### 26. Disclosure and discovery[^c-dc4c08e3ebcd5d83e0429b07087bfe85]
 
 (1) If an application is made for the disclosure or discovery of material, the Tribunal may make an order that material be disclosed where it considers that the production of the material is necessary for the proper consideration of an issue in the case, unless the Tribunal considers that there are compelling reasons in the public interest not to order the disclosure.
 
-(2) Any order made by the Tribunal only applies[^key-92d44d92e78a7cad1db4dcaa82cf19d3] to material that is in the possession or under the control of a party.
+(2) Any order made by the Tribunal only applies[^c-92d44d92e78a7cad1db4dcaa82cf19d3] to material that is in the possession or under the control of a party.
 
-(3) An order made under paragraph (1) does not[^key-1453fded3c6c1c9482539ff683036b55] oblige the parties to produce any material which they would be entitled to refuse to produce in proceedings in any court in England and Wales.
+(3) An order made under paragraph (1) does not[^c-1453fded3c6c1c9482539ff683036b55] oblige the parties to produce any material which they would be entitled to refuse to produce in proceedings in any court in England and Wales.
 
 (4) A party to proceedings before the Tribunal is required to disclose only—
 
@@ -457,7 +457,7 @@ No allegation made in an application may be amended or withdrawn without leave o
 
 ## PART 5 — EVIDENCE
 
-### 27. Evidence generally and service and sending of Evidence and bundles[^key-e68af8975301e34f8dbeeca3a7a132b6]
+### 27. Evidence generally and service and sending of Evidence and bundles[^c-e68af8975301e34f8dbeeca3a7a132b6]
 
 (1) Without prejudice to the general powers in Parts 2 and 3 of these Rules the Tribunal may give directions in relation to an application relating to any of the following—
 
@@ -478,13 +478,13 @@ No allegation made in an application may be amended or withdrawn without leave o
 
 (3) Unless otherwise directed by the Tribunal, in cases where the Society is the applicant, it must send five copies of a paginated hearing bundle to the Tribunal no later than 14 days before the date listed for the substantive hearing.
 
-### 28. Written Evidence[^key-1055ee36aa0a154da945a8ccc53125f8]
+### 28. Written Evidence[^c-1055ee36aa0a154da945a8ccc53125f8]
 
 (1) If no party requires the attendance of a witness, the Tribunal may accept the Statement of that witness as evidence in respect of the whole case or of any particular fact or facts.
 
 (2) Every Statement upon which any party proposes to rely must be sent to the Tribunal by that party and served on every other party on a date determined by the Tribunal which must be no less than 28 days before the date fixed for the hearing of the application. The Statement must be accompanied by a notice, using the prescribed form.
 
-(3) Any party on whom a notice has been served under paragraph (2) and who requires the attendance of the witness in question at the hearing must, no later than seven days after service of the notice require, in writing, the party by whom the notice was served[^key-4f9c1f7b0663266061579c0787ce77a8] to produce the witness at the hearing.
+(3) Any party on whom a notice has been served under paragraph (2) and who requires the attendance of the witness in question at the hearing must, no later than seven days after service of the notice require, in writing, the party by whom the notice was served[^c-4f9c1f7b0663266061579c0787ce77a8] to produce the witness at the hearing.
 
 (4) Any application for a witness summons must be made to the High Court.
 
@@ -499,13 +499,13 @@ No allegation made in an application may be amended or withdrawn without leave o
 
 (8) If the recipient of a notice given under paragraph (6) does not give a notice in response within the period mentioned in paragraph (7), that recipient is deemed to have admitted the document unless otherwise ordered by the Tribunal.
 
-### 29. Civil Evidence Act notices[^key-f239d78c42127a0d672e24fc9e290d34]
+### 29. Civil Evidence Act notices[^c-f239d78c42127a0d672e24fc9e290d34]
 
-(1) Subject to the following provision[^key-e57470cbb6523db24dbeb7a0889a40ed] of this Rule, the provisions of[^key-a22c54b66875548b5bc057eb204f361d] the Civil Evidence Act 1995**(a)** apply in relation to proceedings before the Tribunal in the same manner as they apply in relation to civil proceedings.
+(1) Subject to the following provision[^c-e57470cbb6523db24dbeb7a0889a40ed] of this Rule, the provisions of[^c-a22c54b66875548b5bc057eb204f361d] the Civil Evidence Act 1995**(a)** apply in relation to proceedings before the Tribunal in the same manner as they apply in relation to civil proceedings.
 
 (2) Any notice given under the provisions of the Civil Evidence Act 1995 as so applied must be given no later than the latest date for the service of witness statements under rule 28.
 
-### 30. Expert evidence[^key-3d5b460e19378b08604abd217f00a402]
+### 30. Expert evidence[^c-3d5b460e19378b08604abd217f00a402]
 
 (1) No party may call an expert or adduce in evidence an expert’s report at the substantive hearing of an application without leave of the Tribunal.
 
@@ -523,24 +523,24 @@ No allegation made in an application may be amended or withdrawn without leave o
 - (b) the substance of all material instructions (including a general description of the documents provided), whether written or oral, on the basis of which the Statement was written;
 - (c) a declaration that the expert understands and has complied with the expert’s duty to assist the Tribunal on matters within the expert’s expertise and understands that this duty overrides any obligation to any party from whom the expert has received instructions or by whom they are paid.
 
-### 31. Interpreters and Translators[^key-bc8f34d07b30eb414ad473fa6a495763]
+### 31. Interpreters and Translators[^c-bc8f34d07b30eb414ad473fa6a495763]
 
-(1) If any witness , applicant[^key-2e47cf07ab7712c310c28acda3e1de56] or respondent requires the assistance of an interpreter to participate in a hearing the Tribunal must be notified of this fact by the party requiring the interpreter when sending the list of witnesses.
+(1) If any witness , applicant[^c-2e47cf07ab7712c310c28acda3e1de56] or respondent requires the assistance of an interpreter to participate in a hearing the Tribunal must be notified of this fact by the party requiring the interpreter when sending the list of witnesses.
 
 (2) Where a witness statement has been translated from a language other than English it must be accompanied by a Statement confirming—
 
 - (a) the language in which the original witness statement was made; and
 - (b) that the translator has translated the witness statement into English to the best of the translator’s skill and understanding.
 
-### 32. Previous findings of record[^key-dc5933e821ce05b2497276e4b2083ee4]
+### 32. Previous findings of record[^c-dc5933e821ce05b2497276e4b2083ee4]
 
 (1) A conviction for a criminal offence in the United Kingdom may be proved by the production of a certified copy of the certificate of conviction relating to the offence and proof of a conviction will constitute evidence that the person in question was guilty of the offence. The findings of fact upon which that conviction was based will be admissible as conclusive proof of those facts save in exceptional circumstances.
 
-(2) The judgment of any civil court, or any tribunal exercising a professional or disciplinary jurisdiction, in or outside England and Wales (other than the Tribunal) may be proved by producing a certified copy of the judgment and the findings of fact upon which that judgment was based are admissible[^key-debbebae4f72d327b30fc0c4580927dc] as proof but not conclusive proof of those facts.
+(2) The judgment of any civil court, or any tribunal exercising a professional or disciplinary jurisdiction, in or outside England and Wales (other than the Tribunal) may be proved by producing a certified copy of the judgment and the findings of fact upon which that judgment was based are admissible[^c-debbebae4f72d327b30fc0c4580927dc] as proof but not conclusive proof of those facts.
 
-(3) Where the Tribunal has made a finding based solely upon the certificate of conviction for a criminal offence which is subsequently quashed the Tribunal may, on the application of the Law Society or the respondent to the application in respect of which the finding arose, revoke its finding and make such order as to costs as appears[^key-614ca858549f305c6ba156ab32c23d0f] to be just in the circumstances.
+(3) Where the Tribunal has made a finding based solely upon the certificate of conviction for a criminal offence which is subsequently quashed the Tribunal may, on the application of the Law Society or the respondent to the application in respect of which the finding arose, revoke its finding and make such order as to costs as appears[^c-614ca858549f305c6ba156ab32c23d0f] to be just in the circumstances.
 
-### 33. Adverse inferences[^key-ca12345433967cf66e2d888f6b921904]
+### 33. Adverse inferences[^c-ca12345433967cf66e2d888f6b921904]
 
 Where a respondent fails to—
 
@@ -551,7 +551,7 @@ and regardless of the service by the respondent of a witness statement in the pr
 
 ## PART 6 — HEARINGS AND COSTS
 
-### 34. Publication of cause lists[^key-cb125d0b1b7a83e3380a1c238c85483e]
+### 34. Publication of cause lists[^c-cb125d0b1b7a83e3380a1c238c85483e]
 
 (1) A cause list will be published on the Tribunal’s website before the case is due to be heard.
 
@@ -571,7 +571,7 @@ to a party, a witness or any person affected by the application.
 
 (5) If the Tribunal is satisfied that either of the grounds in paragraph (2) are met, the Tribunal must direct that the cause list be anonymised in such a way that appears to it to be just and proper.
 
-### 35. Public or private hearings[^key-5dacb6ed59672b6668dfab41fc375353]
+### 35. Public or private hearings[^c-5dacb6ed59672b6668dfab41fc375353]
 
 (1) Subject to paragraphs (2), (4), (5) and (6), every hearing of the Tribunal must take place in public.
 
@@ -608,11 +608,11 @@ to a party, a witness or any person affected by the hearing.
 - (a) the disclosure would be likely to cause any person serious harm; and
 - (b) it is in the interests of justice to make such a direction.
 
-### 36. Proceeding in absence[^key-a7fd3dcb2a1f20ebf429292c3df64211]
+### 36. Proceeding in absence[^c-a7fd3dcb2a1f20ebf429292c3df64211]
 
 If a party fails to attend and is not represented at the hearing and the Tribunal is satisfied that notice of the hearing was served on the party in accordance with these Rules, the Tribunal may hear and determine any application and make findings, hand down sanctions, order the payment of costs and make orders as it considers appropriate notwithstanding that the party failed to attend and is not represented at the hearing.
 
-### 37. Application for re-hearing[^key-860d8805d542cb403b523045ffea2d10]
+### 37. Application for re-hearing[^c-860d8805d542cb403b523045ffea2d10]
 
 (1) At any time before the Tribunal’s Order is sent to the Society under rule 42(1) or within 14 days after it is sent, a party may apply to the Tribunal for a re-hearing of an application if—
 
@@ -623,7 +623,7 @@ If a party fails to attend and is not represented at the hearing and the Tribuna
 
 (3) If satisfied that it is just to do so, the Tribunal may grant the application upon such terms, including as to costs, as it thinks fit. The re-hearing must be held before a panel comprised of different members from those who determined the original application.
 
-### 38. Evidence and submissions during the hearing[^key-25a92854ebba026935962de41dc45acb]
+### 38. Evidence and submissions during the hearing[^c-25a92854ebba026935962de41dc45acb]
 
 (1) The Tribunal may consent to a witness giving, or require any witness to give, evidence on oath or affirmation and may administer an oath or affirmation for that purpose.
 
@@ -637,7 +637,7 @@ If a party fails to attend and is not represented at the hearing and the Tribuna
 - (d) the time allowed during the hearing for the presentation of any evidence or submission;
 - (e) the time allowed for cross-examination of a witness.
 
-### 39. Recording of the hearing[^key-e79d2bd8a2d78f9c1a24de4afc210a07]
+### 39. Recording of the hearing[^c-e79d2bd8a2d78f9c1a24de4afc210a07]
 
 (1) All hearings of the Tribunal will be electronically audio-recorded.
 
@@ -645,7 +645,7 @@ If a party fails to attend and is not represented at the hearing and the Tribuna
 
 (3) Where a hearing is held in private, a copy of the electronic recording may only be disclosed to the parties and only on the provision of an undertaking that the recording or any transcript of the hearing or any part of it will not be made public.
 
-### 40. Decisions[^key-2847c0697fb774e1aaa9cbd4e6d24fbf]
+### 40. Decisions[^c-2847c0697fb774e1aaa9cbd4e6d24fbf]
 
 (1) The Tribunal may announce its decision at the conclusion of the hearing or may reserve its decision for announcement at a later date. In either case the announcement must be made in public unless rule 35(8) applies.
 
@@ -653,11 +653,11 @@ If a party fails to attend and is not represented at the hearing and the Tribuna
 
 (3) As soon as reasonably practicable following a case management hearing, the Tribunal will provide to each party a memorandum containing written reasons for its decisions, signed by a member of the Tribunal.
 
-(4) Decisions on applications made during the course of a substantive hearing must[^key-8e9429a1fc575520e0c95139328fe5a0] be announced in a public session and the written reasons must be contained in the judgment issued at the conclusion of the proceedings.
+(4) Decisions on applications made during the course of a substantive hearing must[^c-8e9429a1fc575520e0c95139328fe5a0] be announced in a public session and the written reasons must be contained in the judgment issued at the conclusion of the proceedings.
 
 (5) The Tribunal or a clerk may, at any time, correct a clerical error or omission in a judgment or memorandum.
 
-### 41. Sanction[^key-e28a5b44092daaa723c9f1167a55453f]
+### 41. Sanction[^c-e28a5b44092daaa723c9f1167a55453f]
 
 (1) At the conclusion of the hearing, the Tribunal must make a finding as to whether any or all of the allegations in the application have been substantiated.
 
@@ -668,15 +668,15 @@ If a party fails to attend and is not represented at the hearing and the Tribuna
 
 (3) The respondent will be entitled to make submissions by way of mitigation, including character references, in respect of the sanction, if any, to be imposed by the Tribunal.
 
-(4) The Tribunal must[^key-8bc0f0d008e7e49a773c59fa2f225aa3] have regard to its guidance on sanctions in force at the time when determining the appropriate sanction.
+(4) The Tribunal must[^c-8bc0f0d008e7e49a773c59fa2f225aa3] have regard to its guidance on sanctions in force at the time when determining the appropriate sanction.
 
-### 42. The Order[^key-4b4d9fee805471209152ece9f28e42e8]
+### 42. The Order[^c-4b4d9fee805471209152ece9f28e42e8]
 
 (1) The making of the Order that contains the Tribunal’s decision must be announced by the Tribunal pursuant to Rule 40(1) and a copy of the Order signed by a member of the Tribunal must be sent by the Tribunal to the Society as soon as reasonably practicable following the hearing.
 
 (2) An Order takes effect once it has been announced by the Tribunal in public session or in private where rule 35(8) applies.
 
-### 43. Costs[^key-618f357f7935e26e656d7de1383a3065]
+### 43. Costs[^c-618f357f7935e26e656d7de1383a3065]
 
 (1) At any stage of the proceedings, the Tribunal may make such order as to costs as it thinks fit, which may include an order for wasted costs.
 
@@ -688,7 +688,7 @@ If a party fails to attend and is not represented at the hearing and the Tribuna
 - (b) some or all of the allegations are not proved against a respondent;
 - (c) an appeal or interim application is unsuccessful.
 
-(4) The Tribunal must first decide[^key-078027c510c37cbe22f2948c7890bb7a] whether to make an order for costs and and must identify the paying party in any order made[^key-95f83ac5260e815812832be21d8cac6f]. When deciding whether to make an order for costs, against which party, and for what amount, the Tribunal will consider all relevant matters including the following—
+(4) The Tribunal must first decide[^c-078027c510c37cbe22f2948c7890bb7a] whether to make an order for costs and and must identify the paying party in any order made[^c-95f83ac5260e815812832be21d8cac6f]. When deciding whether to make an order for costs, against which party, and for what amount, the Tribunal will consider all relevant matters including the following—
 
 - (a) the conduct of the parties and whether any or all of the allegations were pursued or defended reasonably;
 - (b) whether the Tribunal’s directions and time limits imposed were complied with;
@@ -700,7 +700,7 @@ If a party fails to attend and is not represented at the hearing and the Tribuna
 
 ## PART 7 — MISCELLANEOUS
 
-### 44. Sending and service of documents[^key-74194de081162100706ecc47d1e2f817]
+### 44. Sending and service of documents[^c-74194de081162100706ecc47d1e2f817]
 
 (1) Any document to be sent to the Tribunal or any other person or served on a party or any other person under these Rules, a practice direction or a direction given under these Rules must be—
 
@@ -718,7 +718,7 @@ If a party fails to attend and is not represented at the hearing and the Tribuna
 
 (6) If a document submitted to the Tribunal is not written in English, it must be accompanied by an English translation and a Statement from the translator confirming that the translator carried out the translation and setting out the translator’s qualifications.
 
-### 45. Deemed Service[^key-2e8effe3d3d0defdce200481751357f6]
+### 45. Deemed Service[^c-2e8effe3d3d0defdce200481751357f6]
 
 A document sent or served within the United Kingdom in accordance with these Rules or any relevant practice direction is deemed to be served on the day shown in the following table—
 
@@ -731,7 +731,7 @@ A document sent or served within the United Kingdom in accordance with these Rul
 | 5\. Fax | If the transmission of the fax is completed on a business day before 4.30p.m., on that day; or in any other case, on the next business day after the day on which it was transmitted. |
 | 6\. Personal service | If the document is served personally before 4.30p.m. on a business day, on that day; or in any other case, on the next business day after that day. |
 
-### 46. Substituted service by the applicant[^key-e70a01225375d3a1741c90d82c144615]
+### 46. Substituted service by the applicant[^c-e70a01225375d3a1741c90d82c144615]
 
 (1) If the applicant believes that there is no reasonable prospect of being able to effect service on a respondent using the methods set out in rule 44 it may apply to the Tribunal for a direction for substituted service. This application must be made in writing and set out—
 
@@ -740,13 +740,13 @@ A document sent or served within the United Kingdom in accordance with these Rul
 
 (2) The application may be determined by the Tribunal, a panel, a single solicitor member or a clerk, who may make a direction for substituted service if it is in the interests of justice to do so.
 
-### 47. Calculating time[^key-8801324da913c22da401869cdc459b28]
+### 47. Calculating time[^c-8801324da913c22da401869cdc459b28]
 
 (1) Subject to rule 45 an act required by these Rules, a practice direction or a direction given under these Rules to be done on or by a particular day must be done by 4:30 p.m. on that day unless otherwise directed.
 
 (2) If the time specified by these Rules, a practice direction or a direction given under these Rules for doing any act ends on a day other than a business day, the act is done in time if it is done on the next business day.
 
-### 48. Representatives[^key-b907b135ab5a6b18879e081fdd7122fa]
+### 48. Representatives[^c-b907b135ab5a6b18879e081fdd7122fa]
 
 (1) Any party may appoint a legal representative to represent that party in the proceedings.
 
@@ -769,7 +769,7 @@ A document sent or served within the United Kingdom in accordance with these Rul
 - (b) a barrister;
 - (c) a person who, for the purposes of the 2007 Act, is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation within the meanings given by Schedule 2 to that Act.
 
-### 49. Amendments to the 2011 Appeals Rules[^key-dccdab2844cf31516bb74bf25cce3b43]
+### 49. Amendments to the 2011 Appeals Rules[^c-dccdab2844cf31516bb74bf25cce3b43]
 
 The Solicitors Disciplinary Tribunal (Appeals and Amendment) Rules 2011[^f00012] are amended as follows—
 
@@ -784,11 +784,11 @@ The Solicitors Disciplinary Tribunal (Appeals and Amendment) Rules 2011[^f00012]
 - (c) In rule 5(2) for the words “rule 3(11) of the 2007 Rules” substitute “rule 8(6) of the Solicitors (Disciplinary Proceedings) Rules 2019”;
 - (d) In rule 27(1) for “5pm” substitute “4.30p.m.”.
 
-### 50. Revocation[^key-1782eaaa2f56de344731c05b6f959297]
+### 50. Revocation[^c-1782eaaa2f56de344731c05b6f959297]
 
 The Solicitors (Disciplinary Proceedings) Rules 2007 are revoked.
 
-### 51. Transitional provisions[^key-e6e48e17ddca1a42c9e0da0646fa2492]
+### 51. Transitional provisions[^c-e6e48e17ddca1a42c9e0da0646fa2492]
 
 These Rules do not apply to proceedings in respect of which an Application is made before the date on which these Rules come into force and those proceedings will be subject to the Solicitors (Disciplinary Proceedings) Rules 2007 as if they had not been revoked.
 
@@ -832,11 +832,11 @@ The Rules make reference throughout to the types of forms that must be used in r
 
 [^f00002]: Footnote: [2007 c.29](https://www.legislation.gov.uk/ukpga/2007/29).
 
-[^key-4e99077c18b7cc91334ceb458d0db836]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-4e99077c18b7cc91334ceb458d0db836]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-16064ed024304a9d33c35a3927346e7f]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2019/1185/rule/2) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-16064ed024304a9d33c35a3927346e7f]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2019/1185/rule/2) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-a4c6c64695a51b9a2aca5f8e8a115c13]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2019/1185/rule/3) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-a4c6c64695a51b9a2aca5f8e8a115c13]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2019/1185/rule/3) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
 [^f00003]: Footnote: [2007 c.29](https://www.legislation.gov.uk/ukpga/2007/29).
 
@@ -844,164 +844,164 @@ The Rules make reference throughout to the types of forms that must be used in r
 
 [^f00005]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-f23a83dde427564f3791ef311ab2ba06]: Textual amendment: [Rule 3(1)](https://www.legislation.gov.uk/uksi/2019/1185/rule/3/1): sub-paras. (d)(e) in definition renumbered as sub-paras. (a)(b) (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [3](https://www.legislation.gov.uk/uksi/2020/462/rule/3)
+[^c-f23a83dde427564f3791ef311ab2ba06]: Textual amendment: [Rule 3(1)](https://www.legislation.gov.uk/uksi/2019/1185/rule/3/1): sub-paras. (d)(e) in definition renumbered as sub-paras. (a)(b) (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [3](https://www.legislation.gov.uk/uksi/2020/462/rule/3)
 
 [^f00006]: Footnote: Section 46 was amended by the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), Schedule 16(1), paragraph 47(2) and modified by the Solicitors Act [1974 (c. 47)](https://www.legislation.gov.uk/ukpga/1974/47), section 44E(2), the Administration of Justice Act [1985 (c. 61)](https://www.legislation.gov.uk/ukpga/1985/61), section 43(2)(a) and Schedule 2, paragraph 14C(2), the European Communities (Lawyer’s Practice) Regulations 2000 ([2000/1119](https://www.legislation.gov.uk/uksi/2000/1119)), Schedule 4, paragraph 10 and the Legal Services Act 2007 (Appeals from Licensing Authority Decisions) (No.2) Order 2011 ([2011/2863](https://www.legislation.gov.uk/uksi/2011/2863)), articles 4(3) and (4).
 
 [^f00007]: Footnote: Section 89 was amended by the European Communities (Lawyer’s Practice) Regulations 2000 ([2000/1119](https://www.legislation.gov.uk/uksi/2000/1119)), Schedule 4, paragraph 14(2) and the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), Schedule 16(3), paragraph 125.
 
-[^key-0ee73001401e6042a55681d052f624a7]: Textual amendment: [Rule 3(4)](https://www.legislation.gov.uk/uksi/2019/1185/rule/3/4) substituted (31.12.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/1), [Sch. para. 20(2)](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/20/2) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
+[^c-0ee73001401e6042a55681d052f624a7]: Textual amendment: [Rule 3(4)](https://www.legislation.gov.uk/uksi/2019/1185/rule/3/4) substituted (31.12.2020) by [The Services of Lawyers and Lawyer’s Practice (Revocation etc.) (EU Exit) Regulations 2020 (S.I. 2020/1342)](https://www.legislation.gov.uk/uksi/2020/1342), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1342/regulation/1/1), [Sch. para. 20(2)](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/20/2) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1342/schedule/paragraph/13))
 
-[^key-1ee44802a711653ae1c5bec045596d52]: Textual amendment: Words in [rule 3(5)](https://www.legislation.gov.uk/uksi/2019/1185/rule/3/5) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2020/462/rule/5/a)
+[^c-1ee44802a711653ae1c5bec045596d52]: Textual amendment: Words in [rule 3(5)](https://www.legislation.gov.uk/uksi/2019/1185/rule/3/5) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2020/462/rule/5/a)
 
-[^key-fdb8dc30472686b7cf525341e6e46876]: Textual amendment: Words in [rule 3(5)](https://www.legislation.gov.uk/uksi/2019/1185/rule/3/5) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2020/462/rule/5/b)
+[^c-fdb8dc30472686b7cf525341e6e46876]: Textual amendment: Words in [rule 3(5)](https://www.legislation.gov.uk/uksi/2019/1185/rule/3/5) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2020/462/rule/5/b)
 
 [^f00010]: Footnote: [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119).
 
-[^key-01c8ba04f1299004b67e1a6b46afde72]: Textual amendment: [Rule 3(6)](https://www.legislation.gov.uk/uksi/2019/1185/rule/3/6) inserted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [30(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/30/2)
+[^c-01c8ba04f1299004b67e1a6b46afde72]: Textual amendment: [Rule 3(6)](https://www.legislation.gov.uk/uksi/2019/1185/rule/3/6) inserted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [30(2)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/30/2)
 
-[^key-7f7487512e49be9db2d11023aa089495]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2019/1185/rule/4) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-7f7487512e49be9db2d11023aa089495]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2019/1185/rule/4) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-297e49aebf542d8c01a8872194d4512c]: Textual amendment: Word in [rule 4(2)](https://www.legislation.gov.uk/uksi/2019/1185/rule/4/2) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2020/462/rule/6)
+[^c-297e49aebf542d8c01a8872194d4512c]: Textual amendment: Word in [rule 4(2)](https://www.legislation.gov.uk/uksi/2019/1185/rule/4/2) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2020/462/rule/6)
 
-[^key-f1e5e4f4087ae3d1e2a555ef797624aa]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2019/1185/rule/5) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-f1e5e4f4087ae3d1e2a555ef797624aa]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2019/1185/rule/5) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-e00f6f1eff76750c8a7724e1167da40a]: Textual amendment: Word in [rule 5](https://www.legislation.gov.uk/uksi/2019/1185/rule/5) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2020/462/rule/7/a)
+[^c-e00f6f1eff76750c8a7724e1167da40a]: Textual amendment: Word in [rule 5](https://www.legislation.gov.uk/uksi/2019/1185/rule/5) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2020/462/rule/7/a)
 
-[^key-5effcc23dca4f09aa60358fd42cae5a8]: Textual amendment: Words in [rule 5](https://www.legislation.gov.uk/uksi/2019/1185/rule/5) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2020/462/rule/7/b)
+[^c-5effcc23dca4f09aa60358fd42cae5a8]: Textual amendment: Words in [rule 5](https://www.legislation.gov.uk/uksi/2019/1185/rule/5) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2020/462/rule/7/b)
 
-[^key-da8f86d5c9b5c58462534f41302321e0]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2019/1185/rule/6) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-da8f86d5c9b5c58462534f41302321e0]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2019/1185/rule/6) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-eb42d1405d1135ee7000e9e1efe5be1f]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2019/1185/rule/7) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-eb42d1405d1135ee7000e9e1efe5be1f]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2019/1185/rule/7) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-e4e54f97822995a959ae172a2db42b6e]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2019/1185/rule/8) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-e4e54f97822995a959ae172a2db42b6e]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2019/1185/rule/8) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-ad289ab8e853ea5f69eb9e0ba78eff33]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2019/1185/rule/9) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-ad289ab8e853ea5f69eb9e0ba78eff33]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2019/1185/rule/9) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-37649c47532bf06b53dde0553479fe78]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2019/1185/rule/10) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-37649c47532bf06b53dde0553479fe78]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2019/1185/rule/10) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-6fc3f1face9a5cfada8b2626341c9c94]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2019/1185/rule/11) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-6fc3f1face9a5cfada8b2626341c9c94]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2019/1185/rule/11) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-37ac7a4179d5c3463d2ccef163f2d269]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2019/1185/rule/12) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-37ac7a4179d5c3463d2ccef163f2d269]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2019/1185/rule/12) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-302e24c677ed2a7a41e442ff403c5d2f]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2019/1185/rule/13) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-302e24c677ed2a7a41e442ff403c5d2f]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2019/1185/rule/13) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-e7f9bc685201cd6ba5b0292ddf59a411]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2019/1185/rule/14) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-e7f9bc685201cd6ba5b0292ddf59a411]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2019/1185/rule/14) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-809dcf19252bcd122f78becc34a3323a]: Textual amendment: Words in [rule 14(1)](https://www.legislation.gov.uk/uksi/2019/1185/rule/14/1) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [8](https://www.legislation.gov.uk/uksi/2020/462/rule/8)
+[^c-809dcf19252bcd122f78becc34a3323a]: Textual amendment: Words in [rule 14(1)](https://www.legislation.gov.uk/uksi/2019/1185/rule/14/1) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [8](https://www.legislation.gov.uk/uksi/2020/462/rule/8)
 
-[^key-71adbe48cf57d5247f3139951a93fbd0]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2019/1185/rule/15) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-71adbe48cf57d5247f3139951a93fbd0]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2019/1185/rule/15) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-b11527c6ad615209741352f8ed733045]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2019/1185/rule/16) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-b11527c6ad615209741352f8ed733045]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2019/1185/rule/16) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-30c2a65d68807e90c906205ca40aa6fa]: Textual amendment: Word in [rule 16(1)](https://www.legislation.gov.uk/uksi/2019/1185/rule/16/1) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [9](https://www.legislation.gov.uk/uksi/2020/462/rule/9)
+[^c-30c2a65d68807e90c906205ca40aa6fa]: Textual amendment: Word in [rule 16(1)](https://www.legislation.gov.uk/uksi/2019/1185/rule/16/1) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [9](https://www.legislation.gov.uk/uksi/2020/462/rule/9)
 
-[^key-9c65688583ff02eb91400208eb33e765]: Commencement: Rule 17 in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-9c65688583ff02eb91400208eb33e765]: Commencement: Rule 17 in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-1c5331b0d5e040f090d348e080da0301]: Textual amendment: Words in rule 17(1) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [10](https://www.legislation.gov.uk/uksi/2020/462/rule/10)
+[^c-1c5331b0d5e040f090d348e080da0301]: Textual amendment: Words in rule 17(1) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [10](https://www.legislation.gov.uk/uksi/2020/462/rule/10)
 
 [^f00011]: Footnote: Section 6 was amended by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), Schedule 11(4), paragraph 21(2) and the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), Schedule 23, paragraph 1.
 
-[^key-3886118d2cd57c96837ceebe9195b57f]: Textual amendment: Words in rule 17(1)(b) inserted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [30(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/30/3/a/i)
+[^c-3886118d2cd57c96837ceebe9195b57f]: Textual amendment: Words in rule 17(1)(b) inserted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [30(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/30/3/a/i)
 
-[^key-d8707a3fdf1d1dc53c10d21b9118d14e]: Textual amendment: Words in rule 17(1)(b) substituted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [30(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/30/3/a/ii)
+[^c-d8707a3fdf1d1dc53c10d21b9118d14e]: Textual amendment: Words in rule 17(1)(b) substituted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [30(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/30/3/a/ii)
 
-[^key-35e82370f64ea1986440e64799deed3e]: Textual amendment: Words in rule 17(1)(c) inserted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [30(3)(b)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/30/3/b)
+[^c-35e82370f64ea1986440e64799deed3e]: Textual amendment: Words in rule 17(1)(c) inserted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [30(3)(b)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/30/3/b)
 
-[^key-e0efe892d26bc73981280706c3b1f526]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2019/1185/rule/18) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-e0efe892d26bc73981280706c3b1f526]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2019/1185/rule/18) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-07be83dc395c7fa826929ba2c0306cdd]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2019/1185/rule/19) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-07be83dc395c7fa826929ba2c0306cdd]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2019/1185/rule/19) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-c4462e067aa73721bd7765adbe904602]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2019/1185/rule/20) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-c4462e067aa73721bd7765adbe904602]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2019/1185/rule/20) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-e4f601344c07612ee1c9458baaa69bb3]: Textual amendment: Word in [rule 20(3)](https://www.legislation.gov.uk/uksi/2019/1185/rule/20/3) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [11](https://www.legislation.gov.uk/uksi/2020/462/rule/11)
+[^c-e4f601344c07612ee1c9458baaa69bb3]: Textual amendment: Word in [rule 20(3)](https://www.legislation.gov.uk/uksi/2019/1185/rule/20/3) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [11](https://www.legislation.gov.uk/uksi/2020/462/rule/11)
 
-[^key-662e5056f23d27006da054a65d5afedd]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2019/1185/rule/21) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-662e5056f23d27006da054a65d5afedd]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2019/1185/rule/21) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-23d532ec1eb08839b7c4aedeed5c3995]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2019/1185/rule/22) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-23d532ec1eb08839b7c4aedeed5c3995]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2019/1185/rule/22) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-59396f5017f8af3ca742db3ba767d2db]: Textual amendment: Words in [rule 22(3)](https://www.legislation.gov.uk/uksi/2019/1185/rule/22/3) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [12](https://www.legislation.gov.uk/uksi/2020/462/rule/12)
+[^c-59396f5017f8af3ca742db3ba767d2db]: Textual amendment: Words in [rule 22(3)](https://www.legislation.gov.uk/uksi/2019/1185/rule/22/3) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [12](https://www.legislation.gov.uk/uksi/2020/462/rule/12)
 
-[^key-69a4eeae3beb6fc930a9187c05215027]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2019/1185/rule/23) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-69a4eeae3beb6fc930a9187c05215027]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2019/1185/rule/23) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-8e3cf4de947aa1090f381841134e5c9c]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2019/1185/rule/24) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-8e3cf4de947aa1090f381841134e5c9c]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2019/1185/rule/24) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-fc3993c92c59f1135dd9b3ab95cb54a8]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2019/1185/rule/25) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-fc3993c92c59f1135dd9b3ab95cb54a8]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2019/1185/rule/25) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-dc4c08e3ebcd5d83e0429b07087bfe85]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2019/1185/rule/26) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-dc4c08e3ebcd5d83e0429b07087bfe85]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2019/1185/rule/26) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-92d44d92e78a7cad1db4dcaa82cf19d3]: Textual amendment: Words in [rule 26(2)](https://www.legislation.gov.uk/uksi/2019/1185/rule/26/2) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [13(1)](https://www.legislation.gov.uk/uksi/2020/462/rule/13/1)
+[^c-92d44d92e78a7cad1db4dcaa82cf19d3]: Textual amendment: Words in [rule 26(2)](https://www.legislation.gov.uk/uksi/2019/1185/rule/26/2) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [13(1)](https://www.legislation.gov.uk/uksi/2020/462/rule/13/1)
 
-[^key-1453fded3c6c1c9482539ff683036b55]: Textual amendment: Words in [rule 26(3)](https://www.legislation.gov.uk/uksi/2019/1185/rule/26/3) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/13/2)
+[^c-1453fded3c6c1c9482539ff683036b55]: Textual amendment: Words in [rule 26(3)](https://www.legislation.gov.uk/uksi/2019/1185/rule/26/3) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/13/2)
 
-[^key-e68af8975301e34f8dbeeca3a7a132b6]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2019/1185/rule/27) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-e68af8975301e34f8dbeeca3a7a132b6]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2019/1185/rule/27) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-1055ee36aa0a154da945a8ccc53125f8]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2019/1185/rule/28) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-1055ee36aa0a154da945a8ccc53125f8]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2019/1185/rule/28) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-4f9c1f7b0663266061579c0787ce77a8]: Textual amendment: Words in [rule 28(3)](https://www.legislation.gov.uk/uksi/2019/1185/rule/28/3) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [14](https://www.legislation.gov.uk/uksi/2020/462/rule/14)
+[^c-4f9c1f7b0663266061579c0787ce77a8]: Textual amendment: Words in [rule 28(3)](https://www.legislation.gov.uk/uksi/2019/1185/rule/28/3) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [14](https://www.legislation.gov.uk/uksi/2020/462/rule/14)
 
-[^key-f239d78c42127a0d672e24fc9e290d34]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2019/1185/rule/29) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-f239d78c42127a0d672e24fc9e290d34]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2019/1185/rule/29) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-e57470cbb6523db24dbeb7a0889a40ed]: Textual amendment: Word in [rule 29(1)](https://www.legislation.gov.uk/uksi/2019/1185/rule/29/1) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2020/462/rule/15/a)
+[^c-e57470cbb6523db24dbeb7a0889a40ed]: Textual amendment: Word in [rule 29(1)](https://www.legislation.gov.uk/uksi/2019/1185/rule/29/1) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2020/462/rule/15/a)
 
-[^key-a22c54b66875548b5bc057eb204f361d]: Textual amendment: Words in [rule 29(1)](https://www.legislation.gov.uk/uksi/2019/1185/rule/29/1) inserted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2020/462/rule/15/b)
+[^c-a22c54b66875548b5bc057eb204f361d]: Textual amendment: Words in [rule 29(1)](https://www.legislation.gov.uk/uksi/2019/1185/rule/29/1) inserted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2020/462/rule/15/b)
 
-[^key-3d5b460e19378b08604abd217f00a402]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2019/1185/rule/30) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-3d5b460e19378b08604abd217f00a402]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2019/1185/rule/30) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-bc8f34d07b30eb414ad473fa6a495763]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2019/1185/rule/31) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-bc8f34d07b30eb414ad473fa6a495763]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2019/1185/rule/31) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-2e47cf07ab7712c310c28acda3e1de56]: Textual amendment: Word in [rule 31(1)](https://www.legislation.gov.uk/uksi/2019/1185/rule/31/1) inserted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [16](https://www.legislation.gov.uk/uksi/2020/462/rule/16)
+[^c-2e47cf07ab7712c310c28acda3e1de56]: Textual amendment: Word in [rule 31(1)](https://www.legislation.gov.uk/uksi/2019/1185/rule/31/1) inserted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [16](https://www.legislation.gov.uk/uksi/2020/462/rule/16)
 
-[^key-dc5933e821ce05b2497276e4b2083ee4]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2019/1185/rule/32) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-dc5933e821ce05b2497276e4b2083ee4]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2019/1185/rule/32) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-debbebae4f72d327b30fc0c4580927dc]: Textual amendment: Words in [rule 32(2)](https://www.legislation.gov.uk/uksi/2019/1185/rule/32/2) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [17(1)](https://www.legislation.gov.uk/uksi/2020/462/rule/17/1)
+[^c-debbebae4f72d327b30fc0c4580927dc]: Textual amendment: Words in [rule 32(2)](https://www.legislation.gov.uk/uksi/2019/1185/rule/32/2) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [17(1)](https://www.legislation.gov.uk/uksi/2020/462/rule/17/1)
 
-[^key-614ca858549f305c6ba156ab32c23d0f]: Textual amendment: Word in [rule 32(3)](https://www.legislation.gov.uk/uksi/2019/1185/rule/32/3) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/17/2)
+[^c-614ca858549f305c6ba156ab32c23d0f]: Textual amendment: Word in [rule 32(3)](https://www.legislation.gov.uk/uksi/2019/1185/rule/32/3) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/17/2)
 
-[^key-ca12345433967cf66e2d888f6b921904]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2019/1185/rule/33) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-ca12345433967cf66e2d888f6b921904]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2019/1185/rule/33) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-cb125d0b1b7a83e3380a1c238c85483e]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2019/1185/rule/34) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-cb125d0b1b7a83e3380a1c238c85483e]: Commencement: [Rule 34](https://www.legislation.gov.uk/uksi/2019/1185/rule/34) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-5dacb6ed59672b6668dfab41fc375353]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2019/1185/rule/35) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-5dacb6ed59672b6668dfab41fc375353]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2019/1185/rule/35) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-a7fd3dcb2a1f20ebf429292c3df64211]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2019/1185/rule/36) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-a7fd3dcb2a1f20ebf429292c3df64211]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2019/1185/rule/36) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-860d8805d542cb403b523045ffea2d10]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2019/1185/rule/37) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-860d8805d542cb403b523045ffea2d10]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2019/1185/rule/37) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-25a92854ebba026935962de41dc45acb]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2019/1185/rule/38) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-25a92854ebba026935962de41dc45acb]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2019/1185/rule/38) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-e79d2bd8a2d78f9c1a24de4afc210a07]: Commencement: [Rule 39](https://www.legislation.gov.uk/uksi/2019/1185/rule/39) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-e79d2bd8a2d78f9c1a24de4afc210a07]: Commencement: [Rule 39](https://www.legislation.gov.uk/uksi/2019/1185/rule/39) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-2847c0697fb774e1aaa9cbd4e6d24fbf]: Commencement: [Rule 40](https://www.legislation.gov.uk/uksi/2019/1185/rule/40) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-2847c0697fb774e1aaa9cbd4e6d24fbf]: Commencement: [Rule 40](https://www.legislation.gov.uk/uksi/2019/1185/rule/40) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-8e9429a1fc575520e0c95139328fe5a0]: Textual amendment: Word in [rule 40(4)](https://www.legislation.gov.uk/uksi/2019/1185/rule/40/4) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [18](https://www.legislation.gov.uk/uksi/2020/462/rule/18)
+[^c-8e9429a1fc575520e0c95139328fe5a0]: Textual amendment: Word in [rule 40(4)](https://www.legislation.gov.uk/uksi/2019/1185/rule/40/4) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [18](https://www.legislation.gov.uk/uksi/2020/462/rule/18)
 
-[^key-e28a5b44092daaa723c9f1167a55453f]: Commencement: [Rule 41](https://www.legislation.gov.uk/uksi/2019/1185/rule/41) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-e28a5b44092daaa723c9f1167a55453f]: Commencement: [Rule 41](https://www.legislation.gov.uk/uksi/2019/1185/rule/41) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-8bc0f0d008e7e49a773c59fa2f225aa3]: Textual amendment: Word in [rule 41(4)](https://www.legislation.gov.uk/uksi/2019/1185/rule/41/4) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [19](https://www.legislation.gov.uk/uksi/2020/462/rule/19)
+[^c-8bc0f0d008e7e49a773c59fa2f225aa3]: Textual amendment: Word in [rule 41(4)](https://www.legislation.gov.uk/uksi/2019/1185/rule/41/4) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [19](https://www.legislation.gov.uk/uksi/2020/462/rule/19)
 
-[^key-4b4d9fee805471209152ece9f28e42e8]: Commencement: [Rule 42](https://www.legislation.gov.uk/uksi/2019/1185/rule/42) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-4b4d9fee805471209152ece9f28e42e8]: Commencement: [Rule 42](https://www.legislation.gov.uk/uksi/2019/1185/rule/42) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-618f357f7935e26e656d7de1383a3065]: Commencement: [Rule 43](https://www.legislation.gov.uk/uksi/2019/1185/rule/43) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-618f357f7935e26e656d7de1383a3065]: Commencement: [Rule 43](https://www.legislation.gov.uk/uksi/2019/1185/rule/43) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-078027c510c37cbe22f2948c7890bb7a]: Textual amendment: Words in [rule 43(4)](https://www.legislation.gov.uk/uksi/2019/1185/rule/43/4) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2020/462/rule/20/a)
+[^c-078027c510c37cbe22f2948c7890bb7a]: Textual amendment: Words in [rule 43(4)](https://www.legislation.gov.uk/uksi/2019/1185/rule/43/4) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2020/462/rule/20/a)
 
-[^key-95f83ac5260e815812832be21d8cac6f]: Textual amendment: Words in [rule 43(4)](https://www.legislation.gov.uk/uksi/2019/1185/rule/43/4) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2020/462/rule/20/b)
+[^c-95f83ac5260e815812832be21d8cac6f]: Textual amendment: Words in [rule 43(4)](https://www.legislation.gov.uk/uksi/2019/1185/rule/43/4) substituted (25.5.2020) by [The Solicitors (Disciplinary Proceedings) (Amendment) Rules 2020 (S.I. 2020/462)](https://www.legislation.gov.uk/uksi/2020/462), [rules 1(2)](https://www.legislation.gov.uk/uksi/2020/462/rule/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2020/462/rule/20/b)
 
-[^key-74194de081162100706ecc47d1e2f817]: Commencement: [Rule 44](https://www.legislation.gov.uk/uksi/2019/1185/rule/44) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-74194de081162100706ecc47d1e2f817]: Commencement: [Rule 44](https://www.legislation.gov.uk/uksi/2019/1185/rule/44) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-2e8effe3d3d0defdce200481751357f6]: Commencement: [Rule 45](https://www.legislation.gov.uk/uksi/2019/1185/rule/45) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-2e8effe3d3d0defdce200481751357f6]: Commencement: [Rule 45](https://www.legislation.gov.uk/uksi/2019/1185/rule/45) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-e70a01225375d3a1741c90d82c144615]: Commencement: [Rule 46](https://www.legislation.gov.uk/uksi/2019/1185/rule/46) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-e70a01225375d3a1741c90d82c144615]: Commencement: [Rule 46](https://www.legislation.gov.uk/uksi/2019/1185/rule/46) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-8801324da913c22da401869cdc459b28]: Commencement: [Rule 47](https://www.legislation.gov.uk/uksi/2019/1185/rule/47) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-8801324da913c22da401869cdc459b28]: Commencement: [Rule 47](https://www.legislation.gov.uk/uksi/2019/1185/rule/47) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-b907b135ab5a6b18879e081fdd7122fa]: Commencement: [Rule 48](https://www.legislation.gov.uk/uksi/2019/1185/rule/48) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-b907b135ab5a6b18879e081fdd7122fa]: Commencement: [Rule 48](https://www.legislation.gov.uk/uksi/2019/1185/rule/48) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-dccdab2844cf31516bb74bf25cce3b43]: Commencement: [Rule 49](https://www.legislation.gov.uk/uksi/2019/1185/rule/49) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-dccdab2844cf31516bb74bf25cce3b43]: Commencement: [Rule 49](https://www.legislation.gov.uk/uksi/2019/1185/rule/49) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
 [^f00012]: Footnote: [S.I. 2011/2345](https://www.legislation.gov.uk/uksi/2011/2345).
 
-[^key-1782eaaa2f56de344731c05b6f959297]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/2019/1185/rule/50) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-1782eaaa2f56de344731c05b6f959297]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/2019/1185/rule/50) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
 
-[^key-e6e48e17ddca1a42c9e0da0646fa2492]: Commencement: [Rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)
+[^c-e6e48e17ddca1a42c9e0da0646fa2492]: Commencement: [Rule 51](https://www.legislation.gov.uk/uksi/2019/1185/rule/51) in force at 25.11.2019, see [rule 1](https://www.legislation.gov.uk/uksi/2019/1185/rule/1)

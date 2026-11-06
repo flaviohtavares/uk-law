@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Duty to give information.[^key-ba5dbbfc08f426407c5d65fc0bf5d675]
+## 97. Duty to give information.[^c-ba5dbbfc08f426407c5d65fc0bf5d675]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,11 +31,11 @@ summary: ''
 - (a) he is not entitled, while the default continues, to enforce the agreement; [^c19905751]. . .
 - (b) [^c19905751]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-5d141956fadb5603e52057fedcc2f725] This section does not apply to a regulated deferred payment credit agreement.
+(4)[^c-5d141956fadb5603e52057fedcc2f725] This section does not apply to a regulated deferred payment credit agreement.
 
 ## Annotations
 
-[^key-ba5dbbfc08f426407c5d65fc0bf5d675]: Modification: Ss. 94-97A excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-ba5dbbfc08f426407c5d65fc0bf5d675]: Modification: Ss. 94-97A excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
 [^c20969571]: Textual amendment: Words in s. 97(1) omitted (1.2.2011) by virtue of [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 33(a)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/33/a), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c19905751]: Textual amendment: S. 97(3)(b) and preceding word repealed (26.5.2008) by The Consumer Protection from [Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277) regs. 30(1)(3), Sch. 2 para. 23, {Sch. 4 Pt. 1} (with savings in reg. 28(2)(3))
 
-[^key-5d141956fadb5603e52057fedcc2f725]: Textual amendment: [S. 97(4)](https://www.legislation.gov.uk/ukpga/1974/39/section/97/4) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(16)](https://www.legislation.gov.uk/uksi/2025/859/article/2/16)
+[^c-5d141956fadb5603e52057fedcc2f725]: Textual amendment: [S. 97(4)](https://www.legislation.gov.uk/ukpga/1974/39/section/97/4) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(16)](https://www.legislation.gov.uk/uksi/2025/859/article/2/16)

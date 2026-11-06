@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) Order 2005 (revoked)[^key-10504b289bd6b1cda69efec135980900]
+The European Communities (Designation) Order 2005 (revoked)[^c-10504b289bd6b1cda69efec135980900]
 
 Made
 
@@ -51,48 +51,48 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-10504b289bd6b1cda69efec135980900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10504b289bd6b1cda69efec135980900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-10504b289bd6b1cda69efec135980900]
+## 1. Citation, commencement and interpretation[^c-10504b289bd6b1cda69efec135980900]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of Ministers or departments[^key-10504b289bd6b1cda69efec135980900]
+## 2. Designation of Ministers or departments[^c-10504b289bd6b1cda69efec135980900]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of the National Assembly for Wales[^key-10504b289bd6b1cda69efec135980900]
+## 3. Designation of the National Assembly for Wales[^c-10504b289bd6b1cda69efec135980900]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of European Communities (Designation) (No. 7) Order 2004[^key-10504b289bd6b1cda69efec135980900]
+## 4. Amendment of European Communities (Designation) (No. 7) Order 2004[^c-10504b289bd6b1cda69efec135980900]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-10504b289bd6b1cda69efec135980900]
+## 5. Revocation[^c-10504b289bd6b1cda69efec135980900]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-10504b289bd6b1cda69efec135980900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10504b289bd6b1cda69efec135980900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — MATTERS IN RELATION TO WHICH THE NATIONAL ASSEMBLY FOR WALES IS DESIGNATED[^key-10504b289bd6b1cda69efec135980900]
+## SCHEDULE — MATTERS IN RELATION TO WHICH THE NATIONAL ASSEMBLY FOR WALES IS DESIGNATED[^c-10504b289bd6b1cda69efec135980900]
 
 Article 3
 
-[^key-10504b289bd6b1cda69efec135980900]
+[^c-10504b289bd6b1cda69efec135980900]
 
 The prevention and limitation of the effects of accidents involving dangerous substances insofar as they relate to land-use planning policies and consents.
 
-[^key-10504b289bd6b1cda69efec135980900]
+[^c-10504b289bd6b1cda69efec135980900]
 
 Measures relating to the prevention, reduction and elimination of pollution caused by waste and the management of packaging and packaging waste.
 
-[^key-10504b289bd6b1cda69efec135980900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10504b289bd6b1cda69efec135980900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-10504b289bd6b1cda69efec135980900]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/850) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-10504b289bd6b1cda69efec135980900]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/850) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

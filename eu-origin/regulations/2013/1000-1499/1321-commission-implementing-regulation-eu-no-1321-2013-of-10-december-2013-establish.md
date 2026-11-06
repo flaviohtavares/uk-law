@@ -35,42 +35,42 @@ establishing the Union list of authorised smoke flavouring primary products for 
 
 (Text with EEA relevance) (revoked)
 
-[^key-ec76c4ebba03d996eeea6da2ea39e0cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec76c4ebba03d996eeea6da2ea39e0cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-ec76c4ebba03d996eeea6da2ea39e0cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ec76c4ebba03d996eeea6da2ea39e0cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ec76c4ebba03d996eeea6da2ea39e0cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ec76c4ebba03d996eeea6da2ea39e0cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec76c4ebba03d996eeea6da2ea39e0cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ec76c4ebba03d996eeea6da2ea39e0cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Domestic list of authorised smoke flavouring primary products for use as such in or on foods and/or for the production of derived smoke flavourings[^key-ec76c4ebba03d996eeea6da2ea39e0cc]
+## ANNEX — Domestic list of authorised smoke flavouring primary products for use as such in or on foods and/or for the production of derived smoke flavourings[^c-ec76c4ebba03d996eeea6da2ea39e0cc]
 
-[^key-ec76c4ebba03d996eeea6da2ea39e0cc]*Note 1:*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-ec76c4ebba03d996eeea6da2ea39e0cc]*Note 2:*
+[^c-ec76c4ebba03d996eeea6da2ea39e0cc]*Note 1:*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec76c4ebba03d996eeea6da2ea39e0cc]*Note 3:*
+[^c-ec76c4ebba03d996eeea6da2ea39e0cc]*Note 2:*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec76c4ebba03d996eeea6da2ea39e0cc]*Note 4:*
+[^c-ec76c4ebba03d996eeea6da2ea39e0cc]*Note 3:*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ec76c4ebba03d996eeea6da2ea39e0cc]*Note 4:*
 
 The presence of a smoke flavouring shall be permitted:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ec76c4ebba03d996eeea6da2ea39e0cc]
+[^c-ec76c4ebba03d996eeea6da2ea39e0cc]
 
 This shall not apply to infant formulae, follow-on formulae, processed cereal-based foods and baby foods and dietary foods for special medical purposes intended for infants and young children as referred to in Directive 2009/39/EC of the European Parliament and of the Council of 6 May 2009 on foodstuffs intended for particular nutritional uses.
 
 ## Annotations
 
-[^key-ec76c4ebba03d996eeea6da2ea39e0cc]: Textual amendment: Regulation revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2025/361/schedule/4/paragraph/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-ec76c4ebba03d996eeea6da2ea39e0cc]: Textual amendment: Regulation revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2025/361/schedule/4/paragraph/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

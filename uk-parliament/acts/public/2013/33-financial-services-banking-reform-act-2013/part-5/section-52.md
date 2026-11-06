@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. The service-user objective[^key-0852d35db3a13aa5ae24803a8b2f1945]
+## 52. The service-user objective[^c-0852d35db3a13aa5ae24803a8b2f1945]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The service-user objective is to ensure that payment systems are operated and de
 
 ## Annotations
 
-[^key-0852d35db3a13aa5ae24803a8b2f1945]: Commencement: S. 52 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-0852d35db3a13aa5ae24803a8b2f1945]: Commencement: S. 52 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

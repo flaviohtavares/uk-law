@@ -64,21 +64,21 @@ And Whereas by section 64 of the National Insurance Act, 1946, and section 85 of
 
 Now, therefore, Her Majesty The Queen and Her Royal Highness The Princess Elizabeth, being authorised thereto by the said Letters Patent, and in pursuance of the said section 64 of the National Insurance Act, 1946, and the said section 85 of the National Insurance (Industrial Injuries) Act, 1946, and of all other powers in that behalf, do hereby, by and with the advice of His Majesty's Privy Council, on His Majesty's behalf, order, and it is hereby ordered, as follows:—[^M_M_f6fa9dd8-8e86-4fc5-a174-1aa64f943a39]
 
-## 1. Citation, commencement and interpretation[^key-0d3f87d83c4a025a7ecc488d881a49c4]
+## 1. Citation, commencement and interpretation[^c-0d3f87d83c4a025a7ecc488d881a49c4]
 
 (1) This Order may be cited as the National Insurance and Industrial Injuries (Reciprocal Multilateral Agreement) (Belgium) Order, 1951, and shall come into operation on the 5th October, 1951.
 
 (2) The Interpretation Act, 1889, applies to the interpretation of this Order as it applies to the interpretation of an Act of Parliament.
 
-## 2. Modification of Acts[^key-be28fe28c9eba6921155614d0012e7f7]
+## 2. Modification of Acts[^c-be28fe28c9eba6921155614d0012e7f7]
 
 The provisions contained in the Convention set out in the Schedule to this Order shall have full force and effect, so far as the same relate to England, Wales and Scotland and provide by way of agreement with the Government of Belgium for reciprocity in any matters specified in either subsection (1) of section 64 of the National Insurance Act, 1946, or sub-section (1) of section 85 of the National Insurance (Industrial Injuries) Act, 1946 (which subsections relate to reciprocal agreements with other governments), and the National Insurance Acts, 1946 to 1951, shall have effect subject to such modifications as may be required therein for the purpose of giving effect to any such provisions.
 
 F.J. Fernau
 
-## SCHEDULE[^key-53f725a291f04d8999a4a4e43b79d326]
+## SCHEDULE[^c-53f725a291f04d8999a4a4e43b79d326]
 
-[^key-53f725a291f04d8999a4a4e43b79d326]
+[^c-53f725a291f04d8999a4a4e43b79d326]
 
 > CONVENTION BETWEEN THE GOVERNMENTS OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND, BELGIUM, FRANCE, LUXEMBOURG AND THE NETHERLANDS TO EXTEND AND CO-ORDINATE SOCIAL SECURITY SCHEMES IN THEIR APPLICATION TO THE NATIONALS OF THE PARTIES TO THE BRUSSELS TREATY
 >
@@ -184,10 +184,10 @@ This Order gives effect in England, Wales and Scotland to the Convention (set ou
 
 [^M_M_f6fa9dd8-8e86-4fc5-a174-1aa64f943a39]: Marginal citation: Instrument modified (1.2.1972) Bilateral and multilateral reciprocal social security agreements between the United Kingdom and other Member States of the European Communities have generally been superseded, for nationals of those States, by the provisions of Council Regulations (EEC) Nos. 1408/71 and 574/72 to the extent provided by Article 6 of Regulation (EEC) No. 1408/71 subject to the exceptions prescribed by that Article and set out in Articles 7, 8 and 46(4) of that Regulation. The following Instrument, while generally superseded for the above reason, may still be of interest in its effect on persons or matters excepted from, or otherwise not covered by, that Regulation.
 
-[^key-0d3f87d83c4a025a7ecc488d881a49c4]: Commencement: Art. 1 in force at 5.10.1951, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1951/1801/article/1/1)
+[^c-0d3f87d83c4a025a7ecc488d881a49c4]: Commencement: Art. 1 in force at 5.10.1951, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1951/1801/article/1/1)
 
-[^key-be28fe28c9eba6921155614d0012e7f7]: Commencement: Art. 2 in force at 5.10.1951, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1951/1801/article/1/1)
+[^c-be28fe28c9eba6921155614d0012e7f7]: Commencement: Art. 2 in force at 5.10.1951, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1951/1801/article/1/1)
 
-[^key-53f725a291f04d8999a4a4e43b79d326]: Commencement: Sch. in force at 5.10.1951, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1951/1801/article/1/1)
+[^c-53f725a291f04d8999a4a4e43b79d326]: Commencement: Sch. in force at 5.10.1951, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1951/1801/article/1/1)
 
 [^f00001]: Footnote: “Treaty Series No. 1 (1949),” Cmd. 7599.

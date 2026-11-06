@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## K1. Power to grant gratuities[^key-14accb1ab7846f18122042258e4961bc]
+## K1. Power to grant gratuities[^c-14accb1ab7846f18122042258e4961bc]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ the body may grant a gratuity to the widow or any other dependant of the employe
 
 ## Annotations
 
-[^key-14accb1ab7846f18122042258e4961bc]: Commencement: [Reg. K1](https://www.legislation.gov.uk/uksi/1986/24/regulation/K1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-14accb1ab7846f18122042258e4961bc]: Commencement: [Reg. K1](https://www.legislation.gov.uk/uksi/1986/24/regulation/K1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Interpretation[^key-a217fdaf2c182dee126ef8d09a03dc99]
+## 13. Interpretation[^c-a217fdaf2c182dee126ef8d09a03dc99]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a217fdaf2c182dee126ef8d09a03dc99]: Commencement: Reg. 13 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-a217fdaf2c182dee126ef8d09a03dc99]: Commencement: Reg. 13 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00007]: Footnote: Copies of the publication can be obtained from 12 Great George Street, London SW1P 3AD.

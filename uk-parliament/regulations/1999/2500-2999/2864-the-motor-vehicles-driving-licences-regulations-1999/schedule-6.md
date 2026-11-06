@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — EVIDENCE OF IDENTITY OF TEST CANDIDATES[^key-b170866204d967fc9a66edc9946bdaf0]
+## SCHEDULE 6 — EVIDENCE OF IDENTITY OF TEST CANDIDATES[^c-b170866204d967fc9a66edc9946bdaf0]
 
 *Extent: E+W+S*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Regulation 38
 
-**1.**[^key-b170866204d967fc9a66edc9946bdaf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b170866204d967fc9a66edc9946bdaf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b170866204d967fc9a66edc9946bdaf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b170866204d967fc9a66edc9946bdaf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b170866204d967fc9a66edc9946bdaf0]
+[^c-b170866204d967fc9a66edc9946bdaf0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b170866204d967fc9a66edc9946bdaf0]: Textual amendment: Sch. 6 omitted (1.11.2005) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No 2) Regulations 2005 (S.I. 2005/2717)](https://www.legislation.gov.uk/uksi/2005/2717), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2717/regulation/1), [11](https://www.legislation.gov.uk/uksi/2005/2717/regulation/11)
+[^c-b170866204d967fc9a66edc9946bdaf0]: Textual amendment: Sch. 6 omitted (1.11.2005) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No 2) Regulations 2005 (S.I. 2005/2717)](https://www.legislation.gov.uk/uksi/2005/2717), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2717/regulation/1), [11](https://www.legislation.gov.uk/uksi/2005/2717/regulation/11)

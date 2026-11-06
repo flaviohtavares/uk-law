@@ -33,7 +33,7 @@ summary: ''
 - (c) any appointed safeguarder;
 - (d) the three members of the children's hearing.
 
-(5)[^key-c0ea1b8341a8184e59471f0285c9e30c] Where an individual is to be afforded an opportunity to participate in relation to a children’s hearing by virtue of rule 2A, the Reporter must—
+(5)[^c-c0ea1b8341a8184e59471f0285c9e30c] Where an individual is to be afforded an opportunity to participate in relation to a children’s hearing by virtue of rule 2A, the Reporter must—
 
 - (a) as soon as practicable before the hearing begins, give the individual a copy of any contact direction that regulates contact between the individual and the child, and
 - (b) give the individual any information (including information contained in a document) that—
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0ea1b8341a8184e59471f0285c9e30c]: Textual amendment: Rule 26(5)-(8) inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(8)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/8)
+[^c-c0ea1b8341a8184e59471f0285c9e30c]: Textual amendment: Rule 26(5)-(8) inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(8)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/8)

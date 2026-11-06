@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 835O. Meaning of “qualifying period”, “relevant disregarded income” and “beneficial entitlement”[^key-5c7c745ed9044bc9f8bd275ec5e93f99]
+## 835O. Meaning of “qualifying period”, “relevant disregarded income” and “beneficial entitlement”[^c-5c7c745ed9044bc9f8bd275ec5e93f99]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c7c745ed9044bc9f8bd275ec5e93f99]: Textual amendment: Ss. 835O-835Q omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 23(4)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/23/4/b), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-5c7c745ed9044bc9f8bd275ec5e93f99]: Textual amendment: Ss. 835O-835Q omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 23(4)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/23/4/b), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

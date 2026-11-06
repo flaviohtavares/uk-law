@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Participation in respect of securities other than shares[^key-2e64513c7512f5d9a4e229395141d151]
+## 19. Participation in respect of securities other than shares[^c-2e64513c7512f5d9a4e229395141d151]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ title to units of that security which are recorded on an Operator register of se
 - (b) the transfer of title to units of that security by means of a relevant system; or
 - (c) subject to paragraph (3), these Regulations,
 
-an issuer of that security[^key-96d743e7e783bad8ae7c74405066f65f] shall not permit the holding of units of that security in uncertificated form, or the transfer of title to units of that security by means of a relevant system.
+an issuer of that security[^c-96d743e7e783bad8ae7c74405066f65f] shall not permit the holding of units of that security in uncertificated form, or the transfer of title to units of that security by means of a relevant system.
 
 (3) On the coming into force of these Regulations the current terms of issue of a relevant participating security shall cease to apply to the extent that they are inconsistent with any provision of these Regulations.
 
@@ -44,6 +44,6 @@ an issuer of that security[^key-96d743e7e783bad8ae7c74405066f65f] shall not perm
 
 ## Annotations
 
-[^key-2e64513c7512f5d9a4e229395141d151]: Commencement: Reg. 19 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-2e64513c7512f5d9a4e229395141d151]: Commencement: Reg. 19 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-96d743e7e783bad8ae7c74405066f65f]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/19/2) substituted (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2003/1633/regulation/5)
+[^c-96d743e7e783bad8ae7c74405066f65f]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/19/2) substituted (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2003/1633/regulation/5)

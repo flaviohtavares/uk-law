@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Hospital grounds[^key-e9b10dcd88fa16595e3fde685d4de295][^key-6688f3374866bf043ee7e2ce72081dc2]
+## 11. Hospital grounds[^c-e9b10dcd88fa16595e3fde685d4de295][^c-6688f3374866bf043ee7e2ce72081dc2]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e9b10dcd88fa16595e3fde685d4de295]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2017/2/section/11) in force at 29.9.2020 for specified purposes by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/1/c)
+[^c-e9b10dcd88fa16595e3fde685d4de295]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2017/2/section/11) in force at 29.9.2020 for specified purposes by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/1/c)
 
-[^key-6688f3374866bf043ee7e2ce72081dc2]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2017/2/section/11) in force at 1.3.2021 in so far as not already in force by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-6688f3374866bf043ee7e2ce72081dc2]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2017/2/section/11) in force at 1.3.2021 in so far as not already in force by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

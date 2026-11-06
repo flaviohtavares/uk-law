@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Annual returns and reviews[^key-3a07388a79e20c459c351ef63e11cba6]
+## 50. Annual returns and reviews[^c-3a07388a79e20c459c351ef63e11cba6]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a07388a79e20c459c351ef63e11cba6]: Commencement: Art. 50 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-3a07388a79e20c459c351ef63e11cba6]: Commencement: Art. 50 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

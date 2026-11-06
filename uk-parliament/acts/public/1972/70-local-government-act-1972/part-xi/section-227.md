@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 227. Provision of depositories for parish and community documents.[^c15120141][^key-9d90cc99a3b0f57d40d7f12dde67444f]
+## 227. Provision of depositories for parish and community documents.[^c15120141][^c-9d90cc99a3b0f57d40d7f12dde67444f]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
     S. 227: certain functions transferred (07.08.1991) by [S.I.1991/1773](https://www.legislation.gov.uk/uksi/1991/1773), [art. 8](https://www.legislation.gov.uk/uksi/1991/1773/article/8), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/1773/schedule/2)
 
-[^key-9d90cc99a3b0f57d40d7f12dde67444f]: Modification: Ss. 224-234 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
+[^c-9d90cc99a3b0f57d40d7f12dde67444f]: Modification: Ss. 224-234 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
 
 [^c15120151]: Textual amendment: Words in s. 227(1)(2) repealed (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(5)(8)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/5/8), [Sch. 15 para. 48](https://www.legislation.gov.uk/ukpga/1994/19/schedule/15/paragraph/48), [Sch. 18](https://www.legislation.gov.uk/ukpga/1994/19/schedule/18) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 

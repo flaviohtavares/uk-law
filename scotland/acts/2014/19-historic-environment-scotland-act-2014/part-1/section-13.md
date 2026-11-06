@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Directions and guidance[^key-97034cb164759724a991e1e37aa21d48]
+## 13. Directions and guidance[^c-97034cb164759724a991e1e37aa21d48]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97034cb164759724a991e1e37aa21d48]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/19/section/13) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-97034cb164759724a991e1e37aa21d48]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/19/section/13) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)

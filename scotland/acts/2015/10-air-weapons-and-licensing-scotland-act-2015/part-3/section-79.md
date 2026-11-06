@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Procedure for hearings[^key-0ea8a2d05915410a29282f6f64c1e8e3]
+## 79. Procedure for hearings[^c-0ea8a2d05915410a29282f6f64c1e8e3]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ea8a2d05915410a29282f6f64c1e8e3]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2015/10/section/79) in force at 1.12.2015 by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)
+[^c-0ea8a2d05915410a29282f6f64c1e8e3]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2015/10/section/79) in force at 1.12.2015 by [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule)

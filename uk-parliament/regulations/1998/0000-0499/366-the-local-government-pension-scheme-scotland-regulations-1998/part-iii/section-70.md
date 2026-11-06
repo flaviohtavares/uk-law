@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70. Changes of employment in which membership is continued[^key-cfad6a51c6df717dac92c433fe62bea1]
+## 70. Changes of employment in which membership is continued[^c-cfad6a51c6df717dac92c433fe62bea1]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfad6a51c6df717dac92c433fe62bea1]: Commencement: Reg. 70 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-cfad6a51c6df717dac92c433fe62bea1]: Commencement: Reg. 70 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Material interests in offshore funds[^key-822e4fa1461167d177636097894f1d6b]
+## 45. Material interests in offshore funds[^c-822e4fa1461167d177636097894f1d6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 759(1A) (meaning of collective investment scheme)[^f00049] for “sam
 
 ## Annotations
 
-[^key-822e4fa1461167d177636097894f1d6b]: Commencement: Art. 45 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-822e4fa1461167d177636097894f1d6b]: Commencement: Art. 45 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00049]: Footnote: Section 759(1A) was inserted by section 134(3) of the Finance Act 1995.

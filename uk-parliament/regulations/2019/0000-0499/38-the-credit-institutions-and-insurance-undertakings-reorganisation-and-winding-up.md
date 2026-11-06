@@ -52,21 +52,21 @@ Coming into force in accordance with regulation 1(2) and (3)
 
 [^c23499651]The Treasury make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and sections 8(1) and 23(6) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 .
 
-The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these regulations) have been satisfied.[^key-9b36988158ef930387ba30be4a66884a]
+The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these regulations) have been satisfied.[^c-9b36988158ef930387ba30be4a66884a]
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-6eedb43c691528d45b459a5b4b3900f5]
+### 1. Citation and commencement[^c-6eedb43c691528d45b459a5b4b3900f5]
 
 (1) These Regulations may be cited as the Credit Institutions and Insurance Undertakings Reorganisation and Winding Up (Amendment) (EU Exit) Regulations 2019.
 
-(2) This regulation and regulation 3(2)(b) come into force immediately before IP completion day[^key-96d53ee00c724b23b94081031fe0760d].
+(2) This regulation and regulation 3(2)(b) come into force immediately before IP completion day[^c-96d53ee00c724b23b94081031fe0760d].
 
 (3) The remaining provisions of these Regulations come into force on exit day.
 
 ## PART 2 — Amendment of secondary legislation
 
-### 2. Amendment of the Insurers (Reorganisation and Winding Up) Regulations 2004[^key-e3c3b3ae63581ac4dbec98cdf1b46ecd]
+### 2. Amendment of the Insurers (Reorganisation and Winding Up) Regulations 2004[^c-e3c3b3ae63581ac4dbec98cdf1b46ecd]
 
 (1) The Insurers (Reorganisation and Winding Up) Regulations 2004 [^c23499661] are amended as follows.
 
@@ -157,11 +157,11 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ### 3. Amendment of the Credit Institutions (Reorganisation and Winding up) Regulations 2004
 
-(1)[^key-413e21ec4fcd596fff52828d5f93f535] The Credit Institutions (Reorganisation and Winding up) Regulations 2004 [^c23499681] are amended as follows.
+(1)[^c-413e21ec4fcd596fff52828d5f93f535] The Credit Institutions (Reorganisation and Winding up) Regulations 2004 [^c23499681] are amended as follows.
 
 (2) In regulation 2 (interpretation)—
 
-- (a)[^key-413e21ec4fcd596fff52828d5f93f535] in paragraph (1)—
+- (a)[^c-413e21ec4fcd596fff52828d5f93f535] in paragraph (1)—
   - (i) omit the following definitions—
     - (aa) “branch”;
     - (bb) “capital requirements directive”;
@@ -176,33 +176,33 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
     - (kk) “official language”; and
     - (ll) “the reorganisation and winding up directive”.
   - (ii) in the definition of “liquidator” omit “, except for the purposes of regulation 4,”;
-  - (iii) in the definition of “recovery and resolution directive” at the end insert “ , as it had effect immediately before IP completion day[^key-bee499991f6d4dc59eca68b5e2a620d4] ”;
-- (b)[^key-797cb3a02f910889125fc4e38c418d90] after paragraph (1) insert—
+  - (iii) in the definition of “recovery and resolution directive” at the end insert “ , as it had effect immediately before IP completion day[^c-bee499991f6d4dc59eca68b5e2a620d4] ”;
+- (b)[^c-797cb3a02f910889125fc4e38c418d90] after paragraph (1) insert—
 
-  > (1A) In the definition of “capital requirements regulation” the reference to Regulation (EU) No. 575/2013 is to be treated as a reference to that EU Regulation as it forms part of retained EU law[^key-c88ae7902200c104615d004460e02c03].
+  > (1A) In the definition of “capital requirements regulation” the reference to Regulation (EU) No. 575/2013 is to be treated as a reference to that EU Regulation as it forms part of retained EU law[^c-c88ae7902200c104615d004460e02c03].
 
   ;
-- (c)[^key-413e21ec4fcd596fff52828d5f93f535] omit paragraph (2).
+- (c)[^c-413e21ec4fcd596fff52828d5f93f535] omit paragraph (2).
 
-(3)[^key-413e21ec4fcd596fff52828d5f93f535] Omit Part 2 (insolvency measures and proceedings: jurisdiction in relation to credit institutions).
+(3)[^c-413e21ec4fcd596fff52828d5f93f535] Omit Part 2 (insolvency measures and proceedings: jurisdiction in relation to credit institutions).
 
-(4)[^key-413e21ec4fcd596fff52828d5f93f535] Omit regulation 10 (notification to EEA regulators).
+(4)[^c-413e21ec4fcd596fff52828d5f93f535] Omit regulation 10 (notification to EEA regulators).
 
-(5)[^key-413e21ec4fcd596fff52828d5f93f535] Omit regulation 12 (publication of voluntary arrangement, administration order, winding-up order or scheme of arrangement).
+(5)[^c-413e21ec4fcd596fff52828d5f93f535] Omit regulation 12 (publication of voluntary arrangement, administration order, winding-up order or scheme of arrangement).
 
-(6)[^key-413e21ec4fcd596fff52828d5f93f535] Omit regulation 13 (honouring of certain obligations).
+(6)[^c-413e21ec4fcd596fff52828d5f93f535] Omit regulation 13 (honouring of certain obligations).
 
-(7)[^key-413e21ec4fcd596fff52828d5f93f535] In regulation 14 (notification to creditors: winding-up proceedings), in paragraph (6) omit “, and that heading must be given in every official language”.
+(7)[^c-413e21ec4fcd596fff52828d5f93f535] In regulation 14 (notification to creditors: winding-up proceedings), in paragraph (6) omit “, and that heading must be given in every official language”.
 
-(8)[^key-413e21ec4fcd596fff52828d5f93f535] Omit regulation 15 (submission of claims by EEA creditors).
+(8)[^c-413e21ec4fcd596fff52828d5f93f535] Omit regulation 15 (submission of claims by EEA creditors).
 
-(9)[^key-413e21ec4fcd596fff52828d5f93f535] Omit regulation 18 (disclosure of confidential information received from an EEA regulator).
+(9)[^c-413e21ec4fcd596fff52828d5f93f535] Omit regulation 18 (disclosure of confidential information received from an EEA regulator).
 
-(10)[^key-413e21ec4fcd596fff52828d5f93f535] In the heading of Part 4 omit “: Recognition of EEA rights”.
+(10)[^c-413e21ec4fcd596fff52828d5f93f535] In the heading of Part 4 omit “: Recognition of EEA rights”.
 
-(11)[^key-413e21ec4fcd596fff52828d5f93f535] In regulation 21 (interpretation of Part 4), in paragraph (1) omit sub-paragraph (c) (the definition of “relevant time”) and the word “and” which immediately precedes that sub-paragraph.
+(11)[^c-413e21ec4fcd596fff52828d5f93f535] In regulation 21 (interpretation of Part 4), in paragraph (1) omit sub-paragraph (c) (the definition of “relevant time”) and the word “and” which immediately precedes that sub-paragraph.
 
-(12)[^key-413e21ec4fcd596fff52828d5f93f535] For regulation 22 (EEA rights: applicable law in the winding up of a UK credit institution) substitute—
+(12)[^c-413e21ec4fcd596fff52828d5f93f535] For regulation 22 (EEA rights: applicable law in the winding up of a UK credit institution) substitute—
 
 > **22. Applicable law in the winding up of a UK credit institution**
 >
@@ -210,7 +210,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 .
 
-(13)[^key-413e21ec4fcd596fff52828d5f93f535] Omit the following regulations—
+(13)[^c-413e21ec4fcd596fff52828d5f93f535] Omit the following regulations—
 
 - (a) regulation 23 (employment contracts and relationships);
 - (b) regulation 24 (contracts in connection with immovable property);
@@ -218,7 +218,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 - (d) regulation 26 (third parties' rights in rem); and
 - (e) regulation 27 (reservation of title agreements etc.).
 
-(14)[^key-413e21ec4fcd596fff52828d5f93f535] In regulation 29 (regulated markets)—
+(14)[^c-413e21ec4fcd596fff52828d5f93f535] In regulation 29 (regulated markets)—
 
 - (a) in paragraph (1)—
   - (i) omit “Subject to regulation 33,”;
@@ -229,23 +229,23 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
   .
 
-(15)[^key-413e21ec4fcd596fff52828d5f93f535] Omit the following regulations—
+(15)[^c-413e21ec4fcd596fff52828d5f93f535] Omit the following regulations—
 
 - (a) regulation 30 (detrimental acts pursuant to the law of an EEA State);
 - (b) regulation 31 (protection of third party purchasers);
 - (c) regulation 32 (lawsuits pending); and
 - (d) regulation 33 (lex rei sitae).
 
-(16)[^key-413e21ec4fcd596fff52828d5f93f535] In regulation 34 (netting agreements) omit paragraph (2)(c).
+(16)[^c-413e21ec4fcd596fff52828d5f93f535] In regulation 34 (netting agreements) omit paragraph (2)(c).
 
-(17)[^key-413e21ec4fcd596fff52828d5f93f535] In regulation 35 (repurchase agreements)—
+(17)[^c-413e21ec4fcd596fff52828d5f93f535] In regulation 35 (repurchase agreements)—
 
 - (a) omit “Subject to regulation 33,”; and
 - (b) omit paragraph (2)(c).
 
-(18)[^key-413e21ec4fcd596fff52828d5f93f535] In regulation 36 (interpretation of Part 5), in paragraph (1)(b)(ii) omit “or an EEA State”.
+(18)[^c-413e21ec4fcd596fff52828d5f93f535] In regulation 36 (interpretation of Part 5), in paragraph (1)(b)(ii) omit “or an EEA State”.
 
-(19)[^key-413e21ec4fcd596fff52828d5f93f535] For regulation 37 (application of these Regulations to a third country credit institution), ignoring the heading, substitute—
+(19)[^c-413e21ec4fcd596fff52828d5f93f535] For regulation 37 (application of these Regulations to a third country credit institution), ignoring the heading, substitute—
 
 > **37.**
 >
@@ -253,34 +253,34 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 .
 
-(20)[^key-413e21ec4fcd596fff52828d5f93f535] Omit regulation 38 (disclosure of confidential information: third country credit institution).
+(20)[^c-413e21ec4fcd596fff52828d5f93f535] Omit regulation 38 (disclosure of confidential information: third country credit institution).
 
-(21)[^key-413e21ec4fcd596fff52828d5f93f535] In regulation 39 (interpretation of Part 6) omit paragraph (a).
+(21)[^c-413e21ec4fcd596fff52828d5f93f535] In regulation 39 (interpretation of Part 6) omit paragraph (a).
 
-(22)[^key-413e21ec4fcd596fff52828d5f93f535] Omit the following regulations—
+(22)[^c-413e21ec4fcd596fff52828d5f93f535] Omit the following regulations—
 
 - (a) regulation 41 (application to EEA investment firms);
 - (b) regulation 43 (reorganisation measures and winding-up proceedings in respect of EEA investment firms effective in the United Kingdom).
 
-(23)[^key-413e21ec4fcd596fff52828d5f93f535] In regulation 44 (interpretation of Part 7) omit paragraph (a).
+(23)[^c-413e21ec4fcd596fff52828d5f93f535] In regulation 44 (interpretation of Part 7) omit paragraph (a).
 
-(24)[^key-413e21ec4fcd596fff52828d5f93f535] Omit the following regulations—
+(24)[^c-413e21ec4fcd596fff52828d5f93f535] Omit the following regulations—
 
 - (a) regulation 46 (application to EEA group companies);
 - (b) regulation 47 (reorganisation measures and winding-up proceedings in respect of EEA group companies effective in the United Kingdom).
 
-(25)[^key-413e21ec4fcd596fff52828d5f93f535] In regulation 48 (interpretation of Part 8)—
+(25)[^c-413e21ec4fcd596fff52828d5f93f535] In regulation 48 (interpretation of Part 8)—
 
 - (a) for the heading substitute “ Members not established in the United Kingdom ”; and
 - (b) for “an EEA State” substitute “ the United Kingdom ”.
 
-### 4. Amendment of the Insurers (Reorganisation and Winding Up (Lloyd's) Regulations 2005[^key-6bc6066d076ca830f12c5651e607e8ab]
+### 4. Amendment of the Insurers (Reorganisation and Winding Up (Lloyd's) Regulations 2005[^c-6bc6066d076ca830f12c5651e607e8ab]
 
 (1) The Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005 [^c23499691] are amended as follows.
 
 (2) In regulation 2 (interpretation), in paragraph (1)—
 
-- (a) in the definition of “the association of underwriters known as Lloyd's” at the end insert “ , as it had effect immediately before IP completion day[^key-af58759edd4eda3928dc9c3f68d9b478]”; and
+- (a) in the definition of “the association of underwriters known as Lloyd's” at the end insert “ , as it had effect immediately before IP completion day[^c-af58759edd4eda3928dc9c3f68d9b478]”; and
 - (b) in the definition of “overseas insurance business” for “that is not or is not part of an EEA State” substitute “ other than the United Kingdom ”.
 
 (3) In regulation 10 (announcement of appointment of controller) omit paragraph (2).
@@ -308,9 +308,9 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 3 — Transitional and saving provisions
 
-### CHAPTER 1 — EEA institutions subject on IP completion day to reorganisation or winding up in another EEA State[^key-1e1f9dc61eb2c959ca9830b6ff2249b8]
+### CHAPTER 1 — EEA institutions subject on IP completion day to reorganisation or winding up in another EEA State[^c-1e1f9dc61eb2c959ca9830b6ff2249b8]
 
-#### 5. Interpretation[^key-c94141eb59cf245ab6e797f53fdf1c2e]
+#### 5. Interpretation[^c-c94141eb59cf245ab6e797f53fdf1c2e]
 
 (1) In this Chapter each of the following definitions has the meaning given in regulation 2(1) of the Credit Institutions (Reorganisation and Winding Up) Regulations 2004 [^c23499701] (“**the 2004 Regulations**”)—
 
@@ -324,7 +324,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 (2) The definitions of “branch” and “EEA State” have effect for the purposes of this Chapter despite being omitted by regulation 3(2)(a).
 
-(3) The definition of “capital requirements directive” has effect for the purposes of this Chapter despite being omitted by regulation 3(2)(a), but is to be read for those purposes as if at the end there were inserted “, as it had effect immediately before IP completion day[^key-7ed74aab8f1788347b8f502da7d0bceb]”.
+(3) The definition of “capital requirements directive” has effect for the purposes of this Chapter despite being omitted by regulation 3(2)(a), but is to be read for those purposes as if at the end there were inserted “, as it had effect immediately before IP completion day[^c-7ed74aab8f1788347b8f502da7d0bceb]”.
 
 (4) The definition of “directive winding-up proceedings”—
 
@@ -360,11 +360,11 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 (6) In this Chapter a directive reorganisation measure is adopted or imposed at the time when it is treated as adopted or imposed by the law of the relevant EEA State, and for these purposes “**relevant EEA State**” means the EEA State under whose law the measure is adopted or imposed.
 
-#### 6. Saving for reorganisation or winding up started in another EEA State before exit day[^key-df4378d0b201e65d1de09618ee0b750f]
+#### 6. Saving for reorganisation or winding up started in another EEA State before exit day[^c-df4378d0b201e65d1de09618ee0b750f]
 
 (1) This regulation applies where a relevant institution is, on exit day, subject to—
 
-- (a) a directive reorganisation measure adopted or imposed under the law of the relevant EEA State before IP completion day[^key-12f549487b8068888141b6675c32b2db] (“relevant measure”); or
+- (a) a directive reorganisation measure adopted or imposed under the law of the relevant EEA State before IP completion day[^c-12f549487b8068888141b6675c32b2db] (“relevant measure”); or
 - (b) directive winding-up proceedings opened under the law of the relevant EEA State before exit day (“relevant proceedings”).
 
 (2) Despite regulation 3(3), (22)(b) and (24)(b)—
@@ -387,7 +387,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 (5) This regulation has effect subject to regulations 7 to 10.
 
-#### 7. Safeguards for the operation of certain financial markets[^key-f8b499b594fd0c78cc84b0ff40da2e7a]
+#### 7. Safeguards for the operation of certain financial markets[^c-f8b499b594fd0c78cc84b0ff40da2e7a]
 
 (1) In this regulation—
 
@@ -414,7 +414,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 - (a) be prohibited under or by virtue of any of the relevant enactments; or
 - (b) interfere with or be inconsistent with any rights of a collateral taker under Part 4 of the 2003 Regulations which could be exercised in the case of such a measure or such proceedings.
 
-#### 8. Conditions under which saving may be disapplied[^key-1fdc76f1ea9efe6f267925af0f6083fc]
+#### 8. Conditions under which saving may be disapplied[^c-1fdc76f1ea9efe6f267925af0f6083fc]
 
 (1) The court may make an order declaring that there is no prohibition against the commencement of any proceedings under the law of insolvency of the United Kingdom in relation to the relevant institution or any branch of that institution.
 
@@ -436,13 +436,13 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 (4) In this regulation “**the court**” means a court having jurisdiction to wind up a company registered under the Companies Act 2006 in England and Wales or Scotland or Northern Ireland.
 
-#### 9. Grounds for making an order under regulation 8[^key-36bfee27441ab32ead6b9961bd03f766]
+#### 9. Grounds for making an order under regulation 8[^c-36bfee27441ab32ead6b9961bd03f766]
 
 (1) In this regulation “**relevant measure**” does not include—
 
 - (a) the application of a resolution tool within the meaning given by Article 2.1(19) of the recovery and resolution directive;
 - (b) the exercise of a resolution power within the meaning given by Article 2.1(20) of the recovery and resolution directive;
-- (c) any other measure to which Article 66 of the recovery and resolution directive applied immediately before IP completion day[^key-c8e9fdd6f15f56eaf515ac33d3c76871].
+- (c) any other measure to which Article 66 of the recovery and resolution directive applied immediately before IP completion day[^c-c8e9fdd6f15f56eaf515ac33d3c76871].
 
 (2) The court may make an order under regulation 8 only if the court is satisfied that one or more of the following conditions are met—
 
@@ -464,7 +464,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
   - (iv) the Financial Conduct Authority;
   - (v) the relevant institution.
 
-#### 10. Effect of an order made under regulation 8[^key-0d047088938e27424cfc56fe759b45ae]
+#### 10. Effect of an order made under regulation 8[^c-0d047088938e27424cfc56fe759b45ae]
 
 (1) An order made in relation to the relevant institution under regulation 8 comes into force on the day on which it is made or on such later date as the court may specify.
 
@@ -475,9 +475,9 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 - (a) the Bank or the Prudential Regulation Authority may, in relation to the relevant institution or any branch of that institution, commence such proceedings under the law of insolvency of the United Kingdom as it sees fit, having regard to the grounds on which the court is satisfied that the condition is met; and
 - (b) where, according to the court's statement in the order, the condition met (or one of them) is one of the conditions specified in regulation 9(2)(b) and (c), a UK creditor of the relevant institution may commence such proceedings under the law of insolvency of the United Kingdom as that person is entitled to commence as a creditor of the institution.
 
-### CHAPTER 2 — EEA insurers subject on IP completion day to reorganisation or winding up in another EEA State[^key-86f17a0d8a847d1f3fda02c8f096356e]
+### CHAPTER 2 — EEA insurers subject on IP completion day to reorganisation or winding up in another EEA State[^c-86f17a0d8a847d1f3fda02c8f096356e]
 
-#### 11. Interpretation[^key-b892a2fbce878f18f7c4abbccb221973]
+#### 11. Interpretation[^c-b892a2fbce878f18f7c4abbccb221973]
 
 (1) In this Chapter each of the following definitions has the meaning given in regulation 2(1) of the Insurers (Reorganisation and Winding Up) Regulations 2004 [^c23499791] (“**the 2004 Regulations**”)—
 
@@ -510,9 +510,9 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
   - (a) is located or payable in the United Kingdom; or
   - (b) is treated by the law of the EEA State under which a directive reorganisation measure was adopted or imposed or directive winding up proceedings were opened as if they were located or payable in the United Kingdom.
 
-#### 12. Saving for reorganisation or winding up started in another EEA State before exit day[^key-8b0c1bead2577e4640d5ff621485116b]
+#### 12. Saving for reorganisation or winding up started in another EEA State before exit day[^c-8b0c1bead2577e4640d5ff621485116b]
 
-(1) This regulation applies where a relevant EEA insurer is, on IP completion day[^key-5f110760c401062197658e4f4c471e3c], subject to—
+(1) This regulation applies where a relevant EEA insurer is, on IP completion day[^c-5f110760c401062197658e4f4c471e3c], subject to—
 
 - (a) a directive reorganisation measure adopted or imposed before IP completion day under the law of an EEA State other than the United Kingdom (“relevant measure”); or
 - (b) directive winding-up proceedings opened before IP completion day under the law of an EEA State other than the United Kingdom (“relevant proceedings”).
@@ -528,7 +528,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 (5) This regulation has effect subject to regulations 13 to 15.
 
-#### 13. Conditions under which saving may be disapplied[^key-97cb9767bbb6eeaefcd6dd6a580ec90d]
+#### 13. Conditions under which saving may be disapplied[^c-97cb9767bbb6eeaefcd6dd6a580ec90d]
 
 (1) The court may make an order declaring that there is no prohibition against the commencement of any proceedings under the law of insolvency of the United Kingdom in relation to the relevant EEA insurer or any branch of that insurer.
 
@@ -546,7 +546,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 (4) In this regulation “**the court**” means a court having jurisdiction to wind up a company registered under the Companies Act 2006 in England and Wales or Scotland or Northern Ireland.
 
-#### 14. Grounds for making an order under regulation 13[^key-11a7c4d0f63035d7e7a7d3cdb1d6cdb7]
+#### 14. Grounds for making an order under regulation 13[^c-11a7c4d0f63035d7e7a7d3cdb1d6cdb7]
 
 (1) The court may make an order under regulation 13 only if the court is satisfied that one or more of the following conditions are met—
 
@@ -567,7 +567,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
   - (v) the Financial Conduct Authority;
   - (vi) the relevant EEA insurer.
 
-#### 15. Effect of an order made under regulation 13[^key-7fb4183b326c0e0d66311cb30d724922]
+#### 15. Effect of an order made under regulation 13[^c-7fb4183b326c0e0d66311cb30d724922]
 
 (1) An order made in relation to the relevant EEA insurer under regulation 13 comes into force on the day on which it is made or on such later date as the court may specify.
 
@@ -619,49 +619,49 @@ An impact assessment of the effect that this instrument, and other instruments m
 
 [^c23499651]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-9b36988158ef930387ba30be4a66884a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/38): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-9b36988158ef930387ba30be4a66884a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/38): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-6eedb43c691528d45b459a5b4b3900f5]: Commencement: Reg. 1 in force at 31.12.2020 immediately before on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-6eedb43c691528d45b459a5b4b3900f5]: Commencement: Reg. 1 in force at 31.12.2020 immediately before on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-96d53ee00c724b23b94081031fe0760d]: Textual amendment: Words in reg. 1(2) substituted (31.12.2020 immediately before IP completion day) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2019/710/regulation/18) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(d)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96d53ee00c724b23b94081031fe0760d]: Textual amendment: Words in reg. 1(2) substituted (31.12.2020 immediately before IP completion day) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2019/710/regulation/18) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 43(d)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/43/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e3c3b3ae63581ac4dbec98cdf1b46ecd]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-e3c3b3ae63581ac4dbec98cdf1b46ecd]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23499661]: Marginal citation: [S.I. 2004/353](https://www.legislation.gov.uk/uksi/2004/353).
 
 [^c23499671]: Marginal citation: [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149).
 
-[^key-413e21ec4fcd596fff52828d5f93f535]: Commencement: Reg. 3(1)(2)(a)(c)(3)-(25) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-413e21ec4fcd596fff52828d5f93f535]: Commencement: Reg. 3(1)(2)(a)(c)(3)-(25) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23499681]: Marginal citation: [S.I. 2004/1045](https://www.legislation.gov.uk/uksi/2004/1045).
 
-[^key-bee499991f6d4dc59eca68b5e2a620d4]: Textual amendment: Words in reg. 3(2)(a)(iii) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/a)
+[^c-bee499991f6d4dc59eca68b5e2a620d4]: Textual amendment: Words in reg. 3(2)(a)(iii) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/a)
 
-[^key-797cb3a02f910889125fc4e38c418d90]: Commencement: Reg. 3(2)(b) in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [reg. 18](https://www.legislation.gov.uk/uksi/2019/710/regulation/18))
+[^c-797cb3a02f910889125fc4e38c418d90]: Commencement: Reg. 3(2)(b) in force immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/710](https://www.legislation.gov.uk/uksi/2019/710), [reg. 18](https://www.legislation.gov.uk/uksi/2019/710/regulation/18))
 
-[^key-c88ae7902200c104615d004460e02c03]: Textual amendment: Words in reg. 3(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)(2)(m)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1/2/m)
+[^c-c88ae7902200c104615d004460e02c03]: Textual amendment: Words in reg. 3(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)(2)(m)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1/2/m)
 
-[^key-6bc6066d076ca830f12c5651e607e8ab]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-6bc6066d076ca830f12c5651e607e8ab]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23499691]: Marginal citation: [S.I. 2005/1998](https://www.legislation.gov.uk/uksi/2005/1998).
 
-[^key-af58759edd4eda3928dc9c3f68d9b478]: Textual amendment: Words in reg. 4(2)(a) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/b)
+[^c-af58759edd4eda3928dc9c3f68d9b478]: Textual amendment: Words in reg. 4(2)(a) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/b)
 
-[^key-1e1f9dc61eb2c959ca9830b6ff2249b8]: Textual amendment: Words in Pt. 3 Ch. 1 heading substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)
+[^c-1e1f9dc61eb2c959ca9830b6ff2249b8]: Textual amendment: Words in Pt. 3 Ch. 1 heading substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(c)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/c)
 
-[^key-c94141eb59cf245ab6e797f53fdf1c2e]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-c94141eb59cf245ab6e797f53fdf1c2e]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23499701]: Marginal citation: [S.I. 2004/1045](https://www.legislation.gov.uk/uksi/2004/1045), which is amended by regulation 3 of these Regulations subject to the transitional and saving provisions in this Part.
 
 [^c23499711]: Marginal citation: The definition of “recovery and resolution directive” is amended by regulation 3(2)(a)(iii) of these Regulations.
 
-[^key-7ed74aab8f1788347b8f502da7d0bceb]: Textual amendment: Words in reg. 5 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(d)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/d)
+[^c-7ed74aab8f1788347b8f502da7d0bceb]: Textual amendment: Words in reg. 5 substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(d)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/d)
 
-[^key-df4378d0b201e65d1de09618ee0b750f]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-df4378d0b201e65d1de09618ee0b750f]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-12f549487b8068888141b6675c32b2db]: Textual amendment: Words in reg. 6(1) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(e)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/e)
+[^c-12f549487b8068888141b6675c32b2db]: Textual amendment: Words in reg. 6(1) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(e)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/e)
 
-[^key-f8b499b594fd0c78cc84b0ff40da2e7a]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-f8b499b594fd0c78cc84b0ff40da2e7a]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23499721]: Marginal citation: [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40).
 
@@ -669,7 +669,7 @@ An impact assessment of the effect that this instrument, and other instruments m
 
 [^c23499741]: Marginal citation: [S.I. 2003/3226](https://www.legislation.gov.uk/uksi/2003/3226).
 
-[^key-1fdc76f1ea9efe6f267925af0f6083fc]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-1fdc76f1ea9efe6f267925af0f6083fc]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23499751]: Marginal citation: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53). Section 90C was inserted by [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805).
 
@@ -677,30 +677,30 @@ An impact assessment of the effect that this instrument, and other instruments m
 
 [^c23499771]: Marginal citation: [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245).
 
-[^key-36bfee27441ab32ead6b9961bd03f766]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-36bfee27441ab32ead6b9961bd03f766]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-c8e9fdd6f15f56eaf515ac33d3c76871]: Textual amendment: Words in reg. 9(1)(c) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/f)
+[^c-c8e9fdd6f15f56eaf515ac33d3c76871]: Textual amendment: Words in reg. 9(1)(c) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/f)
 
 [^c23499781]: Marginal citation: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
-[^key-0d047088938e27424cfc56fe759b45ae]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-0d047088938e27424cfc56fe759b45ae]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-86f17a0d8a847d1f3fda02c8f096356e]: Textual amendment: Words in Pt. 3 Ch. 2 heading substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(g)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/g)
+[^c-86f17a0d8a847d1f3fda02c8f096356e]: Textual amendment: Words in Pt. 3 Ch. 2 heading substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(g)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/g)
 
-[^key-b892a2fbce878f18f7c4abbccb221973]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-b892a2fbce878f18f7c4abbccb221973]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23499791]: Marginal citation: [S.I. 2004/353](https://www.legislation.gov.uk/uksi/2004/353), which is amended by regulation 2 of these Regulations subject to the transitional and saving provisions in this Part.
 
 [^c23499801]: Marginal citation: [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149).
 
-[^key-8b0c1bead2577e4640d5ff621485116b]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-8b0c1bead2577e4640d5ff621485116b]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-5f110760c401062197658e4f4c471e3c]: Textual amendment: Words in reg. 12(1) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(h)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/h)
+[^c-5f110760c401062197658e4f4c471e3c]: Textual amendment: Words in reg. 12(1) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 13(h)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/13/h)
 
-[^key-97cb9767bbb6eeaefcd6dd6a580ec90d]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-97cb9767bbb6eeaefcd6dd6a580ec90d]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23499811]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-11a7c4d0f63035d7e7a7d3cdb1d6cdb7]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-11a7c4d0f63035d7e7a7d3cdb1d6cdb7]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-7fb4183b326c0e0d66311cb30d724922]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-7fb4183b326c0e0d66311cb30d724922]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35A. Exception for ceremonies or events to mark a marriage or civil partnership[^key-9767a7f2d0cc0d47d905211c38662faa]
+## 35A. Exception for ceremonies or events to mark a marriage or civil partnership[^c-9767a7f2d0cc0d47d905211c38662faa]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9767a7f2d0cc0d47d905211c38662faa]: Textual amendment: [Art. 35A](https://www.legislation.gov.uk/nisi/1976/1042/article/35A) omitted (1.9.2020) by virtue of [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2020/742/regulation/14/2/b)
+[^c-9767a7f2d0cc0d47d905211c38662faa]: Textual amendment: [Art. 35A](https://www.legislation.gov.uk/nisi/1976/1042/article/35A) omitted (1.9.2020) by virtue of [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2020/742/regulation/14/2/b)

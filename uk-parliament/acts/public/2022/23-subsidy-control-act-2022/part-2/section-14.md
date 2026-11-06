@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Introductory[^key-a59eec9414146f6f65efe15fe5d75c87][^key-3e1b716effefa5ad0c79dc6f367c5208]
+## 14. Introductory[^c-a59eec9414146f6f65efe15fe5d75c87][^c-3e1b716effefa5ad0c79dc6f367c5208]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ This Chapter—
 
 ## Annotations
 
-[^key-a59eec9414146f6f65efe15fe5d75c87]: Commencement: S. 14 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-a59eec9414146f6f65efe15fe5d75c87]: Commencement: S. 14 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-3e1b716effefa5ad0c79dc6f367c5208]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2022/23/section/14) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-3e1b716effefa5ad0c79dc6f367c5208]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2022/23/section/14) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

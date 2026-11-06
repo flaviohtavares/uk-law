@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 72. Forfeiture of pension rights after conviction of employment-related offences[^key-e7fe274c73d5c8c55d1b7fa8632f3d1e]
+## 72. Forfeiture of pension rights after conviction of employment-related offences[^c-e7fe274c73d5c8c55d1b7fa8632f3d1e]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7fe274c73d5c8c55d1b7fa8632f3d1e]: Commencement: Reg. 72 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-e7fe274c73d5c8c55d1b7fa8632f3d1e]: Commencement: Reg. 72 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

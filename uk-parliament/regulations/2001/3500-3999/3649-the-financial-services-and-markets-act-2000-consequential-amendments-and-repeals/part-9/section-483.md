@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 483. Actionable contraventions[^key-4c0b17858d54dd6ef7bea5032113fc8a]
+## 483. Actionable contraventions[^c-4c0b17858d54dd6ef7bea5032113fc8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4c0b17858d54dd6ef7bea5032113fc8a]: Commencement: Art. 483 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-4c0b17858d54dd6ef7bea5032113fc8a]: Commencement: Art. 483 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00315]: Footnote: Regulation B5 was inserted by [S.I. 1997/80](https://www.legislation.gov.uk/uksi/1997/80), regulation 3.
 

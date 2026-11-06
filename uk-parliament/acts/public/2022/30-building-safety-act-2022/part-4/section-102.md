@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Special measures[^key-aff6ffcd602075d822898b962df20945][^key-2a8ce8212d82d361142eab37c0292b5d]
+## 102. Special measures[^c-aff6ffcd602075d822898b962df20945][^c-2a8ce8212d82d361142eab37c0292b5d]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 7 provides for the appointment of a special measures manager, to undert
 
 ## Annotations
 
-[^key-aff6ffcd602075d822898b962df20945]: Commencement: S. 102 in force at Royal Assent for specified purposes, see [s. 170](https://www.legislation.gov.uk/ukpga/2022/30/section/170)
+[^c-aff6ffcd602075d822898b962df20945]: Commencement: S. 102 in force at Royal Assent for specified purposes, see [s. 170](https://www.legislation.gov.uk/ukpga/2022/30/section/170)
 
-[^key-2a8ce8212d82d361142eab37c0292b5d]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2022/30/section/102) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-2a8ce8212d82d361142eab37c0292b5d]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2022/30/section/102) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 201. Processing of US technology after a normal launch[^key-e776198c2be60fe24d4c351afa8b06fe]
+## 201. Processing of US technology after a normal launch[^c-e776198c2be60fe24d4c351afa8b06fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e776198c2be60fe24d4c351afa8b06fe]: Commencement: Reg. 201 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-e776198c2be60fe24d4c351afa8b06fe]: Commencement: Reg. 201 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

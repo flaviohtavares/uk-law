@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Reports about water quality[^key-0dc85e893569604c2ebce921ebecd6c7]
+## 26. Reports about water quality[^c-0dc85e893569604c2ebce921ebecd6c7]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dc85e893569604c2ebce921ebecd6c7]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2017/282/regulation/26) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-0dc85e893569604c2ebce921ebecd6c7]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2017/282/regulation/26) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Extradition to British overseas territories[^key-502620a6ab56b5baf7c4bd2fb8e8227e]
+## 178. Extradition to British overseas territories[^c-502620a6ab56b5baf7c4bd2fb8e8227e]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-502620a6ab56b5baf7c4bd2fb8e8227e]: Modification: S. 178 extended (1.5.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 151(2)(c)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/2/c), [153(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/153/2)
+[^c-502620a6ab56b5baf7c4bd2fb8e8227e]: Modification: S. 178 extended (1.5.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 151(2)(c)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/2/c), [153(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/153/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 283. Charges for copy documents[^key-0b58b9571cd22b81c769f166ec3f5085]
+## 283. Charges for copy documents[^c-0b58b9571cd22b81c769f166ec3f5085]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Except where prohibited by these Rules, the administrator is entitled to require
 
 ## Annotations
 
-[^key-0b58b9571cd22b81c769f166ec3f5085]: Commencement: Rule 283 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-0b58b9571cd22b81c769f166ec3f5085]: Commencement: Rule 283 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Employing disqualified lawyer[^key-28195aa825389c80e86edb69ca6ae020]
+## 72. Employing disqualified lawyer[^c-28195aa825389c80e86edb69ca6ae020]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ its approved regulator may revoke or suspend its licence.
 
 ## Annotations
 
-[^key-28195aa825389c80e86edb69ca6ae020]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2010/16/section/72) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-28195aa825389c80e86edb69ca6ae020]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2010/16/section/72) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

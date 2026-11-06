@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Saving for Trinity House[^key-de4e91b296932e6c117810eaeff9dcd6]
+## 46. Saving for Trinity House[^c-de4e91b296932e6c117810eaeff9dcd6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Nothing in this Order prejudices or derogates from any of the powers, rights or 
 
 ## Annotations
 
-[^key-de4e91b296932e6c117810eaeff9dcd6]: Commencement: Art. 46 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-de4e91b296932e6c117810eaeff9dcd6]: Commencement: Art. 46 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

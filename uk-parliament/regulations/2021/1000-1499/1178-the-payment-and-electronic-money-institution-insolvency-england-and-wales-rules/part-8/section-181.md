@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 181. Administrator’s duties on vacating office[^key-6141719ea314b5b208b005d7ecef24c7]
+## 181. Administrator’s duties on vacating office[^c-6141719ea314b5b208b005d7ecef24c7]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6141719ea314b5b208b005d7ecef24c7]: Commencement: Rule 181 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-6141719ea314b5b208b005d7ecef24c7]: Commencement: Rule 181 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

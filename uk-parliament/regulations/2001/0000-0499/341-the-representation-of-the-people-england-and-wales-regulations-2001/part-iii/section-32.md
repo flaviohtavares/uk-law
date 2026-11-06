@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Registration appeals[^key-a17d9f880772c1c6c8e6f229fbc0cc7c]
+## 32. Registration appeals[^c-a17d9f880772c1c6c8e6f229fbc0cc7c]
 
 *Extent: E+W*
 
-(1)[^key-ec0a571553f00b477c26879fafe74130] This regulation makes provision in connection with the right of appeal under section 56(1)(a), (aza), (azb), (azc), (azd), (aa) and (ab) of the 1983 Act.
+(1)[^c-ec0a571553f00b477c26879fafe74130] This regulation makes provision in connection with the right of appeal under section 56(1)(a), (aza), (azb), (azc), (azd), (aa) and (ab) of the 1983 Act.
 
 (2) A person desiring to appeal must—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a17d9f880772c1c6c8e6f229fbc0cc7c]: Commencement: Reg. 32 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-a17d9f880772c1c6c8e6f229fbc0cc7c]: Commencement: Reg. 32 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
 
-[^key-ec0a571553f00b477c26879fafe74130]: Textual amendment: Reg. 32(1) substituted (9.12.2014) by [The Representation of the People (England and Wales) (Amendment No. 2) Regulations 2014 (S.I. 2014/3161)](https://www.legislation.gov.uk/uksi/2014/3161), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3161/regulation/1), [6](https://www.legislation.gov.uk/uksi/2014/3161/regulation/6)
+[^c-ec0a571553f00b477c26879fafe74130]: Textual amendment: Reg. 32(1) substituted (9.12.2014) by [The Representation of the People (England and Wales) (Amendment No. 2) Regulations 2014 (S.I. 2014/3161)](https://www.legislation.gov.uk/uksi/2014/3161), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3161/regulation/1), [6](https://www.legislation.gov.uk/uksi/2014/3161/regulation/6)

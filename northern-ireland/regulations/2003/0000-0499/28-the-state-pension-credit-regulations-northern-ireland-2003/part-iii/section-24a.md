@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24A. Rounding of fractions[^key-24705fbc7a317ae846abf6dc32b70496]
+## 24A. Rounding of fractions[^c-24705fbc7a317ae846abf6dc32b70496]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where any calculation under this Part results in a fraction of a penny that frac
 
 ## Annotations
 
-[^key-24705fbc7a317ae846abf6dc32b70496]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/nisr/2003/28/regulation/24A) inserted (6.10.2003) by [The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations (Northern Ireland) 2003 (S.R. 2003/191)](https://www.legislation.gov.uk/nisr/2003/191), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2003/191/regulation/1/2/b), [23(5)](https://www.legislation.gov.uk/nisr/2003/191/regulation/23/5) (with [regs. 34-36](https://www.legislation.gov.uk/nisr/2003/191/regulation/34))
+[^c-24705fbc7a317ae846abf6dc32b70496]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/nisr/2003/28/regulation/24A) inserted (6.10.2003) by [The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) Regulations (Northern Ireland) 2003 (S.R. 2003/191)](https://www.legislation.gov.uk/nisr/2003/191), [regs. 1(2)(b)](https://www.legislation.gov.uk/nisr/2003/191/regulation/1/2/b), [23(5)](https://www.legislation.gov.uk/nisr/2003/191/regulation/23/5) (with [regs. 34-36](https://www.legislation.gov.uk/nisr/2003/191/regulation/34))

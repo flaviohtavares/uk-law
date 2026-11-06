@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Power to apply Articles 99 to 102 to other cases[^key-21c21e4c5b6410ede185155dff1e7605]
+## 98. Power to apply Articles 99 to 102 to other cases[^c-21c21e4c5b6410ede185155dff1e7605]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 103(1)(a) of the Companies (No. 2) (Northern Ireland) Order 1990 (pow
 
 ## Annotations
 
-[^key-21c21e4c5b6410ede185155dff1e7605]: Commencement: Art. 98 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-21c21e4c5b6410ede185155dff1e7605]: Commencement: Art. 98 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

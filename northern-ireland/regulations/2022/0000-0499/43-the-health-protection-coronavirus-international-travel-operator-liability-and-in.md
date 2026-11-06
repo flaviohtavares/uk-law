@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment No. 2) Regulations (Northern Ireland) 2022 (revoked)[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Amendment No. 2) Regulations (Northern Ireland) 2022 (revoked)[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 Made
 
@@ -40,95 +40,95 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-a3cad8b0da0b4e9ce82f7d8334d02358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3cad8b0da0b4e9ce82f7d8334d02358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introduction[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+## PART 1 — Introduction[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
-### 1. Citation and commencement[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+### 1. Citation and commencement[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
-
-### Amendment of the Principal Regulations[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
-
-#### 3. Amendment of the principal Regulations[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+### 2. Interpretation[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Extension of time for requirement to provide passenger information[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+## PART 2[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
+
+### Amendment of the Principal Regulations[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
+
+#### 3. Amendment of the principal Regulations[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Amendment of requirement to provide passenger information[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+#### 4. Extension of time for requirement to provide passenger information[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Removal of requirement for eligible non-red list arrival to book and undertake tests[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+#### 5. Amendment of requirement to provide passenger information[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Relaxation of requirement for eligible non-red list arrival to book and undertake tests[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+#### 6. Removal of requirement for eligible non-red list arrival to book and undertake tests[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Removal of requirement for non-eligible non-red list arrival to self-isolate[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+#### 7. Relaxation of requirement for eligible non-red list arrival to book and undertake tests[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Relaxation of requirements for workforce testing[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+#### 8. Removal of requirement for non-eligible non-red list arrival to self-isolate[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Updates to relevant countries lists for eligible arrivals[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+#### 9. Relaxation of requirements for workforce testing[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
-
-### Amendment of the Operator Liability Regulations[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
-
-#### 11. Amendment of the Operator Liability Regulations[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+#### 10. Updates to relevant countries lists for eligible arrivals[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Requirement to implement and maintain systems and processes[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+## PART 3[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
+
+### Amendment of the Operator Liability Regulations[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
+
+#### 11. Amendment of the Operator Liability Regulations[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Fixed penalty notices[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+#### 12. Requirement to implement and maintain systems and processes[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Simplification of requirement to provide information to passengers[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+#### 13. Fixed penalty notices[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Records and information[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+#### 14. Simplification of requirement to provide information to passengers[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Final[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
-
-### 16. Correction of errors in previous Regulations[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+#### 15. Records and information[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Transitional provisions[^key-a3cad8b0da0b4e9ce82f7d8334d02358]
+## PART 4 — Final[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
+
+### 16. Correction of errors in previous Regulations[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3cad8b0da0b4e9ce82f7d8334d02358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 17. Transitional provisions[^c-a3cad8b0da0b4e9ce82f7d8334d02358]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a3cad8b0da0b4e9ce82f7d8334d02358]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-a3cad8b0da0b4e9ce82f7d8334d02358]EXPLANATORY NOTE
+[^c-a3cad8b0da0b4e9ce82f7d8334d02358]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -168,4 +168,4 @@ No impact assessment has been prepared for these Regulations.
 
 ## Annotations
 
-[^key-a3cad8b0da0b4e9ce82f7d8334d02358]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)
+[^c-a3cad8b0da0b4e9ce82f7d8334d02358]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/122/schedule)

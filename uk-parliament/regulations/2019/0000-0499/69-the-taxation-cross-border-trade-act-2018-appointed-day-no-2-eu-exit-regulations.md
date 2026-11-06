@@ -39,13 +39,13 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by section 57(2) of the Taxation (Cross-border Trade) Act 2018 [^c23540851], makes the following Regulations.
 
-## 1. Citation and interpretation[^key-5bf23b467826adeb1ac4d417d650fc13]
+## 1. Citation and interpretation[^c-5bf23b467826adeb1ac4d417d650fc13]
 
 (1) These Regulations may be cited as the Taxation (Cross-border Trade) Act 2018 (Appointed Day No. 2) (EU Exit) Regulations 2019.
 
 (2) In these Regulations, “**the Act**” means the Taxation (Cross-border Trade) Act 2018.
 
-## 2. Appointed day[^key-19efe618d14a21c81dc0c81ddecd1dec]
+## 2. Appointed day[^c-19efe618d14a21c81dc0c81ddecd1dec]
 
 The day appointed for the coming into force of sections 10 and 15 of, and Schedule 3 to, the Act is 23rd January 2019.
 
@@ -77,6 +77,6 @@ The following provisions of the Taxation (Cross-border Trade) Act 2018 have been
 
 [^c23540851]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-5bf23b467826adeb1ac4d417d650fc13]: Commencement: Reg. 1 in force at made date
+[^c-5bf23b467826adeb1ac4d417d650fc13]: Commencement: Reg. 1 in force at made date
 
-[^key-19efe618d14a21c81dc0c81ddecd1dec]: Commencement: Reg. 2 in force at made date
+[^c-19efe618d14a21c81dc0c81ddecd1dec]: Commencement: Reg. 2 in force at made date

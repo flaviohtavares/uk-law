@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Transitory provision: eligibility of suitable members of Lands Tribunal for Scotland to sit in Upper Tribunal[^key-91d83408e6621097c5f614858cc2282d][^key-aad6af18a86d41e08bbdd113155a8050]
+## 60. Transitory provision: eligibility of suitable members of Lands Tribunal for Scotland to sit in Upper Tribunal[^c-91d83408e6621097c5f614858cc2282d][^c-aad6af18a86d41e08bbdd113155a8050]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-91d83408e6621097c5f614858cc2282d]: Commencement: S. 60 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-91d83408e6621097c5f614858cc2282d]: Commencement: S. 60 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
 
-[^key-aad6af18a86d41e08bbdd113155a8050]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2026/17/section/60) in force at 26.10.2026 by [S.S.I. 2026/283](https://www.legislation.gov.uk/ssi/2026/283), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/283/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2026/283/schedule)
+[^c-aad6af18a86d41e08bbdd113155a8050]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2026/17/section/60) in force at 26.10.2026 by [S.S.I. 2026/283](https://www.legislation.gov.uk/ssi/2026/283), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/283/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2026/283/schedule)

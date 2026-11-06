@@ -34,7 +34,7 @@ Flood Risk Management
 
 Water Supply
 
-The Reservoirs (Scotland) Amendment Regulations 2015 (revoked)[^key-106fc143181abf5bbb978c72559173fe]
+The Reservoirs (Scotland) Amendment Regulations 2015 (revoked)[^c-106fc143181abf5bbb978c72559173fe]
 
 Made
 
@@ -48,44 +48,44 @@ Coming into force
 
 1st October 2015
 
-[^key-106fc143181abf5bbb978c72559173fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-106fc143181abf5bbb978c72559173fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-106fc143181abf5bbb978c72559173fe]
+## 1. Citation, commencement and interpretation[^c-106fc143181abf5bbb978c72559173fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 1 (citation, commencement and interpretation)[^key-106fc143181abf5bbb978c72559173fe]
+## 2. Amendment of regulation 1 (citation, commencement and interpretation)[^c-106fc143181abf5bbb978c72559173fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 8 (structures or areas which are not controlled reservoirs)[^key-106fc143181abf5bbb978c72559173fe]
+## 3. Amendment of regulation 8 (structures or areas which are not controlled reservoirs)[^c-106fc143181abf5bbb978c72559173fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 10 (controlled reservoirs register: additional information)[^key-106fc143181abf5bbb978c72559173fe]
+## 4. Amendment of regulation 10 (controlled reservoirs register: additional information)[^c-106fc143181abf5bbb978c72559173fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Substitution of regulation 17 (transfer fees: general)[^key-106fc143181abf5bbb978c72559173fe]
+## 5. Substitution of regulation 17 (transfer fees: general)[^c-106fc143181abf5bbb978c72559173fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Substitution of regulation 18 (transfer fees: determination and charging)[^key-106fc143181abf5bbb978c72559173fe]
+## 6. Substitution of regulation 18 (transfer fees: determination and charging)[^c-106fc143181abf5bbb978c72559173fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Insertion of new Part 3A (risk designation)[^key-106fc143181abf5bbb978c72559173fe]
+## 7. Insertion of new Part 3A (risk designation)[^c-106fc143181abf5bbb978c72559173fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-106fc143181abf5bbb978c72559173fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-106fc143181abf5bbb978c72559173fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-106fc143181abf5bbb978c72559173fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-106fc143181abf5bbb978c72559173fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-106fc143181abf5bbb978c72559173fe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2015/315) revoked (1.4.2016) by [The Reservoirs (Scotland) Regulations 2016 (S.S.I. 2016/43)](https://www.legislation.gov.uk/ssi/2016/43), [reg. 1](https://www.legislation.gov.uk/ssi/2016/43/regulation/1), [sch. 19](https://www.legislation.gov.uk/ssi/2016/43/schedule/19)
+[^c-106fc143181abf5bbb978c72559173fe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2015/315) revoked (1.4.2016) by [The Reservoirs (Scotland) Regulations 2016 (S.S.I. 2016/43)](https://www.legislation.gov.uk/ssi/2016/43), [reg. 1](https://www.legislation.gov.uk/ssi/2016/43/regulation/1), [sch. 19](https://www.legislation.gov.uk/ssi/2016/43/schedule/19)

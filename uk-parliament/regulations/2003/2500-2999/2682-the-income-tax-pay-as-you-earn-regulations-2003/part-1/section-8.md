@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Employee’s code[^key-4845d1a6b296ce6c28f135d5e9b1c1b2]
+## 8. Employee’s code[^c-4845d1a6b296ce6c28f135d5e9b1c1b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ by the Inland Revenue, and any code so issued is received by the employer for th
 
 ## Annotations
 
-[^key-4845d1a6b296ce6c28f135d5e9b1c1b2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2003/2682/regulation/8) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-4845d1a6b296ce6c28f135d5e9b1c1b2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2003/2682/regulation/8) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)

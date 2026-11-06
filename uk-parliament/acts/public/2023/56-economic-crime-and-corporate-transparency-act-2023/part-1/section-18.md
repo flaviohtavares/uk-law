@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Direction to change name wrongly registered[^key-a0fa9523154a2888c8183578b262efbf][^key-782e5f6e255bebdd018aa8ad869faf44]
+## 18. Direction to change name wrongly registered[^c-a0fa9523154a2888c8183578b262efbf][^c-782e5f6e255bebdd018aa8ad869faf44]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a0fa9523154a2888c8183578b262efbf]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-a0fa9523154a2888c8183578b262efbf]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-782e5f6e255bebdd018aa8ad869faf44]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2023/56/section/18) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/n)
+[^c-782e5f6e255bebdd018aa8ad869faf44]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2023/56/section/18) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/n)

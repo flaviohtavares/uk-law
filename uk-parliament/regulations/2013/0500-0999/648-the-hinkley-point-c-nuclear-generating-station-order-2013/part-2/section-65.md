@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. Lights on tidal works etc. during construction[^key-8bcfcce6a231dd1351070e7f9bb6683f]
+## 65. Lights on tidal works etc. during construction[^c-8bcfcce6a231dd1351070e7f9bb6683f]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ during the whole time of the construction, reconstruction, extension, enlargemen
 
 ## Annotations
 
-[^key-8bcfcce6a231dd1351070e7f9bb6683f]: Commencement: Art. 65 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-8bcfcce6a231dd1351070e7f9bb6683f]: Commencement: Art. 65 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

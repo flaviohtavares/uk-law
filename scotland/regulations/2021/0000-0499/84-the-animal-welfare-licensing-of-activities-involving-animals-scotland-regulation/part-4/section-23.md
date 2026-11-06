@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Offences and penalties[^key-4de660100507cad999127ae03b2321ec]
+## 23. Offences and penalties[^c-4de660100507cad999127ae03b2321ec]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4de660100507cad999127ae03b2321ec]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2021/84/regulation/23) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-4de660100507cad999127ae03b2321ec]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2021/84/regulation/23) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

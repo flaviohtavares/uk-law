@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103C. Power to make regulations about collective investment schemes[^key-5f96dc815a49c99979c5630723f36038]
+## 103C. Power to make regulations about collective investment schemes[^c-5f96dc815a49c99979c5630723f36038]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f96dc815a49c99979c5630723f36038]: Textual amendment: S. 103C inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 36(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/36/3)
+[^c-5f96dc815a49c99979c5630723f36038]: Textual amendment: S. 103C inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 36(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/36/3)

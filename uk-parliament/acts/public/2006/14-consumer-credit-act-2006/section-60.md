@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Funding of ombudsman scheme[^key-fc2ed4ece83d2936208c98aada414ef4]
+## 60. Funding of ombudsman scheme[^c-fc2ed4ece83d2936208c98aada414ef4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc2ed4ece83d2936208c98aada414ef4]: Textual amendment: [S. 60](https://www.legislation.gov.uk/ukpga/2006/14/section/60) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)
+[^c-fc2ed4ece83d2936208c98aada414ef4]: Textual amendment: [S. 60](https://www.legislation.gov.uk/ukpga/2006/14/section/60) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)

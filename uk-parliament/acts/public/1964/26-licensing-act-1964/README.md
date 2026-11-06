@@ -31,24 +31,24 @@ Licensing Act 1964 (repealed)
 
 1964 c. 26
 
-[^key-08dfeba7c89d3df57009a817dae195d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08dfeba7c89d3df57009a817dae195d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Part I — The General Licensing System[^key-08dfeba7c89d3df57009a817dae195d1]
+### Part I — The General Licensing System[^c-08dfeba7c89d3df57009a817dae195d1]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### Justices’ licences and provisions as to licensing justices[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Justices’ licences and provisions as to licensing justices[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 1 — Justices’ licenses.](part-i/section-1.md)
 - [Section 2 — Licensing justices and districts.](part-i/section-2.md)
 
-#### Grant of justices’ licence[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Grant of justices’ licence[^c-08dfeba7c89d3df57009a817dae195d1]
 
 *Extent: E+W*
 
@@ -63,21 +63,21 @@ Licensing Act 1964 (repealed)
 - [Section 8A — Approval of prospective licensees.](part-i/section-8a.md)
 - [Section 9 — Persons and premises disqualified for holding or receiving justices’ licence.](part-i/section-9.md)
 
-#### Interim authorities[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Interim authorities[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 9A — Interim authorities.](part-i/section-9a.md)
 - [Section 9B — Supplementary provisions relating to interim authorities.](part-i/section-9b.md)
 
-#### Protection orders[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Protection orders[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 10 — Protection orders.](part-i/section-10.md)
 - [Section 11 — Supplementary provisions relating to protection orders.](part-i/section-11.md)
 
-#### Old on-licences[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Old on-licences[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -86,20 +86,20 @@ Licensing Act 1964 (repealed)
 - [Section 15 — Special removals of old on-licences.](part-i/section-15.md)
 - [Section 16 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-16.md)
 
-#### Control of licensing justices over structure of licensed premises[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Control of licensing justices over structure of licensed premises[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 19 — Power to require structural alterations on renewal of on-licence.](part-i/section-19.md)
 - [Section 20 — Consent required for certain alterations to on-licensed premises.](part-i/section-20.md)
 
-#### Revocation of justices licenses[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Revocation of justices licenses[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 20A — Revocation.](part-i/section-20a.md)
 
-#### Appeals[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Appeals[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -109,14 +109,14 @@ Licensing Act 1964 (repealed)
 - [Section 24 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-24.md)
 - [Section 25 — Award of costs of licensing justices out of local funds.](part-i/section-25.md)
 
-#### Duration of Licences[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Duration of Licences[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 26 — Duration of licences.](part-i/section-26.md)
 - [Section 27 — Effect on duration of opposition to grant of licence.](part-i/section-27.md)
 
-#### Clerk and chief executiveto licensing justices and fees[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Clerk and chief executiveto licensing justices and fees[^c-08dfeba7c89d3df57009a817dae195d1]
 
 *Extent: E+W*
 
@@ -125,7 +125,7 @@ Licensing Act 1964 (repealed)
 - [Section 28 — Clerk and designated officer for licensing justices.](part-i/section-28.md)
 - [Section 29 — Fees chargeable in licensing matters.](part-i/section-29.md)
 
-#### Register of Licences[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Register of Licences[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -136,7 +136,7 @@ Licensing Act 1964 (repealed)
 - [Section 34 — Inspection of register.](part-i/section-34.md)
 - [Section 35 — Duty of licensing justices to have regard to entries in register.](part-i/section-35.md)
 
-#### Miscellaneous[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Miscellaneous[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -144,15 +144,15 @@ Licensing Act 1964 (repealed)
 - [Section 37 — Power to extend existing on-licence to additional types of liquor.](part-i/section-37.md)
 - [Section 38 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-38.md)
 
-### Part II — Sale and Supply of Intoxicating Liquor in ClubPremises[^key-08dfeba7c89d3df57009a817dae195d1]
+### Part II — Sale and Supply of Intoxicating Liquor in ClubPremises[^c-08dfeba7c89d3df57009a817dae195d1]
 
-#### Conditions for supply of intoxicating liquor by clubs[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Conditions for supply of intoxicating liquor by clubs[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 39 — Conditions for supply of intoxicating liquor by clubs.](part-ii/section-39.md)
 
-#### Registered clubs[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Registered clubs[^c-08dfeba7c89d3df57009a817dae195d1]
 
 - [Section 40 — Registration of clubs.](part-ii/section-40.md)
 - [Section 41 — Qualifications for registration.](part-ii/section-41.md)
@@ -170,38 +170,38 @@ Licensing Act 1964 (repealed)
 - [Section 53 — Penalty for false statements.](part-ii/section-53.md)
 - [Section 54 — Search warrants.](part-ii/section-54.md)
 
-#### Licensing of club premises[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Licensing of club premises[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 55 — Licensing of club premises.](part-ii/section-55.md)
 
-#### Miners’ welfare institutes[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Miners’ welfare institutes[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 56 — Application of Part II to miners’ welfare institutes.](part-ii/section-56.md)
 
-#### Supplemental[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Supplemental[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 57 — Applications to magistrates’ court under Part II.](part-ii/section-57.md)
 - [Section 58 — Interpretation of Part II.](part-ii/section-58.md)
 
-### Part III — Permitted Hours[^key-08dfeba7c89d3df57009a817dae195d1]
+### Part III — Permitted Hours[^c-08dfeba7c89d3df57009a817dae195d1]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### Prohibition of sale, et ceteralaetc. of intoxicating liquor outside permitted hours[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Prohibition of sale, et ceteralaetc. of intoxicating liquor outside permitted hours[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 59 — Prohibition of sale, etc. of intoxicating liquor outside permitted hours.](part-iii/section-59.md)
 
-#### General provisions as to permitted hours[^key-08dfeba7c89d3df57009a817dae195d1]
+#### General provisions as to permitted hours[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -209,13 +209,13 @@ Licensing Act 1964 (repealed)
 - [Section 61 — Orders varying permitted hours.](part-iii/section-61.md)
 - [Section 62 — Permitted hours in clubs.](part-iii/section-62.md)
 
-#### Exceptions[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Exceptions[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 63 — Exceptions from prohibition of sale, etc. of intoxicating liquor outside permitted hours.](part-iii/section-63.md)
 
-#### Restrictions on permitted hours in licensed premises[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Restrictions on permitted hours in licensed premises[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -224,7 +224,7 @@ Licensing Act 1964 (repealed)
 - [Section 66 — Sunday closing in Wales and Monmouthshire.](part-iii/section-66.md)
 - [Section 67 — Supplementary provisions for Welsh Sunday polls.](part-iii/section-67.md)
 
-#### Restriction orders with respect to licensed premises and clubs[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Restriction orders with respect to licensed premises and clubs[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -233,7 +233,7 @@ Licensing Act 1964 (repealed)
 - [Section 67C — Revocation or variation of restriction orders.](part-iii/section-67c.md)
 - [Section 67D — Duty to post notice of restriction order on premises.](part-iii/section-67d.md)
 
-#### Extension of permitted hours in licensed premises and clubs[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Extension of permitted hours in licensed premises and clubs[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -246,7 +246,7 @@ Licensing Act 1964 (repealed)
 - [Section 74 — Exemption orders.](part-iii/section-74.md)
 - [Section 75 — Procedural provisions as to exemption orders outside metropolitan area.](part-iii/section-75.md)
 
-#### Special hours certificates[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Special hours certificates[^c-08dfeba7c89d3df57009a817dae195d1]
 
 *Extent: E+W*
 
@@ -267,20 +267,20 @@ Licensing Act 1964 (repealed)
 - [Section 82 — Special hours certificate and extension or exemption orders in respect of same premises.](part-iii/section-82.md)
 - [Section 83 — Supplementary provisions as to special hours certificates.](part-iii/section-83.md)
 
-#### Millennium licensing hours[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Millennium licensing hours[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 83A — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-83a.md)
 
-#### Parties organised for gain[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Parties organised for gain[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 84 — Prohibition of consumption of intoxicating liquor outside general licensing hours at parties organised for gain.](part-iii/section-84.md)
 - [Section 85 — Supplemental provisions as to parties organised for gain.](part-iii/section-85.md)
 
-#### Miscellaneous[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Miscellaneous[^c-08dfeba7c89d3df57009a817dae195d1]
 
 *Extent: E+W*
 
@@ -292,7 +292,7 @@ Licensing Act 1964 (repealed)
 - [Section 87A — Power to vary permitted hours in on-licensed vineyard premises.](part-iii/section-87a.md)
 - [Section 88 — Saving as to Sunday observance.](part-iii/section-88.md)
 
-#### Supplementary provisions[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Supplementary provisions[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -301,7 +301,7 @@ Licensing Act 1964 (repealed)
 - [Section 91 — Procedure of licensing justices.](part-iii/section-91.md)
 - [Section 92 — Meaning of the magistrates’ court in relation to clubs, and procedure on applications to magistrates’ courts.](part-iii/section-92.md)
 
-### Part IV — Restaurants and Guest Houses[^key-08dfeba7c89d3df57009a817dae195d1]
+### Part IV — Restaurants and Guest Houses[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -315,7 +315,7 @@ Licensing Act 1964 (repealed)
 - [Section 100 — Power of court to disqualify for Part IV licences on conviction of certain offences.](part-iv/section-100.md)
 - [Section 101 — Supplementary provisions as to disqualification orders.](part-iv/section-101.md)
 
-### Part V[^key-08dfeba7c89d3df57009a817dae195d1]
+### Part V[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -323,7 +323,7 @@ Licensing Act 1964 (repealed)
 - [Section 103 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-v/section-103.md)
 - [Section 104 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-v/section-104.md)
 
-### Part VI — New Towns[^key-08dfeba7c89d3df57009a817dae195d1]
+### Part VI — New Towns[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -338,7 +338,7 @@ Licensing Act 1964 (repealed)
 - [Section 116 — Effect of transfer of development corporation’s property to Commission for the New Towns.](part-vi/section-116.md)
 - [Section 117 — Meaning of “new town" and effect of revocation or variation of order designating site of proposed new town.](part-vi/section-117.md)
 
-### Part VII — Licensing Planning Areas[^key-08dfeba7c89d3df57009a817dae195d1]
+### Part VII — Licensing Planning Areas[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -356,7 +356,7 @@ Licensing Act 1964 (repealed)
 - [Section 130 — Membership of licensing planning committee not to disqualify licensing justice.](part-vii/section-130.md)
 - [Section 131 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-vii/section-131.md)
 
-### Part VIII — Suspension of Licences by reason of War Circumstances[^key-08dfeba7c89d3df57009a817dae195d1]
+### Part VIII — Suspension of Licences by reason of War Circumstances[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -370,7 +370,7 @@ Licensing Act 1964 (repealed)
 - [Section 139 — Appeals to quarter sessions.](part-viii/section-139.md)
 - [Section 140 — Rules, etc.](part-viii/section-140.md)
 
-### Part IX — Suspension of Licences by Reason of Compulsory Acquisition, etc.[^key-08dfeba7c89d3df57009a817dae195d1]
+### Part IX — Suspension of Licences by Reason of Compulsory Acquisition, etc.[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -382,11 +382,11 @@ Licensing Act 1964 (repealed)
 - [Section 146 — Appeals to quarter sessions.](part-ix/section-146.md)
 - [Section 147 — Rules, etc.](part-ix/section-147.md)
 
-### Part X — Seamen’s Canteens[^key-08dfeba7c89d3df57009a817dae195d1]
+### Part X — Seamen’s Canteens[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
-#### Canteen licences[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Canteen licences[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -400,7 +400,7 @@ Licensing Act 1964 (repealed)
 - [Section 153A — Revocation of canteen licences.](part-x/section-153a.md)
 - [Section 154 — Rights of appeal.](part-x/section-154.md)
 
-#### Sale and supply of intoxicating liquor in licensed canteens[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Sale and supply of intoxicating liquor in licensed canteens[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -409,14 +409,14 @@ Licensing Act 1964 (repealed)
 - [Section 156A — Restriction orders.](part-x/section-156a.md)
 - [Section 157 — Prohibition of sale or supply of intoxicating liquor in canteens for consumption off the premises.](part-x/section-157.md)
 
-#### Supplementary[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Supplementary[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 158 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-x/section-158.md)
 - [Section 159 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-x/section-159.md)
 
-### Part XI — General Provisions Regulating Sale, etc., Possession and Delivery of Intoxicating Liquor[^key-08dfeba7c89d3df57009a817dae195d1]
+### Part XI — General Provisions Regulating Sale, etc., Possession and Delivery of Intoxicating Liquor[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -429,11 +429,11 @@ Licensing Act 1964 (repealed)
 - [Section 166 — Restriction on credit sales.](part-xi/section-166.md)
 - [Section 167 — Saving for liqueur chocolates.](part-xi/section-167.md)
 
-### Part XII — Protection of Persons under Eighteen and other Provisions as to Conduct of Licensed Premises and Licensed Canteens.[^key-08dfeba7c89d3df57009a817dae195d1]
+### Part XII — Protection of Persons under Eighteen and other Provisions as to Conduct of Licensed Premises and Licensed Canteens.[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
-#### Persons under eighteen[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Persons under eighteen[^c-08dfeba7c89d3df57009a817dae195d1]
 
 *Extent: E+W*
 
@@ -456,7 +456,7 @@ Licensing Act 1964 (repealed)
 - [Section 171 — Exclusion from sections 168 to 170 of bars while in regular use for service of table meals.](part-xii/section-171.md)
 - [Section 171A — Prohibition of unsupervised off-sales by persons under 18.](part-xii/section-171a.md)
 
-#### Preservation of order[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Preservation of order[^c-08dfeba7c89d3df57009a817dae195d1]
 
 *Extent: E+W*
 
@@ -470,25 +470,25 @@ Licensing Act 1964 (repealed)
 - [Section 176 — Permitting licensed premises to be a brothel.](part-xii/section-176.md)
 - [Section 177 — Gaming on licensed premises.](part-xii/section-177.md)
 
-#### Offences in relation to constables[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Offences in relation to constables[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 178 — Offences in relation to constables.](part-xii/section-178.md)
 
-#### Application to seamen’s canteens and occasional licences[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Application to seamen’s canteens and occasional licences[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
 - [Section 179 — Application of Part XII to seamen’s canteens and premises for which occasional licence is in force.](part-xii/section-179.md)
 
-### Part XIII — Miscellaneous[^key-08dfeba7c89d3df57009a817dae195d1]
+### Part XIII — Miscellaneous[^c-08dfeba7c89d3df57009a817dae195d1]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### Closure of certain licensed premises due to disorder or disturbance.[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Closure of certain licensed premises due to disorder or disturbance.[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -504,7 +504,7 @@ Licensing Act 1964 (repealed)
 - [Section 179J — Offences by body corporate](part-xiii/section-179j.md)
 - [Section 179K — Interpretation of sections 179A to 179K](part-xiii/section-179k.md)
 
-#### Other[^key-08dfeba7c89d3df57009a817dae195d1]
+#### Other[^c-08dfeba7c89d3df57009a817dae195d1]
 
 **No longer in force.**
 
@@ -522,7 +522,7 @@ Licensing Act 1964 (repealed)
 - [Section 190 — Magistrates’ courts, etc. not to sit in licensed premises.](part-xiii/section-190.md)
 - [Section 191 — Procedure for amending certain rules of clubs established before 3rd August 1961.](part-xiii/section-191.md)
 
-### Part XIV — Supplemental[^key-08dfeba7c89d3df57009a817dae195d1]
+### Part XIV — Supplemental[^c-08dfeba7c89d3df57009a817dae195d1]
 
 *Extent: E+W*
 
@@ -551,7 +551,7 @@ Licensing Act 1964 (repealed)
 
 **No longer in force.**
 
-[^key-08dfeba7c89d3df57009a817dae195d1]**SCHEDULES**
+[^c-08dfeba7c89d3df57009a817dae195d1]**SCHEDULES**
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -573,4 +573,4 @@ Licensing Act 1964 (repealed)
 
 ## Annotations
 
-[^key-08dfeba7c89d3df57009a817dae195d1]: Textual amendment: Act repealed (17.7.2003 for the purpose of the repeal of ss. 66, 67, Sch. 8, 24.11.2005 in so far as not already in force) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2003/1911](https://www.legislation.gov.uk/uksi/2003/1911), [art. 2](https://www.legislation.gov.uk/uksi/2003/1911/article/2); S.I. 2005/3056
+[^c-08dfeba7c89d3df57009a817dae195d1]: Textual amendment: Act repealed (17.7.2003 for the purpose of the repeal of ss. 66, 67, Sch. 8, 24.11.2005 in so far as not already in force) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2003/1911](https://www.legislation.gov.uk/uksi/2003/1911), [art. 2](https://www.legislation.gov.uk/uksi/2003/1911/article/2); S.I. 2005/3056

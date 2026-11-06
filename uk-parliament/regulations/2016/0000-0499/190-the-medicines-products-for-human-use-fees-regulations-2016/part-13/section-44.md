@@ -60,9 +60,9 @@ summary: ''
   - (l) an additional pack size in which the product may be placed on the market;
   - (m) a change to the approved storage conditions for the product;
   - (n) a change to the shelf life of an unopened container of the product or to the shelf life of the product after the container has been opened for the first time;
-  - (o) a change to the dimensions of an approved dosage form of the product (for example, tablets) which does not entail a change to the quantitative composition or the mean mass of the product; [^key-fecbbe0c26b3d044f17af9a26b6b9e2f]...
-  - (p) a change following modification to the manufacturing authorisation; or[^key-f98c0bafcef3cbc375df8fac9ec79b3e]
-  - ((q)) a change to any packaging of the product, including the container or other form of packaging immediately in contact with the medicinal product, any packaging into which the container or other form of packaging immediately in contact with the product is placed, or to a leaflet that accompanies the product and contains information for the user of the product.[^key-ae6052753bf963e11f5eefa68cc8b18d]
+  - (o) a change to the dimensions of an approved dosage form of the product (for example, tablets) which does not entail a change to the quantitative composition or the mean mass of the product; [^c-fecbbe0c26b3d044f17af9a26b6b9e2f]...
+  - (p) a change following modification to the manufacturing authorisation; or[^c-f98c0bafcef3cbc375df8fac9ec79b3e]
+  - ((q)) a change to any packaging of the product, including the container or other form of packaging immediately in contact with the medicinal product, any packaging into which the container or other form of packaging immediately in contact with the product is placed, or to a leaflet that accompanies the product and contains information for the user of the product.[^c-ae6052753bf963e11f5eefa68cc8b18d]
 
 (2) In this Part—
 
@@ -77,8 +77,8 @@ summary: ''
 
 [^c23108381]: Marginal citation: [Article 29](https://www.legislation.gov.uk/uksi/2016/190/article/29) has been substituted by article 1(26) of Directive 2004/27/EC of the European Parliament and of the Council (OJ No L 136, 30.4.2004, p34).
 
-[^key-fecbbe0c26b3d044f17af9a26b6b9e2f]: Textual amendment: Word in [reg. 44(1)](https://www.legislation.gov.uk/uksi/2016/190/regulation/44/1) omitted (1.4.2025) by virtue of [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [25(a)](https://www.legislation.gov.uk/uksi/2025/317/regulation/25/a)
+[^c-fecbbe0c26b3d044f17af9a26b6b9e2f]: Textual amendment: Word in [reg. 44(1)](https://www.legislation.gov.uk/uksi/2016/190/regulation/44/1) omitted (1.4.2025) by virtue of [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [25(a)](https://www.legislation.gov.uk/uksi/2025/317/regulation/25/a)
 
-[^key-f98c0bafcef3cbc375df8fac9ec79b3e]: Textual amendment: Words in [reg. 44(1)](https://www.legislation.gov.uk/uksi/2016/190/regulation/44/1) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2025/317/regulation/25/b)
+[^c-f98c0bafcef3cbc375df8fac9ec79b3e]: Textual amendment: Words in [reg. 44(1)](https://www.legislation.gov.uk/uksi/2016/190/regulation/44/1) substituted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2025/317/regulation/25/b)
 
-[^key-ae6052753bf963e11f5eefa68cc8b18d]: Textual amendment: Words in [reg. 44(1)](https://www.legislation.gov.uk/uksi/2016/190/regulation/44/1) inserted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [25(c)](https://www.legislation.gov.uk/uksi/2025/317/regulation/25/c)
+[^c-ae6052753bf963e11f5eefa68cc8b18d]: Textual amendment: Words in [reg. 44(1)](https://www.legislation.gov.uk/uksi/2016/190/regulation/44/1) inserted (1.4.2025) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2025 (S.I. 2025/317)](https://www.legislation.gov.uk/uksi/2025/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/317/regulation/1/2), [25(c)](https://www.legislation.gov.uk/uksi/2025/317/regulation/25/c)

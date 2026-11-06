@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 128. Abolition of the office of stipendiary magistrate[^key-94d4ef9d662e261e90ec88e29cf0179e]
+## 128. Abolition of the office of stipendiary magistrate[^c-94d4ef9d662e261e90ec88e29cf0179e]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94d4ef9d662e261e90ec88e29cf0179e]: Commencement: [S. 128](https://www.legislation.gov.uk/asp/2014/18/section/128) in force at 1.4.2016 by [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/13/article/3))
+[^c-94d4ef9d662e261e90ec88e29cf0179e]: Commencement: [S. 128](https://www.legislation.gov.uk/asp/2014/18/section/128) in force at 1.4.2016 by [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/13/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154A. Grants by local transport authorities in England[^key-5141d848d890c81b9ae5071172ea4321]
+## 154A. Grants by local transport authorities in England[^c-5141d848d890c81b9ae5071172ea4321]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5141d848d890c81b9ae5071172ea4321]: Textual amendment: [S. 154A](https://www.legislation.gov.uk/ukpga/2000/38/section/154A) inserted (26.1.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 23](https://www.legislation.gov.uk/ukpga/2025/24/section/23), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/m)
+[^c-5141d848d890c81b9ae5071172ea4321]: Textual amendment: [S. 154A](https://www.legislation.gov.uk/ukpga/2000/38/section/154A) inserted (26.1.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 23](https://www.legislation.gov.uk/ukpga/2025/24/section/23), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/46](https://www.legislation.gov.uk/uksi/2026/46), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2026/46/regulation/2/m)

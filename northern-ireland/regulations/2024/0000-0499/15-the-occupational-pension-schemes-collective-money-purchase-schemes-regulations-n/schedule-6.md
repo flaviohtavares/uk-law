@@ -24,7 +24,7 @@ Regulation 29
 
 ### Definitions
 
-**1.**[^key-603af51cd18b23d63bddeba3c6d29ec0] (1) In this Schedule—
+**1.**[^c-603af51cd18b23d63bddeba3c6d29ec0] (1) In this Schedule—
 
 - “**arrangement**” has the meaning given in section 152 of the Finance Act 2004[^f00050];
 - “**beneficiary**” in relation to the collective money purchase scheme means—
@@ -32,22 +32,22 @@ Regulation 29
   - (b) a person who has survived a member of the scheme and has an entitlement to benefits, or a right to future benefits, under the scheme rules in respect of the member;
 - “**default arrangement**” has the meaning given in regulation 3 of the Occupational Pension Schemes (Charges and Governance) Regulations (Northern Ireland) 2015[^f00051];
 - “**default discharge option**” means the way the trustees propose to discharge the scheme’s liability to a beneficiary in respect of the beneficiary’s accrued rights to benefits under the scheme, unless the beneficiary specifies otherwise in accordance with paragraph 14;
-- “[^key-ba367989cef75c58644b81efca164c5d]**dependant**” has the meaning given in paragraph 15 of Schedule 28 to the Finance Act 2004;
+- “[^c-ba367989cef75c58644b81efca164c5d]**dependant**” has the meaning given in paragraph 15 of Schedule 28 to the Finance Act 2004;
 - “**dependants’ income withdrawal**” has the meaning given in paragraph 21 of Schedule 28 to the Finance Act 2004;
 - “**dependant’s flexi-access drawdown fund**” has the meaning given in paragraph 22A of Schedule 28 to the Finance Act 2004;
 - “**discharge time**” in relation to a beneficiary under the scheme means the time that the scheme’s liability to the beneficiary in respect of the value of the beneficiary’s accrued rights to benefits under the scheme is discharged;
-- “**final quantification**” means the quantification[^key-3923e5f8e810abc3fa07d58643bb23a3] carried out immediately prior to the discharge time, in accordance with paragraph 5(1)(f);
+- “**final quantification**” means the quantification[^c-3923e5f8e810abc3fa07d58643bb23a3] carried out immediately prior to the discharge time, in accordance with paragraph 5(1)(f);
 - “**income withdrawal**” has the meaning given in paragraph 7[^f00052] of Schedule 28 to the Finance Act 2004;
-- “**initial quantification**” means the quantification[^key-b9572131e3f7b73986b019ea549cd78e] carried out in accordance with paragraph 5(1)(c);
+- “**initial quantification**” means the quantification[^c-b9572131e3f7b73986b019ea549cd78e] carried out in accordance with paragraph 5(1)(c);
 - “**member’s flexi-access drawdown fund**” has the meaning given in paragraph 8A[^f00053] of Schedule 28 to the Finance Act 2004;
-- “[^key-6d7391d7ea9ffc27705f20996299a381]**nominee**” has the meaning given in paragraph 27A of Schedule 28 to the Finance Act 2004;
+- “[^c-6d7391d7ea9ffc27705f20996299a381]**nominee**” has the meaning given in paragraph 27A of Schedule 28 to the Finance Act 2004;
 - “**nominees’ income withdrawal**” has the meaning given in paragraph 27D of Schedule 28 to the Finance Act 2004;
 - “**nominee’s flexi-access drawdown fund**” has the meaning given in paragraph 27E of Schedule 28 to the Finance Act 2004;
 - “**pensioner beneficiary**”, in relation to the collective money purchase scheme, means a person who is entitled to the present payment of pension or other benefits under the scheme;
 - “**penultimate quantification**” means the quantification carried out not less than one month before the proposed discharge time, in accordance with paragraph 5(1)(e);
 - “**periodic income**” means a payment made by a scheme under paragraph 7, which is not the payment of a benefit (including pension) under the scheme;
 - “**quantification**” means the quantification of the amount that represents the value of each beneficiary’s accrued rights to benefits under the scheme;
-- “[^key-4f1c3c2a3c1c374b1d778389d468cbcd]**successor**” has the meaning given in paragraph 27F of Schedule 28 to the Finance Act 2004;
+- “[^c-4f1c3c2a3c1c374b1d778389d468cbcd]**successor**” has the meaning given in paragraph 27F of Schedule 28 to the Finance Act 2004;
 - “**successors’ income withdrawal**” has the meaning given in paragraph 27J of Schedule 28 to the Finance Act 2004;
 - “**successor’s flexi-access drawdown fund**” has the meaning given in paragraph 27K of Schedule 28 to the Finance Act 2004;
 - “**winding-up commencement time**” means the time, determined in accordance with these Regulations and the scheme rules, that winding-up is taken to begin for the purposes of continuity option 1;
@@ -69,11 +69,11 @@ Regulation 29
 
 ### Alternative ways of discharging the scheme’s liability
 
-**2.**[^key-778b3d224b225107998e9ec11c64150c] (1) For the purposes of section 87(2)(b) of the 2021 Act (continuity option 1: discharge of liabilities and winding up), the ways of discharging a collective money purchase scheme’s liability to each beneficiary in respect of the beneficiary’s accrued rights to benefits under the scheme (the “transferring scheme”) are—
+**2.**[^c-778b3d224b225107998e9ec11c64150c] (1) For the purposes of section 87(2)(b) of the 2021 Act (continuity option 1: discharge of liabilities and winding up), the ways of discharging a collective money purchase scheme’s liability to each beneficiary in respect of the beneficiary’s accrued rights to benefits under the scheme (the “transferring scheme”) are—
 
 - (a) transferring the value of those rights to an occupational pension scheme (the “receiving scheme”) where an employer in relation to the transferring scheme is or is connected with a controlling employer or a principal employer of the receiving scheme;
-- (b) transferring the value of those rights to a member’s flexi-access drawdown fund in respect of an arrangement for the purposes of entitlement by the beneficiary to income withdrawal which is an authorised member payment for the purposes of Part 4 of the Finance Act 2004 (pension schemes etc);[^key-632ef37bd2efc69395751d717d5e27f0]
-- (c)[^key-be34706689ab31b363e9b1b1828ac08e] transferring the value of those rights to a dependant’s flexi-access drawdown fund in respect of an arrangement for the purposes of entitlement by the dependant to dependants’ income withdrawal which is an authorised member payment for the purposes of Part 4 of the Finance Act 2004;
+- (b) transferring the value of those rights to a member’s flexi-access drawdown fund in respect of an arrangement for the purposes of entitlement by the beneficiary to income withdrawal which is an authorised member payment for the purposes of Part 4 of the Finance Act 2004 (pension schemes etc);[^c-632ef37bd2efc69395751d717d5e27f0]
+- (c)[^c-be34706689ab31b363e9b1b1828ac08e] transferring the value of those rights to a dependant’s flexi-access drawdown fund in respect of an arrangement for the purposes of entitlement by the dependant to dependants’ income withdrawal which is an authorised member payment for the purposes of Part 4 of the Finance Act 2004;
 - (d) transferring the value of those rights to a nominee’s flexi-access drawdown fund in respect of an arrangement for the purposes of entitlement by the nominee to nominees’ income withdrawal which is an authorised member payment for the purposes of Part 4 of the Finance Act 2004;
 - (e) transferring the value of those rights to a successor’s flexi-access drawdown fund in respect of an arrangement for the purposes of entitlement by the successor to successors’ income withdrawal which is an authorised member payment for the purposes of Part 4 of the Finance Act 2004.
 
@@ -86,7 +86,7 @@ Regulation 29
 
 ### Requirements of rules of scheme
 
-**3.**[^key-4e868c275fe9386f51d4b7e83bc229a7] (1) The rules of a collective money purchase scheme must make provision about how continuity option 1 is to be given effect in the event that the trustees are required or decide to pursue continuity option 1.
+**3.**[^c-4e868c275fe9386f51d4b7e83bc229a7] (1) The rules of a collective money purchase scheme must make provision about how continuity option 1 is to be given effect in the event that the trustees are required or decide to pursue continuity option 1.
 
 (2) The rules must include the following—
 
@@ -100,7 +100,7 @@ Regulation 29
 
 ### Winding-up commencement time
 
-**4.**[^key-0757ddca1efac667320b81130e84996d] (1) Where the trustees of a collective money purchase scheme are required to pursue continuity option 1 because a triggering event which is an item 1 or 2 triggering event has occurred in relation to the scheme, the winding-up commencement time must be on the date the decision to withdraw authorisation becomes final for the purposes of Part 2 of the 2021 Act (collective money purchase benefits: Northern Ireland).
+**4.**[^c-0757ddca1efac667320b81130e84996d] (1) Where the trustees of a collective money purchase scheme are required to pursue continuity option 1 because a triggering event which is an item 1 or 2 triggering event has occurred in relation to the scheme, the winding-up commencement time must be on the date the decision to withdraw authorisation becomes final for the purposes of Part 2 of the 2021 Act (collective money purchase benefits: Northern Ireland).
 
 (2) Where the trustees of a collective money purchase scheme are required to pursue continuity option 1 because a triggering event which is an item 3 triggering event has occurred in relation to the scheme, the winding-up commencement time must be on the date on which the Regulator gives a notification under section 58(3) of the 2021 Act (authorisation of collective money purchase schemes).
 
@@ -108,7 +108,7 @@ Regulation 29
 
 ### Quantification of the value of beneficiaries’ accrued rights to benefits
 
-**5.**[^key-bf86626fe44f78fd55c50366cf8cb61e] (1) Quantification[^key-47700d79e5e584e35a8cb57a84d658f2] must be carried out—
+**5.**[^c-bf86626fe44f78fd55c50366cf8cb61e] (1) Quantification[^c-47700d79e5e584e35a8cb57a84d658f2] must be carried out—
 
 - (a) in accordance with these Regulations and with the scheme rules;
 - (b) on an actuarial basis;
@@ -123,7 +123,7 @@ Regulation 29
 
 ### Winding-up period
 
-**6.**[^key-1aaeb3d0c0585c4040f3024a8c32b2ef] (1) Subject to sub-paragraph (5), no new members may be admitted to the scheme during the winding-up period.
+**6.**[^c-1aaeb3d0c0585c4040f3024a8c32b2ef] (1) Subject to sub-paragraph (5), no new members may be admitted to the scheme during the winding-up period.
 
 (2) No further contributions by or on behalf or in respect of members of the scheme may be paid towards the scheme (other than those due to be paid before the beginning of the winding-up period) during the winding-up period.
 
@@ -150,7 +150,7 @@ Regulation 29
 
 ### Periodic income
 
-**7.**[^key-e74bcd46009f29b41cb4ec893e0cb769] (1) Where a person was a pensioner beneficiary of the scheme immediately prior to the beginning of the winding-up period, or would have become a pensioner beneficiary of the scheme during the winding-up period but for the provisions of this Schedule, the trustees must pay that person a periodic income under and in accordance with this paragraph.
+**7.**[^c-e74bcd46009f29b41cb4ec893e0cb769] (1) Where a person was a pensioner beneficiary of the scheme immediately prior to the beginning of the winding-up period, or would have become a pensioner beneficiary of the scheme during the winding-up period but for the provisions of this Schedule, the trustees must pay that person a periodic income under and in accordance with this paragraph.
 
 (2) A payment of periodic income by a scheme under this paragraph is not a payment of benefits (including pension) under the scheme.
 
@@ -171,13 +171,13 @@ Regulation 29
 (7) After the initial quantification has been carried out, the amount or rate of the periodic income payable to a person must—
 
 - (a) be calculated by reference to the amount that represents the value of the person’s accrued rights to benefits under the scheme;
-- (b) until the winding-up quantification has been carried out, be calculated and paid on the basis of the initial quantification[^key-cd12c01ba80adf360cf9524512555b50];
+- (b) until the winding-up quantification has been carried out, be calculated and paid on the basis of the initial quantification[^c-cd12c01ba80adf360cf9524512555b50];
 - (c) after the winding-up quantification has been carried out, be calculated and paid on the basis of the latest of the winding-up quantification or any subsequent quantification;
 - (d) be adjusted from time to time to take account of any subsequent quantification carried out up to and including the penultimate quantification.
 
 ### Information about periodic income
 
-**8.**[^key-90aa84e163f2dabf407236544e0815e2] (1) The information mentioned in sub-paragraph (2) must be given in accordance with the provisions of this paragraph to each person who was a pensioner beneficiary of the scheme immediately prior to the beginning of the winding-up period and to each person who would have become a pensioner beneficiary of the scheme during the winding-up period but for the provisions of this Schedule.
+**8.**[^c-90aa84e163f2dabf407236544e0815e2] (1) The information mentioned in sub-paragraph (2) must be given in accordance with the provisions of this paragraph to each person who was a pensioner beneficiary of the scheme immediately prior to the beginning of the winding-up period and to each person who would have become a pensioner beneficiary of the scheme during the winding-up period but for the provisions of this Schedule.
 
 (2) The information is—
 
@@ -197,7 +197,7 @@ Regulation 29
 
 ### Scheme to continue to be a CMPS during winding-up
 
-**9.**[^key-5cacd966957b98335a5d4ae9130002c9] (1) A “**collective money purchase scheme**” for the purposes of Part 2 of the 2021 Act (collective money purchase benefits: Northern Ireland)) includes a scheme or section of a scheme during the winding-up period where the scheme or section was a single or connected employer scheme[^key-979ce851b18158b4f2d8446ce13b1b7d] immediately before the winding-up commencement time.
+**9.**[^c-5cacd966957b98335a5d4ae9130002c9] (1) A “**collective money purchase scheme**” for the purposes of Part 2 of the 2021 Act (collective money purchase benefits: Northern Ireland)) includes a scheme or section of a scheme during the winding-up period where the scheme or section was a single or connected employer scheme[^c-979ce851b18158b4f2d8446ce13b1b7d] immediately before the winding-up commencement time.
 
 (2) Sub-paragraph (1) applies irrespective of the fact that in accordance with the requirements of this Schedule the scheme or section has, during the winding-up period—
 
@@ -206,7 +206,7 @@ Regulation 29
 
 ### Trustees’ notice to employers
 
-**10.**[^key-37f7aa3744c608462e7d93dc82afb257] (1) The trustees of a collective money purchase scheme that is pursuing continuity option 1 must send a notice to each employer and relevant former employer in relation to the scheme containing the information mentioned in sub-paragraph (2), in accordance with sub-paragraph (3).
+**10.**[^c-37f7aa3744c608462e7d93dc82afb257] (1) The trustees of a collective money purchase scheme that is pursuing continuity option 1 must send a notice to each employer and relevant former employer in relation to the scheme containing the information mentioned in sub-paragraph (2), in accordance with sub-paragraph (3).
 
 (2) The information is—
 
@@ -223,7 +223,7 @@ Regulation 29
 
 ### Notification to receiving scheme
 
-**11.**[^key-b6ef0ba62de53aad45edd452e569aa2b] (1) The trustees of a collective money purchase scheme that is pursuing continuity option 1 must send a notice to the trustees or managers of any occupational pension scheme to which they propose to transfer the value of beneficiaries’ accrued rights to benefits under the scheme under a default discharge option, the trustees or managers of which are able and willing to accept the transfer.
+**11.**[^c-b6ef0ba62de53aad45edd452e569aa2b] (1) The trustees of a collective money purchase scheme that is pursuing continuity option 1 must send a notice to the trustees or managers of any occupational pension scheme to which they propose to transfer the value of beneficiaries’ accrued rights to benefits under the scheme under a default discharge option, the trustees or managers of which are able and willing to accept the transfer.
 
 (2) The notice sent under this paragraph must state that the scheme has been selected as a default discharge option for the purposes of section 87 of the 2021 Act (continuity option 1: discharge of liabilities and winding up), for the transfer of the value of beneficiaries’ accrued rights to benefits.
 
@@ -234,13 +234,13 @@ Regulation 29
 
 ### Trustees’ first notice to beneficiaries in respect of discharge options
 
-**12.**[^key-cda9ed9c0711bc09c4e9a305e822a58f] (1) The trustees of a collective money purchase scheme that is pursuing continuity option 1 must send a notice to each beneficiary of the scheme containing the information mentioned in sub-paragraph (2), in accordance with sub-paragraph (3).
+**12.**[^c-cda9ed9c0711bc09c4e9a305e822a58f] (1) The trustees of a collective money purchase scheme that is pursuing continuity option 1 must send a notice to each beneficiary of the scheme containing the information mentioned in sub-paragraph (2), in accordance with sub-paragraph (3).
 
 (2) The information is—
 
 - (a) details of the default discharge option for the beneficiary;
 - (b) where the beneficiary can obtain information and guidance about the default discharge option;
-- (c) details of the beneficiary’s right to choose whether the scheme’s liability to the beneficiary in respect of[^key-27c8f4ede86df39747fa033acaf0e781] the value of the beneficiary’s accrued rights to benefits under the scheme is discharged[^key-609cd59ef3830f5505c264a4bb9d1843] by—
+- (c) details of the beneficiary’s right to choose whether the scheme’s liability to the beneficiary in respect of[^c-27c8f4ede86df39747fa033acaf0e781] the value of the beneficiary’s accrued rights to benefits under the scheme is discharged[^c-609cd59ef3830f5505c264a4bb9d1843] by—
   - (i) the default discharge option proposed by the trustees, or
   - (ii) an alternative option specified by the beneficiary;
 - (d) details of the alternative options available to the beneficiary in accordance with paragraph 14(2);
@@ -254,7 +254,7 @@ Regulation 29
 
 ### Trustees’ second notice to beneficiaries in respect of discharge options
 
-**13.**[^key-8c0f98e173a219a3c055dd9c9c647978] (1) The trustees of a collective money purchase scheme that is pursuing continuity option 1 must send a second notice to each beneficiary of the scheme containing the information mentioned in sub-paragraph (2), in accordance with sub-paragraph (3).
+**13.**[^c-8c0f98e173a219a3c055dd9c9c647978] (1) The trustees of a collective money purchase scheme that is pursuing continuity option 1 must send a second notice to each beneficiary of the scheme containing the information mentioned in sub-paragraph (2), in accordance with sub-paragraph (3).
 
 (2) The information is—
 
@@ -276,7 +276,7 @@ Regulation 29
 
 ### Beneficiaries’ response to trustees
 
-**14.**[^key-56d1478722f19645b6fc2da8144c206e] (1) A beneficiary who has received notice from the trustees under paragraph 13 may give notice to the trustees requiring them to discharge the scheme’s liability to the beneficiary in respect of the value of the beneficiary’s accrued rights to benefits under the scheme—
+**14.**[^c-56d1478722f19645b6fc2da8144c206e] (1) A beneficiary who has received notice from the trustees under paragraph 13 may give notice to the trustees requiring them to discharge the scheme’s liability to the beneficiary in respect of the value of the beneficiary’s accrued rights to benefits under the scheme—
 
 - (a) in the way set out in the default discharge option, or
 - (b) in an alternative way specified by the beneficiary.
@@ -284,11 +284,11 @@ Regulation 29
 (2) The alternative ways which may be specified by the beneficiary are—
 
 - (a) transferring the value of the beneficiaries’ accrued rights to benefits under the scheme to an authorised collective money purchase scheme or an authorised Master Trust scheme;
-- (b)[^key-4de382bea53db33b6d1db42c5bac61e2] transferring the value of those rights to a scheme which is—
+- (b)[^c-4de382bea53db33b6d1db42c5bac61e2] transferring the value of those rights to a scheme which is—
   - (i) registered under Chapter 2 of Part 4 of the Finance Act 2004 (registration of pension schemes), and
   - (ii) a personal pension scheme within the meaning given in section 1(1) of the Pension Schemes (Northern Ireland) Act 1993 (categories of pension schemes) or an occupational pension scheme;
-- (c) transferring the value of those rights to a member’s flexi-access drawdown fund in respect of an arrangement for the purposes of entitlement by the beneficiary to income withdrawal which is an authorised member payment for the purposes of Part 4 of the Finance Act 2004 (pension schemes etc);[^key-ff7b47a884161fc479cd450c950de702]
-- (ca)[^key-3f3b1e1c199766768be6634e8ef36cda] transferring the value of those rights to a dependant’s flexi-access drawdown fund in respect of an arrangement for the purposes of entitlement by the dependant to dependants’ income withdrawal which is an authorised member payment for the purposes of Part 4 of the Finance Act 2004;
+- (c) transferring the value of those rights to a member’s flexi-access drawdown fund in respect of an arrangement for the purposes of entitlement by the beneficiary to income withdrawal which is an authorised member payment for the purposes of Part 4 of the Finance Act 2004 (pension schemes etc);[^c-ff7b47a884161fc479cd450c950de702]
+- (ca)[^c-3f3b1e1c199766768be6634e8ef36cda] transferring the value of those rights to a dependant’s flexi-access drawdown fund in respect of an arrangement for the purposes of entitlement by the dependant to dependants’ income withdrawal which is an authorised member payment for the purposes of Part 4 of the Finance Act 2004;
 - (cb) transferring the value of those rights to a nominee’s flexi-access drawdown fund in respect of an arrangement for the purposes of entitlement by the nominee to nominees’ income withdrawal which is an authorised member payment for the purposes of Part 4 of the Finance Act 2004;
 - (cc) transferring the value of those rights to a successor’s flexi-access drawdown fund in respect of an arrangement for the purposes of entitlement by the successor to successors’ income withdrawal which is an authorised member payment for the purposes of Part 4 of the Finance Act 2004;
 - (d) securing the payment of benefits by the purchase of one or more policies from one or more insurers authorised by the Financial Conduct Authority for carrying on long-term insurance business in the United Kingdom.
@@ -298,18 +298,18 @@ Regulation 29
 (4) A notice under this paragraph—
 
 - (a) must be sent before the end of the period of 3 months beginning with the day when the beneficiary received notice from the trustees under paragraph 13, and
-- (b) must contain sufficient information about the alternative way specified by the beneficiary, including bank account details, to enable the trustees to comply with paragraph 17(1)[^key-5c322f49285bbc9207e0fcea943b76f4].
+- (b) must contain sufficient information about the alternative way specified by the beneficiary, including bank account details, to enable the trustees to comply with paragraph 17(1)[^c-5c322f49285bbc9207e0fcea943b76f4].
 
 ### Notice of expected discharge time
 
-**15.**[^key-b072a5d6fa2fd38ea375eb1eeb5d7cba] (1) Not less than one month before the date of the expected discharge time, the trustees of a collective money purchase scheme that is pursuing continuity option 1 must send a notice of the expected discharge time to—
+**15.**[^c-b072a5d6fa2fd38ea375eb1eeb5d7cba] (1) Not less than one month before the date of the expected discharge time, the trustees of a collective money purchase scheme that is pursuing continuity option 1 must send a notice of the expected discharge time to—
 
 - (a) each beneficiary of the scheme, and
 - (b) the employers in relation to the scheme.
 
 ### Trustees’ powers
 
-**16.**[^key-a134cee852be8d2fbe6025ef956f5cc8] (1) This paragraph applies where the trustees of a collective money purchase scheme that is pursuing continuity option 1 do not receive a notice from a beneficiary in accordance with paragraph 14.
+**16.**[^c-a134cee852be8d2fbe6025ef956f5cc8] (1) This paragraph applies where the trustees of a collective money purchase scheme that is pursuing continuity option 1 do not receive a notice from a beneficiary in accordance with paragraph 14.
 
 (2) The trustees may discharge the scheme’s liability to a beneficiary in respect of the beneficiary’s accrued rights to benefits under the scheme in the way set out in the default discharge option for the beneficiary without the consent of the beneficiary.
 
@@ -317,7 +317,7 @@ Regulation 29
 
 ### Trustees’ duty to transfer
 
-**17.**[^key-64d4200b4a86c94c741aa73527855ea9] (1) If the trustees of a collective money purchase scheme that is pursuing continuity option 1 receive notice from a beneficiary in accordance with paragraph 14, they must arrange for the scheme’s liability to the beneficiary in respect of the beneficiary’s accrued rights to benefits under the scheme to be discharged as specified in the notice.
+**17.**[^c-64d4200b4a86c94c741aa73527855ea9] (1) If the trustees of a collective money purchase scheme that is pursuing continuity option 1 receive notice from a beneficiary in accordance with paragraph 14, they must arrange for the scheme’s liability to the beneficiary in respect of the beneficiary’s accrued rights to benefits under the scheme to be discharged as specified in the notice.
 
 (2) If the trustees do not receive notice from a beneficiary in accordance with paragraph 14, they must arrange for the scheme’s liability to the beneficiary in respect of the beneficiary’s accrued rights to benefits under the scheme to be discharged in accordance with the default discharge option.
 
@@ -329,7 +329,7 @@ Regulation 29
 
 ### Administration charges
 
-**18.**[^key-564a069a69db1ec94bf9a2ae32debec7] (1) This paragraph applies to the trustees or managers of any occupational pension scheme (the “proposed receiving scheme”) to which the trustees of a collective money purchase scheme that is pursuing continuity option 1 (the “transferring scheme”) propose to transfer the value of beneficiaries’ accrued rights to benefits under the scheme, under a default discharge option.
+**18.**[^c-564a069a69db1ec94bf9a2ae32debec7] (1) This paragraph applies to the trustees or managers of any occupational pension scheme (the “proposed receiving scheme”) to which the trustees of a collective money purchase scheme that is pursuing continuity option 1 (the “transferring scheme”) propose to transfer the value of beneficiaries’ accrued rights to benefits under the scheme, under a default discharge option.
 
 (2) The trustees of the proposed receiving scheme must provide to the Regulator, in accordance with this paragraph, a document setting out the level of administration charges that applies in relation to members of the proposed receiving scheme.
 
@@ -342,7 +342,7 @@ Regulation 29
 - (c) for any third-party charges, and the reason for imposing them, and
 - (d) for any other type of administration charge in the scheme, and the reason for imposing it.
 
-(5) Where the proposed receiving scheme is a Master Trust scheme the charges must be set out as at the most recent date, not falling within a triggering event period in relation to the transferring scheme, on which the receiving scheme submitted a strategy to the Regulator under section 12 of the Pension Schemes Act (Northern Ireland) 2021 (continuity strategy requirement)[^key-f427f69db010f1a25ac045a01794494c].
+(5) Where the proposed receiving scheme is a Master Trust scheme the charges must be set out as at the most recent date, not falling within a triggering event period in relation to the transferring scheme, on which the receiving scheme submitted a strategy to the Regulator under section 12 of the Pension Schemes Act (Northern Ireland) 2021 (continuity strategy requirement)[^c-f427f69db010f1a25ac045a01794494c].
 
 (6) In all other cases the charges must be set out as at the date the triggering event occurred in relation to the transferring scheme as a result of which continuity option 1 is being pursued.
 
@@ -358,110 +358,110 @@ Regulation 29
 
 ### Trustee discharge
 
-**19.**[^key-22fe15a6836534e65515034b73cd68b8] Where the trustees of a collective money purchase scheme that is pursuing continuity option 1 have discharged the scheme’s liability in respect of a beneficiary’s accrued rights to benefits under the scheme in accordance with the requirements of section 87 of the 2021 Act (continuity option 1: discharge of liabilities and winding up), the trustees cease to have any further obligation to provide benefits in relation to those rights.
+**19.**[^c-22fe15a6836534e65515034b73cd68b8] Where the trustees of a collective money purchase scheme that is pursuing continuity option 1 have discharged the scheme’s liability in respect of a beneficiary’s accrued rights to benefits under the scheme in accordance with the requirements of section 87 of the 2021 Act (continuity option 1: discharge of liabilities and winding up), the trustees cease to have any further obligation to provide benefits in relation to those rights.
 
 ### Winding up
 
-**20.**[^key-f203be26c028e2d98bd81697da4d4900] As soon as practicable after the trustees of a collective money purchase scheme that is pursuing continuity option 1 have, in accordance with section 87 of the 2021 Act, discharged the scheme’s liability in respect of beneficiaries’ accrued rights to benefits under the scheme, they must wind up the scheme.
+**20.**[^c-f203be26c028e2d98bd81697da4d4900] As soon as practicable after the trustees of a collective money purchase scheme that is pursuing continuity option 1 have, in accordance with section 87 of the 2021 Act, discharged the scheme’s liability in respect of beneficiaries’ accrued rights to benefits under the scheme, they must wind up the scheme.
 
 ### Regulator’s power to direct
 
-**21.**[^key-759d9d440d2dd72382ecb01434fa6cf7] (1) The Regulator may direct the trustees of a collective money purchase scheme to do anything they are permitted or required to do by this Schedule where continuity option 1 is being pursued.
+**21.**[^c-759d9d440d2dd72382ecb01434fa6cf7] (1) The Regulator may direct the trustees of a collective money purchase scheme to do anything they are permitted or required to do by this Schedule where continuity option 1 is being pursued.
 
 (2) The trustees of a collective money purchase scheme must comply with a direction issued by the Regulator requiring them to do anything permitted or required by this Schedule.
 
 ### Civil penalties
 
-**22.**[^key-78ac3fb9ca3c41e2e71a79ec945d1e04] Article 10 of the 1995 Order (civil penalties) applies to a person who fails to comply with a requirement imposed by this Schedule, including where the requirement is contained in a direction made under it.
+**22.**[^c-78ac3fb9ca3c41e2e71a79ec945d1e04] Article 10 of the 1995 Order (civil penalties) applies to a person who fails to comply with a requirement imposed by this Schedule, including where the requirement is contained in a direction made under it.
 
 ## Annotations
 
-[^key-603af51cd18b23d63bddeba3c6d29ec0]: Commencement: Sch. 6 para. 1 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-603af51cd18b23d63bddeba3c6d29ec0]: Commencement: Sch. 6 para. 1 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
 [^f00050]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12); section 152 was amended by paragraph 2 of Schedule 5 to the Finance Act [2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26)
 
 [^f00051]: Footnote: [S.R. 2015 No. 309](https://www.legislation.gov.uk/nisr/2015/309)
 
-[^key-ba367989cef75c58644b81efca164c5d]: Textual amendment: Words in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/1/1) inserted (1.10.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/nisr/2024/136/regulation/5/2/a)
+[^c-ba367989cef75c58644b81efca164c5d]: Textual amendment: Words in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/1/1) inserted (1.10.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/nisr/2024/136/regulation/5/2/a)
 
-[^key-3923e5f8e810abc3fa07d58643bb23a3]: Textual amendment: Words in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/1/1) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(a)(i)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/a/i)
+[^c-3923e5f8e810abc3fa07d58643bb23a3]: Textual amendment: Words in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/1/1) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(a)(i)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/a/i)
 
 [^f00052]: Footnote: Paragraph 7 was substituted by paragraph 5 of Schedule 16 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) and amended by paragraph 19 of Schedule 1 to the Taxation of Pensions Act [2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30)
 
-[^key-b9572131e3f7b73986b019ea549cd78e]: Textual amendment: Words in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/1/1) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(a)(ii)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/a/ii)
+[^c-b9572131e3f7b73986b019ea549cd78e]: Textual amendment: Words in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/1/1) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(a)(ii)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/a/ii)
 
 [^f00053]: Footnote: Paragraph 8A was inserted by paragraph 3(1) of Schedule 28 to the Taxation of Pensions Act 2014
 
-[^key-6d7391d7ea9ffc27705f20996299a381]: Textual amendment: Words in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/1/1) inserted (1.10.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/nisr/2024/136/regulation/5/2/b)
+[^c-6d7391d7ea9ffc27705f20996299a381]: Textual amendment: Words in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/1/1) inserted (1.10.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/nisr/2024/136/regulation/5/2/b)
 
-[^key-4f1c3c2a3c1c374b1d778389d468cbcd]: Textual amendment: Words in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/1/1) inserted (1.10.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/nisr/2024/136/regulation/5/2/c)
+[^c-4f1c3c2a3c1c374b1d778389d468cbcd]: Textual amendment: Words in [Sch. 6 para. 1(1)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/1/1) inserted (1.10.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/nisr/2024/136/regulation/5/2/c)
 
-[^key-778b3d224b225107998e9ec11c64150c]: Commencement: Sch. 6 para. 2 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-778b3d224b225107998e9ec11c64150c]: Commencement: Sch. 6 para. 2 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-632ef37bd2efc69395751d717d5e27f0]: Textual amendment: Words in [Sch. 6 para. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/2/1/b) substituted (1.10.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/nisr/2024/136/regulation/5/3/a)
+[^c-632ef37bd2efc69395751d717d5e27f0]: Textual amendment: Words in [Sch. 6 para. 2(1)(b)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/2/1/b) substituted (1.10.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/nisr/2024/136/regulation/5/3/a)
 
-[^key-be34706689ab31b363e9b1b1828ac08e]: Textual amendment: [Sch. 6 para. 2(1)(c)-(e)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/2/1/c) added (1.10.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/nisr/2024/136/regulation/5/3/b)
+[^c-be34706689ab31b363e9b1b1828ac08e]: Textual amendment: [Sch. 6 para. 2(1)(c)-(e)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/2/1/c) added (1.10.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/nisr/2024/136/regulation/5/3/b)
 
-[^key-4e868c275fe9386f51d4b7e83bc229a7]: Commencement: Sch. 6 para. 3 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-4e868c275fe9386f51d4b7e83bc229a7]: Commencement: Sch. 6 para. 3 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-0757ddca1efac667320b81130e84996d]: Commencement: Sch. 6 para. 4 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-0757ddca1efac667320b81130e84996d]: Commencement: Sch. 6 para. 4 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
 [^f00054]: Footnote: Paragraphs (4) to (7) were inserted by section 45(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and amended by paragraph 63(3) and (4) of Schedule 10 to the Pensions (Northern Ireland) Order 2005
 
-[^key-bf86626fe44f78fd55c50366cf8cb61e]: Commencement: Sch. 6 para. 5 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-bf86626fe44f78fd55c50366cf8cb61e]: Commencement: Sch. 6 para. 5 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-47700d79e5e584e35a8cb57a84d658f2]: Textual amendment: Word in [Sch. 6 para. 5(1)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/5/1) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(b)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/b)
+[^c-47700d79e5e584e35a8cb57a84d658f2]: Textual amendment: Word in [Sch. 6 para. 5(1)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/5/1) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(b)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/b)
 
-[^key-1aaeb3d0c0585c4040f3024a8c32b2ef]: Commencement: Sch. 6 para. 6 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-1aaeb3d0c0585c4040f3024a8c32b2ef]: Commencement: Sch. 6 para. 6 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
 [^f00055]: Footnote: *See* paragraph 50 of Schedule 4 to the Pension Schemes Act 2015
 
-[^key-e74bcd46009f29b41cb4ec893e0cb769]: Commencement: Sch. 6 para. 7 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-e74bcd46009f29b41cb4ec893e0cb769]: Commencement: Sch. 6 para. 7 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-cd12c01ba80adf360cf9524512555b50]: Textual amendment: Words in [Sch. 6 para. 7(7)(b)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/7/7/b) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(c)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/c)
+[^c-cd12c01ba80adf360cf9524512555b50]: Textual amendment: Words in [Sch. 6 para. 7(7)(b)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/7/7/b) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(c)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/c)
 
-[^key-90aa84e163f2dabf407236544e0815e2]: Commencement: Sch. 6 para. 8 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-90aa84e163f2dabf407236544e0815e2]: Commencement: Sch. 6 para. 8 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-5cacd966957b98335a5d4ae9130002c9]: Commencement: Sch. 6 para. 9 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-5cacd966957b98335a5d4ae9130002c9]: Commencement: Sch. 6 para. 9 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-979ce851b18158b4f2d8446ce13b1b7d]: Textual amendment: Words in [Sch. 6 para. 9(1)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/9/1) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(d)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/d)
+[^c-979ce851b18158b4f2d8446ce13b1b7d]: Textual amendment: Words in [Sch. 6 para. 9(1)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/9/1) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(d)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/d)
 
-[^key-37f7aa3744c608462e7d93dc82afb257]: Commencement: Sch. 6 para. 10 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-37f7aa3744c608462e7d93dc82afb257]: Commencement: Sch. 6 para. 10 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-b6ef0ba62de53aad45edd452e569aa2b]: Commencement: Sch. 6 para. 11 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-b6ef0ba62de53aad45edd452e569aa2b]: Commencement: Sch. 6 para. 11 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-cda9ed9c0711bc09c4e9a305e822a58f]: Commencement: Sch. 6 para. 12 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-cda9ed9c0711bc09c4e9a305e822a58f]: Commencement: Sch. 6 para. 12 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-27c8f4ede86df39747fa033acaf0e781]: Textual amendment: Words in [Sch. 6 para. 12(2)(c)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/12/2/c) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(e)(i)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/e/i)
+[^c-27c8f4ede86df39747fa033acaf0e781]: Textual amendment: Words in [Sch. 6 para. 12(2)(c)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/12/2/c) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(e)(i)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/e/i)
 
-[^key-609cd59ef3830f5505c264a4bb9d1843]: Textual amendment: Words in [Sch. 6 para. 12(2)(c)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/12/2/c) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(e)(ii)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/e/ii)
+[^c-609cd59ef3830f5505c264a4bb9d1843]: Textual amendment: Words in [Sch. 6 para. 12(2)(c)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/12/2/c) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(e)(ii)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/e/ii)
 
-[^key-8c0f98e173a219a3c055dd9c9c647978]: Commencement: Sch. 6 para. 13 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-8c0f98e173a219a3c055dd9c9c647978]: Commencement: Sch. 6 para. 13 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-56d1478722f19645b6fc2da8144c206e]: Commencement: Sch. 6 para. 14 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-56d1478722f19645b6fc2da8144c206e]: Commencement: Sch. 6 para. 14 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-4de382bea53db33b6d1db42c5bac61e2]: Textual amendment: [Sch. 6 para. 14(2)(b)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/14/2/b) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(f)(i)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/f/i)
+[^c-4de382bea53db33b6d1db42c5bac61e2]: Textual amendment: [Sch. 6 para. 14(2)(b)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/14/2/b) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(f)(i)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/f/i)
 
-[^key-ff7b47a884161fc479cd450c950de702]: Textual amendment: Words in [Sch. 6 para. 14(2)(c)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/14/2/c) substituted (1.10.2024) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/nisr/2024/136/regulation/5/4/a)
+[^c-ff7b47a884161fc479cd450c950de702]: Textual amendment: Words in [Sch. 6 para. 14(2)(c)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/14/2/c) substituted (1.10.2024) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/nisr/2024/136/regulation/5/4/a)
 
-[^key-3f3b1e1c199766768be6634e8ef36cda]: Textual amendment: [Sch. 6 para. 14(2)(ca)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/14/2/ca)[(cb)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/14/2/cb)[(cc)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/14/2/cc) inserted (1.10.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/nisr/2024/136/regulation/5/4/b)
+[^c-3f3b1e1c199766768be6634e8ef36cda]: Textual amendment: [Sch. 6 para. 14(2)(ca)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/14/2/ca)[(cb)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/14/2/cb)[(cc)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/14/2/cc) inserted (1.10.2024) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/136)](https://www.legislation.gov.uk/nisr/2024/136), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/136/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/nisr/2024/136/regulation/5/4/b)
 
-[^key-5c322f49285bbc9207e0fcea943b76f4]: Textual amendment: Words in [Sch. 6 para. 14(4)(b)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/14/4/b) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(f)(ii)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/f/ii)
+[^c-5c322f49285bbc9207e0fcea943b76f4]: Textual amendment: Words in [Sch. 6 para. 14(4)(b)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/14/4/b) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(f)(ii)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/f/ii)
 
-[^key-b072a5d6fa2fd38ea375eb1eeb5d7cba]: Commencement: Sch. 6 para. 15 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-b072a5d6fa2fd38ea375eb1eeb5d7cba]: Commencement: Sch. 6 para. 15 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-a134cee852be8d2fbe6025ef956f5cc8]: Commencement: Sch. 6 para. 16 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-a134cee852be8d2fbe6025ef956f5cc8]: Commencement: Sch. 6 para. 16 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-64d4200b4a86c94c741aa73527855ea9]: Commencement: Sch. 6 para. 17 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-64d4200b4a86c94c741aa73527855ea9]: Commencement: Sch. 6 para. 17 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-564a069a69db1ec94bf9a2ae32debec7]: Commencement: Sch. 6 para. 18 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-564a069a69db1ec94bf9a2ae32debec7]: Commencement: Sch. 6 para. 18 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-f427f69db010f1a25ac045a01794494c]: Textual amendment: Words in [Sch. 6 para. 18(5)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/18/5) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(g)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/g)
+[^c-f427f69db010f1a25ac045a01794494c]: Textual amendment: Words in [Sch. 6 para. 18(5)](https://www.legislation.gov.uk/nisr/2024/15/schedule/6/paragraph/18/5) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(20)(g)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/20/g)
 
-[^key-22fe15a6836534e65515034b73cd68b8]: Commencement: Sch. 6 para. 19 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-22fe15a6836534e65515034b73cd68b8]: Commencement: Sch. 6 para. 19 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-f203be26c028e2d98bd81697da4d4900]: Commencement: Sch. 6 para. 20 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-f203be26c028e2d98bd81697da4d4900]: Commencement: Sch. 6 para. 20 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-759d9d440d2dd72382ecb01434fa6cf7]: Commencement: Sch. 6 para. 21 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-759d9d440d2dd72382ecb01434fa6cf7]: Commencement: Sch. 6 para. 21 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-78ac3fb9ca3c41e2e71a79ec945d1e04]: Commencement: Sch. 6 para. 22 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-78ac3fb9ca3c41e2e71a79ec945d1e04]: Commencement: Sch. 6 para. 22 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Appeal against decision under section 61[^key-cc2cfda10b7136aabe9160e113344d82]
+## 62. Appeal against decision under section 61[^c-cc2cfda10b7136aabe9160e113344d82]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ the officer must make reasonable efforts to give notice of the appeal to the per
 
 ## Annotations
 
-[^key-cc2cfda10b7136aabe9160e113344d82]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2015/9/section/62) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)
+[^c-cc2cfda10b7136aabe9160e113344d82]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2015/9/section/62) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/j)

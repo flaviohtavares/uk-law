@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Trespass on the transport systems[^key-a04e0276f415238870569d02c30395b9]
+## 42. Trespass on the transport systems[^c-a04e0276f415238870569d02c30395b9]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-a04e0276f415238870569d02c30395b9]: Commencement: Art. 42 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-a04e0276f415238870569d02c30395b9]: Commencement: Art. 42 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

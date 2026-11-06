@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.9. Time-Limits[^key-3851466026d5846c1a7df2156874ce79]
+## 12.9. Time-Limits[^c-3851466026d5846c1a7df2156874ce79]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3851466026d5846c1a7df2156874ce79]: Textual amendment: [Rule 12.9](https://www.legislation.gov.uk/uksi/1986/1925/article/12.9) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/11)
+[^c-3851466026d5846c1a7df2156874ce79]: Textual amendment: [Rule 12.9](https://www.legislation.gov.uk/uksi/1986/1925/article/12.9) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/11)

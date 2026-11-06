@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Assignment stage round[^key-a35bc5a478099f69972d72f1b915db93]
+## 64. Assignment stage round[^c-a35bc5a478099f69972d72f1b915db93]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a35bc5a478099f69972d72f1b915db93]: Commencement: Reg. 64 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-a35bc5a478099f69972d72f1b915db93]: Commencement: Reg. 64 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

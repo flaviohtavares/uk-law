@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Removal of restrictions on repeated enfranchisement and extension claims[^key-0f8419272956f29fb03173312054bd19]
+## 28. Removal of restrictions on repeated enfranchisement and extension claims[^c-0f8419272956f29fb03173312054bd19]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f8419272956f29fb03173312054bd19]: Commencement: S. 28 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-0f8419272956f29fb03173312054bd19]: Commencement: S. 28 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

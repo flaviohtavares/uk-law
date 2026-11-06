@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 98. Calculation of net profit of self-employed earners[^key-bbefce38ba90c9aa5b372d31c109be4c]
+## 98. Calculation of net profit of self-employed earners[^c-bbefce38ba90c9aa5b372d31c109be4c]
 
 *Extent: N.I.*
 
@@ -83,7 +83,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bbefce38ba90c9aa5b372d31c109be4c]: Commencement: [Reg. 98](https://www.legislation.gov.uk/nisr/2008/280/regulation/98) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-bbefce38ba90c9aa5b372d31c109be4c]: Commencement: [Reg. 98](https://www.legislation.gov.uk/nisr/2008/280/regulation/98) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
 [^f00096]: Footnote: [S.R. 1975 No. 108](https://www.legislation.gov.uk/nisr/1975/108)
 

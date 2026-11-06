@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 408. Interpretation of the 1990 Regulations[^key-17aaae982f47c113bab9e46034c4fddb]
+## 408. Interpretation of the 1990 Regulations[^c-17aaae982f47c113bab9e46034c4fddb]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17aaae982f47c113bab9e46034c4fddb]: Commencement: Art. 408 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-17aaae982f47c113bab9e46034c4fddb]: Commencement: Art. 408 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

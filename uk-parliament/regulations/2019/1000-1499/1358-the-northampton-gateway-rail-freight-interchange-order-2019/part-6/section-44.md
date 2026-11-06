@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Governance of requirements and governance of protective provisions relating to highway works[^key-7efd77af6ddb92181a91310c907d2737]
+## 44. Governance of requirements and governance of protective provisions relating to highway works[^c-7efd77af6ddb92181a91310c907d2737]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7efd77af6ddb92181a91310c907d2737]: Commencement: Art. 44 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-7efd77af6ddb92181a91310c907d2737]: Commencement: Art. 44 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.101. Trustee to allow inspection of proofs[^key-e781c35154ca9619f457cae828d52348]
+## 6.101. Trustee to allow inspection of proofs[^c-e781c35154ca9619f457cae828d52348]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The trustee shall, so long as proofs lodged with him are in his hands, allow the
 
 ## Annotations
 
-[^key-e781c35154ca9619f457cae828d52348]: Commencement: [Rule 6.101](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.101) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-e781c35154ca9619f457cae828d52348]: Commencement: [Rule 6.101](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.101) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

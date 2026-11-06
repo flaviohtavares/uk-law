@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. International provision[^key-5161cec02a9bce6ea1c4293c713c980a]
+## 5. International provision[^c-5161cec02a9bce6ea1c4293c713c980a]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5161cec02a9bce6ea1c4293c713c980a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1997/474/regulation/5) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-5161cec02a9bce6ea1c4293c713c980a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1997/474/regulation/5) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
 [^f00021]: Footnote: Cmnd 5897 ISBN 011 55068 10
 

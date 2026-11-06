@@ -30,7 +30,7 @@ summary: ''
 
 FAIR EMPLOYMENT
 
-Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 1998 (revoked)[^key-d579d233b23b89ee9ed835ece769b54e]
+Fair Employment (Specification of Public Authorities) (Amendment) Order (Northern Ireland) 1998 (revoked)[^c-d579d233b23b89ee9ed835ece769b54e]
 
 Made
 
@@ -40,44 +40,44 @@ Coming into operation
 
 1st January 1999
 
-[^key-d579d233b23b89ee9ed835ece769b54e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d579d233b23b89ee9ed835ece769b54e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d579d233b23b89ee9ed835ece769b54e]
+## 1. Citation and commencement[^c-d579d233b23b89ee9ed835ece769b54e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d579d233b23b89ee9ed835ece769b54e]
+## 2. Interpretation[^c-d579d233b23b89ee9ed835ece769b54e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 1989[^key-d579d233b23b89ee9ed835ece769b54e]
+## 3. Amendment of the Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 1989[^c-d579d233b23b89ee9ed835ece769b54e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d579d233b23b89ee9ed835ece769b54e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d579d233b23b89ee9ed835ece769b54e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-d579d233b23b89ee9ed835ece769b54e]
+## SCHEDULE[^c-d579d233b23b89ee9ed835ece769b54e]
 
 Article 3
 
-> **SCHEDULE[^key-d579d233b23b89ee9ed835ece769b54e]**
+> **SCHEDULE[^c-d579d233b23b89ee9ed835ece769b54e]**
 >
-> **Part I — Public Authorities for the purposes of sections 27 to 42 of the Act of 1989[^key-d579d233b23b89ee9ed835ece769b54e]**
+> **Part I — Public Authorities for the purposes of sections 27 to 42 of the Act of 1989[^c-d579d233b23b89ee9ed835ece769b54e]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Part II — Public Authorities for the purposes of sections 38 to 42 of the Act of 1989[^key-d579d233b23b89ee9ed835ece769b54e]**
+> **Part II — Public Authorities for the purposes of sections 38 to 42 of the Act of 1989[^c-d579d233b23b89ee9ed835ece769b54e]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d579d233b23b89ee9ed835ece769b54e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d579d233b23b89ee9ed835ece769b54e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d579d233b23b89ee9ed835ece769b54e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/424) revoked (1.7.2000) by [Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2000 (S.R. 2000/199)](https://www.legislation.gov.uk/nisr/2000/199), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2000/199/article/1/1), [5](https://www.legislation.gov.uk/nisr/2000/199/article/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2000/199/schedule/2)
+[^c-d579d233b23b89ee9ed835ece769b54e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/424) revoked (1.7.2000) by [Fair Employment (Specification of Public Authorities) Order (Northern Ireland) 2000 (S.R. 2000/199)](https://www.legislation.gov.uk/nisr/2000/199), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2000/199/article/1/1), [5](https://www.legislation.gov.uk/nisr/2000/199/article/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2000/199/schedule/2)

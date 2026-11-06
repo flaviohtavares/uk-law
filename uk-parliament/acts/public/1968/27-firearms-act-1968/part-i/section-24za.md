@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24ZA. Failing to prevent minors from having air weapons[^key-c904134395cb481e7b82fe19c66c1697]
+## 24ZA. Failing to prevent minors from having air weapons[^c-c904134395cb481e7b82fe19c66c1697]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 *Extent: E+W*
 
-(2 (Extent: S) (affected by repeal, see note))[^key-c5e70a00772b70be77032ba247da884b] Subsection (1) does not apply where by virtue of section 23 of this Act the person under the age of eighteen is not prohibited from having the weapon with him. *(Extent: S)* *(affected by repeal, see note)*[^key-c5e70a00772b70be77032ba247da884b]
+(2 (Extent: S) (affected by repeal, see note))[^c-c5e70a00772b70be77032ba247da884b] Subsection (1) does not apply where by virtue of section 23 of this Act the person under the age of eighteen is not prohibited from having the weapon with him. *(Extent: S)* *(affected by repeal, see note)*[^c-c5e70a00772b70be77032ba247da884b]
 
 *Extent: S*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c904134395cb481e7b82fe19c66c1697]: Textual amendment: S. 24ZA inserted (10.2.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2010/17/section/46/2), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/144](https://www.legislation.gov.uk/uksi/2011/144), [art. 2](https://www.legislation.gov.uk/uksi/2011/144/article/2)
+[^c-c904134395cb481e7b82fe19c66c1697]: Textual amendment: S. 24ZA inserted (10.2.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2010/17/section/46/2), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/144](https://www.legislation.gov.uk/uksi/2011/144), [art. 2](https://www.legislation.gov.uk/uksi/2011/144/article/2)
 
-[^key-c5e70a00772b70be77032ba247da884b]: Textual amendment: S. 24ZA(2) substituted (S.) (31.12.2016) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [s. 88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2), [sch. 2 para. 1(7)](https://www.legislation.gov.uk/asp/2015/10/schedule/2/paragraph/1/7); [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(c)](https://www.legislation.gov.uk/ssi/2016/130/article/3/c)
+[^c-c5e70a00772b70be77032ba247da884b]: Textual amendment: S. 24ZA(2) substituted (S.) (31.12.2016) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [s. 88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2), [sch. 2 para. 1(7)](https://www.legislation.gov.uk/asp/2015/10/schedule/2/paragraph/1/7); [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(c)](https://www.legislation.gov.uk/ssi/2016/130/article/3/c)

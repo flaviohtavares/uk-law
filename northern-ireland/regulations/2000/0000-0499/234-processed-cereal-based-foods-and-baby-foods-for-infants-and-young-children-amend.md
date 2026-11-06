@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-49d20eb3e56810cf29d5d729b1f5e2e3]
+Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-49d20eb3e56810cf29d5d729b1f5e2e3]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 1st July 2002
 
-[^key-49d20eb3e56810cf29d5d729b1f5e2e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49d20eb3e56810cf29d5d729b1f5e2e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-49d20eb3e56810cf29d5d729b1f5e2e3]
+## 1. Citation, commencement and interpretation[^c-49d20eb3e56810cf29d5d729b1f5e2e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-49d20eb3e56810cf29d5d729b1f5e2e3]
+## 2. Amendment of the principal Regulations[^c-49d20eb3e56810cf29d5d729b1f5e2e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-49d20eb3e56810cf29d5d729b1f5e2e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49d20eb3e56810cf29d5d729b1f5e2e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-49d20eb3e56810cf29d5d729b1f5e2e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49d20eb3e56810cf29d5d729b1f5e2e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-49d20eb3e56810cf29d5d729b1f5e2e3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/234) revoked (6.3.2005) by [Processed Cereal-based Foods and Baby Foods for Infants and Young Children Regulations (Northern Ireland) 2003 (S.R. 2003/530)](https://www.legislation.gov.uk/nisr/2003/530), [regs. 1](https://www.legislation.gov.uk/nisr/2003/530/regulation/1), [13](https://www.legislation.gov.uk/nisr/2003/530/regulation/13)
+[^c-49d20eb3e56810cf29d5d729b1f5e2e3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/234) revoked (6.3.2005) by [Processed Cereal-based Foods and Baby Foods for Infants and Young Children Regulations (Northern Ireland) 2003 (S.R. 2003/530)](https://www.legislation.gov.uk/nisr/2003/530), [regs. 1](https://www.legislation.gov.uk/nisr/2003/530/regulation/1), [13](https://www.legislation.gov.uk/nisr/2003/530/regulation/13)

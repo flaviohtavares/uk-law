@@ -50,13 +50,13 @@ In accordance with section 16(1) of that Act, they have consulted with represent
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and extent[^key-178d48ab8d182cd64ef93d5455bf6c08]
+### 1. Citation, commencement and extent[^c-178d48ab8d182cd64ef93d5455bf6c08]
 
 (1) These Regulations may be cited as the Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 and come into force on 1st July 2016.
 
 (2) These Regulations extend to Scotland only.
 
-### 2. Interpretation[^key-05b4177c198cdebfab661fd627c35d0e]
+### 2. Interpretation[^c-05b4177c198cdebfab661fd627c35d0e]
 
 (1) In these Regulations—
 
@@ -82,27 +82,27 @@ In accordance with section 16(1) of that Act, they have consulted with represent
 - “responsible person” means a person nominated under regulation 3(3) by an applicant for a professional seed operator’s licence or a seed testing station licence as the point of contact for all communications relating to the licence;
 - “seed” means seed of any species to which the Seed Marketing Regulations apply;
 - “seed analyst” means a person who the Scottish Ministers are satisfied has completed an appropriate training course and passed an appropriate examination relating to seed testing in respect of seed of the species being tested, or to be tested, by that person;
-- “the Seed Marketing Directives” means—[^key-488eebc9e9b05a74a71997bfcab24139]
+- “the Seed Marketing Directives” means—[^c-488eebc9e9b05a74a71997bfcab24139]
   - (a) Council [Directive 66/401/EEC](https://www.legislation.gov.uk/european/directive/1966/0401) on the marketing of fodder plant seed[^M_F_c25b3df9-454b-4d26-f48d-69c5f27206bc];
   - (b) Council [Directive 66/402/EEC](https://www.legislation.gov.uk/european/directive/1966/0402) on the marketing of cereal seed[^M_F_66f19a26-bdbb-472d-dfa0-057d70387a05];
   - (c) Council [Directive 2002/54/EC](https://www.legislation.gov.uk/european/directive/2002/0054) on the marketing of beet seed[^M_F_c53c6463-7454-4bd5-8b6e-d77806c91bac];
   - (d) Council [Directive 2002/55/EC](https://www.legislation.gov.uk/european/directive/2002/0055) on the marketing of vegetable seed[^M_F_2f9fdbbc-02da-45c8-b6e0-7948caa79342]; and
   - (e) Council [Directive 2002/57/EC](https://www.legislation.gov.uk/european/directive/2002/0057) on the marketing of seed of oil and fibre plants[^M_F_537869cf-4619-43b3-e907-dc5dbbe9480a];
-- “the Seed Marketing Regulations” means—[^key-3d3fa4836c5ccfd1a13af52ed9a0f2ee]
+- “the Seed Marketing Regulations” means—[^c-3d3fa4836c5ccfd1a13af52ed9a0f2ee]
   - (a) in relation to vegetable seed, the Vegetable Seeds Regulations 1993[^M_F_c0e12688-17ec-4cbf-98bc-e1e97ae869ab];
   - (b) in relation to oil and fibre plant seed, the Oil and Fibre Plant Seed (Scotland) Regulations 2004[^M_F_1b68dde4-a354-4e88-859a-8a262e6244ec];
   - (c) in relation to cereal seed, the Cereal Seed (Scotland) Regulations 2005[^M_F_048fec9d-d757-449e-f8bb-d7947b020c69];
   - (d) in relation to fodder plant seed, the Fodder Plant Seed (Scotland) Regulations 2005[^M_F_f85a9922-b556-44b5-bf00-b5871129d471]; and
   - (e) in relation to beet seed, the Beet Seed (Scotland) (No. 2) Regulations 2010[^M_F_1451127c-0f82-48df-b160-a851c7d730c3];
 - “seed merchant” means a person who carries on a business which includes marketing seed (including seed of a conservation variety or a preservation mixture) except where that marketing is only of one or more of the following types—
-  - (a) marketing of small packages of seed, small [^key-a3ca630a82525a3ce68e94730007445d]... A packages of seed or small [^key-a3ca630a82525a3ce68e94730007445d]... B packages of seed;
+  - (a) marketing of small packages of seed, small [^c-a3ca630a82525a3ce68e94730007445d]... A packages of seed or small [^c-a3ca630a82525a3ce68e94730007445d]... B packages of seed;
   - (b) marketing of unpacketed seed;
   - (c) marketing by a producer of small quantities of seed for scientific purposes or selection work in compliance with an authorisation permitting such marketing granted under the Seed Marketing Regulations;
   - (d) marketing by a producer of seed for test and trial purposes in compliance with an authorisation permitting such marketing granted under the Seed Marketing Regulations; or
   - (e) marketing of seed harvested from a crop that has been shown to meet the relevant crop standards in the Seed Marketing Regulations which is for processing, provided the identity of the seed is ensured;
 - “seed packer” means a person who carries on a business which includes re-packing, re-sealing or re-labelling seed, including seed of a conservation variety or a preservation mixture;
 - “seed processor” means a person who carries on a business which includes—
-  - (a) packing, sealing or labelling seed (including the labelling or marking of Standard Seed of vegetables and seed of a conservation variety), small packages of seed, small [^key-dcaee7bc33eafaa6d14c067b9431b03c]... A packages of seed or small [^key-dcaee7bc33eafaa6d14c067b9431b03c]... B packages of seed;
+  - (a) packing, sealing or labelling seed (including the labelling or marking of Standard Seed of vegetables and seed of a conservation variety), small packages of seed, small [^c-dcaee7bc33eafaa6d14c067b9431b03c]... A packages of seed or small [^c-dcaee7bc33eafaa6d14c067b9431b03c]... B packages of seed;
   - (b) preparing mixtures of seeds permitted by the Seed Marketing Regulations; or
   - (c) cleaning, treating or otherwise processing seed intended for marketing;
 - “seeds regulations” means regulations made under section 16 of the Act;
@@ -113,7 +113,7 @@ In accordance with section 16(1) of that Act, they have consulted with represent
 
 ## PART II — LICENSING
 
-### 3. Applications for licences[^key-73d76607c8ddbf4d13e4139e08ad9c02]
+### 3. Applications for licences[^c-73d76607c8ddbf4d13e4139e08ad9c02]
 
 (1) A person may apply to the Scottish Ministers—
 
@@ -126,7 +126,7 @@ In accordance with section 16(1) of that Act, they have consulted with represent
 
 (4) In the case of an application for a seed testing station licence, the applicant must nominate an Analyst in Charge and include the name and contact address of that person.
 
-### 4. Determination of licences[^key-0947b0c1df2b882d92b394790c6bc2d8]
+### 4. Determination of licences[^c-0947b0c1df2b882d92b394790c6bc2d8]
 
 (1) Where an application is made under regulation 3(1), the Scottish Ministers may—
 
@@ -167,17 +167,17 @@ In accordance with section 16(1) of that Act, they have consulted with represent
 
 (7) Subject to regulation 23, where a person applies for a licence under regulation 3(1) to take effect on expiry of an existing licence granted under regulation 4(1)(a), the existing licence continues to have effect, regardless of its expiry date, pending final determination of the application or, where applicable, final determination of an appeal against refusal of the application.
 
-### 5. Variation of licences[^key-2d26091afea0f675a6760bde816cee8e]
+### 5. Variation of licences[^c-2d26091afea0f675a6760bde816cee8e]
 
 (1) The Scottish Ministers may at any time vary a licence granted under regulation 4(1)(a) including any functions specified in, and conditions attached to, the licence, whether or not at the request of the licence holder.
 
 (2) An application for a variation of a licence is to be made in such form and manner and be accompanied by such information as the Scottish Ministers may require.
 
-### 6. Termination of licences[^key-0755fe68222f61b52067725e27ec0aed]
+### 6. Termination of licences[^c-0755fe68222f61b52067725e27ec0aed]
 
 The Scottish Ministers may terminate a licence at the licence holder’s request subject to such conditions as the Scottish Ministers may determine.
 
-### 7. Suspension and revocation of licences[^key-1d17806144360841b21a8bf39a7326c5]
+### 7. Suspension and revocation of licences[^c-1d17806144360841b21a8bf39a7326c5]
 
 (1) The Scottish Ministers may suspend or revoke a licence in whole or in part if they are satisfied that the licence holder—
 
@@ -202,14 +202,14 @@ The Scottish Ministers may terminate a licence at the licence holder’s request
 
 (5) The Scottish Ministers may recall a suspension of a licence if they consider it appropriate to do so.
 
-### 8. Training and examinations[^key-61f971bbe2858419a79faea675f7a992]
+### 8. Training and examinations[^c-61f971bbe2858419a79faea675f7a992]
 
 The Scottish Ministers may require—
 
 - (a) a licensed crop inspector or a licensed seed sampler to attend such training courses and undergo such examinations as the Scottish Ministers consider necessary to maintain the knowledge and qualifications required in respect of any functions specified in a licence granted under regulation 4(1)(a);
 - (b) a seed analyst carrying out statutory seed testing at a licensed seed testing station, or the Analyst in Charge of such a station, to attend such training courses and undergo such examinations as the Scottish Ministers consider necessary to maintain the knowledge and qualifications required in respect of the functions of the seed analyst or, as the case may be Analyst in Charge, carried out at that station.
 
-### 9. Duties of the Analyst in Charge[^key-db04d6bf20cf95d96edc170fde292e67]
+### 9. Duties of the Analyst in Charge[^c-db04d6bf20cf95d96edc170fde292e67]
 
 The Analyst in Charge of a licensed seed testing station must—
 
@@ -217,7 +217,7 @@ The Analyst in Charge of a licensed seed testing station must—
 - (b) supervise the work of all seed analysts assisting in statutory seed testing carried out at the station; and
 - (c) be in effective control of all statutory seed testing carried out at the station and have direct responsibility for the issuing of the results of statutory seed testing.
 
-### 10. Register[^key-bf4c916fd01b55bccb66aea5b66c0305]
+### 10. Register[^c-bf4c916fd01b55bccb66aea5b66c0305]
 
 The Scottish Ministers must—
 
@@ -230,7 +230,7 @@ The Scottish Ministers must—
 - (b) make the register available for inspection by any person at any reasonable time; and
 - (c) from time to time publish the register in such manner as they consider appropriate.
 
-### 11. Fees[^key-50811fb6fc822f8964c96cf3452d47bb]
+### 11. Fees[^c-50811fb6fc822f8964c96cf3452d47bb]
 
 (1) A licensed crop inspector, a licensed seed sampler or a licensed seed testing station must charge the fees prescribed in seeds regulations for carrying out the functions specified in the licence.
 
@@ -238,7 +238,7 @@ The Scottish Ministers must—
 
 ## PART III — SUPERVISION AND ENFORCEMENT
 
-### 12. Supervision and checking of licence holders[^key-c310ad5089a77df660687fc21d553431]
+### 12. Supervision and checking of licence holders[^c-c310ad5089a77df660687fc21d553431]
 
 (1) The Scottish Ministers must require an authorised officer to undertake the checks described in paragraphs (2) to (4) in the supervision of licensed crop inspectors, licensed seed samplers and licensed seed testing stations.
 
@@ -250,7 +250,7 @@ The Scottish Ministers must—
 
 (5) The Scottish Ministers may require an authorised officer to undertake such other checks in relation to licence holders as the Scottish Ministers consider appropriate, for the purposes of ensuring compliance with these Regulations and the Seed Marketing Regulations.
 
-### 13. Sampling for enforcement purposes[^key-3bbe3fea240efb081e68f2e557a9824f]
+### 13. Sampling for enforcement purposes[^c-3bbe3fea240efb081e68f2e557a9824f]
 
 (1) Paragraph (2) applies where a sample of seed is to be taken under section 25(5) of the Act for the enforcement of the Seed Marketing Regulations.
 
@@ -264,7 +264,7 @@ The Scottish Ministers must—
 
 (3) The procedures described in paragraph (2) are to be carried out by an authorised officer in accordance with the requirements of the Seed Marketing Regulations and where it appears to that officer that the sample that has been taken was purchased for use and not for resale, the first part of the sample is to be delivered or sent to the last seller of the seed or the last seller’s representative instead of to the owner of the seed or the owner’s representative.
 
-(4) Where a part of a sample taken under this regulation has been officially examined for the purposes of the Seed Marketing Regulations, any residue from the sample may be used for such other tests as the Scottish Ministers may direct [^key-a6ddf8fc5750a09783cd4bcf0f94f0f9]....
+(4) Where a part of a sample taken under this regulation has been officially examined for the purposes of the Seed Marketing Regulations, any residue from the sample may be used for such other tests as the Scottish Ministers may direct [^c-a6ddf8fc5750a09783cd4bcf0f94f0f9]....
 
 (5) Subject to paragraph (6)(a), the minimum weight of a sample of seed taken as mentioned in paragraph (1) must be such as to ensure that each of the parts into which it is divided is of not less than the prescribed minimum weight for such a sample.
 
@@ -273,7 +273,7 @@ The Scottish Ministers must—
 - (a) instead of being of a prescribed minimum weight the sample must consist of as many such packages as the person taking the sample may require; and
 - (b) the sample is to be delivered or sent to the Official Seed Testing Station where it must be officially examined for the purposes of the Seed Marketing Regulations and the procedures set out in paragraphs (2) and (3) do not apply.
 
-### 14. Certificates of taking and testing a sample[^key-9ec616e30dc980371e7008d1c769bb0b]
+### 14. Certificates of taking and testing a sample[^c-9ec616e30dc980371e7008d1c769bb0b]
 
 (1) A certificate in the form set out in Schedule 1 relating to the taking of a sample of seed for the enforcement of Seed Marketing Regulations is prescribed for the purposes of section 26(3) of the Act.
 
@@ -287,7 +287,7 @@ The Scottish Ministers must—
 
 ## PART IV — MISCELLANEOUS AND SUPPLEMENTAL
 
-### 15. Right to make representations[^key-955c1357cee9808e35804309e715580e]
+### 15. Right to make representations[^c-955c1357cee9808e35804309e715580e]
 
 (1) The Scottish Ministers must not decide to—
 
@@ -297,7 +297,7 @@ The Scottish Ministers must—
 
 unless they have complied with the provisions of this regulation.
 
-(2) Subject to paragraph (3), before taking any decision mentioned in paragraph (1) the Scottish Ministers must give the licence holder or, as the case may be,[^key-729130fd95022f74daf4d1f01dd6c4c9] the person who applied for a licence under regulation 3[^key-3ec6acb8895d2136387454aa1ba3c5c5]—
+(2) Subject to paragraph (3), before taking any decision mentioned in paragraph (1) the Scottish Ministers must give the licence holder or, as the case may be,[^c-729130fd95022f74daf4d1f01dd6c4c9] the person who applied for a licence under regulation 3[^c-3ec6acb8895d2136387454aa1ba3c5c5]—
 
 - (a) a notice stating what they are proposing to do and the reasons for it; and
 - (b) the opportunity of making representations within such period as the Scottish Ministers consider reasonable.
@@ -311,17 +311,17 @@ unless they have complied with the provisions of this regulation.
 
 (5) If the Scottish Ministers have received written representations within the period referred to in paragraph (2)(b) or, as the case may be, paragraph (4)(b), they must as soon as reasonably practicable consider any such representations before taking any decision mentioned in paragraph (1) or, as the case may be, deciding that the suspension of the licence is to remain in force or is to be recalled.
 
-(6) The Scottish Ministers must give the licence holder or, as the case may be, the person refused a licence,[^key-180dc6a0b1cc06f76f8d72da2bb17027] notice of—
+(6) The Scottish Ministers must give the licence holder or, as the case may be, the person refused a licence,[^c-180dc6a0b1cc06f76f8d72da2bb17027] notice of—
 
 - (a) any decision mentioned in paragraph (1) together with the reasons for it and the date from which the decision is to have effect;
 - (b) any decision that the suspension of a licence in whole or in part is to remain in force together with the reasons for it.
 
-(7) In giving a notice under paragraph (6), the Scottish Ministers must, where a right of appeal exists under regulation 16(1), inform the licence holder or, as the case may be, the person refused a licence[^key-4a898d719befa2a90e27b2b90f811075] of—
+(7) In giving a notice under paragraph (6), the Scottish Ministers must, where a right of appeal exists under regulation 16(1), inform the licence holder or, as the case may be, the person refused a licence[^c-4a898d719befa2a90e27b2b90f811075] of—
 
 - (a) the right to appeal to the Tribunal against the decision; and
 - (b) the period of time within which such an appeal may be brought.
 
-### 16. Appeals[^key-1b8939c7074394ebd26999257e964757]
+### 16. Appeals[^c-1b8939c7074394ebd26999257e964757]
 
 (1) Subject to paragraph (2), a person given notice of a decision in accordance with regulation 15(6) and (7) may appeal to the Tribunal.
 
@@ -338,19 +338,19 @@ for the sole reason that the applicant or licence holder has failed to undertake
 
 (5) The Scottish Ministers must give effect to any decision of the Tribunal which constitutes the final determination of an appeal under paragraph (1).
 
-### 17. Exemptions[^key-9d56de64f4b060351612f1bad51e2a8f]
+### 17. Exemptions[^c-9d56de64f4b060351612f1bad51e2a8f]
 
 The Scottish Ministers may exempt any person or class of persons, or persons generally, from compliance with any provision of these Regulations, subject to any conditions the Scottish Ministers think appropriate.
 
-### 18. Extension of time[^key-6a5622926f72b08e43c5947daa4a4239]
+### 18. Extension of time[^c-6a5622926f72b08e43c5947daa4a4239]
 
 Where any document is to be delivered or given or any act is to be done in a time prescribed by or under these Regulations the Scottish Ministers may, if they consider it reasonable, extend the time for such period and subject to such conditions as the Scottish Ministers may determine.
 
-### 19. Form of records[^key-ec977a2cec01846c6a33cf499fafe0d0]
+### 19. Form of records[^c-ec977a2cec01846c6a33cf499fafe0d0]
 
 Any record required to be kept under these Regulations, or as a condition of a licence granted under these Regulations, may be in written or electronic form and must be kept for at least six years, except where otherwise provided for in seeds regulations.
 
-### 20. Service of notices[^key-28c7f23196e54573f6f78aa4778ab011]
+### 20. Service of notices[^c-28c7f23196e54573f6f78aa4778ab011]
 
 (1) Any notice required to be given to any person by the Scottish Ministers by virtue of these Regulations may be given by—
 
@@ -403,15 +403,15 @@ where that address is supplied by that association for the conduct of the affair
   - (a) a director, manager, secretary or other similar officer of the body corporate; or
   - (b) where the affairs of the body corporate are managed by its members, a member.
 
-### 21. Written and electronic communication[^key-8ca0946290af15e76ecb00ac793f7f30]
+### 21. Written and electronic communication[^c-8ca0946290af15e76ecb00ac793f7f30]
 
 All applications, representations, notices and requests to which these Regulations apply must be made in writing which includes an electronic communication within the meaning of section 15(1) (general interpretation) of the Electronic Communications Act 2000[^f00019].
 
-### 22. Amendments to the Seed Marketing Regulations[^key-d05f6f893e3a364462daf6fcdf0bdcb8]
+### 22. Amendments to the Seed Marketing Regulations[^c-d05f6f893e3a364462daf6fcdf0bdcb8]
 
 The Seed Marketing Regulations mentioned in Schedule 3 and the Seed Potatoes (Scotland) Regulations 2015[^f00020] are amended in accordance with Schedule 3.
 
-### 23. Revocations, transitional and savings provisions[^key-69b15d403eadd87d74f12f50776c5eba]
+### 23. Revocations, transitional and savings provisions[^c-69b15d403eadd87d74f12f50776c5eba]
 
 (1) Subject to the following provisions of this regulation, the 2006 Regulations are revoked.
 
@@ -455,7 +455,7 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE 1 — FORM OF CERTIFICATE FOR THE TAKING OF A SAMPLE OF SEED[^key-d27b1f563db33c80cbb20981ec6f4cc9]
+## SCHEDULE 1 — FORM OF CERTIFICATE FOR THE TAKING OF A SAMPLE OF SEED[^c-d27b1f563db33c80cbb20981ec6f4cc9]
 
 Regulation 14(1)
 
@@ -463,15 +463,15 @@ Regulation 14(1)
 
 Regulation 14(2)
 
-### PART I — FORM OF CERTIFICATE OF RESULTS OF TESTS OF BEET SEED[^key-1a320d33d6ea7b6f039fa8ff1084c3a4]
+### PART I — FORM OF CERTIFICATE OF RESULTS OF TESTS OF BEET SEED[^c-1a320d33d6ea7b6f039fa8ff1084c3a4]
 
-### PART II — FORM OF CERTIFICATE OF RESULTS OF TESTS OF CEREAL SEED[^key-697851c230034052051372a6911d0471]
+### PART II — FORM OF CERTIFICATE OF RESULTS OF TESTS OF CEREAL SEED[^c-697851c230034052051372a6911d0471]
 
-### PART III — FORM OF CERTIFICATE OF RESULTS OF TESTS OF FODDER PLANT SEED[^key-2d3fb4e2b17bb720997d3edde9d804d5]
+### PART III — FORM OF CERTIFICATE OF RESULTS OF TESTS OF FODDER PLANT SEED[^c-2d3fb4e2b17bb720997d3edde9d804d5]
 
-### PART IV — FORM OF CERTIFICATE OF RESULTS OF TESTS OF OIL AND FIBRE PLANT SEED[^key-a5ed840de11a35c067653360d868a444]
+### PART IV — FORM OF CERTIFICATE OF RESULTS OF TESTS OF OIL AND FIBRE PLANT SEED[^c-a5ed840de11a35c067653360d868a444]
 
-### PART V — FORM OF CERTIFICATE OF RESULTS OF TESTS OF VEGETABLE SEED[^key-260fdcb24d35d3f5b8441ce74f6baec3]
+### PART V — FORM OF CERTIFICATE OF RESULTS OF TESTS OF VEGETABLE SEED[^c-260fdcb24d35d3f5b8441ce74f6baec3]
 
 ## SCHEDULE 3 — AMENDMENTS TO THE SEED MARKETING REGULATIONS AND THE SEED POTATOES (SCOTLAND) REGULATIONS 2015
 
@@ -479,7 +479,7 @@ Regulation 22
 
 ### PART I — AMENDMENTS TO THE OIL AND FIBRE PLANT SEED (SCOTLAND) REGULATIONS 2004
 
-**1.**[^key-0e78438175c1badfffb96df4e5608628] (1) The Oil and Fibre Plant Seed (Scotland) Regulations 2004[^f00021] are amended in accordance with this paragraph.
+**1.**[^c-0e78438175c1badfffb96df4e5608628] (1) The Oil and Fibre Plant Seed (Scotland) Regulations 2004[^f00021] are amended in accordance with this paragraph.
 
 (2) In regulation 2(1) (interpretation)—
 
@@ -534,7 +534,7 @@ Regulation 22
 
 ### PART II — AMENDMENTS TO THE CEREAL SEED (SCOTLAND) REGULATIONS 2005
 
-**2.**[^key-2f686e22c91d7f56ae80334746c48f61] (1) The Cereal Seed (Scotland) Regulations 2005[^f00023] are amended in accordance with this paragraph.
+**2.**[^c-2f686e22c91d7f56ae80334746c48f61] (1) The Cereal Seed (Scotland) Regulations 2005[^f00023] are amended in accordance with this paragraph.
 
 (2) In regulation 2(1) (interpretation)—
 
@@ -688,7 +688,7 @@ Regulation 22
 
 ### PART III — AMENDMENTS TO THE FODDER PLANT SEED (SCOTLAND) REGULATIONS 2005
 
-**3.**[^key-74b4523bccc25a3f945ba18a28b13fba] (1) The Fodder Plant Seed (Scotland) Regulations 2005[^f00026] are amended in accordance with this paragraph.
+**3.**[^c-74b4523bccc25a3f945ba18a28b13fba] (1) The Fodder Plant Seed (Scotland) Regulations 2005[^f00026] are amended in accordance with this paragraph.
 
 (2) In regulation 2(1) (interpretation)—
 
@@ -747,7 +747,7 @@ Regulation 22
 
 ### PART IV — AMENDMENTS TO THE BEET SEED (SCOTLAND) (NO. 2) (SCOTLAND) REGULATIONS 2010
 
-**4.**[^key-36b34cd5fee7c3a8a43efb6c7bf14a10] (1) The Beet Seed (Scotland) (No. 2) Regulations 2010[^f00029] are amended in accordance with this paragraph.
+**4.**[^c-36b34cd5fee7c3a8a43efb6c7bf14a10] (1) The Beet Seed (Scotland) (No. 2) Regulations 2010[^f00029] are amended in accordance with this paragraph.
 
 (2) In regulation 2(1) (interpretation)—
 
@@ -806,7 +806,7 @@ Regulation 22
 
 ### PART V — AMENDMENT TO THE SEED POTATOES (SCOTLAND) REGULATIONS 2015
 
-**5.**[^key-f3aee45d7286373acfbd87893eca2f6f] In regulation 18(1) (information regarding seed potatoes) of the Seed Potatoes (Scotland) Regulations 2015[^f00030], for “and of the marketing” substitute “the marketing”.
+**5.**[^c-f3aee45d7286373acfbd87893eca2f6f] In regulation 18(1) (information regarding seed potatoes) of the Seed Potatoes (Scotland) Regulations 2015[^f00030], for “and of the marketing” substitute “the marketing”.
 
 EXPLANATORY NOTE
 
@@ -868,9 +868,9 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00001]: Footnote: [1964 c.14](https://www.legislation.gov.uk/ukpga/1964/14) (“the 1964 Act”); section 16 was amended by the European Communities Act [1972 (c.68)](https://www.legislation.gov.uk/ukpga/1972/68) (“the 1972 Act”), section 4(1) and Schedule 4, paragraph 5(1) and (2); by the Agriculture Act [1986 (c.49)](https://www.legislation.gov.uk/ukpga/1986/49), section 2; and by [S.I. 1977/1112](https://www.legislation.gov.uk/uksi/1977/1112). Section 16 is applied to seed potatoes by section 29(1) of the 1964 Act. Section 29 was amended by the 1972 Act, section 4(1) and Schedule 4, paragraph 5(4). The powers conferred by section 16 are exercisable by “the Minister”. See section 38(1) for the definition of “the Minister”. The functions of the Secretary of State, insofar as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-178d48ab8d182cd64ef93d5455bf6c08]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/68/regulation/1) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-178d48ab8d182cd64ef93d5455bf6c08]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/68/regulation/1) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-05b4177c198cdebfab661fd627c35d0e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/68/regulation/2) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-05b4177c198cdebfab661fd627c35d0e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/68/regulation/2) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2006/313](https://www.legislation.gov.uk/ssi/2006/313), amended by [S.S.I. 2007/536](https://www.legislation.gov.uk/ssi/2007/536) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and revoked subject to savings by regulation 23.
 
@@ -878,7 +878,7 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00004]: Footnote: [S.S.I. 2005/329](https://www.legislation.gov.uk/ssi/2005/329), amended by [S.S.I. 2006/313](https://www.legislation.gov.uk/ssi/2006/313), [S.S.I. 2006/448](https://www.legislation.gov.uk/ssi/2006/448), [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224), [S.S.I. 2007/536](https://www.legislation.gov.uk/ssi/2007/536), [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223), [S.S.I. 2009/330](https://www.legislation.gov.uk/ssi/2009/330), [S.S.I. 2010/219](https://www.legislation.gov.uk/ssi/2010/219), [S.S.I. 2012/5](https://www.legislation.gov.uk/ssi/2012/5) and [S.S.I. 2013/326](https://www.legislation.gov.uk/ssi/2013/326).
 
-[^key-488eebc9e9b05a74a71997bfcab24139]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/2/1) substituted (6.2.2017) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/434)](https://www.legislation.gov.uk/ssi/2016/434), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/434/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/ssi/2016/434/regulation/8/2/a)
+[^c-488eebc9e9b05a74a71997bfcab24139]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/2/1) substituted (6.2.2017) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/434)](https://www.legislation.gov.uk/ssi/2016/434), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/434/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/ssi/2016/434/regulation/8/2/a)
 
 [^M_F_c25b3df9-454b-4d26-f48d-69c5f27206bc]: Textual amendment: OJ L 125, 11.7.1966, p.2298, as last amended by Commission Implementing Directive (EU) 2016/317 (OJ L 60, 5.3.2016, p.72).
 
@@ -890,7 +890,7 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^M_F_537869cf-4619-43b3-e907-dc5dbbe9480a]: Textual amendment: OJ L 193, 20.7.2002, p.74, as last amended by Commission Implementing Directive (EU) 2016/317 (OJ L 60, 5.3.2016, p.72).
 
-[^key-3d3fa4836c5ccfd1a13af52ed9a0f2ee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/2/1) substituted (6.2.2017) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/434)](https://www.legislation.gov.uk/ssi/2016/434), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/434/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/ssi/2016/434/regulation/8/2/b)
+[^c-3d3fa4836c5ccfd1a13af52ed9a0f2ee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/2/1) substituted (6.2.2017) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/434)](https://www.legislation.gov.uk/ssi/2016/434), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/434/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/ssi/2016/434/regulation/8/2/b)
 
 [^M_F_c0e12688-17ec-4cbf-98bc-e1e97ae869ab]: Textual amendment: [S.I. 1993/2008](https://www.legislation.gov.uk/uksi/1993/2008), as amended by [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434).
 
@@ -902,93 +902,93 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^M_F_1451127c-0f82-48df-b160-a851c7d730c3]: Textual amendment: [S.S.I. 2010/148](https://www.legislation.gov.uk/ssi/2010/148), as amended by [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434).
 
-[^key-a3ca630a82525a3ce68e94730007445d]: Textual amendment: Word in reg. 2(1) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [17(2)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/17/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a3ca630a82525a3ce68e94730007445d]: Textual amendment: Word in reg. 2(1) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [17(2)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/17/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dcaee7bc33eafaa6d14c067b9431b03c]: Textual amendment: Word in reg. 2(1) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [17(2)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/17/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dcaee7bc33eafaa6d14c067b9431b03c]: Textual amendment: Word in reg. 2(1) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [17(2)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/17/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00015]: Footnote: [1997 c.66](https://www.legislation.gov.uk/ukpga/1997/66).
 
-[^key-73d76607c8ddbf4d13e4139e08ad9c02]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/68/regulation/3) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-73d76607c8ddbf4d13e4139e08ad9c02]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/68/regulation/3) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-0947b0c1df2b882d92b394790c6bc2d8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/68/regulation/4) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-0947b0c1df2b882d92b394790c6bc2d8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/68/regulation/4) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
 [^f00016]: Footnote: Under section 16(7) , it is an offence to include anything in a statutory statement which is false in a material particular or to contravene any provision in seeds regulations.
 
-[^key-2d26091afea0f675a6760bde816cee8e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/68/regulation/5) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-2d26091afea0f675a6760bde816cee8e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/68/regulation/5) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-0755fe68222f61b52067725e27ec0aed]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/68/regulation/6) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-0755fe68222f61b52067725e27ec0aed]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/68/regulation/6) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-1d17806144360841b21a8bf39a7326c5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/68/regulation/7) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-1d17806144360841b21a8bf39a7326c5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/68/regulation/7) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-61f971bbe2858419a79faea675f7a992]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/68/regulation/8) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-61f971bbe2858419a79faea675f7a992]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/68/regulation/8) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-db04d6bf20cf95d96edc170fde292e67]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/68/regulation/9) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-db04d6bf20cf95d96edc170fde292e67]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/68/regulation/9) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-bf4c916fd01b55bccb66aea5b66c0305]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/68/regulation/10) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-bf4c916fd01b55bccb66aea5b66c0305]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/68/regulation/10) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-50811fb6fc822f8964c96cf3452d47bb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/68/regulation/11) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-50811fb6fc822f8964c96cf3452d47bb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/68/regulation/11) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-c310ad5089a77df660687fc21d553431]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/68/regulation/12) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-c310ad5089a77df660687fc21d553431]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/68/regulation/12) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-3bbe3fea240efb081e68f2e557a9824f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/68/regulation/13) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-3bbe3fea240efb081e68f2e557a9824f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/68/regulation/13) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-a6ddf8fc5750a09783cd4bcf0f94f0f9]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/ssi/2016/68/regulation/13/4) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [17(3)](https://www.legislation.gov.uk/ssi/2019/59/regulation/17/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a6ddf8fc5750a09783cd4bcf0f94f0f9]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/ssi/2016/68/regulation/13/4) omitted (31.12.2020) by virtue of [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [17(3)](https://www.legislation.gov.uk/ssi/2019/59/regulation/17/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00017]: Footnote: [S.I. 1993/2008](https://www.legislation.gov.uk/uksi/1993/2008), amended by [S.I. 1996/1452](https://www.legislation.gov.uk/uksi/1996/1452), [S.I. 1997/616](https://www.legislation.gov.uk/uksi/1997/616), [S.I. 1999/1863](https://www.legislation.gov.uk/uksi/1999/1863), [S.S.I. 2000/250](https://www.legislation.gov.uk/ssi/2000/250), [S.I. 2001/3510](https://www.legislation.gov.uk/uksi/2001/3510), [S.S.I. 2007/305](https://www.legislation.gov.uk/ssi/2007/305), [S.S.I. 2010/219](https://www.legislation.gov.uk/ssi/2010/219), [S.S.I. 2010/425](https://www.legislation.gov.uk/ssi/2010/425), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.S.I. 2013/326](https://www.legislation.gov.uk/ssi/2013/326).
 
-[^key-9ec616e30dc980371e7008d1c769bb0b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2016/68/regulation/14) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-9ec616e30dc980371e7008d1c769bb0b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2016/68/regulation/14) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-955c1357cee9808e35804309e715580e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2016/68/regulation/15) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-955c1357cee9808e35804309e715580e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2016/68/regulation/15) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-729130fd95022f74daf4d1f01dd6c4c9]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/ssi/2016/68/regulation/15/2) inserted (6.2.2017) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/434)](https://www.legislation.gov.uk/ssi/2016/434), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/434/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/ssi/2016/434/regulation/8/3/a)
+[^c-729130fd95022f74daf4d1f01dd6c4c9]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/ssi/2016/68/regulation/15/2) inserted (6.2.2017) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/434)](https://www.legislation.gov.uk/ssi/2016/434), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/434/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/ssi/2016/434/regulation/8/3/a)
 
-[^key-3ec6acb8895d2136387454aa1ba3c5c5]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/ssi/2016/68/regulation/15/2) substituted (1.7.2017) by [The Seed (Fees etc.) (Scotland) Regulations 2017 (S.S.I. 2017/179)](https://www.legislation.gov.uk/ssi/2017/179), [regs. 1](https://www.legislation.gov.uk/ssi/2017/179/regulation/1), [8](https://www.legislation.gov.uk/ssi/2017/179/regulation/8)
+[^c-3ec6acb8895d2136387454aa1ba3c5c5]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/ssi/2016/68/regulation/15/2) substituted (1.7.2017) by [The Seed (Fees etc.) (Scotland) Regulations 2017 (S.S.I. 2017/179)](https://www.legislation.gov.uk/ssi/2017/179), [regs. 1](https://www.legislation.gov.uk/ssi/2017/179/regulation/1), [8](https://www.legislation.gov.uk/ssi/2017/179/regulation/8)
 
-[^key-180dc6a0b1cc06f76f8d72da2bb17027]: Textual amendment: Words in [reg. 15(6)](https://www.legislation.gov.uk/ssi/2016/68/regulation/15/6) inserted (6.2.2017) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/434)](https://www.legislation.gov.uk/ssi/2016/434), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/434/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/ssi/2016/434/regulation/8/3/b)
+[^c-180dc6a0b1cc06f76f8d72da2bb17027]: Textual amendment: Words in [reg. 15(6)](https://www.legislation.gov.uk/ssi/2016/68/regulation/15/6) inserted (6.2.2017) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/434)](https://www.legislation.gov.uk/ssi/2016/434), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/434/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/ssi/2016/434/regulation/8/3/b)
 
-[^key-4a898d719befa2a90e27b2b90f811075]: Textual amendment: Words in [reg. 15(7)](https://www.legislation.gov.uk/ssi/2016/68/regulation/15/7) inserted (6.2.2017) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/434)](https://www.legislation.gov.uk/ssi/2016/434), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/434/regulation/1/2), [8(3)(c)](https://www.legislation.gov.uk/ssi/2016/434/regulation/8/3/c)
+[^c-4a898d719befa2a90e27b2b90f811075]: Textual amendment: Words in [reg. 15(7)](https://www.legislation.gov.uk/ssi/2016/68/regulation/15/7) inserted (6.2.2017) by [The Seed (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/434)](https://www.legislation.gov.uk/ssi/2016/434), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2016/434/regulation/1/2), [8(3)(c)](https://www.legislation.gov.uk/ssi/2016/434/regulation/8/3/c)
 
-[^key-1b8939c7074394ebd26999257e964757]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/68/regulation/16) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-1b8939c7074394ebd26999257e964757]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/68/regulation/16) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-9d56de64f4b060351612f1bad51e2a8f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2016/68/regulation/17) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-9d56de64f4b060351612f1bad51e2a8f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2016/68/regulation/17) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-6a5622926f72b08e43c5947daa4a4239]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/68/regulation/18) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-6a5622926f72b08e43c5947daa4a4239]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/68/regulation/18) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-ec977a2cec01846c6a33cf499fafe0d0]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2016/68/regulation/19) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-ec977a2cec01846c6a33cf499fafe0d0]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2016/68/regulation/19) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-28c7f23196e54573f6f78aa4778ab011]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2016/68/regulation/20) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-28c7f23196e54573f6f78aa4778ab011]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2016/68/regulation/20) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
 [^f00018]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-8ca0946290af15e76ecb00ac793f7f30]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2016/68/regulation/21) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-8ca0946290af15e76ecb00ac793f7f30]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2016/68/regulation/21) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
 [^f00019]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7), as amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406 and Schedule 17, paragraph 158.
 
-[^key-d05f6f893e3a364462daf6fcdf0bdcb8]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2016/68/regulation/22) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-d05f6f893e3a364462daf6fcdf0bdcb8]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2016/68/regulation/22) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
 [^f00020]: Footnote: [S.S.I. 2015/395](https://www.legislation.gov.uk/ssi/2015/395).
 
-[^key-69b15d403eadd87d74f12f50776c5eba]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2016/68/regulation/23) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-69b15d403eadd87d74f12f50776c5eba]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2016/68/regulation/23) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-d27b1f563db33c80cbb20981ec6f4cc9]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/68/schedule/1) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-d27b1f563db33c80cbb20981ec6f4cc9]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2016/68/schedule/1) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
-[^key-1a320d33d6ea7b6f039fa8ff1084c3a4]: Commencement: Sch. 2 Pt. 1 in force at 1.7.2016, see reg. 1(1)
+[^c-1a320d33d6ea7b6f039fa8ff1084c3a4]: Commencement: Sch. 2 Pt. 1 in force at 1.7.2016, see reg. 1(1)
 
-[^key-697851c230034052051372a6911d0471]: Commencement: Sch. 2 Pt. 2 in force at 1.7.2016, see reg. 1(1)
+[^c-697851c230034052051372a6911d0471]: Commencement: Sch. 2 Pt. 2 in force at 1.7.2016, see reg. 1(1)
 
-[^key-2d3fb4e2b17bb720997d3edde9d804d5]: Commencement: Sch. 2 Pt. 3 in force at 1.7.2016, see reg. 1(1)
+[^c-2d3fb4e2b17bb720997d3edde9d804d5]: Commencement: Sch. 2 Pt. 3 in force at 1.7.2016, see reg. 1(1)
 
-[^key-a5ed840de11a35c067653360d868a444]: Commencement: Sch. 2 Pt. 4 in force at 1.7.2016, see reg. 1(1)
+[^c-a5ed840de11a35c067653360d868a444]: Commencement: Sch. 2 Pt. 4 in force at 1.7.2016, see reg. 1(1)
 
-[^key-260fdcb24d35d3f5b8441ce74f6baec3]: Commencement: Sch. 2 Pt. 5 in force at 1.7.2016, see reg. 1(1)
+[^c-260fdcb24d35d3f5b8441ce74f6baec3]: Commencement: Sch. 2 Pt. 5 in force at 1.7.2016, see reg. 1(1)
 
-[^key-0e78438175c1badfffb96df4e5608628]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/1) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-0e78438175c1badfffb96df4e5608628]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/1) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
 [^f00021]: Footnote: [S.S.I. 2004/317](https://www.legislation.gov.uk/ssi/2004/317), amended by [S.S.I. 2006/313](https://www.legislation.gov.uk/ssi/2006/313), [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224), [S.S.I. 2007/536](https://www.legislation.gov.uk/ssi/2007/536), [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223) and [S.S.I. 2010/219](https://www.legislation.gov.uk/ssi/2010/219).
 
 [^f00022]: Footnote: Schedule 4A was inserted by [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223) Schedule 2, paragraph 1.
 
-[^key-2f686e22c91d7f56ae80334746c48f61]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/2) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-2f686e22c91d7f56ae80334746c48f61]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/2) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
 [^f00023]: Footnote: [S.S.I. 2005/328](https://www.legislation.gov.uk/ssi/2005/328), amended by [S.S.I. 2006/313](https://www.legislation.gov.uk/ssi/2006/313), [S.S.I. 2006/448](https://www.legislation.gov.uk/ssi/2006/448), [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224), [S.S.I. 2007/536](https://www.legislation.gov.uk/ssi/2007/536), [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223) and [S.S.I. 2010/219](https://www.legislation.gov.uk/ssi/2010/219).
 
@@ -996,7 +996,7 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00025]: Footnote: That entry was inserted by [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224), regulation 11.
 
-[^key-74b4523bccc25a3f945ba18a28b13fba]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/3) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-74b4523bccc25a3f945ba18a28b13fba]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/3) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
 [^f00026]: Footnote: [S.S.I. 2005/329](https://www.legislation.gov.uk/ssi/2005/329), amended by [S.S.I. 2006/313](https://www.legislation.gov.uk/ssi/2006/313), [S.S.I. 2006/448](https://www.legislation.gov.uk/ssi/2006/448), [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224), [S.S.I. 2007/536](https://www.legislation.gov.uk/ssi/2007/536), [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223), [S.S.I. 2009/330](https://www.legislation.gov.uk/ssi/2009/330), [S.S.I. 2010/219](https://www.legislation.gov.uk/ssi/2010/219), [S.S.I. 2012/5](https://www.legislation.gov.uk/ssi/2012/5) and [S.S.I. 2013/326](https://www.legislation.gov.uk/ssi/2013/326).
 
@@ -1004,10 +1004,10 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00028]: Footnote: Paragraph 23A was inserted by [S.S.I. 2013/326](https://www.legislation.gov.uk/ssi/2013/326).
 
-[^key-36b34cd5fee7c3a8a43efb6c7bf14a10]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/4) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-36b34cd5fee7c3a8a43efb6c7bf14a10]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/4) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
 [^f00029]: Footnote: [S.S.I. 2010/148](https://www.legislation.gov.uk/ssi/2010/148), amended by [S.S.I. 2011/413](https://www.legislation.gov.uk/ssi/2011/413).
 
-[^key-f3aee45d7286373acfbd87893eca2f6f]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/5) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
+[^c-f3aee45d7286373acfbd87893eca2f6f]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2016/68/schedule/3/paragraph/5) in force at 1.7.2016, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1)
 
 [^f00030]: Footnote: [S.S.I. 2015/395](https://www.legislation.gov.uk/ssi/2015/395).

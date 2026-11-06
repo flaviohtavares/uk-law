@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 690C. Employees who were internationally mobile etc. before 2025-26[^key-5d8d13264000d41e9929f9ebc166fb73]
+## 690C. Employees who were internationally mobile etc. before 2025-26[^c-5d8d13264000d41e9929f9ebc166fb73]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) An employee falls within this subsection in relation to a tax year if the employee worked both inside and outside the UK in that tax year and—
 
 - (a) the employee was non-UK resident for that tax year or it appears likely to the employer that the employee was non-UK resident, or
-- (b) the tax year was a split[^key-4b4a447cf30fe3738d394cb52f6585b8] year as respects the employee or it appears likely to the employer that the tax year was such a year.
+- (b) the tax year was a split[^c-4b4a447cf30fe3738d394cb52f6585b8] year as respects the employee or it appears likely to the employer that the tax year was such a year.
 
 (3) An employee falls within this subsection in relation to a tax year if—
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5d8d13264000d41e9929f9ebc166fb73]: Textual amendment: Ss. 690-690C substituted for s. 690 (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/21/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/21/2) (with [s. 21(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/21/3))
+[^c-5d8d13264000d41e9929f9ebc166fb73]: Textual amendment: Ss. 690-690C substituted for s. 690 (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/21/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/21/2) (with [s. 21(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/21/3))
 
-[^key-4b4a447cf30fe3738d394cb52f6585b8]: Textual amendment: Word in [s. 690C(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/690C/2/b) substituted (for the tax year 2026-27 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 45(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/45/2), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/4/paragraph/10)
+[^c-4b4a447cf30fe3738d394cb52f6585b8]: Textual amendment: Word in [s. 690C(2)(b)](https://www.legislation.gov.uk/ukpga/2003/1/section/690C/2/b) substituted (for the tax year 2026-27 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 45(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/45/2), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/4/paragraph/10)

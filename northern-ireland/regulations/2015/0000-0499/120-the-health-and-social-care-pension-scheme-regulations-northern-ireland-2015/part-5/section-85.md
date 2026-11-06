@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Terms of employment improve after election[^key-a2a31952632467e7a78edf50c0d73bc7]
+## 85. Terms of employment improve after election[^c-a2a31952632467e7a78edf50c0d73bc7]
 
 *Extent: N.I.*
 
@@ -28,10 +28,10 @@ summary: ''
 
 (2) In paragraph (1) M is subject to a relevant increase if—
 
-- (a) where M is neither a practitioner nor a non-GP provider, M's pensionable earnings in the employment (or employments) is increased (disregarding any increase in pensionable earnings resulting from the member leaving a salary sacrifice arrangement)[^key-235684185fd5afe8d88546e5b69ee1be] to more than 90% of M's pensionable earnings during the period of 12 months ending with the election day;
+- (a) where M is neither a practitioner nor a non-GP provider, M's pensionable earnings in the employment (or employments) is increased (disregarding any increase in pensionable earnings resulting from the member leaving a salary sacrifice arrangement)[^c-235684185fd5afe8d88546e5b69ee1be] to more than 90% of M's pensionable earnings during the period of 12 months ending with the election day;
 - (b) where M is a practitioner or a non-GP provider, the level of M's engagement in the employment is increased to more than 90% of M's pre-change level.
 
-(3) The amount of M's pension mentioned in regulation 84(2) *(affected by repeal, see note)*[^key-d01f9ce9e34b7c4443a21f23ec2f3489] (a) and (b)[^key-3dc7033d43d8a32ad5bcc85e5e8854c5] *(affected by repeal, see note)*[^key-d01f9ce9e34b7c4443a21f23ec2f3489] is abated to zero from the first pension day following the day on which the relevant increment occurred. *(affected by repeal, see note)*[^key-d01f9ce9e34b7c4443a21f23ec2f3489]
+(3) The amount of M's pension mentioned in regulation 84(2) *(affected by repeal, see note)*[^c-d01f9ce9e34b7c4443a21f23ec2f3489] (a) and (b)[^c-3dc7033d43d8a32ad5bcc85e5e8854c5] *(affected by repeal, see note)*[^c-d01f9ce9e34b7c4443a21f23ec2f3489] is abated to zero from the first pension day following the day on which the relevant increment occurred. *(affected by repeal, see note)*[^c-d01f9ce9e34b7c4443a21f23ec2f3489]
 
 (4) If, during the period of 12 months beginning with the day following election day, M enters further employment in which M is an active member—
 
@@ -59,10 +59,10 @@ N is the number of days in the period on which M was an active member.
 
 ## Annotations
 
-[^key-a2a31952632467e7a78edf50c0d73bc7]: Modification: Reg. 85 modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [37(1)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/37/1/b)
+[^c-a2a31952632467e7a78edf50c0d73bc7]: Modification: Reg. 85 modified (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [37(1)(b)](https://www.legislation.gov.uk/nisr/2015/122/regulation/37/1/b)
 
-[^key-235684185fd5afe8d88546e5b69ee1be]: Textual amendment: Words in [reg. 85(2)(a)](https://www.legislation.gov.uk/nisr/2015/120/regulation/85/2/a) inserted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [23](https://www.legislation.gov.uk/nisr/2024/117/regulation/23)
+[^c-235684185fd5afe8d88546e5b69ee1be]: Textual amendment: Words in [reg. 85(2)(a)](https://www.legislation.gov.uk/nisr/2015/120/regulation/85/2/a) inserted (12.6.2024) by [The Health and Social Care Pension Schemes (Amendment No.2) Regulations (Northern Ireland) 2024 (S.R. 2024/117)](https://www.legislation.gov.uk/nisr/2024/117), [regs. 2](https://www.legislation.gov.uk/nisr/2024/117/regulation/2), [23](https://www.legislation.gov.uk/nisr/2024/117/regulation/23)
 
-[^key-d01f9ce9e34b7c4443a21f23ec2f3489]: Textual amendment: [Reg. 85(3)](https://www.legislation.gov.uk/nisr/2015/120/regulation/85/3) omitted (temp.) (1.11.2022) by virtue of [The Health and Social Care Pensions (Abatement) (No 2) Regulations (Northern Ireland) 2022 (S.R. 2022/245)](https://www.legislation.gov.uk/nisr/2022/245), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2), [8](https://www.legislation.gov.uk/nisr/2022/245/regulation/8)
+[^c-d01f9ce9e34b7c4443a21f23ec2f3489]: Textual amendment: [Reg. 85(3)](https://www.legislation.gov.uk/nisr/2015/120/regulation/85/3) omitted (temp.) (1.11.2022) by virtue of [The Health and Social Care Pensions (Abatement) (No 2) Regulations (Northern Ireland) 2022 (S.R. 2022/245)](https://www.legislation.gov.uk/nisr/2022/245), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/245/regulation/1/2), [8](https://www.legislation.gov.uk/nisr/2022/245/regulation/8)
 
-[^key-3dc7033d43d8a32ad5bcc85e5e8854c5]: Textual amendment: Words in [reg. 85(3)](https://www.legislation.gov.uk/nisr/2015/120/regulation/85/3) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [29](https://www.legislation.gov.uk/nisr/2024/50/regulation/29)
+[^c-3dc7033d43d8a32ad5bcc85e5e8854c5]: Textual amendment: Words in [reg. 85(3)](https://www.legislation.gov.uk/nisr/2015/120/regulation/85/3) inserted (1.4.2024) by [The Health and Social Care Pension Schemes (Partial Retirement etc.) Regulations (Northern Ireland) 2024 (S.R. 2024/50)](https://www.legislation.gov.uk/nisr/2024/50), [regs. 1](https://www.legislation.gov.uk/nisr/2024/50/regulation/1), [29](https://www.legislation.gov.uk/nisr/2024/50/regulation/29)

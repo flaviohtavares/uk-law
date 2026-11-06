@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Review of these Regulations[^key-c551538dbb473cba65a62ddd8f2b79d4]
+## 24. Review of these Regulations[^c-c551538dbb473cba65a62ddd8f2b79d4]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2)[^key-e71965ea06bfeca64b82f12a9d31ab00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e71965ea06bfeca64b82f12a9d31ab00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must, in particular—
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c551538dbb473cba65a62ddd8f2b79d4]: Textual amendment: Pt. 8 inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [6](https://www.legislation.gov.uk/uksi/2013/2919/regulation/6)
+[^c-c551538dbb473cba65a62ddd8f2b79d4]: Textual amendment: Pt. 8 inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [6](https://www.legislation.gov.uk/uksi/2013/2919/regulation/6)
 
-[^key-e71965ea06bfeca64b82f12a9d31ab00]: Textual amendment: Reg. 24(2) omitted (E.W.S.) (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 10 para. 5](https://www.legislation.gov.uk/uksi/2019/758/schedule/10/paragraph/5) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [3(1)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/3/1)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e71965ea06bfeca64b82f12a9d31ab00]: Textual amendment: Reg. 24(2) omitted (E.W.S.) (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 10 para. 5](https://www.legislation.gov.uk/uksi/2019/758/schedule/10/paragraph/5) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [3(1)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/3/1)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^V_NI_5c6537fc-2939-ffe9-0dbc-7fcccb17e0d7]: Textual amendment: Reg. 24 omitted (N.I.) (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1577)](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/c), [15(9)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/15/9)

@@ -34,7 +34,7 @@ This Statutory Instrument corrects errors made in [S.I. 2023/219](https://www.le
 
 ENVIRONMENTAL PROTECTION
 
-The Packaging Waste (Data Reporting) (England) (Amendment) Regulations 2024 (revoked)[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+The Packaging Waste (Data Reporting) (England) (Amendment) Regulations 2024 (revoked)[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 Made
 
@@ -44,88 +44,88 @@ Coming into force
 
 1st April 2024
 
-[^key-2d8fe09dd5adad9386656f4a78d8ef8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d8fe09dd5adad9386656f4a78d8ef8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 1. Citation, commencement, extent and application[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transitional provision[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 2. Transitional provision[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Packaging Waste (Data Reporting) (England) Regulations 2023[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 3. Amendment of the Packaging Waste (Data Reporting) (England) Regulations 2023[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Interpretation[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 4. Interpretation[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Drink[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 5. Drink[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Packaging and packaging categories[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 6. Packaging and packaging categories[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Household packaging[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 7. Household packaging[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Producers[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 8. Producers[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Supply[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 9. Supply[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Threshold criteria for large and small producers[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 10. Threshold criteria for large and small producers[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Exempt packaging[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 11. Exempt packaging[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Data collection obligations[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 12. Data collection obligations[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Data reporting obligations and recycling data[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 13. Data reporting obligations and recycling data[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Schemes: general provisions[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 14. Schemes: general provisions[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. List of producers[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 15. List of producers[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Monitoring[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 16. Monitoring[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Collection and reporting information[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 17. Collection and reporting information[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Licensors and pub operating businesses[^key-2d8fe09dd5adad9386656f4a78d8ef8c]
+## 18. Licensors and pub operating businesses[^c-2d8fe09dd5adad9386656f4a78d8ef8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d8fe09dd5adad9386656f4a78d8ef8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d8fe09dd5adad9386656f4a78d8ef8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2d8fe09dd5adad9386656f4a78d8ef8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d8fe09dd5adad9386656f4a78d8ef8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2d8fe09dd5adad9386656f4a78d8ef8c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/359) revoked (1.1.2025) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (S.I. 2024/1332)](https://www.legislation.gov.uk/uksi/2024/1332), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2), [Sch. 17 para. 1(g)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/17/paragraph/1/g) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/1332/schedule/15))
+[^c-2d8fe09dd5adad9386656f4a78d8ef8c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/359) revoked (1.1.2025) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (S.I. 2024/1332)](https://www.legislation.gov.uk/uksi/2024/1332), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2), [Sch. 17 para. 1(g)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/17/paragraph/1/g) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/1332/schedule/15))

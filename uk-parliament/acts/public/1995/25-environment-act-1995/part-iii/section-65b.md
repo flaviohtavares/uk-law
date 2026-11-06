@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65B. Boundaries of powers under section 65A[^key-593f7c48d78dce555ac2579171d08c62]
+## 65B. Boundaries of powers under section 65A[^c-593f7c48d78dce555ac2579171d08c62]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-593f7c48d78dce555ac2579171d08c62]: Textual amendment: [Ss. 65A-65D](https://www.legislation.gov.uk/ukpga/1995/25/section/65A) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 22](https://www.legislation.gov.uk/ukpga/2016/1/section/22), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-593f7c48d78dce555ac2579171d08c62]: Textual amendment: [Ss. 65A-65D](https://www.legislation.gov.uk/ukpga/1995/25/section/65A) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 22](https://www.legislation.gov.uk/ukpga/2016/1/section/22), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Relevant merger situations and special merger situations[^key-b149b527fc4f24dfbe05a931e9c36c99][^key-b06fae70269b6c76630ec655398bc2a5]
+## 127. Relevant merger situations and special merger situations[^c-b149b527fc4f24dfbe05a931e9c36c99][^c-b06fae70269b6c76630ec655398bc2a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 4 makes provision amending the thresholds in Part 3 of EA 2002 (mergers
 
 ## Annotations
 
-[^key-b149b527fc4f24dfbe05a931e9c36c99]: Commencement: S. 127 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-b149b527fc4f24dfbe05a931e9c36c99]: Commencement: S. 127 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-b06fae70269b6c76630ec655398bc2a5]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2024/13/section/127) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. paras. 5(1)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/1), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-b06fae70269b6c76630ec655398bc2a5]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2024/13/section/127) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. paras. 5(1)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/1), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

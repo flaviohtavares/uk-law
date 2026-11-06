@@ -29,12 +29,12 @@ summary: ''
 
 (3) The disregarded income is within this subsection so far as—
 
-- (a) sums representing income tax have been deducted from the income, or[^key-ac00e56756161b029e78764a99612906]
-- (b) sums representing income tax have been treated as deducted from or paid in respect of the income, [^key-b4bdcc5edd54347aebe05ea112378982]...
-- (c)[^key-b4bdcc5edd54347aebe05ea112378982] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) sums representing income tax have been deducted from the income, or[^c-ac00e56756161b029e78764a99612906]
+- (b) sums representing income tax have been treated as deducted from or paid in respect of the income, [^c-b4bdcc5edd54347aebe05ea112378982]...
+- (c)[^c-b4bdcc5edd54347aebe05ea112378982] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ac00e56756161b029e78764a99612906]: Textual amendment: Word in s. 502(3) inserted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 63(8)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/63/8/a)
+[^c-ac00e56756161b029e78764a99612906]: Textual amendment: Word in s. 502(3) inserted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 63(8)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/63/8/a)
 
-[^key-b4bdcc5edd54347aebe05ea112378982]: Textual amendment: S. 502(3)(c) and word omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 63(8)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/63/8/b)
+[^c-b4bdcc5edd54347aebe05ea112378982]: Textual amendment: S. 502(3)(c) and word omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 63(8)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/63/8/b)

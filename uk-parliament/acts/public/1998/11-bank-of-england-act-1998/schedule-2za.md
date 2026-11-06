@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2ZA — Bank of England levy[^key-ffbc0feb477d0a5b50fd62a41543a1d0]
+## SCHEDULE 2ZA — Bank of England levy[^c-ffbc0feb477d0a5b50fd62a41543a1d0]
 
 *Extent: E+W+S+N.I.*
 
 Section 6A
 
-### 1. “The levy”[^key-ffbc0feb477d0a5b50fd62a41543a1d0]
+### 1. “The levy”[^c-ffbc0feb477d0a5b50fd62a41543a1d0]
 
 (1) The Bank may impose a charge on eligible institutions in accordance with this Schedule.
 
 (2) The charge is to be known as the Bank of England levy (and is referred to in this Schedule as “**the levy**”).
 
-### 2. “Eligible institutions”[^key-ffbc0feb477d0a5b50fd62a41543a1d0]
+### 2. “Eligible institutions”[^c-ffbc0feb477d0a5b50fd62a41543a1d0]
 
 (1) For the purposes of this Schedule, an “eligible institution” is a person who, at any time during a levy year, is an authorised deposit-taker.
 
@@ -49,7 +49,7 @@ Section 6A
 - (a) amend the foregoing provisions of this paragraph;
 - (b) amend any other provision of this Schedule in consequence of provision made under paragraph (a).
 
-### 3. “Levy year”[^key-ffbc0feb477d0a5b50fd62a41543a1d0]
+### 3. “Levy year”[^c-ffbc0feb477d0a5b50fd62a41543a1d0]
 
 (1) For the purposes of this Schedule, a “levy year” is—
 
@@ -58,7 +58,7 @@ Section 6A
 
 (2) The day determined under sub-paragraph (1)(a) may not be before the day on which the Financial Services and Markets Act 2023 is passed.
 
-### 4. “Anticipated levy requirement”[^key-ffbc0feb477d0a5b50fd62a41543a1d0]
+### 4. “Anticipated levy requirement”[^c-ffbc0feb477d0a5b50fd62a41543a1d0]
 
 (1) The Bank must, in respect of a levy year—
 
@@ -84,7 +84,7 @@ Section 6A
 
 (6) The reference in sub-paragraph (3) to the exercise of a function includes anything done in preparation for, to facilitate, or otherwise in connection with, the exercise of the function.
 
-### 5. Liability to pay the levy[^key-ffbc0feb477d0a5b50fd62a41543a1d0]
+### 5. Liability to pay the levy[^c-ffbc0feb477d0a5b50fd62a41543a1d0]
 
 (1) The amount of the levy that an eligible institution is liable to pay in respect of a levy year is to be determined by the Bank in accordance with regulations made by the Treasury.
 
@@ -110,7 +110,7 @@ Section 6A
 
 (6) In this section, “**specified**” means specified in the regulations.
 
-### 6. Payment of the levy[^key-ffbc0feb477d0a5b50fd62a41543a1d0]
+### 6. Payment of the levy[^c-ffbc0feb477d0a5b50fd62a41543a1d0]
 
 (1) The Bank must notify each eligible institution that is liable to pay the levy in respect of a levy year of the following matters—
 
@@ -123,13 +123,13 @@ Section 6A
 
 (3) Notification may be given in such form or in such manner as the Bank considers appropriate (and may be given in a different form or manner to different eligible institutions or eligible institutions of a different description).
 
-### 7. Recovery of the levy[^key-ffbc0feb477d0a5b50fd62a41543a1d0]
+### 7. Recovery of the levy[^c-ffbc0feb477d0a5b50fd62a41543a1d0]
 
 The levy is recoverable as a civil debt due to the Bank.
 
 See also paragraph 8 (interest on unpaid amounts of the levy).
 
-### 8. Interest[^key-ffbc0feb477d0a5b50fd62a41543a1d0]
+### 8. Interest[^c-ffbc0feb477d0a5b50fd62a41543a1d0]
 
 (1) This paragraph applies where an eligible person has been notified—
 
@@ -147,7 +147,7 @@ See also paragraph 8 (interest on unpaid amounts of the levy).
 
 (5) The Treasury may by regulations amend this paragraph so as to change the rate of interest payable on an unpaid amount of the levy.
 
-### 9. Power to obtain information[^key-ffbc0feb477d0a5b50fd62a41543a1d0]
+### 9. Power to obtain information[^c-ffbc0feb477d0a5b50fd62a41543a1d0]
 
 (1) The Bank may, by written notice, require an eligible institution to provide information or documents in connection with the levy.
 
@@ -158,7 +158,7 @@ See also paragraph 8 (interest on unpaid amounts of the levy).
 - (c) the time at which, or period within which, the information must be provided;
 - (d) the period to which the information must relate.
 
-### 10. Regulations[^key-ffbc0feb477d0a5b50fd62a41543a1d0]
+### 10. Regulations[^c-ffbc0feb477d0a5b50fd62a41543a1d0]
 
 (1) Before making regulations under this Schedule the Treasury must consult—
 
@@ -180,4 +180,4 @@ See also paragraph 8 (interest on unpaid amounts of the levy).
 
 ## Annotations
 
-[^key-ffbc0feb477d0a5b50fd62a41543a1d0]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/ukpga/1998/11/schedule/2ZA) inserted (1.1.2024 for specified purposes, 1.3.2024 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 70(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/4), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/c); [S.I. 2024/250](https://www.legislation.gov.uk/uksi/2024/250), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/250/regulation/2/b)
+[^c-ffbc0feb477d0a5b50fd62a41543a1d0]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/ukpga/1998/11/schedule/2ZA) inserted (1.1.2024 for specified purposes, 1.3.2024 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 70(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/70/4), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/c); [S.I. 2024/250](https://www.legislation.gov.uk/uksi/2024/250), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/250/regulation/2/b)

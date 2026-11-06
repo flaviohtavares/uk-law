@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. The Scottish Housing Regulator[^key-82783cd6f8f786bdcbfcce7aa6a5564f]
+## 1. The Scottish Housing Regulator[^c-82783cd6f8f786bdcbfcce7aa6a5564f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ There is established a body corporate to be known as the Scottish Housing Regula
 
 ## Annotations
 
-[^key-82783cd6f8f786bdcbfcce7aa6a5564f]: Commencement: S. 1 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-82783cd6f8f786bdcbfcce7aa6a5564f]: Commencement: S. 1 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

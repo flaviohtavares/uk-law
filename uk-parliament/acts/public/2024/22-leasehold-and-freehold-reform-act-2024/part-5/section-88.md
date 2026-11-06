@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Codes of management practice: extension to estate managers[^key-98123e6c2000fef9a8f074bc15a960df]
+## 88. Codes of management practice: extension to estate managers[^c-98123e6c2000fef9a8f074bc15a960df]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In section 87 of the LRHUDA 1993 (codes of management practice)—
 
 ## Annotations
 
-[^key-98123e6c2000fef9a8f074bc15a960df]: Commencement: S. 88 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-98123e6c2000fef9a8f074bc15a960df]: Commencement: S. 88 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

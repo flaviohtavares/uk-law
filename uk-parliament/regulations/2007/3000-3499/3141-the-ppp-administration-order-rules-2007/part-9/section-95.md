@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Power of Secretary of State to regulate certain matters[^key-1b2076dcdcbb6e745c3698eec4fbe508]
+## 95. Power of Secretary of State to regulate certain matters[^c-1b2076dcdcbb6e745c3698eec4fbe508]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b2076dcdcbb6e745c3698eec4fbe508]: Commencement: [Rule 95](https://www.legislation.gov.uk/uksi/2007/3141/rule/95) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-1b2076dcdcbb6e745c3698eec4fbe508]: Commencement: [Rule 95](https://www.legislation.gov.uk/uksi/2007/3141/rule/95) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

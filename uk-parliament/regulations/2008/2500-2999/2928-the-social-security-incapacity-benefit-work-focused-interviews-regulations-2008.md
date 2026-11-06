@@ -64,21 +64,21 @@ These Regulations may be cited as the Social Security (Incapacity Benefit Work-f
 - “**the 2003 Regulations**” means the Social Security (Incapacity Benefit Work-focused Interviews) Regulations 2003 [^c1948038];
 - “**action plan**” has the meaning given by regulation 7;
 - “**benefit week**” means any period of seven days corresponding to the week in respect of which the relevant specified benefit is due to be paid;
-- “lone parent” has the meaning it bears in section 24(3A) of the Welfare Reform Act 2007;[^key-6dfea0723a018e328ed346518f9b3fc5]
-- “pensionable age”, in the case of a man born before 6th April 1955, means the age when a woman born on the same day as the man would attain pensionable age;[^key-337286a5e8835b7aa708cff1ccde7672]
+- “lone parent” has the meaning it bears in section 24(3A) of the Welfare Reform Act 2007;[^c-6dfea0723a018e328ed346518f9b3fc5]
+- “pensionable age”, in the case of a man born before 6th April 1955, means the age when a woman born on the same day as the man would attain pensionable age;[^c-337286a5e8835b7aa708cff1ccde7672]
 - “**relevant claimant**” has the meaning given by regulation 3;
 - “**relevant decision**” has the meaning given by section 2B(2) of the Social Security Administration Act 1992 (supplementary provisions relating to work-focused interviews);
 - “**specified benefit**” means—
   - (a) incapacity benefit;
   - (b) income support, if any of the following paragraphs of Schedule 1B (prescribed categories of person) to the Income Support (General) Regulations 1987 [^c1948039] applies—
-    - (i) paragraph 7 (persons treated as capable of work and persons entitled to statutory sick pay[^key-3bfbdd27ee99feef5ac1517d2d438d73]);
-    - (ii) paragraph 24 or 25 (persons appealing against a decision which embodies a determination that they are not incapable[^key-bbec2161650039d9aeef0602fe7a17c4] of work);
+    - (i) paragraph 7 (persons treated as capable of work and persons entitled to statutory sick pay[^c-3bfbdd27ee99feef5ac1517d2d438d73]);
+    - (ii) paragraph 24 or 25 (persons appealing against a decision which embodies a determination that they are not incapable[^c-bbec2161650039d9aeef0602fe7a17c4] of work);
   - (c) severe disablement allowance;
 - “**work-focused interview**” means an interview conducted under regulation 6 for the purposes described in regulation 4.
 
 (2) Any notification under these Regulations that is sent by post is to be taken to have been received on the second working day after posting.
 
-(3)[^key-e3b912f90de80f2fa9ffc0fabd818d44] For the purposes of section 2A(2A) of the Social Security Administration Act 1992, and regulation 3(6), a lone parent is to be treated as responsible for, and a member of the same household as, a child under the age of one only where the lone parent would be treated as responsible for and a member of the same household as such a child under regulations 15 and 16 of the Income Support (General) Regulations 1987 if references in those regulations to income support were to a specified benefit.
+(3)[^c-e3b912f90de80f2fa9ffc0fabd818d44] For the purposes of section 2A(2A) of the Social Security Administration Act 1992, and regulation 3(6), a lone parent is to be treated as responsible for, and a member of the same household as, a child under the age of one only where the lone parent would be treated as responsible for and a member of the same household as such a child under regulations 15 and 16 of the Income Support (General) Regulations 1987 if references in those regulations to income support were to a specified benefit.
 
 ## 3. Relevant claimant
 
@@ -86,7 +86,7 @@ These Regulations may be cited as the Social Security (Incapacity Benefit Work-f
 
 (2) The first condition is that the person is entitled to a specified benefit.
 
-(3)[^key-0aeafa60ffa463662365813e11e7bd23] The second condition is that at least one of the following sub-paragraphs applies to the person—
+(3)[^c-0aeafa60ffa463662365813e11e7bd23] The second condition is that at least one of the following sub-paragraphs applies to the person—
 
 - (a) immediately before 15th December 2008 the person was a “relevant person” within the meaning of—
   - (i) the 2000 Regulations or the 2001 Regulations, as saved by regulation 16(2) of the 2002 Regulations, or
@@ -98,11 +98,11 @@ These Regulations may be cited as the Social Security (Incapacity Benefit Work-f
 - (c) at any time before 26th October 2009, the person has been required to take part in an interview under the 2002 Regulations by virtue of having made a claim for, or being entitled to, a specified benefit;
 - (d) the person makes a claim for a specified benefit in respect of a period beginning after 26th October 2008 and that claim is of a description referred to in regulation 2(2) of the Employment and Support Allowance (Transitional Provisions) Regulations 2008.
 
-(4) The third condition is that the person has not attained pensionable age[^key-f04b7b1bb50be9e139114f648b39fb8f].
+(4) The third condition is that the person has not attained pensionable age[^c-f04b7b1bb50be9e139114f648b39fb8f].
 
 (5) The fourth condition is that, on the day on which the requirement to take part in a work-focused interview would have arisen, the person is not treated as incapable of work in accordance with regulation 10 of the Social Security (Incapacity for Work) (General) Regulations 1995 [^c1948040] (certain persons with a severe condition to be treated as incapable of work).
 
-(6)[^key-b2ed6847193153f3f9780923352c5e10] The fifth condition is that the person is not a lone parent who is responsible for, and a member of the same household as, a child under the age of one.
+(6)[^c-b2ed6847193153f3f9780923352c5e10] The fifth condition is that the person is not a lone parent who is responsible for, and a member of the same household as, a child under the age of one.
 
 ## 4. Purposes of a work-focused interview
 
@@ -190,16 +190,16 @@ A work-focused interview is an interview with a relevant claimant that is conduc
 - (j) that the established customs and practices of the religion to which the relevant claimant belongs prevented attendance on the day or at the time fixed for the work-focused interview;
 - (k) any other matter that the Secretary of State considers appropriate.
 
-(3) If the Secretary of State determines that a relevant claimant has failed to take part in a work-focused interview and the claimant has not shown good cause in accordance with regulation 8(1)[^key-ff5a6665a19fdc4d6683d82f4fe5cae4], the Secretary of State shall make a relevant decision for the purposes of section 2B of the Social Security Administration Act 1992.
+(3) If the Secretary of State determines that a relevant claimant has failed to take part in a work-focused interview and the claimant has not shown good cause in accordance with regulation 8(1)[^c-ff5a6665a19fdc4d6683d82f4fe5cae4], the Secretary of State shall make a relevant decision for the purposes of section 2B of the Social Security Administration Act 1992.
 
 ## 9. Consequences of failure to take part in a work-focused interview
 
 (1) A relevant claimant in respect of whom a relevant decision has been made in accordance with regulation 8(3) shall, in accordance with this regulation, have his or her benefit reduced—
 
-- (a) by an amount equivalent to[^key-ef78337b41eeb0caf593abb374501723] 50% of the “work-related activity component” in each of the first four benefit weeks to which, by virtue of section 10(5) of the 1998 Act or regulations made under section 10(6) of that Act, the reduction applies;
-- (b) by an amount equivalent to[^key-e2a9c328df885ab2af747546d506eb3d] 100% of that component for each subsequent benefit week.
+- (a) by an amount equivalent to[^c-ef78337b41eeb0caf593abb374501723] 50% of the “work-related activity component” in each of the first four benefit weeks to which, by virtue of section 10(5) of the 1998 Act or regulations made under section 10(6) of that Act, the reduction applies;
+- (b) by an amount equivalent to[^c-e2a9c328df885ab2af747546d506eb3d] 100% of that component for each subsequent benefit week.
 
-(2) If two or more specified benefits are in payment to a relevant claimant, a reduction made in accordance with paragraph (1) shall be applied, subject to paragraphs (3) to (5)[^key-56eba1325f5887f81f2b1f072a94f8a8], to the specified benefits in the following order of priority—
+(2) If two or more specified benefits are in payment to a relevant claimant, a reduction made in accordance with paragraph (1) shall be applied, subject to paragraphs (3) to (5)[^c-56eba1325f5887f81f2b1f072a94f8a8], to the specified benefits in the following order of priority—
 
 - (a) income support;
 - (b) incapacity benefit;
@@ -211,29 +211,29 @@ A work-focused interview is an interview with a relevant claimant that is conduc
 
 (5) In a case where the whole of the reduction cannot be applied against any one specified benefit because the amount of no one benefit is the same as, or greater than, the amount of the reduction, the reduction shall be applied against the first benefit in payment in the list of priorities in paragraph (2) and so on against each benefit in turn until the whole of the reduction is exhausted or, if this is not possible, the whole of the specified benefits are exhausted.
 
-(6)[^key-50451df8d131089b34bafef7f2a524cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-50451df8d131089b34bafef7f2a524cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Paragraph (1) applies to a relevant claimant each time a relevant decision is made in accordance with regulation 8(3) in respect of that person.
 
-(8)[^key-66820781bbdfc0ea4f48a97fe4468d0b] In the case of a relevant claimant whose benefit has been reduced in accordance with paragraph (1) and who subsequently takes part in a work-focused interview, the whole of the reduction shall cease to have effect on the first day of the benefit week in which the requirement to take part in a work-focused interview was met.
+(8)[^c-66820781bbdfc0ea4f48a97fe4468d0b] In the case of a relevant claimant whose benefit has been reduced in accordance with paragraph (1) and who subsequently takes part in a work-focused interview, the whole of the reduction shall cease to have effect on the first day of the benefit week in which the requirement to take part in a work-focused interview was met.
 
-(9)[^key-0d3937ed3cc1cb0a1b69b696de1a4e8c] In the case of a relevant claimant whose benefit has been reduced in accordance with paragraph (1) and who subsequently fails to meet the conditions specified in regulation 3(4) or (5), the whole of the reduction shall cease to have effect on the first day of the benefit week in which those conditions are no longer satisfied.
+(9)[^c-0d3937ed3cc1cb0a1b69b696de1a4e8c] In the case of a relevant claimant whose benefit has been reduced in accordance with paragraph (1) and who subsequently fails to meet the conditions specified in regulation 3(4) or (5), the whole of the reduction shall cease to have effect on the first day of the benefit week in which those conditions are no longer satisfied.
 
 (10) For the purposes of determining the amount of any benefit payable, a relevant claimant shall be treated as receiving the amount of any specified benefit which would have been payable but for a reduction made in accordance with paragraph (1).
 
-(11)[^key-5352656cf3b5a36d30a865490ba5845e] Despite regulation 8(3), the consequences specified in paragraph (1) do not apply to a person who—
+(11)[^c-5352656cf3b5a36d30a865490ba5845e] Despite regulation 8(3), the consequences specified in paragraph (1) do not apply to a person who—
 
 - (a) brings new facts to the notice of the Secretary of State within one month of the date on which the initial determination was notified to that person and—
   - (i) those facts could not reasonably have been brought to the Secretary of State's notice within five working days of the date on which the notification of the initial determination was received; and
   - (ii) those facts show that there is good cause for the person's failure to take part in the work-focused interview;
 - (b) is no longer required to take part in a work-focused interview as a condition of continuing to be entitled to the full amount of the specified benefit that is payable to that person apart from these Regulations; or
-- (c) attains pensionable age[^key-cd1b708d5d6132cfe910692515772727].
+- (c) attains pensionable age[^c-cd1b708d5d6132cfe910692515772727].
 
 (12) Despite anything to the contrary in this regulation, no benefit is to be reduced in any benefit week—
 
-- (a) to below ten[^key-a997079ca59971e95311883acfb5c64f] pence;
+- (a) to below ten[^c-a997079ca59971e95311883acfb5c64f] pence;
 - (b) in relation to more than one relevant decision relating to a particular work-focused interview;
-- (c) by an amount equivalent to[^key-162fab1e45f9934bb9a03546e7186b4e] more than 100% of the work-related activity component.
+- (c) by an amount equivalent to[^c-162fab1e45f9934bb9a03546e7186b4e] more than 100% of the work-related activity component.
 
 (13) For the purposes of this regulation, “work-related activity component” is the amount specified in Part 4 of Schedule 4 to the Employment and Support Allowance Regulations 2008 [^c1948041].
 
@@ -274,7 +274,7 @@ A work-focused interview is an interview with a relevant claimant that is conduc
 - (a) regulation 10(2) of the 2003 Regulations continues to have effect in respect of a person who immediately before these Regulations come into force is subject to the consequences specified in that provision; and
 - (b) any other provision of the 2003 Regulations continues to have effect insofar as is necessary to give full effect to sub-paragraph (a) above.
 
-(4A)[^key-f3e2ff13e7e897531224b4bf26579ae6] This paragraph applies to a relevant claimant who—
+(4A)[^c-f3e2ff13e7e897531224b4bf26579ae6] This paragraph applies to a relevant claimant who—
 
 - (a) at any time before 26th October 2009 has been required to take part in an interview under the 2002 Regulations by virtue of having made a claim for, or being entitled to, a specified benefit, and
 - (b) immediately before 26th October 2009 was subject to the consequences specified in regulation 12 (failure to take part in an interview) of the 2002 Regulations.
@@ -284,7 +284,7 @@ A work-focused interview is an interview with a relevant claimant that is conduc
 - (a) the person continues to be subject to the consequences specified in regulation 12 of the 2002 Regulations, and
 - (b) any other provision of the 2002 Regulations continues to have effect insofar as is necessary to give full effect to sub-paragraph (a).
 
-(5) For the purposes of regulation 9(8), (9) and (11) (ending of a sanction), a person referred to in paragraph (4)(a) or (4A)(a)[^key-bc591192cb18e825f49d0efbbda10ceb] above is deemed to be subject to the consequences under regulation 9(1) (a sanction imposed under these Regulations) and from the date on which the reduction ceases to have effect[^key-fde9a3997211e4c82811422f443939ed] regulation 10(2) of the 2003 Regulations or (as the case may be) regulation 12(2) of the 2002 Regulations[^key-6381347294c0102e7b365b70ff2b80aa] will cease to apply to that person.
+(5) For the purposes of regulation 9(8), (9) and (11) (ending of a sanction), a person referred to in paragraph (4)(a) or (4A)(a)[^c-bc591192cb18e825f49d0efbbda10ceb] above is deemed to be subject to the consequences under regulation 9(1) (a sanction imposed under these Regulations) and from the date on which the reduction ceases to have effect[^c-fde9a3997211e4c82811422f443939ed] regulation 10(2) of the 2003 Regulations or (as the case may be) regulation 12(2) of the 2002 Regulations[^c-6381347294c0102e7b365b70ff2b80aa] will cease to apply to that person.
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -296,7 +296,7 @@ Department for Work and Pensions
 
 10th November 2008
 
-## SCHEDULE[^key-00df80bcdcf96a62b9973bc8b881bf33]
+## SCHEDULE[^c-00df80bcdcf96a62b9973bc8b881bf33]
 
 Regulation 3(3)(b)
 
@@ -366,47 +366,47 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c1948038]: Marginal citation: [S.I. 2003/2439](https://www.legislation.gov.uk/uksi/2003/2439).
 
-[^key-6dfea0723a018e328ed346518f9b3fc5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/2/1) inserted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/6/2/a)
+[^c-6dfea0723a018e328ed346518f9b3fc5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/2/1) inserted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/6/2/a)
 
-[^key-337286a5e8835b7aa708cff1ccde7672]: Textual amendment: Words in reg. 2(1) inserted (6.4.2010) by [Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) Amendment Regulations 2010 (S.I. 2010/563)](https://www.legislation.gov.uk/uksi/2010/563), [regs. 1](https://www.legislation.gov.uk/uksi/2010/563/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2010/563/regulation/8/2)
+[^c-337286a5e8835b7aa708cff1ccde7672]: Textual amendment: Words in reg. 2(1) inserted (6.4.2010) by [Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) Amendment Regulations 2010 (S.I. 2010/563)](https://www.legislation.gov.uk/uksi/2010/563), [regs. 1](https://www.legislation.gov.uk/uksi/2010/563/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2010/563/regulation/8/2)
 
 [^c1948039]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). Schedule 1B was inserted by regulation 22 of [S.I. 1996/206](https://www.legislation.gov.uk/uksi/1996/206). Paragraph 24 of Schedule 1B was amended by [S.I. 1999/2422](https://www.legislation.gov.uk/uksi/1999/2422). Paragraph 25 of Schedule 1B was amended by [S.I. 1999/2422](https://www.legislation.gov.uk/uksi/1999/2422) and 3109 and [S.I. 2005/337](https://www.legislation.gov.uk/uksi/2005/337).
 
-[^key-3bfbdd27ee99feef5ac1517d2d438d73]: Textual amendment: Words in reg. 2(1) substituted (30.12.2009) by [The Income Support (Prescribed Categories of Person) Regulations 2009 (S.I. 2009/3152)](https://www.legislation.gov.uk/uksi/2009/3152), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3152/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2009/3152/regulation/3/6) (with [reg. 3(7)](https://www.legislation.gov.uk/uksi/2009/3152/regulation/3/7))
+[^c-3bfbdd27ee99feef5ac1517d2d438d73]: Textual amendment: Words in reg. 2(1) substituted (30.12.2009) by [The Income Support (Prescribed Categories of Person) Regulations 2009 (S.I. 2009/3152)](https://www.legislation.gov.uk/uksi/2009/3152), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3152/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2009/3152/regulation/3/6) (with [reg. 3(7)](https://www.legislation.gov.uk/uksi/2009/3152/regulation/3/7))
 
-[^key-bbec2161650039d9aeef0602fe7a17c4]: Textual amendment: Word in reg. 2(1)(b)(ii) substituted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/2)
+[^c-bbec2161650039d9aeef0602fe7a17c4]: Textual amendment: Word in reg. 2(1)(b)(ii) substituted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/2)
 
-[^key-e3b912f90de80f2fa9ffc0fabd818d44]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/2/3) inserted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/6/2/b)
+[^c-e3b912f90de80f2fa9ffc0fabd818d44]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/2/3) inserted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/6/2/b)
 
-[^key-0aeafa60ffa463662365813e11e7bd23]: Textual amendment: Reg. 3(3) substituted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/3)
+[^c-0aeafa60ffa463662365813e11e7bd23]: Textual amendment: Reg. 3(3) substituted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/3)
 
-[^key-f04b7b1bb50be9e139114f648b39fb8f]: Textual amendment: Words in reg. 3(4) substituted (6.4.2010) by [Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) Amendment Regulations 2010 (S.I. 2010/563)](https://www.legislation.gov.uk/uksi/2010/563), [regs. 1](https://www.legislation.gov.uk/uksi/2010/563/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2010/563/regulation/8/3)
+[^c-f04b7b1bb50be9e139114f648b39fb8f]: Textual amendment: Words in reg. 3(4) substituted (6.4.2010) by [Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) Amendment Regulations 2010 (S.I. 2010/563)](https://www.legislation.gov.uk/uksi/2010/563), [regs. 1](https://www.legislation.gov.uk/uksi/2010/563/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2010/563/regulation/8/3)
 
 [^c1948040]: Marginal citation: [S.I. 1995/311](https://www.legislation.gov.uk/uksi/1995/311). Regulation 10 was amended by [S.I. 1995/987](https://www.legislation.gov.uk/uksi/1995/987), [S.I](https://www.legislation.gov.uk/uksi/1995/987/section/I). 1996/3207, [S.I. 1997/1009](https://www.legislation.gov.uk/uksi/1997/1009) and [S.I. 1999/3109](https://www.legislation.gov.uk/uksi/1999/3109).
 
-[^key-b2ed6847193153f3f9780923352c5e10]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/3/6) inserted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/6/3)
+[^c-b2ed6847193153f3f9780923352c5e10]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/3/6) inserted (31.10.2011) by [The Social Security (Work-focused Interviews for Lone Parents and Partners) (Amendment) Regulations 2011 (S.I. 2011/2428)](https://www.legislation.gov.uk/uksi/2011/2428), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2428/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2011/2428/regulation/6/3)
 
-[^key-ff5a6665a19fdc4d6683d82f4fe5cae4]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/8/3) substituted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/4)
+[^c-ff5a6665a19fdc4d6683d82f4fe5cae4]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/8/3) substituted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/4)
 
-[^key-ef78337b41eeb0caf593abb374501723]: Textual amendment: Words in reg. 9(1)(a) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/12/a)
+[^c-ef78337b41eeb0caf593abb374501723]: Textual amendment: Words in reg. 9(1)(a) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/12/a)
 
-[^key-e2a9c328df885ab2af747546d506eb3d]: Textual amendment: Words in reg. 9(1)(b) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/12/b)
+[^c-e2a9c328df885ab2af747546d506eb3d]: Textual amendment: Words in reg. 9(1)(b) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/12/b)
 
-[^key-56eba1325f5887f81f2b1f072a94f8a8]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/9/2) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [25(a)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/25/a)
+[^c-56eba1325f5887f81f2b1f072a94f8a8]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/9/2) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [25(a)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/25/a)
 
-[^key-50451df8d131089b34bafef7f2a524cf]: Textual amendment: [Reg. 9(6)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/9/6) omitted (31.10.2011) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/25/b)
+[^c-50451df8d131089b34bafef7f2a524cf]: Textual amendment: [Reg. 9(6)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/9/6) omitted (31.10.2011) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/25/b)
 
-[^key-66820781bbdfc0ea4f48a97fe4468d0b]: Modification: Reg. 9(8) applied (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/3/5)
+[^c-66820781bbdfc0ea4f48a97fe4468d0b]: Modification: Reg. 9(8) applied (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/3/5)
 
-[^key-0d3937ed3cc1cb0a1b69b696de1a4e8c]: Modification: Reg. 9(9) applied (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/3/5)
+[^c-0d3937ed3cc1cb0a1b69b696de1a4e8c]: Modification: Reg. 9(9) applied (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/3/5)
 
-[^key-5352656cf3b5a36d30a865490ba5845e]: Modification: Reg. 9(11) applied (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/3/5)
+[^c-5352656cf3b5a36d30a865490ba5845e]: Modification: Reg. 9(11) applied (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/3/5)
 
-[^key-cd1b708d5d6132cfe910692515772727]: Textual amendment: Words in reg. 9(11)(c) substituted (6.4.2010) by [Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) Amendment Regulations 2010 (S.I. 2010/563)](https://www.legislation.gov.uk/uksi/2010/563), [regs. 1](https://www.legislation.gov.uk/uksi/2010/563/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2010/563/regulation/8/4)
+[^c-cd1b708d5d6132cfe910692515772727]: Textual amendment: Words in reg. 9(11)(c) substituted (6.4.2010) by [Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) Amendment Regulations 2010 (S.I. 2010/563)](https://www.legislation.gov.uk/uksi/2010/563), [regs. 1](https://www.legislation.gov.uk/uksi/2010/563/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2010/563/regulation/8/4)
 
-[^key-a997079ca59971e95311883acfb5c64f]: Textual amendment: Words in reg. 9(12)(a) substituted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/5)
+[^c-a997079ca59971e95311883acfb5c64f]: Textual amendment: Words in reg. 9(12)(a) substituted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/5)
 
-[^key-162fab1e45f9934bb9a03546e7186b4e]: Textual amendment: Words in reg. 9(12)(c) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/12/b)
+[^c-162fab1e45f9934bb9a03546e7186b4e]: Textual amendment: Words in reg. 9(12)(c) inserted (1.11.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2010 (S.I. 2010/2429)](https://www.legislation.gov.uk/uksi/2010/2429), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2010/2429/regulation/12/b)
 
 [^c1948041]: Marginal citation: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
@@ -420,12 +420,12 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^c1948046]: Marginal citation: [S.I. 2000/1926](https://www.legislation.gov.uk/uksi/2000/1926). Regulation 4(4) was inserted by [S.I. 2007/1034](https://www.legislation.gov.uk/uksi/2007/1034).
 
-[^key-f3e2ff13e7e897531224b4bf26579ae6]: Textual amendment: [Reg. 12(4A)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/12/4A) - [Reg. 12(4B)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/12/4B) inserted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/6/a)
+[^c-f3e2ff13e7e897531224b4bf26579ae6]: Textual amendment: [Reg. 12(4A)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/12/4A) - [Reg. 12(4B)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/12/4B) inserted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/6/a)
 
-[^key-bc591192cb18e825f49d0efbbda10ceb]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/12/5) inserted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/6/b/i)
+[^c-bc591192cb18e825f49d0efbbda10ceb]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/12/5) inserted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/6/b/i)
 
-[^key-fde9a3997211e4c82811422f443939ed]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/12/5) substituted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/6/b/ii)
+[^c-fde9a3997211e4c82811422f443939ed]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/12/5) substituted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/6/b/ii)
 
-[^key-6381347294c0102e7b365b70ff2b80aa]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/12/5) inserted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/6/b/iii)
+[^c-6381347294c0102e7b365b70ff2b80aa]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/2008/2928/regulation/12/5) inserted (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/6/b/iii)
 
-[^key-00df80bcdcf96a62b9973bc8b881bf33]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2008/2928/schedule) added (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/7)
+[^c-00df80bcdcf96a62b9973bc8b881bf33]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2008/2928/schedule) added (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/2/7)

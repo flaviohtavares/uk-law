@@ -48,7 +48,7 @@ This Order gives effect to those recommendations with modifications;
 
 Accordingly the Department of the Environment makes the following Order:
 
-## 1. Citation and commencement[^key-bafc494761de0a7a23e2171ba1cb3538][^key-e762cbadb7f204e0d42024b5a666a391]
+## 1. Citation and commencement[^c-bafc494761de0a7a23e2171ba1cb3538][^c-e762cbadb7f204e0d42024b5a666a391]
 
 (1) The Order may be cited as the Local Government (Boundaries) Order (Northern Ireland) 2012.
 
@@ -56,9 +56,9 @@ Accordingly the Department of the Environment makes the following Order:
 
 (3) For the purpose of all proceedings preliminary to or, relating to an election to be held on or after, that day, this Order shall come into operation on 1st December 2012.
 
-(4) This Order does not apply for the purposes of making and levying of rates, as provided in Part II of the Rates (Northern Ireland) Order 1977, in relation to a year beginning before[^key-2ccd15355715f5479457c4d18e826975] 1st April 2015.
+(4) This Order does not apply for the purposes of making and levying of rates, as provided in Part II of the Rates (Northern Ireland) Order 1977, in relation to a year beginning before[^c-2ccd15355715f5479457c4d18e826975] 1st April 2015.
 
-## 2. Local government districts, boundaries and wards[^key-63ce6ac657f30b65c611bca9720ecd8c][^key-f3b0a49921181674eb637bfa9bc7f175]
+## 2. Local government districts, boundaries and wards[^c-63ce6ac657f30b65c611bca9720ecd8c][^c-f3b0a49921181674eb637bfa9bc7f175]
 
 (1) The names of the 11 districts into which Northern Ireland shall be divided for the purposes of local government shall be as set out in Schedule 1.
 
@@ -72,11 +72,11 @@ Accordingly the Department of the Environment makes the following Order:
 
 (6) In this Article the expression “the maps” shall be construed in accordance with Article 3.
 
-## 3. Maps[^key-e3867d200ea96796f90b3dca1eb2aa20][^key-d18ad7d7ce974296663d4064f0ed3015]
+## 3. Maps[^c-e3867d200ea96796f90b3dca1eb2aa20][^c-d18ad7d7ce974296663d4064f0ed3015]
 
 The maps referred to in this Order are the volumes of maps, showing the local government districts of Northern Ireland and the wards into which those districts are divided, each of which volume has been marked— “MAPS REFERRED TO IN THE LOCAL GOVERNMENT (BOUNDARIES) ORDER (NORTHERN IRELAND) 2012” and signed and sealed with reference to this Order and deposited at the office of the Department of the Environment at Goodwood House, 44-58 May Street, Belfast, BT1 4NN.
 
-## 4. Revocation[^key-abed6af6d46ad27898cb64c15817ead8][^key-fd67cafa483abaadf1bcb52f3f222057]
+## 4. Revocation[^c-abed6af6d46ad27898cb64c15817ead8][^c-fd67cafa483abaadf1bcb52f3f222057]
 
 The Local Government (Boundaries) Order (Northern Ireland) 1992[^f00005] is revoked.
 
@@ -88,11 +88,11 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE 1 — Names of Local Government Districts[^key-1ac63a49bf4d52441873e39bd972b3ce][^key-f46bab59e86fd8a12ea27bd8149e9308]
+## SCHEDULE 1 — Names of Local Government Districts[^c-1ac63a49bf4d52441873e39bd972b3ce][^c-f46bab59e86fd8a12ea27bd8149e9308]
 
 Article 2(1)
 
-[^key-1ac63a49bf4d52441873e39bd972b3ce][^key-f46bab59e86fd8a12ea27bd8149e9308]Antrim and Newtownabbey
+[^c-1ac63a49bf4d52441873e39bd972b3ce][^c-f46bab59e86fd8a12ea27bd8149e9308]Antrim and Newtownabbey
 
 - Armagh, Banbridge and Craigavon
 - Belfast
@@ -105,7 +105,7 @@ Article 2(1)
 - Newry, Mourne and Down
 - North Down and Ards
 
-## SCHEDULE 2 — Names of Wards by District[^key-01209b9f2a6edc47589fe0ed7557e3fb][^key-32694f736769bdf0a89d807370d3ebfc]
+## SCHEDULE 2 — Names of Wards by District[^c-01209b9f2a6edc47589fe0ed7557e3fb][^c-32694f736769bdf0a89d807370d3ebfc]
 
 Article 2 (3)
 
@@ -188,32 +188,32 @@ This Order replaces the Local Government (Boundaries) Order (Northern Ireland) 1
 
 [^f00002]: Footnote: [2008 c. 7 (N.I.)](https://www.legislation.gov.uk/nia/2008/7).
 
-[^key-bafc494761de0a7a23e2171ba1cb3538]: Commencement: Art. 1 in operation at 1.12.2012 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2012/421/article/1/3)
+[^c-bafc494761de0a7a23e2171ba1cb3538]: Commencement: Art. 1 in operation at 1.12.2012 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2012/421/article/1/3)
 
-[^key-e762cbadb7f204e0d42024b5a666a391]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2012/421/article/1) in operation at 22.5.2014 in so far as not already in operation, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2012/421/article/1/2)
+[^c-e762cbadb7f204e0d42024b5a666a391]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2012/421/article/1) in operation at 22.5.2014 in so far as not already in operation, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2012/421/article/1/2)
 
 [^f00003]: Footnote: [1962 c. 14 (N.I.)](https://www.legislation.gov.uk/apni/1962/14).
 
-[^key-2ccd15355715f5479457c4d18e826975]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/nisr/2012/421/article/1/4) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 113](https://www.legislation.gov.uk/nia/2014/8/section/113), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-2ccd15355715f5479457c4d18e826975]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/nisr/2012/421/article/1/4) substituted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 113](https://www.legislation.gov.uk/nia/2014/8/section/113), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-63ce6ac657f30b65c611bca9720ecd8c]: Commencement: Art. 2 in operation at 1.12.2012 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2012/421/article/1/3)
+[^c-63ce6ac657f30b65c611bca9720ecd8c]: Commencement: Art. 2 in operation at 1.12.2012 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2012/421/article/1/3)
 
-[^key-f3b0a49921181674eb637bfa9bc7f175]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2012/421/article/2) in operation at 22.5.2014 in so far as not already in operation, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2012/421/article/1/2)
+[^c-f3b0a49921181674eb637bfa9bc7f175]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2012/421/article/2) in operation at 22.5.2014 in so far as not already in operation, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2012/421/article/1/2)
 
-[^key-e3867d200ea96796f90b3dca1eb2aa20]: Commencement: Art. 3 in operation at 1.12.2012 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2012/421/article/1/3)
+[^c-e3867d200ea96796f90b3dca1eb2aa20]: Commencement: Art. 3 in operation at 1.12.2012 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2012/421/article/1/3)
 
-[^key-d18ad7d7ce974296663d4064f0ed3015]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2012/421/article/3) in operation at 22.5.2014 in so far as not already in operation, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2012/421/article/1/2)
+[^c-d18ad7d7ce974296663d4064f0ed3015]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2012/421/article/3) in operation at 22.5.2014 in so far as not already in operation, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2012/421/article/1/2)
 
-[^key-abed6af6d46ad27898cb64c15817ead8]: Commencement: Art. 4 in operation at 1.12.2012 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2012/421/article/1/3)
+[^c-abed6af6d46ad27898cb64c15817ead8]: Commencement: Art. 4 in operation at 1.12.2012 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2012/421/article/1/3)
 
-[^key-fd67cafa483abaadf1bcb52f3f222057]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2012/421/article/4) in operation at 22.5.2014 in so far as not already in operation, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2012/421/article/1/2)
+[^c-fd67cafa483abaadf1bcb52f3f222057]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2012/421/article/4) in operation at 22.5.2014 in so far as not already in operation, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2012/421/article/1/2)
 
 [^f00005]: Footnote: [S.R. 1992 No. 303](https://www.legislation.gov.uk/nisr/1992/303)
 
-[^key-1ac63a49bf4d52441873e39bd972b3ce]: Commencement: Sch. 1 in operation at 1.12.2012 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2012/421/article/1/3)
+[^c-1ac63a49bf4d52441873e39bd972b3ce]: Commencement: Sch. 1 in operation at 1.12.2012 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2012/421/article/1/3)
 
-[^key-f46bab59e86fd8a12ea27bd8149e9308]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2012/421/schedule/1) in operation at 22.5.2014 in so far as not already in operation, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2012/421/article/1/2)
+[^c-f46bab59e86fd8a12ea27bd8149e9308]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2012/421/schedule/1) in operation at 22.5.2014 in so far as not already in operation, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2012/421/article/1/2)
 
-[^key-01209b9f2a6edc47589fe0ed7557e3fb]: Commencement: Sch. 2 in operation at 1.12.2012 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2012/421/article/1/3)
+[^c-01209b9f2a6edc47589fe0ed7557e3fb]: Commencement: Sch. 2 in operation at 1.12.2012 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2012/421/article/1/3)
 
-[^key-32694f736769bdf0a89d807370d3ebfc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2012/421/schedule/2) in operation at 22.5.2014 in so far as not already in operation, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2012/421/article/1/2)
+[^c-32694f736769bdf0a89d807370d3ebfc]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2012/421/schedule/2) in operation at 22.5.2014 in so far as not already in operation, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2012/421/article/1/2)

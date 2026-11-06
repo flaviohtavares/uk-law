@@ -22,7 +22,7 @@ summary: ''
 
 Where—
 
-- (a) the Authority[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a] is under a duty, or has power, to provide any beneﬁts or services for pupils; and
+- (a) the Authority[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a] is under a duty, or has power, to provide any beneﬁts or services for pupils; and
 - (b) the duty is to be performed, or the power may be exercised, both in relation to pupils at grant‐maintained integrated schools and in relation to pupils at other grant‐aided schools,
 
 the Authority shall in performing the duty, or exercising the power, treat pupils at grant‐maintained integrated schools no less favourably (whether as to the beneﬁts or services provided or as to the terms on which they are provided) than pupils at other grant‐aided schools.
@@ -31,4 +31,4 @@ the Authority shall in performing the duty, or exercising the power, treat pupil
 
 [^c17609941]: Textual amendment: prosp. rep. by [1998 NI 13](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

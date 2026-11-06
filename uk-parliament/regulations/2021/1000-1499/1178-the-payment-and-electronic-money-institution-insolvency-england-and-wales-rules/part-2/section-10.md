@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Service of application[^key-a6eb78c2d7d9f762ca2e9e7cfe5ad51d]
+## 10. Service of application[^c-a6eb78c2d7d9f762ca2e9e7cfe5ad51d]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6eb78c2d7d9f762ca2e9e7cfe5ad51d]: Commencement: Rule 10 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-a6eb78c2d7d9f762ca2e9e7cfe5ad51d]: Commencement: Rule 10 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

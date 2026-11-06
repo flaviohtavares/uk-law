@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Financial assistance for officers[^key-bbdf624335622e75a64c2de47e389e6c]
+## 9. Financial assistance for officers[^c-bbdf624335622e75a64c2de47e389e6c]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ in so far as, apart from this regulation, it would be expenditure for capital pu
 
 ## Annotations
 
-[^key-bbdf624335622e75a64c2de47e389e6c]: Commencement: Reg. 9 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-bbdf624335622e75a64c2de47e389e6c]: Commencement: Reg. 9 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

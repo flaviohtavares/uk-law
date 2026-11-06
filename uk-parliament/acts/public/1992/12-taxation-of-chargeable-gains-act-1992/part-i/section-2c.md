@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2C. Non-UK resident company with UK permanent establishment[^key-8f1b51e533ff9b07068f2c9150edcf5f]
+## 2C. Non-UK resident company with UK permanent establishment[^c-8f1b51e533ff9b07068f2c9150edcf5f]
 
 *Extent: E+W+S+N.I.*
 
 (1) For the purposes of section 2B(3) a company has a UK permanent establishment at any time if, at that time, the company carries on a trade in the United Kingdom through a permanent establishment there.
 
-(2)[^key-ccce0e0ee9c55bc93d360729f8c4b389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ccce0e0ee9c55bc93d360729f8c4b389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Section 2B(3) does not apply to a company which, as a result of Part 2 of TIOPA 2010 (double taxation arrangements), is exempt from corporation tax for the accounting period in respect of the profits of the permanent establishment.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)
+[^c-8f1b51e533ff9b07068f2c9150edcf5f]: Textual amendment: Pt. 1 substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/2)
 
-[^key-ccce0e0ee9c55bc93d360729f8c4b389]: Textual amendment: S. 2C(2) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 28(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/28/3), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-ccce0e0ee9c55bc93d360729f8c4b389]: Textual amendment: S. 2C(2) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 28(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/28/3), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

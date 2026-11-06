@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Admission and rejection of proofs for dividend[^key-6cc7628b15a3ec6db3db9d70a692e76c]
+## 64. Admission and rejection of proofs for dividend[^c-6cc7628b15a3ec6db3db9d70a692e76c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.088 of the 1991 Rules.
 
 ## Annotations
 
-[^key-6cc7628b15a3ec6db3db9d70a692e76c]: Commencement: Rule 64 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-6cc7628b15a3ec6db3db9d70a692e76c]: Commencement: Rule 64 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

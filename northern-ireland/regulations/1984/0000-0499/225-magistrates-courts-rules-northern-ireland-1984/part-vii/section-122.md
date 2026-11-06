@@ -28,15 +28,15 @@ summary: ''
 - (d) section 9 of the Summary Jurisdiction (Ireland) Act 1908[^f00169]; or
 - (e) section 24 of the Children and Young Persons Act (Northern Ireland) 1968;
 
-the justice shall remand him for appearance before a court of summary jurisdiction [^key-d2bba511b18fea834b978a4176da65f1]....
+the justice shall remand him for appearance before a court of summary jurisdiction [^c-d2bba511b18fea834b978a4176da65f1]....
 
 (2) Where a court of summary jurisdiction deals with an offender in respect of a suspended sentence imposed by a magistrates’ court otherwise than by making an order under section 19(1)(a) of the Treatment of Offenders Act (Northern Ireland) 1968 the court shall cause to be entered in the Order Book its reasons for its opinion that it would be unjust to make such order.
 
 (3) Where under section 19(1)(c) of the said Act of 1968 the court varies the original order of a magistrates’ court by substituting another period for the original operational period of a suspended sentence, the court shall explain to the offender in ordinary language the effect of the variation and his liability thereunder.
 
-(4)[^key-b67f16ce229d91fbd997da7bb27980d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b67f16ce229d91fbd997da7bb27980d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Where an offender is dealt with by any of the methods specified in paragraphs (a), (b), (c) and (d) of section 19(1) of the said Act of 1968, the clerk of petty sessions [^key-8801e77514b77187bf9acb92c411090b]... shall enter a note of the particulars of the method by which the offender has been dealt with opposite the entry in the Order Book made at the time the suspended sentence was passed.
+(5) Where an offender is dealt with by any of the methods specified in paragraphs (a), (b), (c) and (d) of section 19(1) of the said Act of 1968, the clerk of petty sessions [^c-8801e77514b77187bf9acb92c411090b]... shall enter a note of the particulars of the method by which the offender has been dealt with opposite the entry in the Order Book made at the time the suspended sentence was passed.
 
 ## Annotations
 
@@ -50,8 +50,8 @@ the justice shall remand him for appearance before a court of summary jurisdicti
 
 [^f00169]: Footnote: 8 Edw. 7 c. 24
 
-[^key-d2bba511b18fea834b978a4176da65f1]: Textual amendment: Words in [rule 122(1)](https://www.legislation.gov.uk/nisr/1984/225/rule/122/1) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(21)(a)](https://www.legislation.gov.uk/nisr/2016/304/article/3/21/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-d2bba511b18fea834b978a4176da65f1]: Textual amendment: Words in [rule 122(1)](https://www.legislation.gov.uk/nisr/1984/225/rule/122/1) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(21)(a)](https://www.legislation.gov.uk/nisr/2016/304/article/3/21/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-b67f16ce229d91fbd997da7bb27980d5]: Textual amendment: [Rule 122(4)](https://www.legislation.gov.uk/nisr/1984/225/rule/122/4) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(21)(b)](https://www.legislation.gov.uk/nisr/2016/304/article/3/21/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-b67f16ce229d91fbd997da7bb27980d5]: Textual amendment: [Rule 122(4)](https://www.legislation.gov.uk/nisr/1984/225/rule/122/4) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(21)(b)](https://www.legislation.gov.uk/nisr/2016/304/article/3/21/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-8801e77514b77187bf9acb92c411090b]: Textual amendment: Words in [rule 122(5)](https://www.legislation.gov.uk/nisr/1984/225/rule/122/5) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(21)(c)](https://www.legislation.gov.uk/nisr/2016/304/article/3/21/c); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-8801e77514b77187bf9acb92c411090b]: Textual amendment: Words in [rule 122(5)](https://www.legislation.gov.uk/nisr/1984/225/rule/122/5) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(21)(c)](https://www.legislation.gov.uk/nisr/2016/304/article/3/21/c); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

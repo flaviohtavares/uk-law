@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Separate accounts for dual capacity pension credit member[^key-28084137acb1dd5244a81831019a6d1c]
+## 42. Separate accounts for dual capacity pension credit member[^c-28084137acb1dd5244a81831019a6d1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28084137acb1dd5244a81831019a6d1c]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2014/2336/regulation/42) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-28084137acb1dd5244a81831019a6d1c]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2014/2336/regulation/42) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

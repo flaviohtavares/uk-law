@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 248. Notice of application under section 176A(5)[^key-f4efc2c2339f4fcedfd7676a64fc9cbb]
+## 248. Notice of application under section 176A(5)[^c-f4efc2c2339f4fcedfd7676a64fc9cbb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An application under section 176A(5) may be made without the application being s
 
 ## Annotations
 
-[^key-f4efc2c2339f4fcedfd7676a64fc9cbb]: Commencement: [Rule 248](https://www.legislation.gov.uk/uksi/2011/1301/rule/248) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-f4efc2c2339f4fcedfd7676a64fc9cbb]: Commencement: [Rule 248](https://www.legislation.gov.uk/uksi/2011/1301/rule/248) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

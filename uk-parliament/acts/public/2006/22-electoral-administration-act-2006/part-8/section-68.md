@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Funding of services and expenses of returning officers[^c18912611][^key-7a04b5f2d6dabb2212c771b541676072]
+## 68. Funding of services and expenses of returning officers[^c18912611][^c-7a04b5f2d6dabb2212c771b541676072]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c18912611]: Commencement: S. 68 wholly in force at 10.2.2010; s. 68 not in force at Royal Assent see s. 77; s. 68 in force for E.W. at 1.1.2007 by [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 15(b)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/15/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2)); s. 68 in force for N.I. at 1.7.2008 by [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2008/1316/article/2/2), [4(w)](https://www.legislation.gov.uk/uksi/2008/1316/article/4/w)
 
-[^key-7a04b5f2d6dabb2212c771b541676072]: Commencement: S. 68 in force at 10.2.2010 for S. by [S.I. 2010/275](https://www.legislation.gov.uk/uksi/2010/275), [art. 3](https://www.legislation.gov.uk/uksi/2010/275/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/275/article/4))
+[^c-7a04b5f2d6dabb2212c771b541676072]: Commencement: S. 68 in force at 10.2.2010 for S. by [S.I. 2010/275](https://www.legislation.gov.uk/uksi/2010/275), [art. 3](https://www.legislation.gov.uk/uksi/2010/275/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/275/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Protected rights[^key-ef9afb2779213a45fb3e779456acfb65]
+## 17. Protected rights[^c-ef9afb2779213a45fb3e779456acfb65]
 
 *Extent: E+W*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef9afb2779213a45fb3e779456acfb65]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2003/37/section/17) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/968/article/2/d) (with [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2005/968/schedule/1/paragraph/2))
+[^c-ef9afb2779213a45fb3e779456acfb65]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2003/37/section/17) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/968/article/2/d) (with [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2005/968/schedule/1/paragraph/2))

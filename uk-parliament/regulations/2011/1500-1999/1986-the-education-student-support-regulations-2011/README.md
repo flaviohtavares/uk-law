@@ -67,7 +67,7 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 - [Section 6 — Period of eligibility](part-2/section-6.md)
 - [Section 7 — Transfer of status](part-2/section-7.md)
 
-### Part 2A — DESIGNATION OF COURSES TAUGHT OR DELIVERED BY FRANCHISED PROVIDERS[^key-9290e5ec28838b5346be54dbe6f64ad7]
+### Part 2A — DESIGNATION OF COURSES TAUGHT OR DELIVERED BY FRANCHISED PROVIDERS[^c-9290e5ec28838b5346be54dbe6f64ad7]
 
 - [Section 7A — Interpretation of Part 2A](part-2a/section-7a.md)
 - [Section 7B — Meaning of “franchised provider”, “franchised student”, “student population”, “unregistered franchised provider”, “below-threshold franchised provider” and “qualifying franchised provider”](part-2a/section-7b.md)
@@ -87,14 +87,14 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 - [Section 10 — Information](part-3/section-10.md)
 - [Section 11 — Requirement to enter into a contract for a loan](part-3/section-11.md)
 
-### PART 4 — FEE LOANS[^key-813b6f9763f1fefaeea376d7f70de452]
+### PART 4 — FEE LOANS[^c-813b6f9763f1fefaeea376d7f70de452]
 
 #### CHAPTER 1 — GENERAL
 
 - [Section 12 — Previous course](part-4/section-12.md)
 - [Section 13 — Miscellaneous](part-4/section-13.md)
 
-#### CHAPTER 2 — Availability of fee loans[^key-df5d6b6fde668dd60bcfd988c7f5a29c]
+#### CHAPTER 2 — Availability of fee loans[^c-df5d6b6fde668dd60bcfd988c7f5a29c]
 
 - [Section 14 — Current system students](part-4/section-14.md)
 - [Section 15 — Old system students](part-4/section-15.md)
@@ -299,7 +299,7 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 - [Section 118 — Overpayments of college fee loan](part-9/section-118.md)
 - [Section 119 — Overpayments of support payable under Part 5 or Part 6](part-9/section-119.md)
 
-### PART 10 — SUPPORT FOR DESIGNATED DISTANCE LEARNING COURSES[^key-98b4be644f5f86af7c51e7a799d95016]
+### PART 10 — SUPPORT FOR DESIGNATED DISTANCE LEARNING COURSES[^c-98b4be644f5f86af7c51e7a799d95016]
 
 *Extent: E+W*
 
@@ -322,7 +322,7 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 - [Section 134 — Payment of grants for books, travel and other expenditure and disabled distance learning students' allowance](part-10/section-134.md)
 - [Section 135 — Overpayments](part-10/section-135.md)
 
-### PART 11 — Eligibility in connection with designated part-time courses and transfers of status etc.[^key-c91189b02688dc3ef3cf3c0bfead7b2c]
+### PART 11 — Eligibility in connection with designated part-time courses and transfers of status etc.[^c-c91189b02688dc3ef3cf3c0bfead7b2c]
 
 *Extent: E+W*
 
@@ -337,7 +337,7 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 - [Section 139D — Transfers from courses which are designated to courses which are not designated](part-11/section-139d.md)
 - [Section 140 — Period of eligibility](part-11/section-140.md)
 
-### PART 11A — Fee Loans and allowances for designated part-time courses[^key-9753772f84013983d28350ff3d1e0e57][^key-7406951723c88d70cd35a5b407cadf81]
+### PART 11A — Fee Loans and allowances for designated part-time courses[^c-9753772f84013983d28350ff3d1e0e57][^c-7406951723c88d70cd35a5b407cadf81]
 
 *Extent: E+W*
 
@@ -361,11 +361,11 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 - [Section 156 — Overpayments of disabled part-time students’ allowances](part-11a/section-156.md)
 - [Section 157 — Overpayments of fee loans](part-11a/section-157.md)
 
-### PART 11B — LOANS FOR LIVING COSTS IN CONNECTION WITH DESIGNATED PART-TIME COURSES[^key-38517a92bbf535ed07f05c172588bf2e]
+### PART 11B — LOANS FOR LIVING COSTS IN CONNECTION WITH DESIGNATED PART-TIME COURSES[^c-38517a92bbf535ed07f05c172588bf2e]
 
 *Extent: E+W*
 
-#### CHAPTER 1 — Qualifying and applying for the loan for living costs[^key-38517a92bbf535ed07f05c172588bf2e]
+#### CHAPTER 1 — Qualifying and applying for the loan for living costs[^c-38517a92bbf535ed07f05c172588bf2e]
 
 *Extent: E+W*
 
@@ -375,7 +375,7 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 - [Section 157D — Declarations provided by academic authorities](part-11b/section-157d.md)
 - [Section 157E — Information in connection with loans for living costs](part-11b/section-157e.md)
 
-#### CHAPTER 2 — Amount of loan for living costs[^key-38517a92bbf535ed07f05c172588bf2e]
+#### CHAPTER 2 — Amount of loan for living costs[^c-38517a92bbf535ed07f05c172588bf2e]
 
 - [Section 157F — Maximum amount of loans for living costs: general](part-11b/section-157f.md)
 - [Section 157FA — Application of category A in quarters ending on 30th June 2021 and 31st August 2021](part-11b/section-157fa.md)
@@ -384,14 +384,14 @@ The Secretary of State for Business, Innovation and Skills makes the following R
 - [Section 157I — Calculation of household income and residual income](part-11b/section-157i.md)
 - [Section 157J — Minimum level of loan for living costs for part-time courses](part-11b/section-157j.md)
 
-#### CHAPTER 3 — Miscellaneous[^key-38517a92bbf535ed07f05c172588bf2e]
+#### CHAPTER 3 — Miscellaneous[^c-38517a92bbf535ed07f05c172588bf2e]
 
 - [Section 157K — Quarters in respect of which the loan for living costs is payable to eligible part-time students](part-11b/section-157k.md)
 - [Section 157L — Part-time students falling into more than one category](part-11b/section-157l.md)
 - [Section 157M — Students who are treated as in attendance on a course](part-11b/section-157m.md)
 - [Section 157N — Applying for an additional amount of loan for living costs](part-11b/section-157n.md)
 
-#### CHAPTER 4 — Payments in connection with loans for living costs[^key-38517a92bbf535ed07f05c172588bf2e]
+#### CHAPTER 4 — Payments in connection with loans for living costs[^c-38517a92bbf535ed07f05c172588bf2e]
 
 - [Section 157O — Provision of United Kingdom national insurance number](part-11b/section-157o.md)
 - [Section 157P — Information requirements and agreements to repay loans for living costs](part-11b/section-157p.md)
@@ -461,18 +461,18 @@ Part 12 makes provision for support in respect of postgraduate students with dis
 
 [^c21071841]: Marginal citation: [1998 c.30](https://www.legislation.gov.uk/ukpga/1998/30); [section 22](https://www.legislation.gov.uk/uksi/2011/1986/section/22) was amended by the [Learning and Skills Act 2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21), [section 146](https://www.legislation.gov.uk/ukpga/2000/21/section/146) and Schedule 11, the [Income Tax (Earnings and Pensions) Act 2003 (c.1)](https://www.legislation.gov.uk/ukpga/2003/1), [Schedule 6](https://www.legislation.gov.uk/ukpga/2003/1/schedule/6), the [Finance Act 2003 (c.14)](https://www.legislation.gov.uk/ukpga/2003/14), [section 147](https://www.legislation.gov.uk/ukpga/2003/14/section/147) the [Higher Education Act 2004 (c.8)](https://www.legislation.gov.uk/ukpga/2004/8), [sections 42](https://www.legislation.gov.uk/ukpga/2004/8/section/42) and 43 and Schedule 7 and the [Apprentices, Skills, Children and Learning Act 2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22), [section 257(1)](https://www.legislation.gov.uk/ukpga/2009/22/section/257/1) and (2). See section 43(1) of the 1998 Act for the definition of “prescribed” and “regulations”.
 
-[^key-9290e5ec28838b5346be54dbe6f64ad7]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2011/1986/part/2A) inserted (19.5.2026) by [The Education (Student Support) (Amendment) Regulations 2026 (S.I. 2026/459)](https://www.legislation.gov.uk/uksi/2026/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/459/regulation/6)
+[^c-9290e5ec28838b5346be54dbe6f64ad7]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2011/1986/part/2A) inserted (19.5.2026) by [The Education (Student Support) (Amendment) Regulations 2026 (S.I. 2026/459)](https://www.legislation.gov.uk/uksi/2026/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/459/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/459/regulation/6)
 
-[^key-813b6f9763f1fefaeea376d7f70de452]: Textual amendment: Word in [Pt. 4](https://www.legislation.gov.uk/uksi/2011/1986/part/4) heading substituted (26.11.2020) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/5/a)
+[^c-813b6f9763f1fefaeea376d7f70de452]: Textual amendment: Word in [Pt. 4](https://www.legislation.gov.uk/uksi/2011/1986/part/4) heading substituted (26.11.2020) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/5/a)
 
-[^key-df5d6b6fde668dd60bcfd988c7f5a29c]: Textual amendment: [Pt. 4 Ch. 2](https://www.legislation.gov.uk/uksi/2011/1986/part/4/chapter/2) heading substituted (26.11.2020) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(5)(d)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/5/d)
+[^c-df5d6b6fde668dd60bcfd988c7f5a29c]: Textual amendment: [Pt. 4 Ch. 2](https://www.legislation.gov.uk/uksi/2011/1986/part/4/chapter/2) heading substituted (26.11.2020) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(5)(d)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/5/d)
 
-[^key-98b4be644f5f86af7c51e7a799d95016]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/2011/1986/part/10) omitted (with application in accordance with reg. 1(3)(5) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2018 (S.I. 2018/137)](https://www.legislation.gov.uk/uksi/2018/137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/137/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2018/137/regulation/6/5)
+[^c-98b4be644f5f86af7c51e7a799d95016]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/2011/1986/part/10) omitted (with application in accordance with reg. 1(3)(5) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2018 (S.I. 2018/137)](https://www.legislation.gov.uk/uksi/2018/137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/137/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2018/137/regulation/6/5)
 
-[^key-c91189b02688dc3ef3cf3c0bfead7b2c]: Textual amendment: Pt. 11 heading substituted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [8](https://www.legislation.gov.uk/uksi/2018/472/regulation/8)
+[^c-c91189b02688dc3ef3cf3c0bfead7b2c]: Textual amendment: Pt. 11 heading substituted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [8](https://www.legislation.gov.uk/uksi/2018/472/regulation/8)
 
-[^key-9753772f84013983d28350ff3d1e0e57]: Textual amendment: Pt. 11A heading and ss. 140A, 140B inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [16](https://www.legislation.gov.uk/uksi/2018/472/regulation/16)
+[^c-9753772f84013983d28350ff3d1e0e57]: Textual amendment: Pt. 11A heading and ss. 140A, 140B inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [16](https://www.legislation.gov.uk/uksi/2018/472/regulation/16)
 
-[^key-7406951723c88d70cd35a5b407cadf81]: Textual amendment: Word in Pt. 11A heading substituted (26.11.2020) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/4/4/a)
+[^c-7406951723c88d70cd35a5b407cadf81]: Textual amendment: Word in Pt. 11A heading substituted (26.11.2020) by [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/4/4/a)
 
-[^key-38517a92bbf535ed07f05c172588bf2e]: Textual amendment: Pt. 11B inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/472/schedule/1)
+[^c-38517a92bbf535ed07f05c172588bf2e]: Textual amendment: Pt. 11B inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/472/schedule/1)

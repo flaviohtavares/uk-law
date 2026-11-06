@@ -28,7 +28,7 @@ summary: ''
 - (b) to a part of a trunk road with respect to the vesting of which provision is made by section 266 below, or
 - (c) to a part of a special road with respect to the vesting of which provision is made by section 267 below.
 
-(3) Where a scheme submitted to the Minister jointly by two or more [^key-63052fb9e011a5cbe4e8443449591b2a]... highway authorities under section 16 above determines which of those authorities are to be the special road authority for the special road or any part of it (“the designated authority”) and the designated authority are not the highway authority for the road or that part of it, the road or that part of it vests in the designated authority.
+(3) Where a scheme submitted to the Minister jointly by two or more [^c-63052fb9e011a5cbe4e8443449591b2a]... highway authorities under section 16 above determines which of those authorities are to be the special road authority for the special road or any part of it (“the designated authority”) and the designated authority are not the highway authority for the road or that part of it, the road or that part of it vests in the designated authority.
 
 (4) Where—
 
@@ -43,6 +43,6 @@ the part of the highway in question does not by virtue of subsection (1) above v
 
 [^c13430821]: Modification: S. 263: certain rights and liabilities transferred by [S.I. 1986/148](https://www.legislation.gov.uk/uksi/1986/148), [art. 9(1)(2)](https://www.legislation.gov.uk/uksi/1986/148/article/9/1/2)
 
-[^key-63052fb9e011a5cbe4e8443449591b2a]: Textual amendment: Word in [s. 263(3)](https://www.legislation.gov.uk/ukpga/1980/66/section/263/3) omitted (5.3.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 51](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/51); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-63052fb9e011a5cbe4e8443449591b2a]: Textual amendment: Word in [s. 263(3)](https://www.legislation.gov.uk/ukpga/1980/66/section/263/3) omitted (5.3.2015) by virtue of [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 51](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/51); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13430831]: Textual amendment: Word inserted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 8](https://www.legislation.gov.uk/ukpga/1985/51/section/8), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/1985/51/schedule/4/paragraph/37)

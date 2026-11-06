@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Closure of existing injury and compensation schemes[^key-01f6cfb56c8c2ea46f2c16c59e00316e]
+## 19. Closure of existing injury and compensation schemes[^c-01f6cfb56c8c2ea46f2c16c59e00316e]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01f6cfb56c8c2ea46f2c16c59e00316e]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2014/2/section/19) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(j)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/j)
+[^c-01f6cfb56c8c2ea46f2c16c59e00316e]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2014/2/section/19) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(j)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/j)

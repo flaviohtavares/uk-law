@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Endorsement of counterparts issued to Northern Ireland licence holders[^key-2c5cdab4b89e62730e0b95acfb3bdd15]
+## 77. Endorsement of counterparts issued to Northern Ireland licence holders[^c-2c5cdab4b89e62730e0b95acfb3bdd15]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,4 +109,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c5cdab4b89e62730e0b95acfb3bdd15]: Commencement: S. 77 in force at 11.10.2004 by [S.I. 2004/2624](https://www.legislation.gov.uk/uksi/2004/2624), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/2/a)
+[^c-2c5cdab4b89e62730e0b95acfb3bdd15]: Commencement: S. 77 in force at 11.10.2004 by [S.I. 2004/2624](https://www.legislation.gov.uk/uksi/2004/2624), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2004/2624/article/2/2/a)

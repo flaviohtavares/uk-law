@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Section 14 (which requires a local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] to secure that sufficient schools for providing primary and secondary education are available for their area) shall not be construed as imposing any obligation on the proprietor of a school to admit children as pupils otherwise than at the beginning of a school term.
+(1) Section 14 (which requires a local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] to secure that sufficient schools for providing primary and secondary education are available for their area) shall not be construed as imposing any obligation on the proprietor of a school to admit children as pupils otherwise than at the beginning of a school term.
 
 (2) Where, however, a child was prevented from entering a school at the beginning of a term—
 
@@ -37,6 +37,6 @@ the school’s proprietor is not entitled by virtue of subsection (1) to refuse 
 
 ## Annotations
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
 [^c15250161]: Textual amendment: S. 433(4) repealed (1.10.1998) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1), [Sch. 30 para. 110](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/110), [Sch.31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/2212/article/2/1), [Sch.1 Pt. I](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/I).

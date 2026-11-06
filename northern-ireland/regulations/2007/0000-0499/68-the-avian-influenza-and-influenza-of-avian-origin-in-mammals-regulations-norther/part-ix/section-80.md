@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Powers of inspectors in case of default[^key-2e1355769d881407f6e11a441e059cb0]
+## 80. Powers of inspectors in case of default[^c-2e1355769d881407f6e11a441e059cb0]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e1355769d881407f6e11a441e059cb0]: Commencement: Reg. 80 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-2e1355769d881407f6e11a441e059cb0]: Commencement: Reg. 80 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

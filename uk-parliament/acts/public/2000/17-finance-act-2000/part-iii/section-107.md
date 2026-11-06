@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. General insurance reserves.[^key-eaf801adb7e150177dab61e4344349eb]
+## 107. General insurance reserves.[^c-eaf801adb7e150177dab61e4344349eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eaf801adb7e150177dab61e4344349eb]: Textual amendment: S. 107 repealed (19.7.2007 with effect in accordance with Sch. 11 para. 5(2)-(7) to the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2007/11/schedule/11/paragraph/4), [Sch. 27 Pt. 2(11)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/11)
+[^c-eaf801adb7e150177dab61e4344349eb]: Textual amendment: S. 107 repealed (19.7.2007 with effect in accordance with Sch. 11 para. 5(2)-(7) to the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2007/11/schedule/11/paragraph/4), [Sch. 27 Pt. 2(11)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/11)

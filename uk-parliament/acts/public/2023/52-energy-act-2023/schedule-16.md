@@ -24,9 +24,9 @@ Section 204
 
 ### Part 1 — Further duties of Competition and Markets Authority to make references
 
-**1.**[^key-a1374c17bc6d69287e97f2217364656e] Part 3 of the Enterprise Act 2002 (mergers) is amended as follows.
+**1.**[^c-a1374c17bc6d69287e97f2217364656e] Part 3 of the Enterprise Act 2002 (mergers) is amended as follows.
 
-**2.**[^key-f13dc835c98254642f2cacee126f868b] After section 68 insert—
+**2.**[^c-f13dc835c98254642f2cacee126f868b] After section 68 insert—
 
 > **Mergers of energy network enterprises in Great Britain**
 >
@@ -157,7 +157,7 @@ Section 204
 >
 > (2) In Chapters 2 to 5 of this Part, references to a provision of Chapter 1 include that provision as applied by subsection (1) and Schedule 5A.
 
-**3.**[^key-794bcf6e627476d2d4f2cfde139ee386] After Schedule 5 insert—
+**3.**[^c-794bcf6e627476d2d4f2cfde139ee386] After Schedule 5 insert—
 
 > **Schedule 5A — Energy network mergers affecting comparative regulation: modification of Chapter 1 of Part 3**
 >
@@ -247,13 +247,13 @@ Section 204
 
 ### Part 2 — Consequential amendments of Part 3 of Enterprise Act 2002
 
-**4.**[^key-d4429d92371c049dfd57aeee265b9281] Part 3 of the Enterprise Act 2002 is amended as follows.
+**4.**[^c-d4429d92371c049dfd57aeee265b9281] Part 3 of the Enterprise Act 2002 is amended as follows.
 
-**5.**[^key-91df26f935b8009ee7c058e489655ae0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-91df26f935b8009ee7c058e489655ae0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c1ccfe87116674853c42b540508355fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c1ccfe87116674853c42b540508355fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-2fabebd951a255dd6d077546aa6d5ed2] (1) Section 42 (intervention by Secretary of State in certain public interest cases) is amended as follows.
+**7.**[^c-2fabebd951a255dd6d077546aa6d5ed2] (1) Section 42 (intervention by Secretary of State in certain public interest cases) is amended as follows.
 
 (2) In subsection (1)(b), for “section 22 or 33” substitute “section 22, 33, 68B or 68C”.
 
@@ -264,19 +264,19 @@ Section 204
 - (a) for “section 22 or 33” substitute “section 22, 33, 68B or 68C”;
 - (b) in sub-paragraph (1), after the second “or (a)” insert “(including those provisions as applied by sections 68B and 68C)”.
 
-**8.**[^key-031f27302377092a7ed91b3397823306] In section 56(2) (competition cases where intervention on public interest grounds ceases), for “**or 33**” (in both places it occurs) substitute “, 33, 68B or 68C”.
+**8.**[^c-031f27302377092a7ed91b3397823306] In section 56(2) (competition cases where intervention on public interest grounds ceases), for “**or 33**” (in both places it occurs) substitute “, 33, 68B or 68C”.
 
-**9.**[^key-7800053109c972e0517aac66fbea2107] In section 57(1) (duties of CMA and OFCOM to inform Secretary of State), for “section 22 or 33” substitute “section 22, 33, 68B or 68C”.
+**9.**[^c-7800053109c972e0517aac66fbea2107] In section 57(1) (duties of CMA and OFCOM to inform Secretary of State), for “section 22 or 33” substitute “section 22, 33, 68B or 68C”.
 
-**10.**[^key-fa3dac01ab0fcec4cffa83f2cde3d0f7] In the italic heading at the beginning of Chapter 4, for “section 22 or 33” substitute “section 22, 33, 68B or 68C”.
+**10.**[^c-fa3dac01ab0fcec4cffa83f2cde3d0f7] In the italic heading at the beginning of Chapter 4, for “section 22 or 33” substitute “section 22, 33, 68B or 68C”.
 
-**11.**[^key-e3f06a7641bc185ff5166959ad551728] (1) Section 72 (initial enforcement orders: completed or anticipated mergers) is amended as follows.
+**11.**[^c-e3f06a7641bc185ff5166959ad551728] (1) Section 72 (initial enforcement orders: completed or anticipated mergers) is amended as follows.
 
 (2) In subsection (1)(a), for “section 22 or 33” substitute “section 22, 33, 68B or 68C”.
 
 (3) In subsection (6)(a) and (d), for “section 22 or 33” substitute “section 22, 33, 68B or 68C”.
 
-**12.**[^key-10b089dd07a8f3c1a603137d813f19b7] (1) Section 73 (undertakings in lieu of references) is amended as follows.
+**12.**[^c-10b089dd07a8f3c1a603137d813f19b7] (1) Section 73 (undertakings in lieu of references) is amended as follows.
 
 (2) In the heading, for “22 or 33” substitute “22, 33, 68B or 68C”.
 
@@ -298,49 +298,49 @@ Section 204
 
 (4) In subsection (4), after “subsection (2)” insert “or (3B)”.
 
-**13.**[^key-43f9feef568d65103eb12c61d83c6146] (1) Section 73A (time-limits for consideration of undertakings) is amended as follows.
+**13.**[^c-43f9feef568d65103eb12c61d83c6146] (1) Section 73A (time-limits for consideration of undertakings) is amended as follows.
 
 (2) In subsection (1), after “73(2)” insert “or (3B)”.
 
 (3) In subsection (2), for “those purposes” substitute “the purposes of section 73(2) or (3B)”.
 
-**14.**[^key-574d9801fec927f8c086ede5b3d2ac2b] (1) Section 74 (effect of undertakings under section 73) is amended as follows.
+**14.**[^c-574d9801fec927f8c086ede5b3d2ac2b] (1) Section 74 (effect of undertakings under section 73) is amended as follows.
 
-(2)[^key-68b11d8b4354239590110b41982166c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-68b11d8b4354239590110b41982166c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (5)(a), for “or 33” substitute “, 33, 68B or 68C”.
 
-**15.**[^key-6dafb1068075bd230fda1d1ab667b5a4] In section 77(1)(a) (restrictions on certain dealings: completed mergers), after “22” insert “or 68B”.
+**15.**[^c-6dafb1068075bd230fda1d1ab667b5a4] In section 77(1)(a) (restrictions on certain dealings: completed mergers), after “22” insert “or 68B”.
 
-**16.**[^key-896c28f1a2d754b9dcca10d82ee53940] In section 78(1)(a) (restrictions on certain share dealings: anticipated mergers), after “33” insert “or 68C”.
+**16.**[^c-896c28f1a2d754b9dcca10d82ee53940] In section 78(1)(a) (restrictions on certain share dealings: anticipated mergers), after “33” insert “or 68C”.
 
-**17.**[^key-ccf0dc5a1716e39027b743c1062932c2] In section 79(1) and (2) (sections 77 and 78: further interpretation provisions), for “or 33” substitute “, 33, 68B or 68C”.
+**17.**[^c-ccf0dc5a1716e39027b743c1062932c2] In section 79(1) and (2) (sections 77 and 78: further interpretation provisions), for “or 33” substitute “, 33, 68B or 68C”.
 
-**18.**[^key-c625f81851925e49357e1f6ceee22e1a] In section 80(1), (7) and (8) (interim undertakings), for “or 33” substitute “, 33, 68B or 68C”.
+**18.**[^c-c625f81851925e49357e1f6ceee22e1a] In section 80(1), (7) and (8) (interim undertakings), for “or 33” substitute “, 33, 68B or 68C”.
 
-**19.**[^key-785416adeb760af2774af6f2dec5a1ba] In section 81(1), (7) and (8) (interim orders), for “or 33” substitute “, 33, 68B or 68C”.
+**19.**[^c-785416adeb760af2774af6f2dec5a1ba] In section 81(1), (7) and (8) (interim orders), for “or 33” substitute “, 33, 68B or 68C”.
 
-**20.**[^key-fdffd419d1412ab326385da476483d0b] In section 82(3) and (4) (final undertakings), for “or 33” substitute “, 33, 68B or 68C”.
+**20.**[^c-fdffd419d1412ab326385da476483d0b] In section 82(3) and (4) (final undertakings), for “or 33” substitute “, 33, 68B or 68C”.
 
-**21.**[^key-08ebf38d44fd083a25e49f1a6df141c7] In section 84(5) (final orders), for “or 33” substitute “, 33, 68B or 68C”.
+**21.**[^c-08ebf38d44fd083a25e49f1a6df141c7] In section 84(5) (final orders), for “or 33” substitute “, 33, 68B or 68C”.
 
-**22.**[^key-ab940c45291b34a268b5506ee676fad5] (1) Section 100 (exceptions to protection given by merger notices) is amended as follows.
+**22.**[^c-ab940c45291b34a268b5506ee676fad5] (1) Section 100 (exceptions to protection given by merger notices) is amended as follows.
 
 (2) In subsection (1), for “or (as the case may be) 33” substitute “, 33, 68B or 68C”.
 
 (3) In subsection (2)(a), for “or 33” substitute “, 33, 68B or 68C”.
 
-**23.**[^key-dece9899f7ce4b175b3aa548cc56c805] In section 104(6) (certain duties of relevant authorities to consult), in the definition of “relevant decision”, in paragraph (a)(i), for “or 33” substitute “, 33, 68B or 68C”.
+**23.**[^c-dece9899f7ce4b175b3aa548cc56c805] In section 104(6) (certain duties of relevant authorities to consult), in the definition of “relevant decision”, in paragraph (a)(i), for “or 33” substitute “, 33, 68B or 68C”.
 
-**24.**[^key-171ead68a0c4f204da2df295ae176d95] In section 105(1) (general information duties of CMA), for “or 33” substitute “, 33, 68B or 68C”.
+**24.**[^c-171ead68a0c4f204da2df295ae176d95] In section 105(1) (general information duties of CMA), for “or 33” substitute “, 33, 68B or 68C”.
 
-**25.**[^key-1284bd5fdaae39889d8b527c388cc9bc] (1) Section 106 (advice and information about references) is amended as follows.
+**25.**[^c-1284bd5fdaae39889d8b527c388cc9bc] (1) Section 106 (advice and information about references) is amended as follows.
 
 (2) In the heading, for “sections 22 and 33” substitute “section 22, 33, 68B or 68C”.
 
 (3) In subsection (1)(a), for “or 33” substitute “, 33, 68B or 68C”.
 
-**26.**[^key-4595868616a2aca1cbf1918a94ca0310] (1) Section 107 (further publicity requirements) is amended as follows.
+**26.**[^c-4595868616a2aca1cbf1918a94ca0310] (1) Section 107 (further publicity requirements) is amended as follows.
 
 (2) In subsection (1)(a), for “or 33” substitute “, 33, 68B or 68C”.
 
@@ -352,19 +352,19 @@ Section 204
 
 (6) In subsection (2)(b), for the words from “a reference” to the end substitute “a reference under section 22 or 68B as if it had been made under section 33 or 68C or to treat a reference under section 33 or 68C as if it had been made under section 22 or 68B”.
 
-**27.**[^key-40462819d7b97c7e42c40c288bfd4aea] In section 109(A1)(a) (attendance of witnesses and production of documents etc), for “or 33” substitute “, 33, 68B or 68C”.
+**27.**[^c-40462819d7b97c7e42c40c288bfd4aea] In section 109(A1)(a) (attendance of witnesses and production of documents etc), for “or 33” substitute “, 33, 68B or 68C”.
 
-**28.**[^key-8db2d8c9902d23257eb0ffb358ac5dd2] In section 110A(5) and (6) (restriction on powers to impose penalties under section 110), for “or 33” substitute “, 33, 68B or 68C”.
+**28.**[^c-8db2d8c9902d23257eb0ffb358ac5dd2] In section 110A(5) and (6) (restriction on powers to impose penalties under section 110), for “or 33” substitute “, 33, 68B or 68C”.
 
-**29.**[^key-cace6722862b2885cda0d3047ce9242f] In section 110B(1) and (2) (restriction on powers to impose penalties under section 110), for “or 33” substitute “, 33, 68B or 68C”.
+**29.**[^c-cace6722862b2885cda0d3047ce9242f] In section 110B(1) and (2) (restriction on powers to impose penalties under section 110), for “or 33” substitute “, 33, 68B or 68C”.
 
-**30.**[^key-838204e1f4a6ecfa0a42291aeca5a293] In section 121(3)(a) (fees), for “or 33” substitute “, 33, 68B or 68C”.
+**30.**[^c-838204e1f4a6ecfa0a42291aeca5a293] In section 121(3)(a) (fees), for “or 33” substitute “, 33, 68B or 68C”.
 
-**31.**[^key-b33aff9cf013215588b07b0652903aad] In section 124(5) (orders and regulations), at the beginning insert “Regulations made by the Secretary of State under section 68A or”.
+**31.**[^c-b33aff9cf013215588b07b0652903aad] In section 124(5) (orders and regulations), at the beginning insert “Regulations made by the Secretary of State under section 68A or”.
 
-**32.**[^key-96c467fee01cc4ed75b2805ddd5a5216] In section 127(3) (associated person), for “or 62” substitute “, 62, 68B or 68C”.
+**32.**[^c-96c467fee01cc4ed75b2805ddd5a5216] In section 127(3) (associated person), for “or 62” substitute “, 62, 68B or 68C”.
 
-**33.**[^key-bc10cb618a972e3b4bdbc0e70273418f] (1) The table in section 130 (index of defined expressions) is amended as follows.
+**33.**[^c-bc10cb618a972e3b4bdbc0e70273418f] (1) The table in section 130 (index of defined expressions) is amended as follows.
 
 (2) After the entry for “Enactment” insert—
 
@@ -384,7 +384,7 @@ Section 204
 
 (5) In the entry for “The turnover in the United Kingdom of an enterprise”, after “28(2)” insert “(including as applied by Schedule 5A)”.
 
-**34.**[^key-3ff4f026d56dcc7f5a29d22eebefd73c] (1) Schedule 7 (enforcement regime for public interest and special public interest cases) is amended as follows.
+**34.**[^c-3ff4f026d56dcc7f5a29d22eebefd73c] (1) Schedule 7 (enforcement regime for public interest and special public interest cases) is amended as follows.
 
 (2) In paragraph 4(1), for “or 45” substitute “, 45, 68B or 68C”.
 
@@ -392,11 +392,11 @@ Section 204
 
 ### Part 3 — Consequential amendments of other enactments
 
-#### 35. Utilities Act 2000[^key-63ac8598008241fb0bd67d50ebba99bf]
+#### 35. Utilities Act 2000[^c-63ac8598008241fb0bd67d50ebba99bf]
 
 In section 105(3) of the Utilities Act 2000 (general restrictions on disclosure of information), in paragraph (azb), after “under” insert “Part 3 of the Enterprise Act 2002 or under”.
 
-#### 36. Enterprise and Regulatory Reform Act 2013[^key-cf1fce1f84c0fd5eb7d1facddd410b62]
+#### 36. Enterprise and Regulatory Reform Act 2013[^c-cf1fce1f84c0fd5eb7d1facddd410b62]
 
 (1) Schedule 4 to the Enterprise and Regulatory Reform Act 2013 is amended as follows.
 
@@ -414,76 +414,76 @@ In section 105(3) of the Utilities Act 2000 (general restrictions on disclosure 
 
 ## Annotations
 
-[^key-a1374c17bc6d69287e97f2217364656e]: Commencement: Sch. 16 para. 1 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-a1374c17bc6d69287e97f2217364656e]: Commencement: Sch. 16 para. 1 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-f13dc835c98254642f2cacee126f868b]: Commencement: Sch. 16 para. 2 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-f13dc835c98254642f2cacee126f868b]: Commencement: Sch. 16 para. 2 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-794bcf6e627476d2d4f2cfde139ee386]: Commencement: Sch. 16 para. 3 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-794bcf6e627476d2d4f2cfde139ee386]: Commencement: Sch. 16 para. 3 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-d4429d92371c049dfd57aeee265b9281]: Commencement: Sch. 16 para. 4 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-d4429d92371c049dfd57aeee265b9281]: Commencement: Sch. 16 para. 4 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-91df26f935b8009ee7c058e489655ae0]: Textual amendment: [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/5) omitted (24.7.2024) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/3), [Sch. 6 para. 13(2)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/6/paragraph/13/2)
+[^c-91df26f935b8009ee7c058e489655ae0]: Textual amendment: [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/5) omitted (24.7.2024) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/3), [Sch. 6 para. 13(2)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/6/paragraph/13/2)
 
-[^key-c1ccfe87116674853c42b540508355fc]: Textual amendment: [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/6) omitted (24.7.2024) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/3), [Sch. 6 para. 13(2)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/6/paragraph/13/2)
+[^c-c1ccfe87116674853c42b540508355fc]: Textual amendment: [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/6) omitted (24.7.2024) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/3), [Sch. 6 para. 13(2)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/6/paragraph/13/2)
 
-[^key-2fabebd951a255dd6d077546aa6d5ed2]: Commencement: Sch. 16 para. 7 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-2fabebd951a255dd6d077546aa6d5ed2]: Commencement: Sch. 16 para. 7 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-031f27302377092a7ed91b3397823306]: Commencement: Sch. 16 para. 8 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-031f27302377092a7ed91b3397823306]: Commencement: Sch. 16 para. 8 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-7800053109c972e0517aac66fbea2107]: Commencement: Sch. 16 para. 9 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-7800053109c972e0517aac66fbea2107]: Commencement: Sch. 16 para. 9 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-fa3dac01ab0fcec4cffa83f2cde3d0f7]: Commencement: Sch. 16 para. 10 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-fa3dac01ab0fcec4cffa83f2cde3d0f7]: Commencement: Sch. 16 para. 10 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-e3f06a7641bc185ff5166959ad551728]: Commencement: Sch. 16 para. 11 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-e3f06a7641bc185ff5166959ad551728]: Commencement: Sch. 16 para. 11 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-10b089dd07a8f3c1a603137d813f19b7]: Commencement: Sch. 16 para. 12 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-10b089dd07a8f3c1a603137d813f19b7]: Commencement: Sch. 16 para. 12 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-43f9feef568d65103eb12c61d83c6146]: Commencement: Sch. 16 para. 13 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-43f9feef568d65103eb12c61d83c6146]: Commencement: Sch. 16 para. 13 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-574d9801fec927f8c086ede5b3d2ac2b]: Commencement: Sch. 16 para. 14 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-574d9801fec927f8c086ede5b3d2ac2b]: Commencement: Sch. 16 para. 14 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-68b11d8b4354239590110b41982166c7]: Textual amendment: [Sch. 16 para. 14(2)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/14/2) omitted (24.7.2024) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/3), [Sch. 6 para. 13(3)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/6/paragraph/13/3)
+[^c-68b11d8b4354239590110b41982166c7]: Textual amendment: [Sch. 16 para. 14(2)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/14/2) omitted (24.7.2024) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/3), [Sch. 6 para. 13(3)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/6/paragraph/13/3)
 
-[^key-6dafb1068075bd230fda1d1ab667b5a4]: Commencement: Sch. 16 para. 15 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-6dafb1068075bd230fda1d1ab667b5a4]: Commencement: Sch. 16 para. 15 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-896c28f1a2d754b9dcca10d82ee53940]: Commencement: Sch. 16 para. 16 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-896c28f1a2d754b9dcca10d82ee53940]: Commencement: Sch. 16 para. 16 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-ccf0dc5a1716e39027b743c1062932c2]: Commencement: Sch. 16 para. 17 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-ccf0dc5a1716e39027b743c1062932c2]: Commencement: Sch. 16 para. 17 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-c625f81851925e49357e1f6ceee22e1a]: Commencement: Sch. 16 para. 18 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-c625f81851925e49357e1f6ceee22e1a]: Commencement: Sch. 16 para. 18 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-785416adeb760af2774af6f2dec5a1ba]: Commencement: Sch. 16 para. 19 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-785416adeb760af2774af6f2dec5a1ba]: Commencement: Sch. 16 para. 19 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-fdffd419d1412ab326385da476483d0b]: Commencement: Sch. 16 para. 20 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-fdffd419d1412ab326385da476483d0b]: Commencement: Sch. 16 para. 20 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-08ebf38d44fd083a25e49f1a6df141c7]: Commencement: Sch. 16 para. 21 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-08ebf38d44fd083a25e49f1a6df141c7]: Commencement: Sch. 16 para. 21 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-ab940c45291b34a268b5506ee676fad5]: Commencement: Sch. 16 para. 22 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-ab940c45291b34a268b5506ee676fad5]: Commencement: Sch. 16 para. 22 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-dece9899f7ce4b175b3aa548cc56c805]: Commencement: Sch. 16 para. 23 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-dece9899f7ce4b175b3aa548cc56c805]: Commencement: Sch. 16 para. 23 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-171ead68a0c4f204da2df295ae176d95]: Commencement: Sch. 16 para. 24 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-171ead68a0c4f204da2df295ae176d95]: Commencement: Sch. 16 para. 24 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-1284bd5fdaae39889d8b527c388cc9bc]: Commencement: Sch. 16 para. 25 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-1284bd5fdaae39889d8b527c388cc9bc]: Commencement: Sch. 16 para. 25 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-4595868616a2aca1cbf1918a94ca0310]: Commencement: Sch. 16 para. 26 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-4595868616a2aca1cbf1918a94ca0310]: Commencement: Sch. 16 para. 26 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-40462819d7b97c7e42c40c288bfd4aea]: Commencement: Sch. 16 para. 27 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-40462819d7b97c7e42c40c288bfd4aea]: Commencement: Sch. 16 para. 27 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-8db2d8c9902d23257eb0ffb358ac5dd2]: Commencement: Sch. 16 para. 28 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-8db2d8c9902d23257eb0ffb358ac5dd2]: Commencement: Sch. 16 para. 28 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-cace6722862b2885cda0d3047ce9242f]: Commencement: Sch. 16 para. 29 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-cace6722862b2885cda0d3047ce9242f]: Commencement: Sch. 16 para. 29 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-838204e1f4a6ecfa0a42291aeca5a293]: Commencement: Sch. 16 para. 30 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-838204e1f4a6ecfa0a42291aeca5a293]: Commencement: Sch. 16 para. 30 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-b33aff9cf013215588b07b0652903aad]: Commencement: Sch. 16 para. 31 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-b33aff9cf013215588b07b0652903aad]: Commencement: Sch. 16 para. 31 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-96c467fee01cc4ed75b2805ddd5a5216]: Commencement: Sch. 16 para. 32 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-96c467fee01cc4ed75b2805ddd5a5216]: Commencement: Sch. 16 para. 32 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-bc10cb618a972e3b4bdbc0e70273418f]: Commencement: Sch. 16 para. 33 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-bc10cb618a972e3b4bdbc0e70273418f]: Commencement: Sch. 16 para. 33 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-3ff4f026d56dcc7f5a29d22eebefd73c]: Commencement: Sch. 16 para. 34 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-3ff4f026d56dcc7f5a29d22eebefd73c]: Commencement: Sch. 16 para. 34 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-63ac8598008241fb0bd67d50ebba99bf]: Commencement: Sch. 16 para. 35 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-63ac8598008241fb0bd67d50ebba99bf]: Commencement: Sch. 16 para. 35 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
 
-[^key-cf1fce1f84c0fd5eb7d1facddd410b62]: Commencement: Sch. 16 para. 36 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)
+[^c-cf1fce1f84c0fd5eb7d1facddd410b62]: Commencement: Sch. 16 para. 36 in force at Royal Assent, see [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j)

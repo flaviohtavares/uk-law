@@ -34,7 +34,7 @@ AGRICULTURE
 
 FOOD
 
-The Guar Gum (Restriction on First Placing on the Market) (Scotland) Regulations 2008 (revoked)[^key-33ef6f356af70a3589f22440654fc265]
+The Guar Gum (Restriction on First Placing on the Market) (Scotland) Regulations 2008 (revoked)[^c-33ef6f356af70a3589f22440654fc265]
 
 Made
 
@@ -48,38 +48,38 @@ Coming into force
 
 5th May 2008
 
-[^key-33ef6f356af70a3589f22440654fc265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33ef6f356af70a3589f22440654fc265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-33ef6f356af70a3589f22440654fc265]
+## 1. Citation, commencement and extent[^c-33ef6f356af70a3589f22440654fc265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-33ef6f356af70a3589f22440654fc265]
+## 2. Interpretation[^c-33ef6f356af70a3589f22440654fc265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restriction on first placing on the market of guar gum products[^key-33ef6f356af70a3589f22440654fc265]
+## 3. Restriction on first placing on the market of guar gum products[^c-33ef6f356af70a3589f22440654fc265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-33ef6f356af70a3589f22440654fc265]
+## 4. Enforcement[^c-33ef6f356af70a3589f22440654fc265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Recovery of costs[^key-33ef6f356af70a3589f22440654fc265]
+## 5. Recovery of costs[^c-33ef6f356af70a3589f22440654fc265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of various provisions of the Food Safety Act 1990[^key-33ef6f356af70a3589f22440654fc265]
+## 6. Application of various provisions of the Food Safety Act 1990[^c-33ef6f356af70a3589f22440654fc265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33ef6f356af70a3589f22440654fc265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33ef6f356af70a3589f22440654fc265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33ef6f356af70a3589f22440654fc265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33ef6f356af70a3589f22440654fc265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-33ef6f356af70a3589f22440654fc265]: Textual amendment: Regulations revoked (17.4.2010) by [The Guar Gum (Restriction on First Placing on the Market) (Scotland) Revocation Regulations 2010 (S.S.I. 2010/153)](https://www.legislation.gov.uk/ssi/2010/153), [regs. 1](https://www.legislation.gov.uk/ssi/2010/153/regulation/1), [2](https://www.legislation.gov.uk/ssi/2010/153/regulation/2)
+[^c-33ef6f356af70a3589f22440654fc265]: Textual amendment: Regulations revoked (17.4.2010) by [The Guar Gum (Restriction on First Placing on the Market) (Scotland) Revocation Regulations 2010 (S.S.I. 2010/153)](https://www.legislation.gov.uk/ssi/2010/153), [regs. 1](https://www.legislation.gov.uk/ssi/2010/153/regulation/1), [2](https://www.legislation.gov.uk/ssi/2010/153/regulation/2)

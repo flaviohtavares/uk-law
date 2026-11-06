@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, WALES
 
-The National Health Service (General Dental Services Contracts) (Wales) Regulations 2006 (revoked)[^key-4c607526bc0bf5f2140cc728109a1c30]
+The National Health Service (General Dental Services Contracts) (Wales) Regulations 2006 (revoked)[^c-4c607526bc0bf5f2140cc728109a1c30]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into force
 
 1 March 2006
 
-[^key-4c607526bc0bf5f2140cc728109a1c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c607526bc0bf5f2140cc728109a1c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-4c607526bc0bf5f2140cc728109a1c30]
+### PART 1 — GENERAL[^c-4c607526bc0bf5f2140cc728109a1c30]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ Coming into force
 - [Section 1 — Title, commencement and application](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — CONTRACTORS[^key-4c607526bc0bf5f2140cc728109a1c30]
+### PART 2 — CONTRACTORS[^c-4c607526bc0bf5f2140cc728109a1c30]
 
 *Extent: E+W*
 
@@ -66,7 +66,7 @@ Coming into force
 - [Section 6 — Reasons](part-2/section-6.md)
 - [Section 7 — Appeal](part-2/section-7.md)
 
-### PART 3 — PRE-CONTRACT DISPUTE RESOLUTION[^key-4c607526bc0bf5f2140cc728109a1c30]
+### PART 3 — PRE-CONTRACT DISPUTE RESOLUTION[^c-4c607526bc0bf5f2140cc728109a1c30]
 
 *Extent: E+W*
 
@@ -74,7 +74,7 @@ Coming into force
 
 - [Section 8 — Pre-contract disputes](part-3/section-8.md)
 
-### PART 4 — HEALTH SERVICE BODY STATUS[^key-4c607526bc0bf5f2140cc728109a1c30]
+### PART 4 — HEALTH SERVICE BODY STATUS[^c-4c607526bc0bf5f2140cc728109a1c30]
 
 *Extent: E+W*
 
@@ -82,7 +82,7 @@ Coming into force
 
 - [Section 9 — Health service body status](part-4/section-9.md)
 
-### PART 5 — CONTRACTS: REQUIRED TERMS[^key-4c607526bc0bf5f2140cc728109a1c30]
+### PART 5 — CONTRACTS: REQUIRED TERMS[^c-4c607526bc0bf5f2140cc728109a1c30]
 
 *Extent: E+W*
 
@@ -104,7 +104,7 @@ Coming into force
 - [Section 23 — Arrangements on termination](part-5/section-23.md)
 - [Section 24 — Other contractual terms](part-5/section-24.md)
 
-### PART 6 — TRANSITIONAL PROVISION[^key-4c607526bc0bf5f2140cc728109a1c30]
+### PART 6 — TRANSITIONAL PROVISION[^c-4c607526bc0bf5f2140cc728109a1c30]
 
 *Extent: E+W*
 
@@ -121,14 +121,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-4c607526bc0bf5f2140cc728109a1c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c607526bc0bf5f2140cc728109a1c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-4c607526bc0bf5f2140cc728109a1c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c607526bc0bf5f2140cc728109a1c30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4c607526bc0bf5f2140cc728109a1c30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2006/490) revoked (1.4.2026) by [The National Health Service (General Dental Services Contracts and Patient Charges) (Wales) Regulations 2026 (W.S.I. 2026/37)](https://www.legislation.gov.uk/wsi/2026/37), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2), [42](https://www.legislation.gov.uk/wsi/2026/37/regulation/42) (with [regs. 34-41](https://www.legislation.gov.uk/wsi/2026/37/regulation/34))
+[^c-4c607526bc0bf5f2140cc728109a1c30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2006/490) revoked (1.4.2026) by [The National Health Service (General Dental Services Contracts and Patient Charges) (Wales) Regulations 2026 (W.S.I. 2026/37)](https://www.legislation.gov.uk/wsi/2026/37), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2), [42](https://www.legislation.gov.uk/wsi/2026/37/regulation/42) (with [regs. 34-41](https://www.legislation.gov.uk/wsi/2026/37/regulation/34))

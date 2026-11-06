@@ -31,7 +31,7 @@ summary: ''
 
 RATING AND VALUATION, WALES
 
-The Non-Domestic Rating (Alteration of Lists and Appeals) (Wales) (Amendment) Regulations 2006 (revoked)[^key-d83e83a244520c9ebfdc900dc8add983]
+The Non-Domestic Rating (Alteration of Lists and Appeals) (Wales) (Amendment) Regulations 2006 (revoked)[^c-d83e83a244520c9ebfdc900dc8add983]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 5 April 2006
 
-[^key-d83e83a244520c9ebfdc900dc8add983]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d83e83a244520c9ebfdc900dc8add983]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-d83e83a244520c9ebfdc900dc8add983]
+## 1. Title, application and commencement[^c-d83e83a244520c9ebfdc900dc8add983]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d83e83a244520c9ebfdc900dc8add983]
+## 2. Interpretation[^c-d83e83a244520c9ebfdc900dc8add983]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d83e83a244520c9ebfdc900dc8add983]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d83e83a244520c9ebfdc900dc8add983]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d83e83a244520c9ebfdc900dc8add983]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d83e83a244520c9ebfdc900dc8add983]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d83e83a244520c9ebfdc900dc8add983]: Textual amendment: Regulations revoked (1.4.2023) by The Non-[Domestic Rating (Alteration of Lists and Appeals) (Wales) Regulations 2023 (S.I. 2023/350)](https://www.legislation.gov.uk/uksi/2023/350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/350/regulation/1/2), [63(1)(b)](https://www.legislation.gov.uk/uksi/2023/350/regulation/63/1/b) (with [reg. 63(2)](https://www.legislation.gov.uk/uksi/2023/350/regulation/63/2))
+[^c-d83e83a244520c9ebfdc900dc8add983]: Textual amendment: Regulations revoked (1.4.2023) by The Non-[Domestic Rating (Alteration of Lists and Appeals) (Wales) Regulations 2023 (S.I. 2023/350)](https://www.legislation.gov.uk/uksi/2023/350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/350/regulation/1/2), [63(1)(b)](https://www.legislation.gov.uk/uksi/2023/350/regulation/63/1/b) (with [reg. 63(2)](https://www.legislation.gov.uk/uksi/2023/350/regulation/63/2))

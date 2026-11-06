@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Limits on doing things for commercial purpose in exercise of general power[^key-cbda8ebc62d9afeb1c7e9e98ed4460d9]
+## 27. Limits on doing things for commercial purpose in exercise of general power[^c-cbda8ebc62d9afeb1c7e9e98ed4460d9]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbda8ebc62d9afeb1c7e9e98ed4460d9]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2021/1/section/27) in force at 1.11.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(a)](https://www.legislation.gov.uk/wsi/2021/231/article/4/a)
+[^c-cbda8ebc62d9afeb1c7e9e98ed4460d9]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2021/1/section/27) in force at 1.11.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(a)](https://www.legislation.gov.uk/wsi/2021/231/article/4/a)

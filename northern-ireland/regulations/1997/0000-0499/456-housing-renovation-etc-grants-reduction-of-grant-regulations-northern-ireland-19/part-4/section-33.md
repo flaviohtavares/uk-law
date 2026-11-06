@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Disregard of capital of child or young person[^key-28a3ee2d0bae75fa9af7a77f3de06474]
+## 33. Disregard of capital of child or young person[^c-28a3ee2d0bae75fa9af7a77f3de06474]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The capital of a child or young person who is a member of the relevant person’
 
 ## Annotations
 
-[^key-28a3ee2d0bae75fa9af7a77f3de06474]: Commencement: Reg. 33 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-28a3ee2d0bae75fa9af7a77f3de06474]: Commencement: Reg. 33 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

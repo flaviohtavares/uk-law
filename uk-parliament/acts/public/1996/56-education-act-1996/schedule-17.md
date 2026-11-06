@@ -35,7 +35,7 @@ Section 161.
 **3.** Where there is an obligation on the governing body (by virtue of section 162) to hold an annual parents’ meeting, the report shall—
 
 - (a) give details of the date, time and place for the next annual parents’ meeting and its agenda;
-- (b) indicate that the purpose of that meeting will be to discuss both the governors’ report and the discharge by the governing body, the head teacher and the local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] of their functions in relation to the school; and
+- (b) indicate that the purpose of that meeting will be to discuss both the governors’ report and the discharge by the governing body, the head teacher and the local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] of their functions in relation to the school; and
 - (c) report on the consideration which has been given to any resolutions passed at the previous annual parents’ meeting.
 
 **4.** The report shall—
@@ -107,7 +107,7 @@ which has most recently been made available to the governing body by the Secreta
 
 [^c15257201]: Textual amendment: Word in Sch. 17 para. 1(1) substituted (10.1.1997) by [S.I. 1996/3210](https://www.legislation.gov.uk/uksi/1996/3210), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/3210/article/2/2)
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
 [^c15257211]: Textual amendment: Sch. 17 para. 7A added (10.1.1997) by [S.I. 1996/3210](https://www.legislation.gov.uk/uksi/1996/3210), [art. 2(3)](https://www.legislation.gov.uk/uksi/1996/3210/article/2/3)
 

@@ -52,13 +52,13 @@ In these Regulations—
 
 - “**the 2008 Act**” means the Taxis Act (Northern Ireland) 2008;
 - “**application**” means an application for the grant or variation of an operator's licence;
-- “Class A, B, C or D licensed taxi” means a taxi, the class of use for which a licence has been granted under regulation 7 (grant of licence) of the Taxi Licensing Regulations (Northern Ireland) 2015;[^key-47ff494f7a482afc0cb339471b64a2ac]
+- “Class A, B, C or D licensed taxi” means a taxi, the class of use for which a licence has been granted under regulation 7 (grant of licence) of the Taxi Licensing Regulations (Northern Ireland) 2015;[^c-47ff494f7a482afc0cb339471b64a2ac]
 - “executive service” means a service where a licensed taxi is used for the carriage of passengers in connection with a ceremonial, corporate or prestige taxi booking;
 - “**large operator**” means a taxi operator who has more than two vehicles available to carry out taxi bookings accepted at all the operating centres, which are specified in the operator's licence;
 - “**Public Service Vehicle licence**” means a licence granted under Article 61 of the 1981 Order;
 - “**Public Service Vehicles Regulations**” means the Public Service Vehicles Regulations (Northern Ireland) 1985 [^c21345421];
-- “**registration mark**” means, in relation to a vehicle, the mark assigned to the vehicle in accordance with section 23 of the Vehicle Excise and Registration Act 1994 [^c21345431]; [^key-da6562cfb252e88e696c1d4dfbae098f]...
-- “**small operator**” means an operator who has no more than two vehicles available to carry out taxi bookings accepted at their operating centre and which is specified in the operator's licence; and[^key-72b3b1586b4e03bad2c5365e8e8fa1d5]
+- “**registration mark**” means, in relation to a vehicle, the mark assigned to the vehicle in accordance with section 23 of the Vehicle Excise and Registration Act 1994 [^c21345431]; [^c-da6562cfb252e88e696c1d4dfbae098f]...
+- “**small operator**” means an operator who has no more than two vehicles available to carry out taxi bookings accepted at their operating centre and which is specified in the operator's licence; and[^c-72b3b1586b4e03bad2c5365e8e8fa1d5]
 - “tour service” means a service where a licensed taxi is used for the carriage of passengers to and from one or more advertised destinations, which includes a guided commentary, for the purpose of tourism.
 
 ## 3. Applications
@@ -124,7 +124,7 @@ the Department shall, upon receipt of a written request for a refund accompanied
 
 ## 7. Conditions
 
-(1) For the purposes of section 2(5) of the 2008 Act the prescribed conditions are set out in paragraphs (2) to (10)[^key-623edaa558694bf769d68d1b94162637] .
+(1) For the purposes of section 2(5) of the 2008 Act the prescribed conditions are set out in paragraphs (2) to (10)[^c-623edaa558694bf769d68d1b94162637] .
 
 (2) In respect of any operating centre specified in the operator's licence which is accessible to members of the public, the licensed operator shall maintain in force a policy of insurance against public liability risks which provides a minimum indemnity of £5,000,000 in respect of any one event.
 
@@ -150,7 +150,7 @@ the licensed operator shall, within 7 days of the date of such event, give the D
 
 (7) The licensed operator shall establish and maintain a procedure for dealing with complaints, arising in connection with any hiring accepted by the licensed operator and shall keep and preserve records in accordance with paragraph (6).
 
-(8)[^key-887d845ec6617d4f7e8228770f168d19] Subject to paragraph (8A), where a licensed operator provides a licensed taxi fitted with a taximeter, the licensed operator shall ensure any fare payable in respect of the taxi booking is less than or equal to the fare shown on the taximeter.
+(8)[^c-887d845ec6617d4f7e8228770f168d19] Subject to paragraph (8A), where a licensed operator provides a licensed taxi fitted with a taximeter, the licensed operator shall ensure any fare payable in respect of the taxi booking is less than or equal to the fare shown on the taximeter.
 
 (8A) The requirement in paragraph (8) does not apply where the taxi booking is in respect of a licensed taxi providing an executive service or a tour service.
 
@@ -180,7 +180,7 @@ The records under regulations 9 to 13, which a licensed operator is required to 
 - (g) if applicable, the name of the other licensed operator to whom the taxi booking has been sub-contracted; and
 - (h) the registered number of the vehicle to be used or such other means of identifying it as may be adopted.
 
-(1A)[^key-9009304987a74cbb213c03f865148c94] Where the taxi booking is in respect of a licensed taxi providing an executive service or tour service, the following information shall be recorded on a form “a Journey Form”, which must be carried in the vehicle throughout the period of the journey—
+(1A)[^c-9009304987a74cbb213c03f865148c94] Where the taxi booking is in respect of a licensed taxi providing an executive service or tour service, the following information shall be recorded on a form “a Journey Form”, which must be carried in the vehicle throughout the period of the journey—
 
 - (a) the name of the person for whom the taxi booking is made;
 - (b) the date of the journey;
@@ -191,14 +191,14 @@ The records under regulations 9 to 13, which a licensed operator is required to 
 - (g) the name and licence number of the taxi operator; and
 - (h) the address of the operating centre.
 
-(2) For the purposes of section 3(2) of the 2008 Act the prescribed exception is that a taxi booking for a Class A or B licensed taxi or any Class C or D licensed taxi providing a tour service[^key-0c86816b5288d3c1719e7226fd8044c2] may be accepted other than at an operating centre by an affiliated driver or by a person who holds an operator's licence.
+(2) For the purposes of section 3(2) of the 2008 Act the prescribed exception is that a taxi booking for a Class A or B licensed taxi or any Class C or D licensed taxi providing a tour service[^c-0c86816b5288d3c1719e7226fd8044c2] may be accepted other than at an operating centre by an affiliated driver or by a person who holds an operator's licence.
 
 (3) Where the taxi booking is not made at the operating centre, the date, time, location of pick up, location of drop off and number of passengers shall be recorded in the taxi prior to or at the end of the journey—
 
 - (a) by the licensed operator, and the details returned to the operating centre within 5 working days of the journey taking place; or
 - (b) by the affiliated driver and notified to the licensed operator as soon as reasonably practicable by the affiliated driver but no more than 5 working days from the date of the journey.
 
-(4)[^key-3b0117a897fc009ad90b99752eb0de15] Paragraphs (1) to (3) do not apply if the booking is made on behalf of the Department of Justice .
+(4)[^c-3b0117a897fc009ad90b99752eb0de15] Paragraphs (1) to (3) do not apply if the booking is made on behalf of the Department of Justice .
 
 ## 10. Particulars of vehicles
 
@@ -208,7 +208,7 @@ For the purposes of section 3(3)(b) of the 2008 Act, the prescribed particulars 
 - (b) the registration mark;
 - (c) the name and address of the person in whose name the vehicle is registered under the Vehicle Excise and Registration Act 1994;
 - (d) a copy of the current certificate of insurance or certificate of security as construed in accordance with Articles 92 and 93 of the 1981 Order;
-- (e) a copy of the current Public Service Vehicle licence or taxi licence[^key-057b374c03cdce37678ec565648ca6b2];
+- (e) a copy of the current Public Service Vehicle licence or taxi licence[^c-057b374c03cdce37678ec565648ca6b2];
 - (f) the date on which the vehicle became available to the licensed operator; and
 - (g) the date on which the vehicle ceased to be so available.
 
@@ -243,9 +243,9 @@ For the purposes of section 3(3)(b) of the 2008 Act, the prescribed particulars 
 - (d) the name of the complainant and any address, telephone number or other contact details provided by the complainant;
 - (e) the nature of the complaint;
 - (f) details of any investigation carried out and subsequent action taken as a result; and
-- (g) the Public Service Vehicle licence number or taxi licence number[^key-32be8ccc42b7be6f2e93d4d49f1e3463].
+- (g) the Public Service Vehicle licence number or taxi licence number[^c-32be8ccc42b7be6f2e93d4d49f1e3463].
 
-## 13. Record of lost property[^key-ff45f6f2b06b24fc3571a22936ca23c2]
+## 13. Record of lost property[^c-ff45f6f2b06b24fc3571a22936ca23c2]
 
 (1) For the purposes of section 3(3)(e) of the 2008 Act, a licensed operator shall keep a record containing the particulars set out in paragraph (2), of any lost property found—
 
@@ -256,8 +256,8 @@ For the purposes of section 3(3)(b) of the 2008 Act, the prescribed particulars 
 
 - (a) the date on which it was found;
 - (b) the place where it was found and if it was found in a vehicle, the registration mark of that vehicle;
-- (c) a description of the item.[^key-641dc45c83ed242fa9e6e477f768386e]
-- (d)[^key-d66d616944bf444103044c8a7bea1524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a description of the item.[^c-641dc45c83ed242fa9e6e477f768386e]
+- (d)[^c-d66d616944bf444103044c8a7bea1524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 14. Register of licences
 
@@ -272,7 +272,7 @@ For the purposes of section 33(1)(e) of the 2008 Act the prescribed particulars 
 
 (1) For the purposes of section 1(4) of the 2008 Act, the prescribed exception is provision or acceptance within section 1(4) by a person specified in paragraph (2).
 
-(2)[^key-ade2b740a8871997644ccc6e2a94e3cb] The person specified for the purposes of paragraph (1) is—
+(2)[^c-ade2b740a8871997644ccc6e2a94e3cb] The person specified for the purposes of paragraph (1) is—
 
 - (a) a person who holds a Road Service Licence granted under Part II of the Transport Act (Northern Ireland) 1967 for a taxi bus;
 - (b) a person providing only wedding cars; or
@@ -280,17 +280,17 @@ For the purposes of section 33(1)(e) of the 2008 Act the prescribed particulars 
 
 (3) In this regulation—
 
-- “courtesy transport” means transport provided in a vehicle with no more than 8 seats in addition to the driver, which is primarily used for the carriage of passengers with the services of a driver on behalf of an organisation or business whose primary purpose is not that of carrying passengers;[^key-d34f25d1b1e4d34cef94e9081de28d39]
+- “courtesy transport” means transport provided in a vehicle with no more than 8 seats in addition to the driver, which is primarily used for the carriage of passengers with the services of a driver on behalf of an organisation or business whose primary purpose is not that of carrying passengers;[^c-d34f25d1b1e4d34cef94e9081de28d39]
 - “**taxi bus**” has the same meaning as in regulation 3(1) of the Public Service Vehicles Regulations [^c21345511].
 
 ## 16. Affiliated drivers
 
 For the purposes of section 3(7) of the 2008 Act a person may be an affiliated driver of more than one licensed operator only where—
 
-- (a)[^key-b2bb6a61ddc621e55d3b9b332b77984f] the second operator is providing wedding or funeral cars and the driver is driving—
+- (a)[^c-b2bb6a61ddc621e55d3b9b332b77984f] the second operator is providing wedding or funeral cars and the driver is driving—
   - (i) a vehicle plated in accordance with regulation 7(8) (licence and disc) of the Public Services Vehicles Regulations; or
   - (ii) a Class C licensed taxi; or
-- (b) [^key-f0d04ef3b7495d1b070ac97a43807935]... the second operator is contracted by an Education and Library Board to provide home to school transport under Article 52 of the Education and Libraries (Northern Ireland) Order 1986 [^c21345531].
+- (b) [^c-f0d04ef3b7495d1b070ac97a43807935]... the second operator is contracted by an Education and Library Board to provide home to school transport under Article 52 of the Education and Libraries (Northern Ireland) Order 1986 [^c21345531].
 
 ## 17. Transitional provisions
 
@@ -384,48 +384,48 @@ A partial Regulatory Impact Assessment of the effect this instrument will have o
 
 [^c21345411]: Marginal citation: [2008 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2008/4)
 
-[^key-47ff494f7a482afc0cb339471b64a2ac]: Textual amendment: Words in reg. 2 inserted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/2/a), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-47ff494f7a482afc0cb339471b64a2ac]: Textual amendment: Words in reg. 2 inserted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/2/a), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
 [^c21345421]: Marginal citation: S.R. [1985 No. 123](https://www.legislation.gov.uk/ukcm/1985/123)
 
 [^c21345431]: Marginal citation: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22)
 
-[^key-da6562cfb252e88e696c1d4dfbae098f]: Textual amendment: Word in reg. 2 omitted (31.5.2016) by virtue of [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/2/b), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-da6562cfb252e88e696c1d4dfbae098f]: Textual amendment: Word in reg. 2 omitted (31.5.2016) by virtue of [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/2/b), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
-[^key-72b3b1586b4e03bad2c5365e8e8fa1d5]: Textual amendment: Word in reg. 2 inserted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/2/c), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-72b3b1586b4e03bad2c5365e8e8fa1d5]: Textual amendment: Word in reg. 2 inserted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/2/c), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
-[^key-623edaa558694bf769d68d1b94162637]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2012/316/regulation/7/1) substituted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/3/a), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-623edaa558694bf769d68d1b94162637]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/nisr/2012/316/regulation/7/1) substituted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/3/a), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
-[^key-887d845ec6617d4f7e8228770f168d19]: Textual amendment: [Reg. 7(8)(8A)](https://www.legislation.gov.uk/nisr/2012/316/regulation/7/8) substituted for [reg. 7(8)](https://www.legislation.gov.uk/nisr/2012/316/regulation/7/8) (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/3/b), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-887d845ec6617d4f7e8228770f168d19]: Textual amendment: [Reg. 7(8)(8A)](https://www.legislation.gov.uk/nisr/2012/316/regulation/7/8) substituted for [reg. 7(8)](https://www.legislation.gov.uk/nisr/2012/316/regulation/7/8) (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/3/b), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
 [^c21345441]: Marginal citation: [1949 c. 54](https://www.legislation.gov.uk/ukpga/1949/54)
 
-[^key-9009304987a74cbb213c03f865148c94]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/nisr/2012/316/regulation/9/1A) inserted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/4/a), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-9009304987a74cbb213c03f865148c94]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/nisr/2012/316/regulation/9/1A) inserted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/4/a), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
-[^key-0c86816b5288d3c1719e7226fd8044c2]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/nisr/2012/316/regulation/9/2) inserted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/4/b), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-0c86816b5288d3c1719e7226fd8044c2]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/nisr/2012/316/regulation/9/2) inserted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/4/b), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
-[^key-3b0117a897fc009ad90b99752eb0de15]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/nisr/2012/316/regulation/9/4) added (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/4/c), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-3b0117a897fc009ad90b99752eb0de15]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/nisr/2012/316/regulation/9/4) added (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/4/c), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
-[^key-057b374c03cdce37678ec565648ca6b2]: Textual amendment: Words in [reg. 10(e)](https://www.legislation.gov.uk/nisr/2012/316/regulation/10/e) inserted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/5), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-057b374c03cdce37678ec565648ca6b2]: Textual amendment: Words in [reg. 10(e)](https://www.legislation.gov.uk/nisr/2012/316/regulation/10/e) inserted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/5), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
 [^c21345451]: Marginal citation: S.R. [2001 No. 102](https://www.legislation.gov.uk/ukcm/2001/102)
 
-[^key-32be8ccc42b7be6f2e93d4d49f1e3463]: Textual amendment: Words in [reg. 12(2)(g)](https://www.legislation.gov.uk/nisr/2012/316/regulation/12/2/g) inserted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/6), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-32be8ccc42b7be6f2e93d4d49f1e3463]: Textual amendment: Words in [reg. 12(2)(g)](https://www.legislation.gov.uk/nisr/2012/316/regulation/12/2/g) inserted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(6)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/6), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
-[^key-ff45f6f2b06b24fc3571a22936ca23c2]: Textual amendment: Reg. 13 renumbered as reg. 13(1) (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/7/a), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-ff45f6f2b06b24fc3571a22936ca23c2]: Textual amendment: Reg. 13 renumbered as reg. 13(1) (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/7/a), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
-[^key-641dc45c83ed242fa9e6e477f768386e]: Textual amendment: Word in [reg. 13(2)(c)](https://www.legislation.gov.uk/nisr/2012/316/regulation/13/2/c) substituted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(7)(b)(i)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/7/b/i), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-641dc45c83ed242fa9e6e477f768386e]: Textual amendment: Word in [reg. 13(2)(c)](https://www.legislation.gov.uk/nisr/2012/316/regulation/13/2/c) substituted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(7)(b)(i)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/7/b/i), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
-[^key-d66d616944bf444103044c8a7bea1524]: Textual amendment: [Reg. 13(2)(d)](https://www.legislation.gov.uk/nisr/2012/316/regulation/13/2/d) omitted (31.5.2016) by virtue of [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(7)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/7/b/ii), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-d66d616944bf444103044c8a7bea1524]: Textual amendment: [Reg. 13(2)(d)](https://www.legislation.gov.uk/nisr/2012/316/regulation/13/2/d) omitted (31.5.2016) by virtue of [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(7)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/7/b/ii), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
-[^key-ade2b740a8871997644ccc6e2a94e3cb]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/nisr/2012/316/regulation/15/2) substituted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/8/a), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-ade2b740a8871997644ccc6e2a94e3cb]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/nisr/2012/316/regulation/15/2) substituted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/8/a), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
-[^key-d34f25d1b1e4d34cef94e9081de28d39]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/nisr/2012/316/regulation/15/3) substituted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/8/b), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-d34f25d1b1e4d34cef94e9081de28d39]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/nisr/2012/316/regulation/15/3) substituted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/8/b), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
 [^c21345511]: Marginal citation: The definition of taxi bus was inserted by regulation 2 of S.R. [2004 No. 413](https://www.legislation.gov.uk/ukcm/2004/413)
 
-[^key-b2bb6a61ddc621e55d3b9b332b77984f]: Textual amendment: [Reg. 16(a)](https://www.legislation.gov.uk/nisr/2012/316/regulation/16/a) substituted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/9/a), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-b2bb6a61ddc621e55d3b9b332b77984f]: Textual amendment: [Reg. 16(a)](https://www.legislation.gov.uk/nisr/2012/316/regulation/16/a) substituted (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/9/a), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
-[^key-f0d04ef3b7495d1b070ac97a43807935]: Textual amendment: Word in [reg. 16(b)](https://www.legislation.gov.uk/nisr/2012/316/regulation/16/b) omitted (31.5.2016) by virtue of [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/9/b), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-f0d04ef3b7495d1b070ac97a43807935]: Textual amendment: Word in [reg. 16(b)](https://www.legislation.gov.uk/nisr/2012/316/regulation/16/b) omitted (31.5.2016) by virtue of [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/nisr/2015/395/regulation/2/9/b), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
 
 [^c21345531]: Marginal citation: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)

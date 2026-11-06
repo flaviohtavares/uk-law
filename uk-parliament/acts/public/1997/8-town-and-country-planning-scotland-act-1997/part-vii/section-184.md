@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 184. Planning permission not needed for advertisements complying with regulations.[^key-f781839a16ee0466c02e8362917b30f4]
+## 184. Planning permission not needed for advertisements complying with regulations.[^c-f781839a16ee0466c02e8362917b30f4]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Where the display of advertisements in accordance with regulations made under se
 
 ## Annotations
 
-[^key-f781839a16ee0466c02e8362917b30f4]: Modification: S. 184 applied (4.4.2003 for specified purposes, 28.11.2004 in so far as not already in force) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 21(7)](https://www.legislation.gov.uk/asp/2003/9/section/21/7), [122(1)](https://www.legislation.gov.uk/asp/2003/9/section/122/1), [129(2)](https://www.legislation.gov.uk/asp/2003/9/section/129/2)[(5)(d)](https://www.legislation.gov.uk/asp/2003/9/section/129/5/d) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121)) (see [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), art. 2)
+[^c-f781839a16ee0466c02e8362917b30f4]: Modification: S. 184 applied (4.4.2003 for specified purposes, 28.11.2004 in so far as not already in force) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 21(7)](https://www.legislation.gov.uk/asp/2003/9/section/21/7), [122(1)](https://www.legislation.gov.uk/asp/2003/9/section/122/1), [129(2)](https://www.legislation.gov.uk/asp/2003/9/section/129/2)[(5)(d)](https://www.legislation.gov.uk/asp/2003/9/section/129/5/d) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121)) (see [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), art. 2)

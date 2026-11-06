@@ -31,7 +31,7 @@ summary: ''
 
 OFFICIAL STATISTICS, WALES
 
-The Official Statistics (Wales) Order 2013 (revoked)[^key-9f1b3a574d8d1580dfed5bf827b5f820]
+The Official Statistics (Wales) Order 2013 (revoked)[^c-9f1b3a574d8d1580dfed5bf827b5f820]
 
 Made
 
@@ -39,23 +39,23 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-9f1b3a574d8d1580dfed5bf827b5f820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f1b3a574d8d1580dfed5bf827b5f820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-9f1b3a574d8d1580dfed5bf827b5f820]
+## 1. Title and commencement[^c-9f1b3a574d8d1580dfed5bf827b5f820]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Official Statistics — wholly Welsh devolved official statistics[^key-9f1b3a574d8d1580dfed5bf827b5f820]
+## 2. Official Statistics — wholly Welsh devolved official statistics[^c-9f1b3a574d8d1580dfed5bf827b5f820]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9f1b3a574d8d1580dfed5bf827b5f820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f1b3a574d8d1580dfed5bf827b5f820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-9f1b3a574d8d1580dfed5bf827b5f820]
+## SCHEDULE[^c-9f1b3a574d8d1580dfed5bf827b5f820]
 
 Article 2
 
@@ -63,8 +63,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-9f1b3a574d8d1580dfed5bf827b5f820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9f1b3a574d8d1580dfed5bf827b5f820]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f1b3a574d8d1580dfed5bf827b5f820]: Textual amendment: Order revoked (23.11.2017) by [The Official Statistics (Wales) Order 2017 (S.I. 2017/1142)](https://www.legislation.gov.uk/uksi/2017/1142), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1142/article/1/1), [2](https://www.legislation.gov.uk/uksi/2017/1142/article/2)
+[^c-9f1b3a574d8d1580dfed5bf827b5f820]: Textual amendment: Order revoked (23.11.2017) by [The Official Statistics (Wales) Order 2017 (S.I. 2017/1142)](https://www.legislation.gov.uk/uksi/2017/1142), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1142/article/1/1), [2](https://www.legislation.gov.uk/uksi/2017/1142/article/2)

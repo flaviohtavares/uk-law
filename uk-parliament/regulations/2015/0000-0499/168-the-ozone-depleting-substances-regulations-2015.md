@@ -78,7 +78,7 @@ The Regulations make provision for a purpose mentioned in section 2(2) of, and p
 
 (2) Expressions used in these Regulations and in the EU Regulation have the same meaning in these Regulations as they have in the EU Regulation.
 
-### 3. The competent authority[^key-aef00df357c95e7ccb24981770242cad]
+### 3. The competent authority[^c-aef00df357c95e7ccb24981770242cad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -88,30 +88,30 @@ The Regulations make provision for a purpose mentioned in section 2(2) of, and p
 
 *Extent: E+S+N.I.*
 
-(1)[^key-1c65987c49abcb84b271f38fc93730c8] For the purposes of this Part of these Regulations—
+(1)[^c-1c65987c49abcb84b271f38fc93730c8] For the purposes of this Part of these Regulations—
 
-- (a) a person is competent to carry out relevant work whilst performing a task specified in column 1 of the Table in Schedule 2 in respect of the equipment specified in the corresponding entry in column 2 of that Table if that person has obtained any of the qualifications specified in the corresponding entry in column 3 of that Table , or has obtained the equivalent of those qualifications in a specified state[^key-c6c84ac1ae2a283526c6603b91a6d941];
+- (a) a person is competent to carry out relevant work whilst performing a task specified in column 1 of the Table in Schedule 2 in respect of the equipment specified in the corresponding entry in column 2 of that Table if that person has obtained any of the qualifications specified in the corresponding entry in column 3 of that Table , or has obtained the equivalent of those qualifications in a specified state[^c-c6c84ac1ae2a283526c6603b91a6d941];
 - (b) a person is competent to carry out any other relevant work to which paragraph (a) does not apply if that person has obtained an in-house qualification in respect of that other relevant work;
-- (c)[^key-82e9af7c039fba7dbfd0fe625bb3c143] a person is competent to carry out work with methyl bromide if that person has—
+- (c)[^c-82e9af7c039fba7dbfd0fe625bb3c143] a person is competent to carry out work with methyl bromide if that person has—
   - (i) obtained the British Pest Control Association Certificate of Proficiency for Fumigation Operators and successfully completed the British Pest Control Association module referred to in the list in Schedule 3 which relates to the work in question; or
   - (ii) obtained an equivalent certificate, and successfully completed an equivalent module, in a specified state.
 
-(2)[^key-f148f7b975d869d3b435fa93e71c95cf] For the purposes of this regulation, a “**specified state**” means one of the states specified in Schedule 1 to the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023.
+(2)[^c-f148f7b975d869d3b435fa93e71c95cf] For the purposes of this regulation, a “**specified state**” means one of the states specified in Schedule 1 to the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023.
 
 ### 4. Meaning of “competent”[^M_E_2bb33827-5984-4cf6-ceb2-852849ae6da1]
 
 *Extent: W*
 
-(1)[^key-c63b1d21ac3e7b9c9ebc40c540e89eff] For the purposes of this Part of these Regulations—
+(1)[^c-c63b1d21ac3e7b9c9ebc40c540e89eff] For the purposes of this Part of these Regulations—
 
-- (a) a person is competent to carry out relevant work whilst performing a task specified in column 1 of the Table in Schedule 2 in respect of the equipment specified in the corresponding entry in column 2 of that Table if that person has obtained any of the qualifications specified in the corresponding entry in column 3 of that Table , or has obtained the equivalent of those qualifications in[^key-de9dece8029605476e2066d864be84df] a specified state[^key-9a068847ec08840830bb4412dadcdd45];
+- (a) a person is competent to carry out relevant work whilst performing a task specified in column 1 of the Table in Schedule 2 in respect of the equipment specified in the corresponding entry in column 2 of that Table if that person has obtained any of the qualifications specified in the corresponding entry in column 3 of that Table , or has obtained the equivalent of those qualifications in[^c-de9dece8029605476e2066d864be84df] a specified state[^c-9a068847ec08840830bb4412dadcdd45];
 - (b) a person is competent to carry out any other relevant work to which paragraph (a) does not apply if that person has obtained an in-house qualification in respect of that other relevant work;
-- (c)[^key-7f9c1be07300f6ce7fae3c5006501281] a person is competent to carry out work with methyl bromide if that person has—
+- (c)[^c-7f9c1be07300f6ce7fae3c5006501281] a person is competent to carry out work with methyl bromide if that person has—
   - (i) obtained the British Pest Control Association Certificate of Proficiency for Fumigation Operators and successfully completed the British Pest Control Association module referred to in the list in Schedule 3 which relates to the work in question; or
-  - (ii) obtained an equivalent certificate, and successfully completed an equivalent module, in a specified state[^key-8bd1f546713f9d0d00c7d6ae932bb87a].
-- (d)[^key-a5609b137da30b3a63c9fe310077e2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) obtained an equivalent certificate, and successfully completed an equivalent module, in a specified state[^c-8bd1f546713f9d0d00c7d6ae932bb87a].
+- (d)[^c-a5609b137da30b3a63c9fe310077e2f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-cbfdbf17e87732efb2256a703aa12b2d] For the purposes of this regulation, a “**specified state**” means a state specified in Schedule 2 to the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023.
+(2)[^c-cbfdbf17e87732efb2256a703aa12b2d] For the purposes of this regulation, a “**specified state**” means a state specified in Schedule 2 to the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023.
 
 ### 5. Meaning of “relevant work”
 
@@ -134,13 +134,13 @@ In this Part, “**relevant work**” means any work which involves—
 
 - (a) under the supervision of a person who is so competent; and
 - (b) with a view to obtaining—
-  - (i) a qualification referred to in regulation 4(1)(a)[^key-b570c12a5a5c2a1b82f5fde24b876f8f]; or
+  - (i) a qualification referred to in regulation 4(1)(a)[^c-b570c12a5a5c2a1b82f5fde24b876f8f]; or
   - (ii) an in-house qualification.
 
 (6) A person who is not competent to carry out work with methyl bromide may carry out such work if the person does so under the supervision of a person who is so competent, and—
 
 - (a) with a view to—
-  - (i) obtaining the Certificate of Proficiency referred to in regulation 4(1)(c)[^key-53aa71e925ed9e1668280b4b7d797e15], and
+  - (i) obtaining the Certificate of Proficiency referred to in regulation 4(1)(c)[^c-53aa71e925ed9e1668280b4b7d797e15], and
   - (ii) completing any of the modules listed in Schedule 3; or
 - (b) if the person has obtained that Certificate of Proficiency, with a view to completing any of the modules listed in Schedule 3.
 
@@ -196,7 +196,7 @@ A person guilty of an offence under these Regulations is liable—
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine.
 
-### 11. Corporate offences[^key-4cc1981e060857f855aeb29922e85ee2]
+### 11. Corporate offences[^c-4cc1981e060857f855aeb29922e85ee2]
 
 (1) If an offence under these Regulations committed by a body corporate is proved—
 
@@ -464,7 +464,7 @@ Regulations 2(1), 12(6) and 13(3)
 
 ## SCHEDULE 2 — Table of Minimum Qualifications
 
-Regulations 4(1)(a)[^key-38802df7b8730933e19a6db271352b08] and 7(4)
+Regulations 4(1)(a)[^c-38802df7b8730933e19a6db271352b08] and 7(4)
 
 | *Tasks* | *Equipment* | *Minimum Qualification* |
 | --- | --- | --- |
@@ -480,7 +480,7 @@ Regulations 4(1)(a)[^key-38802df7b8730933e19a6db271352b08] and 7(4)
 
 ## SCHEDULE 3 — British Pest Control Association Modules
 
-Regulation 4(1)(c)[^key-ff6be8504334cf5efeb3f3586ada1751] and 6(6)
+Regulation 4(1)(c)[^c-ff6be8504334cf5efeb3f3586ada1751] and 6(6)
 
 - Module 1: Soil.
 - Module 2: Space fumigation, buildings, warehouses, silos and mills.
@@ -540,39 +540,39 @@ An impact assessment has not been produced for this instrument as no impact is f
 
 [^c22346971]: Marginal citation: OJ No L 286, 31.10.2009, p.1, amended by Commission Regulations (EU) No 744/2010 (OJ No L218, 19.8.2010, p.2), (EU) No 1087/2013 (OJ No L293, 5.11.2013, p.28) and (EU) No 1088/2013 (OJ No L293, 5.11.2013, p.29).
 
-[^key-aef00df357c95e7ccb24981770242cad]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/168/regulation/3) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/583/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aef00df357c95e7ccb24981770242cad]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/168/regulation/3) omitted (31.12.2020) by virtue of [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/583/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_0feb58ce-ee64-43d9-db7f-ac6bf8484a58]: Extent: This version of this provision extends to England, Scotland and Northern Ireland only; a separate version has been created for Wales only
 
-[^key-1c65987c49abcb84b271f38fc93730c8]: Textual amendment: Reg. 4 renumbered as reg. 4(1) (E.S.N.I.) (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/7/2) (as amended by [S.I. 2023/1294](https://www.legislation.gov.uk/uksi/2023/1294), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1294/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2023/1294/regulation/14/2))
+[^c-1c65987c49abcb84b271f38fc93730c8]: Textual amendment: Reg. 4 renumbered as reg. 4(1) (E.S.N.I.) (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/7/2) (as amended by [S.I. 2023/1294](https://www.legislation.gov.uk/uksi/2023/1294), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1294/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2023/1294/regulation/14/2))
 
-[^key-c6c84ac1ae2a283526c6603b91a6d941]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/1/a) inserted (E.S.N.I.) (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/7/3/a) (as amended by [S.I. 2023/1294](https://www.legislation.gov.uk/uksi/2023/1294), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1294/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2023/1294/regulation/14/2))
+[^c-c6c84ac1ae2a283526c6603b91a6d941]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/1/a) inserted (E.S.N.I.) (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/7/3/a) (as amended by [S.I. 2023/1294](https://www.legislation.gov.uk/uksi/2023/1294), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1294/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2023/1294/regulation/14/2))
 
-[^key-82e9af7c039fba7dbfd0fe625bb3c143]: Textual amendment: [Reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/1/c) substituted (E.S.N.I.) (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 7(3)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/7/3/b) (as amended by [S.I. 2023/1294](https://www.legislation.gov.uk/uksi/2023/1294), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1294/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2023/1294/regulation/14/2))
+[^c-82e9af7c039fba7dbfd0fe625bb3c143]: Textual amendment: [Reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/1/c) substituted (E.S.N.I.) (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 7(3)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/7/3/b) (as amended by [S.I. 2023/1294](https://www.legislation.gov.uk/uksi/2023/1294), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1294/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2023/1294/regulation/14/2))
 
-[^key-f148f7b975d869d3b435fa93e71c95cf]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/2) inserted (E.S.N.I.) (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 7(4)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/7/4) (as amended by [S.I. 2023/1294](https://www.legislation.gov.uk/uksi/2023/1294), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1294/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2023/1294/regulation/14/2))
+[^c-f148f7b975d869d3b435fa93e71c95cf]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/2) inserted (E.S.N.I.) (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 7(4)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/7/4) (as amended by [S.I. 2023/1294](https://www.legislation.gov.uk/uksi/2023/1294), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1294/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2023/1294/regulation/14/2))
 
 [^M_E_2bb33827-5984-4cf6-ceb2-852849ae6da1]: Extent: This version of this provision extends to Wales only; a separate version has been created for England, Scotland and Northern Ireland only
 
-[^key-c63b1d21ac3e7b9c9ebc40c540e89eff]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/168/regulation/4) renumbered as reg. 4(1) (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [8(2)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/8/2)
+[^c-c63b1d21ac3e7b9c9ebc40c540e89eff]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/168/regulation/4) renumbered as reg. 4(1) (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [8(2)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/8/2)
 
-[^key-de9dece8029605476e2066d864be84df]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/a) inserted (W.) (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 5(2)(a)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/5/2/a)
+[^c-de9dece8029605476e2066d864be84df]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/a) inserted (W.) (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 5(2)(a)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/5/2/a)
 
-[^key-9a068847ec08840830bb4412dadcdd45]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/1/a) substituted (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/8/3/a)
+[^c-9a068847ec08840830bb4412dadcdd45]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/1/a) substituted (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/8/3/a)
 
-[^key-7f9c1be07300f6ce7fae3c5006501281]: Textual amendment: [Reg. 4(c)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/c) substituted (W.) (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 5(2)(b)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/5/2/b)
+[^c-7f9c1be07300f6ce7fae3c5006501281]: Textual amendment: [Reg. 4(c)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/c) substituted (W.) (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Wales) (Amendment etc.) Regulations 2023 (S.I. 2023/1294)](https://www.legislation.gov.uk/wsi/2023/1294), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1294/regulation/1), [Sch. 3 para. 5(2)(b)](https://www.legislation.gov.uk/wsi/2023/1294/schedule/3/paragraph/5/2/b)
 
-[^key-8bd1f546713f9d0d00c7d6ae932bb87a]: Textual amendment: Words in [reg. 4(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/1/c/ii) substituted (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/8/3/a)
+[^c-8bd1f546713f9d0d00c7d6ae932bb87a]: Textual amendment: Words in [reg. 4(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/1/c/ii) substituted (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/8/3/a)
 
-[^key-a5609b137da30b3a63c9fe310077e2f8]: Textual amendment: [Reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/1/d) omitted (W.) (1.1.2025) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/8/3/b)
+[^c-a5609b137da30b3a63c9fe310077e2f8]: Textual amendment: [Reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/1/d) omitted (W.) (1.1.2025) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/8/3/b)
 
-[^key-cbfdbf17e87732efb2256a703aa12b2d]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/2) inserted (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [8(3)(c)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/8/3/c)
+[^c-cbfdbf17e87732efb2256a703aa12b2d]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/168/regulation/4/2) inserted (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [8(3)(c)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/8/3/c)
 
-[^key-b570c12a5a5c2a1b82f5fde24b876f8f]: Textual amendment: Word in [reg. 6(5)(b)(i)](https://www.legislation.gov.uk/uksi/2015/168/regulation/6/5/b/i) substituted (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [8(4)(a)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/8/4/a)
+[^c-b570c12a5a5c2a1b82f5fde24b876f8f]: Textual amendment: Word in [reg. 6(5)(b)(i)](https://www.legislation.gov.uk/uksi/2015/168/regulation/6/5/b/i) substituted (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [8(4)(a)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/8/4/a)
 
-[^key-53aa71e925ed9e1668280b4b7d797e15]: Textual amendment: Word in [reg. 6(6)(a)(i)](https://www.legislation.gov.uk/uksi/2015/168/regulation/6/6/a/i) substituted (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [8(4)(b)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/8/4/b)
+[^c-53aa71e925ed9e1668280b4b7d797e15]: Textual amendment: Word in [reg. 6(6)(a)(i)](https://www.legislation.gov.uk/uksi/2015/168/regulation/6/6/a/i) substituted (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/wsi/2024/1183), [regs. 1](https://www.legislation.gov.uk/wsi/2024/1183/regulation/1), [8(4)(b)](https://www.legislation.gov.uk/wsi/2024/1183/regulation/8/4/b)
 
-[^key-4cc1981e060857f855aeb29922e85ee2]: Modification: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/168/regulation/11) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
+[^c-4cc1981e060857f855aeb29922e85ee2]: Modification: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/168/regulation/11) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
 
 [^c22346991]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Section 70 was amended by section 28 of the Criminal Proceedings etc. (Reform)(Scotland) Act 2007 ([2007 asp 6](https://www.legislation.gov.uk/asp/2007/6)).
 
@@ -612,7 +612,7 @@ An impact assessment has not been produced for this instrument as no impact is f
 
 [^c22347171]: Marginal citation: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32).
 
-[^key-38802df7b8730933e19a6db271352b08]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/168/schedule/2) shoulder note substituted (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/uksi/2024/1183), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1183/regulation/1), [8(5)](https://www.legislation.gov.uk/uksi/2024/1183/regulation/8/5)
+[^c-38802df7b8730933e19a6db271352b08]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/168/schedule/2) shoulder note substituted (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/uksi/2024/1183), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1183/regulation/1), [8(5)](https://www.legislation.gov.uk/uksi/2024/1183/regulation/8/5)
 
 [^c22347181]: Marginal citation: Details can be obtained from City & Guilds, 1 Giltspur Street, London, EC1A 9DD; telephone number: 0844 543 000; email: centresupport@cityandguilds.com; website: www.cityandguilds.com.
 
@@ -620,4 +620,4 @@ An impact assessment has not been produced for this instrument as no impact is f
 
 [^c22347201]: Marginal citation: Details can be obtained from Fire Industry Association, Tudor House, Kingsway Business Park, Oldfield Road, Hampton, Middlesex, TW12 2HD; telephone number 020 3166 50002; email: info@fia.uk.com; website: fia.uk.com.
 
-[^key-ff6be8504334cf5efeb3f3586ada1751]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2015/168/schedule/3) shoulder note substituted (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/uksi/2024/1183), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1183/regulation/1), [8(6)](https://www.legislation.gov.uk/uksi/2024/1183/regulation/8/6)
+[^c-ff6be8504334cf5efeb3f3586ada1751]: Textual amendment: Word in [Sch. 3](https://www.legislation.gov.uk/uksi/2015/168/schedule/3) shoulder note substituted (W.) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland and Miscellaneous Provisions) (Wales) Regulations 2024 (S.I. 2024/1183)](https://www.legislation.gov.uk/uksi/2024/1183), [regs. 1](https://www.legislation.gov.uk/uksi/2024/1183/regulation/1), [8(6)](https://www.legislation.gov.uk/uksi/2024/1183/regulation/8/6)

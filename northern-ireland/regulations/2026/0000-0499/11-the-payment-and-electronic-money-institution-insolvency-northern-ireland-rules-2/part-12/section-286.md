@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 286. Proceedings other than special administration commenced[^key-2e71342bd00e5af87f38deded3649236]
+## 286. Proceedings other than special administration commenced[^c-2e71342bd00e5af87f38deded3649236]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e71342bd00e5af87f38deded3649236]: Commencement: [Rule 286](https://www.legislation.gov.uk/nisr/2026/11/rule/286) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-2e71342bd00e5af87f38deded3649236]: Commencement: [Rule 286](https://www.legislation.gov.uk/nisr/2026/11/rule/286) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

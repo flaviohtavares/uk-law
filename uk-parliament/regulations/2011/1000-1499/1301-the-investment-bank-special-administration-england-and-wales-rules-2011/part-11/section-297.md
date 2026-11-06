@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 297. Use of websites by administrator[^key-1c759323468dbe4dd02d14d31f4f345c]
+## 297. Use of websites by administrator[^c-1c759323468dbe4dd02d14d31f4f345c]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c759323468dbe4dd02d14d31f4f345c]: Commencement: [Rule 297](https://www.legislation.gov.uk/uksi/2011/1301/rule/297) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-1c759323468dbe4dd02d14d31f4f345c]: Commencement: [Rule 297](https://www.legislation.gov.uk/uksi/2011/1301/rule/297) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
 [^f00023]: Footnote: Section 246B was inserted by [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18).

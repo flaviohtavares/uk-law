@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Guidance, advice and information[^key-bc6aaf6e46145fb826672bbb2ee78798]
+## 125. Guidance, advice and information[^c-bc6aaf6e46145fb826672bbb2ee78798]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc6aaf6e46145fb826672bbb2ee78798]: Commencement: [S. 125](https://www.legislation.gov.uk/mwa/2011/1/section/125) in force at 7.1.2014 by [S.I. 2013/3140](https://www.legislation.gov.uk/wsi/2013/3140), [art. 2(f)](https://www.legislation.gov.uk/wsi/2013/3140/article/2/f)
+[^c-bc6aaf6e46145fb826672bbb2ee78798]: Commencement: [S. 125](https://www.legislation.gov.uk/mwa/2011/1/section/125) in force at 7.1.2014 by [S.I. 2013/3140](https://www.legislation.gov.uk/wsi/2013/3140), [art. 2(f)](https://www.legislation.gov.uk/wsi/2013/3140/article/2/f)

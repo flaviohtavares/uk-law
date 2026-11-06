@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. The FCA and financial services interfaces: supplementary[^key-5dafe7f6870e1de780eaef8142d3c790][^key-7f1de8625e149b6d5017f0b05131c744]
+## 15. The FCA and financial services interfaces: supplementary[^c-5dafe7f6870e1de780eaef8142d3c790][^c-7f1de8625e149b6d5017f0b05131c744]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,6 +86,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5dafe7f6870e1de780eaef8142d3c790]: Commencement: S. 15 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-5dafe7f6870e1de780eaef8142d3c790]: Commencement: S. 15 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-7f1de8625e149b6d5017f0b05131c744]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2025/18/section/15) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-7f1de8625e149b6d5017f0b05131c744]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2025/18/section/15) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

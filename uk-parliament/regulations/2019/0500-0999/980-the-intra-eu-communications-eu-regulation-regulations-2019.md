@@ -32,7 +32,7 @@ summary: ''
 
 Electronic Communications
 
-The Intra-EU Communications (EU Regulation) Regulations 2019 (revoked)[^key-2dbd2f5294a02a09c1f470305136b173]
+The Intra-EU Communications (EU Regulation) Regulations 2019 (revoked)[^c-2dbd2f5294a02a09c1f470305136b173]
 
 Made
 
@@ -46,78 +46,78 @@ Coming into force
 
 30th June 2019
 
-[^key-2dbd2f5294a02a09c1f470305136b173]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2dbd2f5294a02a09c1f470305136b173]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, saving and interpretation[^key-2dbd2f5294a02a09c1f470305136b173]
+## 1. Citation, commencement, saving and interpretation[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. National Regulatory Authority[^key-2dbd2f5294a02a09c1f470305136b173]
+## 2. National Regulatory Authority[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. BEREC guidelines[^key-2dbd2f5294a02a09c1f470305136b173]
+## 3. BEREC guidelines[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Information requirements[^key-2dbd2f5294a02a09c1f470305136b173]
+## 4. Information requirements[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Notification of breach[^key-2dbd2f5294a02a09c1f470305136b173]
+## 5. Notification of breach[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Enforcement of notification under regulation 5[^key-2dbd2f5294a02a09c1f470305136b173]
+## 6. Enforcement of notification under regulation 5[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Penalties for breach[^key-2dbd2f5294a02a09c1f470305136b173]
+## 7. Penalties for breach[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amount of penalty under Regulation 7[^key-2dbd2f5294a02a09c1f470305136b173]
+## 8. Amount of penalty under Regulation 7[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Calculation of turnover of notified person's relevant business[^key-2dbd2f5294a02a09c1f470305136b173]
+## 9. Calculation of turnover of notified person's relevant business[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Destination of penalties[^key-2dbd2f5294a02a09c1f470305136b173]
+## 10. Destination of penalties[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Offences in connection with information requirements[^key-2dbd2f5294a02a09c1f470305136b173]
+## 11. Offences in connection with information requirements[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Appeals against decisions by OFCOM[^key-2dbd2f5294a02a09c1f470305136b173]
+## 12. Appeals against decisions by OFCOM[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Decisions of the Tribunal[^key-2dbd2f5294a02a09c1f470305136b173]
+## 13. Decisions of the Tribunal[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Appeals from the Tribunal[^key-2dbd2f5294a02a09c1f470305136b173]
+## 14. Appeals from the Tribunal[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Service of notifications and other documents[^key-2dbd2f5294a02a09c1f470305136b173]
+## 15. Service of notifications and other documents[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Notifications and documents in electronic form[^key-2dbd2f5294a02a09c1f470305136b173]
+## 16. Notifications and documents in electronic form[^c-2dbd2f5294a02a09c1f470305136b173]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2dbd2f5294a02a09c1f470305136b173]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2dbd2f5294a02a09c1f470305136b173]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2dbd2f5294a02a09c1f470305136b173]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2dbd2f5294a02a09c1f470305136b173]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2dbd2f5294a02a09c1f470305136b173]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/980) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-2dbd2f5294a02a09c1f470305136b173]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/980) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

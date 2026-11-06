@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment[^f00001] makes the following Regulations in exercise of the powers conferred by Article 13(1) of the Weights and Measures (Northern Ireland) Order 1981[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-8c1beb635c469efaadc7daf2a7f3cccf]
+## 1. Citation and commencement[^c-8c1beb635c469efaadc7daf2a7f3cccf]
 
 These Regulations may be cited as the Measuring Instruments (Automatic Catchweighers) (Use for Trade) Regulations (Northern Ireland) 2007 and shall come into operation on 15th October 2007.
 
-## 2. Interpretation[^key-8e307aac0d8d96d14459e41924c41d57]
+## 2. Interpretation[^c-8e307aac0d8d96d14459e41924c41d57]
 
 In these Regulations—
 
@@ -59,9 +59,9 @@ In these Regulations—
 - “place on the market” means making available for the first time in a member State an instrument intended for an end user, whether for reward or free of charge; and
 - “put into use” means the first use of an instrument intended for the end user for the purposes for which it was intended.
 
-**2A.**[^key-7bc19a1d7ef8aa8528f9c6c7364bbd8d] In these Regulations a reference to member State includes Norway, Iceland or Liechtenstein.
+**2A.**[^c-7bc19a1d7ef8aa8528f9c6c7364bbd8d] In these Regulations a reference to member State includes Norway, Iceland or Liechtenstein.
 
-## 3. Application[^key-b81dfc31d36cf6bfcd08eba90002561a]
+## 3. Application[^c-b81dfc31d36cf6bfcd08eba90002561a]
 
 (1) Subject to paragraphs (2) and (3), these Regulations apply to an automatic catchweigher which is—
 
@@ -79,7 +79,7 @@ in respect of which a certificate of approval has been granted before 15th Octob
 
 (3) These Regulations do not apply to an automatic catchweigher to which the 2006 Regulations do not apply by virtue of regulation 3(3) to (4) thereof.
 
-## 4. Requirements for use for trade[^key-b51f2bfb562382614b34009c0a6af516]
+## 4. Requirements for use for trade[^c-b51f2bfb562382614b34009c0a6af516]
 
 A person shall not use for trade an automatic catchweigher unless—
 
@@ -89,22 +89,22 @@ A person shall not use for trade an automatic catchweigher unless—
 - (d) in the case of an automatic catchweigher of accuracy class Y(I), Y(II), Y(a), or Y(b) in automatic operation, it is within the maximum permissible error for that instrument as set out in Table 1 in Schedule 5 to the 2006 Regulations; and
 - (e) in the case of an automatic catchweigher of accuracy class Y(I), Y(II), Y(a) or Y(b) in non-automatic operation, it is within the maximum permissible error for that instrument as set out in Table 2 in Schedule 5 to the 2006 Regulations.
 
-## 5. Manner of use[^key-79453c7a086c536788152134abd78ded]
+## 5. Manner of use[^c-79453c7a086c536788152134abd78ded]
 
 An automatic catchweigher marked with a measurement range may be used for trade for determining the weight of any item by ascertaining the difference between the weight of that item and a separate item, where both items fall within the measurement range.
 
-**6.**[^key-6e164d90649657381795bdb7f2da79b2] Where an automatic catchweigher is marked with a measurement range a person shall not use that instrument for trade for determining a weight outside that range in relation—
+**6.**[^c-6e164d90649657381795bdb7f2da79b2] Where an automatic catchweigher is marked with a measurement range a person shall not use that instrument for trade for determining a weight outside that range in relation—
 
 - (a) to, or to articles made from, gold, silver or other precious metals, including gold or silver thread or fringe;
 - (b) to precious stones or pearls; or
 - (c) to drugs or other pharmaceutical products.
 
-**7.**[^key-7bc9a86b19a94aa19d23f2fa029a023f] A person shall not use for trade an automatic catchweigher other than an instrument of accuracy class Y(I) or Y(II) in any transaction—
+**7.**[^c-7bc9a86b19a94aa19d23f2fa029a023f] A person shall not use for trade an automatic catchweigher other than an instrument of accuracy class Y(I) or Y(II) in any transaction—
 
 - (a) in, or in articles made from, gold, silver or other precious metals, including gold or silver thread or fringe; or
 - (b) in precious stones or pearls.
 
-**8.**[^key-393328c380a7241a970be638dd997319] (1) Where an automatic catchweigher is marked with a temperature range, it shall not be used for trade in temperatures outside that range.
+**8.**[^c-393328c380a7241a970be638dd997319] (1) Where an automatic catchweigher is marked with a temperature range, it shall not be used for trade in temperatures outside that range.
 
 (2) Where an automatic catchweigher bears a mark which signifies the manner and purpose of use, it shall not be used for trade in a manner or for a purpose which does not accord with that marking.
 
@@ -117,7 +117,7 @@ An automatic catchweigher marked with a measurement range may be used for trade 
 
 (5) For the purposes of paragraph (3), “waste” shall be construed in accordance with Article 2 of the Waste and Contaminated Land (Northern Ireland) Order 1997[^f00007], and shall include any waste disposed of for reprocessing or recycling purposes but shall not include any radioactive waste as defined in section 2 of the Radioactive Substances Act 1993[^f00008].
 
-## 9. Manner of erection and installation[^key-c71b7b0f9f20810968bc5d8738250ca2]
+## 9. Manner of erection and installation[^c-c71b7b0f9f20810968bc5d8738250ca2]
 
 (1) Every automatic catchweigher shall be so positioned as to facilitate cleaning and testing.
 
@@ -147,32 +147,32 @@ The Regulations have been notified to the European Commission in draft pursuant 
 
 [^f00003]: Footnote: By [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846) Art. 4
 
-[^key-8c1beb635c469efaadc7daf2a7f3cccf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
+[^c-8c1beb635c469efaadc7daf2a7f3cccf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
 
-[^key-8e307aac0d8d96d14459e41924c41d57]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/383/regulation/2) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
+[^c-8e307aac0d8d96d14459e41924c41d57]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/383/regulation/2) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2006/1257](https://www.legislation.gov.uk/uksi/2006/1257)
 
-[^key-7bc19a1d7ef8aa8528f9c6c7364bbd8d]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2007/383/regulation/2A) inserted (17.3.2008) by [The Measuring Instruments (Use for Trade) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/52)](https://www.legislation.gov.uk/nisr/2008/52), [regs. 1](https://www.legislation.gov.uk/nisr/2008/52/regulation/1), [2](https://www.legislation.gov.uk/nisr/2008/52/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/52/schedule)
+[^c-7bc19a1d7ef8aa8528f9c6c7364bbd8d]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2007/383/regulation/2A) inserted (17.3.2008) by [The Measuring Instruments (Use for Trade) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/52)](https://www.legislation.gov.uk/nisr/2008/52), [regs. 1](https://www.legislation.gov.uk/nisr/2008/52/regulation/1), [2](https://www.legislation.gov.uk/nisr/2008/52/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/52/schedule)
 
-[^key-b81dfc31d36cf6bfcd08eba90002561a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/383/regulation/3) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
+[^c-b81dfc31d36cf6bfcd08eba90002561a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/383/regulation/3) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2006 No. 5](https://www.legislation.gov.uk/nisr/2006/5)
 
 [^f00006]: Footnote: [S.R. 2006 No. 154](https://www.legislation.gov.uk/nisr/2006/154)
 
-[^key-b51f2bfb562382614b34009c0a6af516]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/383/regulation/4) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
+[^c-b51f2bfb562382614b34009c0a6af516]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/383/regulation/4) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
 
-[^key-79453c7a086c536788152134abd78ded]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/383/regulation/5) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
+[^c-79453c7a086c536788152134abd78ded]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/383/regulation/5) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
 
-[^key-6e164d90649657381795bdb7f2da79b2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/383/regulation/6) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
+[^c-6e164d90649657381795bdb7f2da79b2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/383/regulation/6) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
 
-[^key-7bc9a86b19a94aa19d23f2fa029a023f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/383/regulation/7) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
+[^c-7bc9a86b19a94aa19d23f2fa029a023f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/383/regulation/7) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
 
-[^key-393328c380a7241a970be638dd997319]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/383/regulation/8) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
+[^c-393328c380a7241a970be638dd997319]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/383/regulation/8) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778)
 
 [^f00008]: Footnote: [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12)
 
-[^key-c71b7b0f9f20810968bc5d8738250ca2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/383/regulation/9) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)
+[^c-c71b7b0f9f20810968bc5d8738250ca2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/383/regulation/9) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/383/regulation/1)

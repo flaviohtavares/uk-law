@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Notification of assessment[^key-25b5fa963364dd950a1032a6e0fcbe45]
+## 49. Notification of assessment[^c-25b5fa963364dd950a1032a6e0fcbe45]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25b5fa963364dd950a1032a6e0fcbe45]: Textual amendment: Reg. 49 revoked (1.6.2011) by [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/11/c)
+[^c-25b5fa963364dd950a1032a6e0fcbe45]: Textual amendment: Reg. 49 revoked (1.6.2011) by [The Employment and Support Allowance (Work-Related Activity) Regulations 2011 (S.I. 2011/1349)](https://www.legislation.gov.uk/uksi/2011/1349), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1349/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2011/1349/regulation/11/c)

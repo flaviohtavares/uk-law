@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Interpretation of Part 13[^key-f5889dc41185dde69618387a3854be76]
+## 74. Interpretation of Part 13[^c-f5889dc41185dde69618387a3854be76]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In this Part––
 
 ## Annotations
 
-[^key-f5889dc41185dde69618387a3854be76]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2014/8/section/74) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-f5889dc41185dde69618387a3854be76]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2014/8/section/74) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)

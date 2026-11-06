@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-48d4d7e0e88d713a9f0adcf310b14b1f][^key-6b48a77aa21ad35421f5b12d2e92d656] For section 27 of the WRA (rights to abstract small quantities) there is substituted—
+(1)[^c-48d4d7e0e88d713a9f0adcf310b14b1f][^c-6b48a77aa21ad35421f5b12d2e92d656] For section 27 of the WRA (rights to abstract small quantities) there is substituted—
 
 > **27. Rights to abstract small quantities**
 >
@@ -74,12 +74,12 @@ summary: ''
 >
 > (8) A statutory instrument containing an order under subsection (1) above shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(2)[^key-344deeba567087d433b081346d11c107] Section 28 of the WRA shall cease to have effect.
+(2)[^c-344deeba567087d433b081346d11c107] Section 28 of the WRA shall cease to have effect.
 
 ## Annotations
 
-[^key-48d4d7e0e88d713a9f0adcf310b14b1f]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/6/1) in force at 1.4.2004 for specified purposes by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/641/article/3/a) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/1)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-48d4d7e0e88d713a9f0adcf310b14b1f]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/6/1) in force at 1.4.2004 for specified purposes by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/641/article/3/a) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/1)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-6b48a77aa21ad35421f5b12d2e92d656]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/6/1) in force at 1.4.2005 in so far as not already in force by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/968/article/2/a)
+[^c-6b48a77aa21ad35421f5b12d2e92d656]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/6/1) in force at 1.4.2005 in so far as not already in force by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/968/article/2/a)
 
-[^key-344deeba567087d433b081346d11c107]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/6/2) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/968/article/2/a)
+[^c-344deeba567087d433b081346d11c107]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/6/2) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/968/article/2/a)

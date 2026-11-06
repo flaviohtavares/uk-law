@@ -37,16 +37,16 @@ concerning the accession of the European Atomic Energy Community to the ‘Joint
 
 (2005/510/Euratom) (revoked)
 
-[^key-d2cc78920cfe9ac31f79f7bbf2a2670c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2cc78920cfe9ac31f79f7bbf2a2670c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-d2cc78920cfe9ac31f79f7bbf2a2670c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d2cc78920cfe9ac31f79f7bbf2a2670c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d2cc78920cfe9ac31f79f7bbf2a2670c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d2cc78920cfe9ac31f79f7bbf2a2670c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d2cc78920cfe9ac31f79f7bbf2a2670c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d2cc78920cfe9ac31f79f7bbf2a2670c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d2cc78920cfe9ac31f79f7bbf2a2670c]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-d2cc78920cfe9ac31f79f7bbf2a2670c]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

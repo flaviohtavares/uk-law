@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 15 — DESIGN PARAMETERS[^key-618d7608c7f3a0e1bd084a898102623f]
+## SCHEDULE 15 — DESIGN PARAMETERS[^c-618d7608c7f3a0e1bd084a898102623f]
 
 *Extent: E+W+S*
 
@@ -28,10 +28,10 @@ Table 14
 | --- | --- | --- | --- |
 | Gas turbine hall | 76 | 76 | 43 |
 | Heat recovery steam generator building | 63 | 28 | 63 |
-| Heat recovery steam generator stack |  | 9.0 m[^key-38d4aecb313e81c1e4cd8d045e3344fe]<br>(inner diameter) | 98 |
+| Heat recovery steam generator stack |  | 9.0 m[^c-38d4aecb313e81c1e4cd8d045e3344fe]<br>(inner diameter) | 98 |
 | Steam turbine hall | 64 | 54 | 43 |
 | Absorber tower | 35 | 25 | 93 |
-| Absorber stack |  | 7.0 m[^key-e1f392608b4eaedf2521c13a3c90ee8c]<br>(inner diameter) | 128 |
+| Absorber stack |  | 7.0 m[^c-e1f392608b4eaedf2521c13a3c90ee8c]<br>(inner diameter) | 128 |
 | Low carbon electricity generating station electrical substation | 130 | 120 | 42 |
 | New electrical substation at Tod Point |  |  | 22 |
 | National Grid Tod Point substation extension (northern bay) |  |  | 22 |
@@ -39,8 +39,8 @@ Table 14
 
 ## Annotations
 
-[^key-618d7608c7f3a0e1bd084a898102623f]: Commencement: Sch. 15 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-618d7608c7f3a0e1bd084a898102623f]: Commencement: Sch. 15 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-38d4aecb313e81c1e4cd8d045e3344fe]: Textual amendment: Word in [Sch. 15](https://www.legislation.gov.uk/uksi/2024/174/schedule/15) Table 14 substituted (29.7.2026) by [The Net Zero Teesside (Amendment) Order 2026 (S.I. 2026/890)](https://www.legislation.gov.uk/uksi/2026/890), [arts. 1](https://www.legislation.gov.uk/uksi/2026/890/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/890/article/3/a)
+[^c-38d4aecb313e81c1e4cd8d045e3344fe]: Textual amendment: Word in [Sch. 15](https://www.legislation.gov.uk/uksi/2024/174/schedule/15) Table 14 substituted (29.7.2026) by [The Net Zero Teesside (Amendment) Order 2026 (S.I. 2026/890)](https://www.legislation.gov.uk/uksi/2026/890), [arts. 1](https://www.legislation.gov.uk/uksi/2026/890/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/890/article/3/a)
 
-[^key-e1f392608b4eaedf2521c13a3c90ee8c]: Textual amendment: Word in [Sch. 15](https://www.legislation.gov.uk/uksi/2024/174/schedule/15) Table 14 substituted (29.7.2026) by [The Net Zero Teesside (Amendment) Order 2026 (S.I. 2026/890)](https://www.legislation.gov.uk/uksi/2026/890), [arts. 1](https://www.legislation.gov.uk/uksi/2026/890/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2026/890/article/3/b)
+[^c-e1f392608b4eaedf2521c13a3c90ee8c]: Textual amendment: Word in [Sch. 15](https://www.legislation.gov.uk/uksi/2024/174/schedule/15) Table 14 substituted (29.7.2026) by [The Net Zero Teesside (Amendment) Order 2026 (S.I. 2026/890)](https://www.legislation.gov.uk/uksi/2026/890), [arts. 1](https://www.legislation.gov.uk/uksi/2026/890/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2026/890/article/3/b)

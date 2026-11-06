@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Amendment of regulation 16: Exclusion of activities under other control regimes from waste management licensing[^key-85ad33e138436edba9237a481d95121f]
+## 38. Amendment of regulation 16: Exclusion of activities under other control regimes from waste management licensing[^c-85ad33e138436edba9237a481d95121f]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-85ad33e138436edba9237a481d95121f]: Commencement: Reg. 38 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-85ad33e138436edba9237a481d95121f]: Commencement: Reg. 38 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00028]: Footnote: [1970, Chapter 1](https://www.legislation.gov.uk/apni/1970/1)

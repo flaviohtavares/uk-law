@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 111. Calculation of capital[^key-3455ee0a122bad3fd9732aa7d4c7bcb6]
+## 111. Calculation of capital[^c-3455ee0a122bad3fd9732aa7d4c7bcb6]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3455ee0a122bad3fd9732aa7d4c7bcb6]: Commencement: [Reg. 111](https://www.legislation.gov.uk/nisr/2008/280/regulation/111) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-3455ee0a122bad3fd9732aa7d4c7bcb6]: Commencement: [Reg. 111](https://www.legislation.gov.uk/nisr/2008/280/regulation/111) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

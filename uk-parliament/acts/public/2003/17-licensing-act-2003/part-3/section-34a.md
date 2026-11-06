@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 34A. Applications to vary of potential strategic importance: Greater London[^key-a90996c1d937654b27e1c0d6133f0b71]
+## 34A. Applications to vary of potential strategic importance: Greater London[^c-a90996c1d937654b27e1c0d6133f0b71]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a90996c1d937654b27e1c0d6133f0b71]: Textual amendment: [S. 34A](https://www.legislation.gov.uk/ukpga/2003/17/section/34A) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/13) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))
+[^c-a90996c1d937654b27e1c0d6133f0b71]: Textual amendment: [S. 34A](https://www.legislation.gov.uk/ukpga/2003/17/section/34A) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 26 para. 13](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/13) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))

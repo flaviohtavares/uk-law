@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 142. Period of eligibility[^key-c6ba45d7ea569f8a3f719f63b6a7594a]
+## 142. Period of eligibility[^c-c6ba45d7ea569f8a3f719f63b6a7594a]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ the Department may, at any time, renew or extend the period of eligibility for s
 
 ## Annotations
 
-[^key-c6ba45d7ea569f8a3f719f63b6a7594a]: Commencement: Reg. 142 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-c6ba45d7ea569f8a3f719f63b6a7594a]: Commencement: Reg. 142 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

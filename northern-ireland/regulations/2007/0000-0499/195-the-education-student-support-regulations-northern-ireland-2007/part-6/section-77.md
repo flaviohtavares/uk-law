@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Applying for an additional amount of loan for living costs[^key-50eb4e724b72678aa1299e9c09b71f85]
+## 77. Applying for an additional amount of loan for living costs[^c-50eb4e724b72678aa1299e9c09b71f85]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50eb4e724b72678aa1299e9c09b71f85]: Commencement: [Reg. 77](https://www.legislation.gov.uk/nisr/2007/195/regulation/77) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-50eb4e724b72678aa1299e9c09b71f85]: Commencement: [Reg. 77](https://www.legislation.gov.uk/nisr/2007/195/regulation/77) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

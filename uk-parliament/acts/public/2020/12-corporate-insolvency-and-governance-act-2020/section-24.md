@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The Secretary of State may not make regulations under section 20 after 29 April 2022[^key-5e06bb41e02966028eae4eef7af9a54c].
+(1) The Secretary of State may not make regulations under section 20 after 29 April 2022[^c-5e06bb41e02966028eae4eef7af9a54c].
 
 (2) Where regulations under section 20 are in force on the date specified in subsection (1), that subsection does not—
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e06bb41e02966028eae4eef7af9a54c]: Textual amendment: Words in [s. 24(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/24/1) substituted (1.4.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Change of Expiry Date) Regulations 2021 (S.I. 2021/441)](https://www.legislation.gov.uk/uksi/2021/441), [regs. 1](https://www.legislation.gov.uk/uksi/2021/441/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/441/regulation/2)
+[^c-5e06bb41e02966028eae4eef7af9a54c]: Textual amendment: Words in [s. 24(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/24/1) substituted (1.4.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Change of Expiry Date) Regulations 2021 (S.I. 2021/441)](https://www.legislation.gov.uk/uksi/2021/441), [regs. 1](https://www.legislation.gov.uk/uksi/2021/441/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/441/regulation/2)

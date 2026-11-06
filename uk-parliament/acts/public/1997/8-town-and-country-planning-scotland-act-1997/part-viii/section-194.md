@@ -28,8 +28,8 @@ summary: ''
 (2) Subsection (1) shall not apply—
 
 - (a) to any right vested in, or apparatus belonging to, statutory undertakers for the purpose of the carrying on of their undertaking,
-- (b) to any right conferred by or in accordance with the electronic communications code[^key-2ce6dbe10ccf1e42341397db186e5013] on the operator of an electronic communications code network[^key-b4849636167ddd20e3647edb89a51be4], or
-- (c) to any electronic communications apparatus[^key-f91c7f7d4502bc722ec89f7c16d48f76] kept installed for the purposes of any such network[^key-880ba51302f00d7159103c743179a759] .
+- (b) to any right conferred by or in accordance with the electronic communications code[^c-2ce6dbe10ccf1e42341397db186e5013] on the operator of an electronic communications code network[^c-b4849636167ddd20e3647edb89a51be4], or
+- (c) to any electronic communications apparatus[^c-f91c7f7d4502bc722ec89f7c16d48f76] kept installed for the purposes of any such network[^c-880ba51302f00d7159103c743179a759] .
 
 (3) In respect of any right or apparatus not falling within subsection (2), subsection (1) shall have effect subject—
 
@@ -42,12 +42,12 @@ summary: ''
 
 ## Annotations
 
-[^key-2ce6dbe10ccf1e42341397db186e5013]: Textual amendment: Words in s. 194(2) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/a)[(2)(e)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/e)
+[^c-2ce6dbe10ccf1e42341397db186e5013]: Textual amendment: Words in s. 194(2) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/a)[(2)(e)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/e)
 
-[^key-b4849636167ddd20e3647edb89a51be4]: Textual amendment: Words in s. 194(2) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/a)[(2)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/a)
+[^c-b4849636167ddd20e3647edb89a51be4]: Textual amendment: Words in s. 194(2) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/a)[(2)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/a)
 
-[^key-f91c7f7d4502bc722ec89f7c16d48f76]: Textual amendment: Words in s. 194(2) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/a)[(2)(d)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/d)
+[^c-f91c7f7d4502bc722ec89f7c16d48f76]: Textual amendment: Words in s. 194(2) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/a)[(2)(d)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/d)
 
-[^key-880ba51302f00d7159103c743179a759]: Textual amendment: Word in [s. 194(2)](https://www.legislation.gov.uk/ukpga/1997/8/section/194/2) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [Sch. 1 para. 13(1)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/a), [(2)(f)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/f)
+[^c-880ba51302f00d7159103c743179a759]: Textual amendment: Word in [s. 194(2)](https://www.legislation.gov.uk/ukpga/1997/8/section/194/2) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [Sch. 1 para. 13(1)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/a), [(2)(f)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/f)
 
 [^c950194]: Marginal citation: [1963 c. 51](https://www.legislation.gov.uk/ukpga/1963/51).

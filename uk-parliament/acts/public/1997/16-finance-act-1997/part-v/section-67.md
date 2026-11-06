@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Annuity business of insurance companies.[^key-e951786c4860f14bc56b240f6db947d1]
+## 67. Annuity business of insurance companies.[^c-e951786c4860f14bc56b240f6db947d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e951786c4860f14bc56b240f6db947d1]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/1997/16/section/67) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(h)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/h)
+[^c-e951786c4860f14bc56b240f6db947d1]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/1997/16/section/67) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(h)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/h)

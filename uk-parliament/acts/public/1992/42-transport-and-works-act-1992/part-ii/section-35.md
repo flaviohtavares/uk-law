@@ -27,7 +27,7 @@ summary: ''
 
 (2) In such proceedings, evidence of the proportion of alcohol or a drug in a specimen of blood or urine may be given by the production of a document purporting to be a certificate signed by an authorised analyst identifying the specimen and stating the proportion of alcohol or drug found in it.
 
-(3) In such proceedings, evidence that a specimen of blood was taken from the accused with his consent by a medical practitioner or a registered health care professional[^key-f38e55c3cd75265e4c683173f661440d] may be given by the production of a document purporting to be a certificate to that effect signed by the practitioner or a registered health care professional .
+(3) In such proceedings, evidence that a specimen of blood was taken from the accused with his consent by a medical practitioner or a registered health care professional[^c-f38e55c3cd75265e4c683173f661440d] may be given by the production of a document purporting to be a certificate to that effect signed by the practitioner or a registered health care professional .
 
 (4) A document such as is mentioned in subsection (1) above shall be admissible in evidence on behalf of the prosecution in pursuance of this section only if a copy of it either was handed to the accused when the document was produced or was served on him not later than seven days before the hearing.
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) A document purporting to be a certificate (or so much of a document as purports to be a certificate) shall not be admissible in evidence on behalf of the prosecution in pursuance of this section if the accused, not later than three days before the hearing or within such further time as the court may in special circumstances allow, has served notice on the prosecutor requiring the attendance at the hearing of the person by whom the document purports to be signed.
 
-(7) In this section “**served**” means , in relation to proceedings in England and Wales, served in accordance with Criminal Procedure Rules or, otherwise,[^key-6b10117ebbf72a3a54aac6a4d0128fb0] served personally or sent by registered post or recorded delivery service.
+(7) In this section “**served**” means , in relation to proceedings in England and Wales, served in accordance with Criminal Procedure Rules or, otherwise,[^c-6b10117ebbf72a3a54aac6a4d0128fb0] served personally or sent by registered post or recorded delivery service.
 
 (8) In subsection (2) above “**authorised analyst**” means—
 
@@ -46,9 +46,9 @@ summary: ''
 
 [^c8596021]: Commencement: Pt. II Ch. 1 (ss. 26-40) wholly in force at 7. 12. 1992 see s. 70 and [S.I. 1992/2043](https://www.legislation.gov.uk/uksi/1992/2043), [art. 2(a)](https://www.legislation.gov.uk/uksi/1992/2043/article/2/a).
 
-[^key-f38e55c3cd75265e4c683173f661440d]: Textual amendment: Words in s. 35(3) inserted (1.4.2003) by virtue of [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [ss. 58(9)](https://www.legislation.gov.uk/ukpga/2002/30/section/58/9), [108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2); [S.I. 2003/808](https://www.legislation.gov.uk/uksi/2003/808), [art. 2(e)](https://www.legislation.gov.uk/uksi/2003/808/article/2/e)
+[^c-f38e55c3cd75265e4c683173f661440d]: Textual amendment: Words in s. 35(3) inserted (1.4.2003) by virtue of [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [ss. 58(9)](https://www.legislation.gov.uk/ukpga/2002/30/section/58/9), [108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2); [S.I. 2003/808](https://www.legislation.gov.uk/uksi/2003/808), [art. 2(e)](https://www.legislation.gov.uk/uksi/2003/808/article/2/e)
 
-[^key-6b10117ebbf72a3a54aac6a4d0128fb0]: Textual amendment: Words in [s. 35(7)](https://www.legislation.gov.uk/ukpga/1992/42/section/35/7) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2022/35/schedule/1/paragraph/12)
+[^c-6b10117ebbf72a3a54aac6a4d0128fb0]: Textual amendment: Words in [s. 35(7)](https://www.legislation.gov.uk/ukpga/1992/42/section/35/7) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2022/35/schedule/1/paragraph/12)
 
 [^c8596031]: Marginal citation: [1984 c. 30](https://www.legislation.gov.uk/ukpga/1984/30).
 

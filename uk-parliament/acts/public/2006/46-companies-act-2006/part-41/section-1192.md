@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to any express provision to the contrary,[^key-12307d84495454e622b0f2b3403e0ba9] this Chapter applies to any person carrying on business in the United Kingdom.
+(1) Subject to any express provision to the contrary,[^c-12307d84495454e622b0f2b3403e0ba9] this Chapter applies to any person carrying on business in the United Kingdom.
 
 (2) The provisions of this Chapter do not prevent—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12307d84495454e622b0f2b3403e0ba9]: Textual amendment: Words in [s. 1192(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/1192/1) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/25/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/t)
+[^c-12307d84495454e622b0f2b3403e0ba9]: Textual amendment: Words in [s. 1192(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/1192/1) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/25/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/t)

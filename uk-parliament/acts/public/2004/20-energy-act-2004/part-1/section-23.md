@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Borrowing by the NDA[^key-64c33c4edff17d31be38fd9b8a02310b]
+## 23. Borrowing by the NDA[^c-64c33c4edff17d31be38fd9b8a02310b]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ and nothing in section 22(3) requires the repayment of sums received by way of s
 
 ## Annotations
 
-[^key-64c33c4edff17d31be38fd9b8a02310b]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2004/20/section/23) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-64c33c4edff17d31be38fd9b8a02310b]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2004/20/section/23) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

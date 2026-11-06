@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76A. Fixed penalty notices[^key-72e7082ed965a3ae624b4ea4bb1526df]
+## 76A. Fixed penalty notices[^c-72e7082ed965a3ae624b4ea4bb1526df]
 
 *Extent: S*
 
@@ -92,4 +92,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72e7082ed965a3ae624b4ea4bb1526df]: Textual amendment: [S. 76A](https://www.legislation.gov.uk/ukpga/1981/22/section/76A) inserted (S.) (30.11.2020) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 6](https://www.legislation.gov.uk/asp/2020/14/section/6), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule)
+[^c-72e7082ed965a3ae624b4ea4bb1526df]: Textual amendment: [S. 76A](https://www.legislation.gov.uk/ukpga/1981/22/section/76A) inserted (S.) (30.11.2020) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 6](https://www.legislation.gov.uk/asp/2020/14/section/6), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule)

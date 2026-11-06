@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Annual general levy and complaints levy[^key-71b6dbecde40007abed189670f552723]
+## 63. Annual general levy and complaints levy[^c-71b6dbecde40007abed189670f552723]
 
 *Extent: S*
 
@@ -118,4 +118,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71b6dbecde40007abed189670f552723]: Commencement: S. 63 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-71b6dbecde40007abed189670f552723]: Commencement: S. 63 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

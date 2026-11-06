@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72A. Reporting Funds not operating equalisation: income adjustments based on reportable income for computation periods[^key-776e18df5fdac5abc16fdc4f95da5c77]
+## 72A. Reporting Funds not operating equalisation: income adjustments based on reportable income for computation periods[^c-776e18df5fdac5abc16fdc4f95da5c77]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-776e18df5fdac5abc16fdc4f95da5c77]: Textual amendment: Regs. 72A-72C and cross-heading inserted (28.6.2013) by [The Offshore Funds (Tax) (Amendment No. 2) Regulations 2013 (S.I. 2013/1411)](https://www.legislation.gov.uk/uksi/2013/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2013/1411/regulation/6) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/4))
+[^c-776e18df5fdac5abc16fdc4f95da5c77]: Textual amendment: Regs. 72A-72C and cross-heading inserted (28.6.2013) by [The Offshore Funds (Tax) (Amendment No. 2) Regulations 2013 (S.I. 2013/1411)](https://www.legislation.gov.uk/uksi/2013/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2013/1411/regulation/6) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/4))

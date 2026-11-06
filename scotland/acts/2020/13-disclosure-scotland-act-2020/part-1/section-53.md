@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Notification and review of decisions: removal from register or refusal of registration or nomination[^key-77d4a36d7d2347c01f97e37974ca1cdd]
+## 53. Notification and review of decisions: removal from register or refusal of registration or nomination[^c-77d4a36d7d2347c01f97e37974ca1cdd]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ they must also notify the accredited body of their decision.
 
 ## Annotations
 
-[^key-77d4a36d7d2347c01f97e37974ca1cdd]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2020/13/section/53) in force at 3.3.2025 by [S.S.I. 2025/2](https://www.legislation.gov.uk/ssi/2025/2), [reg. 2](https://www.legislation.gov.uk/ssi/2025/2/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/2/schedule)
+[^c-77d4a36d7d2347c01f97e37974ca1cdd]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2020/13/section/53) in force at 3.3.2025 by [S.S.I. 2025/2](https://www.legislation.gov.uk/ssi/2025/2), [reg. 2](https://www.legislation.gov.uk/ssi/2025/2/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/2/schedule)

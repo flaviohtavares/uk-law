@@ -26,7 +26,7 @@ summary: ''
 
 ARMS AND AMMUNITION
 
-The Firearms (Amendment) Rules 1994 (revoked)[^key-b6823fa5ecfca31a02c908473ef5930f]
+The Firearms (Amendment) Rules 1994 (revoked)[^c-b6823fa5ecfca31a02c908473ef5930f]
 
 Made
 
@@ -36,28 +36,28 @@ Coming into force
 
 1st January 1995
 
-[^key-b6823fa5ecfca31a02c908473ef5930f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6823fa5ecfca31a02c908473ef5930f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-b6823fa5ecfca31a02c908473ef5930f]
+## 1.[^c-b6823fa5ecfca31a02c908473ef5930f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-b6823fa5ecfca31a02c908473ef5930f]
+## 2.[^c-b6823fa5ecfca31a02c908473ef5930f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-b6823fa5ecfca31a02c908473ef5930f]
+## 3.[^c-b6823fa5ecfca31a02c908473ef5930f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b6823fa5ecfca31a02c908473ef5930f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6823fa5ecfca31a02c908473ef5930f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b6823fa5ecfca31a02c908473ef5930f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6823fa5ecfca31a02c908473ef5930f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b6823fa5ecfca31a02c908473ef5930f]: Textual amendment: Rules revoked (1.9.1998) by [The Firearms Rules 1998 (S.I. 1998/1941)](https://www.legislation.gov.uk/uksi/1998/1941), [Sch. 6](https://www.legislation.gov.uk/uksi/1998/1941/schedule/6) \[Editorial note: No historical versions of this S.I.have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]
+[^c-b6823fa5ecfca31a02c908473ef5930f]: Textual amendment: Rules revoked (1.9.1998) by [The Firearms Rules 1998 (S.I. 1998/1941)](https://www.legislation.gov.uk/uksi/1998/1941), [Sch. 6](https://www.legislation.gov.uk/uksi/1998/1941/schedule/6) \[Editorial note: No historical versions of this S.I.have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]

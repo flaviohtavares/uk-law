@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Amount of the grant for travel – courses in medicine and dentistry[^key-6ce052978e6bb100d8b43b1fb7ad3afc]
+## 49. Amount of the grant for travel – courses in medicine and dentistry[^c-6ce052978e6bb100d8b43b1fb7ad3afc]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ The amount of grant payable under regulation 48 in respect of an academic year i
 
 ## Annotations
 
-[^key-6ce052978e6bb100d8b43b1fb7ad3afc]: Commencement: Reg. 49 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-6ce052978e6bb100d8b43b1fb7ad3afc]: Commencement: Reg. 49 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

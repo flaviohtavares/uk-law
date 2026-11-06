@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Disposal of charge[^key-c9380a4498636717b8a89e5bbffea553][^c2087302]
+## 214. Disposal of charge[^c-c9380a4498636717b8a89e5bbffea553][^c2087302]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c9380a4498636717b8a89e5bbffea553]: Modification: S. 214 modified (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/990/article/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2016/990/article/6/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2016/990/schedule/3)
+[^c-c9380a4498636717b8a89e5bbffea553]: Modification: S. 214 modified (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/990/article/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2016/990/article/6/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2016/990/schedule/3)
 
 [^c2087302]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Contractual duties of confidentiality relating to harassment and discrimination[^key-69284b5c5a5eadfe5c9d06bbc08d3487]
+## 24. Contractual duties of confidentiality relating to harassment and discrimination[^c-69284b5c5a5eadfe5c9d06bbc08d3487]
 
 *Extent: E+W+S*
 
-(1)[^key-20138684693ae93331d306bc6a62bf4a][^key-a1ca6ced8496f233eb2976f150d2eeab] The [Employment Rights Act 1996](https://www.legislation.gov.uk/ukpga/1996/18/contents) is amended as follows.
+(1)[^c-20138684693ae93331d306bc6a62bf4a][^c-a1ca6ced8496f233eb2976f150d2eeab] The [Employment Rights Act 1996](https://www.legislation.gov.uk/ukpga/1996/18/contents) is amended as follows.
 
-(2)[^key-bb736e1d2fbdb0138d84d1b2b8fb2def] After [section 202](https://www.legislation.gov.uk/ukpga/1996/18/section/202) insert—
+(2)[^c-bb736e1d2fbdb0138d84d1b2b8fb2def] After [section 202](https://www.legislation.gov.uk/ukpga/1996/18/section/202) insert—
 
 > **Harassment and discrimination: contractual duties of confidentiality**
 >
@@ -88,18 +88,18 @@ summary: ''
 
 (4) In [section 193](https://www.legislation.gov.uk/ukpga/1996/18/section/193) (provisions of Act which do not apply in relation to the security services), for “section 47B” substitute “sections 47B and 202A”.
 
-(5)[^key-747239835e0eb9ee94353de4369657c0][^key-6bdaaf18a0a5714711b2152ece83a0e8] In [section 236](https://www.legislation.gov.uk/ukpga/1996/18/section/236)[(3)](https://www.legislation.gov.uk/ukpga/1996/18/section/236) (regulations subject to affirmative procedure), after “125(7)” insert “, 202A”.
+(5)[^c-747239835e0eb9ee94353de4369657c0][^c-6bdaaf18a0a5714711b2152ece83a0e8] In [section 236](https://www.legislation.gov.uk/ukpga/1996/18/section/236)[(3)](https://www.legislation.gov.uk/ukpga/1996/18/section/236) (regulations subject to affirmative procedure), after “125(7)” insert “, 202A”.
 
 ## Annotations
 
-[^key-69284b5c5a5eadfe5c9d06bbc08d3487]: Commencement: S. 24 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-69284b5c5a5eadfe5c9d06bbc08d3487]: Commencement: S. 24 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-20138684693ae93331d306bc6a62bf4a]: Commencement: [S. 24(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/24/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(10)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/10/a)
+[^c-20138684693ae93331d306bc6a62bf4a]: Commencement: [S. 24(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/24/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(10)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/10/a)
 
-[^key-a1ca6ced8496f233eb2976f150d2eeab]: Commencement: [S. 24(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/24/1) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(3)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/3/a)
+[^c-a1ca6ced8496f233eb2976f150d2eeab]: Commencement: [S. 24(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/24/1) in force at 6.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(3)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/3/a)
 
-[^key-bb736e1d2fbdb0138d84d1b2b8fb2def]: Commencement: [S. 24(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/24/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(10)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/10/b)
+[^c-bb736e1d2fbdb0138d84d1b2b8fb2def]: Commencement: [S. 24(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/24/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(10)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/10/b)
 
-[^key-747239835e0eb9ee94353de4369657c0]: Commencement: By [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(10)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/10/c), it is provided that s. 24(7) is in force at 6.1.2026
+[^c-747239835e0eb9ee94353de4369657c0]: Commencement: By [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(10)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/10/c), it is provided that s. 24(7) is in force at 6.1.2026
 
-[^key-6bdaaf18a0a5714711b2152ece83a0e8]: Commencement: [S. 24(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/24/5) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(3)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/3/b)
+[^c-6bdaaf18a0a5714711b2152ece83a0e8]: Commencement: [S. 24(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/24/5) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(3)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/3/b)

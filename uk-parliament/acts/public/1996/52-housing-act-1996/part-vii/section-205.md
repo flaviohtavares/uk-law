@@ -29,7 +29,7 @@ summary: ''
 
 (2) In sections 206 and 208[^c13154541] those functions are referred to as the authority’s “housing functions under this Part”.
 
-(3)[^key-780c7efdad1cc99d06746ec6956d1c3d] For the purposes of this section, a local housing authority's duty under section 189B(2) or 195(2) is a function of the authority to secure that accommodation is available for the occupation of a person only if the authority decide to discharge the duty by securing that accommodation is so available.
+(3)[^c-780c7efdad1cc99d06746ec6956d1c3d] For the purposes of this section, a local housing authority's duty under section 189B(2) or 195(2) is a function of the authority to secure that accommodation is available for the occupation of a person only if the authority decide to discharge the duty by securing that accommodation is so available.
 
 ## Annotations
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^c13154541]: Textual amendment: Words in s. 205(2) substituted (31.7.2002 for E. and 30.9.2002 for W.) by [2002 c. 7](https://www.legislation.gov.uk/ukpga/2002/7), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2002/7/section/18/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2002/7/schedule/1/paragraph/18) (with [s. 20(4)](https://www.legislation.gov.uk/ukpga/2002/7/section/20/4)); [S.I. 2002/1799](https://www.legislation.gov.uk/uksi/2002/1799), [art. 2](https://www.legislation.gov.uk/uksi/2002/1799/article/2); [S.I. 2002/1736](https://www.legislation.gov.uk/uksi/2002/1736), [art. 2(1)](https://www.legislation.gov.uk/uksi/2002/1736/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2002/1736/schedule/part/1)
 
-[^key-780c7efdad1cc99d06746ec6956d1c3d]: Textual amendment: S. 205(3) inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 6](https://www.legislation.gov.uk/ukpga/2017/13/section/6), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/f)
+[^c-780c7efdad1cc99d06746ec6956d1c3d]: Textual amendment: S. 205(3) inserted (3.4.2018) by [Homelessness Reduction Act 2017 (c. 13)](https://www.legislation.gov.uk/ukpga/2017/13), [ss. 6](https://www.legislation.gov.uk/ukpga/2017/13/section/6), [13(3)](https://www.legislation.gov.uk/ukpga/2017/13/section/13/3); [S.I. 2018/167](https://www.legislation.gov.uk/uksi/2018/167), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/167/regulation/3/f)

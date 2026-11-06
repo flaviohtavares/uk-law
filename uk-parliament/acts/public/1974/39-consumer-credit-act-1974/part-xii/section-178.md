@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The Treasury[^key-d145f312b76e120ed5d60d7e25929c14] or the Department of Commerce for Northern Ireland may by order make such amendments or repeals of any provision of any local Act as appears to the Treasury or, as the case may be, the Department, necessary or expedient in consequence of the replacement by this Act of the enactments relating to pawnbrokers and moneylenders.
+The Treasury[^c-d145f312b76e120ed5d60d7e25929c14] or the Department of Commerce for Northern Ireland may by order make such amendments or repeals of any provision of any local Act as appears to the Treasury or, as the case may be, the Department, necessary or expedient in consequence of the replacement by this Act of the enactments relating to pawnbrokers and moneylenders.
 
 ## Annotations
 
-[^key-d145f312b76e120ed5d60d7e25929c14]: Textual amendment: Word in s. 178 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [7(17)](https://www.legislation.gov.uk/uksi/2013/1882/article/7/17)
+[^c-d145f312b76e120ed5d60d7e25929c14]: Textual amendment: Word in s. 178 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [7(17)](https://www.legislation.gov.uk/uksi/2013/1882/article/7/17)

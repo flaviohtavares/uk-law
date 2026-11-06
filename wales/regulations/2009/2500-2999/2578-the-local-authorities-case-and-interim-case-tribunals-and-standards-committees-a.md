@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred upon the National Assembly for Wales by sections 73, 77(4) and 105 of the Local Government Act 2000[^f00001] and now vested in them[^f00002], and after consultation with the Administrative Justice and Tribunals Council in accordance with paragraph 24 of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007[^f00003]:
 
-## 1. Title, commencement and application[^key-72763e6df7420978b1ff0e986077c45e]
+## 1. Title, commencement and application[^c-72763e6df7420978b1ff0e986077c45e]
 
 (1) The title of these Regulations is The Local Authorities (Case and Interim Case Tribunals and Standards Committees) (Amendment) (Wales) Regulations 2009 and they come into force on 19 October 2009.
 
@@ -56,18 +56,18 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 which begins on or after 19 October 2009.
 
-## 2. Interpretation[^key-7c4e3c350c18e330af987857d1f9137e]
+## 2. Interpretation[^c-7c4e3c350c18e330af987857d1f9137e]
 
 In these Regulations—
 
 - “the Case Tribunals Regulations” (“*Rheoliadau'r Tribiwnlys Achos*”) means the Adjudications by Case Tribunals and Interim Case Tribunals (Wales) Regulations 2001[^f00004];
 - “the Standards Committees Regulations” (“*Rheoliadau'r Pwyllgorau Safonau*”) means the Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) Regulations 2001[^f00005].
 
-## 3. Amendment of the Standards Committees Regulations[^key-9699c78519b3a0351b66e890b0a7d6a5]
+## 3. Amendment of the Standards Committees Regulations[^c-9699c78519b3a0351b66e890b0a7d6a5]
 
 The Standards Committees Regulations are amended in accordance with regulation 4.
 
-**4.**[^key-af5d15181efbc407db274a034e84fede] (1) In regulation 4(4)(b), for “National Assembly for Wales” substitute “Welsh Ministers”.
+**4.**[^c-af5d15181efbc407db274a034e84fede] (1) In regulation 4(4)(b), for “National Assembly for Wales” substitute “Welsh Ministers”.
 
 (2) For regulation 8(2) and (3) substitute—
 
@@ -107,11 +107,11 @@ The Standards Committees Regulations are amended in accordance with regulation 4
 
 (4) In regulation 11(5), for “National Assembly for Wales” substitute “Welsh Ministers”.
 
-## 5. Amendment of the Case Tribunals Regulations[^key-e8a286bda0c55d08c75763e9b7d0c9ab]
+## 5. Amendment of the Case Tribunals Regulations[^c-e8a286bda0c55d08c75763e9b7d0c9ab]
 
 The Schedule to the Case Tribunals Regulations is amended in accordance with regulation 6.
 
-**6.**[^key-2cccc5af0d45b5d1c31f0c05e742e728] (1) In paragraph 1, omit the words ““investigating officer” (“*swyddog ymchwilio*”) means a person who carried out the investigation which gave rise to the reference to the Adjudication Panel for Wales under section 71(3) or 72(4) of the Act”.
+**6.**[^c-2cccc5af0d45b5d1c31f0c05e742e728] (1) In paragraph 1, omit the words ““investigating officer” (“*swyddog ymchwilio*”) means a person who carried out the investigation which gave rise to the reference to the Adjudication Panel for Wales under section 71(3) or 72(4) of the Act”.
 
 (2) For paragraph 9 (attendance of investigating officers) substitute—
 
@@ -167,18 +167,18 @@ Regulation 6(3) amends paragraph 16 of the Schedule to the Case Tribunals Regula
 
 [^f00003]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-72763e6df7420978b1ff0e986077c45e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2009/2578/regulation/1) in force at 19.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2578/regulation/1/1)
+[^c-72763e6df7420978b1ff0e986077c45e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2009/2578/regulation/1) in force at 19.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2578/regulation/1/1)
 
-[^key-7c4e3c350c18e330af987857d1f9137e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2009/2578/regulation/2) in force at 19.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2578/regulation/1/1)
+[^c-7c4e3c350c18e330af987857d1f9137e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2009/2578/regulation/2) in force at 19.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2578/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2001/2288 (W.176)](https://www.legislation.gov.uk/wsi/2001/2288) as amended by [S.I. 2006/362 (W.48)](https://www.legislation.gov.uk/wsi/2006/362).
 
 [^f00005]: Footnote: [S.I. 2001/2281](https://www.legislation.gov.uk/uksi/2001/2281)(W.171) as amended by [S.I. 2005/761 (W.65)](https://www.legislation.gov.uk/wsi/2005/761), [2005/2929 (W.214)](https://www.legislation.gov.uk/wsi/2005/2929) and [2006/362 (W.48)](https://www.legislation.gov.uk/wsi/2006/362).
 
-[^key-9699c78519b3a0351b66e890b0a7d6a5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2009/2578/regulation/3) in force at 19.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2578/regulation/1/1)
+[^c-9699c78519b3a0351b66e890b0a7d6a5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2009/2578/regulation/3) in force at 19.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2578/regulation/1/1)
 
-[^key-af5d15181efbc407db274a034e84fede]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2009/2578/regulation/4) in force at 19.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2578/regulation/1/1)
+[^c-af5d15181efbc407db274a034e84fede]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2009/2578/regulation/4) in force at 19.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2578/regulation/1/1)
 
-[^key-e8a286bda0c55d08c75763e9b7d0c9ab]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2009/2578/regulation/5) in force at 19.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2578/regulation/1/1)
+[^c-e8a286bda0c55d08c75763e9b7d0c9ab]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2009/2578/regulation/5) in force at 19.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2578/regulation/1/1)
 
-[^key-2cccc5af0d45b5d1c31f0c05e742e728]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2009/2578/regulation/6) in force at 19.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2578/regulation/1/1)
+[^c-2cccc5af0d45b5d1c31f0c05e742e728]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2009/2578/regulation/6) in force at 19.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2009/2578/regulation/1/1)

@@ -46,15 +46,15 @@ Coming into force
 
 The Secretary of State and the Minister for Health, Social Services and Public Safety make the following Regulations. They do so in the exercise of the powers conferred by section 2(2) and (5) of the European Communities Act 1972[^f00001], having been designated for the purposes of section 2(2) of that Act in relation to medicinal products[^f00002].
 
-## 1. Citation and commencement[^key-a5c1de3588fce4307a91f0ef52307393]
+## 1. Citation and commencement[^c-a5c1de3588fce4307a91f0ef52307393]
 
 These Regulations may be cited as the Human Medicines (Amendment) (No. 3) Regulations 2015 and shall come into force on 1st October 2015.
 
-## 2. Amendment of the Human Medicines Regulations 2012[^key-c90a29a88b18b346d6b64170c6432d44]
+## 2. Amendment of the Human Medicines Regulations 2012[^c-c90a29a88b18b346d6b64170c6432d44]
 
 The Human Medicines Regulations 2012[^f00003] are amended as follows.
 
-## 3. Amendment of regulation 8[^key-f4d06a79debed760812df9a19bba13db]
+## 3. Amendment of regulation 8[^c-f4d06a79debed760812df9a19bba13db]
 
 (1) Regulation 8[^f00004] (general interpretation) is amended as follows.
 
@@ -64,15 +64,15 @@ The Human Medicines Regulations 2012[^f00003] are amended as follows.
 
 (4) In paragraph (4), for “18(8)” substitute “18(5)”.
 
-## 4. Amendment of regulation 38[^key-22b2472e873d91249b361b674e3bd593]
+## 4. Amendment of regulation 38[^c-22b2472e873d91249b361b674e3bd593]
 
 In regulation 38 (imports from states other than EEA states), in paragraph (3)(b), for the words from “the principles” to the end substitute “good manufacturing practice for active substances”.
 
-## 5. Amendment of regulation 39[^key-702a58bbf758f0096505fbfa3ca11338]
+## 5. Amendment of regulation 39[^c-702a58bbf758f0096505fbfa3ca11338]
 
 In regulation 39[^f00005] (further requirements for manufacturer’s licence), in paragraph (8), for “44(4) to (6)” substitute “44(5) and (6)”.
 
-## 6. Amendment of regulation 44[^key-f2fc5acbce5b7d3408e66535eb10df08]
+## 6. Amendment of regulation 44[^c-f2fc5acbce5b7d3408e66535eb10df08]
 
 (1) Regulation 44[^f00006] (requirements for wholesale dealers to deal only with specified persons) is amended as follows.
 
@@ -91,7 +91,7 @@ In regulation 39[^f00005] (further requirements for manufacturer’s licence), i
 
 (6) In paragraph (5), for “From 28th October 2013, the” substitute “The”.
 
-## 7. Amendment of regulation 233[^key-3afcdda8176435f196576c5788ca9286]
+## 7. Amendment of regulation 233[^c-3afcdda8176435f196576c5788ca9286]
 
 (1) Regulation 233[^f00007] (exemption for supply etc under a PGD by person conducting a retail pharmacy business) is amended as follows.
 
@@ -104,11 +104,11 @@ In regulation 39[^f00005] (further requirements for manufacturer’s licence), i
 
 (3) In paragraph (5), in sub-paragraph (a) for “to (ivc) (health bodies), on behalf of that body” substitute “to (ive) (health bodies), by or on behalf of the person specified in column 2 of Part 2 of Schedule 16 against the entry in column 1 for that body”.
 
-## 8. Amendment of regulation 256E[^key-33b2a255454c91d03c11a83eb82c4954]
+## 8. Amendment of regulation 256E[^c-33b2a255454c91d03c11a83eb82c4954]
 
 In regulation 256E[^f00008] (removal of a person’s entry from the list), in paragraph (a), for “256I(1)(b)” substitute “256I(1)(c)”.
 
-## 9. Amendment of regulation 346[^key-c7da5dac5bb934beefbab4d28e6c9278]
+## 9. Amendment of regulation 346[^c-c7da5dac5bb934beefbab4d28e6c9278]
 
 (1) Regulation 346[^f00009] (Secretary of State to carry out a review of certain provisions) is amended as follows.
 
@@ -125,7 +125,7 @@ In regulation 256E[^f00008] (removal of a person’s entry from the list), in pa
 
   .
 
-## 10. Amendment of Schedule 17[^key-ec4671b7ec4d68c8b662d89291bffd1f]
+## 10. Amendment of Schedule 17[^c-ec4671b7ec4d68c8b662d89291bffd1f]
 
 (1) Schedule 17 (exemption for sale, supply or administration by certain persons) is amended as follows.
 
@@ -179,35 +179,35 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: *See* [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811) regarding the designation of Ministers.
 
-[^key-a5c1de3588fce4307a91f0ef52307393]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
+[^c-a5c1de3588fce4307a91f0ef52307393]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
 
-[^key-c90a29a88b18b346d6b64170c6432d44]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1503/regulation/2) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
+[^c-c90a29a88b18b346d6b64170c6432d44]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1503/regulation/2) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916) as amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235), [1855](https://www.legislation.gov.uk/uksi/2013/1855) and [2593](https://www.legislation.gov.uk/uksi/2013/2593), [2014/490](https://www.legislation.gov.uk/uksi/2014/490) and [1878](https://www.legislation.gov.uk/uksi/2014/1878) and [2015/323](https://www.legislation.gov.uk/uksi/2015/323) and [903](https://www.legislation.gov.uk/uksi/2015/903).
 
-[^key-f4d06a79debed760812df9a19bba13db]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1503/regulation/3) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
+[^c-f4d06a79debed760812df9a19bba13db]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1503/regulation/3) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
 
 [^f00004]: Footnote: Regulation 8 was amended by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855) and [2593](https://www.legislation.gov.uk/uksi/2013/2593).
 
-[^key-22b2472e873d91249b361b674e3bd593]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1503/regulation/4) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
+[^c-22b2472e873d91249b361b674e3bd593]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1503/regulation/4) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
 
-[^key-702a58bbf758f0096505fbfa3ca11338]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1503/regulation/5) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
+[^c-702a58bbf758f0096505fbfa3ca11338]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1503/regulation/5) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
 
 [^f00005]: Footnote: Regulation 39 was amended by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).
 
-[^key-f2fc5acbce5b7d3408e66535eb10df08]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1503/regulation/6) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
+[^c-f2fc5acbce5b7d3408e66535eb10df08]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1503/regulation/6) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
 
 [^f00006]: Footnote: Regulation 44 was substituted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).
 
-[^key-3afcdda8176435f196576c5788ca9286]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1503/regulation/7) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
+[^c-3afcdda8176435f196576c5788ca9286]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1503/regulation/7) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
 
 [^f00007]: Footnote: Regulation 233 was amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235)
 
-[^key-33b2a255454c91d03c11a83eb82c4954]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1503/regulation/8) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
+[^c-33b2a255454c91d03c11a83eb82c4954]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1503/regulation/8) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
 
 [^f00008]: Footnote: Regulation 256E was inserted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).
 
-[^key-c7da5dac5bb934beefbab4d28e6c9278]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1503/regulation/9) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
+[^c-c7da5dac5bb934beefbab4d28e6c9278]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1503/regulation/9) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
 
 [^f00009]: Footnote: Regulation 346 was substituted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).
 
@@ -215,7 +215,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00011]: Footnote: Paragraph (iva) was substituted by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878).
 
-[^key-ec4671b7ec4d68c8b662d89291bffd1f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1503/regulation/10) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
+[^c-ec4671b7ec4d68c8b662d89291bffd1f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1503/regulation/10) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1)
 
 [^f00012]: Footnote: Part 2 was amended by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878).
 

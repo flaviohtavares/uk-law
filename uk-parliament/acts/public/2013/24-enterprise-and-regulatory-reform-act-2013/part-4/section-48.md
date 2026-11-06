@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Extension of power to issue warrants to CAT[^c2181325][^key-8d422d90e494a7f3a6b1ea95bd403c2f]
+## 48. Extension of power to issue warrants to CAT[^c2181325][^c-8d422d90e494a7f3a6b1ea95bd403c2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 [^c2181325]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2013/24/section/48) partly in force; [s. 48](https://www.legislation.gov.uk/ukpga/2013/24/section/48) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-8d422d90e494a7f3a6b1ea95bd403c2f]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2013/24/section/48) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-8d422d90e494a7f3a6b1ea95bd403c2f]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2013/24/section/48) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

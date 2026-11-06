@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a) and (d*)*, 130(1), 132(2) and (4)(b) and (d), and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 14(4)(b) and (d), 15(1) and (3) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00004] in so far as regulations 2(3), 3 and 4 of, and paragraph 1 of the Schedule to, these Regulations, are concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of those regulations and paragraph 1 of the Schedule, should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-5ceb23952ab080314e737a0f58d2be85]
+## 1. Citation, commencement and interpretation[^c-5ceb23952ab080314e737a0f58d2be85]
 
 (1) These Regulations may be cited as the Social Security (Capital Limits and Earnings Disregards Amendment) Regulations (Northern Ireland) 2000 and shall come into operation—
 
@@ -53,17 +53,17 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (3) Regulation 2(2) shall, in relation to any particular claimant for a jobseeker’s allowance, have effect from the first day of the first benefit week to commence for that claimant on or after 9th April 2001 and in this paragraph “benefit week”[^f00007] shall have the same meaning as in regulation 1(2) of the Jobseeker’s Allowance Regulations.
 
-(4) In these Regulations— *(affected by repeal, see note)*[^key-17a6cf75082fdf80d91e432a591295d4]
+(4) In these Regulations— *(affected by repeal, see note)*[^c-17a6cf75082fdf80d91e432a591295d4]
 
-- “the *(affected by repeal, see note)*[^key-17a6cf75082fdf80d91e432a591295d4] Housing Benefit Regulations *(affected by repeal, see note)*[^key-17a6cf75082fdf80d91e432a591295d4]” means the Housing Benefit (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^key-17a6cf75082fdf80d91e432a591295d4][^f00008];
-- “the *(affected by repeal, see note)*[^key-17a6cf75082fdf80d91e432a591295d4] Income Support Regulations *(affected by repeal, see note)*[^key-17a6cf75082fdf80d91e432a591295d4]” means the Income Support (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^key-17a6cf75082fdf80d91e432a591295d4][^f00009];
-- “the *(affected by repeal, see note)*[^key-17a6cf75082fdf80d91e432a591295d4] Jobseeker’s Allowance Regulations *(affected by repeal, see note)*[^key-17a6cf75082fdf80d91e432a591295d4]” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 *(affected by repeal, see note)*[^key-17a6cf75082fdf80d91e432a591295d4][^f00010].
+- “the *(affected by repeal, see note)*[^c-17a6cf75082fdf80d91e432a591295d4] Housing Benefit Regulations *(affected by repeal, see note)*[^c-17a6cf75082fdf80d91e432a591295d4]” means the Housing Benefit (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^c-17a6cf75082fdf80d91e432a591295d4][^f00008];
+- “the *(affected by repeal, see note)*[^c-17a6cf75082fdf80d91e432a591295d4] Income Support Regulations *(affected by repeal, see note)*[^c-17a6cf75082fdf80d91e432a591295d4]” means the Income Support (General) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^c-17a6cf75082fdf80d91e432a591295d4][^f00009];
+- “the *(affected by repeal, see note)*[^c-17a6cf75082fdf80d91e432a591295d4] Jobseeker’s Allowance Regulations *(affected by repeal, see note)*[^c-17a6cf75082fdf80d91e432a591295d4]” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 *(affected by repeal, see note)*[^c-17a6cf75082fdf80d91e432a591295d4][^f00010].
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Capital Limits[^key-210d8a52abda74b9614138fbc8080f9a][^key-eab515e4f6963854795ff1bd5f8e2b44][^key-42e2c9991bc369a49b39db981757a0b2]
+## 2. Capital Limits[^c-210d8a52abda74b9614138fbc8080f9a][^c-eab515e4f6963854795ff1bd5f8e2b44][^c-42e2c9991bc369a49b39db981757a0b2]
 
-(1)[^key-0efb2e6173af84c1f954db398f3de1af] In the Income Support Regulations––
+(1)[^c-0efb2e6173af84c1f954db398f3de1af] In the Income Support Regulations––
 
 - (a) in regulation 41(1)[^f00012] (capital treated as income), after “£8,000” there shall be inserted “or, in a case where regulation 45(*aa*)[^f00013] (capital limit) applies, £12,000”;
 - (b) in regulation 45[^f00014] (capital limit)—
@@ -88,7 +88,7 @@ The Department for Social Development, in exercise of the powers conferred on it
     ;
   - (iii) in both paragraph (2)[^f00017] and (3)[^f00018] after “(1)” there shall be inserted “, (1ZA)”.
 
-(2)[^key-0efb2e6173af84c1f954db398f3de1af] In the Jobseeker’s Allowance Regulations—
+(2)[^c-0efb2e6173af84c1f954db398f3de1af] In the Jobseeker’s Allowance Regulations—
 
 - (a) in regulation 104(1)[^f00019] (capital treated as income), after “£8,000” there shall be inserted “or, in a case where regulation 107(*aa*)[^f00020] (capital limit) applies, £12,000”;
 - (b) in regulation 107[^f00021] (capital limit)—
@@ -113,29 +113,29 @@ The Department for Social Development, in exercise of the powers conferred on it
     ;
   - (iii) in both paragraphs (2)[^f00024] and (3)[^f00025], after “(1)” there shall be inserted “, (1ZA)”.
 
-(3) In regulation 45 of the *(affected by repeal, see note)*[^key-90a8ec02a46e40203728dc8a77eee5c9] Housing Benefit Regulations *(affected by repeal, see note)*[^key-90a8ec02a46e40203728dc8a77eee5c9] (calculation of tariff income from capital)— *(affected by repeal, see note)*[^key-90a8ec02a46e40203728dc8a77eee5c9]
+(3) In regulation 45 of the *(affected by repeal, see note)*[^c-90a8ec02a46e40203728dc8a77eee5c9] Housing Benefit Regulations *(affected by repeal, see note)*[^c-90a8ec02a46e40203728dc8a77eee5c9] (calculation of tariff income from capital)— *(affected by repeal, see note)*[^c-90a8ec02a46e40203728dc8a77eee5c9]
 
-- (a) in paragraph (1) *(affected by repeal, see note)*[^key-90a8ec02a46e40203728dc8a77eee5c9][^f00026], after “paragraph” there shall be inserted “(1ZA) or”; *(affected by repeal, see note)*[^key-90a8ec02a46e40203728dc8a77eee5c9]
-- (b) after paragraph (1) there shall be inserted the following paragraph— *(affected by repeal, see note)*[^key-90a8ec02a46e40203728dc8a77eee5c9]
+- (a) in paragraph (1) *(affected by repeal, see note)*[^c-90a8ec02a46e40203728dc8a77eee5c9][^f00026], after “paragraph” there shall be inserted “(1ZA) or”; *(affected by repeal, see note)*[^c-90a8ec02a46e40203728dc8a77eee5c9]
+- (b) after paragraph (1) there shall be inserted the following paragraph— *(affected by repeal, see note)*[^c-90a8ec02a46e40203728dc8a77eee5c9]
 
-  > (1ZA (affected by repeal, see note))[^key-90a8ec02a46e40203728dc8a77eee5c9] Where the claimant— *(affected by repeal, see note)*[^key-90a8ec02a46e40203728dc8a77eee5c9]
+  > (1ZA (affected by repeal, see note))[^c-90a8ec02a46e40203728dc8a77eee5c9] Where the claimant— *(affected by repeal, see note)*[^c-90a8ec02a46e40203728dc8a77eee5c9]
   >
-  > - (a) is aged 60 or over or has a partner who is aged 60 or over; *(affected by repeal, see note)*[^key-90a8ec02a46e40203728dc8a77eee5c9]
-  > - (b) is not a person to whom the circumstances prescribed in paragraph (1B) apply, and *(affected by repeal, see note)*[^key-90a8ec02a46e40203728dc8a77eee5c9]
-  > - (c) has capital which, calculated in accordance with this Part, exceeds £6,000, *(affected by repeal, see note)*[^key-90a8ec02a46e40203728dc8a77eee5c9]
+  > - (a) is aged 60 or over or has a partner who is aged 60 or over; *(affected by repeal, see note)*[^c-90a8ec02a46e40203728dc8a77eee5c9]
+  > - (b) is not a person to whom the circumstances prescribed in paragraph (1B) apply, and *(affected by repeal, see note)*[^c-90a8ec02a46e40203728dc8a77eee5c9]
+  > - (c) has capital which, calculated in accordance with this Part, exceeds £6,000, *(affected by repeal, see note)*[^c-90a8ec02a46e40203728dc8a77eee5c9]
   >
-  > that capital shall be treated as equivalent to a weekly income of £1 for each complete £250 in excess of £6,000 but not exceeding £16,000. *(affected by repeal, see note)*[^key-90a8ec02a46e40203728dc8a77eee5c9]
+  > that capital shall be treated as equivalent to a weekly income of £1 for each complete £250 in excess of £6,000 but not exceeding £16,000. *(affected by repeal, see note)*[^c-90a8ec02a46e40203728dc8a77eee5c9]
 
   ;
-- (c) in both paragraphs (2) *(affected by repeal, see note)*[^key-90a8ec02a46e40203728dc8a77eee5c9][^f00027] and (3) *(affected by repeal, see note)*[^key-90a8ec02a46e40203728dc8a77eee5c9][^f00028], after “(1)” there shall be inserted “, (1ZA)”. *(affected by repeal, see note)*[^key-90a8ec02a46e40203728dc8a77eee5c9]
+- (c) in both paragraphs (2) *(affected by repeal, see note)*[^c-90a8ec02a46e40203728dc8a77eee5c9][^f00027] and (3) *(affected by repeal, see note)*[^c-90a8ec02a46e40203728dc8a77eee5c9][^f00028], after “(1)” there shall be inserted “, (1ZA)”. *(affected by repeal, see note)*[^c-90a8ec02a46e40203728dc8a77eee5c9]
 
-## 3. Sums to be disregarded in the calculation of earnings[^key-03001c4ff43664cacb49a6686f9315c3][^key-005aa8af785329950133d9074750dff9]
+## 3. Sums to be disregarded in the calculation of earnings[^c-03001c4ff43664cacb49a6686f9315c3][^c-005aa8af785329950133d9074750dff9]
 
 In each of the provisions specified in the Schedule (which relate to sums to be disregarded in the calculations of earnings) but subject to regulation 4, for “£15”, wherever it appears, there shall be substituted “£20”.
 
-## 4. Saving[^key-f38786fcf5aa0ba44882692419294508][^key-135528caf648d82643e48e6c1bb1dc2f]
+## 4. Saving[^c-f38786fcf5aa0ba44882692419294508][^c-135528caf648d82643e48e6c1bb1dc2f]
 
-Paragraph 3(4)( *(affected by repeal, see note)*[^key-4bd5032b967c6484ed93bb01206a913b]*c*) of Schedule 3 to the *(affected by repeal, see note)*[^key-4bd5032b967c6484ed93bb01206a913b] Housing Benefit Regulations *(affected by repeal, see note)*[^key-4bd5032b967c6484ed93bb01206a913b], paragraph 4(4)( *(affected by repeal, see note)*[^key-4bd5032b967c6484ed93bb01206a913b]*c*) of Schedule 8 to the *(affected by repeal, see note)*[^key-4bd5032b967c6484ed93bb01206a913b] Income Support Regulations *(affected by repeal, see note)*[^key-4bd5032b967c6484ed93bb01206a913b] and paragraph 5(4)( *(affected by repeal, see note)*[^key-4bd5032b967c6484ed93bb01206a913b]*c*) of Schedule 5 to the *(affected by repeal, see note)*[^key-4bd5032b967c6484ed93bb01206a913b] Jobseeker’s Allowance Regulations *(affected by repeal, see note)*[^key-4bd5032b967c6484ed93bb01206a913b] shall have effect as if regulation 3 had not been made in a case where the claimant was entitled, by virtue of sub-paragraph (2) or (3) of those paragraphs as in operation immediately before the coming into operation of these Regulations, to a disregard of £15. *(affected by repeal, see note)*[^key-4bd5032b967c6484ed93bb01206a913b]
+Paragraph 3(4)( *(affected by repeal, see note)*[^c-4bd5032b967c6484ed93bb01206a913b]*c*) of Schedule 3 to the *(affected by repeal, see note)*[^c-4bd5032b967c6484ed93bb01206a913b] Housing Benefit Regulations *(affected by repeal, see note)*[^c-4bd5032b967c6484ed93bb01206a913b], paragraph 4(4)( *(affected by repeal, see note)*[^c-4bd5032b967c6484ed93bb01206a913b]*c*) of Schedule 8 to the *(affected by repeal, see note)*[^c-4bd5032b967c6484ed93bb01206a913b] Income Support Regulations *(affected by repeal, see note)*[^c-4bd5032b967c6484ed93bb01206a913b] and paragraph 5(4)( *(affected by repeal, see note)*[^c-4bd5032b967c6484ed93bb01206a913b]*c*) of Schedule 5 to the *(affected by repeal, see note)*[^c-4bd5032b967c6484ed93bb01206a913b] Jobseeker’s Allowance Regulations *(affected by repeal, see note)*[^c-4bd5032b967c6484ed93bb01206a913b] shall have effect as if regulation 3 had not been made in a case where the claimant was entitled, by virtue of sub-paragraph (2) or (3) of those paragraphs as in operation immediately before the coming into operation of these Regulations, to a disregard of £15. *(affected by repeal, see note)*[^c-4bd5032b967c6484ed93bb01206a913b]
 
 Sealed with the Official Seal of the Department for Social Development on 20th November 2000.
 
@@ -159,16 +159,16 @@ Department of Finance and Personnel
 
 Regulation 3
 
-**1.** In Schedule 3 to the *(affected by repeal, see note)*[^key-9c109f81ffd2c3dcdcee001007ade3e8] Housing Benefit Regulations *(affected by repeal, see note)*[^key-9c109f81ffd2c3dcdcee001007ade3e8]—
+**1.** In Schedule 3 to the *(affected by repeal, see note)*[^c-9c109f81ffd2c3dcdcee001007ade3e8] Housing Benefit Regulations *(affected by repeal, see note)*[^c-9c109f81ffd2c3dcdcee001007ade3e8]—
 
-- (a) paragraph 3 *(affected by repeal, see note)*[^key-9c109f81ffd2c3dcdcee001007ade3e8][^f00029];
-- (b) paragraph 4A *(affected by repeal, see note)*[^key-9c109f81ffd2c3dcdcee001007ade3e8][^f00030];
-- (c) paragraph 4B *(affected by repeal, see note)*[^key-9c109f81ffd2c3dcdcee001007ade3e8][^f00031];
-- (d) paragraph 6 *(affected by repeal, see note)*[^key-9c109f81ffd2c3dcdcee001007ade3e8][^f00032];
-- (e) paragraph 7; *(affected by repeal, see note)*[^key-9c109f81ffd2c3dcdcee001007ade3e8]
-- (f) paragraph 14 *(affected by repeal, see note)*[^key-9c109f81ffd2c3dcdcee001007ade3e8][^f00033].
+- (a) paragraph 3 *(affected by repeal, see note)*[^c-9c109f81ffd2c3dcdcee001007ade3e8][^f00029];
+- (b) paragraph 4A *(affected by repeal, see note)*[^c-9c109f81ffd2c3dcdcee001007ade3e8][^f00030];
+- (c) paragraph 4B *(affected by repeal, see note)*[^c-9c109f81ffd2c3dcdcee001007ade3e8][^f00031];
+- (d) paragraph 6 *(affected by repeal, see note)*[^c-9c109f81ffd2c3dcdcee001007ade3e8][^f00032];
+- (e) paragraph 7; *(affected by repeal, see note)*[^c-9c109f81ffd2c3dcdcee001007ade3e8]
+- (f) paragraph 14 *(affected by repeal, see note)*[^c-9c109f81ffd2c3dcdcee001007ade3e8][^f00033].
 
-**2.**[^key-e7a6eaa613cc0a047de0807f9f1ff3ea] In Schedule 8 to the Income Support Regulations—
+**2.**[^c-e7a6eaa613cc0a047de0807f9f1ff3ea] In Schedule 8 to the Income Support Regulations—
 
 - (a) paragraph 4[^f00034];
 - (b) paragraph 5[^f00035];
@@ -178,7 +178,7 @@ Regulation 3
 - (f) paragraph 8;
 - (g) paragraph 15[^f00039].
 
-**3.**[^key-a0be7bd65c24716cbc88d6ed16b43be6] In the Jobseeker’s Allowance Regulations—
+**3.**[^c-a0be7bd65c24716cbc88d6ed16b43be6] In the Jobseeker’s Allowance Regulations—
 
 - (a) regulation 163(3) (calculation of earnings) in so far as it substitutes regulation 101(4)(*a*) and (5)(*a*) and (*b*) (calculation of net profit for self-employed earners);
 - (b) in Schedule 5—
@@ -221,13 +221,13 @@ These Regulations do not impose any charge on business.
 
 [^f00005]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-5ceb23952ab080314e737a0f58d2be85]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/366/regulation/1) in operation at 1.4.2001, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/a)
+[^c-5ceb23952ab080314e737a0f58d2be85]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/366/regulation/1) in operation at 1.4.2001, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/a)
 
 [^f00006]: Footnote: The definition of “benefit week” was amended by regulation 2(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
 
 [^f00007]: Footnote: The definition of “benefit week” was amended by regulation 2(2) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358) and regulation 2(2)(*a*) of [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503)
 
-[^key-17a6cf75082fdf80d91e432a591295d4]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-17a6cf75082fdf80d91e432a591295d4]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00008]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending Rules are [S.R. 1988 No. 424](https://www.legislation.gov.uk/nisr/1988/424), [S.R. 1989 No. 125](https://www.legislation.gov.uk/nisr/1989/125), [S.R. 1990 No. 137](https://www.legislation.gov.uk/nisr/1990/137), [S.R. 1992 No. 298](https://www.legislation.gov.uk/nisr/1992/298), [S.R. 1993 Nos. 145](https://www.legislation.gov.uk/nisr/1993/145) and [381](https://www.legislation.gov.uk/nisr/1993/381) and [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
 
@@ -237,13 +237,13 @@ These Regulations do not impose any charge on business.
 
 [^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-210d8a52abda74b9614138fbc8080f9a]: Commencement: Reg. 2(1)(2) in operation at 9.4.2001 with effect from 09/04/2001 , see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/c)(2)(3)
+[^c-210d8a52abda74b9614138fbc8080f9a]: Commencement: Reg. 2(1)(2) in operation at 9.4.2001 with effect from 09/04/2001 , see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/c)(2)(3)
 
-[^key-eab515e4f6963854795ff1bd5f8e2b44]: Commencement: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2000/366/regulation/2/3) in operation at 1.4.2001 in so far as not already in operation, see [reg. 1(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/b/ii)
+[^c-eab515e4f6963854795ff1bd5f8e2b44]: Commencement: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2000/366/regulation/2/3) in operation at 1.4.2001 in so far as not already in operation, see [reg. 1(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/b/ii)
 
-[^key-42e2c9991bc369a49b39db981757a0b2]: Commencement: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2000/366/regulation/2/3) in operation at 2.4.2001 for specified purposes, see [reg. 1(1)(b)(i)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/b/i)
+[^c-42e2c9991bc369a49b39db981757a0b2]: Commencement: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2000/366/regulation/2/3) in operation at 2.4.2001 for specified purposes, see [reg. 1(1)(b)(i)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/b/i)
 
-[^key-0efb2e6173af84c1f954db398f3de1af]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2000/366/regulation/2/1)[(2)](https://www.legislation.gov.uk/nisr/2000/366/regulation/2/2) in operation at 9.4.2001 with effect from 9/4/2001, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/c)[(2)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/3)
+[^c-0efb2e6173af84c1f954db398f3de1af]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2000/366/regulation/2/1)[(2)](https://www.legislation.gov.uk/nisr/2000/366/regulation/2/2) in operation at 9.4.2001 with effect from 9/4/2001, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/c)[(2)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/2)[(3)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/3)
 
 [^f00012]: Footnote: Regulation 41(1) was amended by Article 7(6) of [S.R.1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472)
 
@@ -273,7 +273,7 @@ These Regulations do not impose any charge on business.
 
 [^f00025]: Footnote: Regulation 116(3) was amended by regulation 10(*c*) of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356)
 
-[^key-90a8ec02a46e40203728dc8a77eee5c9]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2000/366/regulation/2/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-90a8ec02a46e40203728dc8a77eee5c9]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2000/366/regulation/2/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00026]: Footnote: Regulation 45(1) was amended by regulation 4(2) of [S.R. 1990 No. 137](https://www.legislation.gov.uk/nisr/1990/137) and regulation 11(2)(*b*)(i) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
 
@@ -281,17 +281,17 @@ These Regulations do not impose any charge on business.
 
 [^f00028]: Footnote: Regulation 45(3) was amended by regulation 14 of [S.R. 1988 No. 424](https://www.legislation.gov.uk/nisr/1988/424) and regulation 11(2)(*b*)(iii) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
 
-[^key-03001c4ff43664cacb49a6686f9315c3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/366/regulation/3) in operation at 1.4.2001 in so far as not already in operation, see [reg. 1(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/b/ii)
+[^c-03001c4ff43664cacb49a6686f9315c3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/366/regulation/3) in operation at 1.4.2001 in so far as not already in operation, see [reg. 1(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/b/ii)
 
-[^key-005aa8af785329950133d9074750dff9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/366/regulation/3) in operation at 2.4.2001 for specified purposes, see [reg. 1(1)(b)(i)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/b/i)
+[^c-005aa8af785329950133d9074750dff9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/366/regulation/3) in operation at 2.4.2001 for specified purposes, see [reg. 1(1)(b)(i)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/b/i)
 
-[^key-f38786fcf5aa0ba44882692419294508]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/366/regulation/4) in operation at 1.4.2001 in so far as not already in operation, see [reg. 1(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/b/ii)
+[^c-f38786fcf5aa0ba44882692419294508]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/366/regulation/4) in operation at 1.4.2001 in so far as not already in operation, see [reg. 1(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/b/ii)
 
-[^key-135528caf648d82643e48e6c1bb1dc2f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/366/regulation/4) in operation at 2.4.2001 for specified purposes, see [reg. 1(1)(b)(i)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/b/i)
+[^c-135528caf648d82643e48e6c1bb1dc2f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/366/regulation/4) in operation at 2.4.2001 for specified purposes, see [reg. 1(1)(b)(i)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/b/i)
 
-[^key-4bd5032b967c6484ed93bb01206a913b]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/366/regulation/4) revoked in part (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-4bd5032b967c6484ed93bb01206a913b]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/366/regulation/4) revoked in part (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-9c109f81ffd2c3dcdcee001007ade3e8]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2000/366/schedule/paragraph/1) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-9c109f81ffd2c3dcdcee001007ade3e8]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2000/366/schedule/paragraph/1) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00029]: Footnote: Paragraph 3 was substituted by regulation 10 of [S.R. 1989 No. 125](https://www.legislation.gov.uk/nisr/1989/125), sub-paragraph (1) was amended by regulation 13(*c*) of [S.R. 1993 No. 381](https://www.legislation.gov.uk/nisr/1993/381) and sub-paragraph 4(*c*) was amended by regulation 11(*a*) of [S.R. 1993 No. 145](https://www.legislation.gov.uk/nisr/1993/145)
 
@@ -303,7 +303,7 @@ These Regulations do not impose any charge on business.
 
 [^f00033]: Footnote: Paragraph 14 was amended by regulation 13(*e*) of [S.R. 1993 No. 381](https://www.legislation.gov.uk/nisr/1993/381)
 
-[^key-e7a6eaa613cc0a047de0807f9f1ff3ea]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2000/366/schedule/paragraph/2) in operation at 9.4.2001, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/c)
+[^c-e7a6eaa613cc0a047de0807f9f1ff3ea]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2000/366/schedule/paragraph/2) in operation at 9.4.2001, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/c)
 
 [^f00034]: Footnote: Paragraph 4 was substituted by regulation 9 of [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139) and amended by regulation 12(*a*) of [S.R. 1989 No. 395](https://www.legislation.gov.uk/nisr/1989/395) and paragraph 6(14) of Schedule 2 to [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
 
@@ -317,7 +317,7 @@ These Regulations do not impose any charge on business.
 
 [^f00039]: Footnote: Paragraph 15 was amended by paragraph 14(*b*) of Schedule 1 to [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139) and regulation 12 of [S.R. 1992 No. 147](https://www.legislation.gov.uk/nisr/1992/147)
 
-[^key-a0be7bd65c24716cbc88d6ed16b43be6]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2000/366/schedule/paragraph/3) in operation at 9.4.2001, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/c)
+[^c-a0be7bd65c24716cbc88d6ed16b43be6]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2000/366/schedule/paragraph/3) in operation at 9.4.2001, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2000/366/regulation/1/1/c)
 
 [^f00040]: Footnote: Paragraph 6 was substituted by regulation 11 of [S.R. 1998 No. 112](https://www.legislation.gov.uk/nisr/1998/112)
 

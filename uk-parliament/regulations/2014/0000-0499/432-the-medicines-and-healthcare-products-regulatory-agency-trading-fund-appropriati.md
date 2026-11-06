@@ -32,7 +32,7 @@ summary: ''
 
 Government Trading Funds
 
-The Medicines and Healthcare Products Regulatory Agency Trading Fund (Appropriation of Additional Assets and Liabilities) Order 2014 (revoked)[^key-c0b8838807ccc1be1af5c0c0f3b958a6]
+The Medicines and Healthcare Products Regulatory Agency Trading Fund (Appropriation of Additional Assets and Liabilities) Order 2014 (revoked)[^c-c0b8838807ccc1be1af5c0c0f3b958a6]
 
 Made
 
@@ -46,45 +46,45 @@ Coming into force
 
 24th March 2014
 
-[^key-c0b8838807ccc1be1af5c0c0f3b958a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0b8838807ccc1be1af5c0c0f3b958a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c0b8838807ccc1be1af5c0c0f3b958a6]
+## 1. Citation, commencement and interpretation[^c-c0b8838807ccc1be1af5c0c0f3b958a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appropriation of additional assets and liabilities to the Fund[^key-c0b8838807ccc1be1af5c0c0f3b958a6]
+## 2. Appropriation of additional assets and liabilities to the Fund[^c-c0b8838807ccc1be1af5c0c0f3b958a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Appointed day for adding to originating debt of the Fund[^key-c0b8838807ccc1be1af5c0c0f3b958a6]
+## 3. Appointed day for adding to originating debt of the Fund[^c-c0b8838807ccc1be1af5c0c0f3b958a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0b8838807ccc1be1af5c0c0f3b958a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0b8838807ccc1be1af5c0c0f3b958a6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — ASSETS AND LIABILITIES APPROPRIATED TO THE FUND[^key-c0b8838807ccc1be1af5c0c0f3b958a6]
+## SCHEDULE — ASSETS AND LIABILITIES APPROPRIATED TO THE FUND[^c-c0b8838807ccc1be1af5c0c0f3b958a6]
 
-### PART 1 — ASSETS[^key-c0b8838807ccc1be1af5c0c0f3b958a6]
+### PART 1 — ASSETS[^c-c0b8838807ccc1be1af5c0c0f3b958a6]
 
 Article 2
 
-**1.**[^key-c0b8838807ccc1be1af5c0c0f3b958a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c0b8838807ccc1be1af5c0c0f3b958a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c0b8838807ccc1be1af5c0c0f3b958a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c0b8838807ccc1be1af5c0c0f3b958a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c0b8838807ccc1be1af5c0c0f3b958a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c0b8838807ccc1be1af5c0c0f3b958a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c0b8838807ccc1be1af5c0c0f3b958a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c0b8838807ccc1be1af5c0c0f3b958a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — LIABILITIES[^key-c0b8838807ccc1be1af5c0c0f3b958a6]
+### PART 2 — LIABILITIES[^c-c0b8838807ccc1be1af5c0c0f3b958a6]
 
-**5.**[^key-c0b8838807ccc1be1af5c0c0f3b958a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c0b8838807ccc1be1af5c0c0f3b958a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c0b8838807ccc1be1af5c0c0f3b958a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c0b8838807ccc1be1af5c0c0f3b958a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -92,4 +92,4 @@ Article 2
 
 ## Annotations
 
-[^key-c0b8838807ccc1be1af5c0c0f3b958a6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/432) revoked (1.4.2022) by [The Medicines and Healthcare Products Regulatory Agency Trading Fund (Revocation) Order 2022 (S.I. 2022/90)](https://www.legislation.gov.uk/uksi/2022/90), [art. 1](https://www.legislation.gov.uk/uksi/2022/90/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/90/schedule)
+[^c-c0b8838807ccc1be1af5c0c0f3b958a6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/432) revoked (1.4.2022) by [The Medicines and Healthcare Products Regulatory Agency Trading Fund (Revocation) Order 2022 (S.I. 2022/90)](https://www.legislation.gov.uk/uksi/2022/90), [art. 1](https://www.legislation.gov.uk/uksi/2022/90/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/90/schedule)

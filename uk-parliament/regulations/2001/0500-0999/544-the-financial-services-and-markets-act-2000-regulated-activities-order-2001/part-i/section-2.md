@@ -25,12 +25,12 @@ summary: ''
 (2) This Order comes into force—
 
 - (a) for the purposes of articles 59, 60 and 87 (funeral plan contracts) on 1st January 2002; and
-- (b) for the purposes of articles 61 to 63, 88, 90 and 91 (regulated mortgage contracts) on such a day as the Treasury may specify[^key-c5dd364c0e4a0cff28e7ef6493e4d83b].
+- (b) for the purposes of articles 61 to 63, 88, 90 and 91 (regulated mortgage contracts) on such a day as the Treasury may specify[^c-c5dd364c0e4a0cff28e7ef6493e4d83b].
 
-(3)[^key-0c3348c4dc6d4228dc2f50eddda3c4c4] Any day specified under paragraph (2)(b) must be caused to be notified in the London, Edinburgh and Belfast Gazettes published not later than one week before that day.
+(3)[^c-0c3348c4dc6d4228dc2f50eddda3c4c4] Any day specified under paragraph (2)(b) must be caused to be notified in the London, Edinburgh and Belfast Gazettes published not later than one week before that day.
 
 ## Annotations
 
-[^key-c5dd364c0e4a0cff28e7ef6493e4d83b]: Textual amendment: Words in art. 2(2)(b) substituted (30.8.2002) by [The Financial Services and Markets Act 2000 (Commencement of Mortgage Regulation) (Amendment) Order 2002 (S.I. 2002/1777)](https://www.legislation.gov.uk/uksi/2002/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1777/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2002/1777/article/2/2)
+[^c-c5dd364c0e4a0cff28e7ef6493e4d83b]: Textual amendment: Words in art. 2(2)(b) substituted (30.8.2002) by [The Financial Services and Markets Act 2000 (Commencement of Mortgage Regulation) (Amendment) Order 2002 (S.I. 2002/1777)](https://www.legislation.gov.uk/uksi/2002/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1777/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2002/1777/article/2/2)
 
-[^key-0c3348c4dc6d4228dc2f50eddda3c4c4]: Textual amendment: Art. 2(3) inserted (30.8.2002) by [The Financial Services and Markets Act 2000 (Commencement of Mortgage Regulation) (Amendment) Order 2002 (S.I. 2002/1777)](https://www.legislation.gov.uk/uksi/2002/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1777/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2002/1777/article/2/3)
+[^c-0c3348c4dc6d4228dc2f50eddda3c4c4]: Textual amendment: Art. 2(3) inserted (30.8.2002) by [The Financial Services and Markets Act 2000 (Commencement of Mortgage Regulation) (Amendment) Order 2002 (S.I. 2002/1777)](https://www.legislation.gov.uk/uksi/2002/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2002/1777/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2002/1777/article/2/3)

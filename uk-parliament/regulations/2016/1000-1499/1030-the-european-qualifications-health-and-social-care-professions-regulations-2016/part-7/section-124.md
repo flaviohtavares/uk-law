@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Amendment of section 79 (English text)[^key-b013721264d8ee0d32cf935d032d89c8]
+## 124. Amendment of section 79 (English text)[^c-b013721264d8ee0d32cf935d032d89c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b013721264d8ee0d32cf935d032d89c8]: Commencement: Reg. 124 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-b013721264d8ee0d32cf935d032d89c8]: Commencement: Reg. 124 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

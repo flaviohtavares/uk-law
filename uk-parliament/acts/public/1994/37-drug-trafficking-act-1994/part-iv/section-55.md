@@ -35,7 +35,7 @@ This subsection has effect subject to section 59(11) of this Act.
 
 (4) The conditions referred to in subsection (2) above are—
 
-- (a) that there are reasonable grounds for suspecting that a specified person has carried on [^key-e4c55826293dd47363cdac6955434ca6]... drug trafficking;
+- (a) that there are reasonable grounds for suspecting that a specified person has carried on [^c-e4c55826293dd47363cdac6955434ca6]... drug trafficking;
 - (b) that there are reasonable grounds for suspecting that the material to which the application relates—
   - (i) is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the application is made; and
   - (ii) does not consist of or include items subject to legal privilege or excluded material; and
@@ -49,7 +49,7 @@ This subsection has effect subject to section 59(11) of this Act.
 
 (6) An application under subsection (1) or (5) above may be made ex parte to a judge in chambers.
 
-(7) Provision may be made by Criminal Procedure Rules[^key-5eba17e1080bd98ea885430ccd133b28] as to—
+(7) Provision may be made by Criminal Procedure Rules[^c-5eba17e1080bd98ea885430ccd133b28] as to—
 
 - (a) the discharge and variation of orders under this section; and
 - (b) proceedings relating to such orders.
@@ -75,8 +75,8 @@ and in this subsection “**authorised government department**” means a govern
 
     S. 55 modified (E.W.) (1.1.1997) by [S.I. 1996/2880](https://www.legislation.gov.uk/uksi/1996/2880), [art. 3(2)](https://www.legislation.gov.uk/uksi/1996/2880/article/3/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1996/2880/schedule/3)
 
-[^key-e4c55826293dd47363cdac6955434ca6]: Textual amendment: Words in s. 55(4)(a) repealed (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 25(2)(b)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/25/2/b), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-e4c55826293dd47363cdac6955434ca6]: Textual amendment: Words in s. 55(4)(a) repealed (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 25(2)(b)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/25/2/b), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-5eba17e1080bd98ea885430ccd133b28]: Textual amendment: Words in [s. 55(7)](https://www.legislation.gov.uk/ukpga/1994/37/section/55/7) substituted (1.9.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 364](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/364); [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xvii)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xvii) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
+[^c-5eba17e1080bd98ea885430ccd133b28]: Textual amendment: Words in [s. 55(7)](https://www.legislation.gov.uk/ukpga/1994/37/section/55/7) substituted (1.9.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 364](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/364); [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xvii)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xvii) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 
 [^c8345101]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).

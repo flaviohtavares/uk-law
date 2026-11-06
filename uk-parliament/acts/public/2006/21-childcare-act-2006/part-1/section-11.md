@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Duty to assess childcare provision[^key-43886a5c921764656faf513052a4c500]
+## 11. Duty to assess childcare provision[^c-43886a5c921764656faf513052a4c500]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43886a5c921764656faf513052a4c500]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/2006/21/section/11) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 86](https://www.legislation.gov.uk/ukpga/2014/6/section/86), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/889/article/5/d)
+[^c-43886a5c921764656faf513052a4c500]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/2006/21/section/11) repealed (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 86](https://www.legislation.gov.uk/ukpga/2014/6/section/86), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/889/article/5/d)

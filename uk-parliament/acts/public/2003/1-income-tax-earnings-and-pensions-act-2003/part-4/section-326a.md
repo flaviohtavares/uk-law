@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 326A. Fees relating to monitoring schemes relating to vulnerable persons[^key-77ce95648d8ffb1f94c7aa03cfd3ffa5]
+## 326A. Fees relating to monitoring schemes relating to vulnerable persons[^c-77ce95648d8ffb1f94c7aa03cfd3ffa5]
 
 *Extent: E+W+S+N.I.*
 
-(1) No liability to income tax arises by virtue of the payment or reimbursement of a fee in respect of —[^key-9505db7bb74eeffedcc7bcaad4315dd0]
+(1) No liability to income tax arises by virtue of the payment or reimbursement of a fee in respect of —[^c-9505db7bb74eeffedcc7bcaad4315dd0]
 
-- (a)[^key-9f0cc5b1d4b8bbde889be4df942425e2] an application to join the scheme administered under section 44 of the Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14) (scheme to collate and disclose information about individuals working with vulnerable persons).
-- (b)[^key-fd40274c053a3397cfc65cc758b315fb] a fee paid by virtue of section 116A(4)(b) or (5)(b) of the Police Act 1997 (“the Police Act”) (fee for up-dating certificates);
+- (a)[^c-9f0cc5b1d4b8bbde889be4df942425e2] an application to join the scheme administered under section 44 of the Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14) (scheme to collate and disclose information about individuals working with vulnerable persons).
+- (b)[^c-fd40274c053a3397cfc65cc758b315fb] a fee paid by virtue of section 116A(4)(b) or (5)(b) of the Police Act 1997 (“the Police Act”) (fee for up-dating certificates);
 - (c) a fee paid under—
   - (i) section 113A(1)(b) of the Police Act (fee for criminal record certificates);
   - (ii) section 113B(1)(b) of the Police Act (fee for enhanced criminal record certificates);
@@ -39,10 +39,10 @@ summary: ''
 
 ## Annotations
 
-[^key-77ce95648d8ffb1f94c7aa03cfd3ffa5]: Textual amendment: S. 326A and cross-heading inserted (with effect in accordance with s. 39(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2011/11/section/39/1)
+[^c-77ce95648d8ffb1f94c7aa03cfd3ffa5]: Textual amendment: S. 326A and cross-heading inserted (with effect in accordance with s. 39(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2011/11/section/39/1)
 
-[^key-9505db7bb74eeffedcc7bcaad4315dd0]: Textual amendment: Word in s. 326A(1) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Income Tax (Monitoring Schemes Relating to Vulnerable Persons) Order 2013 (S.I. 2013/1133)](https://www.legislation.gov.uk/uksi/2013/1133), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1133/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2013/1133/article/2/a)
+[^c-9505db7bb74eeffedcc7bcaad4315dd0]: Textual amendment: Word in s. 326A(1) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Income Tax (Monitoring Schemes Relating to Vulnerable Persons) Order 2013 (S.I. 2013/1133)](https://www.legislation.gov.uk/uksi/2013/1133), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1133/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2013/1133/article/2/a)
 
-[^key-9f0cc5b1d4b8bbde889be4df942425e2]: Textual amendment: Words in s. 326A(1) renumbered as s. 326A(1)(a) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Income Tax (Monitoring Schemes Relating to Vulnerable Persons) Order 2013 (S.I. 2013/1133)](https://www.legislation.gov.uk/uksi/2013/1133), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1133/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2013/1133/article/2/b)
+[^c-9f0cc5b1d4b8bbde889be4df942425e2]: Textual amendment: Words in s. 326A(1) renumbered as s. 326A(1)(a) (with effect in accordance with art. 1(2) of the amending S.I.) by [The Income Tax (Monitoring Schemes Relating to Vulnerable Persons) Order 2013 (S.I. 2013/1133)](https://www.legislation.gov.uk/uksi/2013/1133), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1133/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2013/1133/article/2/b)
 
-[^key-fd40274c053a3397cfc65cc758b315fb]: Textual amendment: S. 326A(1)(b)(c) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Income Tax (Monitoring Schemes Relating to Vulnerable Persons) Order 2013 (S.I. 2013/1133)](https://www.legislation.gov.uk/uksi/2013/1133), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1133/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2013/1133/article/2/c)
+[^c-fd40274c053a3397cfc65cc758b315fb]: Textual amendment: S. 326A(1)(b)(c) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Income Tax (Monitoring Schemes Relating to Vulnerable Persons) Order 2013 (S.I. 2013/1133)](https://www.legislation.gov.uk/uksi/2013/1133), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1133/article/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2013/1133/article/2/c)

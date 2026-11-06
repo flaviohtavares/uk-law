@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Exercising an option under this Chapter[^key-def33eb7913e4247a4ee6f315bddbee9]
+## 81. Exercising an option under this Chapter[^c-def33eb7913e4247a4ee6f315bddbee9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-def33eb7913e4247a4ee6f315bddbee9]: Commencement: [Reg. 81](https://www.legislation.gov.uk/uksi/2014/1964/regulation/81) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-def33eb7913e4247a4ee6f315bddbee9]: Commencement: [Reg. 81](https://www.legislation.gov.uk/uksi/2014/1964/regulation/81) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Power to register persons where no application has been made to WRA[^key-de85ae1e8f7f4e650c2293ac0e2c1ae1][^key-aa3ab311e57179039a293155f2734cf2]
+## 8. Power to register persons where no application has been made to WRA[^c-de85ae1e8f7f4e650c2293ac0e2c1ae1][^c-aa3ab311e57179039a293155f2734cf2]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de85ae1e8f7f4e650c2293ac0e2c1ae1]: Commencement: S. 8 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-de85ae1e8f7f4e650c2293ac0e2c1ae1]: Commencement: S. 8 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
 
-[^key-aa3ab311e57179039a293155f2734cf2]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2025/5/section/8) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(d)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/d)
+[^c-aa3ab311e57179039a293155f2734cf2]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2025/5/section/8) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(d)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/d)

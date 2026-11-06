@@ -42,42 +42,42 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 In accordance with sections 56(4) and 89(4) of that Act a draft of this Order was laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation and Commencement[^key-cbe9ec0f3b13b3013b881b96c354c324]
+## 1. Citation and Commencement[^c-cbe9ec0f3b13b3013b881b96c354c324]
 
 (1) This Order may be cited as the Postal Services Act 2011 (Disclosure of Information) Order 2012.
 
 (2) This Order comes into force on the day following the day on which it is made.
 
-## 2. Interpretation[^key-9f34291e47161280202f6a3d73110193]
+## 2. Interpretation[^c-9f34291e47161280202f6a3d73110193]
 
 In this Order, “the Act” means the Postal Services Act 2011.
 
-## 3. Prescription of bodies and persons[^key-6b4c2fac40c58916035d598303f1953e]
+## 3. Prescription of bodies and persons[^c-6b4c2fac40c58916035d598303f1953e]
 
 Each of the following is a prescribed body or other person for the purposes of section 56(2)(d) of the Act—
 
-- the Bank of England;[^key-4b731a56cd38b0390ec56aebe43e007c]
+- the Bank of England;[^c-4b731a56cd38b0390ec56aebe43e007c]
 - the Civil Aviation Authority;
 - the Coal Authority;
-- the Competition and Markets Authority[^key-e1b2e0a6f5bebfabb9bdade40f006243];
+- the Competition and Markets Authority[^c-e1b2e0a6f5bebfabb9bdade40f006243];
 - the Consumer Panel (as established under section 16(2) of the Communications Act 2003[^f00002]);
 - any district council in Northern Ireland;
-- the Financial Conduct Authority;[^key-0c697733fecc5ba00410c6fa33b2afc3]
+- the Financial Conduct Authority;[^c-0c697733fecc5ba00410c6fa33b2afc3]
 - the Gas and Electricity Markets Authority;
-- the General Consumer Council for Northern Ireland;[^key-59604d7ba0fb70c0f9f7d2c813696c3b]
+- the General Consumer Council for Northern Ireland;[^c-59604d7ba0fb70c0f9f7d2c813696c3b]
 - the Health and Safety Executive;
 - the Health and Safety Executive for Northern Ireland;
 - the Insolvency Practitioners Tribunal;
 - any local weights and measures authority in Great Britain;
 - any Minister of the Crown;
-- [^key-65305280d9232caf29d7f253ee480e04]...
+- [^c-65305280d9232caf29d7f253ee480e04]...
 - the National Association of Citizens Advice Bureaux;
 - the Northern Ireland Authority for Utility Regulation;
 - any Northern Ireland department;
 - any Northern Ireland Minister;
-- the Office for Nuclear Regulation[^key-ebfc45dc892cde51efb076959d7719cd];
-- [^key-939721a9c938ea625b2485253975c11c]...
-- the Office of Rail and Road[^key-331b71b1da8bd4aa8c3c34c4d9188d9e];
+- the Office for Nuclear Regulation[^c-ebfc45dc892cde51efb076959d7719cd];
+- [^c-939721a9c938ea625b2485253975c11c]...
+- the Office of Rail and Road[^c-331b71b1da8bd4aa8c3c34c4d9188d9e];
 - any official receiver in England, Wales or Northern Ireland;
 - the Prudential Regulation Authority;
 - the Scottish Association of Citizens Advice Bureaux;
@@ -86,7 +86,7 @@ Each of the following is a prescribed body or other person for the purposes of s
 - the Water Appeals Commission for Northern Ireland;
 - the Water Services Regulation Authority.
 
-## 4. Prescription of enactments[^key-022b6ca8a661056df4fffa016d56ec30]
+## 4. Prescription of enactments[^c-022b6ca8a661056df4fffa016d56ec30]
 
 Each of the following is a prescribed enactment for the purposes of section 56(2)(d) or (f) of the Act—
 
@@ -117,7 +117,7 @@ Each of the following is a prescribed enactment for the purposes of section 56(2
 - the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990[^f00027];
 - the Courts and Legal Services Act 1990[^f00028];
 - the Broadcasting Act 1990[^f00029];
-- [^key-f34e0a7195f0799ca1519c70674510c8]...
+- [^c-f34e0a7195f0799ca1519c70674510c8]...
 - the Water Industry Act 1991[^f00031];
 - the Water Resources Act 1991[^f00032];
 - the Friendly Societies Act 1992[^f00033];
@@ -141,14 +141,14 @@ Each of the following is a prescribed enactment for the purposes of section 56(2
 - the Consumers, Estate Agents and Redress Act 2007[^f00051];
 - the Legal Services Act 2007[^f00052];
 - Schedule 7 to the Counter-Terrorism Act 2008[^f00053];
-- Parts 3 and 4 of the Enterprise and Regulatory Reform Act 2013;[^key-d4d31a005e186256560ffdcbcb6973de]
-- the Energy Act 2013[^key-c17a7047c5aa123b1e3566425a3e7c2a];
-- the Water Act 2014;[^key-cb5eae2a2a9e7a126bba5eb9ec58fbc9]
-- Parts 1 and 2 and Chapter 5 of Part 3 of the Consumer Rights Act 2015[^key-e899ddf52835dcc7019afac2103ee181];
-- the following provisions of the Digital Markets, Competition and Consumers Act 2024—[^key-156a439ad4065c88c89eb73a2296c67a]
+- Parts 3 and 4 of the Enterprise and Regulatory Reform Act 2013;[^c-d4d31a005e186256560ffdcbcb6973de]
+- the Energy Act 2013[^c-c17a7047c5aa123b1e3566425a3e7c2a];
+- the Water Act 2014;[^c-cb5eae2a2a9e7a126bba5eb9ec58fbc9]
+- Parts 1 and 2 and Chapter 5 of Part 3 of the Consumer Rights Act 2015[^c-e899ddf52835dcc7019afac2103ee181];
+- the following provisions of the Digital Markets, Competition and Consumers Act 2024—[^c-156a439ad4065c88c89eb73a2296c67a]
   - (a) Part 1;
   - (b) Part 3;
-  - (c) [^key-eb970921923cce3eeac802eaed476377]... Part 4;
+  - (c) [^c-eb970921923cce3eeac802eaed476377]... Part 4;
   - (d) Chapter 2 of Part 5.
 - the Health and Safety at Work (Northern Ireland) Order 1978[^f00054];
 - the Audit (Northern Ireland) Order 1987[^f00055];
@@ -158,9 +158,9 @@ Each of the following is a prescribed enactment for the purposes of section 56(2
 - Part IV of the Airports (Northern Ireland) Order 1994[^f00059];
 - the Gas (Northern Ireland) Order 1996[^f00060];
 - the Water (Northern Ireland) Order 1999[^f00061];
-- [^key-d204d5c50b30a01d4b5f27cc1d20e494]...
-- [^key-03a29dfe2c45b8dd07ee4acc59381fae]...
-- [^key-d204d5c50b30a01d4b5f27cc1d20e494]...
+- [^c-d204d5c50b30a01d4b5f27cc1d20e494]...
+- [^c-03a29dfe2c45b8dd07ee4acc59381fae]...
+- [^c-d204d5c50b30a01d4b5f27cc1d20e494]...
 - the Energy (Northern Ireland) Order 2003[^f00065];
 - the Competition Act 1998 (Concurrency) Regulations 2004[^f00066];
 - the Financial Services (Distance Marketing) Regulations 2004[^f00067];
@@ -168,11 +168,11 @@ Each of the following is a prescribed enactment for the purposes of section 56(2
 - the Water and Sewerage Services (Northern Ireland) Order 2006[^f00069];
 - the Money Laundering Regulations 2007[^f00070];
 - the Business Protection from Misleading Marketing Regulations 2008[^f00071];
-- [^key-61b44453acd3d3d8be679f6537367a28]...
-- the Payment Services Regulations 2017[^key-2a47f3b1a44ed3fc739b30e325764d22].
-- the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013, so far as they apply to distance contracts;[^key-3929c50dbb26414937026a1a27dbb3e0]
+- [^c-61b44453acd3d3d8be679f6537367a28]...
+- the Payment Services Regulations 2017[^c-2a47f3b1a44ed3fc739b30e325764d22].
+- the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013, so far as they apply to distance contracts;[^c-3929c50dbb26414937026a1a27dbb3e0]
 
-## 5. Prescription of other circumstances and purposes[^key-00c9f6117f63d9afa3d422713fffc3d3]
+## 5. Prescription of other circumstances and purposes[^c-00c9f6117f63d9afa3d422713fffc3d3]
 
 Each of the following is a prescribed circumstance or purpose for the purposes of section 56(2)(h) of the Act—
 
@@ -213,31 +213,31 @@ Article 5 prescribes certain other circumstances and purposes, with the effect t
 
 [^f00001]: Footnote: [2011 c.5](https://www.legislation.gov.uk/ukpga/2011/5).
 
-[^key-cbe9ec0f3b13b3013b881b96c354c324]: Commencement: Art. 1 in force at 20.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1128/article/1/2)
+[^c-cbe9ec0f3b13b3013b881b96c354c324]: Commencement: Art. 1 in force at 20.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1128/article/1/2)
 
-[^key-9f34291e47161280202f6a3d73110193]: Commencement: Art. 2 in force at 20.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1128/article/1/2)
+[^c-9f34291e47161280202f6a3d73110193]: Commencement: Art. 2 in force at 20.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1128/article/1/2)
 
-[^key-6b4c2fac40c58916035d598303f1953e]: Commencement: Art. 3 in force at 20.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1128/article/1/2)
+[^c-6b4c2fac40c58916035d598303f1953e]: Commencement: Art. 3 in force at 20.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1128/article/1/2)
 
-[^key-4b731a56cd38b0390ec56aebe43e007c]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 224(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/224/b)
+[^c-4b731a56cd38b0390ec56aebe43e007c]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 224(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/224/b)
 
-[^key-e1b2e0a6f5bebfabb9bdade40f006243]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 46(2)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/46/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-e1b2e0a6f5bebfabb9bdade40f006243]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 46(2)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/46/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
 [^f00002]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-0c697733fecc5ba00410c6fa33b2afc3]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 224(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/224/a)
+[^c-0c697733fecc5ba00410c6fa33b2afc3]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 224(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/224/a)
 
-[^key-59604d7ba0fb70c0f9f7d2c813696c3b]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) inserted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/27/b) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-59604d7ba0fb70c0f9f7d2c813696c3b]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) inserted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/27/b) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
 
-[^key-65305280d9232caf29d7f253ee480e04]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) omitted (1.4.2014) by virtue of [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/27/a) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-65305280d9232caf29d7f253ee480e04]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) omitted (1.4.2014) by virtue of [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/27/a) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
 
-[^key-ebfc45dc892cde51efb076959d7719cd]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 205(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/205/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-ebfc45dc892cde51efb076959d7719cd]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 205(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/205/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-939721a9c938ea625b2485253975c11c]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 46(2)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/46/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-939721a9c938ea625b2485253975c11c]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 46(2)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/46/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-331b71b1da8bd4aa8c3c34c4d9188d9e]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(ff)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/ff) (as extended to U.K. (29.7.2016) by virtue of by [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4)))
+[^c-331b71b1da8bd4aa8c3c34c4d9188d9e]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2012/1128/article/3) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(ff)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/ff) (as extended to U.K. (29.7.2016) by virtue of by [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4)))
 
-[^key-022b6ca8a661056df4fffa016d56ec30]: Commencement: Art. 4 in force at 20.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1128/article/1/2)
+[^c-022b6ca8a661056df4fffa016d56ec30]: Commencement: Art. 4 in force at 20.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1128/article/1/2)
 
 [^f00003]: Footnote: [1965 c.12](https://www.legislation.gov.uk/ukpga/1965/12). The Act will be re-named the Co-operative and Community Benefit Societies and Credit Unions Act 1965 upon commencement of section 2 of the Co-operative and Community Benefit Societies and Credit Unions Act [2010 (c.7)](https://www.legislation.gov.uk/ukpga/2010/7).
 
@@ -293,7 +293,7 @@ Article 5 prescribes certain other circumstances and purposes, with the effect t
 
 [^f00029]: Footnote: [1990 c.42](https://www.legislation.gov.uk/ukpga/1990/42).
 
-[^key-f34e0a7195f0799ca1519c70674510c8]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) omitted (1.10.2013) by virtue of [The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575)](https://www.legislation.gov.uk/uksi/2013/1575), [art. 1](https://www.legislation.gov.uk/uksi/2013/1575/article/1), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2013/1575/schedule/paragraph/25)
+[^c-f34e0a7195f0799ca1519c70674510c8]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) omitted (1.10.2013) by virtue of [The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575)](https://www.legislation.gov.uk/uksi/2013/1575), [art. 1](https://www.legislation.gov.uk/uksi/2013/1575/article/1), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2013/1575/schedule/paragraph/25)
 
 [^f00031]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56).
 
@@ -341,17 +341,17 @@ Article 5 prescribes certain other circumstances and purposes, with the effect t
 
 [^f00053]: Footnote: [2008 c.28](https://www.legislation.gov.uk/ukpga/2008/28).
 
-[^key-d4d31a005e186256560ffdcbcb6973de]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 46(3)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/46/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-d4d31a005e186256560ffdcbcb6973de]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 46(3)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/46/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-c17a7047c5aa123b1e3566425a3e7c2a]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 205(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/205/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-c17a7047c5aa123b1e3566425a3e7c2a]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 205(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/205/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-cb5eae2a2a9e7a126bba5eb9ec58fbc9]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) inserted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [29](https://www.legislation.gov.uk/uksi/2017/506/article/29)
+[^c-cb5eae2a2a9e7a126bba5eb9ec58fbc9]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) inserted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [29](https://www.legislation.gov.uk/uksi/2017/506/article/29)
 
-[^key-e899ddf52835dcc7019afac2103ee181]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) inserted (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/uksi/2015/1630/schedule/1/paragraph/6/b)
+[^c-e899ddf52835dcc7019afac2103ee181]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) inserted (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/uksi/2015/1630/schedule/1/paragraph/6/b)
 
-[^key-156a439ad4065c88c89eb73a2296c67a]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 45(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/45/b); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
+[^c-156a439ad4065c88c89eb73a2296c67a]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 45(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/45/b); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22)
 
-[^key-eb970921923cce3eeac802eaed476377]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) omitted (6.4.2025 for specified purposes) by virtue of [The Digital Markets, Competition and Consumers Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/381)](https://www.legislation.gov.uk/uksi/2025/381), [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/2025/381/regulation/1/2/4), [Sch. para. 34](https://www.legislation.gov.uk/uksi/2025/381/schedule/paragraph/34); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1/2)
+[^c-eb970921923cce3eeac802eaed476377]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) omitted (6.4.2025 for specified purposes) by virtue of [The Digital Markets, Competition and Consumers Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/381)](https://www.legislation.gov.uk/uksi/2025/381), [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/2025/381/regulation/1/2/4), [Sch. para. 34](https://www.legislation.gov.uk/uksi/2025/381/schedule/paragraph/34); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1/2)
 
 [^f00054]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039).
 
@@ -369,9 +369,9 @@ Article 5 prescribes certain other circumstances and purposes, with the effect t
 
 [^f00061]: Footnote: [S.I. 1999/662 (N.I. 6)](https://www.legislation.gov.uk/nisi/1999/662).
 
-[^key-d204d5c50b30a01d4b5f27cc1d20e494]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) omitted (1.10.2015) by virtue of [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/uksi/2015/1630/schedule/1/paragraph/6/a)
+[^c-d204d5c50b30a01d4b5f27cc1d20e494]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) omitted (1.10.2015) by virtue of [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/uksi/2015/1630/schedule/1/paragraph/6/a)
 
-[^key-03a29dfe2c45b8dd07ee4acc59381fae]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2012/1128/regulation/4) omitted (13.6.2014 in relation to contracts entered into on or after that date) by virtue of [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/2), [Sch. 4 para. 14(a)](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/14/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
+[^c-03a29dfe2c45b8dd07ee4acc59381fae]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2012/1128/regulation/4) omitted (13.6.2014 in relation to contracts entered into on or after that date) by virtue of [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/2), [Sch. 4 para. 14(a)](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/14/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
 
 [^f00065]: Footnote: [S.I. 2003/419 (N.I. 6)](https://www.legislation.gov.uk/nisi/2003/419).
 
@@ -387,10 +387,10 @@ Article 5 prescribes certain other circumstances and purposes, with the effect t
 
 [^f00071]: Footnote: [S.I. 2008/1276](https://www.legislation.gov.uk/uksi/2008/1276).
 
-[^key-61b44453acd3d3d8be679f6537367a28]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) omitted (6.4.2025) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 45(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/45/a); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(14)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/14)
+[^c-61b44453acd3d3d8be679f6537367a28]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) omitted (6.4.2025) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 45(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/45/a); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(14)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/14)
 
-[^key-2a47f3b1a44ed3fc739b30e325764d22]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 13](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-2a47f3b1a44ed3fc739b30e325764d22]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/uksi/2012/1128/article/4) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 13](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-3929c50dbb26414937026a1a27dbb3e0]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2012/1128/regulation/4) inserted (13.6.2014 in relation to contracts entered into on or after that date) by [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/2), [Sch. 4 para. 14(b)](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/14/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
+[^c-3929c50dbb26414937026a1a27dbb3e0]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2012/1128/regulation/4) inserted (13.6.2014 in relation to contracts entered into on or after that date) by [The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 (S.I. 2013/3134)](https://www.legislation.gov.uk/uksi/2013/3134), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/2013/3134/regulation/1/2), [Sch. 4 para. 14(b)](https://www.legislation.gov.uk/uksi/2013/3134/schedule/4/paragraph/14/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/3134/regulation/6))
 
-[^key-00c9f6117f63d9afa3d422713fffc3d3]: Commencement: Art. 5 in force at 20.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1128/article/1/2)
+[^c-00c9f6117f63d9afa3d422713fffc3d3]: Commencement: Art. 5 in force at 20.4.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1128/article/1/2)

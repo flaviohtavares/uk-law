@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Information and documents: supplemental provisions[^key-346035991f280e5ca1da44396e3295b0][^key-9c49de018a46b96f085c5c876120c779][^key-40940eadb2746c901f88b876a8ff791c]
+## 86. Information and documents: supplemental provisions[^c-346035991f280e5ca1da44396e3295b0][^c-9c49de018a46b96f085c5c876120c779][^c-40940eadb2746c901f88b876a8ff791c]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,8 +71,8 @@ it may be retained until the proceedings are concluded.
 
 ## Annotations
 
-[^key-346035991f280e5ca1da44396e3295b0]: Commencement: S. 86 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-346035991f280e5ca1da44396e3295b0]: Commencement: S. 86 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-9c49de018a46b96f085c5c876120c779]: Modification: Ss. 81-93 applied (with modifications) (9.12.2015) by [The Payment Card Interchange Fee Regulations 2015 (S.I. 2015/1911)](https://www.legislation.gov.uk/uksi/2015/1911), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1911/regulation/1), [14(1)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/14/1)
+[^c-9c49de018a46b96f085c5c876120c779]: Modification: Ss. 81-93 applied (with modifications) (9.12.2015) by [The Payment Card Interchange Fee Regulations 2015 (S.I. 2015/1911)](https://www.legislation.gov.uk/uksi/2015/1911), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1911/regulation/1), [14(1)](https://www.legislation.gov.uk/uksi/2015/1911/regulation/14/1)
 
-[^key-40940eadb2746c901f88b876a8ff791c]: Modification: Ss. 81-93 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [135(1)](https://www.legislation.gov.uk/uksi/2017/752/regulation/135/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-40940eadb2746c901f88b876a8ff791c]: Modification: Ss. 81-93 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [135(1)](https://www.legislation.gov.uk/uksi/2017/752/regulation/135/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))

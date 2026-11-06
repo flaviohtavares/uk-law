@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Bank Liquidator to allow inspection of proofs[^key-8194d28d7cb7f4d9c4f6d293c973f2fe]
+## 62. Bank Liquidator to allow inspection of proofs[^c-8194d28d7cb7f4d9c4f6d293c973f2fe]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.085 of the 1991 Rules.
 
 ## Annotations
 
-[^key-8194d28d7cb7f4d9c4f6d293c973f2fe]: Commencement: Rule 62 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-8194d28d7cb7f4d9c4f6d293c973f2fe]: Commencement: Rule 62 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237. Advice, guidance, information and recommendations[^key-90c5f9623c4fba3e4dab5aed5bdaa12d][^c2191349]
+## 237. Advice, guidance, information and recommendations[^c-90c5f9623c4fba3e4dab5aed5bdaa12d][^c2191349]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (2) The regulations may provide that a function conferred under subsection (1)(a)—
 
-- (a) is only exercisable on the direction of the Secretary of State or NHS England[^key-4f910af6f458a40583a56d72a11ba179];
+- (a) is only exercisable on the direction of the Secretary of State or NHS England[^c-4f910af6f458a40583a56d72a11ba179];
 - (b) is subject to directions given by the Secretary of State or (as the case may be) NHS England about NICE's exercise of the function.
 
 (3) The regulations may provide that a function conferred under subsection (1)(b) or (c)—
@@ -64,7 +64,7 @@ summary: ''
 (10) But provision made under subsection (8) may impose a requirement on a local authority, or a description of local authorities, only if the requirement relates to—
 
 - (a) the exercise by an authority of any of its functions under section 2B or 111 of, or paragraphs 1 to 7B or 13 of Schedule 1 to, the National Health Service Act 2006;
-- (b)[^key-da98a026625883d93bef75869ceb350a] the exercise by an authority of the functions of any other person by virtue of any provision of that Act.
+- (b)[^c-da98a026625883d93bef75869ceb350a] the exercise by an authority of the functions of any other person by virtue of any provision of that Act.
 
 (11) In this section—
 
@@ -84,10 +84,10 @@ summary: ''
 
 ## Annotations
 
-[^key-90c5f9623c4fba3e4dab5aed5bdaa12d]: Commencement: [S. 237](https://www.legislation.gov.uk/ukpga/2012/7/section/237) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-90c5f9623c4fba3e4dab5aed5bdaa12d]: Commencement: [S. 237](https://www.legislation.gov.uk/ukpga/2012/7/section/237) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191349]: Commencement: [S. 237](https://www.legislation.gov.uk/ukpga/2012/7/section/237) partly in force; [s. 237](https://www.legislation.gov.uk/ukpga/2012/7/section/237) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)
 
-[^key-4f910af6f458a40583a56d72a11ba179]: Textual amendment: Words in [s. 237](https://www.legislation.gov.uk/ukpga/2012/7/section/237) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-4f910af6f458a40583a56d72a11ba179]: Textual amendment: Words in [s. 237](https://www.legislation.gov.uk/ukpga/2012/7/section/237) substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-da98a026625883d93bef75869ceb350a]: Textual amendment: [S. 237(10)(b)](https://www.legislation.gov.uk/ukpga/2012/7/section/237/10/b) substituted for s. 237(10)(b)(c) (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 9 para. 21](https://www.legislation.gov.uk/ukpga/2022/31/schedule/9/paragraph/21); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-da98a026625883d93bef75869ceb350a]: Textual amendment: [S. 237(10)(b)](https://www.legislation.gov.uk/ukpga/2012/7/section/237/10/b) substituted for s. 237(10)(b)(c) (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 9 para. 21](https://www.legislation.gov.uk/ukpga/2022/31/schedule/9/paragraph/21); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

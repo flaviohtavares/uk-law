@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21F. Overview and scrutiny committees: flood risk management[^key-9183700d53dddfd87a68508fe7022a10]
+## 21F. Overview and scrutiny committees: flood risk management[^c-9183700d53dddfd87a68508fe7022a10]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9183700d53dddfd87a68508fe7022a10]: Textual amendment: S. 21F repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/26), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b/c)
+[^c-9183700d53dddfd87a68508fe7022a10]: Textual amendment: S. 21F repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/26), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61B. Retrofitting and refilling of certain air conditioning systems[^key-e9969ffb8708452e784555df47b66955]
+## 61B. Retrofitting and refilling of certain air conditioning systems[^c-e9969ffb8708452e784555df47b66955]
 
 *Extent: E+W+S*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9969ffb8708452e784555df47b66955]: Textual amendment: [Reg. 61B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/61B) inserted (7.9.2009) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 2009 (S.I. 2009/2196)](https://www.legislation.gov.uk/uksi/2009/2196), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2196/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2196/regulation/4)
+[^c-e9969ffb8708452e784555df47b66955]: Textual amendment: [Reg. 61B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/61B) inserted (7.9.2009) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 2009 (S.I. 2009/2196)](https://www.legislation.gov.uk/uksi/2009/2196), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2196/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2196/regulation/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Council Regulation [(EC) No 520/2007](https://www.legislation.gov.uk/eur/2007/520) laying down technical measures for the conservation of certain stocks of highly migratory species[^key-4cc2f96eeff5f4f8c0481f3a57477104]
+## 15. Council Regulation [(EC) No 520/2007](https://www.legislation.gov.uk/eur/2007/520) laying down technical measures for the conservation of certain stocks of highly migratory species[^c-4cc2f96eeff5f4f8c0481f3a57477104]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,21 +30,21 @@ summary: ''
 
 .
 
-(3)[^key-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-43196c516eed0ec3f9ef9269df3d8d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In Article 18—
 
@@ -54,7 +54,7 @@ summary: ''
   - (iii) for “Community” in both places it occurs, substitute “ United Kingdom ”; and
 - (b) omit paragraph 2.
 
-(12)[^key-a835b57c3583702bbbcf8ebef483f3d8] In Article 19—
+(12)[^c-a835b57c3583702bbbcf8ebef483f3d8] In Article 19—
 
 - (a) in paragraph 1 for “Member States shall do their” substitute “ A fisheries administration must do its ”; and
 - (b) in paragraph 2 for “Member States shall” substitute “ A fisheries administration must ”.
@@ -101,8 +101,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4cc2f96eeff5f4f8c0481f3a57477104]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-4cc2f96eeff5f4f8c0481f3a57477104]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-43196c516eed0ec3f9ef9269df3d8d87]: Textual amendment: [Reg. 15(3)-(10)](https://www.legislation.gov.uk/uksi/2019/753/regulation/15/3) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2024/439/regulation/9/2)
+[^c-43196c516eed0ec3f9ef9269df3d8d87]: Textual amendment: [Reg. 15(3)-(10)](https://www.legislation.gov.uk/uksi/2019/753/regulation/15/3) omitted (1.4.2024) by virtue of [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2024/439/regulation/9/2)
 
-[^key-a835b57c3583702bbbcf8ebef483f3d8]: Textual amendment: [Reg. 15(12)](https://www.legislation.gov.uk/uksi/2019/753/regulation/15/12) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [9(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/9/3/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a835b57c3583702bbbcf8ebef483f3d8]: Textual amendment: [Reg. 15(12)](https://www.legislation.gov.uk/uksi/2019/753/regulation/15/12) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [9(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/9/3/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -24,19 +24,19 @@ summary: ''
 
 (2) At the beginning there shall be inserted “(1)" and in the subsection (1) so formed—
 
-- (a) after “Interest payable under this Part of this Act" there shall be inserted “ (a) ”; [^key-7040e0bdc64b95b0fb5eb93145fda896]...
-- (b)[^key-7040e0bdc64b95b0fb5eb93145fda896] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) after “Interest payable under this Part of this Act" there shall be inserted “ (a) ”; [^c-7040e0bdc64b95b0fb5eb93145fda896]...
+- (b)[^c-7040e0bdc64b95b0fb5eb93145fda896] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-cf79e3587144b4ca1f2e54cfb7c6dc5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cf79e3587144b4ca1f2e54cfb7c6dc5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-cf79e3587144b4ca1f2e54cfb7c6dc5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cf79e3587144b4ca1f2e54cfb7c6dc5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-cf79e3587144b4ca1f2e54cfb7c6dc5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-cf79e3587144b4ca1f2e54cfb7c6dc5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c16419991]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-7040e0bdc64b95b0fb5eb93145fda896]: Textual amendment: [S. 33(2)(b)](https://www.legislation.gov.uk/ukpga/1998/36/section/33/2/b) and preceding word repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-7040e0bdc64b95b0fb5eb93145fda896]: Textual amendment: [S. 33(2)(b)](https://www.legislation.gov.uk/ukpga/1998/36/section/33/2/b) and preceding word repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-cf79e3587144b4ca1f2e54cfb7c6dc5c]: Textual amendment: [S. 33(3)-(5)](https://www.legislation.gov.uk/ukpga/1998/36/section/33/3) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-cf79e3587144b4ca1f2e54cfb7c6dc5c]: Textual amendment: [S. 33(3)-(5)](https://www.legislation.gov.uk/ukpga/1998/36/section/33/3) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

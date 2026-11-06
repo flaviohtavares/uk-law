@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Average pensionable pay[^key-9ca559d2fa9df4295974bc9e22ff4db1]
+## 22. Average pensionable pay[^c-9ca559d2fa9df4295974bc9e22ff4db1]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ it shall be increased by the difference between those two amounts.
 
 ## Annotations
 
-[^key-9ca559d2fa9df4295974bc9e22ff4db1]: Commencement: Reg. 22 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-9ca559d2fa9df4295974bc9e22ff4db1]: Commencement: Reg. 22 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

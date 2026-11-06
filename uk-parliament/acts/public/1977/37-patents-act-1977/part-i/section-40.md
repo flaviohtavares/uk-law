@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-26bc8d10297bd03f84027908952f6f07] Where it appears to the court or the comptroller on an application made by an employee within the prescribed period that—
+(1)[^c-26bc8d10297bd03f84027908952f6f07] Where it appears to the court or the comptroller on an application made by an employee within the prescribed period that—
 
 - (a) the employee has made an invention belonging to the employer for which a patent has been granted,
 - (b) having regard among other things to the size and nature of the employer’s undertaking, the invention or the patent for it (or the combination of both) is of outstanding benefit to the employer, and
@@ -32,7 +32,7 @@ the court or the comptroller may award him such compensation of an amount determ
 
 - (a) a patent has been granted for an invention made by and belonging to the employee;
 - (b) his rights in the invention, or in any patent or application for a patent for the invention, have since the appointed day been assigned to the employer or an exclusive licence under the patent or application has since the appointed day been granted to the employer;
-- (c) the benefit derived by the employee from the contract of assignment, assignation or grant or any ancillary contract (“**the relevant contract**”) is inadequate in relation to the benefit derived by the employer from the invention or the patent for it (or both)[^key-a28f9efa248164acb96d37459b019018] ; and
+- (c) the benefit derived by the employee from the contract of assignment, assignation or grant or any ancillary contract (“**the relevant contract**”) is inadequate in relation to the benefit derived by the employer from the invention or the patent for it (or both)[^c-a28f9efa248164acb96d37459b019018] ; and
 - (d) by reason of those facts it is just that the employee should be awarded compensation to be paid by the employer in addition to the benefit derived from the relevant contract;
 
 the court or the comptroller may award him such compensation of an amount determined under section 41 below.
@@ -52,8 +52,8 @@ the court or the comptroller may award him such compensation of an amount determ
 
 ## Annotations
 
-[^key-26bc8d10297bd03f84027908952f6f07]: Textual amendment: S. 40(1) substituted (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/10/1), [17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1) (with [s. 10(8)](https://www.legislation.gov.uk/ukpga/2004/16/section/10/8)); [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-26bc8d10297bd03f84027908952f6f07]: Textual amendment: S. 40(1) substituted (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/10/1), [17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1) (with [s. 10(8)](https://www.legislation.gov.uk/ukpga/2004/16/section/10/8)); [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-a28f9efa248164acb96d37459b019018]: Textual amendment: Words in s. 40(2)(c) substituted (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/10/2), [17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1) (with [s. 10(8)](https://www.legislation.gov.uk/ukpga/2004/16/section/10/8)); [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-a28f9efa248164acb96d37459b019018]: Textual amendment: Words in s. 40(2)(c) substituted (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2004/16/section/10/2), [17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1) (with [s. 10(8)](https://www.legislation.gov.uk/ukpga/2004/16/section/10/8)); [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
 [^c8020231]: Textual amendment: Words in s. 40(6) substituted (16.10.1992) by [Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52), [ss. 300(2)](https://www.legislation.gov.uk/ukpga/1992/52/section/300/2), [302](https://www.legislation.gov.uk/ukpga/1992/52/section/302), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1992/52/schedule/2/paragraph/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Application of COSHH below ground in coal mines[^key-ce0b779ba4ef8013272b674c9074dd5a]
+## 44. Application of COSHH below ground in coal mines[^c-ce0b779ba4ef8013272b674c9074dd5a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce0b779ba4ef8013272b674c9074dd5a]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/uksi/2014/3248/regulation/44) omitted (2.3.2020) by virtue of [The Carcinogens and Mutagens (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/40)](https://www.legislation.gov.uk/uksi/2020/40), [regs. 1](https://www.legislation.gov.uk/uksi/2020/40/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2020/40/regulation/7/3)
+[^c-ce0b779ba4ef8013272b674c9074dd5a]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/uksi/2014/3248/regulation/44) omitted (2.3.2020) by virtue of [The Carcinogens and Mutagens (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/40)](https://www.legislation.gov.uk/uksi/2020/40), [regs. 1](https://www.legislation.gov.uk/uksi/2020/40/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2020/40/regulation/7/3)

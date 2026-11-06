@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Regulations[^key-1eb8199a866223913e2090d571baaf23]
+## 143. Regulations[^c-1eb8199a866223913e2090d571baaf23]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ are to be made by statutory instrument.
 
 ## Annotations
 
-[^key-1eb8199a866223913e2090d571baaf23]: Commencement: S. 143 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
+[^c-1eb8199a866223913e2090d571baaf23]: Commencement: S. 143 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)

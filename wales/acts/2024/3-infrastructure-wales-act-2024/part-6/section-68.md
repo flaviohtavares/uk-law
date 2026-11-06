@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Statutory undertakers’ land[^key-e8099d2d190385f462dbd42488ee93c6][^key-4d323cbe2d073a3a35fadc264bd959d3]
+## 68. Statutory undertakers’ land[^c-e8099d2d190385f462dbd42488ee93c6][^c-4d323cbe2d073a3a35fadc264bd959d3]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8099d2d190385f462dbd42488ee93c6]: Commencement: S. 68 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-e8099d2d190385f462dbd42488ee93c6]: Commencement: S. 68 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-4d323cbe2d073a3a35fadc264bd959d3]: Commencement: [S. 68](https://www.legislation.gov.uk/asc/2024/3/section/68) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-4d323cbe2d073a3a35fadc264bd959d3]: Commencement: [S. 68](https://www.legislation.gov.uk/asc/2024/3/section/68) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

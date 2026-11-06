@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. General prohibitions on removal[^key-2a76e226d9f73642938c022145e369fc]
+## 30. General prohibitions on removal[^c-2a76e226d9f73642938c022145e369fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ a person (other than the agency) must not remove the child from the accommodatio
 
 (5) This group of sections (that is, this section and those sections) apply whether or not the child in question is in England and Wales.
 
-(6) This group of sections does not affect the exercise by any local authority or other person of any power conferred by any enactment, other than section 20(8) of the 1989 Act or section 76(5) of the[^key-4d6685b6baec01006d45c5dd26e246da] 2014 Act (removal of children from local authority accommodation).
+(6) This group of sections does not affect the exercise by any local authority or other person of any power conferred by any enactment, other than section 20(8) of the 1989 Act or section 76(5) of the[^c-4d6685b6baec01006d45c5dd26e246da] 2014 Act (removal of children from local authority accommodation).
 
 (7) This group of sections does not prevent the removal of a child who is arrested.
 
@@ -53,6 +53,6 @@ a person (other than the agency) must not remove the child from the accommodatio
 
 ## Annotations
 
-[^key-2a76e226d9f73642938c022145e369fc]: Commencement: S. 30 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-2a76e226d9f73642938c022145e369fc]: Commencement: S. 30 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-4d6685b6baec01006d45c5dd26e246da]: Textual amendment: Words in [s. 30(6)](https://www.legislation.gov.uk/ukpga/2002/38/section/30/6) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [191](https://www.legislation.gov.uk/wsi/2016/413/regulation/191)
+[^c-4d6685b6baec01006d45c5dd26e246da]: Textual amendment: Words in [s. 30(6)](https://www.legislation.gov.uk/ukpga/2002/38/section/30/6) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [191](https://www.legislation.gov.uk/wsi/2016/413/regulation/191)

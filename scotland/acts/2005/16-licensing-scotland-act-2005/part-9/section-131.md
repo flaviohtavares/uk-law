@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 131. Appeals[^key-30a8d90785246fb367c951c523070cbb][^key-404ee8425d153b5915e04688432b495e]
+## 131. Appeals[^c-30a8d90785246fb367c951c523070cbb][^c-404ee8425d153b5915e04688432b495e]
 
 *Extent: S*
 
 (1) A decision of a Licensing Board specified in the left-hand column of schedule 5 may be appealed by the person specified in the right-hand column of that schedule.
 
-(2) An appeal under this section is to be made [^key-680dc85902e165109652f25e3c094d70]... to—
+(2) An appeal under this section is to be made [^c-680dc85902e165109652f25e3c094d70]... to—
 
 - (a) where the decision appealed is specified in Part 1 of schedule 5, the sheriff principal, or
 - (b) where the decision appealed is specified in Part 2 of that schedule, the sheriff,
@@ -56,8 +56,8 @@ of the appropriate sheriffdom.
 
 ## Annotations
 
-[^key-30a8d90785246fb367c951c523070cbb]: Modification: S. 131 modified (1.1.2008) by [Licensing (Transitional and Saving Provisions) (Scotland) Order 2007 (S.S.I. 2007/454)](https://www.legislation.gov.uk/ssi/2007/454), [arts. 1](https://www.legislation.gov.uk/ssi/2007/454/article/1), [17(10)](https://www.legislation.gov.uk/ssi/2007/454/article/17/10)
+[^c-30a8d90785246fb367c951c523070cbb]: Modification: S. 131 modified (1.1.2008) by [Licensing (Transitional and Saving Provisions) (Scotland) Order 2007 (S.S.I. 2007/454)](https://www.legislation.gov.uk/ssi/2007/454), [arts. 1](https://www.legislation.gov.uk/ssi/2007/454/article/1), [17(10)](https://www.legislation.gov.uk/ssi/2007/454/article/17/10)
 
-[^key-404ee8425d153b5915e04688432b495e]: Commencement: S. 131 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-404ee8425d153b5915e04688432b495e]: Commencement: S. 131 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-680dc85902e165109652f25e3c094d70]: Textual amendment: Word in s. 131(2) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 194](https://www.legislation.gov.uk/asp/2010/13/section/194), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-680dc85902e165109652f25e3c094d70]: Textual amendment: Word in s. 131(2) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 194](https://www.legislation.gov.uk/asp/2010/13/section/194), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199A. Indirect contributions[^key-4b401b63820c09303bb1dde043a2e506]
+## 199A. Indirect contributions[^c-4b401b63820c09303bb1dde043a2e506]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,9 +57,9 @@ and the avoidance condition is met.
 
 (10) In this section references to E being entitled to an amount of relief are to an amount—
 
-- (a) being deductible in computing the amount of the profits of E for the purposes of Part 2 of ITTOIA 2005 or Part 3 of CTA 2009 (trading income)[^key-9810fd7277ec81f56801596343819d13],
-- (b) being expenses of management of E for the purposes of Chapter 2 of Part 16 of CTA 2009[^key-553caa2e5ef0f7ef6fc29099ffbecec9] (expenses of management: companies with investment business), or
-- (c) being ordinary BLAGAB management expenses of E for an accounting period for the purposes of section 76 of FA 2012[^key-733ced7125e2af956487ce405810db31].
+- (a) being deductible in computing the amount of the profits of E for the purposes of Part 2 of ITTOIA 2005 or Part 3 of CTA 2009 (trading income)[^c-9810fd7277ec81f56801596343819d13],
+- (b) being expenses of management of E for the purposes of Chapter 2 of Part 16 of CTA 2009[^c-553caa2e5ef0f7ef6fc29099ffbecec9] (expenses of management: companies with investment business), or
+- (c) being ordinary BLAGAB management expenses of E for an accounting period for the purposes of section 76 of FA 2012[^c-733ced7125e2af956487ce405810db31].
 
 (11) In this section—
 
@@ -68,10 +68,10 @@ and the avoidance condition is met.
 
 ## Annotations
 
-[^key-4b401b63820c09303bb1dde043a2e506]: Textual amendment: S. 199A inserted (21.7.2008) (with effect in accordance with s. 90(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 90(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/90/1)
+[^c-4b401b63820c09303bb1dde043a2e506]: Textual amendment: S. 199A inserted (21.7.2008) (with effect in accordance with s. 90(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 90(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/90/1)
 
-[^key-9810fd7277ec81f56801596343819d13]: Textual amendment: Words in s. 199A(10)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 576(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/576/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-9810fd7277ec81f56801596343819d13]: Textual amendment: Words in s. 199A(10)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 576(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/576/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-553caa2e5ef0f7ef6fc29099ffbecec9]: Textual amendment: Words in s. 199A(10)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 576(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/576/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-553caa2e5ef0f7ef6fc29099ffbecec9]: Textual amendment: Words in s. 199A(10)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 576(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/576/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-733ced7125e2af956487ce405810db31]: Textual amendment: Words in s. 199A(10)(c) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 118](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/118)
+[^c-733ced7125e2af956487ce405810db31]: Textual amendment: Words in s. 199A(10)(c) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 118](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/118)

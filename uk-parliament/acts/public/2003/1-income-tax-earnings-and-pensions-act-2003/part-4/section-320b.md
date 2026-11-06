@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 320B. Health-screening and medical check-ups[^key-349d489919c3acbf0eadf6b3da903446]
+## 320B. Health-screening and medical check-ups[^c-349d489919c3acbf0eadf6b3da903446]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-349d489919c3acbf0eadf6b3da903446]: Textual amendment: S. 320B and cross-heading inserted (with effect in accordance with s. 55(5) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 55(4)](https://www.legislation.gov.uk/ukpga/2009/10/section/55/4)
+[^c-349d489919c3acbf0eadf6b3da903446]: Textual amendment: S. 320B and cross-heading inserted (with effect in accordance with s. 55(5) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 55(4)](https://www.legislation.gov.uk/ukpga/2009/10/section/55/4)

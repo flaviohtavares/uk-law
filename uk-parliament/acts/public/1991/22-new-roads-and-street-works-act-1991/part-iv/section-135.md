@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Liability for cost of temporary traffic regulation.[^key-35056ad4164ea9928603fc6aa764e93a][^key-e1a9fa6bc29b9687cc88d0e6e3cf3f6d]
+## 135. Liability for cost of temporary traffic regulation.[^c-35056ad4164ea9928603fc6aa764e93a][^c-e1a9fa6bc29b9687cc88d0e6e3cf3f6d]
 
 *Extent: S*
 
@@ -34,8 +34,8 @@ the authority or concessionaire may recover from the undertaker the whole of the
 
 ## Annotations
 
-[^key-35056ad4164ea9928603fc6aa764e93a]: Modification: [S. 135](https://www.legislation.gov.uk/ukpga/1991/22/section/135) applied (with modifications) (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 7(6)](https://www.legislation.gov.uk/asp/2006/6/section/7/6)[(7)](https://www.legislation.gov.uk/asp/2006/6/section/7/7) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
+[^c-35056ad4164ea9928603fc6aa764e93a]: Modification: [S. 135](https://www.legislation.gov.uk/ukpga/1991/22/section/135) applied (with modifications) (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 7(6)](https://www.legislation.gov.uk/asp/2006/6/section/7/6)[(7)](https://www.legislation.gov.uk/asp/2006/6/section/7/7) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
 
-[^key-e1a9fa6bc29b9687cc88d0e6e3cf3f6d]: Modification: [S. 135](https://www.legislation.gov.uk/ukpga/1991/22/section/135) applied (with modifications) (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 7(6)](https://www.legislation.gov.uk/asp/2006/7/section/7/6)[(7)](https://www.legislation.gov.uk/asp/2006/7/section/7/7) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
+[^c-e1a9fa6bc29b9687cc88d0e6e3cf3f6d]: Modification: [S. 135](https://www.legislation.gov.uk/ukpga/1991/22/section/135) applied (with modifications) (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 7(6)](https://www.legislation.gov.uk/asp/2006/7/section/7/6)[(7)](https://www.legislation.gov.uk/asp/2006/7/section/7/7) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
 
 [^c14150581]: Marginal citation: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).

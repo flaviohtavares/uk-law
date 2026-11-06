@@ -46,7 +46,7 @@ summary: ''
 
 (3) At any time after receiving an application and before determining it, the registering authority may require the applicant to provide, within 21 days beginning with the date on which the requirement is issued, such further information as the registering authority reasonably considers necessary to enable it to determine the application.
 
-(4) Without prejudice to the application of regulation 60B,[^key-29930f3df76cdb670cd148a278ccd870] if at any time after the applicant has provided the registering authority with any information under paragraph (1) or (3) (whether before or after the applicant is registered)—
+(4) Without prejudice to the application of regulation 60B,[^c-29930f3df76cdb670cd148a278ccd870] if at any time after the applicant has provided the registering authority with any information under paragraph (1) or (3) (whether before or after the applicant is registered)—
 
 - (a) there is a material change affecting any matter contained in that information; or
 - (b) it becomes apparent to the applicant that the information contains an inaccuracy,
@@ -63,4 +63,4 @@ the applicant must provide the registering authority with details of the change 
 
 [^c23048431]: Marginal citation: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 
-[^key-29930f3df76cdb670cd148a278ccd870]: Textual amendment: Words in [reg. 57(4)](https://www.legislation.gov.uk/uksi/2017/692/regulation/57/4) inserted (11.8.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/2/c), [12(1)](https://www.legislation.gov.uk/uksi/2022/860/regulation/12/1)
+[^c-29930f3df76cdb670cd148a278ccd870]: Textual amendment: Words in [reg. 57(4)](https://www.legislation.gov.uk/uksi/2017/692/regulation/57/4) inserted (11.8.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/2/c), [12(1)](https://www.legislation.gov.uk/uksi/2022/860/regulation/12/1)

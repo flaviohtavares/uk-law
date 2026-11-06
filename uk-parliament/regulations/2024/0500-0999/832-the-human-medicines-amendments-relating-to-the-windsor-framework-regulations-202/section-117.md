@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Amendment to regulation 260[^key-513b4e83e1c5703a45f2ec85d02c8f55]
+## 117. Amendment to regulation 260[^c-513b4e83e1c5703a45f2ec85d02c8f55]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In regulation 260 (package leaflets)[^f00124]—
 
 ## Annotations
 
-[^key-513b4e83e1c5703a45f2ec85d02c8f55]: Commencement: [Reg. 117](https://www.legislation.gov.uk/uksi/2024/832/regulation/117) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-513b4e83e1c5703a45f2ec85d02c8f55]: Commencement: [Reg. 117](https://www.legislation.gov.uk/uksi/2024/832/regulation/117) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00124]: Footnote: Paragraph (1A) was inserted by, and paragraphs (2) and (3) were amended by, [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

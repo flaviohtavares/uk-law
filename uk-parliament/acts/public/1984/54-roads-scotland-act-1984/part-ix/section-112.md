@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Transfer of property and liabilities upon road becoming or ceasing to be a trunk road.[^key-e1cfce88c7f9598d01a191baed5070f4]
+## 112. Transfer of property and liabilities upon road becoming or ceasing to be a trunk road.[^c-e1cfce88c7f9598d01a191baed5070f4]
 
 *Extent: S*
 
@@ -75,7 +75,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e1cfce88c7f9598d01a191baed5070f4]: Modification: S. 112 applied (with modifications) (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 12(5)](https://www.legislation.gov.uk/asp/2011/2/section/12/5), 13(4), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 12(6)](https://www.legislation.gov.uk/asp/2011/2/section/12/6), [69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-e1cfce88c7f9598d01a191baed5070f4]: Modification: S. 112 applied (with modifications) (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 12(5)](https://www.legislation.gov.uk/asp/2011/2/section/12/5), 13(4), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 12(6)](https://www.legislation.gov.uk/asp/2011/2/section/12/6), [69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
 [^c1610836]: Textual amendment: S. 112(1)(d) added (4.1.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 38(3)(a)](https://www.legislation.gov.uk/ukpga/1994/39/section/38/3/a) (with [s. 7(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/7/2)); [S.I. 1994/2850](https://www.legislation.gov.uk/uksi/1994/2850), [art. 3(a)](https://www.legislation.gov.uk/uksi/1994/2850/article/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/2850/schedule/2)
 

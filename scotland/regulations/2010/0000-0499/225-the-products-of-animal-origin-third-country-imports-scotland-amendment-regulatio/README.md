@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Products of Animal Origin (Third Country Imports) (Scotland) Amendment Regulations 2010 (revoked)[^key-45e7200f1d030ba091aad0e510979ab6]
+The Products of Animal Origin (Third Country Imports) (Scotland) Amendment Regulations 2010 (revoked)[^c-45e7200f1d030ba091aad0e510979ab6]
 
 Made
 
@@ -46,7 +46,7 @@ Coming into force
 
 5th July 2010
 
-[^key-45e7200f1d030ba091aad0e510979ab6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45e7200f1d030ba091aad0e510979ab6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -59,14 +59,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-45e7200f1d030ba091aad0e510979ab6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45e7200f1d030ba091aad0e510979ab6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-45e7200f1d030ba091aad0e510979ab6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45e7200f1d030ba091aad0e510979ab6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45e7200f1d030ba091aad0e510979ab6]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), regs. 1(a), [38(o)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/o) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))
+[^c-45e7200f1d030ba091aad0e510979ab6]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), regs. 1(a), [38(o)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/o) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13B. Power to make provision about the use of the UK digital service for absent voting applications[^key-80922a9f5839da0c0231e1de96f25a98]
+## 13B. Power to make provision about the use of the UK digital service for absent voting applications[^c-80922a9f5839da0c0231e1de96f25a98]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80922a9f5839da0c0231e1de96f25a98]: Textual amendment: [S. 13B](https://www.legislation.gov.uk/ukpga/2006/32/section/13B) inserted (27.10.2025) by [Absent Voting (Elections in Scotland and Wales) Act 2025 (c. 27)](https://www.legislation.gov.uk/ukpga/2025/27), [ss. 3](https://www.legislation.gov.uk/ukpga/2025/27/section/3), [4(1)](https://www.legislation.gov.uk/ukpga/2025/27/section/4/1)
+[^c-80922a9f5839da0c0231e1de96f25a98]: Textual amendment: [S. 13B](https://www.legislation.gov.uk/ukpga/2006/32/section/13B) inserted (27.10.2025) by [Absent Voting (Elections in Scotland and Wales) Act 2025 (c. 27)](https://www.legislation.gov.uk/ukpga/2025/27), [ss. 3](https://www.legislation.gov.uk/ukpga/2025/27/section/3), [4(1)](https://www.legislation.gov.uk/ukpga/2025/27/section/4/1)

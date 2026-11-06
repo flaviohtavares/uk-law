@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, England
 
-The Milk and Milk Products (Pupils in Educational Establishments) (England) Regulations 2008 (revoked)[^key-9992b3ad7d7ad0fa57dbfd36c87fc200]
+The Milk and Milk Products (Pupils in Educational Establishments) (England) Regulations 2008 (revoked)[^c-9992b3ad7d7ad0fa57dbfd36c87fc200]
 
 Made
 
@@ -46,35 +46,35 @@ Coming into force
 
 1st September 2008
 
-[^key-9992b3ad7d7ad0fa57dbfd36c87fc200]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9992b3ad7d7ad0fa57dbfd36c87fc200]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-9992b3ad7d7ad0fa57dbfd36c87fc200]
+## 1. Title, commencement and application[^c-9992b3ad7d7ad0fa57dbfd36c87fc200]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9992b3ad7d7ad0fa57dbfd36c87fc200]
+## 2. Interpretation[^c-9992b3ad7d7ad0fa57dbfd36c87fc200]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payment of national aid[^key-9992b3ad7d7ad0fa57dbfd36c87fc200]
+## 3. Payment of national aid[^c-9992b3ad7d7ad0fa57dbfd36c87fc200]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Withholding or recovery of Community aid or national aid[^key-9992b3ad7d7ad0fa57dbfd36c87fc200]
+## 4. Withholding or recovery of Community aid or national aid[^c-9992b3ad7d7ad0fa57dbfd36c87fc200]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-9992b3ad7d7ad0fa57dbfd36c87fc200]
+## 5. Revocations[^c-9992b3ad7d7ad0fa57dbfd36c87fc200]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9992b3ad7d7ad0fa57dbfd36c87fc200]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9992b3ad7d7ad0fa57dbfd36c87fc200]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-9992b3ad7d7ad0fa57dbfd36c87fc200]EXPLANATORY NOTE
+[^c-9992b3ad7d7ad0fa57dbfd36c87fc200]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -90,4 +90,4 @@ No impact assessment has been prepared in respect of this instrument as it has n
 
 ## Annotations
 
-[^key-9992b3ad7d7ad0fa57dbfd36c87fc200]: Textual amendment: Regulations revoked (1.8.2017) by [The Milk and Milk Products (Pupils in Educational Establishments) (England and Northern Ireland) Regulations 2017 (S.I. 2017/734)](https://www.legislation.gov.uk/uksi/2017/734), regs. 1(1), [7(1)(a)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/1/a) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/2))
+[^c-9992b3ad7d7ad0fa57dbfd36c87fc200]: Textual amendment: Regulations revoked (1.8.2017) by [The Milk and Milk Products (Pupils in Educational Establishments) (England and Northern Ireland) Regulations 2017 (S.I. 2017/734)](https://www.legislation.gov.uk/uksi/2017/734), regs. 1(1), [7(1)(a)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/1/a) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2017/734/regulation/7/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Miscellaneous amendments relating to school and nursery inspections.[^key-1e8e848a39985949181059f7eeb8f827]
+## 135. Miscellaneous amendments relating to school and nursery inspections.[^c-1e8e848a39985949181059f7eeb8f827]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e8e848a39985949181059f7eeb8f827]: Textual amendment: [S. 135](https://www.legislation.gov.uk/ukpga/1998/31/section/135) repealed (1.9.2005 for E., 1.9.2006 for W.) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/1); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); [S.I. 2006/1338](https://www.legislation.gov.uk/wsi/2006/1338), [art. 3](https://www.legislation.gov.uk/wsi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/wsi/2006/1338/schedule/1) (with [Sch. 4 para. 6](https://www.legislation.gov.uk/wsi/2006/1338/schedule/4/paragraph/6))
+[^c-1e8e848a39985949181059f7eeb8f827]: Textual amendment: [S. 135](https://www.legislation.gov.uk/ukpga/1998/31/section/135) repealed (1.9.2005 for E., 1.9.2006 for W.) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4), [Sch. 19 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/1); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); [S.I. 2006/1338](https://www.legislation.gov.uk/wsi/2006/1338), [art. 3](https://www.legislation.gov.uk/wsi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/wsi/2006/1338/schedule/1) (with [Sch. 4 para. 6](https://www.legislation.gov.uk/wsi/2006/1338/schedule/4/paragraph/6))

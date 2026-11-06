@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23A. Parent councils[^key-c9eccee2ee15e3d7aed44bd01f22f8b7]
+## 23A. Parent councils[^c-c9eccee2ee15e3d7aed44bd01f22f8b7]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9eccee2ee15e3d7aed44bd01f22f8b7]: Textual amendment: S. 23A inserted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 34](https://www.legislation.gov.uk/ukpga/2006/40/section/34), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(i)](https://www.legislation.gov.uk/uksi/2007/935/article/7/i)
+[^c-c9eccee2ee15e3d7aed44bd01f22f8b7]: Textual amendment: S. 23A inserted (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 34](https://www.legislation.gov.uk/ukpga/2006/40/section/34), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(i)](https://www.legislation.gov.uk/uksi/2007/935/article/7/i)

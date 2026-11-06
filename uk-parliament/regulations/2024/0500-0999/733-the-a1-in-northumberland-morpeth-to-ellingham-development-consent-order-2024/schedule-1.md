@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-e814a3de629527b371581567688fbb9d]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-e814a3de629527b371581567688fbb9d]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 Articles 2 and 36
 
-### In the administrative area of Northumberland County Council[^key-e814a3de629527b371581567688fbb9d]
+### In the administrative area of Northumberland County Council[^c-e814a3de629527b371581567688fbb9d]
 
 A nationally significant infrastructure project as defined in sections 14 and 22(1) of the 2008 Act, and associated development as defined in section 115(2) (development for which development consent may be granted) of the 2008 Act), comprising:
 
@@ -193,4 +193,4 @@ A nationally significant infrastructure project as defined in sections 14 and 22
 
 ## Annotations
 
-[^key-e814a3de629527b371581567688fbb9d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/733) revoked (14.11.2025) by [The A1 in Northumberland: Morpeth to Ellingham Development Consent (Revocation) Order 2025 (S.I. 2025/1186)](https://www.legislation.gov.uk/uksi/2025/1186), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1186/article/1), [2](https://www.legislation.gov.uk/uksi/2025/1186/article/2)
+[^c-e814a3de629527b371581567688fbb9d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/733) revoked (14.11.2025) by [The A1 in Northumberland: Morpeth to Ellingham Development Consent (Revocation) Order 2025 (S.I. 2025/1186)](https://www.legislation.gov.uk/uksi/2025/1186), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1186/article/1), [2](https://www.legislation.gov.uk/uksi/2025/1186/article/2)

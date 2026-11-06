@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Access to works[^key-c23c7272665db29f99fca346c1558355]
+## 13. Access to works[^c-c23c7272665db29f99fca346c1558355]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The undertaker may, for the purposes of the authorised project—
 
 ## Annotations
 
-[^key-c23c7272665db29f99fca346c1558355]: Commencement: Art. 13 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)
+[^c-c23c7272665db29f99fca346c1558355]: Commencement: Art. 13 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)

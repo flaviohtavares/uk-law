@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17.[^key-2700809c0ef97c251321552354910dcd]
+## 17.[^c-2700809c0ef97c251321552354910dcd]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2700809c0ef97c251321552354910dcd]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/1999/26/section/17) repealed (1.10.2004) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 31(8)](https://www.legislation.gov.uk/ukpga/2004/24/section/31/8), [59(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2); [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)(c)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a/c)
+[^c-2700809c0ef97c251321552354910dcd]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/1999/26/section/17) repealed (1.10.2004) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 31(8)](https://www.legislation.gov.uk/ukpga/2004/24/section/31/8), [59(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2); [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)(c)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a/c)

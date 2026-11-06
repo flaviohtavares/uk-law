@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150A. Meaning of “qualifying housing co-operative”[^key-955e0554a7f2f5c71a082f75d6fd62cb]
+## 150A. Meaning of “qualifying housing co-operative”[^c-955e0554a7f2f5c71a082f75d6fd62cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-955e0554a7f2f5c71a082f75d6fd62cb]: Textual amendment: [S. 150A](https://www.legislation.gov.uk/ukpga/2013/29/section/150A) inserted (with effect in accordance with s. 90(3)-(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 90(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/90/2)
+[^c-955e0554a7f2f5c71a082f75d6fd62cb]: Textual amendment: [S. 150A](https://www.legislation.gov.uk/ukpga/2013/29/section/150A) inserted (with effect in accordance with s. 90(3)-(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 90(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/90/2)

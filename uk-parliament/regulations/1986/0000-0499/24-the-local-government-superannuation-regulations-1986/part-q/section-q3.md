@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Q3. Partial forfeitures[^key-96e1e8506a6648e0253996bd61026f59]
+## Q3. Partial forfeitures[^c-96e1e8506a6648e0253996bd61026f59]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ the previous fund authority shall pay out of their superannuation fund a transfe
 
 ## Annotations
 
-[^key-96e1e8506a6648e0253996bd61026f59]: Commencement: [Reg. Q3](https://www.legislation.gov.uk/uksi/1986/24/regulation/Q3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-96e1e8506a6648e0253996bd61026f59]: Commencement: [Reg. Q3](https://www.legislation.gov.uk/uksi/1986/24/regulation/Q3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

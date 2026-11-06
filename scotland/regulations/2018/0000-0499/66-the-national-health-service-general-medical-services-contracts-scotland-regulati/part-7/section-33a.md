@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 33A. Transitional arrangements for vaccination and immunisation services[^key-34de99c0bf2e7358976d83dbcaf92ae6]
+## 33A. Transitional arrangements for vaccination and immunisation services[^c-34de99c0bf2e7358976d83dbcaf92ae6]
 
 (1) Where on 17 October 2021 a contract included a requirement to provide the vaccinations and immunisations additional service, the childhood vaccinations and immunisations additional service, or both services in accordance with schedule 1—
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) be served not later than 1 December 2021; and
 - (b) specify a period which ends no later than 1 April 2022.
 
-(3)[^key-ebe3620473812f8d8cc06645db27717a] A notice served by the Health Board under sub-paragraph (1)(a) must list all of the vaccinations and immunisations which the contractor is required to provide as a consequence of the notice, as of the date of the notice.
+(3)[^c-ebe3620473812f8d8cc06645db27717a] A notice served by the Health Board under sub-paragraph (1)(a) must list all of the vaccinations and immunisations which the contractor is required to provide as a consequence of the notice, as of the date of the notice.
 
 (4) A letter stating that the contractor is to continue to provide the vaccinations and immunisations additional service, the childhood vaccinations and immunisations additional service, or both services, for a period specified in the letter, which is sent by the Health Board to the contractor’s official correspondence address (specified in accordance with regulation 14) before the coming into force of this regulation is deemed to have the same effect as a notice under sub-paragraph (1)(a), if it complies with the requirements of this regulation.
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-34de99c0bf2e7358976d83dbcaf92ae6]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/ssi/2018/66/regulation/33A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [5](https://www.legislation.gov.uk/ssi/2021/302/regulation/5)
+[^c-34de99c0bf2e7358976d83dbcaf92ae6]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/ssi/2018/66/regulation/33A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [5](https://www.legislation.gov.uk/ssi/2021/302/regulation/5)
 
-[^key-ebe3620473812f8d8cc06645db27717a]: Textual amendment: [Reg. 33A(3)](https://www.legislation.gov.uk/ssi/2018/66/regulation/33A/3)[(4)](https://www.legislation.gov.uk/ssi/2018/66/regulation/33A/4) substituted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2022/130/regulation/6)
+[^c-ebe3620473812f8d8cc06645db27717a]: Textual amendment: [Reg. 33A(3)](https://www.legislation.gov.uk/ssi/2018/66/regulation/33A/3)[(4)](https://www.legislation.gov.uk/ssi/2018/66/regulation/33A/4) substituted (28.5.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2022/130/regulation/6)

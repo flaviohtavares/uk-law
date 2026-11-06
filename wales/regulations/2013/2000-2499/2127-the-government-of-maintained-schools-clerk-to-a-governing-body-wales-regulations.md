@@ -45,20 +45,20 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers in paragraph 19(2) and (3) of Schedule 1A to the School Standards and Framework Act 1998[^f00001], sections 19[^f00002], 23 and 210 of the Education Act 2002[^f00003] and sections 23, 24 and 32 of the Education (Wales) Measure 2011[^f00004], make the following Regulations:
 
-## 1. Title, commencement and application[^key-20479968007c0410c42cd686a3c8b685]
+## 1. Title, commencement and application[^c-20479968007c0410c42cd686a3c8b685]
 
 (1) The title of these Regulations is the Government of Maintained Schools (Clerk to a Governing Body) (Wales) Regulations 2013 and they come into force on 20 September 2013.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-ddda4e6c6a63a8bce229f5bce63746b9]
+## 2. Interpretation[^c-ddda4e6c6a63a8bce229f5bce63746b9]
 
 (1) In these Regulations—
 
 - “the 2005 Regulations” (“*Rheoliadau 2005*”) means the Government of Maintained Schools (Wales) Regulations 2005[^f00005];
-- [^key-95be8870765d8b3bd7482e68525eb13f]...
+- [^c-95be8870765d8b3bd7482e68525eb13f]...
 - “the 2012 Regulations” *(“Rheoliadau 2012”)* means the School Governance (Transition from an Interim Executive Board) (Wales) Regulations 2012[^f00007]
-- “the 2014 Regulations” (“[^key-f3bd0fdceb89f687e0cbddcce88d49f5]*Rheoliadau 2014*”) means the Federation of Maintained Schools (Wales) Regulations 2014;
+- “the 2014 Regulations” (“[^c-f3bd0fdceb89f687e0cbddcce88d49f5]*Rheoliadau 2014*”) means the Federation of Maintained Schools (Wales) Regulations 2014;
 - “governor support officer” (“*swyddog cymorth i lywodraethwyr*”) means a person employed by a local authority for the sole or principal purpose of providing support and advice to the local authority, head teachers and governors; and
 - “the training” (“*yr hyfforddiant*“”) means the training set out in the document published by the Welsh Ministers in September 2013 called “Content of training for clerks of governing bodies in Wales”[^f00008] which sets out for the purpose of section 24 of the Education (Wales) Measure 2011 the prescribed training and standards.
 
@@ -68,12 +68,12 @@ The Welsh Ministers in exercise of the powers in paragraph 19(2) and (3) of Sche
 
 (4) For the purposes of the 2012 Regulations, references in these Regulations to a “governing body”, “governor” and “governors” are to be read as references to “shadow governing body”, “shadow governor” and “shadow governors”.
 
-## 3. Provision of a clerk to a governing body[^key-30c778b03a39dfd8584e1d7c7b62969f]
+## 3. Provision of a clerk to a governing body[^c-30c778b03a39dfd8584e1d7c7b62969f]
 
 (1) For the purpose of this regulation a clerk to a governing body is—
 
 - (a) a person appointed by virtue of regulation 42 to perform the functions set out in regulation 43 of the 2005 Regulations; or
-- (b) a person appointed by virtue of regulation 53 to perform the functions set out in regulation 54 of the 2014 Regulations[^key-e8d848100477b280cdc4498cfb991ffb].
+- (b) a person appointed by virtue of regulation 53 to perform the functions set out in regulation 54 of the 2014 Regulations[^c-e8d848100477b280cdc4498cfb991ffb].
 
 (2) If a governing body makes a request to the local authority to provide a person for appointment as a clerk, that local authority must provide a suitable person for appointment within 16 weeks of the request being received by the local authority.
 
@@ -86,14 +86,14 @@ The Welsh Ministers in exercise of the powers in paragraph 19(2) and (3) of Sche
 
 (5) Where a local authority exercise the power to charge a fee under paragraph (4) the fee charged must not exceed the cost of providing the clerk.
 
-## 4. Training of clerk to a governing body[^key-8dbc48c116a20f41a8b33a7a8cc277d1]
+## 4. Training of clerk to a governing body[^c-8dbc48c116a20f41a8b33a7a8cc277d1]
 
 (1) For the purpose of this regulation a clerk to a governing body is—
 
 - (a) a person appointed by virtue of regulation 42 to perform the functions set out in regulation 43 of the 2005 Regulations;
 - (b) a person appointed by virtue of regulation 58(1) to perform the functions set out in regulation 58(5) in respect of a committee established in accordance with regulations 55 to 57 of the 2005 Regulations;
-- (c) a person appointed by virtue of regulation 53 to perform the functions set out in regulation 54 of the 2014 Regulations[^key-1c49b0b85dc5748df0537d45ebc0d30b];
-- (d)[^key-9e983f2844648e49bb634d1cfd8bebe1] a person appointed by virtue of regulation 70(1) to perform the functions set out in regulation 70(5) in respect of a committee established in accordance with regulations 67 to 69 of the 2014 Regulations; or
+- (c) a person appointed by virtue of regulation 53 to perform the functions set out in regulation 54 of the 2014 Regulations[^c-1c49b0b85dc5748df0537d45ebc0d30b];
+- (d)[^c-9e983f2844648e49bb634d1cfd8bebe1] a person appointed by virtue of regulation 70(1) to perform the functions set out in regulation 70(5) in respect of a committee established in accordance with regulations 67 to 69 of the 2014 Regulations; or
 - (e) a person appointed by virtue of regulation 10 of the 2012 Regulations.
 
 (2) Subject to paragraph (3) a clerk must satisfactorily complete the training within whichever is the later of—
@@ -105,9 +105,9 @@ The Welsh Ministers in exercise of the powers in paragraph 19(2) and (3) of Sche
 
 - (a) a governor support officer;
 - (b) a person who has satisfactorily completed the training;
-- (c) a governor appointed as a clerk in accordance with regulation 42 of the 2005 Regulations, regulation 53 of the 2014[^key-876187e86c8a83401f98e009aa6c24dd] Regulations or regulation10(3) of the 2012 Regulations.
+- (c) a governor appointed as a clerk in accordance with regulation 42 of the 2005 Regulations, regulation 53 of the 2014[^c-876187e86c8a83401f98e009aa6c24dd] Regulations or regulation10(3) of the 2012 Regulations.
 
-## 5. Removal of clerk to a governing body from office[^key-249ccba54fdc0708173f1722a022df09]
+## 5. Removal of clerk to a governing body from office[^c-249ccba54fdc0708173f1722a022df09]
 
 (1) If the clerk to a governing body does not satisfactorily complete the training in accordance with these Regulations then, the governing body must remove the clerk from office.
 
@@ -143,30 +143,30 @@ Regulation 5 requires that if the clerk has not completed the training in accord
 
 [^f00004]: Footnote: [2011 nawm 7](https://www.legislation.gov.uk/mwa/2011/7).
 
-[^key-20479968007c0410c42cd686a3c8b685]: Commencement: Reg. 1 in force at 20.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/1/1)
+[^c-20479968007c0410c42cd686a3c8b685]: Commencement: Reg. 1 in force at 20.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/1/1)
 
-[^key-ddda4e6c6a63a8bce229f5bce63746b9]: Commencement: Reg. 2 in force at 20.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/1/1)
+[^c-ddda4e6c6a63a8bce229f5bce63746b9]: Commencement: Reg. 2 in force at 20.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2005/2914 (W.211)](https://www.legislation.gov.uk/wsi/2005/2914) as amended by [S.I. 2005/3200 (W.236)](https://www.legislation.gov.uk/wsi/2005/3200), [S.I. 2006/873 (W.81)](https://www.legislation.gov.uk/wsi/2006/873), [S.I. 2007/944 (W.80)](https://www.legislation.gov.uk/wsi/2007/944), [S.I. 2009/2544 (W.206)](https://www.legislation.gov.uk/wsi/2009/2544), [S.I. 2010/638 (W.64)](https://www.legislation.gov.uk/wsi/2010/638), [S.I. 2010/1142 (W.101)](https://www.legislation.gov.uk/wsi/2010/1142), [S.I. 2010/2582 (W.216)](https://www.legislation.gov.uk/wsi/2010/2582) as modified by [S.I. 2012/1643 (W.212)](https://www.legislation.gov.uk/wsi/2012/1643)..
 
-[^key-95be8870765d8b3bd7482e68525eb13f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/2/1) omitted (22.5.2014) by virtue of [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [94(2)(a)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/94/2/a)
+[^c-95be8870765d8b3bd7482e68525eb13f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/2/1) omitted (22.5.2014) by virtue of [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [94(2)(a)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/94/2/a)
 
 [^f00007]: Footnote: [S.I. 2012/1643 (W.212)](https://www.legislation.gov.uk/wsi/2012/1643).
 
-[^key-f3bd0fdceb89f687e0cbddcce88d49f5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/2/1) inserted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [94(2)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/94/2/b)
+[^c-f3bd0fdceb89f687e0cbddcce88d49f5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/2/1) inserted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [94(2)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/94/2/b)
 
 [^f00008]: Footnote: ISBN No 978-0-7504-9644-5
 
-[^key-30c778b03a39dfd8584e1d7c7b62969f]: Commencement: Reg. 3 in force at 20.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/1/1)
+[^c-30c778b03a39dfd8584e1d7c7b62969f]: Commencement: Reg. 3 in force at 20.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/1/1)
 
-[^key-e8d848100477b280cdc4498cfb991ffb]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/3/1/b) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [94(3)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/94/3)
+[^c-e8d848100477b280cdc4498cfb991ffb]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/3/1/b) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [94(3)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/94/3)
 
-[^key-8dbc48c116a20f41a8b33a7a8cc277d1]: Commencement: Reg. 4 in force at 20.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/1/1)
+[^c-8dbc48c116a20f41a8b33a7a8cc277d1]: Commencement: Reg. 4 in force at 20.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/1/1)
 
-[^key-1c49b0b85dc5748df0537d45ebc0d30b]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/4/1/c) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [94(4)(a)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/94/4/a)
+[^c-1c49b0b85dc5748df0537d45ebc0d30b]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/4/1/c) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [94(4)(a)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/94/4/a)
 
-[^key-9e983f2844648e49bb634d1cfd8bebe1]: Textual amendment: [Reg. 4(1)(d)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/4/1/d) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [94(4)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/94/4/b)
+[^c-9e983f2844648e49bb634d1cfd8bebe1]: Textual amendment: [Reg. 4(1)(d)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/4/1/d) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [94(4)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/94/4/b)
 
-[^key-876187e86c8a83401f98e009aa6c24dd]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/4/3/c) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [94(4)(c)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/94/4/c)
+[^c-876187e86c8a83401f98e009aa6c24dd]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/4/3/c) substituted (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [94(4)(c)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/94/4/c)
 
-[^key-249ccba54fdc0708173f1722a022df09]: Commencement: Reg. 5 in force at 20.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/1/1)
+[^c-249ccba54fdc0708173f1722a022df09]: Commencement: Reg. 5 in force at 20.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/2127/regulation/1/1)

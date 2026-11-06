@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.6. Notice of declaration[^key-9efc97af8eed2a235a6f01a5b6de7ae9]
+## 11.6. Notice of declaration[^c-9efc97af8eed2a235a6f01a5b6de7ae9]
 
 *Extent: E+W*
 
 (1) The responsible insolvency practitioner shall give notice of the dividend to—
 
-- (a)[^key-47e1de73daf3733dd49f715d2d03b153] all creditors who have proved their debts, and
+- (a)[^c-47e1de73daf3733dd49f715d2d03b153] all creditors who have proved their debts, and
 - (b) where a member State liquidator has been appointed in relation to the insolvent, to that person.
 
 (2) The notice shall include the following particulars relating to the insolvency and the administration of the insolvent estate—
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9efc97af8eed2a235a6f01a5b6de7ae9]: Commencement: Rule 11.6 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-9efc97af8eed2a235a6f01a5b6de7ae9]: Commencement: Rule 11.6 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-47e1de73daf3733dd49f715d2d03b153]: Textual amendment: Rule 11.6(1)(a)(b) substituted for words in rule 11.6(1) (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [10(4)](https://www.legislation.gov.uk/uksi/2002/1307/rule/10/4) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))
+[^c-47e1de73daf3733dd49f715d2d03b153]: Textual amendment: Rule 11.6(1)(a)(b) substituted for words in rule 11.6(1) (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [10(4)](https://www.legislation.gov.uk/uksi/2002/1307/rule/10/4) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))

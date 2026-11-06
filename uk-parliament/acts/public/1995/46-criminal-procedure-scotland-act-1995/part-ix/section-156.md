@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Apprehension of witness.[^c18936331][^key-1c98c0e65eeda985de2e3bb819ec5731][^key-98ee7fce1185e74c34ff70e9ad72b476][^c19812811]
+## 156. Apprehension of witness.[^c18936331][^c-1c98c0e65eeda985de2e3bb819ec5731][^c-98ee7fce1185e74c34ff70e9ad72b476][^c19812811]
 
 *Extent: S*
 
@@ -54,8 +54,8 @@ summary: ''
 
 [^c18936331]: Modification: S. 156 applied (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [ss. 15](https://www.legislation.gov.uk/ukpga/2003/32/section/15), [30](https://www.legislation.gov.uk/ukpga/2003/32/section/30), [31](https://www.legislation.gov.uk/ukpga/2003/32/section/31), [94](https://www.legislation.gov.uk/ukpga/2003/32/section/94), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2003/32/schedule/1/paragraph/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2003/32/schedule/2/paragraph/2); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-1c98c0e65eeda985de2e3bb819ec5731]: Modification: S. 156 modified (31.7.2017) by [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2017/730/schedule/6/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3))
+[^c-1c98c0e65eeda985de2e3bb819ec5731]: Modification: S. 156 modified (31.7.2017) by [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2017/730/schedule/6/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3))
 
-[^key-98ee7fce1185e74c34ff70e9ad72b476]: Modification: S. 156 applied (31.7.2017) by [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2017/730/schedule/5/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3))
+[^c-98ee7fce1185e74c34ff70e9ad72b476]: Modification: S. 156 applied (31.7.2017) by [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2017/730/schedule/5/paragraph/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3))
 
 [^c19812811]: Textual amendment: Ss. 156-156D substituted (10.3.2008) for s. 156 by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 16](https://www.legislation.gov.uk/asp/2007/6/section/16), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2008/42](https://www.legislation.gov.uk/ssi/2008/42), [art. 3](https://www.legislation.gov.uk/ssi/2008/42/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2008/42/schedule)

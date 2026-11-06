@@ -33,7 +33,7 @@ summary: ''
 
 (5) [^c17635701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) In this section “**charity**” does not include a private registered provider of social housing or[^key-497edb99e199943dcc86d3812e8e0169] a registered social landlord but otherwise has the same meaning as it has under section 10 of the Charities Act 2011[^key-a684cf30c593135fbd1463096f7dc8fe].
+(6) In this section “**charity**” does not include a private registered provider of social housing or[^c-497edb99e199943dcc86d3812e8e0169] a registered social landlord but otherwise has the same meaning as it has under section 10 of the Charities Act 2011[^c-a684cf30c593135fbd1463096f7dc8fe].
 
 ## Annotations
 
@@ -41,6 +41,6 @@ summary: ''
 
 [^c17635701]: Textual amendment: S. 95(2)(4)(5) repealed (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [11(1)](https://www.legislation.gov.uk/uksi/2002/1860/article/11/1), [15](https://www.legislation.gov.uk/uksi/2002/1860/article/15), [Sch. 3 para. 31(b)](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/31/b), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6) (with [art. 11(2)](https://www.legislation.gov.uk/uksi/2002/1860/article/11/2))
 
-[^key-497edb99e199943dcc86d3812e8e0169]: Textual amendment: Words in s. 95(6) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 108](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/108) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-497edb99e199943dcc86d3812e8e0169]: Textual amendment: Words in s. 95(6) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 108](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/108) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
-[^key-a684cf30c593135fbd1463096f7dc8fe]: Textual amendment: Words in [s. 95(6)](https://www.legislation.gov.uk/ukpga/1996/53/section/95/6) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 73](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/73) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-a684cf30c593135fbd1463096f7dc8fe]: Textual amendment: Words in [s. 95(6)](https://www.legislation.gov.uk/ukpga/1996/53/section/95/6) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 73](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/73) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

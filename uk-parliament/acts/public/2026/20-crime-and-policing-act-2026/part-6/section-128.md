@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Stalking protection orders on acquittal etc[^key-670432e1d97bff836aad8bcc4663f21c]
+## 128. Stalking protection orders on acquittal etc[^c-670432e1d97bff836aad8bcc4663f21c]
 
 *Extent: E+W*
 
@@ -139,4 +139,4 @@ summary: ''
 
 ## Annotations
 
-[^key-670432e1d97bff836aad8bcc4663f21c]: Commencement: S. 128 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-670432e1d97bff836aad8bcc4663f21c]: Commencement: S. 128 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

@@ -34,11 +34,11 @@ An Act of the Scottish Parliament to make provision for the payment by certain p
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 29th March 2001 and received Royal Assent on 3rd May 2001
 
-## 1. The graduate endowment[^key-cb62d0b2f26fe6c2b1096eca3037cc6f]
+## 1. The graduate endowment[^c-cb62d0b2f26fe6c2b1096eca3037cc6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Graduate endowment: use of income[^key-58ba9b4c32049d4e8630a69cd85219cd]
+## 2. Graduate endowment: use of income[^c-58ba9b4c32049d4e8630a69cd85219cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -85,8 +85,8 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-cb62d0b2f26fe6c2b1096eca3037cc6f]: Textual amendment: [S. 1](https://www.legislation.gov.uk/asp/2001/6/section/1) repealed (5.4.2008) by [Graduate Endowment Abolition (Scotland) Act 2008 (asp 3)](https://www.legislation.gov.uk/asp/2008/3), [ss. 1(1)](https://www.legislation.gov.uk/asp/2008/3/section/1/1), [7(1)](https://www.legislation.gov.uk/asp/2008/3/section/7/1)
+[^c-cb62d0b2f26fe6c2b1096eca3037cc6f]: Textual amendment: [S. 1](https://www.legislation.gov.uk/asp/2001/6/section/1) repealed (5.4.2008) by [Graduate Endowment Abolition (Scotland) Act 2008 (asp 3)](https://www.legislation.gov.uk/asp/2008/3), [ss. 1(1)](https://www.legislation.gov.uk/asp/2008/3/section/1/1), [7(1)](https://www.legislation.gov.uk/asp/2008/3/section/7/1)
 
-[^key-58ba9b4c32049d4e8630a69cd85219cd]: Textual amendment: [S. 2](https://www.legislation.gov.uk/asp/2001/6/section/2) repealed (5.4.2008) by [Graduate Endowment Abolition (Scotland) Act 2008 (asp 3)](https://www.legislation.gov.uk/asp/2008/3), [ss. 1(1)](https://www.legislation.gov.uk/asp/2008/3/section/1/1), [7(1)](https://www.legislation.gov.uk/asp/2008/3/section/7/1)
+[^c-58ba9b4c32049d4e8630a69cd85219cd]: Textual amendment: [S. 2](https://www.legislation.gov.uk/asp/2001/6/section/2) repealed (5.4.2008) by [Graduate Endowment Abolition (Scotland) Act 2008 (asp 3)](https://www.legislation.gov.uk/asp/2008/3), [ss. 1(1)](https://www.legislation.gov.uk/asp/2008/3/section/1/1), [7(1)](https://www.legislation.gov.uk/asp/2008/3/section/7/1)
 
 [^c887656]: Commencement: [S. 5(2)](https://www.legislation.gov.uk/asp/2001/6/section/5/2) power exercised: 1.6.2001 appointed by [S.S.I. 2001/191](https://www.legislation.gov.uk/ssi/2001/191), [art. 2](https://www.legislation.gov.uk/ssi/2001/191/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Modification of warrants issued by the Secretary of State or Scottish Ministers[^key-dff3b926b960c798d134d9d82bf3961b]
+## 118. Modification of warrants issued by the Secretary of State or Scottish Ministers[^c-dff3b926b960c798d134d9d82bf3961b]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ This is subject to section 120(7).
 
 ## Annotations
 
-[^key-dff3b926b960c798d134d9d82bf3961b]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2016/25/section/118) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(h)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/h)
+[^c-dff3b926b960c798d134d9d82bf3961b]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2016/25/section/118) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(h)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/h)

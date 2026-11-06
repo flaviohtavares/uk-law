@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 686. Excluded circumstances: fundamental change of ownership[^key-4d82f86ca38c259c580623b528000db9]
+## 686. Excluded circumstances: fundamental change of ownership[^c-4d82f86ca38c259c580623b528000db9]
 
 *Extent: E+W+S+N.I.*
 
 (1) Circumstances are excluded by this section if—
 
-- (a) immediately before the transaction in securities (or the first of the transactions in securities) the party[^key-5bf53d5d49965ca1102ce95695508b9c] holds shares or an interest in shares in the close company, and
+- (a) immediately before the transaction in securities (or the first of the transactions in securities) the party[^c-5bf53d5d49965ca1102ce95695508b9c] holds shares or an interest in shares in the close company, and
 - (b) there is a fundamental change of ownership of the close company.
 
-(2)[^key-d8c1486d31ec25a28a140787ef914c59] There is a fundamental change of ownership of the close company if, as a result of the transaction or transactions in securities, the condition in subsection (3) is met.
+(2)[^c-d8c1486d31ec25a28a140787ef914c59] There is a fundamental change of ownership of the close company if, as a result of the transaction or transactions in securities, the condition in subsection (3) is met.
 
 (3) The condition in this subsection is that the original shareholder or original shareholders taken together with any associate or associates—
 
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4d82f86ca38c259c580623b528000db9]: Textual amendment: Ss. 682-687 and cross-headings substituted (8.4.2010 with effect in accordance with Sch. 12 para. 15(1) of the amending Act) for s. 682-694 and cross-headings by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/2)
+[^c-4d82f86ca38c259c580623b528000db9]: Textual amendment: Ss. 682-687 and cross-headings substituted (8.4.2010 with effect in accordance with Sch. 12 para. 15(1) of the amending Act) for s. 682-694 and cross-headings by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/2)
 
-[^key-5bf53d5d49965ca1102ce95695508b9c]: Textual amendment: Words in s. 686(1)(a) substituted (with effect in accordance with s. 33(8) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 33(5)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/33/5/a) (with [s. 33(9)](https://www.legislation.gov.uk/ukpga/2016/24/section/33/9)[(10)](https://www.legislation.gov.uk/ukpga/2016/24/section/33/10))
+[^c-5bf53d5d49965ca1102ce95695508b9c]: Textual amendment: Words in s. 686(1)(a) substituted (with effect in accordance with s. 33(8) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 33(5)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/33/5/a) (with [s. 33(9)](https://www.legislation.gov.uk/ukpga/2016/24/section/33/9)[(10)](https://www.legislation.gov.uk/ukpga/2016/24/section/33/10))
 
-[^key-d8c1486d31ec25a28a140787ef914c59]: Textual amendment: S. 686(2)-(5) substituted (with effect in accordance with s. 33(8) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 33(5)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/33/5/b) (with [s. 33(9)](https://www.legislation.gov.uk/ukpga/2016/24/section/33/9)[(10)](https://www.legislation.gov.uk/ukpga/2016/24/section/33/10))
+[^c-d8c1486d31ec25a28a140787ef914c59]: Textual amendment: S. 686(2)-(5) substituted (with effect in accordance with s. 33(8) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 33(5)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/33/5/b) (with [s. 33(9)](https://www.legislation.gov.uk/ukpga/2016/24/section/33/9)[(10)](https://www.legislation.gov.uk/ukpga/2016/24/section/33/10))

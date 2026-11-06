@@ -26,7 +26,7 @@ summary: ''
 
 - “the Administration Act” means the [^m00002] Social Security Administration (Northern Ireland) Act 1992;
 - “the Contributions and Benefits Act” means the [^m00003] Social Security Contributions and Benefits (Northern Ireland) Act 1992;
-- “the Department” means the Department for Communities[^key-27528f180b59a62d02b4e9188f4030af] ;
+- “the Department” means the Department for Communities[^c-27528f180b59a62d02b4e9188f4030af] ;
 - “government department” means a Northern Ireland department or a department of the government of the United Kingdom;
 - “the Housing Executive” means the Northern Ireland Housing Executive;
 - “the Matrimonial Causes Order” means the [^m00004] Matrimonial Causes (Northern Ireland) Order 1978;
@@ -45,7 +45,7 @@ summary: ''
 
 [^m00003]: Marginal citation: 1992 c. 7.
 
-[^key-27528f180b59a62d02b4e9188f4030af]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1999/3147/article/2/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 48](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/48) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-27528f180b59a62d02b4e9188f4030af]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1999/3147/article/2/2) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 48](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/48) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^m00004]: Marginal citation: 1978 NI 15.
 

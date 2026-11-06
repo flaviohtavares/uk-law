@@ -32,7 +32,7 @@ summary: ''
 - (a) the items of property which the Governor may, in terms of rule 47, allow a prisoner to have in the prisoner's cell or room;
 - (b) the arrangements whereby a prisoner may purchase items within, or outwith, the prison;
 - (c) the use of recreational and library facilities, or the participation in recreational activities organised by virtue of rule 88;
-- (d) the arrangements whereby a prisoner may have a nicotine vapour product[^key-48df6a6b555fe0e02d7cec78dca43864] in his or her possession;
+- (d) the arrangements whereby a prisoner may have a nicotine vapour product[^c-48df6a6b555fe0e02d7cec78dca43864] in his or her possession;
 - (e) the circumstances in which privileges may be withdrawn from a prisoner other than as a punishment imposed under rule 114(1)(b) for a breach of discipline; and
 - (f) any other matter as may be specified in a direction made by the Scottish Ministers under this rule.
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48df6a6b555fe0e02d7cec78dca43864]: Textual amendment: Words in rule 45(3)(d) substituted (30.11.2018) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2018 (S.S.I. 2018/293)](https://www.legislation.gov.uk/ssi/2018/293), [rules 1](https://www.legislation.gov.uk/ssi/2018/293/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2018/293/rule/2/4)
+[^c-48df6a6b555fe0e02d7cec78dca43864]: Textual amendment: Words in rule 45(3)(d) substituted (30.11.2018) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2018 (S.S.I. 2018/293)](https://www.legislation.gov.uk/ssi/2018/293), [rules 1](https://www.legislation.gov.uk/ssi/2018/293/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2018/293/rule/2/4)

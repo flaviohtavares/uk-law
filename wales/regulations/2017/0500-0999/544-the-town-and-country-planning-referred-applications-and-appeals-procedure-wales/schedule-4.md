@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Statutory Instruments Revoked so far as they apply to Wales[^key-13dc38b71c5bab014b350f5eefac7ca4]
+## SCHEDULE 4 — Statutory Instruments Revoked so far as they apply to Wales[^c-13dc38b71c5bab014b350f5eefac7ca4]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ Regulation 53
 
 ## Annotations
 
-[^key-13dc38b71c5bab014b350f5eefac7ca4]: Commencement: [Sch. 4](https://www.legislation.gov.uk/wsi/2017/544/schedule/4) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-13dc38b71c5bab014b350f5eefac7ca4]: Commencement: [Sch. 4](https://www.legislation.gov.uk/wsi/2017/544/schedule/4) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

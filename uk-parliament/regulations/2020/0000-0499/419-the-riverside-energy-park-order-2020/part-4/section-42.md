@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Procedures in relation to certain approvals etc.[^key-b670f12a5e3c22ad953ff078fed3a4c8]
+## 42. Procedures in relation to certain approvals etc.[^c-b670f12a5e3c22ad953ff078fed3a4c8]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b670f12a5e3c22ad953ff078fed3a4c8]: Commencement: Art. 42 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-b670f12a5e3c22ad953ff078fed3a4c8]: Commencement: Art. 42 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)

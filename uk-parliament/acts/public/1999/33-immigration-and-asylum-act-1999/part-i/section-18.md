@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Passenger information.[^c11432421][^key-4be8bf501016c8e06cfe46f8f16abdba][^key-a11ba01839f1077dc70b5e8bef4ac739]
+## 18. Passenger information.[^c11432421][^c-4be8bf501016c8e06cfe46f8f16abdba][^c-a11ba01839f1077dc70b5e8bef4ac739]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,6 +67,6 @@ In the 1971 Act, in Schedule 2, after paragraph 27, insert—
 
 [^c11432421]: Commencement: S. 18 wholly in force; s. 18 not in force at Royal Assent see s. 170(4); s. 18 in force for certain purposes at 1.3.2000 and 3.4.2000 insofar as not already in force by [S.I. 2000/464](https://www.legislation.gov.uk/uksi/2000/464), [art. 2](https://www.legislation.gov.uk/uksi/2000/464/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/464/schedule)
 
-[^key-4be8bf501016c8e06cfe46f8f16abdba]: Modification: S. 18 extended (Guernsey) (with modifications) (12.10.2011) by [The Immigration (Guernsey) Order 2011 (S.I. 2011/2444)](https://www.legislation.gov.uk/uksi/2011/2444), [art. 6](https://www.legislation.gov.uk/uksi/2011/2444/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2011/2444/schedule/3)
+[^c-4be8bf501016c8e06cfe46f8f16abdba]: Modification: S. 18 extended (Guernsey) (with modifications) (12.10.2011) by [The Immigration (Guernsey) Order 2011 (S.I. 2011/2444)](https://www.legislation.gov.uk/uksi/2011/2444), [art. 6](https://www.legislation.gov.uk/uksi/2011/2444/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2011/2444/schedule/3)
 
-[^key-a11ba01839f1077dc70b5e8bef4ac739]: Modification: S. 18 modified (coming into force in accordance with art. 1(1) of the modifying S.I.) by [The Immigration (Jersey) Order 2012 (S.I. 2012/1763)](https://www.legislation.gov.uk/uksi/2012/1763), [art. 3](https://www.legislation.gov.uk/uksi/2012/1763/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1763/schedule/2)
+[^c-a11ba01839f1077dc70b5e8bef4ac739]: Modification: S. 18 modified (coming into force in accordance with art. 1(1) of the modifying S.I.) by [The Immigration (Jersey) Order 2012 (S.I. 2012/1763)](https://www.legislation.gov.uk/uksi/2012/1763), [art. 3](https://www.legislation.gov.uk/uksi/2012/1763/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1763/schedule/2)

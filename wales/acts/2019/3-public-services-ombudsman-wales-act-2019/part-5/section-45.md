@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Criteria for own initiative investigations[^key-d16d9aea2e7490afcf0f38ff030bf0f1]
+## 45. Criteria for own initiative investigations[^c-d16d9aea2e7490afcf0f38ff030bf0f1]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d16d9aea2e7490afcf0f38ff030bf0f1]: Commencement: [S. 45](https://www.legislation.gov.uk/anaw/2019/3/section/45) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-d16d9aea2e7490afcf0f38ff030bf0f1]: Commencement: [S. 45](https://www.legislation.gov.uk/anaw/2019/3/section/45) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

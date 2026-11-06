@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Provision of accommodation for children's hearings[^key-375f9b0cfa69c04d5cccdba5ded024cd]
+## 21. Provision of accommodation for children's hearings[^c-375f9b0cfa69c04d5cccdba5ded024cd]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-375f9b0cfa69c04d5cccdba5ded024cd]: Commencement: S. 21 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-375f9b0cfa69c04d5cccdba5ded024cd]: Commencement: S. 21 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Preliminary pleas in summary cases[^key-c3360fcad67baf832aa79da1598e72d4]
+## 87. Preliminary pleas in summary cases[^c-c3360fcad67baf832aa79da1598e72d4]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3360fcad67baf832aa79da1598e72d4]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2016/1/section/87) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-c3360fcad67baf832aa79da1598e72d4]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2016/1/section/87) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

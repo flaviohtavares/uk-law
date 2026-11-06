@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Consequential Amendments[^key-8bd73cad5f2712e8096279196cd3d0d3]
+## 34. Consequential Amendments[^c-8bd73cad5f2712e8096279196cd3d0d3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The provisions listed in Schedule 8 are amended as specified in that Schedule.
 
 ## Annotations
 
-[^key-8bd73cad5f2712e8096279196cd3d0d3]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2010/208/regulation/34) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-8bd73cad5f2712e8096279196cd3d0d3]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2010/208/regulation/34) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)

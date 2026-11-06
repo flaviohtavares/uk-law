@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. “Health or social care”[^key-1fe08c0ce3c3c83ff5e895d094be2991]
+## 9. “Health or social care”[^c-1fe08c0ce3c3c83ff5e895d094be2991]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fe08c0ce3c3c83ff5e895d094be2991]: Commencement: S. 9 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/e)
+[^c-1fe08c0ce3c3c83ff5e895d094be2991]: Commencement: S. 9 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/e)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Approval by Welsh Ministers[^key-4a614bb56692f23ac9781c16e2fcdb1d]
+## 50. Approval by Welsh Ministers[^c-4a614bb56692f23ac9781c16e2fcdb1d]
 
 *Extent: E+W*
 
 (1) Proposals published under section 48 require approval under this section if—
 
-- (a) the proposals affect sixth form education and an objection has been made to the proposals in accordance with section 49(2) and has not been withdrawn in writing before the end of 28 days beginning with the end of the objection period[^key-2daf18af2eef2c4d83fe8a6101c8ff5f], or
+- (a) the proposals affect sixth form education and an objection has been made to the proposals in accordance with section 49(2) and has not been withdrawn in writing before the end of 28 days beginning with the end of the objection period[^c-2daf18af2eef2c4d83fe8a6101c8ff5f], or
 - (b) the proposals have been made by a proposer other than the relevant local authority and an objection has been made by that authority in accordance with section 49(2) and has not been withdrawn in writing before the end of 28 days beginning with the end of the objection period.
 
 (2) Proposals affect sixth form education if—
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a614bb56692f23ac9781c16e2fcdb1d]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2013/1/section/50) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-4a614bb56692f23ac9781c16e2fcdb1d]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2013/1/section/50) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
 
-[^key-2daf18af2eef2c4d83fe8a6101c8ff5f]: Textual amendment: Words in [s. 50(1)](https://www.legislation.gov.uk/anaw/2013/1/section/50/1) inserted (5.4.2025) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(5)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/5) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 6(1)](https://www.legislation.gov.uk/wsi/2025/432/article/6/1) (with [art. 6(2)](https://www.legislation.gov.uk/wsi/2025/432/article/6/2))
+[^c-2daf18af2eef2c4d83fe8a6101c8ff5f]: Textual amendment: Words in [s. 50(1)](https://www.legislation.gov.uk/anaw/2013/1/section/50/1) inserted (5.4.2025) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(5)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/5) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 6(1)](https://www.legislation.gov.uk/wsi/2025/432/article/6/1) (with [art. 6(2)](https://www.legislation.gov.uk/wsi/2025/432/article/6/2))

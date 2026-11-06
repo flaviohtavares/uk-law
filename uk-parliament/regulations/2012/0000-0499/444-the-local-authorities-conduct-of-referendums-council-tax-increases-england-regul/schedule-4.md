@@ -53,7 +53,7 @@ Regulation 14, 18 and 19
 
   | *(1) Provision* | *(2) Modification* |
   | --- | --- |
-  | Section 13AB (alteration of registers: interim publication dates)[^key-a10b56892a156b4dfa9e1afc18553a7e] | After “election”, in each place, insert “or referendum”<br>In subsection (5), for the words from “is the last day” to the end, substitute “is the 19th working day before the day of the referendum; and in this subsection “working day” means a day which is not mentioned in regulation 23(2) of the Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012.” |
+  | Section 13AB (alteration of registers: interim publication dates)[^c-a10b56892a156b4dfa9e1afc18553a7e] | After “election”, in each place, insert “or referendum”<br>In subsection (5), for the words from “is the last day” to the end, substitute “is the 19th working day before the day of the referendum; and in this subsection “working day” means a day which is not mentioned in regulation 23(2) of the Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012.” |
   |  | After subsection (8) insert—<br>> (8A) This section also applies to referendums. |
   | Section 13B (alteration of registers: pending elections) [^c21183451] | After “election”, in each place, substitute “ or referendum ”. |
   |  | After subsection (4) insert— |
@@ -71,11 +71,11 @@ Regulation 14, 18 and 19
   | Section 49(4) to (5) (effect of registers) [^c21183491] | In subsection (5) omit “prevent the rejection of the vote on a scrutiny or”. |
   | Section 60 (personation) | In subsection (2) omit “parliamentary or”. |
   | Section 61 (other voting offences) [^c21183501] | In subsection (1) after “local government election” and “local government elections”, in each place, insert “ or referendum ” or “or referendums” respectively. |
-  |  | In subsection (1A)—[^key-38561a8974a3d4937d54b9ab46ec5659] |
+  |  | In subsection (1A)—[^c-38561a8974a3d4937d54b9ab46ec5659] |
   |  | (a)<br>omit paragraphs (a), (b), (e) and (f); |
   |  | (b)<br>after “local government election” and “local government elections” in each place they occur, insert “or referendum” or “or referendums” respectively; |
   |  | (c)<br>in paragraph (d)(ii), after “that election” insert “or referendum”. |
-  |  | For subsections (2) to (3A)[^key-eed7a97ef08adcc9f8b624dedf49b082] substitute— |
+  |  | For subsections (2) to (3A)[^c-eed7a97ef08adcc9f8b624dedf49b082] substitute— |
   |  | “(2) A person shall be guilty of an offence if— |
   |  | (a) that person votes on his or her own behalf otherwise than by proxy— |
   |  | (i) more than once in the same voting area, |
@@ -89,16 +89,16 @@ Regulation 14, 18 and 19
   |  | (i) more than once in the same voting area, or |
   |  | (ii) in more than one voting area, or |
   |  | (b) that person votes in person as proxy for a person and is entitled to vote by post as proxy for someone whom he or she already knows to have voted in person.” |
-  |  | [^key-abeaeeea26b1f38b28d8da43e93c587e]. . . |
-  |  | In subsection (3B)—[^key-e33ab8ef39875927baf3721edc19ae55] |
+  |  | [^c-abeaeeea26b1f38b28d8da43e93c587e]. . . |
+  |  | In subsection (3B)—[^c-e33ab8ef39875927baf3721edc19ae55] |
   |  | (a) omit paragraphs (a)(i) and (ii) and (b); |
   |  | (b) after “local government election” and “local government elections” in each place they occur, insert “or referendum” or “or referendums” respectively; |
   |  | (c) in paragraph (a)(iv) and (c)(ii), after “those elections” insert “or referendums”. |
-  |  | In subsection (6ZB), for “, (2A)(a) to (c), (3)(a)(i) and (3A)(a) to (c)” substitute “and (3)(a)(i)”[^key-967b9925c91e5310d8972bbe4f425be9] |
+  |  | In subsection (6ZB), for “, (2A)(a) to (c), (3)(a)(i) and (3A)(a) to (c)” substitute “and (3)(a)(i)”[^c-967b9925c91e5310d8972bbe4f425be9] |
   |  | For subsection (6A) substitute— |
   |  | “(6A) A person is not guilty of an offence under subsection (2)(b) only by reason of his or her having marked a tendered ballot paper in pursuance of rule 29 of the Local Government Finance Act Referendums Rules or rule 31 of the Local Government Finance Act Referendums (Combination of Polls) Rules (as the case may be) within the meaning of the Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012.” |
   | Section 62A (offences relating to applications for postal and proxy votes) [^c21183511] | In subsection (1)(a) after “election” insert “ or referendum ”. |
-  | Section 62C (influencing voters at polling booths)[^key-bd59faa5c7643e171beb280ad0d9fb20] | In subsection (3)(b) for “rule 39 of Schedule 1” substitute “rule 28 of the Local Government Finance Act Referendums Rules or rule 30 of the Local Government Finance Act Referendums (Combination of Polls) Rules (as the case may be)”. |
+  | Section 62C (influencing voters at polling booths)[^c-bd59faa5c7643e171beb280ad0d9fb20] | In subsection (3)(b) for “rule 39 of Schedule 1” substitute “rule 28 of the Local Government Finance Act Referendums Rules or rule 30 of the Local Government Finance Act Referendums (Combination of Polls) Rules (as the case may be)”. |
   | Section 63 (breach of official duty) [^c21183521] | In subsection (3) after “local government election” in both places insert “ or referendum ”. |
   |  | In subsection (4)(a) after “election” insert “ or referendum ”. |
   | Section 65 (tampering with ballot papers, etc) [^c21183531] | In subsection (1)— |
@@ -107,7 +107,7 @@ Regulation 14, 18 and 19
   |  | In subsection (3) for “clerk” substitute “ person ”. |
   | Section 66 (requirement of secrecy) [^c21183541] | For subsection (1)(b) substitute— |
   |  | “(b) every polling observer, so attending,”. |
-  |  | In subsection (6A), in the definition of “[^key-d9b087a15b5c045901c8d9b16c800cad]**relevant election**” (in which all references to “election” are modified to be construed as references to “referendum” by paragraph 1(3)(a) of this Schedule)— |
+  |  | In subsection (6A), in the definition of “[^c-d9b087a15b5c045901c8d9b16c800cad]**relevant election**” (in which all references to “election” are modified to be construed as references to “referendum” by paragraph 1(3)(a) of this Schedule)— |
   |  | omit paragraph (a), and |
   |  | in paragraph (b) omit “under the local government Act”. |
   | Section 66A (prohibition of exit polls) [^c21183551] | In subsection (2) omit the “and” preceding paragraph (b) and after that paragraph insert— |
@@ -138,7 +138,7 @@ Regulation 14, 18 and 19
   | Section 110 (details to appear on election publications) [^c21183611] |  |
   | Section 111 (prohibition of paid canvassers) |  |
   | Section 112 (providing money for illegal purposes) |  |
-  | Section 112A (handling of postal voting documents by political campaigners)[^key-e08cdbb4675724df87d773b67fbf57eb] | In subsection (7)— |
+  | Section 112A (handling of postal voting documents by political campaigners)[^c-e08cdbb4675724df87d773b67fbf57eb] | In subsection (7)— |
   |  | (a) omit paragraphs (a) to (d), |
   |  | (b) in paragraph (g) for “any of paragraphs (a) to (f)” substitute “paragraph (e) or (f)”, and |
   |  | (c) after paragraph (h) insert— |
@@ -148,7 +148,7 @@ Regulation 14, 18 and 19
   |  | (b) in paragraph (b) for “local government election” substitute “referendum”. |
   | Section 113 (bribery) [^c21183621] |  |
   | Section 114 (treating) |  |
-  | Section 114A (undue influence)[^key-2f614de69afc6f14981f645ef7aa9d99] |  |
+  | Section 114A (undue influence)[^c-2f614de69afc6f14981f645ef7aa9d99] |  |
   | Section 116 (rights of creditors) | Omit paragraphs (b) and (c). |
   | Section 118 (interpretation of Part 2) [^c21183641] |  |
   | Section 119 (computation of time for purposes of Part 2) [^c21183651] | In subsection (1)(b) after “disregarded” insert— |
@@ -179,7 +179,7 @@ Regulation 14, 18 and 19
 
   | *(1) Provision* | *(2) Modification* |
   | --- | --- |
-  | Section 15 (combination of polls at parliamentary[^key-cd9be212238bb3b0b4a8da8b66a6892d]... and local elections) [^c21183791] | After subsection (2) insert—<br>“(2A) Where the polls at one or more of the elections or referendums mentioned in regulation 17(3) of the Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 are to be taken on the same date as a referendum, the polls may be taken together if the returning officer or counting officer for the election or other referendum and counting officer for the referendum think fit”.<br>In subsection (4)— |
+  | Section 15 (combination of polls at parliamentary[^c-cd9be212238bb3b0b4a8da8b66a6892d]... and local elections) [^c21183791] | After subsection (2) insert—<br>“(2A) Where the polls at one or more of the elections or referendums mentioned in regulation 17(3) of the Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 are to be taken on the same date as a referendum, the polls may be taken together if the returning officer or counting officer for the election or other referendum and counting officer for the referendum think fit”.<br>In subsection (4)— |
   |  | (a) after “elections”, in the first place where that word appears, insert “ or elections and a referendum (as the case may be) ”, |
   |  | (b) after “one election” insert “ or the referendum ”, and |
   |  | (c) after “elections”, in the second place where that word appears, insert “ or the elections and the referendum (as the case may be) ”. |
@@ -203,10 +203,10 @@ Regulation 14, 18 and 19
   | Schedule 4 (absent voting in Great Britain) [^c21183821] | In paragraph 1(1), in the definition of “the appropriate rules” at the end of paragraph (b), insert— |
   |  | “, and |
   |  | (c) in the case of a referendum, the Local Government Finance Act Referendums Rules or the Local Government Finance Act Referendums (Combination of Polls) Rules (as the case may be) within the meaning of the Local Authorities (Conduct of Referendums) (Council Tax Increases)(England) Regulations 2012”. |
-  |  | In paragraphs 2 to 7, 7C and 7D, except in paragraphs 3(1), 3(2), 3(4)(a)(i), 3(4)(aa), 3(5)(ca),[^key-64357dca90830583138ce2e187861e8c] 6(7), 7(4)(a) , 7(6)(a)(i), 7(6)(aa) and 7(9)(ca)[^key-8f10be255360998a9ca673dece8232d3] , after “local government election”, “local government elections”, “elections” and “election”, insert, as the context requires, “ or a referendum ”, “or referendums”, or “or the referendum”. |
+  |  | In paragraphs 2 to 7, 7C and 7D, except in paragraphs 3(1), 3(2), 3(4)(a)(i), 3(4)(aa), 3(5)(ca),[^c-64357dca90830583138ce2e187861e8c] 6(7), 7(4)(a) , 7(6)(a)(i), 7(6)(aa) and 7(9)(ca)[^c-8f10be255360998a9ca673dece8232d3] , after “local government election”, “local government elections”, “elections” and “election”, insert, as the context requires, “ or a referendum ”, “or referendums”, or “or the referendum”. |
   |  | In paragraphs 3(1) and 3(2) for “or at both” substitute “ or at referendums, or at any combination of such polls ”. |
   |  | In paragraphs 3(4)(a)(i) and 7(6)(a)(i) for “or both” substitute “ or referendums, or at any combination of such polls ”. |
-  |  | In paragraphs 3(4)(aa), 3(5)(ca), 7(6)(aa) and 7(9)(ca), for “(or both)” substitute[^key-5cd482cc7fc71c0fff127411203f0a9f] “or referendums, or at any combination of such polls”. |
+  |  | In paragraphs 3(4)(aa), 3(5)(ca), 7(6)(aa) and 7(9)(ca), for “(or both)” substitute[^c-5cd482cc7fc71c0fff127411203f0a9f] “or referendums, or at any combination of such polls”. |
   |  | In paragraphs 6(7) and 7(4)(a) for “or at both” substitute “ or at referendums, or at any combination of such polls ”. |
 
   Table 4
@@ -250,12 +250,12 @@ Regulation 14, 18 and 19
 
   | *(1) Provision* | *(2) Modification* |
   | --- | --- |
-  | Regulation 3 (interpretation) [^c21183861] | In paragraph (1), for the definition of “relevant absent voting application” substitute—[^key-e50fbccade25641ced1df7b3d2cd6437] |
+  | Regulation 3 (interpretation) [^c21183861] | In paragraph (1), for the definition of “relevant absent voting application” substitute—[^c-e50fbccade25641ced1df7b3d2cd6437] |
   |  | “**relevant absent voting application**” means an application (including a partially completed application) under paragraph 3, 4 or 6 of Schedule 4 to the Representation of the People Act 2000 as applied by the Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012; |
   |  | At the end of paragraph (2)(b) insert— |
   |  | “, or |
   |  | (c) in the case of a referendum, the corresponding rule in the Local Government Finance Act Referendums Rules or the Local Government Finance Act Referendums (Combination of Polls) Rules (as the case may be) within the meaning of the Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012.” |
-  | Regulation 4(1)(b) (forms) and, in so far as it gives effect to[^key-0578b6b262229d31b4dadeb3e8503dd5] Forms E1[^key-07c78f0d13d0af51d09ce8a2f0d2bf88] and K1[^key-69e9de42d464d60e92950ae76364809f] in Schedule 3, regulation 4(2) |  |
+  | Regulation 4(1)(b) (forms) and, in so far as it gives effect to[^c-0578b6b262229d31b4dadeb3e8503dd5] Forms E1[^c-07c78f0d13d0af51d09ce8a2f0d2bf88] and K1[^c-69e9de42d464d60e92950ae76364809f] in Schedule 3, regulation 4(2) |  |
   | Regulation 5 (communication of applications, notices, etc) |  |
   | Regulation 6 (electronic signatures and related certificates) [^c21183871] |  |
   | Regulation 7 (copies of documents) [^c21183881] |  |
@@ -270,26 +270,26 @@ Regulation 14, 18 and 19
   | Regulation 51A (additional provision concerning the requirement that an application for an absent vote must be signed by the applicant) [^c21183921] |  |
   | Regulation 51AA (additional requirement for applications for ballot papers to be sent to different address from that stated in application) [^c21183931] |  |
   | Regulation 51B (additional requirements for applications for ballot papers to be sent to different address from that shown in the record kept under paragraph 3(4) or 7(6) of Schedule 4) [^c21183941] |  |
-  | Regulation 52 (additional requirements for applications for the appointment of a proxy) | In paragraphs (A1), (1A)(a) and (2), after “local government election” insert[^key-e8b101b6732c450295119ea9174c2b33] “or referendum”. |
+  | Regulation 52 (additional requirements for applications for the appointment of a proxy) | In paragraphs (A1), (1A)(a) and (2), after “local government election” insert[^c-e8b101b6732c450295119ea9174c2b33] “or referendum”. |
   | Regulation 55 (additional requirements for applications for a proxy vote in respect of a particular election) [^c21183951] |  |
-  | Regulation 55A (additional requirements for applications for an emergency proxy vote in respect of a particular election)[^key-9873d5b64086fc57f06b66ee57bf3cfe]: grounds relating to occupation, service or employment[^key-dd83a0eea1f639e612a237e8ae37cc6c] |  |
-  | Regulation 55B (additional requirements for application for an emergency proxy vote in respect of a particular[^key-22df9a91b50c5a08191fe992137895e8] parliamentary election or local government election in England[^key-9296e0d46ba3862ec6cc3f4c7ff2076d] : grounds relating to voter identification) |  |
-  | Regulation 56 (closing dates for applications)[^M_F_030e5a5f-ad78-44d5-bd0d-d8d93f0330ec] | In paragraphs (1) to (3A), after “election” in each place insert “or referendum”.<br>In paragraph (3D), after “election” in the second and third places it occurs insert “or referendum”.<br>In paragraph (3F)(a), after “election” in each place it occurs insert[^key-5dd9b97c87419b12936be385b84301ac] “or referendum”.<br>In paragraphs (4) to (5A) and (7)(b), after “election” in each place insert “or referendum”. |
+  | Regulation 55A (additional requirements for applications for an emergency proxy vote in respect of a particular election)[^c-9873d5b64086fc57f06b66ee57bf3cfe]: grounds relating to occupation, service or employment[^c-dd83a0eea1f639e612a237e8ae37cc6c] |  |
+  | Regulation 55B (additional requirements for application for an emergency proxy vote in respect of a particular[^c-22df9a91b50c5a08191fe992137895e8] parliamentary election or local government election in England[^c-9296e0d46ba3862ec6cc3f4c7ff2076d] : grounds relating to voter identification) |  |
+  | Regulation 56 (closing dates for applications)[^M_F_030e5a5f-ad78-44d5-bd0d-d8d93f0330ec] | In paragraphs (1) to (3A), after “election” in each place insert “or referendum”.<br>In paragraph (3D), after “election” in the second and third places it occurs insert “or referendum”.<br>In paragraph (3F)(a), after “election” in each place it occurs insert[^c-5dd9b97c87419b12936be385b84301ac] “or referendum”.<br>In paragraphs (4) to (5A) and (7)(b), after “election” in each place insert “or referendum”. |
   | Regulation 56A (grounds relating to voter identification) | In paragraph (3)—<br>in sub-paragraph (a), after “election” in the second place it occurs insert “or referendum”;<br>in sub-paragraph (b)(i) and (ii), after “election” insert “or referendum”.<br>In paragraph (6)—<br>in sub-paragraph (a), after “election” in the second place it occurs insert “or referendum”;<br>in sub-paragraph (b), after “election” in the first place it occurs insert “or referendum”. |
-  | Regulation 56B (verification of information provided in a relevant absent voting application)[^key-fcc024e6d20e2cb1489d0a2bd9766ba1] |  |
+  | Regulation 56B (verification of information provided in a relevant absent voting application)[^c-fcc024e6d20e2cb1489d0a2bd9766ba1] |  |
   | Regulation 56C (power to request additional evidence in relation to relevant absent voting applications where registration officer considers it necessary) |  |
   | Regulation 56D (processing of information provided in connection with a relevant absent voting application) |  |
-  | Regulation 57 (grant or refusal of applications) [^c21183971] | In paragraph (3A)(b)—[^key-f93e05c092cf6eddfc55867977b989b4]<br>(a) after “election” insert “or referendum”;<br>(b) after “elections” insert “or referendums”.<br>In paragraph (5) after “election” insert “or referendum”. In paragraph (7), after “local government election” insert “or referendum”. |
+  | Regulation 57 (grant or refusal of applications) [^c21183971] | In paragraph (3A)(b)—[^c-f93e05c092cf6eddfc55867977b989b4]<br>(a) after “election” insert “or referendum”;<br>(b) after “elections” insert “or referendums”.<br>In paragraph (5) after “election” insert “or referendum”. In paragraph (7), after “local government election” insert “or referendum”. |
   | Regulation 58 (notice of appeal) |  |
   | Regulation 59 (cancellation of proxy appointment) |  |
   | Regulation 60B (requirement to provide fresh signatures following rejection of a postal voting statement) |  |
   | Regulation 61B [^c21183981] | In paragraph (3)(a) for “any candidate or agent” substitute “ those ”. |
-  | Regulation 61C (notification of a rejected postal voting statement or document[^key-bff93d3352ee3889d4b5c720f72ac9dc] ) |  |
+  | Regulation 61C (notification of a rejected postal voting statement or document[^c-bff93d3352ee3889d4b5c720f72ac9dc] ) |  |
   | Regulation 62 (marked register for polling stations) [^c21183991] |  |
   | Regulation 64 (interpretation of Part 5) [^c21184001] | Omit the definition of “agent” |
   | Regulation 65 (combination of polls) | Substitute— |
   |  | “**65** Where the polls at elections or referendums are taken together under— |
-  |  | (a) section 15(1), (2) or (2A) of the 1985 Act (combination of polls at parliamentary[^key-d14cd56628a8e0fd9aeb15c4e3854e2e]... and local government elections), |
+  |  | (a) section 15(1), (2) or (2A) of the 1985 Act (combination of polls at parliamentary[^c-d14cd56628a8e0fd9aeb15c4e3854e2e]... and local government elections), |
   |  | (b) section 36(3) or (3AB) of the 1983 Act (combination of polls at local elections), or |
   |  | (c) the Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012, the proceedings at the issue and receipt of postal ballot papers may, if the returning and counting officers concerned agree , be taken together.” |
   | Regulation 66 (form of postal voting statement) | Omit paragraph (a). |
@@ -322,7 +322,7 @@ Regulation 14, 18 and 19
   | Regulation 77 (spoilt postal ballot papers) [^c21184071] | In paragraph (2)(b) for “election” substitute “ poll ”. |
   | Regulation 78 (lost postal ballot papers) [^c21184081] | In paragraph (2A)(b) for “election” substitute “ poll ”. |
   | Regulation 78A (cancellation of postal ballot papers) | In paragraph (1), for “after the final nomination day at a parliamentary or local government election” substitute “during the referendum period in respect of a referendum”.<br>Omit paragraph (5). |
-  | Regulation 79(2A), (2B), (4) and (4A) (alternative means of returning postal ballot paper or postal voting statement)[^key-f96737d7b0631968e07005cfe9d56b62] | In paragraph (4A) for “polling agents” substitute “polling observers (if any)”. |
+  | Regulation 79(2A), (2B), (4) and (4A) (alternative means of returning postal ballot paper or postal voting statement)[^c-f96737d7b0631968e07005cfe9d56b62] | In paragraph (4A) for “polling agents” substitute “polling observers (if any)”. |
   | Regulation 79A (requirements of return of postal voting documents form) |  |
   | Regulation 79B (rejection of postal voting documents handed in at a polling station) |  |
   | Regulation 79C (procedure for dealing with rejected postal voting documents handed in at a polling station) | In paragraph (2) for “polling agents” substitute “polling observers (if any)” |
@@ -334,7 +334,7 @@ Regulation 14, 18 and 19
   |  | For paragraph (1) substitute—<br>“(1) The counting officer shall give to those persons who by virtue of rule 35(2)(a) to (d) of the Local Government Finance Act Referendums Rules or rule 37(3)(a) to (d) of the Local Government Finance Act Referendums (Combination of Polls) Rules (as the case may be) within the meaning of the Local Authorities (Conduct of Referendums)(Council Tax Increases) (England) Regulations 2012 are entitled to attend at the counting of the votes and—<br>(a) where the issue and receipt of postal ballot papers are taken together with the poll at an election, each candidate, or<br>(b) where the issue and receipt of postal ballot papers are taken together with the poll at a Local Government Act referendum, persons who by virtue of rule 35(2)(a) to (e) of the Local Government Act Referendums Rules or rule 37(3)(a) to (e) of the Local Government Act Referendums (Combination of Polls) Rules within the meaning of the Local Authorities (Conduct of Referendums) (England) Regulations 2012 are entitled to attend at the counting of the votes,<br>not less than 48 hours' notice in writing of each occasion on which a postal voters' ballot box and the envelopes contained in it is to be opened”. |
   | Regulation 81 (postal ballot boxes and receptacles) [^c21184101] | In paragraphs (3) and (4) for “the agents” substitute “ those ”. |
   | Regulation 82 (receipt of covering envelopes) |  |
-  | Regulation 82A (postal voting documents handed in to the returning officer)[^key-c936ffd943be8f62852c369d4eacaf3f] | In paragraph (1), for the words from “in accordance with” to the end substitute “in accordance with rule 36(4)(a) of the Local Government Finance Act Referendums Rules or rule 38(8)(a) of the Local Government Finance Act (Combination of Polls) Rules”. |
+  | Regulation 82A (postal voting documents handed in to the returning officer)[^c-c936ffd943be8f62852c369d4eacaf3f] | In paragraph (1), for the words from “in accordance with” to the end substitute “in accordance with rule 36(4)(a) of the Local Government Finance Act Referendums Rules or rule 38(8)(a) of the Local Government Finance Act (Combination of Polls) Rules”. |
   | Regulation 82B (rejection of postal voting documents handed in to the returning officer) |  |
   | Regulation 82C (procedure for dealing with rejected postal voting documents handed in to the returning officer) |  |
   | Regulation 82D (postal voting documents left behind with the returning officer) |  |
@@ -342,15 +342,15 @@ Regulation 14, 18 and 19
   | Regulation 83 (opening of postal voters' ballot box) | In paragraph (1) for “the agents” substitute “ such of those who are entitled to attend as are present ”. |
   | Regulation 84 (opening of covering envelopes) [^c21184111] |  |
   | Regulation 84A (confirming receipt of postal voting statements) [^c21184121] |  |
-  | [^key-ba34cbdab3feec9f8a319a4c5ea024ce]. . . | [^key-ba34cbdab3feec9f8a319a4c5ea024ce]. . . |
+  | [^c-ba34cbdab3feec9f8a319a4c5ea024ce]. . . | [^c-ba34cbdab3feec9f8a319a4c5ea024ce]. . . |
   | Regulation 85A (procedure in relation to postal voting statements: personal identifier verification) [^c21184141] | In paragraph (4) for “agents” substitute “ counting observers or agents or both (as the case may be) ”. |
-  | [^key-ba34cbdab3feec9f8a319a4c5ea024ce]. . . | [^key-ba34cbdab3feec9f8a319a4c5ea024ce]. . . |
+  | [^c-ba34cbdab3feec9f8a319a4c5ea024ce]. . . | [^c-ba34cbdab3feec9f8a319a4c5ea024ce]. . . |
   | Regulation 86 (opening of ballot paper envelopes) |  |
   | Regulation 86A (retrieval of cancelled postal ballot papers) [^c21184161] | In paragraph (2)(b) and (f) for “agents” substitute “ counting observers or agents or both (as the case may be) ”. |
-  | Regulation 87 (lists of rejected postal ballot papers or postal voting documents[^key-c672fec9ad9d8a62e15041c820a53141] ) |  |
+  | Regulation 87 (lists of rejected postal ballot papers or postal voting documents[^c-c672fec9ad9d8a62e15041c820a53141] ) |  |
   | Regulation 88 (checking of lists kept under regulation 87) |  |
   | Regulation 89 (sealing of receptacles) [^c21184171] |  |
-  | Regulation 91 (forwarding of documents) [^c21184181] | After paragraph (3A) insert—[^key-ed5e2e8fbcb1841aa2ad7ab7cc3f4c6b] |
+  | Regulation 91 (forwarding of documents) [^c21184181] | After paragraph (3A) insert—[^c-ed5e2e8fbcb1841aa2ad7ab7cc3f4c6b] |
   |  | (3B) In the case of a referendum, the documents to be forwarded under paragraphs (1) and (3A)(a) are to be forwarded to the relevant registration officer determined in accordance with the Local Government Finance Act Referendums Rules or the Local Government Finance Act Referendums (Combination of Polls) Rules. |
   | Regulation 92 (interpretation and application of Part VI etc) [^c21184191] |  |
   | Regulation 98 (supply of free copy of full register for electoral purposes and restrictions on use) [^c21184201] | After paragraph (8) insert—<br>“(8A) Where a registration officer is not the counting officer for a referendum held wholly or partly within his or her registration area, the registration officer shall supply, free of charge, to the counting officer for that referendum, as many printed copies of the documents referred to in paragraph (4)(a) and (b) above as the counting officer may reasonably require for the purposes of such a referendum, together with one copy of each in data form.”<br>In paragraph (9) after “election” insert “ or referendum ”. |
@@ -358,12 +358,12 @@ Regulation 14, 18 and 19
   | Regulation 116 (interpretation of Part 7) [^c21184221] |  |
   | Regulation 118 (inspection of documents open to public inspection) [^c21184231] |  |
   | Regulation 119 (conditions on the use, supply and disclosure of documents open to public inspection) [^c21184241] |  |
-  | In Schedule 3, Form E1[^key-e62d0ef5c3b9be1cade95a6b01b4c37a] [^c21184251] | After “REPRESENTATION OF THE PEOPLE ACTS” insert “ \*\[\[*insert name of council*\] REFERENDUM\] ”. |
-  |  | “After “Local government electoral area(s)” insert[^key-1ba4fae46a7f87d43354eae9d20c5b74] “ Referendum voting area .................................”. |
-  |  | After the words “\*\[local government\] election” in both places where they occur, insert[^key-28f0d7a72a79ef2d6fc3e14dee058206] “ \*\[referendum\]”. |
-  |  | After the words “\*\[electoral area\], in both places where they occur, insert “\*\[voting area\].[^key-7a70b235600f97136c52790af1c6fc81] |
+  | In Schedule 3, Form E1[^c-e62d0ef5c3b9be1cade95a6b01b4c37a] [^c21184251] | After “REPRESENTATION OF THE PEOPLE ACTS” insert “ \*\[\[*insert name of council*\] REFERENDUM\] ”. |
+  |  | “After “Local government electoral area(s)” insert[^c-1ba4fae46a7f87d43354eae9d20c5b74] “ Referendum voting area .................................”. |
+  |  | After the words “\*\[local government\] election” in both places where they occur, insert[^c-28f0d7a72a79ef2d6fc3e14dee058206] “ \*\[referendum\]”. |
+  |  | After the words “\*\[electoral area\], in both places where they occur, insert “\*\[voting area\].[^c-7a70b235600f97136c52790af1c6fc81] |
   |  | In the note after “election” in each place insert “ or referendum ”. |
-  | In Schedule 3, Form K1[^key-ddc7acdb405a6e905ed569aeb83f8e12] | For “Representation of the People Acts” substitute “Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations”.<br>For “Parliamentary Election” substitute “Local Government Finance Act Referendum”. |
+  | In Schedule 3, Form K1[^c-ddc7acdb405a6e905ed569aeb83f8e12] | For “Representation of the People Acts” substitute “Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations”.<br>For “Parliamentary Election” substitute “Local Government Finance Act Referendum”. |
 
   Table 7
 
@@ -380,15 +380,15 @@ Regulation 14, 18 and 19
 
   Table 8
 
-  [^key-04d97bb4fd585de8cf920c67bdb2e1a7]...
+  [^c-04d97bb4fd585de8cf920c67bdb2e1a7]...
 
-  | *[^key-04d97bb4fd585de8cf920c67bdb2e1a7]...* |  |
+  | *[^c-04d97bb4fd585de8cf920c67bdb2e1a7]...* |  |
   | --- | --- |
-  | [^key-04d97bb4fd585de8cf920c67bdb2e1a7]. . . | [^key-04d97bb4fd585de8cf920c67bdb2e1a7]. . . |
-  | [^key-04d97bb4fd585de8cf920c67bdb2e1a7]. . . | [^key-04d97bb4fd585de8cf920c67bdb2e1a7]. . . |
-  | [^key-04d97bb4fd585de8cf920c67bdb2e1a7]. . . | [^key-04d97bb4fd585de8cf920c67bdb2e1a7]. . . |
-  | [^key-04d97bb4fd585de8cf920c67bdb2e1a7]. . . | [^key-04d97bb4fd585de8cf920c67bdb2e1a7]. . . |
-  | [^key-04d97bb4fd585de8cf920c67bdb2e1a7]. . . | [^key-04d97bb4fd585de8cf920c67bdb2e1a7]. . . |
+  | [^c-04d97bb4fd585de8cf920c67bdb2e1a7]. . . | [^c-04d97bb4fd585de8cf920c67bdb2e1a7]. . . |
+  | [^c-04d97bb4fd585de8cf920c67bdb2e1a7]. . . | [^c-04d97bb4fd585de8cf920c67bdb2e1a7]. . . |
+  | [^c-04d97bb4fd585de8cf920c67bdb2e1a7]. . . | [^c-04d97bb4fd585de8cf920c67bdb2e1a7]. . . |
+  | [^c-04d97bb4fd585de8cf920c67bdb2e1a7]. . . | [^c-04d97bb4fd585de8cf920c67bdb2e1a7]. . . |
+  | [^c-04d97bb4fd585de8cf920c67bdb2e1a7]. . . | [^c-04d97bb4fd585de8cf920c67bdb2e1a7]. . . |
 
   Table 9
 
@@ -454,7 +454,7 @@ Regulation 14, 18 and 19
 
 [^c21183441]: Textual amendment: 1983 c2.
 
-[^key-a10b56892a156b4dfa9e1afc18553a7e]: Textual amendment: Words in Sch. 4 table 1 inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment No.2) Regulations 2014 (S.I. 2014/925)](https://www.legislation.gov.uk/uksi/2014/925), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2014/925/regulation/9) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/4))
+[^c-a10b56892a156b4dfa9e1afc18553a7e]: Textual amendment: Words in Sch. 4 table 1 inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment No.2) Regulations 2014 (S.I. 2014/925)](https://www.legislation.gov.uk/uksi/2014/925), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2014/925/regulation/9) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/4))
 
 [^c21183451]: Textual amendment: The existing section 13B was substituted (together with sections 13 and 13A) for section 13 as originally enacted by paragraph 6 of Schedule 1 to the Representation of the People Act 2000 ( c. 2); section 13B was amended by section 11 of the [Electoral Administration Act 2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41).
 
@@ -468,19 +468,19 @@ Regulation 14, 18 and 19
 
 [^c21183501]: Textual amendment: Section 61 was amended by paragraph 2 of Schedule 2, and Schedule 5, to the [Representation of the People Act 1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), [paragraph 10](https://www.legislation.gov.uk/ukpga/1985/50/paragraph/10) of Schedule 3 to the [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29), [paragraph 83](https://www.legislation.gov.uk/ukpga/1999/29/paragraph/83) of Schedule 27 to the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and section 38(3) of the [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-38561a8974a3d4937d54b9ab46ec5659]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/a/i)
+[^c-38561a8974a3d4937d54b9ab46ec5659]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/a/i)
 
-[^key-eed7a97ef08adcc9f8b624dedf49b082]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 substituted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/c), [16(5)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/a/ii/aa) (with [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/16))
+[^c-eed7a97ef08adcc9f8b624dedf49b082]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 substituted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/c), [16(5)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/a/ii/aa) (with [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/16))
 
-[^key-abeaeeea26b1f38b28d8da43e93c587e]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 omitted (31.1.2024) by virtue of [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/c), [16(5)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/a/ii/bb) (with [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/16))
+[^c-abeaeeea26b1f38b28d8da43e93c587e]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 omitted (31.1.2024) by virtue of [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/c), [16(5)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/a/ii/bb) (with [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/16))
 
-[^key-e33ab8ef39875927baf3721edc19ae55]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/c), [16(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/a/iii) (with [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/16))
+[^c-e33ab8ef39875927baf3721edc19ae55]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 inserted (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/c), [16(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/a/iii) (with [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/16))
 
-[^key-967b9925c91e5310d8972bbe4f425be9]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [53(2)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/53/2) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-967b9925c91e5310d8972bbe4f425be9]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [53(2)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/53/2) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
 [^c21183511]: Textual amendment: Section 62A was inserted by section 40 of the [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-bd59faa5c7643e171beb280ad0d9fb20]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 inserted (2.5.2024) by [The Mayoral and Police and Crime Commissioner Elections, Recall Petitions and Referendums (Ballot Secrecy, Candidates and Undue Influence) Regulations 2023 (S.I. 2023/1141)](https://www.legislation.gov.uk/uksi/2023/1141), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/6/a)
+[^c-bd59faa5c7643e171beb280ad0d9fb20]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 inserted (2.5.2024) by [The Mayoral and Police and Crime Commissioner Elections, Recall Petitions and Referendums (Ballot Secrecy, Candidates and Undue Influence) Regulations 2023 (S.I. 2023/1141)](https://www.legislation.gov.uk/uksi/2023/1141), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/6/a)
 
 [^c21183521]: Textual amendment: The existing section 63 was substituted by paragraph 19 of Schedule 4 to the [Representation of the People Act 1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50) and amended by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [sections 7](https://www.legislation.gov.uk/uksi/2001/1149/section/7), [41(8)](https://www.legislation.gov.uk/uksi/2001/1149/section/41/8) and 46(6) of the [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22) and sections 25(a) and 39 of and Schedule 7 to the [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12).
 
@@ -488,7 +488,7 @@ Regulation 14, 18 and 19
 
 [^c21183541]: Textual amendment: Section 66 was amended by paragraph 3 of Schedule 3 to the [Representation of the People Act 1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), [paragraph 11](https://www.legislation.gov.uk/ukpga/1985/50/paragraph/11) of Schedule 3 to the [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29) and paragraphs 82, 86 and 96 of Schedule 1 to the [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-d9b087a15b5c045901c8d9b16c800cad]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/a/i)
+[^c-d9b087a15b5c045901c8d9b16c800cad]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/a/i)
 
 [^c21183551]: Textual amendment: Section 66A was inserted by paragraphs 3 and 6 of Schedule 6 to the [Representation of the People Act 2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2).
 
@@ -504,11 +504,11 @@ Regulation 14, 18 and 19
 
 [^c21183611]: Textual amendment: The existing section 110 was substituted for section 110 as originally enacted by paragraph 14 of Schedule 18 to the [Political Parties, Elections and Referendums Act 2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41).
 
-[^key-e08cdbb4675724df87d773b67fbf57eb]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/a/ii)
+[^c-e08cdbb4675724df87d773b67fbf57eb]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/a/ii)
 
 [^c21183621]: Textual amendment: Section 113 was amended by paragraph 30 of Schedule 3 to the [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29).
 
-[^key-2f614de69afc6f14981f645ef7aa9d99]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 substituted (1.11.2023) by [The Mayoral and Police and Crime Commissioner Elections, Recall Petitions and Referendums (Ballot Secrecy, Candidates and Undue Influence) Regulations 2023 (S.I. 2023/1141)](https://www.legislation.gov.uk/uksi/2023/1141), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/6/b)
+[^c-2f614de69afc6f14981f645ef7aa9d99]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 1 substituted (1.11.2023) by [The Mayoral and Police and Crime Commissioner Elections, Recall Petitions and Referendums (Ballot Secrecy, Candidates and Undue Influence) Regulations 2023 (S.I. 2023/1141)](https://www.legislation.gov.uk/uksi/2023/1141), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2023/1141/regulation/6/b)
 
 [^c21183641]: Textual amendment: Section 118 was amended by paragraph 43 of Schedule 4 to the [Representation of the People Act 1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), [section 135](https://www.legislation.gov.uk/ukpga/1985/50/section/135) of and paragraph 15 of Schedule 18 to the [Political Parties, Elections and Referendums Act 2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41) and paragraphs 119 and 133 of Schedule 1 to the [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
@@ -540,7 +540,7 @@ Regulation 14, 18 and 19
 
 [^c21183781]: Textual amendment: [1985 c.50](https://www.legislation.gov.uk/ukpga/1985/50).
 
-[^key-cd9be212238bb3b0b4a8da8b66a6892d]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 2 omitted (31.12.2020) by virtue of [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/11/a) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-cd9be212238bb3b0b4a8da8b66a6892d]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 2 omitted (31.12.2020) by virtue of [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/11/a) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c21183791]: Textual amendment: The European Assembly to which section 15 as originally enacted referred was renamed the European Parliament by section 3 of the [European Communities (Amendment) Act 1986 (c. 58)](https://www.legislation.gov.uk/ukpga/1986/58); section 15 was amended by paragraph 7 of Schedule 7 to the [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26) and section 3(2) of the [Elections Act 2001 (c. 7)](https://www.legislation.gov.uk/ukpga/2001/7).
 
@@ -550,11 +550,11 @@ Regulation 14, 18 and 19
 
 [^c21183821]: Textual amendment: Schedule 4 was amended by paragraph 164 of Schedule 27 to the Civil Partnerships Act 2004 (c 33), and section 5, 14, 35 and 38 of, and paragraphs 19, 20 and 137 of Schedule 1 to, the [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-64357dca90830583138ce2e187861e8c]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 3 inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/b/i/aa)
+[^c-64357dca90830583138ce2e187861e8c]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 3 inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/b/i/aa)
 
-[^key-8f10be255360998a9ca673dece8232d3]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 3 substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/b/i/bb)
+[^c-8f10be255360998a9ca673dece8232d3]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 3 substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/b/i/bb)
 
-[^key-5cd482cc7fc71c0fff127411203f0a9f]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 3 inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/b/ii)
+[^c-5cd482cc7fc71c0fff127411203f0a9f]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 3 inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/b/ii)
 
 [^c21183831]: Textual amendment: 2000 c 41. All provisions mentioned in this table were inserted by section 29 of the [Electoral Administration Act 2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
@@ -564,13 +564,13 @@ Regulation 14, 18 and 19
 
 [^c21183861]: Textual amendment: As amended by SI 2001/1700, 2002/1871 and 2006/2910.
 
-[^key-e50fbccade25641ced1df7b3d2cd6437]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/i)
+[^c-e50fbccade25641ced1df7b3d2cd6437]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(i)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/i)
 
-[^key-0578b6b262229d31b4dadeb3e8503dd5]: Textual amendment: Words in Sch. 4 table 6 substituted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment No.2) Regulations 2014 (S.I. 2014/925)](https://www.legislation.gov.uk/uksi/2014/925), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/3), [10(b)](https://www.legislation.gov.uk/uksi/2014/925/regulation/10/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/4))
+[^c-0578b6b262229d31b4dadeb3e8503dd5]: Textual amendment: Words in Sch. 4 table 6 substituted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment No.2) Regulations 2014 (S.I. 2014/925)](https://www.legislation.gov.uk/uksi/2014/925), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/3), [10(b)](https://www.legislation.gov.uk/uksi/2014/925/regulation/10/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/4))
 
-[^key-07c78f0d13d0af51d09ce8a2f0d2bf88]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/ii)
+[^c-07c78f0d13d0af51d09ce8a2f0d2bf88]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/ii)
 
-[^key-69e9de42d464d60e92950ae76364809f]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/b/i)
+[^c-69e9de42d464d60e92950ae76364809f]: Textual amendment: Word in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/b/i)
 
 [^c21183871]: Textual amendment: As amended by SI 2006/2910.
 
@@ -588,37 +588,37 @@ Regulation 14, 18 and 19
 
 [^c21183941]: Textual amendment: Inserted by SI 2006/752 and amended by SI 2006/2910.
 
-[^key-e8b101b6732c450295119ea9174c2b33]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/iii)
+[^c-e8b101b6732c450295119ea9174c2b33]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(iii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/iii)
 
 [^c21183951]: Textual amendment: Substituted by [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752) and amended by SI 2006/2910.
 
-[^key-9873d5b64086fc57f06b66ee57bf3cfe]: Textual amendment: Words in Sch. 4 table 6 inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment No.2) Regulations 2014 (S.I. 2014/925)](https://www.legislation.gov.uk/uksi/2014/925), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/3), [10(a)](https://www.legislation.gov.uk/uksi/2014/925/regulation/10/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/925/schedule/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/4))
+[^c-9873d5b64086fc57f06b66ee57bf3cfe]: Textual amendment: Words in Sch. 4 table 6 inserted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment No.2) Regulations 2014 (S.I. 2014/925)](https://www.legislation.gov.uk/uksi/2014/925), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/3), [10(a)](https://www.legislation.gov.uk/uksi/2014/925/regulation/10/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/925/schedule/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/4))
 
-[^key-dd83a0eea1f639e612a237e8ae37cc6c]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [53(3)(a)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/53/3/a) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-dd83a0eea1f639e612a237e8ae37cc6c]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [53(3)(a)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/53/3/a) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-22df9a91b50c5a08191fe992137895e8]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [53(3)(b)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/53/3/b) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-22df9a91b50c5a08191fe992137895e8]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [53(3)(b)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/53/3/b) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-9296e0d46ba3862ec6cc3f4c7ff2076d]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(iv)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/iv)
+[^c-9296e0d46ba3862ec6cc3f4c7ff2076d]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(iv)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/iv)
 
 [^M_F_030e5a5f-ad78-44d5-bd0d-d8d93f0330ec]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [53(3)(c)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/53/3/c) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
 
-[^key-5dd9b97c87419b12936be385b84301ac]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(v)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/v)
+[^c-5dd9b97c87419b12936be385b84301ac]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(v)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/v)
 
-[^key-fcc024e6d20e2cb1489d0a2bd9766ba1]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(vi)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/vi)
+[^c-fcc024e6d20e2cb1489d0a2bd9766ba1]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(vi)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/vi)
 
 [^c21183971]: Textual amendment: Amended by SI 2006/752 and 2006/2910.
 
-[^key-f93e05c092cf6eddfc55867977b989b4]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(vii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/vii)
+[^c-f93e05c092cf6eddfc55867977b989b4]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(vii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/vii)
 
 [^c21183981]: Textual amendment: Inserted by 2006/2910.
 
-[^key-bff93d3352ee3889d4b5c720f72ac9dc]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/b/ii)
+[^c-bff93d3352ee3889d4b5c720f72ac9dc]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/b/ii)
 
 [^c21183991]: Textual amendment: Amended by SI 2006/2910.
 
 [^c21184001]: Textual amendment: Amended by SI 2006/2910.
 
-[^key-d14cd56628a8e0fd9aeb15c4e3854e2e]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 omitted (31.12.2020) by virtue of [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/11/b) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-d14cd56628a8e0fd9aeb15c4e3854e2e]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 omitted (31.12.2020) by virtue of [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/11/b) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c21184011]: Textual amendment: Amended by SI 2006/2910.
 
@@ -636,29 +636,29 @@ Regulation 14, 18 and 19
 
 [^c21184081]: Textual amendment: Amended by SI 2006/752 and 2006/2910.
 
-[^key-f96737d7b0631968e07005cfe9d56b62]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/b/iii)
+[^c-f96737d7b0631968e07005cfe9d56b62]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/b/iii)
 
 [^c21184101]: Textual amendment: Amended by SI 2006/2910.
 
-[^key-c936ffd943be8f62852c369d4eacaf3f]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/b/iv)
+[^c-c936ffd943be8f62852c369d4eacaf3f]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/b/iv)
 
 [^c21184111]: Textual amendment: Amended by SI 2006/2910.
 
 [^c21184121]: Textual amendment: Inserted by SI 2006/2910.
 
-[^key-ba34cbdab3feec9f8a319a4c5ea024ce]: Textual amendment: Words in Sch. 4 table 6 omitted (6.4.2014) by virtue of [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment No.2) Regulations 2014 (S.I. 2014/925)](https://www.legislation.gov.uk/uksi/2014/925), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/3), [10(d)](https://www.legislation.gov.uk/uksi/2014/925/regulation/10/d) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/4))
+[^c-ba34cbdab3feec9f8a319a4c5ea024ce]: Textual amendment: Words in Sch. 4 table 6 omitted (6.4.2014) by virtue of [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment No.2) Regulations 2014 (S.I. 2014/925)](https://www.legislation.gov.uk/uksi/2014/925), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/3), [10(d)](https://www.legislation.gov.uk/uksi/2014/925/regulation/10/d) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/4))
 
 [^c21184141]: Textual amendment: Inserted by SI 2006/2910.
 
 [^c21184161]: Textual amendment: Inserted by SI 2006/2910.
 
-[^key-c672fec9ad9d8a62e15041c820a53141]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(b)(v)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/b/v)
+[^c-c672fec9ad9d8a62e15041c820a53141]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(b)(v)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/b/v)
 
 [^c21184171]: Textual amendment: Inserted by SI 2006/2910.
 
 [^c21184181]: Textual amendment: Amended by SI 2006/752 and 2006/2910.
 
-[^key-ed5e2e8fbcb1841aa2ad7ab7cc3f4c6b]: Textual amendment: Words in Sch. 4 table 6 substituted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment No.2) Regulations 2014 (S.I. 2014/925)](https://www.legislation.gov.uk/uksi/2014/925), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/3), [10(e)](https://www.legislation.gov.uk/uksi/2014/925/regulation/10/e) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/4))
+[^c-ed5e2e8fbcb1841aa2ad7ab7cc3f4c6b]: Textual amendment: Words in Sch. 4 table 6 substituted (6.4.2014) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment No.2) Regulations 2014 (S.I. 2014/925)](https://www.legislation.gov.uk/uksi/2014/925), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/3), [10(e)](https://www.legislation.gov.uk/uksi/2014/925/regulation/10/e) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/925/regulation/1/4))
 
 [^c21184191]: Textual amendment: Inserted by SI 2002/1871 and amended by SI 2006/2910 and SI 2006/752.
 
@@ -672,23 +672,23 @@ Regulation 14, 18 and 19
 
 [^c21184241]: Textual amendment: Inserted by SI 2006/2910 and amended by paragraph 9 of Schedule 1 to the Counter-Terrorism Act 2008.
 
-[^key-e62d0ef5c3b9be1cade95a6b01b4c37a]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(viii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/viii)
+[^c-e62d0ef5c3b9be1cade95a6b01b4c37a]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [16(5)(c)(viii)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/16/5/c/viii)
 
 [^c21184251]: Textual amendment: Amended by SI 2005/2114.
 
-[^key-1ba4fae46a7f87d43354eae9d20c5b74]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 11(c)(i)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/11/c/i) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-1ba4fae46a7f87d43354eae9d20c5b74]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 inserted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 11(c)(i)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/11/c/i) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-28f0d7a72a79ef2d6fc3e14dee058206]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 11(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/11/c/ii) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-28f0d7a72a79ef2d6fc3e14dee058206]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 11(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/11/c/ii) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-7a70b235600f97136c52790af1c6fc81]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 11(c)(iii)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/11/c/iii) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-7a70b235600f97136c52790af1c6fc81]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 11(c)(iii)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/11/c/iii) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-ddc7acdb405a6e905ed569aeb83f8e12]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(b)(vi)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/b/vi)
+[^c-ddc7acdb405a6e905ed569aeb83f8e12]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 6 substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 7(3)(b)(vi)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/7/3/b/vi)
 
 [^c21184261]: Textual amendment: SI 2004/294.
 
 [^c21184271]: Textual amendment: Amended by SI 2006/3278.
 
-[^key-04d97bb4fd585de8cf920c67bdb2e1a7]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 8 revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-04d97bb4fd585de8cf920c67bdb2e1a7]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2012/444/schedule/4) Table 8 revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c21184291]: Textual amendment: [S.I. 2006/3304](https://www.legislation.gov.uk/uksi/2006/3304) as amended by SI 2010/1172 and 2011/563.
 

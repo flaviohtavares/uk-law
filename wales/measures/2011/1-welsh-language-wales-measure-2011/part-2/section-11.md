@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Powers[^key-43b31500d5f21bfbd68bf5f882c27ae6]
+## 11. Powers[^c-43b31500d5f21bfbd68bf5f882c27ae6]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ except with the approval of the Welsh Ministers.
 
 ## Annotations
 
-[^key-43b31500d5f21bfbd68bf5f882c27ae6]: Commencement: [S. 11](https://www.legislation.gov.uk/mwa/2011/1/section/11) in force at 1.6.2012 by [S.I. 2012/1423](https://www.legislation.gov.uk/wsi/2012/1423), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/1423/article/2/a)
+[^c-43b31500d5f21bfbd68bf5f882c27ae6]: Commencement: [S. 11](https://www.legislation.gov.uk/mwa/2011/1/section/11) in force at 1.6.2012 by [S.I. 2012/1423](https://www.legislation.gov.uk/wsi/2012/1423), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/1423/article/2/a)

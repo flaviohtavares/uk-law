@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Function of giving legal advice to justices of the peace[^key-38a0b057b66f55bff50f7c255de8e15a]
+## 28. Function of giving legal advice to justices of the peace[^c-38a0b057b66f55bff50f7c255de8e15a]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ when exercising the functions.
 
 ## Annotations
 
-[^key-38a0b057b66f55bff50f7c255de8e15a]: Textual amendment: Ss. 28, 29 and crossheading substituted for ss. 27-29 (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/26); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/ii), [3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-38a0b057b66f55bff50f7c255de8e15a]: Textual amendment: Ss. 28, 29 and crossheading substituted for ss. 27-29 (10.1.2020 for specified purposes, 6.4.2020 in so far as not already in force) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/26); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [regs. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/ii), [3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)

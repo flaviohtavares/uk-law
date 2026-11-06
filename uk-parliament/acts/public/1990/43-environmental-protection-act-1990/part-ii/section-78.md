@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-[^key-3da51a7ccee498b45f10d3dca8d46bed]
+[^c-3da51a7ccee498b45f10d3dca8d46bed]
 
 Except as provided by regulations made by the Secretary of State under this section, nothing in this Part applies to radioactive waste within the meaning of the Schedule 23 to the Environmental Permitting Regulations (radioactive substances activities)[^c20957981]; but regulations may—
 
@@ -46,7 +46,7 @@ Except as provided by regulations made by the Secretary of State under this sect
 
 [^c20958031]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-3da51a7ccee498b45f10d3dca8d46bed]: Modification: Pt. 2 modified (S.) (27.3.2011) by [The Waste Management Licensing (Scotland) Regulations 2011 (S.S.I. 2011/228)](https://www.legislation.gov.uk/ssi/2011/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/228/regulation/1/1), [sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2011/228/schedule/4/paragraph/11) (with [regs. 31-33](https://www.legislation.gov.uk/ssi/2011/228/regulation/31))
+[^c-3da51a7ccee498b45f10d3dca8d46bed]: Modification: Pt. 2 modified (S.) (27.3.2011) by [The Waste Management Licensing (Scotland) Regulations 2011 (S.S.I. 2011/228)](https://www.legislation.gov.uk/ssi/2011/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/228/regulation/1/1), [sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2011/228/schedule/4/paragraph/11) (with [regs. 31-33](https://www.legislation.gov.uk/ssi/2011/228/regulation/31))
 
 [^c20957981]: Textual amendment: Words in s. 78 substituted (E.W.) (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [107](https://www.legislation.gov.uk/uksi/2010/675/regulation/107), [Sch. 26 para. 5(9)(a)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/5/9/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
 

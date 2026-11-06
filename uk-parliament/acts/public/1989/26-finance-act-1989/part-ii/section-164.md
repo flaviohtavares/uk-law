@@ -46,7 +46,7 @@ summary: ''
 (5) In the Table—
 
 - (a) in the first column, in the entry relating to Part III of the [^c13116351]Taxes Management Act 1970, the words “, except sections 16 and 24(2)” shall be omitted;
-- (b)[^key-d8c653d16f855396791b7bdf9f23228a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d8c653d16f855396791b7bdf9f23228a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the entry relating to section 481(5)(k) of that Act shall be omitted from the first column and an entry relating to section 482(2) of that Act shall be inserted at the appropriate place in the second column.
 
 (6) In consequence of the amendment made by subsection (5)(a) above section16(6) of the Taxes Management Act 1970 shall cease to have effect.
@@ -60,4 +60,4 @@ summary: ''
 
 [^c13116351]: Marginal citation: [1970 c.9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-d8c653d16f855396791b7bdf9f23228a]: Textual amendment: [S. 164(5)(b)](https://www.legislation.gov.uk/ukpga/1989/26/section/164/5/b) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-d8c653d16f855396791b7bdf9f23228a]: Textual amendment: [S. 164(5)(b)](https://www.legislation.gov.uk/ukpga/1989/26/section/164/5/b) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 12](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/12) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

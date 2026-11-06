@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1A — Land transactions: overseas entities[^key-c00b40173de37bb37cbc40a6d689e70c]
+## SCHEDULE 1A — Land transactions: overseas entities[^c-c00b40173de37bb37cbc40a6d689e70c]
 
 *Extent: S*
 
@@ -185,7 +185,7 @@ For the purposes of paragraphs 2(1)(c) and 7(2)(a) and (4)(a), a qualifying regi
 - “**register of overseas entities**” means the register kept under section 3 of the Economic Crime (Transparency and Enforcement) Act 2022;
 - “**registered overseas entity**” means an overseas entity that is registered in the register of overseas entities (but see sub-paragraphs (2) and (3)).
 
-(2)[^key-f791f252487b6f4fbc80cf0df9e52463] For the purpose of this schedule, an overseas entity that has failed to comply with any of the following duties is not to be treated as being a “registered overseas entity” until it remedies the failure.
+(2)[^c-f791f252487b6f4fbc80cf0df9e52463] For the purpose of this schedule, an overseas entity that has failed to comply with any of the following duties is not to be treated as being a “registered overseas entity” until it remedies the failure.
 
 (3) The duties are—
 
@@ -196,6 +196,6 @@ For the purposes of paragraphs 2(1)(c) and 7(2)(a) and (4)(a), a qualifying regi
 
 ## Annotations
 
-[^key-c00b40173de37bb37cbc40a6d689e70c]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/asp/2012/5/schedule/1A) inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/9); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-c00b40173de37bb37cbc40a6d689e70c]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/asp/2012/5/schedule/1A) inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/9); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-f791f252487b6f4fbc80cf0df9e52463]: Textual amendment: [Sch. 1A para. 9(2)-(4)](https://www.legislation.gov.uk/asp/2012/5/schedule/1A/paragraph/9/2) substituted for [sch. 1A](https://www.legislation.gov.uk/asp/2012/5/schedule/1A) [para. 9(2)](https://www.legislation.gov.uk/asp/2012/5/schedule/1A/paragraph/9/2) (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 177(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/177/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z60)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z60)
+[^c-f791f252487b6f4fbc80cf0df9e52463]: Textual amendment: [Sch. 1A para. 9(2)-(4)](https://www.legislation.gov.uk/asp/2012/5/schedule/1A/paragraph/9/2) substituted for [sch. 1A](https://www.legislation.gov.uk/asp/2012/5/schedule/1A) [para. 9(2)](https://www.legislation.gov.uk/asp/2012/5/schedule/1A/paragraph/9/2) (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 177(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/177/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z60)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z60)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Appeals from decisions of the SDPB[^key-d4cceaee7773c8b3e348f920e39b3c21]
+## 29. Appeals from decisions of the SDPB[^c-d4cceaee7773c8b3e348f920e39b3c21]
 
 *Extent: S*
 
@@ -101,4 +101,4 @@ the referees shall determine the appeal and notify the relevant Health Board in 
 
 ## Annotations
 
-[^key-d4cceaee7773c8b3e348f920e39b3c21]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2010/208/regulation/29) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-d4cceaee7773c8b3e348f920e39b3c21]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2010/208/regulation/29) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)

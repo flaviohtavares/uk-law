@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-71397f0202f73b785e5e24c4e0188de6] There is to be a body corporate known as the Office for Standards in Education, Children's Services and Skills.
+(1)[^c-71397f0202f73b785e5e24c4e0188de6] There is to be a body corporate known as the Office for Standards in Education, Children's Services and Skills.
 
-(2)[^key-71397f0202f73b785e5e24c4e0188de6] In this Part that body is referred to as “**the Office**”.
+(2)[^c-71397f0202f73b785e5e24c4e0188de6] In this Part that body is referred to as “**the Office**”.
 
-(3)[^key-71397f0202f73b785e5e24c4e0188de6] The Office is to perform its functions on behalf of the Crown.
+(3)[^c-71397f0202f73b785e5e24c4e0188de6] The Office is to perform its functions on behalf of the Crown.
 
-(4)[^key-4d6808cf3ddf1e77d268030074750187][^key-b3aaeb8d73b09291a44aed167b0a0b83] Schedule 11 makes further provision about the Office.
+(4)[^c-4d6808cf3ddf1e77d268030074750187][^c-b3aaeb8d73b09291a44aed167b0a0b83] Schedule 11 makes further provision about the Office.
 
 ## Annotations
 
-[^key-71397f0202f73b785e5e24c4e0188de6]: Commencement: S. 112(1)-(3) in force at 12.12.2006 by [S.I. 2006/2990](https://www.legislation.gov.uk/uksi/2006/2990), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2990/article/2/b)
+[^c-71397f0202f73b785e5e24c4e0188de6]: Commencement: S. 112(1)-(3) in force at 12.12.2006 by [S.I. 2006/2990](https://www.legislation.gov.uk/uksi/2006/2990), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/2990/article/2/b)
 
-[^key-4d6808cf3ddf1e77d268030074750187]: Commencement: S. 112(4) in force at 12.12.2006 for specified purposes by [S.I. 2006/2990](https://www.legislation.gov.uk/uksi/2006/2990), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/2990/article/2/c)
+[^c-4d6808cf3ddf1e77d268030074750187]: Commencement: S. 112(4) in force at 12.12.2006 for specified purposes by [S.I. 2006/2990](https://www.legislation.gov.uk/uksi/2006/2990), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/2990/article/2/c)
 
-[^key-b3aaeb8d73b09291a44aed167b0a0b83]: Commencement: S. 112(4) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(r)](https://www.legislation.gov.uk/uksi/2007/935/article/5/r)
+[^c-b3aaeb8d73b09291a44aed167b0a0b83]: Commencement: S. 112(4) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(r)](https://www.legislation.gov.uk/uksi/2007/935/article/5/r)

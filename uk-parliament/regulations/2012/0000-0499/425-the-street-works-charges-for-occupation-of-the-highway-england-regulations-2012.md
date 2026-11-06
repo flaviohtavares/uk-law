@@ -44,19 +44,19 @@ Coming into force
 
 14th March 2012
 
-The Secretary of State for Transport makes the following Regulations in exercise of the powers conferred by sections 74A and 104 of the New Roads and Street Works Act 1991[^f00001].[^key-50f29d052e01705705aef461cca332cc][^key-75c6c5a8fdb7982636e483ea61fbd77a]
+The Secretary of State for Transport makes the following Regulations in exercise of the powers conferred by sections 74A and 104 of the New Roads and Street Works Act 1991[^f00001].[^c-50f29d052e01705705aef461cca332cc][^c-75c6c5a8fdb7982636e483ea61fbd77a]
 
-## 1. Citation, commencement, expiry and application[^key-184e92c620af4d70cd916bdd6d55f0e5]
+## 1. Citation, commencement, expiry and application[^c-184e92c620af4d70cd916bdd6d55f0e5]
 
 (1) These Regulations may be cited as the Street Works (Charges for Occupation of the Highway) (England) Regulations 2012.
 
 (2) They come into force on 14th March 2012.
 
-(3)[^key-3bad3c41e7b7008a36db97493ecb400a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3bad3c41e7b7008a36db97493ecb400a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) These Regulations apply to England only.
 
-## 2. Interpretation[^key-497eda2b2d144cb113c0f7d4f91608f3]
+## 2. Interpretation[^c-497eda2b2d144cb113c0f7d4f91608f3]
 
 In these Regulations—
 
@@ -64,11 +64,11 @@ In these Regulations—
 - “the 1991 Act” means the New Roads and Street Works Act 1991;
 - “the 2009 Regulations” means the Street Works (Charges for Unreasonably Prolonged Occupation of the Highway) (England) Regulations 2009[^f00003];
 - “actual start of works notice”, “works clear notice” and “works closed notice” mean notices given in accordance with regulation 6 of the 2009 Regulations;
-- “Approved Authority” means a [^key-29c8726515c0923fb3e327b1fbecbadd]... highway authority approved by an order made by the Secretary of State under section 74A(2) of the 1991 Act;
+- “Approved Authority” means a [^c-29c8726515c0923fb3e327b1fbecbadd]... highway authority approved by an order made by the Secretary of State under section 74A(2) of the 1991 Act;
 - “traffic-sensitive street” means a street designated as traffic-sensitive under section 64 of the 1991 Act; and
 - “traffic-sensitive time” in relation to a traffic-sensitive street has the meaning given in the 2009 Regulations.
 
-## 3. Application of Regulations[^key-9a7604de2a9b2483def22bba30a3eb4b]
+## 3. Application of Regulations[^c-9a7604de2a9b2483def22bba30a3eb4b]
 
 (1) Subject to paragraph (2), these Regulations apply to every maintainable highway which is—
 
@@ -84,7 +84,7 @@ in respect of which the highway authority is an Approved Authority.
 - (a) “bridleway” and “footpath” have the meaning given by section 329(1) of the 1980 Act; and
 - (b) “protected street” has the same meaning as it does for the purpose of section 61(1) of the 1991 Act.
 
-## 4. Prescribed Charges[^key-94a2bcc9a791af1df65e05fbc0329ae3]
+## 4. Prescribed Charges[^c-94a2bcc9a791af1df65e05fbc0329ae3]
 
 (1) Subject to paragraphs (4) and (5), an undertaker executing street works in a highway to which these Regulations apply must pay the Approved Authority a charge determined in accordance with paragraph (2).
 
@@ -111,7 +111,7 @@ in respect of which the highway authority is an Approved Authority.
 - (a) “cycle track” has the meaning given in section 329(1) of the 1980 Act; and
 - (b) “verge” means any part of the highway which is not a carriageway, footway or cycle track.
 
-## 5. Duration of Works[^key-f1be0060dd8a6c8a8f12973380685f9a]
+## 5. Duration of Works[^c-f1be0060dd8a6c8a8f12973380685f9a]
 
 (1) This regulation makes provision for the determination of the duration of street works.
 
@@ -119,9 +119,9 @@ in respect of which the highway authority is an Approved Authority.
 
 (3) If it can be proved that the date stated in the actual start of works notice is incorrect, or the undertaker is not required by the 2009 Regulations to give such a notice, the street works are to be treated as beginning on the date the works actually began.
 
-(4) If it can be proved that the date stated in the works clear notice or works closed notice is incorrect, or the undertaker is not required by the 2009 Regulations to give such a notice, the street works are to be treated as ending on the date that the steps set out in regulation [^key-f42e43bf5f4c02466abc56027659fd42]... 6(4)(a) to (c) of the 2009 Regulations were carried out.
+(4) If it can be proved that the date stated in the works clear notice or works closed notice is incorrect, or the undertaker is not required by the 2009 Regulations to give such a notice, the street works are to be treated as ending on the date that the steps set out in regulation [^c-f42e43bf5f4c02466abc56027659fd42]... 6(4)(a) to (c) of the 2009 Regulations were carried out.
 
-(5) An undertaker is deemed to have carried out the steps in regulation [^key-5be210cb4bf321c7fffe84962f1de25f]... 6(4)(b)(i) of the 2009 Regulations if the undertaker has endeavoured to remove all signing, lighting and guarding and not more than five items of signing, lighting or guarding remain on the highway.
+(5) An undertaker is deemed to have carried out the steps in regulation [^c-5be210cb4bf321c7fffe84962f1de25f]... 6(4)(b)(i) of the 2009 Regulations if the undertaker has endeavoured to remove all signing, lighting and guarding and not more than five items of signing, lighting or guarding remain on the highway.
 
 (6) If paragraph (5) applies the Approved Authority may—
 
@@ -130,7 +130,7 @@ in respect of which the highway authority is an Approved Authority.
 
 (7) If the undertaker has not complied with the request by the end of the next working day following the day on which the request was received, the duration of street works is to be treated as re-commencing on the date the request was received and ending on the day that the undertaker complies fully with the request.
 
-## 6. Payment[^key-949debd7d33d818ec2befb92ecf1352e]
+## 6. Payment[^c-949debd7d33d818ec2befb92ecf1352e]
 
 (1) An undertaker must, on receipt of a request in writing, pay to the Approved Authority the amount of charges calculated in accordance with regulation 4.
 
@@ -138,11 +138,11 @@ in respect of which the highway authority is an Approved Authority.
 
 (3) A request in writing under paragraph (2) may be given by electronic communication, by post or by hand delivery to the undertaker.
 
-## 7. Application of charges and keeping of accounts[^key-97bff90f9d712ed7bf08bbc40a063db0]
+## 7. Application of charges and keeping of accounts[^c-97bff90f9d712ed7bf08bbc40a063db0]
 
 (1) An Approved Authority may deduct from charges received from undertakers pursuant to these Regulations, its reasonable costs of operating and evaluating the effectiveness of the scheme under which they are paid.
 
-(2)[^key-d9e9151748594cb573008e40c22d50fd] An Approved Authority must apply 50% of the net proceeds in accordance with each of the following paragraphs—
+(2)[^c-d9e9151748594cb573008e40c22d50fd] An Approved Authority must apply 50% of the net proceeds in accordance with each of the following paragraphs—
 
 - (a) for purposes intended to reduce the disruption and other adverse effects caused by street works; and
 - (b) for the purposes of highway maintenance.
@@ -153,7 +153,7 @@ in respect of which the highway authority is an Approved Authority.
 
 (4) The accounts published in accordance with paragraph (3) must include details as to how the Approved Authority has applied any net proceeds in accordance with paragraph (2).
 
-## 8. Revocation[^key-a2ee7f498f1f2b7285ceef49e81d0418]
+## 8. Revocation[^c-a2ee7f498f1f2b7285ceef49e81d0418]
 
 The Street Works (Charges for Occupation of the Highway) (England) Regulations 2001[^f00004] are revoked.
 
@@ -193,38 +193,38 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00001]: Footnote: [1991 c.22](https://www.legislation.gov.uk/ukpga/1991/22). Section 74A was inserted by the Transport Act [2000 (c.38)](https://www.legislation.gov.uk/ukpga/2000/38), section 255 and amended by the Traffic Management Act [2004 (c.18)](https://www.legislation.gov.uk/ukpga/2004/18), section 40. The functions of the Secretary of State under sections 74A and 104 are, so far as exercisable in relation to Wales vested in the Welsh Ministers. Those functions were transferred to the National Assembly for Wales, by the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I 1999/672)](https://www.legislation.gov.uk/uksi/1999/672), article 2, Schedule 1. By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers.
 
-[^key-50f29d052e01705705aef461cca332cc]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/425): functions made exercisable concurrently (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [21(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/21/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/21/2) (with [art. 21(6)](https://www.legislation.gov.uk/uksi/2023/1432/article/21/6))
+[^c-50f29d052e01705705aef461cca332cc]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/425): functions made exercisable concurrently (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [21(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/21/1)[(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/21/2) (with [art. 21(6)](https://www.legislation.gov.uk/uksi/2023/1432/article/21/6))
 
-[^key-75c6c5a8fdb7982636e483ea61fbd77a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/425) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/21/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/21/4)
+[^c-75c6c5a8fdb7982636e483ea61fbd77a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2012/425) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/21/3)[(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/21/4)
 
-[^key-184e92c620af4d70cd916bdd6d55f0e5]: Commencement: Reg. 1 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
+[^c-184e92c620af4d70cd916bdd6d55f0e5]: Commencement: Reg. 1 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
 
-[^key-3bad3c41e7b7008a36db97493ecb400a]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/3) omitted (28.4.2018) by virtue of [The Street Works (Charges for Occupation of the Highway) (England) (Amendment) Regulations 2018 (S.I. 2018/215)](https://www.legislation.gov.uk/uksi/2018/215), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/215/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/215/regulation/2/2)
+[^c-3bad3c41e7b7008a36db97493ecb400a]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/3) omitted (28.4.2018) by virtue of [The Street Works (Charges for Occupation of the Highway) (England) (Amendment) Regulations 2018 (S.I. 2018/215)](https://www.legislation.gov.uk/uksi/2018/215), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/215/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/215/regulation/2/2)
 
-[^key-497eda2b2d144cb113c0f7d4f91608f3]: Commencement: Reg. 2 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
+[^c-497eda2b2d144cb113c0f7d4f91608f3]: Commencement: Reg. 2 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
 
 [^f00002]: Footnote: [1980 c.66](https://www.legislation.gov.uk/ukpga/1980/66). The definition of “cycle track” was amended by the Cycle Tracks Act [1984 (c.38)](https://www.legislation.gov.uk/ukpga/1984/38) and by the Road Traffic (Consequential Provisions) Act [1988 (c.54)](https://www.legislation.gov.uk/ukpga/1988/54), Schedule 3. There are other amendments which are not relevant to these Regulations.
 
 [^f00003]: Footnote: [S.I. 2009/303](https://www.legislation.gov.uk/uksi/2009/303).
 
-[^key-29c8726515c0923fb3e327b1fbecbadd]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2012/425/regulation/2) omitted (1.4.2015) by virtue of [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 55](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/55)
+[^c-29c8726515c0923fb3e327b1fbecbadd]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2012/425/regulation/2) omitted (1.4.2015) by virtue of [The Infrastructure Act 2015 (Strategic Highways Companies) (Consequential, Transitional and Savings Provisions) Regulations 2015 (S.I. 2015/377)](https://www.legislation.gov.uk/uksi/2015/377), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/377/regulation/1/2), [Sch. para. 55](https://www.legislation.gov.uk/uksi/2015/377/schedule/paragraph/55)
 
-[^key-9a7604de2a9b2483def22bba30a3eb4b]: Commencement: Reg. 3 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
+[^c-9a7604de2a9b2483def22bba30a3eb4b]: Commencement: Reg. 3 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
 
-[^key-94a2bcc9a791af1df65e05fbc0329ae3]: Commencement: Reg. 4 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
+[^c-94a2bcc9a791af1df65e05fbc0329ae3]: Commencement: Reg. 4 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
 
-[^key-f1be0060dd8a6c8a8f12973380685f9a]: Commencement: Reg. 5 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
+[^c-f1be0060dd8a6c8a8f12973380685f9a]: Commencement: Reg. 5 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
 
-[^key-f42e43bf5f4c02466abc56027659fd42]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2012/425/regulation/5/4) omitted (3.4.2023) by virtue of [The Street and Road Works (Miscellaneous Amendments) (England) Regulations 2022 (S.I. 2022/831)](https://www.legislation.gov.uk/uksi/2022/831), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/831/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2022/831/regulation/5/2/a)
+[^c-f42e43bf5f4c02466abc56027659fd42]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2012/425/regulation/5/4) omitted (3.4.2023) by virtue of [The Street and Road Works (Miscellaneous Amendments) (England) Regulations 2022 (S.I. 2022/831)](https://www.legislation.gov.uk/uksi/2022/831), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/831/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2022/831/regulation/5/2/a)
 
-[^key-5be210cb4bf321c7fffe84962f1de25f]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2012/425/regulation/5/5) omitted (3.4.2023) by virtue of [The Street and Road Works (Miscellaneous Amendments) (England) Regulations 2022 (S.I. 2022/831)](https://www.legislation.gov.uk/uksi/2022/831), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/831/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2022/831/regulation/5/2/b)
+[^c-5be210cb4bf321c7fffe84962f1de25f]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2012/425/regulation/5/5) omitted (3.4.2023) by virtue of [The Street and Road Works (Miscellaneous Amendments) (England) Regulations 2022 (S.I. 2022/831)](https://www.legislation.gov.uk/uksi/2022/831), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/831/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2022/831/regulation/5/2/b)
 
-[^key-949debd7d33d818ec2befb92ecf1352e]: Commencement: Reg. 6 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
+[^c-949debd7d33d818ec2befb92ecf1352e]: Commencement: Reg. 6 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
 
-[^key-97bff90f9d712ed7bf08bbc40a063db0]: Commencement: Reg. 7 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
+[^c-97bff90f9d712ed7bf08bbc40a063db0]: Commencement: Reg. 7 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
 
-[^key-d9e9151748594cb573008e40c22d50fd]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/7/2)[(2A)](https://www.legislation.gov.uk/uksi/2012/425/regulation/7/2A) substituted for [reg. 7(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/7/2) (5.1.2026) by [The Street and Road Works (Charges and Penalties) (Amendments) (England) Regulations 2025 (S.I. 2025/1074)](https://www.legislation.gov.uk/uksi/2025/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1074/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/1074/regulation/5/2)
+[^c-d9e9151748594cb573008e40c22d50fd]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/7/2)[(2A)](https://www.legislation.gov.uk/uksi/2012/425/regulation/7/2A) substituted for [reg. 7(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/7/2) (5.1.2026) by [The Street and Road Works (Charges and Penalties) (Amendments) (England) Regulations 2025 (S.I. 2025/1074)](https://www.legislation.gov.uk/uksi/2025/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1074/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/1074/regulation/5/2)
 
-[^key-a2ee7f498f1f2b7285ceef49e81d0418]: Commencement: Reg. 8 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
+[^c-a2ee7f498f1f2b7285ceef49e81d0418]: Commencement: Reg. 8 in force at 14.3.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/425/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2001/4060](https://www.legislation.gov.uk/uksi/2001/4060).

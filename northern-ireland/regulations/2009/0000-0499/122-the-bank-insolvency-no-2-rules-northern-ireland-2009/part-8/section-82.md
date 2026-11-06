@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Realisation of security by creditor[^key-95e42015b2ac83a5aa996e10c773fb80]
+## 82. Realisation of security by creditor[^c-95e42015b2ac83a5aa996e10c773fb80]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.105 of the 1991 Rules.
 
 ## Annotations
 
-[^key-95e42015b2ac83a5aa996e10c773fb80]: Commencement: Rule 82 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-95e42015b2ac83a5aa996e10c773fb80]: Commencement: Rule 82 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

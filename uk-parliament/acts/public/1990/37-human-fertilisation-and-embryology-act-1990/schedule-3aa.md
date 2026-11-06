@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3AA — Requirements where gametes or embryos imported from third country[^key-c7a7077dd78c7ca6788a705c53923653]
+## SCHEDULE 3AA — Requirements where gametes or embryos imported from third country[^c-c7a7077dd78c7ca6788a705c53923653]
 
 *Extent: E+W+S+N.I.*
 
 Section 24(4AA), (4AB) and (4AC)
 
-### A1.[^key-5b115db5939f919f8e38f30bd7e93e1c]
+### A1.[^c-5b115db5939f919f8e38f30bd7e93e1c]
 
 For the purposes of this Act, as it applies in relation to Great Britain, the fourth Directive is to be read subject to the modifications set out in paragraph 3A.
 
@@ -43,7 +43,7 @@ For the purposes of this Act, as it applies in relation to Great Britain, the fo
 
 - (a) comply with measures specified in the direction for the purposes of ensuring that any qualifying gametes or embryos imported from a third country meet standards of quality and safety equivalent to those laid down in this Act,
 - (b) provide the Authority with any information specified in the direction for the purposes of securing compliance with the requirements of Parts A to E of Annex I to the fourth Directive (information to be provided by importing tissue establishments), and
-- (c)[^key-a7d2e05d6dc45868cade292d4d8d371c] provide the Authority—
+- (c)[^c-a7d2e05d6dc45868cade292d4d8d371c] provide the Authority—
   - (i) in relation to Great Britain, with any information or documents specified in the direction for the purposes of demonstrating traceability, and that the import is a one-off import within the meaning given by section 24(4AE),
   - (ii) in relation to Northern Ireland, with any information or documents specified in the direction for the purposes of securing compliance with the requirements of Articles 5(2) and 7(1) of the fourth Directive (requirements in relation to one-off imports).
 
@@ -56,7 +56,7 @@ For the purposes of this Act, as it applies in relation to Great Britain, the fo
   - (ii) provide any information specified in the direction which the Authority requires for the purposes of securing compliance with the requirements of Article 6(2) of the fourth Directive (updated information), and
 - (d) a requirement that the person must notify the Authority of any changes in circumstances of the person’s third country supplier of which the person is aware.
 
-### Modifications to the fourth Directive[^key-936bda85ac1394c11b77669dc0d264d2]
+### Modifications to the fourth Directive[^c-936bda85ac1394c11b77669dc0d264d2]
 
 **3A.** (1) The modifications to the fourth Directive are as follows.
 
@@ -114,10 +114,10 @@ For the purposes of this Act, as it applies in relation to Great Britain, the fo
 
 ## Annotations
 
-[^key-c7a7077dd78c7ca6788a705c53923653]: Textual amendment: Sch. 3AA inserted (6.3.2018 for specified purposes, 1.4.2018 in so far as not already in force) by [The Human Fertilisation and Embryology (Amendment) Regulations 2018 (S.I. 2018/334)](https://www.legislation.gov.uk/uksi/2018/334), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/334/regulation/1/3), [5(6)](https://www.legislation.gov.uk/uksi/2018/334/regulation/5/6)
+[^c-c7a7077dd78c7ca6788a705c53923653]: Textual amendment: Sch. 3AA inserted (6.3.2018 for specified purposes, 1.4.2018 in so far as not already in force) by [The Human Fertilisation and Embryology (Amendment) Regulations 2018 (S.I. 2018/334)](https://www.legislation.gov.uk/uksi/2018/334), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/334/regulation/1/3), [5(6)](https://www.legislation.gov.uk/uksi/2018/334/regulation/5/6)
 
-[^key-5b115db5939f919f8e38f30bd7e93e1c]: Textual amendment: Sch. 3AA para. A1 and cross-heading inserted (31.12.2020) [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [regs. 1](https://www.legislation.gov.uk/uksi/2019/482/regulation/1), [2(18)(a)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/18/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/482/regulation/4)) (as amended by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [17(a)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/17/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-5b115db5939f919f8e38f30bd7e93e1c]: Textual amendment: Sch. 3AA para. A1 and cross-heading inserted (31.12.2020) [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [regs. 1](https://www.legislation.gov.uk/uksi/2019/482/regulation/1), [2(18)(a)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/18/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/482/regulation/4)) (as amended by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [17(a)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/17/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-a7d2e05d6dc45868cade292d4d8d371c]: Textual amendment: Sch. 3AA para. 2(c) substituted (31.12.2020) by [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [reg. 2(18)(b)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/18/b) (as amended by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/17/b))
+[^c-a7d2e05d6dc45868cade292d4d8d371c]: Textual amendment: Sch. 3AA para. 2(c) substituted (31.12.2020) by [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [reg. 2(18)(b)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/18/b) (as amended by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/17/b))
 
-[^key-936bda85ac1394c11b77669dc0d264d2]: Textual amendment: Sch. 3AA para. 3A and cross-headings inserted (31.12.2020) by [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [regs. 1](https://www.legislation.gov.uk/uksi/2019/482/regulation/1), [2(18)(c)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/18/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/482/regulation/4)) (as amended by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [17(c)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/17/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-936bda85ac1394c11b77669dc0d264d2]: Textual amendment: Sch. 3AA para. 3A and cross-headings inserted (31.12.2020) by [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [regs. 1](https://www.legislation.gov.uk/uksi/2019/482/regulation/1), [2(18)(c)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/18/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/482/regulation/4)) (as amended by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [17(c)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/17/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

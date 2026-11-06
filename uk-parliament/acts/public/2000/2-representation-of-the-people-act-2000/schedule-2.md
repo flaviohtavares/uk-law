@@ -24,20 +24,20 @@ Section 8.
 
 ### Introductory
 
-**1.**[^key-e19dcf1033437d8abf79f7a092ff7ef2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e19dcf1033437d8abf79f7a092ff7ef2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Franchise for parliamentary elections
 
-**2.**[^key-e19dcf1033437d8abf79f7a092ff7ef2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e19dcf1033437d8abf79f7a092ff7ef2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Registration of overseas electors
 
-**3.**[^key-e19dcf1033437d8abf79f7a092ff7ef2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e19dcf1033437d8abf79f7a092ff7ef2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Franchise for European Parliamentary elections
 
-**4.**[^key-e19dcf1033437d8abf79f7a092ff7ef2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e19dcf1033437d8abf79f7a092ff7ef2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e19dcf1033437d8abf79f7a092ff7ef2]: Textual amendment: Sch. 2 paras. 1-4 repealed (16.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 7 para. 11(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/11/a) (with [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/13)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)
+[^c-e19dcf1033437d8abf79f7a092ff7ef2]: Textual amendment: Sch. 2 paras. 1-4 repealed (16.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 7 para. 11(a)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/11/a) (with [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/13)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)

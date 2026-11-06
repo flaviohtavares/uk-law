@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Power of High Court in appeal under section 107A of 1995 Act[^key-4d835ae17aaae6086b6efda214d15ebf]
+## 75. Power of High Court in appeal under section 107A of 1995 Act[^c-4d835ae17aaae6086b6efda214d15ebf]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 104(1) of the 1995 Act (which makes provision as regards the power of
 
 ## Annotations
 
-[^key-4d835ae17aaae6086b6efda214d15ebf]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2010/13/section/75) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-4d835ae17aaae6086b6efda214d15ebf]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2010/13/section/75) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

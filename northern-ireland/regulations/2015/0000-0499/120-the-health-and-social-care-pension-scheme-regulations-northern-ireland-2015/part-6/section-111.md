@@ -22,7 +22,7 @@ summary: ''
 
 A lump sum is payable in accordance with Schedule 12 in respect of the death ofâ€”
 
-- (a)[^key-cc8d5c1add6267a74596cb7b6c330689] an active member;
+- (a)[^c-cc8d5c1add6267a74596cb7b6c330689] an active member;
 - (b) a deferred member;
 - (c) a pensioner member;
 - (d) a recent leaver (within the meaning of that Schedule);
@@ -32,4 +32,4 @@ A lump sum is payable in accordance with Schedule 12 in respect of the death ofâ
 
 ## Annotations
 
-[^key-cc8d5c1add6267a74596cb7b6c330689]: Modification: [Reg. 111(a)](https://www.legislation.gov.uk/nisr/2015/120/regulation/111/a) applied (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [35(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/2)
+[^c-cc8d5c1add6267a74596cb7b6c330689]: Modification: [Reg. 111(a)](https://www.legislation.gov.uk/nisr/2015/120/regulation/111/a) applied (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [35(2)](https://www.legislation.gov.uk/nisr/2015/122/regulation/35/2)

@@ -36,7 +36,7 @@ An Act to amend retained EU law relating to compulsory insurance for the use of 
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Retained EU law relating to compulsory insurance for motor vehicles[^key-4216e5edb65aa451438acdafc1968721]
+## 1. Retained EU law relating to compulsory insurance for motor vehicles[^c-4216e5edb65aa451438acdafc1968721]
 
 After section 156 of the Road Traffic Act 1988 insert—
 
@@ -71,7 +71,7 @@ After section 156 of the Road Traffic Act 1988 insert—
 >
 > (6) Nothing in this section applies in relation to the use of a vehicle before the day on which section 1 of the Motor Vehicles (Compulsory Insurance) Act 2022 comes into force.
 
-## 2. Commencement, extent and short title[^key-cbd445b4c29ec6a6fddc44b341f0df0e]
+## 2. Commencement, extent and short title[^c-cbd445b4c29ec6a6fddc44b341f0df0e]
 
 (1) This Act comes into force at the end of the period of two months beginning with the day on which it is passed.
 
@@ -81,6 +81,6 @@ After section 156 of the Road Traffic Act 1988 insert—
 
 ## Annotations
 
-[^key-4216e5edb65aa451438acdafc1968721]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/25/section/1) in force at 28.6.2022, see [s. 2(1)](https://www.legislation.gov.uk/ukpga/2022/25/section/2/1)
+[^c-4216e5edb65aa451438acdafc1968721]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/25/section/1) in force at 28.6.2022, see [s. 2(1)](https://www.legislation.gov.uk/ukpga/2022/25/section/2/1)
 
-[^key-cbd445b4c29ec6a6fddc44b341f0df0e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/25/section/2) in force at 28.6.2022, see [s. 2(1)](https://www.legislation.gov.uk/ukpga/2022/25/section/2/1)
+[^c-cbd445b4c29ec6a6fddc44b341f0df0e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/25/section/2) in force at 28.6.2022, see [s. 2(1)](https://www.legislation.gov.uk/ukpga/2022/25/section/2/1)

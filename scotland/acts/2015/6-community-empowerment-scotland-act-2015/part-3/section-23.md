@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Regulations[^key-96bca2ecfcebdef758cf8d80308f6420]
+## 23. Regulations[^c-96bca2ecfcebdef758cf8d80308f6420]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96bca2ecfcebdef758cf8d80308f6420]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2015/6/section/23) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-96bca2ecfcebdef758cf8d80308f6420]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2015/6/section/23) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76A. Duty of Payment Systems Regulator to investigate and report on possible regulatory failure[^key-ddd39f58f766eda2e242c463e6df741b]
+## 76A. Duty of Payment Systems Regulator to investigate and report on possible regulatory failure[^c-ddd39f58f766eda2e242c463e6df741b]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ddd39f58f766eda2e242c463e6df741b]: Textual amendment: S. 76A inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 106(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/106/2), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-ddd39f58f766eda2e242c463e6df741b]: Textual amendment: S. 76A inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 106(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/106/2), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

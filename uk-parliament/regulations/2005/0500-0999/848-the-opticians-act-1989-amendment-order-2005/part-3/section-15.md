@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Education and training[^key-43fa2607372fea48ee91c12aa4aa0a95]
+## 15. Education and training[^c-43fa2607372fea48ee91c12aa4aa0a95]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ For section 12 (approval of training institutions and qualifications) substitute
 
 ## Annotations
 
-[^key-43fa2607372fea48ee91c12aa4aa0a95]: Commencement: Art. 15 comes into force in accordance with art. 1(3)-(6)
+[^c-43fa2607372fea48ee91c12aa4aa0a95]: Commencement: Art. 15 comes into force in accordance with art. 1(3)-(6)

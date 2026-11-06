@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Establishment of schemes[^key-70db0539c8a5b69f0016b1e20425b2c8]
+## 41. Establishment of schemes[^c-70db0539c8a5b69f0016b1e20425b2c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,7 +67,7 @@ summary: ''
 
 ## Annotations
 
-[^key-70db0539c8a5b69f0016b1e20425b2c8]: Commencement: Art. 41 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-70db0539c8a5b69f0016b1e20425b2c8]: Commencement: Art. 41 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00045]: Footnote: Section 632 was relevantly amended by S.I. [1988/993](https://www.legislation.gov.uk/uksi/1988/993) and S.I. [1997/2388](https://www.legislation.gov.uk/uksi/1997/2388).
 

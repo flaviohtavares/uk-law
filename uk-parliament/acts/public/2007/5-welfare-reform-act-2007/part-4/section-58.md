@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. “Relevant employer”[^key-88784b5da7bc80ce240a85d43548c8a0][^key-45d2616f3869b1db7f2760aba32ce7cf]
+## 58. “Relevant employer”[^c-88784b5da7bc80ce240a85d43548c8a0][^c-45d2616f3869b1db7f2760aba32ce7cf]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88784b5da7bc80ce240a85d43548c8a0]: Commencement: S. 58 in force at 12.7.2007 for specified purposes by [S.I. 2007/1991](https://www.legislation.gov.uk/uksi/2007/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/1)
+[^c-88784b5da7bc80ce240a85d43548c8a0]: Commencement: S. 58 in force at 12.7.2007 for specified purposes by [S.I. 2007/1991](https://www.legislation.gov.uk/uksi/2007/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/1)
 
-[^key-45d2616f3869b1db7f2760aba32ce7cf]: Commencement: S. 58 in force at 10.8.2007 in so far as not already in force by [S.I. 2007/1991](https://www.legislation.gov.uk/uksi/2007/1991), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/2)
+[^c-45d2616f3869b1db7f2760aba32ce7cf]: Commencement: S. 58 in force at 10.8.2007 in so far as not already in force by [S.I. 2007/1991](https://www.legislation.gov.uk/uksi/2007/1991), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1991/article/2/2)

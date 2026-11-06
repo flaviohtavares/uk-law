@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Total return investment[^key-69bfc879a77cc59d830cc345916e06ca][^key-5a030b37f39526365fd2a6e65687bd82]
+## 13. Total return investment[^c-69bfc879a77cc59d830cc345916e06ca][^c-5a030b37f39526365fd2a6e65687bd82]
 
 *Extent: E+W*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-69bfc879a77cc59d830cc345916e06ca]: Commencement: S. 13 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-69bfc879a77cc59d830cc345916e06ca]: Commencement: S. 13 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-5a030b37f39526365fd2a6e65687bd82]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/6/section/13) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/5)
+[^c-5a030b37f39526365fd2a6e65687bd82]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/6/section/13) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/5)

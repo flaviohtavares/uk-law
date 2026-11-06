@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Ancillary instruments: production, registration, &c.[^M_I_eaab9c0a-b47c-424b-a561-b72b5452c2d8][^key-423df61000de8c68620b3aac4b30f0d4]
+## 21. Ancillary instruments: production, registration, &c.[^M_I_eaab9c0a-b47c-424b-a561-b72b5452c2d8][^c-423df61000de8c68620b3aac4b30f0d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^M_I_eaab9c0a-b47c-424b-a561-b72b5452c2d8]: Commencement: S. 21 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-423df61000de8c68620b3aac4b30f0d4]: Commencement: S. 21 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-423df61000de8c68620b3aac4b30f0d4]: Commencement: S. 21 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)

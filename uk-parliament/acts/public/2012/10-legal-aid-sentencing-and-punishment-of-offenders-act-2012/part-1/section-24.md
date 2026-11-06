@@ -27,7 +27,7 @@ summary: ''
 (3) Regulations under this section may, in particular—
 
 - (a) provide that overdue amounts are recoverable summarily as a civil debt;
-- (b) provide that overdue amounts are recoverable as if they were payable under an order of the High Court or the county court[^key-a8a54388744b7be627bca64a3f0ff5d9], if the court in question so orders on the application of the person to whom the amounts are due.
+- (b) provide that overdue amounts are recoverable as if they were payable under an order of the High Court or the county court[^c-a8a54388744b7be627bca64a3f0ff5d9], if the court in question so orders on the application of the person to whom the amounts are due.
 
 (4) Regulations under this section may include provision requiring information and documents to be provided.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8a54388744b7be627bca64a3f0ff5d9]: Textual amendment: Words in [s. 24(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/24/3/b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-a8a54388744b7be627bca64a3f0ff5d9]: Textual amendment: Words in [s. 24(3)(b)](https://www.legislation.gov.uk/ukpga/2012/10/section/24/3/b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

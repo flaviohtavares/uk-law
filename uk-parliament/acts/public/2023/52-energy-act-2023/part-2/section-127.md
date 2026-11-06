@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Interpretation of Chapter 5[^key-98d2d5fac54ab4bcc78604ca77da1460]
+## 127. Interpretation of Chapter 5[^c-98d2d5fac54ab4bcc78604ca77da1460]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-98d2d5fac54ab4bcc78604ca77da1460]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2023/52/section/127) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-98d2d5fac54ab4bcc78604ca77da1460]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2023/52/section/127) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

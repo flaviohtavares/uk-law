@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Compensation measures[^key-a228437c8b6e4bd5724881d86ba7fbcc]
+## 17. Compensation measures[^c-a228437c8b6e4bd5724881d86ba7fbcc]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 7 (compensation measures) has effect.
 
 ## Annotations
 
-[^key-a228437c8b6e4bd5724881d86ba7fbcc]: Commencement: Art. 17 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-a228437c8b6e4bd5724881d86ba7fbcc]: Commencement: Art. 17 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 3
 
-### 1. Interpretation[^key-ad37b8f5d60b03373867d6c02770355c]
+### 1. Interpretation[^c-ad37b8f5d60b03373867d6c02770355c]
 
 In this Schedule—
 
@@ -44,7 +44,7 @@ In this Schedule—
   - (a) planning permission granted under Part 3 of the 1990 Act;
   - (b) development consent granted under the 2008 Act;
   - (c) consent granted under the Electricity Act 1989; or
-  - (d) planning permission granted under the Town and Country Planning (General Permitted Development) Order 1995[^key-b620a720057c8054e40137db1295d0a8];
+  - (d) planning permission granted under the Town and Country Planning (General Permitted Development) Order 1995[^c-b620a720057c8054e40137db1295d0a8];
 - “reinstatement planting” means the reinstatement of the vegetation that has been removed to enable the construction of the authorised development on the land shown coloured yellow and the land shown coloured blue on the land plans (but excluding any such land shown cross-hatched green on the land plans);
 - “relevant design principles” means the design principles in section 2.2 of the design and construction report (document reference 7.1);
 - “stage” means a defined section or part of the authorised development, the extent of which is shown in a scheme submitted to and approved by the relevant planning authority pursuant to Requirement 4 (stages of authorised development); and
@@ -54,11 +54,11 @@ In this Schedule—
   - (c) Clocaenog Forest approved under The Clocaenog Forest Wind Farm Order 2014[^f00025] or such other planning consent replacing it or amending it; and
   - (d) Brenig approved under planning permission 25/2007/0565/WF or such other planning consent replacing it or amending it.
 
-### 2. Time limits[^key-041a8562120cf7a1c90924a6caec72f0]
+### 2. Time limits[^c-041a8562120cf7a1c90924a6caec72f0]
 
 The authorised development must be commenced within 5 years of the date that this Order is made.
 
-### 3. Detailed Design[^key-64634a10152bbd6c75e9f5bbaf7ad72c]
+### 3. Detailed Design[^c-64634a10152bbd6c75e9f5bbaf7ad72c]
 
 (1) The authorised development must be carried out in accordance with the approved plans, inclusive of any limits of deviation, bearing the references listed below and any other plans, drawings, documents, details, schemes, statements or strategies which are approved by the relevant planning authority pursuant to any Requirement—
 
@@ -79,7 +79,7 @@ The authorised development must be commenced within 5 years of the date that thi
 
 (3) Any part of the authorised development must be designed substantially in accordance with the relevant design principles.
 
-### 4. Stages of authorised development[^key-4512ff1a9bbf9a7755a69f98ab3497fe]
+### 4. Stages of authorised development[^c-4512ff1a9bbf9a7755a69f98ab3497fe]
 
 (1) No authorised development is to commence until a written scheme setting out all the stages of the authorised development has been submitted to and approved by the relevant planning authority, such scheme to include the following details—
 
@@ -89,7 +89,7 @@ The authorised development must be commenced within 5 years of the date that thi
 
 (2) The authorised development must be carried out in accordance with the approved scheme.
 
-### 5. Landscaping[^key-51e95d896e0934278917894c6d56a678]
+### 5. Landscaping[^c-51e95d896e0934278917894c6d56a678]
 
 (1) No stage of the authorised development is to commence until a written landscaping scheme for that stage, in respect of landscape planting, which is substantially in accordance with the outline landscape management plan and the planting principles contained in the ecological management plan, has been submitted to and approved by the relevant planning authority. The landscaping scheme must include details of the landscape planting, including—
 
@@ -105,11 +105,11 @@ The authorised development must be commenced within 5 years of the date that thi
 
 (4) The landscape planting must be planted and maintained in accordance with the landscaping scheme(s) as approved under this Requirement.
 
-### 6. Dying, diseased, damaged planting[^key-28dc2c3e00ce1f0c00b2b66eb2dcd3fe]
+### 6. Dying, diseased, damaged planting[^c-28dc2c3e00ce1f0c00b2b66eb2dcd3fe]
 
 Notwithstanding the maintenance regime to be approved pursuant to Requirement 5 and Requirement 7, where any tree or shrub planted as part of the landscaping scheme under Requirement 5 or the reinstatement planting plan under Requirement 7 (including new trees), is removed, dies or becomes seriously damaged or diseased, within a period of 5 years from the date of completion of the stage of landscape planting or reinstatement planting within which it is planted, it must be replaced by the undertaker in the first available planting season with a specimen of the same species and size as that originally planted.
 
-### 7. Reinstatement planting[^key-a8c87147d0e25ce85766c392297b1584]
+### 7. Reinstatement planting[^c-a8c87147d0e25ce85766c392297b1584]
 
 (1) The reinstatement planting must not include any new trees except by agreement with the owner of the land on which the reinstatement planting is to be carried out.
 
@@ -124,7 +124,7 @@ Notwithstanding the maintenance regime to be approved pursuant to Requirement 5 
 
 (4) The new trees planted pursuant to this Requirement must be planted and maintained in accordance with the reinstatement planting plan as approved under this Requirement.
 
-### 8. Felling[^key-7f956a65125eb82ba27065cbde047c8b]
+### 8. Felling[^c-7f956a65125eb82ba27065cbde047c8b]
 
 (1) All felling must be undertaken in accordance with the relevant guidance specified in paragraph (2) and NRW best practice (as amended from time to time).
 
@@ -136,13 +136,13 @@ Notwithstanding the maintenance regime to be approved pursuant to Requirement 5 
 - (d) UKFS Guidelines – Forests and Biodiversity (2011); and
 - (e) UKFS Guidelines – Forests and Historic Environment (2011).
 
-### 9. Highway works[^key-2aac1e1c4b8a8a994fbf5edf087657f9]
+### 9. Highway works[^c-2aac1e1c4b8a8a994fbf5edf087657f9]
 
 (1) No work to construct or alter any permanent or temporary means of access to a highway to be used by vehicular traffic must commence until, following consultation with the relevant highway authority, written details of the design and layout of that means of access has been submitted to and approved by the relevant highway authority.
 
 (2) The highway accesses must be constructed in accordance with the details approved under sub-paragraph (1).
 
-### 10. Construction Hours[^key-4ba7ef1776d12aedd750e2609990f676]
+### 10. Construction Hours[^c-4ba7ef1776d12aedd750e2609990f676]
 
 (1) Subject to sub-paragraphs (2) and (3), construction work must not take place other than during the core working hours.
 
@@ -160,7 +160,7 @@ Notwithstanding the maintenance regime to be approved pursuant to Requirement 5 
 
 (4) No artificial lighting is to be used in carrying out the construction of the authorised development other than at Broadleys compound.
 
-### 11. Contaminated land and groundwater[^key-b4bd207396cc4e610e3cbe4c252ed632]
+### 11. Contaminated land and groundwater[^c-b4bd207396cc4e610e3cbe4c252ed632]
 
 (1) In the event that contamination is found at any time when carrying out the authorised development, it must be reported in writing immediately to the relevant planning authority and the carrying out of that part of the authorised development affected by such contamination must cease immediately. An investigation and risk assessment must be completed in accordance with a scheme to assess the nature and extent of any contamination within the Order limits and whether or not it originates within the Order limits, such scheme to be submitted to and approved by the relevant planning authority, after consulting with NRW. The investigation and risk assessment must be undertaken by competent persons and a written report of the findings must be produced and submitted to and approved by the relevant planning authority, after consulting with NRW.
 
@@ -175,7 +175,7 @@ Notwithstanding the maintenance regime to be approved pursuant to Requirement 5 
 - (a) where remediation is required pursuant to the approved investigation and risk assessment for contamination affecting that part, the completion of measures pursuant to sub-paragraph (4); or
 - (b) in all other cases the approval of the investigation and risk assessment pursuant to sub-paragraph (2).
 
-### 12. Archaeology[^key-6eb89e562881cae0d54c5ac9e851d6fb]
+### 12. Archaeology[^c-6eb89e562881cae0d54c5ac9e851d6fb]
 
 (1) No stage of the authorised development is to commence until, following consultation with the Clwyd-Powys Archaeological Trust and the relevant planning authority, for that stage, a written scheme setting out the methodology for a watching brief over areas of archaeological interest has been submitted to and approved by the relevant planning authority.
 
@@ -185,7 +185,7 @@ Notwithstanding the maintenance regime to be approved pursuant to Requirement 5 
 
 (4) Any watching brief must be carried out in accordance with the approved scheme.
 
-### 13. Construction Environmental Management Plan[^key-4de89b68ebb77bacca6705dddcab631b]
+### 13. Construction Environmental Management Plan[^c-4de89b68ebb77bacca6705dddcab631b]
 
 (1) No stage of the authorised development is to commence until, following consultation with NRW, the highways authority and the relevant planning authority, a construction environmental management plan for that stage, which is substantially in accordance with the outline construction environmental management plan, has been submitted to and approved by the relevant planning authority, after consulting with NRW. The construction environmental management plan must include measures to minimise impacts of construction works and must include but not be limited to the following plans—
 
@@ -200,23 +200,23 @@ Notwithstanding the maintenance regime to be approved pursuant to Requirement 5 
 
 (2) The authorised development must be carried out in accordance with the construction environmental management plan as approved under this Requirement.
 
-### 14. Piling[^key-e1ffddadae2722d7eff32c0c170b81d0]
+### 14. Piling[^c-e1ffddadae2722d7eff32c0c170b81d0]
 
 (1) No stage of the authorised development which requires piling activities must commence until a piling method statement for that stage of the authorised development has been submitted to and approved by the relevant planning authority.
 
 (2) Piling must be carried out in accordance with the approved piling method statement.
 
-### 15. Restoration of land used temporarily for construction[^key-2f2083ebc1db4d8a7ac547ac4308ce5c]
+### 15. Restoration of land used temporarily for construction[^c-2f2083ebc1db4d8a7ac547ac4308ce5c]
 
 (1) No land within the Order limits that is to be used temporarily for construction is to be used until a photographic condition survey has been carried out and submitted to and approved by the relevant planning authority.
 
 (2) Any land within the Order limits which is used temporarily for construction must be reinstated to its former condition as identified on the photographic condition survey, or such condition as the relevant planning authority may approve, within six months of the date of final commissioning of the authorised development (or such other period as may be agreed with the owner of the land) and the relevant planning authority shall be notified in writing upon reinstatement.
 
-### 16. Requirement for written approval[^key-087cfa1996a40f31f5a2fcbc52de6d8f]
+### 16. Requirement for written approval[^c-087cfa1996a40f31f5a2fcbc52de6d8f]
 
 Where under any of the above Requirements, the approval or agreement of the relevant planning authority or another person is required, that approval or agreement must be given in writing.
 
-### 17. Decommissioning[^key-52e759cd46c28f78212ec1b95c07c73c]
+### 17. Decommissioning[^c-52e759cd46c28f78212ec1b95c07c73c]
 
 (1) Not less than 12 months before the date set out in Requirement 19 (expiry of development consent), a decommissioning and site restoration scheme must be submitted to the relevant planning authority for its approval.
 
@@ -231,7 +231,7 @@ Where under any of the above Requirements, the approval or agreement of the rele
 
 (3) Decommissioning and restoration must be completed in accordance with the approved decommissioning and site restoration scheme within the period set out in the approved scheme.
 
-### 18. Decommissioning Environmental Management Plan[^key-6d8b8517415e05ae0a6dcf769af9792e]
+### 18. Decommissioning Environmental Management Plan[^c-6d8b8517415e05ae0a6dcf769af9792e]
 
 (1) No stage of the authorised development is to be decommissioned until, following consultation with NRW, the highways authority and the relevant planning authority, a decommissioning environmental management plan for that stage has been submitted to and approved by the relevant planning authority, after consultating with NRW. The decommissioning environmental management plan must include measures to minimise impacts of decommissining works and must include but not be limited to the following plans—
 
@@ -246,17 +246,17 @@ Where under any of the above Requirements, the approval or agreement of the rele
 
 (2) The decommissioning of the authorised development must be carried out in accordance with the decommissioning environmental management plan as approved under this Requirement.
 
-### 19. Expiry of development consent[^key-52f54317532324b15189ea8cac25dd29]
+### 19. Expiry of development consent[^c-52f54317532324b15189ea8cac25dd29]
 
 The development consent granted by this Order expires 30 years after the date of this Order.
 
-### 20. Requirements for written approval, etc.[^key-5ecc55ab4bd749b2f20e75ff3cd366d3]
+### 20. Requirements for written approval, etc.[^c-5ecc55ab4bd749b2f20e75ff3cd366d3]
 
 (1) Where under any of the above Requirements the approval or agreement of the relevant planning authority or any other party is required, that approval or agreement must be provided in writing.
 
 (2) Where under any of the above Requirements a written scheme is required it shall be accompanied by such illustrations as are necessary and appropriate in the circumstances.
 
-### 21. Approved plans and amendments to approved plans.[^key-82d7957928dcfbf8108e73f25fa75230]
+### 21. Approved plans and amendments to approved plans.[^c-82d7957928dcfbf8108e73f25fa75230]
 
 (1) Where a Requirement requires the authorised development to be carried out in accordance with a plan, scheme, statement, strategy or details (the “plan”) approved by the relevant planning authority, the approved plan must be taken to include any amendments that may be approved subsequently by the relevant planning authority (after consulting every person required to be consulted before approval of the original plan).
 
@@ -264,48 +264,48 @@ The development consent granted by this Order expires 30 years after the date of
 
 ## Annotations
 
-[^key-ad37b8f5d60b03373867d6c02770355c]: Commencement: Sch. 2 para. 1 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-ad37b8f5d60b03373867d6c02770355c]: Commencement: Sch. 2 para. 1 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-b620a720057c8054e40137db1295d0a8]: Textual amendment: Words in Sch. 2 substituted (31.3.2017) by [The North Wales Wind Farms Connection (Correction) Order 2017 (S.I. 2017/501)](https://www.legislation.gov.uk/uksi/2017/501), [art. 1](https://www.legislation.gov.uk/uksi/2017/501/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/501/schedule)
+[^c-b620a720057c8054e40137db1295d0a8]: Textual amendment: Words in Sch. 2 substituted (31.3.2017) by [The North Wales Wind Farms Connection (Correction) Order 2017 (S.I. 2017/501)](https://www.legislation.gov.uk/uksi/2017/501), [art. 1](https://www.legislation.gov.uk/uksi/2017/501/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/501/schedule)
 
 [^f00025]: Footnote: [S.I. 2014/2441](https://www.legislation.gov.uk/uksi/2014/2441).
 
-[^key-041a8562120cf7a1c90924a6caec72f0]: Commencement: Sch. 2 para. 2 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-041a8562120cf7a1c90924a6caec72f0]: Commencement: Sch. 2 para. 2 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-64634a10152bbd6c75e9f5bbaf7ad72c]: Commencement: Sch. 2 para. 3 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-64634a10152bbd6c75e9f5bbaf7ad72c]: Commencement: Sch. 2 para. 3 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-4512ff1a9bbf9a7755a69f98ab3497fe]: Commencement: Sch. 2 para. 4 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-4512ff1a9bbf9a7755a69f98ab3497fe]: Commencement: Sch. 2 para. 4 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-51e95d896e0934278917894c6d56a678]: Commencement: Sch. 2 para. 5 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-51e95d896e0934278917894c6d56a678]: Commencement: Sch. 2 para. 5 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-28dc2c3e00ce1f0c00b2b66eb2dcd3fe]: Commencement: Sch. 2 para. 6 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-28dc2c3e00ce1f0c00b2b66eb2dcd3fe]: Commencement: Sch. 2 para. 6 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-a8c87147d0e25ce85766c392297b1584]: Commencement: Sch. 2 para. 7 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-a8c87147d0e25ce85766c392297b1584]: Commencement: Sch. 2 para. 7 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-7f956a65125eb82ba27065cbde047c8b]: Commencement: Sch. 2 para. 8 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-7f956a65125eb82ba27065cbde047c8b]: Commencement: Sch. 2 para. 8 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-2aac1e1c4b8a8a994fbf5edf087657f9]: Commencement: Sch. 2 para. 9 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-2aac1e1c4b8a8a994fbf5edf087657f9]: Commencement: Sch. 2 para. 9 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-4ba7ef1776d12aedd750e2609990f676]: Commencement: Sch. 2 para. 10 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-4ba7ef1776d12aedd750e2609990f676]: Commencement: Sch. 2 para. 10 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-b4bd207396cc4e610e3cbe4c252ed632]: Commencement: Sch. 2 para. 11 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-b4bd207396cc4e610e3cbe4c252ed632]: Commencement: Sch. 2 para. 11 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-6eb89e562881cae0d54c5ac9e851d6fb]: Commencement: Sch. 2 para. 12 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-6eb89e562881cae0d54c5ac9e851d6fb]: Commencement: Sch. 2 para. 12 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-4de89b68ebb77bacca6705dddcab631b]: Commencement: Sch. 2 para. 13 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-4de89b68ebb77bacca6705dddcab631b]: Commencement: Sch. 2 para. 13 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-e1ffddadae2722d7eff32c0c170b81d0]: Commencement: Sch. 2 para. 14 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-e1ffddadae2722d7eff32c0c170b81d0]: Commencement: Sch. 2 para. 14 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-2f2083ebc1db4d8a7ac547ac4308ce5c]: Commencement: Sch. 2 para. 15 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-2f2083ebc1db4d8a7ac547ac4308ce5c]: Commencement: Sch. 2 para. 15 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-087cfa1996a40f31f5a2fcbc52de6d8f]: Commencement: Sch. 2 para. 16 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-087cfa1996a40f31f5a2fcbc52de6d8f]: Commencement: Sch. 2 para. 16 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-52e759cd46c28f78212ec1b95c07c73c]: Commencement: Sch. 2 para. 17 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-52e759cd46c28f78212ec1b95c07c73c]: Commencement: Sch. 2 para. 17 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-6d8b8517415e05ae0a6dcf769af9792e]: Commencement: Sch. 2 para. 18 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-6d8b8517415e05ae0a6dcf769af9792e]: Commencement: Sch. 2 para. 18 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-52f54317532324b15189ea8cac25dd29]: Commencement: Sch. 2 para. 19 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-52f54317532324b15189ea8cac25dd29]: Commencement: Sch. 2 para. 19 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-5ecc55ab4bd749b2f20e75ff3cd366d3]: Commencement: Sch. 2 para. 20 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-5ecc55ab4bd749b2f20e75ff3cd366d3]: Commencement: Sch. 2 para. 20 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-82d7957928dcfbf8108e73f25fa75230]: Commencement: Sch. 2 para. 21 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-82d7957928dcfbf8108e73f25fa75230]: Commencement: Sch. 2 para. 21 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)

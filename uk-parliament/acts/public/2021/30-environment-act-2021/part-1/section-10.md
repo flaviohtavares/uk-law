@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Reviewing and revising environmental improvement plans[^key-bb264b3381684f72afa3dc7397ced078][^key-7f8f58eb8b6034b212082e12b5d7552e]
+## 10. Reviewing and revising environmental improvement plans[^c-bb264b3381684f72afa3dc7397ced078][^c-7f8f58eb8b6034b212082e12b5d7552e]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb264b3381684f72afa3dc7397ced078]: Commencement: S. 10 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-bb264b3381684f72afa3dc7397ced078]: Commencement: S. 10 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-7f8f58eb8b6034b212082e12b5d7552e]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/30/section/10) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/b)
+[^c-7f8f58eb8b6034b212082e12b5d7552e]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/30/section/10) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/b)

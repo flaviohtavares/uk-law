@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Required information about partners: transitional provision[^key-84f51763ec9051346763b34c3221c01f]
+## 111. Required information about partners: transitional provision[^c-84f51763ec9051346763b34c3221c01f]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ the general partners in the limited partnership are not required by the provisio
 
 ## Annotations
 
-[^key-84f51763ec9051346763b34c3221c01f]: Commencement: S. 111 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-84f51763ec9051346763b34c3221c01f]: Commencement: S. 111 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

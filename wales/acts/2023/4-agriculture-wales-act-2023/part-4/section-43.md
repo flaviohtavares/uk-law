@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Service of documents[^key-0df3bfcce723bcd7e345d18bf2b03230][^key-7f225a9b2322f65c530e1bb1fe178a92]
+## 43. Service of documents[^c-0df3bfcce723bcd7e345d18bf2b03230][^c-7f225a9b2322f65c530e1bb1fe178a92]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0df3bfcce723bcd7e345d18bf2b03230]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2023/4/section/43) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
+[^c-0df3bfcce723bcd7e345d18bf2b03230]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2023/4/section/43) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
 
-[^key-7f225a9b2322f65c530e1bb1fe178a92]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2023/4/section/43) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)
+[^c-7f225a9b2322f65c530e1bb1fe178a92]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2023/4/section/43) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)

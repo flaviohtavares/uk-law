@@ -43,13 +43,13 @@ The Welsh Ministers, in exercise of the powers conferred by sections 9, 24, 25, 
 
 In accordance with section 172 of that Measure, a draft of these Regulations was laid before and approved by a resolution of the National Assembly for Wales.
 
-## 1. Title and commencement[^key-7a6e4f23bd3125f2203e859fff75aa0e]
+## 1. Title and commencement[^c-7a6e4f23bd3125f2203e859fff75aa0e]
 
 (1) The title of these Regulations is the Family Absence for Members of Local Authorities (Wales) Regulations 2013.
 
 (2) These Regulations come into force on 5 December 2013.
 
-## 2. General Interpretation[^key-0a71a04cfc585f569e3151d85c45bc43]
+## 2. General Interpretation[^c-0a71a04cfc585f569e3151d85c45bc43]
 
 (1) In these Regulations—
 
@@ -66,7 +66,7 @@ In accordance with section 172 of that Measure, a draft of these Regulations was
 
 ## PART 1 — Maternity absence
 
-### 3. Prescribed conditions[^key-3d6ddc2fffa487637cfb11d206823c23]
+### 3. Prescribed conditions[^c-3d6ddc2fffa487637cfb11d206823c23]
 
 For the purposes of section 24(1) of the Measure, the prescribed conditions are that—
 
@@ -79,18 +79,18 @@ For the purposes of section 24(1) of the Measure, the prescribed conditions are 
 - (c) where the member wishes to vary the start of the maternity absence which has been specified under paragraph (a)(iii), the member has given the head of democratic services written notice of the new start date at least one week before the date specified under paragraph (a)(iii), or at least one week before the new date, whichever is the earlier, or, if that is not reasonably practicable, as soon as is reasonably practicable; and
 - (d) where the member wishes to vary the duration of the maternity absence, the member has given the head of democratic services written notice of the new duration at least one week before the expected end of the period of absence in accordance with the duration specified under paragraph (a)(iv), or at least one week before the new intended end of the period of absence, whichever is the earlier, or if that is not reasonably practicable, as soon as is reasonably practicable.
 
-### 4. Period of maternity absence[^key-1ad2fc7f06ffc2077e1a8f77794bf71a]
+### 4. Period of maternity absence[^c-1ad2fc7f06ffc2077e1a8f77794bf71a]
 
 The period of maternity absence is 26 weeks, unless the member gives written notice under regulation 3(a)(iv), (d) or 7 that the period of maternity absence will be shorter than 26 weeks.
 
-### 5. When maternity absence may be taken[^key-f1a78adb1e1a61a3fbb02787eed0331f]
+### 5. When maternity absence may be taken[^c-f1a78adb1e1a61a3fbb02787eed0331f]
 
 Maternity absence may only be taken so as to begin during the period—
 
 - (a) beginning at the start of the eleventh week before the expected week of childbirth; and
 - (b) ending on the day after the day on which childbirth occurs.
 
-### 6. Member to choose start date of maternity absence[^key-6ce13c14474023c06908ec54939c507b]
+### 6. Member to choose start date of maternity absence[^c-6ce13c14474023c06908ec54939c507b]
 
 (1) Subject to paragraphs (2) and (3) and regulation 5, a member may choose the date on which their maternity absence is to start.
 
@@ -100,11 +100,11 @@ Maternity absence may only be taken so as to begin during the period—
 
 (4) Regulations 3(a)(ii), (iii) and (b) do not apply in respect of a member whose absence starts by virtue of paragraph (3).
 
-### 7. Bringing a period of maternity absence to an end[^key-4d4bc06126619e15c56e9a76a8d9824e]
+### 7. Bringing a period of maternity absence to an end[^c-4d4bc06126619e15c56e9a76a8d9824e]
 
 A member may bring a period of maternity absence to an end earlier than the end of the period set out in regulation 4, which was notified under regulation 3(a)(iv) or varied under regulation 3(d) by notifying the head of democratic services in writing of their intention to do so at least 7 days before their return.
 
-### 8. Cancelling maternity absence[^key-fafc2772554c0b42c4afbe60cfee83cf]
+### 8. Cancelling maternity absence[^c-fafc2772554c0b42c4afbe60cfee83cf]
 
 The circumstances in which a member may cancel a period of maternity absence are that—
 
@@ -113,7 +113,7 @@ The circumstances in which a member may cancel a period of maternity absence are
 
 ## PART 2 — Newborn absence
 
-### 9. Prescribed conditions[^key-a6a5ac96b4fe878172efb292c9a2e5d6]
+### 9. Prescribed conditions[^c-a6a5ac96b4fe878172efb292c9a2e5d6]
 
 (1) For the purposes of section 25(1) of the Measure, the prescribed conditions are that the member—
 
@@ -126,33 +126,33 @@ The circumstances in which a member may cancel a period of maternity absence are
 
 (3) A member is to be treated as having satisfied either of the conditions in paragraph (1)(a) if they would have satisfied the condition but for the fact that the child was stillborn after 24 weeks of pregnancy or has died.
 
-### 10. Extent of entitlement to newborn absence[^key-c8fc06e58059dde0381553b3bd3269a8]
+### 10. Extent of entitlement to newborn absence[^c-c8fc06e58059dde0381553b3bd3269a8]
 
 (1) A member’s entitlement to newborn absence is two consecutive weeks.
 
 (2) Where more than one child is born as a result of the same pregnancy, a member is entitled to newborn absence only in respect of the first child born.
 
-### 11. When newborn absence may be taken[^key-69f60d4ae7e692f9a2c1aae175c63690]
+### 11. When newborn absence may be taken[^c-69f60d4ae7e692f9a2c1aae175c63690]
 
 Newborn absence may only be taken during the period—
 
 - (a) beginning with the date of childbirth; and
 - (b) ending 56 days after that date.
 
-### 12. Cancelling newborn absence[^key-5f3371ee713fe3ad5de4d5a5faf99448]
+### 12. Cancelling newborn absence[^c-5f3371ee713fe3ad5de4d5a5faf99448]
 
 The circumstances in which a member may cancel a period of newborn absence are that—
 
 - (a) the period of newborn absence has not yet started; and
 - (b) the member has notified the head of democratic services in writing of their intention to cancel the absence.
 
-### 13. Member to choose start date of newborn absence[^key-1f31113ad01d2de3ef2bc35f9a4bfcf9]
+### 13. Member to choose start date of newborn absence[^c-1f31113ad01d2de3ef2bc35f9a4bfcf9]
 
 Provided that the period of newborn absence will come to an end within the period prescribed by regulation 11, a member may choose the date on which their newborn absence is to start.
 
 ## PART 3 — Adopter’s absence
 
-### 14. Prescribed conditions[^key-1c5d4a26ff4788909ce41ddcbcca278c]
+### 14. Prescribed conditions[^c-1c5d4a26ff4788909ce41ddcbcca278c]
 
 For the purposes of section 26(1) of the Measure, the prescribed conditions are that—
 
@@ -163,35 +163,35 @@ For the purposes of section 26(1) of the Measure, the prescribed conditions are 
 - (c) where the member wishes to vary the start of the adopter’s absence which has been specified under paragraph (b)(i), the member gives the head of democratic services written notice of the new start date at least one week before the date specified under paragraph (b)(i), or at least one week before the new date, whichever is the earlier, or, if that is not reasonably practicable, as soon as is reasonably practicable; and
 - (d) where the member wishes to vary the duration of the adopter’s absence, the member gives the head of democratic services written notice of the new duration at least one week before the expected end of the period of absence in accordance with the duration specified under paragraph (b)(ii), or at least one week before the new intended end of the period of absence, whichever is the earlier, or if that is not reasonably practicable, as soon as is reasonably practicable.
 
-### 15. Extent of entitlement to adopter’s absence[^key-e62066f4e7d46312fd716eda37dc8b50]
+### 15. Extent of entitlement to adopter’s absence[^c-e62066f4e7d46312fd716eda37dc8b50]
 
 (1) The period of adopter’s absence is 26 weeks, unless the member gives written notice under regulation 14(b)(ii), (d) or 17A that the period of adopter’s absence will be shorter than 26 weeks.
 
 (2) Where more than one child is placed with the member as part of the same arrangement, a member is entitled to adopter’s absence only in respect of the first child placed with the member for adoption.
 
-### 16. When adopter’s absence may be taken[^key-c5203093cd40adeb84ca2478acce5014]
+### 16. When adopter’s absence may be taken[^c-c5203093cd40adeb84ca2478acce5014]
 
 Adopter’s absence may only be taken so as to begin either—
 
 - (a) on the day on which the child is placed with the member for adoption; or
 - (b) on any of the 14 days preceding that day.
 
-### 17. Member to choose start date of adopter’s absence[^key-c63841bcfc89c521a77691e02fe58f88]
+### 17. Member to choose start date of adopter’s absence[^c-c63841bcfc89c521a77691e02fe58f88]
 
 Subject to regulation 16, a member may choose the date on which their adopter’s absence is to start.
 
-### 17A. Bringing a period of adopter’s absence to an end[^key-57dc3fdfa3a61711274b0076b06cb7bb]
+### 17A. Bringing a period of adopter’s absence to an end[^c-57dc3fdfa3a61711274b0076b06cb7bb]
 
 A member may bring a period of adopter’s absence to an end earlier than the end of the period set out in regulation 15, which was notified under regulation 14(b)(ii) or varied under regulation 14(d) by notifying the head of democratic services in writing of their intention to do so at least 7 days before their return.
 
-### 18. Cancelling adopter’s absence[^key-91a9a0d55faa0354977bd87e9b76ee75]
+### 18. Cancelling adopter’s absence[^c-91a9a0d55faa0354977bd87e9b76ee75]
 
 The circumstances in which a member may cancel a period of adopter’s absence are that—
 
 - (a) the period of adopter’s absence has not yet started; and
 - (b) the member has notified the head of democratic services in writing of their intention to cancel the absence.
 
-### 19. Interpretation of this Part[^key-399ec1e9690b1da40acb99c28a0ed675]
+### 19. Interpretation of this Part[^c-399ec1e9690b1da40acb99c28a0ed675]
 
 (1) In this Part—
 
@@ -203,7 +203,7 @@ The circumstances in which a member may cancel a period of adopter’s absence a
 
 ## PART 4 — New adoption absence
 
-### 20. Prescribed conditions[^key-185d3f293c0cf16a05102a9d151aff16]
+### 20. Prescribed conditions[^c-185d3f293c0cf16a05102a9d151aff16]
 
 For the purposes of section 27(1) of the Measure, the prescribed conditions are that the member—
 
@@ -211,31 +211,31 @@ For the purposes of section 27(1) of the Measure, the prescribed conditions are 
 - (b) has, or expects to have, the main responsibility (apart from the responsibility of the adopter) for the upbringing of the child; and
 - (c) gives the head of democratic services written notice of the date the member intends the period of adopter’s absence to start.
 
-### 21. Extent of entitlement to new adoption absence[^key-f818257235d998362fb52a000a9b192f]
+### 21. Extent of entitlement to new adoption absence[^c-f818257235d998362fb52a000a9b192f]
 
 (1) A member’s entitlement to new adoption absence is two consecutive weeks.
 
 (2) Where more than one child is placed with the member as part of the same arrangement, a member is entitled to new adoption absence only in respect of the first child placed with the member for adoption.
 
-### 22. When new adoption absence may be taken[^key-a3298484165d8fe936e8fbb16d3269c7]
+### 22. When new adoption absence may be taken[^c-a3298484165d8fe936e8fbb16d3269c7]
 
 New adoption absence may only be taken during the period—
 
 - (a) beginning with the date on which the child is placed with the child’s adopter; and
 - (b) ending 56 days after that date.
 
-### 23. Cancelling new adoption absence[^key-0b1c2cd3ba7c3fa45dbed814f79bc20d]
+### 23. Cancelling new adoption absence[^c-0b1c2cd3ba7c3fa45dbed814f79bc20d]
 
 The circumstances in which a member may cancel a period of new adoption absence are that—
 
 - (a) the period of new adoption absence has not yet started; and
 - (b) the member has notified the head of democratic services in writing of their intention to cancel the absence.
 
-### 24. Member to choose start date of new adoption absence[^key-5d4e7c71e191f0d59f0bee5cccc8f749]
+### 24. Member to choose start date of new adoption absence[^c-5d4e7c71e191f0d59f0bee5cccc8f749]
 
 Provided that the period of new adoption absence will come to an end within the period prescribed by regulation 22, a member may choose the date on which their new adoption absence is to start.
 
-### 25. Interpretation of this Part[^key-1dafe97c1fe09a06719731778ee25abd]
+### 25. Interpretation of this Part[^c-1dafe97c1fe09a06719731778ee25abd]
 
 (1) In this Part—
 
@@ -247,7 +247,7 @@ Provided that the period of new adoption absence will come to an end within the 
 
 ## PART 5 — Parental absence
 
-### 26. Prescribed conditions[^key-770cbf980769c78bcb30dedbbe3eecc3]
+### 26. Prescribed conditions[^c-770cbf980769c78bcb30dedbbe3eecc3]
 
 For the purposes of section 28(1) of the Measure, the prescribed conditions are that the member—
 
@@ -261,37 +261,37 @@ For the purposes of section 28(1) of the Measure, the prescribed conditions are 
 - (d) if requested to do so by the head of democratic services, provides the head of democratic services with evidence in relation to the extent of the responsibility for the child; and
 - (e) where the parental absence is to be taken as a series of absences, gives the head of democratic services advance written notice of the intended start date and duration of each period of parental absence.
 
-### 27. Extent of entitlement to parental absence[^key-05dbc914983f79d290995fc47e5020ff]
+### 27. Extent of entitlement to parental absence[^c-05dbc914983f79d290995fc47e5020ff]
 
 (1) A member’s entitlement to parental absence is three months.
 
 (2) Parental absence may be taken as a series of periods of absence or as a single period.
 
-### 28. When parental absence may be taken[^key-610d7c8295114ff9c624e10050df2f27]
+### 28. When parental absence may be taken[^c-610d7c8295114ff9c624e10050df2f27]
 
 Parental absence may only be taken during the period—
 
 - (a) beginning with the date that the member assumes responsibility for the care of a child under the age of 14; and
 - (b) ending one year after that.
 
-### 29. Bringing a period of parental absence to an end[^key-c3626063149eaa8ffdb94c17e69e877a]
+### 29. Bringing a period of parental absence to an end[^c-c3626063149eaa8ffdb94c17e69e877a]
 
 A member may bring any period of parental absence to an end earlier than that notified under regulation 26(c)(iii) by notifying the head of democratic services in writing of their intention to bring the period of parental absence to an end.
 
-### 30. Cancelling a period of parental absence[^key-bd9d4d394d5b19e4b85a8254c77c5e15]
+### 30. Cancelling a period of parental absence[^c-bd9d4d394d5b19e4b85a8254c77c5e15]
 
 The circumstances in which a member may cancel a period of parental absence are that—
 
 - (a) the period of parental absence has not yet started; and
 - (b) the member has notified the head of democratic services in writing of their intention to cancel the period of parental absence.
 
-### 31. Member to choose start dates of parental absence[^key-721ad37531e58fd7fd2aff058a8f0f1b]
+### 31. Member to choose start dates of parental absence[^c-721ad37531e58fd7fd2aff058a8f0f1b]
 
 Provided the date falls within the period prescribed by regulation 28, a member may choose the date on which any period of parental absence is to start.
 
 ## PART 6 — General
 
-### 32. Record keeping[^key-e315f32a62b4d39d2f6456db7b3647a4]
+### 32. Record keeping[^c-e315f32a62b4d39d2f6456db7b3647a4]
 
 (1) A local authority’s head of democratic services must maintain a record of all—
 
@@ -300,7 +300,7 @@ Provided the date falls within the period prescribed by regulation 28, a member 
 
 (2) A record made under paragraph (1) must be kept by the local authority for at least 10 years from the date it is made.
 
-### 33. Duty to inform[^key-331d099882acc51729440adb4b18497f]
+### 33. Duty to inform[^c-331d099882acc51729440adb4b18497f]
 
 (1) Having been notified in accordance with Parts 1 to 5 of these Regulations that a member is taking a period of family absence, the head of democratic services must inform each relevant person as soon as is reasonably practicable of that fact.
 
@@ -310,7 +310,7 @@ Provided the date falls within the period prescribed by regulation 28, a member 
 - (b) the chair of the local authority’s Democratic Services Committee; and
 - (c) the leader of each political group of the local authority.
 
-### 34. Cancellation of family absence by a local authority[^key-ef5b172fc0dbaa316d72aface9ff2ff5]
+### 34. Cancellation of family absence by a local authority[^c-ef5b172fc0dbaa316d72aface9ff2ff5]
 
 (1) Where the head of democratic services has reasonable grounds to suspect that a member, who has provided notification that they are taking a period of family absence, is not entitled to that family absence, the head of democratic services must inform the local authority and provide all relevant information.
 
@@ -323,7 +323,7 @@ Provided the date falls within the period prescribed by regulation 28, a member 
 
 (4) Where a member has failed to return from a period of family absence on the date specified in the notice provided under paragraph (3), a local authority may withhold that member’s remuneration.
 
-### 35. Complaints[^key-7ad4a2449c92a02beeb4b544ecc170dc]
+### 35. Complaints[^c-7ad4a2449c92a02beeb4b544ecc170dc]
 
 (1) A member may complain in writing to the head of democratic services regarding a decision made under regulation 34(2).
 
@@ -331,7 +331,7 @@ Provided the date falls within the period prescribed by regulation 28, a member 
 
 (3) The head of democratic services must refer any complaint received within the period specified in paragraph (2) to the chair of the local authority or where a local authority has elected a presiding member, to the presiding member.
 
-### 36. The panel[^key-d1f85d37f80c4ce01ea77fad1e1e82ee]
+### 36. The panel[^c-d1f85d37f80c4ce01ea77fad1e1e82ee]
 
 (1) The local authority must appoint a panel to determine a complaint made under regulation 35.
 
@@ -346,11 +346,11 @@ Provided the date falls within the period prescribed by regulation 28, a member 
 
 (5) The decision of the panel is final.
 
-### 37. Standing orders[^key-2712ad40df4f4e022927eeeac643ecbd]
+### 37. Standing orders[^c-2712ad40df4f4e022927eeeac643ecbd]
 
 A local authority must, as soon as is reasonably practicable after the coming into force of these Regulations, make standing orders securing the requirements set out in regulation 38.
 
-**38.**[^key-ed29d6af1fd6bc1a297c01ad7b9ffec3] (1) A member on maternity absence , adopter’s absence[^key-f40a16598238281f155478017f2a76f8] or parental absence may, subject to paragraphs (2) to (6),—
+**38.**[^c-ed29d6af1fd6bc1a297c01ad7b9ffec3] (1) A member on maternity absence , adopter’s absence[^c-f40a16598238281f155478017f2a76f8] or parental absence may, subject to paragraphs (2) to (6),—
 
 - (a) attend particular meetings;
 - (b) attend particular descriptions of meetings;
@@ -372,7 +372,7 @@ A local authority must, as soon as is reasonably practicable after the coming in
 - (a) confirm the decision of the chair of the local authority, or where a local authority has elected a presiding member, the decision of the presiding member, under paragraph (2); or
 - (b) substitute its own decision as to the member attending any meeting or performing any duty.
 
-**39.**[^key-32d6db525b8460f419170d92a32f43a2] A local authority must, as soon as is reasonably practicable after the coming into force of these Regulations, make provision in standing orders as to the extent of the duties, if any, which remain applicable to members during a period of family absence.
+**39.**[^c-32d6db525b8460f419170d92a32f43a2] A local authority must, as soon as is reasonably practicable after the coming into force of these Regulations, make provision in standing orders as to the extent of the duties, if any, which remain applicable to members during a period of family absence.
 
 Lesley Griffiths
 
@@ -408,92 +408,92 @@ Part 6 makes provision relating to record keeping, duties to inform, cancellatio
 
 [^f00001]: Footnote: [2011 nawm 4](https://www.legislation.gov.uk/mwa/2011/4).
 
-[^key-7a6e4f23bd3125f2203e859fff75aa0e]: Commencement: Reg. 1 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-7a6e4f23bd3125f2203e859fff75aa0e]: Commencement: Reg. 1 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-0a71a04cfc585f569e3151d85c45bc43]: Commencement: Reg. 2 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-0a71a04cfc585f569e3151d85c45bc43]: Commencement: Reg. 2 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
 [^f00002]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
 [^f00003]: Footnote: Inserted by section 51 of the [Local Government (Democracy) (Wales) Act 2013 (2013 anaw 4)](https://www.legislation.gov.uk/anaw/2013/4).
 
-[^key-3d6ddc2fffa487637cfb11d206823c23]: Commencement: Reg. 3 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-3d6ddc2fffa487637cfb11d206823c23]: Commencement: Reg. 3 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-1ad2fc7f06ffc2077e1a8f77794bf71a]: Commencement: Reg. 4 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-1ad2fc7f06ffc2077e1a8f77794bf71a]: Commencement: Reg. 4 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-f1a78adb1e1a61a3fbb02787eed0331f]: Commencement: Reg. 5 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-f1a78adb1e1a61a3fbb02787eed0331f]: Commencement: Reg. 5 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-6ce13c14474023c06908ec54939c507b]: Commencement: Reg. 6 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-6ce13c14474023c06908ec54939c507b]: Commencement: Reg. 6 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-4d4bc06126619e15c56e9a76a8d9824e]: Commencement: Reg. 7 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-4d4bc06126619e15c56e9a76a8d9824e]: Commencement: Reg. 7 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-fafc2772554c0b42c4afbe60cfee83cf]: Commencement: Reg. 8 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-fafc2772554c0b42c4afbe60cfee83cf]: Commencement: Reg. 8 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-a6a5ac96b4fe878172efb292c9a2e5d6]: Commencement: Reg. 9 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-a6a5ac96b4fe878172efb292c9a2e5d6]: Commencement: Reg. 9 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-c8fc06e58059dde0381553b3bd3269a8]: Commencement: Reg. 10 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-c8fc06e58059dde0381553b3bd3269a8]: Commencement: Reg. 10 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-69f60d4ae7e692f9a2c1aae175c63690]: Commencement: Reg. 11 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-69f60d4ae7e692f9a2c1aae175c63690]: Commencement: Reg. 11 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-5f3371ee713fe3ad5de4d5a5faf99448]: Commencement: Reg. 12 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-5f3371ee713fe3ad5de4d5a5faf99448]: Commencement: Reg. 12 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-1f31113ad01d2de3ef2bc35f9a4bfcf9]: Commencement: Reg. 13 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-1f31113ad01d2de3ef2bc35f9a4bfcf9]: Commencement: Reg. 13 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-1c5d4a26ff4788909ce41ddcbcca278c]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/wsi/2013/2901/regulation/14) substituted (1.4.2021) by [The Family Absence for Members of Local Authorities (Wales) (Amendment) Regulations 2021 (S.I. 2021/243)](https://www.legislation.gov.uk/wsi/2021/243), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/243/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/243/regulation/2/2)
+[^c-1c5d4a26ff4788909ce41ddcbcca278c]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/wsi/2013/2901/regulation/14) substituted (1.4.2021) by [The Family Absence for Members of Local Authorities (Wales) (Amendment) Regulations 2021 (S.I. 2021/243)](https://www.legislation.gov.uk/wsi/2021/243), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/243/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/243/regulation/2/2)
 
-[^key-e62066f4e7d46312fd716eda37dc8b50]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/wsi/2013/2901/regulation/15) substituted (1.4.2021) by [The Family Absence for Members of Local Authorities (Wales) (Amendment) Regulations 2021 (S.I. 2021/243)](https://www.legislation.gov.uk/wsi/2021/243), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/243/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/243/regulation/2/3)
+[^c-e62066f4e7d46312fd716eda37dc8b50]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/wsi/2013/2901/regulation/15) substituted (1.4.2021) by [The Family Absence for Members of Local Authorities (Wales) (Amendment) Regulations 2021 (S.I. 2021/243)](https://www.legislation.gov.uk/wsi/2021/243), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/243/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/243/regulation/2/3)
 
-[^key-c5203093cd40adeb84ca2478acce5014]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/wsi/2013/2901/regulation/16) substituted (1.4.2021) by [The Family Absence for Members of Local Authorities (Wales) (Amendment) Regulations 2021 (S.I. 2021/243)](https://www.legislation.gov.uk/wsi/2021/243), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/243/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2021/243/regulation/2/4)
+[^c-c5203093cd40adeb84ca2478acce5014]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/wsi/2013/2901/regulation/16) substituted (1.4.2021) by [The Family Absence for Members of Local Authorities (Wales) (Amendment) Regulations 2021 (S.I. 2021/243)](https://www.legislation.gov.uk/wsi/2021/243), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/243/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2021/243/regulation/2/4)
 
-[^key-c63841bcfc89c521a77691e02fe58f88]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/wsi/2013/2901/regulation/17) substituted (1.4.2021) by [The Family Absence for Members of Local Authorities (Wales) (Amendment) Regulations 2021 (S.I. 2021/243)](https://www.legislation.gov.uk/wsi/2021/243), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/243/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2021/243/regulation/2/5)
+[^c-c63841bcfc89c521a77691e02fe58f88]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/wsi/2013/2901/regulation/17) substituted (1.4.2021) by [The Family Absence for Members of Local Authorities (Wales) (Amendment) Regulations 2021 (S.I. 2021/243)](https://www.legislation.gov.uk/wsi/2021/243), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/243/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2021/243/regulation/2/5)
 
-[^key-57dc3fdfa3a61711274b0076b06cb7bb]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/wsi/2013/2901/regulation/17A) inserted (1.4.2021) by [The Family Absence for Members of Local Authorities (Wales) (Amendment) Regulations 2021 (S.I. 2021/243)](https://www.legislation.gov.uk/wsi/2021/243), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/243/regulation/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2021/243/regulation/2/6)
+[^c-57dc3fdfa3a61711274b0076b06cb7bb]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/wsi/2013/2901/regulation/17A) inserted (1.4.2021) by [The Family Absence for Members of Local Authorities (Wales) (Amendment) Regulations 2021 (S.I. 2021/243)](https://www.legislation.gov.uk/wsi/2021/243), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/243/regulation/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2021/243/regulation/2/6)
 
-[^key-91a9a0d55faa0354977bd87e9b76ee75]: Commencement: Reg. 18 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-91a9a0d55faa0354977bd87e9b76ee75]: Commencement: Reg. 18 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-399ec1e9690b1da40acb99c28a0ed675]: Commencement: Reg. 19 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-399ec1e9690b1da40acb99c28a0ed675]: Commencement: Reg. 19 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
 [^f00004]: Footnote: [2002 c.38](https://www.legislation.gov.uk/ukpga/2002/38).
 
-[^key-185d3f293c0cf16a05102a9d151aff16]: Commencement: Reg. 20 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-185d3f293c0cf16a05102a9d151aff16]: Commencement: Reg. 20 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-f818257235d998362fb52a000a9b192f]: Commencement: Reg. 21 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-f818257235d998362fb52a000a9b192f]: Commencement: Reg. 21 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-a3298484165d8fe936e8fbb16d3269c7]: Commencement: Reg. 22 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-a3298484165d8fe936e8fbb16d3269c7]: Commencement: Reg. 22 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-0b1c2cd3ba7c3fa45dbed814f79bc20d]: Commencement: Reg. 23 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-0b1c2cd3ba7c3fa45dbed814f79bc20d]: Commencement: Reg. 23 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-5d4e7c71e191f0d59f0bee5cccc8f749]: Commencement: Reg. 24 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-5d4e7c71e191f0d59f0bee5cccc8f749]: Commencement: Reg. 24 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-1dafe97c1fe09a06719731778ee25abd]: Commencement: Reg. 25 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-1dafe97c1fe09a06719731778ee25abd]: Commencement: Reg. 25 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-770cbf980769c78bcb30dedbbe3eecc3]: Commencement: Reg. 26 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-770cbf980769c78bcb30dedbbe3eecc3]: Commencement: Reg. 26 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-05dbc914983f79d290995fc47e5020ff]: Commencement: Reg. 27 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-05dbc914983f79d290995fc47e5020ff]: Commencement: Reg. 27 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-610d7c8295114ff9c624e10050df2f27]: Commencement: Reg. 28 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-610d7c8295114ff9c624e10050df2f27]: Commencement: Reg. 28 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-c3626063149eaa8ffdb94c17e69e877a]: Commencement: Reg. 29 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-c3626063149eaa8ffdb94c17e69e877a]: Commencement: Reg. 29 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-bd9d4d394d5b19e4b85a8254c77c5e15]: Commencement: Reg. 30 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-bd9d4d394d5b19e4b85a8254c77c5e15]: Commencement: Reg. 30 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-721ad37531e58fd7fd2aff058a8f0f1b]: Commencement: Reg. 31 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-721ad37531e58fd7fd2aff058a8f0f1b]: Commencement: Reg. 31 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-e315f32a62b4d39d2f6456db7b3647a4]: Commencement: Reg. 32 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-e315f32a62b4d39d2f6456db7b3647a4]: Commencement: Reg. 32 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-331d099882acc51729440adb4b18497f]: Commencement: Reg. 33 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-331d099882acc51729440adb4b18497f]: Commencement: Reg. 33 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-ef5b172fc0dbaa316d72aface9ff2ff5]: Commencement: Reg. 34 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-ef5b172fc0dbaa316d72aface9ff2ff5]: Commencement: Reg. 34 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-7ad4a2449c92a02beeb4b544ecc170dc]: Commencement: Reg. 35 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-7ad4a2449c92a02beeb4b544ecc170dc]: Commencement: Reg. 35 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-d1f85d37f80c4ce01ea77fad1e1e82ee]: Commencement: Reg. 36 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-d1f85d37f80c4ce01ea77fad1e1e82ee]: Commencement: Reg. 36 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-2712ad40df4f4e022927eeeac643ecbd]: Commencement: Reg. 37 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-2712ad40df4f4e022927eeeac643ecbd]: Commencement: Reg. 37 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-ed29d6af1fd6bc1a297c01ad7b9ffec3]: Commencement: Reg. 38 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-ed29d6af1fd6bc1a297c01ad7b9ffec3]: Commencement: Reg. 38 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
-[^key-f40a16598238281f155478017f2a76f8]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/38/1) inserted (1.4.2021) by [The Family Absence for Members of Local Authorities (Wales) (Amendment) Regulations 2021 (S.I. 2021/243)](https://www.legislation.gov.uk/wsi/2021/243), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/243/regulation/1/2), [2(7)](https://www.legislation.gov.uk/wsi/2021/243/regulation/2/7)
+[^c-f40a16598238281f155478017f2a76f8]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/38/1) inserted (1.4.2021) by [The Family Absence for Members of Local Authorities (Wales) (Amendment) Regulations 2021 (S.I. 2021/243)](https://www.legislation.gov.uk/wsi/2021/243), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/243/regulation/1/2), [2(7)](https://www.legislation.gov.uk/wsi/2021/243/regulation/2/7)
 
-[^key-32d6db525b8460f419170d92a32f43a2]: Commencement: Reg. 39 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
+[^c-32d6db525b8460f419170d92a32f43a2]: Commencement: Reg. 39 in force at 5.12.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/2901/regulation/1/2)
 
 [^f00005]: Footnote: [2011 nawm 4](https://www.legislation.gov.uk/mwa/2011/4).

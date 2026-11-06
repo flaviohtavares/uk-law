@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83YA. Changes in value of assets brought into account: non-profit companies[^key-1826b7571f7bd3275eb514ae9a27554d]
+## 83YA. Changes in value of assets brought into account: non-profit companies[^c-1826b7571f7bd3275eb514ae9a27554d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1826b7571f7bd3275eb514ae9a27554d]: Textual amendment: S. 83YA omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 55](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/55)
+[^c-1826b7571f7bd3275eb514ae9a27554d]: Textual amendment: S. 83YA omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 55](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/55)

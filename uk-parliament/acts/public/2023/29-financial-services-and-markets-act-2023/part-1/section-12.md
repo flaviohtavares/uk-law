@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Treasury directions to Bank of England: restrictions[^key-a0fffc0ee78521bdef3ce2026c10e991][^key-698ab8d5f3560ea31fe2d4c09707aada]
+## 12. Treasury directions to Bank of England: restrictions[^c-a0fffc0ee78521bdef3ce2026c10e991][^c-698ab8d5f3560ea31fe2d4c09707aada]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a0fffc0ee78521bdef3ce2026c10e991]: Commencement: S. 12 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-a0fffc0ee78521bdef3ce2026c10e991]: Commencement: S. 12 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-698ab8d5f3560ea31fe2d4c09707aada]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/29/section/12) in force at 1.1.2024 at 1.00 a.m. by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/c)
+[^c-698ab8d5f3560ea31fe2d4c09707aada]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/29/section/12) in force at 1.1.2024 at 1.00 a.m. by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(c)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/c)

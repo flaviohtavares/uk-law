@@ -184,7 +184,7 @@ Section 88
 
 #### Interests in settlements
 
-**3.**[^key-d447dc08fc73de1c030d6017a94dbff8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d447dc08fc73de1c030d6017a94dbff8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** (1) In section 169F of TCGA 1992 (meaning of “interest in a settlement” for purposes of sections 169B to 169D)—
 
@@ -416,7 +416,7 @@ Section 88
 
 (2) This paragraph shall have effect in relation to disposals made on or after 6th April 2006.
 
-**13.**[^key-429b7427bd8c56bbf9d9e698af9bd6b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-429b7427bd8c56bbf9d9e698af9bd6b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14.** (1) In section 79B(1) (attribution to trustees of gains of non-resident company) before “trustees of a settlement” insert “ the ”.
 
@@ -546,7 +546,7 @@ Section 88
 
 (2) This paragraph shall come into force on 6th April 2006 (in relation to settlements whenever created).
 
-**27.**[^key-a49061ff25a2d015f92e2366599be9b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-a49061ff25a2d015f92e2366599be9b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **28.** (1) In paragraph 1(6) of Schedule 1 (exempt amount: interpretation) for the words “ “**settlor**” and “**excluded settlement**” have the same meanings” substitute “ “excluded settlement” has the same meaning ”.
 
@@ -554,7 +554,7 @@ Section 88
 
 (3) This paragraph shall have effect for the purposes of determining, for the purposes of Schedule 1, whether a person is a settlor in relation to a settlement (whenever created) on or after 6th April 2006.
 
-**29.**[^key-27603b909159fa6f33bfd08342b742d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-27603b909159fa6f33bfd08342b742d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Residence of trustees
 
@@ -574,7 +574,7 @@ Section 88
 
 (6) The amendments to paragraphs 3(1)(a) and 4(1)(a) of Schedule 5A shall have effect in relation to settlements created on or after 6th April 2007.
 
-**31.**[^key-c97eaf4c0980bb36564124be50a700d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-c97eaf4c0980bb36564124be50a700d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **32.** In section 83A(3) (trustee residence: split years)—
 
@@ -592,7 +592,7 @@ Section 88
 - (a) section 83A(4)(b) (trustees to be treated as non-resident),
 - (b) section 85A(3) (attribution of gains to beneficiaries on transfer of value to trustees),
 - (c) section 86(3) (assumption as to residence),
-- (d)[^key-9c160c3cf13f9b804a7167c6a1560eac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-9c160c3cf13f9b804a7167c6a1560eac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) paragraph 5(2) of Schedule 4A (dual resident trustees),
 - (f) paragraphs 4(2) and 10(1) and (3) of Schedule 4C (trustees: chargeable amount and residence), and
 - (g) paragraphs 3(1)(b) and 4(1)(b) of Schedule 5A (settlement with foreign element: information).
@@ -618,7 +618,7 @@ Section 88
 
 (2) Those provisions are—
 
-- (a)[^key-af61eeb21e8a2ae4e4395178910ed327] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-af61eeb21e8a2ae4e4395178910ed327] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) paragraph 4(1) of Schedule 4C (chargeable amount: non-resident settlement).
 
 (3) Sub-paragraph (2)(b) shall have effect in relation to a transfer of value made on or after 6th April 2007 (in relation to settlements whenever created).
@@ -681,15 +681,15 @@ Section 88
 
 #### Amendments of other Acts
 
-**46.** (1)[^key-029e93bf7c82c6246056d670a5653051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.** (1)[^c-029e93bf7c82c6246056d670a5653051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the second column of the table in section 98 of TMA 1970 insert at the appropriate place— “ paragraph 12 of Schedule 4ZA to the 1992 Act ”.
 
 (3) This paragraph shall come into force on 6th April 2006.
 
-**47.**[^key-37bda553980dcee79d3a8b4c5caae3a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-37bda553980dcee79d3a8b4c5caae3a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**48.** (1)[^key-1f213f52038beb4661dc2024dd6c9952] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.** (1)[^c-1f213f52038beb4661dc2024dd6c9952] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 34(3) of that Act (disabled persons) for the words from “the powers” to the end of the subsection substitute
 
@@ -733,23 +733,23 @@ Section 88
 
 ## Annotations
 
-[^key-d447dc08fc73de1c030d6017a94dbff8]: Textual amendment: Sch. 12 para. 3 omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(j)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/j)
+[^c-d447dc08fc73de1c030d6017a94dbff8]: Textual amendment: Sch. 12 para. 3 omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(j)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/j)
 
-[^key-429b7427bd8c56bbf9d9e698af9bd6b4]: Textual amendment: Sch. 12 para. 13 omitted (with effect in accordance with [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/22) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 paras. 21(j)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/j), [55(h)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/h)
+[^c-429b7427bd8c56bbf9d9e698af9bd6b4]: Textual amendment: Sch. 12 para. 13 omitted (with effect in accordance with [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/22) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 paras. 21(j)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/j), [55(h)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/h)
 
-[^key-a49061ff25a2d015f92e2366599be9b7]: Textual amendment: Sch. 12 para. 27 omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(h)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/h)
+[^c-a49061ff25a2d015f92e2366599be9b7]: Textual amendment: Sch. 12 para. 27 omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(h)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/h)
 
-[^key-27603b909159fa6f33bfd08342b742d9]: Textual amendment: Sch. 12 para. 29 omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(j)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/j)
+[^c-27603b909159fa6f33bfd08342b742d9]: Textual amendment: Sch. 12 para. 29 omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(j)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/j)
 
-[^key-c97eaf4c0980bb36564124be50a700d6]: Textual amendment: Sch. 12 para. 31 omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(j)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/j)
+[^c-c97eaf4c0980bb36564124be50a700d6]: Textual amendment: Sch. 12 para. 31 omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(j)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/j)
 
-[^key-9c160c3cf13f9b804a7167c6a1560eac]: Textual amendment: Sch. 12 para. 34(2)(d) omitted (with effect in accordance with Sch. 7 para. 115 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 114(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/114/d)
+[^c-9c160c3cf13f9b804a7167c6a1560eac]: Textual amendment: Sch. 12 para. 34(2)(d) omitted (with effect in accordance with Sch. 7 para. 115 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 114(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/114/d)
 
 [^c16527431]: Commencement: Sch. 12 paras. 35-40 in force at 6.4.2007 unless otherwise expressly provided see Sch. 12 para. 41
 
 [^c16527441]: Commencement: Sch. 12 paras. 35-40 in force at 6.4.2007 unless otherwise expressly provided see Sch. 12 para. 41
 
-[^key-af61eeb21e8a2ae4e4395178910ed327]: Textual amendment: Sch. 12 para. 36(2)(a) omitted (with effect in accordance with Sch. 7 para. 115 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 114(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/114/d)
+[^c-af61eeb21e8a2ae4e4395178910ed327]: Textual amendment: Sch. 12 para. 36(2)(a) omitted (with effect in accordance with Sch. 7 para. 115 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 114(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/114/d)
 
 [^c16527451]: Commencement: Sch. 12 paras. 35-40 in force at 6.4.2007 unless otherwise expressly provided see Sch. 12 para. 41
 
@@ -759,8 +759,8 @@ Section 88
 
 [^c16527481]: Commencement: Sch. 12 paras. 35-40 in force at 6.4.2007 unless otherwise expressly provided see Sch. 12 para. 41
 
-[^key-029e93bf7c82c6246056d670a5653051]: Textual amendment: [Sch. 12 para. 46(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/46/1) omitted (13.8.2009) by virtue of [Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 60(m)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/60/m)
+[^c-029e93bf7c82c6246056d670a5653051]: Textual amendment: [Sch. 12 para. 46(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/46/1) omitted (13.8.2009) by virtue of [Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 60(m)](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/60/m)
 
-[^key-37bda553980dcee79d3a8b4c5caae3a0]: Textual amendment: [Sch. 12 para. 47](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/47) repealed (with effect in accordance with art. 1(2)(3) Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3001/schedule/2)
+[^c-37bda553980dcee79d3a8b4c5caae3a0]: Textual amendment: [Sch. 12 para. 47](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/47) repealed (with effect in accordance with art. 1(2)(3) Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3001/schedule/2)
 
-[^key-1f213f52038beb4661dc2024dd6c9952]: Textual amendment: Sch. 12 para. 48(1) omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(j)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/j)
+[^c-1f213f52038beb4661dc2024dd6c9952]: Textual amendment: Sch. 12 para. 48(1) omitted (with effect in accordance with Sch. 2 para. 22 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(j)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/j)

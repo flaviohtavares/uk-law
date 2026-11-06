@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Interpretation[^key-4a23322bfa26563e7101f6de26da77f5]
+## 142. Interpretation[^c-4a23322bfa26563e7101f6de26da77f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a23322bfa26563e7101f6de26da77f5]: Textual amendment: S. 142 repealed (with effect in accordance with s. 1184(1) of the amending Act, 1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 483(f)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/483/f), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-4a23322bfa26563e7101f6de26da77f5]: Textual amendment: S. 142 repealed (with effect in accordance with s. 1184(1) of the amending Act, 1.4.2010) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 483(f)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/483/f), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

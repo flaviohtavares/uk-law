@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Interpretation of this Part[^key-aa693b93b4357f8031d8fcf73309d7e7][^key-c3d1aba73d8d2c216623f19928f6aa64][^key-aa693b93b4357f8031d8fcf73309d7e7]
+## 57. Interpretation of this Part[^c-aa693b93b4357f8031d8fcf73309d7e7][^c-c3d1aba73d8d2c216623f19928f6aa64][^c-aa693b93b4357f8031d8fcf73309d7e7]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-aa693b93b4357f8031d8fcf73309d7e7] In this Part and in Schedule 7—
+(1)[^c-aa693b93b4357f8031d8fcf73309d7e7] In this Part and in Schedule 7—
 
 - “**administration fee**” means the fee payable to the scheme administrator for each assessment year by liable producers under regulation 60(2)(b) and by liable holding companies under paragraph 6(1)(b)(ii) of Schedule 9;
 - “**assessment year**” means a period commencing on 1st April in one year and ending on 31st March in the following year in respect of which—
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aa693b93b4357f8031d8fcf73309d7e7]: Commencement: Reg. 57(1) in force at 12.12.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
+[^c-aa693b93b4357f8031d8fcf73309d7e7]: Commencement: Reg. 57(1) in force at 12.12.2024 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/3)
 
-[^key-c3d1aba73d8d2c216623f19928f6aa64]: Commencement: Reg. 57 in force at 1.1.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-c3d1aba73d8d2c216623f19928f6aa64]: Commencement: Reg. 57 in force at 1.1.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

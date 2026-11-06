@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Revocation[^key-184bf33ecc47ac276bcb240fbda059f5]
+## 7. Revocation[^c-184bf33ecc47ac276bcb240fbda059f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Regulatory Reform (British Waterways Board) Order 2003[^f00011] is revoked.
 
 ## Annotations
 
-[^key-184bf33ecc47ac276bcb240fbda059f5]: Commencement: Art. 7 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-184bf33ecc47ac276bcb240fbda059f5]: Commencement: Art. 7 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00011]: Footnote: [S.I. 2003/1545](https://www.legislation.gov.uk/uksi/2003/1545).

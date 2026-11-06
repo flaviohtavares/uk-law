@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Adjournment of meeting to approve the statement of proposals[^key-099ce6915e2b3b6c7b007841ccc6690a]
+## 64. Adjournment of meeting to approve the statement of proposals[^c-099ce6915e2b3b6c7b007841ccc6690a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-099ce6915e2b3b6c7b007841ccc6690a]: Commencement: [Rule 64](https://www.legislation.gov.uk/uksi/2011/1301/rule/64) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-099ce6915e2b3b6c7b007841ccc6690a]: Commencement: [Rule 64](https://www.legislation.gov.uk/uksi/2011/1301/rule/64) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

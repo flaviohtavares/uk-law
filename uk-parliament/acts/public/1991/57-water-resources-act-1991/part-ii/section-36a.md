@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36A. Applications: types of abstraction licence[^key-b0bd3fb1c901509416a958651e967724][^key-ee43ed3694c0e3945485577ed5e0850d]
+## 36A. Applications: types of abstraction licence[^c-b0bd3fb1c901509416a958651e967724][^c-ee43ed3694c0e3945485577ed5e0850d]
 
 *Extent: E+W*
 
-(1) The appropriate agency[^key-0ae67d1ec1272e9437b5845931bb1e3e] may decide that—
+(1) The appropriate agency[^c-0ae67d1ec1272e9437b5845931bb1e3e] may decide that—
 
 - (a) an application for a full licence, a transfer licence or a temporary licence ought to be for one of the other types of licence;
 - (b) a number of applications for licences (of any type or types) to abstract water from a particular source of supply ought to be treated as an application for a single such licence (of any type);
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b0bd3fb1c901509416a958651e967724]: Modification: S. 36A excluded (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2006/641/schedule/2/paragraph/8/2)
+[^c-b0bd3fb1c901509416a958651e967724]: Modification: S. 36A excluded (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2006/641/schedule/2/paragraph/8/2)
 
-[^key-ee43ed3694c0e3945485577ed5e0850d]: Textual amendment: S. 36A inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/13/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/984/article/2/h) (with [Sch. para. 7](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/7))
+[^c-ee43ed3694c0e3945485577ed5e0850d]: Textual amendment: S. 36A inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/13/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/984/article/2/h) (with [Sch. para. 7](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/7))
 
-[^key-0ae67d1ec1272e9437b5845931bb1e3e]: Textual amendment: Words in ss. 33A-45 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(g)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/g) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0ae67d1ec1272e9437b5845931bb1e3e]: Textual amendment: Words in ss. 33A-45 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(g)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/g) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

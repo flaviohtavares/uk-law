@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. Parliamentary procedure for regulations[^key-1ae5b121c076078d462225ac5e3fa75f]
+## 225. Parliamentary procedure for regulations[^c-1ae5b121c076078d462225ac5e3fa75f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,11 +27,11 @@ summary: ''
 - (c) regulations under section 114(2),
 - (d) regulations under section 169(3),
 - (e) regulations under section 211(2),
-- (ea)[^key-c7284a6164924214ebe9840a1168fd0e] regulations under section 214A(1),
+- (ea)[^c-c7284a6164924214ebe9840a1168fd0e] regulations under section 214A(1),
 - (f) regulations under section 215(1),
-- (fa)[^key-538ea69a53245019bad16f3b553e5a6c] regulations under section 216A(1),
+- (fa)[^c-538ea69a53245019bad16f3b553e5a6c] regulations under section 216A(1),
 - (g) regulations under section 217(1),
-- (ga)[^key-661ea4da4dfe4343560a6671dc9a8e52] regulations under section 217A,
+- (ga)[^c-661ea4da4dfe4343560a6671dc9a8e52] regulations under section 217A,
 - (h) regulations under section 218(1),
 - (i) regulations under section 220(1), (2), (4), (6), (7), (9) or (13),
 - (j) regulations under section 221(1),
@@ -62,7 +62,7 @@ may not be made unless a draft of the instrument has been laid before, and appro
 - (a) affect the validity of anything previously done under or by virtue of the regulations, or
 - (b) prevent the making of new regulations.
 
-(8)[^key-12127ef53461a03248c690a085c9e8e4] A statutory instrument containing (whether alone or with other provision) the first regulations under the following provisions may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament—
+(8)[^c-12127ef53461a03248c690a085c9e8e4] A statutory instrument containing (whether alone or with other provision) the first regulations under the following provisions may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament—
 
 - (a) section 154A(1);
 - (b) paragraph 1(1) of Schedule 11.
@@ -74,7 +74,7 @@ may not be made unless a draft of the instrument has been laid before, and appro
 - (a) regulations under section 67(1),
 - (b) regulations under section 85(2),
 - (c) regulations under section 86,
-- (ca)[^key-fd4b05829d17771bdee6e91365ce4795] regulations under section 101(E1)(a),
+- (ca)[^c-fd4b05829d17771bdee6e91365ce4795] regulations under section 101(E1)(a),
 - (d) regulations under section 170(1),
 - (e) regulations under section 223 that do not amend or repeal provision made by the Communications Act,
 - (f) regulations under paragraph 8(1) of Schedule 3, or
@@ -103,14 +103,14 @@ are subject to the affirmative procedure (see section 29 of the Interpretation a
 
 ## Annotations
 
-[^key-1ae5b121c076078d462225ac5e3fa75f]: Commencement: S. 225 in force at Royal Assent, see [s. 240(z4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z4)
+[^c-1ae5b121c076078d462225ac5e3fa75f]: Commencement: S. 225 in force at Royal Assent, see [s. 240(z4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z4)
 
-[^key-c7284a6164924214ebe9840a1168fd0e]: Textual amendment: S. 225(1)(ea) inserted (29.4.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 70(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/70/3), [78(1)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/b)
+[^c-c7284a6164924214ebe9840a1168fd0e]: Textual amendment: S. 225(1)(ea) inserted (29.4.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 70(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/70/3), [78(1)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/b)
 
-[^key-538ea69a53245019bad16f3b553e5a6c]: Textual amendment: S. 225(1)(fa) inserted (29.4.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 248(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/248/3), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-538ea69a53245019bad16f3b553e5a6c]: Textual amendment: S. 225(1)(fa) inserted (29.4.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 248(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/248/3), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
 
-[^key-661ea4da4dfe4343560a6671dc9a8e52]: Textual amendment: S. 225(1)(ga) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/109/3), [255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)
+[^c-661ea4da4dfe4343560a6671dc9a8e52]: Textual amendment: S. 225(1)(ga) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/109/3), [255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)
 
-[^key-12127ef53461a03248c690a085c9e8e4]: Textual amendment: S. 225(8)(9) substituted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 125(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/125/4), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/s)
+[^c-12127ef53461a03248c690a085c9e8e4]: Textual amendment: S. 225(8)(9) substituted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 125(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/125/4), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/s)
 
-[^key-fd4b05829d17771bdee6e91365ce4795]: Textual amendment: S. 225(10)(ca) inserted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(9)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/9), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+[^c-fd4b05829d17771bdee6e91365ce4795]: Textual amendment: S. 225(10)(ca) inserted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(9)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/9), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)

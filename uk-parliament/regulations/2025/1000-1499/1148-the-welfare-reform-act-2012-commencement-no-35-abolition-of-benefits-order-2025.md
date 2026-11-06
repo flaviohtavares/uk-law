@@ -37,7 +37,7 @@ Made
 
 The Secretary of State makes this Order in exercise of the powers conferred by section 150(3) and (4)(a) and (c) of the Welfare Reform Act 2012[^f00001].
 
-## 1. Citation and Interpretation[^key-a7ffa8caa4eccbabbcdc7d5561e916ad]
+## 1. Citation and Interpretation[^c-a7ffa8caa4eccbabbcdc7d5561e916ad]
 
 (1) This Order may be cited as the Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) Order 2025.
 
@@ -53,12 +53,12 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 - “**income-related employment and support allowance**” means an income-related allowance under Part 1 of the 2007 Act;
 - “**old style ESA**” means an employment and support allowance under Part 1 of the 2007 Act as it has effect apart from the amendments made by Schedule 3, and Part 1 of Schedule 14, to the Act that remove references to an income-related allowance and references to an award of old style ESA shall be construed accordingly;
 - “**old style JSA**” means a jobseeker’s allowance under the Jobseekers Act 1995 as it has effect apart from the amendments made by Part 1 of Schedule 14 to the Act that remove references to an income-based jobseeker’s allowance and references to an award of old style JSA shall be construed accordingly;
-- “[^key-c93d6ee13b092d23548c4b5e99599c62]**specified accommodation**” has the same meaning as in the Transitional Regulations;
+- “[^c-c93d6ee13b092d23548c4b5e99599c62]**specified accommodation**” has the same meaning as in the Transitional Regulations;
 - “**temporary accommodation**” has the same meaning as in the Transitional Regulations;
 - “**the Transitional Regulations**” means the Universal Credit (Transitional Provisions) Regulations 2014[^f00006];
 - “**two week run-on period**” means the period referred to in regulation 8(2A)[^f00007] or 46(1)(a)[^f00008] of the Transitional Regulations or regulation 5(1) of the Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019[^f00009].
 
-## 2. Conversion of contributory old style ESA[^key-97acfe61dbf72b08025346bfb7fe6245]
+## 2. Conversion of contributory old style ESA[^c-97acfe61dbf72b08025346bfb7fe6245]
 
 (1) The day appointed for the coming into force of the amending provisions in the case of an award of old style ESA in respect of which the claimant—
 
@@ -69,15 +69,15 @@ is as follows.
 
 (2) In the case of an award where either of the conditions in paragraph (1)(a) or (b) applies on 1st December 2025, the day appointed is 1st December 2025.
 
-(3) In any other case, the day appointed is any day falling before 1st July 2026 which is[^key-be18f234e6fd7f2a2230d398a0767230] the first day on which either of those conditions applies.
+(3) In any other case, the day appointed is any day falling before 1st July 2026 which is[^c-be18f234e6fd7f2a2230d398a0767230] the first day on which either of those conditions applies.
 
-## 3. Claimant commitment on conversion of contributory old style ESA[^key-40d609e06fed5485ef438f009c38475f]
+## 3. Claimant commitment on conversion of contributory old style ESA[^c-40d609e06fed5485ef438f009c38475f]
 
 (1) Where the amending provisions come into force in relation to an award of old style ESA in accordance with article 2 (conversion of contributory old style ESA) the Secretary of State may, for so long as the Secretary of State considers necessary to protect the efficient administration of employment and support allowance, delay the preparation of a claimant commitment in accordance with section 11A[^f00010] of the 2007 Act.
 
 (2) Section 1(3)(aa)[^f00011] of the 2007 Act (acceptance of claimant commitment to be a condition of entitlement to employment and support allowance) is not to apply during any period for which the preparation of a claimant commitment is delayed under paragraph (1).
 
-## 3A. Abolition of income-related employment and support allowance[^key-ce6d33d1646ddce4adb465feb67c1df6]
+## 3A. Abolition of income-related employment and support allowance[^c-ce6d33d1646ddce4adb465feb67c1df6]
 
 (1) Subject to the saving in paragraph (2), the day appointed for the coming into force of the amending provisions in the case of an award of old style ESA in respect of which those provisions—
 
@@ -93,7 +93,7 @@ is 1st July 2026.
 
 (3) The saving in paragraph (2) does not prevent the amending provisions from coming into force as a consequence of a claim for universal credit or from being treated as coming into force in accordance with regulation 46(1)(a) of the Transitional Regulations (termination of existing benefits if no claim before the deadline).
 
-## 4. Abolition of income-based jobseeker’s allowance[^key-c3585759a9f026ecb6a0170dc850c319]
+## 4. Abolition of income-based jobseeker’s allowance[^c-c3585759a9f026ecb6a0170dc850c319]
 
 The day appointed for the coming into force of the amending provisions in the case of an award of old style JSA in respect of which those provisions—
 
@@ -102,7 +102,7 @@ The day appointed for the coming into force of the amending provisions in the ca
 
 is 1st April 2026.
 
-## 5. Abolition of income support[^key-f261aa565abed6eb770a015d14c07901]
+## 5. Abolition of income support[^c-f261aa565abed6eb770a015d14c07901]
 
 The day appointed for the coming into force of section 33(1)(c) of the Act (abolition of income support) in respect of an award of income support that—
 
@@ -111,7 +111,7 @@ The day appointed for the coming into force of section 33(1)(c) of the Act (abol
 
 is 1st April 2026.
 
-## 6. Housing benefit - claimants moving from temporary or specified accommodation on or after 14th November 2025 and before 1st July 2026[^key-083a93f963adb26bf84ed20dab58d679][^key-168d87f36149cf420e7e6c40806bc10b]
+## 6. Housing benefit - claimants moving from temporary or specified accommodation on or after 14th November 2025 and before 1st July 2026[^c-083a93f963adb26bf84ed20dab58d679][^c-168d87f36149cf420e7e6c40806bc10b]
 
 (1) The day appointed for the coming into force of section 33(1)(d) of the Act (abolition of housing benefit) in relation to an award of housing benefit where the claimant—
 
@@ -119,11 +119,11 @@ is 1st April 2026.
 - (b) does not fall within regulation 6A(3) to (5) of the Transitional Regulations[^f00012] (exemption from restrictions on claims for housing benefit for persons over the qualifying age for state pension credit etc.), and
 - (c) is entitled to that award in respect of temporary accommodation or specified accommodation,
 
-is any day falling on or after 14th November 2025 and before 1st July 2026[^key-df6bbe7ede109560bda462cd23c87e51] that is the day after the last day on which the claimant is entitled to housing benefit in respect of accommodation of that description.
+is any day falling on or after 14th November 2025 and before 1st July 2026[^c-df6bbe7ede109560bda462cd23c87e51] that is the day after the last day on which the claimant is entitled to housing benefit in respect of accommodation of that description.
 
-(2)[^key-0e07cec9901f01de2999dbca3a45c0ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0e07cec9901f01de2999dbca3a45c0ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Abolition of housing benefit for working age claimants who are not in temporary accommodation or specified accommodation[^key-6b84273af793dbbbef968a7053f6b98c]
+## 7. Abolition of housing benefit for working age claimants who are not in temporary accommodation or specified accommodation[^c-6b84273af793dbbbef968a7053f6b98c]
 
 (1) Subject to the savings in paragraph (4), the day appointed for the coming into force of section 33(1)(d) of the Act (abolition of housing benefit) in the case of an award of housing benefit that—
 
@@ -529,7 +529,7 @@ The following provisions of the Welfare Reform Act [2012 (c. 5)](https://www.leg
 
 [^f00001]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-a7ffa8caa4eccbabbcdc7d5561e916ad]: Commencement: Art. 1 in force at made date
+[^c-a7ffa8caa4eccbabbcdc7d5561e916ad]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
 
@@ -539,7 +539,7 @@ The following provisions of the Welfare Reform Act [2012 (c. 5)](https://www.leg
 
 [^f00005]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
 
-[^key-c93d6ee13b092d23548c4b5e99599c62]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1148/article/1/2) inserted (15.4.2026) by [The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) (Amendment) Order 2026 (S.I. 2026/409)](https://www.legislation.gov.uk/uksi/2026/409), [art. 2(2)](https://www.legislation.gov.uk/uksi/2026/409/article/2/2)
+[^c-c93d6ee13b092d23548c4b5e99599c62]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1148/article/1/2) inserted (15.4.2026) by [The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) (Amendment) Order 2026 (S.I. 2026/409)](https://www.legislation.gov.uk/uksi/2026/409), [art. 2(2)](https://www.legislation.gov.uk/uksi/2026/409/article/2/2)
 
 [^f00006]: Footnote: [S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230).
 
@@ -549,32 +549,32 @@ The following provisions of the Welfare Reform Act [2012 (c. 5)](https://www.leg
 
 [^f00009]: Footnote: [S.I. 2019/1152](https://www.legislation.gov.uk/uksi/2019/1152).
 
-[^key-97acfe61dbf72b08025346bfb7fe6245]: Commencement: Art. 2 in force at made date
+[^c-97acfe61dbf72b08025346bfb7fe6245]: Commencement: Art. 2 in force at made date
 
-[^key-be18f234e6fd7f2a2230d398a0767230]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/2025/1148/article/2/3) inserted (15.4.2026) by [The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) (Amendment) Order 2026 (S.I. 2026/409)](https://www.legislation.gov.uk/uksi/2026/409), [art. 2(3)](https://www.legislation.gov.uk/uksi/2026/409/article/2/3)
+[^c-be18f234e6fd7f2a2230d398a0767230]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/2025/1148/article/2/3) inserted (15.4.2026) by [The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) (Amendment) Order 2026 (S.I. 2026/409)](https://www.legislation.gov.uk/uksi/2026/409), [art. 2(3)](https://www.legislation.gov.uk/uksi/2026/409/article/2/3)
 
-[^key-40d609e06fed5485ef438f009c38475f]: Commencement: Art. 3 in force at made date
+[^c-40d609e06fed5485ef438f009c38475f]: Commencement: Art. 3 in force at made date
 
 [^f00010]: Footnote: Section 11A was inserted by section 57(2) of the Welfare Reform Act 2012.
 
 [^f00011]: Footnote: Section 1(3)(aa) was inserted by section 54(2) of the Welfare Reform Act 2012.
 
-[^key-ce6d33d1646ddce4adb465feb67c1df6]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2025/1148/article/3A) inserted (15.4.2026) by [The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) (Amendment) Order 2026 (S.I. 2026/409)](https://www.legislation.gov.uk/uksi/2026/409), [art. 2(4)](https://www.legislation.gov.uk/uksi/2026/409/article/2/4)
+[^c-ce6d33d1646ddce4adb465feb67c1df6]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2025/1148/article/3A) inserted (15.4.2026) by [The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) (Amendment) Order 2026 (S.I. 2026/409)](https://www.legislation.gov.uk/uksi/2026/409), [art. 2(4)](https://www.legislation.gov.uk/uksi/2026/409/article/2/4)
 
-[^key-c3585759a9f026ecb6a0170dc850c319]: Commencement: Art. 4 in force at made date
+[^c-c3585759a9f026ecb6a0170dc850c319]: Commencement: Art. 4 in force at made date
 
-[^key-f261aa565abed6eb770a015d14c07901]: Commencement: Art. 5 in force at made date
+[^c-f261aa565abed6eb770a015d14c07901]: Commencement: Art. 5 in force at made date
 
-[^key-083a93f963adb26bf84ed20dab58d679]: Commencement: Art. 6 in force at made date
+[^c-083a93f963adb26bf84ed20dab58d679]: Commencement: Art. 6 in force at made date
 
-[^key-168d87f36149cf420e7e6c40806bc10b]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2025/1148/article/6) heading substituted (15.4.2026) by [The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) (Amendment) Order 2026 (S.I. 2026/409)](https://www.legislation.gov.uk/uksi/2026/409), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2026/409/article/2/5/a)
+[^c-168d87f36149cf420e7e6c40806bc10b]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2025/1148/article/6) heading substituted (15.4.2026) by [The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) (Amendment) Order 2026 (S.I. 2026/409)](https://www.legislation.gov.uk/uksi/2026/409), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2026/409/article/2/5/a)
 
 [^f00012]: Footnote: Regulation 6A was inserted by [S.I. 2022/752](https://www.legislation.gov.uk/uksi/2022/752).
 
-[^key-df6bbe7ede109560bda462cd23c87e51]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2025/1148/article/6/1) inserted (15.4.2026) by [The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) (Amendment) Order 2026 (S.I. 2026/409)](https://www.legislation.gov.uk/uksi/2026/409), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2026/409/article/2/5/b)
+[^c-df6bbe7ede109560bda462cd23c87e51]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2025/1148/article/6/1) inserted (15.4.2026) by [The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) (Amendment) Order 2026 (S.I. 2026/409)](https://www.legislation.gov.uk/uksi/2026/409), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2026/409/article/2/5/b)
 
-[^key-0e07cec9901f01de2999dbca3a45c0ab]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/uksi/2025/1148/article/6/2) omitted (15.4.2026) by virtue of [The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) (Amendment) Order 2026 (S.I. 2026/409)](https://www.legislation.gov.uk/uksi/2026/409), [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2026/409/article/2/5/c)
+[^c-0e07cec9901f01de2999dbca3a45c0ab]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/uksi/2025/1148/article/6/2) omitted (15.4.2026) by virtue of [The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) (Amendment) Order 2026 (S.I. 2026/409)](https://www.legislation.gov.uk/uksi/2026/409), [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2026/409/article/2/5/c)
 
-[^key-6b84273af793dbbbef968a7053f6b98c]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2025/1148/article/7) inserted (15.4.2026) by [The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) (Amendment) Order 2026 (S.I. 2026/409)](https://www.legislation.gov.uk/uksi/2026/409), [art. 2(6)](https://www.legislation.gov.uk/uksi/2026/409/article/2/6)
+[^c-6b84273af793dbbbef968a7053f6b98c]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/uksi/2025/1148/article/7) inserted (15.4.2026) by [The Welfare Reform Act 2012 (Commencement No. 35) (Abolition of Benefits) (Amendment) Order 2026 (S.I. 2026/409)](https://www.legislation.gov.uk/uksi/2026/409), [art. 2(6)](https://www.legislation.gov.uk/uksi/2026/409/article/2/6)
 
 [^f00013]: Footnote: [S.I. 2012/1246 (C. 42)](https://www.legislation.gov.uk/uksi/2012/1246) was amended by [S.I. 2012/1440 (C. 55)](https://www.legislation.gov.uk/uksi/2012/1440) and [2530](https://www.legislation.gov.uk/uksi/2012/2530) (C. 102).

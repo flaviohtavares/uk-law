@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Meaning of “community body” in Forestry Act 1967[^key-9f89ab4a42d800ab42d86da8b00d2a5a]
+## 98. Meaning of “community body” in Forestry Act 1967[^c-9f89ab4a42d800ab42d86da8b00d2a5a]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f89ab4a42d800ab42d86da8b00d2a5a]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2015/6/section/98) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(c)](https://www.legislation.gov.uk/ssi/2016/363/article/3/c)
+[^c-9f89ab4a42d800ab42d86da8b00d2a5a]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2015/6/section/98) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(c)](https://www.legislation.gov.uk/ssi/2016/363/article/3/c)

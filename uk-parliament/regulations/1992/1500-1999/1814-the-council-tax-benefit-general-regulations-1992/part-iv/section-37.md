@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Calculation of tariff income from capital[^key-585b2a871b5341f1c89074ff61a2da85]
+## 37. Calculation of tariff income from capital[^c-585b2a871b5341f1c89074ff61a2da85]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-585b2a871b5341f1c89074ff61a2da85]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1992/1814/regulation/37) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-585b2a871b5341f1c89074ff61a2da85]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1992/1814/regulation/37) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

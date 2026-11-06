@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Amount of surcharge[^key-be6cf45c7aab97472b4e0805831bed89]
+## 43. Amount of surcharge[^c-be6cf45c7aab97472b4e0805831bed89]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be6cf45c7aab97472b4e0805831bed89]: Commencement: S. 43 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-be6cf45c7aab97472b4e0805831bed89]: Commencement: S. 43 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

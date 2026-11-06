@@ -27,10 +27,10 @@ summary: ''
 - (c) the modification of enactments relating to those functions, and
 - (d) the modification of enactments relating to the organisation of the courts.
 
-(2)[^key-475d43c372a27ae80085764ebf6cd0f2] Schedule 5 makes similar provision about functions under legislation relating to Northern Ireland.
+(2)[^c-475d43c372a27ae80085764ebf6cd0f2] Schedule 5 makes similar provision about functions under legislation relating to Northern Ireland.
 
 ## Annotations
 
 [^c18896081]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15) partly in force; [s. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15) not in force at Royal Assent see [s. 148](https://www.legislation.gov.uk/ukpga/2005/4/section/148); [s. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2) in force for specified purposes at 31.8.2005 by [S.I. 2005/2284](https://www.legislation.gov.uk/uksi/2005/2284), [art. 2](https://www.legislation.gov.uk/uksi/2005/2284/article/2); [s. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15) in force for specified purposes at 3.4.2006 by [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/10)
 
-[^key-475d43c372a27ae80085764ebf6cd0f2]: Commencement: [S. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2) in force at 12.4.2010 for specified purposes by [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/883/article/2/a)
+[^c-475d43c372a27ae80085764ebf6cd0f2]: Commencement: [S. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2) in force at 12.4.2010 for specified purposes by [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/883/article/2/a)

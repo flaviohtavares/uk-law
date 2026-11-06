@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259DB. Meaning of “hybrid transfer arrangement”, “underlying instrument” etc[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259DB. Meaning of “hybrid transfer arrangement”, “underlying instrument” etc[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,10 +57,10 @@ that is an arrangement within subsection (3).
 
 the second instrument is to be treated as being transferred from P to Q.
 
-(7)[^key-9e27f1154d21a14cbd5f3143cd476b3c] For the purposes of subsection (4) references to tax include any qualifying capital tax within the meaning given by section 259DD(11).
+(7)[^c-9e27f1154d21a14cbd5f3143cd476b3c] For the purposes of subsection (4) references to tax include any qualifying capital tax within the meaning given by section 259DD(11).
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-9e27f1154d21a14cbd5f3143cd476b3c]: Textual amendment: S. 259DB(7) inserted (retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 paras. 9](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/9), [19(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/19/4)
+[^c-9e27f1154d21a14cbd5f3143cd476b3c]: Textual amendment: S. 259DB(7) inserted (retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 paras. 9](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/9), [19(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/19/4)

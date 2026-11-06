@@ -29,9 +29,9 @@ summary: ''
 - (a) loan relationships (see Parts 5 and 6),
 - (b) derivative contracts (see Part 7),
 - (c) contracts or policies of insurance or capital redemption policies,
-- (ca)[^key-2861e3967873f0eeb9b53b266d482b6b] assets so far as they are derived from, or are referable to, contracts or policies of insurance or capital redemption policies, and
+- (ca)[^c-2861e3967873f0eeb9b53b266d482b6b] assets so far as they are derived from, or are referable to, contracts or policies of insurance or capital redemption policies, and
 - (d) rights under a collective investment scheme within the meaning of FISMA 2000 (see section 235 of that Act).
 
 ## Annotations
 
-[^key-2861e3967873f0eeb9b53b266d482b6b]: Textual amendment: S. 806(3)(ca) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 175](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/175)
+[^c-2861e3967873f0eeb9b53b266d482b6b]: Textual amendment: S. 806(3)(ca) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 175](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/175)

@@ -44,7 +44,7 @@ The Minister for the Cabinet Office has consulted the Electoral Commission in ac
 
 In accordance with section 201(2) of the 1983 Act [^c23931701] and section 11(2) of the 2013 Act a draft of this instrument has been laid before and approved by a resolution of each House of Parliament. In accordance with section 8(6) of the 2013 Act, the draft instrument was accompanied by a report of the Electoral Commission.
 
-## 1. Citation, commencement and extent[^key-ea311397d2ac58670912f12d13437f37]
+## 1. Citation, commencement and extent[^c-ea311397d2ac58670912f12d13437f37]
 
 (1) These Regulations may be cited as the Representation of the People (Annual Canvass) (Amendment) Regulations 2019.
 
@@ -56,11 +56,11 @@ In accordance with section 201(2) of the 1983 Act [^c23931701] and section 11(2)
 
 (5) Regulations 20 and 21 extend to England and Wales and Scotland only.
 
-## 2. Amendments to the Representation of the People Act 1983[^key-2049fabeacc592732646cf52ffc2ec18]
+## 2. Amendments to the Representation of the People Act 1983[^c-2049fabeacc592732646cf52ffc2ec18]
 
 The Representation of the People Act 1983 [^c23931711] is amended in accordance with regulations 3 to 5.
 
-## 3.[^key-e511c5602cf4b2cf38906735c48df24e]
+## 3.[^c-e511c5602cf4b2cf38906735c48df24e]
 
 In section 9A (registration officers: duty to take necessary steps), in subsection (2)—
 
@@ -76,7 +76,7 @@ In section 9A (registration officers: duty to take necessary steps), in subsecti
 
   .
 
-## 4.[^key-a5ec37612e099614343effa2eed5d378]
+## 4.[^c-a5ec37612e099614343effa2eed5d378]
 
 In section 9D (maintenance of registers: duty to conduct canvass in Great Britain)—
 
@@ -90,7 +90,7 @@ In section 9D (maintenance of registers: duty to conduct canvass in Great Britai
 - (d) in subsection (5)(b), after “form” insert “ or communication ”;
 - (e) in subsection (5)(c), after “form” insert “ or communication ”.
 
-## 5.[^key-38172feedb37aac9ad477ed323de9f4a]
+## 5.[^c-38172feedb37aac9ad477ed323de9f4a]
 
 (1) Schedule 2 (provisions which may be contained in regulations as to registration etc.) is amended as follows.
 
@@ -109,11 +109,11 @@ In section 9D (maintenance of registers: duty to conduct canvass in Great Britai
   ;
 - (c) in sub-paragraph (3), after “sub-paragraph (1)” insert “ , (1A) ”.
 
-## 6. Amendments to the Representation of the People (England and Wales) Regulations 2001[^key-624d6f5301dd6f8351bab294db4704a2]
+## 6. Amendments to the Representation of the People (England and Wales) Regulations 2001[^c-624d6f5301dd6f8351bab294db4704a2]
 
 The Representation of the People (England and Wales) Regulations 2001 [^c23931721] are amended in accordance with regulations 7 to 12.
 
-## 7.[^key-c3ceab92bce3e1bf3636b60806c27616]
+## 7.[^c-c3ceab92bce3e1bf3636b60806c27616]
 
 In regulation 3(1)—
 
@@ -128,22 +128,22 @@ In regulation 3(1)—
 
   .
 
-## 8.[^key-f1c14d857e3fb5a6c447724ebdf39caf]
+## 8.[^c-f1c14d857e3fb5a6c447724ebdf39caf]
 
 In regulation 26(3)(eb), at the beginning insert “ in relation to the registration of local government electors in Wales, ”.
 
-## 9.[^key-66705426b53ed02fc65b07b90a32f9bd]
+## 9.[^c-66705426b53ed02fc65b07b90a32f9bd]
 
 In regulation 32ZA—
 
 - (a) for the heading substitute “ Annual canvass: register of local government electors in Wales ”; and
 - (b) in paragraph (1), after “the 1983 Act” insert “ in respect of a register of local government electors in Wales ”.
 
-## 10.[^key-f514d51bab0a9df6291cd9ea9cdc77b4]
+## 10.[^c-f514d51bab0a9df6291cd9ea9cdc77b4]
 
 In regulation 32ZB(1), for “If”, substitute “ In relation to the annual canvass required by section 9D of the 1983 Act in respect of a register of local government electors in Wales, if ”.
 
-## 11.[^key-59363eda1e060980b5c9fb661425b318]
+## 11.[^c-59363eda1e060980b5c9fb661425b318]
 
 After regulation 32ZB insert—
 
@@ -405,15 +405,15 @@ After regulation 32ZB insert—
 
 .
 
-## 12.[^key-c46759c2d43192e478759c6ebbb7e53c]
+## 12.[^c-c46759c2d43192e478759c6ebbb7e53c]
 
 In regulation 93A(3), for “A registration officer” substitute “ In relation to the registration of local government electors in Wales, a registration officer ”.
 
-## 13. Amendments to the Representation of the People (Scotland) Regulations 2001[^key-2ef35ef07ad5067fb51490d93b48a520]
+## 13. Amendments to the Representation of the People (Scotland) Regulations 2001[^c-2ef35ef07ad5067fb51490d93b48a520]
 
 The Representation of the People (Scotland) Regulations 2001 [^c23931791] are amended in accordance with regulations 14 to 19.
 
-## 14.[^key-cf160e3641be2bb1ff2d7aca93935f46]
+## 14.[^c-cf160e3641be2bb1ff2d7aca93935f46]
 
 In regulation 3(1)—
 
@@ -428,22 +428,22 @@ In regulation 3(1)—
 
   .
 
-## 15.[^key-aa18fbca21823b7120ac8b0c0eb814f6]
+## 15.[^c-aa18fbca21823b7120ac8b0c0eb814f6]
 
 In regulation 26(3)(eb), at the beginning insert “ in relation to the registration of local government electors, ”.
 
-## 16.[^key-ac483cfc51dc57391d5fa87234569670]
+## 16.[^c-ac483cfc51dc57391d5fa87234569670]
 
 In regulation 32ZA—
 
 - (a) for the heading substitute “ Annual canvass: register of local government electors ”; and
 - (b) in paragraph (1), after “the 1983 Act” insert “ in respect of a register of local government electors ”.
 
-## 17.[^key-7881bcb7d374ad57d1677a8cca3adab5]
+## 17.[^c-7881bcb7d374ad57d1677a8cca3adab5]
 
 In regulation 32ZB(1), for “If”, substitute “ In relation to the annual canvass required by section 9D of the 1983 Act in respect of a register of local government electors, if ”.
 
-## 18.[^key-e6e0ac0760ca0e9b45eca3dcfd50c663]
+## 18.[^c-e6e0ac0760ca0e9b45eca3dcfd50c663]
 
 After regulation 32ZB insert—
 
@@ -695,15 +695,15 @@ After regulation 32ZB insert—
 
 .
 
-## 19.[^key-a38ac97998531ac8451b72193a3c8688]
+## 19.[^c-a38ac97998531ac8451b72193a3c8688]
 
 In regulation 93A(3), for “A registration officer” substitute “ In relation to the registration of local government electors, a registration officer ”.
 
-## 20. Data matching confirmation[^key-3dc9b02371f1913ed720e94f86c51563]
+## 20. Data matching confirmation[^c-3dc9b02371f1913ed720e94f86c51563]
 
 *Extent: E+W+S*
 
-(1) Subject to paragraphs (7) and (8) each registration officer must disclose to the Minister for the Cabinet Office the matching data in respect of each person aged 16 or over who is registered in a register of parliamentary electors in Great Britain, or a register of local government electors in Scotland, *(Extent: S)*[^key-8682800ef5c17fd2d3e19bdf836b76cd] England or Wales *(Extent: E+W)*[^key-2d5519afe27557f268dd1558a1b758e1], maintained by that registration officer.
+(1) Subject to paragraphs (7) and (8) each registration officer must disclose to the Minister for the Cabinet Office the matching data in respect of each person aged 16 or over who is registered in a register of parliamentary electors in Great Britain, or a register of local government electors in Scotland, *(Extent: S)*[^c-8682800ef5c17fd2d3e19bdf836b76cd] England or Wales *(Extent: E+W)*[^c-2d5519afe27557f268dd1558a1b758e1], maintained by that registration officer.
 
 (2) The registration officer must disclose the matching data—
 
@@ -740,7 +740,7 @@ In regulation 93A(3), for “A registration officer” substitute “ In relatio
 - “**specified period**” means the day or dates notified in writing to the registration officer by the Minister for the Cabinet Office, such day or dates to be no later than July 2020;
 - “**the Secretary of State**” means the Secretary of State for the Department for Work and Pensions.
 
-## 21. Processing of information in connection with data matching confirmation[^key-9f2c0ef0b0fea2c67c20c31b52f0a462]
+## 21. Processing of information in connection with data matching confirmation[^c-9f2c0ef0b0fea2c67c20c31b52f0a462]
 
 *Extent: E+W+S*
 
@@ -806,31 +806,31 @@ An impact assessment has been prepared and is annexed to the Explanatory Memoran
 
 [^c23931701]: Marginal citation: [Section 201(2)](https://www.legislation.gov.uk/uksi/2019/1451/section/201/2) was substituted by paragraph 69 of Schedule 4 to the 1985 Act and amended by article 5(b) of [S.I. 1991/1728](https://www.legislation.gov.uk/uksi/1991/1728), [paragraph 6(1)](https://www.legislation.gov.uk/uksi/1991/1728/paragraph/6/1) and 7(b) of Schedule 21 to the Political Parties, Elections and Referendums Act 2000 and section 13(2) of the [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13) (“**the 2014 Northern Ireland Act**”).
 
-[^key-ea311397d2ac58670912f12d13437f37]: Commencement: Reg. 1 in force at 5.11.2019, see reg. 1(2)
+[^c-ea311397d2ac58670912f12d13437f37]: Commencement: Reg. 1 in force at 5.11.2019, see reg. 1(2)
 
-[^key-2049fabeacc592732646cf52ffc2ec18]: Commencement: Reg. 2 in force at 31.12.2019, see reg. 1(3)
+[^c-2049fabeacc592732646cf52ffc2ec18]: Commencement: Reg. 2 in force at 31.12.2019, see reg. 1(3)
 
 [^c23931711]: Marginal citation: Section 9A(2) was inserted by section 9(1) of the [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22) and amended by paragraphs 1 and 6(1) and (3) of Schedule 4 to the 2013 Act and section 18(3)(b) and (c) of the 2014 Northern Ireland Act; section 9D was inserted by section 4 of the 2013 Act; paragraph 1B of Schedule 2 was inserted by paragraph 20(3) of Schedule 4 to that Act, and paragraph 3C of Schedule 2 was inserted by paragraphs 20(1) and (5) of Schedule 4 to that Act.
 
-[^key-e511c5602cf4b2cf38906735c48df24e]: Commencement: Reg. 3 in force at 31.12.2019, see reg. 1(3)
+[^c-e511c5602cf4b2cf38906735c48df24e]: Commencement: Reg. 3 in force at 31.12.2019, see reg. 1(3)
 
-[^key-a5ec37612e099614343effa2eed5d378]: Commencement: Reg. 4 in force at 31.12.2019, see reg. 1(3)
+[^c-a5ec37612e099614343effa2eed5d378]: Commencement: Reg. 4 in force at 31.12.2019, see reg. 1(3)
 
-[^key-38172feedb37aac9ad477ed323de9f4a]: Commencement: Reg. 5 in force at 31.12.2019, see reg. 1(3)
+[^c-38172feedb37aac9ad477ed323de9f4a]: Commencement: Reg. 5 in force at 31.12.2019, see reg. 1(3)
 
-[^key-624d6f5301dd6f8351bab294db4704a2]: Commencement: Reg. 6 in force at 31.12.2019, see reg. 1(3)
+[^c-624d6f5301dd6f8351bab294db4704a2]: Commencement: Reg. 6 in force at 31.12.2019, see reg. 1(3)
 
 [^c23931721]: Marginal citation: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341). Relevant amendments to regulation 3 were made by [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198) and [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419). Regulation 26 was substituted by [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198) and subsequently amended by [S.I. 2015/1971](https://www.legislation.gov.uk/uksi/2015/1971), 2016/694, 2018/272 and 2018/312. Regulation 32ZA was inserted by [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198) and was subsequently amended by [S.I. 2015/467](https://www.legislation.gov.uk/uksi/2015/467), 2015/1971, 2016/694, 2016/997 and 2018/644. Regulation 32ZA(3)(f) was also amended by paragraphs 252 and 256 of Schedule 19 to the [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12). Regulation 32ZB was inserted by [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198) and subsequently amended by [S.I. 2016/694](https://www.legislation.gov.uk/uksi/2016/694). Regulation 93A was inserted by [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198) and was subsequently amended by [S.I. 2018/312](https://www.legislation.gov.uk/uksi/2018/312).There are other amendments but none is relevant to this instrument.
 
-[^key-c3ceab92bce3e1bf3636b60806c27616]: Commencement: Reg. 7 in force at 31.12.2019, see reg. 1(3)
+[^c-c3ceab92bce3e1bf3636b60806c27616]: Commencement: Reg. 7 in force at 31.12.2019, see reg. 1(3)
 
-[^key-f1c14d857e3fb5a6c447724ebdf39caf]: Commencement: Reg. 8 in force at 31.12.2019, see reg. 1(3)
+[^c-f1c14d857e3fb5a6c447724ebdf39caf]: Commencement: Reg. 8 in force at 31.12.2019, see reg. 1(3)
 
-[^key-66705426b53ed02fc65b07b90a32f9bd]: Commencement: Reg. 9 in force at 31.12.2019, see reg. 1(3)
+[^c-66705426b53ed02fc65b07b90a32f9bd]: Commencement: Reg. 9 in force at 31.12.2019, see reg. 1(3)
 
-[^key-f514d51bab0a9df6291cd9ea9cdc77b4]: Commencement: Reg. 10 in force at 31.12.2019, see reg. 1(3)
+[^c-f514d51bab0a9df6291cd9ea9cdc77b4]: Commencement: Reg. 10 in force at 31.12.2019, see reg. 1(3)
 
-[^key-59363eda1e060980b5c9fb661425b318]: Commencement: Reg. 11 in force at 31.12.2019, see reg. 1(3)
+[^c-59363eda1e060980b5c9fb661425b318]: Commencement: Reg. 11 in force at 31.12.2019, see reg. 1(3)
 
 [^c23931731]: Marginal citation: Section 10ZC was inserted by section 1 of the 2013 Act and section 10ZD was inserted by paragraph 1 of Schedule 1 to that Act.
 
@@ -844,21 +844,21 @@ An impact assessment has been prepared and is annexed to the Explanatory Memoran
 
 [^c23931781]: Marginal citation: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34).
 
-[^key-c46759c2d43192e478759c6ebbb7e53c]: Commencement: Reg. 12 in force at 31.12.2019, see reg. 1(3)
+[^c-c46759c2d43192e478759c6ebbb7e53c]: Commencement: Reg. 12 in force at 31.12.2019, see reg. 1(3)
 
-[^key-2ef35ef07ad5067fb51490d93b48a520]: Commencement: Reg. 13 in force at 31.12.2019, see reg. 1(3)
+[^c-2ef35ef07ad5067fb51490d93b48a520]: Commencement: Reg. 13 in force at 31.12.2019, see reg. 1(3)
 
 [^c23931791]: Marginal citation: [S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497). Relevant amendments to regulation 3 were made by [S.I. 2013/3206](https://www.legislation.gov.uk/uksi/2013/3206), [S.I](https://www.legislation.gov.uk/uksi/2013/3206/section/I). 2016/997 and [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419). Regulation 26 was substituted by [S.I. 2013/3206](https://www.legislation.gov.uk/uksi/2013/3206) and subsequently amended by [S.I. 2015/1966](https://www.legislation.gov.uk/uksi/2015/1966), 2017/602, 2017/604, 2018/427, S.I 2018/89 and the [Scottish Elections (Reduction of Voting Age) Act 2015 (asp. 7)](https://www.legislation.gov.uk/asp/2015/7) (“**the 2015 Act**”).Regulation 32ZA was inserted by [S.I. 2013/3206](https://www.legislation.gov.uk/uksi/2013/3206) and subsequently amended by [S.I. 2015/450](https://www.legislation.gov.uk/uksi/2015/450), 2015/, 2016/694, 2016/997, 2017/602, 2018/644 and the 2015 Act. Regulation 32ZA(3)(f) was also amended by paragraph 256 of Schedule 19 to the [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12). Regulation 32ZB was inserted by [S.I. 2013/3206](https://www.legislation.gov.uk/uksi/2013/3206) and subsequently amended by [S.I. 2017/604](https://www.legislation.gov.uk/uksi/2017/604). Regulation 93A was inserted by [S.I. 2013/3206](https://www.legislation.gov.uk/uksi/2013/3206) and subsequently amended by [S.I. 2018/427](https://www.legislation.gov.uk/uksi/2018/427) and [S.S.I. 2018/89](https://www.legislation.gov.uk/ssi/2018/89). There are other amendments but none is relevant to this instrument.
 
-[^key-cf160e3641be2bb1ff2d7aca93935f46]: Commencement: Reg. 14 in force at 31.12.2019, see reg. 1(3)
+[^c-cf160e3641be2bb1ff2d7aca93935f46]: Commencement: Reg. 14 in force at 31.12.2019, see reg. 1(3)
 
-[^key-aa18fbca21823b7120ac8b0c0eb814f6]: Commencement: Reg. 15 in force at 31.12.2019, see reg. 1(3)
+[^c-aa18fbca21823b7120ac8b0c0eb814f6]: Commencement: Reg. 15 in force at 31.12.2019, see reg. 1(3)
 
-[^key-ac483cfc51dc57391d5fa87234569670]: Commencement: Reg. 16 in force at 31.12.2019, see reg. 1(3)
+[^c-ac483cfc51dc57391d5fa87234569670]: Commencement: Reg. 16 in force at 31.12.2019, see reg. 1(3)
 
-[^key-7881bcb7d374ad57d1677a8cca3adab5]: Commencement: Reg. 17 in force at 31.12.2019, see reg. 1(3)
+[^c-7881bcb7d374ad57d1677a8cca3adab5]: Commencement: Reg. 17 in force at 31.12.2019, see reg. 1(3)
 
-[^key-e6e0ac0760ca0e9b45eca3dcfd50c663]: Commencement: Reg. 18 in force at 31.12.2019, see reg. 1(3)
+[^c-e6e0ac0760ca0e9b45eca3dcfd50c663]: Commencement: Reg. 18 in force at 31.12.2019, see reg. 1(3)
 
 [^c23931801]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Schedule 3A was inserted by section 4 of the Digital Economy Act 2017.
 
@@ -866,14 +866,14 @@ An impact assessment has been prepared and is annexed to the Explanatory Memoran
 
 [^c23931821]: Marginal citation: [2006 asp 1](https://www.legislation.gov.uk/asp/2006/1). Section 125 was amended by section 13 of the [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14).
 
-[^key-a38ac97998531ac8451b72193a3c8688]: Commencement: Reg. 19 in force at 31.12.2019, see reg. 1(3)
+[^c-a38ac97998531ac8451b72193a3c8688]: Commencement: Reg. 19 in force at 31.12.2019, see reg. 1(3)
 
-[^key-3dc9b02371f1913ed720e94f86c51563]: Commencement: Reg. 20 in force at 5.11.2019, see reg. 1(2)
+[^c-3dc9b02371f1913ed720e94f86c51563]: Commencement: Reg. 20 in force at 5.11.2019, see reg. 1(2)
 
-[^key-8682800ef5c17fd2d3e19bdf836b76cd]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2019/1451/regulation/20/1) inserted (S.) (3.3.2020) by [The Representation of the People (Data Matching) (Scotland) Regulations 2020 (S.S.I. 2020/63)](https://www.legislation.gov.uk/ssi/2020/63), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/63/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2020/63/regulation/3)
+[^c-8682800ef5c17fd2d3e19bdf836b76cd]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2019/1451/regulation/20/1) inserted (S.) (3.3.2020) by [The Representation of the People (Data Matching) (Scotland) Regulations 2020 (S.S.I. 2020/63)](https://www.legislation.gov.uk/ssi/2020/63), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/63/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2020/63/regulation/3)
 
-[^key-2d5519afe27557f268dd1558a1b758e1]: Textual amendment: Words in reg. 20(1) inserted (E.W.) (22.1.2020) by [The Representation of the People (Annual Canvass) (Amendment) (Wales) Regulations 2020 (S.I. 2020/50)](https://www.legislation.gov.uk/wsi/2020/50), [regs. 2](https://www.legislation.gov.uk/wsi/2020/50/regulation/2), [21](https://www.legislation.gov.uk/wsi/2020/50/regulation/21)
+[^c-2d5519afe27557f268dd1558a1b758e1]: Textual amendment: Words in reg. 20(1) inserted (E.W.) (22.1.2020) by [The Representation of the People (Annual Canvass) (Amendment) (Wales) Regulations 2020 (S.I. 2020/50)](https://www.legislation.gov.uk/wsi/2020/50), [regs. 2](https://www.legislation.gov.uk/wsi/2020/50/regulation/2), [21](https://www.legislation.gov.uk/wsi/2020/50/regulation/21)
 
-[^key-9f2c0ef0b0fea2c67c20c31b52f0a462]: Commencement: Reg. 21 in force at 5.11.2019, see reg. 1(2)
+[^c-9f2c0ef0b0fea2c67c20c31b52f0a462]: Commencement: Reg. 21 in force at 5.11.2019, see reg. 1(2)
 
 [^c23931831]: Marginal citation: Paragraph 1A was inserted by paragraph 2 of Schedule 2 to the 2013 Act.

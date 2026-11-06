@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Power to alter layout, etc., of streets[^key-c51fd69a5efe7cf199b5c62a41d63d25]
+## 7. Power to alter layout, etc., of streets[^c-c51fd69a5efe7cf199b5c62a41d63d25]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c51fd69a5efe7cf199b5c62a41d63d25]: Commencement: Art. 7 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-c51fd69a5efe7cf199b5c62a41d63d25]: Commencement: Art. 7 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

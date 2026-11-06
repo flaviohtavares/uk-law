@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Offences that may be dealt with at a summary hearing[^key-0e3bf74cdc51d9c6fc3e8ed8f4f21b3a][^key-3d24c6337c8776f5de9e1b3bcef7b57c]
+## 53. Offences that may be dealt with at a summary hearing[^c-0e3bf74cdc51d9c6fc3e8ed8f4f21b3a][^c-3d24c6337c8776f5de9e1b3bcef7b57c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,9 +29,9 @@ summary: ''
 - (e) an offence under section 30(1) of negligently doing an act that results in a person's escape, or an offence under section 30(2);
 - (f) an offence under any of sections 34 to 36;
 - (g) an offence under section 42 (criminal conduct) within subsection (3);
-- (ga)[^key-4b0a1551d27d33e50dc49b481184437b] an offence under section 93A, 93E or 93G (testing for alcohol or drugs on suspicion);
+- (ga)[^c-4b0a1551d27d33e50dc49b481184437b] an offence under section 93A, 93E or 93G (testing for alcohol or drugs on suspicion);
 - (h) an offence under section 107;
-- (i)[^key-23ed48bf88811204b3f9881713d83791] an offence under section 305 (random drug testing);
+- (i)[^c-23ed48bf88811204b3f9881713d83791] an offence under section 305 (random drug testing);
 - (j) any service offence under regulations under section 328 or 343;
 - (k) an offence under section 96 or 97 of the Reserve Forces Act 1996 of absence without leave.
 
@@ -46,10 +46,10 @@ summary: ''
 
 ## Annotations
 
-[^key-0e3bf74cdc51d9c6fc3e8ed8f4f21b3a]: Commencement: S. 53 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-0e3bf74cdc51d9c6fc3e8ed8f4f21b3a]: Commencement: S. 53 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-3d24c6337c8776f5de9e1b3bcef7b57c]: Commencement: S. 53 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-3d24c6337c8776f5de9e1b3bcef7b57c]: Commencement: S. 53 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-4b0a1551d27d33e50dc49b481184437b]: Textual amendment: S. 53(1)(ga) inserted (1.11.2013) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/ukpga/2011/18/schedule/4/paragraph/4/2); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/d)
+[^c-4b0a1551d27d33e50dc49b481184437b]: Textual amendment: S. 53(1)(ga) inserted (1.11.2013) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 4 para. 4(2)](https://www.legislation.gov.uk/ukpga/2011/18/schedule/4/paragraph/4/2); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/d)
 
-[^key-23ed48bf88811204b3f9881713d83791]: Textual amendment: S. 53(1)(i) substituted (1.11.2013) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/ukpga/2011/18/schedule/4/paragraph/4/3); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/d)
+[^c-23ed48bf88811204b3f9881713d83791]: Textual amendment: S. 53(1)(i) substituted (1.11.2013) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 4 para. 4(3)](https://www.legislation.gov.uk/ukpga/2011/18/schedule/4/paragraph/4/3); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28.2. Notice of requirements of suspended sentence and community, etc. orders[^key-8ce4812efd76fa4e69c687799d1f1aac]
+## 28.2. Notice of requirements of suspended sentence and community, etc. orders[^c-8ce4812efd76fa4e69c687799d1f1aac]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8ce4812efd76fa4e69c687799d1f1aac]: Commencement: [Rule 28.2](https://www.legislation.gov.uk/uksi/2025/909/rule/28.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8ce4812efd76fa4e69c687799d1f1aac]: Commencement: [Rule 28.2](https://www.legislation.gov.uk/uksi/2025/909/rule/28.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00651]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17).
 

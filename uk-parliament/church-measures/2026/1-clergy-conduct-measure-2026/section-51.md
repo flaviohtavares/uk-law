@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 51. Review by President of Tribunals of penalty etc on conviction[^key-87d9091d4670dcdbb4b5517b663162ab]
+## 51. Review by President of Tribunals of penalty etc on conviction[^c-87d9091d4670dcdbb4b5517b663162ab]
 
 *Extent: E*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87d9091d4670dcdbb4b5517b663162ab]: Commencement: S. 51 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-87d9091d4670dcdbb4b5517b663162ab]: Commencement: S. 51 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

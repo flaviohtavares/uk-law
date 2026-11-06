@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Building Standards Advisory Committee[^key-b5952418a804b7e4b6c30671d3ec5fcf]
+## 31. Building Standards Advisory Committee[^c-b5952418a804b7e4b6c30671d3ec5fcf]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5952418a804b7e4b6c30671d3ec5fcf]: Textual amendment: S. 31 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 6(2)(c)](https://www.legislation.gov.uk/asp/2010/8/section/6/2/c), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-b5952418a804b7e4b6c30671d3ec5fcf]: Textual amendment: S. 31 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 6(2)(c)](https://www.legislation.gov.uk/asp/2010/8/section/6/2/c), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

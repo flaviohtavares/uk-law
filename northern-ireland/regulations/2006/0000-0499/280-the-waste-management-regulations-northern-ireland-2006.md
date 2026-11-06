@@ -43,13 +43,13 @@ The Department of the Environment has been designated[^f00001] for the purposes 
 
 The Department makes the following Regulations in exercise of the powers conferred on it by that section and by Articles 2(3), 4(3), 38(3)(a) and 77 of the Waste and Contaminated Land (Northern Ireland) Order 1997[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-b4d3293563489f156cc9117242ca670f]
+## 1. Citation, commencement and interpretation[^c-b4d3293563489f156cc9117242ca670f]
 
 (1) These Regulations may be cited as the Waste Management Regulations (Northern Ireland) 2006 and shall come into operation on 31st July 2006.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 2. Amendment of the Waste and Contaminated Land (Northern Ireland) Order 1997[^key-09e5bd28cd218fb0d1e9f55c71ce270b]
+## 2. Amendment of the Waste and Contaminated Land (Northern Ireland) Order 1997[^c-09e5bd28cd218fb0d1e9f55c71ce270b]
 
 (1) The Waste and Contaminated Land (Northern Ireland) Order 1997 is amended as follows.
 
@@ -112,7 +112,7 @@ The Department makes the following Regulations in exercise of the powers conferr
 
 (8) Article 31(1) and (4) (Waste other than controlled waste) is repealed.
 
-## 3. Amendment of the Groundwater Regulations (Northern Ireland) 1998[^key-1fbd143bc11e9ab49db581486cac14ec]
+## 3. Amendment of the Groundwater Regulations (Northern Ireland) 1998[^c-1fbd143bc11e9ab49db581486cac14ec]
 
 (1) The Groundwater Regulations (Northern Ireland) 1998[^f00005] are amended as follows.
 
@@ -147,7 +147,7 @@ The Department makes the following Regulations in exercise of the powers conferr
 
 .
 
-## 4. Amendment of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations (Northern Ireland) 1999[^key-048765e11842cfdfb5d149f3a2784913]
+## 4. Amendment of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations (Northern Ireland) 1999[^c-048765e11842cfdfb5d149f3a2784913]
 
 (1) The Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations (Northern Ireland) 1999[^f00006] are amended as follows.
 
@@ -181,7 +181,7 @@ The Department makes the following Regulations in exercise of the powers conferr
 
 (4) In regulation 2(2) revoke the definitions of “catering waste”, “incineration”, “co-incineration” and “former foodstuffs”.
 
-## 5. Amendment of the Controlled Waste Regulations (Northern Ireland) 2002[^key-07cb00d56f6efa3e05af8ba5d4a5dba5]
+## 5. Amendment of the Controlled Waste Regulations (Northern Ireland) 2002[^c-07cb00d56f6efa3e05af8ba5d4a5dba5]
 
 (1) The Controlled Waste Regulations (Northern Ireland) 2002[^f00008] are amended as follows.
 
@@ -197,7 +197,7 @@ The Department makes the following Regulations in exercise of the powers conferr
 
 (6) In regulation 6(2) (Waste to be treated as industrial waste), for “Article 5(2)” substitute “Article 5(2) and 5(2A))”.
 
-(7)[^key-742ee5d028b8ccc7fc9689c020e6980f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-742ee5d028b8ccc7fc9689c020e6980f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) After regulation 8 insert—
 
@@ -213,7 +213,7 @@ The Department makes the following Regulations in exercise of the powers conferr
 
 .
 
-## 6. Amendment of the Pollution Prevention and Control Regulations (Northern Ireland) 2003[^key-9a22d268e4dcc33e1f7040a74d621532]
+## 6. Amendment of the Pollution Prevention and Control Regulations (Northern Ireland) 2003[^c-9a22d268e4dcc33e1f7040a74d621532]
 
 (1) The Pollution Prevention and Control Regulations (Northern Ireland) 2003[^f00009] are amended as follows.
 
@@ -223,11 +223,11 @@ The Department makes the following Regulations in exercise of the powers conferr
 > | --- | --- |
 > | Section 5.2 | In the case of a landfill to which paragraph 1 of Schedule 4 to the 2003 Landfill Regulations applies, the period specified in the notice served on the operator under paragraph 1(9) of that Schedule and, in the case of a landfill to which paragraph 5 of that Schedule applies, the period of six months starting on 31st August 2006. |
 
-## 7. Amendment of the Waste Management Licensing Regulations (Northern Ireland) 2003[^key-5362a8a8051e248bef1a3d17277db89f]
+## 7. Amendment of the Waste Management Licensing Regulations (Northern Ireland) 2003[^c-5362a8a8051e248bef1a3d17277db89f]
 
 The Waste Management Licensing Regulations (Northern Ireland) 2003[^f00010] are amended in accordance with regulations 8 to 26.
 
-## 8. Amendment of Regulation 1: Citation, commencement and interpretation[^key-874c22768e4c034f30ef8a517f9c11ba]
+## 8. Amendment of Regulation 1: Citation, commencement and interpretation[^c-874c22768e4c034f30ef8a517f9c11ba]
 
 In paragraph (3)—
 
@@ -246,15 +246,15 @@ In paragraph (3)—
 
   .
 
-## 9. Amendment of Regulation 3: Technical competence[^key-bb79664088fa35e9200c32af9ff36ac1]
+## 9. Amendment of Regulation 3: Technical competence[^c-bb79664088fa35e9200c32af9ff36ac1]
 
 In paragraph (1) of regulation 3 (Technical Competence) for “Subject to paragraph (2) and regulation 4” substitute “Subject to paragraph (2) and regulations 4 and 5”.
 
-## 10. Amendment of Regulation 14: Groundwater[^key-22d98a76cbe71b50f8bb0f1470947909]
+## 10. Amendment of Regulation 14: Groundwater[^c-22d98a76cbe71b50f8bb0f1470947909]
 
 Regulation 14 is revoked.
 
-## 11. Amendment of Regulation 16: Exclusion of activities under other control regimes from waste management licensing[^key-5084f5b9d093c47ac041b5dd57e42531]
+## 11. Amendment of Regulation 16: Exclusion of activities under other control regimes from waste management licensing[^c-5084f5b9d093c47ac041b5dd57e42531]
 
 (1) In paragraph (1)(e) omit “and”.
 
@@ -266,7 +266,7 @@ Regulation 14 is revoked.
 
 .
 
-## 12. Amendment of Regulation 18: Registration in connection with exempt activities[^key-e92a850f5446752d6991a01e83b63660]
+## 12. Amendment of Regulation 18: Registration in connection with exempt activities[^c-e92a850f5446752d6991a01e83b63660]
 
 (1) In paragraph (3) for “paragraphs (4) and (5)” substitute “paragraphs (4), (4A), (5) and 5(A)”.
 
@@ -288,11 +288,11 @@ Regulation 14 is revoked.
 
 (5) In paragraph (12) for “Subject to regulation 19(2)” substitute “Subject to paragraph (4A) and regulation 19(2)”.
 
-## 13. Amendment of Regulation 19: Registration obligations[^key-162bc322bc59426e4fc831cafd2706e3]
+## 13. Amendment of Regulation 19: Registration obligations[^c-162bc322bc59426e4fc831cafd2706e3]
 
 In paragraph (2) after the words “regulation 18” insert “or any fee required”.
 
-## 14. Amendment of Regulation 22: Registration of brokers[^key-8acf36e13524f22e25496203cd45d4a3]
+## 14. Amendment of Regulation 22: Registration of brokers[^c-8acf36e13524f22e25496203cd45d4a3]
 
 In paragraph (4) after sub-paragraph (c)(iii) insert—
 
@@ -301,11 +301,11 @@ In paragraph (4) after sub-paragraph (c)(iii) insert—
 
 .
 
-## 15. Amendment of paragraph 5 of Part I of Schedule 2: Burning as a fuel[^key-056ece442d6d17725c3f35ff6b6e91f3]
+## 15. Amendment of paragraph 5 of Part I of Schedule 2: Burning as a fuel[^c-056ece442d6d17725c3f35ff6b6e91f3]
 
 Delete sub-paragraphs (d), (e) and (f).
 
-## 16. Amendment of paragraph 9 of Part I of Schedule 2: Land treatment[^key-05502900b83970d4eb2476ee95c5a771]
+## 16. Amendment of paragraph 9 of Part I of Schedule 2: Land treatment[^c-05502900b83970d4eb2476ee95c5a771]
 
 (1) Delete “and” at the end of sub-paragraph (3)(a).
 
@@ -319,7 +319,7 @@ Delete sub-paragraphs (d), (e) and (f).
 
 (3) In sub-paragraph (4) delete from “In this paragraph” to “1949 and”.
 
-## 17. Amendment of paragraph 10 of Part I of Schedule 2: Spreading of sludge[^key-05197a86e6c206dda88d77c4daa64121]
+## 17. Amendment of paragraph 10 of Part I of Schedule 2: Spreading of sludge[^c-05197a86e6c206dda88d77c4daa64121]
 
 For paragraph 10 (1) substitute—
 
@@ -331,7 +331,7 @@ For paragraph 10 (1) substitute—
 
 .
 
-## 18. Amendment of paragraph 11 of Part I of Schedule 2: Land improvement[^key-7519ce04c47552aeaa6fc59acc803c8f]
+## 18. Amendment of paragraph 11 of Part I of Schedule 2: Land improvement[^c-7519ce04c47552aeaa6fc59acc803c8f]
 
 (1) In sub-paragraph (3)(c) delete “and”.
 
@@ -343,7 +343,7 @@ For paragraph 10 (1) substitute—
 
 .
 
-## 19. Amendment of paragraph 23 of Part I of Schedule 2: Animal by-products[^key-9ff09276bd3f9ccdffb5ebebaed83c29]
+## 19. Amendment of paragraph 23 of Part I of Schedule 2: Animal by-products[^c-9ff09276bd3f9ccdffb5ebebaed83c29]
 
 For paragraph 23, substitute—
 
@@ -358,7 +358,7 @@ For paragraph 23, substitute—
 
 .
 
-## 20. Amendment of paragraph 25 of Part I of Schedule 2: Dredging of waterways[^key-b388d348bae9e802a8e1602a8da85436]
+## 20. Amendment of paragraph 25 of Part I of Schedule 2: Dredging of waterways[^c-b388d348bae9e802a8e1602a8da85436]
 
 (1) In sub-paragraph (1) for “sub-paragraphs (2) to (4)” substitute “sub-paragraphs (2) to (4A)”.
 
@@ -368,11 +368,11 @@ For paragraph 23, substitute—
 
 .
 
-## 21. Amendment of paragraph 29 of Part I of Schedule 2: Disposal by incineration at the place of production[^key-7f33c2061c09de66237c2f5b6b683976]
+## 21. Amendment of paragraph 29 of Part I of Schedule 2: Disposal by incineration at the place of production[^c-7f33c2061c09de66237c2f5b6b683976]
 
 In sub-paragraph (1) delete “or an exempt incineration plant for the purposes of Section 5.1 of Part I of Schedule 1 to the 2003 Regulations”.
 
-## 22. Amendment of paragraph 30 of Part I of Schedule 2: Burning waste in the open[^key-4f1fe25b69f3d7dbe2d245f08af39269]
+## 22. Amendment of paragraph 30 of Part I of Schedule 2: Burning waste in the open[^c-4f1fe25b69f3d7dbe2d245f08af39269]
 
 (1) For sub-paragraph (1)(a) substitute—
 
@@ -395,7 +395,7 @@ In sub-paragraph (1) delete “or an exempt incineration plant for the purposes 
 
 .
 
-## 23. Insertion of paragraphs 47A and 47B of Part I of Schedule 2[^key-235d483cebccc25aa5932d3428bd42e7]
+## 23. Insertion of paragraphs 47A and 47B of Part I of Schedule 2[^c-235d483cebccc25aa5932d3428bd42e7]
 
 After paragraph 47 of Part I of Schedule 2,insert—
 
@@ -432,7 +432,7 @@ After paragraph 47 of Part I of Schedule 2,insert—
 
 .
 
-## 24. Amendment of Part III of Schedule 2: Assessment Of Benefit To Agriculture Or Ecological Improvement[^key-4803251ebcccb34a1297267c79d06cea]
+## 24. Amendment of Part III of Schedule 2: Assessment Of Benefit To Agriculture Or Ecological Improvement[^c-4803251ebcccb34a1297267c79d06cea]
 
 (1) In paragraph 1 for “paragraphs 9, 10 and 11” substitute “paragraphs 9, 10, 11, 25 and 47A.”
 
@@ -442,7 +442,7 @@ After paragraph 47 of Part I of Schedule 2,insert—
 
 > - (b) for exempt activities being carried out in areas to which the Action Programme for Nitrate Vulnerable Zones Regulations (Northern Ireland) 1999 apply the exempt activity shall be carried out in accordance with those Regulations.
 
-## 25. Amendment of Part I of Schedule 3: Waste Framework Directive, etc.[^key-82cbd67155780277150bc894301ec1d9]
+## 25. Amendment of Part I of Schedule 3: Waste Framework Directive, etc.[^c-82cbd67155780277150bc894301ec1d9]
 
 (1) In paragraph 10 (Modifications of Part II of the Pollution Control and Local Government (Northern Ireland) Order 1978) for “waste as defined in the 1997 Order” substitute “Directive waste”.
 
@@ -485,7 +485,7 @@ After paragraph 47 of Part I of Schedule 2,insert—
 
   .
 
-## 26. Amendment of Schedule 4: Registration Of Brokers Of Controlled Waste[^key-0e737fa905d7cce27735ac2815e0dece]
+## 26. Amendment of Schedule 4: Registration Of Brokers Of Controlled Waste[^c-0e737fa905d7cce27735ac2815e0dece]
 
 For paragraph 5(1) substitute—
 
@@ -498,7 +498,7 @@ For paragraph 5(1) substitute—
 
 .
 
-## 27. Amendment of the Landfill Regulations (Northern Ireland) 2003[^key-9393e2a7d516c628a4d70a44cf4e2455]
+## 27. Amendment of the Landfill Regulations (Northern Ireland) 2003[^c-9393e2a7d516c628a4d70a44cf4e2455]
 
 (1) The Landfill Regulations (Northern Ireland) 2003[^f00012] are amended as follows.
 
@@ -615,7 +615,7 @@ For paragraph 5(1) substitute—
 
   .
 
-## 28. Amendment of the Hazardous Waste Regulations (Northern Ireland) 2005[^key-01a523ced44c7ef9720ec77aab90474c]
+## 28. Amendment of the Hazardous Waste Regulations (Northern Ireland) 2005[^c-01a523ced44c7ef9720ec77aab90474c]
 
 (1) The Hazardous Waste Regulations (Northern Ireland) 2005[^f00013] are amended as follows.
 
@@ -623,7 +623,7 @@ For paragraph 5(1) substitute—
 
 (3) In regulation 17 (mines and quarries waste) for “1st September 2006”, substitute “31st July 2007”.
 
-## 29. Transitional provision[^key-061416238755fca663c419f22cf2b9c8]
+## 29. Transitional provision[^c-061416238755fca663c419f22cf2b9c8]
 
 (1) Paragraphs (a) and (b) of Article 4(1) of the Waste and Contaminated Land (Northern Ireland) Order 1997 shall not apply to the deposit, disposal or recovery of mines or quarries waste or agricultural waste by any person at any premises if he had carried on the activity in question at those premises before 31st July 2006.
 
@@ -679,85 +679,85 @@ A Regulatory Impact Assessment in relation to these Regulations has been placed 
 
 [^f00003]: Footnote: [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778)
 
-[^key-b4d3293563489f156cc9117242ca670f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/280/regulation/1) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-b4d3293563489f156cc9117242ca670f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/280/regulation/1) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-09e5bd28cd218fb0d1e9f55c71ce270b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/280/regulation/2) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-09e5bd28cd218fb0d1e9f55c71ce270b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/280/regulation/2) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-1fbd143bc11e9ab49db581486cac14ec]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/280/regulation/3) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-1fbd143bc11e9ab49db581486cac14ec]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/280/regulation/3) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1998 No. 401](https://www.legislation.gov.uk/nisr/1998/401) as amended by [S.R. 2003 No. 46](https://www.legislation.gov.uk/nisr/2003/46) and [S.R. 2003 No. 493](https://www.legislation.gov.uk/nisr/2003/493).
 
-[^key-048765e11842cfdfb5d149f3a2784913]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/280/regulation/4) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-048765e11842cfdfb5d149f3a2784913]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/280/regulation/4) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1999 No. 362](https://www.legislation.gov.uk/nisr/1999/362); relevant amending Regulations are [S.R. 2003 No. 493](https://www.legislation.gov.uk/nisr/2003/493)
 
 [^f00007]: Footnote: This subparagraph was substituted by Regulation 25(4) of [S R 2003 No. 493](https://www.legislation.gov.uk/nisr/2003/493) and incorrectly numbered (d) instead of (j).
 
-[^key-07cb00d56f6efa3e05af8ba5d4a5dba5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/280/regulation/5) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-07cb00d56f6efa3e05af8ba5d4a5dba5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/280/regulation/5) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 2002 No. 248](https://www.legislation.gov.uk/nisr/2002/248) as amended by [S.R. 2002 No. 271](https://www.legislation.gov.uk/nisr/2002/271) and [S.R. 2003 No. 404](https://www.legislation.gov.uk/nisr/2003/404)
 
-[^key-742ee5d028b8ccc7fc9689c020e6980f]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/nisr/2006/280/regulation/5/7) revoked (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2011/124/schedule/3/paragraph/1)
+[^c-742ee5d028b8ccc7fc9689c020e6980f]: Textual amendment: [Reg. 5(7)](https://www.legislation.gov.uk/nisr/2006/280/regulation/5/7) revoked (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2011/124/schedule/3/paragraph/1)
 
-[^key-9a22d268e4dcc33e1f7040a74d621532]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/280/regulation/6) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-9a22d268e4dcc33e1f7040a74d621532]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/280/regulation/6) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 2003 No. 46](https://www.legislation.gov.uk/nisr/2003/46); relevant amending Regulations are [S.R. 2003 No. 496](https://www.legislation.gov.uk/nisr/2003/496)
 
-[^key-5362a8a8051e248bef1a3d17277db89f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/280/regulation/7) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-5362a8a8051e248bef1a3d17277db89f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/280/regulation/7) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 2003 No. 493](https://www.legislation.gov.uk/nisr/2003/493) as amended by [S.R. 2003 No. 496](https://www.legislation.gov.uk/nisr/2003/496) and [S.R. 2005 No. 300](https://www.legislation.gov.uk/nisr/2005/300)
 
-[^key-874c22768e4c034f30ef8a517f9c11ba]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/280/regulation/8) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-874c22768e4c034f30ef8a517f9c11ba]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/280/regulation/8) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-bb79664088fa35e9200c32af9ff36ac1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/280/regulation/9) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-bb79664088fa35e9200c32af9ff36ac1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/280/regulation/9) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-22d98a76cbe71b50f8bb0f1470947909]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/280/regulation/10) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-22d98a76cbe71b50f8bb0f1470947909]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/280/regulation/10) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-5084f5b9d093c47ac041b5dd57e42531]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/280/regulation/11) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-5084f5b9d093c47ac041b5dd57e42531]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/280/regulation/11) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-e92a850f5446752d6991a01e83b63660]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/280/regulation/12) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-e92a850f5446752d6991a01e83b63660]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/280/regulation/12) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-162bc322bc59426e4fc831cafd2706e3]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/280/regulation/13) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-162bc322bc59426e4fc831cafd2706e3]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/280/regulation/13) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-8acf36e13524f22e25496203cd45d4a3]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/280/regulation/14) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-8acf36e13524f22e25496203cd45d4a3]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/280/regulation/14) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-056ece442d6d17725c3f35ff6b6e91f3]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/280/regulation/15) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-056ece442d6d17725c3f35ff6b6e91f3]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/280/regulation/15) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-05502900b83970d4eb2476ee95c5a771]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/280/regulation/16) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-05502900b83970d4eb2476ee95c5a771]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/280/regulation/16) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1999 No.156](https://www.legislation.gov.uk/nisr/1999/156) as amended by S.R..[2003 No. 259](https://www.legislation.gov.uk/nisr/2003/259)
 
-[^key-05197a86e6c206dda88d77c4daa64121]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/280/regulation/17) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-05197a86e6c206dda88d77c4daa64121]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/280/regulation/17) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-7519ce04c47552aeaa6fc59acc803c8f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/280/regulation/18) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-7519ce04c47552aeaa6fc59acc803c8f]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/280/regulation/18) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-9ff09276bd3f9ccdffb5ebebaed83c29]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/280/regulation/19) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-9ff09276bd3f9ccdffb5ebebaed83c29]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/280/regulation/19) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-b388d348bae9e802a8e1602a8da85436]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/280/regulation/20) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-b388d348bae9e802a8e1602a8da85436]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/280/regulation/20) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-7f33c2061c09de66237c2f5b6b683976]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/280/regulation/21) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-7f33c2061c09de66237c2f5b6b683976]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/280/regulation/21) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-4f1fe25b69f3d7dbe2d245f08af39269]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/280/regulation/22) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-4f1fe25b69f3d7dbe2d245f08af39269]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/280/regulation/22) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-235d483cebccc25aa5932d3428bd42e7]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/280/regulation/23) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-235d483cebccc25aa5932d3428bd42e7]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/280/regulation/23) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-4803251ebcccb34a1297267c79d06cea]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/280/regulation/24) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-4803251ebcccb34a1297267c79d06cea]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/280/regulation/24) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-82cbd67155780277150bc894301ec1d9]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/280/regulation/25) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-82cbd67155780277150bc894301ec1d9]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/280/regulation/25) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-0e737fa905d7cce27735ac2815e0dece]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/280/regulation/26) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-0e737fa905d7cce27735ac2815e0dece]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/280/regulation/26) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
-[^key-9393e2a7d516c628a4d70a44cf4e2455]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/280/regulation/27) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-9393e2a7d516c628a4d70a44cf4e2455]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/280/regulation/27) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 2003 No. 496](https://www.legislation.gov.uk/nisr/2003/496) as amended by [S.R. 2004 No. 297](https://www.legislation.gov.uk/nisr/2004/297)
 
-[^key-01a523ced44c7ef9720ec77aab90474c]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/280/regulation/28) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-01a523ced44c7ef9720ec77aab90474c]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/280/regulation/28) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 2005 No. 300](https://www.legislation.gov.uk/nisr/2005/300)
 
-[^key-061416238755fca663c419f22cf2b9c8]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/280/regulation/29) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
+[^c-061416238755fca663c419f22cf2b9c8]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/280/regulation/29) in operation at 31.7.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/280/regulation/1/1)
 
 [^f00014]: Footnote: O.J. No. L194, 25.7.1975, p. 39 (as amended by Council Directives [91/156/EEC](https://www.legislation.gov.uk/european/directive/1991/0156) (O.J. No. L78, 26.3.1991, p. 32), [91/692/EEC](https://www.legislation.gov.uk/european/directive/1991/0692) (O.J. No. L377, 31.12.1991, p. 48 (as corrected by Corrigendum, O.J. No. L146, 13.6.2003, p. 52)), Commission Decision [96/350/EC](https://www.legislation.gov.uk/european/decision/1996/0350) (O.J. No. L135, 6.6.1996, p. 32) and Regulation [(EC) No. 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) (O.J. No. L284, 31.10.2003, p. 1)).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Annual rate of full retirement pension[^key-1931ebd43344b9b409b6cf01f114f90f]
+## 69. Annual rate of full retirement pension[^c-1931ebd43344b9b409b6cf01f114f90f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1931ebd43344b9b409b6cf01f114f90f]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2014/1964/regulation/69) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-1931ebd43344b9b409b6cf01f114f90f]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2014/1964/regulation/69) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

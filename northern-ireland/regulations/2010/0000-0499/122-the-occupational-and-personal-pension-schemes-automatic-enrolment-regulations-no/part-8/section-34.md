@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Continuity of scheme membership[^key-ed30267fc8c826324cc00b4e446a8893]
+## 34. Continuity of scheme membership[^c-ed30267fc8c826324cc00b4e446a8893]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed30267fc8c826324cc00b4e446a8893]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/nisr/2010/122/regulation/34) revoked (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [5](https://www.legislation.gov.uk/nisr/2012/232/regulation/5)
+[^c-ed30267fc8c826324cc00b4e446a8893]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/nisr/2010/122/regulation/34) revoked (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [5](https://www.legislation.gov.uk/nisr/2012/232/regulation/5)

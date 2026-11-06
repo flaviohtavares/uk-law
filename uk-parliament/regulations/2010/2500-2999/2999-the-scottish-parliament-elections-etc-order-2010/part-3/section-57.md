@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Inspection of returns and declarations: candidates[^key-0762b63549d4ccaddc53d1bb4030d679]
+## 57. Inspection of returns and declarations: candidates[^c-0762b63549d4ccaddc53d1bb4030d679]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0762b63549d4ccaddc53d1bb4030d679]: Commencement: Art. 57 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-0762b63549d4ccaddc53d1bb4030d679]: Commencement: Art. 57 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

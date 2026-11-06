@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Extension of the Sanctions and Anti-Money Laundering Act 2018[^key-0874d6c678e487521a7c6a7a9cd61a8a]
+## 3. Extension of the Sanctions and Anti-Money Laundering Act 2018[^c-0874d6c678e487521a7c6a7a9cd61a8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Subject to the modifications set out in paragraph (c), the following provisions 
 
 ## Annotations
 
-[^key-0874d6c678e487521a7c6a7a9cd61a8a]: Commencement: Art. 3 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)
+[^c-0874d6c678e487521a7c6a7a9cd61a8a]: Commencement: Art. 3 in force at 14.12.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/1377/article/1/1)

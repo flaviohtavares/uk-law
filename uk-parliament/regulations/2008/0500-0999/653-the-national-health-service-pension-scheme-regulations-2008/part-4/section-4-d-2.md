@@ -26,7 +26,7 @@ Table
 
 | *Column 1*<br>*Regulation in Part 2* | *Column 2*<br>*Regulation in Part 3* |
 | --- | --- |
-| 2.D.1[^key-32647c87ff6e9178386ec288be8b310b] | 3.D.1 |
+| 2.D.1[^c-32647c87ff6e9178386ec288be8b310b] | 3.D.1 |
 | 2.D.8 | 3.D.7 |
 | 2.D.10 | 3.D.9 |
 | 2.D.14 | 3.D.10 |
@@ -39,4 +39,4 @@ Table
 
 ## Annotations
 
-[^key-32647c87ff6e9178386ec288be8b310b]: Textual amendment: [Reg. 4.D.2](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.D.2) Table substituted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [86](https://www.legislation.gov.uk/uksi/2008/2263/regulation/86) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-32647c87ff6e9178386ec288be8b310b]: Textual amendment: [Reg. 4.D.2](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.D.2) Table substituted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [86](https://www.legislation.gov.uk/uksi/2008/2263/regulation/86) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))

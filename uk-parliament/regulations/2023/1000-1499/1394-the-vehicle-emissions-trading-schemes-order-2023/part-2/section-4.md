@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Establishment of the Trading Schemes[^key-ca03e40c1e88c85b384107db6fad4e6e]
+## 4. Establishment of the Trading Schemes[^c-ca03e40c1e88c85b384107db6fad4e6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca03e40c1e88c85b384107db6fad4e6e]: Commencement: Art. 4 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-ca03e40c1e88c85b384107db6fad4e6e]: Commencement: Art. 4 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

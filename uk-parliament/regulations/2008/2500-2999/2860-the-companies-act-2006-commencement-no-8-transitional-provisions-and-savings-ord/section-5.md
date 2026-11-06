@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Transitional provisions and savings[^key-4f0e29a92746add02861b98dc652964c]
+## 5. Transitional provisions and savings[^c-4f0e29a92746add02861b98dc652964c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 to this Order contains transitional provisions and savings relating t
 
 ## Annotations
 
-[^key-4f0e29a92746add02861b98dc652964c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2008/2860/article/5) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-4f0e29a92746add02861b98dc652964c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2008/2860/article/5) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)

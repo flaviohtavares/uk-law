@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Privy Council procedures etc.[^key-595a718bc60faa81bb2dd23f2b045eeb]
+## 10. Privy Council procedures etc.[^c-595a718bc60faa81bb2dd23f2b045eeb]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-595a718bc60faa81bb2dd23f2b045eeb]: Commencement: Art. 10 in force at 14.5.2009, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/a)
+[^c-595a718bc60faa81bb2dd23f2b045eeb]: Commencement: Art. 10 in force at 14.5.2009, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/a)
 
 [^f00018]: Footnote: [1946 c.36](https://www.legislation.gov.uk/ukpga/1946/36); section 1 has been amended by the Government of Wales Act [1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38), Schedule 12, paragraph 2.

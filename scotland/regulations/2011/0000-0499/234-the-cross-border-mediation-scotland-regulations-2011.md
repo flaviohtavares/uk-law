@@ -32,7 +32,7 @@ summary: ''
 
 Mediation
 
-The Cross-Border Mediation (Scotland) Regulations 2011 (revoked)[^key-e65653fda85fc2714a87847e1e0cf94c]
+The Cross-Border Mediation (Scotland) Regulations 2011 (revoked)[^c-e65653fda85fc2714a87847e1e0cf94c]
 
 Made
 
@@ -42,47 +42,47 @@ Coming into force
 
 6th April 2011
 
-[^key-e65653fda85fc2714a87847e1e0cf94c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e65653fda85fc2714a87847e1e0cf94c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-e65653fda85fc2714a87847e1e0cf94c]
+## 1. Citation, commencement and application[^c-e65653fda85fc2714a87847e1e0cf94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e65653fda85fc2714a87847e1e0cf94c]
+## 2. Interpretation[^c-e65653fda85fc2714a87847e1e0cf94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Confidentiality of Mediation[^key-e65653fda85fc2714a87847e1e0cf94c]
+## 3. Confidentiality of Mediation[^c-e65653fda85fc2714a87847e1e0cf94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Extensions to prescription and limitation periods under the Prescription and Limitation (Scotland) Act 1973[^key-e65653fda85fc2714a87847e1e0cf94c]
+## 4. Extensions to prescription and limitation periods under the Prescription and Limitation (Scotland) Act 1973[^c-e65653fda85fc2714a87847e1e0cf94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-e65653fda85fc2714a87847e1e0cf94c]
+## 5.[^c-e65653fda85fc2714a87847e1e0cf94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-e65653fda85fc2714a87847e1e0cf94c]
+## 6.[^c-e65653fda85fc2714a87847e1e0cf94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to prescription period in the Civic Government (Scotland) Act 1982[^key-e65653fda85fc2714a87847e1e0cf94c]
+## 7. Amendments to prescription period in the Civic Government (Scotland) Act 1982[^c-e65653fda85fc2714a87847e1e0cf94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendments to limitation period in the Rent (Scotland) Act 1984[^key-e65653fda85fc2714a87847e1e0cf94c]
+## 8. Amendments to limitation period in the Rent (Scotland) Act 1984[^c-e65653fda85fc2714a87847e1e0cf94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendments to limitation periods in the Family Law (Scotland) Act 2006[^key-e65653fda85fc2714a87847e1e0cf94c]
+## 9. Amendments to limitation periods in the Family Law (Scotland) Act 2006[^c-e65653fda85fc2714a87847e1e0cf94c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e65653fda85fc2714a87847e1e0cf94c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e65653fda85fc2714a87847e1e0cf94c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -102,4 +102,4 @@ In each case, the amendments provide that in cross-border cases, where a period 
 
 ## Annotations
 
-[^key-e65653fda85fc2714a87847e1e0cf94c]: Textual amendment: Regulations revoked (31.12.2020) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/b), [6](https://www.legislation.gov.uk/ssi/2020/441/regulation/6) (with [reg. 7](https://www.legislation.gov.uk/ssi/2020/441/regulation/7))
+[^c-e65653fda85fc2714a87847e1e0cf94c]: Textual amendment: Regulations revoked (31.12.2020) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/b), [6](https://www.legislation.gov.uk/ssi/2020/441/regulation/6) (with [reg. 7](https://www.legislation.gov.uk/ssi/2020/441/regulation/7))

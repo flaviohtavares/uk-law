@@ -22,7 +22,7 @@ summary: ''
 
 Article 3
 
-### PART 1 — Authorised Development[^key-0dac4287292b62fd94dbf24fd9b0962b]
+### PART 1 — Authorised Development[^c-0dac4287292b62fd94dbf24fd9b0962b]
 
 A nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act, comprising—
 
@@ -161,7 +161,7 @@ Associated development within the meaning of section 115(2) of the 2008 Act in c
     where the pipeline will be installed using trenchless methods as shown on the works plan.
 - *Work No. 9 –* alternative private track/temporary bridleway along the southern boundary of Work No. 1 from Blackburn Lane to Southmoor Lane, at least five metres wide and being gated at either end.
 
-  In connection with Work Nos. 1 to 9 and to the extent that they do not otherwise form part of any such work, further associated development whether or not shown on the plan referred to in the Requirements[^key-5a49addc66554d4ec63923c4694a2b29] including—
+  In connection with Work Nos. 1 to 9 and to the extent that they do not otherwise form part of any such work, further associated development whether or not shown on the plan referred to in the Requirements[^c-5a49addc66554d4ec63923c4694a2b29] including—
 
   - (a) bunds, embankments, landscaping, fencing and boundary treatments;
   - (b) connection to the electricity network for the purpose of supply to the authorised development;
@@ -183,12 +183,12 @@ Associated development within the meaning of section 115(2) of the 2008 Act in c
 
 ### PART 2 — Requirements
 
-#### 1. Interpretation[^key-3655cb798ac63614c3da2bd088f7a795]
+#### 1. Interpretation[^c-3655cb798ac63614c3da2bd088f7a795]
 
 In this Part of this Schedule—
 
 - “the AGI” means the above ground installation comprised in Work No. 7;
-- “the Canal & River Trust[^key-956d736851cb7fe2e36dba989c748b44]” means the private company limited by guarantee of that name (company number 07807276) whose registered office is at First Floor, North Station House, 500 Elder Gate, Milton Keynes, MK9 1BB;
+- “the Canal & River Trust[^c-956d736851cb7fe2e36dba989c748b44]” means the private company limited by guarantee of that name (company number 07807276) whose registered office is at First Floor, North Station House, 500 Elder Gate, Milton Keynes, MK9 1BB;
 - “the capture equipment” means the plant and equipment required to capture and compress the target carbon dioxide and identified as such in the current CCS proposal;
 - “CCS” means carbon capture and storage;
 - “the CCS proposal” means a proposal for the capture, transport and storage of the target carbon dioxide, which identifies the proposed technology, transport route and storage location for the authorised development;
@@ -198,7 +198,7 @@ In this Part of this Schedule—
 - “the cooling water pipelines” means Work No. 6 in Part 1 of this Schedule;
 - “current CCS proposal” means—
   - (a) the CCS proposal contained in appendix F.2 of the environmental statement, set out in a feasibility study and assessed in accordance with the guidance entitled “Carbon Capture Readiness (CCR) A guidance note for section 36 Electricity Act 1986 consent applications”; or
-  - (b) if a revised CCS proposal has been identified under Requirement 30[^key-182ea4bdde5761d58bcb1a94fa3a03e1], the proposal which has most recently been so identified;
+  - (b) if a revised CCS proposal has been identified under Requirement 30[^c-182ea4bdde5761d58bcb1a94fa3a03e1], the proposal which has most recently been so identified;
 - “the gas pipeline” means Work No. 8 in Part 1 of this Schedule;
 - “the generating station” means Work No. 1 in Part 1 of this Schedule;
 - “heavy commercial vehicles” means any vehicles or mobile plant exceeding 3 tonnes in weight employed by the undertaker or its contractors or their subcontractors for the purpose of movement of aggregates plant and materials to and from the construction site during the construction period for the purposes of construction of the authorised development;
@@ -211,11 +211,11 @@ In this Part of this Schedule—
 - “Requirement consultee” means any person whom the relevant planning authority is required to consult when discharging any of the requirements in this Part of this Schedule; and
 - “Requirements” means the requirements under this Part of this Schedule.
 
-#### 2. Time limits[^key-b2ad6a2336f8d0940396d7d460297c18]
+#### 2. Time limits[^c-b2ad6a2336f8d0940396d7d460297c18]
 
 The authorised development must not be commenced after the expiration of five years from the date this Order comes into force.
 
-#### 3. Detailed design[^key-20f599acf67ef198a56ecdd153bc65ce]
+#### 3. Detailed design[^c-20f599acf67ef198a56ecdd153bc65ce]
 
 (1) No part of the authorised development comprising the generating station may commence until details of the following have been submitted to and approved in writing by the relevant planning authority—
 
@@ -246,7 +246,7 @@ The authorised development must not be commenced after the expiration of five ye
 
 (6) The generating station may not be brought into operation until an operational traffic management plan has been submitted to and approved by the relevant planning authority. The operational traffic management plan must be implemented as approved.
 
-#### 4. Overhead lines and pylons[^key-15b50ef5e1165c10c3a792933fc16937]
+#### 4. Overhead lines and pylons[^c-15b50ef5e1165c10c3a792933fc16937]
 
 (1) No part of the authorised development comprising the overhead lines and pylons may commence until details of the overhead lines and pylons have been submitted to and approved in writing by the relevant planning authority.
 
@@ -260,7 +260,7 @@ The authorised development must not be commenced after the expiration of five ye
 
 (4) The authorised development comprising the overhead lines and pylons must be implemented in accordance with the approved details and, insofar as it affects any railway belonging to NRIL, the BAPA entered into with NRIL.
 
-#### 5. Cooling water pipelines and pumping station[^key-aa251078f1f5ceb8906f829e99ee3eaf]
+#### 5. Cooling water pipelines and pumping station[^c-aa251078f1f5ceb8906f829e99ee3eaf]
 
 (1) No part of the authorised development comprising the cooling water pipelines or pumping station may commence until details of the cooling water pipelines and pumping station, including fencing or other means of enclosure, have been submitted to and approved in writing by the relevant planning authority.
 
@@ -274,7 +274,7 @@ The authorised development must not be commenced after the expiration of five ye
 
 (3) The authorised development comprising the cooling water pipelines and pumping station must be implemented in accordance with the approved details.
 
-#### 6. Gas pipeline and AGI[^key-0802092f4b13b249fb7bfaac0ed1b350]
+#### 6. Gas pipeline and AGI[^c-0802092f4b13b249fb7bfaac0ed1b350]
 
 (1) No part of the authorised development comprising the gas pipeline and above ground installation may commence until—
 
@@ -295,7 +295,7 @@ have been submitted to and approved in writing by the relevant planning authorit
 | --- | --- |
 | Maximum height of buildings, including security fence | 3 metres |
 
-#### 7. Provision of landscaping[^key-5dda035cda76a74ef208ce7e5047024e]
+#### 7. Provision of landscaping[^c-5dda035cda76a74ef208ce7e5047024e]
 
 (1) No part of the authorised development may commence until a written landscaping scheme for that part has been submitted to and approved in writing by the relevant planning authority. The landscaping scheme must include details of all proposed hard and soft landscaping works, including—
 
@@ -313,7 +313,7 @@ have been submitted to and approved in writing by the relevant planning authorit
 
 (2) The relevant planning authority must consult NRIL in respect of landscaping details around the generating station that are adjacent to any railway belonging to NRIL.
 
-#### 8. Implementation and maintenance of landscaping[^key-dc7427d8775f0fd025ecfb4ebf20da3b]
+#### 8. Implementation and maintenance of landscaping[^c-dc7427d8775f0fd025ecfb4ebf20da3b]
 
 (1) All landscaping works must be carried out in accordance with the landscaping scheme approved under Requirement 7 and to a reasonable standard in accordance with the relevant recommendations of appropriate British Standards or other recognised codes of good practice.
 
@@ -321,7 +321,7 @@ have been submitted to and approved in writing by the relevant planning authorit
 
 (3) Any tree or shrub planted as part of an approved landscaping scheme that, within a period of five years after planting, is removed, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted.
 
-#### 9. Footpath/Public Rights of Way diversions[^key-685cf52110344d21e8aa30ce429ff0ee]
+#### 9. Footpath/Public Rights of Way diversions[^c-685cf52110344d21e8aa30ce429ff0ee]
 
 (1) No part of the authorised development may commence until a written public rights of way management plan for any sections of public rights of way shown to be extinguished or temporarily closed on the public rights of way temporary closures and permanent stopping up plan for that part has been approved in writing by the relevant planning authority in consultation with the relevant highway authority.
 
@@ -329,7 +329,7 @@ have been submitted to and approved in writing by the relevant planning authorit
 
 (3) The public rights of way management plan and the provision of the temporary bridleway must thereafter be implemented as approved.
 
-#### 10. Highway accesses[^key-5d1dc8e7fb6d6ea7513e96d54e5431a9]
+#### 10. Highway accesses[^c-5d1dc8e7fb6d6ea7513e96d54e5431a9]
 
 (1) No part of the authorised development may commence until written details of the siting, design and layout of any new permanent or temporary means of access to a highway to be used by vehicular traffic, or any alteration to an existing means of access to a highway used by vehicular traffic, has, for that part, been submitted to and approved in writing by the relevant planning authority in consultation with the relevant highway authority.
 
@@ -339,7 +339,7 @@ have been submitted to and approved in writing by the relevant planning authorit
 
 (4) The Access Management Scheme must be implemented in accordance with the approved details.
 
-#### 11. Temporary buildings, structures and roads[^key-d6ec6495b9f4660eded4e19726d7a74c]
+#### 11. Temporary buildings, structures and roads[^c-d6ec6495b9f4660eded4e19726d7a74c]
 
 (1) No part of the authorised development comprising the generating station, the overhead lines and pylons, the pumping station or the AGI may commence until for that part a written scheme in accordance with sub-paragraph (2) has been submitted to and approved in writing by the relevant planning authority.
 
@@ -353,13 +353,13 @@ have been submitted to and approved in writing by the relevant planning authorit
 
 (4) All temporary works must be removed within a period of twelve calendar months following commencement of the operational phase of the authorised development.
 
-#### 12. Surface and foul water drainage[^key-5b27090991f83d2c4e14fc3389035d13]
+#### 12. Surface and foul water drainage[^c-5b27090991f83d2c4e14fc3389035d13]
 
-(1) No part of the authorised development may commence until, for that part, written details of the surface and foul water drainage systems (including means of pollution control) have been submitted to and approved in writing by the relevant planning authority in consultation with the internal drainage board, the Environment Agency, the Lead Local Flood Authority, the Canal & River Trust[^key-d869cfca88a49ab7c548ab52a5219ec9], and NRIL, as appropriate.
+(1) No part of the authorised development may commence until, for that part, written details of the surface and foul water drainage systems (including means of pollution control) have been submitted to and approved in writing by the relevant planning authority in consultation with the internal drainage board, the Environment Agency, the Lead Local Flood Authority, the Canal & River Trust[^c-d869cfca88a49ab7c548ab52a5219ec9], and NRIL, as appropriate.
 
 (2) The surface and foul water drainage system must thereafter be constructed in accordance with the approved details before the operational phase of that part of the authorised development commences.
 
-#### 13. Contaminated land and groundwater – general[^key-16b9ced3d0cf985478d1fefa46b40dc4]
+#### 13. Contaminated land and groundwater – general[^c-16b9ced3d0cf985478d1fefa46b40dc4]
 
 (1) No part of the authorised development may commence until, for that part, a written scheme produced in line with CLR11 Model Procedures (which may be included in the CEMP) to deal with the contamination of any land, including groundwater, within the Order limits has been submitted to and approved in writing by the relevant planning authority in consultation with the Environment Agency.
 
@@ -371,11 +371,11 @@ have been submitted to and approved in writing by the relevant planning authorit
 
 (5) Prior to commencement of the authorised development (or resumption of works following additional investigation and assessment under sub-paragraph (3)), a verification report demonstrating completion of the remediation works and the effectiveness of the remediation must be submitted to and approved, in writing, by the relevant planning authority in consultation with the Environment Agency. The report must include results of the sampling and monitoring carried out in accordance with the approved remedial strategy to demonstrate that the site remediation criteria have been met.
 
-#### 14. Contaminated land and groundwater – known contamination on the site of the generating station[^key-11cd6c799cd40e61d731da90807ce94a]
+#### 14. Contaminated land and groundwater – known contamination on the site of the generating station[^c-11cd6c799cd40e61d731da90807ce94a]
 
 The part of the authorised development comprising the generating station must not commence until the remediation permission has been implemented in full and a verification report under Requirement 13(5) has been submitted to and approved in writing by the relevant planning authority.
 
-#### 15. Archaeology[^key-6afc744e0a9bf8d60aa3fb927966258a]
+#### 15. Archaeology[^c-6afc744e0a9bf8d60aa3fb927966258a]
 
 (1) No part of the authorised development may commence until for that part a written scheme for the investigation of areas of archaeological interest has been submitted to and approved in writing by the relevant planning authority.
 
@@ -385,9 +385,9 @@ The part of the authorised development comprising the generating station must no
 
 (4) Any archaeological works or watching brief must be implemented in accordance with the approved scheme.
 
-#### 16. Ecological management plan[^key-8eaeda591355ed8b94bf52ce99b1a0f4]
+#### 16. Ecological management plan[^c-8eaeda591355ed8b94bf52ce99b1a0f4]
 
-(1) No part of the authorised development may commence until a written ecological management plan (which may form part of the construction environment management plan approved under Requirement 17) for that part has been submitted to and approved in writing by the relevant planning authority in consultation with the Canal & River Trust[^key-d96f73a0aa3facca308a6912427ae0c6], the Yorkshire Wildlife Trust, West Yorkshire Ecology and North Yorkshire County Council Ecologist as appropriate.
+(1) No part of the authorised development may commence until a written ecological management plan (which may form part of the construction environment management plan approved under Requirement 17) for that part has been submitted to and approved in writing by the relevant planning authority in consultation with the Canal & River Trust[^c-d96f73a0aa3facca308a6912427ae0c6], the Yorkshire Wildlife Trust, West Yorkshire Ecology and North Yorkshire County Council Ecologist as appropriate.
 
 (2) No part of the gas pipeline or water pipelines may commence, or material construction works on any part of them continue, between the months of October and February in any given year unless a wintering birds survey and, if appropriate, a proposed scheme of mitigation, is first submitted to and approved in writing by the relevant planning authority in consultation with Natural England. Any approved scheme of mitigation must be incorporated into the ecological management plan.
 
@@ -395,7 +395,7 @@ The part of the authorised development comprising the generating station must no
 
 (4) The ecological management plan must include an implementation timetable and be implemented as approved.
 
-#### 17. Construction environment management plan[^key-43ecc3bcefe2ad7759083cab0788cfa7]
+#### 17. Construction environment management plan[^c-43ecc3bcefe2ad7759083cab0788cfa7]
 
 (1) No part of the authorised development may commence until a CEMP relating to that part, which accords with the principles set out in the environmental statement (section 27 – Framework for a CEMP), has been submitted to and approved in writing by the relevant planning authority in consultation with the relevant highway authority.
 
@@ -425,11 +425,11 @@ The part of the authorised development comprising the generating station must no
 
 (4) All construction works must be implemented in accordance with the CEMP*.*
 
-#### 18. Common Lane improvement[^key-0e0da128e685e3883298b53f3622c631]
+#### 18. Common Lane improvement[^c-0e0da128e685e3883298b53f3622c631]
 
 Prior to commencement of the part of the authorised development comprising the generating station, Work No. 4 (improvements to Common Lane) must be implemented to the satisfaction of the relevant planning authority.
 
-#### 19. Air Safety[^key-e1f8d13c575dcbe16a335c28b7c076e4]
+#### 19. Air Safety[^c-e1f8d13c575dcbe16a335c28b7c076e4]
 
 (1) No part of the authorised development comprising the generating station may commence until the undertaker has notified the Ministry of Defence – Defence Geographic Centre in relation to the generating station of—
 
@@ -442,19 +442,19 @@ Prior to commencement of the part of the authorised development comprising the g
 
 (3) Within 28 days of completion of the construction of the generating station the undertaker must notify the Ministry of Defence – Defence Geographic Centre of the date of such completion of construction.
 
-#### 20. Flooding – mitigation[^key-ba7bd316fa20c7dd2d44df4f90bfcf69]
+#### 20. Flooding – mitigation[^c-ba7bd316fa20c7dd2d44df4f90bfcf69]
 
 (1) No part of the authorised development may commence until for that part there has been submitted to and approved in writing by (and deposited with) the relevant planning authority, in consultation with the Environment Agency and the relevant internal drainage board, a scheme for mitigation of flood risk during the construction and operation of the authorised development prepared in accordance with the principles set out in the flood risk assessment.
 
 (2) The scheme approved must thereafter be fully implemented and adhered to throughout the period of the construction and operation of the relevant part of the authorised development.
 
-#### 21. Fire prevention[^key-5d58f6cb9c50013518adfb7a3e07b6ef]
+#### 21. Fire prevention[^c-5d58f6cb9c50013518adfb7a3e07b6ef]
 
 (1) No part of the authorised development may commence until for that part there has been submitted to and approved in writing by the relevant planning authority a fire prevention method statement providing details of fire detection measures, fire suppression measures and the location of accesses to all fire appliances in all of the major building structures and storage areas within the authorised development such method statement to be prepared, including measures to contain and treat water used to suppress any fire.
 
 (2) The authorised development must be implemented in accordance with the approved details and all the relevant fire suppression measures and fire appliances must be maintained to the reasonable satisfaction of the relevant planning authority at all times when the authorised development is operational.
 
-#### 22. Waste management on site – operational phase[^key-5e89112d3dad99ee8fa3e93235d9cfab]
+#### 22. Waste management on site – operational phase[^c-5e89112d3dad99ee8fa3e93235d9cfab]
 
 (1) No part of the authorised development may be brought into operation until the relevant planning authority has received and approved in writing a waste management plan for the operational phase for that part of the authorised development incorporating the principles in the environmental statement. The site waste management plan must address and include at least the following—
 
@@ -464,7 +464,7 @@ Prior to commencement of the part of the authorised development comprising the g
 
 (2) The authorised development must thereafter be operated fully in accordance with the approved details.
 
-#### 23. Control of noise – operational phase[^key-471056711613764dd90cf84da604e7e3]
+#### 23. Control of noise – operational phase[^c-471056711613764dd90cf84da604e7e3]
 
 (1) The part of the authorised development comprising the generating station may not be brought into operation until a written scheme for noise management including monitoring and attenuation for the use of the authorised development has been submitted to and approved in writing by the relevant planning authority in consultation with Selby District Council.
 
@@ -472,7 +472,7 @@ Prior to commencement of the part of the authorised development comprising the g
 
 (3) The noise management scheme must be implemented as approved.
 
-#### 24. European protected species[^key-e063598e470d77062794752674c1f9db]
+#### 24. European protected species[^c-e063598e470d77062794752674c1f9db]
 
 (1) No part of the authorised development may commence until further survey work for that part has been carried out to establish whether any European protected species is present on any of the land affected, or likely to be affected, by that part of the authorised development or in any of the trees to be lopped or felled or buildings to be demolished in connection with that part of the authorised development.
 
@@ -482,15 +482,15 @@ Prior to commencement of the part of the authorised development comprising the g
 
 (4) The part of the authorised development comprising the generating station may not be commenced until great crested newts have been removed in accordance with the relevant condition of the remediation permission.
 
-(5) “European protected species” has the same meaning as in regulations 42 and 46 of the Conservation of Habitats and Species Regulations 2017[^key-f80ab81405e3660fee1398cb15876551].
+(5) “European protected species” has the same meaning as in regulations 42 and 46 of the Conservation of Habitats and Species Regulations 2017[^c-f80ab81405e3660fee1398cb15876551].
 
-#### 25. Restoration of land used temporarily for construction[^key-7b3290ff738e68596b7187d65920d46e]
+#### 25. Restoration of land used temporarily for construction[^c-7b3290ff738e68596b7187d65920d46e]
 
 (1) Any land within the Order limits which is used temporarily for construction must be reinstated to its former condition, or such condition as the relevant planning authority may approve in writing (or which may be provided for under an approved landscaping scheme).
 
 (2) Reinstatement works must be commenced promptly following completion of the relevant part of the authorised development, and within three months of any required approval by the relevant planning authority. The reinstatement must be implemented in accordance with any timetable included in any relevant approved landscaping scheme.
 
-#### 26. Air quality monitoring[^key-b778e0be2131292ea78b0bbbdbcc4a05]
+#### 26. Air quality monitoring[^c-b778e0be2131292ea78b0bbbdbcc4a05]
 
 (1) The authorised development comprising the generating station may not become operational until there has been submitted to and approved in writing by Wakefield Metropolitan District Council in consultation with Selby District Council a scheme for the monitoring of nitrogen oxides (NOx) in the area.
 
@@ -504,26 +504,26 @@ Prior to commencement of the part of the authorised development comprising the g
 
 (3) The undertaker must supply to Wakefield Metropolitan District Council and Selby District Council the full details of the measurements obtained in accordance with the scheme as soon as possible after they become available.
 
-#### 27. Combined heat and power[^key-07d8e8ebe20b8fcd3d5a02fb1ca3aa7c]
+#### 27. Combined heat and power[^c-07d8e8ebe20b8fcd3d5a02fb1ca3aa7c]
 
 A facility must be provided and maintained within Work No. 1 to enable steam pass-outs and/or hot water pass-outs and reserve space for the provision of water pressurisation, heating and pumping systems for off-site users of process and space heating and its later connection to such systems should a commercial arrangement be identified for combined heat and power which is economically viable.
 
-**28.**[^key-b51d8652f004944ff916de0a9a97fadb] (1) Prior to the operation of Work No, 1, a review of potential opportunities for the use of heat from the authorised development must be submitted to and approved by the relevant planning authority.
+**28.**[^c-b51d8652f004944ff916de0a9a97fadb] (1) Prior to the operation of Work No, 1, a review of potential opportunities for the use of heat from the authorised development must be submitted to and approved by the relevant planning authority.
 
 (2) The review shall provide for the on-going monitoring and full exploration of potential opportunities to use heat from the authorised development as part of a good quality CHP scheme in accordance with the principles set out in the CHPQA Standard Issue 3, and for the provision of subsequent reviews of such opportunities as necessary.
 
 (3) Where viable opportunities for the use of heat are identified, a scheme for the provision of the necessary plant[^M_F_d4dc02be-9bc3-40e7-8d2b-1aa0b340a24f] and pipework to the boundary of the site shall be submitted to and approved by the relevant planning authority; any plant and pipework installed up to the Order limits to enable the use of heat shall be installed in accordance with the agreed details.
 
-(4) In this requirement, ‘CHPQ Standard Issued 3’ refers to the document of that name prepared by the Department for Environment, Food and Rural Affairs and published in January 2009, and the reference to a ‘good quality CHP scheme'[^key-3b6c94758de1ce11896508395d980723] should be interpreted in accordance with that document.
+(4) In this requirement, ‘CHPQ Standard Issued 3’ refers to the document of that name prepared by the Department for Environment, Food and Rural Affairs and published in January 2009, and the reference to a ‘good quality CHP scheme'[^c-3b6c94758de1ce11896508395d980723] should be interpreted in accordance with that document.
 
-#### 29. CCS site[^key-472b0d1885bc64b4b41669ff85730493]
+#### 29. CCS site[^c-472b0d1885bc64b4b41669ff85730493]
 
 Until such time as the generating station is decommissioned, the undertaker must not, without the written consent of the Secretary of State—
 
 - (a) dispose of any interest in the CCS site; or
 - (b) do anything, or allow anything to be done or to occur, which may reasonably be expected to diminish the undertaker’s ability, within two years of such occurrence, to prepare the CCS site for the installation and operation of the capture equipment.
 
-#### 30. CCS monitoring report[^key-96912c766dcee9be8f0e57e587974aef]
+#### 30. CCS monitoring report[^c-96912c766dcee9be8f0e57e587974aef]
 
 (1) The undertaker must make a report (“CCS monitoring report”) to the Secretary of State—
 
@@ -541,7 +541,7 @@ and explain how the undertaker expects to continue to comply with Requirement 29
 
 (4) Each CCS monitoring report must state, with reasons, whether the undertaker has decided to seek any additional regulatory clearances, or to modify any existing regulatory clearances, in respect of its current CCS proposals.
 
-#### 31. Applicability of Requirements 29 and 30[^key-44fa13922d430ced9b073946b6a0f030]
+#### 31. Applicability of Requirements 29 and 30[^c-44fa13922d430ced9b073946b6a0f030]
 
 (1) Requirements 29 and 30 will cease to have effect as soon as any of the following events occurs—
 
@@ -553,7 +553,7 @@ and explain how the undertaker expects to continue to comply with Requirement 29
 
 (3) Requirement 30 will cease to have effect if the requirement to submit a CCS report ceases to be included in law or planning policy as from time to time in force.
 
-#### 32. Decommissioning[^key-740f6f786bd9ef0635310d14a2c9b189]
+#### 32. Decommissioning[^c-740f6f786bd9ef0635310d14a2c9b189]
 
 (1) Within 12 months of the generating station ceasing to be used for the purposes of generating electricity, a site closure and restoration plan for the demolition and removal of the generating station and pumping station must be submitted for approval by the relevant planning authority. The scheme must include—
 
@@ -567,11 +567,11 @@ and explain how the undertaker expects to continue to comply with Requirement 29
 
 (2) The demolition and removal of the generating station must be implemented in accordance with the approved scheme.
 
-#### 33. Requirement for written approval[^key-c6271888f3cb6e41a91fd2e4a21bf64a]
+#### 33. Requirement for written approval[^c-c6271888f3cb6e41a91fd2e4a21bf64a]
 
 Where under any of the above Requirements the approval or agreement of the relevant planning authority or another person is required, that approval or agreement must be provided in writing.
 
-#### 34. Approved details[^key-56d878db981212a6e984707e7d346463]
+#### 34. Approved details[^c-56d878db981212a6e984707e7d346463]
 
 (1) All details submitted for the approval of the relevant planning authority under these Requirements must be in accordance with the parameters of the environmental statement and reflect the principles set out in the documents certified under article 35[^M_F_86a87e27-beef-477a-b9a1-81a484fab640].
 
@@ -581,120 +581,120 @@ Where under any of the above Requirements the approval or agreement of the relev
 
 (4) Where the approval or agreement of the relevant planning authority or another person is required under any of the Requirements, that approval or agreement must be given in writing.
 
-#### 35. Local liaison committee[^key-d449d3b3a30626df16b5582d005ac3a2]
+#### 35. Local liaison committee[^c-d449d3b3a30626df16b5582d005ac3a2]
 
 The authorised development may not commence until the undertaker has established a committee to liaise with local residents and organisations about matters relating to the authorised development (a “local liaison committee”). The local liaison committee must include representatives of the undertaker. The undertaker must invite Wakefield Metropolitan District Council, Selby District Council, North Yorkshire County Council, the Environment Agency, West Yorkshire Police and other relevant interest groups, as may be agreed with Wakefield Metropolitan District Council, to nominate representatives to join the local liaison committee. The undertaker must provide a full secretariat service and supply an appropriate venue. The local liaison committee must meet every other month, starting in the month prior to commencement of the authorised development, until the completion of construction, testing and commissioning works unless otherwise agreed in writing by the majority of the members of the local liaison committee. During the operational phase of the authorised development, the local liaison committee must meet once a year unless otherwise agreed in writing by the majority of the members of the local liaison committee.
 
-#### 36. Employment and Skills plan[^key-5944d0aa0523e87e79853edd11f5cfc3]
+#### 36. Employment and Skills plan[^c-5944d0aa0523e87e79853edd11f5cfc3]
 
 The authorised development comprised in Work No. 1 shall not commence until an employment and skills plan detailing arrangements to promote employment and skills development opportunities has been submitted to and approved in writing by the relevant planning authority. The plan must include proposals for promoting such opportunities for local residents and the approved employment and skills plan must be implemented and maintained during the construction and operation of the authorised development comprised in Work No.1.
 
-#### 37. Notice of start and completion of commissioning[^key-37f863675a9384f7abfe3042a9f7c86a]
+#### 37. Notice of start and completion of commissioning[^c-37f863675a9384f7abfe3042a9f7c86a]
 
 (1) Notice of the intended start of commissioning must be given to the relevant planning authority where practicable prior to such commencement and in any event within seven (7) days from the date that commissioning is commenced.
 
 (2) Notice of the intended completion of commissioning must be given to the relevant planning authority where practicable prior to such completion and in any event within seven (7) days from the date that commissioning is completed.
 
-#### 38. Notice of commencement of operation[^key-77672227a204a40bbafe5c374d5edcae]
+#### 38. Notice of commencement of operation[^c-77672227a204a40bbafe5c374d5edcae]
 
 Notice of the intended start of operation must be given to the relevant planning authority and the Environment Agency, by means of an operational phase notice, where practicable prior to such commencement and in any event within seven (7) days from the date that operation is commenced.
 
 ## Annotations
 
-[^key-0dac4287292b62fd94dbf24fd9b0962b]: Commencement: Sch. 1 Pt. 1 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-0dac4287292b62fd94dbf24fd9b0962b]: Commencement: Sch. 1 Pt. 1 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-5a49addc66554d4ec63923c4694a2b29]: Textual amendment: Word in Sch. 1 Pt. 1 substituted (23.7.2016) by virtue of [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-5a49addc66554d4ec63923c4694a2b29]: Textual amendment: Word in Sch. 1 Pt. 1 substituted (23.7.2016) by virtue of [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
-[^key-3655cb798ac63614c3da2bd088f7a795]: Commencement: Sch. 1 para. 1 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-3655cb798ac63614c3da2bd088f7a795]: Commencement: Sch. 1 para. 1 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-956d736851cb7fe2e36dba989c748b44]: Textual amendment: Words in Sch. 1 Pt. 2 para. 1 substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-956d736851cb7fe2e36dba989c748b44]: Textual amendment: Words in Sch. 1 Pt. 2 para. 1 substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
-[^key-182ea4bdde5761d58bcb1a94fa3a03e1]: Textual amendment: Words in Sch. 1 Pt. 2 para. 1 substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-182ea4bdde5761d58bcb1a94fa3a03e1]: Textual amendment: Words in Sch. 1 Pt. 2 para. 1 substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
 [^f00025]: Footnote: [2010 c.29](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-b2ad6a2336f8d0940396d7d460297c18]: Commencement: Sch. 1 para. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-b2ad6a2336f8d0940396d7d460297c18]: Commencement: Sch. 1 para. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-20f599acf67ef198a56ecdd153bc65ce]: Commencement: Sch. 1 para. 3 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-20f599acf67ef198a56ecdd153bc65ce]: Commencement: Sch. 1 para. 3 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-15b50ef5e1165c10c3a792933fc16937]: Commencement: Sch. 1 para. 4 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-15b50ef5e1165c10c3a792933fc16937]: Commencement: Sch. 1 para. 4 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-aa251078f1f5ceb8906f829e99ee3eaf]: Commencement: Sch. 1 para. 5 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-aa251078f1f5ceb8906f829e99ee3eaf]: Commencement: Sch. 1 para. 5 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-0802092f4b13b249fb7bfaac0ed1b350]: Commencement: Sch. 1 para. 6 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-0802092f4b13b249fb7bfaac0ed1b350]: Commencement: Sch. 1 para. 6 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-5dda035cda76a74ef208ce7e5047024e]: Commencement: Sch. 1 para. 7 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-5dda035cda76a74ef208ce7e5047024e]: Commencement: Sch. 1 para. 7 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-dc7427d8775f0fd025ecfb4ebf20da3b]: Commencement: Sch. 1 para. 8 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-dc7427d8775f0fd025ecfb4ebf20da3b]: Commencement: Sch. 1 para. 8 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-685cf52110344d21e8aa30ce429ff0ee]: Commencement: Sch. 1 para. 9 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-685cf52110344d21e8aa30ce429ff0ee]: Commencement: Sch. 1 para. 9 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-5d1dc8e7fb6d6ea7513e96d54e5431a9]: Commencement: Sch. 1 para. 10 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-5d1dc8e7fb6d6ea7513e96d54e5431a9]: Commencement: Sch. 1 para. 10 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-d6ec6495b9f4660eded4e19726d7a74c]: Commencement: Sch. 1 para. 11 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-d6ec6495b9f4660eded4e19726d7a74c]: Commencement: Sch. 1 para. 11 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-5b27090991f83d2c4e14fc3389035d13]: Commencement: Sch. 1 para. 12 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-5b27090991f83d2c4e14fc3389035d13]: Commencement: Sch. 1 para. 12 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-d869cfca88a49ab7c548ab52a5219ec9]: Textual amendment: Words in Sch. 1 Pt. 2 requirement 12(1) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-d869cfca88a49ab7c548ab52a5219ec9]: Textual amendment: Words in Sch. 1 Pt. 2 requirement 12(1) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
-[^key-16b9ced3d0cf985478d1fefa46b40dc4]: Commencement: Sch. 1 para. 13 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-16b9ced3d0cf985478d1fefa46b40dc4]: Commencement: Sch. 1 para. 13 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-11cd6c799cd40e61d731da90807ce94a]: Commencement: Sch. 1 para. 14 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-11cd6c799cd40e61d731da90807ce94a]: Commencement: Sch. 1 para. 14 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-6afc744e0a9bf8d60aa3fb927966258a]: Commencement: Sch. 1 para. 15 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-6afc744e0a9bf8d60aa3fb927966258a]: Commencement: Sch. 1 para. 15 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-8eaeda591355ed8b94bf52ce99b1a0f4]: Commencement: Sch. 1 para. 16 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-8eaeda591355ed8b94bf52ce99b1a0f4]: Commencement: Sch. 1 para. 16 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-d96f73a0aa3facca308a6912427ae0c6]: Textual amendment: Words in Sch. 1 Pt. 2 requirement 16(1) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-d96f73a0aa3facca308a6912427ae0c6]: Textual amendment: Words in Sch. 1 Pt. 2 requirement 16(1) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
-[^key-43ecc3bcefe2ad7759083cab0788cfa7]: Commencement: Sch. 1 para. 17 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-43ecc3bcefe2ad7759083cab0788cfa7]: Commencement: Sch. 1 para. 17 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-0e0da128e685e3883298b53f3622c631]: Commencement: Sch. 1 para. 18 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-0e0da128e685e3883298b53f3622c631]: Commencement: Sch. 1 para. 18 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-e1f8d13c575dcbe16a335c28b7c076e4]: Commencement: Sch. 1 para. 19 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-e1f8d13c575dcbe16a335c28b7c076e4]: Commencement: Sch. 1 para. 19 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-ba7bd316fa20c7dd2d44df4f90bfcf69]: Commencement: Sch. 1 para. 20 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-ba7bd316fa20c7dd2d44df4f90bfcf69]: Commencement: Sch. 1 para. 20 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-5d58f6cb9c50013518adfb7a3e07b6ef]: Commencement: Sch. 1 para. 21 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-5d58f6cb9c50013518adfb7a3e07b6ef]: Commencement: Sch. 1 para. 21 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-5e89112d3dad99ee8fa3e93235d9cfab]: Commencement: Sch. 1 para. 22 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-5e89112d3dad99ee8fa3e93235d9cfab]: Commencement: Sch. 1 para. 22 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-471056711613764dd90cf84da604e7e3]: Commencement: Sch. 1 para. 23 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-471056711613764dd90cf84da604e7e3]: Commencement: Sch. 1 para. 23 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-e063598e470d77062794752674c1f9db]: Commencement: Sch. 1 para. 24 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-e063598e470d77062794752674c1f9db]: Commencement: Sch. 1 para. 24 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-f80ab81405e3660fee1398cb15876551]: Textual amendment: Words in Sch. 1 para. 24(5) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 54](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/54)
+[^c-f80ab81405e3660fee1398cb15876551]: Textual amendment: Words in Sch. 1 para. 24(5) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 54](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/54)
 
-[^key-7b3290ff738e68596b7187d65920d46e]: Commencement: Sch. 1 para. 25 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-7b3290ff738e68596b7187d65920d46e]: Commencement: Sch. 1 para. 25 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-b778e0be2131292ea78b0bbbdbcc4a05]: Commencement: Sch. 1 para. 26 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-b778e0be2131292ea78b0bbbdbcc4a05]: Commencement: Sch. 1 para. 26 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-07d8e8ebe20b8fcd3d5a02fb1ca3aa7c]: Commencement: Sch. 1 para. 27 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-07d8e8ebe20b8fcd3d5a02fb1ca3aa7c]: Commencement: Sch. 1 para. 27 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-b51d8652f004944ff916de0a9a97fadb]: Commencement: Sch. 1 para. 28 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-b51d8652f004944ff916de0a9a97fadb]: Commencement: Sch. 1 para. 28 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
 [^M_F_d4dc02be-9bc3-40e7-8d2b-1aa0b340a24f]: Textual amendment: Word in Sch. 1 Pt. 2 requirement 28(3) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
-[^key-3b6c94758de1ce11896508395d980723]: Textual amendment: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2015/680/schedule/1/part/2) requirement 28(4) punctuation corrected (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
+[^c-3b6c94758de1ce11896508395d980723]: Textual amendment: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2015/680/schedule/1/part/2) requirement 28(4) punctuation corrected (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
-[^key-472b0d1885bc64b4b41669ff85730493]: Commencement: Sch. 1 para. 29 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-472b0d1885bc64b4b41669ff85730493]: Commencement: Sch. 1 para. 29 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-96912c766dcee9be8f0e57e587974aef]: Commencement: Sch. 1 para. 30 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-96912c766dcee9be8f0e57e587974aef]: Commencement: Sch. 1 para. 30 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-44fa13922d430ced9b073946b6a0f030]: Commencement: Sch. 1 para. 31 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-44fa13922d430ced9b073946b6a0f030]: Commencement: Sch. 1 para. 31 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-740f6f786bd9ef0635310d14a2c9b189]: Commencement: Sch. 1 para. 32 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-740f6f786bd9ef0635310d14a2c9b189]: Commencement: Sch. 1 para. 32 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-c6271888f3cb6e41a91fd2e4a21bf64a]: Commencement: Sch. 1 para. 33 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-c6271888f3cb6e41a91fd2e4a21bf64a]: Commencement: Sch. 1 para. 33 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-56d878db981212a6e984707e7d346463]: Commencement: Sch. 1 para. 34 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-56d878db981212a6e984707e7d346463]: Commencement: Sch. 1 para. 34 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
 [^M_F_86a87e27-beef-477a-b9a1-81a484fab640]: Textual amendment: Words in Sch. 1 Pt. 2 requirement 34(1) substituted (23.7.2016) by [The Knottingley Power Plant (Correction) Order 2016 (S.I. 2016/797)](https://www.legislation.gov.uk/uksi/2016/797), [art. 1](https://www.legislation.gov.uk/uksi/2016/797/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/797/schedule)
 
-[^key-d449d3b3a30626df16b5582d005ac3a2]: Commencement: Sch. 1 para. 35 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-d449d3b3a30626df16b5582d005ac3a2]: Commencement: Sch. 1 para. 35 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-5944d0aa0523e87e79853edd11f5cfc3]: Commencement: Sch. 1 para. 36 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-5944d0aa0523e87e79853edd11f5cfc3]: Commencement: Sch. 1 para. 36 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-37f863675a9384f7abfe3042a9f7c86a]: Commencement: Sch. 1 para. 37 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-37f863675a9384f7abfe3042a9f7c86a]: Commencement: Sch. 1 para. 37 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
-[^key-77672227a204a40bbafe5c374d5edcae]: Commencement: Sch. 1 para. 38 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-77672227a204a40bbafe5c374d5edcae]: Commencement: Sch. 1 para. 38 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)

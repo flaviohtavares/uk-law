@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51A. Power of Tribunal to impose sanctions for inadequate professional services[^key-407fb28d9450a47931413940e040f4a2]
+## 51A. Power of Tribunal to impose sanctions for inadequate professional services[^c-407fb28d9450a47931413940e040f4a2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-407fb28d9450a47931413940e040f4a2]: Textual amendment: [Art. 51A](https://www.legislation.gov.uk/nisi/1976/582/article/51A) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(7)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/7), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)
+[^c-407fb28d9450a47931413940e040f4a2]: Textual amendment: [Art. 51A](https://www.legislation.gov.uk/nisi/1976/582/article/51A) repealed (1.9.2025) by [Legal Complaints and Regulation Act (Northern Ireland) 2016 (c. 14)](https://www.legislation.gov.uk/nia/2016/14), [s. 55](https://www.legislation.gov.uk/nia/2016/14/section/55), [Sch. 4 para. 2(7)](https://www.legislation.gov.uk/nia/2016/14/schedule/4/paragraph/2/7), [Sch. 5](https://www.legislation.gov.uk/nia/2016/14/schedule/5); [S.R. 2025/143](https://www.legislation.gov.uk/nisr/2025/143), [art. 2(1)](https://www.legislation.gov.uk/nisr/2025/143/article/2/1)

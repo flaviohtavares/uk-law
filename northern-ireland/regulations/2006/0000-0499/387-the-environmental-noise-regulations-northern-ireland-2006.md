@@ -43,7 +43,7 @@ The Department of the Environment is a Department designated[^f00001] for the pu
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and application[^key-765939ec8fe298922d05d59aa3606cd0]
+### 1. Citation, commencement and application[^c-765939ec8fe298922d05d59aa3606cd0]
 
 (1) These Regulations may be cited as the Environmental Noise Regulations (Northern Ireland) 2006 and shall come into operation on 20 October 2006.
 
@@ -51,13 +51,13 @@ The Department of the Environment is a Department designated[^f00001] for the pu
 
 (3) These Regulations do not apply to noise that is caused by the exposed person himself, noise from domestic activities, noise created by neighbours, noise at work places or noise inside means of transport or due to military activities in military areas.
 
-### 2. Interpretation[^key-988ba8ed72ddd4266dfe7dda59bee16b]
+### 2. Interpretation[^c-988ba8ed72ddd4266dfe7dda59bee16b]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
 (2) Unless otherwise defined in these Regulations, words and terms used in these Regulations and in the Directive have the same meaning as in the Directive.
 
-(2A)[^key-3872a599f5067d07c21a3f0f120fd18a] For the purpose of these Regulations, a reference to the Directive is to be read as if any reference in that Directive to a member state or competent authority in a provision imposing an obligation on or providing a discretion to a member state or competent authority is to the Northern Ireland department which, immediately before exit day was responsible for compliance with that obligation or exercise of that discretion in Northern Ireland
+(2A)[^c-3872a599f5067d07c21a3f0f120fd18a] For the purpose of these Regulations, a reference to the Directive is to be read as if any reference in that Directive to a member state or competent authority in a provision imposing an obligation on or providing a discretion to a member state or competent authority is to the Northern Ireland department which, immediately before exit day was responsible for compliance with that obligation or exercise of that discretion in Northern Ireland
 
 (3) In these Regulations—
 
@@ -66,8 +66,8 @@ The Department of the Environment is a Department designated[^f00001] for the pu
 - “calendar year” means a period of a year beginning on 1 January;
 - “classified road” means a road which is classified pursuant to Article 13 of the Roads (Northern Ireland) Order 1993[^f00004];
 - “dB(A)” is a measure of sound pressure level (“A” weighted) in decibels as specified in British Standard BS EN 61672-2: 2003[^f00005];
-- “the Department” means the Department of Agriculture, Environment and Rural Affairs;[^key-5c888820bdbbb8f6c55259ee438677da]
-- “Directive” means Directive [2002/49/EC](https://www.legislation.gov.uk/european/directive/2002/0049) of the European Parliament and of the Council relating to the assessment and management of environmental noise, as last amended by Commission Directive ([^key-606dcecd9dfb3ee6ddfb961987fc262c]EU) 2015/996 ;
+- “the Department” means the Department of Agriculture, Environment and Rural Affairs;[^c-5c888820bdbbb8f6c55259ee438677da]
+- “Directive” means Directive [2002/49/EC](https://www.legislation.gov.uk/european/directive/2002/0049) of the European Parliament and of the Council relating to the assessment and management of environmental noise, as last amended by Commission Directive ([^c-606dcecd9dfb3ee6ddfb961987fc262c]EU) 2015/996 ;
 - “first round agglomeration” means an area identified as a first round agglomeration pursuant to regulation 3;
 - “first round major railway” means a railway which is identified as a first round major railway pursuant to regulation 3;
 - “first round major road” means a road which is identified as a first round major road pursuant to regulation 3;
@@ -90,9 +90,9 @@ The Department of the Environment is a Department designated[^f00001] for the pu
 - “the Department” means the Department of the Environment; and
 - “trunk road” has the meaning given in Article 2(2) of the Roads (Northern Ireland) Order 1993.
 
-(4)[^key-818136ae554a5d939f6b73d0d4050964] In these Regulations any reference to Annex I, II, VI or paragraph 7 of Annex IV of the Directive is to be construed as a reference to that Annex or paragraph as it had effect immediately before exit day[^key-3f850db613220f9527fe688f5bff54d9] .
+(4)[^c-818136ae554a5d939f6b73d0d4050964] In these Regulations any reference to Annex I, II, VI or paragraph 7 of Annex IV of the Directive is to be construed as a reference to that Annex or paragraph as it had effect immediately before exit day[^c-3f850db613220f9527fe688f5bff54d9] .
 
-### 3. Identification of noise sources[^key-5570597cb677ff38ec29ba25111e8f6e]
+### 3. Identification of noise sources[^c-5570597cb677ff38ec29ba25111e8f6e]
 
 (1) No later than 31<sup>st</sup> December 2006 the Department shall prepare maps identifying all—
 
@@ -161,7 +161,7 @@ as necessary if it considers that the most recent maps produced pursuant to para
 
 ### CHAPTER 1 — GENERAL REQUIREMENTS FOR STRATEGIC NOISE MAPS
 
-#### 4. Strategic noise maps: general requirements[^key-1bd6c05504244d09ade5721e9e2bb640]
+#### 4. Strategic noise maps: general requirements[^c-1bd6c05504244d09ade5721e9e2bb640]
 
 (1) Any strategic noise map made or revised under this Part shall satisfy the applicable requirements in Schedule 1.
 
@@ -172,13 +172,13 @@ as necessary if it considers that the most recent maps produced pursuant to para
 
 when making or revising strategic noise maps under this Part.
 
-(3)[^key-b71fb8a9868b8caa303bcd88dc36783a] The values of L<sub>den</sub>, L<sub>night</sub> and the supplementary noise indicators shall be determined by computation (at the assessment position) and by means of the assessment methods set out in Annex II of the Directive.
+(3)[^c-b71fb8a9868b8caa303bcd88dc36783a] The values of L<sub>den</sub>, L<sub>night</sub> and the supplementary noise indicators shall be determined by computation (at the assessment position) and by means of the assessment methods set out in Annex II of the Directive.
 
 (4) In this Regulation, “assessment position” means the assessment height in paragraph 7 of Annex IV of the Directive.
 
-(5)[^key-d3f5aefa926e3d3fc63bdcca0e0947d0][^key-5123066c746ac7551c89cdfcc5e3e641] For the purposes of paragraph (2)(a), a reference to Annex 1 to the Directive is to be read as if, in paragraph (1) of the Directive, in the second subparagraph, in the first indent, the words from “The Member” to the end were omitted
+(5)[^c-d3f5aefa926e3d3fc63bdcca0e0947d0][^c-5123066c746ac7551c89cdfcc5e3e641] For the purposes of paragraph (2)(a), a reference to Annex 1 to the Directive is to be read as if, in paragraph (1) of the Directive, in the second subparagraph, in the first indent, the words from “The Member” to the end were omitted
 
-#### 5. Interpretation[^key-37e4c23fd2013faea2258e3e2625b3ff]
+#### 5. Interpretation[^c-37e4c23fd2013faea2258e3e2625b3ff]
 
 (1) In this Part—
 
@@ -195,15 +195,15 @@ when making or revising strategic noise maps under this Part.
 
 ### CHAPTER 2 — STRATEGIC NOISE MAPS - MAJOR ROADS
 
-#### 6. Application[^key-87ec8d41cdf52e60b2d170204c0da030]
+#### 6. Application[^c-87ec8d41cdf52e60b2d170204c0da030]
 
 This Chapter applies to noise from major roads.
 
-#### 7. Competent authority[^key-b9bea45275905d2e3c373a66dc0da00a]
+#### 7. Competent authority[^c-b9bea45275905d2e3c373a66dc0da00a]
 
-The competent authority for this Chapter is the Department for Infrastructure[^key-c22387092fa7449204492fe89cd93f11] .
+The competent authority for this Chapter is the Department for Infrastructure[^c-c22387092fa7449204492fe89cd93f11] .
 
-#### 8. Duty to make, review and revise strategic noise maps: major roads[^key-95b16a08a6ed8c52fc24f3da248d9e74]
+#### 8. Duty to make, review and revise strategic noise maps: major roads[^c-95b16a08a6ed8c52fc24f3da248d9e74]
 
 (1) No later than 31 October 2006 the competent authority shall—
 
@@ -236,15 +236,15 @@ any strategic noise map made pursuant to paragraph (3) or (4) and adopted pursua
 
 ### CHAPTER 3 — STRATEGIC NOISE MAPS – MAJOR RAILWAYS
 
-#### 9. Application[^key-a64eb676c5d80c6d340d8392200d57a9]
+#### 9. Application[^c-a64eb676c5d80c6d340d8392200d57a9]
 
 This Chapter applies to noise from major railways.
 
-#### 10. Competent authority[^key-6018a40123fee2f0bad1d89c878fb92b]
+#### 10. Competent authority[^c-6018a40123fee2f0bad1d89c878fb92b]
 
 The competent authority for this Chapter is the Northern Ireland Transport Holding Company.
 
-#### 11. Duty to make, review and revise strategic noise maps: major railways[^key-9303fb343a8c23cf1556ddea746f47a3]
+#### 11. Duty to make, review and revise strategic noise maps: major railways[^c-9303fb343a8c23cf1556ddea746f47a3]
 
 (1) No later than 31 October 2006 the competent authority shall—
 
@@ -277,15 +277,15 @@ any strategic noise map made pursuant to paragraph (3) or (4) and approved pursu
 
 ### CHAPTER 4 — STRATEGIC NOISE MAPS – MAJOR AIRPORTS
 
-#### 12. Application[^key-db64412a92090953599aa60f49c5d35c]
+#### 12. Application[^c-db64412a92090953599aa60f49c5d35c]
 
 This Chapter applies to noise from major airports.
 
-#### 13. Competent authority[^key-a65c9be8fc8da5cb081e3218a9864cb7]
+#### 13. Competent authority[^c-a65c9be8fc8da5cb081e3218a9864cb7]
 
 The competent authority for this Chapter is the airport operator.
 
-#### 14. Duty to make, review and revise strategic noise maps: major airports[^key-8407e28fd1d983a86c0f90740086681d]
+#### 14. Duty to make, review and revise strategic noise maps: major airports[^c-8407e28fd1d983a86c0f90740086681d]
 
 (1) No later than 31 October 2006, and thereafter every five years, the competent authority shall—
 
@@ -308,15 +308,15 @@ any strategic noise map made pursuant to paragraph (2) and approved pursuant to 
 
 ### CHAPTER 5 — STRATEGIC NOISE MAPS – INDUSTRY
 
-#### 15. Application[^key-775925928c4bcc89e6f78a679dee6195]
+#### 15. Application[^c-775925928c4bcc89e6f78a679dee6195]
 
 This Chapter applies to noise sources from industry.
 
-#### 16. Competent authority[^key-e808e11f43561ed70abf70a3e02f3c5e]
+#### 16. Competent authority[^c-e808e11f43561ed70abf70a3e02f3c5e]
 
 The competent authority for this Chapter is the Department.
 
-#### 17. Duty to make, review and revise strategic noise maps: industry[^key-6a3c01f381c76be800923fb0af7229a3]
+#### 17. Duty to make, review and revise strategic noise maps: industry[^c-6a3c01f381c76be800923fb0af7229a3]
 
 (1) No later than 31 December 2006 the competent authority shall identify all industrial noise sources within first round agglomerations in the preceding calendar year.
 
@@ -335,11 +335,11 @@ any strategic noise map made pursuant to paragraph (3) or (4).
 
 ### CHAPTER 6 — STRATEGIC NOISE MAPS – AGGLOMERATIONS
 
-#### 18. Application[^key-189db5f8c7156b36548a742ada5dd0a4]
+#### 18. Application[^c-189db5f8c7156b36548a742ada5dd0a4]
 
 This Chapter applies to noise from sources within agglomerations.
 
-#### 19. Duty to make, review and revise strategic noise maps: agglomerations[^key-9f266656f55ac4a3abfe78ddb1e63af2]
+#### 19. Duty to make, review and revise strategic noise maps: agglomerations[^c-9f266656f55ac4a3abfe78ddb1e63af2]
 
 (1) No later than 31 March 2007 the competent authority under regulation 7 shall—
 
@@ -388,15 +388,15 @@ any strategic noise map made pursuant to paragraph (1), (2), (3), (4), (6) or (7
 
 ### CHAPTER 7 — CONSOLIDATION OF STRATEGIC NOISE MAPS
 
-#### 20. Application[^key-9902248901955aa68b6b53aec0f88127]
+#### 20. Application[^c-9902248901955aa68b6b53aec0f88127]
 
 This Chapter applies to noise from sources within agglomerations.
 
-#### 21. Competent authority[^key-07a070ca03095aa84e52bd203a5ff607]
+#### 21. Competent authority[^c-07a070ca03095aa84e52bd203a5ff607]
 
 The competent authority for this Chapter is the Department.
 
-#### 22. Duty to make, review and revise a consolidated strategic noise map: agglomerations[^key-e8be6b59d4196bd260bd27956de7f650]
+#### 22. Duty to make, review and revise a consolidated strategic noise map: agglomerations[^c-e8be6b59d4196bd260bd27956de7f650]
 
 No later than the 30 June 2007, and thereafter every five years, the competent authority shall make a consolidated strategic noise map for all noise sources within the agglomeration, using the strategic noise maps submitted under regulations 17 and 19.
 
@@ -404,11 +404,11 @@ No later than the 30 June 2007, and thereafter every five years, the competent a
 
 ### CHAPTER 1 — GENERAL
 
-#### 23. Duty to publish criteria or limit values[^key-cbad94d072540f484f13d9e0966160d7]
+#### 23. Duty to publish criteria or limit values[^c-cbad94d072540f484f13d9e0966160d7]
 
 No later than 31 October 2007 the Department shall publish guidance setting out limit values or other criteria for the identification of priorities for action plans.
 
-#### 24. Action plans: general requirements[^key-73d5b28fceeb03c8690ddb2d693de04e]
+#### 24. Action plans: general requirements[^c-73d5b28fceeb03c8690ddb2d693de04e]
 
 (1) Any action plan drawn up or revised under this Part shall—
 
@@ -434,15 +434,15 @@ drawn up under this Part for an agglomeration.
 
 ### CHAPTER 2 — ACTION PLANS – ROADS
 
-#### 25. Application[^key-ab5348caa63d7c4ee0f7743fec798cbb]
+#### 25. Application[^c-ab5348caa63d7c4ee0f7743fec798cbb]
 
 This Chapter applies to noise from roads
 
-#### 26. Competent authority[^key-1c57d99ede5be21969dcfaa2d38b54ea]
+#### 26. Competent authority[^c-1c57d99ede5be21969dcfaa2d38b54ea]
 
 The competent authority for this Chapter is the Department for Regional Development.
 
-#### 27. Duty to draw up, review and revise action plans: major roads[^key-f77662b50eda16affa186b88cb826ce6]
+#### 27. Duty to draw up, review and revise action plans: major roads[^c-f77662b50eda16affa186b88cb826ce6]
 
 (1) No later than 30 April 2008 the competent authority shall—
 
@@ -468,7 +468,7 @@ the action plan.
 
 (5) An action plan revised pursuant to paragraph (4)(b) shall be submitted to the Department within three working days of its revision.
 
-#### 28. Duty to draw up, review and revise action plans: agglomerations[^key-5bc5b99ef167804c2307e6c1fdfe9367]
+#### 28. Duty to draw up, review and revise action plans: agglomerations[^c-5bc5b99ef167804c2307e6c1fdfe9367]
 
 (1) No later than 30 April 2008 the competent authority shall—
 
@@ -496,15 +496,15 @@ the action plan.
 
 ### CHAPTER 3 — ACTION PLANS – RAILWAYS
 
-#### 29. Application[^key-39bc8b85c1a0f0be7fd979f2704cfcdf]
+#### 29. Application[^c-39bc8b85c1a0f0be7fd979f2704cfcdf]
 
 This Chapter applies to noise from railways
 
-#### 30. Competent authority[^key-33dd221ebb3038a367c3c8495a612886]
+#### 30. Competent authority[^c-33dd221ebb3038a367c3c8495a612886]
 
 The competent authority for this Chapter is the Northern Ireland Transport Holding Company.
 
-#### 31. Duty to draw up, review and revise action plans: major railways[^key-7e55d78d823a6d80599dba20db19324a]
+#### 31. Duty to draw up, review and revise action plans: major railways[^c-7e55d78d823a6d80599dba20db19324a]
 
 (1) No later than 30 April 2008 the competent authority shall—
 
@@ -530,7 +530,7 @@ the action plan.
 
 (5) An action plan revised pursuant to paragraph (4)(b) shall be submitted to the Department within three working days of its revision.
 
-#### 32. Duty to draw up, review and revise action plans: agglomerations[^key-5f37434991cee4c09e03a1eef0c4b494]
+#### 32. Duty to draw up, review and revise action plans: agglomerations[^c-5f37434991cee4c09e03a1eef0c4b494]
 
 (1) No later than 30 April 2008 the competent authority shall—
 
@@ -558,15 +558,15 @@ the action plan.
 
 ### CHAPTER 4 — ACTION PLANS – AIRPORTS
 
-#### 33. Application[^key-8cc7e8302c9aef5410af5c066b79765c]
+#### 33. Application[^c-8cc7e8302c9aef5410af5c066b79765c]
 
 This Chapter applies to noise from airports
 
-#### 34. Competent authority[^key-55bc2f56140febba95a7ce04017f2d7f]
+#### 34. Competent authority[^c-55bc2f56140febba95a7ce04017f2d7f]
 
 The competent authority for this Chapter is the airport operator.
 
-#### 35. Duty to draw up, review and revise action plans: major airports[^key-877d39214c00d3daa3d53a63e2027c8a]
+#### 35. Duty to draw up, review and revise action plans: major airports[^c-877d39214c00d3daa3d53a63e2027c8a]
 
 (1) No later than 30 April 2008 the competent authority shall—
 
@@ -587,7 +587,7 @@ the action plan.
 
 (4) An action plan revised pursuant to paragraph (3)(b) shall be submitted to the Department within three working days of its revision.
 
-#### 36. Duty to draw up, review and revise action plans: agglomerations[^key-0a43681b8d3ffa3cd56e0d870b73e4e7]
+#### 36. Duty to draw up, review and revise action plans: agglomerations[^c-0a43681b8d3ffa3cd56e0d870b73e4e7]
 
 (1) No later than 30 April 2008 the competent authority shall—
 
@@ -615,15 +615,15 @@ the action plan.
 
 ### CHAPTER 5 — ACTION PLANS – INDUSTRY
 
-#### 37. Application[^key-af01893ed3a490ab4c610c9f9f386f8c]
+#### 37. Application[^c-af01893ed3a490ab4c610c9f9f386f8c]
 
 This Chapter refers to noise sources from industry.
 
-#### 38. Competent authority[^key-43166865d25c26ba7c375e3db23dc6f6]
+#### 38. Competent authority[^c-43166865d25c26ba7c375e3db23dc6f6]
 
 The competent authority for this Chapter is the Department.
 
-#### 39. Duty to draw up, review and revise action plans: industry[^key-0a84aa53f24b24c87ab9faac04f9af9f]
+#### 39. Duty to draw up, review and revise action plans: industry[^c-0a84aa53f24b24c87ab9faac04f9af9f]
 
 (1) No later than 18 July 2008 the competent authority shall draw up an action plan for industrial noise sources within any relevant first round agglomeration.
 
@@ -643,7 +643,7 @@ the action plan.
 
 ### CHAPTER 6 — QUIET AREAS
 
-#### 40. Identification of quiet areas[^key-65b3c80cc34bbee88c5bc8faf705167d]
+#### 40. Identification of quiet areas[^c-65b3c80cc34bbee88c5bc8faf705167d]
 
 (1) No later than 30 September 2007 the Department shall prepare maps identifying quiet areas in agglomerations.
 
@@ -661,17 +661,17 @@ the action plan.
 
 ### CHAPTER 7 — CONSOLIDATED ACTION PLANS
 
-#### 41. Competent authority[^key-e42137eb03128f0c2b8bd8b5790f12d7]
+#### 41. Competent authority[^c-e42137eb03128f0c2b8bd8b5790f12d7]
 
 The competent authority for this Chapter is the Department.
 
-#### 42. Duty to draw up, review and revise a consolidated action plan: agglomerations[^key-bcf04db5287c35f319f83a8b8d9f3077]
+#### 42. Duty to draw up, review and revise a consolidated action plan: agglomerations[^c-bcf04db5287c35f319f83a8b8d9f3077]
 
 No later than the 18 July 2008, and thereafter every five years, the competent authority shall draw up a consolidated action plan for all noise within the agglomerations, using the action plans submitted under regulations 28, 32, 36 and 39.
 
 ### CHAPTER 8 — ACTION PLANS – PUBLIC PARTICIPATION
 
-#### 43. Public participation[^key-d19459801f5cbe0f555a07eea06b8ca7]
+#### 43. Public participation[^c-d19459801f5cbe0f555a07eea06b8ca7]
 
 (1) In preparing and revising action plans the competent authorities under regulations 26, 30, 34 and 38 shall ensure that—
 
@@ -683,7 +683,7 @@ No later than the 18 July 2008, and thereafter every five years, the competent a
 
 ### CHAPTER 9 — IMPLEMENTATION OF ACTION PLANS
 
-#### 44. Implementation of action plans[^key-2c16cc365b90ee4b43256739200ca0f7]
+#### 44. Implementation of action plans[^c-2c16cc365b90ee4b43256739200ca0f7]
 
 (1) Where an action plan or a revision of an action plan—
 
@@ -705,22 +705,22 @@ that public authority shall treat the action plan as its policy insofar as it re
 
 ## PART 4 — COOPERATION WITH EXTERNAL COMPETENT AUTHORITIES
 
-### 45. Cooperation with external competent authorities[^key-94f869a153d2d9f5c1572f1232ca9780]
+### 45. Cooperation with external competent authorities[^c-94f869a153d2d9f5c1572f1232ca9780]
 
 (1) When necessary in order to meet its obligations under these Regulations, a competent authority shall use all reasonable endeavours to secure the cooperation of an external competent authority.
 
 (2) A competent authority—
 
 - (a) when requested to do so by an external competent authority; and
-- (b) if necessary to meet that external competent authority’s obligations arising under relevant EU-derived domestic legislation[^key-9e64d3acff304d10ffd0dc712189beb8] ;
+- (b) if necessary to meet that external competent authority’s obligations arising under relevant EU-derived domestic legislation[^c-9e64d3acff304d10ffd0dc712189beb8] ;
 
 shall cooperate with that external competent authority.
 
-(3) In this Part “external competent authority” means a competent authority in the Republic of Ireland, England, Scotland or Wales designated for the purposes of the relevant EU-derived domestic legislation[^key-2a77ff42db62594e9989bf6bfc71b977] .
+(3) In this Part “external competent authority” means a competent authority in the Republic of Ireland, England, Scotland or Wales designated for the purposes of the relevant EU-derived domestic legislation[^c-2a77ff42db62594e9989bf6bfc71b977] .
 
 ## PART 5 — ADOPTION OR APPROVAL OF STRATEGIC NOISE MAPS AND ACTION PLANS
 
-### 46. Adoption or approval of strategic noise maps[^key-6a06ce547b0533e3a1246425948a749c]
+### 46. Adoption or approval of strategic noise maps[^c-6a06ce547b0533e3a1246425948a749c]
 
 (1) If the Department considers that a strategic noise map—
 
@@ -763,7 +763,7 @@ meets the requirements of regulation 4, the Department shall adopt the map.
 
 it shall take such steps as it considers appropriate to ensure that the map complies with the requirements of regulation 4 and shall notify the competent authority of any amendments made.
 
-### 47. Adoption or approval of action plans[^key-98d5ee7b4a8cbea303082ce84629182e]
+### 47. Adoption or approval of action plans[^c-98d5ee7b4a8cbea303082ce84629182e]
 
 (1) If the Department considers that an action plan—
 
@@ -807,11 +807,11 @@ it shall take such steps as it considers appropriate to ensure that the action p
 
 ## PART 6 — POWERS OF THE DEPARTMENT IN RELATION TO THE FUNCTIONS OF OTHER COMPETENT AUTHORITIES
 
-### 48. Application[^key-e560eb9923c503ccab7db528321e6d8d]
+### 48. Application[^c-e560eb9923c503ccab7db528321e6d8d]
 
 This Part does not apply to any functions under these Regulations for which the Department is the competent authority.
 
-### 49. Powers[^key-95bd5f8e4a9fcf06af839bc9536b467d]
+### 49. Powers[^c-95bd5f8e4a9fcf06af839bc9536b467d]
 
 (1) The Department may at any time require a competent authority to provide information in relation to its functions under these Regulations.
 
@@ -830,14 +830,14 @@ This Part does not apply to any functions under these Regulations for which the 
 
 - (a) the Department has consulted the competent authority; and
 - (b) it considers that by reason of any act or omission, or any likely act or omission, by the competent authority—
-  - (i) a requirement of these Regulations; [^key-ee52fc6a11d40e7a40d8fd45fc0c6908]...
-  - (ii)[^key-ee52fc6a11d40e7a40d8fd45fc0c6908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) a requirement of these Regulations; [^c-ee52fc6a11d40e7a40d8fd45fc0c6908]...
+  - (ii)[^c-ee52fc6a11d40e7a40d8fd45fc0c6908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   is unlikely to be met.
 
 (5) The Department may exercise such of the functions of the competent authority, as it considers appropriate.
 
-### 50. Recovery of expenses[^key-983f59c93b908d2c162108c9701e728c]
+### 50. Recovery of expenses[^c-983f59c93b908d2c162108c9701e728c]
 
 (1) Where the Department incurs expenses pursuant to—
 
@@ -856,11 +856,11 @@ it may recover those expenses from the relevant competent authority as a civil d
 
 ## PART 7 — INFORMATION TO THE PUBLIC
 
-### 51. Competent authority[^key-3ac0ee6d254c17ad584baa0487455952]
+### 51. Competent authority[^c-3ac0ee6d254c17ad584baa0487455952]
 
 The competent authority for this Part is the Department.
 
-### 52. Availability of strategic noise maps and action plans[^key-e7546a059e14ff0e5ce78a1e285aa3ce]
+### 52. Availability of strategic noise maps and action plans[^c-e7546a059e14ff0e5ce78a1e285aa3ce]
 
 (1) Any—
 
@@ -885,9 +885,9 @@ shall be published by the competent authority in accordance with the requirement
 
 ## PART 8 — GUIDANCE
 
-### 53. Guidance[^key-3641c29010053c0a1917a1782b400eaa]
+### 53. Guidance[^c-3641c29010053c0a1917a1782b400eaa]
 
-A competent authority, in exercising any of its functions under these Regulations, shall have regard to any guidance issued by the Department or, formerly, the Department of the Environment[^key-8f49447d7a2ee58f814c94f53dec7e84] under this regulation.
+A competent authority, in exercising any of its functions under these Regulations, shall have regard to any guidance issued by the Department or, formerly, the Department of the Environment[^c-8f49447d7a2ee58f814c94f53dec7e84] under this regulation.
 
 Sealed with the Official Seal of the Department of the Environment on 21st September 2006
 
@@ -899,9 +899,9 @@ A Senior Officer of the Department of the Environment
 
 regulations 4 and 5
 
-### 1. Interpretation[^key-f890932ec86497e1a132f5832c6f62e5]
+### 1. Interpretation[^c-f890932ec86497e1a132f5832c6f62e5]
 
-(1)[^key-89b01fbef290383fe5c191d5eda1b46a] In this Schedule—
+(1)[^c-89b01fbef290383fe5c191d5eda1b46a] In this Schedule—
 
 - “editable” means in a format that allows (without the need for manipulation) the electronic production of—
   - (a) numerical data in tables; and
@@ -913,12 +913,12 @@ regulations 4 and 5
   - (b) spatially referenced to the Irish National Grid reference system used by the Ordnance Survey Northern Ireland as a pair of integers to show Eastings then Northings in metres from the origin; and
   - (c) aligned with the 10 metre vertices of the Irish National Grid reference system used by the Ordnance Survey of Northern Ireland so that references finish with the number zero.
 
-(2)[^key-6b8c7a2c2aae430ec2300ae15d8ae15f] For the purposes of sub-paragraph (1), the reference to paragraphs 1.5, 1.6 and 2.6 of Annex VI to the Directive is to be read with the following modifications—
+(2)[^c-6b8c7a2c2aae430ec2300ae15d8ae15f] For the purposes of sub-paragraph (1), the reference to paragraphs 1.5, 1.6 and 2.6 of Annex VI to the Directive is to be read with the following modifications—
 
 - (a) in paragraphs 1.5 and 1.6, as if the reference in those paragraphs to “major roads”, “major railways” and “**major airports**” as defined in Article 3 of the Directive were to “major road”, “major railway” and major airport” as defined in regulation 2(3) of these Regulations;
 - (b) in paragraphs 1.6 and 2.6, as if the words from “These data” to the end were omitted.
 
-### 2. General requirements for strategic noise maps[^key-ae0cb38f8657b7e7121399d255e9b8a3]
+### 2. General requirements for strategic noise maps[^c-ae0cb38f8657b7e7121399d255e9b8a3]
 
 (1) Strategic noise maps and their revisions shall—
 
@@ -930,13 +930,13 @@ regulations 4 and 5
 - (a) Article 8 of the Directive shall be taken to be a reference to regulations 24, 27, 28, 31, 32, 35, 36 and 39 of these Regulations;
 - (b) Article 9 of the Directive shall be taken to be a reference to regulation 52 of these Regulations.
 
-(3)[^key-84ca8c926fcdb3b28e761caf9ac3ec0f] for the purpose of paragraph (1)(a), a reference to Annex IV of the Directive is to be read as if the following were omitted—
+(3)[^c-84ca8c926fcdb3b28e761caf9ac3ec0f] for the purpose of paragraph (1)(a), a reference to Annex IV of the Directive is to be read as if the following were omitted—
 
 - (a) in paragraph 4, the first indent;
 - (b) in paragraph 5, the words from “concerning” to “Commission”;
 - (c) paragraph 9.
 
-### 3. Requirements for strategic noise maps for agglomerations[^key-40edd7d6be0f8e8ba8e454dc97843e51]
+### 3. Requirements for strategic noise maps for agglomerations[^c-40edd7d6be0f8e8ba8e454dc97843e51]
 
 (1) This paragraph applies only to—
 
@@ -948,7 +948,7 @@ regulations 4 and 5
 - (a) include the information (in electronic format) described in paragraphs 1.1 to 1.4 inclusive of Annex VI of the Directive; and
 - (b) include editable numerical data in electronic form containing the values of L<sub>den</sub>, L<sub>night</sub> and the supplementary noise indicators on a grid.
 
-### 4. Requirements for strategic noise maps for major roads, major railways and major airports[^key-490029acf580350a3ef621d0590c866b]
+### 4. Requirements for strategic noise maps for major roads, major railways and major airports[^c-490029acf580350a3ef621d0590c866b]
 
 (1) This paragraph applies only to—
 
@@ -964,23 +964,23 @@ regulations 4 and 5
 
 regulation 4
 
-### ...[^key-1f3cdf8a355473b821f4cb3e047849fd][^key-1f3cdf8a355473b821f4cb3e047849fd]
+### ...[^c-1f3cdf8a355473b821f4cb3e047849fd][^c-1f3cdf8a355473b821f4cb3e047849fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1f3cdf8a355473b821f4cb3e047849fd]
+[^c-1f3cdf8a355473b821f4cb3e047849fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1f3cdf8a355473b821f4cb3e047849fd]
+[^c-1f3cdf8a355473b821f4cb3e047849fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1f3cdf8a355473b821f4cb3e047849fd]
+[^c-1f3cdf8a355473b821f4cb3e047849fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1f3cdf8a355473b821f4cb3e047849fd]
+[^c-1f3cdf8a355473b821f4cb3e047849fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -988,25 +988,25 @@ regulation 4
 
 regulation 2
 
-### 10. Interpretation[^key-474427a4127afa04822e3fb7d01941c4]
+### 10. Interpretation[^c-474427a4127afa04822e3fb7d01941c4]
 
 In this Schedule—
 
-- [^key-4666f7066d2de1dc6fcbf29887c6f0f0]...<sub></sub>
+- [^c-4666f7066d2de1dc6fcbf29887c6f0f0]...<sub></sub>
 - “L<sub>Aeq,16h</sub>” is the equivalent continuous sound level in dB(A) that, over the period 07:00 – 23:00 hours, contains the same sound energy as the actual fluctuating sound that occurred in that period;
 - “L<sub>Aeq,18h</sub>” is the equivalent continuous sound level in dB(A) that, over the period 06:00 – 24:00 hours, contains the same sound energy as the actual fluctuating sound that occurred in that period;
 - “L<sub>Aeq,6h</sub>” is the equivalent continuous sound level in dB(A) that, over the period 24:00 – 06:00 hours, contains the same sound energy as the actual fluctuating sound that occurred in that period.
 
-### 11. Road traffic noise[^key-c7f879fc673aac76a1a2c1dba5b722b2]
+### 11. Road traffic noise[^c-c7f879fc673aac76a1a2c1dba5b722b2]
 
 The supplementary noise indicators in relation to road traffic noise are—
 
-- (a)[^key-eacd3320ad3f1fa902e752d09cbd5453] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-eacd3320ad3f1fa902e752d09cbd5453] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) L<sub>Aeq,16h</sub>;
 - (c) L<sub>day</sub>; and
 - (d) L<sub>evening</sub>.
 
-### 12. Railway noise[^key-07512ca2ceb21ab90673d21441a1c6aa]
+### 12. Railway noise[^c-07512ca2ceb21ab90673d21441a1c6aa]
 
 The supplementary noise indicators in relation to railway noise are—
 
@@ -1016,7 +1016,7 @@ The supplementary noise indicators in relation to railway noise are—
 - (d) L<sub>day</sub>; and
 - (e) L<sub>evening</sub>.
 
-### 13. Aircraft noise[^key-6a03ec2f10d6c6cc47c4f52315515de5]
+### 13. Aircraft noise[^c-6a03ec2f10d6c6cc47c4f52315515de5]
 
 The supplementary noise indicators in relation to aircraft noise are—
 
@@ -1024,7 +1024,7 @@ The supplementary noise indicators in relation to aircraft noise are—
 - (b) L<sub>day</sub>; and
 - (c) L<sub>evening</sub>.
 
-### 14. Industrial noise and port noise[^key-a2721cf43961f841db578da3ec6afdd9]
+### 14. Industrial noise and port noise[^c-a2721cf43961f841db578da3ec6afdd9]
 
 The supplementary noise indicators in relation to industrial noise and port noise are—
 
@@ -1036,7 +1036,7 @@ The supplementary noise indicators in relation to industrial noise and port nois
 
 regulation 24
 
-### 15. General[^key-12651583e1310b471bd0a55105df074b]
+### 15. General[^c-12651583e1310b471bd0a55105df074b]
 
 (1) An action plan shall—
 
@@ -1125,176 +1125,176 @@ A Regulatory Impact Assessment in relation to these Regulations has been placed 
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-765939ec8fe298922d05d59aa3606cd0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/387/regulation/1) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-765939ec8fe298922d05d59aa3606cd0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/387/regulation/1) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-988ba8ed72ddd4266dfe7dda59bee16b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/387/regulation/2) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-988ba8ed72ddd4266dfe7dda59bee16b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/387/regulation/2) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-3872a599f5067d07c21a3f0f120fd18a]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/nisr/2006/387/regulation/2/2A) inserted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [30(a)](https://www.legislation.gov.uk/uksi/2019/584/regulation/30/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3872a599f5067d07c21a3f0f120fd18a]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/nisr/2006/387/regulation/2/2A) inserted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [30(a)](https://www.legislation.gov.uk/uksi/2019/584/regulation/30/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: [S.I. 1993/3160 (N.I. 15)](https://www.legislation.gov.uk/nisi/1993/3160)
 
 [^f00005]: Footnote: ISBN 0-580-42224-0
 
-[^key-5c888820bdbbb8f6c55259ee438677da]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2006/387/regulation/2/3) substituted (31.12.2018) by [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/2/a/ii)
+[^c-5c888820bdbbb8f6c55259ee438677da]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2006/387/regulation/2/3) substituted (31.12.2018) by [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/2/a/ii)
 
-[^key-606dcecd9dfb3ee6ddfb961987fc262c]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2006/387/regulation/2/3) substituted (31.12.2018) by [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/2/a/i)
+[^c-606dcecd9dfb3ee6ddfb961987fc262c]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/nisr/2006/387/regulation/2/3) substituted (31.12.2018) by [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/2/a/i)
 
 [^f00007]: Footnote: [S.R. 2003 No. 46](https://www.legislation.gov.uk/nisr/2003/46)
 
-[^key-818136ae554a5d939f6b73d0d4050964]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2006/387/regulation/2/4) added (31.12.2018) by [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/2/b)
+[^c-818136ae554a5d939f6b73d0d4050964]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2006/387/regulation/2/4) added (31.12.2018) by [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/2/b)
 
-[^key-3f850db613220f9527fe688f5bff54d9]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2006/387/regulation/2/4) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [31](https://www.legislation.gov.uk/uksi/2019/584/regulation/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f850db613220f9527fe688f5bff54d9]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2006/387/regulation/2/4) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [31](https://www.legislation.gov.uk/uksi/2019/584/regulation/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5570597cb677ff38ec29ba25111e8f6e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/387/regulation/3) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-5570597cb677ff38ec29ba25111e8f6e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/387/regulation/3) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-1bd6c05504244d09ade5721e9e2bb640]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/387/regulation/4) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-1bd6c05504244d09ade5721e9e2bb640]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/387/regulation/4) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-b71fb8a9868b8caa303bcd88dc36783a]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2006/387/regulation/4/3)[(4)](https://www.legislation.gov.uk/nisr/2006/387/regulation/4/4) substituted for reg. 4(3)-(5) (31.12.2018) by [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/3)
+[^c-b71fb8a9868b8caa303bcd88dc36783a]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2006/387/regulation/4/3)[(4)](https://www.legislation.gov.uk/nisr/2006/387/regulation/4/4) substituted for reg. 4(3)-(5) (31.12.2018) by [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/3)
 
-[^key-d3f5aefa926e3d3fc63bdcca0e0947d0]: Textual amendment: Reg. 4(6) renumbered (31.12.2020) by [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2019/1101/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d3f5aefa926e3d3fc63bdcca0e0947d0]: Textual amendment: Reg. 4(6) renumbered (31.12.2020) by [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2019/1101/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5123066c746ac7551c89cdfcc5e3e641]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/nisr/2006/387/regulation/4/6) inserted (31.12.2020) by virtue of [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [32](https://www.legislation.gov.uk/uksi/2019/584/regulation/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5123066c746ac7551c89cdfcc5e3e641]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/nisr/2006/387/regulation/4/6) inserted (31.12.2020) by virtue of [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [32](https://www.legislation.gov.uk/uksi/2019/584/regulation/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-37e4c23fd2013faea2258e3e2625b3ff]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/387/regulation/5) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-37e4c23fd2013faea2258e3e2625b3ff]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/387/regulation/5) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
 [^f00008]: Footnote: SPIRE Programme, Product Reference: SIP – DP – 011
 
-[^key-87ec8d41cdf52e60b2d170204c0da030]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/387/regulation/6) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-87ec8d41cdf52e60b2d170204c0da030]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/387/regulation/6) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-b9bea45275905d2e3c373a66dc0da00a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/387/regulation/7) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-b9bea45275905d2e3c373a66dc0da00a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/387/regulation/7) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-c22387092fa7449204492fe89cd93f11]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2006/387/regulation/7) substituted (31.12.2018) by [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/4)
+[^c-c22387092fa7449204492fe89cd93f11]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/nisr/2006/387/regulation/7) substituted (31.12.2018) by [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/4)
 
-[^key-95b16a08a6ed8c52fc24f3da248d9e74]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/387/regulation/8) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-95b16a08a6ed8c52fc24f3da248d9e74]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/387/regulation/8) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-a64eb676c5d80c6d340d8392200d57a9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/387/regulation/9) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-a64eb676c5d80c6d340d8392200d57a9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/387/regulation/9) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-6018a40123fee2f0bad1d89c878fb92b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/387/regulation/10) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-6018a40123fee2f0bad1d89c878fb92b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2006/387/regulation/10) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-9303fb343a8c23cf1556ddea746f47a3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/387/regulation/11) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-9303fb343a8c23cf1556ddea746f47a3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/387/regulation/11) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-db64412a92090953599aa60f49c5d35c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/387/regulation/12) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-db64412a92090953599aa60f49c5d35c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/387/regulation/12) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-a65c9be8fc8da5cb081e3218a9864cb7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/387/regulation/13) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-a65c9be8fc8da5cb081e3218a9864cb7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2006/387/regulation/13) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-8407e28fd1d983a86c0f90740086681d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/387/regulation/14) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-8407e28fd1d983a86c0f90740086681d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2006/387/regulation/14) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-775925928c4bcc89e6f78a679dee6195]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/387/regulation/15) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-775925928c4bcc89e6f78a679dee6195]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2006/387/regulation/15) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-e808e11f43561ed70abf70a3e02f3c5e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/387/regulation/16) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-e808e11f43561ed70abf70a3e02f3c5e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2006/387/regulation/16) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-6a3c01f381c76be800923fb0af7229a3]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/387/regulation/17) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-6a3c01f381c76be800923fb0af7229a3]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2006/387/regulation/17) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-189db5f8c7156b36548a742ada5dd0a4]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/387/regulation/18) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-189db5f8c7156b36548a742ada5dd0a4]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/387/regulation/18) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-9f266656f55ac4a3abfe78ddb1e63af2]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/387/regulation/19) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-9f266656f55ac4a3abfe78ddb1e63af2]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2006/387/regulation/19) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-9902248901955aa68b6b53aec0f88127]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/387/regulation/20) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-9902248901955aa68b6b53aec0f88127]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2006/387/regulation/20) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-07a070ca03095aa84e52bd203a5ff607]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/387/regulation/21) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-07a070ca03095aa84e52bd203a5ff607]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/387/regulation/21) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-e8be6b59d4196bd260bd27956de7f650]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/387/regulation/22) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-e8be6b59d4196bd260bd27956de7f650]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2006/387/regulation/22) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-cbad94d072540f484f13d9e0966160d7]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/387/regulation/23) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-cbad94d072540f484f13d9e0966160d7]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2006/387/regulation/23) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-73d5b28fceeb03c8690ddb2d693de04e]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/387/regulation/24) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-73d5b28fceeb03c8690ddb2d693de04e]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2006/387/regulation/24) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-ab5348caa63d7c4ee0f7743fec798cbb]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/387/regulation/25) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-ab5348caa63d7c4ee0f7743fec798cbb]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/387/regulation/25) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-1c57d99ede5be21969dcfaa2d38b54ea]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/387/regulation/26) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-1c57d99ede5be21969dcfaa2d38b54ea]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2006/387/regulation/26) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-f77662b50eda16affa186b88cb826ce6]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/387/regulation/27) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-f77662b50eda16affa186b88cb826ce6]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2006/387/regulation/27) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-5bc5b99ef167804c2307e6c1fdfe9367]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/387/regulation/28) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-5bc5b99ef167804c2307e6c1fdfe9367]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2006/387/regulation/28) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-39bc8b85c1a0f0be7fd979f2704cfcdf]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/387/regulation/29) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-39bc8b85c1a0f0be7fd979f2704cfcdf]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2006/387/regulation/29) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-33dd221ebb3038a367c3c8495a612886]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2006/387/regulation/30) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-33dd221ebb3038a367c3c8495a612886]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2006/387/regulation/30) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-7e55d78d823a6d80599dba20db19324a]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2006/387/regulation/31) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-7e55d78d823a6d80599dba20db19324a]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2006/387/regulation/31) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-5f37434991cee4c09e03a1eef0c4b494]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2006/387/regulation/32) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-5f37434991cee4c09e03a1eef0c4b494]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2006/387/regulation/32) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-8cc7e8302c9aef5410af5c066b79765c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2006/387/regulation/33) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-8cc7e8302c9aef5410af5c066b79765c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2006/387/regulation/33) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-55bc2f56140febba95a7ce04017f2d7f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2006/387/regulation/34) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-55bc2f56140febba95a7ce04017f2d7f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2006/387/regulation/34) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-877d39214c00d3daa3d53a63e2027c8a]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2006/387/regulation/35) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-877d39214c00d3daa3d53a63e2027c8a]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2006/387/regulation/35) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-0a43681b8d3ffa3cd56e0d870b73e4e7]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2006/387/regulation/36) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-0a43681b8d3ffa3cd56e0d870b73e4e7]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2006/387/regulation/36) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-af01893ed3a490ab4c610c9f9f386f8c]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2006/387/regulation/37) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-af01893ed3a490ab4c610c9f9f386f8c]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2006/387/regulation/37) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-43166865d25c26ba7c375e3db23dc6f6]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2006/387/regulation/38) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-43166865d25c26ba7c375e3db23dc6f6]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2006/387/regulation/38) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-0a84aa53f24b24c87ab9faac04f9af9f]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2006/387/regulation/39) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-0a84aa53f24b24c87ab9faac04f9af9f]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2006/387/regulation/39) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-65b3c80cc34bbee88c5bc8faf705167d]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2006/387/regulation/40) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-65b3c80cc34bbee88c5bc8faf705167d]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2006/387/regulation/40) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-e42137eb03128f0c2b8bd8b5790f12d7]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2006/387/regulation/41) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-e42137eb03128f0c2b8bd8b5790f12d7]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2006/387/regulation/41) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-bcf04db5287c35f319f83a8b8d9f3077]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2006/387/regulation/42) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-bcf04db5287c35f319f83a8b8d9f3077]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2006/387/regulation/42) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-d19459801f5cbe0f555a07eea06b8ca7]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2006/387/regulation/43) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-d19459801f5cbe0f555a07eea06b8ca7]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2006/387/regulation/43) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-2c16cc365b90ee4b43256739200ca0f7]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2006/387/regulation/44) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-2c16cc365b90ee4b43256739200ca0f7]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2006/387/regulation/44) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-94f869a153d2d9f5c1572f1232ca9780]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2006/387/regulation/45) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-94f869a153d2d9f5c1572f1232ca9780]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2006/387/regulation/45) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-9e64d3acff304d10ffd0dc712189beb8]: Textual amendment: Words in [reg. 45(2)(b)](https://www.legislation.gov.uk/nisr/2006/387/regulation/45/2/b) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [33(a)](https://www.legislation.gov.uk/uksi/2019/584/regulation/33/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9e64d3acff304d10ffd0dc712189beb8]: Textual amendment: Words in [reg. 45(2)(b)](https://www.legislation.gov.uk/nisr/2006/387/regulation/45/2/b) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [33(a)](https://www.legislation.gov.uk/uksi/2019/584/regulation/33/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2a77ff42db62594e9989bf6bfc71b977]: Textual amendment: Words in [reg. 45(3)](https://www.legislation.gov.uk/nisr/2006/387/regulation/45/3) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [33(b)](https://www.legislation.gov.uk/uksi/2019/584/regulation/33/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2a77ff42db62594e9989bf6bfc71b977]: Textual amendment: Words in [reg. 45(3)](https://www.legislation.gov.uk/nisr/2006/387/regulation/45/3) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [33(b)](https://www.legislation.gov.uk/uksi/2019/584/regulation/33/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6a06ce547b0533e3a1246425948a749c]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2006/387/regulation/46) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-6a06ce547b0533e3a1246425948a749c]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2006/387/regulation/46) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-98d5ee7b4a8cbea303082ce84629182e]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2006/387/regulation/47) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-98d5ee7b4a8cbea303082ce84629182e]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2006/387/regulation/47) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-e560eb9923c503ccab7db528321e6d8d]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2006/387/regulation/48) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-e560eb9923c503ccab7db528321e6d8d]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2006/387/regulation/48) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-95bd5f8e4a9fcf06af839bc9536b467d]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2006/387/regulation/49) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-95bd5f8e4a9fcf06af839bc9536b467d]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2006/387/regulation/49) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-ee52fc6a11d40e7a40d8fd45fc0c6908]: Textual amendment: [Reg. 49(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2006/387/regulation/49/4/b/ii) and word omitted (31.12.2020) by virtue of [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [34](https://www.legislation.gov.uk/uksi/2019/584/regulation/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee52fc6a11d40e7a40d8fd45fc0c6908]: Textual amendment: [Reg. 49(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2006/387/regulation/49/4/b/ii) and word omitted (31.12.2020) by virtue of [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [34](https://www.legislation.gov.uk/uksi/2019/584/regulation/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-983f59c93b908d2c162108c9701e728c]: Commencement: [Reg. 50](https://www.legislation.gov.uk/nisr/2006/387/regulation/50) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-983f59c93b908d2c162108c9701e728c]: Commencement: [Reg. 50](https://www.legislation.gov.uk/nisr/2006/387/regulation/50) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-3ac0ee6d254c17ad584baa0487455952]: Commencement: [Reg. 51](https://www.legislation.gov.uk/nisr/2006/387/regulation/51) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-3ac0ee6d254c17ad584baa0487455952]: Commencement: [Reg. 51](https://www.legislation.gov.uk/nisr/2006/387/regulation/51) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-e7546a059e14ff0e5ce78a1e285aa3ce]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2006/387/regulation/52) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-e7546a059e14ff0e5ce78a1e285aa3ce]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2006/387/regulation/52) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-3641c29010053c0a1917a1782b400eaa]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2006/387/regulation/53) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-3641c29010053c0a1917a1782b400eaa]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2006/387/regulation/53) in operation at 20.10.2006 with application in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-8f49447d7a2ee58f814c94f53dec7e84]: Textual amendment: Words in [reg. 53](https://www.legislation.gov.uk/nisr/2006/387/regulation/53) inserted (31.12.2018) by [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/5)
+[^c-8f49447d7a2ee58f814c94f53dec7e84]: Textual amendment: Words in [reg. 53](https://www.legislation.gov.uk/nisr/2006/387/regulation/53) inserted (31.12.2018) by [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/5)
 
-[^key-f890932ec86497e1a132f5832c6f62e5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2006/387/schedule/1/paragraph/1) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-f890932ec86497e1a132f5832c6f62e5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2006/387/schedule/1/paragraph/1) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-89b01fbef290383fe5c191d5eda1b46a]: Textual amendment: Sch. 1 para. 1 renumbered as Sch. 1 para. 1(1) (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [35(a)(i)](https://www.legislation.gov.uk/uksi/2019/584/regulation/35/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-89b01fbef290383fe5c191d5eda1b46a]: Textual amendment: Sch. 1 para. 1 renumbered as Sch. 1 para. 1(1) (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [35(a)(i)](https://www.legislation.gov.uk/uksi/2019/584/regulation/35/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6b8c7a2c2aae430ec2300ae15d8ae15f]: Textual amendment: [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/schedule/1/paragraph/1/2) inserted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [35(a)(ii)](https://www.legislation.gov.uk/uksi/2019/584/regulation/35/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b8c7a2c2aae430ec2300ae15d8ae15f]: Textual amendment: [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/schedule/1/paragraph/1/2) inserted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [35(a)(ii)](https://www.legislation.gov.uk/uksi/2019/584/regulation/35/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ae0cb38f8657b7e7121399d255e9b8a3]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2006/387/schedule/1/paragraph/2) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-ae0cb38f8657b7e7121399d255e9b8a3]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2006/387/schedule/1/paragraph/2) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-84ca8c926fcdb3b28e761caf9ac3ec0f]: Textual amendment: [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/nisr/2006/387/schedule/1/paragraph/2/3) inserted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [35(b)](https://www.legislation.gov.uk/uksi/2019/584/regulation/35/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84ca8c926fcdb3b28e761caf9ac3ec0f]: Textual amendment: [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/nisr/2006/387/schedule/1/paragraph/2/3) inserted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [35(b)](https://www.legislation.gov.uk/uksi/2019/584/regulation/35/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-40edd7d6be0f8e8ba8e454dc97843e51]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2006/387/schedule/1/paragraph/3) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-40edd7d6be0f8e8ba8e454dc97843e51]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2006/387/schedule/1/paragraph/3) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-490029acf580350a3ef621d0590c866b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2006/387/schedule/1/paragraph/4) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-490029acf580350a3ef621d0590c866b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2006/387/schedule/1/paragraph/4) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-1f3cdf8a355473b821f4cb3e047849fd]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2006/387/schedule/2) omitted (31.12.2018) by virtue of [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/6)
+[^c-1f3cdf8a355473b821f4cb3e047849fd]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nisr/2006/387/schedule/2) omitted (31.12.2018) by virtue of [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/6)
 
-[^key-474427a4127afa04822e3fb7d01941c4]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2006/387/schedule/3/paragraph/10) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-474427a4127afa04822e3fb7d01941c4]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2006/387/schedule/3/paragraph/10) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-4666f7066d2de1dc6fcbf29887c6f0f0]: Textual amendment: Words in [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2006/387/schedule/3/paragraph/10) omitted (31.12.2018) by virtue of [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/7/a)
+[^c-4666f7066d2de1dc6fcbf29887c6f0f0]: Textual amendment: Words in [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2006/387/schedule/3/paragraph/10) omitted (31.12.2018) by virtue of [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/7/a)
 
-[^key-c7f879fc673aac76a1a2c1dba5b722b2]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nisr/2006/387/schedule/3/paragraph/11) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-c7f879fc673aac76a1a2c1dba5b722b2]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nisr/2006/387/schedule/3/paragraph/11) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-eacd3320ad3f1fa902e752d09cbd5453]: Textual amendment: [Sch. 3 para. 11(a)](https://www.legislation.gov.uk/nisr/2006/387/schedule/3/paragraph/11/a) omitted (31.12.2018) by virtue of [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/7/b)
+[^c-eacd3320ad3f1fa902e752d09cbd5453]: Textual amendment: [Sch. 3 para. 11(a)](https://www.legislation.gov.uk/nisr/2006/387/schedule/3/paragraph/11/a) omitted (31.12.2018) by virtue of [The Environmental Noise (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/190)](https://www.legislation.gov.uk/nisr/2018/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/190/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2018/190/regulation/2/7/b)
 
-[^key-07512ca2ceb21ab90673d21441a1c6aa]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nisr/2006/387/schedule/3/paragraph/12) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-07512ca2ceb21ab90673d21441a1c6aa]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nisr/2006/387/schedule/3/paragraph/12) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-6a03ec2f10d6c6cc47c4f52315515de5]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/nisr/2006/387/schedule/3/paragraph/13) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-6a03ec2f10d6c6cc47c4f52315515de5]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/nisr/2006/387/schedule/3/paragraph/13) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-a2721cf43961f841db578da3ec6afdd9]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/nisr/2006/387/schedule/3/paragraph/14) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-a2721cf43961f841db578da3ec6afdd9]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/nisr/2006/387/schedule/3/paragraph/14) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
 
-[^key-12651583e1310b471bd0a55105df074b]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/nisr/2006/387/schedule/4/paragraph/15) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)
+[^c-12651583e1310b471bd0a55105df074b]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/nisr/2006/387/schedule/4/paragraph/15) in operation at 20.10.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/387/regulation/1/2)

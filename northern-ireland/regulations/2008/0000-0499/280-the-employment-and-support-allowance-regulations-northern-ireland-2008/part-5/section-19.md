@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Determination of limited capability for work[^key-e6534551e48fcb28538deeb2ec3018bf]
+## 19. Determination of limited capability for work[^c-e6534551e48fcb28538deeb2ec3018bf]
 
 *Extent: N.I.*
 
@@ -24,26 +24,26 @@ summary: ''
 
 (2) The limited capability for work assessment is an assessment of the extent to which a claimant who has some specific disease or bodily or mental disablement is capable of performing the activities prescribed in Schedule 2 or is incapable by reason of such disease or bodily or mental disablement of performing those activities.
 
-(3) Subject to paragraph (6), for the purposes of Part 1 of the Act a claimant has limited capability for work if, by adding the points listed in column (3) of Schedule 2 against each descriptor[^key-130ec80b74efb74a42e6f261a8868c6c] listed in that Schedule which applies in the claimant's case[^key-6b5a36f0ec711e85d9bc3a415a9f9372] , the claimant obtains a total score of at least—
+(3) Subject to paragraph (6), for the purposes of Part 1 of the Act a claimant has limited capability for work if, by adding the points listed in column (3) of Schedule 2 against each descriptor[^c-130ec80b74efb74a42e6f261a8868c6c] listed in that Schedule which applies in the claimant's case[^c-6b5a36f0ec711e85d9bc3a415a9f9372] , the claimant obtains a total score of at least—
 
 - (a) 15 points whether singly or by a combination of descriptors specified in Part 1 of that Schedule;
 - (b) 15 points whether singly or by a combination of descriptors specified in Part 2 of that Schedule; or
 - (c) 15 points by a combination of descriptors specified in Parts 1 and 2 of that Schedule.
 
-(4)[^key-bdfa37587a3098989f4fe7ec5b306ba5] In assessing the extent of a claimant's capability to perform any activity listed in Part 1 of Schedule 2, the claimant is to be assessed as if—
+(4)[^c-bdfa37587a3098989f4fe7ec5b306ba5] In assessing the extent of a claimant's capability to perform any activity listed in Part 1 of Schedule 2, the claimant is to be assessed as if—
 
 - (a) fitted with or wearing any prosthesis with which the claimant is normally fitted or normally wears; or, as the case may be,
 - (b) wearing or using any aid or appliance which is normally, or could reasonably be expected to be, worn or used.
 
-(5)[^key-f7f3e4b068cc600933d2b25b3320d99b] In assessing the extent of a claimant's capability to perform any activity listed in Schedule 2, it is a condition that the claimant's incapability to perform the activity arises—
+(5)[^c-f7f3e4b068cc600933d2b25b3320d99b] In assessing the extent of a claimant's capability to perform any activity listed in Schedule 2, it is a condition that the claimant's incapability to perform the activity arises—
 
 - (a) in respect of any descriptor listed in Part 1 of Schedule 2, from a specific bodily disease or disablement;
 - (b) in respect of any descriptor listed in Part 2 of Schedule 2, from a specific mental illness or disablement; or
 - (c) in respect of any descriptor or descriptors listed in—
-  - (i) Part 1 of Schedule 2, as a direct result of treatment provided by a registered medical practitioner for a specific physical disease or disablement or[^key-3f0dd3a702966417286c71a885a37be5] ;
+  - (i) Part 1 of Schedule 2, as a direct result of treatment provided by a registered medical practitioner for a specific physical disease or disablement or[^c-3f0dd3a702966417286c71a885a37be5] ;
   - (ii) Part 2 of Schedule 2, as a direct result of treatment provided by a registered medical practitioner for a specific mental illness or disablement.
 
-(6) Where more than one descriptor specified for an activity applies[^key-1fd1176ebb5c3dbf42d9c0ad3845de23] to a claimant, only the descriptor with the highest score in respect of each activity which applies is to be counted.
+(6) Where more than one descriptor specified for an activity applies[^c-1fd1176ebb5c3dbf42d9c0ad3845de23] to a claimant, only the descriptor with the highest score in respect of each activity which applies is to be counted.
 
 (7) Where a claimant—
 
@@ -60,16 +60,16 @@ the Department may, if paragraph (8) applies, determine afresh whether the claim
 
 ## Annotations
 
-[^key-e6534551e48fcb28538deeb2ec3018bf]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2008/280/regulation/19) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-e6534551e48fcb28538deeb2ec3018bf]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2008/280/regulation/19) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-130ec80b74efb74a42e6f261a8868c6c]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/19/3) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(6)(a)(i)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/6/a/i)
+[^c-130ec80b74efb74a42e6f261a8868c6c]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/19/3) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(6)(a)(i)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/6/a/i)
 
-[^key-6b5a36f0ec711e85d9bc3a415a9f9372]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/19/3) inserted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(6)(a)(ii)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/6/a/ii)
+[^c-6b5a36f0ec711e85d9bc3a415a9f9372]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/nisr/2008/280/regulation/19/3) inserted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(6)(a)(ii)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/6/a/ii)
 
-[^key-bdfa37587a3098989f4fe7ec5b306ba5]: Textual amendment: [Reg. 19(4)](https://www.legislation.gov.uk/nisr/2008/280/regulation/19/4) substituted (with application in accordance with reg. 2 of the amending Rule) by [The Employment and Support Allowance (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/2)](https://www.legislation.gov.uk/nisr/2013/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/2/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2013/2/regulation/3/2/a)
+[^c-bdfa37587a3098989f4fe7ec5b306ba5]: Textual amendment: [Reg. 19(4)](https://www.legislation.gov.uk/nisr/2008/280/regulation/19/4) substituted (with application in accordance with reg. 2 of the amending Rule) by [The Employment and Support Allowance (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/2)](https://www.legislation.gov.uk/nisr/2013/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/2/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/nisr/2013/2/regulation/3/2/a)
 
-[^key-f7f3e4b068cc600933d2b25b3320d99b]: Textual amendment: [Reg. 19(5)](https://www.legislation.gov.uk/nisr/2008/280/regulation/19/5) substituted (with application in accordance with reg. 2 of the amending Rule) by [The Employment and Support Allowance (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/2)](https://www.legislation.gov.uk/nisr/2013/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/2/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2013/2/regulation/3/2/b)
+[^c-f7f3e4b068cc600933d2b25b3320d99b]: Textual amendment: [Reg. 19(5)](https://www.legislation.gov.uk/nisr/2008/280/regulation/19/5) substituted (with application in accordance with reg. 2 of the amending Rule) by [The Employment and Support Allowance (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/2)](https://www.legislation.gov.uk/nisr/2013/2), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/2/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/nisr/2013/2/regulation/3/2/b)
 
-[^key-3f0dd3a702966417286c71a885a37be5]: Textual amendment: Word in [reg. 19(5)(c)(i)](https://www.legislation.gov.uk/nisr/2008/280/regulation/19/5/c/i) inserted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(6)(b)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/6/b)
+[^c-3f0dd3a702966417286c71a885a37be5]: Textual amendment: Word in [reg. 19(5)(c)(i)](https://www.legislation.gov.uk/nisr/2008/280/regulation/19/5/c/i) inserted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(6)(b)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/6/b)
 
-[^key-1fd1176ebb5c3dbf42d9c0ad3845de23]: Textual amendment: Word in [reg. 19(6)](https://www.legislation.gov.uk/nisr/2008/280/regulation/19/6) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(6)(c)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/6/c)
+[^c-1fd1176ebb5c3dbf42d9c0ad3845de23]: Textual amendment: Word in [reg. 19(6)](https://www.legislation.gov.uk/nisr/2008/280/regulation/19/6) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(6)(c)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/6/c)

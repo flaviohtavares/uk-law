@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Rights and liabilities may arise between the Crown in right of Her Majesty's Government in the United Kingdom and the Crown in right of the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government by virtue of a contract, by operation of law or by virtue of an enactment as they may arise between subjects.
+(1) Rights and liabilities may arise between the Crown in right of Her Majesty's Government in the United Kingdom and the Crown in right of the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government by virtue of a contract, by operation of law or by virtue of an enactment as they may arise between subjects.
 
 (2) Property, rights and liabilities may be transferred between the Crown in one of those capacities and the Crown in the other capacity as they may be transferred between subjects; and they may together create, vary or extinguish any property, rights or liabilities as subjects may.
 
@@ -31,13 +31,13 @@ summary: ''
 
 may be instituted by the Crown in either capacity; and the Crown in the other capacity may be a separate party in the proceedings.
 
-(4) This section applies to the Crown in right of a devolved administration (other than the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government) as it applies to the Crown in right of Her Majesty's Government in the United Kingdom.
+(4) This section applies to the Crown in right of a devolved administration (other than the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government) as it applies to the Crown in right of Her Majesty's Government in the United Kingdom.
 
 (5) In this section “**office-holder**” means—
 
 - (a) in relation to the Crown in right of Her Majesty's Government in the United Kingdom, any Minister of the Crown or other office-holder under the Crown in that capacity,
-- (b) in relation to the Crown in right of the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government, the First Minister, a Welsh Minister appointed under section 48 or the Counsel General, and
-- (c) in relation to the Crown in right of a devolved administration other than the Welsh [^key-546c29ecf72928d40cb76993691cfad4]... Government, an office-holder in that administration;
+- (b) in relation to the Crown in right of the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government, the First Minister, a Welsh Minister appointed under section 48 or the Counsel General, and
+- (c) in relation to the Crown in right of a devolved administration other than the Welsh [^c-546c29ecf72928d40cb76993691cfad4]... Government, an office-holder in that administration;
 
 and “**subject**” means a person not acting on behalf of the Crown.
 
@@ -45,4 +45,4 @@ and “**subject**” means a person not acting on behalf of the Crown.
 
 [^c16527251]: Commencement: Ss. 1-94, 97-106 in force immediately after "the 2007 election" by s. 161(1) (subject to s. 161(4)(5))
 
-[^key-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))
+[^c-546c29ecf72928d40cb76993691cfad4]: Textual amendment: Words in Act omitted (17.2.2015) by virtue of [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [s. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/2/a) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/4/3))

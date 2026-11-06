@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Duty to notify changes of circumstances[^key-437b848461bb89cbe509ac62275ea1a7]
+## 31. Duty to notify changes of circumstances[^c-437b848461bb89cbe509ac62275ea1a7]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-437b848461bb89cbe509ac62275ea1a7]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2021/249/regulation/31) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-437b848461bb89cbe509ac62275ea1a7]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2021/249/regulation/31) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

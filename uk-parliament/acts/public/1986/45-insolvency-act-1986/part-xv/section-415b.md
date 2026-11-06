@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 415B. Monetary limits (company moratorium)[^key-9da60de05f4a838412861d984643a4ac]
+## 415B. Monetary limits (company moratorium)[^c-9da60de05f4a838412861d984643a4ac]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9da60de05f4a838412861d984643a4ac]: Textual amendment: S. 415B inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/24) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-9da60de05f4a838412861d984643a4ac]: Textual amendment: S. 415B inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/24) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 453 and 459(2) of the Proceeds of Crime Act 2002[^f00001]:
 
-## 1. Citation, commencement and interpretation[^key-edd17698b99917fa3f51c9cc343fb676]
+## 1. Citation, commencement and interpretation[^c-edd17698b99917fa3f51c9cc343fb676]
 
 (1) This Order may be cited as the Proceeds of Crime Act 2002 (References to Financial Investigators) Order 2009 and shall come into force on 12th May 2009.
 
@@ -79,11 +79,11 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - “the Royal Mail” means the company Royal Mail Group Plc (registered number 4138203);
 - and “SOCA” means the Serious Organised Crime Agency established under section 1 of and Schedule 1 to the Serious Organised Crime and Police Act 2005[^f00008].
 
-## 2. Reference to an accredited financial investigator[^key-b6d4c675b9f0f52293a725e1ed6f5206]
+## 2. Reference to an accredited financial investigator[^c-b6d4c675b9f0f52293a725e1ed6f5206]
 
 A reference to an accredited financial investigator in the Proceeds of Crime Act 2002 which is specified in column 1 of Schedule 1 to this Order is a reference to an accredited financial investigator who falls within the description specified in relation to that reference in column 2 of Schedule 1 to this Order.
 
-## 3. Revocation[^key-27cb78f3e3eb85765510058bf8b2086d]
+## 3. Revocation[^c-27cb78f3e3eb85765510058bf8b2086d]
 
 The Orders specified in Schedule 2 to this Order are revoked to the extent there specified.
 
@@ -93,7 +93,7 @@ Parliamentary Under Secretary of State
 
 Home Office
 
-## SCHEDULE 1[^key-f061fe19cee90250d591ee0ad5fe94dc]
+## SCHEDULE 1[^c-f061fe19cee90250d591ee0ad5fe94dc]
 
 Article 2
 
@@ -493,7 +493,7 @@ Article 2
 |  | - (i) SOCA and is not below the grade of grade 2 Senior Manager; or |
 |  | - (i) the Vehicle and Operator Services Agency and is not below grade 7. |
 
-## SCHEDULE 2 — Orders Revoked[^key-2bb8ead6bf5e16b1902c131192273f34]
+## SCHEDULE 2 — Orders Revoked[^c-2bb8ead6bf5e16b1902c131192273f34]
 
 Article 3
 
@@ -529,7 +529,7 @@ Column 2 of Schedule 1 specifies a number of additional bodies whose members are
 
 [^f00001]: Footnote: [2002 c.29](https://www.legislation.gov.uk/ukpga/2002/29). Section 453(2) has been amended by section 81(1) of the Serious Crime Act [2007 (c.27)](https://www.legislation.gov.uk/ukpga/2007/27).
 
-[^key-edd17698b99917fa3f51c9cc343fb676]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/975/article/1) in force at 12.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/975/article/1/1)
+[^c-edd17698b99917fa3f51c9cc343fb676]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/975/article/1) in force at 12.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/975/article/1/1)
 
 [^f00002]: Footnote: [1971 c.77](https://www.legislation.gov.uk/ukpga/1971/77).
 
@@ -545,11 +545,11 @@ Column 2 of Schedule 1 specifies a number of additional bodies whose members are
 
 [^f00008]: Footnote: [2005 (c.16)](https://www.legislation.gov.uk/ukpga/2005/16).
 
-[^key-b6d4c675b9f0f52293a725e1ed6f5206]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/975/article/2) in force at 12.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/975/article/1/1)
+[^c-b6d4c675b9f0f52293a725e1ed6f5206]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/975/article/2) in force at 12.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/975/article/1/1)
 
-[^key-27cb78f3e3eb85765510058bf8b2086d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/975/article/3) in force at 12.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/975/article/1/1)
+[^c-27cb78f3e3eb85765510058bf8b2086d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/975/article/3) in force at 12.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/975/article/1/1)
 
-[^key-f061fe19cee90250d591ee0ad5fe94dc]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2009/975/schedule/1) in force at 12.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/975/article/1/1)
+[^c-f061fe19cee90250d591ee0ad5fe94dc]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2009/975/schedule/1) in force at 12.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/975/article/1/1)
 
 [^f00009]: Footnote: The Counter Fraud and Security Management Service is part of the National Health Service.
 
@@ -609,4 +609,4 @@ Column 2 of Schedule 1 specifies a number of additional bodies whose members are
 
 [^f00037]: Footnote: The Intellectual Property Office is an executive agency of the Department for Innovation, Universities and Skills.
 
-[^key-2bb8ead6bf5e16b1902c131192273f34]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2009/975/schedule/2) in force at 12.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/975/article/1/1)
+[^c-2bb8ead6bf5e16b1902c131192273f34]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2009/975/schedule/2) in force at 12.5.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/975/article/1/1)

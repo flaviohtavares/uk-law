@@ -33,14 +33,14 @@ of 6 December 2018
 
 on the appointment of the Chair of the ECB Supervisory Board (revoked)
 
-[^key-9db2bf392b28cd29efae0c9716216fd4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9db2bf392b28cd29efae0c9716216fd4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-9db2bf392b28cd29efae0c9716216fd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9db2bf392b28cd29efae0c9716216fd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9db2bf392b28cd29efae0c9716216fd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9db2bf392b28cd29efae0c9716216fd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9db2bf392b28cd29efae0c9716216fd4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9db2bf392b28cd29efae0c9716216fd4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9db2bf392b28cd29efae0c9716216fd4]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(o)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/o); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9db2bf392b28cd29efae0c9716216fd4]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(o)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/o); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

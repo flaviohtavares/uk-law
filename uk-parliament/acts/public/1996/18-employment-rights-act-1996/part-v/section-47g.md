@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47G. Employee shareholder status[^key-e57c38d3110e695cd6e4f5d89c944092]
+## 47G. Employee shareholder status[^c-e57c38d3110e695cd6e4f5d89c944092]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e57c38d3110e695cd6e4f5d89c944092]: Textual amendment: S. 47G inserted (1.9.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/31/2), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 2](https://www.legislation.gov.uk/uksi/2013/1766/article/2)
+[^c-e57c38d3110e695cd6e4f5d89c944092]: Textual amendment: S. 47G inserted (1.9.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/31/2), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 2](https://www.legislation.gov.uk/uksi/2013/1766/article/2)

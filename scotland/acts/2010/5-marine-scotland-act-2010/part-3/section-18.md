@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Powers of the Court of Session on an application under section 17[^key-d6c8249f9d49cd83eac6b8f05d22d986]
+## 18. Powers of the Court of Session on an application under section 17[^c-d6c8249f9d49cd83eac6b8f05d22d986]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ and an interim order has effect until the proceedings are finally determined.
 
 ## Annotations
 
-[^key-d6c8249f9d49cd83eac6b8f05d22d986]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2010/5/section/18) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-d6c8249f9d49cd83eac6b8f05d22d986]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2010/5/section/18) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)

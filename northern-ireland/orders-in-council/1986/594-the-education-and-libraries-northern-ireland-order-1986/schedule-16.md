@@ -62,7 +62,7 @@ Articles 105(4), 106(2).
 
 ### PART II — MODIFICATIONS OF SCHEDULE 6 TO THE LOCAL GOVERNMENT ACT (NORTHERN IRELAND) 1972 FOR THE PURPOSES OF ARTICLE 106(2)
 
-**1.** For any reference to a council or the council or the clerk of the council there shall be substituted a reference to the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] [^M_F_3b458e5d-8cac-444c-e0c1-53c61b7e1137]... or the chief executive[^c17011211] of the Authority respectively.
+**1.** For any reference to a council or the council or the clerk of the council there shall be substituted a reference to the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] [^M_F_3b458e5d-8cac-444c-e0c1-53c61b7e1137]... or the chief executive[^c17011211] of the Authority respectively.
 
 **2.** For any reference to the Ministry concerned there shall be substituted a reference to the Department.
 
@@ -78,7 +78,7 @@ Articles 105(4), 106(2).
 
 ## Annotations
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^M_F_3b458e5d-8cac-444c-e0c1-53c61b7e1137]: Textual amendment: Words in Sch. 16 Pt. II para. 1 repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Effect of arrangements under section 1[^key-cc5356cf7436877b75ac29f9c014e428]
+## 3. Effect of arrangements under section 1[^c-cc5356cf7436877b75ac29f9c014e428]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc5356cf7436877b75ac29f9c014e428]: Commencement: S. 3 in force at 16.2.2009 for E. by [S.I. 2009/323](https://www.legislation.gov.uk/uksi/2009/323), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/323/article/2/b)
+[^c-cc5356cf7436877b75ac29f9c014e428]: Commencement: S. 3 in force at 16.2.2009 for E. by [S.I. 2009/323](https://www.legislation.gov.uk/uksi/2009/323), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/323/article/2/b)

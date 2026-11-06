@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32B. Scottish upper rate codes[^key-9b6fe7b8f410ec9bfb760b03647e2a42]
+## 32B. Scottish upper rate codes[^c-9b6fe7b8f410ec9bfb760b03647e2a42]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b6fe7b8f410ec9bfb760b03647e2a42]: Textual amendment: [Reg. 32B](https://www.legislation.gov.uk/uksi/2003/2682/regulation/32B) inserted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2018 (S.I. 2018/267)](https://www.legislation.gov.uk/uksi/2018/267), [regs. 1](https://www.legislation.gov.uk/uksi/2018/267/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/267/regulation/6)
+[^c-9b6fe7b8f410ec9bfb760b03647e2a42]: Textual amendment: [Reg. 32B](https://www.legislation.gov.uk/uksi/2003/2682/regulation/32B) inserted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2018 (S.I. 2018/267)](https://www.legislation.gov.uk/uksi/2018/267), [regs. 1](https://www.legislation.gov.uk/uksi/2018/267/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/267/regulation/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Age of sale notice at point of sale: England[^key-2e9ac9153a62b9f55255667092c4ebfa][^key-9cfe9c0a61888b9b31c0e16d0889ef51]
+## 5. Age of sale notice at point of sale: England[^c-2e9ac9153a62b9f55255667092c4ebfa][^c-9cfe9c0a61888b9b31c0e16d0889ef51]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e9ac9153a62b9f55255667092c4ebfa]: Commencement: S. 5 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-2e9ac9153a62b9f55255667092c4ebfa]: Commencement: S. 5 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-9cfe9c0a61888b9b31c0e16d0889ef51]: Commencement: S. 5 in force at 1.1.2027 in so far as not already in force, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)
+[^c-9cfe9c0a61888b9b31c0e16d0889ef51]: Commencement: S. 5 in force at 1.1.2027 in so far as not already in force, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Projecting trailers and vehicles carrying overhanging or projecting loads or equipment[^key-72b1113a7d69e846478352400c74e3c0]
+## 24. Projecting trailers and vehicles carrying overhanging or projecting loads or equipment[^c-72b1113a7d69e846478352400c74e3c0]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ in either case under the conditions specified in an item in column 2 of the Tabl
 
 ## Annotations
 
-[^key-72b1113a7d69e846478352400c74e3c0]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2000/169/regulation/24) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-72b1113a7d69e846478352400c74e3c0]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2000/169/regulation/24) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

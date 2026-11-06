@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Simplification of the consultation process for the Mayor's strategies[^key-764807910a319d1ccbea0ff243d6f973]
+## 228. Simplification of the consultation process for the Mayor's strategies[^c-764807910a319d1ccbea0ff243d6f973]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-764807910a319d1ccbea0ff243d6f973]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2011/20/section/228) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-764807910a319d1ccbea0ff243d6f973]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2011/20/section/228) in force at 3.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

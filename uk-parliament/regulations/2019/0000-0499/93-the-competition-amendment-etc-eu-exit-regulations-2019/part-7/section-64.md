@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64.[^key-995de3d778b2ee36162e1f2520ec6b4b]
+## 64.[^c-995de3d778b2ee36162e1f2520ec6b4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 (which makes saving and transitional provision) has effect.
 
 ## Annotations
 
-[^key-995de3d778b2ee36162e1f2520ec6b4b]: Commencement: Reg. 64 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-995de3d778b2ee36162e1f2520ec6b4b]: Commencement: Reg. 64 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)

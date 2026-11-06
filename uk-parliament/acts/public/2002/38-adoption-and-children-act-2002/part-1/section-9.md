@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. General power to regulate adoption etc. agencies[^key-1b44b0f7943621a8b2dc968aa2d984f1][^key-d4cb34889b222699722196aa9fd611ea]
+## 9. General power to regulate adoption etc. agencies[^c-1b44b0f7943621a8b2dc968aa2d984f1][^c-d4cb34889b222699722196aa9fd611ea]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b44b0f7943621a8b2dc968aa2d984f1]: Commencement: S. 9 in force at 7.2.2004 for W. by [S.I. 2004/252](https://www.legislation.gov.uk/uksi/2004/252), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/252/article/2/b)
+[^c-1b44b0f7943621a8b2dc968aa2d984f1]: Commencement: S. 9 in force at 7.2.2004 for W. by [S.I. 2004/252](https://www.legislation.gov.uk/uksi/2004/252), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/252/article/2/b)
 
-[^key-d4cb34889b222699722196aa9fd611ea]: Commencement: S. 9 in force at 7.12.2004 for E. by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/c)
+[^c-d4cb34889b222699722196aa9fd611ea]: Commencement: S. 9 in force at 7.12.2004 for E. by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/c)

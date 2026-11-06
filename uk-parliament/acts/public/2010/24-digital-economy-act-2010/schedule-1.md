@@ -24,7 +24,7 @@ Section 41
 
 **1.** The Video Recordings Act 1984 is amended as follows.
 
-**2.**[^key-5044eb4d3383ade31c74957d72880e27] (1) Section 4 (authority to determine suitability of video works for classification) is amended as follows.
+**2.**[^c-5044eb4d3383ade31c74957d72880e27] (1) Section 4 (authority to determine suitability of video works for classification) is amended as follows.
 
 (2) In subsection (1)(b)—
 
@@ -66,11 +66,11 @@ Section 41
   >
   > (but see also section 4ZA(2)).
 
-**3.**[^key-7bd27a2123ff9310cd784ba61d953908] In section 7 (classification certificates), at the end insert—
+**3.**[^c-7bd27a2123ff9310cd784ba61d953908] In section 7 (classification certificates), at the end insert—
 
 > (3) For the purposes of this Act, a video work is not a video work in respect of which a classification certificate has been issued if every classification certificate issued in respect of the video work has been revoked.
 
-**4.**[^key-0fe882a2d7ee8969a8d888778a8bcb09] After that section insert—
+**4.**[^c-0fe882a2d7ee8969a8d888778a8bcb09] After that section insert—
 
 > **7A. Classification certificates for particular video recordings**
 >
@@ -80,7 +80,7 @@ Section 41
 
 **5.** In section 8 (requirements as to labelling etc), omit subsections (2) and (3).
 
-**6.**[^key-3b0c5490b1bd49640980fd1b5673362c] (1) Section 11 (supplying video recording of classified work in breach of classification) is amended as follows.
+**6.**[^c-3b0c5490b1bd49640980fd1b5673362c] (1) Section 11 (supplying video recording of classified work in breach of classification) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -99,7 +99,7 @@ Section 41
 
 .
 
-**7.**[^key-848ac98e0aa940756d355061df939ce6] (1) Section 12 (certain video recordings only to be supplied in licensed sex shops) is amended as follows.
+**7.**[^c-848ac98e0aa940756d355061df939ce6] (1) Section 12 (certain video recordings only to be supplied in licensed sex shops) is amended as follows.
 
 (2) In subsections (1) and (3)—
 
@@ -111,7 +111,7 @@ Section 41
 - (a) for “containing” substitute “ , or no video recording described in the certificate, that contains ”, and
 - (b) for “a video recording containing that work” substitute “ such a video recording ”.
 
-**8.**[^key-dc6f679971a1759bb67174b25b5ca184] (1) Section 13 (supplying video recording not complying with requirements as to labels etc) is amended as follows.
+**8.**[^c-dc6f679971a1759bb67174b25b5ca184] (1) Section 13 (supplying video recording not complying with requirements as to labels etc) is amended as follows.
 
 (2) In subsection (1), after “unless” insert—
 
@@ -126,7 +126,7 @@ Section 41
 
 .
 
-**9.**[^key-583b07a0684339c8a1ef48a098adf65c] (1) Section 14 (supplying video recording containing false indication as to classification) is amended as follows.
+**9.**[^c-583b07a0684339c8a1ef48a098adf65c] (1) Section 14 (supplying video recording containing false indication as to classification) is amended as follows.
 
 (2) In subsection (1), after “unless” insert—
 
@@ -158,7 +158,7 @@ Section 41
 
 **10.**[^c2030856] (1) Section 22 (other interpretation) is amended as follows.
 
-(2)[^key-f1d1054e5addde1ced941bcf5c61da61] In subsection (1), at the end insert—
+(2)[^c-f1d1054e5addde1ced941bcf5c61da61] In subsection (1), at the end insert—
 
 > “video games authority” and “video works authority” have the meaning given in section 4ZA.
 
@@ -187,20 +187,20 @@ Section 41
 
 ## Annotations
 
-[^key-5044eb4d3383ade31c74957d72880e27]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/2) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
+[^c-5044eb4d3383ade31c74957d72880e27]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/2) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
 
-[^key-7bd27a2123ff9310cd784ba61d953908]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/3) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
+[^c-7bd27a2123ff9310cd784ba61d953908]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/3) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
 
-[^key-0fe882a2d7ee8969a8d888778a8bcb09]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/4) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
+[^c-0fe882a2d7ee8969a8d888778a8bcb09]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/4) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
 
-[^key-3b0c5490b1bd49640980fd1b5673362c]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/6) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
+[^c-3b0c5490b1bd49640980fd1b5673362c]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/6) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
 
-[^key-848ac98e0aa940756d355061df939ce6]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/7) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
+[^c-848ac98e0aa940756d355061df939ce6]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/7) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
 
-[^key-dc6f679971a1759bb67174b25b5ca184]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/8) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
+[^c-dc6f679971a1759bb67174b25b5ca184]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/8) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
 
-[^key-583b07a0684339c8a1ef48a098adf65c]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/9) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
+[^c-583b07a0684339c8a1ef48a098adf65c]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/9) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
 
 [^c2030856]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/10) partly in force; [Sch.1 para. 10(1)(3)(4)](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/10/1/3/4) in force at 8.6.2010 see [s. 47(1)(3)(c)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1/3/c)
 
-[^key-f1d1054e5addde1ced941bcf5c61da61]: Commencement: [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/10/2) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)
+[^c-f1d1054e5addde1ced941bcf5c61da61]: Commencement: [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/ukpga/2010/24/schedule/1/paragraph/10/2) in force at 1.5.2012 by [S.I. 2012/1164](https://www.legislation.gov.uk/uksi/2012/1164), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1164/article/2/b)

@@ -62,16 +62,16 @@ and references in this subsection and subsection (3A) below to a dwelling includ
 
 (7A)[^c776352] For the purposes of the [^c776353] Limitation Act 1939 a person’s right of action to recover a home loss payment shall be deemed to have accrued on the date of displacement.
 
-(7B)[^key-0a8002b936c336bbe50b4236ad12a283][^c776354] Where a landlord obtains possession by agreement of a dwelling subject to a secure tenancy within the meaning of Part IV of the Housing Act 1985 and—
+(7B)[^c-0a8002b936c336bbe50b4236ad12a283][^c776354] Where a landlord obtains possession by agreement of a dwelling subject to a secure tenancy within the meaning of Part IV of the Housing Act 1985 and—
 
 - (a) notice of proceedings for possession of the dwelling has been served, or might have been served, specifying ground 10 or 10A in Part II of Schedule 2 to that Act, or
-- (b) the landlord has applied, or could apply, to the Secretary of State or the Regulator of Social Housing[^key-5b0ca5eeafa7c474167924f9dddd9cdf] [^c776355]. . . for approval for the purposes of ground 10A of a redevelopment scheme including the dwelling, or part of it,
+- (b) the landlord has applied, or could apply, to the Secretary of State or the Regulator of Social Housing[^c-5b0ca5eeafa7c474167924f9dddd9cdf] [^c776355]. . . for approval for the purposes of ground 10A of a redevelopment scheme including the dwelling, or part of it,
 
 the landlord may make to any person giving up possession or occupation[^c776356] a payment corresponding to any home loss payment or discretionary payment which they would be required or authorised to make to him if an order for possession had been made on either of those grounds.
 
 *Extent: W*
 
-(7C)[^key-531f2bcd926fc3dbe1d40088e481bf6c] Where a landlord obtains possession by agreement of a dwelling in Wales subject to a tenancy which is a secure contract and—
+(7C)[^c-531f2bcd926fc3dbe1d40088e481bf6c] Where a landlord obtains possession by agreement of a dwelling in Wales subject to a tenancy which is a secure contract and—
 
 - (a) notice of proceedings for possession of the dwelling has been served, or might have been served, specifying ground A or ground B of the estate management grounds in Part 1 of Schedule 8 to the Renting Homes (Wales) Act 2016 (anaw 1), or
 - (b) the landlord has applied, or could apply, to the Welsh Ministers for approval for the purposes of estate management ground B of a scheme for the disposal and redevelopment of an area of land consisting of or including the whole or part of the dwelling,
@@ -98,17 +98,17 @@ the landlord may make to any person giving up possession or occupation a payment
 
 [^c776353]: Marginal citation: [1939 c. 21](https://www.legislation.gov.uk/ukpga/1939/21).
 
-[^key-0a8002b936c336bbe50b4236ad12a283]: Modification: S. 32(7B) modified (1.12.2008) by [Transfer of Housing Corporation Functions (Modifications and Transitional Provisions) Order 2008 (S.I. 2008/2839)](https://www.legislation.gov.uk/uksi/2008/2839), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2839/article/1/1), [3](https://www.legislation.gov.uk/uksi/2008/2839/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2008/2839/schedule/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/2839/article/6))
+[^c-0a8002b936c336bbe50b4236ad12a283]: Modification: S. 32(7B) modified (1.12.2008) by [Transfer of Housing Corporation Functions (Modifications and Transitional Provisions) Order 2008 (S.I. 2008/2839)](https://www.legislation.gov.uk/uksi/2008/2839), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2839/article/1/1), [3](https://www.legislation.gov.uk/uksi/2008/2839/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2008/2839/schedule/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/2839/article/6))
 
 [^c776354]: Textual amendment: S. 32(7B) inserted by [Housing and Planning Act 1986 (c. 63, SIF 61)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 9(4)](https://www.legislation.gov.uk/ukpga/1986/63/section/9/4)
 
-[^key-5b0ca5eeafa7c474167924f9dddd9cdf]: Textual amendment: Words in s. 32(7B)(b) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/5) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-5b0ca5eeafa7c474167924f9dddd9cdf]: Textual amendment: Words in s. 32(7B)(b) substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/5) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c776355]: Textual amendment: Words in s. 32(7B)(b) repealed (1.11.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. VI](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/VI) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 5](https://www.legislation.gov.uk/uksi/1998/2244/article/5)
 
 [^c776356]: Textual amendment: Words in s. 32(7B) substituted (25.09.1991 subject to the restrictions referred to in [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4)) by [Planning and Compensation Act 1991 (c. 34, SIF 28:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 70](https://www.legislation.gov.uk/ukpga/1991/34/section/70), [Sch. 15 para. 23](https://www.legislation.gov.uk/ukpga/1991/34/schedule/15/paragraph/23) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3).
 
-[^key-531f2bcd926fc3dbe1d40088e481bf6c]: Textual amendment: [S. 32(7C)](https://www.legislation.gov.uk/ukpga/1973/26/section/32/7C) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [7(3)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/7/3)
+[^c-531f2bcd926fc3dbe1d40088e481bf6c]: Textual amendment: [S. 32(7C)](https://www.legislation.gov.uk/ukpga/1973/26/section/32/7C) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [7(3)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/7/3)
 
 [^c776359]: Textual amendment: S. 32(8) repealed by [Local Government, Planning and Land Act 1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65), [Sch. 34 Pt XII](https://www.legislation.gov.uk/ukpga/1980/65/schedule/34)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Transitional provision – requests for information or intelligence received before commencement day[^key-2ad92c093bd99d9bec73ea23bb6bbdc2]
+## 44. Transitional provision – requests for information or intelligence received before commencement day[^c-2ad92c093bd99d9bec73ea23bb6bbdc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,10 +25,10 @@ summary: ''
 - (a) a request referred to in regulation 54(1) of the CJDP Regulations (duty to provide information or intelligence) was made to a UK competent authority before commencement day, and
 - (b) the information or intelligence was not provided before commencement day.
 
-(2) The following provisions of the CJDP Regulations continue to have effect in relation to the request, subject to the modification in paragraph (3) (and see Article 63(1)(d) and Title VII of Part 3 of the withdrawal agreement, Article 52(b) and Title IV of Part 3 of the EEA EFTA separation agreement and sections 7A to 7C of the Withdrawal Act)[^key-a1452560c2206452f991d938d03a4a39]—
+(2) The following provisions of the CJDP Regulations continue to have effect in relation to the request, subject to the modification in paragraph (3) (and see Article 63(1)(d) and Title VII of Part 3 of the withdrawal agreement, Article 52(b) and Title IV of Part 3 of the EEA EFTA separation agreement and sections 7A to 7C of the Withdrawal Act)[^c-a1452560c2206452f991d938d03a4a39]—
 
 - (a) regulation 54;
-- (aa)[^key-4bde50d5f4858169c983d921f38df5d8] regulation 55 (time limits);
+- (aa)[^c-4bde50d5f4858169c983d921f38df5d8] regulation 55 (time limits);
 - (b) regulation 58(2) and (6) (requirements for the sharing of information or intelligence);
 - (c) regulation 59 (reasons to withhold information or intelligence).
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2ad92c093bd99d9bec73ea23bb6bbdc2]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2ad92c093bd99d9bec73ea23bb6bbdc2]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-a1452560c2206452f991d938d03a4a39]: Textual amendment: Words in reg. 44(2) inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2020/1408/regulation/15/a)
+[^c-a1452560c2206452f991d938d03a4a39]: Textual amendment: Words in reg. 44(2) inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2020/1408/regulation/15/a)
 
-[^key-4bde50d5f4858169c983d921f38df5d8]: Textual amendment: Reg. 44(2)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2020/1408/regulation/15/b)
+[^c-4bde50d5f4858169c983d921f38df5d8]: Textual amendment: Reg. 44(2)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2020/1408/regulation/15/b)

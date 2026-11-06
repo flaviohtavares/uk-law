@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Prohibition orders[^key-d927259a37b2ccab05d8b75424514b3d]
+## 33. Prohibition orders[^c-d927259a37b2ccab05d8b75424514b3d]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ For section 3 of the Pensions Act 1995 (c. 26) (prohibition orders) substituteâ€
 
 ## Annotations
 
-[^key-d927259a37b2ccab05d8b75424514b3d]: Commencement: S. 33 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7) (with transitional provisions and savings in [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), arts. 5(8), 6, Schs. 2, 3 (as amended by [S.I. 2005/1108](https://www.legislation.gov.uk/uksi/2005/1108), art. 3(b))
+[^c-d927259a37b2ccab05d8b75424514b3d]: Commencement: S. 33 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7) (with transitional provisions and savings in [S.I. 2005/695](https://www.legislation.gov.uk/uksi/2005/695), arts. 5(8), 6, Schs. 2, 3 (as amended by [S.I. 2005/1108](https://www.legislation.gov.uk/uksi/2005/1108), art. 3(b))

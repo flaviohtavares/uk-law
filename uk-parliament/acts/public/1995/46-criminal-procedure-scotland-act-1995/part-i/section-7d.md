@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7D. Interpretation of sections 7A to 7C[^key-048a645304dc01def4c3aea59c3de077]
+## 7D. Interpretation of sections 7A to 7C[^c-048a645304dc01def4c3aea59c3de077]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-048a645304dc01def4c3aea59c3de077]: Textual amendment: Ss. 7A-7D inserted (26.2.2026) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 9(3)](https://www.legislation.gov.uk/asp/2025/14/section/9/3), [34(4)](https://www.legislation.gov.uk/asp/2025/14/section/34/4); [S.S.I. 2026/85](https://www.legislation.gov.uk/ssi/2026/85), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/85/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/85/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2026/85/schedule)
+[^c-048a645304dc01def4c3aea59c3de077]: Textual amendment: Ss. 7A-7D inserted (26.2.2026) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 9(3)](https://www.legislation.gov.uk/asp/2025/14/section/9/3), [34(4)](https://www.legislation.gov.uk/asp/2025/14/section/34/4); [S.S.I. 2026/85](https://www.legislation.gov.uk/ssi/2026/85), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/85/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/85/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2026/85/schedule)

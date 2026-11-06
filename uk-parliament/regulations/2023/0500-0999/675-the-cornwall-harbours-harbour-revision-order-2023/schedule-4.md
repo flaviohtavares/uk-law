@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — REVOCATION / REPEAL[^key-003d9e2d9acd9015e68489dad03a8977]
+## SCHEDULE 4 — REVOCATION / REPEAL[^c-003d9e2d9acd9015e68489dad03a8977]
 
 *Extent: E+W*
 
@@ -84,4 +84,4 @@ Table
 
 ## Annotations
 
-[^key-003d9e2d9acd9015e68489dad03a8977]: Commencement: Sch. 4 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-003d9e2d9acd9015e68489dad03a8977]: Commencement: Sch. 4 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Earnings of employed earners[^key-16998ba3a1be71398f550939319fdb06]
+## 23. Earnings of employed earners[^c-16998ba3a1be71398f550939319fdb06]
 
 *Extent: N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-16998ba3a1be71398f550939319fdb06]: Commencement: Reg. 23 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-16998ba3a1be71398f550939319fdb06]: Commencement: Reg. 23 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
 
 [^f00038]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); to which there are no relevant amendments

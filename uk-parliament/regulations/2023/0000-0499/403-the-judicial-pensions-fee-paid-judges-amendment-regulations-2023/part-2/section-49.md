@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Amendment of regulation 107[^key-850ca982873d57b6debe3274ad05882d]
+## 49. Amendment of regulation 107[^c-850ca982873d57b6debe3274ad05882d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 107(3)—
 
 ## Annotations
 
-[^key-850ca982873d57b6debe3274ad05882d]: Commencement: Reg. 49 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-850ca982873d57b6debe3274ad05882d]: Commencement: Reg. 49 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

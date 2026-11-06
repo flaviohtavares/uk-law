@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Model articles for private companies limited by guarantee[^key-696d561acba0a70769e52f9b80d6d1cc]
+## 3. Model articles for private companies limited by guarantee[^c-696d561acba0a70769e52f9b80d6d1cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 to these Regulations prescribes the model articles of association for
 
 ## Annotations
 
-[^key-696d561acba0a70769e52f9b80d6d1cc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/3229/regulation/3) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)
+[^c-696d561acba0a70769e52f9b80d6d1cc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/3229/regulation/3) in force at 1.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/3229/regulation/1)

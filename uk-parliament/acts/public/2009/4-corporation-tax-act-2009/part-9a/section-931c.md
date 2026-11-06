@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 931C. Meaning of “qualifying territory”[^key-c2daeff2dc2f1c78d3413089f450a47e]
+## 931C. Meaning of “qualifying territory”[^c-c2daeff2dc2f1c78d3413089f450a47e]
 
 *Extent: E+W+S+N.I.*
 
 (1) For the purpose of section 931B a territory is a “qualifying territory” if—
 
-- (a)[^key-3ec486e676a5cfa07abdeee762c02acc] arrangements made in relation to the territory have effect under section 2(1) of TIOPA 2010 (“double taxation relief arrangements”), and
+- (a)[^c-3ec486e676a5cfa07abdeee762c02acc] arrangements made in relation to the territory have effect under section 2(1) of TIOPA 2010 (“double taxation relief arrangements”), and
 - (b) the arrangements contain a non-discrimination provision.
 
 (2) The Treasury may by regulations—
@@ -55,6 +55,6 @@ which is other or more burdensome than the taxation and connected requirements t
 
 ## Annotations
 
-[^key-c2daeff2dc2f1c78d3413089f450a47e]: Textual amendment: Pt. 9A inserted (with effect in accordance with Sch. 14 para. 31 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/1) (with [Sch. 14 para. 32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/32))
+[^c-c2daeff2dc2f1c78d3413089f450a47e]: Textual amendment: Pt. 9A inserted (with effect in accordance with Sch. 14 para. 31 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/1) (with [Sch. 14 para. 32](https://www.legislation.gov.uk/ukpga/2009/10/schedule/14/paragraph/32))
 
-[^key-3ec486e676a5cfa07abdeee762c02acc]: Textual amendment: S. 931C(1)(a) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 98](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/98) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-3ec486e676a5cfa07abdeee762c02acc]: Textual amendment: S. 931C(1)(a) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 98](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/98) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

@@ -53,7 +53,7 @@ An Act of Senedd Cymru to establish a new framework for a curriculum for pupils 
 - [Section 7 — The Progression Code](part-1/section-7.md)
 - [Section 8 — The RSE Code](part-1/section-8.md)
 
-### PART 2 — CURRICULUM IN MAINTAINED SCHOOLS, MAINTAINED NURSERY SCHOOLS AND FUNDED NON-MAINTAINED NURSERY EDUCATION[^key-2d364b4747eeaf88836bb2f1022d11f1]
+### PART 2 — CURRICULUM IN MAINTAINED SCHOOLS, MAINTAINED NURSERY SCHOOLS AND FUNDED NON-MAINTAINED NURSERY EDUCATION[^c-2d364b4747eeaf88836bb2f1022d11f1]
 
 #### CHAPTER 1 — CURRICULUM DESIGN AND ADOPTION
 
@@ -213,4 +213,4 @@ An Act of Senedd Cymru to establish a new framework for a curriculum for pupils 
 
 ## Annotations
 
-[^key-2d364b4747eeaf88836bb2f1022d11f1]: Modification: [Pt. 2](https://www.legislation.gov.uk/asc/2021/4/part/2) modified (temp.) (13.6.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Commencement No. 3 and Transitional Provision) Order 2022 (S.I. 2022/652)](https://www.legislation.gov.uk/wsi/2022/652), [art. 2](https://www.legislation.gov.uk/wsi/2022/652/article/2)
+[^c-2d364b4747eeaf88836bb2f1022d11f1]: Modification: [Pt. 2](https://www.legislation.gov.uk/asc/2021/4/part/2) modified (temp.) (13.6.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Commencement No. 3 and Transitional Provision) Order 2022 (S.I. 2022/652)](https://www.legislation.gov.uk/wsi/2022/652), [art. 2](https://www.legislation.gov.uk/wsi/2022/652/article/2)

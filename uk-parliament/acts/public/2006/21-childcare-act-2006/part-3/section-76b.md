@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76B. Consequences of disqualification: childminder agencies[^key-17a1ae49fa20ab3d7286e0e3b3770822]
+## 76B. Consequences of disqualification: childminder agencies[^c-17a1ae49fa20ab3d7286e0e3b3770822]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17a1ae49fa20ab3d7286e0e3b3770822]: Textual amendment: [Ss. 76A](https://www.legislation.gov.uk/ukpga/2006/21/section/76A), [76B](https://www.legislation.gov.uk/ukpga/2006/21/section/76B) and cross-heading inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 46](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/46); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-17a1ae49fa20ab3d7286e0e3b3770822]: Textual amendment: [Ss. 76A](https://www.legislation.gov.uk/ukpga/2006/21/section/76A), [76B](https://www.legislation.gov.uk/ukpga/2006/21/section/76B) and cross-heading inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 46](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/46); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)

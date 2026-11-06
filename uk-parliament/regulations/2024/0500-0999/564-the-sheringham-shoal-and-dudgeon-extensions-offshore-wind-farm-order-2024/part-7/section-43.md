@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Procedure in relation to approvals, etc. under requirements[^key-20d8f0c30047bcf2f10c5e9301864313]
+## 43. Procedure in relation to approvals, etc. under requirements[^c-20d8f0c30047bcf2f10c5e9301864313]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-20d8f0c30047bcf2f10c5e9301864313]: Commencement: Art. 43 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-20d8f0c30047bcf2f10c5e9301864313]: Commencement: Art. 43 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
 [^f00043]: Footnote: Section 78 was amended by section 43(2) of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), paragraph 3(b) of Schedule 10 to the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), section 123(3) of, and paragraph 11 of Schedule 12 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), paragraph 8 of Schedule 1 to the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) and paragraph 12 of Schedule 4 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7). Section 79 was amended by section 18 of, and paragraph 19 of Schedule 7 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and by paragraph 4 of Schedule 10 to the Planning Act 2008.

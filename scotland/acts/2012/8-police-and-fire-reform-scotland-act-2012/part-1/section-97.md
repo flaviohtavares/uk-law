@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Dissolution of the Police Advisory Board for Scotland[^key-2d4889a43aac45f9ee4c4da02e1b028e]
+## 97. Dissolution of the Police Advisory Board for Scotland[^c-2d4889a43aac45f9ee4c4da02e1b028e]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d4889a43aac45f9ee4c4da02e1b028e]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2012/8/section/97) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-2d4889a43aac45f9ee4c4da02e1b028e]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2012/8/section/97) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

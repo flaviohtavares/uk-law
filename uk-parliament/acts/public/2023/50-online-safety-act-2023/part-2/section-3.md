@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. “User-to-user service” and “search service”[^key-5d4dd4aecdbc50398e54ba1331c49b41]
+## 3. “User-to-user service” and “search service”[^c-5d4dd4aecdbc50398e54ba1331c49b41]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ is a user-to-user service or a search service for the purposes of this Act.
 
 ## Annotations
 
-[^key-5d4dd4aecdbc50398e54ba1331c49b41]: Commencement: S. 3 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/a)
+[^c-5d4dd4aecdbc50398e54ba1331c49b41]: Commencement: S. 3 in force at Royal Assent, see [s. 240(4)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/a)

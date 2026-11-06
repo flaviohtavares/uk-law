@@ -35,7 +35,7 @@ but subject to the following provisions of this Article.
 - (d) an offence under paragraph (4) of Article 20 of the [^m00018] Roads (Northern Ireland) Order 1993 consisting in the contravention of a restriction on the speed of vehicles imposed under that Article.
 - (e)[^c1725570] an offence under paragraph (4) of Article 20 of the Roads (Northern Ireland) Order 1993 consisting in the contravention of any regulations under that Article relating to the use of the hard shoulder of a motorway.
 - (f)[^c1725572] an offence under section 29(1) of the Vehicle Excise and Registration Act 1994 (using or keeping an unlicensed vehicle on a public road).
-- (g)[^key-54d104177a817652b0d4eb2422b0fdaa] an offence under section 11(1) of the HGV Road User Levy Act 2013 (offence of using or keeping heavy goods vehicle if levy not paid).
+- (g)[^c-54d104177a817652b0d4eb2422b0fdaa] an offence under section 11(1) of the HGV Road User Levy Act 2013 (offence of using or keeping heavy goods vehicle if levy not paid).
 
 (3) The Department may by order amend paragraph (2) by making additions to or deletions from the list of offences for the time being set out there; and an order under this paragraph may make such transitional provision as appears to it to be necessary or expedient.
 
@@ -77,4 +77,4 @@ may be given by the production of a document which is signed as mentioned in par
 
 [^c1725572]: Textual amendment: SR 2001/375
 
-[^key-54d104177a817652b0d4eb2422b0fdaa]: Textual amendment: [Art. 23(2)(g)](https://www.legislation.gov.uk/nisi/1996/1320/article/23/2/g) added (31.10.2014) by [The Road Traffic Offenders (Additional Offences) Order (Northern Ireland) 2014 (S.R. 2014/230)](https://www.legislation.gov.uk/nisr/2014/230), [arts. 1](https://www.legislation.gov.uk/nisr/2014/230/article/1), [2](https://www.legislation.gov.uk/nisr/2014/230/article/2)
+[^c-54d104177a817652b0d4eb2422b0fdaa]: Textual amendment: [Art. 23(2)(g)](https://www.legislation.gov.uk/nisi/1996/1320/article/23/2/g) added (31.10.2014) by [The Road Traffic Offenders (Additional Offences) Order (Northern Ireland) 2014 (S.R. 2014/230)](https://www.legislation.gov.uk/nisr/2014/230), [arts. 1](https://www.legislation.gov.uk/nisr/2014/230/article/1), [2](https://www.legislation.gov.uk/nisr/2014/230/article/2)

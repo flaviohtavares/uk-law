@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Supplementary lists[^key-5f637d3d7b0f3d4c83984c465b220b71]
+## 149. Supplementary lists[^c-5f637d3d7b0f3d4c83984c465b220b71]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f637d3d7b0f3d4c83984c465b220b71]: Textual amendment: [S. 149](https://www.legislation.gov.uk/ukpga/2006/41/section/149) omitted (27.3.2012 for specified purposes, 1.10.2026 in so far as not already in force) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 208(1)(b)](https://www.legislation.gov.uk/ukpga/2012/7/section/208/1/b), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [s. 208(7)](https://www.legislation.gov.uk/ukpga/2012/7/section/208/7)); [S.I. 2026/852](https://www.legislation.gov.uk/uksi/2026/852), [art. 2](https://www.legislation.gov.uk/uksi/2026/852/article/2)
+[^c-5f637d3d7b0f3d4c83984c465b220b71]: Textual amendment: [S. 149](https://www.legislation.gov.uk/ukpga/2006/41/section/149) omitted (27.3.2012 for specified purposes, 1.10.2026 in so far as not already in force) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 208(1)(b)](https://www.legislation.gov.uk/ukpga/2012/7/section/208/1/b), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [s. 208(7)](https://www.legislation.gov.uk/ukpga/2012/7/section/208/7)); [S.I. 2026/852](https://www.legislation.gov.uk/uksi/2026/852), [art. 2](https://www.legislation.gov.uk/uksi/2026/852/article/2)

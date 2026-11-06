@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by sections 11(1) and (4), 12(12), 15(1) and (2), 86(1) and 94(1) of the Weights and Measures Act 1985[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-b5313929f9e39aea27ca5fd120e1bbc6]
+## 1. Citation and commencement[^c-b5313929f9e39aea27ca5fd120e1bbc6]
 
 These Regulations may be cited as the Measuring Equipment (Cold-water Meters) Regulations 1988 and shall come into force on 1st August 1988.
 
-## 2. Interpretation[^key-499cb7b6099b44018e4fe4ca6a28bd76]
+## 2. Interpretation[^c-499cb7b6099b44018e4fe4ca6a28bd76]
 
 In these Regulations—
 
@@ -67,14 +67,14 @@ In these Regulations—
 - “minimum flowrate (Qmin)” is the flowrate fixed as a function of the nominal flowrate (Qn) and above which the meter does not exceed the prescribed limits of error on passing as fit for use for trade;
 - “nominal flowrate (Qn)” is the flowrate in cubic metres per hour which is used to designate the meter, being equal to half the maximum flowrate (Qmax);
 - “prescribed limits of error” has the meaning set out in regulation 10 below;
-- “quality system” means the organisation structure, responsibilities, activities, resources and events that together provide organised procedures and methods of implementation to ensure the capability of the organisation to meet quality requirements, such system having been assessed as meeting the requirements of BS[^key-ac2fc4b281e4e45ef838917627f98c69] EN ISO 9001: 2000 by an independent certification body accredited by the Secretary of State;
+- “quality system” means the organisation structure, responsibilities, activities, resources and events that together provide organised procedures and methods of implementation to ensure the capability of the organisation to meet quality requirements, such system having been assessed as meeting the requirements of BS[^c-ac2fc4b281e4e45ef838917627f98c69] EN ISO 9001: 2000 by an independent certification body accredited by the Secretary of State;
 - “the stamp” means the prescribed stamp[^f00006];
 - “transitional flowrate (Qt)” is the flowrate fixed as a function of the nominal flowrate (Qn) and at which the prescribed limits of error on passing as fit for use for trade change from 2 per cent to 5 per cent; and
 - “verification scale” means the fastest-moving visible graduated element of the indicating device of a meter.
 
-## 3. Application[^key-5f1bd97b9de75844a956cc0fb07fb4cc]
+## 3. Application[^c-5f1bd97b9de75844a956cc0fb07fb4cc]
 
-(1)[^key-340678134ffc29892adddad5348bd9ff] These Regulations apply to measuring equipment installed—
+(1)[^c-340678134ffc29892adddad5348bd9ff] These Regulations apply to measuring equipment installed—
 
 - (a) in England and Wales—
   - (i) on or after 1st August 1988, where the equipment is installed compulsorily by or at the behest of the supplier of the water; and
@@ -87,11 +87,11 @@ for use for trade for measuring any supply of water to domestic premises; and su
 
 (3) Nothing in these Regulations other than this regulation and regulation 4 below applies to cold-water meters bearing the mark of EEC initial verification.
 
-## 4. Purpose of use[^key-766f8b5d426980584004cd3576b949ef]
+## 4. Purpose of use[^c-766f8b5d426980584004cd3576b949ef]
 
 No person shall use for trade a cold-water meter to which these Regulations apply unless it is an appropriate meter for the installation in question having regard to the criteria in clause 2 of the British Standard Specification for the measurement of flow of cold potable water in closed conduits BS 5728: Part 2: 1980[^f00009].
 
-## 5. Principles of construction and marking[^key-e657e225c14519054acc78ce6d3fb3cb]
+## 5. Principles of construction and marking[^c-e657e225c14519054acc78ce6d3fb3cb]
 
 (1) Measuring equipment to which these Regulations apply shall consist of a cold-water meter.
 
@@ -109,7 +109,7 @@ No person shall use for trade a cold-water meter to which these Regulations appl
 
   and shall be provided with such sealing arrangements as may be authorised in relation to the pattern as set out in the certificate of approval.
 
-## 6. Testing[^key-2f9ab74354ae6d02bcdd7b1008a59c1c]
+## 6. Testing[^c-2f9ab74354ae6d02bcdd7b1008a59c1c]
 
 (1) Every cold-water meter submitted for testing shall be in a clean condition.
 
@@ -130,7 +130,7 @@ using testing equipment or working standards.
 
 (5) For the purposes of the performance by an inspector of his functions under the Act or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of any cold-water meter, a person submitting such a meter to an inspector or who an inspector has reasonable cause to believe has possession of such equipment for use for trade shall, if requested, provide for the inspector such assistance as the inspector may reasonably require.
 
-## 7.[^key-cae70cce3f0b700932c3baa04296b111]
+## 7.[^c-cae70cce3f0b700932c3baa04296b111]
 
 (1) Where a group of cold-water meters of the same design, the same class, the same nominal flowrate (Qn), the same manufacture and with the manufacturer’s mark on each is submitted for testing, and the conditions specified in paragraph (2) below are satisfied with respect to the group, the testing may, at the request of the submitter, be confined to a number of meters determined and selected as specified in paragraph (3) below.
 
@@ -139,29 +139,29 @@ using testing equipment or working standards.
 - (a) the group shall be clearly identifiable and shall consist of meters which exceed 150 but do not exceed 35,000 in number;
 - (b) the meters in the group shall all have been produced by the same production process, such production process being the subject of a quality system;
 - (c) the group shall be accompanied by records of the production process, of the testing of each meter and of any subsequent action taken by the manufacturer which are adequate to show that the meters in the group are likely to fall within the prescribed limits of error; and
-- (d) the equipment used to test meters in the group shall comply with clause 7.6 of[^key-755d07e034f9c79921ae492c8d3c0a0d] BS EN ISO 9001: 2000.
+- (d) the equipment used to test meters in the group shall comply with clause 7.6 of[^c-755d07e034f9c79921ae492c8d3c0a0d] BS EN ISO 9001: 2000.
 
 (3) The number of meters referred to in paragraph (1) above shall be determined and the meters shall be selected by sampling plans and procedures using samples which the inspector considers to be representative, in accordance with either—
 
-- (a) BS[^key-9c0031996abefa0789a5fa2b7d1d20c5] 6001: Part 1: 1999 which provides an acceptable quality level equal to 1 per cent; or
-- (b) BS[^key-2e677992167c46dda32cd44c183bbae2] 6001: Part 2: 1993 which provides a limiting quality of 5 per cent.
+- (a) BS[^c-9c0031996abefa0789a5fa2b7d1d20c5] 6001: Part 1: 1999 which provides an acceptable quality level equal to 1 per cent; or
+- (b) BS[^c-2e677992167c46dda32cd44c183bbae2] 6001: Part 2: 1993 which provides a limiting quality of 5 per cent.
 
 In either case the sample of meters chosen shall be tested for attributes, including for limits of error, as set out in paragraphs (1) to (3) of regulation 6 above.
 
 (4) If the sample selected as specified in paragraph (3) above satisfies the test, the other meters in the group shall be treated as having satisfied the test.
 
-## 7A. Cold-water meters imported from a member State or an EEA State[^key-a128d1b285945ab478287af390b4275c][^key-4e968e3f4d7c5f8972f9d2a5e9295075]
+## 7A. Cold-water meters imported from a member State or an EEA State[^c-a128d1b285945ab478287af390b4275c][^c-4e968e3f4d7c5f8972f9d2a5e9295075]
 
-(1) In relation to a cold-water meter imported into Great Britain from a member State[^key-fb501ea5634512e381a8c540706ee7e5] or from an EEA State, subject to paragraph (4), below, an inspector shall not carry out any test in accordance with the foregoing provisions of these Regulations if, together with the cold-water meter being imported, he is presented with the requisite documentation.
+(1) In relation to a cold-water meter imported into Great Britain from a member State[^c-fb501ea5634512e381a8c540706ee7e5] or from an EEA State, subject to paragraph (4), below, an inspector shall not carry out any test in accordance with the foregoing provisions of these Regulations if, together with the cold-water meter being imported, he is presented with the requisite documentation.
 
 (2) In this regulation and in regulation 8(1A) below—
 
 - (a) “requisite documentation” means—
   - (i) the test report of an approved body that the cold-water meter which is the subject of that report has been tested on the same basis as that set out in these Regulations or on an equivalent basis and stating which tests have been applied to it; and
   - (ii) the test results relating to those tests; and
-- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^key-4dcb029d6d7bd46004f3cfe63d250911]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
+- (b) “EEA State” means a State which is a Contracting Party to the EEA Agreement [^c-4dcb029d6d7bd46004f3cfe63d250911]...; and in this paragraph “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993.
 
-(3)[^key-9894ef70e8721a4ae494a098840e54b5] A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of cold-water meters or is a laboratory which has been accredited for the purposes of testing cold-water meters in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025: 2000[^f00008].
+(3)[^c-9894ef70e8721a4ae494a098840e54b5] A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of cold-water meters or is a laboratory which has been accredited for the purposes of testing cold-water meters in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025: 2000[^f00008].
 
 (4) Nothing in these Regulations shall prevent an inspector testing in accordance with the foregoing provisions of these Regulations where he is not satisfied—
 
@@ -171,23 +171,23 @@ In either case the sample of meters chosen shall be tested for attributes, inclu
   - (i) that the cold-water meter being imported has not been dismantled after the tests to which the test report relates were carried out, or
   - (ii) where the cold-water meter being imported has been dismantled after those tests were carried out, that any such dismantling is not likely to have affected its performance.
 
-## 8. Passing as fit for use for trade[^key-8f04de0acd780f17d94d715816941311][^key-6e3b4367494866d419e62960876abdee]
+## 8. Passing as fit for use for trade[^c-8f04de0acd780f17d94d715816941311][^c-6e3b4367494866d419e62960876abdee]
 
-(1) Subject to paragraph (1A) below[^key-e840e794b2b67c9858602df6c7923e78] no cold-water meter to which these Regulations apply shall be passed as fit for use for trade unless—
+(1) Subject to paragraph (1A) below[^c-e840e794b2b67c9858602df6c7923e78] no cold-water meter to which these Regulations apply shall be passed as fit for use for trade unless—
 
 - (a) on testing
   - (i) it complies with all the appropriate requirements of these Regulations; and
   - (ii) it falls within the prescribed limits of error: Provided that, where the errors on all the quantities indicated by the meter during the tests are all errors in excess or all errors in deficiency then, notwithstanding that they are all within the prescribed limits of error, not all the errors shall exceed one-half of the prescribed limits of error;
 - (b) where it has not been tested, it forms part of a group of meters treated under regulation 7(4) above as having satisfied the test.
 
-(1A)[^key-7277cb41ae4ba7fb89e7daf2dffb5f0a] A cold-water meter imported from a member State[^key-6a82dd214f6f54c792b3f83dbc70862e] or an EEA State shall not be passed as fit for use for trade unless—
+(1A)[^c-7277cb41ae4ba7fb89e7daf2dffb5f0a] A cold-water meter imported from a member State[^c-6a82dd214f6f54c792b3f83dbc70862e] or an EEA State shall not be passed as fit for use for trade unless—
 
 - (a) where the requisite documentation is presented in accordance with regulation 7A above, the test report recites and the test data confirm to the satisfaction of the inspector that on testing in the relevant State it fell within the prescribed limits of error; and
 - (b) it complies with all the relevant requirements of these Regulations.
 
 (2) Nothing in section 11(2) of the Act shall prohibit a meter, which has been passed as fit for use for trade and which bears the manufacturer’s mark undefaced otherwise than by reason of fair wear and tear, from being used for trade, notwithstanding that it does not bear the stamp.
 
-## 9. Stamping[^key-553eef911f858b4f4ff2a14f54313f24]
+## 9. Stamping[^c-553eef911f858b4f4ff2a14f54313f24]
 
 (1) The stamp shall be placed on every plug, seal or sealing device authorised in accordance with regulation 5.
 
@@ -195,11 +195,11 @@ In either case the sample of meters chosen shall be tested for attributes, inclu
 
 (3) On subsequent passing as fit for use for trade, no meter shall be stamped with the stamp if it bears any mark (other than the manufacturer’s mark) which, in the opinion of the inspector, might reasonably be mistaken for the stamp or manufacturer’s mark.
 
-## 10. Prescribed limits of error[^key-57227623783a29651a964f1f9e98e8ed]
+## 10. Prescribed limits of error[^c-57227623783a29651a964f1f9e98e8ed]
 
 The prescribed limits of error relating to cold-water meters shall be those set out in the Schedule to these Regulations.
 
-## 11. Obliteration of stamps and manufacturer’s marks[^key-f320a3308a7b08c92c96cad5fc85ebb9]
+## 11. Obliteration of stamps and manufacturer’s marks[^c-f320a3308a7b08c92c96cad5fc85ebb9]
 
 (1) The stamp or manufacturer’s mark shall be obliterated by an inspector, in accordance with the requirements of this regulation, by means of punches or pincers of suitable sizes of a six-pointed star design as shown in the following illustration:
 
@@ -218,7 +218,7 @@ the inspector shall give to the proprietor or person in charge of the meter a no
 
 (5) In any case where an inspector obliterates the stamp or manufacturer’s mark on a meter in accordance with the foregoing provisions of this regulation, he shall, within two working days of such obliteration, inform the proprietor or person in charge of the meter that the stamp or mark has been obliterated.
 
-(6) In paragraph (5) above, the reference to two working days is a reference to a period of forty-eight hours calculated after disregarding any time falling on a Saturday or Sunday or on Christmas Day, Good Friday or,—[^key-c8b945b0422fb11a0fea09d1a26f0c35]
+(6) In paragraph (5) above, the reference to two working days is a reference to a period of forty-eight hours calculated after disregarding any time falling on a Saturday or Sunday or on Christmas Day, Good Friday or,—[^c-c8b945b0422fb11a0fea09d1a26f0c35]
 
 - (a) in England and Wales, any day which is a Bank Holiday in England and Wales under the Banking and Financial Dealings Act 1971; or
 - (b) in Scotland, any day which is a Bank Holiday in Scotland under that Act.
@@ -229,7 +229,7 @@ Parliamentary Under-Secretary of State,
 
 Department of Trade and Industry
 
-## SCHEDULE — PRESCRIBED LIMITS OF ERROR[^key-30fc0c753cd382886552d1b163c82c22]
+## SCHEDULE — PRESCRIBED LIMITS OF ERROR[^c-30fc0c753cd382886552d1b163c82c22]
 
 Regulation 10
 
@@ -256,66 +256,66 @@ Regulation 10
 
 [^f00001]: Footnote: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72): section 94(1) contains a definition of “prescribed”.
 
-[^key-b5313929f9e39aea27ca5fd120e1bbc6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
+[^c-b5313929f9e39aea27ca5fd120e1bbc6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
 
-[^key-499cb7b6099b44018e4fe4ca6a28bd76]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1988/997/regulation/2) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
+[^c-499cb7b6099b44018e4fe4ca6a28bd76]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1988/997/regulation/2) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
 
 [^f00002]: Footnote: O.J. No. L14, 20.1.1975, p.1.
 
 [^f00003]: Footnote: S.I. [1988/186](https://www.legislation.gov.uk/uksi/1988/186).
 
-[^key-ac2fc4b281e4e45ef838917627f98c69]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1988/997/regulation/2) substituted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [3](https://www.legislation.gov.uk/uksi/2001/1229/regulation/3)
+[^c-ac2fc4b281e4e45ef838917627f98c69]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1988/997/regulation/2) substituted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [3](https://www.legislation.gov.uk/uksi/2001/1229/regulation/3)
 
 [^f00006]: Footnote: See S.I. [1968/1615](https://www.legislation.gov.uk/uksi/1968/1615).
 
-[^key-5f1bd97b9de75844a956cc0fb07fb4cc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1988/997/regulation/3) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
+[^c-5f1bd97b9de75844a956cc0fb07fb4cc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1988/997/regulation/3) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
 
-[^key-340678134ffc29892adddad5348bd9ff]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/1988/997/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/1988/997/regulation/3/2) substituted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [4](https://www.legislation.gov.uk/uksi/2001/1229/regulation/4)
+[^c-340678134ffc29892adddad5348bd9ff]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/1988/997/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/1988/997/regulation/3/2) substituted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [4](https://www.legislation.gov.uk/uksi/2001/1229/regulation/4)
 
-[^key-766f8b5d426980584004cd3576b949ef]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1988/997/regulation/4) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
+[^c-766f8b5d426980584004cd3576b949ef]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1988/997/regulation/4) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
 
 [^f00009]: Footnote: ISBN 0 580 11253 5, published by the British Standards Institution on 30th April 1980, as amended in July 1986.
 
-[^key-e657e225c14519054acc78ce6d3fb3cb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1988/997/regulation/5) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
+[^c-e657e225c14519054acc78ce6d3fb3cb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1988/997/regulation/5) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
 
-[^key-2f9ab74354ae6d02bcdd7b1008a59c1c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1988/997/regulation/6) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
+[^c-2f9ab74354ae6d02bcdd7b1008a59c1c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1988/997/regulation/6) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
 
-[^key-cae70cce3f0b700932c3baa04296b111]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1988/997/regulation/7) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
+[^c-cae70cce3f0b700932c3baa04296b111]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1988/997/regulation/7) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
 
-[^key-755d07e034f9c79921ae492c8d3c0a0d]: Textual amendment: Words in [reg. 7(2)(d)](https://www.legislation.gov.uk/uksi/1988/997/regulation/7/2/d) substituted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2001/1229/regulation/5/a)
+[^c-755d07e034f9c79921ae492c8d3c0a0d]: Textual amendment: Words in [reg. 7(2)(d)](https://www.legislation.gov.uk/uksi/1988/997/regulation/7/2/d) substituted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2001/1229/regulation/5/a)
 
-[^key-9c0031996abefa0789a5fa2b7d1d20c5]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/1988/997/regulation/7/3) substituted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2001/1229/regulation/5/b/i)
+[^c-9c0031996abefa0789a5fa2b7d1d20c5]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/1988/997/regulation/7/3) substituted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2001/1229/regulation/5/b/i)
 
-[^key-2e677992167c46dda32cd44c183bbae2]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/1988/997/regulation/7/3) substituted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2001/1229/regulation/5/b/ii)
+[^c-2e677992167c46dda32cd44c183bbae2]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/1988/997/regulation/7/3) substituted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2001/1229/regulation/5/b/ii)
 
-[^key-a128d1b285945ab478287af390b4275c]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/1988/997/regulation/7A) inserted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [6](https://www.legislation.gov.uk/uksi/2001/1229/regulation/6)
+[^c-a128d1b285945ab478287af390b4275c]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/1988/997/regulation/7A) inserted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [6](https://www.legislation.gov.uk/uksi/2001/1229/regulation/6)
 
-[^key-4e968e3f4d7c5f8972f9d2a5e9295075]: Textual amendment: Words in [reg. 7A](https://www.legislation.gov.uk/uksi/1988/997/regulation/7A) heading substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4e968e3f4d7c5f8972f9d2a5e9295075]: Textual amendment: Words in [reg. 7A](https://www.legislation.gov.uk/uksi/1988/997/regulation/7A) heading substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fb501ea5634512e381a8c540706ee7e5]: Textual amendment: Words in [reg. 7A(1)](https://www.legislation.gov.uk/uksi/1988/997/regulation/7A/1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fb501ea5634512e381a8c540706ee7e5]: Textual amendment: Words in [reg. 7A(1)](https://www.legislation.gov.uk/uksi/1988/997/regulation/7A/1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4dcb029d6d7bd46004f3cfe63d250911]: Textual amendment: Words in [reg. 7A(2)(b)](https://www.legislation.gov.uk/uksi/1988/997/regulation/7A/2/b) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 5(2)(c)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/5/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4dcb029d6d7bd46004f3cfe63d250911]: Textual amendment: Words in [reg. 7A(2)(b)](https://www.legislation.gov.uk/uksi/1988/997/regulation/7A/2/b) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 5(2)(c)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/5/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9894ef70e8721a4ae494a098840e54b5]: Textual amendment: [Reg. 7A(3)](https://www.legislation.gov.uk/uksi/1988/997/regulation/7A/3) substituted (28.2.2003) by [The Weights and Measures (Standards Amendment)Regulations 2003 (S.I. 2003/214)](https://www.legislation.gov.uk/uksi/2003/214), [reg. 1](https://www.legislation.gov.uk/uksi/2003/214/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2003/214/schedule/paragraph/5)
+[^c-9894ef70e8721a4ae494a098840e54b5]: Textual amendment: [Reg. 7A(3)](https://www.legislation.gov.uk/uksi/1988/997/regulation/7A/3) substituted (28.2.2003) by [The Weights and Measures (Standards Amendment)Regulations 2003 (S.I. 2003/214)](https://www.legislation.gov.uk/uksi/2003/214), [reg. 1](https://www.legislation.gov.uk/uksi/2003/214/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2003/214/schedule/paragraph/5)
 
 [^f00008]: Footnote: [1988 c. 15](https://www.legislation.gov.uk/ukpga/1988/15).
 
-[^key-8f04de0acd780f17d94d715816941311]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1988/997/regulation/8) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
+[^c-8f04de0acd780f17d94d715816941311]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1988/997/regulation/8) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
 
-[^key-6e3b4367494866d419e62960876abdee]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1988/997/regulation/8) heading inserted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2001/1229/regulation/7/a)
+[^c-6e3b4367494866d419e62960876abdee]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1988/997/regulation/8) heading inserted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2001/1229/regulation/7/a)
 
-[^key-e840e794b2b67c9858602df6c7923e78]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/1988/997/regulation/8/1) inserted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2001/1229/regulation/7/b)
+[^c-e840e794b2b67c9858602df6c7923e78]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/1988/997/regulation/8/1) inserted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2001/1229/regulation/7/b)
 
-[^key-7277cb41ae4ba7fb89e7daf2dffb5f0a]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/1988/997/regulation/8/1A) inserted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2001/1229/regulation/7/c)
+[^c-7277cb41ae4ba7fb89e7daf2dffb5f0a]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/1988/997/regulation/8/1A) inserted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2001/1229/regulation/7/c)
 
-[^key-6a82dd214f6f54c792b3f83dbc70862e]: Textual amendment: Words in [reg. 8(1A)](https://www.legislation.gov.uk/uksi/1988/997/regulation/8/1A) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 5(3)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6a82dd214f6f54c792b3f83dbc70862e]: Textual amendment: Words in [reg. 8(1A)](https://www.legislation.gov.uk/uksi/1988/997/regulation/8/1A) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 5(3)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-553eef911f858b4f4ff2a14f54313f24]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1988/997/regulation/9) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
+[^c-553eef911f858b4f4ff2a14f54313f24]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1988/997/regulation/9) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
 
-[^key-57227623783a29651a964f1f9e98e8ed]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1988/997/regulation/10) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
+[^c-57227623783a29651a964f1f9e98e8ed]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1988/997/regulation/10) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
 
-[^key-f320a3308a7b08c92c96cad5fc85ebb9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1988/997/regulation/11) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
+[^c-f320a3308a7b08c92c96cad5fc85ebb9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1988/997/regulation/11) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
 
-[^key-c8b945b0422fb11a0fea09d1a26f0c35]: Textual amendment: Words in [reg. 11(6)](https://www.legislation.gov.uk/uksi/1988/997/regulation/11/6) substituted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [8](https://www.legislation.gov.uk/uksi/2001/1229/regulation/8)
+[^c-c8b945b0422fb11a0fea09d1a26f0c35]: Textual amendment: Words in [reg. 11(6)](https://www.legislation.gov.uk/uksi/1988/997/regulation/11/6) substituted (28.9.2001) by [The Measuring Equipment (Cold-water Meters) (Amendment) Regulations 2001 (S.I. 2001/1229)](https://www.legislation.gov.uk/uksi/2001/1229), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1229/regulation/1), [8](https://www.legislation.gov.uk/uksi/2001/1229/regulation/8)
 
-[^key-30fc0c753cd382886552d1b163c82c22]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/1988/997/schedule) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)
+[^c-30fc0c753cd382886552d1b163c82c22]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/1988/997/schedule) in force at 1.8.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/997/regulation/1)

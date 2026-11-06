@@ -45,11 +45,11 @@ The Department of Agriculture and Rural Development[^f00001], makes the followin
 
 ## PART I — INTRODUCTION
 
-### 1. Citation and commencement[^key-3cfcf005950da23049a3b5cb6a667df4]
+### 1. Citation and commencement[^c-3cfcf005950da23049a3b5cb6a667df4]
 
 These Regulations may be cited as The Foot-and-Mouth Disease (Control of Vaccination) Regulations (Northern Ireland) 2006 and shall come into operation on 23rd February 2006.
 
-### 2. Interpretation[^key-3f97ee3ce0095845d56107093b4c8e94]
+### 2. Interpretation[^c-3f97ee3ce0095845d56107093b4c8e94]
 
 (1) In these Regulations—
 
@@ -57,12 +57,12 @@ These Regulations may be cited as The Foot-and-Mouth Disease (Control of Vaccina
 - “animal product” means anything originating or made (whether in whole or in part) from an animal or from a carcase;
 - “bovine animal” includes buffalo and bison;
 - “carcase” means the carcase of an animal and includes part of a carcase, and the meat, bones, hide, skin, hooves, offal or other part of an animal, separately or otherwise, or any portion thereof;
-- “Database” means the operational computerised database set up under Council Regulation 1760/2000[^f00003] , as last amended by Regulation (EU) No 653/2014[^key-3e5a26af42013fb7e232bf2dc6f4ee89][^key-a9c7f2e9dfab7a6a5e62ac6adb585d0a]...;
+- “Database” means the operational computerised database set up under Council Regulation 1760/2000[^f00003] , as last amended by Regulation (EU) No 653/2014[^c-3e5a26af42013fb7e232bf2dc6f4ee89][^c-a9c7f2e9dfab7a6a5e62ac6adb585d0a]...;
 - “the Department” means the Department of Agriculture and Rural Development;
-- “the Directive” means Council[^key-404bb2ff60e8046624475df83c6903e1] [Directive 2003/85/EC](https://www.legislation.gov.uk/european/directive/2003/1985) on Community measures for the control of foot-and-mouth disease repealing Directive [85/511/EEC](https://www.legislation.gov.uk/european/directive/1985/0511) and Decisions [89/531/EEC](https://www.legislation.gov.uk/european/decision/1989/0531) and [91/665/EEC](https://www.legislation.gov.uk/european/decision/1991/0665) and amending Directive [92/46/EEC](https://www.legislation.gov.uk/european/decision/1992/0046), as last amended by Commission Implementing Decision (EU) 2018/1099;
+- “the Directive” means Council[^c-404bb2ff60e8046624475df83c6903e1] [Directive 2003/85/EC](https://www.legislation.gov.uk/european/directive/2003/1985) on Community measures for the control of foot-and-mouth disease repealing Directive [85/511/EEC](https://www.legislation.gov.uk/european/directive/1985/0511) and Decisions [89/531/EEC](https://www.legislation.gov.uk/european/decision/1989/0531) and [91/665/EEC](https://www.legislation.gov.uk/european/decision/1991/0665) and amending Directive [92/46/EEC](https://www.legislation.gov.uk/european/decision/1992/0046), as last amended by Commission Implementing Decision (EU) 2018/1099;
 - “disease” means foot-and-mouth disease;
 - “fresh meat” means meat, including chilled or frozen meat, which has not undergone any preserving process and includes meat vacuum wrapped or wrapped in a controlled atmosphere;
-- “health marked” means bearing the health mark as defined in Article 3(51) of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^key-524bfba7fb7eb632ca7ca193cfe72de3]
+- “health marked” means bearing the health mark as defined in Article 3(51) of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^c-524bfba7fb7eb632ca7ca193cfe72de3]
 - “identification marked” means bearing the identification mark required by article 5(1) of Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and the Council laying down specific hygiene rules for food of animal origin[^f00005] and the expression “identification mark shall be construed accordingly;
 - “incubation period” means—
   - (a) for cattle, pigs and other bovine animals and swine, 14 days; and
@@ -91,7 +91,7 @@ These Regulations may be cited as The Foot-and-Mouth Disease (Control of Vaccina
 - “sell” means sell to the final consumer or user and “sale” in the expression “consign for sale” shall be construed accordingly;
 - “slaughter” means any process which causes the death of an animal;
 - “slaughterhouse” means an establishment used for slaughtering and dressing animals, the meat of which is intended for human consumption and which—
-  - (a) is approved or conditionally approved in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^key-1d1de89043d9d29ef5b4c5a896ca5de6] ; or
+  - (a) is approved or conditionally approved in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^c-1d1de89043d9d29ef5b4c5a896ca5de6] ; or
   - (b) although lacking the approval or conditional approval that it requires under article 4(3) of Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) was, on 31st December 2005, operating as a licensed slaughterhouse under the Food Hygiene Regulations (Northern Ireland) 2006[^f00009] or the Poultry Meat, Farmed Game Bird Meat and Rabbit Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1995[^f00010];
 - “suppressive vaccination” means vaccination carried out in a premises or area where there is an urgent need to prevent the spread of disease outside the premises or area by reducing the quantity of circulating disease virus there and where the vaccinated animals are intended for slaughter to prevent the spread of disease;
 - “surveillance zone” has the same meaning as in the FMD Regulations;
@@ -119,7 +119,7 @@ These Regulations may be cited as The Foot-and-Mouth Disease (Control of Vaccina
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-### 3. Premises comprising common or unenclosed land[^key-3aeffe8c95fd5d553867b9f01486b03b]
+### 3. Premises comprising common or unenclosed land[^c-3aeffe8c95fd5d553867b9f01486b03b]
 
 For the purposes of these Regulations—
 
@@ -129,7 +129,7 @@ For the purposes of these Regulations—
 - (b) a notice which is to be served on the occupier of premises wholly or partially comprising any common or unenclosed land is validly served if served on every keeper of animals kept there (so far as those persons are reasonably ascertainable);
 - (c) a requirement or restriction imposed on the occupier of premises wholly or partially comprising any common or unenclosed land applies to every keeper of animals kept there.
 
-### 4. Licences and declarations[^key-8d630ab0f584f15e2ed124e55d1e6891]
+### 4. Licences and declarations[^c-8d630ab0f584f15e2ed124e55d1e6891]
 
 (1) A licence granted to any person under these Regulations—
 
@@ -141,7 +141,7 @@ For the purposes of these Regulations—
 
 (3) Any amendment or revocation of a declaration shall be made by further declaration.
 
-### 5. Notices[^key-691cf27a3bf449085a0877e3e232dbd4]
+### 5. Notices[^c-691cf27a3bf449085a0877e3e232dbd4]
 
 (1) A notice served on any person under these Regulations—
 
@@ -157,7 +157,7 @@ shall contain a description of those premises sufficient to enable the extent of
 
 (3) Such a description may be amended in writing by an inspector if he is satisfied that it does not describe an appropriate area for the purposes of investigating and monitoring the spread of disease in respect of animals which are usually kept together.
 
-### 6. Dissemination of information concerning restrictions and requirements[^key-d83ad204d0a6e62dc6b79535da7cae7c]
+### 6. Dissemination of information concerning restrictions and requirements[^c-d83ad204d0a6e62dc6b79535da7cae7c]
 
 (1) The Department shall take such steps as it considers fit to ensure that licences, declarations and notices are brought to the attention of those who may be affected by them as soon as is reasonably practicably.
 
@@ -170,7 +170,7 @@ shall contain a description of those premises sufficient to enable the extent of
 
 are publicised.
 
-### 7. Disinfection[^key-8b4a38b1ad428853acfdd75bb36a2f12]
+### 7. Disinfection[^c-8b4a38b1ad428853acfdd75bb36a2f12]
 
 Disinfection under these Regulations shall be carried out with a disinfectant which is—
 
@@ -179,7 +179,7 @@ Disinfection under these Regulations shall be carried out with a disinfectant wh
 
 ## PART II — THE VACCINATION PROGRAMME
 
-### 8. Prohibition on vaccination except under licence[^key-e72724abab0ff5dab4242775ee47a91b]
+### 8. Prohibition on vaccination except under licence[^c-e72724abab0ff5dab4242775ee47a91b]
 
 (1) A person shall not vaccinate an animal except under the authority of a licence granted by the Department permitting suppressive vaccination or protective vaccination.
 
@@ -189,7 +189,7 @@ Disinfection under these Regulations shall be carried out with a disinfectant wh
 - (b) the administration of a vaccine in accordance with an animal test certificate granted under regulation 8 of the Veterinary Medicines Regulations 2005[^f00014]; or
 - (c) vaccination caused by the Department under regulation 16.
 
-### 9. Factors informing a decision to permit suppressive vaccination or protective vaccination[^key-c3cf6ad33ead6c1ba61b1049904cb283]
+### 9. Factors informing a decision to permit suppressive vaccination or protective vaccination[^c-c3cf6ad33ead6c1ba61b1049904cb283]
 
 (1) The Department shall take into account the following factors in deciding whether to permit suppressive vaccination or protective vaccination—
 
@@ -204,7 +204,7 @@ Disinfection under these Regulations shall be carried out with a disinfectant wh
     - (aa) keeps susceptible animals only for the purposes of conservation, display and education of the public, or scientific research or breeding of such animals for research, and
     - (bb) is approved in relation to those animals under regulation 9 of the Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2005[^f00015];
   - (iii) other premises where susceptible animals are kept for scientific purposes or purposes related to conservation of species or farm animal genetic resources;
-- (c) the criteria in Annex X of Council Directive [2003/85/EC](https://www.legislation.gov.uk/european/directive/2003/0085) on Community measures for the control of foot-and-mouth disease repealing Directive [85/511/EEC](https://www.legislation.gov.uk/european/directive/1985/0511) and Decisions [89/531/EEC](https://www.legislation.gov.uk/european/decision/1989/0531) and [91/665/EEC](https://www.legislation.gov.uk/european/decision/1991/0665) and amending Directive [92/46/EEC](https://www.legislation.gov.uk/european/decision/1992/0046)[^f00016] with the reference to Member States in point 3.1. in Annex X being read as a reference to the Department[^key-90aae5b2bcc2c12f903b1d02ce093d7f] ;
+- (c) the criteria in Annex X of Council Directive [2003/85/EC](https://www.legislation.gov.uk/european/directive/2003/0085) on Community measures for the control of foot-and-mouth disease repealing Directive [85/511/EEC](https://www.legislation.gov.uk/european/directive/1985/0511) and Decisions [89/531/EEC](https://www.legislation.gov.uk/european/decision/1989/0531) and [91/665/EEC](https://www.legislation.gov.uk/european/decision/1991/0665) and amending Directive [92/46/EEC](https://www.legislation.gov.uk/european/decision/1992/0046)[^f00016] with the reference to Member States in point 3.1. in Annex X being read as a reference to the Department[^c-90aae5b2bcc2c12f903b1d02ce093d7f] ;
 - (d) other means of preventing the spread of disease available to it;
 - (e) in the case of suppressive vaccination, whether such vaccination is necessary urgently to prevent the spread of disease from a premises or geographical area by reducing the quantity of circulating disease virus there; and
 - (f) in the case of protective vaccination—
@@ -215,7 +215,7 @@ Disinfection under these Regulations shall be carried out with a disinfectant wh
 
 (3) If the Department decides to undertake a vaccination programme it shall grant one or more licences permitting suppressive vaccination or protective vaccination.
 
-### 10. Form of the decision to undertake a vaccination programme[^key-336af84a7111d558cd56c1230d4cc13b]
+### 10. Form of the decision to undertake a vaccination programme[^c-336af84a7111d558cd56c1230d4cc13b]
 
 (1) The decision to undertake a vaccination programme shall be given in writing.
 
@@ -234,13 +234,13 @@ Disinfection under these Regulations shall be carried out with a disinfectant wh
 
 (4) The Department shall take such steps as it considers fit to bring a decision referred to in paragraph (1) or (3) to the attention of those who may be affected by it.
 
-### 11. Licences permitting suppressive vaccination or protective vaccination[^key-eee5298f56898b9bc4d40274b401995b]
+### 11. Licences permitting suppressive vaccination or protective vaccination[^c-eee5298f56898b9bc4d40274b401995b]
 
 (1) A licence permitting suppressive or protective vaccination shall not authorise vaccination outside a vaccination zone.
 
 (2) A licence permitting suppressive or protective vaccination shall not authorise vaccination in a vaccination surveillance zone.
 
-### 12. Facilitation of vaccination[^key-489fa3c27bf5aae76315778f0b7f06bc]
+### 12. Facilitation of vaccination[^c-489fa3c27bf5aae76315778f0b7f06bc]
 
 (1) The keeper of any animal specified in a decision to undertake a vaccination programme shall, when required by an inspector or a person acting at his direction—
 
@@ -254,7 +254,7 @@ Disinfection under these Regulations shall be carried out with a disinfectant wh
 
 before all the animals so specified have been vaccinated.
 
-### 13. Declaration of a vaccination zone and of a vaccination surveillance zone on suppressive or protective vaccination in Northern Ireland[^key-c96be57d75d226941603ddcdd78b2054]
+### 13. Declaration of a vaccination zone and of a vaccination surveillance zone on suppressive or protective vaccination in Northern Ireland[^c-c96be57d75d226941603ddcdd78b2054]
 
 (1) Where the Department decides to undertake a programme of suppressive or protective vaccination it shall, at the same time, declare any place or geographical area where it is to be undertaken to be a vaccination zone and shall also declare a vaccination surveillance zone.
 
@@ -267,7 +267,7 @@ before all the animals so specified have been vaccinated.
 
 (4) If the Department decides to vary the place or geographical area where a programme of suppressive or protective vaccination is to be undertaken it shall amend the declaration under paragraph (1) so that the vaccination zone comprises the place or geographical area as varied.
 
-### 14. Declaration of a vaccination surveillance zone on suppressive or protective vaccination in the Republic of Ireland[^key-f3d4bc6acdd24abb7691aea8a0b49434]
+### 14. Declaration of a vaccination surveillance zone on suppressive or protective vaccination in the Republic of Ireland[^c-f3d4bc6acdd24abb7691aea8a0b49434]
 
 (1) This regulation applies where a programme of vaccination is to be undertaken in the Republic of Ireland.
 
@@ -282,7 +282,7 @@ before all the animals so specified have been vaccinated.
 - (a) abuts the border of the Republic of Ireland; and
 - (b) extends from that border such that its boundary is at least ten kilometres from the perimeter of any zone having equivalent effect to a vaccination zone in the Republic of Ireland.
 
-### 15. Vaccination zones and vaccination surveillance zones: general provisions[^key-d7ad806bdc08e90faf69406fbd58831a]
+### 15. Vaccination zones and vaccination surveillance zones: general provisions[^c-d7ad806bdc08e90faf69406fbd58831a]
 
 (1) Any premises which are partly inside and partly outside a vaccination zone shall be deemed to be wholly within it.
 
@@ -297,7 +297,7 @@ before all the animals so specified have been vaccinated.
 
 (5) Nothing in paragraph (1) shall deem any part of a premises lying outside Northern Ireland to be within a vaccination zone.
 
-### 16. Power to vaccinate an animal[^key-2752745797ae600b39ae98403a3fe0c8]
+### 16. Power to vaccinate an animal[^c-2752745797ae600b39ae98403a3fe0c8]
 
 For the purpose of preventing the spread of disease the Department may cause the vaccination of any animal—
 
@@ -305,7 +305,7 @@ For the purpose of preventing the spread of disease the Department may cause the
 - (b) which appears to the Department to be or to have been in any way exposed to the infection or disease; or
 - (c) which is in a vaccination zone or a protection zone.
 
-### 17. Identification of vaccinated animals[^key-abbd93b04680fc6c174d0018da2ef180]
+### 17. Identification of vaccinated animals[^c-abbd93b04680fc6c174d0018da2ef180]
 
 (1) The Department shall provide to every person vaccinating an animal under regulation 16 or issued with a licence permitting suppressive vaccination or protective vaccination, sufficient eartags to affix an eartag to every animal which may be vaccinated under that licence.
 
@@ -327,7 +327,7 @@ For the purpose of preventing the spread of disease the Department may cause the
 
 (6) A person vaccinating an animal shall ensure that in the case of any animal to which paragraph (1) applies, the fact that the animal has been vaccinated shall inform the Department to enable the vaccination to be recorded on the Department’s database.
 
-### 18. Removal of eartags and missing eartags[^key-1fcfe566bca9bf7c7f660ed6180be20b]
+### 18. Removal of eartags and missing eartags[^c-1fcfe566bca9bf7c7f660ed6180be20b]
 
 (1) A person shall not remove an eartag affixed under regulation 17.
 
@@ -340,23 +340,23 @@ For the purpose of preventing the spread of disease the Department may cause the
 
 (4) Any person who knows or suspects that an animal has been vaccinated but is not bearing an eartag or a mark applied under paragraph (3)(b) shall immediately notify the keeper of that animal and the Divisional Veterinary Officer.
 
-### 19. Sale and slaughter of vaccinated animals[^key-d9fa8d9b4235d97e86dea85fa25e5f43]
+### 19. Sale and slaughter of vaccinated animals[^c-d9fa8d9b4235d97e86dea85fa25e5f43]
 
 A person shall not sell a vaccinated animal or send such an animal for slaughter unless its bears an eartag affixed under these Regulations, or a mark applied under regulation 18(3)(b).
 
-### 20. Failure to vaccinate animals specified for vaccination[^key-25750551a3b747530f70550f69cd1163]
+### 20. Failure to vaccinate animals specified for vaccination[^c-25750551a3b747530f70550f69cd1163]
 
 (1) Any person (other than an inspector) who knows or suspects that an animal has been specified for vaccination but was not vaccinated at the time when it should have been shall immediately notify the keeper of that animal and the Divisional Veterinary Officer.
 
 (2) If an inspector suspects that an animal has been specified for vaccination but was not vaccinated at the time it should have been he shall arrange for that animal to be vaccinated as soon as is reasonably practicable.
 
-### 21. Carcases of animals specified for vaccination[^key-393be9d3cfd51e480d11eb480364be95]
+### 21. Carcases of animals specified for vaccination[^c-393be9d3cfd51e480d11eb480364be95]
 
 (1) If an inspector knows or suspects that a carcase is of a vaccinated animal and is intended for sale (whether before or after processing into any animal product), but is not being dealt with as the carcase of a vaccinated animal he may serve a notice on the person in charge of the carcase requiring him to arrange for its disposal.
 
 (2) If an inspector knows or suspects that a carcase is of an animal specified for vaccination which has not been vaccinated (whether before or after processing into any animal product), he shall serve a notice on the person in charge of the carcase requiring him to deal with it at all times as if it was the carcase of a vaccinated animal.
 
-### 22. Time phases and measures applicable in respect of a vaccination zone[^key-8e85ef9cd76edca47b3c59c94c3bbad5]
+### 22. Time phases and measures applicable in respect of a vaccination zone[^c-8e85ef9cd76edca47b3c59c94c3bbad5]
 
 (1) After 30 days have elapsed since all animals in a vaccination zone specified for vaccination in a decision to undertake a programme of vaccination have been vaccinated, the Department may declare the end of phase 1 and the commencement of phase 2 and the declaration shall specify the date and time it is to take effect.
 
@@ -368,7 +368,7 @@ A person shall not sell a vaccinated animal or send such an animal for slaughter
 
 (5) Subject to regulation 24, the provisions of the Schedule apply in respect of a vaccination zone without prejudice to any requirements or restrictions applying in any part of it because that part falls within a protection zone or a surveillance zone.
 
-### 23. Survey and classification of premises during phase 2[^key-864dd76771804646148f15aa0dc14c2c]
+### 23. Survey and classification of premises during phase 2[^c-864dd76771804646148f15aa0dc14c2c]
 
 (1) The Department shall ensure that during phase 2 a clinical and serological survey of all premises in the vaccination zone where a susceptible animal is kept is carried out in accordance with the method set out in paragraph (2).
 
@@ -391,7 +391,7 @@ A person shall not sell a vaccinated animal or send such an animal for slaughter
 
 (7) A person carrying out a diagnostic test shall do so in accordance with the requirements of Annex XIII of the Directive.
 
-### 24. Measures applicable to reactor premises[^key-f9aff42007af10d299beb7110360bb21]
+### 24. Measures applicable to reactor premises[^c-f9aff42007af10d299beb7110360bb21]
 
 The following measures apply to reactor premises—
 
@@ -401,7 +401,7 @@ The following measures apply to reactor premises—
 - (d) the Department shall ensure that the premises are cleansed and disinfected in accordance with Schedule 3 to the FMD Regulations;
 - (e) a person shall not restock the premises except under the authority of a licence granted by the Department and in accordance with Schedule 4 to the FMD Regulations.
 
-### 25. Measures applying in a vaccination surveillance zone[^key-615f4511c3b4068be705840ba88d5094]
+### 25. Measures applying in a vaccination surveillance zone[^c-615f4511c3b4068be705840ba88d5094]
 
 (1) A person shall not move any susceptible animal within or out of a vaccination surveillance zone except—
 
@@ -410,17 +410,17 @@ The following measures apply to reactor premises—
 
 (2) This regulation applies in addition to any requirements or restrictions applying in any part of a vaccination surveillance zone because that part falls within a protection zone or a surveillance zone.
 
-### 26. Duty of the Department to erect signs[^key-35cc72a91d848934f888ab66e2113928]
+### 26. Duty of the Department to erect signs[^c-35cc72a91d848934f888ab66e2113928]
 
 The Department shall ensure that the boundaries of every vaccination zone and vaccination surveillance zone are indicated by signs erected in a conspicuous position on all roads entering the zones on which it considers susceptible animals are likely to be moved.
 
-### 27. Trade to the EU[^key-68b55bf9c8ec49ab938ae0ceba6ffb19][^key-e6772c8106707f479f2eea680e6497c7]
+### 27. Trade to the EU[^c-68b55bf9c8ec49ab938ae0ceba6ffb19][^c-e6772c8106707f479f2eea680e6497c7]
 
-A person shall not send any vaccinated animal for trade to the EU[^key-bcfb660b53505854792dc0a66ecb2a36] .
+A person shall not send any vaccinated animal for trade to the EU[^c-bcfb660b53505854792dc0a66ecb2a36] .
 
 ## PART III — GENERAL AND SUPPLEMENTARY PROVISIONS
 
-### 28. Cleansing and disinfection of vehicles: provision of facilities, equipment and materials[^key-8ce8eedaa182b55ee65b2011785ed275]
+### 28. Cleansing and disinfection of vehicles: provision of facilities, equipment and materials[^c-8ce8eedaa182b55ee65b2011785ed275]
 
 (1) A person carrying out disinfection or cleansing and disinfection under these Regulations shall do so in accordance with the requirements of the Transport of Animals (Cleansing and Disinfection) Order (Northern Ireland) 2000[^f00017].
 
@@ -431,11 +431,11 @@ A person shall not send any vaccinated animal for trade to the EU[^key-bcfb660b5
 
 (3) Where cleansing and disinfection of vehicles is required at any premises by or under these Regulations, the occupier of those premises shall provide adequate facilities and proper equipment and materials for that cleansing and disinfection.
 
-### 29. Marks applied under these Regulations[^key-95ef03e7ce4bf27eca9b74accb21ef9e]
+### 29. Marks applied under these Regulations[^c-95ef03e7ce4bf27eca9b74accb21ef9e]
 
 A person shall not remove, obscure or erase a mark applied to any animal, animal product, vehicle or other thing under these Regulations without the written authority of an inspector.
 
-### 30. Change of occupation of premises under restriction[^key-8d1ce0c51d62acca6fc487ab13b1c1a8]
+### 30. Change of occupation of premises under restriction[^c-8d1ce0c51d62acca6fc487ab13b1c1a8]
 
 (1) This regulation applies if the keeper of any animal or poultry is unable to move it from premises on the termination of his right of occupation because of a restriction imposed by or under these Regulations and continues to apply for 7 days after the last restriction is removed.
 
@@ -448,15 +448,15 @@ A person shall not remove, obscure or erase a mark applied to any animal, animal
 
 (4) The keeper of the animal or poultry is liable to pay any reasonable costs incurred by a person feeding or tending it under this regulation, or providing facilities for feeding, tending or otherwise using it under this regulation.
 
-### 31. Reasonable assistance[^key-c0a84e5e6b76122224c2597bd0c144e0]
+### 31. Reasonable assistance[^c-c0a84e5e6b76122224c2597bd0c144e0]
 
 A person required to give assistance or information to a person acting in the execution of these Regulations for the performance of his functions under them shall, unless he has reasonable cause, do so without delay.
 
-### 32. False information[^key-8dcb3545a8f295ecbc19cb307d1703d3]
+### 32. False information[^c-8dcb3545a8f295ecbc19cb307d1703d3]
 
 A person shall not furnish information which he knows to be false or misleading to a person acting in the execution of these Regulations.
 
-### 33. Production of records[^key-f9ab8e2619520bf5ba227aa7e13e5bf1]
+### 33. Production of records[^c-f9ab8e2619520bf5ba227aa7e13e5bf1]
 
 (1) A person required to produce a record by a person acting in the execution of these Regulations shall do so without delay.
 
@@ -467,25 +467,25 @@ A person shall not furnish information which he knows to be false or misleading 
 
 (3) A person removing records under this regulation shall give a written receipt for them.
 
-### 34. Compliance with notices and directions[^key-bdf0aa0b2196bedf1f676739b8a11bc0]
+### 34. Compliance with notices and directions[^c-bdf0aa0b2196bedf1f676739b8a11bc0]
 
 (1) A notice served under these Regulations shall be complied with at the expense of the person on whom it is served, except where otherwise provided in that notice.
 
 (2) A direction given under these Regulations shall be complied with at the expense of the person to whom it is given, except where otherwise provided in a written direction of the Department.
 
-### 35. Slaughter of vaccinated animals[^key-bbb3611cef775b7b0a572642032b59d0]
+### 35. Slaughter of vaccinated animals[^c-bbb3611cef775b7b0a572642032b59d0]
 
 The power conferred by paragraph 3B of part 1 of Schedule 2 to the Order extends to taking any action—
 
 - (a) which is required to enable any such animal to be slaughtered; or
 - (b) which is otherwise required in connection with the slaughter.
 
-### 36. Powers of inspectors[^key-a80e5234ceb0baa6e3ad8be38e28f3e4]
+### 36. Powers of inspectors[^c-a80e5234ceb0baa6e3ad8be38e28f3e4]
 
 (1) The following provisions of the Order shall apply as if these Regulations were an order made under the Order—
 
 - (a) Article 46 (general power of inspectors);
-- (b) Article 46A (powers of inspectors relating to assimilated[^key-f9ac99bf950ef07103e9ab7053f2d71f][^key-3c091fab6ce7e8680fe5864abce3ef18] law or Protocol obligations); and
+- (b) Article 46A (powers of inspectors relating to assimilated[^c-f9ac99bf950ef07103e9ab7053f2d71f][^c-3c091fab6ce7e8680fe5864abce3ef18] law or Protocol obligations); and
 - (c) Article 48 (power to detain vessels and aircraft).
 
 (2) An inspector may stop, detain and inspect any vehicle to ascertain whether the provisions of any of these Regulations are being complied with within—
@@ -497,11 +497,11 @@ The power conferred by paragraph 3B of part 1 of Schedule 2 to the Order extends
 
 (4) An inspector may at any time enter any land or premises for the purpose of ascertaining whether a power conferred under these Regulations to cause an animal to be slaughtered should be exercised.
 
-### 37. Production of licences[^key-0185d576b5b70f17a06ae0680ee1ed98]
+### 37. Production of licences[^c-0185d576b5b70f17a06ae0680ee1ed98]
 
 Every person issued with a licence under these Regulations shall, while executing the licensed activity, carry the licence and produce it to an inspector on demand.
 
-### 38. General powers of inspectors to take action to prevent the spread of disease[^key-cec3871354e61c43e02ba7687a46fa1d]
+### 38. General powers of inspectors to take action to prevent the spread of disease[^c-cec3871354e61c43e02ba7687a46fa1d]
 
 (1) This regulation applies in every vaccination zone and vaccination surveillance zone.
 
@@ -516,7 +516,7 @@ Every person issued with a licence under these Regulations shall, while executin
 
 (3) A notice under this regulation may contain such directions and conditions as the person serving it considers necessary to prevent the spread of disease.
 
-### 39. Powers of inspectors in case of default[^key-8acd64543f0fa9708178a58e49280a76]
+### 39. Powers of inspectors in case of default[^c-8acd64543f0fa9708178a58e49280a76]
 
 (1) Where a person fails to comply with a requirement imposed by or under these Regulations, an inspector may take any steps he considers necessary to ensure the requirement is met.
 
@@ -528,7 +528,7 @@ Every person issued with a licence under these Regulations shall, while executin
 
 (5) The person in default shall reimburse any reasonable expenses incurred by the Department in taking such steps and any such amount is recoverable as a civil debt.
 
-### 40. Enforcement, offences and proceedings[^key-3d715f4e672ba65963ec287618fe0893]
+### 40. Enforcement, offences and proceedings[^c-3d715f4e672ba65963ec287618fe0893]
 
 The following provisions of the Order shall apply as if these Regulations were an order made under the Order—
 
@@ -540,7 +540,7 @@ The following provisions of the Order shall apply as if these Regulations were a
 - (f) Article 56 (venue);
 - (g) Article 57 (proceedings under Customs Acts for unlawful landing or shipping).
 
-### 41. Offences: no knowledge of restriction or requirement[^key-9db2b6e9e20fa8fa9366ab9e68b3e2f1]
+### 41. Offences: no knowledge of restriction or requirement[^c-9db2b6e9e20fa8fa9366ab9e68b3e2f1]
 
 A person shall not be guilty of failing to comply with a restriction or requirement which applies because of the declaration of—
 
@@ -563,7 +563,7 @@ Regulation 22(5)
 
 ### PART I — MOVEMENT OF SUSCEPTIBLE ANIMALS
 
-#### 1. Movement of a susceptible animal during phase 1[^key-916de35fdd5d192a3db5e2afa2b1be11]
+#### 1. Movement of a susceptible animal during phase 1[^c-916de35fdd5d192a3db5e2afa2b1be11]
 
 (1) During phase 1 a person shall not move any susceptible animal within or out of a vaccination zone except for movement wholly within the same premises or movement under the authority of a licence granted by the Department.
 
@@ -579,7 +579,7 @@ Regulation 22(5)
 - (a) the Department has within the previous 24 hours carried out a clinical inspection on every susceptible animal on the premises; and
 - (b) it is satisfied there is no suspicion of infection or contamination on the premises.
 
-#### 2. Movement of a susceptible animal during phase 2[^key-653e2c3413d39e2de89e1545177747a0]
+#### 2. Movement of a susceptible animal during phase 2[^c-653e2c3413d39e2de89e1545177747a0]
 
 (1) During phase 2, a person shall not move any susceptible animal from or to any premises in a vaccination zone except under the authority of a licence granted by the Department.
 
@@ -598,7 +598,7 @@ Regulation 22(5)
 - (a) the animal does not come into contact with any other susceptible animal during transport or in the slaughterhouse; and
 - (b) the animal is accompanied during transport by a copy of the notice classifying its premises of origin under regulation 23(3), certified as a true copy by the Department.
 
-#### 3. Movement of a susceptible animal during phase 3[^key-593243cf328637d01d65066074856ea2]
+#### 3. Movement of a susceptible animal during phase 3[^c-593243cf328637d01d65066074856ea2]
 
 (1) During phase 3, a person shall not move a susceptible animal within or out of a vaccination zone except for movement wholly within the same premises or movement under the authority of a licence granted by the Department.
 
@@ -644,7 +644,7 @@ Regulation 22(5)
 - (a) before slaughter each animal undergoes an ante-mortem health check at the slaughterhouse; and
 - (b) at the slaughterhouse, the transported animal does not come into contact with any other animal.
 
-#### 4. Cleansing and disinfection of vehicles transporting susceptible animals[^key-54408dae78921399fba78017f00ad24c]
+#### 4. Cleansing and disinfection of vehicles transporting susceptible animals[^c-54408dae78921399fba78017f00ad24c]
 
 (1) The person in charge of any vehicle used to move susceptible animals under the authority of a licence granted under paragraph 1, 2 or 3 shall—
 
@@ -660,7 +660,7 @@ Regulation 22(5)
 
 (3) Such cleansing and disinfection shall also be undertaken after loading and before leaving the premises of origin in respect of the wheels and wheel arches only of the vehicle to ensure they are clean on leaving the premises.
 
-#### 5. Production of licences and unloading after licensed movements[^key-fc1f7be9896f41b0eecaf1b42567ca0e]
+#### 5. Production of licences and unloading after licensed movements[^c-fc1f7be9896f41b0eecaf1b42567ca0e]
 
 (1) This paragraph applies where any licence is granted for movement of a susceptible animal between premises under this Part, unless that licence provides otherwise.
 
@@ -674,7 +674,7 @@ Regulation 22(5)
 
 ### PART II — FRESH MEAT,MINCED MEAT, MECHANICALLY SEPERATED MEAT AND MEAT PREPARATIONS
 
-#### 6. Fresh meat etc. derived from a vaccinated animal slaughtered during phase 1[^key-8132f1da5408acea6d1f7c3bbbae1552]
+#### 6. Fresh meat etc. derived from a vaccinated animal slaughtered during phase 1[^c-8132f1da5408acea6d1f7c3bbbae1552]
 
 (1) This paragraph applies to fresh meat, minced meat, mechanically separated meat and meat preparations derived from vaccinated animals slaughtered in a vaccination zone during phase 1.
 
@@ -685,7 +685,7 @@ Regulation 22(5)
 - (c) it was transported in sealed containers for treatment to an establishment designated by the Department;
 - (d) it was treated at that establishment so that it falls within paragraph 1 of Part I of Schedule 6 to the FMD Regulations.
 
-#### 7. Fresh meat etc. derived from a vaccinated ruminant slaughtered during phase 2[^key-bb8777ed2474c9aa1cf761876189b976]
+#### 7. Fresh meat etc. derived from a vaccinated ruminant slaughtered during phase 2[^c-bb8777ed2474c9aa1cf761876189b976]
 
 (1) This paragraph applies to fresh meat, minced meat, mechanically separated meat and meat preparations derived from a vaccinated ruminant slaughtered in a vaccination zone during phase 2.
 
@@ -704,7 +704,7 @@ Regulation 22(5)
   - (ii) obtained from animals reared and slaughtered outside a vaccination zone; and
 - (b) it is health marked or identification marked.
 
-#### 8. Fresh meat etc. from vaccinated swine slaughtered during phase 2[^key-97a934b77983e030280012b1bc6ab46b]
+#### 8. Fresh meat etc. from vaccinated swine slaughtered during phase 2[^c-97a934b77983e030280012b1bc6ab46b]
 
 (1) This paragraph applies to fresh meat, minced meat, mechanically separated meat and meat preparations derived from vaccinated swine slaughtered in a vaccination zone during phase 2.
 
@@ -715,7 +715,7 @@ Regulation 22(5)
 - (c) it was transported in sealed containers for treatment to an establishment designated by the Department;
 - (d) it was treated at that establishment so that it falls within paragraph 1 of Part 1 of Schedule 6 to the FMD Regulations.
 
-#### 9. Fresh meat etc. derived from an unvaccinated susceptible animal slaughtered in a vaccination zone during phase 3[^key-df64c5ed9f3260854e0a1d494752f13b]
+#### 9. Fresh meat etc. derived from an unvaccinated susceptible animal slaughtered in a vaccination zone during phase 3[^c-df64c5ed9f3260854e0a1d494752f13b]
 
 (1) This paragraph applies to fresh meat, minced meat, mechanically separated meat and meat preparations derived from an unvaccinated susceptible animal slaughtered in a vaccination zone during phase 3.
 
@@ -750,7 +750,7 @@ Regulation 22(5)
   - (iii) comes from animals which were reared and slaughtered outside a vaccination zone; and
 - (b) it is health marked or identification marked.
 
-#### 10. Fresh meat etc. derived from a vaccinated ruminant and the unvaccinated seropositive offspring of a vaccinated ruminant dam slaughtered during phase 3[^key-53076dee33974c5d4a130dd287305fae]
+#### 10. Fresh meat etc. derived from a vaccinated ruminant and the unvaccinated seropositive offspring of a vaccinated ruminant dam slaughtered during phase 3[^c-53076dee33974c5d4a130dd287305fae]
 
 (1) This paragraph applies to fresh meat, minced meat, mechanically separated meat and meat preparations derived from the following animals slaughtered in a vaccination zone during phase 3—
 
@@ -782,7 +782,7 @@ Regulation 22(5)
   - (iii) comes from animals which were reared and slaughtered outside a vaccination zone; and
 - (b) it is health or identification marked.
 
-#### 11. Fresh meat etc. derived from vaccinated swine and the unvaccinated seropositive offspring of vaccinated swine slaughtered during phase 3[^key-5a55e516a36e84712358b619b6ac3a35]
+#### 11. Fresh meat etc. derived from vaccinated swine and the unvaccinated seropositive offspring of vaccinated swine slaughtered during phase 3[^c-5a55e516a36e84712358b619b6ac3a35]
 
 (1) This paragraph applies to fresh meat, minced meat, mechanically separated meat and meat preparations derived from the following animals slaughtered in a vaccination zone during phase 3—
 
@@ -811,7 +811,7 @@ Regulation 22(5)
 
 ### PART III — PRODUCTS OTHER THAN FRESH MEAT ETC.
 
-#### 12. Milk and milk products produced from a vaccinated animal[^key-e929f8c6f9b4c80c93040ad89180e221]
+#### 12. Milk and milk products produced from a vaccinated animal[^c-e929f8c6f9b4c80c93040ad89180e221]
 
 (1) A person shall not sell or consign for sale the milk produced by a vaccinated animal or any milk product produced from such milk unless it complies with sub-paragraph (2).
 
@@ -831,7 +831,7 @@ Regulation 22(5)
   - (iii) is raw milk obtained from outside a vaccination zone;
 - (c) they are operated so that milk on the premises and leaving the premises is clearly identified as eligible for sale outside the vaccination zone to the final consumer and is at all times stored and transported separately from raw milk and raw milk products which are not so eligible.
 
-#### 13. Collection, transport and processing of milk produced in a vaccination zone[^key-5f4d42702199ff927f387f1a9ead5b7a]
+#### 13. Collection, transport and processing of milk produced in a vaccination zone[^c-5f4d42702199ff927f387f1a9ead5b7a]
 
 (1) A person shall not collect and transport milk produced in a vaccination zone unless such transport complies with sub-paragraph (2) and is carried out in a vehicle which complies with sub-paragraph (3).
 
@@ -860,7 +860,7 @@ Regulation 22(5)
 
 (6) A person shall not process milk transported under sub-paragraph (2) except under the authority of a licence granted by an inspector.
 
-#### 14. Artificial insemination and collection of ova and embryos[^key-f6eeae64f227f85620c085b7f27e81e4]
+#### 14. Artificial insemination and collection of ova and embryos[^c-f6eeae64f227f85620c085b7f27e81e4]
 
 (1) A person shall not collect semen for artificial insemination from a susceptible animal kept in a semen collection centre in a vaccination zone unless such collection complies with sub-paragraph (3) and either sub-paragraph (4) or (5).
 
@@ -889,7 +889,7 @@ Regulation 22(5)
   - (i) a negative result has been achieved in a test for detection of either the disease virus or viral genome or for the detection of antibody against non structural proteins carried out by the Department at the end of the quarantine period for the semen on samples taken from all susceptible animals present at the semen collection centre at that time; and
   - (ii) 5% of the semen from each collection (with a minimum of 5 straws) has been subjected to a virus isolation test for disease carried out by the Department with negative results.
 
-#### 15. Hides and skins[^key-efe3636606919b3425661b3dfadff43f]
+#### 15. Hides and skins[^c-efe3636606919b3425661b3dfadff43f]
 
 (1) This paragraph applies to hides and skins of susceptible animals originating in a vaccination zone.
 
@@ -900,7 +900,7 @@ Regulation 22(5)
   - (ii) at all times stored separately from hides and skins which were not so produced; or
 - (b) it has been treated so that it falls within paragraph 2 of Part I of Schedule 6 to the FMD Regulations.
 
-#### 16. Wool, ruminant hair and pig bristles[^key-5529737b24a83c1c20f312030119075e]
+#### 16. Wool, ruminant hair and pig bristles[^c-5529737b24a83c1c20f312030119075e]
 
 (1) This paragraph applies to wool, ruminant hair and pig bristles from animals originating in a vaccination zone.
 
@@ -911,7 +911,7 @@ Regulation 22(5)
   - (ii) at all times stored separately from wool ruminant hair and pig bristles which were not so produced; or
 - (b) has been treated so that it falls within paragraph 3 of Part I of Schedule 6 to the FMD Regulations.
 
-#### 17. Other animal products[^key-18a1ab4aeea28f2097c4fbbd4d240047]
+#### 17. Other animal products[^c-18a1ab4aeea28f2097c4fbbd4d240047]
 
 (1) This paragraph applies to any animal product other than—
 
@@ -962,7 +962,7 @@ if it is produced from susceptible animals originating in a vaccination zone.
 
 (6) In this paragraph, “infection date” means, in respect of any premises, the date confirmed by the Chief Veterinary Officer under regulation 11(10) of the FMD Regulations.
 
-#### 18. Transport, treatment and distribution of dung, manure and slurry[^key-ae9a9127b592249c867feb3e28ff63d7]
+#### 18. Transport, treatment and distribution of dung, manure and slurry[^c-ae9a9127b592249c867feb3e28ff63d7]
 
 (1) This paragraph applies to dung, manure or slurry from premises in a vaccination zone where a susceptible animal is kept.
 
@@ -970,10 +970,10 @@ if it is produced from susceptible animals originating in a vaccination zone.
 
 (3) Transport of dung, manure or slurry complies with this sub-paragraph where it is to an establishment for treatment to destroy the disease virus and is under the authority of a licence granted by the Department.
 
-(4)[^key-98b3b05c25eb60ad0630a34952c7d8c6] The occupier of any premises to which dung or manure is transported by authority of a licence granted under sub-paragraph (3) shall ensure that it is treated in accordance with—
+(4)[^c-98b3b05c25eb60ad0630a34952c7d8c6] The occupier of any premises to which dung or manure is transported by authority of a licence granted under sub-paragraph (3) shall ensure that it is treated in accordance with—
 
 - (a) Articles 15 and 32 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No. 1774/2002](https://www.legislation.gov.uk/european/regulation/2002/1774) (Animal by-products Regulation); and
-- (b) Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011 to Regulation (EU) No. 142/2011 implementing Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) as regards certain samples and items exempt from veterinary checks at the border under that Directive , as last amended by Commission Regulation (EU) 2015/9[^key-2258e8f65f05ffefb28482c1e5b15cce] .
+- (b) Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011 to Regulation (EU) No. 142/2011 implementing Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive [97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) as regards certain samples and items exempt from veterinary checks at the border under that Directive , as last amended by Commission Regulation (EU) 2015/9[^c-2258e8f65f05ffefb28482c1e5b15cce] .
 
 (5) Transport of dung, manure or slurry complies with this sub-paragraph if—
 
@@ -1055,19 +1055,19 @@ Regulation 38 confers general powers on an inspector to take action to prevent t
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-3cfcf005950da23049a3b5cb6a667df4]: Commencement: Reg. 1 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-3cfcf005950da23049a3b5cb6a667df4]: Commencement: Reg. 1 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-3f97ee3ce0095845d56107093b4c8e94]: Commencement: Reg. 2 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-3f97ee3ce0095845d56107093b4c8e94]: Commencement: Reg. 2 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
 [^f00003]: Footnote: O.J. No. L2001, 11.8.2000, p. 1
 
-[^key-3e5a26af42013fb7e232bf2dc6f4ee89]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/43/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 10(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/10/a)
+[^c-3e5a26af42013fb7e232bf2dc6f4ee89]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/43/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 10(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/10/a)
 
-[^key-a9c7f2e9dfab7a6a5e62ac6adb585d0a]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/43/regulation/2/1) omitted (30.10.2019) by virtue of [The Animal Health and Welfare (Amendment) (No. 2) Regulations (Northern Ireland) 2019 (S.R. 2019/197)](https://www.legislation.gov.uk/nisr/2019/197), [reg. 1](https://www.legislation.gov.uk/nisr/2019/197/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2019/197/schedule/1/paragraph/2)
+[^c-a9c7f2e9dfab7a6a5e62ac6adb585d0a]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/43/regulation/2/1) omitted (30.10.2019) by virtue of [The Animal Health and Welfare (Amendment) (No. 2) Regulations (Northern Ireland) 2019 (S.R. 2019/197)](https://www.legislation.gov.uk/nisr/2019/197), [reg. 1](https://www.legislation.gov.uk/nisr/2019/197/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2019/197/schedule/1/paragraph/2)
 
-[^key-404bb2ff60e8046624475df83c6903e1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/43/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/10/b)
+[^c-404bb2ff60e8046624475df83c6903e1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/43/regulation/2/1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 10(b)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/10/b)
 
-[^key-524bfba7fb7eb632ca7ca193cfe72de3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/43/regulation/2/1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [14(2)(a)](https://www.legislation.gov.uk/nisr/2019/227/regulation/14/2/a)
+[^c-524bfba7fb7eb632ca7ca193cfe72de3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/43/regulation/2/1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [14(2)(a)](https://www.legislation.gov.uk/nisr/2019/227/regulation/14/2/a)
 
 [^f00005]: Footnote: O.J. No. L139, 30.4.2004, p. 55. The revised text of the Regulation is contained in a corrigendum (O.J. No. L226, 25.6.2004, p22)
 
@@ -1075,7 +1075,7 @@ Regulation 38 confers general powers on an inspector to take action to prevent t
 
 [^f00007]: Footnote: [S.R. 2005 No.42](https://www.legislation.gov.uk/nisr/2005/42)
 
-[^key-1d1de89043d9d29ef5b4c5a896ca5de6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/43/regulation/2/1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [14(2)(b)](https://www.legislation.gov.uk/nisr/2019/227/regulation/14/2/b)
+[^c-1d1de89043d9d29ef5b4c5a896ca5de6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/43/regulation/2/1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [14(2)(b)](https://www.legislation.gov.uk/nisr/2019/227/regulation/14/2/b)
 
 [^f00009]: Footnote: [S.R. 2006 No. 3](https://www.legislation.gov.uk/nisr/2006/3)
 
@@ -1083,146 +1083,146 @@ Regulation 38 confers general powers on an inspector to take action to prevent t
 
 [^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-3aeffe8c95fd5d553867b9f01486b03b]: Commencement: Reg. 3 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-3aeffe8c95fd5d553867b9f01486b03b]: Commencement: Reg. 3 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-8d630ab0f584f15e2ed124e55d1e6891]: Commencement: Reg. 4 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-8d630ab0f584f15e2ed124e55d1e6891]: Commencement: Reg. 4 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-691cf27a3bf449085a0877e3e232dbd4]: Commencement: Reg. 5 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-691cf27a3bf449085a0877e3e232dbd4]: Commencement: Reg. 5 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-d83ad204d0a6e62dc6b79535da7cae7c]: Commencement: Reg. 6 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-d83ad204d0a6e62dc6b79535da7cae7c]: Commencement: Reg. 6 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-8b4a38b1ad428853acfdd75bb36a2f12]: Commencement: Reg. 7 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-8b4a38b1ad428853acfdd75bb36a2f12]: Commencement: Reg. 7 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
 [^f00012]: Footnote: [S.R. 1972 No. 16](https://www.legislation.gov.uk/nisr/1972/16) as amended by [SR&O 1975 No.69](https://www.legislation.gov.uk/nisr/1975/69), [S.R. 1995 No.467](https://www.legislation.gov.uk/nisr/1995/467) and [S.R. 2006 No.42](https://www.legislation.gov.uk/nisr/2006/42)
 
-[^key-e72724abab0ff5dab4242775ee47a91b]: Commencement: Reg. 8 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-e72724abab0ff5dab4242775ee47a91b]: Commencement: Reg. 8 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
 [^f00013]: Footnote: [S.R. 1999 No. 434](https://www.legislation.gov.uk/nisr/1999/434)
 
 [^f00014]: Footnote: S.I. [2005/2745](https://www.legislation.gov.uk/uksi/2005/2745)
 
-[^key-c3cf6ad33ead6c1ba61b1049904cb283]: Commencement: Reg. 9 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-c3cf6ad33ead6c1ba61b1049904cb283]: Commencement: Reg. 9 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
 [^f00015]: Footnote: [S.R. 2005 No. 78](https://www.legislation.gov.uk/nisr/2005/78) as amended by [S.R. 2005 No. 446](https://www.legislation.gov.uk/nisr/2005/446)
 
 [^f00016]: Footnote: O.J. No. L306, 22.11.2003, p1
 
-[^key-90aae5b2bcc2c12f903b1d02ce093d7f]: Textual amendment: Words in [reg. 9(1)(c)](https://www.legislation.gov.uk/nisr/2006/43/regulation/9/1/c) inserted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/111/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-90aae5b2bcc2c12f903b1d02ce093d7f]: Textual amendment: Words in [reg. 9(1)(c)](https://www.legislation.gov.uk/nisr/2006/43/regulation/9/1/c) inserted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/111/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-336af84a7111d558cd56c1230d4cc13b]: Commencement: Reg. 10 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-336af84a7111d558cd56c1230d4cc13b]: Commencement: Reg. 10 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-eee5298f56898b9bc4d40274b401995b]: Commencement: Reg. 11 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-eee5298f56898b9bc4d40274b401995b]: Commencement: Reg. 11 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-489fa3c27bf5aae76315778f0b7f06bc]: Commencement: Reg. 12 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-489fa3c27bf5aae76315778f0b7f06bc]: Commencement: Reg. 12 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-c96be57d75d226941603ddcdd78b2054]: Commencement: Reg. 13 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-c96be57d75d226941603ddcdd78b2054]: Commencement: Reg. 13 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-f3d4bc6acdd24abb7691aea8a0b49434]: Commencement: Reg. 14 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-f3d4bc6acdd24abb7691aea8a0b49434]: Commencement: Reg. 14 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-d7ad806bdc08e90faf69406fbd58831a]: Commencement: Reg. 15 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-d7ad806bdc08e90faf69406fbd58831a]: Commencement: Reg. 15 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-2752745797ae600b39ae98403a3fe0c8]: Commencement: Reg. 16 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-2752745797ae600b39ae98403a3fe0c8]: Commencement: Reg. 16 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-abbd93b04680fc6c174d0018da2ef180]: Commencement: Reg. 17 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-abbd93b04680fc6c174d0018da2ef180]: Commencement: Reg. 17 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-1fcfe566bca9bf7c7f660ed6180be20b]: Commencement: Reg. 18 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-1fcfe566bca9bf7c7f660ed6180be20b]: Commencement: Reg. 18 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-d9fa8d9b4235d97e86dea85fa25e5f43]: Commencement: Reg. 19 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-d9fa8d9b4235d97e86dea85fa25e5f43]: Commencement: Reg. 19 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-25750551a3b747530f70550f69cd1163]: Commencement: Reg. 20 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-25750551a3b747530f70550f69cd1163]: Commencement: Reg. 20 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-393be9d3cfd51e480d11eb480364be95]: Commencement: Reg. 21 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-393be9d3cfd51e480d11eb480364be95]: Commencement: Reg. 21 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-8e85ef9cd76edca47b3c59c94c3bbad5]: Commencement: Reg. 22 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-8e85ef9cd76edca47b3c59c94c3bbad5]: Commencement: Reg. 22 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-864dd76771804646148f15aa0dc14c2c]: Commencement: Reg. 23 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-864dd76771804646148f15aa0dc14c2c]: Commencement: Reg. 23 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-f9aff42007af10d299beb7110360bb21]: Commencement: Reg. 24 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-f9aff42007af10d299beb7110360bb21]: Commencement: Reg. 24 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-615f4511c3b4068be705840ba88d5094]: Commencement: Reg. 25 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-615f4511c3b4068be705840ba88d5094]: Commencement: Reg. 25 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-35cc72a91d848934f888ab66e2113928]: Commencement: Reg. 26 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-35cc72a91d848934f888ab66e2113928]: Commencement: Reg. 26 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-68b55bf9c8ec49ab938ae0ceba6ffb19]: Commencement: Reg. 27 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-68b55bf9c8ec49ab938ae0ceba6ffb19]: Commencement: Reg. 27 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-e6772c8106707f479f2eea680e6497c7]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/nisr/2006/43/regulation/27) heading substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2019/111/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e6772c8106707f479f2eea680e6497c7]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/nisr/2006/43/regulation/27) heading substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2019/111/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bcfb660b53505854792dc0a66ecb2a36]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/nisr/2006/43/regulation/27) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/111/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bcfb660b53505854792dc0a66ecb2a36]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/nisr/2006/43/regulation/27) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2019/111/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8ce8eedaa182b55ee65b2011785ed275]: Commencement: Reg. 28 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-8ce8eedaa182b55ee65b2011785ed275]: Commencement: Reg. 28 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
 [^f00017]: Footnote: [S.R. 2000 No. 293](https://www.legislation.gov.uk/nisr/2000/293)
 
-[^key-95ef03e7ce4bf27eca9b74accb21ef9e]: Commencement: Reg. 29 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-95ef03e7ce4bf27eca9b74accb21ef9e]: Commencement: Reg. 29 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-8d1ce0c51d62acca6fc487ab13b1c1a8]: Commencement: Reg. 30 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-8d1ce0c51d62acca6fc487ab13b1c1a8]: Commencement: Reg. 30 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-c0a84e5e6b76122224c2597bd0c144e0]: Commencement: Reg. 31 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-c0a84e5e6b76122224c2597bd0c144e0]: Commencement: Reg. 31 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-8dcb3545a8f295ecbc19cb307d1703d3]: Commencement: Reg. 32 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-8dcb3545a8f295ecbc19cb307d1703d3]: Commencement: Reg. 32 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-f9ab8e2619520bf5ba227aa7e13e5bf1]: Commencement: Reg. 33 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-f9ab8e2619520bf5ba227aa7e13e5bf1]: Commencement: Reg. 33 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-bdf0aa0b2196bedf1f676739b8a11bc0]: Commencement: Reg. 34 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-bdf0aa0b2196bedf1f676739b8a11bc0]: Commencement: Reg. 34 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-bbb3611cef775b7b0a572642032b59d0]: Commencement: Reg. 35 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-bbb3611cef775b7b0a572642032b59d0]: Commencement: Reg. 35 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-a80e5234ceb0baa6e3ad8be38e28f3e4]: Commencement: Reg. 36 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-a80e5234ceb0baa6e3ad8be38e28f3e4]: Commencement: Reg. 36 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-f9ac99bf950ef07103e9ab7053f2d71f]: Textual amendment: Word in [reg. 36(1)(b)](https://www.legislation.gov.uk/nisr/2006/43/regulation/36/1/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 6](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/6)
+[^c-f9ac99bf950ef07103e9ab7053f2d71f]: Textual amendment: Word in [reg. 36(1)(b)](https://www.legislation.gov.uk/nisr/2006/43/regulation/36/1/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 10 para. 6](https://www.legislation.gov.uk/uksi/2025/82/schedule/10/paragraph/6)
 
-[^key-3c091fab6ce7e8680fe5864abce3ef18]: Textual amendment: Words in [reg. 36(1)(b)](https://www.legislation.gov.uk/nisr/2006/43/regulation/36/1/b) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [7](https://www.legislation.gov.uk/nisr/2020/324/regulation/7)
+[^c-3c091fab6ce7e8680fe5864abce3ef18]: Textual amendment: Words in [reg. 36(1)(b)](https://www.legislation.gov.uk/nisr/2006/43/regulation/36/1/b) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [7](https://www.legislation.gov.uk/nisr/2020/324/regulation/7)
 
-[^key-0185d576b5b70f17a06ae0680ee1ed98]: Commencement: Reg. 37 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-0185d576b5b70f17a06ae0680ee1ed98]: Commencement: Reg. 37 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-cec3871354e61c43e02ba7687a46fa1d]: Commencement: Reg. 38 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-cec3871354e61c43e02ba7687a46fa1d]: Commencement: Reg. 38 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-8acd64543f0fa9708178a58e49280a76]: Commencement: Reg. 39 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-8acd64543f0fa9708178a58e49280a76]: Commencement: Reg. 39 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-3d715f4e672ba65963ec287618fe0893]: Commencement: Reg. 40 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-3d715f4e672ba65963ec287618fe0893]: Commencement: Reg. 40 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
 [^f00018]: Footnote: [S.R. 1989 No.5](https://www.legislation.gov.uk/nisr/1989/5)
 
-[^key-9db2b6e9e20fa8fa9366ab9e68b3e2f1]: Commencement: Reg. 41 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-9db2b6e9e20fa8fa9366ab9e68b3e2f1]: Commencement: Reg. 41 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-916de35fdd5d192a3db5e2afa2b1be11]: Commencement: Sch. para. 1 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-916de35fdd5d192a3db5e2afa2b1be11]: Commencement: Sch. para. 1 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-653e2c3413d39e2de89e1545177747a0]: Commencement: Sch. para. 2 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-653e2c3413d39e2de89e1545177747a0]: Commencement: Sch. para. 2 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-593243cf328637d01d65066074856ea2]: Commencement: Sch. para. 3 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-593243cf328637d01d65066074856ea2]: Commencement: Sch. para. 3 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-54408dae78921399fba78017f00ad24c]: Commencement: Sch. para. 4 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-54408dae78921399fba78017f00ad24c]: Commencement: Sch. para. 4 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-fc1f7be9896f41b0eecaf1b42567ca0e]: Commencement: Sch. para. 5 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-fc1f7be9896f41b0eecaf1b42567ca0e]: Commencement: Sch. para. 5 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-8132f1da5408acea6d1f7c3bbbae1552]: Commencement: Sch. para. 6 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-8132f1da5408acea6d1f7c3bbbae1552]: Commencement: Sch. para. 6 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-bb8777ed2474c9aa1cf761876189b976]: Commencement: Sch. para. 7 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-bb8777ed2474c9aa1cf761876189b976]: Commencement: Sch. para. 7 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-97a934b77983e030280012b1bc6ab46b]: Commencement: Sch. para. 8 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-97a934b77983e030280012b1bc6ab46b]: Commencement: Sch. para. 8 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-df64c5ed9f3260854e0a1d494752f13b]: Commencement: Sch. para. 9 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-df64c5ed9f3260854e0a1d494752f13b]: Commencement: Sch. para. 9 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-53076dee33974c5d4a130dd287305fae]: Commencement: Sch. para. 10 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-53076dee33974c5d4a130dd287305fae]: Commencement: Sch. para. 10 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-5a55e516a36e84712358b619b6ac3a35]: Commencement: Sch. para. 11 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-5a55e516a36e84712358b619b6ac3a35]: Commencement: Sch. para. 11 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-e929f8c6f9b4c80c93040ad89180e221]: Commencement: Sch. para. 12 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-e929f8c6f9b4c80c93040ad89180e221]: Commencement: Sch. para. 12 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-5f4d42702199ff927f387f1a9ead5b7a]: Commencement: Sch. para. 13 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-5f4d42702199ff927f387f1a9ead5b7a]: Commencement: Sch. para. 13 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
 [^f00019]: Footnote: [S.R. 1999 No.434](https://www.legislation.gov.uk/nisr/1999/434)
 
-[^key-f6eeae64f227f85620c085b7f27e81e4]: Commencement: Sch. para. 14 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-f6eeae64f227f85620c085b7f27e81e4]: Commencement: Sch. para. 14 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-efe3636606919b3425661b3dfadff43f]: Commencement: Sch. para. 15 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-efe3636606919b3425661b3dfadff43f]: Commencement: Sch. para. 15 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-5529737b24a83c1c20f312030119075e]: Commencement: Sch. para. 16 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-5529737b24a83c1c20f312030119075e]: Commencement: Sch. para. 16 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-18a1ab4aeea28f2097c4fbbd4d240047]: Commencement: Sch. para. 17 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-18a1ab4aeea28f2097c4fbbd4d240047]: Commencement: Sch. para. 17 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-ae9a9127b592249c867feb3e28ff63d7]: Commencement: Sch. para. 18 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
+[^c-ae9a9127b592249c867feb3e28ff63d7]: Commencement: Sch. para. 18 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/43/regulation/1)
 
-[^key-98b3b05c25eb60ad0630a34952c7d8c6]: Textual amendment: [Sch. Pts. 3(4)](https://www.legislation.gov.uk/nisr/2006/43/schedule/part/3/4), [(18)](https://www.legislation.gov.uk/nisr/2006/43/schedule/part/3/18) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 (24) reg. 27](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/regulation/27/24)
+[^c-98b3b05c25eb60ad0630a34952c7d8c6]: Textual amendment: [Sch. Pts. 3(4)](https://www.legislation.gov.uk/nisr/2006/43/schedule/part/3/4), [(18)](https://www.legislation.gov.uk/nisr/2006/43/schedule/part/3/18) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 (24) reg. 27](https://www.legislation.gov.uk/nisr/2011/124/schedule/2/regulation/27/24)
 
-[^key-2258e8f65f05ffefb28482c1e5b15cce]: Textual amendment: Words in [Sch. para. 18(4)(b)](https://www.legislation.gov.uk/nisr/2006/43/schedule/paragraph/18/4/b) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 11](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/11)
+[^c-2258e8f65f05ffefb28482c1e5b15cce]: Textual amendment: Words in [Sch. para. 18(4)(b)](https://www.legislation.gov.uk/nisr/2006/43/schedule/paragraph/18/4/b) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 11](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/11)

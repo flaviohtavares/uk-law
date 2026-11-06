@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-c4e5e83ef40910243f2dfdf440f4a984] After section 18 of the Employment Tribunals Act 1996 (conciliation) insert—
+(1)[^c-c4e5e83ef40910243f2dfdf440f4a984] After section 18 of the Employment Tribunals Act 1996 (conciliation) insert—
 
 > **18A. Requirement to contact ACAS before instituting proceedings**
 >
@@ -94,12 +94,12 @@ summary: ''
 >
 > (6) Subsection (9) of section 18A applies for the purposes of this section as it applies for the purposes of that section.
 
-(2)[^key-51ede5ade13f1a0894af7cbdaef8a3bb][^key-c4e5e83ef40910243f2dfdf440f4a984] Schedule 1 (conciliation: minor and consequential amendments) has effect.
+(2)[^c-51ede5ade13f1a0894af7cbdaef8a3bb][^c-c4e5e83ef40910243f2dfdf440f4a984] Schedule 1 (conciliation: minor and consequential amendments) has effect.
 
 ## Annotations
 
 [^c2181314]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/24/section/7) partly in force; [s. 7](https://www.legislation.gov.uk/ukpga/2013/24/section/7) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-c4e5e83ef40910243f2dfdf440f4a984]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/7/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/7/2) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2014/253/article/3/a/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/253/article/4))
+[^c-c4e5e83ef40910243f2dfdf440f4a984]: Commencement: [S. 7(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/7/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/7/2) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2014/253/article/3/a/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/253/article/4))
 
-[^key-51ede5ade13f1a0894af7cbdaef8a3bb]: Commencement: [S. 7(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/7/2) in force at 6.3.2014 for specified purposes by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 2](https://www.legislation.gov.uk/uksi/2014/253/article/2)
+[^c-51ede5ade13f1a0894af7cbdaef8a3bb]: Commencement: [S. 7(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/7/2) in force at 6.3.2014 for specified purposes by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 2](https://www.legislation.gov.uk/uksi/2014/253/article/2)

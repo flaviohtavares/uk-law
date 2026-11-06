@@ -32,23 +32,23 @@ summary: ''
 
 (3) Subsection (1) is without prejudice to section 105.
 
-(4) The Commissioners may open and examine any postal packet forwarded to them under this section in the presence of a representative of the postal operator[^key-f685836a8260bbac26bd47a7a22cef25].
+(4) The Commissioners may open and examine any postal packet forwarded to them under this section in the presence of a representative of the postal operator[^c-f685836a8260bbac26bd47a7a22cef25].
 
-(5)[^key-42cbcb14e599d7bd370288a214f0d2ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-42cbcb14e599d7bd370288a214f0d2ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) If the Commissioners find any relevant goods on opening and examining a postal packet under this section, they may detain the packet and its contents for the purpose of taking proceedings in relation to them.
 
 (7) If the Commissioners do not find any relevant goods on opening and examining a postal packet under this section, they shall—
 
 - (a) deliver the packet to the addressee upon his paying any postage and other sums chargeable on it, or
-- (b) [^key-f1fdb59883581b279e6c3d9e9133f30a]..., forward the packet to him by post.
+- (b) [^c-f1fdb59883581b279e6c3d9e9133f30a]..., forward the packet to him by post.
 
 ## Annotations
 
 [^c10291961]: Commencement: S. 106 wholly in force at 26.3.2001, see s. 130 and [S.I. 2001/1148](https://www.legislation.gov.uk/uksi/2001/1148), [art. 2](https://www.legislation.gov.uk/uksi/2001/1148/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1148/schedule) (subject to [arts. 3-42](https://www.legislation.gov.uk/uksi/2001/1148/article/3))
 
-[^key-f685836a8260bbac26bd47a7a22cef25]: Textual amendment: Words substituted for s. 106(4)(a)(b) (8.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 57(2)](https://www.legislation.gov.uk/ukpga/2010/13/section/57/2)
+[^c-f685836a8260bbac26bd47a7a22cef25]: Textual amendment: Words substituted for s. 106(4)(a)(b) (8.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 57(2)](https://www.legislation.gov.uk/ukpga/2010/13/section/57/2)
 
-[^key-42cbcb14e599d7bd370288a214f0d2ac]: Textual amendment: S. 106(5) omitted (8.4.2010) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2010/13/section/57/3)
+[^c-42cbcb14e599d7bd370288a214f0d2ac]: Textual amendment: S. 106(5) omitted (8.4.2010) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2010/13/section/57/3)
 
-[^key-f1fdb59883581b279e6c3d9e9133f30a]: Textual amendment: Words in s. 106(7)(b) omitted (8.4.2010) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 57(4)](https://www.legislation.gov.uk/ukpga/2010/13/section/57/4)
+[^c-f1fdb59883581b279e6c3d9e9133f30a]: Textual amendment: Words in s. 106(7)(b) omitted (8.4.2010) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 57(4)](https://www.legislation.gov.uk/ukpga/2010/13/section/57/4)

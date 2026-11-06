@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Grounds for discharge by tribunal[^key-93f9fdf9e16b335e64fd818c7aa33966]
+## 7. Grounds for discharge by tribunal[^c-93f9fdf9e16b335e64fd818c7aa33966]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93f9fdf9e16b335e64fd818c7aa33966]: Commencement: S. 7 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-93f9fdf9e16b335e64fd818c7aa33966]: Commencement: S. 7 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.54.2. Warrant, Form of Citation and notices[^key-ccedc83d5ee36cd08e49c826bbb7d969]
+## 3.54.2. Warrant, Form of Citation and notices[^c-ccedc83d5ee36cd08e49c826bbb7d969]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccedc83d5ee36cd08e49c826bbb7d969]: Textual amendment: [Ch. 3 Pt. 54](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/54) inserted (31.3.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Sexual Harm Prevention Orders and Sexual Risk Orders) 2023 (S.S.I. 2023/62)](https://www.legislation.gov.uk/ssi/2023/62), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/2/2)
+[^c-ccedc83d5ee36cd08e49c826bbb7d969]: Textual amendment: [Ch. 3 Pt. 54](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/54) inserted (31.3.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Sexual Harm Prevention Orders and Sexual Risk Orders) 2023 (S.S.I. 2023/62)](https://www.legislation.gov.uk/ssi/2023/62), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/2/2)

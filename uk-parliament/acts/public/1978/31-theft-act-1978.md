@@ -35,13 +35,13 @@ An Act to replace section 16(2)(a) of the Theft Act 1968 with other provision ag
 
 \[20th July 1978\]
 
-## 1. Obtaining services by deception.[^key-b038811801008ec23b3b8ac6f60c4756]
+## 1. Obtaining services by deception.[^c-b038811801008ec23b3b8ac6f60c4756]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Evasion of liability by deception.[^key-260457e61dda61c99271fce807465eaf]
+## 2. Evasion of liability by deception.[^c-260457e61dda61c99271fce807465eaf]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ An Act to replace section 16(2)(a) of the Theft Act 1968 with other provision ag
 
 (3) Subsection (1) above shall not apply where the supply of the goods or the doing of the service is contrary to law, or where the service done is such that payment is not legally enforceable.
 
-(4)[^key-f12e4c02c334e84e84d65f7d21152b87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f12e4c02c334e84e84d65f7d21152b87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Punishments.
 
@@ -67,7 +67,7 @@ An Act to replace section 16(2)(a) of the Theft Act 1968 with other provision ag
 
 (2) A person convicted on indictment shall be liable—
 
-- (a)[^key-7e199f10866a2e8d353cd836aff87448] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7e199f10866a2e8d353cd836aff87448] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for an offence under section 3 of this Act, to imprisonment for a term not exceeding two years.
 
 (3) A person convicted summarily of any offence under this Act shall be liable—
@@ -81,7 +81,7 @@ or to both.
 
 *Extent: E+W*
 
-(1)[^key-762ada84e4f89d09d3b32128b3cd3496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-762ada84e4f89d09d3b32128b3cd3496] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Sections 30(1) (husband and wife), 31(1) (effect on civil proceedings) and 34 (interpretation) of the [^c910069]Theft Act 1968, so far as they are applicable in relation to this Act, shall apply as they apply in relation to that Act.
 
@@ -114,17 +114,17 @@ An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c910074]North
 
 ## Annotations
 
-[^key-b038811801008ec23b3b8ac6f60c4756]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1978/31/section/1) omitted (15.1.2007) by virtue of [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 1(b)(i)](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/1/b/i), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/2/paragraph/3)); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
+[^c-b038811801008ec23b3b8ac6f60c4756]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1978/31/section/1) omitted (15.1.2007) by virtue of [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 1(b)(i)](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/1/b/i), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/2/paragraph/3)); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
 
-[^key-260457e61dda61c99271fce807465eaf]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1978/31/section/2) omitted (15.1.2007) by virtue of [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/1/b/ii), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/2/paragraph/3)); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
+[^c-260457e61dda61c99271fce807465eaf]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1978/31/section/2) omitted (15.1.2007) by virtue of [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/1/b/ii), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/2/paragraph/3)); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
 
-[^key-f12e4c02c334e84e84d65f7d21152b87]: Textual amendment: [S. 3(4)](https://www.legislation.gov.uk/ukpga/1978/31/section/3/4) omitted (1.1.2006) by virtue of [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/20), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-f12e4c02c334e84e84d65f7d21152b87]: Textual amendment: [S. 3(4)](https://www.legislation.gov.uk/ukpga/1978/31/section/3/4) omitted (1.1.2006) by virtue of [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8)[(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/20), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
 
-[^key-7e199f10866a2e8d353cd836aff87448]: Textual amendment: S. 4(2)(a) omitted (15.1.2007) by virtue of [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/14), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
+[^c-7e199f10866a2e8d353cd836aff87448]: Textual amendment: S. 4(2)(a) omitted (15.1.2007) by virtue of [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/14), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
 
 [^c910067]: Textual amendment: Words substituted by [Magistrates' Courts Act 1980 (c. 43, SIF 82)](https://www.legislation.gov.uk/ukpga/1980/43), [Sch. 7 para. 170](https://www.legislation.gov.uk/ukpga/1980/43/schedule/7/paragraph/170)
 
-[^key-762ada84e4f89d09d3b32128b3cd3496]: Textual amendment: [S. 5(1)](https://www.legislation.gov.uk/ukpga/1978/31/section/5/1) omitted (15.1.2007) by virtue of [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/15), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
+[^c-762ada84e4f89d09d3b32128b3cd3496]: Textual amendment: [S. 5(1)](https://www.legislation.gov.uk/ukpga/1978/31/section/5/1) omitted (15.1.2007) by virtue of [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/15), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
 
 [^c910069]: Marginal citation: [1968 c. 60](https://www.legislation.gov.uk/ukpga/1968/60).
 

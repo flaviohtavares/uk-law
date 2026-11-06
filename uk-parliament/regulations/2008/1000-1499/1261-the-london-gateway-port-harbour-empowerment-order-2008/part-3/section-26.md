@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Application of permitted development rights[^key-754cf01d5bb806286a9cf1ae5ae80027]
+## 26. Application of permitted development rights[^c-754cf01d5bb806286a9cf1ae5ae80027]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 5 shall have effect.
 
 ## Annotations
 
-[^key-754cf01d5bb806286a9cf1ae5ae80027]: Commencement: Art. 26 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-754cf01d5bb806286a9cf1ae5ae80027]: Commencement: Art. 26 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

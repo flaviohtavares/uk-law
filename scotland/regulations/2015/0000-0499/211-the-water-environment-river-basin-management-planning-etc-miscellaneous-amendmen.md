@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Scottish Ministers that it is expedient for the references in regulation 3(c) to Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council[^f00003] and to Regulation (EU) No 528/2012 of the European Parliament and of the Council[^f00004] to be references to each instrument as amended from time to time.
 
-## 1. Citation, commencement and interpretation[^key-fcbfaa47adc32c472032ccd70cf5519c]
+## 1. Citation, commencement and interpretation[^c-fcbfaa47adc32c472032ccd70cf5519c]
 
 (1) These Regulations may be cited as the Water Environment (River Basin Management Planning etc.) (Miscellaneous Amendments) (Scotland) Regulations 2015.
 
@@ -58,7 +58,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (4) In these Regulations, “the 2013 Regulations” means the Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^f00005].
 
-## 2. Amendment of Parts 1 and 2 (river basin management planning etc.) of the 2013 Regulations[^key-e822485cb2724572027ff5f462f89d61]
+## 2. Amendment of Parts 1 and 2 (river basin management planning etc.) of the 2013 Regulations[^c-e822485cb2724572027ff5f462f89d61]
 
 In the 2013 Regulations—
 
@@ -70,7 +70,7 @@ In the 2013 Regulations—
 - (b) in regulation 3(1) (setting of environmental objectives), after “5 to 10” insert “and 17”; and
 - (c) in regulation 12(1)(b)(iii) (content of monitoring programme), for “Directive” substitute “Water Framework Directive”.
 
-## 3. Amendment of Part 3 (measures in relation to surface water) of the 2013 Regulations[^key-05a37e0b637f4d9fbaafa36232d2cb64]
+## 3. Amendment of Part 3 (measures in relation to surface water) of the 2013 Regulations[^c-05a37e0b637f4d9fbaafa36232d2cb64]
 
 In the 2013 Regulations—
 
@@ -212,7 +212,7 @@ In the 2013 Regulations—
 
   .
 
-## 4. Amendment of Part 4 (measures in relation to groundwater) of the 2013 Regulations[^key-53f87b90c5bc55d00b4229373aa11644]
+## 4. Amendment of Part 4 (measures in relation to groundwater) of the 2013 Regulations[^c-53f87b90c5bc55d00b4229373aa11644]
 
 In the 2013 Regulations—
 
@@ -223,15 +223,15 @@ In the 2013 Regulations—
   ; and
 - (b) in regulation 21(4)(c), omit “a summary of”.
 
-## 5. Amendment of the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^key-bc323e932804e4d5e09d32419daadbe9]
+## 5. Amendment of the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^c-bc323e932804e4d5e09d32419daadbe9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Savings[^key-c8a7bd7197562267e158024f02989482]
+## 6. Savings[^c-c8a7bd7197562267e158024f02989482]
 
 Until the date on which a revised environmental quality standard for a substance in Part A of Annex I to [Directive 2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) of the European Parliament and of the Council[^f00026] is required to be applied by virtue of the amendments made to the 2013 Regulations by regulation 3(b) of these Regulations, regulation 17(1) of the 2013 Regulations as in force immediately before 14th September 2015 continues to apply in so far as it requires SEPA to apply a different corresponding standard for that substance.
 
-## 7. Revocation[^key-4a876a2e1b06c14fca431435faae1541]
+## 7. Revocation[^c-4a876a2e1b06c14fca431435faae1541]
 
 The Water Environment (Groundwater and Priority Substances) (Scotland) Regulations 2009[^f00027] are revoked.
 
@@ -275,17 +275,17 @@ The powers in section 2(2) of the European Communities Act 1972 are exercised so
 
 [^f00004]: Footnote: OJ L 167, 27.6.2012, p.1, as amended by Commission Delegated Regulation (EU) No 736/2013 (OJ L 204, 31.7.2013, p.25), Commission Delegated Regulation (EU) No 837/2013 (OJ L 234, 3.9.2013, p.1) and Regulation (EU) No 334/2014 of the European Parliament and of the Council (OJ L 103, 5.4.2014, p.22).
 
-[^key-fcbfaa47adc32c472032ccd70cf5519c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/211/regulation/1) in force at 14.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2)
+[^c-fcbfaa47adc32c472032ccd70cf5519c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/211/regulation/1) in force at 14.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2)
 
 [^f00005]: Footnote: [S.S.I. 2013/323](https://www.legislation.gov.uk/ssi/2013/323).
 
-[^key-e822485cb2724572027ff5f462f89d61]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/211/regulation/2) in force at 14.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2)
+[^c-e822485cb2724572027ff5f462f89d61]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/211/regulation/2) in force at 14.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2)
 
 [^f00006]: Footnote: OJ L 327, 22.12.2000, p.1, as amended by Decision No [2455/2001/EC](https://www.legislation.gov.uk/european/decision/2001/2455) (OJ L 331, 15.12.2001, p.1), [Directive 2008/32/EC](https://www.legislation.gov.uk/european/directive/2008/0032) (OJ L 81, 20.3.2008, p.60), [Directive 2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) (OJ L 348, 24.12.2008, p.84), [Directive 2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) (OJ L 140, 5.6.2009, p.114), Directive 2013/39/EU (OJ L 226, 24.8.2013, p.1) and Commission Directive 2014/101/EU (OJ L 311, 31.10.2014, p.32).
 
 [^f00007]: Footnote: OJ L 311, 31.10.2014, p.32.
 
-[^key-05a37e0b637f4d9fbaafa36232d2cb64]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/211/regulation/3) in force at 14.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2)
+[^c-05a37e0b637f4d9fbaafa36232d2cb64]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/211/regulation/3) in force at 14.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2)
 
 [^f00008]: Footnote: OJ L 201, 1.8.2009, p.36.
 
@@ -305,18 +305,18 @@ The powers in section 2(2) of the European Communities Act 1972 are exercised so
 
 [^f00016]: Footnote: OJ L 78, 24.3.2015, p.40.
 
-[^key-53f87b90c5bc55d00b4229373aa11644]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/211/regulation/4) in force at 14.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2)
+[^c-53f87b90c5bc55d00b4229373aa11644]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/211/regulation/4) in force at 14.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2)
 
 [^f00017]: Footnote: OJ L 372, 27.12.2006, p.19.
 
 [^f00018]: Footnote: OJ L 182, 21.6.2014, p.52.
 
-[^key-bc323e932804e4d5e09d32419daadbe9]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/211/regulation/5) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-bc323e932804e4d5e09d32419daadbe9]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/211/regulation/5) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-c8a7bd7197562267e158024f02989482]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/211/regulation/6) in force at 14.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2)
+[^c-c8a7bd7197562267e158024f02989482]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/211/regulation/6) in force at 14.9.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/2)
 
 [^f00026]: Footnote: OJ L 348, 24.12.2008, p.84, as amended by OJ L 226, 24.8.2013, p.1.
 
-[^key-4a876a2e1b06c14fca431435faae1541]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/211/regulation/7) in force at 15.9.2015, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/3)
+[^c-4a876a2e1b06c14fca431435faae1541]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/211/regulation/7) in force at 15.9.2015, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2015/211/regulation/1/3)
 
 [^f00027]: Footnote: [S.S.I. 2009/420](https://www.legislation.gov.uk/ssi/2009/420), as amended by [S.S.I. 2011/209](https://www.legislation.gov.uk/ssi/2011/209) and S.S.I. 2015/XXX.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Community Infrastructure Levy[^key-ceb19a28890a44ca3c6811725d2e7499]
+## 3. Community Infrastructure Levy[^c-ceb19a28890a44ca3c6811725d2e7499]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ There shall be a charge to be known as Community Infrastructure Levy (charged in
 
 ## Annotations
 
-[^key-ceb19a28890a44ca3c6811725d2e7499]: Commencement: Reg. 3 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-ceb19a28890a44ca3c6811725d2e7499]: Commencement: Reg. 3 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

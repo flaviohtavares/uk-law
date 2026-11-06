@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Memorandum of understanding[^key-7791c265b0a56dbdc7b425eeb84545b6][^key-7db1616c36ab042af08ba90152017be8]
+## 26. Memorandum of understanding[^c-7791c265b0a56dbdc7b425eeb84545b6][^c-7db1616c36ab042af08ba90152017be8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7791c265b0a56dbdc7b425eeb84545b6]: Commencement: S. 26 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-7791c265b0a56dbdc7b425eeb84545b6]: Commencement: S. 26 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-7db1616c36ab042af08ba90152017be8]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2021/30/section/26) in force at 17.11.2021 by [S.I. 2021/1274](https://www.legislation.gov.uk/uksi/2021/1274), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/1274/regulation/2/d)
+[^c-7db1616c36ab042af08ba90152017be8]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2021/30/section/26) in force at 17.11.2021 by [S.I. 2021/1274](https://www.legislation.gov.uk/uksi/2021/1274), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/1274/regulation/2/d)

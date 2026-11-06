@@ -53,7 +53,7 @@ summary: ''
 (7) In this regulation—
 
 - “**capped period**” means a period which, apart from this regulation, a person would be able to count as reckonable service and which is attributable either to pensionable employment in which the person's contributable salary was subject to a cap under regulation 17(4) (cap on contributable salary), regulation C1(8) of TPR 1997 or regulation C1(12) of TSR 1988 or to a transfer value accepted from a pension scheme whose benefits were subject to the limits imposed under section 590C of the Income and Corporation Taxes Act 1988 [^c20237781] or regulation 4 of the Registered Pension Schemes (Modification of the Rules of Existing Schemes) Regulations 2006 [^c20237791];
-- “**permitted maximum**” has the meaning given in regulation 17(12)[^key-4b37dc090212a95c42a1e9333eaf0de9];
+- “**permitted maximum**” has the meaning given in regulation 17(12)[^c-4b37dc090212a95c42a1e9333eaf0de9];
 - “**uncapped contributable salary**” means contributable salary without taking into account the cap under regulation 17 (cap on contributable salary), regulation C1(8) of TPR 1997 or regulation C1(12) of TSR 1988;
 - “**uncapped period**” means a period which, apart from this regulation, a person would be able to count as reckonable service and which is not a capped period.
 
@@ -65,4 +65,4 @@ summary: ''
 
 [^c20237791]: Marginal citation: [S.I. 2006/364](https://www.legislation.gov.uk/uksi/2006/364)
 
-[^key-4b37dc090212a95c42a1e9333eaf0de9]: Textual amendment: Words in [reg. 44(7)](https://www.legislation.gov.uk/uksi/2010/990/regulation/44/7) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [11](https://www.legislation.gov.uk/uksi/2014/2651/regulation/11)
+[^c-4b37dc090212a95c42a1e9333eaf0de9]: Textual amendment: Words in [reg. 44(7)](https://www.legislation.gov.uk/uksi/2010/990/regulation/44/7) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [11](https://www.legislation.gov.uk/uksi/2014/2651/regulation/11)

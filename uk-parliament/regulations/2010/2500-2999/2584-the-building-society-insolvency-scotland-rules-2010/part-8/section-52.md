@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Building society liquidator deceased[^key-5442bdd2cb98dc8d7851c103fb86b54b]
+## 52. Building society liquidator deceased[^c-5442bdd2cb98dc8d7851c103fb86b54b]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5442bdd2cb98dc8d7851c103fb86b54b]: Commencement: Rule 52 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-5442bdd2cb98dc8d7851c103fb86b54b]: Commencement: Rule 52 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00027]: Footnote: Rule 4.36 was amended by paragraph 141(15) of Schedule 2(II) to [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820).

@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8R. Independence of storage facilities[^key-e750790928227f2c3eda546028b0bbde]
+## 8R. Independence of storage facilities[^c-e750790928227f2c3eda546028b0bbde]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies to a storage facility unless a minor facility exemption is in force in respect of that facility under section 8S.
 
-(2) The owner of a storage facility to which this section applies must, notwithstanding any licence held by the owner, refrain from producing gas in the United Kingdom[^key-24f072c3382fda66944c0b6742631540].
+(2) The owner of a storage facility to which this section applies must, notwithstanding any licence held by the owner, refrain from producing gas in the United Kingdom[^c-24f072c3382fda66944c0b6742631540].
 
-(3) The owner must also, notwithstanding any licence held by the owner, refrain from carrying out any of the following activities in the United Kingdom[^key-3a715c0bcf44a7e638b8b2805b45b3b5] except to the extent that the activity is necessary for the efficient operation of the storage facility or of another facility used by the owner to store gas—
+(3) The owner must also, notwithstanding any licence held by the owner, refrain from carrying out any of the following activities in the United Kingdom[^c-3a715c0bcf44a7e638b8b2805b45b3b5] except to the extent that the activity is necessary for the efficient operation of the storage facility or of another facility used by the owner to store gas—
 
 - (a) the supply to any premises of gas which has been conveyed to those premises through pipes;
 - (b) the making of an arrangement with a gas transporter for gas to be introduced into, conveyed by means of or taken out of a pipe-line system operated by that gas transporter;
 - (c) any other sale of gas.
 
-(4) If an affiliate of the owner carries out in the United Kingdom[^key-9f5eac70207a02d77a660afb37ae466d] an activity which, under subsection (2) or (3), the owner must refrain from carrying out, the owner must operate the storage facility independently of the interests of that affiliate and must, in particular, ensure that—
+(4) If an affiliate of the owner carries out in the United Kingdom[^c-9f5eac70207a02d77a660afb37ae466d] an activity which, under subsection (2) or (3), the owner must refrain from carrying out, the owner must operate the storage facility independently of the interests of that affiliate and must, in particular, ensure that—
 
 - (a) no senior officer or manager of the owner is a senior officer or manager of the affiliate;
 - (b) if a senior officer or manager of the owner has an interest in the affiliate that conflicts, or is likely to conflict, with the interests of the storage facility, the owner maintains procedures to ensure that the storage facility is operated independently of that interest in the affiliate;
@@ -70,10 +70,10 @@ summary: ''
 
 ## Annotations
 
-[^key-e750790928227f2c3eda546028b0bbde]: Textual amendment: Ss. 8R, 8S and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2011/2704/regulation/6)
+[^c-e750790928227f2c3eda546028b0bbde]: Textual amendment: Ss. 8R, 8S and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2011/2704/regulation/6)
 
-[^key-24f072c3382fda66944c0b6742631540]: Textual amendment: Words in [s. 8R(2)](https://www.legislation.gov.uk/ukpga/1986/44/section/8R/2) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2019/530/regulation/23/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24f072c3382fda66944c0b6742631540]: Textual amendment: Words in [s. 8R(2)](https://www.legislation.gov.uk/ukpga/1986/44/section/8R/2) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2019/530/regulation/23/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3a715c0bcf44a7e638b8b2805b45b3b5]: Textual amendment: Words in [s. 8R(3)](https://www.legislation.gov.uk/ukpga/1986/44/section/8R/3) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [23(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/23/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a715c0bcf44a7e638b8b2805b45b3b5]: Textual amendment: Words in [s. 8R(3)](https://www.legislation.gov.uk/ukpga/1986/44/section/8R/3) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [23(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/23/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9f5eac70207a02d77a660afb37ae466d]: Textual amendment: Words in [s. 8R(4)](https://www.legislation.gov.uk/ukpga/1986/44/section/8R/4) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [23(4)](https://www.legislation.gov.uk/uksi/2019/530/regulation/23/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f5eac70207a02d77a660afb37ae466d]: Textual amendment: Words in [s. 8R(4)](https://www.legislation.gov.uk/ukpga/1986/44/section/8R/4) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [23(4)](https://www.legislation.gov.uk/uksi/2019/530/regulation/23/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

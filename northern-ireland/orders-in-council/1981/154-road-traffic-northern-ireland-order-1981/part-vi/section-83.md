@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Regulations for purposes of the applicable Community rules or other relevant Community provisions[^key-833b6c07df3c32f7804ea510fde1b8eb]
+## 83. Regulations for purposes of the applicable Community rules or other relevant Community provisions[^c-833b6c07df3c32f7804ea510fde1b8eb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-833b6c07df3c32f7804ea510fde1b8eb]: Textual amendment: [Art. 83](https://www.legislation.gov.uk/nisi/1981/154/article/83) omitted (31.12.2020) by virtue of [The Drivers Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2019/596/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-833b6c07df3c32f7804ea510fde1b8eb]: Textual amendment: [Art. 83](https://www.legislation.gov.uk/nisi/1981/154/article/83) omitted (31.12.2020) by virtue of [The Drivers Hours and Tachographs (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/596)](https://www.legislation.gov.uk/uksi/2019/596), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/596/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2019/596/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

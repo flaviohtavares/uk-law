@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 282CA. Enforcement abroad before recovery order: PPO receiver[^key-9d0b5a02c3540d43bd9571ce2a1ec8e3][^key-eb0af4ccfe109ea9aca614d7b4a8a873]
+## 282CA. Enforcement abroad before recovery order: PPO receiver[^c-9d0b5a02c3540d43bd9571ce2a1ec8e3][^c-eb0af4ccfe109ea9aca614d7b4a8a873]
 
 *Extent: E+W+S+NI*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d0b5a02c3540d43bd9571ce2a1ec8e3]: Textual amendment: S. 282CA inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/23/3), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/b)
+[^c-9d0b5a02c3540d43bd9571ce2a1ec8e3]: Textual amendment: S. 282CA inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2015/9/section/23/3), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/b)
 
-[^key-eb0af4ccfe109ea9aca614d7b4a8a873]: Textual amendment: Ss. 282B-282F and cross-heading inserted (retrospectively) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), ss. 48(7), [61(11)(d)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/11/d), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/6) (with [s. 48(8)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/8), Sch. 25); this insertion extended to N.I. (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)
+[^c-eb0af4ccfe109ea9aca614d7b4a8a873]: Textual amendment: Ss. 282B-282F and cross-heading inserted (retrospectively) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), ss. 48(7), [61(11)(d)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/11/d), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/6) (with [s. 48(8)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/8), Sch. 25); this insertion extended to N.I. (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)

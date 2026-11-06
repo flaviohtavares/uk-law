@@ -16,31 +16,31 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX VIIIa — Annual report on the control on the spot carried out over Restructuring and conversion of vineyards according to Article 103q of Regulation (EC) No 1234/2007[^key-cf1c6cc0846c956ff05312fc59b52ae1]
+## ANNEX VIIIa — Annual report on the control on the spot carried out over Restructuring and conversion of vineyards according to Article 103q of Regulation (EC) No 1234/2007[^c-cf1c6cc0846c956ff05312fc59b52ae1]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] A.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] A.
 
 FINANCIAL YEARS 2009-2013
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] B.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] B.
 
 FINANCIAL YEARS 2014-2018
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 1.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 1.
 
 **Restructuring and conversion of vineyard in accordance with Article 103q of Regulation (EC) No 1234/2007**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1] 2.
+[^c-cf1c6cc0846c956ff05312fc59b52ae1] 2.
 
 **Replanting of vineyards for health or phytosanitary reasons in accordance with 46(3)c of Regulation (EU) No 1308/2013**
 
@@ -48,4 +48,4 @@ FINANCIAL YEARS 2014-2018
 
 ## Annotations
 
-[^key-cf1c6cc0846c956ff05312fc59b52ae1]: Textual amendment: Regulation revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 25](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf1c6cc0846c956ff05312fc59b52ae1]: Textual amendment: Regulation revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 25](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

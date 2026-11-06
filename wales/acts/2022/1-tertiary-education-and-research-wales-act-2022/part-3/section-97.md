@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Financial support for further education or training[^key-ec55f0414b51836517a624346c2115cc][^key-81240d51acbc5a9eb571681c7cabb0ce][^key-b9d7e16bc914dff726b4e840434b7406]
+## 97. Financial support for further education or training[^c-ec55f0414b51836517a624346c2115cc][^c-81240d51acbc5a9eb571681c7cabb0ce][^c-b9d7e16bc914dff726b4e840434b7406]
 
 *Extent: E+W*
 
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ec55f0414b51836517a624346c2115cc]: Commencement: S. 97 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-ec55f0414b51836517a624346c2115cc]: Commencement: S. 97 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-81240d51acbc5a9eb571681c7cabb0ce]: Commencement: [S. 97](https://www.legislation.gov.uk/asc/2022/1/section/97) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(hh)](https://www.legislation.gov.uk/wsi/2023/919/article/3/hh)
+[^c-81240d51acbc5a9eb571681c7cabb0ce]: Commencement: [S. 97](https://www.legislation.gov.uk/asc/2022/1/section/97) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(hh)](https://www.legislation.gov.uk/wsi/2023/919/article/3/hh)
 
-[^key-b9d7e16bc914dff726b4e840434b7406]: Commencement: [S. 97](https://www.legislation.gov.uk/asc/2022/1/section/97) in force at 1.4.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(w)](https://www.legislation.gov.uk/wsi/2026/62/article/2/w)
+[^c-b9d7e16bc914dff726b4e840434b7406]: Commencement: [S. 97](https://www.legislation.gov.uk/asc/2022/1/section/97) in force at 1.4.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(w)](https://www.legislation.gov.uk/wsi/2026/62/article/2/w)

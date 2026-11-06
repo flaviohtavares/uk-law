@@ -31,7 +31,7 @@ summary: ''
 
 Electronic Communications
 
-The Wireless Telegraphy (Licence Charges for the 900 MHz Frequency Band and the 1800 MHz Frequency Band) Regulations 2018 (revoked)[^key-ece4a635407476f3e04b588e1e0f4451]
+The Wireless Telegraphy (Licence Charges for the 900 MHz Frequency Band and the 1800 MHz Frequency Band) Regulations 2018 (revoked)[^c-ece4a635407476f3e04b588e1e0f4451]
 
 Made
 
@@ -47,48 +47,48 @@ for the purpose of the remainder
 
 31st January 2019
 
-[^key-ece4a635407476f3e04b588e1e0f4451]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ece4a635407476f3e04b588e1e0f4451]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ece4a635407476f3e04b588e1e0f4451]
+## 1. Citation and commencement[^c-ece4a635407476f3e04b588e1e0f4451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ece4a635407476f3e04b588e1e0f4451]
+## 2. Interpretation[^c-ece4a635407476f3e04b588e1e0f4451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the 2011 Regulations[^key-ece4a635407476f3e04b588e1e0f4451]
+## 3. Amendment to the 2011 Regulations[^c-ece4a635407476f3e04b588e1e0f4451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Licence charges payable for the 900 MHz frequency band[^key-ece4a635407476f3e04b588e1e0f4451]
+## 4. Licence charges payable for the 900 MHz frequency band[^c-ece4a635407476f3e04b588e1e0f4451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Licence charges payable for the 1800 MHz frequency band[^key-ece4a635407476f3e04b588e1e0f4451]
+## 5. Licence charges payable for the 1800 MHz frequency band[^c-ece4a635407476f3e04b588e1e0f4451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Payment by instalments[^key-ece4a635407476f3e04b588e1e0f4451]
+## 6. Payment by instalments[^c-ece4a635407476f3e04b588e1e0f4451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. One-off licence charge payable in instalments by holders of licences for the 900 MHz and the 1800 MHz frequency bands[^key-ece4a635407476f3e04b588e1e0f4451]
+## 7. One-off licence charge payable in instalments by holders of licences for the 900 MHz and the 1800 MHz frequency bands[^c-ece4a635407476f3e04b588e1e0f4451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Concurrent licences[^key-ece4a635407476f3e04b588e1e0f4451]
+## 8. Concurrent licences[^c-ece4a635407476f3e04b588e1e0f4451]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ece4a635407476f3e04b588e1e0f4451]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ece4a635407476f3e04b588e1e0f4451]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ece4a635407476f3e04b588e1e0f4451]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ece4a635407476f3e04b588e1e0f4451]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ece4a635407476f3e04b588e1e0f4451]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1368) revoked (30.9.2025) by [The Wireless Telegraphy (Licence Charges for the 900 MHz Frequency Band and the 1800 MHz Frequency Band) Regulations 2025 (S.I. 2025/967)](https://www.legislation.gov.uk/uksi/2025/967), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/967/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2025/967/regulation/6/1) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/967/regulation/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2025/967/regulation/6/2)[(3)](https://www.legislation.gov.uk/uksi/2025/967/regulation/6/3))
+[^c-ece4a635407476f3e04b588e1e0f4451]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1368) revoked (30.9.2025) by [The Wireless Telegraphy (Licence Charges for the 900 MHz Frequency Band and the 1800 MHz Frequency Band) Regulations 2025 (S.I. 2025/967)](https://www.legislation.gov.uk/uksi/2025/967), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/967/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2025/967/regulation/6/1) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/967/regulation/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2025/967/regulation/6/2)[(3)](https://www.legislation.gov.uk/uksi/2025/967/regulation/6/3))

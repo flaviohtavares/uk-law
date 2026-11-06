@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Water resources management schemes: referral to Secretary of State[^key-4a29ae853c22adc9ddffd466ba3407d2]
+## 29. Water resources management schemes: referral to Secretary of State[^c-4a29ae853c22adc9ddffd466ba3407d2]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a29ae853c22adc9ddffd466ba3407d2]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2003/37/section/29) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/b) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-4a29ae853c22adc9ddffd466ba3407d2]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2003/37/section/29) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/b) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))

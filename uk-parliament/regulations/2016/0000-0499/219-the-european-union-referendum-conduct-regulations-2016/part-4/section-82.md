@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Amendment of the European Parliamentary Elections Regulations 2004[^key-40b92303c255a04e4c37c85e4afdedc8]
+## 82. Amendment of the European Parliamentary Elections Regulations 2004[^c-40b92303c255a04e4c37c85e4afdedc8]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ Schedule 4 to the European Parliamentary Elections Regulations 2004 (Entitlement
 
 ## Annotations
 
-[^key-40b92303c255a04e4c37c85e4afdedc8]: Commencement: Reg. 82 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-40b92303c255a04e4c37c85e4afdedc8]: Commencement: Reg. 82 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00055]: Footnote: [S.I. 2004/293](https://www.legislation.gov.uk/uksi/2004/293).
 

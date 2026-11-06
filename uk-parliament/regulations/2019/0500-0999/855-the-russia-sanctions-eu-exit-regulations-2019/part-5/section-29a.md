@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29A. Insurance and reinsurance services relating to aviation and space goods and aviation and space technology[^key-40c884c5e29b6eff5e4536b6d93be672]
+## 29A. Insurance and reinsurance services relating to aviation and space goods and aviation and space technology[^c-40c884c5e29b6eff5e4536b6d93be672]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40c884c5e29b6eff5e4536b6d93be672]: Textual amendment: [Reg. 29A](https://www.legislation.gov.uk/uksi/2019/855/regulation/29A) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/241/regulation/6)
+[^c-40c884c5e29b6eff5e4536b6d93be672]: Textual amendment: [Reg. 29A](https://www.legislation.gov.uk/uksi/2019/855/regulation/29A) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/241/regulation/6)

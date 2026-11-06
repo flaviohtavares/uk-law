@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 163. Appointment by Local Democracy and Boundary Commission of its chief executive[^key-23884e3c61332d3a07cb605becca9762]
+## 163. Appointment by Local Democracy and Boundary Commission of its chief executive[^c-23884e3c61332d3a07cb605becca9762]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23884e3c61332d3a07cb605becca9762]: Commencement: S. 163 in force at 1.4.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/uksi/2021/231), [art. 3(a)](https://www.legislation.gov.uk/uksi/2021/231/article/3/a)
+[^c-23884e3c61332d3a07cb605becca9762]: Commencement: S. 163 in force at 1.4.2021 by [S.I. 2021/231](https://www.legislation.gov.uk/uksi/2021/231), [art. 3(a)](https://www.legislation.gov.uk/uksi/2021/231/article/3/a)

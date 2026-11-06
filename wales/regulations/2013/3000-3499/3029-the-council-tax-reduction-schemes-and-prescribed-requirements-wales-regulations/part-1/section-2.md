@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-e3a208113a18fe7d588107bcb547dcd6]
+## 2. Interpretation[^c-e3a208113a18fe7d588107bcb547dcd6]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 - “applicant” (“*ceisydd*”) means a person applying for a reduction under an authority’s scheme;
 - “application” (“*cais*”) means an application for a reduction under an authority’s scheme;
 - “appropriate DWP office” (“*swyddfa briodol yr Adran Gwaith a Phensiynau*”) means an office of the Department for Work and Pensions dealing with state pension credit or an office which is normally open to the public for the receipt of claims for income support, a jobseeker’s allowance or an employment and support allowance;
-- “approved blood scheme” (“[^key-f83f7ef351f46dad1fddd386a6966ff5]*cynllun gwaed cymeradwy*”) means—
+- “approved blood scheme” (“[^c-f83f7ef351f46dad1fddd386a6966ff5]*cynllun gwaed cymeradwy*”) means—
   - (a) a scheme established or approved by the Secretary of State, or a trust established with funds provided by the Secretary of State, for the purpose of providing compensation in respect of a person having been infected from contaminated blood products; or
   - (b) a scheme established under sections 1 to 3 of the National Health Service (Wales) Act 2006 and administered by the Velindre Trust for the purpose of making payments and providing support to, or in respect of, individuals infected with Hepatitis C, HIV or both, through contaminated blood or blood products used by the NHS;
 - “assessment period” (“*cyfnod asesu*”) means the period determined—
@@ -51,9 +51,9 @@ summary: ''
   - (d) any payment based on need for attendance which is paid as part of a war disablement pension;
 - “the authority” (“*yr awdurdod*”) means a billing authority in relation to whose area a scheme has effect in accordance with regulation 12;
 - “basic rate” (“*cyfradd sylfaenol*”) has the meaning given by the Income Tax Act 2007[^f00006];
-- “the benefit Acts” (“*y Deddfau budd-dal*”) means the SSCBA, the Jobseekers Act 1995[^f00007], the State Pension Credit Act 2002[^f00008] ,[^key-116c3956a460f92c52cdd8329050a16a] the Welfare Reform Act 2007 [^f00009] and the Pensions Act 2014[^key-0e8ce60343465afc6389436edaa7e618];
+- “the benefit Acts” (“*y Deddfau budd-dal*”) means the SSCBA, the Jobseekers Act 1995[^f00007], the State Pension Credit Act 2002[^f00008] ,[^c-116c3956a460f92c52cdd8329050a16a] the Welfare Reform Act 2007 [^f00009] and the Pensions Act 2014[^c-0e8ce60343465afc6389436edaa7e618];
 - “board and lodging accommodation” (“*prydau bwyd a llety*”) means accommodation provided to a person, or if that person is a member of a family, to that person or any other member of that person’s family, for a charge which is inclusive of the provision of that accommodation and at least some cooked or prepared meals which both are cooked or prepared (by a person other than the person to whom the accommodation is provided or a member of that person’s family) and are consumed in that accommodation or associated premises;
-- “care home” (“[^key-f38ec314a9dc31e5851e7c8dbeb14711]*cartref gofal*”)—
+- “care home” (“[^c-f38ec314a9dc31e5851e7c8dbeb14711]*cartref gofal*”)—
   - (a) in England has the meaning given by section 3 of the Care Standards Act 2000;
   - (b) in Wales means a place at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to adults;
   - (c) in Scotland means a care home service within the meaning given by paragraph 2 of Schedule 12 to the Public Services Reform (Scotland) Act 2010; and
@@ -64,7 +64,7 @@ summary: ''
 - “child tax credit” (“*credyd treth plant*”) means a child tax credit under section 8 of the Tax Credits Act 2002[^f00014];
 - “close relative” (“*perthynas agos*”) means a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-daughter, brother, sister, or if any of the preceding persons is one member of a couple, the other member of that couple;
 - “concessionary payment” (“*taliad consesiynol*”) means a payment made under arrangements made by the Secretary of State with the consent of the Treasury which is charged either to the National Insurance Fund or to a Departmental Expenditure Vote to which payments of benefit or tax credits under the benefit Acts or the Tax Credits Act 2002[^f00015] are charged;
-- “contributory employment and support allowance” (“[^key-3840255c9ce96a7893add14e86470fb5]*lwfanscyflogaeth a chymorthcyfrannol*”) means an allowance under Part 1 of the Welfare Reform Act 2007[^f00003] as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012[^f00004] that remove references to an income-related allowance, and a contributory allowance under Part 1 of the Welfare Reform Act 2007 as that Part has effect apart from those provisions;
+- “contributory employment and support allowance” (“[^c-3840255c9ce96a7893add14e86470fb5]*lwfanscyflogaeth a chymorthcyfrannol*”) means an allowance under Part 1 of the Welfare Reform Act 2007[^f00003] as amended by the provisions of Schedule 3, and Part 1 of Schedule 14, to the Welfare Reform Act 2012[^f00004] that remove references to an income-related allowance, and a contributory allowance under Part 1 of the Welfare Reform Act 2007 as that Part has effect apart from those provisions;
 - “council tax benefit” (“*budd-dal treth gyngor*”) means council tax benefit under Part 7 of the SSCBA;
 - “couple” (“*cwpl*”) has the meaning given by regulation 4;
 - “designated office” (“*swyddfa ddynodedig*”) means the office of an authority designated by it for the receipt of applications—
@@ -88,24 +88,24 @@ summary: ''
 - “the Fund” (“*y Gronfa*”) means moneys made available from time to time by the Secretary of State for the benefit of persons eligible for payment in accordance with the provisions of a scheme established by the Secretary of State on 24 April 1992 or, in Scotland, on 10 April 1992;
 - “guarantee credit” (“*credyd gwarant*”) is to be construed in accordance with sections 1 and 2 of the State Pension Credit Act 2002[^f00022];
 - “a guaranteed income payment” (“*taliad incwm gwarantedig*”) means a payment made under article 15(1)(c) or article 29(1)(a) of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^f00023];
-- “[^key-732628ce2adfe7c72b8fe55b247da2b0]**the Horizon system**” (“***y system Horizon***”) means any version of the computer system used by the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
+- “[^c-732628ce2adfe7c72b8fe55b247da2b0]**the Horizon system**” (“***y system Horizon***”) means any version of the computer system used by the Post Office known as Horizon, Horizon Legacy, Horizon Online or HNG-X;
 - “housing benefit” (“*budd-dal tai*”) means housing benefit under Part 7 of the SSCBA;
 - “an income-based jobseeker’s allowance” (“*lwfans ceisio gwaith ar sail incwm*”) and “a joint-claim jobseeker’s allowance” (“*lwfans ceisio gwaith cyd-hawliad*”) have the meanings given by section 1(4) of the Jobseekers Act 1995[^f00024];
 - “income-related employment and support allowance” (“*lwfans cyflogaeth a chymorth ar sail incwm*”) means an income-related allowance under Part 1 of the Welfare Reform Act 2007;
 - “independent hospital” (“*ysbyty annibynnol*”)—
   - (a) in England means a hospital as defined by section 275 of the National Health Service Act 2006[^f00025] that is not a health service hospital as defined by that section;
   - (b) in Wales has the meaning given by section 2 of the Care Standards Act 2000[^f00026]; and
-  - (c) in Scotland means an independent hospital or a private psychiatric hospital as defined by section 10F(2) of the National Health Service (Scotland) Act 1978;[^key-be8cf111d2e0010928755bbe5f22a543]
+  - (c) in Scotland means an independent hospital or a private psychiatric hospital as defined by section 10F(2) of the National Health Service (Scotland) Act 1978;[^c-be8cf111d2e0010928755bbe5f22a543]
 - “the Independent Living Fund (2006)” (“*y Gronfa Byw’n Annibynnol (2006)*”) means the Trust of that name established by a deed dated 10 April 2006 and made between the Secretary of State for Work and Pensions of the one part and Margaret Rosemary Cooper, Michael Beresford Boyall and Marie Theresa Martin of the other part;
 - “invalid carriage or other vehicle” (“*cerbyd ar gyfer pobl anabl neu fath arall o gerbyd*”) means a vehicle propelled by a petrol engine or by electric power supplied for use on the road and to be controlled by the occupant;
-- “[^key-d2e75ff8a0cc0b1e9e56cdb6fe0ec9e9]**LGBT Financial Recognition Scheme payment**” (“***taliad Cynllun Cydnabyddiaeth Ariannol LHDT***”) means a payment under the Lesbian, Gay, Bisexual and Transgender Financial Recognition Scheme administered under the authority of the Secretary of State for Defence;
+- “[^c-d2e75ff8a0cc0b1e9e56cdb6fe0ec9e9]**LGBT Financial Recognition Scheme payment**” (“***taliad Cynllun Cydnabyddiaeth Ariannol LHDT***”) means a payment under the Lesbian, Gay, Bisexual and Transgender Financial Recognition Scheme administered under the authority of the Secretary of State for Defence;
 - “the London Bombings Relief Charitable Fund” (“*Cronfa Gymorth Elusennol Bomiau Llundain*”) means the company limited by guarantee (number 5505072), and registered charity of that name established on 11 July 2005 for the purpose of (amongst other things) relieving sickness, disability or financial need of victims (including families or dependants of victims) of the terrorist attacks carried out in London on 7 July 2005;
 - “the London Emergencies Trust” (“[^M_F_32b060ab-b38f-4f5e-e0bf-d42e1de444c5]*Ymddiriedolaeth Argyfyngau Llundain*”) means the company of that name (number 09928465) incorporated on 23 December 2015 and the registered charity of that name (number 1172307) established on 28 March 2017;
 - “lone parent” (“*unig riant*”) means a person who has no partner and who is responsible for and a member of the same household as a child or young person;
 - “the Macfarlane (Special Payments) Trust” (“*Ymddiriedolaeth Macfarlane (Taliadau Arbennig)*”) means the trust of that name, established on 29 January 1990 partly out of funds provided by the Secretary of State, for the benefit of certain persons suffering from haemophilia;
 - “the Macfarlane (Special Payments) (No 2) Trust” (“*Ymddiriedolaeth Macfarlane (Taliadau Arbennig) (Rhif 2)*”) means the trust of that name, established on 3 May 1991 partly out of funds provided by the Secretary of State, for the benefit of certain persons suffering from haemophilia and other beneficiaries;
 - “the Macfarlane Trust” (“*Ymddiriedolaeth Macfarlane*”) means the charitable trust, established partly out of funds provided by the Secretary of State to the Haemophilia Society, for the relief of poverty or distress among those suffering from haemophilia;
-- “main phase employment and support allowance” (“[^key-34101d6ffca05ac52d29c54b05b5a877]*lwfans cyflogaeth a chymorth prif wedd*”), except in Part 1 of Schedule 7, means an employment and support allowance where—
+- “main phase employment and support allowance” (“[^c-34101d6ffca05ac52d29c54b05b5a877]*lwfans cyflogaeth a chymorth prif wedd*”), except in Part 1 of Schedule 7, means an employment and support allowance where—
   - (a) the calculation of the amount payable in respect of the applicant includes a component under section 2(1)(b) or 4(2)(b) of the Welfare Reform Act 2007; or
   - (b) the applicant is a member of the work-related activity group;
 - “maternity leave” (“*absenoldeb mamaeth*”) means a period during which a woman is absent from work because the woman is pregnant or has given birth to a child, and at the end of which the woman has a right to return to work either under the terms of the woman’s contract of employment or under Part 8 of the Employment Rights Act 1996[^f00029];
@@ -115,7 +115,7 @@ summary: ''
   - (a) Part 5 of the Employment and Support Allowance Regulations 2008 other than by virtue of regulation 30 of those Regulations; or
   - (b) Part 4 of the Employment and Support Allowance Regulations 2013 other than by virtue of regulation 26 of those Regulations;
 - “MFET Limited” (“*MFET Limited*”) means the company limited by guarantee (number 7121661) of that name, established for the purpose in particular of making payments in accordance with arrangements made with the Secretary of State to persons who have acquired HIV as a result of treatment by the NHS with blood or blood products;
-- “[^key-fec269fca3119fe728de20423309a3aa]**miscarriage of justice compensation payment**” (“***taliad digollediad camweinyddu cyfiawnder***”) means—
+- “[^c-fec269fca3119fe728de20423309a3aa]**miscarriage of justice compensation payment**” (“***taliad digollediad camweinyddu cyfiawnder***”) means—
   - (a) a payment made under section 133(1) of the Criminal Justice Act 1988, or
   - (b) any other payment made by the Secretary of State, the Scottish Ministers or, in Northern Ireland, the Department of Justice, for the purpose of compensating a person—
     - (i) for a miscarriage of justice in criminal proceedings, or
@@ -124,7 +124,7 @@ summary: ''
   - (a) in relation to pensioners, a supplement to which paragraph 5(1)(a)(vii) of Schedule 3 refers;
   - (b) in relation to persons who are not pensioners, a supplement to which paragraph 13 of Schedule 9 refers;
 - “mover” (“*symudwr*”) means an applicant who changes the dwelling in which the applicant is resident, and in respect of which the applicant is liable to pay council tax, from a dwelling in the area of one authority to a dwelling in the area of a second authority;
-- “[^key-1aa66e743952704d5a2106a07881814a]**neonatal care leave**” (“*absenoldeb gofal newydd-anedig*”*)* means leave under section 80EF of the Employment Rights Act 1996;
+- “[^c-1aa66e743952704d5a2106a07881814a]**neonatal care leave**” (“*absenoldeb gofal newydd-anedig*”*)* means leave under section 80EF of the Employment Rights Act 1996;
 - “net earnings” (“*enillion net*”) means such earnings as are calculated in accordance with paragraph 13 of Schedule 1 or paragraph 15 of Schedule 6, as the case may be;
 - “net profit” (“*elw net*”) means such profit as is calculated in accordance with paragraph 23 of Schedule 1 or paragraph 24 of Schedule 6, as the case may be;
 - “new dwelling” (“*annedd newydd*”) means, for the purposes of the definition of “second authority” and paragraph 35 of Schedule 1, paragraphs 37 and 42 of Schedule 6, the dwelling to which an applicant has moved, or is about to move, in which the applicant will be resident;
@@ -141,7 +141,7 @@ summary: ''
 - “occupational pension” (“*pensiwn galwedigaethol*”) means any pension or other periodical payment under an occupational pension scheme but does not include any discretionary payment out of a fund established for relieving hardship in particular cases;
 - “occupational pension scheme” (“*cynllun pensiwn galwedigaethol*”) has the same meaning as in section 1 of the Pension Schemes Act 1993[^f00031];
 - “ordinary clothing and footwear” (“*dillad ac esgidiau cyffredin*”) means clothing or footwear for normal daily use, but does not include school uniforms, or clothing or footwear used solely for sporting activities;
-- “parental bereavement leave” (“[^key-728d47b6cfc2dd607e48bbf180ff8e44]*absenoldeb profedigaeth rhiant*”) means leave under section 80EA of the Employment Rights Act 1996;
+- “parental bereavement leave” (“[^c-728d47b6cfc2dd607e48bbf180ff8e44]*absenoldeb profedigaeth rhiant*”) means leave under section 80EA of the Employment Rights Act 1996;
 - “partner” (“*partner*”), in relation to a person, means—
   - (a) where that person is a member of a couple, the other member of that couple; or
   - (b) subject to paragraph (c), where that person is polygamously married to two or more members of that person’s household, any such member to whom that person is married; or
@@ -176,12 +176,12 @@ summary: ''
   - (a) income support;
   - (b) income-based jobseeker’s allowance;
   - (c) income-related employment and support allowance;
-- “qualifying person” (“*person cymwys*”) means a person who is in receipt of a Post Office compensation payment[^key-63c0b7782d6a57dee6f8e60647b8b671] , a vaccine damage payment, an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment,[^key-ad8394342c213b5ce1a75407eb582ded] or a person in respect of whom payment has been made from the Fund, the Eileen Trust, MFET Limited, the Skipton Fund, the Caxton Foundation , an approved blood scheme, the Scottish Infected Blood Support Scheme, the London Emergencies Trust, the We Love Manchester Emergency Fund[^key-073af9a2875909e4d79c331cff8d1a32] ,[^key-a5aca4dda1c80ce3a36a93c2fa4c63d4] the Victims of Overseas Terrorism Compensation Scheme,[^key-170f2572a5391d2ccc6b4bf754f450f7] the Windrush Compensation Scheme or the London Bombings Relief Charitable Fund;
+- “qualifying person” (“*person cymwys*”) means a person who is in receipt of a Post Office compensation payment[^c-63c0b7782d6a57dee6f8e60647b8b671] , a vaccine damage payment, an LGBT Financial Recognition Scheme payment or a miscarriage of justice compensation payment,[^c-ad8394342c213b5ce1a75407eb582ded] or a person in respect of whom payment has been made from the Fund, the Eileen Trust, MFET Limited, the Skipton Fund, the Caxton Foundation , an approved blood scheme, the Scottish Infected Blood Support Scheme, the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-073af9a2875909e4d79c331cff8d1a32] ,[^c-a5aca4dda1c80ce3a36a93c2fa4c63d4] the Victims of Overseas Terrorism Compensation Scheme,[^c-170f2572a5391d2ccc6b4bf754f450f7] the Windrush Compensation Scheme or the London Bombings Relief Charitable Fund;
 - “reduction week” (“*wythnos ostyngiad*”) means a period of seven consecutive days beginning with a Monday and ending with a Sunday;
 - “relative” (“*perthynas*”) means a close relative, grandparent, grandchild, uncle, aunt, nephew or niece;
 - “relevant week” (“*wythnos berthnasol*”), in relation to any particular day, means the week within which the day in question falls;
 - “remunerative work” (“*gwaith am dâl*”) has the meaning given by regulation 10;
-- “rent” (“*rhent*”) means “eligible rent” to which regulation 12B[^key-69671ae3b6dba946c5e6800714045d31] of the Housing Benefit (Persons who have acquired the qualifying age for state pension credit) Regulations 2006[^f00039] refers, less any deductions in respect of non-dependants which fall to be made under paragraph 3 of Schedule 1 and paragraph 5 of Schedule 6 (non-dependent deductions) under an authority’s scheme;
+- “rent” (“*rhent*”) means “eligible rent” to which regulation 12B[^c-69671ae3b6dba946c5e6800714045d31] of the Housing Benefit (Persons who have acquired the qualifying age for state pension credit) Regulations 2006[^f00039] refers, less any deductions in respect of non-dependants which fall to be made under paragraph 3 of Schedule 1 and paragraph 5 of Schedule 6 (non-dependent deductions) under an authority’s scheme;
 - “resident” (“*preswylydd*”) has the meaning given by Part 1 of the 1992 Act;
 - “savings credit” (“*credyd cynilion*”) is to be construed in accordance with sections 1 and 3 of the State Pension Credit Act 2002[^f00040];
 - “scheme” (“*cynllun*”) means a council tax reduction scheme as prescribed within Parts 2 to 5 of these Regulations;
@@ -207,18 +207,18 @@ summary: ''
   - (l) a public or local authority in Great Britain in consequence of a function conferred under any other enactment,
 
   for the purposes of monitoring and advising on a policy of that body or authority which affects or may affect persons in the group, or of monitoring or advising on services provided by that body or authority which are used (or may potentially be used) by those persons;
-- “shared parental leave” ([^key-143d94e477da237e70060691ced249ca]*“absenoldebrhiant a rennir”*) means leave by virtue of regulations made under section 75E or 75G of the Employment Rights Act 1996;
+- “shared parental leave” ([^c-143d94e477da237e70060691ced249ca]*“absenoldebrhiant a rennir”*) means leave by virtue of regulations made under section 75E or 75G of the Employment Rights Act 1996;
 - “single applicant” (“*ceisydd sengl*”) means an applicant who neither has a partner nor is a lone parent;
 - “the Skipton Fund” (“*Cronfa Skipton*”) means the ex-gratia payment scheme administered by the Skipton Fund Limited, incorporated on 25 March 2004, for the benefit of certain persons suffering from hepatitis C and other persons eligible for payment in accordance with the scheme’s provisions;
 - “sports award” (“*dyfarniad chwaraeon*”) means an award made by one of the Sports Councils named in section 23(2) of the National Lottery etc Act 1993 out of sums allocated to it for distribution under that section[^f00055];
 - “the SSCBA” (“*DCBNC*”) means the Social Security Contributions and Benefits Act 1992[^f00056];
 - “state pension credit” (“*credyd pensiwn y wladwriaeth*”) means state pension credit under the State Pension Credit Act 2002[^f00057];
-- “[^key-c1572706aa4735a0c98b010930bcd974]**statutory neonatal care pay**” (“***tâl gofal newydd-anedig statudol***”) means statutory neonatal care pay under section 171ZZ16 of the SSCBA;
+- “[^c-c1572706aa4735a0c98b010930bcd974]**statutory neonatal care pay**” (“***tâl gofal newydd-anedig statudol***”) means statutory neonatal care pay under section 171ZZ16 of the SSCBA;
 - “student” (“*myfyriwr*”) has the meaning prescribed within paragraph 1 of Schedule 11;
 - “subsistence allowance” (“*lwfans cynhaliaeth*”) means an allowance which an employment zone contractor has agreed to pay to a person who is participating in an employment zone programme;
 - “tax year” (“*blwyddyn dreth*”) means a period beginning with 6 April in one year and ending with 5 April in the next;
 - “training allowance” (“*lwfans hyfforddi*”) means an allowance (whether by way of periodical grants or otherwise) payable—
-  - (a) out of public funds by a Government department or by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise or Highlands and Islands Enterprise [^key-c4090f293aac76217e4a393e57d3cec3]... or the Welsh Ministers;
+  - (a) out of public funds by a Government department or by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise or Highlands and Islands Enterprise [^c-c4090f293aac76217e4a393e57d3cec3]... or the Welsh Ministers;
   - (b) to a person for that person’s maintenance or in respect of a member of that person’s family; and
   - (c) for the period, or part of the period, during which that person is following a course of training or instruction provided by, or in pursuance of arrangements made with, that department or approved by that department in relation to that person or so provided or approved by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise or Highlands and Islands Enterprise or the Welsh Ministers,
 
@@ -226,7 +226,7 @@ summary: ''
 - “the Trusts” (“*yr Ymddiriedolaethau*”) means the Macfarlane Trust, the Macfarlane (Special Payments) Trust and the Macfarlane (Special Payments) (No 2) Trust;
 - “universal credit” (“*credyd cynhwysol*”) has the meaning given by section 1 of the Welfare Reform Act 2012[^f00059];
 - “**vaccine damage payment**” (“***taliad niwed drwy frechiad***”) means a payment made under the Vaccine Damage Payments Act 1979;
-- “the Victims of Overseas Terrorism Compensation Scheme” (“[^key-e17afc98151d5e80d3aae95376db0c41]***y Cynllun Digolledu Dioddefwyr Terfysgaeth Dramor***”) means the scheme of that name established by the Ministry of Justice in 2012 under section 47 of the Crime and Security Act 2010;
+- “the Victims of Overseas Terrorism Compensation Scheme” (“[^c-e17afc98151d5e80d3aae95376db0c41]***y Cynllun Digolledu Dioddefwyr Terfysgaeth Dramor***”) means the scheme of that name established by the Ministry of Justice in 2012 under section 47 of the Crime and Security Act 2010;
 - “voluntary organisation” (“*sefydliad gwirfoddol*”) means a body, other than a public or local authority, the activities of which are carried on otherwise than for profit;
 - “war disablement pension” (“*pensiwn anabledd rhyfel*”) means any retired pay or pension or allowance payable in respect of disablement under an instrument specified in section 639(2) of the Income Tax (Earnings and Pensions) Act 2003[^f00060];
 - “war pension” (“*pensiwn rhyfel*”) means a war disablement pension, a war widow’s pension or a war widower’s pension;
@@ -238,7 +238,7 @@ summary: ''
 
   in so far as such charges are in respect of the dwelling which a person occupies as that person’s home;
 - “the We Love Manchester Emergency Fund” (“[^M_F_236130bb-19d4-4d26-f11a-453ac84bfdf2]*Cronfa Argyfwng We Love Manchester*”) means the registered charity of that name (number 1173260) established on 30 May 2017;
-- “the Windrush Compensation Scheme” (“[^key-719862a15209353754654e26fd7110b2]*Cynllun Digolledu Windrush*”) means—
+- “the Windrush Compensation Scheme” (“[^c-719862a15209353754654e26fd7110b2]*Cynllun Digolledu Windrush*”) means—
   - (a) the scheme of that name operated by the Secretary of State for the purpose of compensating individuals who have suffered loss in connection with being unable to demonstrate their lawful status in the United Kingdom; and
   - (b) the policy entitled “Windrush Scheme: Support in urgent and exceptional circumstances” which was operated by the Secretary of State for the purpose of compensating individuals who, for urgent and exceptional reasons, required support in advance of the scheme referred to in paragraph (a) of this definition becoming operational;
 - “working tax credit” (“*credyd treth gwaith*”) means a working tax credit under section 10 of the Tax Credits Act 2002[^f00063];
@@ -263,13 +263,13 @@ summary: ''
 
 ## Annotations
 
-[^key-e3a208113a18fe7d588107bcb547dcd6]: Commencement: Reg. 2 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-e3a208113a18fe7d588107bcb547dcd6]: Commencement: Reg. 2 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00002]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18). Sections 75A and 75B were inserted by section 3 of the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22) and amended by the Work and Families Act [2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18), Schedule 1, paragraphs 33 and 34.
 
 [^f00003]: Footnote: [2004 c.32](https://www.legislation.gov.uk/ukpga/2004/32).
 
-[^key-f83f7ef351f46dad1fddd386a6966ff5]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/wsi/2018/14/regulation/3/a)
+[^c-f83f7ef351f46dad1fddd386a6966ff5]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/wsi/2018/14/regulation/3/a)
 
 [^f00004]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). See sections 64 to 67 of that Act in relation to attendance allowance.
 
@@ -281,13 +281,13 @@ summary: ''
 
 [^f00008]: Footnote: [2002 c.16](https://www.legislation.gov.uk/ukpga/2002/16).
 
-[^key-116c3956a460f92c52cdd8329050a16a]: Textual amendment: Reg. 2(1): comma substituted for word (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/uksi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/50/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2016/50/regulation/3/a)
+[^c-116c3956a460f92c52cdd8329050a16a]: Textual amendment: Reg. 2(1): comma substituted for word (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/uksi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/50/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2016/50/regulation/3/a)
 
 [^f00009]: Footnote: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5).
 
-[^key-0e8ce60343465afc6389436edaa7e618]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2016/50/regulation/3/b)
+[^c-0e8ce60343465afc6389436edaa7e618]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2016 (S.I. 2016/50)](https://www.legislation.gov.uk/wsi/2016/50), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/50/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2016/50/regulation/3/b)
 
-[^key-f38ec314a9dc31e5851e7c8dbeb14711]: Textual amendment: Words in reg. 2(1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2018/14/regulation/3/b)
+[^c-f38ec314a9dc31e5851e7c8dbeb14711]: Textual amendment: Words in reg. 2(1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2018/14/regulation/3/b)
 
 [^f00013]: Footnote: Section 141 was amended by section 1 of the Child Benefit Act [2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6).
 
@@ -295,7 +295,7 @@ summary: ''
 
 [^f00015]: Footnote: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-3840255c9ce96a7893add14e86470fb5]: Textual amendment: Words in reg. 2(1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/uksi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/44/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2015/44/regulation/3/a)
+[^c-3840255c9ce96a7893add14e86470fb5]: Textual amendment: Words in reg. 2(1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/uksi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/44/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2015/44/regulation/3/a)
 
 [^f00017]: Footnote: Section 71 was amended by section 67(1) of the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), and repealed by section 90 of the Welfare Reform Act [2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5) (not yet in force).
 
@@ -311,7 +311,7 @@ summary: ''
 
 [^f00023]: Footnote: [S.I. 2011/517](https://www.legislation.gov.uk/uksi/2011/517).
 
-[^key-732628ce2adfe7c72b8fe55b247da2b0]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Amendment) (Wales) Regulations 2024 (S.I. 2024/56)](https://www.legislation.gov.uk/wsi/2024/56), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/56/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2024/56/regulation/3/a)
+[^c-732628ce2adfe7c72b8fe55b247da2b0]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Amendment) (Wales) Regulations 2024 (S.I. 2024/56)](https://www.legislation.gov.uk/wsi/2024/56), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/56/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2024/56/regulation/3/a)
 
 [^f00024]: Footnote: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18). Section 1(4) was amended by the Welfare Reform and Pensions Act 1999, Schedule 7, paragraphs 1 and 2(1) and (4); the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33); section 4 of the Welfare Reform Act [2009 (c.24)](https://www.legislation.gov.uk/ukpga/2009/24), and is repealed by the Welfare Reform Act 2012, Schedule 14, Part 1 (not yet in force).
 
@@ -319,27 +319,27 @@ summary: ''
 
 [^f00026]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14); section 2 was amended by the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14), Schedule 5, paragraphs 1 and 3.
 
-[^key-be8cf111d2e0010928755bbe5f22a543]: Textual amendment: Words in reg. 2(1) substituted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [3(a)](https://www.legislation.gov.uk/wsi/2014/66/regulation/3/a)
+[^c-be8cf111d2e0010928755bbe5f22a543]: Textual amendment: Words in reg. 2(1) substituted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [3(a)](https://www.legislation.gov.uk/wsi/2014/66/regulation/3/a)
 
-[^key-d2e75ff8a0cc0b1e9e56cdb6fe0ec9e9]: Textual amendment: Words in reg. 2(1) inserted (23.1.2026 in relation to a council tax reduction scheme made for a financial year beginning on or after 1.4.2026) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2026 ( W.S.I. 2026/13)](https://www.legislation.gov.uk/wsi/2026/13), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/3), [3(a)](https://www.legislation.gov.uk/wsi/2026/13/regulation/3/a)
+[^c-d2e75ff8a0cc0b1e9e56cdb6fe0ec9e9]: Textual amendment: Words in reg. 2(1) inserted (23.1.2026 in relation to a council tax reduction scheme made for a financial year beginning on or after 1.4.2026) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2026 ( W.S.I. 2026/13)](https://www.legislation.gov.uk/wsi/2026/13), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/3), [3(a)](https://www.legislation.gov.uk/wsi/2026/13/regulation/3/a)
 
 [^M_F_32b060ab-b38f-4f5e-e0bf-d42e1de444c5]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/wsi/2018/14/regulation/3/a)
 
-[^key-34101d6ffca05ac52d29c54b05b5a877]: Textual amendment: Words in reg. 2(1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [3(c)](https://www.legislation.gov.uk/wsi/2018/14/regulation/3/c)
+[^c-34101d6ffca05ac52d29c54b05b5a877]: Textual amendment: Words in reg. 2(1) substituted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [3(c)](https://www.legislation.gov.uk/wsi/2018/14/regulation/3/c)
 
 [^f00029]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
 
 [^M_F_19c9c8c5-9843-46e1-bf03-5c081ed3deb9]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [3(a)(iii)](https://www.legislation.gov.uk/wsi/2018/14/regulation/3/a)
 
-[^key-fec269fca3119fe728de20423309a3aa]: Textual amendment: Words in reg. 2(1) inserted (23.1.2026 in relation to a council tax reduction scheme made for a financial year beginning on or after 1.4.2026) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2026 ( W.S.I. 2026/13)](https://www.legislation.gov.uk/wsi/2026/13), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/3), [3(b)](https://www.legislation.gov.uk/wsi/2026/13/regulation/3/b)
+[^c-fec269fca3119fe728de20423309a3aa]: Textual amendment: Words in reg. 2(1) inserted (23.1.2026 in relation to a council tax reduction scheme made for a financial year beginning on or after 1.4.2026) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2026 ( W.S.I. 2026/13)](https://www.legislation.gov.uk/wsi/2026/13), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/3), [3(b)](https://www.legislation.gov.uk/wsi/2026/13/regulation/3/b)
 
-[^key-1aa66e743952704d5a2106a07881814a]: Textual amendment: Words in reg. 2(1) inserted (23.1.2026 in relation to a council tax reduction scheme made for a financial year beginning on or after 1.4.2026) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2026 ( W.S.I. 2026/13)](https://www.legislation.gov.uk/wsi/2026/13), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/3), [3(c)](https://www.legislation.gov.uk/wsi/2026/13/regulation/3/c)
+[^c-1aa66e743952704d5a2106a07881814a]: Textual amendment: Words in reg. 2(1) inserted (23.1.2026 in relation to a council tax reduction scheme made for a financial year beginning on or after 1.4.2026) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2026 ( W.S.I. 2026/13)](https://www.legislation.gov.uk/wsi/2026/13), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/3), [3(c)](https://www.legislation.gov.uk/wsi/2026/13/regulation/3/c)
 
 [^f00030]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70). This definition of local authority was amended by section 102 of, and paragraph 8 of Schedule 16 and Schedule 17 to the Local Government Act [1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51). Other amendments have been made to that definition but they are not relevant to these Regulations.
 
 [^f00031]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48). The definition of “occupational pension scheme” was substituted by section 239 of the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35) and amended by [S.I. 2007/3014](https://www.legislation.gov.uk/uksi/2007/3014).
 
-[^key-728d47b6cfc2dd607e48bbf180ff8e44]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2020 (S.I. 2020/16)](https://www.legislation.gov.uk/wsi/2020/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/16/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2020/16/regulation/3)
+[^c-728d47b6cfc2dd607e48bbf180ff8e44]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2020 (S.I. 2020/16)](https://www.legislation.gov.uk/wsi/2020/16), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/16/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2020/16/regulation/3)
 
 [^f00032]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18). Sections 80A and 80B were inserted by section 1 of the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22) and sections 80AA and 80BB were inserted by section 3 of the Work and Families Act [2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18). Relevant regulations made under these sections are [S.I. 2002/2788](https://www.legislation.gov.uk/uksi/2002/2788) and [S.I. 2003/921](https://www.legislation.gov.uk/uksi/2003/921) (made under sections 80A and 80B) and [S.I. 2010/1055](https://www.legislation.gov.uk/uksi/2010/1055) and [S.I. 2010/1059](https://www.legislation.gov.uk/uksi/2010/1059) (made under sections 80AA and 80BB).
 
@@ -355,17 +355,17 @@ summary: ''
 
 [^f00038]: Footnote: [2002 c.16](https://www.legislation.gov.uk/ukpga/2002/16).
 
-[^key-63c0b7782d6a57dee6f8e60647b8b671]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Amendment) (Wales) Regulations 2024 (S.I. 2024/56)](https://www.legislation.gov.uk/wsi/2024/56), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/56/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2024/56/regulation/3/b)
+[^c-63c0b7782d6a57dee6f8e60647b8b671]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Amendment) (Wales) Regulations 2024 (S.I. 2024/56)](https://www.legislation.gov.uk/wsi/2024/56), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/56/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2024/56/regulation/3/b)
 
-[^key-ad8394342c213b5ce1a75407eb582ded]: Textual amendment: Words in reg. 2(1) substituted (23.1.2026 in relation to a council tax reduction scheme made for a financial year beginning on or after 1.4.2026) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2026 ( W.S.I. 2026/13)](https://www.legislation.gov.uk/wsi/2026/13), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/3), [3(d)](https://www.legislation.gov.uk/wsi/2026/13/regulation/3/d)
+[^c-ad8394342c213b5ce1a75407eb582ded]: Textual amendment: Words in reg. 2(1) substituted (23.1.2026 in relation to a council tax reduction scheme made for a financial year beginning on or after 1.4.2026) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2026 ( W.S.I. 2026/13)](https://www.legislation.gov.uk/wsi/2026/13), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/3), [3(d)](https://www.legislation.gov.uk/wsi/2026/13/regulation/3/d)
 
-[^key-073af9a2875909e4d79c331cff8d1a32]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [3(d)](https://www.legislation.gov.uk/wsi/2018/14/regulation/3/d)
+[^c-073af9a2875909e4d79c331cff8d1a32]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [3(d)](https://www.legislation.gov.uk/wsi/2018/14/regulation/3/d)
 
-[^key-a5aca4dda1c80ce3a36a93c2fa4c63d4]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3)(4) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2021 (S.I. 2021/34)](https://www.legislation.gov.uk/wsi/2021/34), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/34/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2021/34/regulation/3/a)
+[^c-a5aca4dda1c80ce3a36a93c2fa4c63d4]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3)(4) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2021 (S.I. 2021/34)](https://www.legislation.gov.uk/wsi/2021/34), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/34/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2021/34/regulation/3/a)
 
-[^key-170f2572a5391d2ccc6b4bf754f450f7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/2/1) inserted (24.1.2025 with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/59)](https://www.legislation.gov.uk/wsi/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/59/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2025/59/regulation/3/a)
+[^c-170f2572a5391d2ccc6b4bf754f450f7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/2/1) inserted (24.1.2025 with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/59)](https://www.legislation.gov.uk/wsi/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/59/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2025/59/regulation/3/a)
 
-[^key-69671ae3b6dba946c5e6800714045d31]: Textual amendment: Words in reg. 2(1) substituted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [3(b)](https://www.legislation.gov.uk/wsi/2014/66/regulation/3/b)
+[^c-69671ae3b6dba946c5e6800714045d31]: Textual amendment: Words in reg. 2(1) substituted (15.1.2014) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2014 (S.I. 2014/66)](https://www.legislation.gov.uk/wsi/2014/66), [regs. 1](https://www.legislation.gov.uk/wsi/2014/66/regulation/1), [3(b)](https://www.legislation.gov.uk/wsi/2014/66/regulation/3/b)
 
 [^f00039]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214); amended by [S.I. 2007/1356](https://www.legislation.gov.uk/uksi/2007/1356), [2007/2869](https://www.legislation.gov.uk/uksi/2007/2869).
 
@@ -401,7 +401,7 @@ summary: ''
 
 [^f00054]: Footnote: [2008 c.17](https://www.legislation.gov.uk/ukpga/2008/17); section 193 was amended the Localism Act [2011 (c.20)](https://www.legislation.gov.uk/ukpga/2011/20), Schedule 17, paragraphs 1 and 4 and Schedule 25, Part 27; section 196 was amended by section 26(4) of the Local Democracy, Economic Development and Construction Act [2009 (c.20)](https://www.legislation.gov.uk/ukpga/2009/20) and the Localism Act 2011, sections 178, 195 and 237, and Schedules 19 and 25.
 
-[^key-143d94e477da237e70060691ced249ca]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/uksi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/44/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/44/regulation/3/b)
+[^c-143d94e477da237e70060691ced249ca]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2015 (S.I. 2015/44)](https://www.legislation.gov.uk/uksi/2015/44), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/44/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/44/regulation/3/b)
 
 [^f00055]: Footnote: [1993 c.39](https://www.legislation.gov.uk/ukpga/1993/39); subsection (2) was amended by [S.I. 1996/3095](https://www.legislation.gov.uk/uksi/1996/3095) and [1999/1563](https://www.legislation.gov.uk/uksi/1999/1563).
 
@@ -409,15 +409,15 @@ summary: ''
 
 [^f00057]: Footnote: [2002 c.16](https://www.legislation.gov.uk/ukpga/2002/16).
 
-[^key-c1572706aa4735a0c98b010930bcd974]: Textual amendment: Words in reg. 2(1) inserted (23.1.2026 in relation to a council tax reduction scheme made for a financial year beginning on or after 1.4.2026) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2026 ( W.S.I. 2026/13)](https://www.legislation.gov.uk/wsi/2026/13), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/3), [3(e)](https://www.legislation.gov.uk/wsi/2026/13/regulation/3/e)
+[^c-c1572706aa4735a0c98b010930bcd974]: Textual amendment: Words in reg. 2(1) inserted (23.1.2026 in relation to a council tax reduction scheme made for a financial year beginning on or after 1.4.2026) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2026 ( W.S.I. 2026/13)](https://www.legislation.gov.uk/wsi/2026/13), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/13/regulation/1/3), [3(e)](https://www.legislation.gov.uk/wsi/2026/13/regulation/3/e)
 
-[^key-c4090f293aac76217e4a393e57d3cec3]: Textual amendment: Words in reg. 2(1) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 30(2)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/30/2)
+[^c-c4090f293aac76217e4a393e57d3cec3]: Textual amendment: Words in reg. 2(1) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 30(2)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/30/2)
 
 [^f00058]: Footnote: [1973 c.50](https://www.legislation.gov.uk/ukpga/1973/50); section 2 was substituted by the Employment Act [1988 (c.19)](https://www.legislation.gov.uk/ukpga/1988/19), section 25 and amended by the Employment Act [1989 (c.38)](https://www.legislation.gov.uk/ukpga/1989/38), Schedule 7, Part 1.
 
 [^f00059]: Footnote: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-e17afc98151d5e80d3aae95376db0c41]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/2/1) inserted (24.1.2025 with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/59)](https://www.legislation.gov.uk/wsi/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/59/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2025/59/regulation/3/b)
+[^c-e17afc98151d5e80d3aae95376db0c41]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/2/1) inserted (24.1.2025 with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Miscellaneous Amendments) (Wales) Regulations 2025 (S.I. 2025/59)](https://www.legislation.gov.uk/wsi/2025/59), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/59/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2025/59/regulation/3/b)
 
 [^f00060]: Footnote: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1); subsection (2) was inserted by section 19 of the Finance Act [2005 (c.7)](https://www.legislation.gov.uk/ukpga/2005/7).
 
@@ -427,7 +427,7 @@ summary: ''
 
 [^M_F_236130bb-19d4-4d26-f11a-453ac84bfdf2]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [3(a)(v)](https://www.legislation.gov.uk/wsi/2018/14/regulation/3/a)
 
-[^key-719862a15209353754654e26fd7110b2]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3)(4) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2021 (S.I. 2021/34)](https://www.legislation.gov.uk/wsi/2021/34), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/34/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2021/34/regulation/3/b)
+[^c-719862a15209353754654e26fd7110b2]: Textual amendment: Words in reg. 2(1) inserted (with application in accordance with reg. 1(3)(4) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2021 (S.I. 2021/34)](https://www.legislation.gov.uk/wsi/2021/34), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/34/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2021/34/regulation/3/b)
 
 [^f00063]: Footnote: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21).
 

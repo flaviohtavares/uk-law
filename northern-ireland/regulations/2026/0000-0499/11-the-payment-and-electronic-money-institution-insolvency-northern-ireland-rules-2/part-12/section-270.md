@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 270. Non-Gazette notices — other provisions[^key-293c09ba20e393db4b6999386a5f8f45]
+## 270. Non-Gazette notices — other provisions[^c-293c09ba20e393db4b6999386a5f8f45]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-293c09ba20e393db4b6999386a5f8f45]: Commencement: [Rule 270](https://www.legislation.gov.uk/nisr/2026/11/rule/270) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-293c09ba20e393db4b6999386a5f8f45]: Commencement: [Rule 270](https://www.legislation.gov.uk/nisr/2026/11/rule/270) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

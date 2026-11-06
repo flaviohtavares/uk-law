@@ -52,21 +52,21 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred on Her by section 1 of the United Nations Act 1946[^f00001], section 16(5) of the Export Control Act 2002[^f00002], section 112 of the Saint Helena Act 1833[^f00003] and the British Settlements Acts 1887 and 1945[^f00004], and in exercise of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order as follows:
 
-## 1. Citation, commencement and extent[^key-25ec847a0d840621054861671d9589b1]
+## 1. Citation, commencement and extent[^c-25ec847a0d840621054861671d9589b1]
 
 (1) This Order may be cited as the Judicial Proceedings in Specified Overseas Territories (Restrictive Measures) Order 2009 and shall come into force on 30th April 2009.
 
 (2) This article extends to both:
 
 - (a) the Sovereign Base Areas of Akrotiri and Dhekelia; and
-- (b) the Falkland Islands, South Georgia and the South Sandwich Islands, the British Antarctic Territory, St Helena, Ascension and Tristan da Cunha[^key-ce28809499118fa1a83689b2f78afa01], the British Indian Ocean Territory, and Pitcairn, Henderson, Ducie and Oeno Islands.
+- (b) the Falkland Islands, South Georgia and the South Sandwich Islands, the British Antarctic Territory, St Helena, Ascension and Tristan da Cunha[^c-ce28809499118fa1a83689b2f78afa01], the British Indian Ocean Territory, and Pitcairn, Henderson, Ducie and Oeno Islands.
 
 (3) The remainder of this Order extends to those territories so far as:
 
 - (a) each instrument specified in a heading of Schedule 1 extends to those territories; and
 - (b) any modification below applies to them.
 
-## 2. Modification formula[^key-8674a9833f8e2c76dd33126c1033f887]
+## 2. Modification formula[^c-8674a9833f8e2c76dd33126c1033f887]
 
 (1) This article relates to each instrument specified in a heading of Schedule 1.
 
@@ -77,7 +77,7 @@ Her Majesty, in exercise of the powers conferred on Her by section 1 of the Unit
 - (a) the addition of that new provision, and
 - (b) the text of that new provision being inserted as set out in the supplementing provision in article 4 specified in the corresponding entry in column 2.
 
-## 3. General modifying provisions applicable to the Sovereign Base Areas of Akrotiri and Dhekelia[^key-e3c8246118d633c8309b03b402649497]
+## 3. General modifying provisions applicable to the Sovereign Base Areas of Akrotiri and Dhekelia[^c-e3c8246118d633c8309b03b402649497]
 
 The modifying provisions referred to in article 2(2) are as follows—
 
@@ -87,11 +87,11 @@ The modifying provisions referred to in article 2(2) are as follows—
 - (d) the words “is guilty of a misdemeanour and” are omitted; and
 - (e) the words “Proceedings for a misdemeanour under this Order, being an offence alleged to have been committed outside the Territory, may be instituted at any time not later than 12 months from the date on which the person charged first enters the Territory after committing the offence.” are omitted.
 
-## 4. General supplementing provision applicable to the Falkland Islands, South Georgia and the South Sandwich Islands, the British Antarctic Territory, St Helena, Ascension and Tristan da Cunha, the British Indian Ocean Territory, and Pitcairn, Henderson, Ducie and Oeno Islands[^key-09326e17a95d65a701a8aaedb06cde76]
+## 4. General supplementing provision applicable to the Falkland Islands, South Georgia and the South Sandwich Islands, the British Antarctic Territory, St Helena, Ascension and Tristan da Cunha, the British Indian Ocean Territory, and Pitcairn, Henderson, Ducie and Oeno Islands[^c-09326e17a95d65a701a8aaedb06cde76]
 
 The supplementing provision referred to in article 2 (3)(b) is as follows: “When the Magistrate’s Court is sentencing a person following summary conviction for an offence under this Order, alternatively to the penalties applicable to that offence upon summary conviction, there shall be available to the Magistrate’s Court any penalties which would be applicable upon conviction for that offence on indictment.”
 
-## 5. Specific modifying provisions applicable to the Sovereign Base Areas of Akrotiri and Dhekelia[^key-176cb8f3ddc5ba35a49ad2c625ec369b]
+## 5. Specific modifying provisions applicable to the Sovereign Base Areas of Akrotiri and Dhekelia[^c-176cb8f3ddc5ba35a49ad2c625ec369b]
 
 (1) The provisions of the following instruments are to be read as further modified in relation to the Sovereign Base Areas of Akrotiri and Dhekelia in accordance with the following paragraphs.
 
@@ -119,11 +119,11 @@ Judith Simpson
 
 Clerk of the Privy Council
 
-## SCHEDULE 1[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+## SCHEDULE 1[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 Article 2
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Al-Qa’ida and Taliban (United Nations Measures) (Overseas Territories) Order 2002[^f00012]:
 
@@ -136,7 +136,7 @@ The Al-Qa’ida and Taliban (United Nations Measures) (Overseas Territories) Ord
 | Schedule 2, paragraph 7 | Article 3(e) |
 | New provision added as Article 19(11) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Belarus (Restrictive Measures) (Overseas Territories) Order 2006[^f00013]:
 
@@ -149,7 +149,7 @@ The Belarus (Restrictive Measures) (Overseas Territories) Order 2006[^f00013]:
 | Schedule 2, paragraph 6 | Article 3(e) |
 | New provision added as Article 9(9) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Burma (Restrictive Measures) (Overseas Territories) Order 2004[^f00014]:
 
@@ -162,7 +162,7 @@ The Burma (Restrictive Measures) (Overseas Territories) Order 2004[^f00014]:
 | Schedule 2, paragraph 7 | Article 3(e) |
 | New provision added as Article 19(10) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Democratic Republic of the Congo (Restrictive Measures) (Overseas Territories) Order 2003[^f00015]:
 
@@ -175,7 +175,7 @@ The Democratic Republic of the Congo (Restrictive Measures) (Overseas Territorie
 | Schedule 2, paragraph 6 | Article 3(e) |
 | New provision added as Article 15(10) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Democratic Republic of the Congo (United Nations Sanctions) (Overseas Territories) Order 2005[^f00016]:
 
@@ -188,7 +188,7 @@ The Democratic Republic of the Congo (United Nations Sanctions) (Overseas Territ
 | Schedule 2, paragraph 6 | Article 3(e) |
 | New provision added as Article 9(9) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The International Criminal Tribunal for the former Yugoslavia (Restrictive Measures) (Overseas Territories) Order 2004[^f00017]:
 
@@ -201,7 +201,7 @@ The International Criminal Tribunal for the former Yugoslavia (Restrictive Measu
 | Schedule 2, paragraph 6 | Article 3(e) |
 | New provision added as Article 9(9) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Iraq (United Nations Sanctions) (Overseas Territories) Order 2000[^f00018]:
 
@@ -214,7 +214,7 @@ The Iraq (United Nations Sanctions) (Overseas Territories) Order 2000[^f00018]:
 | Schedule 2, paragraph 5 | Article 3(e) |
 | New provision added as Article 11(8) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Iraq (United Nations Sanctions) (Overseas Territories) Order 2003[^f00019]:
 
@@ -227,7 +227,7 @@ The Iraq (United Nations Sanctions) (Overseas Territories) Order 2003[^f00019]:
 | Schedule 2, paragraph 6 | Article 3(e) |
 | New provision added as Article 19(10) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Ivory Coast (Restrictive Measures) (Overseas Territories) Order 2005[^f00020]:
 
@@ -240,7 +240,7 @@ The Ivory Coast (Restrictive Measures) (Overseas Territories) Order 2005[^f00020
 | Schedule 2, paragraph 7 | Article 3(e) |
 | New provision added as Article 19(10) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Lebanon and Syria (United Nations Measures) (Overseas Territories) Order 2006[^f00021]:
 
@@ -252,7 +252,7 @@ The Lebanon and Syria (United Nations Measures) (Overseas Territories) Order 200
 | Schedule 2, paragraph 3 | Article 3(d) |
 | New provision added as Article 11(5) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The North Korea (United Nations Measures) (Overseas Territories) Order 2006[^f00022]:
 
@@ -264,7 +264,7 @@ The North Korea (United Nations Measures) (Overseas Territories) Order 2006[^f00
 | Schedule 2, paragraph 3 | Article 3(d) |
 | New provision added as Article 23(7) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Somalia (United Nations Sanctions) (Overseas Territories) Order 2002[^f00023]:
 
@@ -277,7 +277,7 @@ The Somalia (United Nations Sanctions) (Overseas Territories) Order 2002[^f00023
 | Schedule 2, paragraph 6 | Article 3(e) |
 | New provision added as Article 15(10) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Sudan (Restrictive Measures) (Overseas Territories) Order 2004[^f00024]:
 
@@ -290,7 +290,7 @@ The Sudan (Restrictive Measures) (Overseas Territories) Order 2004[^f00024]:
 | Schedule 2, paragraph 6 | Article 3(e) |
 | New provision added as Article 15(10) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Sudan (United Nations Measures) (Overseas Territories) Order 2005[^f00025]:
 
@@ -303,7 +303,7 @@ The Sudan (United Nations Measures) (Overseas Territories) Order 2005[^f00025]:
 | Schedule 2, paragraph 6 | Article 3(e) |
 | New provision added as Article 9(9) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Terrorism (United Nations Measures) (Overseas Territories) Order 2001[^f00026]:
 
@@ -316,7 +316,7 @@ The Terrorism (United Nations Measures) (Overseas Territories) Order 2001[^f0002
 | Schedule 2, paragraph 5 | Article 3(e) |
 | New provision added as Article 11(8) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Uzbekistan (Restrictive Measures) (Overseas Territories) Order 2006[^f00027]:
 
@@ -329,7 +329,7 @@ The Uzbekistan (Restrictive Measures) (Overseas Territories) Order 2006[^f00027]
 | Schedule 2, paragraph 6 | Article 3(e) |
 | New provision added as Article 15(10) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Overseas Territories (Zimbabwe) (Restrictive Measures) Order 2002[^f00028]:
 
@@ -342,7 +342,7 @@ The Overseas Territories (Zimbabwe) (Restrictive Measures) Order 2002[^f00028]:
 | Schedule 2, paragraph 7 | Article 3(e) |
 | New provision added as Article 19(10) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Export of Goods, Transfer of Technology and Provision of Technical Assistance (Control) (Overseas Territories) Order 2004[^f00029]:
 
@@ -355,7 +355,7 @@ The Export of Goods, Transfer of Technology and Provision of Technical Assistanc
 | Schedule 4, paragraph 6 | Article 3(e) |
 | Schedule 2, new provision added as paragraph 16(12) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Trade in Goods (Control) (Overseas Territories) Order 2004[^f00030]:
 
@@ -368,7 +368,7 @@ The Trade in Goods (Control) (Overseas Territories) Order 2004[^f00030]:
 | Schedule 5, paragraph 5 | Article 3(e) |
 | Schedule 2, new provision added as paragraph 9(9) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The Trade in Controlled Goods (Embargoed Destinations) (Overseas Territories) Order 2004[^f00031]:
 
@@ -380,7 +380,7 @@ The Trade in Controlled Goods (Embargoed Destinations) (Overseas Territories) Or
 | Schedule 5, paragraph 5 | Article 3(e) |
 | Schedule 2, new provision added as paragraph 8(9) | Article 4 |
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]
 
 The United Nations Arms Embargoes (Dependent Territories) Order 1995[^f00032]
 
@@ -389,7 +389,7 @@ The United Nations Arms Embargoes (Dependent Territories) Order 1995[^f00032]
 | Column 1 (provisions of instrument modified) | Column 2 (provisions of this Order) |
 | New provision added as Article 11(10) | Article 4 |
 
-## SCHEDULE 2[^key-959f1132d403ed50f0b75497ae073459]
+## SCHEDULE 2[^c-959f1132d403ed50f0b75497ae073459]
 
 Article 5(8)
 
@@ -445,17 +445,17 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00004]: Footnote: [1887 c.54](https://www.legislation.gov.uk/ukpga/1887/54) and [1945 c.7](https://www.legislation.gov.uk/ukpga/1945/7).
 
-[^key-25ec847a0d840621054861671d9589b1]: Commencement: Art. 1 in force at 30.4.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/888/article/1/1)
+[^c-25ec847a0d840621054861671d9589b1]: Commencement: Art. 1 in force at 30.4.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/888/article/1/1)
 
-[^key-ce28809499118fa1a83689b2f78afa01]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/uksi/2009/888) substituted (8.3.2012) by [The Restrictive Measures (Amendment) (Overseas Territories) Order 2012 (S.I. 2012/362)](https://www.legislation.gov.uk/uksi/2012/362), [arts. 1](https://www.legislation.gov.uk/uksi/2012/362/article/1), [2](https://www.legislation.gov.uk/uksi/2012/362/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/362/schedule/1)
+[^c-ce28809499118fa1a83689b2f78afa01]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/uksi/2009/888) substituted (8.3.2012) by [The Restrictive Measures (Amendment) (Overseas Territories) Order 2012 (S.I. 2012/362)](https://www.legislation.gov.uk/uksi/2012/362), [arts. 1](https://www.legislation.gov.uk/uksi/2012/362/article/1), [2](https://www.legislation.gov.uk/uksi/2012/362/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/362/schedule/1)
 
-[^key-8674a9833f8e2c76dd33126c1033f887]: Commencement: Art. 2 in force at 30.4.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/888/article/1/1)
+[^c-8674a9833f8e2c76dd33126c1033f887]: Commencement: Art. 2 in force at 30.4.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/888/article/1/1)
 
-[^key-e3c8246118d633c8309b03b402649497]: Commencement: Art. 3 in force at 30.4.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/888/article/1/1)
+[^c-e3c8246118d633c8309b03b402649497]: Commencement: Art. 3 in force at 30.4.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/888/article/1/1)
 
-[^key-09326e17a95d65a701a8aaedb06cde76]: Commencement: Art. 4 in force at 30.4.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/888/article/1/1)
+[^c-09326e17a95d65a701a8aaedb06cde76]: Commencement: Art. 4 in force at 30.4.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/888/article/1/1)
 
-[^key-176cb8f3ddc5ba35a49ad2c625ec369b]: Commencement: Art. 5 in force at 30.4.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/888/article/1/1)
+[^c-176cb8f3ddc5ba35a49ad2c625ec369b]: Commencement: Art. 5 in force at 30.4.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/888/article/1/1)
 
 [^f00005]: Footnote: [S.I. 2000/3242](https://www.legislation.gov.uk/uksi/2000/3242) as amended by [S.I. 2001/395](https://www.legislation.gov.uk/uksi/2001/395), [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [2003/1347](https://www.legislation.gov.uk/uksi/2003/1347), [2003/1516](https://www.legislation.gov.uk/uksi/2003/1516) and [2004/2671](https://www.legislation.gov.uk/uksi/2004/2671), and by the British Overseas Territories Act [2002 c. 8](https://www.legislation.gov.uk/ukpga/2002/8).
 
@@ -471,7 +471,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00011]: Footnote: [S.I. 1995/1032](https://www.legislation.gov.uk/uksi/1995/1032) as amended by [S.I. 1997/272](https://www.legislation.gov.uk/uksi/1997/272), [1998/1502](https://www.legislation.gov.uk/uksi/1998/1502), [2000/1106](https://www.legislation.gov.uk/uksi/2000/1106), [2002/2631](https://www.legislation.gov.uk/uksi/2002/2631) and [2004/2036](https://www.legislation.gov.uk/uksi/2004/2036), and by the British Overseas Territories Act [2002 c. 8](https://www.legislation.gov.uk/ukpga/2002/8).
 
-[^key-c9b2d4c97e2c9cdf2a372b57feb762a9]: Commencement: Sch. 1 in force at 30.4.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/888/article/1/1)
+[^c-c9b2d4c97e2c9cdf2a372b57feb762a9]: Commencement: Sch. 1 in force at 30.4.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/888/article/1/1)
 
 [^f00012]: Footnote: [S.I. 2002/112](https://www.legislation.gov.uk/uksi/2002/112) as amended by [S.I. 2002/266](https://www.legislation.gov.uk/uksi/2002/266) and [2004/2036](https://www.legislation.gov.uk/uksi/2004/2036), and by the British Overseas Territories Act [2002 c. 8](https://www.legislation.gov.uk/ukpga/2002/8).
 
@@ -515,4 +515,4 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00032]: Footnote: [S.I. 1995/1032](https://www.legislation.gov.uk/uksi/1995/1032) as amended by [S.I. 1997/272](https://www.legislation.gov.uk/uksi/1997/272), [1998/1502](https://www.legislation.gov.uk/uksi/1998/1502), [2000/1106](https://www.legislation.gov.uk/uksi/2000/1106), [2002/2631](https://www.legislation.gov.uk/uksi/2002/2631) and [2004/2036](https://www.legislation.gov.uk/uksi/2004/2036), and by the British Overseas Territories Act [2002 c. 8](https://www.legislation.gov.uk/ukpga/2002/8).
 
-[^key-959f1132d403ed50f0b75497ae073459]: Commencement: Sch. 2 in force at 30.4.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/888/article/1/1)
+[^c-959f1132d403ed50f0b75497ae073459]: Commencement: Sch. 2 in force at 30.4.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/888/article/1/1)

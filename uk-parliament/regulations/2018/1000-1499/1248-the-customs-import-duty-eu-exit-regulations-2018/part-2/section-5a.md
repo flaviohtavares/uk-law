@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. No requirement to present on import: unloading of stores from a qualifying vehicle[^key-3127a0c087d75f1e244043bab097881c]
+## 5A. No requirement to present on import: unloading of stores from a qualifying vehicle[^c-3127a0c087d75f1e244043bab097881c]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3127a0c087d75f1e244043bab097881c]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2018/1248/regulation/5A) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/4)
+[^c-3127a0c087d75f1e244043bab097881c]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2018/1248/regulation/5A) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/4)

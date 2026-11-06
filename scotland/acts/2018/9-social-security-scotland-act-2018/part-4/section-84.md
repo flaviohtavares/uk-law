@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Retention of right to assistance on bankruptcy etc.[^key-2ccdaa6625e6018837b2732047b53d65]
+## 84. Retention of right to assistance on bankruptcy etc.[^c-2ccdaa6625e6018837b2732047b53d65]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ An individual's entitlement to assistance under or by virtue of this Act does no
 
 ## Annotations
 
-[^key-2ccdaa6625e6018837b2732047b53d65]: Commencement: S. 84 in force at 3.9.2018 by [S.S.I. 2018/250](https://www.legislation.gov.uk/ssi/2018/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/250/regulation/2/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/250/regulation/3))
+[^c-2ccdaa6625e6018837b2732047b53d65]: Commencement: S. 84 in force at 3.9.2018 by [S.S.I. 2018/250](https://www.legislation.gov.uk/ssi/2018/250), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/250/regulation/2/1) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/250/regulation/3))

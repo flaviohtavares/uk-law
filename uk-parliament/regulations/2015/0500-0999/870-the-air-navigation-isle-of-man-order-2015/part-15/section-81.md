@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Fatigue of crew – responsibilities of crew[^key-6f4cd017246b7b43d364d13c22048782]
+## 81. Fatigue of crew – responsibilities of crew[^c-6f4cd017246b7b43d364d13c22048782]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f4cd017246b7b43d364d13c22048782]: Commencement: [Art. 81](https://www.legislation.gov.uk/uksi/2015/870/article/81) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-6f4cd017246b7b43d364d13c22048782]: Commencement: [Art. 81](https://www.legislation.gov.uk/uksi/2015/870/article/81) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

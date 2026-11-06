@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133G.[^key-fbb0bb9b5a360571c3854bf596bda73e][^key-af00d1430eb3e0760145692a10b852cd]
+## 133G.[^c-fbb0bb9b5a360571c3854bf596bda73e][^c-af00d1430eb3e0760145692a10b852cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ unless the taxable person can satisfy the Commissioners that there was a reasona
 
 ## Annotations
 
-[^key-fbb0bb9b5a360571c3854bf596bda73e]: Textual amendment: [Reg. 133G](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133G) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [46](https://www.legislation.gov.uk/uksi/2021/715/regulation/46)
+[^c-fbb0bb9b5a360571c3854bf596bda73e]: Textual amendment: [Reg. 133G](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133G) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [46](https://www.legislation.gov.uk/uksi/2021/715/regulation/46)
 
-[^key-af00d1430eb3e0760145692a10b852cd]: Textual amendment: [Pt. 16ZA](https://www.legislation.gov.uk/uksi/1995/2518/part/16ZA) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [74](https://www.legislation.gov.uk/uksi/2020/1545/regulation/74) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-af00d1430eb3e0760145692a10b852cd]: Textual amendment: [Pt. 16ZA](https://www.legislation.gov.uk/uksi/1995/2518/part/16ZA) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [74](https://www.legislation.gov.uk/uksi/2020/1545/regulation/74) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

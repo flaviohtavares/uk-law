@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Interpretation of this Part[^key-ab90b19de8737784a16e1392b8cc39f1][^key-021684ae051ae7803a6cfe8979eda3c1][^key-2c6b85f5fb1cf50007ad6f2160c06834][^key-6714c7267a5591b0d643e6504244f781]
+## 94. Interpretation of this Part[^c-ab90b19de8737784a16e1392b8cc39f1][^c-021684ae051ae7803a6cfe8979eda3c1][^c-2c6b85f5fb1cf50007ad6f2160c06834][^c-6714c7267a5591b0d643e6504244f781]
 
 *Extent: E+W*
 
@@ -74,10 +74,10 @@ summary: ''
 
 ## Annotations
 
-[^key-ab90b19de8737784a16e1392b8cc39f1]: Commencement: [S. 94](https://www.legislation.gov.uk/anaw/2017/2/section/94) in force at 1.2.2018 for specified purposes by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/1/article/2/b)
+[^c-ab90b19de8737784a16e1392b8cc39f1]: Commencement: [S. 94](https://www.legislation.gov.uk/anaw/2017/2/section/94) in force at 1.2.2018 for specified purposes by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/1/article/2/b)
 
-[^key-021684ae051ae7803a6cfe8979eda3c1]: Commencement: [S. 94](https://www.legislation.gov.uk/anaw/2017/2/section/94) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(j)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/j)
+[^c-021684ae051ae7803a6cfe8979eda3c1]: Commencement: [S. 94](https://www.legislation.gov.uk/anaw/2017/2/section/94) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(j)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/j)
 
-[^key-2c6b85f5fb1cf50007ad6f2160c06834]: Commencement: [S. 94](https://www.legislation.gov.uk/anaw/2017/2/section/94) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2024/938/article/2/2/b)
+[^c-2c6b85f5fb1cf50007ad6f2160c06834]: Commencement: [S. 94](https://www.legislation.gov.uk/anaw/2017/2/section/94) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2024/938/article/2/2/b)
 
-[^key-6714c7267a5591b0d643e6504244f781]: Commencement: [S. 94](https://www.legislation.gov.uk/anaw/2017/2/section/94) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(ii)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/ii) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-6714c7267a5591b0d643e6504244f781]: Commencement: [S. 94](https://www.legislation.gov.uk/anaw/2017/2/section/94) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(ii)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/ii) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

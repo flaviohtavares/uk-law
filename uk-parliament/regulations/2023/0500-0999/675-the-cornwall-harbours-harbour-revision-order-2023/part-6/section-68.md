@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Revocation / Repeal[^key-69eaf9084cf7bedf7a0e4b418dadcf60]
+## 68. Revocation / Repeal[^c-69eaf9084cf7bedf7a0e4b418dadcf60]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ On the date this Order comes into force the enactments mentioned in the first an
 
 ## Annotations
 
-[^key-69eaf9084cf7bedf7a0e4b418dadcf60]: Commencement: Art. 68 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-69eaf9084cf7bedf7a0e4b418dadcf60]: Commencement: Art. 68 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

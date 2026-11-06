@@ -78,7 +78,7 @@ Section 3
 
 > (4) In determining “the appropriate rate”, it must be assumed that all of CC's profits of the relevant corporation tax accounting period on which corporation tax is chargeable are chargeable at the main rate rather than the Northern Ireland rate.
 
-**3.**[^key-728e08326c3ac6971355e2627b8ce7d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-728e08326c3ac6971355e2627b8ce7d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 2 — Consequential amendments
 
@@ -322,4 +322,4 @@ Section 3
 
 ## Annotations
 
-[^key-728e08326c3ac6971355e2627b8ce7d5]: Textual amendment: Sch. 2 para. 3 omitted (with effect in accordance with s. 36(3)-(5) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 36(2)(d)](https://www.legislation.gov.uk/ukpga/2015/33/section/36/2/d)
+[^c-728e08326c3ac6971355e2627b8ce7d5]: Textual amendment: Sch. 2 para. 3 omitted (with effect in accordance with s. 36(3)-(5) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 36(2)(d)](https://www.legislation.gov.uk/ukpga/2015/33/section/36/2/d)

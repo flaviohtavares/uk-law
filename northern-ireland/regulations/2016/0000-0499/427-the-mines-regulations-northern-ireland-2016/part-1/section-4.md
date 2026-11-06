@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Application of these Regulations[^key-d9f7f16d6980c3739378c66fe5d89e76]
+## 4. Application of these Regulations[^c-d9f7f16d6980c3739378c66fe5d89e76]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9f7f16d6980c3739378c66fe5d89e76]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/427/regulation/4) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-d9f7f16d6980c3739378c66fe5d89e76]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/427/regulation/4) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

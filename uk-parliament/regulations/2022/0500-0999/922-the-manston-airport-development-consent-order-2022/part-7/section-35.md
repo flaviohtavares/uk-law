@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Abrogation of agreement[^key-bdd7ce213ab4c20220598700c5873287]
+## 35. Abrogation of agreement[^c-bdd7ce213ab4c20220598700c5873287]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ The Manston Airport section 106 agreement[^f00069] is hereby abrogated.
 
 ## Annotations
 
-[^key-bdd7ce213ab4c20220598700c5873287]: Commencement: Art. 35 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-bdd7ce213ab4c20220598700c5873287]: Commencement: Art. 35 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
 [^f00069]: Footnote: This agreement dated 26 September 2000 was made pursuant to section 106 (planning obligations) of the 1990 Act and the 1972 Act between Thanet District Council and Kent International Airport plc in respect of Manston Airport.

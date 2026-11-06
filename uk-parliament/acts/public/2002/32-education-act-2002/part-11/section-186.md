@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 186. Student loans[^key-16d22abc6cb94a4e23abb3f036dfb595]
+## 186. Student loans[^c-16d22abc6cb94a4e23abb3f036dfb595]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16d22abc6cb94a4e23abb3f036dfb595]: Modification: S. 186: functions made exercisable concurrently (30.9.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/644/article/1/2), [39(5)](https://www.legislation.gov.uk/uksi/2018/644/article/39/5) (with [art. 39(6)](https://www.legislation.gov.uk/uksi/2018/644/article/39/6))
+[^c-16d22abc6cb94a4e23abb3f036dfb595]: Modification: S. 186: functions made exercisable concurrently (30.9.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/644/article/1/2), [39(5)](https://www.legislation.gov.uk/uksi/2018/644/article/39/5) (with [art. 39(6)](https://www.legislation.gov.uk/uksi/2018/644/article/39/6))

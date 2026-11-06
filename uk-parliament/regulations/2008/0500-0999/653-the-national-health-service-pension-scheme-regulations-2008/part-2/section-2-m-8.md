@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.M.8. Pension Returns[^key-6c284d686fcbdf2d525783ae68d80711]
+## 2.M.8. Pension Returns[^c-6c284d686fcbdf2d525783ae68d80711]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 (3) The information referred to in paragraph (1)—
 
 - (a) a complete list of all qualifying contracts to which the Independent Provider is or has been a party over the relevant period;
-- (ab)[^key-4a1ad4c09f9396627bdc6a69110e338b] a complete list of such of the contracts referred to in sub-paragraph (a) which the Independent Provider has sub-contracted by way of NHS standard sub-contract to a third party: that list must identify the third party and also specify the total gross amounts expressed to be payable under such sub-contracts to that third party;
+- (ab)[^c-4a1ad4c09f9396627bdc6a69110e338b] a complete list of such of the contracts referred to in sub-paragraph (a) which the Independent Provider has sub-contracted by way of NHS standard sub-contract to a third party: that list must identify the third party and also specify the total gross amounts expressed to be payable under such sub-contracts to that third party;
 - (b) the total gross amounts—
   - (i) estimated in accordance with regulation 2.M.3(3), to be payable over the relevant period under those contracts to the Independent Provider by the commissioning party;
   - (ii) actually received by the Independent Provider from the commissioning party in respect of those contracts over the relevant period;
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6c284d686fcbdf2d525783ae68d80711]: Textual amendment: [Ch. 2.M](https://www.legislation.gov.uk/uksi/2008/653/chapter/2.M) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2014/570/regulation/35) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
+[^c-6c284d686fcbdf2d525783ae68d80711]: Textual amendment: [Ch. 2.M](https://www.legislation.gov.uk/uksi/2008/653/chapter/2.M) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2014/570/regulation/35) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
 
-[^key-4a1ad4c09f9396627bdc6a69110e338b]: Textual amendment: [Reg. 2.M.8(3)(ab)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.M.8/3/ab) inserted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2016/245/regulation/38) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-4a1ad4c09f9396627bdc6a69110e338b]: Textual amendment: [Reg. 2.M.8(3)(ab)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.M.8/3/ab) inserted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2016/245/regulation/38) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

@@ -35,7 +35,7 @@ An Act to make provision about the days on which offenders are released from det
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Days on which offenders may be released from detention[^key-6e770b300aad4f4441fa552f6dd48563][^key-57940da4dfb1478bfcc5bd06618d485a]
+## 1. Days on which offenders may be released from detention[^c-6e770b300aad4f4441fa552f6dd48563][^c-57940da4dfb1478bfcc5bd06618d485a]
 
 *Extent: E+W*
 
@@ -76,14 +76,14 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 >   - (b) residential premises in Wales which provide a secure accommodation service, within the meaning given in Part 1 of the [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2);
 > - “**secure 16 to 19 Academy**” has the meaning given in section 1B of the Academies Act 2010.
 
-## 2. Offenders detained under International Criminal Court Act 2001[^key-99595eda2a30d276fb5405746ec9e2db][^key-e45efa96a2c8575f3311e77b5670ddb9]
+## 2. Offenders detained under International Criminal Court Act 2001[^c-99595eda2a30d276fb5405746ec9e2db][^c-e45efa96a2c8575f3311e77b5670ddb9]
 
 In paragraph 2(1)(c) of Schedule 7 to the International Criminal Court Act 2001 (domestic provisions not applicable to persons detained pursuant to a sentence of the International Criminal Court)—
 
 - (a) after “section 23(3)” insert “and (3B)”;
 - (b) for “or on a holiday” substitute “, on a holiday or on a working day immediately before a non-working day”.
 
-## 3. Extent, commencement and short title[^key-87c9f73c55c31bf71be9664fd673486c][^key-c0fd334b192d6dd0fd6c7c487581902a]
+## 3. Extent, commencement and short title[^c-87c9f73c55c31bf71be9664fd673486c][^c-c0fd334b192d6dd0fd6c7c487581902a]
 
 (1) Section 1 extends to England and Wales.
 
@@ -95,14 +95,14 @@ In paragraph 2(1)(c) of Schedule 7 to the International Criminal Court Act 2001 
 
 ## Annotations
 
-[^key-6e770b300aad4f4441fa552f6dd48563]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/25/section/3/3)
+[^c-6e770b300aad4f4441fa552f6dd48563]: Commencement: S. 1 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/25/section/3/3)
 
-[^key-57940da4dfb1478bfcc5bd06618d485a]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/25/section/1) in force at 12.12.2023 by [S.I. 2023/1329](https://www.legislation.gov.uk/uksi/2023/1329), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1329/regulation/2)
+[^c-57940da4dfb1478bfcc5bd06618d485a]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/25/section/1) in force at 12.12.2023 by [S.I. 2023/1329](https://www.legislation.gov.uk/uksi/2023/1329), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1329/regulation/2)
 
-[^key-99595eda2a30d276fb5405746ec9e2db]: Commencement: S. 2 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/25/section/3/3)
+[^c-99595eda2a30d276fb5405746ec9e2db]: Commencement: S. 2 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/25/section/3/3)
 
-[^key-e45efa96a2c8575f3311e77b5670ddb9]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/25/section/2) in force at 12.12.2023 by [S.I. 2023/1329](https://www.legislation.gov.uk/uksi/2023/1329), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1329/regulation/2)
+[^c-e45efa96a2c8575f3311e77b5670ddb9]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/25/section/2) in force at 12.12.2023 by [S.I. 2023/1329](https://www.legislation.gov.uk/uksi/2023/1329), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1329/regulation/2)
 
-[^key-87c9f73c55c31bf71be9664fd673486c]: Commencement: S. 3 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/25/section/3/3)
+[^c-87c9f73c55c31bf71be9664fd673486c]: Commencement: S. 3 not in force at Royal Assent, see [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/25/section/3/3)
 
-[^key-c0fd334b192d6dd0fd6c7c487581902a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/25/section/3) in force at 12.12.2023 by [S.I. 2023/1329](https://www.legislation.gov.uk/uksi/2023/1329), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1329/regulation/2)
+[^c-c0fd334b192d6dd0fd6c7c487581902a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/25/section/3) in force at 12.12.2023 by [S.I. 2023/1329](https://www.legislation.gov.uk/uksi/2023/1329), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1329/regulation/2)

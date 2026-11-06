@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Guarantees in respect of payment of compensation[^key-488622ade9e35143cc03d1d6eb3f1b24]
+## 44. Guarantees in respect of payment of compensation[^c-488622ade9e35143cc03d1d6eb3f1b24]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-488622ade9e35143cc03d1d6eb3f1b24]: Commencement: Art. 44 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-488622ade9e35143cc03d1d6eb3f1b24]: Commencement: Art. 44 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Strategy for collaboration in exercise of victim support functions[^key-6dd36e6b0194e213498936c15856912c]
+## 14. Strategy for collaboration in exercise of victim support functions[^c-6dd36e6b0194e213498936c15856912c]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dd36e6b0194e213498936c15856912c]: Commencement: S. 14 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-6dd36e6b0194e213498936c15856912c]: Commencement: S. 14 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

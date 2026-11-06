@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Existing sanctions regulations[^key-fd8890bb4087ac7e02edc56e554f6490]
+## 61. Existing sanctions regulations[^c-fd8890bb4087ac7e02edc56e554f6490]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd8890bb4087ac7e02edc56e554f6490]: Commencement: S. 61 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-fd8890bb4087ac7e02edc56e554f6490]: Commencement: S. 61 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

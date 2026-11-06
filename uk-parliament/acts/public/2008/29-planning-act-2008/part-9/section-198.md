@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Appeals relating to old mining permissions[^key-5ca9bde4beaef156284442dfaefa3a78][^key-cc920aa154e0b0d56df2aff115f82114]
+## 198. Appeals relating to old mining permissions[^c-5ca9bde4beaef156284442dfaefa3a78][^c-cc920aa154e0b0d56df2aff115f82114]
 
 *Extent: E+W+S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ca9bde4beaef156284442dfaefa3a78]: Commencement: S. 198 in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(e)](https://www.legislation.gov.uk/uksi/2009/400/article/5/e)
+[^c-5ca9bde4beaef156284442dfaefa3a78]: Commencement: S. 198 in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(e)](https://www.legislation.gov.uk/uksi/2009/400/article/5/e)
 
-[^key-cc920aa154e0b0d56df2aff115f82114]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2008/29/section/198) in force at 28.11.2014 for W. by [S.I. 2014/2780](https://www.legislation.gov.uk/wsi/2014/2780), [art. 2](https://www.legislation.gov.uk/wsi/2014/2780/article/2)
+[^c-cc920aa154e0b0d56df2aff115f82114]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2008/29/section/198) in force at 28.11.2014 for W. by [S.I. 2014/2780](https://www.legislation.gov.uk/wsi/2014/2780), [art. 2](https://www.legislation.gov.uk/wsi/2014/2780/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Trade: overlapping offences[^key-dca291149b0c9203aaf4d96388ae4de8]
+## 95. Trade: overlapping offences[^c-dca291149b0c9203aaf4d96388ae4de8]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ A person is not to be taken to commit an offence under the Export Control Order 
 
 ## Annotations
 
-[^key-dca291149b0c9203aaf4d96388ae4de8]: Commencement: Reg. 95 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-dca291149b0c9203aaf4d96388ae4de8]: Commencement: Reg. 95 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
 [^f00052]: Footnote: Article 34 was amended by the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), Schedule 24, paragraph 446(1); [S.I. 2022/491](https://www.legislation.gov.uk/uksi/2022/491); and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149). Article 35 was amended by the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), Schedule 24, paragraph 446(1); [S.I. 2022/1300](https://www.legislation.gov.uk/uksi/2022/1300); and [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149). Article 37 was amended by [S.I. 2012/1910](https://www.legislation.gov.uk/uksi/2012/1910); and [S.I. 2019/137](https://www.legislation.gov.uk/uksi/2019/137). Article 38 was amended by [S.I. 2017/85](https://www.legislation.gov.uk/uksi/2017/85); and [S.I. 2019/137](https://www.legislation.gov.uk/uksi/2019/137).

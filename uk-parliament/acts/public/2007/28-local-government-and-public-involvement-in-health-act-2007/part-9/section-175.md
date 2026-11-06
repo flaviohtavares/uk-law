@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Reports and statements of reasons[^key-cfdf004ce771935a9812d5d8ed7d2ab9]
+## 175. Reports and statements of reasons[^c-cfdf004ce771935a9812d5d8ed7d2ab9]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfdf004ce771935a9812d5d8ed7d2ab9]: Commencement: S. 175 in force at 1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-cfdf004ce771935a9812d5d8ed7d2ab9]: Commencement: S. 175 in force at 1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))

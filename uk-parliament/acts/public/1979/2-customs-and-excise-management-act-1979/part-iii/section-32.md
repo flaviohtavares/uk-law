@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Penalty for carrying away officers.[^key-e8f421f92e9624b6b256144256f9ac2b]
+## 32. Penalty for carrying away officers.[^c-e8f421f92e9624b6b256144256f9ac2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8f421f92e9624b6b256144256f9ac2b]: Textual amendment: S. 32 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 52(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2005/11/section/52/1/a/iii), [53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/i)
+[^c-e8f421f92e9624b6b256144256f9ac2b]: Textual amendment: S. 32 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 52(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2005/11/section/52/1/a/iii), [53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/i)

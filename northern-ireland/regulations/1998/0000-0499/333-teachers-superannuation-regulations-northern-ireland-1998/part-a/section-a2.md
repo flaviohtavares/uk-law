@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## A2. Interpretation[^key-448226dc95bfad796a141215fd0577ca]
+## A2. Interpretation[^c-448226dc95bfad796a141215fd0577ca]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-448226dc95bfad796a141215fd0577ca]: Commencement: Reg. A2 in operation at 2.11.1998, see reg. A1
+[^c-448226dc95bfad796a141215fd0577ca]: Commencement: Reg. A2 in operation at 2.11.1998, see reg. A1

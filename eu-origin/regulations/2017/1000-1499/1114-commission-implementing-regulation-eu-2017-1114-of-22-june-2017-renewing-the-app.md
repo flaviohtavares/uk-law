@@ -35,30 +35,30 @@ renewing the approval of the active substance pendimethalin, as a candidate for 
 
 (Text with EEA relevance) (revoked)
 
-[^key-52ee12139c32b3983cc875fdf5563663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52ee12139c32b3983cc875fdf5563663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Renewal of the approval of the active substance as a candidate for substitution[^key-52ee12139c32b3983cc875fdf5563663]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^key-52ee12139c32b3983cc875fdf5563663]
+## Article 1. Renewal of the approval of the active substance as a candidate for substitution[^c-52ee12139c32b3983cc875fdf5563663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force and date of application[^key-52ee12139c32b3983cc875fdf5563663]
+## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^c-52ee12139c32b3983cc875fdf5563663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52ee12139c32b3983cc875fdf5563663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-52ee12139c32b3983cc875fdf5563663]
+## Article 3. Entry into force and date of application[^c-52ee12139c32b3983cc875fdf5563663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-52ee12139c32b3983cc875fdf5563663]
+[^c-52ee12139c32b3983cc875fdf5563663]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-52ee12139c32b3983cc875fdf5563663]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-52ee12139c32b3983cc875fdf5563663]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-52ee12139c32b3983cc875fdf5563663]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52ee12139c32b3983cc875fdf5563663]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

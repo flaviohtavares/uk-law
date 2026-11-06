@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Enforcement orders: offence[^key-77a7229e48dc3ab944f8c322f8348573]
+## 51. Enforcement orders: offence[^c-77a7229e48dc3ab944f8c322f8348573]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77a7229e48dc3ab944f8c322f8348573]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2014/14/section/51) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-77a7229e48dc3ab944f8c322f8348573]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2014/14/section/51) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

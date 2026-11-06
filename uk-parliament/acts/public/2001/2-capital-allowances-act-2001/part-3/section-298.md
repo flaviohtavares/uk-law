@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 298. The time limit for qualifying enterprise zone expenditure[^key-9110db95a01c0c29a5bddba26486e553]
+## 298. The time limit for qualifying enterprise zone expenditure[^c-9110db95a01c0c29a5bddba26486e553]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9110db95a01c0c29a5bddba26486e553]: Textual amendment: Pt. 3 omitted (with effect in relation to chargeable periods beginning on or after 1.4.2011 for corporation tax purposes and 6.4.2011 for income tax purposes in accordance with ss. 84(1)(3)(4), 85, 86 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/84/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27))
+[^c-9110db95a01c0c29a5bddba26486e553]: Textual amendment: Pt. 3 omitted (with effect in relation to chargeable periods beginning on or after 1.4.2011 for corporation tax purposes and 6.4.2011 for income tax purposes in accordance with ss. 84(1)(3)(4), 85, 86 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/84/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27))
 
 [^c1871980]: Textual amendment: Words in s. 298(3) inserted (with effect as mentioned in s. 69(2) of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2001/9/section/69/1), [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2001/9/schedule/21/paragraph/5)

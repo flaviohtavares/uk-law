@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Survival equipment - non-commercial air transport flights[^key-16353c95eab955610f4a313c8c013ca5]
+## 80. Survival equipment - non-commercial air transport flights[^c-16353c95eab955610f4a313c8c013ca5]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16353c95eab955610f4a313c8c013ca5]: Commencement: [Art. 80](https://www.legislation.gov.uk/uksi/2013/2870/article/80) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-16353c95eab955610f4a313c8c013ca5]: Commencement: [Art. 80](https://www.legislation.gov.uk/uksi/2013/2870/article/80) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

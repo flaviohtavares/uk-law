@@ -27,7 +27,7 @@ summary: ''
 - (a) to pass on him a custodial sentence; or
 - (b) to make in respect of him a community service order, a community responsibility order or a combination order.
 
-(3)[^key-2f5151a87b9342847d65ebf0c1bf3980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2f5151a87b9342847d65ebf0c1bf3980] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Before making a reparation order, the court must state in open court that it is of the opinion that Article 8(1) of the Criminal Justice (Northern Ireland) Order 1996 (N.I. 24) (restrictions on imposing community sentences) applies and why it is of that opinion.
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c20346091]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)
 
-[^key-2f5151a87b9342847d65ebf0c1bf3980]: Textual amendment: [Art. 36B(3)](https://www.legislation.gov.uk/nisi/1998/1504/article/36B/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(3)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-2f5151a87b9342847d65ebf0c1bf3980]: Textual amendment: [Art. 36B(3)](https://www.legislation.gov.uk/nisi/1998/1504/article/36B/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 115(3)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/115/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

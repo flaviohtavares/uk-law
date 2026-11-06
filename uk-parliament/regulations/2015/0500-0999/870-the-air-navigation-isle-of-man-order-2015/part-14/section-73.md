@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Endangering safety of an aircraft[^key-398511642abe2558d3ebd0fc032fcd19]
+## 73. Endangering safety of an aircraft[^c-398511642abe2558d3ebd0fc032fcd19]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person must not recklessly or negligently act in a manner likely to endanger a
 
 ## Annotations
 
-[^key-398511642abe2558d3ebd0fc032fcd19]: Commencement: [Art. 73](https://www.legislation.gov.uk/uksi/2015/870/article/73) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-398511642abe2558d3ebd0fc032fcd19]: Commencement: [Art. 73](https://www.legislation.gov.uk/uksi/2015/870/article/73) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

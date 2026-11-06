@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Requests for immunity: procedural matters[^key-b55d75a86bb1b93e07f0e973908e0b97]
+## 20. Requests for immunity: procedural matters[^c-b55d75a86bb1b93e07f0e973908e0b97]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b55d75a86bb1b93e07f0e973908e0b97]: Commencement: S. 20 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-b55d75a86bb1b93e07f0e973908e0b97]: Commencement: S. 20 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)

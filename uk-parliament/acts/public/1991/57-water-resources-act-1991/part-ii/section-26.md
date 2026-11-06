@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Rights of navigation, harbour and conservancy authorities.[^key-f008500344d8652125e48f49e7bf4e0b]
+## 26. Rights of navigation, harbour and conservancy authorities.[^c-f008500344d8652125e48f49e7bf4e0b]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ in the course of the performance by a navigation authority, harbour authority or
 
 ## Annotations
 
-[^key-f008500344d8652125e48f49e7bf4e0b]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/1991/57/section/26) substituted (1.1.2018) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 5](https://www.legislation.gov.uk/ukpga/2003/37/section/5), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/a)
+[^c-f008500344d8652125e48f49e7bf4e0b]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/1991/57/section/26) substituted (1.1.2018) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 5](https://www.legislation.gov.uk/ukpga/2003/37/section/5), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/a)

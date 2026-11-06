@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28H. Referral of proposed marriage to Secretary of State[^key-3065883099cbb2fabd084c8ac447a3d9]
+## 28H. Referral of proposed marriage to Secretary of State[^c-3065883099cbb2fabd084c8ac447a3d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ the superintendent registrar must decide that that party to the proposed marriag
 
 ## Annotations
 
-[^key-3065883099cbb2fabd084c8ac447a3d9]: Textual amendment: S. 28H inserted (20.10.2014 for specified purposes, 1.3.2015 in so far as not already in force) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/8) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-3065883099cbb2fabd084c8ac447a3d9]: Textual amendment: S. 28H inserted (20.10.2014 for specified purposes, 1.3.2015 in so far as not already in force) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/8) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/e); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)

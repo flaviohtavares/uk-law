@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Service complaints appeals[^key-35f7a9a034d9e7859a42d0cf76e91f47][^key-96d08d573ac028c72c1330b955adecb5][^key-28cc508c6cfe3a90de5d7458b900e6fe]
+## 10. Service complaints appeals[^c-35f7a9a034d9e7859a42d0cf76e91f47][^c-96d08d573ac028c72c1330b955adecb5][^c-28cc508c6cfe3a90de5d7458b900e6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,8 +83,8 @@ summary: ''
 
 ## Annotations
 
-[^key-35f7a9a034d9e7859a42d0cf76e91f47]: Commencement: S. 10 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-35f7a9a034d9e7859a42d0cf76e91f47]: Commencement: S. 10 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-96d08d573ac028c72c1330b955adecb5]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/35/section/10) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d)
+[^c-96d08d573ac028c72c1330b955adecb5]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/35/section/10) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d)
 
-[^key-28cc508c6cfe3a90de5d7458b900e6fe]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/35/section/10) in force at 15.6.2022 in so far as not already in force by [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-28cc508c6cfe3a90de5d7458b900e6fe]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/35/section/10) in force at 15.6.2022 in so far as not already in force by [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)

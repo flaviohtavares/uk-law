@@ -36,7 +36,7 @@ Regulation 54(1)
 | The Building (Amendment) (No. 3) Regulations 2004 | [S.I. 2004/3210](https://www.legislation.gov.uk/uksi/2004/3210) | The whole Regulations. |
 | The Building and Approved Inspectors (Amendment) Regulations 2006 | [S.I. 2006/652](https://www.legislation.gov.uk/uksi/2006/652) | The whole Regulations. |
 | The Building and Approved Inspectors (Amendment) (No. 2) Regulations 2006 | [S.I. 2006/3318](https://www.legislation.gov.uk/uksi/2006/3318) | The whole Regulations. |
-| [^key-9d128c10d59e352c6c5ab9c69db315fc]... | [^key-9d128c10d59e352c6c5ab9c69db315fc]... | [^key-9d128c10d59e352c6c5ab9c69db315fc]... |
+| [^c-9d128c10d59e352c6c5ab9c69db315fc]... | [^c-9d128c10d59e352c6c5ab9c69db315fc]... | [^c-9d128c10d59e352c6c5ab9c69db315fc]... |
 | The Building and Approved Inspectors (Amendment) Regulations 2007 | [S.I. 2007/3384](https://www.legislation.gov.uk/uksi/2007/3384) | The whole Regulations. |
 | The Building (Amendment) Regulations 2008 | [S.I. 2008/671](https://www.legislation.gov.uk/uksi/2008/671) | The whole Regulations. |
 | The Energy Performance of Buildings (Certificates and Inspections) (England and Wales) (Amendment No. 2) Regulations 2008 | [S.I. 2008/2363](https://www.legislation.gov.uk/uksi/2008/2363) | Regulation 3. |
@@ -48,4 +48,4 @@ Regulation 54(1)
 
 ## Annotations
 
-[^key-9d128c10d59e352c6c5ab9c69db315fc]: Textual amendment: Sch. 5 revoked in part (9.1.2013) by [The Energy Performance of Buildings (England and Wales) Regulations 2012 (S.I. 2012/3118)](https://www.legislation.gov.uk/uksi/2012/3118), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/1/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3118/schedule/3) (with [reg. 44](https://www.legislation.gov.uk/uksi/2012/3118/regulation/44))
+[^c-9d128c10d59e352c6c5ab9c69db315fc]: Textual amendment: Sch. 5 revoked in part (9.1.2013) by [The Energy Performance of Buildings (England and Wales) Regulations 2012 (S.I. 2012/3118)](https://www.legislation.gov.uk/uksi/2012/3118), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/1/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3118/schedule/3) (with [reg. 44](https://www.legislation.gov.uk/uksi/2012/3118/regulation/44))

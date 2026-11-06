@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Forfeiture of terrorist property[^key-73cba6c9d898c90b4f17eb9dba8a90cb]
+## SCHEDULE 1 — Forfeiture of terrorist property[^c-73cba6c9d898c90b4f17eb9dba8a90cb]
 
 *Extent: E+W+S+N.I.*
 
 Section 1
 
-### PART 1 — Introductory: forfeiture of terrorist cash[^key-fc04d7b2518dfe9140e28d102c9d5a9b]
+### PART 1 — Introductory: forfeiture of terrorist cash[^c-fc04d7b2518dfe9140e28d102c9d5a9b]
 
 #### Terrorist cash
 
-**1.** (1) This Schedule (other than Parts 4A[^key-a58641d26f548851e485ae022b125f3e] to 4BD[^key-dfa5596dad9eabbeab574273a441116a]) applies to cash (“**terrorist cash**”) which—
+**1.** (1) This Schedule (other than Parts 4A[^c-a58641d26f548851e485ae022b125f3e] to 4BD[^c-dfa5596dad9eabbeab574273a441116a]) applies to cash (“**terrorist cash**”) which—
 
 - (a) is within subsection (1)(a) or (b) of section 1, or
 - (b) is property earmarked as terrorist property.
@@ -38,7 +38,7 @@ Section 1
 - (c) cheques of any kind, including travellers’ cheques,
 - (d) bankers’ drafts,
 - (e) bearer bonds and bearer shares,
-- (f)[^key-585fd4f6c7acf24015198f1a884eb09a] gaming vouchers,
+- (f)[^c-585fd4f6c7acf24015198f1a884eb09a] gaming vouchers,
 - (g) fixed-value casino tokens,
 - (h) betting receipts,
 
@@ -48,7 +48,7 @@ found at any place in the United Kingdom.
 
 (4) The power to make an order under sub-paragraph (3) is exercisable by statutory instrument, which is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(5)[^key-768cd9ffee4f6ec9471b1bb0a82fdba3] For the purposes of sub-paragraph (2)—
+(5)[^c-768cd9ffee4f6ec9471b1bb0a82fdba3] For the purposes of sub-paragraph (2)—
 
 - (a) “**gaming voucher**” means a voucher in physical form issued by a gaming machine that represents a right to be paid the amount stated on it;
 - (b) “**fixed-value casino token**” means a casino token that represents a right to be paid the amount stated on it;
@@ -68,7 +68,7 @@ found at any place in the United Kingdom.
 
 (7) In the application of sub-paragraph (5) to Northern Ireland references to a right to be paid an amount are to be read as references to the right that would exist but for Article 170 of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 (gaming and wagering contracts void).
 
-### PART 2 — Seizure and detention of terrorist cash[^key-18fe668ed746ad55baf3d6042474efd2]
+### PART 2 — Seizure and detention of terrorist cash[^c-18fe668ed746ad55baf3d6042474efd2]
 
 #### Seizure of cash
 
@@ -80,7 +80,7 @@ found at any place in the United Kingdom.
 
 **3.** (1) While the authorised officer continues to have reasonable grounds for his suspicion, cash seized under this Schedule may be detained initially for a period of 48 hours.
 
-(1A)[^key-d4d4f0909646bb73536ce3b8b06bda95] In determining the period of 48 hours specified in sub-paragraph (1) there shall be disregarded—
+(1A)[^c-d4d4f0909646bb73536ce3b8b06bda95] In determining the period of 48 hours specified in sub-paragraph (1) there shall be disregarded—
 
 - (a) any Saturday or Sunday;
 - (b) Christmas Day;
@@ -90,12 +90,12 @@ found at any place in the United Kingdom.
 
 (2) The period for which the cash or any part of it may be detained may be extended by an order made by a magistrates’ court or (in Scotland) the sheriff; but the order may not authorise the detention of any of the cash—
 
-- (a) beyond the end of the period of 6[^key-324b4778fe30c32f721096ee3440a06c] months beginning with the date of the order, and
+- (a) beyond the end of the period of 6[^c-324b4778fe30c32f721096ee3440a06c] months beginning with the date of the order, and
 - (b) in the case of any further order under this paragraph, beyond the end of the period of two years beginning with the date of the first order.
 
 (3) A justice of the peace may also exercise the power of a magistrates’ court to make the first order under sub-paragraph (2) extending the period.
 
-(3A)[^c19540281] An application to a magistrates' court,[^key-64cabc1c228b3c72de0fc119f7cfda52] a justice of the peace or the sheriff for an order under sub-paragraph (2) making the first extension of the period—
+(3A)[^c19540281] An application to a magistrates' court,[^c-64cabc1c228b3c72de0fc119f7cfda52] a justice of the peace or the sheriff for an order under sub-paragraph (2) making the first extension of the period—
 
 - (a) may be made and heard without notice of the application or hearing having been given to any of the persons affected by the application or to the legal representative of such a person, and
 - (b) may be heard and determined in private in the absence of persons so affected and of their legal representatives.
@@ -124,14 +124,14 @@ and the court, sheriff or justice may make the order if satisfied, in relation t
 - (a) its continued detention is justified while its derivation is further investigated or consideration is given to bringing (in the United Kingdom or elsewhere) proceedings against any person for an offence with which the cash is connected, or
 - (b) proceedings against any person for an offence with which the cash is connected have been started and have not been concluded.
 
-(9)[^key-a3031f77f657a28b6c8688e5cc7a27c5] Where an application for an order under sub-paragraph (2) relates to cash seized under paragraph 2(2), the court, sheriff or justice may make the order if satisfied that—
+(9)[^c-a3031f77f657a28b6c8688e5cc7a27c5] Where an application for an order under sub-paragraph (2) relates to cash seized under paragraph 2(2), the court, sheriff or justice may make the order if satisfied that—
 
 - (a) the condition in sub-paragraph (6), (7) or (8) is met in respect of part of the cash, and
 - (b) it is not reasonably practicable to detain only that part.
 
 #### Payment of detained cash into an account
 
-**4.** (1) If cash is detained under this Schedule for more than 48 hours (determined in accordance with paragraph 3(1A))[^key-333c3a5b56bd285cf73e3af6ff53278f] , it is to be held in an interest-bearing account and the interest accruing on it is to be added to it on its forfeiture or release.
+**4.** (1) If cash is detained under this Schedule for more than 48 hours (determined in accordance with paragraph 3(1A))[^c-333c3a5b56bd285cf73e3af6ff53278f] , it is to be held in an interest-bearing account and the interest accruing on it is to be added to it on its forfeiture or release.
 
 (2) In the case of cash seized under paragraph 2(2), the authorised officer must, on paying it into the account, release so much of the cash then held in the account as is not attributable to terrorist cash.
 
@@ -139,15 +139,15 @@ and the court, sheriff or justice may make the order if satisfied, in relation t
 
 #### Release of detained cash
 
-**5.** (1) This paragraph applies while any cash is detained under any provision of this Schedule other than Part 2A[^key-73fc179be25fadfb448794d2c4810825].
+**5.** (1) This paragraph applies while any cash is detained under any provision of this Schedule other than Part 2A[^c-73fc179be25fadfb448794d2c4810825].
 
 (2) A magistrates’ court or (in Scotland) the sheriff may direct the release of the whole or any part of the cash if satisfied, on an application by the person from whom it was seized, that the conditions in paragraph 3 for the detention of cash are no longer met in relation to the cash to be released.
 
 (3) A authorised officer or (in Scotland) a procurator fiscal may, after notifying the magistrates’ court, sheriff or justice under whose order cash is being detained, release the whole or any part of it if satisfied that the detention of the cash to be released is no longer justified.
 
-(4)[^key-81998b8b728a4459cb3cabdb4db8e053] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-81998b8b728a4459cb3cabdb4db8e053] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2A — Forfeiture of terrorist cash without court order[^key-a055f7006268843618c46265d8b4a8db]
+### PART 2A — Forfeiture of terrorist cash without court order[^c-a055f7006268843618c46265d8b4a8db]
 
 #### Cash forfeiture notice
 
@@ -276,7 +276,7 @@ and the court, sheriff or justice may make the order if satisfied, in relation t
 - (a) before the end of the period within which an application under paragraph 5D may be made (ignoring the possibility of an application by virtue of paragraph 5D(3)), or
 - (b) if an application is made within that period, before the application is determined or otherwise disposed of.
 
-### PART 3 — Forfeiture of terrorist cash[^key-4b38e1e396f926facd811d73ab81724f]
+### PART 3 — Forfeiture of terrorist cash[^c-4b38e1e396f926facd811d73ab81724f]
 
 #### Forfeiture
 
@@ -291,7 +291,7 @@ and the court, sheriff or justice may make the order if satisfied, in relation t
 
 (4) An excepted joint owner is a joint tenant who obtained the property in circumstances in which it would not (as against him) be earmarked; and references to his share of the earmarked property are to so much of the property as would have been his if the joint tenancy had been severed.
 
-#### Appeal against decision in forfeiture proceedings[^key-bdf6c752618a63a76d28e59484e8848f]
+#### Appeal against decision in forfeiture proceedings[^c-bdf6c752618a63a76d28e59484e8848f]
 
 **7.** (1) A party to proceedings for an order under paragraph 6 (“a forfeiture order”) who is aggrieved by a forfeiture order made in the proceedings or by the decision of the court or sheriff not to make a forfeiture order may appeal—
 
@@ -305,7 +305,7 @@ This is subject to paragraph 7A (extended time for appealing in certain cases of
 
 (3) The court or sheriff principal hearing the appeal may make any order that appears to the court or sheriff principal to be appropriate.
 
-(4) If an appeal against a forfeiture order is upheld, the court or sheriff principal may order the release of the whole or any part of[^key-6e245f703e89e3f787f519e31333c800] the cash.
+(4) If an appeal against a forfeiture order is upheld, the court or sheriff principal may order the release of the whole or any part of[^c-6e245f703e89e3f787f519e31333c800] the cash.
 
 #### Extended time for appealing in certain cases where deproscription order made
 
@@ -324,7 +324,7 @@ This is subject to paragraph 7A (extended time for appealing in certain cases of
 
 #### Application of forfeited cash
 
-**8.** (1) Cash forfeited under paragraph 6[^key-dbf674bff83396c8f52047c69df754df], and any accrued interest on it—
+**8.** (1) Cash forfeited under paragraph 6[^c-dbf674bff83396c8f52047c69df754df], and any accrued interest on it—
 
 - (a) if forfeited by a magistrates’ court in England and Wales or Northern Ireland, is to be paid into the Consolidated Fund,
 - (b) if forfeited by the sheriff, is to be paid into the Scottish Consolidated Fund.
@@ -334,7 +334,7 @@ This is subject to paragraph 7A (extended time for appealing in certain cases of
 - (a) before the end of the period within which an appeal under paragraph 7 may be made, or
 - (b) if a person appeals under that paragraph, before the appeal is determined or otherwise disposed of.
 
-### PART 4 — Miscellaneous: terrorist cash[^key-c6e0058803d88ca8597bc8394904fcf6]
+### PART 4 — Miscellaneous: terrorist cash[^c-c6e0058803d88ca8597bc8394904fcf6]
 
 #### Victims
 
@@ -350,7 +350,7 @@ This is subject to paragraph 7A (extended time for appealing in certain cases of
 
 the court or sheriff may order the cash to be released to the applicant.
 
-(4)[^key-e5a45553729bcc18ce4d06ae99509862] If sub-paragraph (5) applies, the court or sheriff may order the cash to be released to the applicant or to the person from whom it was seized.
+(4)[^c-e5a45553729bcc18ce4d06ae99509862] If sub-paragraph (5) applies, the court or sheriff may order the cash to be released to the applicant or to the person from whom it was seized.
 
 (5) This sub-paragraph applies where—
 
@@ -365,7 +365,7 @@ the court or sheriff may order the cash to be released to the applicant.
 - (b) in relation to cash detained under paragraph 5B or 5C, if the cash is not terrorist cash, and
 - (c) in relation to cash detained pending the conclusion of proceedings in pursuance of an application under paragraph 6, if the court or sheriff decides not to make an order under that paragraph in relation to the cash.
 
-#### Restrictions on release[^key-10cff1d3a494ef3971f4b6529f14ab42]
+#### Restrictions on release[^c-10cff1d3a494ef3971f4b6529f14ab42]
 
 **9A.** Cash is not to be released under any power or duty conferred or imposed by this Schedule (and so is to continue to be detained)—
 
@@ -374,9 +374,9 @@ the court or sheriff may order the cash to be released to the applicant.
 
 #### Compensation
 
-**10.** (1) If no forfeiture order is made in respect of any cash detained under this Schedule, and the cash is not otherwise forfeited in pursuance of a cash forfeiture notice,[^key-32da28c6976809af93236d597d434cb6] the person to whom the cash belongs or from whom it was seized may make an application to the magistrates’ court or (in Scotland) the sheriff for compensation.
+**10.** (1) If no forfeiture order is made in respect of any cash detained under this Schedule, and the cash is not otherwise forfeited in pursuance of a cash forfeiture notice,[^c-32da28c6976809af93236d597d434cb6] the person to whom the cash belongs or from whom it was seized may make an application to the magistrates’ court or (in Scotland) the sheriff for compensation.
 
-(2) If, for any period after the initial detention of the cash for 48 hours (determined in accordance with paragraph 3(1A))[^key-53c8c884209f10b3be1b462586df1888] , the cash was not held in an interest-bearing account while detained, the court or sheriff may order an amount of compensation to be paid to the applicant.
+(2) If, for any period after the initial detention of the cash for 48 hours (determined in accordance with paragraph 3(1A))[^c-53c8c884209f10b3be1b462586df1888] , the cash was not held in an interest-bearing account while detained, the court or sheriff may order an amount of compensation to be paid to the applicant.
 
 (3) The amount of compensation to be paid under sub-paragraph (2) is the amount the court or sheriff thinks would have been earned in interest in the period in question if the cash had been held in an interest-bearing account.
 
@@ -389,10 +389,10 @@ the court or sheriff may order the cash to be released to the applicant.
 (7) If the cash was seized by a constable, the compensation is to be paid as follows—
 
 - (a) in the case of a constable of a police force in England and Wales, it is to be paid out of the police fund from which the expenses of the police force are met,
-- (b) in the case of a constable of the Police Service of Scotland, it is to be paid by the Scottish Police Authority,[^key-f50dc1164d7294fae6beb60924b5e9b7]
+- (b) in the case of a constable of the Police Service of Scotland, it is to be paid by the Scottish Police Authority,[^c-f50dc1164d7294fae6beb60924b5e9b7]
 - (c) in the case of a police officer within the meaning of the Police (Northern Ireland) Act 2000 (c. 32), it is to be paid out of money provided by the Chief Constable.
 
-(7A)[^key-49f6d4f474fd4784b0343894ab7b8cb2] If the cash was seized by a counter-terrorism financial investigator, the compensation is to be paid as follows—
+(7A)[^c-49f6d4f474fd4784b0343894ab7b8cb2] If the cash was seized by a counter-terrorism financial investigator, the compensation is to be paid as follows—
 
 - (a) in the case of a counter-terrorism financial investigator who was—
   - (i) a member of the civilian staff of a police force (including the metropolitan police force), within the meaning of Part 1 of the Police Reform and Social Responsibility Act 2011, or
@@ -403,13 +403,13 @@ the court or sheriff may order the cash to be released to the applicant.
 
 (8) If the cash was seized by an immigration officer, the compensation is to be paid by the Secretary of State.
 
-(8A)[^key-bbb774f4a9da31e0f9eeb3d758fcef34] If any cash is detained under this Schedule and part only of the cash is forfeited in pursuance of a cash forfeiture notice, this paragraph has effect in relation to the other part.
+(8A)[^c-bbb774f4a9da31e0f9eeb3d758fcef34] If any cash is detained under this Schedule and part only of the cash is forfeited in pursuance of a cash forfeiture notice, this paragraph has effect in relation to the other part.
 
 (9) If a forfeiture order is made in respect only of a part of any cash detained under this Schedule, this paragraph has effect in relation to the other part.
 
 (10) This paragraph does not apply if the court or sheriff makes an order under paragraph 9.
 
-### PART 4A — Forfeiture of terrorist assets[^key-dd5c41675c78907c8980174aff610ed1]
+### PART 4A — Forfeiture of terrorist assets[^c-dd5c41675c78907c8980174aff610ed1]
 
 #### Definition of “listed asset”
 
@@ -841,7 +841,7 @@ Paragraphs (c) and (d) do not apply if the application for the order under parag
 
 (10) This paragraph does not apply if the court or sheriff makes an order under paragraph 10O.
 
-### PART 4B — Forfeiture of terrorist money held in certain accounts[^key-d3a50b386e384cc12127e4ef8ef7437a][^M_F_1c185c0e-d3ea-46e1-911a-6c217bbb1a81]
+### PART 4B — Forfeiture of terrorist money held in certain accounts[^c-d3a50b386e384cc12127e4ef8ef7437a][^M_F_1c185c0e-d3ea-46e1-911a-6c217bbb1a81]
 
 #### Application for account freezing order
 
@@ -897,7 +897,7 @@ Paragraphs (c) and (d) do not apply if the application for the order under parag
 - (b) a person who—
   - (i) is specified, or is within a class of persons specified, by an order under section 38 of that Act (exemption orders), and
   - (ii) accepts deposits;
-- (c)[^key-9c1898164c597d2317391b2ab9d4c4f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-9c1898164c597d2317391b2ab9d4c4f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A reference in sub-paragraph (2) to a person or firm with permission to accept deposits does not include a person or firm with permission to do so only for the purposes of, or in the course of, an activity other than accepting deposits.
 
@@ -1177,7 +1177,7 @@ the order continues to have effect until the relevant time (and then ceases to h
 - (a) before the end of the period within which an appeal under paragraph 10Z4 may be made, or
 - (b) if a person appeals under that paragraph, before the appeal is determined or otherwise disposed of.
 
-#### Victims etc[^key-5fefe9c5e7dc18ca930b010415e00900]
+#### Victims etc[^c-5fefe9c5e7dc18ca930b010415e00900]
 
 **10Z6A.** (1) A person who claims that money in respect of which an account freezing order has effect belongs to them may apply to the relevant court for the money to be released.
 
@@ -1239,7 +1239,7 @@ the order continues to have effect until the relevant time (and then ceases to h
   it is to be paid out of the police fund from which the expenses of the police force are met;
 - (b) in the case of an investigator who was a member of staff of the Police Service of Northern Ireland, it is to be paid out of money provided by the Chief Constable of the Police Service of Northern Ireland.
 
-### PART 4BA — Seizure and detention of terrorist cryptoassets[^key-8bb7a0757e781e2004b69926bd0242ba]
+### PART 4BA — Seizure and detention of terrorist cryptoassets[^c-8bb7a0757e781e2004b69926bd0242ba]
 
 #### 10Z7A. Interpretation
 
@@ -2477,7 +2477,7 @@ the relevant court may order compensation to be paid to the applicant.
   - (b) in relation to converted cryptoassets detained under paragraph 10Z7DE, the cryptoassets mentioned in sub-paragraph (1) of that paragraph;
 - “**the relevant crypto wallet freezing order**”, in relation to converted cryptoassets detained under paragraph 10Z7DE, means the crypto wallet freezing order mentioned in sub-paragraph (1) of that paragraph.
 
-### PART 4C — OFFENCES[^key-0e6b6c4ad5f2f7db277a5bfc75364341]
+### PART 4C — OFFENCES[^c-0e6b6c4ad5f2f7db277a5bfc75364341]
 
 *Extent: E+W+N.I.*
 
@@ -2502,7 +2502,7 @@ the relevant court may order compensation to be paid to the applicant.
 - (a) the reference to 51 weeks in sub-paragraph (3)(a) is to be read as a reference to 6 months;
 - (b) the reference to 51 weeks in sub-paragraph (4)(a) is to be read as a reference to 1 month.
 
-### PART 4D — Proceedings under this Schedule[^key-9dec6cdc8a14a56603fc0daf7746dbe9]
+### PART 4D — Proceedings under this Schedule[^c-9dec6cdc8a14a56603fc0daf7746dbe9]
 
 #### Powers for prosecutors to appear in proceedings
 
@@ -2599,16 +2599,16 @@ the property ceases to be earmarked.
 
 In relation to Scotland, “**claimant**” and “**defendant**” are to be read as “**pursuer**” and “**defender**”; and, in relation to Northern Ireland, “**claimant**” is to be read as “**plaintiff**”.
 
-(3)[^key-33dcdaa238e615463694606ac1a4da6b] If—
+(3)[^c-33dcdaa238e615463694606ac1a4da6b] If—
 
-- (a) a payment is made to a person in pursuance of a compensation order under Article 14 of the Criminal Justice (Northern Ireland) Order 1994 (S.I. 1994/2795 (N.I. 15)), section 249 of the Criminal Procedure (Scotland) Act 1995 (c. 46) or Chapter 2 of Part 7 of the Sentencing Code[^key-9f9b7b5b84fb58c1a460660985ba755f], or in pursuance of a service compensation order under the Armed Forces Act 2006,[^key-381f5de3de6b1ebfa979d7f1700a921f] and
+- (a) a payment is made to a person in pursuance of a compensation order under Article 14 of the Criminal Justice (Northern Ireland) Order 1994 (S.I. 1994/2795 (N.I. 15)), section 249 of the Criminal Procedure (Scotland) Act 1995 (c. 46) or Chapter 2 of Part 7 of the Sentencing Code[^c-9f9b7b5b84fb58c1a460660985ba755f], or in pursuance of a service compensation order under the Armed Forces Act 2006,[^c-381f5de3de6b1ebfa979d7f1700a921f] and
 - (b) apart from this sub-paragraph, the sum received would be earmarked as terrorist property,
 
 the property ceases to be earmarked.
 
 (4) If—
 
-- (a) a payment is made to a person in pursuance of a restitution order under section 27 of the Theft Act (Northern Ireland) 1969 (c.16 (NI)) or a restitution order within the meaning given by section 147 of the Sentencing Code[^key-38cf1f84398564aba8fba3cd52f086f3] or a person otherwise obtains any property in pursuance of such an order, and
+- (a) a payment is made to a person in pursuance of a restitution order under section 27 of the Theft Act (Northern Ireland) 1969 (c.16 (NI)) or a restitution order within the meaning given by section 147 of the Sentencing Code[^c-38cf1f84398564aba8fba3cd52f086f3] or a person otherwise obtains any property in pursuance of such an order, and
 - (b) apart from this sub-paragraph, the sum received, or the property obtained, would be earmarked as terrorist property,
 
 the property ceases to be earmarked.
@@ -2622,7 +2622,7 @@ the property ceases to be earmarked.
 
 (6) If—
 
-- (a) in pursuance of a requirement of the Financial Conduct Authority, the Prudential Regulation Authority or the Bank of England under or by virtue of[^key-f06d2d4d2e822ee4fd2c4212516f4055] section 384(5) of the Financial Services and Markets Act 2000 (c. 8) (power [^key-94face90f1eee1baa1a0bebff152cd82]... to require restitution), an amount is paid to or distributed among any persons, and
+- (a) in pursuance of a requirement of the Financial Conduct Authority, the Prudential Regulation Authority or the Bank of England under or by virtue of[^c-f06d2d4d2e822ee4fd2c4212516f4055] section 384(5) of the Financial Services and Markets Act 2000 (c. 8) (power [^c-94face90f1eee1baa1a0bebff152cd82]... to require restitution), an amount is paid to or distributed among any persons, and
 - (b) apart from this sub-paragraph, the sum received by them would be earmarked as terrorist property,
 
 the property ceases to be earmarked.
@@ -2674,17 +2674,17 @@ this paragraph does not affect the question whether (by virtue of paragraph 13(2
 
 **19.** (1) In this Schedule—
 
-- “account forfeiture notice” (in Part 4B) has the meaning given by paragraph 10W(3),[^key-4cf81391a942971ecbab856bedba5a8d]
+- “account forfeiture notice” (in Part 4B) has the meaning given by paragraph 10W(3),[^c-4cf81391a942971ecbab856bedba5a8d]
 - “account freezing order” (in Part 4B) has the meaning given by paragraph 10Q(4)(a),
-- “**authorised officer**” means a constable , a counter-terrorism financial investigator[^key-b6edaded54583be4e3848d5a502c44b3] , a customs officer or an immigration officer,
+- “**authorised officer**” means a constable , a counter-terrorism financial investigator[^c-b6edaded54583be4e3848d5a502c44b3] , a customs officer or an immigration officer,
 - “bank” (in Part 4B) has the meaning given by paragraph 10R,
 - “building society” (in Part 4B) has the meaning given by paragraph 10Q(7),
 - “**cash**” has the meaning given by paragraph 1,
-- “[^key-ddbb4337b09bc5c70e5c0b77902efb29]**cash forfeiture notice**” has the meaning given by paragraph 5A(3),
+- “[^c-ddbb4337b09bc5c70e5c0b77902efb29]**cash forfeiture notice**” has the meaning given by paragraph 5A(3),
 - “**constable**”, in relation to Northern Ireland, means a police officer within the meaning of the Police (Northern Ireland) Act 2000 (c. 32),
-- “[^key-8aca49ac8ce77483e49e1c86e856e8f1]**counter-terrorism financial investigator**” is to be read in accordance with section 63F of the Terrorism Act 2000,
+- “[^c-8aca49ac8ce77483e49e1c86e856e8f1]**counter-terrorism financial investigator**” is to be read in accordance with section 63F of the Terrorism Act 2000,
 - “**criminal conduct**” means conduct which constitutes an offence in any part of the United Kingdom, or would constitute an offence in any part of the United Kingdom if it occurred there,
-- “[^key-63099c2a0cd94ed0a5b6def1620bb816]**cryptoasset**” has the meaning given by paragraph 10Z7A(1);
+- “[^c-63099c2a0cd94ed0a5b6def1620bb816]**cryptoasset**” has the meaning given by paragraph 10Z7A(1);
 - “**crypto wallet**” has the meaning given by paragraph 10Z7A(1);
 - “**customs officer**” means an officer commissioned by the Commissioners of Customs and Excise under section 6(3) of the Customs and Excise Management Act 1979 (c. 2),
 - “electronic money institution” (in Part 4B) has the meaning given by paragraph 10Q(7),[^M_F_f6a11279-bb09-44fb-aa4c-8d180a7114ed]
@@ -2696,7 +2696,7 @@ this paragraph does not affect the question whether (by virtue of paragraph 13(2
   - (b) in the case of land in Scotland, means any estate, interest, servitude or other heritable right in or over land, including a heritable security,
 - “**interest**”, in relation to property other than land, includes any right (including a right to possession of the property),
 - “**justice of the peace**”, in relation to Northern Ireland, means lay magistrate;
-- “[^key-de10dbfd4a8ba72049a9dbe6e0b7aa67]**listed asset**” has the meaning given by paragraph 10A,
+- “[^c-de10dbfd4a8ba72049a9dbe6e0b7aa67]**listed asset**” has the meaning given by paragraph 10A,
 - “**part**”, in relation to property, includes a portion,
 - “payment institution” (in Part 4B) has the meaning given by paragraph 10Q(7),
 - “**property obtained through terrorism**” has the meaning given by paragraph 11,
@@ -2725,69 +2725,69 @@ this paragraph does not affect the question whether (by virtue of paragraph 13(2
 - (b) the prosecution is discontinued or, in Scotland, the trial diet is deserted simpliciter, or
 - (c) the jury is discharged without a finding otherwise than in circumstances where the proceedings are continued without a jury[^c19527071] .
 
-(7)[^key-e0a3d82e0c8061f2e5e5772a6009e95f] References (in Part 4B) to an account being operated by or for a person are to be read in accordance with paragraph 10Q(4)(b).
+(7)[^c-e0a3d82e0c8061f2e5e5772a6009e95f] References (in Part 4B) to an account being operated by or for a person are to be read in accordance with paragraph 10Q(4)(b).
 
 ## Annotations
 
-[^key-73cba6c9d898c90b4f17eb9dba8a90cb]: Textual amendment: Word in Sch. 1 heading substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(2)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/2); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-73cba6c9d898c90b4f17eb9dba8a90cb]: Textual amendment: Word in Sch. 1 heading substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(2)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/2); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-fc04d7b2518dfe9140e28d102c9d5a9b]: Textual amendment: Words in Sch. 1 Pt. 1 heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(3)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/3); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-fc04d7b2518dfe9140e28d102c9d5a9b]: Textual amendment: Words in Sch. 1 Pt. 1 heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(3)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/3); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-a58641d26f548851e485ae022b125f3e]: Textual amendment: Words in Sch. 1 para. 1(1) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(4)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/4); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-a58641d26f548851e485ae022b125f3e]: Textual amendment: Words in Sch. 1 para. 1(1) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(4)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/4); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-dfa5596dad9eabbeab574273a441116a]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2001/24/schedule/1/paragraph/1/1) substituted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
+[^c-dfa5596dad9eabbeab574273a441116a]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2001/24/schedule/1/paragraph/1/1) substituted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
 
-[^key-585fd4f6c7acf24015198f1a884eb09a]: Textual amendment: Sch. 1 para. 1(2)(f)-(h) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(2)(a)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/2/a), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
+[^c-585fd4f6c7acf24015198f1a884eb09a]: Textual amendment: Sch. 1 para. 1(2)(f)-(h) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(2)(a)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/2/a), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
 
-[^key-768cd9ffee4f6ec9471b1bb0a82fdba3]: Textual amendment: Sch. 1 para. 1(5)-(7) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(2)(b)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/2/b), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
+[^c-768cd9ffee4f6ec9471b1bb0a82fdba3]: Textual amendment: Sch. 1 para. 1(5)-(7) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(2)(b)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/2/b), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
 
-[^key-18fe668ed746ad55baf3d6042474efd2]: Textual amendment: Words in Sch. 1 Pt. 2 heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(5)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/5); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-18fe668ed746ad55baf3d6042474efd2]: Textual amendment: Words in Sch. 1 Pt. 2 heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(5)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/5); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-d4d4f0909646bb73536ce3b8b06bda95]: Textual amendment: Sch. 1 para. 3(1A) inserted (with application in accordance with s. 83(4) of the amending Act) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/83/2), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/58/article/2/h)
+[^c-d4d4f0909646bb73536ce3b8b06bda95]: Textual amendment: Sch. 1 para. 3(1A) inserted (with application in accordance with s. 83(4) of the amending Act) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/83/2), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/58/article/2/h)
 
-[^key-324b4778fe30c32f721096ee3440a06c]: Textual amendment: Word in Sch. 1 para. 3(2)(a) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(3)(a)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/3/a), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
+[^c-324b4778fe30c32f721096ee3440a06c]: Textual amendment: Word in Sch. 1 para. 3(2)(a) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(3)(a)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/3/a), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
 
 [^c19540281]: Textual amendment: Sch. 1 para. 3(3A) inserted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 35(1)](https://www.legislation.gov.uk/ukpga/2006/11/section/35/1), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2) (with [s. 35(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/35/2)); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2](https://www.legislation.gov.uk/uksi/2006/1013/article/2)
 
-[^key-64cabc1c228b3c72de0fc119f7cfda52]: Textual amendment: Words in Sch. 1 para. 3(3A) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(6)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-64cabc1c228b3c72de0fc119f7cfda52]: Textual amendment: Words in Sch. 1 para. 3(3A) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(6)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-a3031f77f657a28b6c8688e5cc7a27c5]: Textual amendment: Sch. 1 para. 3(9) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(3)(b)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/3/b), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
+[^c-a3031f77f657a28b6c8688e5cc7a27c5]: Textual amendment: Sch. 1 para. 3(9) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(3)(b)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/3/b), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
 
-[^key-333c3a5b56bd285cf73e3af6ff53278f]: Textual amendment: Words in Sch. 1 para. 4(1) inserted (with application in accordance with s. 83(4) of the amending Act) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 83(3)](https://www.legislation.gov.uk/ukpga/2008/28/section/83/3), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/58/article/2/h)
+[^c-333c3a5b56bd285cf73e3af6ff53278f]: Textual amendment: Words in Sch. 1 para. 4(1) inserted (with application in accordance with s. 83(4) of the amending Act) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 83(3)](https://www.legislation.gov.uk/ukpga/2008/28/section/83/3), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/58/article/2/h)
 
-[^key-73fc179be25fadfb448794d2c4810825]: Textual amendment: Words in Sch. 1 para. 5(1) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(7)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/7); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-73fc179be25fadfb448794d2c4810825]: Textual amendment: Words in Sch. 1 para. 5(1) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(7)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/7); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-81998b8b728a4459cb3cabdb4db8e053]: Textual amendment: Sch. 1 para. 5(4) omitted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by virtue of [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(8)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/8); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-81998b8b728a4459cb3cabdb4db8e053]: Textual amendment: Sch. 1 para. 5(4) omitted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by virtue of [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(8)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/8); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-a055f7006268843618c46265d8b4a8db]: Textual amendment: Sch. 1 Pt. 2A inserted (27.4.2017 for specified purposes, 30.1.2018 for the insertion of Sch. 1 para. 5A(10), 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/4), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [regs. 2(d)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/d), [3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
+[^c-a055f7006268843618c46265d8b4a8db]: Textual amendment: Sch. 1 Pt. 2A inserted (27.4.2017 for specified purposes, 30.1.2018 for the insertion of Sch. 1 para. 5A(10), 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/4), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [regs. 2(d)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/d), [3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
 
-[^key-4b38e1e396f926facd811d73ab81724f]: Textual amendment: Words in Sch. 1 Pt. 3 heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(9)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/9); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-4b38e1e396f926facd811d73ab81724f]: Textual amendment: Words in Sch. 1 Pt. 3 heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(9)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/9); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-bdf6c752618a63a76d28e59484e8848f]: Textual amendment: Sch. 1 paras. 7, 7A substituted for Sch. 1 para. 7 (with application in accordance with s. 84(2) of the amending Act) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 84(1)](https://www.legislation.gov.uk/ukpga/2008/28/section/84/1), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/58/article/2/h)
+[^c-bdf6c752618a63a76d28e59484e8848f]: Textual amendment: Sch. 1 paras. 7, 7A substituted for Sch. 1 para. 7 (with application in accordance with s. 84(2) of the amending Act) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 84(1)](https://www.legislation.gov.uk/ukpga/2008/28/section/84/1), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/58/article/2/h)
 
-[^key-6e245f703e89e3f787f519e31333c800]: Textual amendment: Words in Sch. 1 para. 7(4) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
+[^c-6e245f703e89e3f787f519e31333c800]: Textual amendment: Words in Sch. 1 para. 7(4) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
 
-[^key-dbf674bff83396c8f52047c69df754df]: Textual amendment: Words in Sch. 1 para. 8(1) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(10)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/10); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-dbf674bff83396c8f52047c69df754df]: Textual amendment: Words in Sch. 1 para. 8(1) substituted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(10)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/10); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-c6e0058803d88ca8597bc8394904fcf6]: Textual amendment: Words in Sch. 1 Pt. 4 heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(11)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/11); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-c6e0058803d88ca8597bc8394904fcf6]: Textual amendment: Words in Sch. 1 Pt. 4 heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(11)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/11); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-e5a45553729bcc18ce4d06ae99509862]: Textual amendment: Sch. 1 para. 9(4)-(6) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/6), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
+[^c-e5a45553729bcc18ce4d06ae99509862]: Textual amendment: Sch. 1 para. 9(4)-(6) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/6), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
 
-[^key-10cff1d3a494ef3971f4b6529f14ab42]: Textual amendment: Sch. 1 para. 9A and cross-heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(12)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/12); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-10cff1d3a494ef3971f4b6529f14ab42]: Textual amendment: Sch. 1 para. 9A and cross-heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(12)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/12); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-32da28c6976809af93236d597d434cb6]: Textual amendment: Words in Sch. 1 para. 10(1) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(13)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/13); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-32da28c6976809af93236d597d434cb6]: Textual amendment: Words in Sch. 1 para. 10(1) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(13)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/13); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-53c8c884209f10b3be1b462586df1888]: Textual amendment: Words in Sch. 1 para. 10(2) inserted (with application in accordance with s. 83(4) of the amending Act) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 83(3)](https://www.legislation.gov.uk/ukpga/2008/28/section/83/3), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/58/article/2/h)
+[^c-53c8c884209f10b3be1b462586df1888]: Textual amendment: Words in Sch. 1 para. 10(2) inserted (with application in accordance with s. 83(4) of the amending Act) by [Counter-Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 83(3)](https://www.legislation.gov.uk/ukpga/2008/28/section/83/3), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/58](https://www.legislation.gov.uk/uksi/2009/58), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/58/article/2/h)
 
-[^key-f50dc1164d7294fae6beb60924b5e9b7]: Textual amendment: Words in Sch. 1 para. 10(7)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 37(4)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/37/4)
+[^c-f50dc1164d7294fae6beb60924b5e9b7]: Textual amendment: Words in Sch. 1 para. 10(7)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 37(4)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/37/4)
 
-[^key-49f6d4f474fd4784b0343894ab7b8cb2]: Textual amendment: Sch. 1 para. 10(7A) inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 41(6)(a)](https://www.legislation.gov.uk/ukpga/2017/22/section/41/6/a), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
+[^c-49f6d4f474fd4784b0343894ab7b8cb2]: Textual amendment: Sch. 1 para. 10(7A) inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 41(6)(a)](https://www.legislation.gov.uk/ukpga/2017/22/section/41/6/a), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
 
-[^key-bbb774f4a9da31e0f9eeb3d758fcef34]: Textual amendment: Sch. 1 para. 10(8A) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(14)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/14); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-bbb774f4a9da31e0f9eeb3d758fcef34]: Textual amendment: Sch. 1 para. 10(8A) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(14)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/14); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-dd5c41675c78907c8980174aff610ed1]: Textual amendment: Sch. 1 Pt. 4A inserted (27.4.2017 for specified purposes, 30.1.2018 for the insertion of Sch. 1 para. 10G(9), 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2017/22/schedule/3/paragraph/2); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [regs. 2(h)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/h), [3(cc)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/cc)
+[^c-dd5c41675c78907c8980174aff610ed1]: Textual amendment: Sch. 1 Pt. 4A inserted (27.4.2017 for specified purposes, 30.1.2018 for the insertion of Sch. 1 para. 10G(9), 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2017/22/schedule/3/paragraph/2); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [regs. 2(h)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/h), [3(cc)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/cc)
 
-[^key-d3a50b386e384cc12127e4ef8ef7437a]: Textual amendment: Sch. 1 Pt. 4B inserted (27.4.2017 for specified purposes, 30.1.2018 for the insertion of Sch. 1 para. 10X so far as not already in force, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/2); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [regs. 2(i)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/i), [3(dd)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/dd)
+[^c-d3a50b386e384cc12127e4ef8ef7437a]: Textual amendment: Sch. 1 Pt. 4B inserted (27.4.2017 for specified purposes, 30.1.2018 for the insertion of Sch. 1 para. 10X so far as not already in force, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/2); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [regs. 2(i)](https://www.legislation.gov.uk/uksi/2018/78/regulation/2/i), [3(dd)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/dd)
 
 [^M_F_1c185c0e-d3ea-46e1-911a-6c217bbb1a81]: Textual amendment: Word in Sch. 1 Pt. 4B heading substituted (retrospectively) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2021/22/section/33/2), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/12/paragraph/3) (with [s. 33(4)](https://www.legislation.gov.uk/ukpga/2021/22/section/33/4))
 
@@ -2797,7 +2797,7 @@ this paragraph does not affect the question whether (by virtue of paragraph 13(2
 
 [^M_F_476b3d13-615d-4d48-da6d-8bff14a502e6]: Textual amendment: Words in Sch. 1 para. 10Q(1A) inserted (retrospectively) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2021/22/section/33/2), [Sch. 12 para. 4(4)](https://www.legislation.gov.uk/ukpga/2021/22/schedule/12/paragraph/4/4) (with [s. 33(4)](https://www.legislation.gov.uk/ukpga/2021/22/section/33/4))
 
-[^key-9c1898164c597d2317391b2ab9d4c4f3]: Textual amendment: [Sch. 1 para. 10R(2)(c)](https://www.legislation.gov.uk/ukpga/2001/24/schedule/1/paragraph/10R/2/c) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/37) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9c1898164c597d2317391b2ab9d4c4f3]: Textual amendment: [Sch. 1 para. 10R(2)(c)](https://www.legislation.gov.uk/ukpga/2001/24/schedule/1/paragraph/10R/2/c) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/37) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_40a2406e-b116-48f3-b5c5-92da1659d7ab]: Textual amendment: Words in Sch. 1 para. 10V(1) substituted (retrospectively) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2021/22/section/33/2), [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2021/22/schedule/12/paragraph/5) (with [s. 33(4)](https://www.legislation.gov.uk/ukpga/2021/22/section/33/4))
 
@@ -2811,40 +2811,40 @@ this paragraph does not affect the question whether (by virtue of paragraph 13(2
 
 [^M_F_5fca2d60-2948-4a9b-c740-49b07f960f93]: Textual amendment: Words in Sch. 1 para. 10Z2(7)(a) substituted (retrospectively) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2021/22/section/33/2), [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2021/22/schedule/12/paragraph/8) (with [s. 33(4)](https://www.legislation.gov.uk/ukpga/2021/22/section/33/4))
 
-[^key-5fefe9c5e7dc18ca930b010415e00900]: Textual amendment: [Sch. 1 para. 10Z6A and cross-heading](https://www.legislation.gov.uk/ukpga/2001/24/schedule/1/part/4B/crossheading/victims-etc) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/4); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
+[^c-5fefe9c5e7dc18ca930b010415e00900]: Textual amendment: [Sch. 1 para. 10Z6A and cross-heading](https://www.legislation.gov.uk/ukpga/2001/24/schedule/1/part/4B/crossheading/victims-etc) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/4); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
 
-[^key-8bb7a0757e781e2004b69926bd0242ba]: Textual amendment: [Sch. 1 Pts. 4BA-4BD](https://www.legislation.gov.uk/ukpga/2001/24/schedule/1/part/4BA) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
+[^c-8bb7a0757e781e2004b69926bd0242ba]: Textual amendment: [Sch. 1 Pts. 4BA-4BD](https://www.legislation.gov.uk/ukpga/2001/24/schedule/1/part/4BA) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
 
-[^key-0e6b6c4ad5f2f7db277a5bfc75364341]: Textual amendment: Sch. 1 Pt. 4C inserted (E.W.N.I.) (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 42(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/42/2), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
+[^c-0e6b6c4ad5f2f7db277a5bfc75364341]: Textual amendment: Sch. 1 Pt. 4C inserted (E.W.N.I.) (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 42(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/42/2), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
 
-[^key-9dec6cdc8a14a56603fc0daf7746dbe9]: Textual amendment: Sch. 1 Pt. 4D inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(15)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/15); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
+[^c-9dec6cdc8a14a56603fc0daf7746dbe9]: Textual amendment: Sch. 1 Pt. 4D inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 16(15)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/16/15); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/c)
 
-[^key-33dcdaa238e615463694606ac1a4da6b]: Modification: Sch. 1 para. 16(3) modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/50)
+[^c-33dcdaa238e615463694606ac1a4da6b]: Modification: Sch. 1 para. 16(3) modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/50)
 
-[^key-9f9b7b5b84fb58c1a460660985ba755f]: Textual amendment: Words in Sch. 1 para. 16(3)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 180(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/180/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9f9b7b5b84fb58c1a460660985ba755f]: Textual amendment: Words in Sch. 1 para. 16(3)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 180(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/180/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-381f5de3de6b1ebfa979d7f1700a921f]: Textual amendment: Words in Sch. 1 para. 16(3)(a) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 196](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/196); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-381f5de3de6b1ebfa979d7f1700a921f]: Textual amendment: Words in Sch. 1 para. 16(3)(a) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 196](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/196); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-38cf1f84398564aba8fba3cd52f086f3]: Textual amendment: Words in Sch. 1 para. 16(4)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 180(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/180/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-38cf1f84398564aba8fba3cd52f086f3]: Textual amendment: Words in Sch. 1 para. 16(4)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 180(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/180/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-f06d2d4d2e822ee4fd2c4212516f4055]: Textual amendment: Words in Sch. 1 para. 16(6) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 93(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/93/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-f06d2d4d2e822ee4fd2c4212516f4055]: Textual amendment: Words in Sch. 1 para. 16(6) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 93(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/93/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-94face90f1eee1baa1a0bebff152cd82]: Textual amendment: Words in Sch. 1 para. 16(6) omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 93(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/93/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-94face90f1eee1baa1a0bebff152cd82]: Textual amendment: Words in Sch. 1 para. 16(6) omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 93(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/93/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-4cf81391a942971ecbab856bedba5a8d]: Textual amendment: Words in Sch. 1 para. 19(1) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/3/2); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(dd)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/dd)
+[^c-4cf81391a942971ecbab856bedba5a8d]: Textual amendment: Words in Sch. 1 para. 19(1) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/3/2); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(dd)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/dd)
 
-[^key-b6edaded54583be4e3848d5a502c44b3]: Textual amendment: Words in Sch. 1 para. 19(1) inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 41(6)(b)(i)](https://www.legislation.gov.uk/ukpga/2017/22/section/41/6/b/i), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
+[^c-b6edaded54583be4e3848d5a502c44b3]: Textual amendment: Words in Sch. 1 para. 19(1) inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 41(6)(b)(i)](https://www.legislation.gov.uk/ukpga/2017/22/section/41/6/b/i), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
 
-[^key-ddbb4337b09bc5c70e5c0b77902efb29]: Textual amendment: Words in Sch. 1 para. 19(1) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(7)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/7), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
+[^c-ddbb4337b09bc5c70e5c0b77902efb29]: Textual amendment: Words in Sch. 1 para. 19(1) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 38(7)](https://www.legislation.gov.uk/ukpga/2017/22/section/38/7), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(u)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/u)
 
-[^key-8aca49ac8ce77483e49e1c86e856e8f1]: Textual amendment: Words in Sch. 1 para. 19(1) inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 41(6)(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/22/section/41/6/b/ii), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
+[^c-8aca49ac8ce77483e49e1c86e856e8f1]: Textual amendment: Words in Sch. 1 para. 19(1) inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 41(6)(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/22/section/41/6/b/ii), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
 
-[^key-63099c2a0cd94ed0a5b6def1620bb816]: Textual amendment: Words in [Sch. 1 para. 19(1)](https://www.legislation.gov.uk/ukpga/2001/24/schedule/1/paragraph/19/1) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/5); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
+[^c-63099c2a0cd94ed0a5b6def1620bb816]: Textual amendment: Words in [Sch. 1 para. 19(1)](https://www.legislation.gov.uk/ukpga/2001/24/schedule/1/paragraph/19/1) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/5); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
 
 [^M_F_f6a11279-bb09-44fb-aa4c-8d180a7114ed]: Textual amendment: Words in Sch. 1 para. 19(1) inserted (retrospectively) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2021/22/section/33/2), [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2021/22/schedule/12/paragraph/9) (with [s. 33(4)](https://www.legislation.gov.uk/ukpga/2021/22/section/33/4))
 
-[^key-de10dbfd4a8ba72049a9dbe6e0b7aa67]: Textual amendment: Words in Sch. 1 para. 19(1) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2017/22/schedule/3/paragraph/3); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(cc)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/cc)
+[^c-de10dbfd4a8ba72049a9dbe6e0b7aa67]: Textual amendment: Words in Sch. 1 para. 19(1) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2017/22/schedule/3/paragraph/3); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(cc)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/cc)
 
 [^c19527071]: Textual amendment: Words in Sch. 1 para. 19(6)(c) inserted (24.7.2006 for E.W. and otherwise 8.1.2007) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 331](https://www.legislation.gov.uk/ukpga/2003/44/section/331), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 36 para. 77](https://www.legislation.gov.uk/ukpga/2003/44/schedule/36/paragraph/77); [S.I. 2006/1835](https://www.legislation.gov.uk/uksi/2006/1835), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/1835/article/2/h); [S.I. 2006/3422](https://www.legislation.gov.uk/uksi/2006/3422), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3422/article/2/c)
 
-[^key-e0a3d82e0c8061f2e5e5772a6009e95f]: Textual amendment: Sch. 1 para. 19(7) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/3/3); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(dd)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/dd)
+[^c-e0a3d82e0c8061f2e5e5772a6009e95f]: Textual amendment: Sch. 1 para. 19(7) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/4/paragraph/3/3); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(dd)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/dd)

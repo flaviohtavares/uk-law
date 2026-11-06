@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Bidding in emissions auctions[^key-7a9a42135638cfc87269019e64cd6b1b]
+## 24A. Bidding in emissions auctions[^c-7a9a42135638cfc87269019e64cd6b1b]
 
 *Extent: E+W+S+N.I.*
 
 (1) The reception, transmission or submission of a bid at an auction of an investment of the kind specified by article 82A conducted—
 
-- (a) on a recognised auction platform in accordance with the UK auctioning regulations[^key-27df6d737cbc4e9d1ee4bf552d6ab6a8], or
-- (b) on an[^key-a67533f0c6a8355c0b7db4f449538e99] auction platform which has been appointed under the emission allowance auctioning regulation in accordance with that regulation[^key-83d1011df8c542d5e974df9033b5184f],
+- (a) on a recognised auction platform in accordance with the UK auctioning regulations[^c-27df6d737cbc4e9d1ee4bf552d6ab6a8], or
+- (b) on an[^c-a67533f0c6a8355c0b7db4f449538e99] auction platform which has been appointed under the emission allowance auctioning regulation in accordance with that regulation[^c-83d1011df8c542d5e974df9033b5184f],
 
 is a specified kind of activity.
 
@@ -33,10 +33,10 @@ is a specified kind of activity.
 
 ## Annotations
 
-[^key-7a9a42135638cfc87269019e64cd6b1b]: Textual amendment: Pt. 2 Ch. 5A inserted (20.7.2012) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2012 (S.I. 2012/1906)](https://www.legislation.gov.uk/uksi/2012/1906), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1906/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/1906/article/2/3)
+[^c-7a9a42135638cfc87269019e64cd6b1b]: Textual amendment: Pt. 2 Ch. 5A inserted (20.7.2012) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2012 (S.I. 2012/1906)](https://www.legislation.gov.uk/uksi/2012/1906), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1906/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/1906/article/2/3)
 
-[^key-27df6d737cbc4e9d1ee4bf552d6ab6a8]: Textual amendment: Words in art. 24A(1)(a) inserted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2021/494/regulation/3/3/a)
+[^c-27df6d737cbc4e9d1ee4bf552d6ab6a8]: Textual amendment: Words in art. 24A(1)(a) inserted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2021/494/regulation/3/3/a)
 
-[^key-a67533f0c6a8355c0b7db4f449538e99]: Textual amendment: Word in art. 24A(1)(b) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2021/494/regulation/3/3/b/i)
+[^c-a67533f0c6a8355c0b7db4f449538e99]: Textual amendment: Word in art. 24A(1)(b) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2021/494/regulation/3/3/b/i)
 
-[^key-83d1011df8c542d5e974df9033b5184f]: Textual amendment: Words in art. 24A(1)(b) inserted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/494/regulation/3/3/b/ii)
+[^c-83d1011df8c542d5e974df9033b5184f]: Textual amendment: Words in art. 24A(1)(b) inserted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/494/regulation/3/3/b/ii)

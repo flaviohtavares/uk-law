@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Approval and signing of accounts[^key-b239ad307b4402d09e0fcc8a9750ac08]
+## 11. Approval and signing of accounts[^c-b239ad307b4402d09e0fcc8a9750ac08]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b239ad307b4402d09e0fcc8a9750ac08]: Commencement: Reg. 11 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-b239ad307b4402d09e0fcc8a9750ac08]: Commencement: Reg. 11 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

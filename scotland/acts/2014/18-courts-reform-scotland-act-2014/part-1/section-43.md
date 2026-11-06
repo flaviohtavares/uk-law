@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Jurisdiction over persons, etc.[^key-13a4f980d338767b4e7ebb0078a2d4e3]
+## 43. Jurisdiction over persons, etc.[^c-13a4f980d338767b4e7ebb0078a2d4e3]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13a4f980d338767b4e7ebb0078a2d4e3]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2014/18/section/43) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-13a4f980d338767b4e7ebb0078a2d4e3]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2014/18/section/43) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 113(1)(b) and (1A)(b), 114(5)(b), 122(12), 127(4) and (5), 135(9)(b), 140(2), 147(3), 150(5) and (6), 162(3) and 287(2) and (3) of, and paragraph 33 of Schedule 6 to, the Pensions (Northern Ireland) Order 2005[^f00001].
 
-## 1. Citation and commencement[^key-cf0b294a8a767465652a90ec2e9caa6c]
+## 1. Citation and commencement[^c-cf0b294a8a767465652a90ec2e9caa6c]
 
 These Regulations may be cited as the Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 and shall come into operation on 1st April 2009.
 
-## 2. Amendment of the Pension Protection Fund (Entry Rules) Regulations[^key-83c6f453655721c07f8840adb1683603]
+## 2. Amendment of the Pension Protection Fund (Entry Rules) Regulations[^c-83c6f453655721c07f8840adb1683603]
 
 (1) The Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005[^f00002] shall be amended in accordance with paragraphs (2) to (7).
 
@@ -83,7 +83,7 @@ These Regulations may be cited as the Pension Protection Fund (Miscellaneous Ame
 
   .
 
-(3)[^key-194437e16b7d6794cfa8f986ff3de48a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-194437e16b7d6794cfa8f986ff3de48a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 7A(2)[^f00010] (applications and notifications to the Board – multi-employer schemes)—
 
@@ -108,11 +108,11 @@ These Regulations may be cited as the Pension Protection Fund (Miscellaneous Ame
 
 (7) In regulation 25(b) (form and content of audited scheme accounts) for “a true and fair value” substitute “a true and fair view”.
 
-## 3. Amendment of the Pension Protection Fund (Valuation) Regulations[^key-6cc0ef05eb9aee3b06152d5e795426a2]
+## 3. Amendment of the Pension Protection Fund (Valuation) Regulations[^c-6cc0ef05eb9aee3b06152d5e795426a2]
 
 In regulation 1(2) of the Pension Protection Fund (Valuation) Regulations (Northern Ireland) 2005[^f00012] (interpretation) in paragraph (b) of the definition of “relevant accounts”[^f00013] for “a true and fair value” substitute “a true and fair view”.
 
-## 4. Amendment of the Pension Protection Fund (Compensation) Regulations[^key-25880f18a7ba50aa579fac2c7c6eef62]
+## 4. Amendment of the Pension Protection Fund (Compensation) Regulations[^c-25880f18a7ba50aa579fac2c7c6eef62]
 
 After regulation 13 of the Pension Protection Fund (Compensation) Regulations (Northern Ireland) 2005[^f00014] (manner of determining the revaluation amount) insert—
 
@@ -154,7 +154,7 @@ After regulation 13 of the Pension Protection Fund (Compensation) Regulations (N
 
 .
 
-## 5. Amendment of the Pension Protection Fund (General and Miscellaneous Amendments) Regulations[^key-0ded3754a714d7ea603b9b6a22240eed]
+## 5. Amendment of the Pension Protection Fund (General and Miscellaneous Amendments) Regulations[^c-0ded3754a714d7ea603b9b6a22240eed]
 
 (1) The Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006[^f00015] shall be amended in accordance paragraphs (2) to (4).
 
@@ -207,7 +207,7 @@ After regulation 13 of the Pension Protection Fund (Compensation) Regulations (N
 
 .
 
-## 6. Amendment of the Pension Protection Fund (Closed Schemes) Regulations[^key-bb650ef0c4b0aba5870244086bb89649]
+## 6. Amendment of the Pension Protection Fund (Closed Schemes) Regulations[^c-bb650ef0c4b0aba5870244086bb89649]
 
 In paragraph 1 of Part 1 of the Schedule to the Pension Protection Fund (Closed Schemes) Regulations (Northern Ireland) 2007[^f00018] (valuation of the assets, the full scheme liabilities and the protected liabilities in relation to a closed scheme) in paragraph (b) of the definition of “relevant accounts” for “a true and fair value” substitute “a true and fair view”.
 
@@ -247,9 +247,9 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00001]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Part III is modified in its application to partially guaranteed schemes, hybrid schemes and multi-employer schemes by, respectively, [S.R. 2005 Nos. 55](https://www.legislation.gov.uk/nisr/2005/55), [84](https://www.legislation.gov.uk/nisr/2005/84) and [91](https://www.legislation.gov.uk/nisr/2005/91) (as amended by [S.R. 2005 Nos. 194](https://www.legislation.gov.uk/nisr/2005/194) and [357](https://www.legislation.gov.uk/nisr/2005/357)); Article 113(1A) was inserted by the modifications in Parts III and VI of [S.R. 2005 No. 91](https://www.legislation.gov.uk/nisr/2005/91) as substituted by regulation 3(3) and (4) of [S.R. 2005 No. 357](https://www.legislation.gov.uk/nisr/2005/357)
 
-[^key-cf0b294a8a767465652a90ec2e9caa6c]: Commencement: Reg. 1 in operation at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1)
+[^c-cf0b294a8a767465652a90ec2e9caa6c]: Commencement: Reg. 1 in operation at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1)
 
-[^key-83c6f453655721c07f8840adb1683603]: Commencement: Reg. 2 in operation at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1)
+[^c-83c6f453655721c07f8840adb1683603]: Commencement: Reg. 2 in operation at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2005 No. 126](https://www.legislation.gov.uk/nisr/2005/126); relevant amending Regulations are [S.R. 2005 Nos. 357](https://www.legislation.gov.uk/nisr/2005/357) and [364](https://www.legislation.gov.uk/nisr/2005/364) and [S.R. 2006 No. 155](https://www.legislation.gov.uk/nisr/2006/155)
 
@@ -265,23 +265,23 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00008]: Footnote: OJ No. L 228, 11.8.92, p.1
 
-[^key-194437e16b7d6794cfa8f986ff3de48a]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2009/78/regulation/2/3) revoked (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [11(b)](https://www.legislation.gov.uk/nisr/2016/165/regulation/11/b)
+[^c-194437e16b7d6794cfa8f986ff3de48a]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2009/78/regulation/2/3) revoked (6.4.2016) by [The Pension Protection Fund and Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/165)](https://www.legislation.gov.uk/nisr/2016/165), [regs. 1](https://www.legislation.gov.uk/nisr/2016/165/regulation/1), [11(b)](https://www.legislation.gov.uk/nisr/2016/165/regulation/11/b)
 
 [^f00010]: Footnote: Regulation 7A was inserted by regulation 2(6) of [S.R. 2005 No. 364](https://www.legislation.gov.uk/nisr/2005/364)
 
 [^f00011]: Footnote: Section 97AB was inserted by Article 241 of the Pensions (Northern Ireland) Order 2005
 
-[^key-6cc0ef05eb9aee3b06152d5e795426a2]: Commencement: Reg. 3 in operation at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1)
+[^c-6cc0ef05eb9aee3b06152d5e795426a2]: Commencement: Reg. 3 in operation at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1)
 
 [^f00012]: Footnote: [S.R. 2005 No. 131](https://www.legislation.gov.uk/nisr/2005/131); relevant amending Regulations are [S.R. 2007 No. 193](https://www.legislation.gov.uk/nisr/2007/193)
 
 [^f00013]: Footnote: The definition of “relevant accounts” was substituted by regulation 3(2)(b) of [S.R. 2007 No. 193](https://www.legislation.gov.uk/nisr/2007/193)
 
-[^key-25880f18a7ba50aa579fac2c7c6eef62]: Commencement: Reg. 4 in operation at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1)
+[^c-25880f18a7ba50aa579fac2c7c6eef62]: Commencement: Reg. 4 in operation at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1)
 
 [^f00014]: Footnote: [S.R. 2005 No. 149](https://www.legislation.gov.uk/nisr/2005/149)
 
-[^key-0ded3754a714d7ea603b9b6a22240eed]: Commencement: Reg. 5 in operation at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1)
+[^c-0ded3754a714d7ea603b9b6a22240eed]: Commencement: Reg. 5 in operation at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1)
 
 [^f00015]: Footnote: [S.R. 2006 No. 155](https://www.legislation.gov.uk/nisr/2006/155) to which there are amendments not relevant to these Regulations
 
@@ -289,6 +289,6 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00017]: Footnote: [S.R. 2005 No. 84](https://www.legislation.gov.uk/nisr/2005/84)
 
-[^key-bb650ef0c4b0aba5870244086bb89649]: Commencement: Reg. 6 in operation at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1)
+[^c-bb650ef0c4b0aba5870244086bb89649]: Commencement: Reg. 6 in operation at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/78/regulation/1)
 
 [^f00018]: Footnote: [S.R. 2007 No. 186](https://www.legislation.gov.uk/nisr/2007/186)

@@ -28,9 +28,9 @@ summary: ''
 - (b) the Deputy Director of Public Prosecutions for Northern Ireland, and
 - (c) the members of staff of the service appointed under subsection (4).
 
-(3) The Service is to be funded out of money appropriated for that purpose by Act of the Northern Ireland Assembly[^key-c9f5fb280e34d86872ea5965fbfc3c2f].
+(3) The Service is to be funded out of money appropriated for that purpose by Act of the Northern Ireland Assembly[^c-c9f5fb280e34d86872ea5965fbfc3c2f].
 
-(4) The Director may appoint staff of the Service, but subject to the approval of the Department of Finance and Personnel[^key-e65ec627ba9043a8f89c35760388298d] as to—
+(4) The Director may appoint staff of the Service, but subject to the approval of the Department of Finance and Personnel[^c-e65ec627ba9043a8f89c35760388298d] as to—
 
 - (a) numbers,
 - (b) salary, and
@@ -56,8 +56,8 @@ by not having been instructed by a solicitor.
 
 ## Annotations
 
-[^key-c9f5fb280e34d86872ea5965fbfc3c2f]: Textual amendment: Words in [s. 29(3)](https://www.legislation.gov.uk/ukpga/2002/26/section/29/3) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 2(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/2/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-c9f5fb280e34d86872ea5965fbfc3c2f]: Textual amendment: Words in [s. 29(3)](https://www.legislation.gov.uk/ukpga/2002/26/section/29/3) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 2(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/2/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-e65ec627ba9043a8f89c35760388298d]: Textual amendment: Words in [s. 29(4)](https://www.legislation.gov.uk/ukpga/2002/26/section/29/4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 2(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/2/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-e65ec627ba9043a8f89c35760388298d]: Textual amendment: Words in [s. 29(4)](https://www.legislation.gov.uk/ukpga/2002/26/section/29/4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 13 para. 2(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/13/paragraph/2/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c20854141]: Textual amendment: Words in s. 29 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2](https://www.legislation.gov.uk/uksi/2009/1604/article/2)

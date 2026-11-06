@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Regulatory complaints against authorised legal businesses[^key-c467dc132e1d5637898ac1b4c7a379a0]
+## 55. Regulatory complaints against authorised legal businesses[^c-c467dc132e1d5637898ac1b4c7a379a0]
 
 *Extent: S*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c467dc132e1d5637898ac1b4c7a379a0]: Commencement: S. 55 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-c467dc132e1d5637898ac1b4c7a379a0]: Commencement: S. 55 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

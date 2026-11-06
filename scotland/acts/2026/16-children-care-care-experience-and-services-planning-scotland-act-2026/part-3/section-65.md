@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Review of the Act[^key-c97353edb930a87fbd59cdea4d039808][^key-da74f914b869dee11187fb52eb437c09]
+## 65. Review of the Act[^c-c97353edb930a87fbd59cdea4d039808][^c-da74f914b869dee11187fb52eb437c09]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c97353edb930a87fbd59cdea4d039808]: Commencement: S. 65 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-c97353edb930a87fbd59cdea4d039808]: Commencement: S. 65 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
 
-[^key-da74f914b869dee11187fb52eb437c09]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2026/16/section/65) in force at 30.9.2026 by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-da74f914b869dee11187fb52eb437c09]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2026/16/section/65) in force at 30.9.2026 by [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

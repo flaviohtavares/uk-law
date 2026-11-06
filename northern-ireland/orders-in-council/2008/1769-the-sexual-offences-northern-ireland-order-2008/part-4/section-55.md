@@ -29,13 +29,13 @@ summary: ''
 
 (3) This paragraph applies if B is a patient for whom services are provided—
 
-- (a)[^key-abbdff0163bc96da8101d306e184aaa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-abbdff0163bc96da8101d306e184aaa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) by a Health and Social Care trust[^c21867291] established under Article 10(1) of the Health and Personal Social Services (Northern Ireland) Order 1991 (NI 1),
 - (c) by an independent medical agency,
 - (d) in an independent clinic or independent hospital, or
 - (e) in a private hospital,
 
-and A has functions to perform for the [^key-147e55c5f79929693c1f83e19c3b9020]... Trust or agency, or in the clinic or hospital, in the course of employment which have brought him or are likely to bring him into regular face to face contact with B.
+and A has functions to perform for the [^c-147e55c5f79929693c1f83e19c3b9020]... Trust or agency, or in the clinic or hospital, in the course of employment which have brought him or are likely to bring him into regular face to face contact with B.
 
 (4) This paragraph applies if A—
 
@@ -54,8 +54,8 @@ and A has functions to perform for the [^key-147e55c5f79929693c1f83e19c3b9020]..
 
 ## Annotations
 
-[^key-abbdff0163bc96da8101d306e184aaa3]: Textual amendment: [Art. 55(3)(a)](https://www.legislation.gov.uk/nisi/2008/1769/article/55/3/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 227(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/227/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-abbdff0163bc96da8101d306e184aaa3]: Textual amendment: [Art. 55(3)(a)](https://www.legislation.gov.uk/nisi/2008/1769/article/55/3/a) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 227(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/227/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c21867291]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(c)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/c) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-147e55c5f79929693c1f83e19c3b9020]: Textual amendment: Word in [art. 55(3)](https://www.legislation.gov.uk/nisi/2008/1769/article/55/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 227(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/227/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-147e55c5f79929693c1f83e19c3b9020]: Textual amendment: Word in [art. 55(3)](https://www.legislation.gov.uk/nisi/2008/1769/article/55/3) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 227(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/227/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

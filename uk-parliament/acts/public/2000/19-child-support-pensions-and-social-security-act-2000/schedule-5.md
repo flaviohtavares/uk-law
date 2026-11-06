@@ -54,7 +54,7 @@ Section 56.
 - (a) in paragraph (a), for “or to a personal pension scheme” there shall be substituted “, to a personal pension scheme or to an overseas arrangement”; and
 - (b) in paragraph (b), for “or a personal pension scheme” there shall be substituted “, a personal pension scheme or an overseas arrangement”.
 
-(2)[^key-b01fae58a3288a17596aa7dc99ca2b98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b01fae58a3288a17596aa7dc99ca2b98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 181(1) of that Act (interpretation), there shall be inserted, at the appropriate place in the alphabetical order—
 
@@ -73,7 +73,7 @@ Section 56.
 
 **3.** (1) Section 28 of the 1993 Act (ways of giving effect to protected rights) shall be amended as follows.
 
-(2) [^key-f80d11d2bc5ae7d3d4699e9ecf3f7fb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2) [^c-f80d11d2bc5ae7d3d4699e9ecf3f7fb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) [^c21464341]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -217,35 +217,35 @@ Section 56.
 - “**the 1993 Act**” means the [^c11422541]Pension Schemes Act 1993; and
 - “**the 1995 Act**” means the [^c11422551]Pensions Act 1995.
 
-### Part II — Alternative to anti-franking rules[^key-13c21d8255dbdfc304b52fb7dcdf1d95]
+### Part II — Alternative to anti-franking rules[^c-13c21d8255dbdfc304b52fb7dcdf1d95]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-#### Cases in which alternative applies[^key-13c21d8255dbdfc304b52fb7dcdf1d95]
+#### Cases in which alternative applies[^c-13c21d8255dbdfc304b52fb7dcdf1d95]
 
-**14.**[^key-13c21d8255dbdfc304b52fb7dcdf1d95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-13c21d8255dbdfc304b52fb7dcdf1d95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Alternative rules[^key-13c21d8255dbdfc304b52fb7dcdf1d95]
+#### Alternative rules[^c-13c21d8255dbdfc304b52fb7dcdf1d95]
 
-**15.**[^key-13c21d8255dbdfc304b52fb7dcdf1d95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-13c21d8255dbdfc304b52fb7dcdf1d95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Relationship between alternative rules and other rules[^key-13c21d8255dbdfc304b52fb7dcdf1d95]
+#### Relationship between alternative rules and other rules[^c-13c21d8255dbdfc304b52fb7dcdf1d95]
 
-**16.**[^key-13c21d8255dbdfc304b52fb7dcdf1d95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-13c21d8255dbdfc304b52fb7dcdf1d95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Supplemental[^key-13c21d8255dbdfc304b52fb7dcdf1d95]
+#### Supplemental[^c-13c21d8255dbdfc304b52fb7dcdf1d95]
 
-**17.**[^key-13c21d8255dbdfc304b52fb7dcdf1d95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-13c21d8255dbdfc304b52fb7dcdf1d95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c11422511]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-b01fae58a3288a17596aa7dc99ca2b98]: Textual amendment: [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/ukpga/2000/19/schedule/5/paragraph/2/2) repealed (6.4.2012 being "the abolition date" for the purposes of s. 15(1) of the amending Act) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/6), [Sch. 7 Pt. 6](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/part/3)); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1267/article/2/a)
+[^c-b01fae58a3288a17596aa7dc99ca2b98]: Textual amendment: [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/ukpga/2000/19/schedule/5/paragraph/2/2) repealed (6.4.2012 being "the abolition date" for the purposes of s. 15(1) of the amending Act) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/6), [Sch. 7 Pt. 6](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/part/3)); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1267/article/2/a)
 
-[^key-f80d11d2bc5ae7d3d4699e9ecf3f7fb0]: Textual amendment: Sch. 5 para. 3(2) repealed (6.4.2012 being "the abolition date" for the purposes of s. 15(1) of the amending Act) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/6), [Sch. 7 Pt. 6](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/part/3)); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1267/article/2/a)
+[^c-f80d11d2bc5ae7d3d4699e9ecf3f7fb0]: Textual amendment: Sch. 5 para. 3(2) repealed (6.4.2012 being "the abolition date" for the purposes of s. 15(1) of the amending Act) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/6), [Sch. 7 Pt. 6](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/part/3)); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1267/article/2/a)
 
 [^c21464341]: Textual amendment: Sch. 5 para. 3(3)(4) repealed (1.9.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 320](https://www.legislation.gov.uk/ukpga/2004/35/section/320), [322](https://www.legislation.gov.uk/ukpga/2004/35/section/322), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/1)
 
@@ -265,4 +265,4 @@ Section 56.
 
 [^c11422551]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-13c21d8255dbdfc304b52fb7dcdf1d95]: Textual amendment: [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/2000/19/schedule/5/part/II) repealed (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4)[(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 71](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/71)
+[^c-13c21d8255dbdfc304b52fb7dcdf1d95]: Textual amendment: [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/2000/19/schedule/5/part/II) repealed (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4)[(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 71](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/71)

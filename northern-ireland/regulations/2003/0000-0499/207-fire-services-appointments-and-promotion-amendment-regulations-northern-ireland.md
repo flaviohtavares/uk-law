@@ -31,7 +31,7 @@ summary: ''
 
 FIRE SERVICES
 
-Fire Services (Appointments and Promotion) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-2728cbdc5bb4f6f6a6c8646ff13ac48a]
+Fire Services (Appointments and Promotion) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-2728cbdc5bb4f6f6a6c8646ff13ac48a]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 25th April 2003
 
-[^key-2728cbdc5bb4f6f6a6c8646ff13ac48a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2728cbdc5bb4f6f6a6c8646ff13ac48a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2728cbdc5bb4f6f6a6c8646ff13ac48a]
+## 1. Citation and commencement[^c-2728cbdc5bb4f6f6a6c8646ff13ac48a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fire Services (Appointments and Promotion) Regulations (Northern Ireland) 1979[^key-2728cbdc5bb4f6f6a6c8646ff13ac48a]
+## 2. Amendment of the Fire Services (Appointments and Promotion) Regulations (Northern Ireland) 1979[^c-2728cbdc5bb4f6f6a6c8646ff13ac48a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-2728cbdc5bb4f6f6a6c8646ff13ac48a]
+## 3. Revocation[^c-2728cbdc5bb4f6f6a6c8646ff13ac48a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2728cbdc5bb4f6f6a6c8646ff13ac48a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2728cbdc5bb4f6f6a6c8646ff13ac48a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2728cbdc5bb4f6f6a6c8646ff13ac48a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2728cbdc5bb4f6f6a6c8646ff13ac48a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2728cbdc5bb4f6f6a6c8646ff13ac48a]: Textual amendment: Regulations revoked (31.12.2005) by [Fire Services (Appointments and Promotion) (Revocation) Regulations (Northern Ireland) 2005 (S.R. 2005/590)](https://www.legislation.gov.uk/nisr/2005/590), [reg. 1](https://www.legislation.gov.uk/nisr/2005/590/regulation/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/590/schedule/1)
+[^c-2728cbdc5bb4f6f6a6c8646ff13ac48a]: Textual amendment: Regulations revoked (31.12.2005) by [Fire Services (Appointments and Promotion) (Revocation) Regulations (Northern Ireland) 2005 (S.R. 2005/590)](https://www.legislation.gov.uk/nisr/2005/590), [reg. 1](https://www.legislation.gov.uk/nisr/2005/590/regulation/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/590/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 278. Amendment of the Appendices to Annex 3 to [Commission Regulation (EU) No 1321/2014](https://www.legislation.gov.uk/eur/2014/1321)[^key-b34af76a45734f0860b0836d732fa71f]
+## 278. Amendment of the Appendices to Annex 3 to [Commission Regulation (EU) No 1321/2014](https://www.legislation.gov.uk/eur/2014/1321)[^c-b34af76a45734f0860b0836d732fa71f]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b34af76a45734f0860b0836d732fa71f]: Commencement: Reg. 278 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b34af76a45734f0860b0836d732fa71f]: Commencement: Reg. 278 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

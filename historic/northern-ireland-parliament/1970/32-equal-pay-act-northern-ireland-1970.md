@@ -30,7 +30,7 @@ Equal Pay Act (Northern Ireland) 1970 [^c16999211]
 
 An Act to prevent discrimination, as regards terms and conditions of employment, between men and women.
 
-\[17th December 1970\][^key-72cde0cdbc06571ef0aad5ce843ae1c2]
+\[17th December 1970\][^c-72cde0cdbc06571ef0aad5ce843ae1c2]
 
 ## 1. Requirement of equal treatment for men and women in same employment.
 
@@ -141,7 +141,7 @@ The following are political offices for the purposes of section 1(7C)(a)—
 - (d) any office of a district council held by a member of it, or
 - (e) any office of a political party.
 
-## 1B. Equal treatment in respect of pensions[^key-8ba574ed9a81e5df6ac3342a9bc56180]
+## 1B. Equal treatment in respect of pensions[^c-8ba574ed9a81e5df6ac3342a9bc56180]
 
 (1) An equality clause does not operate in relation to terms relating to a person’s membership of, or rights under, an occupational pension scheme, being terms in relation to which, by reason only of any provision made by or under Articles 62 to 64 of the Pensions (Northern Ireland) Order 1995 (equal treatment), an equal treatment rule would not operate if the terms were included in the scheme.
 
@@ -218,7 +218,7 @@ unless the proceedings are instituted on or before the qualifying date (determin
 - (c) a disability case, or
 - (d) both a concealment and a disability case.
 
-(3)[^M_F_9608bcfc-abd4-4bac-c7c7-f7020370dcc6] In a standard case, the qualifying date is, subject to[^c22554551] sections 2ZAA and 2ZAB[^key-16d341430aa2046955176f83b97f8cdf] , the date falling six months after the last day on which the woman was employed in the employment.
+(3)[^M_F_9608bcfc-abd4-4bac-c7c7-f7020370dcc6] In a standard case, the qualifying date is, subject to[^c22554551] sections 2ZAA and 2ZAB[^c-16d341430aa2046955176f83b97f8cdf] , the date falling six months after the last day on which the woman was employed in the employment.
 
 (4)[^M_F_9608bcfc-abd4-4bac-c7c7-f7020370dcc6] In a case which is a stable employment case (but not also a concealment or a disability case or both), the qualifying date is, subject to sections 2ZAA and 2ZAB , the date falling six months after the day on which the stable employment relationship ended.
 
@@ -228,11 +228,11 @@ unless the proceedings are instituted on or before the qualifying date (determin
 
 (7) In a case which is both a concealment and a disability case, the qualifying date is the later of the dates referred to in subsections (5) and (6).
 
-## 2ZAA. Extension of time limit: mediation[^key-8c686990f94f2a8734ed019005d37fc8]
+## 2ZAA. Extension of time limit: mediation[^c-8c686990f94f2a8734ed019005d37fc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2ZAB. Extension of time limits to facilitate conciliation before institution of proceedings[^key-0f2376191b70d849143143b56e8eaa15]
+## 2ZAB. Extension of time limits to facilitate conciliation before institution of proceedings[^c-0f2376191b70d849143143b56e8eaa15]
 
 (1) This section applies for the purpose of determining the qualifying date under section 2ZA in relation to proceedings on a complaint under section 2(1) which are relevant proceedings within the meaning of Article 20 of the Industrial Tribunals (Northern Ireland) Order 1996.
 
@@ -275,7 +275,7 @@ But it does not apply in relation to a dispute that is (or to so much of a dispu
 
 (4) In a case which is a concealment or a disability case or both, the arrears date is the date of the contravention.
 
-## 2A. Procedure before tribunal in certain cases.[^key-b7bd1cb3f4bab4c6e3dea3caacfa4ab2][^c16999281]
+## 2A. Procedure before tribunal in certain cases.[^c-b7bd1cb3f4bab4c6e3dea3caacfa4ab2][^c16999281]
 
 (1) Where on a complaint or reference made to an industrial tribunal under section 2, a dispute arises as to whether any work is of equal value as mentioned in section 1(2)(c) the tribunal \[[^c16999751] may either—
 
@@ -326,18 +326,18 @@ or if in any case it appears to the Department that the order may be amendable u
 
 (4) In this section “the Agricultural Wages Board” means the Agricultural Wages Board for Northern Ireland, “the Agricultural Wages Act” means the Agricultural Wages (Regulation) Act (Northern Ireland) 1939 [^m00003] and “agricultural wages order” means an order of the Agricultural Wages Board under the Agricultural Wages Act.
 
-## 6. Exclusions from sections 1 to 5 etc.[^key-009bd486040c2beabe78c5b4b423a740]
+## 6. Exclusions from sections 1 to 5 etc.[^c-009bd486040c2beabe78c5b4b423a740]
 
 [(1)[^c16999861] An equality clause shall not[^c16999871] operate in relation to terms—
 
 - (a) affected by compliance with the laws regulating the employment of women, or
-- (b)[^key-dfdf8de7f73cb111f43f4f98520021e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-dfdf8de7f73cb111f43f4f98520021e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (1AA)[^c16999891] Subsection (1)(b) does not affect the operation of an equality clause falling within section 1(2)(d), (e) or (f).
 
 (1B)[^c16999911] An equality clause shall not operate in relation to terms relating to a person's membership of, or rights under, an occupational pension scheme, being terms in relation to which, by reason only of any provision made by or under Articles 62 to 64 of the Pensions (Northern Ireland) Order 1995 (equal treatment), an equal treatment rule would not operate if the terms were included in the scheme.
 
-(1C)[^key-e4e31cac7d780d89ee22e97d83651713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1C)[^c-e4e31cac7d780d89ee22e97d83651713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6A. Service pay and conditions.[^c16999931][^c20360691]
 
@@ -358,17 +358,17 @@ Any such contravention shall be regarded for the purposes of a claim under this 
 (5)[^c21565521] No complaint in respect of the claim shall be presented to an industrial tribunal unless—
 
 - (a) the claimant has made a service complaint in respect of the claim[^c19062131] ; and
-- (b)[^key-80fb115b6006b9ec4172be80ac3cb89f] the complaint has not been withdrawn.
+- (b)[^c-80fb115b6006b9ec4172be80ac3cb89f] the complaint has not been withdrawn.
 
-(5A)[^key-2407599f655e527417dfb851c859c71f] Where the service complaint is dealt with by a person or panel appointed by the Defence Council by virtue of section 340C(1)(a) of the Armed Forces Act 2006, it is to be treated for the purposes of subsection (5)(b) as withdrawn if—
+(5A)[^c-2407599f655e527417dfb851c859c71f] Where the service complaint is dealt with by a person or panel appointed by the Defence Council by virtue of section 340C(1)(a) of the Armed Forces Act 2006, it is to be treated for the purposes of subsection (5)(b) as withdrawn if—
 
-- (a) the period allowed in accordance with service complaints regulations for bringing an appeal against the person's or panel's decision expires, [^key-59ea54e233b06aec3e96f4b2184953fd]...
-- (aa)[^key-0a00d49ffc4aa879484f02f109823831] there are grounds (of which the claimant is aware) on which the claimant is entitled to bring such an appeal, and
+- (a) the period allowed in accordance with service complaints regulations for bringing an appeal against the person's or panel's decision expires, [^c-59ea54e233b06aec3e96f4b2184953fd]...
+- (aa)[^c-0a00d49ffc4aa879484f02f109823831] there are grounds (of which the claimant is aware) on which the claimant is entitled to bring such an appeal, and
 - (b) either—
-  - (i) the claimant does not apply to the Armed Forces Commissioner[^key-efc60f54ebb4e10fab7e99ef20cd789c] for a review by virtue of section 340D(6)(a)[^key-6c7789daa0f198ce974bbb5dcddc1517] of that Act (review of decision that appeal brought out of time cannot proceed), or
-  - (ii) the claimant does apply for such a review and the Commissioner[^key-9244a1a7aca2beef77408559ca84af2f] decides that an appeal against the person's or panel's decision cannot be proceeded with.
+  - (i) the claimant does not apply to the Armed Forces Commissioner[^c-efc60f54ebb4e10fab7e99ef20cd789c] for a review by virtue of section 340D(6)(a)[^c-6c7789daa0f198ce974bbb5dcddc1517] of that Act (review of decision that appeal brought out of time cannot proceed), or
+  - (ii) the claimant does apply for such a review and the Commissioner[^c-9244a1a7aca2beef77408559ca84af2f] decides that an appeal against the person's or panel's decision cannot be proceeded with.
 
-(6A)[^key-807721a0fad85c27e9483ff99c07ca73] Subsection (5) does not prevent the claimant from presenting a complaint to an industrial tribunal concerning a claim in respect of the contravention of a term of service relating to membership of, or rights under—
+(6A)[^c-807721a0fad85c27e9483ff99c07ca73] Subsection (5) does not prevent the claimant from presenting a complaint to an industrial tribunal concerning a claim in respect of the contravention of a term of service relating to membership of, or rights under—
 
 - (a) an occupational pension scheme made under section 3 of the Naval and Marine Pay and Pensions Act 1865,
 - (b) the Army Pensions Warrant 1977, or
@@ -376,7 +376,7 @@ Any such contravention shall be regarded for the purposes of a claim under this 
 
 (6B) In subsection (6A), “**occupational pension scheme**” has the same meaning as in section 1 of the Pension Schemes (Northern Ireland) Act 1993.
 
-(7)[^c21565531][^key-265cef758981b878148045dc5e7a3d15] The presentation of a complaint to an industrial tribunal in reliance on subsection (5) does not affect the continuation of the procedures set out in service complaints regulations.
+(7)[^c21565531][^c-265cef758981b878148045dc5e7a3d15] The presentation of a complaint to an industrial tribunal in reliance on subsection (5) does not affect the continuation of the procedures set out in service complaints regulations.
 
 (8) A determination may not be made by an industrial tribunal in proceedings on a complaint in respect of the claim unless the complaint is presented on or before the qualifying date (determined in accordance with section 6AA).
 
@@ -384,14 +384,14 @@ Any such contravention shall be regarded for the purposes of a claim under this 
 
 (10) Section 2A shall apply in relation to a complaint in respect of the claim as it applies to a complaint presented to an industrial tribunal under section 2(1).
 
-(11)[^key-9bccde9c93a212cdf56670129e7bfe33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-9bccde9c93a212cdf56670129e7bfe33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) In this section and sections 6AA and 6AB
 
 - “armed forces” means the naval, military or air forces of the Crown; and
-- “[^c19062291]**service complaint**” means a complaint under section 340A[^key-8daaaecea62f2fac004636e4ceaf7177] of the Armed Forces Act 2006;
-- “[^key-a166123d755328285770e0f80d6ae95a]**service complaints regulations**” means regulations made under section 340B(1) of that Act.
-- [^key-deb86e50c44452d75c584a5e077676cf]...
+- “[^c19062291]**service complaint**” means a complaint under section 340A[^c-8daaaecea62f2fac004636e4ceaf7177] of the Armed Forces Act 2006;
+- “[^c-a166123d755328285770e0f80d6ae95a]**service complaints regulations**” means regulations made under section 340B(1) of that Act.
+- [^c-deb86e50c44452d75c584a5e077676cf]...
 
 (13) Provisions of this section and sections 6AA and 6AB, and provisions applied by this section, framed with reference to women and their treatment relative to men are to be read as applying equally in a converse case to men and their treatment relative to women.
 
@@ -455,7 +455,7 @@ Any such contravention shall be regarded for the purposes of a claim under this 
 
 (4) In a case which is a concealment or a disability case or both, the arrears date is the date of the contravention.
 
-(5) Subsection (6) applies in a case where, by virtue of section 6A(6A)[^key-8fa90c49d1250862a6ac9860c1cc6f30] , proceedings are instituted without a service complaint having been made.[^c19064821]
+(5) Subsection (6) applies in a case where, by virtue of section 6A(6A)[^c-8fa90c49d1250862a6ac9860c1cc6f30] , proceedings are instituted without a service complaint having been made.[^c19064821]
 
 (6) In that case, references in this section to the making of a service complaint[^c19064861] shall be read as references to the institution of proceedings.
 
@@ -516,7 +516,7 @@ it may draw any inference which it considers it just and equitable to draw, incl
 
 [^c16999211]: Textual amendment: functions transf. by SR 1999/481
 
-[^key-72cde0cdbc06571ef0aad5ce843ae1c2]: Modification: [Act](https://www.legislation.gov.uk/apni/1970/32): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-72cde0cdbc06571ef0aad5ce843ae1c2]: Modification: [Act](https://www.legislation.gov.uk/apni/1970/32): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c16999381]: Textual amendment: [1976 NI 15](https://www.legislation.gov.uk/nisi/1976)
 
@@ -540,7 +540,7 @@ it may draw any inference which it considers it just and equitable to draw, incl
 
 [^c16999221]: Textual amendment: SR 2005/426
 
-[^key-8ba574ed9a81e5df6ac3342a9bc56180]: Textual amendment: [S. 1B](https://www.legislation.gov.uk/apni/1970/32/section/1B) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/2/2)
+[^c-8ba574ed9a81e5df6ac3342a9bc56180]: Textual amendment: [S. 1B](https://www.legislation.gov.uk/apni/1970/32/section/1B) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/2/2)
 
 [^c16999621]: Textual amendment: [1976 NI 15](https://www.legislation.gov.uk/nisi/1976)
 
@@ -556,15 +556,15 @@ it may draw any inference which it considers it just and equitable to draw, incl
 
 [^c22554551]: Textual amendment: Words in s. 2ZA(3)-(6) substituted (18.4.2011) by Cross-[Border Mediation Regulations (Northern Ireland) 2011 (S.R. 2011/157)](https://www.legislation.gov.uk/nisr/2011/157), [reg. 5(2)](https://www.legislation.gov.uk/nisr/2011/157/regulation/5/2) (with [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/157/regulation/1/2))
 
-[^key-16d341430aa2046955176f83b97f8cdf]: Textual amendment: Words in ss. 2ZA(3)-(6) substituted (27.1.2020) by virtue of [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/1); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-16d341430aa2046955176f83b97f8cdf]: Textual amendment: Words in ss. 2ZA(3)-(6) substituted (27.1.2020) by virtue of [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/1); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
-[^key-8c686990f94f2a8734ed019005d37fc8]: Textual amendment: S. 2ZAA omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/3/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8c686990f94f2a8734ed019005d37fc8]: Textual amendment: S. 2ZAA omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/3/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0f2376191b70d849143143b56e8eaa15]: Textual amendment: [S. 2ZAB](https://www.legislation.gov.uk/apni/1970/32/section/2ZAB) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-0f2376191b70d849143143b56e8eaa15]: Textual amendment: [S. 2ZAB](https://www.legislation.gov.uk/apni/1970/32/section/2ZAB) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
 
 [^c16999261]: Textual amendment: SR 2004/171
 
-[^key-b7bd1cb3f4bab4c6e3dea3caacfa4ab2]: Modification: S. 2A applied (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 10(2)](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/10/2)
+[^c-b7bd1cb3f4bab4c6e3dea3caacfa4ab2]: Modification: S. 2A applied (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 10(2)](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/10/2)
 
 [^c16999281]: Textual amendment: SR 1984/16
 
@@ -574,19 +574,19 @@ it may draw any inference which it considers it just and equitable to draw, incl
 
 [^m00003]: Marginal citation: 1939 c.25
 
-[^key-009bd486040c2beabe78c5b4b423a740]: Textual amendment: [S. 6](https://www.legislation.gov.uk/apni/1970/32/section/6) heading substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/2/3/a)
+[^c-009bd486040c2beabe78c5b4b423a740]: Textual amendment: [S. 6](https://www.legislation.gov.uk/apni/1970/32/section/6) heading substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/2/3/a)
 
 [^c16999861]: Textual amendment: [1976 NI 15](https://www.legislation.gov.uk/nisi/1976)
 
 [^c16999871]: Textual amendment: [1988 NI 13](https://www.legislation.gov.uk/nisi/1988)
 
-[^key-dfdf8de7f73cb111f43f4f98520021e9]: Textual amendment: [S. 6(1B)](https://www.legislation.gov.uk/apni/1970/32/section/6/1B) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/2/3/b)
+[^c-dfdf8de7f73cb111f43f4f98520021e9]: Textual amendment: [S. 6(1B)](https://www.legislation.gov.uk/apni/1970/32/section/6/1B) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/2/3/b)
 
 [^c16999891]: Textual amendment: SR 2005/426
 
 [^c16999911]: Textual amendment: [1995 NI 22](https://www.legislation.gov.uk/nisi/1995)
 
-[^key-e4e31cac7d780d89ee22e97d83651713]: Textual amendment: [S. 6(1C)](https://www.legislation.gov.uk/apni/1970/32/section/6/1C) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/2/3/b)
+[^c-e4e31cac7d780d89ee22e97d83651713]: Textual amendment: [S. 6(1C)](https://www.legislation.gov.uk/apni/1970/32/section/6/1C) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/2/3/b)
 
 [^c16999931]: Textual amendment: mod. by SR 2005/377
 
@@ -600,35 +600,35 @@ it may draw any inference which it considers it just and equitable to draw, incl
 
 [^c19062131]: Textual amendment: Words in s. 6A(5)(a) substituted (1.1.2008) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 57(2)(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/57/2/a); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 3](https://www.legislation.gov.uk/uksi/2007/2913/article/3)
 
-[^key-80fb115b6006b9ec4172be80ac3cb89f]: Textual amendment: S. 6A(5)(b) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/2); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-80fb115b6006b9ec4172be80ac3cb89f]: Textual amendment: S. 6A(5)(b) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/2); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
-[^key-2407599f655e527417dfb851c859c71f]: Textual amendment: S. 6A(5A) inserted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/3); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-2407599f655e527417dfb851c859c71f]: Textual amendment: S. 6A(5A) inserted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/3); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
-[^key-59ea54e233b06aec3e96f4b2184953fd]: Textual amendment: Word in [s. 6A(5A)(a)](https://www.legislation.gov.uk/apni/1970/32/section/6A/5A/a) omitted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by virtue of [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/1/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-59ea54e233b06aec3e96f4b2184953fd]: Textual amendment: Word in [s. 6A(5A)(a)](https://www.legislation.gov.uk/apni/1970/32/section/6A/5A/a) omitted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by virtue of [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/1/a); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-0a00d49ffc4aa879484f02f109823831]: Textual amendment: [S. 6A(5A)(aa)](https://www.legislation.gov.uk/apni/1970/32/section/6A/5A/aa) inserted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/1/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-0a00d49ffc4aa879484f02f109823831]: Textual amendment: [S. 6A(5A)(aa)](https://www.legislation.gov.uk/apni/1970/32/section/6A/5A/aa) inserted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/1/b); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-efc60f54ebb4e10fab7e99ef20cd789c]: Textual amendment: Words in [s. 6A(5A)(b)(i)](https://www.legislation.gov.uk/apni/1970/32/section/6A/5A/b/i) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/1/a); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-efc60f54ebb4e10fab7e99ef20cd789c]: Textual amendment: Words in [s. 6A(5A)(b)(i)](https://www.legislation.gov.uk/apni/1970/32/section/6A/5A/b/i) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/1/a); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-6c7789daa0f198ce974bbb5dcddc1517]: Textual amendment: Word in [s. 6A(5A)(b)(i)](https://www.legislation.gov.uk/apni/1970/32/section/6A/5A/b/i) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 1(c)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/1/c); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
+[^c-6c7789daa0f198ce974bbb5dcddc1517]: Textual amendment: Word in [s. 6A(5A)(b)(i)](https://www.legislation.gov.uk/apni/1970/32/section/6A/5A/b/i) substituted (1.5.2022 for specified purposes, 15.6.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 3 para. 1(c)](https://www.legislation.gov.uk/ukpga/2021/35/schedule/3/paragraph/1/c); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/d); [S.I. 2022/625](https://www.legislation.gov.uk/uksi/2022/625), [reg. 2](https://www.legislation.gov.uk/uksi/2022/625/regulation/2)
 
-[^key-9244a1a7aca2beef77408559ca84af2f]: Textual amendment: Word in [s. 6A(5A)(b)(ii)](https://www.legislation.gov.uk/apni/1970/32/section/6A/5A/b/ii) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/1/b); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-9244a1a7aca2beef77408559ca84af2f]: Textual amendment: Word in [s. 6A(5A)(b)(ii)](https://www.legislation.gov.uk/apni/1970/32/section/6A/5A/b/ii) substituted (1.4.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/ukpga/2025/23/schedule/2/paragraph/1/b); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [regs. 2](https://www.legislation.gov.uk/uksi/2026/14/regulation/2), [4(e)](https://www.legislation.gov.uk/uksi/2026/14/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
 
-[^key-807721a0fad85c27e9483ff99c07ca73]: Textual amendment: S. 6A(6A)(6B) substituted (1.1.2016) for s. 6A(6) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(4)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/4); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-807721a0fad85c27e9483ff99c07ca73]: Textual amendment: S. 6A(6A)(6B) substituted (1.1.2016) for s. 6A(6) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(4)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/4); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
 [^c21565531]: Modification: S. 6A(7) modified (24.4.2009) by [Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/2/b), [196(2)(b)](https://www.legislation.gov.uk/uksi/2009/1059/article/196/2/b)
 
-[^key-265cef758981b878148045dc5e7a3d15]: Textual amendment: S. 6A(7) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/5); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-265cef758981b878148045dc5e7a3d15]: Textual amendment: S. 6A(7) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/5); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
-[^key-9bccde9c93a212cdf56670129e7bfe33]: Textual amendment: S. 6A(11) omitted (1.1.2016) by virtue of [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(6)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/6); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-9bccde9c93a212cdf56670129e7bfe33]: Textual amendment: S. 6A(11) omitted (1.1.2016) by virtue of [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(6)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/6); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
 [^c19062291]: Textual amendment: Definition of "the service redress procedures" in s. 6A(12) substituted (1.1.2008) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 57(4)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/57/4); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 3](https://www.legislation.gov.uk/uksi/2007/2913/article/3)
 
-[^key-8daaaecea62f2fac004636e4ceaf7177]: Textual amendment: Words in s. 6A(12) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(7)(a)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/7/a); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-8daaaecea62f2fac004636e4ceaf7177]: Textual amendment: Words in s. 6A(12) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(7)(a)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/7/a); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
-[^key-a166123d755328285770e0f80d6ae95a]: Textual amendment: Words in s. 6A(12) inserted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(7)(b)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/7/b); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-a166123d755328285770e0f80d6ae95a]: Textual amendment: Words in s. 6A(12) inserted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(7)(b)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/7/b); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
-[^key-deb86e50c44452d75c584a5e077676cf]: Textual amendment: Words in s. 6A(12) omitted (1.1.2016) by virtue of [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(7)(c)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/7/c); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-deb86e50c44452d75c584a5e077676cf]: Textual amendment: Words in s. 6A(12) omitted (1.1.2016) by virtue of [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 2(7)(c)](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/2/7/c); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
 [^c16999321]: Textual amendment: SR 2004/171
 
@@ -646,7 +646,7 @@ it may draw any inference which it considers it just and equitable to draw, incl
 
 [^c19064441]: Textual amendment: Words in s. 6AB(3) substituted (1.1.2008) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 58(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/58/b); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 3](https://www.legislation.gov.uk/uksi/2007/2913/article/3)
 
-[^key-8fa90c49d1250862a6ac9860c1cc6f30]: Textual amendment: Words in s. 6AB(5) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/3); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
+[^c-8fa90c49d1250862a6ac9860c1cc6f30]: Textual amendment: Words in s. 6AB(5) substituted (1.1.2016) by [Armed Forces (Service Complaints and Financial Assistance) Act 2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2015/19/section/7/1), [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2015/19/schedule/paragraph/3); [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957), [reg. 2](https://www.legislation.gov.uk/uksi/2015/1957/regulation/2) (with savings and transitional provisions in [S.I. 2015/1969](https://www.legislation.gov.uk/uksi/2015/1969))
 
 [^c19064821]: Textual amendment: Words in s. 6AB(5) substituted (1.1.2008) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 58(c)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/58/c); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 3](https://www.legislation.gov.uk/uksi/2007/2913/article/3)
 

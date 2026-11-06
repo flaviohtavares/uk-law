@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Grounds for resignation[^key-671aa2e87c2ed8b47ee7556d146bd439]
+## 61. Grounds for resignation[^c-671aa2e87c2ed8b47ee7556d146bd439]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-671aa2e87c2ed8b47ee7556d146bd439]: Commencement: Rule 61 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-671aa2e87c2ed8b47ee7556d146bd439]: Commencement: Rule 61 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

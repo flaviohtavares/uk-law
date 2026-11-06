@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Payment of benefits to or in respect of a dual capacity member[^key-a038f2c2a23f2f02f138b40bfbf836fb]
+## 147. Payment of benefits to or in respect of a dual capacity member[^c-a038f2c2a23f2f02f138b40bfbf836fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a038f2c2a23f2f02f138b40bfbf836fb]: Commencement: [Reg. 147](https://www.legislation.gov.uk/uksi/2015/182/regulation/147) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-a038f2c2a23f2f02f138b40bfbf836fb]: Commencement: [Reg. 147](https://www.legislation.gov.uk/uksi/2015/182/regulation/147) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Fishing vessels changing from full registration to simple registration subject to conditions[^key-7187ae0e39ab6a6413b5a298e5b4d401]
+## 4. Fishing vessels changing from full registration to simple registration subject to conditions[^c-7187ae0e39ab6a6413b5a298e5b4d401]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A fishing vessel which has once been registered with full registration shall not
 
 ## Annotations
 
-[^key-7187ae0e39ab6a6413b5a298e5b4d401]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1993/3138/regulation/4) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-7187ae0e39ab6a6413b5a298e5b4d401]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1993/3138/regulation/4) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 6 — Carbon dioxide storage licences: licence provisions[^key-26dfa66f83afbe5ea02f3c0334591a7a][^key-b5f0984befef3c4adb01636aadfa5e3c]
+## Schedule 6 — Carbon dioxide storage licences: licence provisions[^c-26dfa66f83afbe5ea02f3c0334591a7a][^c-b5f0984befef3c4adb01636aadfa5e3c]
 
 *Extent: E+W+S+N.I.*
 
 Section 103
 
-[^key-b5f0984befef3c4adb01636aadfa5e3c]In the Storage of Carbon Dioxide (Licensing etc.) Regulations 2010 ([S.I. 2010/2221](https://www.legislation.gov.uk/uksi/2010/2221)), in Schedule 1 (provisions to be included in a licence), after paragraph 5 insert—
+[^c-b5f0984befef3c4adb01636aadfa5e3c]In the Storage of Carbon Dioxide (Licensing etc.) Regulations 2010 ([S.I. 2010/2221](https://www.legislation.gov.uk/uksi/2010/2221)), in Schedule 1 (provisions to be included in a licence), after paragraph 5 insert—
 
 > **6. Change in control of licence holder**
 >
@@ -95,6 +95,6 @@ Section 103
 
 ## Annotations
 
-[^key-26dfa66f83afbe5ea02f3c0334591a7a]: Commencement: Sch. 6 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-26dfa66f83afbe5ea02f3c0334591a7a]: Commencement: Sch. 6 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-b5f0984befef3c4adb01636aadfa5e3c]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2023/52/schedule/6) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/i)
+[^c-b5f0984befef3c4adb01636aadfa5e3c]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/2023/52/schedule/6) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/i)

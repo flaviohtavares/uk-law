@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Regulation (EU) No 376/2014 (occurrence reporting)[^key-6b9b3ea93ed4243e408b00ca8cc8691b]
+## 59. Regulation (EU) No 376/2014 (occurrence reporting)[^c-6b9b3ea93ed4243e408b00ca8cc8691b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 A
 
 ## Annotations
 
-[^key-6b9b3ea93ed4243e408b00ca8cc8691b]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6b9b3ea93ed4243e408b00ca8cc8691b]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

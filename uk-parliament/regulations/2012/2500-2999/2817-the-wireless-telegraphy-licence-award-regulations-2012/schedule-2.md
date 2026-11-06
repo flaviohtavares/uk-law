@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — OPT-IN SELECTIONS AND PRICES[^key-884606513ee1aa385631a7605a352d0f]
+## SCHEDULE 2 — OPT-IN SELECTIONS AND PRICES[^c-884606513ee1aa385631a7605a352d0f]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 19
 
-[^key-884606513ee1aa385631a7605a352d0f]
+[^c-884606513ee1aa385631a7605a352d0f]
 
 LIST A
 
@@ -38,7 +38,7 @@ Second opt-in selection
 | --- | --- |
 | Two 800 MHz paired frequency lots; and<br>Two 2.6 GHz paired frequency lots | Four hundred and eighty million pounds (£480,000,000) |
 
-[^key-884606513ee1aa385631a7605a352d0f]
+[^c-884606513ee1aa385631a7605a352d0f]
 
 LIST B
 
@@ -66,7 +66,7 @@ Fourth opt-in selection
 | --- | --- |
 | The 800 MHz coverage obligation lot; and<br>Two 2.6 GHz paired frequency lots | Two hundred and eighty million pounds (£280,000,000) |
 
-[^key-884606513ee1aa385631a7605a352d0f]
+[^c-884606513ee1aa385631a7605a352d0f]
 
 LIST C
 
@@ -82,7 +82,7 @@ Second opt-in selection
 | --- | --- |
 | Four 2.6 GHz paired frequency lots | Sixty million pounds (£60,000,000) |
 
-[^key-884606513ee1aa385631a7605a352d0f]
+[^c-884606513ee1aa385631a7605a352d0f]
 
 LIST D
 
@@ -106,4 +106,4 @@ Third opt-in selection
 
 ## Annotations
 
-[^key-884606513ee1aa385631a7605a352d0f]: Commencement: Sch. 2 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-884606513ee1aa385631a7605a352d0f]: Commencement: Sch. 2 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

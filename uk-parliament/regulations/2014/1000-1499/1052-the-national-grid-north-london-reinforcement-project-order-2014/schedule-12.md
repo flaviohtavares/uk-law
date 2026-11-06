@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 12 — TRAFFIC REGULATION[^key-129a336f69d6ef359686b15c4e23649d]
+## SCHEDULE 12 — TRAFFIC REGULATION[^c-129a336f69d6ef359686b15c4e23649d]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ Article 41
 
 ## Annotations
 
-[^key-129a336f69d6ef359686b15c4e23649d]: Commencement: Sch. 12 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-129a336f69d6ef359686b15c4e23649d]: Commencement: Sch. 12 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)

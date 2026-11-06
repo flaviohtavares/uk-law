@@ -24,7 +24,7 @@ Regulation 20
 
 ### PART 1 — PATIENTS
 
-#### 1. Persons to whom mandatory services or additional services are to be provided[^key-b177869ba2af5d87ffa73a40bd9af713]
+#### 1. Persons to whom mandatory services or additional services are to be provided[^c-b177869ba2af5d87ffa73a40bd9af713]
 
 (1) Subject to sub-paragraphs (3) and (5), the contractor may agree to provide mandatory or additional services under the agreement to any person if a request is made for such services by—
 
@@ -51,7 +51,7 @@ Regulation 20
 - (a) where the contractor is providing mandatory or additional services in a prison; or
 - (b) in any event to dental public health services.
 
-#### 2. Patient preference of practitioner[^key-d2dd789391e3423c534224b82c75591d]
+#### 2. Patient preference of practitioner[^c-d2dd789391e3423c534224b82c75591d]
 
 (1) Where the contractor has agreed to provide services to a patient, it will—
 
@@ -68,7 +68,7 @@ Regulation 20
 - (a) where the contractor is providing mandatory or additional services in a prison; or
 - (b) in any event to dental public health services.
 
-#### 3. Violent patients[^key-36b7733b8013ef2c6538370f6eda0ac9]
+#### 3. Violent patients[^c-36b7733b8013ef2c6538370f6eda0ac9]
 
 (1) Where—
 
@@ -95,7 +95,7 @@ the contractor may notify the Relevant Body that it will no longer provide servi
 - (a) acknowledge in writing receipt of the notice from the contractor under sub-paragraph (1); and
 - (b) take all reasonable steps to inform the patient concerned as soon as is reasonably practicable.
 
-#### 4. Patients who refuse to pay NHS charges prior to the commencement of, or during, treatment[^key-bbd0681d1562afaa60cb52b04f03914e]
+#### 4. Patients who refuse to pay NHS charges prior to the commencement of, or during, treatment[^c-bbd0681d1562afaa60cb52b04f03914e]
 
 The contractor may—
 
@@ -104,7 +104,7 @@ The contractor may—
 
 if the contractor has, in accordance with the NHS Charges Regulations, requested that the patient pay a charge in respect of that course of treatment or orthodontic course of treatment, and that patient has failed to pay that charge.
 
-#### 5. Irrevocable breakdown in relationship between contractor and patient[^key-72be53c9652ccc7094f7e8834e54267d]
+#### 5. Irrevocable breakdown in relationship between contractor and patient[^c-72be53c9652ccc7094f7e8834e54267d]
 
 Where—
 
@@ -115,14 +115,14 @@ the contractor may notify the Relevant Body that it will no longer provide servi
 
 ### PART 2 — PROVISION OF SERVICES
 
-#### 6. Mandatory services[^key-825cd1c283aec7c4cabbec8a0349ba82]
+#### 6. Mandatory services[^c-825cd1c283aec7c4cabbec8a0349ba82]
 
 Where the agreement provides for a contractor to provide mandatory services, the contractor must provide—
 
 - (a) urgent treatment, at such times as are agreed with the Relevant Body and specified in the agreement; and
 - (b) all other mandatory services during normal surgery hours.
 
-#### 7. Course of treatment[^key-6efb1d8b5cc8e31cef3c5c60d3c85931]
+#### 7. Course of treatment[^c-6efb1d8b5cc8e31cef3c5c60d3c85931]
 
 (1) Except in the case of orthodontic services and dental public health services, the contractor will provide mandatory and additional services to a patient by providing to that patient a course of treatment.
 
@@ -151,7 +151,7 @@ any further services to be provided to that patient under the agreement must be 
 
 (6) If a contractor is unable to complete the course of the treatment which has been commenced for reasons beyond its control, it will give notice to the Relevant Body of the extent of the treatment so provided and the reason for his or her inability to complete the remainder.
 
-#### 8. Treatment plans[^key-0aa81bd583f6ee5980209739355eab5d]
+#### 8. Treatment plans[^c-0aa81bd583f6ee5980209739355eab5d]
 
 (1) Subject to sub-paragraph (5), where the contractor agrees to provide a course of treatment to a patient, it will, at the time of the initial examination and assessment of that patient, ensure that the patient is provided with a treatment plan on a form supplied for that purpose by the Relevant Body which will specify—
 
@@ -183,7 +183,7 @@ any further services to be provided to that patient under the agreement must be 
 
 within twenty eight days of that request.
 
-#### 9. Completion of courses of treatment[^key-e25a52680028fb26a58510310c8831c1]
+#### 9. Completion of courses of treatment[^c-e25a52680028fb26a58510310c8831c1]
 
 (1) The contractor will indicate—
 
@@ -199,7 +199,7 @@ pursuant to paragraph 39 whether the course of treatment was completed, and if t
 
 it will be entitled to exercise its powers under paragraph 59(2) on the grounds that the contractor is not, pursuant to paragraph 7(2), using its best endeavours to ensure courses of treatment are completed.
 
-#### 10. Referral to another contractor, a hospital or other relevant service provider for advanced mandatory, domiciliary or sedation services[^key-f8fd31c3896a56dfebb02220287839d9]
+#### 10. Referral to another contractor, a hospital or other relevant service provider for advanced mandatory, domiciliary or sedation services[^c-f8fd31c3896a56dfebb02220287839d9]
 
 (1) Where a patient requires advanced mandatory services, domiciliary services or sedation services that are not provided under the agreement by the contractor, it will, if the patient agrees, refer that patient in accordance with sub-paragraph (2) for the provision of a referral service by an alternative contractor, a hospital or other relevant service provider under Part 1 of the Act.
 
@@ -213,7 +213,7 @@ it will be entitled to exercise its powers under paragraph 59(2) on the grounds 
 
 (3) Where the patient notifies the contractor, whether verbally or in writing, that he or she does not wish to be referred to the alternative contractor, hospital or other relevant service provider selected by the contractor, the contractor will, if requested to do so by the patient, use its best endeavours to refer the patient to another suitable contractor, hospital or other relevant service provider under Part 1 of the Act for the provision of the referral service.
 
-#### 11. Mixing of services provided under the agreement with private services[^key-3c3df796d9a07a9b6ac9e6de47acc934]
+#### 11. Mixing of services provided under the agreement with private services[^c-3c3df796d9a07a9b6ac9e6de47acc934]
 
 (1) Subject to sub-paragraph (2) and the requirements in paragraphs 2 (referral services) and 6 (orthodontic treatment plans) of Schedule 1 and paragraph 8(1)(g) of this Schedule, a contractor may, with the consent of the patient, provide privately any part of a course of treatment or orthodontic course of treatment for that patient, including in circumstances where that patient has been referred to the contractor for a referral service.
 
@@ -231,7 +231,7 @@ it will be entitled to exercise its powers under paragraph 59(2) on the grounds 
 
 (4) In sub-paragraph (2)(a), “provision of sedation” means the provision of one or more drugs to a patient in order to produce a state of depression of the central nervous system to enable treatment to be carried out.
 
-#### 12. Repair or replacement of restorations[^key-cde032b40876f8d4982c5e87313c54b4]
+#### 12. Repair or replacement of restorations[^c-cde032b40876f8d4982c5e87313c54b4]
 
 (1) Subject to sub-paragraph (5), where a restoration specified in sub-paragraph (2) needs to be repaired or replaced the contractor will repair or replace the restoration at no charge to the patient.
 
@@ -252,7 +252,7 @@ it will be entitled to exercise its powers under paragraph 59(2) on the grounds 
 
 (6) In this paragraph, “the relevant period” means the twelve month period beginning on the date on which the restoration was provided, and ceasing twelve months after that date.
 
-#### 13. Premises, facilities and equipment[^key-9773525d081a18ac3b524ca9a1378242]
+#### 13. Premises, facilities and equipment[^c-9773525d081a18ac3b524ca9a1378242]
 
 (1) The contractor will ensure that the premises used for the provision of services under the agreement are—
 
@@ -265,7 +265,7 @@ it will be entitled to exercise its powers under paragraph 59(2) on the grounds 
 
 (4) In this paragraph, “premises” includes a mobile surgery.
 
-#### 14. Telephone services[^key-ebd619ec35248308935c2370f5228b45]
+#### 14. Telephone services[^c-ebd619ec35248308935c2370f5228b45]
 
 (1) The contractor will not be a party to any contract or other arrangement under which the number for telephone services to be used by—
 
@@ -276,7 +276,7 @@ starts with the digits 087, 090 or 091 or consists of a personal number, unless 
 
 (2) In this paragraph, “personal number” means a telephone number which starts with the number 070 followed by a further 8 digits.
 
-#### 14A. – Cost of relevant calls[^key-9bc8ba21b4d1bae3463809aec0f7eef6]
+#### 14A. – Cost of relevant calls[^c-9bc8ba21b4d1bae3463809aec0f7eef6]
 
 (1) The contractor must not enter into, renew or extend a contract or other arrangement for telephone services unless it is satisfied that, having regard to the arrangement as a whole, persons will not pay more to make relevant calls to the practice than they would to make equivalent calls to a geographical number.
 
@@ -303,21 +303,21 @@ starts with the digits 087, 090 or 091 or consists of a personal number, unless 
   - (i) made by patients to the practice for any reason related to services provided under the contract, and
   - (ii) made by persons, other than patients, to the practice in relation to services provided as part of the health service.
 
-#### 15. National Institute for Clinical Excellence guidance[^key-79cfa7ae91348bed09651abb2a18549f]
+#### 15. National Institute for Clinical Excellence guidance[^c-79cfa7ae91348bed09651abb2a18549f]
 
-The contractor will provide services under the agreement in accordance with any relevant guidance that is issued by the National Institute for Health and Care Excellence[^key-73d65f49b19b12a0ec35e712bfdb4761], in particular the guidance entitled “Dental recall — Recall interval between routine dental examinations”[^f00052].
+The contractor will provide services under the agreement in accordance with any relevant guidance that is issued by the National Institute for Health and Care Excellence[^c-73d65f49b19b12a0ec35e712bfdb4761], in particular the guidance entitled “Dental recall — Recall interval between routine dental examinations”[^f00052].
 
-#### 16. Infection control[^key-3b0586cc570487f4bf34d029498ff5ff]
+#### 16. Infection control[^c-3b0586cc570487f4bf34d029498ff5ff]
 
 The contractor will ensure that it has appropriate arrangements for infection control and decontamination.
 
-#### 17. Treatment under general anaesthesia: prohibition[^key-080c0e609063b9ed2b7710ba56ba8722]
+#### 17. Treatment under general anaesthesia: prohibition[^c-080c0e609063b9ed2b7710ba56ba8722]
 
 (1) Subject to sub-paragraph (2), the contractor will not provide any services under the agreement that involve the provision of general anaesthesia.
 
 (2) Where the contractor is a Local Health Board or an NHS Trust, that contractor may provide general anaesthesia in accordance with guidance issued by the General Dental Council in “Standards for Dental Professions [^f00053]”.
 
-#### 17A. Welsh Language[^key-df76d76c29a3893623ad236d55cadceb]
+#### 17A. Welsh Language[^c-df76d76c29a3893623ad236d55cadceb]
 
 (1) Where the contractor provides dental services under the agreement through the medium of Welsh, it must notify the Local Health Board in writing.
 
@@ -336,17 +336,17 @@ The contractor will ensure that it has appropriate arrangements for infection co
 
 ### PART 3 — SUPPLY OF DRUGS AND PRESCRIBING
 
-#### 18. General[^key-61099c08dfbbe2214fe5e84adce84db3]
+#### 18. General[^c-61099c08dfbbe2214fe5e84adce84db3]
 
 The contractor will ensure that any prescription form for listed drugs, medicines or appliances issued by a prescriber complies as appropriate with the requirements in this Part.
 
-#### 19. Supply of drugs[^key-0a5cedce6afdb2a352d28fa0eb95d87f]
+#### 19. Supply of drugs[^c-0a5cedce6afdb2a352d28fa0eb95d87f]
 
 (1) A prescriber may supply to a patient such listed drugs, medicines or appliances as are required for immediate use before the issue of a prescription for such drugs, medicines or appliances in accordance with paragraph 20.
 
 (2) A prescriber may personally administer to a patient any drug or medicine required for the treatment of that patient.
 
-#### 20. Issue of prescription forms[^key-c60b0d3b0e1c2721b96983015bf97539]
+#### 20. Issue of prescription forms[^c-c60b0d3b0e1c2721b96983015bf97539]
 
 (1) A prescriber will order listed drugs, medicines or appliances (other than those supplied under paragraph 19) as are needed for the treatment of any patient to whom it is providing services under the agreement by issuing to the patient a prescription form.
 
@@ -362,20 +362,20 @@ and a separate prescription form will be issued for each patient.
 - (a) is supplied for the purposes of paragraph (1) by the Local Health Board; or
 - (b) in the case where the contractor is a Local Health Board, is supplied by that Local Health Board to other contractors for the purposes of paragraph (1).
 
-#### 21. Excessive prescribing[^key-3530dced9a071922977b4f38907f17c5]
+#### 21. Excessive prescribing[^c-3530dced9a071922977b4f38907f17c5]
 
 The contractor will not prescribe drugs, medicines or appliances whose cost or quantity, in relation to any patient, is, by reason of the character of the drug, medicine or appliance in question, in excess of that which was reasonably necessary for the proper treatment of that patient.
 
 ### PART 4 — PERSONS WHO PERFORM SERVICES
 
-#### 22. Dental practitioners[^key-5cf5438215b8f62af4d5b658b5dee757]
+#### 22. Dental practitioners[^c-5cf5438215b8f62af4d5b658b5dee757]
 
 A dental practitioner[^f00054] may perform dental services under the agreement provided he or she is—
 
 - (a) included in a dental performers list for a Local Health Board in Wales; and
 - (b) his or her inclusion in that list is not subject to a suspension.
 
-#### 23. Dental care professionals[^key-95f798494562fda0f3c1cf6f19073156]
+#### 23. Dental care professionals[^c-95f798494562fda0f3c1cf6f19073156]
 
 (1) Prior to the coming into force of the first regulations under section 36A(2) of the Dentists Act[^f00055] (professions complementary to dentistry)—
 
@@ -395,7 +395,7 @@ may perform dental services under the agreement provided he or she is—
 - (i) a dental care professional; and
 - (ii) his or her registration in the dental care professional register established under section 36B of the Dentists Act[^f00057] is not subject to a suspension.
 
-#### 24. Performers: further requirements[^key-7afdd1ecf244900f7579fe3ae5ff2ae5]
+#### 24. Performers: further requirements[^c-7afdd1ecf244900f7579fe3ae5ff2ae5]
 
 (1) No health care professional or other person other than one to whom paragraph 23 applies will perform clinical services under the agreement unless he or she is appropriately registered with his or her relevant professional body and his or her registration is not subject to a suspension.
 
@@ -408,7 +408,7 @@ is subject to conditions, the contractor will ensure compliance with those condi
 
 (3) No health care professional or other person will perform any clinical services under the agreement unless he or she has such clinical experience and training as are necessary to enable him or her properly to perform such services.
 
-#### 25. Conditions for employment and engagement: dental practitioners performing dental services[^key-a8d11f81ae372d5d40f422e8b13f7f15]
+#### 25. Conditions for employment and engagement: dental practitioners performing dental services[^c-a8d11f81ae372d5d40f422e8b13f7f15]
 
 (1) A contractor will not employ or engage a dental practitioner to perform dental services under the agreement unless—
 
@@ -417,7 +417,7 @@ is subject to conditions, the contractor will ensure compliance with those condi
 
 (2) Where the employment or engagement of a dental practitioner is urgently needed and it is not possible to check the matters referred to in paragraph 22 in accordance with sub-paragraph (1)(b) before employing or engaging him or her, he or she may be employed or engaged on a temporary basis for a single period of up to seven days whilst such checks are undertaken.
 
-#### 26. Conditions for employment and engagement: persons performing dental services other than dental practitioners[^key-fb927fba0bd8cbe69172f265856534a1]
+#### 26. Conditions for employment and engagement: persons performing dental services other than dental practitioners[^c-fb927fba0bd8cbe69172f265856534a1]
 
 (1) The contractor will not employ or engage a dental care professional to perform dental services unless it has taken reasonable steps to satisfy itself that he or she has the clinical experience and training necessary to enable him or her to properly perform dental services and—
 
@@ -433,7 +433,7 @@ is subject to conditions, the contractor will ensure compliance with those condi
 - (a) any post-graduate or post-registration qualification held by that person; and
 - (b) any relevant training undertaken by him or her and any relevant clinical experience gained by him or her.
 
-#### 27. Conditions for employment and engagement: all persons performing dental services[^key-5d2dcbec3b3352b98597415815972235]
+#### 27. Conditions for employment and engagement: all persons performing dental services[^c-5d2dcbec3b3352b98597415815972235]
 
 (1) The contractor will not employ or engage a person to perform dental services under the agreement unless—
 
@@ -444,7 +444,7 @@ is subject to conditions, the contractor will ensure compliance with those condi
 
 (3) Where the contractor employs or engages the same person on more than one occasion within a period of three months, it may rely on the references provided on the first occasion, provided that those references are not more than twelve months old.
 
-#### 28. Conditions for employment or engagement: persons assisting in the provision of services under the agreement[^key-13172684a1a396142f7bce223184b77f]
+#### 28. Conditions for employment or engagement: persons assisting in the provision of services under the agreement[^c-13172684a1a396142f7bce223184b77f]
 
 (1) Before employing or engaging any person to assist it in the provision of services under the agreement, the contractor will take reasonable care to satisfy itself that the person in question is both suitably qualified and competent to discharge the duties for which he or she is to be employed or engaged.
 
@@ -456,7 +456,7 @@ is subject to conditions, the contractor will ensure compliance with those condi
 - (b) his or her education and training; and
 - (c) his or her previous employment or work experience.
 
-#### 29. Training[^key-5c26bcad5376e1cef54f5af63b0d4333]
+#### 29. Training[^c-5c26bcad5376e1cef54f5af63b0d4333]
 
 (1) The contractor will ensure that for any dental practitioner or dental care professional who is—
 
@@ -467,18 +467,18 @@ arrangements are in place for the purpose of maintaining and updating his or her
 
 (2) The contractor will afford to each employee reasonable opportunities to undertake appropriate training with a view to maintaining that employee’s competence.
 
-#### 30. Level of skill[^key-47b125ce8e1b427274d53dd600a4f7ae]
+#### 30. Level of skill[^c-47b125ce8e1b427274d53dd600a4f7ae]
 
 The contractor will carry out its obligations under the agreement with reasonable care and skill.
 
-#### 31. Appraisal and assessment[^key-8e61fc66fbcdc35d59c02bb62e4c6d0f]
+#### 31. Appraisal and assessment[^c-8e61fc66fbcdc35d59c02bb62e4c6d0f]
 
 The contractor will ensure that any dental practitioner performing services under the agreement—
 
 - (a) participates in the appraisal system (if any) provided by the Relevant Body or where the contractor is a Local Health Board, by it, unless he or she participates in the appraisal system provided by another health service body; and
-- (b) co-operates with an assessment by the NHSLA[^key-2af8e03bbfa01bd17ac74cefb78f5ca4] when requested to do so by the Relevant Body, or where the contractor is a Local Health Board, by that Board.
+- (b) co-operates with an assessment by the NHSLA[^c-2af8e03bbfa01bd17ac74cefb78f5ca4] when requested to do so by the Relevant Body, or where the contractor is a Local Health Board, by that Board.
 
-#### 32. Sub-contracting of clinical matters[^key-6c46afddc7b6f8370bfbf7a2afd439ab]
+#### 32. Sub-contracting of clinical matters[^c-6c46afddc7b6f8370bfbf7a2afd439ab]
 
 (1) The contractor will not sub-contract any of its rights or duties under the agreement to any person in relation to clinical matters unless—
 
@@ -498,7 +498,7 @@ The contractor will ensure that any dental practitioner performing services unde
 
 ### PART 5 — RECORDS, INFORMATION, NOTIFICATIONS AND RIGHTS OF ENTRY
 
-#### 33. Patient records[^key-03b745b5a9875043b3b4a6b1be6da5af]
+#### 33. Patient records[^c-03b745b5a9875043b3b4a6b1be6da5af]
 
 (1) The contractor will ensure that a full, accurate and contemporaneous record is kept in the patient record in respect of the care and treatment given to each patient under the agreement, including treatment given to a patient who is referred to the contractor.
 
@@ -523,11 +523,11 @@ The contractor will ensure that any dental practitioner performing services unde
 
 (5) Nothing in this paragraph will affect any property right which the contractor may have in relation to the records, radiographs, photographs and study models referred to in this paragraph.
 
-#### 34. Confidentiality of personal data[^key-c11dfd644df6a6629c37aee9f1a52cdb]
+#### 34. Confidentiality of personal data[^c-c11dfd644df6a6629c37aee9f1a52cdb]
 
 The contractor will nominate a person with responsibility for practices and procedures relating to the confidentiality of personal data held by it.
 
-#### 35. Patient information[^key-5a3e0853317ee5aef8c189a2f9dfc902]
+#### 35. Patient information[^c-5a3e0853317ee5aef8c189a2f9dfc902]
 
 (1) The contractor will ensure that there is displayed in a prominent position in its practice premises, in a part to which patients have access—
 
@@ -535,7 +535,7 @@ The contractor will nominate a person with responsibility for practices and proc
 - (b) such information relating to NHS Charges—
   - (i) as is supplied by the Relevant Body for the purposes of providing information to patients; or
   - (ii) in the case where the contractor is a Local Health Board, that it supplies to other contractors for this purpose; and
-- (c)[^key-0cbb9862856b98288619cf2255ff3229] information about the procedure for notifying concerns in accordance with Part 5A or, in respect of complaints made prior to 1 April 2011,, the complaints procedure which it operates in accordance with Part 6 giving, in the case of a complaint under Part 6, the name and title of the person nominated in accordance with paragraph 50(2)(a) or, in the case of a notification of a concern, the name of the person designated as the senior investigations manager under regulation 8 of the National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011.
+- (c)[^c-0cbb9862856b98288619cf2255ff3229] information about the procedure for notifying concerns in accordance with Part 5A or, in respect of complaints made prior to 1 April 2011,, the complaints procedure which it operates in accordance with Part 6 giving, in the case of a complaint under Part 6, the name and title of the person nominated in accordance with paragraph 50(2)(a) or, in the case of a notification of a concern, the name of the person designated as the senior investigations manager under regulation 8 of the National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011.
 
 (2) The contractor will—
 
@@ -545,7 +545,7 @@ The contractor will nominate a person with responsibility for practices and proc
 
 (3) The requirements in sub-paragraph (2) do not apply to any contractor to the extent that it provides services to persons detained in prison.
 
-#### 36. Provision of and access to information: the Relevant Body[^key-2906ce3da26f98fe3706c3cba6940947]
+#### 36. Provision of and access to information: the Relevant Body[^c-2906ce3da26f98fe3706c3cba6940947]
 
 (1) The contractor will, at the request of the Relevant Body—
 
@@ -561,11 +561,11 @@ the information specified in sub-paragraph (2).
 
 and includes the contractor’s patient records.
 
-#### 37. Requests for information from Community Health Councils[^key-ca3e987be2d1535786375538f00ee770]
+#### 37. Requests for information from Community Health Councils[^c-ca3e987be2d1535786375538f00ee770]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 38. Inquiries about prescriptions and referrals[^key-40828d38c4091811f0dd32698a12b58d]
+#### 38. Inquiries about prescriptions and referrals[^c-40828d38c4091811f0dd32698a12b58d]
 
 (1) A contractor will, subject to sub-paragraphs (2) and (3), sufficiently answer any inquiries whether oral or in writing from the Relevant Body concerning—
 
@@ -583,7 +583,7 @@ and includes the contractor’s patient records.
 
 appointed in either case by the Relevant Body to assist it in the exercise of its functions under this paragraph and that person produces, on request, written evidence that he or she is authorised by the Relevant Body to make such inquiry on its behalf.
 
-#### 39. Notification of a course of treatment, orthodontic course of treatment etc.[^key-fa68179f3620dcdb7ec339d993581b99]
+#### 39. Notification of a course of treatment, orthodontic course of treatment etc.[^c-fa68179f3620dcdb7ec339d993581b99]
 
 (1) Subject to paragraph (2), the contractor will, within two months of the date upon which—
 
@@ -591,10 +591,10 @@ appointed in either case by the Relevant Body to assist it in the exercise of it
 - (b) it completes a case assessment in respect of an orthodontic course of treatment that does not lead to a course of treatment;
 - (c) it provides an orthodontic appliance following a case assessment in respect of orthodontic treatment;
 - (d) it completes a course of treatment in respect of orthodontic treatment;
-- (e) [^key-dbe0b6e4686a1a01939b6c8a91943245]...a course of treatment in respect of mandatory services or additional services or orthodontic course of treatment is terminated; or
+- (e) [^c-dbe0b6e4686a1a01939b6c8a91943245]...a course of treatment in respect of mandatory services or additional services or orthodontic course of treatment is terminated; or
 - (f) in respect of courses not falling with sub-paragraph (d) or (e), no more services can be provided by virtue of paragraph 5(4)(b) of Schedule 1 (orthodontic course of treatment) or paragraph 7(4)(b) of this Schedule,
 
-send to the Relevant Body [^key-16fc1e0111d295876e5b91e655d25238]... the information specified in paragraph (3).
+send to the Relevant Body [^c-16fc1e0111d295876e5b91e655d25238]... the information specified in paragraph (3).
 
 (2) In the case where the contractor is the Local Health Board, that Board will collate the information specified in paragraph (3).
 
@@ -603,9 +603,9 @@ send to the Relevant Body [^key-16fc1e0111d295876e5b91e655d25238]... the informa
 - (a) details of the patient to whom it provides services;
 - (b) details of the services provided (including any appliances provided) to that patient;
 - (c) details of any NHS Charge payable and paid by that patient; and
-- (d)[^key-2418c8fd03eaace5ed2d985be482d5eb] in the case of a patient who is exempt from NHS charges, such details of that exemption and the basis of that exemption as the Relevant Body may reasonably request.
+- (d)[^c-2418c8fd03eaace5ed2d985be482d5eb] in the case of a patient who is exempt from NHS charges, such details of that exemption and the basis of that exemption as the Relevant Body may reasonably request.
 
-(4)[^key-b04c9b4eaa7957046bc28518ee2a7fc4] In the case of a patient to whom sub-paragraph (3)(d) applies, the contractor must also provide the Relevant Body (or a person authorised on the Relevant Body’s behalf) with the written declaration form.
+(4)[^c-b04c9b4eaa7957046bc28518ee2a7fc4] In the case of a patient to whom sub-paragraph (3)(d) applies, the contractor must also provide the Relevant Body (or a person authorised on the Relevant Body’s behalf) with the written declaration form.
 
 (5) Before 1 May 2019 the contractor may send the information required in sub-paragraph (3) to the Relevant Body either in paper form or by means of electronic submission.
 
@@ -616,7 +616,7 @@ send to the Relevant Body [^key-16fc1e0111d295876e5b91e655d25238]... the informa
 
 (7) In this paragraph, “electronic submission” means information submitted electronically via a computer system approved by the Relevant Body.
 
-#### 40. Annual report and review[^key-abd3953c8d983133264fba591a98a756]
+#### 40. Annual report and review[^c-abd3953c8d983133264fba591a98a756]
 
 (1) The Relevant Body will provide to the contractor an annual report relating to the agreement which will contain the same categories of information for all persons who hold agreements with that Body.
 
@@ -626,7 +626,7 @@ send to the Relevant Body [^key-16fc1e0111d295876e5b91e655d25238]... the informa
 
 (4) A copy of the final record referred to in sub-paragraph (3) will be sent to the contractor.
 
-#### 41. Notifications to the Relevant Body[^key-498089fbb812635a79435cf06265b72c]
+#### 41. Notifications to the Relevant Body[^c-498089fbb812635a79435cf06265b72c]
 
 (1) In addition to any requirements of notification elsewhere in these Regulations, the contractor will notify the Relevant Body in writing, as soon as reasonably practicable, of—
 
@@ -642,7 +642,7 @@ send to the Relevant Body [^key-16fc1e0111d295876e5b91e655d25238]... the informa
 
 which will include the name of the dental practitioner who has left, or who has been employed or engaged, together with his or her professional registration number.
 
-#### 42. Notice provisions specific to an agreement with a qualifying body[^key-b944998a10289fa6d0e03af4cb6eab4b]
+#### 42. Notice provisions specific to an agreement with a qualifying body[^c-b944998a10289fa6d0e03af4cb6eab4b]
 
 Where a qualifying body is a party to the agreement, it will give notice in writing to the Relevant Body forthwith when—
 
@@ -651,11 +651,11 @@ Where a qualifying body is a party to the agreement, it will give notice in writ
 - (c) circumstances arise which would enable the court to make a winding up order in respect of the contractor; or
 - (d) the contractor is unable to pay its debts within the meaning of section 123 of the Insolvency Act 1986[^f00060] (definition of inability to pay debts).
 
-#### 43. Notifications to patients following a variation of the agreement[^key-2995adf9ddfe7a0fa495475bcdeedff7]
+#### 43. Notifications to patients following a variation of the agreement[^c-2995adf9ddfe7a0fa495475bcdeedff7]
 
 Where the agreement is varied in accordance with Part 9 of this Schedule and, as a result of that variation there is to be a change in the range of services provided by the contractor, the contractor will ensure that there is displayed in a prominent position in its practice premises, in a part to which patients have access, written details of that change.
 
-#### 44. Entry and inspection by the Relevant Body[^key-480e139bfffad8c1da988dea41afaf5c]
+#### 44. Entry and inspection by the Relevant Body[^c-480e139bfffad8c1da988dea41afaf5c]
 
 (1) Subject to—
 
@@ -670,22 +670,22 @@ the contractor will allow persons authorised in writing by the Relevant Body to 
 - (b) written evidence of the authority of the person seeking entry is produced to the contractor on request; and
 - (c) entry is not made to any premises or part of the premises used as residential accommodation without the consent of the resident.
 
-(3) Where the contractor is providing services under the agreement in a prison, the contractor will not be obliged to comply with sub-paragraph (1), or paragraph [^key-4c9e7e861376f918fb2f71dd024bf8c9]... 46, if—
+(3) Where the contractor is providing services under the agreement in a prison, the contractor will not be obliged to comply with sub-paragraph (1), or paragraph [^c-4c9e7e861376f918fb2f71dd024bf8c9]... 46, if—
 
-- (a) the contractor has used its best endeavours to allow the Relevant Body, [^key-4c9e7e861376f918fb2f71dd024bf8c9]...[^key-70081675c300620740de44650554ede2]... or the Assembly to enter and inspect the practice premises; but
+- (a) the contractor has used its best endeavours to allow the Relevant Body, [^c-4c9e7e861376f918fb2f71dd024bf8c9]...[^c-70081675c300620740de44650554ede2]... or the Assembly to enter and inspect the practice premises; but
 - (b) entry and inspection has been prevented by the prison authorities despite the contractor’s best endeavours.
 
 (4) In this paragraph “practice premises” includes a mobile surgery.
 
-#### 45. Entry and inspection by members of Community Health Councils[^key-0d39e0663e7b2c0f31d7371a9cc661cc]
+#### 45. Entry and inspection by members of Community Health Councils[^c-0d39e0663e7b2c0f31d7371a9cc661cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 46. Entry and inspection by the Welsh Ministers[^key-caef76c4aa9bdce8f86703c819e925eb][^key-42088fd09720af9201cd3f6e5e057b57]
+#### 46. Entry and inspection by the Welsh Ministers[^c-caef76c4aa9bdce8f86703c819e925eb][^c-42088fd09720af9201cd3f6e5e057b57]
 
 Subject to paragraph 44(3), the contractor will allow persons authorised by the Welsh Ministers to enter and inspect premises in accordance with section 72 of the Health and Social Care (Community Health and Standards) Act 2003 (right of entry).
 
-### Part 5A — Concerns Notified On or After 1 April 2011[^key-7f30450f2c2c8d1e8ea15d48e41f8faa]
+### Part 5A — Concerns Notified On or After 1 April 2011[^c-7f30450f2c2c8d1e8ea15d48e41f8faa]
 
 **46A.**  
 
@@ -693,9 +693,9 @@ The contractor must establish and operate arrangements which meet the requiremen
 
 ### PART 6 — COMPLAINTS
 
-#### 47. Complaints received prior to 1 April 2011[^key-cde96eb291f1db585b1cb678c8847983][^key-bca2ff660bf8bc0a86bbc9bae43635a5]
+#### 47. Complaints received prior to 1 April 2011[^c-cde96eb291f1db585b1cb678c8847983][^c-bca2ff660bf8bc0a86bbc9bae43635a5]
 
-(1) As regards complaints relating to any matter reasonably connected with the provision of services under the agreement which are received before 1 April 2011, the contractor must operate a complaints procedure[^key-0805ebf9a902a11119faed1fa70c97b5] which will comply—
+(1) As regards complaints relating to any matter reasonably connected with the provision of services under the agreement which are received before 1 April 2011, the contractor must operate a complaints procedure[^c-0805ebf9a902a11119faed1fa70c97b5] which will comply—
 
 - (a) subject to sub-paragraph (b), with the requirements of paragraphs 48 to 50 and 52; or
 - (b) in the case where the contractor is a Local Health Board, with any directions made under section 16BB(4) of the Act.
@@ -708,7 +708,7 @@ The contractor must establish and operate arrangements which meet the requiremen
 
 (3) The contractor will take reasonable steps to ensure that the complaints procedure is accessible to all patients.
 
-#### 48. Making of complaints[^key-dd7e59998c8895c29352c9130c0be061]
+#### 48. Making of complaints[^c-dd7e59998c8895c29352c9130c0be061]
 
 A complaint may be made by or, with his or her consent, on behalf of a patient or former patient, who is receiving or has received services under the agreement, or—
 
@@ -720,7 +720,7 @@ A complaint may be made by or, with his or her consent, on behalf of a patient o
 
 (2) Where a patient has died, a complaint may be made by a relative or other adult person who had an interest in his or her welfare or, where the patient falls within paragraph 48 (a)(ii) or (iii), by the authority or a voluntary organisation.
 
-#### 49. Period for making complaints[^key-507e27a87edfeb2595b0b043fc7c7794]
+#### 49. Period for making complaints[^c-507e27a87edfeb2595b0b043fc7c7794]
 
 (1) Subject to sub-paragraph (2), the period for making a complaint is—
 
@@ -734,7 +734,7 @@ A complaint may be made by or, with his or her consent, on behalf of a patient o
 
 the complaint will be treated as if it had been received during the period specified in sub-paragraph (1).
 
-#### 50. Further requirements for complaints procedures[^key-7ab0b0f0054e54195e1a548cae41eb2c]
+#### 50. Further requirements for complaints procedures[^c-7ab0b0f0054e54195e1a548cae41eb2c]
 
 (1) A complaints procedure will also comply with the requirements set out in sub-paragraphs (2) to (6).
 
@@ -755,25 +755,25 @@ the complaint will be treated as if it had been received during the period speci
 
 (6) The contractor must keep a record of all complaints and copies of all correspondence relating to complaints for a period of at least two years from the date on which such complaints were made, but such records will be kept separate from the patients' dental records.
 
-#### 51. Co-operation with investigations[^key-2281ae54abf9afd3978d4852bf281a37]
+#### 51. Co-operation with investigations[^c-2281ae54abf9afd3978d4852bf281a37]
 
 (1) The contractor (other than a Local Health Board) will co-operate with—
 
-- (a) any investigation of a complaint or concern notified in accordance with the National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011[^key-43fe8d7acadaa9ac76ffcbb31091c8fd] in relation to any matter reasonably connected with the provision of services under the agreement undertaken by—
+- (a) any investigation of a complaint or concern notified in accordance with the National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011[^c-43fe8d7acadaa9ac76ffcbb31091c8fd] in relation to any matter reasonably connected with the provision of services under the agreement undertaken by—
   - (i) the Relevant Body, and
-  - (ii)[^key-58bae35957efbe55863c9228ace7894e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iii)[^key-3996d202fc131ed15221c7213cbe692f] the Welsh Ministers; and
+  - (ii)[^c-58bae35957efbe55863c9228ace7894e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-3996d202fc131ed15221c7213cbe692f] the Welsh Ministers; and
   - (iv) the Public Services Ombudsman for Wales;
 - (b) any investigation of a complaint or concern notified in accordance with the National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 by an NHS body or local authority which relates to a patient or former patient of the contractor.
 
 (2) In sub-paragraph (1)—
 
-- “NHS body” means a Local Health Board, an NHS trust, an NHS foundation trust, an integrated care board[^key-d4575cd5137ae99b53d0dcd026f06404][^key-3efba7b092edb5e272d6a012720f082f], NHS England[^key-7ddaf7db37cd7a73da09227d1edc789b], or an equivalent body constituted in Scotland or Northern Ireland;
+- “NHS body” means a Local Health Board, an NHS trust, an NHS foundation trust, an integrated care board[^c-d4575cd5137ae99b53d0dcd026f06404][^c-3efba7b092edb5e272d6a012720f082f], NHS England[^c-7ddaf7db37cd7a73da09227d1edc789b], or an equivalent body constituted in Scotland or Northern Ireland;
 - “local authority” means—
   - (a) any of the bodies listed in section 1 of the Local Authority Social Services Act 1970[^f00065] (local authorities),
-  - (b) the Council of the Isles of Scilly, [^key-fc39b1d7bbddfd8fd41bbbd0a8f46090]...
-  - (c) a council constituted under section 2 of the Local Government etc, (Scotland) Act 1994[^f00066] (constitution of councils) , or[^key-2877fa8f1a780ebfc1041ecb0d26d389]
-  - (d) the council of a county or county borough in Wales.[^key-c184acafa011b3d8e84127d0dd47e0ae]
+  - (b) the Council of the Isles of Scilly, [^c-fc39b1d7bbddfd8fd41bbbd0a8f46090]...
+  - (c) a council constituted under section 2 of the Local Government etc, (Scotland) Act 1994[^f00066] (constitution of councils) , or[^c-2877fa8f1a780ebfc1041ecb0d26d389]
+  - (d) the council of a county or county borough in Wales.[^c-c184acafa011b3d8e84127d0dd47e0ae]
 
 (3) The co-operation required by sub-paragraph (1) includes—
 
@@ -781,19 +781,19 @@ the complaint will be treated as if it had been received during the period speci
 - (b) providing any information relating to the complaint or concern notified in accordance with the National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 reasonably required by the Relevant Body; and
 - (c) attending any meeting to consider the complaint or concern notified in accordance with the National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (if held at a reasonably accessible place and at a reasonable hour, and due notice has been given) if the contractor’s presence at the meeting is reasonably required by the Relevant Body.
 
-#### 52. Provision of information[^key-daa29bd6648e75cb2e1bc5d70d07a8c3]
+#### 52. Provision of information[^c-daa29bd6648e75cb2e1bc5d70d07a8c3]
 
 The contractor (other than a Local Health Board) will inform the Relevant Body, at such intervals as the Relevant Body requires, of the number of complaints it has received under the procedure established in accordance with this Part.
 
 ### PART 7 — DISPUTE RESOLUTION
 
-#### 53. Local resolution of agreement disputes[^key-1c479be0572225d710ee5104977cfca2]
+#### 53. Local resolution of agreement disputes[^c-1c479be0572225d710ee5104977cfca2]
 
 In the case of any dispute arising out of, or in connection with the agreement, the contractor and the Relevant Body must make every reasonable effort to communicate and co-operate with each other with a view to resolving the dispute, before referring the dispute for determination in accordance with the NHS dispute resolution procedure (or, where applicable, before commencing court proceedings).
 
-#### 54. Dispute resolution: non-NHS contracts[^key-6c43a5b4ef502552f35f31fe22af23f2]
+#### 54. Dispute resolution: non-NHS contracts[^c-6c43a5b4ef502552f35f31fe22af23f2]
 
-(1)[^key-9c3ece74f41427977fcea2f57482abb1] In the case of a contract that is not an NHS contract, any dispute arising out of or in connection with the contract, except matters dealt with under the procedures for notifying concerns or making complaints pursuant to Parts 5A or 6 of this Schedule, may be referred for consideration and determination to the Assembly—
+(1)[^c-9c3ece74f41427977fcea2f57482abb1] In the case of a contract that is not an NHS contract, any dispute arising out of or in connection with the contract, except matters dealt with under the procedures for notifying concerns or making complaints pursuant to Parts 5A or 6 of this Schedule, may be referred for consideration and determination to the Assembly—
 
 - (a) if it relates to a period when the contractor was a health service body, by the contractor or by the Local Health Board; or
 - (b) in any other case, by the contractor or, if the contractor agrees in writing, by the Local Health Board.
@@ -803,7 +803,7 @@ In the case of any dispute arising out of, or in connection with the agreement, 
 - (a) the procedure to be followed is the NHS dispute resolution procedure; and
 - (b) the parties agree to be bound by any determination made by the adjudicator.
 
-#### 55. NHS dispute resolution procedure[^key-b63ad56a68217050324710671d62ddb7]
+#### 55. NHS dispute resolution procedure[^c-b63ad56a68217050324710671d62ddb7]
 
 (1) The procedure specified in the following sub-paragraphs and paragraph 56 applies in the case of any dispute arising out of or in connection with the agreement which is referred to the Assembly—
 
@@ -850,13 +850,13 @@ In the case of any dispute arising out of, or in connection with the agreement, 
 
 (13) Subject to the other provisions of this paragraph and paragraph 56, the adjudicator will have wide discretion in determining the procedure of the dispute resolution to ensure the just, expeditious, economical and final determination of the dispute.
 
-#### 56. Determination of dispute[^key-ebdc366c97c610bef09704825a11208e]
+#### 56. Determination of dispute[^c-ebdc366c97c610bef09704825a11208e]
 
 (1) The adjudicator will record its determination and the reasons for it, in writing and will give notice of the determination (including the record of the reasons) to the parties.
 
 (2) In the case of any dispute referred for determination in accordance with paragraph 54(1), subsection (8) of section 4 of the 1990 Act will apply as that subsection applies in the case of any dispute referred for determination in accordance with subsection (3) of section 4 of that Act.
 
-#### 57. Interpretation of Part 7[^key-3025828ef09647623102ed0ac4e7b16a]
+#### 57. Interpretation of Part 7[^c-3025828ef09647623102ed0ac4e7b16a]
 
 (1) In this Part, “any dispute arising out of or in connection with the agreement” includes any dispute arising out of, or in connection with, the termination of the agreement.
 
@@ -864,7 +864,7 @@ In the case of any dispute arising out of, or in connection with the agreement, 
 
 ### PART 8 — MID-YEAR REVIEW OF ACTIVITY UNDER AGREEMENTS
 
-#### 58. Mid-year reviews[^key-d14549c283902349be91e60cf63c3ac8]
+#### 58. Mid-year reviews[^c-d14549c283902349be91e60cf63c3ac8]
 
 (1) This paragraph and paragraph 59 apply where services are to be provided under the agreement from 1 April in any financial year.
 
@@ -900,7 +900,7 @@ that it is required to provide in that financial year, sub-paragraph (5) will ap
 
 (8) A copy of the final record of the mid-year review will be sent to the contractor.
 
-#### 59. Action the Relevant Body can take following a mid-year review[^key-29584edad6d47295f4a96789ee9eed11]
+#### 59. Action the Relevant Body can take following a mid-year review[^c-29584edad6d47295f4a96789ee9eed11]
 
 (1) Where, following the mid-year review and the provision of the final record of that review to the contractor, the Relevant Body, having taken account of any evidence or reasons put forward by the contractor at that review, nevertheless has serious concerns that the contractor is unlikely to provide the number of—
 
@@ -931,7 +931,7 @@ that it is required to provide by the end of the financial year, the Relevant Bo
 
 ### PART 9 — VARIATION AND TERMINATION OF AGREEMENTS
 
-**60.**[^key-a0cf2682de78beb14a906f2f0528bb23] (1) Subject to paragraph 32(3), no amendment or variation will have effect unless it is in writing and signed by or on behalf of the Relevant Body and the contractor.
+**60.**[^c-a0cf2682de78beb14a906f2f0528bb23] (1) Subject to paragraph 32(3), no amendment or variation will have effect unless it is in writing and signed by or on behalf of the Relevant Body and the contractor.
 
 (2) In addition to the specific provision made in paragraph 73, the Relevant Body may vary the agreement without the contractor’s consent where it—
 
@@ -940,7 +940,7 @@ that it is required to provide by the end of the financial year, the Relevant Bo
 
 and, where it is reasonably practicable to do so, the date that the proposed variation is to take effect will be not less than 14 days after the date on which the notice under paragraph (b) is served on the contractor.
 
-#### 61. Variation of an agreement: activity under the agreement[^key-5c4854e2eb8305dbb428c27095ad6e8d]
+#### 61. Variation of an agreement: activity under the agreement[^c-5c4854e2eb8305dbb428c27095ad6e8d]
 
 (1) Where the contractor or the Relevant Body is of the opinion that there needs to be a variation to the number of—
 
@@ -958,22 +958,22 @@ to be provided under the agreement, sub-paragraphs (2) and (3) will apply.
 
 and any related variations to the agreement, including to the monies to be paid to the contractor under the agreement, and will, where appropriate, effect the variation in accordance with paragraph 60.
 
-#### 62. Termination by agreement[^key-fe865d71901027e2b62b5ab759b4ea4a]
+#### 62. Termination by agreement[^c-fe865d71901027e2b62b5ab759b4ea4a]
 
 The Relevant Body and the contractor may agree in writing to terminate the agreement, and if the parties so agree, they will agree the date upon which that termination should take effect and any further terms upon which the agreement should be terminated.
 
-#### 63. Termination on the death of an individual[^key-a68bce705d7990acfaa88dbe9ff7c757]
+#### 63. Termination on the death of an individual[^c-a68bce705d7990acfaa88dbe9ff7c757]
 
-(1) Where the agreement is with a single individual and that individual dies, the agreement will terminate at the end of the period of 28 days[^key-2a706b1ee0a80b74349e3f1438b7990d] after the date of his or her death unless, before the end of that period—
+(1) Where the agreement is with a single individual and that individual dies, the agreement will terminate at the end of the period of 28 days[^c-2a706b1ee0a80b74349e3f1438b7990d] after the date of his or her death unless, before the end of that period—
 
-- (a) subject to sub-paragraph (2), the Relevant Body has agreed in writing with that individual’s personal representatives that the agreement should continue for a further period, not exceeding six months[^key-7329893f1269b8f4ec014378f9e44dc9] after the end of the period of seven days; and
+- (a) subject to sub-paragraph (2), the Relevant Body has agreed in writing with that individual’s personal representatives that the agreement should continue for a further period, not exceeding six months[^c-7329893f1269b8f4ec014378f9e44dc9] after the end of the period of seven days; and
 - (b) that individual’s personal representatives have confirmed in writing to the Relevant Body that they are employing or engaging one or more dental practitioners to assist in the provision of dental services under the agreement throughout the period for which it continues.
 
-(2) Where the Relevant Body is of the opinion that another individual may wish to enter into an agreement in respect the mandatory services which were provided by the deceased, the six months period referred to in sub-paragraph (1)(a)[^key-b5cb2824e3e0d9fcc525ba1796037f5f] may be extended by a period not exceeding six months as may be agreed.
+(2) Where the Relevant Body is of the opinion that another individual may wish to enter into an agreement in respect the mandatory services which were provided by the deceased, the six months period referred to in sub-paragraph (1)(a)[^c-b5cb2824e3e0d9fcc525ba1796037f5f] may be extended by a period not exceeding six months as may be agreed.
 
 (3) Sub-paragraph (1) does not affect any other rights to terminate the agreement which the Relevant Body may have under paragraphs 67 to 71.
 
-#### 64. Termination by the contractor[^key-334e48e085252aef45386ac645eb329d]
+#### 64. Termination by the contractor[^c-334e48e085252aef45386ac645eb329d]
 
 (1) A contractor may terminate the agreement by serving notice in writing on the Relevant Body at any time.
 
@@ -981,7 +981,7 @@ The Relevant Body and the contractor may agree in writing to terminate the agree
 
 (3) This paragraph and paragraph 65 are without prejudice to any other rights to terminate the agreement that the contractor may have.
 
-#### 65. Late payment notices[^key-20410321cbb5eba4785c131723999a84]
+#### 65. Late payment notices[^c-20410321cbb5eba4785c131723999a84]
 
 (1) The contractor may give notice in writing (a “late payment notice”) to the Relevant Body if the Relevant Body has failed to make any payments due to the contractor in accordance with a term of the agreement that has the effect specified in regulation 17 (finance), and the contractor will specify in the late payment notice the payments that the Relevant Body has failed to make in accordance with that regulation.
 
@@ -993,21 +993,21 @@ The Relevant Body and the contractor may agree in writing to terminate the agree
 - (b) the Relevant Body ceases to pursue the NHS dispute resolution procedure;
 - (c) whichever is the sooner.
 
-#### 66. Termination by the Relevant Body: general provisions[^key-1c01176f7193898d5d5f3f2ad635cb20]
+#### 66. Termination by the Relevant Body: general provisions[^c-1c01176f7193898d5d5f3f2ad635cb20]
 
 The Relevant Body may only terminate the agreement in accordance with the provisions in this Part.
 
-#### 67. Termination by the Relevant Body: notice[^key-5b975cca19dc442652a2aaff8b7bfa3c]
+#### 67. Termination by the Relevant Body: notice[^c-5b975cca19dc442652a2aaff8b7bfa3c]
 
 (1) The Relevant Body may terminate the agreement by serving notice in writing on the contractor at any time.
 
 (2) Where a notice is served pursuant to sub-paragraph (1), the agreement will terminate on the date provided for in the agreement.
 
-#### 68. Termination by the Relevant Body for the provision of untrue etc. information[^key-146e0021f58e63924ca5bd35711edfdd]
+#### 68. Termination by the Relevant Body for the provision of untrue etc. information[^c-146e0021f58e63924ca5bd35711edfdd]
 
 The Relevant Body may serve notice in writing on the contractor terminating the agreement forthwith, or from such date as may be specified in the notice if, after the agreement has been entered into, it comes to the attention of the Relevant Body that written information provided to it by the contractor before the agreement was entered into in relation to the conditions set out in regulation 4 or 5 (and compliance with those conditions) was, when given, untrue or inaccurate in a material respect.
 
-#### 69. Termination by the Relevant Body on grounds of suitability etc[^key-212e43b7ebe07f159b0424a7ab12c5ef]
+#### 69. Termination by the Relevant Body on grounds of suitability etc[^c-212e43b7ebe07f159b0424a7ab12c5ef]
 
 (1) The Relevant Body may serve notice in writing on the contractor terminating the agreement forthwith, or from such date as may be specified in the notice if—
 
@@ -1032,8 +1032,8 @@ The Relevant Body may serve notice in writing on the contractor terminating the 
   - (ii) committed on or after 26 August 2002, which would if committed in England and Wales, constitute a criminal offence other than murder, and been sentenced to a term of imprisonment of over six months;
 - (g) he or she has been convicted of an offence referred to in Schedule 1 to the Children and Young Persons Act 1933[^f00069] (offences against children and young persons with respect to which special provisions of this Act apply) or Schedule 1 to the Criminal Procedure (Scotland) Act 1995[^f00070] (offences against children under the age of 17 years to which special provisions apply);
 - (h) he, she or it has—
-  - (i) been made[^key-03c312f0932c17b67db9ece7cb9363c9] bankrupt or had sequestration of his or her estate awarded or he or she is a person in relation to whom a moratorium period under debt relief order (under Part 7A of the Insolvency Act 1986) applies[^key-0ed342b6b4a875ab99f0eab5ce8328b4] unless [^key-9a5ecfc239426dcda28a9dcfb6e57d05]... he or she has been discharged from the bankruptcy or sequestration[^key-8ca6e65f299008b8e108bbe2cb746e82] or the bankruptcy order has been annulled,
-  - (ii) been made the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A , or a debt relief restrictions order or interim debt relief restrictions order under Schedule 4ZB,[^key-2a60d127b631b16ee9efa802aa574088] to the Insolvency Act 1986[^f00071], unless that order has ceased to have effect or has been annulled,
+  - (i) been made[^c-03c312f0932c17b67db9ece7cb9363c9] bankrupt or had sequestration of his or her estate awarded or he or she is a person in relation to whom a moratorium period under debt relief order (under Part 7A of the Insolvency Act 1986) applies[^c-0ed342b6b4a875ab99f0eab5ce8328b4] unless [^c-9a5ecfc239426dcda28a9dcfb6e57d05]... he or she has been discharged from the bankruptcy or sequestration[^c-8ca6e65f299008b8e108bbe2cb746e82] or the bankruptcy order has been annulled,
+  - (ii) been made the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A , or a debt relief restrictions order or interim debt relief restrictions order under Schedule 4ZB,[^c-2a60d127b631b16ee9efa802aa574088] to the Insolvency Act 1986[^f00071], unless that order has ceased to have effect or has been annulled,
   - (iii) made a composition or arrangement with, or granted a trust deed for, his, her or its creditors unless he, she or it has been discharged in respect of it, or
   - (iv) been wound up under Part IV of the Insolvency Act 1986;
 - (i) there is—
@@ -1062,16 +1062,16 @@ and the Relevant Body may only terminate the agreement at the end of the period 
 - (a) a contractor;
 - (b) in the case of an agreement with a qualifying body, a director, chief executive or secretary of that qualifying body.
 
-(6)[^key-9604b6c16631aacb01df0f2fceecd053] In this paragraph “**health service body**” includes a Strategic Health Authority and a Primary Care Trust.
+(6)[^c-9604b6c16631aacb01df0f2fceecd053] In this paragraph “**health service body**” includes a Strategic Health Authority and a Primary Care Trust.
 
-#### 70. Termination by the Relevant Body: patient safety and material financial loss[^key-7059911dd10d563498a4c6d55fa71b36]
+#### 70. Termination by the Relevant Body: patient safety and material financial loss[^c-7059911dd10d563498a4c6d55fa71b36]
 
 The Relevant Body may serve notice in writing on the contractor terminating the agreement forthwith or with effect from such date as may be specified in the notice if—
 
 - (a) the contractor has breached the agreement and as a result of that breach, the safety of the contractor’s patients is at serious risk if the agreement is not terminated; or
 - (b) the contractor’s financial situation is such that the Relevant Body considers that the Relevant Body is at risk of material financial loss.
 
-#### 71. Termination by the Relevant Body: remedial notices and breach notices[^key-05bf8edaa92e1354acfa34631afd2fc8]
+#### 71. Termination by the Relevant Body: remedial notices and breach notices[^c-05bf8edaa92e1354acfa34631afd2fc8]
 
 (1) Where a contractor has breached the agreement other than as specified in paragraphs 68 to 70 and the breach is capable of remedy, the Relevant Body will, before taking any action it is otherwise entitled to take by virtue of the agreement, serve a notice on the contractor requiring it to remedy the breach (“remedial notice”).
 
@@ -1103,7 +1103,7 @@ the Relevant Body may serve notice on the contractor terminating the agreement w
 
 (8) If the contractor is in breach of any obligation and a breach notice or a remedial notice in respect of that default has been given to the contractor, the Relevant Body may withhold or deduct monies which would otherwise be payable under the agreement in respect of that obligation which is the subject of the default.
 
-#### 72. Termination by the Relevant Body: additional provisions specific to contracts with qualifying bodies[^key-ca26736e77633068b1ba2459d000dcfa]
+#### 72. Termination by the Relevant Body: additional provisions specific to contracts with qualifying bodies[^c-ca26736e77633068b1ba2459d000dcfa]
 
 (1) Where a party to the agreement is a qualifying body, if the Relevant Body becomes aware that the qualifying body is carrying on any business which the Relevant Body considers to be detrimental to the contractor’s performance of its obligations under the agreement—
 
@@ -1118,7 +1118,7 @@ the Relevant Body may serve notice on the contractor terminating the agreement w
 
 the Relevant Body may, by written notice, terminate the agreement if it considers that as a consequence the qualifying body is no longer suitable to be a contractor.
 
-#### 73. Agreement sanctions[^key-9958b2e8f6c12cf1df262c86dd274a27]
+#### 73. Agreement sanctions[^c-9958b2e8f6c12cf1df262c86dd274a27]
 
 (1) In this paragraph and paragraph 74, “agreement sanction” means—
 
@@ -1137,7 +1137,7 @@ the Relevant Body may, by written notice, terminate the agreement if it consider
 
 (5) Where the Relevant Body imposes an agreement sanction, it will be entitled to charge the contractor the reasonable costs of additional administration that the Relevant Body has incurred in order to impose, or as a result of imposing, the agreement sanction.
 
-#### 74. Agreement sanctions and the NHS dispute resolution procedure[^key-7e299ed03059282a0a4a9444df8d4218]
+#### 74. Agreement sanctions and the NHS dispute resolution procedure[^c-7e299ed03059282a0a4a9444df8d4218]
 
 (1) If there is a dispute between the Relevant Body and the contractor in relation to an agreement sanction that the Relevant Body is proposing to impose, the Relevant Body will not, subject to sub-paragraph (4), impose the proposed agreement sanction except in the circumstances specified in sub-paragraph (2).
 
@@ -1157,7 +1157,7 @@ whichever is the sooner.
 
 the Relevant Body will be entitled to impose the agreement sanction forthwith, pending the outcome of that procedure.
 
-#### 75. Termination and the NHS dispute resolution procedure[^key-0df7505b9152ea895e0b38216d4680e9]
+#### 75. Termination and the NHS dispute resolution procedure[^c-0df7505b9152ea895e0b38216d4680e9]
 
 (1) Where the Relevant Body is entitled to serve written notice on the contractor terminating the agreement pursuant to paragraph 68, 69, 70, 71(4), 71(6) or 72, it will, in the notice served on the contractor pursuant to those provisions, specify a date on which the agreement terminates that is not less than twenty eight days after the date on which the Relevant Body has served that notice on the contractor unless sub-paragraph (2) applies.
 
@@ -1190,7 +1190,7 @@ sub-paragraphs (3) and (4) will not apply and the Relevant Body will be entitled
 
 ### PART 10 — MISCELLANEOUS
 
-#### 76. Evidence of exemption under the Act[^key-39b5aa03b4dce4aad609c2688a0e5ec9]
+#### 76. Evidence of exemption under the Act[^c-39b5aa03b4dce4aad609c2688a0e5ec9]
 
 (1) Subject to sub-paragraph (2), the contractor will ensure that it requests, in respect of a person who makes a declaration relating to exemption under paragraph 1(1) of Schedule 12ZA to the Act evidence in support of that declaration.
 
@@ -1201,7 +1201,7 @@ sub-paragraphs (3) and (4) will not apply and the Relevant Body will be entitled
 
 (3) Sub-paragraphs (1) and (2) do not apply where the contractor is satisfied that the person in respect of whom the declaration is made is under the age of 18 years.
 
-#### 77. Clinical governance arrangements[^key-166b48a3a840210c20722b56faaeea3f]
+#### 77. Clinical governance arrangements[^c-166b48a3a840210c20722b56faaeea3f]
 
 (1) Subject to paragraph (2), the contractor will co-operate with such clinical governance arrangements as the Relevant Body may establish in respect of contractors providing services under an agreement.
 
@@ -1211,7 +1211,7 @@ sub-paragraphs (3) and (4) will not apply and the Relevant Body will be entitled
 
 (4) In this paragraph, “clinical governance arrangements” means arrangements through which the contractor endeavours to continuously improve the quality of its services and safeguard high standards of care by creating an environment in which clinical excellence can flourish.
 
-#### 78. Quality assurance system[^key-8ded6c6bdc4673e4772755528ded3c05]
+#### 78. Quality assurance system[^c-8ded6c6bdc4673e4772755528ded3c05]
 
 (1) The contractor will establish, and operate a practice based quality assurance system which is applicable to all persons specified in sub-paragraph (2).
 
@@ -1229,25 +1229,25 @@ sub-paragraphs (3) and (4) will not apply and the Relevant Body will be entitled
 - (c) all legal requirements relating to radiological protection are satisfied; and
 - (d) any requirements of the General Dental Council in respect of the continuing professional development of dental practitioners are satisfied.
 
-#### 79. Insurance: negligent performance[^key-2914c9932ca54b1da8c481c0f28667ab]
+#### 79. Insurance: negligent performance[^c-2914c9932ca54b1da8c481c0f28667ab]
 
-(1) The contractor will at all times have in force in relation to it an indemnity arrangement which provides appropriate cover[^key-095dd7005e3be2c894b2b7c56f729790].
+(1) The contractor will at all times have in force in relation to it an indemnity arrangement which provides appropriate cover[^c-095dd7005e3be2c894b2b7c56f729790].
 
-(2) The contractor will not sub-contract its obligations to provide clinical services under the agreement unless it has satisfied itself that the sub-contractor has in force in relation to the sub-contractor an indemnity arrangement which provides appropriate cover[^key-771865e5a56012ae3779f0fc0da156da]
+(2) The contractor will not sub-contract its obligations to provide clinical services under the agreement unless it has satisfied itself that the sub-contractor has in force in relation to the sub-contractor an indemnity arrangement which provides appropriate cover[^c-771865e5a56012ae3779f0fc0da156da]
 
 (3) In this paragraph—
 
-- (a) **indemnity arrangement[^key-655abe67436c2c92489ff1d7f2809542]**” means a contract of insurance or other arrangement made for the purpose of indemnifying the contractor;
-- (aa)[^key-85fa7b7f42f2074c333cd11b69a82b7e] “**appropriate cover**” means cover against liabilities that may be incurred by the contractor in the performance of clinical services under the agreement, which is appropriate, having regard to the nature and extent of the risks in the performance of such services; and
-- (b) a contractor or sub-contractor will be regarded as having in force in relation to it an indemnity arrangement if there is an indemnity arrangement in force in relation to[^key-cc7ea39420857894f619e899852662ac] an employee of its in connection with clinical services which that employee provides under the agreement or, as the case may be, sub-contract.
+- (a) **indemnity arrangement[^c-655abe67436c2c92489ff1d7f2809542]**” means a contract of insurance or other arrangement made for the purpose of indemnifying the contractor;
+- (aa)[^c-85fa7b7f42f2074c333cd11b69a82b7e] “**appropriate cover**” means cover against liabilities that may be incurred by the contractor in the performance of clinical services under the agreement, which is appropriate, having regard to the nature and extent of the risks in the performance of such services; and
+- (b) a contractor or sub-contractor will be regarded as having in force in relation to it an indemnity arrangement if there is an indemnity arrangement in force in relation to[^c-cc7ea39420857894f619e899852662ac] an employee of its in connection with clinical services which that employee provides under the agreement or, as the case may be, sub-contract.
 
-#### 80. Public liability insurance[^key-da3caaa7aa085e5d520972057d4d6176]
+#### 80. Public liability insurance[^c-da3caaa7aa085e5d520972057d4d6176]
 
-(1) The contractor will at all times hold adequate public liability insurance in relation to liabilities to third parties arising under or in connection with the agreement which are not covered by an indemnity arrangement[^key-017d060d3b2dd77f6e0885fc4bc79fa6] referred to in paragraph 79(1).
+(1) The contractor will at all times hold adequate public liability insurance in relation to liabilities to third parties arising under or in connection with the agreement which are not covered by an indemnity arrangement[^c-017d060d3b2dd77f6e0885fc4bc79fa6] referred to in paragraph 79(1).
 
-(2) In this paragraph, “ indemnity arrangement[^key-1475e8def369b9edb50b7a2e7734daa7]” has the same meaning as in paragraph 79.
+(2) In this paragraph, “ indemnity arrangement[^c-1475e8def369b9edb50b7a2e7734daa7]” has the same meaning as in paragraph 79.
 
-#### 81. Gifts[^key-422474e9d4a7f4c59302f2bc29e502b5]
+#### 81. Gifts[^c-422474e9d4a7f4c59302f2bc29e502b5]
 
 (1) The contractor will keep a register of gifts which are given to any of the persons specified in sub-paragraph (2) by or on behalf of—
 
@@ -1285,7 +1285,7 @@ and have, in its reasonable opinion, an individual value of more than £100.00.
 
 (6) The contractor will make the register available to the Relevant Body on request.
 
-#### 82. Compliance with legislation and guidance[^key-64e04c4f9143aa2385843261302b5bd4]
+#### 82. Compliance with legislation and guidance[^c-64e04c4f9143aa2385843261302b5bd4]
 
 The contractor will—
 
@@ -1294,11 +1294,11 @@ The contractor will—
   - (i) the Relevant Body, or
   - (ii) the Assembly.
 
-#### 83. Third party rights[^key-5761f24845ce1ca7a0500c5a45fb6c79]
+#### 83. Third party rights[^c-5761f24845ce1ca7a0500c5a45fb6c79]
 
 The agreement will not create any right enforceable by any person not a party to it.
 
-#### 84. Signing of documents[^key-20fcc937eef797b3ab9348c9b6234fb2]
+#### 84. Signing of documents[^c-20fcc937eef797b3ab9348c9b6234fb2]
 
 (1) In addition to any other requirements relating to such documents whether in these Regulations or otherwise, the contractor will ensure that the documents specified in paragraph (2) include—
 
@@ -1313,65 +1313,65 @@ The agreement will not create any right enforceable by any person not a party to
 
 ## Annotations
 
-[^key-b177869ba2af5d87ffa73a40bd9af713]: Commencement: Sch. 3 para. 1 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-b177869ba2af5d87ffa73a40bd9af713]: Commencement: Sch. 3 para. 1 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
 [^f00050]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-d2dd789391e3423c534224b82c75591d]: Commencement: Sch. 3 para. 2 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-d2dd789391e3423c534224b82c75591d]: Commencement: Sch. 3 para. 2 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-36b7733b8013ef2c6538370f6eda0ac9]: Commencement: Sch. 3 para. 3 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-36b7733b8013ef2c6538370f6eda0ac9]: Commencement: Sch. 3 para. 3 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-bbd0681d1562afaa60cb52b04f03914e]: Commencement: Sch. 3 para. 4 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-bbd0681d1562afaa60cb52b04f03914e]: Commencement: Sch. 3 para. 4 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-72be53c9652ccc7094f7e8834e54267d]: Commencement: Sch. 3 para. 5 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-72be53c9652ccc7094f7e8834e54267d]: Commencement: Sch. 3 para. 5 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-825cd1c283aec7c4cabbec8a0349ba82]: Commencement: Sch. 3 para. 6 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-825cd1c283aec7c4cabbec8a0349ba82]: Commencement: Sch. 3 para. 6 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-6efb1d8b5cc8e31cef3c5c60d3c85931]: Commencement: Sch. 3 para. 7 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-6efb1d8b5cc8e31cef3c5c60d3c85931]: Commencement: Sch. 3 para. 7 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-0aa81bd583f6ee5980209739355eab5d]: Commencement: Sch. 3 para. 8 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-0aa81bd583f6ee5980209739355eab5d]: Commencement: Sch. 3 para. 8 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-e25a52680028fb26a58510310c8831c1]: Commencement: Sch. 3 para. 9 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-e25a52680028fb26a58510310c8831c1]: Commencement: Sch. 3 para. 9 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-f8fd31c3896a56dfebb02220287839d9]: Commencement: Sch. 3 para. 10 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-f8fd31c3896a56dfebb02220287839d9]: Commencement: Sch. 3 para. 10 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-3c3df796d9a07a9b6ac9e6de47acc934]: Commencement: Sch. 3 para. 11 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-3c3df796d9a07a9b6ac9e6de47acc934]: Commencement: Sch. 3 para. 11 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-cde032b40876f8d4982c5e87313c54b4]: Commencement: Sch. 3 para. 12 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-cde032b40876f8d4982c5e87313c54b4]: Commencement: Sch. 3 para. 12 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-9773525d081a18ac3b524ca9a1378242]: Commencement: Sch. 3 para. 13 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-9773525d081a18ac3b524ca9a1378242]: Commencement: Sch. 3 para. 13 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-ebd619ec35248308935c2370f5228b45]: Commencement: Sch. 3 para. 14 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-ebd619ec35248308935c2370f5228b45]: Commencement: Sch. 3 para. 14 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-9bc8ba21b4d1bae3463809aec0f7eef6]: Textual amendment: [Sch. 3 para. 14A](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/14A) inserted (1.3.2016) by [The National Health Service (Primary Medical Services and Primary Dental Services) (Wales) (Amendment and Transitional Provision) Regulations 2016 (S.I. 2016/90)](https://www.legislation.gov.uk/wsi/2016/90), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/90/regulation/1/1), [15](https://www.legislation.gov.uk/wsi/2016/90/regulation/15)
+[^c-9bc8ba21b4d1bae3463809aec0f7eef6]: Textual amendment: [Sch. 3 para. 14A](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/14A) inserted (1.3.2016) by [The National Health Service (Primary Medical Services and Primary Dental Services) (Wales) (Amendment and Transitional Provision) Regulations 2016 (S.I. 2016/90)](https://www.legislation.gov.uk/wsi/2016/90), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/90/regulation/1/1), [15](https://www.legislation.gov.uk/wsi/2016/90/regulation/15)
 
-[^key-79cfa7ae91348bed09651abb2a18549f]: Commencement: Sch. 3 para. 15 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-79cfa7ae91348bed09651abb2a18549f]: Commencement: Sch. 3 para. 15 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-73d65f49b19b12a0ec35e712bfdb4761]: Textual amendment: Words in [Sch. 3 para. 15](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/15) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 95(4)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/95/4/a)
+[^c-73d65f49b19b12a0ec35e712bfdb4761]: Textual amendment: Words in [Sch. 3 para. 15](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/15) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 95(4)(a)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/95/4/a)
 
 [^f00052]: Footnote: This guidance is available from NICE’s website, www.nice.org.uk.
 
-[^key-3b0586cc570487f4bf34d029498ff5ff]: Commencement: Sch. 3 para. 16 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-3b0586cc570487f4bf34d029498ff5ff]: Commencement: Sch. 3 para. 16 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-080c0e609063b9ed2b7710ba56ba8722]: Commencement: Sch. 3 para. 17 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-080c0e609063b9ed2b7710ba56ba8722]: Commencement: Sch. 3 para. 17 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
 [^f00053]: Footnote: http://www.gdc-uk.org/News+publications+and+events/Publications/Guidance+documents?Standards+for+dental+professionals.htm.
 
-[^key-df76d76c29a3893623ad236d55cadceb]: Textual amendment: [Sch. 3 para. 17A](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/17A) inserted (30.5.2019) by [The National Health Service (Welsh Language in Primary Care Services) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/917)](https://www.legislation.gov.uk/wsi/2019/917), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/917/regulation/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2019/917/regulation/4/2)
+[^c-df76d76c29a3893623ad236d55cadceb]: Textual amendment: [Sch. 3 para. 17A](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/17A) inserted (30.5.2019) by [The National Health Service (Welsh Language in Primary Care Services) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/917)](https://www.legislation.gov.uk/wsi/2019/917), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/917/regulation/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2019/917/regulation/4/2)
 
-[^key-61099c08dfbbe2214fe5e84adce84db3]: Commencement: Sch. 3 para. 18 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-61099c08dfbbe2214fe5e84adce84db3]: Commencement: Sch. 3 para. 18 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-0a5cedce6afdb2a352d28fa0eb95d87f]: Commencement: Sch. 3 para. 19 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-0a5cedce6afdb2a352d28fa0eb95d87f]: Commencement: Sch. 3 para. 19 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-c60b0d3b0e1c2721b96983015bf97539]: Commencement: Sch. 3 para. 20 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-c60b0d3b0e1c2721b96983015bf97539]: Commencement: Sch. 3 para. 20 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-3530dced9a071922977b4f38907f17c5]: Commencement: Sch. 3 para. 21 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-3530dced9a071922977b4f38907f17c5]: Commencement: Sch. 3 para. 21 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-5cf5438215b8f62af4d5b658b5dee757]: Commencement: Sch. 3 para. 22 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-5cf5438215b8f62af4d5b658b5dee757]: Commencement: Sch. 3 para. 22 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
 [^f00054]: Footnote: The term dental practitioner is defined in section 128 of the Act as a person registered in the dentists register under the Dentists Act.
 
-[^key-95f798494562fda0f3c1cf6f19073156]: Commencement: Sch. 3 para. 23 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-95f798494562fda0f3c1cf6f19073156]: Commencement: Sch. 3 para. 23 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
 [^f00055]: Footnote: Section 36A is prospectively inserted into the Dentists Act by the Dentists Act Order 2005.
 
@@ -1379,163 +1379,163 @@ The agreement will not create any right enforceable by any person not a party to
 
 [^f00057]: Footnote: Section 36B is prospectively inserted into the Dentists Act by article 29 of the Dentists Act Order.
 
-[^key-7afdd1ecf244900f7579fe3ae5ff2ae5]: Commencement: Sch. 3 para. 24 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-7afdd1ecf244900f7579fe3ae5ff2ae5]: Commencement: Sch. 3 para. 24 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-a8d11f81ae372d5d40f422e8b13f7f15]: Commencement: Sch. 3 para. 25 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-a8d11f81ae372d5d40f422e8b13f7f15]: Commencement: Sch. 3 para. 25 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-fb927fba0bd8cbe69172f265856534a1]: Commencement: Sch. 3 para. 26 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-fb927fba0bd8cbe69172f265856534a1]: Commencement: Sch. 3 para. 26 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-5d2dcbec3b3352b98597415815972235]: Commencement: Sch. 3 para. 27 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-5d2dcbec3b3352b98597415815972235]: Commencement: Sch. 3 para. 27 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-13172684a1a396142f7bce223184b77f]: Commencement: Sch. 3 para. 28 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-13172684a1a396142f7bce223184b77f]: Commencement: Sch. 3 para. 28 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-5c26bcad5376e1cef54f5af63b0d4333]: Commencement: Sch. 3 para. 29 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-5c26bcad5376e1cef54f5af63b0d4333]: Commencement: Sch. 3 para. 29 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-47b125ce8e1b427274d53dd600a4f7ae]: Commencement: Sch. 3 para. 30 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-47b125ce8e1b427274d53dd600a4f7ae]: Commencement: Sch. 3 para. 30 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-8e61fc66fbcdc35d59c02bb62e4c6d0f]: Commencement: Sch. 3 para. 31 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-8e61fc66fbcdc35d59c02bb62e4c6d0f]: Commencement: Sch. 3 para. 31 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-2af8e03bbfa01bd17ac74cefb78f5ca4]: Textual amendment: Word in [Sch. 3 para. 31(b)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/31/b) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 95(4)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/95/4/b)
+[^c-2af8e03bbfa01bd17ac74cefb78f5ca4]: Textual amendment: Word in [Sch. 3 para. 31(b)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/31/b) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 95(4)(b)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/95/4/b)
 
-[^key-6c46afddc7b6f8370bfbf7a2afd439ab]: Commencement: Sch. 3 para. 32 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-6c46afddc7b6f8370bfbf7a2afd439ab]: Commencement: Sch. 3 para. 32 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-03b745b5a9875043b3b4a6b1be6da5af]: Commencement: Sch. 3 para. 33 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-03b745b5a9875043b3b4a6b1be6da5af]: Commencement: Sch. 3 para. 33 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
 [^f00058]: Footnote: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618).
 
-[^key-c11dfd644df6a6629c37aee9f1a52cdb]: Commencement: Sch. 3 para. 34 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-c11dfd644df6a6629c37aee9f1a52cdb]: Commencement: Sch. 3 para. 34 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-5a3e0853317ee5aef8c189a2f9dfc902]: Commencement: Sch. 3 para. 35 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-5a3e0853317ee5aef8c189a2f9dfc902]: Commencement: Sch. 3 para. 35 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-0cbb9862856b98288619cf2255ff3229]: Textual amendment: [Sch. 3 para. 35(1)(c)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/35/1/c) substituted (1.4.2011) by [The National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (S.I. 2011/704)](https://www.legislation.gov.uk/wsi/2011/704), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/704/regulation/1/2), [Sch. 2 para. 5(2)(a)](https://www.legislation.gov.uk/wsi/2011/704/schedule/2/paragraph/5/2/a)
+[^c-0cbb9862856b98288619cf2255ff3229]: Textual amendment: [Sch. 3 para. 35(1)(c)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/35/1/c) substituted (1.4.2011) by [The National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (S.I. 2011/704)](https://www.legislation.gov.uk/wsi/2011/704), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/704/regulation/1/2), [Sch. 2 para. 5(2)(a)](https://www.legislation.gov.uk/wsi/2011/704/schedule/2/paragraph/5/2/a)
 
-[^key-2906ce3da26f98fe3706c3cba6940947]: Commencement: Sch. 3 para. 36 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-2906ce3da26f98fe3706c3cba6940947]: Commencement: Sch. 3 para. 36 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-ca3e987be2d1535786375538f00ee770]: Textual amendment: [Sch. 3 para. 37](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/37) omitted (1.4.2023) by virtue of [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/wsi/2023/299/regulation/8/2/a)
+[^c-ca3e987be2d1535786375538f00ee770]: Textual amendment: [Sch. 3 para. 37](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/37) omitted (1.4.2023) by virtue of [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/wsi/2023/299/regulation/8/2/a)
 
-[^key-40828d38c4091811f0dd32698a12b58d]: Commencement: Sch. 3 para. 38 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-40828d38c4091811f0dd32698a12b58d]: Commencement: Sch. 3 para. 38 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-fa68179f3620dcdb7ec339d993581b99]: Commencement: Sch. 3 para. 39 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-fa68179f3620dcdb7ec339d993581b99]: Commencement: Sch. 3 para. 39 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-dbe0b6e4686a1a01939b6c8a91943245]: Textual amendment: Words in [Sch. 3 para. 39(1)(e)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/39/1/e) omitted (1.12.2017) by virtue of [The National Health Service (General Dental Services Contracts and Personal Dental Services Agreements) (Wales) (Amendment) Regulations 2017 (S.I. 2017/1040)](https://www.legislation.gov.uk/wsi/2017/1040), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/1040/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2017/1040/regulation/4/2/a)
+[^c-dbe0b6e4686a1a01939b6c8a91943245]: Textual amendment: Words in [Sch. 3 para. 39(1)(e)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/39/1/e) omitted (1.12.2017) by virtue of [The National Health Service (General Dental Services Contracts and Personal Dental Services Agreements) (Wales) (Amendment) Regulations 2017 (S.I. 2017/1040)](https://www.legislation.gov.uk/wsi/2017/1040), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/1040/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2017/1040/regulation/4/2/a)
 
-[^key-16fc1e0111d295876e5b91e655d25238]: Textual amendment: Words in [Sch. 3 para. 39(1)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/39/1) omitted (1.12.2017) by virtue of [The National Health Service (General Dental Services Contracts and Personal Dental Services Agreements) (Wales) (Amendment) Regulations 2017 (S.I. 2017/1040)](https://www.legislation.gov.uk/uksi/2017/1040), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1040/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2017/1040/regulation/4/2/b)
+[^c-16fc1e0111d295876e5b91e655d25238]: Textual amendment: Words in [Sch. 3 para. 39(1)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/39/1) omitted (1.12.2017) by virtue of [The National Health Service (General Dental Services Contracts and Personal Dental Services Agreements) (Wales) (Amendment) Regulations 2017 (S.I. 2017/1040)](https://www.legislation.gov.uk/uksi/2017/1040), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1040/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2017/1040/regulation/4/2/b)
 
-[^key-2418c8fd03eaace5ed2d985be482d5eb]: Textual amendment: [Sch. 3 para. 39(3)(d)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/39/3/d) substituted (1.12.2017) by [The National Health Service (General Dental Services Contracts and Personal Dental Services Agreements) (Wales) (Amendment) Regulations 2017 (S.I. 2017/1040)](https://www.legislation.gov.uk/wsi/2017/1040), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/1040/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2017/1040/regulation/4/3)
+[^c-2418c8fd03eaace5ed2d985be482d5eb]: Textual amendment: [Sch. 3 para. 39(3)(d)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/39/3/d) substituted (1.12.2017) by [The National Health Service (General Dental Services Contracts and Personal Dental Services Agreements) (Wales) (Amendment) Regulations 2017 (S.I. 2017/1040)](https://www.legislation.gov.uk/wsi/2017/1040), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/1040/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2017/1040/regulation/4/3)
 
-[^key-b04c9b4eaa7957046bc28518ee2a7fc4]: Textual amendment: [Sch. 3 para. 39(4)-(7)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/39/4) inserted (1.12.2017) by [The National Health Service (General Dental Services Contracts and Personal Dental Services Agreements) (Wales) (Amendment) Regulations 2017 (S.I. 2017/1040)](https://www.legislation.gov.uk/uksi/2017/1040), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1040/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2017/1040/regulation/4/4)
+[^c-b04c9b4eaa7957046bc28518ee2a7fc4]: Textual amendment: [Sch. 3 para. 39(4)-(7)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/39/4) inserted (1.12.2017) by [The National Health Service (General Dental Services Contracts and Personal Dental Services Agreements) (Wales) (Amendment) Regulations 2017 (S.I. 2017/1040)](https://www.legislation.gov.uk/uksi/2017/1040), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1040/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2017/1040/regulation/4/4)
 
-[^key-abd3953c8d983133264fba591a98a756]: Commencement: Sch. 3 para. 40 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-abd3953c8d983133264fba591a98a756]: Commencement: Sch. 3 para. 40 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-498089fbb812635a79435cf06265b72c]: Commencement: Sch. 3 para. 41 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-498089fbb812635a79435cf06265b72c]: Commencement: Sch. 3 para. 41 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
 [^f00059]: Footnote: Section 16CA was inserted into the Act by section 170 of the 2003 Act.
 
-[^key-b944998a10289fa6d0e03af4cb6eab4b]: Commencement: Sch. 3 para. 42 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-b944998a10289fa6d0e03af4cb6eab4b]: Commencement: Sch. 3 para. 42 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
 [^f00060]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-2995adf9ddfe7a0fa495475bcdeedff7]: Commencement: Sch. 3 para. 43 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-2995adf9ddfe7a0fa495475bcdeedff7]: Commencement: Sch. 3 para. 43 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-480e139bfffad8c1da988dea41afaf5c]: Commencement: Sch. 3 para. 44 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-480e139bfffad8c1da988dea41afaf5c]: Commencement: Sch. 3 para. 44 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-4c9e7e861376f918fb2f71dd024bf8c9]: Textual amendment: Words in [Sch. 3 para. 44(3)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/44/3) omitted (1.4.2023) by virtue of [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/wsi/2023/299/regulation/8/2/b)
+[^c-4c9e7e861376f918fb2f71dd024bf8c9]: Textual amendment: Words in [Sch. 3 para. 44(3)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/44/3) omitted (1.4.2023) by virtue of [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/wsi/2023/299/regulation/8/2/b)
 
-[^key-70081675c300620740de44650554ede2]: Textual amendment: Words in [Sch. 3 para. 44(3)(a)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/44/3/a) omitted (1.4.2009) by virtue of [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009 (S.I. 2009/462)](https://www.legislation.gov.uk/uksi/2009/462), [art. 1(4)](https://www.legislation.gov.uk/uksi/2009/462/article/1/4), [Sch. 5 para. 19(a)(i)](https://www.legislation.gov.uk/uksi/2009/462/schedule/5/paragraph/19/a/i)
+[^c-70081675c300620740de44650554ede2]: Textual amendment: Words in [Sch. 3 para. 44(3)(a)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/44/3/a) omitted (1.4.2009) by virtue of [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009 (S.I. 2009/462)](https://www.legislation.gov.uk/uksi/2009/462), [art. 1(4)](https://www.legislation.gov.uk/uksi/2009/462/article/1/4), [Sch. 5 para. 19(a)(i)](https://www.legislation.gov.uk/uksi/2009/462/schedule/5/paragraph/19/a/i)
 
-[^key-0d39e0663e7b2c0f31d7371a9cc661cc]: Textual amendment: [Sch. 3 para. 45](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/45) omitted (1.4.2023) by virtue of [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [8(2)(c)](https://www.legislation.gov.uk/wsi/2023/299/regulation/8/2/c)
+[^c-0d39e0663e7b2c0f31d7371a9cc661cc]: Textual amendment: [Sch. 3 para. 45](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/45) omitted (1.4.2023) by virtue of [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [8(2)(c)](https://www.legislation.gov.uk/wsi/2023/299/regulation/8/2/c)
 
-[^key-caef76c4aa9bdce8f86703c819e925eb]: Commencement: Sch. 3 para. 46 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-caef76c4aa9bdce8f86703c819e925eb]: Commencement: Sch. 3 para. 46 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-42088fd09720af9201cd3f6e5e057b57]: Textual amendment: [Sch. 3 para. 46](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/46) substituted (1.4.2009) by [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009 (S.I. 2009/462)](https://www.legislation.gov.uk/uksi/2009/462), [art. 1(4)](https://www.legislation.gov.uk/uksi/2009/462/article/1/4), [Sch. 5 para. 19(a)(ii)](https://www.legislation.gov.uk/uksi/2009/462/schedule/5/paragraph/19/a/ii)
+[^c-42088fd09720af9201cd3f6e5e057b57]: Textual amendment: [Sch. 3 para. 46](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/46) substituted (1.4.2009) by [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009 (S.I. 2009/462)](https://www.legislation.gov.uk/uksi/2009/462), [art. 1(4)](https://www.legislation.gov.uk/uksi/2009/462/article/1/4), [Sch. 5 para. 19(a)(ii)](https://www.legislation.gov.uk/uksi/2009/462/schedule/5/paragraph/19/a/ii)
 
-[^key-7f30450f2c2c8d1e8ea15d48e41f8faa]: Textual amendment: [Sch. 3 Pt. 5A](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/part/5A) inserted (1.4.2011) by [The National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (S.I. 2011/704)](https://www.legislation.gov.uk/wsi/2011/704), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/704/regulation/1/2), [Sch. 2 para. 5(2)(b)](https://www.legislation.gov.uk/wsi/2011/704/schedule/2/paragraph/5/2/b)
+[^c-7f30450f2c2c8d1e8ea15d48e41f8faa]: Textual amendment: [Sch. 3 Pt. 5A](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/part/5A) inserted (1.4.2011) by [The National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (S.I. 2011/704)](https://www.legislation.gov.uk/wsi/2011/704), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/704/regulation/1/2), [Sch. 2 para. 5(2)(b)](https://www.legislation.gov.uk/wsi/2011/704/schedule/2/paragraph/5/2/b)
 
-[^key-cde96eb291f1db585b1cb678c8847983]: Commencement: Sch. 3 para. 47 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-cde96eb291f1db585b1cb678c8847983]: Commencement: Sch. 3 para. 47 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-bca2ff660bf8bc0a86bbc9bae43635a5]: Textual amendment: [Sch. 3 para. 47](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/47) heading substituted (1.4.2011) by [The National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (S.I. 2011/704)](https://www.legislation.gov.uk/wsi/2011/704), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/704/regulation/1/2), [Sch. 2 para. 5(2)(c)(i)](https://www.legislation.gov.uk/wsi/2011/704/schedule/2/paragraph/5/2/c/i)
+[^c-bca2ff660bf8bc0a86bbc9bae43635a5]: Textual amendment: [Sch. 3 para. 47](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/47) heading substituted (1.4.2011) by [The National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (S.I. 2011/704)](https://www.legislation.gov.uk/wsi/2011/704), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/704/regulation/1/2), [Sch. 2 para. 5(2)(c)(i)](https://www.legislation.gov.uk/wsi/2011/704/schedule/2/paragraph/5/2/c/i)
 
-[^key-0805ebf9a902a11119faed1fa70c97b5]: Textual amendment: Words in [Sch. 3 para. 47(1)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/47/1) substituted (1.4.2011) by [The National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (S.I. 2011/704)](https://www.legislation.gov.uk/wsi/2011/704), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/704/regulation/1/2), [Sch. 2 para. 5(2)(c)(ii)](https://www.legislation.gov.uk/wsi/2011/704/schedule/2/paragraph/5/2/c/ii)
+[^c-0805ebf9a902a11119faed1fa70c97b5]: Textual amendment: Words in [Sch. 3 para. 47(1)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/47/1) substituted (1.4.2011) by [The National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (S.I. 2011/704)](https://www.legislation.gov.uk/wsi/2011/704), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/704/regulation/1/2), [Sch. 2 para. 5(2)(c)(ii)](https://www.legislation.gov.uk/wsi/2011/704/schedule/2/paragraph/5/2/c/ii)
 
 [^f00063]: Footnote: Section 19A was inserted by the 2001 Act, section 12.
 
-[^key-dd7e59998c8895c29352c9130c0be061]: Commencement: Sch. 3 para. 48 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-dd7e59998c8895c29352c9130c0be061]: Commencement: Sch. 3 para. 48 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
 [^f00064]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-507e27a87edfeb2595b0b043fc7c7794]: Commencement: Sch. 3 para. 49 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-507e27a87edfeb2595b0b043fc7c7794]: Commencement: Sch. 3 para. 49 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-7ab0b0f0054e54195e1a548cae41eb2c]: Commencement: Sch. 3 para. 50 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-7ab0b0f0054e54195e1a548cae41eb2c]: Commencement: Sch. 3 para. 50 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-2281ae54abf9afd3978d4852bf281a37]: Commencement: Sch. 3 para. 51 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-2281ae54abf9afd3978d4852bf281a37]: Commencement: Sch. 3 para. 51 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-43fe8d7acadaa9ac76ffcbb31091c8fd]: Textual amendment: Words in [Sch. 3 para. 51](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51) inserted (1.4.2011) by [The National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (S.I. 2011/704)](https://www.legislation.gov.uk/wsi/2011/704), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/704/regulation/1/2), [Sch. 2 para. 5(2)(c)(iii)(aa)](https://www.legislation.gov.uk/wsi/2011/704/schedule/2/paragraph/5/2/c/iii/aa)
+[^c-43fe8d7acadaa9ac76ffcbb31091c8fd]: Textual amendment: Words in [Sch. 3 para. 51](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51) inserted (1.4.2011) by [The National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (S.I. 2011/704)](https://www.legislation.gov.uk/wsi/2011/704), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/704/regulation/1/2), [Sch. 2 para. 5(2)(c)(iii)(aa)](https://www.legislation.gov.uk/wsi/2011/704/schedule/2/paragraph/5/2/c/iii/aa)
 
-[^key-58bae35957efbe55863c9228ace7894e]: Textual amendment: [Sch. 3 para. 51(1)(a)(ii)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51/1/a/ii) omitted (1.4.2009) by virtue of [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009 (S.I. 2009/462)](https://www.legislation.gov.uk/uksi/2009/462), [art. 1(4)](https://www.legislation.gov.uk/uksi/2009/462/article/1/4), [Sch. 5 para. 19(b)](https://www.legislation.gov.uk/uksi/2009/462/schedule/5/paragraph/19/b)
+[^c-58bae35957efbe55863c9228ace7894e]: Textual amendment: [Sch. 3 para. 51(1)(a)(ii)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51/1/a/ii) omitted (1.4.2009) by virtue of [The Health and Social Care Act 2008 (Commencement No.9, Consequential Amendments and Transitory, Transitional and Saving Provisions) Order 2009 (S.I. 2009/462)](https://www.legislation.gov.uk/uksi/2009/462), [art. 1(4)](https://www.legislation.gov.uk/uksi/2009/462/article/1/4), [Sch. 5 para. 19(b)](https://www.legislation.gov.uk/uksi/2009/462/schedule/5/paragraph/19/b)
 
-[^key-3996d202fc131ed15221c7213cbe692f]: Textual amendment: [Sch. 3 para. 51(1)(a)(iii)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51/1/a/iii), [(iv)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51/1/a/iv) substituted for (1.4.2011) by [The National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (S.I. 2011/704)](https://www.legislation.gov.uk/wsi/2011/704), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/704/regulation/1/2), [Sch. 2 para. 5(2)(c)(iii)(bb)](https://www.legislation.gov.uk/wsi/2011/704/schedule/2/paragraph/5/2/c/iii/bb)
+[^c-3996d202fc131ed15221c7213cbe692f]: Textual amendment: [Sch. 3 para. 51(1)(a)(iii)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51/1/a/iii), [(iv)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51/1/a/iv) substituted for (1.4.2011) by [The National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011 (S.I. 2011/704)](https://www.legislation.gov.uk/wsi/2011/704), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/704/regulation/1/2), [Sch. 2 para. 5(2)(c)(iii)(bb)](https://www.legislation.gov.uk/wsi/2011/704/schedule/2/paragraph/5/2/c/iii/bb)
 
-[^key-d4575cd5137ae99b53d0dcd026f06404]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2006/489) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-d4575cd5137ae99b53d0dcd026f06404]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2006/489) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-3efba7b092edb5e272d6a012720f082f]: Textual amendment: Words in [Sch. 3 para. 51(2)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51/2) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 95(4)(c)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/95/4/c) (with [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/13))
+[^c-3efba7b092edb5e272d6a012720f082f]: Textual amendment: Words in [Sch. 3 para. 51(2)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51/2) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 95(4)(c)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/95/4/c) (with [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2013/235/schedule/3/paragraph/13))
 
-[^key-7ddaf7db37cd7a73da09227d1edc789b]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-7ddaf7db37cd7a73da09227d1edc789b]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^f00065]: Footnote: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42); section 1 was amended by the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), section 195 and by the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), Schedule 10, paragraph 7.
 
-[^key-fc39b1d7bbddfd8fd41bbbd0a8f46090]: Textual amendment: Word in [Sch. 3 para. 51(2)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51/2) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 68(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/68/a)
+[^c-fc39b1d7bbddfd8fd41bbbd0a8f46090]: Textual amendment: Word in [Sch. 3 para. 51(2)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51/2) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 68(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/68/a)
 
 [^f00066]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-2877fa8f1a780ebfc1041ecb0d26d389]: Textual amendment: Word in [Sch. 3 para. 51(2)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51/2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 68(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/68/b)
+[^c-2877fa8f1a780ebfc1041ecb0d26d389]: Textual amendment: Word in [Sch. 3 para. 51(2)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51/2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 68(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/68/b)
 
-[^key-c184acafa011b3d8e84127d0dd47e0ae]: Textual amendment: Words in [Sch. 3 para. 51(2)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51/2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 68(c)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/68/c)
+[^c-c184acafa011b3d8e84127d0dd47e0ae]: Textual amendment: Words in [Sch. 3 para. 51(2)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/51/2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 68(c)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/68/c)
 
-[^key-daa29bd6648e75cb2e1bc5d70d07a8c3]: Commencement: Sch. 3 para. 52 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-daa29bd6648e75cb2e1bc5d70d07a8c3]: Commencement: Sch. 3 para. 52 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-1c479be0572225d710ee5104977cfca2]: Commencement: Sch. 3 para. 53 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-1c479be0572225d710ee5104977cfca2]: Commencement: Sch. 3 para. 53 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-6c43a5b4ef502552f35f31fe22af23f2]: Commencement: Sch. 3 para. 54 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-6c43a5b4ef502552f35f31fe22af23f2]: Commencement: Sch. 3 para. 54 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-9c3ece74f41427977fcea2f57482abb1]: Textual amendment: [Sch. 3 para. 54(1)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/54/1) substituted (1.3.2016) by [The National Health Service (Primary Medical Services and Primary Dental Services) (Wales) (Amendment and Transitional Provision) Regulations 2016 (S.I. 2016/90)](https://www.legislation.gov.uk/wsi/2016/90), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/90/regulation/1/1), [16](https://www.legislation.gov.uk/wsi/2016/90/regulation/16) (with [reg. 18](https://www.legislation.gov.uk/wsi/2016/90/regulation/18))
+[^c-9c3ece74f41427977fcea2f57482abb1]: Textual amendment: [Sch. 3 para. 54(1)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/54/1) substituted (1.3.2016) by [The National Health Service (Primary Medical Services and Primary Dental Services) (Wales) (Amendment and Transitional Provision) Regulations 2016 (S.I. 2016/90)](https://www.legislation.gov.uk/wsi/2016/90), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/90/regulation/1/1), [16](https://www.legislation.gov.uk/wsi/2016/90/regulation/16) (with [reg. 18](https://www.legislation.gov.uk/wsi/2016/90/regulation/18))
 
-[^key-b63ad56a68217050324710671d62ddb7]: Commencement: Sch. 3 para. 55 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-b63ad56a68217050324710671d62ddb7]: Commencement: Sch. 3 para. 55 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
 [^f00067]: Footnote: Where the dispute relates to a contract which is an NHS contract, section 4(5) of the 1990 Act applies.
 
-[^key-ebdc366c97c610bef09704825a11208e]: Commencement: Sch. 3 para. 56 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-ebdc366c97c610bef09704825a11208e]: Commencement: Sch. 3 para. 56 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-3025828ef09647623102ed0ac4e7b16a]: Commencement: Sch. 3 para. 57 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-3025828ef09647623102ed0ac4e7b16a]: Commencement: Sch. 3 para. 57 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-d14549c283902349be91e60cf63c3ac8]: Commencement: Sch. 3 para. 58 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-d14549c283902349be91e60cf63c3ac8]: Commencement: Sch. 3 para. 58 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-29584edad6d47295f4a96789ee9eed11]: Commencement: Sch. 3 para. 59 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-29584edad6d47295f4a96789ee9eed11]: Commencement: Sch. 3 para. 59 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-a0cf2682de78beb14a906f2f0528bb23]: Commencement: Sch. 3 para. 60 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-a0cf2682de78beb14a906f2f0528bb23]: Commencement: Sch. 3 para. 60 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-5c4854e2eb8305dbb428c27095ad6e8d]: Commencement: Sch. 3 para. 61 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-5c4854e2eb8305dbb428c27095ad6e8d]: Commencement: Sch. 3 para. 61 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-fe865d71901027e2b62b5ab759b4ea4a]: Commencement: Sch. 3 para. 62 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-fe865d71901027e2b62b5ab759b4ea4a]: Commencement: Sch. 3 para. 62 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-a68bce705d7990acfaa88dbe9ff7c757]: Commencement: Sch. 3 para. 63 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-a68bce705d7990acfaa88dbe9ff7c757]: Commencement: Sch. 3 para. 63 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-2a706b1ee0a80b74349e3f1438b7990d]: Textual amendment: Words in [Sch. 3 para. 63(1)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/63/1) substituted (1.3.2016) by [The National Health Service (Primary Medical Services and Primary Dental Services) (Wales) (Amendment and Transitional Provision) Regulations 2016 (S.I. 2016/90)](https://www.legislation.gov.uk/wsi/2016/90), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/90/regulation/1/1), [17(2)(a)](https://www.legislation.gov.uk/wsi/2016/90/regulation/17/2/a)
+[^c-2a706b1ee0a80b74349e3f1438b7990d]: Textual amendment: Words in [Sch. 3 para. 63(1)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/63/1) substituted (1.3.2016) by [The National Health Service (Primary Medical Services and Primary Dental Services) (Wales) (Amendment and Transitional Provision) Regulations 2016 (S.I. 2016/90)](https://www.legislation.gov.uk/wsi/2016/90), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/90/regulation/1/1), [17(2)(a)](https://www.legislation.gov.uk/wsi/2016/90/regulation/17/2/a)
 
-[^key-7329893f1269b8f4ec014378f9e44dc9]: Textual amendment: Words in [Sch. 3 para. 63(1)(a)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/63/1/a) substituted (1.3.2016) by [The National Health Service (Primary Medical Services and Primary Dental Services) (Wales) (Amendment and Transitional Provision) Regulations 2016 (S.I. 2016/90)](https://www.legislation.gov.uk/wsi/2016/90), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/90/regulation/1/1), [17(2)(b)](https://www.legislation.gov.uk/wsi/2016/90/regulation/17/2/b)
+[^c-7329893f1269b8f4ec014378f9e44dc9]: Textual amendment: Words in [Sch. 3 para. 63(1)(a)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/63/1/a) substituted (1.3.2016) by [The National Health Service (Primary Medical Services and Primary Dental Services) (Wales) (Amendment and Transitional Provision) Regulations 2016 (S.I. 2016/90)](https://www.legislation.gov.uk/wsi/2016/90), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/90/regulation/1/1), [17(2)(b)](https://www.legislation.gov.uk/wsi/2016/90/regulation/17/2/b)
 
-[^key-b5cb2824e3e0d9fcc525ba1796037f5f]: Textual amendment: Words in [Sch. 3 para. 63(2)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/63/2) substituted (1.3.2016) by [The National Health Service (Primary Medical Services and Primary Dental Services) (Wales) (Amendment and Transitional Provision) Regulations 2016 (S.I. 2016/90)](https://www.legislation.gov.uk/wsi/2016/90), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/90/regulation/1/1), [17(3)](https://www.legislation.gov.uk/wsi/2016/90/regulation/17/3)
+[^c-b5cb2824e3e0d9fcc525ba1796037f5f]: Textual amendment: Words in [Sch. 3 para. 63(2)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/63/2) substituted (1.3.2016) by [The National Health Service (Primary Medical Services and Primary Dental Services) (Wales) (Amendment and Transitional Provision) Regulations 2016 (S.I. 2016/90)](https://www.legislation.gov.uk/wsi/2016/90), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/90/regulation/1/1), [17(3)](https://www.legislation.gov.uk/wsi/2016/90/regulation/17/3)
 
-[^key-334e48e085252aef45386ac645eb329d]: Commencement: Sch. 3 para. 64 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-334e48e085252aef45386ac645eb329d]: Commencement: Sch. 3 para. 64 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-20410321cbb5eba4785c131723999a84]: Commencement: Sch. 3 para. 65 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-20410321cbb5eba4785c131723999a84]: Commencement: Sch. 3 para. 65 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-1c01176f7193898d5d5f3f2ad635cb20]: Commencement: Sch. 3 para. 66 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-1c01176f7193898d5d5f3f2ad635cb20]: Commencement: Sch. 3 para. 66 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-5b975cca19dc442652a2aaff8b7bfa3c]: Commencement: Sch. 3 para. 67 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-5b975cca19dc442652a2aaff8b7bfa3c]: Commencement: Sch. 3 para. 67 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-146e0021f58e63924ca5bd35711edfdd]: Commencement: Sch. 3 para. 68 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-146e0021f58e63924ca5bd35711edfdd]: Commencement: Sch. 3 para. 68 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-212e43b7ebe07f159b0424a7ab12c5ef]: Commencement: Sch. 3 para. 69 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-212e43b7ebe07f159b0424a7ab12c5ef]: Commencement: Sch. 3 para. 69 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
 [^f00068]: Footnote: Section 49F was inserted into the Act by section 25 of the 2001 Act and amended by the 2002 Act, Schedule 3, paragraph 21 and the 2003 Act, Schedule 14, Part 2.
 
@@ -1543,15 +1543,15 @@ The agreement will not create any right enforceable by any person not a party to
 
 [^f00070]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-03c312f0932c17b67db9ece7cb9363c9]: Textual amendment: Word in [Sch. 3 para. 69(2)(h)(i)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/69/2/h/i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-03c312f0932c17b67db9ece7cb9363c9]: Textual amendment: Word in [Sch. 3 para. 69(2)(h)(i)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/69/2/h/i) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
-[^key-0ed342b6b4a875ab99f0eab5ce8328b4]: Textual amendment: Words in [Sch. 3 para. 69(2)(h)(i)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/69/2/h/i) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 50(3)(a)(i)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/50/3/a/i) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
+[^c-0ed342b6b4a875ab99f0eab5ce8328b4]: Textual amendment: Words in [Sch. 3 para. 69(2)(h)(i)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/69/2/h/i) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 50(3)(a)(i)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/50/3/a/i) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
 
-[^key-9a5ecfc239426dcda28a9dcfb6e57d05]: Textual amendment: Words in [Sch. 3 para. 69(2)(h)(i)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/69/2/h/i) omitted (1.10.2012) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 50(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/50/3/a/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
+[^c-9a5ecfc239426dcda28a9dcfb6e57d05]: Textual amendment: Words in [Sch. 3 para. 69(2)(h)(i)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/69/2/h/i) omitted (1.10.2012) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 50(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/50/3/a/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
 
-[^key-8ca6e65f299008b8e108bbe2cb746e82]: Textual amendment: Words in [Sch. 3 para. 69(2)(h)(i)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/69/2/h/i) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 50(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/50/3/a/iii) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
+[^c-8ca6e65f299008b8e108bbe2cb746e82]: Textual amendment: Words in [Sch. 3 para. 69(2)(h)(i)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/69/2/h/i) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 50(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/50/3/a/iii) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
 
-[^key-2a60d127b631b16ee9efa802aa574088]: Textual amendment: Words in [Sch. 3 para. 69(2)(h)(ii)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/69/2/h/ii) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 50(3)(b)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/50/3/b) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7), [8](https://www.legislation.gov.uk/uksi/2012/2404/article/8))
+[^c-2a60d127b631b16ee9efa802aa574088]: Textual amendment: Words in [Sch. 3 para. 69(2)(h)(ii)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/69/2/h/ii) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 50(3)(b)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/50/3/b) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7), [8](https://www.legislation.gov.uk/uksi/2012/2404/article/8))
 
 [^f00071]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Schedule 4A was inserted by section 257 of, and Schedule 3 to, the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
@@ -1563,52 +1563,52 @@ The agreement will not create any right enforceable by any person not a party to
 
 [^f00075]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032).
 
-[^key-9604b6c16631aacb01df0f2fceecd053]: Textual amendment: [Sch. 3 para. 69(6)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/69/6) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 95(4)(d)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/95/4/d)
+[^c-9604b6c16631aacb01df0f2fceecd053]: Textual amendment: [Sch. 3 para. 69(6)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/69/6) inserted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 95(4)(d)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/95/4/d)
 
-[^key-7059911dd10d563498a4c6d55fa71b36]: Commencement: Sch. 3 para. 70 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-7059911dd10d563498a4c6d55fa71b36]: Commencement: Sch. 3 para. 70 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-05bf8edaa92e1354acfa34631afd2fc8]: Commencement: Sch. 3 para. 71 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-05bf8edaa92e1354acfa34631afd2fc8]: Commencement: Sch. 3 para. 71 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-ca26736e77633068b1ba2459d000dcfa]: Commencement: Sch. 3 para. 72 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-ca26736e77633068b1ba2459d000dcfa]: Commencement: Sch. 3 para. 72 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
 [^f00076]: Footnote: Section 43 of the Dentists Act 1984 is substituted by the Dentists Act Order, article 39.
 
 [^f00077]: Footnote: Section 43B is inserted into, and section 44 is, substituted by the Dentists Act Order, article 39.
 
-[^key-9958b2e8f6c12cf1df262c86dd274a27]: Commencement: Sch. 3 para. 73 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-9958b2e8f6c12cf1df262c86dd274a27]: Commencement: Sch. 3 para. 73 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-7e299ed03059282a0a4a9444df8d4218]: Commencement: Sch. 3 para. 74 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-7e299ed03059282a0a4a9444df8d4218]: Commencement: Sch. 3 para. 74 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-0df7505b9152ea895e0b38216d4680e9]: Commencement: Sch. 3 para. 75 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-0df7505b9152ea895e0b38216d4680e9]: Commencement: Sch. 3 para. 75 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-39b5aa03b4dce4aad609c2688a0e5ec9]: Commencement: Sch. 3 para. 76 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-39b5aa03b4dce4aad609c2688a0e5ec9]: Commencement: Sch. 3 para. 76 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-166b48a3a840210c20722b56faaeea3f]: Commencement: Sch. 3 para. 77 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-166b48a3a840210c20722b56faaeea3f]: Commencement: Sch. 3 para. 77 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-8ded6c6bdc4673e4772755528ded3c05]: Commencement: Sch. 3 para. 78 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-8ded6c6bdc4673e4772755528ded3c05]: Commencement: Sch. 3 para. 78 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-2914c9932ca54b1da8c481c0f28667ab]: Commencement: Sch. 3 para. 79 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-2914c9932ca54b1da8c481c0f28667ab]: Commencement: Sch. 3 para. 79 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-095dd7005e3be2c894b2b7c56f729790]: Textual amendment: Words in [Sch. 3 para. 79(1)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/79/1) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/11/a)
+[^c-095dd7005e3be2c894b2b7c56f729790]: Textual amendment: Words in [Sch. 3 para. 79(1)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/79/1) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/11/a)
 
-[^key-771865e5a56012ae3779f0fc0da156da]: Textual amendment: Words in [Sch. 3 para. 79(2)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/79/2) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/11/b)
+[^c-771865e5a56012ae3779f0fc0da156da]: Textual amendment: Words in [Sch. 3 para. 79(2)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/79/2) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/11/b)
 
-[^key-655abe67436c2c92489ff1d7f2809542]: Textual amendment: Words in [Sch. 3 para. 79(3)(a)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/79/3/a) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 11(c)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/11/c)
+[^c-655abe67436c2c92489ff1d7f2809542]: Textual amendment: Words in [Sch. 3 para. 79(3)(a)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/79/3/a) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 11(c)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/11/c)
 
-[^key-85fa7b7f42f2074c333cd11b69a82b7e]: Textual amendment: [Sch. 3 para. 79(3)(aa)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/79/3/aa) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 11(d)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/11/d)
+[^c-85fa7b7f42f2074c333cd11b69a82b7e]: Textual amendment: [Sch. 3 para. 79(3)(aa)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/79/3/aa) inserted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 11(d)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/11/d)
 
-[^key-cc7ea39420857894f619e899852662ac]: Textual amendment: Words in [Sch. 3 para. 79(3)(b)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/79/3/b) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 11(e)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/11/e)
+[^c-cc7ea39420857894f619e899852662ac]: Textual amendment: Words in [Sch. 3 para. 79(3)(b)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/79/3/b) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 11(e)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/11/e)
 
-[^key-da3caaa7aa085e5d520972057d4d6176]: Commencement: Sch. 3 para. 80 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-da3caaa7aa085e5d520972057d4d6176]: Commencement: Sch. 3 para. 80 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-017d060d3b2dd77f6e0885fc4bc79fa6]: Textual amendment: Words in [Sch. 3 para. 80(1)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/80/1) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 11(f)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/11/f)
+[^c-017d060d3b2dd77f6e0885fc4bc79fa6]: Textual amendment: Words in [Sch. 3 para. 80(1)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/80/1) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 11(f)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/11/f)
 
-[^key-1475e8def369b9edb50b7a2e7734daa7]: Textual amendment: Words in [Sch. 3 para. 80(2)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/80/2) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 11(g)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/11/g)
+[^c-1475e8def369b9edb50b7a2e7734daa7]: Textual amendment: Words in [Sch. 3 para. 80(2)](https://www.legislation.gov.uk/wsi/2006/489/schedule/3/paragraph/80/2) substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 2 para. 11(g)](https://www.legislation.gov.uk/uksi/2014/1887/schedule/2/paragraph/11/g)
 
-[^key-422474e9d4a7f4c59302f2bc29e502b5]: Commencement: Sch. 3 para. 81 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-422474e9d4a7f4c59302f2bc29e502b5]: Commencement: Sch. 3 para. 81 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-64e04c4f9143aa2385843261302b5bd4]: Commencement: Sch. 3 para. 82 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-64e04c4f9143aa2385843261302b5bd4]: Commencement: Sch. 3 para. 82 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-5761f24845ce1ca7a0500c5a45fb6c79]: Commencement: Sch. 3 para. 83 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-5761f24845ce1ca7a0500c5a45fb6c79]: Commencement: Sch. 3 para. 83 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-20fcc937eef797b3ab9348c9b6234fb2]: Commencement: Sch. 3 para. 84 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-20fcc937eef797b3ab9348c9b6234fb2]: Commencement: Sch. 3 para. 84 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)

@@ -31,7 +31,7 @@ summary: ''
 
 Plant Health
 
-The Plant Health (Amendment) Order (Northern Ireland) 2008 (revoked)[^key-f79a912479c891a42ec8905f215c9208]
+The Plant Health (Amendment) Order (Northern Ireland) 2008 (revoked)[^c-f79a912479c891a42ec8905f215c9208]
 
 Made
 
@@ -41,42 +41,42 @@ Coming into operation
 
 30th June 2008
 
-[^key-f79a912479c891a42ec8905f215c9208]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f79a912479c891a42ec8905f215c9208]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f79a912479c891a42ec8905f215c9208]
+## 1. Citation and commencement[^c-f79a912479c891a42ec8905f215c9208]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health Order (Northern Ireland) 2006[^key-f79a912479c891a42ec8905f215c9208]
+## 2. Amendment of the Plant Health Order (Northern Ireland) 2006[^c-f79a912479c891a42ec8905f215c9208]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prevention of the introduction into and spread within the European Community of Rhynchophorus ferrugineus (Olivier)[^key-f79a912479c891a42ec8905f215c9208]
+## 3. Prevention of the introduction into and spread within the European Community of Rhynchophorus ferrugineus (Olivier)[^c-f79a912479c891a42ec8905f215c9208]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prevention of the introduction into and spread within the European Community of Gibberella circinata Nirenberg & O’Donnell[^key-f79a912479c891a42ec8905f215c9208]
+## 4. Prevention of the introduction into and spread within the European Community of Gibberella circinata Nirenberg & O’Donnell[^c-f79a912479c891a42ec8905f215c9208]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Prevention of the introduction into and spread within the European Community of Potato spindle tuber viroid[^key-f79a912479c891a42ec8905f215c9208]
+## 5. Prevention of the introduction into and spread within the European Community of Potato spindle tuber viroid[^c-f79a912479c891a42ec8905f215c9208]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Measures in respect of certain citrus fruits[^key-f79a912479c891a42ec8905f215c9208]
+## 6. Measures in respect of certain citrus fruits[^c-f79a912479c891a42ec8905f215c9208]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Miscellaneous amendments[^key-f79a912479c891a42ec8905f215c9208]
+## 7. Miscellaneous amendments[^c-f79a912479c891a42ec8905f215c9208]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f79a912479c891a42ec8905f215c9208]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f79a912479c891a42ec8905f215c9208]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f79a912479c891a42ec8905f215c9208]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f79a912479c891a42ec8905f215c9208]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f79a912479c891a42ec8905f215c9208]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/205) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)
+[^c-f79a912479c891a42ec8905f215c9208]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/205) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)

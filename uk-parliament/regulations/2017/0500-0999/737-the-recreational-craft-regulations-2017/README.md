@@ -47,9 +47,9 @@ Coming into force
 
 The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in respect of measures relating to craft intended for recreational purposes.
 
-These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for certain references to provisions of EU instruments to be construed as references to those provisions as amended from time to time.[^key-00f8b52d1dafcb58ff9430b175db2664]
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State that it is expedient for certain references to provisions of EU instruments to be construed as references to those provisions as amended from time to time.[^c-00f8b52d1dafcb58ff9430b175db2664]
 
-The Secretary of State, in exercise of the powers conferred by section 2(2) of and paragraph 1A of Schedule 2[^f00003] to the European Communities Act 1972, makes the following Regulations.[^key-00f8b52d1dafcb58ff9430b175db2664]
+The Secretary of State, in exercise of the powers conferred by section 2(2) of and paragraph 1A of Schedule 2[^f00003] to the European Communities Act 1972, makes the following Regulations.[^c-00f8b52d1dafcb58ff9430b175db2664]
 
 ## Contents
 
@@ -174,7 +174,7 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of a
 - [Section 54A — UK(NI) indication](part-3/section-54a.md)
 - [Section 54B — Register of notified bodies established in the United Kingdom](part-3/section-54b.md)
 
-### PART 4 — NOTIFICATION OF CONFORMITY ASSESSMENT BODIES (affected by repeal, see note)APPROVAL OF CONFORMITY ASSESSMENT BODIES[^key-7537dfde85ab4442663edc660fa640ef]
+### PART 4 — NOTIFICATION OF CONFORMITY ASSESSMENT BODIES (affected by repeal, see note)APPROVAL OF CONFORMITY ASSESSMENT BODIES[^c-7537dfde85ab4442663edc660fa640ef]
 
 *Extent: E+W+S*
 
@@ -214,7 +214,7 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of a
 - [Section 82 — Time limit for commencement of proceedings](part-5/section-82.md)
 - [Section 83 — Compensation](part-5/section-83.md)
 
-### PART 5A — POWERS OF THE SECRETARY OF STATE[^key-8c5b71fcc5c772997a676483607cbb93]
+### PART 5A — POWERS OF THE SECRETARY OF STATE[^c-8c5b71fcc5c772997a676483607cbb93]
 
 *Extent: E+W+S*
 
@@ -300,10 +300,10 @@ A transposition note and full impact assessment of the impact that these Regulat
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27(1) and the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), Schedule, Part 1.
 
-[^key-00f8b52d1dafcb58ff9430b175db2664]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/737) modified (E.W.S.) (19.6.2021) by [The Conformity Assessment (Mutual Recognition Agreements) and Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2021 (S.I. 2021/730)](https://www.legislation.gov.uk/uksi/2021/730), [regs. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/730/regulation/4), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2021/730/schedule/1/paragraph/10)
+[^c-00f8b52d1dafcb58ff9430b175db2664]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/737) modified (E.W.S.) (19.6.2021) by [The Conformity Assessment (Mutual Recognition Agreements) and Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2021 (S.I. 2021/730)](https://www.legislation.gov.uk/uksi/2021/730), [regs. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/730/regulation/4), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2021/730/schedule/1/paragraph/10)
 
 [^f00003]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and amended by Part 1 of the Schedule to the European Union (Amendment) Act 2008.
 
-[^key-7537dfde85ab4442663edc660fa640ef]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2017/737/part/4) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 28 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/36) (with [Sch. 28 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2); [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), Sch. 1 para. 1(q)(v)(vi)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7537dfde85ab4442663edc660fa640ef]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2017/737/part/4) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 28 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/36) (with [Sch. 28 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2); [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), Sch. 1 para. 1(q)(v)(vi)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8c5b71fcc5c772997a676483607cbb93]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2017/737/part/5A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 28 para. 40](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/40) (with [Sch. 28 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8c5b71fcc5c772997a676483607cbb93]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2017/737/part/5A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 28 para. 40](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/40) (with [Sch. 28 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

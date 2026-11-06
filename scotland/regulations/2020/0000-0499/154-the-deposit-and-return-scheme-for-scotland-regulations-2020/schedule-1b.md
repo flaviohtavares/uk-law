@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1B — Information to be contained in the application for registration of a takeback service provider[^key-e0ce9d2de801f86fd25127c53bf56aca]
+## SCHEDULE 1B — Information to be contained in the application for registration of a takeback service provider[^c-e0ce9d2de801f86fd25127c53bf56aca]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ Regulation 21(4)
 
 ## Annotations
 
-[^key-e0ce9d2de801f86fd25127c53bf56aca]: Textual amendment: [Sch. 1B](https://www.legislation.gov.uk/ssi/2020/154/schedule/1B) inserted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [31](https://www.legislation.gov.uk/ssi/2025/188/regulation/31)
+[^c-e0ce9d2de801f86fd25127c53bf56aca]: Textual amendment: [Sch. 1B](https://www.legislation.gov.uk/ssi/2020/154/schedule/1B) inserted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [31](https://www.legislation.gov.uk/ssi/2025/188/regulation/31)

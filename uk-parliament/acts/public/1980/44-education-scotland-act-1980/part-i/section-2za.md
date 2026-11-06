@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2ZA. Learning hours[^key-21b37a5d07702757ff23ba5c417d9025]
+## 2ZA. Learning hours[^c-21b37a5d07702757ff23ba5c417d9025]
 
 *Extent: S*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21b37a5d07702757ff23ba5c417d9025]: Textual amendment: [S. 2ZA](https://www.legislation.gov.uk/ukpga/1980/44/section/2ZA) inserted (1.8.2016 for specified purposes, 29.3.2023 in so far as not already in force) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 21(2)](https://www.legislation.gov.uk/asp/2016/8/section/21/2), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule); [S.S.I. 2023/74](https://www.legislation.gov.uk/ssi/2023/74), [reg. 2](https://www.legislation.gov.uk/ssi/2023/74/regulation/2)
+[^c-21b37a5d07702757ff23ba5c417d9025]: Textual amendment: [S. 2ZA](https://www.legislation.gov.uk/ukpga/1980/44/section/2ZA) inserted (1.8.2016 for specified purposes, 29.3.2023 in so far as not already in force) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 21(2)](https://www.legislation.gov.uk/asp/2016/8/section/21/2), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule); [S.S.I. 2023/74](https://www.legislation.gov.uk/ssi/2023/74), [reg. 2](https://www.legislation.gov.uk/ssi/2023/74/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Spoilt postal signing sheets: England and Wales and Scotland[^key-5a586bf9ec35abb69a4afb9785df36ae]
+## 94. Spoilt postal signing sheets: England and Wales and Scotland[^c-5a586bf9ec35abb69a4afb9785df36ae]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ instead of delivering it in accordance regulation 93.
 
 ## Annotations
 
-[^key-5a586bf9ec35abb69a4afb9785df36ae]: Commencement: Reg. 94 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-5a586bf9ec35abb69a4afb9785df36ae]: Commencement: Reg. 94 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

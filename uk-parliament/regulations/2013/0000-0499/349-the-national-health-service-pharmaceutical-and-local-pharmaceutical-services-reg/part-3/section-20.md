@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Future improvements or better access: additional matters to which NHS England must have regard[^key-fedf3951d93bcf656ad03378f887d7d5]
+## 20. Future improvements or better access: additional matters to which NHS England must have regard[^c-fedf3951d93bcf656ad03378f887d7d5]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-33ae3ed054e56dbdbb417c425d821732] If—
+(1)[^c-33ae3ed054e56dbdbb417c425d821732] If—
 
 - (a) NHS England receives a routine application and is required to determine whether granting it, or granting it in respect of some only of the services specified in it, would secure improvements, or better access, in the future to pharmaceutical services, or pharmaceutical services of a specified type, in the area of the relevant HWB; and
 - (b) the improvements or better access that would be secured have or has been included in the relevant pharmaceutical needs assessment in accordance with paragraph 4(b) of Schedule 1,
@@ -52,6 +52,6 @@ in determining whether it is satisfied as mentioned in section 129(2A) of the 20
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-33ae3ed054e56dbdbb417c425d821732]: Textual amendment: [Reg. 20(1)](https://www.legislation.gov.uk/uksi/2013/349/regulation/20/1) substituted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/417/regulation/7)
+[^c-33ae3ed054e56dbdbb417c425d821732]: Textual amendment: [Reg. 20(1)](https://www.legislation.gov.uk/uksi/2013/349/regulation/20/1) substituted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/417/regulation/7)

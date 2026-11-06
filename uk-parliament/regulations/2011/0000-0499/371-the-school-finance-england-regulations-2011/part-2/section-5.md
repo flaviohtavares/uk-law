@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. The schools budget[^key-48dc56a5b43ba8b9da4ad6332a75a8ee]
+## 5. The schools budget[^c-48dc56a5b43ba8b9da4ad6332a75a8ee]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48dc56a5b43ba8b9da4ad6332a75a8ee]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/371/regulation/5) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-48dc56a5b43ba8b9da4ad6332a75a8ee]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/371/regulation/5) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

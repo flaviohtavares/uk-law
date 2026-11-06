@@ -33,14 +33,14 @@ of 15 December 2016
 
 on the equivalence of the regulatory framework for central counterparties in India in accordance with Regulation (EU) No 648/2012 of the European Parliament and of the Council (revoked)
 
-[^key-a084c3aa4611e181ee2fb07a70a8405c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a084c3aa4611e181ee2fb07a70a8405c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a084c3aa4611e181ee2fb07a70a8405c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a084c3aa4611e181ee2fb07a70a8405c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a084c3aa4611e181ee2fb07a70a8405c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a084c3aa4611e181ee2fb07a70a8405c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a084c3aa4611e181ee2fb07a70a8405c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a084c3aa4611e181ee2fb07a70a8405c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a084c3aa4611e181ee2fb07a70a8405c]: Textual amendment: Decision revoked (31.12.2020) by [The Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018 (S.I. 2018/1184)](https://www.legislation.gov.uk/uksi/2018/1184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1184/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2018/1184/regulation/9) (with [regs. 11-20](https://www.legislation.gov.uk/uksi/2018/1184/regulation/11)) (as amended by: [S.I. 2019/405](https://www.legislation.gov.uk/uksi/2019/405), [reg. 8](https://www.legislation.gov.uk/uksi/2019/405/regulation/8); [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [reg. 7](https://www.legislation.gov.uk/uksi/2020/56/regulation/7); [S.I. 2020/646](https://www.legislation.gov.uk/uksi/2020/646), [reg. 4](https://www.legislation.gov.uk/uksi/2020/646/regulation/4); and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/3/a); and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a084c3aa4611e181ee2fb07a70a8405c]: Textual amendment: Decision revoked (31.12.2020) by [The Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018 (S.I. 2018/1184)](https://www.legislation.gov.uk/uksi/2018/1184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1184/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2018/1184/regulation/9) (with [regs. 11-20](https://www.legislation.gov.uk/uksi/2018/1184/regulation/11)) (as amended by: [S.I. 2019/405](https://www.legislation.gov.uk/uksi/2019/405), [reg. 8](https://www.legislation.gov.uk/uksi/2019/405/regulation/8); [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [reg. 7](https://www.legislation.gov.uk/uksi/2020/56/regulation/7); [S.I. 2020/646](https://www.legislation.gov.uk/uksi/2020/646), [reg. 4](https://www.legislation.gov.uk/uksi/2020/646/regulation/4); and [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/3/a); and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

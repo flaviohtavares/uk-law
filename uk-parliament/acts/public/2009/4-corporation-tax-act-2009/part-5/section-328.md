@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The reference in section 306A(1)[^key-7067b89d45e1b7ecc62726eebd9ab42d] to the profits and losses arising to a company from its loan relationships and related transactions includes a reference to exchange gains and losses so arising.
+(1) The reference in section 306A(1)[^c-7067b89d45e1b7ecc62726eebd9ab42d] to the profits and losses arising to a company from its loan relationships and related transactions includes a reference to exchange gains and losses so arising.
 
-(2)[^key-aedd02503a63a24f9da3fd2a92e967e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-aedd02503a63a24f9da3fd2a92e967e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-aedd02503a63a24f9da3fd2a92e967e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-aedd02503a63a24f9da3fd2a92e967e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-907ccdd05832dfea197fdf7cfb4a949a] But subsection (1) does not apply to an exchange gain or loss of a company so far as it—
+(3)[^c-907ccdd05832dfea197fdf7cfb4a949a] But subsection (1) does not apply to an exchange gain or loss of a company so far as it—
 
 - (a) arises as a result of the translation of the assets, liabilities, income and expenses of all or part of the company's business from the functional currency of the business, or that part of the business, into another currency, and
 - (b) has been recognised as an item of other comprehensive income.
@@ -43,7 +43,7 @@ summary: ''
 
 (3C) But subsection (3B) does not apply to an exchange gain or loss arising at a time when an election under section 9A of CTA 2010 (designated currency of UK resident investment company) has effect in relation to the company.
 
-(4)[^key-b7b05c1efe3fc0c84532b185cf3560b8] The Treasury may by regulations make provision—
+(4)[^c-b7b05c1efe3fc0c84532b185cf3560b8] The Treasury may by regulations make provision—
 
 - (a) excluding exchange gains or losses of a specified description from being brought into account for the purposes of this Part,
 - (b) requiring exchange gains or losses of a specified description which would not otherwise be brought into account for the purposes of this Part to be brought into account in specified circumstances,
@@ -52,11 +52,11 @@ summary: ''
 
 (4ZA) For the purposes of subsection (4)(b), it does not matter whether the exchange gains or losses would otherwise be excluded from being brought into account as a result of regulations under subsection (4)(a) or otherwise.
 
-(4A)[^key-a6dc4551361fa25d6cdf625f18d40f95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-a6dc4551361fa25d6cdf625f18d40f95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-ae1986ee7a401745e7c70c711192d357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ae1986ee7a401745e7c70c711192d357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-f9a3d7ae16a532338deb80c83188931f] The reference in subsection (4) to bringing exchange gains or losses into account is a reference to bringing them into account—
+(6)[^c-f9a3d7ae16a532338deb80c83188931f] The reference in subsection (4) to bringing exchange gains or losses into account is a reference to bringing them into account—
 
 - (a) for the purposes of this Part as credits or debits arising to a company from its loan relationships, or
 - (b) for the purposes of corporation tax on chargeable gains.
@@ -70,16 +70,16 @@ summary: ''
 
 ## Annotations
 
-[^key-7067b89d45e1b7ecc62726eebd9ab42d]: Textual amendment: Words in s. 328(1) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 20(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/20/2)
+[^c-7067b89d45e1b7ecc62726eebd9ab42d]: Textual amendment: Words in s. 328(1) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 20(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/20/2)
 
-[^key-aedd02503a63a24f9da3fd2a92e967e0]: Textual amendment: S. 328(2)(2A) omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 20(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/20/3)
+[^c-aedd02503a63a24f9da3fd2a92e967e0]: Textual amendment: S. 328(2)(2A) omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 20(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/20/3)
 
-[^key-907ccdd05832dfea197fdf7cfb4a949a]: Textual amendment: S. 328(3)-(3C) substituted for s. 328(3) (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 20(4)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/20/4)
+[^c-907ccdd05832dfea197fdf7cfb4a949a]: Textual amendment: S. 328(3)-(3C) substituted for s. 328(3) (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 20(4)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/20/4)
 
-[^key-b7b05c1efe3fc0c84532b185cf3560b8]: Textual amendment: S. 328(4)(4ZA) substituted for s. 328(4) (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 20(5)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/20/5)
+[^c-b7b05c1efe3fc0c84532b185cf3560b8]: Textual amendment: S. 328(4)(4ZA) substituted for s. 328(4) (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 20(5)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/20/5)
 
-[^key-a6dc4551361fa25d6cdf625f18d40f95]: Textual amendment: S. 328(4A) omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 20(6)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/20/6)
+[^c-a6dc4551361fa25d6cdf625f18d40f95]: Textual amendment: S. 328(4A) omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 20(6)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/20/6)
 
-[^key-ae1986ee7a401745e7c70c711192d357]: Textual amendment: S. 328(5) omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 20(6)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/20/6)
+[^c-ae1986ee7a401745e7c70c711192d357]: Textual amendment: S. 328(5) omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 20(6)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/20/6)
 
-[^key-f9a3d7ae16a532338deb80c83188931f]: Textual amendment: S. 328(6) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 20(7)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/20/7)
+[^c-f9a3d7ae16a532338deb80c83188931f]: Textual amendment: S. 328(6) substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 20(7)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/20/7)

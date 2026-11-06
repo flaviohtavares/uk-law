@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. For the protection of the Environment Agency (Part 1)[^key-8967ba384a01511d3ddf7eb74c7a6d89]
+## 47. For the protection of the Environment Agency (Part 1)[^c-8967ba384a01511d3ddf7eb74c7a6d89]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8967ba384a01511d3ddf7eb74c7a6d89]: Commencement: Art. 47 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-8967ba384a01511d3ddf7eb74c7a6d89]: Commencement: Art. 47 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
 [^f00023]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). This Act has been amended by section 1of the Land Drainage Act [1994 (c. 25)](https://www.legislation.gov.uk/ukpga/1994/25) (repealing sections 12 and 13 and inserting of section 67A); by section 120 of, and paragraphs 191 to 194 of Schedule 22 to, the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25); and by section 31 of, and Schedule 2 to, the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29).

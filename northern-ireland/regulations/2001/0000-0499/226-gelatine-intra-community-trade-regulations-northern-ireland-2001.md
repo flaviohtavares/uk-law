@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Gelatine (Intra-Community Trade) Regulations (Northern Ireland) 2001 (revoked)[^key-82c307b45b4e64fc1431df05e46af5e2]
+Gelatine (Intra-Community Trade) Regulations (Northern Ireland) 2001 (revoked)[^c-82c307b45b4e64fc1431df05e46af5e2]
 
 Made
 
@@ -41,48 +41,48 @@ Coming into operation
 
 9th July 2001
 
-[^key-82c307b45b4e64fc1431df05e46af5e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82c307b45b4e64fc1431df05e46af5e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-82c307b45b4e64fc1431df05e46af5e2]
+## 1. Citation and commencement[^c-82c307b45b4e64fc1431df05e46af5e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-82c307b45b4e64fc1431df05e46af5e2]
+## 2. Interpretation[^c-82c307b45b4e64fc1431df05e46af5e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Products of Animal Origin (Import and Export) Regulations (Northern Ireland) 1998[^key-82c307b45b4e64fc1431df05e46af5e2]
+## 3. Amendment of the Products of Animal Origin (Import and Export) Regulations (Northern Ireland) 1998[^c-82c307b45b4e64fc1431df05e46af5e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Authorisation of collection centres and tanneries[^key-82c307b45b4e64fc1431df05e46af5e2]
+## 4. Authorisation of collection centres and tanneries[^c-82c307b45b4e64fc1431df05e46af5e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Suspension and withdrawal of authorisations[^key-82c307b45b4e64fc1431df05e46af5e2]
+## 5. Suspension and withdrawal of authorisations[^c-82c307b45b4e64fc1431df05e46af5e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Right of appeal[^key-82c307b45b4e64fc1431df05e46af5e2]
+## 6. Right of appeal[^c-82c307b45b4e64fc1431df05e46af5e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Cancellation of authorisation[^key-82c307b45b4e64fc1431df05e46af5e2]
+## 7. Cancellation of authorisation[^c-82c307b45b4e64fc1431df05e46af5e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Registration[^key-82c307b45b4e64fc1431df05e46af5e2]
+## 8. Registration[^c-82c307b45b4e64fc1431df05e46af5e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82c307b45b4e64fc1431df05e46af5e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82c307b45b4e64fc1431df05e46af5e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-82c307b45b4e64fc1431df05e46af5e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82c307b45b4e64fc1431df05e46af5e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82c307b45b4e64fc1431df05e46af5e2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/226) revoked (1.1.2006) by [The Food Hygiene Regulations (Northern Ireland) 2005 (S.R. 2005/356)](https://www.legislation.gov.uk/nisr/2005/356), [regs. 1](https://www.legislation.gov.uk/nisr/2005/356/regulation/1), [29](https://www.legislation.gov.uk/nisr/2005/356/regulation/29), [Sch. 7](https://www.legislation.gov.uk/nisr/2005/356/schedule/7)
+[^c-82c307b45b4e64fc1431df05e46af5e2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/226) revoked (1.1.2006) by [The Food Hygiene Regulations (Northern Ireland) 2005 (S.R. 2005/356)](https://www.legislation.gov.uk/nisr/2005/356), [regs. 1](https://www.legislation.gov.uk/nisr/2005/356/regulation/1), [29](https://www.legislation.gov.uk/nisr/2005/356/regulation/29), [Sch. 7](https://www.legislation.gov.uk/nisr/2005/356/schedule/7)

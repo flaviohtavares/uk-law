@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Prohibition on driving: immobilisation, removal and disposal of vehicles[^key-0f0e7979c177f6f4d1c175f8c4f8c0d9]
+## 12. Prohibition on driving: immobilisation, removal and disposal of vehicles[^c-0f0e7979c177f6f4d1c175f8c4f8c0d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f0e7979c177f6f4d1c175f8c4f8c0d9]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/49/section/12) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/c)
+[^c-0f0e7979c177f6f4d1c175f8c4f8c0d9]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/49/section/12) in force at 5.1.2009 by [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/3164/article/2/c)

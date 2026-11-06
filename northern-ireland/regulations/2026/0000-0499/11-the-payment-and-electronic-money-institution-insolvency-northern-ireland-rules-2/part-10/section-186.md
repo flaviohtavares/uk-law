@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 186. Principal court rules and practice to apply[^key-eeba03aa2e52d2c8a8e1c41e2479e840]
+## 186. Principal court rules and practice to apply[^c-eeba03aa2e52d2c8a8e1c41e2479e840]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Except so far as it is inconsistent with these Rules, the Rules of the Court of 
 
 ## Annotations
 
-[^key-eeba03aa2e52d2c8a8e1c41e2479e840]: Commencement: [Rule 186](https://www.legislation.gov.uk/nisr/2026/11/rule/186) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-eeba03aa2e52d2c8a8e1c41e2479e840]: Commencement: [Rule 186](https://www.legislation.gov.uk/nisr/2026/11/rule/186) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

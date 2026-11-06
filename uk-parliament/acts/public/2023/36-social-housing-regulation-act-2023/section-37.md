@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Leaving the social housing stock: end of lease[^key-ca5141ae3dfeedb2be9fdff9930c3d6c][^key-2e5d0d323648b592d35bbb12cabd8c5c]
+## 37. Leaving the social housing stock: end of lease[^c-ca5141ae3dfeedb2be9fdff9930c3d6c][^c-2e5d0d323648b592d35bbb12cabd8c5c]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ca5141ae3dfeedb2be9fdff9930c3d6c]: Commencement: S. 37 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-ca5141ae3dfeedb2be9fdff9930c3d6c]: Commencement: S. 37 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-2e5d0d323648b592d35bbb12cabd8c5c]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/36/section/37) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/r)
+[^c-2e5d0d323648b592d35bbb12cabd8c5c]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/36/section/37) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/r)

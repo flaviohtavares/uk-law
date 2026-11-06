@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2A — POLICE NEGOTIATING BOARD FOR SCOTLAND[^key-c52df53f7c9d62b5dac183357eb5957c]
+## SCHEDULE 2A — POLICE NEGOTIATING BOARD FOR SCOTLAND[^c-c52df53f7c9d62b5dac183357eb5957c]
 
 *Extent: S*
 
@@ -137,4 +137,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c52df53f7c9d62b5dac183357eb5957c]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/asp/2012/8/schedule/2A) inserted (9.3.2023) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 3](https://www.legislation.gov.uk/asp/2016/1/schedule/3); [S.S.I. 2023/49](https://www.legislation.gov.uk/ssi/2023/49), [art. 2(c)](https://www.legislation.gov.uk/ssi/2023/49/article/2/c)
+[^c-c52df53f7c9d62b5dac183357eb5957c]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/asp/2012/8/schedule/2A) inserted (9.3.2023) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 3](https://www.legislation.gov.uk/asp/2016/1/schedule/3); [S.S.I. 2023/49](https://www.legislation.gov.uk/ssi/2023/49), [art. 2(c)](https://www.legislation.gov.uk/ssi/2023/49/article/2/c)

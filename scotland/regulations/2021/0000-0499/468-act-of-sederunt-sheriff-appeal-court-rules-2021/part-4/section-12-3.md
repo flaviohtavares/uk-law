@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12.3. Applications for leave to appeal[^key-129e31b099d26149f9a15620a11102b8]
+## 12.3. Applications for leave to appeal[^c-129e31b099d26149f9a15620a11102b8]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-129e31b099d26149f9a15620a11102b8]: Commencement: Para. 12.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-129e31b099d26149f9a15620a11102b8]: Commencement: Para. 12.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

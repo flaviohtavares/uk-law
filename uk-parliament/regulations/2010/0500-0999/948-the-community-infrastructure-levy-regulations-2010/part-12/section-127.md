@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Service of documents on the Crown and Parliament[^key-f54c310c157c961d44c84bd048608fe8]
+## 127. Service of documents on the Crown and Parliament[^c-f54c310c157c961d44c84bd048608fe8]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f54c310c157c961d44c84bd048608fe8]: Commencement: Reg. 127 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-f54c310c157c961d44c84bd048608fe8]: Commencement: Reg. 127 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

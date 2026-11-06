@@ -43,7 +43,7 @@ Coming into Operation
 
 The Minister of Transport, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972 in relation to the regulation and supervision of the working conditions of persons engaged in road transport and the regulation of the type, description, construction or equipment of vehicles, in exercise of the powers conferred by that section, and in exercise of the powers conferred by section 95(1) and (1A), and 101(1), (2) and (5), and 157 of the Transport Act 1968[^f00002], and now vested in him[^f00003], and of all other enabling powers, and after consultation with representative organisations in accordance with section 101(6) of the said Act of 1968, hereby makes the following Regulations:—
 
-## 1. Commencement, citation, revocation and interpretation[^key-569046402e08ab11c6fbd443192d18c7]
+## 1. Commencement, citation, revocation and interpretation[^c-569046402e08ab11c6fbd443192d18c7]
 
 (1) These Regulations shall come into operation on 14th January 1980 and may be cited as the Passenger and Goods Vehicles (Recording Equipment) Regulations 1979.
 
@@ -52,9 +52,9 @@ The Minister of Transport, being a Minister designated[^f00001] for the purposes
 (3) In these Regulations—
 
 - “**the Act of 1968**” means the Transport Act 1968;
-- “the EU Tachographs Regulation” means Regulation (EU) No. 165/2014 of the European Parliament and of the Council on tachographs in road transport as read with the Community Drivers’ Hours and Recording Equipment Regulations 2007.[^key-1536ecb1c38b21d5ab7382d9c8887449]
+- “the EU Tachographs Regulation” means Regulation (EU) No. 165/2014 of the European Parliament and of the Council on tachographs in road transport as read with the Community Drivers’ Hours and Recording Equipment Regulations 2007.[^c-1536ecb1c38b21d5ab7382d9c8887449]
 
-## 2. Installation and use of recording equipment[^key-62e7b9804ccd7e084dbc38a33521db66]
+## 2. Installation and use of recording equipment[^c-62e7b9804ccd7e084dbc38a33521db66]
 
 (1) For section 97 of the Act of 1968 (installation and use of recording equipment) there shall be substituted the following sections—
 
@@ -110,13 +110,13 @@ The Minister of Transport, being a Minister designated[^f00001] for the purposes
 
 .
 
-(2)[^key-1ff9fae883e5a5221cc573eb45501c11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1ff9fae883e5a5221cc573eb45501c11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-1ff9fae883e5a5221cc573eb45501c11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1ff9fae883e5a5221cc573eb45501c11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-1ff9fae883e5a5221cc573eb45501c11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1ff9fae883e5a5221cc573eb45501c11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential adaptation of enactments[^key-5a58a0ce62d751abbdd276c0b5801101]
+## 3. Consequential adaptation of enactments[^c-5a58a0ce62d751abbdd276c0b5801101]
 
 (1) In section 98 (written records) of the Act of 1968 there shall be inserted after subsection (2) the following subsection—
 
@@ -179,14 +179,14 @@ The Minister of Transport, being a Minister designated[^f00001] for the purposes
 
 .
 
-## 4. Installation or repair of recording equipment, checks and inspections[^key-771895bd5d3a04ef29b3304074233473]
+## 4. Installation or repair of recording equipment, checks and inspections[^c-771895bd5d3a04ef29b3304074233473]
 
-(1) This Regulation applies to—[^key-862934d52f5c6c0138ad9d6915f7d973]
+(1) This Regulation applies to—[^c-862934d52f5c6c0138ad9d6915f7d973]
 
-- (a) the approval by the Secretary of State[^key-075473f4cf5fb9bf16c8fe04f307bc21] of fitters and workshops for the installation or repair of recording equipment in accordance with Article 22 of the EU Tachographs Regulation[^key-1254f67af756063ebe113e660fa0944a]; and
-- (b) the approval and nomination by the Secretary of State[^key-7d7788f316036624a0327e2a706f6b70] of bodies for the carrying out of checks and inspections of recording equipment in accordance with Chapter VI of Annex I , or Chapter VI of Annex IB,[^key-f8c74c79b75876acc7d26135da97eb4c] to that Regulation.
+- (a) the approval by the Secretary of State[^c-075473f4cf5fb9bf16c8fe04f307bc21] of fitters and workshops for the installation or repair of recording equipment in accordance with Article 22 of the EU Tachographs Regulation[^c-1254f67af756063ebe113e660fa0944a]; and
+- (b) the approval and nomination by the Secretary of State[^c-7d7788f316036624a0327e2a706f6b70] of bodies for the carrying out of checks and inspections of recording equipment in accordance with Chapter VI of Annex I , or Chapter VI of Annex IB,[^c-f8c74c79b75876acc7d26135da97eb4c] to that Regulation.
 
-(2) An approval or nomination[^key-e06ea92af541151980b7e12506c356ac] shall be in writing, shall specify its scope, shall provide for its withdrawal by the Secretary of State on notice given by him and, if the Secretary of State thinks fit, may contain conditions.
+(2) An approval or nomination[^c-e06ea92af541151980b7e12506c356ac] shall be in writing, shall specify its scope, shall provide for its withdrawal by the Secretary of State on notice given by him and, if the Secretary of State thinks fit, may contain conditions.
 
 (3) Such conditions may in particular relate to—
 
@@ -207,9 +207,9 @@ and any list published under sub-paragraph (a) above shall specify the mark to b
 
 (5) In this Regulation “**recording equipment**” means equipment for recording information as to the use of a vehicle.
 
-(6)[^key-b5c32fc4ce2a72db87f27687b7a2985e] A reference in this Regulation to Annex IB to the EU Tachographs Regulation has effect, until the coming into force of that Annex, as a reference to Annex IB to [Council Regulation (EEC) No. 3821/85](https://www.legislation.gov.uk/european/regulation/1985/3821) on recording equipment in road transport as read with the Community Drivers’ Hours and Recording Equipment Regulations 2007.
+(6)[^c-b5c32fc4ce2a72db87f27687b7a2985e] A reference in this Regulation to Annex IB to the EU Tachographs Regulation has effect, until the coming into force of that Annex, as a reference to Annex IB to [Council Regulation (EEC) No. 3821/85](https://www.legislation.gov.uk/european/regulation/1985/3821) on recording equipment in road transport as read with the Community Drivers’ Hours and Recording Equipment Regulations 2007.
 
-## 5. Period of retention of records by crew members[^key-867d92420e8a90518f4ec2471b03b685]
+## 5. Period of retention of records by crew members[^c-867d92420e8a90518f4ec2471b03b685]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -277,30 +277,30 @@ The Regulations revoke the Passenger and Goods Vehicles (Recording Equipment) Re
 
 [^f00003]: Footnote: S.I. 1979/571.
 
-[^key-569046402e08ab11c6fbd443192d18c7]: Commencement: Reg. 1 in force at 14.1.1980, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/1/1)
+[^c-569046402e08ab11c6fbd443192d18c7]: Commencement: Reg. 1 in force at 14.1.1980, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/1/1)
 
-[^key-1536ecb1c38b21d5ab7382d9c8887449]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/1/3) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/14/2)
+[^c-1536ecb1c38b21d5ab7382d9c8887449]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/1/3) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/14/2)
 
-[^key-62e7b9804ccd7e084dbc38a33521db66]: Commencement: Reg. 2 in force at 14.1.1980, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/1/1)
+[^c-62e7b9804ccd7e084dbc38a33521db66]: Commencement: Reg. 2 in force at 14.1.1980, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/1/1)
 
-[^key-1ff9fae883e5a5221cc573eb45501c11]: Textual amendment: [Reg. 2(2)-(4)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/2/2) revoked (13.3.1984) by [The Passenger and Goods Vehicles (Recording Equipment) (Amendment) Regulations 1984 (S.I. 1984/144)](https://www.legislation.gov.uk/uksi/1984/144), [regs. 1](https://www.legislation.gov.uk/uksi/1984/144/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1984/144/regulation/2/3)
+[^c-1ff9fae883e5a5221cc573eb45501c11]: Textual amendment: [Reg. 2(2)-(4)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/2/2) revoked (13.3.1984) by [The Passenger and Goods Vehicles (Recording Equipment) (Amendment) Regulations 1984 (S.I. 1984/144)](https://www.legislation.gov.uk/uksi/1984/144), [regs. 1](https://www.legislation.gov.uk/uksi/1984/144/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1984/144/regulation/2/3)
 
-[^key-5a58a0ce62d751abbdd276c0b5801101]: Commencement: Reg. 3 in force at 14.1.1980, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/1/1)
+[^c-5a58a0ce62d751abbdd276c0b5801101]: Commencement: Reg. 3 in force at 14.1.1980, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/1/1)
 
-[^key-771895bd5d3a04ef29b3304074233473]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4) substituted (13.3.1984) by [The Passenger and Goods Vehicles (Recording Equipment) (Amendment) Regulations 1984 (S.I. 1984/144)](https://www.legislation.gov.uk/uksi/1984/144), [regs. 1](https://www.legislation.gov.uk/uksi/1984/144/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/1984/144/regulation/3/1) (with [reg. 3(2)(3)](https://www.legislation.gov.uk/uksi/1984/144/regulation/3/2))
+[^c-771895bd5d3a04ef29b3304074233473]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4) substituted (13.3.1984) by [The Passenger and Goods Vehicles (Recording Equipment) (Amendment) Regulations 1984 (S.I. 1984/144)](https://www.legislation.gov.uk/uksi/1984/144), [regs. 1](https://www.legislation.gov.uk/uksi/1984/144/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/1984/144/regulation/3/1) (with [reg. 3(2)(3)](https://www.legislation.gov.uk/uksi/1984/144/regulation/3/2))
 
-[^key-862934d52f5c6c0138ad9d6915f7d973]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/1) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [48(2)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/48/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-862934d52f5c6c0138ad9d6915f7d973]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/1) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [48(2)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/48/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-075473f4cf5fb9bf16c8fe04f307bc21]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/1/a) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [48(2)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/48/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-075473f4cf5fb9bf16c8fe04f307bc21]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/1/a) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [48(2)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/48/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1254f67af756063ebe113e660fa0944a]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/1/a) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [14(3)(a)](https://www.legislation.gov.uk/uksi/2016/248/regulation/14/3/a)
+[^c-1254f67af756063ebe113e660fa0944a]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/1/a) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [14(3)(a)](https://www.legislation.gov.uk/uksi/2016/248/regulation/14/3/a)
 
-[^key-7d7788f316036624a0327e2a706f6b70]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/1/b) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [48(2)(c)](https://www.legislation.gov.uk/uksi/2019/453/regulation/48/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d7788f316036624a0327e2a706f6b70]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/1/b) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [48(2)(c)](https://www.legislation.gov.uk/uksi/2019/453/regulation/48/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f8c74c79b75876acc7d26135da97eb4c]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/1/b) inserted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [14(3)(b)](https://www.legislation.gov.uk/uksi/2016/248/regulation/14/3/b)
+[^c-f8c74c79b75876acc7d26135da97eb4c]: Textual amendment: Words in [reg. 4(1)(b)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/1/b) inserted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [14(3)(b)](https://www.legislation.gov.uk/uksi/2016/248/regulation/14/3/b)
 
-[^key-e06ea92af541151980b7e12506c356ac]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/2) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [48(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/48/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e06ea92af541151980b7e12506c356ac]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/2) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [48(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/48/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b5c32fc4ce2a72db87f27687b7a2985e]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/6) inserted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [14(3)(c)](https://www.legislation.gov.uk/uksi/2016/248/regulation/14/3/c)
+[^c-b5c32fc4ce2a72db87f27687b7a2985e]: Textual amendment: [Reg. 4(6)](https://www.legislation.gov.uk/uksi/1979/1746/regulation/4/6) inserted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [14(3)(c)](https://www.legislation.gov.uk/uksi/2016/248/regulation/14/3/c)
 
-[^key-867d92420e8a90518f4ec2471b03b685]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1979/1746/regulation/5) revoked (29.9.1986) by [The Community Drivers' Hours and Recording Equipment Regulations 1986 (S.I. 1986/1457)](https://www.legislation.gov.uk/uksi/1986/1457), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1457/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/1986/1457/regulation/1/3)
+[^c-867d92420e8a90518f4ec2471b03b685]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1979/1746/regulation/5) revoked (29.9.1986) by [The Community Drivers' Hours and Recording Equipment Regulations 1986 (S.I. 1986/1457)](https://www.legislation.gov.uk/uksi/1986/1457), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1986/1457/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/1986/1457/regulation/1/3)

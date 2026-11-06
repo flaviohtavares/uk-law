@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Interim duty to secure accommodation for homeless applicants in priority need[^key-3aeed139663dee89fbec839272e5667c]
+## 68. Interim duty to secure accommodation for homeless applicants in priority need[^c-3aeed139663dee89fbec839272e5667c]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ in circumstances where the authority is not yet satisfied that the applicant is 
 
 ## Annotations
 
-[^key-3aeed139663dee89fbec839272e5667c]: Commencement: [S. 68](https://www.legislation.gov.uk/anaw/2014/7/section/68) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 19](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/19)
+[^c-3aeed139663dee89fbec839272e5667c]: Commencement: [S. 68](https://www.legislation.gov.uk/anaw/2014/7/section/68) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 19](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/19)

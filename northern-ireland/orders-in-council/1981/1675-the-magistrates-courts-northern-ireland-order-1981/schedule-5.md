@@ -30,7 +30,7 @@ Article 170(1)
 
 **2.** References in any enactment relating to proceedings before a magistrates' court to a penal sum shall be construed as including a reference to a sum adjudged to be paid by a conviction of such court.
 
-**3.**[^key-52e47238eddd055d9b3c19b04642d5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-52e47238eddd055d9b3c19b04642d5fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** References in any enactment in force on 30th November 1965 to the summary trial of indictable offences or to indictable offences which are triable summarily shall be construed, as the case may be, as references to the summary trial of indictable offences under Articles 45 and 46 or as references to indictable offences which are triable under those Articles.
 
@@ -73,7 +73,7 @@ Article 170(1)
 
 ## Annotations
 
-[^key-52e47238eddd055d9b3c19b04642d5fc]: Textual amendment: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisi/1981/1675/schedule/5/paragraph/3) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 8(3)(n)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8/3/n); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-52e47238eddd055d9b3c19b04642d5fc]: Textual amendment: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisi/1981/1675/schedule/5/paragraph/3) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 8(3)(n)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8/3/n); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^c16971831]: Textual amendment: [1969 c. 30 (NI)](https://www.legislation.gov.uk/apni/1969/30)
 

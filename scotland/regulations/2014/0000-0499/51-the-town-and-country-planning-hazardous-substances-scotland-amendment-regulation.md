@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning
 
-The Town and Country Planning (Hazardous Substances) (Scotland) Amendment Regulations 2014 (revoked)[^key-3bee230582c52dec11f82e854c9d2202]
+The Town and Country Planning (Hazardous Substances) (Scotland) Amendment Regulations 2014 (revoked)[^c-3bee230582c52dec11f82e854c9d2202]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 29th March 2014
 
-[^key-3bee230582c52dec11f82e854c9d2202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bee230582c52dec11f82e854c9d2202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3bee230582c52dec11f82e854c9d2202]
+## 1. Citation, commencement and interpretation[^c-3bee230582c52dec11f82e854c9d2202]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 1993 Regulations[^key-3bee230582c52dec11f82e854c9d2202]
+## 2. Amendment of the 1993 Regulations[^c-3bee230582c52dec11f82e854c9d2202]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional exemptions[^key-3bee230582c52dec11f82e854c9d2202]
+## 3. Transitional exemptions[^c-3bee230582c52dec11f82e854c9d2202]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3bee230582c52dec11f82e854c9d2202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bee230582c52dec11f82e854c9d2202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3bee230582c52dec11f82e854c9d2202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bee230582c52dec11f82e854c9d2202]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3bee230582c52dec11f82e854c9d2202]: Textual amendment: Regulations revoked (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)
+[^c-3bee230582c52dec11f82e854c9d2202]: Textual amendment: Regulations revoked (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [reg. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/181/schedule/9)

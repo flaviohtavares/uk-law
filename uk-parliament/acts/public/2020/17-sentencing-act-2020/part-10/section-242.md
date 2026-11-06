@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242. The period of supervision[^key-7c35c1eefdb19fd632041597bcfe86dc][^key-bf3f986c61e3cf4ba0d49c711b42b301][^key-eca003c404d364f044cc7865c44652a6][^key-b7eb52dc83d86cd9e5318988f7fcc015]
+## 242. The period of supervision[^c-7c35c1eefdb19fd632041597bcfe86dc][^c-bf3f986c61e3cf4ba0d49c711b42b301][^c-eca003c404d364f044cc7865c44652a6][^c-b7eb52dc83d86cd9e5318988f7fcc015]
 
 *Extent: E+W*
 
@@ -50,10 +50,10 @@ summary: ''
 
 ## Annotations
 
-[^key-7c35c1eefdb19fd632041597bcfe86dc]: Commencement: S. 242 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7c35c1eefdb19fd632041597bcfe86dc]: Commencement: S. 242 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-bf3f986c61e3cf4ba0d49c711b42b301]: Modification: S. 242 applied (with modifications) by 1997 c. 43, Sch. 1 para. 9 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 149(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/149/4) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-bf3f986c61e3cf4ba0d49c711b42b301]: Modification: S. 242 applied (with modifications) by 1997 c. 43, Sch. 1 para. 9 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 149(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/149/4) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-eca003c404d364f044cc7865c44652a6]: Modification: Ss. 237-248 modified by 2006 c. 52, s. 213(1)(a) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 33(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/33/2) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-eca003c404d364f044cc7865c44652a6]: Modification: Ss. 237-248 modified by 2006 c. 52, s. 213(1)(a) (as substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 33(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/33/2) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-b7eb52dc83d86cd9e5318988f7fcc015]: Modification: S. 242 applied (with modifications) by 1997 c. 43, Sch. 1 para. 8 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 149(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/149/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-b7eb52dc83d86cd9e5318988f7fcc015]: Modification: S. 242 applied (with modifications) by 1997 c. 43, Sch. 1 para. 8 (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 149(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/149/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))

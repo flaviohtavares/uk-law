@@ -32,7 +32,7 @@ summary: ''
 
 ELECTRONIC COMMUNICATIONS
 
-The Online Safety Act 2023 (Priority Offences) (Amendment) Regulations 2024 (revoked)[^key-d9ae383b6c3c97446c8f9942fcc51363]
+The Online Safety Act 2023 (Priority Offences) (Amendment) Regulations 2024 (revoked)[^c-d9ae383b6c3c97446c8f9942fcc51363]
 
 Made
 
@@ -40,24 +40,24 @@ Made
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-d9ae383b6c3c97446c8f9942fcc51363]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9ae383b6c3c97446c8f9942fcc51363]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-d9ae383b6c3c97446c8f9942fcc51363]
+## 1. Citation, commencement and extent[^c-d9ae383b6c3c97446c8f9942fcc51363]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 7 to the Online Safety Act 2023[^key-d9ae383b6c3c97446c8f9942fcc51363]
+## 2. Amendment of Schedule 7 to the Online Safety Act 2023[^c-d9ae383b6c3c97446c8f9942fcc51363]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d9ae383b6c3c97446c8f9942fcc51363]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9ae383b6c3c97446c8f9942fcc51363]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d9ae383b6c3c97446c8f9942fcc51363]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9ae383b6c3c97446c8f9942fcc51363]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d9ae383b6c3c97446c8f9942fcc51363]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/1188) revoked (8.1.2026) by [The Online Safety Act 2023 (Priority Offences) (Amendment) Regulations 2025 (S.I. 2025/1352)](https://www.legislation.gov.uk/uksi/2025/1352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1352/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/1352/regulation/3)
+[^c-d9ae383b6c3c97446c8f9942fcc51363]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2024/1188) revoked (8.1.2026) by [The Online Safety Act 2023 (Priority Offences) (Amendment) Regulations 2025 (S.I. 2025/1352)](https://www.legislation.gov.uk/uksi/2025/1352), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1352/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2025/1352/regulation/3)

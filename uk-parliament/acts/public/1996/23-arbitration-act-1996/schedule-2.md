@@ -24,7 +24,7 @@ Section 93(6).
 
 ### Introductory
 
-**1.** In this Schedule “**judge-arbitrator**” means an eligible High Court judge[^key-1a3bfd8fa5c2f989b23b5d4789d715ed] or official referee appointed as arbitrator or umpire under section 93.
+**1.** In this Schedule “**judge-arbitrator**” means an eligible High Court judge[^c-1a3bfd8fa5c2f989b23b5d4789d715ed] or official referee appointed as arbitrator or umpire under section 93.
 
 ### General
 
@@ -36,7 +36,7 @@ Section 93(6).
 
 **3.** (1) The power of the court in section 28(2) to order consideration and adjustment of the liability of a party for the fees of an arbitrator may be exercised by a judge-arbitrator.
 
-(2) Any such exercise of the power is subject to the powers of the Court of Appeal under sections 24(4) and 25(3)[^key-7c8e8493c7dad242d704ea0fb7e18b19] (directions as to entitlement to fees or expenses in case of removal or resignation).
+(2) Any such exercise of the power is subject to the powers of the Court of Appeal under sections 24(4) and 25(3)[^c-7c8e8493c7dad242d704ea0fb7e18b19] (directions as to entitlement to fees or expenses in case of removal or resignation).
 
 ### Exercise of court powers in support of arbitration
 
@@ -84,7 +84,7 @@ Nothing in this sub-paragraph prejudices any power vested in him as arbitrator o
 
 **10.** (1) The power of the court under section 64 to determine an arbitrator’s reasonable fees and expenses may be exercised by a judge-arbitrator.
 
-(2) Any such exercise of the power is subject to the powers of the Court of Appeal under sections 24(4) and 25(3)[^key-c1cd28f8892a02e25f2808c8bf233338] (directions as to entitlement to fees or expenses in case of removal or resignation).
+(2) Any such exercise of the power is subject to the powers of the Court of Appeal under sections 24(4) and 25(3)[^c-c1cd28f8892a02e25f2808c8bf233338] (directions as to entitlement to fees or expenses in case of removal or resignation).
 
 ### Enforcement of award
 
@@ -108,10 +108,10 @@ Nothing in this sub-paragraph prejudices any power vested in him as arbitrator o
 
 ## Annotations
 
-[^key-1a3bfd8fa5c2f989b23b5d4789d715ed]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1996/23/schedule/2/paragraph/1) substituted (20.2.2019) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [ss. 1(7)](https://www.legislation.gov.uk/ukpga/2018/33/section/1/7), [4(2)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/2)
+[^c-1a3bfd8fa5c2f989b23b5d4789d715ed]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1996/23/schedule/2/paragraph/1) substituted (20.2.2019) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [ss. 1(7)](https://www.legislation.gov.uk/ukpga/2018/33/section/1/7), [4(2)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/2)
 
 [^c2086622]: Textual amendment: Words in [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/1996/23/schedule/2/paragraph/2/2) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/40/4), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 60](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/60); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-7c8e8493c7dad242d704ea0fb7e18b19]: Textual amendment: Word in Sch. 2 para. 3(2) substituted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 4(4)(c)](https://www.legislation.gov.uk/ukpga/2025/4/section/4/4/c), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-7c8e8493c7dad242d704ea0fb7e18b19]: Textual amendment: Word in Sch. 2 para. 3(2) substituted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 4(4)(c)](https://www.legislation.gov.uk/ukpga/2025/4/section/4/4/c), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
-[^key-c1cd28f8892a02e25f2808c8bf233338]: Textual amendment: Word in [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/ukpga/1996/23/schedule/2/paragraph/10/2) substituted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 4(4)(c)](https://www.legislation.gov.uk/ukpga/2025/4/section/4/4/c), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-c1cd28f8892a02e25f2808c8bf233338]: Textual amendment: Word in [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/ukpga/1996/23/schedule/2/paragraph/10/2) substituted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 4(4)(c)](https://www.legislation.gov.uk/ukpga/2025/4/section/4/4/c), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)

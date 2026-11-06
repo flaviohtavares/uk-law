@@ -16,26 +16,26 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## D7. Early entitlement to retirement benefits: ill-health (affected by repeal, see note)[^key-046ff794af34cc7fcc475a3038fbfe4b][^key-24f17523d80f91b5e2c8c7c012137111][^key-24f17523d80f91b5e2c8c7c012137111]
+## D7. Early entitlement to retirement benefits: ill-health (affected by repeal, see note)[^c-046ff794af34cc7fcc475a3038fbfe4b][^c-24f17523d80f91b5e2c8c7c012137111][^c-24f17523d80f91b5e2c8c7c012137111]
 
 *Extent: N.I.*
 
-(1) Subject to the following provisions of this Part, where a member— *(affected by repeal, see note)*[^key-24f17523d80f91b5e2c8c7c012137111]
+(1) Subject to the following provisions of this Part, where a member— *(affected by repeal, see note)*[^c-24f17523d80f91b5e2c8c7c012137111]
 
-- (a) ceases to hold a local government employment by reason of being permanently incapable as defined in regulation J1(5) of discharging efficiently the duties of that employment by reason of ill-health or infirmity of mind or body, and *(affected by repeal, see note)*[^key-24f17523d80f91b5e2c8c7c012137111]
-- (b) has a statutory pension entitlement, *(affected by repeal, see note)*[^key-24f17523d80f91b5e2c8c7c012137111]
+- (a) ceases to hold a local government employment by reason of being permanently incapable as defined in regulation J1(5) of discharging efficiently the duties of that employment by reason of ill-health or infirmity of mind or body, and *(affected by repeal, see note)*[^c-24f17523d80f91b5e2c8c7c012137111]
+- (b) has a statutory pension entitlement, *(affected by repeal, see note)*[^c-24f17523d80f91b5e2c8c7c012137111]
 
-he is entitled— *(affected by repeal, see note)*[^key-24f17523d80f91b5e2c8c7c012137111]
+he is entitled— *(affected by repeal, see note)*[^c-24f17523d80f91b5e2c8c7c012137111]
 
-- (i) to a standard retirement pension, and *(affected by repeal, see note)*[^key-24f17523d80f91b5e2c8c7c012137111]
-- (ii (affected by repeal, see note))[^key-24f17523d80f91b5e2c8c7c012137111] to a standard retirement grant, *(affected by repeal, see note)*[^key-24f17523d80f91b5e2c8c7c012137111]
+- (i) to a standard retirement pension, and *(affected by repeal, see note)*[^c-24f17523d80f91b5e2c8c7c012137111]
+- (ii (affected by repeal, see note))[^c-24f17523d80f91b5e2c8c7c012137111] to a standard retirement grant, *(affected by repeal, see note)*[^c-24f17523d80f91b5e2c8c7c012137111]
 
-which are payable immediately on his ceasing to hold that employment. *(affected by repeal, see note)*[^key-24f17523d80f91b5e2c8c7c012137111]
+which are payable immediately on his ceasing to hold that employment. *(affected by repeal, see note)*[^c-24f17523d80f91b5e2c8c7c012137111]
 
-(2) Where the member’s total period of membership is at least 5 years, he is to be treated for the purposes of this regulation as being entitled to count as a period of membership an additional period calculated in accordance with Schedule D3. *(affected by repeal, see note)*[^key-24f17523d80f91b5e2c8c7c012137111]
+(2) Where the member’s total period of membership is at least 5 years, he is to be treated for the purposes of this regulation as being entitled to count as a period of membership an additional period calculated in accordance with Schedule D3. *(affected by repeal, see note)*[^c-24f17523d80f91b5e2c8c7c012137111]
 
 ## Annotations
 
-[^key-046ff794af34cc7fcc475a3038fbfe4b]: Commencement: Reg. D7 in operation at 1.8.2000 with effect in accordance with reg. A1(9)
+[^c-046ff794af34cc7fcc475a3038fbfe4b]: Commencement: Reg. D7 in operation at 1.8.2000 with effect in accordance with reg. A1(9)
 
-[^key-24f17523d80f91b5e2c8c7c012137111]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2014/189/regulation/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with savings and transitional provisions in [reg. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3), [Sch. 5](https://www.legislation.gov.uk/nisr/2014/189/schedule/5))
+[^c-24f17523d80f91b5e2c8c7c012137111]: Textual amendment: Regulations revoked (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2014/189/regulation/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with savings and transitional provisions in [reg. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3), [Sch. 5](https://www.legislation.gov.uk/nisr/2014/189/schedule/5))

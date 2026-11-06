@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Requirements in relation to the financial sustainability of the service[^key-7ca73e3e0787c6d0de853a0701e82e1d]
+## 9. Requirements in relation to the financial sustainability of the service[^c-7ca73e3e0787c6d0de853a0701e82e1d]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ca73e3e0787c6d0de853a0701e82e1d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2019/762/regulation/9) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-7ca73e3e0787c6d0de853a0701e82e1d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2019/762/regulation/9) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

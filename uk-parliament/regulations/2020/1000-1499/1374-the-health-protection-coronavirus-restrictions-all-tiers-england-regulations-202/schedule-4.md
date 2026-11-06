@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Tier 2, Tier 3 and Tier 4 area[^key-a324717ed50d7645802f564b858b2050]
+## SCHEDULE 4 — Tier 2, Tier 3 and Tier 4 area[^c-a324717ed50d7645802f564b858b2050]
 
 *Extent: E+W*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulation 8(4)(d) and (f)
 
-### PART 1 — Tier 2 area[^key-a324717ed50d7645802f564b858b2050]
+### PART 1 — Tier 2 area[^c-a324717ed50d7645802f564b858b2050]
 
-[^key-a324717ed50d7645802f564b858b2050]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 2 — Tier 3 area[^key-a324717ed50d7645802f564b858b2050]
-
-[^key-a324717ed50d7645802f564b858b2050]
+[^c-a324717ed50d7645802f564b858b2050]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Tier 4 area[^key-a324717ed50d7645802f564b858b2050]
+### PART 2 — Tier 3 area[^c-a324717ed50d7645802f564b858b2050]
+
+[^c-a324717ed50d7645802f564b858b2050]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3 — Tier 4 area[^c-a324717ed50d7645802f564b858b2050]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a324717ed50d7645802f564b858b2050]: Textual amendment: Regulations revoked (except regs. 13, 17, Schs. 5, 6) (29.3.2021) by [The Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021 (S.I. 2021/364)](https://www.legislation.gov.uk/uksi/2021/364), [reg. 22](https://www.legislation.gov.uk/uksi/2021/364/regulation/22) (with [regs. 21](https://www.legislation.gov.uk/uksi/2021/364/regulation/21), [23(3)(4)](https://www.legislation.gov.uk/uksi/2021/364/regulation/23/3))
+[^c-a324717ed50d7645802f564b858b2050]: Textual amendment: Regulations revoked (except regs. 13, 17, Schs. 5, 6) (29.3.2021) by [The Health Protection (Coronavirus, Restrictions) (Steps) (England) Regulations 2021 (S.I. 2021/364)](https://www.legislation.gov.uk/uksi/2021/364), [reg. 22](https://www.legislation.gov.uk/uksi/2021/364/regulation/22) (with [regs. 21](https://www.legislation.gov.uk/uksi/2021/364/regulation/21), [23(3)(4)](https://www.legislation.gov.uk/uksi/2021/364/regulation/23/3))

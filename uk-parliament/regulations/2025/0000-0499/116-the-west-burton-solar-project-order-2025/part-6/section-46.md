@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Guarantees in respect of payment of compensation[^key-e12a006c6781818b6a761727bcb296cd]
+## 46. Guarantees in respect of payment of compensation[^c-e12a006c6781818b6a761727bcb296cd]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e12a006c6781818b6a761727bcb296cd]: Commencement: Art. 46 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-e12a006c6781818b6a761727bcb296cd]: Commencement: Art. 46 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Transitional provisions[^key-3a95801aa7d4337b2f07ba17f6be4374]
+## 77. Transitional provisions[^c-3a95801aa7d4337b2f07ba17f6be4374]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) An application for the variation of a GGETSR emissions plan that has not been determined under GGETSR 2012 may be treated by the regulator as an application made under article 31.
 
-(4)[^key-013d62db057ae954b6bff25bba5abb60] The Monitoring and Reporting Regulation 2018 and the Verification Regulation 2018 are to be read as if references, however expressed, to a report submitted or information obtained under Commission Implementing Regulation 2018/2067 in relation to a year or other period before 2021 were to a report submitted or other information obtained under that Regulation as it had effect in EU law or under the Verification Regulation 2012.
+(4)[^c-013d62db057ae954b6bff25bba5abb60] The Monitoring and Reporting Regulation 2018 and the Verification Regulation 2018 are to be read as if references, however expressed, to a report submitted or information obtained under Commission Implementing Regulation 2018/2067 in relation to a year or other period before 2021 were to a report submitted or other information obtained under that Regulation as it had effect in EU law or under the Verification Regulation 2012.
 
 (5) A person referred to in paragraph (6) may—
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a95801aa7d4337b2f07ba17f6be4374]: Commencement: Art. 77 in force at 12.11.2020, see art. 2(1)
+[^c-3a95801aa7d4337b2f07ba17f6be4374]: Commencement: Art. 77 in force at 12.11.2020, see art. 2(1)
 
-[^key-013d62db057ae954b6bff25bba5abb60]: Textual amendment: Art. 77(4)-(7) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [33(2)](https://www.legislation.gov.uk/uksi/2020/1557/article/33/2)
+[^c-013d62db057ae954b6bff25bba5abb60]: Textual amendment: Art. 77(4)-(7) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [33(2)](https://www.legislation.gov.uk/uksi/2020/1557/article/33/2)

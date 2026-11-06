@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Residential property holding companies[^key-1b253cd9a93e3abdbd965681159b8023]
+## 47. Residential property holding companies[^c-1b253cd9a93e3abdbd965681159b8023]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b253cd9a93e3abdbd965681159b8023]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2013/11/section/47) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-1b253cd9a93e3abdbd965681159b8023]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2013/11/section/47) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.109. Secured creditors[^key-e98a9c6558eac63f0e3345ed8eb5db63]
+## 6.109. Secured creditors[^c-e98a9c6558eac63f0e3345ed8eb5db63]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e98a9c6558eac63f0e3345ed8eb5db63]: Commencement: [Rule 6.109](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.109) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-e98a9c6558eac63f0e3345ed8eb5db63]: Commencement: [Rule 6.109](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.109) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

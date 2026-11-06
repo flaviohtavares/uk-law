@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 247. Supplementary provisions as to Crown interest.[^key-fdd1437938824b321fa84ca7f962ff43]
+## 247. Supplementary provisions as to Crown interest.[^c-fdd1437938824b321fa84ca7f962ff43]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdd1437938824b321fa84ca7f962ff43]: Textual amendment: S. 247 repealed (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(e)](https://www.legislation.gov.uk/ssi/2006/268/article/3/e)
+[^c-fdd1437938824b321fa84ca7f962ff43]: Textual amendment: S. 247 repealed (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(e)](https://www.legislation.gov.uk/ssi/2006/268/article/3/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Amount of partial retirement pension[^key-ed4040679c46ca7636f3d6126cbaa66c]
+## 55. Amount of partial retirement pension[^c-ed4040679c46ca7636f3d6126cbaa66c]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed4040679c46ca7636f3d6126cbaa66c]: Commencement: [Reg. 55](https://www.legislation.gov.uk/nisr/2014/290/regulation/55) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-ed4040679c46ca7636f3d6126cbaa66c]: Commencement: [Reg. 55](https://www.legislation.gov.uk/nisr/2014/290/regulation/55) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

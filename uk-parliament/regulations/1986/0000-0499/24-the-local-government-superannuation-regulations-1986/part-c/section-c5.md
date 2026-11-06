@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C5. Lump sum payment to increase reckonable service[^key-1c179b9b85dc527df384b787f7d9acb9]
+## C5. Lump sum payment to increase reckonable service[^c-1c179b9b85dc527df384b787f7d9acb9]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c179b9b85dc527df384b787f7d9acb9]: Commencement: [Reg. C5](https://www.legislation.gov.uk/uksi/1986/24/regulation/C5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-1c179b9b85dc527df384b787f7d9acb9]: Commencement: [Reg. C5](https://www.legislation.gov.uk/uksi/1986/24/regulation/C5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

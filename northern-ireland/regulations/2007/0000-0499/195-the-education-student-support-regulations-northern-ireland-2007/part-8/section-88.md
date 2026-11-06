@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Interest[^key-89fcecdbb2b7cf00dfb8f3f637ad50c1]
+## 88. Interest[^c-89fcecdbb2b7cf00dfb8f3f637ad50c1]
 
 *Extent: N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-89fcecdbb2b7cf00dfb8f3f637ad50c1]: Commencement: [Reg. 88](https://www.legislation.gov.uk/nisr/2007/195/regulation/88) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-89fcecdbb2b7cf00dfb8f3f637ad50c1]: Commencement: [Reg. 88](https://www.legislation.gov.uk/nisr/2007/195/regulation/88) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00053]: Footnote: [S.I. 1980/51](https://www.legislation.gov.uk/uksi/1980/51), amended by [S.I. 1989/596](https://www.legislation.gov.uk/uksi/1989/596) and [S.I. 1999/3177](https://www.legislation.gov.uk/uksi/1999/3177).
 

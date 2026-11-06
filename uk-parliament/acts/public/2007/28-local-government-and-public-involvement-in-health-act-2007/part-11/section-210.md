@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Joint waste authorities in Wales[^key-d21fea4235459242f9d32644ba43a4d8]
+## 210. Joint waste authorities in Wales[^c-d21fea4235459242f9d32644ba43a4d8]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d21fea4235459242f9d32644ba43a4d8]: Commencement: S. 210 in force at 1.4.2008 for W. save in relation to a police authority for a police area in Wales by [S.I. 2008/591](https://www.legislation.gov.uk/uksi/2008/591), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/591/article/2/c)
+[^c-d21fea4235459242f9d32644ba43a4d8]: Commencement: S. 210 in force at 1.4.2008 for W. save in relation to a police authority for a police area in Wales by [S.I. 2008/591](https://www.legislation.gov.uk/uksi/2008/591), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/591/article/2/c)

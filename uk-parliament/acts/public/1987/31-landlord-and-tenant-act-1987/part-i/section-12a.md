@@ -43,10 +43,10 @@ summary: ''
 - (a) a notice under this section has effect only in relation to the premises to which this Part applied at the time of the original disposal, and
 - (b) the terms of the contract shall have effect with any necessary modifications.
 
-In such a case the notice under this section may specify the subject-matter of the disposal, and the terms on which the disposal is to be made (whether doing so expressly or by reference to the original disposal), or may provide for that estate or interest, or any such terms, to be determined by the appropriate tribunal[^key-af903abbe3e0fa76fba28a52166f6318].
+In such a case the notice under this section may specify the subject-matter of the disposal, and the terms on which the disposal is to be made (whether doing so expressly or by reference to the original disposal), or may provide for that estate or interest, or any such terms, to be determined by the appropriate tribunal[^c-af903abbe3e0fa76fba28a52166f6318].
 
 ## Annotations
 
 [^c10161391]: Textual amendment: Ss. 11, 11A, 12A-12D, 13, 14 and crossheading substituted for ss. 11-15 (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 92(1)](https://www.legislation.gov.uk/ukpga/1996/52/section/92/1), [Sch. 6 Pt. II](https://www.legislation.gov.uk/ukpga/1996/52/schedule/6/part/II); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
-[^key-af903abbe3e0fa76fba28a52166f6318]: Textual amendment: Words in s. 12A(5) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 60](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/60) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-af903abbe3e0fa76fba28a52166f6318]: Textual amendment: Words in s. 12A(5) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 60](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/60) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

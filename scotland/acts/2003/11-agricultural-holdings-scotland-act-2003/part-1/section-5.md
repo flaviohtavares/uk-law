@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Limited duration tenancies[^key-37b787e36607ab0fddd359bd6ba24c02]
+## 5. Limited duration tenancies[^c-37b787e36607ab0fddd359bd6ba24c02]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37b787e36607ab0fddd359bd6ba24c02]: Textual amendment: [S. 5](https://www.legislation.gov.uk/asp/2003/11/section/5) repealed (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 85(2)](https://www.legislation.gov.uk/asp/2016/18/section/85/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2017/299/regulation/4))
+[^c-37b787e36607ab0fddd359bd6ba24c02]: Textual amendment: [S. 5](https://www.legislation.gov.uk/asp/2003/11/section/5) repealed (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 85(2)](https://www.legislation.gov.uk/asp/2016/18/section/85/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2017/299/regulation/4))

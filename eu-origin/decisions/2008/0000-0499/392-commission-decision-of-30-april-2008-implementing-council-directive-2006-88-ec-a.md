@@ -85,11 +85,11 @@ HAS ADOPTED THIS DECISION:
 
 ## Article 1. Subject matter and scope
 
-1. This Decision lays down rules on an Internet-based information page to be established by the appropriate authority[^key-eadb441e48ab3956642d807ec2b3f1a7] to make information on aquaculture production businesses and authorised processing establishments available by electronic means [^key-e89bf2d400764c36b3194bda28d3ea6f]....
+1. This Decision lays down rules on an Internet-based information page to be established by the appropriate authority[^c-eadb441e48ab3956642d807ec2b3f1a7] to make information on aquaculture production businesses and authorised processing establishments available by electronic means [^c-e89bf2d400764c36b3194bda28d3ea6f]....
 
-2. This Decision also applies[^key-75acf1521e020626fbc1e32fd66d8006] *mutatis mutandis* to installations, put and take fisheries and aquaculture production businesses registered in accordance with Part 2 of the Aquatic Animal Health Regulations[^key-31903486d818ea0213e55c72f72ba8c5].
+2. This Decision also applies[^c-75acf1521e020626fbc1e32fd66d8006] *mutatis mutandis* to installations, put and take fisheries and aquaculture production businesses registered in accordance with Part 2 of the Aquatic Animal Health Regulations[^c-31903486d818ea0213e55c72f72ba8c5].
 
-## Article 1a. Interpretation[^key-897f159c1d7c764576d03e6ea02aca3f]
+## Article 1a. Interpretation[^c-897f159c1d7c764576d03e6ea02aca3f]
 
 In this Decision—
 
@@ -108,47 +108,47 @@ In this Decision—
 
 ## Article 2. Internet-based information page
 
-1. The appropriate authority[^key-16d4436997cc74d41c31e5370bb1a208] shall establish an Internet-based information page (the Internet-based information page) to make available information on farms or mollusc farming areas of aquaculture production businesses and authorised processing establishments which are authorised in accordance with Part 2 of the Aquatic Animal Health Regulations[^key-f63cbb54aa6327591fd3f173bd8c646d].
+1. The appropriate authority[^c-16d4436997cc74d41c31e5370bb1a208] shall establish an Internet-based information page (the Internet-based information page) to make available information on farms or mollusc farming areas of aquaculture production businesses and authorised processing establishments which are authorised in accordance with Part 2 of the Aquatic Animal Health Regulations[^c-f63cbb54aa6327591fd3f173bd8c646d].
 
-The appropriate authority[^key-e0b26d395f08e3ca8f24371686d9d7d6] shall decide on a case-by-case basis which installations, put and take fisheries and aquaculture production businesses referred to in Article 1(2) must be listed on the Internet-based information page, taking into account the risk of the spread of aquatic animal diseases resulting from the operations of such installations, fisheries and businesses, based on their nature, characteristics and location.
+The appropriate authority[^c-e0b26d395f08e3ca8f24371686d9d7d6] shall decide on a case-by-case basis which installations, put and take fisheries and aquaculture production businesses referred to in Article 1(2) must be listed on the Internet-based information page, taking into account the risk of the spread of aquatic animal diseases resulting from the operations of such installations, fisheries and businesses, based on their nature, characteristics and location.
 
-2.[^key-8c9b73acd2c3bafe28eff3eace702271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-8c9b73acd2c3bafe28eff3eace702271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3. The appropriate authority[^key-6045ffe4d962f522cf163eebad3cf969] shall keep the Internet-based information page updated so that it corresponds with the information included in the register kept pursuant to Part 2 of the Aquatic Animal Health Regulations[^key-f5c627d5315882e645a146c887548807].
+3. The appropriate authority[^c-6045ffe4d962f522cf163eebad3cf969] shall keep the Internet-based information page updated so that it corresponds with the information included in the register kept pursuant to Part 2 of the Aquatic Animal Health Regulations[^c-f5c627d5315882e645a146c887548807].
 
 Changes in health status shall be introduced in the Internet-based information page as soon as the health status recorded has changed.
 
-4.[^key-5322b765070bae5db2604e5ea462f638] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-5322b765070bae5db2604e5ea462f638] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Date of application[^key-ca81cbf7afa666f1103d9f7218f0839f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 4. Addressees[^key-dc4a8f37c5dbada033bf7ffbd45a0c7e]
+## Article 3. Date of application[^c-ca81cbf7afa666f1103d9f7218f0839f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5de46fb5cf4676be77a6cf1d886b3875]...
+## Article 4. Addressees[^c-dc4a8f37c5dbada033bf7ffbd45a0c7e]
 
-## ANNEX I[^key-78480d94b9d6e8115d41274d0c88ebd2]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5de46fb5cf4676be77a6cf1d886b3875]...
+
+## ANNEX I[^c-78480d94b9d6e8115d41274d0c88ebd2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-78480d94b9d6e8115d41274d0c88ebd2]
+## ANNEX II[^c-78480d94b9d6e8115d41274d0c88ebd2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-78480d94b9d6e8115d41274d0c88ebd2]
+## ANNEX III[^c-78480d94b9d6e8115d41274d0c88ebd2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-78480d94b9d6e8115d41274d0c88ebd2]
+## ANNEX IV[^c-78480d94b9d6e8115d41274d0c88ebd2]
 
 **No longer in force.**
 
@@ -158,34 +158,34 @@ Changes in health status shall be introduced in the Internet-based information p
 
 [^f00001]: Footnote: [OJ L 328, 24.11.2006, p. 14](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.328.01.0014.01.ENG).
 
-[^key-eadb441e48ab3956642d807ec2b3f1a7]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2008/392/article/1/1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/2/a/i)
+[^c-eadb441e48ab3956642d807ec2b3f1a7]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2008/392/article/1/1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/2/a/i)
 
-[^key-e89bf2d400764c36b3194bda28d3ea6f]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2008/392/article/1/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/2/a/ii)
+[^c-e89bf2d400764c36b3194bda28d3ea6f]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eudn/2008/392/article/1/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/2/a/ii)
 
-[^key-75acf1521e020626fbc1e32fd66d8006]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eudn/2008/392/article/1/2) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/2/b/i)
+[^c-75acf1521e020626fbc1e32fd66d8006]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eudn/2008/392/article/1/2) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/2/b/i)
 
-[^key-31903486d818ea0213e55c72f72ba8c5]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eudn/2008/392/article/1/2) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/2/b/ii)
+[^c-31903486d818ea0213e55c72f72ba8c5]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eudn/2008/392/article/1/2) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/2/b/ii)
 
-[^key-897f159c1d7c764576d03e6ea02aca3f]: Textual amendment: [Art. 1a](https://www.legislation.gov.uk/eudn/2008/392/article/1a) inserted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/3)
+[^c-897f159c1d7c764576d03e6ea02aca3f]: Textual amendment: [Art. 1a](https://www.legislation.gov.uk/eudn/2008/392/article/1a) inserted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/3)
 
-[^key-16d4436997cc74d41c31e5370bb1a208]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eudn/2008/392/article/2/1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(4)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/4/a/i/aa)
+[^c-16d4436997cc74d41c31e5370bb1a208]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eudn/2008/392/article/2/1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(4)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/4/a/i/aa)
 
-[^key-f63cbb54aa6327591fd3f173bd8c646d]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eudn/2008/392/article/2/1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(4)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/4/a/i/bb)
+[^c-f63cbb54aa6327591fd3f173bd8c646d]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eudn/2008/392/article/2/1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(4)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/4/a/i/bb)
 
-[^key-e0b26d395f08e3ca8f24371686d9d7d6]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eudn/2008/392/article/2/1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/4/a/ii)
+[^c-e0b26d395f08e3ca8f24371686d9d7d6]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eudn/2008/392/article/2/1) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/4/a/ii)
 
-[^key-8c9b73acd2c3bafe28eff3eace702271]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/eudn/2008/392/article/2/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/4/b)
+[^c-8c9b73acd2c3bafe28eff3eace702271]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/eudn/2008/392/article/2/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/4/b)
 
-[^key-6045ffe4d962f522cf163eebad3cf969]: Textual amendment: Words in [Art. 2(3)](https://www.legislation.gov.uk/eudn/2008/392/article/2/3) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(4)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/4/c/i)
+[^c-6045ffe4d962f522cf163eebad3cf969]: Textual amendment: Words in [Art. 2(3)](https://www.legislation.gov.uk/eudn/2008/392/article/2/3) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(4)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/4/c/i)
 
-[^key-f5c627d5315882e645a146c887548807]: Textual amendment: Words in [Art. 2(3)](https://www.legislation.gov.uk/eudn/2008/392/article/2/3) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/4/c/ii)
+[^c-f5c627d5315882e645a146c887548807]: Textual amendment: Words in [Art. 2(3)](https://www.legislation.gov.uk/eudn/2008/392/article/2/3) substituted (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/4/c/ii)
 
-[^key-5322b765070bae5db2604e5ea462f638]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/eudn/2008/392/article/2/4) omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(4)(d)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/4/d)
+[^c-5322b765070bae5db2604e5ea462f638]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/eudn/2008/392/article/2/4) omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(4)(d)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/4/d)
 
-[^key-ca81cbf7afa666f1103d9f7218f0839f]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2008/392/article/3) omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(5)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/5)
+[^c-ca81cbf7afa666f1103d9f7218f0839f]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2008/392/article/3) omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(5)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/5)
 
-[^key-dc4a8f37c5dbada033bf7ffbd45a0c7e]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eudn/2008/392/article/4) omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(5)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/5)
+[^c-dc4a8f37c5dbada033bf7ffbd45a0c7e]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eudn/2008/392/article/4) omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(5)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/5)
 
-[^key-5de46fb5cf4676be77a6cf1d886b3875]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eudn/2008/392/signature) omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(5)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/5)
+[^c-5de46fb5cf4676be77a6cf1d886b3875]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eudn/2008/392/signature) omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(5)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/5)
 
-[^key-78480d94b9d6e8115d41274d0c88ebd2]: Textual amendment: Annexes 1-4 omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(5)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/5)
+[^c-78480d94b9d6e8115d41274d0c88ebd2]: Textual amendment: Annexes 1-4 omitted (E.W.S.) (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [6(5)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/6/5)

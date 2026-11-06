@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: S*
 
-The Scottish Ministers may[^key-f976e87560f4c181373d3b6f7fb08c41]... make rules as to the fees chargeable by the Lands Tribunal in respect of that tribunal’s functions under this Act.
+The Scottish Ministers may[^c-f976e87560f4c181373d3b6f7fb08c41]... make rules as to the fees chargeable by the Lands Tribunal in respect of that tribunal’s functions under this Act.
 
 ## Annotations
 
-[^key-f976e87560f4c181373d3b6f7fb08c41]: Textual amendment: Words in [s. 126](https://www.legislation.gov.uk/asp/2003/9/section/126) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/26)
+[^c-f976e87560f4c181373d3b6f7fb08c41]: Textual amendment: Words in [s. 126](https://www.legislation.gov.uk/asp/2003/9/section/126) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/26)

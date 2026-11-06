@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Unless Part 16 of these Regulations (revocations and savings) applies, the application fee for a marketing authorisation (other than a European Union marketing authorisation), a parallel import licence, a traditional herbal registration, a manufacturer's licence, a manufacturing authorisation, a wholesale dealer's licence, a clinical trial authorisation, a broker's registration , an application under the Early Access to Medicines Scheme[^key-313132f41b760e14b01dfe40a7af8327] or an active substance registration is—
+(1) Unless Part 16 of these Regulations (revocations and savings) applies, the application fee for a marketing authorisation (other than a European Union marketing authorisation), a parallel import licence, a traditional herbal registration, a manufacturer's licence, a manufacturing authorisation, a wholesale dealer's licence, a clinical trial authorisation, a broker's registration , an application under the Early Access to Medicines Scheme[^c-313132f41b760e14b01dfe40a7af8327] or an active substance registration is—
 
 - (a) the fee prescribed for that application in Part 2 of Schedule 2; and
 - (b) in respect of an inspection of a site made in connection with that application, the fee payable in accordance with regulations 30 and 32 to 37.
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-313132f41b760e14b01dfe40a7af8327]: Textual amendment: Words in reg. 12(1) inserted (1.4.2023) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2023 (S.I. 2023/314)](https://www.legislation.gov.uk/uksi/2023/314), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/314/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/314/regulation/10)
+[^c-313132f41b760e14b01dfe40a7af8327]: Textual amendment: Words in reg. 12(1) inserted (1.4.2023) by [The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2023 (S.I. 2023/314)](https://www.legislation.gov.uk/uksi/2023/314), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/314/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/314/regulation/10)

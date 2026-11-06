@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Power to define “relevant consent” and “relevant plan” etc[^key-4bb5e2908b6edf0cf6bef90cab6fdd67]
+## 154. Power to define “relevant consent” and “relevant plan” etc[^c-4bb5e2908b6edf0cf6bef90cab6fdd67]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,7 +56,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4bb5e2908b6edf0cf6bef90cab6fdd67]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2023/55/section/154) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-4bb5e2908b6edf0cf6bef90cab6fdd67]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2023/55/section/154) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
 
 [^M_F_0346dcb3-90de-4e4a-8164-bb1a348ade93]: Textual amendment: Words in s. 154(9) substituted (12.2.2026) by [Biodiversity Beyond National Jurisdiction Act 2026 (c. 6)](https://www.legislation.gov.uk/ukpga/2026/6), [ss. 26(a)](https://www.legislation.gov.uk/ukpga/2026/6/section/26/a), [32(1)](https://www.legislation.gov.uk/ukpga/2026/6/section/32/1) (with [s. 30](https://www.legislation.gov.uk/ukpga/2026/6/section/30))
 

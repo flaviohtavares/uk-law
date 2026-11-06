@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Substitution of sections 34A and 34B[^key-9ceea93487ee2d5c39aefa5ebcbe5a27]
+## 27. Substitution of sections 34A and 34B[^c-9ceea93487ee2d5c39aefa5ebcbe5a27]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ For sections 34A and 34B[^f00008] substitute—
 
 ## Annotations
 
-[^key-9ceea93487ee2d5c39aefa5ebcbe5a27]: Commencement: Art. 27 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-9ceea93487ee2d5c39aefa5ebcbe5a27]: Commencement: Art. 27 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00008]: Footnote: Sections 34A and 34B were inserted by S.I. [2001/3926](https://www.legislation.gov.uk/uksi/2001/3926).

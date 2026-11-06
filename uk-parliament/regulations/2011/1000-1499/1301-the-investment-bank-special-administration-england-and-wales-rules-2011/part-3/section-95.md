@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Requisite majorities at contributories’ meetings[^key-df6de9bdc5782778f90490c2e3ab6fac]
+## 95. Requisite majorities at contributories’ meetings[^c-df6de9bdc5782778f90490c2e3ab6fac]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ At a meeting of contributories, voting rights are as at a general meeting of the
 
 ## Annotations
 
-[^key-df6de9bdc5782778f90490c2e3ab6fac]: Commencement: [Rule 95](https://www.legislation.gov.uk/uksi/2011/1301/rule/95) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-df6de9bdc5782778f90490c2e3ab6fac]: Commencement: [Rule 95](https://www.legislation.gov.uk/uksi/2011/1301/rule/95) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

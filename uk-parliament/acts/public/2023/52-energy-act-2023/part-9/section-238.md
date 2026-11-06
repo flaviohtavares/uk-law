@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238. Energy smart appliances and load control[^key-708d77d07d6084f47697338efbfdd86e][^key-8adbc98e1ba8314d27656b0343f4ec75]
+## 238. Energy smart appliances and load control[^c-708d77d07d6084f47697338efbfdd86e][^c-8adbc98e1ba8314d27656b0343f4ec75]
 
 *Extent: E+W+S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-708d77d07d6084f47697338efbfdd86e]: Commencement: S. 238 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-708d77d07d6084f47697338efbfdd86e]: Commencement: S. 238 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-8adbc98e1ba8314d27656b0343f4ec75]: Commencement: [S. 238](https://www.legislation.gov.uk/ukpga/2023/52/section/238) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/i)
+[^c-8adbc98e1ba8314d27656b0343f4ec75]: Commencement: [S. 238](https://www.legislation.gov.uk/ukpga/2023/52/section/238) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/i)

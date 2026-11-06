@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Fees for vehicle and operators’ licences.[^key-79573d0b5ea25d6c98d258e178d19fb7]
+## 70. Fees for vehicle and operators’ licences.[^c-79573d0b5ea25d6c98d258e178d19fb7]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ or, in any such case, such other sums as a district council may, subject to the 
 
 ## Annotations
 
-[^key-79573d0b5ea25d6c98d258e178d19fb7]: Modification: S. 70 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))
+[^c-79573d0b5ea25d6c98d258e178d19fb7]: Modification: S. 70 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))

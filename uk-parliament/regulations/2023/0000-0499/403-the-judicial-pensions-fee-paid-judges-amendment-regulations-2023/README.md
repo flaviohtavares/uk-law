@@ -133,7 +133,7 @@ A draft of this instrument has been laid before and approved by a resolution of 
 - [Section 69 — Additional payment where no or insufficient interim amendments payments made](part-3/section-69.md)
 - [Section 70 — Repayment of any excess interim amendments payments](part-3/section-70.md)
 
-### Part 3A — Benefits in respect of periods after amendment day[^key-d108ef33542de5adb120a824558ba2a9]
+### Part 3A — Benefits in respect of periods after amendment day[^c-d108ef33542de5adb120a824558ba2a9]
 
 - [Section 70A — Benefits in respect of period after amendments](part-3a/section-70a.md)
 - [Section 70B — Meaning of “approximated pension payments amount” and “post-amendment day benefits increase amount”](part-3a/section-70b.md)
@@ -192,4 +192,4 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00003]: Footnote: Paragraph (2A) was inserted by section 78(2) of the Pensions Schemes Act 2015.
 
-[^key-d108ef33542de5adb120a824558ba2a9]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2023/403/part/3A) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/1358/regulation/2)
+[^c-d108ef33542de5adb120a824558ba2a9]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2023/403/part/3A) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/1358/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Notices.[^key-0b08639c24142de0462576989672f24f]
+## 56. Notices.[^c-0b08639c24142de0462576989672f24f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b08639c24142de0462576989672f24f]: Modification: [S. 56](https://www.legislation.gov.uk/ukpga/1982/16/section/56) applied (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 50(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/50/1), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 90](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/90) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-0b08639c24142de0462576989672f24f]: Modification: [S. 56](https://www.legislation.gov.uk/ukpga/1982/16/section/56) applied (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 50(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/50/1), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 90](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/90) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
 [^c2541171]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

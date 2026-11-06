@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 13.5. Evidence given under this Part[^key-0d3557ed59a5189a718f9dfc66e40393][^key-f1b15943beca40015c02d3f6e92e4130]
+## 13.5. Evidence given under this Part[^c-0d3557ed59a5189a718f9dfc66e40393][^c-f1b15943beca40015c02d3f6e92e4130]
 
 *Extent: E*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d3557ed59a5189a718f9dfc66e40393]: Textual amendment: Rule 13.5 substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [14](https://www.legislation.gov.uk/uksi/2019/1184/rule/14) (with [rule 23(3)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/3)[(4)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/4))
+[^c-0d3557ed59a5189a718f9dfc66e40393]: Textual amendment: Rule 13.5 substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [14](https://www.legislation.gov.uk/uksi/2019/1184/rule/14) (with [rule 23(3)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/3)[(4)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/4))
 
-[^key-f1b15943beca40015c02d3f6e92e4130]: Textual amendment: Rule 13.5 heading substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [14](https://www.legislation.gov.uk/uksi/2019/1184/rule/14) (with [rule 23(3)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/3)[(4)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/4))
+[^c-f1b15943beca40015c02d3f6e92e4130]: Textual amendment: Rule 13.5 heading substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [14](https://www.legislation.gov.uk/uksi/2019/1184/rule/14) (with [rule 23(3)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/3)[(4)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/4))

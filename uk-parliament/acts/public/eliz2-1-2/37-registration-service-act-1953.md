@@ -31,7 +31,7 @@ Registration Service Act 1953
 
 An Act to consolidate certain enactments relating to the registration service in England and Wales with corrections and improvements made under the Consolidation of Enactments (Procedure) Act 1949.
 
-\[31st July 1953\][^c603702][^c603703][^c603704][^c603705][^c603706][^key-ac083625a4a88157823da8380227b8dc]
+\[31st July 1953\][^c603702][^c603703][^c603704][^c603705][^c603706][^c-ac083625a4a88157823da8380227b8dc]
 
 ## Registrar General, etc.
 
@@ -39,7 +39,7 @@ An Act to consolidate certain enactments relating to the registration service in
 
 (1)[^M_F_dfc106b3-e458-4dd0-86df-0b2e5b93b4c5] Her Majesty may from time to time under the Great Seal of the United Kingdom appoint a Registrar General for England and Wales, and any person so appointed shall exercise the powers and perform the duties conferred or imposed by or under any enactment on the Registrar General, whether described by that title alone or with any additional description, and shall hold office during Her Majesty’s pleasure.
 
-(2)[^key-04afd4ac3c068827769021c92aa3db81] The Registrar General is a corporation sole by the name of the Registrar General for England and Wales.
+(2)[^c-04afd4ac3c068827769021c92aa3db81] The Registrar General is a corporation sole by the name of the Registrar General for England and Wales.
 
 (3) The Registrar General may do anything (including acquire or dispose of any property or rights) which is calculated to facilitate, or is conducive or incidental to, the discharge of any of his functions.
 
@@ -77,19 +77,19 @@ The offices of the Registrar General shall be known as the General Register Offi
 
 (1) Every superintendent registrar and every registrar of births and deaths shall be appointed by the council of the non-metropolitan county or metropolitan district in which his district or sub-district is situated.
 
-[^key-80f1cf9ab36be512869985defbc1aa50]...
+[^c-80f1cf9ab36be512869985defbc1aa50]...
 
 (2) No person shall be appointed as superintendent registrar or as registrar of births and deaths unless he is qualified in accordance with the prescribed conditions.
 
-(3) Every superintendent registrar and every registrar of births and deaths shall be an officer of[^key-d7629ac3e3ff898fbc89334a3616b532] the council of the non-metropolitan county or metropolitan district[^c603712] in which his district or sub-district is situated [^key-bf6e2d7e8d0997a24aee6a02a15e3e90]... .
+(3) Every superintendent registrar and every registrar of births and deaths shall be an officer of[^c-d7629ac3e3ff898fbc89334a3616b532] the council of the non-metropolitan county or metropolitan district[^c603712] in which his district or sub-district is situated [^c-bf6e2d7e8d0997a24aee6a02a15e3e90]... .
 
-(4)[^key-abc2c021b4a522ec6bb8d50a10e62f98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-abc2c021b4a522ec6bb8d50a10e62f98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Additional registrars of marriages.[^key-37b4410b913d0451f1d9d89791331d13]
+### 7. Additional registrars of marriages.[^c-37b4410b913d0451f1d9d89791331d13]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Deputy superintendent registrars and registrars.[^key-e109591aa8cbef5c3cf88851e059a3ff]
+### 8. Deputy superintendent registrars and registrars.[^c-e109591aa8cbef5c3cf88851e059a3ff]
 
 (1) Subject to the provisions of the local scheme, a council which employs a superintendent registrar or a registrar of births and deaths may appoint one or more fit persons to act as his deputy.
 
@@ -138,7 +138,7 @@ The Registrar General shall provide such number of strong fire-resisting boxes a
 - (c) determining the number of superintendent registrars, registrars of births and deaths and other officers required for the purposes of the Registration Acts within the non-metropolitan county or metropolitan district;
 - (d) subject to such exceptions, if any, as may be specified in the scheme, conferring and imposing on registrars of births and deaths the functions of registrars of marriages;
 - (e) fixing, subject to such power of revision as may be provided by the scheme, the salary and other remuneration, if any, to be attached to each office, and the allowances, if any, to be paid for travelling, for the provision of office accommodation and for other expenses;
-- (f) fixing, subject to such power of revision as may be provided by the scheme, the conditions on which an office is to be held, [^key-52a7382a12f2054946dc61fd2f1fb048]...;
+- (f) fixing, subject to such power of revision as may be provided by the scheme, the conditions on which an office is to be held, [^c-52a7382a12f2054946dc61fd2f1fb048]...;
 - (g) applying with any necessary modifications, adaptations and exceptions the provisions of the Local Government Act [^c603725] 1929 relating to the transfer, superannuation and compensation of officers;
 - (h) conferring on the proper officer of the non-metropolitan county or metropolitan district[^c603726] powers with respect to—
   - (i) the fixing of the hours of attendance of officers;
@@ -150,7 +150,7 @@ The Registrar General shall provide such number of strong fire-resisting boxes a
 - (a) make provision, where two or more officers are appointed to act for a single district or sub-district, for the distribution between them of the registration functions to be discharged within that district or sub-district, so, however, that any such distribution shall not render any such officer disqualified from acting at any time or at any place in that district or, as the case may be, sub-district; and
 - (b) confer on the proper officer of the non-metropolitan county or metropolitan district such general powers of supervising the administration within the non-metropolitan county or metropolitan district of the provisions of the Registration Acts as may be specified in the scheme.
 
-### 14. Preparation, submission and approval of local schemes.[^c603730][^key-735dc78b1b7035572b0c2cf5282505bc]
+### 14. Preparation, submission and approval of local schemes.[^c603730][^c-735dc78b1b7035572b0c2cf5282505bc]
 
 (1) The council of a non-metropolitan county or metropolitan district[^c603731] may from time to time prepare and submit to the Minister schemes for all or any of the purposes mentioned in the last foregoing section.
 
@@ -175,29 +175,29 @@ Provided that a scheme prepared by the Registrar General and approved by the Min
 
 ### 15. Delivery up of books, etc. on ceasing to hold office.
 
-(1)[^c603737] When any person ceases to hold the office of superintendent registrar, registrar of births and deaths or registrar of marriages for any district or sub-district, all register boxes, keys, books and documents in his possession as holder of that office for that district or sub-district shall be delivered up to his successor in office [^key-61600bb8f12ef3a2786ce30e49b69255]....
+(1)[^c603737] When any person ceases to hold the office of superintendent registrar, registrar of births and deaths or registrar of marriages for any district or sub-district, all register boxes, keys, books and documents in his possession as holder of that office for that district or sub-district shall be delivered up to his successor in office [^c-61600bb8f12ef3a2786ce30e49b69255]....
 
 (2) If any person who has in his custody or power any such article as aforementioned wilfully fails to deliver it up to, or account for it to the satisfaction of, the person in whose custody it should be, he shall be liable on summary conviction to a fine of level 2 on the standard scale[^c603738]; and if the failure continues after he is convicted thereof he shall be guilty of a further offence and be liable on summary conviction to a fine of five pounds for every day on which the failure has so continued.
 
 (3) If a justice of the peace is satisfied by information on oath that there is reasonable cause to believe that any article withheld in contravention of this section is in any specified house or place, he may grant a search warrant authorising any constable named therein to enter and search that house or place at any time and seize any such article so found, and any article so seized shall be delivered to the person in whose custody it should be.
 
-### 16. General provision as to fees.[^key-08290be0acfaf75bdb3d13f21b476f0b]
+### 16. General provision as to fees.[^c-08290be0acfaf75bdb3d13f21b476f0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 17. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c603739]
 
-### 18. Temporary provisions as to non-salaried officers.[^key-bf5ae81668ecc2cd59405bcac782a265]
+### 18. Temporary provisions as to non-salaried officers.[^c-bf5ae81668ecc2cd59405bcac782a265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Miscellaneous and general
 
-### 19. Annual abstract.[^c603755][^key-3959ad722327eb5dbbec8340bf90e848][^c603754]
+### 19. Annual abstract.[^c603755][^c-3959ad722327eb5dbbec8340bf90e848][^c603754]
 
-The Statistics Board[^key-68cc4fafc669ec0685c23c73f7eebb8e] shall send to the Minister for the Cabinet Office[^key-b250066721b4f17e5518bdc80f0f9d22] annually, in such form as the Minister for the Cabinet Office may from time to time require, a general abstract of the number of live-births, still-births, deaths , marriages and civil partnerships[^key-5c22b0ed91c2491c7de9acea8173b01f] registered in the year last preceding and the Minister for the Cabinet Office shall within one month after receipt thereof or of the meeting of Parliament lay that abstract before each House of Parliament.
+The Statistics Board[^c-68cc4fafc669ec0685c23c73f7eebb8e] shall send to the Minister for the Cabinet Office[^c-b250066721b4f17e5518bdc80f0f9d22] annually, in such form as the Minister for the Cabinet Office may from time to time require, a general abstract of the number of live-births, still-births, deaths , marriages and civil partnerships[^c-5c22b0ed91c2491c7de9acea8173b01f] registered in the year last preceding and the Minister for the Cabinet Office shall within one month after receipt thereof or of the meeting of Parliament lay that abstract before each House of Parliament.
 
-### 19A. Functions relating to transmission of information to Secretary of State[^key-5dafbcf648219deab12f77782aeeecd0]
+### 19A. Functions relating to transmission of information to Secretary of State[^c-5dafbcf648219deab12f77782aeeecd0]
 
 (1) The functions of a registrar of births and deaths, a superintendent registrar and the Registrar General include the power to—
 
@@ -218,7 +218,7 @@ for the purposes of the service in subsection (2).
 - (a) by virtue of any enactment, or
 - (b) by reason of the law relating to confidentiality or privacy.
 
-### 19AA. Disclosure of information[^key-db31a977873ba3b53c1bb547232b5932]
+### 19AA. Disclosure of information[^c-db31a977873ba3b53c1bb547232b5932]
 
 (1) A civil registration official may, subject to this section, disclose any information held in connection with any of the official's functions to—
 
@@ -287,7 +287,7 @@ for the purposes of the service in subsection (2).
 
 (1) The Registrar General must issue a code of practice about the disclosure of information under section 19AA.
 
-(2) The code of practice must be consistent with the code of practice prepared under section 121 of the Data Protection Act 2018 (data-sharing code) and issued under section 125(4) of that Act[^key-3eb9ef4f47083d07aa295cb7016b49c5] (as altered or replaced from time to time).
+(2) The code of practice must be consistent with the code of practice prepared under section 121 of the Data Protection Act 2018 (data-sharing code) and issued under section 125(4) of that Act[^c-3eb9ef4f47083d07aa295cb7016b49c5] (as altered or replaced from time to time).
 
 (3) A civil registration official must have regard to the code of practice in disclosing information under section 19AA.
 
@@ -296,7 +296,7 @@ for the purposes of the service in subsection (2).
 (5) Before issuing or revising the code of practice the Registrar General must consult—
 
 - (a) the Minister,
-- (b) the Information Commission[^key-b1f29df0de1b15cd88cd9cb7542b01b6], and
+- (b) the Information Commission[^c-b1f29df0de1b15cd88cd9cb7542b01b6], and
 - (c) such other persons as the Registrar General thinks fit.
 
 (6) The Registrar General may not issue the code of practice unless a draft of the code has been laid before, and approved by a resolution of, each House of Parliament.
@@ -312,20 +312,20 @@ for the purposes of the service in subsection (2).
 
 (10) For the purposes of subsection (9) no account is to be taken of any period during which Parliament is dissolved or prorogued or during which both Houses are adjourned for more than four days.
 
-(11) In disclosing information under section 19AA, a civil registration official must have regard to the following codes of practice issued by the Information Commission[^key-04cdfc7bd11e81b6d76b18f8b3c591f6] under section[^key-11a5d92a3d93571e02faabe250e391f5] 124A[^key-4ab9b5b6f2eb41dee8b710198294810b] of the Data Protection Act 2018, so far as they apply to the information in question—
+(11) In disclosing information under section 19AA, a civil registration official must have regard to the following codes of practice issued by the Information Commission[^c-04cdfc7bd11e81b6d76b18f8b3c591f6] under section[^c-11a5d92a3d93571e02faabe250e391f5] 124A[^c-4ab9b5b6f2eb41dee8b710198294810b] of the Data Protection Act 2018, so far as they apply to the information in question—
 
 - (a) any code which makes provision about the identification and reduction of the risks to privacy of a proposal to disclose information;
 - (b) any code which makes provision about the information to be provided to data subjects (within the meaning of that Act) about the use to be made of information collected from them.
 
 (12) The duty in subsection (11) does not affect any other requirement for the civil registration official to have regard to a code of practice in disclosing the information.
 
-### 19B. Fees ...[^key-279bf6b282093967f0011b56ae7617f4][^key-7a3b563e295289ced2a573ebf3d78c65]
+### 19B. Fees ...[^c-279bf6b282093967f0011b56ae7617f4][^c-7a3b563e295289ced2a573ebf3d78c65]
 
 (1) The Minister may by regulations provide for fees to be payable to the Registrar General in respect of the provision by the Registrar General to any persons of copies or other records of any information held by the Registrar General.
 
-(1A)[^key-8fe297fabb03be2ffcb782d8a1804fc8] The Minister may by regulations provide for fees to be payable to a civil registration official in respect of the disclosure by the official of information under section 19AA.
+(1A)[^c-8fe297fabb03be2ffcb782d8a1804fc8] The Minister may by regulations provide for fees to be payable to a civil registration official in respect of the disclosure by the official of information under section 19AA.
 
-(2) Regulations under this section[^key-2caa013f51951967efc8b4e97db590dd] may—
+(2) Regulations under this section[^c-2caa013f51951967efc8b4e97db590dd] may—
 
 - (a) specify the amount of any fee payable under the regulations, or
 - (b) set out how such a fee is to be determined.
@@ -342,7 +342,7 @@ for the purposes of the service in subsection (2).
 
 (6) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 20. Regulations.[^c603756][^c603757][^c603758][^key-eaf79f098612a26a68a998eaae12cb3e]
+### 20. Regulations.[^c603756][^c603757][^c603758][^c-eaf79f098612a26a68a998eaae12cb3e]
 
 The Registrar General with the approval of the Minister may by statutory instrument make regulations—
 
@@ -355,9 +355,9 @@ The Registrar General with the approval of the Minister may by statutory instrum
 
 (1) In this Act, the following expressions have the following meanings respectively—
 
-- “[^key-01ec421a60ce13fe58ade1687607cddb] **civil registration official**” has the meaning given by section 19AA;
+- “[^c-01ec421a60ce13fe58ade1687607cddb] **civil registration official**” has the meaning given by section 19AA;
 - “**local scheme**” means the scheme or schemes made under section fourteen of this Act for the time being in force for the non-metropolitan county or metropolitan district[^c603781] in question;
-- “**the Minister**” means the Secretary of State[^key-bbbc59faa082cdb442626a74aa8f3b6b];
+- “**the Minister**” means the Secretary of State[^c-bbbc59faa082cdb442626a74aa8f3b6b];
 - “**prescribed**” means prescribed by regulations made under the last foregoing section;
 - “**the Registration Acts**” means this Act, the [^c603783]Marriage Act 1949 and the [^c603784]Births and Deaths Registration Act 1953.
 
@@ -370,7 +370,7 @@ The Registrar General with the approval of the Minister may by statutory instrum
 
 ### 22. Savings.
 
-(1)[^key-7fdb7cb91b5f2ac32beb1044c97aa6ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7fdb7cb91b5f2ac32beb1044c97aa6ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Any instrument made under any enactment repealed by this Act prescribing anything which may be prescribed under this Act shall, if in force at the commencement of this Act, continue in force and have effect as if made under the corresponding provision of this Act.
 
@@ -400,7 +400,7 @@ Section 23.
 
 ### A. The Births and Deaths Registration Act, 1836 (6 & 7 Will. 4. c. 86)
 
-**1.**[^key-635ab7118f123855c80eeb30f0604762] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-635ab7118f123855c80eeb30f0604762] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### B. The Non-parochial Registers Act, 1840 (3 & 4 Vict. c. 92)
 
@@ -412,39 +412,39 @@ Section 23.
 
 ### D. The Marriage Act, 1949 (12, 13 & 14 Geo. 6. c. 76)
 
-**4.**[^key-2bfa19f9702d0a8538e2cffdd83258fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2bfa19f9702d0a8538e2cffdd83258fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8c5ba43ee6155233b785e4aec8a52abc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8c5ba43ee6155233b785e4aec8a52abc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.**[^c603800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ae920567555c7e4730d4de3dc417404e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ae920567555c7e4730d4de3dc417404e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-50cf9e7d1458bc6224448189fc319826] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-50cf9e7d1458bc6224448189fc319826] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.**[^c603801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-252531b85ec4da27fe44ebc2504df8fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-252531b85ec4da27fe44ebc2504df8fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-252531b85ec4da27fe44ebc2504df8fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-252531b85ec4da27fe44ebc2504df8fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-252531b85ec4da27fe44ebc2504df8fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-252531b85ec4da27fe44ebc2504df8fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-252531b85ec4da27fe44ebc2504df8fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-252531b85ec4da27fe44ebc2504df8fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14.** In subsection (2) of section sixty-four—
 
 - (a) for the words “at all reasonable hours” there shall be substituted the words “ at any time when the register office is required to be open for the transaction of public business ”;
-- (b)[^key-19714cd230f9f251f2a845b13d0b6977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-19714cd230f9f251f2a845b13d0b6977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-19714cd230f9f251f2a845b13d0b6977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-19714cd230f9f251f2a845b13d0b6977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-19714cd230f9f251f2a845b13d0b6977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-19714cd230f9f251f2a845b13d0b6977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.** In subsection (2) of section sixty-five—
 
 - (a) for the words “between the hours of ten in the morning and four in the afternoon of every day, except Sundays, Christmas Day and Good Friday” there shall be substituted the words “ at any time when the General Register Office is open for that purpose ”;
-- (b)[^key-1d3be090589d56b45517983daff558cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-1d3be090589d56b45517983daff558cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-1d3be090589d56b45517983daff558cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-1d3be090589d56b45517983daff558cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1d3be090589d56b45517983daff558cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-1d3be090589d56b45517983daff558cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SECOND SCHEDULE[^c603802][^c603802]
 
@@ -462,11 +462,11 @@ Section 23.
 
 [^c603706]: Commencement: Act wholly in force at 1.10.1953 see [s. 24(3)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/24/3).
 
-[^key-ac083625a4a88157823da8380227b8dc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37) extended (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 78(4)](https://www.legislation.gov.uk/ukpga/2002/38/section/78/4), [148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1) (with [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/1), [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e)
+[^c-ac083625a4a88157823da8380227b8dc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37) extended (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 78(4)](https://www.legislation.gov.uk/ukpga/2002/38/section/78/4), [148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1) (with [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/1), [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e)
 
 [^M_F_dfc106b3-e458-4dd0-86df-0b2e5b93b4c5]: Textual amendment: S. 1 renumbered as s. 1(1) (1.4.2008) by Statistics and Registration Service Act [2007 c. 18](https://www.legislation.gov.uk/ukpga/2007/18), ss. 68(1)(a), 74(1), 2008 S.I. 839, art. 2
 
-[^key-04afd4ac3c068827769021c92aa3db81]: Textual amendment: [S. 1(2)-(5)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/1/2) inserted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 68(1)(b)](https://www.legislation.gov.uk/ukpga/2007/18/section/68/1/b), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-04afd4ac3c068827769021c92aa3db81]: Textual amendment: [S. 1(2)-(5)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/1/2) inserted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 68(1)(b)](https://www.legislation.gov.uk/ukpga/2007/18/section/68/1/b), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
 [^c603707]: Textual amendment: Words substituted by virtue of [S.I. 1968/1656](https://www.legislation.gov.uk/uksi/1968/1656), [arts. 2(1)(a)](https://www.legislation.gov.uk/uksi/1968/1656/article/2/1/a), [3(2)](https://www.legislation.gov.uk/uksi/1968/1656/article/3/2)
 
@@ -478,19 +478,19 @@ Section 23.
 
 [^c603711]: Marginal citation: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
 
-[^key-80f1cf9ab36be512869985defbc1aa50]: Textual amendment: [S. 6(1) proviso](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/6/1) repealed (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 70(2)(a)](https://www.legislation.gov.uk/ukpga/2007/18/section/70/2/a), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/2); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
+[^c-80f1cf9ab36be512869985defbc1aa50]: Textual amendment: [S. 6(1) proviso](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/6/1) repealed (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 70(2)(a)](https://www.legislation.gov.uk/ukpga/2007/18/section/70/2/a), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/2); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
 
-[^key-d7629ac3e3ff898fbc89334a3616b532]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/6/3) substituted (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 70(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2007/18/section/70/2/b/i), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
+[^c-d7629ac3e3ff898fbc89334a3616b532]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/6/3) substituted (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 70(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2007/18/section/70/2/b/i), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
 
 [^c603712]: Textual amendment: Words substituted by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 29 para. 41(2)](https://www.legislation.gov.uk/ukpga/1972/70/schedule/29/paragraph/41/2)
 
-[^key-bf6e2d7e8d0997a24aee6a02a15e3e90]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/6/3) repealed (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 70(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2007/18/section/70/2/b/ii), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/2); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
+[^c-bf6e2d7e8d0997a24aee6a02a15e3e90]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/6/3) repealed (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 70(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2007/18/section/70/2/b/ii), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/2); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
 
-[^key-abc2c021b4a522ec6bb8d50a10e62f98]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/6/4) repealed (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 70(2)(c)](https://www.legislation.gov.uk/ukpga/2007/18/section/70/2/c), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/2); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
+[^c-abc2c021b4a522ec6bb8d50a10e62f98]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/6/4) repealed (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 70(2)(c)](https://www.legislation.gov.uk/ukpga/2007/18/section/70/2/c), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/2); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
 
-[^key-37b4410b913d0451f1d9d89791331d13]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/7) repealed (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 72](https://www.legislation.gov.uk/ukpga/2007/18/section/72), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/2); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
+[^c-37b4410b913d0451f1d9d89791331d13]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/7) repealed (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 72](https://www.legislation.gov.uk/ukpga/2007/18/section/72), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/2); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
 
-[^key-e109591aa8cbef5c3cf88851e059a3ff]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/8) substituted (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 71](https://www.legislation.gov.uk/ukpga/2007/18/section/71), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
+[^c-e109591aa8cbef5c3cf88851e059a3ff]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/8) substituted (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 71](https://www.legislation.gov.uk/ukpga/2007/18/section/71), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
 
 [^c603716]: Textual amendment: Words substituted by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 29 para. 41(3)](https://www.legislation.gov.uk/ukpga/1972/70/schedule/29/paragraph/41/3)
 
@@ -506,7 +506,7 @@ Section 23.
 
 [^c603723]: Textual amendment: Words substituted by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 29 para. 41(2)](https://www.legislation.gov.uk/ukpga/1972/70/schedule/29/paragraph/41/2)
 
-[^key-52a7382a12f2054946dc61fd2f1fb048]: Textual amendment: Words in [s. 13(2)(f)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/13/2/f) repealed (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 70(3)](https://www.legislation.gov.uk/ukpga/2007/18/section/70/3), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/2); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
+[^c-52a7382a12f2054946dc61fd2f1fb048]: Textual amendment: Words in [s. 13(2)(f)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/13/2/f) repealed (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 70(3)](https://www.legislation.gov.uk/ukpga/2007/18/section/70/3), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/2); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
 
 [^c603725]: Marginal citation: [1929 c. 17](https://www.legislation.gov.uk/ukpga/1929/17)
 
@@ -514,7 +514,7 @@ Section 23.
 
 [^c603730]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/14): functions of the Secretary of State transferred (1.4.1996) by [S.I. 1996/273](https://www.legislation.gov.uk/uksi/1996/273), [art. 3(1)](https://www.legislation.gov.uk/uksi/1996/273/article/3/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/uksi/1996/273/schedule/1/paragraph/9/a)
 
-[^key-735dc78b1b7035572b0c2cf5282505bc]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/14) transfer of functions (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/7/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+[^c-735dc78b1b7035572b0c2cf5282505bc]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/14) transfer of functions (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/7/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
 [^c603731]: Textual amendment: Words substituted by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 29 para. 41(2)](https://www.legislation.gov.uk/ukpga/1972/70/schedule/29/paragraph/41/2)
 
@@ -522,49 +522,49 @@ Section 23.
 
 [^c603737]: Modification: S. 15(1) modified (12.4.1994) by [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867), [reg. 22(2)(b)](https://www.legislation.gov.uk/uksi/1994/867/regulation/22/2/b)
 
-[^key-61600bb8f12ef3a2786ce30e49b69255]: Textual amendment: Words in [s. 15(1)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/15/1) repealed (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 70(4)](https://www.legislation.gov.uk/ukpga/2007/18/section/70/4), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/2); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
+[^c-61600bb8f12ef3a2786ce30e49b69255]: Textual amendment: Words in [s. 15(1)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/15/1) repealed (1.12.2007) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 70(4)](https://www.legislation.gov.uk/ukpga/2007/18/section/70/4), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/18/schedule/4/part/2); [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
 
 [^c603738]: Textual amendment: Words substituted by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)
 
-[^key-08290be0acfaf75bdb3d13f21b476f0b]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/16) omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 32](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/32); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-08290be0acfaf75bdb3d13f21b476f0b]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/16) omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 32](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/32); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
 [^c603739]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/17) repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. VII](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/VII)
 
-[^key-bf5ae81668ecc2cd59405bcac782a265]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/18) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-bf5ae81668ecc2cd59405bcac782a265]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/18) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
 [^c603755]: Modification: S. 19: functions of the Secretary of State transferred (1.4.1996) by [S.I. 1996/273](https://www.legislation.gov.uk/uksi/1996/273), [art. 3(1)](https://www.legislation.gov.uk/uksi/1996/273/article/3/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/uksi/1996/273/schedule/1/paragraph/9/b)
 
-[^key-3959ad722327eb5dbbec8340bf90e848]: Modification: S. 19 transfer of functions (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 25(2)(b)](https://www.legislation.gov.uk/ukpga/2007/18/section/25/2/b), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-3959ad722327eb5dbbec8340bf90e848]: Modification: S. 19 transfer of functions (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 25(2)(b)](https://www.legislation.gov.uk/ukpga/2007/18/section/25/2/b), [74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
 [^c603754]: Modification: S. 19 amended by [Population (Statistics) Act 1960 (c. 32)](https://www.legislation.gov.uk/ukpga/1960/32), [s. 4](https://www.legislation.gov.uk/ukpga/1960/32/section/4)
 
-[^key-68cc4fafc669ec0685c23c73f7eebb8e]: Textual amendment: Words in s. 19 substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/1/paragraph/9/a); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-68cc4fafc669ec0685c23c73f7eebb8e]: Textual amendment: Words in s. 19 substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/1/paragraph/9/a); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
-[^key-b250066721b4f17e5518bdc80f0f9d22]: Textual amendment: Words in s. 19 substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/1/paragraph/9/b); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-b250066721b4f17e5518bdc80f0f9d22]: Textual amendment: Words in s. 19 substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/1/paragraph/9/b); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
-[^key-5c22b0ed91c2491c7de9acea8173b01f]: Textual amendment: Words in s. 19 substituted (5.12.2005) by [Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005 (S.I. 2005/3129)](https://www.legislation.gov.uk/uksi/2005/3129), [art. 1](https://www.legislation.gov.uk/uksi/2005/3129/article/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2005/3129/schedule/1/paragraph/2)
+[^c-5c22b0ed91c2491c7de9acea8173b01f]: Textual amendment: Words in s. 19 substituted (5.12.2005) by [Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005 (S.I. 2005/3129)](https://www.legislation.gov.uk/uksi/2005/3129), [art. 1](https://www.legislation.gov.uk/uksi/2005/3129/article/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2005/3129/schedule/1/paragraph/2)
 
-[^key-5dafbcf648219deab12f77782aeeecd0]: Textual amendment: S. 19A inserted (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 135](https://www.legislation.gov.uk/ukpga/2012/5/section/135), [150(2)(h)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/h)
+[^c-5dafbcf648219deab12f77782aeeecd0]: Textual amendment: S. 19A inserted (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 135](https://www.legislation.gov.uk/ukpga/2012/5/section/135), [150(2)(h)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/h)
 
-[^key-db31a977873ba3b53c1bb547232b5932]: Textual amendment: Ss. 19AA-19AC inserted (31.7.2017 for specified purposes, 1.5.2018 in so far as not already in force except for the purposes of N.I.) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), ss. 46(2), 119(4); S.I. 2017/765, reg, 2(o); S.I. 2018/382, reg. 3(k)
+[^c-db31a977873ba3b53c1bb547232b5932]: Textual amendment: Ss. 19AA-19AC inserted (31.7.2017 for specified purposes, 1.5.2018 in so far as not already in force except for the purposes of N.I.) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), ss. 46(2), 119(4); S.I. 2017/765, reg, 2(o); S.I. 2018/382, reg. 3(k)
 
-[^key-3eb9ef4f47083d07aa295cb7016b49c5]: Textual amendment: Words in s. 19AC(2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 1(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/1/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 48](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/48)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-3eb9ef4f47083d07aa295cb7016b49c5]: Textual amendment: Words in s. 19AC(2) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 1(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/1/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 48](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/48)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-b1f29df0de1b15cd88cd9cb7542b01b6]: Textual amendment: Words in [s. 19AC(5)(b)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/19AC/5/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/1/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-b1f29df0de1b15cd88cd9cb7542b01b6]: Textual amendment: Words in [s. 19AC(5)(b)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/19AC/5/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/1/a); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-04cdfc7bd11e81b6d76b18f8b3c591f6]: Textual amendment: Words in [s. 19AC(11)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/19AC/11) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/1/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-04cdfc7bd11e81b6d76b18f8b3c591f6]: Textual amendment: Words in [s. 19AC(11)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/19AC/11) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 1(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/1/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-11a5d92a3d93571e02faabe250e391f5]: Textual amendment: Words in s. 19AC(11) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 1(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/1/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 48](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/48)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-11a5d92a3d93571e02faabe250e391f5]: Textual amendment: Words in s. 19AC(11) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 1(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/1/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 48](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/48)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-4ab9b5b6f2eb41dee8b710198294810b]: Textual amendment: Word in s. 19AC(11) substituted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 92(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/92/7), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/f)
+[^c-4ab9b5b6f2eb41dee8b710198294810b]: Textual amendment: Word in s. 19AC(11) substituted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 92(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/92/7), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/f)
 
-[^key-279bf6b282093967f0011b56ae7617f4]: Textual amendment: S. 19B inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/3); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-279bf6b282093967f0011b56ae7617f4]: Textual amendment: S. 19B inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/3); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-7a3b563e295289ced2a573ebf3d78c65]: Textual amendment: Words in s. 19B heading omitted (1.5.2018 except for the purposes of N.I.) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 46(3)(c)](https://www.legislation.gov.uk/ukpga/2017/30/section/46/3/c), [118(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/k)
+[^c-7a3b563e295289ced2a573ebf3d78c65]: Textual amendment: Words in s. 19B heading omitted (1.5.2018 except for the purposes of N.I.) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 46(3)(c)](https://www.legislation.gov.uk/ukpga/2017/30/section/46/3/c), [118(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/k)
 
-[^key-8fe297fabb03be2ffcb782d8a1804fc8]: Textual amendment: S. 19B(1A) inserted (1.5.2018 except for the purposes of N.I.) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 46(3)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/46/3/a), [118(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/k)
+[^c-8fe297fabb03be2ffcb782d8a1804fc8]: Textual amendment: S. 19B(1A) inserted (1.5.2018 except for the purposes of N.I.) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 46(3)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/46/3/a), [118(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/k)
 
-[^key-2caa013f51951967efc8b4e97db590dd]: Textual amendment: Words in s. 19B(2)(3) substituted (1.5.2018 except for the purposes of N.I.) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 46(3)(b)](https://www.legislation.gov.uk/ukpga/2017/30/section/46/3/b), [118(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/k)
+[^c-2caa013f51951967efc8b4e97db590dd]: Textual amendment: Words in s. 19B(2)(3) substituted (1.5.2018 except for the purposes of N.I.) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 46(3)(b)](https://www.legislation.gov.uk/ukpga/2017/30/section/46/3/b), [118(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/k)
 
 [^c603756]: Modification: S. 20 extended (1.7.1992) by [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5), [ss. 124(1)](https://www.legislation.gov.uk/ukpga/1992/5/section/124/1), [192(4)](https://www.legislation.gov.uk/ukpga/1992/5/section/192/4), [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/1992/5/schedule/10/paragraph/3).
 
@@ -572,15 +572,15 @@ Section 23.
 
 [^c603758]: Modification: S. 20: functions of the Secretary of State transferred (1.4.1996) by [S.I. 1996/273](https://www.legislation.gov.uk/uksi/1996/273), [art. 3(1)](https://www.legislation.gov.uk/uksi/1996/273/article/3/1), [Sch. 1 para. 9(c)](https://www.legislation.gov.uk/uksi/1996/273/schedule/1/paragraph/9/c)
 
-[^key-eaf79f098612a26a68a998eaae12cb3e]: Modification: S. 20 transfer of functions (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/7/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+[^c-eaf79f098612a26a68a998eaae12cb3e]: Modification: S. 20 transfer of functions (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/7/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
 [^c603759]: Textual amendment: Words substituted by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 29 para. 41(5)](https://www.legislation.gov.uk/ukpga/1972/70/schedule/29/paragraph/41/5)
 
-[^key-01ec421a60ce13fe58ade1687607cddb]: Textual amendment: Words in s. 21(1) inserted (1.5.2018 except for the purposes of N.I.) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/46/4), [118(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/k)
+[^c-01ec421a60ce13fe58ade1687607cddb]: Textual amendment: Words in s. 21(1) inserted (1.5.2018 except for the purposes of N.I.) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 46(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/46/4), [118(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/k)
 
 [^c603781]: Textual amendment: Words substituted by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 29 para. 41(2)](https://www.legislation.gov.uk/ukpga/1972/70/schedule/29/paragraph/41/2)
 
-[^key-bbbc59faa082cdb442626a74aa8f3b6b]: Textual amendment: Words in s. 21 substituted (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+[^c-bbbc59faa082cdb442626a74aa8f3b6b]: Textual amendment: Words in s. 21 substituted (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/7) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
 [^c603783]: Marginal citation: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
 
@@ -596,7 +596,7 @@ Section 23.
 
 [^c603791]: Textual amendment: Words in s. 21 (2)(b) added (1.10.1995) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6), [Sch. 16 para. 12](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/12); [S.I. 1995/2490](https://www.legislation.gov.uk/uksi/1995/2490), [art. 5(1)(2)(3)](https://www.legislation.gov.uk/uksi/1995/2490/article/5/1/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/1995/2490/schedule/3)
 
-[^key-7fdb7cb91b5f2ac32beb1044c97aa6ce]: Textual amendment: S. 22(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-7fdb7cb91b5f2ac32beb1044c97aa6ce]: Textual amendment: S. 22(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
 [^c603796]: Modification: The text of s. 23 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -604,26 +604,26 @@ Section 23.
 
 [^c603798]: Modification: The text of Sch. 1 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-635ab7118f123855c80eeb30f0604762]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/schedule/FIRST) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-635ab7118f123855c80eeb30f0604762]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/schedule/FIRST) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
 [^c1899787]: Textual amendment: Sch.1 paras. 3, 6, 9 repealed by [Statute Law (Repeals) Act 1977 (c. 18)](https://www.legislation.gov.uk/ukpga/1977/18), [Sch. 1 Pt. XIX](https://www.legislation.gov.uk/ukpga/1977/18/schedule/1/part/XIX)
 
-[^key-2bfa19f9702d0a8538e2cffdd83258fa]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/schedule/FIRST) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-2bfa19f9702d0a8538e2cffdd83258fa]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/schedule/FIRST) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
-[^key-8c5ba43ee6155233b785e4aec8a52abc]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/schedule/FIRST) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-8c5ba43ee6155233b785e4aec8a52abc]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/schedule/FIRST) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
 [^c603800]: Textual amendment: Sch.1 paras. 3, 6, 9 repealed by [Statute Law (Repeals) Act 1977 (c. 18)](https://www.legislation.gov.uk/ukpga/1977/18), [Sch. 1 Pt. XIX](https://www.legislation.gov.uk/ukpga/1977/18/schedule/1/part/XIX)
 
-[^key-ae920567555c7e4730d4de3dc417404e]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/schedule/FIRST) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-ae920567555c7e4730d4de3dc417404e]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/schedule/FIRST) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
-[^key-50cf9e7d1458bc6224448189fc319826]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/schedule/FIRST) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-50cf9e7d1458bc6224448189fc319826]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/schedule/FIRST) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
 [^c603801]: Textual amendment: Sch.1 paras. 3, 6, 9 repealed by [Statute Law (Repeals) Act 1977 (c. 18)](https://www.legislation.gov.uk/ukpga/1977/18), [Sch. 1 Pt. XIX](https://www.legislation.gov.uk/ukpga/1977/18/schedule/1/part/XIX)
 
-[^key-252531b85ec4da27fe44ebc2504df8fe]: Textual amendment: [Sch. 1 paras. 10-13](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/schedule/1/paragraph/10) [FIRST](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/schedule/FIRST) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-252531b85ec4da27fe44ebc2504df8fe]: Textual amendment: [Sch. 1 paras. 10-13](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/schedule/1/paragraph/10) [FIRST](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/schedule/FIRST) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
-[^key-19714cd230f9f251f2a845b13d0b6977]: Textual amendment: Sch. 1 para. 14(b)-(d) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-19714cd230f9f251f2a845b13d0b6977]: Textual amendment: Sch. 1 para. 14(b)-(d) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
-[^key-1d3be090589d56b45517983daff558cf]: Textual amendment: Sch. 1 para. 15(b)-(d) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-1d3be090589d56b45517983daff558cf]: Textual amendment: Sch. 1 para. 15(b)-(d) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
 [^c603802]: Textual amendment: [S. 23(2)](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/section/23/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/37/schedule/2) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)

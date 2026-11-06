@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Crown rights[^key-9304267767335bff64e3b50f79bf009a]
+## 48. Crown rights[^c-9304267767335bff64e3b50f79bf009a]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9304267767335bff64e3b50f79bf009a]: Commencement: Art. 48 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-9304267767335bff64e3b50f79bf009a]: Commencement: Art. 48 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

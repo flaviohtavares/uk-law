@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39A. Assisting in the administration and performance of a contract of insurance[^key-f392e4056396d0ebcee1a5fb33bd136d]
+## 39A. Assisting in the administration and performance of a contract of insurance[^c-f392e4056396d0ebcee1a5fb33bd136d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Assisting in the administration and performance of a contract of insurance is a 
 
 ## Annotations
 
-[^key-f392e4056396d0ebcee1a5fb33bd136d]: Textual amendment: Pt. 2 Ch. 7A inserted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [7](https://www.legislation.gov.uk/uksi/2003/1476/article/7)
+[^c-f392e4056396d0ebcee1a5fb33bd136d]: Textual amendment: Pt. 2 Ch. 7A inserted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [7](https://www.legislation.gov.uk/uksi/2003/1476/article/7)

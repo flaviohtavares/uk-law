@@ -46,7 +46,7 @@ Laid before Parliament
 
 Coming into force in accordance with article 1
 
-The Secretary of State, in whom the powers conferred by section 15(1) and (2) of the Fisheries Act 1981[^f00001] are now vested[^f00002], makes this Scheme in exercise of those powers and with the approval of the Treasury.[^key-369136ac5d5e9de6841f687ca2803798]
+The Secretary of State, in whom the powers conferred by section 15(1) and (2) of the Fisheries Act 1981[^f00001] are now vested[^f00002], makes this Scheme in exercise of those powers and with the approval of the Treasury.[^c-369136ac5d5e9de6841f687ca2803798]
 
 ## 1. Citation and commencement
 
@@ -90,6 +90,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
     the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
-[^key-369136ac5d5e9de6841f687ca2803798]: Modification: Scheme modified (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 6 para. 5(1)(b)(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/1/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-369136ac5d5e9de6841f687ca2803798]: Modification: Scheme modified (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 6 para. 5(1)(b)(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/5/1/b) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^f00003]: Footnote: [S.I. 2012/1375](https://www.legislation.gov.uk/uksi/2012/1375), which applies in England and in relation to English fishing boats.

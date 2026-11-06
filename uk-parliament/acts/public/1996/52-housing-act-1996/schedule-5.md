@@ -167,7 +167,7 @@ Section 87.
 >
 > (5) Paragraphs 2, 3 and 7 of Schedule 22 to the [^c13158041]Housing Act 1980 (supplementary provisions relating to leasehold valuation tribunals: appeals and provision of information) apply to a leasehold valuation tribunal constituted for the purposes of this section.
 >
-> (6) No appeal shall lie to the Upper Tribunal[^key-613607deea531e0573509b928e172ac7] from a decision of a leasehold valuation tribunal under this Part without the leave of the leasehold valuation tribunal concerned or the Upper Tribunal .
+> (6) No appeal shall lie to the Upper Tribunal[^c-613607deea531e0573509b928e172ac7] from a decision of a leasehold valuation tribunal under this Part without the leave of the leasehold valuation tribunal concerned or the Upper Tribunal .
 >
 > (7) On an appeal to the Upper Tribunal from a decision of a leasehold valuation tribunal under this Part—
 >
@@ -215,4 +215,4 @@ Section 87.
 
 [^c13158041]: Marginal citation: [1980 c. 51](https://www.legislation.gov.uk/ukpga/1980/51).
 
-[^key-613607deea531e0573509b928e172ac7]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/ukpga/1996/52/schedule/5) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 261](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/261) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-613607deea531e0573509b928e172ac7]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/ukpga/1996/52/schedule/5) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 261](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/261) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

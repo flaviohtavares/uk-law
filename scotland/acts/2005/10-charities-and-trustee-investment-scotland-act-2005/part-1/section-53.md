@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Offences etc.[^key-5b91a11d3c024cee2585fa2bd72447f6]
+## 53. Offences etc.[^c-5b91a11d3c024cee2585fa2bd72447f6]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ to stop doing so by such date as OSCR may direct.
 
 ## Annotations
 
-[^key-5b91a11d3c024cee2585fa2bd72447f6]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2005/10/section/53) in force at 1.4.2011 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(3)(c)](https://www.legislation.gov.uk/ssi/2011/20/article/2/3/c)
+[^c-5b91a11d3c024cee2585fa2bd72447f6]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2005/10/section/53) in force at 1.4.2011 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(3)(c)](https://www.legislation.gov.uk/ssi/2011/20/article/2/3/c)

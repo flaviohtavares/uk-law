@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Content of licences[^key-3f5b4182e8ff39a61ef31846c7eebb88]
+## 77. Content of licences[^c-3f5b4182e8ff39a61ef31846c7eebb88]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f5b4182e8ff39a61ef31846c7eebb88]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2019/17/section/77) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-3f5b4182e8ff39a61ef31846c7eebb88]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2019/17/section/77) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

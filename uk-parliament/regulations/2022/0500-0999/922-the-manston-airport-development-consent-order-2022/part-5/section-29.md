@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Temporary use of land for carrying out the authorised development[^key-7ae7d8c5895f7ff96e7fa794823ddd2f]
+## 29. Temporary use of land for carrying out the authorised development[^c-7ae7d8c5895f7ff96e7fa794823ddd2f]
 
 *Extent: E+W+S*
 
@@ -59,7 +59,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7ae7d8c5895f7ff96e7fa794823ddd2f]: Commencement: Art. 29 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-7ae7d8c5895f7ff96e7fa794823ddd2f]: Commencement: Art. 29 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
 [^f00063]: Footnote: Section 11 was amended by section 34(1) of, and paragraph 14(3) of Schedule 4 to the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of, and Part 1 of Schedule 1 to, the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), section 16 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous provisions) Measure 2006 ([2006 No. 1](https://www.legislation.gov.uk/ukcm/2006/1)), sections 186(2), 187(2) and section 188 of, and paragraph 6 of Schedule 14 and paragraph 4 of Schedule 16 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

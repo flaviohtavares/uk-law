@@ -174,7 +174,7 @@ other than that which presently exists under the statutes of those universities,
 
 (4) The Lord Chancellor may , after consulting the Lord Chief Justice,[^c20840491] by order make any incidental or transitional provision which he considers expedient in consequence of this section and may by such order provide—
 
-- (a) for enabling any jurisdiction appearing to him to have been formerly exercised by a court specified in Part I or II of Schedule 4 to this Act to be exercised instead by the High Court, the Crown Court, the county court[^key-b5112d321013db46783c294d8a056f11] or a magistrates’ court; and
+- (a) for enabling any jurisdiction appearing to him to have been formerly exercised by a court specified in Part I or II of Schedule 4 to this Act to be exercised instead by the High Court, the Crown Court, the county court[^c-b5112d321013db46783c294d8a056f11] or a magistrates’ court; and
 - (b) for such amendments or repeals of provisions of any local Act as appear to him to be required in consequence of this section.
 
 (5) The power to make orders under this section shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament; and any such order may be varied or revoked by a subsequent order made under the power.
@@ -199,7 +199,7 @@ other than that which presently exists under the statutes of those universities,
 
 #### 28. Distribution of estate of intestate leaving surviving spouse.[^c801891]
 
-(1)[^key-11753f7a6ef6640d8438c573ef7bb5b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-11753f7a6ef6640d8438c573ef7bb5b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Subsections (2) and (4) of section 47A of that Act (method of calculation of value of life interest of surviving spouse) shall cease to have effect.
 
@@ -405,7 +405,7 @@ Section 3.
 
 **4.** In section 5 of the said Act of 1958 (cancellation of registration)—
 
-(a)[^key-5988342929befa38745893350477edca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(a)[^c-5988342929befa38745893350477edca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (b) the following subsection shall be inserted after subsection (4):—
 
@@ -809,7 +809,7 @@ Section 32.
 
 [^c20840491]: Textual amendment: Words in s. 23(4) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/1), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 93(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/93/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
 
-[^key-b5112d321013db46783c294d8a056f11]: Textual amendment: Words in [s. 23(4)(a)](https://www.legislation.gov.uk/ukpga/1977/38/section/23/4/a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-b5112d321013db46783c294d8a056f11]: Textual amendment: Words in [s. 23(4)(a)](https://www.legislation.gov.uk/ukpga/1977/38/section/23/4/a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c20840511]: Textual amendment: S. 23(5) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/1), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 93(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/93/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
 
@@ -823,7 +823,7 @@ Section 32.
 
 [^c801891]: Editorial: The text of ss. 1(1), 4, 5, 11, 12, 17(2), 19(2)(5), 24, 26(1), 28, 29, 32(4) Schs. 3, 5 does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-11753f7a6ef6640d8438c573ef7bb5b4]: Textual amendment: [S. 28(1)](https://www.legislation.gov.uk/ukpga/1977/38/section/28/1) omitted (1.10.2014) by virtue of [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/3) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-11753f7a6ef6640d8438c573ef7bb5b4]: Textual amendment: [S. 28(1)](https://www.legislation.gov.uk/ukpga/1977/38/section/28/1) omitted (1.10.2014) by virtue of [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/3) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
 [^c801911]: Editorial: The text of ss. 1(1), 4, 5, 11, 12, 17(2), 19(2)(5), 24, 26(1), 28, 29, 32(4) Schs. 3, 5 does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -883,7 +883,7 @@ Section 32.
 
 [^c802201]: Marginal citation: [1958 c. 39](https://www.legislation.gov.uk/ukpga/1958/39).
 
-[^key-5988342929befa38745893350477edca]: Textual amendment: [Sch. 3 para. 4(a)](https://www.legislation.gov.uk/ukpga/1977/38/schedule/3/paragraph/4/a) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-5988342929befa38745893350477edca]: Textual amendment: [Sch. 3 para. 4(a)](https://www.legislation.gov.uk/ukpga/1977/38/schedule/3/paragraph/4/a) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c802211]: Marginal citation: [1958 c. 39](https://www.legislation.gov.uk/ukpga/1958/39).
 

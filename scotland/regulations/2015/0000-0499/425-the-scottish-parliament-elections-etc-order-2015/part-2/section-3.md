@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Supply of electoral registers[^key-c78b4bd8fa050ac02fcb61d9f26a2f94]
+## 3. Supply of electoral registers[^c-c78b4bd8fa050ac02fcb61d9f26a2f94]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 1 (which makes provision in connection with supply of electoral registe
 
 ## Annotations
 
-[^key-c78b4bd8fa050ac02fcb61d9f26a2f94]: Commencement: Art. 3 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-c78b4bd8fa050ac02fcb61d9f26a2f94]: Commencement: Art. 3 in force at 16.12.2015 in accordance with art. 1(1)

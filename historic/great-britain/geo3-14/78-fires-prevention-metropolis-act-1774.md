@@ -44,7 +44,7 @@ And in order to deter and hinder ill-minded persons from wilfully setting their 
 
 ## 84, 85. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c918638]
 
-## 86. No action to lie against a person where the fire accidentally begins.[^key-049f205d93dc4eefce8c76f6221998b7]
+## 86. No action to lie against a person where the fire accidentally begins.[^c-049f205d93dc4eefce8c76f6221998b7]
 
 And no action, suit or process whatever shall be had, maintained or prosecuted against any person in whose house, chamber, stable, barn or other building, or on whose estate any fire shall, . . . [^c918639] accidentally begin, nor shall any recompence be made by such person for any damage suffered thereby, any law, usage or custom to the contrary notwithstanding; . . . [^c918640] provided that no contract or agreement made between landlord and tenant shall be hereby defeated or made void.
 
@@ -70,7 +70,7 @@ And no action, suit or process whatever shall be had, maintained or prosecuted a
 
 [^c918638]: Textual amendment: [Ss. 80–82](https://www.legislation.gov.uk/apgb/Geo3/14/78/section/80), [84](https://www.legislation.gov.uk/apgb/Geo3/14/78/section/84), [85](https://www.legislation.gov.uk/apgb/Geo3/14/78/section/85) repealed by [Metropolitan Fire Brigade Act 1865 (c. 90)](https://www.legislation.gov.uk/ukpga/1865/90), [s. 34](https://www.legislation.gov.uk/ukpga/1865/90/section/34)
 
-[^key-049f205d93dc4eefce8c76f6221998b7]: Modification: [S. 86](https://www.legislation.gov.uk/apgb/Geo3/14/78/section/86) excluded by SI 1997/1840 reg. 9A (as inserted) (27.10.2003) by [Management of Health and Safety at Work and Fire Precautions (Workplace) (Amendment) Regulations 2003 (S.I. 2003/2457)](https://www.legislation.gov.uk/uksi/2003/2457), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2457/regulation/1), [12](https://www.legislation.gov.uk/uksi/2003/2457/regulation/12)
+[^c-049f205d93dc4eefce8c76f6221998b7]: Modification: [S. 86](https://www.legislation.gov.uk/apgb/Geo3/14/78/section/86) excluded by SI 1997/1840 reg. 9A (as inserted) (27.10.2003) by [Management of Health and Safety at Work and Fire Precautions (Workplace) (Amendment) Regulations 2003 (S.I. 2003/2457)](https://www.legislation.gov.uk/uksi/2003/2457), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2457/regulation/1), [12](https://www.legislation.gov.uk/uksi/2003/2457/regulation/12)
 
 [^c918639]: Textual amendment: Words repealed by [Statute Law Revision Act 1948 (c. 62)](https://www.legislation.gov.uk/ukpga/1948/62), [Sch. 1](https://www.legislation.gov.uk/ukpga/1948/62/schedule/1)
 

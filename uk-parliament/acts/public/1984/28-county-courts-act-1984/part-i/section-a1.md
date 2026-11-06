@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A1. Establishment of a single county court[^key-c7442ee439a4f27b82adcf6f1ac1a8cc]
+## A1. Establishment of a single county court[^c-c7442ee439a4f27b82adcf6f1ac1a8cc]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7442ee439a4f27b82adcf6f1ac1a8cc]: Textual amendment: S. A1 and cross-heading inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/1), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-c7442ee439a4f27b82adcf6f1ac1a8cc]: Textual amendment: S. A1 and cross-heading inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/1), [61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

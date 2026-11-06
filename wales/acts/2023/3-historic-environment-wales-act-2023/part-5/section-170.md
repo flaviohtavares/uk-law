@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 170. Form of documents[^key-b7bf5a5ebd5f7351b394b531473809ea][^key-519a65e86736f972f30a8b0726d937ef]
+## 170. Form of documents[^c-b7bf5a5ebd5f7351b394b531473809ea][^c-519a65e86736f972f30a8b0726d937ef]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Welsh Ministers may by regulations specify the form and content of any notic
 
 ## Annotations
 
-[^key-b7bf5a5ebd5f7351b394b531473809ea]: Commencement: S. 170 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-b7bf5a5ebd5f7351b394b531473809ea]: Commencement: S. 170 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-519a65e86736f972f30a8b0726d937ef]: Commencement: [S. 170](https://www.legislation.gov.uk/asc/2023/3/section/170) in force at 9.9.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 2(1)(m)](https://www.legislation.gov.uk/wsi/2024/860/article/2/1/m)
+[^c-519a65e86736f972f30a8b0726d937ef]: Commencement: [S. 170](https://www.legislation.gov.uk/asc/2023/3/section/170) in force at 9.9.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 2(1)(m)](https://www.legislation.gov.uk/wsi/2024/860/article/2/1/m)

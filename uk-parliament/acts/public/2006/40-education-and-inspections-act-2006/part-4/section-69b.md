@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69B. Power of Secretary of State to direct local authority to give teachers' pay and conditions warning notice[^key-ac73a1c5f98a00d5f87ac9ed80b95043][^key-539a148a152b679b0b2f5402f58a05e0]
+## 69B. Power of Secretary of State to direct local authority to give teachers' pay and conditions warning notice[^c-ac73a1c5f98a00d5f87ac9ed80b95043][^c-539a148a152b679b0b2f5402f58a05e0]
 
 *Extent: E+W*
 
@@ -28,8 +28,8 @@ summary: ''
 
 - (a) the authority have not given a warning notice to the governing body under section 60A on those grounds;
 - (b) the authority have done so, but in inadequate terms;
-- (c)[^key-f991785d3c200bf964a07e0dbbb718f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d) the school has become eligible for intervention on those grounds by virtue of section 60A, but the period of two months following the end of the compliance period (as defined by section 60A(1)(b)[^key-df457e70ec0a69e58ce133658ec0fc1e]) has ended.
+- (c)[^c-f991785d3c200bf964a07e0dbbb718f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) the school has become eligible for intervention on those grounds by virtue of section 60A, but the period of two months following the end of the compliance period (as defined by section 60A(1)(b)[^c-df457e70ec0a69e58ce133658ec0fc1e]) has ended.
 
 (4) The Secretary of State may direct the local authority to consider giving a warning notice to the governing body under section 60A in the terms specified in the direction.
 
@@ -65,10 +65,10 @@ summary: ''
 
 ## Annotations
 
-[^key-ac73a1c5f98a00d5f87ac9ed80b95043]: Textual amendment: Ss. 69A, 69B inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 13 para. 10](https://www.legislation.gov.uk/ukpga/2009/22/schedule/13/paragraph/10); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-ac73a1c5f98a00d5f87ac9ed80b95043]: Textual amendment: Ss. 69A, 69B inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 13 para. 10](https://www.legislation.gov.uk/ukpga/2009/22/schedule/13/paragraph/10); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Annotation text not found in the source document.
+[^c-539a148a152b679b0b2f5402f58a05e0]: Annotation text not found in the source document.
 
-[^key-f991785d3c200bf964a07e0dbbb718f3]: Textual amendment: [S. 69B(3)(c)](https://www.legislation.gov.uk/ukpga/2006/40/section/69B/3/c) omitted (18.4.2016) by virtue of [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 3(5)(a)](https://www.legislation.gov.uk/ukpga/2016/6/section/3/5/a), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/466/regulation/4/2))
+[^c-f991785d3c200bf964a07e0dbbb718f3]: Textual amendment: [S. 69B(3)(c)](https://www.legislation.gov.uk/ukpga/2006/40/section/69B/3/c) omitted (18.4.2016) by virtue of [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 3(5)(a)](https://www.legislation.gov.uk/ukpga/2016/6/section/3/5/a), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/466/regulation/4/2))
 
-[^key-df457e70ec0a69e58ce133658ec0fc1e]: Textual amendment: Word in [s. 69B(3)(d)](https://www.legislation.gov.uk/ukpga/2006/40/section/69B/3/d) substituted (18.4.2016) by [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 3(5)(b)](https://www.legislation.gov.uk/ukpga/2016/6/section/3/5/b), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/466/regulation/4/2))
+[^c-df457e70ec0a69e58ce133658ec0fc1e]: Textual amendment: Word in [s. 69B(3)(d)](https://www.legislation.gov.uk/ukpga/2006/40/section/69B/3/d) substituted (18.4.2016) by [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 3(5)(b)](https://www.legislation.gov.uk/ukpga/2016/6/section/3/5/b), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/466/regulation/4/2))

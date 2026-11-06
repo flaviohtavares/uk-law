@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.44. Interpretation[^key-1b56fe49c407bd752ef8d27fc1b1bc2a]
+## 3.44. Interpretation[^c-1b56fe49c407bd752ef8d27fc1b1bc2a]
 
 *Extent: S*
 
-In this Part, “**application**” means an application under section 93(2)(a) or 94(2)(a) of the[^key-a0916c6c1198ec8f4c923919dc33deb6] 2011 Act.
+In this Part, “**application**” means an application under section 93(2)(a) or 94(2)(a) of the[^c-a0916c6c1198ec8f4c923919dc33deb6] 2011 Act.
 
 ## Annotations
 
-[^key-1b56fe49c407bd752ef8d27fc1b1bc2a]: Commencement: Rule 3.44 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-1b56fe49c407bd752ef8d27fc1b1bc2a]: Commencement: Rule 3.44 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
-[^key-a0916c6c1198ec8f4c923919dc33deb6]: Textual amendment: Words in rule 3.44 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(31)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/31) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-a0916c6c1198ec8f4c923919dc33deb6]: Textual amendment: Words in rule 3.44 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(31)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/31) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

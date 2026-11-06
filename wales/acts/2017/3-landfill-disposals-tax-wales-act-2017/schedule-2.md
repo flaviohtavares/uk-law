@@ -24,7 +24,7 @@ summary: ''
 
 ### General information
 
-**1.**[^key-ba6c0e9a5b5c9560c964fb42db64fed9] A person's entry in the register must contain the following information—
+**1.**[^c-ba6c0e9a5b5c9560c964fb42db64fed9] A person's entry in the register must contain the following information—
 
 - (a) the person's name;
 - (b) any trading name used by the person;
@@ -35,7 +35,7 @@ summary: ''
 
 ### Representative members of corporate groups: additional information about group
 
-**2.**[^key-5112b7a809f729624539f5fd92dbc6ff] If a registered person is the representative member of a group of bodies corporate designated under section 77, the person's entry in the register must include—
+**2.**[^c-5112b7a809f729624539f5fd92dbc6ff] If a registered person is the representative member of a group of bodies corporate designated under section 77, the person's entry in the register must include—
 
 - (a) a statement of that fact;
 - (b) the name and business address of every other body corporate that is a member of the group;
@@ -44,18 +44,18 @@ summary: ''
 
 ### Partnerships and unincorporated bodies: additional information about members
 
-**3.**[^key-fae55cfe1023336fd29b8a799cefb175] Where a partnership or unincorporated body is registered in the name of the partnership or body, its entry in the register must include the name and address of each of its members.
+**3.**[^c-fae55cfe1023336fd29b8a799cefb175] Where a partnership or unincorporated body is registered in the name of the partnership or body, its entry in the register must include the name and address of each of its members.
 
 ### Interpretation
 
-**4.**[^key-4269fdaa278f2cc79d1c2996188d60c8] For the purposes of this Schedule, the business address of a body corporate, partnership or unincorporated body is the address of its registered or principal office.
+**4.**[^c-4269fdaa278f2cc79d1c2996188d60c8] For the purposes of this Schedule, the business address of a body corporate, partnership or unincorporated body is the address of its registered or principal office.
 
 ## Annotations
 
-[^key-ba6c0e9a5b5c9560c964fb42db64fed9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2017/3/schedule/2/paragraph/1) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(y)](https://www.legislation.gov.uk/wsi/2018/35/article/2/y)
+[^c-ba6c0e9a5b5c9560c964fb42db64fed9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2017/3/schedule/2/paragraph/1) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(y)](https://www.legislation.gov.uk/wsi/2018/35/article/2/y)
 
-[^key-5112b7a809f729624539f5fd92dbc6ff]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2017/3/schedule/2/paragraph/2) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(y)](https://www.legislation.gov.uk/wsi/2018/35/article/2/y)
+[^c-5112b7a809f729624539f5fd92dbc6ff]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2017/3/schedule/2/paragraph/2) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(y)](https://www.legislation.gov.uk/wsi/2018/35/article/2/y)
 
-[^key-fae55cfe1023336fd29b8a799cefb175]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2017/3/schedule/2/paragraph/3) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(y)](https://www.legislation.gov.uk/wsi/2018/35/article/2/y)
+[^c-fae55cfe1023336fd29b8a799cefb175]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2017/3/schedule/2/paragraph/3) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(y)](https://www.legislation.gov.uk/wsi/2018/35/article/2/y)
 
-[^key-4269fdaa278f2cc79d1c2996188d60c8]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2017/3/schedule/2/paragraph/4) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(y)](https://www.legislation.gov.uk/wsi/2018/35/article/2/y)
+[^c-4269fdaa278f2cc79d1c2996188d60c8]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2017/3/schedule/2/paragraph/4) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(y)](https://www.legislation.gov.uk/wsi/2018/35/article/2/y)

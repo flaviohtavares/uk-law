@@ -31,10 +31,10 @@ Commission Regulation (EC) No 3666/93
 
 of 15 December 1993 amending Regulation No 27 and Regulations (EEC) No 1629/69, (EEC) No 4260/88, (EEC) No 4261/88 and (EEC) No 2367/90 with a view to implementing the competition provisions laid down in the Agreement on the European Economic Area (revoked)
 
-[^key-97ce6cf548d195e99b7bfe20cb9ee5bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97ce6cf548d195e99b7bfe20cb9ee5bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-97ce6cf548d195e99b7bfe20cb9ee5bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-97ce6cf548d195e99b7bfe20cb9ee5bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-97ce6cf548d195e99b7bfe20cb9ee5bc]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-97ce6cf548d195e99b7bfe20cb9ee5bc]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

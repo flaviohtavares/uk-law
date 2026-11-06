@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Consequential provision[^key-25f1b74bb0f1872e47abb75da058b75a]
+## 57. Consequential provision[^c-25f1b74bb0f1872e47abb75da058b75a]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25f1b74bb0f1872e47abb75da058b75a]: Commencement: [S. 57](https://www.legislation.gov.uk/mwa/2011/4/section/57) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/d)
+[^c-25f1b74bb0f1872e47abb75da058b75a]: Commencement: [S. 57](https://www.legislation.gov.uk/mwa/2011/4/section/57) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/d)

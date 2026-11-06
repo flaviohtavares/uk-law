@@ -40,38 +40,38 @@ Coming into operation
 
 The Department of Education, in exercise of the powers conferred on it by Articles 70(1) and (2)[^f00001] and 134(1)[^f00002] of the Education and Libraries (Northern Ireland) Order 1986[^f00003] and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-00cdccd399faafbdf02d1a795f1fa0a1]
+## 1. Citation and commencement[^c-00cdccd399faafbdf02d1a795f1fa0a1]
 
 These Regulations may be cited as the Teachers' (Eligibility) Regulations (Northern Ireland) 1997 and shall come into operation on 1st September 1997.
 
-## 2. Revocations[^key-2dc30c72796cd9119f8c9eb45139c6c3]
+## 2. Revocations[^c-2dc30c72796cd9119f8c9eb45139c6c3]
 
 The following Regulations are hereby revoked—
 
 - (a) the Teachers' (Eligibility) Regulations (Northern Ireland) 1987[^f00004];
 - (b) the Teachers' (Eligibility) (Amendment) Regulations (Northern Ireland) 1988[^f00005].
 
-## 3. Interpretation[^key-e0633351f6f4004c7ef8fb4ec19794db]
+## 3. Interpretation[^c-e0633351f6f4004c7ef8fb4ec19794db]
 
 In these Regulations—
 
-- “eligible to teach” means a person who has such qualifications as may be approved by the Department and satisfies the requirements of [^key-815c3f3771e6f6c7f55cd0f437cc6db6]... regulation 7 (Health requirements);
+- “eligible to teach” means a person who has such qualifications as may be approved by the Department and satisfies the requirements of [^c-815c3f3771e6f6c7f55cd0f437cc6db6]... regulation 7 (Health requirements);
 - “medical practitioner” means a fully registered person within the meaning of the Medical Act 1983[^f00006];
 - “reckonable service” has the same meaning as in the Teachers' Superannuation Regulations (Northern Ireland) 1977[^f00007].
 
-## 4. Application[^key-3a4aef16c24d667dac9fa61fa68731cb]
+## 4. Application[^c-3a4aef16c24d667dac9fa61fa68731cb]
 
 These Regulations shall apply to teachers in grant-aided schools and to peripatetic teachers.
 
-## 5. Qualifications[^key-f78137510b98a2984e3a1fa84f6af78d]
+## 5. Qualifications[^c-f78137510b98a2984e3a1fa84f6af78d]
 
 Every person employed as a teacher shall have such qualifications as may be approved by the Department.
 
-## 6. Age requirements[^key-18ceb0c8326949df348b041ac91ab6a6]
+## 6. Age requirements[^c-18ceb0c8326949df348b041ac91ab6a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Health requirements[^key-565b69009189aadfacc3645685fa16e5]
+## 7. Health requirements[^c-565b69009189aadfacc3645685fa16e5]
 
 (1) An employing authority shall not employ a person as a teacher unless it is satisfied as to his health or physical capacity therefor.
 
@@ -93,7 +93,7 @@ Every person employed as a teacher shall have such qualifications as may be appr
 
 (6) Paragraph (4) shall have effect without prejudice to the power of a board of governors or principal to suspend a person under Schedule 4 to the Education Reform (Northern Ireland) Order 1989[^f00008].
 
-## 8. Employment of teachers[^key-8ccf040e372eb3439d47a9f2252967e2]
+## 8. Employment of teachers[^c-8ccf040e372eb3439d47a9f2252967e2]
 
 (1) Subject to paragraph (2) or (3), as the case may be, only persons eligible to teach shall be employed as teachers in a grant-aided school or as peripatetic teachers.
 
@@ -111,7 +111,7 @@ Every person employed as a teacher shall have such qualifications as may be appr
 - (a) suspended by an employing authority under regulation 7(4)(*a*); or
 - (b) prohibited or restricted by the Department under regulation 9(1)(*a*) or (*b*).
 
-## 9. Prohibition or restriction on a person’s employment as a teacher[^key-11e0a26811ec61679be6783a954b34f6]
+## 9. Prohibition or restriction on a person’s employment as a teacher[^c-11e0a26811ec61679be6783a954b34f6]
 
 (1) The Department may prohibit or restrict the employment or further employment of a person eligible to teach—
 
@@ -129,7 +129,7 @@ Every person employed as a teacher shall have such qualifications as may be appr
 
 (5) Where the Department has prohibited or restricted a person’s employment as a teacher on medical grounds or on grounds of his misconduct, it may subsequently remove or modify such prohibition or restriction.
 
-## 10. Misconduct reports[^key-b4c8eeb2cfc1538df21eab9ea03ca666]
+## 10. Misconduct reports[^c-b4c8eeb2cfc1538df21eab9ea03ca666]
 
 Where an employing authority has dismissed a person from employment as a teacher on grounds of his misconduct (whether or not he is convicted of a criminal offence) or would have so dismissed him or considered so dismissing him but for his resignation, that employing authority shall give to the Department such information relating to those grounds as the Department thinks fit.
 
@@ -164,34 +164,34 @@ These Regulations revoke and replace the Teachers' (Eligibility) Regulations (No
 
 [^f00003]: Footnote: S.I. [1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)
 
-[^key-00cdccd399faafbdf02d1a795f1fa0a1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+[^c-00cdccd399faafbdf02d1a795f1fa0a1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
 
-[^key-2dc30c72796cd9119f8c9eb45139c6c3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/312/regulation/2) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+[^c-2dc30c72796cd9119f8c9eb45139c6c3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/312/regulation/2) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1987 No. 266](https://www.legislation.gov.uk/nisr/1987/266)
 
 [^f00005]: Footnote: [S.R. 1988 No. 218](https://www.legislation.gov.uk/nisr/1988/218)
 
-[^key-e0633351f6f4004c7ef8fb4ec19794db]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/312/regulation/3) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+[^c-e0633351f6f4004c7ef8fb4ec19794db]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/312/regulation/3) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
 
-[^key-815c3f3771e6f6c7f55cd0f437cc6db6]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/1997/312/regulation/3) omitted (10.11.2006) by virtue of [Teachers' (Eligibility) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/441)](https://www.legislation.gov.uk/nisr/2006/441), [regs. 1](https://www.legislation.gov.uk/nisr/2006/441/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2006/441/regulation/2/a)
+[^c-815c3f3771e6f6c7f55cd0f437cc6db6]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/1997/312/regulation/3) omitted (10.11.2006) by virtue of [Teachers' (Eligibility) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/441)](https://www.legislation.gov.uk/nisr/2006/441), [regs. 1](https://www.legislation.gov.uk/nisr/2006/441/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2006/441/regulation/2/a)
 
 [^f00006]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54)
 
 [^f00007]: Footnote: [S.R. 1977 No. 260](https://www.legislation.gov.uk/nisr/1977/260): relevant amending regulations are [S.R. 1980 No. 305](https://www.legislation.gov.uk/nisr/1980/305)
 
-[^key-3a4aef16c24d667dac9fa61fa68731cb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1997/312/regulation/4) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+[^c-3a4aef16c24d667dac9fa61fa68731cb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1997/312/regulation/4) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
 
-[^key-f78137510b98a2984e3a1fa84f6af78d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1997/312/regulation/5) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+[^c-f78137510b98a2984e3a1fa84f6af78d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1997/312/regulation/5) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
 
-[^key-18ceb0c8326949df348b041ac91ab6a6]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1997/312/regulation/6) revoked (10.11.2006) by [Teachers' (Eligibility) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/441)](https://www.legislation.gov.uk/nisr/2006/441), [regs. 1](https://www.legislation.gov.uk/nisr/2006/441/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2006/441/regulation/2/b)
+[^c-18ceb0c8326949df348b041ac91ab6a6]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/1997/312/regulation/6) revoked (10.11.2006) by [Teachers' (Eligibility) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/441)](https://www.legislation.gov.uk/nisr/2006/441), [regs. 1](https://www.legislation.gov.uk/nisr/2006/441/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2006/441/regulation/2/b)
 
-[^key-565b69009189aadfacc3645685fa16e5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1997/312/regulation/7) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+[^c-565b69009189aadfacc3645685fa16e5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1997/312/regulation/7) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
 
 [^f00008]: Footnote: S.I. [1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406)
 
-[^key-8ccf040e372eb3439d47a9f2252967e2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1997/312/regulation/8) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+[^c-8ccf040e372eb3439d47a9f2252967e2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1997/312/regulation/8) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
 
-[^key-11e0a26811ec61679be6783a954b34f6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1997/312/regulation/9) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+[^c-11e0a26811ec61679be6783a954b34f6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1997/312/regulation/9) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
 
-[^key-b4c8eeb2cfc1538df21eab9ea03ca666]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1997/312/regulation/10) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)
+[^c-b4c8eeb2cfc1538df21eab9ea03ca666]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1997/312/regulation/10) in operation at 1.9.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/312/regulation/1)

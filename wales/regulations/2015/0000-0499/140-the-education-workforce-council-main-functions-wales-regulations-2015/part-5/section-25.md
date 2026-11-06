@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Provision of copies of the code of conduct and practice[^key-94e6a567083d7ff05d91cb1354f9f38f]
+## 25. Provision of copies of the code of conduct and practice[^c-94e6a567083d7ff05d91cb1354f9f38f]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94e6a567083d7ff05d91cb1354f9f38f]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2015/140/regulation/25) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-94e6a567083d7ff05d91cb1354f9f38f]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2015/140/regulation/25) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

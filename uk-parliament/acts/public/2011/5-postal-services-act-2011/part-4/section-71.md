@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Powers of court[^key-52e1754e6382b62aae8112b0e2fdf99c]
+## 71. Powers of court[^c-52e1754e6382b62aae8112b0e2fdf99c]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52e1754e6382b62aae8112b0e2fdf99c]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2011/5/section/71) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-52e1754e6382b62aae8112b0e2fdf99c]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2011/5/section/71) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

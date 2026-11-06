@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Satisfaction of external order[^key-f2fd736b9ae637fc125c9591a0b6e7b4]
+## 79. Satisfaction of external order[^c-f2fd736b9ae637fc125c9591a0b6e7b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2fd736b9ae637fc125c9591a0b6e7b4]: Commencement: [Art. 79](https://www.legislation.gov.uk/uksi/2005/3181/article/79) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-f2fd736b9ae637fc125c9591a0b6e7b4]: Commencement: [Art. 79](https://www.legislation.gov.uk/uksi/2005/3181/article/79) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

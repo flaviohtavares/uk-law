@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.38. Proposed housing administrator’s statement and consent to act[^key-44fd04177aa3fca676ab3bbe91d2a104]
+## 7.38. Proposed housing administrator’s statement and consent to act[^c-44fd04177aa3fca676ab3bbe91d2a104]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-44fd04177aa3fca676ab3bbe91d2a104]: Commencement: Rule 7.38 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-44fd04177aa3fca676ab3bbe91d2a104]: Commencement: Rule 7.38 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
 [^f00038]: Footnote: Part 13 is amended by section 17 and paragraphs 11, 18, 19 and 21 of the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), paragraph 57 of Schedule 19 to the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24) and sections 137 to 143 of the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26).

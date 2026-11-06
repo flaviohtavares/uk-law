@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54A. Electronic dispositions[^key-dac8897dbc93e3dd53f0bfb30ccbec12]
+## 54A. Electronic dispositions[^c-dac8897dbc93e3dd53f0bfb30ccbec12]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ A disposition of a registered estate or charge which is a registrable dispositio
 
 ## Annotations
 
-[^key-dac8897dbc93e3dd53f0bfb30ccbec12]: Textual amendment: [Rules 54A-54D](https://www.legislation.gov.uk/uksi/2003/1417/rule/54A) inserted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/11)
+[^c-dac8897dbc93e3dd53f0bfb30ccbec12]: Textual amendment: [Rules 54A-54D](https://www.legislation.gov.uk/uksi/2003/1417/rule/54A) inserted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/11)

@@ -40,7 +40,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 *Extent: E+W+S*
 
-### 1. Domestic energy price reduction schemes for Great Britain[^key-015bd8a4e6cb505ff3cf6caa076672b7]
+### 1. Domestic energy price reduction schemes for Great Britain[^c-015bd8a4e6cb505ff3cf6caa076672b7]
 
 (1) The Secretary of State may establish a domestic electricity price reduction scheme for Great Britain.
 
@@ -72,7 +72,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (9) For provision about time limits on the exercise of the powers conferred by this section, see Schedule 6.
 
-### 2. GB electricity scheme: supplementary provision[^key-52d9468344404c5bab069dc453dffa2f]
+### 2. GB electricity scheme: supplementary provision[^c-52d9468344404c5bab069dc453dffa2f]
 
 (1) This section—
 
@@ -97,7 +97,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (8) Regulations under this section are subject to the negative procedure.
 
-### 3. GB gas scheme: supplementary provision[^key-03d0a4bea7d8d3bcc988a90ee9d2a1fe]
+### 3. GB gas scheme: supplementary provision[^c-03d0a4bea7d8d3bcc988a90ee9d2a1fe]
 
 (1) This section—
 
@@ -134,7 +134,7 @@ and the gas shipper must make that application as soon as reasonably practicable
 
 (10) Regulations under this section are subject to the negative procedure.
 
-### 4. Interpretation of sections 1 to 3[^key-c79e2ed2ad64a1a4c90d0f861514c7a6]
+### 4. Interpretation of sections 1 to 3[^c-c79e2ed2ad64a1a4c90d0f861514c7a6]
 
 (1) This section applies for the purposes of sections 1 to 3 and this section.
 
@@ -168,7 +168,7 @@ Other expressions
 
 *Extent: N.I.*
 
-### 5. Domestic energy price reduction schemes for Northern Ireland[^key-e58bb6cfbd7e4cf7c113e1856e8790d1]
+### 5. Domestic energy price reduction schemes for Northern Ireland[^c-e58bb6cfbd7e4cf7c113e1856e8790d1]
 
 (1) The Secretary of State may establish a domestic electricity price reduction scheme for Northern Ireland.
 
@@ -195,7 +195,7 @@ Other expressions
 
 (8) For provision about time limits on the exercise of the powers conferred by this section, see Schedule 6.
 
-### 6. NI electricity scheme: supplementary provision[^key-b4d0ad996ba01bbd2ceae74eb67b6799]
+### 6. NI electricity scheme: supplementary provision[^c-b4d0ad996ba01bbd2ceae74eb67b6799]
 
 (1) This section—
 
@@ -220,7 +220,7 @@ Other expressions
 
 (8) Regulations under this section are subject to the negative procedure.
 
-### 7. NI gas scheme: supplementary provision[^key-7cb164e7ab153e9517d0a1f0d25b87bc]
+### 7. NI gas scheme: supplementary provision[^c-7cb164e7ab153e9517d0a1f0d25b87bc]
 
 (1) This section—
 
@@ -245,7 +245,7 @@ Other expressions
 
 (8) Regulations under this section are subject to the negative procedure.
 
-### 8. Interpretation of sections 5 to 7[^key-c501c69a87f566734c3bdda2a278a3bd]
+### 8. Interpretation of sections 5 to 7[^c-c501c69a87f566734c3bdda2a278a3bd]
 
 (1) This section applies for the purposes of sections 5 to 7 and this section.
 
@@ -273,7 +273,7 @@ Other expressions
 
 *Extent: E+W+S*
 
-### 9. Reduced energy charges for non-domestic customers in Great Britain[^key-b233a5d8d540da47db2e5592e9bb7fb4]
+### 9. Reduced energy charges for non-domestic customers in Great Britain[^c-b233a5d8d540da47db2e5592e9bb7fb4]
 
 (1) The Secretary of State may, by regulations, make provision for and in connection with—
 
@@ -305,7 +305,7 @@ Other expressions
 
 (8) For provision about time limits on the exercise of the powers conferred by this section, see Schedule 6.
 
-### 10. Interpretation of section 9 and Schedule 1[^key-49fd41f5d35984642e3234c1e7d8bd2b]
+### 10. Interpretation of section 9 and Schedule 1[^c-49fd41f5d35984642e3234c1e7d8bd2b]
 
 (1) This section applies for the purposes of section 9, this section and Schedule 1.
 
@@ -333,7 +333,7 @@ Expressions relating to gas
 
 *Extent: N.I.*
 
-### 11. Reduced energy charges for non-domestic customers in Northern Ireland[^key-6ce040c595003f97ee2a3f41f407e661]
+### 11. Reduced energy charges for non-domestic customers in Northern Ireland[^c-6ce040c595003f97ee2a3f41f407e661]
 
 (1) The Secretary of State may, by regulations, make provision for and in connection with—
 
@@ -365,7 +365,7 @@ Expressions relating to gas
 
 (8) For provision about time limits on the exercise of the powers conferred by this section, see Schedule 6.
 
-### 12. Interpretation of section 11 and Schedule 2[^key-600ad680438b54dcbe15f921d3d13084]
+### 12. Interpretation of section 11 and Schedule 2[^c-600ad680438b54dcbe15f921d3d13084]
 
 (1) This section applies for the purposes of section 11, this section and Schedule 2.
 
@@ -391,7 +391,7 @@ Other expressions
 
 ## Support for meeting energy costs etc
 
-### 13. Power of the Secretary of State to give support for meeting energy costs etc[^key-2acdee7f6115297c90bcd7a39d6fc9f7]
+### 13. Power of the Secretary of State to give support for meeting energy costs etc[^c-2acdee7f6115297c90bcd7a39d6fc9f7]
 
 (1) The Secretary of State may take such steps as the Secretary of State considers appropriate to—
 
@@ -422,7 +422,7 @@ are, to the extent that they are not authorised by a power of the Secretary of S
 
 (7) For provision about time limits on the exercise of the powers conferred by this section, see Schedule 6.
 
-### 14. Procedure and reporting in connection with section 13[^key-e7128c51d18e0cca5b35476f7a2ab5fa]
+### 14. Procedure and reporting in connection with section 13[^c-e7128c51d18e0cca5b35476f7a2ab5fa]
 
 (1) The power conferred by section 13(2) is exercisable only in accordance with subsections (2) to (4).
 
@@ -445,7 +445,7 @@ must not exceed £100 million unless the expenditure in excess of that sum is au
 
 (6) In subsection (5) “**quarter**” means a period of three months ending at the end of March, June, September or December.
 
-### 15. Role of other bodies in giving support for meeting energy costs etc[^key-fb13a930082e4f7b5cbdae2a471b0299]
+### 15. Role of other bodies in giving support for meeting energy costs etc[^c-fb13a930082e4f7b5cbdae2a471b0299]
 
 (1) A designated body may take action in support of a step taken under section 13 (a “relevant step”).
 
@@ -499,7 +499,7 @@ as it does to action taken by a designated body (in support of a step taken unde
 
 ## Reducing the price of electricity
 
-### 16. Temporary requirement for electricity generators to make payments[^key-459583d2209476b7008e06cfff3b90c9]
+### 16. Temporary requirement for electricity generators to make payments[^c-459583d2209476b7008e06cfff3b90c9]
 
 (1) The Secretary of State may, for a purpose mentioned in subsection (2), make regulations for, and in connection with, requiring periodic payments to be made to a payment administrator by—
 
@@ -561,7 +561,7 @@ as it does to action taken by a designated body (in support of a step taken unde
   - (b) that is not an accredited FIT installation within the meaning of the Feed-in Tariffs Order 2012 ([S.I. 2012/2782](https://www.legislation.gov.uk/uksi/2012/2782));
 - “specified”, except in subsection (5), means specified in regulations under this section.
 
-### 17. Power to require information in connection with regulations under section 16[^key-6ab1176e293922f0b332d03879b7604b]
+### 17. Power to require information in connection with regulations under section 16[^c-6ab1176e293922f0b332d03879b7604b]
 
 (1) The Secretary of State may direct an electricity generator to provide the Secretary of State with such specified information as the Secretary of State may reasonably require in connection with the making of regulations under section 16.
 
@@ -584,7 +584,7 @@ as it does to action taken by a designated body (in support of a step taken unde
 - “**information**” includes documents;
 - “**specified**” means specified in the direction.
 
-### 18. Contracts for difference[^key-26af3e27c5e03b60a76b122f2d3e60d9]
+### 18. Contracts for difference[^c-26af3e27c5e03b60a76b122f2d3e60d9]
 
 (1) The Energy Act 2013 is amended as follows.
 
@@ -622,7 +622,7 @@ as it does to action taken by a designated body (in support of a step taken unde
 
 ## Passing on the benefits of reductions and other support
 
-### 19. Requirement to pass on energy price support to end users[^key-dab7d3cbaffb70af270e4bfb0d0f46f5]
+### 19. Requirement to pass on energy price support to end users[^c-dab7d3cbaffb70af270e4bfb0d0f46f5]
 
 (1) The Secretary of State may by regulations impose pass-through requirements on persons to whom energy price support is provided (“intermediaries”).
 
@@ -701,13 +701,13 @@ where the assistance is provided in response to the energy crisis.
 
 *Extent: E+W+S*
 
-### 20. Domestic gas and electricity tariff cap[^key-f45acb91dcf831ffb0e93e5a69da35c3]
+### 20. Domestic gas and electricity tariff cap[^c-f45acb91dcf831ffb0e93e5a69da35c3]
 
 Schedule 3 contains amendments to the Domestic Gas and Electricity (Tariff Cap) Act 2018.
 
 ## Regulation of energy markets
 
-### 21. Power of the Secretary of State to modify energy licences etc[^key-9f1d9370a1c2a8a01614ad88f157e12b]
+### 21. Power of the Secretary of State to modify energy licences etc[^c-9f1d9370a1c2a8a01614ad88f157e12b]
 
 (1) The Secretary of State may exercise a power conferred by this section if the Secretary of State considers it appropriate to do so—
 
@@ -765,7 +765,7 @@ Schedule 3 contains amendments to the Domestic Gas and Electricity (Tariff Cap) 
 - (c) a licence granted under Article 10 of the Electricity (Northern Ireland) Order 1992 ([S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231));
 - (d) a licence granted under Article 8 of the Gas (Northern Ireland) Order 1996 ([S.I. 1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275)).
 
-### 22. Power of Secretary of State to give directions[^key-01f5899c823afaf61967c5f9d7ecaffd]
+### 22. Power of Secretary of State to give directions[^c-01f5899c823afaf61967c5f9d7ecaffd]
 
 (1) The Secretary of State may exercise a power conferred by this section if the Secretary of State considers it appropriate to do so—
 
@@ -800,7 +800,7 @@ Schedule 3 contains amendments to the Domestic Gas and Electricity (Tariff Cap) 
 - (c) a licence granted under Article 10 of the Electricity (Northern Ireland) Order 1992 ([S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231));
 - (d) a licence granted under Article 8 of the Gas (Northern Ireland) Order 1996 ([S.I. 1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275)).
 
-### 23. Regulation of the Northern Ireland energy market[^key-008c748d1c0629912b020cfa94c788af]
+### 23. Regulation of the Northern Ireland energy market[^c-008c748d1c0629912b020cfa94c788af]
 
 *Extent: N.I.*
 
@@ -808,17 +808,17 @@ Schedule 4 contains provision about regulation of the Northern Ireland energy ma
 
 ## Final provisions
 
-### 24. Concurrent exercise of powers by the Department for the Economy[^key-7018e0cfa45b82f5adca9179cdfe9d7d]
+### 24. Concurrent exercise of powers by the Department for the Economy[^c-7018e0cfa45b82f5adca9179cdfe9d7d]
 
 *Extent: N.I.*
 
 Schedule 5 provides for certain powers of the Secretary of State under this Act to be exercisable concurrently by the Department for the Economy in Northern Ireland.
 
-### 25. Time limits on exercise of certain powers under this Act[^key-cc9be610307464e6ffe82c3f4457137f]
+### 25. Time limits on exercise of certain powers under this Act[^c-cc9be610307464e6ffe82c3f4457137f]
 
 Schedule 6 provides for time limits on the exercise of certain powers conferred by this Act.
 
-### 26. Regulations[^key-077833f1b3e29edb69b4a44dd3e89262]
+### 26. Regulations[^c-077833f1b3e29edb69b4a44dd3e89262]
 
 (1) Regulations made under this Act by the Secretary of State are to be made by statutory instrument.
 
@@ -862,7 +862,7 @@ the statutory instrument containing them must be laid before Parliament after be
 
 (11) In this section “**initial period**” means the period of six months beginning with the day on which this Act is passed.
 
-### 27. Consequential provision etc[^key-5f0f7cfb56cba73e848fcee9b917d6e3]
+### 27. Consequential provision etc[^c-5f0f7cfb56cba73e848fcee9b917d6e3]
 
 (1) The Secretary of State may, by regulations, make provision that is consequential on—
 
@@ -893,7 +893,7 @@ under Schedule 4, 5 or 6.
 
 (9) For provision about the modification of energy licences, see section 21.
 
-### 28. Interpretation[^key-c83f23e409dc66f8e29ad5fa37ee5ad8]
+### 28. Interpretation[^c-c83f23e409dc66f8e29ad5fa37ee5ad8]
 
 (1) For the purposes of this Act something is done “in response to the energy crisis” if it is done for the purpose of responding to a relevant change in the price of energy (including responding to a cause or effect, or anticipated cause or effect, of a relevant change).
 
@@ -932,11 +932,11 @@ under Schedule 4, 5 or 6.
   - (d) Northern Ireland legislation;
 - “**subordinate legislation**” means an instrument made under primary legislation.
 
-### 29. Application to the Crown[^key-788f984bd4290fc3abfaaa6655ff6cb9]
+### 29. Application to the Crown[^c-788f984bd4290fc3abfaaa6655ff6cb9]
 
 This Act binds the Crown.
 
-### 30. Extent, commencement and short title[^key-d9b42f5f6c737e1a45959b977f2ebc1c]
+### 30. Extent, commencement and short title[^c-d9b42f5f6c737e1a45959b977f2ebc1c]
 
 (1) These provisions of this Act extend to England and Wales and Scotland—
 
@@ -971,7 +971,7 @@ SCHEDULES
 
 Section 9
 
-### 1. Introduction[^key-d780ad15d084258b930063878cfcd6d0]
+### 1. Introduction[^c-d780ad15d084258b930063878cfcd6d0]
 
 In this Schedule—
 
@@ -986,7 +986,7 @@ In this Schedule—
   - (a) reducing the amounts that would otherwise be charged for energy supply by licensed suppliers, and
   - (b) making payments to those suppliers in respect of those reductions.
 
-### 2. Application of GB non-domestic relief regulations[^key-81f2b04cc2866a6caf4a1758c77e77ab]
+### 2. Application of GB non-domestic relief regulations[^c-81f2b04cc2866a6caf4a1758c77e77ab]
 
 (1) GB non-domestic relief regulations may relate to charges for energy supply that took place before section 9 or the regulations came into force (including charges made or paid before that section or the regulations came into force).
 
@@ -1002,7 +1002,7 @@ In this Schedule—
 
 (5) That includes different provision for reducing the amount that would otherwise be charged for energy supply by licensed suppliers.
 
-### 3. Delegation[^key-097018e725b4b9c4e224556a9d90a739]
+### 3. Delegation[^c-097018e725b4b9c4e224556a9d90a739]
 
 (1) GB non-domestic relief regulations may provide for functions (including functions involving the exercise of a discretion) to be exercisable by any person (including the Secretary of State).
 
@@ -1011,34 +1011,34 @@ In this Schedule—
 - (a) to make rules or other subordinate legislation (and may provide for them to be made by statutory instrument), or
 - (b) to give directions.
 
-### 4. Powers and duties[^key-3322b7547c8f3de3425d25c4f629c448]
+### 4. Powers and duties[^c-3322b7547c8f3de3425d25c4f629c448]
 
 (1) GB non-domestic relief regulations may provide for duties to be imposed on, or powers to be conferred on, any person (including the Secretary of State).
 
 (2) That includes powers or duties relating to the provision, or making available, of information.
 
-### 5. Modification of contracts[^key-5bcb3abb6efc2b76ddc3e678fd7a1f43]
+### 5. Modification of contracts[^c-5bcb3abb6efc2b76ddc3e678fd7a1f43]
 
 GB non-domestic relief regulations may modify, or make other provision in relation to, the terms of contracts or other arrangements relating to energy supply.
 
-### 6. Enforcement[^key-276023d35e885b85d3a3b5d17198e5fb]
+### 6. Enforcement[^c-276023d35e885b85d3a3b5d17198e5fb]
 
 (1) GB non-domestic relief regulations may provide for civil penalties.
 
 (2) GB non-domestic relief regulations may provide for obligations under the regulations to be enforceable as, or as if they were, relevant requirements for the purposes of section 25 of the Electricity Act 1989 or section 28 of the Gas Act 1986.
 
-### 7. Exclusion of liability[^key-e10a26d8d5cd7bee1b851ba137140771]
+### 7. Exclusion of liability[^c-e10a26d8d5cd7bee1b851ba137140771]
 
 GB non-domestic relief regulations may provide for a person not to be liable in damages for things done or omitted in the exercise or purported exercise of functions under the regulations.
 
-### 8. Avoidance of abuse or unreasonable reliance on support schemes[^key-ecf75bedac2fdfd67e98a8be9c4b958d]
+### 8. Avoidance of abuse or unreasonable reliance on support schemes[^c-ecf75bedac2fdfd67e98a8be9c4b958d]
 
 GB non-domestic relief regulations may make provision to deal with the consequences of, or to prohibit or otherwise regulate, transactions or arrangements which the Secretary of State considers manipulate or otherwise abuse—
 
 - (a) any support scheme, or
 - (b) the availability of any support scheme.
 
-### 9. Financially disadvantaged customers[^key-c75257bf06be0f5c916299c40c64069b]
+### 9. Financially disadvantaged customers[^c-c75257bf06be0f5c916299c40c64069b]
 
 (1) GB non-domestic relief regulations may make provision about the terms on which licensed suppliers are to provide energy supply to which a support scheme relates to a specified description of customers.
 
@@ -1058,7 +1058,7 @@ GB non-domestic relief regulations may make provision to deal with the consequen
 
 Section 11
 
-### 1. Introduction[^key-2b53acad6469398682c6f18ad93ddb73]
+### 1. Introduction[^c-2b53acad6469398682c6f18ad93ddb73]
 
 In this Schedule—
 
@@ -1073,7 +1073,7 @@ In this Schedule—
   - (a) reducing the amounts that would otherwise be charged for energy supply by licensed suppliers, and
   - (b) making payments to those suppliers in respect of those reductions.
 
-### 2. Application of NI non-domestic relief regulations[^key-62f180b3b79b881464ed84fab4fc0fc2]
+### 2. Application of NI non-domestic relief regulations[^c-62f180b3b79b881464ed84fab4fc0fc2]
 
 (1) NI non-domestic relief regulations may relate to charges for energy supply that took place before section 11 or the regulations came into force (including charges made or paid before that section or the regulations came into force).
 
@@ -1089,7 +1089,7 @@ In this Schedule—
 
 (5) That includes different provision for reducing the amount that would otherwise be charged for energy supply by licensed suppliers.
 
-### 3. Delegation[^key-f197fa03fe2195057f1a05549aa27c84]
+### 3. Delegation[^c-f197fa03fe2195057f1a05549aa27c84]
 
 (1) NI non-domestic relief regulations may provide for functions (including functions involving the exercise of a discretion) to be exercisable by any person (including the Secretary of State).
 
@@ -1098,34 +1098,34 @@ In this Schedule—
 - (a) to make rules or other subordinate legislation (and may provide for them to be made by statutory rule), or
 - (b) to give directions.
 
-### 4. Powers and duties[^key-f1518a55fc21642aafbce9075638f51a]
+### 4. Powers and duties[^c-f1518a55fc21642aafbce9075638f51a]
 
 (1) NI non-domestic relief regulations may provide for duties to be imposed on, or powers to be conferred on, any person (including the Secretary of State).
 
 (2) That includes powers or duties relating to the provision, or making available, of information.
 
-### 5. Modification of contracts[^key-36a60bd76c83c7a0843a2f0387348005]
+### 5. Modification of contracts[^c-36a60bd76c83c7a0843a2f0387348005]
 
 NI non-domestic relief regulations may modify, or make other provision in relation to, the terms of contracts or other arrangements relating to energy supply.
 
-### 6. Enforcement[^key-599f9df7f6bc5ec1f24dbddcf4a17077]
+### 6. Enforcement[^c-599f9df7f6bc5ec1f24dbddcf4a17077]
 
 (1) NI non-domestic relief regulations may provide for civil penalties.
 
 (2) NI non-domestic relief regulations may provide for obligations under the regulations to be enforceable as, or as if they were, relevant requirements for the purposes of Article 41A or 41B of the Energy (Northern Ireland) Order 2003 ([S.I. 2003/419 (N.I. 6)](https://www.legislation.gov.uk/nisi/2003/419)).
 
-### 7. Exclusion of liability[^key-a22e9475918688c0f2330de5d92e8aa4]
+### 7. Exclusion of liability[^c-a22e9475918688c0f2330de5d92e8aa4]
 
 NI non-domestic relief regulations may provide for a person not to be liable in damages for things done or omitted in the exercise or purported exercise of functions under the regulations.
 
-### 8. Avoidance of abuse or unreasonable reliance on support schemes[^key-431c86be366f49a3cef275105b6b70aa]
+### 8. Avoidance of abuse or unreasonable reliance on support schemes[^c-431c86be366f49a3cef275105b6b70aa]
 
 NI non-domestic relief regulations may make provision to deal with the consequences of, or to prohibit or otherwise regulate, transactions or arrangements which the Secretary of State considers manipulate or otherwise abuse—
 
 - (a) any support scheme, or
 - (b) the availability of any support scheme.
 
-### 9. Financially disadvantaged customers[^key-e5f0f87b9e501d7fcf8299b42350e2fd]
+### 9. Financially disadvantaged customers[^c-e5f0f87b9e501d7fcf8299b42350e2fd]
 
 (1) NI non-domestic relief regulations may make provision about the terms on which licensed suppliers are to provide energy supply to which a support scheme relates to a specified description of customers.
 
@@ -1145,11 +1145,11 @@ NI non-domestic relief regulations may make provision to deal with the consequen
 
 Section 20
 
-### 1. Amendments to 2018 Act[^key-13e59782a6d7fc267ebc8afa16fb55b3]
+### 1. Amendments to 2018 Act[^c-13e59782a6d7fc267ebc8afa16fb55b3]
 
 The Domestic Gas and Electricity (Tariff Cap) Act 2018 is amended as follows.
 
-**2.**[^key-ae8ae9af3cc6006353c1c46397cec60c] (1) Section 1 (cap on standard variable and default rates) is amended as follows.
+**2.**[^c-ae8ae9af3cc6006353c1c46397cec60c] (1) Section 1 (cap on standard variable and default rates) is amended as follows.
 
 (2) After subsection (3) insert—
 
@@ -1163,7 +1163,7 @@ The Domestic Gas and Electricity (Tariff Cap) Act 2018 is amended as follows.
 
 > (6A) In performing the duty under subsection (6)(e), the Authority must have regard to any information provided to it by the Secretary of State, or any guidance given by the Secretary of State, in relation to the matter mentioned in that provision.
 
-**3.**[^key-cb6daa999638d2d721b44d26f9cc02cd] (1) Section 5 (publication and effect of modifications) is amended as follows.
+**3.**[^c-cb6daa999638d2d721b44d26f9cc02cd] (1) Section 5 (publication and effect of modifications) is amended as follows.
 
 (2) In subsection (4), for “56 days” substitute “25 working days”.
 
@@ -1175,7 +1175,7 @@ The Domestic Gas and Electricity (Tariff Cap) Act 2018 is amended as follows.
 > - (b) Christmas Day or Good Friday, or
 > - (c) a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.
 
-**4.**[^key-aa78f4e1a7641b5a0b418bafd60818bd] (1) Section 6 (review of level at which cap is set) is amended as follows.
+**4.**[^c-aa78f4e1a7641b5a0b418bafd60818bd] (1) Section 6 (review of level at which cap is set) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -1188,9 +1188,9 @@ The Domestic Gas and Electricity (Tariff Cap) Act 2018 is amended as follows.
 
 (3) Omit subsection (2).
 
-**5.**[^key-45f6e71963e407f5c5009594ff683c26] Omit section 7.
+**5.**[^c-45f6e71963e407f5c5009594ff683c26] Omit section 7.
 
-**6.**[^key-d9b9fb92fb3e83fe9d7da99961314800] For section 8 substitute—
+**6.**[^c-d9b9fb92fb3e83fe9d7da99961314800] For section 8 substitute—
 
 > **8. Termination of tariff cap conditions**
 >
@@ -1215,9 +1215,9 @@ The Domestic Gas and Electricity (Tariff Cap) Act 2018 is amended as follows.
 >
 > (7) Where tariff cap conditions cease to have effect as provided by this section in the case of supply licences for the supply of electricity, the functions of the Authority under section 1 cease to be exercisable in relation to such licences.
 
-**7.**[^key-edbe5607524b2cecc2da149ecc9a0438] In section 9(1) (protection for domestic customers after termination of tariff cap conditions), for the words from “Before” to “the Authority must” substitute “The Authority must, at such intervals as it considers appropriate,”.
+**7.**[^c-edbe5607524b2cecc2da149ecc9a0438] In section 9(1) (protection for domestic customers after termination of tariff cap conditions), for the words from “Before” to “the Authority must” substitute “The Authority must, at such intervals as it considers appropriate,”.
 
-**8.**[^key-f8da481e8e18b8ef1be117d538e0155c] (1) Section 10 (consequential modification of standard supply licence conditions) is amended as follows.
+**8.**[^c-f8da481e8e18b8ef1be117d538e0155c] (1) Section 10 (consequential modification of standard supply licence conditions) is amended as follows.
 
 (2) In subsection (1), after “effect” insert “, in the case of all supply licences,”.
 
@@ -1231,7 +1231,7 @@ The Domestic Gas and Electricity (Tariff Cap) Act 2018 is amended as follows.
 
 (5) In subsection (3), after “modification” insert “made under this section”.
 
-### 9. Transitional provision[^key-67dbe40b34976dd8e496e83bc94e17d1]
+### 9. Transitional provision[^c-67dbe40b34976dd8e496e83bc94e17d1]
 
 (1) This paragraph applies if—
 
@@ -1254,7 +1254,7 @@ The Domestic Gas and Electricity (Tariff Cap) Act 2018 is amended as follows.
 
 Section 23
 
-### 1. Simplification of procedure for modifying conditions of electricity licences[^key-826fc28194793040261ae4f128a5475f]
+### 1. Simplification of procedure for modifying conditions of electricity licences[^c-826fc28194793040261ae4f128a5475f]
 
 (1) This paragraph applies to the exercise of the power conferred by Article 14 of the Electricity (Northern Ireland) Order 1992 ([S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231)) (modification of conditions of electricity licences) by the Northern Ireland Regulator in response to the energy crisis.
 
@@ -1269,7 +1269,7 @@ Section 23
 
 (5) An appeal may not be brought under Article 14B in respect of the exercise of the power.
 
-### 2. Simplification of procedure for modifying conditions of gas licences[^key-bc53d6e8425464a70273ef612f7474e7]
+### 2. Simplification of procedure for modifying conditions of gas licences[^c-bc53d6e8425464a70273ef612f7474e7]
 
 (1) This section applies to the exercise of the power conferred by Article 14 of the Gas (Northern Ireland) Order 1996 ([S.I. 1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275)) (modification of conditions of gas licences) by the Northern Ireland Regulator in response to the energy crisis.
 
@@ -1284,7 +1284,7 @@ Section 23
 
 (5) An appeal may not be brought under Article 14B in respect of the exercise of the power.
 
-### 3. Expiry of this Schedule[^key-c7059619e37b608317ef3f7e50d1aae5]
+### 3. Expiry of this Schedule[^c-c7059619e37b608317ef3f7e50d1aae5]
 
 (1) This Schedule ceases to have effect at the end of the relevant period.
 
@@ -1296,7 +1296,7 @@ Section 23
 
 (5) Regulations under sub-paragraph (4) are subject to the affirmative procedure.
 
-### 4. Interpretation[^key-3d1af6904253cf4a514a1790232e1f45]
+### 4. Interpretation[^c-3d1af6904253cf4a514a1790232e1f45]
 
 In this Schedule—
 
@@ -1310,7 +1310,7 @@ In this Schedule—
 
 Section 24
 
-### 1. Powers exercisable concurrently by the Department for the Economy[^key-49799016ac3bb2beb21804109060ccec]
+### 1. Powers exercisable concurrently by the Department for the Economy[^c-49799016ac3bb2beb21804109060ccec]
 
 (1) A power conferred on the Secretary of State by any of the following provisions of this Act may be exercised concurrently by the Department for the Economy in Northern Ireland (“**the Department**”)—
 
@@ -1330,7 +1330,7 @@ Section 24
 
 (but see paragraphs 3 and 4 for additional and alternative provision about section 14 and regulations generally).
 
-### 2. Limitations on the exercise of particular powers by the Department[^key-59c87e3606d3dfe98f8c4e00459b23f6]
+### 2. Limitations on the exercise of particular powers by the Department[^c-59c87e3606d3dfe98f8c4e00459b23f6]
 
 (1) The Department may exercise the power in section 21 only in respect of a licence granted under Article 10 of the Electricity (Northern Ireland) Order 1992 or Article 8 of the Gas (Northern Ireland) Order 1996.
 
@@ -1339,7 +1339,7 @@ Section 24
 - (a) the Northern Ireland Regulator;
 - (b) a person who holds a licence granted under Article 10 of the Electricity (Northern Ireland) Order 1992 or Article 8 of the Gas (Northern Ireland) Order 1996.
 
-### 3. Application of section 14 to the exercise of powers by the Department[^key-6350b618368772bbafc883415a7903da]
+### 3. Application of section 14 to the exercise of powers by the Department[^c-6350b618368772bbafc883415a7903da]
 
 (1) This paragraph applies in relation to the exercise of the powers in section 13 by the Department.
 
@@ -1349,7 +1349,7 @@ Section 24
 - (b) lay a statement concerning urgent expenditure before the Northern Ireland Assembly in accordance with section 14(4), that statement may instead be laid by the Secretary of State before Parliament;
 - (c) lay a report concerning expenditure before the Northern Ireland Assembly in accordance with section 14(5), that report may instead be laid by the Secretary of State before Parliament.
 
-### 4. Regulations made by the Department[^key-f1a854588fa84edb21b134a09bb4fbc4]
+### 4. Regulations made by the Department[^c-f1a854588fa84edb21b134a09bb4fbc4]
 
 (1) This paragraph applies where a power conferred by this Act to make regulations is exercisable concurrently by the Department.
 
@@ -1371,7 +1371,7 @@ Section 24
 - (a) the affirmative procedure, regulations may not be made by the Department under that power unless a draft of the statutory rule containing the regulations has been laid before and approved by a resolution of the Northern Ireland Assembly;
 - (b) the negative procedure, a statutory rule containing regulations made by the Department under that power is subject to negative resolution within the meaning given by section 41(6) of the [Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.))](https://www.legislation.gov.uk/apni/1954/33).
 
-### 5. Expiry of the Department’s powers[^key-d75c2a16a995cf3711831d3460994f9a]
+### 5. Expiry of the Department’s powers[^c-d75c2a16a995cf3711831d3460994f9a]
 
 A power conferred by any of the following provisions of this Act ceases to be exercisable concurrently by the Department at the end of the relevant period (and accordingly the related provision in paragraph 1(1) ceases to have effect)—
 
@@ -1384,18 +1384,18 @@ A power conferred by any of the following provisions of this Act ceases to be ex
 - (g) section 22;
 - (h) section 27.
 
-### 6. Expiry of the Secretary of State’s powers in respect of Northern Ireland[^key-6d06b47486fdea4582a7f5d810895dbb]
+### 6. Expiry of the Secretary of State’s powers in respect of Northern Ireland[^c-6d06b47486fdea4582a7f5d810895dbb]
 
 A power conferred by any of the following provisions of this Act ceases to be exercisable by the Secretary of State at the end of the relevant period—
 
 - (a) section 5;
 - (b) section 11.
 
-### 7. Meaning of “relevant period”[^key-422e44356b99e37055eb8cabcdce2f51]
+### 7. Meaning of “relevant period”[^c-422e44356b99e37055eb8cabcdce2f51]
 
-(1) In this Schedule “**relevant period**” means —[^key-257eeefa058a91171bb6fa1e9b5bf8b6]
+(1) In this Schedule “**relevant period**” means —[^c-257eeefa058a91171bb6fa1e9b5bf8b6]
 
-- (a) for the purposes of paragraph 5, the first period of 6 years[^key-1a9b452c34f1d91e7ffbc24b1ec576c5] to end after this Act is passed during the whole of which both the First Minister and deputy First Minister in Northern Ireland have held office, and
+- (a) for the purposes of paragraph 5, the first period of 6 years[^c-1a9b452c34f1d91e7ffbc24b1ec576c5] to end after this Act is passed during the whole of which both the First Minister and deputy First Minister in Northern Ireland have held office, and
 - (b) for the purposes of paragraph 6, the first period of 6 months to end after this Act is passed during the whole of which both of those Ministers have held office.
 
 (2) That includes any such period which began before the day on which this Act is passed.
@@ -1404,7 +1404,7 @@ A power conferred by any of the following provisions of this Act ceases to be ex
 
 (4) Regulations under sub-paragraph (3) are subject to the affirmative procedure.
 
-### 8. Continuity of the Department’s powers[^key-c25bf1e9f18e55aeda2082b3f3077cdf]
+### 8. Continuity of the Department’s powers[^c-c25bf1e9f18e55aeda2082b3f3077cdf]
 
 A power exercisable concurrently by the Department by virtue of paragraph 1(1) continues to be so exercisable even if that power has ceased to be exercisable by the Secretary of State.
 
@@ -1412,7 +1412,7 @@ A power exercisable concurrently by the Department by virtue of paragraph 1(1) c
 
 Section 25
 
-### 1. Domestic electricity price reduction schemes for Great Britain[^key-6220b4f3a966c1826b26e4b8101c2765]
+### 1. Domestic electricity price reduction schemes for Great Britain[^c-6220b4f3a966c1826b26e4b8101c2765]
 
 (1) This paragraph applies to a domestic electricity price reduction scheme for Great Britain if that scheme, or any other such scheme, has been designated.
 
@@ -1422,7 +1422,7 @@ Section 25
 
 (4) In this paragraph “**designated**” means designated under section 2.
 
-### 2. Domestic gas price reduction schemes for Great Britain[^key-ea3f4e3b8d324b1f8d00f45840a4861c]
+### 2. Domestic gas price reduction schemes for Great Britain[^c-ea3f4e3b8d324b1f8d00f45840a4861c]
 
 (1) This paragraph applies to a domestic gas price reduction scheme for Great Britain if that scheme, or any other such scheme, has been designated.
 
@@ -1432,7 +1432,7 @@ Section 25
 
 (4) In this paragraph “**designated**” means designated under section 3.
 
-### 3. Domestic electricity price reduction schemes for Northern Ireland[^key-ddfef6f8190e33ad2b2a7de828aef5b7]
+### 3. Domestic electricity price reduction schemes for Northern Ireland[^c-ddfef6f8190e33ad2b2a7de828aef5b7]
 
 (1) This paragraph applies to a domestic electricity price reduction scheme for Northern Ireland if that scheme, or any other such scheme, has been designated.
 
@@ -1445,7 +1445,7 @@ Section 25
 - “**designated**” means designated under section 6;
 - “**operative date**”, in relation to a designated scheme, means the first day on which domestic electricity supply takes place at a charge reduced in accordance with the scheme.
 
-### 4. Domestic gas price reduction schemes for Northern Ireland[^key-9a805d2d4c80e0960e0b5603056a5961]
+### 4. Domestic gas price reduction schemes for Northern Ireland[^c-9a805d2d4c80e0960e0b5603056a5961]
 
 (1) This paragraph applies to a domestic gas price reduction scheme for Northern Ireland if that scheme, or any other such scheme, has been designated.
 
@@ -1458,7 +1458,7 @@ Section 25
 - “**designated**” means designated under section 7;
 - “**operative date**”, in relation to a designated scheme, means the first day on which domestic gas supply takes place at a charge reduced in accordance with the scheme.
 
-### 5. Reduced energy charges for non-domestic customers in Great Britain[^key-5c090ba9d786ed4378bae5d334dc6bf4]
+### 5. Reduced energy charges for non-domestic customers in Great Britain[^c-5c090ba9d786ed4378bae5d334dc6bf4]
 
 (1) Regulations under section 9(1) may not provide for the reduction of charges for electricity supply if that supply takes place after the end of the period of two years beginning with the operative date of the first regulations made under section 9(1).
 
@@ -1482,7 +1482,7 @@ Section 25
 - “**reduction of charges for electricity supply**” means reducing the amounts that would otherwise be charged for GB non-domestic electricity supply by licensed electricity suppliers;
 - “**reduction of charges for gas supply**” means reducing the amounts that would otherwise be charged for GB non-domestic gas supply by licensed gas suppliers.
 
-### 6. Reduced energy charges for non-domestic customers in Northern Ireland[^key-e9e8aa9261713b0c0dd56c708f2251aa]
+### 6. Reduced energy charges for non-domestic customers in Northern Ireland[^c-e9e8aa9261713b0c0dd56c708f2251aa]
 
 (1) Regulations under section 11(1) may not provide for the reduction of charges for electricity supply if that supply takes place after the end of the period of two years beginning with the operative date of the first regulations made under section 11(1).
 
@@ -1506,15 +1506,15 @@ Section 25
 - “**reduction of charges for electricity supply**” means reducing the amounts that would otherwise be charged for NI non-domestic electricity supply by licensed electricity suppliers;
 - “**reduction of charges for gas supply**” means reducing the amounts that would otherwise be charged for NI non-domestic gas supply by licensed gas suppliers.
 
-### 7. Power of the Secretary of State to give support for meeting energy costs etc[^key-10893fd45d1a045d66d8846ee8d60ce4]
+### 7. Power of the Secretary of State to give support for meeting energy costs etc[^c-10893fd45d1a045d66d8846ee8d60ce4]
 
-(1)[^key-4e1452c9a322f25eeadc5f029d8994b1][^key-d0cc3ea835feb17910c74645deec0e30] The powers conferred by section 13 cease to be exercisable at the end of the period of three years and six months beginning with the day on which this Act is passed.
+(1)[^c-4e1452c9a322f25eeadc5f029d8994b1][^c-d0cc3ea835feb17910c74645deec0e30] The powers conferred by section 13 cease to be exercisable at the end of the period of three years and six months beginning with the day on which this Act is passed.
 
 (2) That period may be extended in accordance with paragraph 9.
 
 (3) Sub-paragraph (1) does not prevent the powers conferred by section 13 from being exercised in a manner that could have an effect (including through the creation of rights, privileges, obligations or liabilities) which continues after the period when the power is exercisable.
 
-### 8. Temporary requirement for electricity generators to make payments[^key-3714638c817805fa6b69879320a85514]
+### 8. Temporary requirement for electricity generators to make payments[^c-3714638c817805fa6b69879320a85514]
 
 (1) Regulations under section 16 may not require an electricity generator to make a periodic payment in respect of a period that expires after the end of the period of 5 years beginning with the day on which this Act is passed.
 
@@ -1522,7 +1522,7 @@ Section 25
 
 (3) Regulations under this paragraph are subject to the affirmative procedure.
 
-### 9. Extension of certain periods[^key-13a9c51c9f7c6c4af3bcdb06db33d91e]
+### 9. Extension of certain periods[^c-13a9c51c9f7c6c4af3bcdb06db33d91e]
 
 (1) The Secretary of State may by regulations provide that any of the relevant time periods—
 
@@ -1544,25 +1544,25 @@ Section 27
 
 ### PART 1 — Acts of Parliament
 
-#### 1. Gas Act 1986[^key-c5776bb1f89edbfe0527d7770c1d4863]
+#### 1. Gas Act 1986[^c-c5776bb1f89edbfe0527d7770c1d4863]
 
 In Schedule 4B to the Gas Act 1986 (provisions imposing obligations that are enforceable as relevant requirements), in paragraph 4 (obligations of gas suppliers and gas shippers), after paragraph (e) insert—
 
 > - (f) section 3(2), (3) or (4) of the Energy Prices Act 2022, except section 3(2)(c) or (4)(b) insofar as non-compliance with the terms of the designated scheme involves the amounts payable by or to the Secretary of State under the scheme;
 > - (g) section 22 of the Energy Prices Act 2022.
 
-#### 2. Electricity Act 1989[^key-6d82e544a0b9429e8be769b36349e2f9]
+#### 2. Electricity Act 1989[^c-6d82e544a0b9429e8be769b36349e2f9]
 
 In Schedule 6A to the Electricity Act 1989 (provisions imposing obligations that are enforceable as relevant requirements), in paragraph 6 (obligations of supply licence holders), after paragraph (f) insert—
 
 > - (g) section 2(2) of the Energy Prices Act 2022, except section 2(2)(c) insofar as non-compliance with the terms of the designated scheme involves the amounts payable by or to the Secretary of State under the scheme;
 > - (h) section 22 of the Energy Prices Act 2022.
 
-#### 3. Utilities Act 2000[^key-b5074ed2376eec81cc5d489d054c7b69]
+#### 3. Utilities Act 2000[^c-b5074ed2376eec81cc5d489d054c7b69]
 
 The Utilities Act 2000 is amended as follows.
 
-**4.**[^key-22056d0867b8731c08a01853f5d36b25] In section 33(1) (standard conditions of electricity licences)—
+**4.**[^c-22056d0867b8731c08a01853f5d36b25] In section 33(1) (standard conditions of electricity licences)—
 
 - (a) in paragraph (i), omit the second “or”;
 - (b) in paragraph (j), after “2022” insert
@@ -1573,9 +1573,9 @@ The Utilities Act 2000 is amended as follows.
 
   .
 
-**5.**[^key-19600352dbaf6f0dfd824523f1690f46] In section 81(2) (standard conditions of gas licences), after “Smart Meters Act 2018” insert “or under or by virtue of section 21 of the Energy Prices Act 2022”.
+**5.**[^c-19600352dbaf6f0dfd824523f1690f46] In section 81(2) (standard conditions of gas licences), after “Smart Meters Act 2018” insert “or under or by virtue of section 21 of the Energy Prices Act 2022”.
 
-**6.**[^key-630b9480365a02689bfe54fb9bb18068] In section 105 (general restrictions on disclosure of information)—
+**6.**[^c-630b9480365a02689bfe54fb9bb18068] In section 105 (general restrictions on disclosure of information)—
 
 - (a) in subsection (1), after “2022” insert “or a relevant scheme or regulations made under section 9(1) or (2) or section 16 of the Energy Prices Act 2022”;
 - (b) in subsection (3), after paragraph (ab) insert—
@@ -1603,11 +1603,11 @@ The Utilities Act 2000 is amended as follows.
 
 ### PART 2 — Northern Ireland legislation
 
-#### 7. Energy (Northern Ireland) Order 2003[^key-54eb32af183eaa287c9da33fa9a575f5]
+#### 7. Energy (Northern Ireland) Order 2003[^c-54eb32af183eaa287c9da33fa9a575f5]
 
 The Energy (Northern Ireland) Order 2003 ([S.I. 2003/419 (N.I. 6)](https://www.legislation.gov.uk/nisi/2003/419)) is amended as follows.
 
-**8.**[^key-2437a860b450295ecd9e742312cc4ba9] In Article 12 (the principal objective and general duties of the Department and the Authority in relation to electricity), in paragraph (7), in the definition of “electricity functions”—
+**8.**[^c-2437a860b450295ecd9e742312cc4ba9] In Article 12 (the principal objective and general duties of the Department and the Authority in relation to electricity), in paragraph (7), in the definition of “electricity functions”—
 
 - (a) for “means functions” substitute
 
@@ -1629,7 +1629,7 @@ The Energy (Northern Ireland) Order 2003 ([S.I. 2003/419 (N.I. 6)](https://www.l
 
   .
 
-**9.**[^key-1bf95a3b4d93c4802e89872828d68989] In Article 14 (the principal objective and general duties of the Department and the Authority in relation to gas), in paragraph (6), in the definition of “gas functions”—
+**9.**[^c-1bf95a3b4d93c4802e89872828d68989] In Article 14 (the principal objective and general duties of the Department and the Authority in relation to gas), in paragraph (6), in the definition of “gas functions”—
 
 - (a) in paragraph (a), omit “and”;
 - (b) in paragraph (b), after “gas” insert
@@ -1645,7 +1645,7 @@ The Energy (Northern Ireland) Order 2003 ([S.I. 2003/419 (N.I. 6)](https://www.l
 
   .
 
-**10.**[^key-4d482a4c3d3fd9dc396c017c7f849c80] In Article 41A (meaning of relevant requirement in relation to electricity), in paragraph (4)—
+**10.**[^c-4d482a4c3d3fd9dc396c017c7f849c80] In Article 41A (meaning of relevant requirement in relation to electricity), in paragraph (4)—
 
 - (a) in sub-paragraph (j), omit the third “and”;
 - (b) after paragraph (k) insert—
@@ -1655,7 +1655,7 @@ The Energy (Northern Ireland) Order 2003 ([S.I. 2003/419 (N.I. 6)](https://www.l
 
   .
 
-**11.**[^key-7d976207d984159d905ae5a2e9234eca] In Article 41B (meaning of relevant requirement in relation to gas), in paragraph (3)—
+**11.**[^c-7d976207d984159d905ae5a2e9234eca] In Article 41B (meaning of relevant requirement in relation to gas), in paragraph (3)—
 
 - (a) in sub-paragraph (i), omit the third “and”;
 - (b) after paragraph (j) insert—
@@ -1665,7 +1665,7 @@ The Energy (Northern Ireland) Order 2003 ([S.I. 2003/419 (N.I. 6)](https://www.l
 
   .
 
-**12.**[^key-d319319a8bdebb2ca2723fdc838b112e] In Article 63 (general restrictions on disclosure of information)—
+**12.**[^c-d319319a8bdebb2ca2723fdc838b112e] In Article 63 (general restrictions on disclosure of information)—
 
 - (a) in paragraph (1)(a)—
   - (i) for “or Part II” substitute “, Part II”;
@@ -1692,18 +1692,18 @@ The Energy (Northern Ireland) Order 2003 ([S.I. 2003/419 (N.I. 6)](https://www.l
   >
   > established under section 5 of the Energy Prices Act 2022.
 
-#### 13. The Electricity (Single Wholesale Market) (Northern Ireland) Order 2007[^key-81f688dbf1714f04627a5cb153fdd648]
+#### 13. The Electricity (Single Wholesale Market) (Northern Ireland) Order 2007[^c-81f688dbf1714f04627a5cb153fdd648]
 
 The Electricity (Single Wholesale Market) (Northern Ireland) Order 2007 ([S.I. 2007/913 (N.I. 7)](https://www.legislation.gov.uk/nisi/2007/913)) is amended as follows.
 
-**14.**[^key-17819072d8f1a35bb0654745c703b27d] In Article 6 (the Single Electricity Market Committee), in paragraph (4), after sub-paragraph (d) insert—
+**14.**[^c-17819072d8f1a35bb0654745c703b27d] In Article 6 (the Single Electricity Market Committee), in paragraph (4), after sub-paragraph (d) insert—
 
 > - (e) the function of giving directions under section 6(3) of the Energy Prices Act 2022;
 > - (f) a function under regulations made under section 11(1) of the Energy Prices Act 2022;
 
 .
 
-**15.**[^key-f6152fb4be9c63f8bf76212ddf2ce710] In Article 9 (principal objective and duties of Department, the Authority and SEM Committee in relation to SEM), in paragraph (8), in the definition of “electricity functions”, after paragraph (d) insert—
+**15.**[^c-f6152fb4be9c63f8bf76212ddf2ce710] In Article 9 (principal objective and duties of Department, the Authority and SEM Committee in relation to SEM), in paragraph (8), in the definition of “electricity functions”, after paragraph (d) insert—
 
 > - (a) functions under sections 5 and 6 of the Energy Prices Act 2022 (but only the functions under section 5 relating to electricity);
 > - (b) functions under regulations made under section 11(1) of the Energy Prices Act 2022;
@@ -1712,196 +1712,196 @@ The Electricity (Single Wholesale Market) (Northern Ireland) Order 2007 ([S.I. 2
 
 ## Annotations
 
-[^key-015bd8a4e6cb505ff3cf6caa076672b7]: Commencement: S. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-015bd8a4e6cb505ff3cf6caa076672b7]: Commencement: S. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-52d9468344404c5bab069dc453dffa2f]: Commencement: S. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-52d9468344404c5bab069dc453dffa2f]: Commencement: S. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-03d0a4bea7d8d3bcc988a90ee9d2a1fe]: Commencement: S. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-03d0a4bea7d8d3bcc988a90ee9d2a1fe]: Commencement: S. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-c79e2ed2ad64a1a4c90d0f861514c7a6]: Commencement: S. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-c79e2ed2ad64a1a4c90d0f861514c7a6]: Commencement: S. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-e58bb6cfbd7e4cf7c113e1856e8790d1]: Commencement: S. 5 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-e58bb6cfbd7e4cf7c113e1856e8790d1]: Commencement: S. 5 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-b4d0ad996ba01bbd2ceae74eb67b6799]: Commencement: S. 6 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-b4d0ad996ba01bbd2ceae74eb67b6799]: Commencement: S. 6 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-7cb164e7ab153e9517d0a1f0d25b87bc]: Commencement: S. 7 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-7cb164e7ab153e9517d0a1f0d25b87bc]: Commencement: S. 7 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-c501c69a87f566734c3bdda2a278a3bd]: Commencement: S. 8 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-c501c69a87f566734c3bdda2a278a3bd]: Commencement: S. 8 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-b233a5d8d540da47db2e5592e9bb7fb4]: Commencement: S. 9 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-b233a5d8d540da47db2e5592e9bb7fb4]: Commencement: S. 9 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-49fd41f5d35984642e3234c1e7d8bd2b]: Commencement: S. 10 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-49fd41f5d35984642e3234c1e7d8bd2b]: Commencement: S. 10 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-6ce040c595003f97ee2a3f41f407e661]: Commencement: S. 11 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-6ce040c595003f97ee2a3f41f407e661]: Commencement: S. 11 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-600ad680438b54dcbe15f921d3d13084]: Commencement: S. 12 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-600ad680438b54dcbe15f921d3d13084]: Commencement: S. 12 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-2acdee7f6115297c90bcd7a39d6fc9f7]: Commencement: S. 13 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-2acdee7f6115297c90bcd7a39d6fc9f7]: Commencement: S. 13 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-e7128c51d18e0cca5b35476f7a2ab5fa]: Commencement: S. 14 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-e7128c51d18e0cca5b35476f7a2ab5fa]: Commencement: S. 14 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-fb13a930082e4f7b5cbdae2a471b0299]: Commencement: S. 15 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-fb13a930082e4f7b5cbdae2a471b0299]: Commencement: S. 15 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-459583d2209476b7008e06cfff3b90c9]: Commencement: S. 16 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-459583d2209476b7008e06cfff3b90c9]: Commencement: S. 16 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-6ab1176e293922f0b332d03879b7604b]: Commencement: S. 17 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-6ab1176e293922f0b332d03879b7604b]: Commencement: S. 17 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-26af3e27c5e03b60a76b122f2d3e60d9]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/44/section/18) in force at 25.12.2022, see [s. 30(5)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/5)
+[^c-26af3e27c5e03b60a76b122f2d3e60d9]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/44/section/18) in force at 25.12.2022, see [s. 30(5)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/5)
 
-[^key-dab7d3cbaffb70af270e4bfb0d0f46f5]: Commencement: S. 19 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-dab7d3cbaffb70af270e4bfb0d0f46f5]: Commencement: S. 19 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-f45acb91dcf831ffb0e93e5a69da35c3]: Commencement: S. 20 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-f45acb91dcf831ffb0e93e5a69da35c3]: Commencement: S. 20 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-9f1d9370a1c2a8a01614ad88f157e12b]: Commencement: S. 21 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-9f1d9370a1c2a8a01614ad88f157e12b]: Commencement: S. 21 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-01f5899c823afaf61967c5f9d7ecaffd]: Commencement: S. 22 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-01f5899c823afaf61967c5f9d7ecaffd]: Commencement: S. 22 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-008c748d1c0629912b020cfa94c788af]: Commencement: S. 23 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-008c748d1c0629912b020cfa94c788af]: Commencement: S. 23 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-7018e0cfa45b82f5adca9179cdfe9d7d]: Commencement: S. 24 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-7018e0cfa45b82f5adca9179cdfe9d7d]: Commencement: S. 24 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-cc9be610307464e6ffe82c3f4457137f]: Commencement: S. 25 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-cc9be610307464e6ffe82c3f4457137f]: Commencement: S. 25 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-077833f1b3e29edb69b4a44dd3e89262]: Commencement: S. 26 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-077833f1b3e29edb69b4a44dd3e89262]: Commencement: S. 26 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-5f0f7cfb56cba73e848fcee9b917d6e3]: Commencement: S. 27 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-5f0f7cfb56cba73e848fcee9b917d6e3]: Commencement: S. 27 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-c83f23e409dc66f8e29ad5fa37ee5ad8]: Commencement: S. 28 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-c83f23e409dc66f8e29ad5fa37ee5ad8]: Commencement: S. 28 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-788f984bd4290fc3abfaaa6655ff6cb9]: Commencement: S. 29 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-788f984bd4290fc3abfaaa6655ff6cb9]: Commencement: S. 29 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-d9b42f5f6c737e1a45959b977f2ebc1c]: Commencement: S. 30 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-d9b42f5f6c737e1a45959b977f2ebc1c]: Commencement: S. 30 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-d780ad15d084258b930063878cfcd6d0]: Commencement: Sch. 1 para. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-d780ad15d084258b930063878cfcd6d0]: Commencement: Sch. 1 para. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-81f2b04cc2866a6caf4a1758c77e77ab]: Commencement: Sch. 1 para. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-81f2b04cc2866a6caf4a1758c77e77ab]: Commencement: Sch. 1 para. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-097018e725b4b9c4e224556a9d90a739]: Commencement: Sch. 1 para. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-097018e725b4b9c4e224556a9d90a739]: Commencement: Sch. 1 para. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-3322b7547c8f3de3425d25c4f629c448]: Commencement: Sch. 1 para. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-3322b7547c8f3de3425d25c4f629c448]: Commencement: Sch. 1 para. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-5bcb3abb6efc2b76ddc3e678fd7a1f43]: Commencement: Sch. 1 para. 5 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-5bcb3abb6efc2b76ddc3e678fd7a1f43]: Commencement: Sch. 1 para. 5 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-276023d35e885b85d3a3b5d17198e5fb]: Commencement: Sch. 1 para. 6 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-276023d35e885b85d3a3b5d17198e5fb]: Commencement: Sch. 1 para. 6 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-e10a26d8d5cd7bee1b851ba137140771]: Commencement: Sch. 1 para. 7 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-e10a26d8d5cd7bee1b851ba137140771]: Commencement: Sch. 1 para. 7 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-ecf75bedac2fdfd67e98a8be9c4b958d]: Commencement: Sch. 1 para. 8 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-ecf75bedac2fdfd67e98a8be9c4b958d]: Commencement: Sch. 1 para. 8 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-c75257bf06be0f5c916299c40c64069b]: Commencement: Sch. 1 para. 9 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-c75257bf06be0f5c916299c40c64069b]: Commencement: Sch. 1 para. 9 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-2b53acad6469398682c6f18ad93ddb73]: Commencement: Sch. 2 para. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-2b53acad6469398682c6f18ad93ddb73]: Commencement: Sch. 2 para. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-62f180b3b79b881464ed84fab4fc0fc2]: Commencement: Sch. 2 para. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-62f180b3b79b881464ed84fab4fc0fc2]: Commencement: Sch. 2 para. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-f197fa03fe2195057f1a05549aa27c84]: Commencement: Sch. 2 para. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-f197fa03fe2195057f1a05549aa27c84]: Commencement: Sch. 2 para. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-f1518a55fc21642aafbce9075638f51a]: Commencement: Sch. 2 para. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-f1518a55fc21642aafbce9075638f51a]: Commencement: Sch. 2 para. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-36a60bd76c83c7a0843a2f0387348005]: Commencement: Sch. 2 para. 5 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-36a60bd76c83c7a0843a2f0387348005]: Commencement: Sch. 2 para. 5 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-599f9df7f6bc5ec1f24dbddcf4a17077]: Commencement: Sch. 2 para. 6 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-599f9df7f6bc5ec1f24dbddcf4a17077]: Commencement: Sch. 2 para. 6 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-a22e9475918688c0f2330de5d92e8aa4]: Commencement: Sch. 2 para. 7 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-a22e9475918688c0f2330de5d92e8aa4]: Commencement: Sch. 2 para. 7 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-431c86be366f49a3cef275105b6b70aa]: Commencement: Sch. 2 para. 8 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-431c86be366f49a3cef275105b6b70aa]: Commencement: Sch. 2 para. 8 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-e5f0f87b9e501d7fcf8299b42350e2fd]: Commencement: Sch. 2 para. 9 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-e5f0f87b9e501d7fcf8299b42350e2fd]: Commencement: Sch. 2 para. 9 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-13e59782a6d7fc267ebc8afa16fb55b3]: Commencement: Sch. 3 para. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-13e59782a6d7fc267ebc8afa16fb55b3]: Commencement: Sch. 3 para. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-ae8ae9af3cc6006353c1c46397cec60c]: Commencement: Sch. 3 para. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-ae8ae9af3cc6006353c1c46397cec60c]: Commencement: Sch. 3 para. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-cb6daa999638d2d721b44d26f9cc02cd]: Commencement: Sch. 3 para. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-cb6daa999638d2d721b44d26f9cc02cd]: Commencement: Sch. 3 para. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-aa78f4e1a7641b5a0b418bafd60818bd]: Commencement: Sch. 3 para. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-aa78f4e1a7641b5a0b418bafd60818bd]: Commencement: Sch. 3 para. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-45f6e71963e407f5c5009594ff683c26]: Commencement: Sch. 3 para. 5 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-45f6e71963e407f5c5009594ff683c26]: Commencement: Sch. 3 para. 5 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-d9b9fb92fb3e83fe9d7da99961314800]: Commencement: Sch. 3 para. 6 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-d9b9fb92fb3e83fe9d7da99961314800]: Commencement: Sch. 3 para. 6 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-edbe5607524b2cecc2da149ecc9a0438]: Commencement: Sch. 3 para. 7 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-edbe5607524b2cecc2da149ecc9a0438]: Commencement: Sch. 3 para. 7 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-f8da481e8e18b8ef1be117d538e0155c]: Commencement: Sch. 3 para. 8 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-f8da481e8e18b8ef1be117d538e0155c]: Commencement: Sch. 3 para. 8 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-67dbe40b34976dd8e496e83bc94e17d1]: Commencement: Sch. 3 para. 9 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-67dbe40b34976dd8e496e83bc94e17d1]: Commencement: Sch. 3 para. 9 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-826fc28194793040261ae4f128a5475f]: Commencement: Sch. 4 para. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-826fc28194793040261ae4f128a5475f]: Commencement: Sch. 4 para. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-bc53d6e8425464a70273ef612f7474e7]: Commencement: Sch. 4 para. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-bc53d6e8425464a70273ef612f7474e7]: Commencement: Sch. 4 para. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-c7059619e37b608317ef3f7e50d1aae5]: Commencement: Sch. 4 para. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-c7059619e37b608317ef3f7e50d1aae5]: Commencement: Sch. 4 para. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-3d1af6904253cf4a514a1790232e1f45]: Commencement: Sch. 4 para. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-3d1af6904253cf4a514a1790232e1f45]: Commencement: Sch. 4 para. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-49799016ac3bb2beb21804109060ccec]: Commencement: Sch. 5 para. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-49799016ac3bb2beb21804109060ccec]: Commencement: Sch. 5 para. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-59c87e3606d3dfe98f8c4e00459b23f6]: Commencement: Sch. 5 para. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-59c87e3606d3dfe98f8c4e00459b23f6]: Commencement: Sch. 5 para. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-6350b618368772bbafc883415a7903da]: Commencement: Sch. 5 para. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-6350b618368772bbafc883415a7903da]: Commencement: Sch. 5 para. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-f1a854588fa84edb21b134a09bb4fbc4]: Commencement: Sch. 5 para. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-f1a854588fa84edb21b134a09bb4fbc4]: Commencement: Sch. 5 para. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-d75c2a16a995cf3711831d3460994f9a]: Commencement: Sch. 5 para. 5 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-d75c2a16a995cf3711831d3460994f9a]: Commencement: Sch. 5 para. 5 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-6d06b47486fdea4582a7f5d810895dbb]: Commencement: Sch. 5 para. 6 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-6d06b47486fdea4582a7f5d810895dbb]: Commencement: Sch. 5 para. 6 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-422e44356b99e37055eb8cabcdce2f51]: Commencement: Sch. 5 para. 7 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-422e44356b99e37055eb8cabcdce2f51]: Commencement: Sch. 5 para. 7 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-257eeefa058a91171bb6fa1e9b5bf8b6]: Textual amendment: Sch. 5 para. 7(1)(a)(b) substituted (13.3.2025) for words by [The Energy Bill Relief Scheme and Energy Bills Discount Scheme (Amendment) Regulations 2025 (S.I. 2025/204)](https://www.legislation.gov.uk/uksi/2025/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/204/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2025/204/regulation/10)
+[^c-257eeefa058a91171bb6fa1e9b5bf8b6]: Textual amendment: Sch. 5 para. 7(1)(a)(b) substituted (13.3.2025) for words by [The Energy Bill Relief Scheme and Energy Bills Discount Scheme (Amendment) Regulations 2025 (S.I. 2025/204)](https://www.legislation.gov.uk/uksi/2025/204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/204/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2025/204/regulation/10)
 
-[^key-1a9b452c34f1d91e7ffbc24b1ec576c5]: Textual amendment: Words in [Sch. 5 para. 7(1)(a)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/5/paragraph/7/1/a) substituted (20.6.2026) by [The Energy Prices Act 2022 (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/675)](https://www.legislation.gov.uk/uksi/2026/675), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/675/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2026/675/regulation/2)
+[^c-1a9b452c34f1d91e7ffbc24b1ec576c5]: Textual amendment: Words in [Sch. 5 para. 7(1)(a)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/5/paragraph/7/1/a) substituted (20.6.2026) by [The Energy Prices Act 2022 (Amendment) (Northern Ireland) Regulations 2026 (S.I. 2026/675)](https://www.legislation.gov.uk/uksi/2026/675), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/675/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2026/675/regulation/2)
 
-[^key-c25bf1e9f18e55aeda2082b3f3077cdf]: Commencement: Sch. 5 para. 8 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-c25bf1e9f18e55aeda2082b3f3077cdf]: Commencement: Sch. 5 para. 8 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-6220b4f3a966c1826b26e4b8101c2765]: Commencement: Sch. 6 para. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-6220b4f3a966c1826b26e4b8101c2765]: Commencement: Sch. 6 para. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-ea3f4e3b8d324b1f8d00f45840a4861c]: Commencement: Sch. 6 para. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-ea3f4e3b8d324b1f8d00f45840a4861c]: Commencement: Sch. 6 para. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-ddfef6f8190e33ad2b2a7de828aef5b7]: Commencement: Sch. 6 para. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-ddfef6f8190e33ad2b2a7de828aef5b7]: Commencement: Sch. 6 para. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-9a805d2d4c80e0960e0b5603056a5961]: Commencement: Sch. 6 para. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-9a805d2d4c80e0960e0b5603056a5961]: Commencement: Sch. 6 para. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-5c090ba9d786ed4378bae5d334dc6bf4]: Commencement: Sch. 6 para. 5 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-5c090ba9d786ed4378bae5d334dc6bf4]: Commencement: Sch. 6 para. 5 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-e9e8aa9261713b0c0dd56c708f2251aa]: Commencement: Sch. 6 para. 6 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-e9e8aa9261713b0c0dd56c708f2251aa]: Commencement: Sch. 6 para. 6 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-10893fd45d1a045d66d8846ee8d60ce4]: Commencement: Sch. 6 para. 7 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-10893fd45d1a045d66d8846ee8d60ce4]: Commencement: Sch. 6 para. 7 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-4e1452c9a322f25eeadc5f029d8994b1]: Modification: Sch. 6 para. 7(1): period extended until 25.10.2026 by virtue of The Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026 (S.I. 2026/452), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/452/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2026/452/regulation/2)
+[^c-4e1452c9a322f25eeadc5f029d8994b1]: Modification: Sch. 6 para. 7(1): period extended until 25.10.2026 by virtue of The Energy Prices Act 2022 (Extension of Time Limit) Regulations 2026 (S.I. 2026/452), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/452/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2026/452/regulation/2)
 
-[^key-d0cc3ea835feb17910c74645deec0e30]: Modification: Sch. 6 para. 7(1): period extended until 25.4.2027 by virtue of The Energy Prices Act 2022 (Extension of Time Limit) (No. 2) Regulations 2026 (S.I. 2026/979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2026/979/regulation/2)
+[^c-d0cc3ea835feb17910c74645deec0e30]: Modification: Sch. 6 para. 7(1): period extended until 25.4.2027 by virtue of The Energy Prices Act 2022 (Extension of Time Limit) (No. 2) Regulations 2026 (S.I. 2026/979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2026/979/regulation/2)
 
-[^key-3714638c817805fa6b69879320a85514]: Commencement: Sch. 6 para. 8 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-3714638c817805fa6b69879320a85514]: Commencement: Sch. 6 para. 8 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-13a9c51c9f7c6c4af3bcdb06db33d91e]: Commencement: Sch. 6 para. 9 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-13a9c51c9f7c6c4af3bcdb06db33d91e]: Commencement: Sch. 6 para. 9 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-c5776bb1f89edbfe0527d7770c1d4863]: Commencement: Sch. 7 para. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-c5776bb1f89edbfe0527d7770c1d4863]: Commencement: Sch. 7 para. 1 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-6d82e544a0b9429e8be769b36349e2f9]: Commencement: Sch. 7 para. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-6d82e544a0b9429e8be769b36349e2f9]: Commencement: Sch. 7 para. 2 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-b5074ed2376eec81cc5d489d054c7b69]: Commencement: Sch. 7 para. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-b5074ed2376eec81cc5d489d054c7b69]: Commencement: Sch. 7 para. 3 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-22056d0867b8731c08a01853f5d36b25]: Commencement: Sch. 7 para. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-22056d0867b8731c08a01853f5d36b25]: Commencement: Sch. 7 para. 4 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-19600352dbaf6f0dfd824523f1690f46]: Commencement: Sch. 7 para. 5 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-19600352dbaf6f0dfd824523f1690f46]: Commencement: Sch. 7 para. 5 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-630b9480365a02689bfe54fb9bb18068]: Commencement: Sch. 7 para. 6 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-630b9480365a02689bfe54fb9bb18068]: Commencement: Sch. 7 para. 6 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-54eb32af183eaa287c9da33fa9a575f5]: Commencement: Sch. 7 para. 7 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-54eb32af183eaa287c9da33fa9a575f5]: Commencement: Sch. 7 para. 7 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-2437a860b450295ecd9e742312cc4ba9]: Commencement: Sch. 7 para. 8 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-2437a860b450295ecd9e742312cc4ba9]: Commencement: Sch. 7 para. 8 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-1bf95a3b4d93c4802e89872828d68989]: Commencement: Sch. 7 para. 9 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-1bf95a3b4d93c4802e89872828d68989]: Commencement: Sch. 7 para. 9 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-4d482a4c3d3fd9dc396c017c7f849c80]: Commencement: Sch. 7 para. 10 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-4d482a4c3d3fd9dc396c017c7f849c80]: Commencement: Sch. 7 para. 10 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-7d976207d984159d905ae5a2e9234eca]: Commencement: Sch. 7 para. 11 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-7d976207d984159d905ae5a2e9234eca]: Commencement: Sch. 7 para. 11 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-d319319a8bdebb2ca2723fdc838b112e]: Commencement: Sch. 7 para. 12 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-d319319a8bdebb2ca2723fdc838b112e]: Commencement: Sch. 7 para. 12 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-81f688dbf1714f04627a5cb153fdd648]: Commencement: Sch. 7 para. 13 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-81f688dbf1714f04627a5cb153fdd648]: Commencement: Sch. 7 para. 13 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-17819072d8f1a35bb0654745c703b27d]: Commencement: Sch. 7 para. 14 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-17819072d8f1a35bb0654745c703b27d]: Commencement: Sch. 7 para. 14 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
 
-[^key-f6152fb4be9c63f8bf76212ddf2ce710]: Commencement: Sch. 7 para. 15 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)
+[^c-f6152fb4be9c63f8bf76212ddf2ce710]: Commencement: Sch. 7 para. 15 in force at Royal Assent, see [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39A. Offence: hearing aid dispensers[^key-a7e91e0d4ed57ac58bd95345bfb2e45d]
+## 39A. Offence: hearing aid dispensers[^c-a7e91e0d4ed57ac58bd95345bfb2e45d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7e91e0d4ed57ac58bd95345bfb2e45d]: Textual amendment: [Art. 39A](https://www.legislation.gov.uk/uksi/2002/254/article/39A) inserted (1.4.2010) by [The Health Professions (Hearing Aid Dispensers) Order 2010 (S.I. 2010/233)](https://www.legislation.gov.uk/uksi/2010/233), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2010/233/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2010/233/article/7/3) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2010/233/article/4))
+[^c-a7e91e0d4ed57ac58bd95345bfb2e45d]: Textual amendment: [Art. 39A](https://www.legislation.gov.uk/uksi/2002/254/article/39A) inserted (1.4.2010) by [The Health Professions (Hearing Aid Dispensers) Order 2010 (S.I. 2010/233)](https://www.legislation.gov.uk/uksi/2010/233), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2010/233/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2010/233/article/7/3) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2010/233/article/4))

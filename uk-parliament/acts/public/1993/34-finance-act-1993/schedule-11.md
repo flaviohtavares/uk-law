@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — OVERSEAS LIFE INSURANCE COMPANIES: AMENDMENT OF TAXATION OF CHARGEABLE GAINS ACT 1992[^key-cb72f414b4f4ff9915cab1d0e0d619b1]
+## SCHEDULE 11 — OVERSEAS LIFE INSURANCE COMPANIES: AMENDMENT OF TAXATION OF CHARGEABLE GAINS ACT 1992[^c-cb72f414b4f4ff9915cab1d0e0d619b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ summary: ''
 
 Section 102.
 
-[^key-cb72f414b4f4ff9915cab1d0e0d619b1]. . . . . . . . . . . .
+[^c-cb72f414b4f4ff9915cab1d0e0d619b1]. . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cb72f414b4f4ff9915cab1d0e0d619b1]: Textual amendment: Sch. 11 repealed (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)
+[^c-cb72f414b4f4ff9915cab1d0e0d619b1]: Textual amendment: Sch. 11 repealed (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)

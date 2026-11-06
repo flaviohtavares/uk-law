@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Town and Country Planning (General Development Procedure) (Amendment) (England) Order 2008 (revoked)[^key-8bb96504bed527a85cf5320c6c088592]
+The Town and Country Planning (General Development Procedure) (Amendment) (England) Order 2008 (revoked)[^c-8bb96504bed527a85cf5320c6c088592]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 6th April 2008
 
-[^key-8bb96504bed527a85cf5320c6c088592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8bb96504bed527a85cf5320c6c088592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-8bb96504bed527a85cf5320c6c088592]
+## 1. Citation, commencement, interpretation and application[^c-8bb96504bed527a85cf5320c6c088592]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Town and Country Planning (General Development Procedure) Order 1995[^key-8bb96504bed527a85cf5320c6c088592]
+## 2. Amendment of the Town and Country Planning (General Development Procedure) Order 1995[^c-8bb96504bed527a85cf5320c6c088592]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provisions[^key-8bb96504bed527a85cf5320c6c088592]
+## 3. Transitional provisions[^c-8bb96504bed527a85cf5320c6c088592]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8bb96504bed527a85cf5320c6c088592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8bb96504bed527a85cf5320c6c088592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8bb96504bed527a85cf5320c6c088592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8bb96504bed527a85cf5320c6c088592]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8bb96504bed527a85cf5320c6c088592]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/550) revoked (1.10.2010) by [The Town and Country Planning (Development Management Procedure) (England) Order 2010 (revoked) 2010 (S.I. 2010/2184)](https://www.legislation.gov.uk/uksi/2010/2184), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2184/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2010/2184/schedule/9) (with [art. 41(2)](https://www.legislation.gov.uk/uksi/2010/2184/article/41/2)[(3)](https://www.legislation.gov.uk/uksi/2010/2184/article/41/3))
+[^c-8bb96504bed527a85cf5320c6c088592]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2008/550) revoked (1.10.2010) by [The Town and Country Planning (Development Management Procedure) (England) Order 2010 (revoked) 2010 (S.I. 2010/2184)](https://www.legislation.gov.uk/uksi/2010/2184), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2184/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2010/2184/schedule/9) (with [art. 41(2)](https://www.legislation.gov.uk/uksi/2010/2184/article/41/2)[(3)](https://www.legislation.gov.uk/uksi/2010/2184/article/41/3))

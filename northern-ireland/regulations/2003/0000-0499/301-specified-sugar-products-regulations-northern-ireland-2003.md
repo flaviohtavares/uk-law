@@ -43,11 +43,11 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 15(1)(e), 16(1), 25(1) and (3), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00002] and of all other powers enabling it in that behalf, having had regard in accordance with Article 47(3A) of the said Order to relevant advice given by the Food Standards Agency and after consultation both as required by Article 9 of Regulation (EC) No.178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] and in accordance with Article 47(3) and (3B) of the said Order, hereby makes the following Regulations: –
 
-## 1. Citation and commencement[^key-d93475c536256e234ae9f8ec6d5696da]
+## 1. Citation and commencement[^c-d93475c536256e234ae9f8ec6d5696da]
 
 These Regulations may be cited as the Specified Sugar Products Regulations (Northern Ireland) 2003 and shall come into operation on 21st July 2003.
 
-## 2. Interpretation[^key-bcfecb05024d82c62d0dbc8ba16a11a8]
+## 2. Interpretation[^c-bcfecb05024d82c62d0dbc8ba16a11a8]
 
 In these Regulations –
 
@@ -68,11 +68,11 @@ In these Regulations –
   - (b) for the purposes of a catering establishment, or
   - (c) for the purposes of a manufacturing business.
 
-## 3. Scope of Regulations[^key-221929c63aca32c524548979e3f39a06]
+## 3. Scope of Regulations[^c-221929c63aca32c524548979e3f39a06]
 
 These Regulations apply to specified sugar products, intended for human consumption and ready for delivery to the ultimate consumer or to a catering establishment.
 
-## 4. Reserved descriptions[^key-e40782f3126c39a6da4301838857b509]
+## 4. Reserved descriptions[^c-e40782f3126c39a6da4301838857b509]
 
 No person shall sell any food with a label, whether or not attached to or printed on the wrapper or container, which bears, comprises or includes any reserved description or any derivative thereof or any word or description substantially similar thereto unless –
 
@@ -81,31 +81,31 @@ No person shall sell any food with a label, whether or not attached to or printe
 - (c) such description, derivative or word is used in such a context as to indicate explicitly or by clear implication that such food is not and does not contain a specified sugar product; or
 - (d) such description, derivative or word is used in a customary name for another food product and is not liable to mislead the consumer.
 
-## 5. Labelling and description of designated products[^key-1cd3dde67dd97c7f36fcbd322bbc2280]
+## 5. Labelling and description of designated products[^c-1cd3dde67dd97c7f36fcbd322bbc2280]
 
 (1) Without prejudice to the generality of Part II of the 1996 Regulations, no person shall sell any specified sugar product unless it is marked or labelled with the following particulars –
 
 - (a) the reserved description of the product; and
 - (b) in the case of sugar solution, invert sugar solution and invert sugar syrup, the dry matter and invert sugar content of the product.
 
-## 6. Manner of marking or labelling[^key-b5a66be22faff84a0ed8e65a5f3711a6]
+## 6. Manner of marking or labelling[^c-b5a66be22faff84a0ed8e65a5f3711a6]
 
 Regulations 35, 36(1) and (5) and 38 of the 1996 Regulations (which relate to the manner of marking or labelling of food) shall apply to the particulars with which a specified sugar product is required to be marked or labelled by regulation 5 as if they were particulars with which food is required to be marked or labelled by the 1996 Regulations.
 
-## 7. Penalties and enforcement[^key-0d9a48bfdac026738206bc8f0aea231f]
+## 7. Penalties and enforcement[^c-0d9a48bfdac026738206bc8f0aea231f]
 
 (1) Any person who contravenes regulation 4 or 5 shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 (2) Each district council shall enforce and execute these Regulations within its district.
 
-## 8. Defence in relation to exports[^key-9002c2789aa09d63c39deb049bc943b5]
+## 8. Defence in relation to exports[^c-9002c2789aa09d63c39deb049bc943b5]
 
 In any proceedings for an offence under these Regulations it shall be a defence for the accused to prove –
 
 - (a) that the food in respect of which the offence is alleged to have been committed was intended for export to a country which has legislation analogous to these Regulations and that the food complies with that legislation; and
 - (b) in the case of export to an EEA State, that the legislation complies with the provisions of Council Directive [2001/111/EC](https://www.legislation.gov.uk/european/directive/2001/0111) of the European Parliament and the Council relating to certain sugars intended for human consumption[^f00007].
 
-## 9. Application of various provisions of the Order[^key-b556909d6486d1121b54c7dbd77d7230]
+## 9. Application of various provisions of the Order[^c-b556909d6486d1121b54c7dbd77d7230]
 
 The following provisions of the Order shall apply for the purposes of these Regulations and any reference in those provisions to the Order shall be construed for the purposes of these regulations as a reference to these Regulations –
 
@@ -118,7 +118,7 @@ The following provisions of the Order shall apply for the purposes of these Regu
 - (g) Article 34 (obstruction, etc., of officers);
 - (h) Article 36 (punishment of offences) in so far as it relates to offences under Article 34(1) and (2) as applied by paragraph (g).
 
-## 10. Revocations and consequential amendments[^key-3ebb3fa17727cf8eda59181ccc7573c2]
+## 10. Revocations and consequential amendments[^c-3ebb3fa17727cf8eda59181ccc7573c2]
 
 (1) The Specified Sugar Products Regulations (Northern Ireland) 1976 and the Specified Sugar Products (Amendment) Regulations (Northern Ireland) 1982[^f00008] are hereby revoked.
 
@@ -149,7 +149,7 @@ The following provisions of the Order shall apply for the purposes of these Regu
 - (a) in regulation 10, paragraph (3) shall be omitted;
 - (b) in Schedule 2, in Part B (sulphur dioxide and sulphites), in column 1 of the second table, for the reference to “Directive [73/437/EEC](https://www.legislation.gov.uk/european/directive/1973/0437)” there is substituted a reference to “Directive [2001/111/EC](https://www.legislation.gov.uk/european/directive/2001/0111)”.
 
-## 11. Transitional provision[^key-f0ed1f1b8c3b4b07c70e12ed30a36b0b]
+## 11. Transitional provision[^c-f0ed1f1b8c3b4b07c70e12ed30a36b0b]
 
 In any proceedings for an offence under these Regulations it shall be a defence for the person charged to prove that –
 
@@ -164,7 +164,7 @@ A Senior Officer of the
 
 Department of Health, Social Services and Public Safety
 
-## SCHEDULE 1 — SPECIFIED SUGAR PRODUCTS AND THEIR RESERVED DESCRIPTIONS[^key-d2769c7e9075f6f2bbf42424f1fe2a7b]
+## SCHEDULE 1 — SPECIFIED SUGAR PRODUCTS AND THEIR RESERVED DESCRIPTIONS[^c-d2769c7e9075f6f2bbf42424f1fe2a7b]
 
 Regulation 2
 
@@ -197,29 +197,29 @@ Regulation 2
 
 Regulation 2
 
-**1.**[^key-4cc0ab31b1294a7232e457828309d840] The method for determining the loss on drying of semi-white sugar, sugar or white sugar and extra-white sugar is Method 1.
+**1.**[^c-4cc0ab31b1294a7232e457828309d840] The method for determining the loss on drying of semi-white sugar, sugar or white sugar and extra-white sugar is Method 1.
 
-**2.**[^key-b20f648aecd818f43e6c0a9ce3132aeb] The method of determining the colour type of sugar or white sugar and extra-white sugar is the method of the Brunswick Institute for Agricultural and Sugar Industry Technology set out in Chapter A paragraph 2 of the Annex to the Commission Regulations [(EEC) No. 1265/69](https://www.legislation.gov.uk/european/regulation/1969/1265) of 1st July 1969[^f00021]. For the purpose of determining the number of points, one point corresponds to 0.5 units.
+**2.**[^c-b20f648aecd818f43e6c0a9ce3132aeb] The method of determining the colour type of sugar or white sugar and extra-white sugar is the method of the Brunswick Institute for Agricultural and Sugar Industry Technology set out in Chapter A paragraph 2 of the Annex to the Commission Regulations [(EEC) No. 1265/69](https://www.legislation.gov.uk/european/regulation/1969/1265) of 1st July 1969[^f00021]. For the purpose of determining the number of points, one point corresponds to 0.5 units.
 
-**3.**[^key-31f2818a72aaa4f5647c7ff77b83e731] The method of determining the ash content of extra-white sugar, sugar solution, invert sugar solution, invert sugar syrup and fructose is the method of ICUMSA as set out in Chapter A, paragraph 1, of the Annex to Regulation [(EEC) No. 1265/69](https://www.legislation.gov.uk/european/regulation/1969/1265). For the purpose of determining the number of points, one point corresponds to 0.0018% of ash.
+**3.**[^c-31f2818a72aaa4f5647c7ff77b83e731] The method of determining the ash content of extra-white sugar, sugar solution, invert sugar solution, invert sugar syrup and fructose is the method of ICUMSA as set out in Chapter A, paragraph 1, of the Annex to Regulation [(EEC) No. 1265/69](https://www.legislation.gov.uk/european/regulation/1969/1265). For the purpose of determining the number of points, one point corresponds to 0.0018% of ash.
 
-**4.**[^key-d92ae8847beb82dace8d7c5cf4a026e7] The method of determining the colour in solution of extra-white sugar and sugar solution is the method of ICUMSA set out in Chapter A, paragraph 3 of the Annex to Regulation [(EEC) No. 1265/69](https://www.legislation.gov.uk/european/regulation/1969/1265). For the purpose of determining the number of points for the purposes of paragraph 3 of Schedule 1, one point corresponds to 7.5 units.
+**4.**[^c-d92ae8847beb82dace8d7c5cf4a026e7] The method of determining the colour in solution of extra-white sugar and sugar solution is the method of ICUMSA set out in Chapter A, paragraph 3 of the Annex to Regulation [(EEC) No. 1265/69](https://www.legislation.gov.uk/european/regulation/1969/1265). For the purpose of determining the number of points for the purposes of paragraph 3 of Schedule 1, one point corresponds to 7.5 units.
 
-**5.**[^key-2303181bedf4cfc23ad7e6729e94f93d] The method for determining the dry matter content of glucose syrup, dried glucose syrup, dextrose or dextro monohydrate and dextrose or dextrose anhydrous is Method 2.
+**5.**[^c-2303181bedf4cfc23ad7e6729e94f93d] The method for determining the dry matter content of glucose syrup, dried glucose syrup, dextrose or dextro monohydrate and dextrose or dextrose anhydrous is Method 2.
 
-**6.**[^key-ce7fc20b32b3ee6c91cd18e4ed7b1788] The method for determining the dry matter content of sugar solution, invert sugar solution and invert sugar syrup is Method 3.
+**6.**[^c-ce7fc20b32b3ee6c91cd18e4ed7b1788] The method for determining the dry matter content of sugar solution, invert sugar solution and invert sugar syrup is Method 3.
 
-**7.**[^key-5bd6a946b999222f93378a239e75f5c9] The method for determining the invert sugar content of semi-white sugar is Method 4.
+**7.**[^c-5bd6a946b999222f93378a239e75f5c9] The method for determining the invert sugar content of semi-white sugar is Method 4.
 
-**8.**[^key-bc0ecc829bd4b26596cee04ecd6746cc] The method for determining the invert sugar content of sugar or white sugar and extra-white sugar is Method 5.
+**8.**[^c-bc0ecc829bd4b26596cee04ecd6746cc] The method for determining the invert sugar content of sugar or white sugar and extra-white sugar is Method 5.
 
-**9.**[^key-e740c85d470790cceaf11bbbd7ff67b2] The method for determining the invert sugar content of sugar solution, invert sugar solution and invert sugar syrup is Method 7.
+**9.**[^c-e740c85d470790cceaf11bbbd7ff67b2] The method for determining the invert sugar content of sugar solution, invert sugar solution and invert sugar syrup is Method 7.
 
-**10.**[^key-f72cf0379d2f5757cec9270633e28001] The method for determining the sulphated ash content of glucose syrup, dried glucose syrup, dextrose or dextrose monohydrate and dextrose or dextrose anhydrous is Method 9.
+**10.**[^c-f72cf0379d2f5757cec9270633e28001] The method for determining the sulphated ash content of glucose syrup, dried glucose syrup, dextrose or dextrose monohydrate and dextrose or dextrose anhydrous is Method 9.
 
-**11.**[^key-8ba56d61473e543bed829dc47291c65e] The method for determining the polarisation of semi-white sugar, sugar or white sugar and extra-white sugar is Method 10.
+**11.**[^c-8ba56d61473e543bed829dc47291c65e] The method for determining the polarisation of semi-white sugar, sugar or white sugar and extra-white sugar is Method 10.
 
-**12.**[^key-90a266a4d8b32b0b72c740eb5a34e406] For the purposes of this Schedule –
+**12.**[^c-90a266a4d8b32b0b72c740eb5a34e406] For the purposes of this Schedule –
 
 - (a) references to Methods 1, 2, 3, 4, 5, 7, 9 and 10 are references to the Methods specified by the same numbers in Annex II to Commission Directive [79/796/EEC](https://www.legislation.gov.uk/european/directive/1979/0796)[^f00022] laying down Community methods of analysis for testing certain sugars intended for human consumption, as read with the introduction to that Annex;
 - (b) “ICUMSA” means the International Commission for Uniform Methods of Sugar Analysis.
@@ -247,9 +247,9 @@ The Regulations –
 
 [^f00003]: Footnote: O.J. No. L31, 1.2.2002, p. 1
 
-[^key-d93475c536256e234ae9f8ec6d5696da]: Commencement: Reg. 1 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-d93475c536256e234ae9f8ec6d5696da]: Commencement: Reg. 1 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-bcfecb05024d82c62d0dbc8ba16a11a8]: Commencement: Reg. 2 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-bcfecb05024d82c62d0dbc8ba16a11a8]: Commencement: Reg. 2 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1996 No. 383](https://www.legislation.gov.uk/nisr/1996/383); the relevant amending Regulations are [S.R. 1998 No. 253](https://www.legislation.gov.uk/nisr/1998/253),
 
@@ -257,23 +257,23 @@ The Regulations –
 
 [^f00006]: Footnote: O.J. No. L1, 3.1.94, p. 571
 
-[^key-221929c63aca32c524548979e3f39a06]: Commencement: Reg. 3 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-221929c63aca32c524548979e3f39a06]: Commencement: Reg. 3 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-e40782f3126c39a6da4301838857b509]: Commencement: Reg. 4 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-e40782f3126c39a6da4301838857b509]: Commencement: Reg. 4 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-1cd3dde67dd97c7f36fcbd322bbc2280]: Commencement: Reg. 5 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-1cd3dde67dd97c7f36fcbd322bbc2280]: Commencement: Reg. 5 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-b5a66be22faff84a0ed8e65a5f3711a6]: Commencement: Reg. 6 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-b5a66be22faff84a0ed8e65a5f3711a6]: Commencement: Reg. 6 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-0d9a48bfdac026738206bc8f0aea231f]: Commencement: Reg. 7 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-0d9a48bfdac026738206bc8f0aea231f]: Commencement: Reg. 7 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-9002c2789aa09d63c39deb049bc943b5]: Commencement: Reg. 8 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-9002c2789aa09d63c39deb049bc943b5]: Commencement: Reg. 8 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
 [^f00007]: Footnote: O.J. No. L10, 12.1.2002, p. 53. As to the incorporation of Council Directive [2001/111/EC](https://www.legislation.gov.uk/european/directive/2001/0111) into the Agreement on the European Economic Area see O.J. No. L298, 31.10.02, p. 10
 
-[^key-b556909d6486d1121b54c7dbd77d7230]: Commencement: Reg. 9 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-b556909d6486d1121b54c7dbd77d7230]: Commencement: Reg. 9 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-3ebb3fa17727cf8eda59181ccc7573c2]: Commencement: Reg. 10 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-3ebb3fa17727cf8eda59181ccc7573c2]: Commencement: Reg. 10 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
 [^f00008]: Footnote: [S.R.1982 No. 311](https://www.legislation.gov.uk/nisr/1982/311)
 
@@ -295,9 +295,9 @@ The Regulations –
 
 [^f00017]: Footnote: [S.R. 1996 No. 49](https://www.legislation.gov.uk/nisr/1996/49)
 
-[^key-f0ed1f1b8c3b4b07c70e12ed30a36b0b]: Commencement: Reg. 11 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-f0ed1f1b8c3b4b07c70e12ed30a36b0b]: Commencement: Reg. 11 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-d2769c7e9075f6f2bbf42424f1fe2a7b]: Commencement: Sch. 1 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-d2769c7e9075f6f2bbf42424f1fe2a7b]: Commencement: Sch. 1 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
 [^f00018]: Footnote: O.J. No. L163, 1.7.1969, p. 1
 
@@ -305,30 +305,30 @@ The Regulations –
 
 [^f00020]: Footnote: O.J. No. L40, 11.2.1989, p. 27
 
-[^key-4cc0ab31b1294a7232e457828309d840]: Commencement: Sch. 2 para. 1 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-4cc0ab31b1294a7232e457828309d840]: Commencement: Sch. 2 para. 1 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-b20f648aecd818f43e6c0a9ce3132aeb]: Commencement: Sch. 2 para. 2 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-b20f648aecd818f43e6c0a9ce3132aeb]: Commencement: Sch. 2 para. 2 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
 [^f00021]: Footnote: O.J. No. L163, 1.7.1969, p..1
 
-[^key-31f2818a72aaa4f5647c7ff77b83e731]: Commencement: Sch. 2 para. 3 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-31f2818a72aaa4f5647c7ff77b83e731]: Commencement: Sch. 2 para. 3 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-d92ae8847beb82dace8d7c5cf4a026e7]: Commencement: Sch. 2 para. 4 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-d92ae8847beb82dace8d7c5cf4a026e7]: Commencement: Sch. 2 para. 4 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-2303181bedf4cfc23ad7e6729e94f93d]: Commencement: Sch. 2 para. 5 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-2303181bedf4cfc23ad7e6729e94f93d]: Commencement: Sch. 2 para. 5 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-ce7fc20b32b3ee6c91cd18e4ed7b1788]: Commencement: Sch. 2 para. 6 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-ce7fc20b32b3ee6c91cd18e4ed7b1788]: Commencement: Sch. 2 para. 6 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-5bd6a946b999222f93378a239e75f5c9]: Commencement: Sch. 2 para. 7 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-5bd6a946b999222f93378a239e75f5c9]: Commencement: Sch. 2 para. 7 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-bc0ecc829bd4b26596cee04ecd6746cc]: Commencement: Sch. 2 para. 8 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-bc0ecc829bd4b26596cee04ecd6746cc]: Commencement: Sch. 2 para. 8 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-e740c85d470790cceaf11bbbd7ff67b2]: Commencement: Sch. 2 para. 9 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-e740c85d470790cceaf11bbbd7ff67b2]: Commencement: Sch. 2 para. 9 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-f72cf0379d2f5757cec9270633e28001]: Commencement: Sch. 2 para. 10 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-f72cf0379d2f5757cec9270633e28001]: Commencement: Sch. 2 para. 10 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-8ba56d61473e543bed829dc47291c65e]: Commencement: Sch. 2 para. 11 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-8ba56d61473e543bed829dc47291c65e]: Commencement: Sch. 2 para. 11 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
-[^key-90a266a4d8b32b0b72c740eb5a34e406]: Commencement: Sch. 2 para. 12 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
+[^c-90a266a4d8b32b0b72c740eb5a34e406]: Commencement: Sch. 2 para. 12 in operation at 21.7.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/301/regulation/1)
 
 [^f00022]: Footnote: O.J. No. L239, 22.9.79, p..24

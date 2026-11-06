@@ -25,14 +25,14 @@ summary: ''
 - (a) to supply, consume or keep for supply or consumption intoxicating liquor on the premises of a club;
 - (b) to bring intoxicating liquor on the premises of a club for the purposes of the consumption of the liquor;
 
-unless the club is registered in respect of those premises or unless the supply or consumption is authorised in accordance with Article 15A[^key-7c7fa5383774fd101fd70449f71c9506] .
+unless the club is registered in respect of those premises or unless the supply or consumption is authorised in accordance with Article 15A[^c-7c7fa5383774fd101fd70449f71c9506] .
 
 (2) If intoxicating liquor is supplied, consumed, kept for supply or consumption or brought for the purposes of the consumption on—
 
 - (a) the premises of a club which has served a notice of application under paragraph 1(1)(a) of Schedule 2 for the grant of registration under this Order; or
 - (b) any premises used by a club which has ceased to be a registered club by reason of—
   - (i) the expiration of the registration within the preceding 3 years; or
-  - (ia)[^key-2f345c2e4f82df70618abee93c5a6625] the suspension of the registration; or
+  - (ia)[^c-2f345c2e4f82df70618abee93c5a6625] the suspension of the registration; or
   - (ii) the cancellation of the registration; or
 - (c) any premises in respect of which a disqualification order under this Article or under Article 15 or 46 or under Article 13 or 38 of the [^m00006] Registration of Clubs (Northern Ireland) Order 1987 is in force;
 
@@ -56,9 +56,9 @@ every person who supplies, obtains, consumes, keeps for supply or consumption or
 
 ## Annotations
 
-[^key-7c7fa5383774fd101fd70449f71c9506]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1996/3159/article/3/1) inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 28(3)](https://www.legislation.gov.uk/nia/2021/7/section/28/3), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-7c7fa5383774fd101fd70449f71c9506]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1996/3159/article/3/1) inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 28(3)](https://www.legislation.gov.uk/nia/2021/7/section/28/3), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
 
-[^key-2f345c2e4f82df70618abee93c5a6625]: Textual amendment: Art. 3(2)(b)(ia) inserted (1.5.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [s. 18](https://www.legislation.gov.uk/nia/2011/18/section/18), [Sch. 3 para. 6](https://www.legislation.gov.uk/nia/2011/18/schedule/3/paragraph/6); [S.R. 2012/48](https://www.legislation.gov.uk/nisr/2012/48), [art. 2](https://www.legislation.gov.uk/nisr/2012/48/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/48/schedule)
+[^c-2f345c2e4f82df70618abee93c5a6625]: Textual amendment: Art. 3(2)(b)(ia) inserted (1.5.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [s. 18](https://www.legislation.gov.uk/nia/2011/18/section/18), [Sch. 3 para. 6](https://www.legislation.gov.uk/nia/2011/18/schedule/3/paragraph/6); [S.R. 2012/48](https://www.legislation.gov.uk/nisr/2012/48), [art. 2](https://www.legislation.gov.uk/nisr/2012/48/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/48/schedule)
 
 [^m00006]: Marginal citation: 1987 NI 14
 

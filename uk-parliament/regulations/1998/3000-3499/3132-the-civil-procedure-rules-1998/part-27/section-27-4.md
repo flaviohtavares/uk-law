@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.4. Preparation for the hearing[^key-8671b1689ac186ae662354aecb44564f]
+## 27.4. Preparation for the hearing[^c-8671b1689ac186ae662354aecb44564f]
 
 *Extent: E+W*
 
@@ -37,11 +37,11 @@ summary: ''
 
 - (a) “**standard directions**” means—
   - (i) a direction that each party shall, at least 14 days before the date fixed for the final hearing, file and serve on every other party copies of all documents (including any expert’s report) on which he intends to rely at the hearing; and
-  - (ii) any other standard directions set out in Practice Direction 27A[^key-a3978b630dc82f883affe75967f35a82]; and
+  - (ii) any other standard directions set out in Practice Direction 27A[^c-a3978b630dc82f883affe75967f35a82]; and
 - (b) “**special directions**” means directions given in addition to or instead of the standard directions.
 
 ## Annotations
 
-[^key-8671b1689ac186ae662354aecb44564f]: Commencement: [Rule 27.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-8671b1689ac186ae662354aecb44564f]: Commencement: [Rule 27.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-a3978b630dc82f883affe75967f35a82]: Textual amendment: Words in [rule 27.4(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.4/3/a/ii) substituted (31.5.2021) by [The Civil Procedure (Amendment No. 3) Rules 2021 (S.I. 2021/553)](https://www.legislation.gov.uk/uksi/2021/553), [rules 2(1)](https://www.legislation.gov.uk/uksi/2021/553/rule/2/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/553/rule/3/2)
+[^c-a3978b630dc82f883affe75967f35a82]: Textual amendment: Words in [rule 27.4(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.4/3/a/ii) substituted (31.5.2021) by [The Civil Procedure (Amendment No. 3) Rules 2021 (S.I. 2021/553)](https://www.legislation.gov.uk/uksi/2021/553), [rules 2(1)](https://www.legislation.gov.uk/uksi/2021/553/rule/2/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/553/rule/3/2)

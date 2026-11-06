@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.225. Procedure following appeal under s.203(4) or 205(4)[^key-c77330c9da98a64e4fd7f8739625438f]
+## 4.225. Procedure following appeal under s.203(4) or 205(4)[^c-c77330c9da98a64e4fd7f8739625438f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c77330c9da98a64e4fd7f8739625438f]: Commencement: [Rule 4.225](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.225) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c77330c9da98a64e4fd7f8739625438f]: Commencement: [Rule 4.225](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.225) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00119]: Marginal citation: \[FORM 4.69\]

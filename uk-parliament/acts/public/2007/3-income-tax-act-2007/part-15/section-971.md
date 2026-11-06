@@ -25,11 +25,11 @@ summary: ''
 - (a) the collection, from non-resident landlord representatives of a prescribed description, of prescribed amounts of income tax in respect of non-resident landlord income, and
 - (b) the assessment and recovery of the income tax on or from such persons.
 
-(2) “**Non-resident landlord income**” means income of a person whose usual place of abode is outside the United Kingdom (“the non-resident”) and which is or may become chargeable as the profits of a[^key-e7f8ed6936775d5aa7b51d1911fb9575] UK property business under Chapter 3 of Part 3 of ITTOIA 2005 or Chapter 3 of Part 4 of CTA 2009.
+(2) “**Non-resident landlord income**” means income of a person whose usual place of abode is outside the United Kingdom (“the non-resident”) and which is or may become chargeable as the profits of a[^c-e7f8ed6936775d5aa7b51d1911fb9575] UK property business under Chapter 3 of Part 3 of ITTOIA 2005 or Chapter 3 of Part 4 of CTA 2009.
 
 (3) “**Non-resident landlord representative**” means—
 
-- (a) a person by whom any sums are payable to the non-resident which are to be treated as receipts of a UK[^key-d885c34201787cf82ad68c28b2146d69] property business (within the meaning of Chapter 2 of Part 3 of ITTOIA 2005 or Chapter 2 of Part 4 of CTA 2009) carried on by the non-resident, or
+- (a) a person by whom any sums are payable to the non-resident which are to be treated as receipts of a UK[^c-d885c34201787cf82ad68c28b2146d69] property business (within the meaning of Chapter 2 of Part 3 of ITTOIA 2005 or Chapter 2 of Part 4 of CTA 2009) carried on by the non-resident, or
 - (b) a person who acts on behalf of the non-resident in connection with the management or administration of any such business.
 
 (4) A non-resident landlord representative who must pay prescribed amounts of income tax to the Commissioners for Her Majesty's Revenue and Customs under regulations under this section is entitled—
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e7f8ed6936775d5aa7b51d1911fb9575]: Textual amendment: Words in s. 971(2) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 716(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/716/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-e7f8ed6936775d5aa7b51d1911fb9575]: Textual amendment: Words in s. 971(2) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 716(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/716/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-d885c34201787cf82ad68c28b2146d69]: Textual amendment: Words in s. 971(3)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 716(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/716/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-d885c34201787cf82ad68c28b2146d69]: Textual amendment: Words in s. 971(3)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 716(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/716/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

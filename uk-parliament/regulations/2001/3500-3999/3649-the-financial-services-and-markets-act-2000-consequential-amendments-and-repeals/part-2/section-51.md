@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Limitations on exemptions for small and medium-sized companies in relation to accounts etc.[^key-6a8e94b60279232896f3b98078bb1741]
+## 51. Limitations on exemptions for small and medium-sized companies in relation to accounts etc.[^c-6a8e94b60279232896f3b98078bb1741]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6a8e94b60279232896f3b98078bb1741]: Commencement: Art. 51 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-6a8e94b60279232896f3b98078bb1741]: Commencement: Art. 51 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00056]: Footnote: Article 255A was inserted by [SR (N.I.) 1997/436](https://www.legislation.gov.uk/nisr/1997/436).

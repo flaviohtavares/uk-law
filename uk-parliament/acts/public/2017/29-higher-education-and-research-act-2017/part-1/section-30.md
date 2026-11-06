@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Duration of a plan[^key-597722a40a77868ff9bb2471bf5da6ed][^key-077d9ff4eed158785de63d7e548b1fc0]
+## 30. Duration of a plan[^c-597722a40a77868ff9bb2471bf5da6ed][^c-077d9ff4eed158785de63d7e548b1fc0]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-597722a40a77868ff9bb2471bf5da6ed]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/29/section/30) in force at 1.1.2018 for specified purposes by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/4)
+[^c-597722a40a77868ff9bb2471bf5da6ed]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/29/section/30) in force at 1.1.2018 for specified purposes by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/4)
 
-[^key-077d9ff4eed158785de63d7e548b1fc0]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/29/section/30) in force at 1.4.2018 in so far as not already in force by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/d)
+[^c-077d9ff4eed158785de63d7e548b1fc0]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/29/section/30) in force at 1.4.2018 in so far as not already in force by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/d)

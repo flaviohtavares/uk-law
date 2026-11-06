@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1ZA. Expiry of certain provisions in these Regulations[^key-f822cf94e242d3d05b61ce1bf6d0046a]
+## 1ZA. Expiry of certain provisions in these Regulations[^c-f822cf94e242d3d05b61ce1bf6d0046a]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f822cf94e242d3d05b61ce1bf6d0046a]: Textual amendment: [Reg. 1ZA](https://www.legislation.gov.uk/uksi/2002/618/regulation/1ZA) substituted (30.6.2023) by [The Medical Devices (Amendment) (Great Britain) Regulations 2023 (S.I. 2023/627)](https://www.legislation.gov.uk/uksi/2023/627), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2023/627/regulation/2/1), [4](https://www.legislation.gov.uk/uksi/2023/627/regulation/4)
+[^c-f822cf94e242d3d05b61ce1bf6d0046a]: Textual amendment: [Reg. 1ZA](https://www.legislation.gov.uk/uksi/2002/618/regulation/1ZA) substituted (30.6.2023) by [The Medical Devices (Amendment) (Great Britain) Regulations 2023 (S.I. 2023/627)](https://www.legislation.gov.uk/uksi/2023/627), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2023/627/regulation/2/1), [4](https://www.legislation.gov.uk/uksi/2023/627/regulation/4)

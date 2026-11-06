@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Options and forfeited deposits[^key-202ab51672bc3f4c0979c3ba7e97e985]
+## 65. Options and forfeited deposits[^c-202ab51672bc3f4c0979c3ba7e97e985]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 144(8)(c) (options and forfeited deposits)—
 
 ## Annotations
 
-[^key-202ab51672bc3f4c0979c3ba7e97e985]: Commencement: Art. 65 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-202ab51672bc3f4c0979c3ba7e97e985]: Commencement: Art. 65 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

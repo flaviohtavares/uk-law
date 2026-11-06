@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) The Parliamentary corporation may[^key-b64c5bb8b8402c7af55605abc9d12507] make arrangements for the payment of pensions, allowances or gratuities to, or in respect of, any person who has ceased to be the[^key-77432983ba2d94284bd0518fc556b692] Commissioner.
+(1) The Parliamentary corporation may[^c-b64c5bb8b8402c7af55605abc9d12507] make arrangements for the payment of pensions, allowances or gratuities to, or in respect of, any person who has ceased to be the[^c-77432983ba2d94284bd0518fc556b692] Commissioner.
 
 (2) Those arrangements may include—
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b64c5bb8b8402c7af55605abc9d12507]: Textual amendment: Words in s. 10(1) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/11/a)
+[^c-b64c5bb8b8402c7af55605abc9d12507]: Textual amendment: Words in s. 10(1) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/11/a)
 
-[^key-77432983ba2d94284bd0518fc556b692]: Textual amendment: Word in s. 10(1) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 11(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/11/b)
+[^c-77432983ba2d94284bd0518fc556b692]: Textual amendment: Word in s. 10(1) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 11(b)](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/11/b)

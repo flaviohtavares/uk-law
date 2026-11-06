@@ -24,7 +24,7 @@ summary: ''
 
 (2) References in this Part to a market contract to which a person is a party include (subject as follows, and unless the context otherwise requires) contracts to which he is party as agent.
 
-(2A)[^key-2b728c3bc03efafc711ed324673ddbe0] Subsections (1) and (2) do not apply to market contracts to which this Part applies by virtue of section 155(2B).
+(2A)[^c-2b728c3bc03efafc711ed324673ddbe0] Subsections (1) and (2) do not apply to market contracts to which this Part applies by virtue of section 155(2B).
 
 (3) The Secretary of State may by regulations—
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c13696681]: Commencement: S.187 wholly in force; s. 187(3) in force for certain purposes at 25.3.1991, s. 187 wholly in force at 25.4.1991 see s. 215(2) and [S.I. 1991/488](https://www.legislation.gov.uk/uksi/1991/488), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/488/article/2/2); [S.I. 1991/878](https://www.legislation.gov.uk/uksi/1991/878), [art. 2](https://www.legislation.gov.uk/uksi/1991/878/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/878/schedule)
 
-[^key-2b728c3bc03efafc711ed324673ddbe0]: Textual amendment: S. 187(2A) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [4(16)](https://www.legislation.gov.uk/uksi/2013/504/regulation/4/16) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+[^c-2b728c3bc03efafc711ed324673ddbe0]: Textual amendment: S. 187(2A) inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [4(16)](https://www.legislation.gov.uk/uksi/2013/504/regulation/4/16) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))

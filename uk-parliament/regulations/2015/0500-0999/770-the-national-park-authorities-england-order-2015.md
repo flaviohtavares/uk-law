@@ -176,7 +176,7 @@ Article 2 and 4(1) and (2)
 | Northumberland | 18 | 6 | 12 | 6 |
 | North York Moors | 20 | 11 | 9 | 4 |
 | Peak District | 30 | 16 | 14 | 6 |
-| Yorkshire Dales | 25[^key-581f402cdc03653fd8c076e638aae69d] | 15[^key-081c159790dd34c3287410a20cf9aa19] | 10 | 4 |
+| Yorkshire Dales | 25[^c-581f402cdc03653fd8c076e638aae69d] | 15[^c-081c159790dd34c3287410a20cf9aa19] | 10 | 4 |
 
 ### PART 2 — Appointment of local authority members
 
@@ -224,19 +224,19 @@ Article 2 and 4(1) and (2)
 </tbody>
 </table>
 
-[^key-7d2b70806445ea11dfe90a57c8c422f3][^key-1fb1f34eb6235da923ea12b9c68838ff][^key-44d16821f014f927b09fe43d21d2c4b8][^key-a9f64ea008e8a73d9709ff0d387f1fb2]
+[^c-7d2b70806445ea11dfe90a57c8c422f3][^c-1fb1f34eb6235da923ea12b9c68838ff][^c-44d16821f014f927b09fe43d21d2c4b8][^c-a9f64ea008e8a73d9709ff0d387f1fb2]
 
 ## SCHEDULE 2 — Meetings and proceedings of a National Park authority
 
 Article 8
 
-### 1. Annual and other meetings[^key-5b963111d4316663f4a1b72619d95187]
+### 1. Annual and other meetings[^c-5b963111d4316663f4a1b72619d95187]
 
 (1) A National Park authority (“**the authority**”) must hold an annual meeting every year and the first meeting held after 31st May in any year is to be the annual meeting.
 
 (2) The annual meeting is to be held at such time as the authority may fix or, if no time is fixed, at noon.
 
-**2.**[^key-229b7ec9121154543db25a916585b33f] (1) In addition to the annual meeting, the authority must hold at least three other meetings each year for the transaction of general business.
+**2.**[^c-229b7ec9121154543db25a916585b33f] (1) In addition to the annual meeting, the authority must hold at least three other meetings each year for the transaction of general business.
 
 (2) These other meetings must be held at such time and on such days as the authority may determine but must be as near as may be at regular intervals.
 
@@ -414,21 +414,21 @@ No impact assessment has been produced for this instrument as no impact on the p
 
 [^c22454161]: Marginal citation: [S.I. 2014/571](https://www.legislation.gov.uk/uksi/2014/571).
 
-[^key-581f402cdc03653fd8c076e638aae69d]: Textual amendment: Word in Sch. 1 Pt. 1 substituted (31.7.2016) by [The National Park Authorities (England) (Amendment) Order 2016 (S.I. 2016/703)](https://www.legislation.gov.uk/uksi/2016/703), [arts. 1](https://www.legislation.gov.uk/uksi/2016/703/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/703/article/2/2/a)
+[^c-581f402cdc03653fd8c076e638aae69d]: Textual amendment: Word in Sch. 1 Pt. 1 substituted (31.7.2016) by [The National Park Authorities (England) (Amendment) Order 2016 (S.I. 2016/703)](https://www.legislation.gov.uk/uksi/2016/703), [arts. 1](https://www.legislation.gov.uk/uksi/2016/703/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/703/article/2/2/a)
 
-[^key-081c159790dd34c3287410a20cf9aa19]: Textual amendment: Word in Sch. 1 Pt. 1 substituted (31.7.2016) by [The National Park Authorities (England) (Amendment) Order 2016 (S.I. 2016/703)](https://www.legislation.gov.uk/uksi/2016/703), [arts. 1](https://www.legislation.gov.uk/uksi/2016/703/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/703/article/2/2/b)
+[^c-081c159790dd34c3287410a20cf9aa19]: Textual amendment: Word in Sch. 1 Pt. 1 substituted (31.7.2016) by [The National Park Authorities (England) (Amendment) Order 2016 (S.I. 2016/703)](https://www.legislation.gov.uk/uksi/2016/703), [arts. 1](https://www.legislation.gov.uk/uksi/2016/703/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/703/article/2/2/b)
 
-[^key-7d2b70806445ea11dfe90a57c8c422f3]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2015/770/schedule/1/part/2) substituted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2023/187/article/10/2/a)
+[^c-7d2b70806445ea11dfe90a57c8c422f3]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2015/770/schedule/1/part/2) substituted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2023/187/article/10/2/a)
 
-[^key-1fb1f34eb6235da923ea12b9c68838ff]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2015/770/schedule/1/part/2) substituted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2023/187/article/10/2/b)
+[^c-1fb1f34eb6235da923ea12b9c68838ff]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2015/770/schedule/1/part/2) substituted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2023/187/article/10/2/b)
 
-[^key-44d16821f014f927b09fe43d21d2c4b8]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2015/770/schedule/1/part/2) substituted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2023/187/article/10/2/c)
+[^c-44d16821f014f927b09fe43d21d2c4b8]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2015/770/schedule/1/part/2) substituted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2023/187/article/10/2/c)
 
-[^key-a9f64ea008e8a73d9709ff0d387f1fb2]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2015/770/schedule/1/part/2) substituted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [10(2)(d)](https://www.legislation.gov.uk/uksi/2023/187/article/10/2/d)
+[^c-a9f64ea008e8a73d9709ff0d387f1fb2]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2015/770/schedule/1/part/2) substituted (1.4.2023) by [The Local Government (Structural Changes) (Supplementary Provision and Amendment) Order 2023 (S.I. 2023/187)](https://www.legislation.gov.uk/uksi/2023/187), [arts. 1](https://www.legislation.gov.uk/uksi/2023/187/article/1), [10(2)(d)](https://www.legislation.gov.uk/uksi/2023/187/article/10/2/d)
 
-[^key-5b963111d4316663f4a1b72619d95187]: Modification: Sch. 2 para. 1 disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/392/regulation/8) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-5b963111d4316663f4a1b72619d95187]: Modification: Sch. 2 para. 1 disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/392/regulation/8) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-229b7ec9121154543db25a916585b33f]: Modification: Sch. 2 para. 2 disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/392/regulation/8) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-229b7ec9121154543db25a916585b33f]: Modification: Sch. 2 para. 2 disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/392/regulation/8) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
 [^c22454171]: Marginal citation: See also section 100B(4) of the 1972 Act (consideration of items of business), inserted by section 1(1) of the [Local Government (Access to Information) Act 1985 (c.43)](https://www.legislation.gov.uk/ukpga/1985/43) and applied to National Park authorities by section 100J(1)(cd) of the 1972 Act (inserted by paragraph 12(2)(a) of Schedule 7 to the 1995 Act).
 

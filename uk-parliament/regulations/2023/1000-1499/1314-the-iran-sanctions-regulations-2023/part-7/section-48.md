@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Movement of ships[^key-5fa3e63e0dabee761f2cb970bde1bc78]
+## 48. Movement of ships[^c-5fa3e63e0dabee761f2cb970bde1bc78]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fa3e63e0dabee761f2cb970bde1bc78]: Commencement: Reg. 48 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-5fa3e63e0dabee761f2cb970bde1bc78]: Commencement: Reg. 48 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

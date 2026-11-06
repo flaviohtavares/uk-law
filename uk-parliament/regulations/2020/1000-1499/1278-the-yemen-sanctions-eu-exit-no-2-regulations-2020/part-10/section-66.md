@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Revocations[^key-dcc06ebd066a5abe877a6d8c5aff5937][^key-61c5b1ec7ec33cb165112fb56f316130]
+## 66. Revocations[^c-dcc06ebd066a5abe877a6d8c5aff5937][^c-61c5b1ec7ec33cb165112fb56f316130]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,9 +30,9 @@ summary: ''
 
 ## Annotations
 
-[^key-dcc06ebd066a5abe877a6d8c5aff5937]: Commencement: Reg. 66 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-dcc06ebd066a5abe877a6d8c5aff5937]: Commencement: Reg. 66 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-61c5b1ec7ec33cb165112fb56f316130]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2020/1278/regulation/66) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-61c5b1ec7ec33cb165112fb56f316130]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2020/1278/regulation/66) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
 
 [^c24335031]: Marginal citation: As prospectively amended by [S.I. 2019/380](https://www.legislation.gov.uk/uksi/2019/380).
 

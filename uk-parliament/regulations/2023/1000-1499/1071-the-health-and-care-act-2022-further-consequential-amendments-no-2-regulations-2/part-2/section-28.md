@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Amendment of the Employment and Support Allowance Regulations 2008[^key-08dc2d2688938f1e1f5d4429a5d48e64]
+## 28. Amendment of the Employment and Support Allowance Regulations 2008[^c-08dc2d2688938f1e1f5d4429a5d48e64]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-08dc2d2688938f1e1f5d4429a5d48e64]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2023/1071/regulation/28) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-08dc2d2688938f1e1f5d4429a5d48e64]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2023/1071/regulation/28) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00023]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794), relevant amending instruments are [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235) and [S.I. 2015/643](https://www.legislation.gov.uk/uksi/2015/643).

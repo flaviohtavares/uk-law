@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Power for Scottish Commission for Human Rights to bring or intervene in proceedings[^key-5446f455ff044ab214245315ab13bead]
+## 12. Power for Scottish Commission for Human Rights to bring or intervene in proceedings[^c-5446f455ff044ab214245315ab13bead]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5446f455ff044ab214245315ab13bead]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/1/section/12) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-5446f455ff044ab214245315ab13bead]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/1/section/12) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

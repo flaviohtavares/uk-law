@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Legislative competence[^key-0b3e8674856c23882ea5da263f5258fb]
+## 108. Legislative competence[^c-0b3e8674856c23882ea5da263f5258fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b3e8674856c23882ea5da263f5258fb]: Textual amendment: S. 108A substituted for s.108 (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2017/4/section/3/1), [71(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1179/regulation/2)
+[^c-0b3e8674856c23882ea5da263f5258fb]: Textual amendment: S. 108A substituted for s.108 (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2017/4/section/3/1), [71(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/2), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1179/regulation/2)

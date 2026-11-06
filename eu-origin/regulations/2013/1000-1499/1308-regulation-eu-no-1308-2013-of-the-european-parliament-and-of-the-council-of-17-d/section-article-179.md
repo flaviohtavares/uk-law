@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The Secretary of State may make regulations[^key-12cf5171574eb1768029372342ed3e96]:
+The Secretary of State may make regulations[^c-12cf5171574eb1768029372342ed3e96]:
 
 - ((a)) limiting the quantities for which licences may be issued;
 - ((b)) rejecting the quantities applied for;
 - ((c)) suspending the submission of applications in order to manage the market where large quantities are applied for.
 
-[^key-a37d36293505419861ca3e4d5a9ca938]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a37d36293505419861ca3e4d5a9ca938]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-12cf5171574eb1768029372342ed3e96]: Textual amendment: Words in [Art. 179](https://www.legislation.gov.uk/eur/2013/1308/article/179) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [2(12)(a)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/2/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-12cf5171574eb1768029372342ed3e96]: Textual amendment: Words in [Art. 179](https://www.legislation.gov.uk/eur/2013/1308/article/179) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [2(12)(a)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/2/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a37d36293505419861ca3e4d5a9ca938]: Textual amendment: Words in [Art. 179](https://www.legislation.gov.uk/eur/2013/1308/article/179) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/2/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a37d36293505419861ca3e4d5a9ca938]: Textual amendment: Words in [Art. 179](https://www.legislation.gov.uk/eur/2013/1308/article/179) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1422)](https://www.legislation.gov.uk/uksi/2019/1422), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1422/regulation/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2019/1422/regulation/2/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.2. Notice of intention to rely on hearsay evidence[^key-6ca5d0baba9160658b6a81e21a0244ed]
+## 33.2. Notice of intention to rely on hearsay evidence[^c-6ca5d0baba9160658b6a81e21a0244ed]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ that party complies with section 2(1)(a) of the Civil Evidence Act 1995[^f00039]
 
 ## Annotations
 
-[^key-6ca5d0baba9160658b6a81e21a0244ed]: Commencement: [Rule 33.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.2) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-6ca5d0baba9160658b6a81e21a0244ed]: Commencement: [Rule 33.2](https://www.legislation.gov.uk/uksi/1998/3132/rule/33.2) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
 [^f00039]: Footnote: [1995 c. 38](https://www.legislation.gov.uk/ukpga/1995/38). Section 2 provides that a party proposing to bring hearsay evidence must notify any other party of that fact and, on request, give particulars of or relating to the evidence.

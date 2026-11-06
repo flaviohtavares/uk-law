@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Phased retirement pension ceases to be payable[^key-9598f9beaf2602c5791092391865d50a]
+## 76. Phased retirement pension ceases to be payable[^c-9598f9beaf2602c5791092391865d50a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ If a phased retirement pension ceases to be payable under regulation 94, the pen
 
 ## Annotations
 
-[^key-9598f9beaf2602c5791092391865d50a]: Commencement: [Reg. 76](https://www.legislation.gov.uk/ssi/2014/292/regulation/76) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-9598f9beaf2602c5791092391865d50a]: Commencement: [Reg. 76](https://www.legislation.gov.uk/ssi/2014/292/regulation/76) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

@@ -24,7 +24,7 @@ Section 29
 
 ### PART 1 — Replacement of EU customs duties
 
-**1.**[^c23545391][^key-e70c0af06c0ca065efd452857eb43255][^key-32bae3ea963c5c796d79c02bd300de2d] (1) Any direct EU legislation, so far as imposing or otherwise applying in relation to any EU customs duty, that forms part of the law of the United Kingdom as a result of section 3 of the European Union (Withdrawal) Act 2018 (incorporation of direct EU legislation) ceases to have effect.
+**1.**[^c23545391][^c-e70c0af06c0ca065efd452857eb43255][^c-32bae3ea963c5c796d79c02bd300de2d] (1) Any direct EU legislation, so far as imposing or otherwise applying in relation to any EU customs duty, that forms part of the law of the United Kingdom as a result of section 3 of the European Union (Withdrawal) Act 2018 (incorporation of direct EU legislation) ceases to have effect.
 
 (2) Nothing in—
 
@@ -45,13 +45,13 @@ is to have effect in relation to import duty.
 - (b) the reference to EU trade duty is to anti-dumping duty, countervailing duty, safeguard duty and any duty imposed in consequence of an international dispute, and
 - (c) the reference to Part 1 of this Act does not include section 29 or this Schedule.
 
-**2.**[^c23545401][^key-3a488a785b6c2dd9193cb04ea6c8d7a2] Provision relevant to the law relating to duties of customs and other customs matters is made by the European Union (Withdrawal) Act 2018: see, for example, section 2 of that Act (which, among other things, provides for CEMA 1979 to continue to have effect in the law of the United Kingdom).
+**2.**[^c23545401][^c-3a488a785b6c2dd9193cb04ea6c8d7a2] Provision relevant to the law relating to duties of customs and other customs matters is made by the European Union (Withdrawal) Act 2018: see, for example, section 2 of that Act (which, among other things, provides for CEMA 1979 to continue to have effect in the law of the United Kingdom).
 
 ### PART 2 — Amendments of CEMA 1979
 
-**3.**[^c23454871][^key-5fae14504739ad3249e498a86abbcf16][^key-d978888f4b80d9bfd722a4bb65921f68] CEMA 1979 is amended as follows.
+**3.**[^c23454871][^c-5fae14504739ad3249e498a86abbcf16][^c-d978888f4b80d9bfd722a4bb65921f68] CEMA 1979 is amended as follows.
 
-**4.**[^c23454881][^key-44365c6755fbfa030f124bb78d17b591] (1) Section 1 (interpretation) is amended as follows.
+**4.**[^c23454881][^c-44365c6755fbfa030f124bb78d17b591] (1) Section 1 (interpretation) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -122,7 +122,7 @@ is to have effect in relation to import duty.
 
 (4) Omit subsection (7).
 
-**5.**[^c23454891][^key-007975450025c781404aa826fae7228c] (1) Section 2 (application to hovercraft) is amended as follows.
+**5.**[^c23454891][^c-007975450025c781404aa826fae7228c] (1) Section 2 (application to hovercraft) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -131,7 +131,7 @@ is to have effect in relation to import duty.
 
 (3) In subsection (3), omit “ “transhipment”,”.
 
-**6.**[^c23454901][^key-68ad7f9e9786b2755a334d661d647df5] (1) Section 5 (time of importation, exportation, etc) is amended as follows.
+**6.**[^c23454901][^c-68ad7f9e9786b2755a334d661d647df5] (1) Section 5 (time of importation, exportation, etc) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -162,15 +162,15 @@ is to have effect in relation to import duty.
 
 (7) In subsection (6), for “or brought across the boundary into Northern Ireland” substitute “ or otherwise when they enter the United Kingdom ”.
 
-**7.**[^c23454911][^key-819bfbe24351ed7947408bd7bb5fdf62] Omit section 9 (general duties of Commissioners in relation to customs matters concerning the European Union).
+**7.**[^c23454911][^c-819bfbe24351ed7947408bd7bb5fdf62] Omit section 9 (general duties of Commissioners in relation to customs matters concerning the European Union).
 
-**8.**[^c23454921][^key-3cdf672b7c3486967fab198fde82b026] (1) Section 10 (disclosure by Commissioners of certain information as to imported goods) is amended as follows.
+**8.**[^c23454921][^c-3cdf672b7c3486967fab198fde82b026] (1) Section 10 (disclosure by Commissioners of certain information as to imported goods) is amended as follows.
 
-(2)[^key-ebf53ab5babcbd3e914d8341428b0f91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ebf53ab5babcbd3e914d8341428b0f91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (2), for “making entry of any goods on their importation,” substitute “ notifying the importation of any goods, making a declaration in respect of the temporary storage of goods, or making a Customs declaration in respect of any goods, ”.
 
-**9.**[^c23454931][^key-79004222df126854c9e962a3aacd4793] (1) Section 20 (approval of wharves) is amended as follows.
+**9.**[^c23454931][^c-79004222df126854c9e962a3aacd4793] (1) Section 20 (approval of wharves) is amended as follows.
 
 (2) In subsection (1), omit “and subject to such conditions and restrictions”.
 
@@ -185,7 +185,7 @@ is to have effect in relation to import duty.
 
 (4) Omit subsection (3).
 
-**10.**[^c23454941][^key-6ceaed6aa28e56a9b942558340f9685d] (1) Section 20A (approved wharves) is amended as follows.
+**10.**[^c23454941][^c-6ceaed6aa28e56a9b942558340f9685d] (1) Section 20A (approved wharves) is amended as follows.
 
 (2) Omit subsection (1)(b) (together with the “or” before it).
 
@@ -204,7 +204,7 @@ is to have effect in relation to import duty.
 
 (4) In subsection (2), after “approved wharf” insert “ (other than a condition imposed under regulations under section 20(1A)) ”.
 
-**11.**[^c23455101][^key-426da32bdfe52936c06a235167b2a230] (1) Section 21 (control of movement of aircraft, etc into and out of the United Kingdom) is amended as follows.
+**11.**[^c23455101][^c-426da32bdfe52936c06a235167b2a230] (1) Section 21 (control of movement of aircraft, etc into and out of the United Kingdom) is amended as follows.
 
 (2) Omit subsection (1A).
 
@@ -212,7 +212,7 @@ is to have effect in relation to import duty.
 
 (4) Omit subsection (4A).
 
-**12.**[^c23455111][^key-d04987a12f1d42720f182576e932e677] (1) Section 22 (approval of examination stations at customs and excise airports) is amended as follows.
+**12.**[^c23455111][^c-d04987a12f1d42720f182576e932e677] (1) Section 22 (approval of examination stations at customs and excise airports) is amended as follows.
 
 (2) In subsection (1), omit “and subject to such conditions and restrictions”.
 
@@ -227,7 +227,7 @@ is to have effect in relation to import duty.
 
 (4) Omit subsection (3).
 
-**13.**[^c23455121][^key-1de703d89e01653a7857eb2e2d667fa2] (1) Section 22A (examination stations) is amended as follows.
+**13.**[^c23455121][^c-1de703d89e01653a7857eb2e2d667fa2] (1) Section 22A (examination stations) is amended as follows.
 
 (2) Omit subsection (1)(b) (together with the “or” before it).
 
@@ -246,18 +246,18 @@ is to have effect in relation to import duty.
 
 (4) In subsection (2), after “examination station” insert “ (other than a condition imposed under regulations under section 22(1A)) ”.
 
-**14.**[^c23455131][^key-5da2fa06d25d6dcf0bf59a5a7d18a22d] In section 23 (control of movement of hovercraft), in subsection (2), for “transit shed” substitute “ temporary storage facility ”.
+**14.**[^c23455131][^c-5da2fa06d25d6dcf0bf59a5a7d18a22d] In section 23 (control of movement of hovercraft), in subsection (2), for “transit shed” substitute “ temporary storage facility ”.
 
-**15.**[^c23455141][^key-d5b37ae68e7dc8b39c2d8cce5bd1b596] In section 24 (control of movement of goods by pipe-line), in subsection (2)(a), for “have not been cleared out of charge” substitute “ are subject to the control of any officer of Revenue and Customs as a result of Part 1 of the Taxation (Cross-border Trade) Act 2018 ”.
+**15.**[^c23455141][^c-d5b37ae68e7dc8b39c2d8cce5bd1b596] In section 24 (control of movement of goods by pipe-line), in subsection (2)(a), for “have not been cleared out of charge” substitute “ are subject to the control of any officer of Revenue and Customs as a result of Part 1 of the Taxation (Cross-border Trade) Act 2018 ”.
 
-**16.**[^c23455151] (1)[^key-e41628d6240e95f1129a7f75eb142a0e][^key-8f04eb9a7705454ac5e634ef642acf68] Section 25 (approval of transit sheds) is amended as follows.
+**16.**[^c23455151] (1)[^c-e41628d6240e95f1129a7f75eb142a0e][^c-8f04eb9a7705454ac5e634ef642acf68] Section 25 (approval of transit sheds) is amended as follows.
 
 (2) In subsection (1)—
 
-- (a)[^key-703e065af6b65ca0aec4cc0ff9c8f095] omit “and subject to such conditions and restrictions”, and
-- (b)[^key-8f04eb9a7705454ac5e634ef642acf68] for the words from “not yet cleared out of charge” to the end, substitute “ subject to the control of any officer of Revenue and Customs as a result of Part 1 of the Taxation (Cross-border Trade) Act 2018. ”
+- (a)[^c-703e065af6b65ca0aec4cc0ff9c8f095] omit “and subject to such conditions and restrictions”, and
+- (b)[^c-8f04eb9a7705454ac5e634ef642acf68] for the words from “not yet cleared out of charge” to the end, substitute “ subject to the control of any officer of Revenue and Customs as a result of Part 1 of the Taxation (Cross-border Trade) Act 2018. ”
 
-(3)[^key-98592c07aa0ffea77ca429e164e5b249] After subsection (1) insert—
+(3)[^c-98592c07aa0ffea77ca429e164e5b249] After subsection (1) insert—
 
 > (1A) In any case where they consider it would facilitate the administration, collection or enforcement of any duty of customs, the Commissioners may by regulations—
 >
@@ -266,16 +266,16 @@ is to have effect in relation to import duty.
 >
 > (1B) In any other case, an approval has effect subject to such conditions and restrictions as the Commissioners think fit.
 
-(4)[^key-8f04eb9a7705454ac5e634ef642acf68] Omit subsection (3).
+(4)[^c-8f04eb9a7705454ac5e634ef642acf68] Omit subsection (3).
 
-(5)[^key-8f04eb9a7705454ac5e634ef642acf68] In subsection (4)—
+(5)[^c-8f04eb9a7705454ac5e634ef642acf68] In subsection (4)—
 
 - (a) for “entry” substitute “ needing to comply with all customs formalities in relation to the goods ”, and
 - (b) for “transit sheds”, in each place, substitute “ temporary storage facilities ”.
 
-(6)[^key-8f04eb9a7705454ac5e634ef642acf68] In the heading, for “transit sheds” substitute “ temporary storage facilities ”.
+(6)[^c-8f04eb9a7705454ac5e634ef642acf68] In the heading, for “transit sheds” substitute “ temporary storage facilities ”.
 
-**17.**[^c23455431][^key-ad8aaf092d0d002536c56fb049dc1fc8] (1) Section 25A (transit sheds) is amended as follows.
+**17.**[^c23455431][^c-ad8aaf092d0d002536c56fb049dc1fc8] (1) Section 25A (transit sheds) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -301,7 +301,7 @@ is to have effect in relation to import duty.
 
 (6) For the heading substitute “ Temporary storage facilities ”.
 
-**18.**[^c23455441][^key-d02d83dbb34ab412320a5edce70b0d3c] (1) Section 26 (power to regulate movements of goods into and out of Northern Ireland by land) is amended as follows.
+**18.**[^c23455441][^c-d02d83dbb34ab412320a5edce70b0d3c] (1) Section 26 (power to regulate movements of goods into and out of Northern Ireland by land) is amended as follows.
 
 (2) In subsection (1), omit the words after paragraph (b).
 
@@ -326,7 +326,7 @@ is to have effect in relation to import duty.
 
 (6) In the heading, for “Northern Ireland” substitute “ United Kingdom ”.
 
-**19.**[^c23455451][^key-b729ca30a8bf4f6efaeb88e537275712] (1) Section 27 (officers' powers of boarding) is amended as follows.
+**19.**[^c23455451][^c-b729ca30a8bf4f6efaeb88e537275712] (1) Section 27 (officers' powers of boarding) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -341,7 +341,7 @@ is to have effect in relation to import duty.
 
 (3) Omit subsection (1A).
 
-**20.**[^c23455461][^key-6c7210f6f4d0de5e51200167c5ff4596] (1) Section 28 (officers' powers of access, etc) is amended as follows.
+**20.**[^c23455461][^c-6c7210f6f4d0de5e51200167c5ff4596] (1) Section 28 (officers' powers of access, etc) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -350,13 +350,13 @@ is to have effect in relation to import duty.
 
 (3) In subsection (2), for “ship, aircraft or vehicle” substitute “ vehicle ”.
 
-**21.**[^c23455471][^key-1ce4a1dfde7782d2374b3d9398527e4f] (1) Section 29 (officers' powers of detention of ships, etc) is amended as follows.
+**21.**[^c23455471][^c-1ce4a1dfde7782d2374b3d9398527e4f] (1) Section 29 (officers' powers of detention of ships, etc) is amended as follows.
 
 (2) In subsection (1), for “ship, aircraft or vehicle”, in each place, substitute “ vehicle ”.
 
 (3) In subsection (2)(a), after “in the case of a ship or vehicle” insert “ other than an aircraft ”.
 
-**22.**[^c23455481][^key-627f785dc0acc03ce7ee335341c14fb5] (1) Section 30 (control of movement of uncleared goods within or between port or airport and other places) is amended as follows.
+**22.**[^c23455481][^c-627f785dc0acc03ce7ee335341c14fb5] (1) Section 30 (control of movement of uncleared goods within or between port or airport and other places) is amended as follows.
 
 (2) In subsection (1), for the words from “moved within” to the end substitute
 
@@ -369,12 +369,12 @@ is to have effect in relation to import duty.
 
 (4) In subsection (3)(b), for “ships, aircraft or vehicles” substitute “ vehicles ”.
 
-**23.**[^c23455491][^key-7057f0048d93fbb18595d2171704b0ae] In section 31 (control of movement of goods to and from inland clearance depot, etc), in subsection (1)—
+**23.**[^c23455491][^c-7057f0048d93fbb18595d2171704b0ae] In section 31 (control of movement of goods to and from inland clearance depot, etc), in subsection (1)—
 
 - (a) in paragraphs (a) and (aa)(i), for “the clearance out of charge of” substitute “ the discharge of a Customs procedure in respect of ”, and
 - (b) in paragraph (b), omit “, or a place designated by the proper officer under section 53(4) or 58(3) below,”.
 
-**24.**[^c23455501][^key-6060ab5acb59e1dbf0dbe61fb98cb1e9] (1) Section 33 (power to inspect aircraft, aerodromes, records, etc) is amended as follows.
+**24.**[^c23455501][^c-6060ab5acb59e1dbf0dbe61fb98cb1e9] (1) Section 33 (power to inspect aircraft, aerodromes, records, etc) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -398,7 +398,7 @@ is to have effect in relation to import duty.
 
 (5) In the heading, after “aerodromes,” insert “ railway vehicles and customs areas, ”.
 
-**25.**[^c23455511][^key-25f9018476d5d5e3512fa487637d4a6d] (1) Section 34 (power to prevent flight of aircraft) is amended as follows.
+**25.**[^c23455511][^c-25f9018476d5d5e3512fa487637d4a6d] (1) Section 34 (power to prevent flight of aircraft) is amended as follows.
 
 (2) In subsection (1)(b), for “clearance outwards is given” substitute “ the aircraft is cleared for departure ”.
 
@@ -425,9 +425,9 @@ is to have effect in relation to import duty.
 
 (6) In the heading, after “aircraft” insert “ or departure of railway vehicles ”.
 
-**26.**[^c23455521][^key-9e11d08d8b4209ca279856ef90f12021] In the italic heading before section 35, for “Inward entry and clearance” substitute “ Control of entry of goods ”.
+**26.**[^c23455521][^c-9e11d08d8b4209ca279856ef90f12021] In the italic heading before section 35, for “Inward entry and clearance” substitute “ Control of entry of goods ”.
 
-**27.**[^c23455531][^key-e85002a2e5c18ab66819e8e66fd5c59e] (1) Section 35 (report inwards) is amended as follows.
+**27.**[^c23455531][^c-e85002a2e5c18ab66819e8e66fd5c59e] (1) Section 35 (report inwards) is amended as follows.
 
 (2) In subsection (1), for “ship and aircraft” substitute “ vehicle ”.
 
@@ -455,7 +455,7 @@ is to have effect in relation to import duty.
 
 (8) In subsection (9), after “in this section” insert “ and in section 35A ”.
 
-**28.**[^c23455541][^key-3a7af760d10308a4d4bca5e8b502c0af] After section 35 insert—
+**28.**[^c23455541][^c-3a7af760d10308a4d4bca5e8b502c0af] After section 35 insert—
 
 > **35A. Obligation to confirm making of Customs declaration: particular vehicle operators**
 >
@@ -468,15 +468,15 @@ is to have effect in relation to import duty.
 >
 > (3) A vehicle operator who does not provide a confirmation in accordance with the regulations is liable on summary conviction to a penalty of level 3 on the standard scale.
 
-**29.**[^c23455551][^key-5fe9d69247f27ae30ee2c3cae3a22ee7] Omit section 37A (initial and supplementary entries).
+**29.**[^c23455551][^c-5fe9d69247f27ae30ee2c3cae3a22ee7] Omit section 37A (initial and supplementary entries).
 
-**30.**[^c23455561][^key-99ebe364cf182243ab393c2cff8e202d] Omit section 37B (postponed entry).
+**30.**[^c23455561][^c-99ebe364cf182243ab393c2cff8e202d] Omit section 37B (postponed entry).
 
-**31.**[^c23455831][^key-058a0edf5c8ce4c405ae7ba7736e69ba] Omit section 37C (provisions supplementary to ss. 37A and 37B).
+**31.**[^c23455831][^c-058a0edf5c8ce4c405ae7ba7736e69ba] Omit section 37C (provisions supplementary to ss. 37A and 37B).
 
-**32.**[^c23455841][^key-1b6f9ceae189322aac1535b531878de8] Omit section 38B (correction and cancellation of entry).
+**32.**[^c23455841][^c-1b6f9ceae189322aac1535b531878de8] Omit section 38B (correction and cancellation of entry).
 
-**33.**[^c23455851][^key-e221c92273eb37497560cead9a58bb86][^key-c581c42204fc796c33393ef8544b56a7] In section 39 (entry of surplus stores)—
+**33.**[^c23455851][^c-e221c92273eb37497560cead9a58bb86][^c-c581c42204fc796c33393ef8544b56a7] In section 39 (entry of surplus stores)—
 
 - (a) before subsection (1) insert—
 
@@ -485,7 +485,7 @@ is to have effect in relation to import duty.
   , and
 - (b) in subsection (1), for “ship or aircraft”, in both places it occurs, substitute “ship, aircraft or railway vehicle”.
 
-**34.**[^c23455861][^key-b77b0de551127a8def2916ef4e78cb83] (1) Section 40 (removal of uncleared goods to Queen's warehouse) is amended as follows.
+**34.**[^c23455861][^c-b77b0de551127a8def2916ef4e78cb83] (1) Section 40 (removal of uncleared goods to Queen's warehouse) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -526,7 +526,7 @@ is to have effect in relation to import duty.
 
 (7) In the heading, for “uncleared” substitute “ chargeable ”.
 
-**35.**[^c23455871][^key-fb5b105b614d919f35e29b1ffa18e564] (1) Section 41 (failure to comply with provisions as to entry) is amended as follows.
+**35.**[^c23455871][^c-fb5b105b614d919f35e29b1ffa18e564] (1) Section 41 (failure to comply with provisions as to entry) is amended as follows.
 
 (2) For the words from “, any person making entry of goods” to “in connection with that entry shall” substitute
 
@@ -543,7 +543,7 @@ is to have effect in relation to import duty.
 
 (4) In the heading, for “provisions as to entry” substitute “ customs formalities ”.
 
-**36.**[^c23455881][^key-249f6fa3431bc853a0fb4283543d1a36] (1) Section 42 (power to regulate unloading, removal, etc of imported goods) is amended as follows.
+**36.**[^c23455881][^c-249f6fa3431bc853a0fb4283543d1a36] (1) Section 42 (power to regulate unloading, removal, etc of imported goods) is amended as follows.
 
 (2) In subsection (1)(a)—
 
@@ -552,7 +552,7 @@ is to have effect in relation to import duty.
 
 (3) Omit subsection (3).
 
-**37.**[^c23455891][^key-4c6a9721f2591c51a19ad2f67dc0bd6d] (1) Section 43 (duty on imported goods) is amended as follows.
+**37.**[^c23455891][^c-4c6a9721f2591c51a19ad2f67dc0bd6d] (1) Section 43 (duty on imported goods) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -590,17 +590,17 @@ is to have effect in relation to import duty.
 
 (10) In the heading, for “Duty” substitute “ Excise duty ”.
 
-**38.**[^c23455901][^key-21af689710c1bd1c541d37225ecedbc5] In section 44 (exclusion of s. 43(1) for importers etc keeping standing deposits), after “to cover any” insert “ excise ”.
+**38.**[^c23455901][^c-21af689710c1bd1c541d37225ecedbc5] In section 44 (exclusion of s. 43(1) for importers etc keeping standing deposits), after “to cover any” insert “ excise ”.
 
-**39.**[^c23455911][^key-7d5a7a219bd5af47ad55ea3d54a756fd] Omit section 45 (deferred payment of customs duty).
+**39.**[^c23455911][^c-7d5a7a219bd5af47ad55ea3d54a756fd] Omit section 45 (deferred payment of customs duty).
 
-**40.**[^c23455921][^key-41add57d92ae58daddabc2ad551e6355] Omit section 46 (goods to be warehoused without payment of duty).
+**40.**[^c23455921][^c-41add57d92ae58daddabc2ad551e6355] Omit section 46 (goods to be warehoused without payment of duty).
 
-**41.**[^c23456091][^key-f613fb904f44d52cdc068ea819614e5a] Omit section 47 (relief from payment of duty of goods entered for transit or transhipment).
+**41.**[^c23456091][^c-f613fb904f44d52cdc068ea819614e5a] Omit section 47 (relief from payment of duty of goods entered for transit or transhipment).
 
-**42.**[^c23456101][^key-8c9b486fe8d9e81468b1c76f9fa54643] Omit section 48 (relief from payment of duty of goods temporarily imported).
+**42.**[^c23456101][^c-8c9b486fe8d9e81468b1c76f9fa54643] Omit section 48 (relief from payment of duty of goods temporarily imported).
 
-**43.**[^c23456111][^key-55001dafda3d11e146772c6cecc4c2e0] (1) Section 49 (forfeiture of goods improperly imported) is amended as follows.
+**43.**[^c23456111][^c-55001dafda3d11e146772c6cecc4c2e0] (1) Section 49 (forfeiture of goods improperly imported) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -627,7 +627,7 @@ is to have effect in relation to import duty.
 
 .
 
-**44.**[^c23456121][^key-7d97a2f775c2b7e44f41507abf0ead52] (1) Section 50 (penalty for improper importation of goods) is amended as follows.
+**44.**[^c23456121][^c-7d97a2f775c2b7e44f41507abf0ead52] (1) Section 50 (penalty for improper importation of goods) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -640,11 +640,11 @@ is to have effect in relation to import duty.
 
 .
 
-**45.**[^c23456131][^key-f90e1f65f26f5a831fc25acb77def76b] In section 51 (special provisions as to proof in Northern Ireland), in subsection (1), for “on their importation”, in both places, substitute “ by reference to their importation ”.
+**45.**[^c23456131][^c-f90e1f65f26f5a831fc25acb77def76b] In section 51 (special provisions as to proof in Northern Ireland), in subsection (1), for “on their importation”, in both places, substitute “ by reference to their importation ”.
 
-**46.**[^c23456141][^key-4ba37616c5f81d593dd467e46fce8c82] For the italic heading before section 52 substitute “ Breach of applicable export provisions etc ”.
+**46.**[^c23456141][^c-4ba37616c5f81d593dd467e46fce8c82] For the italic heading before section 52 substitute “ Breach of applicable export provisions etc ”.
 
-**47.**[^c23456151][^key-9a9e62562281979e907ae92afaf66956] (1) Section 52 (meaning for this Part of “dutiable or restricted goods”) is amended as follows.
+**47.**[^c23456151][^c-9a9e62562281979e907ae92afaf66956] (1) Section 52 (meaning for this Part of “dutiable or restricted goods”) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -668,7 +668,7 @@ is to have effect in relation to import duty.
   , and
 - (b) omit “import duty or”.
 
-**48.**[^c23456161][^key-4998ff94df01b89b0a771514a3856c01] After section 52 insert—
+**48.**[^c23456161][^c-4998ff94df01b89b0a771514a3856c01] After section 52 insert—
 
 > **52A. Breach of applicable export provisions etc**
 >
@@ -702,7 +702,7 @@ is to have effect in relation to import duty.
 >
 > (7) Any person who contravenes or fails to comply with a requirement imposed under subsection (6) is liable on summary conviction to a penalty of £20,000.
 
-**49.**[^c23456171][^key-ddb5caf361a2d11a88c37b28b69a92df] (1) Section 53 (entry outwards of goods) is amended as follows.
+**49.**[^c23456171][^c-ddb5caf361a2d11a88c37b28b69a92df] (1) Section 53 (entry outwards of goods) is amended as follows.
 
 (2) Omit subsections (1) to (7).
 
@@ -713,39 +713,39 @@ is to have effect in relation to import duty.
 
 (4) Omit subsections (10) to (12).
 
-**50.**[^c23456181][^key-4fe371c28aabd71f9d130496d3f51001] Omit section 54 (acceptance of incomplete entry).
+**50.**[^c23456181][^c-4fe371c28aabd71f9d130496d3f51001] Omit section 54 (acceptance of incomplete entry).
 
-**51.**[^c23456191][^key-dd27513bff6c580231894d17a2864eec] Omit section 55 (correction and cancellation of entry).
+**51.**[^c23456191][^c-dd27513bff6c580231894d17a2864eec] Omit section 55 (correction and cancellation of entry).
 
-**52.**[^c23456201][^key-9c32de9b2352628c1b261aeffc6fbcbb] Omit section 56 (failure to export).
+**52.**[^c23456201][^c-9c32de9b2352628c1b261aeffc6fbcbb] Omit section 56 (failure to export).
 
-**53.**[^c23456211][^key-218574bf4c9852bb18471083b31173cb] Omit section 57 (delivery of entry by owner of exporting ship etc).
+**53.**[^c23456211][^c-218574bf4c9852bb18471083b31173cb] Omit section 57 (delivery of entry by owner of exporting ship etc).
 
-**54.**[^c23456221][^key-9ce363445b5a59d4e8b603edb0f11794] Omit section 58 (simplified clearance procedure).
+**54.**[^c23456221][^c-9ce363445b5a59d4e8b603edb0f11794] Omit section 58 (simplified clearance procedure).
 
-**55.**[^c23456231][^key-5136c9b6056277063f87ab73a84d8129] Omit section 58A (local export control).
+**55.**[^c23456231][^c-5136c9b6056277063f87ab73a84d8129] Omit section 58A (local export control).
 
-**56.**[^c23456241][^key-a44cabfcd2d42e761ca5b985c8942b5d] Omit section 58B (provisions supplementary to ss 58 and 58A).
+**56.**[^c23456241][^c-a44cabfcd2d42e761ca5b985c8942b5d] Omit section 58B (provisions supplementary to ss 58 and 58A).
 
-**57.**[^c23456251][^key-8543c27cf35a3ab6f68ef31ff847b827] Omit section 58C (pipe-lines and export of ships and aircraft).
+**57.**[^c23456251][^c-8543c27cf35a3ab6f68ef31ff847b827] Omit section 58C (pipe-lines and export of ships and aircraft).
 
-**58.**[^c23456261][^key-8ea0d24ec941e526b875c7002233d454] Omit section 58D (operative date for Community purposes).
+**58.**[^c23456261][^c-8ea0d24ec941e526b875c7002233d454] Omit section 58D (operative date for Community purposes).
 
-**59.**[^c23456271][^key-460e3e67a589a922aa9c49f620178435] Omit section 58E (authentication of Community customs documents).
+**59.**[^c23456271][^c-460e3e67a589a922aa9c49f620178435] Omit section 58E (authentication of Community customs documents).
 
-**60.**[^c23456281][^key-a0338ac344dccb102bcf4363cb23fc00] (1) Section 59 (restrictions on putting export goods alongside for loading) is amended as follows.
+**60.**[^c23456281][^c-a0338ac344dccb102bcf4363cb23fc00] (1) Section 59 (restrictions on putting export goods alongside for loading) is amended as follows.
 
 (2) In subsection (1), for the words from “to be entered outwards” to the end substitute “ to be exported in accordance with the applicable export provisions ”.
 
 (3) In subsection (2)(a) and (b), for “ship or aircraft” substitute “ vehicle other than a road vehicle ”.
 
-**61.**[^c23456291][^key-4f20e357224a49add2f7f1ea9c98a326] In section 60 (additional restrictions as to certain export goods), after subsection (1) insert—
+**61.**[^c23456291][^c-4f20e357224a49add2f7f1ea9c98a326] In section 60 (additional restrictions as to certain export goods), after subsection (1) insert—
 
 > (1A) For the purposes of subsection (1), the reference to entering goods for exportation is to the doing of anything required to be done under provision made by or under Part 1 of the Taxation (Cross-border Trade) Act 2018 in connection with the export of the goods.
 
-**62.**[^c23456301][^key-10daaec07f4dbd0fdeddfb56e413c142] In section 60A (power to make regulations about stores), in subsection (1), for “ship or aircraft” substitute “ ship, aircraft or railway vehicle ”.
+**62.**[^c23456301][^c-10daaec07f4dbd0fdeddfb56e413c142] In section 60A (power to make regulations about stores), in subsection (1), for “ship or aircraft” substitute “ ship, aircraft or railway vehicle ”.
 
-**63.**[^c23456311][^key-e7e5f6655ccdd7df959d5f4a5aa19156] (1) Section 61 (supplementary provision relating to stores) is amended as follows.
+**63.**[^c23456311][^c-e7e5f6655ccdd7df959d5f4a5aa19156] (1) Section 61 (supplementary provision relating to stores) is amended as follows.
 
 (2) In subsection (5)(b), for “the master or commander and the owner of the ship or aircraft” substitute “ the vehicle operator and the owner of the ship, aircraft or railway vehicle ”.
 
@@ -760,7 +760,7 @@ is to have effect in relation to import duty.
 
 (4) In subsection (7A), for “the master of the ship or the commander of the aircraft” substitute “ the vehicle operator ”.
 
-**64.**[^c23545721][^key-fb9f218cb2e09639a3348f38a0b6afd3] (1) Section 62 (information, documentation, etc as to export goods) is amended as follows.
+**64.**[^c23545721][^c-fb9f218cb2e09639a3348f38a0b6afd3] (1) Section 62 (information, documentation, etc as to export goods) is amended as follows.
 
 (2) Omit subsection (2).
 
@@ -768,7 +768,7 @@ is to have effect in relation to import duty.
 
 (4) In subsection (4), omit “or (2)”.
 
-**65.**[^c23545731][^key-8c50ba1a944daff628f3fdd33b8dcacb] (1) Section 63 (entry outwards of exporting ships) is amended as follows.
+**65.**[^c23545731][^c-8c50ba1a944daff628f3fdd33b8dcacb] (1) Section 63 (entry outwards of exporting ships) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -779,7 +779,7 @@ is to have effect in relation to import duty.
 
 (4) In subsection (7), omit “or the member States”.
 
-**66.**[^c23545741][^key-e62cf4fe99530b98a19dd021095f03f9] (1) Section 64 (clearance outwards of ships and aircraft) is amended as follows.
+**66.**[^c23545741][^c-e62cf4fe99530b98a19dd021095f03f9] (1) Section 64 (clearance outwards of ships and aircraft) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -799,7 +799,7 @@ is to have effect in relation to import duty.
 
 (6) In the heading, for “ships and aircraft” substitute “ vehicles ”.
 
-**67.**[^c23545751][^key-18d063aa2300fd554ee44b8ff1b3de9b] (1) Section 65 (power to refuse or cancel clearance of ship or aircraft) is amended as follows.
+**67.**[^c23545751][^c-18d063aa2300fd554ee44b8ff1b3de9b] (1) Section 65 (power to refuse or cancel clearance of ship or aircraft) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -820,12 +820,12 @@ is to have effect in relation to import duty.
 
 (5) In the heading, for “ship or aircraft” substitute “ vehicle ”.
 
-**68.**[^c23456641][^key-362a8b03bc7ba225b4155b1bc92ffad5] In section 66 (power to make regulations as to exportation, etc), in subsection (1)—
+**68.**[^c23456641][^c-362a8b03bc7ba225b4155b1bc92ffad5] In section 66 (power to make regulations as to exportation, etc), in subsection (1)—
 
 - (a) in paragraph (a), for “ships and aircraft respectively the loading and making waterborne for loading” substitute “ vehicles the loading (including making waterborne for loading) ”, and
 - (b) in paragraph (b), for “Northern Ireland” substitute “ the United Kingdom ”.
 
-**69.**[^c23456651][^key-1962f8b9713ddfdfa43387050bbd5297] (1) Section 67 (offences in relation to exportation of goods) is amended as follows.
+**69.**[^c23456651][^c-1962f8b9713ddfdfa43387050bbd5297] (1) Section 67 (offences in relation to exportation of goods) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -844,12 +844,12 @@ is to have effect in relation to import duty.
   , and
 - (c) in paragraph (c), after “not been paid” insert “ or goods which have been declared for an authorised use procedure or temporary admission procedure ”.
 
-**70.**[^c23456661][^key-4659724063f83f9635349c0babb99c94] In section 68 (offences in relation to exportation of prohibited or restricted goods), in subsection (5)—
+**70.**[^c23456661][^c-4659724063f83f9635349c0babb99c94] In section 68 (offences in relation to exportation of prohibited or restricted goods), in subsection (5)—
 
 - (a) for “the ship, aircraft or vehicle in which they were exported” substitute “ the vehicle in which they were exported ”, and
 - (b) for “both the owner of the ship, aircraft or vehicle and the master of the ship, commander of the aircraft or person in charge of the vehicle” substitute “ both the owner of the vehicle and the vehicle operator ”.
 
-**71.**[^c23456671][^key-b9bba036c7c99ebed250ec43d708f6a4] For section 69 substitute—
+**71.**[^c23456671][^c-b9bba036c7c99ebed250ec43d708f6a4] For section 69 substitute—
 
 > **69. Meaning of “coasting ship”**
 >
@@ -865,9 +865,9 @@ is to have effect in relation to import duty.
 >
 > is, or is not, to be deemed to be carrying goods coastwise.
 
-**72.**[^c23456681][^key-564bfe265f8d1da3a0bdbb6f6f2fb6c1] Omit section 70 (coasting trade —exceptional provisions).
+**72.**[^c23456681][^c-564bfe265f8d1da3a0bdbb6f6f2fb6c1] Omit section 70 (coasting trade —exceptional provisions).
 
-**73.**[^c23456691][^key-c07a22a9387b1f9c243de213111567ae] (1) Section 74 (offences in connection with carriage of goods coastwise) is amended as follows.
+**73.**[^c23456691][^c-c07a22a9387b1f9c243de213111567ae] (1) Section 74 (offences in connection with carriage of goods coastwise) is amended as follows.
 
 (2) Omit subsection (1).
 
@@ -875,11 +875,11 @@ is to have effect in relation to import duty.
 
 (4) Omit subsection (5).
 
-**74.**[^c23456701][^key-2ce1175a268a28c8ef71647934dd4ba9] Omit section 75A (records relating to importation and exportation).
+**74.**[^c23456701][^c-2ce1175a268a28c8ef71647934dd4ba9] Omit section 75A (records relating to importation and exportation).
 
-**75.**[^c23456711][^key-d87a726305ad4499d7598969505d1f08] Omit section 75C (records relating to goods subject to certain transit arrangements).
+**75.**[^c23456711][^c-d87a726305ad4499d7598969505d1f08] Omit section 75C (records relating to goods subject to certain transit arrangements).
 
-**76.**[^c23456721][^key-20d285903c48ce1eca974176b3717691] (1) Section 77 (information in relation to goods imported or exported) is amended as follows.
+**76.**[^c23456721][^c-20d285903c48ce1eca974176b3717691] (1) Section 77 (information in relation to goods imported or exported) is amended as follows.
 
 (2) In subsection (1)(a), for “an entry is required by regulation 5 of the Customs Controls on Importation of Goods Regulations 1991 or an entry or specification is required by or under this Act” substitute “ a declaration is required as a result of Part 1 of the Taxation (Cross-border Trade) Act 2018 ”.
 
@@ -892,9 +892,9 @@ is to have effect in relation to import duty.
 
 (5) In subsection (5)(a), for “entry delivered” substitute “ declaration made ”.
 
-**77.**[^c23456731][^key-06873f4b0eedac94ade1ac0d31de3f4f] Omit section 77C (information powers relating to goods subject to certain transit arrangements).
+**77.**[^c23456731][^c-06873f4b0eedac94ade1ac0d31de3f4f] Omit section 77C (information powers relating to goods subject to certain transit arrangements).
 
-**78.**[^c23456741][^key-461881b9429a5061debc8dcd12e4f23d] (1) Section 78 (customs and excise control of persons entering or leaving the United Kingdom) is amended as follows.
+**78.**[^c23456741][^c-461881b9429a5061debc8dcd12e4f23d] (1) Section 78 (customs and excise control of persons entering or leaving the United Kingdom) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -904,44 +904,44 @@ is to have effect in relation to import duty.
 
 (3) Omit subsection (1B).
 
-**79.**[^c23456751][^key-adbedf0750d89f679ef90ebc0e23ca39] (1) Section 80 (power to require information or production of documents where origin of goods exported is evidenced under EU law or practice) is amended as follows.
+**79.**[^c23456751][^c-adbedf0750d89f679ef90ebc0e23ca39] (1) Section 80 (power to require information or production of documents where origin of goods exported is evidenced under EU law or practice) is amended as follows.
 
 (2) In subsection (1), for “Community requirement or practice” substitute “ requirement by or under any enactment ”.
 
 (3) In the heading, omit “under EU law or practice”.
 
-**80.**[^c23456761][^key-fa46bc0f993a7b3e559aced192649303] In section 82 (power to haul up revenue vessels, patrol coasts, etc), in subsection (2), after “railway” insert “ or railway customs area ”.
+**80.**[^c23456761][^c-fa46bc0f993a7b3e559aced192649303] In section 82 (power to haul up revenue vessels, patrol coasts, etc), in subsection (2), after “railway” insert “ or railway customs area ”.
 
-**81.**[^c23456771][^key-930e5bd393f3832adf3f6d731bee26ef] (1) Section 85 (penalty for interfering with revenue vessels, etc) is amended as follows.
+**81.**[^c23456771][^c-930e5bd393f3832adf3f6d731bee26ef] (1) Section 85 (penalty for interfering with revenue vessels, etc) is amended as follows.
 
 (2) In subsection (1), omit “ship, aircraft,”.
 
 (3) In subsection (2), for “vessel, aircraft or vehicle” substitute “ vehicle ”.
 
-**82.**[^c23456781][^key-68748a6f22cbb4e2b9f49d34f07bf908] In section 88 (forfeiture of ship, aircraft or vehicle constructed, etc for concealing goods)—
+**82.**[^c23456781][^c-68748a6f22cbb4e2b9f49d34f07bf908] In section 88 (forfeiture of ship, aircraft or vehicle constructed, etc for concealing goods)—
 
 - (a) in paragraph (c), for “a vehicle” substitute “ any other vehicle ”,
 - (b) in that paragraph, for “any port or at any aerodrome” substitute “ any port, railway customs area or aerodrome ”, and
 - (c) in the words after that paragraph, for “or vehicle” substitute “ or other vehicle ”.
 
-**83.**[^c23545411][^key-0d2d30132b96493451f1c3d3a84e069f] In section 90 (forfeiture of ship or aircraft unable to account for missing cargo)—
+**83.**[^c23545411][^c-0d2d30132b96493451f1c3d3a84e069f] In section 90 (forfeiture of ship or aircraft unable to account for missing cargo)—
 
 - (a) after “port in the United Kingdom or the Isle of Man,” insert “ a railway vehicle has been within the limits of a railway customs area ”,
 - (b) for “master of the ship or commander of the aircraft” substitute “ vehicle operator ”, and
 - (c) for “the ship or aircraft” substitute “ the ship, railway vehicle or aircraft ”, and
 - (d) in the heading, after “ship” insert “ , railway vehicle ”.
 
-**84.**[^c23545421][^key-97be1aa5f71ede01cacefc89d72f65e9] In section 92 (approval of warehouses), omit subsections (2) to (4).
+**84.**[^c23545421][^c-97be1aa5f71ede01cacefc89d72f65e9] In section 92 (approval of warehouses), omit subsections (2) to (4).
 
-**85.**[^c23545431][^key-205f541e2e7738afc6533080ad594a1e] In section 93 (regulation of warehouses and warehoused goods), before subsection (1) insert—
+**85.**[^c23545431][^c-205f541e2e7738afc6533080ad594a1e] In section 93 (regulation of warehouses and warehoused goods), before subsection (1) insert—
 
 > (A1) In their application to warehouses, this section and sections 94, 95, 97 and 98 apply only to excise warehouses.
 
-**86.**[^c23545441][^key-e4b0f02e84b72225a45f1c2d349ef727] In section 98 (procedure on warehouse ceasing to be approved), for subsection (4) substitute—
+**86.**[^c23545441][^c-e4b0f02e84b72225a45f1c2d349ef727] In section 98 (procedure on warehouse ceasing to be approved), for subsection (4) substitute—
 
 > (4) In this section “**the prescribed period**” means the period of 3 months.
 
-**87.**[^c23545451][^key-827d140562d07910298e83e22c90ee1f] (1) Section 99 (provisions as to deposit in Queen's warehouse) is amended as follows.
+**87.**[^c23545451][^c-827d140562d07910298e83e22c90ee1f] (1) Section 99 (provisions as to deposit in Queen's warehouse) is amended as follows.
 
 (2) In subsection (1), after “the Customs and Excise Acts 1979” insert “ or Part 1 of the Taxation (Cross-border Trade) Act 2018 ”.
 
@@ -960,7 +960,7 @@ is to have effect in relation to import duty.
 
 (5) In subsection (7), after “the Customs and Excise Acts 1979” insert “ or Part 1 of the Taxation (Cross-border Trade) Act 2018 ”.
 
-**88.**[^c23545461][^key-2612598f676a37b2d6f4df8db83e2558] (1) Section 100 (general offences relating to warehouses and warehoused goods) is amended as follows.
+**88.**[^c23545461][^c-2612598f676a37b2d6f4df8db83e2558] (1) Section 100 (general offences relating to warehouses and warehoused goods) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -973,31 +973,31 @@ is to have effect in relation to import duty.
 
 > (5) In this section “warehouse”, except in the expression “Queen's warehouse”, means a customs warehouse or an excise warehouse.
 
-**89.**[^c23545471][^key-4222d99241e24c6f57c222b8687bd3ac] In section 112 (power of entry upon premises, etc of revenue traders), in subsection (5), omit “vessels, aircraft,”.
+**89.**[^c23545471][^c-4222d99241e24c6f57c222b8687bd3ac] In section 112 (power of entry upon premises, etc of revenue traders), in subsection (5), omit “vessels, aircraft,”.
 
-**90.**[^key-cdb0b1d3cfe323838db8be9c39d5ff6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**90.**[^c-cdb0b1d3cfe323838db8be9c39d5ff6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**91.**[^c23545491][^key-39534e06959d31ee6a5201a45a85f51a] Omit section 120 (regulations for determining origin of goods).
+**91.**[^c23545491][^c-39534e06959d31ee6a5201a45a85f51a] Omit section 120 (regulations for determining origin of goods).
 
-**92.**[^c23545501][^key-20395ced62469378d3f9a25957d19a17] (1) Section 121 (power to impose restrictions where duty depends on certain matters other than use) is amended as follows.
+**92.**[^c23545501][^c-20395ced62469378d3f9a25957d19a17] (1) Section 121 (power to impose restrictions where duty depends on certain matters other than use) is amended as follows.
 
 (2) Omit “(other than the use to be made of the goods)”.
 
 (3) In the heading, omit “other than use”.
 
-**93.**[^c23545511][^key-448f3074f897e94c01f8113a8e483a03] Omit section 122 (regulations where customs duty depends on use).
+**93.**[^c23545511][^c-448f3074f897e94c01f8113a8e483a03] Omit section 122 (regulations where customs duty depends on use).
 
-**94.**[^c23545521][^key-04397749d5bac57b0bfada21506ceb14] In section 123 (repayment of duty where goods returned or destroyed by importer), in subsection (1)(b)(i), for the words from “and for that purpose” to “this Act;” substitute “ and, if the export of the goods was required to be made in accordance with the applicable export provisions, the requirements were met; ”.
+**94.**[^c23545521][^c-04397749d5bac57b0bfada21506ceb14] In section 123 (repayment of duty where goods returned or destroyed by importer), in subsection (1)(b)(i), for the words from “and for that purpose” to “this Act;” substitute “ and, if the export of the goods was required to be made in accordance with the applicable export provisions, the requirements were met; ”.
 
-**95.**[^c23545531][^key-efdccd80403c5532284f77dcb2fe0451] (1) Section 124 (forfeiture for breach of certain conditions) is amended as follows.
+**95.**[^c23545531][^c-efdccd80403c5532284f77dcb2fe0451] (1) Section 124 (forfeiture for breach of certain conditions) is amended as follows.
 
 (2) In subsection (1)(a), for “on” substitute “ by reference to ”.
 
 (3) In subsection (2), for “or security”, in both places, substitute “ , security or other guarantee ”.
 
-**96.**[^c23545541][^key-aff19875216fbcf127bd8564d0208926] Omit section 125 (valuation of goods for purpose of ad valorem duties).
+**96.**[^c23545541][^c-aff19875216fbcf127bd8564d0208926] Omit section 125 (valuation of goods for purpose of ad valorem duties).
 
-**97.**[^c23545551][^key-e493450f58d03fa9ac44071926d69069] (1) Section 129 (power to remit or repay duty on denatured goods) is amended as follows.
+**97.**[^c23545551][^c-e493450f58d03fa9ac44071926d69069] (1) Section 129 (power to remit or repay duty on denatured goods) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1012,9 +1012,9 @@ is to have effect in relation to import duty.
 
 (4) Omit subsection (5).
 
-**98.**[^c23545561][^key-b41df9199f50de91f69e886ce9384544] Omit section 130 (power to remit or repay duty on goods lost or destroyed, etc).
+**98.**[^c23545561][^c-b41df9199f50de91f69e886ce9384544] Omit section 130 (power to remit or repay duty on goods lost or destroyed, etc).
 
-**99.**[^c23545571][^key-9267ba8157f684ead031d086e6d7a5bf] (1) Section 131 (enforcement of bond in respect of goods removed without payment of duty) is amended as follows.
+**99.**[^c23545571][^c-9267ba8157f684ead031d086e6d7a5bf] (1) Section 131 (enforcement of bond in respect of goods removed without payment of duty) is amended as follows.
 
 (2) For “payment of duty” substitute “ payment of excise duty ”.
 
@@ -1022,23 +1022,23 @@ is to have effect in relation to import duty.
 
 (4) In the heading, after “payment of” insert “ excise ”.
 
-**100.**[^c23545581][^key-d978791d4142363e406b3e0645b37227] In section 133 (general provisions as to claims for drawback), at the beginning insert—
+**100.**[^c23545581][^c-d978791d4142363e406b3e0645b37227] In section 133 (general provisions as to claims for drawback), at the beginning insert—
 
 > (A1) This section applies in relation to any claim for drawback for the purposes of any excise duty.
 
-**101.**[^c23545591][^key-f8e6e458739e5a05402e37687b222beb] In section 134 (drawback and allowance on goods damaged or destroyed after shipment), at the beginning insert—
+**101.**[^c23545591][^c-f8e6e458739e5a05402e37687b222beb] In section 134 (drawback and allowance on goods damaged or destroyed after shipment), at the beginning insert—
 
 > (A1) This section applies only for the purposes of excise duty.
 
-**102.**[^c23545601][^key-49b63821b82c19ce746ebb4965c1511a] In section 135 (time limit on payment of drawback or allowance), after “in respect of any drawback or allowance” insert “ for the purposes of any excise duty ”.
+**102.**[^c23545601][^c-49b63821b82c19ce746ebb4965c1511a] In section 135 (time limit on payment of drawback or allowance), after “in respect of any drawback or allowance” insert “ for the purposes of any excise duty ”.
 
-**103.**[^c23545611][^key-10e890703e3809dfc0b929a5f47f493a] (1) Section 136 (offences in connection with claims for drawback, etc) is amended as follows.
+**103.**[^c23545611][^c-10e890703e3809dfc0b929a5f47f493a] (1) Section 136 (offences in connection with claims for drawback, etc) is amended as follows.
 
 (2) In subsection (4), for “entry”, in both places, substitute “ any declaration ”.
 
 (3) Omit subsection (6).
 
-**104.**[^c23545621][^key-6f96f91423e8ae72b4de00e041dae2ea] (1) Section 137 (recovery of duties and calculation of duties, drawbacks, etc) is amended as follows.
+**104.**[^c23545621][^c-6f96f91423e8ae72b4de00e041dae2ea] (1) Section 137 (recovery of duties and calculation of duties, drawbacks, etc) is amended as follows.
 
 (2) In subsection (1), omit “customs or”.
 
@@ -1049,7 +1049,7 @@ is to have effect in relation to import duty.
 
 (4) In the heading, after “of”, in both places, insert “ excise ”.
 
-**105.**[^c23545631][^key-02b43c314cdd5036c330de31dc07bc32] (1) Section 141 (forfeiture of ships, etc used in connection with goods liable to forfeiture) is amended as follows.
+**105.**[^c23545631][^c-02b43c314cdd5036c330de31dc07bc32] (1) Section 141 (forfeiture of ships, etc used in connection with goods liable to forfeiture) is amended as follows.
 
 (2) In subsection (1)(a), omit “ship, aircraft,”.
 
@@ -1064,9 +1064,9 @@ is to have effect in relation to import duty.
   , and
 - (b) for “the master or commander” substitute “ the vehicle operator ”.
 
-**106.**[^c23545641][^key-fee447cd415fdcb6c972953ecc8c3b40] In section 154 (proof of certain other matters), in subsection (2)(c), (d) and (e), for “ship or aircraft” substitute “ ship, aircraft or railway vehicle ”.
+**106.**[^c23545641][^c-fee447cd415fdcb6c972953ecc8c3b40] In section 154 (proof of certain other matters), in subsection (2)(c), (d) and (e), for “ship or aircraft” substitute “ ship, aircraft or railway vehicle ”.
 
-**107.**[^c23545651][^key-79452a492b54f008dbbd839296b8af87] (1) Section 159 (power to examine and take account of goods) is amended as follows.
+**107.**[^c23545651][^c-79452a492b54f008dbbd839296b8af87] (1) Section 159 (power to examine and take account of goods) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1090,12 +1090,12 @@ is to have effect in relation to import duty.
 > - (a) the person who has made the declaration, or
 > - (b) the person on whose behalf it was made.
 
-**108.**[^c23545661][^key-5565909f689a9df6c78d06194617a553] In section 160 (power to take samples), in subsection (4)—
+**108.**[^c23545661][^c-5565909f689a9df6c78d06194617a553] In section 160 (power to take samples), in subsection (4)—
 
 - (a) in the opening words, for “a duty of customs or excise” substitute “ a duty of excise ”, and
 - (b) in paragraph (a), for “are first entered on importation” substitute “ are imported ”.
 
-**109.**[^c23545671][^key-4c3f6c15e98780c52013764759046b2a] After section 160 insert—
+**109.**[^c23545671][^c-4c3f6c15e98780c52013764759046b2a] After section 160 insert—
 
 > **160ZA. Examination of goods and samples: supplementary**
 >
@@ -1119,9 +1119,9 @@ is to have effect in relation to import duty.
 > - (a) the person who has made the declaration, or
 > - (b) the person on whose behalf it was made.
 
-**110.**[^c23545681][^key-1c19287c2aa3f55026af2b0d3e4a79de] In section 162 (power to enter land for or in connection with access to pipe-lines), after “the Customs and Excise Acts 1979” insert “ or by or under Part 1 of the Taxation (Cross-border Trade) Act 2018 ”.
+**110.**[^c23545681][^c-1c19287c2aa3f55026af2b0d3e4a79de] In section 162 (power to enter land for or in connection with access to pipe-lines), after “the Customs and Excise Acts 1979” insert “ or by or under Part 1 of the Taxation (Cross-border Trade) Act 2018 ”.
 
-**111.**[^c23455161][^key-f4867cf36c45c31678386eb9e9b27625] (1) Section 163 (power to search vehicles or vessels) is amended as follows.
+**111.**[^c23455161][^c-f4867cf36c45c31678386eb9e9b27625] (1) Section 163 (power to search vehicles or vessels) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1136,7 +1136,7 @@ is to have effect in relation to import duty.
 
 (5) In the heading, omit “or vessels”.
 
-**112.**[^c23455171][^key-245f59a4ad853b035acb24f7580faaf5] In section 164 (power to search persons), in subsection (4)—
+**112.**[^c23455171][^c-245f59a4ad853b035acb24f7580faaf5] In section 164 (power to search persons), in subsection (4)—
 
 - (a) after paragraph (d) insert—
 
@@ -1149,20 +1149,20 @@ is to have effect in relation to import duty.
   , and
 - (b) in paragraph (e), for “transit shed” substitute “ temporary storage facility ”.
 
-**113.**[^c23455181][^key-1a891af0f2dac352103e4b9ecf3515c2] In section 166 (agents), after subsection (2) insert—
+**113.**[^c23455181][^c-1a891af0f2dac352103e4b9ecf3515c2] In section 166 (agents), after subsection (2) insert—
 
 > (3) For the purposes of import duty, this section has effect only to the extent that alternative provision has not been made by Part 1 of the Taxation (Cross-border Trade) Act 2018 (see, in particular, section 21 of that Act).
 
-**114.**[^c23455191][^key-d8d81d77f8176d50d5b8797d1a8c86a5] In section 170 (penalty for fraudulent evasion of duty, etc), in subsection (2)(c), after “the Customs and Excise Acts 1979” insert “, or Part 1 or section 40A or 40B[^key-e64f2c9832130a6655016f3cd4ba93ab] of the Taxation (Cross-border Trade) Act 2018,”.
+**114.**[^c23455191][^c-d8d81d77f8176d50d5b8797d1a8c86a5] In section 170 (penalty for fraudulent evasion of duty, etc), in subsection (2)(c), after “the Customs and Excise Acts 1979” insert “, or Part 1 or section 40A or 40B[^c-e64f2c9832130a6655016f3cd4ba93ab] of the Taxation (Cross-border Trade) Act 2018,”.
 
-**115.**[^c23455201][^key-9cecb2afaa88e885518bb2b00dd15ec0] In section 171 (general provisions as to offences and penalties), in subsection (5)—
+**115.**[^c23455201][^c-9cecb2afaa88e885518bb2b00dd15ec0] In section 171 (general provisions as to offences and penalties), in subsection (5)—
 
 - (a) for “the relevant time specified in section 43 above” substitute “ the time at which a liability to import duty is incurred ”, and
 - (b) for “as if the goods had been imported without entry at the time when the proceedings were commenced” substitute “ as if the time when the proceedings were commenced was the time at which the liability to import duty was incurred ”.
 
-**116.**[^c23455211][^key-516d5a2110144241ccbf67ede855377b] In section 172 (regulations), in subsection (3), for “section 120” substitute “ section 5, 20, 22, 25, 26(1ZA), 35A or 64 ”.
+**116.**[^c23455211][^c-516d5a2110144241ccbf67ede855377b] In section 172 (regulations), in subsection (3), for “section 120” substitute “ section 5, 20, 22, 25, 26(1ZA), 35A or 64 ”.
 
-**117.**[^c23455221][^key-050af5ddf46c45dea4c1279a060d6866] (1) Schedule 2A (supplementary provisions relating to the detention of things as liable to forfeiture) is amended as follows.
+**117.**[^c23455221][^c-050af5ddf46c45dea4c1279a060d6866] (1) Schedule 2A (supplementary provisions relating to the detention of things as liable to forfeiture) is amended as follows.
 
 (2) In paragraph 3(2)(d), for “a vehicle, the driver of the vehicle” substitute “ any other vehicle, the vehicle operator ”.
 
@@ -1172,21 +1172,21 @@ is to have effect in relation to import duty.
 
 #### Customs and Excise Duties (General Reliefs) Act 1979
 
-**118.**[^c23545761][^key-7fdf98b1752cd6270599802824ec0996] The Customs and Excise Duties (General Reliefs) Act 1979 is amended as follows.
+**118.**[^c23545761][^c-7fdf98b1752cd6270599802824ec0996] The Customs and Excise Duties (General Reliefs) Act 1979 is amended as follows.
 
-**119.**[^c23545771][^key-01818ab9002c2b4197a1165e49adee7a] Omit section 1 (reliefs from customs duty for conformity with EU obligations and other international obligations, etc) and the italic heading before it.
+**119.**[^c23545771][^c-01818ab9002c2b4197a1165e49adee7a] Omit section 1 (reliefs from customs duty for conformity with EU obligations and other international obligations, etc) and the italic heading before it.
 
-**120.**[^c23545781][^key-9699622646d2f5d2ddece366bcd08b10] Omit section 2 (reliefs from customs duty referable to Community practices).
+**120.**[^c23545781][^c-9699622646d2f5d2ddece366bcd08b10] Omit section 2 (reliefs from customs duty referable to Community practices).
 
-**121.**[^c23545791][^key-8759c501482c5fb949fe5d53790cf766] Omit section 3 (power to exempt particular importations of certain goods from customs duty).
+**121.**[^c23545791][^c-8759c501482c5fb949fe5d53790cf766] Omit section 3 (power to exempt particular importations of certain goods from customs duty).
 
-**122.**[^c23546181][^key-d39863f0db2b6a807de1758d2ce2ace9] Omit section 4 (administration of reliefs under section 1 and administration or implementation of similar Community reliefs).
+**122.**[^c23546181][^c-d39863f0db2b6a807de1758d2ce2ace9] Omit section 4 (administration of reliefs under section 1 and administration or implementation of similar Community reliefs).
 
-**123.**[^c23545801][^key-4f8bb28eb613b5e5b0068a8364daecf9] Omit section 5 (relief from customs duty of certain goods from Channel Islands) and the italic heading before it.
+**123.**[^c23545801][^c-4f8bb28eb613b5e5b0068a8364daecf9] Omit section 5 (relief from customs duty of certain goods from Channel Islands) and the italic heading before it.
 
-**124.**[^c23545811][^key-e4e6430cefeeb8b88789cf23b113844b] In the italic heading before section 7, omit “miscellaneous” and “customs and”.
+**124.**[^c23545811][^c-e4e6430cefeeb8b88789cf23b113844b] In the italic heading before section 7, omit “miscellaneous” and “customs and”.
 
-**125.**[^c23545851][^key-abdb3d8393646d1cfad5a84068390f04] (1) Section 7 (power to provide for reliefs from duty and value added tax in respect of imported legacies) is amended as follows.
+**125.**[^c23545851][^c-abdb3d8393646d1cfad5a84068390f04] (1) Section 7 (power to provide for reliefs from duty and value added tax in respect of imported legacies) is amended as follows.
 
 (2) In subsection (1), after “reliefs from” insert “ excise ”.
 
@@ -1210,23 +1210,23 @@ is to have effect in relation to import duty.
 
 (7) In the heading, after “reliefs from” insert “ excise ”.
 
-**126.**[^c23545961][^key-2a59967b02ecc9eee1bc095bf5df2216] In section 8 (relief from customs or excise duty on trade samples, labels, etc)—
+**126.**[^c23545961][^c-2a59967b02ecc9eee1bc095bf5df2216] In section 8 (relief from customs or excise duty on trade samples, labels, etc)—
 
 - (a) in the opening words, omit “customs or”, and
 - (b) in the heading, omit “customs or”.
 
-**127.**[^c23545971][^key-beb38eaef9f6f2bf78ab31111e529af5] In section 9 (relief from customs or excise duty on antiques, prizes, etc)—
+**127.**[^c23545971][^c-beb38eaef9f6f2bf78ab31111e529af5] In section 9 (relief from customs or excise duty on antiques, prizes, etc)—
 
 - (a) in the opening words, omit “customs or”, and
 - (b) in the heading, omit “customs or”.
 
-**128.**[^c23546081][^key-5731c3ccb21b5a38eb4b33b451e6ca0c] Omit the italic heading before section 10.
+**128.**[^c23546081][^c-5731c3ccb21b5a38eb4b33b451e6ca0c] Omit the italic heading before section 10.
 
-**129.**[^c23546091][^key-cdd39b5de72d484fa8d2f7978d400cc7] In section 11 (relief from excise duty on certain foreign goods re-imported), in subsection (2), for “were entered for transit or transhipment” substitute “ were declared for a transit procedure under Part 1 of the Taxation (Cross-border Trade) Act 2018 ”.
+**129.**[^c23546091][^c-cdd39b5de72d484fa8d2f7978d400cc7] In section 11 (relief from excise duty on certain foreign goods re-imported), in subsection (2), for “were entered for transit or transhipment” substitute “ were declared for a transit procedure under Part 1 of the Taxation (Cross-border Trade) Act 2018 ”.
 
-**130.**[^c23546021][^key-7c1b26c113bf21b203adc9f8d78d5f86] In section 12 (supply of duty-free goods to Her Majesty's ships), omit subsection (6).
+**130.**[^c23546021][^c-7c1b26c113bf21b203adc9f8d78d5f86] In section 12 (supply of duty-free goods to Her Majesty's ships), omit subsection (6).
 
-**131.**[^c23546011][^key-c7283f450373a1972b535df4d0224c20] (1) Section 13 (power to provide, in relation to persons entering the United Kingdom, for reliefs from duty and value added tax and for simplified computation of duty and tax) is amended as follows.
+**131.**[^c23546011][^c-c7283f450373a1972b535df4d0224c20] (1) Section 13 (power to provide, in relation to persons entering the United Kingdom, for reliefs from duty and value added tax and for simplified computation of duty and tax) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1262,7 +1262,7 @@ is to have effect in relation to import duty.
 - (a) after “reliefs from” insert “ excise ”, and
 - (b) after “computation of” insert “ excise ”.
 
-**132.**[^c23546001][^key-ffd7a4a8ad062d014e8cf6f8b194fc78] (1) Section 13A (reliefs from duties and taxes for persons enjoying certain immunities and privileges) is amended as follows.
+**132.**[^c23546001][^c-ffd7a4a8ad062d014e8cf6f8b194fc78] (1) Section 13A (reliefs from duties and taxes for persons enjoying certain immunities and privileges) is amended as follows.
 
 (2) In subsection (1), for “duties of customs or excise,” substitute “ any relevant levy, any duty of excise, ”.
 
@@ -1270,13 +1270,13 @@ is to have effect in relation to import duty.
 
 (4) In subsection (6), for “ “**duty of customs**” includes” substitute “ “**relevant levy**” means ”.
 
-**133.**[^c23545981][^key-7c0b636ac57e18ce284bea25fe754b79] In section 13B (persons to whom section 13A applies), omit subsection (1)(c).
+**133.**[^c23545981][^c-7c0b636ac57e18ce284bea25fe754b79] In section 13B (persons to whom section 13A applies), omit subsection (1)(c).
 
-**134.**[^c23545991][^key-1fbd472a37799ecee5c0be88ab3ab634] In section 13C (offence where relieved goods used, etc, in breach of condition), in subsection (1)(a), for “any duty of customs or excise,” substitute “ any relevant levy, any duty of excise, ”.
+**134.**[^c23545991][^c-1fbd472a37799ecee5c0be88ab3ab634] In section 13C (offence where relieved goods used, etc, in breach of condition), in subsection (1)(a), for “any duty of customs or excise,” substitute “ any relevant levy, any duty of excise, ”.
 
-**135.**[^c23546031][^key-f87187a9426f9075d0c8b688d1f15283] Omit section 14 (produce of the sea or continental shelf) and the italic heading before it.
+**135.**[^c23546031][^c-f87187a9426f9075d0c8b688d1f15283] Omit section 14 (produce of the sea or continental shelf) and the italic heading before it.
 
-**136.**[^c23546041][^key-5b9cc1ae55dacd94a76c1d000edc297b] (1) Section 15 (false statements etc in connection with reliefs from customs duties) is amended as follows.
+**136.**[^c23546041][^c-5b9cc1ae55dacd94a76c1d000edc297b] (1) Section 15 (false statements etc in connection with reliefs from customs duties) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1284,9 +1284,9 @@ is to have effect in relation to import duty.
 - (b) omit paragraph (b), and
 - (c) in the words after that paragraph, for “section 1, 3 or 4 above or an EU instrument” substitute “ Part 1 of that Act ”.
 
-**137.**[^c23546051][^key-ad202bab297311516caba8d8423e1308] Omit section 16 (annual reports to Parliament).
+**137.**[^c23546051][^c-ad202bab297311516caba8d8423e1308] Omit section 16 (annual reports to Parliament).
 
-**138.**[^c23546061][^key-161d85021c6fd1f76c00c4ec859c260f] (1) Section 17 (orders and regulations) is amended as follows.
+**138.**[^c23546061][^c-161d85021c6fd1f76c00c4ec859c260f] (1) Section 17 (orders and regulations) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -1308,9 +1308,9 @@ is to have effect in relation to import duty.
 
 #### Isle of Man Act 1979
 
-**139.**[^c23546101][^key-4d75b62c6c5b5a567ccfd42c7801babe] The Isle of Man Act 1979 is amended as follows.
+**139.**[^c23546101][^c-4d75b62c6c5b5a567ccfd42c7801babe] The Isle of Man Act 1979 is amended as follows.
 
-**140.**[^c23546111][^key-b22f0a7b8ea05b1f2d608f79ad3b1f0b] In section 8 (removal of goods from Isle of Man to United Kingdom), for subsection (3) substitute—
+**140.**[^c23546111][^c-b22f0a7b8ea05b1f2d608f79ad3b1f0b] In section 8 (removal of goods from Isle of Man to United Kingdom), for subsection (3) substitute—
 
 > (3) The goods referred to in subsection (2)(a) above do not include goods which have been wholly or partly relieved from duty under, or which are not subject to duty by virtue of, any Isle of Man equivalent to—
 >
@@ -1319,20 +1319,20 @@ is to have effect in relation to import duty.
 >
 > (3A) Where there are conditions which apply in connection with the goods being relieved from duty or not being subject to duty, the customs and excise Acts shall apply to the goods as if they were imported into the United Kingdom when they were imported into the Isle of Man and as if corresponding conditions apply to the goods under, or by virtue of, those Acts.
 
-**141.**[^c23546121][^key-f23046f95a23892d44877343dd53de30] In section 9 (removal of goods from United Kingdom to Isle of Man), in subsection (5), for “or under any EU instrument” substitute “ or section 19 of the Taxation (Cross-border Trade) Act 2018 ”.
+**141.**[^c23546121][^c-f23046f95a23892d44877343dd53de30] In section 9 (removal of goods from United Kingdom to Isle of Man), in subsection (5), for “or under any EU instrument” substitute “ or section 19 of the Taxation (Cross-border Trade) Act 2018 ”.
 
 #### Finance Act 1994
 
-**142.**[^c23546131][^key-ea3911cb044b7a532d9ecf2b313baa58] The Finance Act 1994 is amended as follows.
+**142.**[^c23546131][^c-ea3911cb044b7a532d9ecf2b313baa58] The Finance Act 1994 is amended as follows.
 
-**143.**[^c23546141][^key-34c563d223950e2fd081dc18656fa691] In section 16 (appeals to tribunal), omit subsections (11) and (12).
+**143.**[^c23546141][^c-34c563d223950e2fd081dc18656fa691] In section 16 (appeals to tribunal), omit subsections (11) and (12).
 
-**144.**[^c23546151][^key-262e170638b10764d3fd57563913df8c] In section 17 (interpretation), in subsection (2)—
+**144.**[^c23546151][^c-262e170638b10764d3fd57563913df8c] In section 17 (interpretation), in subsection (2)—
 
 - (a) omit the definition of “the Community Customs Code”, and
 - (b) in the definition of “relevant duty”, for “means any EU customs duty” substitute “ means any customs duty ”.
 
-**145.**[^c23546161][^key-9dd51029354840e120a60a57b4e9f1d2] (1) Schedule 5 (decisions subject to review and appeal) is amended as follows.
+**145.**[^c23546161][^c-9dd51029354840e120a60a57b4e9f1d2] (1) Schedule 5 (decisions subject to review and appeal) is amended as follows.
 
 (2) For the italic heading before paragraph 1 substitute “ Taxation (Cross-border Trade) Act 2018 ”.
 
@@ -1388,19 +1388,19 @@ is to have effect in relation to import duty.
 
 #### Terrorism Act 2000
 
-**146.**[^c23546171][^key-7a8fa2e2fe29eabcf5014f2ce3716d17] (1)[^key-cea39d0f6ebcab9bdc32024953204fc1] In Schedule 7 to the Terrorism Act 2000 (port and border controls), in paragraph 9—
+**146.**[^c23546171][^c-7a8fa2e2fe29eabcf5014f2ce3716d17] (1)[^c-cea39d0f6ebcab9bdc32024953204fc1] In Schedule 7 to the Terrorism Act 2000 (port and border controls), in paragraph 9—
 
 - (a) in sub-paragraph (2C)(c), for “transit shed” substitute “ temporary storage facility ”,
 - (b) in sub-paragraph (3)(d), for “ “transit shed”” substitute “ “temporary storage facility” ”, and
 - (c) in sub-paragraph (4)(d), for “transit shed” substitute “ temporary storage facility ”.
 
-(2)[^key-7363e499047550d9a54ce3b5a0780a31] Where the provisions of CEMA 1979 relating to transit sheds continue to have effect for any purpose (see paragraph 158), the provision amended by sub-paragraph (1) continues to have effect, for that purpose, as if the amendments made by that sub-paragraph were not made.
+(2)[^c-7363e499047550d9a54ce3b5a0780a31] Where the provisions of CEMA 1979 relating to transit sheds continue to have effect for any purpose (see paragraph 158), the provision amended by sub-paragraph (1) continues to have effect, for that purpose, as if the amendments made by that sub-paragraph were not made.
 
 #### Finance Act 2003
 
-**147.**[^c23545891][^key-bacad44f681cc039e54acfda7153f25f] Part 3 of the Finance Act 2003 (taxes and duties on importation and exportation: penalties) is amended as follows.
+**147.**[^c23545891][^c-bacad44f681cc039e54acfda7153f25f] Part 3 of the Finance Act 2003 (taxes and duties on importation and exportation: penalties) is amended as follows.
 
-**148.**[^c23545901][^key-821a94306730265fadaca7f0721096bc] (1) Section 24 (introductory) is amended as follows.
+**148.**[^c23545901][^c-821a94306730265fadaca7f0721096bc] (1) Section 24 (introductory) is amended as follows.
 
 (2) In subsection (2), omit paragraphs (b), (c) and (e).
 
@@ -1408,9 +1408,9 @@ is to have effect in relation to import duty.
 
 (4) Omit subsections (4) to (6).
 
-**149.**[^c23545911][^key-9aedc695f57d5691a036b21baf1dc72f] In section 25 (penalty for evasion), omit subsection (3).
+**149.**[^c23545911][^c-9aedc695f57d5691a036b21baf1dc72f] In section 25 (penalty for evasion), omit subsection (3).
 
-**150.**[^c23545921][^key-97ebab12264482c22f43e1fa46e272c2] (1) Section 26 (penalty for contravention of relevant rule) is amended as follows.
+**150.**[^c23545921][^c-97ebab12264482c22f43e1fa46e272c2] (1) Section 26 (penalty for contravention of relevant rule) is amended as follows.
 
 (2) After subsection (5) insert—
 
@@ -1423,7 +1423,7 @@ is to have effect in relation to import duty.
 
 - (a) before paragraph (a) insert—
 
-  > - (za) Part 1 and sections 40A and 40B[^key-865a8bbabad6debd9f3cee9b353628c8] of the Taxation (Cross-border Trade) Act 2018, as they apply[^key-d914e8c5df3e6a5fcab673864f145a9c] in relation to the relevant tax or duty;
+  > - (za) Part 1 and sections 40A and 40B[^c-865a8bbabad6debd9f3cee9b353628c8] of the Taxation (Cross-border Trade) Act 2018, as they apply[^c-d914e8c5df3e6a5fcab673864f145a9c] in relation to the relevant tax or duty;
 
   , and
 - (b) omit paragraphs (c) and (e).
@@ -1433,28 +1433,28 @@ is to have effect in relation to import duty.
 - (a) omit the definition of “Community customs rules”, and
 - (b) in the definition of “relevant international rules”, omit paragraph (b) (together with the “or” before it).
 
-**151.**[^c23545931][^key-4833664d36a9b8331e1d74ee93285347] In section 32 (no prosecution after demand notice for penalty under section 26)—
+**151.**[^c23545931][^c-4833664d36a9b8331e1d74ee93285347] In section 32 (no prosecution after demand notice for penalty under section 26)—
 
 - (a) the existing text becomes subsection (1), and
 - (b) after that subsection insert—
 
   > (2) Nothing in subsection (1) prevents the bringing of proceedings against a person for an offence under section 20A(1A), 22A(1A) or 25A(1A) of the Customs and Excise Management Act 1979 in circumstances where it is alleged that the person is liable to a penalty of an enhanced amount.
 
-**152.**[^c23545951][^key-df8b1b2d0478ab1b997f3abd34592e65] In section 38 (admissibility of certain statements and documents), omit subsection (3).
+**152.**[^c23545951][^c-df8b1b2d0478ab1b997f3abd34592e65] In section 38 (admissibility of certain statements and documents), omit subsection (3).
 
 #### Income Tax (Trading and Other Income) Act 2005
 
-**153.**[^c23545861][^key-d385a65374c103e830f2d675daaac954] The Income Tax (Trading and Other Income) Act 2005 is amended as follows.
+**153.**[^c23545861][^c-d385a65374c103e830f2d675daaac954] The Income Tax (Trading and Other Income) Act 2005 is amended as follows.
 
-**154.**[^c23545871][^key-531fd4ef194a8301e4ee50374f4ad3af] In section 54 (trading income: penalties, interest and VAT surcharges), in subsection (2), in the entry relating to a penalty under section 25 or 26 of the Finance Act 2003, for “Customs, export and import duties” substitute “ Customs duties ”.
+**154.**[^c23545871][^c-531fd4ef194a8301e4ee50374f4ad3af] In section 54 (trading income: penalties, interest and VAT surcharges), in subsection (2), in the entry relating to a penalty under section 25 or 26 of the Finance Act 2003, for “Customs, export and import duties” substitute “ Customs duties ”.
 
-**155.**[^c23545881][^key-e670a6c8c192ec129447c15674c8c26b] In section 869 (general calculation rules, etc: penalties, interest and VAT surcharges), in subsection (4), in the entry relating to a penalty under section 25 or 26 of the Finance Act 2003, for “Customs, export and import duties” substitute “ Customs duties ”.
+**155.**[^c23545881][^c-e670a6c8c192ec129447c15674c8c26b] In section 869 (general calculation rules, etc: penalties, interest and VAT surcharges), in subsection (4), in the entry relating to a penalty under section 25 or 26 of the Finance Act 2003, for “Customs, export and import duties” substitute “ Customs duties ”.
 
 #### Borders, Citizenship and Immigration Act 2009
 
-**156.**[^c23545841][^key-cb2c7f026fc5f7ff136e77230b1b7bd2] (1) Section 7 of the Borders, Citizenship and Immigration Act 2009 (customs revenue functions of the Director) is amended as follows.
+**156.**[^c23545841][^c-cb2c7f026fc5f7ff136e77230b1b7bd2] (1) Section 7 of the Borders, Citizenship and Immigration Act 2009 (customs revenue functions of the Director) is amended as follows.
 
-(2)[^key-b21091c991ed91d06baa2a54ee75c057] In subsection (2)—
+(2)[^c-b21091c991ed91d06baa2a54ee75c057] In subsection (2)—
 
 - (a) in paragraph (b), for “of Council Regulation [(EC) No 384/96](https://www.legislation.gov.uk/eur/1996/384), as amended from time to time” substitute “ it has in Union customs legislation ”;
 - (b) in paragraph (c) for “of Council Regulation [(EC) No 2026/97](https://www.legislation.gov.uk/eur/1997/2026), as amended from time to time” substitute “ it has in Union customs legislation ”.
@@ -1464,11 +1464,11 @@ is to have effect in relation to import duty.
 - (a) at the end of paragraph (aa) omit “and”, and
 - (b) after paragraph (aa) insert—
 
-  > - (ab) Part 1 and sections 40A and 40B[^key-017010292436f852f3758ba3f3946c15] of the Taxation (Cross-border Trade) Act 2018, and
+  > - (ab) Part 1 and sections 40A and 40B[^c-017010292436f852f3758ba3f3946c15] of the Taxation (Cross-border Trade) Act 2018, and
 
   .
 
-(4)[^key-bc50cc2d4319fe824c773587021c68d8] In subsection (9), in paragraph (c), for “EU law” substitute “ retained EU law, or Union customs legislation, ”.
+(4)[^c-bc50cc2d4319fe824c773587021c68d8] In subsection (9), in paragraph (c), for “EU law” substitute “ retained EU law, or Union customs legislation, ”.
 
 (5) After that subsection insert—
 
@@ -1476,13 +1476,13 @@ is to have effect in relation to import duty.
 
 #### Corporation Tax Act 2009
 
-**157.**[^c23545821][^key-88eb29f889497449ec397e50c8e6e465] In section 1303 of the Corporation Tax Act 2009 (general calculation rules, etc: penalties, interest and VAT surcharges), in subsection (2), in the entry relating to a penalty under section 25 or 26 of the Finance Act 2003, for “Customs, export and import duties” substitute “ Customs duties ”.
+**157.**[^c23545821][^c-88eb29f889497449ec397e50c8e6e465] In section 1303 of the Corporation Tax Act 2009 (general calculation rules, etc: penalties, interest and VAT surcharges), in subsection (2), in the entry relating to a penalty under section 25 or 26 of the Finance Act 2003, for “Customs, export and import duties” substitute “ Customs duties ”.
 
-### PART 4 — Savings and modifications in relation to Northern Ireland[^key-e6c90e614ad1f185cdfe4320a349df92]
+### PART 4 — Savings and modifications in relation to Northern Ireland[^c-e6c90e614ad1f185cdfe4320a349df92]
 
 #### Application of CEMA 1979 etc
 
-**158.**[^key-10dd45334a9b403d2bee6ff9942850ac] (1) CEMA 1979—
+**158.**[^c-10dd45334a9b403d2bee6ff9942850ac] (1) CEMA 1979—
 
 - (a) continues to have effect, for any purpose in connection with duty under section 30A(3), as if the amendments made by Part 2 of this Schedule, other than the amendments made by paragraphs 4(4), 93 and 114, were not made, and
 - (b) applies for any such purpose as if—
@@ -1584,660 +1584,660 @@ is to have effect in relation to import duty.
 
 [^c23545391]: Commencement: Sch. 7 para. 1 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-e70c0af06c0ca065efd452857eb43255]: Commencement: Sch. 7 para. 1 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-e70c0af06c0ca065efd452857eb43255]: Commencement: Sch. 7 para. 1 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-32bae3ea963c5c796d79c02bd300de2d]: Commencement: Sch. 7 para. 1 in force at 31.12.2020 immediately after 2018 c. 16, s. 3 comes into force in so far as it relates to EU trade duties by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 3](https://www.legislation.gov.uk/uksi/2019/429/regulation/3); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/b)
+[^c-32bae3ea963c5c796d79c02bd300de2d]: Commencement: Sch. 7 para. 1 in force at 31.12.2020 immediately after 2018 c. 16, s. 3 comes into force in so far as it relates to EU trade duties by [S.I. 2019/429](https://www.legislation.gov.uk/uksi/2019/429), [reg. 3](https://www.legislation.gov.uk/uksi/2019/429/regulation/3); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/b)
 
 [^c23545401]: Commencement: Sch. 7 para. 2 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-3a488a785b6c2dd9193cb04ea6c8d7a2]: Commencement: Sch. 7 para. 2 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-3a488a785b6c2dd9193cb04ea6c8d7a2]: Commencement: Sch. 7 para. 2 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23454871]: Commencement: Sch. 7 para. 3 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-5fae14504739ad3249e498a86abbcf16]: Commencement: Sch. 7 para. 3 in force at 8.4.2019 for specified purposes by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/2) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/3))
+[^c-5fae14504739ad3249e498a86abbcf16]: Commencement: Sch. 7 para. 3 in force at 8.4.2019 for specified purposes by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/2) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/3))
 
-[^key-d978888f4b80d9bfd722a4bb65921f68]: Commencement: Sch. 7 para. 3 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-d978888f4b80d9bfd722a4bb65921f68]: Commencement: Sch. 7 para. 3 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23454881]: Commencement: Sch. 7 para. 4 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-44365c6755fbfa030f124bb78d17b591]: Commencement: Sch. 7 para. 4 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-44365c6755fbfa030f124bb78d17b591]: Commencement: Sch. 7 para. 4 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23454891]: Commencement: Sch. 7 para. 5 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-007975450025c781404aa826fae7228c]: Commencement: Sch. 7 para. 5 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-007975450025c781404aa826fae7228c]: Commencement: Sch. 7 para. 5 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23454901]: Commencement: Sch. 7 para. 6 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-68ad7f9e9786b2755a334d661d647df5]: Commencement: Sch. 7 para. 6 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-68ad7f9e9786b2755a334d661d647df5]: Commencement: Sch. 7 para. 6 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23454911]: Commencement: Sch. 7 para. 7 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-819bfbe24351ed7947408bd7bb5fdf62]: Commencement: Sch. 7 para. 7 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-819bfbe24351ed7947408bd7bb5fdf62]: Commencement: Sch. 7 para. 7 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23454921]: Commencement: Sch. 7 para. 8 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-3cdf672b7c3486967fab198fde82b026]: Commencement: Sch. 7 para. 8 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-3cdf672b7c3486967fab198fde82b026]: Commencement: Sch. 7 para. 8 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-ebf53ab5babcbd3e914d8341428b0f91]: Textual amendment: Sch. 7 para. 8(2) omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 20(3)(c)](https://www.legislation.gov.uk/ukpga/2020/29/section/20/3/c), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/s)
+[^c-ebf53ab5babcbd3e914d8341428b0f91]: Textual amendment: Sch. 7 para. 8(2) omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 20(3)(c)](https://www.legislation.gov.uk/ukpga/2020/29/section/20/3/c), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/s)
 
 [^c23454931]: Commencement: Sch. 7 para. 9 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-79004222df126854c9e962a3aacd4793]: Commencement: Sch. 7 para. 9 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-79004222df126854c9e962a3aacd4793]: Commencement: Sch. 7 para. 9 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23454941]: Commencement: Sch. 7 para. 10 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-6ceaed6aa28e56a9b942558340f9685d]: Commencement: Sch. 7 para. 10 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-6ceaed6aa28e56a9b942558340f9685d]: Commencement: Sch. 7 para. 10 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455101]: Commencement: Sch. 7 para. 11 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-426da32bdfe52936c06a235167b2a230]: Commencement: Sch. 7 para. 11 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-426da32bdfe52936c06a235167b2a230]: Commencement: Sch. 7 para. 11 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455111]: Commencement: Sch. 7 para. 12 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-d04987a12f1d42720f182576e932e677]: Commencement: Sch. 7 para. 12 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-d04987a12f1d42720f182576e932e677]: Commencement: Sch. 7 para. 12 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455121]: Commencement: Sch. 7 para. 13 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-1de703d89e01653a7857eb2e2d667fa2]: Commencement: Sch. 7 para. 13 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-1de703d89e01653a7857eb2e2d667fa2]: Commencement: Sch. 7 para. 13 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455131]: Commencement: Sch. 7 para. 14 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-5da2fa06d25d6dcf0bf59a5a7d18a22d]: Commencement: Sch. 7 para. 14 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-5da2fa06d25d6dcf0bf59a5a7d18a22d]: Commencement: Sch. 7 para. 14 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455141]: Commencement: Sch. 7 para. 15 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-d5b37ae68e7dc8b39c2d8cce5bd1b596]: Commencement: Sch. 7 para. 15 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-d5b37ae68e7dc8b39c2d8cce5bd1b596]: Commencement: Sch. 7 para. 15 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455151]: Commencement: Sch. 7 para. 16 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-e41628d6240e95f1129a7f75eb142a0e]: Commencement: Sch. 7 para. 16(1) in force at 8.4.2019 for specified purposes by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/1/a) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/3))
+[^c-e41628d6240e95f1129a7f75eb142a0e]: Commencement: Sch. 7 para. 16(1) in force at 8.4.2019 for specified purposes by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/1/a) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/3))
 
-[^key-8f04eb9a7705454ac5e634ef642acf68]: Commencement: Sch. 7 para. 16(1), (2)(b), (4)-(6) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-8f04eb9a7705454ac5e634ef642acf68]: Commencement: Sch. 7 para. 16(1), (2)(b), (4)-(6) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-703e065af6b65ca0aec4cc0ff9c8f095]: Commencement: Sch. 7 para. 16(2)(a) in force at 8.4.2019 in so far as not already in force by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/1/b) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/3))
+[^c-703e065af6b65ca0aec4cc0ff9c8f095]: Commencement: Sch. 7 para. 16(2)(a) in force at 8.4.2019 in so far as not already in force by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/1/b) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/3))
 
-[^key-98592c07aa0ffea77ca429e164e5b249]: Commencement: Sch. 7 para. 16(3) in force at 8.4.2019 in so far as not already in force by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/1/c) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/3))
+[^c-98592c07aa0ffea77ca429e164e5b249]: Commencement: Sch. 7 para. 16(3) in force at 8.4.2019 in so far as not already in force by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/1/c) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/3))
 
 [^c23455431]: Commencement: Sch. 7 para. 17 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-ad8aaf092d0d002536c56fb049dc1fc8]: Commencement: Sch. 7 para. 17 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-ad8aaf092d0d002536c56fb049dc1fc8]: Commencement: Sch. 7 para. 17 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455441]: Commencement: Sch. 7 para. 18 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-d02d83dbb34ab412320a5edce70b0d3c]: Commencement: Sch. 7 para. 18 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-d02d83dbb34ab412320a5edce70b0d3c]: Commencement: Sch. 7 para. 18 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455451]: Commencement: Sch. 7 para. 19 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-b729ca30a8bf4f6efaeb88e537275712]: Commencement: Sch. 7 para. 19 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-b729ca30a8bf4f6efaeb88e537275712]: Commencement: Sch. 7 para. 19 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455461]: Commencement: Sch. 7 para. 20 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-6c7210f6f4d0de5e51200167c5ff4596]: Commencement: Sch. 7 para. 20 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-6c7210f6f4d0de5e51200167c5ff4596]: Commencement: Sch. 7 para. 20 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455471]: Commencement: Sch. 7 para. 21 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-1ce4a1dfde7782d2374b3d9398527e4f]: Commencement: Sch. 7 para. 21 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-1ce4a1dfde7782d2374b3d9398527e4f]: Commencement: Sch. 7 para. 21 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455481]: Commencement: Sch. 7 para. 22 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-627f785dc0acc03ce7ee335341c14fb5]: Commencement: Sch. 7 para. 22 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-627f785dc0acc03ce7ee335341c14fb5]: Commencement: Sch. 7 para. 22 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455491]: Commencement: Sch. 7 para. 23 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-7057f0048d93fbb18595d2171704b0ae]: Commencement: Sch. 7 para. 23 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-7057f0048d93fbb18595d2171704b0ae]: Commencement: Sch. 7 para. 23 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455501]: Commencement: Sch. 7 para. 24 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-6060ab5acb59e1dbf0dbe61fb98cb1e9]: Commencement: Sch. 7 para. 24 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-6060ab5acb59e1dbf0dbe61fb98cb1e9]: Commencement: Sch. 7 para. 24 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455511]: Commencement: Sch. 7 para. 25 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-25f9018476d5d5e3512fa487637d4a6d]: Commencement: Sch. 7 para. 25 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-25f9018476d5d5e3512fa487637d4a6d]: Commencement: Sch. 7 para. 25 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455521]: Commencement: Sch. 7 para. 26 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-9e11d08d8b4209ca279856ef90f12021]: Commencement: Sch. 7 para. 26 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-9e11d08d8b4209ca279856ef90f12021]: Commencement: Sch. 7 para. 26 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455531]: Commencement: Sch. 7 para. 27 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-e85002a2e5c18ab66819e8e66fd5c59e]: Commencement: Sch. 7 para. 27 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-e85002a2e5c18ab66819e8e66fd5c59e]: Commencement: Sch. 7 para. 27 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455541]: Commencement: Sch. 7 para. 28 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-3a7af760d10308a4d4bca5e8b502c0af]: Commencement: Sch. 7 para. 28 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-3a7af760d10308a4d4bca5e8b502c0af]: Commencement: Sch. 7 para. 28 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455551]: Commencement: Sch. 7 para. 29 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-5fe9d69247f27ae30ee2c3cae3a22ee7]: Commencement: Sch. 7 para. 29 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-5fe9d69247f27ae30ee2c3cae3a22ee7]: Commencement: Sch. 7 para. 29 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455561]: Commencement: Sch. 7 para. 30 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-99ebe364cf182243ab393c2cff8e202d]: Commencement: Sch. 7 para. 30 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-99ebe364cf182243ab393c2cff8e202d]: Commencement: Sch. 7 para. 30 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455831]: Commencement: Sch. 7 para. 31 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-058a0edf5c8ce4c405ae7ba7736e69ba]: Commencement: Sch. 7 para. 31 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-058a0edf5c8ce4c405ae7ba7736e69ba]: Commencement: Sch. 7 para. 31 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455841]: Commencement: Sch. 7 para. 32 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-1b6f9ceae189322aac1535b531878de8]: Commencement: Sch. 7 para. 32 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-1b6f9ceae189322aac1535b531878de8]: Commencement: Sch. 7 para. 32 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455851]: Commencement: Sch. 7 para. 33 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-e221c92273eb37497560cead9a58bb86]: Commencement: Sch. 7 para. 33 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-e221c92273eb37497560cead9a58bb86]: Commencement: Sch. 7 para. 33 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-c581c42204fc796c33393ef8544b56a7]: Textual amendment: Sch. 7 para. 33 substituted (16.12.2020) by [The Taxation Cross-border Trade (Special Procedures Supplementary and General Provision etc.) (EU Exit) Regulations 2020 (S.I. 2020/1439)](https://www.legislation.gov.uk/uksi/2020/1439), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/1/3/c), [5(3)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/5/3)
+[^c-c581c42204fc796c33393ef8544b56a7]: Textual amendment: Sch. 7 para. 33 substituted (16.12.2020) by [The Taxation Cross-border Trade (Special Procedures Supplementary and General Provision etc.) (EU Exit) Regulations 2020 (S.I. 2020/1439)](https://www.legislation.gov.uk/uksi/2020/1439), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/1/3/c), [5(3)](https://www.legislation.gov.uk/uksi/2020/1439/regulation/5/3)
 
 [^c23455861]: Commencement: Sch. 7 para. 34 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-b77b0de551127a8def2916ef4e78cb83]: Commencement: Sch. 7 para. 34 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-b77b0de551127a8def2916ef4e78cb83]: Commencement: Sch. 7 para. 34 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455871]: Commencement: Sch. 7 para. 35 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-fb5b105b614d919f35e29b1ffa18e564]: Commencement: Sch. 7 para. 35 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-fb5b105b614d919f35e29b1ffa18e564]: Commencement: Sch. 7 para. 35 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455881]: Commencement: Sch. 7 para. 36 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-249f6fa3431bc853a0fb4283543d1a36]: Commencement: Sch. 7 para. 36 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-249f6fa3431bc853a0fb4283543d1a36]: Commencement: Sch. 7 para. 36 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455891]: Commencement: Sch. 7 para. 37 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-4c6a9721f2591c51a19ad2f67dc0bd6d]: Commencement: Sch. 7 para. 37 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-4c6a9721f2591c51a19ad2f67dc0bd6d]: Commencement: Sch. 7 para. 37 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455901]: Commencement: Sch. 7 para. 38 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-21af689710c1bd1c541d37225ecedbc5]: Commencement: Sch. 7 para. 38 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-21af689710c1bd1c541d37225ecedbc5]: Commencement: Sch. 7 para. 38 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455911]: Commencement: Sch. 7 para. 39 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-7d5a7a219bd5af47ad55ea3d54a756fd]: Commencement: Sch. 7 para. 39 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-7d5a7a219bd5af47ad55ea3d54a756fd]: Commencement: Sch. 7 para. 39 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455921]: Commencement: Sch. 7 para. 40 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-41add57d92ae58daddabc2ad551e6355]: Commencement: Sch. 7 para. 40 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-41add57d92ae58daddabc2ad551e6355]: Commencement: Sch. 7 para. 40 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456091]: Commencement: Sch. 7 para. 41 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-f613fb904f44d52cdc068ea819614e5a]: Commencement: Sch. 7 para. 41 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-f613fb904f44d52cdc068ea819614e5a]: Commencement: Sch. 7 para. 41 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456101]: Commencement: Sch. 7 para. 42 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-8c9b486fe8d9e81468b1c76f9fa54643]: Commencement: Sch. 7 para. 42 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-8c9b486fe8d9e81468b1c76f9fa54643]: Commencement: Sch. 7 para. 42 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456111]: Commencement: Sch. 7 para. 43 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-55001dafda3d11e146772c6cecc4c2e0]: Commencement: Sch. 7 para. 43 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-55001dafda3d11e146772c6cecc4c2e0]: Commencement: Sch. 7 para. 43 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456121]: Commencement: Sch. 7 para. 44 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-7d97a2f775c2b7e44f41507abf0ead52]: Commencement: Sch. 7 para. 44 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-7d97a2f775c2b7e44f41507abf0ead52]: Commencement: Sch. 7 para. 44 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456131]: Commencement: Sch. 7 para. 45 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-f90e1f65f26f5a831fc25acb77def76b]: Commencement: Sch. 7 para. 45 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-f90e1f65f26f5a831fc25acb77def76b]: Commencement: Sch. 7 para. 45 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456141]: Commencement: Sch. 7 para. 46 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-4ba37616c5f81d593dd467e46fce8c82]: Commencement: Sch. 7 para. 46 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-4ba37616c5f81d593dd467e46fce8c82]: Commencement: Sch. 7 para. 46 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456151]: Commencement: Sch. 7 para. 47 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-9a9e62562281979e907ae92afaf66956]: Commencement: Sch. 7 para. 47 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-9a9e62562281979e907ae92afaf66956]: Commencement: Sch. 7 para. 47 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456161]: Commencement: Sch. 7 para. 48 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-4998ff94df01b89b0a771514a3856c01]: Commencement: Sch. 7 para. 48 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-4998ff94df01b89b0a771514a3856c01]: Commencement: Sch. 7 para. 48 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456171]: Commencement: Sch. 7 para. 49 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-ddb5caf361a2d11a88c37b28b69a92df]: Commencement: Sch. 7 para. 49 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-ddb5caf361a2d11a88c37b28b69a92df]: Commencement: Sch. 7 para. 49 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456181]: Commencement: Sch. 7 para. 50 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-4fe371c28aabd71f9d130496d3f51001]: Commencement: Sch. 7 para. 50 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-4fe371c28aabd71f9d130496d3f51001]: Commencement: Sch. 7 para. 50 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456191]: Commencement: Sch. 7 para. 51 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-dd27513bff6c580231894d17a2864eec]: Commencement: Sch. 7 para. 51 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-dd27513bff6c580231894d17a2864eec]: Commencement: Sch. 7 para. 51 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456201]: Commencement: Sch. 7 para. 52 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-9c32de9b2352628c1b261aeffc6fbcbb]: Commencement: Sch. 7 para. 52 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-9c32de9b2352628c1b261aeffc6fbcbb]: Commencement: Sch. 7 para. 52 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456211]: Commencement: Sch. 7 para. 53 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-218574bf4c9852bb18471083b31173cb]: Commencement: Sch. 7 para. 53 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-218574bf4c9852bb18471083b31173cb]: Commencement: Sch. 7 para. 53 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456221]: Commencement: Sch. 7 para. 54 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-9ce363445b5a59d4e8b603edb0f11794]: Commencement: Sch. 7 para. 54 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-9ce363445b5a59d4e8b603edb0f11794]: Commencement: Sch. 7 para. 54 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456231]: Commencement: Sch. 7 para. 55 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-5136c9b6056277063f87ab73a84d8129]: Commencement: Sch. 7 para. 55 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-5136c9b6056277063f87ab73a84d8129]: Commencement: Sch. 7 para. 55 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456241]: Commencement: Sch. 7 para. 56 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-a44cabfcd2d42e761ca5b985c8942b5d]: Commencement: Sch. 7 para. 56 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-a44cabfcd2d42e761ca5b985c8942b5d]: Commencement: Sch. 7 para. 56 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456251]: Commencement: Sch. 7 para. 57 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-8543c27cf35a3ab6f68ef31ff847b827]: Commencement: Sch. 7 para. 57 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-8543c27cf35a3ab6f68ef31ff847b827]: Commencement: Sch. 7 para. 57 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456261]: Commencement: Sch. 7 para. 58 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-8ea0d24ec941e526b875c7002233d454]: Commencement: Sch. 7 para. 58 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-8ea0d24ec941e526b875c7002233d454]: Commencement: Sch. 7 para. 58 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456271]: Commencement: Sch. 7 para. 59 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-460e3e67a589a922aa9c49f620178435]: Commencement: Sch. 7 para. 59 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-460e3e67a589a922aa9c49f620178435]: Commencement: Sch. 7 para. 59 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456281]: Commencement: Sch. 7 para. 60 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-a0338ac344dccb102bcf4363cb23fc00]: Commencement: Sch. 7 para. 60 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-a0338ac344dccb102bcf4363cb23fc00]: Commencement: Sch. 7 para. 60 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456291]: Commencement: Sch. 7 para. 61 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-4f20e357224a49add2f7f1ea9c98a326]: Commencement: Sch. 7 para. 61 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-4f20e357224a49add2f7f1ea9c98a326]: Commencement: Sch. 7 para. 61 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456301]: Commencement: Sch. 7 para. 62 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-10daaec07f4dbd0fdeddfb56e413c142]: Commencement: Sch. 7 para. 62 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-10daaec07f4dbd0fdeddfb56e413c142]: Commencement: Sch. 7 para. 62 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456311]: Commencement: Sch. 7 para. 63 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-e7e5f6655ccdd7df959d5f4a5aa19156]: Commencement: Sch. 7 para. 63 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-e7e5f6655ccdd7df959d5f4a5aa19156]: Commencement: Sch. 7 para. 63 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545721]: Commencement: Sch. 7 para. 64 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-fb9f218cb2e09639a3348f38a0b6afd3]: Commencement: Sch. 7 para. 64 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-fb9f218cb2e09639a3348f38a0b6afd3]: Commencement: Sch. 7 para. 64 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545731]: Commencement: Sch. 7 para. 65 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-8c50ba1a944daff628f3fdd33b8dcacb]: Commencement: Sch. 7 para. 65 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-8c50ba1a944daff628f3fdd33b8dcacb]: Commencement: Sch. 7 para. 65 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545741]: Commencement: Sch. 7 para. 66 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-e62cf4fe99530b98a19dd021095f03f9]: Commencement: Sch. 7 para. 66 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-e62cf4fe99530b98a19dd021095f03f9]: Commencement: Sch. 7 para. 66 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545751]: Commencement: Sch. 7 para. 67 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-18d063aa2300fd554ee44b8ff1b3de9b]: Commencement: Sch. 7 para. 67 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-18d063aa2300fd554ee44b8ff1b3de9b]: Commencement: Sch. 7 para. 67 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456641]: Commencement: Sch. 7 para. 68 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-362a8b03bc7ba225b4155b1bc92ffad5]: Commencement: Sch. 7 para. 68 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-362a8b03bc7ba225b4155b1bc92ffad5]: Commencement: Sch. 7 para. 68 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456651]: Commencement: Sch. 7 para. 69 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-1962f8b9713ddfdfa43387050bbd5297]: Commencement: Sch. 7 para. 69 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-1962f8b9713ddfdfa43387050bbd5297]: Commencement: Sch. 7 para. 69 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456661]: Commencement: Sch. 7 para. 70 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-4659724063f83f9635349c0babb99c94]: Commencement: Sch. 7 para. 70 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-4659724063f83f9635349c0babb99c94]: Commencement: Sch. 7 para. 70 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456671]: Commencement: Sch. 7 para. 71 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-b9bba036c7c99ebed250ec43d708f6a4]: Commencement: Sch. 7 para. 71 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-b9bba036c7c99ebed250ec43d708f6a4]: Commencement: Sch. 7 para. 71 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456681]: Commencement: Sch. 7 para. 72 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-564bfe265f8d1da3a0bdbb6f6f2fb6c1]: Commencement: Sch. 7 para. 72 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-564bfe265f8d1da3a0bdbb6f6f2fb6c1]: Commencement: Sch. 7 para. 72 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456691]: Commencement: Sch. 7 para. 73 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-c07a22a9387b1f9c243de213111567ae]: Commencement: Sch. 7 para. 73 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-c07a22a9387b1f9c243de213111567ae]: Commencement: Sch. 7 para. 73 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456701]: Commencement: Sch. 7 para. 74 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-2ce1175a268a28c8ef71647934dd4ba9]: Commencement: Sch. 7 para. 74 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-2ce1175a268a28c8ef71647934dd4ba9]: Commencement: Sch. 7 para. 74 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456711]: Commencement: Sch. 7 para. 75 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-d87a726305ad4499d7598969505d1f08]: Commencement: Sch. 7 para. 75 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-d87a726305ad4499d7598969505d1f08]: Commencement: Sch. 7 para. 75 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456721]: Commencement: Sch. 7 para. 76 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-20d285903c48ce1eca974176b3717691]: Commencement: Sch. 7 para. 76 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-20d285903c48ce1eca974176b3717691]: Commencement: Sch. 7 para. 76 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456731]: Commencement: Sch. 7 para. 77 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-06873f4b0eedac94ade1ac0d31de3f4f]: Commencement: Sch. 7 para. 77 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-06873f4b0eedac94ade1ac0d31de3f4f]: Commencement: Sch. 7 para. 77 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456741]: Commencement: Sch. 7 para. 78 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-461881b9429a5061debc8dcd12e4f23d]: Commencement: Sch. 7 para. 78 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-461881b9429a5061debc8dcd12e4f23d]: Commencement: Sch. 7 para. 78 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456751]: Commencement: Sch. 7 para. 79 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-adbedf0750d89f679ef90ebc0e23ca39]: Commencement: Sch. 7 para. 79 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-adbedf0750d89f679ef90ebc0e23ca39]: Commencement: Sch. 7 para. 79 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456761]: Commencement: Sch. 7 para. 80 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-fa46bc0f993a7b3e559aced192649303]: Commencement: Sch. 7 para. 80 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-fa46bc0f993a7b3e559aced192649303]: Commencement: Sch. 7 para. 80 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456771]: Commencement: Sch. 7 para. 81 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-930e5bd393f3832adf3f6d731bee26ef]: Commencement: Sch. 7 para. 81 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-930e5bd393f3832adf3f6d731bee26ef]: Commencement: Sch. 7 para. 81 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23456781]: Commencement: Sch. 7 para. 82 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-68748a6f22cbb4e2b9f49d34f07bf908]: Commencement: Sch. 7 para. 82 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-68748a6f22cbb4e2b9f49d34f07bf908]: Commencement: Sch. 7 para. 82 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545411]: Commencement: Sch. 7 para. 83 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-0d2d30132b96493451f1c3d3a84e069f]: Commencement: Sch. 7 para. 83 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-0d2d30132b96493451f1c3d3a84e069f]: Commencement: Sch. 7 para. 83 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545421]: Commencement: Sch. 7 para. 84 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-97be1aa5f71ede01cacefc89d72f65e9]: Commencement: Sch. 7 para. 84 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-97be1aa5f71ede01cacefc89d72f65e9]: Commencement: Sch. 7 para. 84 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545431]: Commencement: Sch. 7 para. 85 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-205f541e2e7738afc6533080ad594a1e]: Commencement: Sch. 7 para. 85 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-205f541e2e7738afc6533080ad594a1e]: Commencement: Sch. 7 para. 85 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545441]: Commencement: Sch. 7 para. 86 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-e4b0f02e84b72225a45f1c2d349ef727]: Commencement: Sch. 7 para. 86 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-e4b0f02e84b72225a45f1c2d349ef727]: Commencement: Sch. 7 para. 86 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545451]: Commencement: Sch. 7 para. 87 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-827d140562d07910298e83e22c90ee1f]: Commencement: Sch. 7 para. 87 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-827d140562d07910298e83e22c90ee1f]: Commencement: Sch. 7 para. 87 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545461]: Commencement: Sch. 7 para. 88 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-2612598f676a37b2d6f4df8db83e2558]: Commencement: Sch. 7 para. 88 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-2612598f676a37b2d6f4df8db83e2558]: Commencement: Sch. 7 para. 88 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545471]: Commencement: Sch. 7 para. 89 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-4222d99241e24c6f57c222b8687bd3ac]: Commencement: Sch. 7 para. 89 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-4222d99241e24c6f57c222b8687bd3ac]: Commencement: Sch. 7 para. 89 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-cdb0b1d3cfe323838db8be9c39d5ff6e]: Textual amendment: [Sch. 7 para. 90](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/90) omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 318(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/318/4)
+[^c-cdb0b1d3cfe323838db8be9c39d5ff6e]: Textual amendment: [Sch. 7 para. 90](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/90) omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 318(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/318/4)
 
 [^c23545491]: Commencement: Sch. 7 para. 91 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-39534e06959d31ee6a5201a45a85f51a]: Commencement: Sch. 7 para. 91 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-39534e06959d31ee6a5201a45a85f51a]: Commencement: Sch. 7 para. 91 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545501]: Commencement: Sch. 7 para. 92 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-20395ced62469378d3f9a25957d19a17]: Commencement: Sch. 7 para. 92 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-20395ced62469378d3f9a25957d19a17]: Commencement: Sch. 7 para. 92 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545511]: Commencement: Sch. 7 para. 93 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-448f3074f897e94c01f8113a8e483a03]: Commencement: Sch. 7 para. 93 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-448f3074f897e94c01f8113a8e483a03]: Commencement: Sch. 7 para. 93 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545521]: Commencement: Sch. 7 para. 94 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-04397749d5bac57b0bfada21506ceb14]: Commencement: Sch. 7 para. 94 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-04397749d5bac57b0bfada21506ceb14]: Commencement: Sch. 7 para. 94 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545531]: Commencement: Sch. 7 para. 95 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-efdccd80403c5532284f77dcb2fe0451]: Commencement: Sch. 7 para. 95 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-efdccd80403c5532284f77dcb2fe0451]: Commencement: Sch. 7 para. 95 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545541]: Commencement: Sch. 7 para. 96 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-aff19875216fbcf127bd8564d0208926]: Commencement: Sch. 7 para. 96 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-aff19875216fbcf127bd8564d0208926]: Commencement: Sch. 7 para. 96 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545551]: Commencement: Sch. 7 para. 97 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-e493450f58d03fa9ac44071926d69069]: Commencement: Sch. 7 para. 97 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-e493450f58d03fa9ac44071926d69069]: Commencement: Sch. 7 para. 97 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545561]: Commencement: Sch. 7 para. 98 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-b41df9199f50de91f69e886ce9384544]: Commencement: Sch. 7 para. 98 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-b41df9199f50de91f69e886ce9384544]: Commencement: Sch. 7 para. 98 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545571]: Commencement: Sch. 7 para. 99 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-9267ba8157f684ead031d086e6d7a5bf]: Commencement: Sch. 7 para. 99 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-9267ba8157f684ead031d086e6d7a5bf]: Commencement: Sch. 7 para. 99 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545581]: Commencement: Sch. 7 para. 100 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-d978791d4142363e406b3e0645b37227]: Commencement: Sch. 7 para. 100 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-d978791d4142363e406b3e0645b37227]: Commencement: Sch. 7 para. 100 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545591]: Commencement: Sch. 7 para. 101 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-f8e6e458739e5a05402e37687b222beb]: Commencement: Sch. 7 para. 101 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-f8e6e458739e5a05402e37687b222beb]: Commencement: Sch. 7 para. 101 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545601]: Commencement: Sch. 7 para. 102 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-49b63821b82c19ce746ebb4965c1511a]: Commencement: Sch. 7 para. 102 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-49b63821b82c19ce746ebb4965c1511a]: Commencement: Sch. 7 para. 102 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545611]: Commencement: Sch. 7 para. 103 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-10e890703e3809dfc0b929a5f47f493a]: Commencement: Sch. 7 para. 103 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-10e890703e3809dfc0b929a5f47f493a]: Commencement: Sch. 7 para. 103 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545621]: Commencement: Sch. 7 para. 104 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-6f96f91423e8ae72b4de00e041dae2ea]: Commencement: Sch. 7 para. 104 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-6f96f91423e8ae72b4de00e041dae2ea]: Commencement: Sch. 7 para. 104 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545631]: Commencement: Sch. 7 para. 105 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-02b43c314cdd5036c330de31dc07bc32]: Commencement: Sch. 7 para. 105 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-02b43c314cdd5036c330de31dc07bc32]: Commencement: Sch. 7 para. 105 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545641]: Commencement: Sch. 7 para. 106 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-fee447cd415fdcb6c972953ecc8c3b40]: Commencement: Sch. 7 para. 106 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-fee447cd415fdcb6c972953ecc8c3b40]: Commencement: Sch. 7 para. 106 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545651]: Commencement: Sch. 7 para. 107 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-79452a492b54f008dbbd839296b8af87]: Commencement: Sch. 7 para. 107 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-79452a492b54f008dbbd839296b8af87]: Commencement: Sch. 7 para. 107 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545661]: Commencement: Sch. 7 para. 108 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-5565909f689a9df6c78d06194617a553]: Commencement: Sch. 7 para. 108 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-5565909f689a9df6c78d06194617a553]: Commencement: Sch. 7 para. 108 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545671]: Commencement: Sch. 7 para. 109 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-4c3f6c15e98780c52013764759046b2a]: Commencement: Sch. 7 para. 109 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-4c3f6c15e98780c52013764759046b2a]: Commencement: Sch. 7 para. 109 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545681]: Commencement: Sch. 7 para. 110 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-1c19287c2aa3f55026af2b0d3e4a79de]: Commencement: Sch. 7 para. 110 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-1c19287c2aa3f55026af2b0d3e4a79de]: Commencement: Sch. 7 para. 110 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455161]: Commencement: Sch. 7 para. 111 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-f4867cf36c45c31678386eb9e9b27625]: Commencement: Sch. 7 para. 111 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-f4867cf36c45c31678386eb9e9b27625]: Commencement: Sch. 7 para. 111 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455171]: Commencement: Sch. 7 para. 112 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-245f59a4ad853b035acb24f7580faaf5]: Commencement: Sch. 7 para. 112 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-245f59a4ad853b035acb24f7580faaf5]: Commencement: Sch. 7 para. 112 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455181]: Commencement: Sch. 7 para. 113 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-1a891af0f2dac352103e4b9ecf3515c2]: Commencement: Sch. 7 para. 113 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-1a891af0f2dac352103e4b9ecf3515c2]: Commencement: Sch. 7 para. 113 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455191]: Commencement: Sch. 7 para. 114 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-d8d81d77f8176d50d5b8797d1a8c86a5]: Commencement: Sch. 7 para. 114 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-d8d81d77f8176d50d5b8797d1a8c86a5]: Commencement: Sch. 7 para. 114 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-e64f2c9832130a6655016f3cd4ba93ab]: Textual amendment: Words in Sch. 7 para. 114 inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/2) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-e64f2c9832130a6655016f3cd4ba93ab]: Textual amendment: Words in Sch. 7 para. 114 inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/2) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c23455201]: Commencement: Sch. 7 para. 115 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-9cecb2afaa88e885518bb2b00dd15ec0]: Commencement: Sch. 7 para. 115 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-9cecb2afaa88e885518bb2b00dd15ec0]: Commencement: Sch. 7 para. 115 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455211]: Commencement: Sch. 7 para. 116 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-516d5a2110144241ccbf67ede855377b]: Commencement: Sch. 7 para. 116 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-516d5a2110144241ccbf67ede855377b]: Commencement: Sch. 7 para. 116 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23455221]: Commencement: Sch. 7 para. 117 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-050af5ddf46c45dea4c1279a060d6866]: Commencement: Sch. 7 para. 117 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-050af5ddf46c45dea4c1279a060d6866]: Commencement: Sch. 7 para. 117 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545761]: Commencement: Sch. 7 para. 118 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-7fdf98b1752cd6270599802824ec0996]: Commencement: Sch. 7 para. 118 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-7fdf98b1752cd6270599802824ec0996]: Commencement: Sch. 7 para. 118 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545771]: Commencement: Sch. 7 para. 119 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-01818ab9002c2b4197a1165e49adee7a]: Commencement: Sch. 7 para. 119 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-01818ab9002c2b4197a1165e49adee7a]: Commencement: Sch. 7 para. 119 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545781]: Commencement: Sch. 7 para. 120 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-9699622646d2f5d2ddece366bcd08b10]: Commencement: Sch. 7 para. 120 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-9699622646d2f5d2ddece366bcd08b10]: Commencement: Sch. 7 para. 120 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545791]: Commencement: Sch. 7 para. 121 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-8759c501482c5fb949fe5d53790cf766]: Commencement: Sch. 7 para. 121 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-8759c501482c5fb949fe5d53790cf766]: Commencement: Sch. 7 para. 121 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546181]: Commencement: Sch. 7 para. 122 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-d39863f0db2b6a807de1758d2ce2ace9]: Commencement: Sch. 7 para. 122 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-d39863f0db2b6a807de1758d2ce2ace9]: Commencement: Sch. 7 para. 122 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545801]: Commencement: Sch. 7 para. 123 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-4f8bb28eb613b5e5b0068a8364daecf9]: Commencement: Sch. 7 para. 123 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-4f8bb28eb613b5e5b0068a8364daecf9]: Commencement: Sch. 7 para. 123 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545811]: Commencement: Sch. 7 para. 124 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-e4e6430cefeeb8b88789cf23b113844b]: Commencement: Sch. 7 para. 124 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-e4e6430cefeeb8b88789cf23b113844b]: Commencement: Sch. 7 para. 124 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545851]: Commencement: Sch. 7 para. 125 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-abdb3d8393646d1cfad5a84068390f04]: Commencement: Sch. 7 para. 125 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-abdb3d8393646d1cfad5a84068390f04]: Commencement: Sch. 7 para. 125 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545961]: Commencement: Sch. 7 para. 126 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-2a59967b02ecc9eee1bc095bf5df2216]: Commencement: Sch. 7 para. 126 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-2a59967b02ecc9eee1bc095bf5df2216]: Commencement: Sch. 7 para. 126 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545971]: Commencement: Sch. 7 para. 127 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-beb38eaef9f6f2bf78ab31111e529af5]: Commencement: Sch. 7 para. 127 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-beb38eaef9f6f2bf78ab31111e529af5]: Commencement: Sch. 7 para. 127 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546081]: Commencement: Sch. 7 para. 128 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-5731c3ccb21b5a38eb4b33b451e6ca0c]: Commencement: Sch. 7 para. 128 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-5731c3ccb21b5a38eb4b33b451e6ca0c]: Commencement: Sch. 7 para. 128 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546091]: Commencement: Sch. 7 para. 129 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-cdd39b5de72d484fa8d2f7978d400cc7]: Commencement: Sch. 7 para. 129 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-cdd39b5de72d484fa8d2f7978d400cc7]: Commencement: Sch. 7 para. 129 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546021]: Commencement: Sch. 7 para. 130 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-7c1b26c113bf21b203adc9f8d78d5f86]: Commencement: Sch. 7 para. 130 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-7c1b26c113bf21b203adc9f8d78d5f86]: Commencement: Sch. 7 para. 130 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546011]: Commencement: Sch. 7 para. 131 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-c7283f450373a1972b535df4d0224c20]: Commencement: Sch. 7 para. 131 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-c7283f450373a1972b535df4d0224c20]: Commencement: Sch. 7 para. 131 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546001]: Commencement: Sch. 7 para. 132 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-ffd7a4a8ad062d014e8cf6f8b194fc78]: Commencement: Sch. 7 para. 132 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-ffd7a4a8ad062d014e8cf6f8b194fc78]: Commencement: Sch. 7 para. 132 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545981]: Commencement: Sch. 7 para. 133 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-7c0b636ac57e18ce284bea25fe754b79]: Commencement: Sch. 7 para. 133 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-7c0b636ac57e18ce284bea25fe754b79]: Commencement: Sch. 7 para. 133 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545991]: Commencement: Sch. 7 para. 134 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-1fbd472a37799ecee5c0be88ab3ab634]: Commencement: Sch. 7 para. 134 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-1fbd472a37799ecee5c0be88ab3ab634]: Commencement: Sch. 7 para. 134 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546031]: Commencement: Sch. 7 para. 135 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-f87187a9426f9075d0c8b688d1f15283]: Commencement: Sch. 7 para. 135 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-f87187a9426f9075d0c8b688d1f15283]: Commencement: Sch. 7 para. 135 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546041]: Commencement: Sch. 7 para. 136 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-5b9cc1ae55dacd94a76c1d000edc297b]: Commencement: Sch. 7 para. 136 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-5b9cc1ae55dacd94a76c1d000edc297b]: Commencement: Sch. 7 para. 136 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546051]: Commencement: Sch. 7 para. 137 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-ad202bab297311516caba8d8423e1308]: Commencement: Sch. 7 para. 137 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-ad202bab297311516caba8d8423e1308]: Commencement: Sch. 7 para. 137 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546061]: Commencement: Sch. 7 para. 138 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-161d85021c6fd1f76c00c4ec859c260f]: Commencement: Sch. 7 para. 138 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-161d85021c6fd1f76c00c4ec859c260f]: Commencement: Sch. 7 para. 138 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546101]: Commencement: Sch. 7 para. 139 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-4d75b62c6c5b5a567ccfd42c7801babe]: Commencement: Sch. 7 para. 139 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-4d75b62c6c5b5a567ccfd42c7801babe]: Commencement: Sch. 7 para. 139 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546111]: Commencement: Sch. 7 para. 140 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-b22f0a7b8ea05b1f2d608f79ad3b1f0b]: Commencement: Sch. 7 para. 140 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-b22f0a7b8ea05b1f2d608f79ad3b1f0b]: Commencement: Sch. 7 para. 140 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546121]: Commencement: Sch. 7 para. 141 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-f23046f95a23892d44877343dd53de30]: Commencement: Sch. 7 para. 141 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-f23046f95a23892d44877343dd53de30]: Commencement: Sch. 7 para. 141 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546131]: Commencement: Sch. 7 para. 142 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-ea3911cb044b7a532d9ecf2b313baa58]: Commencement: Sch. 7 para. 142 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-ea3911cb044b7a532d9ecf2b313baa58]: Commencement: Sch. 7 para. 142 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546141]: Commencement: Sch. 7 para. 143 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-34c563d223950e2fd081dc18656fa691]: Commencement: Sch. 7 para. 143 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-34c563d223950e2fd081dc18656fa691]: Commencement: Sch. 7 para. 143 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546151]: Commencement: Sch. 7 para. 144 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-262e170638b10764d3fd57563913df8c]: Commencement: Sch. 7 para. 144 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-262e170638b10764d3fd57563913df8c]: Commencement: Sch. 7 para. 144 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546161]: Commencement: Sch. 7 para. 145 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-9dd51029354840e120a60a57b4e9f1d2]: Commencement: Sch. 7 para. 145 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-9dd51029354840e120a60a57b4e9f1d2]: Commencement: Sch. 7 para. 145 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23546171]: Commencement: Sch. 7 para. 146 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-7a8fa2e2fe29eabcf5014f2ce3716d17]: Commencement: Sch. 7 para. 146 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-7a8fa2e2fe29eabcf5014f2ce3716d17]: Commencement: Sch. 7 para. 146 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-cea39d0f6ebcab9bdc32024953204fc1]: Textual amendment: Sch. 7 para. 146 renumbered as Sch. 7 para. 146(1) (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/3/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-cea39d0f6ebcab9bdc32024953204fc1]: Textual amendment: Sch. 7 para. 146 renumbered as Sch. 7 para. 146(1) (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/3/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-7363e499047550d9a54ce3b5a0780a31]: Textual amendment: Sch. 7 para. 146(2) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/3/b) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-7363e499047550d9a54ce3b5a0780a31]: Textual amendment: Sch. 7 para. 146(2) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/3/b) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c23545891]: Commencement: Sch. 7 para. 147 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-bacad44f681cc039e54acfda7153f25f]: Commencement: Sch. 7 para. 147 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-bacad44f681cc039e54acfda7153f25f]: Commencement: Sch. 7 para. 147 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545901]: Commencement: Sch. 7 para. 148 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-821a94306730265fadaca7f0721096bc]: Commencement: Sch. 7 para. 148 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-821a94306730265fadaca7f0721096bc]: Commencement: Sch. 7 para. 148 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545911]: Commencement: Sch. 7 para. 149 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-9aedc695f57d5691a036b21baf1dc72f]: Commencement: Sch. 7 para. 149 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-9aedc695f57d5691a036b21baf1dc72f]: Commencement: Sch. 7 para. 149 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545921]: Commencement: Sch. 7 para. 150 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-97ebab12264482c22f43e1fa46e272c2]: Commencement: Sch. 7 para. 150 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-97ebab12264482c22f43e1fa46e272c2]: Commencement: Sch. 7 para. 150 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-865a8bbabad6debd9f3cee9b353628c8]: Textual amendment: Words in Sch. 7 para. 150(3)(a) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(4)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/4/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-865a8bbabad6debd9f3cee9b353628c8]: Textual amendment: Words in Sch. 7 para. 150(3)(a) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(4)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/4/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-d914e8c5df3e6a5fcab673864f145a9c]: Textual amendment: Words in Sch. 7 para. 150(3)(a) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/4/b) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-d914e8c5df3e6a5fcab673864f145a9c]: Textual amendment: Words in Sch. 7 para. 150(3)(a) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/4/b) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c23545931]: Commencement: Sch. 7 para. 151 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-4833664d36a9b8331e1d74ee93285347]: Commencement: Sch. 7 para. 151 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-4833664d36a9b8331e1d74ee93285347]: Commencement: Sch. 7 para. 151 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545951]: Commencement: Sch. 7 para. 152 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-df8b1b2d0478ab1b997f3abd34592e65]: Commencement: Sch. 7 para. 152 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-df8b1b2d0478ab1b997f3abd34592e65]: Commencement: Sch. 7 para. 152 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545861]: Commencement: Sch. 7 para. 153 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-d385a65374c103e830f2d675daaac954]: Commencement: Sch. 7 para. 153 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-d385a65374c103e830f2d675daaac954]: Commencement: Sch. 7 para. 153 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545871]: Commencement: Sch. 7 para. 154 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-531fd4ef194a8301e4ee50374f4ad3af]: Commencement: Sch. 7 para. 154 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-531fd4ef194a8301e4ee50374f4ad3af]: Commencement: Sch. 7 para. 154 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545881]: Commencement: Sch. 7 para. 155 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-e670a6c8c192ec129447c15674c8c26b]: Commencement: Sch. 7 para. 155 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-e670a6c8c192ec129447c15674c8c26b]: Commencement: Sch. 7 para. 155 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545841]: Commencement: Sch. 7 para. 156 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-cb2c7f026fc5f7ff136e77230b1b7bd2]: Commencement: Sch. 7 para. 156 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-cb2c7f026fc5f7ff136e77230b1b7bd2]: Commencement: Sch. 7 para. 156 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-b21091c991ed91d06baa2a54ee75c057]: Textual amendment: Sch. 7 para. 156(2) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-b21091c991ed91d06baa2a54ee75c057]: Textual amendment: Sch. 7 para. 156(2) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-017010292436f852f3758ba3f3946c15]: Textual amendment: Words in Sch. 7 para. 156(3)(b) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(b)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/b) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-017010292436f852f3758ba3f3946c15]: Textual amendment: Words in Sch. 7 para. 156(3)(b) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(b)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/b) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-bc50cc2d4319fe824c773587021c68d8]: Textual amendment: Sch. 7 para. 156(4)(5) substituted for Sch. 7 para. 156(4) (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(c)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/c) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-bc50cc2d4319fe824c773587021c68d8]: Textual amendment: Sch. 7 para. 156(4)(5) substituted for Sch. 7 para. 156(4) (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(5)(c)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/5/c) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c23545821]: Commencement: Sch. 7 para. 157 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-88eb29f889497449ec397e50c8e6e465]: Commencement: Sch. 7 para. 157 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-88eb29f889497449ec397e50c8e6e465]: Commencement: Sch. 7 para. 157 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-e6c90e614ad1f185cdfe4320a349df92]: Textual amendment: Sch. 7 Pt. 4 inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/6) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-e6c90e614ad1f185cdfe4320a349df92]: Textual amendment: Sch. 7 Pt. 4 inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/6) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-10dd45334a9b403d2bee6ff9942850ac]: Modification: Sch. 7 para. 158 modified (31.12.2020) by [The Customs (Modification and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1629)](https://www.legislation.gov.uk/uksi/2020/1629), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1629/regulation/2)
+[^c-10dd45334a9b403d2bee6ff9942850ac]: Modification: Sch. 7 para. 158 modified (31.12.2020) by [The Customs (Modification and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1629)](https://www.legislation.gov.uk/uksi/2020/1629), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1629/regulation/2)

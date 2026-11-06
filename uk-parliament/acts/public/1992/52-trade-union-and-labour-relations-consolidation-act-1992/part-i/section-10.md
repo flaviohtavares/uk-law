@@ -31,7 +31,7 @@ summary: ''
 (3) A trade union shall not be registered—
 
 - (a) as a company under the the Companies Act 2006[^c20418631], or
-- (b) under the [^c14513121]Friendly Societies Act 1974 or the the Co-operative and Community Benefit Societies Act 2014[^key-008899f016538254458e01d5c6dad362] ;
+- (b) under the [^c14513121]Friendly Societies Act 1974 or the the Co-operative and Community Benefit Societies Act 2014[^c-008899f016538254458e01d5c6dad362] ;
 
 and any such registration of a trade union (whenever effected) is void.
 
@@ -41,4 +41,4 @@ and any such registration of a trade union (whenever effected) is void.
 
 [^c14513121]: Marginal citation: [1974 c. 46](https://www.legislation.gov.uk/ukpga/1974/46).
 
-[^key-008899f016538254458e01d5c6dad362]: Textual amendment: Words in s. 10(3)(b) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 54](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/54) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-008899f016538254458e01d5c6dad362]: Textual amendment: Words in s. 10(3)(b) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 54](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/54) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

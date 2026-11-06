@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 153(4) of the Environmental Protection Act 1990[^f00001].
 
-## 1. Citation, extent and commencement[^key-42512c1c17d690723d69dc23be705116]
+## 1. Citation, extent and commencement[^c-42512c1c17d690723d69dc23be705116]
 
 This Order—
 
@@ -54,7 +54,7 @@ This Order—
 - (b) extends to England and Wales only; and
 - (c) comes into force on 1st April 2015.
 
-## 2. Amendment of section 153(1) of the Environmental Protection Act 1990[^key-0da94f9baf1606a5062429061b65b9e1]
+## 2. Amendment of section 153(1) of the Environmental Protection Act 1990[^c-0da94f9baf1606a5062429061b65b9e1]
 
 In section 153(1) of the Environmental Protection Act 1990[^f00002] (purposes for which financial assistance may be given), for paragraphs (a) to (aaa) substitute—
 
@@ -101,7 +101,7 @@ In section 153(1) of the Environmental Protection Act 1990[^f00002] (purposes fo
 
 .
 
-## 3. Revocations[^key-fa584b98b34de09599184089027325ad]
+## 3. Revocations[^c-fa584b98b34de09599184089027325ad]
 
 The instruments set out in the Schedule are revoked.
 
@@ -113,7 +113,7 @@ Department for Environment, Food and Rural Affairs
 
 2nd March 2015
 
-## SCHEDULE — Revocations[^key-2c33af236e5e4d7e8fb9aa2de09ff1d6]
+## SCHEDULE — Revocations[^c-2c33af236e5e4d7e8fb9aa2de09ff1d6]
 
 Article 3
 
@@ -159,12 +159,12 @@ A full impact assessment has not been produced for this instrument, as no, or no
 
 [^f00001]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). The relevant functions of the Secretary of State insofar as they are exercisable within the devolved competence were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). In relation to Wales, the Secretary of State has concurrent powers with the Welsh Ministers: see article 2 of, and the entry relating to the Environmental Protection Act 1990 in Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and paragraphs 30 to 32 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32). The relevant functions of the Secretary of State in relation to transferred matters are exercisable by Northern Ireland Ministers and departments by virtue of section 23 of the Northern Ireland Act [1998 (c.47)](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-42512c1c17d690723d69dc23be705116]: Commencement: Art. 1 in force at 1.4.2015, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2015/479/article/1/c)
+[^c-42512c1c17d690723d69dc23be705116]: Commencement: Art. 1 in force at 1.4.2015, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2015/479/article/1/c)
 
-[^key-0da94f9baf1606a5062429061b65b9e1]: Commencement: Art. 2 in force at 1.4.2015, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2015/479/article/1/c)
+[^c-0da94f9baf1606a5062429061b65b9e1]: Commencement: Art. 2 in force at 1.4.2015, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2015/479/article/1/c)
 
 [^f00002]: Footnote: Section 153(1) is varied by [S.I. 1991/682](https://www.legislation.gov.uk/uksi/1991/682), [1992/654](https://www.legislation.gov.uk/uksi/1992/654), [1993/1062](https://www.legislation.gov.uk/uksi/1993/1062) and [1518](https://www.legislation.gov.uk/uksi/1993/1518), [1995/150](https://www.legislation.gov.uk/uksi/1995/150), [554](https://www.legislation.gov.uk/uksi/1995/554), [1085](https://www.legislation.gov.uk/uksi/1995/1085) and [3099](https://www.legislation.gov.uk/uksi/1995/3099), [1996/505](https://www.legislation.gov.uk/uksi/1996/505) and [1431](https://www.legislation.gov.uk/uksi/1996/1431), [1997/651](https://www.legislation.gov.uk/uksi/1997/651), [1998/538](https://www.legislation.gov.uk/uksi/1998/538), [1001](https://www.legislation.gov.uk/uksi/1998/1001) and [3234](https://www.legislation.gov.uk/uksi/1998/3234), [2000/207](https://www.legislation.gov.uk/uksi/2000/207) and [2211](https://www.legislation.gov.uk/uksi/2000/2211), [2002/1686](https://www.legislation.gov.uk/uksi/2002/1686) and [2021](https://www.legislation.gov.uk/uksi/2002/2021), [2003/714](https://www.legislation.gov.uk/uksi/2003/714) and [2119](https://www.legislation.gov.uk/uksi/2003/2119), [2005/1805](https://www.legislation.gov.uk/uksi/2005/1805), [2006/1735](https://www.legislation.gov.uk/uksi/2006/1735), [2007/1671](https://www.legislation.gov.uk/uksi/2007/1671), [2008/3243](https://www.legislation.gov.uk/uksi/2008/3243) and [2009/1506](https://www.legislation.gov.uk/uksi/2009/1506) and by Part 8 of Schedule 5 to the Clean Neighbourhoods and Environment Act [2005 (c.16)](https://www.legislation.gov.uk/ukpga/2005/16).
 
-[^key-fa584b98b34de09599184089027325ad]: Commencement: Art. 3 in force at 1.4.2015, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2015/479/article/1/c)
+[^c-fa584b98b34de09599184089027325ad]: Commencement: Art. 3 in force at 1.4.2015, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2015/479/article/1/c)
 
-[^key-2c33af236e5e4d7e8fb9aa2de09ff1d6]: Commencement: Sch. in force at 1.4.2015, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2015/479/article/1/c)
+[^c-2c33af236e5e4d7e8fb9aa2de09ff1d6]: Commencement: Sch. in force at 1.4.2015, see [art. 1(c)](https://www.legislation.gov.uk/uksi/2015/479/article/1/c)

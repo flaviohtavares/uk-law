@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Surcharge for failure to submit a notice of chargeable development[^key-8c71a2f865f4d3ee5a3f9877183354f2]
+## 82. Surcharge for failure to submit a notice of chargeable development[^c-8c71a2f865f4d3ee5a3f9877183354f2]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ the collecting authority may impose a surcharge equal to 20 per cent of the char
 
 ## Annotations
 
-[^key-8c71a2f865f4d3ee5a3f9877183354f2]: Commencement: Reg. 82 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-8c71a2f865f4d3ee5a3f9877183354f2]: Commencement: Reg. 82 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

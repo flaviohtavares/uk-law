@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. The annual State of London debate.[^key-d5295c2dd9d706a74fccec542cfb7f63]
+## 47. The annual State of London debate.[^c-d5295c2dd9d706a74fccec542cfb7f63]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5295c2dd9d706a74fccec542cfb7f63]: Modification: S. 47 disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2020/392/regulation/7/b) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-d5295c2dd9d706a74fccec542cfb7f63]: Modification: S. 47 disapplied (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2020/392/regulation/7/b) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))

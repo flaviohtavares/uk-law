@@ -48,7 +48,7 @@ The Commissioners for Her Majesty's Revenue and Customs make these Regulations i
 
 In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, the Commissioners for Her Majesty's Revenue and Customs consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the European Union, for these Regulations to come into force on such day as the Treasury may appoint by regulations under section 52 of that Act.
 
-## 1. Citation, commencement and interpretation[^key-183bb0025e9200036bc06931df963327][^key-605d0119cb8abd0adb3b3629d30ac7ab][^key-b59dbec4d88502ae4f868a8b042740ff]
+## 1. Citation, commencement and interpretation[^c-183bb0025e9200036bc06931df963327][^c-605d0119cb8abd0adb3b3629d30ac7ab][^c-b59dbec4d88502ae4f868a8b042740ff]
 
 (1) These Regulations may be cited as the Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019.
 
@@ -65,15 +65,15 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 - “**Guernsey**” means the Bailiwick of Guernsey;
 - “**Jersey**” means the Bailiwick of Jersey.
 
-## 2. Isle of Man: modifications of UK customs provisions[^key-bfb3a19461f75a709154a0bc1c70e4c2][^key-34d56d6713a6ced5cce1bf86f26e19db]
+## 2. Isle of Man: modifications of UK customs provisions[^c-bfb3a19461f75a709154a0bc1c70e4c2][^c-34d56d6713a6ced5cce1bf86f26e19db]
 
-The Act (as modified by regulation 3) and the provisions referred to in regulations 4 to 6A[^key-42e2ba06ec4f4ee0cf91ee8294039b3d] (as modified by those regulations) shall apply in respect of the following Customs matters—
+The Act (as modified by regulation 3) and the provisions referred to in regulations 4 to 6A[^c-42e2ba06ec4f4ee0cf91ee8294039b3d] (as modified by those regulations) shall apply in respect of the following Customs matters—
 
 - (a) the entitlement of persons established in the Isle of Man in relation to Customs procedures,
 - (b) the treatment of goods that are imported into the United Kingdom and then moved to the Isle of Man, and
 - (c) any other purposes related to customs union arrangements having effect between the United Kingdom and the Isle of Man.
 
-## 3.[^key-d0586461fd59f05c4f70a7391780d992][^key-da5c1853258eee57d899644775d29c0d]
+## 3.[^c-d0586461fd59f05c4f70a7391780d992][^c-da5c1853258eee57d899644775d29c0d]
 
 (1) The Act is modified as follows.
 
@@ -88,13 +88,13 @@ The Act (as modified by regulation 3) and the provisions referred to in regulati
 
 (5) In paragraph 9 (meaning of goods declared for “an inward processing procedure” in the standard form)—
 
-- (a) in sub-paragraph (1)(a), the reference to “Great Britain[^key-bf02581068392059b551aee9d5cbfbce]” shall be read as a reference to Great Britain[^key-346ef4cfc319dd26234446a346a4cc90] or the Isle of Man,
+- (a) in sub-paragraph (1)(a), the reference to “Great Britain[^c-bf02581068392059b551aee9d5cbfbce]” shall be read as a reference to Great Britain[^c-346ef4cfc319dd26234446a346a4cc90] or the Isle of Man,
 - (b) in sub-paragraph (5)—
   - (i) the reference to “applicable export provisions” shall be read, where relevant, as a reference to the applicable export provisions in force in the Isle of Man, and
-  - (ii) the reference to “ Great Britain[^key-ff1845ee5cbd3b6081d9535824a1c3ba]” shall be read as a reference to Great Britain and the Isle of Man, and
-- (c) in sub-paragraph (6)(a), the reference to “Great Britain[^key-d1e8d7ee7ec77b9991467c1940758029]” shall be read as a reference to Great Britain and the Isle of Man.
+  - (ii) the reference to “ Great Britain[^c-ff1845ee5cbd3b6081d9535824a1c3ba]” shall be read as a reference to Great Britain and the Isle of Man, and
+- (c) in sub-paragraph (6)(a), the reference to “Great Britain[^c-d1e8d7ee7ec77b9991467c1940758029]” shall be read as a reference to Great Britain and the Isle of Man.
 
-(6) In paragraph 11(a) (meaning of goods declared for “an inward processing procedure” in the supplementary form), the reference to “free circulation in Great Britain[^key-62383009d88b67367d8097d62baf92d4]” shall be read as including a reference to any equivalent free circulation procedures in force in the Isle of Man.
+(6) In paragraph 11(a) (meaning of goods declared for “an inward processing procedure” in the supplementary form), the reference to “free circulation in Great Britain[^c-62383009d88b67367d8097d62baf92d4]” shall be read as including a reference to any equivalent free circulation procedures in force in the Isle of Man.
 
 (7) In paragraph 15(b) (meaning of goods declared for “a temporary admission procedure”)—
 
@@ -111,7 +111,7 @@ The Act (as modified by regulation 3) and the provisions referred to in regulati
 - (a) the reference to “the United Kingdom” shall be read as a reference to the United Kingdom or the Isle of Man, and
 - (b) the reference to “applicable export provisions” shall be read, where relevant, as a reference to the applicable export provisions in force in the Isle of Man.
 
-## 4.[^key-46414c4ab4f077ca61006640f10f0b1b][^key-1171e85ddab771a37ed8983ddfdb2273]
+## 4.[^c-46414c4ab4f077ca61006640f10f0b1b][^c-1171e85ddab771a37ed8983ddfdb2273]
 
 (1) The Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018 [^c23604881] are modified as follows.
 
@@ -128,14 +128,14 @@ The Act (as modified by regulation 3) and the provisions referred to in regulati
 
 (4) In regulation 9 (eligibility for authorisation or approval), in paragraph (1)(a), the reference to “the United Kingdom” shall be read as a reference to the United Kingdom or the Isle of Man.
 
-(5) In regulation 21(2)(a) (authorisation to declare goods for an inward processing procedure), the reference to “Great Britain[^key-eb6d3ad612f0081ed654df87f1c609e4]” shall be read as a reference to Great Britain[^key-2d12e883b366fe9fd6727dd26402ccdb] or the Isle of Man.
+(5) In regulation 21(2)(a) (authorisation to declare goods for an inward processing procedure), the reference to “Great Britain[^c-eb6d3ad612f0081ed654df87f1c609e4]” shall be read as a reference to Great Britain[^c-2d12e883b366fe9fd6727dd26402ccdb] or the Isle of Man.
 
 (6) In regulation 26 (temporary export of goods released to an inward processing procedure)—
 
 - (a) the reference to “applicable export provisions” in paragraph (1) shall be read, where relevant, as a reference to the applicable export provisions in force in the Isle of Man, and
-- (b) the references to “Great Britain[^key-effdd68b396c3703a6dbbaf278eb7caa]” in paragraphs (2)(a), (4)(a) and (b) shall be read as references to Great Britain and the Isle of Man.
+- (b) the references to “Great Britain[^c-effdd68b396c3703a6dbbaf278eb7caa]” in paragraphs (2)(a), (4)(a) and (b) shall be read as references to Great Britain and the Isle of Man.
 
-(7) In regulation 33 (authorisation to declare goods for an authorised use procedure), in paragraph (3)(a), the reference to “ Great Britain[^key-cf6dd09f1ce0217a5580a4ebaf9ba400]” shall be read as a reference to Great Britain or the Isle of Man.
+(7) In regulation 33 (authorisation to declare goods for an authorised use procedure), in paragraph (3)(a), the reference to “ Great Britain[^c-cf6dd09f1ce0217a5580a4ebaf9ba400]” shall be read as a reference to Great Britain or the Isle of Man.
 
 (8) In regulation 36 (eligibility – temporary admission procedure)—
 
@@ -147,7 +147,7 @@ The Act (as modified by regulation 3) and the provisions referred to in regulati
 - (a) the reference to “the United Kingdom” shall be read as a reference to the United Kingdom or the Isle of Man, and
 - (b) the reference to “the applicable export provisions” shall be read, where relevant, as a reference to the applicable export provisions in force in the Isle of Man.
 
-(10) In regulation 39 (specified goods), the reference[^key-53c6c33aee2724d3082d42b8e577422b] to “the United Kingdom” shall be read as a reference[^key-2f7715c0b4b1d52cbd6663998fb74062] to the United Kingdom or the Isle of Man and the reference to Great Britain shall be read as a reference to Great Britain or the Isle of Man[^key-b7cd7e6af8758a16f7566f71ebead84d].
+(10) In regulation 39 (specified goods), the reference[^c-53c6c33aee2724d3082d42b8e577422b] to “the United Kingdom” shall be read as a reference[^c-2f7715c0b4b1d52cbd6663998fb74062] to the United Kingdom or the Isle of Man and the reference to Great Britain shall be read as a reference to Great Britain or the Isle of Man[^c-b7cd7e6af8758a16f7566f71ebead84d].
 
 (11) In regulation 42(5)(b) (transfer of rights and obligations), the reference to “established in the United Kingdom” shall be read as a reference to established in the United Kingdom or the Isle of Man.
 
@@ -158,9 +158,9 @@ The Act (as modified by regulation 3) and the provisions referred to in regulati
 
 (13) In regulation 47 (treatment of goods), in paragraph (6), both references to “the United Kingdom” shall be read as references to the United Kingdom or the Isle of Man.
 
-## 5.[^key-9772dbfbe1a6e586065e5bf57a5b6cfc]
+## 5.[^c-9772dbfbe1a6e586065e5bf57a5b6cfc]
 
-(1)[^key-bff5c979ad892b6a261f887ac80b5a37][^key-383a5b186386a5e590193edacadc90ef] The Customs (Import Duty) (EU Exit) Regulations 2018 [^c23604901] are modified as follows.
+(1)[^c-bff5c979ad892b6a261f887ac80b5a37][^c-383a5b186386a5e590193edacadc90ef] The Customs (Import Duty) (EU Exit) Regulations 2018 [^c23604901] are modified as follows.
 
 (2)[^M_I_32b837b2-a085-47fa-cec7-42e82aff4084] In regulation 2 (interpretation), the definition of “qualifying traveller” shall be read as follows—
 
@@ -183,7 +183,7 @@ The Act (as modified by regulation 3) and the provisions referred to in regulati
 
 (6) In regulation 27(1) (temporary admission procedure: miscellaneous goods), references to “the United Kingdom” shall be read as references to the United Kingdom or the Isle of Man.
 
-(6A)[^key-61be9f528d739ec6678d9231d51c238c] In regulation 29B(4)(b) (persons eligible to complete Part 1 of the transitional EIDR simplified Customs declaration process), the reference to a “Customs obligation” shall be read, where relevant, as including a reference to any obligation or requirement imposed by or under equivalent legislation which is in force in the Isle of Man.
+(6A)[^c-61be9f528d739ec6678d9231d51c238c] In regulation 29B(4)(b) (persons eligible to complete Part 1 of the transitional EIDR simplified Customs declaration process), the reference to a “Customs obligation” shall be read, where relevant, as including a reference to any obligation or requirement imposed by or under equivalent legislation which is in force in the Isle of Man.
 
 (6B) In regulation 29C(6) (transitional EIDR simplified Customs declaration process), references to “established in the United Kingdom” shall be read as references to established in the United Kingdom or the Isle of Man.
 
@@ -191,14 +191,14 @@ The Act (as modified by regulation 3) and the provisions referred to in regulati
 
 (6D) In regulation 37(7)(c) (persons authorised to use the EIDR procedure), the reference to “established in the United Kingdom” shall be read as a reference to established in the United Kingdom or the Isle of Man.
 
-(7)[^key-d358c36eba17f249172f3e50afced3d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-d358c36eba17f249172f3e50afced3d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In regulation 41 (discharge of liability to import duty), in paragraph (1)(d)—
 
 - (a) the reference to “the United Kingdom” shall be read as a reference to the United Kingdom or the Isle of Man, and
 - (b) the reference to “the applicable export provisions” shall be read, where relevant, as a reference to the applicable export provisions in force in the Isle of Man.
 
-(9) In regulation 43 (payment of import duty), in paragraph (10)[^key-435eb4fffa45520a0517b3662fb2e863], the reference to “established in the United Kingdom” shall be read as a reference to established in the United Kingdom or the Isle of Man.
+(9) In regulation 43 (payment of import duty), in paragraph (10)[^c-435eb4fffa45520a0517b3662fb2e863], the reference to “established in the United Kingdom” shall be read as a reference to established in the United Kingdom or the Isle of Man.
 
 (10) In regulation 62 (determinations to grant applications)—
 
@@ -212,9 +212,9 @@ The Act (as modified by regulation 3) and the provisions referred to in regulati
 
 (12) In regulation 80 (residence or establishment in the United Kingdom), the references to “established in the United Kingdom” shall be read as references to established in the United Kingdom or the Isle of Man.
 
-(13)[^key-7c67d5841bc666d0a5806f5d84310540] In regulation 99 (specified amount: reduced amounts and waivers in relation to comprehensive guarantees), in paragraph (1A)(a) [^c23604941], the reference to “a Customs obligation” shall be read, where relevant, as including a reference to any obligation or requirement imposed by or under equivalent legislation which is in force in the Isle of Man.
+(13)[^c-7c67d5841bc666d0a5806f5d84310540] In regulation 99 (specified amount: reduced amounts and waivers in relation to comprehensive guarantees), in paragraph (1A)(a) [^c23604941], the reference to “a Customs obligation” shall be read, where relevant, as including a reference to any obligation or requirement imposed by or under equivalent legislation which is in force in the Isle of Man.
 
-(14)[^key-56994384eed564b9ed84c867aa046212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-56994384eed564b9ed84c867aa046212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (15) In regulation 155(2)(b) (cessation of effect of the EUCL), the reference to “goods from the United Kingdom” shall be read a reference to goods from the United Kingdom or the Isle of Man.
 
@@ -224,13 +224,13 @@ The Act (as modified by regulation 3) and the provisions referred to in regulati
 - (b) in paragraph (1)(b), the reference to “goods are located outside the United Kingdom” shall, for the purposes of sub-paragraph (a)(i), be read as a reference to goods located outside the United Kingdom and the Isle of Man, and
 - (c) in paragraph (3), the reference to “the United Kingdom” shall be read as a reference to the United Kingdom or the Isle of Man.
 
-(17)[^key-a54a47e4b12f1c5c8d1e451a9e78595d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(17)[^c-a54a47e4b12f1c5c8d1e451a9e78595d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-0f0354371fda4bbefc6d0cca534179ca][^key-217334c5a21a57e169c6d23679cb10a6]
+## 6.[^c-0f0354371fda4bbefc6d0cca534179ca][^c-217334c5a21a57e169c6d23679cb10a6]
 
 (1) The Customs (Export) (EU Exit) Regulations 2019 [^c23604951] are modified as follows.
 
-(2) In regulation 2 (general interpretive provisions)[^key-a8f32df05b4fb62a54cd25879e3c6a71] , “qualifying departing[^key-c71eaf95491ed51131bc1106ad55bb80] departing traveller” shall be read as follows—
+(2) In regulation 2 (general interpretive provisions)[^c-a8f32df05b4fb62a54cd25879e3c6a71] , “qualifying departing[^c-c71eaf95491ed51131bc1106ad55bb80] departing traveller” shall be read as follows—
 
 > “**qualifying traveller**” means an individual who—
 >
@@ -239,7 +239,7 @@ The Act (as modified by regulation 3) and the provisions referred to in regulati
 
 .
 
-(2A)[^key-409312ad292dcb232a42b4d87deeb019] In regulation 8(3) (goods not required to be exported in accordance with the applicable export provisions)—
+(2A)[^c-409312ad292dcb232a42b4d87deeb019] In regulation 8(3) (goods not required to be exported in accordance with the applicable export provisions)—
 
 - (a) in sub-paragraph (a) the reference to “the United Kingdom” shall be read as a reference to the United Kingdom or the Isle of Man,
 - (b) in sub-paragraph (b) the reference to “established the United Kingdom” shall be read as a reference to established in the United Kingdom or the Isle of Man, and
@@ -249,11 +249,11 @@ The Act (as modified by regulation 3) and the provisions referred to in regulati
 
 (4) In regulation 56 (residence or establishment in the United Kingdom), the references to “established in the United Kingdom” shall be read as references to established in the United Kingdom or the Isle of Man.
 
-(5)[^key-bb53d5f90171d7c92c58f7649eebde23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-bb53d5f90171d7c92c58f7649eebde23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-b54ac1a273247a75a8f7fc97d0ebae26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-b54ac1a273247a75a8f7fc97d0ebae26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6A.[^key-00aca85c3ac2ddaba8b300c616b6e652]
+## 6A.[^c-00aca85c3ac2ddaba8b300c616b6e652]
 
 (1) The Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020 are modified as follows.
 
@@ -265,18 +265,18 @@ The Act (as modified by regulation 3) and the provisions referred to in regulati
 
 (5) In this regulation, “**UK Reliefs document**” has the meaning given by regulation 2 of the Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020.
 
-## 7. Crown Dependencies: modification of UK Customs provisions[^key-ace92b44b38f8324836d9576111b9917][^key-30918fbb3f5902227466f718e5364163]
+## 7. Crown Dependencies: modification of UK Customs provisions[^c-ace92b44b38f8324836d9576111b9917][^c-30918fbb3f5902227466f718e5364163]
 
 (1) Any provisions made under section 24 (rulings as to application of customs tariff or place of origin) of the Act by HMRC Commissioners by public notice[^c23604961] shall apply to applications for rulings received from persons intending to import goods from outside any of the territories included in the United Kingdom-Crown Dependencies Customs union into Guernsey, Jersey or the Isle of Man (as the case may be) in the same way as those provisions apply to such applications from persons intending to import goods into the United Kingdom.
 
-(2)[^key-37f266c8cfaa3b3e717a70a2ca759a80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-37f266c8cfaa3b3e717a70a2ca759a80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-b989e5d4ebfadb27ea66ebc81b7625cf] Regulation 97 (single and comprehensive guarantees) of the Customs (Import Duty) (EU Exit) Regulations 2018 shall apply to persons established in any of the territories included in the United Kingdom-Crown Dependencies Customs union[^key-e679a9575b93d427ef979224334ff29f] with the following modifications—
+(3)[^c-b989e5d4ebfadb27ea66ebc81b7625cf] Regulation 97 (single and comprehensive guarantees) of the Customs (Import Duty) (EU Exit) Regulations 2018 shall apply to persons established in any of the territories included in the United Kingdom-Crown Dependencies Customs union[^c-e679a9575b93d427ef979224334ff29f] with the following modifications—
 
 - (a) in paragraph (4)(a), the reference to “the United Kingdom” shall be read as a reference to the United Kingdom, the Isle of Man, Guernsey or Jersey, and
 - (b) in paragraph (4)(b), the reference to “Customs obligation” shall be read, where relevant, as including a reference to any obligation or requirement imposed by or under equivalent legislation which is in force in the Isle of Man, Guernsey or Jersey.
 
-(4)[^key-87337316dfdce52d0d93d6b7ea4c9b1c] In regulations 16C(2)(b), 16CA(2) and (5)(d) and 16E(1)(a)(i)[^key-f1499655d42792e4b09c1225439a1d1c] of the Customs (Northern Ireland) (EU Exit) Regulations 2020 [^key-1a042953bb55f30b50c4a9a310a817a0]..., the reference to “established in the United Kingdom” shall be read as a reference to established in any of the territories included in the United Kingdom-Crown Dependencies Custom union.
+(4)[^c-87337316dfdce52d0d93d6b7ea4c9b1c] In regulations 16C(2)(b), 16CA(2) and (5)(d) and 16E(1)(a)(i)[^c-f1499655d42792e4b09c1225439a1d1c] of the Customs (Northern Ireland) (EU Exit) Regulations 2020 [^c-1a042953bb55f30b50c4a9a310a817a0]..., the reference to “established in the United Kingdom” shall be read as a reference to established in any of the territories included in the United Kingdom-Crown Dependencies Custom union.
 
 Ruth Stanier
 
@@ -313,59 +313,59 @@ This instrument is one of a group of instruments covered by a single overarching
 
 [^c23604871]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-183bb0025e9200036bc06931df963327]: Commencement: Reg. 1 not in force at made date, see reg. 1(2)
+[^c-183bb0025e9200036bc06931df963327]: Commencement: Reg. 1 not in force at made date, see reg. 1(2)
 
-[^key-605d0119cb8abd0adb3b3629d30ac7ab]: Commencement: Reg. 1 in force at 8.4.2019 for specified purposes by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2019/819/regulation/3/c)
+[^c-605d0119cb8abd0adb3b3629d30ac7ab]: Commencement: Reg. 1 in force at 8.4.2019 for specified purposes by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2019/819/regulation/3/c)
 
-[^key-b59dbec4d88502ae4f868a8b042740ff]: Commencement: Reg. 1 in force in so far as not already in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b59dbec4d88502ae4f868a8b042740ff]: Commencement: Reg. 1 in force in so far as not already in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-bfb3a19461f75a709154a0bc1c70e4c2]: Commencement: Reg. 2 not in force at made date, see reg. 1(2)
+[^c-bfb3a19461f75a709154a0bc1c70e4c2]: Commencement: Reg. 2 not in force at made date, see reg. 1(2)
 
-[^key-34d56d6713a6ced5cce1bf86f26e19db]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-34d56d6713a6ced5cce1bf86f26e19db]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-42e2ba06ec4f4ee0cf91ee8294039b3d]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2019/385/regulation/2) substituted (31.12.2020) by [The Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1431)](https://www.legislation.gov.uk/uksi/2020/1431), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1431/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2020/1431/regulation/23/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-42e2ba06ec4f4ee0cf91ee8294039b3d]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2019/385/regulation/2) substituted (31.12.2020) by [The Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1431)](https://www.legislation.gov.uk/uksi/2020/1431), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1431/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2020/1431/regulation/23/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-d0586461fd59f05c4f70a7391780d992]: Commencement: Reg. 3 not in force at made date, see reg. 1(2)
+[^c-d0586461fd59f05c4f70a7391780d992]: Commencement: Reg. 3 not in force at made date, see reg. 1(2)
 
-[^key-da5c1853258eee57d899644775d29c0d]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-da5c1853258eee57d899644775d29c0d]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-bf02581068392059b551aee9d5cbfbce]: Textual amendment: Words in [reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/5/a) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(3)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/3/a/i/aa); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-bf02581068392059b551aee9d5cbfbce]: Textual amendment: Words in [reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/5/a) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(3)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/3/a/i/aa); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-346ef4cfc319dd26234446a346a4cc90]: Textual amendment: Words in [reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/5/a) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(3)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/3/a/i/bb); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-346ef4cfc319dd26234446a346a4cc90]: Textual amendment: Words in [reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/5/a) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(3)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/3/a/i/bb); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-ff1845ee5cbd3b6081d9535824a1c3ba]: Textual amendment: Words in [reg. 3(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/5/b/ii) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/3/a/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-ff1845ee5cbd3b6081d9535824a1c3ba]: Textual amendment: Words in [reg. 3(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/5/b/ii) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/3/a/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-d1e8d7ee7ec77b9991467c1940758029]: Textual amendment: Words in [reg. 3(5)(c)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/5/c) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/3/a/iii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d1e8d7ee7ec77b9991467c1940758029]: Textual amendment: Words in [reg. 3(5)(c)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/5/c) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/3/a/iii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-62383009d88b67367d8097d62baf92d4]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/6) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(3)(b)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/3/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-62383009d88b67367d8097d62baf92d4]: Textual amendment: Words in [reg. 3(6)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/6) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(3)(b)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/3/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-46414c4ab4f077ca61006640f10f0b1b]: Commencement: Reg. 4 not in force at made date, see reg. 1(2)
+[^c-46414c4ab4f077ca61006640f10f0b1b]: Commencement: Reg. 4 not in force at made date, see reg. 1(2)
 
-[^key-1171e85ddab771a37ed8983ddfdb2273]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-1171e85ddab771a37ed8983ddfdb2273]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23604881]: Marginal citation: [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249). There is an amending instrument but it is not relevant.
 
 [^c23604891]: Marginal citation: “the temporary admission document” is defined in regulation 2 of [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249) and is available at https://www.gov.uk/government/collections/customs-vat-and-excise-regulations-leaving-the-eu-with-no-deal. A hard copy is available for inspection, free of charge, at the offices of HMRC at 100 Parliament Street, London, SW1A 2BQ.
 
-[^key-eb6d3ad612f0081ed654df87f1c609e4]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2019/385/regulation/4/5) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/4/a/i); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-eb6d3ad612f0081ed654df87f1c609e4]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2019/385/regulation/4/5) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/4/a/i); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-2d12e883b366fe9fd6727dd26402ccdb]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2019/385/regulation/4/5) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/4/a/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-2d12e883b366fe9fd6727dd26402ccdb]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/uksi/2019/385/regulation/4/5) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/4/a/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-effdd68b396c3703a6dbbaf278eb7caa]: Textual amendment: Words in [reg. 4(6)(b)](https://www.legislation.gov.uk/uksi/2019/385/regulation/4/6/b) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(4)(b)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/4/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-effdd68b396c3703a6dbbaf278eb7caa]: Textual amendment: Words in [reg. 4(6)(b)](https://www.legislation.gov.uk/uksi/2019/385/regulation/4/6/b) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(4)(b)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/4/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-cf6dd09f1ce0217a5580a4ebaf9ba400]: Textual amendment: Words in [reg. 4(7)](https://www.legislation.gov.uk/uksi/2019/385/regulation/4/7) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(4)(c)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/4/c); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-cf6dd09f1ce0217a5580a4ebaf9ba400]: Textual amendment: Words in [reg. 4(7)](https://www.legislation.gov.uk/uksi/2019/385/regulation/4/7) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(4)(c)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/4/c); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-53c6c33aee2724d3082d42b8e577422b]: Textual amendment: Word in [reg. 4(10)](https://www.legislation.gov.uk/uksi/2019/385/regulation/4/10) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(4)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/4/d/i); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-53c6c33aee2724d3082d42b8e577422b]: Textual amendment: Word in [reg. 4(10)](https://www.legislation.gov.uk/uksi/2019/385/regulation/4/10) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(4)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/4/d/i); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-2f7715c0b4b1d52cbd6663998fb74062]: Textual amendment: Words in [reg. 4(10)](https://www.legislation.gov.uk/uksi/2019/385/regulation/4/10) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/4/d/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-2f7715c0b4b1d52cbd6663998fb74062]: Textual amendment: Words in [reg. 4(10)](https://www.legislation.gov.uk/uksi/2019/385/regulation/4/10) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/4/d/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-b7cd7e6af8758a16f7566f71ebead84d]: Textual amendment: Words in [reg. 4(10)](https://www.legislation.gov.uk/uksi/2019/385/regulation/4/10) inserted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(4)(d)(iii)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/4/d/iii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b7cd7e6af8758a16f7566f71ebead84d]: Textual amendment: Words in [reg. 4(10)](https://www.legislation.gov.uk/uksi/2019/385/regulation/4/10) inserted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(4)(d)(iii)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/4/d/iii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-9772dbfbe1a6e586065e5bf57a5b6cfc]: Commencement: Reg. 5 not in force at made date, see reg. 1(2)
+[^c-9772dbfbe1a6e586065e5bf57a5b6cfc]: Commencement: Reg. 5 not in force at made date, see reg. 1(2)
 
-[^key-bff5c979ad892b6a261f887ac80b5a37]: Commencement: Reg. 5(1) in force at 8.4.2019 for specified purposes by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2019/819/regulation/3/c)
+[^c-bff5c979ad892b6a261f887ac80b5a37]: Commencement: Reg. 5(1) in force at 8.4.2019 for specified purposes by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2019/819/regulation/3/c)
 
-[^key-383a5b186386a5e590193edacadc90ef]: Commencement: Reg. 5(1) in force in so far as not already in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-383a5b186386a5e590193edacadc90ef]: Commencement: Reg. 5(1) in force in so far as not already in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23604901]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248) as amended by [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326).
 
@@ -373,52 +373,52 @@ This instrument is one of a group of instruments covered by a single overarching
 
 [^c23604911]: Marginal citation: “Oral or by Conduct list” is defined in regulation 14 of the Customs (Import Duty) (EU Exit) Regulations 2018 as the document entitled “List of Goods Applicable to Oral and By Conduct Declarations, version 1, dated 27 November 2018. The document is available electronically from https://www.gov.uk/government/collections/customs-vat-and-excise-regulations-leaving-the-eu-with-no-deal. A hard copy is available for inspection free of charge at the offices of HMRC at 100 Parliament Street, London, SW1A 2BQ.
 
-[^key-61be9f528d739ec6678d9231d51c238c]: Textual amendment: Reg. 5(6A)-(6D) inserted (29.10.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/8/2/a)
+[^c-61be9f528d739ec6678d9231d51c238c]: Textual amendment: Reg. 5(6A)-(6D) inserted (29.10.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/8/2/a)
 
-[^key-d358c36eba17f249172f3e50afced3d1]: Textual amendment: Reg. 5(7) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/8/2/b)
+[^c-d358c36eba17f249172f3e50afced3d1]: Textual amendment: Reg. 5(7) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/8/2/b)
 
-[^key-435eb4fffa45520a0517b3662fb2e863]: Textual amendment: Word in reg. 5(9) substituted (31.10.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Customs (Bulk Customs Declaration and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/967)](https://www.legislation.gov.uk/uksi/2020/967), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/967/regulation/1/2)[(5)(d)](https://www.legislation.gov.uk/uksi/2020/967/regulation/1/5/d), [9](https://www.legislation.gov.uk/uksi/2020/967/regulation/9); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-435eb4fffa45520a0517b3662fb2e863]: Textual amendment: Word in reg. 5(9) substituted (31.10.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [The Customs (Bulk Customs Declaration and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/967)](https://www.legislation.gov.uk/uksi/2020/967), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/967/regulation/1/2)[(5)(d)](https://www.legislation.gov.uk/uksi/2020/967/regulation/1/5/d), [9](https://www.legislation.gov.uk/uksi/2020/967/regulation/9); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-7c67d5841bc666d0a5806f5d84310540]: Commencement: Reg. 5(7)(13) in force at 8.4.2019 by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2019/819/regulation/3/c)
+[^c-7c67d5841bc666d0a5806f5d84310540]: Commencement: Reg. 5(7)(13) in force at 8.4.2019 by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2019/819/regulation/3/c)
 
 [^c23604941]: Marginal citation: Paragraph (1A) was inserted into regulation 99 of S.I 2018/1248 by regulation 12(3)(b) of [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326).
 
-[^key-56994384eed564b9ed84c867aa046212]: Textual amendment: [Reg. 5(14)](https://www.legislation.gov.uk/uksi/2019/385/regulation/5/14) omitted (31.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/15/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-56994384eed564b9ed84c867aa046212]: Textual amendment: [Reg. 5(14)](https://www.legislation.gov.uk/uksi/2019/385/regulation/5/14) omitted (31.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/15/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-a54a47e4b12f1c5c8d1e451a9e78595d]: Textual amendment: [Reg. 5(17)](https://www.legislation.gov.uk/uksi/2019/385/regulation/5/17) omitted (31.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/15/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a54a47e4b12f1c5c8d1e451a9e78595d]: Textual amendment: [Reg. 5(17)](https://www.legislation.gov.uk/uksi/2019/385/regulation/5/17) omitted (31.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/15/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-0f0354371fda4bbefc6d0cca534179ca]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2)
+[^c-0f0354371fda4bbefc6d0cca534179ca]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2)
 
-[^key-217334c5a21a57e169c6d23679cb10a6]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-217334c5a21a57e169c6d23679cb10a6]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23604951]: Marginal citation: [S.I. 2019/108](https://www.legislation.gov.uk/uksi/2019/108).
 
-[^key-a8f32df05b4fb62a54cd25879e3c6a71]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/6/2) substituted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/5/2/a); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a8f32df05b4fb62a54cd25879e3c6a71]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/6/2) substituted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/5/2/a); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-c71eaf95491ed51131bc1106ad55bb80]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/6/2) substituted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/5/2/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-c71eaf95491ed51131bc1106ad55bb80]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/6/2) substituted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/5/2/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-409312ad292dcb232a42b4d87deeb019]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2019/385/regulation/6/2A) inserted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/5/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-409312ad292dcb232a42b4d87deeb019]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2019/385/regulation/6/2A) inserted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/5/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-bb53d5f90171d7c92c58f7649eebde23]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2019/385/regulation/6/5) omitted (31.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/15/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-bb53d5f90171d7c92c58f7649eebde23]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2019/385/regulation/6/5) omitted (31.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/15/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-b54ac1a273247a75a8f7fc97d0ebae26]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2019/385/regulation/6/6) omitted (31.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/15/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b54ac1a273247a75a8f7fc97d0ebae26]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2019/385/regulation/6/6) omitted (31.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/15/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-00aca85c3ac2ddaba8b300c616b6e652]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2019/385/regulation/6A) inserted (31.12.2020) by [The Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1431)](https://www.legislation.gov.uk/uksi/2020/1431), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1431/regulation/1), [23(3)](https://www.legislation.gov.uk/uksi/2020/1431/regulation/23/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-00aca85c3ac2ddaba8b300c616b6e652]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2019/385/regulation/6A) inserted (31.12.2020) by [The Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1431)](https://www.legislation.gov.uk/uksi/2020/1431), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1431/regulation/1), [23(3)](https://www.legislation.gov.uk/uksi/2020/1431/regulation/23/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-ace92b44b38f8324836d9576111b9917]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2)
+[^c-ace92b44b38f8324836d9576111b9917]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2)
 
-[^key-30918fbb3f5902227466f718e5364163]: Commencement: Reg. 7(1)(4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-30918fbb3f5902227466f718e5364163]: Commencement: Reg. 7(1)(4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23604961]: Marginal citation: Public notices made under the Taxation (Cross-border Trade) Act 2018 will be made available at https://www.gov.uk/government/collections/customs-vat-and-excise-regulations-leaving-the-eu-with-no-deal and hard copies will be made is available for inspection, free of charge, at the offices of HMRC at 100 Parliament Street, London, SW1A 2BQ.
 
-[^key-37f266c8cfaa3b3e717a70a2ca759a80]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/7/2) omitted (31.12.2020) by virtue of [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(5)(a)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/5/a); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-37f266c8cfaa3b3e717a70a2ca759a80]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/7/2) omitted (31.12.2020) by virtue of [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(5)(a)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/5/a); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-b989e5d4ebfadb27ea66ebc81b7625cf]: Commencement: Reg. 7(3) in force at 8.4.2019 by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2019/819/regulation/3/c)
+[^c-b989e5d4ebfadb27ea66ebc81b7625cf]: Commencement: Reg. 7(3) in force at 8.4.2019 by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2019/819/regulation/3/c)
 
-[^key-e679a9575b93d427ef979224334ff29f]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2019/385/regulation/7/3) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(5)(b)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/5/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-e679a9575b93d427ef979224334ff29f]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2019/385/regulation/7/3) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(5)(b)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/5/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-87337316dfdce52d0d93d6b7ea4c9b1c]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2019/385/regulation/7/4) inserted (31.12.2020) by [The Customs (Modification and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1629)](https://www.legislation.gov.uk/uksi/2020/1629), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/8/2)
+[^c-87337316dfdce52d0d93d6b7ea4c9b1c]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/uksi/2019/385/regulation/7/4) inserted (31.12.2020) by [The Customs (Modification and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1629)](https://www.legislation.gov.uk/uksi/2020/1629), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2020/1629/regulation/8/2)
 
-[^key-f1499655d42792e4b09c1225439a1d1c]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2019/385/regulation/7/4) substituted (30.9.2023) by [The Customs (Northern Ireland) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/958)](https://www.legislation.gov.uk/uksi/2023/958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1), [19(2)(a)](https://www.legislation.gov.uk/uksi/2023/958/regulation/19/2/a)
+[^c-f1499655d42792e4b09c1225439a1d1c]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2019/385/regulation/7/4) substituted (30.9.2023) by [The Customs (Northern Ireland) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/958)](https://www.legislation.gov.uk/uksi/2023/958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1), [19(2)(a)](https://www.legislation.gov.uk/uksi/2023/958/regulation/19/2/a)
 
-[^key-1a042953bb55f30b50c4a9a310a817a0]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2019/385/regulation/7/4) omitted (30.9.2023) by virtue of [The Customs (Northern Ireland) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/958)](https://www.legislation.gov.uk/uksi/2023/958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1), [19(2)(b)](https://www.legislation.gov.uk/uksi/2023/958/regulation/19/2/b)
+[^c-1a042953bb55f30b50c4a9a310a817a0]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2019/385/regulation/7/4) omitted (30.9.2023) by virtue of [The Customs (Northern Ireland) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/958)](https://www.legislation.gov.uk/uksi/2023/958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/958/regulation/1/1), [19(2)(b)](https://www.legislation.gov.uk/uksi/2023/958/regulation/19/2/b)

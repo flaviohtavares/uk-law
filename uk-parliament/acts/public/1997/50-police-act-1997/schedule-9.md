@@ -24,11 +24,11 @@ Section 134(1).
 
 ### Explosives Act 1875 (c. 17)
 
-**1.**[^key-a03f0d6a263d1ecd87b6e494c5e13314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a03f0d6a263d1ecd87b6e494c5e13314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Civil Defence Act 1948 (c. 5)
 
-**2.**[^key-ff95f73e96fe14ae923fa7edb44ef8b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ff95f73e96fe14ae923fa7edb44ef8b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public Records Act 1958 (c. 51)
 
@@ -40,17 +40,17 @@ Section 134(1).
 
 ### Trustee Investments Act 1961 (c. 62)
 
-**4.**[^key-f7eb2723f71479ebc0ce8dc1f0e0f4c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f7eb2723f71479ebc0ce8dc1f0e0f4c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f7eb2723f71479ebc0ce8dc1f0e0f4c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f7eb2723f71479ebc0ce8dc1f0e0f4c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Offices, Shops and Railway Premises Act 1963 (c. 41)
 
-**6.**[^key-f7eb2723f71479ebc0ce8dc1f0e0f4c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f7eb2723f71479ebc0ce8dc1f0e0f4c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Parliamentary Commissioner Act 1967 (c. 13)
 
-**7.**[^key-a6e4ed6d3ebd6dec76c473c1e71079de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a6e4ed6d3ebd6dec76c473c1e71079de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Police (Scotland) Act 1967 (c. 77)
 
@@ -58,28 +58,28 @@ Section 134(1).
 
 **9.** In section 27(3) (regulations as to police cadets), after “(1A),” there shall be inserted “ (2B), ”.
 
-**10.** At the end of section 28 (regulations as to standards of equipment) (which becomes subsection (1)) [^key-a3b597c4be484972154b29845b9e04b0]...
+**10.** At the end of section 28 (regulations as to standards of equipment) (which becomes subsection (1)) [^c-a3b597c4be484972154b29845b9e04b0]...
 
-**11.**[^key-974f3db96e6d88ecd8ba63d35c764ab1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-974f3db96e6d88ecd8ba63d35c764ab1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-23085a63be1ee9a27f026c894ab86f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-23085a63be1ee9a27f026c894ab86f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **13.**[^c12100031] In section 38 (constables engaged on central service and certain temporary service), in subsection (3A), after “service” there shall be inserted “ , or on temporary service such as is mentioned in paragraph (ba) or (bb) of the said section 38A(1), ”.
 
 **14.**[^c12100041] In section 38A (constables engaged on service outside their force)—
 
-- (a)[^key-04b309436ff9ee675da4cc889991c781] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-5522db9d26131b075510ca6098ef17b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-04b309436ff9ee675da4cc889991c781] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5522db9d26131b075510ca6098ef17b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-b16553d4b184b589391271c3b629068b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-b16553d4b184b589391271c3b629068b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Leasehold Reform Act 1967 (c. 88)
 
-**16.**[^key-773a9cd608242b583ddf5c677591d10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-773a9cd608242b583ddf5c677591d10d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public Expenditure and Receipts Act 1968 (c. 14)
 
-**17.**[^key-bf7f0b9eb6a2c1da166d4b8ec8f09a03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-bf7f0b9eb6a2c1da166d4b8ec8f09a03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Firearms Act 1968 (c. 27)
 
@@ -97,7 +97,7 @@ Section 134(1).
 
 ### Employers’ Liability (Compulsory Insurance) Act 1969 (c. 57)
 
-**20.**[^key-e100ea7eca248c43e6c582fc0e00b42c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-e100ea7eca248c43e6c582fc0e00b42c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Police Act (Northern Ireland) 1970 (c. 9 (N.I.))
 
@@ -115,7 +115,7 @@ Section 134(1).
 
 ### Superannuation Act 1972 (c. 11)
 
-**24.**[^key-1a9375e4495b1b732cacf687ac63f0a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-1a9375e4495b1b732cacf687ac63f0a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Employers’ Liability (Defective Equipment and Compulsory Insurance) (Northern Ireland) Order 1972 (NI 6)
 
@@ -123,11 +123,11 @@ Section 134(1).
 
 ### Employment Agencies Act 1973 (c. 35)
 
-**26.**[^key-b96feedea37f51c98cb6326c9c70db9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-b96feedea37f51c98cb6326c9c70db9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Juries Act 1974 (c. 23)
 
-**27.**[^key-8b16b02e794b4722309de6b3738b45df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-8b16b02e794b4722309de6b3738b45df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### District Courts (Scotland) Act 1975 (c. 20)
 
@@ -139,23 +139,23 @@ Section 134(1).
 
 ### House of Commons Disqualification Act 1975 (c. 24)
 
-**29.**[^c12100131] (1)[^key-e8508e2c9f1f0eaf4f0b90e9f9ab729f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c12100131] (1)[^c-e8508e2c9f1f0eaf4f0b90e9f9ab729f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-b40bbb2b464d25f39379e69a4e41c596] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b40bbb2b464d25f39379e69a4e41c596] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-f1a324876a9f6c48403f4b311945bb62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f1a324876a9f6c48403f4b311945bb62] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Northern Ireland Assembly Disqualification Act 1975 (c. 25)
 
-**30.** (1)[^key-b9951b2c1d1ee2432c722cd1e3aec872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.** (1)[^c-b9951b2c1d1ee2432c722cd1e3aec872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-2a4e0e75d02167088f6605320d64b7f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2a4e0e75d02167088f6605320d64b7f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-f32b15cda9a928aae66de6e01614dcf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f32b15cda9a928aae66de6e01614dcf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Sex Discrimination Act 1975 (c. 65)
 
-**31.**[^key-3452de4834ba707acb3902514895da2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-3452de4834ba707acb3902514895da2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Fair Employment (Northern Ireland) Act 1976 (c.25)
 
@@ -173,11 +173,11 @@ Section 134(1).
 
 - (a) the word “and” after paragraph (a) shall be omitted,
 - (b) in paragraph (b) after “it means” there shall be inserted “, subject to paragraphs (c) to (e) below,”, and
-- (c)[^key-b9f370d029759a834c4676c5a0c0bdec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b9f370d029759a834c4676c5a0c0bdec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (5), in the definition of “**central service**”—
 
-- (a)[^key-c6984f6201e0bce970187b1307b4d495] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c6984f6201e0bce970187b1307b4d495] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after “1967” there shall be inserted “or means relevant service within paragraph (ba) or (bb) of section 38A(1) of the said Act of 1967”.
 
 ### Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
@@ -229,7 +229,7 @@ Section 134(1).
 
 ### Stock Transfer Act 1982 (c. 41)
 
-**44.**[^key-45183d6da7d0084a838470d7c3e8a1dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-45183d6da7d0084a838470d7c3e8a1dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### County Courts Act 1984 (c. 28)
 
@@ -237,13 +237,13 @@ Section 134(1).
 
 ### Police and Criminal Evidence Act 1984 (c. 60)
 
-**46.**[^key-abe8bc5eaa8ba240df78a2497a6d4061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-abe8bc5eaa8ba240df78a2497a6d4061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**47.**[^key-abe8bc5eaa8ba240df78a2497a6d4061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-abe8bc5eaa8ba240df78a2497a6d4061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Prosecution of Offences Act 1985 (c. 23)
 
-**48.**[^key-abe8bc5eaa8ba240df78a2497a6d4061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-abe8bc5eaa8ba240df78a2497a6d4061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Housing Act 1985 (c. 68)
 
@@ -267,7 +267,7 @@ Section 134(1).
 
 ### Dartford-Thurrock Crossing Act 1988 (c. 20)
 
-**54.**[^key-1cf2faf5325a37e46a23e82941e29841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-1cf2faf5325a37e46a23e82941e29841] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Local Government Finance Act 1988 (c. 41)
 
@@ -281,19 +281,19 @@ Section 134(1).
 
 ### Road Traffic Act 1988 (c. 52)
 
-**58.**[^key-8908d9896d0015c66ca411491a85b200] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**58.**[^c-8908d9896d0015c66ca411491a85b200] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**59.**[^key-8908d9896d0015c66ca411491a85b200] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-8908d9896d0015c66ca411491a85b200] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Security Service Act 1989 (c. 5)
 
-**60.**[^key-8908d9896d0015c66ca411491a85b200] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-8908d9896d0015c66ca411491a85b200] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**61.**[^key-8908d9896d0015c66ca411491a85b200] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**61.**[^c-8908d9896d0015c66ca411491a85b200] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Official Secrets Act 1989 (c. 6)
 
-**62.**[^key-8908d9896d0015c66ca411491a85b200] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**62.**[^c-8908d9896d0015c66ca411491a85b200] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Town and Country Planning Act 1990 (c. 8)
 
@@ -332,9 +332,9 @@ Section 134(1).
 
 ### Tribunals and Inquiries Act 1992 (c.53)
 
-**69.**[^key-b0f22a9f1e7070c99bf606b181f54614] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**69.**[^c-b0f22a9f1e7070c99bf606b181f54614] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**70.**[^key-cc40745c700d1ae5a1d8e33c772212b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**70.**[^c-cc40745c700d1ae5a1d8e33c772212b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Criminal Appeals Act 1995 (c. 35)
 
@@ -342,7 +342,7 @@ Section 134(1).
 
 (2) In subsection (2)—
 
-- (a)[^key-348f87928554e9318d2fd30270601dbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-348f87928554e9318d2fd30270601dbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for paragraph (b) (meaning of “**chief officer of police**”) there shall be substituted—
 
   > - (b) references to the chief officer of police—
@@ -351,18 +351,18 @@ Section 134(1).
   >   - (iii) in relation to any other police force maintained otherwise than by a police authority, are to the chief constable,
 
   ,
-- (c)[^key-348f87928554e9318d2fd30270601dbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-348f87928554e9318d2fd30270601dbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-348f87928554e9318d2fd30270601dbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-348f87928554e9318d2fd30270601dbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a3399f605cd29fee73c8b7960aa12227] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a3399f605cd29fee73c8b7960aa12227] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Police Act 1996 (c. 16)
 
 **72.**[^c12100581] The Police Act 1996 shall be amended as follows.
 
-**73.**[^key-c99b9da643e3267456594aebc837be9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**73.**[^c-c99b9da643e3267456594aebc837be9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**74.**[^key-fcada4fe09269310b93c58a5e377e6cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**74.**[^c-fcada4fe09269310b93c58a5e377e6cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **75.** At the end of section 53 (regulations as to standards of equipment) (which becomes subsection (1)) there shall be added—
 
@@ -372,9 +372,9 @@ Section 134(1).
 
 .
 
-**76.**[^key-ffe7cc652137d6f928646f945b8e175a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**76.**[^c-ffe7cc652137d6f928646f945b8e175a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**77.**[^key-7a4af6c95d9b4fccbe170110d9a72c7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**77.**[^c-7a4af6c95d9b4fccbe170110d9a72c7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **78.** (1) Section 57 (common services) shall be amended as follows.
 
@@ -400,17 +400,17 @@ Section 134(1).
 
 .
 
-**79.**[^key-39cd581861b9b9857366021c330b63c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**79.**[^c-39cd581861b9b9857366021c330b63c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**80.**[^key-39cd581861b9b9857366021c330b63c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**80.**[^c-39cd581861b9b9857366021c330b63c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**81.**[^key-39cd581861b9b9857366021c330b63c6][^c12100601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**81.**[^c-39cd581861b9b9857366021c330b63c6][^c12100601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**82.**[^key-39cd581861b9b9857366021c330b63c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**82.**[^c-39cd581861b9b9857366021c330b63c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**83.**[^key-39cd581861b9b9857366021c330b63c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**83.**[^c-39cd581861b9b9857366021c330b63c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**84.**[^key-39cd581861b9b9857366021c330b63c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**84.**[^c-39cd581861b9b9857366021c330b63c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **85.** In section 88 (liability for wrongful acts of constables), in subsection (5)(b), after “or 98” there shall be inserted “ of this Act or section 23 of the Police Act 1997 ”.
 
@@ -424,15 +424,15 @@ Section 134(1).
 
 .
 
-(3)[^key-2e3f9eb4caa65d4ca47f3316131df375] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2e3f9eb4caa65d4ca47f3316131df375] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-2e3f9eb4caa65d4ca47f3316131df375] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2e3f9eb4caa65d4ca47f3316131df375] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**87.**[^key-8bfcf7cc67a14aebdb18e89a5912cd48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**87.**[^c-8bfcf7cc67a14aebdb18e89a5912cd48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Employment Rights Act 1996 (c. 18)
 
-**88.**[^key-f5ffec56ea8bd816a1fd7732fd5d5c4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**88.**[^c-f5ffec56ea8bd816a1fd7732fd5d5c4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Housing Grants, Construction and Regeneration Act 1996 (c. 53)
 
@@ -442,7 +442,7 @@ Section 134(1).
 
 .
 
-**90.**[^key-55558af0d90355a65215a537e7c0fe8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**90.**[^c-55558af0d90355a65215a537e7c0fe8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Juries (Northern Ireland) Order 1996 (NI 6)
 
@@ -454,43 +454,43 @@ Section 134(1).
 
 ### Justices of the Peace Act 1997 (c.25)
 
-**92.**[^key-ae781d0a33c1c37f87623742ed515a6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**92.**[^c-ae781d0a33c1c37f87623742ed515a6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c12100021]: Extent: The amendments in Sch. 9 have the same extent as the enactments to which they refer
 
-[^key-a03f0d6a263d1ecd87b6e494c5e13314]: Textual amendment: Sch. 9 para. 1 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-a03f0d6a263d1ecd87b6e494c5e13314]: Textual amendment: Sch. 9 para. 1 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-ff95f73e96fe14ae923fa7edb44ef8b2]: Textual amendment: Sch. 9 para. 2 repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
+[^c-ff95f73e96fe14ae923fa7edb44ef8b2]: Textual amendment: Sch. 9 para. 2 repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
 
-[^key-f7eb2723f71479ebc0ce8dc1f0e0f4c3]: Textual amendment: Sch. 9 paras. 4-6 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-f7eb2723f71479ebc0ce8dc1f0e0f4c3]: Textual amendment: Sch. 9 paras. 4-6 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-a6e4ed6d3ebd6dec76c473c1e71079de]: Textual amendment: Sch. 9 para. 7 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+[^c-a6e4ed6d3ebd6dec76c473c1e71079de]: Textual amendment: Sch. 9 para. 7 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
 
-[^key-a3b597c4be484972154b29845b9e04b0]: Textual amendment: Words in Sch. 9 para. 10 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+[^c-a3b597c4be484972154b29845b9e04b0]: Textual amendment: Words in Sch. 9 para. 10 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
 
-[^key-974f3db96e6d88ecd8ba63d35c764ab1]: Textual amendment: Sch. 9 para. 11 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-974f3db96e6d88ecd8ba63d35c764ab1]: Textual amendment: Sch. 9 para. 11 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-23085a63be1ee9a27f026c894ab86f4a]: Textual amendment: Sch. 9 para. 12 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+[^c-23085a63be1ee9a27f026c894ab86f4a]: Textual amendment: Sch. 9 para. 12 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
 
 [^c12100031]: Commencement: Sch. 9 para. 13 wholly in force at 31.10.1997; Sch. 9 para. 13 not in force at Royal Assent see s. 135; Sch. 9 para. 13 in force at 31.10.1997 by [S.I. 1997/2390](https://www.legislation.gov.uk/uksi/1997/2390), [art. 2](https://www.legislation.gov.uk/uksi/1997/2390/article/2) (with [arts. 3-7](https://www.legislation.gov.uk/uksi/1997/2390/article/3)(but the said [arts. 4-7](https://www.legislation.gov.uk/uksi/1997/2390/article/4) were revoked ([1](https://www.legislation.gov.uk/uksi/1997/2390/article/1).[4](https://www.legislation.gov.uk/uksi/1997/2390/article/4).[1998](https://www.legislation.gov.uk/uksi/1997/2390/article/1998)) by [S.I. 1998/354](https://www.legislation.gov.uk/uksi/1998/354), [art. 7](https://www.legislation.gov.uk/uksi/1998/354/article/7)))
 
 [^c12100041]: Commencement: Sch. 9 para. 14 wholly in force at 31.10.1997; Sch. 9 para. 14 not in force at Royal Assent see s. 135; Sch. 9 para. 14 in force at 31.10.1997 by [S.I. 1997/2390](https://www.legislation.gov.uk/uksi/1997/2390), [art. 2](https://www.legislation.gov.uk/uksi/1997/2390/article/2) (with [arts. 3-7](https://www.legislation.gov.uk/uksi/1997/2390/article/3)(but the said [arts. 4-7](https://www.legislation.gov.uk/uksi/1997/2390/article/4) were revoked ([1](https://www.legislation.gov.uk/uksi/1997/2390/article/1).[4](https://www.legislation.gov.uk/uksi/1997/2390/article/4).[1998](https://www.legislation.gov.uk/uksi/1997/2390/article/1998)) by [S.I. 1998/354](https://www.legislation.gov.uk/uksi/1998/354), [art. 7](https://www.legislation.gov.uk/uksi/1998/354/article/7)))
 
-[^key-04b309436ff9ee675da4cc889991c781]: Textual amendment: Sch. 9 para. 14(a) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+[^c-04b309436ff9ee675da4cc889991c781]: Textual amendment: Sch. 9 para. 14(a) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
 
-[^key-5522db9d26131b075510ca6098ef17b2]: Textual amendment: Sch. 9 para. 14(b) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-5522db9d26131b075510ca6098ef17b2]: Textual amendment: Sch. 9 para. 14(b) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-b16553d4b184b589391271c3b629068b]: Textual amendment: Sch. 9 para. 15 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-b16553d4b184b589391271c3b629068b]: Textual amendment: Sch. 9 para. 15 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-773a9cd608242b583ddf5c677591d10d]: Textual amendment: Sch. 9 para. 16 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-773a9cd608242b583ddf5c677591d10d]: Textual amendment: Sch. 9 para. 16 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-bf7f0b9eb6a2c1da166d4b8ec8f09a03]: Textual amendment: Sch. 9 para. 17 repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
+[^c-bf7f0b9eb6a2c1da166d4b8ec8f09a03]: Textual amendment: Sch. 9 para. 17 repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/r)
 
 [^c12100051]: Textual amendment: Sch. 9 para. 19 repealed (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1149/schedule/2)
 
-[^key-e100ea7eca248c43e6c582fc0e00b42c]: Textual amendment: Sch. 9 para. 20 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-e100ea7eca248c43e6c582fc0e00b42c]: Textual amendment: Sch. 9 para. 20 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
 [^c12100061]: Textual amendment: Sch. 9 para. 21 repealed (1.4.1999) by [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32), [ss. 74(2)(3)](https://www.legislation.gov.uk/ukpga/1998/32/section/74/2/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/1998/32/schedule/6) (with [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/1998/32/schedule/5/paragraph/1)); [S.R. 1999/176](https://www.legislation.gov.uk/nisr/1999/176), [art. 3](https://www.legislation.gov.uk/nisr/1999/176/article/3)
 
@@ -498,35 +498,35 @@ Section 134(1).
 
 [^c16944641]: Textual amendment: Sch. 9 para. 23 repealed (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [s. 137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 7 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5/1); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(j)(m)](https://www.legislation.gov.uk/uksi/2002/344/article/3/j/m) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2002/344/article/4))
 
-[^key-1a9375e4495b1b732cacf687ac63f0a5]: Textual amendment: Sch. 9 para. 24 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+[^c-1a9375e4495b1b732cacf687ac63f0a5]: Textual amendment: Sch. 9 para. 24 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
 
 [^c16944831]: Textual amendment: Sch. 9 para. 25 repealed (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [s. 137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 7 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5/1); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(j)(m)](https://www.legislation.gov.uk/uksi/2002/344/article/3/j/m) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2002/344/article/4))
 
-[^key-b96feedea37f51c98cb6326c9c70db9f]: Textual amendment: Sch. 9 para. 26 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-b96feedea37f51c98cb6326c9c70db9f]: Textual amendment: Sch. 9 para. 26 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-8b16b02e794b4722309de6b3738b45df]: Textual amendment: Sch. 9 para. 27 repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/10); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1)[(2)(l)(iv)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/l/iv)
+[^c-8b16b02e794b4722309de6b3738b45df]: Textual amendment: Sch. 9 para. 27 repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/10); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1)[(2)(l)(iv)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/l/iv)
 
 [^c12100131]: Commencement: Sch. 9 para. 29 wholly in force at 1.4.1998; Sch. 9 para. 29 not in force at Royal Assent see s. 135; Sch. 9 para. 29(3), in force at 1.9.1997 by [S.I. 1997/1930](https://www.legislation.gov.uk/uksi/1997/1930), [art. 2(1)(2)(x)](https://www.legislation.gov.uk/uksi/1997/1930/article/2/1/2/x); otherwise in force at 1.4.1998 by [S.I. 1998/354](https://www.legislation.gov.uk/uksi/1998/354) art. 2
 
-[^key-e8508e2c9f1f0eaf4f0b90e9f9ab729f]: Textual amendment: Sch. 9 para. 29(1) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+[^c-e8508e2c9f1f0eaf4f0b90e9f9ab729f]: Textual amendment: Sch. 9 para. 29(1) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
 
-[^key-b40bbb2b464d25f39379e69a4e41c596]: Textual amendment: Sch. 9 para. 29(2) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-b40bbb2b464d25f39379e69a4e41c596]: Textual amendment: Sch. 9 para. 29(2) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-f1a324876a9f6c48403f4b311945bb62]: Textual amendment: Sch. 9 para. 29(3) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+[^c-f1a324876a9f6c48403f4b311945bb62]: Textual amendment: Sch. 9 para. 29(3) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
 
-[^key-b9951b2c1d1ee2432c722cd1e3aec872]: Textual amendment: Sch. 9 para. 30(1) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+[^c-b9951b2c1d1ee2432c722cd1e3aec872]: Textual amendment: Sch. 9 para. 30(1) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
 
-[^key-2a4e0e75d02167088f6605320d64b7f7]: Textual amendment: Sch. 9 para. 30(2) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-2a4e0e75d02167088f6605320d64b7f7]: Textual amendment: Sch. 9 para. 30(2) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-f32b15cda9a928aae66de6e01614dcf9]: Textual amendment: Sch. 9 para. 30(3) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+[^c-f32b15cda9a928aae66de6e01614dcf9]: Textual amendment: Sch. 9 para. 30(3) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
 
-[^key-3452de4834ba707acb3902514895da2d]: Textual amendment: Sch. 9 para. 31 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-3452de4834ba707acb3902514895da2d]: Textual amendment: Sch. 9 para. 31 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
 [^c12100141]: Textual amendment: Sch. 9 para. 32 repealed (4.11.2001) by [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32), [s. 78(4)](https://www.legislation.gov.uk/ukpga/2000/32/section/78/4), [Sch. 8](https://www.legislation.gov.uk/ukpga/2000/32/schedule/8); [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2](https://www.legislation.gov.uk/nisr/2001/396/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/396/schedule)
 
-[^key-b9f370d029759a834c4676c5a0c0bdec]: Textual amendment: Sch. 9 para. 33(2)(c) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+[^c-b9f370d029759a834c4676c5a0c0bdec]: Textual amendment: Sch. 9 para. 33(2)(c) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
 
-[^key-c6984f6201e0bce970187b1307b4d495]: Textual amendment: Sch. 9 para. 33(3)(a) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+[^c-c6984f6201e0bce970187b1307b4d495]: Textual amendment: Sch. 9 para. 33(3)(a) repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
 
 [^c12100151]: Textual amendment: Sch. 9 para. 35 repealed (2.4.2001) by [2000 c. 34](https://www.legislation.gov.uk/ukpga/2000/34), [s. 9(2)](https://www.legislation.gov.uk/ukpga/2000/34/section/9/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2000/34/schedule/3) (with [s. 10(5)](https://www.legislation.gov.uk/ukpga/2000/34/section/10/5)); [S.I. 2001/566](https://www.legislation.gov.uk/uksi/2001/566), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/566/article/2/1)
 
@@ -544,11 +544,11 @@ Section 134(1).
 
 [^c16945491]: Textual amendment: Sch. 9 para. 43 repealed (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [s. 137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 7 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5/1); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(j)(m)](https://www.legislation.gov.uk/uksi/2002/344/article/3/j/m) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2002/344/article/4))
 
-[^key-45183d6da7d0084a838470d7c3e8a1dc]: Textual amendment: Sch. 9 para. 44 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-45183d6da7d0084a838470d7c3e8a1dc]: Textual amendment: Sch. 9 para. 44 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
 [^c16945611]: Textual amendment: Sch. 9 para. 45 repealed (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [s. 137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 7 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5/1); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(j)(m)](https://www.legislation.gov.uk/uksi/2002/344/article/3/j/m) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2002/344/article/4))
 
-[^key-abe8bc5eaa8ba240df78a2497a6d4061]: Textual amendment: Sch. 9 paras. 46-48 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-abe8bc5eaa8ba240df78a2497a6d4061]: Textual amendment: Sch. 9 paras. 46-48 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
 [^c16945931]: Textual amendment: Sch. 9 para. 49 repealed (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [s. 137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 7 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5/1); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(J)(m)](https://www.legislation.gov.uk/uksi/2002/344/article/3/J/m) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2002/344/article/4))
 
@@ -560,7 +560,7 @@ Section 134(1).
 
 [^c16946631]: Textual amendment: Sch. 9 para. 53 repealed (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [s. 137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 7 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5/1); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(j)(m)](https://www.legislation.gov.uk/uksi/2002/344/article/3/j/m) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2002/344/article/4))
 
-[^key-1cf2faf5325a37e46a23e82941e29841]: Textual amendment: Sch. 9 para. 54 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-1cf2faf5325a37e46a23e82941e29841]: Textual amendment: Sch. 9 para. 54 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
 [^c16946681]: Textual amendment: Sch. 9 para. 55 repealed (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [s. 137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 7 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5/1); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(j)(m)](https://www.legislation.gov.uk/uksi/2002/344/article/3/j/m) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2002/344/article/4))
 
@@ -568,7 +568,7 @@ Section 134(1).
 
 [^c12100451]: Commencement: Sch. 9 para. 57 wholly in force at 31.10.1997; Sch. 9 para. 57 not in force at Royal Assent see s. 135; Sch. 9 para. 57 in force at 31.10.1997 by [S.I. 1997/2390](https://www.legislation.gov.uk/uksi/1997/2390), [art. 2](https://www.legislation.gov.uk/uksi/1997/2390/article/2) (with [arts. 3-7](https://www.legislation.gov.uk/uksi/1997/2390/article/3)(but the said [arts. 4-7](https://www.legislation.gov.uk/uksi/1997/2390/article/4) were revoked ([1](https://www.legislation.gov.uk/uksi/1997/2390/article/1).[4](https://www.legislation.gov.uk/uksi/1997/2390/article/4).[1998](https://www.legislation.gov.uk/uksi/1997/2390/article/1998)) by [S.I. 1998/354](https://www.legislation.gov.uk/uksi/1998/354), [art. 7](https://www.legislation.gov.uk/uksi/1998/354/article/7)))
 
-[^key-8908d9896d0015c66ca411491a85b200]: Textual amendment: Sch. 9 paras. 58-62 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-8908d9896d0015c66ca411491a85b200]: Textual amendment: Sch. 9 paras. 58-62 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
 [^c16946691]: Textual amendment: Sch. 9 para. 63 repealed (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [s. 137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 7 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5/1); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(j)(m)](https://www.legislation.gov.uk/uksi/2002/344/article/3/j/m) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2002/344/article/4))
 
@@ -580,42 +580,42 @@ Section 134(1).
 
 [^c16946791]: Textual amendment: Sch. 9 para. 68 repealed (1.4.2002) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [s. 137](https://www.legislation.gov.uk/ukpga/2001/16/section/137), [Sch. 7 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/5/1); [S.I. 2002/344](https://www.legislation.gov.uk/uksi/2002/344), [art. 3(j)(m)](https://www.legislation.gov.uk/uksi/2002/344/article/3/j/m) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2002/344/article/4))
 
-[^key-b0f22a9f1e7070c99bf606b181f54614]: Textual amendment: Sch. 9 para. 69 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-b0f22a9f1e7070c99bf606b181f54614]: Textual amendment: Sch. 9 para. 69 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-cc40745c700d1ae5a1d8e33c772212b3]: Textual amendment: Sch. 9 para. 70 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-cc40745c700d1ae5a1d8e33c772212b3]: Textual amendment: Sch. 9 para. 70 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-348f87928554e9318d2fd30270601dbc]: Textual amendment: Sch. 9 para. 71(2)(a)(c)(d) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-348f87928554e9318d2fd30270601dbc]: Textual amendment: Sch. 9 para. 71(2)(a)(c)(d) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
 [^c12100561]: Textual amendment: Words in Sch. 9 para. 71(2)(b) substituted (4.11.2001) by [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32), [s. 78(1)](https://www.legislation.gov.uk/ukpga/2000/32/section/78/1), [Sch. 6 para. 20(2)(a)(b)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/6/paragraph/20/2/a/b); [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2](https://www.legislation.gov.uk/nisr/2001/396/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/396/schedule)
 
-[^key-a3399f605cd29fee73c8b7960aa12227]: Textual amendment: Sch. 9 para. 71(3) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-a3399f605cd29fee73c8b7960aa12227]: Textual amendment: Sch. 9 para. 71(3) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
 [^c12100581]: Commencement: Sch. 9 para. 72 wholly in force at 31.10.1997; Sch. 9 para. 72 not in force at Royal Assent see s. 135; Sch. 9 para 72 in force at 31.10.1997 by [S.I. 1997/2390](https://www.legislation.gov.uk/uksi/1997/2390), [art. 2](https://www.legislation.gov.uk/uksi/1997/2390/article/2) (with [arts. 3-7](https://www.legislation.gov.uk/uksi/1997/2390/article/3)(but the said [arts. 4-7](https://www.legislation.gov.uk/uksi/1997/2390/article/4) were revoked ([1](https://www.legislation.gov.uk/uksi/1997/2390/article/1).[4](https://www.legislation.gov.uk/uksi/1997/2390/article/4).[1998](https://www.legislation.gov.uk/uksi/1997/2390/article/1998)) by [S.I. 1998/354](https://www.legislation.gov.uk/uksi/1998/354), [art. 7](https://www.legislation.gov.uk/uksi/1998/354/article/7)))
 
-[^key-c99b9da643e3267456594aebc837be9a]: Textual amendment: Sch. 9 para. 73 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-c99b9da643e3267456594aebc837be9a]: Textual amendment: Sch. 9 para. 73 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-fcada4fe09269310b93c58a5e377e6cf]: Textual amendment: Sch. 9 para. 74 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-fcada4fe09269310b93c58a5e377e6cf]: Textual amendment: Sch. 9 para. 74 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-ffe7cc652137d6f928646f945b8e175a]: Textual amendment: Sch. 9 para. 76 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-ffe7cc652137d6f928646f945b8e175a]: Textual amendment: Sch. 9 para. 76 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-7a4af6c95d9b4fccbe170110d9a72c7d]: Textual amendment: Sch. 9 para. 77 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-7a4af6c95d9b4fccbe170110d9a72c7d]: Textual amendment: Sch. 9 para. 77 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-39cd581861b9b9857366021c330b63c6]: Textual amendment: Sch. 9 paras. 79-84 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-39cd581861b9b9857366021c330b63c6]: Textual amendment: Sch. 9 paras. 79-84 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
 [^c12100601]: Commencement: Sch. 9 para. 81 wholly in force at 31.10.1997; Sch. 9 para. 81 not in force at Royal Assent see s. 135; Sch. 9 para. 81 in force at 31.10.1997 by [S.I. 1997/2390](https://www.legislation.gov.uk/uksi/1997/2390), [art. 2](https://www.legislation.gov.uk/uksi/1997/2390/article/2) (with [arts. 3-7](https://www.legislation.gov.uk/uksi/1997/2390/article/3)(but the said [arts. 4-7](https://www.legislation.gov.uk/uksi/1997/2390/article/4) were revoked ([1](https://www.legislation.gov.uk/uksi/1997/2390/article/1).[4](https://www.legislation.gov.uk/uksi/1997/2390/article/4).[1998](https://www.legislation.gov.uk/uksi/1997/2390/article/1998)) by [S.I. 1998/354](https://www.legislation.gov.uk/uksi/1998/354), [art. 7](https://www.legislation.gov.uk/uksi/1998/354/article/7)))
 
 [^c12100631]: Commencement: Sch. 9 para. 86 wholly in force at 31.10.1997; Sch. 9 para. 86 not in force at Royal Assent see s. 135; Sch. 9 para. 86 in force at 31.10.1997 by [S.I. 1997/2390](https://www.legislation.gov.uk/uksi/1997/2390), [art. 2](https://www.legislation.gov.uk/uksi/1997/2390/article/2) (with [arts. 3-7](https://www.legislation.gov.uk/uksi/1997/2390/article/3)(but the said [arts. 4-7](https://www.legislation.gov.uk/uksi/1997/2390/article/4) were revoked ([1](https://www.legislation.gov.uk/uksi/1997/2390/article/1).[4](https://www.legislation.gov.uk/uksi/1997/2390/article/4).[1998](https://www.legislation.gov.uk/uksi/1997/2390/article/1998)) by [S.I. 1998/354](https://www.legislation.gov.uk/uksi/1998/354), [art. 7](https://www.legislation.gov.uk/uksi/1998/354/article/7)))
 
-[^key-2e3f9eb4caa65d4ca47f3316131df375]: Textual amendment: Sch. 9 para. 86(3)(4) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-2e3f9eb4caa65d4ca47f3316131df375]: Textual amendment: Sch. 9 para. 86(3)(4) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-8bfcf7cc67a14aebdb18e89a5912cd48]: Textual amendment: Sch. 9 para. 87 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-8bfcf7cc67a14aebdb18e89a5912cd48]: Textual amendment: Sch. 9 para. 87 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-f5ffec56ea8bd816a1fd7732fd5d5c4e]: Textual amendment: Sch. 9 para. 88 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
+[^c-f5ffec56ea8bd816a1fd7732fd5d5c4e]: Textual amendment: Sch. 9 para. 88 repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 13(dd)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/dd)
 
-[^key-55558af0d90355a65215a537e7c0fe8f]: Textual amendment: Sch. 9 para. 90 repealed (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6)
+[^c-55558af0d90355a65215a537e7c0fe8f]: Textual amendment: Sch. 9 para. 90 repealed (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6)
 
 [^c12100671]: Commencement: Sch. 9 para. 91 wholly in force at 31.10.1997; Sch. 9 para. 91 not in force at Royal Assent see s. 135; Sch. 9 para. 91 in force at 31.10.1997 by [S.I. 1997/2390](https://www.legislation.gov.uk/uksi/1997/2390), [art. 2](https://www.legislation.gov.uk/uksi/1997/2390/article/2) (with [arts. 3-7](https://www.legislation.gov.uk/uksi/1997/2390/article/3)(but the said [arts. 4-7](https://www.legislation.gov.uk/uksi/1997/2390/article/4) were revoked ([1](https://www.legislation.gov.uk/uksi/1997/2390/article/1).[4](https://www.legislation.gov.uk/uksi/1997/2390/article/4).[1998](https://www.legislation.gov.uk/uksi/1997/2390/article/1998)) by [S.I. 1998/354](https://www.legislation.gov.uk/uksi/1998/354), [art. 7](https://www.legislation.gov.uk/uksi/1998/354/article/7)))
 
 [^c12100681]: Textual amendment: Words in Sch. 9 para. 91 substituted (4.11.2001) by [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32), [s. 78(1)](https://www.legislation.gov.uk/ukpga/2000/32/section/78/1), [Sch. 6 para. 20(3)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/6/paragraph/20/3); [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2](https://www.legislation.gov.uk/nisr/2001/396/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/396/schedule)
 
-[^key-ae781d0a33c1c37f87623742ed515a6a]: Textual amendment: Sch. 9 para. 92 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-ae781d0a33c1c37f87623742ed515a6a]: Textual amendment: Sch. 9 para. 92 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)

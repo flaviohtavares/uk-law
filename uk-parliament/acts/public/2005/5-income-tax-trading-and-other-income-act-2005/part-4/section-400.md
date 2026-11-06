@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 400. Non-qualifying distributions[^key-7d3cdeb6e1664b49eddec3a94a5ee3b9]
+## 400. Non-qualifying distributions[^c-7d3cdeb6e1664b49eddec3a94a5ee3b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d3cdeb6e1664b49eddec3a94a5ee3b9]: Textual amendment: S. 400 omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/1/1)
+[^c-7d3cdeb6e1664b49eddec3a94a5ee3b9]: Textual amendment: S. 400 omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/1/1)

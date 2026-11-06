@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Sustainability disclosure requirements[^key-eee9286a1cf9cb30c0f1901cc4788052][^key-5c70d9ae4ab650d4e248e657855501c3]
+## 21. Sustainability disclosure requirements[^c-eee9286a1cf9cb30c0f1901cc4788052][^c-5c70d9ae4ab650d4e248e657855501c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,6 +94,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eee9286a1cf9cb30c0f1901cc4788052]: Commencement: S. 21 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-eee9286a1cf9cb30c0f1901cc4788052]: Commencement: S. 21 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-5c70d9ae4ab650d4e248e657855501c3]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2023/29/section/21) in force at 1.1.2024 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/a)
+[^c-5c70d9ae4ab650d4e248e657855501c3]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2023/29/section/21) in force at 1.1.2024 by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/9/1/a)

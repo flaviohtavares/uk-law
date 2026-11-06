@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.15. Examiners of the court[^key-28628329ba7795f630f1fda448ae6868]
+## 34.15. Examiners of the court[^c-28628329ba7795f630f1fda448ae6868]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28628329ba7795f630f1fda448ae6868]: Commencement: [Rule 34.15](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.15) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-28628329ba7795f630f1fda448ae6868]: Commencement: [Rule 34.15](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.15) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

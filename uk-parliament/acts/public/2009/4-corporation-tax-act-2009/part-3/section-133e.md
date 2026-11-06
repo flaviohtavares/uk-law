@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133E. Meaning of “banking company”[^key-c98210a82b63e9fb0bbc42a0013b43b0]
+## 133E. Meaning of “banking company”[^c-c98210a82b63e9fb0bbc42a0013b43b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ and “**member**”, in relation to a partnership, is to be read accordingly.
 
 ## Annotations
 
-[^key-c98210a82b63e9fb0bbc42a0013b43b0]: Textual amendment: Ss. 133A-133N and cross-heading inserted (with effect in accordance with s. 18(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/18/1)
+[^c-c98210a82b63e9fb0bbc42a0013b43b0]: Textual amendment: Ss. 133A-133N and cross-heading inserted (with effect in accordance with s. 18(2) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2015/33/section/18/1)

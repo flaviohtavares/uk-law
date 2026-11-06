@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Decisions: preliminary[^key-5ca5e1675afc4f43a26afee4f33906ab][^key-b85af74cb86caa54ae2ff33d573c1bdf]
+## 13. Decisions: preliminary[^c-5ca5e1675afc4f43a26afee4f33906ab][^c-b85af74cb86caa54ae2ff33d573c1bdf]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ca5e1675afc4f43a26afee4f33906ab]: Commencement: S. 13 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-5ca5e1675afc4f43a26afee4f33906ab]: Commencement: S. 13 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
 
-[^key-b85af74cb86caa54ae2ff33d573c1bdf]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/2/section/13) in force at 26.6.2024 for specified purposes by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)
+[^c-b85af74cb86caa54ae2ff33d573c1bdf]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/2/section/13) in force at 26.6.2024 for specified purposes by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)

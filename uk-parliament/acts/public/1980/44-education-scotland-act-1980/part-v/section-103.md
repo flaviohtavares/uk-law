@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Appeals under this Part[^key-906be005523c0a25f0c745946e266738]
+## 103. Appeals under this Part[^c-906be005523c0a25f0c745946e266738]
 
 *Extent: S*
 
@@ -78,4 +78,4 @@ as the sheriff principal thinks fit.
 
 ## Annotations
 
-[^key-906be005523c0a25f0c745946e266738]: Textual amendment: S. 103 substituted (31.12.2005) by [School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), [ss. 6(2)](https://www.legislation.gov.uk/asp/2004/12/section/6/2), [9(2)](https://www.legislation.gov.uk/asp/2004/12/section/9/2); [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2005/570/article/3/2))
+[^c-906be005523c0a25f0c745946e266738]: Textual amendment: S. 103 substituted (31.12.2005) by [School Education (Ministerial Powers and Independent Schools) (Scotland) Act 2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12), [ss. 6(2)](https://www.legislation.gov.uk/asp/2004/12/section/6/2), [9(2)](https://www.legislation.gov.uk/asp/2004/12/section/9/2); [S.S.I. 2005/570](https://www.legislation.gov.uk/ssi/2005/570), [art. 2(a)](https://www.legislation.gov.uk/ssi/2005/570/article/2/a) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2005/570/article/3/2))

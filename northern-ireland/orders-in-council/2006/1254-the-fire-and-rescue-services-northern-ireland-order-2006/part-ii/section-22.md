@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Articles 18 to 21: offences[^key-6f2fe6160bb7ff06af0fed1d2001a581][^key-e773ce357daefbd815eef144598fa7a0]
+## 22. Articles 18 to 21: offences[^c-6f2fe6160bb7ff06af0fed1d2001a581][^c-e773ce357daefbd815eef144598fa7a0]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f2fe6160bb7ff06af0fed1d2001a581]: Modification: [Arts. 20-22](https://www.legislation.gov.uk/nisi/2006/1254/article/20) applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [18(5)](https://www.legislation.gov.uk/uksi/2013/602/article/18/5), [(6)](https://www.legislation.gov.uk/uksi/2013/602/article/18/6)
+[^c-6f2fe6160bb7ff06af0fed1d2001a581]: Modification: [Arts. 20-22](https://www.legislation.gov.uk/nisi/2006/1254/article/20) applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [18(5)](https://www.legislation.gov.uk/uksi/2013/602/article/18/5), [(6)](https://www.legislation.gov.uk/uksi/2013/602/article/18/6)
 
-[^key-e773ce357daefbd815eef144598fa7a0]: Modification: [Art. 22](https://www.legislation.gov.uk/nisi/2006/1254/article/22) applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2013/602/article/18/3)
+[^c-e773ce357daefbd815eef144598fa7a0]: Modification: [Art. 22](https://www.legislation.gov.uk/nisi/2006/1254/article/22) applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2013/602/article/18/3)

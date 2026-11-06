@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 8
 
-### 1. General[^key-a9f2ea64118fd8a221a5f088bc1ebe6d]
+### 1. General[^c-a9f2ea64118fd8a221a5f088bc1ebe6d]
 
 (1) The Measuring Instruments (EEC Requirements) Regulations 1988, so far as they continue in force by virtue of paragraph 5 of the Schedule to the Weights and Measures (Revocations) Regulations 2015 [^c24326641], are amended as follows.
 
@@ -54,7 +54,7 @@ Regulation 8
 
 > **15A. Conditions in EEC pattern approvals requiring notice of place of installation: effect after EU exit**
 >
-> (1) This regulation applies where an EEC pattern approval granted before IP completion day[^key-bdeef9e9aea45a7dbee7897b54edf6dc] is subject to a condition requiring notice of the place of installation to be given to the competent authorities of member States in which instruments of the pattern in question are to be installed.
+> (1) This regulation applies where an EEC pattern approval granted before IP completion day[^c-bdeef9e9aea45a7dbee7897b54edf6dc] is subject to a condition requiring notice of the place of installation to be given to the competent authorities of member States in which instruments of the pattern in question are to be installed.
 >
 > (2) For the purposes of these Regulations the condition is to be treated as including a requirement for such notice to be given to the Secretary of State if any such instrument is to be installed in the United Kingdom.
 
@@ -62,8 +62,8 @@ Regulation 8
 
 ## Annotations
 
-[^key-a9f2ea64118fd8a221a5f088bc1ebe6d]: Commencement: Sch. 5 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a9f2ea64118fd8a221a5f088bc1ebe6d]: Commencement: Sch. 5 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24326641]: Marginal citation: [S.I. 2015/356](https://www.legislation.gov.uk/uksi/2015/356).
 
-[^key-bdeef9e9aea45a7dbee7897b54edf6dc]: Textual amendment: Words in Sch. 5 para. 1(6) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/a)
+[^c-bdeef9e9aea45a7dbee7897b54edf6dc]: Textual amendment: Words in Sch. 5 para. 1(6) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/a)

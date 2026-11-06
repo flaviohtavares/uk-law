@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Repeals[^key-128aa0e237a3c1e6d81d5d2e7c1736f6]
+## 128. Repeals[^c-128aa0e237a3c1e6d81d5d2e7c1736f6]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-128aa0e237a3c1e6d81d5d2e7c1736f6]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2013/32/section/128) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)
+[^c-128aa0e237a3c1e6d81d5d2e7c1736f6]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2013/32/section/128) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)

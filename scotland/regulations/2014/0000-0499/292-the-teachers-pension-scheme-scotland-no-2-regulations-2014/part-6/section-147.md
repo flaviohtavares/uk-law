@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 147. Annual rate of child pension: short-term[^key-0fd254d7c2c0c8e092dcbe0bf3585f54]
+## 147. Annual rate of child pension: short-term[^c-0fd254d7c2c0c8e092dcbe0bf3585f54]
 
 *Extent: S*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (2) The short term rate of child pension is calculated as follows—
 
-- (a) if D dies in service, it is D’s annual rate of pensionable earnings as at the date of D’s death (disregarding any reduction by reason of sick leave, maternity leave, paternity leave, shared parental leave[^key-15c04e5a208cca9952916da680721b43] , parental bereavement leave[^key-b219cd75470a07e9d9e99735c6c5aab1] or adoption leave) divided by the number of D’s eligible children to whom a pension is payable;
+- (a) if D dies in service, it is D’s annual rate of pensionable earnings as at the date of D’s death (disregarding any reduction by reason of sick leave, maternity leave, paternity leave, shared parental leave[^c-15c04e5a208cca9952916da680721b43] , parental bereavement leave[^c-b219cd75470a07e9d9e99735c6c5aab1] or adoption leave) divided by the number of D’s eligible children to whom a pension is payable;
 - (b) if D dies as a pensioner member, it is D’s annual rate of retirement pension payable as at the date of D’s death (disregarding any reduction by virtue of a pension sharing order) divided by the number of D’s eligible children to whom a pension is payable; or
 - (c) if the rate calculated under sub-paragraph (a) or (b) is smaller than the annual rate calculated in accordance with regulation 148 (“long-term rate”), it is the same as the long-term rate.
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0fd254d7c2c0c8e092dcbe0bf3585f54]: Commencement: [Reg. 147](https://www.legislation.gov.uk/ssi/2014/292/regulation/147) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-0fd254d7c2c0c8e092dcbe0bf3585f54]: Commencement: [Reg. 147](https://www.legislation.gov.uk/ssi/2014/292/regulation/147) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-15c04e5a208cca9952916da680721b43]: Textual amendment: Words in [reg. 147(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/147/2/a) substituted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [13](https://www.legislation.gov.uk/ssi/2015/97/regulation/13)
+[^c-15c04e5a208cca9952916da680721b43]: Textual amendment: Words in [reg. 147(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/147/2/a) substituted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [13](https://www.legislation.gov.uk/ssi/2015/97/regulation/13)
 
-[^key-b219cd75470a07e9d9e99735c6c5aab1]: Textual amendment: Words in [reg. 147(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/147/2/a) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [34(8)](https://www.legislation.gov.uk/uksi/2020/354/regulation/34/8)
+[^c-b219cd75470a07e9d9e99735c6c5aab1]: Textual amendment: Words in [reg. 147(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/147/2/a) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [34(8)](https://www.legislation.gov.uk/uksi/2020/354/regulation/34/8)

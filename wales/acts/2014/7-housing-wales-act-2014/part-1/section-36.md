@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Requests for information from authorities and use of information by authorities[^key-a753328e8a4ebdf8e8b562124c945de5]
+## 36. Requests for information from authorities and use of information by authorities[^c-a753328e8a4ebdf8e8b562124c945de5]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a753328e8a4ebdf8e8b562124c945de5]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2014/7/section/36) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/r)
+[^c-a753328e8a4ebdf8e8b562124c945de5]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2014/7/section/36) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/r)

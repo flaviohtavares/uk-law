@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13.3. “Give notice”, etc[^key-d28bbc7b60660f29c7c07b9f24074094]
+## 13.3. “Give notice”, etc[^c-d28bbc7b60660f29c7c07b9f24074094]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d28bbc7b60660f29c7c07b9f24074094]: Commencement: Rule 13.3 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-d28bbc7b60660f29c7c07b9f24074094]: Commencement: Rule 13.3 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Food provided for children[^key-bfa5b2eaf99490d1a454e25110e372cd]
+## 11. Food provided for children[^c-bfa5b2eaf99490d1a454e25110e372cd]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfa5b2eaf99490d1a454e25110e372cd]: Commencement: Reg. 11 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-bfa5b2eaf99490d1a454e25110e372cd]: Commencement: Reg. 11 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

@@ -33,9 +33,9 @@ An Act to make further financial provision for and in respect of British Nuclear
 
 \[30th March 1977\]
 
-## 1. Government guarantee of companies’ borrowing, etc.[^key-c8b2e4db431bcb74f0d2b3a5b32c9c4b]
+## 1. Government guarantee of companies’ borrowing, etc.[^c-c8b2e4db431bcb74f0d2b3a5b32c9c4b]
 
-(1) The Secretary of State may guarantee repayment of any loan made to British Nuclear Fuels Limited (“B.N.F.L.”) [^key-b04fb58f40fd79c26c16b937a5100078]...; and the guarantee may extend to the payment of loan interest and any other payments falling to be made by the company [^key-7ae3a9a0d6c97cd820ca557c857eb2a0]... to the lender or the lender’s order in connection with the loan or its repayment.
+(1) The Secretary of State may guarantee repayment of any loan made to British Nuclear Fuels Limited (“B.N.F.L.”) [^c-b04fb58f40fd79c26c16b937a5100078]...; and the guarantee may extend to the payment of loan interest and any other payments falling to be made by the company [^c-7ae3a9a0d6c97cd820ca557c857eb2a0]... to the lender or the lender’s order in connection with the loan or its repayment.
 
 (2) If B.N.F.L. enter into agreements requiring them to perform services for which they are to receive payment or part payment in advance, and the agreements provide for the advances to be repaid in specified circumstances, the Secretary of State may guarantee the repayment and also any payment of interest on sums advanced for which B.N.F.L. may be liable under the agreements.
 
@@ -50,15 +50,15 @@ An Act to make further financial provision for and in respect of British Nuclear
 
 (6) Any sums required for fulfilling a guarantee given under this section shall be paid out of money provided by Parliament; and any sums received by the Secretary of State as repayment of a company’s indebtedness under subsection (4), or by way of interest on such indebtedness, shall be paid into the Consolidated Fund.
 
-## 2. Financial limits.[^key-73aa85bb021efae196974ca6e3448e94]
+## 2. Financial limits.[^c-73aa85bb021efae196974ca6e3448e94]
 
-(1) For the purposes of the [^c908351]Atomic Energy Authority Act 1971 (“the 1971 Act”) and this Act, the financial limit applicable to B.N.F.L. is[^key-5a1b6d464764e8764333d1afd71c17fb] £2,000 million;[^c908352]
+(1) For the purposes of the [^c908351]Atomic Energy Authority Act 1971 (“the 1971 Act”) and this Act, the financial limit applicable to B.N.F.L. is[^c-5a1b6d464764e8764333d1afd71c17fb] £2,000 million;[^c908352]
 
-- (b)[^key-eef9257e23be82b4f063124092d184e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-eef9257e23be82b4f063124092d184e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-and the commitment of public finance to the company[^key-ca9c7d44255f0403e216fa51ac90df8f] under the Acts (disregarding the Secretary of State’s guarantees under section 1(2) above) shall not at any time exceed the financial limit applicable to that company.
+and the commitment of public finance to the company[^c-ca9c7d44255f0403e216fa51ac90df8f] under the Acts (disregarding the Secretary of State’s guarantees under section 1(2) above) shall not at any time exceed the financial limit applicable to that company.
 
-(2) In relation to B.N.F.L.[^key-cb5a01c5f05c940b8b76e2e94608823a], that commitment is to be taken as the aggregate of the following amounts—
+(2) In relation to B.N.F.L.[^c-cb5a01c5f05c940b8b76e2e94608823a], that commitment is to be taken as the aggregate of the following amounts—
 
 - (a) the total paid (in or after 1971) by the Secretary of State or the United Kingdom Atomic Energy Authority, or by both collectively, for shares issued by the company (other than shares issued pursuant to section 7 of the 1971 Act in consideration of the transfer of property etc. made by the Act);
 - (b) the total outstanding in respect of the principal of loans made (in or after 1971) by the Secretary of State to the company under section 12 of the Act; and
@@ -66,7 +66,7 @@ and the commitment of public finance to the company[^key-ca9c7d44255f0403e216fa5
   - (i) any sums for which the Secretary of State is, or may in default of payment by the company become, liable in the fulfilment of guarantees given for the company under section 1(1) of this Act, so far only as the guarantee relates to the principal of any loan to the company; and
   - (ii) any sums which he has paid in fulfilment of guarantees given for the company under that subsection, less any repayment made by the company of its resulting indebtedness under section 1(4).
 
-(3)[^key-555489407085f412fd32571829485e25] The aggregate of—
+(3)[^c-555489407085f412fd32571829485e25] The aggregate of—
 
 - (a) any sums for which the Secretary of State is, or may in default of payment by B.N.F.L. become, liable in the fulfilment of guarantees given for the company under section 1(2) of this Act; and
 - (b) any sums which he has paid in fulfilment of guarantees so given, less any repayment made by the company of its resulting indebtedness under section 1(4),
@@ -82,7 +82,7 @@ shall not at any time exceed £400 million or such increased or further increase
 
 are replaced in each case by the words “section 2 of the Nuclear Industry (Finance) Act 1977”.
 
-## 3. National Nuclear Corporation Limited.[^key-63aac01c3c0cd7bd798bf5843a58cec3]
+## 3. National Nuclear Corporation Limited.[^c-63aac01c3c0cd7bd798bf5843a58cec3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -92,28 +92,28 @@ This Act may be cited as the Nuclear Industry (Finance) Act 1977.
 
 ## Annotations
 
-[^key-c8b2e4db431bcb74f0d2b3a5b32c9c4b]: Modification: S. 1 modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/3) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-c8b2e4db431bcb74f0d2b3a5b32c9c4b]: Modification: S. 1 modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/3) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-b04fb58f40fd79c26c16b937a5100078]: Textual amendment: Words in s. 1(1) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(5)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/5), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pts. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-b04fb58f40fd79c26c16b937a5100078]: Textual amendment: Words in s. 1(1) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(5)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/5), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pts. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-7ae3a9a0d6c97cd820ca557c857eb2a0]: Textual amendment: Word in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1977/7/section/1/1) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-7ae3a9a0d6c97cd820ca557c857eb2a0]: Textual amendment: Word in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1977/7/section/1/1) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-73aa85bb021efae196974ca6e3448e94]: Modification: S. 2 modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 7 para. 5(1)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/5/1)[Sch. 7 para. 5(2)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/5/2) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-73aa85bb021efae196974ca6e3448e94]: Modification: S. 2 modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 7 para. 5(1)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/5/1)[Sch. 7 para. 5(2)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/5/2) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
 [^c908351]: Marginal citation: [1971 c. 11](https://www.legislation.gov.uk/ukpga/1971/11).
 
-[^key-5a1b6d464764e8764333d1afd71c17fb]: Textual amendment: Words in s. 2(1) substituted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(6)(a)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/6/a), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-5a1b6d464764e8764333d1afd71c17fb]: Textual amendment: Words in s. 2(1) substituted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(6)(a)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/6/a), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
 [^c908352]: Textual amendment: Words substituted by virtue of [Atomic Energy Act 1989 (c. 7, SIF 8)](https://www.legislation.gov.uk/ukpga/1989/7), [s. 1](https://www.legislation.gov.uk/ukpga/1989/7/section/1)
 
-[^key-eef9257e23be82b4f063124092d184e1]: Textual amendment: S. 2(1)(b) and preceding word repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(6)(b)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/6/b), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pts. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-eef9257e23be82b4f063124092d184e1]: Textual amendment: S. 2(1)(b) and preceding word repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(6)(b)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/6/b), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pts. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-ca9c7d44255f0403e216fa51ac90df8f]: Textual amendment: Words in s. 2(1) substituted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(6)(c)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/6/c), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-ca9c7d44255f0403e216fa51ac90df8f]: Textual amendment: Words in s. 2(1) substituted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(6)(c)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/6/c), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-cb5a01c5f05c940b8b76e2e94608823a]: Textual amendment: Word in s. 2(2) substituted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(7)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/7), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-cb5a01c5f05c940b8b76e2e94608823a]: Textual amendment: Word in s. 2(2) substituted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(7)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/7), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-555489407085f412fd32571829485e25]: Modification: S. 2(3) modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 7 para. 5(3)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/5/3) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-555489407085f412fd32571829485e25]: Modification: S. 2(3) modified (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 7 para. 5(3)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/7/paragraph/5/3) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
 [^c908354]: Modification: The text of s. 2(5) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-63aac01c3c0cd7bd798bf5843a58cec3]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1977/7/section/3) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 18](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/18)
+[^c-63aac01c3c0cd7bd798bf5843a58cec3]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1977/7/section/3) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 18](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/18)

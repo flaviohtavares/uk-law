@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73C. Complaints about exercise of public health functions by local authorities[^key-0a66f8c1d23aaf36aecb360d14e16b5c]
+## 73C. Complaints about exercise of public health functions by local authorities[^c-0a66f8c1d23aaf36aecb360d14e16b5c]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the exercise by a local authority of any of its public health functions;
 - (b) the exercise by a local authority of its functions by virtue of section 6C(1) or (3);
 - (c) anything done by a local authority in pursuance of arrangements made under section 7A;
-- (ca)[^key-7c77abd7d356faecd30ddf646f8a98c3] anything done by a local authority in the exercise of public health functions of the Secretary of State in pursuance of arrangements made with another body by virtue of section 65Z5 or 75;
+- (ca)[^c-7c77abd7d356faecd30ddf646f8a98c3] anything done by a local authority in the exercise of public health functions of the Secretary of State in pursuance of arrangements made with another body by virtue of section 65Z5 or 75;
 - (d) the exercise by a local authority of any of its other functions—
   - (i) which relate to public health, and
   - (ii) for which its director of public health has responsibility;
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a66f8c1d23aaf36aecb360d14e16b5c]: Textual amendment: S. 73C inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 32](https://www.legislation.gov.uk/ukpga/2012/7/section/32), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-0a66f8c1d23aaf36aecb360d14e16b5c]: Textual amendment: S. 73C inserted (27.3.2012 for specified purposes, 1.4.2013 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 32](https://www.legislation.gov.uk/ukpga/2012/7/section/32), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-7c77abd7d356faecd30ddf646f8a98c3]: Textual amendment: [S. 73C(1)(ca)](https://www.legislation.gov.uk/ukpga/2006/41/section/73C/1/ca) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2022/31/schedule/9/paragraph/10); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-7c77abd7d356faecd30ddf646f8a98c3]: Textual amendment: [S. 73C(1)(ca)](https://www.legislation.gov.uk/ukpga/2006/41/section/73C/1/ca) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2022/31/schedule/9/paragraph/10); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

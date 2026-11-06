@@ -29,27 +29,27 @@ Industrial and Provident Societies Act 2002 (repealed)
 
 2002 c. 20
 
-[^key-79adaff35a4cc98d32eed91fdd482513]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79adaff35a4cc98d32eed91fdd482513]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Requirements for conversion of a registered society into a company[^key-79adaff35a4cc98d32eed91fdd482513][^key-79adaff35a4cc98d32eed91fdd482513]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Power to modify, et ceteralaetc. to assimilate to company law[^key-79adaff35a4cc98d32eed91fdd482513][^key-79adaff35a4cc98d32eed91fdd482513]
+## 1. Requirements for conversion of a registered society into a company[^c-79adaff35a4cc98d32eed91fdd482513][^c-79adaff35a4cc98d32eed91fdd482513]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Channel Islands[^key-79adaff35a4cc98d32eed91fdd482513][^key-79adaff35a4cc98d32eed91fdd482513]
+## 2. Power to modify, et ceteralaetc. to assimilate to company law[^c-79adaff35a4cc98d32eed91fdd482513][^c-79adaff35a4cc98d32eed91fdd482513]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Short title, commencement and extent[^key-79adaff35a4cc98d32eed91fdd482513][^key-79adaff35a4cc98d32eed91fdd482513]
+## 3. Channel Islands[^c-79adaff35a4cc98d32eed91fdd482513][^c-79adaff35a4cc98d32eed91fdd482513]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Short title, commencement and extent[^c-79adaff35a4cc98d32eed91fdd482513][^c-79adaff35a4cc98d32eed91fdd482513]
 
 **No longer in force.**
 
@@ -57,4 +57,4 @@ Industrial and Provident Societies Act 2002 (repealed)
 
 ## Annotations
 
-[^key-79adaff35a4cc98d32eed91fdd482513]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2002/20) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-79adaff35a4cc98d32eed91fdd482513]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2002/20) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

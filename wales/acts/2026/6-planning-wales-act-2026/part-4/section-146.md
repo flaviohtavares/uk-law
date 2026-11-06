@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 146. Restrictions on power to issue stop notice[^key-7044f165d7f35d02c130c7c297d3f39b]
+## 146. Restrictions on power to issue stop notice[^c-7044f165d7f35d02c130c7c297d3f39b]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7044f165d7f35d02c130c7c297d3f39b]: Commencement: S. 146 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-7044f165d7f35d02c130c7c297d3f39b]: Commencement: S. 146 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

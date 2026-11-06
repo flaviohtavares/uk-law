@@ -33,18 +33,18 @@ of 16 August 2016
 
 on a derogation from Article 55(2)(a) of Delegated Regulation (EU) 2015/2446 as regards the rules of origin applicable to regional cumulation for tuna originating in Ecuador (revoked)
 
-[^key-af6e7e32234fc9d82f889bf3239e58ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af6e7e32234fc9d82f889bf3239e58ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-af6e7e32234fc9d82f889bf3239e58ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-af6e7e32234fc9d82f889bf3239e58ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-af6e7e32234fc9d82f889bf3239e58ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-af6e7e32234fc9d82f889bf3239e58ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-af6e7e32234fc9d82f889bf3239e58ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-af6e7e32234fc9d82f889bf3239e58ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af6e7e32234fc9d82f889bf3239e58ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af6e7e32234fc9d82f889bf3239e58ae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af6e7e32234fc9d82f889bf3239e58ae]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-af6e7e32234fc9d82f889bf3239e58ae]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

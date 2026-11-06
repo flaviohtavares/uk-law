@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Consideration of decrofting directions[^key-3e66a01521292de4f30a3306754cee57]
+## 43. Consideration of decrofting directions[^c-3e66a01521292de4f30a3306754cee57]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ After subsection (1) of section 25 of the 1993 Act (provisions supplementary to 
 
 ## Annotations
 
-[^key-3e66a01521292de4f30a3306754cee57]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2010/14/section/43) in force at 1.10.2011 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-3e66a01521292de4f30a3306754cee57]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2010/14/section/43) in force at 1.10.2011 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))

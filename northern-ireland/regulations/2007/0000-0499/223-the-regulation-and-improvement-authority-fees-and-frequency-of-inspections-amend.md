@@ -41,13 +41,13 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety makes the following Regulations in exercise of the powers conferred by Articles 13 (2),16 (3), 17(3), 40 (7) and 48(2) of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-f1c3d218957a1444ffe522cfceaa8662]
+## 1. Citation, commencement and interpretation[^c-f1c3d218957a1444ffe522cfceaa8662]
 
 (1) These Regulations may be cited as the Regulation and Improvement Authority (Fees and Frequency of Inspections) (Amendment) Regulations (Northern Ireland) 2007 and shall come into operation on 30 April 2007.
 
 (2) In these regulations, “the principal regulations” means the Regulation and Improvement Authority (Fees and Frequency of Inspections) Regulations (Northern Ireland) 2005[^f00002].
 
-## 2. Amendment of the Regulation and Improvement Authority (Fees and Frequency of Inspections) Regulations (Northern Ireland) 2005[^key-62ee8ad1ee893451e6e504bfea3efddb]
+## 2. Amendment of the Regulation and Improvement Authority (Fees and Frequency of Inspections) Regulations (Northern Ireland) 2005[^c-62ee8ad1ee893451e6e504bfea3efddb]
 
 (1) The principal regulations shall be amended in accordance with the following paragraphs:
 
@@ -99,7 +99,7 @@ The Department of Health, Social Services and Public Safety makes the following 
 </tbody>
 </table>
 
-**3.**[^key-cb060d3bf6f5e37d5fa7379f30cde657] In regulation 6—
+**3.**[^c-cb060d3bf6f5e37d5fa7379f30cde657] In regulation 6—
 
 (1) in paragraph (1) for “paragraphs 2 to 5” there shall be substituted “paragraphs 2 to 5A”.
 
@@ -130,10 +130,10 @@ Fee charges for these new establishments and agencies have been set at nil pendi
 
 [^f00001]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-f1c3d218957a1444ffe522cfceaa8662]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/223/regulation/1) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/223/regulation/1/1)
+[^c-f1c3d218957a1444ffe522cfceaa8662]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/223/regulation/1) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/223/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 2005 No. 182](https://www.legislation.gov.uk/nisr/2005/182) as amended by [S.R. 2006 No. 341](https://www.legislation.gov.uk/nisr/2006/341)
 
-[^key-62ee8ad1ee893451e6e504bfea3efddb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/223/regulation/2) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/223/regulation/1/1)
+[^c-62ee8ad1ee893451e6e504bfea3efddb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/223/regulation/2) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/223/regulation/1/1)
 
-[^key-cb060d3bf6f5e37d5fa7379f30cde657]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/223/regulation/3) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/223/regulation/1/1)
+[^c-cb060d3bf6f5e37d5fa7379f30cde657]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/223/regulation/3) in operation at 30.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/223/regulation/1/1)

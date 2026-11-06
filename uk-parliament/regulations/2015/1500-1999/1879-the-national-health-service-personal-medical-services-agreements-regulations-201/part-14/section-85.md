@@ -56,8 +56,8 @@ summary: ''
 - (e) the estimated value of the gift; and
 - (f) the name of the person or persons who received the gift.
 
-(6) The contractor must make the register available to NHS England[^key-9520329cffeb7671913a444ac58ebf84] on request.
+(6) The contractor must make the register available to NHS England[^c-9520329cffeb7671913a444ac58ebf84] on request.
 
 ## Annotations
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

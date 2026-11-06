@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Rounding of fractions[^key-023d8652fe2a7843444f8215b81ea3c7]
+## 12. Rounding of fractions[^c-023d8652fe2a7843444f8215b81ea3c7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where any assessment of A’s financial resources results in a fraction of a pen
 
 ## Annotations
 
-[^key-023d8652fe2a7843444f8215b81ea3c7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2015/1844/regulation/12) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-023d8652fe2a7843444f8215b81ea3c7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2015/1844/regulation/12) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)

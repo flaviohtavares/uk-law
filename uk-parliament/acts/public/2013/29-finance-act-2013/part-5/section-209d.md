@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209D. Notified adjustments: case within section 209B(4)(d)[^key-f58482fb896b214b968c7a63eee8dfc5]
+## 209D. Notified adjustments: case within section 209B(4)(d)[^c-f58482fb896b214b968c7a63eee8dfc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f58482fb896b214b968c7a63eee8dfc5]: Textual amendment: Ss. 209A-209F omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2020/14/schedule/14/paragraph/6) (with [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2020/14/schedule/14/paragraph/13))
+[^c-f58482fb896b214b968c7a63eee8dfc5]: Textual amendment: Ss. 209A-209F omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2020/14/schedule/14/paragraph/6) (with [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2020/14/schedule/14/paragraph/13))

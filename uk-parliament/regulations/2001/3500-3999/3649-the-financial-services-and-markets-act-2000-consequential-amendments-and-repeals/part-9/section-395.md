@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 395. Securing of liability for protected rights: prescribed requirements[^key-ce9c16fd1db83e6973ef753d5a408847]
+## 395. Securing of liability for protected rights: prescribed requirements[^c-ce9c16fd1db83e6973ef753d5a408847]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ce9c16fd1db83e6973ef753d5a408847]: Commencement: Art. 395 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ce9c16fd1db83e6973ef753d5a408847]: Commencement: Art. 395 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00285]: Footnote: Paragraph (1) of regulation 3 was amended by [S.I. 1994/1062](https://www.legislation.gov.uk/uksi/1994/1062), regulation 2, Schedule 2, paragraph 22(3).

@@ -905,7 +905,7 @@ The Provisional Collection of Taxes Act 1968 has effect as if section 1(1) of th
 (1) This Schedule has effect in relation to the taking of disqualifying steps (whenever taken) in disqualifying circumstances where the public interest business in question becomes subject to special measures—
 
 - (a) on or after 28 January 2022, and
-- (b) before 30 April 2024[^key-1b20415320570c65139746ba22304e9d].
+- (b) before 30 April 2024[^c-1b20415320570c65139746ba22304e9d].
 
 (2) The Treasury may, for the date for the time being specified in sub-paragraph (1)(b), by regulations substitute such later date before 29 January 2025 as may be specified in the regulations.
 
@@ -916,4 +916,4 @@ The Provisional Collection of Taxes Act 1968 has effect as if section 1(1) of th
 
 ## Annotations
 
-[^key-1b20415320570c65139746ba22304e9d]: Textual amendment: Words in [Sch. 10 para. 43(1)(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/43/1/b) substituted (5.1.2023) by [The Finance Act 2022, Schedule 10 (Public Interest Business Protection Tax) (Substitution of Date) Regulations 2022 (S.I. 2022/1321)](https://www.legislation.gov.uk/uksi/2022/1321), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1321/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1321/regulation/2/2)
+[^c-1b20415320570c65139746ba22304e9d]: Textual amendment: Words in [Sch. 10 para. 43(1)(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/10/paragraph/43/1/b) substituted (5.1.2023) by [The Finance Act 2022, Schedule 10 (Public Interest Business Protection Tax) (Substitution of Date) Regulations 2022 (S.I. 2022/1321)](https://www.legislation.gov.uk/uksi/2022/1321), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1321/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1321/regulation/2/2)

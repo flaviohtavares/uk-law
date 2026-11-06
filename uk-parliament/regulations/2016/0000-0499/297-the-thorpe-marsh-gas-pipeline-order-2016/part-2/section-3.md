@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Development consent etc. granted by Order[^key-59417b6b157689b02261b43324c68920]
+## 3. Development consent etc. granted by Order[^c-59417b6b157689b02261b43324c68920]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to the provisions of this Order and to the Requirements in Part 2 of Sch
 
 ## Annotations
 
-[^key-59417b6b157689b02261b43324c68920]: Commencement: Art. 3 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-59417b6b157689b02261b43324c68920]: Commencement: Art. 3 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)

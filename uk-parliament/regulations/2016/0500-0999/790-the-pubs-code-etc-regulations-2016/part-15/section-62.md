@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Adjudicator’s determination during referral of a dispute[^key-f6351517b9bceb2ed69306023bec87fd]
+## 62. Adjudicator’s determination during referral of a dispute[^c-f6351517b9bceb2ed69306023bec87fd]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6351517b9bceb2ed69306023bec87fd]: Commencement: Reg. 62 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-f6351517b9bceb2ed69306023bec87fd]: Commencement: Reg. 62 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

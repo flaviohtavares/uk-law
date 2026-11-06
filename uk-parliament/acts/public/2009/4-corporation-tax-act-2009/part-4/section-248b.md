@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248B. Meaning of “eligible” in relation to a dwelling-house[^key-9756b8c908aafdd7aeb1113de84c052e]
+## 248B. Meaning of “eligible” in relation to a dwelling-house[^c-9756b8c908aafdd7aeb1113de84c052e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9756b8c908aafdd7aeb1113de84c052e]: Textual amendment: Ss. 248A-248C and cross-heading omitted (with effect in accordance with s. 74(4) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 74(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/74/3/a)
+[^c-9756b8c908aafdd7aeb1113de84c052e]: Textual amendment: Ss. 248A-248C and cross-heading omitted (with effect in accordance with s. 74(4) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 74(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/74/3/a)

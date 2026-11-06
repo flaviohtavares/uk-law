@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Controlled foreign companies and treaty non-resident companies[^key-766cc28748a4929b78c8a3c540ce5a79]
+## 90. Controlled foreign companies and treaty non-resident companies[^c-766cc28748a4929b78c8a3c540ce5a79]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-766cc28748a4929b78c8a3c540ce5a79]: Textual amendment: [S. 90](https://www.legislation.gov.uk/ukpga/2002/23/section/90) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 21](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/21) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))
+[^c-766cc28748a4929b78c8a3c540ce5a79]: Textual amendment: [S. 90](https://www.legislation.gov.uk/ukpga/2002/23/section/90) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 21](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/21) (with [Sch. 20 para. 50(9)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/50/9))

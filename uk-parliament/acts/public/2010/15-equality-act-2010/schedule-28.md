@@ -45,7 +45,7 @@ Section 214
 | Disability | Section 6(1) |
 | Disability discrimination | Section 25(2) |
 | Disabled person | Section 6(2) and (4) |
-| Discrimination | Sections 13 to 19A[^key-6eb9f394e539a777067bb37efaa90bb9], 21 and 108 |
+| Discrimination | Sections 13 to 19A[^c-6eb9f394e539a777067bb37efaa90bb9], 21 and 108 |
 | Disposal, in relation to premises | Section 38(3) to (5) |
 | Education Acts | Section 212(1) |
 | Employer, in relation to an occupational pension scheme | Section 212(11) |
@@ -126,4 +126,4 @@ Section 214
 
 ## Annotations
 
-[^key-6eb9f394e539a777067bb37efaa90bb9]: Textual amendment: Word in [Sch. 28](https://www.legislation.gov.uk/ukpga/2010/15/schedule/28) substituted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/3/7)
+[^c-6eb9f394e539a777067bb37efaa90bb9]: Textual amendment: Word in [Sch. 28](https://www.legislation.gov.uk/ukpga/2010/15/schedule/28) substituted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/3/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Orders by Crown Court on conviction[^key-a1c0a9301ba2d727d72b9f4c0d34d7bb]
+## 19. Orders by Crown Court on conviction[^c-a1c0a9301ba2d727d72b9f4c0d34d7bb]
 
 *Extent: E+W+N.I.*
 
@@ -27,13 +27,13 @@ summary: ''
 
 (2) The Crown Court may, in addition to dealing with the person in relation to the offence, make an order if it has reasonable grounds to believe that the order would protect the public by preventing, restricting or disrupting involvement by the person in serious crime in England and Wales.
 
-(2A)[^key-d010852ab8c92d1aa67c5f43cecb920b] A court that makes an order by virtue of subsection (2) in the case of a person who is already the subject of a serious crime prevention order in England and Wales must discharge the existing order.
+(2A)[^c-d010852ab8c92d1aa67c5f43cecb920b] A court that makes an order by virtue of subsection (2) in the case of a person who is already the subject of a serious crime prevention order in England and Wales must discharge the existing order.
 
 (3) Subsection (4) applies where the Crown Court in Northern Ireland is dealing with a person who has been convicted by or before the Crown Court of having committed a serious offence in Northern Ireland.
 
 (4) The Crown Court may, in addition to dealing with the person in relation to the offence, make an order if it has reasonable grounds to believe that the order would protect the public by preventing, restricting or disrupting involvement by the person in serious crime in Northern Ireland.
 
-(4A)[^key-1137d3fc853d6aaab88d6e2c8db223aa] A court that makes an order by virtue of subsection (4) in the case of a person who is already the subject of a serious crime prevention order in Northern Ireland must discharge the existing order.
+(4A)[^c-1137d3fc853d6aaab88d6e2c8db223aa] A court that makes an order by virtue of subsection (4) in the case of a person who is already the subject of a serious crime prevention order in Northern Ireland must discharge the existing order.
 
 (5) An order under this section may contain—
 
@@ -53,8 +53,8 @@ as the court considers appropriate for the purpose of protecting the public by p
 
 ## Annotations
 
-[^key-a1c0a9301ba2d727d72b9f4c0d34d7bb]: Commencement: S. 19 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)
+[^c-a1c0a9301ba2d727d72b9f4c0d34d7bb]: Commencement: S. 19 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)
 
-[^key-d010852ab8c92d1aa67c5f43cecb920b]: Textual amendment: S. 19(2A) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 78(2)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/78/2); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(xv)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/xv)
+[^c-d010852ab8c92d1aa67c5f43cecb920b]: Textual amendment: S. 19(2A) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 78(2)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/78/2); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(xv)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/xv)
 
-[^key-1137d3fc853d6aaab88d6e2c8db223aa]: Textual amendment: S. 19(4A) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 78(3)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/78/3); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(xv)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/xv)
+[^c-1137d3fc853d6aaab88d6e2c8db223aa]: Textual amendment: S. 19(4A) inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 78(3)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/78/3); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(xv)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/xv)

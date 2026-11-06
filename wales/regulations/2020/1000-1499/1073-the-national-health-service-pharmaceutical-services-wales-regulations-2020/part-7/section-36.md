@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Deferral of applications on fitness grounds[^key-218e7e98b9abeeb9337c708565774bb9]
+## 36. Deferral of applications on fitness grounds[^c-218e7e98b9abeeb9337c708565774bb9]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-218e7e98b9abeeb9337c708565774bb9]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2020/1073/regulation/36) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-218e7e98b9abeeb9337c708565774bb9]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2020/1073/regulation/36) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

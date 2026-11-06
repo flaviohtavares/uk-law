@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Exemption[^key-58052007126162d04395925c943a8887]
+## 32. Exemption[^c-58052007126162d04395925c943a8887]
 
 *Extent: E+W+S+N.I.*
 
-(1) The requirements of these Regulations do not apply to a person in respect of[^key-3dc11fcc67ec0722888d4a8632cb880c] end products which are used for non-nuclear purposes and which incorporate qualifying nuclear material that is, in practice, irrecoverable.
+(1) The requirements of these Regulations do not apply to a person in respect of[^c-3dc11fcc67ec0722888d4a8632cb880c] end products which are used for non-nuclear purposes and which incorporate qualifying nuclear material that is, in practice, irrecoverable.
 
 (2) The requirements of these Regulations do not apply to an operator of a qualifying nuclear facility, which—
 
@@ -32,9 +32,9 @@ summary: ''
 
 ## Annotations
 
-[^key-58052007126162d04395925c943a8887]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-58052007126162d04395925c943a8887]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-3dc11fcc67ec0722888d4a8632cb880c]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2019/196/regulation/32/1) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2026/835/regulation/24)
+[^c-3dc11fcc67ec0722888d4a8632cb880c]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2019/196/regulation/32/1) substituted (10.7.2026) by [The Nuclear Safeguards (EU Exit and Fees) (Amendment) Regulations 2026 (S.I. 2026/835)](https://www.legislation.gov.uk/uksi/2026/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/835/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2026/835/regulation/24)
 
 [^c23563261]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 5 has been amended but in a manner which is not relevant to these Regulations.
 

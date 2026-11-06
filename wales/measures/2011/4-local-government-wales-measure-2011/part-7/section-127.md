@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Modifications of enactments preventing or obstructing a community council from exercising their well-being power[^key-e658d2f2215de763d6db42472f988259]
+## 127. Modifications of enactments preventing or obstructing a community council from exercising their well-being power[^c-e658d2f2215de763d6db42472f988259]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e658d2f2215de763d6db42472f988259]: Textual amendment: [S. 127](https://www.legislation.gov.uk/mwa/2011/4/section/127) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 13(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/13/2); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(r)](https://www.legislation.gov.uk/wsi/2021/231/article/6/r)
+[^c-e658d2f2215de763d6db42472f988259]: Textual amendment: [S. 127](https://www.legislation.gov.uk/mwa/2011/4/section/127) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 13(2)](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/13/2); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(r)](https://www.legislation.gov.uk/wsi/2021/231/article/6/r)

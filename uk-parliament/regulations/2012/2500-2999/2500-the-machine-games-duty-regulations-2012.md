@@ -54,15 +54,15 @@ The Commissioners for Her Majesty’s Revenue and Customs, make the following Re
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-dba93d57d7c44c30e9810bfde8016e62]
+### 1. Citation and commencement[^c-dba93d57d7c44c30e9810bfde8016e62]
 
 These Regulations may be cited as the Machine Games Duty Regulations 2012 and come into force in accordance with regulation 2.
 
-**2.**[^key-a79525a3c42e0b57a0b6a63764f9c433] (1) Parts 1, 2, 4, 5 and Schedule 1 come into force on 1st November 2012.
+**2.**[^c-a79525a3c42e0b57a0b6a63764f9c433] (1) Parts 1, 2, 4, 5 and Schedule 1 come into force on 1st November 2012.
 
 (2) Part 3 and Schedule 2 come into force on 1st February 2013.
 
-### 3. Interpretation[^key-a24242c2910013167a1004b75df5c586][^key-d398377049c5cfca3409797d02fac219]
+### 3. Interpretation[^c-a24242c2910013167a1004b75df5c586][^c-d398377049c5cfca3409797d02fac219]
 
 In these Regulations—
 
@@ -76,14 +76,14 @@ In these Regulations—
 - “Part” or “regulation” refers to the appropriate Part or regulation in these Regulations;
 - “prescribed” means prescribed by the Commissioners in a published notice, as revised or replaced from time to time;
 - “registrable person” includes any personal representative, trustee in bankruptcy, receiver or liquidator, who is acting in a representative capacity for the registrable person;
-- [^key-a664aed3a516024fff8505d44ab6d043]...
+- [^c-a664aed3a516024fff8505d44ab6d043]...
 - “relevant information” means information (including information contained in an application or MGD return) which is required or authorised by virtue of these Regulations to be delivered to the Commissioners;
 - “representative member”, for the purposes of Part 5, means the representative member for a group;
 - “RP” means a registered person and includes any personal representative, trustee in bankruptcy, receiver or liquidator, who is acting in a representative capacity for the RP;
 - “the Schedule” (unless otherwise stated in these Regulations) means Schedule 24 to the Finance Act 2012;
 - “specified”, unless the context otherwise requires, means specified under these Regulations.
 
-### 4. Delivery of information[^key-284399caef8212ecdd57e760a1a59deb]
+### 4. Delivery of information[^c-284399caef8212ecdd57e760a1a59deb]
 
 (1) Relevant information must be provided—
 
@@ -104,7 +104,7 @@ In these Regulations—
 - (b) a United Kingdom representative; or
 - (c) a registrable person.
 
-### 5. Agency[^key-0e92749558e2c6e36a1d02d05461ea16]
+### 5. Agency[^c-0e92749558e2c6e36a1d02d05461ea16]
 
 (1) For the purposes of MGD, a reference to an RP or a registrable person includes a reference to an agent (other than a United Kingdom representative)—
 
@@ -118,7 +118,7 @@ In these Regulations—
 
 ## PART 2 — REGISTRATION
 
-### 6. Application for registration[^key-2bd6298277b73b89228132c78e64c512]
+### 6. Application for registration[^c-2bd6298277b73b89228132c78e64c512]
 
 (1) An application for registration must be made in the form prescribed.
 
@@ -135,9 +135,9 @@ the applicant must then (on becoming aware of it) notify the Commissioners in th
 
 (5) The Commissioners may modify or dispense with any particular requirement under this regulation where it appears to them to be reasonable to do so in an individual case.
 
-### 7. Registration[^key-168e873522593bc50a2856882fd25082]
+### 7. Registration[^c-168e873522593bc50a2856882fd25082]
 
-(1)[^key-6b4b35e8759228bc6c849cf17bfb6ea8] Where an application is made by a person in accordance with regulation 6, the Commissioners must—
+(1)[^c-6b4b35e8759228bc6c849cf17bfb6ea8] Where an application is made by a person in accordance with regulation 6, the Commissioners must—
 
 - (a) where the application is made by a registrable person, as soon as reasonably practicable—
   - (i) register the person and allocate a registration number; and
@@ -150,18 +150,18 @@ the Commissioners must add that person’s name to the MGD register on the date 
 
 (2) If the person applied for registration by a prescribed electronic method, the Commissioners may provide the registration confirmation electronically.
 
-(3)[^key-be9455a97627b6233ece3461af0d6516] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-be9455a97627b6233ece3461af0d6516] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-be9455a97627b6233ece3461af0d6516] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-be9455a97627b6233ece3461af0d6516] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) This regulation is subject to regulation 11 and any directions given pursuant to paragraph 40 of the Schedule (transitional provision).
 
-(6)[^key-6a1b792cbc4f2fcc9b3a0afdeda2c635] In this regulation—
+(6)[^c-6a1b792cbc4f2fcc9b3a0afdeda2c635] In this regulation—
 
 - “expected registrable person” means a person who reasonably expects to become a registrable person within 3 months following the date of the application for registration; and
 - “provide the registration confirmation” means to provide the date of registration and the registration number.
 
-### 8. De-registration[^key-20295f9c4b30f02003c21a6ce3c1c2a5]
+### 8. De-registration[^c-20295f9c4b30f02003c21a6ce3c1c2a5]
 
 (1) If the Commissioners are satisfied that an RP no longer needs to be registered, the Commissioners may remove the RP’s name from the MGD register.
 
@@ -178,7 +178,7 @@ the Commissioners must remove the RP’s name from the MGD register not more tha
 
 (5) If the RP’s name is removed from the MGD register for any reason not intended by the Commissioners, the Commissioners must notify the RP and may re-register the RP with the same registration number with effect from the time of the removal.
 
-### 9. Inaccuracy[^key-647951f2cbbc81a99e431111f3844dd8]
+### 9. Inaccuracy[^c-647951f2cbbc81a99e431111f3844dd8]
 
 (1) If the MGD register or relevant information appears to the Commissioners to be inaccurate, they may—
 
@@ -196,7 +196,7 @@ as the Commissioners may require.
 
 (3) If changes are made to the register as a result of this regulation, the Commissioners must send a notification of those changes to the RP within seven business days.
 
-### 10. Compulsory Registration[^key-a3eda85be23290faff51269a191b7f2b]
+### 10. Compulsory Registration[^c-a3eda85be23290faff51269a191b7f2b]
 
 (1) For the purposes of this regulation “R” means a person whom the Commissioners believe to be a registrable person for MGD, but who is not registered.
 
@@ -241,7 +241,7 @@ and must notify R accordingly.
 
 (9) Any information or notification required to be sent by the Commissioners to R under this regulation must be sent to R’s last known residence or place of business by registered post or the recorded delivery service.
 
-### 11. Security and United Kingdom representatives[^key-ec67cb89672f23f9547ae66e857b14b7]
+### 11. Security and United Kingdom representatives[^c-ec67cb89672f23f9547ae66e857b14b7]
 
 (1) If the Commissioners have reason to believe that a person who is liable for the payment of MGD may not discharge that liability as it falls due from time to time, the Commissioners may make registration or continued registration conditional on that person—
 
@@ -262,7 +262,7 @@ and must notify R accordingly.
 
 ## PART 3 — RETURNS AND PAYMENT
 
-### 12. MGD returns[^key-4dfd0370a15ae9873b4dc435a3e77e3f]
+### 12. MGD returns[^c-4dfd0370a15ae9873b4dc435a3e77e3f]
 
 (1) An RP must provide the Commissioners with the return required in accordance with paragraph 18 of the Schedule (an “MGD return”) by the thirtieth day following the end of every accounting period.
 
@@ -276,7 +276,7 @@ and must notify R accordingly.
 
 (6) The Commissioners may modify or dispense with any particular requirement under this regulation where it appears to them to be reasonable to do so in an individual case.
 
-### 13. Payment of MGD by an RP[^key-8828f2cc66f2a75752cdcac42a5844a4]
+### 13. Payment of MGD by an RP[^c-8828f2cc66f2a75752cdcac42a5844a4]
 
 (1) Unless paragraph (7) applies, an RP must pay to the Commissioners the MGD due in respect of an accounting period not later than the thirtieth day following the end of that period.
 
@@ -298,7 +298,7 @@ and must notify R accordingly.
 - (a) the RP must ensure that there are sufficient funds in the account to satisfy the payment at the time when it is due to be collected; and
 - (b) the Commissioners may prescribe the date when the payment is to be collected from the account.
 
-### 14. Notification and correction of errors[^key-4bb1a3e3367cf804ccea2dda94fe5e37]
+### 14. Notification and correction of errors[^c-4bb1a3e3367cf804ccea2dda94fe5e37]
 
 (1) If a taxable person discovers an error in an MGD return which has resulted in that person’s liability to MGD being understated, and not more than four years has elapsed since the date that the return was due, the amount of the understatement may be included on the next MGD return in the manner prescribed if it—
 
@@ -312,7 +312,7 @@ and must notify R accordingly.
 
 then, unless the error is corrected in accordance with paragraph (1), it must be corrected in such manner and within such time as the Commissioners may prescribe.
 
-### 15. Payment by an unregistered person[^key-c148d0a5729dd5b0fa63ab95a275b260]
+### 15. Payment by an unregistered person[^c-c148d0a5729dd5b0fa63ab95a275b260]
 
 (1) Where MGD (or a sum owed as MGD) is due to the Commissioners, and the person who has become liable to pay is not an RP, that person must pay the amount due—
 
@@ -334,7 +334,7 @@ and any date which is prescribed or notified under this paragraph must not be ea
 
 ## PART 4 — ELECTRONIC COMMUNICATION
 
-### 16. Validation of an electronic communication[^key-20dae9c163890a105e596f80d5c189fc]
+### 16. Validation of an electronic communication[^c-20dae9c163890a105e596f80d5c189fc]
 
 (1) A prescribed electronic method must incorporate an electronic validation process.
 
@@ -346,7 +346,7 @@ and any date which is prescribed or notified under this paragraph must not be ea
 
 (3) An electronic communication made using a prescribed electronic method carries the same consequences as a communication made in paper form, unless otherwise prescribed.
 
-### 17. Electronic communication by the Commissioners[^key-a7bb15be5922bf316dab031f19ab271d]
+### 17. Electronic communication by the Commissioners[^c-a7bb15be5922bf316dab031f19ab271d]
 
 (1) If a person has communicated with the Commissioners by means of a prescribed electronic method in respect of MGD, the Commissioners may issue an electronic acknowledgement of the communication.
 
@@ -359,7 +359,7 @@ the Commissioners may communicate electronically with the person in respect of M
 
 ## PART 5 — APPLICATION OF THE SCHEDULE TO GROUPS
 
-### 18. General provisions[^key-d655b3cd0d218c950c02801db7de0475]
+### 18. General provisions[^c-d655b3cd0d218c950c02801db7de0475]
 
 (1) Any application made under this Part must be made in the manner prescribed.
 
@@ -383,7 +383,7 @@ the applicant must notify the Commissioners in writing within seven business day
 - (a) the date that the membership was terminated; or
 - (b) such other date as may be agreed with the representative member.
 
-### 19. Eligibility to form a group for MGD[^key-5cd0449d6cf3d30c548c8ecd08f959fc]
+### 19. Eligibility to form a group for MGD[^c-5cd0449d6cf3d30c548c8ecd08f959fc]
 
 (1) Two or more bodies corporate (who are registrable persons) are eligible to apply to the Commissioners to be treated as members of a group for the purposes of MGD if—
 
@@ -398,7 +398,7 @@ the applicant must notify the Commissioners in writing within seven business day
 
 and an individual or individuals is to be taken to control a body corporate if (were that individual or those individuals a company) that individual or those individuals would be that body’s holding company within the meaning of that Act.
 
-### 20. Application to form a group[^key-3e5df1bebe43cc62b747f4d1f658f8a1]
+### 20. Application to form a group[^c-3e5df1bebe43cc62b747f4d1f658f8a1]
 
 (1) For the purposes of regulation 19, the applicant must satisfy the Commissioners that the bodies corporate which are the subject of the application have consented to group treatment.
 
@@ -410,7 +410,7 @@ and an individual or individuals is to be taken to control a body corporate if (
 
 (5) The Commissioners may require the representative member to provide security for the payment of MGD in accordance with regulation 11(1)(a), but of an amount which the Commissioners consider to be appropriate for the group.
 
-### 21. Effect of group membership[^key-8665684ff581cb7525778e6078e5003f]
+### 21. Effect of group membership[^c-8665684ff581cb7525778e6078e5003f]
 
 (1) Where under this Part any bodies corporate are treated as members of a group, any business carried on by the group is to be treated as carried on by the representative member.
 
@@ -420,7 +420,7 @@ and an individual or individuals is to be taken to control a body corporate if (
 
 (4) A body corporate may not be treated as a member of more than one group at the same time.
 
-### 22. Applications by a representative member[^key-0e20b4f97f570c3af6d5e31ddc136244]
+### 22. Applications by a representative member[^c-0e20b4f97f570c3af6d5e31ddc136244]
 
 (1) Subject to paragraph (5), this regulation applies where two or more bodies corporate are treated as members of a group and the representative member makes an application to the Commissioners—
 
@@ -458,7 +458,7 @@ the applicant must satisfy the Commissioners that the members of the group have 
 - (a) if the application is accepted by the Commissioners; and
 - (b) from a date that the Commissioners are satisfied has been notified to all of the members of the group.
 
-### 23. Applications by group members other than the representative member[^key-d5540a9383995b1f36784f80da270420]
+### 23. Applications by group members other than the representative member[^c-d5540a9383995b1f36784f80da270420]
 
 (1) A body corporate may apply to the Commissioners to—
 
@@ -472,7 +472,7 @@ the applicant must satisfy the Commissioners that the members of the group have 
 - (a) if the application is accepted by the Commissioners; and
 - (b) from a date notified by the Commissioners to the representative member and the body corporate who made the application.
 
-### 24. Termination of group membership by the Commissioners[^key-8595162966bcc5c56423f38b5e23fffe]
+### 24. Termination of group membership by the Commissioners[^c-8595162966bcc5c56423f38b5e23fffe]
 
 (1) The Commissioners may, by notice given to a body corporate, terminate its treatment as a member of a group from a date which is specified in the notice.
 
@@ -503,11 +503,11 @@ Simon Bowles
 
 Two of the Commissioners for Her Majesty’s Revenue and Customs
 
-## SCHEDULE 1 — REGISTRATION FOR MGD[^key-aebf38adf67c489f95837831a7f1ebe5]
+## SCHEDULE 1 — REGISTRATION FOR MGD[^c-aebf38adf67c489f95837831a7f1ebe5]
 
 Regulations 6, 10 and 18
 
-[^key-aebf38adf67c489f95837831a7f1ebe5]Information which the Commissioners may require an applicant to include in a registration application for MGD, where applicable—
+[^c-aebf38adf67c489f95837831a7f1ebe5]Information which the Commissioners may require an applicant to include in a registration application for MGD, where applicable—
 
 - (a) the name, address and contact details of the applicant;
 - (b) the name, address and contact details of the business (where there is more than one place of business, the address of the principal place of business);
@@ -525,20 +525,20 @@ Regulations 6, 10 and 18
 - (n) the number of machines in respect of which MGD will be paid and their regulatory categorisation;
 - (o) the number of machines available for play;
 - (p) the date on which machines were first made available for play;
-- (q) reference numbers: a registration number issued to a company or LLP by Companies House, a VAT registration number, any other number issued by[^key-45499a53ddc023f5321eab095c1906d5] HMRC which identifies the applicant;
+- (q) reference numbers: a registration number issued to a company or LLP by Companies House, a VAT registration number, any other number issued by[^c-45499a53ddc023f5321eab095c1906d5] HMRC which identifies the applicant;
 - (r) the name (and where, known, address and registration number) of any person connected with the applicant who is already registered or who has applied to be registered for MGD (and connected is to be construed in accordance with section 1122 of the Corporation Tax Act 2010[^f00006])
 - (s) date of birth or incorporation;
 - (t) National Insurance number;
 - (u) details of any partnership, including the name, address and contact details of each partner and the date of joining.
 
-## SCHEDULE 2 — INFORMATION TO BE CONTAINED IN AN MGD RETURN[^key-1127ca2bd2aab5fa6a78e23faacb885c]
+## SCHEDULE 2 — INFORMATION TO BE CONTAINED IN AN MGD RETURN[^c-1127ca2bd2aab5fa6a78e23faacb885c]
 
 Regulation 12
 
-[^key-1127ca2bd2aab5fa6a78e23faacb885c]Information which the Commissioners may require an RP to include in an MGD return, where applicable—
+[^c-1127ca2bd2aab5fa6a78e23faacb885c]Information which the Commissioners may require an RP to include in an MGD return, where applicable—
 
 - (a) the name and address of the RP;
-- (b)[^key-4d81660bca26e39aedf18ac7867e6c25] the registration number allocated by the Commissioners to the RP for the purposes of MGD;
+- (b)[^c-4d81660bca26e39aedf18ac7867e6c25] the registration number allocated by the Commissioners to the RP for the purposes of MGD;
 - (c) the accounting period to which the return relates;
 - (d) the day by which the return must be furnished;
 - (e) the total net takings from dutiable machines games at the standard rate of duty;
@@ -578,78 +578,78 @@ A Tax Information and Impact Note covering this instrument and the Schedule was 
 
 [^f00001]: Footnote: [2012 c. 14](https://www.legislation.gov.uk/ukpga/2012/14).
 
-[^key-dba93d57d7c44c30e9810bfde8016e62]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/2500/regulation/1) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-dba93d57d7c44c30e9810bfde8016e62]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/2500/regulation/1) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-a79525a3c42e0b57a0b6a63764f9c433]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-a79525a3c42e0b57a0b6a63764f9c433]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-a24242c2910013167a1004b75df5c586]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/2500/regulation/3) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-a24242c2910013167a1004b75df5c586]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/2500/regulation/3) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-d398377049c5cfca3409797d02fac219]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/2500/regulation/3): reg. 3(1) renumbered as reg. 3 (16.8.2018) by [The Machine Games Duty (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/866)](https://www.legislation.gov.uk/uksi/2018/866), [regs. 1](https://www.legislation.gov.uk/uksi/2018/866/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2018/866/regulation/3/1)
+[^c-d398377049c5cfca3409797d02fac219]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/2500/regulation/3): reg. 3(1) renumbered as reg. 3 (16.8.2018) by [The Machine Games Duty (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/866)](https://www.legislation.gov.uk/uksi/2018/866), [regs. 1](https://www.legislation.gov.uk/uksi/2018/866/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2018/866/regulation/3/1)
 
 [^f00002]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80); Schedule 1 was amended by section 1 of the St Andrew’s Day Bank Holiday (Scotland) Act 2007 ([2007 asp 2](https://www.legislation.gov.uk/asp/2007/2)).
 
 [^f00003]: Footnote: Section 2(1) was amended by section 136 of the Finance Act [1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), paragraph 8(2) of Schedule 18 to the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53), section 69 of the Finance Act [1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16) and Schedule 2 to [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149).
 
-[^key-a664aed3a516024fff8505d44ab6d043]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2012/2500/regulation/3) omitted (16.8.2018) by virtue of [The Machine Games Duty (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/866)](https://www.legislation.gov.uk/uksi/2018/866), [regs. 1](https://www.legislation.gov.uk/uksi/2018/866/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/866/regulation/3/1)
+[^c-a664aed3a516024fff8505d44ab6d043]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2012/2500/regulation/3) omitted (16.8.2018) by virtue of [The Machine Games Duty (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/866)](https://www.legislation.gov.uk/uksi/2018/866), [regs. 1](https://www.legislation.gov.uk/uksi/2018/866/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/866/regulation/3/1)
 
-[^key-284399caef8212ecdd57e760a1a59deb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/2500/regulation/4) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-284399caef8212ecdd57e760a1a59deb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/2500/regulation/4) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-0e92749558e2c6e36a1d02d05461ea16]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/2500/regulation/5) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-0e92749558e2c6e36a1d02d05461ea16]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/2500/regulation/5) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-2bd6298277b73b89228132c78e64c512]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/2500/regulation/6) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-2bd6298277b73b89228132c78e64c512]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/2500/regulation/6) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-168e873522593bc50a2856882fd25082]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/2500/regulation/7) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-168e873522593bc50a2856882fd25082]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/2500/regulation/7) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-6b4b35e8759228bc6c849cf17bfb6ea8]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/7/1) substituted (16.8.2018) by [The Machine Games Duty (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/866)](https://www.legislation.gov.uk/uksi/2018/866), [regs. 1](https://www.legislation.gov.uk/uksi/2018/866/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2018/866/regulation/4/a)
+[^c-6b4b35e8759228bc6c849cf17bfb6ea8]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/7/1) substituted (16.8.2018) by [The Machine Games Duty (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/866)](https://www.legislation.gov.uk/uksi/2018/866), [regs. 1](https://www.legislation.gov.uk/uksi/2018/866/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2018/866/regulation/4/a)
 
-[^key-be9455a97627b6233ece3461af0d6516]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/7/3)[(4)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/7/4) omitted (16.8.2018) by virtue of [The Machine Games Duty (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/866)](https://www.legislation.gov.uk/uksi/2018/866), [regs. 1](https://www.legislation.gov.uk/uksi/2018/866/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2018/866/regulation/4/b)
+[^c-be9455a97627b6233ece3461af0d6516]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/7/3)[(4)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/7/4) omitted (16.8.2018) by virtue of [The Machine Games Duty (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/866)](https://www.legislation.gov.uk/uksi/2018/866), [regs. 1](https://www.legislation.gov.uk/uksi/2018/866/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2018/866/regulation/4/b)
 
-[^key-6a1b792cbc4f2fcc9b3a0afdeda2c635]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/7/6) inserted (16.8.2018) by [The Machine Games Duty (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/866)](https://www.legislation.gov.uk/uksi/2018/866), [regs. 1](https://www.legislation.gov.uk/uksi/2018/866/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2018/866/regulation/4/c)
+[^c-6a1b792cbc4f2fcc9b3a0afdeda2c635]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/7/6) inserted (16.8.2018) by [The Machine Games Duty (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/866)](https://www.legislation.gov.uk/uksi/2018/866), [regs. 1](https://www.legislation.gov.uk/uksi/2018/866/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2018/866/regulation/4/c)
 
-[^key-20295f9c4b30f02003c21a6ce3c1c2a5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/2500/regulation/8) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-20295f9c4b30f02003c21a6ce3c1c2a5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/2500/regulation/8) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-647951f2cbbc81a99e431111f3844dd8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/2500/regulation/9) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-647951f2cbbc81a99e431111f3844dd8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/2500/regulation/9) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-a3eda85be23290faff51269a191b7f2b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/2500/regulation/10) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-a3eda85be23290faff51269a191b7f2b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/2500/regulation/10) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-ec67cb89672f23f9547ae66e857b14b7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/2500/regulation/11) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-ec67cb89672f23f9547ae66e857b14b7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/2500/regulation/11) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-4dfd0370a15ae9873b4dc435a3e77e3f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/2500/regulation/12) in force at 1.2.2013, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/2)
+[^c-4dfd0370a15ae9873b4dc435a3e77e3f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/2500/regulation/12) in force at 1.2.2013, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/2)
 
-[^key-8828f2cc66f2a75752cdcac42a5844a4]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/2500/regulation/13) in force at 1.2.2013, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/2)
+[^c-8828f2cc66f2a75752cdcac42a5844a4]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/2500/regulation/13) in force at 1.2.2013, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/2)
 
-[^key-4bb1a3e3367cf804ccea2dda94fe5e37]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/2500/regulation/14) in force at 1.2.2013, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/2)
+[^c-4bb1a3e3367cf804ccea2dda94fe5e37]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/2500/regulation/14) in force at 1.2.2013, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/2)
 
-[^key-c148d0a5729dd5b0fa63ab95a275b260]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/2500/regulation/15) in force at 1.2.2013, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/2)
+[^c-c148d0a5729dd5b0fa63ab95a275b260]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/2500/regulation/15) in force at 1.2.2013, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/2)
 
-[^key-20dae9c163890a105e596f80d5c189fc]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2012/2500/regulation/16) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-20dae9c163890a105e596f80d5c189fc]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2012/2500/regulation/16) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-a7bb15be5922bf316dab031f19ab271d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/2500/regulation/17) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-a7bb15be5922bf316dab031f19ab271d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/2500/regulation/17) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-d655b3cd0d218c950c02801db7de0475]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/2500/regulation/18) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-d655b3cd0d218c950c02801db7de0475]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/2500/regulation/18) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-5cd0449d6cf3d30c548c8ecd08f959fc]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/2500/regulation/19) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-5cd0449d6cf3d30c548c8ecd08f959fc]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/2500/regulation/19) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
 [^f00004]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-3e5df1bebe43cc62b747f4d1f658f8a1]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/2500/regulation/20) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-3e5df1bebe43cc62b747f4d1f658f8a1]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/2500/regulation/20) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-8665684ff581cb7525778e6078e5003f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2012/2500/regulation/21) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-8665684ff581cb7525778e6078e5003f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2012/2500/regulation/21) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-0e20b4f97f570c3af6d5e31ddc136244]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2012/2500/regulation/22) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-0e20b4f97f570c3af6d5e31ddc136244]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2012/2500/regulation/22) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-d5540a9383995b1f36784f80da270420]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/2500/regulation/23) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-d5540a9383995b1f36784f80da270420]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/2500/regulation/23) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-8595162966bcc5c56423f38b5e23fffe]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2012/2500/regulation/24) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-8595162966bcc5c56423f38b5e23fffe]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2012/2500/regulation/24) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
-[^key-aebf38adf67c489f95837831a7f1ebe5]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2500/schedule/1) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
+[^c-aebf38adf67c489f95837831a7f1ebe5]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2500/schedule/1) in force at 1.11.2012, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/1)
 
 [^f00005]: Footnote: [2005 c. 19](https://www.legislation.gov.uk/ukpga/2005/19).
 
-[^key-45499a53ddc023f5321eab095c1906d5]: Textual amendment: Words in [Sch. 1 para. (q)](https://www.legislation.gov.uk/uksi/2012/2500/schedule/1/paragraph) substituted (16.8.2018) by [The Machine Games Duty (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/866)](https://www.legislation.gov.uk/uksi/2018/866), [regs. 1](https://www.legislation.gov.uk/uksi/2018/866/regulation/1), [5](https://www.legislation.gov.uk/uksi/2018/866/regulation/5)
+[^c-45499a53ddc023f5321eab095c1906d5]: Textual amendment: Words in [Sch. 1 para. (q)](https://www.legislation.gov.uk/uksi/2012/2500/schedule/1/paragraph) substituted (16.8.2018) by [The Machine Games Duty (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/866)](https://www.legislation.gov.uk/uksi/2018/866), [regs. 1](https://www.legislation.gov.uk/uksi/2018/866/regulation/1), [5](https://www.legislation.gov.uk/uksi/2018/866/regulation/5)
 
 [^f00006]: Footnote: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4).
 
-[^key-1127ca2bd2aab5fa6a78e23faacb885c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/2500/schedule/2) in force at 1.2.2013, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/2)
+[^c-1127ca2bd2aab5fa6a78e23faacb885c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/2500/schedule/2) in force at 1.2.2013, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/2500/regulation/2/2)
 
-[^key-4d81660bca26e39aedf18ac7867e6c25]: Textual amendment: [Sch. 2 para. (b)](https://www.legislation.gov.uk/uksi/2012/2500/schedule/2/paragraph) substituted (16.8.2018) by [The Machine Games Duty (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/866)](https://www.legislation.gov.uk/uksi/2018/866), [regs. 1](https://www.legislation.gov.uk/uksi/2018/866/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/866/regulation/6)
+[^c-4d81660bca26e39aedf18ac7867e6c25]: Textual amendment: [Sch. 2 para. (b)](https://www.legislation.gov.uk/uksi/2012/2500/schedule/2/paragraph) substituted (16.8.2018) by [The Machine Games Duty (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/866)](https://www.legislation.gov.uk/uksi/2018/866), [regs. 1](https://www.legislation.gov.uk/uksi/2018/866/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/866/regulation/6)

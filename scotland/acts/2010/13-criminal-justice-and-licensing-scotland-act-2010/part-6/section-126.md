@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. Change in circumstances following lodging of defence statement: summary proceedings[^key-11f11d414589f2886c82afa3669a0f29]
+## 126. Change in circumstances following lodging of defence statement: summary proceedings[^c-11f11d414589f2886c82afa3669a0f29]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11f11d414589f2886c82afa3669a0f29]: Commencement: S. 126 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) )
+[^c-11f11d414589f2886c82afa3669a0f29]: Commencement: S. 126 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) )

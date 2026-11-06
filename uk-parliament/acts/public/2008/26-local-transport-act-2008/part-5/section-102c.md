@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102C. Boundaries of power under section 102B[^key-6c947fd084a0c5d36701b12fbe779010]
+## 102C. Boundaries of power under section 102B[^c-6c947fd084a0c5d36701b12fbe779010]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 (6) Where under section 102B(1)(e) an ITA does things for a commercial purpose, it must do them through—
 
 - (a) a company within the meaning given by section 1(1) of the Companies Act 2006, or
-- (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or deemed to be registered under[^key-eef137c11fb4397b35527b8909a93294] the Industrial and Provident Societies Act (Northern Ireland) 1969.
+- (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or deemed to be registered under[^c-eef137c11fb4397b35527b8909a93294] the Industrial and Provident Societies Act (Northern Ireland) 1969.
 
 (7) In this section—
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6c947fd084a0c5d36701b12fbe779010]: Textual amendment: Pt. 5 Ch. 4 inserted (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 11](https://www.legislation.gov.uk/ukpga/2011/20/section/11), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
+[^c-6c947fd084a0c5d36701b12fbe779010]: Textual amendment: Pt. 5 Ch. 4 inserted (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 11](https://www.legislation.gov.uk/ukpga/2011/20/section/11), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
 
-[^key-eef137c11fb4397b35527b8909a93294]: Textual amendment: Words in s. 102C(6)(b) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 138](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/138) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-eef137c11fb4397b35527b8909a93294]: Textual amendment: Words in s. 102C(6)(b) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 138](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/138) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

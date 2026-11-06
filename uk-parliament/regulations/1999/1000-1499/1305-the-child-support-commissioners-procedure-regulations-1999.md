@@ -75,29 +75,29 @@ The following Regulations are revoked to the extent that they relate to proceedi
 
 In these Regulations, unless the context otherwise requires–
 
-- “the[^key-2b435b2adc54794d6cc83261d65d22f2] 1999 Regulations” means the Social Security and Child Support (Decisions and Appeals) Regulations 1999;
+- “the[^c-2b435b2adc54794d6cc83261d65d22f2] 1999 Regulations” means the Social Security and Child Support (Decisions and Appeals) Regulations 1999;
 - “the Act" means the Child Support Act 1991;
 - “appeal tribunal" means an appeal tribunal constituted under Chapter 1 of Part I of the Social Security Act 1998 [^c1641792];
 - “authorised officer" means an officer authorised by the Lord Chancellor, or in Scotland by the Secretary of State, in accordance with paragraph 4A of Schedule 4 to the Act [^c1641793];
 - “the chairman" for the purposes of regulations 10, 11 and 12 means–
-  - (i) the person who was the chairman or sole member of the appeal tribunal which gave the decision against which leave to appeal is being sought; [^key-1cafb340f6504d8f025835a4e1728330]...
-  - (ii) [^key-b72c621b17368399705f63e2e1599bf3]...
+  - (i) the person who was the chairman or sole member of the appeal tribunal which gave the decision against which leave to appeal is being sought; [^c-1cafb340f6504d8f025835a4e1728330]...
+  - (ii) [^c-b72c621b17368399705f63e2e1599bf3]...
 - “Commissioner" means a Child Support Commissioner;
-- “funding notice” means the notice or letter from the Legal Services Commission confirming that legal services are to be funded;[^key-a8b90584bab9d4e4829f5ccb498fd378]
+- “funding notice” means the notice or letter from the Legal Services Commission confirming that legal services are to be funded;[^c-a8b90584bab9d4e4829f5ccb498fd378]
 - “legal aid certificate” means the certificate issued by the Scottish Legal Aid Board confirming that legal services are to be funded;
 - “legally qualified" means being a solicitor or barrister, or in Scotland, a solicitor or advocate;
-- “Legal Services Commission” means the Legal Services Commission established under section 1 of the Access to Justice Act 1999;[^key-c8f9508c608f6379b9e9c0838b8002d0]
+- “Legal Services Commission” means the Legal Services Commission established under section 1 of the Access to Justice Act 1999;[^c-c8f9508c608f6379b9e9c0838b8002d0]
 - “live television link” means a television link or other audio and video facilities which allow a person who is not physically present at an oral hearing to see and hear proceedings and be seen and heard by all others who are present (whether physically present or otherwise);
 - “month" means a calendar month;
 - “office" means an Office of the Child Support Commissioners;
-- “panel member” means a person appointed to the panel constituted under section 6 of the Social Security Act 1998 and who—[^key-04da86b9df5de9a85ca95d6da79b4ef6]
+- “panel member” means a person appointed to the panel constituted under section 6 of the Social Security Act 1998 and who—[^c-04da86b9df5de9a85ca95d6da79b4ef6]
   - (i) has a general qualification (construed in accordance with section 71 of the Courts and Legal Services Act 1990);
   - (ii) is a member of the Bar of Northern Ireland or a Solicitor of the Supreme Court of Northern Ireland; or
   - (iii) is an advocate or solicitor in Scotland.
 - “party" means a party to the proceedings;
 - “proceedings" means any proceedings before a Commissioner, whether by way of an application for leave to appeal to, or from, a Commissioner, by way of an appeal or otherwise;
-- “respondent" means any person other than the applicant or appellant who was a party to the proceedings before the appeal tribunal and any other person who, pursuant to a direction given under regulation 18 is served with notice of the appeal; [^key-b320b90661ab7abeb2e1e322406c2407]...
-- “Scottish Legal Aid Board” means the Scottish Legal Aid Board established under section 1 of the Legal Aid (Scotland) Act 1986; and[^key-cf4fe72ae9dddfc5f055170ebf16bda5]
+- “respondent" means any person other than the applicant or appellant who was a party to the proceedings before the appeal tribunal and any other person who, pursuant to a direction given under regulation 18 is served with notice of the appeal; [^c-b320b90661ab7abeb2e1e322406c2407]...
+- “Scottish Legal Aid Board” means the Scottish Legal Aid Board established under section 1 of the Legal Aid (Scotland) Act 1986; and[^c-cf4fe72ae9dddfc5f055170ebf16bda5]
 
 “summons", in relation to Scotland, corresponds to “citation" and regulation 23 shall be construed accordingly.
 
@@ -142,10 +142,10 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 
 - (a) delivered to him personally; or
 - (b) properly addressed and sent to him by prepaid post at the address last notified by him for this purpose, or to his ordinary address; or
-- (ba)[^key-a0a5647ab4b8c3b9915aa38254095ec4] subject to paragraph (1A), sent by e-mail; or
+- (ba)[^c-a0a5647ab4b8c3b9915aa38254095ec4] subject to paragraph (1A), sent by e-mail; or
 - (c) served in any other manner a Commissioner may direct.
 
-(1A)[^key-49df5436dccc59eaba5c8e8e0596d0d1] A document may be served by e-mail on any party if the recipient has informed the person sending the e-mail in writing—
+(1A)[^c-49df5436dccc59eaba5c8e8e0596d0d1] A document may be served by e-mail on any party if the recipient has informed the person sending the e-mail in writing—
 
 - (a) that he is willing to accept service by e-mail;
 - (b) of the e-mail address to which the documents should be sent; and
@@ -153,7 +153,7 @@ If it becomes impractical or inexpedient for a Commissioner to continue to deal 
 
 (2) A notice to or other document for a Commissioner shall be delivered or sent to the office.
 
-- (a)[^key-63838245e8ce90f919d2aac7d5bb928f] delivered to the office in person;
+- (a)[^c-63838245e8ce90f919d2aac7d5bb928f] delivered to the office in person;
 - (b) sent to the office by prepaid post;
 - (c) sent to the office by fax; or
 - (d) where the office has given written permission in advance, sent to the office by e-mail
@@ -180,7 +180,7 @@ then the information may be disclosed in the course of the proceedings.
 
 (5) This regulation does not apply to proceedings which relate solely to a reduced benefits direction within the meaning of section 46(11) of the Act [^c1641794].
 
-### 9A. Funding of legal services[^key-ac7c10e61df33330f417a4ddb29d580a]
+### 9A. Funding of legal services[^c-ac7c10e61df33330f417a4ddb29d580a]
 
 (1) If a party is granted funding of legal services at any time, he shall—
 
@@ -192,7 +192,7 @@ then the information may be disclosed in the course of the proceedings.
 
 ### 10. Application to a Chairman for leave to appeal
 
-(1) Subject to paragraphs (5) and (7), an application[^key-8bc269aa99d58cb27b52e4f595ca30b6] to a chairman for leave to appeal to a Commissioner from a decision of an appeal tribunal shall be made within one month of the date the written statement of the reasons for the decision was sent to the applicant.
+(1) Subject to paragraphs (5) and (7), an application[^c-8bc269aa99d58cb27b52e4f595ca30b6] to a chairman for leave to appeal to a Commissioner from a decision of an appeal tribunal shall be made within one month of the date the written statement of the reasons for the decision was sent to the applicant.
 
 (2) Where an application for leave to appeal to a Commissioner is made by the Secretary of State, the clerk to an appeal tribunal shall, as soon as may be practicable, send a copy of the application to every other party.
 
@@ -202,12 +202,12 @@ then the information may be disclosed in the course of the proceedings.
 
 (5) Where an applicant has not applied for leave to appeal within one month in accordance with paragraph (1), but makes an application within one year beginning on the day the one month ends, the chairman may for special reasons accept the late application.
 
-(6)[^key-99564c06b21e7245eda66a032e147941] Where an application for leave to appeal against a decision of an appeal tribunal is made—
+(6)[^c-99564c06b21e7245eda66a032e147941] Where an application for leave to appeal against a decision of an appeal tribunal is made—
 
 - (a) if the chairman was a fee-paid panel member, the application may be determined by a salaried panel member; or
 - (b) if it is impracticable or would be likely to cause undue delay for the application to be determined by the chairman, the application may be determined by another panel member.
 
-(7)[^key-5f6ac371e563f5f3d6a01a3a4f03074f] Where—
+(7)[^c-5f6ac371e563f5f3d6a01a3a4f03074f] Where—
 
 - (a) any decision or the record of a decision is corrected under regulation 56 of the 1999 Regulations; or
 - (b) an application for a decision to be set aside under regulation 57 of the 1999 Regulations is refused for reasons other than that the application was made outside the period specified in regulation 57(3) of those Regulations,
@@ -340,7 +340,7 @@ Any notice from the Secretary of State to a Commissioner under section 28ZB of t
 
 (6) Where a Commissioner holds a hearing the applicant or appellant, every respondent and, with the leave of a Commissioner, any other person, shall be entitled to be present and be heard.
 
-(6A)[^key-03db0f0574ae33a2efeb8c5f606165e1] Subject to the direction of a Commissioner—
+(6A)[^c-03db0f0574ae33a2efeb8c5f606165e1] Subject to the direction of a Commissioner—
 
 - (a) any person or organisation entitled to be present and be heard at a hearing; and
 - (b) any representatives of such a person or organisation,
@@ -390,7 +390,7 @@ Any irregularity resulting from failure to comply with the requirements of these
 
 (4) Without prejudice to paragraphs (2) and (3), a Commissioner may announce his determination or decision at the end of a hearing.
 
-(5) When giving his decision on an application or appeal, whether in writing or orally, a Commissioner shall omit any reference to the surname of any child to whom the application or appeal relates and, so far as practicable,[^key-d971aa199576fd3863b10c9b4bf1ab7e] any other information which would be likely, whether directly or indirectly, to identify that child.
+(5) When giving his decision on an application or appeal, whether in writing or orally, a Commissioner shall omit any reference to the surname of any child to whom the application or appeal relates and, so far as practicable,[^c-d971aa199576fd3863b10c9b4bf1ab7e] any other information which would be likely, whether directly or indirectly, to identify that child.
 
 ### 27. Correction of accidental errors in decisions
 
@@ -403,8 +403,8 @@ Any irregularity resulting from failure to comply with the requirements of these
 (1) Subject to regulations 6 and 29, on an application made by any party, the Commissioner who gave the decision in proceedings may set it aside where it appears just to do so on the ground that–
 
 - (a) a document relating to the proceedings was not sent to, or was not received at an appropriate time by, a party or his representative or was not received at an appropriate time by the Commissioner; or
-- (b) a party or his representative was not present at a hearing before the Commissioner; [^key-cbca94c50140f4a6935aa39cddac493e]...
-- (c)[^key-1617a9d3a360dd9acead658114a0c2d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a party or his representative was not present at a hearing before the Commissioner; [^c-cbca94c50140f4a6935aa39cddac493e]...
+- (c)[^c-1617a9d3a360dd9acead658114a0c2d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) An application under this regulation shall be made in writing to a Commissioner within one month from the date on which the office gave written notice of the decision to the party making the application.
 
@@ -424,7 +424,7 @@ Any irregularity resulting from failure to comply with the requirements of these
 
 (1) Subject to paragraph (2), an application to a Commissioner under section 25 of the Act for leave to appeal against a decision of a Commissioner shall be made in writing, stating the grounds of the application, within three months from the date on which the applicant was sent written notice of the decision.
 
-(2)[^key-320b64307e9a283992b6d00dce01fd87] Where—
+(2)[^c-320b64307e9a283992b6d00dce01fd87] Where—
 
 - (a) any decision or record of a decision is corrected under regulation 27; or
 - (b) an application for a decision to be set aside under regulation 28 is refused for reasons other than that the application was made outside the period specified in regulation 28(2),
@@ -455,50 +455,50 @@ These Regulations make provision for the procedure to be followed in proceedings
 
 [^c1641791]: Marginal citation: [S.I. 1997/802](https://www.legislation.gov.uk/uksi/1997/802).
 
-[^key-2b435b2adc54794d6cc83261d65d22f2]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/a)
+[^c-2b435b2adc54794d6cc83261d65d22f2]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/a)
 
 [^c1641792]: Marginal citation: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
 
 [^c1641793]: Marginal citation: Paragraph 4A was inserted by section 17(1) of the [Child Support Act 1995 (c. 34)](https://www.legislation.gov.uk/ukpga/1995/34).
 
-[^key-1cafb340f6504d8f025835a4e1728330]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) omitted (28.2.2005) by virtue of [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/b/i)
+[^c-1cafb340f6504d8f025835a4e1728330]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) omitted (28.2.2005) by virtue of [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/b/i)
 
-[^key-b72c621b17368399705f63e2e1599bf3]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) omitted (28.2.2005) by virtue of [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/b/ii)
+[^c-b72c621b17368399705f63e2e1599bf3]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) omitted (28.2.2005) by virtue of [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/b/ii)
 
-[^key-a8b90584bab9d4e4829f5ccb498fd378]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/c)
+[^c-a8b90584bab9d4e4829f5ccb498fd378]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/c)
 
-[^key-c8f9508c608f6379b9e9c0838b8002d0]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(d)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/d)
+[^c-c8f9508c608f6379b9e9c0838b8002d0]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(d)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/d)
 
-[^key-04da86b9df5de9a85ca95d6da79b4ef6]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(e)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/e)
+[^c-04da86b9df5de9a85ca95d6da79b4ef6]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(e)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/e)
 
-[^key-b320b90661ab7abeb2e1e322406c2407]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) omitted (28.2.2005) by virtue of [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(f)(i)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/f/i)
+[^c-b320b90661ab7abeb2e1e322406c2407]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) omitted (28.2.2005) by virtue of [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(f)(i)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/f/i)
 
-[^key-cf4fe72ae9dddfc5f055170ebf16bda5]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/f/ii)
+[^c-cf4fe72ae9dddfc5f055170ebf16bda5]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1999/1305/regulation/4) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(3)(f)(ii)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/3/f/ii)
 
-[^key-a0a5647ab4b8c3b9915aa38254095ec4]: Textual amendment: [Reg. 8(1)(ba)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/8/1/ba) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/4/a)
+[^c-a0a5647ab4b8c3b9915aa38254095ec4]: Textual amendment: [Reg. 8(1)(ba)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/8/1/ba) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/4/a)
 
-[^key-49df5436dccc59eaba5c8e8e0596d0d1]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/8/1A) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/4/b)
+[^c-49df5436dccc59eaba5c8e8e0596d0d1]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/8/1A) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/4/b)
 
-[^key-63838245e8ce90f919d2aac7d5bb928f]: Textual amendment: [Reg. 8(2)(a)-(d)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/8/2/a) substituted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/4/c)
+[^c-63838245e8ce90f919d2aac7d5bb928f]: Textual amendment: [Reg. 8(2)(a)-(d)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/8/2/a) substituted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/4/c)
 
 [^c1641794]: Marginal citation: Section 46(11) of the Act was amended by section 86 of, and paragraph 43 of Schedule 7 to, the [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14).
 
-[^key-ac7c10e61df33330f417a4ddb29d580a]: Textual amendment: Reg. 9A inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/5)
+[^c-ac7c10e61df33330f417a4ddb29d580a]: Textual amendment: Reg. 9A inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/5)
 
-[^key-8bc269aa99d58cb27b52e4f595ca30b6]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/10/1) substituted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/6)
+[^c-8bc269aa99d58cb27b52e4f595ca30b6]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/10/1) substituted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/6)
 
-[^key-99564c06b21e7245eda66a032e147941]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/10/6) substituted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/7)
+[^c-99564c06b21e7245eda66a032e147941]: Textual amendment: [Reg. 10(6)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/10/6) substituted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/7)
 
-[^key-5f6ac371e563f5f3d6a01a3a4f03074f]: Textual amendment: [Reg. 10(7)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/10/7) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/8)
+[^c-5f6ac371e563f5f3d6a01a3a4f03074f]: Textual amendment: [Reg. 10(7)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/10/7) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/8)
 
 [^c1641795]: Marginal citation: Section 28ZB was inserted in the Act by section 43 of the [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14).
 
-[^key-03db0f0574ae33a2efeb8c5f606165e1]: Textual amendment: [Reg. 22(6A)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/22/6A)[(6B)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/22/6B) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(9)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/9)
+[^c-03db0f0574ae33a2efeb8c5f606165e1]: Textual amendment: [Reg. 22(6A)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/22/6A)[(6B)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/22/6B) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(9)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/9)
 
-[^key-d971aa199576fd3863b10c9b4bf1ab7e]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/26/5) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/10)
+[^c-d971aa199576fd3863b10c9b4bf1ab7e]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/26/5) inserted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(10)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/10)
 
-[^key-cbca94c50140f4a6935aa39cddac493e]: Textual amendment: Word in [reg. 28(1)(b)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/28/1/b) omitted (28.2.2005) by virtue of [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(11)(a)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/11/a)
+[^c-cbca94c50140f4a6935aa39cddac493e]: Textual amendment: Word in [reg. 28(1)(b)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/28/1/b) omitted (28.2.2005) by virtue of [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(11)(a)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/11/a)
 
-[^key-1617a9d3a360dd9acead658114a0c2d6]: Textual amendment: [Reg. 28(1)(c)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/28/1/c) omitted (28.2.2005) by virtue of [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(11)(b)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/11/b)
+[^c-1617a9d3a360dd9acead658114a0c2d6]: Textual amendment: [Reg. 28(1)(c)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/28/1/c) omitted (28.2.2005) by virtue of [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(11)(b)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/11/b)
 
-[^key-320b64307e9a283992b6d00dce01fd87]: Textual amendment: [Reg. 30(2)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/30/2) substituted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(12)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/12)
+[^c-320b64307e9a283992b6d00dce01fd87]: Textual amendment: [Reg. 30(2)](https://www.legislation.gov.uk/uksi/1999/1305/regulation/30/2) substituted (28.2.2005) by [Social Security and Child Support Commissioners (Procedure) (Amendment) Regulations 2005 (S.I. 2005/207)](https://www.legislation.gov.uk/uksi/2005/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/207/regulation/1/1), [3(12)](https://www.legislation.gov.uk/uksi/2005/207/regulation/3/12)

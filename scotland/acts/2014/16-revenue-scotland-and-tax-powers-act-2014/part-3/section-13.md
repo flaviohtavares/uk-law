@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Use of information by Revenue Scotland and other persons[^key-15c682be5e4dbacded0a279b0d52ddff]
+## 13. Use of information by Revenue Scotland and other persons[^c-15c682be5e4dbacded0a279b0d52ddff]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15c682be5e4dbacded0a279b0d52ddff]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/16/section/13) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-15c682be5e4dbacded0a279b0d52ddff]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/16/section/13) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

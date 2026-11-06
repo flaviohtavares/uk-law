@@ -33,18 +33,18 @@ of 15 May 2013
 
 establishing a procedure for determining the Member State of reference of a non-EU AIFM pursuant to Directive 2011/61/EU of the European Parliament and of the Council (revoked)
 
-[^key-e8b4b9ad87f3e6ea78272e4aa1006540]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e8b4b9ad87f3e6ea78272e4aa1006540]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Procedure for determining the Member State of reference from among several possible Member States of reference[^key-e8b4b9ad87f3e6ea78272e4aa1006540]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Entry into force[^key-e8b4b9ad87f3e6ea78272e4aa1006540]
+## Article 1. Procedure for determining the Member State of reference from among several possible Member States of reference[^c-e8b4b9ad87f3e6ea78272e4aa1006540]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e8b4b9ad87f3e6ea78272e4aa1006540]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Entry into force[^c-e8b4b9ad87f3e6ea78272e4aa1006540]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-e8b4b9ad87f3e6ea78272e4aa1006540]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e8b4b9ad87f3e6ea78272e4aa1006540]: Textual amendment: Regulation revoked (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/3), [42](https://www.legislation.gov.uk/uksi/2019/328/regulation/42) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e8b4b9ad87f3e6ea78272e4aa1006540]: Textual amendment: Regulation revoked (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1/3), [42](https://www.legislation.gov.uk/uksi/2019/328/regulation/42) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [reg. 58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

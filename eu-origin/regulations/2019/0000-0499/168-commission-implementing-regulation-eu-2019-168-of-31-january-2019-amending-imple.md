@@ -35,22 +35,22 @@ amending Implementing Regulation (EU) No 540/2011 as regards the extension of th
 
 (Text with EEA relevance) (revoked)
 
-[^key-bcbfa9a8f09cef5f65edddbf4466e5a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bcbfa9a8f09cef5f65edddbf4466e5a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-bcbfa9a8f09cef5f65edddbf4466e5a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-bcbfa9a8f09cef5f65edddbf4466e5a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-bcbfa9a8f09cef5f65edddbf4466e5a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-bcbfa9a8f09cef5f65edddbf4466e5a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bcbfa9a8f09cef5f65edddbf4466e5a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bcbfa9a8f09cef5f65edddbf4466e5a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-bcbfa9a8f09cef5f65edddbf4466e5a0]
+## ANNEX[^c-bcbfa9a8f09cef5f65edddbf4466e5a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bcbfa9a8f09cef5f65edddbf4466e5a0]: Textual amendment: Regulation revoked (31.12.2020) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [Sch.](https://www.legislation.gov.uk/uksi/2019/559/schedule) (with [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/12/2)[(3)](https://www.legislation.gov.uk/uksi/2019/559/regulation/12/3)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [4(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/4/3)) and revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/3), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2019/1410/schedule/paragraph/17) (with [reg. 4(2)-(6)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/4/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bcbfa9a8f09cef5f65edddbf4466e5a0]: Textual amendment: Regulation revoked (31.12.2020) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [Sch.](https://www.legislation.gov.uk/uksi/2019/559/schedule) (with [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/12/2)[(3)](https://www.legislation.gov.uk/uksi/2019/559/regulation/12/3)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [4(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/4/3)) and revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/3), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2019/1410/schedule/paragraph/17) (with [reg. 4(2)-(6)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/4/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

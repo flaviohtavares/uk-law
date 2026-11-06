@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Safeguarding vulnerable groups: regulated activity (Northern Ireland)[^key-b60ad6591b100ef9e0b0e2e9725c451e][^key-801ec679d0a6ffdfad58a0a74ddaf56b]
+## 140. Safeguarding vulnerable groups: regulated activity (Northern Ireland)[^c-b60ad6591b100ef9e0b0e2e9725c451e][^c-801ec679d0a6ffdfad58a0a74ddaf56b]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b60ad6591b100ef9e0b0e2e9725c451e]: Commencement: S. 140 not in force at Royal Assent, see [s. 255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9)
+[^c-b60ad6591b100ef9e0b0e2e9725c451e]: Commencement: S. 140 not in force at Royal Assent, see [s. 255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9)
 
-[^key-801ec679d0a6ffdfad58a0a74ddaf56b]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2026/20/section/140) in force at 1.9.2026 by [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
+[^c-801ec679d0a6ffdfad58a0a74ddaf56b]: Commencement: [S. 140](https://www.legislation.gov.uk/ukpga/2026/20/section/140) in force at 1.9.2026 by [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)

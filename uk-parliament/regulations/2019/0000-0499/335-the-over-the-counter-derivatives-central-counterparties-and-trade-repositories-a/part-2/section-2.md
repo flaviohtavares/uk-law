@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendments to the Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013[^key-421294584902dbdb240afc6e6335c95e]
+## 2. Amendments to the Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013[^c-421294584902dbdb240afc6e6335c95e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Centr
 
 ## Annotations
 
-[^key-421294584902dbdb240afc6e6335c95e]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-421294584902dbdb240afc6e6335c95e]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23594691]: Marginal citation: [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504). Relevant amendments are made by [S.I. 2013/1908](https://www.legislation.gov.uk/uksi/2013/1908), 2016/715 and 2017/701.

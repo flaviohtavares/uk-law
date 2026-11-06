@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Announcement of fiscally significant measures[^key-c5329785dc0d4c3da31efce097e95fe8]
+## 4A. Announcement of fiscally significant measures[^c-c5329785dc0d4c3da31efce097e95fe8]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ the Treasury must, before the announcement, request the Office to prepare a sect
 - “**fiscal announcement**” means an announcement in respect of any matter mentioned in section 1(2)(c);
 - “**Minister of the Crown**” has the same meaning as in the Ministers of the Crown Act 1975;
 - “**request**” means a request made in accordance with the Charter (whether the request is described in the Charter as a commission or in some other way);
-- “**section 4(3) report**” means a report under section 4 which contains forecasts [^key-08f096e294549f03c7117b34ee69e4c9]... under subsection (3) of that section.
+- “**section 4(3) report**” means a report under section 4 which contains forecasts [^c-08f096e294549f03c7117b34ee69e4c9]... under subsection (3) of that section.
 
 (8) It does not matter for the purposes of this section whether or not two or more measures are, or are proposed to be, announced at the same time or at different times.
 
@@ -58,6 +58,6 @@ the Treasury must, before the announcement, request the Office to prepare a sect
 
 ## Annotations
 
-[^key-c5329785dc0d4c3da31efce097e95fe8]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/2011/4/section/4A) inserted (15.10.2024) by [Budget Responsibility Act 2024 (c. 24)](https://www.legislation.gov.uk/ukpga/2024/24), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2024/24/section/1/3), [2(2)](https://www.legislation.gov.uk/ukpga/2024/24/section/2/2); [S.I. 2024/1026](https://www.legislation.gov.uk/uksi/2024/1026), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1026/regulation/2)
+[^c-c5329785dc0d4c3da31efce097e95fe8]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/2011/4/section/4A) inserted (15.10.2024) by [Budget Responsibility Act 2024 (c. 24)](https://www.legislation.gov.uk/ukpga/2024/24), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2024/24/section/1/3), [2(2)](https://www.legislation.gov.uk/ukpga/2024/24/section/2/2); [S.I. 2024/1026](https://www.legislation.gov.uk/uksi/2024/1026), [reg. 2](https://www.legislation.gov.uk/uksi/2024/1026/regulation/2)
 
-[^key-08f096e294549f03c7117b34ee69e4c9]: Textual amendment: Words in [s. 4A(7)](https://www.legislation.gov.uk/ukpga/2011/4/section/4A/7) omitted (for the financial year beginning with April 2025 and subsequent financial years) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 254(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/254/2)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/254/3)
+[^c-08f096e294549f03c7117b34ee69e4c9]: Textual amendment: Words in [s. 4A(7)](https://www.legislation.gov.uk/ukpga/2011/4/section/4A/7) omitted (for the financial year beginning with April 2025 and subsequent financial years) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 254(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/254/2)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/254/3)

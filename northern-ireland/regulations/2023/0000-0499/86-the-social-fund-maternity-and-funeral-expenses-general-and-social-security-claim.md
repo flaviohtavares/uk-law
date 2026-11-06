@@ -42,13 +42,13 @@ Coming into operation
 
 The Department for Communities[^f00001] makes the following Regulations in exercise of the powers conferred by sections 134(1)(a) and 171(3) and (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002] and sections 5(1)(a) and 165(4) of the Social Security Administration (Northern Ireland) Act 1992[^f00003] and now vested in it[^f00004].
 
-## 1. Citation, commencement and interpretation[^key-73040446a48d6b537d9d812c5a048ca1]
+## 1. Citation, commencement and interpretation[^c-73040446a48d6b537d9d812c5a048ca1]
 
 (1) These Regulations may be cited as the Social Fund Maternity and Funeral Expenses (General) and Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 8<sup>th</sup> June 2023.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-1e120d30f238d50577196f4ade4e7c60]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-1e120d30f238d50577196f4ade4e7c60]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00006] are amended in accordance with paragraph (2).
 
@@ -80,7 +80,7 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 > - (a) at the date of the claim for a relevant social fund payment, there is an existing member of the family (within the meaning given in regulation 5A of the Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005); and
 > - (b) that existing member of the family is under the age of 16 on that date.
 
-## 3. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations[^key-e34ca6655fc2798ca9e4b60a183f100d]
+## 3. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations[^c-e34ca6655fc2798ca9e4b60a183f100d]
 
 (1) The Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005[^f00012] are amended in accordance with paragraphs (2) and (3).
 
@@ -152,11 +152,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: See Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481).
 
-[^key-73040446a48d6b537d9d812c5a048ca1]: Commencement: Reg. 1 in operation at 8.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/86/regulation/1/1)
+[^c-73040446a48d6b537d9d812c5a048ca1]: Commencement: Reg. 1 in operation at 8.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/86/regulation/1/1)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-1e120d30f238d50577196f4ade4e7c60]: Commencement: Reg. 2 in operation at 8.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/86/regulation/1/1)
+[^c-1e120d30f238d50577196f4ade4e7c60]: Commencement: Reg. 2 in operation at 8.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/86/regulation/1/1)
 
 [^f00006]: Footnote: [S.R.1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465).
 
@@ -170,7 +170,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00011]: Footnote: Section 3ZA is inserted by section 2(2) of the Immigration and Social Security Co-ordination (EU Withdrawal) Act [2020 (c. 20)](https://www.legislation.gov.uk/ukpga/2020/20).
 
-[^key-e34ca6655fc2798ca9e4b60a183f100d]: Commencement: Reg. 3 in operation at 8.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/86/regulation/1/1)
+[^c-e34ca6655fc2798ca9e4b60a183f100d]: Commencement: Reg. 3 in operation at 8.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/86/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 2005 No. 506](https://www.legislation.gov.uk/nisr/2005/506).
 

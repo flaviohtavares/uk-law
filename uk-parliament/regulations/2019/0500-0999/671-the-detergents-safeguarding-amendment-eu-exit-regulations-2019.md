@@ -50,13 +50,13 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-0a6ed13561f14b5ea9aee180c3eb2000]
+### 1. Citation and commencement[^c-0a6ed13561f14b5ea9aee180c3eb2000]
 
 These Regulations may be cited as the Detergents (Safeguarding) (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
 ## PART 2 — Amendment of retained direct EU legislation
 
-### 2. Interpretation[^key-639e251032ce940564753f80fd693600]
+### 2. Interpretation[^c-639e251032ce940564753f80fd693600]
 
 In this Part—
 
@@ -65,7 +65,7 @@ In this Part—
   - (a) Regulation [(EC) No 648/2004](https://www.legislation.gov.uk/eur/2004/648) of the European Parliament and of the Council on detergents;
   - (b) the corresponding act made part of the internal legal order of the Contracting Parties under Article 7(a) of the EEA agreement [^c23672791].
 
-### 3. Amendment of Article 15 of Regulation [(EC) No 648/2004](https://www.legislation.gov.uk/eur/2004/648)[^key-1c5d2e30372de6a9faf2cecae711a545]
+### 3. Amendment of Article 15 of Regulation [(EC) No 648/2004](https://www.legislation.gov.uk/eur/2004/648)[^c-1c5d2e30372de6a9faf2cecae711a545]
 
 (1) Article 15 of Regulation [(EC) No 648/2004](https://www.legislation.gov.uk/eur/2004/648) is amended as follows.
 
@@ -98,7 +98,7 @@ In this Part—
 > - — ‘Devolved authority’ means:
 >   - in Scotland, the Scottish Ministers;
 >   - in Wales, the Welsh Ministers;
->   - [^key-11549687a441a4b2b0dcc351b058cac2]...
+>   - [^c-11549687a441a4b2b0dcc351b058cac2]...
 
 .
 
@@ -111,7 +111,7 @@ In this Part—
 > - — relates to England;
 > - — relates to Scotland and is not within devolved competence (within the meaning of section 54 of the Scotland Act 1998 [^c23672811]);
 > - — relates to Wales and is not within devolved competence (within the meaning of section 58A(7) and (8) of the Government of Wales Act 2006 [^c23672821]);
-> - [^key-7c889a9b550841898ae1a9026cec70d3]...
+> - [^c-7c889a9b550841898ae1a9026cec70d3]...
 >   -
 >   -
 >
@@ -123,11 +123,11 @@ In this Part—
 >
 > The Welsh Ministers have competence to impose provisional measures if and to the extent that the exercise of the function to impose those measures is within devolved competence (within the meaning of sections 58A(7) and (8) of the Government of Wales Act 2006).
 >
-> **6.[^key-a5a123d81738060982c825326afeb732]**
+> **6.[^c-a5a123d81738060982c825326afeb732]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.[^key-a5a123d81738060982c825326afeb732]**
+> **7.[^c-a5a123d81738060982c825326afeb732]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -158,22 +158,22 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23672781]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-0a6ed13561f14b5ea9aee180c3eb2000]: Commencement: Reg. 1 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0a6ed13561f14b5ea9aee180c3eb2000]: Commencement: Reg. 1 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-639e251032ce940564753f80fd693600]: Commencement: Reg. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-639e251032ce940564753f80fd693600]: Commencement: Reg. 2 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23672791]: Marginal citation: See Decision Nos 144/2005, 15/2007, 66/2010, 106/2012 and 140/2013 of the EEA Joint Committee and point 12u in Chapter 15 of Annex 2 to the EEA agreement available at www.efta.int/eea-lex.
 
-[^key-1c5d2e30372de6a9faf2cecae711a545]: Commencement: Reg. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1c5d2e30372de6a9faf2cecae711a545]: Commencement: Reg. 3 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23672801]: Marginal citation: [S.I. 2005/1803](https://www.legislation.gov.uk/uksi/2005/1803).
 
-[^key-11549687a441a4b2b0dcc351b058cac2]: Textual amendment: Words in reg. 3(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/3/2/a)
+[^c-11549687a441a4b2b0dcc351b058cac2]: Textual amendment: Words in reg. 3(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/3/2/a)
 
 [^c23672811]: Marginal citation: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
 [^c23672821]: Marginal citation: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32); section 58A was inserted by section 19 of the [Government of Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-7c889a9b550841898ae1a9026cec70d3]: Textual amendment: Words in reg. 3(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/3/2/b/i)
+[^c-7c889a9b550841898ae1a9026cec70d3]: Textual amendment: Words in reg. 3(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/3/2/b/i)
 
-[^key-a5a123d81738060982c825326afeb732]: Textual amendment: Words in reg. 3(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/3/2/b/ii)
+[^c-a5a123d81738060982c825326afeb732]: Textual amendment: Words in reg. 3(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Detergents (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1617)](https://www.legislation.gov.uk/uksi/2020/1617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/1/2), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1617/regulation/3/2/b/ii)

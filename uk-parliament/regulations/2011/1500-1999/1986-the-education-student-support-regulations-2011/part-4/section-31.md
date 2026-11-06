@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Amount of the grant for fees for a course at a publicly funded institution[^key-21a5bb7e639731de10bb5599fd5859a7]
+## 31. Amount of the grant for fees for a course at a publicly funded institution[^c-21a5bb7e639731de10bb5599fd5859a7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21a5bb7e639731de10bb5599fd5859a7]: Textual amendment: Pt. 4 Ch. 4 omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(5)(h)(i)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/5/h/i)
+[^c-21a5bb7e639731de10bb5599fd5859a7]: Textual amendment: Pt. 4 Ch. 4 omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(5)(h)(i)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/5/h/i)

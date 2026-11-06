@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 89. Definition of “consumer”[^key-aae1e1ad7f00703f25db2872f533d0e7][^key-a88c440f866244831453d0a584b0597a]
+## 89. Definition of “consumer”[^c-aae1e1ad7f00703f25db2872f533d0e7][^c-a88c440f866244831453d0a584b0597a]
 
 *Extent: E+W+S*
 
@@ -40,9 +40,9 @@ summary: ''
 
 ## Annotations
 
-[^key-aae1e1ad7f00703f25db2872f533d0e7]: Commencement: Art. 89 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-aae1e1ad7f00703f25db2872f533d0e7]: Commencement: Art. 89 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-a88c440f866244831453d0a584b0597a]: Commencement: [Art. 89](https://www.legislation.gov.uk/uksi/2018/1253/article/89) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-a88c440f866244831453d0a584b0597a]: Commencement: [Art. 89](https://www.legislation.gov.uk/uksi/2018/1253/article/89) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00123]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 

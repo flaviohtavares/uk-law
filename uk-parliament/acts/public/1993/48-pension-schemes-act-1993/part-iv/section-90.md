@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. The later earnings addition.[^key-36c0be76be1b6fd5cec0810cc40b7b90]
+## 90. The later earnings addition.[^c-36c0be76be1b6fd5cec0810cc40b7b90]
 
 *Extent: E+W+S*
 
@@ -24,8 +24,8 @@ summary: ''
 
 (2) In subsection (1)—
 
-- (a) “**the unguaranteed element**” means the amount by which the relevant sum exceeds the earner’s guaranteed minimum on the day after his cessation date or, in the case of a widow's, widower’s or surviving civil partner's[^key-ba7b2f334a17c805c1884f38f1ed3576] pension, one half of that minimum; and
-- (b) “**the assumed later unguaranteed element**” means the amount by which the relevant sum would exceed the earner’s guaranteed minimum (or, in the case of a widow's, widower’s or surviving civil partner's[^key-2b068af9e7c253ab7ff7f3459b29c9af] pension, one half of that minimum) on the assumptions mentioned in subsection (3).
+- (a) “**the unguaranteed element**” means the amount by which the relevant sum exceeds the earner’s guaranteed minimum on the day after his cessation date or, in the case of a widow's, widower’s or surviving civil partner's[^c-ba7b2f334a17c805c1884f38f1ed3576] pension, one half of that minimum; and
+- (b) “**the assumed later unguaranteed element**” means the amount by which the relevant sum would exceed the earner’s guaranteed minimum (or, in the case of a widow's, widower’s or surviving civil partner's[^c-2b068af9e7c253ab7ff7f3459b29c9af] pension, one half of that minimum) on the assumptions mentioned in subsection (3).
 
 (3) The assumptions mentioned in subsection (2) are—
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
-[^key-ba7b2f334a17c805c1884f38f1ed3576]: Textual amendment: Words in [s. 90(2)(a)](https://www.legislation.gov.uk/ukpga/1993/48/section/90/2/a) substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2005/2050/schedule/1/paragraph/21)
+[^c-ba7b2f334a17c805c1884f38f1ed3576]: Textual amendment: Words in [s. 90(2)(a)](https://www.legislation.gov.uk/ukpga/1993/48/section/90/2/a) substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2005/2050/schedule/1/paragraph/21)
 
-[^key-2b068af9e7c253ab7ff7f3459b29c9af]: Textual amendment: Words in [s. 90(2)(b)](https://www.legislation.gov.uk/ukpga/1993/48/section/90/2/b) substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2005/2050/schedule/1/paragraph/21)
+[^c-2b068af9e7c253ab7ff7f3459b29c9af]: Textual amendment: Words in [s. 90(2)(b)](https://www.legislation.gov.uk/ukpga/1993/48/section/90/2/b) substituted (5.12.2005) by [The Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050)](https://www.legislation.gov.uk/uksi/2005/2050), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2050/article/1/3), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2005/2050/schedule/1/paragraph/21)

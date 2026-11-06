@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Regulations: supplementary[^key-b4c7ab2bf573fefe1741be0fe7c1efee]
+## 55. Regulations: supplementary[^c-b4c7ab2bf573fefe1741be0fe7c1efee]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4c7ab2bf573fefe1741be0fe7c1efee]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2012/8/section/55) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-b4c7ab2bf573fefe1741be0fe7c1efee]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2012/8/section/55) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

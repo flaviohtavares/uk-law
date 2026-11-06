@@ -34,7 +34,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-[^key-f8a08c6040a6f4c110eb8061b1292dd6]The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006
+[^c-f8a08c6040a6f4c110eb8061b1292dd6]The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006
 
 Made
 
@@ -52,7 +52,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 ## Contents
 
-### PART 1 — General provisions[^key-f8a08c6040a6f4c110eb8061b1292dd6]
+### PART 1 — General provisions[^c-f8a08c6040a6f4c110eb8061b1292dd6]
 
 *Extent: S*
 
@@ -63,7 +63,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 - [Section 3 — Appointment of competent authority](part-1/section-3.md)
 - [Section 4 — Exception for research](part-1/section-4.md)
 
-### PART 2 — Introduction of Schedules[^key-f8a08c6040a6f4c110eb8061b1292dd6]
+### PART 2 — Introduction of Schedules[^c-f8a08c6040a6f4c110eb8061b1292dd6]
 
 *Extent: S*
 
@@ -277,4 +277,4 @@ A regulatory impact assessment has been prepared and placed in the Scottish Parl
 
 ## Annotations
 
-[^key-f8a08c6040a6f4c110eb8061b1292dd6]: Textual amendment: Regulations revoked in part (28.5.2010) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010 (S.S.I. 2010/177)](https://www.legislation.gov.uk/ssi/2010/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/177/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2010/177/schedule/10) (with [reg. 22](https://www.legislation.gov.uk/ssi/2010/177/regulation/22))
+[^c-f8a08c6040a6f4c110eb8061b1292dd6]: Textual amendment: Regulations revoked in part (28.5.2010) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010 (S.S.I. 2010/177)](https://www.legislation.gov.uk/ssi/2010/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/177/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2010/177/schedule/10) (with [reg. 22](https://www.legislation.gov.uk/ssi/2010/177/regulation/22))

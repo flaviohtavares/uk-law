@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Publication etc. of register.[^key-314f693f79afa8c3257bb154b8e84abf]
+## 69. Publication etc. of register.[^c-314f693f79afa8c3257bb154b8e84abf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-314f693f79afa8c3257bb154b8e84abf]: Textual amendment: [S. 69](https://www.legislation.gov.uk/ukpga/2000/14/section/69) repealed (3.4.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 41(b)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/41/b); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-314f693f79afa8c3257bb154b8e84abf]: Textual amendment: [S. 69](https://www.legislation.gov.uk/ukpga/2000/14/section/69) repealed (3.4.2017) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 41(b)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/41/b); [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

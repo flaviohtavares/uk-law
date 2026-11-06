@@ -46,11 +46,11 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 8(6) and 74(1), (3) and (6) of the Social Security (Northern Ireland) Order 1998[^f00001] and of all other powers enabling it in that behalf, by this statutory rule, which contains only regulations made by virtue of that Order, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-4d3beaecdcef8fc64c530de0f4cc993a]
+## 1. Citation and commencement[^c-4d3beaecdcef8fc64c530de0f4cc993a]
 
 These Regulations may be cited as the Social Security and Child Support (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 1999 and shall come into operation on 1st June 1999.
 
-## 2. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-09ec10b1cc1f8e3f4ada06389721df4c]
+## 2. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-09ec10b1cc1f8e3f4ada06389721df4c]
 
 In regulation 36 of the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00002] (composition of appeal tribunals)—
 
@@ -67,7 +67,7 @@ In regulation 36 of the Social Security and Child Support (Decisions and Appeals
 
   ;
 - (b) in paragraph (5) for “paragraph (1), (2) or” there shall be substituted “paragraph (1), (2)(a) or”; and
-- (c)[^key-cdd8c6f3b96d71eba64c2376883b6521] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-cdd8c6f3b96d71eba64c2376883b6521] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department of Health and Social Services on
 
@@ -92,10 +92,10 @@ Article 8(6) of the Order, one of the enabling provisions under which these Regu
 
 [^f00001]: Footnote: [S.I. 1998 No. 1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-4d3beaecdcef8fc64c530de0f4cc993a]: Commencement: Reg. 1 in operation at 1.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/242/regulation/1)
+[^c-4d3beaecdcef8fc64c530de0f4cc993a]: Commencement: Reg. 1 in operation at 1.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/242/regulation/1)
 
-[^key-09ec10b1cc1f8e3f4ada06389721df4c]: Commencement: Reg. 2 in operation at 1.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/242/regulation/1)
+[^c-09ec10b1cc1f8e3f4ada06389721df4c]: Commencement: Reg. 2 in operation at 1.6.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/242/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162)
 
-[^key-cdd8c6f3b96d71eba64c2376883b6521]: Textual amendment: [Reg. 2(c)](https://www.legislation.gov.uk/nisr/1999/242/regulation/2/c) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 6) Regulations (Northern Ireland) 2008 (S.R. 2008/490)](https://www.legislation.gov.uk/nisr/2008/490), [regs. 1](https://www.legislation.gov.uk/nisr/2008/490/regulation/1), [4](https://www.legislation.gov.uk/nisr/2008/490/regulation/4)
+[^c-cdd8c6f3b96d71eba64c2376883b6521]: Textual amendment: [Reg. 2(c)](https://www.legislation.gov.uk/nisr/1999/242/regulation/2/c) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 6) Regulations (Northern Ireland) 2008 (S.R. 2008/490)](https://www.legislation.gov.uk/nisr/2008/490), [regs. 1](https://www.legislation.gov.uk/nisr/2008/490/regulation/1), [4](https://www.legislation.gov.uk/nisr/2008/490/regulation/4)

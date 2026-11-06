@@ -48,7 +48,7 @@ summary: ''
 
 - (a) paragraph (8), and
 - (b) item 8 of Table 2 in regulation 36(4) (Form P45), and
-- (c) regulation 55(4)(f) (Form P46(Pen))[^key-c3cc4b69f5c53c33f97e6fbc7a55eb91],
+- (c) regulation 55(4)(f) (Form P46(Pen))[^c-c3cc4b69f5c53c33f97e6fbc7a55eb91],
 
 the total payments to date recorded in the deductions working sheet in accordance with paragraph (3), and the figure recorded in accordance with paragraph (5)(c) or (6)(c) must be treated as if they were relevant payments made to the employee by, and tax deducted by, the new employer.
 
@@ -60,4 +60,4 @@ the total payments to date recorded in the deductions working sheet in accordanc
 
 ## Annotations
 
-[^key-c3cc4b69f5c53c33f97e6fbc7a55eb91]: Textual amendment: Word in [reg. 43(9)(c)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/43/9/c) substituted (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2969/regulation/5)
+[^c-c3cc4b69f5c53c33f97e6fbc7a55eb91]: Textual amendment: Word in [reg. 43(9)(c)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/43/9/c) substituted (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2969/regulation/5)

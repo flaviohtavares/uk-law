@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Variation and withdrawal of notices[^key-25cfbda6bedb7c61ba33cd475a754117]
+## 33. Variation and withdrawal of notices[^c-25cfbda6bedb7c61ba33cd475a754117]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ including substituting a later date for a date specified under paragraph 1(4) of
 
 ## Annotations
 
-[^key-25cfbda6bedb7c61ba33cd475a754117]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2017/282/regulation/33) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-25cfbda6bedb7c61ba33cd475a754117]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2017/282/regulation/33) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

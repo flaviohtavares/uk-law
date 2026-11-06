@@ -22,7 +22,7 @@ summary: ''
 
 Article 9
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT[^key-a6ac57f3e74464a6fab56a3856e05bfc]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT[^c-a6ac57f3e74464a6fab56a3856e05bfc]
 
 Table 1
 
@@ -39,7 +39,7 @@ Table 1
 | Conwy | Henllan to Llannefydd Road | Upgrade existing access comprising part of numbered works 2B and shown on the access and rights of way plans (sheet 12) between points CN1 and CN2 to provide temporary access to numbered work 1B during construction and for maintenance. Comprising, where required, of the installation of new or improved street surface, white lining, removal of vegetation including hedgerows and replacement of vegetation including hedgerows. |
 | Conwy | Access track from Henllan to Llannefydd Road | Modify the existing stoned track comprising part of numbered works 2B and shown on the access and rights of way plans (sheet 12) between points CN1/2 and CQ to provide temporary access to numbered work 1B during construction. |
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^key-914dbe114d30e27427bd7cf9894c71bc]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^c-914dbe114d30e27427bd7cf9894c71bc]
 
 Table 2
 
@@ -102,6 +102,6 @@ Table 2
 
 ## Annotations
 
-[^key-a6ac57f3e74464a6fab56a3856e05bfc]: Commencement: Sch. 3 Pt. 1 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-a6ac57f3e74464a6fab56a3856e05bfc]: Commencement: Sch. 3 Pt. 1 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-914dbe114d30e27427bd7cf9894c71bc]: Commencement: Sch. 3 Pt. 2 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-914dbe114d30e27427bd7cf9894c71bc]: Commencement: Sch. 3 Pt. 2 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)

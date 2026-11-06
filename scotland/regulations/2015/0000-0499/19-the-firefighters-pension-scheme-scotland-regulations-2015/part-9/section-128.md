@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 128. Effect of transfers-out[^key-faa0c4f4f25260478be8a4ca3a30e202]
+## 128. Effect of transfers-out[^c-faa0c4f4f25260478be8a4ca3a30e202]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ If a transfer payment is made under this Chapter in respect of a member’s accr
 
 ## Annotations
 
-[^key-faa0c4f4f25260478be8a4ca3a30e202]: Commencement: [Reg. 128](https://www.legislation.gov.uk/ssi/2015/19/regulation/128) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-faa0c4f4f25260478be8a4ca3a30e202]: Commencement: [Reg. 128](https://www.legislation.gov.uk/ssi/2015/19/regulation/128) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

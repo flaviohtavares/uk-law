@@ -45,17 +45,17 @@ In accordance with section 141(3) and (4)(h) of that Act, a draft of this instru
 
 ## PART 1 — Preliminary
 
-### 1. Title and coming into force[^key-f78c7b14c2080bd7675d45ce15949883]
+### 1. Title and coming into force[^c-f78c7b14c2080bd7675d45ce15949883]
 
 The title of these Regulations is the Infrastructure Consent (Fees) (Wales) Regulations 2025 and they come into force on 15 December 2025.
 
-### 2. Interpretation[^key-522557cf1f193f02c960e61cc7eeb018]
+### 2. Interpretation[^c-522557cf1f193f02c960e61cc7eeb018]
 
 (1) In these Regulations—
 
 - “**the 2024 Act**” (“***Deddf 2024***”) means the Infrastructure (Wales) Act 2024);
-- “**applicant**” (“***ceisydd***”) means , except in Part 6,[^key-2d9964791be792a87a31d11221f110f8] a person who proposes to make, or has made an application for infrastructure consent;
-- “**application**” (“***cais***”) means , except in Part 6,[^key-67314606af0dbfc4d8eb79bc2cfadfd8] an application for infrastructure consent made under section 32 of the 2024 Act;
+- “**applicant**” (“***ceisydd***”) means , except in Part 6,[^c-2d9964791be792a87a31d11221f110f8] a person who proposes to make, or has made an application for infrastructure consent;
+- “**application**” (“***cais***”) means , except in Part 6,[^c-67314606af0dbfc4d8eb79bc2cfadfd8] an application for infrastructure consent made under section 32 of the 2024 Act;
 - “**financial year**” (“***blwyddyn ariannol***”) means any period of 12 months beginning with 1 April;
 - “**infrastructure consent**” (“***cydsyniad seilwaith***”) means a consent given under section 19 of the 2024 Act;
 - “**local impact report**” (“***adroddiad ar yr effaith leol***”) means any local impact report required under section 36(1) of the 2024 Act;
@@ -70,7 +70,7 @@ The title of these Regulations is the Infrastructure Consent (Fees) (Wales) Regu
 
 ## PART 2 — Fees for providing pre-application services
 
-### 3. Fee for pre-application services provided by the Welsh Ministers[^key-7c48512d8e504d7755ec10ee2ef8f466]
+### 3. Fee for pre-application services provided by the Welsh Ministers[^c-7c48512d8e504d7755ec10ee2ef8f466]
 
 (1) Where the Welsh Ministers provide pre-application services, a fee must be paid to the Welsh Ministers.
 
@@ -107,7 +107,7 @@ The title of these Regulations is the Infrastructure Consent (Fees) (Wales) Regu
 
 (10) Any fee paid under this regulation must be refunded if the request for pre-application services is rejected as invalid.
 
-### 4. Fee for pre-application services provided by planning authorities[^key-6438a28b3b1d69c21e36e8820bb5b0f2]
+### 4. Fee for pre-application services provided by planning authorities[^c-6438a28b3b1d69c21e36e8820bb5b0f2]
 
 (1) Subject to paragraphs (7) and (8), where a planning authority provides pre-application services, a fee must be paid to that authority.
 
@@ -144,7 +144,7 @@ The title of these Regulations is the Infrastructure Consent (Fees) (Wales) Regu
 
 (10) Any fee paid under this regulation must be refunded if the request for pre-application services is rejected as invalid.
 
-### 5. Fee for pre-application services provided by Natural Resources Wales[^key-a30170972e42c2636171d43e0f5f91ce]
+### 5. Fee for pre-application services provided by Natural Resources Wales[^c-a30170972e42c2636171d43e0f5f91ce]
 
 (1) Subject to paragraphs (7) and (8), where Natural Resources Wales provides pre-application services, a fee must be paid to Natural Resources Wales.
 
@@ -183,7 +183,7 @@ The title of these Regulations is the Infrastructure Consent (Fees) (Wales) Regu
 
 ## PART 3 — Fees for providing information regarding interests in land and for exercising powers of entry to survey land
 
-### 6. Fee for obtaining information about interests in land[^key-6421f96df0a495b4b589212561d0b4c6]
+### 6. Fee for obtaining information about interests in land[^c-6421f96df0a495b4b589212561d0b4c6]
 
 (1) An applicant who makes a request to the Welsh Ministers to authorise service of a notice for information under section 28 of the 2024 Act (obtaining information about interests in land), must pay a fee with the request.
 
@@ -194,7 +194,7 @@ The title of these Regulations is the Infrastructure Consent (Fees) (Wales) Regu
 - (a) publish the fee payable on the website no less than one month before the fee comes into force, and
 - (b) ensure the fee payable does not exceed the costs reasonably incurred by them in dealing with the request referred to in paragraph (1), taking one financial year with another.
 
-### 7. Fee for exercising powers of entry to survey land[^key-bb785227d04540dc0c485fcba8ce5fc5]
+### 7. Fee for exercising powers of entry to survey land[^c-bb785227d04540dc0c485fcba8ce5fc5]
 
 (1) A person who makes a request to the Welsh Ministers to exercise a power under section 125 of the 2024 Act (powers of entry to survey land) including as applied by section 126(1) of the 2024 Act (powers of entry to survey land: Crown land), must pay a fee with the request.
 
@@ -207,7 +207,7 @@ The title of these Regulations is the Infrastructure Consent (Fees) (Wales) Regu
 
 ## PART 4 — Fees payable for making an application
 
-### 8. Fee for giving notice of proposed application to the Welsh Ministers[^key-bdee11e64e225535dc5d18adc2a7d612]
+### 8. Fee for giving notice of proposed application to the Welsh Ministers[^c-bdee11e64e225535dc5d18adc2a7d612]
 
 (1) An applicant who gives notice of a proposed application under section 29 of the 2024 Act, must pay a fee to the Welsh Ministers with the notice.
 
@@ -218,7 +218,7 @@ The title of these Regulations is the Infrastructure Consent (Fees) (Wales) Regu
 - (a) publish the fee payable on the website no less than one month before the fee comes into force, and
 - (b) ensure the fee payable does not exceed the costs reasonably incurred by them in dealing with the request, taking one financial year with another.
 
-### 9. Fee for making an application[^key-6f4b9a2c2f349f6c6f0ab53bf9d13716]
+### 9. Fee for making an application[^c-6f4b9a2c2f349f6c6f0ab53bf9d13716]
 
 (1) An applicant who makes an application must pay a fee to the Welsh Ministers when the application is made.
 
@@ -241,7 +241,7 @@ The title of these Regulations is the Infrastructure Consent (Fees) (Wales) Regu
 - (d) preparation of a marine impact report by Natural Resources Wales, and
 - (e) determination of the application.
 
-### 10. Fee for a local impact report[^key-e160b2cdea2efd9cbf58e0aa63fe8ca3]
+### 10. Fee for a local impact report[^c-e160b2cdea2efd9cbf58e0aa63fe8ca3]
 
 (1) Where a planning authority submits a local impact report to the Welsh Ministers under section 36(1) of the 2024 Act the Welsh Ministers must pay the portion of the fee referred to in regulation 9 which relates to the local impact report to the relevant planning authority (“the local impact report fee”).
 
@@ -255,7 +255,7 @@ The title of these Regulations is the Infrastructure Consent (Fees) (Wales) Regu
 - (a) refund the applicant any part of the local impact report fee that is not paid to the relevant planning authority, or
 - (b) refund the applicant in full if the application is not accepted or is withdrawn before the submission of a local impact report by the relevant planning authority.
 
-### 11. Fee for a marine impact report[^key-f0403dd5e709fd79c066898ba3c66fa5]
+### 11. Fee for a marine impact report[^c-f0403dd5e709fd79c066898ba3c66fa5]
 
 (1) Where Natural Resources Wales submits a marine impact report to the Welsh Ministers under section 37(1) or (2) of the 2024 Act, the Welsh Ministers must pay the portion of the fee referred to in regulation 9 which relates to the marine impact report to Natural Resources Wales (“the marine impact report fee”).
 
@@ -269,13 +269,13 @@ The title of these Regulations is the Infrastructure Consent (Fees) (Wales) Regu
 - (a) refund the applicant any part of the marine impact report fee that is not paid to Natural Resources Wales, or
 - (b) refund the applicant in full if the application is not accepted or is withdrawn before the submission of a marine impact report by Natural Resources Wales.
 
-### 12. Refund of unspent fees[^key-9e39407ca0e834be141756d8186e8165]
+### 12. Refund of unspent fees[^c-9e39407ca0e834be141756d8186e8165]
 
 The Welsh Ministers must refund to the applicant any part of the fee paid under regulation 9 which has not been spent after the determination of the application.
 
 ## PART 5 — Fees payable for other services
 
-### 13. Fees payable to relevant statutory consultees and relevant planning authorities for providing services other than pre-application services[^key-6fc26967eeba1108ef98850dcd451654]
+### 13. Fees payable to relevant statutory consultees and relevant planning authorities for providing services other than pre-application services[^c-6fc26967eeba1108ef98850dcd451654]
 
 (1) A relevant statutory consultee and a relevant planning authority may charge a fee for providing services to applicants in accordance with this regulation.
 
@@ -305,7 +305,7 @@ The Welsh Ministers must refund to the applicant any part of the fee paid under 
 - “**relevant statutory consultee**” (“*ymgynghorai statudol perthnasol”*) means a consultee referred to in column 3 of the Table in the Schedule to the Infrastructure Consent (Pre-Application and Application Procedure and Transitional Provisions) (Wales) Regulations 2025[^f00003] where the significant infrastructure project to which the application or proposed application relates falls within a category set out in column 2 of the Table;
 - “**services**” (“***gwasanaethau***”) means the performance of an infrastructure consent function or the provision of an infrastructure consent service within the meaning of section 124 of the 2024 Act.
 
-### 14. Fees payable to relevant authorities for applications for removing consent requirements and deeming consents[^key-cd29998ebbad6b02ded48d3bc622c2a6]
+### 14. Fees payable to relevant authorities for applications for removing consent requirements and deeming consents[^c-cd29998ebbad6b02ded48d3bc622c2a6]
 
 (1) A relevant authority may charge the applicant a fee in accordance with this regulation for—
 
@@ -340,7 +340,7 @@ The Welsh Ministers must refund to the applicant any part of the fee paid under 
 - “**infrastructure consent service**” (“*gwasanaeth cydsyniad seilwaith”*) has the same meaning as in section 124(3) of the 2024 Act;
 - “**relevant authority**” (“***awdurdod perthnasol***”) has the same meaning as in section 84(5) of the 2024 Act.
 
-## PART 6 — Fees for proposed applications and applications to change or revoke an infrastructure consent order[^key-a45a5e30d228bfa46a5366300807ef3e]
+## PART 6 — Fees for proposed applications and applications to change or revoke an infrastructure consent order[^c-a45a5e30d228bfa46a5366300807ef3e]
 
 ### 15. Interpretation of Part
 
@@ -478,40 +478,40 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2024 asc 3](https://www.legislation.gov.uk/asc/2024/3).
 
-[^key-f78c7b14c2080bd7675d45ce15949883]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+[^c-f78c7b14c2080bd7675d45ce15949883]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
 
-[^key-522557cf1f193f02c960e61cc7eeb018]: Commencement: Reg. 2 in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+[^c-522557cf1f193f02c960e61cc7eeb018]: Commencement: Reg. 2 in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
 
-[^key-2d9964791be792a87a31d11221f110f8]: Textual amendment: Words in reg. 2(1) inserted (16.3.2026) by [The Infrastructure Consent (Fees) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/70)](https://www.legislation.gov.uk/wsi/2026/70), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/70/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2026/70/regulation/2/2/a)
+[^c-2d9964791be792a87a31d11221f110f8]: Textual amendment: Words in reg. 2(1) inserted (16.3.2026) by [The Infrastructure Consent (Fees) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/70)](https://www.legislation.gov.uk/wsi/2026/70), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/70/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2026/70/regulation/2/2/a)
 
-[^key-67314606af0dbfc4d8eb79bc2cfadfd8]: Textual amendment: Words in reg. 2(1) inserted (16.3.2026) by [The Infrastructure Consent (Fees) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/70)](https://www.legislation.gov.uk/wsi/2026/70), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/70/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2026/70/regulation/2/2/b)
+[^c-67314606af0dbfc4d8eb79bc2cfadfd8]: Textual amendment: Words in reg. 2(1) inserted (16.3.2026) by [The Infrastructure Consent (Fees) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/70)](https://www.legislation.gov.uk/wsi/2026/70), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/70/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2026/70/regulation/2/2/b)
 
 [^f00002]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8)
 
-[^key-7c48512d8e504d7755ec10ee2ef8f466]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2025/883/regulation/3) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+[^c-7c48512d8e504d7755ec10ee2ef8f466]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2025/883/regulation/3) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
 
-[^key-6438a28b3b1d69c21e36e8820bb5b0f2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2025/883/regulation/4) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+[^c-6438a28b3b1d69c21e36e8820bb5b0f2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2025/883/regulation/4) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
 
-[^key-a30170972e42c2636171d43e0f5f91ce]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2025/883/regulation/5) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+[^c-a30170972e42c2636171d43e0f5f91ce]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2025/883/regulation/5) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
 
-[^key-6421f96df0a495b4b589212561d0b4c6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2025/883/regulation/6) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+[^c-6421f96df0a495b4b589212561d0b4c6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2025/883/regulation/6) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
 
-[^key-bb785227d04540dc0c485fcba8ce5fc5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2025/883/regulation/7) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+[^c-bb785227d04540dc0c485fcba8ce5fc5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2025/883/regulation/7) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
 
-[^key-bdee11e64e225535dc5d18adc2a7d612]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2025/883/regulation/8) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+[^c-bdee11e64e225535dc5d18adc2a7d612]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2025/883/regulation/8) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
 
-[^key-6f4b9a2c2f349f6c6f0ab53bf9d13716]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2025/883/regulation/9) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+[^c-6f4b9a2c2f349f6c6f0ab53bf9d13716]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2025/883/regulation/9) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
 
-[^key-e160b2cdea2efd9cbf58e0aa63fe8ca3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2025/883/regulation/10) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+[^c-e160b2cdea2efd9cbf58e0aa63fe8ca3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2025/883/regulation/10) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
 
-[^key-f0403dd5e709fd79c066898ba3c66fa5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2025/883/regulation/11) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+[^c-f0403dd5e709fd79c066898ba3c66fa5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2025/883/regulation/11) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
 
-[^key-9e39407ca0e834be141756d8186e8165]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2025/883/regulation/12) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+[^c-9e39407ca0e834be141756d8186e8165]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2025/883/regulation/12) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
 
-[^key-6fc26967eeba1108ef98850dcd451654]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2025/883/regulation/13) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+[^c-6fc26967eeba1108ef98850dcd451654]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2025/883/regulation/13) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2025/690 (W 114)](https://www.legislation.gov.uk/wsi/2025/690).
 
-[^key-cd29998ebbad6b02ded48d3bc622c2a6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2025/883/regulation/14) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
+[^c-cd29998ebbad6b02ded48d3bc622c2a6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2025/883/regulation/14) in force at 15.12.2025, see [reg. 1](https://www.legislation.gov.uk/wsi/2025/883/regulation/1)
 
-[^key-a45a5e30d228bfa46a5366300807ef3e]: Textual amendment: Pt. 6 inserted (16.3.2026) by [The Infrastructure Consent (Fees) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/70)](https://www.legislation.gov.uk/wsi/2026/70), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/70/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2026/70/regulation/2/3)
+[^c-a45a5e30d228bfa46a5366300807ef3e]: Textual amendment: Pt. 6 inserted (16.3.2026) by [The Infrastructure Consent (Fees) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/70)](https://www.legislation.gov.uk/wsi/2026/70), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/70/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2026/70/regulation/2/3)

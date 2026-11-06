@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Removal of vehicles[^key-731756d92bdece877d5274c55f23f2a3]
+## 23. Removal of vehicles[^c-731756d92bdece877d5274c55f23f2a3]
 
 *Extent: E+W+S*
 
@@ -48,6 +48,6 @@ the Commissioners may, at the risk of the owner, remove the vehicle or cause it 
 
 ## Annotations
 
-[^key-731756d92bdece877d5274c55f23f2a3]: Commencement: Art. 23 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-731756d92bdece877d5274c55f23f2a3]: Commencement: Art. 23 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
 
 [^f00011]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22).

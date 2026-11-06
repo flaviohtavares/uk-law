@@ -36,7 +36,7 @@ summary: ''
 
 (4) In the case of an estate in land, subsection (3) does not apply if the right to possession under the lease is discontinuous.
 
-(4A)[^key-f81d4a220f880ab54fc07c4f0ecae230] A person may not make an application under subsection (2) in respect of a leasehold estate in land under a relevant social housing tenancy.
+(4A)[^c-f81d4a220f880ab54fc07c4f0ecae230] A person may not make an application under subsection (2) in respect of a leasehold estate in land under a relevant social housing tenancy.
 
 (5) A person may not make an application under subsection (2)(a) in respect of a leasehold estate vested in him as a mortgagee where there is a subsisting right of redemption.
 
@@ -51,4 +51,4 @@ then, to the extent that they relate to the same land, they are to be treated fo
 
 ## Annotations
 
-[^key-f81d4a220f880ab54fc07c4f0ecae230]: Textual amendment: [S. 3(4A)](https://www.legislation.gov.uk/ukpga/2002/9/section/3/4A) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 157(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/157/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9,](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11,](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14,](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15,](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-f81d4a220f880ab54fc07c4f0ecae230]: Textual amendment: [S. 3(4A)](https://www.legislation.gov.uk/ukpga/2002/9/section/3/4A) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 157(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/157/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9,](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11,](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14,](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15,](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

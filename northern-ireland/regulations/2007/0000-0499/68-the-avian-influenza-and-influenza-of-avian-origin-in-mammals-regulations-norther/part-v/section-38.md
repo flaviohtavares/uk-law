@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Veterinary inquiry where avian influenza is suspected or confirmed in a vehicle[^key-c752e3b12c70be1ae5cbaedd4686f0ea]
+## 38. Veterinary inquiry where avian influenza is suspected or confirmed in a vehicle[^c-c752e3b12c70be1ae5cbaedd4686f0ea]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ An inspector must ensure that a veterinary inquiry is carried out in relation to
 
 ## Annotations
 
-[^key-c752e3b12c70be1ae5cbaedd4686f0ea]: Commencement: Reg. 38 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-c752e3b12c70be1ae5cbaedd4686f0ea]: Commencement: Reg. 38 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

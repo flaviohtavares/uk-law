@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Effect of replacement notice of underpayment[^key-79ce308d6b0f7b9733c67d415931c171][^key-a02b8b9ea51098e2f4ed9c198d97e937]
+## 113. Effect of replacement notice of underpayment[^c-79ce308d6b0f7b9733c67d415931c171][^c-a02b8b9ea51098e2f4ed9c198d97e937]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-79ce308d6b0f7b9733c67d415931c171]: Commencement: S. 113 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-79ce308d6b0f7b9733c67d415931c171]: Commencement: S. 113 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-a02b8b9ea51098e2f4ed9c198d97e937]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2025/36/section/113) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(18)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/18)
+[^c-a02b8b9ea51098e2f4ed9c198d97e937]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2025/36/section/113) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(18)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/18)

@@ -31,7 +31,7 @@ Tenancy of Shops (Scotland) Act 1949
 
 An Act to make provision with regard to tenancies of shops in Scotland.
 
-\[29th March 1949\][^c597894][^c597895][^c597896][^c597897][^c597898][^key-1968e48bae72e8a4ca0bbb81b57472fa]
+\[29th March 1949\][^c597894][^c597895][^c597896][^c597897][^c597898][^c-1968e48bae72e8a4ca0bbb81b57472fa]
 
 ## 1. Provision for renewal of tenancies of shops.
 
@@ -80,7 +80,7 @@ The foregoing section shall apply to any such premises as are mentioned therein 
 
 [^c597898]: Modification: Act excluded (1.4.1994) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [ss. 31(1)](https://www.legislation.gov.uk/ukpga/1993/43/section/31/1); [S.I. 1994/571](https://www.legislation.gov.uk/uksi/1994/571), [art. 5](https://www.legislation.gov.uk/uksi/1994/571/article/5)
 
-[^key-1968e48bae72e8a4ca0bbb81b57472fa]: Modification: Act excluded by 2002 c. 29, s. 269A(5) (as inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l))
+[^c-1968e48bae72e8a4ca0bbb81b57472fa]: Modification: Act excluded by 2002 c. 29, s. 269A(5) (as inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l))
 
 [^c597899]: Textual amendment: [S. 1(6)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/25/section/1/6) repealed by [Tenancy of Shops (Scotland) Act 1964 (c. 50)](https://www.legislation.gov.uk/ukpga/1964/50), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1964/50/section/1/2)
 

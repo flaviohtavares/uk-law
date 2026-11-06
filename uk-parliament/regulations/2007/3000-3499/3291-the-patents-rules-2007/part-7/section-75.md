@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Publication of notices[^key-0249870c0bf3632ab0c82663237a18fa]
+## 75. Publication of notices[^c-0249870c0bf3632ab0c82663237a18fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0249870c0bf3632ab0c82663237a18fa]: Textual amendment: [Rule 75](https://www.legislation.gov.uk/uksi/2007/3291/rule/75) substituted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [13](https://www.legislation.gov.uk/uksi/2016/892/rule/13)
+[^c-0249870c0bf3632ab0c82663237a18fa]: Textual amendment: [Rule 75](https://www.legislation.gov.uk/uksi/2007/3291/rule/75) substituted (1.10.2016) by [The Patents (Amendment) (No. 2) Rules 2016 (S.I. 2016/892)](https://www.legislation.gov.uk/uksi/2016/892), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/892/rule/1/2), [13](https://www.legislation.gov.uk/uksi/2016/892/rule/13)

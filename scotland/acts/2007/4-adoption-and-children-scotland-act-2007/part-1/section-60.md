@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Restriction on removal of children for adoption outwith Great Britain[^key-21a7f69501ad70ab1bac8658c5f3d7dd]
+## 60. Restriction on removal of children for adoption outwith Great Britain[^c-21a7f69501ad70ab1bac8658c5f3d7dd]
 
 *Extent: S*
 
@@ -71,4 +71,4 @@ and any conditions prescribed by the regulations are met.
 
 ## Annotations
 
-[^key-21a7f69501ad70ab1bac8658c5f3d7dd]: Commencement: S. 60 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-21a7f69501ad70ab1bac8658c5f3d7dd]: Commencement: S. 60 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)

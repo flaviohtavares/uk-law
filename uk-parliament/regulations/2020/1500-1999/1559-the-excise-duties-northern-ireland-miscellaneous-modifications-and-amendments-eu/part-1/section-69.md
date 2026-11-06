@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**69.**[^key-7abb89bd22ba7496e4cd46953b0cd606] In regulation 78 in paragraphs (1) and (2) insert “NI” before “tax”.
+**69.**[^c-7abb89bd22ba7496e4cd46953b0cd606] In regulation 78 in paragraphs (1) and (2) insert “NI” before “tax”.
 
 ## Annotations
 
-[^key-7abb89bd22ba7496e4cd46953b0cd606]: Commencement: Reg. 69 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-7abb89bd22ba7496e4cd46953b0cd606]: Commencement: Reg. 69 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

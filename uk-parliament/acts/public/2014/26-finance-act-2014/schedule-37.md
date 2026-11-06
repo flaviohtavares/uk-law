@@ -951,7 +951,7 @@ Section 290
 
 (2) The amendment made by this paragraph come into force on 1 October 2014.
 
-**22.** (1)[^key-f5f7494d66e97d565f575cde08ce2ea4] In paragraph 9 of Schedule 5 to ITEPA 2003 (enterprise management incentives: the independence requirement), after sub-paragraph (4) insert—
+**22.** (1)[^c-f5f7494d66e97d565f575cde08ce2ea4] In paragraph 9 of Schedule 5 to ITEPA 2003 (enterprise management incentives: the independence requirement), after sub-paragraph (4) insert—
 
 > (5) But the independence requirement is treated as met if the company is subject to an employee-ownership trust (within the meaning of paragraph 27(4) to (6) of Schedule 2).
 
@@ -969,4 +969,4 @@ Section 290
 
 ## Annotations
 
-[^key-f5f7494d66e97d565f575cde08ce2ea4]: Commencement: Sch. 37 para. 22(1) in force at 1.10.2014 for the purposes of the amendment made by that sub-paragraph by [S.I. 2014/2461](https://www.legislation.gov.uk/uksi/2014/2461), [art. 2](https://www.legislation.gov.uk/uksi/2014/2461/article/2)
+[^c-f5f7494d66e97d565f575cde08ce2ea4]: Commencement: Sch. 37 para. 22(1) in force at 1.10.2014 for the purposes of the amendment made by that sub-paragraph by [S.I. 2014/2461](https://www.legislation.gov.uk/uksi/2014/2461), [art. 2](https://www.legislation.gov.uk/uksi/2014/2461/article/2)

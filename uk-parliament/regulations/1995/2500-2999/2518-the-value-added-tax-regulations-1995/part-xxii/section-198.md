@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Computation of period[^key-83921c426e8e3f7635f4522a15a9ea06]
+## 198. Computation of period[^c-83921c426e8e3f7635f4522a15a9ea06]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83921c426e8e3f7635f4522a15a9ea06]: Textual amendment: [Reg. 198](https://www.legislation.gov.uk/uksi/1995/2518/regulation/198) omitted (with effect in accordance with art. 1(3)(b) of the amending S.I.) by virtue of [The Finance Act 2009, Sections 101 and 102 (Value Added Tax) (Late Payment Interest and Repayment Interest) (Exceptions and Consequential Amendments) Order 2022 (S.I. 2022/1298)](https://www.legislation.gov.uk/uksi/2022/1298), [arts. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3/a), [6(4)](https://www.legislation.gov.uk/uksi/2022/1298/article/6/4)
+[^c-83921c426e8e3f7635f4522a15a9ea06]: Textual amendment: [Reg. 198](https://www.legislation.gov.uk/uksi/1995/2518/regulation/198) omitted (with effect in accordance with art. 1(3)(b) of the amending S.I.) by virtue of [The Finance Act 2009, Sections 101 and 102 (Value Added Tax) (Late Payment Interest and Repayment Interest) (Exceptions and Consequential Amendments) Order 2022 (S.I. 2022/1298)](https://www.legislation.gov.uk/uksi/2022/1298), [arts. 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/1298/article/1/3/a), [6(4)](https://www.legislation.gov.uk/uksi/2022/1298/article/6/4)

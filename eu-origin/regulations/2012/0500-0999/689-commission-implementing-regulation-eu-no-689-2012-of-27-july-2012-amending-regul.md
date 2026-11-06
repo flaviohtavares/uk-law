@@ -33,24 +33,24 @@ of 27 July 2012
 
 amending Regulation (EC) No 415/2007 concerning the technical specifications for vessel tracking and tracing systems referred to in Article 5 of Directive 2005/44/EC of the European Parliament and of the Council on harmonised river information services (RIS) on inland waterways in the Community (revoked)
 
-[^key-1df7ebb312864f85551467f5c3eafa36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1df7ebb312864f85551467f5c3eafa36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-1df7ebb312864f85551467f5c3eafa36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1df7ebb312864f85551467f5c3eafa36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1df7ebb312864f85551467f5c3eafa36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1df7ebb312864f85551467f5c3eafa36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-1df7ebb312864f85551467f5c3eafa36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-1df7ebb312864f85551467f5c3eafa36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1df7ebb312864f85551467f5c3eafa36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1df7ebb312864f85551467f5c3eafa36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-1df7ebb312864f85551467f5c3eafa36]
+## ANNEX[^c-1df7ebb312864f85551467f5c3eafa36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1df7ebb312864f85551467f5c3eafa36]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(j)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1df7ebb312864f85551467f5c3eafa36]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(j)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Interpretation of Chapter[^key-7ba90f46cee8f90c95ac422a732af3f8][^key-2829dc926152b916b63a6c2e54a7b259]
+## 75. Interpretation of Chapter[^c-7ba90f46cee8f90c95ac422a732af3f8][^c-2829dc926152b916b63a6c2e54a7b259]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ In this Chapter—
 
 ## Annotations
 
-[^key-7ba90f46cee8f90c95ac422a732af3f8]: Commencement: S. 75 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-7ba90f46cee8f90c95ac422a732af3f8]: Commencement: S. 75 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-2829dc926152b916b63a6c2e54a7b259]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2022/7/section/75) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)
+[^c-2829dc926152b916b63a6c2e54a7b259]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2022/7/section/75) in force at 4.7.2023 in so far as not already in force by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/a)

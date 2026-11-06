@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Reciprocity with other countries.[^key-36c0be76be1b6fd5cec0810cc40b7b90]
+## 166. Reciprocity with other countries.[^c-36c0be76be1b6fd5cec0810cc40b7b90]
 
 *Extent: E+W+S*
 
@@ -37,12 +37,12 @@ Her Majesty may by Order in Council make provision for modifying or adapting thi
 
 (4) An Order in Council made by virtue of subsection (1) which modifies or adapts any of the provisions referred to in section 164 may, in particular, provide for the Secretary of State to make payments for any period beginning on or after 6th April 1987 and may make provision with respect to any matters relating to payments so made.
 
-(5) References in this section to this Act do not include references to [^key-caa387ae00e9b72c9429130b6f23a347]... Chapter I of Part IV, Chapter II of Part VII, Part VIII so far as it applies for the purposes of Chapter I of Part IV, sections [^key-45ee1d27a86ce9875afd783508737e18]... 153(2), 157, 158(1) to (5), 161, 162, 163, [^key-caa387ae00e9b72c9429130b6f23a347]... and 176[^key-caa387ae00e9b72c9429130b6f23a347]....
+(5) References in this section to this Act do not include references to [^c-caa387ae00e9b72c9429130b6f23a347]... Chapter I of Part IV, Chapter II of Part VII, Part VIII so far as it applies for the purposes of Chapter I of Part IV, sections [^c-45ee1d27a86ce9875afd783508737e18]... 153(2), 157, 158(1) to (5), 161, 162, 163, [^c-caa387ae00e9b72c9429130b6f23a347]... and 176[^c-caa387ae00e9b72c9429130b6f23a347]....
 
 ## Annotations
 
-[^key-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
-[^key-caa387ae00e9b72c9429130b6f23a347]: Textual amendment: Words in [s. 166(5)](https://www.legislation.gov.uk/ukpga/1993/48/section/166/5) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 5 para. 69](https://www.legislation.gov.uk/ukpga/1995/26/schedule/5/paragraph/69), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
+[^c-caa387ae00e9b72c9429130b6f23a347]: Textual amendment: Words in [s. 166(5)](https://www.legislation.gov.uk/ukpga/1993/48/section/166/5) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 5 para. 69](https://www.legislation.gov.uk/ukpga/1995/26/schedule/5/paragraph/69), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
 
-[^key-45ee1d27a86ce9875afd783508737e18]: Textual amendment: Words in [s. 166(5)](https://www.legislation.gov.uk/ukpga/1993/48/section/166/5) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/1995/26/schedule/6/paragraph/11), [Sch. 7 Pt. IV](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/IV); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
+[^c-45ee1d27a86ce9875afd783508737e18]: Textual amendment: Words in [s. 166(5)](https://www.legislation.gov.uk/ukpga/1993/48/section/166/5) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/1995/26/schedule/6/paragraph/11), [Sch. 7 Pt. IV](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/IV); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)

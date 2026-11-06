@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13BE. Anonymous elector’s document: Great Britain[^key-191d747ddd855b62c775f725e554425c]
+## 13BE. Anonymous elector’s document: Great Britain[^c-191d747ddd855b62c775f725e554425c]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-191d747ddd855b62c775f725e554425c]: Textual amendment: [Ss. 13BD](https://www.legislation.gov.uk/ukpga/1983/2/section/13BD), [13BE](https://www.legislation.gov.uk/ukpga/1983/2/section/13BE) inserted (27.8.2022 for specified purposes, 16.1.2023 in so far as not already in force) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/2); [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/ii); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
+[^c-191d747ddd855b62c775f725e554425c]: Textual amendment: [Ss. 13BD](https://www.legislation.gov.uk/ukpga/1983/2/section/13BD), [13BE](https://www.legislation.gov.uk/ukpga/1983/2/section/13BE) inserted (27.8.2022 for specified purposes, 16.1.2023 in so far as not already in force) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/2); [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/d/ii); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)

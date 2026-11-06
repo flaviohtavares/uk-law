@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Power to require decisions to be reconsidered[^key-c4e0be58bd1d51428ba46993ce662682]
+## 41. Power to require decisions to be reconsidered[^c-c4e0be58bd1d51428ba46993ce662682]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4e0be58bd1d51428ba46993ce662682]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2014/8/section/41) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-c4e0be58bd1d51428ba46993ce662682]: Commencement: [S. 41](https://www.legislation.gov.uk/nia/2014/8/section/41) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Violent offences prevention order made on conviction, etc.[^key-b595dcfc69ab2585818ca9b011207da5]
+## 56. Violent offences prevention order made on conviction, etc.[^c-b595dcfc69ab2585818ca9b011207da5]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b595dcfc69ab2585818ca9b011207da5]: Commencement: [S. 56](https://www.legislation.gov.uk/nia/2015/9/section/56) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/417/article/2/b)
+[^c-b595dcfc69ab2585818ca9b011207da5]: Commencement: [S. 56](https://www.legislation.gov.uk/nia/2015/9/section/56) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/417/article/2/b)

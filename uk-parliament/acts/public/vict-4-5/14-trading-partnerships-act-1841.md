@@ -33,16 +33,16 @@ Trading Partnerships Act 1841 (repealed)
 
 \[18th May 1841\]
 
-[^key-16ce972ba6362c52a6aa356a9b1592ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16ce972ba6362c52a6aa356a9b1592ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1.] No association or copartnership or contract entered into by any of them, to be illegal or void by reason only of spiritual persons being members thereof. No spiritual person beneficed or performing ecclesiastical duty to act as a director.[^key-16ce972ba6362c52a6aa356a9b1592ed][^key-16ce972ba6362c52a6aa356a9b1592ed]
+## 1.] No association or copartnership or contract entered into by any of them, to be illegal or void by reason only of spiritual persons being members thereof. No spiritual person beneficed or performing ecclesiastical duty to act as a director.[^c-16ce972ba6362c52a6aa356a9b1592ed][^c-16ce972ba6362c52a6aa356a9b1592ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2, 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-16ce972ba6362c52a6aa356a9b1592ed][^key-16ce972ba6362c52a6aa356a9b1592ed]
+## 2, 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-16ce972ba6362c52a6aa356a9b1592ed][^c-16ce972ba6362c52a6aa356a9b1592ed]
 
 ## Annotations
 
-[^key-16ce972ba6362c52a6aa356a9b1592ed]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/4-5/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 1
+[^c-16ce972ba6362c52a6aa356a9b1592ed]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/4-5/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 1

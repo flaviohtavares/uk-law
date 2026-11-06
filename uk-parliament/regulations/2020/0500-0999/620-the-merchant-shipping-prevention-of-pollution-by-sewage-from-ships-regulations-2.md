@@ -44,29 +44,29 @@ Coming into force
 
 22nd July 2020
 
-The Secretary of State, in exercise of the powers conferred by articles 3 to 6 of the Merchant Shipping (Prevention of Pollution by Sewage and Garbage) Order 2006[^f00001], articles 2(1), (2)(a) to (g), (3) and 3 of the Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Order 1996[^f00002] and sections 128(5), 128(6), 302(1) and 306A of the Merchant Shipping Act 1995[^f00003], and with the consent of the Treasury[^f00004], makes the following Regulations.[^key-043f35a123402dc0de9fd8e31e74ef3a]
+The Secretary of State, in exercise of the powers conferred by articles 3 to 6 of the Merchant Shipping (Prevention of Pollution by Sewage and Garbage) Order 2006[^f00001], articles 2(1), (2)(a) to (g), (3) and 3 of the Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Order 1996[^f00002] and sections 128(5), 128(6), 302(1) and 306A of the Merchant Shipping Act 1995[^f00003], and with the consent of the Treasury[^f00004], makes the following Regulations.[^c-043f35a123402dc0de9fd8e31e74ef3a]
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-c77cdfafb58c8fda4e855d85e784548b]
+### 1. Citation and commencement[^c-c77cdfafb58c8fda4e855d85e784548b]
 
 (1) These Regulations may be cited as the Merchant Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020.
 
 (2) These Regulations come into force on 22nd July 2020.
 
-### 2. Amendments and revocations[^key-a04eab4a3a782563ee532a1a3a7f06e5]
+### 2. Amendments and revocations[^c-a04eab4a3a782563ee532a1a3a7f06e5]
 
 (1) The amendments listed in Part 1 of Schedule 1 (amendments) have effect.
 
 (2) The instruments listed in the first column of the Table in Part 2 of Schedule 1 (revocations) are revoked to the extent specified in the third column of that Table.
 
-### 3. Interpretation[^key-bba3b81067e8e72ab2c7163ac513ed6a]
+### 3. Interpretation[^c-bba3b81067e8e72ab2c7163ac513ed6a]
 
 (1) In these Regulations—
 
 - “the 1995 Act” means the Merchant Shipping Act 1995;
 - “Annex IV” means Annex IV to the Convention[^f00005];
-- [^key-bfafa165598fdaaf3d82a091b44eb700]...
+- [^c-bfafa165598fdaaf3d82a091b44eb700]...
 - “appropriate documentation” means the documentation referred to in regulation 12(3) (prohibition on non-United Kingdom ships proceeding to sea without a Sewage Certificate or appropriate documentation);
 - “Certifying Authority” has the meaning given in regulation 5 (Certifying Authorities);
 - “Contracting State” means a State which has consented to be bound by the Convention, and for which Annex IV to the Convention is in force;
@@ -89,7 +89,7 @@ The Secretary of State, in exercise of the powers conferred by articles 3 to 6 o
   - (c) unloaded from a ship for transporting to the shoreline;
 - “sea” includes any estuary or arm of the sea;
 - “sewage” has the meaning given in regulation 1 of Annex IV (definitions);
-- “Sewage Certificate” means an International Sewage Pollution Prevention Certificate in the form shown in appendix I to Annex IV[^key-1af9f2969651aa2661f42e1ccaf9d419];
+- “Sewage Certificate” means an International Sewage Pollution Prevention Certificate in the form shown in appendix I to Annex IV[^c-1af9f2969651aa2661f42e1ccaf9d419];
 - “ship” means a vessel of any type whatsoever which is operating in the marine environment, including a hydrofoil boat, an air-cushion vehicle, a submersible, a floating craft and a fixed or floating platform;
 - “surveyor” means a surveyor of ships, or any other person appointed by a Certifying Authority other than the Secretary of State, to be a surveyor; and
 - “UNCLOS” means the United Nations Convention on the Law of the Sea[^f00008].
@@ -118,7 +118,7 @@ The Secretary of State, in exercise of the powers conferred by articles 3 to 6 o
 
 and “constructed” is to be construed accordingly.
 
-### 4. Ambulatory reference[^key-a5aa52c0e0e31a363e4726671754f393]
+### 4. Ambulatory reference[^c-a5aa52c0e0e31a363e4726671754f393]
 
 (1) Any reference in these Regulations to the Convention, an Annex to the Convention or to the Polar Code is to be construed—
 
@@ -129,7 +129,7 @@ and “constructed” is to be construed accordingly.
 
 (3) A modification or amendment of the Convention, an Annex to the Convention or the Polar Code has effect at the time such modification or replacement comes into force in accordance with Article 16 (Amendments) of the Convention.
 
-### 5. Certifying Authorities[^key-0621df8d5bf4256f87319bb0e2f75baa]
+### 5. Certifying Authorities[^c-0621df8d5bf4256f87319bb0e2f75baa]
 
 (1) In these Regulations, “Certifying Authority” means the Secretary of State, or any person authorised by the Secretary of State.
 
@@ -145,7 +145,7 @@ and “constructed” is to be construed accordingly.
 
 (5) A Certifying Authority, other than the Secretary of State, is not to be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown and its property is not to be regarded as property of, or held on behalf of, the Crown.
 
-### 6. Application[^key-de4bd7796864430f8b094dd3f059bc8e]
+### 6. Application[^c-de4bd7796864430f8b094dd3f059bc8e]
 
 (1) Subject to paragraphs (2) and (3), these Regulations apply to—
 
@@ -168,7 +168,7 @@ and “constructed” is to be construed accordingly.
   - (ii) at an offshore terminal in United Kingdom waters or controlled waters; or
   - (iii) a floating platform in United Kingdom waters or controlled waters, other than a floating platform which is in transit.
 
-### 6A. Exemption for UNSP barges[^key-76789eca770e1dbf85a80109e09fdbf3]
+### 6A. Exemption for UNSP barges[^c-76789eca770e1dbf85a80109e09fdbf3]
 
 (1) The Secretary of State may exempt a UNSP barge from the requirements of regulation 11 (prohibition on United Kingdom ships proceeding to sea without a Sewage Certificate), regulation 13 (surveys of United Kingdom ships) or regulation 14 (issue of Sewage Certificates by a Certifying Authority in respect of United Kingdom ships) for a period not exceeding five years provided that the barge has undergone a survey to confirm that—
 
@@ -209,7 +209,7 @@ and “constructed” is to be construed accordingly.
 
 ## PART 2 — Discharge of Sewage
 
-### 7. Prohibition on the discharge of sewage[^key-5eae4730001c37884522c0ec545eaf68]
+### 7. Prohibition on the discharge of sewage[^c-5eae4730001c37884522c0ec545eaf68]
 
 (1) Subject to paragraph (2), the discharge of sewage from a ship into the sea is prohibited, except—
 
@@ -238,7 +238,7 @@ and “constructed” is to be construed accordingly.
 
 ## PART 3 — Equipment
 
-### 8. Sewage systems[^key-e904e9470e487a689a0339d5b4d92838]
+### 8. Sewage systems[^c-e904e9470e487a689a0339d5b4d92838]
 
 (1) A ship must be equipped in accordance with regulation 9 of Annex IV (sewage systems).
 
@@ -246,7 +246,7 @@ and “constructed” is to be construed accordingly.
 
 (3) For the purposes of regulation 9 of Annex IV (sewage systems)—
 
-- (a) in the case of a United Kingdom ship, a sewage treatment plant must be of a type approved under the Merchant Shipping (Marine Equipment) Regulations 2025[^key-7d0429fa44172e325928dc05c040f6aa]; and
+- (a) in the case of a United Kingdom ship, a sewage treatment plant must be of a type approved under the Merchant Shipping (Marine Equipment) Regulations 2025[^c-7d0429fa44172e325928dc05c040f6aa]; and
 - (b) in the case of a ship which is not a United Kingdom ship;
   - (i) a sewage treatment plant;
   - (ii) a sewage comminuting and disinfecting system and its facilities; or
@@ -254,13 +254,13 @@ and “constructed” is to be construed accordingly.
 
 will comply if the Secretary of State is satisfied that it complies with the requirements of Annex IV.
 
-### 9. Discharge connections[^key-0de3ef1fc258837ce4ba51c95523cb16]
+### 9. Discharge connections[^c-0de3ef1fc258837ce4ba51c95523cb16]
 
 The sewage discharge pipeline of a ship must be fitted with a standard discharge connection in accordance with regulation 10 of Annex IV (standard discharge connections).
 
 ## PART 4 — Survey and Certification of Ships
 
-### 10. Interpretation of Part 4[^key-37523d0d89df975aa78f61eee2be4386]
+### 10. Interpretation of Part 4[^c-37523d0d89df975aa78f61eee2be4386]
 
 In this Part—
 
@@ -271,7 +271,7 @@ In this Part—
   - (ii) the materials used in, and the workmanship of, the repair or renewal are satisfactory in all respects; and
   - (iii) the ship complies in all respects with the requirements of Part 3 (equipment).
 
-### 11. Prohibition on United Kingdom ships proceeding to sea without a Sewage Certificate[^key-e54e3551ef2e8024c4106a979ed21c55]
+### 11. Prohibition on United Kingdom ships proceeding to sea without a Sewage Certificate[^c-e54e3551ef2e8024c4106a979ed21c55]
 
 (1) Subject to regulation 26(2) (general provisions on detention), a United Kingdom ship to which this regulation applies must not—
 
@@ -285,7 +285,7 @@ unless the requirements of paragraph (2) are met.
 - (a) an initial survey or a renewal survey has been carried out in respect of the ship; and
 - (b) a Sewage Certificate has been issued in respect of that ship and is still valid.
 
-### 12. Prohibition on non-United Kingdom ships proceeding to sea without a Sewage Certificate or appropriate documentation[^key-8b5f11637bb1c31d1f98f52addedf51b]
+### 12. Prohibition on non-United Kingdom ships proceeding to sea without a Sewage Certificate or appropriate documentation[^c-8b5f11637bb1c31d1f98f52addedf51b]
 
 (1) A Contracting State ship must not proceed to sea from a port in the United Kingdom unless—
 
@@ -305,14 +305,14 @@ unless the requirements of paragraph (2) are met.
   - (i) a surveyor is satisfied that the ship can proceed to sea without presenting an unreasonable threat of harm to the marine environment; or
   - (ii) a person having powers to detain the ship has permitted the ship to proceed to sea for the purposes of proceeding to the nearest appropriate repair yard available.
 
-### 13. Surveys of United Kingdom ships[^key-f3960bf5cb554aa712f144f7ee341423]
+### 13. Surveys of United Kingdom ships[^c-f3960bf5cb554aa712f144f7ee341423]
 
 A United Kingdom ship to which this regulation applies must be subjected to—
 
 - (a) an initial survey, which must be completed before a ship is put into service or before a Sewage Certificate is first issued in respect of that ship; and
 - (b) a renewal survey, which must be completed before each subsequent Sewage Certificate is issued.
 
-### 14. Issue of Sewage Certificates by a Certifying Authority in respect of United Kingdom ships[^key-a3f413d8ae59bdf9c8bc48549346f6ac]
+### 14. Issue of Sewage Certificates by a Certifying Authority in respect of United Kingdom ships[^c-a3f413d8ae59bdf9c8bc48549346f6ac]
 
 (1) A Certifying Authority must issue a Sewage Certificate in respect of a United Kingdom ship where—
 
@@ -330,7 +330,7 @@ A United Kingdom ship to which this regulation applies must be subjected to—
 
 (3) A Sewage Certificate issued under this regulation must be in English.
 
-### 15. Issue of Sewage Certificates by another Contracting State in respect of United Kingdom ships[^key-b2be632916ea8e7793865f12f9f1b8cf]
+### 15. Issue of Sewage Certificates by another Contracting State in respect of United Kingdom ships[^c-b2be632916ea8e7793865f12f9f1b8cf]
 
 (1) The Secretary of State may request a Contracting State to survey a United Kingdom ship and, if the Contracting State is satisfied that the ship complies with the requirements of the Convention, to issue, or authorise the issue of, a Sewage Certificate in respect of that ship.
 
@@ -339,7 +339,7 @@ A United Kingdom ship to which this regulation applies must be subjected to—
 - (a) the Secretary of State is to be treated as the Certifying Authority in relation to it; and
 - (b) any reference in these Regulations to the Certifying Authority who issued the Certificate is to be treated as a reference to the Secretary of State.
 
-### 16. Issue of Sewage Certificates in respect of non-United Kingdom ships[^key-9170ebabd95476e0ba50b59e01fedcee]
+### 16. Issue of Sewage Certificates in respect of non-United Kingdom ships[^c-9170ebabd95476e0ba50b59e01fedcee]
 
 (1) The Secretary of State, when requested to do so by a Contracting State other than the United Kingdom, may cause a survey to be carried out in respect of a Contracting State ship.
 
@@ -353,7 +353,7 @@ A United Kingdom ship to which this regulation applies must be subjected to—
 - (a) the Sewage Certificate issued pursuant to that paragraph; and
 - (b) the report of the survey.
 
-### 17. Duration and validity of Sewage Certificates[^key-b6d582f0cb5ab7605b0eed442be86fd3]
+### 17. Duration and validity of Sewage Certificates[^c-b6d582f0cb5ab7605b0eed442be86fd3]
 
 (1) A Sewage Certificate issued in respect of a United Kingdom ship is valid from the date of completion of the initial or renewal survey which immediately preceded the issue of that Certificate.
 
@@ -396,7 +396,7 @@ A United Kingdom ship to which this regulation applies must be subjected to—
 - (a) has effect on and after that date as if it were issued or endorsed under these Regulations; and
 - (b) subject to the provisions of these Regulations, continues to be valid until the date of expiry of that Certificate.
 
-### 18. Extension of periods of validity of Sewage Certificates by a Certifying Authority[^key-539616eb8be2dc6bcd1a46b270570c05]
+### 18. Extension of periods of validity of Sewage Certificates by a Certifying Authority[^c-539616eb8be2dc6bcd1a46b270570c05]
 
 (1) The Certifying Authority that issued a Sewage Certificate in respect of a United Kingdom ship may extend the period of validity of that Certificate—
 
@@ -414,7 +414,7 @@ A United Kingdom ship to which this regulation applies must be subjected to—
 
 (4) A Certifying Authority must not extend the period of validity of a Sewage Certificate under paragraph (3), if the period of validity of that Sewage Certificate has already been extended under paragraph (1) or (3).
 
-(5) Where the period of validity of a Sewage Certificate is extended under paragraph (1) or (3), the Certifying Authority in question must endorse the Sewage Certificate in accordance with the relevant form set out in appendix I to Annex IV[^key-2302ef18bc68a752f770fda8a673ab8a].
+(5) Where the period of validity of a Sewage Certificate is extended under paragraph (1) or (3), the Certifying Authority in question must endorse the Sewage Certificate in accordance with the relevant form set out in appendix I to Annex IV[^c-2302ef18bc68a752f770fda8a673ab8a].
 
 (6) In this regulation “short voyage” means a voyage which—
 
@@ -423,7 +423,7 @@ A United Kingdom ship to which this regulation applies must be subjected to—
 
 and for the purposes of this definition no account is to be taken of any deviation by a ship from its intended voyage due solely to stress of weather, or any other circumstances that neither the master, nor the owner, nor the charterer if any, of the ship could have prevented or forestalled[^f00013].
 
-### 19. Extension of periods of validity of Sewage Certificates by a surveyor[^key-8666aa076c0c34eafecbec4cf7a32631]
+### 19. Extension of periods of validity of Sewage Certificates by a surveyor[^c-8666aa076c0c34eafecbec4cf7a32631]
 
 (1) A surveyor may extend the period of validity of a Sewage Certificate issued in respect of as United Kingdom ship by endorsing that Certificate if—
 
@@ -431,11 +431,11 @@ and for the purposes of this definition no account is to be taken of any deviati
 - (b) the surveyor is satisfied that the structure, equipment, systems, fittings, arrangements and materials of the ship fully comply with the requirements of Part 3 (equipment); and
 - (c) the new Sewage Certificate cannot be issued or placed on board the ship before the date on which the existing Sewage Certificate is due to expire.
 
-(2) An endorsement issued pursuant to paragraph (1) must be in the relevant form set out in appendix I to Annex IV[^key-76eb2a49b771c321d2ed5c5955392f8d].
+(2) An endorsement issued pursuant to paragraph (1) must be in the relevant form set out in appendix I to Annex IV[^c-76eb2a49b771c321d2ed5c5955392f8d].
 
 (3) Where a Sewage Certificate has been endorsed under paragraph (1), that Certificate is valid for such further period as is specified in the Certificate, not exceeding five months beginning with the original date of expiry of the Certificate.
 
-### 20. Responsibilities of the owner and master of a United Kingdom ship[^key-71fe4329475c961bebef4ea2ae351541]
+### 20. Responsibilities of the owner and master of a United Kingdom ship[^c-71fe4329475c961bebef4ea2ae351541]
 
 (1) The owner and the master of a United Kingdom ship must ensure that the condition of the ship and its equipment are maintained to conform with the provisions of Part 3 (equipment), so as to ensure that the ship in all respects remains fit to proceed to sea without presenting an unreasonable threat of harm to the marine environment.
 
@@ -465,7 +465,7 @@ which substantially affects the integrity of the ship or the efficiency or compl
 
 (6) Whenever an accident or defect is reported to a Certifying Authority in accordance with paragraph (4)(a) and the ship in question is in a port outside the United Kingdom, the Certifying Authority must take all appropriate steps to ascertain that the requirement in paragraph (4)(b) has been complied with.
 
-### 21. Additional surveys of United Kingdom ships[^key-5b6a74a9a7266d214a35402f37e0dd32]
+### 21. Additional surveys of United Kingdom ships[^c-5b6a74a9a7266d214a35402f37e0dd32]
 
 (1) This regulation applies to a United Kingdom ship where—
 
@@ -494,7 +494,7 @@ unless an additional survey has been carried out and the surveyor has issued a s
 
 (5) A repair or renewal is not to be regarded as being an important repair or renewal for the purposes of this regulation unless the Secretary of State advises to the contrary within 21 days of receipt of a request under paragraph (4).
 
-### 22. Procedure to be adopted when a ship is deficient[^key-c28a2a249572c2cfdbb1003e4fb7e8b9]
+### 22. Procedure to be adopted when a ship is deficient[^c-c28a2a249572c2cfdbb1003e4fb7e8b9]
 
 (1) This regulation applies where a surveyor determines that—
 
@@ -527,7 +527,7 @@ the Certifying Authority may suspend the validity of that Certificate until the 
 - (a) “the Certifying Authority” means a diplomatic representative of the ship’s flag State or the appropriate maritime authorities of that State; and
 - (b) “surveyor” includes a person authorised by that flag State to survey the ship.
 
-### 23. Arbitration[^key-cb8e95d9a5a2288a20b74d279d4fc5c6]
+### 23. Arbitration[^c-cb8e95d9a5a2288a20b74d279d4fc5c6]
 
 (1) If an applicant is dissatisfied for any reason with the outcome of a survey carried out in respect of a United Kingdom ship, the applicant may serve a written notice on the responsible person within the period of 21 days beginning with the date of receiving notification of that outcome—
 
@@ -576,7 +576,7 @@ but this paragraph does not apply in relation to Scotland.
   - (ii) in the case of a dispute relating to an additional survey, the Certifying Authority which issued the Sewage Certificate in respect of the ship; and
 - (e) “STCW” means the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978[^f00016], as amended in 1995 by resolution 1 of the STCW Conference convened at the IMO’s headquarters from 26th June to 7th July 1995.
 
-### 24. Miscellaneous provisions relating to Sewage Certificates[^key-d125591ff2ec1193d2f71bd44629ba65]
+### 24. Miscellaneous provisions relating to Sewage Certificates[^c-d125591ff2ec1193d2f71bd44629ba65]
 
 (1) The Secretary of State may cancel a Sewage Certificate issued in respect of a United Kingdom ship where there is reason to believe that—
 
@@ -600,7 +600,7 @@ but this paragraph does not apply in relation to Scotland.
 
 ## PART 5 — Enforcement
 
-### 25. Inspection of ships[^key-1955e95f8252e5c3cbd5772e85925e63]
+### 25. Inspection of ships[^c-1955e95f8252e5c3cbd5772e85925e63]
 
 (1) Insofar as sections 258[^f00017] (powers to inspect ships and their equipment etc.) and 259 (powers of inspectors in relation to premises and ships) of the 1995 Act apply in relation to a ship to which these Regulations apply, for the purpose of checking compliance with these Regulations those sections have effect subject to the following modifications.
 
@@ -625,7 +625,7 @@ except where there are clear grounds for believing that the condition of the shi
 - (a) a diplomatic representative of the ship’s flag State or the appropriate maritime authorities of that State; and
 - (b) any other party to the Convention who requested the inspection.
 
-### 26. General provisions on detention[^key-34af551c1e45f8356ff0b57dff959409]
+### 26. General provisions on detention[^c-34af551c1e45f8356ff0b57dff959409]
 
 (1) Where—
 
@@ -691,7 +691,7 @@ and any balance must be repaid to the first-mentioned person.
 - (a) references to the master or owner of the ship were references to the owner, manager, demise charterer or master; and
 - (b) references to an offence under section 131 (discharge of oil from ships into certain United Kingdom waters) were references to an offence under regulation 30(1)(d) or (e) (offences).
 
-### 27. Power for a harbour master to detain a ship[^key-073be4a45f805e563c532d4bf9f4c6ad]
+### 27. Power for a harbour master to detain a ship[^c-073be4a45f805e563c532d4bf9f4c6ad]
 
 (1) Where the harbour master of a harbour in the United Kingdom has clear grounds for believing that an offence has been committed under regulation 30(1)(d) or (e) (offences) by the discharge from a ship of sewage into the waters of the harbour, the harbour master may detain the ship.
 
@@ -729,7 +729,7 @@ and any balance must be repaid to the first-mentioned person.
 - (a) references to the master or owner of the ship were references to the owner, manager, demise charterer or master; and
 - (b) references to an offence under section 131 (discharge of oil from ships into certain United Kingdom waters) were references to an offence under regulation 30(1)(d) or (e) (offences).
 
-### 28. Duty of a harbour master to report deficient ships[^key-8d7ba4dd29995eee4bacfb0eb7a7176d]
+### 28. Duty of a harbour master to report deficient ships[^c-8d7ba4dd29995eee4bacfb0eb7a7176d]
 
 The harbour master of a harbour in the United Kingdom must immediately notify the Secretary of State if the harbour master has reason to believe that a ship is about to—
 
@@ -738,24 +738,24 @@ The harbour master of a harbour in the United Kingdom must immediately notify th
 
 and does not comply with the requirements of these Regulations.
 
-### 29. Right of appeal and compensation[^key-bb17b7628490a1445883d072ca2e89e3]
+### 29. Right of appeal and compensation[^c-bb17b7628490a1445883d072ca2e89e3]
 
-(1) Regulations 20 (arbitration) and 21 (compensation for unjustified detention)[^key-c87a6ff9ff4483e237a335315917a747] of the Merchant Shipping (Port State Control) Regulations 2026[^key-1c0adb5c044e3e399fa40ff48e575470] apply in relation to the exercise of the power of detention under these Regulations as they apply in relation to the exercise of those powers under [^key-f86e8a658ee51016cac571b1c5951826]... [Directive 2009/16/EC](https://www.legislation.gov.uk/european/directive/2009/0016)[^f00021]) of those Regulations, subject to the modifications referred to in paragraph (2).
+(1) Regulations 20 (arbitration) and 21 (compensation for unjustified detention)[^c-c87a6ff9ff4483e237a335315917a747] of the Merchant Shipping (Port State Control) Regulations 2026[^c-1c0adb5c044e3e399fa40ff48e575470] apply in relation to the exercise of the power of detention under these Regulations as they apply in relation to the exercise of those powers under [^c-f86e8a658ee51016cac571b1c5951826]... [Directive 2009/16/EC](https://www.legislation.gov.uk/european/directive/2009/0016)[^f00021]) of those Regulations, subject to the modifications referred to in paragraph (2).
 
 (2) The modifications are—
 
 - (a) references to “inspector” are to be taken as references to the authority detaining the ship, or the harbour master, as the case may be;
 - (b) references to—
   - (i) “issue of a refusal of access notice”;
-  - (ii)[^key-2a228b3f4fde1266fc459ecb6e3dfa5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-2a228b3f4fde1266fc459ecb6e3dfa5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) “refusal of access notice”;
   - (iv) “served with a refusal of access notice”; and
   - (v) “service of a refusal of access notice”,
 
   are omitted; and
-- (c) in regulation 21(3)[^key-01afcb60c269af16662523accd05bf00] after “State” there is added “, except where the ship is detained by a harbour master, in which case any compensation awarded under this section must be paid by the harbour authority.”.
+- (c) in regulation 21(3)[^c-01afcb60c269af16662523accd05bf00] after “State” there is added “, except where the ship is detained by a harbour master, in which case any compensation awarded under this section must be paid by the harbour authority.”.
 
-### 30. Offences[^key-24b555608fb3d837c7420581148b208c]
+### 30. Offences[^c-24b555608fb3d837c7420581148b208c]
 
 (1) Any contravention of—
 
@@ -774,7 +774,7 @@ and does not comply with the requirements of these Regulations.
 
 (3) A contravention referred to in paragraph (1)(d) or (e) is specified for the purpose of article 6 of the Merchant Shipping (Prevention of Pollution by Sewage and Garbage) Order 2006 (which applies section 131(3) of the 1995 Act (penalties for certain pollution offences) subject to a modification).
 
-### 31. Defences[^key-c937885178cb8055cb5dd4c8a0155877]
+### 31. Defences[^c-c937885178cb8055cb5dd4c8a0155877]
 
 (1) In any proceedings for an offence under these Regulations, it is a defence for the person charged to prove that they took all reasonable steps and exercised all due diligence to ensure that the regulation in question was complied with.
 
@@ -784,7 +784,7 @@ and does not comply with the requirements of these Regulations.
 - (b) the discharge took place in waters that were not United Kingdom waters or controlled waters; and
 - (c) the ship was in a port in the United Kingdom at the time of the institution of the proceedings by reason only of stress of weather or any other reason beyond the control of the owner, manager, charterer or master of the ship.
 
-### 32. Restriction on jurisdiction over offences outside United Kingdom limits[^key-ecd0516f3de75132534a3a27a44a335d]
+### 32. Restriction on jurisdiction over offences outside United Kingdom limits[^c-ecd0516f3de75132534a3a27a44a335d]
 
 (1) Where there has been an offence under regulation 30(1)(d) or (e) (offences) in respect of a ship which is not a United Kingdom ship in the internal waters, territorial sea or exclusive economic zone of a foreign State, proceedings in respect of that offence must not be instituted in the United Kingdom unless—
 
@@ -798,7 +798,7 @@ and does not comply with the requirements of these Regulations.
 - (a) “exclusive economic zone”, in relation to a foreign State, means the area beyond and adjacent to the territorial sea of that State, but not extending beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured; and
 - (b) “foreign State” means a State other than the United Kingdom.
 
-### 33. Suspension of proceedings at flag State request[^key-9ce51a2da655cb215e53e7a5eb3150b3]
+### 33. Suspension of proceedings at flag State request[^c-9ce51a2da655cb215e53e7a5eb3150b3]
 
 (1) This regulation applies to proceedings instituted but not concluded in the United Kingdom in respect of a contravention of a provision in Part 2 (discharge of sewage) committed outside United Kingdom waters by a ship that is not a United Kingdom ship.
 
@@ -811,7 +811,7 @@ and does not comply with the requirements of these Regulations.
 
 (4) Where proceedings instituted by the ship’s flag State have been brought to a conclusion, the suspended proceedings must be terminated.
 
-### 34. Service of documents on foreign companies[^key-b4bba3edb6da4a113d1759062d22376a]
+### 34. Service of documents on foreign companies[^c-b4bba3edb6da4a113d1759062d22376a]
 
 Section 143(6) of the 1995 Act[^f00022] (service of documents on foreign companies required or authorised by any statutory provision in connection with proceedings for an offence under section 131 of the 1995 Act) applies to proceedings for an offence under these Regulations as it applies to proceedings for an offence under section 131 (discharge of oil from ships into certain United Kingdom waters) of the 1995 Act, as if—
 
@@ -821,7 +821,7 @@ Section 143(6) of the 1995 Act[^f00022] (service of documents on foreign compani
   - (i) the owner of the ship were to the owner of the platform; and
   - (ii) the master of the ship were to the manager of the platform.
 
-### 35. Enforcement and application of fines[^key-f0d32e0a9e3e1a970b0ebf3e2c218656]
+### 35. Enforcement and application of fines[^c-f0d32e0a9e3e1a970b0ebf3e2c218656]
 
 Section 146 of the 1995 Act (enforcement and application of fines) applies to any fine for an offence under regulation 30(1)(d) or (e) (offences) as if—
 
@@ -830,7 +830,7 @@ Section 146 of the 1995 Act (enforcement and application of fines) applies to an
 
 ## PART 6 — Review
 
-### 36. Review of the Regulations[^key-7302f5cb86680a1dbb124f16de82ce9e]
+### 36. Review of the Regulations[^c-7302f5cb86680a1dbb124f16de82ce9e]
 
 (1) The Secretary of State must from time to time—
 
@@ -874,7 +874,7 @@ Regulation 2(1) and (2)
 
 ### PART 1 — Amendments
 
-#### 1. The Waste Management Licensing Regulations (Northern Ireland) 2003[^key-05efcb775af09e2b07defafe235af1ab]
+#### 1. The Waste Management Licensing Regulations (Northern Ireland) 2003[^c-05efcb775af09e2b07defafe235af1ab]
 
 In Table 1 in paragraph 1 of Schedule 6 (prescribed offences) to the Waste Management Licensing Regulations (Northern Ireland) 2003[^f00024]—
 
@@ -889,7 +889,7 @@ In Table 1 in paragraph 1 of Schedule 6 (prescribed offences) to the Waste Manag
 
   .
 
-#### 2. The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^key-b1b17c276aaf6db536a9dd2888fdd6a5]
+#### 2. The Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^c-b1b17c276aaf6db536a9dd2888fdd6a5]
 
 In regulation 3(2)(a) (discharge permits) of the Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^f00026] for paragraph (ii) substitute—
 
@@ -898,11 +898,11 @@ In regulation 3(2)(a) (discharge permits) of the Offshore Petroleum Activities (
 
 .
 
-#### 3. The Waste Management Licensing (Scotland) Regulations 2011[^key-3ff0e7d06d741cb1682cbe7bead530cf]
+#### 3. The Waste Management Licensing (Scotland) Regulations 2011[^c-3ff0e7d06d741cb1682cbe7bead530cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. The Environmental Regulation (Significant Environmental Harm) (Scotland) Order 2014[^key-eacfca7fdda48843ce3e537300a758a0]
+#### 4. The Environmental Regulation (Significant Environmental Harm) (Scotland) Order 2014[^c-eacfca7fdda48843ce3e537300a758a0]
 
 In the Schedule (specified enactments) to the Environmental Regulation (Significant Environmental Harm) (Scotland) Order 2014[^f00028] for paragraph 12 substitute—
 
@@ -912,7 +912,7 @@ In the Schedule (specified enactments) to the Environmental Regulation (Signific
 
 .
 
-#### 5. The Merchant Shipping (Fees) Regulations 2018[^key-826cc03c87ad2d320df20d53afd8379d]
+#### 5. The Merchant Shipping (Fees) Regulations 2018[^c-826cc03c87ad2d320df20d53afd8379d]
 
 In the Table in paragraph 5 of Part 1 of Schedule 1 (fees under the Merchant Shipping Act 1995) to the Merchant Shipping (Fees) Regulations 2018[^f00029] for the entry under heading J (prevention and control of pollution) relating to the Merchant Shipping (Prevention of Pollution by Sewage and Garbage from Ships) Regulations 2008[^f00030] substitute —
 
@@ -921,7 +921,7 @@ In the Table in paragraph 5 of Part 1 of Schedule 1 (fees under the Merchant Shi
 | The Merchant Shipping (Prevention of Pollution by Garbage from Ships) Regulations 2020 | 2020/621 | None |
 | The Merchant Shipping (Prevention of Pollution by Sewage from Ships) Regulations 2020 | 2020/620 | None |
 
-### PART 2 — Revocations[^key-5db6c3160f0bff987bea08327c36750e]
+### PART 2 — Revocations[^c-5db6c3160f0bff987bea08327c36750e]
 
 Table
 
@@ -934,39 +934,39 @@ Table
 
 Regulation 3(1)
 
-**1.**[^key-59be1c7dd1554089a4d2b180ddc76031] The “gross tonnage” of a United Kingdom ship is to be determined in accordance with paragraphs 3 to 7, and the “gross tonnage” of a ship other than a United Kingdom ship is to be determined in accordance with paragraphs 8 to 10.
+**1.**[^c-59be1c7dd1554089a4d2b180ddc76031] The “gross tonnage” of a United Kingdom ship is to be determined in accordance with paragraphs 3 to 7, and the “gross tonnage” of a ship other than a United Kingdom ship is to be determined in accordance with paragraphs 8 to 10.
 
-**2.**[^key-0105600ad8530b1ea9237c366bc845c2] In this Schedule—
+**2.**[^c-0105600ad8530b1ea9237c366bc845c2] In this Schedule—
 
 - “the 1997 Regulations” means the Merchant Shipping (Tonnage) Regulations 1997[^f00031];
 - “length overall” and “length” (except in the expression “length overall”) have the same meaning as in the 1997 Regulations; and
 - “the Tonnage Convention” means the International Convention on Tonnage Measurement of Ships, 1969[^f00032].
 
-### 3. United Kingdom Ships[^key-eb9ea7cdfc4985a86bb7c33b5a7a035d]
+### 3. United Kingdom Ships[^c-eb9ea7cdfc4985a86bb7c33b5a7a035d]
 
 In the case of a ship of 24 metres in length or over for which the Secretary of State permits the continuing use of a gross tonnage pursuant to regulation 12(1) (use of gross tonnage ascertained under previous Regulations) of the 1997 Regulations, the “gross tonnage” is the smaller of—
 
 - (a) the largest gross tonnage permitted for that ship pursuant to regulation 12(1) of the 1997 Regulations; and
 - (b) the gross tonnage of the ship determined in accordance with regulation 6 (gross tonnage) of the 1997 Regulations.
 
-**4.**[^key-4bb80aed553d8d820f6dbc5fa56178a8] In the case of any other ship of 24 metres in length or over, the “gross tonnage” is the gross tonnage of the ship determined in accordance with regulation 6 (gross tonnage) of the 1997 Regulations.
+**4.**[^c-4bb80aed553d8d820f6dbc5fa56178a8] In the case of any other ship of 24 metres in length or over, the “gross tonnage” is the gross tonnage of the ship determined in accordance with regulation 6 (gross tonnage) of the 1997 Regulations.
 
-**5.**[^key-7efe94fa04dcd3bc6637969dd41edd0b] In the case of a fishing vessel of 15 metres or more in length overall but less than 24 metres in length, the “gross tonnage” is the tonnage of the vessel determined in accordance with regulations 6 (gross tonnage) and 12C[^f00033] (measurement of smaller fishing vessels) of the 1997 Regulations.
+**5.**[^c-7efe94fa04dcd3bc6637969dd41edd0b] In the case of a fishing vessel of 15 metres or more in length overall but less than 24 metres in length, the “gross tonnage” is the tonnage of the vessel determined in accordance with regulations 6 (gross tonnage) and 12C[^f00033] (measurement of smaller fishing vessels) of the 1997 Regulations.
 
-**6.**[^key-21c4707531813fea01fdc5e0b10b3209] In the case of a fishing vessel of less than 15 metres in length overall and less than 24 metres in length, the “gross tonnage” is the Registered Tonnage of the vessel determined in accordance with regulation 7 of the Merchant Shipping (Fishing Vessels – Tonnage) Regulations 1988[^f00034].
+**6.**[^c-21c4707531813fea01fdc5e0b10b3209] In the case of a fishing vessel of less than 15 metres in length overall and less than 24 metres in length, the “gross tonnage” is the Registered Tonnage of the vessel determined in accordance with regulation 7 of the Merchant Shipping (Fishing Vessels – Tonnage) Regulations 1988[^f00034].
 
-**7.**[^key-01d538bc9b379d2403aa3a02730ca84b] In the case of any other ship of less than 24 metres in length, the “gross tonnage” is the gross tonnage of the ship determined in accordance with regulation 14(2) (measurement and certification) of the 1997 Regulations.
+**7.**[^c-01d538bc9b379d2403aa3a02730ca84b] In the case of any other ship of less than 24 metres in length, the “gross tonnage” is the gross tonnage of the ship determined in accordance with regulation 14(2) (measurement and certification) of the 1997 Regulations.
 
-### 8. Ships other than United Kingdom ships[^key-11b32f75bb62eabcb07f01bfe7dfca10]
+### 8. Ships other than United Kingdom ships[^c-11b32f75bb62eabcb07f01bfe7dfca10]
 
 Subject to paragraph 9, in the case of a ship which has a gross tonnage determined in accordance with the Tonnage Convention, the “gross tonnage” is that gross tonnage.
 
-**9.**[^key-440a056a9d68472f029a5143fa826851] Where a ship has a gross tonnage determined in accordance with the Tonnage Convention but the ship’s flag State permits the use of some other gross tonnage, the “gross tonnage” of the ship is the smaller of—
+**9.**[^c-440a056a9d68472f029a5143fa826851] Where a ship has a gross tonnage determined in accordance with the Tonnage Convention but the ship’s flag State permits the use of some other gross tonnage, the “gross tonnage” of the ship is the smaller of—
 
 - (a) the largest gross tonnage permitted by the flag State to be used for that ship; and
 - (b) the gross tonnage determined in accordance with the Tonnage Convention.
 
-**10.**[^key-b43109658058da61f7cabe69fd26263a] In the case of a ship which does not have a gross tonnage determined in accordance with the Tonnage Convention, the “gross tonnage” is the gross tonnage or equivalent measure determined in accordance with the law of the ship’s flag State (and where the ship has more than one such gross tonnage or equivalent measure, the “gross tonnage” is to be taken to be the largest of them).
+**10.**[^c-b43109658058da61f7cabe69fd26263a] In the case of a ship which does not have a gross tonnage determined in accordance with the Tonnage Convention, the “gross tonnage” is the gross tonnage or equivalent measure determined in accordance with the law of the ship’s flag State (and where the ship has more than one such gross tonnage or equivalent measure, the “gross tonnage” is to be taken to be the largest of them).
 
 EXPLANATORY NOTE
 
@@ -1012,23 +1012,23 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00004]: Footnote: The consent of the Treasury is required to make these Regulations under section 302(1) of the Merchant Shipping Act [1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-043f35a123402dc0de9fd8e31e74ef3a]: Modification: Regulations extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e))
+[^c-043f35a123402dc0de9fd8e31e74ef3a]: Modification: Regulations extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e))
 
-[^key-c77cdfafb58c8fda4e855d85e784548b]: Commencement: Reg. 1 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-c77cdfafb58c8fda4e855d85e784548b]: Commencement: Reg. 1 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-a04eab4a3a782563ee532a1a3a7f06e5]: Commencement: Reg. 2 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-a04eab4a3a782563ee532a1a3a7f06e5]: Commencement: Reg. 2 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-bba3b81067e8e72ab2c7163ac513ed6a]: Commencement: Reg. 3 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-bba3b81067e8e72ab2c7163ac513ed6a]: Commencement: Reg. 3 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
 [^f00005]: Footnote: Regulations for the Prevention of Pollution by Sewage from Ships. See footnote (f) to “the Convention” for further information.
 
-[^key-bfafa165598fdaaf3d82a091b44eb700]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/620/regulation/3/1) omitted (27.12.2022) by virtue of [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/3/2/a)
+[^c-bfafa165598fdaaf3d82a091b44eb700]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/620/regulation/3/1) omitted (27.12.2022) by virtue of [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/3/2/a)
 
 [^f00006]: Footnote: [S.I. 2014/3306](https://www.legislation.gov.uk/uksi/2014/3306).
 
 [^f00007]: Footnote: The Convention (“MARPOL”), was published in Cmnd. 5748, and amended by the Protocols of 1978 (Cmnd. 7347) and 1997 (Cm. 4427). Hard copies of the Command Papers are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London SW1A 0PW. The Parliamentary Archives catalogue numbers are as follows: HL/PO/JO/10/11/1853/505 (Cmnd. 5748), HL/PO/JO/10/11/1959/2033 (Cmnd. 7347) and HL/PO/JO/10/11/3156/2285 (Cm. 4427). Annex IV to MARPOL has been amended by a number of IMO Resolutions, most recently by MEPC.284(70). The amendments are available from the IMO at 4 Albert Embankment, London SE1 7SR or can be found on the Foreign and Commonwealth Office treaties database (https://treaties.fco.gov.uk/responsive/app/consolidatedSearch/).
 
-[^key-1af9f2969651aa2661f42e1ccaf9d419]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/620/regulation/3/1) substituted (27.12.2022) by [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/3/2/b)
+[^c-1af9f2969651aa2661f42e1ccaf9d419]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/620/regulation/3/1) substituted (27.12.2022) by [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/3/2/b)
 
 [^f00008]: Footnote: This Convention (“UNCLOS”) was originally published in Cmnd. 8941, and subsequently in Cm. 4524. A hard copy of Cm. 4524 is available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London SW1A 0PW (catalogue number: HL/PO/JO/10/11/3186/287). An electronic copy of Cm. 4524 can be found at https://treaties.fco.gov.uk/awweb/pdfopener?md=1&did=69421. A copy of UNCLOS may be obtained from the United Nations (email doalos@un.org), and at www.un.org/Depts/los/convention\_agreements/texts/unclos/unclos\_e.pdf.
 
@@ -1036,160 +1036,160 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00010]: Footnote: This Convention (“the London Convention”) was originally published in Cmnd. 5169 and subsequently in Cmnd. 6486. An electronic copy of Cmnd. 6486 can be found at http://foto.archivalware.co.uk/data/Library2/pdf/1976-TS0043.pdf. It was amended by the Protocol of 1996 (Cmnd. 4078 and Cm. 9234). An electronic copy of Cm. 9234 can be found at http://foto.archivalware.co.uk/data/Library2/pdf/2016-TS0021.pdf. Hard copies of the London Convention and Cmnd. 4078 are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London SW1A 0PW. The Parliamentary Archives catalogue numbers are as follows: HL/PO/JO/10/11/1891/1448 (the London Convention) and HL/PO/JO/10/11/3094BT/3684 (Cmnd. 4078).
 
-[^key-a5aa52c0e0e31a363e4726671754f393]: Commencement: Reg. 4 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-a5aa52c0e0e31a363e4726671754f393]: Commencement: Reg. 4 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-0621df8d5bf4256f87319bb0e2f75baa]: Commencement: Reg. 5 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-0621df8d5bf4256f87319bb0e2f75baa]: Commencement: Reg. 5 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-de4bd7796864430f8b094dd3f059bc8e]: Commencement: Reg. 6 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-de4bd7796864430f8b094dd3f059bc8e]: Commencement: Reg. 6 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-76789eca770e1dbf85a80109e09fdbf3]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2020/620/regulation/6A) inserted (27.12.2022) by [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/3/3)
+[^c-76789eca770e1dbf85a80109e09fdbf3]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2020/620/regulation/6A) inserted (27.12.2022) by [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/3/3)
 
-[^key-5eae4730001c37884522c0ec545eaf68]: Commencement: Reg. 7 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-5eae4730001c37884522c0ec545eaf68]: Commencement: Reg. 7 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-e904e9470e487a689a0339d5b4d92838]: Commencement: Reg. 8 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-e904e9470e487a689a0339d5b4d92838]: Commencement: Reg. 8 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-7d0429fa44172e325928dc05c040f6aa]: Textual amendment: Word in reg. 8(3)(a) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/14) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-7d0429fa44172e325928dc05c040f6aa]: Textual amendment: Word in reg. 8(3)(a) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/14) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
-[^key-0de3ef1fc258837ce4ba51c95523cb16]: Commencement: Reg. 9 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-0de3ef1fc258837ce4ba51c95523cb16]: Commencement: Reg. 9 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-37523d0d89df975aa78f61eee2be4386]: Commencement: Reg. 10 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-37523d0d89df975aa78f61eee2be4386]: Commencement: Reg. 10 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-e54e3551ef2e8024c4106a979ed21c55]: Commencement: Reg. 11 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-e54e3551ef2e8024c4106a979ed21c55]: Commencement: Reg. 11 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-8b5f11637bb1c31d1f98f52addedf51b]: Commencement: Reg. 12 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-8b5f11637bb1c31d1f98f52addedf51b]: Commencement: Reg. 12 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-f3960bf5cb554aa712f144f7ee341423]: Commencement: Reg. 13 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-f3960bf5cb554aa712f144f7ee341423]: Commencement: Reg. 13 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-a3f413d8ae59bdf9c8bc48549346f6ac]: Commencement: Reg. 14 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-a3f413d8ae59bdf9c8bc48549346f6ac]: Commencement: Reg. 14 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), to which there are amendments not relevant to these Regulations.
 
-[^key-b2be632916ea8e7793865f12f9f1b8cf]: Commencement: Reg. 15 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-b2be632916ea8e7793865f12f9f1b8cf]: Commencement: Reg. 15 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-9170ebabd95476e0ba50b59e01fedcee]: Commencement: Reg. 16 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-9170ebabd95476e0ba50b59e01fedcee]: Commencement: Reg. 16 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-b6d582f0cb5ab7605b0eed442be86fd3]: Commencement: Reg. 17 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-b6d582f0cb5ab7605b0eed442be86fd3]: Commencement: Reg. 17 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-539616eb8be2dc6bcd1a46b270570c05]: Commencement: Reg. 18 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-539616eb8be2dc6bcd1a46b270570c05]: Commencement: Reg. 18 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-2302ef18bc68a752f770fda8a673ab8a]: Textual amendment: Words in [reg. 18(5)](https://www.legislation.gov.uk/uksi/2020/620/regulation/18/5) substituted (27.12.2022) by [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/3/4)
+[^c-2302ef18bc68a752f770fda8a673ab8a]: Textual amendment: Words in [reg. 18(5)](https://www.legislation.gov.uk/uksi/2020/620/regulation/18/5) substituted (27.12.2022) by [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/3/4)
 
 [^f00013]: Footnote: The definition of “short voyage” derives from IMO Resolution A.1104(29). Resolutions of the IMO can be obtained from the IMO Library at 4 Albert Embankment, London SE1 7SR and from www.imo.org/en/MediaCentre/Pages/Default.aspx; email: media@imo.org; telephone: 020 7587 3134. They will also be made available via the Foreign and Commonwealth Office treaties database (https://treaties.fco.gov.uk/responsive/app/consolidatedSearch/#home).
 
-[^key-8666aa076c0c34eafecbec4cf7a32631]: Commencement: Reg. 19 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-8666aa076c0c34eafecbec4cf7a32631]: Commencement: Reg. 19 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-76eb2a49b771c321d2ed5c5955392f8d]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/19/2) substituted (27.12.2022) by [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/3/5)
+[^c-76eb2a49b771c321d2ed5c5955392f8d]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/19/2) substituted (27.12.2022) by [The Merchant Shipping (Prevention of Oil Pollution and Prevention of Pollution by Sewage from Ships) (Amendment) Regulations 2022 (S.I. 2022/1234)](https://www.legislation.gov.uk/uksi/2022/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2022/1234/regulation/3/5)
 
-[^key-71fe4329475c961bebef4ea2ae351541]: Commencement: Reg. 20 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-71fe4329475c961bebef4ea2ae351541]: Commencement: Reg. 20 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-5b6a74a9a7266d214a35402f37e0dd32]: Commencement: Reg. 21 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-5b6a74a9a7266d214a35402f37e0dd32]: Commencement: Reg. 21 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
 [^f00014]: Footnote: The process for requesting this advice from the Secretary of State can be found in Marine Guidance Note No. 631 (M+F). Copies of MGN 631 (M+F) may be obtained free of charge at www.gov.uk or in hard copy from the Maritime and Coastguard Agency (“MCA”) of Spring Place, 105 Commercial Road, Southampton SO15 1EG.
 
-[^key-c28a2a249572c2cfdbb1003e4fb7e8b9]: Commencement: Reg. 22 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-c28a2a249572c2cfdbb1003e4fb7e8b9]: Commencement: Reg. 22 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-cb8e95d9a5a2288a20b74d279d4fc5c6]: Commencement: Reg. 23 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-cb8e95d9a5a2288a20b74d279d4fc5c6]: Commencement: Reg. 23 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
 [^f00015]: Footnote: Merchant Shipping Notices are published by the Maritime and Coastguard Agency. Copies of MSN No. M.1613 can be obtained free of charge at www.gov.uk.or in hard copy from the Maritime and Coastguard Agency (“MCA”) of Spring Place, 105 Commercial Road, Southampton SO15 1EG.
 
 [^f00016]: Footnote: This Convention (“STCW”) was originally published in Cmnd. 7543 and subsequently in Cmnd 9266. An electronic copy of Cmnd. 9266 can be found at https://treaties.fco.gov.uk/awweb/pdfopener?md=1&did=68238. A hard copy of Cmnd. 9266 is available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London, SW1A 0PW (catalogue number: HL/PO/JO/10/11/2230/2631).
 
-[^key-d125591ff2ec1193d2f71bd44629ba65]: Commencement: Reg. 24 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-d125591ff2ec1193d2f71bd44629ba65]: Commencement: Reg. 24 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-1955e95f8252e5c3cbd5772e85925e63]: Commencement: Reg. 25 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-1955e95f8252e5c3cbd5772e85925e63]: Commencement: Reg. 25 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
 [^f00017]: Footnote: Section 258 is amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1, paragraph 4, and Schedule 7, Part 1, and the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), Schedule 2, Part 1 paragraph 2 and Schedule 10, Part 2.
 
-[^key-34af551c1e45f8356ff0b57dff959409]: Commencement: Reg. 26 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-34af551c1e45f8356ff0b57dff959409]: Commencement: Reg. 26 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
 [^f00018]: Footnote: Section 284 was amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1, paragraph 5, and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664), Schedule 4, Part 1, paragraph 27(1) and (15).
 
 [^f00019]: Footnote: Section 145 was amended by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), Schedule 36, Part 2, paragraph 13, and by the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), Schedule 11, paragraph 16.
 
-[^key-073be4a45f805e563c532d4bf9f4c6ad]: Commencement: Reg. 27 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-073be4a45f805e563c532d4bf9f4c6ad]: Commencement: Reg. 27 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-8d7ba4dd29995eee4bacfb0eb7a7176d]: Commencement: Reg. 28 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-8d7ba4dd29995eee4bacfb0eb7a7176d]: Commencement: Reg. 28 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-bb17b7628490a1445883d072ca2e89e3]: Commencement: Reg. 29 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-bb17b7628490a1445883d072ca2e89e3]: Commencement: Reg. 29 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-c87a6ff9ff4483e237a335315917a747]: Textual amendment: Words in reg. 29(1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-c87a6ff9ff4483e237a335315917a747]: Textual amendment: Words in reg. 29(1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-1c0adb5c044e3e399fa40ff48e575470]: Textual amendment: Word in reg. 29(1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-1c0adb5c044e3e399fa40ff48e575470]: Textual amendment: Word in reg. 29(1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-f86e8a658ee51016cac571b1c5951826]: Textual amendment: Words in reg. 29(1) omitted (23.6.2026) by virtue of [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-f86e8a658ee51016cac571b1c5951826]: Textual amendment: Words in reg. 29(1) omitted (23.6.2026) by virtue of [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
 [^f00021]: Footnote: OJ No. L 131, 28.05.2009, p. 57.
 
-[^key-2a228b3f4fde1266fc459ecb6e3dfa5b]: Textual amendment: Reg. 29(2)(b)(ii) omitted (23.6.2026) by virtue of [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-2a228b3f4fde1266fc459ecb6e3dfa5b]: Textual amendment: Reg. 29(2)(b)(ii) omitted (23.6.2026) by virtue of [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-01afcb60c269af16662523accd05bf00]: Textual amendment: Word in reg. 29(2)(c) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-01afcb60c269af16662523accd05bf00]: Textual amendment: Word in reg. 29(2)(c) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-24b555608fb3d837c7420581148b208c]: Commencement: Reg. 30 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-24b555608fb3d837c7420581148b208c]: Commencement: Reg. 30 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-c937885178cb8055cb5dd4c8a0155877]: Commencement: Reg. 31 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-c937885178cb8055cb5dd4c8a0155877]: Commencement: Reg. 31 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-ecd0516f3de75132534a3a27a44a335d]: Commencement: Reg. 32 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-ecd0516f3de75132534a3a27a44a335d]: Commencement: Reg. 32 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-9ce51a2da655cb215e53e7a5eb3150b3]: Commencement: Reg. 33 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-9ce51a2da655cb215e53e7a5eb3150b3]: Commencement: Reg. 33 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-b4bba3edb6da4a113d1759062d22376a]: Commencement: Reg. 34 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-b4bba3edb6da4a113d1759062d22376a]: Commencement: Reg. 34 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
 [^f00022]: Footnote: Section 143(6) is amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), Schedule 1, paragraph 152(1) and (2).
 
-[^key-f0d32e0a9e3e1a970b0ebf3e2c218656]: Commencement: Reg. 35 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-f0d32e0a9e3e1a970b0ebf3e2c218656]: Commencement: Reg. 35 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-7302f5cb86680a1dbb124f16de82ce9e]: Commencement: Reg. 36 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-7302f5cb86680a1dbb124f16de82ce9e]: Commencement: Reg. 36 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
 [^f00023]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12) and Schedule 8, Prt 2, paragraph 36 to the European Union (Withdrawal) Act [2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-05efcb775af09e2b07defafe235af1ab]: Commencement: Sch. 1 para. 1 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-05efcb775af09e2b07defafe235af1ab]: Commencement: Sch. 1 para. 1 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
 [^f00024]: Footnote: [S.R. 2003/493](https://www.legislation.gov.uk/nisr/2003/493), amended by [S.R. 2017/202](https://www.legislation.gov.uk/nisr/2017/202); there are other amending instruments but none is relevant.
 
 [^f00025]: Footnote: [S.I. 2020/621](https://www.legislation.gov.uk/uksi/2020/621).
 
-[^key-b1b17c276aaf6db536a9dd2888fdd6a5]: Commencement: Sch. 1 para. 2 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-b1b17c276aaf6db536a9dd2888fdd6a5]: Commencement: Sch. 1 para. 2 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
 [^f00026]: Footnote: [S.I. 2005/2055](https://www.legislation.gov.uk/uksi/2005/2055), amended by [S.I. 2011/983](https://www.legislation.gov.uk/uksi/2011/983), [2019/42](https://www.legislation.gov.uk/uksi/2019/42); there are other amending instruments but none is relevant.
 
-[^key-3ff0e7d06d741cb1682cbe7bead530cf]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2020/620/schedule/1/paragraph/3) revoked (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-3ff0e7d06d741cb1682cbe7bead530cf]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2020/620/schedule/1/paragraph/3) revoked (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-eacfca7fdda48843ce3e537300a758a0]: Commencement: Sch. 1 para. 4 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-eacfca7fdda48843ce3e537300a758a0]: Commencement: Sch. 1 para. 4 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
 [^f00028]: Footnote: [S.S.I. 2014/324](https://www.legislation.gov.uk/ssi/2014/324). New paragraph 19 is inserted by [S.S.I. 2018/219](https://www.legislation.gov.uk/ssi/2018/219) and new paragraph 20 is inserted by [S.I. 2019/42](https://www.legislation.gov.uk/uksi/2019/42). There are other amendments to this Schedule but none is relevant.
 
-[^key-826cc03c87ad2d320df20d53afd8379d]: Commencement: Sch. 1 para. 5 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-826cc03c87ad2d320df20d53afd8379d]: Commencement: Sch. 1 para. 5 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
 [^f00029]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), to which there are amendments not relevant to these Regulations.
 
 [^f00030]: Footnote: [S.I. 2008/3257](https://www.legislation.gov.uk/uksi/2008/3257). The provisions in relation to the prevention of pollution by garbage from ships are now to be found in the Merchant Shipping (Prevention of Pollution by Garbage from Ships) Regulations 2020 ([S.I. 2020/621](https://www.legislation.gov.uk/uksi/2020/621)) which come into force simultaneously with these Regulations.
 
-[^key-5db6c3160f0bff987bea08327c36750e]: Commencement: Sch. 1 Pt. 2 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-5db6c3160f0bff987bea08327c36750e]: Commencement: Sch. 1 Pt. 2 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-59be1c7dd1554089a4d2b180ddc76031]: Commencement: Sch. 2 para. 1 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-59be1c7dd1554089a4d2b180ddc76031]: Commencement: Sch. 2 para. 1 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-0105600ad8530b1ea9237c366bc845c2]: Commencement: Sch. 2 para. 2 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-0105600ad8530b1ea9237c366bc845c2]: Commencement: Sch. 2 para. 2 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
 [^f00031]: Footnote: [S.I. 1997/1510](https://www.legislation.gov.uk/uksi/1997/1510), amended by [S.I.1998/1916](https://www.legislation.gov.uk/uksi/1998/1916) and [1999/3206](https://www.legislation.gov.uk/uksi/1999/3206). There are other amendments but none is relevant.
 
 [^f00032]: Footnote: The Tonnage Convention was published in Cmnd. 4332 and subsequently in Cmnd. 8716. An electronic copy of the Tonnage Convention is available via the Foreign and Commonwealth Office treaties database (https://treaties.fco.gov.uk/awweb/pdfopener?md=1&did=68110). A hard copy of Cmnd. 8716 is available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London SW1A 0PW (catalogue number: HL/PO/JO/10/11/2156/147).
 
-[^key-eb9ea7cdfc4985a86bb7c33b5a7a035d]: Commencement: Sch. 2 para. 3 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-eb9ea7cdfc4985a86bb7c33b5a7a035d]: Commencement: Sch. 2 para. 3 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-4bb80aed553d8d820f6dbc5fa56178a8]: Commencement: Sch. 2 para. 4 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-4bb80aed553d8d820f6dbc5fa56178a8]: Commencement: Sch. 2 para. 4 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-7efe94fa04dcd3bc6637969dd41edd0b]: Commencement: Sch. 2 para. 5 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-7efe94fa04dcd3bc6637969dd41edd0b]: Commencement: Sch. 2 para. 5 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
 [^f00033]: Footnote: Regulation 12C was inserted by regulation 2(2) of [S.I. 1998/1916](https://www.legislation.gov.uk/uksi/1998/1916).
 
-[^key-21c4707531813fea01fdc5e0b10b3209]: Commencement: Sch. 2 para. 6 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-21c4707531813fea01fdc5e0b10b3209]: Commencement: Sch. 2 para. 6 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
 [^f00034]: Footnote: [S.I. 1988/1909](https://www.legislation.gov.uk/uksi/1988/1909), amended by [S.I. 1998/1916](https://www.legislation.gov.uk/uksi/1998/1916) and [1999/3206](https://www.legislation.gov.uk/uksi/1999/3206).
 
-[^key-01d538bc9b379d2403aa3a02730ca84b]: Commencement: Sch. 2 para. 7 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-01d538bc9b379d2403aa3a02730ca84b]: Commencement: Sch. 2 para. 7 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-11b32f75bb62eabcb07f01bfe7dfca10]: Commencement: Sch. 2 para. 8 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-11b32f75bb62eabcb07f01bfe7dfca10]: Commencement: Sch. 2 para. 8 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-440a056a9d68472f029a5143fa826851]: Commencement: Sch. 2 para. 9 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-440a056a9d68472f029a5143fa826851]: Commencement: Sch. 2 para. 9 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
 
-[^key-b43109658058da61f7cabe69fd26263a]: Commencement: Sch. 2 para. 10 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)
+[^c-b43109658058da61f7cabe69fd26263a]: Commencement: Sch. 2 para. 10 in force at 22.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/620/regulation/1/2)

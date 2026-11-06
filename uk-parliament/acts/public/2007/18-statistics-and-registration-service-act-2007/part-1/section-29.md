@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Directions[^key-87a67f3d7bb7235ac293e46d65e0e975]
+## 29. Directions[^c-87a67f3d7bb7235ac293e46d65e0e975]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ they may, with the consent of the Minister for the Cabinet Office, give the Boar
 
 it may, with the consent of the Minister for the Cabinet Office, give the Board such directions as it considers appropriate to remedy the failure.
 
-(5) The Minister for the Cabinet Office may give the Board such directions as he considers appropriate for the purpose of implementing any assimilated[^key-e106f0556b89bf8ac498ccc6bf715992] obligation.
+(5) The Minister for the Cabinet Office may give the Board such directions as he considers appropriate for the purpose of implementing any assimilated[^c-e106f0556b89bf8ac498ccc6bf715992] obligation.
 
 (6) A direction under this section must be in writing.
 
@@ -80,6 +80,6 @@ it may, with the consent of the Minister for the Cabinet Office, give the Board 
 
 ## Annotations
 
-[^key-87a67f3d7bb7235ac293e46d65e0e975]: Commencement: S. 29 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-87a67f3d7bb7235ac293e46d65e0e975]: Commencement: S. 29 in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
-[^key-e106f0556b89bf8ac498ccc6bf715992]: Textual amendment: Word in [s. 29(5)](https://www.legislation.gov.uk/ukpga/2007/18/section/29/5) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 65(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/65/2)
+[^c-e106f0556b89bf8ac498ccc6bf715992]: Textual amendment: Word in [s. 29(5)](https://www.legislation.gov.uk/ukpga/2007/18/section/29/5) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 65(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/65/2)

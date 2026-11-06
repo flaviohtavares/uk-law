@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Directions under section 22: regulations about procedure[^key-0624c4a1639e07e6859908603153e2c2][^key-792406168335a89c2f5de60a2b4bca4d]
+## 26. Directions under section 22: regulations about procedure[^c-0624c4a1639e07e6859908603153e2c2][^c-792406168335a89c2f5de60a2b4bca4d]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ Regulations may make provision about the following procedural matters in connect
 
 ## Annotations
 
-[^key-0624c4a1639e07e6859908603153e2c2]: Commencement: S. 26 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-0624c4a1639e07e6859908603153e2c2]: Commencement: S. 26 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-792406168335a89c2f5de60a2b4bca4d]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2024/3/section/26) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-792406168335a89c2f5de60a2b4bca4d]: Commencement: [S. 26](https://www.legislation.gov.uk/asc/2024/3/section/26) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

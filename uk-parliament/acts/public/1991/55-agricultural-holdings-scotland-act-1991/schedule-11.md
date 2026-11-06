@@ -250,9 +250,9 @@ Section 88.
 
 *Extent: E+W+S*
 
-**43.**[^key-d35aa54533904eda6058047198cc194b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-d35aa54533904eda6058047198cc194b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-e1e4d0c277e2696d7279a7bb736f9fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-e1e4d0c277e2696d7279a7bb736f9fb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **45.** In section 18(6) for the words from “the absolute owner” to “1949” substitute “ the owner of the dominium utile ”.
 
@@ -267,21 +267,21 @@ Section 88.
 > - “**the 1955 Act**” means the Crofters (Scotland) Act 1955; and
 > - “**the 1991 Act**” means the Agricultural Holdings (Scotland) Act 1991.
 
-**48.**[^key-71d3209b034c28c062418bcb6ecb2415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-71d3209b034c28c062418bcb6ecb2415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**49.**[^key-71d3209b034c28c062418bcb6ecb2415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-71d3209b034c28c062418bcb6ecb2415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**50.**[^key-71d3209b034c28c062418bcb6ecb2415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-71d3209b034c28c062418bcb6ecb2415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**51.**[^key-71d3209b034c28c062418bcb6ecb2415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-71d3209b034c28c062418bcb6ecb2415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**52.**[^key-71d3209b034c28c062418bcb6ecb2415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-71d3209b034c28c062418bcb6ecb2415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**53.**[^key-71d3209b034c28c062418bcb6ecb2415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-71d3209b034c28c062418bcb6ecb2415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Housing (Scotland) Act 1987 (c. 26)
 
-**54.**[^key-7bb31d80a04b649415850ce51de1293c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-7bb31d80a04b649415850ce51de1293c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **55.** In section 338(1), in the definition of “agricultural holding”, for “Agricultural Holdings (Scotland) Act 1949” substitute “ Agricultural Holdings (Scotland) Act 1991 ”.
 
@@ -307,10 +307,10 @@ Section 88.
 
 [^c1033751]: Textual amendment: Sch. 11 para. 22 repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50) s. 1(1), Sch. 1 Pt.II.
 
-[^key-d35aa54533904eda6058047198cc194b]: Textual amendment: Sch. 11 para. 43 repealed (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/1)
+[^c-d35aa54533904eda6058047198cc194b]: Textual amendment: Sch. 11 para. 43 repealed (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/1)
 
-[^key-e1e4d0c277e2696d7279a7bb736f9fb1]: Textual amendment: Sch. 11 para. 44 repealed (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/1)
+[^c-e1e4d0c277e2696d7279a7bb736f9fb1]: Textual amendment: Sch. 11 para. 44 repealed (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/1)
 
-[^key-71d3209b034c28c062418bcb6ecb2415]: Textual amendment: Sch. 11 paras. 48-53 repealed (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/1)
+[^c-71d3209b034c28c062418bcb6ecb2415]: Textual amendment: Sch. 11 paras. 48-53 repealed (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/1)
 
-[^key-7bb31d80a04b649415850ce51de1293c]: Textual amendment: Sch. 11 para. 54 repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-7bb31d80a04b649415850ce51de1293c]: Textual amendment: Sch. 11 para. 54 repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

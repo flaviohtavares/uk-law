@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Amendment of regulation 5[^key-7a839d6850574fb439512a22559edf48]
+## 6. Amendment of regulation 5[^c-7a839d6850574fb439512a22559edf48]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 5 (additional prescribed conditions relating to contracts with den
 
 ## Annotations
 
-[^key-7a839d6850574fb439512a22559edf48]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/364/regulation/6) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-7a839d6850574fb439512a22559edf48]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/364/regulation/6) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

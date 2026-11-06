@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 460. Liquidity[^key-a9c2b7ca11ea9f40a12859c41cf2ff50]
+## Article 460. Liquidity[^c-a9c2b7ca11ea9f40a12859c41cf2ff50]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9c2b7ca11ea9f40a12859c41cf2ff50]: Textual amendment: [Art. 460](https://www.legislation.gov.uk/eur/2013/575/article/460) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [11(6)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/11/6)
+[^c-a9c2b7ca11ea9f40a12859c41cf2ff50]: Textual amendment: [Art. 460](https://www.legislation.gov.uk/eur/2013/575/article/460) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [11(6)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/11/6)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where a local authority have made a decision to approve a foster carer that authority must, by complying with the requirements in paragraph (2), carry out a review of the foster carer's approval–
 
-- (a) within 12 months of the day the decision to approve the foster carer was made under regulation 22(3), 23 , 26(8) or 27B(4)[^key-8531cbe76b594d3c92de4b5e2fb1d465];
+- (a) within 12 months of the day the decision to approve the foster carer was made under regulation 22(3), 23 , 26(8) or 27B(4)[^c-8531cbe76b594d3c92de4b5e2fb1d465];
 - (b) thereafter subsequent reviews within 3 years of the previous review; and
 - (c) whenever paragraph (8) applies.
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8531cbe76b594d3c92de4b5e2fb1d465]: Textual amendment: Words in [reg. 25(1)(a)](https://www.legislation.gov.uk/ssi/2009/210/regulation/25/1/a) substituted (31.3.2021) by [The Looked After Children (Scotland) Amendment Regulations 2021 (S.S.I. 2021/103)](https://www.legislation.gov.uk/ssi/2021/103), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2021/103/regulation/1/4), [3(7)](https://www.legislation.gov.uk/ssi/2021/103/regulation/3/7)
+[^c-8531cbe76b594d3c92de4b5e2fb1d465]: Textual amendment: Words in [reg. 25(1)(a)](https://www.legislation.gov.uk/ssi/2009/210/regulation/25/1/a) substituted (31.3.2021) by [The Looked After Children (Scotland) Amendment Regulations 2021 (S.S.I. 2021/103)](https://www.legislation.gov.uk/ssi/2021/103), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2021/103/regulation/1/4), [3(7)](https://www.legislation.gov.uk/ssi/2021/103/regulation/3/7)

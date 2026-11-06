@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Motor vehicles or trailers carrying loads of exceptional width: recognised category[^key-95a0dd0edbab37cc92f5f8f868fd7189]
+## 28. Motor vehicles or trailers carrying loads of exceptional width: recognised category[^c-95a0dd0edbab37cc92f5f8f868fd7189]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95a0dd0edbab37cc92f5f8f868fd7189]: Commencement: Art. 28 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-95a0dd0edbab37cc92f5f8f868fd7189]: Commencement: Art. 28 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

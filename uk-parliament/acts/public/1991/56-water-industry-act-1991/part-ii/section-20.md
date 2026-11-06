@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Procedure for enforcement orders.[^key-c236e6c9faf6a55cd4566d5e24e29dc6]
+## 20. Procedure for enforcement orders.[^c-c236e6c9faf6a55cd4566d5e24e29dc6]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ and shall consider any representations or objections which are duly made and not
 (2) A notice under subsection (1) or (1A)[^c19768081] above shall be given—
 
 - (a) by publishing the notice in such manner as the Secretary of State or, as the case may be, the Authority considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be affected by them; and
-- (b) by serving a copy of the notice, and a copy of the proposed order or of the order proposed to be confirmed, on the person to whom[^key-461419227b550daac8bc3325587aafc0] the order relates and, where the notice is given by the Secretary of State, on the Authority.
+- (b) by serving a copy of the notice, and a copy of the proposed order or of the order proposed to be confirmed, on the person to whom[^c-461419227b550daac8bc3325587aafc0] the order relates and, where the notice is given by the Secretary of State, on the Authority.
 
 (3) Neither the Secretary of State nor the Authority shall make a final enforcement order with modifications, or confirm a provisional enforcement order with modifications, except—
 
@@ -83,7 +83,7 @@ and shall consider any representations or objections which are duly made and not
 
 ## Annotations
 
-[^key-c236e6c9faf6a55cd4566d5e24e29dc6]: Modification: S. 20 applied (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/6/2) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-c236e6c9faf6a55cd4566d5e24e29dc6]: Modification: S. 20 applied (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/6/2) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
 [^c19768021]: Textual amendment: Words in s. 20(1) inserted (1.12.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/6/2/a); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
@@ -97,7 +97,7 @@ and shall consider any representations or objections which are duly made and not
 
 [^c19768081]: Textual amendment: Words in s. 20(2) inserted (1.12.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 6(4)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/6/4); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-461419227b550daac8bc3325587aafc0]: Textual amendment: Words in s. 20 substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/28); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-461419227b550daac8bc3325587aafc0]: Textual amendment: Words in s. 20 substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/28); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(j)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/j) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
 
 [^c19767951]: Textual amendment: Words in s. 20(4)(b) substituted (1.10.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 49(3)(4)](https://www.legislation.gov.uk/ukpga/2003/37/section/49/3/4), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/f)
 

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**175.**[^key-76d09f490c88a0489f7048fa682f03c6] In section 121 (general interpretation)—
+**175.**[^c-76d09f490c88a0489f7048fa682f03c6] In section 121 (general interpretation)—
 
 - (a) in subsection (1)—
   - (i) in the definition of “local authority foster parent” after “has the same meaning as in” insert “section 105(1) of”;
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76d09f490c88a0489f7048fa682f03c6]: Commencement: Reg. 175 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-76d09f490c88a0489f7048fa682f03c6]: Commencement: Reg. 175 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

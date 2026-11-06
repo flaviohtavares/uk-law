@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Performance of the Speaker's functions by others[^key-ea62197eded1ee4ef007782eac74d2b6]
+## 19. Performance of the Speaker's functions by others[^c-ea62197eded1ee4ef007782eac74d2b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea62197eded1ee4ef007782eac74d2b6]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2015/25/section/19) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-ea62197eded1ee4ef007782eac74d2b6]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2015/25/section/19) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.68. Application to punish for contempt of court[^key-d36208f7546578af2bfddad2f9548418]
+## 47.68. Application to punish for contempt of court[^c-d36208f7546578af2bfddad2f9548418]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d36208f7546578af2bfddad2f9548418]: Commencement: Rule 47.68 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d36208f7546578af2bfddad2f9548418]: Commencement: Rule 47.68 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01271]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54). The Act’s title was amended by section 59(5) of, and paragraph 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).

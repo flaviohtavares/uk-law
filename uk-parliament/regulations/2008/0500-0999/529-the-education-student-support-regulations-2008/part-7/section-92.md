@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Transfers[^key-ee3e1bd508ae4f68ddb88bb1760c54f4]
+## 92. Transfers[^c-ee3e1bd508ae4f68ddb88bb1760c54f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ Despite regulation 7, where a qualifying student transfers from one qualifying c
 
 ## Annotations
 
-[^key-ee3e1bd508ae4f68ddb88bb1760c54f4]: Commencement: Reg. 92 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-ee3e1bd508ae4f68ddb88bb1760c54f4]: Commencement: Reg. 92 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

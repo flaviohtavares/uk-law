@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Power of sheriff to order release of wellboats[^key-4d984074c74bb1cc0e7e19e21fc4d745]
+## 10. Power of sheriff to order release of wellboats[^c-4d984074c74bb1cc0e7e19e21fc4d745]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d984074c74bb1cc0e7e19e21fc4d745]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2013/7/section/10) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-4d984074c74bb1cc0e7e19e21fc4d745]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2013/7/section/10) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

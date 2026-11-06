@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Orders under the Transport and Works Act 1992[^key-96165b86b362b718833c5f1828f74fd2]
+## 89. Orders under the Transport and Works Act 1992[^c-96165b86b362b718833c5f1828f74fd2]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96165b86b362b718833c5f1828f74fd2]: Commencement: S. 89 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-96165b86b362b718833c5f1828f74fd2]: Commencement: S. 89 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

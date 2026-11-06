@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Amendment[^key-1aa30b6c5096d0d3bfcf96417d3e3404]
+## 13. Amendment[^c-1aa30b6c5096d0d3bfcf96417d3e3404]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ In the Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 
 
 ## Annotations
 
-[^key-1aa30b6c5096d0d3bfcf96417d3e3404]: Commencement: Reg. 13 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-1aa30b6c5096d0d3bfcf96417d3e3404]: Commencement: Reg. 13 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
 
 [^f00015]: Footnote: [S.R. 1991 No. 198](https://www.legislation.gov.uk/nisr/1991/198)

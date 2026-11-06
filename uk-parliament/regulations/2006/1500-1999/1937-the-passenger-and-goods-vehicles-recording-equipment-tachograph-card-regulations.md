@@ -54,18 +54,18 @@ These Regulations may be cited as the Passenger and Goods Vehicles (Recording Eq
 
 ## 2.
 
-(1)[^key-dbf4f5c79d63c798fe4e0ac51b939c85] In these Regulations—
+(1)[^c-dbf4f5c79d63c798fe4e0ac51b939c85] In these Regulations—
 
-- [^key-287351b8a1063896f1a16f2f404112ec]...
-- “**company card**”, “**control card**”, “**driver card**” and “**workshop card**” have the meanings given by Article 2 of the[^key-d26f2461b6cb3c8e502566ab30eb7d48] EU Tachographs Regulation;
-- “the[^key-82a2608d7182d5049410f5ed832758f4] EU Tachographs Regulation means Regulation (EU) No. 165/2014 of the European Parliament and of the Council on tachographs in road transport as read with the Community Drivers’ Hours and Recording Equipment Regulations 2007.
+- [^c-287351b8a1063896f1a16f2f404112ec]...
+- “**company card**”, “**control card**”, “**driver card**” and “**workshop card**” have the meanings given by Article 2 of the[^c-d26f2461b6cb3c8e502566ab30eb7d48] EU Tachographs Regulation;
+- “the[^c-82a2608d7182d5049410f5ed832758f4] EU Tachographs Regulation means Regulation (EU) No. 165/2014 of the European Parliament and of the Council on tachographs in road transport as read with the Community Drivers’ Hours and Recording Equipment Regulations 2007.
 - “**PIN**” means personal identification number for use in connection with a workshop card;
 - “**relevant vehicle**” means a vehicle in which there is recording equipment
   - (i) which has been installed in accordance with the Community Recording Equipment Regulation; and
   - (ii) complies with Annexes IB and II to that regulation; and
 - “**tachograph card**” means a company card, control card, driver card or workshop card.
 
-(2)[^key-fd88b3c755564843d020c78f6df5f757] A reference in these Regulations to Annex IB to the EU Tachographs Regulation has effect, until the coming into force of that Annex, as a reference to Annex IB to [Council Regulation (EEC) No. 3821/85](https://www.legislation.gov.uk/eur/1985/3821) on recording equipment in road transport as read with the Community Drivers’ Hours and Recording Equipment Regulations 2007.
+(2)[^c-fd88b3c755564843d020c78f6df5f757] A reference in these Regulations to Annex IB to the EU Tachographs Regulation has effect, until the coming into force of that Annex, as a reference to Annex IB to [Council Regulation (EEC) No. 3821/85](https://www.legislation.gov.uk/eur/1985/3821) on recording equipment in road transport as read with the Community Drivers’ Hours and Recording Equipment Regulations 2007.
 
 ## 3. Driver cards
 
@@ -214,12 +214,12 @@ A Regulatory Impact Assessment has not been prepared for this instrument as it h
 
 [^c15946951]: Marginal citation: 1972 .68.
 
-[^key-dbf4f5c79d63c798fe4e0ac51b939c85]: Textual amendment: Reg. 2(1): reg. 2 renumbered as reg. 2(1) (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/20/2)
+[^c-dbf4f5c79d63c798fe4e0ac51b939c85]: Textual amendment: Reg. 2(1): reg. 2 renumbered as reg. 2(1) (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/20/2)
 
-[^key-287351b8a1063896f1a16f2f404112ec]: Textual amendment: Words in reg. 2(1) omitted (2.3.2016) by virtue of [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [20(3)(a)](https://www.legislation.gov.uk/uksi/2016/248/regulation/20/3/a)
+[^c-287351b8a1063896f1a16f2f404112ec]: Textual amendment: Words in reg. 2(1) omitted (2.3.2016) by virtue of [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [20(3)(a)](https://www.legislation.gov.uk/uksi/2016/248/regulation/20/3/a)
 
-[^key-d26f2461b6cb3c8e502566ab30eb7d48]: Textual amendment: Words in reg. 2(1) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [20(3)(b)](https://www.legislation.gov.uk/uksi/2016/248/regulation/20/3/b)
+[^c-d26f2461b6cb3c8e502566ab30eb7d48]: Textual amendment: Words in reg. 2(1) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [20(3)(b)](https://www.legislation.gov.uk/uksi/2016/248/regulation/20/3/b)
 
-[^key-82a2608d7182d5049410f5ed832758f4]: Textual amendment: Words in reg. 2(1) inserted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [20(3)(a)](https://www.legislation.gov.uk/uksi/2016/248/regulation/20/3/a)
+[^c-82a2608d7182d5049410f5ed832758f4]: Textual amendment: Words in reg. 2(1) inserted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [20(3)(a)](https://www.legislation.gov.uk/uksi/2016/248/regulation/20/3/a)
 
-[^key-fd88b3c755564843d020c78f6df5f757]: Textual amendment: Reg. 2(2) inserted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2016/248/regulation/20/4)
+[^c-fd88b3c755564843d020c78f6df5f757]: Textual amendment: Reg. 2(2) inserted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2016/248/regulation/20/4)

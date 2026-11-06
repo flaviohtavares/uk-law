@@ -22,7 +22,7 @@ summary: ''
 
 Section 25
 
-### 1. Customer information orders[^key-f58dfeb4f641dbfaee6d3797d7404b47][^key-49b5fffdee53b44cff98daf2b313a9f3]
+### 1. Customer information orders[^c-f58dfeb4f641dbfaee6d3797d7404b47][^c-49b5fffdee53b44cff98daf2b313a9f3]
 
 (1) An appropriate officer may apply to a judge for a customer information order.
 
@@ -57,15 +57,15 @@ Section 25
 
 (10) Sub-paragraph (9) does not apply in relation to Scotland.
 
-### 2. Supplementary provision[^key-995419feb746c5f658e82cda79a1442c][^key-e8c04c81f0f674402cb4f05558a7a423]
+### 2. Supplementary provision[^c-995419feb746c5f658e82cda79a1442c][^c-e8c04c81f0f674402cb4f05558a7a423]
 
 A customer information order has effect despite any obligation as to secrecy or other restriction on the disclosure of information imposed by an enactment or otherwise.
 
-### 3. Applications[^key-a69338ad227f85d9b6accb1783d23a44][^key-641120f9a62e793c61f6f31f97c897d9]
+### 3. Applications[^c-a69338ad227f85d9b6accb1783d23a44][^c-641120f9a62e793c61f6f31f97c897d9]
 
 An application for a customer information order may be made without notice to a judge in chambers.
 
-### 4. Discharge or variation[^key-1569bfeb4bb8c6803dbadc33d9734eec][^key-c4424348638df22cb7a026c422e538ad]
+### 4. Discharge or variation[^c-1569bfeb4bb8c6803dbadc33d9734eec][^c-c4424348638df22cb7a026c422e538ad]
 
 (1) An application to discharge or vary a customer information order may be made to the court by—
 
@@ -85,13 +85,13 @@ An application for a customer information order may be made without notice to a 
 - (a) discharge the order;
 - (b) vary the order.
 
-### 5. Rules of court[^key-f336d2536c511ffe6142d9db5563549f][^key-a449d57607070b3050f2c8d27bfd1c76]
+### 5. Rules of court[^c-f336d2536c511ffe6142d9db5563549f][^c-a449d57607070b3050f2c8d27bfd1c76]
 
 (1) Rules of court may make provision as to the practice and procedure to be followed in connection with proceedings relating to customer information orders.
 
 (2) In Scotland rules of court are, without prejudice to section 305 of the Criminal Procedure (Scotland) Act 1995, to be made by Act of Adjournal.
 
-### 6. Offences[^key-7ba40130e4b3369b16e9493e88244eea][^key-5ef4ece1dc2958ad30d26b6b5655e9ff]
+### 6. Offences[^c-7ba40130e4b3369b16e9493e88244eea][^c-5ef4ece1dc2958ad30d26b6b5655e9ff]
 
 (1) A person commits an offence if without reasonable excuse the person fails to comply with a requirement imposed under a customer information order.
 
@@ -101,7 +101,7 @@ An application for a customer information order may be made without notice to a 
 - (b) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both);
 - (c) on summary conviction in Scotland, to imprisonment for a term not exceeding 6 months or a fine not exceeding level 5 on the standard scale (or both).
 
-### 7. Statements[^key-df6ce852942ff0ac4ec5de738c82c115][^key-3377570912e625f429f5bed91fd13dbf]
+### 7. Statements[^c-df6ce852942ff0ac4ec5de738c82c115][^c-3377570912e625f429f5bed91fd13dbf]
 
 (1) A statement made by a person in response to a requirement imposed under a customer information order may not be used in evidence against them in criminal proceedings.
 
@@ -114,7 +114,7 @@ An application for a customer information order may be made without notice to a 
 
 by or on behalf of the person in the proceedings arising out of the prosecution.
 
-### 8. Interpretation[^key-41b96801875f27b12de75351c539bf38][^key-265aa370d5519fef9889ec02b8b8a3ed]
+### 8. Interpretation[^c-41b96801875f27b12de75351c539bf38][^c-265aa370d5519fef9889ec02b8b8a3ed]
 
 (1) This paragraph applies for the interpretation of this Schedule.
 
@@ -145,34 +145,34 @@ by or on behalf of the person in the proceedings arising out of the prosecution.
 
 ## Annotations
 
-[^key-f58dfeb4f641dbfaee6d3797d7404b47]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see 100(1)
+[^c-f58dfeb4f641dbfaee6d3797d7404b47]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see 100(1)
 
-[^key-49b5fffdee53b44cff98daf2b313a9f3]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-49b5fffdee53b44cff98daf2b313a9f3]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/1) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-995419feb746c5f658e82cda79a1442c]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see 100(1)
+[^c-995419feb746c5f658e82cda79a1442c]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see 100(1)
 
-[^key-e8c04c81f0f674402cb4f05558a7a423]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-e8c04c81f0f674402cb4f05558a7a423]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/2) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-a69338ad227f85d9b6accb1783d23a44]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see 100(1)
+[^c-a69338ad227f85d9b6accb1783d23a44]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see 100(1)
 
-[^key-641120f9a62e793c61f6f31f97c897d9]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-641120f9a62e793c61f6f31f97c897d9]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/3) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-1569bfeb4bb8c6803dbadc33d9734eec]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see 100(1)
+[^c-1569bfeb4bb8c6803dbadc33d9734eec]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see 100(1)
 
-[^key-c4424348638df22cb7a026c422e538ad]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/4) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-c4424348638df22cb7a026c422e538ad]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/4) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-f336d2536c511ffe6142d9db5563549f]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see 100(1)
+[^c-f336d2536c511ffe6142d9db5563549f]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see 100(1)
 
-[^key-a449d57607070b3050f2c8d27bfd1c76]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/5) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-a449d57607070b3050f2c8d27bfd1c76]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/5) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-7ba40130e4b3369b16e9493e88244eea]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see 100(1)
+[^c-7ba40130e4b3369b16e9493e88244eea]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see 100(1)
 
-[^key-5ef4ece1dc2958ad30d26b6b5655e9ff]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/6) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-5ef4ece1dc2958ad30d26b6b5655e9ff]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/6) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-df6ce852942ff0ac4ec5de738c82c115]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see 100(1)
+[^c-df6ce852942ff0ac4ec5de738c82c115]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see 100(1)
 
-[^key-3377570912e625f429f5bed91fd13dbf]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/7) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-3377570912e625f429f5bed91fd13dbf]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/7) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-41b96801875f27b12de75351c539bf38]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see 100(1)
+[^c-41b96801875f27b12de75351c539bf38]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see 100(1)
 
-[^key-265aa370d5519fef9889ec02b8b8a3ed]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/8) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-265aa370d5519fef9889ec02b8b8a3ed]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2023/32/schedule/4/paragraph/8) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

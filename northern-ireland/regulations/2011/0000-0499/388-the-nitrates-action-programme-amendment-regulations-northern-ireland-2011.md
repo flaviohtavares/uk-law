@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Nitrates Action Programme (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^key-beae91a4f500563fc872227c3fc36930]
+The Nitrates Action Programme (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^c-beae91a4f500563fc872227c3fc36930]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 24th November 2011
 
-[^key-beae91a4f500563fc872227c3fc36930]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-beae91a4f500563fc872227c3fc36930]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-beae91a4f500563fc872227c3fc36930]
+## 1. Citation and commencement[^c-beae91a4f500563fc872227c3fc36930]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-beae91a4f500563fc872227c3fc36930]
+## 2. Interpretation[^c-beae91a4f500563fc872227c3fc36930]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Nitrates Action Programme Regulations (Northern Ireland) 2010[^key-beae91a4f500563fc872227c3fc36930]
+## 3. Amendments to the Nitrates Action Programme Regulations (Northern Ireland) 2010[^c-beae91a4f500563fc872227c3fc36930]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-beae91a4f500563fc872227c3fc36930]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-beae91a4f500563fc872227c3fc36930]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-beae91a4f500563fc872227c3fc36930]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-beae91a4f500563fc872227c3fc36930]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-beae91a4f500563fc872227c3fc36930]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2011/388) revoked (1.1.2015) by [The Nitrates Action Programme Regulations (Northern Ireland) 2014 (S.R. 2014/307)](https://www.legislation.gov.uk/nisr/2014/307), [reg. 36(1)(b)](https://www.legislation.gov.uk/nisr/2014/307/regulation/36/1/b) (with [reg. 34](https://www.legislation.gov.uk/nisr/2014/307/regulation/34))
+[^c-beae91a4f500563fc872227c3fc36930]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2011/388) revoked (1.1.2015) by [The Nitrates Action Programme Regulations (Northern Ireland) 2014 (S.R. 2014/307)](https://www.legislation.gov.uk/nisr/2014/307), [reg. 36(1)(b)](https://www.legislation.gov.uk/nisr/2014/307/regulation/36/1/b) (with [reg. 34](https://www.legislation.gov.uk/nisr/2014/307/regulation/34))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Regulation (EU) 2017/2403 of the European Parliament and of the Council on the sustainable management of external fishing fleets[^key-b023af696c1edab2ddd7fcb6cc247d89]
+## 8. Regulation (EU) 2017/2403 of the European Parliament and of the Council on the sustainable management of external fishing fleets[^c-b023af696c1edab2ddd7fcb6cc247d89]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 - (a) for point (b) substitute—
 
   > - (b) ‘fishing authorisation’ means—
-  >   - (i) in respect of a United Kingdom fishing vessel, an authorisation within the meaning of point 10 of Article 4 of the Control Regulation or an authorisation[^key-14bd7525a0040b0e293450c00230169a] issued by a third country entitling a United Kingdom fishing vessel to carry out specific fishing operations in the waters under the sovereignty or jurisdiction of that third country, during a specified period, in a given area or for a given fishery under specific conditions; and
+  >   - (i) in respect of a United Kingdom fishing vessel, an authorisation within the meaning of point 10 of Article 4 of the Control Regulation or an authorisation[^c-14bd7525a0040b0e293450c00230169a] issued by a third country entitling a United Kingdom fishing vessel to carry out specific fishing operations in the waters under the sovereignty or jurisdiction of that third country, during a specified period, in a given area or for a given fishery under specific conditions; and
   >   - (ii) in respect of a third country vessel, an authorisation issued by a fisheries administration entitling the third country vessel to carry out fishing operations in United Kingdom waters during a specified period, in a given area or for a given fishery under specific conditions. Such an authorisation may be by way of, or contained in, a licence issued by the fisheries administration;
 
   ;
@@ -116,7 +116,7 @@ summary: ''
 
 (18) In Article 17—
 
-- (a) in the heading omit “by the flag Member States[^key-9bddd8893eb3d375e674b7688abe2607] ”;
+- (a) in the heading omit “by the flag Member States[^c-9bddd8893eb3d375e674b7688abe2607] ”;
 - (b) in paragraph 1 for “flag Member State” substitute “ fisheries administration ”;
 - (c) in paragraph 2 for “The flag Member State shall” substitute “ A fisheries administration must ”; and
 - (d) in paragraph 3 for “of a Member State or of the Union” substitute “ in the United Kingdom ”.
@@ -139,7 +139,7 @@ summary: ''
 
 (23) In Article 21—
 
-- (a) in the heading omit “by the flag Member States[^key-58d656786ab036011df247d7cd45e769] ”;
+- (a) in the heading omit “by the flag Member States[^c-58d656786ab036011df247d7cd45e769] ”;
 - (b) for “flag Member State” substitute “ fisheries administration ”; and
 - (c) in point (b), for “transposing Union law” substitute “ relevant laws transposing them ”.
 
@@ -151,7 +151,7 @@ summary: ''
 
 (27) In Article 24—
 
-- (a) in the heading omit “by the flag Member States[^key-eeb1c9c15067f5d5f3b2110e5fa31987] ”;
+- (a) in the heading omit “by the flag Member States[^c-eeb1c9c15067f5d5f3b2110e5fa31987] ”;
 - (b) for “flag Member State” substitute “ fisheries administration ”; and
 - (c) in point (b) for “flag Member State” in each place it occurs, substitute “ United Kingdom ”.
 
@@ -236,7 +236,7 @@ summary: ''
 (41) In Article 36—
 
 - (a) in paragraph 1—
-  - (i) for “the Commission” in the first[^key-9cf358fd16cf2fd43a6bd742a27b9913] place it occurs, substitute “ a fisheries administration ”,
+  - (i) for “the Commission” in the first[^c-9cf358fd16cf2fd43a6bd742a27b9913] place it occurs, substitute “ a fisheries administration ”,
   - (ii) omit “and the competent inspection authorities of the Member States”, and
   - (iii) omit the final sentence; and
 - (b) omit paragraph 4.
@@ -265,14 +265,14 @@ summary: ''
 
 ## Annotations
 
-[^key-b023af696c1edab2ddd7fcb6cc247d89]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-b023af696c1edab2ddd7fcb6cc247d89]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
 
-[^key-14bd7525a0040b0e293450c00230169a]: Textual amendment: Words in [reg. 8(4)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/8/4/a) inserted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/8/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14bd7525a0040b0e293450c00230169a]: Textual amendment: Words in [reg. 8(4)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/8/4/a) inserted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/8/2/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9bddd8893eb3d375e674b7688abe2607]: Textual amendment: Word in [reg. 8(18)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/8/18/a) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/8/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9bddd8893eb3d375e674b7688abe2607]: Textual amendment: Word in [reg. 8(18)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/8/18/a) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/8/2/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-58d656786ab036011df247d7cd45e769]: Textual amendment: Word in [reg. 8(23)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/8/23/a) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [8(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/8/2/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58d656786ab036011df247d7cd45e769]: Textual amendment: Word in [reg. 8(23)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/8/23/a) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [8(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/8/2/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eeb1c9c15067f5d5f3b2110e5fa31987]: Textual amendment: Word in [reg. 8(27)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/8/27/a) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [8(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/8/2/b/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eeb1c9c15067f5d5f3b2110e5fa31987]: Textual amendment: Word in [reg. 8(27)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/8/27/a) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [8(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/8/2/b/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9cf358fd16cf2fd43a6bd742a27b9913]: Textual amendment: Words in [reg. 8(41)(a)(i)](https://www.legislation.gov.uk/uksi/2019/739/regulation/8/41/a/i) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [8(2)(b)(v)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/8/2/b/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9cf358fd16cf2fd43a6bd742a27b9913]: Textual amendment: Words in [reg. 8(41)(a)(i)](https://www.legislation.gov.uk/uksi/2019/739/regulation/8/41/a/i) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [8(2)(b)(v)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/8/2/b/v); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

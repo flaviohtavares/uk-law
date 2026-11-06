@@ -26,7 +26,7 @@ summary: ''
 
 (1ZB) The maximum amount is £600 together with 5p for every entry in the register of electors.
 
-(1ZC)[^key-2e1b018ed9017e1771422d8085c52f3e] The maximum amount specified in subsection (1ZB) for a candidate at a local election is not required to cover the candidate’s personal expenses.
+(1ZC)[^c-2e1b018ed9017e1771422d8085c52f3e] The maximum amount specified in subsection (1ZB) for a candidate at a local election is not required to cover the candidate’s personal expenses.
 
 (1A)[^c18657621] In subsection (1ZA)[^c21916831] the register of electors means the register of local electors for the district electoral area in question as it has effect on the last day for publication of notice of the election.
 
@@ -77,7 +77,7 @@ the excess shall be deemed to have arisen from a reasonable cause for the purpos
 
 [^c21916811]: Textual amendment: [S. 42(1ZA)(1ZB)](https://www.legislation.gov.uk/apni/1962/14/section/42/1ZA/1ZB) inserted (16.12.2010) by [Local Elections (Northern Ireland) Order 2010 (S.I. 2010/2977)](https://www.legislation.gov.uk/uksi/2010/2977), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/2977/article/4), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/uksi/2010/2977/schedule/1/paragraph/11/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2977/article/1/3))
 
-[^key-2e1b018ed9017e1771422d8085c52f3e]: Textual amendment: [S. 42(1ZC)](https://www.legislation.gov.uk/apni/1962/14/section/42/1ZC) inserted (14.3.2019) by [The Local Elections (Northern Ireland) (Election Expenses) Order 2019 (S.I. 2019/564)](https://www.legislation.gov.uk/uksi/2019/564), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/564/article/1/2), [2](https://www.legislation.gov.uk/uksi/2019/564/article/2)
+[^c-2e1b018ed9017e1771422d8085c52f3e]: Textual amendment: [S. 42(1ZC)](https://www.legislation.gov.uk/apni/1962/14/section/42/1ZC) inserted (14.3.2019) by [The Local Elections (Northern Ireland) (Election Expenses) Order 2019 (S.I. 2019/564)](https://www.legislation.gov.uk/uksi/2019/564), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2019/564/article/1/2), [2](https://www.legislation.gov.uk/uksi/2019/564/article/2)
 
 [^c18657621]: Textual amendment: SI 2001/417
 

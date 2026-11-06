@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Introduction[^key-c96823729733a8d1ba325d1ebc37c8a8]
+## 146. Introduction[^c-c96823729733a8d1ba325d1ebc37c8a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Amend the Insurance Companies (Reserves) (Tax) Regulations 1996 in accordance wi
 
 ## Annotations
 
-[^key-c96823729733a8d1ba325d1ebc37c8a8]: Commencement: Art. 146 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-c96823729733a8d1ba325d1ebc37c8a8]: Commencement: Art. 146 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Interpretation in relation to Part[^key-46b95a7fc7a5d1f0a80361e57fdb07a2]
+## 122. Interpretation in relation to Part[^c-46b95a7fc7a5d1f0a80361e57fdb07a2]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ In this Part—
 
 ## Annotations
 
-[^key-46b95a7fc7a5d1f0a80361e57fdb07a2]: Commencement: [Reg. 122](https://www.legislation.gov.uk/ssi/2015/19/regulation/122) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-46b95a7fc7a5d1f0a80361e57fdb07a2]: Commencement: [Reg. 122](https://www.legislation.gov.uk/ssi/2015/19/regulation/122) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

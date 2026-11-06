@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Employment Rights (Northern Ireland) Order 1996[^key-8ce2f287a0f56ac6bdbfb1dc7d0ce6f0]
+## 143. Employment Rights (Northern Ireland) Order 1996[^c-8ce2f287a0f56ac6bdbfb1dc7d0ce6f0]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ In the Employment Rights (Northern Ireland) Order 1996[^f00230] in each of the f
 
 ## Annotations
 
-[^key-8ce2f287a0f56ac6bdbfb1dc7d0ce6f0]: Commencement: Reg. 143 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-8ce2f287a0f56ac6bdbfb1dc7d0ce6f0]: Commencement: Reg. 143 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00230]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 

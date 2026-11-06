@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9.46. Communication of information: Practice Direction 9B[^key-5f6b763dfe25bfabfc70349d8e870710]
+## 9.46. Communication of information: Practice Direction 9B[^c-5f6b763dfe25bfabfc70349d8e870710]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f6b763dfe25bfabfc70349d8e870710]: Textual amendment: [Pt. 9 Ch. 10](https://www.legislation.gov.uk/uksi/2010/2955/part/9/chapter/10) inserted (7.12.2015) by [The Family Procedure (Amendment No. 3) Rules 2015 (S.I. 2015/1868)](https://www.legislation.gov.uk/uksi/2015/1868), [rules 1(2)](https://www.legislation.gov.uk/uksi/2015/1868/rule/1/2), [7](https://www.legislation.gov.uk/uksi/2015/1868/rule/7)
+[^c-5f6b763dfe25bfabfc70349d8e870710]: Textual amendment: [Pt. 9 Ch. 10](https://www.legislation.gov.uk/uksi/2010/2955/part/9/chapter/10) inserted (7.12.2015) by [The Family Procedure (Amendment No. 3) Rules 2015 (S.I. 2015/1868)](https://www.legislation.gov.uk/uksi/2015/1868), [rules 1(2)](https://www.legislation.gov.uk/uksi/2015/1868/rule/1/2), [7](https://www.legislation.gov.uk/uksi/2015/1868/rule/7)

@@ -34,7 +34,7 @@ Regulations made by the Department for Communities and laid before the Assembly 
 
 Pensions
 
-The Pensions Dashboards Regulations (Northern Ireland) 2023 (revoked)[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+The Pensions Dashboards Regulations (Northern Ireland) 2023 (revoked)[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 Made
 
@@ -44,220 +44,220 @@ Coming into operation
 
 10th June 2023
 
-[^key-7cddf1ea3c6ef79e40e808f214badcb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7cddf1ea3c6ef79e40e808f214badcb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+## PART 1 — General[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
-### 1. Citation and commencement[^key-7cddf1ea3c6ef79e40e808f214badcb0]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 1. Citation and commencement[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 2. Interpretation[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Dashboards Available Point[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 3. Application[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Oversight of standards[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 4. Dashboards Available Point[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Prescribed requirements for qualifying pensions dashboard services[^key-7cddf1ea3c6ef79e40e808f214badcb0]
-
-### 6. Qualifying pensions dashboard services[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 5. Oversight of standards[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Cooperation – providers[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+## PART 2 — Prescribed requirements for qualifying pensions dashboard services[^c-7cddf1ea3c6ef79e40e808f214badcb0]
+
+### 6. Qualifying pensions dashboard services[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Connection and functionality[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 7. Cooperation – providers[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. View data[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 8. Connection and functionality[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. State pension information[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 9. View data[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Operational information and reporting[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 10. State pension information[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Information on making a complaint[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 11. Operational information and reporting[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Enabling auditing[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 12. Information on making a complaint[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Requirements relating to trustees or managers of relevant occupational pension schemes[^key-7cddf1ea3c6ef79e40e808f214badcb0]
-
-### CHAPTER 1 — Requirements relating to cooperation and connection[^key-7cddf1ea3c6ef79e40e808f214badcb0]
-
-#### 14. Cooperation – trustees or managers[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 13. Enabling auditing[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Connection according to the connection deadline[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+## PART 3 — Requirements relating to trustees or managers of relevant occupational pension schemes[^c-7cddf1ea3c6ef79e40e808f214badcb0]
+
+### CHAPTER 1 — Requirements relating to cooperation and connection[^c-7cddf1ea3c6ef79e40e808f214badcb0]
+
+#### 14. Cooperation – trustees or managers[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Voluntary connection[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+#### 15. Connection according to the connection deadline[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Deferred connection[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+#### 16. Voluntary connection[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Connection for new or growing schemes[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+#### 17. Deferred connection[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Connection where these Regulations cease to apply and then apply again[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+#### 18. Connection for new or growing schemes[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Connection affected by an assessment period[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+#### 19. Connection where these Regulations cease to apply and then apply again[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Notification of disconnection[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+#### 20. Connection affected by an assessment period[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 2 — Requirements following connection of a pension scheme[^key-7cddf1ea3c6ef79e40e808f214badcb0]
-
-#### 22. Requirements relating to the provision of pensions information[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+#### 21. Notification of disconnection[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Find requests, matching, pension identifiers and view requests[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### CHAPTER 2 — Requirements following connection of a pension scheme[^c-7cddf1ea3c6ef79e40e808f214badcb0]
+
+#### 22. Requirements relating to the provision of pensions information[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. Administrative data[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+#### 23. Find requests, matching, pension identifiers and view requests[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. Signpost data[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+#### 24. Administrative data[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26. Value data[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+#### 25. Signpost data[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 27. Contextual information[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+#### 26. Value data[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 28. Operational information and reporting[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+#### 27. Contextual information[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Compliance and enforcement[^key-7cddf1ea3c6ef79e40e808f214badcb0]
-
-### 29. Compliance notices[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+#### 28. Operational information and reporting[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Third party compliance notices[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+## PART 4 — Compliance and enforcement[^c-7cddf1ea3c6ef79e40e808f214badcb0]
+
+### 29. Compliance notices[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Penalty notices[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 30. Third party compliance notices[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Penalty notices: recovery[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 31. Penalty notices[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Penalty notices: recovery from bodies corporate and Scottish partnerships[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 32. Penalty notices: recovery[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Review of notices[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 33. Penalty notices: recovery from bodies corporate and Scottish partnerships[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. References to the First-tier Tribunal or Upper Tribunal[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 34. Review of notices[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Disclosure of information[^key-7cddf1ea3c6ef79e40e808f214badcb0]
-
-### 36. Disclosure of information[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 35. References to the First-tier Tribunal or Upper Tribunal[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — Revocation[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+## PART 5 — Disclosure of information[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
-### 37. Revocation[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### 36. Disclosure of information[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cddf1ea3c6ef79e40e808f214badcb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 6 — Revocation[^c-7cddf1ea3c6ef79e40e808f214badcb0]
+
+### 37. Revocation[^c-7cddf1ea3c6ef79e40e808f214badcb0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7cddf1ea3c6ef79e40e808f214badcb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Interpretation[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+## SCHEDULE 1 — Interpretation[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Staging profile[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+## SCHEDULE 2 — Staging profile[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 Regulation 15(2)(a)
 
-### ...[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### ...[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Value data[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+## SCHEDULE 3 — Value data[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
 Regulation 26(1) and (2)
 
-### PART 1 — Value data requirements[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### PART 1 — Value data requirements[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
-**1.**[^key-7cddf1ea3c6ef79e40e808f214badcb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7cddf1ea3c6ef79e40e808f214badcb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7cddf1ea3c6ef79e40e808f214badcb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7cddf1ea3c6ef79e40e808f214badcb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7cddf1ea3c6ef79e40e808f214badcb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7cddf1ea3c6ef79e40e808f214badcb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7cddf1ea3c6ef79e40e808f214badcb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7cddf1ea3c6ef79e40e808f214badcb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7cddf1ea3c6ef79e40e808f214badcb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7cddf1ea3c6ef79e40e808f214badcb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7cddf1ea3c6ef79e40e808f214badcb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7cddf1ea3c6ef79e40e808f214badcb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Exemption from certain projected value data requirements[^key-7cddf1ea3c6ef79e40e808f214badcb0]
+### PART 2 — Exemption from certain projected value data requirements[^c-7cddf1ea3c6ef79e40e808f214badcb0]
 
-**7.**[^key-7cddf1ea3c6ef79e40e808f214badcb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7cddf1ea3c6ef79e40e808f214badcb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7cddf1ea3c6ef79e40e808f214badcb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7cddf1ea3c6ef79e40e808f214badcb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7cddf1ea3c6ef79e40e808f214badcb0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/91) revoked (8.12.2023) by [The Pensions Dashboards (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/209)](https://www.legislation.gov.uk/nisr/2023/209), [regs. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1), [37(a)](https://www.legislation.gov.uk/nisr/2023/209/regulation/37/a)
+[^c-7cddf1ea3c6ef79e40e808f214badcb0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/91) revoked (8.12.2023) by [The Pensions Dashboards (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/209)](https://www.legislation.gov.uk/nisr/2023/209), [regs. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1), [37(a)](https://www.legislation.gov.uk/nisr/2023/209/regulation/37/a)

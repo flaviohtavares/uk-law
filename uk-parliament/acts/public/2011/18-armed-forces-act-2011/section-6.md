@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Ministry of Defence Police: performance regulations[^key-9944a49635fb43b448557f251d8c3504]
+## 6. Ministry of Defence Police: performance regulations[^c-9944a49635fb43b448557f251d8c3504]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 3A of the Ministry of Defence Police Act 1987 (regulations relating t
 
 ## Annotations
 
-[^key-9944a49635fb43b448557f251d8c3504]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2011/18/section/6) in force at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)
+[^c-9944a49635fb43b448557f251d8c3504]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2011/18/section/6) in force at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)

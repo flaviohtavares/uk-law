@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10P. Long duration electricity storage[^key-645fc8220ee78d38fd14e30ec170e48a]
+## 10P. Long duration electricity storage[^c-645fc8220ee78d38fd14e30ec170e48a]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-645fc8220ee78d38fd14e30ec170e48a]: Textual amendment: [S. 10P](https://www.legislation.gov.uk/ukpga/1989/29/section/10P) and cross-heading inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 26](https://www.legislation.gov.uk/ukpga/2025/34/section/26), [118(1)(m)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/m) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-645fc8220ee78d38fd14e30ec170e48a]: Textual amendment: [S. 10P](https://www.legislation.gov.uk/ukpga/1989/29/section/10P) and cross-heading inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 26](https://www.legislation.gov.uk/ukpga/2025/34/section/26), [118(1)(m)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/m) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

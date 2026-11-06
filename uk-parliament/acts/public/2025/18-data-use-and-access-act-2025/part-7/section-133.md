@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Co-operation between supervisory authority and overseas authorities[^key-97b15f4f926e9dd3fe1c4e4d132babb8]
+## 133. Co-operation between supervisory authority and overseas authorities[^c-97b15f4f926e9dd3fe1c4e4d132babb8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) In paragraph 1, for “public authority in the EU” substitute “designated overseas authority”.
 
-(4)[^key-4798baeb0e9cad8beb147f1a1aae2a39] In paragraph 2, for “other than in accordance with the data protection legislation” substitute “if the processing would contravene the data protection legislation (but in determining whether processing would do so, take into account the power conferred by that paragraph)”.
+(4)[^c-4798baeb0e9cad8beb147f1a1aae2a39] In paragraph 2, for “other than in accordance with the data protection legislation” substitute “if the processing would contravene the data protection legislation (but in determining whether processing would do so, take into account the power conferred by that paragraph)”.
 
 (5) After paragraph 2 insert—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-97b15f4f926e9dd3fe1c4e4d132babb8]: Commencement: S. 133 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-97b15f4f926e9dd3fe1c4e4d132babb8]: Commencement: S. 133 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-4798baeb0e9cad8beb147f1a1aae2a39]: Commencement: [S. 133(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/133/4) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z5)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z5)
+[^c-4798baeb0e9cad8beb147f1a1aae2a39]: Commencement: [S. 133(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/133/4) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z5)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z5)

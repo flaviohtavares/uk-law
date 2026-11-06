@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3B. Annual targets: further rules on recalculation[^key-8f2be564a684dcdffb829267988df8e3]
+## 3B. Annual targets: further rules on recalculation[^c-8f2be564a684dcdffb829267988df8e3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f2be564a684dcdffb829267988df8e3]: Textual amendment: [S. 3B](https://www.legislation.gov.uk/asp/2009/12/section/3B) repealed (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(8)](https://www.legislation.gov.uk/asp/2024/15/section/2/8), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-8f2be564a684dcdffb829267988df8e3]: Textual amendment: [S. 3B](https://www.legislation.gov.uk/asp/2009/12/section/3B) repealed (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(8)](https://www.legislation.gov.uk/asp/2024/15/section/2/8), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Consequential amendments relating to minimum sentences[^key-98dcdfd821df03000e139c602cb6d757]
+## 49. Consequential amendments relating to minimum sentences[^c-98dcdfd821df03000e139c602cb6d757]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 (which makes provision consequential on the provisions of this Part r
 
 ## Annotations
 
-[^key-98dcdfd821df03000e139c602cb6d757]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2006/38/section/49) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(g)](https://www.legislation.gov.uk/uksi/2007/858/article/2/g)
+[^c-98dcdfd821df03000e139c602cb6d757]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2006/38/section/49) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(g)](https://www.legislation.gov.uk/uksi/2007/858/article/2/g)

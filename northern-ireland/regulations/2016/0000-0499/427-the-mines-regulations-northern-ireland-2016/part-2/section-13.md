@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Permits to work[^key-72037e4785364cc4b7feda099606f440]
+## 13. Permits to work[^c-72037e4785364cc4b7feda099606f440]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72037e4785364cc4b7feda099606f440]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2016/427/regulation/13) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-72037e4785364cc4b7feda099606f440]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2016/427/regulation/13) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

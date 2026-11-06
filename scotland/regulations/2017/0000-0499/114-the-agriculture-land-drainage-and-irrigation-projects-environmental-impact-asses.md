@@ -50,15 +50,15 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and all other powers enabling them to do so.
 
-They have taken into account the selection criteria in Annex III to [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment[^f00002].[^key-7421ec6d64bca4ffcbdb8349d3662c90]
+They have taken into account the selection criteria in Annex III to [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) of the European Parliament and of the Council on the assessment of the effects of certain public and private projects on the environment[^f00002].[^c-7421ec6d64bca4ffcbdb8349d3662c90]
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation and commencement[^key-f0cc38f85ef5677af0cb4eb08d29218f]
+### 1. Citation and commencement[^c-f0cc38f85ef5677af0cb4eb08d29218f]
 
 These Regulations may be cited as the Agriculture, Land Drainage and Irrigation Projects (Environmental Impact Assessment) (Scotland) Regulations 2017 and come into force on 16th May 2017.
 
-### 2. Interpretation[^key-a4e65e6cbd5ca4acd195d7b6229c516b]
+### 2. Interpretation[^c-a4e65e6cbd5ca4acd195d7b6229c516b]
 
 (1) In these Regulations—
 
@@ -90,7 +90,7 @@ These Regulations may be cited as the Agriculture, Land Drainage and Irrigation 
 - “improvement order” means an order made by the Scottish Ministers in accordance with the first schedule of the Land Drainage (Scotland) Act 1958[^f00007];
 - “interested person” means a person who notifies the Scottish Ministers in accordance with regulation 30(6) (appeals to the Scottish Ministers) of that person’s wish to make representations in respect of an appeal;
 - “multi-stage consent” means an approval, consent or agreement given pursuant to an application for multi-stage consent;
-- “project” means—[^key-49ac98fbb64791c9f4189f1d03705bf4]
+- “project” means—[^c-49ac98fbb64791c9f4189f1d03705bf4]
   - (a) the execution of construction works or other installations or schemes; or
   - (b) other interventions in the natural surroundings and landscape,
 
@@ -102,7 +102,7 @@ These Regulations may be cited as the Agriculture, Land Drainage and Irrigation 
     - (iv) drainage;
 - “relevant assessment” means, in relation to a project, an assessment, or verification, of effects on the environment carried out pursuant to national legislation which is relevant to the assessment of the environmental impacts of the project;
 - “relevant land” means the land upon which the project is to be carried out or, in relation to a project which has already been carried out, has been carried out;
-- “scoping opinion” means [^key-6978a139b3092f9b711b7b23d742fdbd]... the opinion of the Scottish Ministers as to the scope and level of detail of information to be provided in the EIA report;
+- “scoping opinion” means [^c-6978a139b3092f9b711b7b23d742fdbd]... the opinion of the Scottish Ministers as to the scope and level of detail of information to be provided in the EIA report;
 - “screening opinion” means a written statement of the opinion of the Scottish Ministers as to whether a project is, or is not, an EIA project;
 - “sensitive area” means any of the following:—
   - (a) land notified under section 3(1) or 5(1) of the Nature Conservation (Scotland) Act 2004[^f00008];
@@ -117,7 +117,7 @@ These Regulations may be cited as the Agriculture, Land Drainage and Irrigation 
 
 (4) All applications, notices, notifications, representations, requests, approvals and agreements to which these Regulations apply must be made in writing.
 
-### 3. Application[^key-da21c6782444c2f81884e73fe118effc]
+### 3. Application[^c-da21c6782444c2f81884e73fe118effc]
 
 (1) These Regulations apply to any project in Scotland which is not exempt by virtue of paragraphs (2) to (4).
 
@@ -135,7 +135,7 @@ These Regulations may be cited as the Agriculture, Land Drainage and Irrigation 
 - (a) make available to the public concerned the information considered in making the direction and the reasons for making the direction; and
 - (b) take such steps as are considered appropriate to bring the information obtained under the other form of assessment to the attention of the public concerned.
 
-### 4. Environmental impact assessment[^key-ae9bb1063b58b386f85b02ec3cd8529f]
+### 4. Environmental impact assessment[^c-ae9bb1063b58b386f85b02ec3cd8529f]
 
 (1) An environmental impact assessment is a process consisting of—
 
@@ -167,19 +167,19 @@ These Regulations may be cited as the Agriculture, Land Drainage and Irrigation 
 
 ## PART 2 — AGRICULTURE AND IRRIGATION PROJECTS
 
-### 5. Prohibition on granting consent without an environmental impact assessment[^key-1e6376881a40acb7b7b57d8be8527c15]
+### 5. Prohibition on granting consent without an environmental impact assessment[^c-1e6376881a40acb7b7b57d8be8527c15]
 
 The Scottish Ministers must not grant consent for an EIA project under these Regulations unless an environmental impact assessment has been carried out in respect of that project, and in carrying out such assessment the Scottish Ministers must take the environmental information into account.
 
-### 6. Screening opinion for agriculture – uncultivated land and semi-natural areas[^key-69fbad11fe84e92d3cb206b1801e5dcb]
+### 6. Screening opinion for agriculture – uncultivated land and semi-natural areas[^c-69fbad11fe84e92d3cb206b1801e5dcb]
 
 No person may begin or carry out a project involving the use of uncultivated land or semi-natural areas for intensive agricultural purposes without first obtaining a screening opinion in accordance with regulations 10 to 12.
 
-### 7. Screening opinion for irrigation project[^key-7101147833290bd6f80e112606cfbc0d]
+### 7. Screening opinion for irrigation project[^c-7101147833290bd6f80e112606cfbc0d]
 
 No person may begin or carry out a project involving irrigation without first obtaining a screening opinion in accordance with regulations 10 to 12.
 
-### 8. Screening opinion for agriculture – restructuring project[^key-d8f1ece6f60d850456cc74023ff8f380]
+### 8. Screening opinion for agriculture – restructuring project[^c-d8f1ece6f60d850456cc74023ff8f380]
 
 (1) Where paragraph (2) applies, no person may begin or carry out a project involving restructuring of rural land holdings on agricultural land without first obtaining a screening opinion in accordance with regulations 10 to 12.
 
@@ -188,7 +188,7 @@ No person may begin or carry out a project involving irrigation without first ob
 - (a) the project, or any part of it, is to be carried out in a sensitive area; or
 - (b) the project is to be carried out wholly outside a sensitive area and the extent of the project is equal to or exceeds the threshold applicable to it calculated in accordance with regulation 9.
 
-### 9. Thresholds for agriculture – restructuring projects[^key-712fde19007e3158087f320cfbdc3c1a]
+### 9. Thresholds for agriculture – restructuring projects[^c-712fde19007e3158087f320cfbdc3c1a]
 
 (1) The method for determining whether the extent of a project for the restructuring of rural land holdings is equal to or exceeds the threshold applicable to it shall be determined in accordance with this regulation.
 
@@ -199,7 +199,7 @@ No person may begin or carry out a project involving irrigation without first ob
 - (a) each relevant part of the project must be assessed so as to determine the threshold applicable to that part; and
 - (b) if any relevant part of the project equals or exceeds the threshold applicable to that part, then the entire project is to be treated as having an extent equal to or exceeding the threshold applicable to it.
 
-### 10. Application for screening opinion[^key-5707e4e8cb0e90477f791ba65b5d6ad2]
+### 10. Application for screening opinion[^c-5707e4e8cb0e90477f791ba65b5d6ad2]
 
 (1) An application for a screening opinion must be accompanied by—
 
@@ -219,7 +219,7 @@ No person may begin or carry out a project involving irrigation without first ob
 - (a) the selection criteria set out in schedule 2; and
 - (b) the available results of any relevant assessment.
 
-### 11. Screening opinions – time period for decision[^key-cb3401d3a7a44401420969e0bd43a289]
+### 11. Screening opinions – time period for decision[^c-cb3401d3a7a44401420969e0bd43a289]
 
 (1) Following an application for a screening opinion under regulation 10, the Scottish Ministers must adopt a screening opinion—
 
@@ -234,7 +234,7 @@ No person may begin or carry out a project involving irrigation without first ob
 
 (5) For the purposes of paragraph (1), the date on which an application for a screening opinion is taken to have been received is the date on which the last of the items or information required to be contained in or accompany an application for a screening opinion is received by the Scottish Ministers.
 
-### 12. Screening opinions – determination[^key-a212faa45d446bd65b709717a1927826]
+### 12. Screening opinions – determination[^c-a212faa45d446bd65b709717a1927826]
 
 (1) When making a determination as to whether a project is an EIA project, the Scottish Ministers must—
 
@@ -251,11 +251,11 @@ No person may begin or carry out a project involving irrigation without first ob
 
 (3) As soon as possible after adopting a screening opinion the Scottish Ministers must send a copy of the screening opinion and a copy of the written statement referred to in paragraph (2) to the applicant.
 
-### 13. Requirement for consent[^key-e9b11e2f955edae74667a9a6073c11f0]
+### 13. Requirement for consent[^c-e9b11e2f955edae74667a9a6073c11f0]
 
 No person may begin or carry out an EIA project without first obtaining consent from the Scottish Ministers.
 
-### 14. Scoping opinion[^key-4290e8848a532ff7bdb2a99f92e830d1]
+### 14. Scoping opinion[^c-4290e8848a532ff7bdb2a99f92e830d1]
 
 (1) After obtaining a screening opinion that a project is an EIA project and before applying for consent for an EIA project, the applicant may request the Scottish Ministers to adopt a scoping opinion.
 
@@ -277,7 +277,7 @@ No person may begin or carry out an EIA project without first obtaining consent 
 
 (6) The Scottish Ministers must within the period of 35 days beginning with the date of receipt of that request under paragraph (1), or such longer period as they reasonably require, adopt a scoping opinion and send a copy to the person who made the request.
 
-### 15. Procedure to facilitate preparation of EIA reports[^key-50658d3dcec87791c378a9ad7159d328]
+### 15. Procedure to facilitate preparation of EIA reports[^c-50658d3dcec87791c378a9ad7159d328]
 
 (1) An applicant who intends to submit an EIA report to the Scottish Ministers under these Regulations may give notice in writing to the Scottish Ministers under this paragraph.
 
@@ -302,7 +302,7 @@ No person may begin or carry out an EIA project without first obtaining consent 
 
 (7) A reasonable charge reflecting the cost of making the relevant information available may be made by the Scottish Ministers or any body notified in accordance with paragraph (3) when making information available in accordance with paragraph (4).
 
-### 16. Application and EIA report[^key-c2294b6472823bf269f38d49a37ed3af]
+### 16. Application and EIA report[^c-c2294b6472823bf269f38d49a37ed3af]
 
 (1) An application for consent for an EIA project must be accompanied by—
 
@@ -327,7 +327,7 @@ No person may begin or carry out an EIA project without first obtaining consent 
 - (a) the applicant must ensure that the EIA report is prepared by competent experts; and
 - (b) the EIA report must be accompanied by a statement from the applicant outlining the relevant expertise or qualifications of such experts.
 
-### 17. Consultation and publication[^key-7e83aacacc1451b1998e1a478881de29]
+### 17. Consultation and publication[^c-7e83aacacc1451b1998e1a478881de29]
 
 (1) Where the Scottish Ministers have received an application for consent for an EIA project they must—
 
@@ -355,7 +355,7 @@ No person may begin or carry out an EIA project without first obtaining consent 
 
 (5) The Scottish Ministers must make copies of the report and other documents submitted with the application available for inspection on the application website.
 
-### 18. Additional information[^key-41c377d9ffe333eb36eac6c1a0d7e5a2]
+### 18. Additional information[^c-41c377d9ffe333eb36eac6c1a0d7e5a2]
 
 (1) In order to ensure the completeness and quality of the EIA report, the Scottish Ministers must (having regard in particular to current knowledge and methods of assessment) seek from the applicant supplementary information about a matter to be included in the EIA report in accordance with regulation 4(2) which in the opinion of the Scottish Ministers is directly relevant to reaching a reasoned conclusion on the significant effects of the project on the environment.
 
@@ -363,7 +363,7 @@ No person may begin or carry out an EIA project without first obtaining consent 
 
 (3) Where additional information is provided, regulation 17 applies to the provision of such information as it applies to the submission of an EIA report as if references to the report were references to the additional information.
 
-### 19. Projects in Scotland likely to have significant effects in an EEA State other than the United Kingdom[^key-7abc67a1fd5e0c3bbc874b4f19a094d5]
+### 19. Projects in Scotland likely to have significant effects in an EEA State other than the United Kingdom[^c-7abc67a1fd5e0c3bbc874b4f19a094d5]
 
 (1) This regulation applies where—
 
@@ -400,7 +400,7 @@ but only to the extent that such information has not been provided to the EEA St
 
 (7) Where an EEA State has been consulted in accordance with paragraph (6), on the determination of the application concerned the Scottish Ministers must inform the EEA State of the decision and forward to it a copy of the decision notice.
 
-### 20. Projects in another EEA State likely to have significant transboundary effects[^key-59d5aa93ef092e5fea071a1fa97d3924]
+### 20. Projects in another EEA State likely to have significant transboundary effects[^c-59d5aa93ef092e5fea071a1fa97d3924]
 
 (1) Where the Scottish Ministers receive from an EEA State other than the United Kingdom pursuant to Article 7(2) of the Directive information which that EEA State has gathered from the developer of a project in that EEA State which is likely to have significant effects on the environment in Scotland, the Scottish Ministers must, in accordance with Article 7(4) of the Directive—
 
@@ -416,7 +416,7 @@ but only to the extent that such information has not been provided to the EEA St
 - (a) arrange for the information referred to in paragraph (1) to be made available, within a reasonable time, both to the authorities in Scotland which they consider are likely to be concerned by the project by reason of their specific environmental responsibilities, and to the public concerned in Scotland; and
 - (b) ensure that those authorities and the public concerned in Scotland are given an opportunity, before consent for the project is granted, to forward to the competent authority in the relevant EEA State, within a reasonable time, their opinion on the information supplied.
 
-### 21. Availability of opinions etc. for inspection[^key-4794069e38ca8809edcc10b99b091e43]
+### 21. Availability of opinions etc. for inspection[^c-4794069e38ca8809edcc10b99b091e43]
 
 (1) Where any document mentioned in paragraph (2) is received, issued or adopted by the Scottish Ministers, the Scottish Ministers must make copies of that document available for inspection—
 
@@ -434,7 +434,7 @@ but only to the extent that such information has not been provided to the EEA St
 
 (3) Documents made available under paragraph (1) must remain so available for a period of 2 years.
 
-### 22. Decision notice[^key-5fca2b7e628031c40b3b3a830f42d20b]
+### 22. Decision notice[^c-5fca2b7e628031c40b3b3a830f42d20b]
 
 (1) The Scottish Ministers must determine an application for consent for an EIA project as soon as reasonably practicable but in any event within the period of 6 months beginning with the date on which it receives the application; but may determine it within such other time period as may be agreed with the applicant.
 
@@ -466,7 +466,7 @@ but only to the extent that such information has not been provided to the EEA St
 - “mitigation measures” means any features of the project and any measures envisaged in order to avoid, prevent or reduce and, if possible, offset likely significant adverse effects on the environment including any such features or measures required by virtue of a condition imposed on the grant of consent; and
 - “monitoring measures” means measures requiring the monitoring of any significant adverse effects on the environment of the project including any such measures required by virtue of a condition imposed on the grant of consent for an EIA project.
 
-### 23. Conditions and restrictions on the granting of consent[^key-30efb3a1118202138a688e1756fd25a4]
+### 23. Conditions and restrictions on the granting of consent[^c-30efb3a1118202138a688e1756fd25a4]
 
 (1) The Scottish Ministers must not grant consent for an EIA project which would involve doing anything which would be unlawful under regulation 39, 41 or 43 of the Habitats Regulations (which does not include anything for which a licence has been granted under regulation 44 of those Regulations).
 
@@ -494,7 +494,7 @@ but only to the extent that such information has not been provided to the EEA St
 - (c) the consent authorises the EIA project only as described in the application for consent for an EIA project, subject to any amendments approved by the Scottish Ministers, and any material change in the operations or uses so authorised shall require further consent in accordance with subparagraph (d);
 - (d) applications for further consent under conditions in sub-paragraph (b) or (c) must be subject to such of the requirements of these Regulations as the Scottish Ministers think fit.
 
-### 24. Monitoring measures[^key-16fb19fe3a4a975422f30e032b96d094]
+### 24. Monitoring measures[^c-16fb19fe3a4a975422f30e032b96d094]
 
 (1) Where an application for consent for an EIA project is determined by the Scottish Ministers and the decision is to grant consent, the Scottish Ministers must consider whether it is appropriate to require monitoring measures to be carried out.
 
@@ -508,7 +508,7 @@ but only to the extent that such information has not been provided to the EEA St
 
 (4) Where mitigation measures or monitoring measures are required, the Scottish Ministers must take steps to ensure that those measures are implemented.
 
-### 25. Notification of decision[^key-8ae0e1379091d31bdd52175034db3f1c]
+### 25. Notification of decision[^c-8ae0e1379091d31bdd52175034db3f1c]
 
 Where an application for consent for an EIA project is determined by the Scottish Ministers, they must—
 
@@ -517,11 +517,11 @@ Where an application for consent for an EIA project is determined by the Scottis
   - (i) on the application website; and
   - (ii) at all reasonable hours at an office of the Scottish Ministers where the documents may be inspected.
 
-### 26. Prohibition on granting an application for multi-stage consent without an environmental impact assessment[^key-c1671fc1fad201700c0ef11a5d0c1874]
+### 26. Prohibition on granting an application for multi-stage consent without an environmental impact assessment[^c-c1671fc1fad201700c0ef11a5d0c1874]
 
 The Scottish Ministers must not grant an application for multi-stage consent in respect of an EIA project unless an environmental impact assessment has been carried out in respect of that project and in carrying out such an assessment the Scottish Ministers must take the environmental information into account.
 
-### 27. Application for multi-stage consent where EIA report previously provided[^key-7ac7cc0024e7451ee86699a267d9c555]
+### 27. Application for multi-stage consent where EIA report previously provided[^c-7ac7cc0024e7451ee86699a267d9c555]
 
 (1) This regulation applies in relation to the consideration by the Scottish Ministers of an application for multi-stage consent where a report referred to by the applicant as an EIA report has previously been submitted by the applicant in relation to the project.
 
@@ -532,7 +532,7 @@ The Scottish Ministers must not grant an application for multi-stage consent in 
 
 the Scottish Ministers must seek supplementary information from the applicant in accordance with regulation 18 in respect of such effects.
 
-### 28. Modification of regulations relating to application for multi-stage consent[^key-821b9115cc64098bbe9957956d63f048]
+### 28. Modification of regulations relating to application for multi-stage consent[^c-821b9115cc64098bbe9957956d63f048]
 
 (1) These Regulations apply to an application for multi-stage consent as if—
 
@@ -541,7 +541,7 @@ the Scottish Ministers must seek supplementary information from the applicant in
 
 (2) Regulation 22(3)(d), (e) and (g) applies in respect of the notification of a decision on an application for multi-stage consent only where additional information has been provided by the applicant in connection with that application.
 
-### 29. Review of decisions and consents[^key-115b40b894171ac78e10ebb876a060e8]
+### 29. Review of decisions and consents[^c-115b40b894171ac78e10ebb876a060e8]
 
 Schedule 4 applies to—
 
@@ -550,7 +550,7 @@ Schedule 4 applies to—
 
 where, after the date of the decision or grant of consent, a site becomes a European site and in the opinion of the Scottish Ministers the carrying out or completion (having the same meaning as in regulation 23(9)(b)) of the project would be likely to have a significant effect on that site and would not be directly connected with or necessary for the management of the site.
 
-### 30. Appeals to the Scottish Ministers[^key-e9430c2ca9dcb2dc3c3117e2d3b24293]
+### 30. Appeals to the Scottish Ministers[^c-e9430c2ca9dcb2dc3c3117e2d3b24293]
 
 (1) The following persons:—
 
@@ -581,7 +581,7 @@ may by notice appeal to the Scottish Ministers against the consent or decision a
 
 (6) A person upon whom a copy of a notice of an appeal has been served in accordance with paragraph (5) may not make representations in respect of the appeal to the Scottish Ministers unless the Scottish Ministers are notified by that person of that person’s wish to do so within the period of 21 days beginning with the date on which a copy of the notice was served upon that person.
 
-### 31. Hearing procedure[^key-02481db03b5d5bba4f005720c67c366f]
+### 31. Hearing procedure[^c-02481db03b5d5bba4f005720c67c366f]
 
 (1) Before determining an appeal made under regulation 30(1), the Scottish Ministers may afford the appellant and any interested party an opportunity of appearing before and being heard by a person appointed by them (in this regulation referred to as “the appointed person”) and they must do so in any case where a request is made by the appellant to be so heard.
 
@@ -608,7 +608,7 @@ may by notice appeal to the Scottish Ministers against the consent or decision a
 
 (8) After the conclusion of a hearing, the appointed person must make a report to the Scottish Ministers in writing which must include the conclusions and recommendations of that person or the reasons for not making any recommendation.
 
-### 32. Determination of appeals by written representations[^key-18321e26ca48df0ed58cedbf6a544857]
+### 32. Determination of appeals by written representations[^c-18321e26ca48df0ed58cedbf6a544857]
 
 (1) This regulation applies to an appeal made under regulation 30(1) which is to be determined by written representations.
 
@@ -620,7 +620,7 @@ may by notice appeal to the Scottish Ministers against the consent or decision a
 
 (5) No earlier than the expiry of the period specified in paragraph (4), the Scottish Ministers must determine the appeal and must notify the decision and the reasons for it to the appellant and to the interested persons.
 
-### 33. Determination and publication of appeal[^key-c15310679da77f8759a4d245c03846f4]
+### 33. Determination and publication of appeal[^c-c15310679da77f8759a4d245c03846f4]
 
 (1) On determining an appeal made under regulation 30(1), the Scottish Ministers may quash or confirm the relevant decision, and if they affirm it they may do so in its original form or with such modifications as they think fit.
 
@@ -633,23 +633,23 @@ may by notice appeal to the Scottish Ministers against the consent or decision a
 
 available for inspection on the application website and at all reasonable hours at an office of the Scottish Ministers where the documents may be inspected.
 
-### 34. Access to review procedures before a court[^key-00bbc45c28321da2faeee8a93d7ace7d]
+### 34. Access to review procedures before a court[^c-00bbc45c28321da2faeee8a93d7ace7d]
 
 Any non-governmental organisation promoting environmental protection and meeting any requirements under the law is deemed to have an interest for the purposes of Article 11(1)(a) of the Directive and rights capable of being impaired for the purposes of Article 11(1)(b) of the Directive.
 
-### 35. Competent authority – avoidance of conflict of interest[^key-571c873557d7adc1d419a1f73ff205b5]
+### 35. Competent authority – avoidance of conflict of interest[^c-571c873557d7adc1d419a1f73ff205b5]
 
 (1) The Scottish Ministers must perform their duties arising under these Regulations in an objective manner and so as not to find themselves in a situation giving rise to a conflict of interest.
 
 (2) Where the Scottish Ministers are to consider an application for consent for an EIA project made by Scottish Ministers, they are to implement within their organisation of administrative competences an appropriate separation between conflicting functions when performing their duties under these Regulations.
 
-### 36. Co-ordination of assessments[^key-54f15ee422b01bd33b92396be923db04]
+### 36. Co-ordination of assessments[^c-54f15ee422b01bd33b92396be923db04]
 
 (1) Where in relation to an EIA project there is, in addition to the requirement for an environmental impact assessment to be carried out in accordance with these Regulations, also a requirement to carry out a Habitats Regulations Assessment, the Scottish Ministers must where appropriate ensure that the Habitats Regulations Assessment and the environmental impact assessment are co-ordinated.
 
 (2) In this regulation, “Habitats Regulations Assessment” means an assessment under regulation 48 of the Habitats Regulations.
 
-### 37. Offences[^key-34ce950b3d749f0a55db200a6834e715]
+### 37. Offences[^c-34ce950b3d749f0a55db200a6834e715]
 
 Any person who begins or carries out a project without first obtaining either a decision that the project is not an EIA project or a decision granting consent for an EIA project in accordance with these Regulations commits an offence under this regulation and is liable—
 
@@ -658,12 +658,12 @@ Any person who begins or carries out a project without first obtaining either a 
 
 unless the project is an exempt project under regulation 3.
 
-**38.**[^key-e3651753cb3f094a7a41de2c6abb7ea4] Any person who carries out work in contravention of any condition of a consent for an EIA project granted in accordance with these Regulations commits an offence and is liable—
+**38.**[^c-e3651753cb3f094a7a41de2c6abb7ea4] Any person who carries out work in contravention of any condition of a consent for an EIA project granted in accordance with these Regulations commits an offence and is liable—
 
 - (a) on summary conviction to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine.
 
-**39.**[^key-f0320067aabafb5981fdb6a3067a6970] (1) Any person who, for the purpose of procuring a particular decision on an application made under these Regulations—
+**39.**[^c-f0320067aabafb5981fdb6a3067a6970] (1) Any person who, for the purpose of procuring a particular decision on an application made under these Regulations—
 
 - (a) knowingly or recklessly makes a statement which is false or misleading in a material particular;
 - (b) with intent to deceive, uses any document which is false or misleading in a material particular; or
@@ -676,7 +676,7 @@ commits an offence.
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine.
 
-### 40. Application to Crown[^key-2ed60f327a56d80191d7fe0e2e23483b]
+### 40. Application to Crown[^c-2ed60f327a56d80191d7fe0e2e23483b]
 
 (1) No act or omission of the Crown constitutes an offence under these Regulations.
 
@@ -684,7 +684,7 @@ commits an offence.
 
 (3) Despite paragraph (1), this regulation applies to a person in the public service of the Crown as it applies to other persons.
 
-### 41. Stop notices[^key-364a09b5cf3025ac8334e16f7916c1f0]
+### 41. Stop notices[^c-364a09b5cf3025ac8334e16f7916c1f0]
 
 (1) Where it appears to the Scottish Ministers that an offence has been committed under regulation 37, 38 or 39 and they consider that the potential harm to the environment of work to which the offence relates is such that the work should cease with immediate effect, they may serve a notice (in these Regulations referred to as a “stop notice”) prohibiting all or any part of such work (the “prohibited work”).
 
@@ -707,7 +707,7 @@ commits an offence.
 
 (8) On determination of the appeal, the sheriff may by order quash or affirm the stop notice and, if affirming it, may do so either in its original form or with such modifications as may in the circumstances be thought fit.
 
-### 42. Offences – contravention of a stop notice[^key-c1cc3751511c679463c66a68eaffa492]
+### 42. Offences – contravention of a stop notice[^c-c1cc3751511c679463c66a68eaffa492]
 
 (1) Any person who contravenes a stop notice that has been served on that person commits an offence.
 
@@ -725,7 +725,7 @@ commits an offence.
 - (a) the stop notice was not served on the accused; and
 - (b) the accused did not know, and could not reasonably have been expected to know, of its existence.
 
-### 43. Reinstatement[^key-f3ca5a59c4cfee81065d9b7eaf715286]
+### 43. Reinstatement[^c-f3ca5a59c4cfee81065d9b7eaf715286]
 
 (1) Where it appears to the Scottish Ministers that an offence has been committed under regulation 37, 38 or 39, they may serve a notice (in these Regulations referred to as “a reinstatement notice”) upon the person who appears to them to be responsible for committing the offence requiring that person to reinstate, to their reasonable satisfaction, the relevant land to the condition it was in before the project was commenced and specifying the period within which the reinstatement is required to be carried out.
 
@@ -749,7 +749,7 @@ commits an offence.
 - (a) to a fine not exceeding the statutory maximum; and
 - (b) if the failure is continued after conviction, to a further fine not exceeding one twentieth of the sum equivalent to level 5 on the standard scale for every day on which the failure is so continued.
 
-### 44. Powers of entry and default powers[^key-554b6587c0a0fc2354dcf3fb8d98e4e6]
+### 44. Powers of entry and default powers[^c-554b6587c0a0fc2354dcf3fb8d98e4e6]
 
 (1) Any person duly authorised in writing by the Scottish Ministers may, at a reasonable time, enter and inspect any land for the purpose of—
 
@@ -772,9 +772,9 @@ commits an offence.
 
 (7) A person who intentionally obstructs or impedes any person acting in the exercise of the powers conferred by this regulation, or who fails without reasonable excuse to comply with a request made under paragraph (6) commits an offence and is liable on summary conviction to a fine not exceeding the statutory maximum.
 
-### 45. Offences by bodies corporate[^key-5a8d80e608646b6de45d6c0d1684ab23]
+### 45. Offences by bodies corporate[^c-5a8d80e608646b6de45d6c0d1684ab23]
 
-(1) Paragraph[^key-9b0379a9da03ebceda8ae0f708cca07c] (2) applies where—
+(1) Paragraph[^c-9b0379a9da03ebceda8ae0f708cca07c] (2) applies where—
 
 - (a) an offence under these Regulations has been committed by—
   - (i) a body corporate;
@@ -786,7 +786,7 @@ commits an offence.
 
 (2) The individual as well as the body corporate, Scottish partnership or unincorporated association commits an offence and is liable to be proceeded against and punished accordingly.
 
-(3) In paragraph[^key-0ca4c975ce65790fc507c07d4e009a8a] (1), “relevant individual” means—
+(3) In paragraph[^c-0ca4c975ce65790fc507c07d4e009a8a] (1), “relevant individual” means—
 
 - (a) in relation to a body corporate—
   - (i) a director, manager, secretary or similar officer of the body;
@@ -796,11 +796,11 @@ commits an offence.
 
 ## PART 3 — LAND DRAINAGE
 
-### 46. Prohibition on making improvement order without an environmental impact assessment[^key-d15957206b9c9d788fbe8f505c315bd6]
+### 46. Prohibition on making improvement order without an environmental impact assessment[^c-d15957206b9c9d788fbe8f505c315bd6]
 
 The Scottish Ministers must not make an improvement order authorising an EIA project unless an environmental impact assessment has been carried out in respect of that project and in carrying out such an assessment they must take the environmental information into account.
 
-### 47. Screening opinion for land drainage[^key-b38c0daaa3e9d2e56070d8e221e45cea]
+### 47. Screening opinion for land drainage[^c-b38c0daaa3e9d2e56070d8e221e45cea]
 
 (1) Where paragraph (2) applies, an owner of agricultural land who, in relation to a project, proposes to apply for an improvement order must, before submitting that application, apply to the Scottish Ministers for a screening opinion.
 
@@ -811,9 +811,9 @@ The Scottish Ministers must not make an improvement order authorising an EIA pro
 
 (3) Where an application for a screening opinion is made under this regulation, regulations 10 to 12 apply.
 
-### 48. Application of Part 2 to land drainage[^key-d5f09eac0ade170ac94f482f0751d35c]
+### 48. Application of Part 2 to land drainage[^c-d5f09eac0ade170ac94f482f0751d35c]
 
-Where the applicant referred to in regulation 47 has obtained a screening opinion to the effect that the works to be authorised by the improvement order constitute an EIA[^key-e0a6d06577e4797d7ebe68fdd3060958] project—
+Where the applicant referred to in regulation 47 has obtained a screening opinion to the effect that the works to be authorised by the improvement order constitute an EIA[^c-e0a6d06577e4797d7ebe68fdd3060958] project—
 
 - (a) regulations 14 to 21 and regulation 22(2) to (6) apply to that applicant as if references to “consent for an EIA project” were to be read as references to “an improvement order authorising an EIA project”;
 - (b) regulations 24 to 28 apply to that applicant as if references to “consent for an EIA project” were to be read as references to “an improvement order authorising an EIA project”;
@@ -822,7 +822,7 @@ Where the applicant referred to in regulation 47 has obtained a screening opinio
 
 ## PART 4 — MISCELLANEOUS
 
-### 49. Revocation, saving and transitional provision[^key-16cdb25409359d47650c01006abea611]
+### 49. Revocation, saving and transitional provision[^c-16cdb25409359d47650c01006abea611]
 
 (1) Subject to paragraphs (2) and (3), the 2006 Regulations are revoked.
 
@@ -845,7 +845,7 @@ Where the applicant referred to in regulation 47 has obtained a screening opinio
 - “the 2006 Regulations” means the Environmental Impact Assessment (Agriculture) (Scotland) Regulations 2006[^f00015]; and
 - “environmental statement” has the same meaning as in the 2006 Regulations.
 
-**50.**[^key-7cad774f2b4ec66e196a587baa0d64c4] (1) Subject to paragraph (2), Part IV (drainage works) of the 1999 Regulations is revoked.
+**50.**[^c-7cad774f2b4ec66e196a587baa0d64c4] (1) Subject to paragraph (2), Part IV (drainage works) of the 1999 Regulations is revoked.
 
 (2) Part IV of the 1999 Regulations continues to have effect as it did immediately before 16th May 2017 in respect of an application for an improvement order where the applicant has before that date—
 
@@ -861,21 +861,21 @@ Where the applicant referred to in regulation 47 has obtained a screening opinio
 - “the 1999 Regulations” means the Environmental Impact Assessment (Scotland) Regulations 1999[^f00016]; and
 - “environmental statement” has the same meaning as in the 1999 Regulations.
 
-**51.**[^key-2b3379cd8aedd2a9db5683bb82897211] (1)[^key-b661bcc131bc7e6073397e5f958f1fcf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-2b3379cd8aedd2a9db5683bb82897211] (1)[^c-b661bcc131bc7e6073397e5f958f1fcf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-b661bcc131bc7e6073397e5f958f1fcf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b661bcc131bc7e6073397e5f958f1fcf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-b661bcc131bc7e6073397e5f958f1fcf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b661bcc131bc7e6073397e5f958f1fcf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) References in any enactment (including an Act of the Scottish Parliament or an instrument under such an Act) to the environmental information provided, or having effect as if provided, in accordance with registration 11(2) of the 2011 Regulations are treated as including a reference to an EIA report prepared in accordance with these Regulations.
 
 (5) In this regulation “the 2011 Regulations” means the Water Environment (Controlled Activities) (Scotland) Regulations 2011[^f00017]**.**
 
-### 52. Consequential provision[^key-c96c8836f407a2fa7ccfb10e45c0d173]
+### 52. Consequential provision[^c-c96c8836f407a2fa7ccfb10e45c0d173]
 
 In article 3(10)(b) of the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^f00018], for “Part IV of the Environmental Impact Assessment (Scotland) Regulations 1999” substitute “the Agriculture, Land Drainage and Irrigation Projects (Environmental Impact Assessment) (Scotland) Regulations 2017”.
 
-### 53. Electronic communications – general[^key-e3cc4cb76786ba6fe2b1c4346e7023da]
+### 53. Electronic communications – general[^c-e3cc4cb76786ba6fe2b1c4346e7023da]
 
 (1) In these Regulations, and in relation to the use of electronic communications for any purpose in these Regulations which is capable of being effected electronically—
 
@@ -908,7 +908,7 @@ and for these purposes, “working day” means a day which is not a Saturday, S
 
 (8) Where electronic communication is used by a person for the purpose of fulfilling any requirement in these Regulations to give or send any report, statement or document, any such requirement may be complied with by sending one copy only of the report, statement or other document in question.
 
-### 54. Electronic communications – deemed agreement[^key-4958173bbcea1fb8c392280b8aee604e]
+### 54. Electronic communications – deemed agreement[^c-4958173bbcea1fb8c392280b8aee604e]
 
 Any person sending a document using electronic communications is deemed to have agreed—
 
@@ -916,7 +916,7 @@ Any person sending a document using electronic communications is deemed to have 
 - (b) that the address for the purpose of such communications is the address incorporated into, or otherwise logically associated with, the request, application, notice or appeal; and
 - (c) that the person’s deemed agreement under this regulation subsists until the person gives notice in accordance with regulation 55 to revoke the agreement.
 
-### 55. Withdrawal of consent to use of electronic communications[^key-54f5755e3125a37e8a211e29a2c4c0b2]
+### 55. Withdrawal of consent to use of electronic communications[^c-54f5755e3125a37e8a211e29a2c4c0b2]
 
 Where a person is no longer willing to accept the use of electronic communications for any purpose which, under these Regulations, is capable of being carried out using such communications, that person must give notice in writing—
 
@@ -925,7 +925,7 @@ Where a person is no longer willing to accept the use of electronic communicatio
 
 and such withdrawal or revocation will be final, and will take effect on a date specified by the person in the notice, being a date occurring after the period of 7 days, beginning with the date on which the notice is given.
 
-### 56. Service of notices etc.[^key-9021ddd7d603c79a3def5fff9a59cb14]
+### 56. Service of notices etc.[^c-9021ddd7d603c79a3def5fff9a59cb14]
 
 (1) Any notice required to be given to any person by the Scottish Ministers, by virtue of these Regulations may be given by—
 
@@ -983,7 +983,7 @@ Edinburgh
 
 11th April 2017
 
-## SCHEDULE 1 — THRESHOLDS FOR A PROJECT INVOLVING RESTRUCTURING OF RURAL LAND HOLDINGS ON AGRICULTURAL LAND WHOLLY OUTWITH A SENSITIVE AREA[^key-61d81c1f5ee886ca5065be5351fc2085]
+## SCHEDULE 1 — THRESHOLDS FOR A PROJECT INVOLVING RESTRUCTURING OF RURAL LAND HOLDINGS ON AGRICULTURAL LAND WHOLLY OUTWITH A SENSITIVE AREA[^c-61d81c1f5ee886ca5065be5351fc2085]
 
 **Not yet in force.**
 
@@ -1001,7 +1001,7 @@ Regulation 9
 
 Regulations 10(3) and 12(2)
 
-### 1. Characteristics of projects[^key-bd350e95f3cf95cd2d8f8a334c31b58a]
+### 1. Characteristics of projects[^c-bd350e95f3cf95cd2d8f8a334c31b58a]
 
 The characteristics of projects must be considered with particular regard to—
 
@@ -1013,7 +1013,7 @@ The characteristics of projects must be considered with particular regard to—
 - (f) the risk of major accidents and/or disasters which are relevant to the project concerned, including those caused by climate change, in accordance with scientific knowledge;
 - (g) the risks to human health (for example due to water contamination or air pollution).
 
-### 2. Location of projects[^key-b747b6bc3c0c09d3879ec3804870c9a8]
+### 2. Location of projects[^c-b747b6bc3c0c09d3879ec3804870c9a8]
 
 The environmental sensitivity of geographical areas likely to be affected by projects must be considered with particular regard to—
 
@@ -1029,7 +1029,7 @@ The environmental sensitivity of geographical areas likely to be affected by pro
   - (vii) densely populated areas;
   - (viii) landscapes and sites of historical, cultural or archaeological significance.
 
-### 3. Types and characteristics of the potential impact[^key-e031b0f623d6fbe7186864a04af1b5af]
+### 3. Types and characteristics of the potential impact[^c-e031b0f623d6fbe7186864a04af1b5af]
 
 The likely significant effects of projects on the environment must be considered in relation to criteria set out in paragraphs 1 and 2 above, with regard to the impact of the projects on the factors specified in regulation 4(3) (environmental impact assessment), taking into account—
 
@@ -1046,20 +1046,20 @@ The likely significant effects of projects on the environment must be considered
 
 Regulation 16(2)(f)
 
-**1.**[^key-f51718f3cd48d3b556d8cda418bd7d8d] A description of the project, including in particular—
+**1.**[^c-f51718f3cd48d3b556d8cda418bd7d8d] A description of the project, including in particular—
 
 - (a) a description of the location of the project;
 - (b) a description of the physical characteristics of the whole project, including, where relevant, requisite demolition works, and the land-use requirements during the construction and operational phases;
 - (c) a description of the main characteristics of the operational phase of the project (in particular any production process), for instance, energy demand and energy used, nature and quantity of the materials and natural resources (including water, land, soil and biodiversity) used;
 - (d) an estimate, by type and quantity, of expected residues and emissions (such as water, air, soil and subsoil pollution, noise, vibration, light, heat and radiation) and quantities and types of waste produced during the construction and operation phases.
 
-**2.**[^key-8030e5f71c6cee50b029482b26dee6c1] A description of the reasonable alternatives (for example in terms of project design, technology, location, size and scale) studied by the applicant, which are relevant to the project and its specific characteristics, and an indication of the main reasons for selecting the chosen option, including a comparison of the environmental effects.
+**2.**[^c-8030e5f71c6cee50b029482b26dee6c1] A description of the reasonable alternatives (for example in terms of project design, technology, location, size and scale) studied by the applicant, which are relevant to the project and its specific characteristics, and an indication of the main reasons for selecting the chosen option, including a comparison of the environmental effects.
 
-**3.**[^key-5eaaf323692eb4aaf4b3dee7b8ebc558] A description of the relevant aspects of the current state of the environment (baseline scenario) and an outline of the likely evolution thereof without implementation of the project as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of the availability of environmental information and scientific knowledge.
+**3.**[^c-5eaaf323692eb4aaf4b3dee7b8ebc558] A description of the relevant aspects of the current state of the environment (baseline scenario) and an outline of the likely evolution thereof without implementation of the project as far as natural changes from the baseline scenario can be assessed with reasonable effort on the basis of the availability of environmental information and scientific knowledge.
 
-**4.**[^key-2f887fc4073f4824da5a818d59dec8fc] A description of the factors specified in regulation 4(3) likely to be significantly affected by the project: population, human health, biodiversity (for example fauna and flora), land (for example land take), soil (for example organic matter, erosion, compaction, sealing), water (for example hydromorphological changes, quantity and quality), air, climate (for example greenhouse gas emissions, impacts relevant to adaptation), material assets, cultural heritage, including architectural and archaeological aspects, and landscape.
+**4.**[^c-2f887fc4073f4824da5a818d59dec8fc] A description of the factors specified in regulation 4(3) likely to be significantly affected by the project: population, human health, biodiversity (for example fauna and flora), land (for example land take), soil (for example organic matter, erosion, compaction, sealing), water (for example hydromorphological changes, quantity and quality), air, climate (for example greenhouse gas emissions, impacts relevant to adaptation), material assets, cultural heritage, including architectural and archaeological aspects, and landscape.
 
-**5.**[^key-fba15679482e18475dda66834b158894] A description of the likely significant effects of the project on the environment resulting from, inter alia:
+**5.**[^c-fba15679482e18475dda66834b158894] A description of the likely significant effects of the project on the environment resulting from, inter alia:
 
 - (a) the construction and existence of the project, including, where relevant, demolition works;
 - (b) the use of natural resources, in particular land, soil, water and biodiversity, considering as far as possible the sustainable availability of these resources;
@@ -1069,43 +1069,43 @@ Regulation 16(2)(f)
 - (f) the impact of the project on climate (for example the nature and magnitude of greenhouse gas emissions) and the vulnerability of the project to climate change;
 - (g) the technologies and the substances used.
 
-**6.**[^key-78d62612f93066060c415cf5af64a69d] The description of the likely significant effects on the factors specified in regulation 4(3) should cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the project. This description should take into account the environmental protection objectives established at Union or Member State level which are relevant to the project including in particular those established under the Habitats Directive and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds[^f00021].
+**6.**[^c-78d62612f93066060c415cf5af64a69d] The description of the likely significant effects on the factors specified in regulation 4(3) should cover the direct effects and any indirect, secondary, cumulative, transboundary, short-term, medium-term and long-term, permanent and temporary, positive and negative effects of the project. This description should take into account the environmental protection objectives established at Union or Member State level which are relevant to the project including in particular those established under the Habitats Directive and [Directive 2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) of the European Parliament and of the Council on the conservation of wild birds[^f00021].
 
-**7.**[^key-4c2d87e30dc705ea0e54000bc076f3c6] A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
+**7.**[^c-4c2d87e30dc705ea0e54000bc076f3c6] A description of the forecasting methods or evidence, used to identify and assess the significant effects on the environment, including details of difficulties (for example technical deficiencies or lack of knowledge) encountered compiling the required information and the main uncertainties involved.
 
-**8.**[^key-411c4c2c9e884b0d1dd92eb9fe600f74] A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-project analysis). That description should explain the extent to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and should cover both the construction and operational phases.
+**8.**[^c-411c4c2c9e884b0d1dd92eb9fe600f74] A description of the measures envisaged to avoid, prevent, reduce or, if possible, offset any identified significant adverse effects on the environment and, where appropriate, of any proposed monitoring arrangements (for example the preparation of a post-project analysis). That description should explain the extent to which significant adverse effects on the environment are avoided, prevented, reduced or offset, and should cover both the construction and operational phases.
 
-**9.**[^key-5ab460d7fcfb9b994ef1eeeda9858f46] A description of the expected significant adverse effects of the project on the environment deriving from the vulnerability of the project to risks of major accidents and/or disasters which are relevant to the project concerned. Relevant information available and obtained through risk assessments pursuant to Union legislation such as [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018) of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council [Directive 96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082)[^f00022] or Council Directive 2009/71/Euratom establishing a community framework for the nuclear safety of nuclear installations[^f00023] or relevant assessments carried out pursuant to national legislation may be used for this purpose provided that the requirements of the Directive are met. Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
+**9.**[^c-5ab460d7fcfb9b994ef1eeeda9858f46] A description of the expected significant adverse effects of the project on the environment deriving from the vulnerability of the project to risks of major accidents and/or disasters which are relevant to the project concerned. Relevant information available and obtained through risk assessments pursuant to Union legislation such as [Directive 2012/18/EU](https://www.legislation.gov.uk/european/directive/2012/0018) of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council [Directive 96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082)[^f00022] or Council Directive 2009/71/Euratom establishing a community framework for the nuclear safety of nuclear installations[^f00023] or relevant assessments carried out pursuant to national legislation may be used for this purpose provided that the requirements of the Directive are met. Where appropriate, this description should include measures envisaged to prevent or mitigate the significant adverse effects of such events on the environment and details of the preparedness for and proposed response to such emergencies.
 
-**10.**[^key-99998b60f9cb0ef88365167fd14d930b] A non-technical summary of the information provided under paragraphs 1 to 9.
+**10.**[^c-99998b60f9cb0ef88365167fd14d930b] A non-technical summary of the information provided under paragraphs 1 to 9.
 
-**11.**[^key-f2a997d1ca6b94e70417bffd0bdba154] A reference list detailing the sources used for the descriptions and assessments included in the EIA report.
+**11.**[^c-f2a997d1ca6b94e70417bffd0bdba154] A reference list detailing the sources used for the descriptions and assessments included in the EIA report.
 
 ## SCHEDULE 4 — REVIEW OF DECISIONS AND CONSENTS
 
 Regulations 29, 30 and 44
 
-**1.**[^key-cbe0b4aa1057058865f109397f51d928] The Scottish Ministers must as soon as reasonably practicable make an appropriate assessment of the implications for the European site of the project permitted by the decision or consent in view of conservation objectives of the site for the purpose of determining whether the project will adversely affect the integrity of the site.
+**1.**[^c-cbe0b4aa1057058865f109397f51d928] The Scottish Ministers must as soon as reasonably practicable make an appropriate assessment of the implications for the European site of the project permitted by the decision or consent in view of conservation objectives of the site for the purpose of determining whether the project will adversely affect the integrity of the site.
 
-**2.**[^key-c3509f400290066665fc9a00d4773304] For the purposes of that assessment, the Scottish Ministers—
+**2.**[^c-c3509f400290066665fc9a00d4773304] For the purposes of that assessment, the Scottish Ministers—
 
 - (a) may require any person interested in the relevant land to supply them with such information as they may reasonably think necessary;
 - (b) must consult Scottish Natural Heritage and have regard to any representations made by them within such reasonable time as they may specify; and
 - (c) may, if they consider it appropriate, consult members of the public.
 
-**3.**[^key-7395ca004c94280c1e6d041754da2853] Unless, following that assessment, the Scottish Ministers are satisfied that the project permitted by the decision or consent will not adversely affect the integrity of the European site and that regulation 23(5) does not apply, they must, in the case of a decision, revoke that decision and, in the case of a consent, either revoke that consent or make such modifications to the consent as appear to them to be necessary to ensure that the project will not adversely affect the integrity of the European site and they must notify that decision to all persons who appear to them to have an interest in the relevant land.
+**3.**[^c-7395ca004c94280c1e6d041754da2853] Unless, following that assessment, the Scottish Ministers are satisfied that the project permitted by the decision or consent will not adversely affect the integrity of the European site and that regulation 23(5) does not apply, they must, in the case of a decision, revoke that decision and, in the case of a consent, either revoke that consent or make such modifications to the consent as appear to them to be necessary to ensure that the project will not adversely affect the integrity of the European site and they must notify that decision to all persons who appear to them to have an interest in the relevant land.
 
-**4.**[^key-e14adaa6b3fd760f5f2fdcc1f86093dd] Subject to paragraph 5, a revocation or modification of a decision or a consent in pursuance of which works have been commenced or completed will not affect so much of those works as have already been carried out.
+**4.**[^c-e14adaa6b3fd760f5f2fdcc1f86093dd] Subject to paragraph 5, a revocation or modification of a decision or a consent in pursuance of which works have been commenced or completed will not affect so much of those works as have already been carried out.
 
-**5.**[^key-fb48b1d3718ff7637b0f3a04189adfad] If, where a project which is subject to a decision made under paragraph 3 has commenced, it appears to the Scottish Ministers to be necessary to safeguard the integrity of the European site, they may by notice require the person responsible for carrying out such works or any person interested in the relevant land to carry out such works of reinstatement as may be reasonable in the circumstances and any person who carries out works in compliance with such a requirement will be entitled, on making a claim in accordance with paragraph 6, to recover from the Scottish Ministers compensation in respect of any expenses reasonably incurred by such claimant in that behalf.
+**5.**[^c-fb48b1d3718ff7637b0f3a04189adfad] If, where a project which is subject to a decision made under paragraph 3 has commenced, it appears to the Scottish Ministers to be necessary to safeguard the integrity of the European site, they may by notice require the person responsible for carrying out such works or any person interested in the relevant land to carry out such works of reinstatement as may be reasonable in the circumstances and any person who carries out works in compliance with such a requirement will be entitled, on making a claim in accordance with paragraph 6, to recover from the Scottish Ministers compensation in respect of any expenses reasonably incurred by such claimant in that behalf.
 
-**6.**[^key-f779ab194224b788d77865df47874985] If, following a decision under paragraph 3, a person has incurred expenditure in carrying out work which is rendered abortive by the revocation or modification or has otherwise sustained loss or damage which is directly attributable to the revocation or modification, that person will be entitled to be paid compensation on submitting a claim in accordance with paragraph 7.
+**6.**[^c-f779ab194224b788d77865df47874985] If, following a decision under paragraph 3, a person has incurred expenditure in carrying out work which is rendered abortive by the revocation or modification or has otherwise sustained loss or damage which is directly attributable to the revocation or modification, that person will be entitled to be paid compensation on submitting a claim in accordance with paragraph 7.
 
-**7.**[^key-666853fdcdd35051b14b68c2b8375758] A claim for compensation payable under paragraph 5 or 6 must be submitted to the Scottish Ministers within 42 days of notification of the decision in respect of which compensation is payable and must be accompanied by such evidence as the Scottish Ministers may reasonably require.
+**7.**[^c-666853fdcdd35051b14b68c2b8375758] A claim for compensation payable under paragraph 5 or 6 must be submitted to the Scottish Ministers within 42 days of notification of the decision in respect of which compensation is payable and must be accompanied by such evidence as the Scottish Ministers may reasonably require.
 
-**8.**[^key-7b0e7e557198ef6b616254b95f587cf1] Any dispute as to the amount of compensation payable under paragraph 5 or 6 may be referred to the Lands Tribunal for Scotland within 5 years of the date of notification of the decision in respect of which compensation is payable.
+**8.**[^c-7b0e7e557198ef6b616254b95f587cf1] Any dispute as to the amount of compensation payable under paragraph 5 or 6 may be referred to the Lands Tribunal for Scotland within 5 years of the date of notification of the decision in respect of which compensation is payable.
 
-**9.**[^key-d49ac4c76aa114cad340d69e49bf466f] Nothing in this schedule affects anything done in pursuance of a decision or consent before the date on which the site became a European site.
+**9.**[^c-d49ac4c76aa114cad340d69e49bf466f] Nothing in this schedule affects anything done in pursuance of a decision or consent before the date on which the site became a European site.
 
 EXPLANATORY NOTE
 
@@ -1161,11 +1161,11 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00002]: Footnote: OJ L 26, 28.1.2012, p.1, as amended by [Directive 2014/52/EU](https://www.legislation.gov.uk/european/directive/2014/0052) (OJ L 124, 25.4.2014, p.1).
 
-[^key-7421ec6d64bca4ffcbdb8349d3662c90]: Modification: Regulations: power to amend or revoke conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-7421ec6d64bca4ffcbdb8349d3662c90]: Modification: Regulations: power to amend or revoke conferred (26.12.2023) by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-f0cc38f85ef5677af0cb4eb08d29218f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-f0cc38f85ef5677af0cb4eb08d29218f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-a4e65e6cbd5ca4acd195d7b6229c516b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/114/regulation/2) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-a4e65e6cbd5ca4acd195d7b6229c516b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/114/regulation/2) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
 [^f00003]: Footnote: [1948 c.45](https://www.legislation.gov.uk/ukpga/1948/45). “Agricultural” and “agricultural land” are defined in section 86.
 
@@ -1177,202 +1177,202 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00007]: Footnote: [1958 c.24](https://www.legislation.gov.uk/ukpga/1958/24).
 
-[^key-49ac98fbb64791c9f4189f1d03705bf4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/114/regulation/2/1) substituted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2017/168/regulation/5/2/a)
+[^c-49ac98fbb64791c9f4189f1d03705bf4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/114/regulation/2/1) substituted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2017/168/regulation/5/2/a)
 
-[^key-6978a139b3092f9b711b7b23d742fdbd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/114/regulation/2/1) omitted (30.6.2017) by virtue of [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2017/168/regulation/5/2/b)
+[^c-6978a139b3092f9b711b7b23d742fdbd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/114/regulation/2/1) omitted (30.6.2017) by virtue of [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2017/168/regulation/5/2/b)
 
 [^f00008]: Footnote: [2004 asp 6](https://www.legislation.gov.uk/asp/2004/6).
 
 [^f00009]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). Section 263A was inserted by the Planning etc. (Scotland) Act [2006 asp 17](https://www.legislation.gov.uk/asp/2006/17), section 50.
 
-[^key-da21c6782444c2f81884e73fe118effc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/114/regulation/3) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-da21c6782444c2f81884e73fe118effc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/114/regulation/3) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
 [^f00010]: Footnote: [S.S.I. 2017/102](https://www.legislation.gov.uk/ssi/2017/102).
 
 [^f00011]: Footnote: [S.S.I. 2017/113](https://www.legislation.gov.uk/ssi/2017/113).
 
-[^key-ae9bb1063b58b386f85b02ec3cd8529f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/114/regulation/4) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-ae9bb1063b58b386f85b02ec3cd8529f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/114/regulation/4) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
 [^f00012]: Footnote: OJ L 20, 26.1.2010, p.7.
 
-[^key-1e6376881a40acb7b7b57d8be8527c15]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/114/regulation/5) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-1e6376881a40acb7b7b57d8be8527c15]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/114/regulation/5) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-69fbad11fe84e92d3cb206b1801e5dcb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/114/regulation/6) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-69fbad11fe84e92d3cb206b1801e5dcb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/114/regulation/6) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-7101147833290bd6f80e112606cfbc0d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2017/114/regulation/7) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-7101147833290bd6f80e112606cfbc0d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2017/114/regulation/7) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-d8f1ece6f60d850456cc74023ff8f380]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2017/114/regulation/8) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-d8f1ece6f60d850456cc74023ff8f380]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2017/114/regulation/8) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-712fde19007e3158087f320cfbdc3c1a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2017/114/regulation/9) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-712fde19007e3158087f320cfbdc3c1a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2017/114/regulation/9) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-5707e4e8cb0e90477f791ba65b5d6ad2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2017/114/regulation/10) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-5707e4e8cb0e90477f791ba65b5d6ad2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2017/114/regulation/10) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-cb3401d3a7a44401420969e0bd43a289]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2017/114/regulation/11) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-cb3401d3a7a44401420969e0bd43a289]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2017/114/regulation/11) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-a212faa45d446bd65b709717a1927826]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2017/114/regulation/12) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-a212faa45d446bd65b709717a1927826]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2017/114/regulation/12) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-e9b11e2f955edae74667a9a6073c11f0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2017/114/regulation/13) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-e9b11e2f955edae74667a9a6073c11f0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2017/114/regulation/13) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-4290e8848a532ff7bdb2a99f92e830d1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2017/114/regulation/14) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-4290e8848a532ff7bdb2a99f92e830d1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2017/114/regulation/14) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-50658d3dcec87791c378a9ad7159d328]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2017/114/regulation/15) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-50658d3dcec87791c378a9ad7159d328]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2017/114/regulation/15) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
 [^f00013]: Footnote: [S.S.I. 2004/520](https://www.legislation.gov.uk/ssi/2004/520), as amended by [S.S.I. 2013/127](https://www.legislation.gov.uk/ssi/2013/127).
 
 [^f00014]: Footnote: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391), as relevantly amended by [S.I. 2015/1897](https://www.legislation.gov.uk/uksi/2015/1897).
 
-[^key-c2294b6472823bf269f38d49a37ed3af]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2017/114/regulation/16) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-c2294b6472823bf269f38d49a37ed3af]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2017/114/regulation/16) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-7e83aacacc1451b1998e1a478881de29]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2017/114/regulation/17) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-7e83aacacc1451b1998e1a478881de29]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2017/114/regulation/17) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-41c377d9ffe333eb36eac6c1a0d7e5a2]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2017/114/regulation/18) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-41c377d9ffe333eb36eac6c1a0d7e5a2]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2017/114/regulation/18) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-7abc67a1fd5e0c3bbc874b4f19a094d5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2017/114/regulation/19) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-7abc67a1fd5e0c3bbc874b4f19a094d5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2017/114/regulation/19) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-59d5aa93ef092e5fea071a1fa97d3924]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2017/114/regulation/20) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-59d5aa93ef092e5fea071a1fa97d3924]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2017/114/regulation/20) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-4794069e38ca8809edcc10b99b091e43]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2017/114/regulation/21) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-4794069e38ca8809edcc10b99b091e43]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2017/114/regulation/21) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-5fca2b7e628031c40b3b3a830f42d20b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2017/114/regulation/22) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-5fca2b7e628031c40b3b3a830f42d20b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2017/114/regulation/22) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-30efb3a1118202138a688e1756fd25a4]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2017/114/regulation/23) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-30efb3a1118202138a688e1756fd25a4]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2017/114/regulation/23) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-16fb19fe3a4a975422f30e032b96d094]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2017/114/regulation/24) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-16fb19fe3a4a975422f30e032b96d094]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2017/114/regulation/24) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-8ae0e1379091d31bdd52175034db3f1c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2017/114/regulation/25) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-8ae0e1379091d31bdd52175034db3f1c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2017/114/regulation/25) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-c1671fc1fad201700c0ef11a5d0c1874]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2017/114/regulation/26) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-c1671fc1fad201700c0ef11a5d0c1874]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2017/114/regulation/26) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-7ac7cc0024e7451ee86699a267d9c555]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2017/114/regulation/27) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-7ac7cc0024e7451ee86699a267d9c555]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2017/114/regulation/27) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-821b9115cc64098bbe9957956d63f048]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2017/114/regulation/28) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-821b9115cc64098bbe9957956d63f048]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2017/114/regulation/28) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-115b40b894171ac78e10ebb876a060e8]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2017/114/regulation/29) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-115b40b894171ac78e10ebb876a060e8]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2017/114/regulation/29) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-e9430c2ca9dcb2dc3c3117e2d3b24293]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2017/114/regulation/30) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-e9430c2ca9dcb2dc3c3117e2d3b24293]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2017/114/regulation/30) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-02481db03b5d5bba4f005720c67c366f]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2017/114/regulation/31) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-02481db03b5d5bba4f005720c67c366f]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2017/114/regulation/31) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-18321e26ca48df0ed58cedbf6a544857]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2017/114/regulation/32) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-18321e26ca48df0ed58cedbf6a544857]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2017/114/regulation/32) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-c15310679da77f8759a4d245c03846f4]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2017/114/regulation/33) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-c15310679da77f8759a4d245c03846f4]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2017/114/regulation/33) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-00bbc45c28321da2faeee8a93d7ace7d]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2017/114/regulation/34) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-00bbc45c28321da2faeee8a93d7ace7d]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2017/114/regulation/34) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-571c873557d7adc1d419a1f73ff205b5]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2017/114/regulation/35) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-571c873557d7adc1d419a1f73ff205b5]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2017/114/regulation/35) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-54f15ee422b01bd33b92396be923db04]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2017/114/regulation/36) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-54f15ee422b01bd33b92396be923db04]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2017/114/regulation/36) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-34ce950b3d749f0a55db200a6834e715]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2017/114/regulation/37) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-34ce950b3d749f0a55db200a6834e715]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2017/114/regulation/37) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-e3651753cb3f094a7a41de2c6abb7ea4]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2017/114/regulation/38) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-e3651753cb3f094a7a41de2c6abb7ea4]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2017/114/regulation/38) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-f0320067aabafb5981fdb6a3067a6970]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2017/114/regulation/39) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-f0320067aabafb5981fdb6a3067a6970]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2017/114/regulation/39) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-2ed60f327a56d80191d7fe0e2e23483b]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2017/114/regulation/40) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-2ed60f327a56d80191d7fe0e2e23483b]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2017/114/regulation/40) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-364a09b5cf3025ac8334e16f7916c1f0]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2017/114/regulation/41) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-364a09b5cf3025ac8334e16f7916c1f0]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2017/114/regulation/41) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-c1cc3751511c679463c66a68eaffa492]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2017/114/regulation/42) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-c1cc3751511c679463c66a68eaffa492]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2017/114/regulation/42) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-f3ca5a59c4cfee81065d9b7eaf715286]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2017/114/regulation/43) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-f3ca5a59c4cfee81065d9b7eaf715286]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2017/114/regulation/43) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-554b6587c0a0fc2354dcf3fb8d98e4e6]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2017/114/regulation/44) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-554b6587c0a0fc2354dcf3fb8d98e4e6]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2017/114/regulation/44) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-5a8d80e608646b6de45d6c0d1684ab23]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2017/114/regulation/45) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-5a8d80e608646b6de45d6c0d1684ab23]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2017/114/regulation/45) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-9b0379a9da03ebceda8ae0f708cca07c]: Textual amendment: Word in [reg. 45(1)](https://www.legislation.gov.uk/ssi/2017/114/regulation/45/1) substituted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2017/168/regulation/5/3/a)
+[^c-9b0379a9da03ebceda8ae0f708cca07c]: Textual amendment: Word in [reg. 45(1)](https://www.legislation.gov.uk/ssi/2017/114/regulation/45/1) substituted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/ssi/2017/168/regulation/5/3/a)
 
-[^key-0ca4c975ce65790fc507c07d4e009a8a]: Textual amendment: Word in [reg. 45(3)](https://www.legislation.gov.uk/ssi/2017/114/regulation/45/3) substituted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2017/168/regulation/5/3/b)
+[^c-0ca4c975ce65790fc507c07d4e009a8a]: Textual amendment: Word in [reg. 45(3)](https://www.legislation.gov.uk/ssi/2017/114/regulation/45/3) substituted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2017/168/regulation/5/3/b)
 
-[^key-d15957206b9c9d788fbe8f505c315bd6]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2017/114/regulation/46) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-d15957206b9c9d788fbe8f505c315bd6]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2017/114/regulation/46) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-b38c0daaa3e9d2e56070d8e221e45cea]: Commencement: [Reg. 47](https://www.legislation.gov.uk/ssi/2017/114/regulation/47) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-b38c0daaa3e9d2e56070d8e221e45cea]: Commencement: [Reg. 47](https://www.legislation.gov.uk/ssi/2017/114/regulation/47) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-d5f09eac0ade170ac94f482f0751d35c]: Commencement: [Reg. 48](https://www.legislation.gov.uk/ssi/2017/114/regulation/48) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-d5f09eac0ade170ac94f482f0751d35c]: Commencement: [Reg. 48](https://www.legislation.gov.uk/ssi/2017/114/regulation/48) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-e0a6d06577e4797d7ebe68fdd3060958]: Textual amendment: Words in [reg. 48](https://www.legislation.gov.uk/ssi/2017/114/regulation/48) substituted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [5(4)](https://www.legislation.gov.uk/ssi/2017/168/regulation/5/4)
+[^c-e0a6d06577e4797d7ebe68fdd3060958]: Textual amendment: Words in [reg. 48](https://www.legislation.gov.uk/ssi/2017/114/regulation/48) substituted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [5(4)](https://www.legislation.gov.uk/ssi/2017/168/regulation/5/4)
 
-[^key-16cdb25409359d47650c01006abea611]: Commencement: [Reg. 49](https://www.legislation.gov.uk/ssi/2017/114/regulation/49) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-16cdb25409359d47650c01006abea611]: Commencement: [Reg. 49](https://www.legislation.gov.uk/ssi/2017/114/regulation/49) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
 [^f00015]: Footnote: [S.S.I. 2006/582](https://www.legislation.gov.uk/ssi/2006/582), amended by [S.S.I. 2006/614](https://www.legislation.gov.uk/ssi/2006/614), [S.S.I. 2008/202](https://www.legislation.gov.uk/ssi/2008/202), [S.S.I. 2010/460](https://www.legislation.gov.uk/ssi/2010/460), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.S.I. 2013/177](https://www.legislation.gov.uk/ssi/2013/177).
 
-[^key-7cad774f2b4ec66e196a587baa0d64c4]: Commencement: [Reg. 50](https://www.legislation.gov.uk/ssi/2017/114/regulation/50) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-7cad774f2b4ec66e196a587baa0d64c4]: Commencement: [Reg. 50](https://www.legislation.gov.uk/ssi/2017/114/regulation/50) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
 [^f00016]: Footnote: [S.S.I. 1999/1](https://www.legislation.gov.uk/ssi/1999/1), amended by [S.S.I. 2002/324](https://www.legislation.gov.uk/ssi/2002/324), [S.S.I. 2004/332](https://www.legislation.gov.uk/ssi/2004/332), [S.S.I. 2006/614](https://www.legislation.gov.uk/ssi/2006/614), [S.S.I. 2007/176](https://www.legislation.gov.uk/ssi/2007/176), [S.S.I. 2007/484](https://www.legislation.gov.uk/ssi/2007/484), [S.S.I. 2007/268](https://www.legislation.gov.uk/ssi/2007/268), [S.S.I. 2008/202](https://www.legislation.gov.uk/ssi/2008/202), [S.S.I. 2009/221](https://www.legislation.gov.uk/ssi/2009/221), [S.S.I. 2009/343](https://www.legislation.gov.uk/ssi/2009/343), [S.S.I. 2010/460](https://www.legislation.gov.uk/ssi/2010/460), [S.S.I. 2011/139](https://www.legislation.gov.uk/ssi/2011/139), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.S.I. 2013/177](https://www.legislation.gov.uk/ssi/2013/177) and [S.S.I. 2015/237](https://www.legislation.gov.uk/ssi/2015/237).
 
-[^key-2b3379cd8aedd2a9db5683bb82897211]: Commencement: [Reg. 51](https://www.legislation.gov.uk/ssi/2017/114/regulation/51) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-2b3379cd8aedd2a9db5683bb82897211]: Commencement: [Reg. 51](https://www.legislation.gov.uk/ssi/2017/114/regulation/51) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-b661bcc131bc7e6073397e5f958f1fcf]: Textual amendment: [Reg. 51(1)-(3)](https://www.legislation.gov.uk/ssi/2017/114/regulation/51/1) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-b661bcc131bc7e6073397e5f958f1fcf]: Textual amendment: [Reg. 51(1)-(3)](https://www.legislation.gov.uk/ssi/2017/114/regulation/51/1) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^f00017]: Footnote: [S.S.I. 2011/209](https://www.legislation.gov.uk/ssi/2011/209) as amended by [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360), [S.S.I. 2013/176](https://www.legislation.gov.uk/ssi/2013/176), [S.S.I. 2013/323](https://www.legislation.gov.uk/ssi/2013/323) and [S.S.I. 2015/211](https://www.legislation.gov.uk/ssi/2015/211).
 
-[^key-c96c8836f407a2fa7ccfb10e45c0d173]: Commencement: [Reg. 52](https://www.legislation.gov.uk/ssi/2017/114/regulation/52) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-c96c8836f407a2fa7ccfb10e45c0d173]: Commencement: [Reg. 52](https://www.legislation.gov.uk/ssi/2017/114/regulation/52) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
 [^f00018]: Footnote: [S.I. 1992/223](https://www.legislation.gov.uk/uksi/1992/223). Article 3(10) was amended by [S.S.I. 2011/139](https://www.legislation.gov.uk/ssi/2011/139), regulation 47(5). There are other amendments not relevant to these Regulations.
 
-[^key-e3cc4cb76786ba6fe2b1c4346e7023da]: Commencement: [Reg. 53](https://www.legislation.gov.uk/ssi/2017/114/regulation/53) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-e3cc4cb76786ba6fe2b1c4346e7023da]: Commencement: [Reg. 53](https://www.legislation.gov.uk/ssi/2017/114/regulation/53) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
 [^f00019]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-4958173bbcea1fb8c392280b8aee604e]: Commencement: [Reg. 54](https://www.legislation.gov.uk/ssi/2017/114/regulation/54) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-4958173bbcea1fb8c392280b8aee604e]: Commencement: [Reg. 54](https://www.legislation.gov.uk/ssi/2017/114/regulation/54) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-54f5755e3125a37e8a211e29a2c4c0b2]: Commencement: [Reg. 55](https://www.legislation.gov.uk/ssi/2017/114/regulation/55) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-54f5755e3125a37e8a211e29a2c4c0b2]: Commencement: [Reg. 55](https://www.legislation.gov.uk/ssi/2017/114/regulation/55) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-9021ddd7d603c79a3def5fff9a59cb14]: Commencement: [Reg. 56](https://www.legislation.gov.uk/ssi/2017/114/regulation/56) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-9021ddd7d603c79a3def5fff9a59cb14]: Commencement: [Reg. 56](https://www.legislation.gov.uk/ssi/2017/114/regulation/56) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
 [^f00020]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-61d81c1f5ee886ca5065be5351fc2085]: Commencement: [Schedule 1](https://www.legislation.gov.uk/ssi/2017/114/schedule/1) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-61d81c1f5ee886ca5065be5351fc2085]: Commencement: [Schedule 1](https://www.legislation.gov.uk/ssi/2017/114/schedule/1) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-bd350e95f3cf95cd2d8f8a334c31b58a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2017/114/schedule/2/paragraph/1) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-bd350e95f3cf95cd2d8f8a334c31b58a]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2017/114/schedule/2/paragraph/1) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-b747b6bc3c0c09d3879ec3804870c9a8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2017/114/schedule/2/paragraph/2) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-b747b6bc3c0c09d3879ec3804870c9a8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2017/114/schedule/2/paragraph/2) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-e031b0f623d6fbe7186864a04af1b5af]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2017/114/schedule/2/paragraph/3) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-e031b0f623d6fbe7186864a04af1b5af]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2017/114/schedule/2/paragraph/3) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-f51718f3cd48d3b556d8cda418bd7d8d]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/1) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-f51718f3cd48d3b556d8cda418bd7d8d]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/1) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-8030e5f71c6cee50b029482b26dee6c1]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/2) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-8030e5f71c6cee50b029482b26dee6c1]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/2) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-5eaaf323692eb4aaf4b3dee7b8ebc558]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/3) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-5eaaf323692eb4aaf4b3dee7b8ebc558]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/3) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-2f887fc4073f4824da5a818d59dec8fc]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/4) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-2f887fc4073f4824da5a818d59dec8fc]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/4) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-fba15679482e18475dda66834b158894]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/5) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-fba15679482e18475dda66834b158894]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/5) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-78d62612f93066060c415cf5af64a69d]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/6) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-78d62612f93066060c415cf5af64a69d]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/6) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
 [^f00021]: Footnote: OJ L 20, 26.1.2010, p.7, amended by Council [Directive 2013/17/EU](https://www.legislation.gov.uk/european/directive/2013/0017) (OJ L 158, 10.6.2013, p.193).
 
-[^key-4c2d87e30dc705ea0e54000bc076f3c6]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/7) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-4c2d87e30dc705ea0e54000bc076f3c6]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/7) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-411c4c2c9e884b0d1dd92eb9fe600f74]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/8) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-411c4c2c9e884b0d1dd92eb9fe600f74]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/8) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-5ab460d7fcfb9b994ef1eeeda9858f46]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/9) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-5ab460d7fcfb9b994ef1eeeda9858f46]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/9) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
 [^f00022]: Footnote: OJ L 197, 24.7.2012, p.1.
 
 [^f00023]: Footnote: OJ L 172, 2.7.2009, p.18, amended by Council Directive 2014/87/Euratom (OJ L 219, 25.7.2014, p.42).
 
-[^key-99998b60f9cb0ef88365167fd14d930b]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/10) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-99998b60f9cb0ef88365167fd14d930b]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/10) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-f2a997d1ca6b94e70417bffd0bdba154]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/11) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-f2a997d1ca6b94e70417bffd0bdba154]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ssi/2017/114/schedule/3/paragraph/11) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-cbe0b4aa1057058865f109397f51d928]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/1) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-cbe0b4aa1057058865f109397f51d928]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/1) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-c3509f400290066665fc9a00d4773304]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/2) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-c3509f400290066665fc9a00d4773304]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/2) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-7395ca004c94280c1e6d041754da2853]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/3) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-7395ca004c94280c1e6d041754da2853]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/3) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-e14adaa6b3fd760f5f2fdcc1f86093dd]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/4) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-e14adaa6b3fd760f5f2fdcc1f86093dd]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/4) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-fb48b1d3718ff7637b0f3a04189adfad]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/5) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-fb48b1d3718ff7637b0f3a04189adfad]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/5) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-f779ab194224b788d77865df47874985]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/6) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-f779ab194224b788d77865df47874985]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/6) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-666853fdcdd35051b14b68c2b8375758]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/7) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-666853fdcdd35051b14b68c2b8375758]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/7) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-7b0e7e557198ef6b616254b95f587cf1]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/8) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-7b0e7e557198ef6b616254b95f587cf1]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/8) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
 
-[^key-d49ac4c76aa114cad340d69e49bf466f]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/9) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)
+[^c-d49ac4c76aa114cad340d69e49bf466f]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ssi/2017/114/schedule/4/paragraph/9) in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/114/regulation/1)

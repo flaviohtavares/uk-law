@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Notification of offences[^key-a8288c16b33ec0771094dc862b3826f6]
+## 10. Notification of offences[^c-a8288c16b33ec0771094dc862b3826f6]
 
 *Extent: N.I.*
 
-Where the registered person or the responsible individual has criminal charges pending or is convicted of any criminal offence, whether in Northern Ireland or elsewhere, he shall forthwith give notice in writing to the RQIA[^key-4ca5e5950155e725f54604a422e453f9] of –
+Where the registered person or the responsible individual has criminal charges pending or is convicted of any criminal offence, whether in Northern Ireland or elsewhere, he shall forthwith give notice in writing to the RQIA[^c-4ca5e5950155e725f54604a422e453f9] of –
 
 - (a) details of the criminal charges pending;
 - (b) the date and place of the conviction;
@@ -29,6 +29,6 @@ Where the registered person or the responsible individual has criminal charges p
 
 ## Annotations
 
-[^key-a8288c16b33ec0771094dc862b3826f6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/176/regulation/10) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-a8288c16b33ec0771094dc862b3826f6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/176/regulation/10) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
 
-[^key-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

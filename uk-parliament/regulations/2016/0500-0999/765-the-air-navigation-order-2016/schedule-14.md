@@ -152,7 +152,7 @@ In respect of any log book kept under article 34 of the Air Navigation Order 200
 - (b) entries made in such a log book before the commencement of this Order must be retained as though they were entries made in accordance with the requirements of this Order; and
 - (c) entries in such a log book which were required to be made by the Air Navigation Order 2009 immediately before the commencement of this Order and which have not been so made continue to be required to be made.
 
-#### 16. Equipment of non-Part-21 aircraft[^key-4353a41c96d18dd7560d399e73c2933b]
+#### 16. Equipment of non-Part-21 aircraft[^c-4353a41c96d18dd7560d399e73c2933b]
 
 A non-Part-21 aircraft which, immediately before the commencement of this Order, was fitted with equipment in conformity with article 37 of the Air Navigation Order 2009 is deemed to meet the requirements of article 77 of this Order.
 
@@ -225,4 +225,4 @@ whichever is the earlier.
 
 [^c23205341]: Marginal citation: [S.R. 2015/72](https://www.legislation.gov.uk/nisr/2015/72).
 
-[^key-4353a41c96d18dd7560d399e73c2933b]: Textual amendment: Word in [Sch. 14 para. 16](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/16) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 86](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/86) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4353a41c96d18dd7560d399e73c2933b]: Textual amendment: Word in [Sch. 14 para. 16](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/16) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 1 para. 86](https://www.legislation.gov.uk/uksi/2019/645/schedule/1/paragraph/86) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

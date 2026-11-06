@@ -40,7 +40,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 24(2)(b), 69(4)(b), 97D(4)(b), 109(1), 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], and now vested in it[^f00002], and Articles 171(4), 236(1), 237(1) and 287(2) and (3) of the Pensions (Northern Ireland) Order 2005[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-071503304f04b39287a0414a2b6a3897][^key-071503304f04b39287a0414a2b6a3897]
+## 1. Citation, commencement and interpretation[^c-071503304f04b39287a0414a2b6a3897][^c-071503304f04b39287a0414a2b6a3897]
 
 (1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 and shall come into operation—
 
@@ -49,11 +49,11 @@ The Department for Social Development makes the following Regulations in exercis
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly
 
-## 2. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^key-b9e85a25434350ec7afc2f0f44e7751a][^key-c96896f9b0f1907177833a8d95ddd056]
+## 2. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^c-b9e85a25434350ec7afc2f0f44e7751a][^c-c96896f9b0f1907177833a8d95ddd056]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^key-0179e45a4ea64e88e390c0bdf08bbee9]
+## 3. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^c-0179e45a4ea64e88e390c0bdf08bbee9]
 
 (1) The Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^f00007] are amended in accordance with paragraphs (2) and (3).
 
@@ -74,7 +74,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (3) After Schedule 2 (revocations) add Schedule 3 as set out in Schedule 1 to these Regulations.
 
-## 4. Amendment of the Protected Rights (Transfer Payment) Regulations[^key-d1bbba433d9d2319b2e8df66b36b66fb]
+## 4. Amendment of the Protected Rights (Transfer Payment) Regulations[^c-d1bbba433d9d2319b2e8df66b36b66fb]
 
 (1) The Protected Rights (Transfer Payment) Regulations (Northern Ireland) 1996[^f00010] are amended in accordance with paragraphs (2) and (3).
 
@@ -89,7 +89,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (3) After Schedule 2 (transitional provisions) add Schedule 3 as set out in Schedule 2 to these Regulations.
 
-## 5. Amendment of the Pension Sharing (Pension Credit Benefit) Regulations[^key-33191418c0726727f9ce6d69e8d7a752]
+## 5. Amendment of the Pension Sharing (Pension Credit Benefit) Regulations[^c-33191418c0726727f9ce6d69e8d7a752]
 
 (1) The Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^f00012] are amended in accordance with paragraphs (2) and (3).
 
@@ -109,7 +109,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (3) At the end add the Schedule as set out in Schedule 3 to these Regulations.
 
-## 6. Amendment of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations[^key-fa9b6fa17d8b1e52ad2dbc609f47f481]
+## 6. Amendment of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations[^c-fa9b6fa17d8b1e52ad2dbc609f47f481]
 
 In regulation 7 of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006[^f00013] (notifications to employers and duty to consult)—
 
@@ -133,11 +133,11 @@ In regulation 7 of the Occupational and Personal Pension Schemes (Consultation b
 
   .
 
-## 7. Amendment of the Occupational Pension Schemes (Fraud Compensation Levy) Regulations[^key-ba18bcd5cb1e3d2837bc1839525a1ad9][^key-ba18bcd5cb1e3d2837bc1839525a1ad9]
+## 7. Amendment of the Occupational Pension Schemes (Fraud Compensation Levy) Regulations[^c-ba18bcd5cb1e3d2837bc1839525a1ad9][^c-ba18bcd5cb1e3d2837bc1839525a1ad9]
 
 In regulation 3(3)(b) of the Occupational Pension Schemes (Fraud Compensation Levy) Regulations (Northern Ireland) 2006[^f00015] (the fraud compensation levy) for “23 pence” substitute “75 pence”.
 
-## 8. Revocations[^key-7bb4e4e9e51b4f3d167e234aa3e0fd9a]
+## 8. Revocations[^c-7bb4e4e9e51b4f3d167e234aa3e0fd9a]
 
 Regulation 2(a) of the Occupational Pension Schemes (Preservation of Benefit) (Amendment) Regulations (Northern Ireland) 1999[^f00016] is revoked.
 
@@ -149,7 +149,7 @@ Anne McCleary
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE 1 — Schedule to be added to the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^key-a3d42f5e18480e0cfcaf437b5d436b76]
+## SCHEDULE 1 — Schedule to be added to the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^c-a3d42f5e18480e0cfcaf437b5d436b76]
 
 Regulation 3(3)
 
@@ -173,7 +173,7 @@ Regulation 3(3)
 >
 > The actuary has taken account of the benefits accrued by the date of this certificate. The actuary has not taken account of any differences between the terms and conditions of any benefits that may accrue in the future under the transferring scheme and the receiving scheme.
 
-## SCHEDULE 2 — Schedule to be added to the Protected Rights (Transfer Payment) Regulations (Northern Ireland) 1996[^key-f6149637659cb60fd06023ef78907de4]
+## SCHEDULE 2 — Schedule to be added to the Protected Rights (Transfer Payment) Regulations (Northern Ireland) 1996[^c-f6149637659cb60fd06023ef78907de4]
 
 Regulation 4(3)
 
@@ -195,7 +195,7 @@ Regulation 4(3)
 >
 > The actuary has taken account of the benefits accrued by the date of this certificate. The actuary has not taken account of any differences between the terms and conditions of any benefits that may accrue in the future under the transferring scheme and the receiving scheme.
 
-## SCHEDULE 3 — Schedule to be added to the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^key-259ddf20a3f1d44220c21f1ab698bdd1]
+## SCHEDULE 3 — Schedule to be added to the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^c-259ddf20a3f1d44220c21f1ab698bdd1]
 
 Regulation 5(3)
 
@@ -249,15 +249,15 @@ As these Regulations, in so far as they are made under the Pensions (Northern Ir
 
 [^f00003]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Article 236(1) is modified in its application to multi-employer schemes by [S.R. 2006 No. 4](https://www.legislation.gov.uk/nisr/2006/4)
 
-[^key-071503304f04b39287a0414a2b6a3897]: Commencement: Reg. 1 in operation at 31.3.2011, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/a)
+[^c-071503304f04b39287a0414a2b6a3897]: Commencement: Reg. 1 in operation at 31.3.2011, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/a)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-b9e85a25434350ec7afc2f0f44e7751a]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/89/regulation/2) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-b9e85a25434350ec7afc2f0f44e7751a]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2011/89/regulation/2) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
-[^key-c96896f9b0f1907177833a8d95ddd056]: Commencement: Reg. 2 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+[^c-c96896f9b0f1907177833a8d95ddd056]: Commencement: Reg. 2 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
 
-[^key-0179e45a4ea64e88e390c0bdf08bbee9]: Commencement: Reg. 3 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+[^c-0179e45a4ea64e88e390c0bdf08bbee9]: Commencement: Reg. 3 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
 
 [^f00007]: Footnote: [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37); relevant amending Regulations are [S.R. 1993 No. 324](https://www.legislation.gov.uk/nisr/1993/324) and [S.R. 1999 No. 378](https://www.legislation.gov.uk/nisr/1999/378)
 
@@ -265,32 +265,32 @@ As these Regulations, in so far as they are made under the Pensions (Northern Ir
 
 [^f00009]: Footnote: The definition of “the relevant actuary” in regulation 12(5) was substituted by regulation 2(c) of [S.R. 1999 No. 378](https://www.legislation.gov.uk/nisr/1999/378)
 
-[^key-d1bbba433d9d2319b2e8df66b36b66fb]: Commencement: Reg. 4 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+[^c-d1bbba433d9d2319b2e8df66b36b66fb]: Commencement: Reg. 4 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
 
 [^f00010]: Footnote: [S.R. 1996 No. 509](https://www.legislation.gov.uk/nisr/1996/509); relevant amending Regulations are [S.R. 2005 No. 467](https://www.legislation.gov.uk/nisr/2005/467)
 
 [^f00011]: Footnote: Regulation 3C was inserted by regulation 2(5) of [S.R. 2005 No. 467](https://www.legislation.gov.uk/nisr/2005/467)
 
-[^key-33191418c0726727f9ce6d69e8d7a752]: Commencement: Reg. 5 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+[^c-33191418c0726727f9ce6d69e8d7a752]: Commencement: Reg. 5 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
 
 [^f00012]: Footnote: [S.R. 2000 No. 146](https://www.legislation.gov.uk/nisr/2000/146), to which there are amendments not relevant to these Regulations
 
-[^key-fa9b6fa17d8b1e52ad2dbc609f47f481]: Commencement: Reg. 6 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+[^c-fa9b6fa17d8b1e52ad2dbc609f47f481]: Commencement: Reg. 6 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
 
 [^f00013]: Footnote: [S.R. 2006 No. 48](https://www.legislation.gov.uk/nisr/2006/48); the relevant amending Regulations are [S.R. 2006 No. 141](https://www.legislation.gov.uk/nisr/2006/141)
 
 [^f00014]: Footnote: The definition of “relevant employer” in regulation 3(2) was substituted by regulation 8(2) of [S.R. 2006 No. 141](https://www.legislation.gov.uk/nisr/2006/141)
 
-[^key-ba18bcd5cb1e3d2837bc1839525a1ad9]: Commencement: Reg. 7 in operation at 31.3.2011, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/a)
+[^c-ba18bcd5cb1e3d2837bc1839525a1ad9]: Commencement: Reg. 7 in operation at 31.3.2011, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/a)
 
 [^f00015]: Footnote: [S.R. 2006 No. 85](https://www.legislation.gov.uk/nisr/2006/85)
 
-[^key-7bb4e4e9e51b4f3d167e234aa3e0fd9a]: Commencement: Reg. 8 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+[^c-7bb4e4e9e51b4f3d167e234aa3e0fd9a]: Commencement: Reg. 8 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
 
 [^f00016]: Footnote: [S.R. 1999 No. 378](https://www.legislation.gov.uk/nisr/1999/378)
 
-[^key-a3d42f5e18480e0cfcaf437b5d436b76]: Commencement: Sch. 1 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+[^c-a3d42f5e18480e0cfcaf437b5d436b76]: Commencement: Sch. 1 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
 
-[^key-f6149637659cb60fd06023ef78907de4]: Commencement: Sch. 2 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+[^c-f6149637659cb60fd06023ef78907de4]: Commencement: Sch. 2 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
 
-[^key-259ddf20a3f1d44220c21f1ab698bdd1]: Commencement: Sch. 3 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)
+[^c-259ddf20a3f1d44220c21f1ab698bdd1]: Commencement: Sch. 3 in operation at 6.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2011/89/regulation/1/1/b)

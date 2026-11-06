@@ -22,7 +22,7 @@ summary: ''
 
 In these Regulations—
 
-- “[^key-a6f8ab621c80c4feeb50567aca97da37]**2023 Regulations**” means the Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023;
+- “[^c-a6f8ab621c80c4feeb50567aca97da37]**2023 Regulations**” means the Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023;
 - “**the Act**” means the Public Service Pensions Act (Northern Ireland) 2014;
 - “**the 1971 Act**” means the Pensions (Increase) Act (Northern Ireland) 1971 [^c22374081];
 - “**the 1993 Act**” means the Pension Schemes (Northern Ireland) Act 1993 [^c22374091];
@@ -44,7 +44,7 @@ In these Regulations—
 - “accrued standard earned pension”—
   - (a) for the purpose of calculating the amount of a description of full retirement pension or the provisional amount of any description of deferred pension, has the meaning given in regulation 32(2);
   - (b) for the purpose of calculating the amount of a description of partial retirement pension, has the meaning given in regulation 33(2);
-- active member”, in relation to this scheme, means a person who is in pensionable service under this scheme;[^key-83ebbad25d51510a2d04b11280e8c8d7]
+- active member”, in relation to this scheme, means a person who is in pensionable service under this scheme;[^c-83ebbad25d51510a2d04b11280e8c8d7]
 - “**active member's account**” has the meaning given in regulation 37(2);
 - “**actuarial guidance**” means guidance given by the scheme manager after consultation with the scheme actuary;
 - “**actuarial reduction**” in relation to reduction of pension payable to a member who has not reached normal pension age, means a reduction determined by the scheme manager after consultation with the scheme actuary or taking into account tables prepared by the scheme actuary;
@@ -59,7 +59,7 @@ In these Regulations—
 - “**allocation amount**” means the amount of pension allocated as a result of making an allocation election;
 - “**allocation election**” means an election under regulation 78(2);
 - “**amount of added pension**”, in relation to a scheme year, means an amount calculated in accordance with regulation 39(5);
-- “[^key-db4e829c0cf1d9a28205367a460a9bf3]**amount of credited pension**” means the sum of the pension credit calculated in accordance with regulations made under paragraph 5(b) of Schedule 5 (pension credits: mode of discharge) to WRP(NI)O 1999 and any remediable pension credit or remediable pension reduction, where—
+- “[^c-db4e829c0cf1d9a28205367a460a9bf3]**amount of credited pension**” means the sum of the pension credit calculated in accordance with regulations made under paragraph 5(b) of Schedule 5 (pension credits: mode of discharge) to WRP(NI)O 1999 and any remediable pension credit or remediable pension reduction, where—
   - (a) “remediable pension credit”, in the circumstances mentioned in—
     - (i) regulation 48 of the 2023 Regulations, has the meaning given in regulation 49(5) of those Regulations;
     - (ii) regulation 51 of the 2023 Regulations, has the meaning given in regulation 52(3) of those Regulations;
@@ -115,7 +115,7 @@ In these Regulations—
 - “**eligible child**” has the meaning given in regulation 103;
 - “**eligible child's pension**” has the meaning given in regulation 102;
 - “**employer**” means the person responsible for the remuneration of a qualifying judicial officeholder;
-- “[^key-00d90369a4584114076cf5f8c0dddf09]**the Fee-Paid Judges Scheme**” means the scheme established by Parts 1 to 11 of the FPJR 2017;
+- “[^c-00d90369a4584114076cf5f8c0dddf09]**the Fee-Paid Judges Scheme**” means the scheme established by Parts 1 to 11 of the FPJR 2017;
 - “**fee-paid office**” means an office where service is remunerated by payment of fees, as opposed to the payment of salary;
 - “**FPJR 2017**” means the Judicial Pensions (Fee-Paid Judges) Regulations 2017;
 - “**full retirement account**” has the meaning given in regulation 47(4);
@@ -180,19 +180,19 @@ In these Regulations—
 - “**personal pension scheme**” means a personal pension scheme as defined in section 1 (categories of pension schemes) of the 1993 Act that is a registered pension scheme;
 - “**prospective normal pension age**”, in relation to a member's prospective entitlement to benefits under this scheme, means the normal pension age that the scheme manager, by reference to Department of Finance and Personnel directions made under section 11(2) (valuations) of the Act, determines would apply in relation to those benefits;
 - “**provisional amount**”, in relation to any description of deferred pension, has the meaning given in regulation 44(2);
-- “[^key-b52dfeb5ee7149911ebf82b3b5361968]**PSPJOA 2022**” means the Public Service Pensions and Judicial Offices Act 2022;
+- “[^c-b52dfeb5ee7149911ebf82b3b5361968]**PSPJOA 2022**” means the Public Service Pensions and Judicial Offices Act 2022;
 - “**qualifying judicial office**” has the meaning given in regulation 13;
 - “**qualifying judicial service**” has the meaning given in regulation 6 of the FPJR 2017;
 - “**qualifying service**” has the meaning given in regulation 55;
 - “**registered**”, in relation to a pension scheme, means registered under Chapter 2 of Part 4 (registration of pension schemes) of the 2004 Act;
-- “[^key-8a00cece56b07ec66012af49fa47fd6e]**relevant fee-paid judge**” has the meaning given in section 103 of PSPJOA 2022;
+- “[^c-8a00cece56b07ec66012af49fa47fd6e]**relevant fee-paid judge**” has the meaning given in section 103 of PSPJOA 2022;
 - “**the relevant last day**”, in relation to a continuous period of pensionable service, means—
   - (a) for a partially retired member, the day before the day on which the partial retirement option was exercised, and
   - (b) otherwise, the member's last day of pensionable service;
 - “**relevant scheme**” means—
   - (i) an existing scheme;
   - (ii) the Fee-Paid Judges Scheme;
-- “[^key-5ad05498da6d5c99aea210c02c693e7a]**relevant service**” has the meaning given in regulation 29(2) of the 2023 Regulations;
+- “[^c-5ad05498da6d5c99aea210c02c693e7a]**relevant service**” has the meaning given in regulation 29(2) of the 2023 Regulations;
 - “**retirement index adjustment**”, in relation to an amount of accrued pension, has the meaning given in regulation 29;
 - “**retirement benefits**” means benefits payable under Part 6;
 - “**retirement pension**” means any of the following—
@@ -229,7 +229,7 @@ In these Regulations—
 
 ## Annotations
 
-[^key-a6f8ab621c80c4feeb50567aca97da37]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/76/regulation/2) inserted (24.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023/107)](https://www.legislation.gov.uk/nisr/2023/107), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b), [Sch. para. 2(a)](https://www.legislation.gov.uk/nisr/2023/107/schedule/paragraph/2/a)
+[^c-a6f8ab621c80c4feeb50567aca97da37]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/76/regulation/2) inserted (24.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023/107)](https://www.legislation.gov.uk/nisr/2023/107), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b), [Sch. para. 2(a)](https://www.legislation.gov.uk/nisr/2023/107/schedule/paragraph/2/a)
 
 [^c22374081]: Marginal citation: [1971 c. 35 (N.I.)](https://www.legislation.gov.uk/apni/1971/35).
 
@@ -241,13 +241,13 @@ In these Regulations—
 
 [^c22374121]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-83ebbad25d51510a2d04b11280e8c8d7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/76/regulation/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [2(2)](https://www.legislation.gov.uk/nisr/2024/106/regulation/2/2)
+[^c-83ebbad25d51510a2d04b11280e8c8d7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/76/regulation/2) substituted (24.5.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/106)](https://www.legislation.gov.uk/nisr/2024/106), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2024/106/regulation/1/b), [2(2)](https://www.legislation.gov.uk/nisr/2024/106/regulation/2/2)
 
 [^c22374131]: Marginal citation: S.R. [2010 No. 297](https://www.legislation.gov.uk/ukcm/2010/297).
 
 [^c22374141]: Marginal citation: S.R. [2002 No. 377](https://www.legislation.gov.uk/ukcm/2002/377); [regulation 2](https://www.legislation.gov.uk/nisr/2015/76/regulation/2) was amended by S.R. [2006 No. 373](https://www.legislation.gov.uk/ukcm/2006/373).
 
-[^key-db4e829c0cf1d9a28205367a460a9bf3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/76/regulation/2) substituted (24.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023/107)](https://www.legislation.gov.uk/nisr/2023/107), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b), [Sch. para. 2(c)](https://www.legislation.gov.uk/nisr/2023/107/schedule/paragraph/2/c)
+[^c-db4e829c0cf1d9a28205367a460a9bf3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/76/regulation/2) substituted (24.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023/107)](https://www.legislation.gov.uk/nisr/2023/107), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b), [Sch. para. 2(c)](https://www.legislation.gov.uk/nisr/2023/107/schedule/paragraph/2/c)
 
 [^c22374151]: Marginal citation: [Section 228](https://www.legislation.gov.uk/nisr/2015/76/section/228) was substituted by the [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Schedule 17 paragraphs 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/17/paragraph/1) and 4 were amended by the [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) section 49.
 
@@ -255,7 +255,7 @@ In these Regulations—
 
 [^c22374171]: Marginal citation: [Section 8(2)](https://www.legislation.gov.uk/nisr/2015/76/section/8/2) was amended by the [Pensions (Miscellaneous Provisions) (Northern Ireland) Order 1990 (S.I. 1990/1509 (N.I. 13))](https://www.legislation.gov.uk/nisi/1990/1509). Article 3 (5) and the [Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147) Article 36(1) and (3). Section 8(2) of the 1971 Act may be applied subject to such modifications, adaptations and exceptions as may be specified in regulations made under section 5(3) of that Act.
 
-[^key-00d90369a4584114076cf5f8c0dddf09]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/76/regulation/2) inserted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [4(a)](https://www.legislation.gov.uk/nisr/2023/63/regulation/4/a)
+[^c-00d90369a4584114076cf5f8c0dddf09]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/76/regulation/2) inserted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [4(a)](https://www.legislation.gov.uk/nisr/2023/63/regulation/4/a)
 
 [^c22374181]: Marginal citation: [Section 10](https://www.legislation.gov.uk/nisr/2015/76/section/10) was amended by the [Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22))](https://www.legislation.gov.uk/nisi/1995/3213) Articles 147, 168, Schedule 3 paragraph 20 and Schedule 5 Part 3, the [Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. 1999/671)](https://www.legislation.gov.uk/uksi/1999/671) Article 3(1) and Schedule 1 paragraph 41 and the [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29) Schedule 11 paragraphs 1 and 22.
 
@@ -281,11 +281,11 @@ In these Regulations—
 
 [^c22374281]: Marginal citation: [Article 25](https://www.legislation.gov.uk/nisr/2015/76/article/25) was amended by the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) Schedule 29 paragraph 110).
 
-[^key-b52dfeb5ee7149911ebf82b3b5361968]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/76/regulation/2) inserted (24.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023/107)](https://www.legislation.gov.uk/nisr/2023/107), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b), [Sch. para. 2(d)](https://www.legislation.gov.uk/nisr/2023/107/schedule/paragraph/2/d)
+[^c-b52dfeb5ee7149911ebf82b3b5361968]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/76/regulation/2) inserted (24.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023/107)](https://www.legislation.gov.uk/nisr/2023/107), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b), [Sch. para. 2(d)](https://www.legislation.gov.uk/nisr/2023/107/schedule/paragraph/2/d)
 
-[^key-8a00cece56b07ec66012af49fa47fd6e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/76/regulation/2) inserted (24.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023/107)](https://www.legislation.gov.uk/nisr/2023/107), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b), [Sch. para. 2(e)](https://www.legislation.gov.uk/nisr/2023/107/schedule/paragraph/2/e)
+[^c-8a00cece56b07ec66012af49fa47fd6e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/76/regulation/2) inserted (24.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023/107)](https://www.legislation.gov.uk/nisr/2023/107), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b), [Sch. para. 2(e)](https://www.legislation.gov.uk/nisr/2023/107/schedule/paragraph/2/e)
 
-[^key-5ad05498da6d5c99aea210c02c693e7a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/76/regulation/2) inserted (24.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023/107)](https://www.legislation.gov.uk/nisr/2023/107), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b), [Sch. para. 2(f)](https://www.legislation.gov.uk/nisr/2023/107/schedule/paragraph/2/f)
+[^c-5ad05498da6d5c99aea210c02c693e7a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/76/regulation/2) inserted (24.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations (Northern Ireland) 2023 (S.R. 2023/107)](https://www.legislation.gov.uk/nisr/2023/107), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2023/107/regulation/1/b), [Sch. para. 2(f)](https://www.legislation.gov.uk/nisr/2023/107/schedule/paragraph/2/f)
 
 [^c22374291]: Marginal citation: [Article 3](https://www.legislation.gov.uk/nisr/2015/76/article/3) was amended by the [Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255)) Article 262 (2), (3) and (4), the Taxation of Pension Schemes Consequential Amendments) Order 2006 [S.I. 2006/745](https://www.legislation.gov.uk/uksi/2006/745), [Article 16(2)](https://www.legislation.gov.uk/uksi/2006/745/article/16/2), the [Pensions Act (Northern Ireland) 2008 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2008/1) Sections 13 and 19, Schedule 4, paragraph 37 and Schedule 6, Part 6.
 

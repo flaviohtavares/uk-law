@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Construction of “occupational pension scheme” and “employer” in relation to superfund schemes[^key-3c8632b052cfb0116e18961c504d400f]
+## 97. Construction of “occupational pension scheme” and “employer” in relation to superfund schemes[^c-3c8632b052cfb0116e18961c504d400f]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ then for the purposes of the definitions mentioned in subsection (3), both the s
 
 ## Annotations
 
-[^key-3c8632b052cfb0116e18961c504d400f]: Commencement: S. 97 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-3c8632b052cfb0116e18961c504d400f]: Commencement: S. 97 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

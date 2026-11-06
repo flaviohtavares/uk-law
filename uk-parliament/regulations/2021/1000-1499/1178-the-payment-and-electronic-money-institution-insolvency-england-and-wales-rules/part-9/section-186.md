@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 186. Moving from special administration to dissolution[^key-75836356bcf6b692ed01eb2b5835b68c]
+## 186. Moving from special administration to dissolution[^c-75836356bcf6b692ed01eb2b5835b68c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75836356bcf6b692ed01eb2b5835b68c]: Commencement: Rule 186 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-75836356bcf6b692ed01eb2b5835b68c]: Commencement: Rule 186 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

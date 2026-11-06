@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-### PART 1 — Unpaid work requirement[^key-c5a484735261645f3b3b37fdd8440ec8]
+### PART 1 — Unpaid work requirement[^c-c5a484735261645f3b3b37fdd8440ec8]
 
 #### The responsible officer etc
 
@@ -58,11 +58,11 @@ summary: ''
 **3A.** (1) In this Part of this Schedule “**unpaid work requirement**”, in relation to an enforcement order, means a requirement that the relevant person must perform unpaid work in accordance with the instructions of the responsible officer as to—
 
 - (a) the work to be performed, and
-- (b) the times [^key-c443512c675c5f89562065bdbc2bf3c2]... at which the person is to perform it.
+- (b) the times [^c-c443512c675c5f89562065bdbc2bf3c2]... at which the person is to perform it.
 
-(2) Sub-paragraph (1)(b) is subject to paragraph 9[^key-898f0abcf45dce5d30fe2afefce92e01].
+(2) Sub-paragraph (1)(b) is subject to paragraph 9[^c-898f0abcf45dce5d30fe2afefce92e01].
 
-(3)[^key-a0eb95a244b8c62ba2c92b83ef5e44e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a0eb95a244b8c62ba2c92b83ef5e44e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Number of hours of unpaid work to be specified in order
 
@@ -105,26 +105,26 @@ But the total number of hours which are not concurrent must not exceed the maxim
 
 #### Power to revoke
 
-**4.** (1) This paragraph applies where a court has made an enforcement order in respect of a person's failure to comply with a provision of a child arrangements[^key-3a6676e15c502f1eb94fbfe84c1ea537] order and the enforcement order is in force.
+**4.** (1) This paragraph applies where a court has made an enforcement order in respect of a person's failure to comply with a provision of a child arrangements[^c-3a6676e15c502f1eb94fbfe84c1ea537] order and the enforcement order is in force.
 
 (2) The court may revoke the enforcement order if it appears to the court that—
 
 - (a) in all the circumstances no enforcement order should have been made,
 - (b) having regard to circumstances which have arisen since the enforcement order was made, it would be appropriate for the enforcement order to be revoked, or
-- (c) having regard to the person's satisfactory compliance with the child arrangements[^key-6a91cb73c0d166c81488e8014d8b55e0] order or any child arrangements order that has effect in its place, it would be appropriate for the enforcement order to be revoked.
+- (c) having regard to the person's satisfactory compliance with the child arrangements[^c-6a91cb73c0d166c81488e8014d8b55e0] order or any child arrangements order that has effect in its place, it would be appropriate for the enforcement order to be revoked.
 
 (3) The enforcement order may be revoked by the court under sub-paragraph (2) of its own motion or on an application by the person subject to the enforcement order.
 
 (4) In deciding whether to revoke the enforcement order under sub-paragraph (2)(b), the court is to take into account—
 
 - (a) the extent to which the person subject to the enforcement order has complied with it, and
-- (b) the likelihood that the person will comply with the child arrangements[^key-b2cf267938b0a82e2edd9d96ab2431dc] order or any contact order that has effect in its place in the absence of an enforcement order.
+- (b) the likelihood that the person will comply with the child arrangements[^c-b2cf267938b0a82e2edd9d96ab2431dc] order or any contact order that has effect in its place in the absence of an enforcement order.
 
-(5) In deciding whether to revoke the enforcement order under sub-paragraph (2)(c), the court is to take into account the likelihood that the person will comply with the child arrangements[^key-89528c90fe871687028420695a135e7f] order or any child arrangements order that has effect in its place in the absence of an enforcement order.
+(5) In deciding whether to revoke the enforcement order under sub-paragraph (2)(c), the court is to take into account the likelihood that the person will comply with the child arrangements[^c-89528c90fe871687028420695a135e7f] order or any child arrangements order that has effect in its place in the absence of an enforcement order.
 
 #### Amendment by reason of change of residence
 
-**5.** (1) This paragraph applies where a court has made an enforcement order in respect of a person's failure to comply with a provision of a child arrangements[^key-8d171abb2247e086085324b81cd360fb] order and the enforcement order is in force.
+**5.** (1) This paragraph applies where a court has made an enforcement order in respect of a person's failure to comply with a provision of a child arrangements[^c-8d171abb2247e086085324b81cd360fb] order and the enforcement order is in force.
 
 (2) If the court is satisfied that the person has changed, or proposes to change, his residence from the local justice area specified in the order to another local justice area, the court may amend the order by substituting the other area for the area specified.
 
@@ -132,17 +132,17 @@ But the total number of hours which are not concurrent must not exceed the maxim
 
 #### Amendment of hours specified under unpaid work requirement
 
-**6.** (1) This paragraph applies where a court has made an enforcement order in respect of a person's failure to comply with a provision of a child arrangements[^key-b51d7c0fd7796f5f4d6aabe293ac0450] order and the enforcement order is in force.
+**6.** (1) This paragraph applies where a court has made an enforcement order in respect of a person's failure to comply with a provision of a child arrangements[^c-b51d7c0fd7796f5f4d6aabe293ac0450] order and the enforcement order is in force.
 
-(2) If it appears to the court that, having regard to circumstances that have arisen since the enforcement order was made, it would be appropriate to do so, the court may reduce the number of hours specified in the order (but not below the minimum specified in paragraph 3B(1)(b)(i)[^key-6a33e8da3159a63cd04df77b518f08f7]).
+(2) If it appears to the court that, having regard to circumstances that have arisen since the enforcement order was made, it would be appropriate to do so, the court may reduce the number of hours specified in the order (but not below the minimum specified in paragraph 3B(1)(b)(i)[^c-6a33e8da3159a63cd04df77b518f08f7]).
 
-(3) In amending the enforcement order under sub-paragraph (2), the court must be satisfied that the effect on the person of the enforcement order as proposed to be amended is no more than is required to secure his compliance with the child arrangements[^key-10cfe617f5c8143fc76363e809e3eb9d] order or any child arrangements order that has effect in its place.
+(3) In amending the enforcement order under sub-paragraph (2), the court must be satisfied that the effect on the person of the enforcement order as proposed to be amended is no more than is required to secure his compliance with the child arrangements[^c-10cfe617f5c8143fc76363e809e3eb9d] order or any child arrangements order that has effect in its place.
 
 (4) The enforcement order may be amended by the court under sub-paragraph (2) of its own motion or on an application by the person subject to the enforcement order.
 
-#### ...[^key-261b831d3d2b586f3f7bbf8bfa5dda20]
+#### ...[^c-261b831d3d2b586f3f7bbf8bfa5dda20]
 
-**7.**[^key-261b831d3d2b586f3f7bbf8bfa5dda20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-261b831d3d2b586f3f7bbf8bfa5dda20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Warning and report following breach
 
@@ -172,7 +172,7 @@ the officer must report the failure to the appropriate person.
 
 (7) The appropriate person, in relation to an enforcement order, is the officer of the Service or the Welsh family proceedings officer who is required under section 11M to report on matters relating to the enforcement order.
 
-(8) “ **Responsible officer** ”, in relation to a person subject to an enforcement order, has the meaning given by paragraph 1[^key-b2e75e62e6c0cc901bff7476f0234e78].
+(8) “ **Responsible officer** ”, in relation to a person subject to an enforcement order, has the meaning given by paragraph 1[^c-b2e75e62e6c0cc901bff7476f0234e78].
 
 #### Breach of an enforcement order
 
@@ -197,8 +197,8 @@ the officer must report the failure to the appropriate person.
 
 (9) In dealing with the person under sub-paragraph (2)(a), the court may—
 
-- (a) increase the number of hours specified in the first order (but not above the maximum specified in paragraph 3B(1)(b)(ii)[^key-57702aab7118f99b0c4af036d4ab23cf]);
-- (b)[^key-030037e2f34517d4ca91152e5285eb44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) increase the number of hours specified in the first order (but not above the maximum specified in paragraph 3B(1)(b)(ii)[^c-57702aab7118f99b0c4af036d4ab23cf]);
+- (b)[^c-030037e2f34517d4ca91152e5285eb44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In exercising its powers under sub-paragraph (2), the court must be satisfied that, taking into account the extent to which the person has complied with the unpaid work requirement imposed by the first order, the effect on the person of the proposed exercise of those powers—
 
@@ -218,35 +218,35 @@ the officer must report the failure to the appropriate person.
 
 ## Annotations
 
-[^key-c5a484735261645f3b3b37fdd8440ec8]: Textual amendment: Sch. A1 Pt. 1 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 112(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/112/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c5a484735261645f3b3b37fdd8440ec8]: Textual amendment: Sch. A1 Pt. 1 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 112(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/112/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c443512c675c5f89562065bdbc2bf3c2]: Textual amendment: Words in [Sch. A1 para. 3A(1)(b)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/A1/paragraph/3A/1/b) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 36(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/2/a/i), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/3)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)
+[^c-c443512c675c5f89562065bdbc2bf3c2]: Textual amendment: Words in [Sch. A1 para. 3A(1)(b)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/A1/paragraph/3A/1/b) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 36(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/2/a/i), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/3)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)
 
-[^key-898f0abcf45dce5d30fe2afefce92e01]: Textual amendment: Words in [Sch. A1 para. 3A(2)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/A1/paragraph/3A/2) substituted (11.5.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 36(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/2/a/ii), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/3)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)
+[^c-898f0abcf45dce5d30fe2afefce92e01]: Textual amendment: Words in [Sch. A1 para. 3A(2)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/A1/paragraph/3A/2) substituted (11.5.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 36(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/2/a/ii), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/3)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)
 
-[^key-a0eb95a244b8c62ba2c92b83ef5e44e5]: Textual amendment: [Sch. A1 para. 3A(3)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/A1/paragraph/3A/3) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 36(2)(a)(iii)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/2/a/iii), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/3)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)
+[^c-a0eb95a244b8c62ba2c92b83ef5e44e5]: Textual amendment: [Sch. A1 para. 3A(3)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/A1/paragraph/3A/3) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 36(2)(a)(iii)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/2/a/iii), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/3)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)
 
-[^key-3a6676e15c502f1eb94fbfe84c1ea537]: Textual amendment: Words in Sch. A1 para. 4(1) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-3a6676e15c502f1eb94fbfe84c1ea537]: Textual amendment: Words in Sch. A1 para. 4(1) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-6a91cb73c0d166c81488e8014d8b55e0]: Textual amendment: Words in Sch. A1 para. 4(2)(c) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-6a91cb73c0d166c81488e8014d8b55e0]: Textual amendment: Words in Sch. A1 para. 4(2)(c) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-b2cf267938b0a82e2edd9d96ab2431dc]: Textual amendment: Words in Sch. A1 para. 4(4)(b) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-b2cf267938b0a82e2edd9d96ab2431dc]: Textual amendment: Words in Sch. A1 para. 4(4)(b) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-89528c90fe871687028420695a135e7f]: Textual amendment: Words in Sch. A1 para. 4(5) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-89528c90fe871687028420695a135e7f]: Textual amendment: Words in Sch. A1 para. 4(5) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-8d171abb2247e086085324b81cd360fb]: Textual amendment: Words in Sch. A1 para. 5(1) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-8d171abb2247e086085324b81cd360fb]: Textual amendment: Words in Sch. A1 para. 5(1) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-b51d7c0fd7796f5f4d6aabe293ac0450]: Textual amendment: Words in Sch. A1 para. 6(1) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-b51d7c0fd7796f5f4d6aabe293ac0450]: Textual amendment: Words in Sch. A1 para. 6(1) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-6a33e8da3159a63cd04df77b518f08f7]: Textual amendment: Words in Sch. A1 para. 6(2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 112(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/112/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6a33e8da3159a63cd04df77b518f08f7]: Textual amendment: Words in Sch. A1 para. 6(2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 112(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/112/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-10cfe617f5c8143fc76363e809e3eb9d]: Textual amendment: Words in Sch. A1 para. 6(3) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-10cfe617f5c8143fc76363e809e3eb9d]: Textual amendment: Words in Sch. A1 para. 6(3) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-261b831d3d2b586f3f7bbf8bfa5dda20]: Textual amendment: [Sch. A1 para. 7 and cross-heading](https://www.legislation.gov.uk/ukpga/1989/41/schedule/A1/part/2/crossheading/amendment-to-extend-unpaid-work-requirement) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 36(2)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/2/b), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/3)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)
+[^c-261b831d3d2b586f3f7bbf8bfa5dda20]: Textual amendment: [Sch. A1 para. 7 and cross-heading](https://www.legislation.gov.uk/ukpga/1989/41/schedule/A1/part/2/crossheading/amendment-to-extend-unpaid-work-requirement) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 36(2)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/2/b), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/3)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)
 
 [^M_F_ddd27317-9668-4bc3-eedc-7eb8b5dd3948]: Textual amendment: Words in Sch. A1 para. 8(1) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), s. 139(6), Sch. 2 para. 39(2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), art. 4(f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-b2e75e62e6c0cc901bff7476f0234e78]: Textual amendment: Words in Sch. A1 para. 8(8) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 112(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/112/5) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b2e75e62e6c0cc901bff7476f0234e78]: Textual amendment: Words in Sch. A1 para. 8(8) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 112(5)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/112/5) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^M_F_7bb57a0f-6dcd-4283-b29f-13fdb1256a48]: Textual amendment: Words in Sch. A1 para. 9(1) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1042/article/3), [4](https://www.legislation.gov.uk/uksi/2014/1042/article/4), [6-10](https://www.legislation.gov.uk/uksi/2014/1042/article/6))
 
@@ -254,9 +254,9 @@ the officer must report the failure to the appropriate person.
 
 [^M_F_3581edb8-bdd5-4fd7-9b2e-75c32fee3dcb]: Textual amendment: Words in Sch. A1 para. 9(6) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1042/article/3), [4](https://www.legislation.gov.uk/uksi/2014/1042/article/4), [6-10](https://www.legislation.gov.uk/uksi/2014/1042/article/6))
 
-[^key-57702aab7118f99b0c4af036d4ab23cf]: Textual amendment: Words in Sch. A1 para. 9(9) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 112(6)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/112/6/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-57702aab7118f99b0c4af036d4ab23cf]: Textual amendment: Words in Sch. A1 para. 9(9) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 112(6)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/112/6/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-030037e2f34517d4ca91152e5285eb44]: Textual amendment: [Sch. A1 para. 9(9)(b)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/A1/paragraph/9/9/b) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 36(2)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/2/c), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/3)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)
+[^c-030037e2f34517d4ca91152e5285eb44]: Textual amendment: [Sch. A1 para. 9(9)(b)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/A1/paragraph/9/9/b) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 36(2)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/2/c), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 36(3)](https://www.legislation.gov.uk/ukpga/2026/2/section/36/3)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/c)
 
 [^M_F_82ef85ba-8b50-46f8-b0e1-986557876b5e]: Textual amendment: Words in Sch. A1 para. 9(10)(a) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/39/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), [arts. 3](https://www.legislation.gov.uk/uksi/2014/1042/article/3), [4](https://www.legislation.gov.uk/uksi/2014/1042/article/4), [6-10](https://www.legislation.gov.uk/uksi/2014/1042/article/6))
 

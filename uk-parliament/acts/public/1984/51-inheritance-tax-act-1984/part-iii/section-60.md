@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Commencement of settlement.[^key-3e42d65e6d295d6f92acca10f32fb4b8]
+## 60. Commencement of settlement.[^c-3e42d65e6d295d6f92acca10f32fb4b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e42d65e6d295d6f92acca10f32fb4b8]: Textual amendment: [S. 60](https://www.legislation.gov.uk/ukpga/1984/51/section/60) omitted (with effect in accordance with s. 73(11) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 73(4)](https://www.legislation.gov.uk/ukpga/2020/14/section/73/4)
+[^c-3e42d65e6d295d6f92acca10f32fb4b8]: Textual amendment: [S. 60](https://www.legislation.gov.uk/ukpga/1984/51/section/60) omitted (with effect in accordance with s. 73(11) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 73(4)](https://www.legislation.gov.uk/ukpga/2020/14/section/73/4)

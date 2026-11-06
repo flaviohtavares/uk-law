@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Statement of entitlement[^key-4ce971cc7d3c8797b4cecf155dc5a8e3]
+## 144. Statement of entitlement[^c-4ce971cc7d3c8797b4cecf155dc5a8e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ce971cc7d3c8797b4cecf155dc5a8e3]: Commencement: [Reg. 144](https://www.legislation.gov.uk/uksi/2014/1964/regulation/144) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-4ce971cc7d3c8797b4cecf155dc5a8e3]: Commencement: [Reg. 144](https://www.legislation.gov.uk/uksi/2014/1964/regulation/144) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

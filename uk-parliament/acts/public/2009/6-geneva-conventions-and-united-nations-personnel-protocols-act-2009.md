@@ -36,7 +36,7 @@ An Act to amend the Geneva Conventions Act 1957 so as to give effect to the Prot
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Amendments of the Geneva Conventions Act 1957[^key-509bad702e70556ed55efb285ff3ce4f][^key-273a54730475320ce8a31d6ef8ed0f34][^key-650ebe4503dbc41e9afff7f3ae3ed5f6]
+## 1. Amendments of the Geneva Conventions Act 1957[^c-509bad702e70556ed55efb285ff3ce4f][^c-273a54730475320ce8a31d6ef8ed0f34][^c-650ebe4503dbc41e9afff7f3ae3ed5f6]
 
 (1) The Geneva Conventions Act 1957 (c. 52) is amended as follows.
 
@@ -78,7 +78,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (8) After Schedule 6 (which sets out the text of the second protocol), insert the Schedule 7 contained in the Schedule to this Act (which sets out the text of the third protocol).
 
-## 2. Amendments of the United Nations Personnel Act 1997[^key-cab72a6f8a40d9adad62750ea5b8dc73][^key-2b1f54411bc7e086b1756882863c8255]
+## 2. Amendments of the United Nations Personnel Act 1997[^c-cab72a6f8a40d9adad62750ea5b8dc73][^c-2b1f54411bc7e086b1756882863c8255]
 
 (1) Section 4 of the United Nations Personnel Act 1997 (c. 13) (meaning of “UN worker”) is amended as follows.
 
@@ -120,7 +120,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (5) This Act may be cited as the Geneva Conventions and United Nations Personnel (Protocols) Act 2009.
 
-## SCHEDULE — Schedule 7 to be inserted into the Geneva Conventions Act 1957[^key-4a548a4335be59a4d4b2bc79de7b02b8][^key-54b5179b3d954f9eaf39ac525da03042][^key-11b66c284022ea0af2207f0a72184764]
+## SCHEDULE — Schedule 7 to be inserted into the Geneva Conventions Act 1957[^c-4a548a4335be59a4d4b2bc79de7b02b8][^c-54b5179b3d954f9eaf39ac525da03042][^c-11b66c284022ea0af2207f0a72184764]
 
 Section 1(8)
 
@@ -276,18 +276,18 @@ Section 1(8)
 
 ## Annotations
 
-[^key-509bad702e70556ed55efb285ff3ce4f]: Commencement: S. 1 in force at 5.4.2010 by [S.I. 2009/2892](https://www.legislation.gov.uk/uksi/2009/2892), [art. 2](https://www.legislation.gov.uk/uksi/2009/2892/article/2)
+[^c-509bad702e70556ed55efb285ff3ce4f]: Commencement: S. 1 in force at 5.4.2010 by [S.I. 2009/2892](https://www.legislation.gov.uk/uksi/2009/2892), [art. 2](https://www.legislation.gov.uk/uksi/2009/2892/article/2)
 
-[^key-273a54730475320ce8a31d6ef8ed0f34]: Modification: S. 1 extended (Guernsey) (with modifications) (15.1.2011) by [The Geneva Conventions Act (Guernsey) Order 2010 (S.I. 2010/2965)](https://www.legislation.gov.uk/uksi/2010/2965), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2965/article/1), [3](https://www.legislation.gov.uk/uksi/2010/2965/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2965/schedule/1)
+[^c-273a54730475320ce8a31d6ef8ed0f34]: Modification: S. 1 extended (Guernsey) (with modifications) (15.1.2011) by [The Geneva Conventions Act (Guernsey) Order 2010 (S.I. 2010/2965)](https://www.legislation.gov.uk/uksi/2010/2965), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2965/article/1), [3](https://www.legislation.gov.uk/uksi/2010/2965/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2965/schedule/1)
 
-[^key-650ebe4503dbc41e9afff7f3ae3ed5f6]: Modification: S. 1 extended (with modifications) (coming into force in accordance with art. 1) by [The Geneva Conventions Act (Jersey) Order 2012 (S.I. 2012/2589)](https://www.legislation.gov.uk/uksi/2012/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2589/article/1), [2](https://www.legislation.gov.uk/uksi/2012/2589/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/2589/schedule)
+[^c-650ebe4503dbc41e9afff7f3ae3ed5f6]: Modification: S. 1 extended (with modifications) (coming into force in accordance with art. 1) by [The Geneva Conventions Act (Jersey) Order 2012 (S.I. 2012/2589)](https://www.legislation.gov.uk/uksi/2012/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2589/article/1), [2](https://www.legislation.gov.uk/uksi/2012/2589/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/2589/schedule)
 
-[^key-cab72a6f8a40d9adad62750ea5b8dc73]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2009/6/section/2) in force at 28.7.2010 by [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779), [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
+[^c-cab72a6f8a40d9adad62750ea5b8dc73]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2009/6/section/2) in force at 28.7.2010 by [S.I. 2010/1779](https://www.legislation.gov.uk/uksi/2010/1779), [art. 2](https://www.legislation.gov.uk/uksi/2010/1779/article/2)
 
-[^key-2b1f54411bc7e086b1756882863c8255]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2009/6/section/2) extended (Isle of Man) (18.10.2012) by [The United Nations Personnel (Isle of Man) Order 2012 (S.I. 2012/2594)](https://www.legislation.gov.uk/uksi/2012/2594), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2594/article/1), [3](https://www.legislation.gov.uk/uksi/2012/2594/article/3)
+[^c-2b1f54411bc7e086b1756882863c8255]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2009/6/section/2) extended (Isle of Man) (18.10.2012) by [The United Nations Personnel (Isle of Man) Order 2012 (S.I. 2012/2594)](https://www.legislation.gov.uk/uksi/2012/2594), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2594/article/1), [3](https://www.legislation.gov.uk/uksi/2012/2594/article/3)
 
-[^key-4a548a4335be59a4d4b2bc79de7b02b8]: Commencement: Sch. in force at 5.4.2010 by [S.I. 2009/2892](https://www.legislation.gov.uk/uksi/2009/2892), [art. 2](https://www.legislation.gov.uk/uksi/2009/2892/article/2)
+[^c-4a548a4335be59a4d4b2bc79de7b02b8]: Commencement: Sch. in force at 5.4.2010 by [S.I. 2009/2892](https://www.legislation.gov.uk/uksi/2009/2892), [art. 2](https://www.legislation.gov.uk/uksi/2009/2892/article/2)
 
-[^key-54b5179b3d954f9eaf39ac525da03042]: Modification: Sch. extended (Guernsey) (with modifications) (15.1.2011) by [The Geneva Conventions Act (Guernsey) Order 2010 (S.I. 2010/2965)](https://www.legislation.gov.uk/uksi/2010/2965), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2965/article/1), [3](https://www.legislation.gov.uk/uksi/2010/2965/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2965/schedule/1)
+[^c-54b5179b3d954f9eaf39ac525da03042]: Modification: Sch. extended (Guernsey) (with modifications) (15.1.2011) by [The Geneva Conventions Act (Guernsey) Order 2010 (S.I. 2010/2965)](https://www.legislation.gov.uk/uksi/2010/2965), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2965/article/1), [3](https://www.legislation.gov.uk/uksi/2010/2965/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2965/schedule/1)
 
-[^key-11b66c284022ea0af2207f0a72184764]: Modification: Sch. extended (with modifications) (coming into force in accordance with art. 1) by [The Geneva Conventions Act (Jersey) Order 2012 (S.I. 2012/2589)](https://www.legislation.gov.uk/uksi/2012/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2589/article/1), [2](https://www.legislation.gov.uk/uksi/2012/2589/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/2589/schedule)
+[^c-11b66c284022ea0af2207f0a72184764]: Modification: Sch. extended (with modifications) (coming into force in accordance with art. 1) by [The Geneva Conventions Act (Jersey) Order 2012 (S.I. 2012/2589)](https://www.legislation.gov.uk/uksi/2012/2589), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2589/article/1), [2](https://www.legislation.gov.uk/uksi/2012/2589/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/2589/schedule)

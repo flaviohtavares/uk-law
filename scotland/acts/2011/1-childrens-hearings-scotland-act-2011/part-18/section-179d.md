@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 179D. Support for persons affected by child’s offence or behaviour[^key-ecdfcab13bb76579a818b1fac68e74b1]
+## 179D. Support for persons affected by child’s offence or behaviour[^c-ecdfcab13bb76579a818b1fac68e74b1]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecdfcab13bb76579a818b1fac68e74b1]: Textual amendment: [S. 179D](https://www.legislation.gov.uk/asp/2011/1/section/179D) inserted (15.12.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 9(2)](https://www.legislation.gov.uk/asp/2024/5/section/9/2), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/1)
+[^c-ecdfcab13bb76579a818b1fac68e74b1]: Textual amendment: [S. 179D](https://www.legislation.gov.uk/asp/2011/1/section/179D) inserted (15.12.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 9(2)](https://www.legislation.gov.uk/asp/2024/5/section/9/2), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/379](https://www.legislation.gov.uk/ssi/2025/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/379/regulation/2/1)

@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Integrated education
 
-### 1. Meaning of “integrated education”[^key-160b31b0734f70cfbcd3cf055d7d44fb]
+### 1. Meaning of “integrated education”[^c-160b31b0734f70cfbcd3cf055d7d44fb]
 
 (1) “**Integrated education**” means the education together, in an integrated school, of—
 
@@ -63,7 +63,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - (d) the Shared Education (Northern Ireland) Act 2016; and
 - (e) any other provision of Northern Ireland legislation (unless it contains a different definition).
 
-### 2. Purpose of integrated education[^key-3efa7fb1fc2bfef7b972a81ee14fb7ea]
+### 2. Purpose of integrated education[^c-3efa7fb1fc2bfef7b972a81ee14fb7ea]
 
 The purpose of integrated education is—
 
@@ -73,7 +73,7 @@ The purpose of integrated education is—
 - (d) to promote good relations; and
 - (e) to promote respect for identity, diversity and community cohesion.
 
-### 3. Advisory body[^key-593db4c7ebaeb9835e30e19fc7c1976a]
+### 3. Advisory body[^c-593db4c7ebaeb9835e30e19fc7c1976a]
 
 In exercising any functions relating to integrated education the Department of Education must consult with—
 
@@ -82,7 +82,7 @@ In exercising any functions relating to integrated education the Department of E
 
 ## Statutory duty to support
 
-### 4. Support etc. for integrated education[^key-174cf284678ed05fcaa0d67e8c2af644]
+### 4. Support etc. for integrated education[^c-174cf284678ed05fcaa0d67e8c2af644]
 
 (1) In Article 64(1) of the Education Reform (Northern Ireland) Order 1989 (Department’s duties in respect of integrated education) for “to encourage and facilitate” substitute “to encourage, facilitate and support”.
 
@@ -92,7 +92,7 @@ In exercising any functions relating to integrated education the Department of E
 
 .
 
-### 5. Meaning of support[^key-691289574e4fd9dedeb31b489e286e07]
+### 5. Meaning of support[^c-691289574e4fd9dedeb31b489e286e07]
 
 (1) A reference in any provision of Northern Ireland legislation to support for integrated education (including support for the development of integrated education) is a reference to—
 
@@ -101,7 +101,7 @@ In exercising any functions relating to integrated education the Department of E
 
 (2) In subsection (1)(a) “**monitor**” means monitor by reference to data collected in respect of relevant catchment and other areas.
 
-### 6. Duties of Department and Authority relating to the development etc. of integrated education[^key-34ca0abc6730dd8fa4de946485907ff0]
+### 6. Duties of Department and Authority relating to the development etc. of integrated education[^c-34ca0abc6730dd8fa4de946485907ff0]
 
 (1) After Article 64(1) of the Education Reform (Northern Ireland) Order 1989 (Department’s duty to encourage, facilitate and support the development of integrated education) insert—
 
@@ -119,7 +119,7 @@ In exercising any functions relating to integrated education the Department of E
 
 ## Planning and strategy
 
-### 7. General duty[^key-bb33f37faf1fa5ef286c250f2ad3ba0b]
+### 7. General duty[^c-bb33f37faf1fa5ef286c250f2ad3ba0b]
 
 (1) Without prejudice to the generality of the duty under Article 64(1) of the Education Reform (Northern Ireland) Order 1989, the Department of Education must take account of that duty when—
 
@@ -128,7 +128,7 @@ In exercising any functions relating to integrated education the Department of E
 
 (2) The active fulfilment of duties in respect of support for integrated education conferred on education bodies by this Act (or regulations made under it) shall not prejudice or subordinate their duties in respect of promoting shared education or the due discharge of their continuing statutory duties under other enactments including the Shared Education (Northern Ireland) Act 2016.
 
-### 8. New schools[^key-123b638db0626527b071cd9bc8f3c544]
+### 8. New schools[^c-123b638db0626527b071cd9bc8f3c544]
 
 (1) Education bodies must consider integrated education when planning for the establishment of a new school.
 
@@ -158,7 +158,7 @@ who would, in the opinion of the relevant body, be affected by the proposal.
 
 (6) The interpretation of subsection (5) will not preclude education bodies receiving or responding supportively to applications or expressions of interest by such schools in respect of transforming into integrated schools.
 
-### 9. Integrated education strategy[^key-ce16831b2727db0735cbd48c59e09ac6]
+### 9. Integrated education strategy[^c-ce16831b2727db0735cbd48c59e09ac6]
 
 (1) The Department of Education must prepare, publish and maintain a strategy for the encouragement, facilitation, support for and provision of integrated education (“the integrated education strategy”).
 
@@ -191,7 +191,7 @@ who would, in the opinion of the relevant body, be affected by the proposal.
 - (a) lay the strategy, and each revision, before the Assembly; and
 - (b) cooperate with any post-legislative scrutiny exercise carried out by the Assembly or any Committee of the Assembly in relation to the strategy or a revision.
 
-### 10. Reporting[^key-49e625edcefab72515272663716aace6]
+### 10. Reporting[^c-49e625edcefab72515272663716aace6]
 
 (1) The Department of Education must prepare or commission and publish a report on integrated education—
 
@@ -225,7 +225,7 @@ who would, in the opinion of the relevant body, be affected by the proposal.
 
 ## Final provisions
 
-### 11. Regulations[^key-6ca7081027cc667b51715c5d291c3ec3]
+### 11. Regulations[^c-6ca7081027cc667b51715c5d291c3ec3]
 
 (1) The Department of Education must make regulations in respect of integrated education supplementing the provisions of this Act.
 
@@ -253,7 +253,7 @@ who would, in the opinion of the relevant body, be affected by the proposal.
 
 (5) Regulations under this section may not be made unless a draft of the regulations has been laid before and approved by a resolution of, the Assembly.
 
-### 12. Guidance[^key-316cdb250e92b258999b502c322376ff]
+### 12. Guidance[^c-316cdb250e92b258999b502c322376ff]
 
 (1) The Department of Education may give guidance about—
 
@@ -269,7 +269,7 @@ who would, in the opinion of the relevant body, be affected by the proposal.
 
 (4) An education body may give guidance about any matter relating to the body’s functions in respect of integrated education.
 
-### 13. Consequential amendments[^key-f12cdb3df40beceaaa09c35d85844592]
+### 13. Consequential amendments[^c-f12cdb3df40beceaaa09c35d85844592]
 
 (1) In Article 64(1) of the Education Reform (Northern Ireland) Order 1989 (Department’s duties in respect of integrated education) omit “, that is to say the education together at school of Protestant and Roman Catholic pupils” and insert “and to provide support for integrated education”.
 
@@ -287,7 +287,7 @@ who would, in the opinion of the relevant body, be affected by the proposal.
 
 (8) In Article 97 of that Order (significant changes to controlled integrated schools), for “be attended by reasonable numbers of both Protestant and Roman Catholic pupils” substitute “provide integrated education”.
 
-### 14. Interpretation: general[^key-756aaa56cbecd45b2cb2d7fb9db895e1]
+### 14. Interpretation: general[^c-756aaa56cbecd45b2cb2d7fb9db895e1]
 
 In this Act—
 
@@ -300,44 +300,44 @@ In this Act—
 
 words and expressions which are defined in Article 2(2) of the Education and Libraries (Northern Ireland) Order 1986 have the same meaning as in that Order.
 
-### 15. Commencement[^key-f9b31f0e2a12b3ac25cf4bb14632fb47]
+### 15. Commencement[^c-f9b31f0e2a12b3ac25cf4bb14632fb47]
 
 This Act comes into operation at the end of the period of 6 months beginning with the day on which it receives Royal Assent.
 
-### 16. Short title[^key-abe60e45ae285394015af767928c806c]
+### 16. Short title[^c-abe60e45ae285394015af767928c806c]
 
 This Act may be cited as the Integrated Education Act (Northern Ireland) 2022.
 
 ## Annotations
 
-[^key-160b31b0734f70cfbcd3cf055d7d44fb]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/15/section/1) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-160b31b0734f70cfbcd3cf055d7d44fb]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/15/section/1) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
-[^key-3efa7fb1fc2bfef7b972a81ee14fb7ea]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2022/15/section/2) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-3efa7fb1fc2bfef7b972a81ee14fb7ea]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2022/15/section/2) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
-[^key-593db4c7ebaeb9835e30e19fc7c1976a]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2022/15/section/3) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-593db4c7ebaeb9835e30e19fc7c1976a]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2022/15/section/3) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
-[^key-174cf284678ed05fcaa0d67e8c2af644]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2022/15/section/4) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-174cf284678ed05fcaa0d67e8c2af644]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2022/15/section/4) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
-[^key-691289574e4fd9dedeb31b489e286e07]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2022/15/section/5) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-691289574e4fd9dedeb31b489e286e07]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2022/15/section/5) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
-[^key-34ca0abc6730dd8fa4de946485907ff0]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2022/15/section/6) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-34ca0abc6730dd8fa4de946485907ff0]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2022/15/section/6) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
-[^key-bb33f37faf1fa5ef286c250f2ad3ba0b]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2022/15/section/7) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-bb33f37faf1fa5ef286c250f2ad3ba0b]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2022/15/section/7) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
-[^key-123b638db0626527b071cd9bc8f3c544]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2022/15/section/8) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-123b638db0626527b071cd9bc8f3c544]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2022/15/section/8) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
-[^key-ce16831b2727db0735cbd48c59e09ac6]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2022/15/section/9) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-ce16831b2727db0735cbd48c59e09ac6]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2022/15/section/9) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
-[^key-49e625edcefab72515272663716aace6]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2022/15/section/10) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-49e625edcefab72515272663716aace6]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2022/15/section/10) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
-[^key-6ca7081027cc667b51715c5d291c3ec3]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2022/15/section/11) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-6ca7081027cc667b51715c5d291c3ec3]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2022/15/section/11) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
-[^key-316cdb250e92b258999b502c322376ff]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2022/15/section/12) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-316cdb250e92b258999b502c322376ff]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2022/15/section/12) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
-[^key-f12cdb3df40beceaaa09c35d85844592]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2022/15/section/13) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-f12cdb3df40beceaaa09c35d85844592]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2022/15/section/13) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
-[^key-756aaa56cbecd45b2cb2d7fb9db895e1]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2022/15/section/14) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-756aaa56cbecd45b2cb2d7fb9db895e1]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2022/15/section/14) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
-[^key-f9b31f0e2a12b3ac25cf4bb14632fb47]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2022/15/section/15) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-f9b31f0e2a12b3ac25cf4bb14632fb47]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2022/15/section/15) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
 
-[^key-abe60e45ae285394015af767928c806c]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2022/15/section/16) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)
+[^c-abe60e45ae285394015af767928c806c]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2022/15/section/16) in operation at 26.10.2022, see [s. 15](https://www.legislation.gov.uk/nia/2022/15/section/15)

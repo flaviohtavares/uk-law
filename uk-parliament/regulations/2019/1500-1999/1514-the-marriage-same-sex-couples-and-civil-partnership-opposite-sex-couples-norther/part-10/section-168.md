@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Rate Relief Regulations (Northern Ireland) 2017[^key-4e289eed07f90edda5800ccb8712ba2f]
+## 168. Rate Relief Regulations (Northern Ireland) 2017[^c-4e289eed07f90edda5800ccb8712ba2f]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 2(1) of the Rate Relief Regulations (Northern Ireland) 2017[^f0027
 
 ## Annotations
 
-[^key-4e289eed07f90edda5800ccb8712ba2f]: Commencement: Reg. 168 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-4e289eed07f90edda5800ccb8712ba2f]: Commencement: Reg. 168 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00277]: Footnote: [S.R. (N.I.) 2017/184](https://www.legislation.gov.uk/nisr/2017/184). Regulation 2(1) was amended by [S.R. (N.I.) 2018/109](https://www.legislation.gov.uk/nisr/2018/109).

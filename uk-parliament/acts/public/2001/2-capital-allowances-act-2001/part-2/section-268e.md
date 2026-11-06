@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 268E. Meaning of “assigns”[^key-4054ca0f4af8680849198d2fdec0453a]
+## 268E. Meaning of “assigns”[^c-4054ca0f4af8680849198d2fdec0453a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4054ca0f4af8680849198d2fdec0453a]: Textual amendment: S. 268E inserted (with effect in accordance with Sch. 9 para. 9(2)(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/9/paragraph/8)
+[^c-4054ca0f4af8680849198d2fdec0453a]: Textual amendment: S. 268E inserted (with effect in accordance with Sch. 9 para. 9(2)(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/9/paragraph/8)

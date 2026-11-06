@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Department may by regulations make provision for a pension to which paragraph (2) applies to be increased, as a minimum, by reference to relevant percentage increases[^key-dbe1e3a78d7f8057387e84decadedf1c] , so far as not exceeding the maximum percentage[^c17090481] per annum.
+(1) The Department may by regulations make provision for a pension to which paragraph (2) applies to be increased, as a minimum, by reference to relevant percentage increases[^c-dbe1e3a78d7f8057387e84decadedf1c] , so far as not exceeding the maximum percentage[^c17090481] per annum.
 
 (2) Subject to paragraph (2A), this paragraph applies to—
 
@@ -32,7 +32,7 @@ summary: ''
 - (a) are money purchase benefits, and
 - (b) become pensions in payment on or after the commencement day.
 
-(2AA)[^key-8b02231b7284d9f54d62f2dc21116000] In paragraph (1) “**relevant percentage increases**” means percentage increases estimated by the Secretary of State from time to time for the purposes of paragraph 2(3)(a) of Schedule 3 to the Pension Schemes Act 1993 for revaluation periods of 12 months.
+(2AA)[^c-8b02231b7284d9f54d62f2dc21116000] In paragraph (1) “**relevant percentage increases**” means percentage increases estimated by the Secretary of State from time to time for the purposes of paragraph 2(3)(a) of Schedule 3 to the Pension Schemes Act 1993 for revaluation periods of 12 months.
 
 (2B) For the purposes of paragraph (1) the “maximum percentage” means—
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dbe1e3a78d7f8057387e84decadedf1c]: Textual amendment: Words in [art. 37(1)](https://www.legislation.gov.uk/nisi/1999/3147/article/37/1) substituted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 20(10)](https://www.legislation.gov.uk/nia/2012/3/section/20/10), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/e)
+[^c-dbe1e3a78d7f8057387e84decadedf1c]: Textual amendment: Words in [art. 37(1)](https://www.legislation.gov.uk/nisi/1999/3147/article/37/1) substituted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 20(10)](https://www.legislation.gov.uk/nia/2012/3/section/20/10), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/e)
 
 [^c17090481]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)
 
@@ -61,7 +61,7 @@ summary: ''
 
 [^c21164171]: Textual amendment: Art. 37(2)(b) and preceding word repealed (6.4.2009) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 116](https://www.legislation.gov.uk/nia/2008/13/section/116), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/2); [S.R. 2009/22](https://www.legislation.gov.uk/nisr/2009/22), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2009/22/article/2/2/d)
 
-[^key-8b02231b7284d9f54d62f2dc21116000]: Textual amendment: [Art. 37(2AA)](https://www.legislation.gov.uk/nisi/1999/3147/article/37/2AA) inserted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 20(11)](https://www.legislation.gov.uk/nia/2012/3/section/20/11), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/e)
+[^c-8b02231b7284d9f54d62f2dc21116000]: Textual amendment: [Art. 37(2AA)](https://www.legislation.gov.uk/nisi/1999/3147/article/37/2AA) inserted (7.6.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [ss. 20(11)](https://www.legislation.gov.uk/nia/2012/3/section/20/11), [34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3); [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(e)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/e)
 
 [^c21164181]: Textual amendment: Words in art. 37(3) in definition of "relevant pension credit" repealed (6.4.2009) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 116](https://www.legislation.gov.uk/nia/2008/13/section/116), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/nia/2008/13/schedule/10/part/2); [S.R. 2009/22](https://www.legislation.gov.uk/nisr/2009/22), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2009/22/article/2/2/d)
 

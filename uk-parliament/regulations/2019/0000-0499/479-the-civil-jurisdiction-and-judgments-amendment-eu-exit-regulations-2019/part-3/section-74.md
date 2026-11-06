@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. The Civil Jurisdiction and Judgments (Authentic Instruments and Court Settlements) Order 2001[^key-fc659c46bf1c6a51f6ffc5b63f5c66fd]
+## 74. The Civil Jurisdiction and Judgments (Authentic Instruments and Court Settlements) Order 2001[^c-fc659c46bf1c6a51f6ffc5b63f5c66fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Civil Jurisdiction and Judgments (Authentic Instruments and Court Settlement
 
 ## Annotations
 
-[^key-fc659c46bf1c6a51f6ffc5b63f5c66fd]: Commencement: Reg. 74 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-fc659c46bf1c6a51f6ffc5b63f5c66fd]: Commencement: Reg. 74 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23624581]: Marginal citation: [S.I. 2001/3928](https://www.legislation.gov.uk/uksi/2001/3928).

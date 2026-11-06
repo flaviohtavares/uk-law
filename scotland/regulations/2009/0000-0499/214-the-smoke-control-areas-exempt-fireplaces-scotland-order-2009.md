@@ -32,7 +32,7 @@ summary: ''
 
 CLEAN AIR
 
-The Smoke Control Areas (Exempt Fireplaces) (Scotland) Order 2009 (revoked)[^key-4eb89b3aa109334fd1a1d262bf9e29d8]
+The Smoke Control Areas (Exempt Fireplaces) (Scotland) Order 2009 (revoked)[^c-4eb89b3aa109334fd1a1d262bf9e29d8]
 
 Made
 
@@ -46,33 +46,33 @@ Coming into force
 
 29th June 2009
 
-[^key-4eb89b3aa109334fd1a1d262bf9e29d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4eb89b3aa109334fd1a1d262bf9e29d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-4eb89b3aa109334fd1a1d262bf9e29d8]
+## 1. Citation, commencement and extent[^c-4eb89b3aa109334fd1a1d262bf9e29d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fireplaces exempted from section 20 of the Clean Air Act 1993[^key-4eb89b3aa109334fd1a1d262bf9e29d8]
+## 2. Fireplaces exempted from section 20 of the Clean Air Act 1993[^c-4eb89b3aa109334fd1a1d262bf9e29d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-4eb89b3aa109334fd1a1d262bf9e29d8]
+## 3. Revocations[^c-4eb89b3aa109334fd1a1d262bf9e29d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4eb89b3aa109334fd1a1d262bf9e29d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4eb89b3aa109334fd1a1d262bf9e29d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Exempted fireplaces[^key-4eb89b3aa109334fd1a1d262bf9e29d8]
+## SCHEDULE 1 — Exempted fireplaces[^c-4eb89b3aa109334fd1a1d262bf9e29d8]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Revocations[^key-4eb89b3aa109334fd1a1d262bf9e29d8]
+## SCHEDULE 2 — Revocations[^c-4eb89b3aa109334fd1a1d262bf9e29d8]
 
 Article 3
 
@@ -80,8 +80,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-4eb89b3aa109334fd1a1d262bf9e29d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4eb89b3aa109334fd1a1d262bf9e29d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4eb89b3aa109334fd1a1d262bf9e29d8]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/214) revoked (27.9.2010) by [The Smoke Control Areas (Exempt Fireplaces) (Scotland) Order 2010 (S.S.I. 2010/272)](https://www.legislation.gov.uk/ssi/2010/272), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2010/272/article/1), [3](https://www.legislation.gov.uk/ssi/2010/272/article/3)
+[^c-4eb89b3aa109334fd1a1d262bf9e29d8]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/214) revoked (27.9.2010) by [The Smoke Control Areas (Exempt Fireplaces) (Scotland) Order 2010 (S.S.I. 2010/272)](https://www.legislation.gov.uk/ssi/2010/272), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2010/272/article/1), [3](https://www.legislation.gov.uk/ssi/2010/272/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Declaration by Regional Counting Officers[^key-f8b2e9aee6049dd80884739ea2eda8dc]
+## 53. Declaration by Regional Counting Officers[^c-f8b2e9aee6049dd80884739ea2eda8dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8b2e9aee6049dd80884739ea2eda8dc]: Commencement: Reg. 53 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-f8b2e9aee6049dd80884739ea2eda8dc]: Commencement: Reg. 53 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

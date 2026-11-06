@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Procedure in relation to certain approvals etc.[^key-7ddca2c7c714f9ffb280f7dd43d6ebd7]
+## 47. Procedure in relation to certain approvals etc.[^c-7ddca2c7c714f9ffb280f7dd43d6ebd7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 12 (Procedure in relation to certain approvals etc.) has effect.
 
 ## Annotations
 
-[^key-7ddca2c7c714f9ffb280f7dd43d6ebd7]: Commencement: Art. 47 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-7ddca2c7c714f9ffb280f7dd43d6ebd7]: Commencement: Art. 47 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

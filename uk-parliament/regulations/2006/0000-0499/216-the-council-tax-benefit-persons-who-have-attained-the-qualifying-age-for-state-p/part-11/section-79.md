@@ -22,8 +22,8 @@ A relevant authority which holds relevant information—
   - (i) a local authority;
   - (ii) a person providing services to a local authority; or
   - (iii) a person authorised to exercise any function of a local authority relating to council tax benefit; and
-- (b)[^key-ef277f1f46e1c4d24b82c0e2aa3a4b3c] may, if the relevant authority is the Secretary of State or a person providing services to the Secretary of State, continue to hold a record of such information, whether as supplied or obtained or recorded, for such period as he considers appropriate.
+- (b)[^c-ef277f1f46e1c4d24b82c0e2aa3a4b3c] may, if the relevant authority is the Secretary of State or a person providing services to the Secretary of State, continue to hold a record of such information, whether as supplied or obtained or recorded, for such period as he considers appropriate.
 
 ## Annotations
 
-[^key-ef277f1f46e1c4d24b82c0e2aa3a4b3c]: Textual amendment: Reg. 79(b) substituted (31.10.2007) by [Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [10(7)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/10/7)
+[^c-ef277f1f46e1c4d24b82c0e2aa3a4b3c]: Textual amendment: Reg. 79(b) substituted (31.10.2007) by [Social Security (Claims and Information) Regulations 2007 (S.I. 2007/2911)](https://www.legislation.gov.uk/uksi/2007/2911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/1/1), [10(7)](https://www.legislation.gov.uk/uksi/2007/2911/regulation/10/7)

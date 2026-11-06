@@ -33,42 +33,42 @@ of 27 March 2019
 
 designating European Union reference laboratories for pests of plants on insects and mites, nematodes, bacteria, fungi and oomycetes, viruses, viroids, and phytoplasmas (revoked)
 
-[^key-1728c27cf1e959499dc35f20d80bd7ff][^key-eb10dfce291764c6ad51c7faed1c1df0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1728c27cf1e959499dc35f20d80bd7ff][^c-eb10dfce291764c6ad51c7faed1c1df0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. European Union Reference Laboratory for pests of plants on insects and mites[^key-eb10dfce291764c6ad51c7faed1c1df0]
+## Article 1. European Union Reference Laboratory for pests of plants on insects and mites[^c-eb10dfce291764c6ad51c7faed1c1df0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. European Union Reference Laboratory for pests of plants on nematodes[^key-eb10dfce291764c6ad51c7faed1c1df0]
+## Article 2. European Union Reference Laboratory for pests of plants on nematodes[^c-eb10dfce291764c6ad51c7faed1c1df0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. European Union Reference Laboratory for pests of plants on bacteria[^key-eb10dfce291764c6ad51c7faed1c1df0]
+## Article 3. European Union Reference Laboratory for pests of plants on bacteria[^c-eb10dfce291764c6ad51c7faed1c1df0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. European Union Reference Laboratory for pests of plants on fungi and oomycetes[^key-eb10dfce291764c6ad51c7faed1c1df0]
+## Article 4. European Union Reference Laboratory for pests of plants on fungi and oomycetes[^c-eb10dfce291764c6ad51c7faed1c1df0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. European Union Reference Laboratory for pests of plants on viruses, viroids and phytoplasmas[^key-eb10dfce291764c6ad51c7faed1c1df0]
+## Article 5. European Union Reference Laboratory for pests of plants on viruses, viroids and phytoplasmas[^c-eb10dfce291764c6ad51c7faed1c1df0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Review of the designation[^key-eb10dfce291764c6ad51c7faed1c1df0]
+## Article 6. Review of the designation[^c-eb10dfce291764c6ad51c7faed1c1df0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-eb10dfce291764c6ad51c7faed1c1df0]
+## Article 7. Entry into force[^c-eb10dfce291764c6ad51c7faed1c1df0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eb10dfce291764c6ad51c7faed1c1df0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb10dfce291764c6ad51c7faed1c1df0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1728c27cf1e959499dc35f20d80bd7ff]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/3), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2019/1410/schedule/paragraph/23) (with [reg. 4(2)-(6)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/4/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1728c27cf1e959499dc35f20d80bd7ff]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/3), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2019/1410/schedule/paragraph/23) (with [reg. 4(2)-(6)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/4/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eb10dfce291764c6ad51c7faed1c1df0]: Textual amendment: Regulation revoked (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1481/schedule/paragraph/4)
+[^c-eb10dfce291764c6ad51c7faed1c1df0]: Textual amendment: Regulation revoked (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1481/schedule/paragraph/4)

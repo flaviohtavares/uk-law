@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 60. Parties to faculty proceedings[^key-0155d67753f638585ec0f7e357da2345]
+## 60. Parties to faculty proceedings[^c-0155d67753f638585ec0f7e357da2345]
 
 *Extent: E*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0155d67753f638585ec0f7e357da2345]: Commencement: [S. 60](https://www.legislation.gov.uk/ukcm/2018/3/section/60) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-0155d67753f638585ec0f7e357da2345]: Commencement: [S. 60](https://www.legislation.gov.uk/ukcm/2018/3/section/60) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

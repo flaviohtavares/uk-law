@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) A person mentioned in paragraph (2) may make an election under this regulation in respect of a particular employment[^key-1d93a3e571eaf13c68653045e8126c5c] by giving written notice to the Secretary of State save that a person mentioned in paragraph (2)(b), (2)(c) or (2)(d) may only make an election before the automatic enrolment date in relation to that person in respect of that employment.[^key-1e7247ab9b3a37c68694c4f0a00083c4]
+(1) A person mentioned in paragraph (2) may make an election under this regulation in respect of a particular employment[^c-1d93a3e571eaf13c68653045e8126c5c] by giving written notice to the Secretary of State save that a person mentioned in paragraph (2)(b), (2)(c) or (2)(d) may only make an election before the automatic enrolment date in relation to that person in respect of that employment.[^c-1e7247ab9b3a37c68694c4f0a00083c4]
 
 (2) The persons are—
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1d93a3e571eaf13c68653045e8126c5c]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2010/990/regulation/10/1) inserted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/7/a)
+[^c-1d93a3e571eaf13c68653045e8126c5c]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2010/990/regulation/10/1) inserted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/7/a)
 
-[^key-1e7247ab9b3a37c68694c4f0a00083c4]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2010/990/regulation/10/1) inserted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/7/b)
+[^c-1e7247ab9b3a37c68694c4f0a00083c4]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2010/990/regulation/10/1) inserted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/7/b)

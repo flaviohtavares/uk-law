@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) This section shall apply whether or not a payment falls to be made in respect of an interest in a house under section 308 where a house is purchased at restricted value in pursuance of a compulsory purchase order made by virtue of section [^key-422174ec2f3cb75134295d928274b62b]... 120 or 121, or paragraph 5 of Schedule 8, or in pursuance of an order under paragraph 2(1) of Schedule 2 to the [^c12779421]Land Compensation (Scotland) Act 1963, or has been vacated in pursuance of a demolition order or a closing order, and on the date of the making of the compulsory purchase or other order the house is occupied in whole or part as a private dwelling by a person who throughout the relevant period—
+(1) This section shall apply whether or not a payment falls to be made in respect of an interest in a house under section 308 where a house is purchased at restricted value in pursuance of a compulsory purchase order made by virtue of section [^c-422174ec2f3cb75134295d928274b62b]... 120 or 121, or paragraph 5 of Schedule 8, or in pursuance of an order under paragraph 2(1) of Schedule 2 to the [^c12779421]Land Compensation (Scotland) Act 1963, or has been vacated in pursuance of a demolition order or a closing order, and on the date of the making of the compulsory purchase or other order the house is occupied in whole or part as a private dwelling by a person who throughout the relevant period—
 
 - (a) holds an interest in the house, being an interest subject to a heritable security or charge, or
 - (b) is a party to an agreement to purchase the house by instalments.
@@ -50,6 +50,6 @@ or, if the person referred to in subsection (1) dies before the date specified i
 
 ## Annotations
 
-[^key-422174ec2f3cb75134295d928274b62b]: Textual amendment: Word in [s. 309(1)](https://www.legislation.gov.uk/ukpga/1987/26/section/309/1) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-422174ec2f3cb75134295d928274b62b]: Textual amendment: Word in [s. 309(1)](https://www.legislation.gov.uk/ukpga/1987/26/section/309/1) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
 [^c12779421]: Marginal citation: [1963 c. 51](https://www.legislation.gov.uk/ukpga/1963/51).

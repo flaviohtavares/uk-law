@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 503. Listing rules[^key-71dc6ad9321f0b6a76526ea88b250ed7]
+## 503. Listing rules[^c-71dc6ad9321f0b6a76526ea88b250ed7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In paragraph (3) of regulation 4 of the Public Offers of Securities Regulations 
 
 ## Annotations
 
-[^key-71dc6ad9321f0b6a76526ea88b250ed7]: Commencement: Art. 503 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-71dc6ad9321f0b6a76526ea88b250ed7]: Commencement: Art. 503 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

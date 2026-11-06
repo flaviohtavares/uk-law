@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217C. Meaning of qualifying sport body[^key-278ba5eede2d2edf1444b4d060d7513c]
+## 217C. Meaning of qualifying sport body[^c-278ba5eede2d2edf1444b4d060d7513c]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-278ba5eede2d2edf1444b4d060d7513c]: Textual amendment: Pt. 6A inserted (with effect in accordance with s. 22(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 22(5)](https://www.legislation.gov.uk/ukpga/2017/32/section/22/5)
+[^c-278ba5eede2d2edf1444b4d060d7513c]: Textual amendment: Pt. 6A inserted (with effect in accordance with s. 22(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 22(5)](https://www.legislation.gov.uk/ukpga/2017/32/section/22/5)

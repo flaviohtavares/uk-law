@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 24. Sections 22 and 23: supplementary provision[^key-01d8e40778f7961b938728c23dfa36ab]
+## 24. Sections 22 and 23: supplementary provision[^c-01d8e40778f7961b938728c23dfa36ab]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01d8e40778f7961b938728c23dfa36ab]: Commencement: [S. 24](https://www.legislation.gov.uk/ukcm/2018/9/section/24) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-01d8e40778f7961b938728c23dfa36ab]: Commencement: [S. 24](https://www.legislation.gov.uk/ukcm/2018/9/section/24) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

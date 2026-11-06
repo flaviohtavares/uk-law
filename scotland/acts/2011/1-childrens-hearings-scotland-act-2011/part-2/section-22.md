@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Independence of Principal Reporter[^key-e1a6df796cd5ad4c3cd81b6777517185]
+## 22. Independence of Principal Reporter[^c-e1a6df796cd5ad4c3cd81b6777517185]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1a6df796cd5ad4c3cd81b6777517185]: Commencement: S. 22 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-e1a6df796cd5ad4c3cd81b6777517185]: Commencement: S. 22 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

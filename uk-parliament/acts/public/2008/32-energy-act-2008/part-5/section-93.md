@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Section 92: consequential amendments[^key-f1a60f239142479beda5c497425b6083]
+## 93. Section 92: consequential amendments[^c-f1a60f239142479beda5c497425b6083]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1a60f239142479beda5c497425b6083]: Commencement: S. 93 in force at 1.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)
+[^c-f1a60f239142479beda5c497425b6083]: Commencement: S. 93 in force at 1.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/3/b/i)

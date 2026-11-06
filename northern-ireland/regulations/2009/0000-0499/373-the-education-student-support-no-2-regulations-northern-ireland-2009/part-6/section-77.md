@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Applying for an additional amount of loan for living costs or long courses loan[^key-32e75a278fb3d4d9625a48e86bbc3d19]
+## 77. Applying for an additional amount of loan for living costs or long courses loan[^c-32e75a278fb3d4d9625a48e86bbc3d19]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32e75a278fb3d4d9625a48e86bbc3d19]: Commencement: Reg. 77 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-32e75a278fb3d4d9625a48e86bbc3d19]: Commencement: Reg. 77 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.22. Interpretation[^key-a38821fbe52238c6486e2eeb39400f92]
+## 34.22. Interpretation[^c-a38821fbe52238c6486e2eeb39400f92]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a38821fbe52238c6486e2eeb39400f92]: Textual amendment: [Pt. 34](https://www.legislation.gov.uk/uksi/1998/3132/part/34) Section 3 omitted (31.12.2020) by virtue of [The Civil Procedure Rules 1998 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/521)](https://www.legislation.gov.uk/uksi/2019/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/521/regulation/1/1), [12(6)](https://www.legislation.gov.uk/uksi/2019/521/regulation/12/6) (with [reg. 23](https://www.legislation.gov.uk/uksi/2019/521/regulation/23)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [9(2)(f)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/9/2/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a38821fbe52238c6486e2eeb39400f92]: Textual amendment: [Pt. 34](https://www.legislation.gov.uk/uksi/1998/3132/part/34) Section 3 omitted (31.12.2020) by virtue of [The Civil Procedure Rules 1998 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/521)](https://www.legislation.gov.uk/uksi/2019/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/521/regulation/1/1), [12(6)](https://www.legislation.gov.uk/uksi/2019/521/regulation/12/6) (with [reg. 23](https://www.legislation.gov.uk/uksi/2019/521/regulation/23)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [9(2)(f)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/9/2/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103D. Meaning of “qualifying film expenditure”[^key-000cccf9b58e3a5927321065f32832fb]
+## 103D. Meaning of “qualifying film expenditure”[^c-000cccf9b58e3a5927321065f32832fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-000cccf9b58e3a5927321065f32832fb]: Textual amendment: S. 103D inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 9](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/9), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)
+[^c-000cccf9b58e3a5927321065f32832fb]: Textual amendment: S. 103D inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 4 paras. 9](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/9), [21](https://www.legislation.gov.uk/ukpga/2007/11/schedule/4/paragraph/21)

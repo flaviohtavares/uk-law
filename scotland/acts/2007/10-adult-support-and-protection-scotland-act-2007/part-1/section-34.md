@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Criteria for authorising longer detention[^key-ea2fee8ee44c75a84abf082bc3484d93]
+## 34. Criteria for authorising longer detention[^c-ea2fee8ee44c75a84abf082bc3484d93]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ by order authorise the continuation of the detention for a period of not more th
 
 ## Annotations
 
-[^key-ea2fee8ee44c75a84abf082bc3484d93]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2007/10/section/34) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-ea2fee8ee44c75a84abf082bc3484d93]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2007/10/section/34) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

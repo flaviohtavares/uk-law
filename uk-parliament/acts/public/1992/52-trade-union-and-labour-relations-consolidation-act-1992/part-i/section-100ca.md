@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100CA. Counting of votes where multiple votes cast by same person[^key-1924f3564da6b2feced173dde9e3a346]
+## 100CA. Counting of votes where multiple votes cast by same person[^c-1924f3564da6b2feced173dde9e3a346]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1924f3564da6b2feced173dde9e3a346]: Textual amendment: [Ss. 100CA-100CC](https://www.legislation.gov.uk/ukpga/1992/52/section/100CA) and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(8)](https://www.legislation.gov.uk/uksi/2026/881/article/5/8) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-1924f3564da6b2feced173dde9e3a346]: Textual amendment: [Ss. 100CA-100CC](https://www.legislation.gov.uk/ukpga/1992/52/section/100CA) and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(8)](https://www.legislation.gov.uk/uksi/2026/881/article/5/8) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. Sanctions for breaches of the consent provision[^key-1c65b23b6aa895e6b3a7ae4a46b48aac]
+## 65. Sanctions for breaches of the consent provision[^c-1c65b23b6aa895e6b3a7ae4a46b48aac]
 
 *Extent: E+W+S*
 
@@ -24,8 +24,8 @@ summary: ''
 
 (2) If the Secretary of State is satisfied that the improvement for which the necessary permission or consent should have been obtained—
 
-- (a) has been removed from the property, the Secretary of State must[^key-a165d9f4d03bbc98977ee6d717c723d5] impose cancellation;
-- (b) has not been removed from the property, the Secretary of State may[^key-d6f3a0b7eb7c606723cad416e5c9d2d6] impose cancellation,
+- (a) has been removed from the property, the Secretary of State must[^c-a165d9f4d03bbc98977ee6d717c723d5] impose cancellation;
+- (b) has not been removed from the property, the Secretary of State may[^c-d6f3a0b7eb7c606723cad416e5c9d2d6] impose cancellation,
 
 on the relevant person.
 
@@ -40,8 +40,8 @@ on the improver.
 
 ## Annotations
 
-[^key-1c65b23b6aa895e6b3a7ae4a46b48aac]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2012/2079/regulation/65) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-1c65b23b6aa895e6b3a7ae4a46b48aac]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2012/2079/regulation/65) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
 
-[^key-a165d9f4d03bbc98977ee6d717c723d5]: Textual amendment: Word in [reg. 65(2)(a)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/65/2/a) substituted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2013/139/regulation/15/a)
+[^c-a165d9f4d03bbc98977ee6d717c723d5]: Textual amendment: Word in [reg. 65(2)(a)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/65/2/a) substituted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2013/139/regulation/15/a)
 
-[^key-d6f3a0b7eb7c606723cad416e5c9d2d6]: Textual amendment: Word in [reg. 65(2)(b)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/65/2/b) substituted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2013/139/regulation/15/b)
+[^c-d6f3a0b7eb7c606723cad416e5c9d2d6]: Textual amendment: Word in [reg. 65(2)(b)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/65/2/b) substituted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2013/139/regulation/15/b)

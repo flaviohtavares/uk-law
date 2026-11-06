@@ -48,7 +48,7 @@ shall be disclosed by such authority during the lifetime of the individual or wh
   - (i) if the operator of such service has given notice in writing to the local transport authority or the traffic commissioner of the operator’s intention to cease operating such service from a date specified in the notice; or
   - (ii) if, having failed to provide notice such as is mentioned in sub-paragraph (i) above, such operator has ceased to operate such service.
 
-(5A)[^key-9c6f47c9f4f8cd73877fd48877c6434f] For the avoidance of doubt, subsection (5)(f) does not apply if (or to the extent that) the operator was also required to provide the information by the local transport authority as an affected authority under section 6ZA(2) of the 1985 Act (provision of service information when varying or cancelling registration).
+(5A)[^c-9c6f47c9f4f8cd73877fd48877c6434f] For the avoidance of doubt, subsection (5)(f) does not apply if (or to the extent that) the operator was also required to provide the information by the local transport authority as an affected authority under section 6ZA(2) of the 1985 Act (provision of service information when varying or cancelling registration).
 
 (6) A local transport authority who, without reasonable excuse, disclose information in contravention of subsection (4) above shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
@@ -56,4 +56,4 @@ shall be disclosed by such authority during the lifetime of the individual or wh
 
 ## Annotations
 
-[^key-9c6f47c9f4f8cd73877fd48877c6434f]: Textual amendment: [S. 43(5A)](https://www.legislation.gov.uk/asp/2001/2/section/43/5A) inserted (28.11.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 39(3)](https://www.legislation.gov.uk/asp/2019/17/section/39/3), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)
+[^c-9c6f47c9f4f8cd73877fd48877c6434f]: Textual amendment: [S. 43(5A)](https://www.legislation.gov.uk/asp/2001/2/section/43/5A) inserted (28.11.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 39(3)](https://www.legislation.gov.uk/asp/2019/17/section/39/3), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)

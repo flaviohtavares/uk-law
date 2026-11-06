@@ -22,14 +22,14 @@ summary: ''
 
 Regulation 5
 
-### 1. Regulations[^key-1f18b801b8a1894b22159da11c0401c6]
+### 1. Regulations[^c-1f18b801b8a1894b22159da11c0401c6]
 
 Any reference in this Schedule—
 
 - (a) to a numbered regulation is, unless otherwise stated, to the regulation set out in the paragraph so numbered in this Schedule;
 - (b) to “these Regulations” is to the Regulations set out in this Schedule.
 
-### 2. Interpretation and general provision as to written notices or documents[^key-3fe68e6aa1120cbc9a1e0c1778ae75b1]
+### 2. Interpretation and general provision as to written notices or documents[^c-3fe68e6aa1120cbc9a1e0c1778ae75b1]
 
 (1) In these Regulations—
 
@@ -40,13 +40,13 @@ Any reference in this Schedule—
   - (b) in relation to a former MDP officer, means a finding that the former officer would have been dismissed if the former officer had not ceased to be a member of the MDP;
 - “Head of HR” means the head of HR for the MDP in the Ministry of Defence;
 - “lay person” has the meaning given in paragraph 10 of Schedule 6 to the Police Act 1996[^f00049];
-- “[^key-4fd9835d041b2cabca3b90446bdfa7a3]**original appeal**” means, in relation to a decision which is being appealed to a tribunal in accordance with regulation 4A, the appeal to the panel which made the relevant decision;
-- “original hearing” means , in relation to a decision which is being appealed to a tribunal in accordance with regulation 3, 4 or 5[^key-f77a404bdedecea9bd1d2cdfeaeaf823] —
+- “[^c-4fd9835d041b2cabca3b90446bdfa7a3]**original appeal**” means, in relation to a decision which is being appealed to a tribunal in accordance with regulation 4A, the appeal to the panel which made the relevant decision;
+- “original hearing” means , in relation to a decision which is being appealed to a tribunal in accordance with regulation 3, 4 or 5[^c-f77a404bdedecea9bd1d2cdfeaeaf823] —
   - (a) the misconduct hearing or accelerated misconduct hearing under the Conduct Regulations, or
-  - (b) a second stage meeting[^key-320ff6926b93b5268093a9d42de388f1] under the Performance Regulations,
+  - (b) a second stage meeting[^c-320ff6926b93b5268093a9d42de388f1] under the Performance Regulations,
 
   at or following which the relevant decision was made;
-- “relevant decision” means the finding or decision as to the disciplinary action or outcome which may be appealed or is being appealed to a tribunal in accordance with regulation 3, 4 , 4A[^key-03b833beda1640a27d96b4a5c6c0999b] or 5;
+- “relevant decision” means the finding or decision as to the disciplinary action or outcome which may be appealed or is being appealed to a tribunal in accordance with regulation 3, 4 , 4A[^c-03b833beda1640a27d96b4a5c6c0999b] or 5;
 - “relevant time” means, in relation to a former MDP officer, the time immediately before the former officer ceased to be such an officer;
 - “specified appeal” means—
   - (a) in relation to England and Wales, an appeal where paragraph 16 of Schedule 3 to the 2002 Act (investigations by the appropriate authority on its own behalf)[^f00050] applied and—
@@ -61,15 +61,15 @@ Any reference in this Schedule—
     - (ii) a direction had been given under section 59(5) of that Act;
 - “tribunal” means the police appeals tribunal appointed under regulation 6.
 
-(2) In these Regulations, any expression which is also used in the Conduct Regulations , the Performance Regulations or the Vetting Regulations[^key-efc42aa64edeb689a4cecf09915e4137], unless that expression is given a different meaning in paragraph (1), has the same meaning as in those Regulations.
+(2) In these Regulations, any expression which is also used in the Conduct Regulations , the Performance Regulations or the Vetting Regulations[^c-efc42aa64edeb689a4cecf09915e4137], unless that expression is given a different meaning in paragraph (1), has the same meaning as in those Regulations.
 
-(3) Subject to paragraph (4), where[^key-9b0827710a11b4a1e0e4dc68a56ed482] any written notice or document is to be given or supplied to the appellant under these Regulations, it must be—
+(3) Subject to paragraph (4), where[^c-9b0827710a11b4a1e0e4dc68a56ed482] any written notice or document is to be given or supplied to the appellant under these Regulations, it must be—
 
 - (a) given to the appellant in person,
-- (b)[^key-dec918f393036c5c106d653f808eded8] sent to the appellant by e-mail or other means of electronic communication,
+- (b)[^c-dec918f393036c5c106d653f808eded8] sent to the appellant by e-mail or other means of electronic communication,
 - (c) given to the appellant in any other manner agreed between the person who is required to give the notice or document and the appellant.
 
-(4)[^key-321f620d0167cf175c99ca7d035fada8] Where it is not reasonably practicable to give or supply a written notice or document to the appellant under paragraph (3)(a) or (b) and there is no agreement under paragraph (3)(c), the written notice or document must be—
+(4)[^c-321f620d0167cf175c99ca7d035fada8] Where it is not reasonably practicable to give or supply a written notice or document to the appellant under paragraph (3)(a) or (b) and there is no agreement under paragraph (3)(c), the written notice or document must be—
 
 - (a) left with a person at the appellant’s last known address, or
 - (b) sent to the appellant’s last known address by first class post or recorded delivery or other service which provides for delivery on the next working day (“by post”).
@@ -86,7 +86,7 @@ Any reference in this Schedule—
 - (a) posted, or
 - (b) left with, delivered to or collected by the relevant service provider.
 
-### 3. Circumstances in which an MDP officer may appeal to a tribunal – Conduct Regulations[^key-327a5dab5df9e34d6e0bceb5b9d7e302]
+### 3. Circumstances in which an MDP officer may appeal to a tribunal – Conduct Regulations[^c-327a5dab5df9e34d6e0bceb5b9d7e302]
 
 (1) Subject to paragraph (3), an MDP officer to whom paragraph (2) applies may appeal to a tribunal in reliance on one or more of the grounds of appeal referred to in paragraph (4) against one or both of the following—
 
@@ -107,29 +107,29 @@ Any reference in this Schedule—
 - (b) that there is evidence that could not reasonably have been considered at the original hearing which could have materially affected the finding or decision on disciplinary action, or
 - (c) that there was a breach of the procedures set out in the Conduct Regulations or external procedures established for England and Wales or Northern Ireland or unfairness which could have materially affected the finding or decision on disciplinary action.
 
-### 4. Circumstances in which an MDP officer may appeal to a tribunal – Performance Regulations[^key-2d888bd587644d67740691335a69cc7c]
+### 4. Circumstances in which an MDP officer may appeal to a tribunal – Performance Regulations[^c-2d888bd587644d67740691335a69cc7c]
 
 (1) Subject to paragraph (3), an MDP officer to whom paragraph (2) applies may appeal to a tribunal in reliance on one or more of the grounds of appeal referred to in paragraph (6) against one or both of the following—
 
 - (a) a finding referred to in paragraph (2) made under the Performance Regulations;
 - (b) an outcome which is imposed under the Performance Regulations in consequence of that finding and mentioned in paragraph (4) or (5).
 
-(2) This paragraph applies to an MDP officer against whom a finding of unsatisfactory performance or attendance or gross incompetence has been made at a second stage meeting[^key-e140e81a6f53abdba8d60c7e3684ffdf].
+(2) This paragraph applies to an MDP officer against whom a finding of unsatisfactory performance or attendance or gross incompetence has been made at a second stage meeting[^c-e140e81a6f53abdba8d60c7e3684ffdf].
 
 (3) An MDP officer may not appeal to a tribunal against a finding referred to in paragraph (2) where that finding was made following acceptance by the officer that the officer’s performance or attendance has been unsatisfactory or that the officer has been grossly incompetent (as the case may be).
 
-(4) Where there has been a finding of unsatisfactory performance or attendance following a second stage meeting[^key-87ef1ae2ab6988ab1de50b6a8f0513aa] which the MDP officer was required to attend under regulation 29 of the Performance Regulations, the officer may appeal against the following outcomes—
+(4) Where there has been a finding of unsatisfactory performance or attendance following a second stage meeting[^c-87ef1ae2ab6988ab1de50b6a8f0513aa] which the MDP officer was required to attend under regulation 29 of the Performance Regulations, the officer may appeal against the following outcomes—
 
 - (a) dismissal with notice;
 - (b) reduction in rank;
 - (c) redeployment to alternative duties.
 
-(5) Where there has been a finding of gross incompetence or unsatisfactory performance following a second stage meeting[^key-2b10ddaf33a042e81f41c2692057c65c] which the MDP officer was required to attend under regulation 31 of the Performance Regulations, the officer may appeal against the following outcomes—
+(5) Where there has been a finding of gross incompetence or unsatisfactory performance following a second stage meeting[^c-2b10ddaf33a042e81f41c2692057c65c] which the MDP officer was required to attend under regulation 31 of the Performance Regulations, the officer may appeal against the following outcomes—
 
 - (a) dismissal without notice;
 - (b) reduction in rank;
 - (c) redeployment to alternative duties;
-- (d)[^key-2437adef6e9204d2b602b2fe05cc80c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-2437adef6e9204d2b602b2fe05cc80c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the issue of a written improvement notice.
 
 (6) The grounds of appeal under this regulation are—
@@ -137,9 +137,9 @@ Any reference in this Schedule—
 - (a) that the finding or outcome imposed was unreasonable,
 - (b) that there is evidence that could not reasonably have been considered at the original meeting which could have materially affected the finding or decision on the outcome,
 - (c) that there was a breach of the procedures set out in the Performance Regulations or in the external procedures established for England and Wales, or unfairness which could have materially affected the finding or decision on the outcome, or
-- (d) that, where the MDP officer was required to attend the second stage meeting[^key-5190d05f75de217741a93565fc8bb23a] under regulation 29 of the Performance Regulations, the officer should not have been required to attend that meeting as it did not, in accordance with regulation 29(6) or 47(9) of those Regulations, concern unsatisfactory performance or attendance similar to or connected with the unsatisfactory performance or attendance referred to in the [^key-c032ba38cd17ae715e92cfa15783db2e]... written improvement notice.
+- (d) that, where the MDP officer was required to attend the second stage meeting[^c-5190d05f75de217741a93565fc8bb23a] under regulation 29 of the Performance Regulations, the officer should not have been required to attend that meeting as it did not, in accordance with regulation 29(6) or 47(9) of those Regulations, concern unsatisfactory performance or attendance similar to or connected with the unsatisfactory performance or attendance referred to in the [^c-c032ba38cd17ae715e92cfa15783db2e]... written improvement notice.
 
-### 4A. Circumstances in which an MDP officer may appeal to a tribunal – Vetting Regulations[^key-907e1534cb82bf0f9f2188cf2f59b865]
+### 4A. Circumstances in which an MDP officer may appeal to a tribunal – Vetting Regulations[^c-907e1534cb82bf0f9f2188cf2f59b865]
 
 (1) An MDP officer may appeal to a tribunal in reliance on one or more of the grounds of appeal referred to in paragraph (2) against any decision under regulation 30 of the Vetting Regulations to confirm a decision to withdraw their vetting clearance.
 
@@ -149,7 +149,7 @@ Any reference in this Schedule—
 - (b) that there is evidence that could not reasonably have been considered as part of the withdrawal assessment which could have materially affected the decision, or
 - (c) that there was a breach of the procedures set out in the Vetting Regulations or unfairness which could have materially affected the decision.
 
-### 5. Circumstances in which a former MDP officer may appeal to a tribunal[^key-ac361b18ae6884574cf9942240fed930]
+### 5. Circumstances in which a former MDP officer may appeal to a tribunal[^c-ac361b18ae6884574cf9942240fed930]
 
 (1) Subject to paragraph (3), a former MDP officer to whom paragraph (2) applies may appeal to a tribunal in reliance on one or more of the grounds of appeal referred to in paragraph (4) against one or both of the following—
 
@@ -169,7 +169,7 @@ Any reference in this Schedule—
 - (b) that there is evidence that could not reasonably have been considered at the original hearing which could have materially affected the finding or decision to impose disciplinary action, or
 - (c) that there was a breach of the procedures set out in the Conduct Regulations, or unfairness which could have materially affected the finding or decision to impose disciplinary action.
 
-### 6. Appointment and composition of police appeals tribunal[^key-51650326a2d6e8196fd4b71cabaa126e]
+### 6. Appointment and composition of police appeals tribunal[^c-51650326a2d6e8196fd4b71cabaa126e]
 
 (1) The composition of the tribunal is to differ according to—
 
@@ -192,7 +192,7 @@ Any reference in this Schedule—
 
 (4) If the appellant was an MDP officer (other than a senior officer) serving in Scotland immediately before the original hearing or, as the case may be, at the relevant time, the tribunal is to consist of three members appointed by the Head of HR, of whom—
 
-- (a)[^key-df25690fafefdfd798e3aaeafdae4978] one must be a person who is a legal member of the First-tier Tribunal under section 15(2) of the Tribunals (Scotland) Act 2014,
+- (a)[^c-df25690fafefdfd798e3aaeafdae4978] one must be a person who is a legal member of the First-tier Tribunal under section 15(2) of the Tribunals (Scotland) Act 2014,
 - (b) one must be a senior officer from the Police Service of Scotland, and
 - (c) one must be a lay person.
 
@@ -200,15 +200,15 @@ Any reference in this Schedule—
 
 (6) If at any time that is relevant for the purposes of this regulation, the appellant was serving outside of the United Kingdom on detached duty from a station in the United Kingdom, the appellant is to be treated for those purposes as if serving at the station at that time.
 
-### 7. Notice of appeal[^key-373531e1e5c3f39abd87a84a403b148c]
+### 7. Notice of appeal[^c-373531e1e5c3f39abd87a84a403b148c]
 
 (1) Subject to regulation 8 (notice of appeal out of time), an MDP officer or a former MDP officer who wishes to appeal to a tribunal must give notice of the appeal before the end of 10 working days beginning with the first working day after the day on which the officer is first supplied with a written copy of the relevant decision.
 
 (2) The notice of appeal must be given in writing to the Head of HR.
 
-(3) Where the officer or former officer wishes to appeal to the tribunal in accordance with regulation 3, 4 or 5, the[^key-76c6c05d2147f11b81d4f8752e1af0c3] officer or former officer may request a transcript of the proceedings (or part of the proceedings) at the original hearing in the officer’s or former officer’s notice of appeal.
+(3) Where the officer or former officer wishes to appeal to the tribunal in accordance with regulation 3, 4 or 5, the[^c-76c6c05d2147f11b81d4f8752e1af0c3] officer or former officer may request a transcript of the proceedings (or part of the proceedings) at the original hearing in the officer’s or former officer’s notice of appeal.
 
-### 8. Notice of appeal out of time[^key-73728610570a65899b9f05e063cb1691]
+### 8. Notice of appeal out of time[^c-73728610570a65899b9f05e063cb1691]
 
 (1) This regulation applies where an MDP officer or a former MDP officer wishes to give notice of an appeal to a tribunal after the end of the period mentioned in regulation 7(1).
 
@@ -225,13 +225,13 @@ Any reference in this Schedule—
 
 (6) Where the appeal is not dismissed under paragraph (5), the appeal must proceed and the chair must give directions for the application of regulation 11 to the appeal (procedure on notice of appeal).
 
-### 9. The respondent[^key-349e90c88daa13b889f68f1d9d529387]
+### 9. The respondent[^c-349e90c88daa13b889f68f1d9d529387]
 
 (1) Where the appellant is a senior officer or a former senior officer, the respondent must be a person designated by the Head of HR.
 
 (2) Where the appellant is any other MDP officer or former MDP officer, the respondent must be the chief constable.
 
-### 10. Presenting of case by Director General or Ombudsman[^key-f91df73d6082d7b9015b41e2862cf0be]
+### 10. Presenting of case by Director General or Ombudsman[^c-f91df73d6082d7b9015b41e2862cf0be]
 
 (1) Where paragraph (2) applies to an appeal, the Director General or Ombudsman must present the case for the respondent.
 
@@ -241,7 +241,7 @@ Any reference in this Schedule—
 
 (4) Where the Director General or Ombudsman is presenting the case in accordance with paragraph (1), all references to the respondent in regulations 11 (other than paragraph (1)(a)), 12 to 14, 16, 17, 22, 24 and 25 are to be read as if they referred instead to the Director General or Ombudsman, as the case may be.
 
-### 11. Procedure on notice of appeal[^key-bb1ae8a379d2089c2a6b9bbc3031d4b8]
+### 11. Procedure on notice of appeal[^c-bb1ae8a379d2089c2a6b9bbc3031d4b8]
 
 (1) As soon as reasonably practicable, the Head of HR must supply a copy of the notice of appeal—
 
@@ -255,8 +255,8 @@ Any reference in this Schedule—
 
 (2) As soon as reasonably practicable after receipt of a copy of the notice of appeal, and in any event before the end of 15 working days beginning with the first working day after the day of such receipt, the respondent must supply to the Head of HR—
 
-- (a) a copy of the relevant decision made at or following the original hearing or original appeal[^key-affadb46a56bc67bf84c76c8afaa847b] provided under regulation 42(2) or 63(1) of the Conduct Regulations,[^key-878cf5563d08f8cbc294e75a87502c9a] regulation 44(3) of the Performance Regulations or regulation 30(4) of the Vetting Regulations[^key-10734b79ab7f420c346ac830164a4cb7];
-- (b) any documents which were made available to the person or persons conducting the original hearing or original appeal[^key-74fed9984205fe5af6abef8492a26a44], and
+- (a) a copy of the relevant decision made at or following the original hearing or original appeal[^c-affadb46a56bc67bf84c76c8afaa847b] provided under regulation 42(2) or 63(1) of the Conduct Regulations,[^c-878cf5563d08f8cbc294e75a87502c9a] regulation 44(3) of the Performance Regulations or regulation 30(4) of the Vetting Regulations[^c-10734b79ab7f420c346ac830164a4cb7];
+- (b) any documents which were made available to the person or persons conducting the original hearing or original appeal[^c-74fed9984205fe5af6abef8492a26a44], and
 - (c) a copy of any transcript requested under regulation 7(3).
 
 (3) A copy of any such transcript must at the same time be given to the appellant.
@@ -272,10 +272,10 @@ Any reference in this Schedule—
 
 (5) For the purposes of paragraph (4)(c)—
 
-- (a) an appellant is only permitted to adduce witness evidence where the appellant is relying on the ground of appeal set out in regulation 3(4)(b), 4(6)(b) , 4A(2)(b)[^key-2fcb65ee480de1e5b49ae62299dbba42] or 5(4)(b) (that there is evidence that could not reasonably have been considered at the original hearing which could have materially affected the finding or decision to impose disciplinary action);
+- (a) an appellant is only permitted to adduce witness evidence where the appellant is relying on the ground of appeal set out in regulation 3(4)(b), 4(6)(b) , 4A(2)(b)[^c-2fcb65ee480de1e5b49ae62299dbba42] or 5(4)(b) (that there is evidence that could not reasonably have been considered at the original hearing which could have materially affected the finding or decision to impose disciplinary action);
 - (b) a “proposed witness” is a person—
   - (i) whom the appellant wishes to call to give evidence at the hearing,
-  - (ii) whose evidence was not and could not reasonably have been considered at the original hearing or as part of the original appeal[^key-b1c05b5e37c4691a5dc6c3963cc765aa], and
+  - (ii) whose evidence was not and could not reasonably have been considered at the original hearing or as part of the original appeal[^c-b1c05b5e37c4691a5dc6c3963cc765aa], and
   - (iii) whose evidence could have materially affected the relevant decision.
 
 (6) The appellant must supply the documents mentioned in paragraph (4) before the end of—
@@ -296,7 +296,7 @@ Any reference in this Schedule—
 
 (9) For the purposes of paragraph (8)(c)—
 
-- (a) a respondent is only permitted to adduce witness evidence where the appellant is relying on the ground of appeal set out in regulation 3(4)(b), 4(6)(b) , 4A(2)(b)[^key-690716854182b4eb26549bc7ac11b90c] or 5(4)(b);
+- (a) a respondent is only permitted to adduce witness evidence where the appellant is relying on the ground of appeal set out in regulation 3(4)(b), 4(6)(b) , 4A(2)(b)[^c-690716854182b4eb26549bc7ac11b90c] or 5(4)(b);
 - (b) a “proposed witness” is a person—
   - (i) whom the respondent wishes to call to give evidence at the hearing, and
   - (ii) whose evidence is relevant to all or part of the evidence on which the appellant is relying for the purposes of regulation 3(4)(b), 4(6)(b) , 4A(2)(b), or 5(4)(b).
@@ -305,7 +305,7 @@ Any reference in this Schedule—
 
 (11) On receipt of the documents supplied under paragraph (8), the Head of HR must give to the chair a copy of the documents supplied under paragraphs (4) and (8).
 
-### 12. Extensions of time limits[^key-e2578fadd8949734abfcff3e3028430e]
+### 12. Extensions of time limits[^c-e2578fadd8949734abfcff3e3028430e]
 
 (1) The appellant or the respondent may apply to the Head of HR for an extension of a relevant period.
 
@@ -322,7 +322,7 @@ Any reference in this Schedule—
 
 (6) In this regulation, “relevant period” means, in relation to an application by the appellant, the period referred to in regulation 11(6)(a) or (b) and, in relation to an application by the respondent, the period referred to in regulation 11(2) or (8).
 
-### 13. Review of appeal[^key-5c4ffefffb7d4986c291aca66be67f8d]
+### 13. Review of appeal[^c-5c4ffefffb7d4986c291aca66be67f8d]
 
 (1) Upon receipt of the documents mentioned in regulation 11(4) and (8), the chair must determine whether the appeal, or one or more grounds of appeal, must be dismissed under paragraph (2).
 
@@ -346,7 +346,7 @@ Any reference in this Schedule—
 - (a) the notification under paragraph (5) must include the reasons for the determination, and
 - (b) the appeal, or, as the case may be, ground of appeal, must be dismissed.
 
-### 14. Determination of an appeal[^key-d16d7045259aa7dd3b008a5aca1311f5]
+### 14. Determination of an appeal[^c-d16d7045259aa7dd3b008a5aca1311f5]
 
 (1) Where an appeal has not been dismissed under regulation 13, the chair must determine whether the appeal should be dealt with at a hearing.
 
@@ -357,7 +357,7 @@ Any reference in this Schedule—
 - (a) regulations 16 to 25 apply, and
 - (b) the chair must give the appellant and the respondent the chair’s name and contact details.
 
-### 15. National security: power to give directions in relation to appeals[^key-c5aa4d0a666a010f8f02a9effca3ef5d]
+### 15. National security: power to give directions in relation to appeals[^c-c5aa4d0a666a010f8f02a9effca3ef5d]
 
 (1) If the Secretary of State considers it expedient in the interests of national security, the Secretary of State may give a direction (“the direction”) in writing to an appeal hearing relating to one or more of the following matters—
 
@@ -372,7 +372,7 @@ Any reference in this Schedule—
 
 (4) The chair must comply with the direction.
 
-### 16. Power to request disclosure of documents[^key-e8caa0ffa16395cab727121b7ca5a8eb]
+### 16. Power to request disclosure of documents[^c-e8caa0ffa16395cab727121b7ca5a8eb]
 
 (1) At any time following the provision of the documents mentioned in regulation 11(4) and (8), the appellant or the respondent (the “requesting party”) may apply to the chair for disclosure of any document by the other party which is relevant to the appeal.
 
@@ -380,7 +380,7 @@ Any reference in this Schedule—
 
 (3) Where a party does not comply with a request to disclose under paragraph (2), the party must give the chair and the requesting party the reasons for non-disclosure in writing.
 
-### 17. Notice of the hearing[^key-c9b679161ae7286d8d9dfd7bd3237ce5]
+### 17. Notice of the hearing[^c-c9b679161ae7286d8d9dfd7bd3237ce5]
 
 (1) The chair must cause the appellant and the respondent to be given written notice of the date, time and place of the hearing at least 20 working days, or such shorter period as may with the agreement of both parties be determined, before the date of the hearing.
 
@@ -423,7 +423,7 @@ Any reference in this Schedule—
 
 (9) Any written representations made in accordance with paragraph (7) must be provided no later than the date specified by the chair for provision of such representations.
 
-### 18. Legal and other representation[^key-730bcb307c120aa03702a46784786d04]
+### 18. Legal and other representation[^c-730bcb307c120aa03702a46784786d04]
 
 (1) The appellant has the right to be represented at a hearing by a relevant lawyer or a police friend.
 
@@ -443,7 +443,7 @@ Any reference in this Schedule—
 
 (7) Paragraph (4)(b) to (d) do not apply where the Director General or the Ombudsman is presenting the case in accordance with regulation 10(1).
 
-### 19. Procedure and oral evidence at hearing[^key-b466a306cf29dc604b2f8177c3f8a2ab]
+### 19. Procedure and oral evidence at hearing[^c-b466a306cf29dc604b2f8177c3f8a2ab]
 
 (1) The tribunal must determine the procedure at a hearing and, insofar as it is set out in these Regulations, must determine it in accordance with these Regulations.
 
@@ -457,7 +457,7 @@ Any reference in this Schedule—
 
 (6) A verbatim record of the evidence given at the hearing must be taken; and the Head of HR must keep that record for a period of at least two years beginning with the day after the date of the end of the hearing.
 
-### 20. Statements in lieu of oral evidence[^key-c232e8d4eea813fa45fb1664a0651130]
+### 20. Statements in lieu of oral evidence[^c-c232e8d4eea813fa45fb1664a0651130]
 
 (1) Subject to paragraph (2), the tribunal may admit as evidence a witness statement of a proposed witness supplied under regulation 11(4)(c)(ii) or (8)(c)(ii), notwithstanding that the person is not to be called as a witness at the hearing.
 
@@ -467,17 +467,17 @@ Any reference in this Schedule—
 
 (4) This regulation does not affect the admissibility of written evidence which would be admissible apart from the provisions of this regulation.
 
-### 21. Attendance at hearing[^key-21a1af6a675b85ce7298a850257eca93]
+### 21. Attendance at hearing[^c-21a1af6a675b85ce7298a850257eca93]
 
 (1) Subject to regulations 15 and 24, the hearing of an appeal brought in accordance with regulation 3 or 5 (appeals made in relation to the Conduct Regulations and by former officers) must be held in public.
 
 (2) Subject to paragraph (3) and regulations 22 and 23, the hearing of an appeal brought in accordance with regulation 4 (appeals made in relation to the Performance Regulations) must be held in private.
 
-(2A)[^key-d9fc1ab9ef533e1f8fcc1f9781456dc4] Subject to paragraph (3), the hearing of an appeal brought in accordance with regulation 4A must be held in private.
+(2A)[^c-d9fc1ab9ef533e1f8fcc1f9781456dc4] Subject to paragraph (3), the hearing of an appeal brought in accordance with regulation 4A must be held in private.
 
-(3) The tribunal may allow a person to attend all or part of the hearing of an appeal brought in accordance with regulation 4 or 4A[^key-eb768d4de4c7f6f44c81dab8dc66a527] as an observer for the purposes of training.
+(3) The tribunal may allow a person to attend all or part of the hearing of an appeal brought in accordance with regulation 4 or 4A[^c-eb768d4de4c7f6f44c81dab8dc66a527] as an observer for the purposes of training.
 
-### 22. Attendance of complainant and interested person at hearing[^key-c4e5202114e249db2809cdd794b440e7]
+### 22. Attendance of complainant and interested person at hearing[^c-c4e5202114e249db2809cdd794b440e7]
 
 (1) This regulation applies where a complainant or interested person was entitled to attend the original hearing.
 
@@ -489,7 +489,7 @@ Any reference in this Schedule—
 
 (5) The chair may put any questions to the appellant that the complainant or interested person request be put to the appellant.
 
-### 23. Attendance of Director General and the Ombudsman at hearing[^key-2d2e5ab6e87f31fd6b5ce603080ec523]
+### 23. Attendance of Director General and the Ombudsman at hearing[^c-2d2e5ab6e87f31fd6b5ce603080ec523]
 
 (1) Subject to paragraphs (3) and (4), this regulation applies to a specified appeal.
 
@@ -504,7 +504,7 @@ at the same time as such notice is given to the appellant and the respondent und
 
 (4) This regulation does not apply if the Director General or Ombudsman is presenting the case in accordance with regulation 10(1).
 
-### 24. Exclusion from hearing[^key-046ef9fecb71cc61df76491a3b7baedd]
+### 24. Exclusion from hearing[^c-046ef9fecb71cc61df76491a3b7baedd]
 
 (1) On the application of the appellant or the respondent or otherwise, the chair may require any person to withdraw from all or any part of the hearing.
 
@@ -514,19 +514,19 @@ at the same time as such notice is given to the appellant and the respondent und
 
 (4) Before excluding any person under paragraph (1) or imposing any conditions under paragraph (2), the chair must take into account any representations made under regulation 17(7)(a) or (b), as the case may be.
 
-### 25. Statement of tribunal’s determination[^key-9693c3df9da8f93c37b1577f14278722]
+### 25. Statement of tribunal’s determination[^c-9693c3df9da8f93c37b1577f14278722]
 
 (1) The tribunal must determine whether the ground or grounds of appeal on which the appellant relies have been made out.
 
-(2) Where the tribunal determines that a ground of appeal under regulation 3(4)(b) or (c), 4(6)(b) or (c) , regulation 4A(2)(b) or (c)[^key-a4d9b290d4845bd819e2f986fdc2252c] or 5(4)(b) or (c) has been made out, the tribunal may set aside the relevant decision and remit the matter to be decided again in accordance with the relevant provisions of the Conduct Regulations  , the Performance Regulations or the Vetting Regulations[^key-ffb51747a4325ec3b29403b46f6d88db]  (as the case may be).
+(2) Where the tribunal determines that a ground of appeal under regulation 3(4)(b) or (c), 4(6)(b) or (c) , regulation 4A(2)(b) or (c)[^c-a4d9b290d4845bd819e2f986fdc2252c] or 5(4)(b) or (c) has been made out, the tribunal may set aside the relevant decision and remit the matter to be decided again in accordance with the relevant provisions of the Conduct Regulations  , the Performance Regulations or the Vetting Regulations[^c-ffb51747a4325ec3b29403b46f6d88db]  (as the case may be).
 
-(3) Where the tribunal remits the matter under paragraph (2) and the relevant decision was the decision of a panel (“the original panel”), the matter must be decided by a fresh panel which is constituted in accordance with the relevant provisions of the Conduct Regulations , the Performance Regulations or the Vetting Regulations[^key-2fa27d19b9546db0621c97947b6cb866] (as the case may be) but does not contain any of the members of the original panel.
+(3) Where the tribunal remits the matter under paragraph (2) and the relevant decision was the decision of a panel (“the original panel”), the matter must be decided by a fresh panel which is constituted in accordance with the relevant provisions of the Conduct Regulations , the Performance Regulations or the Vetting Regulations[^c-2fa27d19b9546db0621c97947b6cb866] (as the case may be) but does not contain any of the members of the original panel.
 
 (4) The determination of the tribunal must be based on a simple majority but must not indicate whether it was taken unanimously or by a majority.
 
 (5) The chair must prepare a written statement of the tribunal’s determination of the appeal and of the reasons for the decision.
 
-(5A)[^key-1d7ddb530c2d5687e741955db70f9f76] Paragraph (5B) applies in a case where information in relation to the appellant which is included in the MDP barred list has been published by the Secretary of State under regulation 8(2) of the Barred List and Advisory List Regulations 2026 (information to be published).
+(5A)[^c-1d7ddb530c2d5687e741955db70f9f76] Paragraph (5B) applies in a case where information in relation to the appellant which is included in the MDP barred list has been published by the Secretary of State under regulation 8(2) of the Barred List and Advisory List Regulations 2026 (information to be published).
 
 (5B) The chair may include in the written statement any representations that the chair considers it appropriate to make in relation to the appellant and the question mentioned in regulation 9(2) of the Barred List and Advisory List Regulations 2026 (review of publication).
 
@@ -566,25 +566,25 @@ at the same time as such notice is given to the appellant and the respondent und
 - (a) provided under regulation 17(7);
 - (b) made at the hearing.
 
-(15) Paragraphs (9) to (14) do not apply to an appeal brought in accordance with regulation 4 (appeals brought in relation to the Performance Regulations) or regulation 4A (appeals brought in relation to the Vetting Regulations)[^key-f54b056a311721062f6784bd09e6a306].
+(15) Paragraphs (9) to (14) do not apply to an appeal brought in accordance with regulation 4 (appeals brought in relation to the Performance Regulations) or regulation 4A (appeals brought in relation to the Vetting Regulations)[^c-f54b056a311721062f6784bd09e6a306].
 
 (16) In paragraph (3), “panel” includes a person who conducted an accelerated misconduct hearing under the Conduct Regulations.
 
 ## Annotations
 
-[^key-1f18b801b8a1894b22159da11c0401c6]: Commencement: Sch. 5 reg. 1 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-1f18b801b8a1894b22159da11c0401c6]: Commencement: Sch. 5 reg. 1 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-3fe68e6aa1120cbc9a1e0c1778ae75b1]: Commencement: Sch. 5 reg. 2 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-3fe68e6aa1120cbc9a1e0c1778ae75b1]: Commencement: Sch. 5 reg. 2 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
 [^f00049]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). The definition of “lay person” was inserted by section 31(5) of the Policing and Crime Act 1[2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), and amended by section 41(4) of that Act. There are other amendments to paragraph 10 which are not relevant to these Regulations.
 
-[^key-4fd9835d041b2cabca3b90446bdfa7a3]: Textual amendment: Words in [Sch. 5 reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/1) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/2/a/i)
+[^c-4fd9835d041b2cabca3b90446bdfa7a3]: Textual amendment: Words in [Sch. 5 reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/1) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(2)(a)(i)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/2/a/i)
 
-[^key-f77a404bdedecea9bd1d2cdfeaeaf823]: Textual amendment: Words in [Sch. 5 reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/1) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/2/a/ii)
+[^c-f77a404bdedecea9bd1d2cdfeaeaf823]: Textual amendment: Words in [Sch. 5 reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/1) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/2/a/ii)
 
-[^key-320ff6926b93b5268093a9d42de388f1]: Textual amendment: Words in [Sch. 5 reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/1) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [74(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/74/a) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
+[^c-320ff6926b93b5268093a9d42de388f1]: Textual amendment: Words in [Sch. 5 reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/1) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [74(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/74/a) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
 
-[^key-03b833beda1640a27d96b4a5c6c0999b]: Textual amendment: Words in [Sch. 5 reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/1) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/2/a/iii)
+[^c-03b833beda1640a27d96b4a5c6c0999b]: Textual amendment: Words in [Sch. 5 reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/1) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/2/a/iii)
 
 [^f00050]: Footnote: Paragraph 16 has been amended by paragraph 14 of Schedule 12 to the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), paragraph 9, 11, 12 of Schedule 14 to the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), paragraph 17 of Schedule 6 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), paragraph 16 and 17 of Schedule 5 and paragraph 56 of Schedule 9 to the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
 
@@ -596,104 +596,104 @@ at the same time as such notice is given to the appellant and the respondent und
 
 [^f00054]: Footnote: Paragraphs 18 of the 2002 Act was amended by paragraph 18, 19, 56 of Schedule 5 to the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3). Paragraph 19 of that Act was also amended by paragraph 56 of Schedule 5 to that Act. There are other amendments to those provisions which are not relevant to these Regulations.
 
-[^key-efc42aa64edeb689a4cecf09915e4137]: Textual amendment: Words in [Sch. 5 reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/2) substituted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(2)(b)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/2/b)
+[^c-efc42aa64edeb689a4cecf09915e4137]: Textual amendment: Words in [Sch. 5 reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/2) substituted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(2)(b)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/2/b)
 
-[^key-9b0827710a11b4a1e0e4dc68a56ed482]: Textual amendment: Words in [Sch. 5 reg. 2(3)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/3) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [74(b)(i)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/74/b/i) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
+[^c-9b0827710a11b4a1e0e4dc68a56ed482]: Textual amendment: Words in [Sch. 5 reg. 2(3)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/3) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [74(b)(i)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/74/b/i) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
 
-[^key-dec918f393036c5c106d653f808eded8]: Textual amendment: [Sch. 5 reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/3/b) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [74(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/74/b/ii) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
+[^c-dec918f393036c5c106d653f808eded8]: Textual amendment: [Sch. 5 reg. 2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/3/b) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [74(b)(ii)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/74/b/ii) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
 
-[^key-321f620d0167cf175c99ca7d035fada8]: Textual amendment: [Sch. 5 reg. 2(4)-(7)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/4) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [74(c)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/74/c) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
+[^c-321f620d0167cf175c99ca7d035fada8]: Textual amendment: [Sch. 5 reg. 2(4)-(7)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/2/4) inserted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [74(c)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/74/c) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
 
-[^key-327a5dab5df9e34d6e0bceb5b9d7e302]: Commencement: Sch. 5 reg. 3 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-327a5dab5df9e34d6e0bceb5b9d7e302]: Commencement: Sch. 5 reg. 3 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-2d888bd587644d67740691335a69cc7c]: Commencement: Sch. 5 reg. 4 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-2d888bd587644d67740691335a69cc7c]: Commencement: Sch. 5 reg. 4 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-e140e81a6f53abdba8d60c7e3684ffdf]: Textual amendment: Words in [Sch. 5 reg. 4(2)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/4/2) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [75(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/75/a) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
+[^c-e140e81a6f53abdba8d60c7e3684ffdf]: Textual amendment: Words in [Sch. 5 reg. 4(2)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/4/2) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [75(a)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/75/a) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
 
-[^key-87ef1ae2ab6988ab1de50b6a8f0513aa]: Textual amendment: Words in [Sch. 5 reg. 4(4)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/4/4) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [75(b)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/75/b) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
+[^c-87ef1ae2ab6988ab1de50b6a8f0513aa]: Textual amendment: Words in [Sch. 5 reg. 4(4)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/4/4) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [75(b)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/75/b) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
 
-[^key-2b10ddaf33a042e81f41c2692057c65c]: Textual amendment: Words in [Sch. 5 reg. 4(5)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/4/5) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [75(c)(i)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/75/c/i) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
+[^c-2b10ddaf33a042e81f41c2692057c65c]: Textual amendment: Words in [Sch. 5 reg. 4(5)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/4/5) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [75(c)(i)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/75/c/i) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
 
-[^key-2437adef6e9204d2b602b2fe05cc80c7]: Textual amendment: [Sch. 5 reg. 4(5)(d)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/4/5/d) omitted (6.10.2026) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [75(c)(ii)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/75/c/ii) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
+[^c-2437adef6e9204d2b602b2fe05cc80c7]: Textual amendment: [Sch. 5 reg. 4(5)(d)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/4/5/d) omitted (6.10.2026) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [75(c)(ii)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/75/c/ii) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
 
-[^key-5190d05f75de217741a93565fc8bb23a]: Textual amendment: Words in [Sch. 5 reg. 4(6)(d)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/4/6/d) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [75(d)(i)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/75/d/i) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
+[^c-5190d05f75de217741a93565fc8bb23a]: Textual amendment: Words in [Sch. 5 reg. 4(6)(d)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/4/6/d) substituted (6.10.2026) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [75(d)(i)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/75/d/i) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
 
-[^key-c032ba38cd17ae715e92cfa15783db2e]: Textual amendment: Word in [Sch. 5 reg. 4(6)(d)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/4/6/d) omitted (6.10.2026) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [75(d)(ii)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/75/d/ii) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
+[^c-c032ba38cd17ae715e92cfa15783db2e]: Textual amendment: Word in [Sch. 5 reg. 4(6)(d)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/4/6/d) omitted (6.10.2026) by virtue of [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2026 (S.I. 2026/1021)](https://www.legislation.gov.uk/uksi/2026/1021), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/1/1), [75(d)(ii)](https://www.legislation.gov.uk/uksi/2026/1021/regulation/75/d/ii) (with [reg. 78](https://www.legislation.gov.uk/uksi/2026/1021/regulation/78))
 
-[^key-907e1534cb82bf0f9f2188cf2f59b865]: Textual amendment: [Sch. 5 reg. 4A](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/4A) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/3)
+[^c-907e1534cb82bf0f9f2188cf2f59b865]: Textual amendment: [Sch. 5 reg. 4A](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/4A) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(3)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/3)
 
-[^key-ac361b18ae6884574cf9942240fed930]: Commencement: Sch. 5 reg. 5 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-ac361b18ae6884574cf9942240fed930]: Commencement: Sch. 5 reg. 5 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-51650326a2d6e8196fd4b71cabaa126e]: Commencement: Sch. 5 reg. 6 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-51650326a2d6e8196fd4b71cabaa126e]: Commencement: Sch. 5 reg. 6 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
 [^f00055]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16); paragraph 1(1)(a) was amended by paragraph 27 of Schedule 10 to the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), subject to transitional provisions specified in [S.I. 2008/1653](https://www.legislation.gov.uk/uksi/2008/1653), section 31 of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3) and [S.I. 2018/226](https://www.legislation.gov.uk/uksi/2018/226).
 
-[^key-df25690fafefdfd798e3aaeafdae4978]: Textual amendment: [Sch. 5 reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/6/4/a) substituted (29.12.2025) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2025 (S.I. 2025/1263)](https://www.legislation.gov.uk/uksi/2025/1263), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1263/regulation/1/1), [74](https://www.legislation.gov.uk/uksi/2025/1263/regulation/74) (with [reg. 77(3)](https://www.legislation.gov.uk/uksi/2025/1263/regulation/77/3))
+[^c-df25690fafefdfd798e3aaeafdae4978]: Textual amendment: [Sch. 5 reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/6/4/a) substituted (29.12.2025) by [The Ministry of Defence Police (Conduct, Performance and Appeals Tribunals) (Amendment) Regulations 2025 (S.I. 2025/1263)](https://www.legislation.gov.uk/uksi/2025/1263), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1263/regulation/1/1), [74](https://www.legislation.gov.uk/uksi/2025/1263/regulation/74) (with [reg. 77(3)](https://www.legislation.gov.uk/uksi/2025/1263/regulation/77/3))
 
-[^key-373531e1e5c3f39abd87a84a403b148c]: Commencement: Sch. 5 reg. 7 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-373531e1e5c3f39abd87a84a403b148c]: Commencement: Sch. 5 reg. 7 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-76c6c05d2147f11b81d4f8752e1af0c3]: Textual amendment: Words in [Sch. 5 reg. 7(3)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/7/3) substituted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(4)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/4)
+[^c-76c6c05d2147f11b81d4f8752e1af0c3]: Textual amendment: Words in [Sch. 5 reg. 7(3)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/7/3) substituted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(4)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/4)
 
-[^key-73728610570a65899b9f05e063cb1691]: Commencement: Sch. 5 reg. 8 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-73728610570a65899b9f05e063cb1691]: Commencement: Sch. 5 reg. 8 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-349e90c88daa13b889f68f1d9d529387]: Commencement: Sch. 5 reg. 9 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-349e90c88daa13b889f68f1d9d529387]: Commencement: Sch. 5 reg. 9 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-f91df73d6082d7b9015b41e2862cf0be]: Commencement: Sch. 5 reg. 10 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-f91df73d6082d7b9015b41e2862cf0be]: Commencement: Sch. 5 reg. 10 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-bb1ae8a379d2089c2a6b9bbc3031d4b8]: Commencement: Sch. 5 reg. 11 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-bb1ae8a379d2089c2a6b9bbc3031d4b8]: Commencement: Sch. 5 reg. 11 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-affadb46a56bc67bf84c76c8afaa847b]: Textual amendment: Words in Sch. 5 reg. 11(2)(a) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(5)(a)(i)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/5/a/i)
+[^c-affadb46a56bc67bf84c76c8afaa847b]: Textual amendment: Words in Sch. 5 reg. 11(2)(a) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(5)(a)(i)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/5/a/i)
 
-[^key-878cf5563d08f8cbc294e75a87502c9a]: Textual amendment: Words in Sch. 5 reg. 11(2)(a) substituted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/5/a/ii)
+[^c-878cf5563d08f8cbc294e75a87502c9a]: Textual amendment: Words in Sch. 5 reg. 11(2)(a) substituted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/5/a/ii)
 
-[^key-10734b79ab7f420c346ac830164a4cb7]: Textual amendment: Words in Sch. 5 reg. 11(2)(a) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/5/a/iii)
+[^c-10734b79ab7f420c346ac830164a4cb7]: Textual amendment: Words in Sch. 5 reg. 11(2)(a) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/5/a/iii)
 
-[^key-74fed9984205fe5af6abef8492a26a44]: Textual amendment: Words in Sch. 5 reg. 11(2)(b) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(5)(b)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/5/b)
+[^c-74fed9984205fe5af6abef8492a26a44]: Textual amendment: Words in Sch. 5 reg. 11(2)(b) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(5)(b)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/5/b)
 
-[^key-2fcb65ee480de1e5b49ae62299dbba42]: Textual amendment: Word in Sch. 5 reg. 11(5)(a) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(5)(c)(i)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/5/c/i)
+[^c-2fcb65ee480de1e5b49ae62299dbba42]: Textual amendment: Word in Sch. 5 reg. 11(5)(a) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(5)(c)(i)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/5/c/i)
 
-[^key-b1c05b5e37c4691a5dc6c3963cc765aa]: Textual amendment: Words in Sch. 5 reg. 11(5)(b)(ii) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/5/c/ii)
+[^c-b1c05b5e37c4691a5dc6c3963cc765aa]: Textual amendment: Words in Sch. 5 reg. 11(5)(b)(ii) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/5/c/ii)
 
-[^key-690716854182b4eb26549bc7ac11b90c]: Textual amendment: Word in Sch. 5 reg. 11(9) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(5)(d)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/5/d)
+[^c-690716854182b4eb26549bc7ac11b90c]: Textual amendment: Word in Sch. 5 reg. 11(9) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(5)(d)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/5/d)
 
-[^key-e2578fadd8949734abfcff3e3028430e]: Commencement: Sch. 5 reg. 12 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-e2578fadd8949734abfcff3e3028430e]: Commencement: Sch. 5 reg. 12 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-5c4ffefffb7d4986c291aca66be67f8d]: Commencement: Sch. 5 reg. 13 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-5c4ffefffb7d4986c291aca66be67f8d]: Commencement: Sch. 5 reg. 13 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-d16d7045259aa7dd3b008a5aca1311f5]: Commencement: Sch. 5 reg. 14 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-d16d7045259aa7dd3b008a5aca1311f5]: Commencement: Sch. 5 reg. 14 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-c5aa4d0a666a010f8f02a9effca3ef5d]: Commencement: Sch. 5 reg. 15 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-c5aa4d0a666a010f8f02a9effca3ef5d]: Commencement: Sch. 5 reg. 15 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-e8caa0ffa16395cab727121b7ca5a8eb]: Commencement: Sch. 5 reg. 16 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-e8caa0ffa16395cab727121b7ca5a8eb]: Commencement: Sch. 5 reg. 16 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-c9b679161ae7286d8d9dfd7bd3237ce5]: Commencement: Sch. 5 reg. 17 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-c9b679161ae7286d8d9dfd7bd3237ce5]: Commencement: Sch. 5 reg. 17 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-730bcb307c120aa03702a46784786d04]: Commencement: Sch. 5 reg. 18 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-730bcb307c120aa03702a46784786d04]: Commencement: Sch. 5 reg. 18 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-b466a306cf29dc604b2f8177c3f8a2ab]: Commencement: Sch. 5 reg. 19 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-b466a306cf29dc604b2f8177c3f8a2ab]: Commencement: Sch. 5 reg. 19 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-c232e8d4eea813fa45fb1664a0651130]: Commencement: Sch. 5 reg. 20 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-c232e8d4eea813fa45fb1664a0651130]: Commencement: Sch. 5 reg. 20 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-21a1af6a675b85ce7298a850257eca93]: Commencement: Sch. 5 reg. 21 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-21a1af6a675b85ce7298a850257eca93]: Commencement: Sch. 5 reg. 21 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-d9fc1ab9ef533e1f8fcc1f9781456dc4]: Textual amendment: Sch. 5 reg. 21(2A) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(6)(a)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/6/a)
+[^c-d9fc1ab9ef533e1f8fcc1f9781456dc4]: Textual amendment: Sch. 5 reg. 21(2A) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(6)(a)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/6/a)
 
-[^key-eb768d4de4c7f6f44c81dab8dc66a527]: Textual amendment: Words in Sch. 5 reg. 21(3) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(6)(b)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/6/b)
+[^c-eb768d4de4c7f6f44c81dab8dc66a527]: Textual amendment: Words in Sch. 5 reg. 21(3) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(6)(b)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/6/b)
 
-[^key-c4e5202114e249db2809cdd794b440e7]: Commencement: Sch. 5 reg. 22 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-c4e5202114e249db2809cdd794b440e7]: Commencement: Sch. 5 reg. 22 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-2d2e5ab6e87f31fd6b5ce603080ec523]: Commencement: Sch. 5 reg. 23 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-2d2e5ab6e87f31fd6b5ce603080ec523]: Commencement: Sch. 5 reg. 23 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-046ef9fecb71cc61df76491a3b7baedd]: Commencement: Sch. 5 reg. 24 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-046ef9fecb71cc61df76491a3b7baedd]: Commencement: Sch. 5 reg. 24 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-9693c3df9da8f93c37b1577f14278722]: Commencement: Sch. 5 reg. 25 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
+[^c-9693c3df9da8f93c37b1577f14278722]: Commencement: Sch. 5 reg. 25 in force at 2.11.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1087/regulation/1)
 
-[^key-a4d9b290d4845bd819e2f986fdc2252c]: Textual amendment: Words in [Sch. 5 reg. 25(2)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/25/2) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(7)(a)(i)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/7/a/i)
+[^c-a4d9b290d4845bd819e2f986fdc2252c]: Textual amendment: Words in [Sch. 5 reg. 25(2)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/25/2) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(7)(a)(i)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/7/a/i)
 
-[^key-ffb51747a4325ec3b29403b46f6d88db]: Textual amendment: Words in [Sch. 5 reg. 25(2)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/25/2) substituted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/7/a/ii)
+[^c-ffb51747a4325ec3b29403b46f6d88db]: Textual amendment: Words in [Sch. 5 reg. 25(2)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/25/2) substituted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/7/a/ii)
 
-[^key-2fa27d19b9546db0621c97947b6cb866]: Textual amendment: Words in [Sch. 5 reg. 25(3)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/25/3) substituted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(7)(b)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/7/b)
+[^c-2fa27d19b9546db0621c97947b6cb866]: Textual amendment: Words in [Sch. 5 reg. 25(3)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/25/3) substituted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(7)(b)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/7/b)
 
-[^key-1d7ddb530c2d5687e741955db70f9f76]: Textual amendment: [Sch. 5 para. 25(5A)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/paragraph/25/5A)[(5B)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/paragraph/25/5B) inserted (21.9.2026) by [The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026 (S.I. 2026/769)](https://www.legislation.gov.uk/uksi/2026/769), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/769/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2026/769/regulation/18)
+[^c-1d7ddb530c2d5687e741955db70f9f76]: Textual amendment: [Sch. 5 para. 25(5A)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/paragraph/25/5A)[(5B)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/paragraph/25/5B) inserted (21.9.2026) by [The Ministry of Defence Police (Barred List and Advisory List) Regulations 2026 (S.I. 2026/769)](https://www.legislation.gov.uk/uksi/2026/769), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/769/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2026/769/regulation/18)
 
-[^key-f54b056a311721062f6784bd09e6a306]: Textual amendment: Words in [Sch. 5 reg. 25(15)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/25/15) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(7)(c)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/7/c)
+[^c-f54b056a311721062f6784bd09e6a306]: Textual amendment: Words in [Sch. 5 reg. 25(15)](https://www.legislation.gov.uk/uksi/2020/1087/schedule/5/regulation/25/15) inserted (18.5.2026) by [The Ministry of Defence Police (Vetting) Regulations 2026 (S.I. 2026/428)](https://www.legislation.gov.uk/uksi/2026/428), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/428/regulation/1/1), [35(7)(c)](https://www.legislation.gov.uk/uksi/2026/428/regulation/35/7/c)

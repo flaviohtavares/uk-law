@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Infrastructure[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 55(1) and 110(2) of the Road Traffic (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-306ffad24a61a8e26cacd999ad9e03e6]
+## 1. Citation and commencement[^c-306ffad24a61a8e26cacd999ad9e03e6]
 
 These Regulations may be cited as the Motor Vehicles (Construction and Use) (Amendment No. 2) Regulations (Northern Ireland) 2023 and shall come into operation on 8th January 2024.
 
-## 2. Amendment of the Motor Vehicles (Construction and Use) Regulations[^key-b5ad04569e6cd6eefb8f56c5bde2ae81]
+## 2. Amendment of the Motor Vehicles (Construction and Use) Regulations[^c-b5ad04569e6cd6eefb8f56c5bde2ae81]
 
 In regulation 125A of the Motor Vehicles (Construction and Use) Regulations (Northern Ireland) 1999[^f00004] (mobile telephones)—
 
@@ -91,8 +91,8 @@ A Regulatory Impact Assessment and Explanatory Memorandum have been produced and
 
 [^f00003]: Footnote: S*ee* Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No.76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-306ffad24a61a8e26cacd999ad9e03e6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/191/regulation/1) in operation at 8.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/191/regulation/1)
+[^c-306ffad24a61a8e26cacd999ad9e03e6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/191/regulation/1) in operation at 8.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/191/regulation/1)
 
-[^key-b5ad04569e6cd6eefb8f56c5bde2ae81]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/191/regulation/2) in operation at 8.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/191/regulation/1)
+[^c-b5ad04569e6cd6eefb8f56c5bde2ae81]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/191/regulation/2) in operation at 8.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/191/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1999 No. 454](https://www.legislation.gov.uk/nisr/1999/454); regulation 125A was inserted by regulation 2 of [S.R. 2003 No. 537](https://www.legislation.gov.uk/nisr/2003/537)

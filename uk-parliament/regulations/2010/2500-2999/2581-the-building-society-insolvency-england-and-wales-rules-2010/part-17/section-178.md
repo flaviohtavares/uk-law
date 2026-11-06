@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 178. Application to court for order authorising return of capital[^key-d7b8038e4fd49c69f29a2e96457d1e8c]
+## 178. Application to court for order authorising return of capital[^c-d7b8038e4fd49c69f29a2e96457d1e8c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.221 of the 1986 Rules.
 
 ## Annotations
 
-[^key-d7b8038e4fd49c69f29a2e96457d1e8c]: Commencement: Rule 178 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-d7b8038e4fd49c69f29a2e96457d1e8c]: Commencement: Rule 178 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

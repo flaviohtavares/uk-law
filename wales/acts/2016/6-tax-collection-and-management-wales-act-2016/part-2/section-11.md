@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Validity of proceedings and acts[^key-9ac66177dbfd93f558034ed99ef0d62b]
+## 11. Validity of proceedings and acts[^c-9ac66177dbfd93f558034ed99ef0d62b]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The validity of any proceedings or acts of WRA (or of any committee or sub-commi
 
 ## Annotations
 
-[^key-9ac66177dbfd93f558034ed99ef0d62b]: Commencement: S. 11 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-9ac66177dbfd93f558034ed99ef0d62b]: Commencement: S. 11 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

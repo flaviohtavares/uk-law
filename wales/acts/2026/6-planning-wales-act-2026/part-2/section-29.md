@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Default powers of the Welsh Ministers[^key-d24bba6cd3bfb36cf5cc52a2c5e260fa]
+## 29. Default powers of the Welsh Ministers[^c-d24bba6cd3bfb36cf5cc52a2c5e260fa]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d24bba6cd3bfb36cf5cc52a2c5e260fa]: Commencement: S. 29 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d24bba6cd3bfb36cf5cc52a2c5e260fa]: Commencement: S. 29 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

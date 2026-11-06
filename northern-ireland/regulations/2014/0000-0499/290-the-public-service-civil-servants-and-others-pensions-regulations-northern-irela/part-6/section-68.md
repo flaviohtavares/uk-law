@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Annual rate of partial retirement pension[^key-1c2eb653e67efb651e2760a8c8a4eccc]
+## 68. Annual rate of partial retirement pension[^c-1c2eb653e67efb651e2760a8c8a4eccc]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c2eb653e67efb651e2760a8c8a4eccc]: Commencement: [Reg. 68](https://www.legislation.gov.uk/nisr/2014/290/regulation/68) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-1c2eb653e67efb651e2760a8c8a4eccc]: Commencement: [Reg. 68](https://www.legislation.gov.uk/nisr/2014/290/regulation/68) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

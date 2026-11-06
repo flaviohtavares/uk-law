@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Consequential provision[^key-dfa37a56a3fe4ec55bdf7d3b5df0a3da]
+## 189. Consequential provision[^c-dfa37a56a3fe4ec55bdf7d3b5df0a3da]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfa37a56a3fe4ec55bdf7d3b5df0a3da]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2012/7/section/189) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-dfa37a56a3fe4ec55bdf7d3b5df0a3da]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2012/7/section/189) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

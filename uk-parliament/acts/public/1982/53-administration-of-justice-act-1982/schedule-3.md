@@ -63,7 +63,7 @@ summary: ''
 
 **8.** (1) Sums recoverable under section 59 of the [^c2573301]Highways Act 1980 (expenses due to extraordinary traffic) shall be recoverable in the county court [^c2573311] . . .
 
-(2)[^key-033a9a1fa5021faad7c3cdb491484e5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-033a9a1fa5021faad7c3cdb491484e5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -93,4 +93,4 @@ summary: ''
 
 [^c2573311]: Textual amendment: Words in Sch. 3 para. 8 omitted by virtue of [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), [s. 2(8)](https://www.legislation.gov.uk/uksi/1991/724/section/2/8), [Sch.](https://www.legislation.gov.uk/uksi/1991/724/schedule) Pt. 1
 
-[^key-033a9a1fa5021faad7c3cdb491484e5d]: Textual amendment: Sch. 3 para. 8(2) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 87](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/87); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-033a9a1fa5021faad7c3cdb491484e5d]: Textual amendment: Sch. 3 para. 8(2) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 87](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/87); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

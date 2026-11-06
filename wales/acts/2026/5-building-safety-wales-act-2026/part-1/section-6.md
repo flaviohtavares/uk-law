@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Categories of regulated building[^key-cdf9cc6a4a70a42c9f8a18f110e01c94]
+## 6. Categories of regulated building[^c-cdf9cc6a4a70a42c9f8a18f110e01c94]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdf9cc6a4a70a42c9f8a18f110e01c94]: Commencement: S. 6 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)
+[^c-cdf9cc6a4a70a42c9f8a18f110e01c94]: Commencement: S. 6 in force at 28.4.2026, see [s. 138(1)(a)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/a)

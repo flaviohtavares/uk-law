@@ -45,20 +45,20 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 50, 52, 53(3), 61, 64(1), 64(2)(b), 66 and 196(2) of the Social Services and Well-being (Wales) Act 2014[^f00001].
 
-## 1. Title and coming into force[^key-8a0229e3398810a064f3900b3480bf63]
+## 1. Title and coming into force[^c-8a0229e3398810a064f3900b3480bf63]
 
 (1) The title of these Regulations is the Care and Support (Charging) and (Financial Assessment) (Wales) (Miscellaneous Amendments) Regulations 2023.
 
 (2) These Regulations come into force on 10 April 2023.
 
-## 2. Amendment of the Care and Support (Charging) (Wales) Regulations 2015[^key-b6fec21c4102bb1288bc1a6a3fc5d511]
+## 2. Amendment of the Care and Support (Charging) (Wales) Regulations 2015[^c-b6fec21c4102bb1288bc1a6a3fc5d511]
 
 The Care and Support (Charging) (Wales) Regulations 2015[^f00002] are amended as follows—
 
 - (a) in regulation 13 (minimum income amount where a person is provided with accommodation in a care home), for “£35” substitute “£39.50”;
 - (b) in regulation 28 (minimum income amount where a person is provided with accommodation in a care home), for “£35” substitute “£39.50”.
 
-## 3. Amendment of the Care and Support (Financial Assessment) (Wales) Regulations 2015[^key-27cdbf5912419d26d59ec8910cecc766]
+## 3. Amendment of the Care and Support (Financial Assessment) (Wales) Regulations 2015[^c-27cdbf5912419d26d59ec8910cecc766]
 
 The Care and Support (Financial Assessment) (Wales) Regulations 2015[^f00003] are amended as follows—
 
@@ -113,13 +113,13 @@ The Welsh Ministers’ Code of Practice on the carrying out of regulatory impact
 
 [^f00001]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4). *See* section 197(1) for the definitions of “regulations” and “specified”.
 
-[^key-8a0229e3398810a064f3900b3480bf63]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2023/67/regulation/1) in force at 10.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/67/regulation/1/2)
+[^c-8a0229e3398810a064f3900b3480bf63]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2023/67/regulation/1) in force at 10.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/67/regulation/1/2)
 
-[^key-b6fec21c4102bb1288bc1a6a3fc5d511]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2023/67/regulation/2) in force at 10.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/67/regulation/1/2)
+[^c-b6fec21c4102bb1288bc1a6a3fc5d511]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2023/67/regulation/2) in force at 10.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/67/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2015/1843 (W. 271)](https://www.legislation.gov.uk/wsi/2015/1843), amended by [S.I. 2022/99 (W. 35)](https://www.legislation.gov.uk/wsi/2022/99); there are other amending instruments, but none is relevant.
 
-[^key-27cdbf5912419d26d59ec8910cecc766]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2023/67/regulation/3) in force at 10.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/67/regulation/1/2)
+[^c-27cdbf5912419d26d59ec8910cecc766]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2023/67/regulation/3) in force at 10.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/67/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2015/1844 (W. 272)](https://www.legislation.gov.uk/wsi/2015/1844), amended by [S.I. 2017/214 (W. 58)](https://www.legislation.gov.uk/wsi/2017/214), [S.I. 2019/234 (W. 53)](https://www.legislation.gov.uk/wsi/2019/234) and [S.I. 2022/99 (W. 35)](https://www.legislation.gov.uk/wsi/2022/99).
 

@@ -250,7 +250,7 @@ An Act to make further provision as to the sentencing and treatment of offenders
 
 - [Section 69 — Maximum periods of imprisonment for defaulting on fines etc.](part-v/section-69.md)
 
-#### ...[^key-e6ae73cc370e8474b588782862a499f2]
+#### ...[^c-e6ae73cc370e8474b588782862a499f2]
 
 *Extent: E+W*
 
@@ -319,4 +319,4 @@ SCHEDULES
 
 [^c19339021]: Textual amendment: [Pt. IV](https://www.legislation.gov.uk/ukpga/1982/48/part/IV) (ss. 53-56) repealed (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 6](https://www.legislation.gov.uk/ukpga/1995/40/section/6), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch.5](https://www.legislation.gov.uk/ukpga/1995/40/schedule/5) (with [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3/paragraph/3), [6](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3/paragraph/6), [16](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3/paragraph/17))
 
-[^key-e6ae73cc370e8474b588782862a499f2]: Textual amendment: S. 70 and cross-heading repealed (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/d/i), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
+[^c-e6ae73cc370e8474b588782862a499f2]: Textual amendment: S. 70 and cross-heading repealed (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/d/i), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)

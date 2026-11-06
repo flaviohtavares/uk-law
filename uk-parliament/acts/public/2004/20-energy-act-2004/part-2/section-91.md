@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Extension of transmission licences offshore[^key-41ed777bdcba32a20915bf8114a920c2]
+## 91. Extension of transmission licences offshore[^c-41ed777bdcba32a20915bf8114a920c2]
 
 *Extent: E+W+S*
 
@@ -39,7 +39,7 @@ summary: ''
 - (a) the holder of any licence being modified; and
 - (b) such other persons as he considers appropriate.
 
-(6) Subsection (5) may be satisfied by consultation that took place wholly or partly before the passing of the Energy Act 2011[^key-c8a179711556e83afaccb7ef3227bdc8].
+(6) Subsection (5) may be satisfied by consultation that took place wholly or partly before the passing of the Energy Act 2011[^c-c8a179711556e83afaccb7ef3227bdc8].
 
 (7) The Secretary of State must publish every modification made by him under this section.
 
@@ -52,14 +52,14 @@ summary: ''
 - (a) make (as nearly as may be) the same modifications of those standard conditions for the purposes of their incorporation in licences of that type granted after that time; and
 - (b) publish the modifications in such manner as it considers appropriate.
 
-(11) The Secretary of State’s powers under this section are exercisable only during the eighteen months beginning with the passing of the Energy Act 2011[^key-e3a9045561a75efcd86b13a37ea88f35].
+(11) The Secretary of State’s powers under this section are exercisable only during the eighteen months beginning with the passing of the Energy Act 2011[^c-e3a9045561a75efcd86b13a37ea88f35].
 
 (12) Expressions used in this section and in Part 1 of the 1989 Act have the same meanings in this section as in that Part.
 
 ## Annotations
 
-[^key-41ed777bdcba32a20915bf8114a920c2]: Commencement: S. 91 in force at 19.6.2009 by [S.I. 2009/1269](https://www.legislation.gov.uk/uksi/2009/1269), [art. 3](https://www.legislation.gov.uk/uksi/2009/1269/article/3)
+[^c-41ed777bdcba32a20915bf8114a920c2]: Commencement: S. 91 in force at 19.6.2009 by [S.I. 2009/1269](https://www.legislation.gov.uk/uksi/2009/1269), [art. 3](https://www.legislation.gov.uk/uksi/2009/1269/article/3)
 
-[^key-c8a179711556e83afaccb7ef3227bdc8]: Textual amendment: Words in [s. 91(6)](https://www.legislation.gov.uk/ukpga/2004/20/section/91/6) substituted (18.10.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2011/16/section/104/2), [121(4)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/4)
+[^c-c8a179711556e83afaccb7ef3227bdc8]: Textual amendment: Words in [s. 91(6)](https://www.legislation.gov.uk/ukpga/2004/20/section/91/6) substituted (18.10.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2011/16/section/104/2), [121(4)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/4)
 
-[^key-e3a9045561a75efcd86b13a37ea88f35]: Textual amendment: Words in [s. 91(11)](https://www.legislation.gov.uk/ukpga/2004/20/section/91/11) substituted (18.10.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2011/16/section/104/2), [121(4)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/4)
+[^c-e3a9045561a75efcd86b13a37ea88f35]: Textual amendment: Words in [s. 91(11)](https://www.legislation.gov.uk/ukpga/2004/20/section/91/11) substituted (18.10.2011) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2011/16/section/104/2), [121(4)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/4)

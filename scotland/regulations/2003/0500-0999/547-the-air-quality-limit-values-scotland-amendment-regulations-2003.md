@@ -33,7 +33,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Air Quality Limit Values (Scotland) Amendment Regulations 2003 (revoked)[^key-4e10132d534c1a6fdf1bc2962911a8b9]
+The Air Quality Limit Values (Scotland) Amendment Regulations 2003 (revoked)[^c-4e10132d534c1a6fdf1bc2962911a8b9]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 5th December 2003
 
-[^key-4e10132d534c1a6fdf1bc2962911a8b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e10132d534c1a6fdf1bc2962911a8b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4e10132d534c1a6fdf1bc2962911a8b9]
+## 1. Citation and commencement[^c-4e10132d534c1a6fdf1bc2962911a8b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Air Quality Limit Values (Scotland) Regulations 2003[^key-4e10132d534c1a6fdf1bc2962911a8b9]
+## 2. Amendment of the Air Quality Limit Values (Scotland) Regulations 2003[^c-4e10132d534c1a6fdf1bc2962911a8b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4e10132d534c1a6fdf1bc2962911a8b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e10132d534c1a6fdf1bc2962911a8b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4e10132d534c1a6fdf1bc2962911a8b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e10132d534c1a6fdf1bc2962911a8b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4e10132d534c1a6fdf1bc2962911a8b9]: Textual amendment: Regulations revoked (29.3.2007) by [The Air Quality Standards (Scotland) Regulations 2007 (S.S.I. 2007/182)](https://www.legislation.gov.uk/ssi/2007/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/182/regulation/1/1), [30(1)(b)](https://www.legislation.gov.uk/ssi/2007/182/regulation/30/1/b)
+[^c-4e10132d534c1a6fdf1bc2962911a8b9]: Textual amendment: Regulations revoked (29.3.2007) by [The Air Quality Standards (Scotland) Regulations 2007 (S.S.I. 2007/182)](https://www.legislation.gov.uk/ssi/2007/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/182/regulation/1/1), [30(1)(b)](https://www.legislation.gov.uk/ssi/2007/182/regulation/30/1/b)

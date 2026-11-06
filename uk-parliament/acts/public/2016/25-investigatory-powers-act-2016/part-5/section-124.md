@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Approval of modifications under section 123 in urgent cases[^key-e0f9467d61b481ec2f1e85a743144ebf]
+## 124. Approval of modifications under section 123 in urgent cases[^c-e0f9467d61b481ec2f1e85a743144ebf]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ and section 108(5) does not apply in relation to the refusal to approve the deci
 
 ## Annotations
 
-[^key-e0f9467d61b481ec2f1e85a743144ebf]: Commencement: S. 124 in force at 5.12.2018 by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/1246/regulation/3/d)
+[^c-e0f9467d61b481ec2f1e85a743144ebf]: Commencement: S. 124 in force at 5.12.2018 by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2018/1246/regulation/3/d)

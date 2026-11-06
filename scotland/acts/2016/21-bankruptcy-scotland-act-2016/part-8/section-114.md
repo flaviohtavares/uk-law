@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Protection of rights of spouse against arrangements intended to defeat them[^key-a79802da9bcd613b7fe41b085ca7126e]
+## 114. Protection of rights of spouse against arrangements intended to defeat them[^c-a79802da9bcd613b7fe41b085ca7126e]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ the trustee must inform the non-entitled spouse, within 14 days beginning with t
 
 ## Annotations
 
-[^key-a79802da9bcd613b7fe41b085ca7126e]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2016/21/section/114) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-a79802da9bcd613b7fe41b085ca7126e]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2016/21/section/114) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

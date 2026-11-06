@@ -39,48 +39,48 @@ defining the practical arrangements, uniform formats and a methodology in relati
 
 (2013/195/EU) (revoked)
 
-[^key-4b6cdc49e5d57a78f52b6edf95ba9ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b6cdc49e5d57a78f52b6edf95ba9ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Objective[^key-4b6cdc49e5d57a78f52b6edf95ba9ce7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Collection and Provision of data[^key-4b6cdc49e5d57a78f52b6edf95ba9ce7]
+## Article 1. Objective[^c-4b6cdc49e5d57a78f52b6edf95ba9ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Identification of future demand for spectrum[^key-4b6cdc49e5d57a78f52b6edf95ba9ce7]
+## Article 2. Collection and Provision of data[^c-4b6cdc49e5d57a78f52b6edf95ba9ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Report to European Parliament and Council[^key-4b6cdc49e5d57a78f52b6edf95ba9ce7]
+## Article 3. Identification of future demand for spectrum[^c-4b6cdc49e5d57a78f52b6edf95ba9ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Confidentiality and classified information[^key-4b6cdc49e5d57a78f52b6edf95ba9ce7]
+## Article 4. Report to European Parliament and Council[^c-4b6cdc49e5d57a78f52b6edf95ba9ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Review[^key-4b6cdc49e5d57a78f52b6edf95ba9ce7]
+## Article 5. Confidentiality and classified information[^c-4b6cdc49e5d57a78f52b6edf95ba9ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Addressees[^key-4b6cdc49e5d57a78f52b6edf95ba9ce7]
+## Article 6. Review[^c-4b6cdc49e5d57a78f52b6edf95ba9ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b6cdc49e5d57a78f52b6edf95ba9ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX[^key-4b6cdc49e5d57a78f52b6edf95ba9ce7]
-
-### PART I — Application Groupings[^key-4b6cdc49e5d57a78f52b6edf95ba9ce7]
+## Article 7. Addressees[^c-4b6cdc49e5d57a78f52b6edf95ba9ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — Content of the report to be submitted by the Commission pursuant to Article 4[^key-4b6cdc49e5d57a78f52b6edf95ba9ce7]
+[^c-4b6cdc49e5d57a78f52b6edf95ba9ce7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-4b6cdc49e5d57a78f52b6edf95ba9ce7]
+
+### PART I — Application Groupings[^c-4b6cdc49e5d57a78f52b6edf95ba9ce7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART II — Content of the report to be submitted by the Commission pursuant to Article 4[^c-4b6cdc49e5d57a78f52b6edf95ba9ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b6cdc49e5d57a78f52b6edf95ba9ce7]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b6cdc49e5d57a78f52b6edf95ba9ce7]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

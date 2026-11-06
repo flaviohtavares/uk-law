@@ -362,7 +362,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 129 — Inspection of police authorities](part-9/section-129.md)
 
-### Part 10 — Special immigration status[^key-24b99d05cd2f5b226f7daab0575f447f]
+### Part 10 — Special immigration status[^c-24b99d05cd2f5b226f7daab0575f447f]
 
 *Extent: E+W+S+N.I.*
 
@@ -394,7 +394,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 141 — Sexual offences prevention orders: relevant sexual offences](part-11/section-141.md)
 - [Section 142 — Notification requirements: prescribed information](part-11/section-142.md)
 
-#### ...[^key-3670645af6dc0cdf07a7b81e801e062f]
+#### ...[^c-3670645af6dc0cdf07a7b81e801e062f]
 
 *Extent: E+W*
 
@@ -418,7 +418,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 146 — Convention against human trafficking](part-11/section-146.md)
 
-### Part 12 — General[^key-5c206df2ffb147facc3e5ffb5f4d8d37]
+### Part 12 — General[^c-5c206df2ffb147facc3e5ffb5f4d8d37]
 
 - [Section 147 — Orders, rules and regulations](part-12/section-147.md)
 - [Section 148 — Consequential etc. amendments and transitional and saving provision](part-12/section-148.md)
@@ -462,8 +462,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-24b99d05cd2f5b226f7daab0575f447f]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/2008/4/part/10): power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss.](https://www.legislation.gov.uk/ukpga/2022/36/section), [82(2)(k)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/k), [(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/i) 82(1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
+[^c-24b99d05cd2f5b226f7daab0575f447f]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/2008/4/part/10): power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss.](https://www.legislation.gov.uk/ukpga/2022/36/section), [82(2)(k)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/k), [(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/i) 82(1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
 
-[^key-3670645af6dc0cdf07a7b81e801e062f]: Textual amendment: S. 143 and cross-heading omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/14) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+[^c-3670645af6dc0cdf07a7b81e801e062f]: Textual amendment: S. 143 and cross-heading omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/14) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
 
-[^key-5c206df2ffb147facc3e5ffb5f4d8d37]: Modification: [Pt. 12](https://www.legislation.gov.uk/ukpga/2008/4/part/12): power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss.](https://www.legislation.gov.uk/ukpga/2022/36/section), [82(2)(k)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/k), [(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/i) 82(1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
+[^c-5c206df2ffb147facc3e5ffb5f4d8d37]: Modification: [Pt. 12](https://www.legislation.gov.uk/ukpga/2008/4/part/12): power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss.](https://www.legislation.gov.uk/ukpga/2022/36/section), [82(2)(k)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/2/k), [(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/section/82/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/i) 82(1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)

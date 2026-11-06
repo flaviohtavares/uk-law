@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16ZA. Losses: non-UK domiciled individuals[^key-fa61272933a5d960ea1bb883d40db013]
+## 16ZA. Losses: non-UK domiciled individuals[^c-fa61272933a5d960ea1bb883d40db013]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa61272933a5d960ea1bb883d40db013]: Textual amendment: S. 16ZA omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 2(6)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/2/6)
+[^c-fa61272933a5d960ea1bb883d40db013]: Textual amendment: S. 16ZA omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 2(6)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/2/6)

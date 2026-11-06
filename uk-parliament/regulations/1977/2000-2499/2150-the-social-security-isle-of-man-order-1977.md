@@ -42,7 +42,7 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-Her Majesty, in pursuance of section 143 of the Social Security Act 1975, and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^key-5ef41bc9e9f4fc40355114672e597de4][^key-3b7ce45446a6031ff8ea5a615d07fd9c][^key-345c2300fecd6ec275526fc467a275bd]
+Her Majesty, in pursuance of section 143 of the Social Security Act 1975, and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^c-5ef41bc9e9f4fc40355114672e597de4][^c-3b7ce45446a6031ff8ea5a615d07fd9c][^c-345c2300fecd6ec275526fc467a275bd]
 
 ## 1. Citation, commencement and interpretation
 
@@ -91,7 +91,7 @@ Article 2(1)
 >
 > (3) The rules for the construction of Acts of Parliament contained in the Interpretation Act 1889 shall apply for the purposes of the interpretation of the present Agreement as they apply for the purpose of the interpretation of an Act of Parliament.
 >
-> **2.** (1) Subject to paragraph (5) of this Article,[^key-fd536035d6f611376cc523e49a136fe7] for[^key-6652a0ad8d06b368a8434cd914f792b6] the purposes of all or any of the provisions of the systems of social security established by the Acts—
+> **2.** (1) Subject to paragraph (5) of this Article,[^c-fd536035d6f611376cc523e49a136fe7] for[^c-6652a0ad8d06b368a8434cd914f792b6] the purposes of all or any of the provisions of the systems of social security established by the Acts—
 >
 > - (a) acts, omissions and events and in particular residence, presence, employment (including employment as a mariner or airman), the occurrence of an industrial accident or the development of any prescribed disease, the payment, crediting or treating as paid of contributions (including graduated contributions and payments in lieu of graduated contributions), the refund of contributions paid in excess of the annual maximum amounts payable and the claiming or payment of benefit; and
 > - (b) the operation of any provisions as to exception from liability to pay contributions,
@@ -108,14 +108,14 @@ Article 2(1)
 >
 > (4) An assessment of the extent of disablement may be reviewed in one territory, on account of an unforeseen aggravation of the results of the relevant injury, notwithstanding that the assessment was made in the other territory.
 >
-> (5)[^key-7028bfc129b3f7848d9cb163029e8cee] There shall be excluded from this Agreement all or any of the provisions of the systems of social security established by the Acts relating to mobility allowance except that for the purposes of such of those provisions requiring the completion of periods of presence in the territory of the Act which relates to it–
+> (5)[^c-7028bfc129b3f7848d9cb163029e8cee] There shall be excluded from this Agreement all or any of the provisions of the systems of social security established by the Acts relating to mobility allowance except that for the purposes of such of those provisions requiring the completion of periods of presence in the territory of the Act which relates to it–
 >
 > - (i) in relation to a person present and ordinarily resident in the United Kingdom, periods of residence and presence completed in the Isle of Man by that person before he attains the age of 65 shall be treated as if they were periods of presence completed during the corresponding period in the United Kingdom;
 > - (ii) in relation to a person present and ordinarily resident in the Isle of Man, periods of residence and presence completed in the United Kingdom by that person before he attains the age of 65 shall be treated as if they were periods of presence completed during the corresponding period in the Isle of Man.
 >
 > **3.** The provisions of Article 2 of the present Agreement shall not confer a right to double benefit.
 >
-> **3A.**[^key-8dbc5fb4c7202cad2ec9eb3001c833d0] Either Party may:—
+> **3A.**[^c-8dbc5fb4c7202cad2ec9eb3001c833d0] Either Party may:—
 >
 > - (a) pay minimum contributions to the trustees or managers of a personal pension scheme treated under the Acts as an appropriate scheme and in respect of which an appropriate scheme certificate is in issue; and
 > - (b) make incentive payments to an occupational pension scheme which is a contracted-out scheme under the Acts and has become so with effect from any date after 31st December 1985 up to and including 5th April 1993, not having been contracted-out previously within that period.
@@ -177,16 +177,16 @@ This Order makes provision for modification of the Social Security Act 1975 so a
 
 ## Annotations
 
-[^key-5ef41bc9e9f4fc40355114672e597de4]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1977/2150) modified (11.4.1988) by [The Social Security (Reciprocal Agreements) Order 1988 (S.I. 1988/591)](https://www.legislation.gov.uk/uksi/1988/591), [arts. 2](https://www.legislation.gov.uk/uksi/1988/591/article/2), [3](https://www.legislation.gov.uk/uksi/1988/591/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1988/591/schedule)
+[^c-5ef41bc9e9f4fc40355114672e597de4]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1977/2150) modified (11.4.1988) by [The Social Security (Reciprocal Agreements) Order 1988 (S.I. 1988/591)](https://www.legislation.gov.uk/uksi/1988/591), [arts. 2](https://www.legislation.gov.uk/uksi/1988/591/article/2), [3](https://www.legislation.gov.uk/uksi/1988/591/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1988/591/schedule)
 
-[^key-3b7ce45446a6031ff8ea5a615d07fd9c]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1977/2150) modified (7.10.1996) by [The Social Security (Reciprocal Agreements) Order 1996 (S.I. 1996/1928)](https://www.legislation.gov.uk/uksi/1996/1928), [art. 2](https://www.legislation.gov.uk/uksi/1996/1928/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/1928/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/1928/schedule/2)
+[^c-3b7ce45446a6031ff8ea5a615d07fd9c]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1977/2150) modified (7.10.1996) by [The Social Security (Reciprocal Agreements) Order 1996 (S.I. 1996/1928)](https://www.legislation.gov.uk/uksi/1996/1928), [art. 2](https://www.legislation.gov.uk/uksi/1996/1928/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/1928/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/1928/schedule/2)
 
-[^key-345c2300fecd6ec275526fc467a275bd]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1977/2150) excluded (6.4.2016) by [The Social Security (Reciprocal Agreement) (Isle of Man) Order 2016 (S.I. 2016/157)](https://www.legislation.gov.uk/uksi/2016/157), [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/4)
+[^c-345c2300fecd6ec275526fc467a275bd]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1977/2150) excluded (6.4.2016) by [The Social Security (Reciprocal Agreement) (Isle of Man) Order 2016 (S.I. 2016/157)](https://www.legislation.gov.uk/uksi/2016/157), [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2016/157/schedule/paragraph/4)
 
-[^key-fd536035d6f611376cc523e49a136fe7]: Textual amendment: Words in Sch. 1 art. 2(1) inserted (10.4.1989) by [The Social Security (Isle of Man) Order 1989 (S.I. 1989/483)](https://www.legislation.gov.uk/uksi/1989/483), [art. 1(1)](https://www.legislation.gov.uk/uksi/1989/483/article/1/1), [Sch. art. 2(a)](https://www.legislation.gov.uk/uksi/1989/483/schedule/article/2/a)
+[^c-fd536035d6f611376cc523e49a136fe7]: Textual amendment: Words in Sch. 1 art. 2(1) inserted (10.4.1989) by [The Social Security (Isle of Man) Order 1989 (S.I. 1989/483)](https://www.legislation.gov.uk/uksi/1989/483), [art. 1(1)](https://www.legislation.gov.uk/uksi/1989/483/article/1/1), [Sch. art. 2(a)](https://www.legislation.gov.uk/uksi/1989/483/schedule/article/2/a)
 
-[^key-6652a0ad8d06b368a8434cd914f792b6]: Textual amendment: Word in Sch. 1 art. 2(1) substituted (10.4.1989) by [The Social Security (Isle of Man) Order 1989 (S.I. 1989/483)](https://www.legislation.gov.uk/uksi/1989/483), [art. 1(1)](https://www.legislation.gov.uk/uksi/1989/483/article/1/1), [Sch. art. 2(a)](https://www.legislation.gov.uk/uksi/1989/483/schedule/article/2/a)
+[^c-6652a0ad8d06b368a8434cd914f792b6]: Textual amendment: Word in Sch. 1 art. 2(1) substituted (10.4.1989) by [The Social Security (Isle of Man) Order 1989 (S.I. 1989/483)](https://www.legislation.gov.uk/uksi/1989/483), [art. 1(1)](https://www.legislation.gov.uk/uksi/1989/483/article/1/1), [Sch. art. 2(a)](https://www.legislation.gov.uk/uksi/1989/483/schedule/article/2/a)
 
-[^key-7028bfc129b3f7848d9cb163029e8cee]: Textual amendment: Sch. 1 art. 2(5) inserted (10.4.1989) by [The Social Security (Isle of Man) Order 1989 (S.I. 1989/483)](https://www.legislation.gov.uk/uksi/1989/483), [art. 1(1)](https://www.legislation.gov.uk/uksi/1989/483/article/1/1), [Sch. art. 2(b)](https://www.legislation.gov.uk/uksi/1989/483/schedule/article/2/b)
+[^c-7028bfc129b3f7848d9cb163029e8cee]: Textual amendment: Sch. 1 art. 2(5) inserted (10.4.1989) by [The Social Security (Isle of Man) Order 1989 (S.I. 1989/483)](https://www.legislation.gov.uk/uksi/1989/483), [art. 1(1)](https://www.legislation.gov.uk/uksi/1989/483/article/1/1), [Sch. art. 2(b)](https://www.legislation.gov.uk/uksi/1989/483/schedule/article/2/b)
 
-[^key-8dbc5fb4c7202cad2ec9eb3001c833d0]: Textual amendment: [Sch. art. 3A](https://www.legislation.gov.uk/uksi/1977/2150/schedule/article/3A) inserted (2.11.1989) by [The Social Security (Isle of Man) (No. 2) Order 1989 (S.I. 1989/2001)](https://www.legislation.gov.uk/uksi/1989/2001), [art. 1](https://www.legislation.gov.uk/uksi/1989/2001/article/1), [Sch.](https://www.legislation.gov.uk/uksi/1989/2001/schedule)
+[^c-8dbc5fb4c7202cad2ec9eb3001c833d0]: Textual amendment: [Sch. art. 3A](https://www.legislation.gov.uk/uksi/1977/2150/schedule/article/3A) inserted (2.11.1989) by [The Social Security (Isle of Man) (No. 2) Order 1989 (S.I. 1989/2001)](https://www.legislation.gov.uk/uksi/1989/2001), [art. 1](https://www.legislation.gov.uk/uksi/1989/2001/article/1), [Sch.](https://www.legislation.gov.uk/uksi/1989/2001/schedule)

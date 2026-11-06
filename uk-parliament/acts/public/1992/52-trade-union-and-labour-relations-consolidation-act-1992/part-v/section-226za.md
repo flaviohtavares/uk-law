@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226ZA. Responsible person’s determination of means of voting[^key-cd15659570b25659d79fa8b380f40672]
+## 226ZA. Responsible person’s determination of means of voting[^c-cd15659570b25659d79fa8b380f40672]
 
 *Extent: E+W+S*
 
@@ -62,4 +62,4 @@ the determination must include provision setting out which vote is to be counted
 
 ## Annotations
 
-[^key-cd15659570b25659d79fa8b380f40672]: Textual amendment: S. 226ZA and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2026/881/article/7/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-cd15659570b25659d79fa8b380f40672]: Textual amendment: S. 226ZA and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2026/881/article/7/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

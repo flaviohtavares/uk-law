@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Advisory bodies[^key-af396aa9dfafe845d5b69a84a7f58b0c]
+## 13. Advisory bodies[^c-af396aa9dfafe845d5b69a84a7f58b0c]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af396aa9dfafe845d5b69a84a7f58b0c]: Commencement: Art. 13 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-af396aa9dfafe845d5b69a84a7f58b0c]: Commencement: Art. 13 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

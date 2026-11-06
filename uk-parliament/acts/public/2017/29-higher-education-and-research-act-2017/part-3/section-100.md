@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Councils' strategic delivery plans[^key-1971e435542b987000633a4e7ea82e0e]
+## 100. Councils' strategic delivery plans[^c-1971e435542b987000633a4e7ea82e0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1971e435542b987000633a4e7ea82e0e]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2017/29/section/100) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)
+[^c-1971e435542b987000633a4e7ea82e0e]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2017/29/section/100) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Power to search persons in attendance centres for weapons[^key-18d6a1504f23bab58e24e4a1ef95f940]
+## 47. Power to search persons in attendance centres for weapons[^c-18d6a1504f23bab58e24e4a1ef95f940]
 
 *Extent: E+W*
 
@@ -66,17 +66,17 @@ he may seize and retain it.
   - (b) a hat, shoes, boots, gloves or a scarf;
 - “**possessions**”, in relation to a person, includes any goods over which he has or appears to have control;
 - “**relevant person**”, in relation to an attendance centre, means a person who is required to attend at that centre by virtue of—
-  - (a) a relevant order (within the meaning given by section 397(1) of the Sentencing Code[^key-49ed9a15decdc3e1b0aef99cdaa392e4]); or
-  - (b) a youth rehabilitation order under[^key-3e2838c7adc8107b354ccd09d4c37e7d] Chapter 1 of Part 9 of that Code[^key-4e53e1a645f1b6f7328bb49b53260c55];
+  - (a) a relevant order (within the meaning given by section 397(1) of the Sentencing Code[^c-49ed9a15decdc3e1b0aef99cdaa392e4]); or
+  - (b) a youth rehabilitation order under[^c-3e2838c7adc8107b354ccd09d4c37e7d] Chapter 1 of Part 9 of that Code[^c-4e53e1a645f1b6f7328bb49b53260c55];
 
 (12) The powers conferred by this section are in addition to any powers exercisable by the member of staff of an attendance centre in question apart from this section and are not to be construed as restricting such powers.
 
 ## Annotations
 
-[^key-18d6a1504f23bab58e24e4a1ef95f940]: Commencement: S. 47 in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(l)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/l)
+[^c-18d6a1504f23bab58e24e4a1ef95f940]: Commencement: S. 47 in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(l)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/l)
 
-[^key-49ed9a15decdc3e1b0aef99cdaa392e4]: Textual amendment: Words in [s. 47(11)](https://www.legislation.gov.uk/ukpga/2006/38/section/47/11) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 259(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/259/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-49ed9a15decdc3e1b0aef99cdaa392e4]: Textual amendment: Words in [s. 47(11)](https://www.legislation.gov.uk/ukpga/2006/38/section/47/11) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 259(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/259/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-3e2838c7adc8107b354ccd09d4c37e7d]: Textual amendment: Words in s. 47(11) substituted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 4 para. 98](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/98) (with [Sch. 27 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))
+[^c-3e2838c7adc8107b354ccd09d4c37e7d]: Textual amendment: Words in s. 47(11) substituted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 4 para. 98](https://www.legislation.gov.uk/ukpga/2008/4/schedule/4/paragraph/98) (with [Sch. 27 para. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(p)(xv)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/p/xv) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))
 
-[^key-4e53e1a645f1b6f7328bb49b53260c55]: Textual amendment: Words in [s. 47(11)](https://www.legislation.gov.uk/ukpga/2006/38/section/47/11) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 259(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/259/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4e53e1a645f1b6f7328bb49b53260c55]: Textual amendment: Words in [s. 47(11)](https://www.legislation.gov.uk/ukpga/2006/38/section/47/11) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 259(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/259/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

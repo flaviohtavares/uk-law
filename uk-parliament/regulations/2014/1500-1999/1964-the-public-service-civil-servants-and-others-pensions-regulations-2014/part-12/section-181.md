@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Protections for the scheme in relation to employers of Fair Deal eligible persons[^key-1b1568b6cef484eebb6844b3a663ec13]
+## 181. Protections for the scheme in relation to employers of Fair Deal eligible persons[^c-1b1568b6cef484eebb6844b3a663ec13]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b1568b6cef484eebb6844b3a663ec13]: Commencement: [Reg. 181](https://www.legislation.gov.uk/uksi/2014/1964/regulation/181) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-1b1568b6cef484eebb6844b3a663ec13]: Commencement: [Reg. 181](https://www.legislation.gov.uk/uksi/2014/1964/regulation/181) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Frequency of payment of a rent allowance[^key-25b076e989d1e11d9637e692ab45ce9d]
+## 70. Frequency of payment of a rent allowance[^c-25b076e989d1e11d9637e692ab45ce9d]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25b076e989d1e11d9637e692ab45ce9d]: Commencement: [Reg. 70](https://www.legislation.gov.uk/nisr/2006/406/regulation/70) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-25b076e989d1e11d9637e692ab45ce9d]: Commencement: [Reg. 70](https://www.legislation.gov.uk/nisr/2006/406/regulation/70) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

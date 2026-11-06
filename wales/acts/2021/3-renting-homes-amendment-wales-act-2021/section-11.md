@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Landlord's break clause restricted to certain fixed term standard contracts[^key-16048fcbc9d7aadac340c44bde2db6e2]
+## 11. Landlord's break clause restricted to certain fixed term standard contracts[^c-16048fcbc9d7aadac340c44bde2db6e2]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16048fcbc9d7aadac340c44bde2db6e2]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2021/3/section/11) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-16048fcbc9d7aadac340c44bde2db6e2]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2021/3/section/11) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

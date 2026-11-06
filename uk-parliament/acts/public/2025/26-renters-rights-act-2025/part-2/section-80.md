@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Verification, correction and removal of entries[^key-c84b742fa208547b7e64d76aa8ed7c68]
+## 80. Verification, correction and removal of entries[^c-c84b742fa208547b7e64d76aa8ed7c68]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c84b742fa208547b7e64d76aa8ed7c68]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-c84b742fa208547b7e64d76aa8ed7c68]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

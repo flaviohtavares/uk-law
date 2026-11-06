@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Calculation of amount of accrued standard earned pension for purpose of partial retirement[^key-9ac230c02343c359ea28fe9a0f98ff14]
+## 25. Calculation of amount of accrued standard earned pension for purpose of partial retirement[^c-9ac230c02343c359ea28fe9a0f98ff14]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ac230c02343c359ea28fe9a0f98ff14]: Commencement: Reg. 25 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-9ac230c02343c359ea28fe9a0f98ff14]: Commencement: Reg. 25 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

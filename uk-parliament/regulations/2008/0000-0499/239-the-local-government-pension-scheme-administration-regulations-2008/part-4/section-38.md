@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Special circumstances where revised actuarial valuations and certificates must be obtained[^key-7adc9638bf3d927afc9b73932e92dd3c]
+## 38. Special circumstances where revised actuarial valuations and certificates must be obtained[^c-7adc9638bf3d927afc9b73932e92dd3c]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ with a view to providing that the value of the assets of the fund in respect of 
 
 ## Annotations
 
-[^key-7adc9638bf3d927afc9b73932e92dd3c]: Commencement: Reg. 38 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-7adc9638bf3d927afc9b73932e92dd3c]: Commencement: Reg. 38 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

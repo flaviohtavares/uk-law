@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Suspension and removal of other senior metropolitan police officers[^key-09944a6b4013fc0d605632c0b0c129f6]
+## 49. Suspension and removal of other senior metropolitan police officers[^c-09944a6b4013fc0d605632c0b0c129f6]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09944a6b4013fc0d605632c0b0c129f6]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2011/13/section/49) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-09944a6b4013fc0d605632c0b0c129f6]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2011/13/section/49) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

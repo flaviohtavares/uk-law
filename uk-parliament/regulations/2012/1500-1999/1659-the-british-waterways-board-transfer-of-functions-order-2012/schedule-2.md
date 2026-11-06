@@ -22,11 +22,11 @@ summary: ''
 
 Article 2(2)
 
-### 1. Transport Act 1962[^key-815fd862797a6056f900e87b149fa9c9]
+### 1. Transport Act 1962[^c-815fd862797a6056f900e87b149fa9c9]
 
 The Transport Act 1962[^f00035] is amended as follows.
 
-**2.**[^key-9fc705af1042ab377494597c038e0fe7][^key-815fd862797a6056f900e87b149fa9c9] (1) Section 1[^f00036] (the four Boards) is amended as follows.
+**2.**[^c-9fc705af1042ab377494597c038e0fe7][^c-815fd862797a6056f900e87b149fa9c9] (1) Section 1[^f00036] (the four Boards) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -49,12 +49,12 @@ The Transport Act 1962[^f00035] is amended as follows.
 
 (6) Until the coming into force of the repeal (by the Transport Act 2000[^f00037]) of the words “the British Railways Board (in this Act referred to as the “Railways Board”)” in subsection (1) of section 1 of the Transport Act 1962 the amendment of subsection (2) of that section made by sub-paragraph (2)(a) is to have effect as if the reference to “the Docks Board” were a reference to “the Railways Board and of the Docks Board”.
 
-**3.**[^key-db6489afbe0a66c099ac4a1f769b74ca][^key-815fd862797a6056f900e87b149fa9c9] In section 10(3)[^f00038] (duty and powers of the British Waterways Board)—
+**3.**[^c-db6489afbe0a66c099ac4a1f769b74ca][^c-815fd862797a6056f900e87b149fa9c9] In section 10(3)[^f00038] (duty and powers of the British Waterways Board)—
 
 - (a) omit paragraph (dd);
 - (b) in paragraph (g)(i), for “Great Britain” substitute “Scotland”.
 
-**4.**[^key-16eeba6e85ab8b9582a462f8eef48b07][^key-815fd862797a6056f900e87b149fa9c9] In section 11[^f00039] (development of land), for subsection (5) substitute—
+**4.**[^c-16eeba6e85ab8b9582a462f8eef48b07][^c-815fd862797a6056f900e87b149fa9c9] In section 11[^f00039] (development of land), for subsection (5) substitute—
 
 > (5) In the application of this section to the British Waterways Board —
 >
@@ -63,7 +63,7 @@ The Transport Act 1962[^f00035] is amended as follows.
 
 .
 
-**5.**[^key-8d6f1ea708f4fc867ccd2797035bc29d][^key-815fd862797a6056f900e87b149fa9c9] For section 12(3A)[^f00040] (pipe-lines), substitute—
+**5.**[^c-8d6f1ea708f4fc867ccd2797035bc29d][^c-815fd862797a6056f900e87b149fa9c9] For section 12(3A)[^f00040] (pipe-lines), substitute—
 
 > (3A) In the application of this section to the British Waterways Board—
 >
@@ -73,7 +73,7 @@ The Transport Act 1962[^f00035] is amended as follows.
 
 .
 
-**6.**[^key-1324af48c2309862f0eb4ac8dc08eb2b][^key-815fd862797a6056f900e87b149fa9c9] (1) Section 14[^f00041] (supplemental provision relating to the Boards’ powers) is amended as follows.
+**6.**[^c-1324af48c2309862f0eb4ac8dc08eb2b][^c-815fd862797a6056f900e87b149fa9c9] (1) Section 14[^f00041] (supplemental provision relating to the Boards’ powers) is amended as follows.
 
 (2) After subsection (1), insert—
 
@@ -93,13 +93,13 @@ The Transport Act 1962[^f00035] is amended as follows.
 
 (5) Omit subsection (4D).
 
-**7.**[^key-1e89995fff48d03246f64290a6de52f8][^key-815fd862797a6056f900e87b149fa9c9] After subsection (2) of section 15[^f00042] (compulsory purchase of land), insert—
+**7.**[^c-1e89995fff48d03246f64290a6de52f8][^c-815fd862797a6056f900e87b149fa9c9] After subsection (2) of section 15[^f00042] (compulsory purchase of land), insert—
 
 > (2A) The Minister may authorise Canal & River Trust to purchase compulsorily any land in England or Wales which it requires for the purposes of any of its functions under an enactment and the Acquisition of Land Act 1981[^f00043] shall apply as if Canal & River Trust were a local authority within the meaning of that Act.
 
 .
 
-**8.**[^key-8e23a2ac2fd06488f13d96af59b77711][^key-815fd862797a6056f900e87b149fa9c9] (1) Section 15A[^f00044] (compulsory purchase of land: British Waterways Board in Scotland) is amended as follows.
+**8.**[^c-8e23a2ac2fd06488f13d96af59b77711][^c-815fd862797a6056f900e87b149fa9c9] (1) Section 15A[^f00044] (compulsory purchase of land: British Waterways Board in Scotland) is amended as follows.
 
 (2) In the heading, omit “in Scotland”.
 
@@ -107,13 +107,13 @@ The Transport Act 1962[^f00035] is amended as follows.
 
 (4) In subsection (4), for “section 12(3A)(b)” substitute “section 12(3)”.
 
-**9.**[^key-a39028967bccb74797e94cb86442e259][^key-815fd862797a6056f900e87b149fa9c9] After subsection (1) of section 17[^f00045] (power to promote and oppose Bills), insert—
+**9.**[^c-a39028967bccb74797e94cb86442e259][^c-815fd862797a6056f900e87b149fa9c9] After subsection (1) of section 17[^f00045] (power to promote and oppose Bills), insert—
 
 > (1ZA) In the application of subsection (1) to the British Waterways Board, the reference to the Minister is to be read as a reference to the Scottish Ministers.
 
 .
 
-**10.**[^key-93d929985e31f62ca06bcba9fc4eb04d][^key-815fd862797a6056f900e87b149fa9c9] After subsection (5) of section 18[^f00046] (financial duty of Boards), insert—
+**10.**[^c-93d929985e31f62ca06bcba9fc4eb04d][^c-815fd862797a6056f900e87b149fa9c9] After subsection (5) of section 18[^f00046] (financial duty of Boards), insert—
 
 > (5A) In the application of subsections (4) and (5) to the British Waterways Board—
 >
@@ -122,7 +122,7 @@ The Transport Act 1962[^f00035] is amended as follows.
 
 .
 
-**11.**[^key-afcc5ebf7ff85293c3e4fa79df6a03a8][^key-815fd862797a6056f900e87b149fa9c9] (1) Section 19[^f00047] (borrowing powers of Boards) is amended as follows.
+**11.**[^c-afcc5ebf7ff85293c3e4fa79df6a03a8][^c-815fd862797a6056f900e87b149fa9c9] (1) Section 19[^f00047] (borrowing powers of Boards) is amended as follows.
 
 (2) For subsection (3), substitute—
 
@@ -145,13 +145,13 @@ The Transport Act 1962[^f00035] is amended as follows.
 - (b) in paragraph (b) after “the Minister” insert “and the Secretary of State”;
 - (c) omit paragraph (c).
 
-**12.**[^key-1cbe11d590309069e57ecaf28b8b5cf8][^key-815fd862797a6056f900e87b149fa9c9] In section 20(7)[^f00049] (Exchequer loans), omit “in connection with the exercise of their functions in Scotland”.
+**12.**[^c-1cbe11d590309069e57ecaf28b8b5cf8][^c-815fd862797a6056f900e87b149fa9c9] In section 20(7)[^f00049] (Exchequer loans), omit “in connection with the exercise of their functions in Scotland”.
 
-**13.**[^key-b9d8b8d89428e7fa2758a5d8d9169123][^key-815fd862797a6056f900e87b149fa9c9] In section 21(1)[^f00050] (Treasury guarantees), after “a Board” insert “other than the British Waterways Board”.
+**13.**[^c-b9d8b8d89428e7fa2758a5d8d9169123][^c-815fd862797a6056f900e87b149fa9c9] In section 21(1)[^f00050] (Treasury guarantees), after “a Board” insert “other than the British Waterways Board”.
 
-**14.**[^key-8ec7ea6b50f90b38b35c932f0f8827f5][^key-815fd862797a6056f900e87b149fa9c9] In section 21A(1)[^f00051] (British Waterways Board: guarantees by the Scottish Ministers), omit “, in connection with the exercise of their functions in Scotland,”.
+**14.**[^c-8ec7ea6b50f90b38b35c932f0f8827f5][^c-815fd862797a6056f900e87b149fa9c9] In section 21A(1)[^f00051] (British Waterways Board: guarantees by the Scottish Ministers), omit “, in connection with the exercise of their functions in Scotland,”.
 
-**15.**[^key-edb618c1b7cd4eac99149873633ed892][^key-815fd862797a6056f900e87b149fa9c9] (1) Section 24[^f00052] (accounts) is amended as follows.
+**15.**[^c-edb618c1b7cd4eac99149873633ed892][^c-815fd862797a6056f900e87b149fa9c9] (1) Section 24[^f00052] (accounts) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -180,11 +180,11 @@ The Transport Act 1962[^f00035] is amended as follows.
 
 .
 
-**16.**[^key-8c1942fe78532140494a88637761c4e2][^key-815fd862797a6056f900e87b149fa9c9] For section 25(2A)[^f00053] (the Board’s subsidiaries), substitute—
+**16.**[^c-8c1942fe78532140494a88637761c4e2][^c-815fd862797a6056f900e87b149fa9c9] For section 25(2A)[^f00053] (the Board’s subsidiaries), substitute—
 
 > (2A) In the application of this section to the British Waterways Board, references to the Minister are to be read as references to the Scottish Ministers.
 
-**17.**[^key-0212c5385cd3e965bdf6093d226160eb][^key-815fd862797a6056f900e87b149fa9c9] (1) Section 27[^f00054] (power of Ministers in relation to Boards) is amended as follows.
+**17.**[^c-0212c5385cd3e965bdf6093d226160eb][^c-815fd862797a6056f900e87b149fa9c9] (1) Section 27[^f00054] (power of Ministers in relation to Boards) is amended as follows.
 
 (2) After subsection (5), insert—
 
@@ -204,9 +204,9 @@ The Transport Act 1962[^f00035] is amended as follows.
 
 (8) In subsection (8C), omit “in Scotland”.
 
-**18.**[^key-269f739f6e7c375e619cba7b562017b0][^key-815fd862797a6056f900e87b149fa9c9] In section 28(2), (3) and (4)[^f00055] (powers exercisable subject to Minister’s consent), after “Board”, in each place occurring, insert “or Canal & River Trust”.
+**18.**[^c-269f739f6e7c375e619cba7b562017b0][^c-815fd862797a6056f900e87b149fa9c9] In section 28(2), (3) and (4)[^f00055] (powers exercisable subject to Minister’s consent), after “Board”, in each place occurring, insert “or Canal & River Trust”.
 
-**19.**[^key-55e17870d5e99cee97b97b45eaf9074f][^key-815fd862797a6056f900e87b149fa9c9] (1) Section 43[^f00056] (charges and facilities: general provisions) is amended as follows.
+**19.**[^c-55e17870d5e99cee97b97b45eaf9074f][^c-815fd862797a6056f900e87b149fa9c9] (1) Section 43[^f00056] (charges and facilities: general provisions) is amended as follows.
 
 (2) In subsections (1) and (2), after “British Waterways Board”, in each place occurring, insert “or Canal & River Trust”.
 
@@ -221,15 +221,15 @@ The Transport Act 1962[^f00035] is amended as follows.
 
 (6) In subsections (6) and (8), after “British Waterways Board”, in each place occurring, insert “and Canal & River Trust”.
 
-**20.**[^key-df420a3cb9db4cf05acb567f40930343][^key-815fd862797a6056f900e87b149fa9c9] (1) Section 50[^f00057] (port charges and conditions at harbours) is amended as follows.
+**20.**[^c-df420a3cb9db4cf05acb567f40930343][^c-815fd862797a6056f900e87b149fa9c9] (1) Section 50[^f00057] (port charges and conditions at harbours) is amended as follows.
 
 (2) In subsection (1), after “the Boards” insert “and Canal & River Trust”.
 
 (3) In subsection (2), after “the Boards”, in each place occurring, insert “or Canal & River Trust”.
 
-**21.**[^key-cbc3232dd8010fe8a9428d74b9235a95][^key-815fd862797a6056f900e87b149fa9c9] In section 52(4)[^f00058] (independent railway companies and inland waterway undertakings), in the definition of “independent inland waterway undertaking”, after “of the Boards”, insert “or Canal & River Trust”.
+**21.**[^c-cbc3232dd8010fe8a9428d74b9235a95][^c-815fd862797a6056f900e87b149fa9c9] In section 52(4)[^f00058] (independent railway companies and inland waterway undertakings), in the definition of “independent inland waterway undertaking”, after “of the Boards”, insert “or Canal & River Trust”.
 
-**22.**[^key-5f71f9f8caa357d4abeac45661f2bcf2][^key-815fd862797a6056f900e87b149fa9c9] (1) Section 62 (local enactments relating to the supply of water for canals) is amended as follows.
+**22.**[^c-5f71f9f8caa357d4abeac45661f2bcf2][^c-815fd862797a6056f900e87b149fa9c9] (1) Section 62 (local enactments relating to the supply of water for canals) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -241,23 +241,23 @@ The Transport Act 1962[^f00035] is amended as follows.
 - (a) after “the British Waterways Board”, insert “or, as the case may be, Canal & River Trust”;
 - (b) after “the Board’s obligations”, insert “or, as the case may be, Canal & River Trust’s obligations”.
 
-**23.**[^key-627c73ee4c5a887b6831ed8cca9cbb59][^key-815fd862797a6056f900e87b149fa9c9] Section 63[^f00059] (abstraction of water by British Waterways Board), to the extent that it continues in force, is repealed.
+**23.**[^c-627c73ee4c5a887b6831ed8cca9cbb59][^c-815fd862797a6056f900e87b149fa9c9] Section 63[^f00059] (abstraction of water by British Waterways Board), to the extent that it continues in force, is repealed.
 
-**24.**[^key-54e79e85ce5340d4c296e4c95658d8c2][^key-815fd862797a6056f900e87b149fa9c9] In section 73 (the powers of the Boards and the Holding Company as regards pensions and pension schemes), after subsection (2) insert—
+**24.**[^c-54e79e85ce5340d4c296e4c95658d8c2][^c-815fd862797a6056f900e87b149fa9c9] In section 73 (the powers of the Boards and the Holding Company as regards pensions and pension schemes), after subsection (2) insert—
 
 > (3) In the application of this section to the British Waterways Board, the reference to the Minister is to be read as a reference to the Scottish Ministers.
 
 .
 
-**25.**[^key-e01690a9ca592c248b5d17af406286d9][^key-815fd862797a6056f900e87b149fa9c9] In section 74[^f00060] (Minister’s power to make orders about pensions), before subsection (1) insert—
+**25.**[^c-e01690a9ca592c248b5d17af406286d9][^c-815fd862797a6056f900e87b149fa9c9] In section 74[^f00060] (Minister’s power to make orders about pensions), before subsection (1) insert—
 
 > (A1) In this section, references to the Boards do not include the British Waterways Board.
 
 .
 
-**26.**[^key-0eab974866e9f5192deba4a948aa0b0a][^key-815fd862797a6056f900e87b149fa9c9] In section 86(4) and (5)[^f00061] (application of Town and Country Planning Acts), omit “in respect of any development in Scotland” in each place occurring.
+**26.**[^c-0eab974866e9f5192deba4a948aa0b0a][^c-815fd862797a6056f900e87b149fa9c9] In section 86(4) and (5)[^f00061] (application of Town and Country Planning Acts), omit “in respect of any development in Scotland” in each place occurring.
 
-**27.**[^key-0783b75bb1f6c8799a4fb01ffa2d728c][^key-815fd862797a6056f900e87b149fa9c9] (1) Schedule 1[^f00062] (the Boards and the holding company) is amended as follows.
+**27.**[^c-0783b75bb1f6c8799a4fb01ffa2d728c][^c-815fd862797a6056f900e87b149fa9c9] (1) Schedule 1[^f00062] (the Boards and the holding company) is amended as follows.
 
 (2) In paragraph 6—
 
@@ -272,7 +272,7 @@ The Transport Act 1962[^f00035] is amended as follows.
 
 (4) In paragraph 8(1A), omit “appointed by the Scottish Ministers”.
 
-**28.**[^key-8167caa549e938cb2c01dd9a39f95347][^key-815fd862797a6056f900e87b149fa9c9] (1) Schedule 6 (distribution of Commission’s undertaking) is amended as follows.
+**28.**[^c-8167caa549e938cb2c01dd9a39f95347][^c-815fd862797a6056f900e87b149fa9c9] (1) Schedule 6 (distribution of Commission’s undertaking) is amended as follows.
 
 (2) In paragraph 1(1)—
 
@@ -292,19 +292,19 @@ The Transport Act 1962[^f00035] is amended as follows.
 
 (4) In paragraph 4(2), after “between the Boards”, insert “, or between a Board and Canal & River Trust,”.
 
-**29.**[^key-c11ebdb14a694fcc6b0f9f6ce91b223b][^key-815fd862797a6056f900e87b149fa9c9] In Schedule 9[^f00063] (port charges), in paragraph 5(1), after “the Boards”, insert “or Canal & River Trust”.
+**29.**[^c-c11ebdb14a694fcc6b0f9f6ce91b223b][^c-815fd862797a6056f900e87b149fa9c9] In Schedule 9[^f00063] (port charges), in paragraph 5(1), after “the Boards”, insert “or Canal & River Trust”.
 
-### 30. Transport Act 1968[^key-5a3c40b93b08141a580d096b9df92cdb]
+### 30. Transport Act 1968[^c-5a3c40b93b08141a580d096b9df92cdb]
 
 The Transport Act 1968[^f00064] is amended as follows.
 
-**31.**[^key-8fa564f9e80102bd4bba7de7385e0346][^key-5a3c40b93b08141a580d096b9df92cdb] (1) Section 43[^f00065] (additional financial provisions as to Waterways Board) is amended as follows.
+**31.**[^c-8fa564f9e80102bd4bba7de7385e0346][^c-5a3c40b93b08141a580d096b9df92cdb] (1) Section 43[^f00065] (additional financial provisions as to Waterways Board) is amended as follows.
 
 (2) Omit subsections (2) and (5).
 
 (3) In subsection (6), for “Where an excess under subsection (5) of this section arises in relation to the activities of the Board in Scotland,” substitute “If in any accounting year of the Board there is an excess of the revenue of the Board over the total sums properly chargeable by them to revenue,”.
 
-**32.**[^key-efa8cbd73a66414e193fa048ef5c2ccd][^key-5a3c40b93b08141a580d096b9df92cdb] After section 43, insert—
+**32.**[^c-efa8cbd73a66414e193fa048ef5c2ccd][^c-5a3c40b93b08141a580d096b9df92cdb] After section 43, insert—
 
 > **43A. Grants to Canal & River Trust**
 >
@@ -312,16 +312,16 @@ The Transport Act 1968[^f00064] is amended as follows.
 
 .
 
-**33.**[^key-33de8b79e91f570883a99557c6fcf87f][^key-5a3c40b93b08141a580d096b9df92cdb] In section 44(1)(b)[^f00066] (account by Minister of receipt and disposal of certain sums), omit “or the Waterways Board” and “or 43(5)”.
+**33.**[^c-33de8b79e91f570883a99557c6fcf87f][^c-5a3c40b93b08141a580d096b9df92cdb] In section 44(1)(b)[^f00066] (account by Minister of receipt and disposal of certain sums), omit “or the Waterways Board” and “or 43(5)”.
 
-**34.**[^key-7e59d27361c95065622192c15aeefe4a][^key-5a3c40b93b08141a580d096b9df92cdb] In section 46(2)(a)[^f00067] (duty of Boards and new authorities to promote research and development), omit “in respect of their functions in Scotland,”.
+**34.**[^c-7e59d27361c95065622192c15aeefe4a][^c-5a3c40b93b08141a580d096b9df92cdb] In section 46(2)(a)[^f00067] (duty of Boards and new authorities to promote research and development), omit “in respect of their functions in Scotland,”.
 
-**35.**[^key-b3dc3e02c33c1248896edf33d46a337c][^key-5a3c40b93b08141a580d096b9df92cdb] In section 48(1A)[^f00068] (manufacture, repair and supply)—
+**35.**[^c-b3dc3e02c33c1248896edf33d46a337c][^c-5a3c40b93b08141a580d096b9df92cdb] In section 48(1A)[^f00068] (manufacture, repair and supply)—
 
 - (a) omit “in connection with any activity in Scotland”;
 - (b) after “in subsection (6)”, insert “the reference to section 27(8) shall be construed as a reference to section 27(8C) and”.
 
-**36.**[^key-a23b21e24659e1d5904ca08eb8058bd2][^key-5a3c40b93b08141a580d096b9df92cdb] In section 49[^f00069] (powers with respect to land), for subsection (4A) substitute—
+**36.**[^c-a23b21e24659e1d5904ca08eb8058bd2][^c-5a3c40b93b08141a580d096b9df92cdb] In section 49[^f00069] (powers with respect to land), for subsection (4A) substitute—
 
 > (4A) In the application of this section to the Waterways Board —
 >
@@ -330,7 +330,7 @@ The Transport Act 1968[^f00064] is amended as follows.
 
 .
 
-**37.**[^key-7f2000d7d413c43fa2239e95d657d4e9][^key-5a3c40b93b08141a580d096b9df92cdb] (1) Section 50[^f00070] (miscellaneous provisions as to powers) is amended as follows.
+**37.**[^c-7f2000d7d413c43fa2239e95d657d4e9][^c-5a3c40b93b08141a580d096b9df92cdb] (1) Section 50[^f00070] (miscellaneous provisions as to powers) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -348,7 +348,7 @@ The Transport Act 1968[^f00064] is amended as follows.
 - (a) sub-paragraph (2)(a) is to have effect as if it omitted “in connection with the exercise of their functions in Scotland,”;
 - (b) sub-paragraph (2)(b) is to have effect as if it inserted “(in the case of the Waterways Board, in Scotland)”.
 
-**38.**[^key-21752974be9839a6741264c03eca0167][^key-5a3c40b93b08141a580d096b9df92cdb] (1) Section 104[^f00071] (classification of the Board’s waterways) is amended as follows.
+**38.**[^c-21752974be9839a6741264c03eca0167][^c-5a3c40b93b08141a580d096b9df92cdb] (1) Section 104[^f00071] (classification of the Board’s waterways) is amended as follows.
 
 (2) In the heading, omit “the Board’s”.
 
@@ -367,7 +367,7 @@ The Transport Act 1968[^f00064] is amended as follows.
 
 .
 
-**39.**[^key-57773537b54b7796dae39ac3ccbe02c1][^key-5a3c40b93b08141a580d096b9df92cdb] (1) Section 105[^f00072] (maintenance of the Board’s waterways) is amended as follows.
+**39.**[^c-57773537b54b7796dae39ac3ccbe02c1][^c-5a3c40b93b08141a580d096b9df92cdb] (1) Section 105[^f00072] (maintenance of the Board’s waterways) is amended as follows.
 
 (2) In the heading, omit “the Board’s”.
 
@@ -404,7 +404,7 @@ The Transport Act 1968[^f00064] is amended as follows.
 
 (10) In subsections (7) and (8), after “Board”, in each place occurring, insert “or, as the case may be, Canal & River Trust”.
 
-**40.**[^key-7f1715360c96099ce877df39648d235c][^key-5a3c40b93b08141a580d096b9df92cdb] For section 106[^f00073] (enforcement of maintenance duty), substitute—
+**40.**[^c-7f1715360c96099ce877df39648d235c][^c-5a3c40b93b08141a580d096b9df92cdb] For section 106[^f00073] (enforcement of maintenance duty), substitute—
 
 > **106. Enforcement of maintenance duty – the Waterways Board**
 >
@@ -462,9 +462,9 @@ The Transport Act 1968[^f00064] is amended as follows.
 
 .
 
-**41.**[^key-c512f090818a83a939ba310b82d84ad5][^key-5a3c40b93b08141a580d096b9df92cdb] In section 108(1)[^f00074] (prevention of nuisance as respects certain waterways), for “the Waterways Board” substitute “Canal & River Trust”.
+**41.**[^c-c512f090818a83a939ba310b82d84ad5][^c-5a3c40b93b08141a580d096b9df92cdb] In section 108(1)[^f00074] (prevention of nuisance as respects certain waterways), for “the Waterways Board” substitute “Canal & River Trust”.
 
-**42.**[^key-a61e667bc9709dfb614cdf798378f911][^key-5a3c40b93b08141a580d096b9df92cdb] (1) Section 109[^f00075] (power of certain bodies to maintain or take over waterways and connected works) is amended as follows.
+**42.**[^c-a61e667bc9709dfb614cdf798378f911][^c-5a3c40b93b08141a580d096b9df92cdb] (1) Section 109[^f00075] (power of certain bodies to maintain or take over waterways and connected works) is amended as follows.
 
 (2) In the heading, after “connected works” insert “in Scotland”.
 
@@ -492,9 +492,9 @@ The Transport Act 1968[^f00064] is amended as follows.
 
 .
 
-**43.**[^key-51a2b48be1a9d6e2094951673742f732][^key-5a3c40b93b08141a580d096b9df92cdb] In section 111 (access agreements and orders as respects canals other than commercial waterways and cruising waterways), for “the Waterways Board” substitute “Canal & River Trust”.
+**43.**[^c-51a2b48be1a9d6e2094951673742f732][^c-5a3c40b93b08141a580d096b9df92cdb] In section 111 (access agreements and orders as respects canals other than commercial waterways and cruising waterways), for “the Waterways Board” substitute “Canal & River Trust”.
 
-**44.**[^key-9efa6dbd1025329f1e1aeaad97ac5c12][^key-5a3c40b93b08141a580d096b9df92cdb] (1) Section 112[^f00076] (power to extinguish statutory rights and obligations in respect of canals not comprised in undertaking of Board) is amended as follows.
+**44.**[^c-9efa6dbd1025329f1e1aeaad97ac5c12][^c-5a3c40b93b08141a580d096b9df92cdb] (1) Section 112[^f00076] (power to extinguish statutory rights and obligations in respect of canals not comprised in undertaking of Board) is amended as follows.
 
 (2) In the heading, after “Board” insert “or Canal & River Trust”.
 
@@ -515,9 +515,9 @@ The Transport Act 1968[^f00064] is amended as follows.
 
 (6) Omit subsection (6A).
 
-**45.**[^key-91925f5f8240afb87bda45569a3ab633][^key-5a3c40b93b08141a580d096b9df92cdb] In subsection (5) of section 113[^f00077] (byelaws in respect of waterways owned or managed by certain bodies), in the definition of “qualified body” omit the words “(except paragraph (c) thereof)”.
+**45.**[^c-91925f5f8240afb87bda45569a3ab633][^c-5a3c40b93b08141a580d096b9df92cdb] In subsection (5) of section 113[^f00077] (byelaws in respect of waterways owned or managed by certain bodies), in the definition of “qualified body” omit the words “(except paragraph (c) thereof)”.
 
-**46.**[^key-daac0c7a8244ad7fe9c2ed54ce27433d][^key-5a3c40b93b08141a580d096b9df92cdb] (1) Section 116[^f00078] (transfer of responsibility for maintenance etc) is amended as follows.
+**46.**[^c-daac0c7a8244ad7fe9c2ed54ce27433d][^c-5a3c40b93b08141a580d096b9df92cdb] (1) Section 116[^f00078] (transfer of responsibility for maintenance etc) is amended as follows.
 
 (2) In the heading, for “Boards’” substitute “certain”.
 
@@ -544,7 +544,7 @@ The Transport Act 1968[^f00064] is amended as follows.
 
 .
 
-**47.**[^key-2e190a1564faac2693e2b1eb09c614fc][^key-5a3c40b93b08141a580d096b9df92cdb] (1) Section 117[^f00079] (duty of Boards as respect bridges carrying highways) is amended as follows.
+**47.**[^c-2e190a1564faac2693e2b1eb09c614fc][^c-5a3c40b93b08141a580d096b9df92cdb] (1) Section 117[^f00079] (duty of Boards as respect bridges carrying highways) is amended as follows.
 
 (2) In the heading, omit “of Boards”.
 
@@ -567,7 +567,7 @@ The Transport Act 1968[^f00064] is amended as follows.
 
 .
 
-**48.**[^key-5a966cf1ee382a831c105e15d16c7e3e][^key-5a3c40b93b08141a580d096b9df92cdb] (1) Section 118[^f00080] (duty of highway authorities, etc, as respects bridges over Boards’ railways or inland waterways) is amended as follows.
+**48.**[^c-5a966cf1ee382a831c105e15d16c7e3e][^c-5a3c40b93b08141a580d096b9df92cdb] (1) Section 118[^f00080] (duty of highway authorities, etc, as respects bridges over Boards’ railways or inland waterways) is amended as follows.
 
 (2) In the heading, for “Boards’” substitute “certain”.
 
@@ -582,7 +582,7 @@ The Transport Act 1968[^f00064] is amended as follows.
 
 .
 
-**49.**[^key-f1c52f81b2a4841355870adc8910fda3][^key-5a3c40b93b08141a580d096b9df92cdb] (1) Section 119[^f00081] (ending of liability of Boards to make payments on being relieved of responsibility for bridges carrying trunk or special roads) is amended as follows.
+**49.**[^c-f1c52f81b2a4841355870adc8910fda3][^c-5a3c40b93b08141a580d096b9df92cdb] (1) Section 119[^f00081] (ending of liability of Boards to make payments on being relieved of responsibility for bridges carrying trunk or special roads) is amended as follows.
 
 (2) In the heading, omit “of Boards”.
 
@@ -593,7 +593,7 @@ The Transport Act 1968[^f00064] is amended as follows.
 
 (4) In subsection (2), after “of this section” insert “or Canal & River Trust”.
 
-**50.**[^key-06a069aac75faf35440db72cb235774d][^key-5a3c40b93b08141a580d096b9df92cdb] (1) Section 121[^f00082] (application of foregoing sections to undertakers other than Railways Board, London Board and Waterways Board) is amended as follows.
+**50.**[^c-06a069aac75faf35440db72cb235774d][^c-5a3c40b93b08141a580d096b9df92cdb] (1) Section 121[^f00082] (application of foregoing sections to undertakers other than Railways Board, London Board and Waterways Board) is amended as follows.
 
 (2) In the heading, for the words from “undertakers” to the end substitute “other undertakers”.
 
@@ -604,7 +604,7 @@ The Transport Act 1968[^f00064] is amended as follows.
 
 (4) In subsection (2), for “Boards”, in each place occurring, substitute “bodies”.
 
-**51.**[^key-05b6205855f03ddd4670d7dfa35f9e17][^key-5a3c40b93b08141a580d096b9df92cdb] (1) Section 137[^f00083] (machinery for negotiation and consultation with staff) is amended as follows.
+**51.**[^c-05b6205855f03ddd4670d7dfa35f9e17][^c-5a3c40b93b08141a580d096b9df92cdb] (1) Section 137[^f00083] (machinery for negotiation and consultation with staff) is amended as follows.
 
 (2) In subsection (3)—
 
@@ -627,9 +627,9 @@ The Transport Act 1968[^f00064] is amended as follows.
 
 (4) In subsection (7), omit “the British Waterways Board or”.
 
-**52.**[^key-573c1e3d7c6828050f0163a9ffc29264][^key-5a3c40b93b08141a580d096b9df92cdb] In section 144(3)[^f00084] (transfer and disposal of historical records and relics), after “other than the Railways Board,” insert “Canal & River Trust,”.
+**52.**[^c-573c1e3d7c6828050f0163a9ffc29264][^c-5a3c40b93b08141a580d096b9df92cdb] In section 144(3)[^f00084] (transfer and disposal of historical records and relics), after “other than the Railways Board,” insert “Canal & River Trust,”.
 
-**53.**[^key-c3f6b41053039fcc589a831b42a998cc][^key-5a3c40b93b08141a580d096b9df92cdb] (1) Schedule 13[^f00085] (orders relating to inland waterways) is amended as follows.
+**53.**[^c-c3f6b41053039fcc589a831b42a998cc][^c-5a3c40b93b08141a580d096b9df92cdb] (1) Schedule 13[^f00085] (orders relating to inland waterways) is amended as follows.
 
 (2) In paragraph 1, for sub-paragraph (2) substitute—
 
@@ -662,210 +662,210 @@ The Transport Act 1968[^f00064] is amended as follows.
 
 ## Annotations
 
-[^key-815fd862797a6056f900e87b149fa9c9]: Commencement: Sch. 2 para. 1 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-815fd862797a6056f900e87b149fa9c9]: Commencement: Sch. 2 para. 1 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00035]: Footnote: [1962 c. 46](https://www.legislation.gov.uk/ukpga/1962/46).
 
-[^key-9fc705af1042ab377494597c038e0fe7]: Commencement: Sch. 2 para. 2 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-9fc705af1042ab377494597c038e0fe7]: Commencement: Sch. 2 para. 2 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00036]: Footnote: Section 1 was amended by the Transport (London) Act [1969 (c. 35)](https://www.legislation.gov.uk/ukpga/1969/35), Schedules 6 and 12; the Transport Act [1981 (c. 56)](https://www.legislation.gov.uk/ukpga/1981/56), Schedule 12, Part 1; the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), Schedule 31, Part 4, and [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251).
 
 [^f00037]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-db6489afbe0a66c099ac4a1f769b74ca]: Commencement: Sch. 2 para. 3 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-db6489afbe0a66c099ac4a1f769b74ca]: Commencement: Sch. 2 para. 3 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00038]: Footnote: Section 10 was amended by the Transport Act 1968, Schedule 18, Part 1 and [S.I. 2003/1545](https://www.legislation.gov.uk/uksi/2003/1545).
 
-[^key-16eeba6e85ab8b9582a462f8eef48b07]: Commencement: Sch. 2 para. 4 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-16eeba6e85ab8b9582a462f8eef48b07]: Commencement: Sch. 2 para. 4 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00039]: Footnote: Section 11 was amended by the Transport Act 1968, Schedule 18, Part 1 and [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251).
 
-[^key-8d6f1ea708f4fc867ccd2797035bc29d]: Commencement: Sch. 2 para. 5 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-8d6f1ea708f4fc867ccd2797035bc29d]: Commencement: Sch. 2 para. 5 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00040]: Footnote: Subsection (3A) was inserted by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251). There are other amendments to section 12 that are not relevant to this Order.
 
-[^key-1324af48c2309862f0eb4ac8dc08eb2b]: Commencement: Sch. 2 para. 6 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-1324af48c2309862f0eb4ac8dc08eb2b]: Commencement: Sch. 2 para. 6 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00041]: Footnote: Relevant amendments to section 14 were made by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251).
 
-[^key-1e89995fff48d03246f64290a6de52f8]: Commencement: Sch. 2 para. 7 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-1e89995fff48d03246f64290a6de52f8]: Commencement: Sch. 2 para. 7 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00042]: Footnote: Section 15 was amended by the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), Schedules 4 and 6.
 
 [^f00043]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-8e23a2ac2fd06488f13d96af59b77711]: Commencement: Sch. 2 para. 8 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-8e23a2ac2fd06488f13d96af59b77711]: Commencement: Sch. 2 para. 8 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00044]: Footnote: Section 15A was inserted by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251).
 
-[^key-a39028967bccb74797e94cb86442e259]: Commencement: Sch. 2 para. 9 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-a39028967bccb74797e94cb86442e259]: Commencement: Sch. 2 para. 9 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00045]: Footnote: Section 17 was amended by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251).
 
-[^key-93d929985e31f62ca06bcba9fc4eb04d]: Commencement: Sch. 2 para. 10 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-93d929985e31f62ca06bcba9fc4eb04d]: Commencement: Sch. 2 para. 10 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00046]: Footnote: Section 18 was amended by the Transport Act 1968, Schedule 18, Part 1. There is a further amendment not relevant to this Order.
 
-[^key-afcc5ebf7ff85293c3e4fa79df6a03a8]: Commencement: Sch. 2 para. 11 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-afcc5ebf7ff85293c3e4fa79df6a03a8]: Commencement: Sch. 2 para. 11 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00047]: Footnote: Subsection (7) was inserted by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251). Section 19 was also amended by the Transport Act 1968, Schedule 18, Part 1; the Transport (London) Act 1969, Schedule 6; the Statutory Corporations (Financial Provisions) Act [1974 (c. 8)](https://www.legislation.gov.uk/ukpga/1974/8), section 4 and Schedule 2; the Transport (Financial Provisions) Act [1977 (c. 20)](https://www.legislation.gov.uk/ukpga/1977/20), section 3(2)(a); the Transport Act 1981, Schedule 12, Part 1; the Water Act [1981 (c. 12)](https://www.legislation.gov.uk/ukpga/1981/12), section 1(1) and (2); the Transport Act 2000, Schedule 31, Part 4, and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), article 4(1).
 
 [^f00048]: Footnote: [2000 asp 1](https://www.legislation.gov.uk/asp/2000/1).
 
-[^key-1cbe11d590309069e57ecaf28b8b5cf8]: Commencement: Sch. 2 para. 12 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-1cbe11d590309069e57ecaf28b8b5cf8]: Commencement: Sch. 2 para. 12 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00049]: Footnote: Subsection (7) was inserted by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251).
 
-[^key-b9d8b8d89428e7fa2758a5d8d9169123]: Commencement: Sch. 2 para. 13 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-b9d8b8d89428e7fa2758a5d8d9169123]: Commencement: Sch. 2 para. 13 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00050]: Footnote: Section 21 was amended by the Statutory Corporations (Financial Provisions) Act 1974, section 4 and Schedule 2 and the Miscellaneous Financial Provisions Act [1983 (c. 29)](https://www.legislation.gov.uk/ukpga/1983/29), section 4 and Schedule 2.
 
-[^key-8ec7ea6b50f90b38b35c932f0f8827f5]: Commencement: Sch. 2 para. 14 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-8ec7ea6b50f90b38b35c932f0f8827f5]: Commencement: Sch. 2 para. 14 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00051]: Footnote: Section 21A was inserted by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251). Another section 21A (grants to the Railways Board) was inserted by the Railways Act [1993 (c. 43)](https://www.legislation.gov.uk/ukpga/1993/43), section 109 and repealed, as from a date yet to be appointed, by the Transport Act 2000, Schedule 31, Part 4.
 
-[^key-edb618c1b7cd4eac99149873633ed892]: Commencement: Sch. 2 para. 15 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-edb618c1b7cd4eac99149873633ed892]: Commencement: Sch. 2 para. 15 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00052]: Footnote: Section 24 was amended by [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997), [2000/3251](https://www.legislation.gov.uk/uksi/2000/3251) and [2008/948](https://www.legislation.gov.uk/uksi/2008/948).
 
-[^key-8c1942fe78532140494a88637761c4e2]: Commencement: Sch. 2 para. 16 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-8c1942fe78532140494a88637761c4e2]: Commencement: Sch. 2 para. 16 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00053]: Footnote: Subsection (2A) was inserted by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251). Section 25 was also amended by the Transport Act 1968, Schedule 18, Part 1.
 
-[^key-0212c5385cd3e965bdf6093d226160eb]: Commencement: Sch. 2 para. 17 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-0212c5385cd3e965bdf6093d226160eb]: Commencement: Sch. 2 para. 17 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00054]: Footnote: Section 27 was amended by the Transport Act 1968, sections 46(5) and 51(3), the Railways Act [1974 (c. 48)](https://www.legislation.gov.uk/ukpga/1974/48), section 4(6); the Transport Act 2000, Schedule 31, Part 4 and [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251). There are further amendments not relevant to this Order.
 
-[^key-269f739f6e7c375e619cba7b562017b0]: Commencement: Sch. 2 para. 18 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-269f739f6e7c375e619cba7b562017b0]: Commencement: Sch. 2 para. 18 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00055]: Footnote: Section 28 was amended by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251).
 
-[^key-55e17870d5e99cee97b97b45eaf9074f]: Commencement: Sch. 2 para. 19 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-55e17870d5e99cee97b97b45eaf9074f]: Commencement: Sch. 2 para. 19 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00056]: Footnote: Section 43 was amended by the Transport Act 2000, Schedule 27; the Railways Act [2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), Schedule 12. There are further amendments not relevant to this Order.
 
-[^key-df420a3cb9db4cf05acb567f40930343]: Commencement: Sch. 2 para. 20 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-df420a3cb9db4cf05acb567f40930343]: Commencement: Sch. 2 para. 20 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00057]: Footnote: Section 50 was amended by the Harbours Act [1964 (c. 40)](https://www.legislation.gov.uk/ukpga/1964/40), Schedule 6.
 
-[^key-cbc3232dd8010fe8a9428d74b9235a95]: Commencement: Sch. 2 para. 21 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-cbc3232dd8010fe8a9428d74b9235a95]: Commencement: Sch. 2 para. 21 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00058]: Footnote: There are amendments and modifications to section 52 that are not relevant to this Order.
 
-[^key-5f71f9f8caa357d4abeac45661f2bcf2]: Commencement: Sch. 2 para. 22 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-5f71f9f8caa357d4abeac45661f2bcf2]: Commencement: Sch. 2 para. 22 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
-[^key-627c73ee4c5a887b6831ed8cca9cbb59]: Commencement: Sch. 2 para. 23 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-627c73ee4c5a887b6831ed8cca9cbb59]: Commencement: Sch. 2 para. 23 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00059]: Footnote: Section 63 was repealed, in relation to England and Wales, by the Water Resources Act [1963 (c. 38)](https://www.legislation.gov.uk/ukpga/1963/38), Schedule 14, Part 2. Modifications extending to Scotland were made by the Water Industry (Scotland) Act 2002 (Consequential Modifications) Order 2004 ([S.I. 2004/1822](https://www.legislation.gov.uk/uksi/2004/1822)).
 
-[^key-54e79e85ce5340d4c296e4c95658d8c2]: Commencement: Sch. 2 para. 24 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-54e79e85ce5340d4c296e4c95658d8c2]: Commencement: Sch. 2 para. 24 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
-[^key-e01690a9ca592c248b5d17af406286d9]: Commencement: Sch. 2 para. 25 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-e01690a9ca592c248b5d17af406286d9]: Commencement: Sch. 2 para. 25 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00060]: Footnote: There are amendments to section 74 that are not relevant to this Order.
 
-[^key-0eab974866e9f5192deba4a948aa0b0a]: Commencement: Sch. 2 para. 26 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-0eab974866e9f5192deba4a948aa0b0a]: Commencement: Sch. 2 para. 26 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00061]: Footnote: Relevant amendments to section 86 were made by [S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681) and [2000/3251](https://www.legislation.gov.uk/uksi/2000/3251).
 
-[^key-0783b75bb1f6c8799a4fb01ffa2d728c]: Commencement: Sch. 2 para. 27 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-0783b75bb1f6c8799a4fb01ffa2d728c]: Commencement: Sch. 2 para. 27 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00062]: Footnote: Relevant amendments to Schedule 1 were made by the Transport Act 1968, section 52(4); the Transport Act 2000, Schedule 31, Part 4 and [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251).
 
-[^key-8167caa549e938cb2c01dd9a39f95347]: Commencement: Sch. 2 para. 28 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-8167caa549e938cb2c01dd9a39f95347]: Commencement: Sch. 2 para. 28 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
-[^key-c11ebdb14a694fcc6b0f9f6ce91b223b]: Commencement: Sch. 2 para. 29 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-c11ebdb14a694fcc6b0f9f6ce91b223b]: Commencement: Sch. 2 para. 29 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00063]: Footnote: Schedule 9 was amended by the Harbours Act 1964, sections 28 and 39(3) and Schedule 6, and the Transport Act 1981, Schedule 12, Part 1.
 
-[^key-5a3c40b93b08141a580d096b9df92cdb]: Commencement: Sch. 2 para. 30 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-5a3c40b93b08141a580d096b9df92cdb]: Commencement: Sch. 2 para. 30 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00064]: Footnote: [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73).
 
-[^key-8fa564f9e80102bd4bba7de7385e0346]: Commencement: Sch. 2 para. 31 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-8fa564f9e80102bd4bba7de7385e0346]: Commencement: Sch. 2 para. 31 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00065]: Footnote: Section 43 was amended by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251). There are other amendments not relevant to this Order.
 
-[^key-efa8cbd73a66414e193fa048ef5c2ccd]: Commencement: Sch. 2 para. 32 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-efa8cbd73a66414e193fa048ef5c2ccd]: Commencement: Sch. 2 para. 32 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
-[^key-33de8b79e91f570883a99557c6fcf87f]: Commencement: Sch. 2 para. 33 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-33de8b79e91f570883a99557c6fcf87f]: Commencement: Sch. 2 para. 33 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00066]: Footnote: Relevant amendments to section 44 were made by the Transport Act [1980 (c. 34)](https://www.legislation.gov.uk/ukpga/1980/34), Schedule 9; [S.I. 1973/338](https://www.legislation.gov.uk/uksi/1973/338) and [1991/510](https://www.legislation.gov.uk/uksi/1991/510) and [S.S.I. 2002/263](https://www.legislation.gov.uk/ssi/2002/263). Section 44(1) was also amended, as from a date to be appointed, by the Transport Act 2000, Schedule 31, Part 4.
 
-[^key-7e59d27361c95065622192c15aeefe4a]: Commencement: Sch. 2 para. 34 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-7e59d27361c95065622192c15aeefe4a]: Commencement: Sch. 2 para. 34 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00067]: Footnote: Section 46 was amended by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251).
 
-[^key-b3dc3e02c33c1248896edf33d46a337c]: Commencement: Sch. 2 para. 35 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-b3dc3e02c33c1248896edf33d46a337c]: Commencement: Sch. 2 para. 35 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00068]: Footnote: Relevant amendments to section 48 were made by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251) and [S.S.I. 2002/263](https://www.legislation.gov.uk/ssi/2002/263).
 
-[^key-a23b21e24659e1d5904ca08eb8058bd2]: Commencement: Sch. 2 para. 36 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-a23b21e24659e1d5904ca08eb8058bd2]: Commencement: Sch. 2 para. 36 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00069]: Footnote: Subsection (4A) was inserted by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251). Other relevant amendments to section 49 were made by the [British Waterways Act 1995 (c. i)](https://www.legislation.gov.uk/ukla/1995/1), section 23.
 
-[^key-7f2000d7d413c43fa2239e95d657d4e9]: Commencement: Sch. 2 para. 37 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-7f2000d7d413c43fa2239e95d657d4e9]: Commencement: Sch. 2 para. 37 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00070]: Footnote: Section 50 was amended by the Transport Act 2000, Schedule 31, Part 4, and [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251). Other amendments were made that are not relevant to this Order.
 
-[^key-21752974be9839a6741264c03eca0167]: Commencement: Sch. 2 para. 38 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-21752974be9839a6741264c03eca0167]: Commencement: Sch. 2 para. 38 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00071]: Footnote: Section 104 was amended by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251).
 
-[^key-57773537b54b7796dae39ac3ccbe02c1]: Commencement: Sch. 2 para. 39 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-57773537b54b7796dae39ac3ccbe02c1]: Commencement: Sch. 2 para. 39 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00072]: Footnote: Section 105 was amended by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251) and modified by [S.I. 1993/119](https://www.legislation.gov.uk/uksi/1993/119).
 
-[^key-7f1715360c96099ce877df39648d235c]: Commencement: Sch. 2 para. 40 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-7f1715360c96099ce877df39648d235c]: Commencement: Sch. 2 para. 40 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00073]: Footnote: Section 106 was amended by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251).
 
-[^key-c512f090818a83a939ba310b82d84ad5]: Commencement: Sch. 2 para. 41 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-c512f090818a83a939ba310b82d84ad5]: Commencement: Sch. 2 para. 41 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00074]: Footnote: Section 108 was amended by the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11), Schedule 2, paragraph 22(2); the Environmental Protection Act 1990, Schedule 15, paragraph 10(3); the Planning (Consequential Provisions) (Scotland) Act [1997 (c. 11)](https://www.legislation.gov.uk/ukpga/1997/11), Schedule 2, paragraph 17(1), and the Public Health etc (Scotland) Act [2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), schedule 3, Part 1.
 
-[^key-a61e667bc9709dfb614cdf798378f911]: Commencement: Sch. 2 para. 42 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-a61e667bc9709dfb614cdf798378f911]: Commencement: Sch. 2 para. 42 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00075]: Footnote: Section 109 was amended by the Gas Act 1986, Schedule 7, paragraph 9; the Electricity Act [1989 (c. 29)](https://www.legislation.gov.uk/ukpga/1989/29), Schedule 16, paragraph 14; the Water Act 1989, Schedules 25 and 27; the Water Consolidation (Consequential Provisions) Act [1991 (c. 60)](https://www.legislation.gov.uk/ukpga/1991/60), Schedule 1, and [S.I. 1996/593](https://www.legislation.gov.uk/uksi/1996/593), [2000/3251](https://www.legislation.gov.uk/uksi/2000/3251) and [2004/1822](https://www.legislation.gov.uk/uksi/2004/1822). It was modified by the Gas Act 1995, Schedule 4, paragraph 2(2)(d) and the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), sections 31(1) and 76(7).
 
-[^key-51a2b48be1a9d6e2094951673742f732]: Commencement: Sch. 2 para. 43 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-51a2b48be1a9d6e2094951673742f732]: Commencement: Sch. 2 para. 43 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
-[^key-9efa6dbd1025329f1e1aeaad97ac5c12]: Commencement: Sch. 2 para. 44 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-9efa6dbd1025329f1e1aeaad97ac5c12]: Commencement: Sch. 2 para. 44 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00076]: Footnote: Section 112 was amended by the Water Act 1989, Schedule 25, paragraph 38; the Planning (Consequential Provisions) Act 1990, Schedule 2; the Planning (Consequential Provisions) (Scotland) Act 1997, Schedule 2, paragraph 17(2); the Public Health etc (Scotland) Act [2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), schedule 3, Part 1, and [S.I. 1996/593](https://www.legislation.gov.uk/uksi/1996/593), [2000/3251](https://www.legislation.gov.uk/uksi/2000/3251) and [2004/1822](https://www.legislation.gov.uk/uksi/2004/1822).
 
-[^key-91925f5f8240afb87bda45569a3ab633]: Commencement: Sch. 2 para. 45 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-91925f5f8240afb87bda45569a3ab633]: Commencement: Sch. 2 para. 45 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00077]: Footnote: Section 113 was amended by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), sections 37, 38 and 46; the Water Act 1989, Schedule 25, paragraph 38, and [S.I. 2004/1822](https://www.legislation.gov.uk/uksi/2004/1822).
 
-[^key-daac0c7a8244ad7fe9c2ed54ce27433d]: Commencement: Sch. 2 para. 46 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-daac0c7a8244ad7fe9c2ed54ce27433d]: Commencement: Sch. 2 para. 46 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00078]: Footnote: Section 116 was amended by the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), Schedule 30 and [S.I. 1996/420](https://www.legislation.gov.uk/uksi/1996/420) and [2003/1615](https://www.legislation.gov.uk/uksi/2003/1615).
 
-[^key-2e190a1564faac2693e2b1eb09c614fc]: Commencement: Sch. 2 para. 47 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-2e190a1564faac2693e2b1eb09c614fc]: Commencement: Sch. 2 para. 47 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00079]: Footnote: Section 117 was amended by [S.I. 1996/420](https://www.legislation.gov.uk/uksi/1996/420) and [2000/3251](https://www.legislation.gov.uk/uksi/2000/3251). There are other amendments and modifications that are not relevant to this Order.
 
-[^key-5a966cf1ee382a831c105e15d16c7e3e]: Commencement: Sch. 2 para. 48 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-5a966cf1ee382a831c105e15d16c7e3e]: Commencement: Sch. 2 para. 48 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00080]: Footnote: Section 118 was amended by [S.I. 1996/420](https://www.legislation.gov.uk/uksi/1996/420) and [2003/1615](https://www.legislation.gov.uk/uksi/2003/1615).
 
-[^key-f1c52f81b2a4841355870adc8910fda3]: Commencement: Sch. 2 para. 49 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-f1c52f81b2a4841355870adc8910fda3]: Commencement: Sch. 2 para. 49 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00081]: Footnote: Section 119 was amended by the Highways Act 1980, Schedule 24, paragraph 18 and [S.I. 1996/420](https://www.legislation.gov.uk/uksi/1996/420) and [2003/1615](https://www.legislation.gov.uk/uksi/2003/1615).
 
-[^key-06a069aac75faf35440db72cb235774d]: Commencement: Sch. 2 para. 50 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-06a069aac75faf35440db72cb235774d]: Commencement: Sch. 2 para. 50 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00082]: Footnote: Section 121 was amended by the Highways Act 1980, Schedule 24, paragraph 18; the Transport Act 1980, Schedule 9, Part 3 and the Transport and Works Act 1992, Schedule 4, Part 1. There are further amendments and modifications that are not relevant to this Order.
 
-[^key-05b6205855f03ddd4670d7dfa35f9e17]: Commencement: Sch. 2 para. 51 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-05b6205855f03ddd4670d7dfa35f9e17]: Commencement: Sch. 2 para. 51 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00083]: Footnote: Section 137 was amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971) and [2002/2626](https://www.legislation.gov.uk/uksi/2002/2626). There are other amendments not relevant to this Order.
 
-[^key-573c1e3d7c6828050f0163a9ffc29264]: Commencement: Sch. 2 para. 52 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-573c1e3d7c6828050f0163a9ffc29264]: Commencement: Sch. 2 para. 52 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00084]: Footnote: Section 144 was amended by [S.I. 1994/2032](https://www.legislation.gov.uk/uksi/1994/2032) and [1997/1744](https://www.legislation.gov.uk/uksi/1997/1744). There are other amendments not relevant to this Order.
 
-[^key-c3f6b41053039fcc589a831b42a998cc]: Commencement: Sch. 2 para. 53 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-c3f6b41053039fcc589a831b42a998cc]: Commencement: Sch. 2 para. 53 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00085]: Footnote: Schedule 13 was amended by the Water Act 1989, Schedule 25, paragraph 38; the Natural Environment and Rural Communities Act 2006, Schedule 11, Part 2 and [S.I. 1996/593](https://www.legislation.gov.uk/uksi/1996/593), [2000/3251](https://www.legislation.gov.uk/uksi/2000/3251), [2004/1822](https://www.legislation.gov.uk/uksi/2004/1822) and [2012/1658](https://www.legislation.gov.uk/uksi/2012/1658). It was modified by [S.I. 1993/1119](https://www.legislation.gov.uk/uksi/1993/1119).

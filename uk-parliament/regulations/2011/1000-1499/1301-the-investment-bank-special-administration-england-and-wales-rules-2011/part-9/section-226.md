@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 226. Shorthand writers – nomination, appointment, remuneration and costs[^key-b4f0c6bc5b711475bdafc3ba811d1bbe]
+## 226. Shorthand writers – nomination, appointment, remuneration and costs[^c-b4f0c6bc5b711475bdafc3ba811d1bbe]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4f0c6bc5b711475bdafc3ba811d1bbe]: Commencement: [Rule 226](https://www.legislation.gov.uk/uksi/2011/1301/rule/226) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-b4f0c6bc5b711475bdafc3ba811d1bbe]: Commencement: [Rule 226](https://www.legislation.gov.uk/uksi/2011/1301/rule/226) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

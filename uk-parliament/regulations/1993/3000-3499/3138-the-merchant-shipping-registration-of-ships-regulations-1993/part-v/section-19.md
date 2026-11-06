@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Service on representative persons[^key-c9e57add57339f68c0e27f9c949d01a5]
+## 19. Service on representative persons[^c-c9e57add57339f68c0e27f9c949d01a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Any document required or authorised to be served by or under the Merchant Shippi
 
 ## Annotations
 
-[^key-c9e57add57339f68c0e27f9c949d01a5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1993/3138/regulation/19) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-c9e57add57339f68c0e27f9c949d01a5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1993/3138/regulation/19) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

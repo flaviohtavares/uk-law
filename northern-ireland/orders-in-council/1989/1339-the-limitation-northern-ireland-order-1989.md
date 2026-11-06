@@ -27,7 +27,7 @@ summary: ''
 
 1989 No. 1339 (N.I. 11)
 
-The Limitation (Northern Ireland) Order 1989[^key-e57eb89d8c7b3d15c14bf2e4cf3c74d1][^key-bd7751c007edf15871816c7eb7698e55][^key-03f2ba9263157e2365057c0255c2d713]
+The Limitation (Northern Ireland) Order 1989[^c-e57eb89d8c7b3d15c14bf2e4cf3c74d1][^c-bd7751c007edf15871816c7eb7698e55][^c-03f2ba9263157e2365057c0255c2d713]
 
 2nd August 1989 [^c19454501]
 
@@ -45,7 +45,7 @@ The Limitation (Northern Ireland) Order 1989[^key-e57eb89d8c7b3d15c14bf2e4cf3c74
 
 (2) In this Order—
 
-- “action” includes any proceeding (other than a criminal proceeding) in a court established by law (and see paragraph (11))[^key-c4fe7d5c76f72355ab3b00dc3162dd63] ;
+- “action” includes any proceeding (other than a criminal proceeding) in a court established by law (and see paragraph (11))[^c-c4fe7d5c76f72355ab3b00dc3162dd63] ;
 - “action to recover land” includes—
   - (a) an action claiming a declaration of title to land;
   - (b) proceedings by a mortgagee for the delivery of possession of land by a mortgagor;
@@ -116,7 +116,7 @@ neither the purchaser nor any person claiming through him is, by reason only of 
 
 (10) For the purposes of section 42 of the Northern Ireland Constitution Act 1973[^c16982011] (validity of Acts of Northern Ireland Parliament), provisions of this Order which re‐enact provisions of an Act of the Parliament of Northern Ireland are to be treated as provisions of such an Act.
 
-(11)[^key-c713299cb8d5ef0bb729e1bc3a1fbac6] References in this Order to an action do not include any method of recovery of a sum recoverable under—
+(11)[^c-c713299cb8d5ef0bb729e1bc3a1fbac6] References in this Order to an action do not include any method of recovery of a sum recoverable under—
 
 - (a) Part 3 of the Social Security Administration (Northern Ireland) Act 1992,
 - (b) section 126(c) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992, or
@@ -244,7 +244,7 @@ whichever is the later.
 
 (7) Expressions used in this Article or Article 7(6) to (10) and in Part II of the Consumer Protection (Northern Ireland) Order 1987[^c16982131] have the same meanings in this Article or that Article as in that Part; and Article 4(1) of that Order (Part II to be construed as enacted for the purpose of complying with the product liability Directive) appliesfor the purpose of construing this Article and the following provisions of this Order so far as they relate to an action by virtue of any provision of that Part as it applies for the purpose of construing that Part.
 
-### 8A. Time limit: actions in respect of defective premises, etc.[^key-03e0e7babc2b38acc824e297d0d9947b]
+### 8A. Time limit: actions in respect of defective premises, etc.[^c-03e0e7babc2b38acc824e297d0d9947b]
 
 (1) The following actions may not be brought after the expiration of 15 years from the date on which the right of action accrued—
 
@@ -814,7 +814,7 @@ the action may be brought at any time before the expiration of three years from 
 
 the court may direct that those provisions are not to apply to the action, or are not to apply to any specified cause of action to which the action relates.
 
-(1A)[^key-3e7376a61c72a73ed3384cbecb76963f] The court must not under this Article disapply any provision of Article 7 in its application to an overseas armed forces action if the action was brought after the expiration of the period of six years from the Article 7 relevant date (see paragraph (8)).
+(1A)[^c-3e7376a61c72a73ed3384cbecb76963f] The court must not under this Article disapply any provision of Article 7 in its application to an overseas armed forces action if the action was brought after the expiration of the period of six years from the Article 7 relevant date (see paragraph (8)).
 
 (1B) An “**overseas armed forces action**” means an action, or cause of action, which—
 
@@ -834,7 +834,7 @@ the court may direct that those provisions are not to apply to the action, or ar
 
 (3) The court must not under this Article disapply Article 9(2) except where the reason why the person injured could no longer maintain an action was because of the time limit in Article 7 or 8(4).
 
-(3A)[^key-1f29d65a0d09eb779138ab189a84250d] But where the reason why the person injured could no longer maintain an action was because of the time limit in Article 7, the court may disapply Article 9(2) in its application to an overseas armed forces action only if the person died within the period of six years beginning with the Article 7 relevant date (ignoring, for this purpose, the reference to Article 7(5) in paragraph (a) of the definition of that term).
+(3A)[^c-1f29d65a0d09eb779138ab189a84250d] But where the reason why the person injured could no longer maintain an action was because of the time limit in Article 7, the court may disapply Article 9(2) in its application to an overseas armed forces action only if the person died within the period of six years beginning with the Article 7 relevant date (ignoring, for this purpose, the reference to Article 7(5) in paragraph (a) of the definition of that term).
 
 (3B) The court must not under this Article disapply Article 9(3) in its application to an overseas armed forces action if the action was brought after the expiration of the period of six years from the Article 9 relevant date (see paragraph (8)).
 
@@ -851,7 +851,7 @@ the court may direct that those provisions are not to apply to the action, or ar
 
 (6) In a case under paragraph (5), or any other case where the time limit, or one of the time limits, depends on the date of knowledge of a person other than the plaintiff, paragraph (4) has effect with appropriate modifications, and in particular as if references to the plaintiff included references to any person whose date of knowledge is or was relevant in determining a time limit.
 
-(6A)[^key-587ece90a3cd1064a823fb681d50f49f] In acting under this Article in relation to an overseas armed forces action—
+(6A)[^c-587ece90a3cd1064a823fb681d50f49f] In acting under this Article in relation to an overseas armed forces action—
 
 - (a) when considering the factor mentioned in paragraph (4)(b), the court must have particular regard to—
   - (i) the likely impact of the operational context on the ability of members of Her Majesty's forces to remember relevant events or actions fully or accurately, and
@@ -862,12 +862,12 @@ the court may direct that those provisions are not to apply to the action, or ar
 
 (7) A direction by the court disapplying Article 9(2) operates to disapply the provisions to the same effect in Article 3(1) of the Fatal Accidents (Northern Ireland) Order 1977[^c16982361].
 
-(7A)[^key-fc3ac2023f00a8821a4241008dcdb9dd] In the application of paragraph (1A), (3A) or (3B) to an overseas armed forces action in respect of which a limitation period has been suspended in accordance with section 1(1) of the Limitation (Enemies and War Prisoners) Act 1945, any reference to the period of six years is to be treated as a reference to the period of six years plus—
+(7A)[^c-fc3ac2023f00a8821a4241008dcdb9dd] In the application of paragraph (1A), (3A) or (3B) to an overseas armed forces action in respect of which a limitation period has been suspended in accordance with section 1(1) of the Limitation (Enemies and War Prisoners) Act 1945, any reference to the period of six years is to be treated as a reference to the period of six years plus—
 
 - (a) the period during which the limitation period was suspended, and
 - (b) any extra period after the suspension ended during which the action could have been brought only because of an extension provided for by section 1(1) of that Act.
 
-(8)[^key-950b4be8f72936374b092a0a17524155] In this Article—
+(8)[^c-950b4be8f72936374b092a0a17524155] In this Article—
 
 - “**the Article 7 relevant date**” means the latest of the following—
   - (a) the date from which the period of three years starts to run in accordance with Article 7(4) or (5);
@@ -881,7 +881,7 @@ the court may direct that those provisions are not to apply to the action, or ar
 - “**Her Majesty's forces**” has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act);
 - “**overseas operations**” means any operations outside the British Islands, including peacekeeping operations and operations for dealing with terrorism, civil unrest or serious public disorder, in the course of which members of Her Majesty's forces come under attack or face the threat of attack or violent resistance.
 
-(9) References in this Article—[^key-f3e4047e4a86ec1f1d44ad1a8ad763f5]
+(9) References in this Article—[^c-f3e4047e4a86ec1f1d44ad1a8ad763f5]
 
 - (a) to the British Islands include the territorial sea adjacent to the United Kingdom and the territorial sea adjacent to any of the Channel Islands or the Isle of Man (and the reference to any of the British Islands is to be read accordingly);
 - (b) to a member of Her Majesty's forces, in relation to an overseas armed forces action, include an individual who was a member of Her Majesty's forces at the time of the events to which the action relates;
@@ -913,34 +913,34 @@ the court may direct that those provisions are not to apply to the action, or ar
 
 ### Mediation[^c22316181]
 
-#### 51A. Extension of time limits: mediation[^key-3429c794109da22c78b0f331a0e7604b]
+#### 51A. Extension of time limits: mediation[^c-3429c794109da22c78b0f331a0e7604b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 51B. Extension of time limits because of alternative dispute resolution in certain consumer contract disputes[^key-f6c6fb3700e53adcc1700a1a860e12cd][^key-deca6471bbe7ef38a665a7bccd733b84]
+#### 51B. Extension of time limits because of alternative dispute resolution in certain consumer contract disputes[^c-f6c6fb3700e53adcc1700a1a860e12cd][^c-deca6471bbe7ef38a665a7bccd733b84]
 
 (1) Paragraph (2) applies where—
 
-- (a) there is ADR[^key-056bb54dc35662056a1e1838022c4040] in relation to a consumer contract dispute[^key-22dc9d3698157d577e252550dc895add] giving rise to an action for which a time limit is fixed by this Order; and
+- (a) there is ADR[^c-056bb54dc35662056a1e1838022c4040] in relation to a consumer contract dispute[^c-22dc9d3698157d577e252550dc895add] giving rise to an action for which a time limit is fixed by this Order; and
 - (b) the time limit would, apart from this Article, expire—
-  - (i) after the date on which the ADR[^key-9b7b5f903b5a1bf7814c7173198fa365] starts but before the date on which it[^key-cf5c49146875be1a7a175ae780784084] ends;
+  - (i) after the date on which the ADR[^c-9b7b5f903b5a1bf7814c7173198fa365] starts but before the date on which it[^c-cf5c49146875be1a7a175ae780784084] ends;
   - (ii) on the date on which the ADR ends; or
   - (iii) in the period of 8 weeks after the date on which the ADR ends.
 
-(2) Where this paragraph applies, the time limit is extended so that it expires on the date falling 8 weeks after the date on which the ADR[^key-5b487e71e8c0e4e8f8b3782e195d6fe0] ends.
+(2) Where this paragraph applies, the time limit is extended so that it expires on the date falling 8 weeks after the date on which the ADR[^c-5b487e71e8c0e4e8f8b3782e195d6fe0] ends.
 
-(3) For the purposes of this Article, ADR[^key-28723e52333b8d6edb96517ed2d038cb] starts in relation to a consumer contract dispute[^key-f1e4b91dc49c8bdda4099fea4c88ff92] on the date when the dispute is first sent or otherwise communicated to the ADR entity in accordance with the entity’s rules regarding the submission of complaints.
+(3) For the purposes of this Article, ADR[^c-28723e52333b8d6edb96517ed2d038cb] starts in relation to a consumer contract dispute[^c-f1e4b91dc49c8bdda4099fea4c88ff92] on the date when the dispute is first sent or otherwise communicated to the ADR entity in accordance with the entity’s rules regarding the submission of complaints.
 
-(4) For the purposes of this Article, the ADR[^key-29cda373f06d6be5fba4726c2457d6d5] ends on the date of the first of these to occur—
+(4) For the purposes of this Article, the ADR[^c-29cda373f06d6be5fba4726c2457d6d5] ends on the date of the first of these to occur—
 
-- (a) the parties reach an agreement in resolution of the consumer contract dispute[^key-f1e196af04fc909bede18f1e360cf502];
+- (a) the parties reach an agreement in resolution of the consumer contract dispute[^c-f1e196af04fc909bede18f1e360cf502];
 - (b) a party completes the notification of the other parties that it has withdrawn from the ADR;
 - (c) a party to whom a qualifying request is made fails to give a response reaching the other parties within 14 days of the request;
 - (d) that the ADR entity notifies the party that submitted the consumer contract dispute to the ADR entity that, in accordance with its policy, the ADR entity refuses to deal with the consumer contract dispute;
 - (e) after the parties are notified that the ADR entity can no longer act in relation to the consumer contract dispute (for whatever reason), the parties fail to agree within 14 days to submit the dispute to an alternative ADR entity;
 - (f) the ADR otherwise comes to an end pursuant to the rules of the ADR entity.
 
-(5)[^key-a7342d482700db2f3f82fad65cda46b2] In this Article—
+(5)[^c-a7342d482700db2f3f82fad65cda46b2] In this Article—
 
 - “**ADR**” has the same meaning as in Chapter 4 of Part 4 of the Digital Markets, Competition and Consumers Act 2024;
 - “**ADR entity**” means a person who carries out ADR in compliance with section 293(1) of that Act (which prohibits persons from carrying out ADR unless exempt, accredited, or acting under special ADR arrangements, in accordance with Chapter 4 of Part 4 of that Act);
@@ -1223,7 +1223,7 @@ whichever is the earliest[^c20383921].
 - (a) in the case of proceedings for a recovery order in respect of property obtained through unlawful conduct, when the property is so obtained,
 - (b) in the case of proceedings for a recovery order in respect of any other recoverable property, when the property obtained through unlawful conduct which it represents is so obtained.
 
-(4A)[^key-fe31a61b22b066c470edbe658f09143f] Paragraph (4) is subject to section 13(5) of the Criminal Finances Act 2017 (which provides that, in the case of property obtained through unlawful conduct relating to a gross human rights abuse or violation, proceedings cannot be brought after the end of the period of 20 years from the date on which the conduct constituting the commission of the abuse or violation occurs).
+(4A)[^c-fe31a61b22b066c470edbe658f09143f] Paragraph (4) is subject to section 13(5) of the Criminal Finances Act 2017 (which provides that, in the case of property obtained through unlawful conduct relating to a gross human rights abuse or violation, proceedings cannot be brought after the end of the period of 20 years from the date on which the conduct constituting the commission of the abuse or violation occurs).
 
 (5) If—
 
@@ -1238,11 +1238,11 @@ Article 17(2) does not prevent his asserting on an application under section 281
 
 (8)[^c20384171] In this Article “ **relevant person** ” means—
 
-- (a)[^key-848eacdd7c215163fb6c360f952490d7] the National Crime Agency,
+- (a)[^c-848eacdd7c215163fb6c360f952490d7] the National Crime Agency,
 - (b) the Director of the Serious Fraud Office, or
 - (c) the Director of Public Prosecutions for Northern Ireland.
 
-### 72AB. Actions to prohibit dealing with property subject to an external request[^key-5250853decb609acd83bf4d85f5b1a7e]
+### 72AB. Actions to prohibit dealing with property subject to an external request[^c-5250853decb609acd83bf4d85f5b1a7e]
 
 (1) None of the time limits fixed by Parts 2 and 3 applies to any proceedings under Part 4A of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (giving effect to external request by means of civil proceedings).
 
@@ -1277,7 +1277,7 @@ Article 17(2) does not prevent his asserting on an application under section 281
 
 whichever is earliest.
 
-(3A)[^key-90b452f7d441e7c854260fbce360b779] If, before an event mentioned in paragraph (3) occurs, an application is made for a prohibition order under Part 4A of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005, the proceedings under Chapter 2 of Part 5 of the Order are to be treated as having been brought when that application is made.
+(3A)[^c-90b452f7d441e7c854260fbce360b779] If, before an event mentioned in paragraph (3) occurs, an application is made for a prohibition order under Part 4A of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005, the proceedings under Chapter 2 of Part 5 of the Order are to be treated as having been brought when that application is made.
 
 (4) The relevant person's[^c21095891] cause of action accrues in respect of any recoverable property—
 
@@ -1316,7 +1316,7 @@ Article 17(2) of this Order does not prevent his asserting on an application und
 
 (5) Expressions used in this Article and that Part have the same meaning in this Article as in that Part.
 
-### 73. New claims in pending actions[^key-f7a7be1d641e5de49aac02f1664c62c2][^key-35b1291f5e1b4b992f69388ee39282c4]
+### 73. New claims in pending actions[^c-f7a7be1d641e5de49aac02f1664c62c2][^c-35b1291f5e1b4b992f69388ee39282c4]
 
 (1) For the purposes of this Order, any new claim made in the course of any action is to be treated as a separate action and as having been commenced—
 
@@ -1350,7 +1350,7 @@ Article 17(2) of this Order does not prevent his asserting on an application und
 
 “third party proceedings” means any proceedings brought in the course of any action by any party to the action against a person not previously a party to the action, other than proceedings brought by joining any such person as defendant to any claim already made in the original action by the party bringing the proceedings.
 
-### 73A. Actions relating to the Northern Ireland Troubles[^key-8009f9ab2c7f76dbf128f96e8bc0df16]
+### 73A. Actions relating to the Northern Ireland Troubles[^c-8009f9ab2c7f76dbf128f96e8bc0df16]
 
 This Order has effect subject to section 43 of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023.
 
@@ -1532,17 +1532,17 @@ is in the possession of a person entitled to a beneficial interest in the land o
 
 ## Annotations
 
-[^key-e57eb89d8c7b3d15c14bf2e4cf3c74d1]: Modification: Order applied (with modifications) by S.I. 2008/1277, reg. 27K(6) (as inserted (1.10.2014 with application in accordance with reg. 1(3) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2014/870/regulation/3))
+[^c-e57eb89d8c7b3d15c14bf2e4cf3c74d1]: Modification: Order applied (with modifications) by S.I. 2008/1277, reg. 27K(6) (as inserted (1.10.2014 with application in accordance with reg. 1(3) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2014/870/regulation/3))
 
-[^key-bd7751c007edf15871816c7eb7698e55]: Modification: Order applied (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [ss. 46(8)](https://www.legislation.gov.uk/ukpga/2015/15/section/46/8), [100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-bd7751c007edf15871816c7eb7698e55]: Modification: Order applied (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [ss. 46(8)](https://www.legislation.gov.uk/ukpga/2015/15/section/46/8), [100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-03f2ba9263157e2365057c0255c2d713]: Modification: Order applied (with modifications) by 1998 c. 41, s. 47E(2)(c) (as inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 8(1)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/8/1) (with [Sch. 8 para. 8(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/paragraph/8/2)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j))
+[^c-03f2ba9263157e2365057c0255c2d713]: Modification: Order applied (with modifications) by 1998 c. 41, s. 47E(2)(c) (as inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 8(1)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/8/1) (with [Sch. 8 para. 8(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/paragraph/8/2)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j))
 
 [^c19454501]: Modification: Order applied (1.4.2007) by [Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336 (N.I. 21))](https://www.legislation.gov.uk/nisi/2006/3336), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2), [298(4)](https://www.legislation.gov.uk/nisi/2006/3336/article/298/4) (with [arts. 8(8)](https://www.legislation.gov.uk/nisi/2006/3336/article/8/8), [121(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/121/3), [307](https://www.legislation.gov.uk/nisi/2006/3336/article/307)); [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
 [^c16981891]: Textual amendment: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c4fe7d5c76f72355ab3b00dc3162dd63]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1989/1339/article/2/2) inserted (17.2.2016 with effect as mentioned in art. 111(4)) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [111(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/111/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/b)
+[^c-c4fe7d5c76f72355ab3b00dc3162dd63]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1989/1339/article/2/2) inserted (17.2.2016 with effect as mentioned in art. 111(4)) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [111(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/111/2); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/b)
 
 [^c16981901]: Textual amendment: [1970 c. 8 (NI)](https://www.legislation.gov.uk/apni/1970/8)
 
@@ -1566,7 +1566,7 @@ is in the possession of a person entitled to a beneficial interest in the land o
 
 [^c16982011]: Textual amendment: [1973 c. 36](https://www.legislation.gov.uk/ukpga/1973/36)
 
-[^key-c713299cb8d5ef0bb729e1bc3a1fbac6]: Textual amendment: [Art. 2(11)](https://www.legislation.gov.uk/nisi/1989/1339/article/2/11) inserted (17.2.2016 with effect as mentioned in art. 111(4)) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [111(3)](https://www.legislation.gov.uk/nisi/2015/2006/article/111/3); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/b)
+[^c-c713299cb8d5ef0bb729e1bc3a1fbac6]: Textual amendment: [Art. 2(11)](https://www.legislation.gov.uk/nisi/1989/1339/article/2/11) inserted (17.2.2016 with effect as mentioned in art. 111(4)) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [111(3)](https://www.legislation.gov.uk/nisi/2015/2006/article/111/3); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(b)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/b)
 
 [^c21389631]: Textual amendment: [Art. 4(d)(ii)](https://www.legislation.gov.uk/nisi/1989/1339/article/4/d/ii) omitted (1.10.2009) by virtue of [Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [Sch. 1 para. 105(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/105/2) (with [arts. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10), [11](https://www.legislation.gov.uk/uksi/2009/1941/article/11))
 
@@ -1590,7 +1590,7 @@ is in the possession of a person entitled to a beneficial interest in the land o
 
 [^c16982131]: Textual amendment: [1987 NI 20](https://www.legislation.gov.uk/1987/ni20)
 
-[^key-03e0e7babc2b38acc824e297d0d9947b]: Textual amendment: [Art. 8A](https://www.legislation.gov.uk/nisi/1989/1339/article/8A) inserted (21.9.2024) by [Defective Premises Act (Northern Ireland) 2024 (c. 3)](https://www.legislation.gov.uk/nia/2024/3), [ss. 2(1)](https://www.legislation.gov.uk/nia/2024/3/section/2/1), [4(2)](https://www.legislation.gov.uk/nia/2024/3/section/4/2) (with [s. 2(2)-(5)](https://www.legislation.gov.uk/nia/2024/3/section/2/2))
+[^c-03e0e7babc2b38acc824e297d0d9947b]: Textual amendment: [Art. 8A](https://www.legislation.gov.uk/nisi/1989/1339/article/8A) inserted (21.9.2024) by [Defective Premises Act (Northern Ireland) 2024 (c. 3)](https://www.legislation.gov.uk/nia/2024/3), [ss. 2(1)](https://www.legislation.gov.uk/nia/2024/3/section/2/1), [4(2)](https://www.legislation.gov.uk/nia/2024/3/section/4/2) (with [s. 2(2)-(5)](https://www.legislation.gov.uk/nia/2024/3/section/2/2))
 
 [^c22314281]: Modification: [Art. 9](https://www.legislation.gov.uk/nisi/1989/1339/article/9) modified (14.12.2011) by [Damages (Asbestos-related Conditions) Act (Northern Ireland) 2011 (c. 28)](https://www.legislation.gov.uk/nia/2011/28), [ss. 4(1)](https://www.legislation.gov.uk/nia/2011/28/section/4/1), [3(2)](https://www.legislation.gov.uk/nia/2011/28/section/3/2) (with [s. 5(2)](https://www.legislation.gov.uk/nia/2011/28/section/5/2)); [S.R. 2011/409](https://www.legislation.gov.uk/nisr/2011/409), [art. 2](https://www.legislation.gov.uk/nisr/2011/409/article/2)
 
@@ -1620,51 +1620,51 @@ is in the possession of a person entitled to a beneficial interest in the land o
 
 [^c16982321]: Textual amendment: [1978 c. 47](https://www.legislation.gov.uk/ukpga/1978/47)
 
-[^key-3e7376a61c72a73ed3384cbecb76963f]: Textual amendment: [Art. 50(1A)-(1C)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/1A) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/1/2); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-3e7376a61c72a73ed3384cbecb76963f]: Textual amendment: [Art. 50(1A)-(1C)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/1A) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/1/2); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
 [^c16982351]: Textual amendment: [1987 NI 20](https://www.legislation.gov.uk/nisi/1987)
 
-[^key-1f29d65a0d09eb779138ab189a84250d]: Textual amendment: [Art. 50(3A)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/3A)[(3B)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/3B) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/1/3); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-1f29d65a0d09eb779138ab189a84250d]: Textual amendment: [Art. 50(3A)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/3A)[(3B)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/3B) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/1/3); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-587ece90a3cd1064a823fb681d50f49f]: Textual amendment: [Art. 50(6A)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/6A)[(6B)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/6B) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 1(4)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/1/4); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-587ece90a3cd1064a823fb681d50f49f]: Textual amendment: [Art. 50(6A)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/6A)[(6B)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/6B) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 1(4)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/1/4); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
 [^c16982361]: Textual amendment: [1977 NI 18](https://www.legislation.gov.uk/nisi/1977)
 
-[^key-fc3ac2023f00a8821a4241008dcdb9dd]: Textual amendment: [Art. 50(7A)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/7A) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 1(5)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/1/5); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-fc3ac2023f00a8821a4241008dcdb9dd]: Textual amendment: [Art. 50(7A)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/7A) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 1(5)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/1/5); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-950b4be8f72936374b092a0a17524155]: Textual amendment: [Art. 50(8)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/8) substituted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 1(6)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/1/6); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-950b4be8f72936374b092a0a17524155]: Textual amendment: [Art. 50(8)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/8) substituted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 1(6)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/1/6); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-f3e4047e4a86ec1f1d44ad1a8ad763f5]: Textual amendment: Words in [art. 50(9)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/9) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 1(7)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/1/7); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-f3e4047e4a86ec1f1d44ad1a8ad763f5]: Textual amendment: Words in [art. 50(9)](https://www.legislation.gov.uk/nisi/1989/1339/article/50/9) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 4 para. 1(7)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/4/paragraph/1/7); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
 [^c21984071]: Textual amendment: [1996 c. 31](https://www.legislation.gov.uk/ukpga/1996/31)
 
 [^c22316181]: Textual amendment: Art. 51A and preceding cross-heading inserted (18.4.2011) by Cross-[Border Mediation Regulations (Northern Ireland) 2011 (S.R. 2011/157)](https://www.legislation.gov.uk/nisr/2011/157), [reg. 10(2)](https://www.legislation.gov.uk/nisr/2011/157/regulation/10/2) (with [reg. 1(2)](https://www.legislation.gov.uk/nisr/2011/157/regulation/1/2))
 
-[^key-3429c794109da22c78b0f331a0e7604b]: Textual amendment: Art. 51A omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/11) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3429c794109da22c78b0f331a0e7604b]: Textual amendment: Art. 51A omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/11) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f6c6fb3700e53adcc1700a1a860e12cd]: Textual amendment: Art. 51B inserted (9.7.2015) by [The Alternative Dispute Resolution for Consumer Disputes (Amendment) Regulations 2015 (S.I. 2015/1392)](https://www.legislation.gov.uk/uksi/2015/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2015/1392/regulation/8) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/3))
+[^c-f6c6fb3700e53adcc1700a1a860e12cd]: Textual amendment: Art. 51B inserted (9.7.2015) by [The Alternative Dispute Resolution for Consumer Disputes (Amendment) Regulations 2015 (S.I. 2015/1392)](https://www.legislation.gov.uk/uksi/2015/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2015/1392/regulation/8) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/3))
 
-[^key-deca6471bbe7ef38a665a7bccd733b84]: Textual amendment: Words in [art. 51B heading](https://www.legislation.gov.uk/nisi/1989/1339/part/IV/crossheading/mediation) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(2)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/2); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-deca6471bbe7ef38a665a7bccd733b84]: Textual amendment: Words in [art. 51B heading](https://www.legislation.gov.uk/nisi/1989/1339/part/IV/crossheading/mediation) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(2)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/2); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-056bb54dc35662056a1e1838022c4040]: Textual amendment: Word in [art. 51B(1)(a)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/1/a) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(3)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/3); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-056bb54dc35662056a1e1838022c4040]: Textual amendment: Word in [art. 51B(1)(a)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/1/a) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(3)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/3); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-22dc9d3698157d577e252550dc895add]: Textual amendment: Words in [art. 51B(1)(a)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/1/a) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(6)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/6/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-22dc9d3698157d577e252550dc895add]: Textual amendment: Words in [art. 51B(1)(a)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/1/a) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(6)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/6/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-9b7b5f903b5a1bf7814c7173198fa365]: Textual amendment: Words in [art. 51B(1)(b)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/1/b) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/4/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-9b7b5f903b5a1bf7814c7173198fa365]: Textual amendment: Words in [art. 51B(1)(b)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/1/b) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/4/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-cf5c49146875be1a7a175ae780784084]: Textual amendment: Words in [art. 51B(1)(b)(i)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/1/b/i) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(5)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/5); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-cf5c49146875be1a7a175ae780784084]: Textual amendment: Words in [art. 51B(1)(b)(i)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/1/b/i) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(5)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/5); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-5b487e71e8c0e4e8f8b3782e195d6fe0]: Textual amendment: Words in [art. 51B(2)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/2) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/4/b); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-5b487e71e8c0e4e8f8b3782e195d6fe0]: Textual amendment: Words in [art. 51B(2)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/2) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/4/b); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-28723e52333b8d6edb96517ed2d038cb]: Textual amendment: Word in [art. 51B(3)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/3) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(3)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/3); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-28723e52333b8d6edb96517ed2d038cb]: Textual amendment: Word in [art. 51B(3)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/3) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(3)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/3); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-f1e4b91dc49c8bdda4099fea4c88ff92]: Textual amendment: Words in [art. 51B(3)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/3) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(6)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/6/b); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-f1e4b91dc49c8bdda4099fea4c88ff92]: Textual amendment: Words in [art. 51B(3)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/3) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(6)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/6/b); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-29cda373f06d6be5fba4726c2457d6d5]: Textual amendment: Words in [art. 51B(4)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/4) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(4)(c)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/4/c); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-29cda373f06d6be5fba4726c2457d6d5]: Textual amendment: Words in [art. 51B(4)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/4) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(4)(c)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/4/c); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-f1e196af04fc909bede18f1e360cf502]: Textual amendment: Words in [art. 51B(4)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/4) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(6)(c)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/6/c); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-f1e196af04fc909bede18f1e360cf502]: Textual amendment: Words in [art. 51B(4)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/4) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(6)(c)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/6/c); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-a7342d482700db2f3f82fad65cda46b2]: Textual amendment: [Art. 51B(5)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/5) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(7)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/7); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-a7342d482700db2f3f82fad65cda46b2]: Textual amendment: [Art. 51B(5)](https://www.legislation.gov.uk/nisi/1989/1339/article/51B/5) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 4(7)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/4/7); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
 [^c16982371]: Textual amendment: [1891 c. 39](https://www.legislation.gov.uk/ukpga/1891/39)
 
@@ -1682,13 +1682,13 @@ is in the possession of a person entitled to a beneficial interest in the land o
 
 [^c20384151]: Textual amendment: Words in art. 72A(4) substituted (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/74/2), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 153(3)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/153/3); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a) (subject to [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
 
-[^key-fe31a61b22b066c470edbe658f09143f]: Textual amendment: [Art. 72A(4A)](https://www.legislation.gov.uk/nisi/1989/1339/article/72A/4A) inserted (27.4.2017 for specified purposes, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/5); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2021/724/regulation/4/c)
+[^c-fe31a61b22b066c470edbe658f09143f]: Textual amendment: [Art. 72A(4A)](https://www.legislation.gov.uk/nisi/1989/1339/article/72A/4A) inserted (27.4.2017 for specified purposes, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/5); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2021/724/regulation/4/c)
 
 [^c20384171]: Textual amendment: Art. 72A(8) inserted (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/74/2), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 153(4)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/153/4); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a) (subject to [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
 
-[^key-848eacdd7c215163fb6c360f952490d7]: Textual amendment: Art. 72A(8)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/37); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-848eacdd7c215163fb6c360f952490d7]: Textual amendment: Art. 72A(8)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/37); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-5250853decb609acd83bf4d85f5b1a7e]: Textual amendment: Art. 72AB inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2013/2604/article/5/2)
+[^c-5250853decb609acd83bf4d85f5b1a7e]: Textual amendment: Art. 72AB inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2013/2604/article/5/2)
 
 [^c21095821]: Textual amendment: Art. 72B inserted (1.1.2006) by [Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (S.I. 2005/3181)](https://www.legislation.gov.uk/uksi/2005/3181), [arts. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1), [201(3)](https://www.legislation.gov.uk/uksi/2005/3181/article/201/3)
 
@@ -1696,7 +1696,7 @@ is in the possession of a person entitled to a beneficial interest in the land o
 
 [^c21095871]: Textual amendment: Words in art. 72B(2) substituted (1.4.2008) by [Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2008/302/article/5/2)
 
-[^key-90b452f7d441e7c854260fbce360b779]: Textual amendment: [Art. 72B(3A)](https://www.legislation.gov.uk/nisi/1989/1339/article/72B/3A) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2013/2604/article/5/3)
+[^c-90b452f7d441e7c854260fbce360b779]: Textual amendment: [Art. 72B(3A)](https://www.legislation.gov.uk/nisi/1989/1339/article/72B/3A) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2013/2604/article/5/3)
 
 [^c21095891]: Textual amendment: Words in art. 72B(4) substituted (1.4.2008) by [Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2008/302/article/5/2)
 
@@ -1704,11 +1704,11 @@ is in the possession of a person entitled to a beneficial interest in the land o
 
 [^c21389701]: Textual amendment: Art. 72C inserted (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 171(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/171/2), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
 
-[^key-f7a7be1d641e5de49aac02f1664c62c2]: Modification: Art. 73 applied by 1998 c. 41, Sch. 8A para. 26(2) (as inserted (9.3.2017) by [The Claims in respect of Loss or Damage arising from Competition Infringements (Competition Act 1998 and Other Enactments (Amendment)) Regulations 2017 (S.I. 2017/385)](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/5)))
+[^c-f7a7be1d641e5de49aac02f1664c62c2]: Modification: Art. 73 applied by 1998 c. 41, Sch. 8A para. 26(2) (as inserted (9.3.2017) by [The Claims in respect of Loss or Damage arising from Competition Infringements (Competition Act 1998 and Other Enactments (Amendment)) Regulations 2017 (S.I. 2017/385)](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/5)))
 
-[^key-35b1291f5e1b4b992f69388ee39282c4]: Modification: Art. 73 applied (9.6.2018) by [The Trade Secrets (Enforcement, etc.) Regulations 2018 (S.I. 2018/597)](https://www.legislation.gov.uk/uksi/2018/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2018/597/regulation/9/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2018/597/regulation/19))
+[^c-35b1291f5e1b4b992f69388ee39282c4]: Modification: Art. 73 applied (9.6.2018) by [The Trade Secrets (Enforcement, etc.) Regulations 2018 (S.I. 2018/597)](https://www.legislation.gov.uk/uksi/2018/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2018/597/regulation/9/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2018/597/regulation/19))
 
-[^key-8009f9ab2c7f76dbf128f96e8bc0df16]: Textual amendment: [Art. 73A](https://www.legislation.gov.uk/nisi/1989/1339/article/73A) inserted (18.11.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(2)(b)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/b), [Sch. 13 para. 16](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/16) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-8009f9ab2c7f76dbf128f96e8bc0df16]: Textual amendment: [Art. 73A](https://www.legislation.gov.uk/nisi/1989/1339/article/73A) inserted (18.11.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(2)(b)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/b), [Sch. 13 para. 16](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/16) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
 
 [^c16982431]: Textual amendment: [1978 c. 47](https://www.legislation.gov.uk/ukpga/1978/47)
 

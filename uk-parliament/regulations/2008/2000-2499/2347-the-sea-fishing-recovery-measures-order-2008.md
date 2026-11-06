@@ -32,7 +32,7 @@ summary: ''
 
 Sea Fisheries, England And Wales
 
-The Sea Fishing (Recovery Measures) Order 2008 (revoked)[^key-704a91d47c357d06e157f8c58d816a01]
+The Sea Fishing (Recovery Measures) Order 2008 (revoked)[^c-704a91d47c357d06e157f8c58d816a01]
 
 Made
 
@@ -46,99 +46,99 @@ Coming into force
 
 30th September 2008
 
-[^key-704a91d47c357d06e157f8c58d816a01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-704a91d47c357d06e157f8c58d816a01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-704a91d47c357d06e157f8c58d816a01]
+## 1. Citation and commencement[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extent and application[^key-704a91d47c357d06e157f8c58d816a01]
+## 2. Extent and application[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-704a91d47c357d06e157f8c58d816a01]
+## 3. Interpretation[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Requirements to communicate effort reports etc. and to record and account for time[^key-704a91d47c357d06e157f8c58d816a01]
+## 4. Requirements to communicate effort reports etc. and to record and account for time[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Margin of tolerance in estimation of quantities reported in the logbook[^key-704a91d47c357d06e157f8c58d816a01]
+## 5. Margin of tolerance in estimation of quantities reported in the logbook[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Prior notification requirements and prohibition of certain transhipment[^key-704a91d47c357d06e157f8c58d816a01]
+## 6. Prior notification requirements and prohibition of certain transhipment[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Prohibition of retention on board of containers of mixed fish and requirement of separate stowage of fish[^key-704a91d47c357d06e157f8c58d816a01]
+## 7. Prohibition of retention on board of containers of mixed fish and requirement of separate stowage of fish[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Sampling and weighing regime[^key-704a91d47c357d06e157f8c58d816a01]
+## 8. Sampling and weighing regime[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Transport without required documentation[^key-704a91d47c357d06e157f8c58d816a01]
+## 9. Transport without required documentation[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Landing of fish in excess of two tonnes at designated ports[^key-704a91d47c357d06e157f8c58d816a01]
+## 10. Landing of fish in excess of two tonnes at designated ports[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Penalties[^key-704a91d47c357d06e157f8c58d816a01]
+## 11. Penalties[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Recovery of fines[^key-704a91d47c357d06e157f8c58d816a01]
+## 12. Recovery of fines[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Powers of British sea-fishery officers in relation to fishing boats[^key-704a91d47c357d06e157f8c58d816a01]
+## 13. Powers of British sea-fishery officers in relation to fishing boats[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Powers of British sea-fishery officers on land[^key-704a91d47c357d06e157f8c58d816a01]
+## 14. Powers of British sea-fishery officers on land[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Warrants to enter premises[^key-704a91d47c357d06e157f8c58d816a01]
+## 15. Warrants to enter premises[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Powers of British sea-fishery officers to seize fish[^key-704a91d47c357d06e157f8c58d816a01]
+## 16. Powers of British sea-fishery officers to seize fish[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Protection of officers[^key-704a91d47c357d06e157f8c58d816a01]
+## 17. Protection of officers[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Obstruction of officers[^key-704a91d47c357d06e157f8c58d816a01]
+## 18. Obstruction of officers[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Offences by corporate bodies[^key-704a91d47c357d06e157f8c58d816a01]
+## 19. Offences by corporate bodies[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Admissibility of documents in evidence[^key-704a91d47c357d06e157f8c58d816a01]
+## 20. Admissibility of documents in evidence[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Revocations[^key-704a91d47c357d06e157f8c58d816a01]
+## 21. Revocations[^c-704a91d47c357d06e157f8c58d816a01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-704a91d47c357d06e157f8c58d816a01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-704a91d47c357d06e157f8c58d816a01]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Designated Ports[^key-704a91d47c357d06e157f8c58d816a01]
+## SCHEDULE — Designated Ports[^c-704a91d47c357d06e157f8c58d816a01]
 
 Article 10(2)
 
@@ -146,7 +146,7 @@ Article 10(2)
 
 **No longer in force.**
 
-[^key-704a91d47c357d06e157f8c58d816a01]EXPLANATORY NOTE
+[^c-704a91d47c357d06e157f8c58d816a01]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -164,4 +164,4 @@ An impact assessment of the effect that this Order will have on the costs of bus
 
 ## Annotations
 
-[^key-704a91d47c357d06e157f8c58d816a01]: Textual amendment: Order revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-704a91d47c357d06e157f8c58d816a01]: Textual amendment: Order revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)

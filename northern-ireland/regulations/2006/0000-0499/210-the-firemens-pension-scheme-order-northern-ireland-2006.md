@@ -33,7 +33,7 @@ FIRE SERVICES
 
 SUPERANNUATION
 
-The Firemen’s Pension Scheme Order (Northern Ireland) 2006 (revoked)[^key-ed250b166af995a1b27f78fefdb84ce0]
+The Firemen’s Pension Scheme Order (Northern Ireland) 2006 (revoked)[^c-ed250b166af995a1b27f78fefdb84ce0]
 
 Made
 
@@ -43,30 +43,30 @@ Coming into force
 
 1st April 2006
 
-[^key-ed250b166af995a1b27f78fefdb84ce0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed250b166af995a1b27f78fefdb84ce0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation commencement and revocations[^key-ed250b166af995a1b27f78fefdb84ce0]
+## 1. Citation commencement and revocations[^c-ed250b166af995a1b27f78fefdb84ce0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Scheme[^key-ed250b166af995a1b27f78fefdb84ce0]
+## 2. The Scheme[^c-ed250b166af995a1b27f78fefdb84ce0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed250b166af995a1b27f78fefdb84ce0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed250b166af995a1b27f78fefdb84ce0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX 1 — The Firemen’s Pension Scheme (Northern Ireland) 2006[^key-ed250b166af995a1b27f78fefdb84ce0]
+## ANNEX 1 — The Firemen’s Pension Scheme (Northern Ireland) 2006[^c-ed250b166af995a1b27f78fefdb84ce0]
 
-**1.**[^key-ed250b166af995a1b27f78fefdb84ce0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ed250b166af995a1b27f78fefdb84ce0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ed250b166af995a1b27f78fefdb84ce0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed250b166af995a1b27f78fefdb84ce0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ed250b166af995a1b27f78fefdb84ce0]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/210) revoked (1.4.2006) by [The Firefighters’ Pension Scheme Order (Northern Ireland) 2007 (S.R. 2007/144)](https://www.legislation.gov.uk/nisr/2007/144), [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2), [Sch. 11 Pt. I](https://www.legislation.gov.uk/nisr/2007/144/schedule/11/part/I) (with [Sch. 10](https://www.legislation.gov.uk/nisr/2007/144/schedule/10))
+[^c-ed250b166af995a1b27f78fefdb84ce0]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/210) revoked (1.4.2006) by [The Firefighters’ Pension Scheme Order (Northern Ireland) 2007 (S.R. 2007/144)](https://www.legislation.gov.uk/nisr/2007/144), [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2), [Sch. 11 Pt. I](https://www.legislation.gov.uk/nisr/2007/144/schedule/11/part/I) (with [Sch. 10](https://www.legislation.gov.uk/nisr/2007/144/schedule/10))

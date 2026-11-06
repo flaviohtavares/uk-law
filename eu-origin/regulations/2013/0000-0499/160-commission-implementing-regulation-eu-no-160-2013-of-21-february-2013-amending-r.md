@@ -36,40 +36,40 @@ amending Regulations (EC) No 162/2003, (EC) No 971/2008, (EU) No 1118/2010 and (
 
 (Text with EEA relevance) (revoked)
 
-[^key-050d1475d5298fd98fd298abc26d256f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-050d1475d5298fd98fd298abc26d256f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendment to Regulation (EC) No 162/2003[^key-050d1475d5298fd98fd298abc26d256f]
+## Article 1. Amendment to Regulation (EC) No 162/2003[^c-050d1475d5298fd98fd298abc26d256f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendment to Regulation (EC) No 971/2008[^key-050d1475d5298fd98fd298abc26d256f]
+## Article 2. Amendment to Regulation (EC) No 971/2008[^c-050d1475d5298fd98fd298abc26d256f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment to Regulation (EU) No 1118/2010[^key-050d1475d5298fd98fd298abc26d256f]
+## Article 3. Amendment to Regulation (EU) No 1118/2010[^c-050d1475d5298fd98fd298abc26d256f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Amendment to Regulation (EU) No 169/2011[^key-050d1475d5298fd98fd298abc26d256f]
+## Article 4. Amendment to Regulation (EU) No 169/2011[^c-050d1475d5298fd98fd298abc26d256f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Amendment to Implementing Regulation (EU) No 888/2011[^key-050d1475d5298fd98fd298abc26d256f]
+## Article 5. Amendment to Implementing Regulation (EU) No 888/2011[^c-050d1475d5298fd98fd298abc26d256f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Transitional measure[^key-050d1475d5298fd98fd298abc26d256f]
+## Article 6. Transitional measure[^c-050d1475d5298fd98fd298abc26d256f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-050d1475d5298fd98fd298abc26d256f]
+## Article 7. Entry into force[^c-050d1475d5298fd98fd298abc26d256f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-050d1475d5298fd98fd298abc26d256f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-050d1475d5298fd98fd298abc26d256f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-050d1475d5298fd98fd298abc26d256f]: Textual amendment: Regulation revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 8 Pt. 1 para. 19](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/19)
+[^c-050d1475d5298fd98fd298abc26d256f]: Textual amendment: Regulation revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 8 Pt. 1 para. 19](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/19)

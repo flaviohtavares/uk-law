@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Power to continue provision of continuing care up to person’s 26th birthday[^key-fbf3785f7915ea767433ba68ae3613fe]
+## 23. Power to continue provision of continuing care up to person’s 26th birthday[^c-fbf3785f7915ea767433ba68ae3613fe]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbf3785f7915ea767433ba68ae3613fe]: Commencement: S. 23 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-fbf3785f7915ea767433ba68ae3613fe]: Commencement: S. 23 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

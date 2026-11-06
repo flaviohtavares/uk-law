@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Certain schemes providing money purchase benefits: scale and asset allocation[^key-dd4ae165ac099cf5a80d9a0f322b4784]
+## 40. Certain schemes providing money purchase benefits: scale and asset allocation[^c-dd4ae165ac099cf5a80d9a0f322b4784]
 
 *Extent: E+W+S*
 
@@ -617,4 +617,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd4ae165ac099cf5a80d9a0f322b4784]: Commencement: S. 40 in force at Royal Assent for specified purposes, see [s. 133(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)(i)
+[^c-dd4ae165ac099cf5a80d9a0f322b4784]: Commencement: S. 40 in force at Royal Assent for specified purposes, see [s. 133(4)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c)(i)

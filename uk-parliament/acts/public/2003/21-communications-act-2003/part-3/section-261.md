@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261. Renewal of radio multiplex licences[^key-9c0e48fec2d6164f56c969bc8c7f9970]
+## 261. Renewal of radio multiplex licences[^c-9c0e48fec2d6164f56c969bc8c7f9970]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In section 58(2) of the 1996 Act (renewal for twelve years of radio multiplex li
 
 ## Annotations
 
-[^key-9c0e48fec2d6164f56c969bc8c7f9970]: Commencement: S. 261 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-9c0e48fec2d6164f56c969bc8c7f9970]: Commencement: S. 261 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

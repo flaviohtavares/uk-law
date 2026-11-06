@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Remote observation and recording of court and tribunal proceedings[^key-9fe150a0b972d6cdd3a4bc7e57c34bca]
+## 198. Remote observation and recording of court and tribunal proceedings[^c-9fe150a0b972d6cdd3a4bc7e57c34bca]
 
 *Extent: E+W+S+N.I.*
 
@@ -101,4 +101,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fe150a0b972d6cdd3a4bc7e57c34bca]: Commencement: S. 198 in force at Royal Assent, see [s. 208(4)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/aa)
+[^c-9fe150a0b972d6cdd3a4bc7e57c34bca]: Commencement: S. 198 in force at Royal Assent, see [s. 208(4)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/aa)

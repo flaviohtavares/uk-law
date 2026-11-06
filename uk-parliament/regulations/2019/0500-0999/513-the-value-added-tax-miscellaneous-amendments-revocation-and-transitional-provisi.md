@@ -54,25 +54,25 @@ In accordance with section 52(2) of that Act, the Commissioners and the Treasury
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-23575b7135c4f5db3f3a6c9d51ceea20][^key-401048d7c1179de4faeee8f294819009]
+### 1. Citation and commencement[^c-23575b7135c4f5db3f3a6c9d51ceea20][^c-401048d7c1179de4faeee8f294819009]
 
 These Regulations may be cited as the Value Added Tax (Miscellaneous Amendments, Revocation and Transitional Provisions) (EU Exit) Regulations 2019 and come into force on such day or days as the Treasury may by regulations under section 52 of the Taxation (Cross-border Trade) Act 2018 appoint.
 
 ## PART 2 — Amendment of secondary legislation relating to value added tax and transitional provisions
 
-### 2. Amendment of the Value Added Tax Regulations 1995[^key-f95a564834209e77d41c04616cfedc72][^key-396648e2c73d06aea64da56969fbee26][^key-369a9c1970bd107fabcb3bfdeed91c2f]
+### 2. Amendment of the Value Added Tax Regulations 1995[^c-f95a564834209e77d41c04616cfedc72][^c-396648e2c73d06aea64da56969fbee26][^c-369a9c1970bd107fabcb3bfdeed91c2f]
 
 The Value Added Tax Regulations 1995 [^c23626671] are amended as follows.
 
-### 3.[^key-632b9a57551ba34e32a5b75de01f0b0f]
+### 3.[^c-632b9a57551ba34e32a5b75de01f0b0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4.[^key-f929ce5b546b7f946192b55564097683]
+### 4.[^c-f929ce5b546b7f946192b55564097683]
 
-(1)[^key-b23d5f28d83bd37bebdf8ee0b643e424] Part 14 (input tax and partial exemption) is amended as follows.
+(1)[^c-b23d5f28d83bd37bebdf8ee0b643e424] Part 14 (input tax and partial exemption) is amended as follows.
 
-(2)[^key-b23d5f28d83bd37bebdf8ee0b643e424] In regulation 102 (use of other methods) [^c23626691], after paragraph (2) insert—
+(2)[^c-b23d5f28d83bd37bebdf8ee0b643e424] In regulation 102 (use of other methods) [^c23626691], after paragraph (2) insert—
 
 > (2A) Notwithstanding any provision of any method approved or directed to be used under this regulation which purports to have the contrary effect, where the method attributes input tax to exempt supplies specified by the Treasury in an order made under section 26(2)(c) of the Act, no attribution is to be made in relation to any supplies that are made within the United Kingdom unless–
 >
@@ -81,9 +81,9 @@ The Value Added Tax Regulations 1995 [^c23626671] are amended as follows.
 
 .
 
-(3)[^key-52a5b66c18526626ff2626c86bc8e1eb] In regulation 103B (attribution of input tax incurred on services and related goods used to make financial supplies) [^c23626701], in paragraph (3)(a), for “another” substitute “ a ”.
+(3)[^c-52a5b66c18526626ff2626c86bc8e1eb] In regulation 103B (attribution of input tax incurred on services and related goods used to make financial supplies) [^c23626701], in paragraph (3)(a), for “another” substitute “ a ”.
 
-### 5.[^key-b6c4c53e07403dc80627d69d95cb6126][^key-8ff210d091af32d23e719a454e927980]
+### 5.[^c-b6c4c53e07403dc80627d69d95cb6126][^c-8ff210d091af32d23e719a454e927980]
 
 (1) Part 16 (importations, exportations and removals) [^c23626711] is amended as follows.
 
@@ -97,9 +97,9 @@ The Value Added Tax Regulations 1995 [^c23626671] are amended as follows.
 - (a) in paragraph (c)—
   - (i) omit sub-paragraph (i);
   - (ii) omit sub-paragraph (ii);
-- (b)[^key-2ea3392fd30dc4095ca4ed514360f769] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-2ea3392fd30dc4095ca4ed514360f769] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-b34437460f330e506e85835d8140bb93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b34437460f330e506e85835d8140bb93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Omit regulation 120 (community legislation excepted).
 
@@ -140,21 +140,21 @@ The Value Added Tax Regulations 1995 [^c23626671] are amended as follows.
 
 (15) Omit regulations 134 to 145.
 
-### 6. Transitional provisions in relation to the Value Added Tax Regulations 1995[^key-3f6b04a1514bdabae95180dd596cefc4]
+### 6. Transitional provisions in relation to the Value Added Tax Regulations 1995[^c-3f6b04a1514bdabae95180dd596cefc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of the Value Added Tax (Relief for European Research Infrastructure Consortia) Order 2012[^key-ec9e8cbf0d91b13e891ed958a9e769fa]
+### 7. Amendment of the Value Added Tax (Relief for European Research Infrastructure Consortia) Order 2012[^c-ec9e8cbf0d91b13e891ed958a9e769fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment of the Value Added Tax (Postal Packets and Amendment) (EU Exit) Regulations 2018[^key-c990f94d210f4ea22f1f6bdb802f7cf0]
+### 8. Amendment of the Value Added Tax (Postal Packets and Amendment) (EU Exit) Regulations 2018[^c-c990f94d210f4ea22f1f6bdb802f7cf0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. General transitional provision in relation to value added tax and power to make further provision[^key-97e14c9c1e346120cb57d3be5fd12f43][^key-f14d5b74318b46e5142011c7ebd866ab]
+### 9. General transitional provision in relation to value added tax and power to make further provision[^c-97e14c9c1e346120cb57d3be5fd12f43][^c-f14d5b74318b46e5142011c7ebd866ab]
 
-(1) The amendments made in relation to value added tax by any regulations made by the appropriate Minister under the Taxation (Cross-border Trade) Act 2018, or by statutory instrument under any other enactment in consequence of, or otherwise in connection with, the United Kingdom's withdrawal from the EU, do not have effect in relation to supplies made, and acquisitions taking place, before IP completion day[^key-6a0f6aaa48104e73a37d7494867dd8ca].
+(1) The amendments made in relation to value added tax by any regulations made by the appropriate Minister under the Taxation (Cross-border Trade) Act 2018, or by statutory instrument under any other enactment in consequence of, or otherwise in connection with, the United Kingdom's withdrawal from the EU, do not have effect in relation to supplies made, and acquisitions taking place, before IP completion day[^c-6a0f6aaa48104e73a37d7494867dd8ca].
 
 (2) In determining for the purposes of this regulation the time when a supply or acquisition of goods is made ignore sections 18(4)(a) and 18B(4) of the Value Added Tax Act 1994 [^c23626771].
 
@@ -172,41 +172,41 @@ The Value Added Tax Regulations 1995 [^c23626671] are amended as follows.
 - (b) the payment is to that extent to be taken for the purposes of paragraph (3) to relate to a time before IP completion day, and
 - (c) the remainder, if any, of the payment is to be taken for the purposes of paragraph (3) to relate to times on or after IP completion day.
 
-### 10.[^key-4fad1e4005bf604ce8d827b4d814fa6d][^key-017adca1cc7b7b65b3786cf75a69bd1c][^key-84203c2d2b965afcae7765a8eb3aa343]
+### 10.[^c-4fad1e4005bf604ce8d827b4d814fa6d][^c-017adca1cc7b7b65b3786cf75a69bd1c][^c-84203c2d2b965afcae7765a8eb3aa343]
 
 The amendments made in relation to value added tax by any regulations made by the appropriate Minister under the Taxation (Cross-border Trade) Act 2018, or by statutory instrument under any other enactment in consequence of, or otherwise in connection with, the United Kingdom's withdrawal from the EU, do not have effect in relation to a supply of goods dispatched or transported from the territory of the United Kingdom to the territory of a member State of the EU, or vice versa, provided that the dispatch or transport started before IP completion day and ended thereafter.
 
-### 11.[^key-c1384874f49c5ea0474d203e5ebfc205][^key-3414dc00fa0138724bfcbe1cc54b2711]
+### 11.[^c-c1384874f49c5ea0474d203e5ebfc205][^c-3414dc00fa0138724bfcbe1cc54b2711]
 
 Her Majesty's Revenue and Customs [^c23626791] may make additional provision to deal with specific transitional issues that arise as a result of the amendments made in relation to value added tax by any regulations made by the appropriate Minister under the Taxation (Cross-border Trade) Act 2018, or under any other enactment in consequence of, or otherwise in connection with, the United Kingdom's withdrawal from the EU, in a public notice published by them.
 
-## PART 3 — Amendment of the Fulfilment Businesses Regulations 2018 and transitional provisions for legislation relating to fulfilment businesses[^key-4b6978aea52d25ffee7157bce57171e7]
+## PART 3 — Amendment of the Fulfilment Businesses Regulations 2018 and transitional provisions for legislation relating to fulfilment businesses[^c-4b6978aea52d25ffee7157bce57171e7]
 
 **No longer in force.**
 
-### 12. Amendment of the Fulfilment Businesses Regulations 2018[^key-4b6978aea52d25ffee7157bce57171e7]
+### 12. Amendment of the Fulfilment Businesses Regulations 2018[^c-4b6978aea52d25ffee7157bce57171e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Transitional provision in relation to regulation 4 of the Fulfilment Businesses Regulations 2018[^key-4b6978aea52d25ffee7157bce57171e7]
+### 13. Transitional provision in relation to regulation 4 of the Fulfilment Businesses Regulations 2018[^c-4b6978aea52d25ffee7157bce57171e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Transitional provision in relation to sections 53 to 55 of, and Schedule 13 to, the Finance (No. 2) Act 2017[^key-4b6978aea52d25ffee7157bce57171e7]
+### 14. Transitional provision in relation to sections 53 to 55 of, and Schedule 13 to, the Finance (No. 2) Act 2017[^c-4b6978aea52d25ffee7157bce57171e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Administrative provision for the purposes of import VAT: transitional authorised declarants and supplementary customs declarations[^key-50edf7ea8b564badb240137cb1fae718]
+## PART 4 — Administrative provision for the purposes of import VAT: transitional authorised declarants and supplementary customs declarations[^c-50edf7ea8b564badb240137cb1fae718]
 
 **No longer in force.**
 
-### 15.[^key-50edf7ea8b564badb240137cb1fae718]
+### 15.[^c-50edf7ea8b564badb240137cb1fae718]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Revocation
 
-### 16.[^key-8c19612d9a7f901372d32adf29da4ee7][^key-3689524e4a660d9948c1c2c6c882b1b0]
+### 16.[^c-8c19612d9a7f901372d32adf29da4ee7][^c-3689524e4a660d9948c1c2c6c882b1b0]
 
 The Value Added Tax (Special Accounting Schemes) (Supplies of Electronic, Telecommunication and Broadcasting Services) Order 2018 [^c23626851] is revoked, so far as not already revoked.
 
@@ -262,74 +262,74 @@ This instrument will be covered by an overarching HMRC impact assessment (third 
 
 [^c23626661]: Marginal citation: [Section 51(1)(a)](https://www.legislation.gov.uk/uksi/2019/513/section/51/1/a) of the Taxation (Cross-border Trade) Act 2018 permits “the appropriate Minister” to make such provision relating to value added tax as the appropriate Minister considers appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU and under section 51(4)(b) “**the appropriate Minister**” means the Treasury. Section 56(1) and (4) of the Act permits “the appropriate Minister” to make such provision as the appropriate Minister considers appropriate in consequence of the Act, and to make such transitional, transitory or saving provision as “the appropriate Minister” considers appropriate in connection with the coming into force of any provision of the Act, and under section 56(5) “**the appropriate Minister**” means the Treasury.
 
-[^key-23575b7135c4f5db3f3a6c9d51ceea20]: Commencement: Reg. 1 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/513/regulation/1)
+[^c-23575b7135c4f5db3f3a6c9d51ceea20]: Commencement: Reg. 1 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/513/regulation/1)
 
-[^key-401048d7c1179de4faeee8f294819009]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/513/regulation/1) in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-401048d7c1179de4faeee8f294819009]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/513/regulation/1) in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-f95a564834209e77d41c04616cfedc72]: Commencement: Reg. 2 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/513/regulation/1)
+[^c-f95a564834209e77d41c04616cfedc72]: Commencement: Reg. 2 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/513/regulation/1)
 
-[^key-396648e2c73d06aea64da56969fbee26]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/513/regulation/2) in force at 31.1.2020 for specified purposes by [S.I. 2020/87](https://www.legislation.gov.uk/uksi/2020/87), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2020/87/regulation/2/b), [3](https://www.legislation.gov.uk/uksi/2020/87/regulation/3)
+[^c-396648e2c73d06aea64da56969fbee26]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/513/regulation/2) in force at 31.1.2020 for specified purposes by [S.I. 2020/87](https://www.legislation.gov.uk/uksi/2020/87), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2020/87/regulation/2/b), [3](https://www.legislation.gov.uk/uksi/2020/87/regulation/3)
 
-[^key-369a9c1970bd107fabcb3bfdeed91c2f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/513/regulation/2) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-369a9c1970bd107fabcb3bfdeed91c2f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/513/regulation/2) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c23626671]: Marginal citation: [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518); see footnotes below for relevant amending instruments.
 
-[^key-632b9a57551ba34e32a5b75de01f0b0f]: Textual amendment: Reg. 3 omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [107(2)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/107/2) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-632b9a57551ba34e32a5b75de01f0b0f]: Textual amendment: Reg. 3 omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [107(2)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/107/2) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-f929ce5b546b7f946192b55564097683]: Commencement: Reg. 4 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/513/regulation/1)
+[^c-f929ce5b546b7f946192b55564097683]: Commencement: Reg. 4 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/513/regulation/1)
 
-[^key-b23d5f28d83bd37bebdf8ee0b643e424]: Commencement: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2019/513/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2019/513/regulation/4/2) in force at 31.1.2020 by [S.I. 2020/87](https://www.legislation.gov.uk/uksi/2020/87), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2020/87/regulation/2/a), [3](https://www.legislation.gov.uk/uksi/2020/87/regulation/3)
+[^c-b23d5f28d83bd37bebdf8ee0b643e424]: Commencement: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2019/513/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2019/513/regulation/4/2) in force at 31.1.2020 by [S.I. 2020/87](https://www.legislation.gov.uk/uksi/2020/87), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2020/87/regulation/2/a), [3](https://www.legislation.gov.uk/uksi/2020/87/regulation/3)
 
 [^c23626691]: Marginal citation: [Regulation 102](https://www.legislation.gov.uk/uksi/2019/513/regulation/102) was amended by [S.I. 2005/762](https://www.legislation.gov.uk/uksi/2005/762), 2007/768, 2009/820, 2010/559 and 2015/1978.
 
-[^key-52a5b66c18526626ff2626c86bc8e1eb]: Commencement: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2019/513/regulation/4/3) in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-52a5b66c18526626ff2626c86bc8e1eb]: Commencement: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2019/513/regulation/4/3) in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c23626701]: Marginal citation: [Regulation 103B](https://www.legislation.gov.uk/uksi/2019/513/regulation/103B) was amended by [S.I. 2004/3140](https://www.legislation.gov.uk/uksi/2004/3140) and 2009/820.
 
-[^key-b6c4c53e07403dc80627d69d95cb6126]: Commencement: Reg. 5 not in force at made date, see reg. 1
+[^c-b6c4c53e07403dc80627d69d95cb6126]: Commencement: Reg. 5 not in force at made date, see reg. 1
 
-[^key-8ff210d091af32d23e719a454e927980]: Commencement: Reg. 5 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-8ff210d091af32d23e719a454e927980]: Commencement: Reg. 5 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c23626711]: Marginal citation: Part 16 was amended by [S.I. 1995/3147](https://www.legislation.gov.uk/uksi/1995/3147), 1996/210, 1999/438, 2000/258, 2000/634, 2001/630, 2003/1485, 2003/2318, 2004/1082, 2006/587, 2006/3292, 2011/1043, 2013/2241, 2013/3211 and 2019/60. The amendments made by [S.I. 2019/60](https://www.legislation.gov.uk/uksi/2019/60) are not yet in force.
 
-[^key-2ea3392fd30dc4095ca4ed514360f769]: Textual amendment: Reg. 5(3)(b) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [107(2)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/107/2) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-2ea3392fd30dc4095ca4ed514360f769]: Textual amendment: Reg. 5(3)(b) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [107(2)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/107/2) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-b34437460f330e506e85835d8140bb93]: Textual amendment: Reg. 5(4) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [107(2)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/107/2) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-b34437460f330e506e85835d8140bb93]: Textual amendment: Reg. 5(4) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [107(2)](https://www.legislation.gov.uk/uksi/2020/1545/regulation/107/2) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c23626721]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248), amended by [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326) and 2019/486.
 
-[^key-3f6b04a1514bdabae95180dd596cefc4]: Textual amendment: Reg. 6 omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Transitional Provisions) (EU Exit) Regulations 2019 (S.I. 2019/1214)](https://www.legislation.gov.uk/uksi/2019/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1214/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/1214/regulation/3/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-3f6b04a1514bdabae95180dd596cefc4]: Textual amendment: Reg. 6 omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Transitional Provisions) (EU Exit) Regulations 2019 (S.I. 2019/1214)](https://www.legislation.gov.uk/uksi/2019/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1214/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/1214/regulation/3/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-ec9e8cbf0d91b13e891ed958a9e769fa]: Textual amendment: Reg. 7 omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/13) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-ec9e8cbf0d91b13e891ed958a9e769fa]: Textual amendment: Reg. 7 omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/13) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-c990f94d210f4ea22f1f6bdb802f7cf0]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/513/regulation/8) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/22/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-c990f94d210f4ea22f1f6bdb802f7cf0]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/513/regulation/8) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/22/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-97e14c9c1e346120cb57d3be5fd12f43]: Commencement: Reg. 9 not in force at made date, see reg. 1
+[^c-97e14c9c1e346120cb57d3be5fd12f43]: Commencement: Reg. 9 not in force at made date, see reg. 1
 
-[^key-f14d5b74318b46e5142011c7ebd866ab]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-f14d5b74318b46e5142011c7ebd866ab]: Commencement: Reg. 9 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-6a0f6aaa48104e73a37d7494867dd8ca]: Textual amendment: Words in reg. 9 substituted (31.12.2020) by [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/22/3); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-6a0f6aaa48104e73a37d7494867dd8ca]: Textual amendment: Words in reg. 9 substituted (31.12.2020) by [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/22/3); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c23626771]: Marginal citation: Section 18B was inserted by paragraph 5 of Schedule 3 to the [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8). Sections 18(4)(a) and 18B(4) were amended by paragraphs 16 and 18 of Schedule 8 to the [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22). Under section 57(3) of that Act those amendments will come into force on such day as the Treasury may by regulations appoint. No such regulations have been made at the time these Regulations are made.
 
-[^key-4fad1e4005bf604ce8d827b4d814fa6d]: Commencement: Reg. 10 not in force at made date, see reg. 1
+[^c-4fad1e4005bf604ce8d827b4d814fa6d]: Commencement: Reg. 10 not in force at made date, see reg. 1
 
-[^key-017adca1cc7b7b65b3786cf75a69bd1c]: Commencement: Reg. 10 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-017adca1cc7b7b65b3786cf75a69bd1c]: Commencement: Reg. 10 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-84203c2d2b965afcae7765a8eb3aa343]: Textual amendment: Reg. 10 substituted (31.12.2020) by [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [22(4)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/22/4); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-84203c2d2b965afcae7765a8eb3aa343]: Textual amendment: Reg. 10 substituted (31.12.2020) by [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [22(4)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/22/4); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-c1384874f49c5ea0474d203e5ebfc205]: Commencement: Reg. 11 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/513/regulation/1)
+[^c-c1384874f49c5ea0474d203e5ebfc205]: Commencement: Reg. 11 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/513/regulation/1)
 
-[^key-3414dc00fa0138724bfcbe1cc54b2711]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/513/regulation/11) in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-3414dc00fa0138724bfcbe1cc54b2711]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/513/regulation/11) in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c23626791]: Marginal citation: [Schedule 1](https://www.legislation.gov.uk/uksi/2019/513/schedule/1) to the [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) provides that “**Her Majesty's Revenue and Customs**” has the meaning given by section 4 of the [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11).
 
-[^key-4b6978aea52d25ffee7157bce57171e7]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2019/513/part/3) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Transitional Provisions) (EU Exit) Regulations 2019 (S.I. 2019/1214)](https://www.legislation.gov.uk/uksi/2019/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1214/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/1214/regulation/3/3); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-4b6978aea52d25ffee7157bce57171e7]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2019/513/part/3) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Transitional Provisions) (EU Exit) Regulations 2019 (S.I. 2019/1214)](https://www.legislation.gov.uk/uksi/2019/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1214/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/1214/regulation/3/3); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-50edf7ea8b564badb240137cb1fae718]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2019/513/part/4) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [22(5)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/22/5); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-50edf7ea8b564badb240137cb1fae718]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2019/513/part/4) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous and Transitional Provisions, Amendment and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1495)](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [22(5)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/22/5); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-8c19612d9a7f901372d32adf29da4ee7]: Commencement: Reg. 16 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/513/regulation/1)
+[^c-8c19612d9a7f901372d32adf29da4ee7]: Commencement: Reg. 16 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/513/regulation/1)
 
-[^key-3689524e4a660d9948c1c2c6c882b1b0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2019/513/regulation/16) in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-3689524e4a660d9948c1c2c6c882b1b0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2019/513/regulation/16) in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c23626851]: Marginal citation: [S.I. 2018/1197](https://www.legislation.gov.uk/uksi/2018/1197).

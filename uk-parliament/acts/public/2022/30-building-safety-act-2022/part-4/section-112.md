@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Implied terms in leases and recovery of safety related costs[^key-72dea5658ec01af041592bbb0dc9ac80]
+## 112. Implied terms in leases and recovery of safety related costs[^c-72dea5658ec01af041592bbb0dc9ac80]
 
 *Extent: E+W*
 
-(1)[^key-0c05d81683b4a6e139cc31a171570e95] The Landlord and Tenant Act 1985 is amended in accordance with subsections (2) to (6).
+(1)[^c-0c05d81683b4a6e139cc31a171570e95] The Landlord and Tenant Act 1985 is amended in accordance with subsections (2) to (6).
 
-(2)[^key-f322c9520bd955a1655f241a9acfd816] After section 30B insert—
+(2)[^c-f322c9520bd955a1655f241a9acfd816] After section 30B insert—
 
 > **Higher-risk buildings in England**
 >
@@ -186,7 +186,7 @@ summary: ''
 > - “**special measures manager**” has the meaning given in paragraph 1 of Schedule 7 to the Building Safety Act 2022;
 > - “**special measures order**” has the meaning given in paragraph 1 of Schedule 7 to that Act.
 
-(3)[^key-11b597e716d9b7f48bf681771838878e] After section 20E (inserted by section 133) insert—
+(3)[^c-11b597e716d9b7f48bf681771838878e] After section 20E (inserted by section 133) insert—
 
 > **20F. Limitation of service charges: excluded costs for higher-risk buildings**
 >
@@ -222,11 +222,11 @@ summary: ''
 >
 > (7) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(4)[^key-150b3c819cc8bc8e3a9fc88a4be9f80f] In section 21 (service charge information) after subsection (6) insert—
+(4)[^c-150b3c819cc8bc8e3a9fc88a4be9f80f] In section 21 (service charge information) after subsection (6) insert—
 
 > (6A) In particular, regulations which make provision about higher-risk buildings (within the meaning of Part 4 of the Building Safety Act 2022) need not contain provision of a kind mentioned in subsection (2) or (3).
 
-(5)[^key-150b3c819cc8bc8e3a9fc88a4be9f80f] In section 30 (meaning of “**landlord**” and “**tenant**”)—
+(5)[^c-150b3c819cc8bc8e3a9fc88a4be9f80f] In section 30 (meaning of “**landlord**” and “**tenant**”)—
 
 - (a) after the definition of “landlord” insert—
 
@@ -235,7 +235,7 @@ summary: ''
   ;
 - (b) in the heading for ““flat”, “landlord” and “tenant”” substitute ““landlord”, “tenant” etc”.
 
-(6)[^key-46bfca9c42dd026b4575fc854a7c8c75] In section 32(1) (business tenancies), after the entry relating to section 17 insert—
+(6)[^c-46bfca9c42dd026b4575fc854a7c8c75] In section 32(1) (business tenancies), after the entry relating to section 17 insert—
 
 > - section 30C (implied terms relation to building safety),
 > - section 30D (building safety costs),
@@ -248,14 +248,14 @@ summary: ''
 
 ## Annotations
 
-[^key-72dea5658ec01af041592bbb0dc9ac80]: Commencement: S. 112 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-72dea5658ec01af041592bbb0dc9ac80]: Commencement: S. 112 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-0c05d81683b4a6e139cc31a171570e95]: Commencement: [S. 112(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/1) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(i)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/i)
+[^c-0c05d81683b4a6e139cc31a171570e95]: Commencement: [S. 112(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/1) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(i)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/i)
 
-[^key-f322c9520bd955a1655f241a9acfd816]: Commencement: [S. 112(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/2) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(ii)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/ii)
+[^c-f322c9520bd955a1655f241a9acfd816]: Commencement: [S. 112(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/2) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(ii)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/ii)
 
-[^key-11b597e716d9b7f48bf681771838878e]: Commencement: [S. 112(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/3) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(iii)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/iii)
+[^c-11b597e716d9b7f48bf681771838878e]: Commencement: [S. 112(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/3) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(iii)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/iii)
 
-[^key-150b3c819cc8bc8e3a9fc88a4be9f80f]: Commencement: [S. 112(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/4)[(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/5) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(iv)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/iv)
+[^c-150b3c819cc8bc8e3a9fc88a4be9f80f]: Commencement: [S. 112(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/4)[(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/5) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(iv)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/iv)
 
-[^key-46bfca9c42dd026b4575fc854a7c8c75]: Commencement: [S. 112(6)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/6) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(v)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/v)
+[^c-46bfca9c42dd026b4575fc854a7c8c75]: Commencement: [S. 112(6)](https://www.legislation.gov.uk/ukpga/2022/30/section/112/6) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z10)(v)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z10/v)

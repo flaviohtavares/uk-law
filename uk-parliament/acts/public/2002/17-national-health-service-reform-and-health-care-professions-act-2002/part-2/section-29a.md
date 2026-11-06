@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29A. References under section 29: role of the General Medical Council[^key-ad9cb6a7100f39d3fc2a1bd743eb06c9]
+## 29A. References under section 29: role of the General Medical Council[^c-ad9cb6a7100f39d3fc2a1bd743eb06c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad9cb6a7100f39d3fc2a1bd743eb06c9]: Textual amendment: S. 29A inserted (31.12.2015) by [The General Medical Council (Fitness to Practise and Over-arching Objective) and the Professional Standards Authority for Health and Social Care (References to Court) Order 2015 (S.I. 2015/794)](https://www.legislation.gov.uk/uksi/2015/794), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3), [18(9)](https://www.legislation.gov.uk/uksi/2015/794/article/18/9); [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/1952/schedule/paragraph/3))
+[^c-ad9cb6a7100f39d3fc2a1bd743eb06c9]: Textual amendment: S. 29A inserted (31.12.2015) by [The General Medical Council (Fitness to Practise and Over-arching Objective) and the Professional Standards Authority for Health and Social Care (References to Court) Order 2015 (S.I. 2015/794)](https://www.legislation.gov.uk/uksi/2015/794), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3), [18(9)](https://www.legislation.gov.uk/uksi/2015/794/article/18/9); [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(l)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/l) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/1952/schedule/paragraph/3))

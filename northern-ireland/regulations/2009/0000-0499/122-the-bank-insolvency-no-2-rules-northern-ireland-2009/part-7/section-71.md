@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Discounts[^key-e937b574edef1bf56921045332a36eee]
+## 71. Discounts[^c-e937b574edef1bf56921045332a36eee]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.095 of the 1991 Rules.
 
 ## Annotations
 
-[^key-e937b574edef1bf56921045332a36eee]: Commencement: Rule 71 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-e937b574edef1bf56921045332a36eee]: Commencement: Rule 71 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

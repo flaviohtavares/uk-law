@@ -31,7 +31,7 @@ summary: ''
 
 REGISTERED HOMES AND SOCIAL CARE WORKERS
 
-The Social Care Tribunals Rules (Northern Ireland) 2003 (revoked)[^key-d4c420cb131c2f1bede03b07b8652b52]
+The Social Care Tribunals Rules (Northern Ireland) 2003 (revoked)[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 Made
 
@@ -41,88 +41,88 @@ Coming into operation
 
 1st April 2003
 
-[^key-d4c420cb131c2f1bede03b07b8652b52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4c420cb131c2f1bede03b07b8652b52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-d4c420cb131c2f1bede03b07b8652b52]
+## 1. Citation, commencement and interpretation[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Address for Service[^key-d4c420cb131c2f1bede03b07b8652b52]
+## 2. Address for Service[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Appointment of tribunal[^key-d4c420cb131c2f1bede03b07b8652b52]
+## 3. Appointment of tribunal[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Notice of hearing etc.[^key-d4c420cb131c2f1bede03b07b8652b52]
+## 4. Notice of hearing etc.[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Representation[^key-d4c420cb131c2f1bede03b07b8652b52]
+## 5. Representation[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Proceedings in public[^key-d4c420cb131c2f1bede03b07b8652b52]
+## 6. Proceedings in public[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Adjournment of hearing[^key-d4c420cb131c2f1bede03b07b8652b52]
+## 7. Adjournment of hearing[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Procedure at hearing[^key-d4c420cb131c2f1bede03b07b8652b52]
+## 8. Procedure at hearing[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Evidence[^key-d4c420cb131c2f1bede03b07b8652b52]
+## 9. Evidence[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Decisions[^key-d4c420cb131c2f1bede03b07b8652b52]
+## 10. Decisions[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Withdrawal of appeal[^key-d4c420cb131c2f1bede03b07b8652b52]
+## 11. Withdrawal of appeal[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Multiple appeals[^key-d4c420cb131c2f1bede03b07b8652b52]
+## 12. Multiple appeals[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Extension of time limits[^key-d4c420cb131c2f1bede03b07b8652b52]
+## 13. Extension of time limits[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. General[^key-d4c420cb131c2f1bede03b07b8652b52]
+## 14. General[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Revocation[^key-d4c420cb131c2f1bede03b07b8652b52]
+## 15. Revocation[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4c420cb131c2f1bede03b07b8652b52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4c420cb131c2f1bede03b07b8652b52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — NOTIFICATION OF HEARING OF APPEAL[^key-d4c420cb131c2f1bede03b07b8652b52]
+## SCHEDULE 1 — NOTIFICATION OF HEARING OF APPEAL[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 Rule 4(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — NOTIFICATION OF HEARING OF APPEAL[^key-d4c420cb131c2f1bede03b07b8652b52]
+## SCHEDULE 2 — NOTIFICATION OF HEARING OF APPEAL[^c-d4c420cb131c2f1bede03b07b8652b52]
 
 Rule 4(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4c420cb131c2f1bede03b07b8652b52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4c420cb131c2f1bede03b07b8652b52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d4c420cb131c2f1bede03b07b8652b52]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2003/138) revoked (1.4.2005) by [The Care Tribunal Regulations (Northern Ireland) 2005 (S.R. 2005/178)](https://www.legislation.gov.uk/nisr/2005/178), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1), [37(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/37/1) (with [reg. 37(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/37/2)[(3)](https://www.legislation.gov.uk/nisr/2005/178/regulation/37/3))
+[^c-d4c420cb131c2f1bede03b07b8652b52]: Textual amendment: [Rules](https://www.legislation.gov.uk/nisr/2003/138) revoked (1.4.2005) by [The Care Tribunal Regulations (Northern Ireland) 2005 (S.R. 2005/178)](https://www.legislation.gov.uk/nisr/2005/178), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/1/1), [37(1)](https://www.legislation.gov.uk/nisr/2005/178/regulation/37/1) (with [reg. 37(2)](https://www.legislation.gov.uk/nisr/2005/178/regulation/37/2)[(3)](https://www.legislation.gov.uk/nisr/2005/178/regulation/37/3))

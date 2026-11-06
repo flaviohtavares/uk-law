@@ -32,7 +32,7 @@ summary: ''
 
 (3)[^c4789621] A Board shall not without the consent of the Minister construct any pipe-line unless the pipe-line is required for the purposes of the business of the Board other than the operation of pipe-lines.
 
-(3A)[^key-4d573fdb8ad58a25ba74cdf57f81eacf] In the application of this section to the British Waterways Board—
+(3A)[^c-4d573fdb8ad58a25ba74cdf57f81eacf] In the application of this section to the British Waterways Board—
 
 - (a) references to Great Britain are to be read as references to Scotland,
 - (b) references to the Minister are to be read as references to the Scottish Ministers, and
@@ -50,4 +50,4 @@ summary: ''
 
 [^c4789621]: Modification: S. 12(3) restricted (E.W.S.) (1.1.1993) by [S.I. 1992/3060](https://www.legislation.gov.uk/uksi/1992/3060), [reg. 4(2)](https://www.legislation.gov.uk/uksi/1992/3060/regulation/4/2)
 
-[^key-4d573fdb8ad58a25ba74cdf57f81eacf]: Textual amendment: S. 12(3A) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/5) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-4d573fdb8ad58a25ba74cdf57f81eacf]: Textual amendment: S. 12(3A) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/5) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))

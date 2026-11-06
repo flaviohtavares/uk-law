@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Regulations about the holding and handling of information[^key-459bb6ac95df0b48801b09271eec16fc][^key-9341222878abefd3857ca2fd1513c471]
+## 34. Regulations about the holding and handling of information[^c-459bb6ac95df0b48801b09271eec16fc][^c-9341222878abefd3857ca2fd1513c471]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-459bb6ac95df0b48801b09271eec16fc]: Commencement: S. 34 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-459bb6ac95df0b48801b09271eec16fc]: Commencement: S. 34 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-9341222878abefd3857ca2fd1513c471]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/41/section/34) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/e)
+[^c-9341222878abefd3857ca2fd1513c471]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/41/section/34) in force at 1.12.2023 by [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/e)

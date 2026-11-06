@@ -24,7 +24,7 @@ Section 67(9).
 
 ### Appeals to a court of summary jurisdiction
 
-**1.**[^key-0f6f2772b04d5f3e4122271669f31c75][^key-8450acf6ed0a7d8e0b1def5ee98609c6] (1) This paragraph applies in relation to appeals under section 65(8) against an abatement notice to a court of summary jurisdiction.
+**1.**[^c-0f6f2772b04d5f3e4122271669f31c75][^c-8450acf6ed0a7d8e0b1def5ee98609c6] (1) This paragraph applies in relation to appeals under section 65(8) against an abatement notice to a court of summary jurisdiction.
 
 (2) Part 7 of the Magistrates' Courts (Northern Ireland) Order 1981 (NI 26) shall apply to such appeals.
 
@@ -38,7 +38,7 @@ Section 67(9).
 
 ### Powers of entry etc.
 
-**2.**[^key-5413b81c9fd8aef39b216482b871c784][^key-d8550ad4d23b1c4b18244b3863710ce2][^key-73124de44d657961dd61eed4f13b1495] (1) Subject to sub-paragraph (2), any person authorised by a district council may, on production (if so required) of that person's authority, enter any premises at any reasonable time—
+**2.**[^c-5413b81c9fd8aef39b216482b871c784][^c-d8550ad4d23b1c4b18244b3863710ce2][^c-73124de44d657961dd61eed4f13b1495] (1) Subject to sub-paragraph (2), any person authorised by a district council may, on production (if so required) of that person's authority, enter any premises at any reasonable time—
 
 - (a) for the purpose of ascertaining whether or not a statutory nuisance exists; or
 - (b) for the purpose of taking any action, or executing any work, authorised or required by Part 7.
@@ -64,7 +64,7 @@ the lay magistrate may by warrant authorise the district council by any authoris
 
 (7) Any reference in this paragraph to an emergency is a reference to a case where the person requiring entry has reasonable cause to believe that circumstances exist which are likely to endanger life or health and that immediate entry is necessary to verify the existence of those circumstances or to ascertain their cause and to effect a remedy.
 
-**3.**[^key-68524bbb5c7edfec085ca0fac67553b1][^key-403fca8265fbd891010f5f849c0482ce][^key-73124de44d657961dd61eed4f13b1495] (1) Any person authorised by a district council may on production (if so required) of that person's authority—
+**3.**[^c-68524bbb5c7edfec085ca0fac67553b1][^c-403fca8265fbd891010f5f849c0482ce][^c-73124de44d657961dd61eed4f13b1495] (1) Any person authorised by a district council may on production (if so required) of that person's authority—
 
 - (a) enter or open a vehicle, machinery or equipment, if necessary by force, or
 - (b) remove a vehicle, machinery or equipment from a street to a secure place,
@@ -90,13 +90,13 @@ for the purpose of taking any action, or executing any work, authorised by or re
 
 ### Offences relating to entry
 
-**4.**[^key-026b854d7338f62b8ffbcbe1c06969a5][^key-f403e46a1947f80a7f57aec1308e1613][^key-73124de44d657961dd61eed4f13b1495] (1) A person who wilfully obstructs any person acting in the exercise of any powers conferred by paragraph 2 or 3 shall be liable, on summary conviction, to a fine not exceeding level 3 on the standard scale.
+**4.**[^c-026b854d7338f62b8ffbcbe1c06969a5][^c-f403e46a1947f80a7f57aec1308e1613][^c-73124de44d657961dd61eed4f13b1495] (1) A person who wilfully obstructs any person acting in the exercise of any powers conferred by paragraph 2 or 3 shall be liable, on summary conviction, to a fine not exceeding level 3 on the standard scale.
 
 (2) A person who discloses any information relating to any trade secret obtained in the exercise of any powers conferred by paragraph 2 shall, unless the disclosure was made in the performance of that person's duty or with the consent of the person having the right to disclose the information, be guilty of an offence and shall be liable, on summary conviction, to a fine not exceeding level 5 on the standard scale.
 
 ### Default powers
 
-**5.**[^key-7196babb4d88c5ce2c0e3346c6e95f47][^key-65a788955bc2fc84b59737223102b863] (1) This paragraph applies to the following functions of a district council—
+**5.**[^c-7196babb4d88c5ce2c0e3346c6e95f47][^c-65a788955bc2fc84b59737223102b863] (1) This paragraph applies to the following functions of a district council—
 
 - (a) its duty under section 64 to cause its district to be inspected to detect any statutory nuisance which ought to be dealt with under section 65 or sections 65 and 66; and
 - (b) its powers under paragraph 2 or 3.
@@ -115,40 +115,40 @@ for the purpose of taking any action, or executing any work, authorised by or re
 
 ### Protection from personal liability
 
-**6.**[^key-6b28a7d064742119b8f3014f41fd9d22][^key-3ffc1331ee6891a38929935c93d6ef5e] Nothing done by, or by a member of, a district council or by an officer of or other person authorised by a district council shall, if done in good faith for the purpose of executing Part 7, subject that person personally to any action, liability, claim or demand whatsoever (other than any liability under Articles 19 or 20 of the Local Government (Northern Ireland) Order 2005 (NI 18) (powers of local government auditors)).
+**6.**[^c-6b28a7d064742119b8f3014f41fd9d22][^c-3ffc1331ee6891a38929935c93d6ef5e] Nothing done by, or by a member of, a district council or by an officer of or other person authorised by a district council shall, if done in good faith for the purpose of executing Part 7, subject that person personally to any action, liability, claim or demand whatsoever (other than any liability under Articles 19 or 20 of the Local Government (Northern Ireland) Order 2005 (NI 18) (powers of local government auditors)).
 
 ### Statement of right of appeal in notices
 
-**7.**[^key-6263265fe21ece340caea5603f1e4ecd][^key-446f8b675910c2b32148be0319fa8b98] Where an appeal against a notice served by a district council lies to a court of summary jurisdiction by virtue of section 65, it shall be the duty of the council to include in that notice a statement indicating that such an appeal lies to a court of summary jurisdiction and specifying the time within which it must be brought.
+**7.**[^c-6263265fe21ece340caea5603f1e4ecd][^c-446f8b675910c2b32148be0319fa8b98] Where an appeal against a notice served by a district council lies to a court of summary jurisdiction by virtue of section 65, it shall be the duty of the council to include in that notice a statement indicating that such an appeal lies to a court of summary jurisdiction and specifying the time within which it must be brought.
 
 ## Annotations
 
-[^key-0f6f2772b04d5f3e4122271669f31c75]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/1) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-0f6f2772b04d5f3e4122271669f31c75]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/1) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-8450acf6ed0a7d8e0b1def5ee98609c6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/1) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-8450acf6ed0a7d8e0b1def5ee98609c6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/1) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-5413b81c9fd8aef39b216482b871c784]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/2) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-5413b81c9fd8aef39b216482b871c784]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/2) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-d8550ad4d23b1c4b18244b3863710ce2]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/2) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-d8550ad4d23b1c4b18244b3863710ce2]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/2) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-73124de44d657961dd61eed4f13b1495]: Modification: [Sch. 2 paras. 2-4](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/2) applied by SI 1981/158 (N.I. 4) art. 40(2) (as amended) (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/10/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-73124de44d657961dd61eed4f13b1495]: Modification: [Sch. 2 paras. 2-4](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/2) applied by SI 1981/158 (N.I. 4) art. 40(2) (as amended) (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/10/2); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-68524bbb5c7edfec085ca0fac67553b1]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/3) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-68524bbb5c7edfec085ca0fac67553b1]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/3) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-403fca8265fbd891010f5f849c0482ce]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/3) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-403fca8265fbd891010f5f849c0482ce]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/3) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-026b854d7338f62b8ffbcbe1c06969a5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/4) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-026b854d7338f62b8ffbcbe1c06969a5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/4) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-f403e46a1947f80a7f57aec1308e1613]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/4) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-f403e46a1947f80a7f57aec1308e1613]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/4) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-7196babb4d88c5ce2c0e3346c6e95f47]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/5) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-7196babb4d88c5ce2c0e3346c6e95f47]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/5) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-65a788955bc2fc84b59737223102b863]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/5) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-65a788955bc2fc84b59737223102b863]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/5) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-6b28a7d064742119b8f3014f41fd9d22]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/6) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-6b28a7d064742119b8f3014f41fd9d22]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/6) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-3ffc1331ee6891a38929935c93d6ef5e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/6) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-3ffc1331ee6891a38929935c93d6ef5e]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/6) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-6263265fe21ece340caea5603f1e4ecd]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/7) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-6263265fe21ece340caea5603f1e4ecd]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/7) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-446f8b675910c2b32148be0319fa8b98]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/7) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-446f8b675910c2b32148be0319fa8b98]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nia/2011/23/schedule/2/paragraph/7) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

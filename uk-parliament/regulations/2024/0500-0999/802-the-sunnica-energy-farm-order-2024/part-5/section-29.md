@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Apparatus and rights of statutory undertakers in closed streets[^key-58ddd848d9ba56799c38c4a16852e147]
+## 29. Apparatus and rights of statutory undertakers in closed streets[^c-58ddd848d9ba56799c38c4a16852e147]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a street is altered or diverted or its use is temporarily prohibited or re
 
 ## Annotations
 
-[^key-58ddd848d9ba56799c38c4a16852e147]: Commencement: Art. 29 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-58ddd848d9ba56799c38c4a16852e147]: Commencement: Art. 29 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)

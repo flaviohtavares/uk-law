@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 16 — DESIGN PARAMETERS[^key-5ce0dfb6ca296d7cf0508c0b4f3abfd5]
+## SCHEDULE 16 — DESIGN PARAMETERS[^c-5ce0dfb6ca296d7cf0508c0b4f3abfd5]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ Schedule 2, Paragraph 4
 
 ## Annotations
 
-[^key-5ce0dfb6ca296d7cf0508c0b4f3abfd5]: Commencement: Sch. 16 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-5ce0dfb6ca296d7cf0508c0b4f3abfd5]: Commencement: Sch. 16 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

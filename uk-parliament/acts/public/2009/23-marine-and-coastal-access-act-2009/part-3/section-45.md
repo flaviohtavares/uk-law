@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Preparation and coming into effect of statement[^c2007830][^key-812c8999e6182097733ff08336d908a7]
+## 45. Preparation and coming into effect of statement[^c2007830][^c-812c8999e6182097733ff08336d908a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c2007830]: Commencement: S. 45 wholly in force at 12.1.2010; s. 45(4) in force for specified purposes at Royal Assent see s. 324(1)(a)(ii); s. 45 in force in so far as not already in force at 12.1.2010 see s. 324(2)(a)
 
-[^key-812c8999e6182097733ff08336d908a7]: Modification: Ss. 45, 46: functions made exercisable jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 4 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-812c8999e6182097733ff08336d908a7]: Modification: Ss. 45, 46: functions made exercisable jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 4 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))

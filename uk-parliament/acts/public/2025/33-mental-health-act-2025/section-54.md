@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Power of Welsh Ministers to make consequential provision[^key-25d6518ec7b8bb0e45450e7936c5e8a2]
+## 54. Power of Welsh Ministers to make consequential provision[^c-25d6518ec7b8bb0e45450e7936c5e8a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25d6518ec7b8bb0e45450e7936c5e8a2]: Commencement: S. 54 in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/2)
+[^c-25d6518ec7b8bb0e45450e7936c5e8a2]: Commencement: S. 54 in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/2)

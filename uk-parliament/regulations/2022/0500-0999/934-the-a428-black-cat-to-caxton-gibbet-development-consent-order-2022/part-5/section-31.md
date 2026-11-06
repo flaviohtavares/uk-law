@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Disregard of certain interests and improvements[^key-b91c20c26226764f370140e4e1543cfe]
+## 31. Disregard of certain interests and improvements[^c-b91c20c26226764f370140e4e1543cfe]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 ## Annotations
 
-[^key-b91c20c26226764f370140e4e1543cfe]: Commencement: Art. 31 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-b91c20c26226764f370140e4e1543cfe]: Commencement: Art. 31 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)

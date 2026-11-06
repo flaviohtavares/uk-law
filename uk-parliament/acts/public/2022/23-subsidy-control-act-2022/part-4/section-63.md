@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Referrals in relation to subsidy schemes[^key-a7d0ee090f9f139cb8b3cabd74e4804b][^key-b59050911d5bf96898c579d132bb0788]
+## 63. Referrals in relation to subsidy schemes[^c-a7d0ee090f9f139cb8b3cabd74e4804b][^c-b59050911d5bf96898c579d132bb0788]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The preceding provisions of this Chapter relating to subsidies do not apply to a
 
 ## Annotations
 
-[^key-a7d0ee090f9f139cb8b3cabd74e4804b]: Commencement: S. 63 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-a7d0ee090f9f139cb8b3cabd74e4804b]: Commencement: S. 63 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-b59050911d5bf96898c579d132bb0788]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2022/23/section/63) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-b59050911d5bf96898c579d132bb0788]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2022/23/section/63) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

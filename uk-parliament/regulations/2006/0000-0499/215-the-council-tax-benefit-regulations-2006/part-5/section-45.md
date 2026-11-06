@@ -22,15 +22,15 @@ summary: ''
 
 (3) Paragraph (2) shall not apply to a student—
 
-- (a) who is a person on income support, an income-based jobseeker's allowance or an income-related employment and support allowance[^key-d8ee926ea9d37069f8b14ee1e16fece5];
+- (a) who is a person on income support, an income-based jobseeker's allowance or an income-related employment and support allowance[^c-d8ee926ea9d37069f8b14ee1e16fece5];
 - (b) who is a lone parent;
 - (c) whose applicable amount would, but for this regulation, include the disability premium or severe disability premium;
 - (d) whose applicable amount would include the disability premium but for his being treated as capable of work by virtue of a determination made in accordance with regulations made under section 171E of the Act;
 - (e) who is, or is treated as, incapable of work and has been so incapable, or has been so treated as incapable, of work in accordance with the provisions of, and regulations made under, Part 12A of the Act (incapacity for work) for a continuous period of not less than 196 days; and for this purpose any two or more separate periods separated by a break of not more than 56 days shall be treated as one continuous period;
-- (ea)[^key-0ece03bc59c4983cb476f18a99cbca34] who has, or is treated as having, limited capability for work and has had, or been treated as having, limited capability for work in accordance with the Employment and Support Allowance Regulations for a continuous period of not less than 196 days, and for this purpose any two or more separate periods separated by a break of not more than 84 days must be treated as one continuous period.
+- (ea)[^c-0ece03bc59c4983cb476f18a99cbca34] who has, or is treated as having, limited capability for work and has had, or been treated as having, limited capability for work in accordance with the Employment and Support Allowance Regulations for a continuous period of not less than 196 days, and for this purpose any two or more separate periods separated by a break of not more than 84 days must be treated as one continuous period.
 - (f) who has a partner who is also a full-time student, if he or that partner is treated as responsible for a child or young person;
 - (g) who is a single claimant with whom a child is placed by a local authority or voluntary organisation within the meaning of the Children Act 1989 [^c1541337] or, in Scotland, boarded out within the meaning of the Social Work (Scotland) Act 1968 [^c1541338];
-- (h)[^key-ed4463f47cff30f937f61dd376e38f5f] who is—
+- (h)[^c-ed4463f47cff30f937f61dd376e38f5f] who is—
   - (i) aged under 21 and whose course of study is not a course of higher education;
   - (ii) aged 21 and attained that age during a course of study which is not a course of higher education; or
   - (iii) a qualifying young person or child within the meaning of section 142 of the Act (child and qualifying young person);
@@ -43,7 +43,7 @@ summary: ''
 
 on account of his disability by reason of deafness.
 
-(3A)[^key-00662dda0a01a8ad36af10689b5ebe7e] Paragraph (3)(h)(ii) only applies to a claimant until the end of the course during which the claimant attained the age of 21.
+(3A)[^c-00662dda0a01a8ad36af10689b5ebe7e] Paragraph (3)(h)(ii) only applies to a claimant until the end of the course during which the claimant attained the age of 21.
 
 (4) For the purposes of paragraph (3), once paragraph (3)(e) applies to a full-time student, if he then ceases, for a period of 56 days or less, to be incapable, or to be treated as incapable, of work, that paragraph shall, on his again becoming so incapable, or so treated as incapable, of work at the end of that period, immediately thereafter apply to him for so long as he remains incapable or is treated as remaining incapable, of work.
 
@@ -68,16 +68,16 @@ whichever shall first occur.
 
 ## Annotations
 
-[^key-d8ee926ea9d37069f8b14ee1e16fece5]: Textual amendment: Words in reg. 45(3)(a) substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [54(a)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/54/a)
+[^c-d8ee926ea9d37069f8b14ee1e16fece5]: Textual amendment: Words in reg. 45(3)(a) substituted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [54(a)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/54/a)
 
-[^key-0ece03bc59c4983cb476f18a99cbca34]: Textual amendment: Reg. 45(3)(ea) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [54(b)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/54/b)
+[^c-0ece03bc59c4983cb476f18a99cbca34]: Textual amendment: Reg. 45(3)(ea) inserted (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [54(b)](https://www.legislation.gov.uk/uksi/2008/1082/regulation/54/b)
 
 [^c1541337]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
 [^c1541338]: Marginal citation: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49).
 
-[^key-ed4463f47cff30f937f61dd376e38f5f]: Textual amendment: [Reg. 45(3)(h)](https://www.legislation.gov.uk/uksi/2006/215/regulation/45/3/h) substituted (1.4.2012) by [The Social Security (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/757)](https://www.legislation.gov.uk/uksi/2012/757), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4), [13(a)](https://www.legislation.gov.uk/uksi/2012/757/regulation/13/a)
+[^c-ed4463f47cff30f937f61dd376e38f5f]: Textual amendment: [Reg. 45(3)(h)](https://www.legislation.gov.uk/uksi/2006/215/regulation/45/3/h) substituted (1.4.2012) by [The Social Security (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/757)](https://www.legislation.gov.uk/uksi/2012/757), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4), [13(a)](https://www.legislation.gov.uk/uksi/2012/757/regulation/13/a)
 
-[^key-00662dda0a01a8ad36af10689b5ebe7e]: Textual amendment: [Reg. 45(3A)](https://www.legislation.gov.uk/uksi/2006/215/regulation/45/3A) substituted (1.4.2012) by [The Social Security (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/757)](https://www.legislation.gov.uk/uksi/2012/757), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4), [13(b)](https://www.legislation.gov.uk/uksi/2012/757/regulation/13/b)
+[^c-00662dda0a01a8ad36af10689b5ebe7e]: Textual amendment: [Reg. 45(3A)](https://www.legislation.gov.uk/uksi/2006/215/regulation/45/3A) substituted (1.4.2012) by [The Social Security (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/757)](https://www.legislation.gov.uk/uksi/2012/757), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2012/757/regulation/1/4), [13(b)](https://www.legislation.gov.uk/uksi/2012/757/regulation/13/b)
 
 [^c1541339]: Marginal citation: 1998\. c. 40.

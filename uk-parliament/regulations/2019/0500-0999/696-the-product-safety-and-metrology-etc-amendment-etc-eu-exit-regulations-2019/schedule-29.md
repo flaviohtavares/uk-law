@@ -24,11 +24,11 @@ Regulation 32
 
 ### PART 1 — Amendments to the Radio Equipment Regulations 2017
 
-#### 1. Introduction[^key-07d3c34395d556c3016b09d35870a5dd]
+#### 1. Introduction[^c-07d3c34395d556c3016b09d35870a5dd]
 
 The Radio Equipment Regulations 2017 are amended in accordance with paragraphs 2 to 54.
 
-#### 2. Amendment to regulation 2[^key-1f38e605e75d29ba1e8919e81d426aec]
+#### 2. Amendment to regulation 2[^c-1f38e605e75d29ba1e8919e81d426aec]
 
 (1) Regulation 2 (interpretation) is amended as follows.
 
@@ -41,7 +41,7 @@ The Radio Equipment Regulations 2017 are amended in accordance with paragraphs 2
   > “**approved body**” has the meaning given to it in regulation 46 (approved bodies);
 
   ;
-- (d)[^key-ab2a7741166150fdb26d438dd6bb923a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-ab2a7741166150fdb26d438dd6bb923a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) omit the definition of “CE marking”;
 - (f) omit the definition of “competent national authority”;
 - (g) before the definition of “conformity assessment body” insert—
@@ -72,18 +72,18 @@ The Radio Equipment Regulations 2017 are amended in accordance with paragraphs 2
 - (n) before the definition of “importer” insert—
 
   “**the Implementing Regulation**” means Commission Implementing Regulation (EU) 2017/1354 specifying how to present the information provided for in Article 10(10) of Directive 2014/53/EU of the European Parliament and of the Council;”;
-- (o)[^key-5c2982faea20bcce52535de65d95c7a2] for the definition of “importer” substitute—
+- (o)[^c-5c2982faea20bcce52535de65d95c7a2] for the definition of “importer” substitute—
 
   > importer” means a person who—
   >
   > - (a) is established in the United Kingdom and places radio equipment from a country outside of the United Kingdom on the market; or
   > - (b) is established in Northern Ireland and places radio equipment on the market that has been supplied to them for distribution, consumption or use in the course of a commercial activity, whether in return for payment or free of charge, from an EEA state;
-- (p)[^key-f3b7a46697a554ca8165ea46b5ae4af5] in the definition of “make available on the market” for “EU market” substitute “market of Great Britain”;
+- (p)[^c-f3b7a46697a554ca8165ea46b5ae4af5] in the definition of “make available on the market” for “EU market” substitute “market of Great Britain”;
 - (q) omit the definition of “national accreditation body”;
 - (r) omit the definition of “notified body requirements”;
 - (s) omit the definition of “Official Journal”;
-- (t)[^key-8faad72291c21ce380adabcfdb3d5eac] in the definition of “place on the market” for “EU market” substitute “market of Great Britain”;
-- (u)[^key-b8cf234d07e71d3bda900d5e24fd6b42] in the definition of “put into service” for “the EU” substitute “Great Britain”;
+- (t)[^c-8faad72291c21ce380adabcfdb3d5eac] in the definition of “place on the market” for “EU market” substitute “market of Great Britain”;
+- (u)[^c-b8cf234d07e71d3bda900d5e24fd6b42] in the definition of “put into service” for “the EU” substitute “Great Britain”;
 - (v) after the definition of “technical specification” insert—
 
   > “**UK marking**” means the marking in the form set out in Annex 2 of RAMS;
@@ -94,7 +94,7 @@ The Radio Equipment Regulations 2017 are amended in accordance with paragraphs 2
 
 (3) Omit paragraphs (3) and (6).
 
-#### 3. New regulation 2A[^key-98711cadcf40b0fd0b94e3602d2c8109]
+#### 3. New regulation 2A[^c-98711cadcf40b0fd0b94e3602d2c8109]
 
 After regulation 2 insert—
 
@@ -135,21 +135,21 @@ After regulation 2 insert—
 
 .
 
-#### 4. Amendment to regulation 3[^key-b29130fe04496eddfd437ddb1823a255]
+#### 4. Amendment to regulation 3[^c-b29130fe04496eddfd437ddb1823a255]
 
 In regulation 3 (scope)—
 
 - (a) in paragraph (3), omit from “Directive” to “or”; and
 - (b) in paragraph (4), omit from “Directive” to “or”.
 
-#### 5. Amendment to regulation 6[^key-16a33f5bace2b466c826ae8eaa997947]
+#### 5. Amendment to regulation 6[^c-16a33f5bace2b466c826ae8eaa997947]
 
 In paragraph (1) of regulation 6 (essential requirements)—
 
 - (a) in sub-paragraph (a), after “set out in” insert “ the Electrical Equipment (Safety) Regulations 2016 ” and omit from “Directive” to the end of the subparagraph, and
 - (b) in sub-paragraph (b), after “set out in” insert “ the Electromagnetic Compatibility Regulations 2016 ” and omit from “Directive” to the end of the subparagraph.
 
-#### 6. Insertion of regulation 6A[^key-3e67633a684670f646da148d13361207]
+#### 6. Insertion of regulation 6A[^c-3e67633a684670f646da148d13361207]
 
 After regulation 6 insert—
 
@@ -179,7 +179,7 @@ After regulation 6 insert—
 
 .
 
-#### 7. Amendment to regulation 8[^key-9d5177f987b6f6b8c25db2ba4601b862]
+#### 7. Amendment to regulation 8[^c-9d5177f987b6f6b8c25db2ba4601b862]
 
 (1) Regulation 8 (construction must allow operation in at least one Member State) is amended as follows.
 
@@ -187,7 +187,7 @@ After regulation 6 insert—
 
 (3) In the regulation omit “in at least one Member State” and “in the relevant Member State or Member States”.
 
-#### 8. Amendment to regulation 10[^key-46bdaa4702ee60db838423ca9a75338a]
+#### 8. Amendment to regulation 10[^c-46bdaa4702ee60db838423ca9a75338a]
 
 In regulation 10 (EU declaration of conformity and CE marking)—
 
@@ -207,15 +207,15 @@ In regulation 10 (EU declaration of conformity and CE marking)—
 
   .
 
-#### 9. Amendment to regulation 11[^key-e5cce999aa045ca9dbe88d3cb2fb0f0c]
+#### 9. Amendment to regulation 11[^c-e5cce999aa045ca9dbe88d3cb2fb0f0c]
 
 In regulation 11(retention of technical documentation and EU declaration of conformity), in the heading and in paragraph (a), omit “EU”.
 
-#### 10. Amendment to regulation 12[^key-7caa4186f2b05adf89054133ffe0c919]
+#### 10. Amendment to regulation 12[^c-7caa4186f2b05adf89054133ffe0c919]
 
 In regulation 12 (identification of the radio equipment and manufacturer) in paragraph (3), for “competent national authority in the Member State in which it is to be made available to such end users” substitute “ enforcing authority ”.
 
-#### 11. Amendment to regulation 13[^key-4f66a96e302ecf3e3cc38d49b0b0277d]
+#### 11. Amendment to regulation 13[^c-4f66a96e302ecf3e3cc38d49b0b0277d]
 
 Regulation 13 (instructions and information to be included with the radio equipment) is amended as follows—
 
@@ -227,7 +227,7 @@ Regulation 13 (instructions and information to be included with the radio equipm
 - (b) in paragraph (3), in each place in which it occurs, omit “EU”; and
 - (c) omit paragraph (4).
 
-#### 12. Amendment to regulation 14[^key-13b4966d1354d6d96e4fb1d44a41cfa6]
+#### 12. Amendment to regulation 14[^c-13b4966d1354d6d96e4fb1d44a41cfa6]
 
 In regulation 14 (information to be included where there are restrictions on putting into service or requirements for authorisation of use)—
 
@@ -237,13 +237,13 @@ In regulation 14 (information to be included where there are restrictions on put
 - (b) for paragraph (2)(b)—
   - (i) for “Commission” substitute “ the ”; and
   - (ii) omit from “specifying” to the end;
-- (c) in paragraph (3), for “on or after 8th August 2018” substitute “ on or after IP completion day[^key-abfb87f4d03cf4719f213484a56d024d] ”.
+- (c) in paragraph (3), for “on or after 8th August 2018” substitute “ on or after IP completion day[^c-abfb87f4d03cf4719f213484a56d024d] ”.
 
-#### 13. Amendment to regulation 15[^key-cc734ae6757c6917ff5e811b1f0b0b45]
+#### 13. Amendment to regulation 15[^c-cc734ae6757c6917ff5e811b1f0b0b45]
 
 In regulation 15 (duty to take action in respect of radio equipment placed on the market which is considered not to be in conformity), in paragraph (2) omit “and the competent national authorities of any other Member State in which the manufacturer made the radio equipment available on the market,”.
 
-#### 14. Amendment to regulation 16[^key-512e0969d9b89e6b99bd91d820519f5b]
+#### 14. Amendment to regulation 16[^c-512e0969d9b89e6b99bd91d820519f5b]
 
 In regulation 16 (provision of information and cooperation) for paragraph (1) substitute—
 
@@ -251,14 +251,14 @@ In regulation 16 (provision of information and cooperation) for paragraph (1) su
 
 .
 
-#### 15. Amendment to regulation 17[^key-51ab93a69940fbaf31ee4d9539637734]
+#### 15. Amendment to regulation 17[^c-51ab93a69940fbaf31ee4d9539637734]
 
 In regulation 17 (compliance procedures for series production), in paragraph (2)(b)—
 
 - (a) for “harmonised” substitute “ designated ”;
 - (b) omit “EU”.
 
-#### 16. Insertion of regulations 18A, 18B and 18C[^key-6f731a53cbd8262e766e3978310bbfab]
+#### 16. Insertion of regulations 18A, 18B and 18C[^c-6f731a53cbd8262e766e3978310bbfab]
 
 After regulation 18 (monitoring) insert—
 
@@ -305,7 +305,7 @@ After regulation 18 (monitoring) insert—
 
 .
 
-#### 18C. Power to require registration of radio equipment[^key-b9558bce9dcfc10da87615e0735db689]
+#### 18C. Power to require registration of radio equipment[^c-b9558bce9dcfc10da87615e0735db689]
 
 (1) The Secretary of State may by regulations—
 
@@ -318,7 +318,7 @@ After regulation 18 (monitoring) insert—
 - (a) may make such supplemental, consequential and transitional provisions as the Secretary of State considers appropriate; and
 - (b) are to be made by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.”.
 
-#### 17. Amendment to regulation 19[^key-f7ae09dc1ede8d0e85aeb5598c0a0514]
+#### 17. Amendment to regulation 19[^c-f7ae09dc1ede8d0e85aeb5598c0a0514]
 
 In regulation 19 (authorised representatives)—
 
@@ -326,14 +326,14 @@ In regulation 19 (authorised representatives)—
 - (b) in paragraphs (3)(a) and (4)(c), omit “EU”; and
 - (c) in paragraph (4)(c), for “CE” substitute “ UK ”.
 
-#### 18. Amendment to regulation 21[^key-6f17f48b94f2bac367911538d89afa23]
+#### 18. Amendment to regulation 21[^c-6f17f48b94f2bac367911538d89afa23]
 
 In regulation 21 (requirements which must be satisfied before an importer places radio equipment on the market)—
 
 - (a) in paragraph (b), omit “in at least one Member State” and “in the relevant Member State or Member States”; and
 - (b) in paragraph (d)(i) for “CE” substitute “ UK ”.
 
-#### 19. Amendment to regulation 23[^key-1d160172aee7549c66023db1a4490e0a]
+#### 19. Amendment to regulation 23[^c-1d160172aee7549c66023db1a4490e0a]
 
 Regulation 23 (information identifying importer) is amended as follows –
 
@@ -344,36 +344,36 @@ Regulation 23 (information identifying importer) is amended as follows –
   >
   > - (a) either—
   >   - (i) it is not possible to set out the information referred to in paragraph (1) on the radio equipment, or
-  >   - (ii) the importer has imported the radio equipment from an EEA state or Switzerland[^key-c1d0b5e0fd224f303e5e5e5ab507332a] and places it on the market within the period of 24 months[^key-86f3f234657067d62eecb1416bbc43b4] beginning with IP completion day[^key-e7749f5bf78128cb4114e1eb28e7d9d1], and
+  >   - (ii) the importer has imported the radio equipment from an EEA state or Switzerland[^c-c1d0b5e0fd224f303e5e5e5ab507332a] and places it on the market within the period of 24 months[^c-86f3f234657067d62eecb1416bbc43b4] beginning with IP completion day[^c-e7749f5bf78128cb4114e1eb28e7d9d1], and
   > - (b) before placing the radio equipment on the market, the importer sets out the information referred to in paragraph (1)-
   >   - (i) on the packaging; or
-  >   - (ii) in a document accompanying the radio equipment[^key-12c68bbf87808f4950fa2e174b25933d].
+  >   - (ii) in a document accompanying the radio equipment[^c-12c68bbf87808f4950fa2e174b25933d].
 
   .
 
-#### 20. Amendment to regulation 24[^key-e2a79bb3a15ac949e9f1fad1ec302a3f]
+#### 20. Amendment to regulation 24[^c-e2a79bb3a15ac949e9f1fad1ec302a3f]
 
 In regulation 24 (instructions and safety information)—
 
 - (a) in paragraph (1), for “in a language which can be understood by customers and other end users in the Member State in which the radio equipment is to be made available to such consumers and end-users” substitute “ that are clear, legible and in easily understandable English ”; and
 - (b) omit paragraph (2).
 
-#### 21. Amendment to regulation 27[^key-7f9d145491ed8d41e5d1b481b5505120]
+#### 21. Amendment to regulation 27[^c-7f9d145491ed8d41e5d1b481b5505120]
 
 In regulation 27 (duty to take action in respect of radio equipment placed on the market which is considered not to be in conformity), in paragraph (2), omit “and the competent national authorities of any other Member State in which the importer made the radio equipment available on the market,”.
 
-#### 22. Amendment to regulation 28[^key-5c601b15ed8d230c666aa67d73c3f2cc]
+#### 22. Amendment to regulation 28[^c-5c601b15ed8d230c666aa67d73c3f2cc]
 
 In regulation 28 (retention of technical documentation and EU declaration of conformity), in the heading to that regulation and in paragraph (a), omit “EU”.
 
-#### 23. Amendment to regulation 29[^key-01002cf4832f33c90ec71b961269e207]
+#### 23. Amendment to regulation 29[^c-01002cf4832f33c90ec71b961269e207]
 
 In regulation 29 (provision of information and cooperation)—
 
 - (a) in paragraph (1) omit “or a competent national authority of another Member State”; and
 - (b) in paragraph (3)(b) for “authority concerned” substitute “ enforcing authority ”.
 
-#### 24. Amendment to regulation 31[^key-60107e61fa70a4589db8149bcfde0a89]
+#### 24. Amendment to regulation 31[^c-60107e61fa70a4589db8149bcfde0a89]
 
 In regulation 31 (requirements which must be satisfied before a distributor makes radio equipment available on the market)—
 
@@ -382,11 +382,11 @@ In regulation 31 (requirements which must be satisfied before a distributor make
 - (c) in paragraph (1)(b)(i), for “in at least one Member State” substitute “ without infringement of requirements ”; and
 - (d) omit paragraph (2).
 
-#### 25. Amendment to regulation 34[^key-6739d4c2c73120ad0f8e86c820e195a3]
+#### 25. Amendment to regulation 34[^c-6739d4c2c73120ad0f8e86c820e195a3]
 
 In regulation 34 (duty to take action in respect of radio equipment made available on the market which is not in conformity), in paragraph (2) omit “and the competent national authorities of the other Member States in which the distributor has made the radio equipment available on the market”.
 
-#### 26. Amendment to regulation 35[^key-74119590feb98b980d384b581008cfaa]
+#### 26. Amendment to regulation 35[^c-74119590feb98b980d384b581008cfaa]
 
 In regulation 35 (provision of information and cooperation)—
 
@@ -394,7 +394,7 @@ In regulation 35 (provision of information and cooperation)—
 - (b) in paragraph (3)(b) for “authority concerned” substitute “ enforcing authority ”; and
 - (c) in paragraph (4) omit “a competent national authority of another Member State”.
 
-#### 27. New regulation 36A[^key-412ed4c7e72200150dd80627e15bb145]
+#### 27. New regulation 36A[^c-412ed4c7e72200150dd80627e15bb145]
 
 After regulation 36 insert—
 
@@ -457,7 +457,7 @@ After regulation 36 insert—
 > - (e) any reference to “relevant conformity assessment procedure” is to be read as a reference to the conformity assessment procedure that applies to the radio equipment in accordance with Article 17;
 > - (f) any reference to “**technical documentation**” is a reference to the technical documentation referred to in Annex V.
 >
-> **36B. Expiry of regulation 36A[^key-07343181cc32e8d6a72d01b2ff56c93f]**
+> **36B. Expiry of regulation 36A[^c-07343181cc32e8d6a72d01b2ff56c93f]**
 >
 > (1) Subject to paragraph (2), regulation 36A ceases to have effect at the end of the period of 12 months beginning with IP completion day.
 >
@@ -494,22 +494,22 @@ After regulation 36 insert—
 
 .
 
-#### 28. Amendment to regulation 37[^key-8604be7c308ead90c47d429902e07a48]
+#### 28. Amendment to regulation 37[^c-8604be7c308ead90c47d429902e07a48]
 
 Omit regulation 37 (translation of declaration of conformity).
 
-#### 29. Amendment to regulation 39[^key-7b18ffcef9d9bf860472cf3afa43431d]
+#### 29. Amendment to regulation 39[^c-7b18ffcef9d9bf860472cf3afa43431d]
 
 In regulation 39 (prohibition on improper use of CE marking) in the heading to that regulation and in each place where it occurs, for “CE” substitute “ UK ”.
 
-#### 30. Amendment to regulation 40[^key-d1f9e5a7bc3bb6a900f1573060486dcd]
+#### 30. Amendment to regulation 40[^c-d1f9e5a7bc3bb6a900f1573060486dcd]
 
 In regulation 40 (presumption of conformity), paragraph (1)—
 
 - (a) for “harmonised” substitute “ designated ”; and
 - (b) omit “the reference to which has been published in the Official Journal,”.
 
-#### 31. Amendment to regulation 41[^key-dacb3caa02de979e0d97dd44aac73eb2]
+#### 31. Amendment to regulation 41[^c-dacb3caa02de979e0d97dd44aac73eb2]
 
 In regulation 41 (conformity assessment procedures)—
 
@@ -518,22 +518,22 @@ In regulation 41 (conformity assessment procedures)—
   - (i) in each place where it occurs for “harmonised” substitute “ designated ”; and
   - (ii) omit “the references to which have been published in the Official Journal”.
 
-#### 32. Amendment to regulation 42[^key-ef6cbcc102a2db4c8e747d7117ff88bc]
+#### 32. Amendment to regulation 42[^c-ef6cbcc102a2db4c8e747d7117ff88bc]
 
 In regulation 42 (EU declaration of conformity)—
 
 - (a) in the heading, for “EU declaration” substitute “ Declaration ”; and
 - (b) in the opening words and paragraph (b), omit “EU”.
 
-#### 33. Amendment to regulation 43[^key-99d711c70a9d6759e6c34b44291dd914]
+#### 33. Amendment to regulation 43[^c-99d711c70a9d6759e6c34b44291dd914]
 
 In regulation 43 (simplified EU declaration of conformity), in the heading and each place where it occurs, omit “EU”.
 
-#### 34. Amendment to regulation 44[^key-e5c8f0f15ce5442c0ff9ac364220d4ab]
+#### 34. Amendment to regulation 44[^c-e5c8f0f15ce5442c0ff9ac364220d4ab]
 
 In regulation 44 (CE marking)—
 
-- (a)[^key-c6a529613ff2e172e4d161f274ea6355] for paragraph (1) substitute—
+- (a)[^c-c6a529613ff2e172e4d161f274ea6355] for paragraph (1) substitute—
 
   > (1) The UK marking must be affixed visibly, legibly and indelibly—
   >
@@ -541,7 +541,7 @@ In regulation 44 (CE marking)—
   > - (b) where paragraph (1A) applies—
   >   - (i) to a label affixed to the radio equipment or its data plate; or
   >   - (ii) to a document accompanying the radio equipment.
-- (aa)[^key-bd5e3be670445c23835ac644a65aa078] after paragraph (1) insert—
+- (aa)[^c-bd5e3be670445c23835ac644a65aa078] after paragraph (1) insert—
 
   > (1A) For a period of 24 months beginning with IP completion day, the UK marking may be affixed to—
   >
@@ -568,14 +568,14 @@ In regulation 44 (CE marking)—
 - (ad) in the heading and in paragraphs (3) to (5) for “CE” substitute “ UK ”;
 - (b) in all places where it occurs, for “notified body” substitute “ approved body ”.
 
-#### 35. Amendment to regulation 45[^key-05b6344fb2b8c55a46aa2eec007c36d5]
+#### 35. Amendment to regulation 45[^c-05b6344fb2b8c55a46aa2eec007c36d5]
 
 In regulation 45 (technical documentation)—
 
 - (a) omit paragraph (3); and
 - (b) in paragraph (4), for “paragraphs (1), (2) or (3)” substitute “ paragraphs (1) and (2) ”.
 
-#### 36. Amendment to Part 4[^key-8e53fba3c923e7dbcb7c5bd8ef9b18c7]
+#### 36. Amendment to Part 4[^c-8e53fba3c923e7dbcb7c5bd8ef9b18c7]
 
 For Part 4 notification of conformity assessment bodies), substitute—
 
@@ -586,7 +586,7 @@ For Part 4 notification of conformity assessment bodies), substitute—
 > (1) An approved body is a conformity assessment body which—
 >
 > - (a) has been approved by the Secretary of State pursuant to the procedure set out in regulation 47 (approval of conformity assessment bodies); or
-> - (b) immediately before IP completion day[^key-ea4c0feba312741f9c4f9e6ad9c724a3] was a notified body in respect of which the Secretary of State had taken no action under regulations 52(1) or (2), as they had effect immediately before IP completion day, to suspend or withdraw the body's status as a notified body.
+> - (b) immediately before IP completion day[^c-ea4c0feba312741f9c4f9e6ad9c724a3] was a notified body in respect of which the Secretary of State had taken no action under regulations 52(1) or (2), as they had effect immediately before IP completion day, to suspend or withdraw the body's status as a notified body.
 >
 > (2) Paragraph (1) has effect subject to regulation 50 (restriction, suspension or withdrawal of approval).
 >
@@ -637,7 +637,7 @@ For Part 4 notification of conformity assessment bodies), substitute—
 > - (a) continues to meet the approved body requirements;
 > - (b) meets any conditions set—
 >   - (i) in accordance with regulation 47(6)(b); or
->   - (ii) in the case of an approved body which was a notified body immediately before IP completion day[^key-b9c70922b04719d831912ad95dcd5fda], in accordance with regulation 47(6)(b), as it applied immediately beforeIP completion day; and
+>   - (ii) in the case of an approved body which was a notified body immediately before IP completion day[^c-b9c70922b04719d831912ad95dcd5fda], in accordance with regulation 47(6)(b), as it applied immediately beforeIP completion day; and
 > - (c) carries out its functions in accordance with these Regulations.
 >
 > **50. Restriction, suspension or withdrawal of approval**
@@ -720,15 +720,15 @@ For Part 4 notification of conformity assessment bodies), substitute—
 
 .
 
-#### 37. Amendment to regulation 57[^key-fd498f9acee85e13f4b96685bde3ae65]
+#### 37. Amendment to regulation 57[^c-fd498f9acee85e13f4b96685bde3ae65]
 
 In regulation 57 (enforcement powers) each place where it occurs, for “CE” substitute “ UK ”.
 
-#### 38. Amendment to regulation 58[^key-9f25e11d74346724f8116501a676246b]
+#### 38. Amendment to regulation 58[^c-9f25e11d74346724f8116501a676246b]
 
 In regulation 58 (exercise of enforcement powers), omit sub- paragraph (c).
 
-#### 39. Amendment to regulation 60[^key-a2dd6d44c1fcb1adb9118d61bd2cf371]
+#### 39. Amendment to regulation 60[^c-a2dd6d44c1fcb1adb9118d61bd2cf371]
 
 In regulation 60 (enforcement action in respect of radio equipment which is not in conformity and which presents a risk)—
 
@@ -736,18 +736,18 @@ In regulation 60 (enforcement action in respect of radio equipment which is not 
 - (b) in paragraph (8), for “notifications under paragraphs (6) and (7), substitute “ notification under paragraph (6) ”; and
 - (c) in paragraph (8)(f)(ii), for “harmonised” substitute “ designated ”.
 
-#### 40. Amendment to regulation 61[^key-ed59b530a8cabf7ee59d033c2a339a7b]
+#### 40. Amendment to regulation 61[^c-ed59b530a8cabf7ee59d033c2a339a7b]
 
 Omit regulation 61 (EU safeguard procedure).
 
-#### 41. Amendment to regulation 62[^key-c2be7e06ab2d2d764ecb769d7ed7815b]
+#### 41. Amendment to regulation 62[^c-c2be7e06ab2d2d764ecb769d7ed7815b]
 
 In regulation 62 (enforcement action in respect of radio equipment which is in conformity, but which presents a risk)—
 
 - (a) omit paragraph (3); and
 - (b) in paragraph (4), for “notifications referred to in paragraphs (2) and (3)” substitute “ notification referred to in paragraph (2) ”.
 
-#### 42. Amendment to regulation 63[^key-6c7f11266d43e8395b3a0397623ade87]
+#### 42. Amendment to regulation 63[^c-6c7f11266d43e8395b3a0397623ade87]
 
 In regulation 63 (enforcement action in respect of formal non-compliance)—
 
@@ -755,13 +755,13 @@ In regulation 63 (enforcement action in respect of formal non-compliance)—
 - (b) in paragraph (1)(b), for “notified” substitute “ approved ”; and
 - (c) in paragraphs (1)(c) and (1)(c)(ii), in each place in which it occurs omit “EU”.
 
-#### 43. Amendment to regulation 77[^key-bde6e56839d6eef50b74bd14a047a84d]
+#### 43. Amendment to regulation 77[^c-bde6e56839d6eef50b74bd14a047a84d]
 
 (1) Regulation 77 (transitional provisions), is amended as follows.
 
 (2) In paragraph (a), for from “Directive” to the end of the paragraph substitute “ the Radio Equipment and Telecommunications Terminal Equipment Regulations 2000 [^c24327491] ”.
 
-#### 44. Transitional provision in relation to EU Exit[^key-d894c52fc6dcdd8ff4cc29ed32e799cc]
+#### 44. Transitional provision in relation to EU Exit[^c-d894c52fc6dcdd8ff4cc29ed32e799cc]
 
 After regulation 76 insert—
 
@@ -769,7 +769,7 @@ After regulation 76 insert—
 >
 > (1) In this regulation—
 >
-> - “**pre-exit period**” means the period beginning with the commencement date and ending immediately before IP completion day[^key-edd6a5a25fbcb724ed09db27869dcfd3];
+> - “**pre-exit period**” means the period beginning with the commencement date and ending immediately before IP completion day[^c-edd6a5a25fbcb724ed09db27869dcfd3];
 > - “**product**” means radio equipment to which these Regulations apply.
 >
 > (2) Subject to paragraph (3), where a product was made available on the market during the pre-exit period, despite the amendments made by Schedule 29 of the Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 [^c24327501], any obligation to which a person was subject under these Regulations as they had effect immediately before IP completion day, continues to have effect as it did immediately before IP completion day, in relation to that product.
@@ -788,7 +788,7 @@ After regulation 76 insert—
 
 .
 
-#### 45. Amendment to regulation 78[^key-1f294d2b29a1499928bea62fa42aa59a]
+#### 45. Amendment to regulation 78[^c-1f294d2b29a1499928bea62fa42aa59a]
 
 (1) Regulation 78 (revocations and savings) is amended as follows.
 
@@ -810,18 +810,18 @@ After regulation 76 insert—
 
 .
 
-#### 46. Amendment to Schedule 1[^key-bdcfe1e260a64b51ca0a32c3e0104048]
+#### 46. Amendment to Schedule 1[^c-bdcfe1e260a64b51ca0a32c3e0104048]
 
 In Schedule 1 (radio equipment outside the scope of these regulations), for paragraph 2 substitute “ Marine equipment falling within the Merchant Shipping (Marine Equipment) Regulations 2016 [^c24327511] ”.
 
-#### 47. Amendment to Schedule 2[^key-141e724f658f2fbdfb65e531777b884a]
+#### 47. Amendment to Schedule 2[^c-141e724f658f2fbdfb65e531777b884a]
 
 In Schedule 2 (conformity assessment module A), in paragraph 4—
 
 - (a) in the heading, and in subparagraphs (2) and (3), in each place where it occurs, omit “EU”; and
 - (b) in the heading, and in subparagraph (1) in each place where it occurs, for “CE” substitute “ UK ”.
 
-#### 48. Amendment to Schedule 3[^key-708b524d867175a40aef00396c352a8b]
+#### 48. Amendment to Schedule 3[^c-708b524d867175a40aef00396c352a8b]
 
 In Schedule 3 (conformity assessment modules B and C)—
 
@@ -841,7 +841,7 @@ In Schedule 3 (conformity assessment modules B and C)—
   - (i) in the heading and in each place in which it occurs in sub-paragraph (1), for “CE” substitute “ UK ”; and
   - (ii) in the heading and in each place in which it occurs in sub-paragraphs (2) and (3), omit “EU”.
 
-#### 49. Amendment to Schedule 4[^key-36b416372eda6ead5006908ff5a8f034]
+#### 49. Amendment to Schedule 4[^c-36b416372eda6ead5006908ff5a8f034]
 
 In Schedule 4 (conformity assessment module H)—
 
@@ -854,7 +854,7 @@ In Schedule 4 (conformity assessment module H)—
 - (d) in paragraph 6, for “national” substitute “ enforcing ”; and
 - (e) in paragraph 7(1) in both places in which it occurs for “its notifying authority” substitute “ the Secretary of State ”.
 
-#### 50. Amendment to Schedule 5[^key-29d0f08919d6332229fca1d9faed8cac]
+#### 50. Amendment to Schedule 5[^c-29d0f08919d6332229fca1d9faed8cac]
 
 In Schedule 5 (contents of technical documentation), in paragraph 1—
 
@@ -867,7 +867,7 @@ In Schedule 5 (contents of technical documentation), in paragraph 1—
   - (ii) for “notified” substitute “ approved ”; and
 - (d) in subparagraph (i), for “in at least one Member” substitute “ without infringement of requirements ”.
 
-#### 51. Amendment to Schedule 6[^key-07b7ef8b468bd09e20d5a52aa1fe040f]
+#### 51. Amendment to Schedule 6[^c-07b7ef8b468bd09e20d5a52aa1fe040f]
 
 In Schedule 6 (EU declaration of conformity)—
 
@@ -877,14 +877,14 @@ In Schedule 6 (EU declaration of conformity)—
 - (d) in paragraph 6, for “harmonised” substitute “ designated ”; and
 - (e) in paragraph 7, for “EU-type” substitute “ Type ”.
 
-#### 52. Amendments to Schedule 7[^key-5272a677fe520995e7e1ce1a59cdc431]
+#### 52. Amendments to Schedule 7[^c-5272a677fe520995e7e1ce1a59cdc431]
 
 In Schedule 7 (simplified EU declaration of conformity)—
 
 - (a) in the heading and in paragraphs 1 and 3 omit “EU”; and
 - (b) in paragraph 2, for “Directive 2014/53/EU” substitute “ the relevant statutory requirements ”.
 
-#### 53. Amendment to Schedule 8[^key-641321ae32bf4c2d547ee697a60bfe78]
+#### 53. Amendment to Schedule 8[^c-641321ae32bf4c2d547ee697a60bfe78]
 
 In Schedule 8 (notified body requirements)—
 
@@ -896,7 +896,7 @@ In Schedule 8 (notified body requirements)—
 - (d) in paragraph 14 omit “and must satisfy the Secretary of State that it has”; and
 - (e) in paragraph 17, for “under the Directive” substitute “ by the Secretary of State ”.
 
-#### 54. Amendment to Schedule 9[^key-cbc848c1d30a7b53b9bef3de92a4eea6]
+#### 54. Amendment to Schedule 9[^c-cbc848c1d30a7b53b9bef3de92a4eea6]
 
 In Schedule 9 (operational obligations of notified bodies)—
 
@@ -917,13 +917,13 @@ In Schedule 9 (operational obligations of notified bodies)—
 
 ### PART 2 — Amendment of Commission Implementing Regulation (EU) 2017/1354
 
-**55.**[^key-e1703a43d6e0afbe2184bbfc118abe6d] Commission Implementing Regulation (EU) 2017/1354 specifying how to present the information provided for in Article 10(10) of Directive 2014/53/EU of the European Parliament and of the Council is amended in accordance with paragraphs 56 to 62.
+**55.**[^c-e1703a43d6e0afbe2184bbfc118abe6d] Commission Implementing Regulation (EU) 2017/1354 specifying how to present the information provided for in Article 10(10) of Directive 2014/53/EU of the European Parliament and of the Council is amended in accordance with paragraphs 56 to 62.
 
-**56.**[^key-6ac35924aec713b80dd7e25bea528555] In Article 1 and in both places in which it occurs in Article 2 for “Article 10(10) of Directive 2014/53/EU” substitute “ regulation 14 of the Radio Equipment Regulations 2017 ”.
+**56.**[^c-6ac35924aec713b80dd7e25bea528555] In Article 1 and in both places in which it occurs in Article 2 for “Article 10(10) of Directive 2014/53/EU” substitute “ regulation 14 of the Radio Equipment Regulations 2017 ”.
 
-**57.**[^key-9c3ed7f13a23eb5d7bc0b452b4d6bd90] In Article 1 for “at least one Member State” substitute “ the United Kingdom ”.
+**57.**[^c-9c3ed7f13a23eb5d7bc0b452b4d6bd90] In Article 1 for “at least one Member State” substitute “ the United Kingdom ”.
 
-**58.**[^key-4ea59a1a0a75576454398ddbe2c93fd4] In Article 2—
+**58.**[^c-4ea59a1a0a75576454398ddbe2c93fd4] In Article 2—
 
 - (a) in paragraph 1(a) after “Annex I” insert “ , followed by the abbreviation “UK” ”;
 - (b) in paragraph 1(b)—
@@ -931,185 +931,185 @@ In Schedule 9 (operational obligations of notified bodies)—
   - (ii) omit from “, in a language” to the end;
 - (c) in paragraph 2 for the words from “a language” to the end substitute—“English, the geographical areas in the United Kingdom where such restrictions or requirements exist, as well as the types of restrictions or requirements applicable”.
 
-**\]59.**[^key-acf702f9d12fdfb65176176cbe8832ac] Omit Article 3.
+**\]59.**[^c-acf702f9d12fdfb65176176cbe8832ac] Omit Article 3.
 
-**60.**[^key-f150cd770d7f2b69aaf69d731398f45d] After Article 3 omit—
+**60.**[^c-f150cd770d7f2b69aaf69d731398f45d] After Article 3 omit—
 
 - (a) the words “This Regulation shall be binding” to the end;
 - (b) “Done at Brussels, 20 July 2017”;
 - (c) the signatory text.
 
-**61.**[^key-a682df5f8b3cf2aaa8fb90bed285b60a] In Annex I—
+**61.**[^c-a682df5f8b3cf2aaa8fb90bed285b60a] In Annex I—
 
 - (a) omit paragraph 3;
 - (b) omit paragraph 5.
 
-**62.**[^key-5068054d8bb5fcac2ab5b5c1366b999c] Omit Annex II.
+**62.**[^c-5068054d8bb5fcac2ab5b5c1366b999c] Omit Annex II.
 
 ## Annotations
 
-[^key-07d3c34395d556c3016b09d35870a5dd]: Commencement: Sch. 29 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-07d3c34395d556c3016b09d35870a5dd]: Commencement: Sch. 29 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1f38e605e75d29ba1e8919e81d426aec]: Commencement: Sch. 29 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1f38e605e75d29ba1e8919e81d426aec]: Commencement: Sch. 29 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ab2a7741166150fdb26d438dd6bb923a]: Textual amendment: Sch. 29 para. 2(2)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 3(m)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/3/m)
+[^c-ab2a7741166150fdb26d438dd6bb923a]: Textual amendment: Sch. 29 para. 2(2)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 3(m)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/3/m)
 
-[^key-5c2982faea20bcce52535de65d95c7a2]: Textual amendment: Sch. 29 para. 2(2)(o) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 21(2)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/21/2)
+[^c-5c2982faea20bcce52535de65d95c7a2]: Textual amendment: Sch. 29 para. 2(2)(o) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 21(2)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/21/2)
 
-[^key-f3b7a46697a554ca8165ea46b5ae4af5]: Textual amendment: Sch. 29 para. 2(2)(p) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment to Extent and Meaning of Market) (EU Exit) Regulations 2020 (S.I. 2020/676)](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [4(17)(a)](https://www.legislation.gov.uk/uksi/2020/676/regulation/4/17/a)
+[^c-f3b7a46697a554ca8165ea46b5ae4af5]: Textual amendment: Sch. 29 para. 2(2)(p) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment to Extent and Meaning of Market) (EU Exit) Regulations 2020 (S.I. 2020/676)](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [4(17)(a)](https://www.legislation.gov.uk/uksi/2020/676/regulation/4/17/a)
 
-[^key-8faad72291c21ce380adabcfdb3d5eac]: Textual amendment: Sch. 29 para. 2(2)(t) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment to Extent and Meaning of Market) (EU Exit) Regulations 2020 (S.I. 2020/676)](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [4(17)(b)](https://www.legislation.gov.uk/uksi/2020/676/regulation/4/17/b)
+[^c-8faad72291c21ce380adabcfdb3d5eac]: Textual amendment: Sch. 29 para. 2(2)(t) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment to Extent and Meaning of Market) (EU Exit) Regulations 2020 (S.I. 2020/676)](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [4(17)(b)](https://www.legislation.gov.uk/uksi/2020/676/regulation/4/17/b)
 
-[^key-b8cf234d07e71d3bda900d5e24fd6b42]: Textual amendment: Sch. 29 para. 2(2)(u) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment to Extent and Meaning of Market) (EU Exit) Regulations 2020 (S.I. 2020/676)](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [4(17)(c)](https://www.legislation.gov.uk/uksi/2020/676/regulation/4/17/c)
+[^c-b8cf234d07e71d3bda900d5e24fd6b42]: Textual amendment: Sch. 29 para. 2(2)(u) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment to Extent and Meaning of Market) (EU Exit) Regulations 2020 (S.I. 2020/676)](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [4(17)(c)](https://www.legislation.gov.uk/uksi/2020/676/regulation/4/17/c)
 
-[^key-98711cadcf40b0fd0b94e3602d2c8109]: Commencement: Sch. 29 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-98711cadcf40b0fd0b94e3602d2c8109]: Commencement: Sch. 29 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b29130fe04496eddfd437ddb1823a255]: Commencement: Sch. 29 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b29130fe04496eddfd437ddb1823a255]: Commencement: Sch. 29 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-16a33f5bace2b466c826ae8eaa997947]: Commencement: Sch. 29 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-16a33f5bace2b466c826ae8eaa997947]: Commencement: Sch. 29 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3e67633a684670f646da148d13361207]: Commencement: Sch. 29 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3e67633a684670f646da148d13361207]: Commencement: Sch. 29 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9d5177f987b6f6b8c25db2ba4601b862]: Commencement: Sch. 29 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9d5177f987b6f6b8c25db2ba4601b862]: Commencement: Sch. 29 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-46bdaa4702ee60db838423ca9a75338a]: Commencement: Sch. 29 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-46bdaa4702ee60db838423ca9a75338a]: Commencement: Sch. 29 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e5cce999aa045ca9dbe88d3cb2fb0f0c]: Commencement: Sch. 29 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e5cce999aa045ca9dbe88d3cb2fb0f0c]: Commencement: Sch. 29 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7caa4186f2b05adf89054133ffe0c919]: Commencement: Sch. 29 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7caa4186f2b05adf89054133ffe0c919]: Commencement: Sch. 29 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-4f66a96e302ecf3e3cc38d49b0b0277d]: Commencement: Sch. 29 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4f66a96e302ecf3e3cc38d49b0b0277d]: Commencement: Sch. 29 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-13b4966d1354d6d96e4fb1d44a41cfa6]: Commencement: Sch. 29 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-13b4966d1354d6d96e4fb1d44a41cfa6]: Commencement: Sch. 29 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-abfb87f4d03cf4719f213484a56d024d]: Textual amendment: Words in Sch. 29 para. 12(c) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(r)(ii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/r/ii)
+[^c-abfb87f4d03cf4719f213484a56d024d]: Textual amendment: Words in Sch. 29 para. 12(c) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(r)(ii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/r/ii)
 
-[^key-cc734ae6757c6917ff5e811b1f0b0b45]: Commencement: Sch. 29 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-cc734ae6757c6917ff5e811b1f0b0b45]: Commencement: Sch. 29 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-512e0969d9b89e6b99bd91d820519f5b]: Commencement: Sch. 29 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-512e0969d9b89e6b99bd91d820519f5b]: Commencement: Sch. 29 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-51ab93a69940fbaf31ee4d9539637734]: Commencement: Sch. 29 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-51ab93a69940fbaf31ee4d9539637734]: Commencement: Sch. 29 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6f731a53cbd8262e766e3978310bbfab]: Commencement: Sch. 29 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6f731a53cbd8262e766e3978310bbfab]: Commencement: Sch. 29 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b9558bce9dcfc10da87615e0735db689]: Commencement: Sch. 29 para. 18C in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b9558bce9dcfc10da87615e0735db689]: Commencement: Sch. 29 para. 18C in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f7ae09dc1ede8d0e85aeb5598c0a0514]: Commencement: Sch. 29 para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f7ae09dc1ede8d0e85aeb5598c0a0514]: Commencement: Sch. 29 para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6f17f48b94f2bac367911538d89afa23]: Commencement: Sch. 29 para. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6f17f48b94f2bac367911538d89afa23]: Commencement: Sch. 29 para. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1d160172aee7549c66023db1a4490e0a]: Commencement: Sch. 29 para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1d160172aee7549c66023db1a4490e0a]: Commencement: Sch. 29 para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c1d0b5e0fd224f303e5e5e5ab507332a]: Textual amendment: Words in Sch. 29 para. 19(b) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2019/1246/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1d0b5e0fd224f303e5e5e5ab507332a]: Textual amendment: Words in Sch. 29 para. 19(b) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2019/1246/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-86f3f234657067d62eecb1416bbc43b4]: Textual amendment: Words in Sch. 29 para. 19(b) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 2(1)(m)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/2/1/m)
+[^c-86f3f234657067d62eecb1416bbc43b4]: Textual amendment: Words in Sch. 29 para. 19(b) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 2(1)(m)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/2/1/m)
 
-[^key-e7749f5bf78128cb4114e1eb28e7d9d1]: Textual amendment: Words in Sch. 29 para. 19(b) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(r)(iii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/r/iii)
+[^c-e7749f5bf78128cb4114e1eb28e7d9d1]: Textual amendment: Words in Sch. 29 para. 19(b) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(r)(iii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/r/iii)
 
-[^key-12c68bbf87808f4950fa2e174b25933d]: Textual amendment: Words in Sch. 29 para. 19(b) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-12c68bbf87808f4950fa2e174b25933d]: Textual amendment: Words in Sch. 29 para. 19(b) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety, Metrology and Mutual Recognition Agreement (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1246)](https://www.legislation.gov.uk/uksi/2019/1246), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2019/1246/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e2a79bb3a15ac949e9f1fad1ec302a3f]: Commencement: Sch. 29 para. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e2a79bb3a15ac949e9f1fad1ec302a3f]: Commencement: Sch. 29 para. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7f9d145491ed8d41e5d1b481b5505120]: Commencement: Sch. 29 para. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7f9d145491ed8d41e5d1b481b5505120]: Commencement: Sch. 29 para. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5c601b15ed8d230c666aa67d73c3f2cc]: Commencement: Sch. 29 para. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5c601b15ed8d230c666aa67d73c3f2cc]: Commencement: Sch. 29 para. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-01002cf4832f33c90ec71b961269e207]: Commencement: Sch. 29 para. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-01002cf4832f33c90ec71b961269e207]: Commencement: Sch. 29 para. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-60107e61fa70a4589db8149bcfde0a89]: Commencement: Sch. 29 para. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-60107e61fa70a4589db8149bcfde0a89]: Commencement: Sch. 29 para. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6739d4c2c73120ad0f8e86c820e195a3]: Commencement: Sch. 29 para. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6739d4c2c73120ad0f8e86c820e195a3]: Commencement: Sch. 29 para. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-74119590feb98b980d384b581008cfaa]: Commencement: Sch. 29 para. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-74119590feb98b980d384b581008cfaa]: Commencement: Sch. 29 para. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-412ed4c7e72200150dd80627e15bb145]: Commencement: Sch. 29 para. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-412ed4c7e72200150dd80627e15bb145]: Commencement: Sch. 29 para. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-07343181cc32e8d6a72d01b2ff56c93f]: Textual amendment: Words in Sch. 29 para. 27 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 21(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/21/3)
+[^c-07343181cc32e8d6a72d01b2ff56c93f]: Textual amendment: Words in Sch. 29 para. 27 inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 21(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/21/3)
 
-[^key-8604be7c308ead90c47d429902e07a48]: Commencement: Sch. 29 para. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8604be7c308ead90c47d429902e07a48]: Commencement: Sch. 29 para. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7b18ffcef9d9bf860472cf3afa43431d]: Commencement: Sch. 29 para. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7b18ffcef9d9bf860472cf3afa43431d]: Commencement: Sch. 29 para. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d1f9e5a7bc3bb6a900f1573060486dcd]: Commencement: Sch. 29 para. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d1f9e5a7bc3bb6a900f1573060486dcd]: Commencement: Sch. 29 para. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-dacb3caa02de979e0d97dd44aac73eb2]: Commencement: Sch. 29 para. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dacb3caa02de979e0d97dd44aac73eb2]: Commencement: Sch. 29 para. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ef6cbcc102a2db4c8e747d7117ff88bc]: Commencement: Sch. 29 para. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ef6cbcc102a2db4c8e747d7117ff88bc]: Commencement: Sch. 29 para. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-99d711c70a9d6759e6c34b44291dd914]: Commencement: Sch. 29 para. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-99d711c70a9d6759e6c34b44291dd914]: Commencement: Sch. 29 para. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e5c8f0f15ce5442c0ff9ac364220d4ab]: Commencement: Sch. 29 para. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e5c8f0f15ce5442c0ff9ac364220d4ab]: Commencement: Sch. 29 para. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c6a529613ff2e172e4d161f274ea6355]: Textual amendment: Sch. 29 para. 34(a) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 21(4)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/21/4/a)
+[^c-c6a529613ff2e172e4d161f274ea6355]: Textual amendment: Sch. 29 para. 34(a) substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 21(4)(a)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/21/4/a)
 
-[^key-bd5e3be670445c23835ac644a65aa078]: Textual amendment: Sch. 29 paras. 34(aa)-(ad) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 21(4)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/21/4/b)
+[^c-bd5e3be670445c23835ac644a65aa078]: Textual amendment: Sch. 29 paras. 34(aa)-(ad) inserted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 21(4)(b)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/21/4/b)
 
-[^key-05b6344fb2b8c55a46aa2eec007c36d5]: Commencement: Sch. 29 para. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-05b6344fb2b8c55a46aa2eec007c36d5]: Commencement: Sch. 29 para. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8e53fba3c923e7dbcb7c5bd8ef9b18c7]: Commencement: Sch. 29 para. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8e53fba3c923e7dbcb7c5bd8ef9b18c7]: Commencement: Sch. 29 para. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ea4c0feba312741f9c4f9e6ad9c724a3]: Textual amendment: Words in Sch. 29 para. 36 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(r)(iv)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/r/iv)
+[^c-ea4c0feba312741f9c4f9e6ad9c724a3]: Textual amendment: Words in Sch. 29 para. 36 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(r)(iv)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/r/iv)
 
-[^key-b9c70922b04719d831912ad95dcd5fda]: Textual amendment: Words in Sch. 29 para. 36 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(r)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/r/v)
+[^c-b9c70922b04719d831912ad95dcd5fda]: Textual amendment: Words in Sch. 29 para. 36 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(r)(v)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/r/v)
 
 [^c24327481]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-fd498f9acee85e13f4b96685bde3ae65]: Commencement: Sch. 29 para. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-fd498f9acee85e13f4b96685bde3ae65]: Commencement: Sch. 29 para. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9f25e11d74346724f8116501a676246b]: Commencement: Sch. 29 para. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9f25e11d74346724f8116501a676246b]: Commencement: Sch. 29 para. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-a2dd6d44c1fcb1adb9118d61bd2cf371]: Commencement: Sch. 29 para. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a2dd6d44c1fcb1adb9118d61bd2cf371]: Commencement: Sch. 29 para. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ed59b530a8cabf7ee59d033c2a339a7b]: Commencement: Sch. 29 para. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ed59b530a8cabf7ee59d033c2a339a7b]: Commencement: Sch. 29 para. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c2be7e06ab2d2d764ecb769d7ed7815b]: Commencement: Sch. 29 para. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c2be7e06ab2d2d764ecb769d7ed7815b]: Commencement: Sch. 29 para. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6c7f11266d43e8395b3a0397623ade87]: Commencement: Sch. 29 para. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6c7f11266d43e8395b3a0397623ade87]: Commencement: Sch. 29 para. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-bde6e56839d6eef50b74bd14a047a84d]: Commencement: Sch. 29 para. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-bde6e56839d6eef50b74bd14a047a84d]: Commencement: Sch. 29 para. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24327491]: Marginal citation: [S.I. 2000/730](https://www.legislation.gov.uk/uksi/2000/730); amended by [S.I. 2003/1903](https://www.legislation.gov.uk/uksi/2003/1903), [S.I](https://www.legislation.gov.uk/uksi/2003/1903/section/I). 2003/3144, [S.I. 2005/281](https://www.legislation.gov.uk/uksi/2005/281), [S.I](https://www.legislation.gov.uk/uksi/2005/281/section/I). 2015/1630 and [S.I. 2016/1101](https://www.legislation.gov.uk/uksi/2016/1101).
 
-[^key-d894c52fc6dcdd8ff4cc29ed32e799cc]: Commencement: Sch. 29 para. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d894c52fc6dcdd8ff4cc29ed32e799cc]: Commencement: Sch. 29 para. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-edd6a5a25fbcb724ed09db27869dcfd3]: Textual amendment: Words in Sch. 29 para. 44 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(r)(vi)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/r/vi)
+[^c-edd6a5a25fbcb724ed09db27869dcfd3]: Textual amendment: Words in Sch. 29 para. 44 substituted (31.12.2020 immediately before IP completion day) by [The Product Safety and Metrology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/852)](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(r)(vi)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/r/vi)
 
 [^c24327501]: Marginal citation: [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696).
 
-[^key-1f294d2b29a1499928bea62fa42aa59a]: Commencement: Sch. 29 para. 45 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1f294d2b29a1499928bea62fa42aa59a]: Commencement: Sch. 29 para. 45 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-bdcfe1e260a64b51ca0a32c3e0104048]: Commencement: Sch. 29 para. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-bdcfe1e260a64b51ca0a32c3e0104048]: Commencement: Sch. 29 para. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24327511]: Marginal citation: [S.I. 2016/1025](https://www.legislation.gov.uk/uksi/2016/1025).
 
-[^key-141e724f658f2fbdfb65e531777b884a]: Commencement: Sch. 29 para. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-141e724f658f2fbdfb65e531777b884a]: Commencement: Sch. 29 para. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-708b524d867175a40aef00396c352a8b]: Commencement: Sch. 29 para. 48 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-708b524d867175a40aef00396c352a8b]: Commencement: Sch. 29 para. 48 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-36b416372eda6ead5006908ff5a8f034]: Commencement: Sch. 29 para. 49 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-36b416372eda6ead5006908ff5a8f034]: Commencement: Sch. 29 para. 49 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-29d0f08919d6332229fca1d9faed8cac]: Commencement: Sch. 29 para. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-29d0f08919d6332229fca1d9faed8cac]: Commencement: Sch. 29 para. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-07b7ef8b468bd09e20d5a52aa1fe040f]: Commencement: Sch. 29 para. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-07b7ef8b468bd09e20d5a52aa1fe040f]: Commencement: Sch. 29 para. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5272a677fe520995e7e1ce1a59cdc431]: Commencement: Sch. 29 para. 52 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5272a677fe520995e7e1ce1a59cdc431]: Commencement: Sch. 29 para. 52 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-641321ae32bf4c2d547ee697a60bfe78]: Commencement: Sch. 29 para. 53 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-641321ae32bf4c2d547ee697a60bfe78]: Commencement: Sch. 29 para. 53 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-cbc848c1d30a7b53b9bef3de92a4eea6]: Commencement: Sch. 29 para. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-cbc848c1d30a7b53b9bef3de92a4eea6]: Commencement: Sch. 29 para. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e1703a43d6e0afbe2184bbfc118abe6d]: Commencement: Sch. 29 para. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e1703a43d6e0afbe2184bbfc118abe6d]: Commencement: Sch. 29 para. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6ac35924aec713b80dd7e25bea528555]: Commencement: Sch. 29 para. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6ac35924aec713b80dd7e25bea528555]: Commencement: Sch. 29 para. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9c3ed7f13a23eb5d7bc0b452b4d6bd90]: Commencement: Sch. 29 para. 57 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9c3ed7f13a23eb5d7bc0b452b4d6bd90]: Commencement: Sch. 29 para. 57 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-4ea59a1a0a75576454398ddbe2c93fd4]: Commencement: Sch. 29 para. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4ea59a1a0a75576454398ddbe2c93fd4]: Commencement: Sch. 29 para. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-acf702f9d12fdfb65176176cbe8832ac]: Commencement: Sch. 29 para. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-acf702f9d12fdfb65176176cbe8832ac]: Commencement: Sch. 29 para. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f150cd770d7f2b69aaf69d731398f45d]: Commencement: Sch. 29 para. 60 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f150cd770d7f2b69aaf69d731398f45d]: Commencement: Sch. 29 para. 60 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-a682df5f8b3cf2aaa8fb90bed285b60a]: Commencement: Sch. 29 para. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a682df5f8b3cf2aaa8fb90bed285b60a]: Commencement: Sch. 29 para. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5068054d8bb5fcac2ab5b5c1366b999c]: Commencement: Sch. 29 para. 62 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5068054d8bb5fcac2ab5b5c1366b999c]: Commencement: Sch. 29 para. 62 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

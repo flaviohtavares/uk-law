@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170.[^key-95b704698418bb36e9c89f7bc1a99498]
+## 170.[^c-95b704698418bb36e9c89f7bc1a99498]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 2 (approved share incentive plans), in paragraph 22(3), in the defin
 
 ## Annotations
 
-[^key-95b704698418bb36e9c89f7bc1a99498]: Commencement: Reg. 170 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-95b704698418bb36e9c89f7bc1a99498]: Commencement: Reg. 170 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

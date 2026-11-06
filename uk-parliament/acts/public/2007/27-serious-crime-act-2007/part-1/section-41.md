@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Powers of law enforcement officers to retain documents[^key-21f734efa6f61d9267352f8a86007597]
+## 41. Powers of law enforcement officers to retain documents[^c-21f734efa6f61d9267352f8a86007597]
 
 *Extent: E+W+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21f734efa6f61d9267352f8a86007597]: Commencement: S. 41 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(k)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/k)
+[^c-21f734efa6f61d9267352f8a86007597]: Commencement: S. 41 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(k)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/k)

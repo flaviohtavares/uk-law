@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Initial undertakings: completed mergers[^key-8935cb558567057747817873cbf172e3]
+## 71. Initial undertakings: completed mergers[^c-8935cb558567057747817873cbf172e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8935cb558567057747817873cbf172e3]: Textual amendment: S. 71 omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/30/1), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-8935cb558567057747817873cbf172e3]: Textual amendment: S. 71 omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/30/1), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

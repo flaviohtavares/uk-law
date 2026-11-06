@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purposes of this Part a trade carried on by a charitable trust is a charitable trade in relation to a tax year if throughout [^key-4be387892b5e372f42a2629ce38bf500]... the tax year—
+(1) For the purposes of this Part a trade carried on by a charitable trust is a charitable trade in relation to a tax year if throughout [^c-4be387892b5e372f42a2629ce38bf500]... the tax year—
 
 - (a) the trade is exercised in the course of carrying out a primary purpose of the charitable trust, or
 - (b) the work in connection with the trade is mainly carried out by beneficiaries of the charitable trust.
@@ -34,10 +34,10 @@ summary: ''
 - (a) expenses and receipts of the trade, and
 - (b) any amounts which are treated as adjustment income under section 228 of ITTOIA 2005 in respect of the trade, or which are post-cessation receipts arising from the trade for the purposes of Chapter 18 of Part 2 of that Act.
 
-(5)[^key-6736e5d5193b8fde27cc4c8428cfd49c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-6736e5d5193b8fde27cc4c8428cfd49c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4be387892b5e372f42a2629ce38bf500]: Textual amendment: Words in [s. 525(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/525/1) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 54(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/54/2), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-4be387892b5e372f42a2629ce38bf500]: Textual amendment: Words in [s. 525(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/525/1) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 54(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/54/2), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
 
-[^key-6736e5d5193b8fde27cc4c8428cfd49c]: Textual amendment: [S. 525(5)](https://www.legislation.gov.uk/ukpga/2007/3/section/525/5) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 54(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/54/3), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-6736e5d5193b8fde27cc4c8428cfd49c]: Textual amendment: [S. 525(5)](https://www.legislation.gov.uk/ukpga/2007/3/section/525/5) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 54(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/54/3), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

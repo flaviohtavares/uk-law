@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Transitional provisions[^key-90db6be06b3edd7f18e70ff529ce514d]
+## 31. Transitional provisions[^c-90db6be06b3edd7f18e70ff529ce514d]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90db6be06b3edd7f18e70ff529ce514d]: Commencement: S. 31 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(g)](https://www.legislation.gov.uk/uksi/2007/935/article/5/g)
+[^c-90db6be06b3edd7f18e70ff529ce514d]: Commencement: S. 31 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(g)](https://www.legislation.gov.uk/uksi/2007/935/article/5/g)

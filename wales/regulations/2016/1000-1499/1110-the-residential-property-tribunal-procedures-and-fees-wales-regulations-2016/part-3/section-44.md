@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Fees for applications made under the 1985 Act[^key-db5258b9ce9dcdb1b066fe22ec94bdd7]
+## 44. Fees for applications made under the 1985 Act[^c-db5258b9ce9dcdb1b066fe22ec94bdd7]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Subject to regulation 51(2), a fee of £155 is payable for an application to a t
 
 ## Annotations
 
-[^key-db5258b9ce9dcdb1b066fe22ec94bdd7]: Commencement: Reg. 44 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-db5258b9ce9dcdb1b066fe22ec94bdd7]: Commencement: Reg. 44 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

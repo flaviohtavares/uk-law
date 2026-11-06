@@ -33,56 +33,56 @@ of 26 May 2014
 
 laying down implementing measures for the system of own resources of the European Union (revoked)
 
-[^key-1261d1a4bc75ee661b8add7f42d4035f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1261d1a4bc75ee661b8add7f42d4035f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER I — DETERMINING OWN RESOURCES[^key-1261d1a4bc75ee661b8add7f42d4035f]
+## CHAPTER I — DETERMINING OWN RESOURCES[^c-1261d1a4bc75ee661b8add7f42d4035f]
 
-### Article 1. Calculation and budgeting of the balance[^key-1261d1a4bc75ee661b8add7f42d4035f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## CHAPTER II — PROVISIONS CONCERNING CONTROL AND SUPERVISION, INCLUDING RELEVANT REPORTING REQUIREMENTS[^key-1261d1a4bc75ee661b8add7f42d4035f]
-
-### Article 2. Control and supervision measures[^key-1261d1a4bc75ee661b8add7f42d4035f]
+### Article 1. Calculation and budgeting of the balance[^c-1261d1a4bc75ee661b8add7f42d4035f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Powers and obligations of the authorised agents of the Commission[^key-1261d1a4bc75ee661b8add7f42d4035f]
+## CHAPTER II — PROVISIONS CONCERNING CONTROL AND SUPERVISION, INCLUDING RELEVANT REPORTING REQUIREMENTS[^c-1261d1a4bc75ee661b8add7f42d4035f]
+
+### Article 2. Control and supervision measures[^c-1261d1a4bc75ee661b8add7f42d4035f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Preparation and management of inspections[^key-1261d1a4bc75ee661b8add7f42d4035f]
+### Article 3. Powers and obligations of the authorised agents of the Commission[^c-1261d1a4bc75ee661b8add7f42d4035f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Reporting fraud and irregularities affecting entitlements to traditional own resources[^key-1261d1a4bc75ee661b8add7f42d4035f]
+### Article 4. Preparation and management of inspections[^c-1261d1a4bc75ee661b8add7f42d4035f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Reporting by Member States of their inspections of traditional own resources[^key-1261d1a4bc75ee661b8add7f42d4035f]
+### Article 5. Reporting fraud and irregularities affecting entitlements to traditional own resources[^c-1261d1a4bc75ee661b8add7f42d4035f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — COMMITTEE AND FINAL PROVISIONS[^key-1261d1a4bc75ee661b8add7f42d4035f]
-
-### Article 7. Committee procedure[^key-1261d1a4bc75ee661b8add7f42d4035f]
+### Article 6. Reporting by Member States of their inspections of traditional own resources[^c-1261d1a4bc75ee661b8add7f42d4035f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Final provisions[^key-1261d1a4bc75ee661b8add7f42d4035f]
+## CHAPTER III — COMMITTEE AND FINAL PROVISIONS[^c-1261d1a4bc75ee661b8add7f42d4035f]
+
+### Article 7. Committee procedure[^c-1261d1a4bc75ee661b8add7f42d4035f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Entry into force[^key-1261d1a4bc75ee661b8add7f42d4035f]
+### Article 8. Final provisions[^c-1261d1a4bc75ee661b8add7f42d4035f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1261d1a4bc75ee661b8add7f42d4035f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 9. Entry into force[^c-1261d1a4bc75ee661b8add7f42d4035f]
 
-## ANNEX — CORRELATION TABLE[^key-1261d1a4bc75ee661b8add7f42d4035f]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1261d1a4bc75ee661b8add7f42d4035f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX — CORRELATION TABLE[^c-1261d1a4bc75ee661b8add7f42d4035f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1261d1a4bc75ee661b8add7f42d4035f]: Textual amendment: Regulation revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(h)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1261d1a4bc75ee661b8add7f42d4035f]: Textual amendment: Regulation revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(h)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

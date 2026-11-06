@@ -855,7 +855,7 @@ After regulation 32 there shall be inserted the following regulations–
 
 Regulations 33 [^c16373441] (cancellation of a departure direction following a review under section 16, 17, 18 or 19 of the Child Support Act) and 34 (cancellation of a departure direction on recognition of an error) are hereby revoked.
 
-### 46. Amendment of regulation 34A[^key-b2305d88d98d202bd397aff8f95ded9c]
+### 46. Amendment of regulation 34A[^c-b2305d88d98d202bd397aff8f95ded9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1014,7 +1014,7 @@ These Regulations do not impose a charge on business.
 
 [^c16373441]: Marginal citation: [Regulation 33](https://www.legislation.gov.uk/uksi/1999/1047/regulation/33) was amended by [S.I. 1998/2799](https://www.legislation.gov.uk/uksi/1998/2799).
 
-[^key-b2305d88d98d202bd397aff8f95ded9c]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/1999/1047/regulation/46) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-b2305d88d98d202bd397aff8f95ded9c]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/1999/1047/regulation/46) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
 [^c16373471]: Marginal citation: [Regulation 41](https://www.legislation.gov.uk/uksi/1999/1047/regulation/41) was amended by [S.I. 1998/58](https://www.legislation.gov.uk/uksi/1998/58) and [S.I. 1998/2799](https://www.legislation.gov.uk/uksi/1998/2799).
 

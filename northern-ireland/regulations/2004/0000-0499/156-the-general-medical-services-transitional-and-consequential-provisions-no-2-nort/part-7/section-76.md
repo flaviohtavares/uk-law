@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76. Referrals to investigating discipline committees before the relevant date (regulation 5 of the Disciplinary Procedures Regulations)[^key-d0b38d1c7f9ee9861091eaed89600b96]
+## 76. Referrals to investigating discipline committees before the relevant date (regulation 5 of the Disciplinary Procedures Regulations)[^c-d0b38d1c7f9ee9861091eaed89600b96]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ Where a Board (A) has, before the relevant date, referred a matter in respect of
 
 ## Annotations
 
-[^key-d0b38d1c7f9ee9861091eaed89600b96]: Commencement: Art. 76 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-d0b38d1c7f9ee9861091eaed89600b96]: Commencement: Art. 76 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

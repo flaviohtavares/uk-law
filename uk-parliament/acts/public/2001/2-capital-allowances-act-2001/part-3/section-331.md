@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 331. Capital value provisions: interpretation[^key-9110db95a01c0c29a5bddba26486e553]
+## 331. Capital value provisions: interpretation[^c-9110db95a01c0c29a5bddba26486e553]
 
 *Extent: E+W+S+N.I.*
 
 (1) “**Capital value**” means any capital sum—
 
 - (a) including what would have been a capital sum if it had been a money payment (and references to payment are to be read accordingly), but
-- (b) excluding so much of any sum as corresponds to —[^key-2a5a84e6e6ea11e1308293b8d5f57b27]
-  - (i)[^key-567114f74d813e346bff58f64301cb5e] an amount brought into account as a receipt in calculating the profits of a property business under sections 217 to 221 of CTA 2009 that is calculated by reference to the sum, or
-  - (ii)[^key-0dce744a1fbb358dad2a87c58a761101] an amount brought into account as a receipt in calculating the profits of a UK property business under sections 277 to 281 of ITTOIA 2005 that is calculated by reference to the sum.
+- (b) excluding so much of any sum as corresponds to —[^c-2a5a84e6e6ea11e1308293b8d5f57b27]
+  - (i)[^c-567114f74d813e346bff58f64301cb5e] an amount brought into account as a receipt in calculating the profits of a property business under sections 217 to 221 of CTA 2009 that is calculated by reference to the sum, or
+  - (ii)[^c-0dce744a1fbb358dad2a87c58a761101] an amount brought into account as a receipt in calculating the profits of a UK property business under sections 277 to 281 of ITTOIA 2005 that is calculated by reference to the sum.
 
 (2) “**Interest in land**” means—
 
@@ -45,10 +45,10 @@ summary: ''
 
 ## Annotations
 
-[^key-9110db95a01c0c29a5bddba26486e553]: Textual amendment: Pt. 3 omitted (with effect in relation to chargeable periods beginning on or after 1.4.2011 for corporation tax purposes and 6.4.2011 for income tax purposes in accordance with ss. 84(1)(3)(4), 85, 86 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/84/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27))
+[^c-9110db95a01c0c29a5bddba26486e553]: Textual amendment: Pt. 3 omitted (with effect in relation to chargeable periods beginning on or after 1.4.2011 for corporation tax purposes and 6.4.2011 for income tax purposes in accordance with ss. 84(1)(3)(4), 85, 86 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/84/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27))
 
-[^key-2a5a84e6e6ea11e1308293b8d5f57b27]: Textual amendment: Words in s. 331(1)(b) become s. 331(1)(b)(i) (with effect in accordance with s. 883(1) of the amending Act) by virtue of [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 554(a)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/554/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-2a5a84e6e6ea11e1308293b8d5f57b27]: Textual amendment: Words in s. 331(1)(b) become s. 331(1)(b)(i) (with effect in accordance with s. 883(1) of the amending Act) by virtue of [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 554(a)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/554/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-567114f74d813e346bff58f64301cb5e]: Textual amendment: S. 331(1)(b)(i) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 500](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/500) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-567114f74d813e346bff58f64301cb5e]: Textual amendment: S. 331(1)(b)(i) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 500](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/500) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-0dce744a1fbb358dad2a87c58a761101]: Textual amendment: S. 331(1)(b)(ii) and word inserted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 554(b)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/554/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-0dce744a1fbb358dad2a87c58a761101]: Textual amendment: S. 331(1)(b)(ii) and word inserted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 554(b)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/554/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

@@ -22,7 +22,7 @@ summary: ''
 
 Article 41
 
-### 1. Interpretation[^key-47fa7df24ecd6e0323c6227ff11833f5]
+### 1. Interpretation[^c-47fa7df24ecd6e0323c6227ff11833f5]
 
 In this Schedule—
 
@@ -31,7 +31,7 @@ In this Schedule—
 - “**relevant authority**” means any person, authority or body, other than the Secretary of State, named in any of the provisions of this Order and whose consent, agreement or approval is sought; and
 - “**requirement consultee**” means any body or authority named in a requirement as a body to be consulted by the relevant planning authority in discharging that requirement.
 
-### 2. Applications made under provisions of this Order[^key-e6e9c20ffbcd96ccb88e38d13fd5cea2]
+### 2. Applications made under provisions of this Order[^c-e6e9c20ffbcd96ccb88e38d13fd5cea2]
 
 (1) Where an application has been made to the relevant authority for any consent, agreement or approval required or contemplated by any of the provisions of this Order (including consent, agreement or approval in respect of part of a requirement) the relevant authority must give notice to the undertaker of their decision on the application within—
 
@@ -64,7 +64,7 @@ then the application is to be taken to have been refused by the relevant authori
 - (c) East Cambridgeshire District Council is the discharging authority under Schedule 2 of this Order, East Cambridgeshire District Council must consult with Cambridgeshire County Council; and
 - (d) Cambridgeshire County Council is the discharging authority under Schedule 2 of this Order, Cambridgeshire County Council must consult with East Cambridgeshire District Council.
 
-### 3. Further information and consultation[^key-298525cac3718a95fc545ba0d89ad580]
+### 3. Further information and consultation[^c-298525cac3718a95fc545ba0d89ad580]
 
 (1) In relation to any application made under paragraph 2, the relevant authority may request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -74,7 +74,7 @@ then the application is to be taken to have been refused by the relevant authori
 
 (4) In the event that the relevant authority does not give notification as specified in sub-paragraph (2) or (3) it is to be deemed to have sufficient information to consider the application and is not thereafter entitled to request additional further information without the prior agreement of the undertaker.
 
-### 4. Appeals[^key-769a11f113a5f0a3cb683d6fce465ada]
+### 4. Appeals[^c-769a11f113a5f0a3cb683d6fce465ada]
 
 (1) The undertaker may appeal in the event that—
 
@@ -116,7 +116,7 @@ and may deal with the application as if it had been made to him in the first ins
 
 (12) On application by the relevant authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to Planning Practice Guidance: Appeals (March 2014) or any circular or guidance which may from time to time replace it.
 
-### 5. Fees[^key-0b3814d306b9c2632d1427eef643e311]
+### 5. Fees[^c-0b3814d306b9c2632d1427eef643e311]
 
 (1) Where an application is made to the relevant authority for consent, agreement or approval in respect of a requirement only, a fee is to be paid to that relevant authority as follows—
 
@@ -135,14 +135,14 @@ and may deal with the application as if it had been made to him in the first ins
 
 ## Annotations
 
-[^key-47fa7df24ecd6e0323c6227ff11833f5]: Commencement: Sch. 13 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-47fa7df24ecd6e0323c6227ff11833f5]: Commencement: Sch. 13 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
 [^f00083]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-e6e9c20ffbcd96ccb88e38d13fd5cea2]: Commencement: Sch. 13 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-e6e9c20ffbcd96ccb88e38d13fd5cea2]: Commencement: Sch. 13 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
-[^key-298525cac3718a95fc545ba0d89ad580]: Commencement: Sch. 13 para. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-298525cac3718a95fc545ba0d89ad580]: Commencement: Sch. 13 para. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
-[^key-769a11f113a5f0a3cb683d6fce465ada]: Commencement: Sch. 13 para. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-769a11f113a5f0a3cb683d6fce465ada]: Commencement: Sch. 13 para. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
-[^key-0b3814d306b9c2632d1427eef643e311]: Commencement: Sch. 13 para. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-0b3814d306b9c2632d1427eef643e311]: Commencement: Sch. 13 para. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)

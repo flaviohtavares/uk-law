@@ -48,17 +48,17 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-542d38339eadc00de42c527f522b66ea]
+### 1. Citation and commencement[^c-542d38339eadc00de42c527f522b66ea]
 
 (1) These Regulations may be cited as the Register of Overseas Entities (Disclosure and Dispositions) Regulations 2023.
 
 (2) These Regulations come into force on 11th April 2023, except for Part 3 which comes into force on 5th June 2023.
 
-### 2. Extent[^key-5c516b38ec7751ab199ec825dc39f43e]
+### 2. Extent[^c-5c516b38ec7751ab199ec825dc39f43e]
 
 These Regulations extend to England and Wales, Scotland and Northern Ireland, except for Part 3 which extends to England and Wales only.
 
-### 3. Interpretation[^key-ddbf4ea0701891ebdf930f77ece8c53b]
+### 3. Interpretation[^c-ddbf4ea0701891ebdf930f77ece8c53b]
 
 (1) In these Regulations—
 
@@ -85,11 +85,11 @@ These Regulations extend to England and Wales, Scotland and Northern Ireland, ex
 
 ## PART 2 — Disclosure
 
-### 4. Permitted disclosure of the required information about trusts[^key-4ff2b6d0fa85929e5263c009e921cb3c]
+### 4. Permitted disclosure of the required information about trusts[^c-4ff2b6d0fa85929e5263c009e921cb3c]
 
 (1) The registrar may disclose to any specified person the required information about trusts for the purposes of section 23 of the ECTEA.
 
-### 5. Permitted disclosure of protected information[^key-05179649ef1148f6110e1e377913a9d9]
+### 5. Permitted disclosure of protected information[^c-05179649ef1148f6110e1e377913a9d9]
 
 (1) Subject to paragraph (2), the registrar may disclose to any specified person protected information for the purposes of section 24 of the ECTEA.
 
@@ -107,14 +107,14 @@ These Regulations extend to England and Wales, Scotland and Northern Ireland, ex
 
 *Extent: E+W*
 
-### 6. Who may apply for consent[^key-63ec4a132b110383a1b5265939ae3ff7]
+### 6. Who may apply for consent[^c-63ec4a132b110383a1b5265939ae3ff7]
 
 An application under regulation 7 may be made by—
 
 - (a) a person to whom the disposition of a qualifying estate was made; or
 - (b) a person acting on behalf of the person to whom paragraph (a) applies.
 
-### 7. Applications for consent[^key-3a175b0dac6983bdd2ac8cc984c9c0f1]
+### 7. Applications for consent[^c-3a175b0dac6983bdd2ac8cc984c9c0f1]
 
 (1) An application to the Secretary of State for consent to the registration of a disposition of a qualifying estate that would otherwise be prohibited by a land restriction must—
 
@@ -131,11 +131,11 @@ An application under regulation 7 may be made by—
 
 (2) An application referred to in paragraph (1) must also be accompanied by any documents or information which support the application.
 
-### 8. Notification of a determination[^key-f2b98816439e85a68f5388d7ee1e88c0]
+### 8. Notification of a determination[^c-f2b98816439e85a68f5388d7ee1e88c0]
 
 As soon as is reasonably practicable after determining an application made under regulation 7, the Secretary of State must notify the outcome of the application to the applicant.
 
-### 9. Matters relating to an application made under regulation 7[^key-196bffddcbad981c6f70447f80c371f6]
+### 9. Matters relating to an application made under regulation 7[^c-196bffddcbad981c6f70447f80c371f6]
 
 (1) For the purpose of determining an application made under regulation 7, the Secretary of State may direct the applicant to provide additional information or evidence within a specified period.
 
@@ -153,113 +153,113 @@ At 3.03 p.m. on 20th March 2023
 
 Regulation 3
 
-**1.**[^key-f07b438b3aa3d69e7de357097dbed181] The Bank of England.
+**1.**[^c-f07b438b3aa3d69e7de357097dbed181] The Bank of England.
 
-**2.**[^key-d8d70bc7b44409ad2e019e1ff9b0b747] The Charity Commission.
+**2.**[^c-d8d70bc7b44409ad2e019e1ff9b0b747] The Charity Commission.
 
-**3.**[^key-7f83628123cd821ffdf171eb44b0d533] The Charity Commission for Northern Ireland.
+**3.**[^c-7f83628123cd821ffdf171eb44b0d533] The Charity Commission for Northern Ireland.
 
-**4.**[^key-b910d6ae0520a5328a42172afedee4b1] The Commissioners for Her Majesty’s Revenue and Customs.
+**4.**[^c-b910d6ae0520a5328a42172afedee4b1] The Commissioners for Her Majesty’s Revenue and Customs.
 
-**5.**[^key-3803f9acce8bcbf76a47fa7f93278a96] The Competition and Markets Authority.
+**5.**[^c-3803f9acce8bcbf76a47fa7f93278a96] The Competition and Markets Authority.
 
-**6.**[^key-556dd3749971342c283f2b4bf00b7d9f] The Crown Office and Procurator Fiscal Services.
+**6.**[^c-556dd3749971342c283f2b4bf00b7d9f] The Crown Office and Procurator Fiscal Services.
 
-**7.**[^key-36878f849d88085090975613a4c4db61] The Director of Public Prosecutions.
+**7.**[^c-36878f849d88085090975613a4c4db61] The Director of Public Prosecutions.
 
-**8.**[^key-a466812064ced5be5319a78bfb5bb500] The Director of Public Prosecutions for Northern Ireland.
+**8.**[^c-a466812064ced5be5319a78bfb5bb500] The Director of Public Prosecutions for Northern Ireland.
 
-**9.**[^key-f3a1c86d0b7f7c5f36aed7e8373fd214] The Financial Conduct Authority.
+**9.**[^c-f3a1c86d0b7f7c5f36aed7e8373fd214] The Financial Conduct Authority.
 
-**10.**[^key-7c38f33bbd649ca898f730e99a15bd98] The Food Standards Agency.
+**10.**[^c-7c38f33bbd649ca898f730e99a15bd98] The Food Standards Agency.
 
-**11.**[^key-de6e908557a2aea07cac132e7531618f] The Gas and Electricity Markets Authority.
+**11.**[^c-de6e908557a2aea07cac132e7531618f] The Gas and Electricity Markets Authority.
 
-**12.**[^key-302a3692458b0cb2bc61e7902b29bed0] The Gambling Commission.
+**12.**[^c-302a3692458b0cb2bc61e7902b29bed0] The Gambling Commission.
 
-**13.**[^key-98985f7fc36c3be5ab617173cee731a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-98985f7fc36c3be5ab617173cee731a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-9c96a58777f7c236f27b38742d6d23be] The Government Communications Headquarters.
+**14.**[^c-9c96a58777f7c236f27b38742d6d23be] The Government Communications Headquarters.
 
-**15.**[^key-b10c3cce29c7c3c0d76ab896585eeb2c] The Health and Safety Executive.
+**15.**[^c-b10c3cce29c7c3c0d76ab896585eeb2c] The Health and Safety Executive.
 
-**16.**[^key-dfb2f1dc825a7550987c1838934c5b71] The Health and Safety Executive for Northern Ireland.
+**16.**[^c-dfb2f1dc825a7550987c1838934c5b71] The Health and Safety Executive for Northern Ireland.
 
-**17.**[^key-d52bc24c8a73ff6d7b219ba2be9ecc35] The Marine Management Organisation.
+**17.**[^c-d52bc24c8a73ff6d7b219ba2be9ecc35] The Marine Management Organisation.
 
-**18.**[^key-23a8e1a50975d4fc28ccde751120db27] The Minister for the Cabinet Office.
+**18.**[^c-23a8e1a50975d4fc28ccde751120db27] The Minister for the Cabinet Office.
 
-**19.**[^key-e3f4bdefc8ab994d2b86defdb1d49bee] The National Crime Agency.
+**19.**[^c-e3f4bdefc8ab994d2b86defdb1d49bee] The National Crime Agency.
 
-**20.**[^key-9fb0de838ac0cef54ecda2dabb38e74c] The Northern Ireland Authority for Utility Regulation.
+**20.**[^c-9fb0de838ac0cef54ecda2dabb38e74c] The Northern Ireland Authority for Utility Regulation.
 
-**21.**[^key-514ecce3ab123d45106b28d2e2b8f032] Any Northern Ireland Department.
+**21.**[^c-514ecce3ab123d45106b28d2e2b8f032] Any Northern Ireland Department.
 
-**22.**[^key-13ade2f65ffcdc23d0b99e7eb815a935] The Office of Communications.
+**22.**[^c-13ade2f65ffcdc23d0b99e7eb815a935] The Office of Communications.
 
-**23.**[^key-e5d0df245b306e7fa5cae124af3ea071] The Office of the Information Commissioner.
+**23.**[^c-e5d0df245b306e7fa5cae124af3ea071] The Office of the Information Commissioner.
 
-**24.**[^key-eb49ba6a38c2365bbf535b5044e76b89] The Office for Nuclear Regulation.
+**24.**[^c-eb49ba6a38c2365bbf535b5044e76b89] The Office for Nuclear Regulation.
 
-**25.**[^key-21a1b3c19070a1540d3da6ba440f1a86] The Office of the Scottish Charity Regulator.
+**25.**[^c-21a1b3c19070a1540d3da6ba440f1a86] The Office of the Scottish Charity Regulator.
 
-**26.**[^key-5eb2ee9e8629b8a0eddee116d514be30] The Official Receiver for Northern Ireland.
+**26.**[^c-5eb2ee9e8629b8a0eddee116d514be30] The Official Receiver for Northern Ireland.
 
-**27.**[^key-7b084fd4e6a7eacdffebaa19c67a3f03] The Panel on Takeovers and Mergers.
+**27.**[^c-7b084fd4e6a7eacdffebaa19c67a3f03] The Panel on Takeovers and Mergers.
 
-**28.**[^key-ec39b9a909ea675b4b73667bf842d058] The Pensions Regulator.
+**28.**[^c-ec39b9a909ea675b4b73667bf842d058] The Pensions Regulator.
 
-**29.**[^key-e99e40dac9c781c75e47f71a84418014] The Prudential Regulation Authority.
+**29.**[^c-e99e40dac9c781c75e47f71a84418014] The Prudential Regulation Authority.
 
-**30.**[^key-4884d2984aafb14d4422834a43ee444d] The Registry of Credit Unions and Industrial and Provident Societies for Northern Ireland.
+**30.**[^c-4884d2984aafb14d4422834a43ee444d] The Registry of Credit Unions and Industrial and Provident Societies for Northern Ireland.
 
-**31.**[^key-527e99125260b8effadc9852416dfb0b] The Regulator of Community Interest Companies.
+**31.**[^c-527e99125260b8effadc9852416dfb0b] The Regulator of Community Interest Companies.
 
-**32.**[^key-0298a6bfa50ce6476247fd96df65ce7d] The Scottish Housing Regulator.
+**32.**[^c-0298a6bfa50ce6476247fd96df65ce7d] The Scottish Housing Regulator.
 
-**33.**[^key-7a53cd1edd011564b654dd1d3e90a112] The Scottish Ministers.
+**33.**[^c-7a53cd1edd011564b654dd1d3e90a112] The Scottish Ministers.
 
-**34.**[^key-b9b8ee5f596d622d84d98f7dddeffee4] The Security Industry Authority.
+**34.**[^c-b9b8ee5f596d622d84d98f7dddeffee4] The Security Industry Authority.
 
-**35.**[^key-c4cbc8a0dc1f424508b49530931ff761] The Secret Intelligence Service.
+**35.**[^c-c4cbc8a0dc1f424508b49530931ff761] The Secret Intelligence Service.
 
-**36.**[^key-77426829698b179856bdd458b51aabc0] The Secretary of State.
+**36.**[^c-77426829698b179856bdd458b51aabc0] The Secretary of State.
 
-**37.**[^key-da4c967ede5f19abb93f7b1f32f9b88c] The Security Service.
+**37.**[^c-da4c967ede5f19abb93f7b1f32f9b88c] The Security Service.
 
-**38.**[^key-c92092698d29a6e2084e48a7518417f7] The Serious Fraud Office.
+**38.**[^c-c92092698d29a6e2084e48a7518417f7] The Serious Fraud Office.
 
-**39.**[^key-a3e1b9566df4cb155445338a3460ffec] The Treasury.
+**39.**[^c-a3e1b9566df4cb155445338a3460ffec] The Treasury.
 
-**40.**[^key-4f21e083f7de508745607f4348093d71] The Treasury Solicitor.
+**40.**[^c-4f21e083f7de508745607f4348093d71] The Treasury Solicitor.
 
-**41.**[^key-cd30b1647d7effbe0eff96f930765c6e] The Welsh Ministers.
+**41.**[^c-cd30b1647d7effbe0eff96f930765c6e] The Welsh Ministers.
 
-**42.**[^key-4f800ba73843edc64ed3aaa05e729dfa] A local authority within the meaning of section 54(2) of the Companies Act 2006.
+**42.**[^c-4f800ba73843edc64ed3aaa05e729dfa] A local authority within the meaning of section 54(2) of the Companies Act 2006.
 
-**43.**[^key-8e1dbe7d89d633dfa4dcd9c37ec4927a] An official receiver appointed under section 399 of the Insolvency Act 1986[^f00003] (appointment, etc, of official receivers).
+**43.**[^c-8e1dbe7d89d633dfa4dcd9c37ec4927a] An official receiver appointed under section 399 of the Insolvency Act 1986[^f00003] (appointment, etc, of official receivers).
 
-**44.**[^key-92944b2200c0ae4b7cf9390480bec64e] A person acting as an insolvency practitioner within the meaning of section 388 of the Insolvency Act 1986[^f00004] (meaning of “**act as an insolvency practitioner**”) or article 3 of the Insolvency (Northern Ireland) Order 1989[^f00005] (“act as an insolvency practitioner”).
+**44.**[^c-92944b2200c0ae4b7cf9390480bec64e] A person acting as an insolvency practitioner within the meaning of section 388 of the Insolvency Act 1986[^f00004] (meaning of “**act as an insolvency practitioner**”) or article 3 of the Insolvency (Northern Ireland) Order 1989[^f00005] (“act as an insolvency practitioner”).
 
-**45.**[^key-40a03eb5bcb3cdf80445254eeae4e32b] An inspector appointed under Part 14 of the Companies Act 1985[^f00006] (investigation of companies and their affairs: requisition of documents) or a person appointed under regulation 30 of the Open-Ended Investment Companies Regulations 2001[^f00007] (power to investigate) or regulation 30 of the Open-Ended Investment Companies Regulations (Northern Ireland) 2004[^f00008].
+**45.**[^c-40a03eb5bcb3cdf80445254eeae4e32b] An inspector appointed under Part 14 of the Companies Act 1985[^f00006] (investigation of companies and their affairs: requisition of documents) or a person appointed under regulation 30 of the Open-Ended Investment Companies Regulations 2001[^f00007] (power to investigate) or regulation 30 of the Open-Ended Investment Companies Regulations (Northern Ireland) 2004[^f00008].
 
-**46.**[^key-88370614d46e720dfa3e8cc7ae4fcdec] Any person authorised to exercise powers under section 447 of the Companies Act 1985 (power to require documents and information), or section 84 of the Companies Act 1989[^f00009] (exercise of powers by officers, etc).
+**46.**[^c-88370614d46e720dfa3e8cc7ae4fcdec] Any person authorised to exercise powers under section 447 of the Companies Act 1985 (power to require documents and information), or section 84 of the Companies Act 1989[^f00009] (exercise of powers by officers, etc).
 
-**47.**[^key-df52f145a217431735dad72a1f63eec8] Any person exercising functions conferred by Part 6 of the Financial Services and Markets Act 2000[^f00010] (official listing).
+**47.**[^c-df52f145a217431735dad72a1f63eec8] Any person exercising functions conferred by Part 6 of the Financial Services and Markets Act 2000[^f00010] (official listing).
 
-**48.**[^key-d761ce2ea0c9d600f75de34cbf534337] A person appointed to make a report under section 166 or 166A (reports by skilled persons) of the Financial Services and Markets Act 2000[^f00011].
+**48.**[^c-d761ce2ea0c9d600f75de34cbf534337] A person appointed to make a report under section 166 or 166A (reports by skilled persons) of the Financial Services and Markets Act 2000[^f00011].
 
-**49.**[^key-f1c95a14c838f766d58a0b9800374320] A person appointed to conduct an investigation under section 167 (appointment of persons to carry out general investigations) or 168(3) or (5) (appointment of persons to carry out investigations in particular cases) of the Financial Services and Markets Act 2000.
+**49.**[^c-f1c95a14c838f766d58a0b9800374320] A person appointed to conduct an investigation under section 167 (appointment of persons to carry out general investigations) or 168(3) or (5) (appointment of persons to carry out investigations in particular cases) of the Financial Services and Markets Act 2000.
 
-**50.**[^key-2ba6487064484323e8d3821ad4e0a316] A person appointed under section 284 (power to investigate) of the Financial Services and Markets Act 2000.
+**50.**[^c-2ba6487064484323e8d3821ad4e0a316] A person appointed under section 284 (power to investigate) of the Financial Services and Markets Act 2000.
 
-**51.**[^key-e41d0194c4081a1b994a5b7c5d35bc3b] A police force within the meaning of section 101(1) of the Police Act 1996[^f00012].
+**51.**[^c-e41d0194c4081a1b994a5b7c5d35bc3b] A police force within the meaning of section 101(1) of the Police Act 1996[^f00012].
 
-**52.**[^key-88abfce46c6142497cf5ef33068e8140] The Police Service of Northern Ireland.
+**52.**[^c-88abfce46c6142497cf5ef33068e8140] The Police Service of Northern Ireland.
 
-**53.**[^key-3fdeeff48f798b6bbb09b04d7817788f] The Police Service of Scotland.
+**53.**[^c-3fdeeff48f798b6bbb09b04d7817788f] The Police Service of Scotland.
 
-**54.**[^key-89da5b6852751ffed4bdcaf9543a99dd] The lead enforcement authority (as defined in section 24A of the Estate Agents Act 1979[^f00013]) exercising functions under the Estate Agents Act 1979.
+**54.**[^c-89da5b6852751ffed4bdcaf9543a99dd] The lead enforcement authority (as defined in section 24A of the Estate Agents Act 1979[^f00013]) exercising functions under the Estate Agents Act 1979.
 
 EXPLANATORY NOTE
 
@@ -291,119 +291,119 @@ An impact assessment has not been published for these Regulations as they have n
 
 [^f00002]: Footnote: [2002 c. 9](https://www.legislation.gov.uk/ukpga/2002/9). Schedule 4A was inserted by paragraph 3 of Schedule 3 to the Economic Crime (Transparency and Enforcement) Act 2022.
 
-[^key-542d38339eadc00de42c527f522b66ea]: Commencement: Reg. 1 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-542d38339eadc00de42c527f522b66ea]: Commencement: Reg. 1 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-5c516b38ec7751ab199ec825dc39f43e]: Commencement: Reg. 2 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-5c516b38ec7751ab199ec825dc39f43e]: Commencement: Reg. 2 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-ddbf4ea0701891ebdf930f77ece8c53b]: Commencement: Reg. 3 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-ddbf4ea0701891ebdf930f77ece8c53b]: Commencement: Reg. 3 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-4ff2b6d0fa85929e5263c009e921cb3c]: Commencement: Reg. 4 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-4ff2b6d0fa85929e5263c009e921cb3c]: Commencement: Reg. 4 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-05179649ef1148f6110e1e377913a9d9]: Commencement: Reg. 5 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-05179649ef1148f6110e1e377913a9d9]: Commencement: Reg. 5 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-63ec4a132b110383a1b5265939ae3ff7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/344/regulation/6) in force at 5.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-63ec4a132b110383a1b5265939ae3ff7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/344/regulation/6) in force at 5.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-3a175b0dac6983bdd2ac8cc984c9c0f1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/344/regulation/7) in force at 5.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-3a175b0dac6983bdd2ac8cc984c9c0f1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/344/regulation/7) in force at 5.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-f2b98816439e85a68f5388d7ee1e88c0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/344/regulation/8) in force at 5.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-f2b98816439e85a68f5388d7ee1e88c0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/344/regulation/8) in force at 5.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-196bffddcbad981c6f70447f80c371f6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/344/regulation/9) in force at 5.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-196bffddcbad981c6f70447f80c371f6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/344/regulation/9) in force at 5.6.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-f07b438b3aa3d69e7de357097dbed181]: Commencement: Sch. para. 1 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-f07b438b3aa3d69e7de357097dbed181]: Commencement: Sch. para. 1 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-d8d70bc7b44409ad2e019e1ff9b0b747]: Commencement: Sch. para. 2 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-d8d70bc7b44409ad2e019e1ff9b0b747]: Commencement: Sch. para. 2 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-7f83628123cd821ffdf171eb44b0d533]: Commencement: Sch. para. 3 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-7f83628123cd821ffdf171eb44b0d533]: Commencement: Sch. para. 3 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-b910d6ae0520a5328a42172afedee4b1]: Commencement: Sch. para. 4 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-b910d6ae0520a5328a42172afedee4b1]: Commencement: Sch. para. 4 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-3803f9acce8bcbf76a47fa7f93278a96]: Commencement: Sch. para. 5 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-3803f9acce8bcbf76a47fa7f93278a96]: Commencement: Sch. para. 5 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-556dd3749971342c283f2b4bf00b7d9f]: Commencement: Sch. para. 6 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-556dd3749971342c283f2b4bf00b7d9f]: Commencement: Sch. para. 6 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-36878f849d88085090975613a4c4db61]: Commencement: Sch. para. 7 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-36878f849d88085090975613a4c4db61]: Commencement: Sch. para. 7 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-a466812064ced5be5319a78bfb5bb500]: Commencement: Sch. para. 8 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-a466812064ced5be5319a78bfb5bb500]: Commencement: Sch. para. 8 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-f3a1c86d0b7f7c5f36aed7e8373fd214]: Commencement: Sch. para. 9 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-f3a1c86d0b7f7c5f36aed7e8373fd214]: Commencement: Sch. para. 9 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-7c38f33bbd649ca898f730e99a15bd98]: Commencement: Sch. para. 10 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-7c38f33bbd649ca898f730e99a15bd98]: Commencement: Sch. para. 10 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-de6e908557a2aea07cac132e7531618f]: Commencement: Sch. para. 11 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-de6e908557a2aea07cac132e7531618f]: Commencement: Sch. para. 11 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-302a3692458b0cb2bc61e7902b29bed0]: Commencement: Sch. para. 12 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-302a3692458b0cb2bc61e7902b29bed0]: Commencement: Sch. para. 12 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-98985f7fc36c3be5ab617173cee731a7]: Textual amendment: Sch. para. 13 omitted (7.4.2026) by virtue of [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2026/302/regulation/14)
+[^c-98985f7fc36c3be5ab617173cee731a7]: Textual amendment: Sch. para. 13 omitted (7.4.2026) by virtue of [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2026/302/regulation/14)
 
-[^key-9c96a58777f7c236f27b38742d6d23be]: Commencement: Sch. para. 14 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-9c96a58777f7c236f27b38742d6d23be]: Commencement: Sch. para. 14 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-b10c3cce29c7c3c0d76ab896585eeb2c]: Commencement: Sch. para. 15 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-b10c3cce29c7c3c0d76ab896585eeb2c]: Commencement: Sch. para. 15 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-dfb2f1dc825a7550987c1838934c5b71]: Commencement: Sch. para. 16 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-dfb2f1dc825a7550987c1838934c5b71]: Commencement: Sch. para. 16 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-d52bc24c8a73ff6d7b219ba2be9ecc35]: Commencement: Sch. para. 17 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-d52bc24c8a73ff6d7b219ba2be9ecc35]: Commencement: Sch. para. 17 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-23a8e1a50975d4fc28ccde751120db27]: Commencement: Sch. para. 18 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-23a8e1a50975d4fc28ccde751120db27]: Commencement: Sch. para. 18 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-e3f4bdefc8ab994d2b86defdb1d49bee]: Commencement: Sch. para. 19 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-e3f4bdefc8ab994d2b86defdb1d49bee]: Commencement: Sch. para. 19 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-9fb0de838ac0cef54ecda2dabb38e74c]: Commencement: Sch. para. 20 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-9fb0de838ac0cef54ecda2dabb38e74c]: Commencement: Sch. para. 20 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-514ecce3ab123d45106b28d2e2b8f032]: Commencement: Sch. para. 21 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-514ecce3ab123d45106b28d2e2b8f032]: Commencement: Sch. para. 21 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-13ade2f65ffcdc23d0b99e7eb815a935]: Commencement: Sch. para. 22 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-13ade2f65ffcdc23d0b99e7eb815a935]: Commencement: Sch. para. 22 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-e5d0df245b306e7fa5cae124af3ea071]: Commencement: Sch. para. 23 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-e5d0df245b306e7fa5cae124af3ea071]: Commencement: Sch. para. 23 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-eb49ba6a38c2365bbf535b5044e76b89]: Commencement: Sch. para. 24 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-eb49ba6a38c2365bbf535b5044e76b89]: Commencement: Sch. para. 24 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-21a1b3c19070a1540d3da6ba440f1a86]: Commencement: Sch. para. 25 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-21a1b3c19070a1540d3da6ba440f1a86]: Commencement: Sch. para. 25 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-5eb2ee9e8629b8a0eddee116d514be30]: Commencement: Sch. para. 26 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-5eb2ee9e8629b8a0eddee116d514be30]: Commencement: Sch. para. 26 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-7b084fd4e6a7eacdffebaa19c67a3f03]: Commencement: Sch. para. 27 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-7b084fd4e6a7eacdffebaa19c67a3f03]: Commencement: Sch. para. 27 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-ec39b9a909ea675b4b73667bf842d058]: Commencement: Sch. para. 28 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-ec39b9a909ea675b4b73667bf842d058]: Commencement: Sch. para. 28 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-e99e40dac9c781c75e47f71a84418014]: Commencement: Sch. para. 29 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-e99e40dac9c781c75e47f71a84418014]: Commencement: Sch. para. 29 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-4884d2984aafb14d4422834a43ee444d]: Commencement: Sch. para. 30 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-4884d2984aafb14d4422834a43ee444d]: Commencement: Sch. para. 30 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-527e99125260b8effadc9852416dfb0b]: Commencement: Sch. para. 31 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-527e99125260b8effadc9852416dfb0b]: Commencement: Sch. para. 31 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-0298a6bfa50ce6476247fd96df65ce7d]: Commencement: Sch. para. 32 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-0298a6bfa50ce6476247fd96df65ce7d]: Commencement: Sch. para. 32 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-7a53cd1edd011564b654dd1d3e90a112]: Commencement: Sch. para. 33 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-7a53cd1edd011564b654dd1d3e90a112]: Commencement: Sch. para. 33 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-b9b8ee5f596d622d84d98f7dddeffee4]: Commencement: Sch. para. 34 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-b9b8ee5f596d622d84d98f7dddeffee4]: Commencement: Sch. para. 34 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-c4cbc8a0dc1f424508b49530931ff761]: Commencement: Sch. para. 35 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-c4cbc8a0dc1f424508b49530931ff761]: Commencement: Sch. para. 35 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-77426829698b179856bdd458b51aabc0]: Commencement: Sch. para. 36 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-77426829698b179856bdd458b51aabc0]: Commencement: Sch. para. 36 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-da4c967ede5f19abb93f7b1f32f9b88c]: Commencement: Sch. para. 37 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-da4c967ede5f19abb93f7b1f32f9b88c]: Commencement: Sch. para. 37 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-c92092698d29a6e2084e48a7518417f7]: Commencement: Sch. para. 38 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-c92092698d29a6e2084e48a7518417f7]: Commencement: Sch. para. 38 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-a3e1b9566df4cb155445338a3460ffec]: Commencement: Sch. para. 39 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-a3e1b9566df4cb155445338a3460ffec]: Commencement: Sch. para. 39 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-4f21e083f7de508745607f4348093d71]: Commencement: Sch. para. 40 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-4f21e083f7de508745607f4348093d71]: Commencement: Sch. para. 40 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-cd30b1647d7effbe0eff96f930765c6e]: Commencement: Sch. para. 41 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-cd30b1647d7effbe0eff96f930765c6e]: Commencement: Sch. para. 41 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-4f800ba73843edc64ed3aaa05e729dfa]: Commencement: Sch. para. 42 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-4f800ba73843edc64ed3aaa05e729dfa]: Commencement: Sch. para. 42 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-8e1dbe7d89d633dfa4dcd9c37ec4927a]: Commencement: Sch. para. 43 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-8e1dbe7d89d633dfa4dcd9c37ec4927a]: Commencement: Sch. para. 43 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
 [^f00003]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Section 399 was amended by the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15) and the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-92944b2200c0ae4b7cf9390480bec64e]: Commencement: Sch. para. 44 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-92944b2200c0ae4b7cf9390480bec64e]: Commencement: Sch. para. 44 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
 [^f00004]: Footnote: Section 388. Relevant amendments have been made by the Insolvency Act [2000 (c. 39)](https://www.legislation.gov.uk/ukpga/2000/39), the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), Corporate Insolvency and Governance Act [2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12) and [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [2002/2708](https://www.legislation.gov.uk/uksi/2002/2708), [2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), [2016/1034](https://www.legislation.gov.uk/uksi/2016/1034) and [2017/702](https://www.legislation.gov.uk/uksi/2017/702).
 
 [^f00005]: Footnote: [S.I. 1989/2405](https://www.legislation.gov.uk/uksi/1989/2405). Article 3 has been amended by paragraph 4(2) of Schedule 7 to the Corporate Insolvency and Governance Act 2020, the Insolvency (Northern Ireland) Order [2002/3152](https://www.legislation.gov.uk/nisi/2002/3152), paragraph 1 of Schedule 4 to the Insolvency (Amendment) Act (Northern Ireland) 2016, the Insolvent Partnerships Order (Northern Ireland) [1995/225](https://www.legislation.gov.uk/nisr/1995/225), the Insolvent Partnerships (Amendment No. 3) Order (Northern Ireland) 2003/550, paragraph 106(4) of Schedule 1 to the Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009/1941 and paragraph 165 of Schedule 1(9) to the Insolvency (Amendment) (EU Exit) Regulations [2019/146](https://www.legislation.gov.uk/uksi/2019/146).
 
-[^key-40a03eb5bcb3cdf80445254eeae4e32b]: Commencement: Sch. para. 45 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-40a03eb5bcb3cdf80445254eeae4e32b]: Commencement: Sch. para. 45 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
 [^f00006]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
@@ -411,30 +411,30 @@ An impact assessment has not been published for these Regulations as they have n
 
 [^f00008]: Footnote: [S.R. 2004/335](https://www.legislation.gov.uk/nisr/2004/335).
 
-[^key-88370614d46e720dfa3e8cc7ae4fcdec]: Commencement: Sch. para. 46 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-88370614d46e720dfa3e8cc7ae4fcdec]: Commencement: Sch. para. 46 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
 [^f00009]: Footnote: [1989 c. 40](https://www.legislation.gov.uk/ukpga/1989/40).
 
-[^key-df52f145a217431735dad72a1f63eec8]: Commencement: Sch. para. 47 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-df52f145a217431735dad72a1f63eec8]: Commencement: Sch. para. 47 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
 [^f00010]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-d761ce2ea0c9d600f75de34cbf534337]: Commencement: Sch. para. 48 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-d761ce2ea0c9d600f75de34cbf534337]: Commencement: Sch. para. 48 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
 [^f00011]: Footnote: Section 166A was inserted by paragraph 6 of Schedule 12 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-f1c95a14c838f766d58a0b9800374320]: Commencement: Sch. para. 49 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-f1c95a14c838f766d58a0b9800374320]: Commencement: Sch. para. 49 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-2ba6487064484323e8d3821ad4e0a316]: Commencement: Sch. para. 50 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-2ba6487064484323e8d3821ad4e0a316]: Commencement: Sch. para. 50 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-e41d0194c4081a1b994a5b7c5d35bc3b]: Commencement: Sch. para. 51 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-e41d0194c4081a1b994a5b7c5d35bc3b]: Commencement: Sch. para. 51 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
 [^f00012]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). Section 101(1) was amended by section 96(2) of the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13).
 
-[^key-88abfce46c6142497cf5ef33068e8140]: Commencement: Sch. para. 52 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-88abfce46c6142497cf5ef33068e8140]: Commencement: Sch. para. 52 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-3fdeeff48f798b6bbb09b04d7817788f]: Commencement: Sch. para. 53 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-3fdeeff48f798b6bbb09b04d7817788f]: Commencement: Sch. para. 53 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
-[^key-89da5b6852751ffed4bdcaf9543a99dd]: Commencement: Sch. para. 54 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
+[^c-89da5b6852751ffed4bdcaf9543a99dd]: Commencement: Sch. para. 54 in force at 11.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/344/regulation/1/2)
 
 [^f00013]: Footnote: [1979 c. 38](https://www.legislation.gov.uk/ukpga/1979/38). Section 24A was inserted by section 132(1) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).

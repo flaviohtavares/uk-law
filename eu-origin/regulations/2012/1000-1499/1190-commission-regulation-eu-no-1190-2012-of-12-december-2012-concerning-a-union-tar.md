@@ -93,24 +93,24 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-## Article 1. ... target[^key-db98bbf348f33b7583c4faa1952bdcfd]
+## Article 1. ... target[^c-db98bbf348f33b7583c4faa1952bdcfd]
 
-1. The [^key-db98bbf348f33b7583c4faa1952bdcfd]... target, as referred to in Article 4(1) of Regulation (EC) No 2160/2003, for the reduction of *Salmonella* Enteritidis and *Salmonella* Typhimurium in turkeys (‘[^key-db98bbf348f33b7583c4faa1952bdcfd]... target’) shall be:
+1. The [^c-db98bbf348f33b7583c4faa1952bdcfd]... target, as referred to in Article 4(1) of Regulation (EC) No 2160/2003, for the reduction of *Salmonella* Enteritidis and *Salmonella* Typhimurium in turkeys (‘[^c-db98bbf348f33b7583c4faa1952bdcfd]... target’) shall be:
 
 - (a) a reduction of the maximum annual percentage of fattening turkey flocks remaining positive of *Salmonella* Enteritidis and *Salmonella* Typhimurium to 1 % or less; and
 - (b) a reduction of the maximum annual percentage of adult breeding turkey flocks remaining positive of *Salmonella* Enteritidis and *Salmonella* Typhimurium to 1 % or less.
 
-However, if there are fewer than[^key-9d8a2b4ce7704319efd2428f42547233] 100 flocks of adult breeding or fattening turkeys in the constituent territory[^key-68cf64797734f86780e30a41dbb8c9a9], the [^key-db98bbf348f33b7583c4faa1952bdcfd]... target shall be that annually no more than one flock of adult breeding or fattening turkeys may remain positive.
+However, if there are fewer than[^c-9d8a2b4ce7704319efd2428f42547233] 100 flocks of adult breeding or fattening turkeys in the constituent territory[^c-68cf64797734f86780e30a41dbb8c9a9], the [^c-db98bbf348f33b7583c4faa1952bdcfd]... target shall be that annually no more than one flock of adult breeding or fattening turkeys may remain positive.
 
-As regards monophasic *Salmonella* Typhimurium, serotypes with the antigenic formula 1 ,4,\[5\],12:i:- shall be included in the [^key-db98bbf348f33b7583c4faa1952bdcfd]... target.
+As regards monophasic *Salmonella* Typhimurium, serotypes with the antigenic formula 1 ,4,\[5\],12:i:- shall be included in the [^c-db98bbf348f33b7583c4faa1952bdcfd]... target.
 
-2. The testing scheme necessary to verify progress in the achievement of the [^key-db98bbf348f33b7583c4faa1952bdcfd]... target is set out in the Annex (‘testing scheme’).
+2. The testing scheme necessary to verify progress in the achievement of the [^c-db98bbf348f33b7583c4faa1952bdcfd]... target is set out in the Annex (‘testing scheme’).
 
-## Article 1A. Definition of constituent territory[^key-cb74d6bdd0d63033c71c2432840a9bb4]
+## Article 1A. Definition of constituent territory[^c-cb74d6bdd0d63033c71c2432840a9bb4]
 
 In this Regulation, ‘constituent territory’ means England, Wales or Scotland, as the case may be.
 
-## Article 2. Review of the Union target[^key-66181665d7d2cde0a91fe216cc5f8296]
+## Article 2. Review of the Union target[^c-66181665d7d2cde0a91fe216cc5f8296]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -120,19 +120,19 @@ Regulation (EC) No 584/2008 is repealed.
 
 References to the repealed Regulation shall be construed as references to this Regulation.
 
-## Article 4. Entry into force[^key-cafe318091eb7430b30298df593b91da]
+## Article 4. Entry into force[^c-cafe318091eb7430b30298df593b91da]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0543705f25562bb3e81a579b84f9fad0]...
+[^c-0543705f25562bb3e81a579b84f9fad0]...
 
-## ANNEX — Testing scheme necessary to verify the achievement of the ... target as referred to in Article 1(2)[^key-999ff1b12afbd2f4315d0b0fbbe32f7e]
+## ANNEX — Testing scheme necessary to verify the achievement of the ... target as referred to in Article 1(2)[^c-999ff1b12afbd2f4315d0b0fbbe32f7e]
 
 1\.
 
 SAMPLING FRAME
 
-The sampling frame shall comprise all flocks of fattening and breeding turkeys within the framework of the [^key-7f05cc1ef66e5a37c92a3b66f76381d6]... control programmes provided for in Article 5 of Regulation (EC) No 2160/2003.
+The sampling frame shall comprise all flocks of fattening and breeding turkeys within the framework of the [^c-7f05cc1ef66e5a37c92a3b66f76381d6]... control programmes provided for in Article 5 of Regulation (EC) No 2160/2003.
 
 2\.
 
@@ -150,9 +150,9 @@ Food business operators shall sample all flocks of fattening and breeding turkey
 - ((ii)) sampling of flocks of breeding turkeys shall take place:
   - in rearing flocks: at day-old, at four weeks of age and two weeks before moving to the laying phase or laying unit,
   - in adult flocks: at least every third week during the laying period at the holding or at the hatchery,
-  - on the holding in the case of flocks of breeding turkeys laying hatching eggs intended for export to a member State or movement to Northern Ireland[^key-4959a370f3ff7fc94ef0a44c9af3045f].
-- ((iii)) The competent authority may decide to implement one of the options referred to in the second indent of point (ii) to the whole testing scheme for all flocks. However, sampling of breeding flocks laying hatching eggs intended for export to a member State or movement to Northern Ireland[^key-b9f745f63a990fad6b4c46df3a748e54] must take place on the holding.
-- ((iv)) By way of derogation from the second indent of point (ii), if the [^key-ad5fa1822976fa43965bc5e7f7b5d175]... target has been achieved for at least two consecutive calendar years in the constituent territory[^key-7303f1c4c9b7678e5134b5bfae0a621f], sampling at the holding may be extended to take place every four weeks, at the discretion of the competent authority. However, the competent authority may decide to keep or revert to a three-week testing interval in the case of detection of the presence of the relevant *Salmonella* serotypes in a breeding flock on the holding and/or in any other case deemed appropriate by the competent authority.
+  - on the holding in the case of flocks of breeding turkeys laying hatching eggs intended for export to a member State or movement to Northern Ireland[^c-4959a370f3ff7fc94ef0a44c9af3045f].
+- ((iii)) The competent authority may decide to implement one of the options referred to in the second indent of point (ii) to the whole testing scheme for all flocks. However, sampling of breeding flocks laying hatching eggs intended for export to a member State or movement to Northern Ireland[^c-b9f745f63a990fad6b4c46df3a748e54] must take place on the holding.
+- ((iv)) By way of derogation from the second indent of point (ii), if the [^c-ad5fa1822976fa43965bc5e7f7b5d175]... target has been achieved for at least two consecutive calendar years in the constituent territory[^c-7303f1c4c9b7678e5134b5bfae0a621f], sampling at the holding may be extended to take place every four weeks, at the discretion of the competent authority. However, the competent authority may decide to keep or revert to a three-week testing interval in the case of detection of the presence of the relevant *Salmonella* serotypes in a breeding flock on the holding and/or in any other case deemed appropriate by the competent authority.
 
 (b)
 
@@ -183,7 +183,7 @@ Before putting on the boot swabs, their surface shall be moistened by:
 
 - ((a)) the application of maximum recovery diluents (MRD: 0,8 % sodium chloride, 0,1 % peptone in sterile deionised water); or
 - ((b)) the application of sterile water; or
-- ((c)) the application of any other diluents approved by the [^key-64348af6897a9a5c6fd727926efc47de]... reference laboratory referred to in Article 11(3) of Regulation (EC) No 2160/2003; or
+- ((c)) the application of any other diluents approved by the [^c-64348af6897a9a5c6fd727926efc47de]... reference laboratory referred to in Article 11(3) of Regulation (EC) No 2160/2003; or
 - ((d)) being autoclaved in a container together with diluents.
 
 The way to moisten boot swabs shall be to pour the liquid inside before putting them on or to shake them in a container of diluent.
@@ -214,7 +214,7 @@ Where access to the houses is not possible due to limited space in flocks with l
 
 The competent authority shall satisfy itself by conducting further tests and/or documentary checks as appropriate to verify that results are not altered through the presence of antimicrobials or other substances inhibiting the growth of bacteria.
 
-Where the presence of *Salmonella* Enteritidis and *Salmonella* Typhimurium is not detected but antimicrobials or bacterial growth inhibitory effects are detected, the flock shall be considered to be an infected flock of turkeys for the purpose of the [^key-728764d9c794d0e5017cde626abee06d]... target referred to in Article 1(2).
+Where the presence of *Salmonella* Enteritidis and *Salmonella* Typhimurium is not detected but antimicrobials or bacterial growth inhibitory effects are detected, the flock shall be considered to be an infected flock of turkeys for the purpose of the [^c-728764d9c794d0e5017cde626abee06d]... target referred to in Article 1(2).
 
 2.2.4.
 
@@ -242,9 +242,9 @@ The sample shall be swirled to fully saturate it and culture shall be continued 
 
 Other samples (e.g. from breeding flocks or hatcheries) shall be prepared in accordance with point 2.2.2 of the Annex to Regulation (EU) No 200/2010.
 
-[^key-9fdcb8102d378ec33ac00dce004c8dec]...
+[^c-9fdcb8102d378ec33ac00dce004c8dec]...
 
-3.2.[^key-24d210a18f82b27a7c044a7a065bba30]
+3.2.[^c-24d210a18f82b27a7c044a7a065bba30]
 
 **Detection method**
 
@@ -264,7 +264,7 @@ Food business operators shall at least ensure that for all isolates none of them
 
 **Alternative methods**
 
-Alternative methods may be used instead of the methods for detection and serotyping provided for in points 3.1, 3.2 and 3.3 of this Annex, if validated in accordance with[^key-bd0baf7d5ab42a4d805f843ec8d10310] EN ISO 16140-2 (for alternative detection methods) or EN ISO 16140-6 (for validation of the confirmation or typing procedure of the typing method)[^key-54928ff5b206080999ea2beaaf3011d9].
+Alternative methods may be used instead of the methods for detection and serotyping provided for in points 3.1, 3.2 and 3.3 of this Annex, if validated in accordance with[^c-bd0baf7d5ab42a4d805f843ec8d10310] EN ISO 16140-2 (for alternative detection methods) or EN ISO 16140-6 (for validation of the confirmation or typing procedure of the typing method)[^c-54928ff5b206080999ea2beaaf3011d9].
 
 3.5.
 
@@ -272,7 +272,7 @@ Alternative methods may be used instead of the methods for detection and serotyp
 
 Laboratories shall ensure that at least one isolated strain of *Salmonella* spp. per flock and per year can be collected by the competent authority and stored for possible future phage typing or anti-microbial susceptibility testing, using the normal methods for culture collection, which must ensure integrity of the strains for a minimum of two years from the date of analysis.
 
-The competent authority may decide that isolates of *Salmonella* spp. from sampling by food business operators shall also be stored for future phagetyping or antimicrobial susceptibility testing to provide for isolates to be tested in accordance with Commission Implementing Decision 2013/652/EU[^key-18e8d6fd11dbd23d29e5b8e7fd6c1f71] .
+The competent authority may decide that isolates of *Salmonella* spp. from sampling by food business operators shall also be stored for future phagetyping or antimicrobial susceptibility testing to provide for isolates to be tested in accordance with Commission Implementing Decision 2013/652/EU[^c-18e8d6fd11dbd23d29e5b8e7fd6c1f71] .
 
 4\.
 
@@ -280,9 +280,9 @@ RESULTS AND REPORTING
 
 4.1.
 
-**Calculation of prevalence for the verification of the [^key-f990e9b46884645963bcc4be63d2903b]... target**
+**Calculation of prevalence for the verification of the [^c-f990e9b46884645963bcc4be63d2903b]... target**
 
-A flock of turkeys shall be considered positive for the purpose of verifying the achievement of the [^key-f990e9b46884645963bcc4be63d2903b]... target, where the presence of *Salmonella* Enteritidis and/or *Salmonella* Typhimurium (other than vaccine strains, but including monophasic strains with the antigenic formula 1 ,4,\[5\],12:i:-) was detected in the flock.
+A flock of turkeys shall be considered positive for the purpose of verifying the achievement of the [^c-f990e9b46884645963bcc4be63d2903b]... target, where the presence of *Salmonella* Enteritidis and/or *Salmonella* Typhimurium (other than vaccine strains, but including monophasic strains with the antigenic formula 1 ,4,\[5\],12:i:-) was detected in the flock.
 
 Positive flocks of turkeys shall be counted only once per round, irrespective of the number of sampling and testing operations and only be reported in the year of the first positive sampling. The prevalence shall be calculated separately for flocks of fattening turkeys and flocks of adult breeding turkeys.
 
@@ -292,11 +292,11 @@ Positive flocks of turkeys shall be counted only once per round, irrespective of
 
 4.2.1.
 
-*[^key-175c2dfb1fa55437346de31ca2d77717]...*
+*[^c-175c2dfb1fa55437346de31ca2d77717]...*
 
 4.2.2.
 
-*[^key-d3eb076f6563d262faa5d95f3a2fea89]...*
+*[^c-d3eb076f6563d262faa5d95f3a2fea89]...*
 
 4.2.3.
 
@@ -309,7 +309,7 @@ At least the following information shall be made available to the competent auth
 - ((c)) month of sampling;
 - ((d)) number of birds per flocks.
 
-[^key-109207722282782c78c61b2ac9e17cd9]...
+[^c-109207722282782c78c61b2ac9e17cd9]...
 
 The food business operator shall notify the competent authority of the detection of *Salmonella* Enteritidis and *Salmonella* Typhimurium including monophasic strains with the antigenic formula 1 ,4,\[5\],12:i:- without undue delay. The food business operator shall instruct the analysing laboratory to act accordingly.
 
@@ -333,58 +333,58 @@ The food business operator shall notify the competent authority of the detection
 
 [^f00008]: Footnote: [OJ L 155, 18.6.2009, p. 30](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.155.01.0030.01.ENG).
 
-[^key-db98bbf348f33b7583c4faa1952bdcfd]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2012/1190/article/1) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-db98bbf348f33b7583c4faa1952bdcfd]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2012/1190/article/1) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9d8a2b4ce7704319efd2428f42547233]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2012/1190/article/1/1) substituted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(2)(b)(aa)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d8a2b4ce7704319efd2428f42547233]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2012/1190/article/1/1) substituted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(2)(b)(aa)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-68cf64797734f86780e30a41dbb8c9a9]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2012/1190/article/1/1) inserted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(2)(b)(bb)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/2/b/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68cf64797734f86780e30a41dbb8c9a9]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2012/1190/article/1/1) inserted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(2)(b)(bb)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/2/b/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cb74d6bdd0d63033c71c2432840a9bb4]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/eur/2012/1190/article/1A) inserted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/3); (as amended by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(7)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/7/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb74d6bdd0d63033c71c2432840a9bb4]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/eur/2012/1190/article/1A) inserted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/3); (as amended by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(7)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/7/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-66181665d7d2cde0a91fe216cc5f8296]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2012/1190/article/2) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-66181665d7d2cde0a91fe216cc5f8296]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2012/1190/article/2) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cafe318091eb7430b30298df593b91da]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2012/1190/article/4) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cafe318091eb7430b30298df593b91da]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2012/1190/article/4) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(4)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0543705f25562bb3e81a579b84f9fad0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/1190/signature) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(5)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0543705f25562bb3e81a579b84f9fad0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/1190/signature) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(5)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-999ff1b12afbd2f4315d0b0fbbe32f7e]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) heading omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(a)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-999ff1b12afbd2f4315d0b0fbbe32f7e]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) heading omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(a)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7f05cc1ef66e5a37c92a3b66f76381d6]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 1 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(b)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f05cc1ef66e5a37c92a3b66f76381d6]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 1 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(b)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: [OJ L 250, 18.9.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.250.01.0001.01.ENG).
 
-[^key-4959a370f3ff7fc94ef0a44c9af3045f]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 2.1(a)(ii) substituted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(c)(i)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/c/i) (as amended by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(7)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/7/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4959a370f3ff7fc94ef0a44c9af3045f]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 2.1(a)(ii) substituted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(c)(i)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/c/i) (as amended by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(7)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/7/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b9f745f63a990fad6b4c46df3a748e54]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 2.1(a)(iii) substituted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/c/ii) (as amended by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(7)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/7/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9f745f63a990fad6b4c46df3a748e54]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 2.1(a)(iii) substituted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/c/ii) (as amended by [S.I. 2020/1463](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [7(7)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/7/7/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ad5fa1822976fa43965bc5e7f7b5d175]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 2.1(a)(iv) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(c)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/c/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad5fa1822976fa43965bc5e7f7b5d175]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 2.1(a)(iv) omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(c)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/c/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7303f1c4c9b7678e5134b5bfae0a621f]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 2.1(a)(iv) substituted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/c/iii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7303f1c4c9b7678e5134b5bfae0a621f]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 2.1(a)(iv) substituted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/c/iii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00010]: Footnote: [OJ L 61, 11.3.2010, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.061.01.0001.01.ENG).
 
-[^key-64348af6897a9a5c6fd727926efc47de]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 2.2.1 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(d)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-64348af6897a9a5c6fd727926efc47de]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 2.2.1 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(d)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-728764d9c794d0e5017cde626abee06d]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 2.2.3 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(e)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-728764d9c794d0e5017cde626abee06d]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 2.2.3 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(e)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9fdcb8102d378ec33ac00dce004c8dec]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 3.1 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(f)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9fdcb8102d378ec33ac00dce004c8dec]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 3.1 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(f)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-24d210a18f82b27a7c044a7a065bba30]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 3.2 substituted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(g)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24d210a18f82b27a7c044a7a065bba30]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 3.2 substituted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(g)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000002]: Textual amendment: Substituted by [Commission Regulation (EU) 2019/268 of 15 February 2019 amending Regulations (EU) No 200/2010, (EU) No 517/2011, (EU) No 200/2012 and (EU) No 1190/2012 as regards certain methods for Salmonella testing and sampling in poultry (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/268).
 
-[^key-bd0baf7d5ab42a4d805f843ec8d10310]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 3.4 substituted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(h)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bd0baf7d5ab42a4d805f843ec8d10310]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 3.4 substituted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(h)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-54928ff5b206080999ea2beaaf3011d9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) substituted (4.8.2023) by [The Validating Alternative Methods for Salmonella Typing (Amendment) Regulations 2023 (S.I. 2023/793)](https://www.legislation.gov.uk/uksi/2023/793), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/793/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/793/regulation/2/2)
+[^c-54928ff5b206080999ea2beaaf3011d9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) substituted (4.8.2023) by [The Validating Alternative Methods for Salmonella Typing (Amendment) Regulations 2023 (S.I. 2023/793)](https://www.legislation.gov.uk/uksi/2023/793), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/793/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/793/regulation/2/2)
 
-[^key-18e8d6fd11dbd23d29e5b8e7fd6c1f71]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 3.5 substituted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(i)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-18e8d6fd11dbd23d29e5b8e7fd6c1f71]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 3.5 substituted (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(i)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f990e9b46884645963bcc4be63d2903b]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 4.1 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(j)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f990e9b46884645963bcc4be63d2903b]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 4.1 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(j)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-175c2dfb1fa55437346de31ca2d77717]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 4.2.1 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(k)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/k); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-175c2dfb1fa55437346de31ca2d77717]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 4.2.1 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(k)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/k); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d3eb076f6563d262faa5d95f3a2fea89]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 4.2.2 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(k)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/k); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d3eb076f6563d262faa5d95f3a2fea89]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 4.2.2 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(k)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/k); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00012]: Footnote: [OJ L 139, 30.4.2004, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.139.01.0055.01.ENG).
 
-[^key-109207722282782c78c61b2ac9e17cd9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 4.2.3 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(l)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/l); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-109207722282782c78c61b2ac9e17cd9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2012/1190/annex) point 4.2.3 omitted (31.12.2020) by virtue of [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [10(6)(l)](https://www.legislation.gov.uk/uksi/2019/740/regulation/10/6/l); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

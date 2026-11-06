@@ -43,13 +43,13 @@ The Office of Communications (“OFCOM”), in exercise of the powers conferred 
 
 Before making these Regulations, OFCOM have given notice of their proposal to do so in accordance with section 122(4)(a) of the Act, published notice of their proposal in accordance with section 122(4)(b) of the Act and have considered the representations made to them before the time specified in that notice in accordance with section 122(4)(c) of the Act.
 
-## 1. Citation, commencement and extent[^key-0e3ae67e18fe434d61368f6c1fb383cd]
+## 1. Citation, commencement and extent[^c-0e3ae67e18fe434d61368f6c1fb383cd]
 
 (1) These Regulations may be cited as the Wireless Telegraphy (White Space Devices) (Exemption) Regulations 2015 and shall come into force on 31st December 2015.
 
 (2) These Regulations shall not extend to the Channel Islands.
 
-## 2. Interpretation[^key-49a99b2dbb6f95af723d17645f0ade7e]
+## 2. Interpretation[^c-49a99b2dbb6f95af723d17645f0ade7e]
 
 In these Regulations—
 
@@ -83,11 +83,11 @@ In these Regulations—
 - “update period” has the meaning given in regulation 6(9); and
 - “white space device” shall be construed in accordance with regulation 4.
 
-## 3. Exemption[^key-a93e10ce0674f324e350dfaf4767d031]
+## 3. Exemption[^c-a93e10ce0674f324e350dfaf4767d031]
 
 The establishment, installation and use of wireless telegraphy stations or wireless telegraphy apparatus is hereby exempt from the provisions of section 8(1) of the Wireless Telegraphy Act 2006 where the terms, provisions and limitations in regulation 4 are met.
 
-## 4. White space devices[^key-2f13c290c9393adcf02080529708c2c8]
+## 4. White space devices[^c-2f13c290c9393adcf02080529708c2c8]
 
 (1) The exemption provided for in regulation 3 shall only apply to wireless telegraphy stations or wireless telegraphy apparatus which are white space devices.
 
@@ -105,7 +105,7 @@ The establishment, installation and use of wireless telegraphy stations or wirel
 
 (6) Type B equipment is a device which has an integral antenna or a dedicated antenna and is not intended for fixed location use.
 
-## 5. General requirements for white space devices[^key-af6735ba91307ca9d8baf79d0b46a4c6]
+## 5. General requirements for white space devices[^c-af6735ba91307ca9d8baf79d0b46a4c6]
 
 Master devices and slave devices must—
 
@@ -114,7 +114,7 @@ Master devices and slave devices must—
   - (i) would alter the technical characteristics of the device which are communicated to a database, including the master device characteristics and the slave device characteristics; or
   - (ii) would cause the device to operate other than in accordance with master operational parameters (if a master device) or slave operational parameters (if a slave device).
 
-## 6. Master device requirements[^key-96fff42a5f76ce76e60f554960394e55]
+## 6. Master device requirements[^c-96fff42a5f76ce76e60f554960394e55]
 
 (1) A master device must—
 
@@ -152,7 +152,7 @@ Master devices and slave devices must—
 
 (9) “Update period” means the time period (in seconds) specified by a database as part of the master operational parameters.
 
-## 7. Slave device requirements[^key-dcaf737fe3084fbcb612b27c5bdf859f]
+## 7. Slave device requirements[^c-dcaf737fe3084fbcb612b27c5bdf859f]
 
 (1) A slave device must only transmit within the frequency band 470 MHz to 790 MHZ—
 
@@ -190,7 +190,7 @@ Master devices and slave devices must—
 
 (8) This paragraph applies if the channel usage parameters for a slave device have been determined by the master device.
 
-## 8. Further requirements relating to generic slave operational parameters[^key-09d0dae4cb7a812cf9e0df61d1e18210]
+## 8. Further requirements relating to generic slave operational parameters[^c-09d0dae4cb7a812cf9e0df61d1e18210]
 
 (1) A master device which communicates generic slave operational parameters to a slave device must have requested and received those parameters from a database.
 
@@ -208,7 +208,7 @@ Master devices and slave devices must—
   - (ii) channel usage parameters determined by the master device for that slave device; and
 - (b) the master device’s unique identifier.
 
-## 9. Further requirements relating to specific slave operational parameters[^key-e09e701e843f95c58e0743f6b873750a]
+## 9. Further requirements relating to specific slave operational parameters[^c-e09e701e843f95c58e0743f6b873750a]
 
 (1) A master device which communicates specific slave operational parameters to a slave device must have requested and received those parameters from a database.
 
@@ -224,7 +224,7 @@ Master devices and slave devices must—
   - (ii) channel usage parameters determined by the master device for that slave device; and
 - (b) the master device’s unique identifier.
 
-## 10. Master operational parameters[^key-af0040e640d2447dc02608cf24b77b33]
+## 10. Master operational parameters[^c-af0040e640d2447dc02608cf24b77b33]
 
 The master operational parameters are—
 
@@ -238,7 +238,7 @@ The master operational parameters are—
 - (h) the time period (in seconds) within which and the regularity with which a master device must check with a database that the master operational parameters it has received from that database are still valid; and
 - (i) information which indicates whether a device which operates simultaneously on more than one DTT channel must apply a simultaneous operation power restriction.
 
-## 11. Slave operational parameters[^key-d72d9667d5e9ee432fabb8ec07f49e2f]
+## 11. Slave operational parameters[^c-d72d9667d5e9ee432fabb8ec07f49e2f]
 
 The slave operational parameters are—
 
@@ -251,7 +251,7 @@ The slave operational parameters are—
 - (g) the geographic area within which the slave operational parameters are valid; and
 - (h) information which indicates whether a device which operates simultaneously on more than one DTT channel must apply a simultaneous operation power restriction.
 
-## 12. Channel usage parameters[^key-fa03b4c5d6411c1ef0908720dd7b98ef]
+## 12. Channel usage parameters[^c-fa03b4c5d6411c1ef0908720dd7b98ef]
 
 The channel usage parameters are—
 
@@ -267,15 +267,15 @@ For and by the authority of the Office of Communications
 
 18th December 2015
 
-## SCHEDULE 1 — ORGANISATIONS OPERATING DATABASES[^key-6f41839bfe5491bf13a7c122844487dc]
+## SCHEDULE 1 — ORGANISATIONS OPERATING DATABASES[^c-6f41839bfe5491bf13a7c122844487dc]
 
 Regulation 2
 
-[^key-6f41839bfe5491bf13a7c122844487dc]
+[^c-6f41839bfe5491bf13a7c122844487dc]
 
 The organisations which may operate databases from which white space devices may obtain master operational parameters and slave operational parameters are—
 
-- The Council for Scientific and Industrial Research ([^key-109905c3e72a0e4a931b180f18255d82]CSIR), a statutory body established under South African legislation;
+- The Council for Scientific and Industrial Research ([^c-109905c3e72a0e4a931b180f18255d82]CSIR), a statutory body established under South African legislation;
 - Fairspectrum Oy, a company registered in Finland with company number 2372718-1;
 - Google UK Limited, a company registered in the United Kingdom with company number 03977902;
 - Microsoft Ireland Operations Limited, a company registered in the Republic of Ireland with company number 256796;
@@ -283,7 +283,7 @@ The organisations which may operate databases from which white space devices may
 - Sony Europe Limited, a company registered in the United Kingdom with company number 02422874;
 - Spectrum Bridge Incorporated, a company incorporated in the State of Delaware, United States of America.
 
-## SCHEDULE 2 — DTT CHANNELS AND CHANNEL NUMBERS[^key-12997cfec55f19ec3be01d784858cfab]
+## SCHEDULE 2 — DTT CHANNELS AND CHANNEL NUMBERS[^c-12997cfec55f19ec3be01d784858cfab]
 
 Regulation 2
 
@@ -324,32 +324,32 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00001]: Footnote: [2006 c. 36](https://www.legislation.gov.uk/ukpga/2006/36). Section 8(3) was extended to the to the Isle of Man by article 2 of the Wireless Telegraphy (Isle of Man) Order 2007 ([S.I. 2007/278](https://www.legislation.gov.uk/uksi/2007/278)); to the Bailiwick of Jersey by article 2 of the Wireless Telegraphy (Jersey) Order 2006 ([S.I. 2006/3324](https://www.legislation.gov.uk/uksi/2006/3324)); and to the Bailiwick of Guernsey by article 2 of the Wireless Telegraphy (Guernsey) Order 2006 ([S.I. 2006/3325](https://www.legislation.gov.uk/uksi/2006/3325)).
 
-[^key-0e3ae67e18fe434d61368f6c1fb383cd]: Commencement: Reg. 1 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+[^c-0e3ae67e18fe434d61368f6c1fb383cd]: Commencement: Reg. 1 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
 
-[^key-49a99b2dbb6f95af723d17645f0ade7e]: Commencement: Reg. 2 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+[^c-49a99b2dbb6f95af723d17645f0ade7e]: Commencement: Reg. 2 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
 
-[^key-a93e10ce0674f324e350dfaf4767d031]: Commencement: Reg. 3 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+[^c-a93e10ce0674f324e350dfaf4767d031]: Commencement: Reg. 3 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
 
-[^key-2f13c290c9393adcf02080529708c2c8]: Commencement: Reg. 4 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+[^c-2f13c290c9393adcf02080529708c2c8]: Commencement: Reg. 4 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
 
-[^key-af6735ba91307ca9d8baf79d0b46a4c6]: Commencement: Reg. 5 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+[^c-af6735ba91307ca9d8baf79d0b46a4c6]: Commencement: Reg. 5 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
 
-[^key-96fff42a5f76ce76e60f554960394e55]: Commencement: Reg. 6 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+[^c-96fff42a5f76ce76e60f554960394e55]: Commencement: Reg. 6 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
 
-[^key-dcaf737fe3084fbcb612b27c5bdf859f]: Commencement: Reg. 7 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+[^c-dcaf737fe3084fbcb612b27c5bdf859f]: Commencement: Reg. 7 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
 
-[^key-09d0dae4cb7a812cf9e0df61d1e18210]: Commencement: Reg. 8 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+[^c-09d0dae4cb7a812cf9e0df61d1e18210]: Commencement: Reg. 8 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
 
-[^key-e09e701e843f95c58e0743f6b873750a]: Commencement: Reg. 9 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+[^c-e09e701e843f95c58e0743f6b873750a]: Commencement: Reg. 9 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
 
-[^key-af0040e640d2447dc02608cf24b77b33]: Commencement: Reg. 10 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+[^c-af0040e640d2447dc02608cf24b77b33]: Commencement: Reg. 10 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
 
-[^key-d72d9667d5e9ee432fabb8ec07f49e2f]: Commencement: Reg. 11 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+[^c-d72d9667d5e9ee432fabb8ec07f49e2f]: Commencement: Reg. 11 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
 
-[^key-fa03b4c5d6411c1ef0908720dd7b98ef]: Commencement: Reg. 12 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+[^c-fa03b4c5d6411c1ef0908720dd7b98ef]: Commencement: Reg. 12 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
 
-[^key-6f41839bfe5491bf13a7c122844487dc]: Commencement: Sch. 1 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+[^c-6f41839bfe5491bf13a7c122844487dc]: Commencement: Sch. 1 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
 
-[^key-109905c3e72a0e4a931b180f18255d82]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/2066/schedule/1) substituted (9.6.2016) by [The Wireless Telegraphy (White Space Devices) (Exemption) (Amendment) Regulations 2016 (S.I. 2016/615)](https://www.legislation.gov.uk/uksi/2016/615), [regs. 1](https://www.legislation.gov.uk/uksi/2016/615/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/615/regulation/2/2)
+[^c-109905c3e72a0e4a931b180f18255d82]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/2066/schedule/1) substituted (9.6.2016) by [The Wireless Telegraphy (White Space Devices) (Exemption) (Amendment) Regulations 2016 (S.I. 2016/615)](https://www.legislation.gov.uk/uksi/2016/615), [regs. 1](https://www.legislation.gov.uk/uksi/2016/615/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/615/regulation/2/2)
 
-[^key-12997cfec55f19ec3be01d784858cfab]: Commencement: Sch. 2 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)
+[^c-12997cfec55f19ec3be01d784858cfab]: Commencement: Sch. 2 in force at 31.12.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/2066/regulation/1/1)

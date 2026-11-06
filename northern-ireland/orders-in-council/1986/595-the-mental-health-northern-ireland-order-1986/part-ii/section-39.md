@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Special provisions as to wards of court[^key-c0c167f30279155a23093e42187cf40c][^key-f0c213de8a51ab7c9ea89c7934d78a13]
+## 39. Special provisions as to wards of court[^c-c0c167f30279155a23093e42187cf40c][^c-f0c213de8a51ab7c9ea89c7934d78a13]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c0c167f30279155a23093e42187cf40c]: Modification: [Art. 39](https://www.legislation.gov.uk/nisi/1986/595/article/39) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(ii)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/ii), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-c0c167f30279155a23093e42187cf40c]: Modification: [Art. 39](https://www.legislation.gov.uk/nisi/1986/595/article/39) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(ii)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/ii), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
-[^key-f0c213de8a51ab7c9ea89c7934d78a13]: Modification: [Art. 39](https://www.legislation.gov.uk/nisi/1986/595/article/39) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(z)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/z), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-f0c213de8a51ab7c9ea89c7934d78a13]: Modification: [Art. 39](https://www.legislation.gov.uk/nisi/1986/595/article/39) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(z)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/z), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)

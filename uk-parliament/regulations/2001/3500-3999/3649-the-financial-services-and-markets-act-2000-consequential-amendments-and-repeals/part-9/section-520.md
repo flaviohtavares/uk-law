@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 520. Interpretation of the 1995 Regulations[^key-fd88cb37e958a1c10cb58eb91cdcf248]
+## 520. Interpretation of the 1995 Regulations[^c-fd88cb37e958a1c10cb58eb91cdcf248]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In paragraph (1) of regulation 2 of the Lloyd’s Underwriters (Gilt-edged Secur
 
 ## Annotations
 
-[^key-fd88cb37e958a1c10cb58eb91cdcf248]: Commencement: Art. 520 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-fd88cb37e958a1c10cb58eb91cdcf248]: Commencement: Art. 520 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

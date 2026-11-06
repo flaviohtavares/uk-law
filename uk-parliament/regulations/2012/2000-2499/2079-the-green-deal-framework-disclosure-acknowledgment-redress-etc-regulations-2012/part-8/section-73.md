@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 73. Additional requirements in relation to compensation[^key-db77e40f0f6eaf33ab154850b3ef58cb]
+## 73. Additional requirements in relation to compensation[^c-db77e40f0f6eaf33ab154850b3ef58cb]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db77e40f0f6eaf33ab154850b3ef58cb]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2012/2079/regulation/73) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-db77e40f0f6eaf33ab154850b3ef58cb]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2012/2079/regulation/73) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)

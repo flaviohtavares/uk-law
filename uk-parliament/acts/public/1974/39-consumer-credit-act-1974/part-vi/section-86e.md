@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86E. Notice of default sums[^key-db979530ad92534d7a2a006ac83be27d][^c18854841]
+## 86E. Notice of default sums[^c-db979530ad92534d7a2a006ac83be27d][^c18854841]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 - (a) provide that this section does not apply in relation to a default sum which is less than a prescribed amount;
 - (b) make provision about the form and content of notices under this section.
 
-(8) This section does not apply in relation to—[^key-97643788157a4872617aff3f1c76b5b9]
+(8) This section does not apply in relation to—[^c-97643788157a4872617aff3f1c76b5b9]
 
 - (a) a non-commercial agreement,
 - (b) a small agreement, or
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-db979530ad92534d7a2a006ac83be27d]: Modification: S. 86E excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(7)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/7) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-db979530ad92534d7a2a006ac83be27d]: Modification: S. 86E excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(7)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/7) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
 [^c18854841]: Textual amendment: S. 86E inserted (16.6.2006 for certain purposes and otherwise 1.10.2008) by [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), ss. {12}, 71(2) (with Sch. 3 para. 8); [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1); [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)
 
-[^key-97643788157a4872617aff3f1c76b5b9]: Textual amendment: Words in s. 86E(8) substituted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(14)](https://www.legislation.gov.uk/uksi/2025/859/article/2/14)
+[^c-97643788157a4872617aff3f1c76b5b9]: Textual amendment: Words in s. 86E(8) substituted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(14)](https://www.legislation.gov.uk/uksi/2025/859/article/2/14)

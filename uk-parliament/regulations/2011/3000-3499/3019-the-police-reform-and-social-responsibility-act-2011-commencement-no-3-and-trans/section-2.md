@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Provisions coming into force on 15th December 2011[^key-654f6f2724d5cc538735056426a91563]
+## 2. Provisions coming into force on 15th December 2011[^c-654f6f2724d5cc538735056426a91563]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The day appointed for the coming into force of the following provisions of the 2
 
 ## Annotations
 
-[^key-654f6f2724d5cc538735056426a91563]: Commencement: Art. 2 in force at made date
+[^c-654f6f2724d5cc538735056426a91563]: Commencement: Art. 2 in force at made date

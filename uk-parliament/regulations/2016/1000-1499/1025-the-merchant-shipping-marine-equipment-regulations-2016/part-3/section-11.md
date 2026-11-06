@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Applications for grant of United Kingdom conformity approval[^key-0eb5957faf45e7cddf20b111c6d7ab04]
+## 11. Applications for grant of United Kingdom conformity approval[^c-0eb5957faf45e7cddf20b111c6d7ab04]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0eb5957faf45e7cddf20b111c6d7ab04]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/1025) revoked (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/27/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-0eb5957faf45e7cddf20b111c6d7ab04]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/1025) revoked (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/27/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))

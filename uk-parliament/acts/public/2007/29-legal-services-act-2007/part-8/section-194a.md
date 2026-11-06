@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 194A. Payments in respect of pro bono representation: tribunals[^key-b1928facae6e206e1b2064086df660a5]
+## 194A. Payments in respect of pro bono representation: tribunals[^c-b1928facae6e206e1b2064086df660a5]
 
 *Extent: E+W*
 
@@ -101,4 +101,4 @@ but does not include proceedings within devolved competence.
 
 ## Annotations
 
-[^key-b1928facae6e206e1b2064086df660a5]: Textual amendment: [S. 194A](https://www.legislation.gov.uk/ukpga/2007/29/section/194A) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 48(2)](https://www.legislation.gov.uk/ukpga/2022/35/section/48/2), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+[^c-b1928facae6e206e1b2064086df660a5]: Textual amendment: [S. 194A](https://www.legislation.gov.uk/ukpga/2007/29/section/194A) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 48(2)](https://www.legislation.gov.uk/ukpga/2022/35/section/48/2), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)

@@ -31,10 +31,10 @@ Council Regulation (EC) No 333/2002
 
 of 18 February 2002 on a uniform format for forms for affixing the visa issued by Member States to persons holding travel documents not recognised by the Member State drawing up the form (revoked)
 
-[^key-aacbfd3e92542efaaa81d74fa79c0e2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aacbfd3e92542efaaa81d74fa79c0e2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-aacbfd3e92542efaaa81d74fa79c0e2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-aacbfd3e92542efaaa81d74fa79c0e2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aacbfd3e92542efaaa81d74fa79c0e2c]: Textual amendment: Regulation revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aacbfd3e92542efaaa81d74fa79c0e2c]: Textual amendment: Regulation revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

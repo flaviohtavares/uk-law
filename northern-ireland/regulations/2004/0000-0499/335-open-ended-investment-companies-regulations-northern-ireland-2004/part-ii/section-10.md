@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. The regulator’s procedures[^key-21974373dc82eb6e4273b76355b8501d][^key-817f6a56b21a3e1678b331a4c1be4111]
+## 10. The regulator’s procedures[^c-21974373dc82eb6e4273b76355b8501d][^c-817f6a56b21a3e1678b331a4c1be4111]
 
 *Extent: N.I.*
 
-Section 395 of the Act (the[^key-9a4c4a3e1b6f4d363832782a6e85fbe2] FCA’s and PRA’s procedures) applies to the procedure relating to the Authority’s functions in relation to supervisory notices, warning notices and decision notices given under any provision of these Regulations.
+Section 395 of the Act (the[^c-9a4c4a3e1b6f4d363832782a6e85fbe2] FCA’s and PRA’s procedures) applies to the procedure relating to the Authority’s functions in relation to supervisory notices, warning notices and decision notices given under any provision of these Regulations.
 
 ## Annotations
 
-[^key-21974373dc82eb6e4273b76355b8501d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2004/335/regulation/10) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-21974373dc82eb6e4273b76355b8501d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2004/335/regulation/10) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-817f6a56b21a3e1678b331a4c1be4111]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/nisr/2004/335/regulation/10) heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(5)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/5/b)
+[^c-817f6a56b21a3e1678b331a4c1be4111]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/nisr/2004/335/regulation/10) heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(5)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/5/b)
 
-[^key-9a4c4a3e1b6f4d363832782a6e85fbe2]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/nisr/2004/335/regulation/10) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(5)(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/5/a)
+[^c-9a4c4a3e1b6f4d363832782a6e85fbe2]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/nisr/2004/335/regulation/10) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(5)(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/5/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Production of community plan[^key-2377aebdb0353ccae2c798b6458dc00e]
+## 68. Production of community plan[^c-2377aebdb0353ccae2c798b6458dc00e]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2377aebdb0353ccae2c798b6458dc00e]: Commencement: [S. 68](https://www.legislation.gov.uk/nia/2014/8/section/68) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-2377aebdb0353ccae2c798b6458dc00e]: Commencement: [S. 68](https://www.legislation.gov.uk/nia/2014/8/section/68) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

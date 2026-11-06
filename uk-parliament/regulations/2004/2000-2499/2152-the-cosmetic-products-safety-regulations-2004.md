@@ -56,7 +56,7 @@ And whereas the Secretary of State is a Minister designated [^f00002] for the pu
 
 Now, therefore, the Secretary of State in exercise of the powers conferred on her by sections 11, 28 and 30 of the 1987 Act and by section 2(2) of the 1972 Act, hereby makes the following Regulations—
 
-## 1. Citation and commencement and transitory provisions[^key-bf74ceea08d5046a54733b841871af09]
+## 1. Citation and commencement and transitory provisions[^c-bf74ceea08d5046a54733b841871af09]
 
 (1) These Regulations may be cited as the Cosmetic Products (Safety) Regulations 2004 and shall come into force on 11th September 2004 other than the provisions set out in paragraph (2) below.
 
@@ -69,11 +69,11 @@ Now, therefore, the Secretary of State in exercise of the powers conferred on he
 
 (4) The entries referred to in Part 2 of Schedule 1 to these Regulations shall not form part of Schedules 3, 4 and 6 to these Regulations until 24th March 2005.
 
-## 2. Revocation[^key-a37d9223a870bc3a1767413e6c759d04]
+## 2. Revocation[^c-a37d9223a870bc3a1767413e6c759d04]
 
 The Cosmetic Products (Safety) Regulations 2003 are hereby revoked.
 
-## 3. Interpretation[^key-9f9d38db4c0bd89954390ab064754874]
+## 3. Interpretation[^c-9f9d38db4c0bd89954390ab064754874]
 
 (1) In these Regulations—
 
@@ -109,7 +109,7 @@ The Cosmetic Products (Safety) Regulations 2003 are hereby revoked.
 
 (2) Unless the contrary intention appears, references in these Regulations to a numbered regulation or Schedule are references to the regulation or Schedule so numbered in these Regulations.
 
-## 4. General requirements[^key-68857320c3ddc5fa56aa2e748f79e901]
+## 4. General requirements[^c-68857320c3ddc5fa56aa2e748f79e901]
 
 (1) Subject to paragraph (2) below, no person shall supply any cosmetic product which is liable to cause damage to human health when it is applied under—
 
@@ -120,7 +120,7 @@ The Cosmetic Products (Safety) Regulations 2003 are hereby revoked.
 
 (3) The provision of any instructions, information or indication referred to in sub-paragraph (b) of paragraph (1) above shall not exempt any person from the obligation to comply with any other provisions of these Regulations which are applicable to him.
 
-## 5. Particular requirements[^key-7ec742ddc2b7bdcf831b06166d34e99c]
+## 5. Particular requirements[^c-7ec742ddc2b7bdcf831b06166d34e99c]
 
 (1) The following provisions of this regulation are without prejudice to regulation 4 and are subject to regulation 6.
 
@@ -190,7 +190,7 @@ The Cosmetic Products (Safety) Regulations 2003 are hereby revoked.
 
 (16) Paragraphs (14) and (15) above shall not apply to any cosmetic product placed on the market in a Member State before 11th September 2004.
 
-## 6. Authorisation by the Secretary of State[^key-df8c63d06cbcb6ffc8b7b8e0b303e5f6]
+## 6. Authorisation by the Secretary of State[^c-df8c63d06cbcb6ffc8b7b8e0b303e5f6]
 
 (1) The Secretary of State may authorise the use in a cosmetic product for a maximum period of three years of a particular substance, not being a substance or ingredient referred to in regulation 5(3) or a substance listed in Schedule 3 or 4.
 
@@ -210,7 +210,7 @@ The Cosmetic Products (Safety) Regulations 2003 are hereby revoked.
 - (a) the use of that particular substance in that cosmetic product was duly authorised; and
 - (b) all of the conditions imposed by the authorisation were complied with.
 
-## 7. Marking[^key-b4cf3042ddb59c3fc029e14b1dd6c4e9][^key-4ecdfdf2acac4efa301c3d09e61202e1]
+## 7. Marking[^c-b4cf3042ddb59c3fc029e14b1dd6c4e9][^c-4ecdfdf2acac4efa301c3d09e61202e1]
 
 (1) Subject to paragraphs (5)(b) and (9) to (12) below, no person shall supply a cosmetic product unless the packaging in which it is supplied bears, in lettering which is visible, indelible and easily legible, a list of its cosmetics ingredients (preceded by the word “ingredients”) in descending order of weight, the weight to be determined at the time the ingredients are added to the product.
 
@@ -277,7 +277,7 @@ Provided that the requirements specified in sub-paragraphs (b), (c) and (h) abov
 
 (15) Paragraphs 7(2)(c) and 7(9)(b) above shall not apply to cosmetic products placed on the market in the Community prior to 11th March 2005.
 
-## 8. Responsible Persons and Competent Authorities[^key-4c08853e021734f70a6d6b31409ca2ba]
+## 8. Responsible Persons and Competent Authorities[^c-4c08853e021734f70a6d6b31409ca2ba]
 
 (1) For the purposes of regulations 9 (except regulation 9(5) and (6)), 10, 11 and 12—
 
@@ -296,7 +296,7 @@ Provided that the requirements specified in sub-paragraphs (b), (c) and (h) abov
 
 (2) The United Kingdom competent authority shall be the Secretary of State provided that she may from time to time appoint such person as she thinks fit to be a United Kingdom competent authority in addition to or in substitution for herself.
 
-## 9. Product Information[^key-d6e0f73cd5cbf8b114a212d7581f956f]
+## 9. Product Information[^c-d6e0f73cd5cbf8b114a212d7581f956f]
 
 (1) Subject to paragraph (8) below, where a cosmetic product is manufactured or supplied in the United Kingdom a responsible person shall for control purposes keep easily accessible to a United Kingdom competent authority at the address or registered office specified on the container or packaging of the cosmetic product in accordance with regulation 7(2)(a) above the following information—
 
@@ -341,13 +341,13 @@ Provided that the requirements specified in sub-paragraphs (b), (c) and (h) abov
 
 (10) Paragraphs 9(1)(e), 9(1)(i), 9(2)(d) and 9(2)(e) above shall not apply in respect of cosmetic products placed on the market in the Community prior to 11th September 2004.
 
-**10.**[^key-eabaf41d58c1e7e72495cf41fada0731] Where the place of manufacture or initial importation into the Community of a type of cosmetic product is within the United Kingdom, the responsible person shall notify a United Kingdom competent authority of the address of the place of manufacture or, as the case may be, initial importation into the Community of that type of cosmetic product before its first supply in the Community.
+**10.**[^c-eabaf41d58c1e7e72495cf41fada0731] Where the place of manufacture or initial importation into the Community of a type of cosmetic product is within the United Kingdom, the responsible person shall notify a United Kingdom competent authority of the address of the place of manufacture or, as the case may be, initial importation into the Community of that type of cosmetic product before its first supply in the Community.
 
-**11.**[^key-d56f161403c87c1ec864c86fd91e7adc] (1) A United Kingdom competent authority may, where difficulties are encountered in providing prompt and appropriate medical treatment, require that any holder of appropriate and adequate information on substances used in cosmetic products make such information available to it, where the difficulties referred to may be overcome or eased by the provision of the said information.
+**11.**[^c-d56f161403c87c1ec864c86fd91e7adc] (1) A United Kingdom competent authority may, where difficulties are encountered in providing prompt and appropriate medical treatment, require that any holder of appropriate and adequate information on substances used in cosmetic products make such information available to it, where the difficulties referred to may be overcome or eased by the provision of the said information.
 
 (2) Where the information referred to in paragraph (1) above is made available, the United Kingdom competent authority shall ensure that it is used solely for the purposes of the treatment referred to in paragraph (1) above.
 
-**12.**[^key-f3ae742f9ae4556914facdfac2be4bd6] (1) Without prejudice to the provisions of regulations 4, 5, 9 and 12, a responsible person who for reasons of trade secrecy wishes not to include one or more cosmetic ingredients in the list of cosmetic ingredients referred to in regulation 7(1) above shall submit a request to that effect to the competent authority.
+**12.**[^c-f3ae742f9ae4556914facdfac2be4bd6] (1) Without prejudice to the provisions of regulations 4, 5, 9 and 12, a responsible person who for reasons of trade secrecy wishes not to include one or more cosmetic ingredients in the list of cosmetic ingredients referred to in regulation 7(1) above shall submit a request to that effect to the competent authority.
 
 (2) In this regulation “applicant” means a responsible person who submits a request for confidentiality.
 
@@ -379,13 +379,13 @@ Provided that the requirements specified in sub-paragraphs (b), (c) and (h) abov
 
 and in withdrawing its approval the competent authority shall comply with the provisions of paragraphs (4), (6) and (7) above.
 
-## 13. Contravention of these Regulations with the exception of regulations 5(7) to 5(13)[^key-13be55c659dc0017436d6b7710c35c87]
+## 13. Contravention of these Regulations with the exception of regulations 5(7) to 5(13)[^c-13be55c659dc0017436d6b7710c35c87]
 
 (1) Subject to paragraph (2) below, any contravention of a requirement of these regulations with the exception of regulations 5(7)-5(13) shall be treated for all purposes as though it were a contravention of a requirement of safety regulations made under section 11 of the 1987 Act.
 
 (2) The term of imprisonment to which a person guilty of an offence under regulations 9, 10 or 11 shall be liable on summary conviction shall not exceed three months.
 
-## 14. Contravention of Regulations 5(7) to 5(13)[^key-7f8760f18a2d95435ef97dec5675bb11]
+## 14. Contravention of Regulations 5(7) to 5(13)[^c-7f8760f18a2d95435ef97dec5675bb11]
 
 (1) Any person who contravenes regulation 5(7), 5(8), 5(9),5(10), 5(11),5(12) or 5(13) or causes or permits another person to contravene those regulations, shall be guilty of an offence.
 
@@ -411,9 +411,9 @@ the partner as well as the partnership shall be guilty of that offence and liabl
 
 (7) In paragraph (6), partner includes a person purporting to act as a partner.
 
-**15.**[^key-280e61397c4b5cde9ecbb5d3a4f67171] For the purposes of enforcing regulations 5(7), 5(8), 5(9), 5(10), 5(11),5(12) and 5(13), those regulations shall be treated as if they were safety regulations made under section 11 of the 1987 Act provided that section 12 of that Act shall not apply.
+**15.**[^c-280e61397c4b5cde9ecbb5d3a4f67171] For the purposes of enforcing regulations 5(7), 5(8), 5(9), 5(10), 5(11),5(12) and 5(13), those regulations shall be treated as if they were safety regulations made under section 11 of the 1987 Act provided that section 12 of that Act shall not apply.
 
-## 16. Enforcement[^key-002eaf968cd9238088a42cc212b22da1]
+## 16. Enforcement[^c-002eaf968cd9238088a42cc212b22da1]
 
 (1) No proceedings shall be brought and no enforcement action taken in respect of—
 
@@ -429,9 +429,9 @@ the partner as well as the partnership shall be guilty of that offence and liabl
 
 (4) For the purposes of this regulation, “enforcement action” means any action taken pursuant to or in connection with sections 13, 14, 16, 17, 28, 29, 30 or 31 of the 1987 Act.
 
-**17.**[^key-ae951a6fe424621d100169600b71061b] Any test of goods purchased under section 28 or seized under section 29 of the 1987 Act (which relate to enforcement) by or on behalf of an enforcement authority for the purpose of ascertaining whether the provisions of these Regulations have been contravened shall in all cases be carried out in accordance with the provisions of paragraphs 2 to 5 Schedule 11 and any test for which a method is specified in paragraph 6 of Schedule 11 shall be carried out in accordance with that method.
+**17.**[^c-ae951a6fe424621d100169600b71061b] Any test of goods purchased under section 28 or seized under section 29 of the 1987 Act (which relate to enforcement) by or on behalf of an enforcement authority for the purpose of ascertaining whether the provisions of these Regulations have been contravened shall in all cases be carried out in accordance with the provisions of paragraphs 2 to 5 Schedule 11 and any test for which a method is specified in paragraph 6 of Schedule 11 shall be carried out in accordance with that method.
 
-## 18. Proceedings[^key-3c2b68362cb3ae31ae65a32712e2ae44]
+## 18. Proceedings[^c-3c2b68362cb3ae31ae65a32712e2ae44]
 
 No proceedings for an offence under these Regulations shall be commenced after—
 
@@ -452,7 +452,7 @@ Department of Trade and Industry
 
 Regulations 1(3), 1(4) and 16(3)
 
-### PART 1[^key-203afbebc52338b11c7a150cde4498e0]
+### PART 1[^c-203afbebc52338b11c7a150cde4498e0]
 
 Schedules 3,4 and 6 to these Regulations shall have effect until 24th March 2005 with the insertion of the entries set out in Part 1 of this Schedule as they appear in the Cosmetic Products (Safety) Regulations 2003[^f00015] in place of the corresponding entries in the those Schedules to these Regulations.
 
@@ -468,7 +468,7 @@ Schedules 3,4 and 6 to these Regulations shall have effect until 24th March 2005
 | Trialkanolamines | 62 | Schedule 4, Part 1 |
 | 1,2-Dibromo-2,4-dicyanobutane \[Methyldibromo glutaronitrile\] | 36 | Schedule 6, Part 1 |
 
-### PART 2[^key-32a24924043d12c9cc732a259b01de8f]
+### PART 2[^c-32a24924043d12c9cc732a259b01de8f]
 
 Subject to regulation 1(3), the entries referred to in Part 2 of this Schedule shall not form part of the Schedules referred to in column 3 below until 24th March 2005.
 
@@ -573,7 +573,7 @@ The references given in columns 3 and 4 are for information only. Those in colum
 
 Regulation 1(3) provides that until 24th March 2005 entries 90, 391, 458 and 643 shall be inserted into Part 1 of this Schedule as they appear Part 1, Schedule 3 to the Cosmetic Products (Safety) Regulations 2003. From 24th March 2005 the above entries shall have effect as they appear in Part 1 of this Schedule.
 
-### PART 1 — SUBSTANCES PROHIBITED IN ALL COSMETIC PRODUCTS[^key-0ef5421905588c5e99bce695b466f5c8]
+### PART 1 — SUBSTANCES PROHIBITED IN ALL COSMETIC PRODUCTS[^c-0ef5421905588c5e99bce695b466f5c8]
 
 <table>
 <thead>
@@ -1353,7 +1353,7 @@ Regulation 1(3) provides that until 24th March 2005 entries 90, 391, 458 and 643
 </tbody>
 </table>
 
-### PART 2 — SUBSTANCES PROHIBITED WHEN USED AS A FRAGRANCE INGREDIENT[^key-d4efe9dd655b4e75824c7d1a03eebf59]
+### PART 2 — SUBSTANCES PROHIBITED WHEN USED AS A FRAGRANCE INGREDIENT[^c-d4efe9dd655b4e75824c7d1a03eebf59]
 
 Regulation 5(2)
 
@@ -1412,7 +1412,7 @@ Regulation 1(3) provides that until 24th March 2005 entries 14, 60, 61 and 62 sh
 
 Regulation 1(4) provides that entries 93,94 and 95 in Part 1 of this Schedule shall not form part of this Schedule until 24th March 2005.
 
-### PART 1 — SUBSTANCES LISTED IN ANNEX III, PART I OF THE DIRECTIVE AS SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN[^key-4914e8f333bc411636b6df3a1c4c2109][^key-6529c9c79458800848ed23ef9dc92db3]
+### PART 1 — SUBSTANCES LISTED IN ANNEX III, PART I OF THE DIRECTIVE AS SUBSTANCES WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN[^c-4914e8f333bc411636b6df3a1c4c2109][^c-6529c9c79458800848ed23ef9dc92db3]
 
 <table>
 <thead>
@@ -1559,7 +1559,7 @@ Regulation 1(4) provides that entries 93,94 and 95 in Part 1 of this Schedule sh
 
 [^f00018]
 
-### PART 2 — SUBSTANCES LISTED IN ANNEX III, PART 2 OF THE DIRECTIVE AS SUBSTANCES PROVISIONALLY ALLOWED[^key-4eb6df6ba51c89f2d69c6ceb57f90952][^key-fd2b22817c71ae39fe868924b3a524b9]
+### PART 2 — SUBSTANCES LISTED IN ANNEX III, PART 2 OF THE DIRECTIVE AS SUBSTANCES PROVISIONALLY ALLOWED[^c-4eb6df6ba51c89f2d69c6ceb57f90952][^c-fd2b22817c71ae39fe868924b3a524b9]
 
 <table>
 <thead>
@@ -1671,7 +1671,7 @@ In the case of colouring agents identified by the addition of (\*) to the name o
 
 Colouring agents whose number is preceded by the letter ‘E’ in accordance with the EEC Directive of 23rd October 1962 on the approximation of the rules of Member States concerning foodstuffs and colouring matter [^f00019], as amended [^f00020] adapted [^f00021] and replaced in part [^f00022] must fulfil the purity requirements laid down in those Directives.
 
-### PART I — COLOURING AGENTS LISTED IN ANNEX IV, PART 1 OF THE DIRECTIVE AS COLOURING AGENTS WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN[^key-eb8e4406e2754d22237ea295284f29f5][^key-74c35b6d07a7b61ba741e59b95dc411f]
+### PART I — COLOURING AGENTS LISTED IN ANNEX IV, PART 1 OF THE DIRECTIVE AS COLOURING AGENTS WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN[^c-eb8e4406e2754d22237ea295284f29f5][^c-74c35b6d07a7b61ba741e59b95dc411f]
 
 #### Field of application
 
@@ -1852,7 +1852,7 @@ Sub-column 4 = Colouring agents allowed exclusively in cosmetic products intende
 </tbody>
 </table>
 
-### PART II — COLOURING AGENTS LISTED IN ANNEX IV, PART 2 OF THE DIRECTIVE AS COLOURING AGENTS WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN AND WHERE COSMETIC PRODUCT SUPPLIED BEFORE A CERTAIN DATE[^key-ac079ed2ff6be96fb03f2c7cc6fec0bc][^key-cfaae500e11f298b02b4d70266b0799a]
+### PART II — COLOURING AGENTS LISTED IN ANNEX IV, PART 2 OF THE DIRECTIVE AS COLOURING AGENTS WHICH COSMETIC PRODUCTS MUST NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN AND WHERE COSMETIC PRODUCT SUPPLIED BEFORE A CERTAIN DATE[^c-ac079ed2ff6be96fb03f2c7cc6fec0bc][^c-cfaae500e11f298b02b4d70266b0799a]
 
 #### Field of application
 
@@ -1903,7 +1903,7 @@ Names which appear in square brackets in column 2 of this Schedule are the Inter
 
 Regulation 1(3) provides that until 24th March 2005 entry 36 in Part 1 of this Schedule shall be inserted into Part 1 of this Schedule as it appears in the Cosmetic Products (Safety) Regulations 2003[^f00024]. From 24th March 2004 entry 36 shall have effect as it appears in Part 1 of this schedule.
 
-### PART I — PRESERVATIVES LISTED IN ANNEX VI, PART 1 OF THE DIRECTIVE AS PRESERVATIVES WHICH COSMETIC PRODUCTS MAY NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN[^key-9be35073cb0af5177c9df017c40eb4b3][^key-a56825a13bca72a746aac65db22e62a4]
+### PART I — PRESERVATIVES LISTED IN ANNEX VI, PART 1 OF THE DIRECTIVE AS PRESERVATIVES WHICH COSMETIC PRODUCTS MAY NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN[^c-9be35073cb0af5177c9df017c40eb4b3][^c-a56825a13bca72a746aac65db22e62a4]
 
 <table>
 <thead>
@@ -1971,7 +1971,7 @@ Regulation 1(3) provides that until 24th March 2005 entry 36 in Part 1 of this S
 </tbody>
 </table>
 
-### PART 2 — PRESERVATIVES LISTED IN ANNEX VI, PART 2 OF THE DIRECTIVE AS PRESERVATIVES WHICH COSMETIC PRODUCTS MAY NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LIAD DOWN AND WHERE SUPPLIED BEFORE A CERTAIN DATE[^key-efd3226636ca5878b362232cc754a215][^key-6eee70717a47ba93a53169e0e697da6c]
+### PART 2 — PRESERVATIVES LISTED IN ANNEX VI, PART 2 OF THE DIRECTIVE AS PRESERVATIVES WHICH COSMETIC PRODUCTS MAY NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LIAD DOWN AND WHERE SUPPLIED BEFORE A CERTAIN DATE[^c-efd3226636ca5878b362232cc754a215][^c-6eee70717a47ba93a53169e0e697da6c]
 
 <table>
 <thead>
@@ -1991,7 +1991,7 @@ In this schedule, the matters specified in columns 3, 4 and 5 which apply to a p
 
 Names which appear in square brackets in column 2 are the International Nomenclature Cosmetic Ingredient names of the substances in question given in the inventory of ingredients employed in cosmetic products drawn up in accordance with the provisions of the Directive and contained in Commission Decision [96/335/EC](https://www.legislation.gov.uk/european/decision/1996/0335) [^f00025]
 
-### PART 1 — UV FILTERS LISTED IN ANNEX VII, PART 1 OF THE DIRECTIVE AS UV FILTERS WHICH COSMETIC PRODUCTS MAY NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN[^key-3d4b51c22ef6c5753f60e82c5fa127e7][^key-d30af101fcf9b40cf4eb8db9f8ec002a]
+### PART 1 — UV FILTERS LISTED IN ANNEX VII, PART 1 OF THE DIRECTIVE AS UV FILTERS WHICH COSMETIC PRODUCTS MAY NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN[^c-3d4b51c22ef6c5753f60e82c5fa127e7][^c-d30af101fcf9b40cf4eb8db9f8ec002a]
 
 <table>
 <thead>
@@ -2029,7 +2029,7 @@ Names which appear in square brackets in column 2 are the International Nomencla
 </tbody>
 </table>
 
-### PART II — UV FILTERS LISTED IN ANNEX VIII, PART 2 OF THE DIRECTIVE AS UV FILTERS WHICH COSMETIC PRODUCTS MAY NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN AND WHERE SUPPLIED BEFORE A CERTAIN DATE[^key-ac65e220839261790bc2423686923da9][^key-923b0ddf358746c86161735d8aed4946]
+### PART II — UV FILTERS LISTED IN ANNEX VIII, PART 2 OF THE DIRECTIVE AS UV FILTERS WHICH COSMETIC PRODUCTS MAY NOT CONTAIN EXCEPT SUBJECT TO THE RESTRICTIONS LAID DOWN AND WHERE SUPPLIED BEFORE A CERTAIN DATE[^c-ac65e220839261790bc2423686923da9][^c-923b0ddf358746c86161735d8aed4946]
 
 <table>
 <thead>
@@ -2041,7 +2041,7 @@ Names which appear in square brackets in column 2 are the International Nomencla
 </tbody>
 </table>
 
-## SCHEDULE 8 — METHODS OF MANUFACTURE OF TALLOW DERIVATIVES[^key-3efa1f88dc682bf91a9e99f0e1122528]
+## SCHEDULE 8 — METHODS OF MANUFACTURE OF TALLOW DERIVATIVES[^c-3efa1f88dc682bf91a9e99f0e1122528]
 
 Regulation 5(5)
 
@@ -2056,9 +2056,9 @@ The following are the methods of manufacture referred to in regulation 5(5)—
 
 Regulations 7(2), 7(6) and 7(11)
 
-### PART 1 — SYMBOL IN ANNEX VIII OF THE DIRECTIVE WHICH IS REQUIRED FOR THE PURPOSES OF REGULATIONS 7(6) AND 7(11)[^key-035284c348d5c1f95fbf377b7dd60893]
+### PART 1 — SYMBOL IN ANNEX VIII OF THE DIRECTIVE WHICH IS REQUIRED FOR THE PURPOSES OF REGULATIONS 7(6) AND 7(11)[^c-035284c348d5c1f95fbf377b7dd60893]
 
-### PART 2 — SYMBOL IN ANNEX VIIIa OF THE DIRECTIVE WHICH IS REQUIRED FOR THE PURPOSES OF REGULATION 7(2)(c)[^key-39433c348f08031181ef66dc410bb178]
+### PART 2 — SYMBOL IN ANNEX VIIIa OF THE DIRECTIVE WHICH IS REQUIRED FOR THE PURPOSES OF REGULATION 7(2)(c)[^c-39433c348f08031181ef66dc410bb178]
 
 **Not yet in force.**
 
@@ -2068,43 +2068,43 @@ Regulation 12(3) and (5)
 
 ### PART 1 — PARTICULARS TO BE INCLUDED WITH A REQUEST FOR CONFIDENTIALITY
 
-**1.**[^key-5c7c97c6ab2846908d87830df503b28b] The name or trade name and address or registered office of the applicant.
+**1.**[^c-5c7c97c6ab2846908d87830df503b28b] The name or trade name and address or registered office of the applicant.
 
-**2.**[^key-2434e222dc82d2693db641a0d8bffb27] Precise identification of the cosmetic ingredient for which confidentiality is requested, namely—
+**2.**[^c-2434e222dc82d2693db641a0d8bffb27] Precise identification of the cosmetic ingredient for which confidentiality is requested, namely—
 
 - (a) where they exist, the CAS, EINECS and colour index numbers, the chemical name, the IUPAC name, the INCI name, the European Pharmacopoeia name, the International Non-proprietary Name as recommended by the World Health Organization and the common name as provided for in the common ingredients nomenclature;
 - (b) the European List of Notified Chemical Substances (ELINCS) name and the official number allocated to it if it has been notified pursuant to Council Directive [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548)[^f00026] and an indication of the decision to approve or refuse any request for confidentiality made under Article 19 of that Directive;
 - (c) where the names or numbers referred to in sub-paragraphs (a) and (b) above do not exist, for example in the case of certain ingredients of natural origin, the name of the base material, the name of the part of the plant or animal used and the names of the cosmetic ingredient’s compounds, such as solvents.
 
-**3.**[^key-e410fbc6bb31678c0198ba5e469ddf84] The evaluation of the safety for human health of the cosmetic ingredient as used in the finished cosmetic product or products taking into account the cosmetic ingredient’s toxicological profile, chemical structure and the level of exposure as specified in regulation 9(1)(d)and (e) and carried out in accordance with the requirements of regulations 9(2), 9(3) and 9(4).
+**3.**[^c-e410fbc6bb31678c0198ba5e469ddf84] The evaluation of the safety for human health of the cosmetic ingredient as used in the finished cosmetic product or products taking into account the cosmetic ingredient’s toxicological profile, chemical structure and the level of exposure as specified in regulation 9(1)(d)and (e) and carried out in accordance with the requirements of regulations 9(2), 9(3) and 9(4).
 
-**4.**[^key-611575801454be13e55b3c1f0b994cf6] The envisaged use of the cosmetic ingredient and in particular the different categories of cosmetic products in which it will be used.
+**4.**[^c-611575801454be13e55b3c1f0b994cf6] The envisaged use of the cosmetic ingredient and in particular the different categories of cosmetic products in which it will be used.
 
-**5.**[^key-9dc5e82c803fa999ac302e4f9299ac21] A detailed justification of why confidentiality is sought addressing for example—
+**5.**[^c-9dc5e82c803fa999ac302e4f9299ac21] A detailed justification of why confidentiality is sought addressing for example—
 
 - (a) the fact that the identify of the cosmetic ingredient or its function in the cosmetic product to be supplied has not been described in the literature accompanying the cosmetic product and is unknown to other manufacturers or suppliers of cosmetic products;
 - (b) the fact that the information is not yet in the public domain even though a patent application has been lodged for the cosmetic ingredient or its use;
 - (c) the fact that if the information were known it would be easily reproducible, to the detriment of the applicant.
 
-**6.**[^key-a9ddb20d1be89f4b427a1ceaa9471ec6] (1) If known, the name of each cosmetic product which is to contain the cosmetic ingredient and if different names are to be used in other Member States, precise details of each one of them.
+**6.**[^c-a9ddb20d1be89f4b427a1ceaa9471ec6] (1) If known, the name of each cosmetic product which is to contain the cosmetic ingredient and if different names are to be used in other Member States, precise details of each one of them.
 
 (2) If the name of a cosmetic product is not yet known, it may be communicated at a later date, but at least 15 days before the cosmetic product is supplied.
 
 (3) If the cosmetic ingredient is used in several products, one request shall suffice, provided that the cosmetic products are clearly indicated to the competent authority.
 
-**7.**[^key-2fe38ca2329eee0b1f1f379865faac3b] A statement setting out whether a request has been submitted to the competent authority of any other Member State in respect of the cosmetic ingredient for which confidentiality is sought and particulars on the outcome of any such request.
+**7.**[^c-2fe38ca2329eee0b1f1f379865faac3b] A statement setting out whether a request has been submitted to the competent authority of any other Member State in respect of the cosmetic ingredient for which confidentiality is sought and particulars on the outcome of any such request.
 
 ### PART II — PROCEDURE FOR GRANT OF REGISTRATION NUMBER
 
-**1.**[^key-5bc499e02b60140a9e5a8dded5b25b97] The registration number referred to in regulation 12(5) shall consist of seven digits, the first two corresponding to the year of approval of confidentiality, the second two to the code assigned to each Member State, as referred to in paragraph 2 below, and the final three digits assigned by the competent authority.
+**1.**[^c-5bc499e02b60140a9e5a8dded5b25b97] The registration number referred to in regulation 12(5) shall consist of seven digits, the first two corresponding to the year of approval of confidentiality, the second two to the code assigned to each Member State, as referred to in paragraph 2 below, and the final three digits assigned by the competent authority.
 
-**2.**[^key-1f42b08da19284acca896ed80b61c6fd] The code allocated to the United Kingdom is 06.
+**2.**[^c-1f42b08da19284acca896ed80b61c6fd] The code allocated to the United Kingdom is 06.
 
 ## SCHEDULE 11 — SAMPLING AND TESTING
 
 Regulation 17
 
-**1.**[^key-2a9b136d5fde90b2317ba65486018bf7] In this Schedule—
+**1.**[^c-2a9b136d5fde90b2317ba65486018bf7] In this Schedule—
 
 - “Annex A” means the Annex to Commission Directive No. [80/1335/EEC](https://www.legislation.gov.uk/european/directive/1980/1335)[^f00027] as amended by Commission Directive No.[87/143/EEC](https://www.legislation.gov.uk/european/directive/1987/0143)[^f00028]
 - “Annex B” means the Annex to Commission Directive No. [82/434/EEC](https://www.legislation.gov.uk/european/directive/1982/0434)[^f00029] as amended by Commission Directive No.[90/207/EEC](https://www.legislation.gov.uk/european/directive/1990/0207)[^f00030]
@@ -2115,15 +2115,15 @@ Regulation 17
 - “Annex G” means the Annex to Commission Directive No. [96/45/EC](https://www.legislation.gov.uk/european/directive/1996/0045)[^f00035];
 - “purchase” means purchase for the purpose of carrying out a test.
 
-**2.**[^key-1739f5c56dc446f1a90b734f36e18d9d] An enforcement authority intending to purchase a cosmetic product shall purchase a sufficient laboratory sample, as defined in paragraph 2.3 of Part 1 of Annex A, for the purpose of Annex A; and, for the purposes of the definition of “total sample” in paragraph 2.2 of Part 1 of Annex A; samples shall be regarded as having the sample batch number if—
+**2.**[^c-1739f5c56dc446f1a90b734f36e18d9d] An enforcement authority intending to purchase a cosmetic product shall purchase a sufficient laboratory sample, as defined in paragraph 2.3 of Part 1 of Annex A, for the purpose of Annex A; and, for the purposes of the definition of “total sample” in paragraph 2.2 of Part 1 of Annex A; samples shall be regarded as having the sample batch number if—
 
 - (a) the means of identifying the batch referred to in regulation 7(2)(h) above shows that they were manufactured in the same batch;
 - (b) in the case of a product not manufactured in a batch, the reference referred to in regulation 7(2)(h) above shows that they are derived from the same unit of production; or
 - (c) in the case of a product which does not comply with the requirements of regulation 7(2)(h) above, the officer effecting the purchase has reasonable cause to believe that they were manufactured in the same batch or are derived from the same unit of production, as the case may be.
 
-**3.**[^key-7186ff9ab2b01b0669333858509a4908] The immediate container, if any, of a cosmetic product purchased by an enforcement authority shall not have been opened by, on behalf of or at the request of the enforcement authority before the purchase takes place and the container shall not thereafter be opened except in accordance with paragraph 5.3 of Part I of Annex A and paragraph 1.2 of Part II of Annex A.
+**3.**[^c-7186ff9ab2b01b0669333858509a4908] The immediate container, if any, of a cosmetic product purchased by an enforcement authority shall not have been opened by, on behalf of or at the request of the enforcement authority before the purchase takes place and the container shall not thereafter be opened except in accordance with paragraph 5.3 of Part I of Annex A and paragraph 1.2 of Part II of Annex A.
 
-**4.**[^key-61a91337864b282dbd1a2f3cde843d66] As soon as an enforcement authority has purchased a cosmetic product, the officer effecting the purchase shall—
+**4.**[^c-61a91337864b282dbd1a2f3cde843d66] As soon as an enforcement authority has purchased a cosmetic product, the officer effecting the purchase shall—
 
 - (a) either—
   - (i) place a seal on the product’s container or outer packaging; or
@@ -2134,11 +2134,11 @@ Regulation 17
   - (iii) his own name, and
   - (iv) the name of the enforcement authority making the purchase.
 
-**5.**[^key-7490bc771701f204bfca449d842177e3] (1) Subject to sub-paragraph (2) below, the provisions of Part 1 of Annex A, other than paragraphs 3.1, 3.2 and 4, and of Part II of Annex A, other than paragraph 1.4, shall be complied with in the sampling of cosmetic products and the laboratory preparation of test portions.
+**5.**[^c-7490bc771701f204bfca449d842177e3] (1) Subject to sub-paragraph (2) below, the provisions of Part 1 of Annex A, other than paragraphs 3.1, 3.2 and 4, and of Part II of Annex A, other than paragraph 1.4, shall be complied with in the sampling of cosmetic products and the laboratory preparation of test portions.
 
 (2) Where, because of the way in which a cosmetic product is put up for sale, it is not practicable for Part II of Annex A to be complied with, it shall be prepared for testing in accordance with good analytical practice, and the person so preparing it shall record in writing the method of preparation which he has used.
 
-**6.**[^key-e6e61c7bebe0c84d61381246d94056f4] (1) Any test to determine whether a cosmetic product contains a significant amount of free sodium hydroxide or free potassium hydroxide shall be carried out in accordance with paragraphs 1 to 4 of Part III of Annex A.
+**6.**[^c-e6e61c7bebe0c84d61381246d94056f4] (1) Any test to determine whether a cosmetic product contains a significant amount of free sodium hydroxide or free potassium hydroxide shall be carried out in accordance with paragraphs 1 to 4 of Part III of Annex A.
 
 (2) Any test to determine the amount of free sodium hydroxide or free potassium hydroxide in a hair straightener product or a nail cuticle solvent product shall be carried out in accordance with paragraphs 1, 2, 3 and 5 of Part III of Annex A.
 
@@ -2224,7 +2224,7 @@ Regulation 17
 
 Regulation 3(1), 5(7), (9) and (12)
 
-### PART 1[^key-c08b8111d0baf55c896bb13eb783c2a2]
+### PART 1[^c-c08b8111d0baf55c896bb13eb783c2a2]
 
 Part 1 of this Schedule lists the alternative methods validated by the European Centre for the Validation of Alternative Methods (“ECVAM”) which are necessary to meet the requirements of these Regulations and which are listed in Annex V to Council Directive [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) of 27th June 1967 on the approximation of laws, regulations and administrative provisions relating to classification, packaging and labelling of dangerous substances [^f00037].
 
@@ -2236,7 +2236,7 @@ The reference number given in the second column of the table in Part 1 refers to
 | 2 | B40 | Skin corrosion | Human skin model assay | 11.9.04 |
 | 3 | B41 | Phototoxicity | In vitro 3T3 NRU phototoxicity test | 11.9.04 |
 
-### PART 2[^key-60540642b4298e8454d19c19a9eec72b]
+### PART 2[^c-60540642b4298e8454d19c19a9eec72b]
 
 Part 2 of this Schedule lists the alternative methods validated by ECVAM which are necessary to meet the requirements of these Regulations and which are listed in Annex IX to the Directive. As an alternative method may not replace completely the experimentation on animals, column 3 of the table below specifies whether the alternative method fully or partially replaces the animal test.
 
@@ -2250,7 +2250,7 @@ Part 2 of this Schedule lists the alternative methods validated by ECVAM which a
 </tbody>
 </table>
 
-## SCHEDULE 13 — LIST OF SUBSTANCES CLASSIFIED AS CARCINOGENIC, MUTAGENIC OR TOXIC FOR REPRODUCTION OF CATEGORY 3 UNDER DIRECTIVE [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) WHICH APPEAR IN THE APPROVED SUPPLY LIST[^key-0296e912c2d0ac2c3404a61cc9d654dc]
+## SCHEDULE 13 — LIST OF SUBSTANCES CLASSIFIED AS CARCINOGENIC, MUTAGENIC OR TOXIC FOR REPRODUCTION OF CATEGORY 3 UNDER DIRECTIVE [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) WHICH APPEAR IN THE APPROVED SUPPLY LIST[^c-0296e912c2d0ac2c3404a61cc9d654dc]
 
 Regulation 5(15)
 
@@ -2298,13 +2298,13 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-bf74ceea08d5046a54733b841871af09]: Commencement: Reg. 1 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-bf74ceea08d5046a54733b841871af09]: Commencement: Reg. 1 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2003/835](https://www.legislation.gov.uk/uksi/2003/835)
 
-[^key-a37d9223a870bc3a1767413e6c759d04]: Commencement: Reg. 2 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-a37d9223a870bc3a1767413e6c759d04]: Commencement: Reg. 2 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-9f9d38db4c0bd89954390ab064754874]: Commencement: Reg. 3 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-9f9d38db4c0bd89954390ab064754874]: Commencement: Reg. 3 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
 [^f00005]: Footnote: O.J. No. L132, 1.6.96, p.1.
 
@@ -2312,23 +2312,23 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00007]: Footnote: O.J. No. L262, 27.9.76, p. 169.
 
-[^key-68857320c3ddc5fa56aa2e748f79e901]: Commencement: Reg. 4 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-68857320c3ddc5fa56aa2e748f79e901]: Commencement: Reg. 4 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-7ec742ddc2b7bdcf831b06166d34e99c]: Commencement: Reg. 5 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-7ec742ddc2b7bdcf831b06166d34e99c]: Commencement: Reg. 5 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
 [^f00008]: Footnote: O.J No. L147, 31.5.01, p.1.
 
-[^key-df8c63d06cbcb6ffc8b7b8e0b303e5f6]: Commencement: Reg. 6 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-df8c63d06cbcb6ffc8b7b8e0b303e5f6]: Commencement: Reg. 6 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-b4cf3042ddb59c3fc029e14b1dd6c4e9]: Commencement: Reg. 7(1)(2)(a)(b)(d)-(i)(3)-(9)(a)(c)-(f)(10)-(15) in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-b4cf3042ddb59c3fc029e14b1dd6c4e9]: Commencement: Reg. 7(1)(2)(a)(b)(d)-(i)(3)-(9)(a)(c)-(f)(10)-(15) in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-4ecdfdf2acac4efa301c3d09e61202e1]: Commencement: Reg. 7(2)(c)(9)(b) in force at 11.3.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
+[^c-4ecdfdf2acac4efa301c3d09e61202e1]: Commencement: Reg. 7(2)(c)(9)(b) in force at 11.3.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
 
 [^f00009]: Footnote: An ingredient’s CTFA name is the name given to it by the Cosmetics, Toiletries and Fragrances Association (CTFA) and listed in the tenth edition of the International Cosmetic Ingredient Dictionary and Handbook (ISBN 1-882621-34-4) published in 2004 by The Cosmetic Toiletry and Fragrance Association. Its EINECS identification reference is the reference given in the European Inventory of Existing Commercial Chemical Substances. Its IUPAC identification reference is the reference given by the International Union of Pure and Applied Chemistry. Its CAS identification reference is the reference assigned by the Chemical Abstracts Service. An ingredient’s colour index number is the number specified in the fourth edition of The Colour Index published by the Society of Dyers and Colourists and the American Society of Textile Chemists and Colourists (available by on-line subscription at http://www.colour-index.org/). European Pharmacopoeia names, International Non-proprietary Names and EINECS, IUPAC and CAS identification references are listed in Commission Decision [96/335/EC](https://www.legislation.gov.uk/european/decision/1996/0335) (O.J.No. L132, 1.6.96, p.1.).
 
-[^key-4c08853e021734f70a6d6b31409ca2ba]: Commencement: Reg. 8 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-4c08853e021734f70a6d6b31409ca2ba]: Commencement: Reg. 8 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-d6e0f73cd5cbf8b114a212d7581f956f]: Commencement: Reg. 9 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-d6e0f73cd5cbf8b114a212d7581f956f]: Commencement: Reg. 9 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
 [^f00010]: Footnote: O.J. No. L50, 20.2.2004, p. 44, implemented by the Good Laboratory Practice (Codification Amendment Etc.) Regulations ([S.I. 2004/994](https://www.legislation.gov.uk/uksi/2004/994)).
 
@@ -2338,51 +2338,51 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00013]: Footnote: [S.I. 1991/824](https://www.legislation.gov.uk/uksi/1991/824), to which there is an amendment not relevant to these Regulations.
 
-[^key-eabaf41d58c1e7e72495cf41fada0731]: Commencement: Reg. 10 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-eabaf41d58c1e7e72495cf41fada0731]: Commencement: Reg. 10 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-d56f161403c87c1ec864c86fd91e7adc]: Commencement: Reg. 11 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-d56f161403c87c1ec864c86fd91e7adc]: Commencement: Reg. 11 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-f3ae742f9ae4556914facdfac2be4bd6]: Commencement: Reg. 12 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-f3ae742f9ae4556914facdfac2be4bd6]: Commencement: Reg. 12 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-13be55c659dc0017436d6b7710c35c87]: Commencement: Reg. 13 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-13be55c659dc0017436d6b7710c35c87]: Commencement: Reg. 13 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-7f8760f18a2d95435ef97dec5675bb11]: Commencement: Reg. 14 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-7f8760f18a2d95435ef97dec5675bb11]: Commencement: Reg. 14 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-280e61397c4b5cde9ecbb5d3a4f67171]: Commencement: Reg. 15 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-280e61397c4b5cde9ecbb5d3a4f67171]: Commencement: Reg. 15 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-002eaf968cd9238088a42cc212b22da1]: Commencement: Reg. 16 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-002eaf968cd9238088a42cc212b22da1]: Commencement: Reg. 16 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
 [^f00014]: Footnote: [SI 2003/835](https://www.legislation.gov.uk/uksi/2003/835) revoked by these regulations
 
-[^key-ae951a6fe424621d100169600b71061b]: Commencement: Reg. 17 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-ae951a6fe424621d100169600b71061b]: Commencement: Reg. 17 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-3c2b68362cb3ae31ae65a32712e2ae44]: Commencement: Reg. 18 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-3c2b68362cb3ae31ae65a32712e2ae44]: Commencement: Reg. 18 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-203afbebc52338b11c7a150cde4498e0]: Commencement: Sch. 1 Pt. 1 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-203afbebc52338b11c7a150cde4498e0]: Commencement: Sch. 1 Pt. 1 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 2003/835](https://www.legislation.gov.uk/uksi/2003/835).
 
-[^key-32a24924043d12c9cc732a259b01de8f]: Commencement: Sch. 1 Pt. 2 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-32a24924043d12c9cc732a259b01de8f]: Commencement: Sch. 1 Pt. 2 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
 [^M_I_4034da92-f90e-4585-b090-bf96b46a17b8]: Commencement: Sch. 2 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-0ef5421905588c5e99bce695b466f5c8]: Commencement: Sch. 3 Pt. 1 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-0ef5421905588c5e99bce695b466f5c8]: Commencement: Sch. 3 Pt. 1 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-d4efe9dd655b4e75824c7d1a03eebf59]: Commencement: Sch. 3 Pt. 2 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-d4efe9dd655b4e75824c7d1a03eebf59]: Commencement: Sch. 3 Pt. 2 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
 [^f00016]: Footnote: O.J. No. L132, 1.6.1996, p.1.
 
 [^f00017]: Footnote: [SI 2003/835](https://www.legislation.gov.uk/uksi/2003/835)
 
-[^key-4914e8f333bc411636b6df3a1c4c2109]: Commencement: Sch. 4 Pt. 1 in force at 11.9.2004 in so far as commenced by inducing regs. 5(2), 6(1), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-4914e8f333bc411636b6df3a1c4c2109]: Commencement: Sch. 4 Pt. 1 in force at 11.9.2004 in so far as commenced by inducing regs. 5(2), 6(1), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-6529c9c79458800848ed23ef9dc92db3]: Commencement: Sch. 4 Pt. 1 in force at 11.3.2005 in so far as commenced by inducing reg. 7(2)(9), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
+[^c-6529c9c79458800848ed23ef9dc92db3]: Commencement: Sch. 4 Pt. 1 in force at 11.3.2005 in so far as commenced by inducing reg. 7(2)(9), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
 
 [^f00018]: Footnote: Note 2: The concentration of sodium, potassium or lithium hydroxide is expressed as a percentage of sodium hydroxide. In cases of mixtures, the sun must not exceed the limits given in column 4.
 
-[^key-4eb6df6ba51c89f2d69c6ceb57f90952]: Commencement: Sch. 4 Pt. 2 in force at 11.9.2004 in so far as commencd by inducing regs. 5(2), 6(1), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-4eb6df6ba51c89f2d69c6ceb57f90952]: Commencement: Sch. 4 Pt. 2 in force at 11.9.2004 in so far as commencd by inducing regs. 5(2), 6(1), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-fd2b22817c71ae39fe868924b3a524b9]: Commencement: Sch. 4 Pt. 2 in force at 11.3.2005 in so far as commenced by inducing reg. 7(2)(9), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
+[^c-fd2b22817c71ae39fe868924b3a524b9]: Commencement: Sch. 4 Pt. 2 in force at 11.3.2005 in so far as commenced by inducing reg. 7(2)(9), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
 
 [^f00019]: Footnote: O.J. No. 115, 11.11.62, p.2645.
 
@@ -2394,63 +2394,63 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00022]: Footnote: Council Directive [94/36/EC](https://www.legislation.gov.uk/european/directive/1994/0036) (O.J) No. L237, 10.9.94, p.13) and Commission Directive [95/45/EC](https://www.legislation.gov.uk/european/directive/1995/0045) (O.J. No. L226, 22.9.95, p.1).
 
-[^key-eb8e4406e2754d22237ea295284f29f5]: Commencement: Sch. 5 Pt. I in force at 11.9.2004 in so far as commenced by inducing reg. 5(2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-eb8e4406e2754d22237ea295284f29f5]: Commencement: Sch. 5 Pt. I in force at 11.9.2004 in so far as commenced by inducing reg. 5(2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-74c35b6d07a7b61ba741e59b95dc411f]: Commencement: Sch. 5 Pt. I in force at 11.3.2005 in so far as commenced by inducing reg. 7(9), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-74c35b6d07a7b61ba741e59b95dc411f]: Commencement: Sch. 5 Pt. I in force at 11.3.2005 in so far as commenced by inducing reg. 7(9), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-ac079ed2ff6be96fb03f2c7cc6fec0bc]: Commencement: Sch. 5 Pt. II in force at 11.9.2004 in so far as commenced by inducing reg. 5(2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-ac079ed2ff6be96fb03f2c7cc6fec0bc]: Commencement: Sch. 5 Pt. II in force at 11.9.2004 in so far as commenced by inducing reg. 5(2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-cfaae500e11f298b02b4d70266b0799a]: Commencement: Sch. 5 Pt. II in force at 11.3.2005 in so far as commence by inducing reg. 7(9), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
+[^c-cfaae500e11f298b02b4d70266b0799a]: Commencement: Sch. 5 Pt. II in force at 11.3.2005 in so far as commence by inducing reg. 7(9), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
 
 [^f00023]: Footnote: O. J. No. L132, 1.6..96, p.1.
 
 [^f00024]: Footnote: [SI 2003/835](https://www.legislation.gov.uk/uksi/2003/835)
 
-[^key-9be35073cb0af5177c9df017c40eb4b3]: Commencement: Sch. 6 Pt. I in force at 11.9.2004 in so far as commenced by inducing reg. 5(2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-9be35073cb0af5177c9df017c40eb4b3]: Commencement: Sch. 6 Pt. I in force at 11.9.2004 in so far as commenced by inducing reg. 5(2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-a56825a13bca72a746aac65db22e62a4]: Commencement: Sch. 6 Pt. I in force at 11.3.2005 in so far as commenced by inducing reg. 7(2), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
+[^c-a56825a13bca72a746aac65db22e62a4]: Commencement: Sch. 6 Pt. I in force at 11.3.2005 in so far as commenced by inducing reg. 7(2), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
 
-[^key-efd3226636ca5878b362232cc754a215]: Commencement: Sch. 6 Pt. 2 in force at 11.9.2004 in so far as commenced by inducing reg. 5(2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-efd3226636ca5878b362232cc754a215]: Commencement: Sch. 6 Pt. 2 in force at 11.9.2004 in so far as commenced by inducing reg. 5(2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-6eee70717a47ba93a53169e0e697da6c]: Commencement: Sch. 6 Pt. 2 in force at 11.3.2005 in so far as commenced by indcuing reg. 7(2), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
+[^c-6eee70717a47ba93a53169e0e697da6c]: Commencement: Sch. 6 Pt. 2 in force at 11.3.2005 in so far as commenced by indcuing reg. 7(2), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
 
 [^f00025]: Footnote: O.J. No. L132, 1.6.96, p.1.
 
-[^key-3d4b51c22ef6c5753f60e82c5fa127e7]: Commencement: Sch. 7 Pt. 1 in force at 11.9.2004 in so far as commenced by inducing reg. 5(2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-3d4b51c22ef6c5753f60e82c5fa127e7]: Commencement: Sch. 7 Pt. 1 in force at 11.9.2004 in so far as commenced by inducing reg. 5(2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-d30af101fcf9b40cf4eb8db9f8ec002a]: Commencement: Sch. 7 Pt. 1 in force at 11.3.2005 in so far as commenced by inducing reg. 7(2)(9), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
+[^c-d30af101fcf9b40cf4eb8db9f8ec002a]: Commencement: Sch. 7 Pt. 1 in force at 11.3.2005 in so far as commenced by inducing reg. 7(2)(9), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
 
-[^key-ac65e220839261790bc2423686923da9]: Commencement: Sch. 7 Pt. II in force at 11.9.2004 in so far as commenced by inducing reg. 5(2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-ac65e220839261790bc2423686923da9]: Commencement: Sch. 7 Pt. II in force at 11.9.2004 in so far as commenced by inducing reg. 5(2), see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-923b0ddf358746c86161735d8aed4946]: Commencement: Sch. 7 Pt. II in force at 11.3.2005 in so far as commenced by inducing reg. 7(2)(9), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
+[^c-923b0ddf358746c86161735d8aed4946]: Commencement: Sch. 7 Pt. II in force at 11.3.2005 in so far as commenced by inducing reg. 7(2)(9), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
 
-[^key-3efa1f88dc682bf91a9e99f0e1122528]: Commencement: Sch. 8 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-3efa1f88dc682bf91a9e99f0e1122528]: Commencement: Sch. 8 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-035284c348d5c1f95fbf377b7dd60893]: Commencement: Sch. 9 Pt. 1 in force at 11.9.2004 as commenced by inducing reg. 7(6)(11) , see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-035284c348d5c1f95fbf377b7dd60893]: Commencement: Sch. 9 Pt. 1 in force at 11.9.2004 as commenced by inducing reg. 7(6)(11) , see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-39433c348f08031181ef66dc410bb178]: Commencement: Sch. 9 Pt. 2 in force at 11.3.2005 as commenced by reg. 7(2), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
+[^c-39433c348f08031181ef66dc410bb178]: Commencement: Sch. 9 Pt. 2 in force at 11.3.2005 as commenced by reg. 7(2), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/2)
 
-[^key-5c7c97c6ab2846908d87830df503b28b]: Commencement: Sch. 10 Pt. 1 para. 1 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-5c7c97c6ab2846908d87830df503b28b]: Commencement: Sch. 10 Pt. 1 para. 1 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-2434e222dc82d2693db641a0d8bffb27]: Commencement: Sch. 10 Pt. 1 para. 2 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-2434e222dc82d2693db641a0d8bffb27]: Commencement: Sch. 10 Pt. 1 para. 2 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
 [^f00026]: Footnote: O.J. l 196, 16.8.1967, p.1 as last amended by Directive [2004/73/EEC](https://www.legislation.gov.uk/european/directive/2004/0073) (O.J. L152, 30.4.2004, p.1)
 
-[^key-e410fbc6bb31678c0198ba5e469ddf84]: Commencement: Sch. 10 para. 3 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-e410fbc6bb31678c0198ba5e469ddf84]: Commencement: Sch. 10 para. 3 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-611575801454be13e55b3c1f0b994cf6]: Commencement: Sch. 10 para. 4 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-611575801454be13e55b3c1f0b994cf6]: Commencement: Sch. 10 para. 4 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-9dc5e82c803fa999ac302e4f9299ac21]: Commencement: Sch. 10 para. 5 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-9dc5e82c803fa999ac302e4f9299ac21]: Commencement: Sch. 10 para. 5 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-a9ddb20d1be89f4b427a1ceaa9471ec6]: Commencement: Sch. 10 para. 6 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-a9ddb20d1be89f4b427a1ceaa9471ec6]: Commencement: Sch. 10 para. 6 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-2fe38ca2329eee0b1f1f379865faac3b]: Commencement: Sch. 10 para. 7 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-2fe38ca2329eee0b1f1f379865faac3b]: Commencement: Sch. 10 para. 7 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-5bc499e02b60140a9e5a8dded5b25b97]: Commencement: Sch. 10 Pt. II para. 1 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-5bc499e02b60140a9e5a8dded5b25b97]: Commencement: Sch. 10 Pt. II para. 1 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-1f42b08da19284acca896ed80b61c6fd]: Commencement: Sch. 10 Pt. II para. 2 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-1f42b08da19284acca896ed80b61c6fd]: Commencement: Sch. 10 Pt. II para. 2 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-2a9b136d5fde90b2317ba65486018bf7]: Commencement: Sch. 11 para. 1 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-2a9b136d5fde90b2317ba65486018bf7]: Commencement: Sch. 11 para. 1 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
 [^f00027]: Footnote: O.J. No. L383, 31.12.80, p.27.
 
@@ -2470,25 +2470,25 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00035]: Footnote: O.J. No. L213, 2.7.96, p.8.
 
-[^key-1739f5c56dc446f1a90b734f36e18d9d]: Commencement: Sch. 11 para. 2 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-1739f5c56dc446f1a90b734f36e18d9d]: Commencement: Sch. 11 para. 2 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-7186ff9ab2b01b0669333858509a4908]: Commencement: Sch. 11 para. 3 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-7186ff9ab2b01b0669333858509a4908]: Commencement: Sch. 11 para. 3 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-61a91337864b282dbd1a2f3cde843d66]: Commencement: Sch. 11 para. 4 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-61a91337864b282dbd1a2f3cde843d66]: Commencement: Sch. 11 para. 4 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-7490bc771701f204bfca449d842177e3]: Commencement: Sch. 11 para. 5 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-7490bc771701f204bfca449d842177e3]: Commencement: Sch. 11 para. 5 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-e6e61c7bebe0c84d61381246d94056f4]: Commencement: Sch. 11 para. 6 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-e6e61c7bebe0c84d61381246d94056f4]: Commencement: Sch. 11 para. 6 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
 [^f00036]: Footnote: O.J. No. L57, 27.2.87, p.56.
 
-[^key-c08b8111d0baf55c896bb13eb783c2a2]: Commencement: Sch. 12 Pt. 1 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-c08b8111d0baf55c896bb13eb783c2a2]: Commencement: Sch. 12 Pt. 1 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
 [^f00037]: Footnote: O.J. l 196, 16.8.1967, p.1 as last amended by Directive [2004/73/EC](https://www.legislation.gov.uk/european/directive/2004/0073) (O.J. L152, 30.4.2004, p.1)
 
-[^key-60540642b4298e8454d19c19a9eec72b]: Commencement: Sch. 12 Pt. 2 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-60540642b4298e8454d19c19a9eec72b]: Commencement: Sch. 12 Pt. 2 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
-[^key-0296e912c2d0ac2c3404a61cc9d654dc]: Commencement: Sch. 13 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
+[^c-0296e912c2d0ac2c3404a61cc9d654dc]: Commencement: Sch. 13 in force at 11.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2152/regulation/1/1)
 
 [^f00038]: Footnote: Council Directive [1967/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) (OJ 196,16.8.67, p.1) as last amended by [2004/73/EC](https://www.legislation.gov.uk/european/directive/2004/0073) (O.J. L152, 30.4.2004, p.1)
 

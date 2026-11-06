@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Traffic regulation[^key-abce71791dd6ef1438628faa620edbe4]
+## 18. Traffic regulation[^c-abce71791dd6ef1438628faa620edbe4]
 
 *Extent: E+W*
 
@@ -66,7 +66,7 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-abce71791dd6ef1438628faa620edbe4]: Commencement: Art. 18 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-abce71791dd6ef1438628faa620edbe4]: Commencement: Art. 18 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
 [^f00060]: Footnote: Section 32 was amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and section 168(1) of, and paragraph 39 of Schedule 8 to, the 1991 Act.
 

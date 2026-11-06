@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Assessment of applicant's contribution[^key-6ef6feac7ab1f3a1146ceac381274cbe][^key-b8b684f3a3543983fd95e192bb75511a]
+## 77. Assessment of applicant's contribution[^c-6ef6feac7ab1f3a1146ceac381274cbe][^c-b8b684f3a3543983fd95e192bb75511a]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ef6feac7ab1f3a1146ceac381274cbe]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2006/1/section/77) in force at 29.9.2008 for specified purposes by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3)
+[^c-6ef6feac7ab1f3a1146ceac381274cbe]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2006/1/section/77) in force at 29.9.2008 for specified purposes by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3)
 
-[^key-b8b684f3a3543983fd95e192bb75511a]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2006/1/section/77) in force at 1.4.2009 in so far as not already in force by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-b8b684f3a3543983fd95e192bb75511a]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2006/1/section/77) in force at 1.4.2009 in so far as not already in force by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

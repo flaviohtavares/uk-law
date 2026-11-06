@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Section 20 not to apply in exceptional cases[^key-2e09920e72da4ed64dca77162869ec43]
+## 22. Section 20 not to apply in exceptional cases[^c-2e09920e72da4ed64dca77162869ec43]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e09920e72da4ed64dca77162869ec43]: Commencement: S. 22 in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/b)
+[^c-2e09920e72da4ed64dca77162869ec43]: Commencement: S. 22 in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/b)

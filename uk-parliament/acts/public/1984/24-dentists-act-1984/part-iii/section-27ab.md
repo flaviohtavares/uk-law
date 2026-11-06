@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27AB. Review of determination under section 27A(1)[^key-dfa53240436f140da7d4caf6a75419cb][^key-3e7372860534592a6b84b2c23b55d212]
+## 27AB. Review of determination under section 27A(1)[^c-dfa53240436f140da7d4caf6a75419cb][^c-3e7372860534592a6b84b2c23b55d212]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dfa53240436f140da7d4caf6a75419cb]: Textual amendment: [S. 27AB](https://www.legislation.gov.uk/ukpga/1984/24/section/27AB) inserted (13.4.2016) by [The General Dental Council (Fitness to Practise etc.) Order 2016 (S.I. 2016/496)](https://www.legislation.gov.uk/uksi/2016/496), [arts. 1](https://www.legislation.gov.uk/uksi/2016/496/article/1), [9](https://www.legislation.gov.uk/uksi/2016/496/article/9)
+[^c-dfa53240436f140da7d4caf6a75419cb]: Textual amendment: [S. 27AB](https://www.legislation.gov.uk/ukpga/1984/24/section/27AB) inserted (13.4.2016) by [The General Dental Council (Fitness to Practise etc.) Order 2016 (S.I. 2016/496)](https://www.legislation.gov.uk/uksi/2016/496), [arts. 1](https://www.legislation.gov.uk/uksi/2016/496/article/1), [9](https://www.legislation.gov.uk/uksi/2016/496/article/9)
 
-[^key-3e7372860534592a6b84b2c23b55d212]: Textual amendment: Ss. 27-28 substituted for ss. 27, 28 (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 18](https://www.legislation.gov.uk/uksi/2005/2011/article/18) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-3e7372860534592a6b84b2c23b55d212]: Textual amendment: Ss. 27-28 substituted for ss. 27, 28 (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 18](https://www.legislation.gov.uk/uksi/2005/2011/article/18) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Claims by taxable persons for amounts to be treated as credits for input tax[^key-daff9fb1a21bee0c9890fd2d524b0fb9]
+## 209. Claims by taxable persons for amounts to be treated as credits for input tax[^c-daff9fb1a21bee0c9890fd2d524b0fb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ shall be treated, for the purpose of determining the entitlement of the person s
 
 ## Annotations
 
-[^key-daff9fb1a21bee0c9890fd2d524b0fb9]: Commencement: Reg. 209 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-daff9fb1a21bee0c9890fd2d524b0fb9]: Commencement: Reg. 209 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

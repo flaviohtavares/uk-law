@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51A. Interpretation of rule 51[^key-fa16c99bcaf1aa2f04752ff23cb9b22f][^key-cbe3af9050ab43c4c888db9dc2e0012c]
+## 51A. Interpretation of rule 51[^c-fa16c99bcaf1aa2f04752ff23cb9b22f][^c-cbe3af9050ab43c4c888db9dc2e0012c]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fa16c99bcaf1aa2f04752ff23cb9b22f]: Textual amendment: Rule 51A inserted (1.8.2000) by [The Prison (Amendment) Rules 2000 (S.I. 2000/1794)](https://www.legislation.gov.uk/uksi/2000/1794), [rule 1](https://www.legislation.gov.uk/uksi/2000/1794/rule/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2000/1794/schedule/paragraph/4)
+[^c-fa16c99bcaf1aa2f04752ff23cb9b22f]: Textual amendment: Rule 51A inserted (1.8.2000) by [The Prison (Amendment) Rules 2000 (S.I. 2000/1794)](https://www.legislation.gov.uk/uksi/2000/1794), [rule 1](https://www.legislation.gov.uk/uksi/2000/1794/rule/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2000/1794/schedule/paragraph/4)
 
-[^key-cbe3af9050ab43c4c888db9dc2e0012c]: Textual amendment: [Rule 51A(2)](https://www.legislation.gov.uk/uksi/1999/728/article/51A/2) substituted (31.5.2024) by [The Prison and Young Offender Institution (Adjudication) (Amendment) Rules 2024 (S.I. 2024/212)](https://www.legislation.gov.uk/uksi/2024/212), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/212/rule/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/212/rule/2/4)
+[^c-cbe3af9050ab43c4c888db9dc2e0012c]: Textual amendment: [Rule 51A(2)](https://www.legislation.gov.uk/uksi/1999/728/article/51A/2) substituted (31.5.2024) by [The Prison and Young Offender Institution (Adjudication) (Amendment) Rules 2024 (S.I. 2024/212)](https://www.legislation.gov.uk/uksi/2024/212), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/212/rule/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/212/rule/2/4)

@@ -24,23 +24,23 @@ Article 2
 
 ### PART 1 — REQUIREMENTS
 
-#### 1. Time limit[^key-d7d8c1e45a268994129b36c37af67c02]
+#### 1. Time limit[^c-d7d8c1e45a268994129b36c37af67c02]
 
 The authorised development must not be commenced after the expiration of five years beginning with the date on which this Order comes into force.
 
-#### 2. Expiry of development consent[^key-bd3e4885907aea72c36dd5deb6eccee2]
+#### 2. Expiry of development consent[^c-bd3e4885907aea72c36dd5deb6eccee2]
 
 (1) The authorised development must cease generating electricity on a commercial basis no later than the 40th anniversary of the first export date.
 
 (2) Confirmation of the first export date must be provided by the undertaker to the local planning authority within one month of its occurrence.
 
-#### 3. Phases of authorised development[^key-25b769c49585e26a163ddccc8a97c462]
+#### 3. Phases of authorised development[^c-25b769c49585e26a163ddccc8a97c462]
 
 (1) The authorised development must not be commenced until a written scheme setting out the phases and sequencing of construction of the authorised development has been submitted to and approved by the local planning authority.
 
 (2) The authorised development must be carried out in accordance with the phasing scheme approved pursuant to sub-paragraph (1).
 
-#### 4. Detailed design approval[^key-f839073b64cecedb328fb6973000d8e2]
+#### 4. Detailed design approval[^c-f839073b64cecedb328fb6973000d8e2]
 
 (1) No phase of the authorised development may be commenced until written details of—
 
@@ -62,7 +62,7 @@ relating to that phase have been submitted to and approved by the local planning
 
 (3) The authorised development must be carried out in accordance with the details approved pursuant to sub-paragraph (1).
 
-#### 5. Battery safety management plan[^key-26b6ca110309447c33b89524095d0732]
+#### 5. Battery safety management plan[^c-26b6ca110309447c33b89524095d0732]
 
 (1) Prior to the commencement of the BESS within Work No. 2, a BSMP must be submitted to and approved by the local planning authority in consultation with the Environment Agency and Kent Fire and Rescue Service.
 
@@ -70,7 +70,7 @@ relating to that phase have been submitted to and approved by the local planning
 
 (3) The BSMP must be implemented as approved and maintained in accordance with the BSMP thereafter.
 
-#### 6. Construction environmental management plan[^key-8ff92af877aa6a18097a7b1491d38a0a]
+#### 6. Construction environmental management plan[^c-8ff92af877aa6a18097a7b1491d38a0a]
 
 (1) No phase of the authorised development may commence until a CEMP for that phase has been submitted to and approved by the local planning authority, such approval to be in consultation with the relevant statutory nature conservation body, Environment Agency and Kent County Council.
 
@@ -78,7 +78,7 @@ relating to that phase have been submitted to and approved by the local planning
 
 (3) All construction works associated with the authorised development in each phase must be carried out in accordance with the approved CEMP for that phase.
 
-#### 7. Construction traffic management plan[^key-9b174dce723e9385423c71fa06d7c03c]
+#### 7. Construction traffic management plan[^c-9b174dce723e9385423c71fa06d7c03c]
 
 (1) No phase of the authorised development may commence until a CTMP for that phase has been submitted to and approved by the local planning authority, such approval to be in consultation with the relevant highway authority.
 
@@ -88,7 +88,7 @@ relating to that phase have been submitted to and approved by the local planning
 
 (4) For the purposes of this requirement, “**relevant highway authority**” means the highway authority for the highways that are the subject of a CTMP submitted pursuant to sub-paragraph (1).
 
-#### 8. Landscape and biodiversity[^key-8af44ac74264f999cb5c5bfda98cee70]
+#### 8. Landscape and biodiversity[^c-8af44ac74264f999cb5c5bfda98cee70]
 
 (1) The authorised development must not commence until a biodiversity design strategy has been submitted to and approved by the local planning authority, such approval to be in consultation with the Environment Agency, Kent County Council and the relevant statutory nature conservation body.
 
@@ -111,7 +111,7 @@ relating to that phase have been submitted to and approved by the local planning
 
 (5) For the purposes of sub-paragraph (2), “**commence**” includes part (b) (site clearance and/or vegetation works) of the site enabling works.
 
-#### 9. Archaeology[^key-f6fb210f905d55153ee3955e31e4faec]
+#### 9. Archaeology[^c-f6fb210f905d55153ee3955e31e4faec]
 
 (1) No phase of the authorised development may commence until the details specified in sub-paragraph (2) for that phase have been submitted to and approved by the local planning authority, such approval to be in consultation with Kent County Council.
 
@@ -125,7 +125,7 @@ relating to that phase have been submitted to and approved by the local planning
 
 (4) Any archaeological works or programme of archaeological investigation for a phase of the authorised development must be carried out in accordance with the details approved pursuant to sub-paragraph (1) for that phase.
 
-#### 10. Public rights of way[^key-138ab1695a1a5c5d18ecf3ba830aead4]
+#### 10. Public rights of way[^c-138ab1695a1a5c5d18ecf3ba830aead4]
 
 (1) No phase of the authorised development incorporating any part of a public right of way which is to be temporarily closed or permanently stopped up pursuant to article 17 (public rights of way – stopping up and vehicular use on public rights of way) may commence until a RoWAS for the phase has been submitted to and approved by the local planning authority, such approval to be in consultation with Kent County Council.
 
@@ -137,7 +137,7 @@ relating to that phase have been submitted to and approved by the local planning
 
 (3) The RoWAS for each phase of the authorised development must be implemented as approved and maintained for that phase.
 
-#### 11. Operational surface water drainage strategy and flood compensation storage[^key-7da453d3edfff2a8c827d802e750ec04]
+#### 11. Operational surface water drainage strategy and flood compensation storage[^c-7da453d3edfff2a8c827d802e750ec04]
 
 (1) No phase of the authorised development may commence until—
 
@@ -152,7 +152,7 @@ relating to that phase have been submitted to and approved by the local planning
 
 (5) The detailed floodplain compensation scheme for each phase of the authorised development must be implemented and maintained as approved.
 
-#### 12. Operational management plan[^key-590fca793441065266d0a6490fccb946]
+#### 12. Operational management plan[^c-590fca793441065266d0a6490fccb946]
 
 (1) Prior to the operation of the authorised development, an OMP must be submitted to and approved by the local planning authority, such approval to be in consultation with the relevant statutory nature conservation body and the Environment Agency.
 
@@ -160,7 +160,7 @@ relating to that phase have been submitted to and approved by the local planning
 
 (3) The OMP must be implemented as approved and maintained throughout the operation of the relevant part of the authorised development to which the OMP relates.
 
-#### 13. Operational noise mitigation and monitoring scheme[^key-481d9c952b6a677d05fc4b3814d7b20c]
+#### 13. Operational noise mitigation and monitoring scheme[^c-481d9c952b6a677d05fc4b3814d7b20c]
 
 (1) Prior to the operation of Work No. 2 or Work No. 3, an ONMMS must be submitted to and approved by the local planning authority.
 
@@ -171,7 +171,7 @@ relating to that phase have been submitted to and approved by the local planning
 
 (3) The ONMMS must be implemented as approved.
 
-#### 14. Decommissioning and site restoration[^key-d9cdb296a4b9c9c9815720927ea5a1e5]
+#### 14. Decommissioning and site restoration[^c-d9cdb296a4b9c9c9815720927ea5a1e5]
 
 (1) Decommissioning works must commence no later than the 40th anniversary of the first export date.
 
@@ -186,11 +186,11 @@ relating to that phase have been submitted to and approved by the local planning
 
 (5) For the purposes of this paragraph, “**relevant highway authority**” means the highway authority for the highways that are the subject of a DTMP submitted pursuant to paragraph 14(2)(b).
 
-#### 15. Requirement for written approval[^key-ad66715def1fc09760b05f4ad2e6f58f]
+#### 15. Requirement for written approval[^c-ad66715def1fc09760b05f4ad2e6f58f]
 
 Where the approval, agreement or confirmation of the Secretary of State, the local planning authority or another person is required under a requirement that approval, agreement or confirmation must be given in writing.
 
-#### 16. Amendments to approved details[^key-1e7eb118ddca5b8ad1f8ba720ad29bbe]
+#### 16. Amendments to approved details[^c-1e7eb118ddca5b8ad1f8ba720ad29bbe]
 
 (1) With respect to the documents certified in accordance with article 41 (certification of plans, etc.) and any plans, details or schemes which have been approved pursuant to any requirement (together the “Approved Documents, Plans, Details or Schemes”), the undertaker may submit to the local planning authority for approval any amendments to any of the Approved Documents, Plans, Details or Schemes and, following approval by the local planning authority, the relevant Approved Documents, Plans, Details or Schemes is to be taken to include the amendments as so approved pursuant to this paragraph.
 
@@ -198,7 +198,7 @@ Where the approval, agreement or confirmation of the Secretary of State, the loc
 
 ### PART 2 — PROCEDURE FOR DISCHARGE OF REQUIREMENTS
 
-#### 17. Applications made under requirements[^key-dd45a46cc63276d9ddc0f482211670c0]
+#### 17. Applications made under requirements[^c-dd45a46cc63276d9ddc0f482211670c0]
 
 (1) Where an application has been made to the local planning authority for any consent, agreement or approval required by a requirement contained in Part 1 of this Schedule, or for any consent, agreement or approval further to any document referred to in any such requirement, the local planning authority must give notice to the undertaker of its decision on the application within a period of eight weeks beginning with—
 
@@ -212,7 +212,7 @@ Where the approval, agreement or confirmation of the Secretary of State, the loc
 
 and where consent, agreement or approval is refused or granted subject to conditions the local planning authority must provide its reasons for that decision with the notice of the decision.
 
-#### 18. Further information regarding requirements[^key-9216bfc128badcca8d87d95ef02c15f9]
+#### 18. Further information regarding requirements[^c-9216bfc128badcca8d87d95ef02c15f9]
 
 (1) In relation to any application referred to in paragraph 17, the local planning authority may request such further information from the undertaker as it considers necessary to enable it to consider the application.
 
@@ -224,7 +224,7 @@ and where consent, agreement or approval is refused or granted subject to condit
 
 (5) Where further information is requested under this paragraph in relation to part only of an application, that part is to be treated as separate from the remainder of the application for the purposes of calculating time periods in paragraphs 17 and 18.
 
-#### 19. Appeals[^key-9a6e8a002319f60b088729c62b43aa7d]
+#### 19. Appeals[^c-9a6e8a002319f60b088729c62b43aa7d]
 
 (1) Where the undertaker makes an application to the local planning authority, the undertaker may appeal to the Secretary of State in the event that—
 
@@ -267,40 +267,40 @@ and where consent, agreement or approval is refused or granted subject to condit
 
 ## Annotations
 
-[^key-d7d8c1e45a268994129b36c37af67c02]: Commencement: Sch. 2 para. 1 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-d7d8c1e45a268994129b36c37af67c02]: Commencement: Sch. 2 para. 1 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-bd3e4885907aea72c36dd5deb6eccee2]: Commencement: Sch. 2 para. 2 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-bd3e4885907aea72c36dd5deb6eccee2]: Commencement: Sch. 2 para. 2 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-25b769c49585e26a163ddccc8a97c462]: Commencement: Sch. 2 para. 3 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-25b769c49585e26a163ddccc8a97c462]: Commencement: Sch. 2 para. 3 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-f839073b64cecedb328fb6973000d8e2]: Commencement: Sch. 2 para. 4 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-f839073b64cecedb328fb6973000d8e2]: Commencement: Sch. 2 para. 4 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-26b6ca110309447c33b89524095d0732]: Commencement: Sch. 2 para. 5 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-26b6ca110309447c33b89524095d0732]: Commencement: Sch. 2 para. 5 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-8ff92af877aa6a18097a7b1491d38a0a]: Commencement: Sch. 2 para. 6 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-8ff92af877aa6a18097a7b1491d38a0a]: Commencement: Sch. 2 para. 6 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-9b174dce723e9385423c71fa06d7c03c]: Commencement: Sch. 2 para. 7 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-9b174dce723e9385423c71fa06d7c03c]: Commencement: Sch. 2 para. 7 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-8af44ac74264f999cb5c5bfda98cee70]: Commencement: Sch. 2 para. 8 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-8af44ac74264f999cb5c5bfda98cee70]: Commencement: Sch. 2 para. 8 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-f6fb210f905d55153ee3955e31e4faec]: Commencement: Sch. 2 para. 9 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-f6fb210f905d55153ee3955e31e4faec]: Commencement: Sch. 2 para. 9 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-138ab1695a1a5c5d18ecf3ba830aead4]: Commencement: Sch. 2 para. 10 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-138ab1695a1a5c5d18ecf3ba830aead4]: Commencement: Sch. 2 para. 10 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-7da453d3edfff2a8c827d802e750ec04]: Commencement: Sch. 2 para. 11 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-7da453d3edfff2a8c827d802e750ec04]: Commencement: Sch. 2 para. 11 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-590fca793441065266d0a6490fccb946]: Commencement: Sch. 2 para. 12 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-590fca793441065266d0a6490fccb946]: Commencement: Sch. 2 para. 12 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-481d9c952b6a677d05fc4b3814d7b20c]: Commencement: Sch. 2 para. 13 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-481d9c952b6a677d05fc4b3814d7b20c]: Commencement: Sch. 2 para. 13 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-d9cdb296a4b9c9c9815720927ea5a1e5]: Commencement: Sch. 2 para. 14 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-d9cdb296a4b9c9c9815720927ea5a1e5]: Commencement: Sch. 2 para. 14 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-ad66715def1fc09760b05f4ad2e6f58f]: Commencement: Sch. 2 para. 15 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-ad66715def1fc09760b05f4ad2e6f58f]: Commencement: Sch. 2 para. 15 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-1e7eb118ddca5b8ad1f8ba720ad29bbe]: Commencement: Sch. 2 para. 16 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-1e7eb118ddca5b8ad1f8ba720ad29bbe]: Commencement: Sch. 2 para. 16 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-dd45a46cc63276d9ddc0f482211670c0]: Commencement: Sch. 2 para. 17 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-dd45a46cc63276d9ddc0f482211670c0]: Commencement: Sch. 2 para. 17 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-9216bfc128badcca8d87d95ef02c15f9]: Commencement: Sch. 2 para. 18 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-9216bfc128badcca8d87d95ef02c15f9]: Commencement: Sch. 2 para. 18 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-9a6e8a002319f60b088729c62b43aa7d]: Commencement: Sch. 2 para. 19 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-9a6e8a002319f60b088729c62b43aa7d]: Commencement: Sch. 2 para. 19 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

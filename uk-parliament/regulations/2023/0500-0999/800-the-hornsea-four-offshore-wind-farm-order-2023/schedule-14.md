@@ -22,7 +22,7 @@ summary: ''
 
 Article 39
 
-### 1. Primary objective[^key-174c4c4a987f8d31b6e5e66dbe69e963]
+### 1. Primary objective[^c-174c4c4a987f8d31b6e5e66dbe69e963]
 
 (1) The primary objective of these Arbitration Rules is to achieve a fair, impartial, final and binding award on the substantive difference between the parties (save as to costs) within 4 months from the date the arbitrator is appointed pursuant to article 39 of the Order.
 
@@ -30,7 +30,7 @@ Article 39
 
 (3) The Arbitration will be deemed to have commenced when a party (“the Claimant”) serves a written notice of arbitration on the other party (“the Respondent”).
 
-### 2. Time periods[^key-3300d72a0bee8aca0963ef23637ab7e6]
+### 2. Time periods[^c-3300d72a0bee8aca0963ef23637ab7e6]
 
 (1) All time periods in these Arbitration Rules are measured in working days and this will exclude weekends, bank holidays and public holidays.
 
@@ -39,7 +39,7 @@ Article 39
 - (a) the date the arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-6707326868a16834e4675ca260cc87d7]
+### 3. Timetable[^c-6707326868a16834e4675ca260cc87d7]
 
 (1) The timetable for the arbitration is set out in sub-paragraphs (2) to (4) below unless amended in accordance with paragraph 5(3).
 
@@ -54,7 +54,7 @@ Article 39
 - (b) all statements of evidence and copies of all documents on which it relies, including contractual documentation, correspondence (including electronic documents), legal precedents and expert witness reports; and
 - (c) any objections it wishes to make to the Claimant’s statements, comments on the Claimant’s expert report(s) (if submitted by the Claimant) and explanations for the objections.
 
-(4) Within 5 days of the Respondent serving its statements under[^key-df61fdc6f75231a13c1286ec83331f19] sub-paragraph (3), the Claimant may make a Statement of Reply by providing both the Respondent and the arbitrator with—
+(4) Within 5 days of the Respondent serving its statements under[^c-df61fdc6f75231a13c1286ec83331f19] sub-paragraph (3), the Claimant may make a Statement of Reply by providing both the Respondent and the arbitrator with—
 
 - (a) a written statement responding to the Respondent’s submissions, including its reply in respect of the nature of the difference, the issues (both factual and legal) and its contentions in relation to the issues;
 - (b) all statements of evidence and copies of documents in response to the Respondent’s submissions;
@@ -62,7 +62,7 @@ Article 39
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the Respondent; and
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-6b58d66fdea5a9320560fdb34923c98e]
+### 4. Procedure[^c-6b58d66fdea5a9320560fdb34923c98e]
 
 (1) The arbitrator must make an award on the substantive difference(s) based solely on the written material submitted by the parties unless the arbitrator decides that a hearing is necessary to explain or resolve any matters.
 
@@ -88,7 +88,7 @@ Article 39
 
 (10) The arbitrator’s award must include reasons. The parties must accept that the extent to which reasons are given will be proportionate to the issues in dispute and the time available to the arbitrator to deliver the award.
 
-### 5. Arbitrator’s powers[^key-0a21994d00c7c4162fcd87291cc342fa]
+### 5. Arbitrator’s powers[^c-0a21994d00c7c4162fcd87291cc342fa]
 
 (1) The arbitrator has all the powers of the Arbitration Act 1996[^f00070], including the non-mandatory sections, save where modified by these Arbitration Rules.
 
@@ -101,7 +101,7 @@ Article 39
 
 (4) On the date the award is made, the arbitrator will notify the parties that the award is completed, signed and dated, and that it is to be issued to the parties on receipt of cleared funds for the arbitrator’s fees and expenses.
 
-### 6. Costs[^key-7a617cc254b4e4246c3e2e747f86e2d8]
+### 6. Costs[^c-7a617cc254b4e4246c3e2e747f86e2d8]
 
 (1) The costs of the Arbitration must include the fees and expenses of the arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the Arbitration.
 
@@ -109,7 +109,7 @@ Article 39
 
 (3) The arbitrator may depart from the general principle in sub-paragraph (2) and make such other costs award as it considers reasonable where a party has behaved unreasonably as set out in the Planning Practice Guidance or such other guidance as may replace it.
 
-### 7. Confidentiality[^key-40def2bcf04c626f6a14bc293dd72930]
+### 7. Confidentiality[^c-40def2bcf04c626f6a14bc293dd72930]
 
 (1) Subject to sub-paragraphs (2) and (3), any arbitration hearing and documentation shall be open to and accessible by the public.
 
@@ -119,20 +119,20 @@ Article 39
 
 ## Annotations
 
-[^key-174c4c4a987f8d31b6e5e66dbe69e963]: Commencement: Sch. 14 para. 1 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-174c4c4a987f8d31b6e5e66dbe69e963]: Commencement: Sch. 14 para. 1 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-3300d72a0bee8aca0963ef23637ab7e6]: Commencement: Sch. 14 para. 2 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-3300d72a0bee8aca0963ef23637ab7e6]: Commencement: Sch. 14 para. 2 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-6707326868a16834e4675ca260cc87d7]: Commencement: Sch. 14 para. 3 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-6707326868a16834e4675ca260cc87d7]: Commencement: Sch. 14 para. 3 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-df61fdc6f75231a13c1286ec83331f19]: Textual amendment: Word in Sch. 14 para. 3(4) inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-df61fdc6f75231a13c1286ec83331f19]: Textual amendment: Word in Sch. 14 para. 3(4) inserted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
 
-[^key-6b58d66fdea5a9320560fdb34923c98e]: Commencement: Sch. 14 para. 4 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-6b58d66fdea5a9320560fdb34923c98e]: Commencement: Sch. 14 para. 4 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-0a21994d00c7c4162fcd87291cc342fa]: Commencement: Sch. 14 para. 5 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-0a21994d00c7c4162fcd87291cc342fa]: Commencement: Sch. 14 para. 5 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
 [^f00070]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23).
 
-[^key-7a617cc254b4e4246c3e2e747f86e2d8]: Commencement: Sch. 14 para. 6 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-7a617cc254b4e4246c3e2e747f86e2d8]: Commencement: Sch. 14 para. 6 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-40def2bcf04c626f6a14bc293dd72930]: Commencement: Sch. 14 para. 7 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-40def2bcf04c626f6a14bc293dd72930]: Commencement: Sch. 14 para. 7 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)

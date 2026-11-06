@@ -25,7 +25,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-dde34de160cc4f9f12929c29a7a548f2]Council Regulation (EC) No 1905/2005
+[^c-dde34de160cc4f9f12929c29a7a548f2]Council Regulation (EC) No 1905/2005
 
 of 14 November 2005
 
@@ -407,7 +407,7 @@ T. Jowell
 
 ## Annotations
 
-[^key-dde34de160cc4f9f12929c29a7a548f2]: Textual amendment: Regulation revoked in part (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(i)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/i) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dde34de160cc4f9f12929c29a7a548f2]: Textual amendment: Regulation revoked in part (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(i)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/i) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00001]: Footnote: [OJ L 35, 15.2.1995, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1995.035.01.0001.01.ENG). Regulation as last amended by Commission Regulation (EC) No 494/2003 ([OJ L 73, 19.3.2003, p. 6](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.073.01.0006.01.ENG)).
 

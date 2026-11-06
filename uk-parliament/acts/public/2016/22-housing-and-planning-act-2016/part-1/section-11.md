@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Exemption from duty[^key-de2c7914aea5c21059f078129eba4b87]
+## 11. Exemption from duty[^c-de2c7914aea5c21059f078129eba4b87]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ After section 2A of the Self-build and Custom Housebuilding Act 2015 (inserted b
 
 ## Annotations
 
-[^key-de2c7914aea5c21059f078129eba4b87]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/22/section/11) in force at 31.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 5](https://www.legislation.gov.uk/uksi/2016/733/regulation/5)
+[^c-de2c7914aea5c21059f078129eba4b87]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2016/22/section/11) in force at 31.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 5](https://www.legislation.gov.uk/uksi/2016/733/regulation/5)

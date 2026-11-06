@@ -56,7 +56,7 @@ Section 170.
 >
 > then, in determining the amount of interest (if any) payable under this section on the repayment of corporation tax for the earlier period, no account shall be taken of any increase in the amount of the repayment resulting from the claim under subsection (5) or (6) (as the case may be) of that section except so far as concerns interest for any time after the date on which any corporation tax for the later period became (or, as the case may be, would have become) due and payable, as mentioned in subsection (2) above.
 
-**6.**[^key-db16281c4393292c745d1cc2f240bd21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-db16281c4393292c745d1cc2f240bd21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Finance Act 1989 (c. 26)
 
@@ -68,6 +68,6 @@ Section 170.
 
 [^c15157511]: Textual amendment: Sch. 18 para. 3 repealed (29.4.1996 coming into force in accordance with the provisions of Chapter II of Part IV of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. V(3)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/3)
 
-[^key-db16281c4393292c745d1cc2f240bd21]: Textual amendment: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/1993/34/schedule/18/paragraph/6) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-db16281c4393292c745d1cc2f240bd21]: Textual amendment: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/1993/34/schedule/18/paragraph/6) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
 [^c15157521]: Textual amendment: Sch. 18 para. 7 repealed (29.4.1996 coming into force in accordance with the provisions of Chapter II of Part IV of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. V(3)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/3)

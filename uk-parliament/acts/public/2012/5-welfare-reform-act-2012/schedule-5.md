@@ -24,7 +24,7 @@ Section 35
 
 ### General
 
-**1.**[^key-82bf59974404bf782a122e3e30509553] (1) In this Schedule “relevant benefit“ means—
+**1.**[^c-82bf59974404bf782a122e3e30509553] (1) In this Schedule “relevant benefit“ means—
 
 - (a) jobseeker's allowance, or
 - (b) employment and support allowance.
@@ -43,7 +43,7 @@ Section 35
 
 ### Dual entitlement
 
-**2.**[^key-c0b3e780bc10567354c76ec05baac09a] (1) Regulations may make provision as to the amount payable by way of a relevant benefit where a person is entitled to that benefit and universal credit.
+**2.**[^c-c0b3e780bc10567354c76ec05baac09a] (1) Regulations may make provision as to the amount payable by way of a relevant benefit where a person is entitled to that benefit and universal credit.
 
 (2) Regulations under sub-paragraph (1) may in particular provide for no amount to be payable by way of a relevant benefit.
 
@@ -64,7 +64,7 @@ Section 35
 
 ### Movement between working-age benefits
 
-**3.**[^key-3fcef1c14344fb32fa2cd9f457e08c8e] Regulations may provide—
+**3.**[^c-3fcef1c14344fb32fa2cd9f457e08c8e] Regulations may provide—
 
 - (a) in a case where a person ceases to be entitled to universal credit and becomes entitled to a relevant benefit, for a sanction relating to the award of universal credit to be applied to the award of the relevant benefit;
 - (b) in a case where a person ceases to be entitled to a relevant benefit and becomes entitled to universal credit, for a sanction relating to the award of the relevant benefit to be applied to the award of universal credit;
@@ -105,8 +105,8 @@ Section 35
 
 ## Annotations
 
-[^key-82bf59974404bf782a122e3e30509553]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/5/paragraph/1) in force at 29.4.2013 by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2013/983/article/3/1/c)
+[^c-82bf59974404bf782a122e3e30509553]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/5/paragraph/1) in force at 29.4.2013 by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2013/983/article/3/1/c)
 
-[^key-c0b3e780bc10567354c76ec05baac09a]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2012/5/schedule/5/paragraph/2) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/41)
+[^c-c0b3e780bc10567354c76ec05baac09a]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2012/5/schedule/5/paragraph/2) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/41)
 
-[^key-3fcef1c14344fb32fa2cd9f457e08c8e]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2012/5/schedule/5/paragraph/3) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/41)
+[^c-3fcef1c14344fb32fa2cd9f457e08c8e]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2012/5/schedule/5/paragraph/3) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/41)

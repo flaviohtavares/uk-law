@@ -56,7 +56,7 @@ In these Regulations—
 - “**the Act**” (“***y Ddeddf***”) means the Regulation and Inspection of Social Care (Wales) Act 2016;
 - “**annual return**” (“***datganiad blynyddol***”) means the annual return which a service provider must submit to the Welsh Ministers in accordance with section 10(1) of the Act.
 
-## 2A. Application of these Regulations to annual returns for specified financial years[^key-a72d9366b7757ade6acd5b8682da1cde]
+## 2A. Application of these Regulations to annual returns for specified financial years[^c-a72d9366b7757ade6acd5b8682da1cde]
 
 The following provisions of these Regulations do not apply to annual returns submitted for any of the financial years specified in regulation 10(1)—
 
@@ -73,13 +73,13 @@ An annual return must contain a description of the arrangements in place for the
 
 ## 5. Other information
 
-An annual return which is submitted by a service provider who is registered to provide a care home service, a secure accommodation service , special school residential service[^key-06158f9029c46b0086ca13f20ea05583] or a residential family centre service must contain the additional information specified in the Schedule in relation to each of the places at which the service is provided.
+An annual return which is submitted by a service provider who is registered to provide a care home service, a secure accommodation service , special school residential service[^c-06158f9029c46b0086ca13f20ea05583] or a residential family centre service must contain the additional information specified in the Schedule in relation to each of the places at which the service is provided.
 
 ## 6.
 
-An annual return which is submitted by a service provider who is registered to provide a domiciliary support service , an adoption service, a fostering service, an adult placement service or an advocacy service[^key-28cb894480a7b2821c08edc933118c8c] must contain the additional information specified in the Schedule in relation to each of the places in relation to which the service is provided.
+An annual return which is submitted by a service provider who is registered to provide a domiciliary support service , an adoption service, a fostering service, an adult placement service or an advocacy service[^c-28cb894480a7b2821c08edc933118c8c] must contain the additional information specified in the Schedule in relation to each of the places in relation to which the service is provided.
 
-**6A.**[^key-c3e636600dbc49409cccdd8e18c013d1] (1) An annual return which is submitted by a service provider, other than a local authority, that provides a restricted children’s service, must contain a statement that the service provider continues to meet the requirement in section 6A(1) of the Act.
+**6A.**[^c-c3e636600dbc49409cccdd8e18c013d1] (1) An annual return which is submitted by a service provider, other than a local authority, that provides a restricted children’s service, must contain a statement that the service provider continues to meet the requirement in section 6A(1) of the Act.
 
 (2) Paragraph (1) does not apply to a service provider to which section 6A of the Act does not apply by virtue of paragraph 2(4) of Schedule 1A to the Act.
 
@@ -97,17 +97,17 @@ An annual return must contain a signed declaration by each responsible individua
 
 An annual return must be in the form of an on-line return which is accessed from the pages of the website maintained by the Welsh Government which have been established for the purpose of informing service providers of the requirements for the preparation and submission of annual returns.
 
-## 9A. Time for submission of first annual returns[^key-b78ddf63eb4ac8cc4dbdfab3c4007ddf]
+## 9A. Time for submission of first annual returns[^c-b78ddf63eb4ac8cc4dbdfab3c4007ddf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Time limits for submission and publication of annual returns[^key-62ae0684156e67747ceaf0fa5e29d57c][^key-cde9092857d4ce77ff18dc5ddad893b9][^key-158bb1bc2f316e7c42370adacf84063f]
+## 10. Time limits for submission and publication of annual returns[^c-62ae0684156e67747ceaf0fa5e29d57c][^c-cde9092857d4ce77ff18dc5ddad893b9][^c-158bb1bc2f316e7c42370adacf84063f]
 
-(1) An annual return relating to any of the financial years 2018-19, 2019-2020, 2020-2021 or 2021-2022[^key-9d6587f67ab6afccbd1d9c9156be76c2] must be submitted to the Welsh Ministers no later than 31 October 2022[^key-60c22839983cf7132e12c2aafcd411e3].
+(1) An annual return relating to any of the financial years 2018-19, 2019-2020, 2020-2021 or 2021-2022[^c-9d6587f67ab6afccbd1d9c9156be76c2] must be submitted to the Welsh Ministers no later than 31 October 2022[^c-60c22839983cf7132e12c2aafcd411e3].
 
 (2) An annual return relating to a subsequent financial year must be submitted to the Welsh Ministers within 56 days of the end of the financial year to which it relates.
 
-(3)[^key-9c0f423b0fd09cd04f2fb8adbef2f35a] An annual return must be published on the service provider’s website no later than 91 days following the end of the financial year to which it relates.
+(3)[^c-9c0f423b0fd09cd04f2fb8adbef2f35a] An annual return must be published on the service provider’s website no later than 91 days following the end of the financial year to which it relates.
 
 Huw Irranca-Davies
 
@@ -119,7 +119,7 @@ Regulations 5 and 6
 
 ### 1. General information
 
-Contact details [^key-be1d43c47c459f4e41d33ea791344d72]... including electronic mail address and telephone number.[^key-44f4c0592230608312b5a7b6fa2fe90c]
+Contact details [^c-be1d43c47c459f4e41d33ea791344d72]... including electronic mail address and telephone number.[^c-44f4c0592230608312b5a7b6fa2fe90c]
 
 ### 2. Information about the responsible individual
 
@@ -142,9 +142,9 @@ The name of the manager.
 - (g) other social care staff providing direct care;
 - (h) domestic staff;
 - (i) catering staff;
-- (j) other types of staff not listed above ;[^key-6e1f223e579940358031356671a39222]
+- (j) other types of staff not listed above ;[^c-6e1f223e579940358031356671a39222]
 
-but sub-paragraphs (d), (e), (h), and (i) do not apply if a service provider is registered only to provide an adoption service, a fostering service, an adult placement service or an advocacy service.[^key-891a60a3bf02066e9652a1ff20dfc581]
+but sub-paragraphs (d), (e), (h), and (i) do not apply if a service provider is registered only to provide an adoption service, a fostering service, an adult placement service or an advocacy service.[^c-891a60a3bf02066e9652a1ff20dfc581]
 
 **6.** If the number of staff employed includes staff of a type not listed in paragraph 5(a) to (i), details of the type or types of such staff.
 
@@ -206,32 +206,32 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23310881]: Marginal citation: [2016 anaw 2](https://www.legislation.gov.uk/anaw/2016/2).
 
-[^key-a72d9366b7757ade6acd5b8682da1cde]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/wsi/2017/1097/regulation/2A) inserted (16.4.2021) by [The Regulated Services (Annual Returns) (Wales) (Amendment) (Coronavirus) Regulations 2021 (S.I. 2021/395)](https://www.legislation.gov.uk/wsi/2021/395), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/395/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2021/395/regulation/3)
+[^c-a72d9366b7757ade6acd5b8682da1cde]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/wsi/2017/1097/regulation/2A) inserted (16.4.2021) by [The Regulated Services (Annual Returns) (Wales) (Amendment) (Coronavirus) Regulations 2021 (S.I. 2021/395)](https://www.legislation.gov.uk/wsi/2021/395), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/395/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2021/395/regulation/3)
 
-[^key-06158f9029c46b0086ca13f20ea05583]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/wsi/2017/1097/regulation/5) inserted (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [81](https://www.legislation.gov.uk/wsi/2024/388/regulation/81)
+[^c-06158f9029c46b0086ca13f20ea05583]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/wsi/2017/1097/regulation/5) inserted (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [81](https://www.legislation.gov.uk/wsi/2024/388/regulation/81)
 
-[^key-28cb894480a7b2821c08edc933118c8c]: Textual amendment: Words in reg. 6 inserted (29.4.2019) by [The Regulated Services (Annual Returns and Registration) (Wales) (Amendment) Regulations 2019 (S.I. 2019/233)](https://www.legislation.gov.uk/wsi/2019/233), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/233/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/233/regulation/3)
+[^c-28cb894480a7b2821c08edc933118c8c]: Textual amendment: Words in reg. 6 inserted (29.4.2019) by [The Regulated Services (Annual Returns and Registration) (Wales) (Amendment) Regulations 2019 (S.I. 2019/233)](https://www.legislation.gov.uk/wsi/2019/233), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/233/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2019/233/regulation/3)
 
-[^key-c3e636600dbc49409cccdd8e18c013d1]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/wsi/2017/1097/regulation/6A) inserted (1.4.2026) by [The Annual Returns (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/74)](https://www.legislation.gov.uk/wsi/2026/74), [regs. 1](https://www.legislation.gov.uk/wsi/2026/74/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2026/74/regulation/2/2)
+[^c-c3e636600dbc49409cccdd8e18c013d1]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/wsi/2017/1097/regulation/6A) inserted (1.4.2026) by [The Annual Returns (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/74)](https://www.legislation.gov.uk/wsi/2026/74), [regs. 1](https://www.legislation.gov.uk/wsi/2026/74/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2026/74/regulation/2/2)
 
-[^key-b78ddf63eb4ac8cc4dbdfab3c4007ddf]: Textual amendment: Reg. 9A omitted (26.5.2020) by virtue of [The Regulated Services (Annual Returns) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/486)](https://www.legislation.gov.uk/wsi/2020/486), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/486/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2020/486/regulation/3)
+[^c-b78ddf63eb4ac8cc4dbdfab3c4007ddf]: Textual amendment: Reg. 9A omitted (26.5.2020) by virtue of [The Regulated Services (Annual Returns) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/486)](https://www.legislation.gov.uk/wsi/2020/486), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/486/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2020/486/regulation/3)
 
-[^key-62ae0684156e67747ceaf0fa5e29d57c]: Textual amendment: Reg. 10 substituted (26.5.2020) by [The Regulated Services (Annual Returns) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/486)](https://www.legislation.gov.uk/wsi/2020/486), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/486/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2020/486/regulation/4)
+[^c-62ae0684156e67747ceaf0fa5e29d57c]: Textual amendment: Reg. 10 substituted (26.5.2020) by [The Regulated Services (Annual Returns) (Wales) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/486)](https://www.legislation.gov.uk/wsi/2020/486), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/486/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2020/486/regulation/4)
 
-[^key-cde9092857d4ce77ff18dc5ddad893b9]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/wsi/2017/1097/regulation/10) heading substituted (1.4.2026) by [The Annual Returns (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/74)](https://www.legislation.gov.uk/wsi/2026/74), [regs. 1](https://www.legislation.gov.uk/wsi/2026/74/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/wsi/2026/74/regulation/2/3/a/i)
+[^c-cde9092857d4ce77ff18dc5ddad893b9]: Textual amendment: Word in [reg. 10](https://www.legislation.gov.uk/wsi/2017/1097/regulation/10) heading substituted (1.4.2026) by [The Annual Returns (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/74)](https://www.legislation.gov.uk/wsi/2026/74), [regs. 1](https://www.legislation.gov.uk/wsi/2026/74/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/wsi/2026/74/regulation/2/3/a/i)
 
-[^key-158bb1bc2f316e7c42370adacf84063f]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/wsi/2017/1097/regulation/10) heading inserted (1.4.2026) by [The Annual Returns (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/74)](https://www.legislation.gov.uk/wsi/2026/74), [regs. 1](https://www.legislation.gov.uk/wsi/2026/74/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2026/74/regulation/2/3/a/ii)
+[^c-158bb1bc2f316e7c42370adacf84063f]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/wsi/2017/1097/regulation/10) heading inserted (1.4.2026) by [The Annual Returns (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/74)](https://www.legislation.gov.uk/wsi/2026/74), [regs. 1](https://www.legislation.gov.uk/wsi/2026/74/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2026/74/regulation/2/3/a/ii)
 
-[^key-9d6587f67ab6afccbd1d9c9156be76c2]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2017/1097/regulation/10/1) substituted (20.5.2022) by [The Regulated Services (Annual Returns) (Wales) (Amendment) (Coronavirus) Regulations 2022 (S.I. 2022/476)](https://www.legislation.gov.uk/wsi/2022/476), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/476/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2022/476/regulation/3/a)
+[^c-9d6587f67ab6afccbd1d9c9156be76c2]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2017/1097/regulation/10/1) substituted (20.5.2022) by [The Regulated Services (Annual Returns) (Wales) (Amendment) (Coronavirus) Regulations 2022 (S.I. 2022/476)](https://www.legislation.gov.uk/wsi/2022/476), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/476/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2022/476/regulation/3/a)
 
-[^key-60c22839983cf7132e12c2aafcd411e3]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2017/1097/regulation/10/1) substituted (20.5.2022) by [The Regulated Services (Annual Returns) (Wales) (Amendment) (Coronavirus) Regulations 2022 (S.I. 2022/476)](https://www.legislation.gov.uk/wsi/2022/476), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/476/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2022/476/regulation/3/b)
+[^c-60c22839983cf7132e12c2aafcd411e3]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/wsi/2017/1097/regulation/10/1) substituted (20.5.2022) by [The Regulated Services (Annual Returns) (Wales) (Amendment) (Coronavirus) Regulations 2022 (S.I. 2022/476)](https://www.legislation.gov.uk/wsi/2022/476), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/476/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2022/476/regulation/3/b)
 
-[^key-9c0f423b0fd09cd04f2fb8adbef2f35a]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/wsi/2017/1097/regulation/10/3) inserted (1.4.2026) by [The Annual Returns (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/74)](https://www.legislation.gov.uk/wsi/2026/74), [regs. 1](https://www.legislation.gov.uk/wsi/2026/74/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/wsi/2026/74/regulation/2/3/b)
+[^c-9c0f423b0fd09cd04f2fb8adbef2f35a]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/wsi/2017/1097/regulation/10/3) inserted (1.4.2026) by [The Annual Returns (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/74)](https://www.legislation.gov.uk/wsi/2026/74), [regs. 1](https://www.legislation.gov.uk/wsi/2026/74/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/wsi/2026/74/regulation/2/3/b)
 
-[^key-be1d43c47c459f4e41d33ea791344d72]: Textual amendment: Sch. para. 1 full stop omitted (31.12.2023) by virtue of [The Register of Service Providers (Prescribed Information and Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1325)](https://www.legislation.gov.uk/wsi/2023/1325), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1325/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2023/1325/regulation/6)
+[^c-be1d43c47c459f4e41d33ea791344d72]: Textual amendment: Sch. para. 1 full stop omitted (31.12.2023) by virtue of [The Register of Service Providers (Prescribed Information and Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1325)](https://www.legislation.gov.uk/wsi/2023/1325), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1325/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2023/1325/regulation/6)
 
-[^key-44f4c0592230608312b5a7b6fa2fe90c]: Textual amendment: Words in Sch. para. 1 inserted (31.12.2023) by [The Register of Service Providers (Prescribed Information and Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1325)](https://www.legislation.gov.uk/wsi/2023/1325), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1325/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2023/1325/regulation/6)
+[^c-44f4c0592230608312b5a7b6fa2fe90c]: Textual amendment: Words in Sch. para. 1 inserted (31.12.2023) by [The Register of Service Providers (Prescribed Information and Miscellaneous Amendments) (Wales) Regulations 2023 (S.I. 2023/1325)](https://www.legislation.gov.uk/wsi/2023/1325), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1325/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2023/1325/regulation/6)
 
-[^key-6e1f223e579940358031356671a39222]: Textual amendment: Semicolon in Sch. para. 5(j) substituted for full stop (29.4.2019) by [The Regulated Services (Annual Returns and Registration) (Wales) (Amendment) Regulations 2019 (S.I. 2019/233)](https://www.legislation.gov.uk/wsi/2019/233), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/233/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2019/233/regulation/5/a)
+[^c-6e1f223e579940358031356671a39222]: Textual amendment: Semicolon in Sch. para. 5(j) substituted for full stop (29.4.2019) by [The Regulated Services (Annual Returns and Registration) (Wales) (Amendment) Regulations 2019 (S.I. 2019/233)](https://www.legislation.gov.uk/wsi/2019/233), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/233/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2019/233/regulation/5/a)
 
-[^key-891a60a3bf02066e9652a1ff20dfc581]: Textual amendment: Words in Sch. para. 5 inserted (29.4.2019) by [The Regulated Services (Annual Returns and Registration) (Wales) (Amendment) Regulations 2019 (S.I. 2019/233)](https://www.legislation.gov.uk/wsi/2019/233), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/233/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2019/233/regulation/5/b)
+[^c-891a60a3bf02066e9652a1ff20dfc581]: Textual amendment: Words in Sch. para. 5 inserted (29.4.2019) by [The Regulated Services (Annual Returns and Registration) (Wales) (Amendment) Regulations 2019 (S.I. 2019/233)](https://www.legislation.gov.uk/wsi/2019/233), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/233/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2019/233/regulation/5/b)

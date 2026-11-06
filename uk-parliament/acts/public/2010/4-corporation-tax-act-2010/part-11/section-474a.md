@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 474A. Legacies: corporation tax liability and exemption[^key-f82b46ba1e88a92dc1d685cf163b0ea1]
+## 474A. Legacies: corporation tax liability and exemption[^c-f82b46ba1e88a92dc1d685cf163b0ea1]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f82b46ba1e88a92dc1d685cf163b0ea1]: Textual amendment: [S. 474A](https://www.legislation.gov.uk/ukpga/2010/4/section/474A) inserted (with effect in accordance with s. 54(10) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 54(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/8)[(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/10)
+[^c-f82b46ba1e88a92dc1d685cf163b0ea1]: Textual amendment: [S. 474A](https://www.legislation.gov.uk/ukpga/2010/4/section/474A) inserted (with effect in accordance with s. 54(10) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 54(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/8)[(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/54/10)

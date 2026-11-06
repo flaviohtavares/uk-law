@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 132. President's annual report[^key-859242ad0eb5e2fd8f10fca9ee39df68]
+## 132. President's annual report[^c-859242ad0eb5e2fd8f10fca9ee39df68]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-859242ad0eb5e2fd8f10fca9ee39df68]: Commencement: [S. 132](https://www.legislation.gov.uk/mwa/2011/1/section/132) in force at 30.4.2015 by [S.I. 2015/1217](https://www.legislation.gov.uk/wsi/2015/1217), [art. 2](https://www.legislation.gov.uk/wsi/2015/1217/article/2)
+[^c-859242ad0eb5e2fd8f10fca9ee39df68]: Commencement: [S. 132](https://www.legislation.gov.uk/mwa/2011/1/section/132) in force at 30.4.2015 by [S.I. 2015/1217](https://www.legislation.gov.uk/wsi/2015/1217), [art. 2](https://www.legislation.gov.uk/wsi/2015/1217/article/2)

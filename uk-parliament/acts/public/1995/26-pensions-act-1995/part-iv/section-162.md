@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Annual increase in rate of personal pension.[^key-ebd2078f64f8b3c0e59f4380c49610f0]
+## 162. Annual increase in rate of personal pension.[^c-ebd2078f64f8b3c0e59f4380c49610f0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebd2078f64f8b3c0e59f4380c49610f0]: Textual amendment: [S. 162](https://www.legislation.gov.uk/ukpga/1995/26/section/162) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b), [6(3)](https://www.legislation.gov.uk/uksi/2011/1730/article/6/3)
+[^c-ebd2078f64f8b3c0e59f4380c49610f0]: Textual amendment: [S. 162](https://www.legislation.gov.uk/ukpga/1995/26/section/162) omitted (6.4.2012) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b), [6(3)](https://www.legislation.gov.uk/uksi/2011/1730/article/6/3)

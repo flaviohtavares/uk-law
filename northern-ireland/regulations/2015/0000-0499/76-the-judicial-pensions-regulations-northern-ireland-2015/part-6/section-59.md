@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Full retirement pension ceases to be payable[^key-3887db2eec6248408f7fc110bf2705ac]
+## 59. Full retirement pension ceases to be payable[^c-3887db2eec6248408f7fc110bf2705ac]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3887db2eec6248408f7fc110bf2705ac]: Textual amendment: [Reg. 59](https://www.legislation.gov.uk/nisr/2015/76/regulation/59) omitted (1.4.2022) by virtue of [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/73)](https://www.legislation.gov.uk/nisr/2022/73), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/73/regulation/1/2), [3(6)](https://www.legislation.gov.uk/nisr/2022/73/regulation/3/6)
+[^c-3887db2eec6248408f7fc110bf2705ac]: Textual amendment: [Reg. 59](https://www.legislation.gov.uk/nisr/2015/76/regulation/59) omitted (1.4.2022) by virtue of [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/73)](https://www.legislation.gov.uk/nisr/2022/73), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/73/regulation/1/2), [3(6)](https://www.legislation.gov.uk/nisr/2022/73/regulation/3/6)

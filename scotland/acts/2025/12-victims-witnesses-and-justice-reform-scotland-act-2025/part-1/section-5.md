@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Advisory group[^key-3c7a18a150834e6152ff64d8def5c050]
+## 5. Advisory group[^c-3c7a18a150834e6152ff64d8def5c050]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c7a18a150834e6152ff64d8def5c050]: Commencement: S. 5 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-3c7a18a150834e6152ff64d8def5c050]: Commencement: S. 5 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

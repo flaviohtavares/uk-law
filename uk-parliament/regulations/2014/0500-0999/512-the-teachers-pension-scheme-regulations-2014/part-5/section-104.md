@@ -28,7 +28,7 @@ summary: ''
 - (d) P has applied under regulation 162 for the payment of an early retirement pension; and
 - (e) P has not applied under that regulation for payment of any other retirement pension.
 
-(1A)[^key-c961dd566e3be0c663ce315e08ad1e7c] P is not entitled to payment of an early retirement pension from the entitlement day if—
+(1A)[^c-c961dd566e3be0c663ce315e08ad1e7c] P is not entitled to payment of an early retirement pension from the entitlement day if—
 
 - (a) P has applied under regulation 162 for payment of an early retirement pension;
 - (b) P’s application is made in accordance with regulation 103(2) or (4)(b); and
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c961dd566e3be0c663ce315e08ad1e7c]: Textual amendment: [Reg. 104(1A)](https://www.legislation.gov.uk/uksi/2014/512/regulation/104/1A) inserted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [14](https://www.legislation.gov.uk/uksi/2017/1084/regulation/14)
+[^c-c961dd566e3be0c663ce315e08ad1e7c]: Textual amendment: [Reg. 104(1A)](https://www.legislation.gov.uk/uksi/2014/512/regulation/104/1A) inserted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [14](https://www.legislation.gov.uk/uksi/2017/1084/regulation/14)

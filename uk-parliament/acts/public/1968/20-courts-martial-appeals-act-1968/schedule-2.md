@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Procedural and other Modifications for Capital Cases[^key-8b9ea4ae463ff8b953be67477d948e30]
+## SCHEDULE 2 — Procedural and other Modifications for Capital Cases[^c-8b9ea4ae463ff8b953be67477d948e30]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,24 +24,24 @@ summary: ''
 
 Section 55.
 
-### Modifications of Part II[^key-8b9ea4ae463ff8b953be67477d948e30]
+### Modifications of Part II[^c-8b9ea4ae463ff8b953be67477d948e30]
 
-**1.**[^key-8b9ea4ae463ff8b953be67477d948e30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8b9ea4ae463ff8b953be67477d948e30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8b9ea4ae463ff8b953be67477d948e30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8b9ea4ae463ff8b953be67477d948e30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8b9ea4ae463ff8b953be67477d948e30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8b9ea4ae463ff8b953be67477d948e30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8b9ea4ae463ff8b953be67477d948e30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8b9ea4ae463ff8b953be67477d948e30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8b9ea4ae463ff8b953be67477d948e30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8b9ea4ae463ff8b953be67477d948e30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Modifications of Part III[^key-8b9ea4ae463ff8b953be67477d948e30]
+### Modifications of Part III[^c-8b9ea4ae463ff8b953be67477d948e30]
 
-**6.**[^key-8b9ea4ae463ff8b953be67477d948e30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8b9ea4ae463ff8b953be67477d948e30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-8b9ea4ae463ff8b953be67477d948e30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8b9ea4ae463ff8b953be67477d948e30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8b9ea4ae463ff8b953be67477d948e30]: Textual amendment: Sch. 2 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 131(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/131/b), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-8b9ea4ae463ff8b953be67477d948e30]: Textual amendment: Sch. 2 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 131(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/131/b), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)

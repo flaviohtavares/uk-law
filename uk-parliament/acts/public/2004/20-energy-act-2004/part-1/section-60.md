@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Charges[^key-e218df2894b2d81f47fc348cda5e321c]
+## 60. Charges[^c-e218df2894b2d81f47fc348cda5e321c]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ in respect of services provided by the Constabulary to such persons as he may de
 
 ## Annotations
 
-[^key-e218df2894b2d81f47fc348cda5e321c]: Commencement: S. 60 in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-e218df2894b2d81f47fc348cda5e321c]: Commencement: S. 60 in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)

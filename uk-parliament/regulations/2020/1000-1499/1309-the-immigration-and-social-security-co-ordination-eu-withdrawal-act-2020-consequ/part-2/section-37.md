@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Amendment of the Immigration (Procedure for Formation of Civil Partnerships) Regulations 2011[^key-ae4bcaa2f1d6e2f8566dde12b70b9286]
+## 37. Amendment of the Immigration (Procedure for Formation of Civil Partnerships) Regulations 2011[^c-ae4bcaa2f1d6e2f8566dde12b70b9286]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae4bcaa2f1d6e2f8566dde12b70b9286]: Commencement: Reg. 37 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
+[^c-ae4bcaa2f1d6e2f8566dde12b70b9286]: Commencement: Reg. 37 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
 
 [^c24398951]: Marginal citation: [S.I. 2011/2679](https://www.legislation.gov.uk/uksi/2011/2679), there are amending instruments, but none are relevant.

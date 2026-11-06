@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.61A. Leave of the sheriff principal to appeal to the Court of Session[^key-39ec891c0b1f9847944955347a31f33d]
+## 3.61A. Leave of the sheriff principal to appeal to the Court of Session[^c-39ec891c0b1f9847944955347a31f33d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39ec891c0b1f9847944955347a31f33d]: Textual amendment: Rule 3.61A omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [8(4)(c)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/8/4/c) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-39ec891c0b1f9847944955347a31f33d]: Textual amendment: Rule 3.61A omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [8(4)(c)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/8/4/c) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))

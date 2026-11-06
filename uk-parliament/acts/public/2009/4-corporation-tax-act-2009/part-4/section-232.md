@@ -36,7 +36,7 @@ A is the unreduced amount of the taxed receipt, and
 
 TRP is the number of days in the receipt period of the taxed receipt.
 
-(4A)[^key-3b24d04f774b0d6b8f3350f71f36b9b6] No expense is to be determined under this section by reference to the taxed receipt if subsection (4B) or (4C) applies.
+(4A)[^c-3b24d04f774b0d6b8f3350f71f36b9b6] No expense is to be determined under this section by reference to the taxed receipt if subsection (4B) or (4C) applies.
 
 (4B) This subsection applies if there would have been no taxed receipt but for the application of Rule 1 in section 243 in determining the effective duration of the lease.
 
@@ -51,4 +51,4 @@ TRP is the number of days in the receipt period of the taxed receipt.
 
 ## Annotations
 
-[^key-3b24d04f774b0d6b8f3350f71f36b9b6]: Textual amendment: S. 232(4A)-(4C) inserted (with effect in accordance with Sch. 28 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 28 para. 7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/28/paragraph/7)
+[^c-3b24d04f774b0d6b8f3350f71f36b9b6]: Textual amendment: S. 232(4A)-(4C) inserted (with effect in accordance with Sch. 28 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 28 para. 7](https://www.legislation.gov.uk/ukpga/2013/29/schedule/28/paragraph/7)

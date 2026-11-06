@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Exemption from liability[^key-e2fbd42fa2e6f1cd029e417313717408]
+## 54. Exemption from liability[^c-e2fbd42fa2e6f1cd029e417313717408]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2fbd42fa2e6f1cd029e417313717408]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2014/12/section/54) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-e2fbd42fa2e6f1cd029e417313717408]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2014/12/section/54) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)

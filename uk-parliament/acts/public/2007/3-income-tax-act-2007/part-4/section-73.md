@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-This section explains how the deductions are made for the 3 tax years mentioned in section 72(2). The amount of the loss to be deducted at any step is limited in accordance with sections 24A and 25(4) and (5)[^key-ac041b029bfa2e3e6cb035ccbd49cc86] .
+This section explains how the deductions are made for the 3 tax years mentioned in section 72(2). The amount of the loss to be deducted at any step is limited in accordance with sections 24A and 25(4) and (5)[^c-ac041b029bfa2e3e6cb035ccbd49cc86] .
 
 *Step 1*
 
@@ -40,4 +40,4 @@ If the loss has not been deducted in full at Steps 1 to 3, the individual may us
 
 ## Annotations
 
-[^key-ac041b029bfa2e3e6cb035ccbd49cc86]: Textual amendment: Words in s. 73 substituted (with effect in accordance with Sch. 3 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 3 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/3/paragraph/2/3/b)
+[^c-ac041b029bfa2e3e6cb035ccbd49cc86]: Textual amendment: Words in s. 73 substituted (with effect in accordance with Sch. 3 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 3 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/3/paragraph/2/3/b)

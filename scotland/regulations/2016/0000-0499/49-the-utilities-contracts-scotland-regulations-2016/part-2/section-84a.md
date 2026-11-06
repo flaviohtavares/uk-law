@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84A. Electronic invoicing[^key-95a5383ec057dcffd6be7ecb76a606b9]
+## 84A. Electronic invoicing[^c-95a5383ec057dcffd6be7ecb76a606b9]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95a5383ec057dcffd6be7ecb76a606b9]: Textual amendment: [Reg. 84A](https://www.legislation.gov.uk/ssi/2016/49/regulation/84A) inserted (18.4.2019 for specified purposes, 18.4.2020 in so far as not already in force) by [The Electronic Invoicing (Public Contracts etc.) Amendment (Scotland) Regulations 2019 (S.S.I. 2019/7)](https://www.legislation.gov.uk/ssi/2019/7), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/7/regulation/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2019/7/regulation/4/2)
+[^c-95a5383ec057dcffd6be7ecb76a606b9]: Textual amendment: [Reg. 84A](https://www.legislation.gov.uk/ssi/2016/49/regulation/84A) inserted (18.4.2019 for specified purposes, 18.4.2020 in so far as not already in force) by [The Electronic Invoicing (Public Contracts etc.) Amendment (Scotland) Regulations 2019 (S.S.I. 2019/7)](https://www.legislation.gov.uk/ssi/2019/7), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/7/regulation/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2019/7/regulation/4/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Powers of entry, inspection and testing[^key-bfdfb2be5d454a891a3b8648d77af56f]
+## 39. Powers of entry, inspection and testing[^c-bfdfb2be5d454a891a3b8648d77af56f]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-bfdfb2be5d454a891a3b8648d77af56f]: Commencement: S. 39 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-bfdfb2be5d454a891a3b8648d77af56f]: Commencement: S. 39 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

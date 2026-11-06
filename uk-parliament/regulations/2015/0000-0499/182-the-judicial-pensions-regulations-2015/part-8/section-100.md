@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Annual rate of surviving adult’s pensions payable on death of active member (death in service)[^key-d3c70777e841f0eedeaeed7e84500613]
+## 100. Annual rate of surviving adult’s pensions payable on death of active member (death in service)[^c-d3c70777e841f0eedeaeed7e84500613]
 
 *Extent: E+W+S+N.I.*
 
 (1) This regulation applies on the death of an active member of this scheme in relation to a continuous period of pensionable service of at least 12 months.
 
-(2) If the member is a transition member with continuity of service, the continuous period of pensionable service mentioned in paragraph (1) includes the member’s period of pensionable service under a relevant[^key-bf6b9633409710d15abd17f3ef5a6038] scheme before the closing date.
+(2) If the member is a transition member with continuity of service, the continuous period of pensionable service mentioned in paragraph (1) includes the member’s period of pensionable service under a relevant[^c-bf6b9633409710d15abd17f3ef5a6038] scheme before the closing date.
 
 (3) The annual rate of a dependant’s earned pension is an amount equal to 37.5% of the amount of full retirement earned pension that would have been specified in the member’s full retirement account under regulation 48(2) had P become entitled to the immediate payment of a full retirement pension on the date of P’s death.
 
@@ -34,7 +34,7 @@ summary: ''
   - (i) the amount of accrued earned pension not attributable to a transfer value payment; and
   - (ii) the enhancement fraction of the amount mentioned in paragraph (i);
 - (b) if the member is a transition member with continuity of service, the accrued earned pension includes an additional amount equal to the lesser of—
-  - (i) the total amount of accrued earned pension under this scheme which is not attributable to a transfer value payment and the equivalent of accrued earned pension earned under a relevant[^key-b2863913d06ffefc4d2d2f70dc96cf51] scheme which is not attributable to a transfer value payment; and
+  - (i) the total amount of accrued earned pension under this scheme which is not attributable to a transfer value payment and the equivalent of accrued earned pension earned under a relevant[^c-b2863913d06ffefc4d2d2f70dc96cf51] scheme which is not attributable to a transfer value payment; and
   - (ii) the enhancement fraction of the amount mentioned in paragraph (a)(i); and
 - (c) the early payment reduction (if any), the commutation amount (if any) and the total allocation amount (if any) are not subtracted.
 
@@ -53,14 +53,14 @@ summary: ''
     - (i) for a member appointed for a fixed term, the day on which that term would have ended; and
     - (ii) for all other appointments, the day before the day on which the member would have reached prospective normal pension age if the member had lived until that age.
 
-(7)[^key-e4a5d74aaa5682170cdfc3441b32892c] In this regulation a reference to “pensionable service” in relation to the Fee-Paid Judges Scheme is a reference to qualifying judicial service.
+(7)[^c-e4a5d74aaa5682170cdfc3441b32892c] In this regulation a reference to “pensionable service” in relation to the Fee-Paid Judges Scheme is a reference to qualifying judicial service.
 
 ## Annotations
 
-[^key-d3c70777e841f0eedeaeed7e84500613]: Commencement: [Reg. 100](https://www.legislation.gov.uk/uksi/2015/182/regulation/100) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-d3c70777e841f0eedeaeed7e84500613]: Commencement: [Reg. 100](https://www.legislation.gov.uk/uksi/2015/182/regulation/100) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
-[^key-bf6b9633409710d15abd17f3ef5a6038]: Textual amendment: Words in [reg. 100(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/100/2) substituted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2017/508/regulation/10/a)
+[^c-bf6b9633409710d15abd17f3ef5a6038]: Textual amendment: Words in [reg. 100(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/100/2) substituted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2017/508/regulation/10/a)
 
-[^key-b2863913d06ffefc4d2d2f70dc96cf51]: Textual amendment: Words in [reg. 100(5)(b)(i)](https://www.legislation.gov.uk/uksi/2015/182/regulation/100/5/b/i) substituted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2017/508/regulation/10/a)
+[^c-b2863913d06ffefc4d2d2f70dc96cf51]: Textual amendment: Words in [reg. 100(5)(b)(i)](https://www.legislation.gov.uk/uksi/2015/182/regulation/100/5/b/i) substituted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2017/508/regulation/10/a)
 
-[^key-e4a5d74aaa5682170cdfc3441b32892c]: Textual amendment: [Reg. 100(7)](https://www.legislation.gov.uk/uksi/2015/182/regulation/100/7) inserted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2017/508/regulation/10/b)
+[^c-e4a5d74aaa5682170cdfc3441b32892c]: Textual amendment: [Reg. 100(7)](https://www.legislation.gov.uk/uksi/2015/182/regulation/100/7) inserted (1.4.2017) by [The Judicial Pensions (Amendment) Regulations 2017 (S.I. 2017/508)](https://www.legislation.gov.uk/uksi/2017/508), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/508/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2017/508/regulation/10/b)

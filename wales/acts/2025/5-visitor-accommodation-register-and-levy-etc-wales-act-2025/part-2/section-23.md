@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Reviews and appeals[^key-74cc56b7a97a202cffae2aa2dceae3ea][^key-be877a1f3669196a18d262cbbf5d0397]
+## 23. Reviews and appeals[^c-74cc56b7a97a202cffae2aa2dceae3ea][^c-be877a1f3669196a18d262cbbf5d0397]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74cc56b7a97a202cffae2aa2dceae3ea]: Commencement: S. 23 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-74cc56b7a97a202cffae2aa2dceae3ea]: Commencement: S. 23 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
 
-[^key-be877a1f3669196a18d262cbbf5d0397]: Commencement: [S. 23](https://www.legislation.gov.uk/asc/2025/5/section/23) in force at 1.10.2026 for specified purposes by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(j)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/j)
+[^c-be877a1f3669196a18d262cbbf5d0397]: Commencement: [S. 23](https://www.legislation.gov.uk/asc/2025/5/section/23) in force at 1.10.2026 for specified purposes by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(j)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/j)

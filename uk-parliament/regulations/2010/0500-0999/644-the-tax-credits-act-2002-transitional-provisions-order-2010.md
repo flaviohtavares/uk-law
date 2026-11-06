@@ -41,11 +41,11 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by section 62(2) of the Tax Credits Act 2002[^f00001].
 
-## 1. Citation and commencement[^key-cf9bb1cd7158b2b7daf7fb2c6ec6a211]
+## 1. Citation and commencement[^c-cf9bb1cd7158b2b7daf7fb2c6ec6a211]
 
 This Order may be cited as the Tax Credits Act 2002 (Transitional Provisions) Order 2010 and shall come into force on 1st April 2010.
 
-## 2. Interpretation[^key-28e7feb86988b7f30120b8df1cb0f789]
+## 2. Interpretation[^c-28e7feb86988b7f30120b8df1cb0f789]
 
 (1) In this Order—
 
@@ -67,7 +67,7 @@ This Order may be cited as the Tax Credits Act 2002 (Transitional Provisions) Or
 - (a) until the specified date was receiving the child premia, and
 - (b) has not made a claim for child tax credit.
 
-## 3. Transitional provisions[^key-690b897e6d3142a0b91be42acad7b690]
+## 3. Transitional provisions[^c-690b897e6d3142a0b91be42acad7b690]
 
 (1) Notwithstanding section 5(2) of the Tax Credits Act 2002, an award on a claim for child tax credit made by a person who until the specified date was receiving the child premia is for the period specified in paragraph (2)
 
@@ -75,10 +75,10 @@ This Order may be cited as the Tax Credits Act 2002 (Transitional Provisions) Or
 
 (3) Notwithstanding regulation 7 of the Tax Credits (Claims and Notifications) Regulations 2002[^f00005], a person shall not be entitled to child tax credit in respect of any day prior to the day on which that person makes a claim for it (“the earlier day”) if—
 
-- (a)[^key-03ecb7ebc2e2f1758d429678ad271a7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-03ecb7ebc2e2f1758d429678ad271a7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the claimant is entitled, or in the case of a joint claim, either of the claimants is entitled, to the child premia on the earlier day.
 
-## 4. Deemed claims for tax credits[^key-ab4c1abfdc7c7613d587cda20786eac7]
+## 4. Deemed claims for tax credits[^c-ab4c1abfdc7c7613d587cda20786eac7]
 
 (1) A claim shall be deemed to be made under section 3(1) of the Tax Credits Act 2002 if Her Majesty’s Revenue and Customs receive a claim for child tax credit from the Department of Work and Pensions or the Department for Social Development and the claim—
 
@@ -96,7 +96,7 @@ This Order may be cited as the Tax Credits Act 2002 (Transitional Provisions) Or
 
 (6) This article is subject to article 3.
 
-## 5. Revocation of previous commencement and transitional provisions orders[^key-053cf8a3f288d9e62620ed81f3c84aa8]
+## 5. Revocation of previous commencement and transitional provisions orders[^c-053cf8a3f288d9e62620ed81f3c84aa8]
 
 The instruments listed in the Table below are revoked to the extent specified in the third column of that Table.
 
@@ -139,9 +139,9 @@ Article 4 applies to a person who ceases to be entitled to the child premia for 
 
 [^f00001]: Footnote: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-cf9bb1cd7158b2b7daf7fb2c6ec6a211]: Commencement: Art. 1 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/644/article/1)
+[^c-cf9bb1cd7158b2b7daf7fb2c6ec6a211]: Commencement: Art. 1 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/644/article/1)
 
-[^key-28e7feb86988b7f30120b8df1cb0f789]: Commencement: Art. 2 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/644/article/1)
+[^c-28e7feb86988b7f30120b8df1cb0f789]: Commencement: Art. 2 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/644/article/1)
 
 [^f00002]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); the relevant amending instrument is [S.I. 1988/1445](https://www.legislation.gov.uk/uksi/1988/1445).
 
@@ -149,14 +149,14 @@ Article 4 applies to a person who ceases to be entitled to the child premia for 
 
 [^f00004]: Footnote: [S.I. 2003/742](https://www.legislation.gov.uk/uksi/2003/742).
 
-[^key-690b897e6d3142a0b91be42acad7b690]: Commencement: Art. 3 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/644/article/1)
+[^c-690b897e6d3142a0b91be42acad7b690]: Commencement: Art. 3 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/644/article/1)
 
 [^f00005]: Footnote: [S.I. 2002/2014](https://www.legislation.gov.uk/uksi/2002/2014); regulation 7 was amended by [S.I. 2003/723](https://www.legislation.gov.uk/uksi/2003/723) and [2009/2887](https://www.legislation.gov.uk/uksi/2009/2887).
 
-[^key-03ecb7ebc2e2f1758d429678ad271a7b]: Textual amendment: [Art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2010/644/article/3/3/a) revoked (14.7.2014) by [The Tax Credits Act 2002 (Commencement and Transitional Provisions)(Partial Revocation) Order 2014 (S.I. 2014/1848)](https://www.legislation.gov.uk/uksi/2014/1848), [art. 3](https://www.legislation.gov.uk/uksi/2014/1848/article/3)
+[^c-03ecb7ebc2e2f1758d429678ad271a7b]: Textual amendment: [Art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2010/644/article/3/3/a) revoked (14.7.2014) by [The Tax Credits Act 2002 (Commencement and Transitional Provisions)(Partial Revocation) Order 2014 (S.I. 2014/1848)](https://www.legislation.gov.uk/uksi/2014/1848), [art. 3](https://www.legislation.gov.uk/uksi/2014/1848/article/3)
 
-[^key-ab4c1abfdc7c7613d587cda20786eac7]: Commencement: Art. 4 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/644/article/1)
+[^c-ab4c1abfdc7c7613d587cda20786eac7]: Commencement: Art. 4 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/644/article/1)
 
 [^f00006]: Footnote: Regulation 5 was amended by [S.I. 2003/723](https://www.legislation.gov.uk/uksi/2003/723), [2008/2169](https://www.legislation.gov.uk/uksi/2008/2169), and [2009/697](https://www.legislation.gov.uk/uksi/2009/697).
 
-[^key-053cf8a3f288d9e62620ed81f3c84aa8]: Commencement: Art. 5 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/644/article/1)
+[^c-053cf8a3f288d9e62620ed81f3c84aa8]: Commencement: Art. 5 in force at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/644/article/1)

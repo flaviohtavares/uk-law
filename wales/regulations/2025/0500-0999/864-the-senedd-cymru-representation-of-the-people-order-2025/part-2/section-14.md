@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Absent voting at Senedd elections: miscellaneous[^key-3622d625e272da51abd88634a65510a6]
+## 14. Absent voting at Senedd elections: miscellaneous[^c-3622d625e272da51abd88634a65510a6]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3622d625e272da51abd88634a65510a6]: Commencement: Art. 14 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-3622d625e272da51abd88634a65510a6]: Commencement: Art. 14 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00036]: Footnote: Section 59 was amended by section 1 of the Representation of the People Act [1993 (c. 29)](https://www.legislation.gov.uk/ukpga/1993/29); section 8 of, and paragraphs 1 and 16 of Schedule 1 to, the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2); and section 13 of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).

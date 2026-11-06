@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Functions of PCSP[^key-27d8bc1b1fb63631c99c3ba56ee6f653]
+## 21. Functions of PCSP[^c-27d8bc1b1fb63631c99c3ba56ee6f653]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27d8bc1b1fb63631c99c3ba56ee6f653]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2011/24/section/21) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-27d8bc1b1fb63631c99c3ba56ee6f653]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2011/24/section/21) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)

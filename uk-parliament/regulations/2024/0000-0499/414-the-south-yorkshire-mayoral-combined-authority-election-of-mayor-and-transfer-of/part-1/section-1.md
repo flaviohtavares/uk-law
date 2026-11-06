@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement and extent[^key-4ba5a6bffa00531119e98d27776f243d]
+## 1. Citation, commencement and extent[^c-4ba5a6bffa00531119e98d27776f243d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ba5a6bffa00531119e98d27776f243d]: Commencement: Art. 1 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
+[^c-4ba5a6bffa00531119e98d27776f243d]: Commencement: Art. 1 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)

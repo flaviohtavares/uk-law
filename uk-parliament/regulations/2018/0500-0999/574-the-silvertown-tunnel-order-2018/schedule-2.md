@@ -95,7 +95,7 @@ during the detailed design of the authorised development and in the manner provi
 
 (3) No part of the authorised development may be commenced until the following plans and strategies, required by the code of construction practice, have been prepared for that part of the authorised development and approved by the relevant planning authority, the Environment Agency or the PLA (as the case may be)—
 
-- (a) Air Quality Management Plan: to be approved by the relevant planning authority [^key-fc8519ef83375cc33faf560a96e6d323]...;
+- (a) Air Quality Management Plan: to be approved by the relevant planning authority [^c-fc8519ef83375cc33faf560a96e6d323]...;
 - (b) Archaeological Written Scheme of Investigation: to be prepared in consultation with Historic England and, in respect of any elements within the river Thames, the PLA and the MMO, and approved by the relevant planning authority;
 - (c) Community Engagement Plan: to be approved by the relevant planning authority;
 - (d) Construction Materials Management Plan incorporating commitments to river transport: to be approved by the relevant planning authority;
@@ -105,7 +105,7 @@ during the detailed design of the authorised development and in the manner provi
 - (h) Groundwater Monitoring and Verification Plan: to be approved by the Environment Agency;
 - (i) Noise and Vibration Management Plan: to be approved by the relevant planning authority;
 - (j) Passage Plan: to be approved by the PLA; and
-- (k) Construction Environmental Management Plan: to be approved by the relevant planning authority in consultation with the PLA[^key-d133979101b8a9c66d69162aabf38340]
+- (k) Construction Environmental Management Plan: to be approved by the relevant planning authority in consultation with the PLA[^c-d133979101b8a9c66d69162aabf38340]
 
 (4) The relevant highway authority for the purposes of sub-paragraph (3)(e) is each highway authority for the highways affected by the Construction Traffic Management Plan.
 
@@ -121,7 +121,7 @@ during the detailed design of the authorised development and in the manner provi
 
 - (a) location, number, species, size and planting density of any proposed planting, including habitat creation in lieu of offsite biodiversity offsetting;
 - (b) cultivation, importing of materials and other operations to ensure plant establishment;
-- (c) the location and specification of routes for non-motorised users including provision of a bus stop to serve southbound buses in the re-aligned Tunnel Avenue[^key-184ea874f333b6b3d85953c74ab33657];
+- (c) the location and specification of routes for non-motorised users including provision of a bus stop to serve southbound buses in the re-aligned Tunnel Avenue[^c-184ea874f333b6b3d85953c74ab33657];
 - (d) proposed finished ground levels;
 - (e) hard surfacing materials;
 - (f) details of existing trees to be retained, with measures for their protection during the construction period; and
@@ -204,7 +204,7 @@ Air quality monitoring and mitigation
 
 (17) TfL must implement or secure the implementation of the scheme of mitigation approved by the Mayor of London in accordance with the programme contained in the approved scheme of mitigation.
 
-Hoola building[^key-73b086dd0591321c01853fc889beb581]
+Hoola building[^c-73b086dd0591321c01853fc889beb581]
 
 (18) No part of the authorised development is to be opened for public use until a scheme of mitigation (which may consist of or include ventilation) to reduce to acceptable levels any exposure to nitrogen dioxide which occurs as a result of the authorised development at the first floor residential accommodation at the Hoola building, has been submitted to and approved by the London Borough of Newham (“Hoola scheme of mitigation”).
 
@@ -254,7 +254,7 @@ The authorised development must be carried out in accordance with the flood risk
 
 #### 13. Siebert Road and Westcombe Hill area noise barriers
 
-Prior to the opening of the authorised development for public use, TfL must install noise barriers to protect properties in the Siebert Road, Invicta Road/Westcombe Hill area from the effects of traffic noise from the A102. Details of these barriers must be submitted to and approved by the relevant planning authority[^key-42e84f85d4b1ce71ab3aaefdd1ebf0e4] after consultation with local residents, before installation is commenced. The installation must be undertaken in the form approved.
+Prior to the opening of the authorised development for public use, TfL must install noise barriers to protect properties in the Siebert Road, Invicta Road/Westcombe Hill area from the effects of traffic noise from the A102. Details of these barriers must be submitted to and approved by the relevant planning authority[^c-42e84f85d4b1ce71ab3aaefdd1ebf0e4] after consultation with local residents, before installation is commenced. The installation must be undertaken in the form approved.
 
 #### 14. Cross-river bus services
 
@@ -266,20 +266,20 @@ Prior to the opening of the authorised development for public use, TfL must inst
 
 (4) In this paragraph—
 
-- “the Assessed Case” has the meaning given to that expression in the bus strategy;[^key-f4c06df2d82a094f87d4f4c291b95d5a]
+- “the Assessed Case” has the meaning given to that expression in the bus strategy;[^c-f4c06df2d82a094f87d4f4c291b95d5a]
 - “**bus**” means a public service vehicle designed and constructed for the carriage of both seated and standing passengers;
 - “**Euro VI emissions limits**” means the emissions limits for heavy duty vehicles set out in Annex I to Regulation [(EC) No 595/2009](https://www.legislation.gov.uk/european/regulation/2009/0595) of the European Parliament and of the Council (as amended by Annex XV of Commission Regulation (EU) No 582/2011);
-- “**London local service**” means a London local service which TfL has determined as being required under section 181 of the 1999 Act; [^key-26c0e85af2be7a8abd8bfba781d41af5]...
-- “**the monitoring period**” means a period of not less than three years commencing on the date the Silvertown Tunnel opens for public use, which may be extended by TfL for up to two years if this is deemed necessary following consultation with the members of STIG in accordance with section 3.4 of the monitoring and mitigation strategy; and[^key-0a3e6ebf7cdeb748602fec8f15cfb7e5]
+- “**London local service**” means a London local service which TfL has determined as being required under section 181 of the 1999 Act; [^c-26c0e85af2be7a8abd8bfba781d41af5]...
+- “**the monitoring period**” means a period of not less than three years commencing on the date the Silvertown Tunnel opens for public use, which may be extended by TfL for up to two years if this is deemed necessary following consultation with the members of STIG in accordance with section 3.4 of the monitoring and mitigation strategy; and[^c-0a3e6ebf7cdeb748602fec8f15cfb7e5]
 - “the Refreshed Assessment” means the updated assessment of the impacts of the authorised development carried out by TfL in accordance with section 1.5 of the bus strategy
 
 #### 15. Cross-river cycle/pedestrian facilities
 
 (1) TfL must secure the provision of enhanced river crossing facilities for cyclists and pedestrians between the Greenwich Peninsula and Canary Wharf and Silvertown for at least the duration of the monitoring period, whether by bus shuttles, ferry services and/or modified charging policy on the Air Line service.
 
-(2) Details of such provisions must be submitted to and approved by the relevant [^key-a83e14f3b333828607334ac122026af3]... planning authorities prior to the opening of the authorised development for public use, and such scheme or schemes as may be approved must be retained for no less than the monitoring period unless agreed otherwise by the relevant [^key-a83e14f3b333828607334ac122026af3]... planning authorities.
+(2) Details of such provisions must be submitted to and approved by the relevant [^c-a83e14f3b333828607334ac122026af3]... planning authorities prior to the opening of the authorised development for public use, and such scheme or schemes as may be approved must be retained for no less than the monitoring period unless agreed otherwise by the relevant [^c-a83e14f3b333828607334ac122026af3]... planning authorities.
 
-(3)[^key-237e68abe194006742da540a4c1a4414] In this paragraph “the monitoring period” has the same meaning as in paragraph 14(4) (cross-river bus services).
+(3)[^c-237e68abe194006742da540a4c1a4414] In this paragraph “the monitoring period” has the same meaning as in paragraph 14(4) (cross-river bus services).
 
 #### 16. Biodiversity action plan and mitigation strategy
 
@@ -311,15 +311,15 @@ The authorised development must be carried out in accordance with the biodiversi
 
 (7) The outstanding remediation measures must be completed to the reasonable satisfaction of the relevant planning authority by the date agreed with that authority.
 
-#### 18. Hazardous substances – East Greenwich Gasholder site[^key-8ce7637d6cb297ddf70a7338f41ff6ce]
+#### 18. Hazardous substances – East Greenwich Gasholder site[^c-8ce7637d6cb297ddf70a7338f41ff6ce]
 
 The Silvertown Tunnel must not open for public use and the tunnel services buildings at the South Portal comprised in Work No. 12 must not be occupied after their practical completion until the hazardous substances consent for the East Greenwich Gasholder Station site has been revoked or modified in accordance with the Planning (Hazardous Substances) Act 1990 [^c22957811], and in the case of a modification details of the relevant modifications have been submitted to the Health and Safety Executive, and the Health and Safety Executive has advised TfL in writing that it does not advise against the authorised development.
 
-#### 19. Hazardous substances – Brenntag Chemicals site[^key-85e3fba54d15fb061c5b22036720ce90]
+#### 19. Hazardous substances – Brenntag Chemicals site[^c-85e3fba54d15fb061c5b22036720ce90]
 
-The Silvertown Tunnel must not open for public use until the hazardous substances consent for the Brenntag Inorganic Chemicals Ltd site has been revoked or modified in accordance with the Planning (Hazardous Substances) Act 1990, and in the case of a modification details of the relevant modifications have been submitted to the Health and Safety Executive, and the Health and Safety Executive has advised TfL[^key-0da951359cc910aae549beb1cd164fcf] in writing that it does not advise against the authorised development.
+The Silvertown Tunnel must not open for public use until the hazardous substances consent for the Brenntag Inorganic Chemicals Ltd site has been revoked or modified in accordance with the Planning (Hazardous Substances) Act 1990, and in the case of a modification details of the relevant modifications have been submitted to the Health and Safety Executive, and the Health and Safety Executive has advised TfL[^c-0da951359cc910aae549beb1cd164fcf] in writing that it does not advise against the authorised development.
 
-#### 20. Re-use of excavated material on-site[^key-4a45226f96c128acb462b5f098b20cea]
+#### 20. Re-use of excavated material on-site[^c-4a45226f96c128acb462b5f098b20cea]
 
 (1) The works to implement the authorised development must be undertaken in a manner that will maximise the potential for re-use of suitable excavated material.
 
@@ -436,36 +436,36 @@ and may deal with the application as if it had been made to the appointed person
 
 [^c22957791]: Marginal citation: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596).
 
-[^key-fc8519ef83375cc33faf560a96e6d323]: Textual amendment: Words in Sch. 2 para. 5(3)(a) omitted (22.2.2019) by virtue of [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/a)
+[^c-fc8519ef83375cc33faf560a96e6d323]: Textual amendment: Words in Sch. 2 para. 5(3)(a) omitted (22.2.2019) by virtue of [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/a)
 
-[^key-d133979101b8a9c66d69162aabf38340]: Textual amendment: Words in Sch. 2 para. 5(3)(k) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/b)
+[^c-d133979101b8a9c66d69162aabf38340]: Textual amendment: Words in Sch. 2 para. 5(3)(k) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/b)
 
-[^key-184ea874f333b6b3d85953c74ab33657]: Textual amendment: Word in [Sch. 2 para. 6(2)(c)](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/6/2/c) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(c)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/c)
+[^c-184ea874f333b6b3d85953c74ab33657]: Textual amendment: Word in [Sch. 2 para. 6(2)(c)](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/6/2/c) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(c)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/c)
 
-[^key-73b086dd0591321c01853fc889beb581]: Textual amendment: Sch. 2 para. 7(18)(19) inserted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(d)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/d)
+[^c-73b086dd0591321c01853fc889beb581]: Textual amendment: Sch. 2 para. 7(18)(19) inserted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(d)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/d)
 
-[^key-42e84f85d4b1ce71ab3aaefdd1ebf0e4]: Textual amendment: Words in [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/13) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(e)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/e)
+[^c-42e84f85d4b1ce71ab3aaefdd1ebf0e4]: Textual amendment: Words in [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/13) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(e)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/e)
 
-[^key-f4c06df2d82a094f87d4f4c291b95d5a]: Textual amendment: Words in [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/14/4) inserted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(f)(i)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/f/i)
+[^c-f4c06df2d82a094f87d4f4c291b95d5a]: Textual amendment: Words in [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/14/4) inserted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(f)(i)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/f/i)
 
-[^key-26c0e85af2be7a8abd8bfba781d41af5]: Textual amendment: Word in [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/14/4) omitted (22.2.2019) by virtue of [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(f)(ii)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/f/ii)
+[^c-26c0e85af2be7a8abd8bfba781d41af5]: Textual amendment: Word in [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/14/4) omitted (22.2.2019) by virtue of [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(f)(ii)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/f/ii)
 
-[^key-0a3e6ebf7cdeb748602fec8f15cfb7e5]: Textual amendment: Words in [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/14/4) inserted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(f)(iii)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/f/iii)
+[^c-0a3e6ebf7cdeb748602fec8f15cfb7e5]: Textual amendment: Words in [Sch. 2 para. 14(4)](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/14/4) inserted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(f)(iii)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/f/iii)
 
-[^key-a83e14f3b333828607334ac122026af3]: Textual amendment: Word in [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/15/2) omitted (22.2.2019) by virtue of [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(g)(i)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/g/i)
+[^c-a83e14f3b333828607334ac122026af3]: Textual amendment: Word in [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/15/2) omitted (22.2.2019) by virtue of [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(g)(i)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/g/i)
 
-[^key-237e68abe194006742da540a4c1a4414]: Textual amendment: [Sch. 2 para. 15(3)](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/15/3) inserted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(g)(ii)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/g/ii)
+[^c-237e68abe194006742da540a4c1a4414]: Textual amendment: [Sch. 2 para. 15(3)](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/15/3) inserted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(g)(ii)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/g/ii)
 
 [^c22957801]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Part 2A was inserted by section 57 of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25). The definition of “contaminated land” was subsequently amended by section 86(1) and (2)(a) of the [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37).
 
-[^key-8ce7637d6cb297ddf70a7338f41ff6ce]: Textual amendment: Sch. 2 para. 18: Sch. 2 para. 18(1) renumbered as Sch. 2 para. 18 (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(h)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/h)
+[^c-8ce7637d6cb297ddf70a7338f41ff6ce]: Textual amendment: Sch. 2 para. 18: Sch. 2 para. 18(1) renumbered as Sch. 2 para. 18 (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(h)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/h)
 
 [^c22957811]: Marginal citation: [1990 c. 10](https://www.legislation.gov.uk/ukpga/1990/10).
 
-[^key-85e3fba54d15fb061c5b22036720ce90]: Textual amendment: [Sch. 2 para. 19:](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/19/1) Sch. 2 para. 19(1) renumbered as Sch. 2 para. 19 (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(h)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/h)
+[^c-85e3fba54d15fb061c5b22036720ce90]: Textual amendment: [Sch. 2 para. 19:](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/19/1) Sch. 2 para. 19(1) renumbered as Sch. 2 para. 19 (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(h)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/h)
 
-[^key-0da951359cc910aae549beb1cd164fcf]: Textual amendment: Word in [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/19) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(i)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/i)
+[^c-0da951359cc910aae549beb1cd164fcf]: Textual amendment: Word in [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2018/574/schedule/2/paragraph/19) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(i)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/i)
 
-[^key-4a45226f96c128acb462b5f098b20cea]: Textual amendment: Sch. 2 para. 20 substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(j)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/j)
+[^c-4a45226f96c128acb462b5f098b20cea]: Textual amendment: Sch. 2 para. 20 substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(9)(j)](https://www.legislation.gov.uk/uksi/2019/413/article/2/9/j)
 
 [^c22957821]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40). Section 61 was amended by Schedule 7 to the [Building Act 1984 (c. 55)](https://www.legislation.gov.uk/ukpga/1984/55), [Schedule 15](https://www.legislation.gov.uk/ukpga/1984/55/schedule/15) to the [Environmental Protection Act 1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43) and Schedule 24 to the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25). There are other amendments to section 61 but none are relevant.

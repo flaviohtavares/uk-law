@@ -56,7 +56,7 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-a8f1c654fa35e8e243ffffefbb2e1151]
+### 1. Citation and commencement[^c-a8f1c654fa35e8e243ffffefbb2e1151]
 
 (1) These Regulations may be cited as the Architects Act 1997 (Swiss Qualifications) (Amendment) (EU Exit) Regulations 2019.
 
@@ -66,19 +66,19 @@ The Secretary of State is of the opinion that, by reason of urgency, it is neces
 
 ## PART 2 — Amendments to the Architects Act 1997 and the Architects Act 1997 (Amendment) (EU Exit) Regulations 2019
 
-### 2. Amendments made under the European Communities Act 1972 coming into force on the day after the day on which these Regulations are made[^key-e042407ff8ab6dbb2b006aaf973f1922]
+### 2. Amendments made under the European Communities Act 1972 coming into force on the day after the day on which these Regulations are made[^c-e042407ff8ab6dbb2b006aaf973f1922]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendments made under the European Union (Withdrawal) Act 2018 coming into force on IP completion day[^key-49843cbc0a5e0e1994b8dc213b61c639][^key-a7613a41a8b909f40db4e51ccd5fc6f3]
+### 3. Amendments made under the European Union (Withdrawal) Act 2018 coming into force on IP completion day[^c-49843cbc0a5e0e1994b8dc213b61c639][^c-a7613a41a8b909f40db4e51ccd5fc6f3]
 
 In section 25(1) of the Architects Act 1997 (interpretation), for the definition of “the Directive” substitute—
 
-> “**the Directive**” means Council Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36) on the recognition of professional qualifications as it had effect immediately before IP completion day[^key-90f3a599c9781e44149c1d239f77201f] and any reference to the Directive includes (without prejudice to the operation of section 20A of the Interpretation Act 1978) a reference to the Directive as extended by the EEA Agreement and by the Swiss Agreement as those Agreements had effect immediately before IP completion day;
+> “**the Directive**” means Council Directive [2005/36/EC](https://www.legislation.gov.uk/eudr/2005/36) on the recognition of professional qualifications as it had effect immediately before IP completion day[^c-90f3a599c9781e44149c1d239f77201f] and any reference to the Directive includes (without prejudice to the operation of section 20A of the Interpretation Act 1978) a reference to the Directive as extended by the EEA Agreement and by the Swiss Agreement as those Agreements had effect immediately before IP completion day;
 
 .
 
-### 4.[^key-f7b4282e7e06123e61945f6d8f40ed94]
+### 4.[^c-f7b4282e7e06123e61945f6d8f40ed94]
 
 **Not yet in force.**
 
@@ -112,16 +112,16 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23699291]: Marginal citation: Paragraph 38(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 allows for regulations under that Act to be combined with regulations, made under other enabling provisions, which are subject to the negative resolution procedure in Parliament.
 
-[^key-a8f1c654fa35e8e243ffffefbb2e1151]: Commencement: Reg. 1 in force at 5.4.2019, see reg. 1(2)
+[^c-a8f1c654fa35e8e243ffffefbb2e1151]: Commencement: Reg. 1 in force at 5.4.2019, see reg. 1(2)
 
 [^c23699301]: Marginal citation: [S.I. 2019/717](https://www.legislation.gov.uk/uksi/2019/717).
 
-[^key-e042407ff8ab6dbb2b006aaf973f1922]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/810/regulation/2) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-e042407ff8ab6dbb2b006aaf973f1922]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/810/regulation/2) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
-[^key-49843cbc0a5e0e1994b8dc213b61c639]: Commencement: Reg. 3 in force at 31.12.2020 immediately after [S.I. 2019/717](https://www.legislation.gov.uk/uksi/2019/717) comes into force, see reg. 1(3)
+[^c-49843cbc0a5e0e1994b8dc213b61c639]: Commencement: Reg. 3 in force at 31.12.2020 immediately after [S.I. 2019/717](https://www.legislation.gov.uk/uksi/2019/717) comes into force, see reg. 1(3)
 
-[^key-a7613a41a8b909f40db4e51ccd5fc6f3]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2019/810/regulation/3) heading substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [8(a)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/8/a)
+[^c-a7613a41a8b909f40db4e51ccd5fc6f3]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2019/810/regulation/3) heading substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [8(a)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/8/a)
 
-[^key-90f3a599c9781e44149c1d239f77201f]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2019/810/regulation/3) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [8(a)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/8/a)
+[^c-90f3a599c9781e44149c1d239f77201f]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2019/810/regulation/3) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [8(a)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/8/a)
 
-[^key-f7b4282e7e06123e61945f6d8f40ed94]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/810/regulation/4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [8(b)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/8/b)
+[^c-f7b4282e7e06123e61945f6d8f40ed94]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/810/regulation/4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [8(b)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/8/b)

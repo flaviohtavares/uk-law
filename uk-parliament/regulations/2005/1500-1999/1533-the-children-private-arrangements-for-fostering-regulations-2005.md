@@ -80,7 +80,7 @@ In these Regulations—
 
 ## 4. Action to be taken by local authority on receipt of notification of proposal to foster a child privately
 
-(1) Where a local authority have received notification under regulation 3 they must, for the purposes of discharging their duty under section 67(1) of the Act (welfare of privately fostered children), arrange for an officer of the authority within seven working days , or as soon as is reasonably practicable,[^key-6ea3bd33236d653b8f2f5c072de8b74a] to—
+(1) Where a local authority have received notification under regulation 3 they must, for the purposes of discharging their duty under section 67(1) of the Act (welfare of privately fostered children), arrange for an officer of the authority within seven working days , or as soon as is reasonably practicable,[^c-6ea3bd33236d653b8f2f5c072de8b74a] to—
 
 - (a) visit the premises where it is proposed that the child will be cared for and accommodated;
 - (b) visit and speak to the proposed private foster carer and to all members of his household;
@@ -104,7 +104,7 @@ In these Regulations—
 
 ## 7. Action to be taken by local authority on receipt of notification about a child being fostered privately
 
-(1) Where a local authority have received a notification under regulation 5 or 6 they must for the purposes of discharging their functions under section 67(1) of the Act, arrange for an officer of the authority within seven working days , or as soon as is reasonably practicable,[^key-f8423fccc907172deee9fae61015255e] to—
+(1) Where a local authority have received a notification under regulation 5 or 6 they must for the purposes of discharging their functions under section 67(1) of the Act, arrange for an officer of the authority within seven working days , or as soon as is reasonably practicable,[^c-f8423fccc907172deee9fae61015255e] to—
 
 - (a) visit the premises where the child is being cared for and accommodated;
 - (b) visit and speak to the private foster carer and to all members of his household;
@@ -118,8 +118,8 @@ In these Regulations—
 
 (1) Each local authority must arrange for an officer of the authority to visit every child who is being fostered privately in their area—
 
-- (a) in the first year of the private fostering arrangement , where reasonably practicable[^key-eb238e33f54a54417ba36541bc88858a], at intervals of not more than six weeks; and
-- (b) in any second or subsequent year, where reasonably practicable,[^key-d20ddc39c53a91445568add8804a7382] at intervals of not more than 12 weeks.
+- (a) in the first year of the private fostering arrangement , where reasonably practicable[^c-eb238e33f54a54417ba36541bc88858a], at intervals of not more than six weeks; and
+- (b) in any second or subsequent year, where reasonably practicable,[^c-d20ddc39c53a91445568add8804a7382] at intervals of not more than 12 weeks.
 
 (2) In addition to visits carried out in accordance with paragraph (1) the local authority must arrange for every child who is fostered privately in their area to be visited by an officer when reasonably requested to do so by the child, the private foster carer, a parent of the child or any other person with parental responsibility for the child.
 
@@ -284,13 +284,13 @@ Regulation 12 requires local authorities to monitor the way in which they discha
 
 [^c12249551]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-6ea3bd33236d653b8f2f5c072de8b74a]: Textual amendment: Words in reg. 4(1) inserted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/5/2) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+[^c-6ea3bd33236d653b8f2f5c072de8b74a]: Textual amendment: Words in reg. 4(1) inserted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/5/2) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
 
-[^key-f8423fccc907172deee9fae61015255e]: Textual amendment: Words in reg. 7(1) inserted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/445/regulation/5/3) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+[^c-f8423fccc907172deee9fae61015255e]: Textual amendment: Words in reg. 7(1) inserted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/445/regulation/5/3) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
 
-[^key-eb238e33f54a54417ba36541bc88858a]: Textual amendment: Words in reg. 8(1)(a) inserted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2020/445/regulation/5/4/a) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+[^c-eb238e33f54a54417ba36541bc88858a]: Textual amendment: Words in reg. 8(1)(a) inserted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2020/445/regulation/5/4/a) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
 
-[^key-d20ddc39c53a91445568add8804a7382]: Textual amendment: Words in reg. 8(1)(b) inserted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2020/445/regulation/5/4/b) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+[^c-d20ddc39c53a91445568add8804a7382]: Textual amendment: Words in reg. 8(1)(b) inserted (temp.) (24.4.2020) by virtue of [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2020/445/regulation/5/4/b) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
 
 [^c12249561]: Marginal citation: [S.I. 1991/2050](https://www.legislation.gov.uk/uksi/1991/2050), as amended in relation to England by [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865).
 

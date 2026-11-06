@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Maintenance of drainage works[^key-0cafb7f6e7f267be21e7f1f3b8a823e0]
+## 4. Maintenance of drainage works[^c-0cafb7f6e7f267be21e7f1f3b8a823e0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cafb7f6e7f267be21e7f1f3b8a823e0]: Commencement: Art. 4 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-0cafb7f6e7f267be21e7f1f3b8a823e0]: Commencement: Art. 4 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)

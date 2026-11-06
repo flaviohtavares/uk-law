@@ -16,43 +16,43 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Power to protect other information (affected by repeal, see note)Power to make regulations protecting material[^key-bfd7f12a9f048a2a65dffb71fbd2c50c][^key-51178b232db4d3538e5779396b7c256f][^key-d21c76cd40bd61b1abcd7a11eae3311d][^key-a691280b4857e5c02d08f731da79bebc]
+## 25. Power to protect other information (affected by repeal, see note)Power to make regulations protecting material[^c-bfd7f12a9f048a2a65dffb71fbd2c50c][^c-51178b232db4d3538e5779396b7c256f][^c-d21c76cd40bd61b1abcd7a11eae3311d][^c-a691280b4857e5c02d08f731da79bebc]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State may by regulations make provision requiring the registrar, on application— *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
+(1) The Secretary of State may by regulations make provision requiring the registrar, on application— *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
 
-- (a) to make information relating to a relevant individual unavailable for public inspection, and *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
-- (b) to refrain from disclosing that information or to refrain from doing so except in specified circumstances. *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
+- (a) to make information relating to a relevant individual unavailable for public inspection, and *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
+- (b) to refrain from disclosing that information or to refrain from doing so except in specified circumstances. *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
 
-(2) In this section “ *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]**relevant individual *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]**” means an individual who is or used to be— *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
+(2) In this section “ *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]**relevant individual *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]**” means an individual who is or used to be— *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
 
-- (a) a registrable beneficial owner in relation to an overseas entity, or *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
-- (b) a managing officer of an overseas entity. *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
+- (a) a registrable beneficial owner in relation to an overseas entity, or *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
+- (b) a managing officer of an overseas entity. *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
 
-(3) Regulations under this section may make provision as to— *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
+(3) Regulations under this section may make provision as to— *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
 
-- (a) who may make an application, *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
-- (b) the grounds on which an application may be made, *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
-- (c) the information to be included in and documents to accompany an application, *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
-- (d) how an application is to be determined, *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
-- (e) the recording of restrictions in the register, *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
-- (f) the duration of and procedures for revoking the restrictions on disclosure, and *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
-- (g) the charging of fees by the registrar for disclosing information where the regulations permit disclosure, by way of exception, in specified circumstances. *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
+- (a) who may make an application, *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
+- (b) the grounds on which an application may be made, *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
+- (c) the information to be included in and documents to accompany an application, *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
+- (d) how an application is to be determined, *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
+- (e) the recording of restrictions in the register, *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
+- (f) the duration of and procedures for revoking the restrictions on disclosure, and *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
+- (g) the charging of fees by the registrar for disclosing information where the regulations permit disclosure, by way of exception, in specified circumstances. *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
 
-(4) The provision that may be made under subsection *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc] (3)(d) or *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc] (f) includes provision— *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
+(4) The provision that may be made under subsection *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc] (3)(d) or *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc] (f) includes provision— *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
 
-- (a) conferring a discretion on the registrar; *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
-- (b) providing for a question to be referred to a person other than the registrar for the purposes of determining the application or revoking the restrictions. *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
+- (a) conferring a discretion on the registrar; *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
+- (b) providing for a question to be referred to a person other than the registrar for the purposes of determining the application or revoking the restrictions. *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
 
-(5) Regulations under this section may impose a duty on the registrar to publish, in relation to such periods as may be specified— *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
+(5) Regulations under this section may impose a duty on the registrar to publish, in relation to such periods as may be specified— *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
 
-- (a) details of how many applications have been made under the regulations and how many of them have been allowed, and *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
-- (b) such other details in connection with applications under the regulations as may be specified in the regulations. *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
+- (a) details of how many applications have been made under the regulations and how many of them have been allowed, and *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
+- (b) such other details in connection with applications under the regulations as may be specified in the regulations. *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
 
-(6) Regulations under this section are subject to the affirmative resolution procedure. *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc]
+(6) Regulations under this section are subject to the affirmative resolution procedure. *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc]
 
-(7) Nothing in this section or in regulations made under it affects the disclosure of information about a person in any capacity other than that mentioned in subsection *(affected by repeal, see note)*[^key-a691280b4857e5c02d08f731da79bebc] (2).
+(7) Nothing in this section or in regulations made under it affects the disclosure of information about a person in any capacity other than that mentioned in subsection *(affected by repeal, see note)*[^c-a691280b4857e5c02d08f731da79bebc] (2).
 
 (1) The Secretary of State may by regulations make provision requiring the registrar, on application—
 
@@ -89,10 +89,10 @@ summary: ''
 
 ## Annotations
 
-[^key-bfd7f12a9f048a2a65dffb71fbd2c50c]: Commencement: S. 25 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-bfd7f12a9f048a2a65dffb71fbd2c50c]: Commencement: S. 25 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-51178b232db4d3538e5779396b7c256f]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/10/section/25) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/g)
+[^c-51178b232db4d3538e5779396b7c256f]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/10/section/25) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/g)
 
-[^key-d21c76cd40bd61b1abcd7a11eae3311d]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/10/section/25) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-d21c76cd40bd61b1abcd7a11eae3311d]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2022/10/section/25) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
 
-[^key-a691280b4857e5c02d08f731da79bebc]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/2022/10/section/25) substituted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 168](https://www.legislation.gov.uk/ukpga/2023/56/section/168), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-a691280b4857e5c02d08f731da79bebc]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/2022/10/section/25) substituted (26.10.2023 for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 168](https://www.legislation.gov.uk/ukpga/2023/56/section/168), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)

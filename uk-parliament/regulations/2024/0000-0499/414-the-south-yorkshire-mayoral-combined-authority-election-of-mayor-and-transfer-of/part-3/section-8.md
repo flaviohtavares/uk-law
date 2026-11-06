@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Continuity[^key-7509990572f0b0ebd8f19eab18212af0]
+## 8. Continuity[^c-7509990572f0b0ebd8f19eab18212af0]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ has effect as if made or done by or in relation to the Combined Authority.
 
 ## Annotations
 
-[^key-7509990572f0b0ebd8f19eab18212af0]: Commencement: Art. 8 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
+[^c-7509990572f0b0ebd8f19eab18212af0]: Commencement: Art. 8 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)

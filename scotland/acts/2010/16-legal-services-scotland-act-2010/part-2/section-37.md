@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Monitoring by Ministers[^key-fbffe1d3c65bbbf1fdd200d181bcd7bc]
+## 37. Monitoring by Ministers[^c-fbffe1d3c65bbbf1fdd200d181bcd7bc]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbffe1d3c65bbbf1fdd200d181bcd7bc]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2010/16/section/37) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-fbffe1d3c65bbbf1fdd200d181bcd7bc]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2010/16/section/37) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

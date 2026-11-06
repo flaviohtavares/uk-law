@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Powers of Secretary of State to secure proper performance of local authority's functions[^c381680][^key-b80dd53ed3b9f5bda946f0d7dfa3e5e8][^key-379c0a8ab791aad4cda0b42dbea5f020]
+## 60. Powers of Secretary of State to secure proper performance of local authority's functions[^c381680][^c-b80dd53ed3b9f5bda946f0d7dfa3e5e8][^c-379c0a8ab791aad4cda0b42dbea5f020]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ summary: ''
 
 [^c381680]: Commencement: S. 60 partly in force; s. 60 not in force at Royal Assent, see s. 216; s. 60 in force for E. at 26.7.2002 by [S.I. 2002/2002](https://www.legislation.gov.uk/uksi/2002/2002), [art. 3](https://www.legislation.gov.uk/uksi/2002/2002/article/3)
 
-[^key-b80dd53ed3b9f5bda946f0d7dfa3e5e8]: Commencement: S. 60 in force at 1.8.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 4](https://www.legislation.gov.uk/uksi/2003/1718/article/4), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/I)
+[^c-b80dd53ed3b9f5bda946f0d7dfa3e5e8]: Commencement: S. 60 in force at 1.8.2003 for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 4](https://www.legislation.gov.uk/uksi/2003/1718/article/4), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/I)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)

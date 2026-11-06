@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 0.2. Construction and interpretation[^key-b295d870a16b4a2074fb4df17635353f]
+## 0.2. Construction and interpretation[^c-b295d870a16b4a2074fb4df17635353f]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b295d870a16b4a2074fb4df17635353f]: Textual amendment: [Rule 0.2](https://www.legislation.gov.uk/uksi/1986/1925/rule/000.2) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/1)
+[^c-b295d870a16b4a2074fb4df17635353f]: Textual amendment: [Rule 0.2](https://www.legislation.gov.uk/uksi/1986/1925/rule/000.2) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/1)

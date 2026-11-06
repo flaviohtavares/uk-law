@@ -61,7 +61,7 @@ These Regulations are made—
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and application[^key-0ebc4ced530d91918f1497c875d85fd0]
+### 1. Citation, commencement and application[^c-0ebc4ced530d91918f1497c875d85fd0]
 
 (1) These Regulations—
 
@@ -71,7 +71,7 @@ These Regulations are made—
   - (i) English Committees, so far as these Regulations are made by the Secretary of State, and
   - (ii) Welsh Committees, so far as these Regulations are made by the Welsh Ministers.
 
-### 2. Interpretation[^key-84f36a67371191c0faa475fba40f78f8]
+### 2. Interpretation[^c-84f36a67371191c0faa475fba40f78f8]
 
 (1) In these Regulations—
 
@@ -94,7 +94,7 @@ These Regulations are made—
 
 ## PART 2 — Division of England and Wales into regions
 
-### 3. Map of regions[^key-de24ba9259ab729d73d249debbb5992e]
+### 3. Map of regions[^c-de24ba9259ab729d73d249debbb5992e]
 
 (1) As soon as is practicable after the first division of England and Wales into regions for the purposes of section 22 of the 2010 Act, the Agency must publish a map of the regions.
 
@@ -104,9 +104,9 @@ These Regulations are made—
 - (b) name the regions; and
 - (c) be published at the same time as or before the Agency publishes the composition documents for the Regional Flood and Coastal Committees established for those regions.
 
-### 4. Revised regions[^key-71067cce02ee7b27db82f02d0b17d024]
+### 4. Revised regions[^c-71067cce02ee7b27db82f02d0b17d024]
 
-(1) The appropriate agency[^key-9ddab9dac4a81f5376a4640e1287f39a] may, before 1st December in any financial year, revise the boundaries of existing regions (“old regions”) to create new regions.
+(1) The appropriate agency[^c-9ddab9dac4a81f5376a4640e1287f39a] may, before 1st December in any financial year, revise the boundaries of existing regions (“old regions”) to create new regions.
 
 (2) A revision of the regions does not take effect unless the appropriate agency —
 
@@ -115,7 +115,7 @@ These Regulations are made—
 
 (3) A revision takes effect when the appropriate agency publishes—
 
-- (a) a map of England or[^key-e5fa668b291e937bbda0f201692cb10f] Wales—
+- (a) a map of England or[^c-e5fa668b291e937bbda0f201692cb10f] Wales—
   - (i) specifying the boundaries of the revised regions, and
   - (ii) naming the regions; and
 - (b) the composition documents for the Regional Flood and Coastal Committees established for the new regions.
@@ -129,14 +129,14 @@ These Regulations are made—
 
 (6) On the establishment of the Committees for the new regions, the Committees for the old regions are abolished.
 
-(7)[^key-1b6598a61030268d3fc57309fbadcc1a] In the case of a revision affecting the boundary between a region wholly or mainly in England and a region wholly or mainly in Wales—
+(7)[^c-1b6598a61030268d3fc57309fbadcc1a] In the case of a revision affecting the boundary between a region wholly or mainly in England and a region wholly or mainly in Wales—
 
 - (a) the functions of the appropriate agency under paragraphs (1) and (2) are exercisable by the Agency and the Natural Resources Body for Wales acting jointly;
 - (b) paragraph (3)(a) is satisfied when both the Agency and the Natural Resources Body for Wales publish a map or maps fulfilling the conditions specified in that paragraph.
 
-### 5. Renaming of regions[^key-08c9028bc56649de483b6eb0cfef398d]
+### 5. Renaming of regions[^c-08c9028bc56649de483b6eb0cfef398d]
 
-(1) The appropriate agency[^key-a4808e2afcf586567cf4a60451f09bab] may rename a region at any time.
+(1) The appropriate agency[^c-a4808e2afcf586567cf4a60451f09bab] may rename a region at any time.
 
 (2) As soon as is practicable after renaming a region, the Agency must—
 
@@ -146,7 +146,7 @@ These Regulations are made—
 
 ## PART 3 — Establishment of Regional Flood and Coastal Committees
 
-### 6. Composition of Committees[^key-c15e98bd8fb1475262044e4ee602d6d0]
+### 6. Composition of Committees[^c-c15e98bd8fb1475262044e4ee602d6d0]
 
 (1) The composition of a Regional Flood and Coastal Committee is to consist of—
 
@@ -161,7 +161,7 @@ These Regulations are made—
 
 (3) If the group of constituent authorities fails to agree which constituent authority is to appoint a member, the Minister may decide which constituent authority is to appoint the member.
 
-### 7. Number of members of Committees[^key-017a7519a7bdb4be133189c61f41e4dc]
+### 7. Number of members of Committees[^c-017a7519a7bdb4be133189c61f41e4dc]
 
 (1) The total number of members of each Regional Flood and Coastal Committee must—
 
@@ -172,22 +172,22 @@ These Regulations are made—
 
 (3) The appropriate agency may not issue a levy to constituent authorities in a region for a financial year unless the total number of members appointed under regulation 6(1)(b) is at least one more than the sum of the number of members appointed under regulations 6(1)(a) and (c).
 
-### 8. Publication of composition document[^key-707969c877249392cff2d0a7f2b1e724]
+### 8. Publication of composition document[^c-707969c877249392cff2d0a7f2b1e724]
 
-(1) A Regional Flood and Coastal Committee is established for a region when the appropriate agency[^key-a27dbc2656218c7885ed2bd5a09a8382] publishes a document specifying—
+(1) A Regional Flood and Coastal Committee is established for a region when the appropriate agency[^c-a27dbc2656218c7885ed2bd5a09a8382] publishes a document specifying—
 
 - (a) the region for which the Committee is established; and
 - (b) the composition of the Committee.
 
-(2) The appropriate agency[^key-d7b6212ca767938c9177ddbb7c86e5a7] may not publish a document under paragraph (1) (“composition document”) unless the composition of the Committee has been approved by the Minister.
+(2) The appropriate agency[^c-d7b6212ca767938c9177ddbb7c86e5a7] may not publish a document under paragraph (1) (“composition document”) unless the composition of the Committee has been approved by the Minister.
 
 (3) The Minister may require a change to the proposed composition of a Committee before approving the composition.
 
 (4) The Agency must publish a composition document for each region before 1st December 2011.
 
-### 9. Variation of composition of a Committee[^key-cfb3640f48dfe65bb766ac5c72e2d3d8]
+### 9. Variation of composition of a Committee[^c-cfb3640f48dfe65bb766ac5c72e2d3d8]
 
-(1) Before 1st December in any financial year, the appropriate agency[^key-10b016f9ae918b186d9188674f917e02] may, on its own initiative or at the request of a Regional Flood and Coastal Committee, vary the composition of the Committee.
+(1) Before 1st December in any financial year, the appropriate agency[^c-10b016f9ae918b186d9188674f917e02] may, on its own initiative or at the request of a Regional Flood and Coastal Committee, vary the composition of the Committee.
 
 (2) Subject to paragraph (3), a variation takes effect when the appropriate agency publishes a document specifying the matters mentioned in regulation 8(1).
 
@@ -202,7 +202,7 @@ These Regulations are made—
 
 (5) The appropriate agency may not issue a levy to constituent authorities in a region for a financial year if the composition of the Committee for that region is varied on or after 1st December in the financial year preceding that for which the levy is issued.
 
-### 10. Constituent authority contacts[^key-ce482f06c98c46101394be8193e20c53]
+### 10. Constituent authority contacts[^c-ce482f06c98c46101394be8193e20c53]
 
 (1) Before 1st December in any financial year, the Regional Flood and Coastal Committee must obtain from each constituent authority in its region the name and contact details for a person authorised by the constituent authority to liaise with the Committee in relation to the business of the Committee (“official contact details”).
 
@@ -212,13 +212,13 @@ These Regulations are made—
 
 ## PART 4 — Selection and appointment of members of Regional Flood and Coastal Committees
 
-### 11. Eligibility for appointment[^key-740708a54544b6812bd050ed12d16017]
+### 11. Eligibility for appointment[^c-740708a54544b6812bd050ed12d16017]
 
 (1) The following criteria must be satisfied before a person is appointed as a member of a Regional Flood and Coastal Committee—
 
 - (a) the person is of good character and sound financial reputation;
 - (b) the person is not an employee of—
-  - (i) the Agency or the Natural Resources Body for Wales[^key-527cc74c1b4c048a0f71b1614ae12619],
+  - (i) the Agency or the Natural Resources Body for Wales[^c-527cc74c1b4c048a0f71b1614ae12619],
   - (ii) the Department for Environment, Food and Rural Affairs, or
   - (iii) the Welsh Assembly Government;
 - (c) the person is not a Member of Parliament or a Member of the National Assembly for Wales.
@@ -228,7 +228,7 @@ These Regulations are made—
 - (a) the person is bankrupt or has an existing arrangement with creditors;
 - (b) within the 5 years immediately before the proposed date of appointment, the person has served a sentence of imprisonment for a period of 3 months or more.
 
-### 12. Appointment of chair[^key-5b4bafc51a080f2ea05051c464337e06]
+### 12. Appointment of chair[^c-5b4bafc51a080f2ea05051c464337e06]
 
 (1) The Minister may invite applications for appointment to the office of chair of a Regional Flood and Coastal Committee.
 
@@ -239,7 +239,7 @@ These Regulations are made—
 
 (3) The method of selection and appointment must comply with relevant principles relating to public appointments.
 
-### 13. Members appointed by constituent authorities[^key-a256f16e4ff75495f04629b770798655]
+### 13. Members appointed by constituent authorities[^c-a256f16e4ff75495f04629b770798655]
 
 (1) A constituent authority may appoint as a member of a Regional Flood and Coastal Committee any person who—
 
@@ -253,7 +253,7 @@ These Regulations are made—
 - (a) at the end of the period of 3 months beginning with the day on which the person ceased to be an elected member of the constituent authority; or
 - (b) on any earlier date if the member resigns, is removed from office or a replacement member is appointed.
 
-### 14. Members appointed by the appropriate agency[^key-58836c4ec71390886788f1ff1a389330][^key-0b90177859284eb47df83b44ed9f0c4f]
+### 14. Members appointed by the appropriate agency[^c-58836c4ec71390886788f1ff1a389330][^c-0b90177859284eb47df83b44ed9f0c4f]
 
 (1) The appropriate agency may invite applications for appointment as a member of a Regional Flood and Coastal Committee.
 
@@ -274,11 +274,11 @@ These Regulations are made—
 
 ## PART 5 — Holding office
 
-### 15. Terms of appointment[^key-935e5f31c7ba7818d9cd252fd93b66ea]
+### 15. Terms of appointment[^c-935e5f31c7ba7818d9cd252fd93b66ea]
 
 A member of a Regional Flood and Coastal Committee is to hold and vacate office in accordance with the terms of appointment or re-appointment.
 
-### 16. Date of appointment[^key-b289c35762235b9095ba7058450a1d3d]
+### 16. Date of appointment[^c-b289c35762235b9095ba7058450a1d3d]
 
 The date of appointment of a member of a Regional Flood and Coastal Committee is—
 
@@ -286,7 +286,7 @@ The date of appointment of a member of a Regional Flood and Coastal Committee is
 - (b) for any other person appointed as a member of the first Regional Flood and Coastal Committee established for a region under section 22(1) of the 2010 Act, the day on which the Committee is established in accordance with regulation 8;
 - (c) for a person appointed or re-appointed as a member of a Regional Flood and Coastal Committee after that date, the date of appointment specified in the instrument of appointment or re-appointment.
 
-### 17. Period of office[^key-f54048f90f171b326ecc2b119b976f09]
+### 17. Period of office[^c-f54048f90f171b326ecc2b119b976f09]
 
 (1) A member of a Regional Flood and Coastal Committee—
 
@@ -301,23 +301,23 @@ The date of appointment of a member of a Regional Flood and Coastal Committee is
 
 (4) A member of a Regional Flood and Coastal Committee who is appointed as chair of the Committee may not hold the office of chair for a continuous period of more than 10 years.
 
-### 18. Resignation from office[^key-2bcb7a4d117f1a8d6aee37816b6ab8f9]
+### 18. Resignation from office[^c-2bcb7a4d117f1a8d6aee37816b6ab8f9]
 
 (1) A member of a Regional Flood and Coastal Committee may at any time resign from office by written notice addressed and delivered to—
 
 - (a) for a person appointed as chair, the Minister;
 - (b) for a member appointed under regulation 6(1)(b), the constituent authority that appointed the member; or
-- (c) for a member appointed under regulation 6(1)(c), the appropriate agency[^key-18680c53d7acf8c3e1e4fc648d5c9902].
+- (c) for a member appointed under regulation 6(1)(c), the appropriate agency[^c-18680c53d7acf8c3e1e4fc648d5c9902].
 
 (2) A notice under paragraph (1) must be copied to the Committee.
 
-### 19. Removal from office[^key-63d93a83ce982df854e305cc859dba56]
+### 19. Removal from office[^c-63d93a83ce982df854e305cc859dba56]
 
 (1) A member of a Regional Flood and Coastal Committee may be removed from office by written notice addressed and delivered to that member by—
 
 - (a) for a person appointed as chair, the Minister;
 - (b) for a member appointed under regulation 6(1)(b), the constituent authority that appointed the member; or
-- (c) for a member appointed under regulation 6(1)(c), the appropriate agency[^key-80e16cede117ce720a3d798105ca35c7].
+- (c) for a member appointed under regulation 6(1)(c), the appropriate agency[^c-80e16cede117ce720a3d798105ca35c7].
 
 (2) A notice under paragraph (1) must—
 
@@ -332,7 +332,7 @@ The date of appointment of a member of a Regional Flood and Coastal Committee is
 - (d) the member has been absent from meetings of the Committee for a period of 6 consecutive months without the approval of the Committee;
 - (e) in the opinion of the person giving the notice, the member has become unable, unfit or unsuitable to discharge membership duties.
 
-### 20. Appointment of acting chair[^key-c087192302be905eaa98016a4f03772f]
+### 20. Appointment of acting chair[^c-c087192302be905eaa98016a4f03772f]
 
 (1) If the chair of a Regional Flood and Coastal Committee resigns, is removed from office or is unable to act, the Minister may appoint another person to act in place of the chair if the person—
 
@@ -343,20 +343,20 @@ The date of appointment of a member of a Regional Flood and Coastal Committee is
 
 (3) For the period that a person acts as chair, the person is taken to be the chair.
 
-### 21. Temporary absence of chair[^key-9dc3e64b0a3ef8a09b07ba332c71e57b]
+### 21. Temporary absence of chair[^c-9dc3e64b0a3ef8a09b07ba332c71e57b]
 
 (1) A chair who is to be absent from a meeting of a Regional Flood and Coastal Committee may appoint another member of the Committee to chair the meeting.
 
 (2) If a chair is absent from a meeting and has not appointed another member to chair the meeting, the Committee may appoint another member to chair the meeting.
 
-### 22. Appointment of replacement member[^key-9747285db2b2c709403e2bfeed7a2e8c]
+### 22. Appointment of replacement member[^c-9747285db2b2c709403e2bfeed7a2e8c]
 
 If a member of a Regional Flood and Coastal Committee (other than the chair) resigns, is removed from office or ceases to be a member under regulation 13(3)—
 
 - (a) for a member appointed under regulation 6(1)(b), the constituent authority that appointed the member must as soon as is practicable appoint another person as a member in accordance with regulation 13; and
-- (b) for a member appointed under regulation 6(1)(c), the appropriate agency[^key-f5a575f90e7b74152f5630b4cec28a21] must as soon as is practicable appoint another person as a member in accordance with regulation 14.
+- (b) for a member appointed under regulation 6(1)(c), the appropriate agency[^c-f5a575f90e7b74152f5630b4cec28a21] must as soon as is practicable appoint another person as a member in accordance with regulation 14.
 
-### 23. Nomination of deputies[^key-23633a37e53839b599c9c926cd18362c]
+### 23. Nomination of deputies[^c-23633a37e53839b599c9c926cd18362c]
 
 (1) A constituent authority of a Regional Flood and Coastal Committee may, by written notice to the chair, nominate a person to act as a deputy for a member appointed by the constituent authority.
 
@@ -379,11 +379,11 @@ If a member of a Regional Flood and Coastal Committee (other than the chair) res
 
 ## PART 6 — Proceedings of Regional Flood and Coastal Committees
 
-### 24. Interpretation[^key-3bc314071a6a0ce1e7d49d9b9a9ed677]
+### 24. Interpretation[^c-3bc314071a6a0ce1e7d49d9b9a9ed677]
 
 In this Part, “member” includes a person acting as the deputy of that member.
 
-### 25. Quorum and consents[^key-f3b1dd544e9ba40c8fca05f0cad4e532]
+### 25. Quorum and consents[^c-f3b1dd544e9ba40c8fca05f0cad4e532]
 
 (1) The quorum for any meeting of a Regional Flood and Coastal Committee is the majority of the total number of members of the Committee.
 
@@ -395,7 +395,7 @@ In this Part, “member” includes a person acting as the deputy of that member
 
 (5) For the purpose of section 23(4) of the 2010 Act, a Committee consents to the spending of revenue under section 118 of the 1991 Act[^f00005] if the majority of the members present at the meeting are in favour.
 
-### 26. Voting procedure[^key-58e6b0348a98b73a894526eea6db4319]
+### 26. Voting procedure[^c-58e6b0348a98b73a894526eea6db4319]
 
 (1) Each member of a Regional Flood and Coastal Committee who is entitled to vote has one vote.
 
@@ -405,28 +405,28 @@ In this Part, “member” includes a person acting as the deputy of that member
 
 (4) If there is a tied vote on any motion other than a motion that the Committee consent to the issue of a levy, the chair of the Committee has a casting vote.
 
-### 27. Declaration of interest[^key-dc0059b891b8eb996038d06c3402a46a]
+### 27. Declaration of interest[^c-dc0059b891b8eb996038d06c3402a46a]
 
 (1) A member of a Regional Flood and Coastal Committee must immediately disclose any direct or indirect interest in any contract or other matter proposed or discussed at a meeting of the Committee, and the disclosure must be recorded in the minutes of the meeting.
 
 (2) A member who has disclosed an interest in a contract must not take part in any discussion or decision of the Committee on that contract, but the member may be taken into account for the purpose of constituting a quorum of the Committee.
 
-(3) A person who ceases to be a member of a Regional Flood and Coastal Committee may not be appointed to any paid office by the appropriate agency[^key-d9943fcf027f5d93c65d5df693199245] within the first 12 months after ceasing to be a member.
+(3) A person who ceases to be a member of a Regional Flood and Coastal Committee may not be appointed to any paid office by the appropriate agency[^c-d9943fcf027f5d93c65d5df693199245] within the first 12 months after ceasing to be a member.
 
 (4) In this regulation, appointment to “paid office” does not include appointment as—
 
 - (a) a chair of any committee of the appropriate agency; or
 - (b) a member of the Board of the appropriate agency.
 
-### 28. Authentication of documents[^key-ab1561b9b1193156990621f213f425b0]
+### 28. Authentication of documents[^c-ab1561b9b1193156990621f213f425b0]
 
-(1) Any notice or other document which a Regional Flood and Coastal Committee is required or authorised to give, make or issue by or under any enactment may be signed on behalf of the Committee by any member of the Committee or any officer of the appropriate agency[^key-e723af5e6ac618b263db19bf991344ba] who is generally or specifically authorised for that purpose by a resolution of the Committee.
+(1) Any notice or other document which a Regional Flood and Coastal Committee is required or authorised to give, make or issue by or under any enactment may be signed on behalf of the Committee by any member of the Committee or any officer of the appropriate agency[^c-e723af5e6ac618b263db19bf991344ba] who is generally or specifically authorised for that purpose by a resolution of the Committee.
 
 (2) Any document purporting to bear the signature of a person expressed to be authorised as mentioned in sub-paragraph (1) is deemed, unless the contrary is shown, to be duly given, made or issued by authority of the Committee.
 
 (3) In this regulation, “signature” includes a facsimile of a signature by whatever process reproduced.
 
-### 29. Proof and validity of proceedings[^key-e7dabbb0f64fd2376e04814d99c7eccf]
+### 29. Proof and validity of proceedings[^c-e7dabbb0f64fd2376e04814d99c7eccf]
 
 (1) A minute of the proceedings of a meeting of a Regional Flood and Coastal Committee purporting to be signed at the meeting by the chair of the meeting, or at the next meeting by the chair of the next meeting, is evidence of the proceedings and is admissible in evidence without further proof.
 
@@ -440,7 +440,7 @@ In this Part, “member” includes a person acting as the deputy of that member
 
 ## PART 7 — Transitional provisions
 
-### 30. Definitions[^key-383003fe6d74bf54dc3a619f905edba7]
+### 30. Definitions[^c-383003fe6d74bf54dc3a619f905edba7]
 
 In this Part—
 
@@ -451,7 +451,7 @@ In this Part—
   - (a) in relation to a regional flood defence committee established under section 14 of the 1995 Act, the area of that committee as varied by any order under Schedule 4 to the 1995 Act, or
   - (b) in relation to a regional flood defence committee established by order under that Schedule, the area specified in that order as amended by any subsequent order under that Schedule.
 
-### 31. Transitional Committees[^key-3f8d59f27b1b4d5a60710344152066a7]
+### 31. Transitional Committees[^c-3f8d59f27b1b4d5a60710344152066a7]
 
 (1) On the coming into force of these Regulations, a regional flood defence committee established under the 1995 Act for a specified area and in existence on 31st March 2011 (“old Committee”) continues in existence as if it were established as a Regional Flood and Coastal Committee for a region covering the same area (“transitional Committee”).
 
@@ -468,7 +468,7 @@ In this Part—
 
 (6) A transitional Committee may consent to the spending of revenue under section 118 of the 1991 Act in its region in the financial year beginning with 1st April 2011.
 
-### 32. Continuation of terms for members of transitional Committees[^key-3eeaa78bf0e30d51498bc89678d0b282]
+### 32. Continuation of terms for members of transitional Committees[^c-3eeaa78bf0e30d51498bc89678d0b282]
 
 (1) The members and chair of an old Committee are taken to be the members and chair of the transitional Committee.
 
@@ -480,11 +480,11 @@ In this Part—
 
 (5) For the purpose of calculating the period of office under regulation 17, the date a person was appointed as a member or chair of an old Committee is taken to be the date of appointment to the transitional Committee.
 
-### 33. Continued existence of transitional Committees[^key-7f1f0cce0c10a81efc31e17d1a181a27]
+### 33. Continued existence of transitional Committees[^c-7f1f0cce0c10a81efc31e17d1a181a27]
 
 A transitional Committee continues in existence until a new Committee is established for the region of the transitional Committee or for any part of that region.
 
-### 34. Continuation of terms for members of new Committees[^key-288bfa1715ce2154ea917a9fd9a69be0]
+### 34. Continuation of terms for members of new Committees[^c-288bfa1715ce2154ea917a9fd9a69be0]
 
 If a person who was originally appointed as a member or chair of an old Committee continued as a member or chair of a transitional Committee and is appointed as a member or chair of a new Committee—
 
@@ -492,7 +492,7 @@ If a person who was originally appointed as a member or chair of an old Committe
 - (b) any arrangement under the 1995 Act for payment of the member continues for so long as the person holds office in the new Committee; and
 - (c) for the purpose of calculating the period of office under regulation 17, the date the person was appointed as a member or chair of the old Committee is taken to be the date of appointment to the new Committee.
 
-### 35. Isles of Scilly[^key-b324638b60d869c87cf1f68b9018a2d5]
+### 35. Isles of Scilly[^c-b324638b60d869c87cf1f68b9018a2d5]
 
 (1) On the coming into force of these Regulations—
 
@@ -545,110 +545,110 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00001]: Footnote: [2010 c. 29](https://www.legislation.gov.uk/ukpga/2010/29). The power to make regulations under sections 22(2) and 24 of the Flood and Water Management Act 2010 is conferred on “the Minister”. Section 26 of that Act defines “the Minister” for the purposes of those sections.
 
-[^key-0ebc4ced530d91918f1497c875d85fd0]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-0ebc4ced530d91918f1497c875d85fd0]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-84f36a67371191c0faa475fba40f78f8]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-84f36a67371191c0faa475fba40f78f8]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
 [^f00002]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
 [^f00003]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-de24ba9259ab729d73d249debbb5992e]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-de24ba9259ab729d73d249debbb5992e]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-71067cce02ee7b27db82f02d0b17d024]: Commencement: Reg. 4 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-71067cce02ee7b27db82f02d0b17d024]: Commencement: Reg. 4 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-9ddab9dac4a81f5376a4640e1287f39a]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2011/695/regulation/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 393(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/393/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9ddab9dac4a81f5376a4640e1287f39a]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2011/695/regulation/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 393(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/393/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-e5fa668b291e937bbda0f201692cb10f]: Textual amendment: Word in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2011/695/regulation/4/3/a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 393(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/393/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-e5fa668b291e937bbda0f201692cb10f]: Textual amendment: Word in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2011/695/regulation/4/3/a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 393(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/393/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^f00004]: Footnote: Section 118 of the Water Resources Act [1991 (c. 57)](https://www.legislation.gov.uk/ukpga/1991/57) is amended by paragraph 43 of Schedule 2 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-1b6598a61030268d3fc57309fbadcc1a]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2011/695/regulation/4/7) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 393(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/393/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1b6598a61030268d3fc57309fbadcc1a]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/uksi/2011/695/regulation/4/7) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 393(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/393/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-08c9028bc56649de483b6eb0cfef398d]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-08c9028bc56649de483b6eb0cfef398d]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-a4808e2afcf586567cf4a60451f09bab]: Textual amendment: Words in [regs. 5-7](https://www.legislation.gov.uk/uksi/2011/695/regulation/5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 394](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/394) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-a4808e2afcf586567cf4a60451f09bab]: Textual amendment: Words in [regs. 5-7](https://www.legislation.gov.uk/uksi/2011/695/regulation/5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 394](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/394) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-c15e98bd8fb1475262044e4ee602d6d0]: Commencement: Reg. 6 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-c15e98bd8fb1475262044e4ee602d6d0]: Commencement: Reg. 6 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-017a7519a7bdb4be133189c61f41e4dc]: Commencement: Reg. 7 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-017a7519a7bdb4be133189c61f41e4dc]: Commencement: Reg. 7 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-707969c877249392cff2d0a7f2b1e724]: Commencement: Reg. 8 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-707969c877249392cff2d0a7f2b1e724]: Commencement: Reg. 8 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-a27dbc2656218c7885ed2bd5a09a8382]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2011/695/regulation/8/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 394](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/394) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-a27dbc2656218c7885ed2bd5a09a8382]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2011/695/regulation/8/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 394](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/394) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-d7b6212ca767938c9177ddbb7c86e5a7]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2011/695/regulation/8/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 394](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/394) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-d7b6212ca767938c9177ddbb7c86e5a7]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2011/695/regulation/8/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 394](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/394) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-cfb3640f48dfe65bb766ac5c72e2d3d8]: Commencement: Reg. 9 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-cfb3640f48dfe65bb766ac5c72e2d3d8]: Commencement: Reg. 9 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-10b016f9ae918b186d9188674f917e02]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2011/695/regulation/9) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 394](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/394) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-10b016f9ae918b186d9188674f917e02]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2011/695/regulation/9) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 394](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/394) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ce482f06c98c46101394be8193e20c53]: Commencement: Reg. 10 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-ce482f06c98c46101394be8193e20c53]: Commencement: Reg. 10 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-740708a54544b6812bd050ed12d16017]: Commencement: Reg. 11 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-740708a54544b6812bd050ed12d16017]: Commencement: Reg. 11 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-527cc74c1b4c048a0f71b1614ae12619]: Textual amendment: Words in [reg. 11(1)(b)(i)](https://www.legislation.gov.uk/uksi/2011/695/regulation/11/1/b/i) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 395](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/395) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-527cc74c1b4c048a0f71b1614ae12619]: Textual amendment: Words in [reg. 11(1)(b)(i)](https://www.legislation.gov.uk/uksi/2011/695/regulation/11/1/b/i) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 395](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/395) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-5b4bafc51a080f2ea05051c464337e06]: Commencement: Reg. 12 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-5b4bafc51a080f2ea05051c464337e06]: Commencement: Reg. 12 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-a256f16e4ff75495f04629b770798655]: Commencement: Reg. 13 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-a256f16e4ff75495f04629b770798655]: Commencement: Reg. 13 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-58836c4ec71390886788f1ff1a389330]: Commencement: Reg. 14 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-58836c4ec71390886788f1ff1a389330]: Commencement: Reg. 14 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-0b90177859284eb47df83b44ed9f0c4f]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2011/695/regulation/14) and heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 4 para. 396](https://www.legislation.gov.uk/uksi/2013/755/schedule/4/paragraph/396) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
+[^c-0b90177859284eb47df83b44ed9f0c4f]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2011/695/regulation/14) and heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/uksi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/755/article/1/2), [Sch. 4 para. 396](https://www.legislation.gov.uk/uksi/2013/755/schedule/4/paragraph/396) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2013/755/schedule/7))
 
-[^key-935e5f31c7ba7818d9cd252fd93b66ea]: Commencement: Reg. 15 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-935e5f31c7ba7818d9cd252fd93b66ea]: Commencement: Reg. 15 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-b289c35762235b9095ba7058450a1d3d]: Commencement: Reg. 16 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-b289c35762235b9095ba7058450a1d3d]: Commencement: Reg. 16 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-f54048f90f171b326ecc2b119b976f09]: Commencement: Reg. 17 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-f54048f90f171b326ecc2b119b976f09]: Commencement: Reg. 17 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-2bcb7a4d117f1a8d6aee37816b6ab8f9]: Commencement: Reg. 18 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-2bcb7a4d117f1a8d6aee37816b6ab8f9]: Commencement: Reg. 18 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-18680c53d7acf8c3e1e4fc648d5c9902]: Textual amendment: Words in [reg. 18(1)(c)](https://www.legislation.gov.uk/uksi/2011/695/regulation/18/1/c) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 396](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/396) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-18680c53d7acf8c3e1e4fc648d5c9902]: Textual amendment: Words in [reg. 18(1)(c)](https://www.legislation.gov.uk/uksi/2011/695/regulation/18/1/c) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 396](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/396) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-63d93a83ce982df854e305cc859dba56]: Commencement: Reg. 19 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-63d93a83ce982df854e305cc859dba56]: Commencement: Reg. 19 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-80e16cede117ce720a3d798105ca35c7]: Textual amendment: Words in [reg. 19(1)(c)](https://www.legislation.gov.uk/uksi/2011/695/regulation/19/1/c) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 396](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/396) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-80e16cede117ce720a3d798105ca35c7]: Textual amendment: Words in [reg. 19(1)(c)](https://www.legislation.gov.uk/uksi/2011/695/regulation/19/1/c) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 396](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/396) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-c087192302be905eaa98016a4f03772f]: Commencement: Reg. 20 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-c087192302be905eaa98016a4f03772f]: Commencement: Reg. 20 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-9dc3e64b0a3ef8a09b07ba332c71e57b]: Commencement: Reg. 21 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-9dc3e64b0a3ef8a09b07ba332c71e57b]: Commencement: Reg. 21 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-9747285db2b2c709403e2bfeed7a2e8c]: Commencement: Reg. 22 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-9747285db2b2c709403e2bfeed7a2e8c]: Commencement: Reg. 22 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-f5a575f90e7b74152f5630b4cec28a21]: Textual amendment: Words in [reg. 22(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/22/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 396](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/396) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-f5a575f90e7b74152f5630b4cec28a21]: Textual amendment: Words in [reg. 22(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/22/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 396](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/396) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-23633a37e53839b599c9c926cd18362c]: Commencement: Reg. 23 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-23633a37e53839b599c9c926cd18362c]: Commencement: Reg. 23 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-3bc314071a6a0ce1e7d49d9b9a9ed677]: Commencement: Reg. 24 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-3bc314071a6a0ce1e7d49d9b9a9ed677]: Commencement: Reg. 24 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-f3b1dd544e9ba40c8fca05f0cad4e532]: Commencement: Reg. 25 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-f3b1dd544e9ba40c8fca05f0cad4e532]: Commencement: Reg. 25 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
 [^f00005]: Footnote: Section 118 of the Water Resources Act [1991 (c. 57)](https://www.legislation.gov.uk/ukpga/1991/57) is amended by paragraph 43 of Schedule 2 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-58e6b0348a98b73a894526eea6db4319]: Commencement: Reg. 26 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-58e6b0348a98b73a894526eea6db4319]: Commencement: Reg. 26 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-dc0059b891b8eb996038d06c3402a46a]: Commencement: Reg. 27 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-dc0059b891b8eb996038d06c3402a46a]: Commencement: Reg. 27 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-d9943fcf027f5d93c65d5df693199245]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/2011/695/regulation/27) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 396](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/396) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-d9943fcf027f5d93c65d5df693199245]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/2011/695/regulation/27) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 396](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/396) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ab1561b9b1193156990621f213f425b0]: Commencement: Reg. 28 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-ab1561b9b1193156990621f213f425b0]: Commencement: Reg. 28 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-e723af5e6ac618b263db19bf991344ba]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/uksi/2011/695/regulation/28/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 396](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/396) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-e723af5e6ac618b263db19bf991344ba]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/uksi/2011/695/regulation/28/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 396](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/396) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-e7dabbb0f64fd2376e04814d99c7eccf]: Commencement: Reg. 29 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-e7dabbb0f64fd2376e04814d99c7eccf]: Commencement: Reg. 29 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-383003fe6d74bf54dc3a619f905edba7]: Commencement: Reg. 30 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-383003fe6d74bf54dc3a619f905edba7]: Commencement: Reg. 30 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-3f8d59f27b1b4d5a60710344152066a7]: Commencement: Reg. 31 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-3f8d59f27b1b4d5a60710344152066a7]: Commencement: Reg. 31 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
 [^f00006]: Footnote: See the Environment Agency (Levies) Regulations 1993 ([S.I. 1993/61](https://www.legislation.gov.uk/uksi/1993/61)). “Special consent” has the meaning given in section 46(7) of the Land Drainage Act [1976 (c. 70)](https://www.legislation.gov.uk/ukpga/1976/70). Sections 45 to 47 of that Act were repealed by section 3 of, and Part 1 of Schedule 3 to, the Water Consolidation (Consequential Provisions) Act 1991 ([1991 c. 60](https://www.legislation.gov.uk/ukpga/1991/60)) but, by virtue of paragraph 2(5) of Part 1 of Schedule 2 to that Act, their repeal does not affect the operation of those sections so far as they have effect under any subordinate legislation made under the [Local Government Finance Act 1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41) and section 149 of the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42) for the purpose of or in connection with the issue of levies by the Environment Agency. Sections 46 and 47 of the Land Drainage Act [1976 (c. 70)](https://www.legislation.gov.uk/ukpga/1976/70) have effect under the Environment Agency (Levies) Regulations 1993 ([S.I. 1993/61](https://www.legislation.gov.uk/uksi/1993/61)).
 
-[^key-3eeaa78bf0e30d51498bc89678d0b282]: Commencement: Reg. 32 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-3eeaa78bf0e30d51498bc89678d0b282]: Commencement: Reg. 32 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-7f1f0cce0c10a81efc31e17d1a181a27]: Commencement: Reg. 33 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-7f1f0cce0c10a81efc31e17d1a181a27]: Commencement: Reg. 33 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-288bfa1715ce2154ea917a9fd9a69be0]: Commencement: Reg. 34 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-288bfa1715ce2154ea917a9fd9a69be0]: Commencement: Reg. 34 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
 
-[^key-b324638b60d869c87cf1f68b9018a2d5]: Commencement: Reg. 35 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)
+[^c-b324638b60d869c87cf1f68b9018a2d5]: Commencement: Reg. 35 in force at 1.4.2011, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2011/695/regulation/1/1/b)

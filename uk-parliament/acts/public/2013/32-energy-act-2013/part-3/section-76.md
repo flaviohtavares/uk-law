@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Nuclear regulations: civil liability[^key-834c042b4fe0baec92756ba4574514eb]
+## 76. Nuclear regulations: civil liability[^c-834c042b4fe0baec92756ba4574514eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-834c042b4fe0baec92756ba4574514eb]: Commencement: S. 76 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-834c042b4fe0baec92756ba4574514eb]: Commencement: S. 76 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

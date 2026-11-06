@@ -77,7 +77,7 @@ In each instrument made under sections 6 and 7 of the WIA [^c1487820] appointing
 
 is to have effect as a reference to the Consumer Council for Water.
 
-### 3. Amendments to the Water Supply (Water Quality) Regulations 2000[^key-f7b853ace27bdf93c1194d9fa4a2e9d5]
+### 3. Amendments to the Water Supply (Water Quality) Regulations 2000[^c-f7b853ace27bdf93c1194d9fa4a2e9d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -91,7 +91,7 @@ is to have effect as a reference to the Consumer Council for Water.
 
 (4) In regulation 24 (revocation and modification of authorisations), in paragraph (2)(d), for “relevant customer services committee” there is substituted “ Council ”.
 
-(5)[^key-7d1412d4ea5fd83738615a5e9645dfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7d1412d4ea5fd83738615a5e9645dfa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — WATER SUPPLY LICENSING
 
@@ -181,7 +181,7 @@ For section 55 of the Food Safety Act 1990 [^c1487825], there is substituted—
   ; and
 - (b) in the definition of “the relevant enforcement authority”, in sub-paragraph (a), after “mainly in Wales” there is inserted “ or a company which is a licensed water supplier as regards licensed activities using the supply system of any such water undertaker ”.
 
-### 10. Amendments to the Water Supply (Water Quality) Regulations 2000[^key-2bc9eff745601750373371482f8d1d34]
+### 10. Amendments to the Water Supply (Water Quality) Regulations 2000[^c-2bc9eff745601750373371482f8d1d34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -189,7 +189,7 @@ For section 55 of the Food Safety Act 1990 [^c1487825], there is substituted—
 
 (1) The Water Supply (Water Quality) Regulations 2001 are amended as follows.
 
-(2)[^key-5cd710d1b1b00c14483afdb02669b9d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5cd710d1b1b00c14483afdb02669b9d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 2 (interpretation)—
 
@@ -357,8 +357,8 @@ and the text preceding this paragraph in regulation 12 is renumbered as paragrap
 
 (18) In regulation 23 (publicity for authorisations)—
 
-- (a)[^key-7dd14610858c1c9ef980ee157d11f5df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7dd14610858c1c9ef980ee157d11f5df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7dd14610858c1c9ef980ee157d11f5df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7dd14610858c1c9ef980ee157d11f5df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) at the end there is inserted—
 
   > (2) In this regulation “**specified relevant suppliers**” means relevant suppliers—
@@ -379,13 +379,13 @@ and the text preceding this paragraph in regulation 23 is renumbered as paragrap
 
   .
 
-(20)[^key-9f33472c4b052dbea1ee30ad19c486a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(20)[^c-9f33472c4b052dbea1ee30ad19c486a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(21)[^key-9f33472c4b052dbea1ee30ad19c486a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(21)[^c-9f33472c4b052dbea1ee30ad19c486a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(22)[^key-9f33472c4b052dbea1ee30ad19c486a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(22)[^c-9f33472c4b052dbea1ee30ad19c486a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(23)[^key-9f33472c4b052dbea1ee30ad19c486a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(23)[^c-9f33472c4b052dbea1ee30ad19c486a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (24) In regulation 30 (contamination from pipes)—
 
@@ -399,7 +399,7 @@ and the text preceding this paragraph in regulation 23 is renumbered as paragrap
 
 (26) In regulation 32 (use of processes), after “water undertaker”, in each place where it appears, there is inserted “ or combined licensee ”.
 
-(27) In regulation 33 (offences) in paragraphs [^key-684b20103ab11696d7cc30265d337305]... (3) and (4) (in each place where it appears), after “water undertaker” there is inserted “ or combined licensee ”.
+(27) In regulation 33 (offences) in paragraphs [^c-684b20103ab11696d7cc30265d337305]... (3) and (4) (in each place where it appears), after “water undertaker” there is inserted “ or combined licensee ”.
 
 (28) In regulation 34 (maintenance of records)—
 
@@ -443,9 +443,9 @@ and the text preceding this paragraph in regulation 23 is renumbered as paragrap
   - (ii) in sub-paragraph (a), after “paragraph (1)” there is inserted “ or in sub-paragraph (a) of paragraph (1A) ”; and
   - (iii) in sub-paragraph (b), for “that paragraph” there is inserted “ paragraph (1) or paragraph (1A) ”.
 
-(29)[^key-68dc573e9bdabf29c73ebd34aed648d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(29)[^c-68dc573e9bdabf29c73ebd34aed648d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(30)[^key-68dc573e9bdabf29c73ebd34aed648d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(30)[^c-68dc573e9bdabf29c73ebd34aed648d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (31) In regulation 37 (application and interpretation), for paragraph (2), there is substituted—
 
@@ -510,7 +510,7 @@ In regulation 3 (assistance to be provided) of the Water Industry (Charges) (Vul
 
 In regulation 3 (areas of water scarcity) of the Water Industry (Prescribed Conditions) Regulations 1999 [^c1487841], in paragraph (3)(a), for “Director” there is substituted “ Authority ”.
 
-### 20. Amendment to the Water Supply (Water Quality) Regulations 2000[^key-c9aa649638643d07bcb4d0478e325527]
+### 20. Amendment to the Water Supply (Water Quality) Regulations 2000[^c-c9aa649638643d07bcb4d0478e325527]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -559,11 +559,11 @@ No regulatory impact assessment has been prepared in respect of these Regulation
 
 [^c1487820]: Marginal citation: [Water Industry Act 1991 (c. 56)](https://www.legislation.gov.uk/ukpga/1991/56); see [section 105(2)](https://www.legislation.gov.uk/ukpga/1991/56/section/105/2) of the Water Act 2003.
 
-[^key-f7b853ace27bdf93c1194d9fa4a2e9d5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/2035/regulation/3) revoked (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
+[^c-f7b853ace27bdf93c1194d9fa4a2e9d5]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/2035/regulation/3) revoked (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
 
 [^c1487822]: Marginal citation: [S.I. 2001/3911](https://www.legislation.gov.uk/uksi/2001/3911) (W. 323).
 
-[^key-7d1412d4ea5fd83738615a5e9645dfa1]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/4/5) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/2)
+[^c-7d1412d4ea5fd83738615a5e9645dfa1]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/4/5) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/2)
 
 [^c1487823]: Marginal citation: [S.I. 1988/1048](https://www.legislation.gov.uk/uksi/1988/1048), amended by [S.I. 1988/1288](https://www.legislation.gov.uk/uksi/1988/1288).
 
@@ -577,9 +577,9 @@ No regulatory impact assessment has been prepared in respect of these Regulation
 
 [^c1487828]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-2bc9eff745601750373371482f8d1d34]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/2035/regulation/10) revoked (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
+[^c-2bc9eff745601750373371482f8d1d34]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/2035/regulation/10) revoked (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
 
-[^key-5cd710d1b1b00c14483afdb02669b9d3]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/2) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/3/a)
+[^c-5cd710d1b1b00c14483afdb02669b9d3]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/2) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/3/a)
 
 [^c1487833]: Marginal citation: Section 66D was inserted by section 56 of, and paragraph 3 of Schedule 4 to, the [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37).
 
@@ -589,13 +589,13 @@ No regulatory impact assessment has been prepared in respect of these Regulation
 
 [^c1487836]: Marginal citation: Section 17B was inserted by section 56 of, and paragraph 2 of Schedule 4 to, the Water Act 2003.
 
-[^key-7dd14610858c1c9ef980ee157d11f5df]: Textual amendment: [Reg. 11(18)(a)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/18/a)[(b)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/18/b) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/3/a)
+[^c-7dd14610858c1c9ef980ee157d11f5df]: Textual amendment: [Reg. 11(18)(a)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/18/a)[(b)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/18/b) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/3/a)
 
-[^key-9f33472c4b052dbea1ee30ad19c486a8]: Textual amendment: [Reg. 11(20)-(23)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/20) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/3/a)
+[^c-9f33472c4b052dbea1ee30ad19c486a8]: Textual amendment: [Reg. 11(20)-(23)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/20) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/3/a)
 
-[^key-684b20103ab11696d7cc30265d337305]: Textual amendment: Word in [reg. 11(27)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/27) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/3/b)
+[^c-684b20103ab11696d7cc30265d337305]: Textual amendment: Word in [reg. 11(27)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/27) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/3/b)
 
-[^key-68dc573e9bdabf29c73ebd34aed648d6]: Textual amendment: [Reg. 11(29)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/29)[(30)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/30) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/3/a)
+[^c-68dc573e9bdabf29c73ebd34aed648d6]: Textual amendment: [Reg. 11(29)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/29)[(30)](https://www.legislation.gov.uk/uksi/2005/2035/regulation/11/30) omitted (22.12.2007) by virtue of [The Water Supply (Water Quality) Regulations 2001 (Amendment) Regulations 2007 (S.I. 2007/3374)](https://www.legislation.gov.uk/wsi/2007/3374), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/wsi/2007/3374/regulation/6/3/a)
 
 [^c1487837]: Marginal citation: [S.I. 1989/1154](https://www.legislation.gov.uk/uksi/1989/1154).
 
@@ -607,7 +607,7 @@ No regulatory impact assessment has been prepared in respect of these Regulation
 
 [^c1487841]: Marginal citation: [S.I. 1999/3442](https://www.legislation.gov.uk/uksi/1999/3442).
 
-[^key-c9aa649638643d07bcb4d0478e325527]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2005/2035/regulation/20) revoked (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
+[^c-c9aa649638643d07bcb4d0478e325527]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2005/2035/regulation/20) revoked (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2016/614/schedule/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
 
 [^c1487842]: Marginal citation: [S.I. 2003/3242](https://www.legislation.gov.uk/uksi/2003/3242).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Abolition of tribunals transferred under section 30(1)[^key-81593892dd202ba6c0eaf7c74b5bda2f]
+## 4. Abolition of tribunals transferred under section 30(1)[^c-81593892dd202ba6c0eaf7c74b5bda2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The tribunals listed in Table 1 and Table 2 of Schedule 1 are abolished except f
 
 ## Annotations
 
-[^key-81593892dd202ba6c0eaf7c74b5bda2f]: Commencement: Art. 4 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+[^c-81593892dd202ba6c0eaf7c74b5bda2f]: Commencement: Art. 4 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)

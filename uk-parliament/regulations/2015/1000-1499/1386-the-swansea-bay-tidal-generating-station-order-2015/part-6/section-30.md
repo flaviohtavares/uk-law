@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Acquisition of subsoil only[^key-b5c00511c438bec3928a0d4ca72fc2ac]
+## 30. Acquisition of subsoil only[^c-b5c00511c438bec3928a0d4ca72fc2ac]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5c00511c438bec3928a0d4ca72fc2ac]: Commencement: Art. 30 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-b5c00511c438bec3928a0d4ca72fc2ac]: Commencement: Art. 30 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

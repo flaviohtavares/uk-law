@@ -45,7 +45,7 @@ Section 58(2)
 | Care Standards Act 2000 (c. 14) | In Schedule 4, paragraph 16. |
 | Criminal Justice and Court Services Act 2000 (c. 43) | Section 69.<br>In Schedule 7, paragraphs 99 to 102. |
 | Sexual Offences Act 2003 (c. 42) | Section 135(4)(c). |
-| [^key-2ef666682866071ac912bdeebe398ad5]. . . | [^key-2ef666682866071ac912bdeebe398ad5]. . . |
+| [^c-2ef666682866071ac912bdeebe398ad5]. . . | [^c-2ef666682866071ac912bdeebe398ad5]. . . |
 
 ## Annotations
 
@@ -53,4 +53,4 @@ Section 58(2)
 
 [^c21240491]: Textual amendment: Sch. 11: words substituted (1.10.2009) wherever they occur in Act by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-2ef666682866071ac912bdeebe398ad5]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 40(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/40/3); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
+[^c-2ef666682866071ac912bdeebe398ad5]: Textual amendment: Words in [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 40(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/40/3); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)

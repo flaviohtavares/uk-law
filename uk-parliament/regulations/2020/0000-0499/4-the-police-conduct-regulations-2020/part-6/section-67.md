@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Referral to reflective practice review process[^key-72534c43f35cf9c3c1601fe53901a6cf]
+## 67. Referral to reflective practice review process[^c-72534c43f35cf9c3c1601fe53901a6cf]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72534c43f35cf9c3c1601fe53901a6cf]: Commencement: Reg. 67 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-72534c43f35cf9c3c1601fe53901a6cf]: Commencement: Reg. 67 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

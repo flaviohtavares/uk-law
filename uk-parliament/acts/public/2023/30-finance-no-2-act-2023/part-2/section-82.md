@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Approval requirement: producers[^M_I_db9548c8-d21a-4b8f-ae6b-26ee9b8590cd][^key-c1fa21454ba38d8d84752c9c420e2d56]
+## 82. Approval requirement: producers[^M_I_db9548c8-d21a-4b8f-ae6b-26ee9b8590cd][^c-c1fa21454ba38d8d84752c9c420e2d56]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^M_I_db9548c8-d21a-4b8f-ae6b-26ee9b8590cd]: Commencement: S. 82 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-c1fa21454ba38d8d84752c9c420e2d56]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2023/30/section/82) in force at 1.2.2025 by [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))
+[^c-c1fa21454ba38d8d84752c9c420e2d56]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2023/30/section/82) in force at 1.2.2025 by [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))

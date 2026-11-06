@@ -39,16 +39,16 @@ granting derogations to certain Member States as regards the provision of statis
 
 (Text with EEA relevance) (revoked)
 
-[^key-4f38ae5fea4850fdd06b8fcf658d3ffc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f38ae5fea4850fdd06b8fcf658d3ffc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-4f38ae5fea4850fdd06b8fcf658d3ffc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4f38ae5fea4850fdd06b8fcf658d3ffc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4f38ae5fea4850fdd06b8fcf658d3ffc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4f38ae5fea4850fdd06b8fcf658d3ffc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4f38ae5fea4850fdd06b8fcf658d3ffc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f38ae5fea4850fdd06b8fcf658d3ffc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4f38ae5fea4850fdd06b8fcf658d3ffc]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 84](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/84)
+[^c-4f38ae5fea4850fdd06b8fcf658d3ffc]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 84](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/84)

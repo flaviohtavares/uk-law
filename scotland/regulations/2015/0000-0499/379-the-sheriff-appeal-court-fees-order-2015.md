@@ -32,7 +32,7 @@ summary: ''
 
 Sheriff Appeal Court
 
-The Sheriff Appeal Court Fees Order 2015 (revoked)[^key-0846abc90431f9aff57c74ab88a5b1b7]
+The Sheriff Appeal Court Fees Order 2015 (revoked)[^c-0846abc90431f9aff57c74ab88a5b1b7]
 
 Made
 
@@ -44,43 +44,43 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with article 1
 
-[^key-0846abc90431f9aff57c74ab88a5b1b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0846abc90431f9aff57c74ab88a5b1b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-0846abc90431f9aff57c74ab88a5b1b7]
+## 1. Citation, commencement and effect[^c-0846abc90431f9aff57c74ab88a5b1b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable in the Sheriff Appeal Court[^key-0846abc90431f9aff57c74ab88a5b1b7]
+## 2. Fees payable in the Sheriff Appeal Court[^c-0846abc90431f9aff57c74ab88a5b1b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption of certain persons from fees[^key-0846abc90431f9aff57c74ab88a5b1b7]
+## 3. Exemption of certain persons from fees[^c-0846abc90431f9aff57c74ab88a5b1b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemptions relating to particular proceedings[^key-0846abc90431f9aff57c74ab88a5b1b7]
+## 4. Exemptions relating to particular proceedings[^c-0846abc90431f9aff57c74ab88a5b1b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0846abc90431f9aff57c74ab88a5b1b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0846abc90431f9aff57c74ab88a5b1b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — TABLE OF FEES[^key-0846abc90431f9aff57c74ab88a5b1b7]
+## SCHEDULE 1 — TABLE OF FEES[^c-0846abc90431f9aff57c74ab88a5b1b7]
 
 Article 2(1)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — TABLE OF FEES[^key-0846abc90431f9aff57c74ab88a5b1b7]
+## SCHEDULE 2 — TABLE OF FEES[^c-0846abc90431f9aff57c74ab88a5b1b7]
 
 Article 2(1)(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — TABLE OF FEES[^key-0846abc90431f9aff57c74ab88a5b1b7]
+## SCHEDULE 3 — TABLE OF FEES[^c-0846abc90431f9aff57c74ab88a5b1b7]
 
 Article 2(1)(c)
 
@@ -88,8 +88,8 @@ Article 2(1)(c)
 
 **May not be in force at this date. Check the source.**
 
-[^key-0846abc90431f9aff57c74ab88a5b1b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0846abc90431f9aff57c74ab88a5b1b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0846abc90431f9aff57c74ab88a5b1b7]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2015/379) revoked (25.4.2018) by [The Sheriff Appeal Court Fees Order 2018 (revoked) 2018 (S.S.I. 2018/82)](https://www.legislation.gov.uk/ssi/2018/82), [arts. 1](https://www.legislation.gov.uk/ssi/2018/82/article/1), [7](https://www.legislation.gov.uk/ssi/2018/82/article/7)
+[^c-0846abc90431f9aff57c74ab88a5b1b7]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2015/379) revoked (25.4.2018) by [The Sheriff Appeal Court Fees Order 2018 (revoked) 2018 (S.S.I. 2018/82)](https://www.legislation.gov.uk/ssi/2018/82), [arts. 1](https://www.legislation.gov.uk/ssi/2018/82/article/1), [7](https://www.legislation.gov.uk/ssi/2018/82/article/7)

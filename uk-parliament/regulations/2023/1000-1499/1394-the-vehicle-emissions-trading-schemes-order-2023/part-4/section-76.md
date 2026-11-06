@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Maintenance and audit of records by SPV manufacturers[^key-da3d1d3c14e343d58ec7b91975bb5b6e]
+## 76. Maintenance and audit of records by SPV manufacturers[^c-da3d1d3c14e343d58ec7b91975bb5b6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da3d1d3c14e343d58ec7b91975bb5b6e]: Commencement: Art. 76 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-da3d1d3c14e343d58ec7b91975bb5b6e]: Commencement: Art. 76 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

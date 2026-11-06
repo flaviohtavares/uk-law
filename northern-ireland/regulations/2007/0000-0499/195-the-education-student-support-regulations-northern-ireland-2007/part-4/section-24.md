@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Old system students who are continuing students[^key-1701d7246a6e5c8142b5ad44e971a3f7]
+## 24. Old system students who are continuing students[^c-1701d7246a6e5c8142b5ad44e971a3f7]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ where
 
 ## Annotations
 
-[^key-1701d7246a6e5c8142b5ad44e971a3f7]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2007/195/regulation/24) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-1701d7246a6e5c8142b5ad44e971a3f7]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2007/195/regulation/24) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

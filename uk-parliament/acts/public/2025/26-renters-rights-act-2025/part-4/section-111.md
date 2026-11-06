@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. Lead enforcement authority[^key-710c2309e132f3dea1105795b8bc0beb]
+## 111. Lead enforcement authority[^c-710c2309e132f3dea1105795b8bc0beb]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-710c2309e132f3dea1105795b8bc0beb]: Commencement: S. 111 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-710c2309e132f3dea1105795b8bc0beb]: Commencement: S. 111 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Determination of applications for operators’ licences[^key-1936d2e76b7988f20015dac28c12da49]
+## 13. Determination of applications for operators’ licences[^c-1936d2e76b7988f20015dac28c12da49]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) whether the requirements of sections 13B and 13C are satisfied, and
 - (b) if the commissioner thinks fit, whether the requirement of section 13D is satisfied.
 
-(3) Subsections (1) and (2) are subject to section 11 (publication of application), if applicable, and section[^key-3520b21eda4f10d0f9dfd26c2799cb89] 45(2) (payment of application fee).
+(3) Subsections (1) and (2) are subject to section 11 (publication of application), if applicable, and section[^c-3520b21eda4f10d0f9dfd26c2799cb89] 45(2) (payment of application fee).
 
 (4) In considering whether any of the requirements of sections 13A to 13D are satisfied, the traffic commissioner must have regard to any objection duly made under section 12(1)(a) in respect of the application.
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1936d2e76b7988f20015dac28c12da49]: Textual amendment: Ss. 13-13D substituted (E.W.S.) for s. 13 (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/5) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/2))
+[^c-1936d2e76b7988f20015dac28c12da49]: Textual amendment: Ss. 13-13D substituted (E.W.S.) for s. 13 (4.12.2011) by [The Road Transport Operator Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/5) (with [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/part/2))
 
-[^key-3520b21eda4f10d0f9dfd26c2799cb89]: Textual amendment: Words in [s. 13(3)](https://www.legislation.gov.uk/ukpga/1995/23/section/13/3) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [31](https://www.legislation.gov.uk/uksi/2022/293/regulation/31)
+[^c-3520b21eda4f10d0f9dfd26c2799cb89]: Textual amendment: Words in [s. 13(3)](https://www.legislation.gov.uk/ukpga/1995/23/section/13/3) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [31](https://www.legislation.gov.uk/uksi/2022/293/regulation/31)

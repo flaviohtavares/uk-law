@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 28C. Low-range co-firing in the 2013/14 and 2014/15 obligation periods[^key-680ccff0063d6dac6e5b9b0977b74802]
+## 28C. Low-range co-firing in the 2013/14 and 2014/15 obligation periods[^c-680ccff0063d6dac6e5b9b0977b74802]
 
 (1) This article applies to electricity which is generated—
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-680ccff0063d6dac6e5b9b0977b74802]: Textual amendment: Arts. 28A-28E inserted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [13](https://www.legislation.gov.uk/ssi/2013/116/article/13) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
+[^c-680ccff0063d6dac6e5b9b0977b74802]: Textual amendment: Arts. 28A-28E inserted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [13](https://www.legislation.gov.uk/ssi/2013/116/article/13) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))

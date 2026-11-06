@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Pre-departure accommodation for families[^key-3422b0fdff5de284ed240ebfadad4856]
+## 6. Pre-departure accommodation for families[^c-3422b0fdff5de284ed240ebfadad4856]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3422b0fdff5de284ed240ebfadad4856]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/22/section/6) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/e)
+[^c-3422b0fdff5de284ed240ebfadad4856]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/22/section/6) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/e)

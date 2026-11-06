@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65.[^key-21d2fda25e88a9832942a20f7c49b44d]
+## 65.[^c-21d2fda25e88a9832942a20f7c49b44d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 32 (form and content of a preliminary adjustment plan or an adjustmen
 
 ## Annotations
 
-[^key-21d2fda25e88a9832942a20f7c49b44d]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2019/449/regulation/65) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-21d2fda25e88a9832942a20f7c49b44d]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2019/449/regulation/65) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

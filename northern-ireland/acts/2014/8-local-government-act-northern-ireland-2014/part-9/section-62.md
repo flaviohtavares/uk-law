@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Disclosure and registration of councillors' interests, etc.[^key-84f354d331b084a80e2097f55204665e]
+## 62. Disclosure and registration of councillors' interests, etc.[^c-84f354d331b084a80e2097f55204665e]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84f354d331b084a80e2097f55204665e]: Commencement: S. 62 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-84f354d331b084a80e2097f55204665e]: Commencement: S. 62 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

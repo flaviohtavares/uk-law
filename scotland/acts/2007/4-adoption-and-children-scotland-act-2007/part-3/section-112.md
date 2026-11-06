@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Service of notices etc.[^key-f893ea8bc7f5397b04eac3b86d913aa7]
+## 112. Service of notices etc.[^c-f893ea8bc7f5397b04eac3b86d913aa7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any notice or information required to be given under this Act may be given by po
 
 ## Annotations
 
-[^key-f893ea8bc7f5397b04eac3b86d913aa7]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2007/4/section/112) in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)
+[^c-f893ea8bc7f5397b04eac3b86d913aa7]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2007/4/section/112) in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)

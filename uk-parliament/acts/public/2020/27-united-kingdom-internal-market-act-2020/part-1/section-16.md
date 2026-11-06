@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Interpretation of other expressions used in Part 1[^key-2c95db0e095e624030353e49affa9446]
+## 16. Interpretation of other expressions used in Part 1[^c-2c95db0e095e624030353e49affa9446]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ are, despite the re-importation, to continue to be regarded as goods produced in
 
 ## Annotations
 
-[^key-2c95db0e095e624030353e49affa9446]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2020/27/section/16) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-2c95db0e095e624030353e49affa9446]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2020/27/section/16) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

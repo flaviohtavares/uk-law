@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Back-dating of a Jobseeker’s Agreement by an adjudication officer[^key-73f3cbb5eeaaf83b508e4f92b227d8fc]
+## 32. Back-dating of a Jobseeker’s Agreement by an adjudication officer[^c-73f3cbb5eeaaf83b508e4f92b227d8fc]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ In giving a direction under Article 11(7)(c) of the Order, the adjudication offi
 
 ## Annotations
 
-[^key-73f3cbb5eeaaf83b508e4f92b227d8fc]: Commencement: Reg. 32 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-73f3cbb5eeaaf83b508e4f92b227d8fc]: Commencement: Reg. 32 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

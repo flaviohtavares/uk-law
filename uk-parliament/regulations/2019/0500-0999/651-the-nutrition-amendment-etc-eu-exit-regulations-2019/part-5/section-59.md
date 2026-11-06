@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Amendment of Commission Regulation (EU) No 1226/2014[^key-2d2649fc9df383d12934936f4db7b82e]
+## 59. Amendment of Commission Regulation (EU) No 1226/2014[^c-2d2649fc9df383d12934936f4db7b82e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,13 +24,13 @@ summary: ''
 
 (2) In Article 1—
 
-- (a) in paragraph 1, for “Union” substitute “ Great Britain[^key-fd7f6940dd142ed90b2548381169ac71] ”;
+- (a) in paragraph 1, for “Union” substitute “ Great Britain[^c-fd7f6940dd142ed90b2548381169ac71] ”;
 - (b) omit paragraph 2.
 
 (3) Omit Article 2.
 
 ## Annotations
 
-[^key-2d2649fc9df383d12934936f4db7b82e]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-2d2649fc9df383d12934936f4db7b82e]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-fd7f6940dd142ed90b2548381169ac71]: Textual amendment: Words in [reg. 59](https://www.legislation.gov.uk/uksi/2019/651/regulation/59) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/3)[(4)(o)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/4/o)
+[^c-fd7f6940dd142ed90b2548381169ac71]: Textual amendment: Words in [reg. 59](https://www.legislation.gov.uk/uksi/2019/651/regulation/59) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/3)[(4)(o)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/4/o)

@@ -229,7 +229,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 3.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-a46b813ce116f4d4e7a9b7055c8f1f16]...
+[^c-a46b813ce116f4d4e7a9b7055c8f1f16]...
 
 Done at Brussels, 28 February 2019.
 
@@ -243,7 +243,7 @@ Jean-Claude Juncker
 
 | *Class of food* | *Generic descriptor* |
 | --- | --- |
-| Hard and soft sweets based on sugars as well as sugar-free and calorie-reduced variants based on sweeteners (polyols and/or intense sweeteners) containing extracts of herbs, fruit or other plant substances, honey or malt[^key-fe4a1f86bf94378b83810280ec2afec7] | Cough drops |
+| Hard and soft sweets based on sugars as well as sugar-free and calorie-reduced variants based on sweeteners (polyols and/or intense sweeteners) containing extracts of herbs, fruit or other plant substances, honey or malt[^c-fe4a1f86bf94378b83810280ec2afec7] | Cough drops |
 | Non-alcoholic carbonated beverage containing the bittering agent quinine in the form of the flavourings FL 14.011, FL 14.152 or FL 14.155 as referred to in the domestic list of flavourings as laid down in Annex I to Regulation [(EC) No 1334/2008](https://www.legislation.gov.uk/eur/2008/1334) | Tonic |
 
 ## Annotations
@@ -256,6 +256,6 @@ Jean-Claude Juncker
 
 [^f00004]: Footnote: Regulation (EC) No 1334/2008 of the European Parliament and of the Council of 16 December 2008 on flavourings and certain food ingredients with flavouring properties for use in and on foods and amending Council Regulation (EEC) No 1601/91, Regulations (EC) No 2232/96 and (EC) No 110/2008 and Directive 2000/13/EC ([OJ L 354, 31.12.2008, p. 34](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.354.01.0034.01.ENG)).
 
-[^key-a46b813ce116f4d4e7a9b7055c8f1f16]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/343/signature) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/9/2)
+[^c-a46b813ce116f4d4e7a9b7055c8f1f16]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/343/signature) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/9/2)
 
-[^key-fe4a1f86bf94378b83810280ec2afec7]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2019/343/annex) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/9/3)
+[^c-fe4a1f86bf94378b83810280ec2afec7]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2019/343/annex) substituted (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/9/3)

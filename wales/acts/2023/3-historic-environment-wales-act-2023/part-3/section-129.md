@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 129. Grounds for appeal not to be raised in other proceedings[^key-be5eaeb777a232ff6b921cc2a490ba55][^key-1dc08a56c8433b204b9657fdc4ac8fd4]
+## 129. Grounds for appeal not to be raised in other proceedings[^c-be5eaeb777a232ff6b921cc2a490ba55][^c-1dc08a56c8433b204b9657fdc4ac8fd4]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The validity of an enforcement notice may not be questioned, on any of the groun
 
 ## Annotations
 
-[^key-be5eaeb777a232ff6b921cc2a490ba55]: Commencement: S. 129 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-be5eaeb777a232ff6b921cc2a490ba55]: Commencement: S. 129 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-1dc08a56c8433b204b9657fdc4ac8fd4]: Commencement: [S. 129](https://www.legislation.gov.uk/asc/2023/3/section/129) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-1dc08a56c8433b204b9657fdc4ac8fd4]: Commencement: [S. 129](https://www.legislation.gov.uk/asc/2023/3/section/129) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

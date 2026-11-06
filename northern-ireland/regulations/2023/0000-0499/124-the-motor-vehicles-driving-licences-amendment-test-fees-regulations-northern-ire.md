@@ -44,11 +44,11 @@ Coming into operation
 
 The Department for Infrastructure[^f00001] makes the following Regulations, in exercise of the powers conferred by Articles 5(3), (4) and (5), 19C(1) and 218(1) of the Road Traffic (Northern Ireland) Order 1981[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-e9257c1a1cf152ee8c5e8afab206f16f]
+## 1. Citation and commencement[^c-e9257c1a1cf152ee8c5e8afab206f16f]
 
 These Regulations may be cited as the Motor Vehicles (Driving Licences) (Amendment) (Test Fees) Regulations (Northern Ireland) 2023 and shall come into operation on 1<sup>st</sup> October 2023.
 
-## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations[^key-03d7bcd41e1f4c28e11c45bb045d849e]
+## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations[^c-03d7bcd41e1f4c28e11c45bb045d849e]
 
 For Schedule 4 of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^f00004] substitute —
 
@@ -126,8 +126,8 @@ An Explanatory Memorandum has been produced and is available from Safe and Acces
 
 [^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-e9257c1a1cf152ee8c5e8afab206f16f]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/124/regulation/1)
+[^c-e9257c1a1cf152ee8c5e8afab206f16f]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/124/regulation/1)
 
-[^key-03d7bcd41e1f4c28e11c45bb045d849e]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/124/regulation/1)
+[^c-03d7bcd41e1f4c28e11c45bb045d849e]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/124/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1996 No. 542](https://www.legislation.gov.uk/nisr/1996/542); Schedule 4 was substituted by [S.R. 2009 No. 73](https://www.legislation.gov.uk/nisr/2009/73), regulation 2 and amended by [S.R. 2012 No. 170](https://www.legislation.gov.uk/nisr/2012/170), regulation 3(29)

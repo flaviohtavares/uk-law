@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63A.1. Scope of this Part and interpretation[^key-d8c0f345ffc2013396e365a50f61eb56]
+## 63A.1. Scope of this Part and interpretation[^c-d8c0f345ffc2013396e365a50f61eb56]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8c0f345ffc2013396e365a50f61eb56]: Textual amendment: [Pt. 63A](https://www.legislation.gov.uk/uksi/1998/3132/part/63A) inserted (1.10.2015) by [The Civil Procedure (Amendment No. 4) Rules 2015 (S.I. 2015/1569)](https://www.legislation.gov.uk/uksi/2015/1569), [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/1569/rule/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1569/schedule)
+[^c-d8c0f345ffc2013396e365a50f61eb56]: Textual amendment: [Pt. 63A](https://www.legislation.gov.uk/uksi/1998/3132/part/63A) inserted (1.10.2015) by [The Civil Procedure (Amendment No. 4) Rules 2015 (S.I. 2015/1569)](https://www.legislation.gov.uk/uksi/2015/1569), [rule 1(2)](https://www.legislation.gov.uk/uksi/2015/1569/rule/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1569/schedule)

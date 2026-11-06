@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Overhead lines: consent[^key-fcc8b06dd0f50fa1ff621a83f00e1e3b]
+## SCHEDULE 4 — Overhead lines: consent[^c-fcc8b06dd0f50fa1ff621a83f00e1e3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -132,12 +132,12 @@ they shall, within 14 days of receiving the application, also invite the appropr
 
 ### Interpretation
 
-**12.**[^key-d035a90e852ddef089e99da1cf02ae2c] In this Schedule, references to the appropriate Ministers are to the Secretary of State for Energy Security and Net Zero[^key-1c3e9eb4d4f8df9a545c68f527ff491e] and the Secretary of State for Transport acting jointly.
+**12.**[^c-d035a90e852ddef089e99da1cf02ae2c] In this Schedule, references to the appropriate Ministers are to the Secretary of State for Energy Security and Net Zero[^c-1c3e9eb4d4f8df9a545c68f527ff491e] and the Secretary of State for Transport acting jointly.
 
 ## Annotations
 
-[^key-fcc8b06dd0f50fa1ff621a83f00e1e3b]: Modification: [Sch. 4](https://www.legislation.gov.uk/ukpga/2008/18/schedule/4): functions transferred (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2023/424/article/7/2) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-fcc8b06dd0f50fa1ff621a83f00e1e3b]: Modification: [Sch. 4](https://www.legislation.gov.uk/ukpga/2008/18/schedule/4): functions transferred (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2023/424/article/7/2) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-d035a90e852ddef089e99da1cf02ae2c]: Modification: Sch. 4 para. 12 transfer of functions (5.3.2009) by [Secretary of State for Energy and Climate Change Order 2009 (S.I. 2009/229)](https://www.legislation.gov.uk/uksi/2009/229), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/229/article/1/2), [4](https://www.legislation.gov.uk/uksi/2009/229/article/4), [Sch. 1(j)](https://www.legislation.gov.uk/uksi/2009/229/schedule/1/j)
+[^c-d035a90e852ddef089e99da1cf02ae2c]: Modification: Sch. 4 para. 12 transfer of functions (5.3.2009) by [Secretary of State for Energy and Climate Change Order 2009 (S.I. 2009/229)](https://www.legislation.gov.uk/uksi/2009/229), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/229/article/1/2), [4](https://www.legislation.gov.uk/uksi/2009/229/article/4), [Sch. 1(j)](https://www.legislation.gov.uk/uksi/2009/229/schedule/1/j)
 
-[^key-1c3e9eb4d4f8df9a545c68f527ff491e]: Textual amendment: Words in [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2008/18/schedule/4/paragraph/12) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 16(3)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/16/3) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-1c3e9eb4d4f8df9a545c68f527ff491e]: Textual amendment: Words in [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2008/18/schedule/4/paragraph/12) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 16(3)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/16/3) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))

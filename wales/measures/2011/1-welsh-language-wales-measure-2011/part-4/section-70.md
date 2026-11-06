@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Interpretation[^key-62dc761487bd4e58c7c5bc4f0d6386fd]
+## 70. Interpretation[^c-62dc761487bd4e58c7c5bc4f0d6386fd]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62dc761487bd4e58c7c5bc4f0d6386fd]: Commencement: [S. 70](https://www.legislation.gov.uk/mwa/2011/1/section/70) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(iii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/iii)
+[^c-62dc761487bd4e58c7c5bc4f0d6386fd]: Commencement: [S. 70](https://www.legislation.gov.uk/mwa/2011/1/section/70) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(iii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/iii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170B. POC medicinal products: pharmacovigilance requirements[^key-fb9c75fd92f08337a0ba5704286abe02]
+## 170B. POC medicinal products: pharmacovigilance requirements[^c-fb9c75fd92f08337a0ba5704286abe02]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb9c75fd92f08337a0ba5704286abe02]: Textual amendment: [Regs. 170A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/170A), [170B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/170B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2025/87/regulation/23)
+[^c-fb9c75fd92f08337a0ba5704286abe02]: Textual amendment: [Regs. 170A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/170A), [170B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/170B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2025/87/regulation/23)

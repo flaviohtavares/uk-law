@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Use of live link in extradition proceedings[^key-2406980c06558ce9e67dc3fb080c381a]
+## 78. Use of live link in extradition proceedings[^c-2406980c06558ce9e67dc3fb080c381a]
 
 *Extent: E+W+S+N.I.*
 
@@ -101,4 +101,4 @@ After section 206 of the Extradition Act 2003 insert—
 
 ## Annotations
 
-[^key-2406980c06558ce9e67dc3fb080c381a]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2009/26/section/78) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(u)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/u)
+[^c-2406980c06558ce9e67dc3fb080c381a]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2009/26/section/78) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(u)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/u)

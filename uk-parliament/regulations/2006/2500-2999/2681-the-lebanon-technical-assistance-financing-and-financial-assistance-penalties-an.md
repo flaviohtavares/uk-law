@@ -32,7 +32,7 @@ summary: ''
 
 CUSTOMS
 
-The Lebanon (Technical Assistance, Financing and Financial Assistance) (Penalties and Licences) Regulations 2006 (revoked)[^key-d879aa6a34df7bf8513baf476d55b8af]
+The Lebanon (Technical Assistance, Financing and Financial Assistance) (Penalties and Licences) Regulations 2006 (revoked)[^c-d879aa6a34df7bf8513baf476d55b8af]
 
 Made
 
@@ -46,21 +46,21 @@ Coming into force
 
 11th October 2006
 
-[^key-d879aa6a34df7bf8513baf476d55b8af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d879aa6a34df7bf8513baf476d55b8af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-d879aa6a34df7bf8513baf476d55b8af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d879aa6a34df7bf8513baf476d55b8af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d879aa6a34df7bf8513baf476d55b8af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d879aa6a34df7bf8513baf476d55b8af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d879aa6a34df7bf8513baf476d55b8af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d879aa6a34df7bf8513baf476d55b8af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d879aa6a34df7bf8513baf476d55b8af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d879aa6a34df7bf8513baf476d55b8af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d879aa6a34df7bf8513baf476d55b8af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d879aa6a34df7bf8513baf476d55b8af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d879aa6a34df7bf8513baf476d55b8af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d879aa6a34df7bf8513baf476d55b8af]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -68,4 +68,4 @@ Coming into force
 
 ## Annotations
 
-[^key-d879aa6a34df7bf8513baf476d55b8af]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/2681) revoked (31.12.2020) by [The Lebanon (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/612)](https://www.legislation.gov.uk/uksi/2020/612), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/612/regulation/1/2), [41(2)](https://www.legislation.gov.uk/uksi/2020/612/regulation/41/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1514/regulation/9)
+[^c-d879aa6a34df7bf8513baf476d55b8af]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/2681) revoked (31.12.2020) by [The Lebanon (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/612)](https://www.legislation.gov.uk/uksi/2020/612), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/612/regulation/1/2), [41(2)](https://www.legislation.gov.uk/uksi/2020/612/regulation/41/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1514/regulation/9)

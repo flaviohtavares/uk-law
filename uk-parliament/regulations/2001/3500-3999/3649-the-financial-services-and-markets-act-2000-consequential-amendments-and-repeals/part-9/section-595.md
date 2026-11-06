@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 595. Interpretation of the 2000 Regulations: general[^key-247835c955c50fe1d0d5245eeb1e891f]
+## 595. Interpretation of the 2000 Regulations: general[^c-247835c955c50fe1d0d5245eeb1e891f]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-247835c955c50fe1d0d5245eeb1e891f]: Commencement: Art. 595 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-247835c955c50fe1d0d5245eeb1e891f]: Commencement: Art. 595 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

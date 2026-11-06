@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Amendment to regulation 164[^key-5461c7633921a1b0f600a5a95d9a5650]
+## 70. Amendment to regulation 164[^c-5461c7633921a1b0f600a5a95d9a5650]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 164 (effect of final determination)[^f00080], in paragraph (2)(a) 
 
 ## Annotations
 
-[^key-5461c7633921a1b0f600a5a95d9a5650]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2024/832/regulation/70) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-5461c7633921a1b0f600a5a95d9a5650]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2024/832/regulation/70) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00080]: Footnote: Paragraph (2) was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-1457e96a0d77968a0ab71b2a0c2cd79f] After section 1 of the Welfare Reform Act (Northern Ireland) 2007 insert—
+(1)[^c-1457e96a0d77968a0ab71b2a0c2cd79f] After section 1 of the Welfare Reform Act (Northern Ireland) 2007 insert—
 
 > **1A. Duration of contributory allowance**
 >
@@ -49,19 +49,19 @@ summary: ''
 >
 > (6) In calculating for the purposes of subsection (1) or (4) the length of the period for which a person is entitled to a contributory allowance, days occurring before the coming into operation of this section are to be counted (as well as those occurring afterwards).
 
-(2)[^key-1457e96a0d77968a0ab71b2a0c2cd79f] In section 25 of that Act (regulations)—
+(2)[^c-1457e96a0d77968a0ab71b2a0c2cd79f] In section 25 of that Act (regulations)—
 
 - (a) in the heading, after “regulations” insert “ and orders ”;
 - (b) in subsections (1) and (2) after “regulations” insert “ or an order ”.
 
-(3)[^key-1457e96a0d77968a0ab71b2a0c2cd79f] In section 26 of that Act (Assembly control) in subsection (1) after “this Part” insert “ or any order made under section 1A ”.
+(3)[^c-1457e96a0d77968a0ab71b2a0c2cd79f] In section 26 of that Act (Assembly control) in subsection (1) after “this Part” insert “ or any order made under section 1A ”.
 
-(4)[^key-ffca405392853ddbfbde5de84ae5c27e] In Schedule 4 to that Act (transition relating to Part 1), in paragraph 7(2), at the end insert—
+(4)[^c-ffca405392853ddbfbde5de84ae5c27e] In Schedule 4 to that Act (transition relating to Part 1), in paragraph 7(2), at the end insert—
 
 > - (f) make provision modifying the application of section 1A in relation to awards of an employment and support allowance to persons previously entitled to existing awards.
 
 ## Annotations
 
-[^key-1457e96a0d77968a0ab71b2a0c2cd79f]: Commencement: [Art. 57(1)-(3)](https://www.legislation.gov.uk/nisi/2015/2006/article/57/1) in operation at 28.11.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 5(a)](https://www.legislation.gov.uk/nisr/2016/46/article/5/a) (as substituted by S.R. 2016/166, art. 3)
+[^c-1457e96a0d77968a0ab71b2a0c2cd79f]: Commencement: [Art. 57(1)-(3)](https://www.legislation.gov.uk/nisi/2015/2006/article/57/1) in operation at 28.11.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 5(a)](https://www.legislation.gov.uk/nisr/2016/46/article/5/a) (as substituted by S.R. 2016/166, art. 3)
 
-[^key-ffca405392853ddbfbde5de84ae5c27e]: Commencement: [Art. 57(4)](https://www.legislation.gov.uk/nisi/2015/2006/article/57/4) in operation at 17.3.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 5(a)](https://www.legislation.gov.uk/nisr/2016/46/article/5/a) (as substituted by S.R. 2016/166, art. 3)
+[^c-ffca405392853ddbfbde5de84ae5c27e]: Commencement: [Art. 57(4)](https://www.legislation.gov.uk/nisi/2015/2006/article/57/4) in operation at 17.3.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 5(a)](https://www.legislation.gov.uk/nisr/2016/46/article/5/a) (as substituted by S.R. 2016/166, art. 3)

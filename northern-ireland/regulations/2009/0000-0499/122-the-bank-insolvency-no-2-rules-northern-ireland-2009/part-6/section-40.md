@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. First meeting[^key-2d0247b37d13d60dccef2bc938417299]
+## 40. First meeting[^c-2d0247b37d13d60dccef2bc938417299]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ and shall advertise the venue, date and time of the meetings in such manner as t
 
 ## Annotations
 
-[^key-2d0247b37d13d60dccef2bc938417299]: Commencement: Rule 40 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-2d0247b37d13d60dccef2bc938417299]: Commencement: Rule 40 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

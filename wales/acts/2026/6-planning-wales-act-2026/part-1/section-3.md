@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Meaning of “development”[^key-2bb78f31ce4f782c2d15aae0e81c449e]
+## 3. Meaning of “development”[^c-2bb78f31ce4f782c2d15aae0e81c449e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bb78f31ce4f782c2d15aae0e81c449e]: Commencement: S. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-2bb78f31ce4f782c2d15aae0e81c449e]: Commencement: S. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

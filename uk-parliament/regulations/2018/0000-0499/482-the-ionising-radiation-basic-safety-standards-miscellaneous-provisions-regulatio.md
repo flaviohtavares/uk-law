@@ -61,8 +61,8 @@ These Regulations may be cited as the Ionising Radiation (Basic Safety Standards
 In these Regulations—
 
 - “**Basic Safety Standards Directive**” means Council Directive 2013/59/Euratom laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom [^c22940161];
-- “building material” [^c22940171], “effective dose”[^c22940181], “emergency”[^c22940191], “equivalent dose”[^c22940201], “ionising radiation”[^c22940211], [^key-43d86ed4b5de1826d72236ad4b33934a]... and “practice”[^c22940231] have the same meaning as in the Basic Safety Standards Directive.
-- “orphan source” means a radiation source incorporating radioactive material for the purpose of utilising its radioactivity which is—[^key-124ef805c072a11b5015eb1acd991b3d]
+- “building material” [^c22940171], “effective dose”[^c22940181], “emergency”[^c22940191], “equivalent dose”[^c22940201], “ionising radiation”[^c22940211], [^c-43d86ed4b5de1826d72236ad4b33934a]... and “practice”[^c22940231] have the same meaning as in the Basic Safety Standards Directive.
+- “orphan source” means a radiation source incorporating radioactive material for the purpose of utilising its radioactivity which is—[^c-124ef805c072a11b5015eb1acd991b3d]
   - (a) not held subject to an environmental permit granted under regulation 13 of the Environmental Permitting (England and Wales) Regulations 2016 (“the 2016 Regulations”);
   - (b) not held in accordance with the conditions of an exemption from the requirement for an environmental permit under Part 6 of Schedule 23 to the 2016 Regulations;
   - (c) not held subject to an authorisation under the Environmental Authorisations (Scotland) Regulations 2018;
@@ -94,8 +94,8 @@ In this Part, “**appropriate minister**” means—
 
 (2) But this regulation does not apply while any part of an emergency plan is in effect in relation to the land in accordance with either of the following provisions—
 
-- (a) paragraph (3) of regulation 17 of the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^key-c31ec411844c9d72d780ab5cd6cce604];
-- (b) paragraph (3) of regulation 16 of the Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019[^key-c3450421ce1bd80e98a579d2f6db2415].
+- (a) paragraph (3) of regulation 17 of the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^c-c31ec411844c9d72d780ab5cd6cce604];
+- (b) paragraph (3) of regulation 16 of the Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019[^c-c3450421ce1bd80e98a579d2f6db2415].
 
 (3) The appropriate minister must set a reference level for the land, taking into account—
 
@@ -140,7 +140,7 @@ In this Part, “**appropriate minister**” means—
 
 - (a) sets objectives;
 - (b) sets an appropriate reference level; and
-- (c) is developed and implemented taking into account the requirements set out in the Schedule[^key-53780b9b9ee32434e629eb92a0d589be].
+- (c) is developed and implemented taking into account the requirements set out in the Schedule[^c-53780b9b9ee32434e629eb92a0d589be].
 
 (5) In this regulation—
 
@@ -227,7 +227,7 @@ Parliamentary Under Secretary of State
 
 Department for Business, Energy and Industrial Strategy
 
-## SCHEDULE — Requirements for the development and implementation of strategies[^key-effb7c2408f0d6418af2c747d26d0900]
+## SCHEDULE — Requirements for the development and implementation of strategies[^c-effb7c2408f0d6418af2c747d26d0900]
 
 Regulation 6(4)(c)
 
@@ -287,11 +287,11 @@ A transposition note is submitted with the Explanatory Memorandum which is avail
 
 [^c22940211]: Marginal citation: See Article 4.46 of the Directive.
 
-[^key-43d86ed4b5de1826d72236ad4b33934a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/482/regulation/2) omitted (31.12.2020) by virtue of [The Ionising Radiation (Basic Safety Standards) (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1278)](https://www.legislation.gov.uk/uksi/2018/1278), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1278/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1278/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-43d86ed4b5de1826d72236ad4b33934a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/482/regulation/2) omitted (31.12.2020) by virtue of [The Ionising Radiation (Basic Safety Standards) (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1278)](https://www.legislation.gov.uk/uksi/2018/1278), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1278/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1278/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22940231]: Marginal citation: See Article 4.65 of the Directive.
 
-[^key-124ef805c072a11b5015eb1acd991b3d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/482/regulation/2) inserted (31.12.2020) by [The Ionising Radiation (Basic Safety Standards) (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1278)](https://www.legislation.gov.uk/uksi/2018/1278), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1278/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1278/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-124ef805c072a11b5015eb1acd991b3d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/482/regulation/2) inserted (31.12.2020) by [The Ionising Radiation (Basic Safety Standards) (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1278)](https://www.legislation.gov.uk/uksi/2018/1278), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1278/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1278/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22940241]: Marginal citation: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46). See section 54.
 
@@ -299,9 +299,9 @@ A transposition note is submitted with the Explanatory Memorandum which is avail
 
 [^c22940261]: Marginal citation: [1998 c.47](https://www.legislation.gov.uk/ukpga/1998/47). See section 4. There are amendments to section 4 not relevant to these Regulations.
 
-[^key-c31ec411844c9d72d780ab5cd6cce604]: Textual amendment: Words in reg. 4(2)(a) substituted (E.W.S.) (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 14](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/14) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
+[^c-c31ec411844c9d72d780ab5cd6cce604]: Textual amendment: Words in reg. 4(2)(a) substituted (E.W.S.) (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 14](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/14) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
 
-[^key-c3450421ce1bd80e98a579d2f6db2415]: Textual amendment: Words in reg. 4(2)(b) substituted (N.I.) (1.11.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019 (S.R. 2019/185)](https://www.legislation.gov.uk/nisr/2019/185), [reg. 1](https://www.legislation.gov.uk/nisr/2019/185/regulation/1), [Sch. 9 para. 6](https://www.legislation.gov.uk/nisr/2019/185/schedule/9/paragraph/6) (with [reg. 3](https://www.legislation.gov.uk/nisr/2019/185/regulation/3))
+[^c-c3450421ce1bd80e98a579d2f6db2415]: Textual amendment: Words in reg. 4(2)(b) substituted (N.I.) (1.11.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations (Northern Ireland) 2019 (S.R. 2019/185)](https://www.legislation.gov.uk/nisr/2019/185), [reg. 1](https://www.legislation.gov.uk/nisr/2019/185/regulation/1), [Sch. 9 para. 6](https://www.legislation.gov.uk/nisr/2019/185/schedule/9/paragraph/6) (with [reg. 3](https://www.legislation.gov.uk/nisr/2019/185/regulation/3))
 
 [^c22940291]: Marginal citation: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). Sections 78A to 78YC were inserted by section 57 of the Environment Act 1995. There are amendments to these sections not relevant to these Regulations.
 
@@ -313,6 +313,6 @@ A transposition note is submitted with the Explanatory Memorandum which is avail
 
 [^c22940331]: Marginal citation: S.R. (N.I.) [2006 No.345](https://www.legislation.gov.uk/ukcm/2006/345) as amended by S.R. (N.I.) [2007 No. 3236](https://www.legislation.gov.uk/ukcm/2007/3236) and S.R. (N.I.) [2010 No. 2145](https://www.legislation.gov.uk/ukcm/2010/2145).
 
-[^key-53780b9b9ee32434e629eb92a0d589be]: Textual amendment: Words in [reg. 6(4)(c)](https://www.legislation.gov.uk/uksi/2018/482/regulation/6/4/c) substituted (31.12.2020) by [The Ionising Radiation (Basic Safety Standards) (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1278)](https://www.legislation.gov.uk/uksi/2018/1278), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1278/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1278/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53780b9b9ee32434e629eb92a0d589be]: Textual amendment: Words in [reg. 6(4)(c)](https://www.legislation.gov.uk/uksi/2018/482/regulation/6/4/c) substituted (31.12.2020) by [The Ionising Radiation (Basic Safety Standards) (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1278)](https://www.legislation.gov.uk/uksi/2018/1278), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1278/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1278/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-effb7c2408f0d6418af2c747d26d0900]: Textual amendment: Sch. inserted (31.12.2020) by [The Ionising Radiation (Basic Safety Standards) (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1278)](https://www.legislation.gov.uk/uksi/2018/1278), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1278/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/1278/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-effb7c2408f0d6418af2c747d26d0900]: Textual amendment: Sch. inserted (31.12.2020) by [The Ionising Radiation (Basic Safety Standards) (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1278)](https://www.legislation.gov.uk/uksi/2018/1278), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1278/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2018/1278/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

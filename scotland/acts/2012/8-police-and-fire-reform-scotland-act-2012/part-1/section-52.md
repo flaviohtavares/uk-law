@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Disciplinary procedures: conduct and performance[^key-4a66920d7118b02a60ac921981cd13c1]
+## 52. Disciplinary procedures: conduct and performance[^c-4a66920d7118b02a60ac921981cd13c1]
 
 *Extent: S*
 
@@ -35,11 +35,11 @@ summary: ''
   - (iii) warned that future misconductor unsatisfactory performance may lead to further disciplinary action,
   - (iv) admonished, or
   - (v) dealt with in any other way,
-- (d) conferring functions on the Police Investigations and Review Commissioner in relation to procedures for dealing with a constable whose standard of behaviour is unsatisfactory[^key-6ece91c49780698218ab228353aa41b8],
+- (d) conferring functions on the Police Investigations and Review Commissioner in relation to procedures for dealing with a constable whose standard of behaviour is unsatisfactory[^c-6ece91c49780698218ab228353aa41b8],
 - (e) applying the procedures (with or without modifications) in relation to a constable engaged on temporary service outwith the Police Service (see section 15).
-- (f)[^key-d8573a83c64e50f098995d0928d53874] applying the procedures for dealing with a constable whose standard of behaviour is unsatisfactory (with or without modification) in relation to a person who has ceased to be a constable.
+- (f)[^c-d8573a83c64e50f098995d0928d53874] applying the procedures for dealing with a constable whose standard of behaviour is unsatisfactory (with or without modification) in relation to a person who has ceased to be a constable.
 
-(2A)[^key-c349706e18822a9687204dc174833919] Such regulations, if they provide for procedures for dealing with a constable whose standard of behaviour is unsatisfactory to be applied in relation to a person who has ceased to be a constable—
+(2A)[^c-c349706e18822a9687204dc174833919] Such regulations, if they provide for procedures for dealing with a constable whose standard of behaviour is unsatisfactory to be applied in relation to a person who has ceased to be a constable—
 
 - (a) must provide for—
   - (i) an allegation of unsatisfactory behaviour against such a person to be investigated in accordance with those procedures only where the allegation is of behaviour while the person was a constable which would amount to gross misconduct,
@@ -55,16 +55,16 @@ summary: ''
 
 (4) A constable suspended by virtue of regulations made under section 48 is not entitled to carry out any functions as a constable unless the regulations otherwise specify.
 
-(5)[^key-2c1108a4fc6e8452872c1af6c866300f] In subsection (2A)(a)(i), “**gross misconduct**” means a breach of the standards of behaviour referred to in subsection (2)(a)(i) so serious that demotion in rank or dismissal would be justified.
+(5)[^c-2c1108a4fc6e8452872c1af6c866300f] In subsection (2A)(a)(i), “**gross misconduct**” means a breach of the standards of behaviour referred to in subsection (2)(a)(i) so serious that demotion in rank or dismissal would be justified.
 
 ## Annotations
 
-[^key-4a66920d7118b02a60ac921981cd13c1]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2012/8/section/52) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-4a66920d7118b02a60ac921981cd13c1]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2012/8/section/52) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
-[^key-6ece91c49780698218ab228353aa41b8]: Textual amendment: Words in [s. 52(2)(d)](https://www.legislation.gov.uk/asp/2012/8/section/52/2/d) substituted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 7](https://www.legislation.gov.uk/asp/2025/5/section/7), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/g)
+[^c-6ece91c49780698218ab228353aa41b8]: Textual amendment: Words in [s. 52(2)(d)](https://www.legislation.gov.uk/asp/2012/8/section/52/2/d) substituted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 7](https://www.legislation.gov.uk/asp/2025/5/section/7), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(g)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/g)
 
-[^key-d8573a83c64e50f098995d0928d53874]: Textual amendment: [S. 52(2)(f)](https://www.legislation.gov.uk/asp/2012/8/section/52/2/f) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 8(a)](https://www.legislation.gov.uk/asp/2025/5/section/8/a), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/h)
+[^c-d8573a83c64e50f098995d0928d53874]: Textual amendment: [S. 52(2)(f)](https://www.legislation.gov.uk/asp/2012/8/section/52/2/f) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 8(a)](https://www.legislation.gov.uk/asp/2025/5/section/8/a), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/h)
 
-[^key-c349706e18822a9687204dc174833919]: Textual amendment: [S. 52(2A)](https://www.legislation.gov.uk/asp/2012/8/section/52/2A)[(2B)](https://www.legislation.gov.uk/asp/2012/8/section/52/2B) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 8(b)](https://www.legislation.gov.uk/asp/2025/5/section/8/b), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/h)
+[^c-c349706e18822a9687204dc174833919]: Textual amendment: [S. 52(2A)](https://www.legislation.gov.uk/asp/2012/8/section/52/2A)[(2B)](https://www.legislation.gov.uk/asp/2012/8/section/52/2B) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 8(b)](https://www.legislation.gov.uk/asp/2025/5/section/8/b), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/h)
 
-[^key-2c1108a4fc6e8452872c1af6c866300f]: Textual amendment: [S. 52(5)](https://www.legislation.gov.uk/asp/2012/8/section/52/5) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 8(c)](https://www.legislation.gov.uk/asp/2025/5/section/8/c), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/h)
+[^c-2c1108a4fc6e8452872c1af6c866300f]: Textual amendment: [S. 52(5)](https://www.legislation.gov.uk/asp/2012/8/section/52/5) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 8(c)](https://www.legislation.gov.uk/asp/2025/5/section/8/c), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/h)

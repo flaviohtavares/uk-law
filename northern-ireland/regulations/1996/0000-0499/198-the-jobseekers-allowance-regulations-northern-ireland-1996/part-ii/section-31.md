@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Contents of Jobseeker’s Agreement[^key-f85bb389307a49df9b5ec9b1162a039a]
+## 31. Contents of Jobseeker’s Agreement[^c-f85bb389307a49df9b5ec9b1162a039a]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ The prescribed requirements for a jobseeker’s agreement are that it shall cont
 
 ## Annotations
 
-[^key-f85bb389307a49df9b5ec9b1162a039a]: Commencement: Reg. 31 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-f85bb389307a49df9b5ec9b1162a039a]: Commencement: Reg. 31 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

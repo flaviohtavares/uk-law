@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Power to make provision about publication of information about support[^key-4017c63c756786f0d097792212862ee0]
+## 10. Power to make provision about publication of information about support[^c-4017c63c756786f0d097792212862ee0]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4017c63c756786f0d097792212862ee0]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2023/4/section/10) in force at 17.10.2023, see [s. 56(2)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/b)
+[^c-4017c63c756786f0d097792212862ee0]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2023/4/section/10) in force at 17.10.2023, see [s. 56(2)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/b)

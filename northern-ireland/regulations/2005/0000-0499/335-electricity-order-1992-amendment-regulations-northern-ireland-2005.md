@@ -43,11 +43,11 @@ The Department of Enterprise, Trade and Investment, being a Department designate
 
 ## PART I — INTRODUCTORY
 
-### 1. Citation and commencement[^key-44df0d79fc0d71db2023f9e55053d33c]
+### 1. Citation and commencement[^c-44df0d79fc0d71db2023f9e55053d33c]
 
 These Regulations may be cited as the Electricity Order 1992 (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation on 1st August 2005.
 
-### 2. Interpretation[^key-b3f803172de4e58154bd3c14b96ca278]
+### 2. Interpretation[^c-b3f803172de4e58154bd3c14b96ca278]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
@@ -60,11 +60,11 @@ These Regulations may be cited as the Electricity Order 1992 (Amendment) Regulat
 
 ## PART II — AMENDMENTS TO THE 1992 ORDER
 
-### 3. Revocation and replacement[^key-e98d99ec8c9a9ebc4bff5a245b15e8b0]
+### 3. Revocation and replacement[^c-e98d99ec8c9a9ebc4bff5a245b15e8b0]
 
 The 1992 Order shall be amended as provided by this Part.
 
-### 4. Interpretation of Part II of the 1992 Order[^key-b13cf4ff82188655030bcf1a27eb4dfb]
+### 4. Interpretation of Part II of the 1992 Order[^c-b13cf4ff82188655030bcf1a27eb4dfb]
 
 In Article 3, for the definition of “Directive” there shall be substituted the following definition—
 
@@ -72,7 +72,7 @@ In Article 3, for the definition of “Directive” there shall be substituted t
 
 .
 
-### 5. Conditions of licences[^key-c9b5e7ad38eed706d744a4ad266d96ff]
+### 5. Conditions of licences[^c-c9b5e7ad38eed706d744a4ad266d96ff]
 
 For Article 11A there shall be substituted the following Articles—
 
@@ -144,7 +144,7 @@ For Article 11A there shall be substituted the following Articles—
 
 .
 
-### 6. General duties of holders of transmission licences[^key-ddd290450826732df877c17b3b9a6fa6]
+### 6. General duties of holders of transmission licences[^c-ddd290450826732df877c17b3b9a6fa6]
 
 For Article 12(2) to (4) there shall be substituted the following paragraph—
 
@@ -157,7 +157,7 @@ For Article 12(2) to (4) there shall be substituted the following paragraph—
 
 .
 
-### 7. Duty of public electricity supplier[^key-b8625d9a6f894a4ed5a4e1b9a0b0808e]
+### 7. Duty of public electricity supplier[^c-b8625d9a6f894a4ed5a4e1b9a0b0808e]
 
 In Article 20(2) for sub-paragraph (c) there shall be substituted the following sub-paragraph—
 
@@ -165,7 +165,7 @@ In Article 20(2) for sub-paragraph (c) there shall be substituted the following 
 
 .
 
-### 8. Dispute resolution[^key-591304320cb5e6e0e0f8f93ddb268119]
+### 8. Dispute resolution[^c-591304320cb5e6e0e0f8f93ddb268119]
 
 After Article 31 there shall be inserted the following Article—
 
@@ -188,7 +188,7 @@ After Article 31 there shall be inserted the following Article—
 
 .
 
-### 9. Consent required for constructing, etc. generating stations[^key-8236f51d22474947a4f1798aa7ae00a2]
+### 9. Consent required for constructing, etc. generating stations[^c-8236f51d22474947a4f1798aa7ae00a2]
 
 (1) For Article 39(2A) and (2B) there shall be substituted the following paragraphs—
 
@@ -208,7 +208,7 @@ After Article 31 there shall be inserted the following Article—
 
 .
 
-### 10. Consent required for direct lines[^key-dea4b2f8c5fe5ba66b4fefa90fc2289a]
+### 10. Consent required for direct lines[^c-dea4b2f8c5fe5ba66b4fefa90fc2289a]
 
 (1) After Article 40(2) there shall be inserted the following paragraphs—
 
@@ -230,11 +230,11 @@ After Article 31 there shall be inserted the following Article—
 
 ## PART III — AMENDMENTS TO THE ENERGY ORDER
 
-### 11. Amendments to the Energy Order[^key-28afcb4739746cbd1c45500063bda455]
+### 11. Amendments to the Energy Order[^c-28afcb4739746cbd1c45500063bda455]
 
 The Energy Order shall be amended as provided by this Part.
 
-### 12. Functions of the Department and the Authority[^key-0d1ea3919cd5f17c49dbd12fee5d8553]
+### 12. Functions of the Department and the Authority[^c-0d1ea3919cd5f17c49dbd12fee5d8553]
 
 (1) For Article 12(5)(c) there shall be substituted the following sub-paragraph—
 
@@ -253,7 +253,7 @@ The Energy Order shall be amended as provided by this Part.
 
 .
 
-### 13. Compliance with Community legislation[^key-e131f6da6793df6d2dde0b8acae0285b]
+### 13. Compliance with Community legislation[^c-e131f6da6793df6d2dde0b8acae0285b]
 
 (1) In Article 38(1), for the words from “European” to the end there shall be substituted the words “European Parliament and Council Directive [2003/54/EC](https://www.legislation.gov.uk/european/directive/2003/0054) concerning common rules for the internal market in electricity and repealing Directive 96/92.”.
 
@@ -273,13 +273,13 @@ The Energy Order shall be amended as provided by this Part.
 
 .
 
-### 14. Consequential amendments[^key-412ad4f6a334a8db0bf6cd4c3b1a120c]
+### 14. Consequential amendments[^c-412ad4f6a334a8db0bf6cd4c3b1a120c]
 
 The Schedule shall have effect for the purposes of making consequential amendments to the Energy Order.
 
 ## PART IV — CONDITIONS FOR EXISTING LICENCES
 
-### 15. Existing licences[^key-d453f4ac2c86dbb71a24d483b53dbeb7]
+### 15. Existing licences[^c-d453f4ac2c86dbb71a24d483b53dbeb7]
 
 (1) The Department, after consultation with the Authority, shall by notice in writing make such modifications to, or require the Authority by notice in writing to make such modifications to, an existing licence as the Department or the Authority, as the case may be, considers requisite or expedient to ensure that any activity authorised by the licence is carried out in compliance with the relevant requirements and prohibitions laid down by the Directive.
 
@@ -292,17 +292,17 @@ an existing licence as the Department or the Authority, as the case may be, cons
 
 (5) Article 11A(2) to (8) of the 1992 Order shall apply in relation to the modification or revocation of the conditions of, and the inclusion of any new conditions in, an existing licence under this regulation as it applies to the inclusion of any conditions in any other licence under that Article or Article 11 of the 1992 Order and any reference in the 1992 Order to Article 11A or to any provision thereof shall be construed as including a reference to that provision as so applied.
 
-(6) Subject to Article 38(1) of the Energy Order, modifications made to a licence under this regulation are without prejudice to the power of the Department, the Authority, the Secretary of State or the Competition and Markets Authority[^key-1f28ce16d9c771d1f49e317fd1568c01], as the case may be, to further modify that licence under or in accordance with the 1992 Order or the Energy Order.
+(6) Subject to Article 38(1) of the Energy Order, modifications made to a licence under this regulation are without prejudice to the power of the Department, the Authority, the Secretary of State or the Competition and Markets Authority[^c-1f28ce16d9c771d1f49e317fd1568c01], as the case may be, to further modify that licence under or in accordance with the 1992 Order or the Energy Order.
 
-### 16. Duties of the Department and the Authority[^key-abfb37616ace72ce526e455feab829c2]
+### 16. Duties of the Department and the Authority[^c-abfb37616ace72ce526e455feab829c2]
 
 Article 12 of the Energy Order shall apply in relation to the exercise by the Department and the Authority of any functions under this Part as it applies to the exercise of their functions under Part II of that Order.
 
-### 17. Interpretation of this Part[^key-3a60f284602d908c884854b0a63e0807]
+### 17. Interpretation of this Part[^c-3a60f284602d908c884854b0a63e0807]
 
 In this Part expressions which are also used in the 1992 Order shall have the same meaning as in that Order.
 
-### 18. Revocation[^key-952ae871d9fd488cfda71739cccdb82d]
+### 18. Revocation[^c-952ae871d9fd488cfda71739cccdb82d]
 
 The Electricity Order 1992 (Amendment) Regulations (Northern Ireland) 1999 are hereby revoked.
 
@@ -318,9 +318,9 @@ Department
 
 Regulation 14
 
-**1.**[^key-e20ee7bf90ec44f29f4aa5be0c95563c] In Schedule 3, paragraphs 4 and 5 are repealed.
+**1.**[^c-e20ee7bf90ec44f29f4aa5be0c95563c] In Schedule 3, paragraphs 4 and 5 are repealed.
 
-**2.**[^key-81018a0f7e57bcf0b37b6b4d60a559ac] In Schedule 5, in the entry relating to the Electricity (Northern Ireland) Order [1992 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231), the words “In Article 11A(2)(a) the words “(b) or”” are repealed.
+**2.**[^c-81018a0f7e57bcf0b37b6b4d60a559ac] In Schedule 5, in the entry relating to the Electricity (Northern Ireland) Order [1992 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231), the words “In Article 11A(2)(a) the words “(b) or”” are repealed.
 
 (This note is not part of the Regulations)
 
@@ -351,9 +351,9 @@ Part IV provides for the modification of licences already issued under the 1992 
 
 [^f00002]: Footnote: [S.I. 1998/745](https://www.legislation.gov.uk/uksi/1998/745)
 
-[^key-44df0d79fc0d71db2023f9e55053d33c]: Commencement: Reg. 1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-44df0d79fc0d71db2023f9e55053d33c]: Commencement: Reg. 1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-b3f803172de4e58154bd3c14b96ca278]: Commencement: Reg. 2 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-b3f803172de4e58154bd3c14b96ca278]: Commencement: Reg. 2 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -361,40 +361,40 @@ Part IV provides for the modification of licences already issued under the 1992 
 
 [^f00005]: Footnote: [S.I. 2003/419 (N.I. 6)](https://www.legislation.gov.uk/nisi/2003/419)
 
-[^key-e98d99ec8c9a9ebc4bff5a245b15e8b0]: Commencement: Reg. 3 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-e98d99ec8c9a9ebc4bff5a245b15e8b0]: Commencement: Reg. 3 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-b13cf4ff82188655030bcf1a27eb4dfb]: Commencement: Reg. 4 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-b13cf4ff82188655030bcf1a27eb4dfb]: Commencement: Reg. 4 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-c9b5e7ad38eed706d744a4ad266d96ff]: Commencement: Reg. 5 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-c9b5e7ad38eed706d744a4ad266d96ff]: Commencement: Reg. 5 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-ddd290450826732df877c17b3b9a6fa6]: Commencement: Reg. 6 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-ddd290450826732df877c17b3b9a6fa6]: Commencement: Reg. 6 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-b8625d9a6f894a4ed5a4e1b9a0b0808e]: Commencement: Reg. 7 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-b8625d9a6f894a4ed5a4e1b9a0b0808e]: Commencement: Reg. 7 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-591304320cb5e6e0e0f8f93ddb268119]: Commencement: Reg. 8 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-591304320cb5e6e0e0f8f93ddb268119]: Commencement: Reg. 8 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-8236f51d22474947a4f1798aa7ae00a2]: Commencement: Reg. 9 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-8236f51d22474947a4f1798aa7ae00a2]: Commencement: Reg. 9 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-dea4b2f8c5fe5ba66b4fefa90fc2289a]: Commencement: Reg. 10 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-dea4b2f8c5fe5ba66b4fefa90fc2289a]: Commencement: Reg. 10 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-28afcb4739746cbd1c45500063bda455]: Commencement: Reg. 11 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-28afcb4739746cbd1c45500063bda455]: Commencement: Reg. 11 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-0d1ea3919cd5f17c49dbd12fee5d8553]: Commencement: Reg. 12 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-0d1ea3919cd5f17c49dbd12fee5d8553]: Commencement: Reg. 12 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-e131f6da6793df6d2dde0b8acae0285b]: Commencement: Reg. 13 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-e131f6da6793df6d2dde0b8acae0285b]: Commencement: Reg. 13 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-412ad4f6a334a8db0bf6cd4c3b1a120c]: Commencement: Reg. 14 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-412ad4f6a334a8db0bf6cd4c3b1a120c]: Commencement: Reg. 14 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-d453f4ac2c86dbb71a24d483b53dbeb7]: Commencement: Reg. 15 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-d453f4ac2c86dbb71a24d483b53dbeb7]: Commencement: Reg. 15 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-1f28ce16d9c771d1f49e317fd1568c01]: Textual amendment: Words in [reg. 15(6)](https://www.legislation.gov.uk/nisr/2005/335/regulation/15/6) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/52) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-1f28ce16d9c771d1f49e317fd1568c01]: Textual amendment: Words in [reg. 15(6)](https://www.legislation.gov.uk/nisr/2005/335/regulation/15/6) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/52) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-abfb37616ace72ce526e455feab829c2]: Commencement: Reg. 16 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-abfb37616ace72ce526e455feab829c2]: Commencement: Reg. 16 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-3a60f284602d908c884854b0a63e0807]: Commencement: Reg. 17 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-3a60f284602d908c884854b0a63e0807]: Commencement: Reg. 17 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-952ae871d9fd488cfda71739cccdb82d]: Commencement: Reg. 18 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-952ae871d9fd488cfda71739cccdb82d]: Commencement: Reg. 18 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-e20ee7bf90ec44f29f4aa5be0c95563c]: Commencement: Sch. para. 1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-e20ee7bf90ec44f29f4aa5be0c95563c]: Commencement: Sch. para. 1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
 
-[^key-81018a0f7e57bcf0b37b6b4d60a559ac]: Commencement: Sch. para. 2 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)
+[^c-81018a0f7e57bcf0b37b6b4d60a559ac]: Commencement: Sch. para. 2 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/335/regulation/1)

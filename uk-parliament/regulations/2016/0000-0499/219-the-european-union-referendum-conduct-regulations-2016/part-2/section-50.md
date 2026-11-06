@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Decisions on ballot papers[^key-6d3303932c3d2e8b0a01098b48e12a07]
+## 50. Decisions on ballot papers[^c-6d3303932c3d2e8b0a01098b48e12a07]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The decision of the counting officer on any question arising in respect of a bal
 
 ## Annotations
 
-[^key-6d3303932c3d2e8b0a01098b48e12a07]: Commencement: Reg. 50 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-6d3303932c3d2e8b0a01098b48e12a07]: Commencement: Reg. 50 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

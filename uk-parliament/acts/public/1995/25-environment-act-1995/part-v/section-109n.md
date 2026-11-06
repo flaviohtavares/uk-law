@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109N. Interpretation[^key-a4a91e3251b88e2220bf7d7c7dd9609f]
+## 109N. Interpretation[^c-a4a91e3251b88e2220bf7d7c7dd9609f]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4a91e3251b88e2220bf7d7c7dd9609f]: Textual amendment: Ss. 109A-109N inserted (E.W.) (29.3.2018) by [The Waste Enforcement (England and Wales) Regulations 2018 (S.I. 2018/369)](https://www.legislation.gov.uk/uksi/2018/369), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/369/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/369/schedule/2/paragraph/3) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/369/regulation/4/1))
+[^c-a4a91e3251b88e2220bf7d7c7dd9609f]: Textual amendment: Ss. 109A-109N inserted (E.W.) (29.3.2018) by [The Waste Enforcement (England and Wales) Regulations 2018 (S.I. 2018/369)](https://www.legislation.gov.uk/uksi/2018/369), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/369/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/369/schedule/2/paragraph/3) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2018/369/regulation/4/1))

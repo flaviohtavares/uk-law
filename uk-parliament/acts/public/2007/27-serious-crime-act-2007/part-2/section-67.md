@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Course of conduct[^key-ca42d1a2e31a9431b6cc46276e954308][^key-8fac712985455041598b9ce15117ddd2][^key-8fac712985455041598b9ce15117ddd2]
+## 67. Course of conduct[^c-ca42d1a2e31a9431b6cc46276e954308][^c-8fac712985455041598b9ce15117ddd2][^c-8fac712985455041598b9ce15117ddd2]
 
 *Extent: E+W+N.I.*
 
@@ -24,6 +24,6 @@ A reference in this Part to an act includes a reference to a course of conduct, 
 
 ## Annotations
 
-[^key-ca42d1a2e31a9431b6cc46276e954308]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2007/27/section/67) in force at 1.10.2008 by [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-ca42d1a2e31a9431b6cc46276e954308]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2007/27/section/67) in force at 1.10.2008 by [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
-[^key-8fac712985455041598b9ce15117ddd2]: Modification: Pt. 2 restricted by 2007 c. 19, s. 18(1A) (as inserted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 62](https://www.legislation.gov.uk/ukpga/2007/27/section/62), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a))
+[^c-8fac712985455041598b9ce15117ddd2]: Modification: Pt. 2 restricted by 2007 c. 19, s. 18(1A) (as inserted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 62](https://www.legislation.gov.uk/ukpga/2007/27/section/62), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a))

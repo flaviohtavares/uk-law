@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Notifications[^key-c60d4995c821099bda703ebbb2693e69]
+## 53. Notifications[^c-c60d4995c821099bda703ebbb2693e69]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c60d4995c821099bda703ebbb2693e69]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2019/762/regulation/53) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-c60d4995c821099bda703ebbb2693e69]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2019/762/regulation/53) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Disclosure of interests in shares: interpretation[^key-212dd4640283e0eb60931e71595af10e]
+## 10. Disclosure of interests in shares: interpretation[^c-212dd4640283e0eb60931e71595af10e]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-212dd4640283e0eb60931e71595af10e]: Commencement: Art. 10 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-212dd4640283e0eb60931e71595af10e]: Commencement: Art. 10 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00017]: Footnote: Subsection (1) was substituted by [S.I. 1993/1819](https://www.legislation.gov.uk/uksi/1993/1819), regulation 9; relevant amendments were made by [S.I. 2000/2952](https://www.legislation.gov.uk/uksi/2000/2952), regulation 2.

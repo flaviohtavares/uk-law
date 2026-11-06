@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Secured creditors[^key-27bc3feef20f13ace555730356bda111]
+## 28. Secured creditors[^c-27bc3feef20f13ace555730356bda111]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ At a meeting of creditors a secured creditor is entitled to vote only in respect
 
 ## Annotations
 
-[^key-27bc3feef20f13ace555730356bda111]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2013/3208/rule/28) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-27bc3feef20f13ace555730356bda111]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2013/3208/rule/28) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

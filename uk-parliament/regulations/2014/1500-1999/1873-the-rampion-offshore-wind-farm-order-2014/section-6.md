@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Requirements, appeals etc[^key-ac57788c73776ad03a2c07ee55db3e29]
+## 6. Requirements, appeals etc[^c-ac57788c73776ad03a2c07ee55db3e29]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac57788c73776ad03a2c07ee55db3e29]: Commencement: Art. 6 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-ac57788c73776ad03a2c07ee55db3e29]: Commencement: Art. 6 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)

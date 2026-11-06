@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Conclusion of the work of the ICRIR[^key-9d3fcf5da3d49d9c233b609c7e737c7e][^key-1fd0c0f87208975f5a0808a9aae78124]
+## 37. Conclusion of the work of the ICRIR[^c-9d3fcf5da3d49d9c233b609c7e737c7e][^c-1fd0c0f87208975f5a0808a9aae78124]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d3fcf5da3d49d9c233b609c7e737c7e]: Commencement: S. 37 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-9d3fcf5da3d49d9c233b609c7e737c7e]: Commencement: S. 37 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-1fd0c0f87208975f5a0808a9aae78124]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/41/section/37) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/z) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-1fd0c0f87208975f5a0808a9aae78124]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/41/section/37) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/z) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

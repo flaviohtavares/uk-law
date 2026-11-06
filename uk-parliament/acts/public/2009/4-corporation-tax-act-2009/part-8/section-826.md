@@ -32,11 +32,11 @@ summary: ''
 (3) This section applies to—
 
 - (a) a building society,
-- (b) a registered society[^key-375475277f19e40cb2a189fada5d89f5], and
-- (c) a co-operative association in relation to which section 1057 of CTA 2010 (UK agricultural or fishing co-operatives) applies.[^key-5b7451082ec1a054e83bf52c02c088c3]
+- (b) a registered society[^c-375475277f19e40cb2a189fada5d89f5], and
+- (c) a co-operative association in relation to which section 1057 of CTA 2010 (UK agricultural or fishing co-operatives) applies.[^c-5b7451082ec1a054e83bf52c02c088c3]
 
 ## Annotations
 
-[^key-375475277f19e40cb2a189fada5d89f5]: Textual amendment: Words in Act substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 141](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/141) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-375475277f19e40cb2a189fada5d89f5]: Textual amendment: Words in Act substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 141](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/141) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-5b7451082ec1a054e83bf52c02c088c3]: Textual amendment: Words in s. 826(3)(c) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 656](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/656) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5b7451082ec1a054e83bf52c02c088c3]: Textual amendment: Words in s. 826(3)(c) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 656](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/656) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

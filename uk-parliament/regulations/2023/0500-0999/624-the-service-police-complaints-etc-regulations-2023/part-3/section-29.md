@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Reference of DSI matters to the Commissioner[^key-23bb916b5b9387b99fde8de5aaf20873]
+## 29. Reference of DSI matters to the Commissioner[^c-23bb916b5b9387b99fde8de5aaf20873]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23bb916b5b9387b99fde8de5aaf20873]: Commencement: Reg. 29 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-23bb916b5b9387b99fde8de5aaf20873]: Commencement: Reg. 29 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

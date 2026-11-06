@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Examination, testing and certification of tanks[^key-675be338b8aa7945ffab7d21724cb3b8]
+## 11. Examination, testing and certification of tanks[^c-675be338b8aa7945ffab7d21724cb3b8]
 
 *Extent: N.I.*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-675be338b8aa7945ffab7d21724cb3b8]: Commencement: Reg. 11 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-675be338b8aa7945ffab7d21724cb3b8]: Commencement: Reg. 11 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

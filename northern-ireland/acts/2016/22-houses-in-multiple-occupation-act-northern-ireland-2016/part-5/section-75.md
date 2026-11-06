@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Failure to provide information or provision of false information[^key-e3ea52212afb9cb9df1c45ed76c2c907]
+## 75. Failure to provide information or provision of false information[^c-e3ea52212afb9cb9df1c45ed76c2c907]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3ea52212afb9cb9df1c45ed76c2c907]: Commencement: [S. 75](https://www.legislation.gov.uk/nia/2016/22/section/75) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-e3ea52212afb9cb9df1c45ed76c2c907]: Commencement: [S. 75](https://www.legislation.gov.uk/nia/2016/22/section/75) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

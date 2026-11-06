@@ -71,17 +71,17 @@ The Secretary of State for Social Security, in exercise of powers conferred on h
 
 For the purpose of section 134(11) of the Act, the permitted total of housing benefit
 
-- (a)[^key-30433c877bffee9cd2247caea7f91411] for the year commencing on 1st April 1996 in relation to an authority shall be the total of the amounts obtained by the calculations set out in articles 3 and 4 below.
-- (b)[^key-c8c38d1b057055670059b277ec550dcd] for the year commencing on 1st April 1997 in relation to an authority shall be the total of the amounts obtained by the calculations set out in articles 3 and 4 below; and
+- (a)[^c-30433c877bffee9cd2247caea7f91411] for the year commencing on 1st April 1996 in relation to an authority shall be the total of the amounts obtained by the calculations set out in articles 3 and 4 below.
+- (b)[^c-c8c38d1b057055670059b277ec550dcd] for the year commencing on 1st April 1997 in relation to an authority shall be the total of the amounts obtained by the calculations set out in articles 3 and 4 below; and
 - (c) for any year commencing on or after 1st April 1998 in relation to an authority shall be the total of the amount obtained by the calculation in article 3 below and the amount specified in the Schedule to this Order.
 
 ## 3. Increase in housing benefit
 
-The calculation referred to in article 2 above shall be the amount obtained by deducting 100% of any increases in housing benefit in cases in which that authority has during that year made a determination under regulation 61(2) of the Housing Benefit Regulations from the total housing benefit granted by that authority during that year, after deduction of any increase above maximum rent, and multiplying the resulting figure by 100.025%[^key-4601c580632a413816e5c8357cc9df9f].
+The calculation referred to in article 2 above shall be the amount obtained by deducting 100% of any increases in housing benefit in cases in which that authority has during that year made a determination under regulation 61(2) of the Housing Benefit Regulations from the total housing benefit granted by that authority during that year, after deduction of any increase above maximum rent, and multiplying the resulting figure by 100.025%[^c-4601c580632a413816e5c8357cc9df9f].
 
 ## 4. Increase above maximum rent
 
-(1) The calculation referred to in article 2 above shall be the amount obtained by deducting 100% of any increases above maximum rent in cases in which that authority has during that year made a determination under regulation 61(3) of the Housing Benefit Regulations from the total housing benefit granted by that authority during that year, less the deductions specified in paragraph (2) below, and multiplying the resulting figure by 101.08%[^key-96989f518009a86375156b8e03fc6692].
+(1) The calculation referred to in article 2 above shall be the amount obtained by deducting 100% of any increases above maximum rent in cases in which that authority has during that year made a determination under regulation 61(3) of the Housing Benefit Regulations from the total housing benefit granted by that authority during that year, less the deductions specified in paragraph (2) below, and multiplying the resulting figure by 101.08%[^c-96989f518009a86375156b8e03fc6692].
 
 (2) The deductions referred to in paragraph (1) above are—
 
@@ -93,7 +93,7 @@ The calculation referred to in article 2 above shall be the amount obtained by d
 
 ## 5. Permitted total of benefit in modified schemes
 
-For the purpose of section 134(9) of the Act (modifications other than war disablement pension or war widows pension within the Act), the permitted total of housing benefit for any year commencing on or after[^key-902e9b1ee8f031eb1480b5fcc4f430b8] on 1st April 1996 in relation to an authority shall be the total of the amounts obtained by deducting 100% of any housing benefit awarded as a consequence of any determination to disregard made by that authority during that year pursuant to a modification adopted by them under section 134(8)(b) of the Act (power to modify housing benefit schemes as prescribed) and regulation 7 of the Income-related Benefits Schemes Amendment (No. 2) Regulations 1995 [^c1773277] (power to modify in respect of certain pensions to war widows) from the total housing benefit granted by that authority during that year and multiplying the resulting figure by 100.7%.
+For the purpose of section 134(9) of the Act (modifications other than war disablement pension or war widows pension within the Act), the permitted total of housing benefit for any year commencing on or after[^c-902e9b1ee8f031eb1480b5fcc4f430b8] on 1st April 1996 in relation to an authority shall be the total of the amounts obtained by deducting 100% of any housing benefit awarded as a consequence of any determination to disregard made by that authority during that year pursuant to a modification adopted by them under section 134(8)(b) of the Act (power to modify housing benefit schemes as prescribed) and regulation 7 of the Income-related Benefits Schemes Amendment (No. 2) Regulations 1995 [^c1773277] (power to modify in respect of certain pensions to war widows) from the total housing benefit granted by that authority during that year and multiplying the resulting figure by 100.7%.
 
 ## 6. Revocation
 
@@ -107,7 +107,7 @@ Parliamentary Under-Secretary of State,
 
 Department of Social Security
 
-## SCHEDULE — TOTALS FOR INCREASES ABOVE MAXIMUM RENT[^key-35c01f3ec904a5e042d722a11038cc34]
+## SCHEDULE — TOTALS FOR INCREASES ABOVE MAXIMUM RENT[^c-35c01f3ec904a5e042d722a11038cc34]
 
 Article 2
 
@@ -551,20 +551,20 @@ This Order does not impose a charge on businesses.
 
 [^c1773275]: Marginal citation: Regulation 61(3) was added by [S.I. 1995/1644](https://www.legislation.gov.uk/uksi/1995/1644).
 
-[^key-30433c877bffee9cd2247caea7f91411]: Textual amendment: Words in art. 2(a) renumbered as art. 2(a) (31.3.1998) by [The Housing Benefit (Permitted Totals) (Amendment) Order 1998 (S.I. 1998/566)](https://www.legislation.gov.uk/uksi/1998/566), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/566/article/2/1)[reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/566/regulation/1/1)
+[^c-30433c877bffee9cd2247caea7f91411]: Textual amendment: Words in art. 2(a) renumbered as art. 2(a) (31.3.1998) by [The Housing Benefit (Permitted Totals) (Amendment) Order 1998 (S.I. 1998/566)](https://www.legislation.gov.uk/uksi/1998/566), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/566/article/2/1)[reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/566/regulation/1/1)
 
-[^key-c8c38d1b057055670059b277ec550dcd]: Textual amendment: Art. 2(b)(c) inserted (31.3.1998) by [The Housing Benefit (Permitted Totals) (Amendment) Order 1998 (S.I. 1998/566)](https://www.legislation.gov.uk/uksi/1998/566), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/566/article/2/1)[reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/566/regulation/1/1)
+[^c-c8c38d1b057055670059b277ec550dcd]: Textual amendment: Art. 2(b)(c) inserted (31.3.1998) by [The Housing Benefit (Permitted Totals) (Amendment) Order 1998 (S.I. 1998/566)](https://www.legislation.gov.uk/uksi/1998/566), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/566/article/2/1)[reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/566/regulation/1/1)
 
-[^key-4601c580632a413816e5c8357cc9df9f]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/1996/677/article/3) substituted (1.4.2001) by [The Housing Benefit (Permitted Totals) (Amendment) Order 2001 (S.I. 2001/1129)](https://www.legislation.gov.uk/uksi/2001/1129), [art. 2](https://www.legislation.gov.uk/uksi/2001/1129/article/2)[reg. 1](https://www.legislation.gov.uk/uksi/2001/1129/regulation/1)
+[^c-4601c580632a413816e5c8357cc9df9f]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/1996/677/article/3) substituted (1.4.2001) by [The Housing Benefit (Permitted Totals) (Amendment) Order 2001 (S.I. 2001/1129)](https://www.legislation.gov.uk/uksi/2001/1129), [art. 2](https://www.legislation.gov.uk/uksi/2001/1129/article/2)[reg. 1](https://www.legislation.gov.uk/uksi/2001/1129/regulation/1)
 
-[^key-96989f518009a86375156b8e03fc6692]: Textual amendment: Word in art. 4(1) substituted (7.10.1996) by [The Housing Benefit (Permitted Totals) (Amendment) Order 1996 (S.I. 1996/2326)](https://www.legislation.gov.uk/uksi/1996/2326), [art. 2](https://www.legislation.gov.uk/uksi/1996/2326/article/2)[reg. 1](https://www.legislation.gov.uk/uksi/1996/2326/regulation/1)
+[^c-96989f518009a86375156b8e03fc6692]: Textual amendment: Word in art. 4(1) substituted (7.10.1996) by [The Housing Benefit (Permitted Totals) (Amendment) Order 1996 (S.I. 1996/2326)](https://www.legislation.gov.uk/uksi/1996/2326), [art. 2](https://www.legislation.gov.uk/uksi/1996/2326/article/2)[reg. 1](https://www.legislation.gov.uk/uksi/1996/2326/regulation/1)
 
 [^c1773276]: Marginal citation: Regulation 12A was added by [S.I. 1990/546](https://www.legislation.gov.uk/uksi/1990/546) and amended by [S.I. 1993/317](https://www.legislation.gov.uk/uksi/1993/317), 1995/560/1644 and 2868.
 
-[^key-902e9b1ee8f031eb1480b5fcc4f430b8]: Textual amendment: Words in art. 5 substituted (31.3.1998) by [The Housing Benefit (Permitted Totals) (Amendment) Order 1998 (S.I. 1998/566)](https://www.legislation.gov.uk/uksi/1998/566), [art. 3](https://www.legislation.gov.uk/uksi/1998/566/article/3)[reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/566/regulation/1/1)
+[^c-902e9b1ee8f031eb1480b5fcc4f430b8]: Textual amendment: Words in art. 5 substituted (31.3.1998) by [The Housing Benefit (Permitted Totals) (Amendment) Order 1998 (S.I. 1998/566)](https://www.legislation.gov.uk/uksi/1998/566), [art. 3](https://www.legislation.gov.uk/uksi/1998/566/article/3)[reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/566/regulation/1/1)
 
 [^c1773277]: Marginal citation: [S.I. 1995/2792](https://www.legislation.gov.uk/uksi/1995/2792) as amended by [S.I. 1995/3282](https://www.legislation.gov.uk/uksi/1995/3282).
 
 [^c1773278]: Marginal citation: [S.I. 1995/1954](https://www.legislation.gov.uk/uksi/1995/1954) as amended by [S.I. 1995/2793](https://www.legislation.gov.uk/uksi/1995/2793) and 3151.
 
-[^key-35c01f3ec904a5e042d722a11038cc34]: Textual amendment: Sch. substituted (1.4.2001) by [The Housing Benefit (Permitted Totals) (Amendment) Order 2001 (S.I. 2001/1129)](https://www.legislation.gov.uk/uksi/2001/1129), [art. 3](https://www.legislation.gov.uk/uksi/2001/1129/article/3), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1129/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2001/1129/schedule)
+[^c-35c01f3ec904a5e042d722a11038cc34]: Textual amendment: Sch. substituted (1.4.2001) by [The Housing Benefit (Permitted Totals) (Amendment) Order 2001 (S.I. 2001/1129)](https://www.legislation.gov.uk/uksi/2001/1129), [art. 3](https://www.legislation.gov.uk/uksi/2001/1129/article/3), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1129/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2001/1129/schedule)

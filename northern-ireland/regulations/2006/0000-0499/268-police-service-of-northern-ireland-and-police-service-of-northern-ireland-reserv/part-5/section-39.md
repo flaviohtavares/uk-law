@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Payments by and to the Board[^key-b660d79198935c244e30c2920d705bf4]
+## 39. Payments by and to the Board[^c-b660d79198935c244e30c2920d705bf4]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b660d79198935c244e30c2920d705bf4]: Commencement: Reg. 39 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-b660d79198935c244e30c2920d705bf4]: Commencement: Reg. 39 in operation at 25.7.2006 with effect in accordance with reg. 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Compulsory acquisition of rights[^key-c4078f465ba9810ca144fb7267f2f7d6]
+## 23. Compulsory acquisition of rights[^c-c4078f465ba9810ca144fb7267f2f7d6]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4078f465ba9810ca144fb7267f2f7d6]: Commencement: Art. 23 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-c4078f465ba9810ca144fb7267f2f7d6]: Commencement: Art. 23 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)

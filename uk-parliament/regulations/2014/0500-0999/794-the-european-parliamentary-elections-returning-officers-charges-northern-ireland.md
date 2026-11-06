@@ -31,7 +31,7 @@ summary: ''
 
 Representation Of The People, Northern Ireland
 
-The European Parliamentary Elections (Returning Officer’s Charges) (Northern Ireland) Order 2014 (revoked)[^key-902adf037d3ad8750a394d78db3e2b69]
+The European Parliamentary Elections (Returning Officer’s Charges) (Northern Ireland) Order 2014 (revoked)[^c-902adf037d3ad8750a394d78db3e2b69]
 
 Made
 
@@ -39,28 +39,28 @@ Made
 
 Coming into force in accordance with Article 1(2)
 
-[^key-902adf037d3ad8750a394d78db3e2b69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-902adf037d3ad8750a394d78db3e2b69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-902adf037d3ad8750a394d78db3e2b69]
+## 1. Citation and commencement[^c-902adf037d3ad8750a394d78db3e2b69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Overall maximum recoverable amount[^key-902adf037d3ad8750a394d78db3e2b69]
+## 2. Overall maximum recoverable amount[^c-902adf037d3ad8750a394d78db3e2b69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-902adf037d3ad8750a394d78db3e2b69]
+## 3. Revocation[^c-902adf037d3ad8750a394d78db3e2b69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-902adf037d3ad8750a394d78db3e2b69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-902adf037d3ad8750a394d78db3e2b69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-902adf037d3ad8750a394d78db3e2b69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-902adf037d3ad8750a394d78db3e2b69]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-902adf037d3ad8750a394d78db3e2b69]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/794) revoked (26.4.2019) by [The European Parliamentary Elections (Returning Officer’s Charges) (Northern Ireland) Order 2019 (S.I. 2019/896)](https://www.legislation.gov.uk/uksi/2019/896), [art. 3](https://www.legislation.gov.uk/uksi/2019/896/article/3)
+[^c-902adf037d3ad8750a394d78db3e2b69]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/794) revoked (26.4.2019) by [The European Parliamentary Elections (Returning Officer’s Charges) (Northern Ireland) Order 2019 (S.I. 2019/896)](https://www.legislation.gov.uk/uksi/2019/896), [art. 3](https://www.legislation.gov.uk/uksi/2019/896/article/3)

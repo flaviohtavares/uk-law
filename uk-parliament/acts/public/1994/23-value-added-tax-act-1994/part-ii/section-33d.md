@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33D. Charities to which section 33C applies[^key-66cfb2d99aa76646f0aeb5867a3ecf5b]
+## 33D. Charities to which section 33C applies[^c-66cfb2d99aa76646f0aeb5867a3ecf5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (4) In subsection (3) “**relevant NHS body**” means a body the main purpose of which is to provide ambulance services and which is—
 
-- (za)[^key-1c0fdfa67d9af35c9d711f8f0136687e] an NHS trust in England,
+- (za)[^c-1c0fdfa67d9af35c9d711f8f0136687e] an NHS trust in England,
 - (a) an NHS foundation trust in England,
 - (b) an NHS trust in Wales,
 - (c) a Special Health Board constituted under section 2 of the National Health Service (Scotland) Act 1978, or
@@ -86,6 +86,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66cfb2d99aa76646f0aeb5867a3ecf5b]: Textual amendment: Ss. 33C, 33D inserted (with effect in accordance with s. 66(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 66(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/66/1) (with [s. 66(6)](https://www.legislation.gov.uk/ukpga/2015/11/section/66/6))
+[^c-66cfb2d99aa76646f0aeb5867a3ecf5b]: Textual amendment: Ss. 33C, 33D inserted (with effect in accordance with s. 66(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 66(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/66/1) (with [s. 66(6)](https://www.legislation.gov.uk/ukpga/2015/11/section/66/6))
 
-[^key-1c0fdfa67d9af35c9d711f8f0136687e]: Textual amendment: [S. 33D(4)(za)](https://www.legislation.gov.uk/ukpga/1994/23/section/33D/4/za) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/1); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-1c0fdfa67d9af35c9d711f8f0136687e]: Textual amendment: [S. 33D(4)(za)](https://www.legislation.gov.uk/ukpga/1994/23/section/33D/4/za) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/1); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

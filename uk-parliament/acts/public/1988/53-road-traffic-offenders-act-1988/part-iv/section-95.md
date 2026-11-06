@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-18a8f38f775f4e3fdd5116b3b7f5d81a] There shall be paid into the Consolidated Fund all fines imposed in respect of the following offences—
+(1)[^c-18a8f38f775f4e3fdd5116b3b7f5d81a] There shall be paid into the Consolidated Fund all fines imposed in respect of the following offences—
 
 - (a) offences committed in Scotland under the provisions of the [^c18165921]Road Traffic Act 1988 down to section 178 or regulations made under those provisions, except—
   - (i) offences under sections 1, 4(2), 17, 27, 31, 33, 37, 47, 67 67A(6) and (7)(including the last two subsections as applied by section 67B(4)), 67B[^c18165931], 77, 169, 174(3) and (4) and 177, and
@@ -32,11 +32,11 @@ summary: ''
   - (iii) Schedule 12 (other than paragraph 3(5)),
 - (d) offences committed in Scotland under this Act.
 
-(2)[^key-aa36bb66ac0367f9c2d6956ff993eb43] There shall be paid into the Scottish Consolidated Fund all fixed penalties imposed in respect of offences, committed in Scotland, to which subsection (2) of section 46 of the Local Government in Scotland Act 2003 (road traffic offences in relation to which Scottish Ministers may provide funding) applies.
+(2)[^c-aa36bb66ac0367f9c2d6956ff993eb43] There shall be paid into the Scottish Consolidated Fund all fixed penalties imposed in respect of offences, committed in Scotland, to which subsection (2) of section 46 of the Local Government in Scotland Act 2003 (road traffic offences in relation to which Scottish Ministers may provide funding) applies.
 
 ## Annotations
 
-[^key-18a8f38f775f4e3fdd5116b3b7f5d81a]: Textual amendment: S. 95 renumbered as s. 95(1) (26.3.2004) by virtue of [Local Government in Scotland Act 2003 (Destination of Fixed Penalties in Scotland) Order 2004 (S.I. 2004/956)](https://www.legislation.gov.uk/uksi/2004/956), [arts. 1](https://www.legislation.gov.uk/uksi/2004/956/article/1), [2](https://www.legislation.gov.uk/uksi/2004/956/article/2)
+[^c-18a8f38f775f4e3fdd5116b3b7f5d81a]: Textual amendment: S. 95 renumbered as s. 95(1) (26.3.2004) by virtue of [Local Government in Scotland Act 2003 (Destination of Fixed Penalties in Scotland) Order 2004 (S.I. 2004/956)](https://www.legislation.gov.uk/uksi/2004/956), [arts. 1](https://www.legislation.gov.uk/uksi/2004/956/article/1), [2](https://www.legislation.gov.uk/uksi/2004/956/article/2)
 
 [^c18165921]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c18165941]: Marginal citation: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 
-[^key-aa36bb66ac0367f9c2d6956ff993eb43]: Textual amendment: S. 95(2) added (26.3.2004) by [Local Government in Scotland Act 2003 (Destination of Fixed Penalties in Scotland) Order 2004 (S.I. 2004/956)](https://www.legislation.gov.uk/uksi/2004/956), [arts. 1](https://www.legislation.gov.uk/uksi/2004/956/article/1), [2](https://www.legislation.gov.uk/uksi/2004/956/article/2)
+[^c-aa36bb66ac0367f9c2d6956ff993eb43]: Textual amendment: S. 95(2) added (26.3.2004) by [Local Government in Scotland Act 2003 (Destination of Fixed Penalties in Scotland) Order 2004 (S.I. 2004/956)](https://www.legislation.gov.uk/uksi/2004/956), [arts. 1](https://www.legislation.gov.uk/uksi/2004/956/article/1), [2](https://www.legislation.gov.uk/uksi/2004/956/article/2)

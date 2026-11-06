@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-b023cf0ec3bf12be8721595fd6f9bbb8][^key-08744c74d4c499bf72343fa1a1652914] The 2003 Act is amended as follows.
+(1)[^c-b023cf0ec3bf12be8721595fd6f9bbb8][^c-08744c74d4c499bf72343fa1a1652914] The 2003 Act is amended as follows.
 
-(2)[^key-9a0c6ac11adea580ac72450fc0bc4778] Section 5 (limited duration tenancies) is repealed.
+(2)[^c-9a0c6ac11adea580ac72450fc0bc4778] Section 5 (limited duration tenancies) is repealed.
 
-(3)[^key-b023cf0ec3bf12be8721595fd6f9bbb8][^key-08744c74d4c499bf72343fa1a1652914] After section 5 insert—
+(3)[^c-b023cf0ec3bf12be8721595fd6f9bbb8][^c-08744c74d4c499bf72343fa1a1652914] After section 5 insert—
 
 > **5A. Modern limited duration tenancies**
 >
@@ -61,8 +61,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b023cf0ec3bf12be8721595fd6f9bbb8]: Commencement: [S. 85(1)](https://www.legislation.gov.uk/asp/2016/18/section/85/1)[(3)](https://www.legislation.gov.uk/asp/2016/18/section/85/3) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-b023cf0ec3bf12be8721595fd6f9bbb8]: Commencement: [S. 85(1)](https://www.legislation.gov.uk/asp/2016/18/section/85/1)[(3)](https://www.legislation.gov.uk/asp/2016/18/section/85/3) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
 
-[^key-08744c74d4c499bf72343fa1a1652914]: Commencement: [S. 85(1)](https://www.legislation.gov.uk/asp/2016/18/section/85/1)[(3)](https://www.legislation.gov.uk/asp/2016/18/section/85/3) in force at 30.11.2017 in so far as not already in force by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/299/regulation/5)) (as amended by S.S.I. 2017/370, regs. 1, 3, 4)
+[^c-08744c74d4c499bf72343fa1a1652914]: Commencement: [S. 85(1)](https://www.legislation.gov.uk/asp/2016/18/section/85/1)[(3)](https://www.legislation.gov.uk/asp/2016/18/section/85/3) in force at 30.11.2017 in so far as not already in force by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/299/regulation/5)) (as amended by S.S.I. 2017/370, regs. 1, 3, 4)
 
-[^key-9a0c6ac11adea580ac72450fc0bc4778]: Commencement: [S. 85(2)](https://www.legislation.gov.uk/asp/2016/18/section/85/2) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2017/299/regulation/4))
+[^c-9a0c6ac11adea580ac72450fc0bc4778]: Commencement: [S. 85(2)](https://www.legislation.gov.uk/asp/2016/18/section/85/2) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2017/299/regulation/4))

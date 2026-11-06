@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Subsidies or schemes subject to mandatory referral[^key-a18689dea2c4016fb07e30318cbd5f19][^key-37f7c5716a728ea756367313b19d37f8]
+## 31. Subsidies or schemes subject to mandatory referral[^c-a18689dea2c4016fb07e30318cbd5f19][^c-37f7c5716a728ea756367313b19d37f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a18689dea2c4016fb07e30318cbd5f19]: Commencement: S. 31 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-a18689dea2c4016fb07e30318cbd5f19]: Commencement: S. 31 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-37f7c5716a728ea756367313b19d37f8]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/23/section/31) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-37f7c5716a728ea756367313b19d37f8]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/23/section/31) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

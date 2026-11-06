@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Secretary of State's duty to report to Parliament[^key-2e627e5c103c5e6b944b6f58c8c6192c]
+## 12. Secretary of State's duty to report to Parliament[^c-2e627e5c103c5e6b944b6f58c8c6192c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Secretary of State must lay a report before Parliament reporting on the carr
 
 ## Annotations
 
-[^key-2e627e5c103c5e6b944b6f58c8c6192c]: Commencement: Reg. 12 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-2e627e5c103c5e6b944b6f58c8c6192c]: Commencement: Reg. 12 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

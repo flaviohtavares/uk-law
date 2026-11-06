@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Eligible land: tenant's interests[^key-581e2051347ac13d06a57576641e3ed6]
+## 48. Eligible land: tenant's interests[^c-581e2051347ac13d06a57576641e3ed6]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ has been created over land at least part of which is eligible land.
 
 ## Annotations
 
-[^key-581e2051347ac13d06a57576641e3ed6]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2016/18/section/48) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-581e2051347ac13d06a57576641e3ed6]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2016/18/section/48) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

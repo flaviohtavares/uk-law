@@ -37,18 +37,18 @@ concerning the authorisation of sodium benzoate as a feed additive for weaned pi
 
 (Text with EEA relevance) (revoked)
 
-[^key-73a945ae357a6a24f06a18057f5510eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73a945ae357a6a24f06a18057f5510eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-73a945ae357a6a24f06a18057f5510eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-73a945ae357a6a24f06a18057f5510eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-73a945ae357a6a24f06a18057f5510eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-73a945ae357a6a24f06a18057f5510eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-73a945ae357a6a24f06a18057f5510eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-73a945ae357a6a24f06a18057f5510eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-73a945ae357a6a24f06a18057f5510eb]
+## ANNEX[^c-73a945ae357a6a24f06a18057f5510eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-73a945ae357a6a24f06a18057f5510eb]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 59](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/59) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-73a945ae357a6a24f06a18057f5510eb]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 59](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/59) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

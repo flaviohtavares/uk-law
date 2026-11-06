@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Civil Nuclear Police Federation[^key-f8b0b31925e045ed69a2bb788158bad8]
+## 64. Civil Nuclear Police Federation[^c-f8b0b31925e045ed69a2bb788158bad8]
 
 *Extent: E+W+S*
 
@@ -49,7 +49,7 @@ summary: ''
 
 (10) Only the following have appropriate police connections for the purposes of this section—
 
-- (a) persons within the service of the Constabulary, of the Ministry of Defence Police, of the British Transport Police Force, of a police force for a police area in England and Wales, of the Police Service of Scotland[^key-92c493093fafed25dacc2ec497c741f0] or of the Police Service of Northern Ireland;
+- (a) persons within the service of the Constabulary, of the Ministry of Defence Police, of the British Transport Police Force, of a police force for a police area in England and Wales, of the Police Service of Scotland[^c-92c493093fafed25dacc2ec497c741f0] or of the Police Service of Northern Ireland;
 - (b) persons not falling within paragraph (a) who are members of or employed by the Police Authority;
 - (c) a federation referred to in section 59 of the Police Act 1996 (c. 16), section 3 of the Ministry of Defence Police Act 1987 (c. 4) or section 39 of the Railways and Transport Safety Act 2003 (c. 20) (police federations);
 - (d) the Police Association for Northern Ireland;
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f8b0b31925e045ed69a2bb788158bad8]: Commencement: S. 64 in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-f8b0b31925e045ed69a2bb788158bad8]: Commencement: S. 64 in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
 
-[^key-92c493093fafed25dacc2ec497c741f0]: Textual amendment: Words in [s. 64(10)(a)](https://www.legislation.gov.uk/ukpga/2004/20/section/64/10/a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 44(4)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/44/4)
+[^c-92c493093fafed25dacc2ec497c741f0]: Textual amendment: Words in [s. 64(10)(a)](https://www.legislation.gov.uk/ukpga/2004/20/section/64/10/a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 44(4)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/44/4)

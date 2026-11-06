@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Trees subject to tree preservation orders[^key-3540a0fb21d2fe8af8980d6da34fc312]
+## 39. Trees subject to tree preservation orders[^c-3540a0fb21d2fe8af8980d6da34fc312]
 
 *Extent: E+W*
 
 (1) Subject to paragraph (2), the undertaker must not under the powers of this article fell, lop, prune, or cut back the roots of any tree which is the subject of a tree preservation order.
 
-(2) The undertaker may fell or lop any tree which is within or overhanging land within the[^key-75613b8b6bbaf8d4d416bda7f9dd0628] Order limits that is subject to a tree preservation order which was made after 21 November 2023, or cut back its roots, if it reasonably believes it to be necessary to do so in order to prevent the tree from obstructing or interfering with the construction, maintenance or operation of the authorised development or any apparatus used in connection with the authorised development.
+(2) The undertaker may fell or lop any tree which is within or overhanging land within the[^c-75613b8b6bbaf8d4d416bda7f9dd0628] Order limits that is subject to a tree preservation order which was made after 21 November 2023, or cut back its roots, if it reasonably believes it to be necessary to do so in order to prevent the tree from obstructing or interfering with the construction, maintenance or operation of the authorised development or any apparatus used in connection with the authorised development.
 
 (3) In carrying out any activity authorised by paragraph (2)—
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3540a0fb21d2fe8af8980d6da34fc312]: Commencement: Art. 39 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-3540a0fb21d2fe8af8980d6da34fc312]: Commencement: Art. 39 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
 
-[^key-75613b8b6bbaf8d4d416bda7f9dd0628]: Textual amendment: Words in [art. 39(2)](https://www.legislation.gov.uk/uksi/2025/585/article/39/2) inserted (20.9.2025) by [The East Yorkshire Solar Farm (Correction) Order 2025 (S.I. 2025/1059)](https://www.legislation.gov.uk/uksi/2025/1059), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1059/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/1059/schedule)
+[^c-75613b8b6bbaf8d4d416bda7f9dd0628]: Textual amendment: Words in [art. 39(2)](https://www.legislation.gov.uk/uksi/2025/585/article/39/2) inserted (20.9.2025) by [The East Yorkshire Solar Farm (Correction) Order 2025 (S.I. 2025/1059)](https://www.legislation.gov.uk/uksi/2025/1059), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1059/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/1059/schedule)

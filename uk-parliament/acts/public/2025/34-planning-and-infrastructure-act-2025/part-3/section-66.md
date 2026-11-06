@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Publication of EDP[^key-1e5aad4a8c575ffe41623203e0b4a7ae][^key-ed15240615e24ed64a276597fcc056e0]
+## 66. Publication of EDP[^c-1e5aad4a8c575ffe41623203e0b4a7ae][^c-ed15240615e24ed64a276597fcc056e0]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e5aad4a8c575ffe41623203e0b4a7ae]: Commencement: S. 66 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-1e5aad4a8c575ffe41623203e0b4a7ae]: Commencement: S. 66 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-ed15240615e24ed64a276597fcc056e0]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2025/34/section/66) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-ed15240615e24ed64a276597fcc056e0]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2025/34/section/66) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

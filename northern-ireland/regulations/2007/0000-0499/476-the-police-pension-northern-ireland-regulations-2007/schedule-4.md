@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — PROGRESSIVE MEDICAL CONDITIONS[^key-6f10080032eeafe08635e06a4888f89b]
+## SCHEDULE 4 — PROGRESSIVE MEDICAL CONDITIONS[^c-6f10080032eeafe08635e06a4888f89b]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Regulation 48(12)
 
 ## Annotations
 
-[^key-6f10080032eeafe08635e06a4888f89b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/476) revoked (with effect in accordance with reg. 1(2) of the amending Rule) by [THE POLICE PENSION (NORTHERN IRELAND) REGULATIONS 2009 (S.R. 2009/79)](https://www.legislation.gov.uk/nisr/2009/79), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)[(4)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/4)
+[^c-6f10080032eeafe08635e06a4888f89b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/476) revoked (with effect in accordance with reg. 1(2) of the amending Rule) by [THE POLICE PENSION (NORTHERN IRELAND) REGULATIONS 2009 (S.R. 2009/79)](https://www.legislation.gov.uk/nisr/2009/79), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)[(4)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/4)

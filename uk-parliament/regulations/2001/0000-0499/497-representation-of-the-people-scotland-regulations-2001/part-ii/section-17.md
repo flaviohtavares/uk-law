@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Notification by registration officer in respect of service declarations[^key-879c28085e28465b904faa421d09f4e3]
+## 17. Notification by registration officer in respect of service declarations[^c-879c28085e28465b904faa421d09f4e3]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ he shall return the declaration to the declarant setting out his reasons for so 
 
 ## Annotations
 
-[^key-879c28085e28465b904faa421d09f4e3]: Commencement: Reg. 17 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-879c28085e28465b904faa421d09f4e3]: Commencement: Reg. 17 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
 [^f00012]: Footnote: Sections 14 and 15 were amended by Schedule 1 to the 2000 Act.

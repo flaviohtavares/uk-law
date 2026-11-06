@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Inspection of ships and harbour areas.[^c10458091][^key-e3c8918e5172a077a428b5078248b9a0]
+## 36. Inspection of ships and harbour areas.[^c10458091][^c-e3c8918e5172a077a428b5078248b9a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ commits an offence.
 
 [^c10458091]: Modification: S. 36 extended (with modifications) (Jersey) (17.1.1997) by [S.I. 1996/2881](https://www.legislation.gov.uk/uksi/1996/2881), [art. 2](https://www.legislation.gov.uk/uksi/1996/2881/article/2), [Sch. Pts. I](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/I), [II](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/II)
 
-[^key-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
+[^c-e3c8918e5172a077a428b5078248b9a0]: Modification: Ss. 9-43 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
 
 [^c10458101]: Textual amendment: Words in s. 36(2)(c) substituted (1.7.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 25](https://www.legislation.gov.uk/ukpga/1997/28/section/25), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/1997/28/schedule/4/paragraph/7); [S.I. 1997/1539](https://www.legislation.gov.uk/uksi/1997/1539), [art. 2](https://www.legislation.gov.uk/uksi/1997/1539/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1539/schedule)

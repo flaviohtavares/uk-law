@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.18. Meetings of the registered provider[^key-bbb77cf1c3f71b239a90ba293bdde8b4]
+## 3.18. Meetings of the registered provider[^c-bbb77cf1c3f71b239a90ba293bdde8b4]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbb77cf1c3f71b239a90ba293bdde8b4]: Commencement: Rule 3.18 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-bbb77cf1c3f71b239a90ba293bdde8b4]: Commencement: Rule 3.18 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

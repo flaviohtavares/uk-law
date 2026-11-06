@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Power of judge advocate to authorise entry and search[^key-142ebe9bbf862b96471158e7d5c1979d][^key-a36655c30c6eec9528ad69e15bc23592][^key-a1276d0f10e2b7f647fe19288a91e016]
+## 83. Power of judge advocate to authorise entry and search[^c-142ebe9bbf862b96471158e7d5c1979d][^c-a36655c30c6eec9528ad69e15bc23592][^c-a1276d0f10e2b7f647fe19288a91e016]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,8 +58,8 @@ summary: ''
 
 ## Annotations
 
-[^key-142ebe9bbf862b96471158e7d5c1979d]: Commencement: S. 83 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-142ebe9bbf862b96471158e7d5c1979d]: Commencement: S. 83 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-a36655c30c6eec9528ad69e15bc23592]: Commencement: S. 83 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-a36655c30c6eec9528ad69e15bc23592]: Commencement: S. 83 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-a1276d0f10e2b7f647fe19288a91e016]: Textual amendment: S. 83 substituted (14.12.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 7](https://www.legislation.gov.uk/ukpga/2011/18/section/7), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/2921](https://www.legislation.gov.uk/uksi/2012/2921), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/2921/article/3/a)
+[^c-a1276d0f10e2b7f647fe19288a91e016]: Textual amendment: S. 83 substituted (14.12.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 7](https://www.legislation.gov.uk/ukpga/2011/18/section/7), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/2921](https://www.legislation.gov.uk/uksi/2012/2921), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/2921/article/3/a)

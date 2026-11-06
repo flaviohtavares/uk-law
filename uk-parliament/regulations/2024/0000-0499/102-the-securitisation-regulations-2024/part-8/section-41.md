@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Public censure[^key-31229243a985fdf59c1fe9e96a72ff19]
+## 41. Public censure[^c-31229243a985fdf59c1fe9e96a72ff19]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ the FCA may publish a statement to that effect.
 
 ## Annotations
 
-[^key-31229243a985fdf59c1fe9e96a72ff19]: Commencement: Reg. 41 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-31229243a985fdf59c1fe9e96a72ff19]: Commencement: Reg. 41 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

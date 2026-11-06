@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Adoption by couple[^key-cc3f45e6e28f8dc6bfffdbd53ae526bb]
+## 47. Adoption by couple[^c-cc3f45e6e28f8dc6bfffdbd53ae526bb]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc3f45e6e28f8dc6bfffdbd53ae526bb]: Commencement: S. 47 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-cc3f45e6e28f8dc6bfffdbd53ae526bb]: Commencement: S. 47 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

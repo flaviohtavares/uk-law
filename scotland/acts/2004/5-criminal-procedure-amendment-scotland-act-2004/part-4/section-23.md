@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Admissibility of prior statements of witnesses[^key-0209bddcbea9b7a0f6c786015a43419c]
+## 23. Admissibility of prior statements of witnesses[^c-0209bddcbea9b7a0f6c786015a43419c]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In section 260 (admissibility of prior statements of witnesses) of the 1995 Act,
 
 ## Annotations
 
-[^key-0209bddcbea9b7a0f6c786015a43419c]: Commencement: S. 23 in force at 4.10.2004 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-0209bddcbea9b7a0f6c786015a43419c]: Commencement: S. 23 in force at 4.10.2004 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

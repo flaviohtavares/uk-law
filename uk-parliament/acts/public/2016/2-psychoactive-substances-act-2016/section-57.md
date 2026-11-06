@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Providers of information society services[^key-89ffbcb097054f151eead313590be291]
+## 57. Providers of information society services[^c-89ffbcb097054f151eead313590be291]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 contains provision about the application of certain provisions of thi
 
 ## Annotations
 
-[^key-89ffbcb097054f151eead313590be291]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2016/2/section/57) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-89ffbcb097054f151eead313590be291]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2016/2/section/57) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

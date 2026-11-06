@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## Q4. Paying for unreduced retirement lump sum by single payment[^key-3011ccb03ae84477f2bc0c00bdc95336]
+## Q4. Paying for unreduced retirement lump sum by single payment[^c-3011ccb03ae84477f2bc0c00bdc95336]
 
 *Extent: S*
 
@@ -24,9 +24,9 @@ summary: ''
 
 (2) A woman who wishes to pay for an unreduced retirement lump sum by a single payment must elect to do so within 12 months after nominating her husband to receive a dependent widower's pension under regulation G8 (dependent widower's pension).
 
-(3)[^key-d4c4fa00f0d11f78790a1d27462b8aa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d4c4fa00f0d11f78790a1d27462b8aa3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) A member who has a scheme partner[^key-910994e998bf46f76b66bf40bd4e7c55] who wishes to pay for an unreduced lump sum by a single payment must elect to do so within 12 months after applying for the member's scheme partner to receive a dependent surviving scheme partner’s pension[^key-c0aaa0bb8c9b40c6ce547502d9729064] under regulation G15.
+(4) A member who has a scheme partner[^c-910994e998bf46f76b66bf40bd4e7c55] who wishes to pay for an unreduced lump sum by a single payment must elect to do so within 12 months after applying for the member's scheme partner to receive a dependent surviving scheme partner’s pension[^c-c0aaa0bb8c9b40c6ce547502d9729064] under regulation G15.
 
 (5) The amount of a single payment for an unreduced retirement lump sum will be calculated in accordance with Table 2 of Schedule 3.
 
@@ -38,12 +38,12 @@ summary: ''
 
 ## Annotations
 
-[^key-3011ccb03ae84477f2bc0c00bdc95336]: Modification: Regs. Q1-Q6 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [22](https://www.legislation.gov.uk/ssi/2015/95/regulation/22)
+[^c-3011ccb03ae84477f2bc0c00bdc95336]: Modification: Regs. Q1-Q6 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [22](https://www.legislation.gov.uk/ssi/2015/95/regulation/22)
 
-[^key-d4c4fa00f0d11f78790a1d27462b8aa3]: Textual amendment: [Reg. Q4(3)](https://www.legislation.gov.uk/ssi/2011/117/regulation/Q4/3) omitted (with effect in accordance with reg. 1(7) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [22(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/22/2)
+[^c-d4c4fa00f0d11f78790a1d27462b8aa3]: Textual amendment: [Reg. Q4(3)](https://www.legislation.gov.uk/ssi/2011/117/regulation/Q4/3) omitted (with effect in accordance with reg. 1(7) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [22(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/22/2)
 
-[^key-910994e998bf46f76b66bf40bd4e7c55]: Textual amendment: Words in [reg. Q4(4)](https://www.legislation.gov.uk/ssi/2011/117/regulation/Q4/4) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [22(3)(a)](https://www.legislation.gov.uk/ssi/2021/102/regulation/22/3/a)
+[^c-910994e998bf46f76b66bf40bd4e7c55]: Textual amendment: Words in [reg. Q4(4)](https://www.legislation.gov.uk/ssi/2011/117/regulation/Q4/4) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [22(3)(a)](https://www.legislation.gov.uk/ssi/2021/102/regulation/22/3/a)
 
-[^key-c0aaa0bb8c9b40c6ce547502d9729064]: Textual amendment: Words in [reg. Q4(4)](https://www.legislation.gov.uk/ssi/2011/117/regulation/Q4/4) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [22(3)(b)](https://www.legislation.gov.uk/ssi/2021/102/regulation/22/3/b)
+[^c-c0aaa0bb8c9b40c6ce547502d9729064]: Textual amendment: Words in [reg. Q4(4)](https://www.legislation.gov.uk/ssi/2011/117/regulation/Q4/4) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [22(3)(b)](https://www.legislation.gov.uk/ssi/2021/102/regulation/22/3/b)
 
 [^c21042121]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Removal of human remains[^key-b8116314ba4e9930952946b85baf8185]
+## 28. Removal of human remains[^c-b8116314ba4e9930952946b85baf8185]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ subject to paragraph (9) the promoter shall remove the remains and cause them to
 
 ## Annotations
 
-[^key-b8116314ba4e9930952946b85baf8185]: Commencement: Art. 28 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-b8116314ba4e9930952946b85baf8185]: Commencement: Art. 28 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00030]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81).

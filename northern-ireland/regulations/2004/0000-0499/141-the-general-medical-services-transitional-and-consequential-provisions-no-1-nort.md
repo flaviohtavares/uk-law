@@ -43,7 +43,7 @@ The Department of Health, Social Services and Public Safety[^f00001], in exercis
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-acc69797d831879a7aa6a99fefdd51bd]
+### 1. Citation, commencement and interpretation[^c-acc69797d831879a7aa6a99fefdd51bd]
 
 (1) This Order may be cited as the General Medical Services Transitional and Consequential Provisions (No. 1) (Northern Ireland) Order 2004 and shall come into operation on 29th March 2004.
 
@@ -96,11 +96,11 @@ The Department of Health, Social Services and Public Safety[^f00001], in exercis
 
 ## PART 2 — ENTITLEMENT TO CONTRACTS
 
-### 2. Entitlement to a general medical services contract[^key-b75d5e9b0d70eb1cca93ecd05d9ac588]
+### 2. Entitlement to a general medical services contract[^c-b75d5e9b0d70eb1cca93ecd05d9ac588]
 
 For the purposes of Article 5(2) of the Order, the circumstances in which a Board must enter into a general medical services contract with a person who, on 31st March 2004, is providing services under Article 56 of the 1972 Order (arrangements for general medical services)[^f00015] are those specified in Articles 3 to 12.
 
-### 3. Entitlement to a general medical services contract as an individual medical practitioner[^key-50c0e6db5199582d9864aeb42c857eeb]
+### 3. Entitlement to a general medical services contract as an individual medical practitioner[^c-50c0e6db5199582d9864aeb42c857eeb]
 
 (1) Subject to paragraphs (3) and (6) and Articles 6 and 12, a Board must, if a person so wishes, enter into a general medical services contract with him as an individual medical practitioner if –
 
@@ -144,7 +144,7 @@ for so long as those arrangements continue, unless it is satisfied that, at the 
 
 (8) Where a Board refuses to enter into a general medical services contract pursuant to paragraph (3) or (6) it shall notify the prospective contractor in writing of its decision, its reasons for that decision and of the practitioner’s right of appeal under Article 4.
 
-### 4. Appeal against refusal of a contract under Article 3[^key-7e3aa5252df5ecc295b76015a57facde]
+### 4. Appeal against refusal of a contract under Article 3[^c-7e3aa5252df5ecc295b76015a57facde]
 
 (1) A person who has been notified by a Board under Article 3(8) of its refusal to enter into a general medical services contract may appeal to the Department by giving notice in writing to the Department within a period of 28 days beginning on and including the day that the Board notified him of the refusal.
 
@@ -194,7 +194,7 @@ for so long as those arrangements continue, unless it is satisfied that, at the 
 
 (16) In this Article, “adjudicator” means the Department or a person appointed by it under this Article or under paragraph 93(5) of Schedule 5 to the 2004 Regulations.
 
-### 5. Entitlement to a contract as one of two or more individuals practising in partnership[^key-2266e032843bd2d64b4ba320a7f1c393]
+### 5. Entitlement to a contract as one of two or more individuals practising in partnership[^c-2266e032843bd2d64b4ba320a7f1c393]
 
 Subject to Article 6, a Board must, if a person so wishes, enter into a general medical services contract with him as one of two or more individuals practising in partnership if –
 
@@ -206,7 +206,7 @@ Subject to Article 6, a Board must, if a person so wishes, enter into a general 
   - (ii) as an individual medical practitioner with whom another medical practitioner has been approved to be in partnership under regulation 12 of the 1997 Regulations; and
 - (c) he wishes to enter into a contract as an individual practising in partnership with a medical practitioner who meets the requirements in paragraph (a)(i) and with whom he was on 31st March 2004, or is on the date on which the contract is to be signed, if earlier, practising in partnership or whose application, in relation to the partnership, has been approved by the Board under regulation 12 of the 1997 Regulations.
 
-### 6. Duration of entitlement to a general medical services contract[^key-c16d6198b9f402ce4d9f8eb02a7d2a56]
+### 6. Duration of entitlement to a general medical services contract[^c-c16d6198b9f402ce4d9f8eb02a7d2a56]
 
 (1) Subject to paragraphs (2) to (5), a person who is entitled to enter into a general medical services contract under Articles 3 or 5 and who has not entered into such a contract on or before 31st March 2004, shall only continue to be so entitled if –
 
@@ -243,7 +243,7 @@ unless Article 11 applies.
 
 (6) Nothing in Articles 3 and 5 or this Article shall require a Board to enter into a general medical services contract with any person (whether as an individual or as a member of a partnership) on more than one occasion.
 
-### 7. Effect of termination of a default contract on entitlement to enter into a general medical services contract under Articles 3 or 5[^key-33974276d73de991164a5c099b5a2332]
+### 7. Effect of termination of a default contract on entitlement to enter into a general medical services contract under Articles 3 or 5[^c-33974276d73de991164a5c099b5a2332]
 
 (1) Any entitlement which a person may have under Articles 3 or 5 to enter into a general medical services contract with a Board after 31st March 2004 shall be extinguished if any default contract with that Board to which he was a party (whether as an individual medical practitioner or as one of two or more individuals practising in partnership) has been terminated other than in the circumstances specified in paragraph (2).
 
@@ -264,7 +264,7 @@ that person’s entitlement to enter into a general medical services contract sh
 
 unless Article 11 applies.
 
-### 8. Entitlement to a general medical services contract of persons approved under regulation 12 of the 1997 Regulations[^key-52ca6337bad15199c3f6f2a42cf8e4cd]
+### 8. Entitlement to a general medical services contract of persons approved under regulation 12 of the 1997 Regulations[^c-52ca6337bad15199c3f6f2a42cf8e4cd]
 
 (1) Where, on 31st March 2004, a Board has approved a medical practitioner for a vacancy under regulation 12C of the 1997 Regulations but has not yet entered his name on its medical list in accordance with regulation 12(2) of those Regulations, that person shall, unless a medical practitioner who was not approved for that vacancy makes a successful appeal under Article 9 –
 
@@ -283,7 +283,7 @@ unless Article 11 applies.
 
 unless Article 11 applies.
 
-### 9. Appeals under regulation 15 of the 1997 Regulations[^key-5129686b8f3f7b04521bcdb01ee52259]
+### 9. Appeals under regulation 15 of the 1997 Regulations[^c-5129686b8f3f7b04521bcdb01ee52259]
 
 (1) Where, on 31st March 2004, a Board has decided not to approve an applicant for a vacancy under regulation 9 of the 1997 Regulations, it shall so notify him within seven days of the date on which it made its decision and any right of appeal which the applicant would have had under regulation 15 of the 1997 Regulations shall continue as if those regulations had not been revoked.
 
@@ -303,7 +303,7 @@ the time for appealing shall continue as if those regulations had not been revok
 
 that appeal shall continue to be dealt with as if regulation 15 of the 1997 Regulations had not been revoked.
 
-### 10. Entitlement to a general medical services contract following appeal under Article 9[^key-dd856ee769419c7cf535498253fd9ebb]
+### 10. Entitlement to a general medical services contract following appeal under Article 9[^c-dd856ee769419c7cf535498253fd9ebb]
 
 (1) Where, following an appeal dealt with under Article 9, the Department determines that a medical practitioner who was the only applicant for a vacancy under regulation 10 of the 1997 Regulations should have been approved for that vacancy by the Board, that medical practitioner shall –
 
@@ -317,7 +317,7 @@ that appeal shall continue to be dealt with as if regulation 15 of the 1997 Regu
 
 unless Article 11 applies.
 
-### 11. Appeal against failure of a Board to enter into a general medical services contract[^key-e2a2b92221d01946c674593b87c7bc2d]
+### 11. Appeal against failure of a Board to enter into a general medical services contract[^c-e2a2b92221d01946c674593b87c7bc2d]
 
 (1) This Article applies where a medical practitioner has –
 
@@ -334,14 +334,14 @@ unless Article 11 applies.
 
 (4) Paragraphs (3) to (16) of Article 4 shall apply to an application made under paragraph (2), subject to the modification that the references in paragraphs (4) and (5) of that Article to a notice of appeal shall be read as references to an application under paragraph (2) of this Article.
 
-### 12. Effect of events taking place after 31st March 2004 on entitlement to enter into a general medical services contract[^key-acd39bb753dfae4f7670a5da03618df2]
+### 12. Effect of events taking place after 31st March 2004 on entitlement to enter into a general medical services contract[^c-acd39bb753dfae4f7670a5da03618df2]
 
 Where an individual medical practitioner who is entitled to enter into a general medical services contract after 31st March 2004 under Article 3, 8 or 10 has not entered into a default contract with a Board, his entitlement to enter into a general medical services contract with that Board shall be extinguished if, after 31st March 2004, he falls within paragraph 105(2) of Schedule 5 to the 2004 Regulations unless –
 
 - (a) the Board is satisfied of the matters in sub-paragraphs (3) or (5) of that paragraph; or
 - (b) he falls within paragraph 105(2)(d) of that paragraph and the period specified in sub-paragraph (4) of that paragraph has not expired.
 
-### 13. Entitlement to a contract under Article 5(3) of the Order[^key-d1e3b20a6a241aca47850b29f7b68225]
+### 13. Entitlement to a contract under Article 5(3) of the Order[^c-d1e3b20a6a241aca47850b29f7b68225]
 
 (1) For the purposes of Article 5(3) of the Order, the circumstances in which a Board must enter into a contract for the provision of medical services (in this Order referred to as a default contract) are those set out in this Article.
 
@@ -383,7 +383,7 @@ Where an individual medical practitioner who is entitled to enter into a general
 - (a) the references to notification under Article 3(8) in paragraphs (1) and (2) shall be read as references to notification under paragraph (8) of this Article; and
 - (b) the reference to a general medical services contract in paragraph (12) shall be read as a reference to a default contract.
 
-### 14. Duration of a default contract[^key-e0480b168ee0f641a25832d70fadea04]
+### 14. Duration of a default contract[^c-e0480b168ee0f641a25832d70fadea04]
 
 (1) A default contract entered into pursuant to Article 13 shall not subsist beyond 30th September 2004, except in the circumstances specified in paragraphs (2) to (5).
 
@@ -413,7 +413,7 @@ the default contract shall, unless it is terminated before that date in accordan
 
 ## PART 3 — ARRANGEMENTS UNDER REGULATION 24
 
-### 15. Temporary arrangements under regulation 24 of the 1997 Regulations[^key-675f98f020d4258b1e7786e2b7dcfd4f]
+### 15. Temporary arrangements under regulation 24 of the 1997 Regulations[^c-675f98f020d4258b1e7786e2b7dcfd4f]
 
 (1) Where –
 
@@ -442,7 +442,7 @@ paragraph (2) shall apply.
 
 ## PART 4 — CONTRACT TERMS
 
-### 16. Additional services in default contracts[^key-73d47e6c8f299cfa4444aedc3bc4aa25]
+### 16. Additional services in default contracts[^c-73d47e6c8f299cfa4444aedc3bc4aa25]
 
 (1) A default contract must require the contractor to provide in core hours to his registered patients and persons accepted by him as temporary residents all of the additional services, except those which fall within paragraph (2).
 
@@ -453,7 +453,7 @@ paragraph (2) shall apply.
   - (ii) in the case of a default contract with two or more medical practitioners practising in partnership, all of those medical practitioners; and
 - (b) the default contractor does not wish to provide that service to his patients under a general medical services contract which he intends to enter into after 31st March 2004 pursuant to Article 3 or 5.
 
-### 17. Additional services in general medical services contracts under Article 8 or 10[^key-9831842d684270d739adea9c15b8da5b]
+### 17. Additional services in general medical services contracts under Article 8 or 10[^c-9831842d684270d739adea9c15b8da5b]
 
 (1) A general medical services contract which is entered into with a person who is entitled to enter into such a contract under Article 8 or 10 must, subject to any right to opt out of such services included in the contract pursuant to regulation 17 of the 2004 Regulations, provide for the contractor to provide in core hours to –
 
@@ -467,11 +467,11 @@ such of the additional services as are equivalent to the services specified in p
 - (a) the services which were specified in the notice of the vacancy published under regulation 8(3) of the 1997 Regulations[^f00025]; or
 - (b) in a case in which the services required were not so specified, the services which the medical practitioner whose death or withdrawal or removal from the Board’s medical list led to the declaration of the vacancy was providing to his patients immediately prior to his death or withdrawal or removal from the list.
 
-### 18. Additional services in general medical services contracts entered into following a default contract[^key-e427a87a1977fb81959b889ddc05f858]
+### 18. Additional services in general medical services contracts entered into following a default contract[^c-e427a87a1977fb81959b889ddc05f858]
 
 Where, after 31st March 2004, a Board enters into a general medical services contract pursuant to Article 3 or 5 with a person who, immediately before the coming into operation of that general medical services contract, is a party to a default contract with that Board, that general medical services contract must require the contractor to provide in core hours to his registered patients and persons accepted by him as temporary residents such of the additional services as were required to be provided under the default contract, except to the extent that, prior to the signing of the general medical services contract, the Board which is a prospective party to that contract has accepted in writing a written request from the contractor that the general medical services contract should not require him to provide all or any of those additional services.
 
-### 19. Out of hours services in default contracts[^key-87ad0c93d30a865f3271cb1315a7999c]
+### 19. Out of hours services in default contracts[^c-87ad0c93d30a865f3271cb1315a7999c]
 
 (1) Subject to paragraph (6), a default contract must require the contractor to provide the services specified in paragraph (2) throughout the out of hours period unless the contract is, at the date on which it is signed, with –
 
@@ -502,7 +502,7 @@ that default contract must require the contractor to continue to provide such se
 
 (6) Nothing in this Article shall require a default contractor to provide out of hours services if, in the reasonable opinion of the contractor in the light of the patient’s medical condition, it would be reasonable in all the circumstances for the patient to wait for the services required until the next time at which he could obtain such services during core hours.
 
-### 20. Out of hours services in general medical services contracts to patients of exempt contractors who have entered into a default contract[^key-92b5ae3c0bb84b45e79509a936018a6d]
+### 20. Out of hours services in general medical services contracts to patients of exempt contractors who have entered into a default contract[^c-92b5ae3c0bb84b45e79509a936018a6d]
 
 (1) Where a general medical services contract is with –
 
@@ -527,7 +527,7 @@ the general medical services contract with that contractor must require him to c
 
 (4) In this Article “exempt contractor” means a contractor who is exempt from providing out of hours services pursuant to Article 19(1)(a) or (b).
 
-### 21. Modification of certain out of hours provisions in the 2004 Regulations during the existence of default contracts[^key-534a4ef257d7e5fbca4710bc2b41f442]
+### 21. Modification of certain out of hours provisions in the 2004 Regulations during the existence of default contracts[^c-534a4ef257d7e5fbca4710bc2b41f442]
 
 For as long as default contracts exist –
 
@@ -536,7 +536,7 @@ For as long as default contracts exist –
   - (i) the reference to a general medical services contract in paragraph 1(5) included a reference to a default contract, and
   - (ii) in paragraph 5(1)(a), after “contract” there were included “or, as the case may be, default contract”.
 
-### 22. Modification of certain out of hours provisions in the 2004 Regulations during the existence of contractual arrangements made under Article 15[^key-977a35a059d33ab32fd2bba58d90300e]
+### 22. Modification of certain out of hours provisions in the 2004 Regulations during the existence of contractual arrangements made under Article 15[^c-977a35a059d33ab32fd2bba58d90300e]
 
 For as long as contractual arrangements made under Article 15 exist –
 
@@ -549,7 +549,7 @@ For as long as contractual arrangements made under Article 15 exist –
   - (i) in paragraph 1(5), after “contract” there were included “, or who is a party to contractual arrangements made under Article 15 of the General Medical Services Transitional and Consequential Provisions (No. 1) (Northern Ireland) Order 2004,”, and
   - (ii) in paragraph 5(1)(a), after “contract” (or, if Article 21(b)(ii) applies, after “default contract”) there were included “or to be a party to contractual arrangements made under Article 15 of the General Medical Services Transitional and Consequential Provisions (No. 1) (Northern Ireland) Order 2004,”.
 
-### 23. Effect on a general medical services contract of approval of an out of hours arrangement made by a default contractor[^key-f12963d31c21581ac4f8643746c2581a]
+### 23. Effect on a general medical services contract of approval of an out of hours arrangement made by a default contractor[^c-f12963d31c21581ac4f8643746c2581a]
 
 (1) Where, under the terms of the default contract which are equivalent to Schedule 6 to the 2004 Regulations, a Board has approved an out of hours arrangement made by a default contractor with a person who holds a general medical services contract, the Board with whom that person holds his general medical services contract and that general medical services contractor shall be deemed to have agreed a variation of their contract which has the effect of including in it, from the date on which the out of hours arrangement commences, and for so long as that arrangement is not terminated, the services covered by that arrangement.
 
@@ -557,7 +557,7 @@ For as long as contractual arrangements made under Article 15 exist –
 
 (3) In this Article, “out of hours arrangement” means an arrangement made under the term of the default contract which is equivalent to paragraph 1(2) of Schedule 6 to the 2004 Regulations.
 
-### 24. Services to patients not registered with the contractor in default contracts and general medical services contracts entered into on or before 31st March 2004[^key-35a76f6dc03a36af75e2fec850616171]
+### 24. Services to patients not registered with the contractor in default contracts and general medical services contracts entered into on or before 31st March 2004[^c-35a76f6dc03a36af75e2fec850616171]
 
 (1) Where a medical practitioner who meets the requirements in paragraph (2) –
 
@@ -587,7 +587,7 @@ that contract must require the contractor to provide such of the additional serv
 
 (6) Where paragraph (5) applies, the requirement to inform patients of opt outs in the term of the general medical services contract which gives effect to paragraph 6 of Schedule 2 to the 2004 Regulations shall apply to the patients to whom services are provided pursuant to this paragraph as it applies to the contractor’s own registered patients.
 
-### 25. Services to patients not registered with the contractor in general medical services contracts entered into following a default contract[^key-b6e4aa7de009e74ce591248a433e4273]
+### 25. Services to patients not registered with the contractor in general medical services contracts entered into following a default contract[^c-b6e4aa7de009e74ce591248a433e4273]
 
 (1) Where, after 31st March 2004, a Board enters into a general medical services contract pursuant to Articles 3 or 5 with a person who, immediately before the coming into operation of that contract, is a party to a default contract, that general medical services contract shall require the contractor to provide to patients who are not included on the contractor’s list of patients such of the additional services as were provided to those patients under that default contract, except to the extent that the contractor is not required to provide the additional service concerned to his registered patients under Article 18.
 
@@ -595,7 +595,7 @@ that contract must require the contractor to provide such of the additional serv
 
 (3) Paragraphs (4) to (6) of Article 24 shall apply to additional services included in a general medical services contract pursuant to this paragraph.
 
-### 26. Premises for the purposes of default contracts and general medical services contracts entered into on or before 31st March 2004[^key-44574580658298d1b4320b71bba4a45f]
+### 26. Premises for the purposes of default contracts and general medical services contracts entered into on or before 31st March 2004[^c-44574580658298d1b4320b71bba4a45f]
 
 (1) Where a medical practitioner who, on 31st March 2004 is providing general medical services under Article 56 of the 1972 Order –
 
@@ -616,14 +616,14 @@ the practice premises specified in that contract at its commencement must, unles
 
 (3) The inclusion of any particular practice premises in a default or general medical services contract pursuant to paragraph (1) is without prejudice to the contract also including a plan in respect of those premises pursuant to regulation 18(3) of the 2004 Regulations.
 
-### 27. Practice area for the purposes of default contracts[^key-94841bacb138b32054823473c9e7a7c6]
+### 27. Practice area for the purposes of default contracts[^c-94841bacb138b32054823473c9e7a7c6]
 
 The area specified at its commencement in a default contract as the area as respects which persons resident in it will, subject to any other terms of the contract relating to patient registration, be entitled to register with the contractor or seek acceptance by him as a temporary resident must be –
 
 - (a) in the case of a default contract with an individual medical practitioner, the area which was that practitioner’s practice area on 31st March 2004 (or on the date on which the contract is signed, if earlier) for the purposes of his arrangements under Article 56 of the 1972 Order; or
 - (b) in the case of a default contract with two or more medical practitioners practising in partnership, the area which covers all of the areas which were those practitioners' practice areas on 31st March 2004 (or on the date on which the contract is signed, if earlier) for the purposes of their arrangements under Article 56 of the 1972 Order.
 
-### 28. Lists of patients for default contracts and general medical services contracts entered into on or before 31st March 2004[^key-0b785ea39df99050957a2d85d362229f]
+### 28. Lists of patients for default contracts and general medical services contracts entered into on or before 31st March 2004[^c-0b785ea39df99050957a2d85d362229f]
 
 (1) Subject to Article 30(1), where a medical practitioner who, on 31st March 2004 is providing general medical services under Article 56 of the 1972 Order –
 
@@ -646,14 +646,14 @@ the Board must include on the contractor’s list of patients for the purposes o
   unless, in the case of a general medical services contract, they live outside the practice area as specified in that contract and were not included on the medical practitioner’s list of patients by virtue of an assignment under regulation 4 of the Choice Regulations[^f00031]; and
 - (b) had been assigned to the contractor or to any of the persons listed in paragraph (2)(a)(ii) or (iii) under regulation 4 of the Choice Regulations but not yet included in the list referred to in sub-paragraph (a).
 
-### 29. Lists of patients for general medical services contracts entered into following a default contract[^key-dafbeddb905431fa9ae595f9fda87d53]
+### 29. Lists of patients for general medical services contracts entered into following a default contract[^c-dafbeddb905431fa9ae595f9fda87d53]
 
 Where, after 31st March 2004, a Board enters into a general medical services contract pursuant to Article 3 or 5 with a person who, immediately before the coming into operation of that general medical services contract, is a party to a default contract, it must include on the contractor’s list of patients, for the purposes of that general medical services contract –
 
 - (a) all the patients who, on the date immediately before the coming into operation of the general medical services contract, were on the contractor’s list of patients for the purposes of the default contract, unless they live outside the practice area as specified in the general medical services contract and were not included on the list of patients by virtue of an assignment under regulation 4 of the Choice Regulations or under the default contract; and
 - (b) any patient who had been assigned to the default contractor in accordance with the terms of the default contract but not yet included in the list referred to in paragraph (a).
 
-### 30. Lists of patients for default contracts and general medical services contracts entered into following arrangements under regulation 24 of the 1997 Regulations or Article 15[^key-928851dd26dbfc2ceb6bb81413931662]
+### 30. Lists of patients for default contracts and general medical services contracts entered into following arrangements under regulation 24 of the 1997 Regulations or Article 15[^c-928851dd26dbfc2ceb6bb81413931662]
 
 (1) Where, on or before 31st March 2004, a Board enters into a default contract or a general medical services contract pursuant to Article 3 with an individual medical practitioner for whom, immediately prior to the commencement of that contract, it had in place temporary arrangements under regulation 24(2) or (6) of the 1997 Regulations[^f00032], it must include on the contractor’s list of patients at the start of that default, or, as the case may be, general medical services contract, all of the patients who, on the date on which the temporary arrangements came to an end were –
 
@@ -664,7 +664,7 @@ apart from, in the case of a general medical services contract, any such patient
 
 (2) Where, after 31st March 2004, a Board enters into a general medical services contract pursuant to Article 3 with an individual medical practitioner for whom, immediately prior to the commencement of that contract, it had in place contractual arrangements under Article 15, it must include on the contractor’s list of patients at the start of that general medical services contract all of the patients who were, on the date on which those contractual arrangements came to an end, on the list of patients prepared and maintained by the Board for the purpose of those contractual arrangements, apart from any such patient who lives outside the practice area as specified in the general medical services contract and whose inclusion in the list of patients did not result from an assignment under regulation 4 of the Choice Regulations or under the contractual arrangements under Article 15.
 
-### 31. Status of contractor’s list of patients for default contracts[^key-c6e545d0eaa02b81344984e4617b7155]
+### 31. Status of contractor’s list of patients for default contracts[^c-c6e545d0eaa02b81344984e4617b7155]
 
 (1) The contractor’s list of patients for the purposes of a default contract shall, for as long as that contract subsists, be open to applications from patients in accordance with the terms of the default contract, except in the circumstances specified in paragraph (2).
 
@@ -681,7 +681,7 @@ apart from, in the case of a general medical services contract, any such patient
 
 (5) A contractor who has re-opened his list under paragraph (4) shall not be entitled to close it again during the subsistence of the default contract.
 
-### 32. Status of contractor’s list of patients for general medical services contracts[^key-5194ecc34bad3e0b49d60b5802ce91cc]
+### 32. Status of contractor’s list of patients for general medical services contracts[^c-5194ecc34bad3e0b49d60b5802ce91cc]
 
 (1) Where a medical practitioner who, on 31st March 2004 is providing general medical services under Article 56 of the 1972 Order –
 
@@ -704,7 +704,7 @@ the contractor’s list of patients for the purposes of that contract shall, on 
 
 (5) A contractor who has re-opened his list under paragraph (4) shall not be entitled to close it again during the period of 12 months referred to in paragraph (4) except under the term of his general medical services contract which gives effect to paragraph 29 of Schedule 5 to the 2004 Regulations.
 
-### 33. Dispute resolution procedures for default contracts[^key-9c619a29196d2c3c980b1b01dc377fbb]
+### 33. Dispute resolution procedures for default contracts[^c-9c619a29196d2c3c980b1b01dc377fbb]
 
 (1) Any dispute arising out of or in connection with the default contract, except matters dealt with under the complaints procedure contained in that contract, may be referred for consideration and determination to the Department, if –
 
@@ -713,7 +713,7 @@ the contractor’s list of patients for the purposes of that contract shall, on 
 
 (2) In the case of a dispute referred to the Department under sub-paragraph (1), the procedure to be followed is that specified in paragraphs 93(3) to (14) and 94 of Schedule 5 to the 2004 Regulations, subject to the modification that the references in paragraph 94(2) and (3) to paragraph 92(1) shall be read as references to paragraph (1) of this Article.
 
-### 34. Additional ground for termination of a general medical services contract[^key-3d1df2887d09ad99dfe06fedc7d24e48]
+### 34. Additional ground for termination of a general medical services contract[^c-3d1df2887d09ad99dfe06fedc7d24e48]
 
 Where a Board has entered into a general medical services contract –
 
@@ -724,7 +724,7 @@ paragraph 105 of Schedule 5 to the 2004 Regulations shall apply to that contract
 
 ## PART 5 — FINANCIAL ARRANGEMENTS
 
-### 35. Interpretation of this Part[^key-e4e5d719a5c6ca621307c4c3ed3cf245]
+### 35. Interpretation of this Part[^c-e4e5d719a5c6ca621307c4c3ed3cf245]
 
 In this Part –
 
@@ -733,7 +733,7 @@ In this Part –
 - (c) “Statement of Fees and Allowances” means the statement determined and published by the Department under regulation 37 of the 1997 Regulations[^f00034], as that statement had effect on 31st March 2004; and
 - (d) “Statement of Financial Entitlements” means any directions given by the Department under Article 57C of the 1972 Order[^f00035], and expressions used both in Article 35(2) to (6) and in the Statement of Financial Entitlements, unless they are defined elsewhere in this Order, have the same meaning as in the Statement of Financial Entitlements.
 
-### 36. Payments under default contracts[^key-a1d33d62e21268b0c43a29ee07846516]
+### 36. Payments under default contracts[^c-a1d33d62e21268b0c43a29ee07846516]
 
 (1) Subject to the following provisions of this Part, where a Board enters into a default contract, the only payments that are to be made by the Board to the contractor under that default contract are the payments mentioned in this Article (although this is without prejudice to any powers that the Board has to make payments to the contractor under other arrangements).
 
@@ -796,7 +796,7 @@ in circumstances where the Board must, pursuant to the Premises Costs Directions
 
 the Board must pay to the contractor under his default contract a reasonable amount in respect of those services.
 
-### 37. Due dates for payments under a default contract[^key-9cd72a754acd129ddd37ca6c02108096]
+### 37. Due dates for payments under a default contract[^c-9cd72a754acd129ddd37ca6c02108096]
 
 Payments under –
 
@@ -811,7 +811,7 @@ Payments under –
 
 but the Board may make payments on account in respect of any of those payments before they fall due.
 
-### 38. Part payment of periodic payments where a contractor does not enter into a general medical services contract[^key-293024b5a14b8b103223cedb937961c2]
+### 38. Part payment of periodic payments where a contractor does not enter into a general medical services contract[^c-293024b5a14b8b103223cedb937961c2]
 
 If a contractor does not enter into a general medical services contract which takes effect immediately after his default contract ceases to have effect, and –
 
@@ -826,7 +826,7 @@ If a contractor does not enter into a general medical services contract which ta
 
   had the contract terminated on the last day of a quarter of the financial year, and that proportion is to be calculated by multiplying that payment by the fraction produced by dividing the number of days in the quarter during which the contractor was providing services under the default contract by the total number of days in the quarter.
 
-### 39. Conditions, set offs etc. relating to payments under a default contract[^key-cd052d06b851a68c9ea153d3f095417f]
+### 39. Conditions, set offs etc. relating to payments under a default contract[^c-cd052d06b851a68c9ea153d3f095417f]
 
 (1) Payments are only payable under Article 36 or 38 in circumstances where the contractor has made available to the Board any information which the Board does not have but needs, and which the contractor either has or could reasonably be expected to provide, in order for the Board to be able to calculate the payment.
 
@@ -840,7 +840,7 @@ If a contractor does not enter into a general medical services contract which ta
 - (a) require repayment of any amount that has been paid to a contractor under his default contract but to which the contractor was not entitled; and
 - (b) set off against any amount payable under a default contract an amount that has been paid to a contractor under his default contract but to which the contractor was not entitled.
 
-### 40. Effect of contractors entering into a general medical services contract[^key-e03758d4f1e2982380457d8e4e128bdd]
+### 40. Effect of contractors entering into a general medical services contract[^c-e03758d4f1e2982380457d8e4e128bdd]
 
 If a contractor who has entered into a default contract thereafter enters into a general medical services contract which takes effect immediately after his default contract ceases to have effect, the Board that is a party to the general medical services contract must ensure that the general medical services contract –
 
@@ -853,7 +853,7 @@ If a contractor who has entered into a default contract thereafter enters into a
   and accordingly any condition that attaches, or is to be attached, to such a payment, when made under a general medical services contract, by virtue of the Statement of Financial Entitlements or the Premises Costs Directions, is attached to that payment; and
 - (d) where appropriate, contains a condition to the effect that any payment that has been made under the default contract pursuant to Article 36(8) is set off, equitably, against any payment for equivalent services provided under the general medical services contract.
 
-### 41. Persons not able to enter into a default contract[^key-28d8646a79171c9d02738d140003293b]
+### 41. Persons not able to enter into a default contract[^c-28d8646a79171c9d02738d140003293b]
 
 (1) Where a person to whom Article 13(2) or (3) applies is unable to enter into a default contract because the Board with whom he would have entered into a default contract is not satisfied of the matters specified in paragraphs (5) or (6) of that Article or because he is performing relevant service, that Board may pay to that person any payment that he would have been entitled to receive under the default contract, had he been able to enter into a default contract, or may pay him a proportion thereof (having regard, amongst other matters, to the cost of any temporary arrangements made by the Board for the provision of primary medical services to his patients) for as long as he is not able to enter into –
 
@@ -873,7 +873,7 @@ but he remains entitled to enter into a general medical services contract.
   and accordingly any condition that attaches, or is to be attached, to such a payment, when made under a general medical services contract, by virtue of the Statement of Financial Entitlements or the Premises Costs Directions, is attached to that payment; and
 - (d) in the case of a default contract, contains a condition to the effect that any payment that has been made under paragraph (1) that could have been made as a payment under the default contract, had the contractor entered into the default contract on or before 31st March 2004, shall be treated as a payment under the default contract, and accordingly any condition attached to such a payment by virtue of this Order is attached to that payment.
 
-### 42. Claims under the Statement of Fees and Allowances[^key-4ced5e7ca5b3098f42c400746ffcb461]
+### 42. Claims under the Statement of Fees and Allowances[^c-4ced5e7ca5b3098f42c400746ffcb461]
 
 (1) Notwithstanding the repeal of the 1997 Regulations, claims may still be made for payments under the Statement of Fees and Allowances by any person who may be entitled to such a payment, provided that the claim is made within any period stipulated in the Statement of Fees and Allowances as being the period during which a claim for the payment is to be made.
 
@@ -907,7 +907,7 @@ Part 5 sets out the financial arrangements for default contracts, for general me
 
 [^f00002]: Footnote: [S.I 2004/311 (N.I. 2)](https://www.legislation.gov.uk/nisi/2004/311)
 
-[^key-acc69797d831879a7aa6a99fefdd51bd]: Commencement: Art. 1 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-acc69797d831879a7aa6a99fefdd51bd]: Commencement: Art. 1 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
 [^f00003]: Footnote: [S.I. 1972/1265 (N.I.14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
@@ -933,11 +933,11 @@ Part 5 sets out the financial arrangements for default contracts, for general me
 
 [^f00014]: Footnote: Regulation 8 was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)
 
-[^key-b75d5e9b0d70eb1cca93ecd05d9ac588]: Commencement: Art. 2 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-b75d5e9b0d70eb1cca93ecd05d9ac588]: Commencement: Art. 2 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
 [^f00015]: Footnote: Article 56 was amended by [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) and [S.I. 1997/1177(N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177)
 
-[^key-50c0e6db5199582d9864aeb42c857eeb]: Commencement: Art. 3 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-50c0e6db5199582d9864aeb42c857eeb]: Commencement: Art. 3 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
 [^f00016]: Footnote: Regulation 4(1)(a) was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)
 
@@ -951,57 +951,57 @@ Part 5 sets out the financial arrangements for default contracts, for general me
 
 [^f00021]: Footnote: [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135). This Order substitutes the sections referred to in Article 3(5)
 
-[^key-7e3aa5252df5ecc295b76015a57facde]: Commencement: Art. 4 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-7e3aa5252df5ecc295b76015a57facde]: Commencement: Art. 4 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-2266e032843bd2d64b4ba320a7f1c393]: Commencement: Art. 5 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-2266e032843bd2d64b4ba320a7f1c393]: Commencement: Art. 5 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
 [^f00022]: Footnote: Regulation 12 was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)
 
-[^key-c16d6198b9f402ce4d9f8eb02a7d2a56]: Commencement: Art. 6 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-c16d6198b9f402ce4d9f8eb02a7d2a56]: Commencement: Art. 6 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-33974276d73de991164a5c099b5a2332]: Commencement: Art. 7 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-33974276d73de991164a5c099b5a2332]: Commencement: Art. 7 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-52ca6337bad15199c3f6f2a42cf8e4cd]: Commencement: Art. 8 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-52ca6337bad15199c3f6f2a42cf8e4cd]: Commencement: Art. 8 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-5129686b8f3f7b04521bcdb01ee52259]: Commencement: Art. 9 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-5129686b8f3f7b04521bcdb01ee52259]: Commencement: Art. 9 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-dd856ee769419c7cf535498253fd9ebb]: Commencement: Art. 10 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-dd856ee769419c7cf535498253fd9ebb]: Commencement: Art. 10 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-e2a2b92221d01946c674593b87c7bc2d]: Commencement: Art. 11 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-e2a2b92221d01946c674593b87c7bc2d]: Commencement: Art. 11 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-acd39bb753dfae4f7670a5da03618df2]: Commencement: Art. 12 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-acd39bb753dfae4f7670a5da03618df2]: Commencement: Art. 12 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-d1e3b20a6a241aca47850b29f7b68225]: Commencement: Art. 13 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-d1e3b20a6a241aca47850b29f7b68225]: Commencement: Art. 13 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
 [^f00023]: Footnote: The Default Contract 2004 is published by the Department of Health, Social Services and Public Safety. It is available on the Department’s website at www.dhsspsni.gov.uk/hss/gpcontracts or a copy can be obtained by writing to the Department of Health, Social Services and Public Safety, Room D 3.21, Castle Buildings, Stormont Estate, Belfast BT4 3SQ
 
-[^key-e0480b168ee0f641a25832d70fadea04]: Commencement: Art. 14 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-e0480b168ee0f641a25832d70fadea04]: Commencement: Art. 14 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-675f98f020d4258b1e7786e2b7dcfd4f]: Commencement: Art. 15 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-675f98f020d4258b1e7786e2b7dcfd4f]: Commencement: Art. 15 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
 [^f00024]: Footnote: Regulation 24(2) was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)
 
-[^key-73d47e6c8f299cfa4444aedc3bc4aa25]: Commencement: Art. 16 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-73d47e6c8f299cfa4444aedc3bc4aa25]: Commencement: Art. 16 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-9831842d684270d739adea9c15b8da5b]: Commencement: Art. 17 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-9831842d684270d739adea9c15b8da5b]: Commencement: Art. 17 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
 [^f00025]: Footnote: Paragraph 8(3) was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)
 
-[^key-e427a87a1977fb81959b889ddc05f858]: Commencement: Art. 18 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-e427a87a1977fb81959b889ddc05f858]: Commencement: Art. 18 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-87ad0c93d30a865f3271cb1315a7999c]: Commencement: Art. 19 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-87ad0c93d30a865f3271cb1315a7999c]: Commencement: Art. 19 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
 [^f00026]: Footnote: Paragraph 20(2) was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)
 
-[^key-92b5ae3c0bb84b45e79509a936018a6d]: Commencement: Art. 20 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-92b5ae3c0bb84b45e79509a936018a6d]: Commencement: Art. 20 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-534a4ef257d7e5fbca4710bc2b41f442]: Commencement: Art. 21 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-534a4ef257d7e5fbca4710bc2b41f442]: Commencement: Art. 21 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-977a35a059d33ab32fd2bba58d90300e]: Commencement: Art. 22 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-977a35a059d33ab32fd2bba58d90300e]: Commencement: Art. 22 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-f12963d31c21581ac4f8643746c2581a]: Commencement: Art. 23 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-f12963d31c21581ac4f8643746c2581a]: Commencement: Art. 23 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-35a76f6dc03a36af75e2fec850616171]: Commencement: Art. 24 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-35a76f6dc03a36af75e2fec850616171]: Commencement: Art. 24 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
 [^f00027]: Footnote: Article 56 was amended by [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) and [S.I. 1997/1177(N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177)
 
@@ -1009,33 +1009,33 @@ Part 5 sets out the financial arrangements for default contracts, for general me
 
 [^f00029]: Footnote: Regulation 34 was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)
 
-[^key-b6e4aa7de009e74ce591248a433e4273]: Commencement: Art. 25 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-b6e4aa7de009e74ce591248a433e4273]: Commencement: Art. 25 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-44574580658298d1b4320b71bba4a45f]: Commencement: Art. 26 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-44574580658298d1b4320b71bba4a45f]: Commencement: Art. 26 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-94841bacb138b32054823473c9e7a7c6]: Commencement: Art. 27 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-94841bacb138b32054823473c9e7a7c6]: Commencement: Art. 27 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-0b785ea39df99050957a2d85d362229f]: Commencement: Art. 28 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-0b785ea39df99050957a2d85d362229f]: Commencement: Art. 28 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
 [^f00030]: Footnote: Regulation 18 was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)
 
 [^f00031]: Footnote: Regulation 4 was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)
 
-[^key-dafbeddb905431fa9ae595f9fda87d53]: Commencement: Art. 29 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-dafbeddb905431fa9ae595f9fda87d53]: Commencement: Art. 29 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-928851dd26dbfc2ceb6bb81413931662]: Commencement: Art. 30 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-928851dd26dbfc2ceb6bb81413931662]: Commencement: Art. 30 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
 [^f00032]: Footnote: Regulation 24(2) was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)
 
-[^key-c6e545d0eaa02b81344984e4617b7155]: Commencement: Art. 31 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-c6e545d0eaa02b81344984e4617b7155]: Commencement: Art. 31 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-5194ecc34bad3e0b49d60b5802ce91cc]: Commencement: Art. 32 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-5194ecc34bad3e0b49d60b5802ce91cc]: Commencement: Art. 32 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-9c619a29196d2c3c980b1b01dc377fbb]: Commencement: Art. 33 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-9c619a29196d2c3c980b1b01dc377fbb]: Commencement: Art. 33 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-3d1df2887d09ad99dfe06fedc7d24e48]: Commencement: Art. 34 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-3d1df2887d09ad99dfe06fedc7d24e48]: Commencement: Art. 34 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-e4e5d719a5c6ca621307c4c3ed3cf245]: Commencement: Art. 35 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-e4e5d719a5c6ca621307c4c3ed3cf245]: Commencement: Art. 35 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
 [^f00033]: Footnote: Article 17 was amended by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755) and [S.I. 1997/1177(N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177)
 
@@ -1043,16 +1043,16 @@ Part 5 sets out the financial arrangements for default contracts, for general me
 
 [^f00035]: Footnote: Article 57C was inserted by Article 4 of the Order
 
-[^key-a1d33d62e21268b0c43a29ee07846516]: Commencement: Art. 36 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-a1d33d62e21268b0c43a29ee07846516]: Commencement: Art. 36 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-9cd72a754acd129ddd37ca6c02108096]: Commencement: Art. 37 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-9cd72a754acd129ddd37ca6c02108096]: Commencement: Art. 37 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-293024b5a14b8b103223cedb937961c2]: Commencement: Art. 38 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-293024b5a14b8b103223cedb937961c2]: Commencement: Art. 38 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-cd052d06b851a68c9ea153d3f095417f]: Commencement: Art. 39 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-cd052d06b851a68c9ea153d3f095417f]: Commencement: Art. 39 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-e03758d4f1e2982380457d8e4e128bdd]: Commencement: Art. 40 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-e03758d4f1e2982380457d8e4e128bdd]: Commencement: Art. 40 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-28d8646a79171c9d02738d140003293b]: Commencement: Art. 41 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-28d8646a79171c9d02738d140003293b]: Commencement: Art. 41 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
 
-[^key-4ced5e7ca5b3098f42c400746ffcb461]: Commencement: Art. 42 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)
+[^c-4ced5e7ca5b3098f42c400746ffcb461]: Commencement: Art. 42 in operation at 29.3.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/141/article/1/1)

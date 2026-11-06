@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357BN. Small claims treatment[^key-c419e2443f2ebe0b2be4436f50d32415][^key-3f3b3eec0117028f84fab3c68f3024c2]
+## 357BN. Small claims treatment[^c-c419e2443f2ebe0b2be4436f50d32415][^c-3f3b3eec0117028f84fab3c68f3024c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,27 +54,27 @@ This is subject to subsections (3) and (4).
 
 (7) For the purposes of this section, the “relevant maximum” for an accounting period of a company is—
 
-- (a) in a case where the company has no associated company[^key-9f2b053f93c95b55ec401665d41f2269] in the accounting period, £3,000,000;
-- (b) in a case where one or more companies are related 51% group companies of the company[^key-b95238d2ae486b16cff198a53bb08988] in the accounting period, the amount given by the formula—
+- (a) in a case where the company has no associated company[^c-9f2b053f93c95b55ec401665d41f2269] in the accounting period, £3,000,000;
+- (b) in a case where one or more companies are related 51% group companies of the company[^c-b95238d2ae486b16cff198a53bb08988] in the accounting period, the amount given by the formula—
 
   [formula: see source](https://www.legislation.gov.uk/ukpga/2010/4)
 
-  where N is the number of those associated[^key-89a857a3a040677c28a7431066a72841] companies in relation to which an election under section 357A(1) has effect for the accounting period.
+  where N is the number of those associated[^c-89a857a3a040677c28a7431066a72841] companies in relation to which an election under section 357A(1) has effect for the accounting period.
 
 (8) For an accounting period of less than 12 months, the relevant maximum is proportionally reduced.
 
-(9)[^key-b14b1aa781fabeec23ede30d81ea1542] The rules in Part 3A (see sections 18E to 18J) which apply for determining whether a company is another company's associated company in an accounting period for the purposes of section 18D apply for the purposes of this section.
+(9)[^c-b14b1aa781fabeec23ede30d81ea1542] The rules in Part 3A (see sections 18E to 18J) which apply for determining whether a company is another company's associated company in an accounting period for the purposes of section 18D apply for the purposes of this section.
 
 ## Annotations
 
-[^key-c419e2443f2ebe0b2be4436f50d32415]: Textual amendment: Pt. 8A Chs. 2A, 2B inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3)
+[^c-c419e2443f2ebe0b2be4436f50d32415]: Textual amendment: Pt. 8A Chs. 2A, 2B inserted (with effect in accordance with s. 64(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 64(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/64/3)
 
-[^key-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
+[^c-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
 
-[^key-9f2b053f93c95b55ec401665d41f2269]: Textual amendment: Words in [s. 357BN(7)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BN/7/a) substituted (with effect in accordance with Sch. 1 para. 33 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/20/2/a)
+[^c-9f2b053f93c95b55ec401665d41f2269]: Textual amendment: Words in [s. 357BN(7)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BN/7/a) substituted (with effect in accordance with Sch. 1 para. 33 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/20/2/a)
 
-[^key-b95238d2ae486b16cff198a53bb08988]: Textual amendment: Words in [s. 357BN(7)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BN/7/b) substituted (with effect in accordance with Sch. 1 para. 33 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/20/2/b)
+[^c-b95238d2ae486b16cff198a53bb08988]: Textual amendment: Words in [s. 357BN(7)(b)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BN/7/b) substituted (with effect in accordance with Sch. 1 para. 33 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/20/2/b)
 
-[^key-89a857a3a040677c28a7431066a72841]: Textual amendment: Words in [s. 357BN(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BN/7) substituted (with effect in accordance with Sch. 1 para. 33 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 20(2)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/20/2/c)
+[^c-89a857a3a040677c28a7431066a72841]: Textual amendment: Words in [s. 357BN(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BN/7) substituted (with effect in accordance with Sch. 1 para. 33 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 20(2)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/20/2/c)
 
-[^key-b14b1aa781fabeec23ede30d81ea1542]: Textual amendment: [S. 357BN(9)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BN/9) inserted (with effect in accordance with Sch. 1 para. 33 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/20/3)
+[^c-b14b1aa781fabeec23ede30d81ea1542]: Textual amendment: [S. 357BN(9)](https://www.legislation.gov.uk/ukpga/2010/4/section/357BN/9) inserted (with effect in accordance with Sch. 1 para. 33 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 20(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/20/3)

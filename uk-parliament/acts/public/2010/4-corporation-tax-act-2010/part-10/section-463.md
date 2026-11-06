@@ -32,8 +32,8 @@ summary: ''
 
 (6) When the release or writing off takes place, Y is treated as receiving an amount to which the charge to corporation tax on income applies.
 
-(7)[^key-d7c93c49d2bed0339b6fe4bf95d419f1] The amount which Y is treated as receiving is equal to the amount released or written off.
+(7)[^c-d7c93c49d2bed0339b6fe4bf95d419f1] The amount which Y is treated as receiving is equal to the amount released or written off.
 
 ## Annotations
 
-[^key-d7c93c49d2bed0339b6fe4bf95d419f1]: Textual amendment: [S. 463(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/463/7) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/31)
+[^c-d7c93c49d2bed0339b6fe4bf95d419f1]: Textual amendment: [S. 463(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/463/7) substituted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/31)

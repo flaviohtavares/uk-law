@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Relief for disposals by individuals on retirement from family business.[^key-e968fa1bc7dc3218e42edd3666c9629b]
+## 163. Relief for disposals by individuals on retirement from family business.[^c-e968fa1bc7dc3218e42edd3666c9629b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e968fa1bc7dc3218e42edd3666c9629b]: Textual amendment: S. 163 repealed (with effect in relation to disposals in the year 2003-04 and subsequent years of assessment in accordance with s. 140(2), Sch. 27 Pt. III(31) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 140(2)(a)](https://www.legislation.gov.uk/ukpga/1998/36/section/140/2/a), [Sch. 27 Pt. III(31)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/31)
+[^c-e968fa1bc7dc3218e42edd3666c9629b]: Textual amendment: S. 163 repealed (with effect in relation to disposals in the year 2003-04 and subsequent years of assessment in accordance with s. 140(2), Sch. 27 Pt. III(31) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [s. 140(2)(a)](https://www.legislation.gov.uk/ukpga/1998/36/section/140/2/a), [Sch. 27 Pt. III(31)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/31)

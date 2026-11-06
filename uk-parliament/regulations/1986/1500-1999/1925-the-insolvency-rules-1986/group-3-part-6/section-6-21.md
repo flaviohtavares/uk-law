@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.21. Petition opposed by debtor[^key-cb1196d2421904cf037d8870f98f1ea5]
+## 6.21. Petition opposed by debtor[^c-cb1196d2421904cf037d8870f98f1ea5]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Where the debtor intends to oppose the petition, he shall not later than 7 days 
 
 ## Annotations
 
-[^key-cb1196d2421904cf037d8870f98f1ea5]: Commencement: [Rule 6.21](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.21) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-cb1196d2421904cf037d8870f98f1ea5]: Commencement: [Rule 6.21](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.21) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00132]: Marginal citation: \[FORM 6.19\]

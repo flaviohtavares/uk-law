@@ -45,13 +45,13 @@ Coming into force
 
 The Secretary of State for Transport, being satisfied that the site identified in article 2 of this Order is, or may prove to be, the site of a vessel lying wrecked on the sea bed and that, on account of the historical and archaeological importance of the vessel, the site ought to be protected from unauthorised interference, after consulting with the persons referred to in section 1(4) of the Protection of Wrecks Act 1973[^f00001], in exercise of the powers conferred upon him by section 1(1), (2) and (4) of that Act and of all other powers enabling him in that behalf, hereby orders as follows:—
 
-**1.**[^key-64662e9a7a7b1bf7bb8c218d25c4607f] This Order may be cited as the Protection of Wrecks (Designation No. 3) Order 1990 and shall come into force on 10th January 1991.
+**1.**[^c-64662e9a7a7b1bf7bb8c218d25c4607f] This Order may be cited as the Protection of Wrecks (Designation No. 3) Order 1990 and shall come into force on 10th January 1991.
 
-**2.**[^key-9352fd545832e17584f2e7b6124f2664] (1) The site where a vessel lies, or is supposed to lie wrecked on the sea bed and in respect of which this Order is made, is in position Latitude 60° 25.5" North, Longitude 0° 43.27" West.
+**2.**[^c-9352fd545832e17584f2e7b6124f2664] (1) The site where a vessel lies, or is supposed to lie wrecked on the sea bed and in respect of which this Order is made, is in position Latitude 60° 25.5" North, Longitude 0° 43.27" West.
 
 (2) The area within a distance of 100 metres of the said position, but excluding any part of that area which lies above the high-water mark of ordinary spring tides, shall be a restricted area for the purposes of the Protection of Wrecks Act 1973.
 
-**3.**[^key-a9b660c5821fcfeb87a2e5c115bc9ef9] The Protection of Wrecks (Designation No. 2) Order 1990[^f00002] is hereby revoked.
+**3.**[^c-a9b660c5821fcfeb87a2e5c115bc9ef9] The Protection of Wrecks (Designation No. 2) Order 1990[^f00002] is hereby revoked.
 
 Signed by authority of the Secretary of State for Transport
 
@@ -73,10 +73,10 @@ This Order corrects an error in the position of the centre of the site of an his
 
 [^f00001]: Footnote: [1973 c. 33](https://www.legislation.gov.uk/ukpga/1973/33).
 
-[^key-64662e9a7a7b1bf7bb8c218d25c4607f]: Commencement: Art. 1 in force at 10.1.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2573/article/1)
+[^c-64662e9a7a7b1bf7bb8c218d25c4607f]: Commencement: Art. 1 in force at 10.1.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2573/article/1)
 
-[^key-9352fd545832e17584f2e7b6124f2664]: Commencement: Art. 2 in force at 10.1.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2573/article/1)
+[^c-9352fd545832e17584f2e7b6124f2664]: Commencement: Art. 2 in force at 10.1.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2573/article/1)
 
-[^key-a9b660c5821fcfeb87a2e5c115bc9ef9]: Commencement: Art. 3 in force at 10.1.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2573/article/1)
+[^c-a9b660c5821fcfeb87a2e5c115bc9ef9]: Commencement: Art. 3 in force at 10.1.1991, see [art. 1](https://www.legislation.gov.uk/uksi/1990/2573/article/1)
 
 [^f00002]: Footnote: S.I. [1990/1694](https://www.legislation.gov.uk/uksi/1990/1694).

@@ -44,13 +44,13 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by Articles 3(3), 4(3) and 11(1) and (4) of the Pneumoconiosis, etc., (Workers’ Compensation) (Northern Ireland) Order 1979[^f00001] and now vested in it[^f00002].
 
-## 1. Citation, commencement and application[^key-603a324a5102c3f921b9d9d7052460c4]
+## 1. Citation, commencement and application[^c-603a324a5102c3f921b9d9d7052460c4]
 
 (1) These Regulations may be cited as the Pneumoconiosis, etc., (Workers’ Compensation) (Payment of Claims) (Amendment) Regulations (Northern Ireland) 2026 and shall come into operation on 1st April 2026 or the day after they are affirmed by resolution of the Assembly if later.
 
 (2) These Regulations apply only in relation to any case in which a person first satisfies the conditions of entitlement to a payment under the Pneumoconiosis, etc., (Workers’ Compensation) (Northern Ireland) Order 1979 on or after the day on which these Regulations come into operation.
 
-## 2. Amendment of the Pneumoconiosis, etc., (Workers’ Compensation) (Payment of Claims) Regulations[^key-a431db671ebe5a69f284c0c2033065b1]
+## 2. Amendment of the Pneumoconiosis, etc., (Workers’ Compensation) (Payment of Claims) Regulations[^c-a431db671ebe5a69f284c0c2033065b1]
 
 (1) The Pneumoconiosis, etc., (Workers’ Compensation) (Payment of Claims) Regulations (Northern Ireland) 1988[^f00003] are amended in accordance with paragraphs (2) to (4).
 
@@ -75,7 +75,7 @@ A senior officer of the Department for Communities
 
 Regulation 2(4)
 
-### PART 1[^key-3d677ff033c43a79a6c30948f9c99655]
+### PART 1[^c-3d677ff033c43a79a6c30948f9c99655]
 
 > Table 1
 >
@@ -131,7 +131,7 @@ Regulation 2(4)
 > </tbody>
 > </table>
 
-### PART 2[^key-8e10650c493f9c00858f839fa2a4be9a]
+### PART 2[^c-8e10650c493f9c00858f839fa2a4be9a]
 
 > PART A
 >
@@ -235,12 +235,12 @@ By virtue of regulation 1(2), the amendments made by these Regulations apply onl
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), the Department for Employment and Learning Act (Northern Ireland) [2001 (c. 15 (N.I.))](https://www.legislation.gov.uk/nia/2001/15), Article 3 of [S.R. 2006 No. 192](https://www.legislation.gov.uk/nisr/2006/192) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-603a324a5102c3f921b9d9d7052460c4]: Commencement: Reg. 1 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/24/regulation/1/1)
+[^c-603a324a5102c3f921b9d9d7052460c4]: Commencement: Reg. 1 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/24/regulation/1/1)
 
-[^key-a431db671ebe5a69f284c0c2033065b1]: Commencement: Reg. 2 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/24/regulation/1/1)
+[^c-a431db671ebe5a69f284c0c2033065b1]: Commencement: Reg. 2 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/24/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1988 No. 242](https://www.legislation.gov.uk/nisr/1988/242); relevant amending Regulations are [S.R. 2008 No. 352](https://www.legislation.gov.uk/nisr/2008/352) and [S.R. 2025 No. 36](https://www.legislation.gov.uk/nisr/2025/36)
 
-[^key-3d677ff033c43a79a6c30948f9c99655]: Commencement: Sch. Pt. 1 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/24/regulation/1/1)
+[^c-3d677ff033c43a79a6c30948f9c99655]: Commencement: Sch. Pt. 1 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/24/regulation/1/1)
 
-[^key-8e10650c493f9c00858f839fa2a4be9a]: Commencement: Sch. Pt. 2 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/24/regulation/1/1)
+[^c-8e10650c493f9c00858f839fa2a4be9a]: Commencement: Sch. Pt. 2 in operation at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/24/regulation/1/1)

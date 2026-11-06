@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. The NHS payment scheme[^key-15585f8c6178bdf88f9f56fba48e5799][^key-1ceb17434ffabfa6cd0db3c507ae2f6a][^key-48a98eadb7fcc5e33aac9979cc87a0af]
+## 77. The NHS payment scheme[^c-15585f8c6178bdf88f9f56fba48e5799][^c-1ceb17434ffabfa6cd0db3c507ae2f6a][^c-48a98eadb7fcc5e33aac9979cc87a0af]
 
 *Extent: E+W*
 
@@ -27,8 +27,8 @@ Schedule 10—
 
 ## Annotations
 
-[^key-15585f8c6178bdf88f9f56fba48e5799]: Commencement: S. 77 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-15585f8c6178bdf88f9f56fba48e5799]: Commencement: S. 77 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-1ceb17434ffabfa6cd0db3c507ae2f6a]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2022/31/section/77) in force at 1.7.2022 for specified purposes by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/b) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-1ceb17434ffabfa6cd0db3c507ae2f6a]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2022/31/section/77) in force at 1.7.2022 for specified purposes by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/b) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-48a98eadb7fcc5e33aac9979cc87a0af]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2022/31/section/77) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/d)
+[^c-48a98eadb7fcc5e33aac9979cc87a0af]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2022/31/section/77) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/d)

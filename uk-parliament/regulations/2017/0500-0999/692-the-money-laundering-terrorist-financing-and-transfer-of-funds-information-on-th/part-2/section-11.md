@@ -27,7 +27,7 @@ In these Regulations—
   - (ii) a local auditor within the meaning of section 4(1) of the Local Audit and Accountability Act 2014 (general requirements for audit) [^c23047831], when carrying out an audit required by that Act.
 - (b) “**insolvency practitioner**” means any firm or individual who acts as an insolvency practitioner within the meaning of section 388 of the Insolvency Act 1986 [^c23047841] or article 3 of the Insolvency (Northern Ireland) Order 1989 [^c23047851] (meaning of “act as insolvency practitioner”).
 - (c) “**external accountant**” means a firm or sole practitioner who by way of business provides accountancy services to other persons, when providing such services.
-- (d) “**tax adviser**” means a firm or sole practitioner who by way of business provides material aid, or assistance or advice, in connection with the tax affairs of other persons, whether provided directly or through a third party[^key-0acccdb00bfe3a24e6a5ecffc2b2097d], when providing such services.
+- (d) “**tax adviser**” means a firm or sole practitioner who by way of business provides material aid, or assistance or advice, in connection with the tax affairs of other persons, whether provided directly or through a third party[^c-0acccdb00bfe3a24e6a5ecffc2b2097d], when providing such services.
 
 ## Annotations
 
@@ -39,4 +39,4 @@ In these Regulations—
 
 [^c23047851]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405). Article 3 was amended by Schedule 4 to the [Insolvency (Amendment) Act (Northern Ireland) 2016 (c.2)](https://www.legislation.gov.uk/nia/2016/2) (N.I.) and by [S.R. 1995/225](https://www.legislation.gov.uk/nisr/1995/225), [2002/334](https://www.legislation.gov.uk/nisr/2002/334), [2003/550](https://www.legislation.gov.uk/nisr/2003/550) and by [S.I. 2002/3152 (N.I. 6)](https://www.legislation.gov.uk/nisi/2002/3152) and [2009/1941](https://www.legislation.gov.uk/uksi/2002/3152).
 
-[^key-0acccdb00bfe3a24e6a5ecffc2b2097d]: Textual amendment: Words in reg. 11(d) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/2)
+[^c-0acccdb00bfe3a24e6a5ecffc2b2097d]: Textual amendment: Words in reg. 11(d) substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/4/2)

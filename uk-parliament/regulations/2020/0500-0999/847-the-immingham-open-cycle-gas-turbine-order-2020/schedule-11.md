@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 11 — DOCUMENTS AND PLANS TO BE CERTIFIED[^key-6c93a3d5d7c38c23f7f2b3daff8b7d12]
+## SCHEDULE 11 — DOCUMENTS AND PLANS TO BE CERTIFIED[^c-6c93a3d5d7c38c23f7f2b3daff8b7d12]
 
 *Extent: E+W*
 
 Article 39
 
-Table 8[^key-6d16ab6e901c6ef1c167d4a896fe7339]
+Table 8[^c-6d16ab6e901c6ef1c167d4a896fe7339]
 
 | *(1)*<br>*Document name* | *(2)*<br>*Document reference* | *(3)*<br>*Revision number* | *(4)*<br>*Date* |
 | --- | --- | --- | --- |
@@ -44,6 +44,6 @@ Table 8[^key-6d16ab6e901c6ef1c167d4a896fe7339]
 
 ## Annotations
 
-[^key-6c93a3d5d7c38c23f7f2b3daff8b7d12]: Commencement: Sch. 11 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-6c93a3d5d7c38c23f7f2b3daff8b7d12]: Commencement: Sch. 11 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
 
-[^key-6d16ab6e901c6ef1c167d4a896fe7339]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/uksi/2020/847/schedule/11) Table 8 substituted (23.5.2025) by [The Immingham Open Cycle Gas Turbine (Amendment) (No. 3) Order 2025 (S.I. 2025/622)](https://www.legislation.gov.uk/uksi/2025/622), [arts. 1](https://www.legislation.gov.uk/uksi/2025/622/article/1), [9](https://www.legislation.gov.uk/uksi/2025/622/article/9)
+[^c-6d16ab6e901c6ef1c167d4a896fe7339]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/uksi/2020/847/schedule/11) Table 8 substituted (23.5.2025) by [The Immingham Open Cycle Gas Turbine (Amendment) (No. 3) Order 2025 (S.I. 2025/622)](https://www.legislation.gov.uk/uksi/2025/622), [arts. 1](https://www.legislation.gov.uk/uksi/2025/622/article/1), [9](https://www.legislation.gov.uk/uksi/2025/622/article/9)

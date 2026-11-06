@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Interpretation of this Chapter etc[^key-9ab4308e9baf2480de0e06e7bae0be67][^key-095bd146284171e8480c514962bdd8f6][^key-716f59ee7d2f1dc4e9856ed1e0610db9][^key-714d05f3bcd825736e772d7cfdd22463]
+## 45. Interpretation of this Chapter etc[^c-9ab4308e9baf2480de0e06e7bae0be67][^c-095bd146284171e8480c514962bdd8f6][^c-716f59ee7d2f1dc4e9856ed1e0610db9][^c-714d05f3bcd825736e772d7cfdd22463]
 
 *Extent: E+W+S+N.I.*
 
 (1) In this Chapter—
 
-- “**the appropriate national authority**” means the relevant Minister[^key-8c3af19a268b800f7919a9cb9e3a01f4], subject to subsections (2) to (7);
+- “**the appropriate national authority**” means the relevant Minister[^c-8c3af19a268b800f7919a9cb9e3a01f4], subject to subsections (2) to (7);
 - “**enactment**” includes—
   - (a) an enactment contained in, or in an instrument made under, an Act of the Scottish Parliament;
   - (b) an enactment contained in, or in an instrument made under, a Measure or Act of the National Assembly for Wales;
@@ -31,8 +31,8 @@ summary: ''
 - “**function**” means function of a public nature;
 - “**personal information**” has the meaning given by section 40(5);
 - “**public authority**” means a person who exercises functions of a public nature, subject to subsection (8);
-- “relevant Minister” means the Secretary of State or the Minister for the Cabinet Office;[^key-2cbe4c5c4c2847cd4326341ec817507f]
-- [^key-cac44368f7a11aa5d5c7edcd44f48f2a]...
+- “relevant Minister” means the Secretary of State or the Minister for the Cabinet Office;[^c-2cbe4c5c4c2847cd4326341ec817507f]
+- [^c-cac44368f7a11aa5d5c7edcd44f48f2a]...
 - “**the Revenue and Customs**” has the meaning given by section 17(3) of the Commissioners for Revenue and Customs Act 2005.
 
 (2) The Scottish Ministers are the appropriate national authority in relation to—
@@ -80,16 +80,16 @@ summary: ''
 
 ## Annotations
 
-[^key-9ab4308e9baf2480de0e06e7bae0be67]: Commencement: S. 45 in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(1)(i)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/1/i)
+[^c-9ab4308e9baf2480de0e06e7bae0be67]: Commencement: S. 45 in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(1)(i)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/1/i)
 
-[^key-095bd146284171e8480c514962bdd8f6]: Commencement: S. 45 in force at 1.5.2018 for E.W.S. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/j)
+[^c-095bd146284171e8480c514962bdd8f6]: Commencement: S. 45 in force at 1.5.2018 for E.W.S. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/j)
 
-[^key-716f59ee7d2f1dc4e9856ed1e0610db9]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2017/30/section/45) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/g)
+[^c-716f59ee7d2f1dc4e9856ed1e0610db9]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2017/30/section/45) in force at 12.2.2026 for N.I. by [S.I. 2026/126](https://www.legislation.gov.uk/uksi/2026/126), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/126/regulation/2/g)
 
-[^key-714d05f3bcd825736e772d7cfdd22463]: Modification: Pt. 5 Ch. 1: functions made exercisable concurrently (30.9.2020) by [The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940)](https://www.legislation.gov.uk/uksi/2020/940), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/940/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/940/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/940/article/5))
+[^c-714d05f3bcd825736e772d7cfdd22463]: Modification: Pt. 5 Ch. 1: functions made exercisable concurrently (30.9.2020) by [The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940)](https://www.legislation.gov.uk/uksi/2020/940), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/940/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/940/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/940/article/5))
 
-[^key-8c3af19a268b800f7919a9cb9e3a01f4]: Textual amendment: Words in s. 45(1) substituted (30.9.2020) by [The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940)](https://www.legislation.gov.uk/uksi/2020/940), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/940/article/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/940/article/6/4/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/940/article/5))
+[^c-8c3af19a268b800f7919a9cb9e3a01f4]: Textual amendment: Words in s. 45(1) substituted (30.9.2020) by [The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940)](https://www.legislation.gov.uk/uksi/2020/940), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/940/article/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/940/article/6/4/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/940/article/5))
 
-[^key-2cbe4c5c4c2847cd4326341ec817507f]: Textual amendment: Words in s. 45(1) inserted (30.9.2020) by [The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940)](https://www.legislation.gov.uk/uksi/2020/940), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/940/article/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/940/article/6/4/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/940/article/5))
+[^c-2cbe4c5c4c2847cd4326341ec817507f]: Textual amendment: Words in s. 45(1) inserted (30.9.2020) by [The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940)](https://www.legislation.gov.uk/uksi/2020/940), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/940/article/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/940/article/6/4/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/940/article/5))
 
-[^key-cac44368f7a11aa5d5c7edcd44f48f2a]: Textual amendment: Words in s. 45(1) omitted (18.5.2018) by virtue of [The Transfer of Functions (Digital Government) Order 2018 (S.I. 2018/526)](https://www.legislation.gov.uk/uksi/2018/526), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/526/article/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2018/526/article/6/4/b) (with [arts. 4](https://www.legislation.gov.uk/uksi/2018/526/article/4), [5](https://www.legislation.gov.uk/uksi/2018/526/article/5))
+[^c-cac44368f7a11aa5d5c7edcd44f48f2a]: Textual amendment: Words in s. 45(1) omitted (18.5.2018) by virtue of [The Transfer of Functions (Digital Government) Order 2018 (S.I. 2018/526)](https://www.legislation.gov.uk/uksi/2018/526), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/526/article/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2018/526/article/6/4/b) (with [arts. 4](https://www.legislation.gov.uk/uksi/2018/526/article/4), [5](https://www.legislation.gov.uk/uksi/2018/526/article/5))

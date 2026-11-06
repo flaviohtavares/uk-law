@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Amendments relating to payment rates[^key-c5ad9fdf0cdeb4b84f4ba4a8623de9db]
+## 96. Amendments relating to payment rates[^c-c5ad9fdf0cdeb4b84f4ba4a8623de9db]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 12(1) and (2) for “£11,836” substitute “£12,167”.
 
 ## Annotations
 
-[^key-c5ad9fdf0cdeb4b84f4ba4a8623de9db]: Commencement: Reg. 96 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-c5ad9fdf0cdeb4b84f4ba4a8623de9db]: Commencement: Reg. 96 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

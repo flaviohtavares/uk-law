@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 738A. Realisation of assets previously subject to Northern Ireland rate[^key-0b9f1c9f5bffd2e13e42ba1ac177caa2]
+## 738A. Realisation of assets previously subject to Northern Ireland rate[^c-0b9f1c9f5bffd2e13e42ba1ac177caa2]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ NIR is the Northern Ireland rate for the financial year.
 
 ## Annotations
 
-[^key-0b9f1c9f5bffd2e13e42ba1ac177caa2]: Textual amendment: S. 738A inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/21/schedule/2/paragraph/1)
+[^c-0b9f1c9f5bffd2e13e42ba1ac177caa2]: Textual amendment: S. 738A inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/21/schedule/2/paragraph/1)

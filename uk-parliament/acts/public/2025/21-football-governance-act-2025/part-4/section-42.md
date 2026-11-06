@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Orders and directions effecting alternative officer arrangements[^key-f258402204040148a592990cb423bc61][^key-cda587d4b717e84d2fbb81edc046229f]
+## 42. Orders and directions effecting alternative officer arrangements[^c-f258402204040148a592990cb423bc61][^c-cda587d4b717e84d2fbb81edc046229f]
 
 *Extent: E+W*
 
@@ -69,6 +69,6 @@ of not complying with the duty imposed by subsection (6).
 
 ## Annotations
 
-[^key-f258402204040148a592990cb423bc61]: Commencement: S. 42 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-f258402204040148a592990cb423bc61]: Commencement: S. 42 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-cda587d4b717e84d2fbb81edc046229f]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2025/21/section/42) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(xi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/xi)
+[^c-cda587d4b717e84d2fbb81edc046229f]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2025/21/section/42) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(xi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/xi)

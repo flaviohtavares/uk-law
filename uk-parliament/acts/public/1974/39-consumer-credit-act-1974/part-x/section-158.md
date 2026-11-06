@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Duty of agency to disclose filed information.[^key-b59607837a6371f61b3d349c12eb0f70]
+## 158. Duty of agency to disclose filed information.[^c-b59607837a6371f61b3d349c12eb0f70]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ shall give the consumer a copy of the file relating to it[^c2432811] kept by the
 
 ## Annotations
 
-[^key-b59607837a6371f61b3d349c12eb0f70]: Modification: Ss. 157-160 applied (1.1.2016) by [The Small and Medium Sized Business (Credit Information) Regulations 2015 (S.I. 2015/1945)](https://www.legislation.gov.uk/uksi/2015/1945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/15/2)
+[^c-b59607837a6371f61b3d349c12eb0f70]: Modification: Ss. 157-160 applied (1.1.2016) by [The Small and Medium Sized Business (Credit Information) Regulations 2015 (S.I. 2015/1945)](https://www.legislation.gov.uk/uksi/2015/1945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2015/1945/regulation/15/2)
 
 [^c18853831]: Textual amendment: S. 158(1)(a) substituted (6.4.2007) by [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), ss. {5(5)}, 71(2); [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2) (as amended by [S.I. 2007/387](https://www.legislation.gov.uk/uksi/2007/387), [art. 2(3)(a)](https://www.legislation.gov.uk/uksi/2007/387/article/2/3/a))
 

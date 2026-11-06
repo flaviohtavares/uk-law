@@ -27,9 +27,9 @@ summary: ''
 
 (2) An agreement or combination by two or more persons to do or procure the doing of an act in contemplation or furtherance of a trade dispute is not actionable in tort if the act is one which if done without any such agreement or combination would not be actionable in tort.
 
-(3) Nothing in subsections (1) and (2) prevents an act done in the course of picketing from being actionable in tort unless it is done in the course of attendance declared lawful by section 220 (peaceful picketing)[^key-cca25a44421f6dc59ac3b92a280d57e2].
+(3) Nothing in subsections (1) and (2) prevents an act done in the course of picketing from being actionable in tort unless it is done in the course of attendance declared lawful by section 220 (peaceful picketing)[^c-cca25a44421f6dc59ac3b92a280d57e2].
 
-(4) Subsections (1) and (2) have effect subject to—[^key-271064f29fa7b0165c4e94b46cf54721]
+(4) Subsections (1) and (2) have effect subject to—[^c-271064f29fa7b0165c4e94b46cf54721]
 
 - (a) sections 222 to 225 (action excluded from protection),
 - (b) section 226 (requirement of ballot before action by trade union), and
@@ -45,8 +45,8 @@ and in those sections “[^c14520101]**not protected**” means excluded from th
 
 [^c20451181]: Modification: S. 219 excluded (E.) (1.9.2003) by [The Education (Modification of Enactments Relating to Employment) (England) Order 2003 (S.I. 2003/1964)](https://www.legislation.gov.uk/uksi/2003/1964), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2003/1964/regulation/5/2)
 
-[^key-cca25a44421f6dc59ac3b92a280d57e2]: Textual amendment: Words in s. 219(3) substituted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 75(1)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/75/1/a), [159(2)(l)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/l)
+[^c-cca25a44421f6dc59ac3b92a280d57e2]: Textual amendment: Words in s. 219(3) substituted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 75(1)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/75/1/a), [159(2)(l)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/l)
 
-[^key-271064f29fa7b0165c4e94b46cf54721]: Textual amendment: Words in s. 219(4) substituted (18.12.2025) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 78(2)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/78/2/a), [159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)
+[^c-271064f29fa7b0165c4e94b46cf54721]: Textual amendment: Words in s. 219(4) substituted (18.12.2025) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 78(2)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/78/2/a), [159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)
 
 [^c14520101]: Textual amendment: Words in s. 219(4) substituted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 49(2)](https://www.legislation.gov.uk/ukpga/1993/19/section/49/2), [Sch. 8 para.72](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/72); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)

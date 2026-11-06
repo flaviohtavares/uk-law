@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Registration of interest and the issuing of questionnaires[^key-922d5f3772791ea21d91ded632c9715c]
+## 54. Registration of interest and the issuing of questionnaires[^c-922d5f3772791ea21d91ded632c9715c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,10 +40,10 @@ summary: ''
 
 (6) Where an interested party makes themselves known to the TRA after the end of the registration period, the TRA may include that party in a sample referred to in regulation 56 (the use of sampling in respect of Part 2 of these Regulations) or 57 (the use of sampling in respect of Parts 3, 4 and 5 of these Regulations).
 
-(7)[^key-d6a0afc5ca08ea19b2babfe370a8e986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-d6a0afc5ca08ea19b2babfe370a8e986] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-922d5f3772791ea21d91ded632c9715c]: Commencement: Reg. 54 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-922d5f3772791ea21d91ded632c9715c]: Commencement: Reg. 54 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-d6a0afc5ca08ea19b2babfe370a8e986]: Textual amendment: [Reg. 54(7)](https://www.legislation.gov.uk/uksi/2019/450/regulation/54/7) omitted (23.5.2024) by virtue of [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/545/regulation/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-d6a0afc5ca08ea19b2babfe370a8e986]: Textual amendment: [Reg. 54(7)](https://www.legislation.gov.uk/uksi/2019/450/regulation/54/7) omitted (23.5.2024) by virtue of [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/545/regulation/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

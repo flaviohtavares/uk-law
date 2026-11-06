@@ -60,15 +60,15 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these regulations) have been satisfied.
 
-## 1. Citation and commencement[^key-13317a38e33effe304d10ac65be5ee7e]
+## 1. Citation and commencement[^c-13317a38e33effe304d10ac65be5ee7e]
 
 These Regulations may be cited as the Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 and come into force immediately before exit day.
 
-## 2. Amendment of the Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019[^key-3d5b5b2295fe7262172b8f441a2b81a6]
+## 2. Amendment of the Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019[^c-3d5b5b2295fe7262172b8f441a2b81a6]
 
 In regulations 5(2)(a)(ii) and 6(2)(b) of the Environment, Food and Rural Affairs (Environmental Impact Assessment) (Amendment) (EU Exit) Regulations 2019 [^c23799581], in the inserted definition of “public”, for the words from “law” to “practice” substitute “ law or practice of any part of the United Kingdom ”.
 
-## 3. Amendment of the Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019[^key-43259f547d8971785f587d7132d09b67]
+## 3. Amendment of the Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019[^c-43259f547d8971785f587d7132d09b67]
 
 In the Schedule to the Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 [^c23799591], in the inserted text of Schedule 1A, in paragraph 14(4)(f)—
 
@@ -76,7 +76,7 @@ In the Schedule to the Environmental Permitting (England and Wales) (Amendment) 
 - (b) in the substituted point (n), after “ regulation 2(1) ” insert “ or 137 ”;
 - (c) in the substituted point (o), after “ regulation 2(1) of ” insert “ , or the meaning determined in accordance with Schedule 9 to, ”.
 
-## 4. Amendment of the Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019[^key-63251d1ddbd97b64f2c6a833c3b78bf4]
+## 4. Amendment of the Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019[^c-63251d1ddbd97b64f2c6a833c3b78bf4]
 
 (1) The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 [^c23799601] are amended as follows.
 
@@ -89,7 +89,7 @@ In the Schedule to the Environmental Permitting (England and Wales) (Amendment) 
 
 .
 
-(3) Omit regulation[^key-b148fe4f192ad7acfc55ad9a8f232d2d] 14(2)(b).
+(3) Omit regulation[^c-b148fe4f192ad7acfc55ad9a8f232d2d] 14(2)(b).
 
 (4) In regulation 16—
 
@@ -110,7 +110,7 @@ In the Schedule to the Environmental Permitting (England and Wales) (Amendment) 
 
 (5) In regulation 18(25)(c), in the inserted text, omit paragraph 26(c)(vi).
 
-## 5. Amendment of the Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-8bb46bca95c4750cab097c044505fa67]
+## 5. Amendment of the Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-8bb46bca95c4750cab097c044505fa67]
 
 **Not yet in force.**
 
@@ -140,20 +140,20 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23799571]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-13317a38e33effe304d10ac65be5ee7e]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-13317a38e33effe304d10ac65be5ee7e]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-3d5b5b2295fe7262172b8f441a2b81a6]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-3d5b5b2295fe7262172b8f441a2b81a6]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c23799581]: Marginal citation: [S.I. 2019/25](https://www.legislation.gov.uk/uksi/2019/25).
 
-[^key-43259f547d8971785f587d7132d09b67]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-43259f547d8971785f587d7132d09b67]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c23799591]: Marginal citation: [S.I. 2019/39](https://www.legislation.gov.uk/uksi/2019/39), to which there are amendments not relevant to these Regulations.
 
-[^key-63251d1ddbd97b64f2c6a833c3b78bf4]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-63251d1ddbd97b64f2c6a833c3b78bf4]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c23799601]: Marginal citation: [S.I. 2019/188](https://www.legislation.gov.uk/uksi/2019/188).
 
-[^key-b148fe4f192ad7acfc55ad9a8f232d2d]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/3) substituted (31.12.2020 immediately before S.I. 2019/1078 comes into force) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/4), [15(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/15/2)
+[^c-b148fe4f192ad7acfc55ad9a8f232d2d]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/3) substituted (31.12.2020 immediately before S.I. 2019/1078 comes into force) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/4), [15(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/15/2)
 
-[^key-8bb46bca95c4750cab097c044505fa67]: Textual amendment: Reg. 5 omitted (31.12.2020 immediately before S.I. 2019/1078 comes into force) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/4), [15(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/15/3)
+[^c-8bb46bca95c4750cab097c044505fa67]: Textual amendment: Reg. 5 omitted (31.12.2020 immediately before S.I. 2019/1078 comes into force) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/4), [15(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/15/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Supply of information[^key-f373383b5d6b819ae7a187b0f945315c][^key-263ce5835a12a4a6d7fef8e9d0ed4a21]
+## 53. Supply of information[^c-f373383b5d6b819ae7a187b0f945315c][^c-263ce5835a12a4a6d7fef8e9d0ed4a21]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f373383b5d6b819ae7a187b0f945315c]: Commencement: S. 53 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-f373383b5d6b819ae7a187b0f945315c]: Commencement: S. 53 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-263ce5835a12a4a6d7fef8e9d0ed4a21]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2022/37/section/53) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-263ce5835a12a4a6d7fef8e9d0ed4a21]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2022/37/section/53) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

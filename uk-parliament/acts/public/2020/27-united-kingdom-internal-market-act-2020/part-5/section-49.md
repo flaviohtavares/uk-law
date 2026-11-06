@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Notification of state aid for the purposes of the Northern Ireland Protocol[^key-ab8893a835469850af19a2bed5cf4cf1]
+## 49. Notification of state aid for the purposes of the Northern Ireland Protocol[^c-ab8893a835469850af19a2bed5cf4cf1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab8893a835469850af19a2bed5cf4cf1]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2020/27/section/49) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/g)
+[^c-ab8893a835469850af19a2bed5cf4cf1]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2020/27/section/49) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/g)

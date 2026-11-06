@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. The subsidy control principles and the energy and environment principles[^key-39019f6367b84a6298aef06124aad553]
+## 9. The subsidy control principles and the energy and environment principles[^c-39019f6367b84a6298aef06124aad553]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39019f6367b84a6298aef06124aad553]: Commencement: S. 9 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)
+[^c-39019f6367b84a6298aef06124aad553]: Commencement: S. 9 in force at Royal Assent, see [s. 91(1)(a)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/a)

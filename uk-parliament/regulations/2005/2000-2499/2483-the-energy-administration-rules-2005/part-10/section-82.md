@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Notice of intention to resign[^key-15dfead65d255de691bfa2e08e3b26bd]
+## 82. Notice of intention to resign[^c-15dfead65d255de691bfa2e08e3b26bd]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The energy administrator shall in all cases give at least 7 days notice in Form 
 
 ## Annotations
 
-[^key-15dfead65d255de691bfa2e08e3b26bd]: Commencement: Rule 82 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-15dfead65d255de691bfa2e08e3b26bd]: Commencement: Rule 82 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

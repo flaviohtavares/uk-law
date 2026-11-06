@@ -58,7 +58,7 @@ In these Regulations—
 - “**the 2014 Regulations**” means the Special Educational Needs and Disability Regulations 2014 [^c23085431];
 - “**the responsible commissioning body**” means, in relation to any specified health care provision, the body (or each body) that is under a duty to arrange health care provision of that kind in respect of the child or young person, or would be under that duty if the health care needs or health care provision recommended by the First-tier Tribunal were specified in the child or young person's EHC plan.
 
-## 2A. Relaxation of time periods due to coronavirus exception[^key-161bf33ad9397af4e9673d5ff7a8e964]
+## 2A. Relaxation of time periods due to coronavirus exception[^c-161bf33ad9397af4e9673d5ff7a8e964]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -184,4 +184,4 @@ An Explanatory Memorandum is available alongside this instrument on www.legislat
 
 [^c23085431]: Marginal citation: [S.I. 2014/1530](https://www.legislation.gov.uk/uksi/2014/1530). The relevant amending instruments are [S.I. 2014/2096](https://www.legislation.gov.uk/uksi/2014/2096) and [S.I. 2015/359](https://www.legislation.gov.uk/uksi/2015/359).
 
-[^key-161bf33ad9397af4e9673d5ff7a8e964]: Textual amendment: Reg. 2A inserted (temp. until 25.9.2020) (1.5.2020) by [The Special Educational Needs and Disability (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/471)](https://www.legislation.gov.uk/uksi/2020/471), [regs. 1](https://www.legislation.gov.uk/uksi/2020/471/regulation/1), [30](https://www.legislation.gov.uk/uksi/2020/471/regulation/30) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/471/regulation/2/2))
+[^c-161bf33ad9397af4e9673d5ff7a8e964]: Textual amendment: Reg. 2A inserted (temp. until 25.9.2020) (1.5.2020) by [The Special Educational Needs and Disability (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/471)](https://www.legislation.gov.uk/uksi/2020/471), [regs. 1](https://www.legislation.gov.uk/uksi/2020/471/regulation/1), [30](https://www.legislation.gov.uk/uksi/2020/471/regulation/30) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2020/471/regulation/2/2))

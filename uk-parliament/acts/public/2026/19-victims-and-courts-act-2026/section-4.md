@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Restricting parental responsibility for child conceived as a result of rape[^key-5bab310ac3ea3b828eb5045fdb1cc717]
+## 4. Restricting parental responsibility for child conceived as a result of rape[^c-5bab310ac3ea3b828eb5045fdb1cc717]
 
 *Extent: E+W+S+N.I.*
 
@@ -107,4 +107,4 @@ After section 10D of the Children Act 1989 (review of orders made under section 
 
 ## Annotations
 
-[^key-5bab310ac3ea3b828eb5045fdb1cc717]: Commencement: S. 4 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)
+[^c-5bab310ac3ea3b828eb5045fdb1cc717]: Commencement: S. 4 not in force at Royal Assent, see [s. 18(1)](https://www.legislation.gov.uk/ukpga/2026/19/section/18/1)

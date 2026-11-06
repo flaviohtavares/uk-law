@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Entries on registers and records in respect of shares[^key-87024fa99fbb8716e812a781a14f0535]
+## 20. Entries on registers and records in respect of shares[^c-87024fa99fbb8716e812a781a14f0535]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,13 +38,13 @@ summary: ''
 - (a) maintain a record of the entries made in its Operator register of members; and such a record is referred to in these Regulations as a “record of uncertificated shares”; and
 - (b) keep and enter up that record in accordance with paragraph 5 of Schedule 4.
 
-(7) Such sanctions as apply to a company and its officers in the event of a default in complying with section 113 of the[^key-ec4c877975b4abad09bf71500fa12f3a] 2006 Act shall apply to—
+(7) Such sanctions as apply to a company and its officers in the event of a default in complying with section 113 of the[^c-ec4c877975b4abad09bf71500fa12f3a] 2006 Act shall apply to—
 
 - (a) a company which is a participating issuer and its officers in the event of a default in complying with paragraph (1)(a) or (6)(a), or
 - (b) an Operator and his officers in the event of a default in complying with paragraph (1)(b).
 
 ## Annotations
 
-[^key-87024fa99fbb8716e812a781a14f0535]: Commencement: Reg. 20 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-87024fa99fbb8716e812a781a14f0535]: Commencement: Reg. 20 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-ec4c877975b4abad09bf71500fa12f3a]: Textual amendment: Words in [reg. 20(7)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/20/7) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/5)
+[^c-ec4c877975b4abad09bf71500fa12f3a]: Textual amendment: Words in [reg. 20(7)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/20/7) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/5)

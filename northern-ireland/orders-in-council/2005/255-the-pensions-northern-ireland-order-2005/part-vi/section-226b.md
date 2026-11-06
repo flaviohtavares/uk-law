@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 226B. Requirement for internal controls: public service pension schemes[^key-b72cf163def71d4e3d54f7ba54a595fd]
+## 226B. Requirement for internal controls: public service pension schemes[^c-b72cf163def71d4e3d54f7ba54a595fd]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b72cf163def71d4e3d54f7ba54a595fd]: Textual amendment: [Art. 226B](https://www.legislation.gov.uk/nisi/2005/255/article/226B) inserted (1.4.2015) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/21); [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-b72cf163def71d4e3d54f7ba54a595fd]: Textual amendment: [Art. 226B](https://www.legislation.gov.uk/nisi/2005/255/article/226B) inserted (1.4.2015) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/21); [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))

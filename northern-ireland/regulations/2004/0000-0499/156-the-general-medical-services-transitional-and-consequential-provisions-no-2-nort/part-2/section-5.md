@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Removal from the list of patients at the request of the patient[^key-7a45076c801e8d08544e150bc8f61857]
+## 5. Removal from the list of patients at the request of the patient[^c-7a45076c801e8d08544e150bc8f61857]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where, on or before 31st March 2004, the Agency had received notice from a patie
 
 ## Annotations
 
-[^key-7a45076c801e8d08544e150bc8f61857]: Commencement: Art. 5 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-7a45076c801e8d08544e150bc8f61857]: Commencement: Art. 5 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

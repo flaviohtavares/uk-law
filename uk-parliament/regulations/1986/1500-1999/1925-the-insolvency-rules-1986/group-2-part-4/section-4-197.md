@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.197. Form of list[^key-acd2bfed6b17046b073b9b7f2068ef30]
+## 4.197. Form of list[^c-acd2bfed6b17046b073b9b7f2068ef30]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-acd2bfed6b17046b073b9b7f2068ef30]: Commencement: [Rule 4.197](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.197) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-acd2bfed6b17046b073b9b7f2068ef30]: Commencement: [Rule 4.197](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.197) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

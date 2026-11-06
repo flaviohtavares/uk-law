@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238. Use and investment of superannuation funds' moneys[^key-976ff2fb40d533278105421e3bd6e267]
+## 238. Use and investment of superannuation funds' moneys[^c-976ff2fb40d533278105421e3bd6e267]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-976ff2fb40d533278105421e3bd6e267]: Commencement: Art. 238 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-976ff2fb40d533278105421e3bd6e267]: Commencement: Art. 238 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00166]: Footnote: Paragraph (7A) was inserted by the Local Government Superannuation (Scotland) Amendment (No. 2) Regulations 1993 ([S.I. 1993/2013 (S.224)](https://www.legislation.gov.uk/uksi/1993/2013)).
 

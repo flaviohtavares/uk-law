@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A9. Public sector apprenticeship targets[^key-86e3546cc5697f54eb7036d249310bac]
+## A9. Public sector apprenticeship targets[^c-86e3546cc5697f54eb7036d249310bac]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ A reference in this section to a public body includes a reference to a prescribe
 
 ## Annotations
 
-[^key-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
+[^c-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)

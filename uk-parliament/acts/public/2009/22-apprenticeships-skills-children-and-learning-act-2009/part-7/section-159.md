@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W+N.I.*
 
-(1)[^key-f01e0fa58876da4c511c4db19c92f266] Section 87 of the Education Act 2002 (c. 32) (establishment of the National Curriculum for England by order) is amended as follows.
+(1)[^c-f01e0fa58876da4c511c4db19c92f266] Section 87 of the Education Act 2002 (c. 32) (establishment of the National Curriculum for England by order) is amended as follows.
 
-(2)[^key-f01e0fa58876da4c511c4db19c92f266] Before subsection (7) insert—
+(2)[^c-f01e0fa58876da4c511c4db19c92f266] Before subsection (7) insert—
 
 > (6A) Before making an order under subsection (3)(c) the Secretary of State—
 >
 > - (a) shall consult the Office of Qualifications and Examinations Regulation, and
 > - (b) may consult such other persons as the Secretary of State considers appropriate.
 
-(3)[^key-c4b880026320da61c729b0d0eafaede0] After subsection (8) insert—
+(3)[^c-c4b880026320da61c729b0d0eafaede0] After subsection (8) insert—
 
 > (8A) An order under subsection (3)(c) which includes provision made by virtue of subsection (8) shall provide that before making or revising the assessment arrangements the person specified in the order—
 >
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f01e0fa58876da4c511c4db19c92f266]: Commencement: S. 159(1)(2) in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-f01e0fa58876da4c511c4db19c92f266]: Commencement: S. 159(1)(2) in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
-[^key-c4b880026320da61c729b0d0eafaede0]: Commencement: S. 159(3)(4) in force at 1.4.2010 for specified purposes by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-c4b880026320da61c729b0d0eafaede0]: Commencement: S. 159(3)(4) in force at 1.4.2010 for specified purposes by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

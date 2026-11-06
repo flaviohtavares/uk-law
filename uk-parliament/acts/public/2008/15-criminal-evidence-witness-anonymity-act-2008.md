@@ -38,61 +38,61 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Introduction
 
-### 1. New rules relating to anonymity of witnesses[^key-49f177d26d713a7045db67e3b14c8f1e]
+### 1. New rules relating to anonymity of witnesses[^c-49f177d26d713a7045db67e3b14c8f1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Witness anonymity orders
 
-### 2. Witness anonymity orders[^key-49f177d26d713a7045db67e3b14c8f1e]
+### 2. Witness anonymity orders[^c-49f177d26d713a7045db67e3b14c8f1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Applications[^key-49f177d26d713a7045db67e3b14c8f1e]
+### 3. Applications[^c-49f177d26d713a7045db67e3b14c8f1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Conditions for making order[^key-49f177d26d713a7045db67e3b14c8f1e]
+### 4. Conditions for making order[^c-49f177d26d713a7045db67e3b14c8f1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Relevant considerations[^key-49f177d26d713a7045db67e3b14c8f1e]
+### 5. Relevant considerations[^c-49f177d26d713a7045db67e3b14c8f1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Discharge or variation of order[^key-49f177d26d713a7045db67e3b14c8f1e]
+### 6. Discharge or variation of order[^c-49f177d26d713a7045db67e3b14c8f1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Warning to jury[^key-49f177d26d713a7045db67e3b14c8f1e]
+### 7. Warning to jury[^c-49f177d26d713a7045db67e3b14c8f1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Special provisions for service courts[^key-49f177d26d713a7045db67e3b14c8f1e]
+### 8. Special provisions for service courts[^c-49f177d26d713a7045db67e3b14c8f1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Application of provisions etc.
 
-### 9. Proceedings to which new rules apply[^key-49f177d26d713a7045db67e3b14c8f1e]
+### 9. Proceedings to which new rules apply[^c-49f177d26d713a7045db67e3b14c8f1e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 10. Pre-commencement anonymity orders: existing proceedings
 
-(1)[^key-f46f0faef2c4e7eff7ddee495b35f50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-f46f0faef2c4e7eff7ddee495b35f50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-f46f0faef2c4e7eff7ddee495b35f50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f46f0faef2c4e7eff7ddee495b35f50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-f46f0faef2c4e7eff7ddee495b35f50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f46f0faef2c4e7eff7ddee495b35f50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f46f0faef2c4e7eff7ddee495b35f50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f46f0faef2c4e7eff7ddee495b35f50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-f46f0faef2c4e7eff7ddee495b35f50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f46f0faef2c4e7eff7ddee495b35f50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-f46f0faef2c4e7eff7ddee495b35f50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f46f0faef2c4e7eff7ddee495b35f50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-f46f0faef2c4e7eff7ddee495b35f50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f46f0faef2c4e7eff7ddee495b35f50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In this section—
 
@@ -110,7 +110,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - (a) may not treat the conviction as unsafe solely on the ground that the trial court had no power at common law to make the order mentioned in subsection (1)(b), but
 - (b) must treat the conviction as unsafe if it considers—
-  - (i)[^key-8d45d38457af6f87d2f07e198b102e85] that the order was not one that the trial court could have made if this Act had been in force at the material time, and
+  - (i)[^c-8d45d38457af6f87d2f07e198b102e85] that the order was not one that the trial court could have made if this Act had been in force at the material time, and
   - (ii) that, as a result of the order, the defendant did not receive a fair trial.
 
 (3) In this section—
@@ -157,7 +157,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 This Act comes into force on the day on which it is passed.
 
-### 14. Expiry of power to make witness anonymity orders[^key-56b9b86f0fa43ecb1dd6710866e28040]
+### 14. Expiry of power to make witness anonymity orders[^c-56b9b86f0fa43ecb1dd6710866e28040]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -173,10 +173,10 @@ This Act comes into force on the day on which it is passed.
 
 ## Annotations
 
-[^key-49f177d26d713a7045db67e3b14c8f1e]: Textual amendment: Ss. 1-9 repealed (1.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 96](https://www.legislation.gov.uk/ukpga/2009/25/section/96), [182(3)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/3/a), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 16](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/16), [Sch. 22 para. 17](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/17))
+[^c-49f177d26d713a7045db67e3b14c8f1e]: Textual amendment: Ss. 1-9 repealed (1.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 96](https://www.legislation.gov.uk/ukpga/2009/25/section/96), [182(3)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/3/a), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 16](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/16), [Sch. 22 para. 17](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/17))
 
-[^key-f46f0faef2c4e7eff7ddee495b35f50e]: Textual amendment: [S. 10(1)-(7)](https://www.legislation.gov.uk/ukpga/2008/15/section/10/1) repealed (1.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(3)(d)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/3/d), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180))
+[^c-f46f0faef2c4e7eff7ddee495b35f50e]: Textual amendment: [S. 10(1)-(7)](https://www.legislation.gov.uk/ukpga/2008/15/section/10/1) repealed (1.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(3)(d)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/3/d), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180))
 
-[^key-8d45d38457af6f87d2f07e198b102e85]: Modification: S. 11(2)(b)(i) modified (1.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(3)(b)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/3/b), [Sch. 22 para. 17(2)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/17/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180))
+[^c-8d45d38457af6f87d2f07e198b102e85]: Modification: S. 11(2)(b)(i) modified (1.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(3)(b)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/3/b), [Sch. 22 para. 17(2)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/17/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180))
 
-[^key-56b9b86f0fa43ecb1dd6710866e28040]: Textual amendment: S. 14 repealed (1.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 96](https://www.legislation.gov.uk/ukpga/2009/25/section/96), [182(3)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/3/a), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180))
+[^c-56b9b86f0fa43ecb1dd6710866e28040]: Textual amendment: S. 14 repealed (1.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 96](https://www.legislation.gov.uk/ukpga/2009/25/section/96), [182(3)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/3/a), [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/3) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180))

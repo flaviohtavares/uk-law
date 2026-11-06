@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Production of licence: Community licence holders[^key-b3b80d6fe8d02d3f38ce332ae67ac691]
+## 65. Production of licence: Community licence holders[^c-b3b80d6fe8d02d3f38ce332ae67ac691]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 to the licensing authority in the EEA State in respect of which the licence was issued.
 
-(3) But subsection (2) does not apply if the EEA State is the Republic of Ireland[^key-1b90dd59f186ea6647a5249d8e1b3363].
+(3) But subsection (2) does not apply if the EEA State is the Republic of Ireland[^c-1b90dd59f186ea6647a5249d8e1b3363].
 
 (4) The Secretary of State or (as the case may be) the Department must return the licence to the holder—
 
@@ -53,6 +53,6 @@ to the licensing authority in the EEA State in respect of which the licence was 
 
 ## Annotations
 
-[^key-b3b80d6fe8d02d3f38ce332ae67ac691]: Commencement: S. 65 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/4)
+[^c-b3b80d6fe8d02d3f38ce332ae67ac691]: Commencement: S. 65 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/4)
 
-[^key-1b90dd59f186ea6647a5249d8e1b3363]: Textual amendment: Words in s. 65(3) substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/10) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)
+[^c-1b90dd59f186ea6647a5249d8e1b3363]: Textual amendment: Words in s. 65(3) substituted (with effect from 1.8.2017 in accordance with S.I. 2017/189, art. 3 and London Gazette notice dated 1.8.2017 (Issue 62012 page 14601)) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/10) (with [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/2/schedule/7/paragraph/27)); [S.I. 2017/189](https://www.legislation.gov.uk/uksi/2017/189), [art. 3](https://www.legislation.gov.uk/uksi/2017/189/article/3)

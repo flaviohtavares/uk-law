@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Indication to excluded person[^key-736d239aa99cab0b2085b7b1a1168527]
+## 27. Indication to excluded person[^c-736d239aa99cab0b2085b7b1a1168527]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-736d239aa99cab0b2085b7b1a1168527]: Commencement: Rule 27 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-736d239aa99cab0b2085b7b1a1168527]: Commencement: Rule 27 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

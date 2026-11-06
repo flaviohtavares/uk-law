@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Scheme administration[^key-f365c779855cd4afc9f71bc2919ffe72]
+## 67. Scheme administration[^c-f365c779855cd4afc9f71bc2919ffe72]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f365c779855cd4afc9f71bc2919ffe72]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2014/21/section/67) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 4(d)](https://www.legislation.gov.uk/uksi/2014/3320/article/4/d)
+[^c-f365c779855cd4afc9f71bc2919ffe72]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2014/21/section/67) in force at 1.1.2015 by [S.I. 2014/3320](https://www.legislation.gov.uk/uksi/2014/3320), [art. 4(d)](https://www.legislation.gov.uk/uksi/2014/3320/article/4/d)

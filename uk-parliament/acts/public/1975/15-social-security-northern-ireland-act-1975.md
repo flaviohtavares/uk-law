@@ -33,7 +33,7 @@ Social Security (Northern Ireland) Act 1975
 
 An Act to consolidate for Northern Ireland so much of the Social Security Act 1973 as establishes a basic scheme of contributions and benefits, together with the National Insurance (Industrial Injuries) Measures (Northern Ireland) 1966 to 1974 and other enactments relating to social security.
 
-\[20th March 1975\][^c707547][^c707548][^c707549][^c707550][^c707551][^c707552][^c707553][^c707554][^c707555][^c707556][^c707557][^c707558][^c707559][^key-ca4cf64feb4a783e72fb4e32f0e90d87]\[20th March 1975\][^c707547][^c707548][^c707549][^c707550][^c707551][^c707552][^c707553][^c707554][^c707555][^c707556][^c707557][^c707558][^c707559][^key-9cf9730f30d5ad2d189ff0c7b43826de]
+\[20th March 1975\][^c707547][^c707548][^c707549][^c707550][^c707551][^c707552][^c707553][^c707554][^c707555][^c707556][^c707557][^c707558][^c707559][^c-ca4cf64feb4a783e72fb4e32f0e90d87]\[20th March 1975\][^c707547][^c707548][^c707549][^c707550][^c707551][^c707552][^c707553][^c707554][^c707555][^c707556][^c707557][^c707558][^c707559][^c-9cf9730f30d5ad2d189ff0c7b43826de]
 
 ## 1–96. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c707560]
 
@@ -87,7 +87,7 @@ SCHEDULES
 - (b) if he retires after 15 years’ service and at the time of retirement has attained the age of 65; or
 - (c) if the Lord Chancellor is satisfied by means of a medical certificate that at the time of his retirement he is, by reason of infirmity of mind or body, incapable of discharging the duties of his office and that the incapacity is likely to be permanent.
 
-(1ZA)[^key-722e6c17fa89d8c403faf02e2b7a849c] The Lord Chancellor must consult the Lord Chief Justice before satisfying himself as mentioned in sub-paragraph (1)(c).
+(1ZA)[^c-722e6c17fa89d8c403faf02e2b7a849c] The Lord Chancellor must consult the Lord Chief Justice before satisfying himself as mentioned in sub-paragraph (1)(c).
 
 (1ZB) The Lord Chief Justice may nominate any of the following to exercise his functions under sub-paragraph (1ZA)—
 
@@ -146,7 +146,7 @@ and where the Lord Chancellor is satisfied that his health has throughout his se
 
 (5) A person to whom a superannuation allowance has been granted under paragraph 6 before he has attained the age of 72 in consequence of an incapacity of the kind referred to in paragraph 6(1)(c) shall, until he has attained that age, be liable to be required by the Lord Chancellor[^c707613] to resume the duties of a Commissioner with the salary attached thereto, and if (being in a competent state of health) he declines when so required to resume those duties, or declines or neglects to execute those duties, he shall forefeit his right to the allowance so granted to him.
 
-(5A)[^key-d0a0a2b3e6acd9a0f8bff14d5be50970] The Lord Chancellor must consult the Lord Chief Justice before requiring a person to resume the duties of Commissioner in accordance with sub-paragraph (5).
+(5A)[^c-d0a0a2b3e6acd9a0f8bff14d5be50970] The Lord Chancellor must consult the Lord Chief Justice before requiring a person to resume the duties of Commissioner in accordance with sub-paragraph (5).
 
 (5B) The Lord Chief Justice may nominate any of the following to exercise his functions under sub-paragraph (5A)—
 
@@ -160,7 +160,7 @@ and where the Lord Chancellor is satisfied that his health has throughout his se
 (8) In paragraph 6 and this paragraph—
 
 - (a) “**pension**” includes any superannuation or other retiring allowance or gratuity, and “**pensionable**” shall be construed accordingly; and
-- (b) “**pension benefits**” includes benefits payable on retirement or death by way of lump sum or gratuity, and benefits payable in respect of a person’s service or employment to other persons by way of surviving spouse’s, surviving civil partner’s[^key-835c50e40fffd11d6104c1e9a85c2622] or children’s pension or otherwise.
+- (b) “**pension benefits**” includes benefits payable on retirement or death by way of lump sum or gratuity, and benefits payable in respect of a person’s service or employment to other persons by way of surviving spouse’s, surviving civil partner’s[^c-835c50e40fffd11d6104c1e9a85c2622] or children’s pension or otherwise.
 
 **7A.**[^c707620][^c707621][^c707619] (1) The provisions regulating the pensions which may be recieved under paragraph 6 are to take effect subject to the modifications contained in this paragraph.
 
@@ -168,12 +168,12 @@ and where the Lord Chancellor is satisfied that his health has throughout his se
 
 - “ **Commissioners’ pension scheme** ” means the occupational pension scheme constituted by this Act and the Judicial Pensions Act (Northern Ireland) 1951;
 - “ **election** ” means an election made under sub-paragraph (3);
-- [^key-3a62a3a43a748a20e9fc9c133f371fcc]...**[^key-3a62a3a43a748a20e9fc9c133f371fcc]...**[^key-3a62a3a43a748a20e9fc9c133f371fcc]...[^key-3a62a3a43a748a20e9fc9c133f371fcc]...[^key-3a62a3a43a748a20e9fc9c133f371fcc]...
+- [^c-3a62a3a43a748a20e9fc9c133f371fcc]...**[^c-3a62a3a43a748a20e9fc9c133f371fcc]...**[^c-3a62a3a43a748a20e9fc9c133f371fcc]...[^c-3a62a3a43a748a20e9fc9c133f371fcc]...[^c-3a62a3a43a748a20e9fc9c133f371fcc]...
 
 (3)[^c707623] A person who is eligible for a pension in respect of his office as a Commissioner shall while in that office:
 
 - (a) be deemed to be a member of the Commisioners’ pension scheme except during such time as an election is in force in respect of him; and
-- (b)[^key-0fed4dc58c7f341d32cc08b4d20e009e] be entitled at any time to serve on the Lord Chancellor a written notice of election not to be a member of the Commissioners' pension scheme, to take effect on a date not less than one month after the date on which it was served.
+- (b)[^c-0fed4dc58c7f341d32cc08b4d20e009e] be entitled at any time to serve on the Lord Chancellor a written notice of election not to be a member of the Commissioners' pension scheme, to take effect on a date not less than one month after the date on which it was served.
 
 (4) At any time after a person has made an election and while he continues to hold office as a Commissioner:
 
@@ -205,7 +205,7 @@ he shall have a right of appeal to the Lord Chancellor against that decision.
 (3) The persons to whom this paragraph applies are the following—
 
 - (a) any member of the scheme;
-- (b) the surviving spouse or surviving civil partner,[^key-19eba1a5e6225315e02c99c6e2628fde] or any surviving dependant, of a deceased member of the scheme;
+- (b) the surviving spouse or surviving civil partner,[^c-19eba1a5e6225315e02c99c6e2628fde] or any surviving dependant, of a deceased member of the scheme;
 - (c) where the decision relates to the question—
   - (i) whether a person who claims to be such a person as is mentioned in paragraph (a) or (b) is such a person, or
   - (ii) whether a person who claims to be entitled to become a member of the scheme is so entitled,
@@ -255,9 +255,9 @@ he shall have a right of appeal to the Lord Chancellor against that decision.
 
 [^c707559]: Modification: Act: power to amend (for specified purposes) conferred (1.12.1999 for the purpose only of the exercise of any power to make regulations) by [S.I. 1999/3147](https://www.legislation.gov.uk/uksi/1999/3147), [art. 40(1)(2)(f)](https://www.legislation.gov.uk/uksi/1999/3147/article/40/1/2/f) and (1.12.2000 in so far as not already in operation) by [S.R. 2000/133](https://www.legislation.gov.uk/nisr/2000/133), [art. 2(3)(d)](https://www.legislation.gov.uk/nisr/2000/133/article/2/3/d), [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/2000/133/schedule/part/IV)
 
-[^key-ca4cf64feb4a783e72fb4e32f0e90d87]: Modification: Act modified by S.R. 1992/269, art. 2 (as amended (15.7.2015) by [The Social Security (Application of Reciprocal Agreements with Australia, Canada and New Zealand) (EEA States and Switzerland) Regulations (Northern Ireland) 2015 (S.R. 2015/281)](https://www.legislation.gov.uk/nisr/2015/281), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/281/regulation/1/1), [3(1))](https://www.legislation.gov.uk/nisr/2015/281/regulation/3/1)
+[^c-ca4cf64feb4a783e72fb4e32f0e90d87]: Modification: Act modified by S.R. 1992/269, art. 2 (as amended (15.7.2015) by [The Social Security (Application of Reciprocal Agreements with Australia, Canada and New Zealand) (EEA States and Switzerland) Regulations (Northern Ireland) 2015 (S.R. 2015/281)](https://www.legislation.gov.uk/nisr/2015/281), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/281/regulation/1/1), [3(1))](https://www.legislation.gov.uk/nisr/2015/281/regulation/3/1)
 
-[^key-9cf9730f30d5ad2d189ff0c7b43826de]: Modification: Act modified by S.R. 1983/432, art. 2 (as amended (15.7.2015) by [The Social Security (Application of Reciprocal Agreements with Australia, Canada and New Zealand) (EEA States and Switzerland) Regulations (Northern Ireland) 2015 (S.R. 2015/281)](https://www.legislation.gov.uk/nisr/2015/281), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/281/regulation/1/1), [3(3))](https://www.legislation.gov.uk/nisr/2015/281/regulation/3/3)
+[^c-9cf9730f30d5ad2d189ff0c7b43826de]: Modification: Act modified by S.R. 1983/432, art. 2 (as amended (15.7.2015) by [The Social Security (Application of Reciprocal Agreements with Australia, Canada and New Zealand) (EEA States and Switzerland) Regulations (Northern Ireland) 2015 (S.R. 2015/281)](https://www.legislation.gov.uk/nisr/2015/281), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/281/regulation/1/1), [3(3))](https://www.legislation.gov.uk/nisr/2015/281/regulation/3/3)
 
 [^c707560]: Textual amendment: Whole Act, except sections 97(4) and 158 and paragraphs 5(2), 6, 7 and 7A of Schedule 10 repealed by [Social Security (Consequential Provisions) (Northern Ireland) Act 1992 (c. 9, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1992/9), [s. 3 Schs. 1](https://www.legislation.gov.uk/ukpga/1992/9/section/3/schedule/1), [3](https://www.legislation.gov.uk/ukpga/1992/9/section/3/schedule/3).
 
@@ -309,7 +309,7 @@ he shall have a right of appeal to the Lord Chancellor against that decision.
 
 [^c707599]: Marginal citation: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)**(113:1)**.
 
-[^key-722e6c17fa89d8c403faf02e2b7a849c]: Textual amendment: Sch. 10 para. 6(1ZA)(1ZB) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 21(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/21/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
+[^c-722e6c17fa89d8c403faf02e2b7a849c]: Textual amendment: Sch. 10 para. 6(1ZA)(1ZB) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 21(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/21/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 
 [^c707601]: Textual amendment: Sch. 10 para. 6(1A) inserted (31.3.1995) by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8), [s. 31](https://www.legislation.gov.uk/ukpga/1993/8/section/31), [Sch. 8 para.11](https://www.legislation.gov.uk/ukpga/1993/8/schedule/8/paragraph/11); [S.I. 1995/631](https://www.legislation.gov.uk/uksi/1995/631), [art. 2](https://www.legislation.gov.uk/uksi/1995/631/article/2)
 
@@ -327,11 +327,11 @@ he shall have a right of appeal to the Lord Chancellor against that decision.
 
 [^c707613]: Textual amendment: Words substituted by [Social Security Act 1986 (c. 50, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1986/50) s. 82, Sch. 9 para. 10(3).
 
-[^key-d0a0a2b3e6acd9a0f8bff14d5be50970]: Textual amendment: Sch. 10 para. 7(5A)(5B) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 21(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/21/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
+[^c-d0a0a2b3e6acd9a0f8bff14d5be50970]: Textual amendment: Sch. 10 para. 7(5A)(5B) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 21(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/21/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/a)
 
 [^c707614]: Textual amendment: Word substituted by [Social Security Act 1986 (c. 50, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1986/50) s. 82, Sch. 9 para. 10(1)(*b*)
 
-[^key-835c50e40fffd11d6104c1e9a85c2622]: Textual amendment: Words in [Sch. 10 para. 7(8)(b)](https://www.legislation.gov.uk/ukpga/1975/15/schedule/10/paragraph/7/8/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [60(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/60/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-835c50e40fffd11d6104c1e9a85c2622]: Textual amendment: Words in [Sch. 10 para. 7(8)(b)](https://www.legislation.gov.uk/ukpga/1975/15/schedule/10/paragraph/7/8/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [60(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/60/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c707620]: Modification: Para. 7A excluded by [Social Security Administration (Northern Ireland) Act 1992 (c. 8, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1992/8), [ss. 39](https://www.legislation.gov.uk/ukpga/1992/8/section/39), [41](https://www.legislation.gov.uk/ukpga/1992/8/section/41), [48–50](https://www.legislation.gov.uk/ukpga/1992/8/section/48) Sch. 2 para. 1(6)
 
@@ -339,14 +339,14 @@ he shall have a right of appeal to the Lord Chancellor against that decision.
 
 [^c707619]: Textual amendment: Para. 7A inserted by S.R. (N.I.) No. 1989/100, reg. 5 Sch. 4.
 
-[^key-3a62a3a43a748a20e9fc9c133f371fcc]: Textual amendment: Words in [Sch. 10 para. 7A(2)](https://www.legislation.gov.uk/ukpga/1975/15/schedule/10/paragraph/7A/2) omitted (19.12.2003) by virtue of [The Election Against Benefits Regulations (Northern Ireland) 2003 (S.R. 2003/482)](https://www.legislation.gov.uk/nisr/2003/482), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/482/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2003/482/regulation/4/2/a)
+[^c-3a62a3a43a748a20e9fc9c133f371fcc]: Textual amendment: Words in [Sch. 10 para. 7A(2)](https://www.legislation.gov.uk/ukpga/1975/15/schedule/10/paragraph/7A/2) omitted (19.12.2003) by virtue of [The Election Against Benefits Regulations (Northern Ireland) 2003 (S.R. 2003/482)](https://www.legislation.gov.uk/nisr/2003/482), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/482/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2003/482/regulation/4/2/a)
 
 [^c707623]: Modification: Sch. 10 para. 7A(3) modified (31.3.1995) by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8), [ss. 13(8)(9)(f)](https://www.legislation.gov.uk/ukpga/1993/8/section/13/8/9/f); [S.I. 1995/631](https://www.legislation.gov.uk/uksi/1995/631), [art. 2](https://www.legislation.gov.uk/uksi/1995/631/article/2)
 
-[^key-0fed4dc58c7f341d32cc08b4d20e009e]: Textual amendment: [Sch. 10 para. 7A(3)(b)](https://www.legislation.gov.uk/ukpga/1975/15/schedule/10/paragraph/7A/3/b) substituted (19.12.2003) by [The Election Against Benefits Regulations (Northern Ireland) 2003 (S.R. 2003/482)](https://www.legislation.gov.uk/nisr/2003/482), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/482/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2003/482/regulation/4/2/b)
+[^c-0fed4dc58c7f341d32cc08b4d20e009e]: Textual amendment: [Sch. 10 para. 7A(3)(b)](https://www.legislation.gov.uk/ukpga/1975/15/schedule/10/paragraph/7A/3/b) substituted (19.12.2003) by [The Election Against Benefits Regulations (Northern Ireland) 2003 (S.R. 2003/482)](https://www.legislation.gov.uk/nisr/2003/482), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/482/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2003/482/regulation/4/2/b)
 
 [^c707624]: Textual amendment: Sch. 10 para. 7B inserted (31.3.1995) by virtue of [1993 c.8](https://www.legislation.gov.uk/ukpga/1993/8), [s. 24](https://www.legislation.gov.uk/ukpga/1993/8/section/24), [Sch. 3 Pt. III](https://www.legislation.gov.uk/ukpga/1993/8/schedule/3/part/III), [para. 7(4)](https://www.legislation.gov.uk/ukpga/1993/8/paragraph/7/4); [S.I. 1995/631](https://www.legislation.gov.uk/uksi/1995/631), [art. 2](https://www.legislation.gov.uk/uksi/1995/631/article/2)
 
-[^key-19eba1a5e6225315e02c99c6e2628fde]: Textual amendment: Words in [Sch. 10 para. 7B(3)(b)](https://www.legislation.gov.uk/ukpga/1975/15/schedule/10/paragraph/7B/3/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [60(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/60/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-19eba1a5e6225315e02c99c6e2628fde]: Textual amendment: Words in [Sch. 10 para. 7B(3)(b)](https://www.legislation.gov.uk/ukpga/1975/15/schedule/10/paragraph/7B/3/b) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [60(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/60/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c707625]: Textual amendment: Whole Act, except sections 97(4) and 158 and paragraphs 5(2), 6, 7 and 7A of Schedule 10 repealed by [Social Security (Consequential Provisions) (Northern Ireland) Act 1992 (c. 9, SIF 113:1)](https://www.legislation.gov.uk/ukpga/1992/9), [s. 3 Schs. 1](https://www.legislation.gov.uk/ukpga/1992/9/section/3/schedule/1), [3](https://www.legislation.gov.uk/ukpga/1992/9/section/3/schedule/3).

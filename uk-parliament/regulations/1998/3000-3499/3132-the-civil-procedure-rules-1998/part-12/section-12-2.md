@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.2. Claims in which default judgment may not be obtained[^key-58025b33063689ed195a3510379debea]
+## 12.2. Claims in which default judgment may not be obtained[^c-58025b33063689ed195a3510379debea]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ A claimant may not obtain a default judgment—
 
 ## Annotations
 
-[^key-58025b33063689ed195a3510379debea]: Textual amendment: Pt. 12 substituted (with application in accordance with rule 1(2) of the amending S.I.) by [The Civil Procedure (Amendment) Rules 2022 (S.I. 2022/101)](https://www.legislation.gov.uk/uksi/2022/101), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/101/schedule/2)
+[^c-58025b33063689ed195a3510379debea]: Textual amendment: Pt. 12 substituted (with application in accordance with rule 1(2) of the amending S.I.) by [The Civil Procedure (Amendment) Rules 2022 (S.I. 2022/101)](https://www.legislation.gov.uk/uksi/2022/101), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/101/schedule/2)

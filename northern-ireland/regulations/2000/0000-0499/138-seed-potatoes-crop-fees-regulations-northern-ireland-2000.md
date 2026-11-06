@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2000 (revoked)[^key-abce9279240637f27a5895776d75d232]
+Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2000 (revoked)[^c-abce9279240637f27a5895776d75d232]
 
 Made
 
@@ -41,27 +41,27 @@ Coming into operation
 
 29th May 2000
 
-[^key-abce9279240637f27a5895776d75d232]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abce9279240637f27a5895776d75d232]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-abce9279240637f27a5895776d75d232]
+## 1. Citation, commencement and interpretation[^c-abce9279240637f27a5895776d75d232]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees[^key-abce9279240637f27a5895776d75d232]
+## 2. Fees[^c-abce9279240637f27a5895776d75d232]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-abce9279240637f27a5895776d75d232]
+## 3. Revocation[^c-abce9279240637f27a5895776d75d232]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-abce9279240637f27a5895776d75d232]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abce9279240637f27a5895776d75d232]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Fees for the certification of seed potato crops[^key-abce9279240637f27a5895776d75d232]
+## SCHEDULE — Fees for the certification of seed potato crops[^c-abce9279240637f27a5895776d75d232]
 
 Regulation 2
 
@@ -69,8 +69,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-abce9279240637f27a5895776d75d232]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abce9279240637f27a5895776d75d232]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-abce9279240637f27a5895776d75d232]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/138) revoked (30.5.2001) by [Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2001 (S.R. 2001/228)](https://www.legislation.gov.uk/nisr/2001/228), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/228/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2001/228/regulation/3)
+[^c-abce9279240637f27a5895776d75d232]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/138) revoked (30.5.2001) by [Seed Potatoes (Crop Fees) Regulations (Northern Ireland) 2001 (S.R. 2001/228)](https://www.legislation.gov.uk/nisr/2001/228), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/228/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2001/228/regulation/3)

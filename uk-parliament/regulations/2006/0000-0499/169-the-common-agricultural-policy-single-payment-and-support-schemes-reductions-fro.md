@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Common Agricultural Policy Single Payment and Support Schemes (Reductions from Payments) (England) Regulations 2006 (revoked)[^key-0471171342608a5b11a2298b5beeba2e]
+The Common Agricultural Policy Single Payment and Support Schemes (Reductions from Payments) (England) Regulations 2006 (revoked)[^c-0471171342608a5b11a2298b5beeba2e]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 26th February 2006
 
-[^key-0471171342608a5b11a2298b5beeba2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0471171342608a5b11a2298b5beeba2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-0471171342608a5b11a2298b5beeba2e]
+## 1. Title, commencement and application[^c-0471171342608a5b11a2298b5beeba2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0471171342608a5b11a2298b5beeba2e]
+## 2. Interpretation[^c-0471171342608a5b11a2298b5beeba2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Deductions from payments[^key-0471171342608a5b11a2298b5beeba2e]
+## 3. Deductions from payments[^c-0471171342608a5b11a2298b5beeba2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0471171342608a5b11a2298b5beeba2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0471171342608a5b11a2298b5beeba2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0471171342608a5b11a2298b5beeba2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0471171342608a5b11a2298b5beeba2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0471171342608a5b11a2298b5beeba2e]: Textual amendment: Regulations revoked (1.1.2013) by [The Common Agricultural Policy Single Payment and Support Schemes (Amendment) Regulations 2012 (S.I. 2012/3027)](https://www.legislation.gov.uk/uksi/2012/3027), [reg. 3](https://www.legislation.gov.uk/uksi/2012/3027/regulation/3)
+[^c-0471171342608a5b11a2298b5beeba2e]: Textual amendment: Regulations revoked (1.1.2013) by [The Common Agricultural Policy Single Payment and Support Schemes (Amendment) Regulations 2012 (S.I. 2012/3027)](https://www.legislation.gov.uk/uksi/2012/3027), [reg. 3](https://www.legislation.gov.uk/uksi/2012/3027/regulation/3)

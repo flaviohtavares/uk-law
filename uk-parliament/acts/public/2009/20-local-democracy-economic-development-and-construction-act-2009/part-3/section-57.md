@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Requests for review of single-member electoral areas[^key-51200f36c460baf574afa709a11e04c9]
+## 57. Requests for review of single-member electoral areas[^c-51200f36c460baf574afa709a11e04c9]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (4) For the purposes of subsection (3)(b) a principal council is “subject to a scheme for whole-council elections” if, in each year in which ordinary elections of members of the council are to be held, all the members of the council are to be elected.
 
-(4A)[^key-10d1ec8485e28e3038862db567dd740a] A district council is also “subject to a scheme for whole-council elections” for those purposes if—
+(4A)[^c-10d1ec8485e28e3038862db567dd740a] A district council is also “subject to a scheme for whole-council elections” for those purposes if—
 
 - (a) section 34 of the Local Government and Public Involvement in Health Act 2007 (scheme for whole-council elections) applies to the council, but
 - (b) by virtue of subsection (4A) of that section (temporary continuation of previous electoral scheme), not all the members of the council are to be elected in a year in which ordinary elections of members of the council are to be held.
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-51200f36c460baf574afa709a11e04c9]: Commencement: S. 57 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(f)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/f)
+[^c-51200f36c460baf574afa709a11e04c9]: Commencement: S. 57 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(f)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/f)
 
-[^key-10d1ec8485e28e3038862db567dd740a]: Textual amendment: S. 57(4A) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 24(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/24/7), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-10d1ec8485e28e3038862db567dd740a]: Textual amendment: S. 57(4A) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 24(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/24/7), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

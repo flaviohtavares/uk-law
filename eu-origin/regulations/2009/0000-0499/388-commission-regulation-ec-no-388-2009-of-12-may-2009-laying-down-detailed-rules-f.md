@@ -35,42 +35,42 @@ laying down detailed rules for the application of Council Regulation (EC) No 123
 
 (Codified version) (revoked)
 
-[^key-ed38bc52231fd5799f5609bc1c3c276b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed38bc52231fd5799f5609bc1c3c276b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-ed38bc52231fd5799f5609bc1c3c276b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed38bc52231fd5799f5609bc1c3c276b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed38bc52231fd5799f5609bc1c3c276b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-ed38bc52231fd5799f5609bc1c3c276b]
+## ANNEX I[^c-ed38bc52231fd5799f5609bc1c3c276b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-ed38bc52231fd5799f5609bc1c3c276b]
+## ANNEX II[^c-ed38bc52231fd5799f5609bc1c3c276b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-ed38bc52231fd5799f5609bc1c3c276b]
+## ANNEX III[^c-ed38bc52231fd5799f5609bc1c3c276b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ed38bc52231fd5799f5609bc1c3c276b]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-ed38bc52231fd5799f5609bc1c3c276b]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

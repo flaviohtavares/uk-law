@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Discretionary payments: top-up of reserved benefits[^key-068a0869c95eb10fdac85b7cc63cd3a5]
+## 24. Discretionary payments: top-up of reserved benefits[^c-068a0869c95eb10fdac85b7cc63cd3a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ In Section F1 of Part 2 of Schedule 5 to the Scotland Act 1998, in the Exception
 
 ## Annotations
 
-[^key-068a0869c95eb10fdac85b7cc63cd3a5]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2016/11/section/24) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/c)
+[^c-068a0869c95eb10fdac85b7cc63cd3a5]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2016/11/section/24) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/c)

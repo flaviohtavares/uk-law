@@ -42,15 +42,15 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 45C(1), (2), (3)(b) and (c) and (4)(a) and (c), 45D(2), 45F(2)(a), (b), (f) and (g) and 45P(2) of the Public Health (Control of Disease) Act 1984[^f00001].
 
-A draft of this instrument has been approved by resolution of each House of Parliament pursuant to section 45Q(2), (3) and (4) of that Act.[^key-022f41375913932fe5865bc2196b161b][^key-79e8842e69ec55e2cf929ee3ff4858eb][^key-6014faab6877b834c74018f1c20f032a][^key-066173e29078c005cdf7b0b61b53938c]
+A draft of this instrument has been approved by resolution of each House of Parliament pursuant to section 45Q(2), (3) and (4) of that Act.[^c-022f41375913932fe5865bc2196b161b][^c-79e8842e69ec55e2cf929ee3ff4858eb][^c-6014faab6877b834c74018f1c20f032a][^c-066173e29078c005cdf7b0b61b53938c]
 
-## 1. Citation, commencement and application[^key-5e471e47552faeab3849428bfacfd621]
+## 1. Citation, commencement and application[^c-5e471e47552faeab3849428bfacfd621]
 
 (1) These Regulations may be cited as the Health Protection (Local Authority Powers) Regulations 2010 and shall come into force on 6th April 2010.
 
 (2) These Regulations apply in relation to England only.
 
-## 2. Requirement to keep a child away from school[^key-6efa4c3555e4d3cf250ddefbbb76b869]
+## 2. Requirement to keep a child away from school[^c-6efa4c3555e4d3cf250ddefbbb76b869]
 
 (1) This regulation applies where a local authority is satisfied in relation to a child (C) that—
 
@@ -107,7 +107,7 @@ A draft of this instrument has been approved by resolution of each House of Parl
 - “school” has the meaning given to it by section 4 of the Education Act 1996[^f00005]; and
 - “working day” means any day which is not Saturday, Sunday, Christmas Day, Good Friday or a day which is a bank holiday in England under the Banking and Financial Dealings Act 1971[^f00006].
 
-## 3. Requirement to provide details of children attending school[^key-c2f9599de14dbd9a8e6197a28732611c]
+## 3. Requirement to provide details of children attending school[^c-c2f9599de14dbd9a8e6197a28732611c]
 
 (1) A local authority may by serving notice on a headteacher of a school in its area require that headteacher to provide it with a list of the names, addresses and contact telephone numbers for all the pupils of that school, or such group of pupils attending that school as it may specify, where the condition in paragraph (2) is met.
 
@@ -131,7 +131,7 @@ A draft of this instrument has been approved by resolution of each House of Parl
 
 (6) In this regulation, “headteacher” and “school” have the same meaning as they are given in regulation 2.
 
-## 4. Disinfection or decontamination of things on request of the owner[^key-e6ec1f928738b22ef039371e5725617e]
+## 4. Disinfection or decontamination of things on request of the owner[^c-e6ec1f928738b22ef039371e5725617e]
 
 (1) A local authority may disinfect or decontaminate, or cause to be disinfected or decontaminated, a thing[^f00007] where requested to do so by the owner of the thing.
 
@@ -139,7 +139,7 @@ A draft of this instrument has been approved by resolution of each House of Parl
 
 (3) The local authority’s charge must not exceed the cost incurred by the local authority in carrying out the disinfection or decontamination.
 
-## 5. Disinfection or decontamination of things on request of person with custody or control[^key-145a057c6e67bb4b970aabfaf993354c]
+## 5. Disinfection or decontamination of things on request of person with custody or control[^c-145a057c6e67bb4b970aabfaf993354c]
 
 (1) A local authority may disinfect or decontaminate, or cause to be disinfected or decontaminated, a thing where requested to do so by a person (A) with custody or control of the thing if the local authority is reasonably satisfied that the financial value of the thing will not be reduced as a consequence of the disinfection or decontamination.
 
@@ -147,7 +147,7 @@ A draft of this instrument has been approved by resolution of each House of Parl
 
 (3) The local authority’s charge must not exceed the cost incurred by the local authority in carrying out the disinfection or decontamination.
 
-## 6. Disinfection or decontamination of premises on request of the owner[^key-84c7e3da54bbae2941814a4f9798fe1c]
+## 6. Disinfection or decontamination of premises on request of the owner[^c-84c7e3da54bbae2941814a4f9798fe1c]
 
 (1) A local authority may disinfect or decontaminate, or cause to be disinfected or decontaminated, premises[^f00008] where requested to do so by the owner of the premises.
 
@@ -155,7 +155,7 @@ A draft of this instrument has been approved by resolution of each House of Parl
 
 (3) The local authority’s charge must not exceed the cost incurred by the local authority in carrying out the disinfection or decontamination.
 
-## 7. Disinfection or decontamination of premises on request of tenant[^key-c42d06f1af14f31f841336b310e6ba39]
+## 7. Disinfection or decontamination of premises on request of tenant[^c-c42d06f1af14f31f841336b310e6ba39]
 
 (1) A local authority may disinfect or decontaminate, or cause to be disinfected or decontaminated, premises where requested to do so by the tenant of the premises if the local authority is reasonably satisfied that the financial value of the premises will not be reduced as a consequence of the disinfection or decontamination.
 
@@ -163,7 +163,7 @@ A draft of this instrument has been approved by resolution of each House of Parl
 
 (3) The local authority’s charge must not exceed the cost incurred by the local authority in carrying out the disinfection or decontamination.
 
-## 8. Requests for co-operation for health protection purposes[^key-7a14424288622b16cefa43863256ad08]
+## 8. Requests for co-operation for health protection purposes[^c-7a14424288622b16cefa43863256ad08]
 
 (1) A local authority may by serving notice on any person or group of persons request that the person or group of persons do, or refrain from doing, anything for the purpose of preventing, protecting against, controlling or providing a public health response to the incidence or spread of infection or contamination which presents or could present significant harm to human health.
 
@@ -171,7 +171,7 @@ A draft of this instrument has been approved by resolution of each House of Parl
 
 (3) The local authority may offer compensation or expenses in connection with its request.
 
-## 9. Restriction of contact with dead bodies[^key-d27b7e51fff40132aede13d3d6ef0e7e]
+## 9. Restriction of contact with dead bodies[^c-d27b7e51fff40132aede13d3d6ef0e7e]
 
 (1) This regulation applies where a local authority is satisfied that—
 
@@ -205,7 +205,7 @@ A draft of this instrument has been approved by resolution of each House of Parl
 
 (7) Any person who commits an offence under this regulation is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-## 10. Restriction of access to dead bodies[^key-a6e83454abb9dade98bf66e7795e6c74]
+## 10. Restriction of access to dead bodies[^c-a6e83454abb9dade98bf66e7795e6c74]
 
 (1) This regulation applies where a local authority is satisfied that—
 
@@ -239,7 +239,7 @@ A draft of this instrument has been approved by resolution of each House of Parl
 
 (7) Any person who commits an offence under this regulation is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-## 11. Relocation of dead bodies[^key-0cb82f63423ab92a12c15006bcad9318]
+## 11. Relocation of dead bodies[^c-0cb82f63423ab92a12c15006bcad9318]
 
 (1) This regulation applies where a local authority is satisfied that—
 
@@ -296,17 +296,17 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1984 c.22](https://www.legislation.gov.uk/ukpga/1984/22). *See* section 45T(6) of that Act for the definition of “the appropriate Minister”. Sections 45C, 45D, 45F, 45P, and 45T were inserted into that Act by section 129 of the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) (“the 2008 Act”).
 
-[^key-022f41375913932fe5865bc2196b161b]: Modification: Regulations applied (with modifications) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
+[^c-022f41375913932fe5865bc2196b161b]: Modification: Regulations applied (with modifications) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [9](https://www.legislation.gov.uk/uksi/2011/939/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/939/schedule/2)
 
-[^key-79e8842e69ec55e2cf929ee3ff4858eb]: Modification: Regulations: functions transferred and modified (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
+[^c-79e8842e69ec55e2cf929ee3ff4858eb]: Modification: Regulations: functions transferred and modified (14.6.2016) by [The River Tees Port Health Authority Order 2016 (S.I. 2016/644)](https://www.legislation.gov.uk/uksi/2016/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/644/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/644/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/644/schedule/2)
 
-[^key-6014faab6877b834c74018f1c20f032a]: Modification: Regulations: functions etc. assigned to the port health authority and modified (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
+[^c-6014faab6877b834c74018f1c20f032a]: Modification: Regulations: functions etc. assigned to the port health authority and modified (31.3.2017) by [The Weymouth Port Health Authority Order 2017 (S.I. 2017/558)](https://www.legislation.gov.uk/uksi/2017/558), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/558/article/1/1), [9](https://www.legislation.gov.uk/uksi/2017/558/article/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/558/schedule/2) (with [art. 9(3)](https://www.legislation.gov.uk/uksi/2017/558/article/9/3))
 
-[^key-066173e29078c005cdf7b0b61b53938c]: Modification: Regulations: functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
+[^c-066173e29078c005cdf7b0b61b53938c]: Modification: Regulations: functions etc. assigned to the Port Health Authority (7.11.2024) by [The London Port Health Authority Order 2024 (S.I. 2024/1161)](https://www.legislation.gov.uk/uksi/2024/1161), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1161/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1161/schedule) (with [arts. 4(3)](https://www.legislation.gov.uk/uksi/2024/1161/article/4/3), [5(2)](https://www.legislation.gov.uk/uksi/2024/1161/article/5/2))
 
-[^key-5e471e47552faeab3849428bfacfd621]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
+[^c-5e471e47552faeab3849428bfacfd621]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
 
-[^key-6efa4c3555e4d3cf250ddefbbb76b869]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
+[^c-6efa4c3555e4d3cf250ddefbbb76b869]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
 
 [^f00002]: Footnote: *See* section 45A of the Public Health (Control of Disease) Act [1984 (c.22)](https://www.legislation.gov.uk/ukpga/1984/22) (“the 1984 Act”) for the interpretation of “infection” and “contamination” and related expressions.
 
@@ -318,24 +318,24 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00006]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-c2f9599de14dbd9a8e6197a28732611c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
+[^c-c2f9599de14dbd9a8e6197a28732611c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
 
-[^key-e6ec1f928738b22ef039371e5725617e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
+[^c-e6ec1f928738b22ef039371e5725617e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
 
 [^f00007]: Footnote: *See* section 45T(5) of the 1984 Act for the definition of “thing”.
 
-[^key-145a057c6e67bb4b970aabfaf993354c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
+[^c-145a057c6e67bb4b970aabfaf993354c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
 
-[^key-84c7e3da54bbae2941814a4f9798fe1c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
+[^c-84c7e3da54bbae2941814a4f9798fe1c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
 
 [^f00008]: Footnote: *See* section 74 of the 1984 Act for the definition of “premises” as substituted by Schedule 11, paragraph 29(4) of the 2008 Act.
 
-[^key-c42d06f1af14f31f841336b310e6ba39]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
+[^c-c42d06f1af14f31f841336b310e6ba39]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
 
-[^key-7a14424288622b16cefa43863256ad08]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
+[^c-7a14424288622b16cefa43863256ad08]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
 
-[^key-d27b7e51fff40132aede13d3d6ef0e7e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
+[^c-d27b7e51fff40132aede13d3d6ef0e7e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
 
-[^key-a6e83454abb9dade98bf66e7795e6c74]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
+[^c-a6e83454abb9dade98bf66e7795e6c74]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
 
-[^key-0cb82f63423ab92a12c15006bcad9318]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)
+[^c-0cb82f63423ab92a12c15006bcad9318]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1503/regulation/1) in force at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/657/regulation/1/1)

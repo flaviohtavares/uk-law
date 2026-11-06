@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75. Transitional modifications to sections 35 and 36 of the 1993 Act.[^key-6ffabce598cf37ad2dda989f953ffb6e]
+## 75. Transitional modifications to sections 35 and 36 of the 1993 Act.[^c-6ffabce598cf37ad2dda989f953ffb6e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ffabce598cf37ad2dda989f953ffb6e]: Textual amendment: [Reg. 75](https://www.legislation.gov.uk/uksi/1996/1172/regulation/75) revoked (6.4.2019) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/c), [33(c)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/33/c)
+[^c-6ffabce598cf37ad2dda989f953ffb6e]: Textual amendment: [Reg. 75](https://www.legislation.gov.uk/uksi/1996/1172/regulation/75) revoked (6.4.2019) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/c), [33(c)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/33/c)

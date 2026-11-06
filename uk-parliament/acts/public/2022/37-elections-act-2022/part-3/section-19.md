@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Criminal proceedings[^key-3f60c700bf0591663fa9b06938ceda4b][^key-c392d372082064db3069d43768036aff]
+## 19. Criminal proceedings[^c-3f60c700bf0591663fa9b06938ceda4b][^c-c392d372082064db3069d43768036aff]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f60c700bf0591663fa9b06938ceda4b]: Commencement: S. 19 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-3f60c700bf0591663fa9b06938ceda4b]: Commencement: S. 19 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-c392d372082064db3069d43768036aff]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/37/section/19) in force at 19.8.2022 by [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2)
+[^c-c392d372082064db3069d43768036aff]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/37/section/19) in force at 19.8.2022 by [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2)

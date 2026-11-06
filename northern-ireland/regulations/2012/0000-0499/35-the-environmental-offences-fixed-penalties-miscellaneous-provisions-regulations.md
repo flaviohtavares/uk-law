@@ -42,13 +42,13 @@ Coming into operation
 
 The Department of the Environment makes the following Regulations in exercise of the powers conferred by Article 29A(11) of the Pollution Control and Local Government (Northern Ireland) Order 1978[^f00001], Article 18A(1) of the Litter (Northern Ireland) Order 1994[^f00002], section 8A(5) of the Noise Act 1996[^f00003] and sections 4(11), 27(3), 44(4) and 53(4) of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011[^f00004].
 
-## 1. Citation, commencement and application[^key-dfa48a1d51232c8c817ccf67bc33d675]
+## 1. Citation, commencement and application[^c-dfa48a1d51232c8c817ccf67bc33d675]
 
 (1) These Regulations may be cited as the Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) Regulations (Northern Ireland) 2012 and shall come into operation on 1<sup>st</sup> April 2012.
 
 (2) These Regulations apply in relation to a fixed penalty offence alleged to have been committed on or after 1<sup>st</sup> April 2012.
 
-## 2. Interpretation[^key-1f405165d8e24541c53ba4ad2760d915]
+## 2. Interpretation[^c-1f405165d8e24541c53ba4ad2760d915]
 
 In these Regulations—
 
@@ -57,19 +57,19 @@ In these Regulations—
 - “the Noise Act” means the Noise Act 1996;
 - “the Litter Order” means the Litter (Northern Ireland) Order 1994;
 - “the 2011 Act” means the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011
-- “[^key-3317140691af8a62e602c45e54294157]**the 2012 Regulations**” means the Dog Control Orders (Prescribed Offences and Penalties, etc.) Regulations (Northern Ireland) 2012.
+- “[^c-3317140691af8a62e602c45e54294157]**the 2012 Regulations**” means the Dog Control Orders (Prescribed Offences and Penalties, etc.) Regulations (Northern Ireland) 2012.
 
-## 3. Prescribed ranges of fixed penalties[^key-342d568366e7c5adc9ec52e9a6f2a591]
+## 3. Prescribed ranges of fixed penalties[^c-342d568366e7c5adc9ec52e9a6f2a591]
 
 (1) The amount of a fixed penalty capable of being specified by a district council for a fixed penalty under—
 
-- (a) [^key-c7f96b5e708c50dc9a4f15a3e7ac3ed2]... paragraph 7(4)(a) of Schedule 1A to, the Litter Order;
-- (b) sections 27(1) [^key-7df90528eea3ddb5ff540005217943da]... and 53(2) of the 2011 Act,
-- (c)[^key-e2d45604264b2486c07c32aafe5e7ff9] section 44(1)(a) of the 2011 Act insofar as it relates to an offence under a Dog Control Order set out in Schedules 2 to 5 to the 2012 Regulations,
+- (a) [^c-c7f96b5e708c50dc9a4f15a3e7ac3ed2]... paragraph 7(4)(a) of Schedule 1A to, the Litter Order;
+- (b) sections 27(1) [^c-7df90528eea3ddb5ff540005217943da]... and 53(2) of the 2011 Act,
+- (c)[^c-e2d45604264b2486c07c32aafe5e7ff9] section 44(1)(a) of the 2011 Act insofar as it relates to an offence under a Dog Control Order set out in Schedules 2 to 5 to the 2012 Regulations,
 
 shall be not less than £50 and not more than £80.
 
-(1A)[^key-9f93b1ac60b77fd48cf3cf8c849f6db0] The amount of a fixed penalty capable of being specified by a district council for a fixed penalty under—
+(1A)[^c-9f93b1ac60b77fd48cf3cf8c849f6db0] The amount of a fixed penalty capable of being specified by a district council for a fixed penalty under—
 
 - (a) Article 6(6A)(a) of the Litter Order;
 - (b) section 44(1)(a) of the 2011 Act insofar as it relates to an offence under a Dog Control Order set out in Schedule 1 to the 2012 Regulations,
@@ -83,9 +83,9 @@ shall be not less than £50 and not more than £200.
 
 shall be not less than £75 and not more than £110.
 
-(3) A district council acting under more than one of the provisions in paragraph (1) , paragraph (1A)[^key-9ac43975930ca8ff0914a0a85bbd2c99] or in paragraph (2) may specify a different amount under each such provision.
+(3) A district council acting under more than one of the provisions in paragraph (1) , paragraph (1A)[^c-9ac43975930ca8ff0914a0a85bbd2c99] or in paragraph (2) may specify a different amount under each such provision.
 
-## 4. Lesser amounts of fixed penalties[^key-d50f7a569ab54ab99294bdfefae8cc87]
+## 4. Lesser amounts of fixed penalties[^c-d50f7a569ab54ab99294bdfefae8cc87]
 
 (1) Where a district council acting under—
 
@@ -106,7 +106,7 @@ makes provision for treating a fixed penalty as having been paid if a lesser amo
 
 (4) A district council acting under more than one of the provisions in paragraph (1) or in paragraph (2) may specify a different lesser amount under each such provision.
 
-## 5. Revocation[^key-173b1c213da39894c2fa84cde7e33ff2]
+## 5. Revocation[^c-173b1c213da39894c2fa84cde7e33ff2]
 
 The Litter (Fixed Penalty Notices) Regulations (Northern Ireland) 1995[^f00009] are revoked.
 
@@ -144,25 +144,25 @@ A regulatory impact assessment on the Clean Neighbourhoods and Environment Act (
 
 [^f00004]: Footnote: [2011 c. 23 (N.I.)](https://www.legislation.gov.uk/nia/2011/23).
 
-[^key-dfa48a1d51232c8c817ccf67bc33d675]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2012/35/regulation/1) in operation at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2012/35/regulation/1/1)
+[^c-dfa48a1d51232c8c817ccf67bc33d675]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2012/35/regulation/1) in operation at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2012/35/regulation/1/1)
 
-[^key-1f405165d8e24541c53ba4ad2760d915]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2012/35/regulation/2) in operation at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2012/35/regulation/1/1)
+[^c-1f405165d8e24541c53ba4ad2760d915]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2012/35/regulation/2) in operation at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2012/35/regulation/1/1)
 
-[^key-3317140691af8a62e602c45e54294157]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/35/regulation/2) inserted (30.12.2022) by [The Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/302)](https://www.legislation.gov.uk/nisr/2022/302), [regs. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1), [3](https://www.legislation.gov.uk/nisr/2022/302/regulation/3)
+[^c-3317140691af8a62e602c45e54294157]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/35/regulation/2) inserted (30.12.2022) by [The Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/302)](https://www.legislation.gov.uk/nisr/2022/302), [regs. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1), [3](https://www.legislation.gov.uk/nisr/2022/302/regulation/3)
 
-[^key-342d568366e7c5adc9ec52e9a6f2a591]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2012/35/regulation/3) in operation at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2012/35/regulation/1/1)
+[^c-342d568366e7c5adc9ec52e9a6f2a591]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2012/35/regulation/3) in operation at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2012/35/regulation/1/1)
 
-[^key-c7f96b5e708c50dc9a4f15a3e7ac3ed2]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2012/35/regulation/3/1/a) omitted (30.12.2022) by virtue of [The Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/302)](https://www.legislation.gov.uk/nisr/2022/302), [regs. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2022/302/regulation/4/1)
+[^c-c7f96b5e708c50dc9a4f15a3e7ac3ed2]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2012/35/regulation/3/1/a) omitted (30.12.2022) by virtue of [The Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/302)](https://www.legislation.gov.uk/nisr/2022/302), [regs. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2022/302/regulation/4/1)
 
-[^key-7df90528eea3ddb5ff540005217943da]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/2012/35/regulation/3/1/b) omitted (30.12.2022) by virtue of [The Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/302)](https://www.legislation.gov.uk/nisr/2022/302), [regs. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2022/302/regulation/4/2)
+[^c-7df90528eea3ddb5ff540005217943da]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/2012/35/regulation/3/1/b) omitted (30.12.2022) by virtue of [The Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/302)](https://www.legislation.gov.uk/nisr/2022/302), [regs. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1), [4(2)](https://www.legislation.gov.uk/nisr/2022/302/regulation/4/2)
 
-[^key-e2d45604264b2486c07c32aafe5e7ff9]: Textual amendment: [Reg. 3(1)(c)](https://www.legislation.gov.uk/nisr/2012/35/regulation/3/1/c) inserted (30.12.2022) by [The Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/302)](https://www.legislation.gov.uk/nisr/2022/302), [regs. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/302/regulation/4/3)
+[^c-e2d45604264b2486c07c32aafe5e7ff9]: Textual amendment: [Reg. 3(1)(c)](https://www.legislation.gov.uk/nisr/2012/35/regulation/3/1/c) inserted (30.12.2022) by [The Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/302)](https://www.legislation.gov.uk/nisr/2022/302), [regs. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1), [4(3)](https://www.legislation.gov.uk/nisr/2022/302/regulation/4/3)
 
-[^key-9f93b1ac60b77fd48cf3cf8c849f6db0]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/nisr/2012/35/regulation/3/1A) inserted (30.12.2022) by [The Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/302)](https://www.legislation.gov.uk/nisr/2022/302), [regs. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1), [4(4)](https://www.legislation.gov.uk/nisr/2022/302/regulation/4/4)
+[^c-9f93b1ac60b77fd48cf3cf8c849f6db0]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/nisr/2012/35/regulation/3/1A) inserted (30.12.2022) by [The Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/302)](https://www.legislation.gov.uk/nisr/2022/302), [regs. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1), [4(4)](https://www.legislation.gov.uk/nisr/2022/302/regulation/4/4)
 
-[^key-9ac43975930ca8ff0914a0a85bbd2c99]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2012/35/regulation/3/3) inserted (30.12.2022) by [The Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/302)](https://www.legislation.gov.uk/nisr/2022/302), [regs. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1), [4(5)](https://www.legislation.gov.uk/nisr/2022/302/regulation/4/5)
+[^c-9ac43975930ca8ff0914a0a85bbd2c99]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2012/35/regulation/3/3) inserted (30.12.2022) by [The Environmental Offences (Fixed Penalties) (Miscellaneous Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/302)](https://www.legislation.gov.uk/nisr/2022/302), [regs. 1](https://www.legislation.gov.uk/nisr/2022/302/regulation/1), [4(5)](https://www.legislation.gov.uk/nisr/2022/302/regulation/4/5)
 
-[^key-d50f7a569ab54ab99294bdfefae8cc87]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2012/35/regulation/4) in operation at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2012/35/regulation/1/1)
+[^c-d50f7a569ab54ab99294bdfefae8cc87]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2012/35/regulation/4) in operation at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2012/35/regulation/1/1)
 
 [^f00005]: Footnote: Article 6(7) and Schedule 1A were respectively inserted by sections 16(2) and 21(3) of the 2011 Act.
 
@@ -172,6 +172,6 @@ A regulatory impact assessment on the Clean Neighbourhoods and Environment Act (
 
 [^f00008]: Footnote: Article 29A was inserted by section 7 of the 2011 Act.
 
-[^key-173b1c213da39894c2fa84cde7e33ff2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2012/35/regulation/5) in operation at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2012/35/regulation/1/1)
+[^c-173b1c213da39894c2fa84cde7e33ff2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2012/35/regulation/5) in operation at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2012/35/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 1995 No. 17](https://www.legislation.gov.uk/nisr/1995/17).

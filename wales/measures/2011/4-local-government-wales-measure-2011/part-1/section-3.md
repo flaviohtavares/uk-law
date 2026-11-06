@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Guidance about surveys[^key-09868cde812dbbe5ecb5e43a04c7e617]
+## 3. Guidance about surveys[^c-09868cde812dbbe5ecb5e43a04c7e617]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In exercising its functions under sections 1 and 2, a local authority must have 
 
 ## Annotations
 
-[^key-09868cde812dbbe5ecb5e43a04c7e617]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2011/4/section/3) in force at 31.8.2011 by [S.I. 2011/2011](https://www.legislation.gov.uk/wsi/2011/2011), [art. 2(a)](https://www.legislation.gov.uk/wsi/2011/2011/article/2/a)
+[^c-09868cde812dbbe5ecb5e43a04c7e617]: Commencement: [S. 3](https://www.legislation.gov.uk/mwa/2011/4/section/3) in force at 31.8.2011 by [S.I. 2011/2011](https://www.legislation.gov.uk/wsi/2011/2011), [art. 2(a)](https://www.legislation.gov.uk/wsi/2011/2011/article/2/a)

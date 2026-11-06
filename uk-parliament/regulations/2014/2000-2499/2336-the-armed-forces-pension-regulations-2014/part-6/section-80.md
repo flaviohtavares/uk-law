@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Lump sum amount payable on death of deferred member[^key-ca1b20e2cfe5361428be0c28e525b0bc]
+## 80. Lump sum amount payable on death of deferred member[^c-ca1b20e2cfe5361428be0c28e525b0bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca1b20e2cfe5361428be0c28e525b0bc]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/2014/2336/regulation/80) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-ca1b20e2cfe5361428be0c28e525b0bc]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/2014/2336/regulation/80) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

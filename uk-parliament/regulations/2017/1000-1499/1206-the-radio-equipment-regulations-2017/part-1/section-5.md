@@ -33,7 +33,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Nothing in these Regulations prevents the putting into service and use of radio equipment in Northern Ireland[^key-aecd3f49f557f4e949a39c012ee1a455] which is in conformity with these Regulations when the radio equipment is properly installed, maintained and used for its intended purpose.
+(1) Nothing in these Regulations prevents the putting into service and use of radio equipment in Northern Ireland[^c-aecd3f49f557f4e949a39c012ee1a455] which is in conformity with these Regulations when the radio equipment is properly installed, maintained and used for its intended purpose.
 
 (2) Nothing in these Regulations prevents the application of additional requirements for the putting into service or use of radio equipment in Northern Ireland for reasons related to—
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^M_E_2a788ebf-517c-4e40-91d9-a92165384598]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-aecd3f49f557f4e949a39c012ee1a455]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2017/1206/regulation/5) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 16 para. 3(1)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/3/1)
+[^c-aecd3f49f557f4e949a39c012ee1a455]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2017/1206/regulation/5) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 16 para. 3(1)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/3/1)

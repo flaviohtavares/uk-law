@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 7 — LOT AND SAMPLE WEIGHTS[^key-5044ad8e24cd3b2a2d923b438fdef12f]
+## SCHEDULE 7 — LOT AND SAMPLE WEIGHTS[^c-5044ad8e24cd3b2a2d923b438fdef12f]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Regulations 2(1), 23(3),(4) and (5) and 27(6)
 
 ## Annotations
 
-[^key-5044ad8e24cd3b2a2d923b438fdef12f]: Textual amendment: Regulations revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [regs. 1](https://www.legislation.gov.uk/nisr/2016/244/regulation/1), [35(2)(a)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/a)
+[^c-5044ad8e24cd3b2a2d923b438fdef12f]: Textual amendment: Regulations revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [regs. 1](https://www.legislation.gov.uk/nisr/2016/244/regulation/1), [35(2)(a)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/a)

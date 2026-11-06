@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Power to make transitional or saving provision[^key-7aba5e9b28148d6b49662218abbe3176]
+## 155. Power to make transitional or saving provision[^c-7aba5e9b28148d6b49662218abbe3176]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7aba5e9b28148d6b49662218abbe3176]: Commencement: S. 155 in force at Royal Assent, see [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/d)
+[^c-7aba5e9b28148d6b49662218abbe3176]: Commencement: S. 155 in force at Royal Assent, see [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/d)

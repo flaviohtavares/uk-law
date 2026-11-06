@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40G. Meaning of “mutual fund”: powers to vary exceptions[^key-fba0ba47b3ae07fdf3d6c3bac8427f65]
+## 40G. Meaning of “mutual fund”: powers to vary exceptions[^c-fba0ba47b3ae07fdf3d6c3bac8427f65]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fba0ba47b3ae07fdf3d6c3bac8427f65]: Textual amendment: [Ss. 40A-42A](https://www.legislation.gov.uk/ukpga/2008/9/section/40A) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 170](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/170), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-fba0ba47b3ae07fdf3d6c3bac8427f65]: Textual amendment: [Ss. 40A-42A](https://www.legislation.gov.uk/ukpga/2008/9/section/40A) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 170](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/170), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

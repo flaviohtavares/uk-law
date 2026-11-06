@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Periodic reports: periods, consultation and publication etc.[^key-94cf44dd05407186c9fe37f9105270ac][^key-35647c2f291dfa7e35f029a5ce18bffc]
+## 72. Periodic reports: periods, consultation and publication etc.[^c-94cf44dd05407186c9fe37f9105270ac][^c-35647c2f291dfa7e35f029a5ce18bffc]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94cf44dd05407186c9fe37f9105270ac]: Commencement: S. 72 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-94cf44dd05407186c9fe37f9105270ac]: Commencement: S. 72 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-35647c2f291dfa7e35f029a5ce18bffc]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2025/13/section/72) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-35647c2f291dfa7e35f029a5ce18bffc]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2025/13/section/72) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

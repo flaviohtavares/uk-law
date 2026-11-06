@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C9. Continuation of certain payments[^key-0fe1d02a362bfbdb1ae3e63a5088ca23]
+## C9. Continuation of certain payments[^c-0fe1d02a362bfbdb1ae3e63a5088ca23]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ TABLE
 
 ## Annotations
 
-[^key-0fe1d02a362bfbdb1ae3e63a5088ca23]: Commencement: [Reg. C9](https://www.legislation.gov.uk/uksi/1986/24/regulation/C9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-0fe1d02a362bfbdb1ae3e63a5088ca23]: Commencement: [Reg. C9](https://www.legislation.gov.uk/uksi/1986/24/regulation/C9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

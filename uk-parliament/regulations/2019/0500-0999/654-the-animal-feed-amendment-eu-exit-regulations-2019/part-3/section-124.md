@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Amendment of Regulation 619/2011[^key-34e01542e0474cca76a5634266c54999]
+## 124. Amendment of Regulation 619/2011[^c-34e01542e0474cca76a5634266c54999]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 619/2011 is amended as follows.
 
 ## Annotations
 
-[^key-34e01542e0474cca76a5634266c54999]: Commencement: Reg. 124 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-34e01542e0474cca76a5634266c54999]: Commencement: Reg. 124 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Seized money etc[^key-713e39ec125581f1c6b094d4f553906a]
+## 36. Seized money etc[^c-713e39ec125581f1c6b094d4f553906a]
 
 *Extent: N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-713e39ec125581f1c6b094d4f553906a]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2015/9/section/36) in force at 1.6.2015 by [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(j)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/j)
+[^c-713e39ec125581f1c6b094d4f553906a]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2015/9/section/36) in force at 1.6.2015 by [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(j)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/j)

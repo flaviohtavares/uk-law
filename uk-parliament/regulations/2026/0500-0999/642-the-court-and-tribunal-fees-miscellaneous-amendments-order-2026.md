@@ -68,11 +68,11 @@ In accordance with [section 54](https://www.legislation.gov.uk/ukpga/2005/9/sect
 
 In accordance with [section 42](https://www.legislation.gov.uk/ukpga/2007/15/section/42) [(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/42) of the [Tribunals, Courts and Enforcement Act 2007](https://www.legislation.gov.uk/ukpga/2007/15/contents)[^f00008], the Lord Chancellor has consulted the Senior President of Tribunals.
 
-## 1. Citation, commencement, extent and application[^key-38524b9925ac39007078a00107f30f33]
+## 1. Citation, commencement, extent and application[^c-38524b9925ac39007078a00107f30f33]
 
 (1) This Order may be cited as the Court and Tribunal Fees (Miscellaneous Amendments) Order 2026.
 
-(2) Subject to paragraph (3), this Order comes into force on 13th July 2026[^key-30817c7714bcf995344240821b6f17fd].
+(2) Subject to paragraph (3), this Order comes into force on 13th July 2026[^c-30817c7714bcf995344240821b6f17fd].
 
 (3) Article 7(2) comes into force at the same time as section 18 of the Victims and Prisoners Act 2024[^f00009] comes into force.
 
@@ -80,7 +80,7 @@ In accordance with [section 42](https://www.legislation.gov.uk/ukpga/2007/15/sec
 
 (5) Any amendment made by this Order has the same extent and application as the provision to which it relates.
 
-## 2. Amendment of the Enrolment of Deeds (Fees) Regulations 1994[^key-2c5deb2b540128cd2cae4f6344c4480a]
+## 2. Amendment of the Enrolment of Deeds (Fees) Regulations 1994[^c-2c5deb2b540128cd2cae4f6344c4480a]
 
 (1) The Enrolment of Deeds (Fees) Regulations 1994[^f00010] are amended as follows.
 
@@ -89,7 +89,7 @@ In accordance with [section 42](https://www.legislation.gov.uk/ukpga/2007/15/sec
 - (a) in entry 2 (for making and examining a photographic or other copy of any enrolled deed whether or not issued as an office copy), in column 2 (£ p), for “0.25” substitute “0.50”;
 - (b) in the final entry (searches by staff on behalf of applicant), in column 2, for “5.00” substitute “11.00”.
 
-## 3. Amendment of the Non-Contentious Probate Fees Order 2004[^key-019fbf8bcadc59ebb2279bd32c9bcb55]
+## 3. Amendment of the Non-Contentious Probate Fees Order 2004[^c-019fbf8bcadc59ebb2279bd32c9bcb55]
 
 (1) The Non-Contentious Probate Fees Order 2004[^f00011] is amended as follows.
 
@@ -111,7 +111,7 @@ In accordance with [section 42](https://www.legislation.gov.uk/ukpga/2007/15/sec
 
   .
 
-## 4. Amendment of the Court of Protection Fees Order 2007[^key-db77e627a8ab2b730b16bb84682017a7]
+## 4. Amendment of the Court of Protection Fees Order 2007[^c-db77e627a8ab2b730b16bb84682017a7]
 
 (1) The Court of Protection Fees Order 2007[^f00012] is amended as follows.
 
@@ -122,21 +122,21 @@ In accordance with [section 42](https://www.legislation.gov.uk/ukpga/2007/15/sec
 - (c) in the entry for hearing fees, in column 2, for “£259” substitute “£266”;
 - (d) in the entry for a copy of a document fee, in column 2, for “£5” substitute “£8”.
 
-## 5. Amendment of the Magistrates’ Courts Fees Order 2008[^key-3d209117794e47501f8ef86a5aae44d5]
+## 5. Amendment of the Magistrates’ Courts Fees Order 2008[^c-3d209117794e47501f8ef86a5aae44d5]
 
 (1) The Magistrates’ Courts Fees Order 2008[^f00013] is amended as follows.
 
 (2) In the table in Schedule 1 (fees to be taken), in each entry relating to a fee listed in the table in Schedule 1 to this Order (“Table 1”), for the amount of fee specified in column 2 substitute the revised amount of fee specified in column 3 of the corresponding entry in Table 1.
 
-## 6. Amendment of the Civil Proceedings Fees Order 2008[^key-9b04c2e1bd76f658c862e29378b586cb]
+## 6. Amendment of the Civil Proceedings Fees Order 2008[^c-9b04c2e1bd76f658c862e29378b586cb]
 
 (1) The Civil Proceedings Fees Order 2008[^f00014] is amended as follows.
 
 (2) In the table in Schedule 1 (fees to be taken), in each entry relating to a fee listed in the table in Schedule 2 to this Order (“Table 2”), for the amount of fee specified in column 2 substitute the revised amount of fee specified in column 3 of the corresponding entry in Table 2.
 
-## 7. Amendment of the Family Proceedings Fees Order 2008[^key-3af8ce8a2195c7b595ccb13010749323]
+## 7. Amendment of the Family Proceedings Fees Order 2008[^c-3af8ce8a2195c7b595ccb13010749323]
 
-(1)[^key-3af8ce8a2195c7b595ccb13010749323] The Family Proceedings Fees Order 2008[^f00015] is amended as follows.
+(1)[^c-3af8ce8a2195c7b595ccb13010749323] The Family Proceedings Fees Order 2008[^f00015] is amended as follows.
 
 (2) After article 3E, insert—
 
@@ -146,15 +146,15 @@ In accordance with [section 42](https://www.legislation.gov.uk/ukpga/2007/15/sec
 
 .
 
-(3)[^key-3af8ce8a2195c7b595ccb13010749323] In the table in Schedule 1 (fees to be taken), in each entry relating to a fee listed in the table in Schedule 3 to this Order (“Table 3”), for the amount of fee specified in column 2 substitute the revised amount of fee specified in column 3 of the corresponding entry in Table 3.
+(3)[^c-3af8ce8a2195c7b595ccb13010749323] In the table in Schedule 1 (fees to be taken), in each entry relating to a fee listed in the table in Schedule 3 to this Order (“Table 3”), for the amount of fee specified in column 2 substitute the revised amount of fee specified in column 3 of the corresponding entry in Table 3.
 
-## 8. Amendment of the Upper Tribunal (Lands Chamber) Fees Order 2009[^key-5c18f39701295c0175e42a134a70a364]
+## 8. Amendment of the Upper Tribunal (Lands Chamber) Fees Order 2009[^c-5c18f39701295c0175e42a134a70a364]
 
 (1) The Upper Tribunal (Lands Chamber) Fees Order 2009[^f00017] is amended as follows.
 
 (2) In the table in Schedule 1 (fees to be taken in the Lands Chamber of the Upper Tribunal), in each entry relating to a fee listed in the table in Schedule 4 to this Order (“Table 4”), for the amount of fee specified in the right-hand column substitute the revised amount of fee specified in column 3 of the corresponding entry in Table 4.
 
-## 9. Amendment of the First-tier Tribunal (Gambling) Fees Order 2010[^key-6e9d1e3013c76c55bf9068f63044e5a7]
+## 9. Amendment of the First-tier Tribunal (Gambling) Fees Order 2010[^c-6e9d1e3013c76c55bf9068f63044e5a7]
 
 (1) The First-tier Tribunal (Gambling) Fees Order 2010[^f00018] is amended as follows.
 
@@ -165,13 +165,13 @@ In accordance with [section 42](https://www.legislation.gov.uk/ukpga/2007/15/sec
 - (c) in entry 1.12 (on filing an appeal under section 141 of the Gambling Act 2005 in relation to a personal operational function licence referred to in section 127 of that Act), in column 2, for “£908” substitute “£932”;
 - (d) in entry 2 (on filing an appeal under section 337(1) of the Gambling Act 2005 against the Gambling Commission's order to void a bet under section 336(1) of that Act), in column 2, for “£4,521” substitute “£4,639”.
 
-## 10. Amendment of the Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^key-f0c322676d34fe7884003a7cd5469b3e]
+## 10. Amendment of the Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^c-f0c322676d34fe7884003a7cd5469b3e]
 
 (1) The Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^f00019] is amended as follows.
 
 (2) In the table in Schedule 1 (fees to be taken in immigration judicial review proceedings), in each entry relating to a fee listed in the table in Schedule 5 to this Order (“Table 5”), for the amount of fee specified in the right-hand column substitute the revised amount of fee specified in column 3 of the corresponding entry in Table 5.
 
-## 11. Amendment of the First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011[^key-cde960db4eaf06d434d3516517f4424e]
+## 11. Amendment of the First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011[^c-cde960db4eaf06d434d3516517f4424e]
 
 (1) The First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011[^f00020] is amended as follows.
 
@@ -180,7 +180,7 @@ In accordance with [section 42](https://www.legislation.gov.uk/ukpga/2007/15/sec
 - (a) in sub-paragraph (a), for “£80” substitute “£82”;
 - (b) in sub-paragraph (b), for “£140” substitute “£144”.
 
-## 12. Amendment of the First-tier Tribunal (Property Chamber) Fees Order 2013[^key-e75908a67ced61a4356a1cd70e122c55]
+## 12. Amendment of the First-tier Tribunal (Property Chamber) Fees Order 2013[^c-e75908a67ced61a4356a1cd70e122c55]
 
 (1) The First-tier Tribunal (Property Chamber) Fees Order 2013[^f00021] is amended as follows.
 
@@ -242,7 +242,7 @@ Ministry of Justice
 
 Schedules
 
-## Schedule 1 — Amendment of fees in the Magistrates’ Courts Fees Order 2008[^key-64254979eca41218af243580e684c7a5]
+## Schedule 1 — Amendment of fees in the Magistrates’ Courts Fees Order 2008[^c-64254979eca41218af243580e684c7a5]
 
 Article 5(2)
 
@@ -272,7 +272,7 @@ Table 1
 | 10.1 (on an application for a warrant for commitment made in proceedings under the Council Tax (Administration and Enforcement) Regulations 1992 or the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989) | £212 | £215 |
 | 10.2 (on an application for a warrant for commitment made in proceedings under the Child Support Act 1991) | £46 | £47 |
 
-## Schedule 2 — Amendment of fees in the Civil Proceedings Fees Order 2008[^key-c445f5dd0aa26b8456622bd3a2a818b3]
+## Schedule 2 — Amendment of fees in the Civil Proceedings Fees Order 2008[^c-c445f5dd0aa26b8456622bd3a2a818b3]
 
 Article 6(2)
 
@@ -349,7 +349,7 @@ Table 2
 | 13.2 (on filing a respondent’s notice where the respondent wishes to ask the appeal court to uphold the order of the lower court for reasons different from or additional to those given by the lower court - Court of Appeal) | £587 | £602 |
 | 13.3 (on filing an application notice - in appeals to the Court of Appeal) | £646 | £663 |
 
-## Schedule 3 — Amendment of fees in the Family Proceedings Fees Order 2008[^key-15b7f2aee4504361ea0b0f9aa257635c]
+## Schedule 3 — Amendment of fees in the Family Proceedings Fees Order 2008[^c-15b7f2aee4504361ea0b0f9aa257635c]
 
 Article 7(3)
 
@@ -430,7 +430,7 @@ Table 3
 | 17.1 (on taking an affidavit or an affirmation or attestation upon honour in lieu of an affidavit or a declaration) | £12 | £13 |
 | 17.2 (for each exhibit referred to and required to be marked) | £2 | £3 |
 
-## Schedule 4 — Amendment of fees in the Upper Tribunal (Lands Chamber) Fees Order 2009[^key-ce8a39a4693f0ccd4b757faab4cb8fec]
+## Schedule 4 — Amendment of fees in the Upper Tribunal (Lands Chamber) Fees Order 2009[^c-ce8a39a4693f0ccd4b757faab4cb8fec]
 
 Article 8(2)
 
@@ -452,7 +452,7 @@ Table 4
 | 11(d) (on the hearing of an application or the making of any order under section 84 of the Law of Property Act 1925 (power to discharge or modify restrictive covenants affecting land), engrossing Minutes of Order) | £41 | £40 |
 | 12 (on the hearing or preliminary hearing of a reference or appeal (not being the determination of an application mentioned in entry 11) where either the amount determined is nil or the determination is not expressed in terms of an amount) | £624 | £640 |
 
-## Schedule 5 — Amendment of fees in the Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^key-3060eb8b21dcea9beec9a73ff2bbc89a]
+## Schedule 5 — Amendment of fees in the Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^c-3060eb8b21dcea9beec9a73ff2bbc89a]
 
 Article 10(2)
 
@@ -471,11 +471,11 @@ Table 5
 | 3.1(a) (on a request for a copy of a document filed for the purposes of immigration judicial review proceedings in the Tribunal (other than where fee 3.2 applies), for ten pages or less) | £10 | £14 |
 | 3.2 (on a request for a copy of a document on a computer disk or in other electronic form, for each such copy) | £10 | £14 |
 
-## Schedule 6 — Substituted Schedule 1 to the First-tier Tribunal (Property Chamber) Fees Order 2013[^key-4450482368c08593cab40d37fadb5af0]
+## Schedule 6 — Substituted Schedule 1 to the First-tier Tribunal (Property Chamber) Fees Order 2013[^c-4450482368c08593cab40d37fadb5af0]
 
 Article 12(6)
 
-[^key-4450482368c08593cab40d37fadb5af0]
+[^c-4450482368c08593cab40d37fadb5af0]
 
 > **Schedule 1 — Fees to be taken**
 >
@@ -579,69 +579,69 @@ A full impact assessment of the effect of the increase in the application fee fo
 
 [^f00008]: Footnote: Section 42(5) was amended by [S.I. 2013/2042](https://www.legislation.gov.uk/uksi/2013/2042).
 
-[^key-38524b9925ac39007078a00107f30f33]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2026/642/article/1) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-38524b9925ac39007078a00107f30f33]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2026/642/article/1) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
-[^key-30817c7714bcf995344240821b6f17fd]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2) substituted (5.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) (Change of coming into force) Order 2026 (S.I. 2026/665)](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2)
+[^c-30817c7714bcf995344240821b6f17fd]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2) substituted (5.7.2026) by [The Court and Tribunal Fees (Miscellaneous Amendments) (Change of coming into force) Order 2026 (S.I. 2026/665)](https://www.legislation.gov.uk/uksi/2026/665), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/665/article/1/2), [2](https://www.legislation.gov.uk/uksi/2026/665/article/2)
 
 [^f00009]: Footnote: [2024 c. 21](https://www.legislation.gov.uk/ukpga/2024/21).
 
-[^key-2c5deb2b540128cd2cae4f6344c4480a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2026/642/article/2) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-2c5deb2b540128cd2cae4f6344c4480a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2026/642/article/2) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
 [^f00010]: Footnote: [S.I. 1994/601 (L. 2)](https://www.legislation.gov.uk/uksi/1994/601), amended by [S.I. 2024/476](https://www.legislation.gov.uk/uksi/2024/476); there are other amendments not relevant to this instrument.
 
-[^key-019fbf8bcadc59ebb2279bd32c9bcb55]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2026/642/article/3) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-019fbf8bcadc59ebb2279bd32c9bcb55]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2026/642/article/3) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
 [^f00011]: Footnote: [S.I. 2004/3120 (L. 22)](https://www.legislation.gov.uk/uksi/2004/3120), amended by [S.I. 2011/588](https://www.legislation.gov.uk/uksi/2011/588), [2020/720](https://www.legislation.gov.uk/uksi/2020/720), [2021/1451](https://www.legislation.gov.uk/uksi/2021/1451), [2024/476](https://www.legislation.gov.uk/uksi/2024/476), [2025/351](https://www.legislation.gov.uk/uksi/2025/351) and [2025/1126](https://www.legislation.gov.uk/uksi/2025/1126); there are other amendments not relevant to this instrument.
 
-[^key-db77e627a8ab2b730b16bb84682017a7]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2026/642/article/4) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-db77e627a8ab2b730b16bb84682017a7]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2026/642/article/4) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
 [^f00012]: Footnote: [S.I. 2007/1745 (L. 13)](https://www.legislation.gov.uk/uksi/2007/1745), amended by [S.I. 2009/513](https://www.legislation.gov.uk/uksi/2009/513), [2013/2302](https://www.legislation.gov.uk/uksi/2013/2302) and [2025/351](https://www.legislation.gov.uk/uksi/2025/351); there are other amendments not relevant to this instrument.
 
-[^key-3d209117794e47501f8ef86a5aae44d5]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2026/642/article/5) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-3d209117794e47501f8ef86a5aae44d5]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2026/642/article/5) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
 [^f00013]: Footnote: [S.I. 2008/1052 (L. 4)](https://www.legislation.gov.uk/uksi/2008/1052), amended by [S.I. 2014/875](https://www.legislation.gov.uk/uksi/2014/875), [2016/807](https://www.legislation.gov.uk/uksi/2016/807), [2020/100](https://www.legislation.gov.uk/uksi/2020/100), [2021/985](https://www.legislation.gov.uk/uksi/2021/985), [2024/476](https://www.legislation.gov.uk/uksi/2024/476), [2025/351](https://www.legislation.gov.uk/uksi/2025/351) and [2025/466](https://www.legislation.gov.uk/uksi/2025/466); there are other amendments not relevant to this instrument.
 
-[^key-9b04c2e1bd76f658c862e29378b586cb]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2026/642/article/6) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-9b04c2e1bd76f658c862e29378b586cb]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2026/642/article/6) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
 [^f00014]: Footnote: [S.I. 2008/1053 (L. 5)](https://www.legislation.gov.uk/uksi/2008/1053), amended by [S.I. 2014/874](https://www.legislation.gov.uk/uksi/2014/874), [2015/576](https://www.legislation.gov.uk/uksi/2015/576), [2016/402](https://www.legislation.gov.uk/uksi/2016/402), [2016/807](https://www.legislation.gov.uk/uksi/2016/807), [2016/1191](https://www.legislation.gov.uk/uksi/2016/1191), [2017/702](https://www.legislation.gov.uk/uksi/2017/702), [2019/146](https://www.legislation.gov.uk/uksi/2019/146), [2019/1063](https://www.legislation.gov.uk/uksi/2019/1063), [2021/588](https://www.legislation.gov.uk/uksi/2021/588), [2021/985](https://www.legislation.gov.uk/uksi/2021/985), [2023/1094](https://www.legislation.gov.uk/uksi/2023/1094), [2024/476](https://www.legislation.gov.uk/uksi/2024/476) and [2025/351](https://www.legislation.gov.uk/uksi/2025/351); there are other amendments not relevant to this instrument.
 
-[^key-3af8ce8a2195c7b595ccb13010749323]: Commencement: [Art. 7(1)](https://www.legislation.gov.uk/uksi/2026/642/article/7/1)[(3)](https://www.legislation.gov.uk/uksi/2026/642/article/7/3) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/642/article/1/3)
+[^c-3af8ce8a2195c7b595ccb13010749323]: Commencement: [Art. 7(1)](https://www.legislation.gov.uk/uksi/2026/642/article/7/1)[(3)](https://www.legislation.gov.uk/uksi/2026/642/article/7/3) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/642/article/1/3)
 
 [^f00015]: Footnote: [S.I. 2008/1054 (L. 6)](https://www.legislation.gov.uk/uksi/2008/1054), amended by [S.I. 2014/877](https://www.legislation.gov.uk/uksi/2014/877), [2015/687](https://www.legislation.gov.uk/uksi/2015/687), [2015/1419](https://www.legislation.gov.uk/uksi/2015/1419), [2016/211](https://www.legislation.gov.uk/uksi/2016/211), [2018/1413](https://www.legislation.gov.uk/uksi/2018/1413), [2020/100](https://www.legislation.gov.uk/uksi/2020/100), [2020/720](https://www.legislation.gov.uk/uksi/2020/720), [2021/985](https://www.legislation.gov.uk/uksi/2021/985), [2022/54](https://www.legislation.gov.uk/uksi/2022/54), [2024/476](https://www.legislation.gov.uk/uksi/2024/476) and [2025/351](https://www.legislation.gov.uk/uksi/2025/351); there are other amendments not relevant to this instrument.
 
 [^f00016]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Sections 10A and 10B were inserted by section 18 of the Victims and Prisoners Act [2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21).
 
-[^key-5c18f39701295c0175e42a134a70a364]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2026/642/article/8) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-5c18f39701295c0175e42a134a70a364]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2026/642/article/8) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
 [^f00017]: Footnote: [S.I. 2009/1114](https://www.legislation.gov.uk/uksi/2009/1114), amended by [S.I. 2010/2601](https://www.legislation.gov.uk/uksi/2010/2601), [2013/2302](https://www.legislation.gov.uk/uksi/2013/2302), [2016/434](https://www.legislation.gov.uk/uksi/2016/434), [2025/351](https://www.legislation.gov.uk/uksi/2025/351); there are other amendments not relevant to this instrument.
 
-[^key-6e9d1e3013c76c55bf9068f63044e5a7]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2026/642/article/9) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-6e9d1e3013c76c55bf9068f63044e5a7]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2026/642/article/9) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
 [^f00018]: Footnote: [S.I. 2010/42](https://www.legislation.gov.uk/uksi/2010/42), amended by [S.I. 2010/633](https://www.legislation.gov.uk/uksi/2010/633), [2013/2302](https://www.legislation.gov.uk/uksi/2013/2302), [2024/476](https://www.legislation.gov.uk/uksi/2024/476) and [2025/351](https://www.legislation.gov.uk/uksi/2025/351); there are other amendments but none is relevant.
 
-[^key-f0c322676d34fe7884003a7cd5469b3e]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2026/642/article/10) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-f0c322676d34fe7884003a7cd5469b3e]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2026/642/article/10) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
 [^f00019]: Footnote: [S.I. 2011/2344](https://www.legislation.gov.uk/uksi/2011/2344), amended by [S.I. 2013/2069](https://www.legislation.gov.uk/uksi/2013/2069), [2016/402](https://www.legislation.gov.uk/uksi/2016/402), [2016/807](https://www.legislation.gov.uk/uksi/2016/807), [2025/351](https://www.legislation.gov.uk/uksi/2025/351); there are other amendments not relevant to this instrument.
 
-[^key-cde960db4eaf06d434d3516517f4424e]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2026/642/article/11) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-cde960db4eaf06d434d3516517f4424e]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2026/642/article/11) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
 [^f00020]: Footnote: [S.I. 2011/2841](https://www.legislation.gov.uk/uksi/2011/2841), amended by [S.I. 2016/928](https://www.legislation.gov.uk/uksi/2016/928) and [2016/1149](https://www.legislation.gov.uk/uksi/2016/1149); there are other amendments not relevant to this instrument.
 
-[^key-e75908a67ced61a4356a1cd70e122c55]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2026/642/article/12) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-e75908a67ced61a4356a1cd70e122c55]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2026/642/article/12) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
 [^f00021]: Footnote: [S.I. 2013/1179](https://www.legislation.gov.uk/uksi/2013/1179), amended by [S.I. 2016/807](https://www.legislation.gov.uk/uksi/2016/807) and [2026/485](https://www.legislation.gov.uk/uksi/2026/485); there are other amendments not relevant to this instrument.
 
-[^key-64254979eca41218af243580e684c7a5]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2026/642/schedule/1) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-64254979eca41218af243580e684c7a5]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2026/642/schedule/1) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
-[^key-c445f5dd0aa26b8456622bd3a2a818b3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2026/642/schedule/2) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-c445f5dd0aa26b8456622bd3a2a818b3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2026/642/schedule/2) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
-[^key-15b7f2aee4504361ea0b0f9aa257635c]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2026/642/schedule/3) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-15b7f2aee4504361ea0b0f9aa257635c]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2026/642/schedule/3) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
-[^key-ce8a39a4693f0ccd4b757faab4cb8fec]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2026/642/schedule/4) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-ce8a39a4693f0ccd4b757faab4cb8fec]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2026/642/schedule/4) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
-[^key-3060eb8b21dcea9beec9a73ff2bbc89a]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2026/642/schedule/5) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-3060eb8b21dcea9beec9a73ff2bbc89a]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2026/642/schedule/5) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
-[^key-4450482368c08593cab40d37fadb5af0]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2026/642/schedule/6) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
+[^c-4450482368c08593cab40d37fadb5af0]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2026/642/schedule/6) in force at 13.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/642/article/1/2)
 
 [^f00022]: Footnote: [1967 c. 88](https://www.legislation.gov.uk/ukpga/1967/88/contents).
 

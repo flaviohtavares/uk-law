@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Interpretation of Part 6[^key-184049cbe37fd93ef45d48e25a688e02]
+## 34. Interpretation of Part 6[^c-184049cbe37fd93ef45d48e25a688e02]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In this Part—
 
 ## Annotations
 
-[^key-184049cbe37fd93ef45d48e25a688e02]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2026/37/regulation/34) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-184049cbe37fd93ef45d48e25a688e02]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2026/37/regulation/34) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

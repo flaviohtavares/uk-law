@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Public notices and declarations[^key-f8ce7c32a1ab631d27e9df318a4160c6]
+## 140. Public notices and declarations[^c-f8ce7c32a1ab631d27e9df318a4160c6]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8ce7c32a1ab631d27e9df318a4160c6]: Commencement: Art. 140 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-f8ce7c32a1ab631d27e9df318a4160c6]: Commencement: Art. 140 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

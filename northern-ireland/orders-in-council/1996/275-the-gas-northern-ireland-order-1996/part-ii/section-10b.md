@@ -41,7 +41,7 @@ summary: ''
 - (a) having regard to any steps taken by the holder of the licence to prevent the difficulties from arising, the only reasonably available means of prevention is an exemption under this Article; and
 - (b) an exemption ought to be given having regard to—
   - (i) the objective of achieving a competitive gas market;
-  - (ii) the need for the holder to comply with any relevant public service obligations which apply to the holder[^key-b8b2a966b7d1b0552a15de6584721a01];
+  - (ii) the need for the holder to comply with any relevant public service obligations which apply to the holder[^c-b8b2a966b7d1b0552a15de6584721a01];
   - (iii) the need to ensure security of supply of gas;
   - (iv) the position of the holder of the licence in the gas market and the level of competition in the market;
   - (v) the level of seriousness of the difficulties;
@@ -55,7 +55,7 @@ summary: ''
 - (a) the period of the exemption; and
 - (b) any conditions the Authority considers necessary in order to ensure that the holder of the licence to whom the exemption is granted takes all reasonably practical steps to ensure that, by the time that the exemption expires, the difficulties would no longer arise.
 
-(9)[^key-108aba6908f7f8659f038ab5acb0104e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-108aba6908f7f8659f038ab5acb0104e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) An exemption under this Article may be modified or revoked by the Authority—
 
@@ -69,11 +69,11 @@ summary: ''
 
 (10B) For the purposes of paragraph (10A), the reference to Article 3(2) is to be read as if the reference in that provision to natural gas undertakings of the Community were a reference to natural gas undertakings of the United Kingdom.
 
-(11)[^key-4da73669dfecae536650a192e6fecab5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-4da73669dfecae536650a192e6fecab5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) In this Article,
 
-- (a) “**relevant condition**” means a condition included in a licence under Article 10A(3) or (17)[^key-8e0e995e49d222183f6cfb52f0af7e81] and relating to compliance with the requirement for system access laid down by Article 32 of the Directive; and
+- (a) “**relevant condition**” means a condition included in a licence under Article 10A(3) or (17)[^c-8e0e995e49d222183f6cfb52f0af7e81] and relating to compliance with the requirement for system access laid down by Article 32 of the Directive; and
 - (b) “**system**” includes in relation to the holder of a licence under Article 8(1)(d) an LNG facility;
 - (c) “take or pay commitment” and “**gas purchase contract**” has the same meaning as in Article 48(1) of the Directive.
 
@@ -81,12 +81,12 @@ summary: ''
 
 [^c21875141]: Textual amendment: [Art. 10B](https://www.legislation.gov.uk/nisi/1996/275/article/10B) inserted (12.4.2013) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [reg. 19](https://www.legislation.gov.uk/nisr/2013/92/regulation/19)
 
-[^key-b8b2a966b7d1b0552a15de6584721a01]: Textual amendment: Words in [art. 10B(7)(b)(ii)](https://www.legislation.gov.uk/nisi/1996/275/article/10B/7/b/ii) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [120(2)](https://www.legislation.gov.uk/uksi/2019/530/regulation/120/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b8b2a966b7d1b0552a15de6584721a01]: Textual amendment: Words in [art. 10B(7)(b)(ii)](https://www.legislation.gov.uk/nisi/1996/275/article/10B/7/b/ii) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [120(2)](https://www.legislation.gov.uk/uksi/2019/530/regulation/120/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-108aba6908f7f8659f038ab5acb0104e]: Textual amendment: [Art. 10B(9)](https://www.legislation.gov.uk/nisi/1996/275/article/10B/9) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [120(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/120/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-108aba6908f7f8659f038ab5acb0104e]: Textual amendment: [Art. 10B(9)](https://www.legislation.gov.uk/nisi/1996/275/article/10B/9) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [120(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/120/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_33733246-a3eb-43f9-8a7c-92d6ba8fe5d8]: Textual amendment: Art. 10B(10A)(10B) inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [120(4)](https://www.legislation.gov.uk/uksi/2019/530/regulation/120/4) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(37)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/37)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4da73669dfecae536650a192e6fecab5]: Textual amendment: [Art. 10B(11)](https://www.legislation.gov.uk/nisi/1996/275/article/10B/11) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [120(5)](https://www.legislation.gov.uk/uksi/2019/530/regulation/120/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4da73669dfecae536650a192e6fecab5]: Textual amendment: [Art. 10B(11)](https://www.legislation.gov.uk/nisi/1996/275/article/10B/11) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [120(5)](https://www.legislation.gov.uk/uksi/2019/530/regulation/120/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e0e995e49d222183f6cfb52f0af7e81]: Textual amendment: Words in [art. 10B(12)(a)](https://www.legislation.gov.uk/nisi/1996/275/article/10B/12/a) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [120(6)](https://www.legislation.gov.uk/uksi/2019/530/regulation/120/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e0e995e49d222183f6cfb52f0af7e81]: Textual amendment: Words in [art. 10B(12)(a)](https://www.legislation.gov.uk/nisi/1996/275/article/10B/12/a) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [120(6)](https://www.legislation.gov.uk/uksi/2019/530/regulation/120/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

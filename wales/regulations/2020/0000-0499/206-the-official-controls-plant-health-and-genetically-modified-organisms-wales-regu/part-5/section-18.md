@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Schedule 1[^key-f176146eeea216981cb18d389ea950ae]
+## 18. Schedule 1[^c-f176146eeea216981cb18d389ea950ae]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f176146eeea216981cb18d389ea950ae]: Textual amendment: Reg. 18 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [8](https://www.legislation.gov.uk/wsi/2020/1628/regulation/8)
+[^c-f176146eeea216981cb18d389ea950ae]: Textual amendment: Reg. 18 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [8](https://www.legislation.gov.uk/wsi/2020/1628/regulation/8)

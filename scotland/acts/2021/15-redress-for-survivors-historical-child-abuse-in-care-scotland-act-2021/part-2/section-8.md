@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Functions of the Scottish Ministers[^key-ccfbdb07f58433db3154fa29f6e7378d]
+## 8. Functions of the Scottish Ministers[^c-ccfbdb07f58433db3154fa29f6e7378d]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The Scottish Ministers have, in relation to the redress scheme, the general func
 
 ## Annotations
 
-[^key-ccfbdb07f58433db3154fa29f6e7378d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2021/15/section/8) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-ccfbdb07f58433db3154fa29f6e7378d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2021/15/section/8) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

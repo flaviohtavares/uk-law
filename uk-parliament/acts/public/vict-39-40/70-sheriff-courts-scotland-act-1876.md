@@ -94,7 +94,7 @@ It shall be the duty of the commissary clerk of Edinburgh on or before the thirt
 
 ### 53. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c569626]
 
-### 54. Courts to make acts of sederunt.[^key-b82712a816606b7b26916e68298b35eb]
+### 54. Courts to make acts of sederunt.[^c-b82712a816606b7b26916e68298b35eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -144,6 +144,6 @@ It shall be the duty of the commissary clerk of Edinburgh on or before the thirt
 
 [^c569626]: Textual amendment: [S. 53](https://www.legislation.gov.uk/ukpga/Vict/39-40/70/section/53) repealed by [Statute Law Revision Act 1963 (c. 30)](https://www.legislation.gov.uk/ukpga/1963/30)
 
-[^key-b82712a816606b7b26916e68298b35eb]: Textual amendment: S. 54 repealed (S.) (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2015/77/article/6))
+[^c-b82712a816606b7b26916e68298b35eb]: Textual amendment: S. 54 repealed (S.) (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2015/77/article/6))
 
 [^c569630]: Textual amendment: [Schs.](https://www.legislation.gov.uk/ukpga/Vict/39-40/70/schedule) A, B. repealed by [Sheriff Courts (Scotland) Act 1907 (c. 51)](https://www.legislation.gov.uk/ukpga/1907/51), [Sch. 2](https://www.legislation.gov.uk/ukpga/1907/51/schedule/2)

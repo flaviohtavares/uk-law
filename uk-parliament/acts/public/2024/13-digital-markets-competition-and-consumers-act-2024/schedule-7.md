@@ -22,11 +22,11 @@ summary: ''
 
 Section 130
 
-### 1. Introduction[^key-dd0215434429d2f0b7ac64f8f5d6759c]
+### 1. Introduction[^c-dd0215434429d2f0b7ac64f8f5d6759c]
 
 In EA 2002, Part 3 (mergers) is amended as follows.
 
-### 2. Prohibition on newspaper enterprise mergers involving foreign powers[^key-814cb020ebf19ed21a27d984e1345c09]
+### 2. Prohibition on newspaper enterprise mergers involving foreign powers[^c-814cb020ebf19ed21a27d984e1345c09]
 
 After Chapter 3 insert—
 
@@ -163,7 +163,7 @@ After Chapter 3 insert—
 >
 > (4) Regulations under this section may, among other things, make provision having effect on or after 13 March 2024.
 
-**3.**[^key-56f6f0c81b03169951b103ffdcdf1373][^key-814cb020ebf19ed21a27d984e1345c09] After Schedule 6 insert—
+**3.**[^c-56f6f0c81b03169951b103ffdcdf1373][^c-814cb020ebf19ed21a27d984e1345c09] After Schedule 6 insert—
 
 > **Schedule 6A — Determination of when a foreign state newspaper merger situation has been created**
 >
@@ -402,7 +402,7 @@ After Chapter 3 insert—
 > - (a) confer a discretion on the CMA;
 > - (b) make provision having effect on or after 13 March 2024.
 
-### 4. Further amendments[^key-b04707e42477bd461fdc30a1eca07b4c]
+### 4. Further amendments[^c-b04707e42477bd461fdc30a1eca07b4c]
 
 (1) In section 86 (enforcement orders: general provisions), in subsection (6), after “section” insert “70C,”.
 
@@ -493,10 +493,10 @@ After Chapter 3 insert—
 
 ## Annotations
 
-[^key-dd0215434429d2f0b7ac64f8f5d6759c]: Commencement: Sch. 7 para. 1 in force at Royal Assent, see [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a)
+[^c-dd0215434429d2f0b7ac64f8f5d6759c]: Commencement: Sch. 7 para. 1 in force at Royal Assent, see [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a)
 
-[^key-814cb020ebf19ed21a27d984e1345c09]: Commencement: Sch. 7 para. 2 in force at Royal Assent, see [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a)
+[^c-814cb020ebf19ed21a27d984e1345c09]: Commencement: Sch. 7 para. 2 in force at Royal Assent, see [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a)
 
-[^key-56f6f0c81b03169951b103ffdcdf1373]: Commencement: Sch. 7 para. 3 in force at Royal Assent, see [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a)
+[^c-56f6f0c81b03169951b103ffdcdf1373]: Commencement: Sch. 7 para. 3 in force at Royal Assent, see [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a)
 
-[^key-b04707e42477bd461fdc30a1eca07b4c]: Commencement: Sch. 7 para. 4 in force at Royal Assent, see [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a)
+[^c-b04707e42477bd461fdc30a1eca07b4c]: Commencement: Sch. 7 para. 4 in force at Royal Assent, see [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a)

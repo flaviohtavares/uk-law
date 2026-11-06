@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Amendment of the Value Added Tax (Supply of Temporarily Imported Goods) Order 1992[^key-f7cdddebee2e0897f9b4da292f5ef69b]
+## 13. Amendment of the Value Added Tax (Supply of Temporarily Imported Goods) Order 1992[^c-f7cdddebee2e0897f9b4da292f5ef69b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Value Added Tax (Supply of Temporarily Imported Goods) Order 1992 [^c2439486
 
 ## Annotations
 
-[^key-f7cdddebee2e0897f9b4da292f5ef69b]: Commencement: Reg. 13 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-f7cdddebee2e0897f9b4da292f5ef69b]: Commencement: Reg. 13 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24394861]: Marginal citation: [S.I. 1992/3130](https://www.legislation.gov.uk/uksi/1992/3130); amended by [S.I. 2019/59](https://www.legislation.gov.uk/uksi/2019/59). The amendments made by that instrument are not yet in force.

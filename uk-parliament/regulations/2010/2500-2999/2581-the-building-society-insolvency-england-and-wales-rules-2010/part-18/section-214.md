@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 214. Appointment of another person to act[^key-c4a56d5aa5b10d04bd18eaab48a29b1a]
+## 214. Appointment of another person to act[^c-c4a56d5aa5b10d04bd18eaab48a29b1a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.44 of the 1986 Rules. Ignore paragraph (3)(c).
 
 ## Annotations
 
-[^key-c4a56d5aa5b10d04bd18eaab48a29b1a]: Commencement: Rule 214 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-c4a56d5aa5b10d04bd18eaab48a29b1a]: Commencement: Rule 214 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

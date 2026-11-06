@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Public Order (Northern Ireland) Order 1987[^key-fa2d2431e073d762c52b8062c65a295f]
+## 142. Public Order (Northern Ireland) Order 1987[^c-fa2d2431e073d762c52b8062c65a295f]
 
 *Extent: N.I.*
 
@@ -35,6 +35,6 @@ In Article 8 of the Public Order (Northern Ireland) Order 1987[^f00229] (meaning
 
 ## Annotations
 
-[^key-fa2d2431e073d762c52b8062c65a295f]: Commencement: Reg. 142 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-fa2d2431e073d762c52b8062c65a295f]: Commencement: Reg. 142 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00229]: Footnote: [S.I. 1987/463 (N.I. 7)](https://www.legislation.gov.uk/nisi/1987/463). Article 8 was amended by section 38 of the Anti-terrorism, Crime and Security Act [2001 (c.24)](https://www.legislation.gov.uk/ukpga/2001/24) and by [S.I. 2004/1991 (N.I. 15)](https://www.legislation.gov.uk/nisi/2004/1991).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Gratuities[^key-47acc18306a1a090e9f2c72e06fc5ee4]
+## 48. Gratuities[^c-47acc18306a1a090e9f2c72e06fc5ee4]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47acc18306a1a090e9f2c72e06fc5ee4]: Commencement: Art. 48 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-47acc18306a1a090e9f2c72e06fc5ee4]: Commencement: Art. 48 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

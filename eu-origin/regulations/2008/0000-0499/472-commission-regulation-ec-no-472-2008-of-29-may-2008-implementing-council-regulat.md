@@ -35,20 +35,20 @@ implementing Council Regulation (EC) No 1165/98 concerning short-term statistics
 
 (Text with EEA relevance) (revoked)
 
-[^key-fd1ef6ffadbdf16272a5b078d4e9fe72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd1ef6ffadbdf16272a5b078d4e9fe72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-fd1ef6ffadbdf16272a5b078d4e9fe72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fd1ef6ffadbdf16272a5b078d4e9fe72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fd1ef6ffadbdf16272a5b078d4e9fe72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fd1ef6ffadbdf16272a5b078d4e9fe72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-fd1ef6ffadbdf16272a5b078d4e9fe72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-fd1ef6ffadbdf16272a5b078d4e9fe72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd1ef6ffadbdf16272a5b078d4e9fe72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd1ef6ffadbdf16272a5b078d4e9fe72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Specific requirements for time series prior to 2009 to be transmitted according to NACE Rev. 2[^key-fd1ef6ffadbdf16272a5b078d4e9fe72]
+## ANNEX — Specific requirements for time series prior to 2009 to be transmitted according to NACE Rev. 2[^c-fd1ef6ffadbdf16272a5b078d4e9fe72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fd1ef6ffadbdf16272a5b078d4e9fe72]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 129](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/129); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd1ef6ffadbdf16272a5b078d4e9fe72]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 129](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/129); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation, commencement and revocations[^key-0aeda4942d2524575f1157b7dc4c0bc6]
+## 1. Citation, commencement and revocations[^c-0aeda4942d2524575f1157b7dc4c0bc6]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0aeda4942d2524575f1157b7dc4c0bc6]: Commencement: Art. 1 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-0aeda4942d2524575f1157b7dc4c0bc6]: Commencement: Art. 1 in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)

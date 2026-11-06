@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Eligible child’s pension payable on death of pensioner member[^key-3976e0b0e4dac50fde3cbe0ba879394f]
+## 88. Eligible child’s pension payable on death of pensioner member[^c-3976e0b0e4dac50fde3cbe0ba879394f]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3976e0b0e4dac50fde3cbe0ba879394f]: Commencement: [Reg. 88](https://www.legislation.gov.uk/ssi/2015/19/regulation/88) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-3976e0b0e4dac50fde3cbe0ba879394f]: Commencement: [Reg. 88](https://www.legislation.gov.uk/ssi/2015/19/regulation/88) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

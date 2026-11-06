@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Amendments to the Collaboration Between Education Bodies (Wales) Regulations 2012[^key-2e1ff42ed3df6924668696b57cc45c01]
+## 92. Amendments to the Collaboration Between Education Bodies (Wales) Regulations 2012[^c-2e1ff42ed3df6924668696b57cc45c01]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2e1ff42ed3df6924668696b57cc45c01]: Commencement: Reg. 92 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-2e1ff42ed3df6924668696b57cc45c01]: Commencement: Reg. 92 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00044]: Footnote: [2012/2655 (W.287)](https://www.legislation.gov.uk/wsi/2012/2655)
 

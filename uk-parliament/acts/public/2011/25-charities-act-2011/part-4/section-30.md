@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Charities required to be registered: general[^key-b3d11263c7517094c51fed742720ddec]
+## 30. Charities required to be registered: general[^c-b3d11263c7517094c51fed742720ddec]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
   and whose gross income does not exceed £100,000,
 - (c) a charity which for the time being—
-  - (i) is, or is of a description, permanently or temporarily excepted by regulations made by the Secretary of State[^key-832099cd4b3dab1d052f08b2ec21ef57], and
+  - (i) is, or is of a description, permanently or temporarily excepted by regulations made by the Secretary of State[^c-832099cd4b3dab1d052f08b2ec21ef57], and
   - (ii) complies with any conditions of the exception,
 
   and whose gross income does not exceed £100,000, and
@@ -51,6 +51,6 @@ must, if it so requests, be registered in the register.
 
 ## Annotations
 
-[^key-b3d11263c7517094c51fed742720ddec]: Modification: Ss. 30-34 excluded (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2012/3012/regulation/6/3)
+[^c-b3d11263c7517094c51fed742720ddec]: Modification: Ss. 30-34 excluded (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2012/3012/regulation/6/3)
 
-[^key-832099cd4b3dab1d052f08b2ec21ef57]: Textual amendment: Words in [s. 30(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2011/25/section/30/2/c/i) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(e)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/e) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-832099cd4b3dab1d052f08b2ec21ef57]: Textual amendment: Words in [s. 30(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2011/25/section/30/2/c/i) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(e)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/e) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

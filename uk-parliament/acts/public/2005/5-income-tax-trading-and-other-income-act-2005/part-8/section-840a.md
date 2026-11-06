@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 840A. Claims under section 840[^key-4ed6cac3802a97e8313afc460a4bcf72]
+## 840A. Claims under section 840[^c-4ed6cac3802a97e8313afc460a4bcf72]
 
 *Extent: E+W+S+N.I.*
 
-(1) A claim under section 840 must be made not more than 4 years after the end of[^key-06c4c5cee655e8070ed70f436a81680c] the tax year for which the relief is claimed.
+(1) A claim under section 840 must be made not more than 4 years after the end of[^c-06c4c5cee655e8070ed70f436a81680c] the tax year for which the relief is claimed.
 
 (2) All adjustments (by way of repayment of tax, assessment or otherwise) are to be made which are necessary to give effect to section 840.
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ed6cac3802a97e8313afc460a4bcf72]: Textual amendment: S. 840A inserted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 69](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/69)
+[^c-4ed6cac3802a97e8313afc460a4bcf72]: Textual amendment: S. 840A inserted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 69](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/69)
 
-[^key-06c4c5cee655e8070ed70f436a81680c]: Textual amendment: Words in [s. 840A(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/840A/1) substituted (1.4.2010) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 53](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/53); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
+[^c-06c4c5cee655e8070ed70f436a81680c]: Textual amendment: Words in [s. 840A(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/840A/1) substituted (1.4.2010) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 53](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/53); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))

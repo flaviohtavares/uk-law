@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL CARE, WALES
 
-The Social Care Charges (Means Assessment and Determination of Charges) (Wales) Regulations 2011 (revoked)[^key-292ba43d3a6e4c7559573ba97a89c24b]
+The Social Care Charges (Means Assessment and Determination of Charges) (Wales) Regulations 2011 (revoked)[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 Made
 
@@ -45,94 +45,94 @@ Coming into force
 
 11 April 2011
 
-[^key-292ba43d3a6e4c7559573ba97a89c24b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-292ba43d3a6e4c7559573ba97a89c24b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 1. Title, commencement and application[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 2. Interpretation[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Local authority – power to charge for services[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 3. Local authority – power to charge for services[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Service users upon whom and services in respect of which a charge must not be imposed[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 4. Service users upon whom and services in respect of which a charge must not be imposed[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Maximum reasonable charge for a service[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 5. Maximum reasonable charge for a service[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Procedure for determining a charge[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 6. Procedure for determining a charge[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Invitation to request a means assessment[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 7. Invitation to request a means assessment[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Response to an invitation to request a means assessment[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 8. Response to an invitation to request a means assessment[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Request for extension of time in which to provide information or documentation[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 9. Request for extension of time in which to provide information or documentation[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Failure to respond to an invitation to request a means assessment[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 10. Failure to respond to an invitation to request a means assessment[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Failure to supply all relevant information and documentation[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 11. Failure to supply all relevant information and documentation[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Withdrawal of a request for a means assessment[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 12. Withdrawal of a request for a means assessment[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. No duty to carry out a means assessment[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 13. No duty to carry out a means assessment[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Means assessment process[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 14. Means assessment process[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Determination as to a service user’s ability to pay a charge[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 15. Determination as to a service user’s ability to pay a charge[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Effect of a determination of a service user’s ability to pay a charge[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 16. Effect of a determination of a service user’s ability to pay a charge[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Saving[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 17. Saving[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-292ba43d3a6e4c7559573ba97a89c24b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-292ba43d3a6e4c7559573ba97a89c24b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Transitional provision[^key-292ba43d3a6e4c7559573ba97a89c24b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 20. Transitory provision[^key-292ba43d3a6e4c7559573ba97a89c24b]
+## 19. Transitional provision[^c-292ba43d3a6e4c7559573ba97a89c24b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-292ba43d3a6e4c7559573ba97a89c24b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 20. Transitory provision[^c-292ba43d3a6e4c7559573ba97a89c24b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-292ba43d3a6e4c7559573ba97a89c24b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-292ba43d3a6e4c7559573ba97a89c24b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-292ba43d3a6e4c7559573ba97a89c24b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-292ba43d3a6e4c7559573ba97a89c24b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/962) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), Sch. 1 \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]
+[^c-292ba43d3a6e4c7559573ba97a89c24b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2011/962) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), Sch. 1 \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

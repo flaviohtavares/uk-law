@@ -35,7 +35,7 @@ summary: ''
 - (a) authorising any person, or class of persons, to attend the hearing or a part of it; or
 - (b) excluding any person, or class of persons, from attending the hearing or a part of it.
 
-(4) The general rule in paragraph (1) does not apply to a hearing for a committal order [^key-e477973398fa8ec29622175fbea44d81]....
+(4) The general rule in paragraph (1) does not apply to a hearing for a committal order [^c-e477973398fa8ec29622175fbea44d81]....
 
 ## 4.2. Court's general power to authorise publication of information about proceedings
 
@@ -109,4 +109,4 @@ of information held by it.
 
 ## Annotations
 
-[^key-e477973398fa8ec29622175fbea44d81]: Textual amendment: Words in [rule 4](https://www.legislation.gov.uk/uksi/2017/1035/rule/4).1(4) omitted (1.10.2025) by virtue of [The Court of Protection (Amendment) Rules 2025 (S.I. 2025/866)](https://www.legislation.gov.uk/uksi/2025/866), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/866/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2025/866/rule/3)
+[^c-e477973398fa8ec29622175fbea44d81]: Textual amendment: Words in [rule 4](https://www.legislation.gov.uk/uksi/2017/1035/rule/4).1(4) omitted (1.10.2025) by virtue of [The Court of Protection (Amendment) Rules 2025 (S.I. 2025/866)](https://www.legislation.gov.uk/uksi/2025/866), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/866/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2025/866/rule/3)

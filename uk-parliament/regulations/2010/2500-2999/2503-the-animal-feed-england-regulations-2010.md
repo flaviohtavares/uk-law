@@ -68,66 +68,66 @@ These Regulations may be cited as the Animal Feed (England) Regulations 2010, ap
 - “Regulation 1831/2003” means Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council on additives for use in animal nutrition[^f00010];
 - “Directive 2008/38” means Commission Directive [2008/38/EC](https://www.legislation.gov.uk/european/directive/2008/0038) establishing a list of intended uses of animal feedingstuffs for particular nutritional purposes[^f00011];
 - “Regulation 767/2009” means Regulation [(EC) No. 767/2009](https://www.legislation.gov.uk/european/regulation/2009/0767) of the European Parliament and of the Council on the placing on the market and use of feed, amending European Parliament and Council Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) and repealing Council Directive [79/373/EEC](https://www.legislation.gov.uk/european/directive/1979/0373), Commission Directive [80/511/EEC](https://www.legislation.gov.uk/european/directive/1980/0511), Council Directives [82/471/EEC](https://www.legislation.gov.uk/european/directive/1982/0471), [83/228/EEC](https://www.legislation.gov.uk/european/directive/1983/0228), [93/74/EEC](https://www.legislation.gov.uk/european/directive/1993/0074), [93/113/EC](https://www.legislation.gov.uk/european/directive/1993/0113) and [96/25/EC](https://www.legislation.gov.uk/european/directive/1996/0025) and Commission Decision [2004/217/EC](https://www.legislation.gov.uk/european/decision/2004/0217)[^f00012];
-- [^key-ea98489744fadb633d3e821fe780bb16]...
+- [^c-ea98489744fadb633d3e821fe780bb16]...
 - “feed authority” means an authority identified in section 67(1) of the Act as having the duty to enforce Part IV of the Act within its area or district as the case may be.
 
 (2) Any expression used in these Regulations and in Regulation 1831/2003 or Regulation 767/2009 has the meaning in these Regulations that it bears in the Regulation concerned.
 
-(3)[^key-c36223f29fbbfb18ba1bf88ecda92982] Any reference to an Annex to Directive 82/475, Directive 2002/32, Directive 2008/38 or Regulation 767/2009 is a reference to that Annex as it may be amended from time to time.
+(3)[^c-c36223f29fbbfb18ba1bf88ecda92982] Any reference to an Annex to Directive 82/475, Directive 2002/32, Directive 2008/38 or Regulation 767/2009 is a reference to that Annex as it may be amended from time to time.
 
 (4) These Regulations do not apply to any feed additive in category (d) or (e) of Article 6(1) of Regulation 1831/2003, with the exception of those in the functional groups listed in paragraph 4(a), (b) and (c) of Annex 1 to that Regulation[^f00014].
 
 ## PART 2 — Marketing and use of feed
 
-### 3. Interpretation of this Part and Schedule 1[^key-8f775abc9c8e7ce1ba56a166de92bd6a]
+### 3. Interpretation of this Part and Schedule 1[^c-8f775abc9c8e7ce1ba56a166de92bd6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Enforcement of requirements of Regulation 767/2009[^key-7a06ef49cd73c37bd7e8d803da5d4450]
+### 4. Enforcement of requirements of Regulation 767/2009[^c-7a06ef49cd73c37bd7e8d803da5d4450]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Competent authorities for the purposes of Regulation 767/2009[^key-a4de986d195f9cfc7db4256926805025]
+### 5. Competent authorities for the purposes of Regulation 767/2009[^c-a4de986d195f9cfc7db4256926805025]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Feed additives
 
-### 6. Interpretation of this Part[^key-ef74463ed270885903ea6525f1f69ef5]
+### 6. Interpretation of this Part[^c-ef74463ed270885903ea6525f1f69ef5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Enforcement of requirements of Regulation 1831/2003[^key-2fce5fbefd66b5013d9580c33f2d0a69]
+### 7. Enforcement of requirements of Regulation 1831/2003[^c-2fce5fbefd66b5013d9580c33f2d0a69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Undesirable substances in feed
 
-### 8. Interpretation of this Part[^key-6aa8a8a5d35c04a7e444bc0dea168d7a]
+### 8. Interpretation of this Part[^c-6aa8a8a5d35c04a7e444bc0dea168d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Control of animal feeds containing undesirable substances[^key-e54b8ee9563133c62155dc706503cd67]
+### 9. Control of animal feeds containing undesirable substances[^c-e54b8ee9563133c62155dc706503cd67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Feeds for particular nutritional purposes
 
-### 10. Interpretation of this Part[^key-e71b749ba5a92114bfc0b0a12233c81d]
+### 10. Interpretation of this Part[^c-e71b749ba5a92114bfc0b0a12233c81d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Control of feed intended for particular nutritional purposes[^key-e919c5ac5c0a2e2f99993cd3babcb1e3]
+### 11. Control of feed intended for particular nutritional purposes[^c-e919c5ac5c0a2e2f99993cd3babcb1e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 6 — Administration and enforcement
 
-### 12. Penalties for offences under these Regulations[^key-03d1775f834661f0a4c3647aedfa5140]
+### 12. Penalties for offences under these Regulations[^c-03d1775f834661f0a4c3647aedfa5140]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Duties to enforce[^key-1f4391b7fca0b535706f06b4cd320c5d]
+### 13. Duties to enforce[^c-1f4391b7fca0b535706f06b4cd320c5d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -198,15 +198,15 @@ These Regulations may be cited as the Animal Feed (England) Regulations 2010, ap
 
 ## PART 8 — Amendments to Regulations
 
-### 15. Amendment of the Feed (Hygiene and Enforcement) (England) Regulations 2005[^key-3f90006d0eb3b59a8cbbc7e6af2b982b]
+### 15. Amendment of the Feed (Hygiene and Enforcement) (England) Regulations 2005[^c-3f90006d0eb3b59a8cbbc7e6af2b982b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Amendment of the Official Feed and Food Controls (England) Regulations 2009[^key-a80ec34e334deafba39ed240fd55b90c]
+### 16. Amendment of the Official Feed and Food Controls (England) Regulations 2009[^c-a80ec34e334deafba39ed240fd55b90c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Revocations[^key-b5bdb5448a59212ff93724f5ec9f02ae]
+### 17. Revocations[^c-b5bdb5448a59212ff93724f5ec9f02ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -218,7 +218,7 @@ Parliamentary Under-Secretary of State,
 
 Department of Health
 
-## SCHEDULE 1 — Specified Provisions of Regulation 767/2009[^key-c5042677b928b39dbc1d384b0fe7f28f]
+## SCHEDULE 1 — Specified Provisions of Regulation 767/2009[^c-c5042677b928b39dbc1d384b0fe7f28f]
 
 **No longer in force.**
 
@@ -226,29 +226,29 @@ Regulation 4(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Revocations[^key-7183b7b860b8d27e4e2df06dcd45ba51]
+## SCHEDULE 2 — Revocations[^c-7183b7b860b8d27e4e2df06dcd45ba51]
 
 **No longer in force.**
 
 Regulation 17
 
-**1.**[^key-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7183b7b860b8d27e4e2df06dcd45ba51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -305,40 +305,40 @@ EXPLANATORY NOTE
 
 [^f00012]: Footnote: OJ No. L229, 1.9.2009, p.1. This Regulation was last amended by [Commission Regulation (EC) No. 568/2010](https://www.legislation.gov.uk/european/regulation/2010/0568) (OJ No. L163, 30.6.2010, p.30).
 
-[^key-ea98489744fadb633d3e821fe780bb16]: Textual amendment: Words in reg. 2(1) omitted (17.1.2014) by virtue of [The Feed (Hygiene and Enforcement) and the Animal Feed (England) (Amendment) Regulations 2013 (S.I. 2013/3133)](https://www.legislation.gov.uk/uksi/2013/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3133/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2013/3133/regulation/3/2/a)
+[^c-ea98489744fadb633d3e821fe780bb16]: Textual amendment: Words in reg. 2(1) omitted (17.1.2014) by virtue of [The Feed (Hygiene and Enforcement) and the Animal Feed (England) (Amendment) Regulations 2013 (S.I. 2013/3133)](https://www.legislation.gov.uk/uksi/2013/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3133/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2013/3133/regulation/3/2/a)
 
-[^key-c36223f29fbbfb18ba1bf88ecda92982]: Textual amendment: Reg. 2(3) substituted (17.1.2014) by [The Feed (Hygiene and Enforcement) and the Animal Feed (England) (Amendment) Regulations 2013 (S.I. 2013/3133)](https://www.legislation.gov.uk/uksi/2013/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3133/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2013/3133/regulation/3/2/b)
+[^c-c36223f29fbbfb18ba1bf88ecda92982]: Textual amendment: Reg. 2(3) substituted (17.1.2014) by [The Feed (Hygiene and Enforcement) and the Animal Feed (England) (Amendment) Regulations 2013 (S.I. 2013/3133)](https://www.legislation.gov.uk/uksi/2013/3133), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3133/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2013/3133/regulation/3/2/b)
 
 [^f00014]: Footnote: Categories (d) and (e) of Article 6(1) comprise respectively zootechnical additives, and coccidiostats and histomonostats. Functional groups listed in paragraphs 4(a), (b) and (c) of Annex I comprise preservatives, antioxidants and emulsifiers.
 
-[^key-8f775abc9c8e7ce1ba56a166de92bd6a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/2503/regulation/3) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-8f775abc9c8e7ce1ba56a166de92bd6a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/2503/regulation/3) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
 
-[^key-7a06ef49cd73c37bd7e8d803da5d4450]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/2503/regulation/4) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-7a06ef49cd73c37bd7e8d803da5d4450]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/2503/regulation/4) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
 
-[^key-a4de986d195f9cfc7db4256926805025]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/2503/regulation/5) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-a4de986d195f9cfc7db4256926805025]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/2503/regulation/5) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
 
-[^key-ef74463ed270885903ea6525f1f69ef5]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/2503/regulation/6) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-ef74463ed270885903ea6525f1f69ef5]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/2503/regulation/6) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
 
-[^key-2fce5fbefd66b5013d9580c33f2d0a69]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/2503/regulation/7) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-2fce5fbefd66b5013d9580c33f2d0a69]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/2503/regulation/7) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
 
-[^key-6aa8a8a5d35c04a7e444bc0dea168d7a]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/2503/regulation/8) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-6aa8a8a5d35c04a7e444bc0dea168d7a]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/2503/regulation/8) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
 
-[^key-e54b8ee9563133c62155dc706503cd67]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/2503/regulation/9) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-e54b8ee9563133c62155dc706503cd67]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/2503/regulation/9) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
 
-[^key-e71b749ba5a92114bfc0b0a12233c81d]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/2503/regulation/10) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-e71b749ba5a92114bfc0b0a12233c81d]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/2503/regulation/10) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
 
-[^key-e919c5ac5c0a2e2f99993cd3babcb1e3]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/2503/regulation/11) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-e919c5ac5c0a2e2f99993cd3babcb1e3]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/2503/regulation/11) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
 
-[^key-03d1775f834661f0a4c3647aedfa5140]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2010/2503/regulation/12) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-03d1775f834661f0a4c3647aedfa5140]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2010/2503/regulation/12) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
 
-[^key-1f4391b7fca0b535706f06b4cd320c5d]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2010/2503/regulation/13) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-1f4391b7fca0b535706f06b4cd320c5d]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2010/2503/regulation/13) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
 
-[^key-3f90006d0eb3b59a8cbbc7e6af2b982b]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2010/2503/regulation/15) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-3f90006d0eb3b59a8cbbc7e6af2b982b]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2010/2503/regulation/15) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
 
-[^key-a80ec34e334deafba39ed240fd55b90c]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2010/2503/regulation/16) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-a80ec34e334deafba39ed240fd55b90c]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2010/2503/regulation/16) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
 
-[^key-b5bdb5448a59212ff93724f5ec9f02ae]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2010/2503/regulation/17) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-b5bdb5448a59212ff93724f5ec9f02ae]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2010/2503/regulation/17) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
 
-[^key-c5042677b928b39dbc1d384b0fe7f28f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2503/schedule/1) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-c5042677b928b39dbc1d384b0fe7f28f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2503/schedule/1) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
 
-[^key-7183b7b860b8d27e4e2df06dcd45ba51]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2503/schedule/2) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)
+[^c-7183b7b860b8d27e4e2df06dcd45ba51]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2503/schedule/2) revoked (6.4.2015) by [The Animal Feed (Composition, Marketing and Use) (England) Regulations 2015 (S.I. 2015/255)](https://www.legislation.gov.uk/uksi/2015/255), [reg. 1](https://www.legislation.gov.uk/uksi/2015/255/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/255/schedule/2)

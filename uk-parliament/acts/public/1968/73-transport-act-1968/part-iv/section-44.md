@@ -30,9 +30,9 @@ summary: ''
   - (i) by way of interest on, or the repayment of, any such loan as aforesaid; or
   - (ii) by way of interest on, or the repayment of, the commencing capital debt under section 39 of that Act of any of the Boards [^c15316381] ... ; or
   - (iii)[^c15316391] by way of interest on, or the repayment of, the commencing capital debt of[^c15316361] ... the Bus Company under Schedule 2 to this Act; or
-  - (iv) in respect of any surplus of [^c15316381] ... the Railways Board [^key-cf233defe7e8822470e31dbc7a567805]...,
+  - (iv) in respect of any surplus of [^c15316381] ... the Railways Board [^c-cf233defe7e8822470e31dbc7a567805]...,
 
-  are required by section 20(5), [^c15316381] ... or 39(8) of the Act of 1962, by section 42(8) [^key-cf233defe7e8822470e31dbc7a567805]... of this Act, by the said section 20(5) as applied by the said section [^c15316381] ... , [^c15316361]... or 27(1), or by the said section 39(8) as applied by paragraph 1 of the said Schedule 2 to be paid by the Minister into the National Loans Fund or the Consolidated Fund, as the case may be.
+  are required by section 20(5), [^c15316381] ... or 39(8) of the Act of 1962, by section 42(8) [^c-cf233defe7e8822470e31dbc7a567805]... of this Act, by the said section 20(5) as applied by the said section [^c15316381] ... , [^c15316361]... or 27(1), or by the said section 39(8) as applied by paragraph 1 of the said Schedule 2 to be paid by the Minister into the National Loans Fund or the Consolidated Fund, as the case may be.
 
 (2)[^c15316451] The Secretary of State shall, as respects each financial year, prepare in such form and manner as the Treasury may direct an account of, and of the disposal by him of, the following sums, namely—
 
@@ -62,7 +62,7 @@ summary: ''
 
 [^c15316391]: Textual amendment: S. 44(1)(b)(iii) repealed (G.B.) (1. 4. 1991) by [S.I. 1991/510](https://www.legislation.gov.uk/uksi/1991/510), [reg. 5](https://www.legislation.gov.uk/uksi/1991/510/regulation/5), [Sch.](https://www.legislation.gov.uk/uksi/1991/510/schedule)
 
-[^key-cf233defe7e8822470e31dbc7a567805]: Textual amendment: Words in s. 44(1)(b) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/33) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-cf233defe7e8822470e31dbc7a567805]: Textual amendment: Words in s. 44(1)(b) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/33) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c15316451]: Textual amendment: S. 44(2)(a)(b) repealed (S.) (7.6.2002) by [S.S.I. 2002/263](https://www.legislation.gov.uk/ssi/2002/263), [art. 5(2)](https://www.legislation.gov.uk/ssi/2002/263/article/5/2), [Sch.](https://www.legislation.gov.uk/ssi/2002/263/schedule)
 

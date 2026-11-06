@@ -47,9 +47,9 @@ Coming into Operation
 
 The Secretary of State for Transport, in exercise of the powers conferred by sections 47(1) and 50(1)of the Road Traffic Act 1972[^f00001], and now vested in him[^f00002] and of all other enabling powers, and after consultation with representative organisations in accordance with the provisions of section 199(2) of that Act, hereby makes the following Regulations:—
 
-**1.**[^key-a74e42d429a90de13fb8a5a553ccfefb] These Regulations may be cited as the Motor Vehicles (Type Approval for Goods Vehicles) (Great Britain) (Amendment) Regulations 1985 and shall come into operation on 1st March 1985.
+**1.**[^c-a74e42d429a90de13fb8a5a553ccfefb] These Regulations may be cited as the Motor Vehicles (Type Approval for Goods Vehicles) (Great Britain) (Amendment) Regulations 1985 and shall come into operation on 1st March 1985.
 
-**2.**[^key-7d5b346d9f0a28fea5d10cdd7fc49955] The Motor Vehicles (Type Approval for Goods Vehicles) (Great Britain) Regulations 1982[^f00003] are hereby amended so that in paragraph (2) of Regulation 3, in sub-paragraph (g) for the words “engineering plant, a land tractor” there are substituted the words “an agricultural motor vehicle, engineering plant”.
+**2.**[^c-7d5b346d9f0a28fea5d10cdd7fc49955] The Motor Vehicles (Type Approval for Goods Vehicles) (Great Britain) Regulations 1982[^f00003] are hereby amended so that in paragraph (2) of Regulation 3, in sub-paragraph (g) for the words “engineering plant, a land tractor” there are substituted the words “an agricultural motor vehicle, engineering plant”.
 
 Nicholas Ridley
 
@@ -67,8 +67,8 @@ These Regulations further amend the Motor Vehicles (Type Approval for Goods Vehi
 
 [^f00002]: Footnote: S.I. 1979/571 and 1981/238.
 
-[^key-a74e42d429a90de13fb8a5a553ccfefb]: Commencement: Reg. 1 in force at 1.3.1985, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/46/regulation/1)
+[^c-a74e42d429a90de13fb8a5a553ccfefb]: Commencement: Reg. 1 in force at 1.3.1985, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/46/regulation/1)
 
-[^key-7d5b346d9f0a28fea5d10cdd7fc49955]: Commencement: Reg. 2 in force at 1.3.1985, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/46/regulation/1)
+[^c-7d5b346d9f0a28fea5d10cdd7fc49955]: Commencement: Reg. 2 in force at 1.3.1985, see [reg. 1](https://www.legislation.gov.uk/uksi/1985/46/regulation/1)
 
 [^f00003]: Footnote: to which there is no relevant amending instrument.

@@ -47,13 +47,13 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 (3) In paragraph (4) (duty to give information to the registrar and sign the register in the presence of the registrar)—
 
 - (a) for the words “the registrar” there shall be substituted the words “ any registrar ”; and
-- (b)[^key-bb05150ac10d662ab74be0ffb17b6e30] for the words “and to sign the register in the presence of the registrar” there shall be substituted the words “ in such manner as may be prescribed ”.
+- (b)[^c-bb05150ac10d662ab74be0ffb17b6e30] for the words “and to sign the register in the presence of the registrar” there shall be substituted the words “ in such manner as may be prescribed ”.
 
-(4)[^key-ca006e75f56dd2526dfca6c99084472b] In paragraph (6) (effect of qualified informant giving required information and signing the register), for the words “and signs the register” there shall be substituted the words “ in the prescribed manner ”.
+(4)[^c-ca006e75f56dd2526dfca6c99084472b] In paragraph (6) (effect of qualified informant giving required information and signing the register), for the words “and signs the register” there shall be substituted the words “ in the prescribed manner ”.
 
 (5) In the definition of “birth” in Article 2(2) of the 1976 Order (interpretation), at the end there shall be added the words “ in Northern Ireland ”.
 
-### 2. Infant children found exposed[^key-82c272c1b86771c6ce7df4523fcca2be]
+### 2. Infant children found exposed[^c-82c272c1b86771c6ce7df4523fcca2be]
 
 (1) Article 11 of the 1976 Order (infant children found exposed) shall be amended as follows.
 
@@ -61,7 +61,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (3) In paragraph (2) (effect of person giving information and signing the register), for the words “and signs the register” there shall be substituted the words “ in the prescribed manner ”.
 
-### 3. Issue of notice for information concerning births[^key-0d45dcf03e891dd40039c66c339137ea]
+### 3. Issue of notice for information concerning births[^c-0d45dcf03e891dd40039c66c339137ea]
 
 (1) In Article 12 of the 1976 Order (issue of notice for information concerning births), paragraph (1) shall be amended as follows.
 
@@ -72,7 +72,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - (a) sub-paragraph (a) (requirement to attend personally);
 - (b) sub-paragraph (c) (requirement to sign register) and the immediately preceding “and”.
 
-### 4. Registration of father where parents not married[^key-0869c5bdc41a41e7f7f742f414746968]
+### 4. Registration of father where parents not married[^c-0869c5bdc41a41e7f7f742f414746968]
 
 (1) Article 14 of the 1976 Order (registration of father where parents not married) shall be amended as follows.
 
@@ -113,13 +113,13 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Legitimated persons
 
-### 7. Re-registration of births of legitimated persons[^key-ee4d07d4d5b400021e7d57f4a802c820]
+### 7. Re-registration of births of legitimated persons[^c-ee4d07d4d5b400021e7d57f4a802c820]
 
 In Article 19 of the 1976 Order (re-registration of births of legitimated persons), in paragraph (6) (power of Registrar General where re-registration not pursued to require person to attend and sign register), for sub-paragraphs (i) and (ii) there shall be substituted the words “ to take such steps for the purposes of re-registration as are specified in the notice within such time as may be so specified. ”.
 
 ## Declarations of parentage
 
-### 8. Re-registration of births after declaration of parentage[^key-ab61d9079de89e532c4b7da416530f8c]
+### 8. Re-registration of births after declaration of parentage[^c-ab61d9079de89e532c4b7da416530f8c]
 
 In Article 19A of the 1976 Order (re-registration of birth after declaration of parentage), in paragraph (2) (re-registration to be effected in prescribed manner and at such place as may be prescribed), the words “and at such place as may be prescribed” shall cease to have effect.
 
@@ -136,9 +136,9 @@ In Article 19A of the 1976 Order (re-registration of birth after declaration of 
 (4) In paragraph (5) (duty to give information and to sign register)—
 
 - (a) for the words “to the registrar” there shall be substituted the words “ to any registrar ”;
-- (b)[^key-227fa347484aa515ac36a7d24d0222d0] for the words “to sign the register in the presence of the registrar” there shall be substituted the words “ of such other particulars as may be prescribed, in the prescribed manner ”.
+- (b)[^c-227fa347484aa515ac36a7d24d0222d0] for the words “to sign the register in the presence of the registrar” there shall be substituted the words “ of such other particulars as may be prescribed, in the prescribed manner ”.
 
-(5)[^key-fa230fbdaf7f990a03c2c02dc1d4e7b4] In paragraph (6) (effect of information being given and register signed), for the words “and signs the register” there shall be substituted the words “ in the prescribed manner ”.
+(5)[^c-fa230fbdaf7f990a03c2c02dc1d4e7b4] In paragraph (6) (effect of information being given and register signed), for the words “and signs the register” there shall be substituted the words “ in the prescribed manner ”.
 
 (6) In Article 2(2) of the 1976 Order (interpretation), after the definition of “birth” there shall be inserted the following definition—
 
@@ -146,7 +146,7 @@ In Article 19A of the 1976 Order (re-registration of birth after declaration of 
 
 .
 
-### 10. Issue of notice for information concerning deaths[^key-c0f36f7714b9f0de82e9f6043818aabb]
+### 10. Issue of notice for information concerning deaths[^c-c0f36f7714b9f0de82e9f6043818aabb]
 
 (1) In Article 23 of the 1976 Order (issue of notice for information concerning deaths), paragraph (1) shall be amended in accordance with subsections (2) and (3).
 
@@ -159,7 +159,7 @@ In Article 19A of the 1976 Order (re-registration of birth after declaration of 
 
 (4) In Article 26 of the 1976 Order (informant's position following an inquest), paragraph (a) (person not liable to attend registrar upon a notice issued by registrar) shall cease to have effect.
 
-### 11. Short death certificate[^key-517ef91b383811a1ce9b60b0d0a07870]
+### 11. Short death certificate[^c-517ef91b383811a1ce9b60b0d0a07870]
 
 (1) After Article 40 of the 1976 Order (short birth certificate) there shall be inserted the following Article—
 
@@ -187,11 +187,11 @@ In Article 4 of the 1976 Order (General Register Office and officers), after par
 
 .
 
-### 13. Reproduction of registers and replacement of lost registers, etc.[^key-40be2c67e5e5e32d3290f1930b18c422]
+### 13. Reproduction of registers and replacement of lost registers, etc.[^c-40be2c67e5e5e32d3290f1930b18c422]
 
 In Article 33 of the 1976 Order (reproduction of registers and replacement of lost registers, etc.), in paragraph (2) (authentication by signature of Registrar General) the words “the signature of” shall cease to have effect.
 
-### 14. Access to information relating to births and deaths[^key-e6cf3f4f7c471f12d87a85ea6ce9c0b7]
+### 14. Access to information relating to births and deaths[^c-e6cf3f4f7c471f12d87a85ea6ce9c0b7]
 
 After Article 34 of the 1976 Order (searches of indexes and certified copies of entries) there shall be inserted the following Article—
 
@@ -217,7 +217,7 @@ After Article 34 of the 1976 Order (searches of indexes and certified copies of 
 
 .
 
-### 15. Correction of errors in registers[^key-c40a15c3b66a378ac165b3abcbf9484b]
+### 15. Correction of errors in registers[^c-c40a15c3b66a378ac165b3abcbf9484b]
 
 (1) In Article 35 of the 1976 Order (correction of errors in registers), in paragraph (2)(a) (clerical errors), for the words “clerical error” there shall be substituted the words “ error (other than an error of fact or substance) ”.
 
@@ -231,7 +231,7 @@ After Article 34 of the 1976 Order (searches of indexes and certified copies of 
 - (d) in paragraph (4), for the words “the registrar having custody of the register” there shall be substituted the words “ any registrar ”;
 - (e) in paragraph (5), for the words from “to the person” to the end there shall be substituted the words “ requiring any person to cancel such of the entries as the Registrar General may specify ”.
 
-### 16. Registration or alteration of child's name[^key-9eb10d08f72554bbc820967e94553c98]
+### 16. Registration or alteration of child's name[^c-9eb10d08f72554bbc820967e94553c98]
 
 (1) Article 37 of the 1976 Order (registration or alteration of child's name) shall be amended as follows.
 
@@ -260,7 +260,7 @@ After Article 34 of the 1976 Order (searches of indexes and certified copies of 
 
 (6) In paragraph (7), for the words “paragraphs (2) and (3)” there shall be substituted the words “ paragraph (3) ”.
 
-### 17. Certified copies[^key-e7cf96f46e48f13b1564232ecfb9f9a2]
+### 17. Certified copies[^c-e7cf96f46e48f13b1564232ecfb9f9a2]
 
 For Article 39 of the 1976 Order (photographic copies, etc.) there shall be substituted the following Article—
 
@@ -277,7 +277,7 @@ For Article 39 of the 1976 Order (photographic copies, etc.) there shall be subs
 
 In Article 40 of the 1976 Order (short birth certificate), in paragraph (a) (issue by Registrar General or person having custody of the register) for the words “person having the custody of the register” there shall be substituted the words “ any registrar ”.
 
-### 19. Notification of births and deaths[^key-6028e92fbfa276ecc27241c2778cd356]
+### 19. Notification of births and deaths[^c-6028e92fbfa276ecc27241c2778cd356]
 
 After Article 40A of the 1976 Order (inserted by section 11) there shall be inserted the following Article—
 
@@ -297,15 +297,15 @@ After Article 40A of the 1976 Order (inserted by section 11) there shall be inse
 
 .
 
-### 20. Entries in registers as evidence[^key-6e828cf1d1f055c834bf607d9e10437a]
+### 20. Entries in registers as evidence[^c-6e828cf1d1f055c834bf607d9e10437a]
 
 In Article 41 of the 1976 Order (entries in registers as evidence), in paragraph (1)(a) (entry of a birth or death in a register not to be evidence unless signed by a person professing to be a valid informant), for the words “is signed by” there shall be substituted the words “ includes the name of ”.
 
-### 21. Refusal to give information[^key-652addeabffb01029980909326194fca]
+### 21. Refusal to give information[^c-652addeabffb01029980909326194fca]
 
 In Article 44 of the 1976 Order (refusal to give information), sub-paragraph (b) of paragraph (1) (which makes it an offence to fail to sign a register in the presence of the registrar when required to do so by the 1976 Order) shall cease to have effect.
 
-### 22. Fees payable for searches, certified copies, etc.[^key-937a1b60620529e5dbc15292a440dbb4]
+### 22. Fees payable for searches, certified copies, etc.[^c-937a1b60620529e5dbc15292a440dbb4]
 
 (1) Article 47 of the 1976 Order (fees payable for searches, certified copies, etc.) shall be amended as follows.
 
@@ -332,7 +332,7 @@ In Article 44 of the 1976 Order (refusal to give information), sub-paragraph (b)
 
 ## Miscellaneous
 
-### 23. Access to information relating to marriages and civil partnerships[^key-f61d18c408347249f4672b3e5a714e02]
+### 23. Access to information relating to marriages and civil partnerships[^c-f61d18c408347249f4672b3e5a714e02]
 
 (1) In Article 35 of the Marriage (Northern Ireland) Order 2003 (NI 3) (searches), after paragraph (4) there shall be added the following paragraphs—
 
@@ -364,7 +364,7 @@ In Article 44 of the 1976 Order (refusal to give information), sub-paragraph (b)
 
 .
 
-### 24. Notification of registration of marriages and civil partnerships[^key-aaf942135eaf65796798ac87ee06dc94]
+### 24. Notification of registration of marriages and civil partnerships[^c-aaf942135eaf65796798ac87ee06dc94]
 
 (1) After Article 35 of the Marriage (Northern Ireland) Order 2003 (NI 3) there shall be inserted the following Article—
 
@@ -398,7 +398,7 @@ In Article 44 of the 1976 Order (refusal to give information), sub-paragraph (b)
 
 .
 
-### 25. Access to information in the Adopted Children Register[^key-4e0596f95ac01283b7c4c9cae289d40d]
+### 25. Access to information in the Adopted Children Register[^c-4e0596f95ac01283b7c4c9cae289d40d]
 
 (1) The Adoption (Northern Ireland) Order 1987 (NI 22) (Adopted Children Register) shall be amended as follows.
 
@@ -419,7 +419,7 @@ In Article 44 of the 1976 Order (refusal to give information), sub-paragraph (b)
 
 .
 
-### 26. Access to information in the Gender Recognition Register[^key-6ead1c994f7be04500e4968fb3d4124a]
+### 26. Access to information in the Gender Recognition Register[^c-6ead1c994f7be04500e4968fb3d4124a]
 
 (1) Paragraph 22 of Schedule 3 to the Gender Recognition Act 2004 (c. 7) (Gender Recognition Register maintained in Northern Ireland) shall be amended as follows.
 
@@ -440,7 +440,7 @@ In Article 44 of the 1976 Order (refusal to give information), sub-paragraph (b)
 
 .
 
-### 27. Notification of entry in the Register of Presumed Deaths[^key-aa0cb86a2bb98e30b30d732bbfe12c57]
+### 27. Notification of entry in the Register of Presumed Deaths[^c-aa0cb86a2bb98e30b30d732bbfe12c57]
 
 In paragraph 1 of Schedule 1 to the Presumption of Death Act (Northern Ireland) 2009 (entries in Register of Presumed Deaths), after sub-paragraph (2) there shall be added the following sub-paragraphs—
 
@@ -450,7 +450,7 @@ In paragraph 1 of Schedule 1 to the Presumption of Death Act (Northern Ireland) 
 
 .
 
-### 28. Access to information in the Register of Presumed Deaths[^key-856b64da374f0862d89dfe92e86aa1b4]
+### 28. Access to information in the Register of Presumed Deaths[^c-856b64da374f0862d89dfe92e86aa1b4]
 
 (1) Schedule 1 to the Presumption of Death Act (Northern Ireland) 2009 (Register of Presumed Deaths) shall be amended in accordance with subsections (2) and (3).
 
@@ -483,11 +483,11 @@ In paragraph 1 of Schedule 1 to the Presumption of Death Act (Northern Ireland) 
 
 (4) In consequence of subsection (2), in the definition of “prescribed” in section 17 (interpretation) of that Act, for the word “paragraph” there shall be substituted the words “ paragraphs 3A(1) and (2) and ”.
 
-### 29. Correction of errors in the Register of Presumed Deaths[^key-97f666c351748d3afaae03276effab2c]
+### 29. Correction of errors in the Register of Presumed Deaths[^c-97f666c351748d3afaae03276effab2c]
 
 In paragraph 4(1) of Schedule 1 to the Presumption of Death Act (Northern Ireland) 2009 (correction, etc. of Register of Presumed Deaths), for the words “any clerical error or any error of fact or substance” there shall be substituted the words “ an error ”.
 
-### 30. Commemorative documents[^key-d7a7d92512eb56c3733981e5e901293c]
+### 30. Commemorative documents[^c-d7a7d92512eb56c3733981e5e901293c]
 
 (1) The Registrar General may supply any person with a document commemorating any entry in a register relating to—
 
@@ -499,7 +499,7 @@ on payment of the prescribed fee to the Registrar General.
 
 (2) In this section “**prescribed**” means prescribed by order made under Article 47 of the 1976 Order.
 
-### 31. Record of Northern Ireland Connections[^key-7ad1edfc1483d04945cee6ce2cef2f3f]
+### 31. Record of Northern Ireland Connections[^c-7ad1edfc1483d04945cee6ce2cef2f3f]
 
 (1) The Registrar General shall maintain—
 
@@ -533,7 +533,7 @@ on payment of the prescribed fee to the Registrar General.
 
 In this Act “**the 1976 Order**” means the Births and Deaths Registration (Northern Ireland) Order 1976 (NI 14).
 
-### 33. Repeals[^key-aeaa2c79f44a7743f9ac3ef6f37be657]
+### 33. Repeals[^c-aeaa2c79f44a7743f9ac3ef6f37be657]
 
 The repeals set out in Schedule 2 shall have effect.
 
@@ -547,22 +547,22 @@ This Act may be cited as the Civil Registration Act (Northern Ireland) 2011.
 
 SCHEDULES
 
-## SCHEDULE 1 — EVENTS WHICH MAY BE RECORDED UNDER SECTION 31[^key-9302658dfbfab05385bf3bfcde531a1d]
+## SCHEDULE 1 — EVENTS WHICH MAY BE RECORDED UNDER SECTION 31[^c-9302658dfbfab05385bf3bfcde531a1d]
 
 Section 31.
 
-**1.**[^key-b9a3b9576d87cd7b2d1def3e784d999b] A birth which occurred outside Northern Ireland if—
+**1.**[^c-b9a3b9576d87cd7b2d1def3e784d999b] A birth which occurred outside Northern Ireland if—
 
 - (a) a parent or grandparent of the child was born in Northern Ireland, or
 - (b) there is an entry in the register relating to a parent or grandparent of the child.
 
-**2.**[^key-79f20aed20b32ee53111a0a2645bc471] A death which occurred outside Northern Ireland if—
+**2.**[^c-79f20aed20b32ee53111a0a2645bc471] A death which occurred outside Northern Ireland if—
 
 - (a) the deceased person was born in Northern Ireland or was resident in Northern Ireland at the time of his death;
 - (b) a parent or grandparent of the deceased person was born in Northern Ireland, or
 - (c) there is an entry in the register relating to a parent or grandparent of the deceased person.
 
-**3.**[^key-a5e88bfb8b34a595efeb39cf9110bbd3] (1) A marriage which occurred outside Northern Ireland if—
+**3.**[^c-a5e88bfb8b34a595efeb39cf9110bbd3] (1) A marriage which occurred outside Northern Ireland if—
 
 - (a) at least one of the parties was born in Northern Ireland or was resident in Northern Ireland at the time of the marriage;
 - (b) a parent or grandparent was born in Northern Ireland; or
@@ -573,7 +573,7 @@ Section 31.
 - “**parent or grandparent**” means parent or grandparent of at least one of the parties;
 - “**parties**” means parties to the marriage.
 
-**4.**[^key-4e1bc9600c93b017e39b82f5c6fcbc65] (1) The formation of a civil partnership in Great Britain or the entering into of an overseas relationship if (in either case)—
+**4.**[^c-4e1bc9600c93b017e39b82f5c6fcbc65] (1) The formation of a civil partnership in Great Britain or the entering into of an overseas relationship if (in either case)—
 
 - (a) at least one of the parties was born in Northern Ireland or was resident in Northern Ireland at the time of the event;
 - (b) a parent or grandparent was born in Northern Ireland; or
@@ -585,7 +585,7 @@ Section 31.
 - “**parent or grandparent**” means parent or grandparent of at least one of the parties;
 - “**parties**” means parties to the formation of the civil partnership.
 
-## SCHEDULE 2 — REPEALS[^key-6b4855c6da0227c3a591e8253abf3aa0]
+## SCHEDULE 2 — REPEALS[^c-6b4855c6da0227c3a591e8253abf3aa0]
 
 Section 33.
 
@@ -597,78 +597,78 @@ Section 33.
 
 [^c22529151]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2011/20/section/1) partly in operation; [s. 1](https://www.legislation.gov.uk/nia/2011/20/section/1) not in operation at Royal Assent see [s. 34](https://www.legislation.gov.uk/nia/2011/20/section/34); [s. 1(1)(2)(3)(a)](https://www.legislation.gov.uk/nia/2011/20/section/1/1/2/3/a) and (5) in operation at 3.10.2011 by [S.R. 2011/323](https://www.legislation.gov.uk/nisr/2011/323), [art. 2](https://www.legislation.gov.uk/nisr/2011/323/article/2)
 
-[^key-bb05150ac10d662ab74be0ffb17b6e30]: Commencement: [S. 1(3)(b)](https://www.legislation.gov.uk/nia/2011/20/section/1/3/b) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-bb05150ac10d662ab74be0ffb17b6e30]: Commencement: [S. 1(3)(b)](https://www.legislation.gov.uk/nia/2011/20/section/1/3/b) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-ca006e75f56dd2526dfca6c99084472b]: Commencement: [S. 1(4)](https://www.legislation.gov.uk/nia/2011/20/section/1/4) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-ca006e75f56dd2526dfca6c99084472b]: Commencement: [S. 1(4)](https://www.legislation.gov.uk/nia/2011/20/section/1/4) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-82c272c1b86771c6ce7df4523fcca2be]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/20/section/2) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-82c272c1b86771c6ce7df4523fcca2be]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/20/section/2) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-0d45dcf03e891dd40039c66c339137ea]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/20/section/3) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-0d45dcf03e891dd40039c66c339137ea]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/20/section/3) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-0869c5bdc41a41e7f7f742f414746968]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/20/section/4) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-0869c5bdc41a41e7f7f742f414746968]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/20/section/4) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-ee4d07d4d5b400021e7d57f4a802c820]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2011/20/section/7) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-ee4d07d4d5b400021e7d57f4a802c820]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2011/20/section/7) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-ab61d9079de89e532c4b7da416530f8c]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/20/section/8) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-ab61d9079de89e532c4b7da416530f8c]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/20/section/8) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
 [^c22529161]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2011/20/section/9) partly in operation; [s. 9](https://www.legislation.gov.uk/nia/2011/20/section/9) not in operation at Royal Assent see [s. 34](https://www.legislation.gov.uk/nia/2011/20/section/34); [s. 9(1)(2)(3)(4)(a)](https://www.legislation.gov.uk/nia/2011/20/section/9/1/2/3/4/a) and (6) in operation at 3.10.2011 by [S.R. 2011/323](https://www.legislation.gov.uk/nisr/2011/323), [art. 2](https://www.legislation.gov.uk/nisr/2011/323/article/2)
 
-[^key-227fa347484aa515ac36a7d24d0222d0]: Commencement: [S. 9(4)(b)](https://www.legislation.gov.uk/nia/2011/20/section/9/4/b) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-227fa347484aa515ac36a7d24d0222d0]: Commencement: [S. 9(4)(b)](https://www.legislation.gov.uk/nia/2011/20/section/9/4/b) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-fa230fbdaf7f990a03c2c02dc1d4e7b4]: Commencement: [S. 9(5)](https://www.legislation.gov.uk/nia/2011/20/section/9/5) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-fa230fbdaf7f990a03c2c02dc1d4e7b4]: Commencement: [S. 9(5)](https://www.legislation.gov.uk/nia/2011/20/section/9/5) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-c0f36f7714b9f0de82e9f6043818aabb]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/20/section/10) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-c0f36f7714b9f0de82e9f6043818aabb]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/20/section/10) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-517ef91b383811a1ce9b60b0d0a07870]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/20/section/11) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-517ef91b383811a1ce9b60b0d0a07870]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/20/section/11) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-40be2c67e5e5e32d3290f1930b18c422]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2011/20/section/13) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-40be2c67e5e5e32d3290f1930b18c422]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2011/20/section/13) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-e6cf3f4f7c471f12d87a85ea6ce9c0b7]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2011/20/section/14) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-e6cf3f4f7c471f12d87a85ea6ce9c0b7]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2011/20/section/14) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-c40a15c3b66a378ac165b3abcbf9484b]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2011/20/section/15) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-c40a15c3b66a378ac165b3abcbf9484b]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2011/20/section/15) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-9eb10d08f72554bbc820967e94553c98]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2011/20/section/16) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-9eb10d08f72554bbc820967e94553c98]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2011/20/section/16) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-e7cf96f46e48f13b1564232ecfb9f9a2]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2011/20/section/17) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-e7cf96f46e48f13b1564232ecfb9f9a2]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2011/20/section/17) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-6028e92fbfa276ecc27241c2778cd356]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2011/20/section/19) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-6028e92fbfa276ecc27241c2778cd356]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2011/20/section/19) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-6e828cf1d1f055c834bf607d9e10437a]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2011/20/section/20) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-6e828cf1d1f055c834bf607d9e10437a]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2011/20/section/20) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-652addeabffb01029980909326194fca]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2011/20/section/21) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-652addeabffb01029980909326194fca]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2011/20/section/21) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-937a1b60620529e5dbc15292a440dbb4]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2011/20/section/22) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-937a1b60620529e5dbc15292a440dbb4]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2011/20/section/22) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-f61d18c408347249f4672b3e5a714e02]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2011/20/section/23) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-f61d18c408347249f4672b3e5a714e02]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2011/20/section/23) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-aaf942135eaf65796798ac87ee06dc94]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2011/20/section/24) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-aaf942135eaf65796798ac87ee06dc94]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2011/20/section/24) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-4e0596f95ac01283b7c4c9cae289d40d]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2011/20/section/25) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-4e0596f95ac01283b7c4c9cae289d40d]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2011/20/section/25) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-6ead1c994f7be04500e4968fb3d4124a]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2011/20/section/26) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-6ead1c994f7be04500e4968fb3d4124a]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2011/20/section/26) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-aa0cb86a2bb98e30b30d732bbfe12c57]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2011/20/section/27) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-aa0cb86a2bb98e30b30d732bbfe12c57]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2011/20/section/27) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-856b64da374f0862d89dfe92e86aa1b4]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2011/20/section/28) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-856b64da374f0862d89dfe92e86aa1b4]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2011/20/section/28) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-97f666c351748d3afaae03276effab2c]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2011/20/section/29) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-97f666c351748d3afaae03276effab2c]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2011/20/section/29) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-d7a7d92512eb56c3733981e5e901293c]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2011/20/section/30) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-d7a7d92512eb56c3733981e5e901293c]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2011/20/section/30) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-7ad1edfc1483d04945cee6ce2cef2f3f]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2011/20/section/31) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-7ad1edfc1483d04945cee6ce2cef2f3f]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2011/20/section/31) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-aeaa2c79f44a7743f9ac3ef6f37be657]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2011/20/section/33) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-aeaa2c79f44a7743f9ac3ef6f37be657]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2011/20/section/33) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
 [^c22529121]: Subordinate legislation: [S. 34](https://www.legislation.gov.uk/nia/2011/20/section/34) power partly exercised: 3.10.2011 appointed for specified provisions by {[S.R. 2011/323](https://www.legislation.gov.uk/nisr/2011/323)}, art. 2
 
-[^key-9302658dfbfab05385bf3bfcde531a1d]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2011/20/schedule/1) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-9302658dfbfab05385bf3bfcde531a1d]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2011/20/schedule/1) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-b9a3b9576d87cd7b2d1def3e784d999b]: Commencement: Sch. 1 para. 1 in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), art. 2[Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-b9a3b9576d87cd7b2d1def3e784d999b]: Commencement: Sch. 1 para. 1 in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), art. 2[Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-79f20aed20b32ee53111a0a2645bc471]: Commencement: Sch. 1 para. 2 in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406),art. 2 [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-79f20aed20b32ee53111a0a2645bc471]: Commencement: Sch. 1 para. 2 in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406),art. 2 [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-a5e88bfb8b34a595efeb39cf9110bbd3]: Commencement: Sch. 1 para. 3 in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), art. 2[Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-a5e88bfb8b34a595efeb39cf9110bbd3]: Commencement: Sch. 1 para. 3 in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), art. 2[Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-4e1bc9600c93b017e39b82f5c6fcbc65]: Commencement: Sch. 1 para. 4 in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), art. 2[Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-4e1bc9600c93b017e39b82f5c6fcbc65]: Commencement: Sch. 1 para. 4 in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), art. 2[Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
 
-[^key-6b4855c6da0227c3a591e8253abf3aa0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2011/20/schedule/2) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)
+[^c-6b4855c6da0227c3a591e8253abf3aa0]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2011/20/schedule/2) in operation at 16.11.2012 by [S.R. 2012/406](https://www.legislation.gov.uk/nisr/2012/406), [art. 2](https://www.legislation.gov.uk/nisr/2012/406/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/406/schedule)

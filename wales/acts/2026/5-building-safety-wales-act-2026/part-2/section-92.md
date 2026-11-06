@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Power to apply this Part to mobile homes[^key-a7b0277520d6e080473fc2f2ce088f34]
+## 92. Power to apply this Part to mobile homes[^c-a7b0277520d6e080473fc2f2ce088f34]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7b0277520d6e080473fc2f2ce088f34]: Commencement: S. 92 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-a7b0277520d6e080473fc2f2ce088f34]: Commencement: S. 92 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

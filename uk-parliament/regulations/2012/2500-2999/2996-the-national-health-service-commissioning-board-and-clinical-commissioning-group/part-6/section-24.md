@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to regulation 25 (disqualification for appointment), the integrated care board[^key-c9e790b8be2bf585774066cdc13bd366] members and social services authority members must be appointed by NHS England[^key-c31464ebf700c58b40bc343c24a900bf] following nomination by an integrated care board or a social services authority in respect of which they are to be appointed.
+(1) Subject to regulation 25 (disqualification for appointment), the integrated care board[^c-c9e790b8be2bf585774066cdc13bd366] members and social services authority members must be appointed by NHS England[^c-c31464ebf700c58b40bc343c24a900bf] following nomination by an integrated care board or a social services authority in respect of which they are to be appointed.
 
 (2) An integrated care board must—
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c9e790b8be2bf585774066cdc13bd366]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/2996) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-c9e790b8be2bf585774066cdc13bd366]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/2996) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-c31464ebf700c58b40bc343c24a900bf]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-c31464ebf700c58b40bc343c24a900bf]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

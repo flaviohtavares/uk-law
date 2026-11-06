@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Warning notice[^key-9a4cfa3cbccab845344c144e4a8e3bd2]
+## 43. Warning notice[^c-9a4cfa3cbccab845344c144e4a8e3bd2]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ it must give the person a warning notice.
 
 ## Annotations
 
-[^key-9a4cfa3cbccab845344c144e4a8e3bd2]: Commencement: Reg. 43 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-9a4cfa3cbccab845344c144e4a8e3bd2]: Commencement: Reg. 43 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

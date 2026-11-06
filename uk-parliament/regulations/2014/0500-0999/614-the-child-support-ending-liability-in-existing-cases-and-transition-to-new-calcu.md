@@ -61,7 +61,7 @@ A draft of this instrument was laid before and approved by a resolution of each 
 - “**prescribed benefit**” means a benefit prescribed by regulations made under paragraph 4(1)(c) (flat rate) of Schedule 1 to the 1991 Act;
 - “**qualifying child**” has the meaning given in section 3(1) of the 1991 Act [^c2205249];
 - “**the scheme**” means the scheme prepared by the Secretary of State under regulation 3(1);
-- “**transition period**” has the meaning given in regulation 3(2)and (3)[^key-089f05fab6cb9e6904f15abc41cb6470].
+- “**transition period**” has the meaning given in regulation 3(2)and (3)[^c-089f05fab6cb9e6904f15abc41cb6470].
 
 (3) For the purposes of these Regulations an existing case is related to an application made under section 4(1) (child support maintenance) or 7(1) (right of a child in Scotland to apply for assessment) of the 1991 Act if—
 
@@ -133,10 +133,10 @@ For the purposes of Schedule 5 to the 2008 Act “**interested parties**” mean
 
 (1) Subject to paragraph (2), the date determined for the purposes of paragraph 5(1) and (2) of Schedule 5 to the 2008 Act (beyond which no further liability accrues in relation to the case) is—
 
-- (a) if an existing case is related to an application under section 4(1) or 7(1) of the 1991 Act [^c2205254], a date specified by the Secretary of State which shall be no less than[^key-b8a54f4c0deb9b0636d7a525a0e9a394] 30 days after the date on which notice is given under regulation 5(2);
-- (b) in any other case, a date specified by the Secretary of State which shall be no less than 180 days but no more than 200[^key-246602fd11f677ec7f8621615382d581] days after which that notice is given.
+- (a) if an existing case is related to an application under section 4(1) or 7(1) of the 1991 Act [^c2205254], a date specified by the Secretary of State which shall be no less than[^c-b8a54f4c0deb9b0636d7a525a0e9a394] 30 days after the date on which notice is given under regulation 5(2);
+- (b) in any other case, a date specified by the Secretary of State which shall be no less than 180 days but no more than 200[^c-246602fd11f677ec7f8621615382d581] days after which that notice is given.
 
-(2) Where an existing case becomes related to an application under section 4(1) or 7(1) of the 1991 Act after a notice has been given under regulation 5(2), the Secretary of State may revise the liability end date by issuing a further notice to the interested parties with a liability end date falling at least[^key-692c3b16031011bfc3307ee00851fd3b] 30 days after such further notice is given.
+(2) Where an existing case becomes related to an application under section 4(1) or 7(1) of the 1991 Act after a notice has been given under regulation 5(2), the Secretary of State may revise the liability end date by issuing a further notice to the interested parties with a liability end date falling at least[^c-692c3b16031011bfc3307ee00851fd3b] 30 days after such further notice is given.
 
 (3) Paragraph (1) shall not apply where the Secretary of State withdraws a notice under regulation 5(7).
 
@@ -200,7 +200,7 @@ An assessment of the impact of these Regulations on the costs of business and th
 
 [^c2205249]: Marginal citation: The amendment of the definition of “qualifying child” by section 26 of, and paragraph 11(1) and (2) of Schedule 3 to, the 2000 Act was partially commenced for the types of cases specified in article 3 of the 2003 Order.
 
-[^key-089f05fab6cb9e6904f15abc41cb6470]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/614/regulation/1/2) inserted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/8/2) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+[^c-089f05fab6cb9e6904f15abc41cb6470]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/614/regulation/1/2) inserted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/8/2) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
 
 [^c2205250]: Marginal citation: The amendment of section 7(1) of the 1991 Act by sections 1(2) and 26 of, and paragraph 11(1), (2) and (4)(a) of Schedule 3 to the 2000 Act was partially commenced for the types of cases specified in article 3 of the 2003 Order. Section 7(1) was also amended by section 58 of, and Schedule 8 to, the 2008 Act and by the 2012 Order.
 
@@ -212,10 +212,10 @@ An assessment of the impact of these Regulations on the costs of business and th
 
 [^c2205254]: Marginal citation: Section 4(1) was amended by sections 1(2) and 26 of, and paragraph 11(1) and (2) of Schedule 3 to, the 2000 Act in relation to certain cases. Section 7(1) was amended by sections 1(2) and 26 of, and paragraph 11(1) and (2) of Schedule 3 to, the 2000 Act in relation to certain cases, by schedule 8 to the 2012 Act and by the 2012 Order.
 
-[^key-b8a54f4c0deb9b0636d7a525a0e9a394]: Textual amendment: Words in reg. 6(1)(a) substituted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/8/3/a) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+[^c-b8a54f4c0deb9b0636d7a525a0e9a394]: Textual amendment: Words in reg. 6(1)(a) substituted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/8/3/a) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
 
-[^key-246602fd11f677ec7f8621615382d581]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2014/614/regulation/6/1/b) substituted (7.11.2016) by [The Child Support (Deduction from Earnings Orders Amendment and Modification and Miscellaneous Amendments) Regulations 2016 (S.I. 2016/982)](https://www.legislation.gov.uk/uksi/2016/982), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/982/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/982/regulation/5)
+[^c-246602fd11f677ec7f8621615382d581]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2014/614/regulation/6/1/b) substituted (7.11.2016) by [The Child Support (Deduction from Earnings Orders Amendment and Modification and Miscellaneous Amendments) Regulations 2016 (S.I. 2016/982)](https://www.legislation.gov.uk/uksi/2016/982), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/982/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2016/982/regulation/5)
 
-[^key-692c3b16031011bfc3307ee00851fd3b]: Textual amendment: Words in reg. 6(2) substituted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/8/3/b) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
+[^c-692c3b16031011bfc3307ee00851fd3b]: Textual amendment: Words in reg. 6(2) substituted (30.6.2014) by [The Child Support (Consequential and Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1386)](https://www.legislation.gov.uk/uksi/2014/1386), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2014/1386/regulation/8/3/b) (as amended (24.6.2014) by [S.I. 2014/1621](https://www.legislation.gov.uk/uksi/2014/1621), reg. 3)
 
 [^c2205255]: Marginal citation: In section 31 the terms “maintenance assessment” and “assessment” were substituted by “maintenance calculation” and “calculation” by section 1(2) of the 2000 Act in relation to cases specified in article 3 of [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192).

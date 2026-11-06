@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Ancillary provision[^key-99027a875fb4b7cae46a9b93ba0a71fb]
+## 53. Ancillary provision[^c-99027a875fb4b7cae46a9b93ba0a71fb]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99027a875fb4b7cae46a9b93ba0a71fb]: Commencement: S. 53 in force at 11.8.2022, see [s. 56(1)](https://www.legislation.gov.uk/asp/2022/9/section/56/1)
+[^c-99027a875fb4b7cae46a9b93ba0a71fb]: Commencement: S. 53 in force at 11.8.2022, see [s. 56(1)](https://www.legislation.gov.uk/asp/2022/9/section/56/1)

@@ -33,7 +33,7 @@ An Act to promote the control of chemical weapons and of certain toxic chemicals
 
 \[3rd April 1996\]
 
-[^c8627251][^c8627261]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-fdf0a7c44bae996a7b9c1fb1a9b6216a]
+[^c8627251][^c8627261]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-fdf0a7c44bae996a7b9c1fb1a9b6216a]
 
 ## Introduction
 
@@ -743,9 +743,9 @@ he may issue a warrant in writing authorising a person acting under the authorit
 
 - (a) take with him such other persons and such equipment as appear to him to be necessary;
 - (b) inspect any document found on the premises which he has reasonable cause to believe may be required as evidence for the purposes of proceedings in respect of an offence under this Act;
-- (c)[^key-e1f11e04fcd19d576515e1f4e9279081] take copies of, or seize and remove, any such document;
-- (d)[^key-e1f11e04fcd19d576515e1f4e9279081] inspect, seize and remove any device or equipment found on the premises which he has reasonable cause to believe may be required as such evidence;
-- (e)[^key-e1f11e04fcd19d576515e1f4e9279081] inspect, sample, seize and remove any substance found on the premises which he has reasonable cause to believe may be required as such evidence;
+- (c)[^c-e1f11e04fcd19d576515e1f4e9279081] take copies of, or seize and remove, any such document;
+- (d)[^c-e1f11e04fcd19d576515e1f4e9279081] inspect, seize and remove any device or equipment found on the premises which he has reasonable cause to believe may be required as such evidence;
+- (e)[^c-e1f11e04fcd19d576515e1f4e9279081] inspect, sample, seize and remove any substance found on the premises which he has reasonable cause to believe may be required as such evidence;
 - (f) search or cause to be searched any person found on the premises whom he has reasonable cause to believe to be in possession of any document, device, equipment or substance;
 
 but no woman or girl shall be searched except by a woman.
@@ -765,19 +765,19 @@ but no woman or girl shall be searched except by a woman.
 
 the court must not order it to be forfeited unless he has been given an opportunity to show cause why the order should not be made.
 
-### 30A. Revenue and Customs prosecutions[^c8627661][^key-028c5822344e610cdf84e63720aa8b19]
+### 30A. Revenue and Customs prosecutions[^c8627661][^c-028c5822344e610cdf84e63720aa8b19]
 
-(1) Proceedings for a chemical weapons offence may be instituted by[^key-eefa348f61376c6e0f7a6af71d6219d8] the Director of Public Prosecutions[^key-4d23d418bace15b3d9505c962105187e] or by order of the Commissioners for Her Majesty’s Revenue and Customs if it appears to the Director or to the Commissioners[^key-4067cd6dc974f1e56c12964a5a80bd43] that the offence has involved—
+(1) Proceedings for a chemical weapons offence may be instituted by[^c-eefa348f61376c6e0f7a6af71d6219d8] the Director of Public Prosecutions[^c-4d23d418bace15b3d9505c962105187e] or by order of the Commissioners for Her Majesty’s Revenue and Customs if it appears to the Director or to the Commissioners[^c-4067cd6dc974f1e56c12964a5a80bd43] that the offence has involved—
 
 - (a) the development or production outside the United Kingdom of a chemical weapon;
 - (b) the movement of a chemical weapon into or out of any country or territory;
 - (c) any proposal or attempt to do anything falling within paragraph (a) or (b).
 
-(2)[^key-b1be6b442387e2ae7e76e2cb928fa056] In this section “**chemical weapons offence**” means an offence under section 2 above or section 50 of the Anti-terrorism, Crime and Security Act 2001 (including an offence of aiding, abetting, counselling, procuring or inciting the commission of, or attempting or conspiring to commit, such an offence).
+(2)[^c-b1be6b442387e2ae7e76e2cb928fa056] In this section “**chemical weapons offence**” means an offence under section 2 above or section 50 of the Anti-terrorism, Crime and Security Act 2001 (including an offence of aiding, abetting, counselling, procuring or inciting the commission of, or attempting or conspiring to commit, such an offence).
 
-(3) Any proceedings for an offence which are instituted by order of the Commissioners[^key-a57b57c23c96aa9429c4ca7e0d7c7630] under subsection (1) shall be commenced in the name of an officer of Revenue and Customs[^key-c49b61068a7be0b4de0246b467085110] , but may be continued by another officer.
+(3) Any proceedings for an offence which are instituted by order of the Commissioners[^c-a57b57c23c96aa9429c4ca7e0d7c7630] under subsection (1) shall be commenced in the name of an officer of Revenue and Customs[^c-c49b61068a7be0b4de0246b467085110] , but may be continued by another officer.
 
-(4) Where the Commissioners [^key-08d1f6ddf92bbcf5a9949a90e62b7ca9]... investigate, or propose to investigate, any matter with a view to determining—
+(4) Where the Commissioners [^c-08d1f6ddf92bbcf5a9949a90e62b7ca9]... investigate, or propose to investigate, any matter with a view to determining—
 
 - (a) whether there are grounds for believing that a chemical weapons offence has been committed, or
 - (b) whether a person should be prosecuted for such an offence,
@@ -786,7 +786,7 @@ that matter shall be treated as an assigned matter within the meaning of the Cus
 
 (5) Nothing in this section affects any power of any person (including any officer) apart from this section.
 
-(6)[^key-440982722e5f27c04245ce174e8a3c2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-440982722e5f27c04245ce174e8a3c2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) This section does not apply to the institution of proceedings in Scotland.
 
@@ -795,7 +795,7 @@ that matter shall be treated as an assigned matter within the meaning of the Cus
 (1) Proceedings for an offence under section 2 or 11 shall not be instituted—
 
 - (a) in England and Wales, except by or with the consent of the Attorney General;
-- (b) in Northern Ireland, except by or with the consent of the Advocate General for Northern Ireland[^key-be183fe46df720617c24f7b6384ecc21] .
+- (b) in Northern Ireland, except by or with the consent of the Advocate General for Northern Ireland[^c-be183fe46df720617c24f7b6384ecc21] .
 
 (2) Proceedings for an offence under any provision of this Act other than section 2 or 11 shall not be instituted except by or with the consent of the Secretary of State; but the preceding provisions of this subsection do not apply to Scotland.
 
@@ -920,7 +920,7 @@ This Schedule sets out Schedule 1 to the annex on chemicals to the Convention as
 
 [^c8627261]: Modification: Act extended (with modifications) (Guernsey) (1.4.2000) by [S.I. 2000/743](https://www.legislation.gov.uk/uksi/2000/743), [art. 3](https://www.legislation.gov.uk/uksi/2000/743/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2000/743/schedule)
 
-[^key-fdf0a7c44bae996a7b9c1fb1a9b6216a]: Modification: Act extended (with modifications) (22.4.2005) by [The Chemical Weapons (Overseas Territories) Order 2005 (S.I. 2005/854)](https://www.legislation.gov.uk/uksi/2005/854), [art. 2](https://www.legislation.gov.uk/uksi/2005/854/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/854/schedule/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/854/schedule/3), [Schs. 4-8](https://www.legislation.gov.uk/uksi/2005/854/schedule/4)
+[^c-fdf0a7c44bae996a7b9c1fb1a9b6216a]: Modification: Act extended (with modifications) (22.4.2005) by [The Chemical Weapons (Overseas Territories) Order 2005 (S.I. 2005/854)](https://www.legislation.gov.uk/uksi/2005/854), [art. 2](https://www.legislation.gov.uk/uksi/2005/854/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/854/schedule/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/854/schedule/3), [Schs. 4-8](https://www.legislation.gov.uk/uksi/2005/854/schedule/4)
 
 [^c8627271]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1996/6/section/1) extended (with modifications) (Jersey) (21.12.1998) by [S.I. 1998/2565](https://www.legislation.gov.uk/uksi/1998/2565), [art. 4](https://www.legislation.gov.uk/uksi/1998/2565/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1998/2565/schedule)
 
@@ -1000,33 +1000,33 @@ This Schedule sets out Schedule 1 to the annex on chemicals to the Convention as
 
 [^c8627631]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-e1f11e04fcd19d576515e1f4e9279081]: Modification: S. 29(2)(c)(d)(e) powers of seizure extended (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 50](https://www.legislation.gov.uk/ukpga/2001/16/section/50), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 1 para. 60](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/paragraph/60) (with [ss. 52-54](https://www.legislation.gov.uk/ukpga/2001/16/section/52), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68)); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a)
+[^c-e1f11e04fcd19d576515e1f4e9279081]: Modification: S. 29(2)(c)(d)(e) powers of seizure extended (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [ss. 50](https://www.legislation.gov.uk/ukpga/2001/16/section/50), [138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 1 para. 60](https://www.legislation.gov.uk/ukpga/2001/16/schedule/1/paragraph/60) (with [ss. 52-54](https://www.legislation.gov.uk/ukpga/2001/16/section/52), [68](https://www.legislation.gov.uk/ukpga/2001/16/section/68)); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/708/article/2/a)
 
 [^c8627651]: Modification: [S. 30](https://www.legislation.gov.uk/ukpga/1996/6/section/30) extended (with modifications) (Jersey) (21.12.1998) by [S.I. 1998/2565](https://www.legislation.gov.uk/uksi/1998/2565), [art. 4](https://www.legislation.gov.uk/uksi/1998/2565/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1998/2565/schedule)
 
 [^c8627661]: Textual amendment: S. 30A inserted (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 46](https://www.legislation.gov.uk/ukpga/2001/24/section/46), [127(2)(a)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2/a)
 
-[^key-028c5822344e610cdf84e63720aa8b19]: Textual amendment: S. 30A heading substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 64(e)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/64/e); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-028c5822344e610cdf84e63720aa8b19]: Textual amendment: S. 30A heading substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 64(e)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/64/e); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-eefa348f61376c6e0f7a6af71d6219d8]: Textual amendment: Words in s. 30A(1) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 64(a)(i)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/64/a/i); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-eefa348f61376c6e0f7a6af71d6219d8]: Textual amendment: Words in s. 30A(1) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 64(a)(i)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/64/a/i); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-4d23d418bace15b3d9505c962105187e]: Textual amendment: Words in [s. 30A(1)](https://www.legislation.gov.uk/ukpga/1996/6/section/30A/1) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/11)
+[^c-4d23d418bace15b3d9505c962105187e]: Textual amendment: Words in [s. 30A(1)](https://www.legislation.gov.uk/ukpga/1996/6/section/30A/1) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/11)
 
-[^key-4067cd6dc974f1e56c12964a5a80bd43]: Textual amendment: Words in s. 30A(1) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 64(a)(ii)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/64/a/ii); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-4067cd6dc974f1e56c12964a5a80bd43]: Textual amendment: Words in s. 30A(1) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 64(a)(ii)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/64/a/ii); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-b1be6b442387e2ae7e76e2cb928fa056]: Modification: S. 30A(2) modified (E.W.N.I.) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/28) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-b1be6b442387e2ae7e76e2cb928fa056]: Modification: S. 30A(2) modified (E.W.N.I.) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/28) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
-[^key-a57b57c23c96aa9429c4ca7e0d7c7630]: Textual amendment: Words in s. 30A(3) inserted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 64(b)(i)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/64/b/i); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-a57b57c23c96aa9429c4ca7e0d7c7630]: Textual amendment: Words in s. 30A(3) inserted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 64(b)(i)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/64/b/i); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-c49b61068a7be0b4de0246b467085110]: Textual amendment: Words in s. 30A(3) inserted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 64(b)(ii)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/64/b/ii); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-c49b61068a7be0b4de0246b467085110]: Textual amendment: Words in s. 30A(3) inserted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 64(b)(ii)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/64/b/ii); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-08d1f6ddf92bbcf5a9949a90e62b7ca9]: Textual amendment: Words in s. 30A(4) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 64(c)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/64/c); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-08d1f6ddf92bbcf5a9949a90e62b7ca9]: Textual amendment: Words in s. 30A(4) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 64(c)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/64/c); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-440982722e5f27c04245ce174e8a3c2e]: Textual amendment: S. 30A(6) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 64(d)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/64/d), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
+[^c-440982722e5f27c04245ce174e8a3c2e]: Textual amendment: S. 30A(6) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 64(d)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/64/d), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
 
 [^c8627671]: Modification: S. 31 extended (with modifications) (Jersey) (21.12.1998) by [S.I. 1998/2565](https://www.legislation.gov.uk/uksi/1998/2565), [art. 4](https://www.legislation.gov.uk/uksi/1998/2565/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1998/2565/schedule)
 
-[^key-be183fe46df720617c24f7b6384ecc21]: Textual amendment: Words in [s. 31(1)](https://www.legislation.gov.uk/ukpga/1996/6/section/31/1) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 34](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/34); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(e)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/e)
+[^c-be183fe46df720617c24f7b6384ecc21]: Textual amendment: Words in [s. 31(1)](https://www.legislation.gov.uk/ukpga/1996/6/section/31/1) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 34](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/34); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(e)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/e)
 
 [^c8627701]: Modification: [S. 32](https://www.legislation.gov.uk/ukpga/1996/6/section/32) extended (with modifications) (Jersey) (21.12.1998) by [S.I. 1998/2565](https://www.legislation.gov.uk/uksi/1998/2565), [art. 4](https://www.legislation.gov.uk/uksi/1998/2565/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1998/2565/schedule)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Opting out[^key-f18f26dd16dff4d224e311b0df63f758]
+## 15. Opting out[^c-f18f26dd16dff4d224e311b0df63f758]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The arrangements in regulations 9 and 10 are the arrangements for the purposes o
 
 ## Annotations
 
-[^key-f18f26dd16dff4d224e311b0df63f758]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2010/122/regulation/15) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-f18f26dd16dff4d224e311b0df63f758]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2010/122/regulation/15) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Survey of tidal works[^key-322bece724a2128e7ed397c24f832bc5]
+## 19. Survey of tidal works[^c-322bece724a2128e7ed397c24f832bc5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-322bece724a2128e7ed397c24f832bc5]: Commencement: Art. 19 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-322bece724a2128e7ed397c24f832bc5]: Commencement: Art. 19 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

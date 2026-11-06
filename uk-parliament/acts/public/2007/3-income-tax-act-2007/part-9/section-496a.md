@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 496A. Discretionary payments by trustees: employment income[^key-06408a7b54140f70a84876e83344a41b]
+## 496A. Discretionary payments by trustees: employment income[^c-06408a7b54140f70a84876e83344a41b]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06408a7b54140f70a84876e83344a41b]: Textual amendment: Ss. 496A , 496B and cross-heading inserted (with effect in accordance with art. 3(7) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/157/article/3/3) (with [art. 3(10)](https://www.legislation.gov.uk/uksi/2010/157/article/3/10))
+[^c-06408a7b54140f70a84876e83344a41b]: Textual amendment: Ss. 496A , 496B and cross-heading inserted (with effect in accordance with art. 3(7) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/157/article/3/3) (with [art. 3(10)](https://www.legislation.gov.uk/uksi/2010/157/article/3/10))

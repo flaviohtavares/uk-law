@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Liability of others for certain offences committed by bodies[^key-9b7489185415f6e6d30ab1c807c1be05]
+## 31. Liability of others for certain offences committed by bodies[^c-9b7489185415f6e6d30ab1c807c1be05]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ the person (as well as the body) commits the offence and is liable to be proceed
 
 ## Annotations
 
-[^key-9b7489185415f6e6d30ab1c807c1be05]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2026/18/section/31) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-9b7489185415f6e6d30ab1c807c1be05]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2026/18/section/31) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

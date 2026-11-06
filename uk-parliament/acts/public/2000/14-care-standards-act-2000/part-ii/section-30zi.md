@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30ZI. Power to arrange for independent business review[^key-5ee6dfbb146e3790f251f96e7c27871a]
+## 30ZI. Power to arrange for independent business review[^c-5ee6dfbb146e3790f251f96e7c27871a]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ee6dfbb146e3790f251f96e7c27871a]: Textual amendment: Ss. 30ZE-30ZJ and cross-heading inserted (29.4.2026 for specified purposes, 15.7.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/16/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/e)
+[^c-5ee6dfbb146e3790f251f96e7c27871a]: Textual amendment: Ss. 30ZE-30ZJ and cross-heading inserted (29.4.2026 for specified purposes, 15.7.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/16/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/e)

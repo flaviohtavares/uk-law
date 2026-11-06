@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development makes the following regulations in exercise of the powers conferred by sections 97AC(2)(a), 97AE(2), 97AF, 109A, 177(2) and (3) and 178 of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and now vested in it[^f00002].
 
-## 1. Citation, commencement, interpretation and application[^key-1ab76ca23c7a327db7326ddf0713d517]
+## 1. Citation, commencement, interpretation and application[^c-1ab76ca23c7a327db7326ddf0713d517]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Early Leavers: Cash Transfer Sums and Contribution Refunds) Regulations (Northern Ireland) 2006 and shall come into operation on 6th April 2006.
 
@@ -50,21 +50,21 @@ The Department for Social Development makes the following regulations in exercis
 - “the Act” means the Pension Schemes (Northern Ireland) Act 1993;
 - “the 1995 Order” means the Pensions (Northern Ireland) Order 1995[^f00003];
 - “the 2005 Order” means the Pensions (Northern Ireland) Order 2005[^f00004].
-- “the Transfer Values Regulations” means the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996;[^key-4cee37678309e443641070eb06eb4f70]
+- “the Transfer Values Regulations” means the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996;[^c-4cee37678309e443641070eb06eb4f70]
 - “actuary”, in relation to a scheme, means—
   - (a) the actuary appointed under Article 47(1)(b) of the 1995 Order (professional advisers) in relation to that scheme, or
   - (b) in relation to a scheme to which that Article does not apply—
-    - (i) a Fellow of the Institute and Faculty of Actuaries, or[^key-7aa209f922eafe52c2fa480efcffa3bd]
+    - (i) a Fellow of the Institute and Faculty of Actuaries, or[^c-7aa209f922eafe52c2fa480efcffa3bd]
     - (ii) a person with other actuarial qualifications who is approved, at the request of the trustees of the scheme in question, by the Department as being a proper person to act for the purposes of these Regulations in connection with that scheme;”;
-- “[^key-faf2bc4a451a663bab3eaa2fee24df30]**cash balance benefit**” has the meaning given by regulation 2 of the Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014;
+- “[^c-faf2bc4a451a663bab3eaa2fee24df30]**cash balance benefit**” has the meaning given by regulation 2 of the Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014;
 - “discount rates” means the interest rates used to discount future payments of benefit for the purposes of placing a current value on them;
-- “[^key-0935efdcf9ac33acb5d399f2e16526eb]**final salary**”, in relation to a member to or in respect of whom benefits under a pension scheme are payable, means the member's pensionable earnings, or highest, average or representative pensionable earnings, in a specified period ending at, or defined by reference to, the time when the member's pensionable service in relation to that scheme ends;
+- “[^c-0935efdcf9ac33acb5d399f2e16526eb]**final salary**”, in relation to a member to or in respect of whom benefits under a pension scheme are payable, means the member's pensionable earnings, or highest, average or representative pensionable earnings, in a specified period ending at, or defined by reference to, the time when the member's pensionable service in relation to that scheme ends;
 - “initial cash transfer sum” means the amount calculated in accordance with regulation 2(1)(a);
 - “insufficiency report” means the actuary’s last relevant report before the date on which the member’s pensionable service terminated as provided for by regulation 7D of, and Schedule 1B to, the Transfer Values Regulations (reductions to initial cash equivalents and insufficiency reports);
 - “insufficiency report liabilities” has the meaning given in paragraph 7 of Schedule 1B to the Transfer Values Regulations;
-- “[^key-f2b36ef2ea57ce57fad4889a50e5aea7]**pensionable earnings**”, in relation to a member of a pension scheme, means earnings by reference to which benefits under the scheme are calculated;
+- “[^c-f2b36ef2ea57ce57fad4889a50e5aea7]**pensionable earnings**”, in relation to a member of a pension scheme, means earnings by reference to which benefits under the scheme are calculated;
 - “salary related benefits” means benefits which are not money purchase benefits;
-- [^key-e3ba33f9fc739cb920f5ace12d2f511a]...
+- [^c-e3ba33f9fc739cb920f5ace12d2f511a]...
 
 (3) These Regulations apply only where the member’s pensionable service under the occupational pension scheme terminates on or after 6th April 2006.
 
@@ -72,13 +72,13 @@ The Department for Social Development makes the following regulations in exercis
 
 (5) For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954[^f00005], where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
 
-## 2. Manner of calculation and verification of cash transfer sums - general provisions[^key-78b7cdb0dbcf1520077918c43692e2f8]
+## 2. Manner of calculation and verification of cash transfer sums - general provisions[^c-78b7cdb0dbcf1520077918c43692e2f8]
 
 (1) Subject to paragraph (5), cash transfer sums are to be calculated and verified—
 
 - (a) by calculating the initial cash transfer sum—
-  - (i) for salary related benefits other than cash balance benefits in respect of which the available sum is not calculated by reference to final salary[^key-7cdc0619ee713fa8a202ab88165494f2] , in accordance with regulations 2A and 2B, or
-  - (ii) for money purchase benefits and cash balance benefits in respect of which the available sum is not calculated by reference to final salary[^key-6759cae1b6ac44f57a650bff708c392e] , in accordance with regulation 2C,
+  - (i) for salary related benefits other than cash balance benefits in respect of which the available sum is not calculated by reference to final salary[^c-7cdc0619ee713fa8a202ab88165494f2] , in accordance with regulations 2A and 2B, or
+  - (ii) for money purchase benefits and cash balance benefits in respect of which the available sum is not calculated by reference to final salary[^c-6759cae1b6ac44f57a650bff708c392e] , in accordance with regulation 2C,
 
   and then making any reductions in accordance with regulation 4, or
 - (b) in accordance with regulation 2D.
@@ -89,14 +89,14 @@ The Department for Social Development makes the following regulations in exercis
 
 (4) Paragraph (5) applies where the cash transfer sum is calculated and verified in accordance with paragraph (1)(a).
 
-(5) Where a portion of the cash transfer sum relates to a benefit specified in paragraph (1)(a)(i) and a portion relates to a benefit specified in paragraph (1)(a)(ii), the initial cash transfer sum is to be calculated—[^key-bce86082997b438249a3bae61cce4fad]
+(5) Where a portion of the cash transfer sum relates to a benefit specified in paragraph (1)(a)(i) and a portion relates to a benefit specified in paragraph (1)(a)(ii), the initial cash transfer sum is to be calculated—[^c-bce86082997b438249a3bae61cce4fad]
 
 - (a) for the portion falling within paragraph (1)(a)(i), in accordance with regulations 2A and 2B, and
 - (b) for the portion falling within paragraph (1)(a)(ii), in accordance with regulation 2C.
 
-## 2A. Manner of calculation of initial cash transfer sums for salary related benefits other than cash balance benefits not calculated by reference to final salary[^key-5bf2be5281649758220a282a45aa19f5]
+## 2A. Manner of calculation of initial cash transfer sums for salary related benefits other than cash balance benefits not calculated by reference to final salary[^c-5bf2be5281649758220a282a45aa19f5]
 
-(1) For salary related benefits other than cash balance benefits in respect of which the available sum is not calculated by reference to final salary[^key-b5bce064778ce52bf325d52c68504026] , the initial cash transfer sum is to be calculated—
+(1) For salary related benefits other than cash balance benefits in respect of which the available sum is not calculated by reference to final salary[^c-b5bce064778ce52bf325d52c68504026] , the initial cash transfer sum is to be calculated—
 
 - (a) on an actuarial basis, and
 - (b) in accordance with paragraph (2) and regulation 2B.
@@ -109,9 +109,9 @@ The Department for Social Development makes the following regulations in exercis
 - (b) of any adjustments they decide to make to reflect the proportion of members likely to exercise those options, and
 - (c) to which any discretionary benefits should be taken into account, having regard to any established custom for awarding them and any requirement for consent before they are awarded.
 
-## 2B. Initial cash transfer sum for salary related benefits other than cash balance benefits not calculated by reference to final salary : assumptions and guidance[^key-60ccc0601c75170adf225334da863358][^key-403b33349679256760285478b4411a39]
+## 2B. Initial cash transfer sum for salary related benefits other than cash balance benefits not calculated by reference to final salary : assumptions and guidance[^c-60ccc0601c75170adf225334da863358][^c-403b33349679256760285478b4411a39]
 
-(1) The trustees or managers must calculate the initial cash transfer sum for salary related benefits[^key-376146aee8005fb5efa7327613e44e47] other than cash balance benefits in respect of which the available sum is not calculated by reference to final salary[^key-1bdf29574c78b3a927889ca1a4291738] —
+(1) The trustees or managers must calculate the initial cash transfer sum for salary related benefits[^c-376146aee8005fb5efa7327613e44e47] other than cash balance benefits in respect of which the available sum is not calculated by reference to final salary[^c-1bdf29574c78b3a927889ca1a4291738] —
 
 - (a) by using the assumptions determined under this regulation, and
 - (b) where the scheme falls within paragraph (6), in accordance with the guidance referred to in that paragraph.
@@ -123,17 +123,17 @@ The Department for Social Development makes the following regulations in exercis
 - (a) the main characteristics of the members of the scheme, or
 - (b) where the members of the scheme do not form a large enough group to allow demographic assumptions to be made, the characteristics of a wider population sharing similar characteristics to the members.
 
-(4) Except where the scheme falls within paragraph (6), the trustees or[^key-1c3c231b2102a4918a6ce321d431203c] managers must have regard to the scheme’s investment strategy when deciding what assumptions will be included in calculating the discount rates in respect of the member.
+(4) Except where the scheme falls within paragraph (6), the trustees or[^c-1c3c231b2102a4918a6ce321d431203c] managers must have regard to the scheme’s investment strategy when deciding what assumptions will be included in calculating the discount rates in respect of the member.
 
 (5) The trustees or managers must determine the assumptions under this regulation with the aim that, taken as a whole, they should lead to the best estimate of the initial cash transfer sum.
 
-(6)[^key-2b2edc946b6002318e6dd4f2f4d4d665] A scheme falls within this paragraph if it is a public service pension scheme in respect of which guidance has been prepared, and from time to time revised, by the Treasury for calculating the discount rates.
+(6)[^c-2b2edc946b6002318e6dd4f2f4d4d665] A scheme falls within this paragraph if it is a public service pension scheme in respect of which guidance has been prepared, and from time to time revised, by the Treasury for calculating the discount rates.
 
-## 2C. Manner of calculation of initial cash transfer sums for money purchase benefits and cash balance benefits not calculated by reference to final salary[^key-1d597402f0ad12e0467d3427958c1ae8]
+## 2C. Manner of calculation of initial cash transfer sums for money purchase benefits and cash balance benefits not calculated by reference to final salary[^c-1d597402f0ad12e0467d3427958c1ae8]
 
-(1) For cash balance benefits in respect of which the available sum is not calculated by reference to final salary and[^key-cb72274c20044968d47897790ddfb22b] money purchase benefits, the initial cash transfer sum is to be calculated in accordance with this regulation.
+(1) For cash balance benefits in respect of which the available sum is not calculated by reference to final salary and[^c-cb72274c20044968d47897790ddfb22b] money purchase benefits, the initial cash transfer sum is to be calculated in accordance with this regulation.
 
-(2) The initial cash transfer sum is the at the date of calculation[^key-928576e9e1e95d4050282545f63dad17] of any benefits to which the member is entitled.
+(2) The initial cash transfer sum is the at the date of calculation[^c-928576e9e1e95d4050282545f63dad17] of any benefits to which the member is entitled.
 
 (3) The trustees or managers must calculate that realisable value—
 
@@ -142,7 +142,7 @@ The Department for Social Development makes the following regulations in exercis
   - (i) approved by the trustees or managers, and
   - (ii) consistent with Chapter IV of Part IV of the Act.
 
-(4) The realisable value must include—[^key-b62d57a5e682617bb4fbcaefdfeaffb4]
+(4) The realisable value must include—[^c-b62d57a5e682617bb4fbcaefdfeaffb4]
 
 - (a) for money purchase benefits, any increases to the benefits resulting from a payment of interest made in accordance with the scheme rules, or
 - (b) for cash balance benefits—
@@ -151,9 +151,9 @@ The Department for Social Development makes the following regulations in exercis
   - (iii) any options the member has which would increase the value of the member's benefits under the scheme (adjusted to reflect the proportion of members that the trustees determine are likely to exercise those options), and
   - (iv) any discretionary benefits which the trustees determine should be taken into account, having regard to any established custom for awarding the benefits and any requirement for consent before they are awarded.
 
-## 2D. Alternative manner of calculating and verifying cash transfer sums[^key-116fdca2e03ecb4664c5d23adfc2a3a9]
+## 2D. Alternative manner of calculating and verifying cash transfer sums[^c-116fdca2e03ecb4664c5d23adfc2a3a9]
 
-(1) This regulation applies where the trustees or managers have decided to calculate and verify the cash transfer sum[^key-fd17c9da5f0573198656a4eaa6e9cfe6] in accordance with regulation 2(1)(b).
+(1) This regulation applies where the trustees or managers have decided to calculate and verify the cash transfer sum[^c-fd17c9da5f0573198656a4eaa6e9cfe6] in accordance with regulation 2(1)(b).
 
 (2) The cash transfer sum is to be calculated and verified in such manner as may be approved by the trustees or managers.
 
@@ -163,7 +163,7 @@ The Department for Social Development makes the following regulations in exercis
 
 (5) The trustees or managers may treat the actuary’s last relevant GN11 report as an insufficiency report.
 
-## 3. Contribution refund: investments etc.[^key-acb3165dd802d437b280a87ff9ffe848]
+## 3. Contribution refund: investments etc.[^c-acb3165dd802d437b280a87ff9ffe848]
 
 For the purposes of these Regulations, where under the rules of the scheme—
 
@@ -172,9 +172,9 @@ For the purposes of these Regulations, where under the rules of the scheme—
 
 and in the following provisions of these Regulations references to a contribution refund are, where applicable, to the contribution refund as so increased or, as the case may be, reduced.
 
-## 4. Reduction of cash transfer sums and contribution refunds[^key-5f661857e015c769fa76b2d5aac0e86f]
+## 4. Reduction of cash transfer sums and contribution refunds[^c-5f661857e015c769fa76b2d5aac0e86f]
 
-(1) In the case of a scheme to which Part IV of the 2005 Order (scheme funding) applies, the member’s initial cash transfer sum may be reduced by the trustees or managers if[^key-456557785a70163fa1a0dd96b98a93ab]
+(1) In the case of a scheme to which Part IV of the 2005 Order (scheme funding) applies, the member’s initial cash transfer sum may be reduced by the trustees or managers if[^c-456557785a70163fa1a0dd96b98a93ab]
 
 - (a) the insufficiency conditions are met, and
 - (b) the cash transfer sum relates to salary-related benefits.
@@ -184,7 +184,7 @@ and in the following provisions of these Regulations references to a contributio
 - (a) the scheme had assets that were insufficient to match the insufficiency report liabilities in respect of all the members, and
 - (b) the assets were insufficient to cover in full any category of insufficiency report liabilities that is an equivalent category of liabilities for benefits in respect of which the member’s cash transfer sum is being calculated.
 
-(3) If the insufficiency conditions are met the trustees or managers may reduce, by a percentage not exceeding the deficiency percentage, any part of the member’s initial cash transfer sum which does not relate to money purchase benefits[^key-a9e4a9583bc02ce64a592b4de8f9e0af] that is payable in respect of such an equivalent category of liabilities as are mentioned in paragraph (2)(b).
+(3) If the insufficiency conditions are met the trustees or managers may reduce, by a percentage not exceeding the deficiency percentage, any part of the member’s initial cash transfer sum which does not relate to money purchase benefits[^c-a9e4a9583bc02ce64a592b4de8f9e0af] that is payable in respect of such an equivalent category of liabilities as are mentioned in paragraph (2)(b).
 
 (4) The deficiency percentage for any such part of a member’s initial cash transfer sum is the percentage by which the insufficiency report shows that the assets were insufficient to cover that category of liabilities.
 
@@ -192,7 +192,7 @@ and in the following provisions of these Regulations references to a contributio
 
 (6) In a case where a contributions equivalent premium has been paid in respect of a member in accordance with section 51 (payment of state scheme premiums on termination of certified status), the initial cash transfer sum must be reduced (to nil if need be) to the extent that it represents the member’s rights to a cash transfer sum under section 97AB (right to cash transfer sum and contribution refund) which have been extinguished by virtue of section 56 (effect of payment of premiums on rights) by payment of that premium.
 
-(7) Where a scheme begins to wind up after the member’s pensionable service terminates but before the trustees or managers have discharged the cash transfer sum or paid the contribution refund , where it does not relate to money purchase benefits,[^key-6d2f327fd1398f81e5fe402748543367] to the member, the initial cash transfer sum or contribution refund may be reduced to the extent necessary for the scheme to comply with the winding up provisions (as defined in Article 73B(10)(a) of the 1995 Order) and regulations made under those provisions.
+(7) Where a scheme begins to wind up after the member’s pensionable service terminates but before the trustees or managers have discharged the cash transfer sum or paid the contribution refund , where it does not relate to money purchase benefits,[^c-6d2f327fd1398f81e5fe402748543367] to the member, the initial cash transfer sum or contribution refund may be reduced to the extent necessary for the scheme to comply with the winding up provisions (as defined in Article 73B(10)(a) of the 1995 Order) and regulations made under those provisions.
 
 (8) If, by virtue of regulations made under Article 73B(4)(b)(i) of the 1995 Order by virtue of Article 73B(5) of that Order, the winding up provisions (as so defined) apply to a section of a scheme as if that section were a separate scheme, paragraph (7) applies as if that section were a separate scheme and as if the references to a scheme were accordingly references to that section.
 
@@ -206,14 +206,14 @@ and in the following provisions of these Regulations references to a contributio
 
 (13) In a case where two or more paragraphs of this regulation fall to be applied to a cash transfer sum or paragraph (7) or (9) falls to be applied to a contribution refund, they are to be applied in the order in which they occur in this regulation.
 
-## 5. Increases of cash transfer sum and contribution refund[^key-64cb26bc7b48d8c195ee5679881f3077]
+## 5. Increases of cash transfer sum and contribution refund[^c-64cb26bc7b48d8c195ee5679881f3077]
 
-(1) Subject to paragraph (2), if there is a failure by the trustees or managers of the scheme to comply with section 97AG(2) (duty to act within a reasonable period) in relation to the cash transfer sum, the cash transfer sum shall be increased by the amount, if any, by which the cash transfer sum as calculated in accordance with regulations 2 to 2D and 4[^key-e61a5cbe006f390d2b9af4556444e848] falls short of what it would have been had the cash transfer sum been calculated on the date on which the trustees or managers should have done what was needed to carry out the member’s requirement.
+(1) Subject to paragraph (2), if there is a failure by the trustees or managers of the scheme to comply with section 97AG(2) (duty to act within a reasonable period) in relation to the cash transfer sum, the cash transfer sum shall be increased by the amount, if any, by which the cash transfer sum as calculated in accordance with regulations 2 to 2D and 4[^c-e61a5cbe006f390d2b9af4556444e848] falls short of what it would have been had the cash transfer sum been calculated on the date on which the trustees or managers should have done what was needed to carry out the member’s requirement.
 
 (2) If there is a failure by the trustees or managers of the scheme to comply with section 97AG(2) without reasonable excuse the cash transfer sum shall be increased by—
 
 - (a) interest on that sum calculated on a daily basis over the period from the date on which they received the member’s notice under section 97AD(2) (exercise of right under section 97AB) to the date on which they do what is needed to carry out that requirement, at an annual rate of one per cent above the Bank of England base rate, or
-- (b) the amount, if any, by which the cash transfer sum as calculated in accordance with regulations 2 to 2D and 4[^key-09d715410c206d19c9a5567d8b2b1cd3] falls short of what it would have been had the cash transfer sum been calculated on the date on which the trustees or managers should have done what was needed to carry out the member’s requirement,
+- (b) the amount, if any, by which the cash transfer sum as calculated in accordance with regulations 2 to 2D and 4[^c-09d715410c206d19c9a5567d8b2b1cd3] falls short of what it would have been had the cash transfer sum been calculated on the date on which the trustees or managers should have done what was needed to carry out the member’s requirement,
 
 whichever is the greater.
 
@@ -224,14 +224,14 @@ whichever is the greater.
 - (a) the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets, or
 - (b) where an order under section 19 of the Bank of England Act 1998[^f00010] (Treasury’s reserve powers) is in force, any equivalent rate determined by the Treasury under that section.
 
-## 6. Cash transfer sums: requirements to be met by receiving schemes[^key-7237f39829c082a75b117e6c4eeba4b3]
+## 6. Cash transfer sums: requirements to be met by receiving schemes[^c-7237f39829c082a75b117e6c4eeba4b3]
 
 The prescribed requirements referred to in section 97AE(2)(a)(ii) and (b)(ii) (cash transfer sum to be used for acquiring transfer credits or rights under another occupational pension scheme or a personal pension scheme) are that—
 
 - (a) if the member’s cash transfer sum (or any portion of it to be used under section 97AE(2)(a) or (b)) comprises, or includes, section 5(2B) rights, then the occupational pension scheme or personal pension scheme under whose rules transfer credits or rights are to be acquired is one to which, had those rights been accrued rights, a transfer of liability in respect of those accrued rights could have been made in accordance with regulation 7 of the Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996[^f00011] (transfer of liability in respect of section 5(2B) rights: general), and in this paragraph “section 5(2B) rights” has the same meaning as in regulation 1(2) of those Regulations, and
 - (b) if the scheme in respect of which the member acquires a right under section 97AB(1)(a) (right to cash transfer sum) is a scheme which is registered by Her Majesty’s Revenue and Customs under section 153 of the Finance Act 2004[^f00012] (but not a scheme which was immediately before 6th April 2006 approved under Chapter III of Part XIV of the Income and Corporation Taxes Act 1988[^f00013] (pension scheme etc.: retirement annuities)), then the scheme or personal pension scheme in respect of which the cash transfer sum is to be used is a scheme so registered or is a qualifying recognised overseas pension scheme within the meaning of section 169(2) of the Finance Act 2004[^f00014] (recognised transfers).
 
-## 7. Information[^key-ab1748bca0440765eba8f346d70b0428]
+## 7. Information[^c-ab1748bca0440765eba8f346d70b0428]
 
 (1) The statement given under subsection (2)(a) of section 97AC (notification of right to cash transfer sum or contribution refund) must in addition to the matters specified in subsections (2) and (3) of that section also specify—
 
@@ -241,8 +241,8 @@ The prescribed requirements referred to in section 97AE(2)(a)(ii) and (b)(ii) (c
 - (d) details of any tax liability in respect of the contribution refund;
 - (e) if an amount is to be deducted from a refund under section 57(2)[^f00015] (deduction of contributions equivalent premium from refund of scheme contributions), details of the amount certified under section 59[^f00016] (further provisions concerning calculations relating to premiums);
 - (f) how the exercise of the member’s right mentioned in section 97AC(2)(a)(i) will affect his other rights, if any, under the scheme;
-- (g) that if on a winding up of a scheme the cash transfer sum or contribution refund may be reduced in accordance with regulation 4(7), that the member will be informed that there may be reductions and that if the scheme does begin to be wound up that he will be informed if the cash transfer sum or contribution refund is to be reduced,[^key-aca89f915ecbc6d0141959a6636eaec3]...
-- (h) that if the member does not exercise his right on or before the reply date or such later date as the trustees or managers may allow in his case under section 97AI(2) (rights under section 97AB: further provisions), the trustees or managers will be entitled to pay the contribution refund to him and[^key-7e6ee38b2b6858d35d21ce3d05cc1329]
+- (g) that if on a winding up of a scheme the cash transfer sum or contribution refund may be reduced in accordance with regulation 4(7), that the member will be informed that there may be reductions and that if the scheme does begin to be wound up that he will be informed if the cash transfer sum or contribution refund is to be reduced,[^c-aca89f915ecbc6d0141959a6636eaec3]...
+- (h) that if the member does not exercise his right on or before the reply date or such later date as the trustees or managers may allow in his case under section 97AI(2) (rights under section 97AB: further provisions), the trustees or managers will be entitled to pay the contribution refund to him and[^c-7e6ee38b2b6858d35d21ce3d05cc1329]
 - (i) where the cash transfer sum or the contribution refund is subject to variation by virtue of regulation 2C or 3, a statement explaining the reason for the variation.
 
 (2) Where in relation to a member—
@@ -286,81 +286,81 @@ Sections 97AC, 97AE, 97AF, 109A and 178 of the Act, some of the enabling provisi
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-1ab76ca23c7a327db7326ddf0713d517]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/49/regulation/1) in operation at 6.4.2006 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/3)
+[^c-1ab76ca23c7a327db7326ddf0713d517]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/49/regulation/1) in operation at 6.4.2006 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/3)
 
 [^f00003]: Footnote: S.I.[1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
 [^f00004]: Footnote: S.I.[2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-4cee37678309e443641070eb06eb4f70]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/2) added (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(2)(b)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/2/b)
+[^c-4cee37678309e443641070eb06eb4f70]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/2) added (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(2)(b)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/2/b)
 
-[^key-7aa209f922eafe52c2fa480efcffa3bd]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/2) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [11](https://www.legislation.gov.uk/nisr/2012/113/regulation/11)
+[^c-7aa209f922eafe52c2fa480efcffa3bd]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/2) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [11](https://www.legislation.gov.uk/nisr/2012/113/regulation/11)
 
-[^key-faf2bc4a451a663bab3eaa2fee24df30]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/2) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(2)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/2/a)
+[^c-faf2bc4a451a663bab3eaa2fee24df30]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/2) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(2)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/2/a)
 
-[^key-0935efdcf9ac33acb5d399f2e16526eb]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/2) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(2)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/2/b)
+[^c-0935efdcf9ac33acb5d399f2e16526eb]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/2) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(2)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/2/b)
 
-[^key-f2b36ef2ea57ce57fad4889a50e5aea7]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/2) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(2)(c)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/2/c)
+[^c-f2b36ef2ea57ce57fad4889a50e5aea7]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/2) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(2)(c)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/2/c)
 
-[^key-e3ba33f9fc739cb920f5ace12d2f511a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/2) omitted (1.10.2008) by virtue of [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(2)(a)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/2/a)
+[^c-e3ba33f9fc739cb920f5ace12d2f511a]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/2) omitted (1.10.2008) by virtue of [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(2)(a)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/2/a)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-78b7cdb0dbcf1520077918c43692e2f8]: Textual amendment: [Regs. 2-2D](https://www.legislation.gov.uk/nisr/2006/49/regulation/2) substituted for [reg. 2](https://www.legislation.gov.uk/nisr/2006/49/regulation/2) (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/3)
+[^c-78b7cdb0dbcf1520077918c43692e2f8]: Textual amendment: [Regs. 2-2D](https://www.legislation.gov.uk/nisr/2006/49/regulation/2) substituted for [reg. 2](https://www.legislation.gov.uk/nisr/2006/49/regulation/2) (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/3)
 
-[^key-7cdc0619ee713fa8a202ab88165494f2]: Textual amendment: Words in [reg. 2(1)(a)(i)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2/1/a/i) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(3)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/3/a)
+[^c-7cdc0619ee713fa8a202ab88165494f2]: Textual amendment: Words in [reg. 2(1)(a)(i)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2/1/a/i) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(3)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/3/a)
 
-[^key-6759cae1b6ac44f57a650bff708c392e]: Textual amendment: Words in [reg. 2(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2/1/a/ii) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(3)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/3/b)
+[^c-6759cae1b6ac44f57a650bff708c392e]: Textual amendment: Words in [reg. 2(1)(a)(ii)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2/1/a/ii) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(3)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/3/b)
 
-[^key-bce86082997b438249a3bae61cce4fad]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2/5) substituted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(3)(c)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/3/c)
+[^c-bce86082997b438249a3bae61cce4fad]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2/5) substituted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(3)(c)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/3/c)
 
-[^key-5bf2be5281649758220a282a45aa19f5]: Textual amendment: Words in [reg. 2A](https://www.legislation.gov.uk/nisr/2006/49/regulation/2A) heading inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(4)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/4/a)
+[^c-5bf2be5281649758220a282a45aa19f5]: Textual amendment: Words in [reg. 2A](https://www.legislation.gov.uk/nisr/2006/49/regulation/2A) heading inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(4)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/4/a)
 
-[^key-b5bce064778ce52bf325d52c68504026]: Textual amendment: Words in [reg. 2A(1)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2A/1) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(4)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/4/b)
+[^c-b5bce064778ce52bf325d52c68504026]: Textual amendment: Words in [reg. 2A(1)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2A/1) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(4)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/4/b)
 
-[^key-60ccc0601c75170adf225334da863358]: Textual amendment: Words in [reg. 2B](https://www.legislation.gov.uk/nisr/2006/49/regulation/2B) heading substituted (13.10.2008) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/388)](https://www.legislation.gov.uk/nisr/2008/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/388/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2008/388/regulation/4/2/a)
+[^c-60ccc0601c75170adf225334da863358]: Textual amendment: Words in [reg. 2B](https://www.legislation.gov.uk/nisr/2006/49/regulation/2B) heading substituted (13.10.2008) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/388)](https://www.legislation.gov.uk/nisr/2008/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/388/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2008/388/regulation/4/2/a)
 
-[^key-403b33349679256760285478b4411a39]: Textual amendment: Words in [reg. 2B](https://www.legislation.gov.uk/nisr/2006/49/regulation/2B) heading inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(5)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/5/a)
+[^c-403b33349679256760285478b4411a39]: Textual amendment: Words in [reg. 2B](https://www.legislation.gov.uk/nisr/2006/49/regulation/2B) heading inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(5)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/5/a)
 
-[^key-376146aee8005fb5efa7327613e44e47]: Textual amendment: [Reg. 2B(1)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2B/1) substituted (13.10.2008) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/388)](https://www.legislation.gov.uk/nisr/2008/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/388/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2008/388/regulation/4/2/b)
+[^c-376146aee8005fb5efa7327613e44e47]: Textual amendment: [Reg. 2B(1)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2B/1) substituted (13.10.2008) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/388)](https://www.legislation.gov.uk/nisr/2008/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/388/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/nisr/2008/388/regulation/4/2/b)
 
-[^key-1bdf29574c78b3a927889ca1a4291738]: Textual amendment: Words in [reg. 2B(1)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2B/1) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(5)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/5/b)
+[^c-1bdf29574c78b3a927889ca1a4291738]: Textual amendment: Words in [reg. 2B(1)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2B/1) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(5)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/5/b)
 
-[^key-1c3c231b2102a4918a6ce321d431203c]: Textual amendment: Words in [reg. 2B(4)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2B/4) substituted (13.10.2008) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/388)](https://www.legislation.gov.uk/nisr/2008/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/388/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/nisr/2008/388/regulation/4/2/c)
+[^c-1c3c231b2102a4918a6ce321d431203c]: Textual amendment: Words in [reg. 2B(4)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2B/4) substituted (13.10.2008) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/388)](https://www.legislation.gov.uk/nisr/2008/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/388/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/nisr/2008/388/regulation/4/2/c)
 
-[^key-2b2edc946b6002318e6dd4f2f4d4d665]: Textual amendment: [Reg. 2B(6)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2B/6) added (13.10.2008) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/388)](https://www.legislation.gov.uk/nisr/2008/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/388/regulation/1/1), [4(2)(d)](https://www.legislation.gov.uk/nisr/2008/388/regulation/4/2/d)
+[^c-2b2edc946b6002318e6dd4f2f4d4d665]: Textual amendment: [Reg. 2B(6)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2B/6) added (13.10.2008) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/388)](https://www.legislation.gov.uk/nisr/2008/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/388/regulation/1/1), [4(2)(d)](https://www.legislation.gov.uk/nisr/2008/388/regulation/4/2/d)
 
-[^key-1d597402f0ad12e0467d3427958c1ae8]: Textual amendment: Words in [reg. 2C](https://www.legislation.gov.uk/nisr/2006/49/regulation/2C) heading inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(6)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/6/a)
+[^c-1d597402f0ad12e0467d3427958c1ae8]: Textual amendment: Words in [reg. 2C](https://www.legislation.gov.uk/nisr/2006/49/regulation/2C) heading inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(6)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/6/a)
 
-[^key-cb72274c20044968d47897790ddfb22b]: Textual amendment: Words in [reg. 2C(1)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2C/1) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(6)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/6/b)
+[^c-cb72274c20044968d47897790ddfb22b]: Textual amendment: Words in [reg. 2C(1)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2C/1) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(6)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/6/b)
 
-[^key-928576e9e1e95d4050282545f63dad17]: Textual amendment: Words in [reg. 2C(2)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2C/2) inserted (13.10.2008) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/388)](https://www.legislation.gov.uk/nisr/2008/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/388/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2008/388/regulation/4/3)
+[^c-928576e9e1e95d4050282545f63dad17]: Textual amendment: Words in [reg. 2C(2)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2C/2) inserted (13.10.2008) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/388)](https://www.legislation.gov.uk/nisr/2008/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/388/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2008/388/regulation/4/3)
 
-[^key-b62d57a5e682617bb4fbcaefdfeaffb4]: Textual amendment: [Reg. 2C(4)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2C/4) substituted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(6)(c)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/6/c)
+[^c-b62d57a5e682617bb4fbcaefdfeaffb4]: Textual amendment: [Reg. 2C(4)](https://www.legislation.gov.uk/nisr/2006/49/regulation/2C/4) substituted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(6)(c)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/6/c)
 
-[^key-116fdca2e03ecb4664c5d23adfc2a3a9]: Textual amendment: Words in [reg. 2D](https://www.legislation.gov.uk/nisr/2006/49/regulation/2D) heading substituted (13.10.2008) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/388)](https://www.legislation.gov.uk/nisr/2008/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/388/regulation/1/1), [4(4)(i)](https://www.legislation.gov.uk/nisr/2008/388/regulation/4/4/i)
+[^c-116fdca2e03ecb4664c5d23adfc2a3a9]: Textual amendment: Words in [reg. 2D](https://www.legislation.gov.uk/nisr/2006/49/regulation/2D) heading substituted (13.10.2008) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/388)](https://www.legislation.gov.uk/nisr/2008/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/388/regulation/1/1), [4(4)(i)](https://www.legislation.gov.uk/nisr/2008/388/regulation/4/4/i)
 
-[^key-fd17c9da5f0573198656a4eaa6e9cfe6]: Textual amendment: Words in [reg. 2D](https://www.legislation.gov.uk/nisr/2006/49/regulation/2D) substituted (13.10.2008) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/388)](https://www.legislation.gov.uk/nisr/2008/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/388/regulation/1/1), [4(4)(ii)](https://www.legislation.gov.uk/nisr/2008/388/regulation/4/4/ii)
+[^c-fd17c9da5f0573198656a4eaa6e9cfe6]: Textual amendment: Words in [reg. 2D](https://www.legislation.gov.uk/nisr/2006/49/regulation/2D) substituted (13.10.2008) by [The Occupational and Personal Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/388)](https://www.legislation.gov.uk/nisr/2008/388), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/388/regulation/1/1), [4(4)(ii)](https://www.legislation.gov.uk/nisr/2008/388/regulation/4/4/ii)
 
-[^key-acb3165dd802d437b280a87ff9ffe848]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/49/regulation/3) in operation at 6.4.2006 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/3)
+[^c-acb3165dd802d437b280a87ff9ffe848]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/49/regulation/3) in operation at 6.4.2006 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/3)
 
-[^key-5f661857e015c769fa76b2d5aac0e86f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/49/regulation/4) substituted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/4)
+[^c-5f661857e015c769fa76b2d5aac0e86f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/49/regulation/4) substituted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/4)
 
-[^key-456557785a70163fa1a0dd96b98a93ab]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2006/49/regulation/4/1) substituted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(7)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/7/a)
+[^c-456557785a70163fa1a0dd96b98a93ab]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/nisr/2006/49/regulation/4/1) substituted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(7)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/7/a)
 
-[^key-a9e4a9583bc02ce64a592b4de8f9e0af]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2006/49/regulation/4/3) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(7)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/7/b)
+[^c-a9e4a9583bc02ce64a592b4de8f9e0af]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/nisr/2006/49/regulation/4/3) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(7)(b)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/7/b)
 
-[^key-6d2f327fd1398f81e5fe402748543367]: Textual amendment: Words in [reg. 4(7)](https://www.legislation.gov.uk/nisr/2006/49/regulation/4/7) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(7)(c)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/7/c)
+[^c-6d2f327fd1398f81e5fe402748543367]: Textual amendment: Words in [reg. 4(7)](https://www.legislation.gov.uk/nisr/2006/49/regulation/4/7) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [34(7)(c)](https://www.legislation.gov.uk/nisr/2014/204/regulation/34/7/c)
 
-[^key-64cb26bc7b48d8c195ee5679881f3077]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/49/regulation/5) in operation at 6.4.2006 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/3)
+[^c-64cb26bc7b48d8c195ee5679881f3077]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/49/regulation/5) in operation at 6.4.2006 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/3)
 
-[^key-e61a5cbe006f390d2b9af4556444e848]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2006/49/regulation/5/1) substituted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(5)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/5)
+[^c-e61a5cbe006f390d2b9af4556444e848]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2006/49/regulation/5/1) substituted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(5)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/5)
 
-[^key-09d715410c206d19c9a5567d8b2b1cd3]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/nisr/2006/49/regulation/5/2/b) substituted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(5)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/5)
+[^c-09d715410c206d19c9a5567d8b2b1cd3]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/nisr/2006/49/regulation/5/2/b) substituted (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(5)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/5)
 
 [^f00010]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11)
 
-[^key-7237f39829c082a75b117e6c4eeba4b3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/49/regulation/6) in operation at 6.4.2006 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/3)
+[^c-7237f39829c082a75b117e6c4eeba4b3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/49/regulation/6) in operation at 6.4.2006 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/3)
 
 [^f00011]: Footnote: [S.R. 1996 No. 618](https://www.legislation.gov.uk/nisr/1996/618); relevant amending regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160) and [S.R. 1999 No. 486](https://www.legislation.gov.uk/nisr/1999/486). *See also* regulation 4 of [S.R. 1997 No. 95](https://www.legislation.gov.uk/nisr/1997/95)
 
@@ -370,12 +370,12 @@ Sections 97AC, 97AE, 97AF, 109A and 178 of the Act, some of the enabling provisi
 
 [^f00014]: Footnote: Section 169 is amended by paragraph 36 of Schedule 10 to the Finance Act 2005
 
-[^key-ab1748bca0440765eba8f346d70b0428]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/49/regulation/7) in operation at 6.4.2006 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/3)
+[^c-ab1748bca0440765eba8f346d70b0428]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/49/regulation/7) in operation at 6.4.2006 with application in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/49/regulation/1/3)
 
 [^f00015]: Footnote: Section 57 was amended by paragraph 47 of Schedule 3 to the Pensions (Northern Ireland) Order 1995, paragraph 6(2) of Schedule 5 to the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) and paragraph 66 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. [1999/671](https://www.legislation.gov.uk/uksi/1999/671)). Section 57 is also amended by paragraph 8 of Schedule 10 to the Pensions (Northern Ireland) Order 2005
 
 [^f00016]: Footnote: Section 59 was amended by paragraph 49 of Schedule 3 to the Pensions (Northern Ireland) Order 1995, paragraph 67 of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 and paragraph 6(3) of Schedule 5 to the Child Support, Pensions and Social Security Act 2000
 
-[^key-aca89f915ecbc6d0141959a6636eaec3]: Textual amendment: Words in [reg. 7(1)(g)](https://www.legislation.gov.uk/nisr/2006/49/regulation/7/1/g) omitted (1.10.2008) by virtue of [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(6)(a)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/6/a)
+[^c-aca89f915ecbc6d0141959a6636eaec3]: Textual amendment: Words in [reg. 7(1)(g)](https://www.legislation.gov.uk/nisr/2006/49/regulation/7/1/g) omitted (1.10.2008) by virtue of [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(6)(a)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/6/a)
 
-[^key-7e6ee38b2b6858d35d21ce3d05cc1329]: Textual amendment: [Reg. 7(1)(i)](https://www.legislation.gov.uk/nisr/2006/49/regulation/7/1/i) and word added (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(6)(b)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/6/b)
+[^c-7e6ee38b2b6858d35d21ce3d05cc1329]: Textual amendment: [Reg. 7(1)(i)](https://www.legislation.gov.uk/nisr/2006/49/regulation/7/1/i) and word added (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 2 para. 8(6)(b)](https://www.legislation.gov.uk/nisr/2008/370/schedule/2/paragraph/8/6/b)

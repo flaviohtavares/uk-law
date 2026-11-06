@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Corruption.[^key-83424b488df9ae96e586ad0ad925c4b9]
+## 47. Corruption.[^c-83424b488df9ae96e586ad0ad925c4b9]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83424b488df9ae96e586ad0ad925c4b9]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/1988/33/section/47) repealed (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/23/schedule/2) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)
+[^c-83424b488df9ae96e586ad0ad925c4b9]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/1988/33/section/47) repealed (1.7.2011) by [Bribery Act 2010 (c. 23)](https://www.legislation.gov.uk/ukpga/2010/23), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/23/schedule/2) (with [ss. 16](https://www.legislation.gov.uk/ukpga/2010/23/section/16), [19(5)](https://www.legislation.gov.uk/ukpga/2010/23/section/19/5)); [S.I. 2011/1418](https://www.legislation.gov.uk/uksi/2011/1418), [art. 2](https://www.legislation.gov.uk/uksi/2011/1418/article/2)

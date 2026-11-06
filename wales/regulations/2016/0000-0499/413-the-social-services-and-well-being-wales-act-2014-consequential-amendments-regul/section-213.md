@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**213.**[^key-09aa64bc1a0a4d2105993e8c53cc2fa8] In the Carers (Equal Opportunities) Act 2004, omit—
+**213.**[^c-09aa64bc1a0a4d2105993e8c53cc2fa8] In the Carers (Equal Opportunities) Act 2004, omit—
 
 - (a) section 1(2);
 - (b) section 2(2) and (3);
@@ -27,6 +27,6 @@ summary: ''
 
 ## Annotations
 
-[^key-09aa64bc1a0a4d2105993e8c53cc2fa8]: Commencement: Reg. 213 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-09aa64bc1a0a4d2105993e8c53cc2fa8]: Commencement: Reg. 213 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00191]: Footnote: Section 3 was amended by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraphs 75, 76.

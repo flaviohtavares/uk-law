@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Assignment stage form[^key-376d4cd0a48a42d49eeb835139f2294b]
+## 65. Assignment stage form[^c-376d4cd0a48a42d49eeb835139f2294b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-376d4cd0a48a42d49eeb835139f2294b]: Commencement: Reg. 65 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-376d4cd0a48a42d49eeb835139f2294b]: Commencement: Reg. 65 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Protection of UK marking[^M_E_2b88617a-5da6-48b2-a8ab-a7a647dfbf1b][^key-f1939774347cff716291a2a363d78317]
+## 39. Protection of UK marking[^M_E_2b88617a-5da6-48b2-a8ab-a7a647dfbf1b][^c-f1939774347cff716291a2a363d78317]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the person is—
   - (i) the manufacturer; or
-  - (ii) an authorised representative of the manufacturer who has been appointed by the manufacturer [^key-ed1b73063c954dc9ac470c6f4597f207]... to affix the UK marking on the manufacturer's behalf; and
+  - (ii) an authorised representative of the manufacturer who has been appointed by the manufacturer [^c-ed1b73063c954dc9ac470c6f4597f207]... to affix the UK marking on the manufacturer's behalf; and
 - (b) it has been demonstrated by performance of the applicable conformity assessment procedure that the toy will comply with the essential safety requirements during its foreseeable and normal period of use.
 
 (2) A person must not affix any marking in relation to a toy which—
@@ -52,7 +52,7 @@ summary: ''
 - (a) is not a CE marking; but
 - (b) purports to attest that the toy satisfies the essential safety requirements.
 
-(2A)[^key-fc8f2bd38276b8711109d29e020ccbbb] Paragraph (2) does not apply to the UK(NI) indication.
+(2A)[^c-fc8f2bd38276b8711109d29e020ccbbb] Paragraph (2) does not apply to the UK(NI) indication.
 
 (3) A person must not affix in relation to a toy any marking, sign or inscription which is likely to mislead any other person as to the meaning or form of the CE marking affixed in relation to the toy.
 
@@ -62,8 +62,8 @@ summary: ''
 
 [^M_E_2b88617a-5da6-48b2-a8ab-a7a647dfbf1b]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-f1939774347cff716291a2a363d78317]: Textual amendment: Word in [reg. 39](https://www.legislation.gov.uk/uksi/2011/1881/regulation/39) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 26(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/26/b) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1939774347cff716291a2a363d78317]: Textual amendment: Word in [reg. 39](https://www.legislation.gov.uk/uksi/2011/1881/regulation/39) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 26(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/26/b) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ed1b73063c954dc9ac470c6f4597f207]: Textual amendment: Words in [reg. 39(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/1881/regulation/39/1/a/ii) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 26(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/26/b) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ed1b73063c954dc9ac470c6f4597f207]: Textual amendment: Words in [reg. 39(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/1881/regulation/39/1/a/ii) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 26(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/26/b) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fc8f2bd38276b8711109d29e020ccbbb]: Textual amendment: [Reg. 39(2A)](https://www.legislation.gov.uk/uksi/2011/1881/regulation/39/2A) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/5/4)
+[^c-fc8f2bd38276b8711109d29e020ccbbb]: Textual amendment: [Reg. 39(2A)](https://www.legislation.gov.uk/uksi/2011/1881/regulation/39/2A) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/5/4)

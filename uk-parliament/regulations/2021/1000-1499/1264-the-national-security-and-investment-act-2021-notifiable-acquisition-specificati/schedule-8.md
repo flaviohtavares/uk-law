@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-### 1. Interpretation[^key-b272026f9a9d7ef8272f53923196fe39]
+### 1. Interpretation[^c-b272026f9a9d7ef8272f53923196fe39]
 
 In this Schedule—
 
@@ -33,7 +33,7 @@ In this Schedule—
 - “**cryptography**” means the discipline which embodies principles, means and methods for the transformation of data in order to hide its information content, prevent its undetected modification or prevent its unauthorised use and is limited to the transformation of information using one or more secret parameters or associated key management;
 - “**secret parameter**” means a variable, constant or key kept from the knowledge of others or shared only within a group.
 
-### 2. Activity – cryptographic authentication[^key-95b825dcf0bc58817dc081493723db26]
+### 2. Activity – cryptographic authentication[^c-95b825dcf0bc58817dc081493723db26]
 
 A qualifying entity carrying on activities consisting of or including research into, developing or producing, any product which—
 
@@ -43,6 +43,6 @@ A qualifying entity carrying on activities consisting of or including research i
 
 ## Annotations
 
-[^key-b272026f9a9d7ef8272f53923196fe39]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/8/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-b272026f9a9d7ef8272f53923196fe39]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/8/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
-[^key-95b825dcf0bc58817dc081493723db26]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/8/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-95b825dcf0bc58817dc081493723db26]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2021/1264/schedule/8/paragraph/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)

@@ -45,11 +45,11 @@ The National Assembly for Wales, as the appropriate national authority in relati
 
 In accordance with section 6(15) of that Act, the Assembly has consulted those persons appearing to it to represent interests with which these Regulations are concerned as it considered appropriate.
 
-## 1. Title, commencement and application[^key-b6aec3e65901364d102401980fdf1fb0]
+## 1. Title, commencement and application[^c-b6aec3e65901364d102401980fdf1fb0]
 
 The title of these Regulations is The Docking of Working Dogs' Tails (Wales) Regulations 2007. They apply in relation to Wales and come into force on 28 March 2007.
 
-## 2. Interpretation[^key-07c7e2243d0e1842f486210f787c74f5]
+## 2. Interpretation[^c-07c7e2243d0e1842f486210f787c74f5]
 
 In these Regulations—
 
@@ -66,7 +66,7 @@ In these Regulations—
 - “shoot organiser” (“*trefynydd cyrch saethu*”) means any person responsible for the overall organisation of a shoot;
 - “specified type of work” (“*math penodedig o waith*”) means work in connection with law enforcement, activities of Her Majesty’s armed forces, emergency rescue, lawful pest control, or the lawful shooting of animals.
 
-## 3. Certification requirements[^key-320da6695fc5e7d22a68d0ab742799aa]
+## 3. Certification requirements[^c-320da6695fc5e7d22a68d0ab742799aa]
 
 (1) A veterinary surgeon may certify that he or she has seen evidence that a dog is likely to be used for a specified type of work and is a dog of a specified type, where—
 
@@ -90,16 +90,16 @@ In these Regulations—
 
 (3) Any certification under paragraph (1) must be given in Part 2 of a certificate in the form prescribed in Schedule 2.
 
-## 4. Confirmation of tail docking[^key-1b53764db26108cf2fbd91799507d317]
+## 4. Confirmation of tail docking[^c-1b53764db26108cf2fbd91799507d317]
 
 A veterinary surgeon who removes the whole or any part of a dog’s tail, otherwise than for the purpose of its medical treatment, must certify that fact in Part 3 of a certificate in the form prescribed in Schedule 2.
 
-## 5. Identification of docked dogs[^key-4d7915d74f50bedb95443f7ecf1cf265]
+## 5. Identification of docked dogs[^c-4d7915d74f50bedb95443f7ecf1cf265]
 
 (1) In order to be identified as a subsection (3) dog as required by section 6(8) of the Animal Welfare Act 2006 a dog must be microchipped—
 
 - (a) by a veterinary surgeon or a veterinary nurse acting under the supervision of a veterinary surgeon; and
-- (b)[^key-a05b4f90044bbd4fa61621130e88aecf] with a microchip which—
+- (b)[^c-a05b4f90044bbd4fa61621130e88aecf] with a microchip which—
   - (i) has a unique number which includes the manufacturer’s code;
   - (ii) is compliant with ISO standard 11784:1996 of the International Standards Organisation’s standards for microchips;
   - (iii) is compliant with all of ISO standard 11785:1996 of the International Standards Organisation’s standards for microchips apart from Annex A; and
@@ -117,11 +117,11 @@ The Presiding Officer of the National Assembly
 
 28 March 2007
 
-## SCHEDULE 1 — Specified Types of Dog[^key-83cafc7e6e3e6dd686948891dabf0ca0]
+## SCHEDULE 1 — Specified Types of Dog[^c-83cafc7e6e3e6dd686948891dabf0ca0]
 
 Regulation 3(1)(a)
 
-[^key-83cafc7e6e3e6dd686948891dabf0ca0]
+[^c-83cafc7e6e3e6dd686948891dabf0ca0]
 
 - Spaniels
 
@@ -179,7 +179,7 @@ Regulation 3(1)(a)
 
   Small Munsterlander
 
-## SCHEDULE 2 — Form of Certificate[^key-181b609e00491b4e391bb3cd4dc3312b]
+## SCHEDULE 2 — Form of Certificate[^c-181b609e00491b4e391bb3cd4dc3312b]
 
 Regulations 3 and 4
 
@@ -197,20 +197,20 @@ A regulatory appraisal has been prepared. Copies may be obtained from the Office
 
 [^f00001]: Footnote: [2006 c. 45](https://www.legislation.gov.uk/ukpga/2006/45). The appropriate national authority is defined in section 62(1) of the Act.
 
-[^key-b6aec3e65901364d102401980fdf1fb0]: Commencement: Reg. 1 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
+[^c-b6aec3e65901364d102401980fdf1fb0]: Commencement: Reg. 1 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
 
-[^key-07c7e2243d0e1842f486210f787c74f5]: Commencement: Reg. 2 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
+[^c-07c7e2243d0e1842f486210f787c74f5]: Commencement: Reg. 2 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
 
-[^key-320da6695fc5e7d22a68d0ab742799aa]: Commencement: Reg. 3 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
+[^c-320da6695fc5e7d22a68d0ab742799aa]: Commencement: Reg. 3 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
 
-[^key-1b53764db26108cf2fbd91799507d317]: Commencement: Reg. 4 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
+[^c-1b53764db26108cf2fbd91799507d317]: Commencement: Reg. 4 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
 
-[^key-4d7915d74f50bedb95443f7ecf1cf265]: Commencement: Reg. 5 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
+[^c-4d7915d74f50bedb95443f7ecf1cf265]: Commencement: Reg. 5 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
 
-[^key-a05b4f90044bbd4fa61621130e88aecf]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/wsi/2007/1028/regulation/5/1/b) substituted (25.12.2015) by [The Microchipping of Dogs (Wales) Regulations 2015 (S.I. 2015/1990)](https://www.legislation.gov.uk/wsi/2015/1990), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1990/regulation/1/2), [16](https://www.legislation.gov.uk/wsi/2015/1990/regulation/16)
+[^c-a05b4f90044bbd4fa61621130e88aecf]: Textual amendment: [Reg. 5(1)(b)](https://www.legislation.gov.uk/wsi/2007/1028/regulation/5/1/b) substituted (25.12.2015) by [The Microchipping of Dogs (Wales) Regulations 2015 (S.I. 2015/1990)](https://www.legislation.gov.uk/wsi/2015/1990), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1990/regulation/1/2), [16](https://www.legislation.gov.uk/wsi/2015/1990/regulation/16)
 
 [^f00003]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-83cafc7e6e3e6dd686948891dabf0ca0]: Commencement: Sch. 1 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
+[^c-83cafc7e6e3e6dd686948891dabf0ca0]: Commencement: Sch. 1 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
 
-[^key-181b609e00491b4e391bb3cd4dc3312b]: Commencement: Sch. 2 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)
+[^c-181b609e00491b4e391bb3cd4dc3312b]: Commencement: Sch. 2 in force at 28.3.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1028/regulation/1)

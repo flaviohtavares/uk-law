@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Units of orthodontic activity[^key-2df5670f4355a5582a76d783259b39fa]
+## 14. Units of orthodontic activity[^c-2df5670f4355a5582a76d783259b39fa]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2df5670f4355a5582a76d783259b39fa]: Commencement: Reg. 14 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-2df5670f4355a5582a76d783259b39fa]: Commencement: Reg. 14 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)

@@ -48,22 +48,22 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by sections 45D(1A) and (7) and 45E(1A) of the Capital Allowances Act 2001[^f00001].
 
-## 1. Citation and commencement[^key-c35322d55f5e3f966080200c30131bcd]
+## 1. Citation and commencement[^c-c35322d55f5e3f966080200c30131bcd]
 
 This Order may be cited as the Capital Allowances Act 2001 (Extension of first-year allowances) (Amendment) Order 2015 and comes into force on 17th February 2015.
 
-**2.**[^key-92ccc11243c261076dc901803339495b] The amendment made by paragraph (b) of article 4 has effect in relation to expenditure incurred on or after 1st April 2015.
+**2.**[^c-92ccc11243c261076dc901803339495b] The amendment made by paragraph (b) of article 4 has effect in relation to expenditure incurred on or after 1st April 2015.
 
-## 3. Amendment of the Capital Allowances Act 2001[^key-21495e6a5314eb341503e5392820e649]
+## 3. Amendment of the Capital Allowances Act 2001[^c-21495e6a5314eb341503e5392820e649]
 
 The Capital Allowances Act 2001 is amended as follows.
 
-**4.**[^key-de90db4d95b409205b5de868609f7248] In section 45D—
+**4.**[^c-de90db4d95b409205b5de868609f7248] In section 45D—
 
-- (a)[^key-e99d5d7694c9e3f5cab32455eb1c36b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e99d5d7694c9e3f5cab32455eb1c36b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (4) for “95” substitute “75”.
 
-**5.**[^key-2105be6180e83a6f68fd4fb75fc65a28] In section 45E(1)(a) for “2015” substitute “2018”.
+**5.**[^c-2105be6180e83a6f68fd4fb75fc65a28] In section 45E(1)(a) for “2015” substitute “2018”.
 
 Alun Cairns
 
@@ -89,14 +89,14 @@ A Tax Information and Impact Note covering this instrument was published on 10th
 
 [^f00001]: Footnote: [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2); section 45D was inserted by paragraph 3 of Schedule 19 of the Finance Act [2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23); sections 45D(1A) and 45E(1A) were inserted by sections 64(2) and 64(4) of the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26).
 
-[^key-c35322d55f5e3f966080200c30131bcd]: Commencement: Art. 1 in force at 17.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/60/article/1)
+[^c-c35322d55f5e3f966080200c30131bcd]: Commencement: Art. 1 in force at 17.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/60/article/1)
 
-[^key-92ccc11243c261076dc901803339495b]: Commencement: Art. 2 in force at 17.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/60/article/1)
+[^c-92ccc11243c261076dc901803339495b]: Commencement: Art. 2 in force at 17.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/60/article/1)
 
-[^key-21495e6a5314eb341503e5392820e649]: Commencement: Art. 3 in force at 17.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/60/article/1)
+[^c-21495e6a5314eb341503e5392820e649]: Commencement: Art. 3 in force at 17.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/60/article/1)
 
-[^key-de90db4d95b409205b5de868609f7248]: Commencement: Art. 4 in force at 17.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/60/article/1)
+[^c-de90db4d95b409205b5de868609f7248]: Commencement: Art. 4 in force at 17.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/60/article/1)
 
-[^key-e99d5d7694c9e3f5cab32455eb1c36b7]: Textual amendment: [Art. 4(a)](https://www.legislation.gov.uk/uksi/2015/60/article/4/a) revoked (1.11.2016) by [The Capital Allowances Act 2001 (Cars Emissions) Order 2016 (S.I. 2016/984)](https://www.legislation.gov.uk/uksi/2016/984), [arts. 2](https://www.legislation.gov.uk/uksi/2016/984/article/2), [6](https://www.legislation.gov.uk/uksi/2016/984/article/6)
+[^c-e99d5d7694c9e3f5cab32455eb1c36b7]: Textual amendment: [Art. 4(a)](https://www.legislation.gov.uk/uksi/2015/60/article/4/a) revoked (1.11.2016) by [The Capital Allowances Act 2001 (Cars Emissions) Order 2016 (S.I. 2016/984)](https://www.legislation.gov.uk/uksi/2016/984), [arts. 2](https://www.legislation.gov.uk/uksi/2016/984/article/2), [6](https://www.legislation.gov.uk/uksi/2016/984/article/6)
 
-[^key-2105be6180e83a6f68fd4fb75fc65a28]: Commencement: Art. 5 in force at 17.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/60/article/1)
+[^c-2105be6180e83a6f68fd4fb75fc65a28]: Commencement: Art. 5 in force at 17.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/60/article/1)

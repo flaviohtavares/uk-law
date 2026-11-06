@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Live link bail[^key-21e822327b5f75007c000c314d6101c6][^key-cee4f47f46a0718395226bde9cb117e1][^key-fd8c742945212429c4434a19f0629993][^key-89f248fcb851c663a1dc1d906bf9d652]
+## 46. Live link bail[^c-21e822327b5f75007c000c314d6101c6][^c-cee4f47f46a0718395226bde9cb117e1][^c-fd8c742945212429c4434a19f0629993][^c-89f248fcb851c663a1dc1d906bf9d652]
 
 *Extent: E+W*
 
@@ -82,10 +82,10 @@ summary: ''
 
 ## Annotations
 
-[^key-21e822327b5f75007c000c314d6101c6]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/48/section/46) in force at 1.4.2007 for specified purposes by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(n)](https://www.legislation.gov.uk/uksi/2007/709/article/3/n) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-21e822327b5f75007c000c314d6101c6]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/48/section/46) in force at 1.4.2007 for specified purposes by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(n)](https://www.legislation.gov.uk/uksi/2007/709/article/3/n) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-cee4f47f46a0718395226bde9cb117e1]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/48/section/46) in force at 14.11.2008 for specified purposes by [S.I. 2008/2785](https://www.legislation.gov.uk/uksi/2008/2785), [art. 2](https://www.legislation.gov.uk/uksi/2008/2785/article/2)
+[^c-cee4f47f46a0718395226bde9cb117e1]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/48/section/46) in force at 14.11.2008 for specified purposes by [S.I. 2008/2785](https://www.legislation.gov.uk/uksi/2008/2785), [art. 2](https://www.legislation.gov.uk/uksi/2008/2785/article/2)
 
-[^key-fd8c742945212429c4434a19f0629993]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/48/section/46) in force at 3.10.2011 for specified purposes by [S.I. 2011/2144](https://www.legislation.gov.uk/uksi/2011/2144), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2011/2144/article/2/1/b)
+[^c-fd8c742945212429c4434a19f0629993]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/48/section/46) in force at 3.10.2011 for specified purposes by [S.I. 2011/2144](https://www.legislation.gov.uk/uksi/2011/2144), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2011/2144/article/2/1/b)
 
-[^key-89f248fcb851c663a1dc1d906bf9d652]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/48/section/46) in force at 8.10.2012 in so far as not already in force by [S.I. 2012/2373](https://www.legislation.gov.uk/uksi/2012/2373), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2373/article/2/b)
+[^c-89f248fcb851c663a1dc1d906bf9d652]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/48/section/46) in force at 8.10.2012 in so far as not already in force by [S.I. 2012/2373](https://www.legislation.gov.uk/uksi/2012/2373), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2373/article/2/b)

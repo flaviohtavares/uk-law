@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Powers of inspectors in case of default[^key-019d11b27f0364a91f53ea2f44dc31e3]
+## 36. Powers of inspectors in case of default[^c-019d11b27f0364a91f53ea2f44dc31e3]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ If any person fails to comply with a requirement in or under these Regulations, 
 
 ## Annotations
 
-[^key-019d11b27f0364a91f53ea2f44dc31e3]: Commencement: Reg. 36 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-019d11b27f0364a91f53ea2f44dc31e3]: Commencement: Reg. 36 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

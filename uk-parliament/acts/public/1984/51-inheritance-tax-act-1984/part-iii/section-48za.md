@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48ZA. Excluded property: property situated outside the UK etc[^key-02c0a8f0f784fb1b8bdc11494798cff3]
+## 48ZA. Excluded property: property situated outside the UK etc[^c-02c0a8f0f784fb1b8bdc11494798cff3]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,12 +56,12 @@ this section applies to the property and section 6(1) and (1A) (general excluded
 
 subsection (4) has effect in the case of the amount as if the reference to the time when it became comprised in the settlement were to the time when the existing property became comprised in the settlement.
 
-(10) Subsections (2) to (4) are subject to Schedule A1 (overseas property with value attributable to UK residential property or UK agricultural property[^key-34be1e1321870bf03b2d7f5257ce68e6]).
+(10) Subsections (2) to (4) are subject to Schedule A1 (overseas property with value attributable to UK residential property or UK agricultural property[^c-34be1e1321870bf03b2d7f5257ce68e6]).
 
 (11) The reference in subsection (1) to property comprised in a settlement does not include a reversionary interest in the property (and accordingly this section does not apply to such an interest and section 6(1) does).
 
 ## Annotations
 
-[^key-02c0a8f0f784fb1b8bdc11494798cff3]: Textual amendment: [S. 48ZA](https://www.legislation.gov.uk/ukpga/1984/51/section/48ZA) inserted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 45(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/45/3)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/45/4)
+[^c-02c0a8f0f784fb1b8bdc11494798cff3]: Textual amendment: [S. 48ZA](https://www.legislation.gov.uk/ukpga/1984/51/section/48ZA) inserted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 45(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/45/3)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/45/4)
 
-[^key-34be1e1321870bf03b2d7f5257ce68e6]: Textual amendment: Words in [s. 48ZA(10)](https://www.legislation.gov.uk/ukpga/1984/51/section/48ZA/10) inserted (with effect in accordance with Sch. 12 para. 20 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 19(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/19/2), [20](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/20)
+[^c-34be1e1321870bf03b2d7f5257ce68e6]: Textual amendment: Words in [s. 48ZA(10)](https://www.legislation.gov.uk/ukpga/1984/51/section/48ZA/10) inserted (with effect in accordance with Sch. 12 para. 20 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 19(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/19/2), [20](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/20)

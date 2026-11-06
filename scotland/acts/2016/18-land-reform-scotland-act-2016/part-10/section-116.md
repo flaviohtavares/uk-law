@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 116. Referral to Land Court[^key-a0d95e0aa134d938005c4781ca1cc682]
+## 116. Referral to Land Court[^c-a0d95e0aa134d938005c4781ca1cc682]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0d95e0aa134d938005c4781ca1cc682]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2016/18/section/116) in force at 13.6.2017 by [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule)
+[^c-a0d95e0aa134d938005c4781ca1cc682]: Commencement: [S. 116](https://www.legislation.gov.uk/asp/2016/18/section/116) in force at 13.6.2017 by [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule)

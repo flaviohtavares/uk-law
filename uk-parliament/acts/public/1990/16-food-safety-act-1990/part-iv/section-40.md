@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Power to issue codes of practice.[^c10204961][^c10204971][^key-1c6169b67c7b7d48d1ce0538f3f8e025][^key-cfdb04dbc07a6933165afbda74ff606d][^key-a9b866d3416324eb16065c57379f00bb]
+## 40. Power to issue codes of practice.[^c10204961][^c10204971][^c-1c6169b67c7b7d48d1ce0538f3f8e025][^c-cfdb04dbc07a6933165afbda74ff606d][^c-a9b866d3416324eb16065c57379f00bb]
 
 *Extent: E+W+S*
 
@@ -35,18 +35,18 @@ summary: ''
 
 (4) Before issuing any code under this section, the Secretary of State shall
 
-- (a) subject to subsection (4B) below,[^key-1a109cef2fe1892b82c9fa2922aec374] consult with such organisations as appear to [^c10205071]. . . him to be representative of interests likely to be substantially affected by the code ; and.[^c10205081]
+- (a) subject to subsection (4B) below,[^c-1a109cef2fe1892b82c9fa2922aec374] consult with such organisations as appear to [^c10205071]. . . him to be representative of interests likely to be substantially affected by the code ; and.[^c10205081]
 - (b) have regard to any relevant advice given by the Food Standards Agency
 
 (4A)[^c10205091] If it appears to the Secretary of State that the Food Standards Agency has undertaken any consultation with an organisation that he is required to consult under subsection (4) above, the Secretary of State may treat that consultation as being as effective for the purposes of that subsection as if undertaken by him.
 
-(4B)[^key-2718a7799dfec5fee3082157f3e80e23] Subsection (4)(a) above shall not apply in any case in which consultation is required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178).
+(4B)[^c-2718a7799dfec5fee3082157f3e80e23] Subsection (4)(a) above shall not apply in any case in which consultation is required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178).
 
 (5) Any consultation undertaken before the commencement of subsection (4) above shall be as effective, for the purposes of that subsection, as if undertaken after that commencement.
 
 *Extent: S*
 
-(6)[^key-76174e9c3911e0e1dbc312b3ce50bdef] In the application of this section to Scotland, the references to the Food Standards Agency are to be read as references to Food Standards Scotland.
+(6)[^c-76174e9c3911e0e1dbc312b3ce50bdef] In the application of this section to Scotland, the references to the Food Standards Agency are to be read as references to Food Standards Scotland.
 
 ## Annotations
 
@@ -54,11 +54,11 @@ summary: ''
 
 [^c10204971]: Modification: S. 40 applied (with modifications) (1.4.1995) by [S.I. 1995/614](https://www.legislation.gov.uk/uksi/1995/614), [reg. 11](https://www.legislation.gov.uk/uksi/1995/614/regulation/11)
 
-[^key-1c6169b67c7b7d48d1ce0538f3f8e025]: Modification: S. 40: transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
+[^c-1c6169b67c7b7d48d1ce0538f3f8e025]: Modification: S. 40: transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
 
-[^key-cfdb04dbc07a6933165afbda74ff606d]: Modification: S. 40: power to apply in part for certain purposes conferred (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 49(2)(c)(ix)](https://www.legislation.gov.uk/asp/2015/1/section/49/2/c/ix), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-cfdb04dbc07a6933165afbda74ff606d]: Modification: S. 40: power to apply in part for certain purposes conferred (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [ss. 49(2)(c)(ix)](https://www.legislation.gov.uk/asp/2015/1/section/49/2/c/ix), [63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
-[^key-a9b866d3416324eb16065c57379f00bb]: Modification: [S. 40](https://www.legislation.gov.uk/ukpga/1990/16/section/40) applied (with modifications) (S.) (30.6.2023) by [The Food (Scotland) Act 2015 (Compliance Notices) Regulations 2023 (S.S.I. 2023/161)](https://www.legislation.gov.uk/ssi/2023/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/161/regulation/1/2), [3(c)](https://www.legislation.gov.uk/ssi/2023/161/regulation/3/c)
+[^c-a9b866d3416324eb16065c57379f00bb]: Modification: [S. 40](https://www.legislation.gov.uk/ukpga/1990/16/section/40) applied (with modifications) (S.) (30.6.2023) by [The Food (Scotland) Act 2015 (Compliance Notices) Regulations 2023 (S.S.I. 2023/161)](https://www.legislation.gov.uk/ssi/2023/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/161/regulation/1/2), [3(c)](https://www.legislation.gov.uk/ssi/2023/161/regulation/3/c)
 
 [^c10204981]: Textual amendment: Words in s. 40(1)-(4) substituted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 40(1)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5/paragraph/8) (with [ss. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38), [40(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/2)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
@@ -76,7 +76,7 @@ summary: ''
 
 [^c10205051]: Textual amendment: [S. 40(3A)](https://www.legislation.gov.uk/ukpga/1990/16/section/40/3A) inserted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 40(1)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/1), [Sch. 5 para. 17(5)](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5/paragraph/17/5) (with [ss. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38), [40(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/2)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
-[^key-1a109cef2fe1892b82c9fa2922aec374]: Textual amendment: Words in s. 40(4)(a) inserted (7.12.2004) by [Food Safety Act 1990 (Amendment) Regulations 2004 (S.I. 2004/2990)](https://www.legislation.gov.uk/uksi/2004/2990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2990/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2004/2990/regulation/4/a)
+[^c-1a109cef2fe1892b82c9fa2922aec374]: Textual amendment: Words in s. 40(4)(a) inserted (7.12.2004) by [Food Safety Act 1990 (Amendment) Regulations 2004 (S.I. 2004/2990)](https://www.legislation.gov.uk/uksi/2004/2990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2990/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2004/2990/regulation/4/a)
 
 [^c10205071]: Textual amendment: Words in s. 40(4) repealed (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 40(4)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/4), [Sch. 6](https://www.legislation.gov.uk/ukpga/1999/28/schedule/6) (with [s. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
@@ -84,6 +84,6 @@ summary: ''
 
 [^c10205091]: Textual amendment: [S. 40(4A)](https://www.legislation.gov.uk/ukpga/1990/16/section/40/4A) inserted (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 40(1)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/1), [Sch. 5 para. 17(5)](https://www.legislation.gov.uk/ukpga/1999/28/schedule/5/paragraph/17/5) (with [ss. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38), [40(2)](https://www.legislation.gov.uk/ukpga/1999/28/section/40/2)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 
-[^key-2718a7799dfec5fee3082157f3e80e23]: Textual amendment: S. 40(4B) inserted (7.12.2004) by [Food Safety Act 1990 (Amendment) Regulations 2004 (S.I. 2004/2990)](https://www.legislation.gov.uk/uksi/2004/2990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2990/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2004/2990/regulation/4/b)
+[^c-2718a7799dfec5fee3082157f3e80e23]: Textual amendment: S. 40(4B) inserted (7.12.2004) by [Food Safety Act 1990 (Amendment) Regulations 2004 (S.I. 2004/2990)](https://www.legislation.gov.uk/uksi/2004/2990), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2990/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2004/2990/regulation/4/b)
 
-[^key-76174e9c3911e0e1dbc312b3ce50bdef]: Textual amendment: S. 40(6) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 3(8)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/3/8) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-76174e9c3911e0e1dbc312b3ce50bdef]: Textual amendment: S. 40(6) inserted (S.) (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [sch. para. 3(8)](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/3/8) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)

@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Groups of undertakings (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+## 23. Groups of undertakings (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 *Extent: E+W+S+N.I.*
 
-(1) This article applies to undertakings. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(1) This article applies to undertakings. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-(2) For the purposes of articles 24 and 25— *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(2) For the purposes of articles 24 and 25— *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-- (a) whether a group exists or not; and *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
-- (b) whether an undertaking is or is not a member of a group, *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+- (a) whether a group exists or not; and *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
+- (b) whether an undertaking is or is not a member of a group, *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-are matters determined on the qualification day of the qualification year, whatever applied earlier in that year. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+are matters determined on the qualification day of the qualification year, whatever applied earlier in that year. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-(3) Subject to article 27, any change in the members of a group after the qualification day is to be ignored for the purposes of this Part. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(3) Subject to article 27, any change in the members of a group after the qualification day is to be ignored for the purposes of this Part. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
 ## Annotations
 
-[^key-8168caadfdb8153f9ac40f265229b9e6]: Textual amendment: Order revoked (with savings) (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [arts. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [3](https://www.legislation.gov.uk/uksi/2018/841/article/3)
+[^c-8168caadfdb8153f9ac40f265229b9e6]: Textual amendment: Order revoked (with savings) (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [arts. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [3](https://www.legislation.gov.uk/uksi/2018/841/article/3)

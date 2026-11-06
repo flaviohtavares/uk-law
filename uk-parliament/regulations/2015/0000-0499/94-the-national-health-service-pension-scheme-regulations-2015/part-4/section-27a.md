@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27A. Regulation 27A Pensionable earnings: scheme years 2015/16 to 2023/24[^key-18cdcb02d3e2f981234d1c38d75f009a]
+## 27A. Regulation 27A Pensionable earnings: scheme years 2015/16 to 2023/24[^c-18cdcb02d3e2f981234d1c38d75f009a]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18cdcb02d3e2f981234d1c38d75f009a]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/uksi/2015/94/regulation/27A) inserted (1.4.2025) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2025/316/regulation/23)
+[^c-18cdcb02d3e2f981234d1c38d75f009a]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/uksi/2015/94/regulation/27A) inserted (1.4.2025) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2025/316/regulation/23)

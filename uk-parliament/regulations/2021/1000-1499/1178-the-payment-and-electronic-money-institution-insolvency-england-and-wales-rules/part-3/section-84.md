@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Expenses of members[^key-63205c0b3ff38a2db0fd5b7841107814]
+## 84. Expenses of members[^c-63205c0b3ff38a2db0fd5b7841107814]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63205c0b3ff38a2db0fd5b7841107814]: Commencement: Rule 84 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-63205c0b3ff38a2db0fd5b7841107814]: Commencement: Rule 84 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

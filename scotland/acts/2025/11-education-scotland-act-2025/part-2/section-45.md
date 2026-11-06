@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Inspection plan[^key-651a0553ba1684f6636cc64a65a2411c][^key-8a9097e323cec1e4d49b13933a40be66]
+## 45. Inspection plan[^c-651a0553ba1684f6636cc64a65a2411c][^c-8a9097e323cec1e4d49b13933a40be66]
 
 *Extent: S*
 
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-651a0553ba1684f6636cc64a65a2411c]: Commencement: S. 45 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-651a0553ba1684f6636cc64a65a2411c]: Commencement: S. 45 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-8a9097e323cec1e4d49b13933a40be66]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2025/11/section/45) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-8a9097e323cec1e4d49b13933a40be66]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2025/11/section/45) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

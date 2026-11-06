@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37A. Election to dispense with annual general meetings[^key-06eefa5ae1238ded51c537498381895d]
+## 37A. Election to dispense with annual general meetings[^c-06eefa5ae1238ded51c537498381895d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06eefa5ae1238ded51c537498381895d]: Textual amendment: Reg. 37A inserted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/7)
+[^c-06eefa5ae1238ded51c537498381895d]: Textual amendment: Reg. 37A inserted (6.4.2005) by [The Open-Ended Investment Companies (Amendment) Regulations 2005 (S.I. 2005/923)](https://www.legislation.gov.uk/uksi/2005/923), [regs. 1](https://www.legislation.gov.uk/uksi/2005/923/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2005/923/regulation/2/7)

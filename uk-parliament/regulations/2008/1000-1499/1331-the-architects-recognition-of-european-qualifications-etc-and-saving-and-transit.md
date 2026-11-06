@@ -58,15 +58,15 @@ These Regulations may be cited as the Architects (Recognition of European Qualif
 
 The Architects Act 1997 [^c19266361] is amended in accordance with regulations 3 to 23.
 
-## 3. Designation of Architects Registration Board as competent authority[^key-03df3eb402b525487c49440a197046b3]
+## 3. Designation of Architects Registration Board as competent authority[^c-03df3eb402b525487c49440a197046b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Functions of the Registrar[^key-03df3eb402b525487c49440a197046b3]
+## 4. Functions of the Registrar[^c-03df3eb402b525487c49440a197046b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. The Register[^key-03df3eb402b525487c49440a197046b3]
+## 5. The Register[^c-03df3eb402b525487c49440a197046b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -75,7 +75,7 @@ The Architects Act 1997 [^c19266361] is amended in accordance with regulations 3
 (1) In section 4 (registration: general)—
 
 - (a) for the side-note, substitute “ Registration in Part 1 of the Register: general ”;
-- (b)[^key-3be09458fa8861c427920b0e59a5bbe5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3be09458fa8861c427920b0e59a5bbe5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for subsections (2A) and (2B) [^c19266371], substitute—
 
   > (2A) For the purposes of subsection (1), a Directive-rights national shall be treated as having achieved a standard of competence equivalent to that demonstrated by satisfying subsection (1)(a) if—
@@ -91,15 +91,15 @@ The Architects Act 1997 [^c19266361] is amended in accordance with regulations 3
 
   [^c19266381].
 
-(2)[^key-1173996afa552a1d61df2ac539da8bcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1173996afa552a1d61df2ac539da8bcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-1173996afa552a1d61df2ac539da8bcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1173996afa552a1d61df2ac539da8bcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Registration in Part 1 of the Register: European qualifications[^key-5ee3c4d4de7d1ad8f426df126bb49821]
+## 7. Registration in Part 1 of the Register: European qualifications[^c-5ee3c4d4de7d1ad8f426df126bb49821]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Registration in Part 2 of the Register: Directive-rights nationals providing services[^key-82a9893b87b77b0bb52172d675c468f1]
+## 8. Registration in Part 2 of the Register: Directive-rights nationals providing services[^c-82a9893b87b77b0bb52172d675c468f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -184,35 +184,35 @@ In section 7 (penalty for obtaining registration by false representation)—
 
   .
 
-## 12. Retention of name in Register[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+## 12. Retention of name in Register[^c-ccfed9312bbc5a9599d700ec55f8ea2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Competence to practise[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+## 13. Competence to practise[^c-ccfed9312bbc5a9599d700ec55f8ea2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Disqualification in a relevant European State[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+## 14. Disqualification in a relevant European State[^c-ccfed9312bbc5a9599d700ec55f8ea2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Failure to notify change of address[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+## 15. Failure to notify change of address[^c-ccfed9312bbc5a9599d700ec55f8ea2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Removal of list of visiting EEA architects[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+## 16. Removal of list of visiting EEA architects[^c-ccfed9312bbc5a9599d700ec55f8ea2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Disciplinary orders[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+## 17. Disciplinary orders[^c-ccfed9312bbc5a9599d700ec55f8ea2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Application of discipline provisions to visiting EEA architects[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+## 18. Application of discipline provisions to visiting EEA architects[^c-ccfed9312bbc5a9599d700ec55f8ea2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Use of title “architect”[^key-ccfed9312bbc5a9599d700ec55f8ea2e]
+## 19. Use of title “architect”[^c-ccfed9312bbc5a9599d700ec55f8ea2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -312,23 +312,23 @@ After section 22 (appeals), insert—
 
 .
 
-## 22. Interpretation[^key-564868ccc2aef80792d2e23ecaa82a9a]
+## 22. Interpretation[^c-564868ccc2aef80792d2e23ecaa82a9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. The Board and its committees[^key-564868ccc2aef80792d2e23ecaa82a9a]
+## 23. The Board and its committees[^c-564868ccc2aef80792d2e23ecaa82a9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Transitional provisions[^key-564868ccc2aef80792d2e23ecaa82a9a]
+## 24. Transitional provisions[^c-564868ccc2aef80792d2e23ecaa82a9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Revocation[^key-564868ccc2aef80792d2e23ecaa82a9a]
+## 25. Revocation[^c-564868ccc2aef80792d2e23ecaa82a9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26. Savings[^key-2bd6d80e99c37688184bbc37b0488e32]
+## 26. Savings[^c-2bd6d80e99c37688184bbc37b0488e32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -340,13 +340,13 @@ Parliamentary Under Secretary of State
 
 Department for Communities and Local Government
 
-## SCHEDULE[^key-eba0b4f0a9e831cc96738c2b2155dd60]
+## SCHEDULE[^c-eba0b4f0a9e831cc96738c2b2155dd60]
 
 **No longer in force.**
 
 Regulation 8(2)
 
-[^key-eba0b4f0a9e831cc96738c2b2155dd60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eba0b4f0a9e831cc96738c2b2155dd60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -400,33 +400,33 @@ Regulation 24 makes transitional provision for applications for registration mad
 
 [^c19266361]: Marginal citation: [1997 c. 22](https://www.legislation.gov.uk/ukpga/1997/22).
 
-[^key-03df3eb402b525487c49440a197046b3]: Textual amendment: [Regs. 3-5](https://www.legislation.gov.uk/uksi/2008/1331/regulation/3) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-03df3eb402b525487c49440a197046b3]: Textual amendment: [Regs. 3-5](https://www.legislation.gov.uk/uksi/2008/1331/regulation/3) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
-[^key-3be09458fa8861c427920b0e59a5bbe5]: Textual amendment: [Reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2008/1331/regulation/6/1/b) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-3be09458fa8861c427920b0e59a5bbe5]: Textual amendment: [Reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2008/1331/regulation/6/1/b) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
 [^c19266371]: Marginal citation: Subsections (2A) and (2B) were inserted by [S.I. 2002/2842](https://www.legislation.gov.uk/uksi/2002/2842).
 
 [^c19266381]: Marginal citation: [S.I. 2007/2781](https://www.legislation.gov.uk/uksi/2007/2781).
 
-[^key-1173996afa552a1d61df2ac539da8bcd]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2008/1331/regulation/6/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1331/regulation/6/3) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-1173996afa552a1d61df2ac539da8bcd]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2008/1331/regulation/6/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1331/regulation/6/3) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
-[^key-5ee3c4d4de7d1ad8f426df126bb49821]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/1331/regulation/7) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-5ee3c4d4de7d1ad8f426df126bb49821]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2008/1331/regulation/7) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
-[^key-82a9893b87b77b0bb52172d675c468f1]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2008/1331/regulation/8) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-82a9893b87b77b0bb52172d675c468f1]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2008/1331/regulation/8) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
 [^c19266401]: Marginal citation: [S.I. 2007/2781](https://www.legislation.gov.uk/uksi/2007/2781).
 
 [^c19266411]: Marginal citation: Subsections (4), (4A) and (4B) of section 6 were substituted for subsection (4) by [S.I. 2002/2842](https://www.legislation.gov.uk/uksi/2002/2842).
 
-[^key-ccfed9312bbc5a9599d700ec55f8ea2e]: Textual amendment: [Regs. 12-19](https://www.legislation.gov.uk/uksi/2008/1331/regulation/12) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-ccfed9312bbc5a9599d700ec55f8ea2e]: Textual amendment: [Regs. 12-19](https://www.legislation.gov.uk/uksi/2008/1331/regulation/12) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
 [^c19266421]: Marginal citation: [Section 22A](https://www.legislation.gov.uk/uksi/2008/1331/section/22A) was inserted by [S.I. 2002/2842](https://www.legislation.gov.uk/uksi/2002/2842).
 
-[^key-564868ccc2aef80792d2e23ecaa82a9a]: Textual amendment: [Regs. 22-25](https://www.legislation.gov.uk/uksi/2008/1331/regulation/22) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-564868ccc2aef80792d2e23ecaa82a9a]: Textual amendment: [Regs. 22-25](https://www.legislation.gov.uk/uksi/2008/1331/regulation/22) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
-[^key-2bd6d80e99c37688184bbc37b0488e32]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2008/1331/regulation/26) revoked (10.2.2014) by [The Architects Act 1997 (Amendments etc) Order 2014 (S.I. 2014/4)](https://www.legislation.gov.uk/uksi/2014/4), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/4/article/1/1), [3](https://www.legislation.gov.uk/uksi/2014/4/article/3)
+[^c-2bd6d80e99c37688184bbc37b0488e32]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2008/1331/regulation/26) revoked (10.2.2014) by [The Architects Act 1997 (Amendments etc) Order 2014 (S.I. 2014/4)](https://www.legislation.gov.uk/uksi/2014/4), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/4/article/1/1), [3](https://www.legislation.gov.uk/uksi/2014/4/article/3)
 
-[^key-eba0b4f0a9e831cc96738c2b2155dd60]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2008/1331/schedule) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-eba0b4f0a9e831cc96738c2b2155dd60]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2008/1331/schedule) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
 [^c19266521]: Marginal citation: OJ No L 255, 30.9.05, p.22. Amended by Council Directive 2006/100/EC, OJ No L 363, 20.12.06, p.141.
 

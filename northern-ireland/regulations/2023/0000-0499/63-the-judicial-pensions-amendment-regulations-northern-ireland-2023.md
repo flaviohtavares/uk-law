@@ -50,7 +50,7 @@ The Department of Justice has had regard to the matters referred to in section 5
 
 In accordance with section 24(1)(c) of that Act, the Pension Board for the scheme of judicial office holders has stated that it considers these Regulations to be minor or wholly beneficial.
 
-## 1. Citation, commencement and interpretation[^key-6a2c5f4867ad6e0ba34e21b8fe12cbed][^key-6a2c5f4867ad6e0ba34e21b8fe12cbed]
+## 1. Citation, commencement and interpretation[^c-6a2c5f4867ad6e0ba34e21b8fe12cbed][^c-6a2c5f4867ad6e0ba34e21b8fe12cbed]
 
 (1) These Regulations may be cited as the Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023.
 
@@ -63,29 +63,29 @@ In accordance with section 24(1)(c) of that Act, the Pension Board for the schem
 - “the 2015 Regulations” mean the Judicial Pensions Regulations (Northern Ireland) 2015[^f00004];
 - “**the 2017 Regulations**” means the Judicial Pensions (Fee-Paid Judges) Regulations 2017[^f00005].
 
-## 2. Application, effect and transitory provision[^key-f49c63f1df8c4c7b2b381ca287faa51c][^key-c662d4b036e2ebd438be2e318c7de554][^key-c61ac2c7437e434cc6174b74e0314b86]
+## 2. Application, effect and transitory provision[^c-f49c63f1df8c4c7b2b381ca287faa51c][^c-c662d4b036e2ebd438be2e318c7de554][^c-c61ac2c7437e434cc6174b74e0314b86]
 
-(1)[^key-f49c63f1df8c4c7b2b381ca287faa51c] Paragraph (2) to (4) and regulations 3 (in so far as it applies to regulations 4(b) and 16(2)(b), (5) and (6)), 4(b) and 16(2)(b), (5) and (6) are deemed to have effect from 1st April 2015.
+(1)[^c-f49c63f1df8c4c7b2b381ca287faa51c] Paragraph (2) to (4) and regulations 3 (in so far as it applies to regulations 4(b) and 16(2)(b), (5) and (6)), 4(b) and 16(2)(b), (5) and (6) are deemed to have effect from 1st April 2015.
 
-(2)[^key-f49c63f1df8c4c7b2b381ca287faa51c] Until the coming into force of regulation 16(2)(e) the definition of “tapered protection member” in paragraph 1 of Schedule 2 to the 2015 Regulations is to have effect as though for “12 and 13” there were substituted “12, 13 and 13A”.
+(2)[^c-f49c63f1df8c4c7b2b381ca287faa51c] Until the coming into force of regulation 16(2)(e) the definition of “tapered protection member” in paragraph 1 of Schedule 2 to the 2015 Regulations is to have effect as though for “12 and 13” there were substituted “12, 13 and 13A”.
 
-(3)[^key-c662d4b036e2ebd438be2e318c7de554] Paragraph (4) of this regulation applies where a person (P) is—
+(3)[^c-c662d4b036e2ebd438be2e318c7de554] Paragraph (4) of this regulation applies where a person (P) is—
 
 - (a) a member of the scheme established by the 2015 Regulations; and
 - (b) a person to whom regulation 48(1) of the 2017 Regulations applies.
 
-(4)[^key-c61ac2c7437e434cc6174b74e0314b86] The 2015 Regulations are to apply to the calculation of any sums payable in respect of P’s retirement or death under the 2015 Regulations as though—
+(4)[^c-c61ac2c7437e434cc6174b74e0314b86] The 2015 Regulations are to apply to the calculation of any sums payable in respect of P’s retirement or death under the 2015 Regulations as though—
 
 - (a) the amendments made by these Regulations other than regulations 14 and 15; and
 - (b) the 2017 Regulations, had been in force on the day before the day on which P retired or died.
 
-## 3. Amendment of the Judicial Pensions Regulations 2015[^key-5b49a7da7fb98518c54f4bfd6766961d]
+## 3. Amendment of the Judicial Pensions Regulations 2015[^c-5b49a7da7fb98518c54f4bfd6766961d]
 
 The 2015 Regulations are amended in accordance with regulations 4 to 17.
 
-**4.**[^key-9ea96b009d1321c42c8f1f72fbe559d6][^key-3604d0adb37b31375ce00dabcd6cdf1b] In regulation 2 (interpretation)—
+**4.**[^c-9ea96b009d1321c42c8f1f72fbe559d6][^c-3604d0adb37b31375ce00dabcd6cdf1b] In regulation 2 (interpretation)—
 
-- (a)[^key-9ea96b009d1321c42c8f1f72fbe559d6] In the appropriate place, insert—
+- (a)[^c-9ea96b009d1321c42c8f1f72fbe559d6] In the appropriate place, insert—
 
   > - “**FPJR 2017**” means the Judicial Pensions (Fee-Paid Judges) Regulations 2017;
 
@@ -104,11 +104,11 @@ The 2015 Regulations are amended in accordance with regulations 4 to 17.
   >   - (ii) the Fee-Paid Judges Scheme;
 
   , and
-- (b)[^key-3604d0adb37b31375ce00dabcd6cdf1b] in the definition of “index adjustment”, for “that scheme year” substitute “the previous scheme year”.
+- (b)[^c-3604d0adb37b31375ce00dabcd6cdf1b] in the definition of “index adjustment”, for “that scheme year” substitute “the previous scheme year”.
 
-**5.**[^key-d7348c0acd8335587bf13100f36419cf][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 17 (enrolment), in paragraph (2)(b)(ii), for “an existing” substitute “a relevant”.
+**5.**[^c-d7348c0acd8335587bf13100f36419cf][^c-5b49a7da7fb98518c54f4bfd6766961d] In regulation 17 (enrolment), in paragraph (2)(b)(ii), for “an existing” substitute “a relevant”.
 
-**6.**[^key-ec1a04c29c91e3a39570beb60acd4d37][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 55 (qualifying service)—
+**6.**[^c-ec1a04c29c91e3a39570beb60acd4d37][^c-5b49a7da7fb98518c54f4bfd6766961d] In regulation 55 (qualifying service)—
 
 - (a) for “an existing” in both places where it occurs substitute “a relevant”, and
 - (b) after paragraph (2) insert—
@@ -117,7 +117,7 @@ The 2015 Regulations are amended in accordance with regulations 4 to 17.
 
   .
 
-**7.**[^key-8ffd5242cf6a6875101a7fa59575a3dd][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 97 (entitlement to surviving adult’s pension)—
+**7.**[^c-8ffd5242cf6a6875101a7fa59575a3dd][^c-5b49a7da7fb98518c54f4bfd6766961d] In regulation 97 (entitlement to surviving adult’s pension)—
 
 - (a) in paragraphs (1) and (2), for “an existing” substitute “a relevant”, and
 - (b) after paragraph (5) insert—
@@ -126,7 +126,7 @@ The 2015 Regulations are amended in accordance with regulations 4 to 17.
 
   .
 
-**8.**[^key-aa1b43dd048a40db15616f2ed2f80f07][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 100 (annual rate of surviving adult’s pension on death in service)—
+**8.**[^c-aa1b43dd048a40db15616f2ed2f80f07][^c-5b49a7da7fb98518c54f4bfd6766961d] In regulation 100 (annual rate of surviving adult’s pension on death in service)—
 
 - (a) In paragraphs (2) and (5)(b)(i), for “an existing” substitute “a relevant”, and
 - (b) At the end insert—
@@ -135,7 +135,7 @@ The 2015 Regulations are amended in accordance with regulations 4 to 17.
 
   .
 
-**9.**[^key-45d5d35a955451dd2848028ce49ba0a4][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 119 (meaning of “**final pay**”)—
+**9.**[^c-45d5d35a955451dd2848028ce49ba0a4][^c-5b49a7da7fb98518c54f4bfd6766961d] In regulation 119 (meaning of “**final pay**”)—
 
 - (a) for paragraph (4) substitute—
 
@@ -153,9 +153,9 @@ The 2015 Regulations are amended in accordance with regulations 4 to 17.
 
   .
 
-**10.**[^key-d5fb77ebcca17f02add6060d4ee4c865][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 120 (meaning of “**annualised final pay**”) omit paragraph (3).
+**10.**[^c-d5fb77ebcca17f02add6060d4ee4c865][^c-5b49a7da7fb98518c54f4bfd6766961d] In regulation 120 (meaning of “**annualised final pay**”) omit paragraph (3).
 
-**11.**[^key-9cce82074464011d21d307f47926d6f5][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 121 (amount payable on death in service)—
+**11.**[^c-9cce82074464011d21d307f47926d6f5][^c-5b49a7da7fb98518c54f4bfd6766961d] In regulation 121 (amount payable on death in service)—
 
 - (a) in paragraph (2) for “an existing” substitute “a relevant”, and
 - (b) after paragraph (7) insert—
@@ -164,16 +164,16 @@ The 2015 Regulations are amended in accordance with regulations 4 to 17.
 
   .
 
-**12.**[^key-e73816778c4d45dba5afb669d02e5f77][^key-5b49a7da7fb98518c54f4bfd6766961d] In regulation 122 (amount payable on death out of service), in paragraph (2), for “an existing” substitute “a relevant”.
+**12.**[^c-e73816778c4d45dba5afb669d02e5f77][^c-5b49a7da7fb98518c54f4bfd6766961d] In regulation 122 (amount payable on death out of service), in paragraph (2), for “an existing” substitute “a relevant”.
 
-**13.**[^key-2bb6e98f3627671630668d7085831256][^key-5b49a7da7fb98518c54f4bfd6766961d] Omit regulation 144.
+**13.**[^c-2bb6e98f3627671630668d7085831256][^c-5b49a7da7fb98518c54f4bfd6766961d] Omit regulation 144.
 
-**14.**[^key-c4d0971d08031d3a767dab063711763d] In regulation 153 (forfeiture: relevant monetary obligations and relevant monetary losses), in paragraph 5—
+**14.**[^c-c4d0971d08031d3a767dab063711763d] In regulation 153 (forfeiture: relevant monetary obligations and relevant monetary losses), in paragraph 5—
 
 - (a) in sub-paragraph (c) of the definition of “relevant monetary obligation” for “criminal, fraudulent or negligent” substitute “criminal or fraudulent”, and
 - (b) in sub-paragraph (b) of the definition of “relevant monetary loss” for “criminal, fraudulent or negligent” substitute “criminal or fraudulent”.
 
-**15.**[^key-63fbcb61ac5312b994c249545819a9d5] In regulation 154 (set-off)—
+**15.**[^c-63fbcb61ac5312b994c249545819a9d5] In regulation 154 (set-off)—
 
 - (a) After paragraph (3)(a), insert—
 
@@ -182,14 +182,14 @@ The 2015 Regulations are amended in accordance with regulations 4 to 17.
   , and
 - (b) In paragraph (4)(b), for “criminal, fraudulent or negligent” substitute “criminal or fraudulent”.
 
-**16.**[^key-748bea35448d2431d765afaf69b97a4f][^key-8bd5146a572c08221080626781b7d9d6][^key-89c7d5721cfca9e40f347b10269782ac][^key-46971e6b1022fd8b38c5af699f799be0][^key-900bdb21e6d8717bc324bbf50888eff6] (1) Schedule 2 (transitional provisions) is amended as follows.
+**16.**[^c-748bea35448d2431d765afaf69b97a4f][^c-8bd5146a572c08221080626781b7d9d6][^c-89c7d5721cfca9e40f347b10269782ac][^c-46971e6b1022fd8b38c5af699f799be0][^c-900bdb21e6d8717bc324bbf50888eff6] (1) Schedule 2 (transitional provisions) is amended as follows.
 
 (2) In paragraph 1 (interpretation)—
 
-- (a)[^key-748bea35448d2431d765afaf69b97a4f] in the definition of “closing date”—
+- (a)[^c-748bea35448d2431d765afaf69b97a4f] in the definition of “closing date”—
   - (i) for “an existing” substitute “a relevant”, and
   - (ii) for “that scheme” substitute “such a scheme”;
-- (b)[^key-8bd5146a572c08221080626781b7d9d6] in the definition of “full protection member”, for “8 and 9” substitute “8, 9 and 9A”;
+- (b)[^c-8bd5146a572c08221080626781b7d9d6] in the definition of “full protection member”, for “8 and 9” substitute “8, 9 and 9A”;
 - (c) in the definition of “protected member” for “an existing” substitute “a relevant”;
 - (d) in the definition of “tapered protection closing date” for “an existing” substitute “a relevant”;
 - (e) for the definition of “tapered protection member” substitute—
@@ -204,7 +204,7 @@ The 2015 Regulations are amended in accordance with regulations 4 to 17.
   - (ii) for “that scheme” substitute “such a scheme”, and
 - (g) in the definition of “transition member” for “an existing” substitute “a relevant”.
 
-(3)[^key-89c7d5721cfca9e40f347b10269782ac] In paragraph 2 (meaning of “**continuity of service**”)—
+(3)[^c-89c7d5721cfca9e40f347b10269782ac] In paragraph 2 (meaning of “**continuity of service**”)—
 
 - (a) renumber the existing text as sub-paragraph (1);
 - (b) in that paragraph for “an existing” substitute “a relevant”, and
@@ -214,7 +214,7 @@ The 2015 Regulations are amended in accordance with regulations 4 to 17.
 
   .
 
-(4)[^key-89c7d5721cfca9e40f347b10269782ac] In paragraph 3 (meaning of “**tapered protection closing date**”)—
+(4)[^c-89c7d5721cfca9e40f347b10269782ac] In paragraph 3 (meaning of “**tapered protection closing date**”)—
 
 - (a) in sub-paragraph (1)—
   - (i) for “an existing” substitute “a relevant”, and
@@ -228,7 +228,7 @@ The 2015 Regulations are amended in accordance with regulations 4 to 17.
 
   .
 
-(5)[^key-8bd5146a572c08221080626781b7d9d6] After paragraph 9 (members moving between schemes after the scheme closing date) insert—
+(5)[^c-8bd5146a572c08221080626781b7d9d6] After paragraph 9 (members moving between schemes after the scheme closing date) insert—
 
 > **9A. Members with previous service in a fee-paid office**
 >
@@ -244,7 +244,7 @@ The 2015 Regulations are amended in accordance with regulations 4 to 17.
 
 .
 
-(6)[^key-8bd5146a572c08221080626781b7d9d6] After paragraph 13 (members moving between schemes after the scheme closing date) insert—
+(6)[^c-8bd5146a572c08221080626781b7d9d6] After paragraph 13 (members moving between schemes after the scheme closing date) insert—
 
 > **13A. Members with previous service in a fee-paid office**
 >
@@ -260,11 +260,11 @@ The 2015 Regulations are amended in accordance with regulations 4 to 17.
 
 .
 
-(7)[^key-46971e6b1022fd8b38c5af699f799be0] In the heading before paragraph 15 for “an existing” substitute “a relevant”.
+(7)[^c-46971e6b1022fd8b38c5af699f799be0] In the heading before paragraph 15 for “an existing” substitute “a relevant”.
 
-(8)[^key-46971e6b1022fd8b38c5af699f799be0] In paragraph 15 (transition member who has not reached normal pension age), in sub-paragraphs (1), (2) and (3) for “an existing” in each place where it occurs substitute “a relevant”.
+(8)[^c-46971e6b1022fd8b38c5af699f799be0] In paragraph 15 (transition member who has not reached normal pension age), in sub-paragraphs (1), (2) and (3) for “an existing” in each place where it occurs substitute “a relevant”.
 
-(9)[^key-46971e6b1022fd8b38c5af699f799be0] In paragraph 16 (annual rate of surviving adult’s pensions when transition member dies in service)—
+(9)[^c-46971e6b1022fd8b38c5af699f799be0] In paragraph 16 (annual rate of surviving adult’s pensions when transition member dies in service)—
 
 - (a) in sub-paragraphs (2) and (3) and in the definition of “period of service” in sub-paragraph (4), for “an existing” in each place where it occurs substitute “a relevant”, and
 - (b) at the end, insert—
@@ -273,7 +273,7 @@ The 2015 Regulations are amended in accordance with regulations 4 to 17.
 
   .
 
-(10)[^key-46971e6b1022fd8b38c5af699f799be0] In paragraph 17 (annual rate of eligible child’s pension when transition member dies in service)—
+(10)[^c-46971e6b1022fd8b38c5af699f799be0] In paragraph 17 (annual rate of eligible child’s pension when transition member dies in service)—
 
 - (a) in sub-paragraphs (2) and (3) and in the definition of “period of service” in sub-paragraph (4), for “an existing” in each place where it occurs substitute “a relevant”, and
 - (b) at the end, insert—
@@ -282,16 +282,16 @@ The 2015 Regulations are amended in accordance with regulations 4 to 17.
 
   .
 
-(11)[^key-46971e6b1022fd8b38c5af699f799be0] In paragraph 18(2)(b) (death in service lump sum) for “an existing” substitute “a relevant”.
+(11)[^c-46971e6b1022fd8b38c5af699f799be0] In paragraph 18(2)(b) (death in service lump sum) for “an existing” substitute “a relevant”.
 
-(12)[^key-46971e6b1022fd8b38c5af699f799be0] In paragraph 19 (death out of service lump sum)—
+(12)[^c-46971e6b1022fd8b38c5af699f799be0] In paragraph 19 (death out of service lump sum)—
 
 - (a) for “an existing” in each place where it occurs substitute “a relevant”; and
 - (b) for “the existing” substitute “the relevant”.
 
-(13)[^key-46971e6b1022fd8b38c5af699f799be0] In the heading to Part 7 for “an existing scheme” substitute “relevant schemes”.
+(13)[^c-46971e6b1022fd8b38c5af699f799be0] In the heading to Part 7 for “an existing scheme” substitute “relevant schemes”.
 
-(14)[^key-46971e6b1022fd8b38c5af699f799be0] In the heading to paragraph 21 for “the existing” substitute “a relevant”.
+(14)[^c-46971e6b1022fd8b38c5af699f799be0] In the heading to paragraph 21 for “the existing” substitute “a relevant”.
 
 (15) In paragraph 21 (repayment of contributions under the existing scheme) for “an existing” in both places where it occurs substitute “a relevant”.
 
@@ -310,7 +310,7 @@ The 2015 Regulations are amended in accordance with regulations 4 to 17.
 
 .
 
-**17.**[^key-2f2c99556ad9ed1d011bda1007c40a4d][^key-5b49a7da7fb98518c54f4bfd6766961d] (1) Schedule 3 (modifying provisions and amendments) is amended as follows.
+**17.**[^c-2f2c99556ad9ed1d011bda1007c40a4d][^c-5b49a7da7fb98518c54f4bfd6766961d] (1) Schedule 3 (modifying provisions and amendments) is amended as follows.
 
 (2) In paragraph 1 (application) for “an existing” substitute “a relevant”.
 
@@ -374,54 +374,54 @@ Regulation 13 removes the need for valuations of the scheme to be carried out.
 
 [^f00003]: Footnote: Formerly the Department of Finance and Personnel, see section 1(4) and (11) of and Schedule 1 to, the Departments Act (Northern Ireland) 2016 ([2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)).
 
-[^key-6a2c5f4867ad6e0ba34e21b8fe12cbed]: Commencement: Reg. 1 in operation at 5.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
+[^c-6a2c5f4867ad6e0ba34e21b8fe12cbed]: Commencement: Reg. 1 in operation at 5.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
 
 [^f00004]: Footnote: [S.R. 2015 No. 76](https://www.legislation.gov.uk/nisr/2015/76) as amended by [S.R. 2016 No. 138](https://www.legislation.gov.uk/nisr/2016/138), [S.R. 2019 No. 26](https://www.legislation.gov.uk/nisr/2019/26), [S.R. 2020 No. 10](https://www.legislation.gov.uk/nisr/2020/10), and [S.R. 2022 No. 73](https://www.legislation.gov.uk/nisr/2022/73).
 
 [^f00005]: Footnote: [S.I. 2017/522](https://www.legislation.gov.uk/uksi/2017/522).
 
-[^key-f49c63f1df8c4c7b2b381ca287faa51c]: Commencement: Reg. 2(1),(2) in operation at 2.5.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
+[^c-f49c63f1df8c4c7b2b381ca287faa51c]: Commencement: Reg. 2(1),(2) in operation at 2.5.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
 
-[^key-c662d4b036e2ebd438be2e318c7de554]: Commencement: Reg. 2(3) comes into force in accordance with reg. 1(2)
+[^c-c662d4b036e2ebd438be2e318c7de554]: Commencement: Reg. 2(3) comes into force in accordance with reg. 1(2)
 
-[^key-c61ac2c7437e434cc6174b74e0314b86]: Commencement: Reg. 2(4) comes into force in accordance with reg. 1(2)
+[^c-c61ac2c7437e434cc6174b74e0314b86]: Commencement: Reg. 2(4) comes into force in accordance with reg. 1(2)
 
-[^key-5b49a7da7fb98518c54f4bfd6766961d]: Commencement: Reg. 3 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+[^c-5b49a7da7fb98518c54f4bfd6766961d]: Commencement: Reg. 3 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
 
-[^key-9ea96b009d1321c42c8f1f72fbe559d6]: Commencement: Reg. 4(a) comes into force in accordance with reg. 1(2)
+[^c-9ea96b009d1321c42c8f1f72fbe559d6]: Commencement: Reg. 4(a) comes into force in accordance with reg. 1(2)
 
-[^key-3604d0adb37b31375ce00dabcd6cdf1b]: Commencement: Reg. 4(b) in operation at 2.5.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
+[^c-3604d0adb37b31375ce00dabcd6cdf1b]: Commencement: Reg. 4(b) in operation at 2.5.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
 
-[^key-d7348c0acd8335587bf13100f36419cf]: Commencement: Reg. 5 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+[^c-d7348c0acd8335587bf13100f36419cf]: Commencement: Reg. 5 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
 
-[^key-ec1a04c29c91e3a39570beb60acd4d37]: Commencement: Reg. 6 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+[^c-ec1a04c29c91e3a39570beb60acd4d37]: Commencement: Reg. 6 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
 
-[^key-8ffd5242cf6a6875101a7fa59575a3dd]: Commencement: Reg. 7 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+[^c-8ffd5242cf6a6875101a7fa59575a3dd]: Commencement: Reg. 7 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
 
-[^key-aa1b43dd048a40db15616f2ed2f80f07]: Commencement: Reg. 8 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+[^c-aa1b43dd048a40db15616f2ed2f80f07]: Commencement: Reg. 8 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
 
-[^key-45d5d35a955451dd2848028ce49ba0a4]: Commencement: Reg. 9 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+[^c-45d5d35a955451dd2848028ce49ba0a4]: Commencement: Reg. 9 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
 
-[^key-d5fb77ebcca17f02add6060d4ee4c865]: Commencement: Reg. 10 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+[^c-d5fb77ebcca17f02add6060d4ee4c865]: Commencement: Reg. 10 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
 
-[^key-9cce82074464011d21d307f47926d6f5]: Commencement: Reg. 11 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+[^c-9cce82074464011d21d307f47926d6f5]: Commencement: Reg. 11 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
 
-[^key-e73816778c4d45dba5afb669d02e5f77]: Commencement: Reg. 12 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+[^c-e73816778c4d45dba5afb669d02e5f77]: Commencement: Reg. 12 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
 
-[^key-2bb6e98f3627671630668d7085831256]: Commencement: Reg. 13 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+[^c-2bb6e98f3627671630668d7085831256]: Commencement: Reg. 13 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
 
-[^key-c4d0971d08031d3a767dab063711763d]: Commencement: Reg. 14 in operation at 5.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
+[^c-c4d0971d08031d3a767dab063711763d]: Commencement: Reg. 14 in operation at 5.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
 
-[^key-63fbcb61ac5312b994c249545819a9d5]: Commencement: Reg. 15 in operation at 5.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
+[^c-63fbcb61ac5312b994c249545819a9d5]: Commencement: Reg. 15 in operation at 5.4.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
 
-[^key-748bea35448d2431d765afaf69b97a4f]: Commencement: Reg. 16(2)(a) comes into force in accordance with reg. 1(3)
+[^c-748bea35448d2431d765afaf69b97a4f]: Commencement: Reg. 16(2)(a) comes into force in accordance with reg. 1(3)
 
-[^key-8bd5146a572c08221080626781b7d9d6]: Commencement: Reg. 16(2)(b),(5),(6) in operation at 2.5.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
+[^c-8bd5146a572c08221080626781b7d9d6]: Commencement: Reg. 16(2)(b),(5),(6) in operation at 2.5.2023 for specified purposes, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/3)
 
-[^key-89c7d5721cfca9e40f347b10269782ac]: Commencement: Reg. 16(3)-(4) comes into force in accordance with reg. 1(3)
+[^c-89c7d5721cfca9e40f347b10269782ac]: Commencement: Reg. 16(3)-(4) comes into force in accordance with reg. 1(3)
 
-[^key-46971e6b1022fd8b38c5af699f799be0]: Commencement: Reg. 16(7)-(14) comes into force in accordance with reg. 1(3)
+[^c-46971e6b1022fd8b38c5af699f799be0]: Commencement: Reg. 16(7)-(14) comes into force in accordance with reg. 1(3)
 
-[^key-900bdb21e6d8717bc324bbf50888eff6]: Commencement: Reg. 16(c)-(g) comes into force in accordance with reg. 1(3)
+[^c-900bdb21e6d8717bc324bbf50888eff6]: Commencement: Reg. 16(c)-(g) comes into force in accordance with reg. 1(3)
 
-[^key-2f2c99556ad9ed1d011bda1007c40a4d]: Commencement: Reg. 17 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)
+[^c-2f2c99556ad9ed1d011bda1007c40a4d]: Commencement: Reg. 17 in operation at 2.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Works in the river[^key-0d44d5b179474852d10efbb5e67a77f0]
+## 14. Works in the river[^c-0d44d5b179474852d10efbb5e67a77f0]
 
 *Extent: E+W+S*
 
@@ -50,6 +50,6 @@ in such manner and to such extent as may appear to it to be necessary or conveni
 
 ## Annotations
 
-[^key-0d44d5b179474852d10efbb5e67a77f0]: Commencement: Art. 14 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-0d44d5b179474852d10efbb5e67a77f0]: Commencement: Art. 14 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
 
 [^f00026]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

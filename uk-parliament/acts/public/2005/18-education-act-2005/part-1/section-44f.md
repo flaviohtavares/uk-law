@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44F. Interpretation of sections 44A to 44E[^key-50057023474852ace1a59148f3fef9ab]
+## 44F. Interpretation of sections 44A to 44E[^c-50057023474852ace1a59148f3fef9ab]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In sections 44A to 44E—
 
 ## Annotations
 
-[^key-50057023474852ace1a59148f3fef9ab]: Textual amendment: Ss. 44A-44F and cross-heading inserted (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [ss. 77](https://www.legislation.gov.uk/anaw/2013/1/section/77), [100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(d)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/d)
+[^c-50057023474852ace1a59148f3fef9ab]: Textual amendment: Ss. 44A-44F and cross-heading inserted (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [ss. 77](https://www.legislation.gov.uk/anaw/2013/1/section/77), [100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(d)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/d)

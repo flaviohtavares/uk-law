@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Temporary prohibition or restriction on roads.[^c13546621][^c16324031][^c18778821][^M_C_687c329e-fbe9-462d-fb85-998434705a2e][^key-3e5694a16e7beb0ba3a51f747f1aed06][^key-b277f7e82bf2c24a8f14c544ec3a30ad][^c13546611]
+## 14. Temporary prohibition or restriction on roads.[^c13546621][^c16324031][^c18778821][^M_C_687c329e-fbe9-462d-fb85-998434705a2e][^c-3e5694a16e7beb0ba3a51f747f1aed06][^c-b277f7e82bf2c24a8f14c544ec3a30ad][^c13546611]
 
 *Extent: E+W+S*
 
@@ -89,9 +89,9 @@ but no such order or notice shall be made or issued with respect to any road whi
 
 [^M_C_687c329e-fbe9-462d-fb85-998434705a2e]: Modification: S. 14 restricted (29.3.2017) by [The Housing (Scotland) Act 2014 (Commencement No. 7, Amendment and Saving Provision) Order 2017 (S.I. 2017/330)](https://www.legislation.gov.uk/uksi/2017/330), [arts. 1](https://www.legislation.gov.uk/uksi/2017/330/article/1), [13(8)](https://www.legislation.gov.uk/uksi/2017/330/article/13/8) (with [art. 31](https://www.legislation.gov.uk/uksi/2017/330/article/31))
 
-[^key-3e5694a16e7beb0ba3a51f747f1aed06]: Modification: S. 14 modified (E.W.) (25.8.2020) by [Birmingham Commonwealth Games Act 2020 (c. 10)](https://www.legislation.gov.uk/ukpga/2020/10), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2020/10/section/26/1), [33](https://www.legislation.gov.uk/ukpga/2020/10/section/33)
+[^c-3e5694a16e7beb0ba3a51f747f1aed06]: Modification: S. 14 modified (E.W.) (25.8.2020) by [Birmingham Commonwealth Games Act 2020 (c. 10)](https://www.legislation.gov.uk/ukpga/2020/10), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2020/10/section/26/1), [33](https://www.legislation.gov.uk/ukpga/2020/10/section/33)
 
-[^key-b277f7e82bf2c24a8f14c544ec3a30ad]: Modification: S. 14 applied (with modifications) (22.6.2007) by [The Road Tunnel Safety Regulations 2007 (S.I. 2007/1520)](https://www.legislation.gov.uk/uksi/2007/1520), [reg. 7(3)(7)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/7/3/7) (with reg. 3) (as amended (28.5.2021) by [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [6](https://www.legislation.gov.uk/uksi/2021/552/regulation/6))
+[^c-b277f7e82bf2c24a8f14c544ec3a30ad]: Modification: S. 14 applied (with modifications) (22.6.2007) by [The Road Tunnel Safety Regulations 2007 (S.I. 2007/1520)](https://www.legislation.gov.uk/uksi/2007/1520), [reg. 7(3)(7)](https://www.legislation.gov.uk/uksi/2007/1520/regulation/7/3/7) (with reg. 3) (as amended (28.5.2021) by [The Road Tunnel Safety (Amendment) Regulations 2021 (S.I. 2021/552)](https://www.legislation.gov.uk/uksi/2021/552), [regs. 1](https://www.legislation.gov.uk/uksi/2021/552/regulation/1), [6](https://www.legislation.gov.uk/uksi/2021/552/regulation/6))
 
 [^c13546611]: Textual amendment: S. 14 substituted (1.7.1992) by [Road Traffic (Temporary Restrictions) Act 1991 (c. 26, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/26), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1991/26/section/1/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1991/26/schedule/1); [S.I. 1992/1218](https://www.legislation.gov.uk/uksi/1992/1218), [art. 2](https://www.legislation.gov.uk/uksi/1992/1218/article/2)
 

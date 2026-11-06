@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Housing complaints made to a housing ombudsman[^key-52a408ac26937b29121301854f3713b0][^key-ab8ddfbf5c1879830331a7258aadfac7]
+## 160. Housing complaints made to a housing ombudsman[^c-52a408ac26937b29121301854f3713b0][^c-ab8ddfbf5c1879830331a7258aadfac7]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52a408ac26937b29121301854f3713b0]: Commencement: S. 160 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-52a408ac26937b29121301854f3713b0]: Commencement: S. 160 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-ab8ddfbf5c1879830331a7258aadfac7]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2022/30/section/160) in force at 1.10.2022 by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/561/regulation/5)
+[^c-ab8ddfbf5c1879830331a7258aadfac7]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2022/30/section/160) in force at 1.10.2022 by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/561/regulation/5)

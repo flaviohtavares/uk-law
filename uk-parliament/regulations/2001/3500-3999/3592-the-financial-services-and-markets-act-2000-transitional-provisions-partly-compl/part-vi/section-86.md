@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. President of the interim tribunal[^key-99c93c6e571975449475fedcc4a8805a]
+## 86. President of the interim tribunal[^c-99c93c6e571975449475fedcc4a8805a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99c93c6e571975449475fedcc4a8805a]: Commencement: Art. 86 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-99c93c6e571975449475fedcc4a8805a]: Commencement: Art. 86 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

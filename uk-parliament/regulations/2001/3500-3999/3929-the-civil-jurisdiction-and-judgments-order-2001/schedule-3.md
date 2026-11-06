@@ -38,7 +38,7 @@ In section 150 of the Air Force Act 1955 [^c15817291] (enforcement of maintenanc
 
 In section 101 of the Naval Discipline Act 1957 [^c15817301] (service of proceedings for maintenance, etc), in subsection (5) after “Part I of the Civil Jurisdiction and Judgments Act 1982” insert “ or Council Regulation [(EC) No. 44/2001](https://www.legislation.gov.uk/european/regulation/2001/0044) of 22nd December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters ”.
 
-### 5. The Maintenance Orders Act 1958 (c. 39)[^key-90d34548259d3d24e2034cb3fffc7aae]
+### 5. The Maintenance Orders Act 1958 (c. 39)[^c-90d34548259d3d24e2034cb3fffc7aae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -78,13 +78,13 @@ In Schedule 1 to the Attachment of Earnings Act 1971 [^c15817351] (which lists m
 
 The Magistrates’ Courts Act 1980 [^c15817361] is amended as follows.
 
-**11.**[^key-ff23fce149f69d07ace57cbf2d9f65f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ff23fce149f69d07ace57cbf2d9f65f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** In subsection 7 of section 95 [^c15817381] (remission of arrears and manner in which arrears to be paid) in paragraph (a) of the definition of “non-English maintenance order”—
 
 - (a) at the end of sub-paragraph (iii) omit “or”;
-- (b)[^key-4549715a69b74026ed570f395ba47a8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-4549715a69b74026ed570f395ba47a8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4549715a69b74026ed570f395ba47a8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-4549715a69b74026ed570f395ba47a8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 13. The Magistrates’ Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I.26))
 
@@ -205,7 +205,7 @@ In regulation 3 of the Community Legal Service (Financial) Regulations 2000 [^c1
 
 [^c15817301]: Marginal citation: [1957 c. 53](https://www.legislation.gov.uk/ukpga/1957/53). Subsection (5) was amended by section 22(1) of, and paragraph 3 of the Schedule to, the [Maintenance Orders (Reciprocal Enforcement) Act 1972 (c. 18)](https://www.legislation.gov.uk/ukpga/1972/18) and section 15(4) of, and paragraph 2 of Part I of Schedule 12 to, the [Civil Jurisdiction and Judgments Act 1982 (c. 27)](https://www.legislation.gov.uk/ukpga/1982/27).
 
-[^key-90d34548259d3d24e2034cb3fffc7aae]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2001/3929/schedule/3/paragraph/5) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-90d34548259d3d24e2034cb3fffc7aae]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2001/3929/schedule/3/paragraph/5) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
 
 [^c15817321]: Marginal citation: S.R. & O. (N.I.) [1965 No. 217](https://www.legislation.gov.uk/ukcm/1965/217). Regulation 3B was inserted by regulation 2 of the Legal Aid (General) (Amendment) (No. 2) Regulations (Northern Ireland) 1968 (S.R. [1986 No. 346](https://www.legislation.gov.uk/ukcm/1986/346)).
 
@@ -217,11 +217,11 @@ In regulation 3 of the Community Legal Service (Financial) Regulations 2000 [^c1
 
 [^c15817361]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-ff23fce149f69d07ace57cbf2d9f65f1]: Textual amendment: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2001/3929/schedule/3/paragraph/11) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-ff23fce149f69d07ace57cbf2d9f65f1]: Textual amendment: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2001/3929/schedule/3/paragraph/11) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
 
 [^c15817381]: Marginal citation: [Section 95](https://www.legislation.gov.uk/uksi/2001/3929/section/95) was substituted by section 11(1) of, and paragraph 8 of Schedule 2 to, the [Maintenance Enforcement Act 1991 (c. 17)](https://www.legislation.gov.uk/ukpga/1991/17).
 
-[^key-4549715a69b74026ed570f395ba47a8e]: Textual amendment: [Sch. 3 para. 12(b)](https://www.legislation.gov.uk/uksi/2001/3929/schedule/3/paragraph/12/b)[(c)](https://www.legislation.gov.uk/uksi/2001/3929/schedule/3/paragraph/12/c) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-4549715a69b74026ed570f395ba47a8e]: Textual amendment: [Sch. 3 para. 12(b)](https://www.legislation.gov.uk/uksi/2001/3929/schedule/3/paragraph/12/b)[(c)](https://www.legislation.gov.uk/uksi/2001/3929/schedule/3/paragraph/12/c) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
 
 [^c15817391]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 94. Report to the Assembly[^key-b6c6ffbb53649b410cad5737428ed586]
+## 94. Report to the Assembly[^c-b6c6ffbb53649b410cad5737428ed586]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The Department must lay before the Assembly an independent report on the operati
 
 ## Annotations
 
-[^key-b6c6ffbb53649b410cad5737428ed586]: Commencement: [Art. 94](https://www.legislation.gov.uk/nisi/2015/2006/article/94) in operation at 20.6.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)
+[^c-b6c6ffbb53649b410cad5737428ed586]: Commencement: [Art. 94](https://www.legislation.gov.uk/nisi/2015/2006/article/94) in operation at 20.6.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)

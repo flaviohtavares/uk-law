@@ -48,11 +48,11 @@ The bodies listed in the Schedule to this Order appear to the Department of Fina
 
 The Department intends the accounts under section 14 of the Government Resources and Accounts Act (Northern Ireland) 2001 (“the Act”) for the financial year ending with 31st March 2007 to relate in part to those bodies:
 
-## 1. Title and commencement[^key-6d06bde6fa583e3ade836a122bba6a6f]
+## 1. Title and commencement[^c-6d06bde6fa583e3ade836a122bba6a6f]
 
 This Order may be cited as the Whole of Government Accounts (Designation of Bodies) Order (Northern Ireland) 2007 and shall come into operation on 18th May 2007.
 
-## 2. Designation of Bodies[^key-e5f62a6d7404a18e8bad3a4500511150]
+## 2. Designation of Bodies[^c-e5f62a6d7404a18e8bad3a4500511150]
 
 For the purposes of section 15 of the Act, the Department hereby designates the bodies listed in the Schedule in respect of the financial year ending with 31st March 2007.
 
@@ -62,11 +62,11 @@ Ciaran Doran
 
 A senior officer of the Department of Finance and Personnel
 
-## SCHEDULE — DESIGNATED BODIES FOR 2006/2007[^key-09ebd92c07e5c5629d5b04503cb54d76]
+## SCHEDULE — DESIGNATED BODIES FOR 2006/2007[^c-09ebd92c07e5c5629d5b04503cb54d76]
 
 Article 2
 
-[^key-09ebd92c07e5c5629d5b04503cb54d76]
+[^c-09ebd92c07e5c5629d5b04503cb54d76]
 
 - Agri-Food and Biosciences Institute
 - Air Route Development (Northern Ireland) Limited
@@ -144,7 +144,7 @@ Article 2
 - Northern Ireland Fire and Rescue Service
 - Northern Ireland Fishery Harbour Authority
 - Northern Ireland Guardian ad Litem Agency
-- Health and Social Care Regulation and Quality Improvement Authority[^key-7d2a14c837ba0e299f0582ff72cf6910]
+- Health and Social Care Regulation and Quality Improvement Authority[^c-7d2a14c837ba0e299f0582ff72cf6910]
 - Northern Ireland Health Promotion Agency
 - Northern Ireland Housing Executive
 - Northern Ireland Local Government Officers’ Superannuation Committee
@@ -190,10 +190,10 @@ WGA are financial statements prepared on the basis of Generally Accepted Account
 
 [^f00002]: Footnote: [2001 (c.6)](https://www.legislation.gov.uk/nia/2001/6)
 
-[^key-6d06bde6fa583e3ade836a122bba6a6f]: Commencement: Art. 1 in operation at 18.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/260/article/1)
+[^c-6d06bde6fa583e3ade836a122bba6a6f]: Commencement: Art. 1 in operation at 18.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/260/article/1)
 
-[^key-e5f62a6d7404a18e8bad3a4500511150]: Commencement: Art. 2 in operation at 18.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/260/article/1)
+[^c-e5f62a6d7404a18e8bad3a4500511150]: Commencement: Art. 2 in operation at 18.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/260/article/1)
 
-[^key-09ebd92c07e5c5629d5b04503cb54d76]: Commencement: Sch. in operation at 18.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/260/article/1)
+[^c-09ebd92c07e5c5629d5b04503cb54d76]: Commencement: Sch. in operation at 18.5.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/260/article/1)
 
-[^key-7d2a14c837ba0e299f0582ff72cf6910]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2007/260) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-7d2a14c837ba0e299f0582ff72cf6910]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2007/260) substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

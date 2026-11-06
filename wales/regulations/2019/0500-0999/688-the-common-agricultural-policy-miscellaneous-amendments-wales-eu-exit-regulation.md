@@ -43,7 +43,7 @@ The Welsh Ministers, in exercise of the powers conferred by paragraph 1(1) of Sc
 
 In accordance with paragraph 1(9) of Schedule 7 to that Act, a draft of this instrument has been laid before and approved by a resolution of the National Assembly for Wales.
 
-## 1. Title, commencement and application[^key-30392c1756b14d62c09258348e295b9b]
+## 1. Title, commencement and application[^c-30392c1756b14d62c09258348e295b9b]
 
 (1) The title of these Regulations is the Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019.
 
@@ -51,11 +51,11 @@ In accordance with paragraph 1(9) of Schedule 7 to that Act, a draft of this ins
 
 (3) These Regulations apply in relation to Wales.
 
-## 2. The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) Regulations 2006[^key-82e961fe4d96cae6a7f60885ff86c3ed][^key-479301efd1e5e6261a59a3b926a8e828]
+## 2. The Agricultural Subsidies and Grants Schemes (Appeals) (Wales) Regulations 2006[^c-82e961fe4d96cae6a7f60885ff86c3ed][^c-479301efd1e5e6261a59a3b926a8e828]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The Rural Development Programmes (Wales) Regulations 2014[^key-36ba691c2718c4cbe885932b7e6ebe26]
+## 3. The Rural Development Programmes (Wales) Regulations 2014[^c-36ba691c2718c4cbe885932b7e6ebe26]
 
 (1) The Rural Development Programmes (Wales) Regulations 2014 [^c23671411] are amended as follows.
 
@@ -79,11 +79,11 @@ In accordance with paragraph 1(9) of Schedule 7 to that Act, a draft of this ins
 - (a) omit paragraph (1)(j)(i);
 - (b) omit paragraph (3).
 
-## 4. The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^key-ad91adf5ab3c74ff54529e222c0c4363]
+## 4. The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014[^c-ad91adf5ab3c74ff54529e222c0c4363]
 
 (1) The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014 [^c23671421] are amended as follows.
 
-(2)[^key-22968ee1f0836e33d6df762a9faffce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-22968ee1f0836e33d6df762a9faffce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For regulation 7(7) substitute—
 
@@ -93,13 +93,13 @@ In accordance with paragraph 1(9) of Schedule 7 to that Act, a draft of this ins
 
 > (3) Paragraph (1) applies in relation to a person referred to in regulation 7(7) when such a person is acting under the instruction of an authorised person, as if such person were an authorised person.
 
-## 5. The Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015[^key-018ff43613ff2b85a8f30a1978f24ce8]
+## 5. The Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015[^c-018ff43613ff2b85a8f30a1978f24ce8]
 
 (1) The Common Agricultural Policy Basic Payment and Support Schemes (Wales) Regulations 2015 [^c23671431] are amended as follows.
 
-(2)[^key-66ed67cf84d38bd4811a8ad233acbdd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-66ed67cf84d38bd4811a8ad233acbdd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-66ed67cf84d38bd4811a8ad233acbdd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-66ed67cf84d38bd4811a8ad233acbdd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 18(1), after “Direct Payments Regulation” insert “ as it applied immediately prior to exit day ”.
 
@@ -119,24 +119,24 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23671391]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-30392c1756b14d62c09258348e295b9b]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-30392c1756b14d62c09258348e295b9b]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-82e961fe4d96cae6a7f60885ff86c3ed]: Textual amendment: Reg. 2 omitted (17.12.2020) by virtue of [The Direct Payments to Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/wsi/2020/1556), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b), [13(2)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/13/2)
+[^c-82e961fe4d96cae6a7f60885ff86c3ed]: Textual amendment: Reg. 2 omitted (17.12.2020) by virtue of [The Direct Payments to Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/wsi/2020/1556), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b), [13(2)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/13/2)
 
-[^key-479301efd1e5e6261a59a3b926a8e828]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-479301efd1e5e6261a59a3b926a8e828]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-36ba691c2718c4cbe885932b7e6ebe26]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-36ba691c2718c4cbe885932b7e6ebe26]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23671411]: Marginal citation: [S.I. 2014/3222](https://www.legislation.gov.uk/uksi/2014/3222) (W. 327).
 
-[^key-ad91adf5ab3c74ff54529e222c0c4363]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-ad91adf5ab3c74ff54529e222c0c4363]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23671421]: Marginal citation: [S.I. 2014/3223](https://www.legislation.gov.uk/uksi/2014/3223) (W. 328), to which there are amendments not relevant to these Regulations.
 
-[^key-22968ee1f0836e33d6df762a9faffce3]: Textual amendment: Reg. 4(2) omitted (17.12.2020) by virtue of [The Direct Payments to Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/wsi/2020/1556), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b), [13(3)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/13/3)
+[^c-22968ee1f0836e33d6df762a9faffce3]: Textual amendment: Reg. 4(2) omitted (17.12.2020) by virtue of [The Direct Payments to Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/wsi/2020/1556), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b), [13(3)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/13/3)
 
-[^key-018ff43613ff2b85a8f30a1978f24ce8]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-018ff43613ff2b85a8f30a1978f24ce8]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23671431]: Marginal citation: [S.I. 2015/1252](https://www.legislation.gov.uk/uksi/2015/1252) (W. 84), amended by [S.I. 2016/217](https://www.legislation.gov.uk/uksi/2016/217) (W. 86).
 
-[^key-66ed67cf84d38bd4811a8ad233acbdd0]: Textual amendment: Reg. 5(2)(3) omitted (17.12.2020) by virtue of [The Direct Payments to Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/wsi/2020/1556), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b), [13(4)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/13/4)
+[^c-66ed67cf84d38bd4811a8ad233acbdd0]: Textual amendment: Reg. 5(2)(3) omitted (17.12.2020) by virtue of [The Direct Payments to Farmers and Rural Affairs (Miscellaneous Amendments etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1556)](https://www.legislation.gov.uk/wsi/2020/1556), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/1/2/b), [13(4)](https://www.legislation.gov.uk/wsi/2020/1556/regulation/13/4)

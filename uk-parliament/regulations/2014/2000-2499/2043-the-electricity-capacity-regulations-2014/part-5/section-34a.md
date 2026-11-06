@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34A. Termination of capacity agreements: CCS CFDs[^key-95ed8f0409b2b4003a694eced829c0c3]
+## 34A. Termination of capacity agreements: CCS CFDs[^c-95ed8f0409b2b4003a694eced829c0c3]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95ed8f0409b2b4003a694eced829c0c3]: Textual amendment: [Reg. 34A](https://www.legislation.gov.uk/uksi/2014/2043/regulation/34A) inserted (23.7.2025) by [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/917/regulation/6)
+[^c-95ed8f0409b2b4003a694eced829c0c3]: Textual amendment: [Reg. 34A](https://www.legislation.gov.uk/uksi/2014/2043/regulation/34A) inserted (23.7.2025) by [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/917/regulation/6)

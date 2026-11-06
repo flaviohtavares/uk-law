@@ -30,7 +30,7 @@ summary: ''
 
 Equality
 
-The Equality Act 2010 (Qualifying Settlement[^key-e398772f870cae65d83cccfa6f30d07e] Contract Specified Person) Order 2010
+The Equality Act 2010 (Qualifying Settlement[^c-e398772f870cae65d83cccfa6f30d07e] Contract Specified Person) Order 2010
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 147(4)(d) and 207(1) of the Equality Act 2010[^f00001]:
 
-## 1. Citation and commencement[^key-671f262900e555ffef0ec2ea00850948]
+## 1. Citation and commencement[^c-671f262900e555ffef0ec2ea00850948]
 
-This Order may be cited as the Equality Act 2010 (Qualifying Settlement Agreement[^key-ff77645a2a65b98e16a0d8d3c88ae136] Specified Person) Order 2010 and comes into force on 1st October 2010.
+This Order may be cited as the Equality Act 2010 (Qualifying Settlement Agreement[^c-ff77645a2a65b98e16a0d8d3c88ae136] Specified Person) Order 2010 and comes into force on 1st October 2010.
 
-## 2. Person specified[^key-c36eacd98261f2c6bf4387726c44de17]
+## 2. Person specified[^c-c36eacd98261f2c6bf4387726c44de17]
 
 For the purpose of section 147(4)(d) of the Equality Act 2010, a Fellow of the Institute of Legal Executives practising in a solicitor’s practice (including a recognised body under section 9(1) of the Administration of Justice Act 1985[^f00002]) is specified.
 
@@ -70,14 +70,14 @@ A full impact assessment of the effect that the Act will have on the costs to bu
 
 ## Annotations
 
-[^key-e398772f870cae65d83cccfa6f30d07e]: Textual amendment: Word in Order title substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/17/a)
+[^c-e398772f870cae65d83cccfa6f30d07e]: Textual amendment: Word in Order title substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [Sch. para. 17(a)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/17/a)
 
 [^f00001]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-671f262900e555ffef0ec2ea00850948]: Commencement: Art. 1 in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2192/article/1)
+[^c-671f262900e555ffef0ec2ea00850948]: Commencement: Art. 1 in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2192/article/1)
 
-[^key-ff77645a2a65b98e16a0d8d3c88ae136]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2010/2192/article/1) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/17/b)
+[^c-ff77645a2a65b98e16a0d8d3c88ae136]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2010/2192/article/1) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/17/b)
 
-[^key-c36eacd98261f2c6bf4387726c44de17]: Commencement: Art. 2 in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2192/article/1)
+[^c-c36eacd98261f2c6bf4387726c44de17]: Commencement: Art. 2 in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/2192/article/1)
 
 [^f00002]: Footnote: [1985 c.61](https://www.legislation.gov.uk/ukpga/1985/61); section 9(1) has been amended by [SI 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), regulation 37(3) and Schedule 4, paragraph 15(1) and (2) and the Legal Services Act [2007 (c.29)](https://www.legislation.gov.uk/ukpga/2007/29), section 177(b), Schedule 16, Part 2, paragraphs 80 and 81(1), (2)(a) to (d).

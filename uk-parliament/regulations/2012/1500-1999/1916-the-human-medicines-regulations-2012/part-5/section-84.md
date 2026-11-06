@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. EU marketing authorisations: failure to provide information as to safety etc[^key-04351c0c6444834caa67996298a379f7]
+## 84. EU marketing authorisations: failure to provide information as to safety etc[^c-04351c0c6444834caa67996298a379f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04351c0c6444834caa67996298a379f7]: Textual amendment: [Regs. 81-88](https://www.legislation.gov.uk/uksi/2012/1916/regulation/81) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [65](https://www.legislation.gov.uk/uksi/2024/832/regulation/65)
+[^c-04351c0c6444834caa67996298a379f7]: Textual amendment: [Regs. 81-88](https://www.legislation.gov.uk/uksi/2012/1916/regulation/81) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [65](https://www.legislation.gov.uk/uksi/2024/832/regulation/65)

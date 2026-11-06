@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Power to prohibit sales from vending machines: Northern Ireland[^key-66a92d43edef138a81f43b0555ed1fbb]
+## 23. Power to prohibit sales from vending machines: Northern Ireland[^c-66a92d43edef138a81f43b0555ed1fbb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66a92d43edef138a81f43b0555ed1fbb]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/2009/21/section/23) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 31](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/31) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+[^c-66a92d43edef138a81f43b0555ed1fbb]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/2009/21/section/23) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 31](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/31) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))

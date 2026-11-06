@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Power to make provision for period before commencement of new social security appeal provisions[^key-d9c610a89ee7b2e88fb69d1cd95222f2][^key-58567c43ca4ac257285df7efaa80caea]
+## 14. Power to make provision for period before commencement of new social security appeal provisions[^c-d9c610a89ee7b2e88fb69d1cd95222f2][^c-58567c43ca4ac257285df7efaa80caea]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d9c610a89ee7b2e88fb69d1cd95222f2]: Commencement: Art. 14 in force at 24.3.1999 for specified purposes, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/1999/671/article/1/2/c)
+[^c-d9c610a89ee7b2e88fb69d1cd95222f2]: Commencement: Art. 14 in force at 24.3.1999 for specified purposes, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/1999/671/article/1/2/c)
 
-[^key-58567c43ca4ac257285df7efaa80caea]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/1999/671/article/14) in force at 1.4.1999 in so far as not already in force by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-58567c43ca4ac257285df7efaa80caea]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/1999/671/article/14) in force at 1.4.1999 in so far as not already in force by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))

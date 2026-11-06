@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Commission Regulation (EU) No 605/2010 laying down animal and public health and veterinary certification conditions for the introduction into the European Union of raw milk, dairy products, colostrum and colostrum-based products intended for human consumption[^key-1763ff07610511865fed3e6f7047bb8c]
+## 58. Commission Regulation (EU) No 605/2010 laying down animal and public health and veterinary certification conditions for the introduction into the European Union of raw milk, dairy products, colostrum and colostrum-based products intended for human consumption[^c-1763ff07610511865fed3e6f7047bb8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,4 +109,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1763ff07610511865fed3e6f7047bb8c]: Commencement: Reg. 58 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-1763ff07610511865fed3e6f7047bb8c]: Commencement: Reg. 58 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 306. Gazette notices relating to companies[^key-a628f72efd767d64c2d5ec042a6926d2]
+## 306. Gazette notices relating to companies[^c-a628f72efd767d64c2d5ec042a6926d2]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ In addition to the information required by rule 305 a notice relating to an inve
 
 ## Annotations
 
-[^key-a628f72efd767d64c2d5ec042a6926d2]: Commencement: [Rule 306](https://www.legislation.gov.uk/uksi/2011/1301/rule/306) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-a628f72efd767d64c2d5ec042a6926d2]: Commencement: [Rule 306](https://www.legislation.gov.uk/uksi/2011/1301/rule/306) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

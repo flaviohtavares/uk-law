@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-613500a8defa88173e2131174f8128d7]
+## 1. Citation and commencement[^c-613500a8defa88173e2131174f8128d7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Galloper Wind Farm Order 2013 and shall come into
 
 ## Annotations
 
-[^key-613500a8defa88173e2131174f8128d7]: Commencement: Art. 1 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)
+[^c-613500a8defa88173e2131174f8128d7]: Commencement: Art. 1 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)

@@ -44,9 +44,9 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 86(2A) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-77dfb70ad818fdfca791f63315551429]
+## 1. Citation and commencement[^c-77dfb70ad818fdfca791f63315551429]
 
-This Order may be cited as the Housing (Scotland) Act 1987 (Tolerable Standard) (Extension of Criteria) Order 2019 and comes into force on 1 February 2022[^key-212e67b3b58cf8de413141174eb09b45].
+This Order may be cited as the Housing (Scotland) Act 1987 (Tolerable Standard) (Extension of Criteria) Order 2019 and comes into force on 1 February 2022[^c-212e67b3b58cf8de413141174eb09b45].
 
 ## 2. Tolerable standard: extension of criteria[^M_I_eb8cc951-2a17-4bec-a8df-dac23f4c1d1f]
 
@@ -73,8 +73,8 @@ This Order extends the tolerable standard criteria set out in section 86(1) of t
 
 [^c23515511]: Marginal citation: [1987 c.26](https://www.legislation.gov.uk/ukpga/1987/26). Section 86 was amended by section 11 of the [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-77dfb70ad818fdfca791f63315551429]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2019/8/article/1) in force at 1.2.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2019/8/article/1) (as amended by [S.S.I. 2021/46](https://www.legislation.gov.uk/ssi/2021/46), [art. 2](https://www.legislation.gov.uk/ssi/2021/46/article/2)))
+[^c-77dfb70ad818fdfca791f63315551429]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2019/8/article/1) in force at 1.2.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2019/8/article/1) (as amended by [S.S.I. 2021/46](https://www.legislation.gov.uk/ssi/2021/46), [art. 2](https://www.legislation.gov.uk/ssi/2021/46/article/2)))
 
-[^key-212e67b3b58cf8de413141174eb09b45]: Textual amendment: Word in art. 1 substituted (28.1.2021) by [The Housing (Scotland) Act 1987 (Tolerable Standard) (Extension of Criteria) Amendment Order 2021 (S.S.I. 2021/46)](https://www.legislation.gov.uk/ssi/2021/46), [arts. 1](https://www.legislation.gov.uk/ssi/2021/46/article/1), [2](https://www.legislation.gov.uk/ssi/2021/46/article/2)
+[^c-212e67b3b58cf8de413141174eb09b45]: Textual amendment: Word in art. 1 substituted (28.1.2021) by [The Housing (Scotland) Act 1987 (Tolerable Standard) (Extension of Criteria) Amendment Order 2021 (S.S.I. 2021/46)](https://www.legislation.gov.uk/ssi/2021/46), [arts. 1](https://www.legislation.gov.uk/ssi/2021/46/article/1), [2](https://www.legislation.gov.uk/ssi/2021/46/article/2)
 
 [^M_I_eb8cc951-2a17-4bec-a8df-dac23f4c1d1f]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2019/8/article/1) in force at 1.2.2022, see [art. 1](https://www.legislation.gov.uk/ssi/2019/8/article/1) (as amended by [S.S.I. 2021/46](https://www.legislation.gov.uk/ssi/2021/46), [art. 2](https://www.legislation.gov.uk/ssi/2021/46/article/2)))

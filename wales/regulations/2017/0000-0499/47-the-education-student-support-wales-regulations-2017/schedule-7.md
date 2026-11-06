@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule 7 — Higher Education Classification of Subjects Course Codes and Labels[^key-2c2f6c51cf829e5fcea420cfecbad433]
+## Schedule 7 — Higher Education Classification of Subjects Course Codes and Labels[^c-2c2f6c51cf829e5fcea420cfecbad433]
 
 *Extent: E+W*
 
 (Regulation 81(28))
 
-Table 1 sets out the Higher Education Classification of Subjects (HECoS) course codes and labels for the purposes of paragraph (28)(b) of regulation 81[^key-8c1601469fbee79f77eed4351e196171]. “The Higher Education Classification of Subjects” has the meaning given in paragraph (29) of regulation 81.[^key-f0905aa510db63364fd26af469093631]
+Table 1 sets out the Higher Education Classification of Subjects (HECoS) course codes and labels for the purposes of paragraph (28)(b) of regulation 81[^c-8c1601469fbee79f77eed4351e196171]. “The Higher Education Classification of Subjects” has the meaning given in paragraph (29) of regulation 81.[^c-f0905aa510db63364fd26af469093631]
 
 Table 1
 
 | HECoS code | HECoS label |
 | --- | --- |
-| 100706[^key-2085df741f2acc6b14330b8d411a527a] | Hair and make-up |
+| 100706[^c-2085df741f2acc6b14330b8d411a527a] | Hair and make-up |
 | 101374 | Hair services |
 | 100131 | Radiology |
 | 100456 | Childhood studies |
@@ -79,10 +79,10 @@ Table 1
 
 ## Annotations
 
-[^key-2c2f6c51cf829e5fcea420cfecbad433]: Textual amendment: Sch. 7 inserted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [reg. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [Sch. 1](https://www.legislation.gov.uk/wsi/2019/235/schedule/1)
+[^c-2c2f6c51cf829e5fcea420cfecbad433]: Textual amendment: Sch. 7 inserted (with application in accordance with reg. 1(3)(b) of the amending S.I.) by [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/235)](https://www.legislation.gov.uk/wsi/2019/235), [reg. 1(3)(a)](https://www.legislation.gov.uk/wsi/2019/235/regulation/1/3/a), [Sch. 1](https://www.legislation.gov.uk/wsi/2019/235/schedule/1)
 
-[^key-8c1601469fbee79f77eed4351e196171]: Textual amendment: Words in Sch. 7 substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/wsi/2021/73), [reg. 43(a)](https://www.legislation.gov.uk/wsi/2021/73/regulation/43/a)
+[^c-8c1601469fbee79f77eed4351e196171]: Textual amendment: Words in Sch. 7 substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/wsi/2021/73), [reg. 43(a)](https://www.legislation.gov.uk/wsi/2021/73/regulation/43/a)
 
-[^key-f0905aa510db63364fd26af469093631]: Textual amendment: Words in Sch. 7 inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/wsi/2021/73), [reg. 43(b)](https://www.legislation.gov.uk/wsi/2021/73/regulation/43/b)
+[^c-f0905aa510db63364fd26af469093631]: Textual amendment: Words in Sch. 7 inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/wsi/2021/73), [reg. 43(b)](https://www.legislation.gov.uk/wsi/2021/73/regulation/43/b)
 
-[^key-2085df741f2acc6b14330b8d411a527a]: Textual amendment: Sch. 7 Table 1 substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/wsi/2021/73), [reg. 43(c)](https://www.legislation.gov.uk/wsi/2021/73/regulation/43/c)
+[^c-2085df741f2acc6b14330b8d411a527a]: Textual amendment: Sch. 7 Table 1 substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/wsi/2021/73), [reg. 43(c)](https://www.legislation.gov.uk/wsi/2021/73/regulation/43/c)

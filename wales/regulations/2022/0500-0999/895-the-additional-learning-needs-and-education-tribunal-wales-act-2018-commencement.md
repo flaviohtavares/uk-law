@@ -37,7 +37,7 @@ Made
 
 The Welsh Ministers, in exercise of the powers conferred by section 100(3) and (4) of the Additional Learning Needs and Education Tribunal (Wales) Act 2018[^f00001], make the following Order:
 
-## 1. Title and interpretation[^key-204a276f72615f3a01a6b106db586cf4]
+## 1. Title and interpretation[^c-204a276f72615f3a01a6b106db586cf4]
 
 (1) The title of this Order is the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 12) Order 2022.
 
@@ -76,11 +76,11 @@ The Welsh Ministers, in exercise of the powers conferred by section 100(3) and (
 
 (4) This Order does not apply to a person in relation to whom provisions of the Act were commenced by the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 2) Order 2021[^f00014] or the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 7) Order 2021[^f00015].
 
-## 2. Meaning of identified special educational needs[^key-bc1ba6191e6fa7df006dbce1914bd486]
+## 2. Meaning of identified special educational needs[^c-bc1ba6191e6fa7df006dbce1914bd486]
 
 A child “C” has “**identified special educational needs**” for the purposes of this Order if C has a learning difficulty identified by a proprietor or a local authority which calls for special educational provision to be made for C.
 
-## 3. Provisions coming into force on 1 September 2022[^key-e86f6153087b8a730ab687a15dbed040]
+## 3. Provisions coming into force on 1 September 2022[^c-e86f6153087b8a730ab687a15dbed040]
 
 The following provisions of the Act come into force on 1 September 2022 except in relation to a person who falls into any of the paragraphs in article 4 on 1 September 2022—
 
@@ -126,7 +126,7 @@ The following provisions of the Act come into force on 1 September 2022 except i
   - (xxv) paragraph 24(1) for the purposes of the provisions in sub-paragraph (xxvi);
   - (xxvi) paragraph 24(3) and (6)(a).
 
-**4.**[^key-6c539cd82f46d5d0052fa4a9e89edc6e] A person—
+**4.**[^c-6c539cd82f46d5d0052fa4a9e89edc6e] A person—
 
 - (a) who is over compulsory school age;
 - (b) who has identified special educational needs;
@@ -282,7 +282,7 @@ The following provisions of the Act have been brought into force by Commencement
 
 [^f00001]: Footnote: [2018 anaw 2](https://www.legislation.gov.uk/anaw/2018/2).
 
-[^key-204a276f72615f3a01a6b106db586cf4]: Commencement: Art. 1 in force at made date
+[^c-204a276f72615f3a01a6b106db586cf4]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
@@ -312,13 +312,13 @@ The following provisions of the Act have been brought into force by Commencement
 
 [^f00015]: Footnote: [S.I. 2021/1245 (W. 317) (C. 70)](https://www.legislation.gov.uk/wsi/2021/1245).
 
-[^key-bc1ba6191e6fa7df006dbce1914bd486]: Commencement: Art. 2 in force at made date
+[^c-bc1ba6191e6fa7df006dbce1914bd486]: Commencement: Art. 2 in force at made date
 
-[^key-e86f6153087b8a730ab687a15dbed040]: Commencement: Art. 3 in force at made date
+[^c-e86f6153087b8a730ab687a15dbed040]: Commencement: Art. 3 in force at made date
 
 [^f00016]: Footnote: Paragraph 4(7) (“the provision”) has been repealed by paragraph 75 of Schedule 2 to the Curriculum and Assessment (Wales) Act 2021 (asc 4) (“**the 2021 Act**”). However, the provision has been saved by the Curriculum and Assessment (Wales) Act 2021 (Transitional and Saving Provision) Regulations 2022 ([S.I. 2022/111 (W. 39)](https://www.legislation.gov.uk/wsi/2022/111)) in relation to a child or pupil provided with education under the old curriculum (i.e. in relation to whom the 2021 Act has not been commenced). The effect of that saving provision is that paragraph 4(7) of the Schedule to the Act remains in force until such time as the child or pupil is provided with education under the 2021 Act.
 
-[^key-6c539cd82f46d5d0052fa4a9e89edc6e]: Commencement: Art. 4 in force at made date
+[^c-6c539cd82f46d5d0052fa4a9e89edc6e]: Commencement: Art. 4 in force at made date
 
 [^f00017]: Footnote: See the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 8 and Transitional and Saving Provisions) Order 2022 ([S.I. 2022/891 (W. 188) (C. 55))](https://www.legislation.gov.uk/wsi/2022/891), Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 9 and Transitional and Saving Provisions) Order 2022 ([S.I. 2022/892 (W. 189) (C. 56))](https://www.legislation.gov.uk/wsi/2022/892), the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 10) Order 2022 ([S.I. 2022/893 (W. 190) (C. 57))](https://www.legislation.gov.uk/wsi/2022/893), the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 11) Order 2022 ([S.I. 2022/894 (W. 191) (C. 58))](https://www.legislation.gov.uk/wsi/2022/894), the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 13 and Transitional and Saving Provisions) Order 2022 ([S.I. 2022/896 (W. 193) (C. 60))](https://www.legislation.gov.uk/wsi/2022/896), the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 14 and Transitional and Saving Provisions) Order 2022 ([S.I. 2022/897 (W. 194) (C. 61))](https://www.legislation.gov.uk/wsi/2022/897) and the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 15) Order 2022 ([S.I. 2022/898 (W. 195) (C. 62))](https://www.legislation.gov.uk/wsi/2022/898) which bring provisions into force for certain purposes on the same date as this Order.
 

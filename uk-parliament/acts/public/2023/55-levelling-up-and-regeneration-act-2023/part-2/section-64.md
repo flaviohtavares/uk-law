@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Membership of combined authority[^key-fe8583fc03bf4a03e1e3a05e29938b1c]
+## 64. Membership of combined authority[^c-fe8583fc03bf4a03e1e3a05e29938b1c]
 
 *Extent: E+W*
 
@@ -162,4 +162,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe8583fc03bf4a03e1e3a05e29938b1c]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2023/55/section/64) in force at 26.12.2023, see [s. 255(2)(h)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/h)
+[^c-fe8583fc03bf4a03e1e3a05e29938b1c]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2023/55/section/64) in force at 26.12.2023, see [s. 255(2)(h)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/h)

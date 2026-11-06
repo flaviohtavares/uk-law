@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Extension of powers under s. 60 of Health Act 1999[^key-e7ef4d14e4dda7ce15c16cead435d9cd][^key-362c8c0f6fd50d855b08af932c7a0a0e]
+## 111. Extension of powers under s. 60 of Health Act 1999[^c-e7ef4d14e4dda7ce15c16cead435d9cd][^c-362c8c0f6fd50d855b08af932c7a0a0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 8 (which contains amendments of section 60 of, and Schedule 3 to, the 1
 
 ## Annotations
 
-[^key-e7ef4d14e4dda7ce15c16cead435d9cd]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2008/14/section/111) in force at 1.10.2008 for specified purposes by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/2497/article/3/a)
+[^c-e7ef4d14e4dda7ce15c16cead435d9cd]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2008/14/section/111) in force at 1.10.2008 for specified purposes by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/2497/article/3/a)
 
-[^key-362c8c0f6fd50d855b08af932c7a0a0e]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2008/14/section/111) in force at 1.1.2009 for specified purposes by [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/3244/article/3/a)
+[^c-362c8c0f6fd50d855b08af932c7a0a0e]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2008/14/section/111) in force at 1.1.2009 for specified purposes by [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/3244/article/3/a)

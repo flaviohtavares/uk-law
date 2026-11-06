@@ -26,7 +26,7 @@ Article 39
 
 In column (1) of each of the tables below, the number before the full stop refers to the relevant sheet number of the traffic regulation and rights of way plans, and the number after the full stop refers to the relevant traffic regulation reference number shown on that sheet. In the event of there being any discrepancy between a provision in this Schedule and the illustration of that provision shown on the traffic regulation and rights of way plans, this Schedule prevails.
 
-### PART 1 — NO WAITING AT ANY TIME[^key-902b892d11356802e5a40918ad54a0a1]
+### PART 1 — NO WAITING AT ANY TIME[^c-902b892d11356802e5a40918ad54a0a1]
 
 | *(1)*<br>*No.* | *(2)*<br>*Road* | *(3)*<br>*Extent* | *(4)*<br>*Notes* |
 | --- | --- | --- | --- |
@@ -47,7 +47,7 @@ In column (1) of each of the tables below, the number before the full stop refer
 | 1.15 | Canal Wharf | North-east side from its junction with Water Lane in a north-westerly direction for 28 metres | To maintain vehicular flow |
 | 1.16 | Wharf Approach | East side from its junction with Canal Wharf in a southerly direction for 48 metres | To maintain vehicular flow |
 
-### PART 2 — NO LOADING AT ANY TIME[^key-b05eb6532292b82bebeed9fc49abbd4b]
+### PART 2 — NO LOADING AT ANY TIME[^c-b05eb6532292b82bebeed9fc49abbd4b]
 
 | *(1)*<br>*No.* | *(2)*<br>*Road* | *(3)*<br>*Extent* | *(4)*<br>*Notes* |
 | --- | --- | --- | --- |
@@ -68,13 +68,13 @@ In column (1) of each of the tables below, the number before the full stop refer
 | 2.15 | Canal Wharf | North-east side from its junction with Water Lane in a north-westerly direction for 28 metres | To maintain vehicular flow |
 | 2.16 | Wharf Approach | East side from its junction with Canal Wharf in a southerly direction for 48 metres | To maintain vehicular flow |
 
-### PART 3 — PRESCRIBED MOVEMENT OF TRAFFIC[^key-900f389e2d9ddf42a1313c1a51dd1d5b]
+### PART 3 — PRESCRIBED MOVEMENT OF TRAFFIC[^c-900f389e2d9ddf42a1313c1a51dd1d5b]
 
 | *(1)*<br>*No.* | *(2)*<br>*Road* | *(3)*<br>*Extent* | *(4)*<br>*Notes* |
 | --- | --- | --- | --- |
 | 3.1 | Little Neville Street | Compulsory ahead only movement onto Sovereign Street |  |
 
-### PART 4 — PROHIBITION OF DRIVING WITH SPECIFIED EXEMPTIONS[^key-78579d9d4ece5f946bbd0afed7827407]
+### PART 4 — PROHIBITION OF DRIVING WITH SPECIFIED EXEMPTIONS[^c-78579d9d4ece5f946bbd0afed7827407]
 
 | *(1)*<br>*No.* | *(2)*<br>*Road* | *(3)*<br>*Extent* | *(4)*<br>*Notes* |
 | --- | --- | --- | --- |
@@ -82,10 +82,10 @@ In column (1) of each of the tables below, the number before the full stop refer
 
 ## Annotations
 
-[^key-902b892d11356802e5a40918ad54a0a1]: Commencement: Sch. 11 Pt. 1 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-902b892d11356802e5a40918ad54a0a1]: Commencement: Sch. 11 Pt. 1 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
 
-[^key-b05eb6532292b82bebeed9fc49abbd4b]: Commencement: Sch. 11 Pt. 2 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-b05eb6532292b82bebeed9fc49abbd4b]: Commencement: Sch. 11 Pt. 2 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
 
-[^key-900f389e2d9ddf42a1313c1a51dd1d5b]: Commencement: Sch. 11 Pt. 3 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-900f389e2d9ddf42a1313c1a51dd1d5b]: Commencement: Sch. 11 Pt. 3 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
 
-[^key-78579d9d4ece5f946bbd0afed7827407]: Commencement: Sch. 11 Pt. 4 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-78579d9d4ece5f946bbd0afed7827407]: Commencement: Sch. 11 Pt. 4 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Information about payment of annual allowance charge[^key-e6634b93de99e783b92c8c68b8ef63a2]
+## 180. Information about payment of annual allowance charge[^c-e6634b93de99e783b92c8c68b8ef63a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e6634b93de99e783b92c8c68b8ef63a2]: Commencement: [Reg. 180](https://www.legislation.gov.uk/uksi/2014/2848/regulation/180) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-e6634b93de99e783b92c8c68b8ef63a2]: Commencement: [Reg. 180](https://www.legislation.gov.uk/uksi/2014/2848/regulation/180) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
 [^f00069]: Footnote: [S.I.2006/569](https://www.legislation.gov.uk/uksi/2006/569); regulation 14A was inserted by regulations 2 and 8 of [S.I.2011/1797](https://www.legislation.gov.uk/uksi/2011/1797).
 

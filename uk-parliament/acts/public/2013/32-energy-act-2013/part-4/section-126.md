@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Application of the Pipe-lines Act 1962[^key-9d73f72e51d7001320fcd6a7f4790935]
+## 126. Application of the Pipe-lines Act 1962[^c-9d73f72e51d7001320fcd6a7f4790935]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ apply in relation to any such part as if it were a pipe-line constructed pursuan
 
 ## Annotations
 
-[^key-9d73f72e51d7001320fcd6a7f4790935]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2013/32/section/126) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)
+[^c-9d73f72e51d7001320fcd6a7f4790935]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2013/32/section/126) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)

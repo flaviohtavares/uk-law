@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Meaning of “fire safety risk” in relation to relevant HMO[^key-40298ea537e56880e91870c4cbf55c8b]
+## 80. Meaning of “fire safety risk” in relation to relevant HMO[^c-40298ea537e56880e91870c4cbf55c8b]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In this Act “**fire safety risk**”, in relation to a relevant HMO, means a r
 
 ## Annotations
 
-[^key-40298ea537e56880e91870c4cbf55c8b]: Commencement: S. 80 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-40298ea537e56880e91870c4cbf55c8b]: Commencement: S. 80 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

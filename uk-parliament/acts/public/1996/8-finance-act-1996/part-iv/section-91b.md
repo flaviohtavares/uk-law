@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91B. Non-qualifying shares[^key-b7fa2a7f81a40691d0d8e979c257f6e8]
+## 91B. Non-qualifying shares[^c-b7fa2a7f81a40691d0d8e979c257f6e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7fa2a7f81a40691d0d8e979c257f6e8]: Textual amendment: [S. 91B](https://www.legislation.gov.uk/ukpga/1996/8/section/91B) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 418](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/418), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-b7fa2a7f81a40691d0d8e979c257f6e8]: Textual amendment: [S. 91B](https://www.legislation.gov.uk/ukpga/1996/8/section/91B) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 418](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/418), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

@@ -31,68 +31,68 @@ Police and Firemen (War Service) Act 1939 (repealed)
 
 1939 c.103
 
-[^key-b9392d54093a5b4c2c1c1ce6fdae1061]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9392d54093a5b4c2c1c1ce6fdae1061]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[7th September 1939\]
 
 **No longer in force.**
 
-## Civil Remuneration and Superannuation[^key-b9392d54093a5b4c2c1c1ce6fdae1061]
+## Civil Remuneration and Superannuation[^c-b9392d54093a5b4c2c1c1ce6fdae1061]
 
-### 1. Payments to make up amount of civil remuneration.[^key-b9392d54093a5b4c2c1c1ce6fdae1061][^key-b9392d54093a5b4c2c1c1ce6fdae1061]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Reckoning of war service for purposes of superannuation.[^key-b9392d54093a5b4c2c1c1ce6fdae1061][^key-b9392d54093a5b4c2c1c1ce6fdae1061]
+### 1. Payments to make up amount of civil remuneration.[^c-b9392d54093a5b4c2c1c1ce6fdae1061][^c-b9392d54093a5b4c2c1c1ce6fdae1061]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b9392d54093a5b4c2c1c1ce6fdae1061][^key-b9392d54093a5b4c2c1c1ce6fdae1061]
-
-### 4. Grants in case of death or incapacity.[^key-b9392d54093a5b4c2c1c1ce6fdae1061][^key-b9392d54093a5b4c2c1c1ce6fdae1061]
+### 2. Reckoning of war service for purposes of superannuation.[^c-b9392d54093a5b4c2c1c1ce6fdae1061][^c-b9392d54093a5b4c2c1c1ce6fdae1061]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Reckoning of pay during war service.[^key-b9392d54093a5b4c2c1c1ce6fdae1061][^key-b9392d54093a5b4c2c1c1ce6fdae1061]
+### 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b9392d54093a5b4c2c1c1ce6fdae1061][^c-b9392d54093a5b4c2c1c1ce6fdae1061]
+
+### 4. Grants in case of death or incapacity.[^c-b9392d54093a5b4c2c1c1ce6fdae1061][^c-b9392d54093a5b4c2c1c1ce6fdae1061]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6.[^key-b9392d54093a5b4c2c1c1ce6fdae1061][^key-b9392d54093a5b4c2c1c1ce6fdae1061]
+### 5. Reckoning of pay during war service.[^c-b9392d54093a5b4c2c1c1ce6fdae1061][^c-b9392d54093a5b4c2c1c1ce6fdae1061]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Exception of certain firemen.[^key-b9392d54093a5b4c2c1c1ce6fdae1061][^key-b9392d54093a5b4c2c1c1ce6fdae1061]
+### 6.[^c-b9392d54093a5b4c2c1c1ce6fdae1061][^c-b9392d54093a5b4c2c1c1ce6fdae1061]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Miscellaneous and General[^key-b9392d54093a5b4c2c1c1ce6fdae1061]
-
-### 8, 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b9392d54093a5b4c2c1c1ce6fdae1061][^key-b9392d54093a5b4c2c1c1ce6fdae1061]
-
-### 10. Suspension of right to retire on pension.[^key-b9392d54093a5b4c2c1c1ce6fdae1061][^key-b9392d54093a5b4c2c1c1ce6fdae1061]
+### 7. Exception of certain firemen.[^c-b9392d54093a5b4c2c1c1ce6fdae1061][^c-b9392d54093a5b4c2c1c1ce6fdae1061]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. War injuries to be deemed non-accidental injuries.[^key-b9392d54093a5b4c2c1c1ce6fdae1061][^key-b9392d54093a5b4c2c1c1ce6fdae1061]
+## Miscellaneous and General[^c-b9392d54093a5b4c2c1c1ce6fdae1061]
+
+### 8, 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b9392d54093a5b4c2c1c1ce6fdae1061][^c-b9392d54093a5b4c2c1c1ce6fdae1061]
+
+### 10. Suspension of right to retire on pension.[^c-b9392d54093a5b4c2c1c1ce6fdae1061][^c-b9392d54093a5b4c2c1c1ce6fdae1061]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b9392d54093a5b4c2c1c1ce6fdae1061][^key-b9392d54093a5b4c2c1c1ce6fdae1061]
-
-### 13. Provision as to persons called out or under training.[^key-b9392d54093a5b4c2c1c1ce6fdae1061][^key-b9392d54093a5b4c2c1c1ce6fdae1061]
+### 11. War injuries to be deemed non-accidental injuries.[^c-b9392d54093a5b4c2c1c1ce6fdae1061][^c-b9392d54093a5b4c2c1c1ce6fdae1061]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Interpretation.[^key-b9392d54093a5b4c2c1c1ce6fdae1061][^key-b9392d54093a5b4c2c1c1ce6fdae1061]
+### 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b9392d54093a5b4c2c1c1ce6fdae1061][^c-b9392d54093a5b4c2c1c1ce6fdae1061]
+
+### 13. Provision as to persons called out or under training.[^c-b9392d54093a5b4c2c1c1ce6fdae1061][^c-b9392d54093a5b4c2c1c1ce6fdae1061]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b9392d54093a5b4c2c1c1ce6fdae1061][^key-b9392d54093a5b4c2c1c1ce6fdae1061]
+### 14. Interpretation.[^c-b9392d54093a5b4c2c1c1ce6fdae1061][^c-b9392d54093a5b4c2c1c1ce6fdae1061]
 
-### 16. †Short title, commencement and extent.[^key-b9392d54093a5b4c2c1c1ce6fdae1061][^key-b9392d54093a5b4c2c1c1ce6fdae1061]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b9392d54093a5b4c2c1c1ce6fdae1061][^c-b9392d54093a5b4c2c1c1ce6fdae1061]
+
+### 16. †Short title, commencement and extent.[^c-b9392d54093a5b4c2c1c1ce6fdae1061][^c-b9392d54093a5b4c2c1c1ce6fdae1061]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b9392d54093a5b4c2c1c1ce6fdae1061]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6/2-3/103) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/6)
+[^c-b9392d54093a5b4c2c1c1ce6fdae1061]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6/2-3/103) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/6)

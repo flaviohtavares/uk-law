@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Composition of committee when creditors paid in full[^key-a0bfa210f196a7021ebf7474e9ebf375]
+## 134. Composition of committee when creditors paid in full[^c-a0bfa210f196a7021ebf7474e9ebf375]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0bfa210f196a7021ebf7474e9ebf375]: Commencement: Rule 134 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-a0bfa210f196a7021ebf7474e9ebf375]: Commencement: Rule 134 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

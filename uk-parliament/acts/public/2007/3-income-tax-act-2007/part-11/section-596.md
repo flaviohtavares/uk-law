@@ -20,24 +20,24 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-c76da8ead044f52fc50b0837682c3731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-c76da8ead044f52fc50b0837682c3731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-c76da8ead044f52fc50b0837682c3731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-c76da8ead044f52fc50b0837682c3731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1B)[^key-c76da8ead044f52fc50b0837682c3731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-c76da8ead044f52fc50b0837682c3731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1C)[^key-c76da8ead044f52fc50b0837682c3731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1C)[^c-c76da8ead044f52fc50b0837682c3731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-c76da8ead044f52fc50b0837682c3731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c76da8ead044f52fc50b0837682c3731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c76da8ead044f52fc50b0837682c3731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c76da8ead044f52fc50b0837682c3731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c76da8ead044f52fc50b0837682c3731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c76da8ead044f52fc50b0837682c3731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-fc5d8c074227f6b5b28cc603ce363504] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-fc5d8c074227f6b5b28cc603ce363504] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c76da8ead044f52fc50b0837682c3731]: Textual amendment: S. 596(1)-(4) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 18(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/18/b)
+[^c-c76da8ead044f52fc50b0837682c3731]: Textual amendment: S. 596(1)-(4) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 18(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/18/b)
 
-[^key-fc5d8c074227f6b5b28cc603ce363504]: Textual amendment: S. 596(5) omitted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/15/2/a)
+[^c-fc5d8c074227f6b5b28cc603ce363504]: Textual amendment: S. 596(5) omitted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/15/2/a)

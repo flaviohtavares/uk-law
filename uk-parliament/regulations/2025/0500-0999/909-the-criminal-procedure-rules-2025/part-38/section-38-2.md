@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38.2. Decision to appeal[^key-051857f91ea0eec572e354f92624cfb8]
+## 38.2. Decision to appeal[^c-051857f91ea0eec572e354f92624cfb8]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-051857f91ea0eec572e354f92624cfb8]: Commencement: [Rule 38.2](https://www.legislation.gov.uk/uksi/2025/909/rule/38.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-051857f91ea0eec572e354f92624cfb8]: Commencement: [Rule 38.2](https://www.legislation.gov.uk/uksi/2025/909/rule/38.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -32,7 +32,7 @@ summary: ''
 (4) A statutory instrument containing—
 
 - (a) an order under section 27(1),
-- (b)[^key-a179922b443ba51013a5938e1a5f47c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a179922b443ba51013a5938e1a5f47c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) an order under section 92(1),
 - (d) an order under section 204(1) containing provisions which modify any enactment (including this Act), or
 - (e) an order under section 205(1) containing provisions which add to, replace or omit any part of the text of an Act,
@@ -41,4 +41,4 @@ is not to be made unless a draft of the instrument containing the order has been
 
 ## Annotations
 
-[^key-a179922b443ba51013a5938e1a5f47c5]: Textual amendment: [S. 201(4)(b)](https://www.legislation.gov.uk/asp/2010/13/section/201/4/b) omitted (31.12.2020) by virtue of [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [15(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/15/3) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))
+[^c-a179922b443ba51013a5938e1a5f47c5]: Textual amendment: [S. 201(4)(b)](https://www.legislation.gov.uk/asp/2010/13/section/201/4/b) omitted (31.12.2020) by virtue of [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [15(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/15/3) (with [reg. 16](https://www.legislation.gov.uk/ssi/2020/339/regulation/16))

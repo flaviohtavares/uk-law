@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Inclusion in departmental estimates of resources used by designated bodies[^key-c982f1423c3b51881472462468b1df7b]
+## 43. Inclusion in departmental estimates of resources used by designated bodies[^c-c982f1423c3b51881472462468b1df7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,4 +89,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c982f1423c3b51881472462468b1df7b]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2010/25/section/43) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/c)
+[^c-c982f1423c3b51881472462468b1df7b]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2010/25/section/43) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(c)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/c)

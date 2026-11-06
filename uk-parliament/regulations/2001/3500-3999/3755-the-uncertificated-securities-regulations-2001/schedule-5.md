@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — ADAPTATIONS IN RESPECT OF NORTHERN IRELAND[^key-eac65357dc22a9f193f9b909178d9edf]
+## SCHEDULE 5 — ADAPTATIONS IN RESPECT OF NORTHERN IRELAND[^c-eac65357dc22a9f193f9b909178d9edf]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Regulation 49(5)
 
 ## Annotations
 
-[^key-eac65357dc22a9f193f9b909178d9edf]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2001/3755/schedule/5) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(22)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/22)
+[^c-eac65357dc22a9f193f9b909178d9edf]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2001/3755/schedule/5) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(22)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/22)

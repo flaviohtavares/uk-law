@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Supplementary powers with authorisation[^key-b172002b8186af8e9c0f938ef01df0d2]
+## 43. Supplementary powers with authorisation[^c-b172002b8186af8e9c0f938ef01df0d2]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b172002b8186af8e9c0f938ef01df0d2]: Commencement: S. 43 in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/e)
+[^c-b172002b8186af8e9c0f938ef01df0d2]: Commencement: S. 43 in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/e)

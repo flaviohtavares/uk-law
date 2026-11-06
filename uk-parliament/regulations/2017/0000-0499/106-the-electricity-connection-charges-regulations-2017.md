@@ -50,26 +50,26 @@ In exercise of the powers conferred by sections 19(3A), 60(3) and 64(1) of, and 
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-b6f436359947051ad2660c85b1e6e1d6]
+### 1. Citation and commencement[^c-b6f436359947051ad2660c85b1e6e1d6]
 
 These Regulations may be cited as the Electricity (Connection Charges) Regulations 2017 and come into force on 6th April 2017.
 
-### 2. Interpretation[^key-583e7a2ac469dea54daa59b109eb12ff]
+### 2. Interpretation[^c-583e7a2ac469dea54daa59b109eb12ff]
 
 In these Regulations—
 
 - “the Act” means the Electricity Act 1989;
 - “administrative expenses” means the expenses reasonably incurred by a relevant electricity distributor[^f00003] in discharging its obligations under these Regulations;
 - “eligible person” has the meaning given in regulation 5;
-- “[^key-053d54ced3eb35c4bfb05b8fbae45b8c]**high expenses threshold**” means the threshold, expressed in pounds per unit of power, applied by the relevant electricity distributor in relation to the expenses of a connection;
-- [^key-d2e3b4944dde34fa1a980f6b57e070a8]...
+- “[^c-053d54ced3eb35c4bfb05b8fbae45b8c]**high expenses threshold**” means the threshold, expressed in pounds per unit of power, applied by the relevant electricity distributor in relation to the expenses of a connection;
+- [^c-d2e3b4944dde34fa1a980f6b57e070a8]...
 - “independent connection provider” means a person, other than an electricity distributor, who provides electric line or electrical plant for the purpose of making a first connection[^f00004] or a second connection[^f00005];
 - “initial contributor”, in relation to a first connection, means a person who has—
   - (a) obtained the first connection; and
   - (b) made a payment to an electricity distributor or to an independent connection provider in respect of first connection expenses[^f00006];
-- [^key-d2e3b4944dde34fa1a980f6b57e070a8]...
-- [^key-d2e3b4944dde34fa1a980f6b57e070a8]...
-- “[^key-75e1ec86705fa3a165125909880e8cce]**net first connection expenses**”, in relation to a second connection, means the first connection expenses excluding such of those expenses relating to reinforcement works—
+- [^c-d2e3b4944dde34fa1a980f6b57e070a8]...
+- [^c-d2e3b4944dde34fa1a980f6b57e070a8]...
+- “[^c-75e1ec86705fa3a165125909880e8cce]**net first connection expenses**”, in relation to a second connection, means the first connection expenses excluding such of those expenses relating to reinforcement works—
   - (a) which were met in full by the relevant electricity distributor or the initial contributor;
   - (b) which fell above the high expenses threshold and were met by the initial contributor;
   - (c) which the relevant electricity distributor would not require the person obtaining the second connection to defray under section 19(1) of the Act if the electric line or electrical plant used for the purpose of the second connection were treated as provided for the purpose of making a new first connection;
@@ -85,15 +85,15 @@ In these Regulations—
 
 ## PART 2 — Reimbursement payments
 
-### 3. Application of this Part[^key-b16420652a051740fc05e795de159f04]
+### 3. Application of this Part[^c-b16420652a051740fc05e795de159f04]
 
 This Part applies in cases where a first connection is made on or after 6th April 2017.
 
-### 4. Prescribed period[^key-c59e9b20953e44ce37448bd9038c321b]
+### 4. Prescribed period[^c-c59e9b20953e44ce37448bd9038c321b]
 
 For the purpose of condition D in paragraph 1(5) of Schedule 5B to the Act, the prescribed period is ten years after the first connection was made.
 
-### 5. Eligible persons[^key-fafc7bc7c1f8140c8b4c0788085a6a75]
+### 5. Eligible persons[^c-fafc7bc7c1f8140c8b4c0788085a6a75]
 
 (1) For the purposes of this Part, where a second connection is made, each of the following persons is an “eligible person” in relation to first connection expenses—
 
@@ -116,7 +116,7 @@ For the purpose of condition D in paragraph 1(5) of Schedule 5B to the Act, the 
 
 (2) In paragraph (1), “the relevant time” means the time at which the second connection is made.
 
-### 6. Requirements where a second connection is to be made[^key-2e81c8bde9953580067e1de976be0d66]
+### 6. Requirements where a second connection is to be made[^c-2e81c8bde9953580067e1de976be0d66]
 
 (1) This regulation applies where—
 
@@ -131,7 +131,7 @@ For the purpose of condition D in paragraph 1(5) of Schedule 5B to the Act, the 
 - (a) that upon the second connection being made the person may be liable to pay a reimbursement payment; and
 - (b) the amount, or an estimate of the amount, of that payment.
 
-### 7. Demanding a reimbursement payment[^key-c0efb51374fa88af71d6d5f49d8ce6e3]
+### 7. Demanding a reimbursement payment[^c-c0efb51374fa88af71d6d5f49d8ce6e3]
 
 (1) This regulation applies where—
 
@@ -149,7 +149,7 @@ For the purpose of condition D in paragraph 1(5) of Schedule 5B to the Act, the 
 
 (4) For the purposes of paragraph (3), the appropriate proportion of the net first connection expenses is the proportion of those expenses which appears to the relevant electricity distributor to be reasonable having regard to all the circumstances, including in particular the maximum capacity required by the person obtaining the second connection.
 
-(5)[^key-5e0d70f47c15d1b58a19ba4449956db5] A relevant electricity distributor is not required—
+(5)[^c-5e0d70f47c15d1b58a19ba4449956db5] A relevant electricity distributor is not required—
 
 - (a) to demand a reimbursement payment in any case where the amount of the reimbursement payment would, after deduction of administrative expenses under regulation 9, leave less than £300 remaining for payment to eligible persons,
 - (b) to demand a reimbursement payment in any case where all the persons identified by the relevant electricity distributor in accordance with regulation 6(2), other than the relevant electricity distributor if it is an eligible person itself, have notified the relevant electricity distributor in writing that they do not wish to receive a reimbursement payment, or
@@ -157,7 +157,7 @@ For the purpose of condition D in paragraph 1(5) of Schedule 5B to the Act, the 
 
 (6) Where the relevant electricity distributor estimates the amount of net first connection expenses under regulation 10(3), the references to the net first connection expenses in paragraphs (3) and (4) are to be treated as references to the amount of net first connection expenses so estimated.
 
-### 8. Obligation to make a reimbursement payment[^key-6140df4e782762027e77f0c49d8d7aae]
+### 8. Obligation to make a reimbursement payment[^c-6140df4e782762027e77f0c49d8d7aae]
 
 (1) A subsequent contributor must, subject to paragraphs (2) and (3), pay the amount demanded under regulation 7 to the relevant electricity distributor within the time specified in the demand.
 
@@ -168,7 +168,7 @@ For the purpose of condition D in paragraph 1(5) of Schedule 5B to the Act, the 
 
 (3) If a dispute about the demand is referred to the Authority in accordance with section 23[^f00008] of the Act, the subsequent contributor is not required to comply with the demand unless ordered to do so by the Authority or by a person appointed by the Authority to determine the dispute.
 
-### 9. Obligation to apply a reimbursement payment[^key-b887536028d4884a41ca0915ae78f24f]
+### 9. Obligation to apply a reimbursement payment[^c-b887536028d4884a41ca0915ae78f24f]
 
 (1) Where a relevant electricity distributor has received a reimbursement payment—
 
@@ -187,7 +187,7 @@ For the purpose of condition D in paragraph 1(5) of Schedule 5B to the Act, the 
 
 (4) References in these Regulations to paying an amount to an eligible person include retaining an amount, in cases where the relevant electricity distributor is itself an eligible person.
 
-### 10. Determination of net first connection expenses where the first connection was made by a person other than the relevant electricity distributor[^key-19e451a09d49903ee87d11ad68ff6afa]
+### 10. Determination of net first connection expenses where the first connection was made by a person other than the relevant electricity distributor[^c-19e451a09d49903ee87d11ad68ff6afa]
 
 (1) This regulation applies where the first connection was made by a person other than the relevant electricity distributor.
 
@@ -211,7 +211,7 @@ where—
 - (a) the general index of retail prices (for all items) published by the Office for National Statistics; or
 - (b) if that index is not published for a relevant month, any substituted index or index figures published by the Office for National Statistics.
 
-### 11. Provision of information to subsequent contributor[^key-a4abf1e2d7e6b16a8f8109133677947c]
+### 11. Provision of information to subsequent contributor[^c-a4abf1e2d7e6b16a8f8109133677947c]
 
 (1) A subsequent contributor may request information from the relevant electricity distributor about—
 
@@ -223,13 +223,13 @@ where—
 
 (2) The relevant electricity distributor must, in so far as it holds the information, provide any information reasonably requested under paragraph (1) as soon as reasonably practicable.
 
-### 12. Maintenance of records[^key-fa8756327e81b9b1f6a4d1e018156033]
+### 12. Maintenance of records[^c-fa8756327e81b9b1f6a4d1e018156033]
 
 A relevant electricity distributor must maintain such records as are necessary for complying with its obligations under this Part.
 
 ## PART 3 — Miscellaneous
 
-### 13. Amendment to the Electricity (Connection Charges) Regulations 2002[^key-0cc30f0a7a57a11976df350fdbbfb833]
+### 13. Amendment to the Electricity (Connection Charges) Regulations 2002[^c-0cc30f0a7a57a11976df350fdbbfb833]
 
 In the Electricity (Connection Charges) Regulations 2002[^f00009], after regulation 1 insert—
 
@@ -241,7 +241,7 @@ In the Electricity (Connection Charges) Regulations 2002[^f00009], after regulat
 
 .
 
-### 14. Review[^key-06cd5f7f7a3e4adab80d5a5ab9d6d255]
+### 14. Review[^c-06cd5f7f7a3e4adab80d5a5ab9d6d255]
 
 (1) The Secretary of State must from time to time—
 
@@ -292,15 +292,15 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00002]: Footnote: Section 19 was amended by the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), section 46 and by the Infrastructure Act 2015, section 52. The definition of “prescribed” in section 64(1) was amended by the Utilities Act 2000, Schedule 6, Part II, paragraph 38(6); there are other amendments to section 64(1) which are not relevant.
 
-[^key-b6f436359947051ad2660c85b1e6e1d6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+[^c-b6f436359947051ad2660c85b1e6e1d6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
 
-[^key-583e7a2ac469dea54daa59b109eb12ff]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/106/regulation/2) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+[^c-583e7a2ac469dea54daa59b109eb12ff]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/106/regulation/2) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
 
 [^f00003]: Footnote: “Relevant electricity distributor” is defined in paragraph 4(1) of Schedule 5B to the Act.
 
-[^key-053d54ced3eb35c4bfb05b8fbae45b8c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/106/regulation/2) inserted (1.4.2023) by [The Electricity (Connection Charges) (Amendment) Regulations 2022 (S.I. 2022/1265)](https://www.legislation.gov.uk/uksi/2022/1265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/4/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1265/regulation/2))
+[^c-053d54ced3eb35c4bfb05b8fbae45b8c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/106/regulation/2) inserted (1.4.2023) by [The Electricity (Connection Charges) (Amendment) Regulations 2022 (S.I. 2022/1265)](https://www.legislation.gov.uk/uksi/2022/1265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/4/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1265/regulation/2))
 
-[^key-d2e3b4944dde34fa1a980f6b57e070a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/106/regulation/2) omitted (1.4.2023) by virtue of [The Electricity (Connection Charges) (Amendment) Regulations 2022 (S.I. 2022/1265)](https://www.legislation.gov.uk/uksi/2022/1265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/4/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1265/regulation/2))
+[^c-d2e3b4944dde34fa1a980f6b57e070a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/106/regulation/2) omitted (1.4.2023) by virtue of [The Electricity (Connection Charges) (Amendment) Regulations 2022 (S.I. 2022/1265)](https://www.legislation.gov.uk/uksi/2022/1265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/4/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1265/regulation/2))
 
 [^f00004]: Footnote: By virtue of paragraph 1(2) of Schedule 5B, a first connection is made where any electric line or electrical plant is provided for the purpose of making a connection between premises and a distribution system, or between two distribution systems.
 
@@ -308,38 +308,38 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00006]: Footnote: “First connection expenses” are defined in paragraph 1(6) of Schedule 5B as ‘any expenses reasonably incurred by a person in providing any electric line or electric plant for the purpose of making the first connection’.
 
-[^key-75e1ec86705fa3a165125909880e8cce]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/106/regulation/2) substituted (1.4.2023) by [The Electricity (Connection Charges) (Amendment) Regulations 2022 (S.I. 2022/1265)](https://www.legislation.gov.uk/uksi/2022/1265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/4/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1265/regulation/2))
+[^c-75e1ec86705fa3a165125909880e8cce]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/106/regulation/2) substituted (1.4.2023) by [The Electricity (Connection Charges) (Amendment) Regulations 2022 (S.I. 2022/1265)](https://www.legislation.gov.uk/uksi/2022/1265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/4/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1265/regulation/2))
 
 [^f00007]: Footnote: Section 16(1) was amended by the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), section 44.
 
-[^key-b16420652a051740fc05e795de159f04]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/106/regulation/3) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+[^c-b16420652a051740fc05e795de159f04]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/106/regulation/3) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
 
-[^key-c59e9b20953e44ce37448bd9038c321b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/106/regulation/4) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+[^c-c59e9b20953e44ce37448bd9038c321b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/106/regulation/4) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
 
-[^key-fafc7bc7c1f8140c8b4c0788085a6a75]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/106/regulation/5) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+[^c-fafc7bc7c1f8140c8b4c0788085a6a75]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/106/regulation/5) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
 
-[^key-2e81c8bde9953580067e1de976be0d66]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/106/regulation/6) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+[^c-2e81c8bde9953580067e1de976be0d66]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/106/regulation/6) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
 
-[^key-c0efb51374fa88af71d6d5f49d8ce6e3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/106/regulation/7) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+[^c-c0efb51374fa88af71d6d5f49d8ce6e3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/106/regulation/7) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
 
-[^key-5e0d70f47c15d1b58a19ba4449956db5]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/uksi/2017/106/regulation/7/5) substituted (1.4.2023) by [The Electricity (Connection Charges) (Amendment) Regulations 2022 (S.I. 2022/1265)](https://www.legislation.gov.uk/uksi/2022/1265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/1265/regulation/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1265/regulation/2))
+[^c-5e0d70f47c15d1b58a19ba4449956db5]: Textual amendment: [Reg. 7(5)](https://www.legislation.gov.uk/uksi/2017/106/regulation/7/5) substituted (1.4.2023) by [The Electricity (Connection Charges) (Amendment) Regulations 2022 (S.I. 2022/1265)](https://www.legislation.gov.uk/uksi/2022/1265), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1265/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/1265/regulation/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1265/regulation/2))
 
-[^key-6140df4e782762027e77f0c49d8d7aae]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/106/regulation/8) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+[^c-6140df4e782762027e77f0c49d8d7aae]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/106/regulation/8) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
 
 [^f00008]: Footnote: Section 23 has been amended by the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), section 108 and Schedule 6, Part II, paragraphs 24 and 26, the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), section 52(6), and [S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631).
 
-[^key-b887536028d4884a41ca0915ae78f24f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/106/regulation/9) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+[^c-b887536028d4884a41ca0915ae78f24f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/106/regulation/9) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
 
-[^key-19e451a09d49903ee87d11ad68ff6afa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/106/regulation/10) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+[^c-19e451a09d49903ee87d11ad68ff6afa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/106/regulation/10) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
 
-[^key-a4abf1e2d7e6b16a8f8109133677947c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2017/106/regulation/11) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+[^c-a4abf1e2d7e6b16a8f8109133677947c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2017/106/regulation/11) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
 
-[^key-fa8756327e81b9b1f6a4d1e018156033]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/106/regulation/12) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+[^c-fa8756327e81b9b1f6a4d1e018156033]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/106/regulation/12) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
 
-[^key-0cc30f0a7a57a11976df350fdbbfb833]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2017/106/regulation/13) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+[^c-0cc30f0a7a57a11976df350fdbbfb833]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2017/106/regulation/13) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
 
 [^f00009]: Footnote: [S.I. 2002/93](https://www.legislation.gov.uk/uksi/2002/93), as amended by [S.I. 2002/3232](https://www.legislation.gov.uk/uksi/2002/3232).
 
-[^key-06cd5f7f7a3e4adab80d5a5ab9d6d255]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2017/106/regulation/14) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
+[^c-06cd5f7f7a3e4adab80d5a5ab9d6d255]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2017/106/regulation/14) in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/106/regulation/1)
 
 [^f00010]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).

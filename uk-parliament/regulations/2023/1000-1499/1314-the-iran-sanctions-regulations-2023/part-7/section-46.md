@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Prohibition on port entry[^key-3a7476732d6ae60d91e68591bdfb96f2]
+## 46. Prohibition on port entry[^c-3a7476732d6ae60d91e68591bdfb96f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a7476732d6ae60d91e68591bdfb96f2]: Commencement: Reg. 46 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-3a7476732d6ae60d91e68591bdfb96f2]: Commencement: Reg. 46 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

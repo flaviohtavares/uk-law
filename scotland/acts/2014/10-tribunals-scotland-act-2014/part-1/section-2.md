@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Head of the Tribunals[^key-2df3cb34f06b7b46d24433de25111954]
+## 2. Head of the Tribunals[^c-2df3cb34f06b7b46d24433de25111954]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2df3cb34f06b7b46d24433de25111954]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/10/section/2) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-2df3cb34f06b7b46d24433de25111954]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/10/section/2) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

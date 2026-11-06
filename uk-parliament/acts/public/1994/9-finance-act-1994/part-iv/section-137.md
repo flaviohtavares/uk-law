@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-a7eedf7b4cb616b835e8913fcbdbc29d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a7eedf7b4cb616b835e8913fcbdbc29d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-a7eedf7b4cb616b835e8913fcbdbc29d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a7eedf7b4cb616b835e8913fcbdbc29d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The [^c14454971]Taxation of Chargeable Gains Act 1992 shall have effect with the amendments made by that Schedule.
 
 ## Annotations
 
-[^key-a7eedf7b4cb616b835e8913fcbdbc29d]: Textual amendment: [S. 137(1)](https://www.legislation.gov.uk/ukpga/1994/9/section/137/1)[(2)](https://www.legislation.gov.uk/ukpga/1994/9/section/137/2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-a7eedf7b4cb616b835e8913fcbdbc29d]: Textual amendment: [S. 137(1)](https://www.legislation.gov.uk/ukpga/1994/9/section/137/1)[(2)](https://www.legislation.gov.uk/ukpga/1994/9/section/137/2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c14454971]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. The National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013[^key-a2600f3d11b7008e2d1435dd81d2025f]
+## 7. The National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013[^c-a2600f3d11b7008e2d1435dd81d2025f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ In the National Health Service and Public Health (Functions and Miscellaneous Pr
 
 ## Annotations
 
-[^key-a2600f3d11b7008e2d1435dd81d2025f]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a2600f3d11b7008e2d1435dd81d2025f]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23695451]: Marginal citation: [S.I. 2013/261](https://www.legislation.gov.uk/uksi/2013/261); amended by [S.I. 2013/2269](https://www.legislation.gov.uk/uksi/2013/2269); there are other amending instruments but none is relevant.
 

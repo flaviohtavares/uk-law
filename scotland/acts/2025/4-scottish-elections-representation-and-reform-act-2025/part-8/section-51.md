@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Purpose of the electronic material[^key-0b2ce3a80ec1eb12149c7ef60b7fee03][^key-5e4ce05f2cbf85e9014588838c5156ad]
+## 51. Purpose of the electronic material[^c-0b2ce3a80ec1eb12149c7ef60b7fee03][^c-5e4ce05f2cbf85e9014588838c5156ad]
 
 *Extent: S*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b2ce3a80ec1eb12149c7ef60b7fee03]: Commencement: S. 51 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-0b2ce3a80ec1eb12149c7ef60b7fee03]: Commencement: S. 51 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-5e4ce05f2cbf85e9014588838c5156ad]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2025/4/section/51) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+[^c-5e4ce05f2cbf85e9014588838c5156ad]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2025/4/section/51) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)

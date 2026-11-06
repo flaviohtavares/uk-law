@@ -26,7 +26,7 @@ Section 67.
 
 *Extent: E+W*
 
-**1.**[^key-fa568831e637599eed2d66b880e87b95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fa568831e637599eed2d66b880e87b95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Requisitioned Land and War Works Act 1945 (c. 43)
 
@@ -72,13 +72,13 @@ Section 67.
 
 *Extent: E+W*
 
-**7.**[^key-60f4fc2b95f3182eb72cf1ef1739d443] In the fourth item in the Table in Schedule 4 to the Public Health Act 1961 (attachment of street lighting equipment to certain buildings), in the first column, the reference to the Corporation shall be omitted.
+**7.**[^c-60f4fc2b95f3182eb72cf1ef1739d443] In the fourth item in the Table in Schedule 4 to the Public Health Act 1961 (attachment of street lighting equipment to certain buildings), in the first column, the reference to the Corporation shall be omitted.
 
 ### The Licensing Act 1964 (c. 26)
 
 *Extent: E+W+S*
 
-**8.**[^key-5883b2d5f9188c8b7985a635447c4d7c][^c23550641] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-5883b2d5f9188c8b7985a635447c4d7c][^c23550641] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Gas Act 1965 (c. 36)
 
@@ -159,7 +159,7 @@ Section 67.
 
 *Extent: E+W+S*
 
-**12.**[^key-11dc39998ec252a51f156f4cd99866cd][^c10941031] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-11dc39998ec252a51f156f4cd99866cd][^c10941031] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Town and Country Planning (Scotland) Act 1972 (c. 52)
 
@@ -177,11 +177,11 @@ Section 67.
 
 ### The Fair Trading Act 1973 (c. 41)
 
-**14.**[^key-82767b8b2cd86a68fa27d5d392eaa11c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-82767b8b2cd86a68fa27d5d392eaa11c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Consumer Credit Act 1974 (c. 39)
 
-**15.**[^key-82767b8b2cd86a68fa27d5d392eaa11c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-82767b8b2cd86a68fa27d5d392eaa11c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Welsh Development Agency Act 1975 (c. 70)
 
@@ -222,11 +222,11 @@ Section 67.
 
 *Extent: S*
 
-**20.**[^key-b0c931b551d49b7f2ba5388cb2cfd69c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-b0c931b551d49b7f2ba5388cb2cfd69c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Estate Agents Act 1979 (c. 38)
 
-**21.**[^key-3190ff2802e746320ae7306ac7bc36f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-3190ff2802e746320ae7306ac7bc36f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Ancient Monuments and Archaeological Areas Act 1979 (c.46)
 
@@ -236,11 +236,11 @@ Section 67.
 
 ### The Competition Act 1980 (c. 21)
 
-**23.**[^key-42988e161cf6ef5ef6c6a2ab7c20e3f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-42988e161cf6ef5ef6c6a2ab7c20e3f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Overseas Development and Co-operation Act 1980 (c. 63)
 
-#### 24.[^key-90335f536993ddeec6daebe4aff12269]
+#### 24.[^c-90335f536993ddeec6daebe4aff12269]
 
 (1) In section 2 of the Overseas Development and Co-operation Act 1980 (powers of statutory bodies in relation to the furnishing of assistance), subsection (4) (the Corporation) shall cease to have effect.
 
@@ -296,13 +296,13 @@ Section 67.
 
 ### The National Audit Act 1983 (c. 44)
 
-**29.**[^key-72589794697d050edfb73363c7109c14] In Part I of Schedule 4 to the National Audit Act 1983 (nationalised industries and other public bodies), the entry relating to the British Coal Corporation shall be omitted.
+**29.**[^c-72589794697d050edfb73363c7109c14] In Part I of Schedule 4 to the National Audit Act 1983 (nationalised industries and other public bodies), the entry relating to the British Coal Corporation shall be omitted.
 
 ### The Road Traffic Regulation Act 1984 (c. 27)
 
 *Extent: E+W+S*
 
-**30.**[^key-2266af133011dba2f3b3c0b463819549] In paragraph 3 of Schedule 5 to the Road Traffic Regulation Act 1984 (buildings in relation to which the Secretary of State is the appropriate authority), in the first column, the reference to the Corporation shall be omitted.
+**30.**[^c-2266af133011dba2f3b3c0b463819549] In paragraph 3 of Schedule 5 to the Road Traffic Regulation Act 1984 (buildings in relation to which the Secretary of State is the appropriate authority), in the first column, the reference to the Corporation shall be omitted.
 
 ### The Roads (Scotland) Act 1984 (c. 54)
 
@@ -321,7 +321,7 @@ Section 67.
 
 *Extent: E+W+S*
 
-**32.**[^key-947aca60300d2c01de02cfbdef299a7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-947aca60300d2c01de02cfbdef299a7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Housing Act 1985 (c. 68)
 
@@ -469,15 +469,15 @@ Section 67.
 
 *Extent: E+W+S*
 
-**45.**[^key-80330140826c6b27bdd75f343c1998c5] In section 161(7) of the Leasehold Reform, Housing and Urban Development Act 1993 (interpretation), in paragraph (b) of the definition of “statutory undertakers”, the words “the British Coal Corporation” shall be omitted.
+**45.**[^c-80330140826c6b27bdd75f343c1998c5] In section 161(7) of the Leasehold Reform, Housing and Urban Development Act 1993 (interpretation), in paragraph (b) of the definition of “statutory undertakers”, the words “the British Coal Corporation” shall be omitted.
 
 ## Annotations
 
-[^key-fa568831e637599eed2d66b880e87b95]: Textual amendment: Sch. 9 para. 1 repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-fa568831e637599eed2d66b880e87b95]: Textual amendment: Sch. 9 para. 1 repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
-[^key-60f4fc2b95f3182eb72cf1ef1739d443]: Commencement: Sch. 9 para. 7 in force at 27.3.2004 ("the dissolution date"), see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3
+[^c-60f4fc2b95f3182eb72cf1ef1739d443]: Commencement: Sch. 9 para. 7 in force at 27.3.2004 ("the dissolution date"), see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3
 
-[^key-5883b2d5f9188c8b7985a635447c4d7c]: Textual amendment: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/1994/21/schedule/9/paragraph/8) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-5883b2d5f9188c8b7985a635447c4d7c]: Textual amendment: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/1994/21/schedule/9/paragraph/8) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c23550641]: Commencement: Sch. 9 para. 8 in force except in so far as it relates to provisions coming into force on the restructuring date by virtue of s. 68(2)(d) at 31.10.1994 by [S.I. 1994/2552](https://www.legislation.gov.uk/uksi/1994/2552), [art. 2](https://www.legislation.gov.uk/uksi/1994/2552/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/2552/schedule/1)
 
@@ -487,7 +487,7 @@ Section 67.
 
 [^c23550701]: Commencement: Sch. 9 para. 11(1)(2) in force in so far as not already in force and Sch. 9 para. 11(3)-(5) in force at 31.10.1994 ("the restructuring date"), see ss. 7, 68(2) and [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
-[^key-11dc39998ec252a51f156f4cd99866cd]: Textual amendment: [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/1994/21/schedule/9/paragraph/12) repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4) (as amended by S.I. 2007/1157, arts. 7-12; S.I. 2007/2169, arts. 7-11)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
+[^c-11dc39998ec252a51f156f4cd99866cd]: Textual amendment: [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/1994/21/schedule/9/paragraph/12) repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4) (as amended by S.I. 2007/1157, arts. 7-12; S.I. 2007/2169, arts. 7-11)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
 
 [^c10941031]: Commencement: Sch. 9 para. 12 in force except in so far as it relates to provisions coming into force on the restructuring date by virtue of s. 68(2)(d) at 31.10.1994 by [S.I. 1994/2552](https://www.legislation.gov.uk/uksi/1994/2552), [art. 2](https://www.legislation.gov.uk/uksi/1994/2552/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/2552/schedule/1)
 
@@ -495,25 +495,25 @@ Section 67.
 
 [^c23550661]: Commencement: Sch. 9 para. 13(3) in force at 1.11.1994 by [S.I. 1994/2552](https://www.legislation.gov.uk/uksi/1994/2552), [art. 3](https://www.legislation.gov.uk/uksi/1994/2552/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/2552/schedule/2)
 
-[^key-82767b8b2cd86a68fa27d5d392eaa11c]: Textual amendment: Sch. 9 para. 15 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-82767b8b2cd86a68fa27d5d392eaa11c]: Textual amendment: Sch. 9 para. 15 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
-[^key-b0c931b551d49b7f2ba5388cb2cfd69c]: Textual amendment: [Sch. 9 para. 20](https://www.legislation.gov.uk/ukpga/1994/21/schedule/9/paragraph/20) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 34](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/34) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-b0c931b551d49b7f2ba5388cb2cfd69c]: Textual amendment: [Sch. 9 para. 20](https://www.legislation.gov.uk/ukpga/1994/21/schedule/9/paragraph/20) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 34](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/34) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-3190ff2802e746320ae7306ac7bc36f9]: Textual amendment: Sch. 9 para. 21 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-3190ff2802e746320ae7306ac7bc36f9]: Textual amendment: Sch. 9 para. 21 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
-[^key-42988e161cf6ef5ef6c6a2ab7c20e3f6]: Textual amendment: Sch. 9 para. 23 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-42988e161cf6ef5ef6c6a2ab7c20e3f6]: Textual amendment: Sch. 9 para. 23 repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
-[^key-90335f536993ddeec6daebe4aff12269]: Commencement: Sch. 9 para. 24 in force at 27.3.2004 ("the dissolution date"), see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3
+[^c-90335f536993ddeec6daebe4aff12269]: Commencement: Sch. 9 para. 24 in force at 27.3.2004 ("the dissolution date"), see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3
 
 [^c10941141]: Marginal citation: [1958 c. 69](https://www.legislation.gov.uk/ukpga/1958/69).
 
 [^c10941151]: Marginal citation: [1938 c. 52](https://www.legislation.gov.uk/ukpga/1938/52).
 
-[^key-72589794697d050edfb73363c7109c14]: Commencement: Sch. 9 para. 29 in force at 27.3.2004 ("the dissolution date"), see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3
+[^c-72589794697d050edfb73363c7109c14]: Commencement: Sch. 9 para. 29 in force at 27.3.2004 ("the dissolution date"), see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3
 
-[^key-2266af133011dba2f3b3c0b463819549]: Commencement: Sch. 9 para. 30 in force at 27.3.2004 ("the dissolution date"), see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3
+[^c-2266af133011dba2f3b3c0b463819549]: Commencement: Sch. 9 para. 30 in force at 27.3.2004 ("the dissolution date"), see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3
 
-[^key-947aca60300d2c01de02cfbdef299a7c]: Textual amendment: [Sch. 9 para. 32](https://www.legislation.gov.uk/ukpga/1994/21/schedule/9/paragraph/32) repealed (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 84(3)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/84/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/2194/schedule/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
+[^c-947aca60300d2c01de02cfbdef299a7c]: Textual amendment: [Sch. 9 para. 32](https://www.legislation.gov.uk/ukpga/1994/21/schedule/9/paragraph/32) repealed (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 84(3)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/84/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/2194/schedule/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
 
 [^c10941161]: Marginal citation: [1952 c. 23](https://www.legislation.gov.uk/ukpga/1952/23).
 
@@ -523,4 +523,4 @@ Section 67.
 
 [^c10941171]: Marginal citation: [1938 c. 52](https://www.legislation.gov.uk/ukpga/1938/52).
 
-[^key-80330140826c6b27bdd75f343c1998c5]: Commencement: Sch. 9 para. 45 in force at 27.3.2004 ("the dissolution date"), see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3
+[^c-80330140826c6b27bdd75f343c1998c5]: Commencement: Sch. 9 para. 45 in force at 27.3.2004 ("the dissolution date"), see s. 23(2) and [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), art. 3

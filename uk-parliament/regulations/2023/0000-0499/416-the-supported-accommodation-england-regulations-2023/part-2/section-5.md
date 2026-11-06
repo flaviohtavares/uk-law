@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. The protection standard[^key-bcf684bf25951facbf4dba617185513f]
+## 5. The protection standard[^c-bcf684bf25951facbf4dba617185513f]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcf684bf25951facbf4dba617185513f]: Commencement: Reg. 5 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-bcf684bf25951facbf4dba617185513f]: Commencement: Reg. 5 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

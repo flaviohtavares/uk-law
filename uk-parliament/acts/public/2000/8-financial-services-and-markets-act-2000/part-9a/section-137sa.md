@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137SA. Rules to recover expenses relating to the Money and Pensions Service[^key-dbef3455ebe1e78c5fdc7075924a762c][^key-e922c816a6b3c56cc617ae59c14f3510][^key-6960274406deb69d6e9440ddeebdce16]
+## 137SA. Rules to recover expenses relating to the Money and Pensions Service[^c-dbef3455ebe1e78c5fdc7075924a762c][^c-e922c816a6b3c56cc617ae59c14f3510][^c-6960274406deb69d6e9440ddeebdce16]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Secretary of State may, from time to time, notify the FCA of the amount of—
 
-- (a) the expenses incurred, or expected to be incurred, by the Secretary of State under section 11 of the Financial Guidance and Claims Act 2018 (financial assistance from Secretary of State to Money and Pensions Service[^key-2f6918e8ef550dd63bf6ffa87c416424]), and
-- (b) any other expenses incurred, or expected to be incurred, by the Secretary of State in connection with the operation of the Money and Pensions Service[^key-ddb83409fd009b84b9a6fea6ae66eb54],
+- (a) the expenses incurred, or expected to be incurred, by the Secretary of State under section 11 of the Financial Guidance and Claims Act 2018 (financial assistance from Secretary of State to Money and Pensions Service[^c-2f6918e8ef550dd63bf6ffa87c416424]), and
+- (b) any other expenses incurred, or expected to be incurred, by the Secretary of State in connection with the operation of the Money and Pensions Service[^c-ddb83409fd009b84b9a6fea6ae66eb54],
 
 that the Secretary of State considers should be recovered under this section.
 
@@ -62,12 +62,12 @@ that the Secretary of State considers should be recovered under this section.
 
 ## Annotations
 
-[^key-dbef3455ebe1e78c5fdc7075924a762c]: Textual amendment: S. 137SA inserted (10.5.2018) by [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2018/10/section/13/1), [37(1)(b)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/1/b)
+[^c-dbef3455ebe1e78c5fdc7075924a762c]: Textual amendment: S. 137SA inserted (10.5.2018) by [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2018/10/section/13/1), [37(1)(b)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/1/b)
 
-[^key-e922c816a6b3c56cc617ae59c14f3510]: Textual amendment: Pt. 9A substituted for ss. 138-164 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/24/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e922c816a6b3c56cc617ae59c14f3510]: Textual amendment: Pt. 9A substituted for ss. 138-164 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/24/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-6960274406deb69d6e9440ddeebdce16]: Textual amendment: Words in s. 137SA heading substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 7(c)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/7/c)
+[^c-6960274406deb69d6e9440ddeebdce16]: Textual amendment: Words in s. 137SA heading substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 7(c)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/7/c)
 
-[^key-2f6918e8ef550dd63bf6ffa87c416424]: Textual amendment: Words in s. 137SA(1)(a) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 7(c)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/7/c)
+[^c-2f6918e8ef550dd63bf6ffa87c416424]: Textual amendment: Words in s. 137SA(1)(a) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 7(c)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/7/c)
 
-[^key-ddb83409fd009b84b9a6fea6ae66eb54]: Textual amendment: Words in s. 137SA(1)(b) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 7(c)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/7/c)
+[^c-ddb83409fd009b84b9a6fea6ae66eb54]: Textual amendment: Words in s. 137SA(1)(b) substituted (6.4.2019) by [The Financial Guidance and Claims Act 2018 (Naming and Consequential Amendments) Regulations 2019 (S.I. 2019/383)](https://www.legislation.gov.uk/uksi/2019/383), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/383/regulation/1/1), [Sch. para. 7(c)](https://www.legislation.gov.uk/uksi/2019/383/schedule/paragraph/7/c)

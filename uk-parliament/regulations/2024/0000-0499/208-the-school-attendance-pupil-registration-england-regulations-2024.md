@@ -46,17 +46,17 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 434(1), (3) and (4), 551(1) and 569(4) of the Education Act 1996[^f00001].
 
-## 1. Citation and commencement[^key-1d3bac46de266ab6f902beb24b480364]
+## 1. Citation and commencement[^c-1d3bac46de266ab6f902beb24b480364]
 
 These Regulations may be cited as the School Attendance (Pupil Registration) (England) Regulations 2024 and come into force on 19th August 2024.
 
-## 2. Extent and application[^key-5834c8e369864515765e9f65425d4df1]
+## 2. Extent and application[^c-5834c8e369864515765e9f65425d4df1]
 
 (1) These Regulations extend to England and Wales.
 
 (2) These Regulations apply only in relation to schools in England.
 
-## 3. Interpretation[^key-58744f2dfee25b3f06cb250d706daa8e]
+## 3. Interpretation[^c-58744f2dfee25b3f06cb250d706daa8e]
 
 (1) In these Regulations—
 
@@ -102,13 +102,13 @@ These Regulations may be cited as the School Attendance (Pupil Registration) (En
 
 (7) Except in regulation 11, a reference in these Regulations to a pupil being given leave of absence from a school is a reference to their being given leave of absence from that school by a person who the proprietor of the school has authorised to do so, and a reference to a pupil being absent with leave is a reference to their being absent with leave given by such a person.
 
-## 4. Amendments and revocations[^key-c6e47e65126c9d3480f841b2f8ede5f1]
+## 4. Amendments and revocations[^c-c6e47e65126c9d3480f841b2f8ede5f1]
 
 (1) Schedule 1 makes incidental and supplemental amendments.
 
 (2) The Regulations listed in the first column of the table in Schedule 2 are revoked to the extent specified in the third column of the table.
 
-## 5. Registers to be kept[^key-a2c56e2d7c41f91c94b97a55ac4c9ab8]
+## 5. Registers to be kept[^c-a2c56e2d7c41f91c94b97a55ac4c9ab8]
 
 (1) The proprietor of a school must ensure that an admission register is kept.
 
@@ -116,7 +116,7 @@ These Regulations may be cited as the School Attendance (Pupil Registration) (En
 
 (3) The proprietor of a school must ensure that a register kept under paragraph (1) or (2) is kept electronically and that a back-up copy of that register is made at least once a month in the form of an electronic or printed copy.
 
-## 6. Method of making and amending entries[^key-2a807df6390ef342a0dfc7d34454aa11]
+## 6. Method of making and amending entries[^c-2a807df6390ef342a0dfc7d34454aa11]
 
 (1) The proprietor of a school must ensure that whenever an entry in the school’s admission register or attendance register is amended, the register contains—
 
@@ -128,14 +128,14 @@ These Regulations may be cited as the School Attendance (Pupil Registration) (En
 
 (2) The proprietor must ensure that any printed copy of the register also contains the information listed in paragraph (1).
 
-## 7. Preservation of entries[^key-03e6769548a9c9b4342ae6d6145c81b0]
+## 7. Preservation of entries[^c-03e6769548a9c9b4342ae6d6145c81b0]
 
 The proprietor of a school must ensure that—
 
 - (a) every entry in the school’s admission and attendance register is preserved for six years beginning with the day on which the entry was made; and
 - (b) every back-up copy of the register made in accordance with regulation 5(3) is preserved for six years after the end of the school year that it relates to.
 
-## 8. Contents of admission register[^key-60b82ead615e5ecf6aca5564d3d258cd]
+## 8. Contents of admission register[^c-60b82ead615e5ecf6aca5564d3d258cd]
 
 (1) The proprietor of a school must ensure that the name of each pupil at the school is entered in the school’s admission register on the pupil’s starting day, before or at the beginning of the first school session on that day.
 
@@ -171,7 +171,7 @@ The proprietor of a school must ensure that—
 
 (7) If any of the details of a registered pupil mentioned in paragraphs (2) to (6) changes the proprietor must ensure that the admission register is amended accordingly as soon as reasonably possible.
 
-## 9. Deletion of names from admission register[^key-62922d6b720dea97b826927d802c568d]
+## 9. Deletion of names from admission register[^c-62922d6b720dea97b826927d802c568d]
 
 (1) The proprietor of a school must ensure that the name of a pupil of compulsory school age is deleted from the school’s admission register when—
 
@@ -264,7 +264,7 @@ The proprietor of a school must ensure that—
   - (ii) the time for bringing an appeal has expired and no appeal has been brought within that time; or
   - (iii) an appeal brought within that time has been determined or abandoned.
 
-## 10. Contents of attendance register[^key-1f281b465f6d2cd3368104fadc09485f]
+## 10. Contents of attendance register[^c-1f281b465f6d2cd3368104fadc09485f]
 
 (1) The proprietor of a school must ensure that, at the beginning of each morning session and once during each afternoon session, the attendance of each registered pupil who is not a boarder is recorded in the school’s attendance register in accordance with this regulation.
 
@@ -377,7 +377,7 @@ Table 3
 - “**qualifying school**” has the meaning given in paragraph 15 of Schedule 35B to the 1996 Act[^f00019];
 - “**walking distance**” has the meaning given in section 444(5) of the 1996 Act.
 
-## 11. Leave of absence[^key-c492d9dad6668a0efd2a9a3a766393e7]
+## 11. Leave of absence[^c-c492d9dad6668a0efd2a9a3a766393e7]
 
 (1) Leave of absence from a school maintained by a local authority or a special school not maintained by a local authority may only be given by a person who the school’s proprietor has authorised to do so (an “authorised person”).
 
@@ -437,7 +437,7 @@ Table 3
 - (a) a parent who the pupil normally lives with; and
 - (b) if the pupil will be over compulsory school age when the absence begins, the pupil.
 
-## 12. Examination of and extracts from registers[^key-35e0f92c29b39ada4910f93f9b62d93f]
+## 12. Examination of and extracts from registers[^c-35e0f92c29b39ada4910f93f9b62d93f]
 
 (1) A relevant office-holder may examine and take extracts from the admission register and the attendance register of a school for the purposes of their functions under the Education Acts.
 
@@ -453,7 +453,7 @@ Table 3
   - (ii) His Majesty’s Chief Inspector of Education, Children’s Services and Skills;
   - (iii) an officer of the local authority who is authorised for the purpose.
 
-## 13. Returns[^key-35384fcae7d44c9fb1f6d6b20a059edb]
+## 13. Returns[^c-35384fcae7d44c9fb1f6d6b20a059edb]
 
 (1) By the end of the fifth day after the day when the name of a registered pupil, other than one within paragraph (2), is entered in the admission register of a school the proprietor must make a return to the local authority (a “new pupil return”) giving all the information about the pupil that is entered in the admission register.
 
@@ -521,7 +521,7 @@ Schedules
 
 Regulation 4(1)
 
-### 1. The Education (Grammar School Ballots) Regulations 1998[^key-7e746825021206f28d500e9a4db634b2]
+### 1. The Education (Grammar School Ballots) Regulations 1998[^c-7e746825021206f28d500e9a4db634b2]
 
 (1) The Education (Grammar School Ballots) Regulations 1998[^f00020] are amended as follows.
 
@@ -529,7 +529,7 @@ Regulation 4(1)
 
 (3) In regulation 4(7)(a) (meaning of “**eligible parent**”), for “the Education (Pupil Registration) Regulations 1995”, substitute “the School Attendance (Pupil Registration) (England) Regulations 2024”.
 
-### 2. The School Information (England) Regulations 2008[^key-db65d579119c07f982b56668d6d0cbb8]
+### 2. The School Information (England) Regulations 2008[^c-db65d579119c07f982b56668d6d0cbb8]
 
 (1) The School Information (England) Regulations 2008[^f00021] are amended as follows.
 
@@ -538,7 +538,7 @@ Regulation 4(1)
 - (a) in the definition of “admission register”, for the words after “in accordance with”, substitute “regulation 5(1) of the School Attendance (Pupil Registration) (England) Regulations 2024”;
 - (b) in the definition of “registered parent”, for the words after “in accordance with”, substitute “regulation 8(2)(e) of the School Attendance (Pupil Registration) (England) Regulations 2024”.
 
-### 3. The Education (Information About Individual Pupils) (England) Regulations 2013[^key-64f98f4c00df4d4cbed399c4ce1a7581]
+### 3. The Education (Information About Individual Pupils) (England) Regulations 2013[^c-64f98f4c00df4d4cbed399c4ce1a7581]
 
 (1) The Education (Information About Individual Pupils) (England) Regulations 2013[^f00022] are amended as follows.
 
@@ -566,19 +566,19 @@ Regulation 4(1)
   ;
 - (d) delete paragraph 31.
 
-### 4. The Education (Independent School Standards) Regulations 2014[^key-1e66257668eabe3dd77a7ee9410f37e0]
+### 4. The Education (Independent School Standards) Regulations 2014[^c-1e66257668eabe3dd77a7ee9410f37e0]
 
 (1) The Education (Independent School Standards) Regulations 2014[^f00023] are amended as follows.
 
 (2) In the Schedule, in paragraph 15 (maintenance of registers), for “the Education (Pupil Registration) (England) Regulations 2006”, substitute “the School Attendance (Pupil Registration) (England) Regulations 2024”.
 
-### 5. The Special Educational Needs and Disability (Detained Persons) Regulations 2015[^key-e38e6d5214140271c49e6c42142215ee]
+### 5. The Special Educational Needs and Disability (Detained Persons) Regulations 2015[^c-e38e6d5214140271c49e6c42142215ee]
 
 (1) The Special Educational Needs and Disability (Detained Persons) Regulations 2015[^f00024] are amended as follows.
 
 (2) In regulation 4(2)(g) (determination whether or not special educational provision may be necessary), for “regulation 8(1)(i) of the Education (Pupil Registration) (England) Regulations 2006”, substitute “regulation 9(1)(j) of the School Attendance (Pupil Registration) (England) Regulations 2024”.
 
-## Schedule 2 — Revocations[^key-01979fa2b2bff12347a9f7bd747690c5]
+## Schedule 2 — Revocations[^c-01979fa2b2bff12347a9f7bd747690c5]
 
 Regulation 4(2)
 
@@ -627,11 +627,11 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^f00001]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Section 434 was amended by the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), Schedule 30, paragraphs 57 and 111, and Schedule 31 and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). There are amendments to section 569 that are not relevant to these Regulations. See the definitions of “prescribed” and “regulations” in section 579.
 
-[^key-1d3bac46de266ab6f902beb24b480364]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-1d3bac46de266ab6f902beb24b480364]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
-[^key-5834c8e369864515765e9f65425d4df1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/208/regulation/2) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-5834c8e369864515765e9f65425d4df1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/208/regulation/2) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
-[^key-58744f2dfee25b3f06cb250d706daa8e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/208/regulation/3) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-58744f2dfee25b3f06cb250d706daa8e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/208/regulation/3) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
 [^f00002]: Footnote: [2014 c. 6](https://www.legislation.gov.uk/ukpga/2014/6).
 
@@ -645,17 +645,17 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^f00007]: Footnote: Section 252A was inserted by the Counter-Terrorism and Sentencing Act [2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), section 22.
 
-[^key-c6e47e65126c9d3480f841b2f8ede5f1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/208/regulation/4) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-c6e47e65126c9d3480f841b2f8ede5f1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/208/regulation/4) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
-[^key-a2c56e2d7c41f91c94b97a55ac4c9ab8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/208/regulation/5) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-a2c56e2d7c41f91c94b97a55ac4c9ab8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/208/regulation/5) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
-[^key-2a807df6390ef342a0dfc7d34454aa11]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/208/regulation/6) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-2a807df6390ef342a0dfc7d34454aa11]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2024/208/regulation/6) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
-[^key-03e6769548a9c9b4342ae6d6145c81b0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/208/regulation/7) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-03e6769548a9c9b4342ae6d6145c81b0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2024/208/regulation/7) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
-[^key-60b82ead615e5ecf6aca5564d3d258cd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/208/regulation/8) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-60b82ead615e5ecf6aca5564d3d258cd]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2024/208/regulation/8) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
-[^key-62922d6b720dea97b826927d802c568d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/208/regulation/9) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-62922d6b720dea97b826927d802c568d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2024/208/regulation/9) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
 [^f00008]: Footnote: [2006 c. 21](https://www.legislation.gov.uk/ukpga/2006/21).
 
@@ -665,7 +665,7 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^f00011]: Footnote: Section 482 was repealed by the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), section 63 and Schedule 14, paragraph 16.
 
-[^key-1f281b465f6d2cd3368104fadc09485f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/208/regulation/10) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-1f281b465f6d2cd3368104fadc09485f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/208/regulation/10) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
 [^f00012]: Footnote: Section 19 has been amended by the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), Schedule 8 paragraph 1, [S.I. 2007/1507](https://www.legislation.gov.uk/uksi/2007/1507), the Children, Schools and Families Act [2010 (c. 26)](https://www.legislation.gov.uk/ukpga/2010/26), section 3, [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) and the Curriculum and Assessment (Wales) Act [2021 (asc. 4)](https://www.legislation.gov.uk/asc/2021/4), Schedule 2, paragraph 3. There are other amendments that are not relevant to these Regulations.
 
@@ -683,30 +683,30 @@ An Explanatory Memorandum is published alongside this instrument on www.legislat
 
 [^f00019]: Footnote: Schedule 35B was inserted by the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), Schedule 8. Paragraph 15 has been amended by the Equality Act [2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), Schedule 26, paragraph 40, the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), Schedule 13, paragraph 9 and the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), Schedule 3, paragraph 61.
 
-[^key-c492d9dad6668a0efd2a9a3a766393e7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/208/regulation/11) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-c492d9dad6668a0efd2a9a3a766393e7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2024/208/regulation/11) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
-[^key-35e0f92c29b39ada4910f93f9b62d93f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/208/regulation/12) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-35e0f92c29b39ada4910f93f9b62d93f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2024/208/regulation/12) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
-[^key-35384fcae7d44c9fb1f6d6b20a059edb]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/208/regulation/13) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-35384fcae7d44c9fb1f6d6b20a059edb]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/208/regulation/13) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
-[^key-7e746825021206f28d500e9a4db634b2]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/1) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-7e746825021206f28d500e9a4db634b2]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/1) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
 [^f00020]: Footnote: [S.I. 1998/2876](https://www.legislation.gov.uk/uksi/1998/2876), amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172) and [S.I. 2012/979](https://www.legislation.gov.uk/uksi/2012/979). There are other amendments that are not relevant to these Regulations.
 
-[^key-db65d579119c07f982b56668d6d0cbb8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/2) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-db65d579119c07f982b56668d6d0cbb8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/2) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
 [^f00021]: Footnote: [S.I. 2008/3093](https://www.legislation.gov.uk/uksi/2008/3093), amended by [S.I. 2017/37](https://www.legislation.gov.uk/uksi/2017/37). There are other amendments that are not relevant to these Regulations.
 
-[^key-64f98f4c00df4d4cbed399c4ce1a7581]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/3) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-64f98f4c00df4d4cbed399c4ce1a7581]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/3) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
 [^f00022]: Footnote: [S.I. 2013/2094](https://www.legislation.gov.uk/uksi/2013/2094), amended by [S.I. 2020/965](https://www.legislation.gov.uk/uksi/2020/965). There are other amendments that are not relevant to these Regulations.
 
-[^key-1e66257668eabe3dd77a7ee9410f37e0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/4) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-1e66257668eabe3dd77a7ee9410f37e0]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/4) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
 [^f00023]: Footnote: [S.I. 2014/3283](https://www.legislation.gov.uk/uksi/2014/3283). There are amendments that are not relevant to these Regulations.
 
-[^key-e38e6d5214140271c49e6c42142215ee]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/5) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-e38e6d5214140271c49e6c42142215ee]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/5) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
 
 [^f00024]: Footnote: [S.I. 2015/62](https://www.legislation.gov.uk/uksi/2015/62). There are amendments that are not relevant to these Regulations.
 
-[^key-01979fa2b2bff12347a9f7bd747690c5]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2024/208/schedule/2) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)
+[^c-01979fa2b2bff12347a9f7bd747690c5]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2024/208/schedule/2) in force at 19.8.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1)

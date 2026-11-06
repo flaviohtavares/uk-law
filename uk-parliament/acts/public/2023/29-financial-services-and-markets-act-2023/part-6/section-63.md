@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. The Ombudsman scheme[^key-d7f62fc8e03e8b0e516d626d9ef8365a][^key-50bec5d033b9b4c096efb6e2cf90f7ce]
+## 63. The Ombudsman scheme[^c-d7f62fc8e03e8b0e516d626d9ef8365a][^c-50bec5d033b9b4c096efb6e2cf90f7ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d7f62fc8e03e8b0e516d626d9ef8365a]: Commencement: S. 63 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-d7f62fc8e03e8b0e516d626d9ef8365a]: Commencement: S. 63 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-50bec5d033b9b4c096efb6e2cf90f7ce]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2023/29/section/63) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(pp)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/pp)
+[^c-50bec5d033b9b4c096efb6e2cf90f7ce]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2023/29/section/63) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(pp)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/pp)

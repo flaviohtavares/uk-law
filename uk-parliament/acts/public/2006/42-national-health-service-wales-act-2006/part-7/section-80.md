@@ -36,7 +36,7 @@ summary: ''
 
 (4) The descriptions of persons which may be prescribed for the purposes of subsection (3)(d) are the following, or any sub-category of such a description—
 
-- (a) persons who are registered in the register maintained under article 5 of the Health Professions Order 2001[^key-dc21c3f43f60ce8f7d98aef3ca94839d],
+- (a) persons who are registered in the register maintained under article 5 of the Health Professions Order 2001[^c-dc21c3f43f60ce8f7d98aef3ca94839d],
 - (b) persons who are registered pharmacists,
 - (c) persons who are registered in the dental care professionals register established under section 36B of the Dentists Act 1984 (c. 24),
 - (d) persons who are optometrists,
@@ -46,7 +46,7 @@ summary: ''
 - (h) persons not mentioned above who are registered in any register established, continued or maintained under an Order in Council under section 60(1) of the Health Act 1999 (c. 8),
 - (i) any other description of persons which appears to the Welsh Ministers to be a description of persons whose profession is regulated by or under a provision of, or made under, an Act of the Scottish Parliament or Northern Ireland legislation and which the Welsh Ministers consider it appropriate to specify.
 
-(4A)[^key-028697f2dce7cffaa56f129ff9365a04] Subsection (4)(h) does not apply to persons in so far as they are registered as social care workers in England (within the meaning of section 60 of the Health Act 1999).
+(4A)[^c-028697f2dce7cffaa56f129ff9365a04] Subsection (4)(h) does not apply to persons in so far as they are registered as social care workers in England (within the meaning of section 60 of the Health Act 1999).
 
 (5) A determination under subsection (3)(d) may—
 
@@ -73,8 +73,8 @@ summary: ''
 
 [^c20958761]: Modification: S. 80(1)(3)(6): Functions made exercisable by Local Health Boards (1.10.2009) by [The Local Health Boards (Directed Functions) (Wales) Regulations 2009 (S.I. 2009/1511)](https://www.legislation.gov.uk/uksi/2009/1511), [reg. 4](https://www.legislation.gov.uk/uksi/2009/1511/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2009/1511/schedule)
 
-[^key-dc21c3f43f60ce8f7d98aef3ca94839d]: Textual amendment: Words in [s. 80(4)(a)](https://www.legislation.gov.uk/ukpga/2006/42/section/80/4/a) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 47(k)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/47/k); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
+[^c-dc21c3f43f60ce8f7d98aef3ca94839d]: Textual amendment: Words in [s. 80(4)(a)](https://www.legislation.gov.uk/ukpga/2006/42/section/80/4/a) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 47(k)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/47/k); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
 
-[^key-028697f2dce7cffaa56f129ff9365a04]: Textual amendment: [S. 80(4A)](https://www.legislation.gov.uk/ukpga/2006/42/section/80/4A) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 31](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/31); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
+[^c-028697f2dce7cffaa56f129ff9365a04]: Textual amendment: [S. 80(4A)](https://www.legislation.gov.uk/ukpga/2006/42/section/80/4A) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 31](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/31); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
 
 [^c20950791]: Modification: S. 80(9) modified (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 4](https://www.legislation.gov.uk/ukpga/2006/43/section/4), [8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/paragraph/9) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))

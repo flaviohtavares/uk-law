@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Grants to consumer advocacy bodies[^key-d61672bd17e1d5bf4af2ea00084d0ebd]
+## 40A. Grants to consumer advocacy bodies[^c-d61672bd17e1d5bf4af2ea00084d0ebd]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d61672bd17e1d5bf4af2ea00084d0ebd]: Textual amendment: Ss. 40A, 40B and cross-heading inserted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631) , [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3) , [Sch. 1 para. 12(41)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/41) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28) , [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13) )
+[^c-d61672bd17e1d5bf4af2ea00084d0ebd]: Textual amendment: Ss. 40A, 40B and cross-heading inserted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631) , [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3) , [Sch. 1 para. 12(41)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/41) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28) , [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13) )

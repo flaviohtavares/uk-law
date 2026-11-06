@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Restrictions on use of metal detectors[^key-a02804d25ec4deadd585f4ab52b49594][^key-f7e86c151f723e8b6506b1931c9cf967]
+## 60. Restrictions on use of metal detectors[^c-a02804d25ec4deadd585f4ab52b49594][^c-f7e86c151f723e8b6506b1931c9cf967]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a02804d25ec4deadd585f4ab52b49594]: Commencement: S. 60 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-a02804d25ec4deadd585f4ab52b49594]: Commencement: S. 60 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-f7e86c151f723e8b6506b1931c9cf967]: Commencement: [S. 60](https://www.legislation.gov.uk/asc/2023/3/section/60) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-f7e86c151f723e8b6506b1931c9cf967]: Commencement: [S. 60](https://www.legislation.gov.uk/asc/2023/3/section/60) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

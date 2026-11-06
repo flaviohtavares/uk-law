@@ -16,7 +16,7 @@ summary: ''
 
 ## 57. Maximum council tax benefit
 
-(1) Subject to paragraphs (2) to (4)[^key-6b1bef590238e2cce70c9bbd14519fca], the amount of a person's maximum council tax benefit in respect of a day for which he is liable to pay council tax, shall be 100 per cent. of the amount A/B where—
+(1) Subject to paragraphs (2) to (4)[^c-6b1bef590238e2cce70c9bbd14519fca], the amount of a person's maximum council tax benefit in respect of a day for which he is liable to pay council tax, shall be 100 per cent. of the amount A/B where—
 
 - (a) A is the amount set by the appropriate authority as the council tax for the relevant financial year in respect of the dwelling in which he is a resident and for which he is liable, subject to any discount which may be appropriate to that dwelling under the 1992 Act; and
 - (b) B is the number of days in that financial year,
@@ -29,10 +29,10 @@ less any deductions in respect of non-dependants which fall to be made under reg
 
 (4) Where a claimant is jointly and severally liable for council tax in respect of a dwelling with only his partner, paragraph (3) shall not apply in his case.
 
-(5)[^key-e2c4d44d297189f72e5d664654a3390c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e2c4d44d297189f72e5d664654a3390c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b1bef590238e2cce70c9bbd14519fca]: Textual amendment: Words in reg. 57(1) substituted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2008/959/regulation/9/4/a)
+[^c-6b1bef590238e2cce70c9bbd14519fca]: Textual amendment: Words in reg. 57(1) substituted (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2008/959/regulation/9/4/a)
 
-[^key-e2c4d44d297189f72e5d664654a3390c]: Textual amendment: Reg. 57(5) omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2008/959/regulation/9/4/b)
+[^c-e2c4d44d297189f72e5d664654a3390c]: Textual amendment: Reg. 57(5) omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2008/959/regulation/9/4/b)

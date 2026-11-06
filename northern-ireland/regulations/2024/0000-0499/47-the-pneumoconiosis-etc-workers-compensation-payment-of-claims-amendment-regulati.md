@@ -42,13 +42,13 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by Articles 3(3), 4(3) and 11(1) and (4) of the Pneumoconiosis, etc., (Workers’ Compensation) (Northern Ireland) Order 1979[^f00001] and now vested in it[^f00002].
 
-## 1. Citation, commencement and application[^key-fe2de95bd38e7404b1828a32bf03d61f]
+## 1. Citation, commencement and application[^c-fe2de95bd38e7404b1828a32bf03d61f]
 
 (1) These Regulations may be cited as the Pneumoconiosis, etc., (Workers’ Compensation) (Payment of Claims) (Amendment) Regulations (Northern Ireland) 2024 and shall come into operation on 1st April 2024 or the day after they are affirmed by resolution of the Assembly if later.
 
 (2) These Regulations apply only in relation to any case in which a person first satisfies the conditions of entitlement to a payment under the Pneumoconiosis, etc., (Workers’ Compensation) (Payment of Claims) (Northern Ireland) Order 1979 on or after the day on which these Regulations come into operation.
 
-## 2. Amendment of the Pneumoconiosis, etc., (Workers’ Compensation) (Payment of Claims) Regulations[^key-d69d8bd7fa99c82182a1eda7f1550f69]
+## 2. Amendment of the Pneumoconiosis, etc., (Workers’ Compensation) (Payment of Claims) Regulations[^c-d69d8bd7fa99c82182a1eda7f1550f69]
 
 (1) The Pneumoconiosis, etc., (Workers’ Compensation) (Payment of Claims) Regulations (Northern Ireland) 1988[^f00003] are amended in accordance with paragraphs (2) to (4).
 
@@ -73,7 +73,7 @@ A senior officer of the Department for Communities
 
 Regulation (2)4
 
-### PART 1[^key-ec5a1ebf3f0699cf0d2fb0fba4c2b656]
+### PART 1[^c-ec5a1ebf3f0699cf0d2fb0fba4c2b656]
 
 > Table 1
 >
@@ -129,7 +129,7 @@ Regulation (2)4
 > </tbody>
 > </table>
 
-### PART 2[^key-ca69421e39c4e98ef02cc04f1fe9f282]
+### PART 2[^c-ca69421e39c4e98ef02cc04f1fe9f282]
 
 > PART A
 >
@@ -233,12 +233,12 @@ By virtue of regulation 1(2), the amendments made by these Regulations apply onl
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), the Department for Employment and Learning Act (Northern Ireland) [2001 (c. 15 (N.I.))](https://www.legislation.gov.uk/nia/2001/15), Article 3 of [S.R. 2006 No. 192](https://www.legislation.gov.uk/nisr/2006/192) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-fe2de95bd38e7404b1828a32bf03d61f]: Commencement: Reg. 1 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/47/regulation/1/1)
+[^c-fe2de95bd38e7404b1828a32bf03d61f]: Commencement: Reg. 1 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/47/regulation/1/1)
 
-[^key-d69d8bd7fa99c82182a1eda7f1550f69]: Commencement: Reg. 2 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/47/regulation/1/1)
+[^c-d69d8bd7fa99c82182a1eda7f1550f69]: Commencement: Reg. 2 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/47/regulation/1/1)
 
 [^f00003]: Footnote: [The Pneumoconiosis, etc., (Workers' Compensation) (Payment of Claims) Regulations (Northern Ireland) 1988 S.R. 1988 No. 242](https://editorial.legislation.gov.uk/nisr/1988/242/made); relevant amending Regulations are [S.R. 2008 No. 352](https://www.legislation.gov.uk/nisr/2008/352) and [S.R. 2021 No. 55](https://www.legislation.gov.uk/nisr/2021/55)
 
-[^key-ec5a1ebf3f0699cf0d2fb0fba4c2b656]: Commencement: Sch. Pt. 1 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/47/regulation/1/1)
+[^c-ec5a1ebf3f0699cf0d2fb0fba4c2b656]: Commencement: Sch. Pt. 1 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/47/regulation/1/1)
 
-[^key-ca69421e39c4e98ef02cc04f1fe9f282]: Commencement: Sch. Pt. 2 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/47/regulation/1/1)
+[^c-ca69421e39c4e98ef02cc04f1fe9f282]: Commencement: Sch. Pt. 2 in operation at 1.4.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/47/regulation/1/1)

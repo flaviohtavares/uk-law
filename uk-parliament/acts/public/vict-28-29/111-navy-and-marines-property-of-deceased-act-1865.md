@@ -48,27 +48,27 @@ In this Act—
 - The term “**representative**” means any person taking out representation:
 - The term “**person**” includes a corporation.
 
-## 3. Residue belonging to deceased officers, seamen, or marines.[^key-66153b92e270f3abecba8374089fa8d7]
+## 3. Residue belonging to deceased officers, seamen, or marines.[^c-66153b92e270f3abecba8374089fa8d7]
 
 On the death of any person being or having been an officer, seaman, or marine, the amount (if any) to the credit of the deceased in the books of the Admiralty, in respect of sale of effects, arrears of pay, wages, prize money, bounty money, grants, or other allowances in the nature thereof, or other money payable by the Admiralty (which amount is hereafter in this Act, with reference to every such case, called the residue), shall be disposed of according to the provisions of this Act.
 
 ## 4. Residue belonging to deceased persons in civil service of Navy.
 
-On the death of any person being or having been employed in any of Her Majesty’s dockyards or other naval establishment, or in any of the civil departments of the Navy, or entitled to an allowance from the Compassionate Fund, or of any widow or surviving civil partner[^key-24addf8b27c16d21c91d12243186cb13] entitled to a pension on the establishment of the Navy, the amount (if any) due by the Admiralty (which amount is hereafter in this Act, with reference to every such case, called the residue), shall be disposed of according to the provisions of this Act.
+On the death of any person being or having been employed in any of Her Majesty’s dockyards or other naval establishment, or in any of the civil departments of the Navy, or entitled to an allowance from the Compassionate Fund, or of any widow or surviving civil partner[^c-24addf8b27c16d21c91d12243186cb13] entitled to a pension on the establishment of the Navy, the amount (if any) due by the Admiralty (which amount is hereafter in this Act, with reference to every such case, called the residue), shall be disposed of according to the provisions of this Act.
 
-## 5. †Residue exceeding, 100l. to be paid to representative.[^key-b332fe8240ca2bf46a5453ce0d923f87][^c564287][^c564288]
+## 5. †Residue exceeding, 100l. to be paid to representative.[^c-b332fe8240ca2bf46a5453ce0d923f87][^c564287][^c564288]
 
 Where the residue exceeds £5,000[^c564289] the Admiralty shall dispose thereof by paying it to the representative of the deceased.
 
-## 6. †Residue not exceeding 100l. to be paid to representative, if any.[^key-b332fe8240ca2bf46a5453ce0d923f87][^c564290][^c564291]
+## 6. †Residue not exceeding 100l. to be paid to representative, if any.[^c-b332fe8240ca2bf46a5453ce0d923f87][^c564290][^c564291]
 
 Where the residue does not exceed £5,000[^c564292] it shall not be necessary for any purpose that representation to the deceased be taken out; but in any case the Admiralty may, if they think fit, require representation to be taken out, and, if on that requisition or otherwise, representation is taken out, then the Admiralty shall dispose of the residue by paying it to the representative.
 
-## 7. Power to require certificate, &c. before representation.[^key-b332fe8240ca2bf46a5453ce0d923f87]
+## 7. Power to require certificate, &c. before representation.[^c-b332fe8240ca2bf46a5453ce0d923f87]
 
 In the case, nevertheless, of a seaman or marine, the Admiralty shall not be bound to pay the residue (whatever be its amount) to the representative of the deceased, if representation has been taken out either by a creditor as such, or by any person without such certificate respecting the title to representation having been first obtained from the Admiralty, or such other regulations or conditions having been duly observed or performed, as is or are prescribed by Order in Council; and in any such case the Admiralty shall dispose of the residue in pursuance of this Act as if representation had not been taken out.
 
-## 8. †Residue not exceeding 100l.,and no representation, power to pay it to widow, &c.[^key-b332fe8240ca2bf46a5453ce0d923f87][^c564293][^c564294]
+## 8. †Residue not exceeding 100l.,and no representation, power to pay it to widow, &c.[^c-b332fe8240ca2bf46a5453ce0d923f87][^c564293][^c564294]
 
 Where the residue does not exceed £5,000[^c564295], and representation is not taken out, then, subject to the other provisions of this Act, the Admiralty shall, as soon as may be, dispose of the residue as follows:—
 
@@ -78,15 +78,15 @@ Where the residue does not exceed £5,000[^c564295], and representation is not t
 
 (3) And in cases where the foregoing provisions of the present section do not apply, and the amount of the residue appears to the Admiralty insufficient to cover the expense of representation, the Admiralty shall dispose of the residue in manner prescribed by Order in Council.
 
-## 9. Admiralty not bound to pay to nominee of representative.[^key-b332fe8240ca2bf46a5453ce0d923f87]
+## 9. Admiralty not bound to pay to nominee of representative.[^c-b332fe8240ca2bf46a5453ce0d923f87]
 
 In the case of a seaman or marine, the Admiralty shall not pay the residue or any part thereof to any nominee of the representative of the deceased or of a person entitled to take out representation to the deceased, whether such nominee be appointed by power of attorney or otherwise, unless in special circumstances it appears to the Admiralty safe and proper to make such payment to any such nominee.
 
-## 10. Admiralty not to dispose of residue for three months, &c.[^key-b332fe8240ca2bf46a5453ce0d923f87]
+## 10. Admiralty not to dispose of residue for three months, &c.[^c-b332fe8240ca2bf46a5453ce0d923f87]
 
 Notwithstanding anything in this Act, the Admiralty shall not in any case dispose of the residue or any part thereof otherwise than by paying the same to the representative of the deceased, until after the expiration of three months from the receipt by the Admiralty of notice of the death, unless in special circumstances it appears to the Admiralty safe and proper to dispose of the residue or any part thereof at an earlier time.
 
-## 11. Provision for payment of debts out of residue.[^key-b332fe8240ca2bf46a5453ce0d923f87]
+## 11. Provision for payment of debts out of residue.[^c-b332fe8240ca2bf46a5453ce0d923f87]
 
 In the case of a seaman or marine, where representation is not taken out, the Admiralty shall before disposing of the residue or any part thereof satisfy out of the residue (as far as the same will extend) any debt of the deceased of which they have notice, subject to the following conditions:
 
@@ -143,11 +143,11 @@ Every Order in Council under this Act . . . [^c564299]shall be laid before both 
 
 [^c564286]: Textual amendment: Words repealed by [Statute Law Revision Act 1966 (c. 5)](https://www.legislation.gov.uk/ukpga/1966/5)
 
-[^key-66153b92e270f3abecba8374089fa8d7]: Modification: S. 3 applied (6.4.2005) by [Armed Forces (Pensions and Compensation) Act 2004 (c. 32)](https://www.legislation.gov.uk/ukpga/2004/32), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2004/32/section/2/2), [8](https://www.legislation.gov.uk/ukpga/2004/32/section/8); [S.I. 2005/356](https://www.legislation.gov.uk/uksi/2005/356), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/356/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/356/schedule/2)
+[^c-66153b92e270f3abecba8374089fa8d7]: Modification: S. 3 applied (6.4.2005) by [Armed Forces (Pensions and Compensation) Act 2004 (c. 32)](https://www.legislation.gov.uk/ukpga/2004/32), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2004/32/section/2/2), [8](https://www.legislation.gov.uk/ukpga/2004/32/section/8); [S.I. 2005/356](https://www.legislation.gov.uk/uksi/2005/356), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/356/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/356/schedule/2)
 
-[^key-24addf8b27c16d21c91d12243186cb13]: Textual amendment: Words in [s. 4](https://www.legislation.gov.uk/ukpga/Vict/28-29/111/section/4) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 2](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-24addf8b27c16d21c91d12243186cb13]: Textual amendment: Words in [s. 4](https://www.legislation.gov.uk/ukpga/Vict/28-29/111/section/4) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 2](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-b332fe8240ca2bf46a5453ce0d923f87]: Modification: Ss. 5-11 applied (6.4.2005) by [Armed Forces (Pensions and Compensation) Act 2004 (c. 32)](https://www.legislation.gov.uk/ukpga/2004/32), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2004/32/section/2/2), [8](https://www.legislation.gov.uk/ukpga/2004/32/section/8); [S.I. 2005/356](https://www.legislation.gov.uk/uksi/2005/356), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/356/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/356/schedule/2)
+[^c-b332fe8240ca2bf46a5453ce0d923f87]: Modification: Ss. 5-11 applied (6.4.2005) by [Armed Forces (Pensions and Compensation) Act 2004 (c. 32)](https://www.legislation.gov.uk/ukpga/2004/32), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2004/32/section/2/2), [8](https://www.legislation.gov.uk/ukpga/2004/32/section/8); [S.I. 2005/356](https://www.legislation.gov.uk/uksi/2005/356), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/356/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/356/schedule/2)
 
 [^c564287]: Modification: A dagger appended to a marginal note means that it is no longer accurate
 

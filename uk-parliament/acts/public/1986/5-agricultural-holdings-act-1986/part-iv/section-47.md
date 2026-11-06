@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Terms of new tenancy unless varied by arbitration or third party determination .[^key-8a9972a6e0e27f0607df115785785183]
+## 47. Terms of new tenancy unless varied by arbitration or third party determination .[^c-8a9972a6e0e27f0607df115785785183]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a9972a6e0e27f0607df115785785183]: Textual amendment: Words in s. 47 inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/15)
+[^c-8a9972a6e0e27f0607df115785785183]: Textual amendment: Words in s. 47 inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/15)

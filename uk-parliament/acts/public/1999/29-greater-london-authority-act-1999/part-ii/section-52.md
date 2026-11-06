@@ -27,7 +27,7 @@ summary: ''
 - (a) the Chair of the Assembly; and
 - (b) the Deputy Chair of the Assembly.
 
-(3)[^key-aa3040df5654a96c0245cd427306209d] On such ten occasions in each calendar year as the Assembly may determine, there shall be a meeting of the Assembly—
+(3)[^c-aa3040df5654a96c0245cd427306209d] On such ten occasions in each calendar year as the Assembly may determine, there shall be a meeting of the Assembly—
 
 - (a) to consider the written report submitted for the meeting by the Mayor under section 45 above,
 - (b) to enable Assembly members to put—
@@ -37,7 +37,7 @@ summary: ''
 
 (4) The first meeting under subsection (3) above after an ordinary election shall be held not later than 25 days after the day of the poll at the election.
 
-(4A)[^key-da67f47ab42a925267e0669fef14469e] There must be at least 21 clear days between a meeting under subsection (3) above and the last such meeting before it, but this does not apply to the gap between the first such meeting after an ordinary election and the last such meeting before that election.
+(4A)[^c-da67f47ab42a925267e0669fef14469e] There must be at least 21 clear days between a meeting under subsection (3) above and the last such meeting before it, but this does not apply to the gap between the first such meeting after an ordinary election and the last such meeting before that election.
 
 (5) Notice of the time and place of any meeting of the Assembly—
 
@@ -49,9 +49,9 @@ in accordance with the standing orders of the Authority.
 (6) In the case of a meeting of the Assembly under subsection (3) above, the notice required by subsection (5) above must be given and published—
 
 - (a) if the meeting is the first such meeting after an ordinary election, as soon as reasonably practicable after the day of the poll at that election; or
-- (b) in any other case, at least 14[^key-c3e78a781f72ce2294d8e4f529555338] clear days before the meeting.
+- (b) in any other case, at least 14[^c-c3e78a781f72ce2294d8e4f529555338] clear days before the meeting.
 
-(7)[^key-deb538377707570227ab111b22d38ca1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-deb538377707570227ab111b22d38ca1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) An extraordinary meeting of the Assembly may be called at any time by the Chair of the Assembly.
 
@@ -66,10 +66,10 @@ any five Assembly members may forthwith call an extraordinary meeting of the Ass
 
 ## Annotations
 
-[^key-aa3040df5654a96c0245cd427306209d]: Modification: S. 52(3) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/2020/392/regulation/7/d) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
+[^c-aa3040df5654a96c0245cd427306209d]: Modification: S. 52(3) modified (E.) (4.4.2020) by [The Local Authorities and Police and Crime Panels (Coronavirus) (Flexibility of Local Authority and Police and Crime Panel Meetings) (England and Wales) Regulations 2020 (S.I. 2020/392)](https://www.legislation.gov.uk/uksi/2020/392), [regs. 1](https://www.legislation.gov.uk/uksi/2020/392/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/2020/392/regulation/7/d) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/2020/392/regulation/2/4))
 
-[^key-da67f47ab42a925267e0669fef14469e]: Textual amendment: S. 52(4A) inserted (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e), [Sch. 7 para. 69(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/69/2); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/2/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-da67f47ab42a925267e0669fef14469e]: Textual amendment: S. 52(4A) inserted (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e), [Sch. 7 para. 69(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/69/2); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/2/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-c3e78a781f72ce2294d8e4f529555338]: Textual amendment: Word in s. 52(6)(b) substituted (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e), [Sch. 7 para. 69(3)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/69/3); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/2/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-c3e78a781f72ce2294d8e4f529555338]: Textual amendment: Word in s. 52(6)(b) substituted (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e), [Sch. 7 para. 69(3)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/69/3); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/2/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-deb538377707570227ab111b22d38ca1]: Textual amendment: S. 52(7) repealed (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e)[(f)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/f), [Sch. 7 para. 69(4)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/69/4), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 2(a)(h)(iv)](https://www.legislation.gov.uk/uksi/2003/2938/article/2/a/h/iv) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-deb538377707570227ab111b22d38ca1]: Textual amendment: S. 52(7) repealed (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(3)(e)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/e)[(f)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/3/f), [Sch. 7 para. 69(4)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/69/4), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 2(a)(h)(iv)](https://www.legislation.gov.uk/uksi/2003/2938/article/2/a/h/iv) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))

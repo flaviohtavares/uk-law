@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Public health investigation offences[^key-cb92a0357c9143a0f062bb528b01ec69]
+## 29. Public health investigation offences[^c-cb92a0357c9143a0f062bb528b01ec69]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb92a0357c9143a0f062bb528b01ec69]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2008/5/section/29) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-cb92a0357c9143a0f062bb528b01ec69]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2008/5/section/29) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

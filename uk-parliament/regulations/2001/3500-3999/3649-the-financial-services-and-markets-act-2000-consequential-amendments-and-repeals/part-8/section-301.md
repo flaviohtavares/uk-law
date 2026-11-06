@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 301. Agreements to indemnify certain lenders in England and Wales: consultation requirements[^key-6b34b49428bf92b0e6b48e9f9bea1905]
+## 301. Agreements to indemnify certain lenders in England and Wales: consultation requirements[^c-6b34b49428bf92b0e6b48e9f9bea1905]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 84(5)(a)[^f00229] of the Housing Associations Act 1985 (requirement t
 
 ## Annotations
 
-[^key-6b34b49428bf92b0e6b48e9f9bea1905]: Commencement: Art. 301 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-6b34b49428bf92b0e6b48e9f9bea1905]: Commencement: Art. 301 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00229]: Footnote: The reference to the Building Societies Commission in section 84(5)(a) was substituted by the Building Societies Act [1986 (c. 53)](https://www.legislation.gov.uk/ukpga/1986/53), Schedule 18, paragraph 19(3).

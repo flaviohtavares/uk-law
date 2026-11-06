@@ -35,7 +35,7 @@ summary: ''
 - “**blight notice**” has the meaning given in section 149(5);
 - “**the claimant**” has the meaning given in section 150(4);
 - “**hereditament**” means a relevant hereditament within the meaning of section 64(4)(a) to (c) of the [^c14022051]Local Government Finance Act 1988;
-- “infrastructure policy statement has the meaning given by section 127(2) of the Infrastructure (Wales) Act 2024;[^key-f06122db4eb22959391ecfff24feac83]
+- “infrastructure policy statement has the meaning given by section 127(2) of the Infrastructure (Wales) Act 2024;[^c-f06122db4eb22959391ecfff24feac83]
 - “[^c19906461]**national policy statement**” has the meaning given by section 5(2) of the Planning Act 2008;
 - “**special enactment**” means a local enactment, or a provision contained in an Act other than a local or private Act, which is a local enactment or provision authorising the compulsory acquisition of land specifically identified in it; and in this definition “**local enactment**” means a local or private Act, or an order confirmed by Parliament or brought into operation in accordance with special parliamentary procedure.
 
@@ -59,7 +59,7 @@ and expressions used in the definition of “**annual value**” in subsection (
 
 [^c14022051]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
 
-[^key-f06122db4eb22959391ecfff24feac83]: Textual amendment: Words in s. 171(1) inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 99(8)](https://www.legislation.gov.uk/asc/2024/3/section/99/8), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-f06122db4eb22959391ecfff24feac83]: Textual amendment: Words in s. 171(1) inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 99(8)](https://www.legislation.gov.uk/asc/2024/3/section/99/8), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
 
 [^c19906461]: Textual amendment: S. 171(1): definition of "national policy statement" inserted (6.4.2009 for certain purposes and otherwise 1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 175(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/175/8), [241](https://www.legislation.gov.uk/ukpga/2008/29/section/241) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3](https://www.legislation.gov.uk/uksi/2009/400/article/3); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(f)](https://www.legislation.gov.uk/uksi/2010/101/article/4/f) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 

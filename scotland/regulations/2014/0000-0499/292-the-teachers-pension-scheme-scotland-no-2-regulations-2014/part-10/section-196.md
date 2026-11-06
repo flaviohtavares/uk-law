@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 196. Application for payment of a transfer value[^key-53e6272c39e1778b632fed255526963d]
+## 196. Application for payment of a transfer value[^c-53e6272c39e1778b632fed255526963d]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53e6272c39e1778b632fed255526963d]: Commencement: [Reg. 196](https://www.legislation.gov.uk/ssi/2014/292/regulation/196) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-53e6272c39e1778b632fed255526963d]: Commencement: [Reg. 196](https://www.legislation.gov.uk/ssi/2014/292/regulation/196) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

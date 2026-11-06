@@ -43,7 +43,7 @@ An Act to amend the law with respect to the jurisdiction and business of the Sup
 
 ## Miscellaneous
 
-### 22. Registration of deeds of arrangment.[^key-f141eba9f54116d03ca697f89812fde2]
+### 22. Registration of deeds of arrangment.[^c-f141eba9f54116d03ca697f89812fde2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -91,7 +91,7 @@ Any order made under this Act by the Lord Chancellor, . . . [^c584135] may at an
 
 [^c584123]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/Geo5/15-16/28/section/1)—18, 21, 24–26, Schs. 1–3 repealed by [Supreme Court of Judicature (Consolidation) Act 1925 (c. 49)](https://www.legislation.gov.uk/ukpga/1925/49), [s. 226](https://www.legislation.gov.uk/ukpga/1925/49/section/226), [Sch. 6](https://www.legislation.gov.uk/ukpga/1925/49/schedule/6)
 
-[^key-f141eba9f54116d03ca697f89812fde2]: Textual amendment: S. 22 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/1/2) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-f141eba9f54116d03ca697f89812fde2]: Textual amendment: S. 22 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/1/2) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
 
 [^c584131]: Marginal citation: [1882 c. 43](https://www.legislation.gov.uk/ukpga/1882/43).
 

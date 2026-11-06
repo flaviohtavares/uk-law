@@ -41,7 +41,7 @@ An Act to provide for the establishment of a Commission for the purpose of regis
 
 (3) Subject, in the case of the chairman, to subsection (3A) of this section,[^c600039]Every member of the Commission shall hold and vacate his office in accordance with the terms of his appointment, and a member of the Commission who ceases to hold office shall be eligible for re-appointment.
 
-(3A)[^c600040] The chairman of the Commission shall vacate his office on the day on which he attains the age of 75[^key-648056aca2b6b53da10532c040ce05e9].
+(3A)[^c600040] The chairman of the Commission shall vacate his office on the day on which he attains the age of 75[^c-648056aca2b6b53da10532c040ce05e9].
 
 (4)[^c600041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -150,7 +150,7 @@ Provided that His Majesty may by Order in Council direct the payment into the Ex
 
 [^c600040]: Textual amendment: [S. 1(3A)](https://www.legislation.gov.uk/ukpga/Geo6/14/12/section/1/3A) inserted (31.3.1995) by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8), [s. 26(10)](https://www.legislation.gov.uk/ukpga/1993/8/section/26/10), [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/25) (with [Sch. 7 paras. 2(2)](https://www.legislation.gov.uk/ukpga/1993/8/schedule/7/paragraph/2/2), [3(2)](https://www.legislation.gov.uk/ukpga/1993/8/schedule/7/paragraph/3/2)); [S.I. 1995/631](https://www.legislation.gov.uk/uksi/1995/631), [art. 2](https://www.legislation.gov.uk/uksi/1995/631/article/2)
 
-[^key-648056aca2b6b53da10532c040ce05e9]: Textual amendment: Word in [s. 1(3A)](https://www.legislation.gov.uk/ukpga/Geo6/14/12/section/1/3A) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/4) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-648056aca2b6b53da10532c040ce05e9]: Textual amendment: Word in [s. 1(3A)](https://www.legislation.gov.uk/ukpga/Geo6/14/12/section/1/3A) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/4) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
 [^c600041]: Textual amendment: [S. 1(4)](https://www.legislation.gov.uk/ukpga/Geo6/14/12/section/1/4) repealed by [House of Commons Disqualification Act, 1957 (c. 20)](https://www.legislation.gov.uk/ukpga/1957/20), [s. 14(1)](https://www.legislation.gov.uk/ukpga/1957/20/section/14/1), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1957/20/schedule/4/part/I)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Codes of practice issued by the College[^key-a7d24afe98153c77cb2918dfff3914c4]
+## 124. Codes of practice issued by the College[^c-a7d24afe98153c77cb2918dfff3914c4]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7d24afe98153c77cb2918dfff3914c4]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2014/12/section/124) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)
+[^c-a7d24afe98153c77cb2918dfff3914c4]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2014/12/section/124) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)

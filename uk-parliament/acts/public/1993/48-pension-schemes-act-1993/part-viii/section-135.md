@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Persons competent to make applications under s. 134.[^key-8822059ddba351ec98dd944b517bf020]
+## 135. Persons competent to make applications under s. 134.[^c-8822059ddba351ec98dd944b517bf020]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8822059ddba351ec98dd944b517bf020]: Textual amendment: Ss. 133-135 repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 5 para. 64](https://www.legislation.gov.uk/ukpga/1995/26/schedule/5/paragraph/64), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II)
+[^c-8822059ddba351ec98dd944b517bf020]: Textual amendment: Ss. 133-135 repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 5 para. 64](https://www.legislation.gov.uk/ukpga/1995/26/schedule/5/paragraph/64), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II)

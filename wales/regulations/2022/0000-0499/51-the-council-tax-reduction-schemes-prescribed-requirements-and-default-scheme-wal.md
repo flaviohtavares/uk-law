@@ -41,7 +41,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with section 13A(8) of that Act, a draft of this instrument has been laid before and approved by resolution of Senedd Cymru[^f00002].
 
-## 1. Title, commencement and interpretation[^key-c79c241d79c76fec28e26dd3a80f4593]
+## 1. Title, commencement and interpretation[^c-c79c241d79c76fec28e26dd3a80f4593]
 
 (1) The title of these Regulations is the Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2022.
 
@@ -54,11 +54,11 @@ In accordance with section 13A(8) of that Act, a draft of this instrument has be
 - “billing authority” (“*awdurdod bilio*”) has the meaning given in section 1(2)(b) of the Local Government Finance Act 1992 (“the 1992 Act”);
 - “council tax reduction scheme” (“*cynllun gostyngiadau’r dreth gyngor*”) means a scheme made by a billing authority in accordance with the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013[^f00003], or the scheme that applies in default by virtue of paragraph 6(1)(e) of Schedule 1B to the 1992 Act.
 
-## 2. Amendments to the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013[^key-3ba248f11153e75f3d816864f48c6621]
+## 2. Amendments to the Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013[^c-3ba248f11153e75f3d816864f48c6621]
 
 The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013 are amended in accordance with regulations 3 to 10.
 
-**3.**[^key-b3beb7fae61ee47ea4cb7a9453513671] (1) Regulation 28(5) (persons treated as not being in Great Britain) is amended in accordance with paragraphs (2) to (5).
+**3.**[^c-b3beb7fae61ee47ea4cb7a9453513671] (1) Regulation 28(5) (persons treated as not being in Great Britain) is amended in accordance with paragraphs (2) to (5).
 
 (2) In sub-paragraph (e)—
 
@@ -83,7 +83,7 @@ The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulation
 >   - (ii) the previous scheme for locally-employed staff in Afghanistan (sometimes referred to as the ex-gratia scheme)[^f00006]; or
 > - (n) a person in Great Britain not coming within sub-paragraph (e)(iv) or (m) who left Afghanistan in connection with the collapse of the Afghan government that took place on 15 August 2021.
 
-**4.**[^key-13fdaa91c64290d59cdc9a76a42a9cd6] In Schedule 1 (determining eligibility for a reduction: pensioners), in paragraph 3 (non-dependant deductions: pensioners)—
+**4.**[^c-13fdaa91c64290d59cdc9a76a42a9cd6] In Schedule 1 (determining eligibility for a reduction: pensioners), in paragraph 3 (non-dependant deductions: pensioners)—
 
 - (a) in sub-paragraph (1)(a), for “£15.35” substitute “£15.95”;
 - (b) in sub-paragraph (1)(b), for “£5.10” substitute “£5.30”;
@@ -91,7 +91,7 @@ The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulation
 - (d) in sub-paragraph (2)(b), for “£217.00”, “£377.00” and “£10.20” substitute “£224.00”, “£389.00” and “£10.60” respectively;
 - (e) in sub-paragraph (2)(c), for “£377.00”, “£469.00” and “£12.85” substitute “£389.00”, “£484.00” and “£13.35” respectively.
 
-**5.**[^key-9c9220b625407879b0c163f8a67256bf] In Schedule 2 (applicable amounts: pensioners)—
+**5.**[^c-9c9220b625407879b0c163f8a67256bf] In Schedule 2 (applicable amounts: pensioners)—
 
 - (a) for the Table in paragraph 1 (personal allowance) substitute—
 
@@ -116,13 +116,13 @@ The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulation
   - (iii) in sub-paragraph (3), for “£65.94” substitute “£68.04”;
   - (iv) in sub-paragraph (4), for “£37.70” substitute “£38.85”.
 
-**6.**[^key-bbadb25063b8567dceb39735843ebf8c] In Schedule 5 (capital disregards: pensioners), after paragraph 28C insert—
+**6.**[^c-bbadb25063b8567dceb39735843ebf8c] In Schedule 5 (capital disregards: pensioners), after paragraph 28C insert—
 
 > **28D.** Any ex gratia payment made at the discretion of the Scottish Ministers from the Advance Payment Scheme which the Scottish Ministers set up in respect of cases of historical child abuse in care[^f00007].
 >
 > **28E.** Any redress payment made under Part 4 of the Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021[^f00008].
 
-**7.**[^key-e55840fdea2b31b239ee6ccf7f461460] In Schedule 6 (determining eligibility for a reduction: persons who are not pensioners), in paragraph 5 (non-dependant deductions: persons who are not pensioners)—
+**7.**[^c-e55840fdea2b31b239ee6ccf7f461460] In Schedule 6 (determining eligibility for a reduction: persons who are not pensioners), in paragraph 5 (non-dependant deductions: persons who are not pensioners)—
 
 - (a) in sub-paragraph (1)(a), for “£15.35” substitute “£15.95”;
 - (b) in sub-paragraph (1)(b), for “£5.10” substitute “£5.30”;
@@ -130,7 +130,7 @@ The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulation
 - (d) in sub-paragraph (2)(b), for “£217.00”, “£377.00” and “£10.20” substitute “£224.00”, “£389.00” and “£10.60” respectively;
 - (e) in sub-paragraph (2)(c), for “£377.00”, “£469.00” and “£12.85” substitute “£389.00”, “£484.00” and “£13.35” respectively.
 
-**8.**[^key-c9fe69b16065c6b6d829edef502290da] In Schedule 7 (applicable amounts: persons who are not pensioners)—
+**8.**[^c-c9fe69b16065c6b6d829edef502290da] In Schedule 7 (applicable amounts: persons who are not pensioners)—
 
 - (a) in column (2) of the Table in paragraph 1 (personal allowances)—
   - (i) in sub-paragraph (1), for “£79.60”, in each place it occurs, substitute “£82.10” and for “£63.05” substitute “£65.00”;
@@ -148,24 +148,24 @@ The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulation
   - (i) in paragraph 23, for “£29.70” substitute “£30.60”;
   - (ii) in paragraph 24, for “£39.40” substitute “£40.60”.
 
-**9.**[^key-87213676028d20868e98a14ad7edc33e] In Schedule 10 (capital disregards: persons who are not pensioners), after paragraph 65 insert—
+**9.**[^c-87213676028d20868e98a14ad7edc33e] In Schedule 10 (capital disregards: persons who are not pensioners), after paragraph 65 insert—
 
 > **66.** Any ex gratia payment made at the discretion of the Scottish Ministers from the Advance Payment Scheme which the Scottish Ministers set up in respect of cases of historical child abuse in care.
 >
 > **67.** Any redress payment made under Part 4 of the Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021.
 
-**10.**[^key-bf6d26aff1f999c6c0b23fdfd4d355bb] In Schedule 13 (all applicants: matters that must be included in an authority’s scheme - other matters), in paragraph 5—
+**10.**[^c-bf6d26aff1f999c6c0b23fdfd4d355bb] In Schedule 13 (all applicants: matters that must be included in an authority’s scheme - other matters), in paragraph 5—
 
 - (a) at the end of sub-paragraph (7)(c) for “.” substitute “;”;
 - (b) after sub-paragraph (7)(c) insert—
 
   > - (d) a payment which is disregarded under paragraph 28D or 28E of Schedule 5 (capital disregards: pensioners) or paragraph 66 or 67 of Schedule 10 (capital disregards: persons who are not pensioners).
 
-## 11. Amendments to the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013[^key-721b13da399536f75bd32b752ce8f198]
+## 11. Amendments to the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013[^c-721b13da399536f75bd32b752ce8f198]
 
 The scheme set out in the Schedule to the Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013[^f00009] is amended in accordance with regulations 12 to 18.
 
-**12.**[^key-bf8cc988c4ac6029eb6b38760d6ad436] (1) Paragraph 19(5) (persons treated as not being in Great Britain) is amended in accordance with paragraphs (2) to (5).
+**12.**[^c-bf8cc988c4ac6029eb6b38760d6ad436] (1) Paragraph 19(5) (persons treated as not being in Great Britain) is amended in accordance with paragraphs (2) to (5).
 
 (2) In paragraph (e)—
 
@@ -190,7 +190,7 @@ The scheme set out in the Schedule to the Council Tax Reduction Schemes (Default
 >   - (ii) the previous scheme for locally-employed staff in Afghanistan (sometimes referred to as the ex-gratia scheme)[^f00012]; or
 > - (n) a person in Great Britain not coming within paragraph (e)(iv) or (m) who left Afghanistan in connection with the collapse of the Afghan government that took place on 15 August 2021.
 
-**13.**[^key-8c5f62cf3a72eb7676ce8a5619f6f898] In paragraph 28 (non-dependant deductions: pensioners and persons who are not pensioners)—
+**13.**[^c-8c5f62cf3a72eb7676ce8a5619f6f898] In paragraph 28 (non-dependant deductions: pensioners and persons who are not pensioners)—
 
 - (a) in sub-paragraph (1)(a), for “£15.35” substitute “£15.95”;
 - (b) in sub-paragraph (1)(b), for “£5.10” substitute “£5.30”;
@@ -198,14 +198,14 @@ The scheme set out in the Schedule to the Council Tax Reduction Schemes (Default
 - (d) in sub-paragraph (2)(b), for “£217.00”, “£377.00” and “£10.20” substitute “£224.00”, “£389.00” and “£10.60” respectively;
 - (e) in sub-paragraph (2)(c), for “£377.00”, “£469.00” and “£12.85” substitute “£389.00”, “£484.00” and “£13.35” respectively.
 
-**14.**[^key-9e766893c40952c4f65af1c9067a5cdc] In paragraph 111 (evidence and information)—
+**14.**[^c-9e766893c40952c4f65af1c9067a5cdc] In paragraph 111 (evidence and information)—
 
 - (a) at the end of sub-paragraph (7)(c) for “.” substitute “;”;
 - (b) after sub-paragraph (7)(c) insert—
 
   > - (d) a payment which is disregarded under paragraph 28D or 28E of Schedule 8 (capital disregards: pensioners) or paragraph 66 or 67 of Schedule 9 (capital disregards: persons who are not pensioners).
 
-**15.**[^key-04e3c4f59fd766936c1a72cf03a9b96b] In Schedule 2 (applicable amounts: pensioners)—
+**15.**[^c-04e3c4f59fd766936c1a72cf03a9b96b] In Schedule 2 (applicable amounts: pensioners)—
 
 - (a) in paragraph 1 (personal allowance), for the Table substitute—
 
@@ -230,7 +230,7 @@ The scheme set out in the Schedule to the Council Tax Reduction Schemes (Default
   - (iii) in sub-paragraph (3), for “£65.94” substitute “£68.04”;
   - (iv) in sub-paragraph (4), for “£37.70” substitute “£38.85”.
 
-**16.**[^key-f261de85f98346abba8dbe4177c89211] In Schedule 3 (applicable amounts: persons who are not pensioners)—
+**16.**[^c-f261de85f98346abba8dbe4177c89211] In Schedule 3 (applicable amounts: persons who are not pensioners)—
 
 - (a) in column (2) of the Table in paragraph 1 (personal allowances)—
   - (i) in sub-paragraph (1), for “£79.60”, in each place it occurs, substitute “£82.10” and for “£63.05” substitute “£65.00”;
@@ -248,13 +248,13 @@ The scheme set out in the Schedule to the Council Tax Reduction Schemes (Default
   - (i) in paragraph 23, for “£29.70” substitute “£30.60”;
   - (ii) in paragraph 24, for “£39.40” substitute “£40.60”.
 
-**17.**[^key-25c15a6281cc191fd1a73271dbb53a7c] In Schedule 8 (capital disregards: pensioners), after paragraph 28C insert—
+**17.**[^c-25c15a6281cc191fd1a73271dbb53a7c] In Schedule 8 (capital disregards: pensioners), after paragraph 28C insert—
 
 > **28D.** Any ex gratia payment made at the discretion of the Scottish Ministers from the Advance Payment Scheme which the Scottish Ministers set up in respect of cases of historical child abuse in care[^f00013].
 >
 > **28E.** Any redress payment made under Part 4 of the Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021[^f00014].
 
-**18.**[^key-efaee0059a14a0cdb3e805afa3c11bb6] In Schedule 9 (capital disregards: persons who are not pensioners), after paragraph 65 insert—
+**18.**[^c-efaee0059a14a0cdb3e805afa3c11bb6] In Schedule 9 (capital disregards: persons who are not pensioners), after paragraph 65 insert—
 
 > **66.** Any ex gratia payment made at the discretion of the Scottish Ministers from the Advance Payment Scheme which the Scottish Ministers set up in respect of cases of historical child abuse in care.
 >
@@ -292,13 +292,13 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The reference in section 13A(8) to the National Assembly for Wales now has effect as a reference to Senedd Cymru, by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), as amended by section 9 of, and Schedule 1 to, the Senedd and Elections (Wales) [Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1).
 
-[^key-c79c241d79c76fec28e26dd3a80f4593]: Commencement: Reg. 1 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-c79c241d79c76fec28e26dd3a80f4593]: Commencement: Reg. 1 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2013/3029 (W. 301)](https://www.legislation.gov.uk/wsi/2013/3029), amended by [S.I. 2014/66 (W. 6)](https://www.legislation.gov.uk/wsi/2014/66), [S.I. 2014/825 (W. 83)](https://www.legislation.gov.uk/wsi/2014/825), [S.I. 2015/44 (W. 3)](https://www.legislation.gov.uk/wsi/2015/44), [S.I. 2015/971](https://www.legislation.gov.uk/uksi/2015/971), [S.I. 2016/50 (W. 21)](https://www.legislation.gov.uk/wsi/2016/50), [S.I. 2017/46 (W. 20)](https://www.legislation.gov.uk/wsi/2017/46), [S.I. 2018/14 (W. 7)](https://www.legislation.gov.uk/wsi/2018/14), [S.I. 2019/11 (W. 5)](https://www.legislation.gov.uk/wsi/2019/11), [S.I. 2020/16 (W. 2)](https://www.legislation.gov.uk/wsi/2020/16) and [S.I. 2021/34 (W. 9)](https://www.legislation.gov.uk/wsi/2021/34).
 
-[^key-3ba248f11153e75f3d816864f48c6621]: Commencement: Reg. 2 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-3ba248f11153e75f3d816864f48c6621]: Commencement: Reg. 2 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
-[^key-b3beb7fae61ee47ea4cb7a9453513671]: Commencement: Reg. 3 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-b3beb7fae61ee47ea4cb7a9453513671]: Commencement: Reg. 3 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
 [^f00004]: Footnote: The Afghan Citizens Resettlement Scheme was announced by the United Kingdom Government on 18 August 2021 and is published: https://www.gov.uk/guidance/afghan-citizens-resettlement-scheme.
 
@@ -306,29 +306,29 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00006]: Footnote: See Part 7 of the rules made under section 3(2) of the Immigration Act [1971 (c. 77)](https://www.legislation.gov.uk/ukpga/1971/77); the relevant rules are rules 276BA1 – 276BS2.
 
-[^key-13fdaa91c64290d59cdc9a76a42a9cd6]: Commencement: Reg. 4 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-13fdaa91c64290d59cdc9a76a42a9cd6]: Commencement: Reg. 4 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
-[^key-9c9220b625407879b0c163f8a67256bf]: Commencement: Reg. 5 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-9c9220b625407879b0c163f8a67256bf]: Commencement: Reg. 5 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
-[^key-bbadb25063b8567dceb39735843ebf8c]: Commencement: Reg. 6 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-bbadb25063b8567dceb39735843ebf8c]: Commencement: Reg. 6 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
 [^f00007]: Footnote: The Advance Payment Scheme was announced by the Scottish Government on 25 April 2019 and is published: https://www.gov.scot/publications/financial-redress-for-survivors-of-child-abuse-in-care-advance-payment-scheme/.
 
 [^f00008]: Footnote: [2021 asp 15](https://www.legislation.gov.uk/asp/2021/15).
 
-[^key-e55840fdea2b31b239ee6ccf7f461460]: Commencement: Reg. 7 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-e55840fdea2b31b239ee6ccf7f461460]: Commencement: Reg. 7 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
-[^key-c9fe69b16065c6b6d829edef502290da]: Commencement: Reg. 8 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-c9fe69b16065c6b6d829edef502290da]: Commencement: Reg. 8 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
-[^key-87213676028d20868e98a14ad7edc33e]: Commencement: Reg. 9 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-87213676028d20868e98a14ad7edc33e]: Commencement: Reg. 9 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
-[^key-bf6d26aff1f999c6c0b23fdfd4d355bb]: Commencement: Reg. 10 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-bf6d26aff1f999c6c0b23fdfd4d355bb]: Commencement: Reg. 10 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
-[^key-721b13da399536f75bd32b752ce8f198]: Commencement: Reg. 11 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-721b13da399536f75bd32b752ce8f198]: Commencement: Reg. 11 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2013/3035 (W. 303)](https://www.legislation.gov.uk/wsi/2013/3035), amended by [S.I. 2014/66 (W. 6)](https://www.legislation.gov.uk/wsi/2014/66), [S.I. 2014/825 (W. 83)](https://www.legislation.gov.uk/wsi/2014/825), [S.I. 2015/44 (W. 3)](https://www.legislation.gov.uk/wsi/2015/44), [S.I. 2015/971](https://www.legislation.gov.uk/uksi/2015/971), [S.I. 2016/50 (W. 21)](https://www.legislation.gov.uk/wsi/2016/50), [S.I. 2017/46 (W. 20)](https://www.legislation.gov.uk/wsi/2017/46), [S.I. 2018/14 (W. 7)](https://www.legislation.gov.uk/wsi/2018/14), [S.I. 2019/11 (W. 5)](https://www.legislation.gov.uk/wsi/2019/11), [S.I. 2020/16 (W. 2)](https://www.legislation.gov.uk/wsi/2020/16) and [S.I. 2021/34 (W. 9)](https://www.legislation.gov.uk/wsi/2021/34).
 
-[^key-bf8cc988c4ac6029eb6b38760d6ad436]: Commencement: Reg. 12 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-bf8cc988c4ac6029eb6b38760d6ad436]: Commencement: Reg. 12 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
 [^f00010]: Footnote: The Afghan Citizens Resettlement Scheme was announced by the United Kingdom Government on 18 August 2021 and is published: https://www.gov.uk/guidance/afghan-citizens-resettlement-scheme.
 
@@ -336,18 +336,18 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00012]: Footnote: See Part 7 of the rules made under section 3(2) of the Immigration Act [1971 (c. 77)](https://www.legislation.gov.uk/ukpga/1971/77); the relevant rules are rules 276BA1 – 276BS2.
 
-[^key-8c5f62cf3a72eb7676ce8a5619f6f898]: Commencement: Reg. 13 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-8c5f62cf3a72eb7676ce8a5619f6f898]: Commencement: Reg. 13 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
-[^key-9e766893c40952c4f65af1c9067a5cdc]: Commencement: Reg. 14 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-9e766893c40952c4f65af1c9067a5cdc]: Commencement: Reg. 14 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
-[^key-04e3c4f59fd766936c1a72cf03a9b96b]: Commencement: Reg. 15 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-04e3c4f59fd766936c1a72cf03a9b96b]: Commencement: Reg. 15 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
-[^key-f261de85f98346abba8dbe4177c89211]: Commencement: Reg. 16 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-f261de85f98346abba8dbe4177c89211]: Commencement: Reg. 16 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
-[^key-25c15a6281cc191fd1a73271dbb53a7c]: Commencement: Reg. 17 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-25c15a6281cc191fd1a73271dbb53a7c]: Commencement: Reg. 17 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
 
 [^f00013]: Footnote: The Advance Payment Scheme was announced by the Scottish Government on 25 April 2019 and is published: https://www.gov.scot/publications/financial-redress-for-survivors-of-child-abuse-in-care-advance-payment-scheme/.
 
 [^f00014]: Footnote: [2021 asp 15](https://www.legislation.gov.uk/asp/2021/15).
 
-[^key-efaee0059a14a0cdb3e805afa3c11bb6]: Commencement: Reg. 18 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)
+[^c-efaee0059a14a0cdb3e805afa3c11bb6]: Commencement: Reg. 18 in force at 20.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Renewal notices and time limit for renewal[^key-0cf015c272989c30e1ef70acbd2483fb][^key-09a7ead4a591c867bdaef7cc3cc2d321]
+## 41. Renewal notices and time limit for renewal[^c-0cf015c272989c30e1ef70acbd2483fb][^c-09a7ead4a591c867bdaef7cc3cc2d321]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0cf015c272989c30e1ef70acbd2483fb]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1993/3138/regulation/41) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-0cf015c272989c30e1ef70acbd2483fb]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1993/3138/regulation/41) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-09a7ead4a591c867bdaef7cc3cc2d321]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/1993/3138/regulation/41) substituted (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [11](https://www.legislation.gov.uk/uksi/1998/2976/regulation/11)
+[^c-09a7ead4a591c867bdaef7cc3cc2d321]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/1993/3138/regulation/41) substituted (1.1.1999) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1998 (S.I. 1998/2976)](https://www.legislation.gov.uk/uksi/1998/2976), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2976/regulation/1), [11](https://www.legislation.gov.uk/uksi/1998/2976/regulation/11)

@@ -26,7 +26,7 @@ summary: ''
 - “[^c6628941] **final operator** ” means the person who immediately before the end of the period of occupation is the person entitled to the rights conferred by the order;
 - “**former use**”, in relation to any land, means the use for which it was used immediately before the operative date of the order in question;
 - “**proper cost**”, in relation to any work, means such cost as is reasonable, having regard to the prices of materials and rates of remuneration for services current at the time when the work is carried out;
-- “**the Tribunal**” means the Upper Tribunal or, in the application of this Act to Scotland, the Lands Tribunal for Scotland[^key-02be97e3c48571048b91450e801eae41].
+- “**the Tribunal**” means the Upper Tribunal or, in the application of this Act to Scotland, the Lands Tribunal for Scotland[^c-02be97e3c48571048b91450e801eae41].
 
 **2.** (1) The final operator[^c6628981] shall not be required to pay compensation in respect of expenses incurred in carrying out any work unless—
 
@@ -137,7 +137,7 @@ the provisions of heads (*a*) to (*c*) of sub-paragraph (3) of the last precedin
 
 [^c6628941]: Textual amendment: Definition in Sch. 3 para. 1 inserted (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 52](https://www.legislation.gov.uk/ukpga/1994/21/section/52), [Sch. 8 para. 40(1)(a)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/8/paragraph/40/1/a)
 
-[^key-02be97e3c48571048b91450e801eae41]: Textual amendment: Words in [Sch. THIRD para. 1](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/69/schedule/THIRD/paragraph/1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/34) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-02be97e3c48571048b91450e801eae41]: Textual amendment: Words in [Sch. THIRD para. 1](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/69/schedule/THIRD/paragraph/1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/34) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c6628981]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/69/schedule/3) substituted (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 52](https://www.legislation.gov.uk/ukpga/1994/21/section/52), [Sch. 8 para. 40(1)(b)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/8/paragraph/40/1/b) (with [s. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 

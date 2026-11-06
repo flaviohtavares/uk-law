@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Invalid nominations of individuals[^key-47d4cf0d9c44f72c61f1adfe88da1411]
+## 113. Invalid nominations of individuals[^c-47d4cf0d9c44f72c61f1adfe88da1411]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47d4cf0d9c44f72c61f1adfe88da1411]: Commencement: [Reg. 113](https://www.legislation.gov.uk/uksi/2015/182/regulation/113) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-47d4cf0d9c44f72c61f1adfe88da1411]: Commencement: [Reg. 113](https://www.legislation.gov.uk/uksi/2015/182/regulation/113) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 153. Appeals on other issues[^key-5f3691ae9c9d5a85ba46cfc3075b3c6c]
+## 153. Appeals on other issues[^c-5f3691ae9c9d5a85ba46cfc3075b3c6c]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ P may, by written notice given to the scheme manager within 28 days of receipt o
 
 ## Annotations
 
-[^key-5f3691ae9c9d5a85ba46cfc3075b3c6c]: Commencement: [Reg. 153](https://www.legislation.gov.uk/ssi/2015/19/regulation/153) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-5f3691ae9c9d5a85ba46cfc3075b3c6c]: Commencement: [Reg. 153](https://www.legislation.gov.uk/ssi/2015/19/regulation/153) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
 [^f00050]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26). Section 50 has been substituted by virtue of section 273 of the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35).
 

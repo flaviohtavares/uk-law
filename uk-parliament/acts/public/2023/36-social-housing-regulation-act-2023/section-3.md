@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Collection of information[^key-c0c15ff74b8a718d14f445e96b0f45ab]
+## 3. Collection of information[^c-c0c15ff74b8a718d14f445e96b0f45ab]
 
 *Extent: E+W*
 
-(1)[^key-babd28919312c48e766db6fd26945d95][^key-e9dcf538ab2b4f2ab366d662ac494b78] The Housing and Regeneration Act 2008 is amended as follows.
+(1)[^c-babd28919312c48e766db6fd26945d95][^c-e9dcf538ab2b4f2ab366d662ac494b78] The Housing and Regeneration Act 2008 is amended as follows.
 
-(2)[^key-65fd8cc3768c46b75a9f15d4159e1d1c] In section 107 (collection)—
+(2)[^c-65fd8cc3768c46b75a9f15d4159e1d1c] In section 107 (collection)—
 
 - (a) for subsection (1) substitute—
 
@@ -58,7 +58,7 @@ summary: ''
   ;
 - (j) in subsection (7), after “requirement” insert “under subsection (1)”.
 
-(3)[^key-10f410320ef86096f8e4407ac29ed1a3][^key-e9dcf538ab2b4f2ab366d662ac494b78] In section 108 (section 107: supplemental)—
+(3)[^c-10f410320ef86096f8e4407ac29ed1a3][^c-e9dcf538ab2b4f2ab366d662ac494b78] In section 108 (section 107: supplemental)—
 
 - (a) in subsection (1), after “requirement” insert “under section 107(1)”;
 - (b) for subsection (2) substitute—
@@ -73,22 +73,22 @@ summary: ''
   >   - (ii) a local authority which the regulator thinks may be, or may become, a provider of social housing.
 
   ;
-- (c)[^key-23d9566f41c73b33a98fc43c08b8dc83] in subsection (3), omit the words from “not” to the end;
+- (c)[^c-23d9566f41c73b33a98fc43c08b8dc83] in subsection (3), omit the words from “not” to the end;
 - (d) in subsection (4)—
   - (i) in the words before paragraph (a), after “107(6)” insert “or (6A)”;
-  - (ii)[^key-23d9566f41c73b33a98fc43c08b8dc83] in paragraph (a) omit the words from “not” to the end;
+  - (ii)[^c-23d9566f41c73b33a98fc43c08b8dc83] in paragraph (a) omit the words from “not” to the end;
 - (e) in subsection (5), for “or (6)” substitute “, (6) or (6A)”.
 
 ## Annotations
 
-[^key-c0c15ff74b8a718d14f445e96b0f45ab]: Commencement: S. 3 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-c0c15ff74b8a718d14f445e96b0f45ab]: Commencement: S. 3 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-babd28919312c48e766db6fd26945d95]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2023/36/section/3/1) in force at 20.9.2023 for specified purposes by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/c/i)
+[^c-babd28919312c48e766db6fd26945d95]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2023/36/section/3/1) in force at 20.9.2023 for specified purposes by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/c/i)
 
-[^key-e9dcf538ab2b4f2ab366d662ac494b78]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2023/36/section/3/1)[(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/3/3) in force at 1.4.2024 in so far as not already in force by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/a)
+[^c-e9dcf538ab2b4f2ab366d662ac494b78]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/ukpga/2023/36/section/3/1)[(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/3/3) in force at 1.4.2024 in so far as not already in force by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/a)
 
-[^key-65fd8cc3768c46b75a9f15d4159e1d1c]: Commencement: [S. 3(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/3/2) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/a)
+[^c-65fd8cc3768c46b75a9f15d4159e1d1c]: Commencement: [S. 3(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/3/2) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/a)
 
-[^key-10f410320ef86096f8e4407ac29ed1a3]: Commencement: [S. 3(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/3/3) in force at 20.9.2023 for specified purposes by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/c/ii/aa)
+[^c-10f410320ef86096f8e4407ac29ed1a3]: Commencement: [S. 3(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/3/3) in force at 20.9.2023 for specified purposes by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/c/ii/aa)
 
-[^key-23d9566f41c73b33a98fc43c08b8dc83]: Commencement: [S. 3(3)(c)](https://www.legislation.gov.uk/ukpga/2023/36/section/3/3/c)[(d)(ii)](https://www.legislation.gov.uk/ukpga/2023/36/section/3/3/d/ii) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/c/ii/bb)
+[^c-23d9566f41c73b33a98fc43c08b8dc83]: Commencement: [S. 3(3)(c)](https://www.legislation.gov.uk/ukpga/2023/36/section/3/3/c)[(d)(ii)](https://www.legislation.gov.uk/ukpga/2023/36/section/3/3/d/ii) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/c/ii/bb)

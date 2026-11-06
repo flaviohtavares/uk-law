@@ -97,7 +97,7 @@ Department for Work and Pensions
 
 5th June 2007
 
-## THE SCHEDULE — War disablement and war widow’s... pensions[^key-65229db89852f6abd4e4ef0c452f5ce9][^key-c811a93cf41da78a0e377a621729cd20]
+## THE SCHEDULE — War disablement and war widow’s... pensions[^c-65229db89852f6abd4e4ef0c452f5ce9][^c-c811a93cf41da78a0e377a621729cd20]
 
 ### PART   1 — War disablement pensions
 
@@ -106,7 +106,7 @@ Department for Work and Pensions
 - (a) any retired pay or pension or allowance payable in respect of disablement under an instrument specified in section 639(2) of the Income Tax (Earnings and Pensions) Act 2003; or
 - (b) a payment made under article 14(1)(b) of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2005.
 
-### PART   2 — War widow’s... pensions[^key-0e08f8e64ab5a82c3371e875fbc2873f]
+### PART   2 — War widow’s... pensions[^c-0e08f8e64ab5a82c3371e875fbc2873f]
 
 **2.** A war widow’s pension is—
 
@@ -137,10 +137,10 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1872108]: Marginal citation: [S.I. 2006/216](https://www.legislation.gov.uk/uksi/2006/216); [Regulation 23(14)](https://www.legislation.gov.uk/uksi/2007/1619/regulation/23/14) was inserted by [S.I. 2006/2813](https://www.legislation.gov.uk/uksi/2006/2813).
 
-[^key-65229db89852f6abd4e4ef0c452f5ce9]: Textual amendment: Sch. substituted (5.1.2009) by [Social Security (Miscellaneous Amendments) (No.7) Regulations 2008 (S.I. 2008/3157)](https://www.legislation.gov.uk/uksi/2008/3157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3157/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2008/3157/regulation/10)
+[^c-65229db89852f6abd4e4ef0c452f5ce9]: Textual amendment: Sch. substituted (5.1.2009) by [Social Security (Miscellaneous Amendments) (No.7) Regulations 2008 (S.I. 2008/3157)](https://www.legislation.gov.uk/uksi/2008/3157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3157/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2008/3157/regulation/10)
 
-[^key-c811a93cf41da78a0e377a621729cd20]: Textual amendment: Words in Sch. omitted (26.10.2009) by virtue of [Social Security (Miscellaneous Amendments) (No.4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/10/2)
+[^c-c811a93cf41da78a0e377a621729cd20]: Textual amendment: Words in Sch. omitted (26.10.2009) by virtue of [Social Security (Miscellaneous Amendments) (No.4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/10/2)
 
-[^key-0e08f8e64ab5a82c3371e875fbc2873f]: Textual amendment: Words in Sch. Pt. 2 omitted (26.10.2009) by virtue of [Social Security (Miscellaneous Amendments) (No.4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/10/2)
+[^c-0e08f8e64ab5a82c3371e875fbc2873f]: Textual amendment: Words in Sch. Pt. 2 omitted (26.10.2009) by virtue of [Social Security (Miscellaneous Amendments) (No.4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/10/2)
 
 [^M_F_73ddd17b-f46e-443a-afa7-954d9b6a5e85]: Textual amendment: Paragraph 3 Sch. Pt. 2 omitted (26.10.2009) by virtue of [Social Security (Miscellaneous Amendments) (No.4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/10/3)

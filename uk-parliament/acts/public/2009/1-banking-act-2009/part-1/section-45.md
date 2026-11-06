@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Temporary public ownership: property transfer[^M_I_945ec663-d201-4f11-9aec-253fbcb84a6f][^key-c513074c1d0452894366b0ce0f0ae605]
+## 45. Temporary public ownership: property transfer[^M_I_945ec663-d201-4f11-9aec-253fbcb84a6f][^c-c513074c1d0452894366b0ce0f0ae605]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 - (a) in the same way as a share transfer order for the procedural purposes of section 25, but
 - (b) as a property transfer instrument for all other purposes (including for the purposes of the application of powers under this Part).
 
-(5A)[^key-299bfcb038ef55024cf950803ecd8e50] In the application of section 34(8) by virtue of subsection (5)(b) above, the reference to the Bank of England is to be treated as a reference to the Treasury.
+(5A)[^c-299bfcb038ef55024cf950803ecd8e50] In the application of section 34(8) by virtue of subsection (5)(b) above, the reference to the Bank of England is to be treated as a reference to the Treasury.
 
 (6) In the application of section 39 by virtue of subsection (5)(b) above, the power to give directions under section 39(7) vests in the Treasury (instead of the Bank of England).
 
@@ -44,7 +44,7 @@ summary: ''
 
 (8) Before making a property transfer order the Treasury must consult—
 
-- (a)[^key-01ee0fd96edbcfc1a8341b8c94b590d3] the PRA,
+- (a)[^c-01ee0fd96edbcfc1a8341b8c94b590d3] the PRA,
 - (aa) the FCA, and
 - (b) the Bank of England.
 
@@ -52,8 +52,8 @@ summary: ''
 
 [^M_I_945ec663-d201-4f11-9aec-253fbcb84a6f]: Commencement: S. 45 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-c513074c1d0452894366b0ce0f0ae605]: Commencement: S. 45 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-c513074c1d0452894366b0ce0f0ae605]: Commencement: S. 45 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
 
-[^key-299bfcb038ef55024cf950803ecd8e50]: Textual amendment: S. 45(5A) inserted (1.1.2015) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 98(4)](https://www.legislation.gov.uk/ukpga/2012/21/section/98/4), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2014/3323](https://www.legislation.gov.uk/uksi/2014/3323), [art. 2](https://www.legislation.gov.uk/uksi/2014/3323/article/2)
+[^c-299bfcb038ef55024cf950803ecd8e50]: Textual amendment: S. 45(5A) inserted (1.1.2015) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 98(4)](https://www.legislation.gov.uk/ukpga/2012/21/section/98/4), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2014/3323](https://www.legislation.gov.uk/uksi/2014/3323), [art. 2](https://www.legislation.gov.uk/uksi/2014/3323/article/2)
 
-[^key-01ee0fd96edbcfc1a8341b8c94b590d3]: Textual amendment: S. 45(8)(a)(aa) substituted for s. 45(8)(a) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 24](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/24) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-01ee0fd96edbcfc1a8341b8c94b590d3]: Textual amendment: S. 45(8)(a)(aa) substituted for s. 45(8)(a) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 24](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/24) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

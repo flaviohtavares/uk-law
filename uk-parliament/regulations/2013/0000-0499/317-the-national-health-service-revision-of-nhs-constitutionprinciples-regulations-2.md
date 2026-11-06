@@ -46,33 +46,33 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 4(4) of the Health Act 2009[^f00001], and after undertaking the consultation required by section 4(2) and (3) of that Act[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-6795344b44f35cb2c3938c5f695fa08b]
+## 1. Citation, commencement and interpretation[^c-6795344b44f35cb2c3938c5f695fa08b]
 
 (1) These Regulations may be cited as the National Health Service (Revision of NHS Constitution—Principles) Regulations 2013 and come into force on 1st April 2013.
 
 (2) In these Regulations, “guiding principle” means one of the guiding principles set out in the NHS Constitution, within the meaning of Chapter 1 of the Health Act 2009[^f00003].
 
-## 2. Revision of guiding principles[^key-ea107e83ba64000b863ceb83f54668de]
+## 2. Revision of guiding principles[^c-ea107e83ba64000b863ceb83f54668de]
 
 The guiding principles are revised in accordance with regulations 3 to 6.
 
-## 3. Revision of first guiding principle[^key-6d66d5304de1192606ee384a50750ee7]
+## 3. Revision of first guiding principle[^c-6d66d5304de1192606ee384a50750ee7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revision of third guiding principle[^key-7f64bb7101b7eacf2de9f2d10a56aee2]
+## 4. Revision of third guiding principle[^c-7f64bb7101b7eacf2de9f2d10a56aee2]
 
 For the third guiding principle substitute—
 
 > **3.** **The NHS aspires to the highest standards of excellence and professionalism** - in the provision of high quality care that is safe, effective and focused on patient experience; in the people it employs, and in the support, education, training and development they receive; in the leadership and management of its organisations; and through its commitment to innovation and to the promotion, conduct and use of research to improve the current and future health and care of the population. Respect, dignity, compassion and care should be at the core of how patients and staff are treated not only because that is the right thing to do but because patient safety, experience and outcomes are all improved when staff are valued, empowered and supported.
 
-## 5. Revision of fourth guiding principle[^key-0aacd5327bf6361cf184655977b41bb5]
+## 5. Revision of fourth guiding principle[^c-0aacd5327bf6361cf184655977b41bb5]
 
 For the fourth guiding principle substitute—
 
 > **4.** **The NHS aspires to put patients at the heart of everything it does.** It should support individuals to promote and manage their own health. NHS services must reflect, and should be coordinated around and tailored to, the needs and preferences of patients, their families and their carers. Patients, with their families and carers, where appropriate, will be involved in and consulted on all decisions about their care and treatment. The NHS will actively encourage feedback from the public, patients and staff, welcome it and use it to improve its services.
 
-## 6. Revision of fifth guiding principle[^key-c11aebe303b80ea03e59ad15315f90f7]
+## 6. Revision of fifth guiding principle[^c-c11aebe303b80ea03e59ad15315f90f7]
 
 For the fifth guiding principle substitute—
 
@@ -104,16 +104,16 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: A consultation document entitled *A consultation on strengthening the NHS Constitution* was published by the Department of Health on 5th November 2012.
 
-[^key-6795344b44f35cb2c3938c5f695fa08b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/317/regulation/1) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/317/regulation/1/1)
+[^c-6795344b44f35cb2c3938c5f695fa08b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/317/regulation/1) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/317/regulation/1/1)
 
 [^f00003]: Footnote: The version of the NHS Constitution in force on the date these Regulations were made was that published by the Department of Health on 8th March 2012. It applies only in relation to England.
 
-[^key-ea107e83ba64000b863ceb83f54668de]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/317/regulation/2) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/317/regulation/1/1)
+[^c-ea107e83ba64000b863ceb83f54668de]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/317/regulation/2) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/317/regulation/1/1)
 
-[^key-6d66d5304de1192606ee384a50750ee7]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/317/regulation/3) revoked (27.7.2015) by [The National Health Service (Revision of NHS Constitution Guiding Principles) Regulations 2015 (S.I. 2015/1426)](https://www.legislation.gov.uk/uksi/2015/1426), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1426/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/1426/regulation/6)
+[^c-6d66d5304de1192606ee384a50750ee7]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/317/regulation/3) revoked (27.7.2015) by [The National Health Service (Revision of NHS Constitution Guiding Principles) Regulations 2015 (S.I. 2015/1426)](https://www.legislation.gov.uk/uksi/2015/1426), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1426/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/1426/regulation/6)
 
-[^key-7f64bb7101b7eacf2de9f2d10a56aee2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/317/regulation/4) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/317/regulation/1/1)
+[^c-7f64bb7101b7eacf2de9f2d10a56aee2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/317/regulation/4) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/317/regulation/1/1)
 
-[^key-0aacd5327bf6361cf184655977b41bb5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/317/regulation/5) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/317/regulation/1/1)
+[^c-0aacd5327bf6361cf184655977b41bb5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/317/regulation/5) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/317/regulation/1/1)
 
-[^key-c11aebe303b80ea03e59ad15315f90f7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/317/regulation/6) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/317/regulation/1/1)
+[^c-c11aebe303b80ea03e59ad15315f90f7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/317/regulation/6) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/317/regulation/1/1)

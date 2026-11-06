@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 43D — The GAAR and partnerships[^key-6695436af4111acacc66ed969ff3d3f3]
+## SCHEDULE 43D — The GAAR and partnerships[^c-6695436af4111acacc66ed969ff3d3f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -290,4 +290,4 @@ the officer may give the pooling notice or notice of binding to the responsible 
 
 ## Annotations
 
-[^key-6695436af4111acacc66ed969ff3d3f3]: Textual amendment: [Sch. 43D](https://www.legislation.gov.uk/ukpga/2013/29/schedule/43D) inserted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 1](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/1)
+[^c-6695436af4111acacc66ed969ff3d3f3]: Textual amendment: [Sch. 43D](https://www.legislation.gov.uk/ukpga/2013/29/schedule/43D) inserted (with effect in accordance with s. 124(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 32 para. 1](https://www.legislation.gov.uk/ukpga/2021/26/schedule/32/paragraph/1)

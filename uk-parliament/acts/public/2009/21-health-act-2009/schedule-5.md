@@ -24,9 +24,9 @@ Section 35
 
 ### Part 1 — New Part 3A for the Local Government Act 1974
 
-**1.**[^key-b34f9f00ae5eb630eb19537c5910603f] The Local Government Act 1974 (c. 7) is amended as follows.
+**1.**[^c-b34f9f00ae5eb630eb19537c5910603f] The Local Government Act 1974 (c. 7) is amended as follows.
 
-**2.**[^key-ada60ce74f363cc2bfe124655900efd3] After Part 3 (local government administration) insert—
+**2.**[^c-ada60ce74f363cc2bfe124655900efd3] After Part 3 (local government administration) insert—
 
 > **Part 3A — Investigation of complaints about privately arranged or funded adult social care**
 >
@@ -490,7 +490,7 @@ Section 35
 >
 > (3) Section 34(1A) applies for the purposes of this Part as it applies for the purposes of Part 3.
 
-**3.**[^key-2b42527b308a441281e20e420b0f7d36] After Schedule 5 (matters not subject to investigation) insert—
+**3.**[^c-2b42527b308a441281e20e420b0f7d36] After Schedule 5 (matters not subject to investigation) insert—
 
 > **Schedule 5A — Matters not subject to investigation under Part 3A**
 >
@@ -508,19 +508,19 @@ Section 35
 
 #### Local Government Act 1974 (c. 7)
 
-**4.**[^key-39bb67d17012988d7302d7345005df59] Part 3 of the Local Government Act 1974 is amended as follows.
+**4.**[^c-39bb67d17012988d7302d7345005df59] Part 3 of the Local Government Act 1974 is amended as follows.
 
-**5.**[^key-4d9f3f48a137ea2fd177f023763c71d7] (1) Section 23 (the Commission for Local Administration) is amended as follows.
+**5.**[^c-4d9f3f48a137ea2fd177f023763c71d7] (1) Section 23 (the Commission for Local Administration) is amended as follows.
 
 (2) In subsection (1), after “this Part” insert “ and Part 3A ”.
 
 (3) In subsection (11), after “functions” insert “ (other than those under Part 3A of this Act) ”.
 
-**6.**[^key-2e713ed72d776759aec7c609310f8091] In section 23A(1) (annual reports for representatives etc.), after “functions” insert “ (other than those under Part 3A of this Act) ”.
+**6.**[^c-2e713ed72d776759aec7c609310f8091] In section 23A(1) (annual reports for representatives etc.), after “functions” insert “ (other than those under Part 3A of this Act) ”.
 
-**7.**[^key-45c5cc9724e1c5c5da566cc8097ebde1] In section 26D(1)(a) (matters coming to attention of Local Commissioner), after “this Part” insert “ or Part 3A ”.
+**7.**[^c-45c5cc9724e1c5c5da566cc8097ebde1] In section 26D(1)(a) (matters coming to attention of Local Commissioner), after “this Part” insert “ or Part 3A ”.
 
-**8.**[^key-5c65dbda5ec14552db93b2205dca29b0] (1) Section 29 (investigations under Part 3: further provisions) is amended as follows.
+**8.**[^c-5c65dbda5ec14552db93b2205dca29b0] (1) Section 29 (investigations under Part 3: further provisions) is amended as follows.
 
 (2) For subsection (5) substitute—
 
@@ -528,15 +528,15 @@ Section 35
 
 (3) In subsection (6A), after “under this” insert “ Part of this ”.
 
-**9.**[^key-71318b0ab52092cf09efaeb4796e6be7] In section 30(1) (reports on investigations under Part 3), after “matter” insert “ under this Part of this Act ”.
+**9.**[^c-71318b0ab52092cf09efaeb4796e6be7] In section 30(1) (reports on investigations under Part 3), after “matter” insert “ under this Part of this Act ”.
 
-**10.**[^key-1b0be9f6cffd83fb6ca3fb1b0f6f78b1] In section 32(2) (law of defamation), after paragraph (a) insert—
+**10.**[^c-1b0be9f6cffd83fb6ca3fb1b0f6f78b1] In section 32(2) (law of defamation), after paragraph (a) insert—
 
 > - (aza) for the purposes of an investigation under Part 3A of this Act and of any statement, adverse findings notice or summary under section 34H, 34I or 34J in relation to such an investigation; or
 
 .
 
-**11.**[^key-dc88aea8f9bc282a841911a4f86892fe] (1) Section 33ZA (collaborative working between Local Commissioners and Other Commissioners) is amended as follows.
+**11.**[^c-dc88aea8f9bc282a841911a4f86892fe] (1) Section 33ZA (collaborative working between Local Commissioners and Other Commissioners) is amended as follows.
 
 (2) In subsection (1), after “under this” (in both places where it occurs) insert “ Part of this ”.
 
@@ -547,7 +547,7 @@ Section 35
 
 (4) In subsection (4), after “under this” insert “ Part of this ”.
 
-**12.**[^key-974f685c6a303dfd1aec805f66aceb9c] In Schedule 4 (the Commission), in paragraph 1, after sub-paragraph (2) insert—
+**12.**[^c-974f685c6a303dfd1aec805f66aceb9c] In Schedule 4 (the Commission), in paragraph 1, after sub-paragraph (2) insert—
 
 > (2A) A Local Commissioner shall not conduct a case which involves an adult social care provider if the Local Commissioner has a financial or other interest in the provider which is likely to affect prejudicially the exercise of his functions.
 >
@@ -555,44 +555,44 @@ Section 35
 
 #### Health Service Commissioners Act 1993 (c. 46)
 
-**13.**[^key-96a96b6ec054831407bc1f1175145056] In section 18(1)(c) of the Health Service Commissioners Act 1993 (consultations during investigations), after “Part III” insert “ or 3A ”.
+**13.**[^c-96a96b6ec054831407bc1f1175145056] In section 18(1)(c) of the Health Service Commissioners Act 1993 (consultations during investigations), after “Part III” insert “ or 3A ”.
 
 #### Freedom of Information Act 2000 (c. 36)
 
-**14.**[^key-d1a761426c945e2037b67b0de6310167] In section 76 of the Freedom of Information Act 2000 (disclosure of information between Commissioner and ombudsmen), in the Table, in the second column, after “Part III” insert “ or Part 3A ”.
+**14.**[^c-d1a761426c945e2037b67b0de6310167] In section 76 of the Freedom of Information Act 2000 (disclosure of information between Commissioner and ombudsmen), in the Table, in the second column, after “Part III” insert “ or Part 3A ”.
 
 #### Scottish Public Services Ombudsman Act 2002 (2002 asp 11)
 
-**15.**[^key-86efb919396086ae5ff70c62f06063d7] In section 21(1)(d) of the Scottish Public Services Ombudsman Act 2002 (consultation and cooperation with other Commissioners and Ombudsmen), after “Part III” insert “ or 3A ”.
+**15.**[^c-86efb919396086ae5ff70c62f06063d7] In section 21(1)(d) of the Scottish Public Services Ombudsman Act 2002 (consultation and cooperation with other Commissioners and Ombudsmen), after “Part III” insert “ or 3A ”.
 
 ## Annotations
 
-[^key-b34f9f00ae5eb630eb19537c5910603f]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/1) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-b34f9f00ae5eb630eb19537c5910603f]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/1) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-ada60ce74f363cc2bfe124655900efd3]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/2) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-ada60ce74f363cc2bfe124655900efd3]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/2) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-2b42527b308a441281e20e420b0f7d36]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/3) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-2b42527b308a441281e20e420b0f7d36]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/3) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-39bb67d17012988d7302d7345005df59]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/4) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-39bb67d17012988d7302d7345005df59]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/4) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-4d9f3f48a137ea2fd177f023763c71d7]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/5) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-4d9f3f48a137ea2fd177f023763c71d7]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/5) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-2e713ed72d776759aec7c609310f8091]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/6) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-2e713ed72d776759aec7c609310f8091]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/6) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-45c5cc9724e1c5c5da566cc8097ebde1]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/7) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-45c5cc9724e1c5c5da566cc8097ebde1]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/7) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-5c65dbda5ec14552db93b2205dca29b0]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/8) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-5c65dbda5ec14552db93b2205dca29b0]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/8) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-71318b0ab52092cf09efaeb4796e6be7]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/9) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-71318b0ab52092cf09efaeb4796e6be7]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/9) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-1b0be9f6cffd83fb6ca3fb1b0f6f78b1]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/10) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-1b0be9f6cffd83fb6ca3fb1b0f6f78b1]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/10) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-dc88aea8f9bc282a841911a4f86892fe]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/11) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-dc88aea8f9bc282a841911a4f86892fe]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/11) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-974f685c6a303dfd1aec805f66aceb9c]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/12) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-974f685c6a303dfd1aec805f66aceb9c]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/12) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-96a96b6ec054831407bc1f1175145056]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/13) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-96a96b6ec054831407bc1f1175145056]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/13) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-d1a761426c945e2037b67b0de6310167]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/14) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-d1a761426c945e2037b67b0de6310167]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/14) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-86efb919396086ae5ff70c62f06063d7]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/15) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-86efb919396086ae5ff70c62f06063d7]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/15) in force at 1.10.2010 by [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)

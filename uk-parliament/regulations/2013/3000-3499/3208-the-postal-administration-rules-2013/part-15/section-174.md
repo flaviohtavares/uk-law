@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 174. Remote attendance at meetings of creditors[^key-b1df2e69f6158973a82029fa821008d9]
+## 174. Remote attendance at meetings of creditors[^c-b1df2e69f6158973a82029fa821008d9]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ and the notices required by sub-paragraphs (a) and (c) may be given at the same 
 
 ## Annotations
 
-[^key-b1df2e69f6158973a82029fa821008d9]: Commencement: [Rule 174](https://www.legislation.gov.uk/uksi/2013/3208/rule/174) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-b1df2e69f6158973a82029fa821008d9]: Commencement: [Rule 174](https://www.legislation.gov.uk/uksi/2013/3208/rule/174) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
 
 [^f00017]: Footnote: Section 246A was inserted by [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18), Articles 2 and 3(1).

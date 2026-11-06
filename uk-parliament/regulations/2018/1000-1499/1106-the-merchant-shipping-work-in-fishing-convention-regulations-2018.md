@@ -390,7 +390,7 @@ Where there is a duty on a fishing vessel owner to provide for the repatriation 
 
 (3) The cost of such medical treatment and the transfer of the fisherman ashore is the responsibility of the fishing vessel owner.
 
-(4)[^key-512f54a0dd362e6ff5c2816a85499cc9] A breach of paragraph (2) is an offence by the fishing vessel owner.
+(4)[^c-512f54a0dd362e6ff5c2816a85499cc9] A breach of paragraph (2) is an offence by the fishing vessel owner.
 
 ## PART 7 — Insurance
 
@@ -423,7 +423,7 @@ Where there is a duty on a fishing vessel owner to provide for the repatriation 
 
 (6) In this regulation “**relevant inspector**” means any of the persons mentioned in section 258(1) of the Act.
 
-### 28A. Detention of fishing vessels[^key-6a703ba8c14174f29e3e5eed78800013]
+### 28A. Detention of fishing vessels[^c-6a703ba8c14174f29e3e5eed78800013]
 
 (1) Where a relevant inspector has reasonable grounds for believing that—
 
@@ -646,13 +646,13 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23425971]: Marginal citation: [S.I. 2017/943](https://www.legislation.gov.uk/uksi/2017/943).
 
-[^key-512f54a0dd362e6ff5c2816a85499cc9]: Textual amendment: [Reg. 26(4)](https://www.legislation.gov.uk/uksi/2018/1106/regulation/26/4) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/3/2)
+[^c-512f54a0dd362e6ff5c2816a85499cc9]: Textual amendment: [Reg. 26(4)](https://www.legislation.gov.uk/uksi/2018/1106/regulation/26/4) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/3/2)
 
 [^c23425981]: Marginal citation: Subsection 1A was inserted by the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), [section 9](https://www.legislation.gov.uk/ukpga/1997/28/section/9) and paragraph 4 of Schedule 1.
 
 [^c23425991]: Marginal citation: [Section 264](https://www.legislation.gov.uk/uksi/2018/1106/section/264) was amended by the [Courts and Legal Services Act 1990 (c.41)](https://www.legislation.gov.uk/ukpga/1990/41), [section 50](https://www.legislation.gov.uk/ukpga/1990/41/section/50) and paragraph 55(2) of Schedule 10.
 
-[^key-6a703ba8c14174f29e3e5eed78800013]: Textual amendment: [Regs. 28A](https://www.legislation.gov.uk/uksi/2018/1106/regulation/28A), [28B](https://www.legislation.gov.uk/uksi/2018/1106/regulation/28B) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/3/3)
+[^c-6a703ba8c14174f29e3e5eed78800013]: Textual amendment: [Regs. 28A](https://www.legislation.gov.uk/uksi/2018/1106/regulation/28A), [28B](https://www.legislation.gov.uk/uksi/2018/1106/regulation/28B) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/3/3)
 
 [^c23426001]: Marginal citation: [S.I. 1989/102](https://www.legislation.gov.uk/uksi/1989/102), amended by [S.I. 1993/1072](https://www.legislation.gov.uk/uksi/1993/1072), [S.I](https://www.legislation.gov.uk/uksi/1993/1072/section/I). 2005/2114 and [S.I. 2014/1614](https://www.legislation.gov.uk/uksi/2014/1614).
 

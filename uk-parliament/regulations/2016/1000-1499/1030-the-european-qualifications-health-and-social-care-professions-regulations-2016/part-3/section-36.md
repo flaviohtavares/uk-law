@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Amendment of article 41[^key-b026dcfbe931c2eb0ba4ddf88db18b7b]
+## 36. Amendment of article 41[^c-b026dcfbe931c2eb0ba4ddf88db18b7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b026dcfbe931c2eb0ba4ddf88db18b7b]: Commencement: Reg. 36 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-b026dcfbe931c2eb0ba4ddf88db18b7b]: Commencement: Reg. 36 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

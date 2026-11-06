@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14A. Provision of relevant UK police etc. information[^key-e7fb1b684ce9f181677bd0da91a3f808]
+## 14A. Provision of relevant UK police etc. information[^c-e7fb1b684ce9f181677bd0da91a3f808]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7fb1b684ce9f181677bd0da91a3f808]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/asp/2020/13/section/14A) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/1/3)
+[^c-e7fb1b684ce9f181677bd0da91a3f808]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/asp/2020/13/section/14A) inserted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/423)](https://www.legislation.gov.uk/uksi/2025/423), [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/423/article/2/1), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2025/423/schedule/1/paragraph/1/3)

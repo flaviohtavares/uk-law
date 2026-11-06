@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Credibility of claimant: concealment of information etc[^key-60bd7e407bf103ad937bece31ef36467][^key-476cb7d6f12a37c66760e4e8953d9e2c]
+## 62. Credibility of claimant: concealment of information etc[^c-60bd7e407bf103ad937bece31ef36467][^c-476cb7d6f12a37c66760e4e8953d9e2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-60bd7e407bf103ad937bece31ef36467]: Commencement: S. 62 not in force at Royal Assent, see [s. 68(1)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/1)
+[^c-60bd7e407bf103ad937bece31ef36467]: Commencement: S. 62 not in force at Royal Assent, see [s. 68(1)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/1)
 
-[^key-476cb7d6f12a37c66760e4e8953d9e2c]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2023/37/section/62) in force at 28.9.2023 by [S.I. 2023/989](https://www.legislation.gov.uk/uksi/2023/989), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/989/regulation/2/f)
+[^c-476cb7d6f12a37c66760e4e8953d9e2c]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2023/37/section/62) in force at 28.9.2023 by [S.I. 2023/989](https://www.legislation.gov.uk/uksi/2023/989), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/989/regulation/2/f)

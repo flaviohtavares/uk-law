@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.27. Defence trial advocate[^key-6f05ad954581d2a474fc1d64a8261735]
+## 3.27. Defence trial advocate[^c-6f05ad954581d2a474fc1d64a8261735]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f05ad954581d2a474fc1d64a8261735]: Commencement: [Rule 3.27](https://www.legislation.gov.uk/uksi/2025/909/rule/3.27) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6f05ad954581d2a474fc1d64a8261735]: Commencement: [Rule 3.27](https://www.legislation.gov.uk/uksi/2025/909/rule/3.27) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

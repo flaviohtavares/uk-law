@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Testing[^key-776df87fb3e564d83f47ed335e05ff6b]
+## 45. Testing[^c-776df87fb3e564d83f47ed335e05ff6b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A person carrying out a diagnostic test for the purposes of these Regulations sh
 
 ## Annotations
 
-[^key-776df87fb3e564d83f47ed335e05ff6b]: Commencement: Reg. 45 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-776df87fb3e564d83f47ed335e05ff6b]: Commencement: Reg. 45 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

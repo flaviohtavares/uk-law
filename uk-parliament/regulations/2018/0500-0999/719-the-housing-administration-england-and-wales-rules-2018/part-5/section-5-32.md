@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.32. Declaration of dividend[^key-0c0577d6abbaeac59d698d363845018e]
+## 5.32. Declaration of dividend[^c-0c0577d6abbaeac59d698d363845018e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c0577d6abbaeac59d698d363845018e]: Commencement: Rule 5.32 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-0c0577d6abbaeac59d698d363845018e]: Commencement: Rule 5.32 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

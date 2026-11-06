@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 113. Rule against solicitation[^key-65454488e3b3ce6cfe5af7e84b89b7d4]
+## 113. Rule against solicitation[^c-65454488e3b3ce6cfe5af7e84b89b7d4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.158 of the 1991 Rules.
 
 ## Annotations
 
-[^key-65454488e3b3ce6cfe5af7e84b89b7d4]: Commencement: Rule 113 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-65454488e3b3ce6cfe5af7e84b89b7d4]: Commencement: Rule 113 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

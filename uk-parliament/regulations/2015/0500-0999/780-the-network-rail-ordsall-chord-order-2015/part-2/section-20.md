@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Temporary interference with river and waterway[^key-fed8fac326801e988d0350edd7f47ed8]
+## 20. Temporary interference with river and waterway[^c-fed8fac326801e988d0350edd7f47ed8]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ are suspended and unenforceable against the Manchester Ship Canal Company Limite
 
 ## Annotations
 
-[^key-fed8fac326801e988d0350edd7f47ed8]: Commencement: Art. 20 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-fed8fac326801e988d0350edd7f47ed8]: Commencement: Art. 20 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)

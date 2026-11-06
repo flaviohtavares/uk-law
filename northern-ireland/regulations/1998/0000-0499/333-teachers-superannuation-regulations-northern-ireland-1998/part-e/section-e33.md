@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E33. Payment of benefits[^key-f74f23f6cf09e719b1b2ed8cef35df11]
+## E33. Payment of benefits[^c-f74f23f6cf09e719b1b2ed8cef35df11]
 
 *Extent: N.I.*
 
@@ -61,6 +61,6 @@ where—
 
 ## Annotations
 
-[^key-f74f23f6cf09e719b1b2ed8cef35df11]: Commencement: Reg. E33 in operation at 2.11.1998, see reg. A1
+[^c-f74f23f6cf09e719b1b2ed8cef35df11]: Commencement: Reg. E33 in operation at 2.11.1998, see reg. A1
 
 [^f00025]: Footnote: [1870 c. 35](https://www.legislation.gov.uk/ukpga/1870/35)

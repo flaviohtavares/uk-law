@@ -44,7 +44,7 @@ The Secretary of State, in exercise of the powers conferred by sections 229(3) a
 
 A draft of this instrument has been laid before and approved by a resolution of each House of Parliament in accordance with section 250(6) of the Housing Act 2004.
 
-## 1. Citation, commencement and interpretation[^key-fe38cde1c6e81583f494ff21c7eadf86]
+## 1. Citation, commencement and interpretation[^c-fe38cde1c6e81583f494ff21c7eadf86]
 
 (1) This Order may be cited as the Mobile Homes Act 1983 (Jurisdiction of Residential Property Tribunals) (England) Order 2011 and comes into force on 30th April 2011.
 
@@ -53,11 +53,11 @@ A draft of this instrument has been laid before and approved by a resolution of 
 - “the 1983 Act” means the Mobile Homes Act 1983[^f00002]; and
 - “the commencement date” means the day on which this Order comes into force.
 
-## 2. Jurisdiction of ... tribunals in relation to mobile homes[^key-015a790b2828957a50bce35ec9d053cd][^key-3fe5d677a3a98bdf975e3e2a7a86679c]
+## 2. Jurisdiction of ... tribunals in relation to mobile homes[^c-015a790b2828957a50bce35ec9d053cd][^c-3fe5d677a3a98bdf975e3e2a7a86679c]
 
-The First-tier Tribunal and the Upper Tribunal have conferred on them[^key-bf6a45818967e1e88734fca52a73d852] such jurisdiction under the 1983 Act as is specified by virtue of the amendments made to that Act [^key-fa09331cf9485b0d91b6477b08139159]... by this Order.
+The First-tier Tribunal and the Upper Tribunal have conferred on them[^c-bf6a45818967e1e88734fca52a73d852] such jurisdiction under the 1983 Act as is specified by virtue of the amendments made to that Act [^c-fa09331cf9485b0d91b6477b08139159]... by this Order.
 
-## 3. Amendments to the 1983 Act[^key-35eea630af77360561398e67289dc52b]
+## 3. Amendments to the 1983 Act[^c-35eea630af77360561398e67289dc52b]
 
 (1) The 1983 Act is amended in accordance with the following paragraphs.
 
@@ -201,11 +201,11 @@ The First-tier Tribunal and the Upper Tribunal have conferred on them[^key-bf6a4
 
 (9) In the heading of Part 2 of Schedule 1 (matters concerning which terms may be implied by court) for “court” substitute “appropriate judicial body”.
 
-## 4. Amendments to the Housing Act 2004[^key-2cdebac4744cdc4a9f5d5b0f268fb19d]
+## 4. Amendments to the Housing Act 2004[^c-2cdebac4744cdc4a9f5d5b0f268fb19d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional and saving provisions[^key-0ab63dd0589fc3d35387fe4a7c92a9f3]
+## 5. Transitional and saving provisions[^c-0ab63dd0589fc3d35387fe4a7c92a9f3]
 
 (1) Subject as follows, the amendments made by this Order apply in relation to an agreement in respect of land forming part of a protected site in England to which the 1983 Act applies which was made before the coming into force of this Order as well as in relation to such an agreement made on or after the coming into force of this Order.
 
@@ -279,25 +279,25 @@ An impact assessment has been prepared in respect of this instrument. It has bee
 
 [^f00001]: Footnote: [2004 c.34](https://www.legislation.gov.uk/ukpga/2004/34). The powers conferred by section 229(3) and (4) of the Act are exercisable, as respects England, by the Secretary of State. See the definition of the appropriate national authority in section 261(1).
 
-[^key-fe38cde1c6e81583f494ff21c7eadf86]: Commencement: Art. 1 in force at 30.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/1005/article/1/1)
+[^c-fe38cde1c6e81583f494ff21c7eadf86]: Commencement: Art. 1 in force at 30.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/1005/article/1/1)
 
 [^f00002]: Footnote: [1983 c.34](https://www.legislation.gov.uk/ukpga/1983/34). The 1983 Act extends to England and Wales and Scotland. It has been substantially amended, in relation to England and Wales, by sections 206 to 208 of the Housing Act 2004 and section 318 of the Housing and Regeneration Act 2008, in relation to England by [S.I. 2006/1755](https://www.legislation.gov.uk/uksi/2006/1755). By the time this Order comes into force, the 1983 Act will also have been amended in relation to certain agreements for England by the [Mobile Homes Act 1983 (Amendment of Schedule 1 and Consequential Amendments) (England) Order 2011 (S.I 2011/1003)](https://www.legislation.gov.uk/uksi/2011/1003) and the Housing and Regeneration Act 2008 (Consequential Amendments to the Mobile Homes Act 1983) Order 2011 ([S.I. 2011/1004](https://www.legislation.gov.uk/uksi/2011/1004)).
 
-[^key-015a790b2828957a50bce35ec9d053cd]: Commencement: Art. 2 in force at 30.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/1005/article/1/1)
+[^c-015a790b2828957a50bce35ec9d053cd]: Commencement: Art. 2 in force at 30.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/1005/article/1/1)
 
-[^key-3fe5d677a3a98bdf975e3e2a7a86679c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2011/1005/article/2) heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 46(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/46/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-3fe5d677a3a98bdf975e3e2a7a86679c]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2011/1005/article/2) heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 46(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/46/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-bf6a45818967e1e88734fca52a73d852]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2011/1005/article/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 46(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/46/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-bf6a45818967e1e88734fca52a73d852]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2011/1005/article/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 46(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/46/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-fa09331cf9485b0d91b6477b08139159]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2011/1005/article/2) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 46(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/46/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-fa09331cf9485b0d91b6477b08139159]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2011/1005/article/2) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 46(c)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/46/c) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-35eea630af77360561398e67289dc52b]: Commencement: Art. 3 in force at 30.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/1005/article/1/1)
+[^c-35eea630af77360561398e67289dc52b]: Commencement: Art. 3 in force at 30.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/1005/article/1/1)
 
 [^f00003]: Footnote: By section 229 of the Housing Act [2004 (c.34)](https://www.legislation.gov.uk/ukpga/2004/34) any jurisdiction of a residential property tribunal by or under any enactment may be exercised by a rent assessment committee constituted in accordance with Schedule 10 to the Rent Act [1977 (c. 42)](https://www.legislation.gov.uk/ukpga/1977/42).
 
-[^key-2cdebac4744cdc4a9f5d5b0f268fb19d]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2011/1005/article/4) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/47) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-2cdebac4744cdc4a9f5d5b0f268fb19d]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2011/1005/article/4) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2013/1036/schedule/2/paragraph/47) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-0ab63dd0589fc3d35387fe4a7c92a9f3]: Commencement: Art. 5 in force at 30.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/1005/article/1/1)
+[^c-0ab63dd0589fc3d35387fe4a7c92a9f3]: Commencement: Art. 5 in force at 30.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/1005/article/1/1)
 
 [^f00004]: Footnote: [S.I. 2011/1003](https://www.legislation.gov.uk/uksi/2011/1003).
 

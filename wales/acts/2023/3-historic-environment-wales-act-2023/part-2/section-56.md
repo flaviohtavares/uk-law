@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Power to make regulations and byelaws in connection with public access to monuments under public control[^key-bf376a2d09d39ee09d301179b29950bd][^key-7ce118b108aa8a412c43354874a5de2a]
+## 56. Power to make regulations and byelaws in connection with public access to monuments under public control[^c-bf376a2d09d39ee09d301179b29950bd][^c-7ce118b108aa8a412c43354874a5de2a]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf376a2d09d39ee09d301179b29950bd]: Commencement: S. 56 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-bf376a2d09d39ee09d301179b29950bd]: Commencement: S. 56 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-7ce118b108aa8a412c43354874a5de2a]: Commencement: [S. 56](https://www.legislation.gov.uk/asc/2023/3/section/56) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-7ce118b108aa8a412c43354874a5de2a]: Commencement: [S. 56](https://www.legislation.gov.uk/asc/2023/3/section/56) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

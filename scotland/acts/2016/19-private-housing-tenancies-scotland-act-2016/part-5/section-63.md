@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Landlord includes lender in some cases[^key-c212947fbcc60e72a5f24c00926b9718]
+## 63. Landlord includes lender in some cases[^c-c212947fbcc60e72a5f24c00926b9718]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ references to the landlord under a private residential tenancy include a credito
 
 ## Annotations
 
-[^key-c212947fbcc60e72a5f24c00926b9718]: Commencement: S. 63 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-c212947fbcc60e72a5f24c00926b9718]: Commencement: S. 63 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

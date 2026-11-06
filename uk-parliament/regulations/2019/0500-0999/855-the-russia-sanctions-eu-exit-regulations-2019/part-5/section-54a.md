@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54A. Preventing provision of internet services to or for the benefit of designated persons[^key-a0c270fd74a47282c171c714b53065f5]
+## 54A. Preventing provision of internet services to or for the benefit of designated persons[^c-a0c270fd74a47282c171c714b53065f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0c270fd74a47282c171c714b53065f5]: Textual amendment: [Pt. 5 Ch. 6A](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/6A) inserted (29.4.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/477)](https://www.legislation.gov.uk/uksi/2022/477), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/477/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/477/regulation/5)
+[^c-a0c270fd74a47282c171c714b53065f5]: Textual amendment: [Pt. 5 Ch. 6A](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/6A) inserted (29.4.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/477)](https://www.legislation.gov.uk/uksi/2022/477), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/477/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/477/regulation/5)

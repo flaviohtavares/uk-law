@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Gifts and their recipients[^key-4b12706f34070781cbb57d12867268d6]
+## 51. Gifts and their recipients[^c-4b12706f34070781cbb57d12867268d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b12706f34070781cbb57d12867268d6]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2005/3181/article/51) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-4b12706f34070781cbb57d12867268d6]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2005/3181/article/51) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

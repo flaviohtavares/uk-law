@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 128. Relationships[^key-b7c2e26379f3b508cd9ee47e0731c6a3]
+## 128. Relationships[^c-b7c2e26379f3b508cd9ee47e0731c6a3]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7c2e26379f3b508cd9ee47e0731c6a3]: Commencement: [S. 128](https://www.legislation.gov.uk/asp/2006/1/section/128) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-b7c2e26379f3b508cd9ee47e0731c6a3]: Commencement: [S. 128](https://www.legislation.gov.uk/asp/2006/1/section/128) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

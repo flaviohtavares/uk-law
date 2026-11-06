@@ -502,7 +502,7 @@ An operator who has prepared an internal emergency plan or the Executive which h
 - (a) general information relating to the nature of the major accident hazards, including their potential consequences on human health and the environment, summary details of the main types of major accident scenarios and the control measures to address them;
 - (b) confirmation that the operator is required to make adequate arrangements within the establishment, in particular liaison with the emergency services, to deal with major accidents and to minimise their consequences;
 - (c) appropriate information from the external emergency plan in relation to dealing with any consequences outside the establishment from a major accident, which shall include advice about co-operating with any instructions or requests from the emergency services at the time of an accident;
-- (d) where applicable, an indication as to whether the establishment is close to the territory of another country[^key-02e6914580567481bb2a4291f34594f9] with the possibility of a major accident with trans-boundary consequences under the Convention on the Transboundary Effects of Industrial Accidents [^c22815051].
+- (d) where applicable, an indication as to whether the establishment is close to the territory of another country[^c-02e6914580567481bb2a4291f34594f9] with the possibility of a major accident with trans-boundary consequences under the Convention on the Transboundary Effects of Industrial Accidents [^c22815051].
 
 (3) The competent authority shall ensure that the information in paragraph (1)—
 
@@ -571,9 +571,9 @@ is sent in the most appropriate form, without having to request it, clear and in
 
 ### 20. Trans-boundary consequences
 
-(1) Where an upper tier establishment presents a major accident hazard with possible trans-boundary consequences the competent authority shall provide sufficient information to the potentially affected country[^key-58e4aea6c9d6ae17faf4ba9b38c2a057] so that the country can take this into account in preparing emergency plans and in preparing land use planning policies, or in making land use planning decisions in respect of applications.
+(1) Where an upper tier establishment presents a major accident hazard with possible trans-boundary consequences the competent authority shall provide sufficient information to the potentially affected country[^c-58e4aea6c9d6ae17faf4ba9b38c2a057] so that the country can take this into account in preparing emergency plans and in preparing land use planning policies, or in making land use planning decisions in respect of applications.
 
-(2)[^key-3b4710115c46a7818a849f28ad97d25f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3b4710115c46a7818a849f28ad97d25f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 21. Power of the competent authority to accept information in another document
 
@@ -618,7 +618,7 @@ The competent authority shall within a reasonable period of time following recei
 
 (5) The operator shall comply with any notice served under paragraph (1) or (2).
 
-(6) Article 26 of the 1978 Order (Appeal against improvement or prohibition notice) and, rule 102 of Schedule 1 to the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020[^key-530a64df1974b3fb1fb7be1a39584023] apply in relation to a notice served under this regulation as they apply in relation to a prohibition notice served under Article 24 of that Order.
+(6) Article 26 of the 1978 Order (Appeal against improvement or prohibition notice) and, rule 102 of Schedule 1 to the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020[^c-530a64df1974b3fb1fb7be1a39584023] apply in relation to a notice served under this regulation as they apply in relation to a prohibition notice served under Article 24 of that Order.
 
 ### 24. Domino effects and domino groups
 
@@ -748,7 +748,7 @@ the competent authority shall provide that information to each operator of an es
 - (c) take appropriate action to ensure that the operator takes any necessary remedial measures; and
 - (d) make recommendations on future preventive measures.
 
-(3) Following a major accident, the competent authority may, where appropriate, provide international organisations with some, or all, of the following information[^key-adfacb418bc4f71f128732ddbea24652] —
+(3) Following a major accident, the competent authority may, where appropriate, provide international organisations with some, or all, of the following information[^c-adfacb418bc4f71f128732ddbea24652] —
 
 - (a) confirmation that the accident occurred in Northern Ireland and the name and address of the competent authority;
 - (b) the date, time and place of the accident, including the full name of the operator and the address of the establishment concerned;
@@ -756,14 +756,14 @@ the competent authority shall provide that information to each operator of an es
 - (d) a brief description of the emergency measures taken and immediate precautions necessary to prevent recurrence; and
 - (e) the results of the competent authority's analysis and recommendations.
 
-(4)[^key-3fe730274c188f8ec7b51d1aa358b8bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3fe730274c188f8ec7b51d1aa358b8bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Following a major accident the Executive shall inform the persons likely to be affected of—
 
 - (a) the accident which has occurred; and
 - (b) where relevant, of the measures undertaken to mitigate its consequences.
 
-(6)[^key-4140acf5f493fc5ddabeada2594e2532] For the purposes of paragraph (3), an organisation is an international organisation if it, and its subordinate bodies, are governed by international law or it is set up by, or on the basis of, an agreement between two or more countries.
+(6)[^c-4140acf5f493fc5ddabeada2594e2532] For the purposes of paragraph (3), an organisation is an international organisation if it, and its subordinate bodies, are governed by international law or it is set up by, or on the basis of, an agreement between two or more countries.
 
 ## PART 8 — ENFORCEMENT AND PENALTIES
 
@@ -820,7 +820,7 @@ except in the case of an establishment where the presence of the dangerous subst
 (9) A fee payable under this regulation shall not include any costs connected with—
 
 - (a) any criminal investigation or prosecution incurred, in either case, from the date any summons is obtained from a Magistrates Court;
-- (b) any appeal under Article 26 of the 1978 Order incurred from the date a claim is presented pursuant to the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020[^key-cdadf6e0c460df44a60d270c171630df];
+- (b) any appeal under Article 26 of the 1978 Order incurred from the date a claim is presented pursuant to the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020[^c-cdadf6e0c460df44a60d270c171630df];
 - (c) functions of the Department related to regulation 13.
 
 (10) In this regulation any reference to work carried out by a contractor is a reference to work carried out by the contractor or by the contractor's employees for the benefit of the person by whom the fees are payable under this regulation, whether under an agreement or an arrangement made with that person or with another person.
@@ -1228,19 +1228,19 @@ Regulations 12 and 13
 - (d) the arrangements for providing assistance with mitigatory action within the establishment;
 - (e) the arrangements for mitigatory action outside the establishment, including responses to major accident scenarios as set out in the safety report and considering possible domino effects, including those having an impact on the environment;
 - (f) the arrangements for providing the public and any neighbouring establishments or sites that fall outside the scope of these Regulations in accordance with regulation 24 (Domino effects and domino groups) with specific information relating to the accident and the behaviour which should be adopted;
-- (g) the arrangements for the provision of information to the emergency services of other countries[^key-736471c3ceacf6a431dd6f8b5c9ac0b4] in the event of a major accident with possible trans-boundary consequences.
+- (g) the arrangements for the provision of information to the emergency services of other countries[^c-736471c3ceacf6a431dd6f8b5c9ac0b4] in the event of a major accident with possible trans-boundary consequences.
 
-## SCHEDULE 5 — CRITERIA FOR THE NOTIFICATION OF A MAJOR ACCIDENT TO THE EUROPEAN COMMISSION[^key-dc2df795b122a59129d15d8926ef6340]
+## SCHEDULE 5 — CRITERIA FOR THE NOTIFICATION OF A MAJOR ACCIDENT TO THE EUROPEAN COMMISSION[^c-dc2df795b122a59129d15d8926ef6340]
 
 **No longer in force.**
 
 Regulation 26
 
-**1.**[^key-dc2df795b122a59129d15d8926ef6340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-dc2df795b122a59129d15d8926ef6340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-dc2df795b122a59129d15d8926ef6340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-dc2df795b122a59129d15d8926ef6340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-dc2df795b122a59129d15d8926ef6340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-dc2df795b122a59129d15d8926ef6340] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 6 — AMENDMENTS
 
@@ -1374,7 +1374,7 @@ Regulation 31
 
 [^c22815041]: Marginal citation: S.R. [2013 No. 160](https://www.legislation.gov.uk/ukcm/2013/160), as amended by S.R. [2014 No. 304](https://www.legislation.gov.uk/ukcm/2014/304)
 
-[^key-02e6914580567481bb2a4291f34594f9]: Textual amendment: Word in [reg. 17(2)(d)](https://www.legislation.gov.uk/nisr/2015/325/regulation/17/2/d) substituted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/2)
+[^c-02e6914580567481bb2a4291f34594f9]: Textual amendment: Word in [reg. 17(2)(d)](https://www.legislation.gov.uk/nisr/2015/325/regulation/17/2/d) substituted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/2)
 
 [^c22815051]: Marginal citation: O.J. No. L326, 3.12.1998, p. 1
 
@@ -1382,29 +1382,29 @@ Regulation 31
 
 [^c22815071]: Marginal citation: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391), to which there are amendments not relevant to these Regulations
 
-[^key-58e4aea6c9d6ae17faf4ba9b38c2a057]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/nisr/2015/325/regulation/20/1) substituted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/3/a)
+[^c-58e4aea6c9d6ae17faf4ba9b38c2a057]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/nisr/2015/325/regulation/20/1) substituted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/3/a)
 
-[^key-3b4710115c46a7818a849f28ad97d25f]: Textual amendment: [Reg. 20(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/20/2) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/3/b)
+[^c-3b4710115c46a7818a849f28ad97d25f]: Textual amendment: [Reg. 20(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/20/2) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/3/b)
 
 [^c22815081]: Marginal citation: S.R. [2013 No. 160](https://www.legislation.gov.uk/ukcm/2013/160)
 
-[^key-530a64df1974b3fb1fb7be1a39584023]: Textual amendment: Words in [reg. 23(6)](https://www.legislation.gov.uk/nisr/2015/325/regulation/23/6) substituted (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 2 para. 12(a)](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/2/paragraph/12/a) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
+[^c-530a64df1974b3fb1fb7be1a39584023]: Textual amendment: Words in [reg. 23(6)](https://www.legislation.gov.uk/nisr/2015/325/regulation/23/6) substituted (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 2 para. 12(a)](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/2/paragraph/12/a) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
 
 [^c22815101]: Marginal citation: S.R. [2015 No. 61](https://www.legislation.gov.uk/ukcm/2015/61)
 
 [^c22815111]: Marginal citation: S.R. [2013 No. 160](https://www.legislation.gov.uk/ukcm/2013/160), as amended by S.R. [2014 No. 304](https://www.legislation.gov.uk/ukcm/2014/304)
 
-[^key-adfacb418bc4f71f128732ddbea24652]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/nisr/2015/325/regulation/26/3) substituted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/4/a)
+[^c-adfacb418bc4f71f128732ddbea24652]: Textual amendment: Words in [reg. 26(3)](https://www.legislation.gov.uk/nisr/2015/325/regulation/26/3) substituted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(4)(a)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/4/a)
 
-[^key-3fe730274c188f8ec7b51d1aa358b8bb]: Textual amendment: [Reg. 26(4)](https://www.legislation.gov.uk/nisr/2015/325/regulation/26/4) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/4/b)
+[^c-3fe730274c188f8ec7b51d1aa358b8bb]: Textual amendment: [Reg. 26(4)](https://www.legislation.gov.uk/nisr/2015/325/regulation/26/4) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(4)(b)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/4/b)
 
-[^key-4140acf5f493fc5ddabeada2594e2532]: Textual amendment: [Reg. 26(6)](https://www.legislation.gov.uk/nisr/2015/325/regulation/26/6) inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(4)(c)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/4/c)
+[^c-4140acf5f493fc5ddabeada2594e2532]: Textual amendment: [Reg. 26(6)](https://www.legislation.gov.uk/nisr/2015/325/regulation/26/6) inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(4)(c)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/4/c)
 
 [^c22815121]: Marginal citation: [S.I. 1997/2777 (N.I. 18)](https://www.legislation.gov.uk/nisi/1997/2777)
 
 [^c22815131]: Marginal citation: S.R. [1999 No. 90](https://www.legislation.gov.uk/ukcm/1999/90) as amended by, S.R. [2000 No. 375](https://www.legislation.gov.uk/ukcm/2000/375), S.R. [2003 No. 33](https://www.legislation.gov.uk/ukcm/2003/33), S.R. [2006 No. 205](https://www.legislation.gov.uk/ukcm/2006/205), S.R. [2006 No. 425](https://www.legislation.gov.uk/ukcm/2006/425), S.R. [2007 No. 31](https://www.legislation.gov.uk/ukcm/2007/31), S.R. [2007 No. 291](https://www.legislation.gov.uk/ukcm/2007/291), S.R. [2009 No. 238](https://www.legislation.gov.uk/ukcm/2009/238) and S.R. [2012 No. 179](https://www.legislation.gov.uk/ukcm/2012/179)
 
-[^key-cdadf6e0c460df44a60d270c171630df]: Textual amendment: Words in [reg. 28(9)(b)](https://www.legislation.gov.uk/nisr/2015/325/regulation/28/9/b) substituted (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 2 para. 12(b)](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/2/paragraph/12/b) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
+[^c-cdadf6e0c460df44a60d270c171630df]: Textual amendment: Words in [reg. 28(9)(b)](https://www.legislation.gov.uk/nisr/2015/325/regulation/28/9/b) substituted (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 2 para. 12(b)](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/2/paragraph/12/b) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
 
 [^c22815151]: Marginal citation: S.R. [1985 No. 175](https://www.legislation.gov.uk/ukcm/1985/175)
 
@@ -1422,9 +1422,9 @@ Regulation 31
 
 [^c22815221]: Marginal citation: International Union of Pure and Applied Chemistry (www. iupac.org)
 
-[^key-736471c3ceacf6a431dd6f8b5c9ac0b4]: Textual amendment: Word in [Sch. 4 para. 2(g)](https://www.legislation.gov.uk/nisr/2015/325/schedule/4/paragraph/2/g) substituted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(5)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/5)
+[^c-736471c3ceacf6a431dd6f8b5c9ac0b4]: Textual amendment: Word in [Sch. 4 para. 2(g)](https://www.legislation.gov.uk/nisr/2015/325/schedule/4/paragraph/2/g) substituted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(5)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/5)
 
-[^key-dc2df795b122a59129d15d8926ef6340]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/nisr/2015/325/schedule/5) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(6)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/6)
+[^c-dc2df795b122a59129d15d8926ef6340]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/nisr/2015/325/schedule/5) omitted (31.12.2020) by virtue of [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [9(6)](https://www.legislation.gov.uk/nisr/2020/330/regulation/9/6)
 
 [^c22815231]: Marginal citation: [1929 c. 13 (N.I.)](https://www.legislation.gov.uk/apni/1929/13), as amended by S.R. [2000 No. 93](https://www.legislation.gov.uk/ukcm/2000/93); there are other amending instruments but none is relevant
 

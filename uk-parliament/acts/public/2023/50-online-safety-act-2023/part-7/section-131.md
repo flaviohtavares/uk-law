@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Requirements enforceable by OFCOM against providers of regulated services[^key-a9c785ff764b621f838b73ed4579eb7e][^key-4ca7203841a57aac378c0f17273e0cc9]
+## 131. Requirements enforceable by OFCOM against providers of regulated services[^c-a9c785ff764b621f838b73ed4579eb7e][^c-4ca7203841a57aac378c0f17273e0cc9]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a9c785ff764b621f838b73ed4579eb7e]: Commencement: S. 131 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-a9c785ff764b621f838b73ed4579eb7e]: Commencement: S. 131 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-4ca7203841a57aac378c0f17273e0cc9]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2023/50/section/131) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-4ca7203841a57aac378c0f17273e0cc9]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2023/50/section/131) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

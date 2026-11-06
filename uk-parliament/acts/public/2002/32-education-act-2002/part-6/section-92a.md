@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92A. Pupils with Individual Development Plans[^key-95ebcad98538a66839391b842a816a96]
+## 92A. Pupils with Individual Development Plans[^c-95ebcad98538a66839391b842a816a96]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The additional learning provision described in an individual development plan pr
 
 ## Annotations
 
-[^key-95ebcad98538a66839391b842a816a96]: Textual amendment: S. 92A inserted (1.9.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) Regulations 2021 (S.I. 2021/861)](https://www.legislation.gov.uk/wsi/2021/861), [regs. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1), [5(4)](https://www.legislation.gov.uk/wsi/2021/861/regulation/5/4)
+[^c-95ebcad98538a66839391b842a816a96]: Textual amendment: S. 92A inserted (1.9.2021) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) Regulations 2021 (S.I. 2021/861)](https://www.legislation.gov.uk/wsi/2021/861), [regs. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1), [5(4)](https://www.legislation.gov.uk/wsi/2021/861/regulation/5/4)

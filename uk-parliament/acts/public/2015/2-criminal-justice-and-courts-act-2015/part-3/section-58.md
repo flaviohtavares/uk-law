@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Rules against inducements to make personal injury claims[^key-4d8b3d1fa8c5fb93616918280958d0a1]
+## 58. Rules against inducements to make personal injury claims[^c-4d8b3d1fa8c5fb93616918280958d0a1]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d8b3d1fa8c5fb93616918280958d0a1]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2015/2/section/58) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/48)
+[^c-4d8b3d1fa8c5fb93616918280958d0a1]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2015/2/section/58) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/48)

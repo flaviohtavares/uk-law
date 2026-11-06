@@ -27,7 +27,7 @@ summary: ''
 
 **No longer in force (ended 2008-04-01).**
 
-(2) [^key-a93ead74c8748a7a94112e4f7dd27509]For the purposes of this Chapter—
+(2) [^c-a93ead74c8748a7a94112e4f7dd27509]For the purposes of this Chapter—
 
 - (a) “**public charitable collection**” means (subject to section 46) a charitable appeal which is made—
   - (i) in any public place, or
@@ -42,14 +42,14 @@ summary: ''
 
 **No longer in force (ended 2008-04-01).**
 
-(3) [^key-a93ead74c8748a7a94112e4f7dd27509]For the purposes of subsection (2)(b)—
+(3) [^c-a93ead74c8748a7a94112e4f7dd27509]For the purposes of subsection (2)(b)—
 
 - (a) the reference to the giving of money is to doing so by whatever means; and
 - (b) it does not matter whether the giving of money or other property is for consideration or otherwise.
 
 **No longer in force (ended 2008-04-01).**
 
-(4) [^key-a93ead74c8748a7a94112e4f7dd27509]An appeal falls within this subsection if it consists in or includes—
+(4) [^c-a93ead74c8748a7a94112e4f7dd27509]An appeal falls within this subsection if it consists in or includes—
 
 - (a) the making of an offer to sell goods or to supply services, or
 - (b) the exposing of goods for sale,
@@ -58,7 +58,7 @@ to members of the public.
 
 **No longer in force (ended 2008-04-01).**
 
-(5) [^key-a93ead74c8748a7a94112e4f7dd27509]In this section—
+(5) [^c-a93ead74c8748a7a94112e4f7dd27509]In this section—
 
 - “**business premises**” means any premises used for business or other commercial purposes;
 - “**house**” includes any part of a building constituting a separate dwelling;
@@ -70,11 +70,11 @@ to members of the public.
 
 **No longer in force (ended 2008-04-01).**
 
-(6) [^key-a93ead74c8748a7a94112e4f7dd27509]In subsection (5), paragraph (b) of the definition of “**public place**” does not include—
+(6) [^c-a93ead74c8748a7a94112e4f7dd27509]In subsection (5), paragraph (b) of the definition of “**public place**” does not include—
 
 - (a) any place to which members of the public are permitted to have access only if any payment or ticket required as a condition of access has been made or purchased; or
 - (b) any place to which members of the public are permitted to have access only by virtue of permission given for the purposes of the appeal in question.
 
 ## Annotations
 
-[^key-a93ead74c8748a7a94112e4f7dd27509]: Commencement: [S. 45(2)-(6)](https://www.legislation.gov.uk/ukpga/2006/50/section/45/2) in force at 1.4.2008 for specified purposes by [S.I. 2007/3286](https://www.legislation.gov.uk/uksi/2007/3286), [art. 3](https://www.legislation.gov.uk/uksi/2007/3286/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3286/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/3286/article/4))
+[^c-a93ead74c8748a7a94112e4f7dd27509]: Commencement: [S. 45(2)-(6)](https://www.legislation.gov.uk/ukpga/2006/50/section/45/2) in force at 1.4.2008 for specified purposes by [S.I. 2007/3286](https://www.legislation.gov.uk/uksi/2007/3286), [art. 3](https://www.legislation.gov.uk/uksi/2007/3286/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3286/schedule/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/3286/article/4))

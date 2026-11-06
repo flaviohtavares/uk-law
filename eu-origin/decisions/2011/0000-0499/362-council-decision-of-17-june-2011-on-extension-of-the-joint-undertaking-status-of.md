@@ -35,16 +35,16 @@ on extension of the joint-undertaking status of Hochtemperatur-Kernkraftwerk Gmb
 
 (2011/362/Euratom) (revoked)
 
-[^key-fd8ecb945362b07c1ea21a55bc3e6e92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd8ecb945362b07c1ea21a55bc3e6e92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-fd8ecb945362b07c1ea21a55bc3e6e92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fd8ecb945362b07c1ea21a55bc3e6e92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fd8ecb945362b07c1ea21a55bc3e6e92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fd8ecb945362b07c1ea21a55bc3e6e92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd8ecb945362b07c1ea21a55bc3e6e92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd8ecb945362b07c1ea21a55bc3e6e92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fd8ecb945362b07c1ea21a55bc3e6e92]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-fd8ecb945362b07c1ea21a55bc3e6e92]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

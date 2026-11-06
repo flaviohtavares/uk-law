@@ -33,7 +33,7 @@ summary: ''
 
 Investigatory Powers
 
-The Investigatory Powers (Temporary Judicial Commissioners and Modification of Time Limits) Regulations 2020 (revoked)[^key-a6020816b1189c6c6486b1ea95899d96]
+The Investigatory Powers (Temporary Judicial Commissioners and Modification of Time Limits) Regulations 2020 (revoked)[^c-a6020816b1189c6c6486b1ea95899d96]
 
 Made
 
@@ -45,36 +45,36 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-a6020816b1189c6c6486b1ea95899d96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6020816b1189c6c6486b1ea95899d96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a6020816b1189c6c6486b1ea95899d96]
+## 1. Citation and commencement[^c-a6020816b1189c6c6486b1ea95899d96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a6020816b1189c6c6486b1ea95899d96]
+## 2. Interpretation[^c-a6020816b1189c6c6486b1ea95899d96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Appointment of temporary Judicial Commissioners[^key-a6020816b1189c6c6486b1ea95899d96]
+## 3. Appointment of temporary Judicial Commissioners[^c-a6020816b1189c6c6486b1ea95899d96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Time limits in relation to urgent warrants and modifications under the 2016 Act[^key-a6020816b1189c6c6486b1ea95899d96]
+## 4. Time limits in relation to urgent warrants and modifications under the 2016 Act[^c-a6020816b1189c6c6486b1ea95899d96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Cessation of effect of Regulations[^key-a6020816b1189c6c6486b1ea95899d96]
+## 5. Cessation of effect of Regulations[^c-a6020816b1189c6c6486b1ea95899d96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a6020816b1189c6c6486b1ea95899d96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6020816b1189c6c6486b1ea95899d96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a6020816b1189c6c6486b1ea95899d96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6020816b1189c6c6486b1ea95899d96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a6020816b1189c6c6486b1ea95899d96]: Textual amendment: Regulations cease to have effect (27.3.2021) by [The Investigatory Powers (Temporary Judicial Commissioners and Modification of Time Limits) Regulations 2020 (S.I. 2020/360)](https://www.legislation.gov.uk/uksi/2020/360), [reg. 5](https://www.legislation.gov.uk/uksi/2020/360/regulation/5)
+[^c-a6020816b1189c6c6486b1ea95899d96]: Textual amendment: Regulations cease to have effect (27.3.2021) by [The Investigatory Powers (Temporary Judicial Commissioners and Modification of Time Limits) Regulations 2020 (S.I. 2020/360)](https://www.legislation.gov.uk/uksi/2020/360), [reg. 5](https://www.legislation.gov.uk/uksi/2020/360/regulation/5)

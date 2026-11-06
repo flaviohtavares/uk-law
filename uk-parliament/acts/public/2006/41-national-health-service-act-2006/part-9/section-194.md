@@ -33,7 +33,7 @@ summary: ''
 
 (3) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-(4) A person [^key-40162afe31398300271c011444150503]... may conduct any proceedings under this section before a magistrates' court if he is authorised to do so by the Secretary of State.
+(4) A person [^c-40162afe31398300271c011444150503]... may conduct any proceedings under this section before a magistrates' court if he is authorised to do so by the Secretary of State.
 
 (5) Proceedings for an offence under this section may be begun within—
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40162afe31398300271c011444150503]: Textual amendment: Words in s. 194(4) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 154](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/154), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)(i)(xii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h/i/xii)
+[^c-40162afe31398300271c011444150503]: Textual amendment: Words in s. 194(4) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 21 para. 154](https://www.legislation.gov.uk/ukpga/2007/29/schedule/21/paragraph/154), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(h)(i)(xii)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/h/i/xii)

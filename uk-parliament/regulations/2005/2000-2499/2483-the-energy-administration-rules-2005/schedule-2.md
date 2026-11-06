@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — PUNISHMENT OF OFFENCES UNDER THE RULES[^key-26949a2807070e6a305fe830a29cdffc]
+## SCHEDULE 2 — PUNISHMENT OF OFFENCES UNDER THE RULES[^c-26949a2807070e6a305fe830a29cdffc]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ Rule 174
 
 ## Annotations
 
-[^key-26949a2807070e6a305fe830a29cdffc]: Commencement: Sch. 2 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-26949a2807070e6a305fe830a29cdffc]: Commencement: Sch. 2 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

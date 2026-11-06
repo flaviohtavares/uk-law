@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 20. Proceedings[^key-d00667ce13a419707cfb3d36b13285a4]
+## 20. Proceedings[^c-d00667ce13a419707cfb3d36b13285a4]
 
 *Extent: E*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d00667ce13a419707cfb3d36b13285a4]: Commencement: [S. 20](https://www.legislation.gov.uk/ukcm/2018/3/section/20) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-d00667ce13a419707cfb3d36b13285a4]: Commencement: [S. 20](https://www.legislation.gov.uk/ukcm/2018/3/section/20) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

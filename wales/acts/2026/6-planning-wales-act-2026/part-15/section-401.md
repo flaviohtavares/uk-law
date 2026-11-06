@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 401. Definitions relating to the Crown[^key-3f124ea92fd02b8e2390bdd0f203b196]
+## 401. Definitions relating to the Crown[^c-3f124ea92fd02b8e2390bdd0f203b196]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f124ea92fd02b8e2390bdd0f203b196]: Commencement: S. 401 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3f124ea92fd02b8e2390bdd0f203b196]: Commencement: S. 401 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

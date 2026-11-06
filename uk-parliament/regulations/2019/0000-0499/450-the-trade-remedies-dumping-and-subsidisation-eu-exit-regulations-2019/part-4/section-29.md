@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Disregarding a producer for the purpose of the definition of a UK industry[^key-2858bdab023fa6a9b06d91bd9cfc0e30]
+## 29. Disregarding a producer for the purpose of the definition of a UK industry[^c-2858bdab023fa6a9b06d91bd9cfc0e30]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2858bdab023fa6a9b06d91bd9cfc0e30]: Commencement: Reg. 29 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-2858bdab023fa6a9b06d91bd9cfc0e30]: Commencement: Reg. 29 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

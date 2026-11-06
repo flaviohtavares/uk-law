@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-05-26.
 
-## 4. Section 1(1A) of the Administration Act disapplied[^key-b8dd9e8d92de2ee3f9f533591ae98079]
+## 4. Section 1(1A) of the Administration Act disapplied[^c-b8dd9e8d92de2ee3f9f533591ae98079]
 
 Section 1(1A) of the Administration Act (requirement to state a national insurance number) shall not apply—
 
@@ -27,4 +27,4 @@ Section 1(1A) of the Administration Act (requirement to state a national insuran
 
 ## Annotations
 
-[^key-b8dd9e8d92de2ee3f9f533591ae98079]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/216/regulation/4) substituted (6.4.2009) by [The Social Security (National Insurance Number Information: Exemption) Regulations 2009 (S.I. 2009/471)](https://www.legislation.gov.uk/uksi/2009/471), [regs. 1](https://www.legislation.gov.uk/uksi/2009/471/regulation/1), [12](https://www.legislation.gov.uk/uksi/2009/471/regulation/12)
+[^c-b8dd9e8d92de2ee3f9f533591ae98079]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2006/216/regulation/4) substituted (6.4.2009) by [The Social Security (National Insurance Number Information: Exemption) Regulations 2009 (S.I. 2009/471)](https://www.legislation.gov.uk/uksi/2009/471), [regs. 1](https://www.legislation.gov.uk/uksi/2009/471/regulation/1), [12](https://www.legislation.gov.uk/uksi/2009/471/regulation/12)

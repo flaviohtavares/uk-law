@@ -29,8 +29,8 @@ summary: ''
   - (ii) who it is reasonable to expect will acquire, hold, manage or dispose of investments (as principal or agent) for the purposes of their businesses; and
 - (b) the redemption value of the commercial paper is not less than £100,000 (or an amount of equivalent value denominated wholly or partly in a currency other than sterling), and no part of the commercial paper may be transferred unless the redemption value of that part is not less than £100,000 (or such an equivalent amount).
 
-(3)[^key-e3000671c66373688d5661236c45441b] In paragraph (2), “commercial paper” means an investment of the kind specified by article 77 or 78 having a maturity of less than one year from the date of issue.
+(3)[^c-e3000671c66373688d5661236c45441b] In paragraph (2), “commercial paper” means an investment of the kind specified by article 77 or 78 having a maturity of less than one year from the date of issue.
 
 ## Annotations
 
-[^key-e3000671c66373688d5661236c45441b]: Textual amendment: Art. 9(3) substituted (27.4.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2/b), [12](https://www.legislation.gov.uk/uksi/2002/682/article/12)
+[^c-e3000671c66373688d5661236c45441b]: Textual amendment: Art. 9(3) substituted (27.4.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2/b), [12](https://www.legislation.gov.uk/uksi/2002/682/article/12)

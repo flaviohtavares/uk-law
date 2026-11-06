@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113E. Allowances for members with special responsibilities[^key-a08cc26d4b2228257d869c05cb17a4c3]
+## 113E. Allowances for members with special responsibilities[^c-a08cc26d4b2228257d869c05cb17a4c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ in respect of the same special responsibilities, the amount payable under this s
 
 ## Annotations
 
-[^key-a08cc26d4b2228257d869c05cb17a4c3]: Textual amendment: [S. 113E](https://www.legislation.gov.uk/ukpga/2009/20/section/113E) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2026/23/section/10/4), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-a08cc26d4b2228257d869c05cb17a4c3]: Textual amendment: [S. 113E](https://www.legislation.gov.uk/ukpga/2009/20/section/113E) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2026/23/section/10/4), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

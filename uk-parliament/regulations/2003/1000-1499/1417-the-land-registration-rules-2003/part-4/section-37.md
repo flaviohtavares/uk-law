@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-6576887bff237b33b5a6d6eba59e3ace] This rule applies where—
+(1)[^c-6576887bff237b33b5a6d6eba59e3ace] This rule applies where—
 
 - (a) an application is made for registration of a leasehold estate under Chapter 1 of Part 2 of the Act,
 - (b) at the time of the grant of the lease—
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6576887bff237b33b5a6d6eba59e3ace]: Textual amendment: Rule 37(1)(2) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/10) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-6576887bff237b33b5a6d6eba59e3ace]: Textual amendment: Rule 37(1)(2) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/10) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

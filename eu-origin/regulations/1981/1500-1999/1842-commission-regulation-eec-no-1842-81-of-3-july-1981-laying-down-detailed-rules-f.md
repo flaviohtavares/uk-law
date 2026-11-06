@@ -34,48 +34,48 @@ of 3 July 1981
 
 laying down detailed rules for implementing Regulation (EEC) No 1188/81 relating to general rules for granting refunds adjusted in the case of cereals exported in the form of certain spirituous beverages (revoked)
 
-[^key-b780b2d1f4adc90689621f6e863f6d87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b780b2d1f4adc90689621f6e863f6d87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 15.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 16.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 16.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 17.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 17.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 18.**[^key-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 18.**[^c-b780b2d1f4adc90689621f6e863f6d87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b780b2d1f4adc90689621f6e863f6d87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b780b2d1f4adc90689621f6e863f6d87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b780b2d1f4adc90689621f6e863f6d87]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-b780b2d1f4adc90689621f6e863f6d87]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

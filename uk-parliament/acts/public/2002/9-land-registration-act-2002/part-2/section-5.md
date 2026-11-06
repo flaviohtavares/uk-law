@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Secretary of State[^key-e8506aef6a9cb5e2ee76a4f0a62c9156] may by order—
+(1) The Secretary of State[^c-e8506aef6a9cb5e2ee76a4f0a62c9156] may by order—
 
 - (a) amend section 4 so as to add to the events on the occurrence of which the requirement of registration applies such relevant event as he may specify in the order, and
 - (b) make such consequential amendments of any provision of, or having effect under, any Act as he thinks appropriate.
@@ -34,10 +34,10 @@ summary: ''
 
 (3) The power conferred by subsection (1) may not be exercised so as to require the title to an estate granted to a person as a mortgagee to be registered.
 
-(4) Before making an order under this section the Secretary of State[^key-57217b256e6b16a159b406696423734e] must consult such persons as he considers appropriate.
+(4) Before making an order under this section the Secretary of State[^c-57217b256e6b16a159b406696423734e] must consult such persons as he considers appropriate.
 
 ## Annotations
 
-[^key-e8506aef6a9cb5e2ee76a4f0a62c9156]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/2002/9/section/5/1) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)
+[^c-e8506aef6a9cb5e2ee76a4f0a62c9156]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/2002/9/section/5/1) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)
 
-[^key-57217b256e6b16a159b406696423734e]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/ukpga/2002/9/section/5/4) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)
+[^c-57217b256e6b16a159b406696423734e]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/ukpga/2002/9/section/5/4) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Situations brought about carelessly or deliberately[^key-2d7b3745d64f040640604d5e7a4b2cc8]
+## 60. Situations brought about carelessly or deliberately[^c-2d7b3745d64f040640604d5e7a4b2cc8]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ any situation brought about by the inaccuracy is to be treated as having been br
 
 ## Annotations
 
-[^key-2d7b3745d64f040640604d5e7a4b2cc8]: Commencement: S. 60 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-2d7b3745d64f040640604d5e7a4b2cc8]: Commencement: S. 60 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)

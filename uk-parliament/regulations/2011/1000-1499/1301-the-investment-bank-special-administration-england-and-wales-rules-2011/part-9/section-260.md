@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 260. Formal defects[^key-a49afc95dc27932419717b5c0405774f]
+## 260. Formal defects[^c-a49afc95dc27932419717b5c0405774f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ No special administration proceedings shall be invalidated by any formal defect 
 
 ## Annotations
 
-[^key-a49afc95dc27932419717b5c0405774f]: Commencement: [Rule 260](https://www.legislation.gov.uk/uksi/2011/1301/rule/260) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-a49afc95dc27932419717b5c0405774f]: Commencement: [Rule 260](https://www.legislation.gov.uk/uksi/2011/1301/rule/260) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Calculation of capital[^key-1707b03b33bd05e559d6a9ee823cb2b9]
+## 28. Calculation of capital[^c-1707b03b33bd05e559d6a9ee823cb2b9]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1707b03b33bd05e559d6a9ee823cb2b9]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1989/1321/regulation/28) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-1707b03b33bd05e559d6a9ee823cb2b9]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1989/1321/regulation/28) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

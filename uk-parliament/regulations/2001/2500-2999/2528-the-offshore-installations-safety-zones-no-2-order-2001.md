@@ -41,11 +41,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by section 22(1) and (2) of the Petroleum Act 1987[^f00001] (hereinafter referred to as “the Act”) and of all powers enabling him in that behalf, hereby makes the following order:
 
-## 1. Citation and commencement[^key-71012eef2639fa6753b730d8e010e471]
+## 1. Citation and commencement[^c-71012eef2639fa6753b730d8e010e471]
 
 This order may be cited as the Offshore Installations (Safety Zones) (No. 2) Order 2001 and shall come into force on 1st August 2001.
 
-## 2. Establishment of safety zones[^key-32ace29537e3a26457d58a307996d223]
+## 2. Establishment of safety zones[^c-32ace29537e3a26457d58a307996d223]
 
 A safety zone is hereby established around each installation specified in column 1 of the Schedule hereto (being an installation stationed in waters to which subsection (7) of section 21 of the Act applies) having a radius of five hundred metres from the point as respects that installation which has the co-ordinates of latitude and longitude according to European Datum (1950) specified in columns 2 and 3 of the Schedule.
 
@@ -59,7 +59,7 @@ Department for Transport, Local Government and the Regions
 
 11th July 2001
 
-## SCHEDULE — Safety Zones[^key-1cffdaabf914da24fdbfed21a9ea1a70]
+## SCHEDULE — Safety Zones[^c-1cffdaabf914da24fdbfed21a9ea1a70]
 
 Article 2
 
@@ -82,7 +82,7 @@ Article 2
 </tbody>
 </table>
 
-[^key-68fb96c05c18cf4fc6b5d8443de81713][^key-68fb96c05c18cf4fc6b5d8443de81713][^key-68fb96c05c18cf4fc6b5d8443de81713][^key-a3c8fbce34935697f016198f0318f64e][^key-a3c8fbce34935697f016198f0318f64e][^key-a3c8fbce34935697f016198f0318f64e][^key-5ff7f7f92638d9ad6fe4a36d17c751d2][^key-5ff7f7f92638d9ad6fe4a36d17c751d2][^key-5ff7f7f92638d9ad6fe4a36d17c751d2][^key-1506bc101cdd4e56d86b3e829f3bb5a2][^key-1506bc101cdd4e56d86b3e829f3bb5a2][^key-1506bc101cdd4e56d86b3e829f3bb5a2]
+[^c-68fb96c05c18cf4fc6b5d8443de81713][^c-68fb96c05c18cf4fc6b5d8443de81713][^c-68fb96c05c18cf4fc6b5d8443de81713][^c-a3c8fbce34935697f016198f0318f64e][^c-a3c8fbce34935697f016198f0318f64e][^c-a3c8fbce34935697f016198f0318f64e][^c-5ff7f7f92638d9ad6fe4a36d17c751d2][^c-5ff7f7f92638d9ad6fe4a36d17c751d2][^c-5ff7f7f92638d9ad6fe4a36d17c751d2][^c-1506bc101cdd4e56d86b3e829f3bb5a2][^c-1506bc101cdd4e56d86b3e829f3bb5a2][^c-1506bc101cdd4e56d86b3e829f3bb5a2]
 
 (This note is not part of the order)
 
@@ -94,16 +94,16 @@ Vessels, which for this purpose include hovercraft, submersible apparatus and in
 
 [^f00001]: Footnote: [1987 c. 12](https://www.legislation.gov.uk/ukpga/1987/12).
 
-[^key-71012eef2639fa6753b730d8e010e471]: Commencement: Art. 1 in force at 1.8.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/2528/article/1)
+[^c-71012eef2639fa6753b730d8e010e471]: Commencement: Art. 1 in force at 1.8.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/2528/article/1)
 
-[^key-32ace29537e3a26457d58a307996d223]: Commencement: Art. 2 in force at 1.8.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/2528/article/1)
+[^c-32ace29537e3a26457d58a307996d223]: Commencement: Art. 2 in force at 1.8.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/2528/article/1)
 
-[^key-1cffdaabf914da24fdbfed21a9ea1a70]: Commencement: Sch. in force at 1.8.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/2528/article/1)
+[^c-1cffdaabf914da24fdbfed21a9ea1a70]: Commencement: Sch. in force at 1.8.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/2528/article/1)
 
-[^key-68fb96c05c18cf4fc6b5d8443de81713]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2001/2528/schedule) omitted (11.3.2024) by virtue of [The Offshore Installations (Safety Zones) Order 2024 (S.I. 2024/162)](https://www.legislation.gov.uk/uksi/2024/162), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/162/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/162/article/3/2/a)
+[^c-68fb96c05c18cf4fc6b5d8443de81713]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2001/2528/schedule) omitted (11.3.2024) by virtue of [The Offshore Installations (Safety Zones) Order 2024 (S.I. 2024/162)](https://www.legislation.gov.uk/uksi/2024/162), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/162/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/162/article/3/2/a)
 
-[^key-a3c8fbce34935697f016198f0318f64e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2001/2528/schedule) omitted (11.3.2024) by virtue of [The Offshore Installations (Safety Zones) Order 2024 (S.I. 2024/162)](https://www.legislation.gov.uk/uksi/2024/162), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/162/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/162/article/3/2/b)
+[^c-a3c8fbce34935697f016198f0318f64e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2001/2528/schedule) omitted (11.3.2024) by virtue of [The Offshore Installations (Safety Zones) Order 2024 (S.I. 2024/162)](https://www.legislation.gov.uk/uksi/2024/162), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/162/article/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/162/article/3/2/b)
 
-[^key-5ff7f7f92638d9ad6fe4a36d17c751d2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2001/2528/schedule) omitted (11.3.2024) by virtue of [The Offshore Installations (Safety Zones) Order 2024 (S.I. 2024/162)](https://www.legislation.gov.uk/uksi/2024/162), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/162/article/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2024/162/article/3/2/c)
+[^c-5ff7f7f92638d9ad6fe4a36d17c751d2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2001/2528/schedule) omitted (11.3.2024) by virtue of [The Offshore Installations (Safety Zones) Order 2024 (S.I. 2024/162)](https://www.legislation.gov.uk/uksi/2024/162), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/162/article/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2024/162/article/3/2/c)
 
-[^key-1506bc101cdd4e56d86b3e829f3bb5a2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2001/2528/schedule) omitted (30.9.2015) by virtue of [The Offshore Installations (Safety Zones) (No. 3) Order 2015 (S.I. 2015/1673)](https://www.legislation.gov.uk/uksi/2015/1673), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2), [5](https://www.legislation.gov.uk/uksi/2015/1673/article/5)
+[^c-1506bc101cdd4e56d86b3e829f3bb5a2]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2001/2528/schedule) omitted (30.9.2015) by virtue of [The Offshore Installations (Safety Zones) (No. 3) Order 2015 (S.I. 2015/1673)](https://www.legislation.gov.uk/uksi/2015/1673), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2), [5](https://www.legislation.gov.uk/uksi/2015/1673/article/5)

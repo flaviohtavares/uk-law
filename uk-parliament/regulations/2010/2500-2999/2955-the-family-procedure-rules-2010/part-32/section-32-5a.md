@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32.5A. Cancellation of registration of a High Court order by the High Court[^key-91f5fa8294468b954dc5a9a005237f63]
+## 32.5A. Cancellation of registration of a High Court order by the High Court[^c-91f5fa8294468b954dc5a9a005237f63]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Part 19 procedure applies to an application to the High Court under section 
 
 ## Annotations
 
-[^key-91f5fa8294468b954dc5a9a005237f63]: Textual amendment: Rule 32.5A inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [80](https://www.legislation.gov.uk/uksi/2013/3204/rule/80) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-91f5fa8294468b954dc5a9a005237f63]: Textual amendment: Rule 32.5A inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [80](https://www.legislation.gov.uk/uksi/2013/3204/rule/80) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 172. Regulation of supply for ham with a protected designation of origin or protected geographical indication[^key-29a27b146f800c2240401d8d37a0e68e]
+## Article 172. Regulation of supply for ham with a protected designation of origin or protected geographical indication[^c-29a27b146f800c2240401d8d37a0e68e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29a27b146f800c2240401d8d37a0e68e]: Textual amendment: [Art. 172](https://www.legislation.gov.uk/eur/2013/1308/article/172) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [55](https://www.legislation.gov.uk/uksi/2019/821/regulation/55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-29a27b146f800c2240401d8d37a0e68e]: Textual amendment: [Art. 172](https://www.legislation.gov.uk/eur/2013/1308/article/172) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [55](https://www.legislation.gov.uk/uksi/2019/821/regulation/55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

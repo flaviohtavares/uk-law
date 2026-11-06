@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 108. Period of eligibility[^key-f453283675ee38abafa14955f908def3]
+## 108. Period of eligibility[^c-f453283675ee38abafa14955f908def3]
 
 *Extent: N.I.*
 
@@ -37,12 +37,12 @@ summary: ''
 
 - (a) terminate the period of eligibility;
 - (b) determine that the student no longer qualifies for any particular support or particular amount of support;
-- (c) treat any support paid to the student as an overpayment which may be recovered under regulation 121 or 121A[^key-5f13463ef6c422957bf41bb5472fbc4a].
+- (c) treat any support paid to the student as an overpayment which may be recovered under regulation 121 or 121A[^c-5f13463ef6c422957bf41bb5472fbc4a].
 
 (7) Where the period of eligibility terminates before the end of the academic year in which the eligible distance learning student completes the designated distance learning course the Department may, at any time, renew or extend the period of eligibility for such period as the Department determines.
 
 ## Annotations
 
-[^key-f453283675ee38abafa14955f908def3]: Commencement: Reg. 108 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-f453283675ee38abafa14955f908def3]: Commencement: Reg. 108 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-5f13463ef6c422957bf41bb5472fbc4a]: Textual amendment: Words in [reg. 108(6)(c)](https://www.legislation.gov.uk/nisr/2009/373/regulation/108/6/c) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2017/7/regulation/8)
+[^c-5f13463ef6c422957bf41bb5472fbc4a]: Textual amendment: Words in [reg. 108(6)(c)](https://www.legislation.gov.uk/nisr/2009/373/regulation/108/6/c) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2017/7/regulation/8)

@@ -43,11 +43,11 @@ BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### 1. British Coal Corporation.
 
-(1)[^key-50d50b7ed9c6b4575eac3e7dc8684520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-50d50b7ed9c6b4575eac3e7dc8684520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The enactments mentioned in Schedule 1 to this Act shall have effect with the amendments there specified which are consequential on subsection (1) above.
 
-(3)[^key-50d50b7ed9c6b4575eac3e7dc8684520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-50d50b7ed9c6b4575eac3e7dc8684520] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Grants to the Corporation
 
@@ -113,16 +113,16 @@ but grants may only be made under this subsection towards expenditure within par
 
 ### 5. Coal industry trusts.[^c2991501]
 
-(1) If, on application to the Charity Commission (“[^key-6528e97792aa930433ab77d89b1d5815]**the Commission**”) by an employee organisation, it appears to the Commission[^key-a0e01292529618eb8ae54423b2800f5f]—
+(1) If, on application to the Charity Commission (“[^c-6528e97792aa930433ab77d89b1d5815]**the Commission**”) by an employee organisation, it appears to the Commission[^c-a0e01292529618eb8ae54423b2800f5f]—
 
 - (a) that the members of the organisation or the members and their dependants constitute a substantial proportion of those who may benefit under a trust to which this section applies; and
 - (b) that neither the organisation nor its members are entitled to appoint any of the trustees of the trust,
 
-the Commission[^key-2f0f45d6f4a2f17609bb161d62b738fd] may by order make a scheme making such amendments of the provisions regulating the trust as the Commission considers[^key-1cafaccc965bab6ca9bcbba5c4b885ca] appropriate for the purpose of securing fair representation amongst the trustees of those persons employed in the coal industry who may benefit under the trust.
+the Commission[^c-2f0f45d6f4a2f17609bb161d62b738fd] may by order make a scheme making such amendments of the provisions regulating the trust as the Commission considers[^c-1cafaccc965bab6ca9bcbba5c4b885ca] appropriate for the purpose of securing fair representation amongst the trustees of those persons employed in the coal industry who may benefit under the trust.
 
 (2) A scheme under subsection (1) above in respect of a trust may—
 
-- (a) make such provision as to the manner in which the trustees are to be appointed as the Commission considers[^key-4453a4347e8a5ad607a0c7fb4778695a] appropriate;
+- (a) make such provision as to the manner in which the trustees are to be appointed as the Commission considers[^c-4453a4347e8a5ad607a0c7fb4778695a] appropriate;
 - (b) restrict or remove any person’s right to appoint a trustee;
 - (c) remove any trustee; and
 - (d) make such further amendments of the provisions regulating the trust (whether or not for the purpose mentioned in subsection (1) above) as the Commission considers appropriate.
@@ -137,29 +137,29 @@ the Commission[^key-2f0f45d6f4a2f17609bb161d62b738fd] may by order make a scheme
   whether or not any other persons are also beneficiaries; or
 - (c) under the terms of which all or a majority of the trustees are appointed by the body mentioned in paragraph (a) above or are appointed by the Corporation and an employee organisation.
 
-(4)[^c2991521] In this section “**an employee organisation**” means any organisation appearing to the Commission[^key-c00ae3dc004ddb00f800da09ca9f12bf] to represent in respect of their employment a substantial number of persons whose employers are licensed operators within the meaning of the Coal Industry Act 1994, or who are all employed by the same licensed operator.
+(4)[^c2991521] In this section “**an employee organisation**” means any organisation appearing to the Commission[^c-c00ae3dc004ddb00f800da09ca9f12bf] to represent in respect of their employment a substantial number of persons whose employers are licensed operators within the meaning of the Coal Industry Act 1994, or who are all employed by the same licensed operator.
 
 (5) References in this section to the trustees of a trust include references to the members of any body a function of which is to hold property subject to the trust or to perform any administrative functions in relation to the trust and, in relation to the members of such a body, references in this section to the appointment of trustees shall be construed as references to any corresponding procedure under the provisions relating to the constitution of the body.
 
-(6) Where any functions relating to a trust are exercisable by more than one body of trustees, for the purposes of subsection (1)(b) above the Commission[^key-e9c21512ac1b34e3426eb20b56455719] may disregard or have regard only to the members of one of those bodies.
+(6) Where any functions relating to a trust are exercisable by more than one body of trustees, for the purposes of subsection (1)(b) above the Commission[^c-e9c21512ac1b34e3426eb20b56455719] may disregard or have regard only to the members of one of those bodies.
 
-(7) The Commission[^key-40e0b4ff6ff9a8631fe2439df5be279e] shall not exercise its powers[^key-ae1c8db91132a2c116196d6977725588] under this section in any case which it considers[^key-d93682f66b144437184049da738bf752], by reason of any special question of law or of fact which it may involve, more fit to be adjudicated on by the court (within the meaning of the Charities Act 2011[^key-93051190c8fbd94526f751e1de4e9257]).
+(7) The Commission[^c-40e0b4ff6ff9a8631fe2439df5be279e] shall not exercise its powers[^c-ae1c8db91132a2c116196d6977725588] under this section in any case which it considers[^c-d93682f66b144437184049da738bf752], by reason of any special question of law or of fact which it may involve, more fit to be adjudicated on by the court (within the meaning of the Charities Act 2011[^c-93051190c8fbd94526f751e1de4e9257]).
 
-(8)[^key-d94178b83f9a04dbcb94f004bb7bcf4a] Sections 70(1), 71, 73(1), (2) and (5)[^key-4555fb1dde1d650da12e293033cad33b], 74, 88 and 89 of the Charities Act 2011 apply in relation to the powers of the Commission and the making of schemes under this section as they apply in relation to its powers and the making of schemes under that Act and sections 337 and 339 of that Act apply to orders and decisions under this section as they apply to orders and decisions under that Act.
+(8)[^c-d94178b83f9a04dbcb94f004bb7bcf4a] Sections 70(1), 71, 73(1), (2) and (5)[^c-4555fb1dde1d650da12e293033cad33b], 74, 88 and 89 of the Charities Act 2011 apply in relation to the powers of the Commission and the making of schemes under this section as they apply in relation to its powers and the making of schemes under that Act and sections 337 and 339 of that Act apply to orders and decisions under this section as they apply to orders and decisions under that Act.
 
 (8A) The Commission must not proceed under section 73 of that Act (as applied by subsection (8)) without the same application and notice to the trustees of the trust in question, as would be required if the Commission was proceeding under subsection (1); but on any application made with a view to a scheme under subsection (1) the Commission may proceed under that subsection or under section 73 of that Act (as so applied) as appears to it appropriate.
 
 (8B) Chapter 2 of Part 17 of, and Schedule 6 to, the Charities Act 2011 (appeals and applications to Tribunal) apply in relation to an order made under this section as they apply in relation to an order made under section 69(1) of that Act.
 
-(9) Nothing in this section shall affect any other powers exercisable by the Commission[^key-2164e3874a04bd050c57349bdfc74342] or the High Court in relation to any trust to which this section applies.
+(9) Nothing in this section shall affect any other powers exercisable by the Commission[^c-2164e3874a04bd050c57349bdfc74342] or the High Court in relation to any trust to which this section applies.
 
 (10) In the application of this section to Scotland—
 
 - (a) for the reference in subsection (3) to purposes which are exclusively charitable according to the law of England and Wales there shall be substituted a reference to purposes which are charitable, benevolent or philanthropic (whether or not they are charitable within the meaning of any rule of law);
-- (b) references to the Commission[^key-720f18d06d09656ffcb04ca2e005f59e] shall be construed as references to the Court of Session; and
+- (b) references to the Commission[^c-720f18d06d09656ffcb04ca2e005f59e] shall be construed as references to the Court of Session; and
 - (c) subsections (7) and (8) above shall be omitted.
 
-### 6. Other social welfare bodies.[^key-0828c771844ea7846f2e924313fcef97]
+### 6. Other social welfare bodies.[^c-0828c771844ea7846f2e924313fcef97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -173,7 +173,7 @@ the Commission[^key-2f0f45d6f4a2f17609bb161d62b738fd] may by order make a scheme
 
 (4) References in this section to participation by an organisation include participation by any person as a nominee or on behalf of the organisation.
 
-(5)[^key-4c99105312b46b8b0d85a6de08a5f119] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4c99105312b46b8b0d85a6de08a5f119] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) An order amending a scheme under this section may make—
 
@@ -223,9 +223,9 @@ In this Act—
 
 (2) Sections 6 to 8 of this Act shall come into force at the end of the period of two months beginning with the day on which it is passed.
 
-(3)[^key-7eb76a703930566832c237cd282724c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7eb76a703930566832c237cd282724c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) The provisions of this Act do not extend to Northern Ireland [^key-3c691d8804a894c333397e4a39d07bc6]....
+(4) The provisions of this Act do not extend to Northern Ireland [^c-3c691d8804a894c333397e4a39d07bc6]....
 
 SCHEDULES
 
@@ -235,15 +235,15 @@ Section 1(2).
 
 ### The Coal Industry Nationalisation Act 1946[^c2991721]
 
-**1.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Coal Industry Act 1949[^c2991931]
 
-**2.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Miners’ Welfare Act 1952[^c2991941]
 
-**3.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Landlord and Tenant Act 1954[^c2991961]
 
@@ -257,7 +257,7 @@ Section 1(2).
 
 ### The Public Records Act 1958[^c2992031]
 
-**6.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Opencast Coal Act 1958[^c2992041]
 
@@ -265,7 +265,7 @@ Section 1(2).
 
 ### The Coal Industry Act 1962[^c2992071]
 
-**8.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Licensing Act 1964[^c2992091]
 
@@ -277,7 +277,7 @@ Section 1(2).
 
 ### The Coal Industry Act 1965[^c2992151]
 
-**11.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Mines (Working Facilities and Support) Act 1966[^c2992241]
 
@@ -285,7 +285,7 @@ Section 1(2).
 
 ### The Building Control Act 1966[^c2992271]
 
-**13.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Industrial Development Act 1966[^c2992281]
 
@@ -299,7 +299,7 @@ Section 1(2).
 
 ### The Coal Industry Act 1967[^c2992341]
 
-**16.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Gaming Act 1968[^c2992361]
 
@@ -307,7 +307,7 @@ Section 1(2).
 
 ### The Coal Industry Act 1971[^c2992391]
 
-**18.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Town and Country Planning Act 1971[^c2992461]
 
@@ -319,11 +319,11 @@ Section 1(2).
 
 ### The Coal Industry Act 1973[^c2992531]
 
-**21.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Local Government Act 1974[^c2992551]
 
-**22.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Control of Pollution Act 1974[^c2992561]
 
@@ -331,23 +331,23 @@ Section 1(2).
 
 ### The House of Commons Disqualification Act 1975[^c2992591]
 
-**24.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Northern Ireland Assembly Disqualification Act 1975[^c2992601]
 
-**25.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Local Government (Scotland) Act 1975[^c2992611]
 
-**26.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Statutory Corporations (Financial Provisions) Act 1975[^c2992621]
 
-**27.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Coal Industry Act 1975[^c2992641]
 
-**28.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Welsh Development Agency Act 1975[^c2992671]
 
@@ -355,7 +355,7 @@ Section 1(2).
 
 ### The National Coal Board (Finance) Act 1976[^c2992701]
 
-**30.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Local Government (Miscellaneous Provisions) Act 1976[^c2992721]
 
@@ -365,7 +365,7 @@ Section 1(2).
 
 *Extent: S*
 
-**32.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Development of Rural Wales Act 1976[^c2992781]
 
@@ -373,7 +373,7 @@ Section 1(2).
 
 ### The Coal Industry Act 1977[^c2992811]
 
-**34.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Ancient Monuments and Archaeological Areas Act 1979[^c2992881]
 
@@ -381,7 +381,7 @@ Section 1(2).
 
 ### The Coal Industry Act 1980[^c2992911]
 
-**36.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Overseas Development and Co-operation Act 1980[^c2992931]
 
@@ -401,11 +401,11 @@ Section 1(2).
 
 ### The Coal Industry Act 1982[^c2993031]
 
-**41.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Iron and Steel Act 1982[^c2993051]
 
-**42.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Civic Government (Scotland) Act 1982[^c2993061]
 
@@ -413,11 +413,11 @@ Section 1(2).
 
 ### The National Audit Act 1983[^c2993091]
 
-**44.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Housing Defects Act 1984[^c2993101]
 
-**45.**[^key-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-8f41cca564515eda3e0a5089d660019e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Roads (Scotland) Act 1984[^c2993111]
 
@@ -435,7 +435,7 @@ Section 1(2).
 
 **49.**[^c2993201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Section 3 Grants: Eligible Expenditure[^key-3ec4ca6b901e3e22043438cfbfe902ff]
+## SCHEDULE 2 — Section 3 Grants: Eligible Expenditure[^c-3ec4ca6b901e3e22043438cfbfe902ff]
 
 *Extent: E+W+S*
 
@@ -443,29 +443,29 @@ Section 1(2).
 
 Section 3.
 
-**1.**[^key-3ec4ca6b901e3e22043438cfbfe902ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3ec4ca6b901e3e22043438cfbfe902ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3ec4ca6b901e3e22043438cfbfe902ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3ec4ca6b901e3e22043438cfbfe902ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3ec4ca6b901e3e22043438cfbfe902ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3ec4ca6b901e3e22043438cfbfe902ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3ec4ca6b901e3e22043438cfbfe902ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3ec4ca6b901e3e22043438cfbfe902ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-3ec4ca6b901e3e22043438cfbfe902ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3ec4ca6b901e3e22043438cfbfe902ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3ec4ca6b901e3e22043438cfbfe902ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3ec4ca6b901e3e22043438cfbfe902ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Repeals[^key-e3b227f79f6c14c9b2e04638b09cd440]
+## SCHEDULE 3 — Repeals[^c-e3b227f79f6c14c9b2e04638b09cd440]
 
 **No longer in force.**
 
 Section 10(3).
 
-### Part I — Pit Closure Grants[^key-e3b227f79f6c14c9b2e04638b09cd440]
+### Part I — Pit Closure Grants[^c-e3b227f79f6c14c9b2e04638b09cd440]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Other Repeals[^key-e3b227f79f6c14c9b2e04638b09cd440]
+### Part II — Other Repeals[^c-e3b227f79f6c14c9b2e04638b09cd440]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -473,7 +473,7 @@ Section 10(3).
 
 [^c2990921]: Commencement: Act partly in force at Royal Assent; Act wholly in force at 5.5.1987 see [s. 10(2)](https://www.legislation.gov.uk/ukpga/1987/3/section/10/2)
 
-[^key-50d50b7ed9c6b4575eac3e7dc8684520]: Textual amendment: S. 1 repealed with saving (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-50d50b7ed9c6b4575eac3e7dc8684520]: Textual amendment: S. 1 repealed with saving (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
 [^c2990971]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1987/3/section/2) repealed (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/21/section/7), [67(8)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/8), [68(2)(e)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/2/e), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
@@ -491,55 +491,55 @@ Section 10(3).
 
 [^c2991501]: Modification: S. 5 amended (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/21/section/7), [67(1)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/1), [68(2)(d)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/2/d), [Sch. 9 para. 36(a)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/9/paragraph/36/a) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
-[^key-6528e97792aa930433ab77d89b1d5815]: Textual amendment: Words in s. 5(1) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(2)(a)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/2/a); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-6528e97792aa930433ab77d89b1d5815]: Textual amendment: Words in s. 5(1) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(2)(a)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/2/a); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-a0e01292529618eb8ae54423b2800f5f]: Textual amendment: Words in s. 5(1) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(2)(b)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/2/b); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-a0e01292529618eb8ae54423b2800f5f]: Textual amendment: Words in s. 5(1) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(2)(b)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/2/b); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-2f0f45d6f4a2f17609bb161d62b738fd]: Textual amendment: Word in s. 5(1) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(2)(c)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/2/c); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-2f0f45d6f4a2f17609bb161d62b738fd]: Textual amendment: Word in s. 5(1) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(2)(c)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/2/c); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-1cafaccc965bab6ca9bcbba5c4b885ca]: Textual amendment: Words in s. 5(1) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(2)(d)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/2/d); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-1cafaccc965bab6ca9bcbba5c4b885ca]: Textual amendment: Words in s. 5(1) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(2)(d)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/2/d); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-4453a4347e8a5ad607a0c7fb4778695a]: Textual amendment: Words in s. 5(2) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(3)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/3); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-4453a4347e8a5ad607a0c7fb4778695a]: Textual amendment: Words in s. 5(2) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(3)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/3); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
 [^c2991511]: Marginal citation: [1920 c.50](https://www.legislation.gov.uk/ukpga/1920/50).
 
 [^c2991521]: Textual amendment: S. 5(4) substituted (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/21/section/7), [67(1)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/1), [68(2)(d)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/2/d), [Sch. 9 para. 36(b)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/9/paragraph/36/b) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
-[^key-c00ae3dc004ddb00f800da09ca9f12bf]: Textual amendment: Word in s. 5(4) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(4)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/4); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-c00ae3dc004ddb00f800da09ca9f12bf]: Textual amendment: Word in s. 5(4) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(4)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/4); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-e9c21512ac1b34e3426eb20b56455719]: Textual amendment: Word in s. 5(6) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(4)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/4); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-e9c21512ac1b34e3426eb20b56455719]: Textual amendment: Word in s. 5(6) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(4)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/4); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-40e0b4ff6ff9a8631fe2439df5be279e]: Textual amendment: Word in s. 5(7) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(5)(a)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/5/a); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-40e0b4ff6ff9a8631fe2439df5be279e]: Textual amendment: Word in s. 5(7) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(5)(a)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/5/a); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-ae1c8db91132a2c116196d6977725588]: Textual amendment: Words in s. 5(7) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(5)(b)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/5/b); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-ae1c8db91132a2c116196d6977725588]: Textual amendment: Words in s. 5(7) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(5)(b)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/5/b); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-d93682f66b144437184049da738bf752]: Textual amendment: Words in s. 5(7) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(5)(c)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/5/c); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-d93682f66b144437184049da738bf752]: Textual amendment: Words in s. 5(7) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(5)(c)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/5/c); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-93051190c8fbd94526f751e1de4e9257]: Textual amendment: Words in [s. 5(7)](https://www.legislation.gov.uk/ukpga/1987/3/section/5/7) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 47(1)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/47/1) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-93051190c8fbd94526f751e1de4e9257]: Textual amendment: Words in [s. 5(7)](https://www.legislation.gov.uk/ukpga/1987/3/section/5/7) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 47(1)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/47/1) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-d94178b83f9a04dbcb94f004bb7bcf4a]: Textual amendment: [S. 5(8)-(8B)](https://www.legislation.gov.uk/ukpga/1987/3/section/5/8) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 47(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/47/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-d94178b83f9a04dbcb94f004bb7bcf4a]: Textual amendment: [S. 5(8)-(8B)](https://www.legislation.gov.uk/ukpga/1987/3/section/5/8) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 47(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/47/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-4555fb1dde1d650da12e293033cad33b]: Textual amendment: Words in [s. 5(8)](https://www.legislation.gov.uk/ukpga/1987/3/section/5/8) substituted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/12); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 11(c)](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/11/c)
+[^c-4555fb1dde1d650da12e293033cad33b]: Textual amendment: Words in [s. 5(8)](https://www.legislation.gov.uk/ukpga/1987/3/section/5/8) substituted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/12); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 11(c)](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/11/c)
 
-[^key-2164e3874a04bd050c57349bdfc74342]: Textual amendment: Word in s. 5(9) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(9)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/9); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-2164e3874a04bd050c57349bdfc74342]: Textual amendment: Word in s. 5(9) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(9)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/9); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-720f18d06d09656ffcb04ca2e005f59e]: Textual amendment: Word in s. 5(10)(b) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(10)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/10); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-720f18d06d09656ffcb04ca2e005f59e]: Textual amendment: Word in s. 5(10)(b) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 80(10)](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/80/10); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-0828c771844ea7846f2e924313fcef97]: Textual amendment: S. 6 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III) (with [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/1994/21/schedule/10/paragraph/11)); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-0828c771844ea7846f2e924313fcef97]: Textual amendment: S. 6 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III) (with [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/1994/21/schedule/10/paragraph/11)); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
 [^c2991591]: Marginal citation: [1946 c. 59](https://www.legislation.gov.uk/ukpga/1946/59).
 
-[^key-4c99105312b46b8b0d85a6de08a5f119]: Textual amendment: [S. 7(5)](https://www.legislation.gov.uk/ukpga/1987/3/section/7/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 12
+[^c-4c99105312b46b8b0d85a6de08a5f119]: Textual amendment: [S. 7(5)](https://www.legislation.gov.uk/ukpga/1987/3/section/7/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 12
 
 [^c2991651]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-7eb76a703930566832c237cd282724c7]: Textual amendment: S. 10(3) repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-7eb76a703930566832c237cd282724c7]: Textual amendment: S. 10(3) repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
-[^key-3c691d8804a894c333397e4a39d07bc6]: Textual amendment: Words in s. 10(4) repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-3c691d8804a894c333397e4a39d07bc6]: Textual amendment: Words in s. 10(4) repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
 [^c2991721]: Marginal citation: [1946 c.59](https://www.legislation.gov.uk/ukpga/1946/59).
 
-[^key-8f41cca564515eda3e0a5089d660019e]: Textual amendment: Sch. 1 repealed with saving (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
+[^c-8f41cca564515eda3e0a5089d660019e]: Textual amendment: Sch. 1 repealed with saving (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/3/b), [Sch. 11 Pt. IV](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/IV); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 3](https://www.legislation.gov.uk/uksi/2004/144/article/3)
 
 [^c2991931]: Marginal citation: [1949 c.53](https://www.legislation.gov.uk/ukpga/1949/53).
 
@@ -685,6 +685,6 @@ Section 10(3).
 
 [^c2993201]: Textual amendment: Sch. 1 paras. 35, 38-40, 43, 46, 48, 49 repealed (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/21/section/7), [67(8)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/8), [68(2)(e)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/2/e), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
-[^key-3ec4ca6b901e3e22043438cfbfe902ff]: Textual amendment: Sch. 2 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-3ec4ca6b901e3e22043438cfbfe902ff]: Textual amendment: Sch. 2 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
-[^key-e3b227f79f6c14c9b2e04638b09cd440]: Textual amendment: Sch. 3 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-e3b227f79f6c14c9b2e04638b09cd440]: Textual amendment: Sch. 3 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)

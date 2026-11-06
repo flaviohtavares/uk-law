@@ -25,7 +25,7 @@ summary: ''
 - (a) “**earnings**” includes any remuneration or profit derived from an employment; and
 - (b) “**earner**” shall be construed accordingly.
 
-(2) For the purposes of this Part of this Act and of Parts II to V [^key-33904d9219bd96967ded2d1fabd463c6]... —
+(2) For the purposes of this Part of this Act and of Parts II to V [^c-33904d9219bd96967ded2d1fabd463c6]... —
 
 - (a) the amount of a person’s earnings for any period; or
 - (b) the amount of his earnings to be treated as comprised in any payment made to him or for his benefit,
@@ -47,7 +47,7 @@ shall be calculated or estimated in such manner and on such basis as may be pres
 
 [^c16378251]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1992/7/section/3) applied (7.2.1994) by [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49), [s. 176(1)](https://www.legislation.gov.uk/ukpga/1993/49/section/176/1); [S.R. 1994/17](https://www.legislation.gov.uk/nisr/1994/17), [art. 2](https://www.legislation.gov.uk/nisr/1994/17/article/2)
 
-[^key-33904d9219bd96967ded2d1fabd463c6]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/1992/7/section/3/2) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)
+[^c-33904d9219bd96967ded2d1fabd463c6]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/1992/7/section/3/2) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)
 
 [^c16378261]: Textual amendment: Words in [s. 3(2)](https://www.legislation.gov.uk/ukpga/1992/7/section/3/2) inserted (1.4.1999) by [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671), [art. 4](https://www.legislation.gov.uk/uksi/1999/671/article/4), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1999/671/schedule/3/paragraph/4) (with savings and transitional provisions in [Sch. 7](https://www.legislation.gov.uk/uksi/1999/671/schedule/7)); [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (subject to [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 

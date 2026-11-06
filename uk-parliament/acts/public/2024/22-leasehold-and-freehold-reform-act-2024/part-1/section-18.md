@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Financial penalties[^key-39923c912f14274e566572ca00fa37fe]
+## 18. Financial penalties[^c-39923c912f14274e566572ca00fa37fe]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ and accordingly an enforcement authority may impose a separate penalty in relati
 
 ## Annotations
 
-[^key-39923c912f14274e566572ca00fa37fe]: Commencement: S. 18 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-39923c912f14274e566572ca00fa37fe]: Commencement: S. 18 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

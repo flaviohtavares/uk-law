@@ -45,13 +45,13 @@ Regulation 3 of these Regulations is made with the consent of the Department of 
 
 The Social Security Advisory Committee has agreed that proposals in respect of regulation 3 should not be referred to it[^f00006].
 
-## 1. Citation, commencement and interpretation[^key-e65b42143e7b8214180fef9e2bef2c2c]
+## 1. Citation, commencement and interpretation[^c-e65b42143e7b8214180fef9e2bef2c2c]
 
 (1) These Regulations shall be cited as the Social Security (Persons from Abroad) (Amendment) Regulations (Northern Ireland) 2006 and shall come into operation on 30th April 2006.
 
 (2) In these Regulations—
 
-- [^key-a04852cb69d447365ee2137e6be1cedc]...[^f00007]
+- [^c-a04852cb69d447365ee2137e6be1cedc]...[^f00007]
 - “the Income Support Regulations” means the Income Support (General) Regulations (Northern Ireland) 1987[^f00008];
 - “the Jobseeker’s Allowance Regulations” means the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00009];
 - “the State Pension Credit Regulations” means the State Pension Credit Regulations (Northern Ireland) 2003[^f00010];
@@ -59,7 +59,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00012] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support Regulations[^key-8a5c2053508ded429cc982a518aab9b2]
+## 2. Amendment of the Income Support Regulations[^c-8a5c2053508ded429cc982a518aab9b2]
 
 (1) The Income Support Regulations shall be amended in accordance with paragraphs (2) and (3).
 
@@ -106,11 +106,11 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 .
 
-## 3. Amendment of the Housing Benefit Regulations[^key-a96dfb44f96922206788fb0e947f3a0a]
+## 3. Amendment of the Housing Benefit Regulations[^c-a96dfb44f96922206788fb0e947f3a0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-f9c58b2a790ce4abcd83bd312f3dcf58]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-f9c58b2a790ce4abcd83bd312f3dcf58]
 
 (1) The Jobseeker’s Allowance Regulations shall be amended in accordance with paragraphs (2) and (3).
 
@@ -153,7 +153,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 .
 
-## 5. Amendment of the State Pension Credit Regulations[^key-5a15a48ae535906206381baa0177b545]
+## 5. Amendment of the State Pension Credit Regulations[^c-5a15a48ae535906206381baa0177b545]
 
 For regulation 2[^f00031] of the State Pension Credit Regulations (persons not in Northern Ireland) there shall be substituted the following regulation—
 
@@ -187,7 +187,7 @@ For regulation 2[^f00031] of the State Pension Credit Regulations (persons not i
 
 .
 
-## 6. Amendment of the Social Fund Regulations[^key-aedf0cfe5b096045b9f3131f87aadbce]
+## 6. Amendment of the Social Fund Regulations[^c-aedf0cfe5b096045b9f3131f87aadbce]
 
 In regulation 7 of the Social Fund Regulations (funeral payments: entitlement)—
 
@@ -204,17 +204,17 @@ In regulation 7 of the Social Fund Regulations (funeral payments: entitlement)�
 
   .
 
-## 7. Nationals of Norway, Iceland, Liechtenstein and Switzerland[^key-74384605d4708729f72c595459b2b293]
+## 7. Nationals of Norway, Iceland, Liechtenstein and Switzerland[^c-74384605d4708729f72c595459b2b293]
 
 The following provisions shall apply in relation to a national of Norway, Iceland, Liechtenstein or Switzerland or a member of his family (within the meaning of Article 2 of Council Directive No. [2004/38/EC](https://www.legislation.gov.uk/european/directive/2004/0038)) as if such a national were a national of a member State—
 
 - (a) regulation 21AA(4)(a) to (e)[^f00034] of the Income Support Regulations;
-- (b)[^key-f2c03285a9a5debabdb7b31bab59bea6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f2c03285a9a5debabdb7b31bab59bea6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) regulation 85A(4)(a) to (e)[^f00036] of the Jobseeker’s Allowance Regulations;
 - (d) regulation 2(4)(a) to (e)[^f00037] of the State Pension Credit Regulations; and
 - (e) regulation 7(10)[^f00038] of the Social Fund Regulations.
 
-## 8. Revocations and savings[^key-7286936d6e03ffdb629a51272187d704]
+## 8. Revocations and savings[^c-7286936d6e03ffdb629a51272187d704]
 
 (1) The following Regulations are hereby revoked—
 
@@ -274,9 +274,9 @@ These Regulations do not impose any charge on business.
 
 [^f00006]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-e65b42143e7b8214180fef9e2bef2c2c]: Commencement: Reg. 1 in operation at 30.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/1)
+[^c-e65b42143e7b8214180fef9e2bef2c2c]: Commencement: Reg. 1 in operation at 30.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/1)
 
-[^key-a04852cb69d447365ee2137e6be1cedc]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-a04852cb69d447365ee2137e6be1cedc]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00007]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending regulations are [S.R. 1994 No. 80](https://www.legislation.gov.uk/nisr/1994/80), [S.R. 1996 Nos. 11](https://www.legislation.gov.uk/nisr/1996/11), [334](https://www.legislation.gov.uk/nisr/1996/334), [375](https://www.legislation.gov.uk/nisr/1996/375), [405](https://www.legislation.gov.uk/nisr/1996/405) and [448](https://www.legislation.gov.uk/nisr/1996/448), [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), [S.R. 2000 Nos. 71](https://www.legislation.gov.uk/nisr/2000/71) and [125](https://www.legislation.gov.uk/nisr/2000/125), [S.R. 2003 No. 197](https://www.legislation.gov.uk/nisr/2003/197) and [S.R. 2004 No. 197](https://www.legislation.gov.uk/nisr/2004/197)
 
@@ -290,7 +290,7 @@ These Regulations do not impose any charge on business.
 
 [^f00012]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-8a5c2053508ded429cc982a518aab9b2]: Commencement: Reg. 2 in operation at 30.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/1)
+[^c-8a5c2053508ded429cc982a518aab9b2]: Commencement: Reg. 2 in operation at 30.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/1)
 
 [^f00013]: Footnote: Regulation 21(3) was amended by regulation 2(1) of [S.R. 1994 No. 266](https://www.legislation.gov.uk/nisr/1994/266), regulation 2(6)(a) of [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86), regulation 5(6)(b) of [S.R. 1996 No. 405](https://www.legislation.gov.uk/nisr/1996/405), regulations 5(2)(b) and 11(3) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), regulation 5(4) of [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71), regulation 2 of [S.R. 2000 No. 125](https://www.legislation.gov.uk/nisr/2000/125), regulation 3(a) and (b) of [S.R. 2004 No. 197](https://www.legislation.gov.uk/nisr/2004/197), paragraph 5(a) of Schedule 1 to [S.R. 2005 No. 458](https://www.legislation.gov.uk/nisr/2005/458), paragraph 12(3) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536) and regulation 3(2)(b) of [S.R. 2005 No. 580](https://www.legislation.gov.uk/nisr/2005/580)
 
@@ -310,9 +310,9 @@ These Regulations do not impose any charge on business.
 
 [^f00021]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77)
 
-[^key-a96dfb44f96922206788fb0e947f3a0a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/178/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-a96dfb44f96922206788fb0e947f3a0a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/178/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-f9c58b2a790ce4abcd83bd312f3dcf58]: Commencement: Reg. 4 in operation at 30.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/1)
+[^c-f9c58b2a790ce4abcd83bd312f3dcf58]: Commencement: Reg. 4 in operation at 30.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/1)
 
 [^f00028]: Footnote: Paragraph (4) was amended by regulation 8(1)(b) of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356), regulation 5(2)(c) and 11(3) of [S.R. 1998 No. 81](https://www.legislation.gov.uk/nisr/1998/81), regulation 10(3)(a) and (b) of [S.R. 2000 No. 71](https://www.legislation.gov.uk/nisr/2000/71), regulation 3 of [S.R. 2000 No. 125](https://www.legislation.gov.uk/nisr/2000/125), regulation 4(a) and (b) of [S.R. 2004 No. 197](https://www.legislation.gov.uk/nisr/2004/197), paragraph 4(b) of Schedule 3 to [S.R. 2005 No. 458](https://www.legislation.gov.uk/nisr/2005/458), paragraph 23(5) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536) and regulation 5(2)(b) of [S.R. 2005 No. 580](https://www.legislation.gov.uk/nisr/2005/580)
 
@@ -320,7 +320,7 @@ These Regulations do not impose any charge on business.
 
 [^f00030]: Footnote: Paragraph (4B) was inserted by regulation 4(c) of [S.R. 2004 No. 197](https://www.legislation.gov.uk/nisr/2004/197)
 
-[^key-5a15a48ae535906206381baa0177b545]: Commencement: Reg. 5 in operation at 30.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/1)
+[^c-5a15a48ae535906206381baa0177b545]: Commencement: Reg. 5 in operation at 30.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/1)
 
 [^f00031]: Footnote: Regulation 2 was amended by regulation 2(3) of [S.R. 2003 No. 421](https://www.legislation.gov.uk/nisr/2003/421) and regulation 5 of [S.R. 2004 No. 197](https://www.legislation.gov.uk/nisr/2004/197)
 
@@ -328,13 +328,13 @@ These Regulations do not impose any charge on business.
 
 [^f00033]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33)
 
-[^key-aedf0cfe5b096045b9f3131f87aadbce]: Commencement: Reg. 6 in operation at 30.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/1)
+[^c-aedf0cfe5b096045b9f3131f87aadbce]: Commencement: Reg. 6 in operation at 30.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/1)
 
-[^key-74384605d4708729f72c595459b2b293]: Commencement: Reg. 7 in operation at 30.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/1)
+[^c-74384605d4708729f72c595459b2b293]: Commencement: Reg. 7 in operation at 30.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/1)
 
 [^f00034]: Footnote: Regulation 21(AA) was inserted by regulation 2(3) of these regulations
 
-[^key-f2c03285a9a5debabdb7b31bab59bea6]: Textual amendment: [Reg. 7(b)](https://www.legislation.gov.uk/nisr/2006/178/regulation/7/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-f2c03285a9a5debabdb7b31bab59bea6]: Textual amendment: [Reg. 7(b)](https://www.legislation.gov.uk/nisr/2006/178/regulation/7/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00036]: Footnote: Regulation 85A was inserted by regulation 4(3) of these regulations
 
@@ -342,7 +342,7 @@ These Regulations do not impose any charge on business.
 
 [^f00038]: Footnote: Paragraph 10 was substituted by regulation 6(b) of these regulations
 
-[^key-7286936d6e03ffdb629a51272187d704]: Commencement: Reg. 8 in operation at 30.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/1)
+[^c-7286936d6e03ffdb629a51272187d704]: Commencement: Reg. 8 in operation at 30.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/178/regulation/1/1)
 
 [^f00039]: Footnote: [S.R. 1994 No. 266](https://www.legislation.gov.uk/nisr/1994/266)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Scheme manager[^key-b0206660c4c77f615f176379a3371576]
+## 4. Scheme manager[^c-b0206660c4c77f615f176379a3371576]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ The Scottish Ministers are responsible for managing and administering this schem
 
 ## Annotations
 
-[^key-b0206660c4c77f615f176379a3371576]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/19/regulation/4) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-b0206660c4c77f615f176379a3371576]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/19/regulation/4) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
 [^f00035]: Footnote: See section 4(6) of the 2013 Act which sets out when statutory pension schemes are “connected”.

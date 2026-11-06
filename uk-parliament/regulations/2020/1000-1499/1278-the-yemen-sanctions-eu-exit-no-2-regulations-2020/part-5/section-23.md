@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Transfer of military technology[^key-4eac87821333217cee4c0557ef1d1967][^key-e0f989672041f1179b28c5f716fe2e16]
+## 23. Transfer of military technology[^c-4eac87821333217cee4c0557ef1d1967][^c-e0f989672041f1179b28c5f716fe2e16]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4eac87821333217cee4c0557ef1d1967]: Commencement: Reg. 23 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-4eac87821333217cee4c0557ef1d1967]: Commencement: Reg. 23 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-e0f989672041f1179b28c5f716fe2e16]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/1278/regulation/23) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-e0f989672041f1179b28c5f716fe2e16]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2020/1278/regulation/23) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Decision notices[^key-5f9b1a5ce122303ea654acead6999198]
+## 75. Decision notices[^c-5f9b1a5ce122303ea654acead6999198]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f9b1a5ce122303ea654acead6999198]: Commencement: [S. 75](https://www.legislation.gov.uk/mwa/2011/1/section/75) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-5f9b1a5ce122303ea654acead6999198]: Commencement: [S. 75](https://www.legislation.gov.uk/mwa/2011/1/section/75) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

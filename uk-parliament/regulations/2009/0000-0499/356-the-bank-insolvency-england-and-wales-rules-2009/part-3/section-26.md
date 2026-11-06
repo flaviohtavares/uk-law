@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Termination of appointment[^key-05932d0dcfdf30e4777e2a7cfd7f388a]
+## 26. Termination of appointment[^c-05932d0dcfdf30e4777e2a7cfd7f388a]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-05932d0dcfdf30e4777e2a7cfd7f388a]: Commencement: Rule 26 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-05932d0dcfdf30e4777e2a7cfd7f388a]: Commencement: Rule 26 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00013]: Footnote: The original paragraph (3) was revoked by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

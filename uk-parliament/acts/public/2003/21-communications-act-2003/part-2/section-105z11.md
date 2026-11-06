@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105Z11. Laying before Parliament[^key-478fc077d10752ab2eef9f3d221add94]
+## 105Z11. Laying before Parliament[^c-478fc077d10752ab2eef9f3d221add94]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-478fc077d10752ab2eef9f3d221add94]: Textual amendment: [S. 105Z11](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z11) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 17](https://www.legislation.gov.uk/ukpga/2021/31/section/17), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-478fc077d10752ab2eef9f3d221add94]: Textual amendment: [S. 105Z11](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z11) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 17](https://www.legislation.gov.uk/ukpga/2021/31/section/17), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)

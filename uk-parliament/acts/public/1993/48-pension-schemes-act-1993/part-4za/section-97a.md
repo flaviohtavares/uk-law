@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Designation of funded public service defined benefits schemes[^key-e53bec481aa3038306f6966d4d7b2574]
+## 97A. Designation of funded public service defined benefits schemes[^c-e53bec481aa3038306f6966d4d7b2574]
 
 *Extent: E+W+S*
 
@@ -81,4 +81,4 @@ A scheme to which this section applies is referred to below as an “eligible sc
 
 ## Annotations
 
-[^key-e53bec481aa3038306f6966d4d7b2574]: Textual amendment: [Ss. 97A](https://www.legislation.gov.uk/ukpga/1993/48/section/97A), [97B](https://www.legislation.gov.uk/ukpga/1993/48/section/97B) inserted (3.3.2015 for specified purposes, 6.4.2015 in so far as not already in force) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 69(3)](https://www.legislation.gov.uk/ukpga/2015/8/section/69/3), [89(1)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-e53bec481aa3038306f6966d4d7b2574]: Textual amendment: [Ss. 97A](https://www.legislation.gov.uk/ukpga/1993/48/section/97A), [97B](https://www.legislation.gov.uk/ukpga/1993/48/section/97B) inserted (3.3.2015 for specified purposes, 6.4.2015 in so far as not already in force) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 69(3)](https://www.legislation.gov.uk/ukpga/2015/8/section/69/3), [89(1)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

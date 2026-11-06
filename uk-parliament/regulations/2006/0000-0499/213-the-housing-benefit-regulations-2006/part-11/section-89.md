@@ -24,8 +24,8 @@ summary: ''
 
 (2) The relevant authority shall make a decision on each claim within 14 days of the provisions of regulations 83 and 86 being satisfied or as soon as reasonably practicable thereafter.
 
-(3)[^key-c525f979b44705e61684306ba3acf201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c525f979b44705e61684306ba3acf201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c525f979b44705e61684306ba3acf201]: Textual amendment: Reg. 89(3) omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [4(4)(d)](https://www.legislation.gov.uk/uksi/2008/959/regulation/4/4/d)
+[^c-c525f979b44705e61684306ba3acf201]: Textual amendment: Reg. 89(3) omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [4(4)(d)](https://www.legislation.gov.uk/uksi/2008/959/regulation/4/4/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Staffing of holiday schemes for disabled children[^key-41f4993c3c4ad67b6b8112a5db60f582]
+## 21. Staffing of holiday schemes for disabled children[^c-41f4993c3c4ad67b6b8112a5db60f582]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ there is a sufficient number of suitably competent, experienced and trained empl
 
 ## Annotations
 
-[^key-41f4993c3c4ad67b6b8112a5db60f582]: Commencement: Reg. 21 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-41f4993c3c4ad67b6b8112a5db60f582]: Commencement: Reg. 21 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

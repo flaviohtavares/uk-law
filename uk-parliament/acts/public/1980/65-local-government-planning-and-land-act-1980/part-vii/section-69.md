@@ -30,7 +30,7 @@ summary: ''
 
 (2A) Subsections (1A) and (1B) above extend to Scotland only.
 
-(3)[^key-ff614d9a3897f0b872d758ae87b67769][^c13873381] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ff614d9a3897f0b872d758ae87b67769][^c13873381] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^c13873361]: Textual amendment: S. 69(1A)(1B)(2A) inserted (S.) (1.4.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 158(a)(b)](https://www.legislation.gov.uk/ukpga/1994/39/section/158/a/b); [S.I. 1994/3150](https://www.legislation.gov.uk/uksi/1994/3150), [art. 4(a)](https://www.legislation.gov.uk/uksi/1994/3150/article/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/3150/schedule/1)
 
-[^key-ff614d9a3897f0b872d758ae87b67769]: Textual amendment: [S. 69(3)](https://www.legislation.gov.uk/ukpga/1980/65/section/69/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-ff614d9a3897f0b872d758ae87b67769]: Textual amendment: [S. 69(3)](https://www.legislation.gov.uk/ukpga/1980/65/section/69/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
 
 [^c13873381]: Modification: The text of ss. 24, 25(1)–(3)(5), 26(4), 27, 32, 46 61(4A), 68(2), 69(3), 92(1)—(4)(6)—(8), 112, 114, 118, 131(3), 145, 155(1), 173, 174, 175(1), 176, 180, 181(1)–(3), 183, 92(1)–(4)(6)–(8), 184(1)(2), 186, 191, 193, 194 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

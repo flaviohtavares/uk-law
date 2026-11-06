@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Interpretation of Part 6[^key-49aec7df4b4a3beb88a0ab85a3eeb65a][^key-f5b9c1c818dfb8a30aee47b6341e4538]
+## 64. Interpretation of Part 6[^c-49aec7df4b4a3beb88a0ab85a3eeb65a][^c-f5b9c1c818dfb8a30aee47b6341e4538]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,7 +67,7 @@ summary: ''
 - “**other arms- and WMD-related technology**” means any thing specified in an other arms- and WMD-related list which is described as software or technology (but see paragraph (2));
 - “**petroleum products**” means any thing listed in Annex VI of Regulation 2017/1509;
 - “**refined petroleum products**” means any thing listed in Annex XId of Regulation 2017/1509;
-- “**Regulation 2017/1509**” means Council Regulation (EU) No 2017/1509 of 30 August 2017 concerning restrictive measures against the Democratic People's Republic of Korea and repealing Regulation [(EC) No 329/2007](https://www.legislation.gov.uk/eur/2007/329), as it has effect immediately before IP completion day[^key-7702464509bc8a6661f8c24701cd8933];
+- “**Regulation 2017/1509**” means Council Regulation (EU) No 2017/1509 of 30 August 2017 concerning restrictive measures against the Democratic People's Republic of Korea and repealing Regulation [(EC) No 329/2007](https://www.legislation.gov.uk/eur/2007/329), as it has effect immediately before IP completion day[^c-7702464509bc8a6661f8c24701cd8933];
 - “**restricted goods**” means—
   - (a) military goods,
   - (b) dual-use goods, and
@@ -82,7 +82,7 @@ summary: ''
 - “**technical assistance**”, in relation to goods or technology, means—
   - (a) technical support relating to the repair, development, production, assembly, testing, use or maintenance of the goods or technology, or
   - (b) any other technical service relating to the goods or technology;
-- [^key-086690c15ad3bec62cfa348c30bd3e14]...
+- [^c-086690c15ad3bec62cfa348c30bd3e14]...
 - “**textiles**” means any thing listed in Annex XIf of Regulation 2017/1509;
 - “**transfer**” has the meaning given in paragraph 37 of Schedule 1 to the Act;
 - “**vessels**” means any thing listed in Annex XIk of Regulation 2017/1509;
@@ -114,12 +114,12 @@ summary: ''
 
 ## Annotations
 
-[^key-49aec7df4b4a3beb88a0ab85a3eeb65a]: Commencement: Reg. 64 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-49aec7df4b4a3beb88a0ab85a3eeb65a]: Commencement: Reg. 64 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-f5b9c1c818dfb8a30aee47b6341e4538]: Commencement: Reg. 64 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f5b9c1c818dfb8a30aee47b6341e4538]: Commencement: Reg. 64 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23636501]: Marginal citation: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231). Schedule 2 was substituted by [S.I. 2017/85](https://www.legislation.gov.uk/uksi/2017/85) and subsequently amended by [S.I. 2017/697](https://www.legislation.gov.uk/uksi/2017/697) and [S.I. 2018/165](https://www.legislation.gov.uk/uksi/2018/165). There are other instruments which amend other parts of the Order.
 
-[^key-7702464509bc8a6661f8c24701cd8933]: Textual amendment: Words in [reg. 64(1)](https://www.legislation.gov.uk/uksi/2019/411/regulation/64/1) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/8/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-7702464509bc8a6661f8c24701cd8933]: Textual amendment: Words in [reg. 64(1)](https://www.legislation.gov.uk/uksi/2019/411/regulation/64/1) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/8/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
 
-[^key-086690c15ad3bec62cfa348c30bd3e14]: Textual amendment: Words in [reg. 64(1)](https://www.legislation.gov.uk/uksi/2019/411/regulation/64/1) omitted (31.12.2020 immediately after IP completion day) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/8/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-086690c15ad3bec62cfa348c30bd3e14]: Textual amendment: Words in [reg. 64(1)](https://www.legislation.gov.uk/uksi/2019/411/regulation/64/1) omitted (31.12.2020 immediately after IP completion day) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/8/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

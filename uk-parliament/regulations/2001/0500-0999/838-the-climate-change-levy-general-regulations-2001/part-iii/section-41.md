@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Non-registrable electricity producers[^key-7e64bc83e9bb4718e56ab2247b006477]
+## 41. Non-registrable electricity producers[^c-7e64bc83e9bb4718e56ab2247b006477]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e64bc83e9bb4718e56ab2247b006477]: Commencement: Reg. 41 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-7e64bc83e9bb4718e56ab2247b006477]: Commencement: Reg. 41 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

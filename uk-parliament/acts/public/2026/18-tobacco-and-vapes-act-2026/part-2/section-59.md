@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Ban on sales of snus etc[^key-950aea25910c031253f3f13512e50fa3]
+## 59. Ban on sales of snus etc[^c-950aea25910c031253f3f13512e50fa3]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ After section 9A of the Tobacco and Primary Medical Services (Scotland) Act [201
 
 ## Annotations
 
-[^key-950aea25910c031253f3f13512e50fa3]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2026/18/section/59) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-950aea25910c031253f3f13512e50fa3]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2026/18/section/59) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

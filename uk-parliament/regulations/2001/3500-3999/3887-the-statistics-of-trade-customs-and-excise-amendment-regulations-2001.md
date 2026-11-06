@@ -31,7 +31,7 @@ summary: ''
 
 STATISTICS OF TRADE
 
-The Statistics of Trade (Customs and Excise) (Amendment) Regulations 2001 (revoked)[^key-52accdcc03f1726820be973907bdc9e3]
+The Statistics of Trade (Customs and Excise) (Amendment) Regulations 2001 (revoked)[^c-52accdcc03f1726820be973907bdc9e3]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 1st January 2002
 
-[^key-52accdcc03f1726820be973907bdc9e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52accdcc03f1726820be973907bdc9e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-52accdcc03f1726820be973907bdc9e3]
+## 1.[^c-52accdcc03f1726820be973907bdc9e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-52accdcc03f1726820be973907bdc9e3]
+## 2.[^c-52accdcc03f1726820be973907bdc9e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-52accdcc03f1726820be973907bdc9e3]
+## 3.[^c-52accdcc03f1726820be973907bdc9e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52accdcc03f1726820be973907bdc9e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52accdcc03f1726820be973907bdc9e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-52accdcc03f1726820be973907bdc9e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52accdcc03f1726820be973907bdc9e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-52accdcc03f1726820be973907bdc9e3]: Textual amendment: Regulations revoked (28.10.2002) by [The Statistics of Trade (Customs and Excise) (Amendment) Regulations 2002 (S.I. 2002/2498)](https://www.legislation.gov.uk/uksi/2002/2498), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2498/regulation/1), [4](https://www.legislation.gov.uk/uksi/2002/2498/regulation/4)
+[^c-52accdcc03f1726820be973907bdc9e3]: Textual amendment: Regulations revoked (28.10.2002) by [The Statistics of Trade (Customs and Excise) (Amendment) Regulations 2002 (S.I. 2002/2498)](https://www.legislation.gov.uk/uksi/2002/2498), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2498/regulation/1), [4](https://www.legislation.gov.uk/uksi/2002/2498/regulation/4)

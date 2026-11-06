@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Each traffic commissioner[^key-9300d43d2cea069abaac0668fa363bef] [^c2520691]... shall keep a record in such form and containing such particulars as may be prescribed of all licences granted by [^c2520701]... him under this Act and shall allow the record to be inspected at all reasonable times by members of the public[^c2520711].
+(1) Each traffic commissioner[^c-9300d43d2cea069abaac0668fa363bef] [^c2520691]... shall keep a record in such form and containing such particulars as may be prescribed of all licences granted by [^c2520701]... him under this Act and shall allow the record to be inspected at all reasonable times by members of the public[^c2520711].
 
 (2)[^c2520721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -30,7 +30,7 @@ summary: ''
 
 [^c2520671]: Modification: S. 56 extended by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 126(3)](https://www.legislation.gov.uk/ukpga/1985/67/section/126/3)
 
-[^key-9300d43d2cea069abaac0668fa363bef]: Textual amendment: Words in s. 56(1) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-9300d43d2cea069abaac0668fa363bef]: Textual amendment: Words in s. 56(1) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
 [^c2520691]: Textual amendment: Words repealed by [S.I. 1984/31](https://www.legislation.gov.uk/uksi/1984/31), [art. 5](https://www.legislation.gov.uk/uksi/1984/31/article/5)(*g*)(i)
 

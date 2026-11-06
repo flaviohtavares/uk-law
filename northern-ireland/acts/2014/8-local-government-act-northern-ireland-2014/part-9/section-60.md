@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Decisions on interim reports[^key-87d70c2b2de6ac03f1ffe274746fb199]
+## 60. Decisions on interim reports[^c-87d70c2b2de6ac03f1ffe274746fb199]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ the Commissioner may give notice to the clerk of the council concerned that that
 
 ## Annotations
 
-[^key-87d70c2b2de6ac03f1ffe274746fb199]: Commencement: S. 60 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-87d70c2b2de6ac03f1ffe274746fb199]: Commencement: S. 60 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Period of eligibility[^key-98b4be644f5f86af7c51e7a799d95016]
+## 123. Period of eligibility[^c-98b4be644f5f86af7c51e7a799d95016]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98b4be644f5f86af7c51e7a799d95016]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/2011/1986/part/10) omitted (with application in accordance with reg. 1(3)(5) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2018 (S.I. 2018/137)](https://www.legislation.gov.uk/uksi/2018/137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/137/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2018/137/regulation/6/5)
+[^c-98b4be644f5f86af7c51e7a799d95016]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/2011/1986/part/10) omitted (with application in accordance with reg. 1(3)(5) of the amending S.I.) by virtue of [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2018 (S.I. 2018/137)](https://www.legislation.gov.uk/uksi/2018/137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/137/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2018/137/regulation/6/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Payment into court[^key-2af4e60cf70b5043a346d9f7473b60eb]
+## 137. Payment into court[^c-2af4e60cf70b5043a346d9f7473b60eb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The CPR relating to payment into and out of court of money lodged in court as se
 
 ## Annotations
 
-[^key-2af4e60cf70b5043a346d9f7473b60eb]: Commencement: Rule 137 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-2af4e60cf70b5043a346d9f7473b60eb]: Commencement: Rule 137 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

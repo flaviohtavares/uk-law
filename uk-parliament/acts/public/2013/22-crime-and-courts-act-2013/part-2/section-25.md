@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-0aa01462bc9fd5f82bfe0ac180040b3f] Schedule 12 to the Tribunals, Courts and Enforcement Act 2007 (procedure for taking control of goods) is amended as follows.
+(1)[^c-0aa01462bc9fd5f82bfe0ac180040b3f] Schedule 12 to the Tribunals, Courts and Enforcement Act 2007 (procedure for taking control of goods) is amended as follows.
 
-(2)[^key-0aa01462bc9fd5f82bfe0ac180040b3f] In paragraph 17 (enforcement agent may use reasonable force to enter etc where paragraph 18 or 19 applies) for “or 19” substitute “ , 18A, 19 or 19A ”.
+(2)[^c-0aa01462bc9fd5f82bfe0ac180040b3f] In paragraph 17 (enforcement agent may use reasonable force to enter etc where paragraph 18 or 19 applies) for “or 19” substitute “ , 18A, 19 or 19A ”.
 
-(3)[^key-0aa01462bc9fd5f82bfe0ac180040b3f] After paragraph 18 insert—
+(3)[^c-0aa01462bc9fd5f82bfe0ac180040b3f] After paragraph 18 insert—
 
 > **18A.**
 >
@@ -37,7 +37,7 @@ summary: ''
 >
 > (2) “**Traffic contravention debt**” has the meaning given by section 82(2) of the Traffic Management Act 2004.
 
-(4)[^key-87bdc2300954b29f20dc41a9befaf13c][^key-5507c9e115c5e15e40a859cbec0f4ed9] After paragraph 19 insert—
+(4)[^c-87bdc2300954b29f20dc41a9befaf13c][^c-5507c9e115c5e15e40a859cbec0f4ed9] After paragraph 19 insert—
 
 > **19A.**
 >
@@ -63,18 +63,18 @@ summary: ''
 >
 > (5) The order may be subject to conditions.
 
-(5)[^key-eedfc7e62075cd8691aa477437444fa7] In paragraphs 24(2) and 31(5) (no power to use force against persons except to extent provided in regulations) omit “, except to the extent that regulations provide that it does”.
+(5)[^c-eedfc7e62075cd8691aa477437444fa7] In paragraphs 24(2) and 31(5) (no power to use force against persons except to extent provided in regulations) omit “, except to the extent that regulations provide that it does”.
 
-(6)[^key-0aa01462bc9fd5f82bfe0ac180040b3f] Omit paragraph 53(2) (controlled goods to be treated as abandoned if unsold after a sale).
+(6)[^c-0aa01462bc9fd5f82bfe0ac180040b3f] Omit paragraph 53(2) (controlled goods to be treated as abandoned if unsold after a sale).
 
-(7)[^key-0aa01462bc9fd5f82bfe0ac180040b3f] Omit paragraph 56(2) (securities to be treated as abandoned if not disposed of in accordance with notice of disposal).
+(7)[^c-0aa01462bc9fd5f82bfe0ac180040b3f] Omit paragraph 56(2) (securities to be treated as abandoned if not disposed of in accordance with notice of disposal).
 
-(8)[^key-eedfc7e62075cd8691aa477437444fa7] In consequence of the repeals in subsection (5), in section 90 of the Tribunals, Courts and Enforcement Act 2007 (regulations under Part 3)—
+(8)[^c-eedfc7e62075cd8691aa477437444fa7] In consequence of the repeals in subsection (5), in section 90 of the Tribunals, Courts and Enforcement Act 2007 (regulations under Part 3)—
 
 - (a) omit subsection (4) (procedure for regulations under paragraphs 24(2) and 31(5) of Schedule 12), and
 - (b) in subsection (5) omit “In any other case”.
 
-(9)[^key-0aa01462bc9fd5f82bfe0ac180040b3f] In Schedule 13 to that Act (taking control of goods: amendments)—
+(9)[^c-0aa01462bc9fd5f82bfe0ac180040b3f] In Schedule 13 to that Act (taking control of goods: amendments)—
 
 - (a) in paragraph 37 (repeal in section 66(2) of the Criminal Justice Act 1972) for the words after “etc.),” substitute “ omit subsection (2). ”,
 - (b) in paragraph 74 (repeal of sections 93 to 100 of the County Courts Act 1984) after “93 to” insert “ 98 and ”,
@@ -84,10 +84,10 @@ summary: ''
 
 ## Annotations
 
-[^key-0aa01462bc9fd5f82bfe0ac180040b3f]: Commencement: [S. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/25/1) [(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/25/6) [(7)](https://www.legislation.gov.uk/ukpga/2013/22/section/25/7) [(9)](https://www.legislation.gov.uk/ukpga/2013/22/section/25/9) in force at 6.4.2014 by [S.I. 2014/830](https://www.legislation.gov.uk/uksi/2014/830), [art. 2](https://www.legislation.gov.uk/uksi/2014/830/article/2)
+[^c-0aa01462bc9fd5f82bfe0ac180040b3f]: Commencement: [S. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/25/1) [(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/25/6) [(7)](https://www.legislation.gov.uk/ukpga/2013/22/section/25/7) [(9)](https://www.legislation.gov.uk/ukpga/2013/22/section/25/9) in force at 6.4.2014 by [S.I. 2014/830](https://www.legislation.gov.uk/uksi/2014/830), [art. 2](https://www.legislation.gov.uk/uksi/2014/830/article/2)
 
-[^key-87bdc2300954b29f20dc41a9befaf13c]: Commencement: S. 25(4) in force at 15.7.2013 for specified purposes by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/c)
+[^c-87bdc2300954b29f20dc41a9befaf13c]: Commencement: S. 25(4) in force at 15.7.2013 for specified purposes by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/c)
 
-[^key-5507c9e115c5e15e40a859cbec0f4ed9]: Commencement: [S. 25(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/25/4) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/830](https://www.legislation.gov.uk/uksi/2014/830), [art. 2](https://www.legislation.gov.uk/uksi/2014/830/article/2)
+[^c-5507c9e115c5e15e40a859cbec0f4ed9]: Commencement: [S. 25(4)](https://www.legislation.gov.uk/ukpga/2013/22/section/25/4) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/830](https://www.legislation.gov.uk/uksi/2014/830), [art. 2](https://www.legislation.gov.uk/uksi/2014/830/article/2)
 
-[^key-eedfc7e62075cd8691aa477437444fa7]: Commencement: S. 25(5)(8) in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/d)
+[^c-eedfc7e62075cd8691aa477437444fa7]: Commencement: S. 25(5)(8) in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/d)

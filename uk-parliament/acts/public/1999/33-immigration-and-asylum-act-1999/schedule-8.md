@@ -28,7 +28,7 @@ Section 95(12).
 
 ### Determining whether a person is destitute
 
-**2.**[^c11435661][^key-b64f8f26a0fc39f8fd0b9e445ed02c37] (1) The regulations may provide, in connection with determining whether a person is destitute, for the Secretary of State to take into account, except in such circumstances (if any) as may be prescribed—
+**2.**[^c11435661][^c-b64f8f26a0fc39f8fd0b9e445ed02c37] (1) The regulations may provide, in connection with determining whether a person is destitute, for the Secretary of State to take into account, except in such circumstances (if any) as may be prescribed—
 
 - (a) income which the person concerned, or any dependant of his, has or might reasonably be expected to have, and
 - (b) support which is, or assets of a prescribed kind which are, or might reasonably be expected to be, available to him or to any dependant of his,
@@ -134,6 +134,6 @@ his tenancy or licence is to be treated as ending with the period specified in t
 
     Sch. 8 para. 2 applied (with modifications) (1.3.2000 for specified purposes and otherwise 3.4.2000) by [1984 c. 36](https://www.legislation.gov.uk/ukpga/1984/36), [ss. 7(4)](https://www.legislation.gov.uk/ukpga/1984/36/section/7/4), [8(5)](https://www.legislation.gov.uk/ukpga/1984/36/section/8/5) (as inserted by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [ss. 120(4)(5)](https://www.legislation.gov.uk/ukpga/1999/33/section/120/4/5), [169(2)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/2), [170(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/170/4), [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/1999/33/schedule/15/paragraph/10))
 
-[^key-b64f8f26a0fc39f8fd0b9e445ed02c37]: Modification: Sch. 8 para. 2 applied (with modifications) (S.) (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2005/2078/article/14/2)
+[^c-b64f8f26a0fc39f8fd0b9e445ed02c37]: Modification: Sch. 8 para. 2 applied (with modifications) (S.) (5.10.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)](https://www.legislation.gov.uk/uksi/2005/2078), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2078/article/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2005/2078/article/14/2)
 
 [^c17726001]: Textual amendment: Words in Sch. 8 para. 12(c) inserted (8.12.2002) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 57](https://www.legislation.gov.uk/ukpga/2002/41/section/57) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)

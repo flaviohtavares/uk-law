@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-a77ae78d49a67dc686578aba9a33d9e8]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-a77ae78d49a67dc686578aba9a33d9e8]
 
 *Extent: E+W+S*
 
 Article 4
 
-[^key-a77ae78d49a67dc686578aba9a33d9e8]In the Borough of North East Lincolnshire a nationally significant infrastructure project as defined in sections 14(1)(a) (nationally significant infrastructure projects: general) and 15 (generating stations) of the 2008 Act and associated development within the meaning of section 115(2) (development for which development consent may be granted), comprising—
+[^c-a77ae78d49a67dc686578aba9a33d9e8]In the Borough of North East Lincolnshire a nationally significant infrastructure project as defined in sections 14(1)(a) (nationally significant infrastructure projects: general) and 15 (generating stations) of the 2008 Act and associated development within the meaning of section 115(2) (development for which development consent may be granted), comprising—
 
-- **Work No. 1**— an electricity generating station located on land at the South Humber Bank Power Station Site, South Marsh Road, near Stallingborough, Lincolnshire, fuelled by refuse derived fuels, with a capacity to process up to[^key-b9e68ad6763914267d879835bd13645d] 753,500 tonnes of refuse derived fuel per annum, with a gross generation capacity of up to 95 megawatts at ISO conditions comprising the following works—
+- **Work No. 1**— an electricity generating station located on land at the South Humber Bank Power Station Site, South Marsh Road, near Stallingborough, Lincolnshire, fuelled by refuse derived fuels, with a capacity to process up to[^c-b9e68ad6763914267d879835bd13645d] 753,500 tonnes of refuse derived fuel per annum, with a gross generation capacity of up to 95 megawatts at ISO conditions comprising the following works—
   - (a) fuel reception and storage facilities, consisting of vehicle ramps, a tipping hall, shredder, fuel storage bunker and cranes;
   - (b) a combustion system housed within a boiler hall, consisting of two combustion lines and associated boilers;
   - (c) a steam turbine and generator housed within a turbine hall with a cooling system comprising fin fan coolers;
@@ -80,6 +80,6 @@ Article 4
 
 ## Annotations
 
-[^key-a77ae78d49a67dc686578aba9a33d9e8]: Commencement: Sch. 1 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-a77ae78d49a67dc686578aba9a33d9e8]: Commencement: Sch. 1 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
 
-[^key-b9e68ad6763914267d879835bd13645d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1259/schedule/1) inserted (5.4.2022) by [The South Humber Bank Energy Centre (Correction) Order 2022 (S.I. 2022/421)](https://www.legislation.gov.uk/uksi/2022/421), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/421/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/421/schedule)
+[^c-b9e68ad6763914267d879835bd13645d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1259/schedule/1) inserted (5.4.2022) by [The South Humber Bank Energy Centre (Correction) Order 2022 (S.I. 2022/421)](https://www.legislation.gov.uk/uksi/2022/421), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/421/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/421/schedule)

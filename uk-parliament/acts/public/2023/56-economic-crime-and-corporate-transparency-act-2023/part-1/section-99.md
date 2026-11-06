@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Overseas companies: availability of material for public inspection etc[^key-bf8c6974fd62539bae9755c2be82ab05]
+## 99. Overseas companies: availability of material for public inspection etc[^c-bf8c6974fd62539bae9755c2be82ab05]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 1046 of the Companies Act 2006 (overseas companies: registration of p
 
 ## Annotations
 
-[^key-bf8c6974fd62539bae9755c2be82ab05]: Commencement: S. 99 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-bf8c6974fd62539bae9755c2be82ab05]: Commencement: S. 99 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29.11. Notes of argument[^key-1fb43fa8d3ccbfb3322694e7f3fdfa49]
+## 29.11. Notes of argument[^c-1fb43fa8d3ccbfb3322694e7f3fdfa49]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fb43fa8d3ccbfb3322694e7f3fdfa49]: Commencement: Para. 29.11 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-1fb43fa8d3ccbfb3322694e7f3fdfa49]: Commencement: Para. 29.11 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

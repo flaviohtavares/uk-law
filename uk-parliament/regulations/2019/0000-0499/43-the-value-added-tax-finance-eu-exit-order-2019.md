@@ -34,7 +34,7 @@ Exiting The European Union
 
 Value Added Tax
 
-The Value Added Tax (Finance) (EU Exit) Order 2019 (revoked)[^key-38541d813aabc94a2673fdf9ef302354]
+The Value Added Tax (Finance) (EU Exit) Order 2019 (revoked)[^c-38541d813aabc94a2673fdf9ef302354]
 
 Made
 
@@ -46,33 +46,33 @@ Laid before the House of Commons
 
 Coming into force in accordance with article 1
 
-[^key-38541d813aabc94a2673fdf9ef302354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38541d813aabc94a2673fdf9ef302354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-38541d813aabc94a2673fdf9ef302354]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of Group 5 of Schedule 9 to the Value Added Tax Act 1994[^key-38541d813aabc94a2673fdf9ef302354]
+## 1. Citation and commencement[^c-38541d813aabc94a2673fdf9ef302354]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-38541d813aabc94a2673fdf9ef302354]
+## 2. Amendment of Group 5 of Schedule 9 to the Value Added Tax Act 1994[^c-38541d813aabc94a2673fdf9ef302354]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-38541d813aabc94a2673fdf9ef302354]
+## 3.[^c-38541d813aabc94a2673fdf9ef302354]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-38541d813aabc94a2673fdf9ef302354]
+## 4.[^c-38541d813aabc94a2673fdf9ef302354]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5.[^c-38541d813aabc94a2673fdf9ef302354]
 
 **Not yet in force.**
 
@@ -80,12 +80,12 @@ Coming into force in accordance with article 1
 
 **May not be in force at this date. Check the source.**
 
-[^key-38541d813aabc94a2673fdf9ef302354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38541d813aabc94a2673fdf9ef302354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-38541d813aabc94a2673fdf9ef302354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38541d813aabc94a2673fdf9ef302354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-38541d813aabc94a2673fdf9ef302354]: Textual amendment: Order revoked (8.7.2019) by [The Value Added Tax (Finance) (EU Exit) (Revocation) Order 2019 (S.I. 2019/1014)](https://www.legislation.gov.uk/uksi/2019/1014), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1014/article/1), [2](https://www.legislation.gov.uk/uksi/2019/1014/article/2)
+[^c-38541d813aabc94a2673fdf9ef302354]: Textual amendment: Order revoked (8.7.2019) by [The Value Added Tax (Finance) (EU Exit) (Revocation) Order 2019 (S.I. 2019/1014)](https://www.legislation.gov.uk/uksi/2019/1014), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1014/article/1), [2](https://www.legislation.gov.uk/uksi/2019/1014/article/2)

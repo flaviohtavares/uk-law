@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Expiry[^key-a8e98d0e18c564865d848ec23531ef4a]
+## 2. Expiry[^c-a8e98d0e18c564865d848ec23531ef4a]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8e98d0e18c564865d848ec23531ef4a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2014/951/regulation/2) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-a8e98d0e18c564865d848ec23531ef4a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2014/951/regulation/2) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

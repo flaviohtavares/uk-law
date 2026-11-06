@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 239. Application for permission under Article 180(3)[^key-6fa488922ef2d0b6c082bb58c3920be6]
+## 239. Application for permission under Article 180(3)[^c-6fa488922ef2d0b6c082bb58c3920be6]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fa488922ef2d0b6c082bb58c3920be6]: Commencement: [Rule 239](https://www.legislation.gov.uk/nisr/2026/11/rule/239) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-6fa488922ef2d0b6c082bb58c3920be6]: Commencement: [Rule 239](https://www.legislation.gov.uk/nisr/2026/11/rule/239) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

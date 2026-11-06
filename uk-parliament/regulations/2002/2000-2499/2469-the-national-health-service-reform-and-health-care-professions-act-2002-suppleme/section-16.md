@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. National Health Service Act 1977[^key-5f33659a23c328652677e49b70680bcf]
+## 16. National Health Service Act 1977[^c-5f33659a23c328652677e49b70680bcf]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ Until the provisions of the Health and Social Care Act 2001 specified in Schedul
 
 ## Annotations
 
-[^key-5f33659a23c328652677e49b70680bcf]: Commencement: Reg. 16 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-5f33659a23c328652677e49b70680bcf]: Commencement: Reg. 16 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00007]: Footnote: [S.I. 2001/3738](https://www.legislation.gov.uk/uksi/2001/3738). Articles 2(4) and (5) of and Schedule 2 to the Order provide for the coming into force of those provisions of the Health and Social Care Act [2001 (c. 15)](https://www.legislation.gov.uk/ukpga/2001/15) (“the 2001 Act”) which relate to the abolition of the NHS Tribunal in England with effect from 14th December 2001. They bring into force the repeal of sections 46 and 49A of, and Schedule 9 to, the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49) (“the 1977 Act”) subject to savings in respect of cases not concluded by 14th December 2001 and pharmacist cases (as defined in Article 1 of the Order).
 

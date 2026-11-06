@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Breach of exclusion order[^key-35306ad0a1a254cdd75fbd1c07c1d870][^key-b4a1e464e12becfaee9400e53403bbb8]
+## 95. Breach of exclusion order[^c-35306ad0a1a254cdd75fbd1c07c1d870][^c-b4a1e464e12becfaee9400e53403bbb8]
 
 *Extent: S*
 
@@ -42,7 +42,7 @@ summary: ''
 
 provide the assistance asked for.
 
-(6)[^key-2a6245d86f2973a6697a274605a36854] In this section, “**authorised person**” means, in relation to licensed premises, any of the following persons, namely—
+(6)[^c-2a6245d86f2973a6697a274605a36854] In this section, “**authorised person**” means, in relation to licensed premises, any of the following persons, namely—
 
 - (a) the premises licence holder,
 - (b) the premises manager, and
@@ -52,8 +52,8 @@ provide the assistance asked for.
 
 ## Annotations
 
-[^key-35306ad0a1a254cdd75fbd1c07c1d870]: Modification: Ss. 94-96 modified (1.1.2008) by [Licensing (Transitional and Saving Provisions) (Scotland) Order 2007 (S.S.I. 2007/454)](https://www.legislation.gov.uk/ssi/2007/454), [arts. 1](https://www.legislation.gov.uk/ssi/2007/454/article/1), [26(2)](https://www.legislation.gov.uk/ssi/2007/454/article/26/2)(3)
+[^c-35306ad0a1a254cdd75fbd1c07c1d870]: Modification: Ss. 94-96 modified (1.1.2008) by [Licensing (Transitional and Saving Provisions) (Scotland) Order 2007 (S.S.I. 2007/454)](https://www.legislation.gov.uk/ssi/2007/454), [arts. 1](https://www.legislation.gov.uk/ssi/2007/454/article/1), [26(2)](https://www.legislation.gov.uk/ssi/2007/454/article/26/2)(3)
 
-[^key-b4a1e464e12becfaee9400e53403bbb8]: Commencement: S. 95 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-b4a1e464e12becfaee9400e53403bbb8]: Commencement: S. 95 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-2a6245d86f2973a6697a274605a36854]: Modification: S. 95(6) modified (1.1.2008) by [Licensing (Transitional and Saving Provisions) (Scotland) Order 2007 (S.S.I. 2007/454)](https://www.legislation.gov.uk/ssi/2007/454), [arts. 1](https://www.legislation.gov.uk/ssi/2007/454/article/1), [26(4)](https://www.legislation.gov.uk/ssi/2007/454/article/26/4)
+[^c-2a6245d86f2973a6697a274605a36854]: Modification: S. 95(6) modified (1.1.2008) by [Licensing (Transitional and Saving Provisions) (Scotland) Order 2007 (S.S.I. 2007/454)](https://www.legislation.gov.uk/ssi/2007/454), [arts. 1](https://www.legislation.gov.uk/ssi/2007/454/article/1), [26(4)](https://www.legislation.gov.uk/ssi/2007/454/article/26/4)

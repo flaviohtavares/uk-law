@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**240.**[^key-06dd0237e3bfb9273e83096b5624c973] In section 74 (supply of goods and services by local authorities), for subsection (4) substitute—
+**240.**[^c-06dd0237e3bfb9273e83096b5624c973] In section 74 (supply of goods and services by local authorities), for subsection (4) substitute—
 
 > (4) “services” means—
 >
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06dd0237e3bfb9273e83096b5624c973]: Commencement: Reg. 240 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-06dd0237e3bfb9273e83096b5624c973]: Commencement: Reg. 240 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

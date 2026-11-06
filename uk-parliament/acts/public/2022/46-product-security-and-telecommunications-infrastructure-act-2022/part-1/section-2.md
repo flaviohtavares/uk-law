@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Further provision about regulations under section 1[^key-6bb9ce036c2e91d53afa481bc590c43e][^key-a1533ff633463942b999318a93be56eb]
+## 2. Further provision about regulations under section 1[^c-6bb9ce036c2e91d53afa481bc590c43e][^c-a1533ff633463942b999318a93be56eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ and for these purposes it does not matter whether the software is installed on t
 
 ## Annotations
 
-[^key-6bb9ce036c2e91d53afa481bc590c43e]: Commencement: S. 2 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2)
+[^c-6bb9ce036c2e91d53afa481bc590c43e]: Commencement: S. 2 not in force at Royal Assent, see [s. 79(2)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/2)
 
-[^key-a1533ff633463942b999318a93be56eb]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/46/section/2) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-a1533ff633463942b999318a93be56eb]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/46/section/2) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

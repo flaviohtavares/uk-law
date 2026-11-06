@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Amendment of the Making Available on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 2016[^key-f86fb4477c1d1567b016c2e3f5f26874]
+## 34. Amendment of the Making Available on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 2016[^c-f86fb4477c1d1567b016c2e3f5f26874]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f86fb4477c1d1567b016c2e3f5f26874]: Textual amendment: Pt. 4 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety and Metrology etc. (Amendment to Extent and Meaning of Market) (EU Exit) Regulations 2020 (S.I. 2020/676)](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)
+[^c-f86fb4477c1d1567b016c2e3f5f26874]: Textual amendment: Pt. 4 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety and Metrology etc. (Amendment to Extent and Meaning of Market) (EU Exit) Regulations 2020 (S.I. 2020/676)](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)

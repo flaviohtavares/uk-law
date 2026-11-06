@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.8. Form of witness statement[^key-a6e0e6f2f4a77486413539799dd8065d]
+## 32.8. Form of witness statement[^c-a6e0e6f2f4a77486413539799dd8065d]
 
 *Extent: E+W*
 
-A witness statement must comply with the requirements set out in Practice Direction 32[^key-56f5f1fcddb6351fe73aa015ae793df6].
+A witness statement must comply with the requirements set out in Practice Direction 32[^c-56f5f1fcddb6351fe73aa015ae793df6].
 
 (Part 22 requires a witness statement to be verified by a statement of truth)
 
 ## Annotations
 
-[^key-a6e0e6f2f4a77486413539799dd8065d]: Commencement: [Rule 32.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.8) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-a6e0e6f2f4a77486413539799dd8065d]: Commencement: [Rule 32.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.8) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-56f5f1fcddb6351fe73aa015ae793df6]: Textual amendment: Words in [rule 32.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.8) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [16](https://www.legislation.gov.uk/uksi/2009/3390/rule/16)
+[^c-56f5f1fcddb6351fe73aa015ae793df6]: Textual amendment: Words in [rule 32.8](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.8) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [16](https://www.legislation.gov.uk/uksi/2009/3390/rule/16)

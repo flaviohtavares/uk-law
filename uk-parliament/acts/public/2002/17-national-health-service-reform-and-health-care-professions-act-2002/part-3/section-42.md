@@ -24,9 +24,9 @@ summary: ''
 
 (2) In this Act—
 
-- [^key-1b974f1e5014f12f5429f10514cb0a48]...
+- [^c-1b974f1e5014f12f5429f10514cb0a48]...
 - “**the 1999 Act**” means the Health Act 1999 (c. 8),
-- [^key-1b974f1e5014f12f5429f10514cb0a48]...
+- [^c-1b974f1e5014f12f5429f10514cb0a48]...
 
 (3) This Act, apart from—
 
@@ -53,7 +53,7 @@ shall come into force on such day as the appropriate authority may by order appo
 
 (6) The extent of any amendment or repeal made by this Act is the same as that of the enactment amended or repealed.
 
-(7) Subsection (6) does not apply to the amendment of the Police Act 1997 (c. 50) made by paragraph 64 of Schedule 2, which extends to England and Wales only. *(Extent: E+W)* *(affected by repeal, see note)*[^key-bc61e1b4cff2418deed63bd1b492c968]
+(7) Subsection (6) does not apply to the amendment of the Police Act 1997 (c. 50) made by paragraph 64 of Schedule 2, which extends to England and Wales only. *(Extent: E+W)* *(affected by repeal, see note)*[^c-bc61e1b4cff2418deed63bd1b492c968]
 
 (8) The Secretary of State may by order provide that so much of this Act as extends to England and Wales is to apply to the Isles of Scilly with such modifications (if any) as are specified in the order; but otherwise this Act does not extend there.
 
@@ -65,6 +65,6 @@ shall come into force on such day as the appropriate authority may by order appo
 
     S. 42(3) power partly exercised: 1.1.2003 appointed for specified provisions and purposes by [S.I. 2002/3190](https://www.legislation.gov.uk/uksi/2002/3190), [art. 2](https://www.legislation.gov.uk/uksi/2002/3190/article/2); 1.4.2003 appointed for specified provisions and purposes by [S.I. 2003/833](https://www.legislation.gov.uk/uksi/2003/833), [arts. 2](https://www.legislation.gov.uk/uksi/2003/833/article/2), [3](https://www.legislation.gov.uk/uksi/2003/833/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/833/article/4))
 
-[^key-1b974f1e5014f12f5429f10514cb0a48]: Textual amendment: Words in s. 42(2) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-1b974f1e5014f12f5429f10514cb0a48]: Textual amendment: Words in s. 42(2) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1, Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-bc61e1b4cff2418deed63bd1b492c968]: Textual amendment: S. 42(7) repealed (E.W.) (6.4.2006) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 11](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/11); [S.I. 2006/751](https://www.legislation.gov.uk/uksi/2006/751), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2006/751/article/2/d/iv)
+[^c-bc61e1b4cff2418deed63bd1b492c968]: Textual amendment: S. 42(7) repealed (E.W.) (6.4.2006) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 11](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/11); [S.I. 2006/751](https://www.legislation.gov.uk/uksi/2006/751), [art. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2006/751/article/2/d/iv)

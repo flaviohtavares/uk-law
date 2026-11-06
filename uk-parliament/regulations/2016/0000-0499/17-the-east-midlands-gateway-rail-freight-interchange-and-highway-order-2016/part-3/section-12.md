@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Public rights of way – creation, diversion and stopping up[^key-83a0b6cd708d414641de03a19c86cb5c]
+## 12. Public rights of way – creation, diversion and stopping up[^c-83a0b6cd708d414641de03a19c86cb5c]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83a0b6cd708d414641de03a19c86cb5c]: Commencement: Art. 12 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-83a0b6cd708d414641de03a19c86cb5c]: Commencement: Art. 12 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

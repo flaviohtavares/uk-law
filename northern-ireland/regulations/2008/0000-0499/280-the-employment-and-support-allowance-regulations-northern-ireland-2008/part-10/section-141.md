@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 141. Further disregard of student’s income[^key-a3ed199cafdffc72e68b2bb01478af07]
+## 141. Further disregard of student’s income[^c-a3ed199cafdffc72e68b2bb01478af07]
 
 *Extent: N.I.*
 
-Where any part of a student’s income has already been taken into account for the purposes of assessing that student’s entitlement to a grant , student loan or postgraduate loan[^key-39ea16bc5793bd3cdc8a7c7fd7228a58] , the amount taken into account is to be disregarded in assessing that student’s income.
+Where any part of a student’s income has already been taken into account for the purposes of assessing that student’s entitlement to a grant , student loan or postgraduate loan[^c-39ea16bc5793bd3cdc8a7c7fd7228a58] , the amount taken into account is to be disregarded in assessing that student’s income.
 
 ## Annotations
 
-[^key-a3ed199cafdffc72e68b2bb01478af07]: Commencement: [Reg. 141](https://www.legislation.gov.uk/nisr/2008/280/regulation/141) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-a3ed199cafdffc72e68b2bb01478af07]: Commencement: [Reg. 141](https://www.legislation.gov.uk/nisr/2008/280/regulation/141) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-39ea16bc5793bd3cdc8a7c7fd7228a58]: Textual amendment: Words in [reg. 141](https://www.legislation.gov.uk/nisr/2008/280/regulation/141) substituted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/108)](https://www.legislation.gov.uk/nisr/2020/108), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/108/regulation/1/1), [7(9)](https://www.legislation.gov.uk/nisr/2020/108/regulation/7/9)
+[^c-39ea16bc5793bd3cdc8a7c7fd7228a58]: Textual amendment: Words in [reg. 141](https://www.legislation.gov.uk/nisr/2008/280/regulation/141) substituted (15.7.2020) by [The Social Security (Income and Capital) (Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/108)](https://www.legislation.gov.uk/nisr/2020/108), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/108/regulation/1/1), [7(9)](https://www.legislation.gov.uk/nisr/2020/108/regulation/7/9)

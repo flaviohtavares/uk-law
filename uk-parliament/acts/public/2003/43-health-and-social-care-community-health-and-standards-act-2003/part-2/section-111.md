@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Boarding schools and colleges: reports[^key-2197d2d5b6db19e706e0ddafd1b698e5][^key-57ac6ab3d3884868cc59e8699b025e21]
+## 111. Boarding schools and colleges: reports[^c-2197d2d5b6db19e706e0ddafd1b698e5][^c-57ac6ab3d3884868cc59e8699b025e21]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ In section 87 of the Children Act 1989, after subsection (9) insert—
 
 ## Annotations
 
-[^key-2197d2d5b6db19e706e0ddafd1b698e5]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2003/43/section/111) in force at 1.4.2004 by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 7](https://www.legislation.gov.uk/uksi/2004/759/article/7)
+[^c-2197d2d5b6db19e706e0ddafd1b698e5]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2003/43/section/111) in force at 1.4.2004 by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 7](https://www.legislation.gov.uk/uksi/2004/759/article/7)
 
-[^key-57ac6ab3d3884868cc59e8699b025e21]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2003/43/section/111) in force at 1.4.2004 for W. by [S.I. 2004/873](https://www.legislation.gov.uk/wsi/2004/873), [art. 2(e)](https://www.legislation.gov.uk/wsi/2004/873/article/2/e)
+[^c-57ac6ab3d3884868cc59e8699b025e21]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2003/43/section/111) in force at 1.4.2004 for W. by [S.I. 2004/873](https://www.legislation.gov.uk/wsi/2004/873), [art. 2(e)](https://www.legislation.gov.uk/wsi/2004/873/article/2/e)

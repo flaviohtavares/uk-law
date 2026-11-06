@@ -37,11 +37,11 @@ Made
 
 The Secretary of State for Education makes the following Order in exercise of the powers conferred by section 75(3) of the Data Protection Act 1998[^f00001]:
 
-## 1. Citation[^key-94ad844535443943d5457013e57eb8dc]
+## 1. Citation[^c-94ad844535443943d5457013e57eb8dc]
 
 This Order may be cited as the Data Protection Act 1998 (Commencement No. 3) Order 2011.
 
-## 2. Partial commencement of section 56 of the Data Protection Act 1998[^key-8a704f9816967bddb9b9d17ff4a0e273]
+## 2. Partial commencement of section 56 of the Data Protection Act 1998[^c-8a704f9816967bddb9b9d17ff4a0e273]
 
 The day after the day on which this Order is made is the day appointed for the coming into force of section 56 of the Data Protection Act 1998 (prohibition of requirement as to production of certain records)[^f00002] insofar as it relates to a record containing information relating to the Scottish Ministers’ functions under Parts 1 and 2 of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00003].
 
@@ -113,9 +113,9 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29). Section 75 was amended by paragraph 9(1)(a) of Schedule 2 to the Secretary of State for Constitutional Affairs Order 2003 ([S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887)), paragraph 15(1) and (3) of Schedule 9 to the Safeguarding Vulnerable Groups Act [2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), and paragraph 4(2)(a) and (b) of Schedule 7 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 ([S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351)).
 
-[^key-94ad844535443943d5457013e57eb8dc]: Commencement: Art. 1 in force at made date
+[^c-94ad844535443943d5457013e57eb8dc]: Commencement: Art. 1 in force at made date
 
-[^key-8a704f9816967bddb9b9d17ff4a0e273]: Commencement: Art. 2 in force at made date
+[^c-8a704f9816967bddb9b9d17ff4a0e273]: Commencement: Art. 2 in force at made date
 
 [^f00002]: Footnote: Section 56(6) has been amended by section 78(2)(a) of the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32); paragraph 112 of Schedule 4 to the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15); paragraph 191 of Schedule 9 to the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6); section 63(1) of, and paragraph 15(1), (2)(a) and (2)(b) of Part 2 of Schedule 9 to, the Safeguarding Vulnerable Groups Act [2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47); article 60(1) of, and paragraph 4(1) of Schedule 7 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 ([S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351)); section 81(2) and (3)(i) of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26); and article 3(2) of The Protection of Vulnerable Groups (Scotland) Act 2007 (Consequential Modifications) Order 2011 ([S.I. 2011/565](https://www.legislation.gov.uk/uksi/2011/565)).
 

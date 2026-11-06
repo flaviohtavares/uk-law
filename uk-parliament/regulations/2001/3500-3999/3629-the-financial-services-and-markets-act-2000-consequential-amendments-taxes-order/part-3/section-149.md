@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. EEA firms and Treaty firms[^key-d3e43152ff63b647ed40c389a12859eb]
+## 149. EEA firms and Treaty firms[^c-d3e43152ff63b647ed40c389a12859eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3e43152ff63b647ed40c389a12859eb]: Commencement: Art. 149 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-d3e43152ff63b647ed40c389a12859eb]: Commencement: Art. 149 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

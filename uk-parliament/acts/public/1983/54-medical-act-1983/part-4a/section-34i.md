@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34I. Postgraduate medical education and training: approvals[^key-9a57fee46fdfa0d193ec4e7f087225b8]
+## 34I. Postgraduate medical education and training: approvals[^c-9a57fee46fdfa0d193ec4e7f087225b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ a reasonable opportunity to make representations to them before making the deter
 
 ## Annotations
 
-[^key-9a57fee46fdfa0d193ec4e7f087225b8]: Textual amendment: Pt. 4A inserted (11.2.2010 for specified purposes, 1.4.2010 in so far as not already in force) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2010/234/schedule/1/paragraph/10); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)
+[^c-9a57fee46fdfa0d193ec4e7f087225b8]: Textual amendment: Pt. 4A inserted (11.2.2010 for specified purposes, 1.4.2010 in so far as not already in force) by [The General and Specialist Medical Practice (Education, Training and Qualifications) Order 2010 (S.I. 2010/234)](https://www.legislation.gov.uk/uksi/2010/234), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/234/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2010/234/article/1/4), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2010/234/schedule/1/paragraph/10); [S.I. 2010/478](https://www.legislation.gov.uk/uksi/2010/478), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/478/article/2/b)

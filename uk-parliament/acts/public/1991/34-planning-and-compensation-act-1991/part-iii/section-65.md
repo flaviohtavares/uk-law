@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Certification of appropriate alternative development.[^key-28a3b18217e65808d7cefb8ce370718c]
+## 65. Certification of appropriate alternative development.[^c-28a3b18217e65808d7cefb8ce370718c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28a3b18217e65808d7cefb8ce370718c]: Textual amendment: S. 65 repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-28a3b18217e65808d7cefb8ce370718c]: Textual amendment: S. 65 repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)

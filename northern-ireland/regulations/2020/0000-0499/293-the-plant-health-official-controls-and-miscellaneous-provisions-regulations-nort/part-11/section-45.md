@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Obstruction[^key-38e9c30fe80d863644d59a60bd81a971]
+## 45. Obstruction[^c-38e9c30fe80d863644d59a60bd81a971]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38e9c30fe80d863644d59a60bd81a971]: Commencement: Reg. 45 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-38e9c30fe80d863644d59a60bd81a971]: Commencement: Reg. 45 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

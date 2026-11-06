@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Exceptional detention order[^key-b454e8cf919c20a12dcd9221b0a237b1]
+## 45. Exceptional detention order[^c-b454e8cf919c20a12dcd9221b0a237b1]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b454e8cf919c20a12dcd9221b0a237b1]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2008/5/section/45) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-b454e8cf919c20a12dcd9221b0a237b1]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2008/5/section/45) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

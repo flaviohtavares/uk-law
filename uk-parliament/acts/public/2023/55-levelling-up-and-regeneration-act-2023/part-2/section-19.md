@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Other public authority functions[^key-03eeb240d4827414578ceaacfb27eae1]
+## 19. Other public authority functions[^c-03eeb240d4827414578ceaacfb27eae1]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ the regulations may make express provision to that effect.
 
 ## Annotations
 
-[^key-03eeb240d4827414578ceaacfb27eae1]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2023/55/section/19) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-03eeb240d4827414578ceaacfb27eae1]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2023/55/section/19) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

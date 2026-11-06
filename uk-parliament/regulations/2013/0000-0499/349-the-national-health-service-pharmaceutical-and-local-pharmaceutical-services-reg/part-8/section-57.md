@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where a dispensing doctor (D) has outline consent but NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] considers that the provision of pharmaceutical services by any NHS pharmacist, or of LP services by any LPS chemist, is likely to be adversely affected if D provides pharmaceutical services at or[^key-0fb158bce5f4af91b7da3fa8e83f7bcf] from medical practice premises which have been subject to a related application for premises approval (whether under regulation 51, 54 or 55), NHS England may by conditions—
+(1) Where a dispensing doctor (D) has outline consent but NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] considers that the provision of pharmaceutical services by any NHS pharmacist, or of LP services by any LPS chemist, is likely to be adversely affected if D provides pharmaceutical services at or[^c-0fb158bce5f4af91b7da3fa8e83f7bcf] from medical practice premises which have been subject to a related application for premises approval (whether under regulation 51, 54 or 55), NHS England may by conditions—
 
 - (a) postpone the taking effect of the related premises approval for such period as it thinks fit; or
-- (b) limit the patients to whom D (or any successor to D) is able to provide pharmaceutical services at or[^key-c1b6e2d6c287cfe5c567f732d2a7e7c3] from the medical practice premises in such manner, and for such periods, as it thinks fit.
+- (b) limit the patients to whom D (or any successor to D) is able to provide pharmaceutical services at or[^c-c1b6e2d6c287cfe5c567f732d2a7e7c3] from the medical practice premises in such manner, and for such periods, as it thinks fit.
 
 (2) NHS England must decide whether or not to impose conditions under paragraph (1)—
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-0fb158bce5f4af91b7da3fa8e83f7bcf]: Textual amendment: Words in [reg. 57(1)](https://www.legislation.gov.uk/uksi/2013/349/regulation/57/1) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [37(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/37/a)
+[^c-0fb158bce5f4af91b7da3fa8e83f7bcf]: Textual amendment: Words in [reg. 57(1)](https://www.legislation.gov.uk/uksi/2013/349/regulation/57/1) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [37(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/37/a)
 
-[^key-c1b6e2d6c287cfe5c567f732d2a7e7c3]: Textual amendment: Words in [reg. 57(1)(b)](https://www.legislation.gov.uk/uksi/2013/349/regulation/57/1/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [37(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/37/b)
+[^c-c1b6e2d6c287cfe5c567f732d2a7e7c3]: Textual amendment: Words in [reg. 57(1)(b)](https://www.legislation.gov.uk/uksi/2013/349/regulation/57/1/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [37(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/37/b)

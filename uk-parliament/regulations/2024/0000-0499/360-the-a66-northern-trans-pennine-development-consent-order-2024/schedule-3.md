@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-64dbad810716c016b743261b9f1c53b3]
+## SCHEDULE 3 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-64dbad810716c016b743261b9f1c53b3]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ Article 17
 
 ## Annotations
 
-[^key-64dbad810716c016b743261b9f1c53b3]: Commencement: Sch. 3 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-64dbad810716c016b743261b9f1c53b3]: Commencement: Sch. 3 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Procedure regarding certain approvals, etc.[^key-3220d771c81c79b75d6056cfadb2399a]
+## 50. Procedure regarding certain approvals, etc.[^c-3220d771c81c79b75d6056cfadb2399a]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3220d771c81c79b75d6056cfadb2399a]: Commencement: Art. 50 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-3220d771c81c79b75d6056cfadb2399a]: Commencement: Art. 50 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

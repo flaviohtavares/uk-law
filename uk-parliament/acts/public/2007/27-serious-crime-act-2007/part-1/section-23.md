@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Additional right of appeal from High Court[^key-62c0a8be9aaa8813b1ac8e523445c5c2]
+## 23. Additional right of appeal from High Court[^c-62c0a8be9aaa8813b1ac8e523445c5c2]
 
 *Extent: E+W+N.I.*
 
@@ -32,4 +32,4 @@ by any person who was given an opportunity to make representations in the procee
 
 ## Annotations
 
-[^key-62c0a8be9aaa8813b1ac8e523445c5c2]: Commencement: S. 23 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)
+[^c-62c0a8be9aaa8813b1ac8e523445c5c2]: Commencement: S. 23 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(d)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/d)

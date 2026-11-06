@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Duty to ensure safe and secure carriage[^key-0df466c4970a4f8a90935a53bfdbd650]
+## 22. Duty to ensure safe and secure carriage[^c-0df466c4970a4f8a90935a53bfdbd650]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0df466c4970a4f8a90935a53bfdbd650]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/1997/474/regulation/22) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-0df466c4970a4f8a90935a53bfdbd650]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/1997/474/regulation/22) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236I. Trading requirement[^key-f82cf439a48bf0086f6df9434e3f2a8f][^key-00dfd986f9c886b2c7aa3a3397e220ad][^key-adf4217a0bbd96a8c8c712d14f1b893e][^key-c771c31b6b7649eadb31cf1a0b2c4cfb][^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809]
+## 236I. Trading requirement[^c-f82cf439a48bf0086f6df9434e3f2a8f][^c-00dfd986f9c886b2c7aa3a3397e220ad][^c-adf4217a0bbd96a8c8c712d14f1b893e][^c-c771c31b6b7649eadb31cf1a0b2c4cfb][^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,12 +44,12 @@ summary: ''
 
 ## Annotations
 
-[^key-f82cf439a48bf0086f6df9434e3f2a8f]: Modification: S. 236I applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 75A(3) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 14(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/2))
+[^c-f82cf439a48bf0086f6df9434e3f2a8f]: Modification: S. 236I applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 75A(3) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 14(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/2))
 
-[^key-00dfd986f9c886b2c7aa3a3397e220ad]: Modification: S. 236I applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 86(3A)(a) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 15(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/4))
+[^c-00dfd986f9c886b2c7aa3a3397e220ad]: Modification: S. 236I applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 86(3A)(a) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 15(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/4))
 
-[^key-adf4217a0bbd96a8c8c712d14f1b893e]: Modification: S. 236I applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 13A(2) (as inserted (with effect in accordance with Sch. 37 para. 10(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 10(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/10/1))
+[^c-adf4217a0bbd96a8c8c712d14f1b893e]: Modification: S. 236I applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 13A(2) (as inserted (with effect in accordance with Sch. 37 para. 10(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 10(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/10/1))
 
-[^key-c771c31b6b7649eadb31cf1a0b2c4cfb]: Modification: S. 236I applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 28A(2) (as inserted (with effect in accordance with Sch. 37 para. 11(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 11(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/11/1))
+[^c-c771c31b6b7649eadb31cf1a0b2c4cfb]: Modification: S. 236I applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 28A(2) (as inserted (with effect in accordance with Sch. 37 para. 11(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 11(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/11/1))
 
 [^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809]: Textual amendment: Ss. 236H-236U and cross-heading inserted (with effect in accordance with [Sch. 37 para. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/1) (with [Sch. 37 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/4))

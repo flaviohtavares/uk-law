@@ -28,9 +28,9 @@ summary: ''
   - (i) sections 33 to 35, so far as relating to Wales,
   - (ii) section 36 and Schedule 3, so far as relating to Wales,
   - (iii) sections 38 and 39, so far as relating to Wales,
-  - (iv)[^key-bc91a42fd6516a9d44dc76b206d1f6c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (v)[^key-1a8c1c9ff833e18c13074bcd103b3769] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (vi)[^key-6adb0d0c6f890147109e3521a2efc2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-bc91a42fd6516a9d44dc76b206d1f6c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v)[^c-1a8c1c9ff833e18c13074bcd103b3769] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vi)[^c-6adb0d0c6f890147109e3521a2efc2b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the Scottish Ministers, for provision in connection with—
   - (i) sections 33 to 35, so far as relating to Scotland,
   - (ii) sections 38 and 39, so far as relating to Scotland,
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bc91a42fd6516a9d44dc76b206d1f6c9]: Textual amendment: S. 54(2)(a)(iv) omitted (17.10.2023) by virtue of [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/6); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)
+[^c-bc91a42fd6516a9d44dc76b206d1f6c9]: Textual amendment: S. 54(2)(a)(iv) omitted (17.10.2023) by virtue of [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/6); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)
 
-[^key-1a8c1c9ff833e18c13074bcd103b3769]: Textual amendment: S. 54(2)(a)(v) omitted (17.10.2023) by virtue of [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/6); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)
+[^c-1a8c1c9ff833e18c13074bcd103b3769]: Textual amendment: S. 54(2)(a)(v) omitted (17.10.2023) by virtue of [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/6); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)
 
-[^key-6adb0d0c6f890147109e3521a2efc2b8]: Textual amendment: S. 54(2)(a)(vi) omitted (17.10.2023) by virtue of [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/6); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)
+[^c-6adb0d0c6f890147109e3521a2efc2b8]: Textual amendment: S. 54(2)(a)(vi) omitted (17.10.2023) by virtue of [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4), [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/1/6); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(g)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/g)

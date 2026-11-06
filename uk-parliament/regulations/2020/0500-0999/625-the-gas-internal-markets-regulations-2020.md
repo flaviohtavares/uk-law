@@ -46,7 +46,7 @@ The Secretary of State is designated [^c24163871] for the purposes of section 2(
 
 The Secretary of State, in exercise of the powers conferred by section 2(2) of that Act, makes the following Regulations.
 
-## 1. Citation, commencement, extent and interpretation[^key-c9234ee85f28c00c7bc4cc00bd8226d6]
+## 1. Citation, commencement, extent and interpretation[^c-c9234ee85f28c00c7bc4cc00bd8226d6]
 
 (1) These Regulations may be cited as the Gas (Internal Markets) Regulations 2020.
 
@@ -56,27 +56,27 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
 
 (4) In these Regulations “**the 1986 Act**” means the Gas Act 1986 [^c24163901].
 
-## 2. Amendment to section 4D of the 1986 Act[^key-c7984a85347e28cd96453434e173e0e3]
+## 2. Amendment to section 4D of the 1986 Act[^c-c7984a85347e28cd96453434e173e0e3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Duty to notify etc. the European Commission: agreements with third countries[^key-c7984a85347e28cd96453434e173e0e3]
+## 3. Duty to notify etc. the European Commission: agreements with third countries[^c-c7984a85347e28cd96453434e173e0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to section 19A of the 1986 Act[^key-c7984a85347e28cd96453434e173e0e3]
+## 4. Amendment to section 19A of the 1986 Act[^c-c7984a85347e28cd96453434e173e0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to section 19C of the 1986 Act[^key-c7984a85347e28cd96453434e173e0e3]
+## 5. Amendment to section 19C of the 1986 Act[^c-c7984a85347e28cd96453434e173e0e3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of section 48 of the 1986 Act[^key-a066f17a12f50c73a03c184948d76a5e]
+## 6. Amendment of section 48 of the 1986 Act[^c-a066f17a12f50c73a03c184948d76a5e]
 
 In Section 48(1) of the 1986 Act [^c24163941] (interpretation of Part 1 and savings)—
 
@@ -91,7 +91,7 @@ In Section 48(1) of the 1986 Act [^c24163941] (interpretation of Part 1 and sav
 
   .
 
-## 7. Amendment of section 106 of the Utilities Act 2000[^key-c4afcce0e3d9f14bd7eb7636db85ba18]
+## 7. Amendment of section 106 of the Utilities Act 2000[^c-c4afcce0e3d9f14bd7eb7636db85ba18]
 
 In Section 106(1) of the Utilities Act 2000 [^c24163971] (interpretation)—
 
@@ -106,7 +106,7 @@ In Section 106(1) of the Utilities Act 2000 [^c24163971] (interpretation)—
 
   .
 
-## 8. Amendment of section 19A of the Consumers, Estate Agents and Redress Act 2007[^key-5052db7a03e9a8e253b770f1d572e24a]
+## 8. Amendment of section 19A of the Consumers, Estate Agents and Redress Act 2007[^c-5052db7a03e9a8e253b770f1d572e24a]
 
 In Section 19A(9) of the Consumers, Estate Agents and Redress Act 2007 [^c24163981] (guidance for energy consumers)—
 
@@ -121,7 +121,7 @@ In Section 19A(9) of the Consumers, Estate Agents and Redress Act 2007 [^c241639
 
   .
 
-## 9. Modifications of standard conditions of gas interconnector licences[^key-c379700640eec86d92620f6b2357edcd]
+## 9. Modifications of standard conditions of gas interconnector licences[^c-c379700640eec86d92620f6b2357edcd]
 
 (1) The standard conditions of a gas interconnector licence are amended as follows.
 
@@ -140,7 +140,7 @@ In Section 19A(9) of the Consumers, Estate Agents and Redress Act 2007 [^c241639
 
 (3) In this regulation “**gas interconnector licence**” means a licence granted under section 7ZA of the 1986 Act (licences for operation of gas interconnectors) [^c24163991].
 
-## 10. Revocation etc.[^key-2dfc3183f131e233dc20c851b8f6334c]
+## 10. Revocation etc.[^c-2dfc3183f131e233dc20c851b8f6334c]
 
 (1) The 1986 Act is amended in accordance with paragraphs (2) to (6).
 
@@ -174,7 +174,7 @@ In Section 19A(9) of the Consumers, Estate Agents and Redress Act 2007 [^c241639
 
 (7) Accordingly, regulations 2 to 5 are revoked.
 
-## 11.[^key-de5eae3eb84acbca8c986737d1f642da]
+## 11.[^c-de5eae3eb84acbca8c986737d1f642da]
 
 (1) The standard conditions of a gas interconnector licence are amended in accordance with paragraph (2).
 
@@ -229,15 +229,15 @@ Transposition notes setting out how the main elements of the 2019 Amending Direc
 
 [^c24163881]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The European Communities Act 1972 was repealed by section 1 of the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) with effect from exit day, but saved with modifications until IP completion day by section 1A of that [Act (as inserted by section 1 of the European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1). Section 2(2) of the European Communities Act 1972 was amended by section 27(1) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006 and amended by Part 1 of the Schedule to the European Union (Amendment) Act 2008 and [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
 
-[^key-c9234ee85f28c00c7bc4cc00bd8226d6]: Commencement: Reg. 1 in force at 14.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2)
+[^c-c9234ee85f28c00c7bc4cc00bd8226d6]: Commencement: Reg. 1 in force at 14.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2)
 
 [^c24163891]: Marginal citation: See section 39(1) of the [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
 
 [^c24163901]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
 
-[^key-c7984a85347e28cd96453434e173e0e3]: Textual amendment: [Regs. 2-5](https://www.legislation.gov.uk/uksi/2020/625/regulation/2) revoked (31.12.2020 immediately before IP completion day) by [The Gas (Internal Markets) Regulations 2020 (S.I. 2020/625)](https://www.legislation.gov.uk/uksi/2020/625), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2), [10(7)](https://www.legislation.gov.uk/uksi/2020/625/regulation/10/7)
+[^c-c7984a85347e28cd96453434e173e0e3]: Textual amendment: [Regs. 2-5](https://www.legislation.gov.uk/uksi/2020/625/regulation/2) revoked (31.12.2020 immediately before IP completion day) by [The Gas (Internal Markets) Regulations 2020 (S.I. 2020/625)](https://www.legislation.gov.uk/uksi/2020/625), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2), [10(7)](https://www.legislation.gov.uk/uksi/2020/625/regulation/10/7)
 
-[^key-a066f17a12f50c73a03c184948d76a5e]: Commencement: Reg. 6 in force at 14.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2)
+[^c-a066f17a12f50c73a03c184948d76a5e]: Commencement: Reg. 6 in force at 14.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2)
 
 [^c24163941]: Marginal citation: [Section 48](https://www.legislation.gov.uk/uksi/2020/625/section/48) of the 1986 Act was amended by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704) and [S.I. 2019/530](https://www.legislation.gov.uk/uksi/2019/530).
 
@@ -245,18 +245,18 @@ Transposition notes setting out how the main elements of the 2019 Amending Direc
 
 [^c24163961]: Marginal citation: OJ No L 117, 03.05.2019, p. 1.
 
-[^key-c4afcce0e3d9f14bd7eb7636db85ba18]: Commencement: Reg. 7 in force at 14.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2)
+[^c-c4afcce0e3d9f14bd7eb7636db85ba18]: Commencement: Reg. 7 in force at 14.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2)
 
 [^c24163971]: Marginal citation: [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-5052db7a03e9a8e253b770f1d572e24a]: Commencement: Reg. 8 in force at 14.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2)
+[^c-5052db7a03e9a8e253b770f1d572e24a]: Commencement: Reg. 8 in force at 14.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2)
 
 [^c24163981]: Marginal citation: [2007 c. 17](https://www.legislation.gov.uk/ukpga/2007/17).
 
-[^key-c379700640eec86d92620f6b2357edcd]: Commencement: Reg. 9 in force at 14.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2)
+[^c-c379700640eec86d92620f6b2357edcd]: Commencement: Reg. 9 in force at 14.7.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2)
 
 [^c24163991]: Marginal citation: [Section 7ZA](https://www.legislation.gov.uk/uksi/2020/625/section/7ZA) was inserted by section 149(1) and (6) of the [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20).
 
-[^key-2dfc3183f131e233dc20c851b8f6334c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/625/regulation/10) in force at 31.12.2020 in force at the instant immediately before the point immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2)
+[^c-2dfc3183f131e233dc20c851b8f6334c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/625/regulation/10) in force at 31.12.2020 in force at the instant immediately before the point immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2)
 
-[^key-de5eae3eb84acbca8c986737d1f642da]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/625/regulation/11) in force at 31.12.2020 in force at the instant immediately before the point immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2)
+[^c-de5eae3eb84acbca8c986737d1f642da]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/625/regulation/11) in force at 31.12.2020 in force at the instant immediately before the point immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/625/regulation/1/2)

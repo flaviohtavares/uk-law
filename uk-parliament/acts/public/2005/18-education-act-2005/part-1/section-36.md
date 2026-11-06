@@ -27,7 +27,7 @@ summary: ''
 (3) In the case of an inspection of a maintained school, the Chief Inspector must give notice of any extension under subsection (2) to—
 
 - (a) the inspector,
-- (b) the local authority[^key-94ed0295e29907765ea29be5dd3e5cb4] in the case of a maintained school, and
+- (b) the local authority[^c-94ed0295e29907765ea29be5dd3e5cb4] in the case of a maintained school, and
 - (c) the governing body.
 
 (4) In the case of an inspection of a school falling within section 28(2)(d), the Chief Inspector must give notice of any extension under subsection (2) to—
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)

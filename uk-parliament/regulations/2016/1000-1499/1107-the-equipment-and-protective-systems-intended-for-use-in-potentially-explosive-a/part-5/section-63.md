@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. Defence of due diligence[^key-6d54b3c93e87d8eeb929d5bb0431270c]
+## 63. Defence of due diligence[^c-6d54b3c93e87d8eeb929d5bb0431270c]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d54b3c93e87d8eeb929d5bb0431270c]: Commencement: Reg. 63 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-6d54b3c93e87d8eeb929d5bb0431270c]: Commencement: Reg. 63 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

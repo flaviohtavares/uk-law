@@ -41,11 +41,11 @@ Coming into operation
 
 4th April 2005
 
-[^key-3cbd65c8ad83f4e01a76f223e04c5a15]The Department of Agriculture and Rural Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the Common Agricultural Policy of the European Community, in exercise of the powers conferred on it by the said section 2(2), and of every other power enabling it in that behalf, hereby makes the following Regulations:
+[^c-3cbd65c8ad83f4e01a76f223e04c5a15]The Department of Agriculture and Rural Development, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the Common Agricultural Policy of the European Community, in exercise of the powers conferred on it by the said section 2(2), and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
 ## Contents
 
-### PART I — INTRODUCTION[^key-3cbd65c8ad83f4e01a76f223e04c5a15]
+### PART I — INTRODUCTION[^c-3cbd65c8ad83f4e01a76f223e04c5a15]
 
 *Extent: N.I.*
 
@@ -55,7 +55,7 @@ Coming into operation
 - [Section 2 — Interpretation](part-i/section-2.md)
 - [Section 3 — Exception](part-i/section-3.md)
 
-### PART II — INTRA-COMMUNITY TRADE[^key-3cbd65c8ad83f4e01a76f223e04c5a15]
+### PART II — INTRA-COMMUNITY TRADE[^c-3cbd65c8ad83f4e01a76f223e04c5a15]
 
 *Extent: N.I.*
 
@@ -72,7 +72,7 @@ Coming into operation
 - [Section 12 — Assembly centres and slaughterhouses](part-ii/section-12.md)
 - [Section 13 — Illegal consignments](part-ii/section-13.md)
 
-### PART III — TRADE IN THIRD COUNTRY ANIMALS[^key-3cbd65c8ad83f4e01a76f223e04c5a15]
+### PART III — TRADE IN THIRD COUNTRY ANIMALS[^c-3cbd65c8ad83f4e01a76f223e04c5a15]
 
 *Extent: N.I.*
 
@@ -161,7 +161,7 @@ Schedules 1, 2, 3 and 4 have been updated in order to implement Community instru
 
 ## Annotations
 
-[^key-3cbd65c8ad83f4e01a76f223e04c5a15]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/78) revoked in part (1.11.2006) by [The Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2006 (S.R. 2006/401)](https://www.legislation.gov.uk/nisr/2006/401), [regs. 1](https://www.legislation.gov.uk/nisr/2006/401/regulation/1), [34](https://www.legislation.gov.uk/nisr/2006/401/regulation/34), [Sch. 9](https://www.legislation.gov.uk/nisr/2006/401/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/nisr/2006/401/regulation/3))
+[^c-3cbd65c8ad83f4e01a76f223e04c5a15]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/78) revoked in part (1.11.2006) by [The Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2006 (S.R. 2006/401)](https://www.legislation.gov.uk/nisr/2006/401), [regs. 1](https://www.legislation.gov.uk/nisr/2006/401/regulation/1), [34](https://www.legislation.gov.uk/nisr/2006/401/regulation/34), [Sch. 9](https://www.legislation.gov.uk/nisr/2006/401/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/nisr/2006/401/regulation/3))
 
 [^f00001]: Footnote: [S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812)
 

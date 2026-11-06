@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21.[^key-79f36557c10328c1637fa462f1f05bb3]
+## 21.[^c-79f36557c10328c1637fa462f1f05bb3]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79f36557c10328c1637fa462f1f05bb3]: Commencement: Art. 21 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-79f36557c10328c1637fa462f1f05bb3]: Commencement: Art. 21 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

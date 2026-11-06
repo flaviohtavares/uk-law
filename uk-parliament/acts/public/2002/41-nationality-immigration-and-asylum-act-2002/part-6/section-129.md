@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Secretary of State may require a local authority to supply information for the purpose of establishing where a person is if the Secretary of State reasonably suspects that—
 
-- (a) the person has committed an offence under section 24(A1), (B1), (C1), (D1), (E1)[^M_F_02c0e470-7fb6-435b-bd76-298d8bd7aed1] , (E1A)[^key-80afccdd137d2a9535a6817ab457cab3] or (1)(b), (c) or (f), 24A(1) or 26(1)(c) or (d) of the Immigration Act 1971 (c. 77) (illegal entry, deception, &c.), and
+- (a) the person has committed an offence under section 24(A1), (B1), (C1), (D1), (E1)[^M_F_02c0e470-7fb6-435b-bd76-298d8bd7aed1] , (E1A)[^c-80afccdd137d2a9535a6817ab457cab3] or (1)(b), (c) or (f), 24A(1) or 26(1)(c) or (d) of the Immigration Act 1971 (c. 77) (illegal entry, deception, &c.), and
 - (b) the person is or has been resident in the local authority’s area.
 
 (2) A local authority shall comply with a requirement under this section.
@@ -47,4 +47,4 @@ summary: ''
 
 [^M_F_02c0e470-7fb6-435b-bd76-298d8bd7aed1]: Textual amendment: Words in s. 129(1)(a) inserted (28.6.2022 for specified purposes) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 40(8)(a)](https://www.legislation.gov.uk/ukpga/2022/36/section/40/8/a), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [reg. 2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/20) (with [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/7))
 
-[^key-80afccdd137d2a9535a6817ab457cab3]: Textual amendment: Word in [s. 129(1)(a)](https://www.legislation.gov.uk/ukpga/2002/41/section/129/1/a) inserted (5.1.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 21(10)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/21/10/a), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/d)
+[^c-80afccdd137d2a9535a6817ab457cab3]: Textual amendment: Word in [s. 129(1)(a)](https://www.legislation.gov.uk/ukpga/2002/41/section/129/1/a) inserted (5.1.2026) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 21(10)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/21/10/a), [65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1); [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/d)

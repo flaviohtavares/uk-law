@@ -45,7 +45,7 @@ Coming into force
 
 The Lords of Council and Session, under and by virtue of the powers conferred by section 32 of the Sheriff Courts (Scotland) Act 1971[^f00001], and of all other powers enabling them in that behalf, having approved draft rules submitted to them by the Sheriff Court Rules Council in accordance with section 34 of the said Act of 1971, do hereby enact and declare:
 
-## 1. Citation, commencement and interpretation[^key-cb08753c399780e4962cf6334933b835]
+## 1. Citation, commencement and interpretation[^c-cb08753c399780e4962cf6334933b835]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Summary Cause Rules Amendment) (Personal Injuries Actions) 2012 and comes into force on 1st September 2012.
 
@@ -53,7 +53,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 (3) In this Act of Sederunt, the “Summary Cause Rules” means the Summary Cause Rules in Schedule 1 to the Act of Sederunt (Summary Cause Rules) 2002[^f00002].
 
-## 2. Amendment of Summary Cause Rules: personal injuries actions[^key-e8906c2810c3c5ad7211a892b0e1db0e]
+## 2. Amendment of Summary Cause Rules: personal injuries actions[^c-e8906c2810c3c5ad7211a892b0e1db0e]
 
 (1) The Summary Cause Rules are amended in accordance with subparagraphs (2) to (5).
 
@@ -405,7 +405,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 (5) After Appendix 1 insert Appendix 1A set out in Schedule 3 to this Act of Sederunt.
 
-## 3. Transitional and saving provision[^key-a5e99bf3355a3c8937cb3dd3d9a201f3]
+## 3. Transitional and saving provision[^c-a5e99bf3355a3c8937cb3dd3d9a201f3]
 
 (1) Paragraph 2 of this Act of Sederunt shall not apply to an action raised before 1st September 2012.
 
@@ -421,7 +421,7 @@ Edinburgh
 
 16th May 2012
 
-## SCHEDULE 1[^key-06d371c39c8d2e9a40313442c3e4c67f]
+## SCHEDULE 1[^c-06d371c39c8d2e9a40313442c3e4c67f]
 
 Paragraph 2(4)(d)
 
@@ -429,15 +429,15 @@ Form 1e
 
 [image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_001)[image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_002)[image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_003)[image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_004)[image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_005)[image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_006)[image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_007)[image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_008)[image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_009)[image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_010)
 
-[^key-ec09e817c9872be6e37a7cbe09f26e9c]Form 1f
+[^c-ec09e817c9872be6e37a7cbe09f26e9c]Form 1f
 
 [image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_011)[image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_012)[image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_013)[image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_014)[image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_015)[image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_016)[image: see source](https://www.legislation.gov.uk/ssi/2012/144/images/ssi_20120144_en_017)
 
-## SCHEDULE 2[^key-4fa07b8b7b3896c7a3f03290acbd5da8]
+## SCHEDULE 2[^c-4fa07b8b7b3896c7a3f03290acbd5da8]
 
 Paragraph 2(4)(e)
 
-## SCHEDULE 3[^key-7794b0e5edb42cbe769a6d7e47d95243]
+## SCHEDULE 3[^c-7794b0e5edb42cbe769a6d7e47d95243]
 
 Paragraph 2(5)
 
@@ -491,11 +491,11 @@ Paragraph 3 contains a transitional and saving provision.
 
 [^f00001]: Footnote: [1971 c.58](https://www.legislation.gov.uk/ukpga/1971/58). Section 32 was amended by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1985 (c.73)](https://www.legislation.gov.uk/ukpga/1985/73), Schedule 2, paragraph 12; the Civil Evidence (Scotland) Act [1988 (c.32)](https://www.legislation.gov.uk/ukpga/1988/32), section 2(4); the Children (Scotland) Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 18(2); the [Adults with Incapacity (Scotland) Act 2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4) (the “2000 asp”), schedule 5, paragraph 13; the [Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)](https://www.legislation.gov.uk/asp/2002/17), section 43; the [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), section 14(2); the Consumer Credit Act [2006 (c.14)](https://www.legislation.gov.uk/ukpga/2006/14), section 16(4); the [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3) (the “2007 asp”) section 33; and the Legal Services (Scotland) Act [2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), section 127(a). Section 32 is amended prospectively by the 2007 asp, schedule 5, paragraph 10; and the Children’s Hearings (Scotland) Act [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), section 185. Section 32 was extended by the Debtors (Scotland) Act [1987 (c.18)](https://www.legislation.gov.uk/ukpga/1987/18), section 97; the Child Support Act [1991 (c.48)](https://www.legislation.gov.uk/ukpga/1991/48), sections 39(2) and 49; and section 2(4) of the 2000 asp.
 
-[^key-cb08753c399780e4962cf6334933b835]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2012/144/paragraph/1) in force at 1.9.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/144/paragraph/1/1)
+[^c-cb08753c399780e4962cf6334933b835]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2012/144/paragraph/1) in force at 1.9.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/144/paragraph/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2002/132](https://www.legislation.gov.uk/ssi/2002/132), amended by [S.S.I. 2002/516](https://www.legislation.gov.uk/ssi/2002/516); [2003/26](https://www.legislation.gov.uk/ssi/2003/26) and [601](https://www.legislation.gov.uk/ssi/2003/601); [2004/197](https://www.legislation.gov.uk/ssi/2004/197); [2005/648](https://www.legislation.gov.uk/ssi/2005/648); [2006/509](https://www.legislation.gov.uk/ssi/2006/509); [2007/6](https://www.legislation.gov.uk/ssi/2007/6), [339](https://www.legislation.gov.uk/ssi/2007/339), [440](https://www.legislation.gov.uk/ssi/2007/440) and [463](https://www.legislation.gov.uk/ssi/2007/463); [2008/121](https://www.legislation.gov.uk/ssi/2008/121), [223](https://www.legislation.gov.uk/ssi/2008/223) and [365](https://www.legislation.gov.uk/ssi/2008/365); [2009/107](https://www.legislation.gov.uk/ssi/2009/107), [164](https://www.legislation.gov.uk/ssi/2009/164), [294](https://www.legislation.gov.uk/ssi/2009/294) and [402](https://www.legislation.gov.uk/ssi/2009/402); [2010/279](https://www.legislation.gov.uk/ssi/2010/279), [340](https://www.legislation.gov.uk/ssi/2010/340) and [416](https://www.legislation.gov.uk/ssi/2010/416); and [2011/193](https://www.legislation.gov.uk/ssi/2011/193) and [289](https://www.legislation.gov.uk/ssi/2011/289).
 
-[^key-e8906c2810c3c5ad7211a892b0e1db0e]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2012/144/paragraph/2) in force at 1.9.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/144/paragraph/1/1)
+[^c-e8906c2810c3c5ad7211a892b0e1db0e]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2012/144/paragraph/2) in force at 1.9.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/144/paragraph/1/1)
 
 [^f00003]: Footnote: [1982 c.53](https://www.legislation.gov.uk/ukpga/1982/53).
 
@@ -509,14 +509,14 @@ Paragraph 3 contains a transitional and saving provision.
 
 [^f00008]: Footnote: [2011 asp 7](https://www.legislation.gov.uk/asp/2011/7).
 
-[^key-a5e99bf3355a3c8937cb3dd3d9a201f3]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2012/144/paragraph/3) in force at 1.9.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/144/paragraph/1/1)
+[^c-a5e99bf3355a3c8937cb3dd3d9a201f3]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2012/144/paragraph/3) in force at 1.9.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/144/paragraph/1/1)
 
 [^f00009]: Footnote: [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268).
 
-[^key-06d371c39c8d2e9a40313442c3e4c67f]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2012/144/schedule/1) in force at 1.9.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/144/paragraph/1/1)
+[^c-06d371c39c8d2e9a40313442c3e4c67f]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2012/144/schedule/1) in force at 1.9.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/144/paragraph/1/1)
 
-[^key-ec09e817c9872be6e37a7cbe09f26e9c]: Textual amendment: sch. 1 Form 1f: the words “DEFENDER’S COPY: Claim for payment of money in a personal injuries action (where time to pay direction may not be applied for)” are substituted for the sub-heading (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [14(2)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/14/2)
+[^c-ec09e817c9872be6e37a7cbe09f26e9c]: Textual amendment: sch. 1 Form 1f: the words “DEFENDER’S COPY: Claim for payment of money in a personal injuries action (where time to pay direction may not be applied for)” are substituted for the sub-heading (1.8.2012) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) 2012 (S.S.I. 2012/188)](https://www.legislation.gov.uk/ssi/2012/188), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/1/1), [14(2)](https://www.legislation.gov.uk/ssi/2012/188/paragraph/14/2)
 
-[^key-4fa07b8b7b3896c7a3f03290acbd5da8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2012/144/schedule/2) in force at 1.9.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/144/paragraph/1/1)
+[^c-4fa07b8b7b3896c7a3f03290acbd5da8]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2012/144/schedule/2) in force at 1.9.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/144/paragraph/1/1)
 
-[^key-7794b0e5edb42cbe769a6d7e47d95243]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2012/144/schedule/3) in force at 1.9.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/144/paragraph/1/1)
+[^c-7794b0e5edb42cbe769a6d7e47d95243]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2012/144/schedule/3) in force at 1.9.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/144/paragraph/1/1)

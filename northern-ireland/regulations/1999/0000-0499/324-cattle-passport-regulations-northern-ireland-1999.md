@@ -46,11 +46,11 @@ The Department of Agriculture, being a Department designated[^f00001] for the pu
 
 ## PART I — Introduction
 
-### 1. Citation and commencement[^key-1645807a604a7c1b0f47ec5df678e383]
+### 1. Citation and commencement[^c-1645807a604a7c1b0f47ec5df678e383]
 
 These Regulations may be cited as the Cattle Passport Regulations (Northern Ireland) 1999 and shall come into operation on 3rd September 1999.
 
-### 2. Interpretation and application[^key-fd086629ac0b24fb2b9516fee46eb70d]
+### 2. Interpretation and application[^c-fd086629ac0b24fb2b9516fee46eb70d]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
@@ -71,7 +71,7 @@ These Regulations may be cited as the Cattle Passport Regulations (Northern Irel
 
 ## PART II — Cattle Passports
 
-### 3. Application for a passport for cattle intended for export[^key-33b4cff2ae33bbf04e5cf348b0c7babc]
+### 3. Application for a passport for cattle intended for export[^c-33b4cff2ae33bbf04e5cf348b0c7babc]
 
 (1) Any keeper of animals may apply for a cattle passport for any animal which he intends to consign out of Northern Ireland to another part of the European Community.
 
@@ -79,20 +79,20 @@ These Regulations may be cited as the Cattle Passport Regulations (Northern Irel
 
 (3) Any person who moves an animal from a holding for consignment out of Northern Ireland to another part of the European Community, before the keeper of that animal applies for a cattle passport for that animal, shall be guilty of an offence.
 
-### 4. Production on demand[^key-9ebd4a30286e868c90a28ef217b6d250]
+### 4. Production on demand[^c-9ebd4a30286e868c90a28ef217b6d250]
 
 (1) Any cattle passport issued by the Department shall remain the property of the Department and shall be produced or surrendered to an officer of the Department, a Minister of the Crown or a competent authority of a member State on demand.
 
 (2) Any person who fails to produce or surrender a cattle passport as required by paragraph (1) shall be guilty of an offence.
 
-### 5. Consignment of animals out of Northern Ireland[^key-d74c8693074ab6d32fa1b02070f72b9e]
+### 5. Consignment of animals out of Northern Ireland[^c-d74c8693074ab6d32fa1b02070f72b9e]
 
 In accordance with Article 6.3 of the Council Regulation any person who consigns any animal out of Northern Ireland to another part of the European Community commits an offence unless the animal is accompanied by a cattle passport which—
 
 - (a) has been issued under Article 6 of the Council Regulation, and
 - (b) is signed in the appropriate place in accordance with Article 6.1 of Commission Regulation [(EC) No. 2629/97](https://www.legislation.gov.uk/european/regulation/1997/2629) and contains the information about the animal specified in that Article.
 
-### 6. Completion of cattle passports when cattle are to be consigned out of Northern Ireland[^key-1d8cb831dab81c9781d889292010adb7]
+### 6. Completion of cattle passports when cattle are to be consigned out of Northern Ireland[^c-1d8cb831dab81c9781d889292010adb7]
 
 (1) When an animal is moved off a holding for consignment out of Northern Ireland to another part of the European Community, the keeper shall give the cattle passport relating to that animal, duly completed, in accordance with paragraph (2), to the transporter and the transporter shall, subject to paragraph (3), ensure that each animal is accompanied throughout its journey by that cattle passport.
 
@@ -102,11 +102,11 @@ In accordance with Article 6.3 of the Council Regulation any person who consigns
 
 (4) It shall be a defence for any person charged under paragraph (3) who is not the owner of the animal to which the charge relates to prove that he had no reason to believe that the animal was intended to be consigned out of Northern Ireland or that the cattle passport which accompanied it was not genuine or did not relate to the animal being moved, as the case may be.
 
-### 7. Movement of cattle through Northern Ireland[^key-ebdb5fa8a9fe138120236ae66c840c03]
+### 7. Movement of cattle through Northern Ireland[^c-ebdb5fa8a9fe138120236ae66c840c03]
 
 In accordance with Article 6.2 of the Council Regulation, where cattle are transported through Northern Ireland from a place in a member State, Great Britain, the Isle of Man or any of the Channel Islands to another such place, the transporter shall ensure that each animal is accompanied by the cattle passport which relates to it, and any person who fails to do so shall be guilty of an offence.
 
-### 8. Cattle from other member States, Great Britain, the Isle of Man and the Channel Islands[^key-4d18269224d59ca946f6a21c58e91e03]
+### 8. Cattle from other member States, Great Britain, the Isle of Man and the Channel Islands[^c-4d18269224d59ca946f6a21c58e91e03]
 
 (1) If an animal is brought to a holding of destination in Northern Ireland from a member State, Great Britain, the Isle of Man or any of the Channel Islands the keeper shall, subject to paragraph (2), within 7 days of its arrival at that holding, and in any event before the animal leaves that holding, surrender the cattle passport accompanying the animal to the Department.
 
@@ -119,7 +119,7 @@ but in such a case the keeper shall give any cattle passport accompanying the an
 
 (3) Any person who fails to surrender a cattle passport as required by paragraph (1) or (2) shall be guilty of an offence.
 
-### 9. Lost cattle passports[^key-1d52426ca6b97b6e5d5904da2f0a3cc8]
+### 9. Lost cattle passports[^c-1d52426ca6b97b6e5d5904da2f0a3cc8]
 
 (1) If a cattle passport issued by the Department (“ the original cattle passport”) is lost, stolen or destroyed, the keeper of the animal to which it relates shall immediately notify the Department of the fact.
 
@@ -133,7 +133,7 @@ but in such a case the keeper shall give any cattle passport accompanying the an
 
 (6) Any person who fails to comply with any requirement imposed on him by paragraph (1) or (3) shall be guilty of an offence.
 
-### 10. Animal deaths or lost or stolen animals[^key-e439d2425d6ce02e16088ec382074e11]
+### 10. Animal deaths or lost or stolen animals[^c-e439d2425d6ce02e16088ec382074e11]
 
 (1) If an animal to which a cattle passport relates dies (other than in the circumstances set out in paragraph (3)) the keeper shall send the cattle passport to the Department within 7 days in accordance with Article 6.4 of the Council Regulation.
 
@@ -143,13 +143,13 @@ but in such a case the keeper shall give any cattle passport accompanying the an
 
 (4) Any person who fails to comply with any requirement of this regulation shall be guilty of an offence.
 
-### 11. Alterations[^key-a5668ac4f7b6140baeaa1e19f6c00e3b]
+### 11. Alterations[^c-a5668ac4f7b6140baeaa1e19f6c00e3b]
 
 A person shall not alter or deface any information entered, either by the Department, an earlier competent authority or by an earlier keeper of the animal, on to a cattle passport before it came into his possession and any person who contravenes this regulation shall be guilty of an offence.
 
 ## PART III — General
 
-### 12. Amendment of Cattle Identification (No. 2) Regulations (Northern Ireland) 1998[^key-c3db9f1bee33eea7b432ff934b404020]
+### 12. Amendment of Cattle Identification (No. 2) Regulations (Northern Ireland) 1998[^c-c3db9f1bee33eea7b432ff934b404020]
 
 The Cattle Identification (No. 2) Regulations (Northern Ireland) 1998[^f00007] shall be amended as follows:—
 
@@ -158,7 +158,7 @@ The Cattle Identification (No. 2) Regulations (Northern Ireland) 1998[^f00007] s
 - (c) in regulation 16(1)(b) after the words “execution of these Regulations” and “his functions under these Regulations” there shall be inserted in each case the words “or the Cattle Passport Regulations (Northern Ireland) 1999”; and
 - (d) in regulation 16(1)(c) after the words “execution of these Regulations” there shall be inserted the words “or the Cattle Passport Regulations (Northern Ireland) 1999”.
 
-### 13. Penalties[^key-a54d5089f60591fbe56180758d57a4fc]
+### 13. Penalties[^c-a54d5089f60591fbe56180758d57a4fc]
 
 A person guilty of any offence under these Regulations shall be liable—
 
@@ -193,9 +193,9 @@ Part III amends the Cattle Identification (No. 2) Regulations (Northern Ireland)
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-1645807a604a7c1b0f47ec5df678e383]: Commencement: Reg. 1 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
+[^c-1645807a604a7c1b0f47ec5df678e383]: Commencement: Reg. 1 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
 
-[^key-fd086629ac0b24fb2b9516fee46eb70d]: Commencement: Reg. 2 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
+[^c-fd086629ac0b24fb2b9516fee46eb70d]: Commencement: Reg. 2 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -205,26 +205,26 @@ Part III amends the Cattle Identification (No. 2) Regulations (Northern Ireland)
 
 [^f00006]: Footnote: [S.R. 1997 No. 493](https://www.legislation.gov.uk/nisr/1997/493)
 
-[^key-33b4cff2ae33bbf04e5cf348b0c7babc]: Commencement: Reg. 3 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
+[^c-33b4cff2ae33bbf04e5cf348b0c7babc]: Commencement: Reg. 3 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
 
-[^key-9ebd4a30286e868c90a28ef217b6d250]: Commencement: Reg. 4 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
+[^c-9ebd4a30286e868c90a28ef217b6d250]: Commencement: Reg. 4 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
 
-[^key-d74c8693074ab6d32fa1b02070f72b9e]: Commencement: Reg. 5 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
+[^c-d74c8693074ab6d32fa1b02070f72b9e]: Commencement: Reg. 5 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
 
-[^key-1d8cb831dab81c9781d889292010adb7]: Commencement: Reg. 6 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
+[^c-1d8cb831dab81c9781d889292010adb7]: Commencement: Reg. 6 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
 
-[^key-ebdb5fa8a9fe138120236ae66c840c03]: Commencement: Reg. 7 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
+[^c-ebdb5fa8a9fe138120236ae66c840c03]: Commencement: Reg. 7 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
 
-[^key-4d18269224d59ca946f6a21c58e91e03]: Commencement: Reg. 8 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
+[^c-4d18269224d59ca946f6a21c58e91e03]: Commencement: Reg. 8 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
 
-[^key-1d52426ca6b97b6e5d5904da2f0a3cc8]: Commencement: Reg. 9 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
+[^c-1d52426ca6b97b6e5d5904da2f0a3cc8]: Commencement: Reg. 9 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
 
-[^key-e439d2425d6ce02e16088ec382074e11]: Commencement: Reg. 10 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
+[^c-e439d2425d6ce02e16088ec382074e11]: Commencement: Reg. 10 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
 
-[^key-a5668ac4f7b6140baeaa1e19f6c00e3b]: Commencement: Reg. 11 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
+[^c-a5668ac4f7b6140baeaa1e19f6c00e3b]: Commencement: Reg. 11 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
 
-[^key-c3db9f1bee33eea7b432ff934b404020]: Commencement: Reg. 12 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
+[^c-c3db9f1bee33eea7b432ff934b404020]: Commencement: Reg. 12 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1998 No. 279](https://www.legislation.gov.uk/nisr/1998/279)
 
-[^key-a54d5089f60591fbe56180758d57a4fc]: Commencement: Reg. 13 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)
+[^c-a54d5089f60591fbe56180758d57a4fc]: Commencement: Reg. 13 in operation at 3.9.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/324/regulation/1)

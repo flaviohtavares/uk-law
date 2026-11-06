@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Rear under-run protection[^key-194009b5fa231dca82d0e7d45663d47a]
+## 49. Rear under-run protection[^c-194009b5fa231dca82d0e7d45663d47a]
 
 *Extent: E+W+S*
 
@@ -55,7 +55,7 @@ summary: ''
 
 - (a) where more than one device is fitted, not more than 50 cm shall lie between one device and the device next to it;
 - (b) not more than 30 cm shall lie between the outermost end of a device nearest to the outermost part of the vehicle to which it is fitted and a longitudinal plane passing through the outer end of the rear axle of the vehicle on the same side of the vehicle or, in a case where the vehicle is fitted with more than one rear axle, through the outer end of the widest rear axle on the same side of the vehicle, and paragraph II.5.4.2 in the Annex to Community Directive 79/490 shall not have effect in a case where this requirement is met; and
-- (c) the device or, where more than one device is fitted, all the devices together, shall have the characteristics specified in paragraphs II.5.4.1[^key-5122c3c47dbee7ecefa53a8ba44738a5] to II.5.4.5.5.2 in the Annex to the said Directive save—
+- (c) the device or, where more than one device is fitted, all the devices together, shall have the characteristics specified in paragraphs II.5.4.1[^c-5122c3c47dbee7ecefa53a8ba44738a5] to II.5.4.5.5.2 in the Annex to the said Directive save—
   - (i) as provided in sub-paragraphs *(a)* and *(b)* above;
   - (ii) that for the reference in paragraph II.5.4.5.1 in that Annex to 30 cm there is substituted a reference to 35 cm; and
   - (iii) that the distance of 40 cm specified in paragraph II.5.4.5 in that Annex may be measured exclusive of the said tail-lift, bodywork or other part.
@@ -65,7 +65,7 @@ summary: ''
 - (a) a vehicle which is fitted with a demountable body, the characteristics specified in paragraph II.5.4.2 in the Annex to the said Directive have effect as if the reference to 10 cm were a reference to 30 cm and as if in paragraph II.5.4.5.1 the reference to 30 cm were a reference to 35 cm; and
 - (b) a trailer with a single axle or two close-coupled axles, the height of 55 cm referred to in paragraph II.5.4.5.1 in that Annex is measured when the coupling of the trailer to the vehicle by which it is drawn is at the height recommended by the manufacturer of the trailer.
 
-(6) Instead of complying with paragraphs (3) to (5) a vehicle may comply with Community Directive 97/19[^key-fbb19ab699f4c30881d8514a60b278a7].
+(6) Instead of complying with paragraphs (3) to (5) a vehicle may comply with Community Directive 97/19[^c-fbb19ab699f4c30881d8514a60b278a7].
 
 (7) In this regulation—
 
@@ -73,8 +73,8 @@ summary: ''
 
 ## Annotations
 
-[^key-194009b5fa231dca82d0e7d45663d47a]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1986/1078/regulation/49) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-194009b5fa231dca82d0e7d45663d47a]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1986/1078/regulation/49) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-5122c3c47dbee7ecefa53a8ba44738a5]: Textual amendment: Word in [reg. 49(4)(c)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/49/4/c) substituted (6.5.1987) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1987 (S.I. 1987/676)](https://www.legislation.gov.uk/uksi/1987/676), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/1987/676/regulation/15/3)
+[^c-5122c3c47dbee7ecefa53a8ba44738a5]: Textual amendment: Word in [reg. 49(4)(c)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/49/4/c) substituted (6.5.1987) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1987 (S.I. 1987/676)](https://www.legislation.gov.uk/uksi/1987/676), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/1987/676/regulation/15/3)
 
-[^key-fbb19ab699f4c30881d8514a60b278a7]: Textual amendment: Words in [reg. 49(6)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/49/6) substituted (1.6.1998) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1998 (S.I. 1998/1188)](https://www.legislation.gov.uk/uksi/1998/1188), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1188/regulation/1), [12](https://www.legislation.gov.uk/uksi/1998/1188/regulation/12)
+[^c-fbb19ab699f4c30881d8514a60b278a7]: Textual amendment: Words in [reg. 49(6)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/49/6) substituted (1.6.1998) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1998 (S.I. 1998/1188)](https://www.legislation.gov.uk/uksi/1998/1188), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1188/regulation/1), [12](https://www.legislation.gov.uk/uksi/1998/1188/regulation/12)

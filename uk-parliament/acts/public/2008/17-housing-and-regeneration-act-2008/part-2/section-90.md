@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Delegation[^key-583238c7265306b8ba1e2ade654f866f]
+## 90. Delegation[^c-583238c7265306b8ba1e2ade654f866f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-583238c7265306b8ba1e2ade654f866f]: Textual amendment: S. 90 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 23](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/23), [Sch. 25 Pt. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/26); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)(j)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i/j) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-583238c7265306b8ba1e2ade654f866f]: Textual amendment: S. 90 repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 16 para. 23](https://www.legislation.gov.uk/ukpga/2011/20/schedule/16/paragraph/23), [Sch. 25 Pt. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/26); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(i)(j)](https://www.legislation.gov.uk/uksi/2012/628/article/6/i/j) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

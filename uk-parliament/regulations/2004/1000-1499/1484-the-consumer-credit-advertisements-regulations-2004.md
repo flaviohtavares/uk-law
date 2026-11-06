@@ -29,7 +29,7 @@ summary: ''
 
 CONSUMER CREDIT
 
-[^key-a1eacb8db5ab98e54d47d10709f75270]The Consumer Credit (Advertisements) Regulations 2004 (revoked)
+[^c-a1eacb8db5ab98e54d47d10709f75270]The Consumer Credit (Advertisements) Regulations 2004 (revoked)
 
 Made
 
@@ -43,150 +43,150 @@ Coming into force
 
 31st October 2004
 
-[^key-a1eacb8db5ab98e54d47d10709f75270]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1eacb8db5ab98e54d47d10709f75270]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-a1eacb8db5ab98e54d47d10709f75270]
+## 1. Citation, commencement and interpretation[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1A. Application[^key-a1eacb8db5ab98e54d47d10709f75270]
+## 1A. Application[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Duty to comply[^key-a1eacb8db5ab98e54d47d10709f75270]
+## 2. Duty to comply[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. General requirements[^key-a1eacb8db5ab98e54d47d10709f75270]
+## 3. General requirements[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Content of advertisements[^key-a1eacb8db5ab98e54d47d10709f75270]
+## 4. Content of advertisements[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Credit advertisements in dealers' publications covering a calendar or seasonal period[^key-a1eacb8db5ab98e54d47d10709f75270]
+## 5. Credit advertisements in dealers' publications covering a calendar or seasonal period[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Advertisements in dealers' publications relating to credit under a debtor-creditor-supplier agreement[^key-a1eacb8db5ab98e54d47d10709f75270]
+## 6. Advertisements in dealers' publications relating to credit under a debtor-creditor-supplier agreement[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Security[^key-a1eacb8db5ab98e54d47d10709f75270]
+## 7. Security[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. APR[^key-a1eacb8db5ab98e54d47d10709f75270]
+## 8. APR[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Restrictions on certain expressions in credit advertisements[^key-a1eacb8db5ab98e54d47d10709f75270]
+## 9. Restrictions on certain expressions in credit advertisements[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Exclusions[^key-a1eacb8db5ab98e54d47d10709f75270]
+## 10. Exclusions[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocation of superseded provisions[^key-a1eacb8db5ab98e54d47d10709f75270]
+## 11. Revocation of superseded provisions[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Transitional provisions[^key-a1eacb8db5ab98e54d47d10709f75270]
+## 12. Transitional provisions[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a1eacb8db5ab98e54d47d10709f75270]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1eacb8db5ab98e54d47d10709f75270]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — PROVISIONS RELATING TO CALCULATION AND DISCLOSURE OF THE TOTAL CHARGE FOR CREDIT AND ANY APR[^key-a1eacb8db5ab98e54d47d10709f75270]
+## SCHEDULE 1 — PROVISIONS RELATING TO CALCULATION AND DISCLOSURE OF THE TOTAL CHARGE FOR CREDIT AND ANY APR[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 Regulation 1(2)
 
-### 1. Assumptions about running-account credit[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 1. Assumptions about running-account credit[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Permissible tolerances in disclosure of an APR[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 2. Permissible tolerances in disclosure of an APR[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Tolerance where repayments are nearly equal[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 3. Tolerance where repayments are nearly equal[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Tolerance where interval between relevant date and first repayment is greater than interval between repayments[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 4. Tolerance where interval between relevant date and first repayment is greater than interval between repayments[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — INFORMATION TO BE CONTAINED IN A CREDIT ADVERTISEMENT[^key-a1eacb8db5ab98e54d47d10709f75270]
+## SCHEDULE 2 — INFORMATION TO BE CONTAINED IN A CREDIT ADVERTISEMENT[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 Regulations 4(1), 7(6), 8(1) and (5)
 
-### 1. Amount of credit[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 1. Amount of credit[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Deposit of money in an account[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 2. Deposit of money in an account[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Cash price[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 3. Cash price[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Advance payment[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 4. Advance payment[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Frequency, number and amount of repayments of credit[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 5. Frequency, number and amount of repayments of credit[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Other payments and charges[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 6. Other payments and charges[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Total amount payable by the debtor[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 7. Total amount payable by the debtor[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — INFORMATION TO BE CONTAINED IN A HIRE ADVERTISEMENT[^key-a1eacb8db5ab98e54d47d10709f75270]
+## SCHEDULE 3 — INFORMATION TO BE CONTAINED IN A HIRE ADVERTISEMENT[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 Regulations 4(1) and 7(7)
 
-### 1. Deposit of money in an account[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 1. Deposit of money in an account[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Advance payment[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 2. Advance payment[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Duration of hire[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 3. Duration of hire[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Frequency and amount of hire payments[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 4. Frequency and amount of hire payments[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Other payments and charges[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 5. Other payments and charges[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Variable payments and charges[^key-a1eacb8db5ab98e54d47d10709f75270]
+### 6. Variable payments and charges[^c-a1eacb8db5ab98e54d47d10709f75270]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a1eacb8db5ab98e54d47d10709f75270]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a1eacb8db5ab98e54d47d10709f75270]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a1eacb8db5ab98e54d47d10709f75270]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/1484) revoked (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 21(bb)](https://www.legislation.gov.uk/uksi/2013/1881/article/21/bb)
+[^c-a1eacb8db5ab98e54d47d10709f75270]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/1484) revoked (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 21(bb)](https://www.legislation.gov.uk/uksi/2013/1881/article/21/bb)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251. Control of patient information[^key-24616dd6190dee76fd59cf2beb14ed6c]
+## 251. Control of patient information[^c-24616dd6190dee76fd59cf2beb14ed6c]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) Regulations under subsection (1) may, in particular, make provision—
 
-- (a) for requiring prescribed communications of any nature which contain patient information to be disclosed by health service bodies or relevant social care bodies[^key-38028c35d9839ddf1a7a4d0f9b1ced4f] in prescribed circumstances—
+- (a) for requiring prescribed communications of any nature which contain patient information to be disclosed by health service bodies or relevant social care bodies[^c-38028c35d9839ddf1a7a4d0f9b1ced4f] in prescribed circumstances—
   - (i) to the person to whom the information relates,
   - (ii) (where it relates to more than one person) to the person to whom it principally relates, or
   - (iii) to a prescribed person on behalf of any such person as is mentioned in sub-paragraph (i) or (ii),
@@ -48,7 +48,7 @@ summary: ''
 
 (6) Regulations under subsection (1) may not make provision for requiring the processing of confidential patient information solely or principally for the purpose of determining the care and treatment to be given to particular individuals.
 
-(7) Regulations under this section may not make provision for or in connection with the processing of prescribed patient information in a manner inconsistent with any provision of the data protection legislation[^key-ef9d972f0987dec40fb32cf67e6c49fc].
+(7) Regulations under this section may not make provision for or in connection with the processing of prescribed patient information in a manner inconsistent with any provision of the data protection legislation[^c-ef9d972f0987dec40fb32cf67e6c49fc].
 
 (8) Subsection (7) does not affect the operation of provisions made under subsection (2)(c).
 
@@ -73,7 +73,7 @@ whether or not the identity of the individual in question is ascertainable from 
 - (a) preventative medicine, medical diagnosis, medical research, the provision of care and treatment and the management of health and social care services, and
 - (b) informing individuals about their physical or mental health or condition, the diagnosis of their condition or their care and treatment.
 
-(12A)[^key-ba992549e734cceef90e74be4922a6a6] In this section—
+(12A)[^c-ba992549e734cceef90e74be4922a6a6] In this section—
 
 - “**care**” includes local authority social care,
 - “**local authority social care**” means—
@@ -84,23 +84,23 @@ whether or not the identity of the individual in question is ascertainable from 
 
 (13) In this section—
 
-- “[^key-b869ead2901f392c7034bb0cf679ad88]**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
+- “[^c-b869ead2901f392c7034bb0cf679ad88]**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act);
 - “**health service body**” means any body (including a government department) or person engaged in the provision of the health service that is prescribed, or of a description prescribed, for the purposes of this definition,
 - “**processing**”, in relation to information, means the use, disclosure or obtaining of the information or the doing of such other things in relation to it as may be prescribed for the purposes of this definition.
-- “[^key-cf865b4355411d3a4cf7f422fb064b01]**relevant social care body**” means—
+- “[^c-cf865b4355411d3a4cf7f422fb064b01]**relevant social care body**” means—
   - (a) a local authority, or
   - (b) any other body or person engaged in the provision of local authority social care.
 
 ## Annotations
 
-[^key-24616dd6190dee76fd59cf2beb14ed6c]: Modification: S. 251 functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [43(1)](https://www.legislation.gov.uk/uksi/2018/644/article/43/1)
+[^c-24616dd6190dee76fd59cf2beb14ed6c]: Modification: S. 251 functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [43(1)](https://www.legislation.gov.uk/uksi/2018/644/article/43/1)
 
-[^key-38028c35d9839ddf1a7a4d0f9b1ced4f]: Textual amendment: Words in s. 251(2)(a) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/ukpga/2016/1/schedule/4/paragraph/7/2)
+[^c-38028c35d9839ddf1a7a4d0f9b1ced4f]: Textual amendment: Words in s. 251(2)(a) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/ukpga/2016/1/schedule/4/paragraph/7/2)
 
-[^key-ef9d972f0987dec40fb32cf67e6c49fc]: Textual amendment: Words in [s. 251(7)](https://www.legislation.gov.uk/ukpga/2006/41/section/251/7) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 114(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/114/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-ef9d972f0987dec40fb32cf67e6c49fc]: Textual amendment: Words in [s. 251(7)](https://www.legislation.gov.uk/ukpga/2006/41/section/251/7) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 114(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/114/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-ba992549e734cceef90e74be4922a6a6]: Textual amendment: S. 251(12A) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/ukpga/2016/1/schedule/4/paragraph/7/3)
+[^c-ba992549e734cceef90e74be4922a6a6]: Textual amendment: S. 251(12A) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/ukpga/2016/1/schedule/4/paragraph/7/3)
 
-[^key-b869ead2901f392c7034bb0cf679ad88]: Textual amendment: Words in [s. 251(13)](https://www.legislation.gov.uk/ukpga/2006/41/section/251/13) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 114(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/114/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-b869ead2901f392c7034bb0cf679ad88]: Textual amendment: Words in [s. 251(13)](https://www.legislation.gov.uk/ukpga/2006/41/section/251/13) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 114(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/114/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-cf865b4355411d3a4cf7f422fb064b01]: Textual amendment: Words in s. 251(13) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 4 para. 7(4)](https://www.legislation.gov.uk/ukpga/2016/1/schedule/4/paragraph/7/4)
+[^c-cf865b4355411d3a4cf7f422fb064b01]: Textual amendment: Words in s. 251(13) inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 4 para. 7(4)](https://www.legislation.gov.uk/ukpga/2016/1/schedule/4/paragraph/7/4)

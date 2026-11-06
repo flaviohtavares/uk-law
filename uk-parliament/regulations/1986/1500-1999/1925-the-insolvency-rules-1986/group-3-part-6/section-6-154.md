@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.154. The chairman at meetings[^key-acb4d2a009a117aaff2adad43983d266]
+## 6.154. The chairman at meetings[^c-acb4d2a009a117aaff2adad43983d266]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-acb4d2a009a117aaff2adad43983d266]: Commencement: [Rule 6.154](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.154) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-acb4d2a009a117aaff2adad43983d266]: Commencement: [Rule 6.154](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.154) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

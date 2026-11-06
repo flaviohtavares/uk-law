@@ -35,18 +35,18 @@ amending Implementing Regulation (EU) No 540/2011 as regards the extension of th
 
 (Text with EEA relevance) (revoked)
 
-[^key-368555e2cd1afe84aee32469b51712bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-368555e2cd1afe84aee32469b51712bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-368555e2cd1afe84aee32469b51712bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-368555e2cd1afe84aee32469b51712bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-368555e2cd1afe84aee32469b51712bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-368555e2cd1afe84aee32469b51712bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-368555e2cd1afe84aee32469b51712bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-368555e2cd1afe84aee32469b51712bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-368555e2cd1afe84aee32469b51712bf]
+## ANNEX[^c-368555e2cd1afe84aee32469b51712bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-368555e2cd1afe84aee32469b51712bf]: Textual amendment: Regulation revoked (31.12.2020) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2019/559/schedule) (with [reg. 12(2)(3)](https://www.legislation.gov.uk/uksi/2019/559/regulation/12/2/3)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [4(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/4/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-368555e2cd1afe84aee32469b51712bf]: Textual amendment: Regulation revoked (31.12.2020) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2019/559/schedule) (with [reg. 12(2)(3)](https://www.legislation.gov.uk/uksi/2019/559/regulation/12/2/3)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [4(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/4/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

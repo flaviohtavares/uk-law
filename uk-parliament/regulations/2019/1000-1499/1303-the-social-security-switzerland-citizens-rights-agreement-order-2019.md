@@ -31,7 +31,7 @@ summary: ''
 
 Social Security
 
-The Social Security (Switzerland) (Citizens' Rights Agreement) Order 2019 (revoked)[^key-2046d4e19972c3c17d3e44d3e5ae4afb]
+The Social Security (Switzerland) (Citizens' Rights Agreement) Order 2019 (revoked)[^c-2046d4e19972c3c17d3e44d3e5ae4afb]
 
 Made
 
@@ -45,23 +45,23 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-2046d4e19972c3c17d3e44d3e5ae4afb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2046d4e19972c3c17d3e44d3e5ae4afb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2046d4e19972c3c17d3e44d3e5ae4afb]
+## 1. Citation and commencement[^c-2046d4e19972c3c17d3e44d3e5ae4afb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of legislation[^key-2046d4e19972c3c17d3e44d3e5ae4afb]
+## 2. Modification of legislation[^c-2046d4e19972c3c17d3e44d3e5ae4afb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2046d4e19972c3c17d3e44d3e5ae4afb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2046d4e19972c3c17d3e44d3e5ae4afb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Swiss Confederation on Citizens' Rights following the withdrawal of the United Kingdom from the European Union and the Free Movement of Persons[^key-2046d4e19972c3c17d3e44d3e5ae4afb]
+## SCHEDULE — Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Swiss Confederation on Citizens' Rights following the withdrawal of the United Kingdom from the European Union and the Free Movement of Persons[^c-2046d4e19972c3c17d3e44d3e5ae4afb]
 
 Articles 1 and 2
 
@@ -69,8 +69,8 @@ Articles 1 and 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-2046d4e19972c3c17d3e44d3e5ae4afb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2046d4e19972c3c17d3e44d3e5ae4afb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2046d4e19972c3c17d3e44d3e5ae4afb]: Textual amendment: Order revoked (17.12.2020) by [The Social Security (Switzerland) (Citizens’ Rights Agreement) (Revocation) Order 2020 (S.I. 2020/1570)](https://www.legislation.gov.uk/uksi/2020/1570), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1570/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1570/article/2)
+[^c-2046d4e19972c3c17d3e44d3e5ae4afb]: Textual amendment: Order revoked (17.12.2020) by [The Social Security (Switzerland) (Citizens’ Rights Agreement) (Revocation) Order 2020 (S.I. 2020/1570)](https://www.legislation.gov.uk/uksi/2020/1570), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1570/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1570/article/2)

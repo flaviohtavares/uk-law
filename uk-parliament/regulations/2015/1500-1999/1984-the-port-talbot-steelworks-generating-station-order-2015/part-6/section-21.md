@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Protective provisions[^key-ed7d410832d1ceab7bfd0d7483e4cf1a]
+## 21. Protective provisions[^c-ed7d410832d1ceab7bfd0d7483e4cf1a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 4 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-ed7d410832d1ceab7bfd0d7483e4cf1a]: Commencement: Art. 21 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-ed7d410832d1ceab7bfd0d7483e4cf1a]: Commencement: Art. 21 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)

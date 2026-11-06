@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Appeal from Tribunal[^key-336473dbc7dfaccaa0419d5539564d4b]
+## 143. Appeal from Tribunal[^c-336473dbc7dfaccaa0419d5539564d4b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-336473dbc7dfaccaa0419d5539564d4b]: Textual amendment: [S. 143](https://www.legislation.gov.uk/ukpga/2005/19/section/143) omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/96) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-336473dbc7dfaccaa0419d5539564d4b]: Textual amendment: [S. 143](https://www.legislation.gov.uk/ukpga/2005/19/section/143) omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/96) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))

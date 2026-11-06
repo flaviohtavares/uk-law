@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Delivery of postal ballot papers[^key-eb3a5f3de592fb5723b2d1f23ead1077]
+## 80. Delivery of postal ballot papers[^c-eb3a5f3de592fb5723b2d1f23ead1077]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb3a5f3de592fb5723b2d1f23ead1077]: Modification: [Reg. 80](https://www.legislation.gov.uk/uksi/2008/1741/regulation/80) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 91](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/91)
+[^c-eb3a5f3de592fb5723b2d1f23ead1077]: Modification: [Reg. 80](https://www.legislation.gov.uk/uksi/2008/1741/regulation/80) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 91](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/91)

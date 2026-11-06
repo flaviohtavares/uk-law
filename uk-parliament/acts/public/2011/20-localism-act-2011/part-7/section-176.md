@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Standards facilitating exchange of tenancies[^key-b4fb2046525e1d50ba48182ba9668d40]
+## 176. Standards facilitating exchange of tenancies[^c-b4fb2046525e1d50ba48182ba9668d40]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4fb2046525e1d50ba48182ba9668d40]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2011/20/section/176) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(s)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/s) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-b4fb2046525e1d50ba48182ba9668d40]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2011/20/section/176) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(s)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/s) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

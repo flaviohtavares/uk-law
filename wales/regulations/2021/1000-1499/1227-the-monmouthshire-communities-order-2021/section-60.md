@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**60.**[^key-29ef8f88eac9ba14e2fe51f269370713][^key-0f4e3259196f589e320910895fd13dc9] The part of the community of Mathern shown hatched on Map 49—
+**60.**[^c-29ef8f88eac9ba14e2fe51f269370713][^c-0f4e3259196f589e320910895fd13dc9] The part of the community of Mathern shown hatched on Map 49—
 
 - (a) is transferred to the community of Chepstow;
 - (b) forms part of the community ward of St Kingsmark;
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29ef8f88eac9ba14e2fe51f269370713]: Commencement: Art. 60 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-29ef8f88eac9ba14e2fe51f269370713]: Commencement: Art. 60 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-0f4e3259196f589e320910895fd13dc9]: Commencement: [Art. 60](https://www.legislation.gov.uk/wsi/2021/1227/article/60) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-0f4e3259196f589e320910895fd13dc9]: Commencement: [Art. 60](https://www.legislation.gov.uk/wsi/2021/1227/article/60) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

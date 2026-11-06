@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Revocation[^key-44beb32d31cfb1c415fee9ed931361d9]
+## 33. Revocation[^c-44beb32d31cfb1c415fee9ed931361d9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Carriage Regulations are hereby revoked.
 
 ## Annotations
 
-[^key-44beb32d31cfb1c415fee9ed931361d9]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/1997/474/regulation/33) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-44beb32d31cfb1c415fee9ed931361d9]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/1997/474/regulation/33) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

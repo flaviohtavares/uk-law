@@ -24,9 +24,9 @@ summary: ''
 
 ### Local Government Act 2000 (c. 22)
 
-**1.**[^key-26466eec801d1a724c36a9563a0bf534] The 2000 Act is amended as follows.
+**1.**[^c-26466eec801d1a724c36a9563a0bf534] The 2000 Act is amended as follows.
 
-**2.**[^key-7ab6dacca5e7d4107bdabf0b80ac0477] In section 11 (executives)—
+**2.**[^c-7ab6dacca5e7d4107bdabf0b80ac0477] In section 11 (executives)—
 
 - (a) after subsection (8) insert—
 
@@ -44,11 +44,11 @@ summary: ''
   > - (a) for a maximum number in subsection (8) which exceeds 10, or
   > - (b) for a maximum number in subsection (8ZA) which exceeds 13.
 
-**3.**[^key-431f0cefed9be8a05468612416557df8] In section 83 (interpretation of Part 3), in subsection (1) omit the definition of “executive leader”.
+**3.**[^c-431f0cefed9be8a05468612416557df8] In section 83 (interpretation of Part 3), in subsection (1) omit the definition of “executive leader”.
 
-**4.**[^key-c1aac3ec5b1d25d7e5876bf0c6e3bd75] In section 106 (Wales: orders and regulations), in subsection (6) after “made under” insert “ section 11(9), ”.
+**4.**[^c-c1aac3ec5b1d25d7e5876bf0c6e3bd75] In section 106 (Wales: orders and regulations), in subsection (6) after “made under” insert “ section 11(9), ”.
 
-**5.**[^key-a226ff9435e5cbc996012f67440541fe] (1) Schedule 1 (executive arrangements) is amended as follows.
+**5.**[^c-a226ff9435e5cbc996012f67440541fe] (1) Schedule 1 (executive arrangements) is amended as follows.
 
 (2) In paragraph 1(2), after “section 11(8)” insert “ and (8ZA) ”.
 
@@ -81,7 +81,7 @@ summary: ''
 
 ### Local Government and Public Involvement in Health Act 2007 (c. 28)
 
-**6.**[^key-6616028150a7e12868f3abaec086bccf] (1) The Local Government and Public Involvement in Health Act 2007 is amended as follows.
+**6.**[^c-6616028150a7e12868f3abaec086bccf] (1) The Local Government and Public Involvement in Health Act 2007 is amended as follows.
 
 (2) In section 62 (executive arrangements), omit subsection (8).
 
@@ -89,20 +89,20 @@ summary: ''
 
 ### Localism Act 2011 (c. 20)
 
-**7.**[^key-ca88337d8528f4377699179c402f299f] In Schedule 3 to the Localism Act 2011 (minor and consequential amendments), omit paragraph 11(7).
+**7.**[^c-ca88337d8528f4377699179c402f299f] In Schedule 3 to the Localism Act 2011 (minor and consequential amendments), omit paragraph 11(7).
 
 ## Annotations
 
-[^key-26466eec801d1a724c36a9563a0bf534]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/asc/2021/1/schedule/7/paragraph/1) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(u)](https://www.legislation.gov.uk/wsi/2021/231/article/6/u)
+[^c-26466eec801d1a724c36a9563a0bf534]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/asc/2021/1/schedule/7/paragraph/1) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(u)](https://www.legislation.gov.uk/wsi/2021/231/article/6/u)
 
-[^key-7ab6dacca5e7d4107bdabf0b80ac0477]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/asc/2021/1/schedule/7/paragraph/2) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(u)](https://www.legislation.gov.uk/wsi/2021/231/article/6/u)
+[^c-7ab6dacca5e7d4107bdabf0b80ac0477]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/asc/2021/1/schedule/7/paragraph/2) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(u)](https://www.legislation.gov.uk/wsi/2021/231/article/6/u)
 
-[^key-431f0cefed9be8a05468612416557df8]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/asc/2021/1/schedule/7/paragraph/3) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(u)](https://www.legislation.gov.uk/wsi/2021/231/article/6/u)
+[^c-431f0cefed9be8a05468612416557df8]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/asc/2021/1/schedule/7/paragraph/3) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(u)](https://www.legislation.gov.uk/wsi/2021/231/article/6/u)
 
-[^key-c1aac3ec5b1d25d7e5876bf0c6e3bd75]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/asc/2021/1/schedule/7/paragraph/4) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(u)](https://www.legislation.gov.uk/wsi/2021/231/article/6/u)
+[^c-c1aac3ec5b1d25d7e5876bf0c6e3bd75]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/asc/2021/1/schedule/7/paragraph/4) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(u)](https://www.legislation.gov.uk/wsi/2021/231/article/6/u)
 
-[^key-a226ff9435e5cbc996012f67440541fe]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/asc/2021/1/schedule/7/paragraph/5) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(u)](https://www.legislation.gov.uk/wsi/2021/231/article/6/u)
+[^c-a226ff9435e5cbc996012f67440541fe]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/asc/2021/1/schedule/7/paragraph/5) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(u)](https://www.legislation.gov.uk/wsi/2021/231/article/6/u)
 
-[^key-6616028150a7e12868f3abaec086bccf]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/asc/2021/1/schedule/7/paragraph/6) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(u)](https://www.legislation.gov.uk/wsi/2021/231/article/6/u)
+[^c-6616028150a7e12868f3abaec086bccf]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/asc/2021/1/schedule/7/paragraph/6) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(u)](https://www.legislation.gov.uk/wsi/2021/231/article/6/u)
 
-[^key-ca88337d8528f4377699179c402f299f]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/asc/2021/1/schedule/7/paragraph/7) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(u)](https://www.legislation.gov.uk/wsi/2021/231/article/6/u)
+[^c-ca88337d8528f4377699179c402f299f]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/asc/2021/1/schedule/7/paragraph/7) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(u)](https://www.legislation.gov.uk/wsi/2021/231/article/6/u)

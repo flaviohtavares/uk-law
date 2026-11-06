@@ -33,85 +33,85 @@ of 16 April 2019
 
 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards analysis methods for determining the physical, chemical and organoleptic characteristics of grapevine products and notifications of Member States decisions concerning increases in natural alcoholic strength (revoked)
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d8517fef1e7816b1bc39372120b5e58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Scope[^key-2d8517fef1e7816b1bc39372120b5e58]
+## Article 1. Scope[^c-2d8517fef1e7816b1bc39372120b5e58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Applicable ... analysis methods[^key-2d8517fef1e7816b1bc39372120b5e58]
+## Article 2. Applicable ... analysis methods[^c-2d8517fef1e7816b1bc39372120b5e58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Notification of ... decisions allowing an increase in natural alcoholic strength[^key-2d8517fef1e7816b1bc39372120b5e58]
+## Article 3. Notification of ... decisions allowing an increase in natural alcoholic strength[^c-2d8517fef1e7816b1bc39372120b5e58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-2d8517fef1e7816b1bc39372120b5e58]
+## Article 4. Entry into force[^c-2d8517fef1e7816b1bc39372120b5e58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d8517fef1e7816b1bc39372120b5e58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — SPECIAL ... ANALYSIS METHODS[^key-2d8517fef1e7816b1bc39372120b5e58]
+## ANNEX — SPECIAL ... ANALYSIS METHODS[^c-2d8517fef1e7816b1bc39372120b5e58]
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]ALLYL ISOTHIOCYANATE
+[^c-2d8517fef1e7816b1bc39372120b5e58]ALLYL ISOTHIOCYANATE
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]1.
+[^c-2d8517fef1e7816b1bc39372120b5e58]1.
 
 Principle of the method
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]2.
+[^c-2d8517fef1e7816b1bc39372120b5e58]2.
 
 Reagents
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]2.1.
+[^c-2d8517fef1e7816b1bc39372120b5e58]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]2.2.
+[^c-2d8517fef1e7816b1bc39372120b5e58]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]2.3.
+[^c-2d8517fef1e7816b1bc39372120b5e58]2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]3.
+[^c-2d8517fef1e7816b1bc39372120b5e58]3.
 
 Apparatus
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]3.1.
+[^c-2d8517fef1e7816b1bc39372120b5e58]3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]3.2.
+[^c-2d8517fef1e7816b1bc39372120b5e58]3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]3.3.
+[^c-2d8517fef1e7816b1bc39372120b5e58]3.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]3.4.
+[^c-2d8517fef1e7816b1bc39372120b5e58]3.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]3.5.
+[^c-2d8517fef1e7816b1bc39372120b5e58]3.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]3.6.
+[^c-2d8517fef1e7816b1bc39372120b5e58]3.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]4.
+[^c-2d8517fef1e7816b1bc39372120b5e58]4.
 
 Procedure
 
@@ -119,4 +119,4 @@ Procedure
 
 ## Annotations
 
-[^key-2d8517fef1e7816b1bc39372120b5e58]: Textual amendment: Regulation revoked (1.1.2024) by [The Wine (Revocation and Consequential Provision) Regulations 2023 (S.I. 2023/1362)](https://www.legislation.gov.uk/uksi/2023/1362), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1362/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1362/schedule/1)
+[^c-2d8517fef1e7816b1bc39372120b5e58]: Textual amendment: Regulation revoked (1.1.2024) by [The Wine (Revocation and Consequential Provision) Regulations 2023 (S.I. 2023/1362)](https://www.legislation.gov.uk/uksi/2023/1362), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1362/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1362/schedule/1)

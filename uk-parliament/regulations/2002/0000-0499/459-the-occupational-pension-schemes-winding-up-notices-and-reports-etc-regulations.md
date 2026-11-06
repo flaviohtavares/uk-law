@@ -70,11 +70,11 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (4) In regulation 5(12A) [^c964719] (application of paragraphs (10) and (12) of regulation 5 where only a section of a scheme is being wound up) for the words “and (12)” there are substituted the words “ (12) and (12AA) ”.
 
-## 3. Schemes within section 22 of the 1995 Act: appointment of independent trustee[^key-fa26dccff9c62030f833eaffee12d228]
+## 3. Schemes within section 22 of the 1995 Act: appointment of independent trustee[^c-fa26dccff9c62030f833eaffee12d228]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Other schemes: notice to the Authority that section 26B of the 1995 Act applies[^key-3dad3d4d0f79c4be66a4e8770532151c]
+## 4. Other schemes: notice to the Authority that section 26B of the 1995 Act applies[^c-3dad3d4d0f79c4be66a4e8770532151c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -126,12 +126,12 @@ In section 26C of the 1995 Act (construction of sections 26A and 26B) references
 
 (3) Before making the application the trustees or managers of the scheme must give notice in writing that the application is being made—
 
-- (a) to all members of the scheme (except a member mentioned in paragraph (3A)) in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (giving information and documents), and[^key-5015666d37923366e23b1f40640cc42f]
+- (a) to all members of the scheme (except a member mentioned in paragraph (3A)) in accordance with regulations 26 to 28 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (giving information and documents), and[^c-5015666d37923366e23b1f40640cc42f]
 - (b) if the modification would reduce the value of the assets which might otherwise be distributed to the employer on the winding up, to the person acting as an insolvency practitioner in relation to the employer or, as the case may be, the official receiver;
 
 and the references in sub-paragraph (b) to “acting as an insolvency practitioner” and “official receiver” are to be construed in accordance with sections 388 and 399 of the Insolvency Act 1986 [^c964721].
 
-(3A)[^key-2719a7c4e06a67c2573ec97fa67108fc] A member referred to in paragraph (3)(a) is a member—
+(3A)[^c-2719a7c4e06a67c2573ec97fa67108fc] A member referred to in paragraph (3)(a) is a member—
 
 - (a) whose present postal address and electronic address is not known to the trustees or managers of the scheme, and
 - (b) in respect of whom the trustees or managers of the scheme have sent correspondence to their last known—
@@ -183,12 +183,12 @@ and the references in sub-paragraph (b) to “acting as an insolvency practition
 - (a) after the end of the period of three years beginning with the day on which the winding up begins, and
 - (b) before the end of the period of one year beginning with the end of the period that applies under sub-paragraph (a).
 
-(5) In the case of a winding up which begins on or after 1st April 2003 but before 1st October 2007[^key-e1e4ad1a440d46f55754d336ea964e48], the first report to be made under section 72A must be made—
+(5) In the case of a winding up which begins on or after 1st April 2003 but before 1st October 2007[^c-e1e4ad1a440d46f55754d336ea964e48], the first report to be made under section 72A must be made—
 
 - (a) after the end of the period of three years beginning with the day on which the winding up begins, and
 - (b) before the end of the period of three months beginning with the end of the period that applies under sub-paragraph (a).
 
-(6)[^key-a4b3c92269b5ad2a0da81edd4296274c] In the case of a winding-up which begins on or after 1st October 2007, the first report to be made under section 72A must be made—
+(6)[^c-a4b3c92269b5ad2a0da81edd4296274c] In the case of a winding-up which begins on or after 1st October 2007, the first report to be made under section 72A must be made—
 
 - (a) after the end of the period of two years beginning with the day on which the winding up begins, and
 - (b) before the end of the period of three months beginning with the end of the period that applies under sub-paragraph (a).
@@ -239,7 +239,7 @@ and the references in sub-paragraph (b) to “acting as an insolvency practition
 
 (3) In this regulation “member” means a deferred member or a pensioner member.
 
-## 12. Time when winding up taken to begin[^key-4877d2e2798ec29fe8da2a5075017343]
+## 12. Time when winding up taken to begin[^c-4877d2e2798ec29fe8da2a5075017343]
 
 Section 124(3A) to (3D) of the 1995 Act [^c964722] (time when winding up of a scheme is to be taken to begin) does not apply for the purposes of—
 
@@ -366,21 +366,21 @@ An assessment of the cost to business of the provisions in these Regulations was
 
 [^c964719]: Marginal citation: [Regulation 5(12A)](https://www.legislation.gov.uk/uksi/2002/459/regulation/5/12A) was inserted by regulation 10(4)(c) of [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786).
 
-[^key-fa26dccff9c62030f833eaffee12d228]: Textual amendment: Reg. 3 revoked (11.4.2005) by [Occupational Pension Schemes (Independent Trustee) Regulations 2005 (S.I. 2005/703)](https://www.legislation.gov.uk/uksi/2005/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/703/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2005/703/regulation/14/3)
+[^c-fa26dccff9c62030f833eaffee12d228]: Textual amendment: Reg. 3 revoked (11.4.2005) by [Occupational Pension Schemes (Independent Trustee) Regulations 2005 (S.I. 2005/703)](https://www.legislation.gov.uk/uksi/2005/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/703/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2005/703/regulation/14/3)
 
-[^key-3dad3d4d0f79c4be66a4e8770532151c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2002/459/regulation/4) revoked (11.4.2005) by [Occupational Pension Schemes (Independent Trustee) Regulations 2005 (S.I. 2005/703)](https://www.legislation.gov.uk/uksi/2005/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/703/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2005/703/regulation/14/3)
+[^c-3dad3d4d0f79c4be66a4e8770532151c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2002/459/regulation/4) revoked (11.4.2005) by [Occupational Pension Schemes (Independent Trustee) Regulations 2005 (S.I. 2005/703)](https://www.legislation.gov.uk/uksi/2005/703), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/703/regulation/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2005/703/regulation/14/3)
 
-[^key-5015666d37923366e23b1f40640cc42f]: Textual amendment: Words in [reg. 8(3)(a)](https://www.legislation.gov.uk/uksi/2002/459/regulation/8/3/a) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 11(a)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/11/a)
+[^c-5015666d37923366e23b1f40640cc42f]: Textual amendment: Words in [reg. 8(3)(a)](https://www.legislation.gov.uk/uksi/2002/459/regulation/8/3/a) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 11(a)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/11/a)
 
 [^c964721]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-2719a7c4e06a67c2573ec97fa67108fc]: Textual amendment: [Reg. 8(3A)](https://www.legislation.gov.uk/uksi/2002/459/regulation/8/3A) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 11(b)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/11/b)
+[^c-2719a7c4e06a67c2573ec97fa67108fc]: Textual amendment: [Reg. 8(3A)](https://www.legislation.gov.uk/uksi/2002/459/regulation/8/3A) inserted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 11(b)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/11/b)
 
-[^key-e1e4ad1a440d46f55754d336ea964e48]: Textual amendment: Words in reg. 9(5) inserted (1.10.2007) by [Occupational Pension Schemes (Winding Up, Winding Up Notices and Reports etc.) (Amendment) Regulations 2007 (S.I. 2007/1930)](https://www.legislation.gov.uk/uksi/2007/1930), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1930/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2007/1930/regulation/4/a)
+[^c-e1e4ad1a440d46f55754d336ea964e48]: Textual amendment: Words in reg. 9(5) inserted (1.10.2007) by [Occupational Pension Schemes (Winding Up, Winding Up Notices and Reports etc.) (Amendment) Regulations 2007 (S.I. 2007/1930)](https://www.legislation.gov.uk/uksi/2007/1930), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1930/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2007/1930/regulation/4/a)
 
-[^key-a4b3c92269b5ad2a0da81edd4296274c]: Textual amendment: Reg. 9(6) added (1.10.2007) by [Occupational Pension Schemes (Winding Up, Winding Up Notices and Reports etc.) (Amendment) Regulations 2007 (S.I. 2007/1930)](https://www.legislation.gov.uk/uksi/2007/1930), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1930/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2007/1930/regulation/4/b)
+[^c-a4b3c92269b5ad2a0da81edd4296274c]: Textual amendment: Reg. 9(6) added (1.10.2007) by [Occupational Pension Schemes (Winding Up, Winding Up Notices and Reports etc.) (Amendment) Regulations 2007 (S.I. 2007/1930)](https://www.legislation.gov.uk/uksi/2007/1930), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1930/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2007/1930/regulation/4/b)
 
-[^key-4877d2e2798ec29fe8da2a5075017343]: Modification: [Reg. 12](https://www.legislation.gov.uk/uksi/2002/459/regulation/12) excluded (6.4.2005) by [Occupational Pension Schemes (Winding Up etc.) Regulations 2005 (S.I. 2005/706)](https://www.legislation.gov.uk/uksi/2005/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/706/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2005/706/regulation/12) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2005/706/regulation/1/3))
+[^c-4877d2e2798ec29fe8da2a5075017343]: Modification: [Reg. 12](https://www.legislation.gov.uk/uksi/2002/459/regulation/12) excluded (6.4.2005) by [Occupational Pension Schemes (Winding Up etc.) Regulations 2005 (S.I. 2005/706)](https://www.legislation.gov.uk/uksi/2005/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/706/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2005/706/regulation/12) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2005/706/regulation/1/3))
 
 [^c964722]: Marginal citation: [Section 124(3A) to (3D)](https://www.legislation.gov.uk/uksi/2002/459/section/124/3A) were inserted by section 49(2) of the Child Support, Pensions and Social Security Act 2000.
 

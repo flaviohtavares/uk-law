@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. CCTS allowances[^key-239411b8d64d65cd45026c98dc155b90]
+## 33. CCTS allowances[^c-239411b8d64d65cd45026c98dc155b90]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A CCTS allowance is an allowance for an NZE car which is registered during a sch
 
 ## Annotations
 
-[^key-239411b8d64d65cd45026c98dc155b90]: Commencement: Art. 33 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-239411b8d64d65cd45026c98dc155b90]: Commencement: Art. 33 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

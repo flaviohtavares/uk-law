@@ -34,11 +34,11 @@ An Act to make provision about railways, including tramways; to make provision a
 
 \[10th July 2003\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-9e7a749a8f9976dc9d76219c8acf7937][^key-6cc8d4651c65c75c40edb04bd7c8016a][^key-ea32d72df8dcfabc4f49cf531e04546b][^key-cd9b07557323023beb00d1fe8f60d434]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-9e7a749a8f9976dc9d76219c8acf7937][^c-6cc8d4651c65c75c40edb04bd7c8016a][^c-ea32d72df8dcfabc4f49cf531e04546b][^c-cd9b07557323023beb00d1fe8f60d434]
 
 ## Contents
 
-### Part 1 — Investigation of Railway Accidents[^key-c90e00b40a3f7ef53213cd9295e755cc]
+### Part 1 — Investigation of Railway Accidents[^c-c90e00b40a3f7ef53213cd9295e755cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,7 +74,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 13 — Regulations](part-1/section-13.md)
 - [Section 14 — Extent](part-1/section-14.md)
 
-### Part 2 — Office of Rail and Road[^key-10a6960cf31bd436e38d7014e431233e]
+### Part 2 — Office of Rail and Road[^c-10a6960cf31bd436e38d7014e431233e]
 
 *Extent: E+W+S*
 
@@ -267,14 +267,14 @@ SCHEDULES
 
 ## Annotations
 
-[^key-9e7a749a8f9976dc9d76219c8acf7937]: Modification: Act excluded (S.) (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 62(4)](https://www.legislation.gov.uk/asp/2006/6/section/62/4) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
+[^c-9e7a749a8f9976dc9d76219c8acf7937]: Modification: Act excluded (S.) (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 62(4)](https://www.legislation.gov.uk/asp/2006/6/section/62/4) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
 
-[^key-6cc8d4651c65c75c40edb04bd7c8016a]: Modification: Act excluded (S.) (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 62(4)](https://www.legislation.gov.uk/asp/2006/7/section/62/4) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
+[^c-6cc8d4651c65c75c40edb04bd7c8016a]: Modification: Act excluded (S.) (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 62(4)](https://www.legislation.gov.uk/asp/2006/7/section/62/4) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
 
-[^key-ea32d72df8dcfabc4f49cf531e04546b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2003/20) applied (with modifications) (E.) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/14)
+[^c-ea32d72df8dcfabc4f49cf531e04546b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2003/20) applied (with modifications) (E.) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/14)
 
-[^key-cd9b07557323023beb00d1fe8f60d434]: Modification: Act applied (with modifications) (E.W.) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/14)
+[^c-cd9b07557323023beb00d1fe8f60d434]: Modification: Act applied (with modifications) (E.W.) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/14)
 
-[^key-c90e00b40a3f7ef53213cd9295e755cc]: Modification: Pt. 1 modified (17.10.2005 for specified purposes, 31.1.2006 for specified purposes) by [Railways (Accident Investigation and Reporting) Regulations 2005 (S.I. 2005/1992)](https://www.legislation.gov.uk/uksi/2005/1992), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/3/3), [3(2)(3)(4)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/3/4)
+[^c-c90e00b40a3f7ef53213cd9295e755cc]: Modification: Pt. 1 modified (17.10.2005 for specified purposes, 31.1.2006 for specified purposes) by [Railways (Accident Investigation and Reporting) Regulations 2005 (S.I. 2005/1992)](https://www.legislation.gov.uk/uksi/2005/1992), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/3/3), [3(2)(3)(4)](https://www.legislation.gov.uk/uksi/2005/1992/regulation/3/4)
 
-[^key-10a6960cf31bd436e38d7014e431233e]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/ukpga/2003/20/part/2) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/2/a)
+[^c-10a6960cf31bd436e38d7014e431233e]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/ukpga/2003/20/part/2) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Duty to summon final meeting[^key-1ed37ffb984f384b6feb04b2b08fda44]
+## 43. Duty to summon final meeting[^c-1ed37ffb984f384b6feb04b2b08fda44]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ed37ffb984f384b6feb04b2b08fda44]: Commencement: S. 43 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-1ed37ffb984f384b6feb04b2b08fda44]: Commencement: S. 43 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

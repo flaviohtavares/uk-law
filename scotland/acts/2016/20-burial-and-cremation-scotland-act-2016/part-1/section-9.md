@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Unauthorised burial: offences[^key-a707a9bf2ecdc83b136b9e14b4c4b5f6]
+## 9. Unauthorised burial: offences[^c-a707a9bf2ecdc83b136b9e14b4c4b5f6]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a707a9bf2ecdc83b136b9e14b4c4b5f6]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2016/20/section/9) in force at 1.3.2025 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2024/335/schedule)
+[^c-a707a9bf2ecdc83b136b9e14b4c4b5f6]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2016/20/section/9) in force at 1.3.2025 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2024/335/schedule)

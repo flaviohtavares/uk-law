@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Statutory terms of tenancy[^key-a26f37960b46e01241ebea2f57539f04][^key-aa8b9614d6b5f9666fb79d19db7b5ffb]
+## 7. Statutory terms of tenancy[^c-a26f37960b46e01241ebea2f57539f04][^c-aa8b9614d6b5f9666fb79d19db7b5ffb]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a26f37960b46e01241ebea2f57539f04]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/19/section/7) in force at 31.10.2016 for specified purposes by [S.S.I. 2016/298](https://www.legislation.gov.uk/ssi/2016/298), [reg. 2](https://www.legislation.gov.uk/ssi/2016/298/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/298/schedule)
+[^c-a26f37960b46e01241ebea2f57539f04]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/19/section/7) in force at 31.10.2016 for specified purposes by [S.S.I. 2016/298](https://www.legislation.gov.uk/ssi/2016/298), [reg. 2](https://www.legislation.gov.uk/ssi/2016/298/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/298/schedule)
 
-[^key-aa8b9614d6b5f9666fb79d19db7b5ffb]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/19/section/7) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-aa8b9614d6b5f9666fb79d19db7b5ffb]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2016/19/section/7) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

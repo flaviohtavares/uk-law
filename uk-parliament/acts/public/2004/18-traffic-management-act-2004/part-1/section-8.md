@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Power to confer further special powers on traffic officers[^key-84f79e9000934b59ad4658a71c39e3c5][^key-d6d1ce2563ec234e0de5568d9df65e5f]
+## 8. Power to confer further special powers on traffic officers[^c-84f79e9000934b59ad4658a71c39e3c5][^c-d6d1ce2563ec234e0de5568d9df65e5f]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-84f79e9000934b59ad4658a71c39e3c5]: Commencement: S. 8 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/a)
+[^c-84f79e9000934b59ad4658a71c39e3c5]: Commencement: S. 8 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/a)
 
-[^key-d6d1ce2563ec234e0de5568d9df65e5f]: Commencement: S. 8 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/a)
+[^c-d6d1ce2563ec234e0de5568d9df65e5f]: Commencement: S. 8 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/a)

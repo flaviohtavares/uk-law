@@ -43,23 +43,23 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 (Text with EEA relevance) (revoked)
 
-[^key-d47e1c724c465df0decb570554654b62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d47e1c724c465df0decb570554654b62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### TITLE I — VALUATION AND RISK-BASED CAPITAL REQUIREMENTS (PILLAR I), ENHANCED GOVERNANCE (PILLAR II) AND INCREASED TRANSPARENCY (PILLAR III)[^key-d47e1c724c465df0decb570554654b62]
+### TITLE I — VALUATION AND RISK-BASED CAPITAL REQUIREMENTS (PILLAR I), ENHANCED GOVERNANCE (PILLAR II) AND INCREASED TRANSPARENCY (PILLAR III)[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — GENERAL PROVISIONS[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER I — GENERAL PROVISIONS[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — Definitions and general principles[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 1 — Definitions and general principles[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,7 +68,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 1 — Definitions](section-article-1.md)
 - [Section Article 2 — Expert judgement](section-article-2.md)
 
-##### SECTION 2 — Technical standards[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 2 — Technical standards[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,7 +79,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 5 — Issuers and issue credit assessment](section-article-5.md)
 - [Section Article 6 — Double credit rating for securitisation positions](section-article-6.md)
 
-#### CHAPTER II — VALUATION OF ASSETS AND LIABILITIES[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER II — VALUATION OF ASSETS AND LIABILITIES[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,13 +96,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 15 — Deferred taxes](section-article-15.md)
 - [Section Article 16 — Exclusion of valuation methods](section-article-16.md)
 
-#### CHAPTER III — RULES RELATING TO TECHNICAL PROVISIONS[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER III — RULES RELATING TO TECHNICAL PROVISIONS[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — General provisions[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 1 — General provisions[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -111,7 +111,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 17 — Recognition and derecognition of insurance and reinsurance obligations](section-article-17.md)
 - [Section Article 18 — Boundary of an insurance or reinsurance contract](section-article-18.md)
 
-##### SECTION 2 — Data quality[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 2 — Data quality[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -121,7 +121,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 20 — Limitations of data](section-article-20.md)
 - [Section Article 21 — Appropriate use of approximations to calculate the best estimate](section-article-21.md)
 
-##### SECTION 3 — Methodologies to calculate technical provisions[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 3 — Methodologies to calculate technical provisions[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -131,7 +131,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 1
+[^c-d47e1c724c465df0decb570554654b62]Subsection 1
 
 **Assumptions underlying the calculation of technical provisions**
 
@@ -145,7 +145,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 2
+[^c-d47e1c724c465df0decb570554654b62]Subsection 2
 
 **Information underlying the calculation of best estimates**
 
@@ -155,7 +155,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 3
+[^c-d47e1c724c465df0decb570554654b62]Subsection 3
 
 **Cash flow projections for the calculation of the best estimate**
 
@@ -173,7 +173,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 4
+[^c-d47e1c724c465df0decb570554654b62]Subsection 4
 
 **Risk margin**
 
@@ -185,7 +185,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 5
+[^c-d47e1c724c465df0decb570554654b62]Subsection 5
 
 **Calculation of technical provisions as a whole**
 
@@ -195,14 +195,14 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 6
+[^c-d47e1c724c465df0decb570554654b62]Subsection 6
 
 **Recoverables from reinsurance contracts and special purpose vehicles**
 
 - [Section Article 41 — General provisions](section-article-41.md)
 - [Section Article 42 — Counterparty default adjustment](section-article-42.md)
 
-##### SECTION 4 — Relevant risk-free interest rate term structure[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 4 — Relevant risk-free interest rate term structure[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -212,7 +212,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 1
+[^c-d47e1c724c465df0decb570554654b62]Subsection 1
 
 **General provisions**
 
@@ -222,7 +222,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 2
+[^c-d47e1c724c465df0decb570554654b62]Subsection 2
 
 **Basic risk free interest rate term structure**
 
@@ -236,7 +236,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 3
+[^c-d47e1c724c465df0decb570554654b62]Subsection 3
 
 **Volatility adjustment**
 
@@ -248,7 +248,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 4
+[^c-d47e1c724c465df0decb570554654b62]Subsection 4
 
 **Matching adjustment**
 
@@ -256,7 +256,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 53](section-article-53.md)
 - [Section Article 54](section-article-54.md)
 
-##### SECTION 5 — Lines of business[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 5 — Lines of business[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -264,7 +264,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 55 — Lines of business](section-article-55.md)
 
-##### SECTION 6 — Proportionality and simplifications[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 6 — Proportionality and simplifications[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -277,13 +277,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 60 — Simplified calculation of the best estimate for insurance obligations with premium adjustment mechanism](section-article-60.md)
 - [Section Article 61 — Simplified calculation of the counterparty default adjustment](section-article-61.md)
 
-#### CHAPTER IV — OWN FUNDS[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER IV — OWN FUNDS[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — Determination of own funds[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 1 — Determination of own funds[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -293,7 +293,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 1
+[^c-d47e1c724c465df0decb570554654b62]Subsection 1
 
 **Supervisory approval of ancillary own funds**
 
@@ -308,13 +308,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 2
+[^c-d47e1c724c465df0decb570554654b62]Subsection 2
 
 **Own funds treatment of participations**
 
 - [Section Article 68 — Treatment of participations in the determination of basic own funds](section-article-68.md)
 
-##### SECTION 2 — Classification of own funds[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 2 — Classification of own funds[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -332,7 +332,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 78 — Tier 3 Ancillary own-funds– List of own-funds items](section-article-78.md)
 - [Section Article 79 — Supervisory Authorities approval of the assessment and classification of own-fund items](section-article-79.md)
 
-##### SECTION 3 — Eligibility of own funds[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 3 — Eligibility of own funds[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -342,7 +342,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 1
+[^c-d47e1c724c465df0decb570554654b62]Subsection 1
 
 **Ring-fenced funds**
 
@@ -353,19 +353,19 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 2
+[^c-d47e1c724c465df0decb570554654b62]Subsection 2
 
 **Quantitative limits**
 
 - [Section Article 82 — Eligibility and limits applicable to Tiers 1, 2 and 3](section-article-82.md)
 
-#### CHAPTER V — SOLVENCY CAPITAL REQUIREMENT STANDARD FORMULA[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER V — SOLVENCY CAPITAL REQUIREMENT STANDARD FORMULA[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — General provisions[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 1 — General provisions[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -375,7 +375,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 1
+[^c-d47e1c724c465df0decb570554654b62]Subsection 1
 
 **Scenario based calculations**
 
@@ -385,7 +385,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 2
+[^c-d47e1c724c465df0decb570554654b62]Subsection 2
 
 **Look-through approach**
 
@@ -395,7 +395,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 3
+[^c-d47e1c724c465df0decb570554654b62]Subsection 3
 
 **Regional governments and local authorities**
 
@@ -405,7 +405,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 4
+[^c-d47e1c724c465df0decb570554654b62]Subsection 4
 
 **Material basis risk**
 
@@ -415,7 +415,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 5
+[^c-d47e1c724c465df0decb570554654b62]Subsection 5
 
 **Calculation of the basic solvency capital requirement**
 
@@ -425,7 +425,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 6
+[^c-d47e1c724c465df0decb570554654b62]Subsection 6
 
 **Proportionality and simplifications**
 
@@ -469,13 +469,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 7
+[^c-d47e1c724c465df0decb570554654b62]Subsection 7
 
 **Scope of the underwriting risk modules**
 
 - [Section Article 113](section-article-113.md)
 
-##### SECTION 2 — Non-life underwriting risk module[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 2 — Non-life underwriting risk module[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -504,7 +504,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 134 — Credit and suretyship risk sub-module](section-article-134.md)
 - [Section Article 135 — Sub-module for other non-life catastrophe risk](section-article-135.md)
 
-##### SECTION 3 — Life underwriting risk module[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 3 — Life underwriting risk module[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -519,7 +519,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 142 — Lapse risk sub-module](section-article-142.md)
 - [Section Article 143 — Life-catastrophe risk sub-module](section-article-143.md)
 
-##### SECTION 4 — Health underwriting risk module[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 4 — Health underwriting risk module[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -546,7 +546,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 162 — Accident concentration risk sub-module](section-article-162.md)
 - [Section Article 163 — Pandemic risk sub-module](section-article-163.md)
 
-##### SECTION 5 — Market risk module[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 5 — Market risk module[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -556,7 +556,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 1
+[^c-d47e1c724c465df0decb570554654b62]Subsection 1
 
 **Correlation coefficients**
 
@@ -566,7 +566,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62] Subsection 1a
+[^c-d47e1c724c465df0decb570554654b62] Subsection 1a
 
 **Qualifying infrastructure investments**
 
@@ -577,7 +577,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 2
+[^c-d47e1c724c465df0decb570554654b62]Subsection 2
 
 **Interest rate risk sub-module**
 
@@ -589,7 +589,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 3
+[^c-d47e1c724c465df0decb570554654b62]Subsection 3
 
 **Equity risk sub-module**
 
@@ -606,7 +606,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 4
+[^c-d47e1c724c465df0decb570554654b62]Subsection 4
 
 **Property risk sub-module**
 
@@ -616,7 +616,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 5
+[^c-d47e1c724c465df0decb570554654b62]Subsection 5
 
 **Spread risk sub-module**
 
@@ -636,7 +636,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 6
+[^c-d47e1c724c465df0decb570554654b62]Subsection 6
 
 **Market risk concentrations sub-module**
 
@@ -651,13 +651,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 7
+[^c-d47e1c724c465df0decb570554654b62]Subsection 7
 
 **Currency risk sub-module**
 
 - [Section Article 188](section-article-188.md)
 
-##### SECTION 6 — Counterparty default risk module[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 6 — Counterparty default risk module[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -667,7 +667,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 1
+[^c-d47e1c724c465df0decb570554654b62]Subsection 1
 
 **General provisions**
 
@@ -687,7 +687,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 2
+[^c-d47e1c724c465df0decb570554654b62]Subsection 2
 
 **Type 1 exposures**
 
@@ -699,13 +699,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]Subsection 3
+[^c-d47e1c724c465df0decb570554654b62]Subsection 3
 
 **Type 2 exposures**
 
 - [Section Article 202 — Type 2 exposures](section-article-202.md)
 
-##### SECTION 7 — Intangible asset module[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 7 — Intangible asset module[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -713,7 +713,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 203](section-article-203.md)
 
-##### SECTION 8 — Operational risk[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 8 — Operational risk[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -721,7 +721,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 204](section-article-204.md)
 
-##### SECTION 9 — Adjustment for the loss-absorbing capacity of technical provisions and deferred taxes[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 9 — Adjustment for the loss-absorbing capacity of technical provisions and deferred taxes[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -731,7 +731,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 206 — Adjustment for the loss-absorbing capacity of technical provisions](section-article-206.md)
 - [Section Article 207 — Adjustment for the loss-absorbing capacity of deferred taxes](section-article-207.md)
 
-##### SECTION 10 — Risk mitigation techniques[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 10 — Risk mitigation techniques[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -746,7 +746,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 214 — Collateral Arrangements](section-article-214.md)
 - [Section Article 215 — Guarantees](section-article-215.md)
 
-##### SECTION 11 — Ring fenced funds[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 11 — Ring fenced funds[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -755,7 +755,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 216 — Calculation of the Solvency Capital Requirement in the case of ring-fenced funds and matching adjustment portfolios](section-article-216.md)
 - [Section Article 217 — Solvency Capital Requirement calculation method for ring-fenced funds and matching adjustment portfolios](section-article-217.md)
 
-##### SECTION 12 — Undertaking-specific parameters[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 12 — Undertaking-specific parameters[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -765,7 +765,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 219 — Data criteria](section-article-219.md)
 - [Section Article 220 — Standardised methods to calculate the undertaking-specific parameters](section-article-220.md)
 
-##### SECTION 13 — Procedure for updating correlation parameters[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 13 — Procedure for updating correlation parameters[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -773,13 +773,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 221](section-article-221.md)
 
-#### CHAPTER VI — SOLVENCY CAPITAL REQUIREMENT — FULL AND PARTIAL INTERNAL MODELS[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER VI — SOLVENCY CAPITAL REQUIREMENT — FULL AND PARTIAL INTERNAL MODELS[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — Definitions[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 1 — Definitions[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -787,7 +787,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 222 — Materiality](section-article-222.md)
 
-##### SECTION 2 — Use test[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 2 — Use test[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -799,7 +799,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 226 — Support of decision-making and integration with risk management](section-article-226.md)
 - [Section Article 227 — Simplified calculation](section-article-227.md)
 
-##### SECTION 3 — Statistical quality standards[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 3 — Statistical quality standards[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -816,7 +816,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 236 — Future management actions](section-article-236.md)
 - [Section Article 237 — Understanding of external models and data](section-article-237.md)
 
-##### SECTION 4 — Calibration standards[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 4 — Calibration standards[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -824,7 +824,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 238](section-article-238.md)
 
-##### SECTION 5 — Integration of partial internal models[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 5 — Integration of partial internal models[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -832,7 +832,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 239](section-article-239.md)
 
-##### SECTION 6 — Profit and loss attribution[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 6 — Profit and loss attribution[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -840,7 +840,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 240](section-article-240.md)
 
-##### SECTION 7 — Validation standards[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 7 — Validation standards[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -849,7 +849,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 241 — Model validation process](section-article-241.md)
 - [Section Article 242 — Validation tools](section-article-242.md)
 
-##### SECTION 8 — Documentation standards[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 8 — Documentation standards[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -860,7 +860,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 245 — Circumstances under which the internal model does not work effectively](section-article-245.md)
 - [Section Article 246 — Changes to the internal model](section-article-246.md)
 
-##### SECTION 9 — External models and data[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 9 — External models and data[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -868,7 +868,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 247](section-article-247.md)
 
-#### CHAPTER VII — MINIMUM CAPITAL REQUIREMENT[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER VII — MINIMUM CAPITAL REQUIREMENT[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -881,7 +881,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 252 — Minimum Capital Requirement: composite insurance undertakings](section-article-252.md)
 - [Section Article 253 — Absolute floor of the Minimum Capital Requirement](section-article-253.md)
 
-#### CHAPTER VIII — INVESTMENTS IN SECURITISATION POSITIONS[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER VIII — INVESTMENTS IN SECURITISATION POSITIONS[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -892,13 +892,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 256 — Qualitative requirements relating to insurance and reinsurance undertakings](section-article-256.md)
 - [Section Article 257 — Requirements for investments in securitisation that no longer comply with the risk-retention and qualitative requirements](section-article-257.md)
 
-#### CHAPTER IX — SYSTEM OF GOVERNANCE[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER IX — SYSTEM OF GOVERNANCE[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — Elements of the system of governance[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 1 — Elements of the system of governance[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -916,7 +916,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 266 — Internal control system](section-article-266.md)
 - [Section Article 267 — Internal control of valuation of assets and liabilities](section-article-267.md)
 
-##### SECTION 2 — Functions[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 2 — Functions[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -928,7 +928,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 271 — Internal audit function](section-article-271.md)
 - [Section Article 272 — Actuarial function](section-article-272.md)
 
-##### SECTION 3 — Fit and proper requirements[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 3 — Fit and proper requirements[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -936,7 +936,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 273](section-article-273.md)
 
-##### SECTION 4 — Outsourcing[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 4 — Outsourcing[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -944,7 +944,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 274](section-article-274.md)
 
-##### SECTION 5 — Remuneration policy[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 5 — Remuneration policy[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -952,13 +952,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 275](section-article-275.md)
 
-#### CHAPTER X — CAPITAL ADD-ON[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER X — CAPITAL ADD-ON[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — Circumstances for imposing a capital add-on[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 1 — Circumstances for imposing a capital add-on[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -971,7 +971,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 280 — Assessment of the requirement to use an internal model](section-article-280.md)
 - [Section Article 281 — Appropriate timeframe for adapting the internal model](section-article-281.md)
 
-##### SECTION 2 — Methodologies for calculating capital add-ons[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 2 — Methodologies for calculating capital add-ons[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -984,7 +984,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 286 — Calculation of add-ons in relation to deviations from governance standards](section-article-286.md)
 - [Section Article 287 — Apportionment of add-ons for undertakings which simultaneously pursue life and non-life insurance activities](section-article-287.md)
 
-#### CHAPTER XI — EXTENSION OF THE RECOVERY PERIOD[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER XI — EXTENSION OF THE RECOVERY PERIOD[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -993,13 +993,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 288 — Assessment of exceptional adverse situations](section-article-288.md)
 - [Section Article 289 — Factors and criteria to determine the extension of the recovery period](section-article-289.md)
 
-#### CHAPTER XII — PUBLIC DISCLOSURE[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER XII — PUBLIC DISCLOSURE[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — Solvency and financial condition report: structure and contents[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 1 — Solvency and financial condition report: structure and contents[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1015,7 +1015,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 297 — Capital management](section-article-297.md)
 - [Section Article 298 — Additional voluntary information](section-article-298.md)
 
-##### SECTION 2 — Solvency and financial condition report: non-disclosure of information[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 2 — Solvency and financial condition report: non-disclosure of information[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1023,7 +1023,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 299](section-article-299.md)
 
-##### SECTION 3 — Solvency and financial condition report: deadlines, means of disclosure and updates[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 3 — Solvency and financial condition report: deadlines, means of disclosure and updates[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1034,13 +1034,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 302 — Updates](section-article-302.md)
 - [Section Article 303 — Transitional arrangements on comparative information](section-article-303.md)
 
-#### CHAPTER XIII — REGULAR SUPERVISORY REPORTING[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER XIII — REGULAR SUPERVISORY REPORTING[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — Elements and contents[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 1 — Elements and contents[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1055,7 +1055,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 310 — Valuation for solvency purposes](section-article-310.md)
 - [Section Article 311 — Capital management](section-article-311.md)
 
-##### SECTION 2 — Deadlines and means of communication[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 2 — Deadlines and means of communication[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1065,7 +1065,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 313 — Means of communication](section-article-313.md)
 - [Section Article 314 — Transitional information requirements](section-article-314.md)
 
-#### CHAPTER XIV — TRANSPARENCY AND ACCOUNTABILITY OF SUPERVISORY AUTHORITIES[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER XIV — TRANSPARENCY AND ACCOUNTABILITY OF SUPERVISORY AUTHORITIES[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1075,13 +1075,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 316 — Aggregate statistical data](section-article-316.md)
 - [Section Article 317 — Means of disclosure](section-article-317.md)
 
-#### CHAPTER XV — SPECIAL PURPOSE VEHICLES[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER XV — SPECIAL PURPOSE VEHICLES[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — Authorization[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 1 — Authorization[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1089,7 +1089,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 318](section-article-318.md)
 
-##### SECTION 2 — Mandatory contract conditions[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 2 — Mandatory contract conditions[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1099,7 +1099,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 320 — Effective transfer of risk](section-article-320.md)
 - [Section Article 321 — Rights of the providers of debt or financing mechanisms](section-article-321.md)
 
-##### SECTION 3 — System of governance[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 3 — System of governance[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1109,7 +1109,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 323 — Fit and proper requirements for shareholders or members with a qualifying holding](section-article-323.md)
 - [Section Article 324 — Sound administrative and accounting procedures, adequate internal control mechanisms and risk-management requirements](section-article-324.md)
 
-##### SECTION 4 — Supervisory reporting[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 4 — Supervisory reporting[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1117,7 +1117,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 325 — Supervisory reporting](section-article-325.md)
 
-##### SECTION 5 — Solvency requirements[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 5 — Solvency requirements[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1126,19 +1126,19 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 326 — Solvency requirements](section-article-326.md)
 - [Section Article 327 — Solvency requirements on investments](section-article-327.md)
 
-### TITLE II — INSURANCE GROUPS[^key-d47e1c724c465df0decb570554654b62]
+### TITLE II — INSURANCE GROUPS[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — SOLVENCY CALCULATION AT GROUP LEVEL[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER I — SOLVENCY CALCULATION AT GROUP LEVEL[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — Group solvency: choice of calculation method and general principles[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 1 — Group solvency: choice of calculation method and general principles[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1148,7 +1148,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 329 — Treatment of specific related undertakings](section-article-329.md)
 - [Section Article 330 — Availability at group level of the eligible own funds of related undertakings](section-article-330.md)
 
-##### SECTION 2 — Group solvency: calculation methods[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 2 — Group solvency: calculation methods[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1167,13 +1167,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 341 — Combination of methods 1 and 2: minimum consolidated group Solvency Capital Requirement](section-article-341.md)
 - [Section Article 342 — Method 2: Elimination of intra-group creation of capital in relation to the best estimate](section-article-342.md)
 
-#### CHAPTER II — INTERNAL MODELS FOR THE CALCULATION OF THE CONSOLIDATED GROUP SOLVENCY CAPITAL REQUIREMENT[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER II — INTERNAL MODELS FOR THE CALCULATION OF THE CONSOLIDATED GROUP SOLVENCY CAPITAL REQUIREMENT[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — Full and partial internal models used to calculate only the group solvency capital requirement[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 1 — Full and partial internal models used to calculate only the group solvency capital requirement[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1184,7 +1184,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 345 — Decision on the application and transitional plan to extend the scope of a partial internal model used to calculate only the consolidated group Solvency Capital Requirement](section-article-345.md)
 - [Section Article 346 — Use test for internal models used to calculate only the consolidated group Solvency Capital Requirement](section-article-346.md)
 
-##### SECTION 2 — Use of a group internal model[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 2 — Use of a group internal model[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1195,7 +1195,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 349 — Decision on the application and transitional plan to extend the scope of the model](section-article-349.md)
 - [Section Article 350 — Use test for group internal models](section-article-350.md)
 
-#### CHAPTER III — SUPERVISION OF GROUP SOLVENCY FOR GROUPS WITH CENTRALISED RISK MANAGEMENT[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER III — SUPERVISION OF GROUP SOLVENCY FOR GROUPS WITH CENTRALISED RISK MANAGEMENT[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1205,13 +1205,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 352 — Assessment of conditions: procedures](section-article-352.md)
 - [Section Article 353 — Assessment of an emergency situation: criteria](section-article-353.md)
 
-#### CHAPTER IV — COORDINATION OF GROUP SUPERVISION[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER IV — COORDINATION OF GROUP SUPERVISION[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — Group specific parameters[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 1 — Group specific parameters[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1221,7 +1221,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 355 — Coordination arrangements](section-article-355.md)
 - [Section Article 356 — Supervisory approval of group-specific parameters](section-article-356.md)
 
-##### SECTION 2 — Exchange of information[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 2 — Exchange of information[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1229,7 +1229,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 357 — Information to be exchanged on a systematic basis](section-article-357.md)
 
-##### SECTION 3 — National or regional subgroup supervision[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 3 — National or regional subgroup supervision[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1237,13 +1237,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 - [Section Article 358](section-article-358.md)
 
-#### CHAPTER V — PUBLIC DISCLOSURE[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER V — PUBLIC DISCLOSURE[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — Group solvency and financial condition report[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 1 — Group solvency and financial condition report[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1256,7 +1256,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 363 — Updates](section-article-363.md)
 - [Section Article 364 — Transitional arrangements on comparative information](section-article-364.md)
 
-##### SECTION 2 — Single solvency and financial condition report[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 2 — Single solvency and financial condition report[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1270,13 +1270,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 370 — Reference](section-article-370.md)
 - [Section Article 371 — Transitional arrangements on comparative information](section-article-371.md)
 
-#### CHAPTER VI — GROUP SUPERVISORY REPORTING[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER VI — GROUP SUPERVISORY REPORTING[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — Regular reporting[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 1 — Regular reporting[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1287,7 +1287,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 374 — Languages](section-article-374.md)
 - [Section Article 375 — Additional transitional information on groups](section-article-375.md)
 
-##### SECTION 2 — Reporting on risk concentrations and intragroup transactions[^key-d47e1c724c465df0decb570554654b62]
+##### SECTION 2 — Reporting on risk concentrations and intragroup transactions[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1296,13 +1296,13 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 376 — Significant risk concentrations (definition, identification and thresholds)](section-article-376.md)
 - [Section Article 377 — Significant intragroup transactions (definition, identification)](section-article-377.md)
 
-### TITLE III — THIRD COUNTRY EEQUIVALENCE AND FINAL PROVISIONS[^key-d47e1c724c465df0decb570554654b62]
+### TITLE III — THIRD COUNTRY EEQUIVALENCE AND FINAL PROVISIONS[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — UNDERTAKINGS CARRYING OUT REINSURANCE ACTIVITIES WITH THEIR HEAD OFFICE IN A THIRD COUNTRY[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER I — UNDERTAKINGS CARRYING OUT REINSURANCE ACTIVITIES WITH THEIR HEAD OFFICE IN A THIRD COUNTRY[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1313,7 +1313,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 378A](section-article-378a.md)
 - [Section Article 378B](section-article-378b.md)
 
-#### CHAPTER II — RELATED THIRD COUNTRY INSURANCE AND REINSURANCE UNDERTAKINGS[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER II — RELATED THIRD COUNTRY INSURANCE AND REINSURANCE UNDERTAKINGS[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1322,7 +1322,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 379 — Criteria for assessing third country equivalence](section-article-379.md)
 - [Section Article 379A](section-article-379a.md)
 
-#### CHAPTER III — INSURANCE AND REINSURANCE UNDERTAKINGS WITH THE PARENT UNDERTAKINGS OUTSIDE THE UNION[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER III — INSURANCE AND REINSURANCE UNDERTAKINGS WITH THE PARENT UNDERTAKINGS OUTSIDE THE UNION[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1331,7 +1331,7 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 - [Section Article 380 — Criteria for assessing third country equivalence](section-article-380.md)
 - [Section Article 380A](section-article-380a.md)
 
-#### CHAPTER IV — FINAL PROVISIONS[^key-d47e1c724c465df0decb570554654b62]
+#### CHAPTER IV — FINAL PROVISIONS[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1371,8 +1371,8 @@ supplementing Directive 2009/138/EC of the European Parliament and of the Counci
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d47e1c724c465df0decb570554654b62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d47e1c724c465df0decb570554654b62]: Textual amendment: Regulation revoked (30.6.2024 for the revocation of Arts. 52-54; 31.12.2024 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 5(c)(i)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/5/c/i); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))
+[^c-d47e1c724c465df0decb570554654b62]: Textual amendment: Regulation revoked (30.6.2024 for the revocation of Arts. 52-54; 31.12.2024 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 5(c)(i)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/5/c/i); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))

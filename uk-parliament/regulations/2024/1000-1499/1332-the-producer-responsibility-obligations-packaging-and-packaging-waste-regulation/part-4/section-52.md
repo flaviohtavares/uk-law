@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Determination of application for compliance scheme registration[^key-454f92056964c9b642ef08b6701c2cd0]
+## 52. Determination of application for compliance scheme registration[^c-454f92056964c9b642ef08b6701c2cd0]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ and must otherwise be refused.
 
 ## Annotations
 
-[^key-454f92056964c9b642ef08b6701c2cd0]: Commencement: Reg. 52 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-454f92056964c9b642ef08b6701c2cd0]: Commencement: Reg. 52 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

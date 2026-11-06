@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Subject to paragraphs (2) and (3) \[[^key-2448b0cbd6f160ce5a7a992f77859e89], and rule 8.65\], there shall be lodged with every application for a consent order under any \[[^f00218] Articles 25, 26, 26A)\] \[[^f00219],26D\] or 29 of the Order of 1978 \[[^f00216]or Parts 1, 2, 3 \[[^f00219], 3A\] and 8 of Schedule 15 to the Act of 2004\], a draft of the order in the terms sought, endorsed with a statement signed by the respondent to the application signifying his agreement, and a statement of information which may be made in more than one document and shall include:
+(1) Subject to paragraphs (2) and (3) \[[^c-2448b0cbd6f160ce5a7a992f77859e89], and rule 8.65\], there shall be lodged with every application for a consent order under any \[[^f00218] Articles 25, 26, 26A)\] \[[^f00219],26D\] or 29 of the Order of 1978 \[[^f00216]or Parts 1, 2, 3 \[[^f00219], 3A\] and 8 of Schedule 15 to the Act of 2004\], a draft of the order in the terms sought, endorsed with a statement signed by the respondent to the application signifying his agreement, and a statement of information which may be made in more than one document and shall include:
 
 - (a) particulars of the duration of the marriage \[[^f00216] or civil partnership\], the age of each party and of any minor or dependant child of the family;
 - (b) an estimate in summary form of the approximate amount or value of the capital resources and net income of each party and of any minor child of the family;
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2448b0cbd6f160ce5a7a992f77859e89]: Textual amendment: Words in [rule 2.72(1)](https://www.legislation.gov.uk/nisr/1996/322/article/2.72/1) inserted (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2011/64/article/2/3)
+[^c-2448b0cbd6f160ce5a7a992f77859e89]: Textual amendment: Words in [rule 2.72(1)](https://www.legislation.gov.uk/nisr/1996/322/article/2.72/1) inserted (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2011/64/article/2/3)
 
 [^f00218]: Footnote: Words substituted by [S.R. 2000 No. 329](https://www.legislation.gov.uk/nisr/2000/329) with effect from 1.12.00
 

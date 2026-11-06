@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 197. Partnership agreements and statements[^key-845a6162f00c0dd736d933e91bf9601a]
+## 197. Partnership agreements and statements[^c-845a6162f00c0dd736d933e91bf9601a]
 
 *Extent: E+W*
 
-(1) The National Assembly for Wales may by regulations require any local authority[^key-379c0a8ab791aad4cda0b42dbea5f020] in Wales to enter into a partnership agreement with the governing body of each school maintained by that authority, or each such school of a prescribed class.
+(1) The National Assembly for Wales may by regulations require any local authority[^c-379c0a8ab791aad4cda0b42dbea5f020] in Wales to enter into a partnership agreement with the governing body of each school maintained by that authority, or each such school of a prescribed class.
 
 (2) For the purposes of this section, a partnership agreement is an agreement about how a local authority and the governing body of a school are to discharge their respective functions in relation to the school as regards—
 
@@ -57,6 +57,6 @@ must have regard to any partnership agreement or statement under this section wh
 
 ## Annotations
 
-[^key-845a6162f00c0dd736d933e91bf9601a]: Commencement: S. 197 in force at 1.9.2003 by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-845a6162f00c0dd736d933e91bf9601a]: Commencement: S. 197 in force at 1.9.2003 by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Power to acquire new rights[^key-745ceb3f3df65a504e422d0f4ed8e5b4]
+## 19. Power to acquire new rights[^c-745ceb3f3df65a504e422d0f4ed8e5b4]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-745ceb3f3df65a504e422d0f4ed8e5b4]: Commencement: Art. 19 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-745ceb3f3df65a504e422d0f4ed8e5b4]: Commencement: Art. 19 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

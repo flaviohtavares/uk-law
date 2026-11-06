@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Single source contract regulations: time limits and determinations[^key-283f02091c9e6e265edcf2e4bf7da2a9]
+## 41. Single source contract regulations: time limits and determinations[^c-283f02091c9e6e265edcf2e4bf7da2a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-283f02091c9e6e265edcf2e4bf7da2a9]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2014/20/section/41) in force at 14.7.2014 by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/1751/article/3/e)
+[^c-283f02091c9e6e265edcf2e4bf7da2a9]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2014/20/section/41) in force at 14.7.2014 by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/1751/article/3/e)

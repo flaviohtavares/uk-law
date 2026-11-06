@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Politically exposed persons: money laundering and terrorist financing[^key-11d7ba0dbf853a89fda2ca84606f6407]
+## 77. Politically exposed persons: money laundering and terrorist financing[^c-11d7ba0dbf853a89fda2ca84606f6407]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11d7ba0dbf853a89fda2ca84606f6407]: Commencement: S. 77 in force at Royal Assent, see [s. 86(1)(f)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/f)
+[^c-11d7ba0dbf853a89fda2ca84606f6407]: Commencement: S. 77 in force at Royal Assent, see [s. 86(1)(f)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/f)

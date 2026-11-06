@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Duties on persons responsible for farmed animals[^key-97526f35f4f4e4c54e934686eb4f7c9d]
+## 4. Duties on persons responsible for farmed animals[^c-97526f35f4f4e4c54e934686eb4f7c9d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97526f35f4f4e4c54e934686eb4f7c9d]: Commencement: Reg. 4 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-97526f35f4f4e4c54e934686eb4f7c9d]: Commencement: Reg. 4 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)

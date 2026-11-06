@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by sections 134(1) and (3) and 136 (3)of the Social Services and Well-being (Wales) Act 2014, and after consulting the Safeguarding Board partners for an area in accordance with section 134(3)of that Act [^f00001], make the following Regulations:
 
-## 1. Title, Commencement and Application[^key-d8e67ef62c6eaaed07c7b98ce47930b0]
+## 1. Title, Commencement and Application[^c-d8e67ef62c6eaaed07c7b98ce47930b0]
 
 (1) The title of these Regulations is the Safeguarding Boards (General) (Wales) Regulations 2015.
 
@@ -53,7 +53,7 @@ The Welsh Ministers, in exercise of the powers conferred by sections 134(1) and 
 
 (3) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-2d79331090bfe36771729dc22478f707]
+## 2. Interpretation[^c-2d79331090bfe36771729dc22478f707]
 
 In these Regulations—
 
@@ -65,17 +65,17 @@ In these Regulations—
 - “Safeguarding Board” (“*Bwrdd Diogelu*”) means a Safeguarding Children Board[^f00002] or a Safeguarding Adults Board[^f00003];
 - “Safeguarding Board partner” (“*partner Bwrdd Diogelu*”) is to be construed in accordance with section 134(2) and section 134(6)(b) of the Act.
 
-## 3. Safeguarding Board Areas[^key-931182fc6400e4700406f6e9377cb7a6]
+## 3. Safeguarding Board Areas[^c-931182fc6400e4700406f6e9377cb7a6]
 
 The areas in Wales for which there are to be Safeguarding Boards are the principal local government areas set out in column 2 of the table set out in Schedule 1, designated by the name opposite in column 1.
 
-## 4. Lead Partners[^key-724137c18c8d0a11ab5a54e916e202da]
+## 4. Lead Partners[^c-724137c18c8d0a11ab5a54e916e202da]
 
 (1) The Welsh Ministers specify the Safeguarding Board partner shown in column 2 of the table set out in Schedule 2 as the lead partner in relation to children for the area shown opposite in column 1.
 
 (2) The Welsh Ministers specify the Safeguarding Board partner shown in column 3 of the table set out in Schedule 2 as the lead partner in relation to adults for the area shown opposite in column 1.
 
-## 5. Annual plans[^key-895c70e75aceedb5422a0e5b9ea02361]
+## 5. Annual plans[^c-895c70e75aceedb5422a0e5b9ea02361]
 
 A Safeguarding Board’s annual plan must include the following information —
 
@@ -86,13 +86,13 @@ A Safeguarding Board’s annual plan must include the following information —
 - (e) a description of how the Safeguarding Board proposes to collaborate with other persons or bodies engaged in activities relating to its objectives*;*
 - (f) when and how the Safeguarding Board will give children and adults who are, or may be, affected by the exercise of its functions, the opportunity to participate in its work.
 
-## 6. Annual reports[^key-e3548947cea1601b76fc34a18b16647d]
+## 6. Annual reports[^c-e3548947cea1601b76fc34a18b16647d]
 
 (1) A Safeguarding Board’s annual report must include the information set out in Schedule 3
 
 (2) As far as practicable the report is to follow the form of the Safeguarding Board‘s most recent annual plan.
 
-## 7. Publication of annual plans and annual reports[^key-7fc2b8d70987f3be847987860e5e14d8]
+## 7. Publication of annual plans and annual reports[^c-7fc2b8d70987f3be847987860e5e14d8]
 
 A Safeguarding Board must—
 
@@ -106,37 +106,37 @@ Minister for Health and Social Services, one of the Welsh Ministers
 
 4 June 2015
 
-## SCHEDULE 1 — Safeguarding Board Areas[^key-f8e37f06e9624c5db7a0017ec203ceac]
+## SCHEDULE 1 — Safeguarding Board Areas[^c-f8e37f06e9624c5db7a0017ec203ceac]
 
 Regulation 3
 
 | Name of Safeguarding Board area | Extent of Safeguarding Board Area |
 | --- | --- |
 | Cardiff and Vale | principal local government areas of —<br>- Cardiff City and County Council and<br>- Vale of Glamorgan Council; |
-| Cwm Taf Morgannwg[^key-51902046924c720bd067835ed2a591cd] | principal local government areas of —<br>- Bridgend County Borough Council,[^key-729897d6eebd01793b25540770476424]<br>- Merthyr Tydfil County Borough Council and<br>- Rhondda Cynon Taf County Borough Council; |
+| Cwm Taf Morgannwg[^c-51902046924c720bd067835ed2a591cd] | principal local government areas of —<br>- Bridgend County Borough Council,[^c-729897d6eebd01793b25540770476424]<br>- Merthyr Tydfil County Borough Council and<br>- Rhondda Cynon Taf County Borough Council; |
 | Gwent | principal local government areas of —<br>- Blaenau Gwent County Borough Council,<br>- Caerphilly County Borough Council,<br>- Monmouthshire County Council,<br>- Newport City Council, and<br>- Torfaen County Borough Council; |
 | Mid and West Wales | principal local government areas of—<br>- Carmarthenshire County Council,<br>- Ceredigion County Council,<br>- Pembrokeshire County Council and<br>- Powys County Council; |
 | North Wales | principal local government areas of—<br>- Conwy County Borough Council,<br>- Denbighshire County Council,<br>- Flintshire County Council,<br>- Gwynedd County Council,<br>- Isle of Anglesey County Council, and<br>- Wrexham County Borough Council; |
-| West Glamorgan[^key-6cab2cb1a3e0a9996693d9d284db476b] | principal local government areas of —<br>- [^key-4fe966de47f006daaee03531b615eea6]...<br>- Swansea City and County Council<br>- Neath Port Talbot County Borough Council; |
+| West Glamorgan[^c-6cab2cb1a3e0a9996693d9d284db476b] | principal local government areas of —<br>- [^c-4fe966de47f006daaee03531b615eea6]...<br>- Swansea City and County Council<br>- Neath Port Talbot County Borough Council; |
 
-## SCHEDULE 2 — Lead Partners[^key-acceef7364be38fd6266974ee2f40010]
+## SCHEDULE 2 — Lead Partners[^c-acceef7364be38fd6266974ee2f40010]
 
 Regulation 4
 
 | Safeguarding Board Area | Lead partner in relation to children for the area | Lead partner in relation to adults for the area |
 | --- | --- | --- |
 | Cardiff and Vale | Vale of Glamorgan Council | Cardiff City and County Council |
-| Cwm Taf Morgannwg[^key-97c9ef7ab3d903e2a0c3776f07dc97fc] | Rhondda Cynon Taf County Borough Council | Rhondda Cynon Taf County Borough Council |
+| Cwm Taf Morgannwg[^c-97c9ef7ab3d903e2a0c3776f07dc97fc] | Rhondda Cynon Taf County Borough Council | Rhondda Cynon Taf County Borough Council |
 | Gwent | Caerphilly County Borough Council | Caerphilly County Borough Council |
 | Mid and West Wales | Pembrokeshire County Council | Carmarthenshire County Council |
-| North Wales | Denbighshire County Council[^key-d10bec23c1b231b4c1148ef3a7d8947c] | Denbighshire County Council |
-| West Glamorgan[^key-32a509076dbec52e0c319026afb41358] | Neath Port Talbot County Borough Council | Neath Port Talbot County Borough Council |
+| North Wales | Denbighshire County Council[^c-d10bec23c1b231b4c1148ef3a7d8947c] | Denbighshire County Council |
+| West Glamorgan[^c-32a509076dbec52e0c319026afb41358] | Neath Port Talbot County Borough Council | Neath Port Talbot County Borough Council |
 
-## SCHEDULE 3 — Content of Annual Report[^key-9a3d4f7a943ffc015b784cfac0a88628]
+## SCHEDULE 3 — Content of Annual Report[^c-9a3d4f7a943ffc015b784cfac0a88628]
 
 Regulation 6(1)
 
-[^key-9a3d4f7a943ffc015b784cfac0a88628]
+[^c-9a3d4f7a943ffc015b784cfac0a88628]
 
 A Safeguarding Board’s annual report must include the following information.—
 
@@ -177,40 +177,40 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4).
 
-[^key-d8e67ef62c6eaaed07c7b98ce47930b0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
+[^c-d8e67ef62c6eaaed07c7b98ce47930b0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
 
-[^key-2d79331090bfe36771729dc22478f707]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1357/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
+[^c-2d79331090bfe36771729dc22478f707]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1357/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
 
 [^f00002]: Footnote: Safeguarding Children Boards are established by the Safeguarding Board lead partner in relation to children for the area in accordance with section 134(4) of the Social Services and Well-being (Wales) Act 2014 (“the Act”).
 
 [^f00003]: Footnote: Safeguarding Adults Boards are established by the lead partner in relation to adults in accordance with section 134(5) of the Act.
 
-[^key-931182fc6400e4700406f6e9377cb7a6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1357/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
+[^c-931182fc6400e4700406f6e9377cb7a6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1357/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
 
-[^key-724137c18c8d0a11ab5a54e916e202da]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1357/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
+[^c-724137c18c8d0a11ab5a54e916e202da]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1357/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
 
-[^key-895c70e75aceedb5422a0e5b9ea02361]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1357/regulation/5) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
+[^c-895c70e75aceedb5422a0e5b9ea02361]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1357/regulation/5) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
 
-[^key-e3548947cea1601b76fc34a18b16647d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1357/regulation/6) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
+[^c-e3548947cea1601b76fc34a18b16647d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1357/regulation/6) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
 
-[^key-7fc2b8d70987f3be847987860e5e14d8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1357/regulation/7) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
+[^c-7fc2b8d70987f3be847987860e5e14d8]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1357/regulation/7) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
 
-[^key-f8e37f06e9624c5db7a0017ec203ceac]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2015/1357/schedule/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
+[^c-f8e37f06e9624c5db7a0017ec203ceac]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2015/1357/schedule/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
 
-[^key-51902046924c720bd067835ed2a591cd]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2015/1357/schedule/1) table substituted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/uksi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/349/article/1/1), [10(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/349/article/10/2/a/i)
+[^c-51902046924c720bd067835ed2a591cd]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2015/1357/schedule/1) table substituted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/uksi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/349/article/1/1), [10(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/349/article/10/2/a/i)
 
-[^key-729897d6eebd01793b25540770476424]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2015/1357/schedule/1) table inserted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/uksi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/349/article/1/1), [10(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/349/article/10/2/b/i)
+[^c-729897d6eebd01793b25540770476424]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2015/1357/schedule/1) table inserted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/uksi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/349/article/1/1), [10(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/349/article/10/2/b/i)
 
-[^key-6cab2cb1a3e0a9996693d9d284db476b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2015/1357/schedule/1) table substituted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/uksi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/349/article/1/1), [10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/349/article/10/2/a/ii)
+[^c-6cab2cb1a3e0a9996693d9d284db476b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2015/1357/schedule/1) table substituted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/uksi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/349/article/1/1), [10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/349/article/10/2/a/ii)
 
-[^key-4fe966de47f006daaee03531b615eea6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2015/1357/schedule/1) table omitted (1.4.2019) by virtue of [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/uksi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/349/article/1/1), [10(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/349/article/10/2/b/ii)
+[^c-4fe966de47f006daaee03531b615eea6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2015/1357/schedule/1) table omitted (1.4.2019) by virtue of [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/uksi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/349/article/1/1), [10(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/349/article/10/2/b/ii)
 
-[^key-acceef7364be38fd6266974ee2f40010]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1357/schedule/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
+[^c-acceef7364be38fd6266974ee2f40010]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1357/schedule/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
 
-[^key-97c9ef7ab3d903e2a0c3776f07dc97fc]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1357/schedule/2) table substituted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [10(3)(a)](https://www.legislation.gov.uk/wsi/2019/349/article/10/3/a)
+[^c-97c9ef7ab3d903e2a0c3776f07dc97fc]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1357/schedule/2) table substituted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [10(3)(a)](https://www.legislation.gov.uk/wsi/2019/349/article/10/3/a)
 
-[^key-d10bec23c1b231b4c1148ef3a7d8947c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1357/schedule/2) table substituted (25.5.2018) by [The Safeguarding Boards (General) (Wales) (Amendment) Regulations 2018 (S.I. 2018/494)](https://www.legislation.gov.uk/uksi/2018/494), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/494/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2018/494/regulation/2)
+[^c-d10bec23c1b231b4c1148ef3a7d8947c]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1357/schedule/2) table substituted (25.5.2018) by [The Safeguarding Boards (General) (Wales) (Amendment) Regulations 2018 (S.I. 2018/494)](https://www.legislation.gov.uk/uksi/2018/494), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/494/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2018/494/regulation/2)
 
-[^key-32a509076dbec52e0c319026afb41358]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1357/schedule/2) table substituted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [10(3)(b)](https://www.legislation.gov.uk/wsi/2019/349/article/10/3/b)
+[^c-32a509076dbec52e0c319026afb41358]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/wsi/2015/1357/schedule/2) table substituted (1.4.2019) by [The Local Health Boards (Area Change) (Wales) (Miscellaneous Amendments) Order 2019 (S.I. 2019/349)](https://www.legislation.gov.uk/wsi/2019/349), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2019/349/article/1/1), [10(3)(b)](https://www.legislation.gov.uk/wsi/2019/349/article/10/3/b)
 
-[^key-9a3d4f7a943ffc015b784cfac0a88628]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2015/1357/schedule/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)
+[^c-9a3d4f7a943ffc015b784cfac0a88628]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2015/1357/schedule/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1357/regulation/1/2)

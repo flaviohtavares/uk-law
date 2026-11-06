@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. New issues in uncertificated form[^key-c5df2ca1f5ac988b50c78a9f9a5eedf1]
+## 34. New issues in uncertificated form[^c-c5df2ca1f5ac988b50c78a9f9a5eedf1]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5df2ca1f5ac988b50c78a9f9a5eedf1]: Commencement: Reg. 34 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-c5df2ca1f5ac988b50c78a9f9a5eedf1]: Commencement: Reg. 34 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

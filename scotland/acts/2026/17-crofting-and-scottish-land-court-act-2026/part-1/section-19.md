@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Commission decision-making on decrofting applications[^key-786512ade44e5d9d490deff5c8ff09a6]
+## 19. Commission decision-making on decrofting applications[^c-786512ade44e5d9d490deff5c8ff09a6]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-786512ade44e5d9d490deff5c8ff09a6]: Commencement: S. 19 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-786512ade44e5d9d490deff5c8ff09a6]: Commencement: S. 19 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

@@ -39,9 +39,9 @@ An Act to make such provisions as are necessary to enable the Anglo-Portuguese C
 
 The description “port” or “madeira” applied to any wine or other liquor, other than wine the produce of Portugal and the island of Madeira respectively, shall be deemed to be a false trade description within the meaning of the[^c580157] [^c580158]Trade Descriptions Act 1968, and that Act shall have effect accordingly:
 
-[^key-fdb2bcf6612eae82741596895fe24750]...
+[^c-fdb2bcf6612eae82741596895fe24750]...
 
-- (a)[^key-fdb2bcf6612eae82741596895fe24750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-fdb2bcf6612eae82741596895fe24750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c580159]
 
 ## 2. Short title.
@@ -208,6 +208,6 @@ The plenipotentiary of His Britannic Majesty on signing the treaty declares that
 
 [^c580158]: Marginal citation: [1968 c. 29](https://www.legislation.gov.uk/ukpga/1968/29).
 
-[^key-fdb2bcf6612eae82741596895fe24750]: Textual amendment: Words in s. 1 repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-fdb2bcf6612eae82741596895fe24750]: Textual amendment: Words in s. 1 repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
 [^c580159]: Textual amendment: S.1(*b*):proviso (*b*) and the word “or” immediately preceding that proviso repealed by [Statute Law (Repeals) Act 1975 (c. 10)](https://www.legislation.gov.uk/ukpga/1975/10), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1975/10/section/1/1), [Sch. Pt. XIII](https://www.legislation.gov.uk/ukpga/1975/10/schedule/part/XIII)

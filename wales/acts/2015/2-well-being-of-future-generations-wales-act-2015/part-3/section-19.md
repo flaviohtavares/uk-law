@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Commissioner's functions[^key-ec5d805fe7d96e18022ae347f91988aa]
+## 19. Commissioner's functions[^c-ec5d805fe7d96e18022ae347f91988aa]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec5d805fe7d96e18022ae347f91988aa]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2015/2/section/19) in force at 1.2.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 2](https://www.legislation.gov.uk/wsi/2016/86/article/2)
+[^c-ec5d805fe7d96e18022ae347f91988aa]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2015/2/section/19) in force at 1.2.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 2](https://www.legislation.gov.uk/wsi/2016/86/article/2)

@@ -32,7 +32,7 @@ Section 10
 - (b) requirements that must be met for the grant of a licence;
 - (c) particulars of the terms, provisions and limitations to which a licence may be made subject.
 
-(3)[^key-51c3ec145a77770dd32876ddc6924c31] The procedures must be—
+(3)[^c-51c3ec145a77770dd32876ddc6924c31] The procedures must be—
 
 - (a) open (except where sub-paragraph (4) applies);
 - (b) objective;
@@ -68,7 +68,7 @@ Section 10
 **4.** Where OFCOM propose to refuse a licence they must—
 
 - (a) give to the applicant the reasons for the proposed refusal;
-- (b) specify a period of not less than 30 days[^key-c1c2905eb236bc53a139e200fd8c2563] within which representations about the proposed refusal may be made.
+- (b) specify a period of not less than 30 days[^c-c1c2905eb236bc53a139e200fd8c2563] within which representations about the proposed refusal may be made.
 
 ### Duration
 
@@ -81,21 +81,21 @@ Section 10
 - (a) by a notice in writing given to the holder of the licence; or
 - (b) by a general notice applicable to licences of the class to which the licence belongs, published in such way as may be specified in the licence.
 
-**6A.**[^key-49084a0192d2fc27b36237fd4035ea08] OFCOM may not revoke or vary a wireless telegraphy licence unless the proposed revocation or variation is objectively justifiable.
+**6A.**[^c-49084a0192d2fc27b36237fd4035ea08] OFCOM may not revoke or vary a wireless telegraphy licence unless the proposed revocation or variation is objectively justifiable.
 
 ### Notification of proposed revocation or variation
 
 **7.** (1) Where OFCOM propose to revoke or vary a wireless telegraphy licence, they must give the person holding the licence a notification under this sub-paragraph—
 
 - (a) stating the reasons for the proposed revocation or variation; and
-- (b) specifying the period during which the person notified has an opportunity to make representations about the proposal[^key-593b4de54370cb7e4b715687a1cdca9a].
+- (b) specifying the period during which the person notified has an opportunity to make representations about the proposal[^c-593b4de54370cb7e4b715687a1cdca9a].
 
-(2)[^key-9d3804246e8a8497e2df552b4b901fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9d3804246e8a8497e2df552b4b901fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ba7bad269612112630e54eec1645fa0a] The period for making representations—
+(3)[^c-ba7bad269612112630e54eec1645fa0a] The period for making representations—
 
 - (a) if the proposal is the result of a contravention of a term, provision or limitation of a licence, is such period as OFCOM may specify; and
-- (b) in any other case, must be the period of 30 days[^key-8fab1b33f4cb2e3d70f32a7a96935e3f] beginning with the day after the one on which the notification was given (but this is subject to sub-paragraphs (4) to (6)).
+- (b) in any other case, must be the period of 30 days[^c-8fab1b33f4cb2e3d70f32a7a96935e3f] beginning with the day after the one on which the notification was given (but this is subject to sub-paragraphs (4) to (6)).
 
 (4) OFCOM may, if they think fit, allow a longer period for doing those things—
 
@@ -106,7 +106,7 @@ Section 10
 
 (6) The person notified also has a shorter period if—
 
-- (a) OFCOM have reasonable grounds for believing that the case is urgent [^key-0a035cb75de8f3b72ebdd883dd2b0e96]...;
+- (a) OFCOM have reasonable grounds for believing that the case is urgent [^c-0a035cb75de8f3b72ebdd883dd2b0e96]...;
 - (b) they have determined that, in the circumstances, a shorter period would be appropriate; and
 - (c) the shorter period has been specified in the notification.
 
@@ -117,25 +117,25 @@ Section 10
   - (i) use wireless telegraphy stations or wireless telegraphy apparatus; or
   - (ii) are communications providers or make associated facilities available.
 
-(8)[^key-bd2b26bb771ab225c744b5e263722290] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-bd2b26bb771ab225c744b5e263722290] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-c143701aa22b62d52d8aab544755e630] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-c143701aa22b62d52d8aab544755e630] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) Where OFCOM have given a notification under sub-paragraph (1), they must, within the period of one month beginning with the end of the period for the making of representations about the proposal contained in that notification—
 
-- (a) decide whether or not to revoke or vary the licence in accordance with their proposal, or in accordance with that proposal but with modifications; [^key-3c2feeaa02cd08c3fcb887ab986c48da]...
-- (b) give the person holding the licence a notification of their decision.;and[^key-c7953eda755a5835fda43ee968e767ae]
+- (a) decide whether or not to revoke or vary the licence in accordance with their proposal, or in accordance with that proposal but with modifications; [^c-3c2feeaa02cd08c3fcb887ab986c48da]...
+- (b) give the person holding the licence a notification of their decision.;and[^c-c7953eda755a5835fda43ee968e767ae]
 - (c) in the case of a variation of a wireless telegraphy licence extending the duration of the licence, publish the notification and the reasons for the decision.
 
 (11) The notification under sub-paragraph (10)—
 
-- (a) must be given no more than one week after the making of the decision to which it relates; [^key-71b9acd05eaf05863aa27e4564db2bc9]...
-- (aa)[^key-6c8472f792b4d502a7dcc685dd05cd91] must give reasons for the decision; and
+- (a) must be given no more than one week after the making of the decision to which it relates; [^c-71b9acd05eaf05863aa27e4564db2bc9]...
+- (aa)[^c-6c8472f792b4d502a7dcc685dd05cd91] must give reasons for the decision; and
 - (b) must, in accordance with that decision, either revoke or vary the licence or withdraw the proposal for a revocation or variation.
 
-(12) Nothing in this paragraph applies to a proposal to revoke or vary a licence if the proposal is made at the request or with the consent of the holder of the licence(but OFCOM must, where a proposal is made by or with the consent of the holder of the licence to vary a wireless telegraphy licence in order to extend the duration of the licence, publish the notification of their decision and the reasons for it)[^key-35e416ea5c60b90333c2dd7f862d6721].
+(12) Nothing in this paragraph applies to a proposal to revoke or vary a licence if the proposal is made at the request or with the consent of the holder of the licence(but OFCOM must, where a proposal is made by or with the consent of the holder of the licence to vary a wireless telegraphy licence in order to extend the duration of the licence, publish the notification of their decision and the reasons for it)[^c-35e416ea5c60b90333c2dd7f862d6721].
 
-(13)[^key-06f15c02105ce2e555000e1b601d05e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-06f15c02105ce2e555000e1b601d05e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Restriction on powers of revocation and variation
 
@@ -160,34 +160,34 @@ Section 10
 
 ## Annotations
 
-[^key-51c3ec145a77770dd32876ddc6924c31]: Textual amendment: Sch. 1 para. 1(3)(4) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/a) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-51c3ec145a77770dd32876ddc6924c31]: Textual amendment: Sch. 1 para. 1(3)(4) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/a) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-c1c2905eb236bc53a139e200fd8c2563]: Textual amendment: Words in [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/ukpga/2006/36/schedule/1/paragraph/4/b) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 90](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/90)
+[^c-c1c2905eb236bc53a139e200fd8c2563]: Textual amendment: Words in [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/ukpga/2006/36/schedule/1/paragraph/4/b) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 90](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/90)
 
-[^key-49084a0192d2fc27b36237fd4035ea08]: Textual amendment: [Sch. 1 para. 6A](https://www.legislation.gov.uk/ukpga/2006/36/schedule/1/paragraph/6A) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(b)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/b) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
+[^c-49084a0192d2fc27b36237fd4035ea08]: Textual amendment: [Sch. 1 para. 6A](https://www.legislation.gov.uk/ukpga/2006/36/schedule/1/paragraph/6A) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(b)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/b) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
 
-[^key-593b4de54370cb7e4b715687a1cdca9a]: Textual amendment: Words in Sch. 1 para. 7(1)(b) substituted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(c)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/c) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
+[^c-593b4de54370cb7e4b715687a1cdca9a]: Textual amendment: Words in Sch. 1 para. 7(1)(b) substituted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(c)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/c) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
 
-[^key-9d3804246e8a8497e2df552b4b901fa9]: Textual amendment: Sch. 1 para. 7(2) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(d)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/d) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
+[^c-9d3804246e8a8497e2df552b4b901fa9]: Textual amendment: Sch. 1 para. 7(2) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(d)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/d) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
 
-[^key-ba7bad269612112630e54eec1645fa0a]: Textual amendment: Sch. 1 para. 7(3) substituted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(e)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/e) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
+[^c-ba7bad269612112630e54eec1645fa0a]: Textual amendment: Sch. 1 para. 7(3) substituted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(e)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/e) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
 
-[^key-8fab1b33f4cb2e3d70f32a7a96935e3f]: Textual amendment: Words in [Sch. 1 para. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2006/36/schedule/1/paragraph/7/3/b) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 90](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/90)
+[^c-8fab1b33f4cb2e3d70f32a7a96935e3f]: Textual amendment: Words in [Sch. 1 para. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2006/36/schedule/1/paragraph/7/3/b) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 90](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/90)
 
-[^key-0a035cb75de8f3b72ebdd883dd2b0e96]: Textual amendment: Words in Sch. 1 para. 7(6)(a) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(f)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/f) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
+[^c-0a035cb75de8f3b72ebdd883dd2b0e96]: Textual amendment: Words in Sch. 1 para. 7(6)(a) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(f)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/f) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
 
-[^key-bd2b26bb771ab225c744b5e263722290]: Textual amendment: Sch. 1 para. 7(8) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(g)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/g) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
+[^c-bd2b26bb771ab225c744b5e263722290]: Textual amendment: Sch. 1 para. 7(8) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(g)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/g) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
 
-[^key-c143701aa22b62d52d8aab544755e630]: Textual amendment: Sch. 1 para. 7(9) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(g)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/g) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
+[^c-c143701aa22b62d52d8aab544755e630]: Textual amendment: Sch. 1 para. 7(9) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(g)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/g) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
 
-[^key-3c2feeaa02cd08c3fcb887ab986c48da]: Textual amendment: Word in Sch. 1 para. 7(10)(a) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(h)(i)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/h/i) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
+[^c-3c2feeaa02cd08c3fcb887ab986c48da]: Textual amendment: Word in Sch. 1 para. 7(10)(a) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(h)(i)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/h/i) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
 
-[^key-c7953eda755a5835fda43ee968e767ae]: Textual amendment: Sch. 1 para. 7(10)(c) and word inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(h)(ii)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/h/ii) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
+[^c-c7953eda755a5835fda43ee968e767ae]: Textual amendment: Sch. 1 para. 7(10)(c) and word inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(h)(ii)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/h/ii) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
 
-[^key-71b9acd05eaf05863aa27e4564db2bc9]: Textual amendment: Word in Sch. 1 para. 7(11)(a) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(i)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/i) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
+[^c-71b9acd05eaf05863aa27e4564db2bc9]: Textual amendment: Word in Sch. 1 para. 7(11)(a) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(i)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/i) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
 
-[^key-6c8472f792b4d502a7dcc685dd05cd91]: Textual amendment: Sch. 1 para. 7(11)(aa) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(i)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/i) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
+[^c-6c8472f792b4d502a7dcc685dd05cd91]: Textual amendment: Sch. 1 para. 7(11)(aa) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(i)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/i) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
 
-[^key-35e416ea5c60b90333c2dd7f862d6721]: Textual amendment: Words in Sch. 1 para. 7(12) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(j)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/j) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
+[^c-35e416ea5c60b90333c2dd7f862d6721]: Textual amendment: Words in Sch. 1 para. 7(12) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(j)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/j) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
 
-[^key-06f15c02105ce2e555000e1b601d05e3]: Textual amendment: Sch. 1 para. 7(13) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(g)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/g) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))
+[^c-06f15c02105ce2e555000e1b601d05e3]: Textual amendment: Sch. 1 para. 7(13) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 16(g)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/16/g) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2)[21](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/21))

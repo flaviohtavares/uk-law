@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Power to amend or repeal certain provisions of FSMA 2000[^key-ca80bf2882f328a5114454d980acc324][^key-840ea542ce800c09ae35e5b84297165c]
+## 67. Power to amend or repeal certain provisions of FSMA 2000[^c-ca80bf2882f328a5114454d980acc324][^c-840ea542ce800c09ae35e5b84297165c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ca80bf2882f328a5114454d980acc324]: Commencement: S. 67 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-ca80bf2882f328a5114454d980acc324]: Commencement: S. 67 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-840ea542ce800c09ae35e5b84297165c]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/29/section/67) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ss)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ss)
+[^c-840ea542ce800c09ae35e5b84297165c]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/29/section/67) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ss)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ss)

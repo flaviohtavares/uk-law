@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Service of documents on CIO[^key-2fc10fc37f433a99210ff76442b63a8b]
+## 47. Service of documents on CIO[^c-2fc10fc37f433a99210ff76442b63a8b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A document may be served on a CIO by leaving it at, or sending it by post to, th
 
 ## Annotations
 
-[^key-2fc10fc37f433a99210ff76442b63a8b]: Commencement: Reg. 47 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-2fc10fc37f433a99210ff76442b63a8b]: Commencement: Reg. 47 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Salmon roe[^key-f804777bfdd80f2fb39e7bf8c735c3a3]
+## 19. Salmon roe[^c-f804777bfdd80f2fb39e7bf8c735c3a3]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f804777bfdd80f2fb39e7bf8c735c3a3]: Commencement: S. 19 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-f804777bfdd80f2fb39e7bf8c735c3a3]: Commencement: S. 19 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

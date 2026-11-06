@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1123. “Connected” persons: supplementary[^key-6e842d2d41647a9b439cfef1bdea0e30][^key-b07e890d920c63431d565a0f93745461][^key-c0a0fe9746fc413d8ecef2deb8121c4a][^key-d92cb5dbbd095e5dc406022f6797a3aa]
+## 1123. “Connected” persons: supplementary[^c-6e842d2d41647a9b439cfef1bdea0e30][^c-b07e890d920c63431d565a0f93745461][^c-c0a0fe9746fc413d8ecef2deb8121c4a][^c-d92cb5dbbd095e5dc406022f6797a3aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,10 +45,10 @@ Section 466(4) of ITA 2007 (which applies for the purposes of the Corporation Ta
 
 ## Annotations
 
-[^key-6e842d2d41647a9b439cfef1bdea0e30]: Modification: S. 1123 applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) Regulations 2011 (S.I. 2011/2999)](https://www.legislation.gov.uk/uksi/2011/2999), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/1/1), [34(3)(b)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/34/3/b)
+[^c-6e842d2d41647a9b439cfef1bdea0e30]: Modification: S. 1123 applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) Regulations 2011 (S.I. 2011/2999)](https://www.legislation.gov.uk/uksi/2011/2999), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/1/1), [34(3)(b)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/34/3/b)
 
-[^key-b07e890d920c63431d565a0f93745461]: Modification: S. 1123 applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Transactions (Tax) Regulations 2014 (S.I. 2014/685)](https://www.legislation.gov.uk/uksi/2014/685), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/685/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2014/685/regulation/3/5/b)
+[^c-b07e890d920c63431d565a0f93745461]: Modification: S. 1123 applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Transactions (Tax) Regulations 2014 (S.I. 2014/685)](https://www.legislation.gov.uk/uksi/2014/685), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/685/regulation/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2014/685/regulation/3/5/b)
 
-[^key-c0a0fe9746fc413d8ecef2deb8121c4a]: Modification: S. 1123 applied (E.W.) (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [15(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/15/2)
+[^c-c0a0fe9746fc413d8ecef2deb8121c4a]: Modification: S. 1123 applied (E.W.) (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [15(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/15/2)
 
-[^key-d92cb5dbbd095e5dc406022f6797a3aa]: Modification: [Ss. 1122](https://www.legislation.gov.uk/ukpga/2010/4/section/1122), [1123](https://www.legislation.gov.uk/ukpga/2010/4/section/1123) applied (with modifications) (17.5.2022) by [S.I. 2006/3296](https://www.legislation.gov.uk/uksi/2006/3296), [reg. 3](https://www.legislation.gov.uk/uksi/2006/3296/regulation/3) (as substituted by [The Taxation of Securitisation Companies (Amendment) Regulations 2022 (S.I. 2022/465)](https://www.legislation.gov.uk/uksi/2022/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/465/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/465/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/465/regulation/1/2)))
+[^c-d92cb5dbbd095e5dc406022f6797a3aa]: Modification: [Ss. 1122](https://www.legislation.gov.uk/ukpga/2010/4/section/1122), [1123](https://www.legislation.gov.uk/ukpga/2010/4/section/1123) applied (with modifications) (17.5.2022) by [S.I. 2006/3296](https://www.legislation.gov.uk/uksi/2006/3296), [reg. 3](https://www.legislation.gov.uk/uksi/2006/3296/regulation/3) (as substituted by [The Taxation of Securitisation Companies (Amendment) Regulations 2022 (S.I. 2022/465)](https://www.legislation.gov.uk/uksi/2022/465), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/465/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/465/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/465/regulation/1/2)))

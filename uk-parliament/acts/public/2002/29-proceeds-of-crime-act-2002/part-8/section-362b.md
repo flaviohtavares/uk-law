@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 362B. Requirements for making of unexplained wealth order[^key-83407cfc195f6c04cfbd21adfe208270]
+## 362B. Requirements for making of unexplained wealth order[^c-83407cfc195f6c04cfbd21adfe208270]
 
 *Extent: E+W+N.I.*
 
@@ -27,9 +27,9 @@ summary: ''
 - (a) the respondent holds the property, and
 - (b) the value of the property is greater than £50,000.
 
-(3) The High Court must be satisfied that there are reasonable grounds for suspecting —[^key-cd5e3c1092cb6c1e1f0a8e6c47d90889]
+(3) The High Court must be satisfied that there are reasonable grounds for suspecting —[^c-cd5e3c1092cb6c1e1f0a8e6c47d90889]
 
-- (a) that the known sources of the respondent's lawfully obtained income would have been insufficient for the purposes of enabling the respondent to obtain the property, or[^key-bfa66c0a944ccb9e390d9f903da2ba2a]
+- (a) that the known sources of the respondent's lawfully obtained income would have been insufficient for the purposes of enabling the respondent to obtain the property, or[^c-bfa66c0a944ccb9e390d9f903da2ba2a]
 - (b) that the property has been obtained through unlawful conduct (within the meaning given by section 242).
 
 (4) The High Court must be satisfied that—
@@ -54,7 +54,7 @@ summary: ''
 
 (7) In subsection (4)(a), “**politically exposed person**” means a person who is—
 
-- (a) an individual who is, or has been, entrusted with prominent public functions by an international organisation or by a State other than the United Kingdom or another *(Extent: E+W)* *(affected by repeal, see note)*[^key-30e88192d76564a21946a4b062576ce9] EEA *(Extent: E+W)* *(affected by repeal, see note)*[^key-30e88192d76564a21946a4b062576ce9] State, *(Extent: E+W)* *(affected by repeal, see note)*[^key-30e88192d76564a21946a4b062576ce9]
+- (a) an individual who is, or has been, entrusted with prominent public functions by an international organisation or by a State other than the United Kingdom or another *(Extent: E+W)* *(affected by repeal, see note)*[^c-30e88192d76564a21946a4b062576ce9] EEA *(Extent: E+W)* *(affected by repeal, see note)*[^c-30e88192d76564a21946a4b062576ce9] State, *(Extent: E+W)* *(affected by repeal, see note)*[^c-30e88192d76564a21946a4b062576ce9]
   - (i (Extent: E+W)) the United Kingdom, or *(Extent: E+W)*
   - (ii (Extent: E+W)) an EEA state, *(Extent: E+W)*
 - (b) a family member of a person within paragraph (a),
@@ -76,10 +76,10 @@ summary: ''
 
 ## Annotations
 
-[^key-83407cfc195f6c04cfbd21adfe208270]: Textual amendment: [Ss. 362A-362I](https://www.legislation.gov.uk/ukpga/2002/29/section/362A) and cross-heading inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 1](https://www.legislation.gov.uk/ukpga/2017/22/section/1), [58(1)(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1/6) (as amended (N.I.) (31.12.2020) by [S.I. 2019/742](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [109(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/109/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/a)
+[^c-83407cfc195f6c04cfbd21adfe208270]: Textual amendment: [Ss. 362A-362I](https://www.legislation.gov.uk/ukpga/2002/29/section/362A) and cross-heading inserted (27.4.2017 for specified purposes, 31.1.2018 for E.W. in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 1](https://www.legislation.gov.uk/ukpga/2017/22/section/1), [58(1)(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1/6) (as amended (N.I.) (31.12.2020) by [S.I. 2019/742](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [109(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/109/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/a)
 
-[^key-cd5e3c1092cb6c1e1f0a8e6c47d90889]: Textual amendment: Word in [s. 362B(3)](https://www.legislation.gov.uk/ukpga/2002/29/section/362B/3/a) inserted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 47(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/47/a), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)
+[^c-cd5e3c1092cb6c1e1f0a8e6c47d90889]: Textual amendment: Word in [s. 362B(3)](https://www.legislation.gov.uk/ukpga/2002/29/section/362B/3/a) inserted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 47(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/47/a), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)
 
-[^key-bfa66c0a944ccb9e390d9f903da2ba2a]: Textual amendment: [S. 362B(3)(b)](https://www.legislation.gov.uk/ukpga/2002/29/section/362B/3/b) and word inserted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 47(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/47/b), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)
+[^c-bfa66c0a944ccb9e390d9f903da2ba2a]: Textual amendment: [S. 362B(3)(b)](https://www.legislation.gov.uk/ukpga/2002/29/section/362B/3/b) and word inserted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 47(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/47/b), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)
 
-[^key-30e88192d76564a21946a4b062576ce9]: Textual amendment: S. 362B(7)(a)(i)(ii) substituted for words (E.W.) (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [107(8)](https://www.legislation.gov.uk/uksi/2019/742/regulation/107/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-30e88192d76564a21946a4b062576ce9]: Textual amendment: S. 362B(7)(a)(i)(ii) substituted for words (E.W.) (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [107(8)](https://www.legislation.gov.uk/uksi/2019/742/regulation/107/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

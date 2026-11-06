@@ -54,13 +54,13 @@ In accordance with paragraph 24 of Schedule 7 to the Tribunals, Courts and Enfor
 
 ## PART 1 — PRELIMINARY
 
-### 1. Title, commencement and application[^key-f6af48f4a773f38826cb3cd6cac6bf44]
+### 1. Title, commencement and application[^c-f6af48f4a773f38826cb3cd6cac6bf44]
 
 (1) These Regulations may be cited as the Civil Enforcement of Road Traffic Contraventions (General Provisions) (Wales) Regulations 2013 and they come into force on 25 March 2013.
 
 (2) These Regulations apply in relation to Wales.
 
-### 2. Interpretation[^key-4cabc4794d23634bccf6ba0bf1d2d379]
+### 2. Interpretation[^c-4cabc4794d23634bccf6ba0bf1d2d379]
 
 (1) In these Regulations—
 
@@ -108,7 +108,7 @@ In accordance with paragraph 24 of Schedule 7 to the Tribunals, Courts and Enfor
 - (b) having taken all reasonable steps, the enforcement authority to which the penalty charge was payable was unable to ascertain the name and address of the keeper of the vehicle and was consequently unable to serve a notice to owner under regulation 18, or a regulation 10 penalty charge notice; and
 - (c) the period of 42 days beginning with the date on which the penalty charge became payable has expired.
 
-### 3. Service by post[^key-18a370f43385ae1b23d74ca0b2060ecc]
+### 3. Service by post[^c-18a370f43385ae1b23d74ca0b2060ecc]
 
 (1) Subject to paragraph (5), any notice (except a penalty charge notice served under regulation 9) or charge certificate under these Regulations—
 
@@ -134,11 +134,11 @@ In accordance with paragraph 24 of Schedule 7 to the Tribunals, Courts and Enfor
 
 ## PART 2 — PENALTY CHARGES
 
-### 4. Imposition of penalty charges[^key-2bd9e64e5e4ac20c124e196aa0b68ad1]
+### 4. Imposition of penalty charges[^c-2bd9e64e5e4ac20c124e196aa0b68ad1]
 
 Subject to the provisions of these Regulations a penalty charge is payable with respect to a vehicle where there has been committed in relation to that vehicle a road traffic contravention in a civil enforcement area in Wales.
 
-### 5. Person by whom a penalty charge is to be paid[^key-a9a42a2f489c14b3219ee05ae36a4456]
+### 5. Person by whom a penalty charge is to be paid[^c-a9a42a2f489c14b3219ee05ae36a4456]
 
 (1) Where a road traffic contravention occurs, the person by whom the penalty charge for the contravention is to be paid, is to be determined in accordance with the following provisions of this regulation.
 
@@ -157,7 +157,7 @@ the penalty charge is payable by the person by whom the vehicle was hired and th
 - (a) “hiring agreement” and “vehicle-hire firm” have the same meanings as in section 66 of the Road Traffic Offenders Act 1988[^f00010]; and
 - (b) “the material time” means the time when the contravention giving rise to the penalty charge is said to have occurred.
 
-### 6. Evidence of contravention[^key-cc811d62a90f2bfeae908b3905eda3f4]
+### 6. Evidence of contravention[^c-cc811d62a90f2bfeae908b3905eda3f4]
 
 (1) In respect of a parking contravention, a penalty charge must not be imposed except on the basis of—
 
@@ -171,7 +171,7 @@ the penalty charge is payable by the person by whom the vehicle was hired and th
 
 a penalty charge must not be imposed except on the basis of a record produced by an approved device.
 
-### 7. Criminal proceedings for road traffic contraventions in civil enforcement areas[^key-18cd6e822e1f7b9fce0cb39f51862cf1]
+### 7. Criminal proceedings for road traffic contraventions in civil enforcement areas[^c-18cd6e822e1f7b9fce0cb39f51862cf1]
 
 (1) A penalty charge is not payable in relation to a road traffic contravention where—
 
@@ -187,7 +187,7 @@ the enforcement authority must, as soon as reasonably practicable after those ci
 
 (3) No criminal proceedings may be instituted and no fixed penalty notice may be served in respect of any parking contravention occurring in a civil enforcement area, except a pedestrian crossing contravention.
 
-### 8. Penalty charge notices[^key-808be28d30020a269949eebdab89467d]
+### 8. Penalty charge notices[^c-808be28d30020a269949eebdab89467d]
 
 (1) In these Regulations a “penalty charge notice” means a notice which—
 
@@ -201,14 +201,14 @@ the enforcement authority must, as soon as reasonably practicable after those ci
 
 (3) The Schedules have effect with regard to penalty charge notices.
 
-### 9. Penalty charge notices – service by a civil enforcement officer[^key-1f97096da22a439506788dc061e3a121]
+### 9. Penalty charge notices – service by a civil enforcement officer[^c-1f97096da22a439506788dc061e3a121]
 
 A civil enforcement officer who has reason to believe that a parking contravention is being committed by a stationary vehicle in a civil enforcement area, may serve a penalty charge notice—
 
 - (a) by fixing it to the vehicle; or
 - (b) by giving it to the person appearing to the civil enforcement officer to be in charge of the vehicle.
 
-### 10. Penalty charge notices – service by post[^key-8110e5cbfcbb5af41987f5c2d48aebba]
+### 10. Penalty charge notices – service by post[^c-8110e5cbfcbb5af41987f5c2d48aebba]
 
 (1) An enforcement authority may serve a penalty charge notice by post where—
 
@@ -243,7 +243,7 @@ and references in these Regulations to a “regulation 10 penalty charge notice�
   - (iii) in a case falling within paragraph (5)(c) the date on which the previous regulation 10 penalty charge notice was cancelled; and
 - (b) “relevant particulars” means particulars relating to the identity of the keeper of the vehicle contained in the register of mechanically propelled vehicles maintained by the Secretary of State under the Vehicle Excise and Registration Act 1994.
 
-### 11. Removal of or interference with a penalty charge notice[^key-c66313c0c0daf368322c4ddfad955be0]
+### 11. Removal of or interference with a penalty charge notice[^c-c66313c0c0daf368322c4ddfad955be0]
 
 (1) A penalty charge fixed to a vehicle in accordance with regulation 9(a) must not be removed or interfered with except by or under the authority of—
 
@@ -254,7 +254,7 @@ and references in these Regulations to a “regulation 10 penalty charge notice�
 
 ## PART 3 — IMMOBILISATION OF VEHICLES FOR PARKING CONTRAVENTIONS
 
-### 12. Power to immobilise vehicles[^key-eef82440cd00d7b61c336db316ba41dc]
+### 12. Power to immobilise vehicles[^c-eef82440cd00d7b61c336db316ba41dc]
 
 (1) Subject to regulation 13 (limitations on the power to immobilise vehicles), where a penalty charge notice has been served—
 
@@ -278,7 +278,7 @@ a civil enforcement officer or a person acting under the direction of a civil en
 
 (5) Any person who, without being authorised to do so in accordance with these Regulations, removes or attempts to remove an immobilisation device fixed to a vehicle in accordance with this regulation is guilty of an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 13. Limitations on the power to immobilise vehicles[^key-48e935599cb077bf7d066783ae328810]
+### 13. Limitations on the power to immobilise vehicles[^c-48e935599cb077bf7d066783ae328810]
 
 (1) An immobilisation device must not be fixed to a vehicle in accordance with regulation 12 if there is displayed on the vehicle—
 
@@ -312,7 +312,7 @@ until 15 minutes have elapsed since the service of a penalty charge notice under
 - (a) “disabled person’s badge” is a badge issued by local authorities for motor vehicles driven by or used for the carriage of disabled persons in accordance with section 21 of the Chronically Sick and Disabled Persons Act 1970 and regulations made thereunder; and
 - (b) “recognised badge” has the same meaning as in section 21A(1) of the Chronically Sick and Disabled Persons Act 1970.
 
-### 14. Release of immobilised vehicles[^key-bf087d5c9722538d0e95417c676bf4ec]
+### 14. Release of immobilised vehicles[^c-bf087d5c9722538d0e95417c676bf4ec]
 
 (1) A vehicle to which an immobilisation device has been fixed in accordance with regulation 12 may only be released from that device by or under the direction of a person authorised by the enforcement authority to give such a direction.
 
@@ -323,7 +323,7 @@ until 15 minutes have elapsed since the service of a penalty charge notice under
 
 ## PART 4 — ADJUDICATORS
 
-### 15. Discharge of functions relating to adjudicators[^key-8662530827e210511699d4c2ce3b95ca]
+### 15. Discharge of functions relating to adjudicators[^c-8662530827e210511699d4c2ce3b95ca]
 
 (1) The functions of the Welsh enforcement authorities relating to adjudicators under section 81 of the 2004 Act and under regulations 16 and 17 are to be discharged jointly, under arrangements made under section 101(5) of the Local Government Act 1972[^f00016], by a joint committee or joint committees appointed under section 102(1)(b) of that Act.
 
@@ -331,7 +331,7 @@ until 15 minutes have elapsed since the service of a penalty charge notice under
 
 (3) Any arrangements for the discharge of functions by a joint committee under section 73 of the Road Traffic Act 1991[^f00017], as that section was applied to local authorities, which subsisted immediately before the coming into force of these Regulations continue in force and have effect as if made under this regulation, until such time as those arrangements are varied or replaced.
 
-### 16. Appointment of adjudicators[^key-b014ec87aed6b8c3dcfff724141bc397]
+### 16. Appointment of adjudicators[^c-b014ec87aed6b8c3dcfff724141bc397]
 
 (1) The relevant enforcement authorities must appoint such number of adjudicators for the purposes of Part 6 of the 2004 Act on such terms as they may decide.
 
@@ -357,7 +357,7 @@ are to be treated as having been appointed under this regulation on the same ter
 
 (7) The relevant authorities must make and publish an annual report to the Welsh Ministers on the discharge by the adjudicators of their functions.
 
-### 17. Expenses of the relevant authorities[^key-22cb81a24bbe6735a205c3bcd99910d0]
+### 17. Expenses of the relevant authorities[^c-22cb81a24bbe6735a205c3bcd99910d0]
 
 (1) In default of a decision by any of the enforcement authorities under section 81(9)(a) of the 2004 Act as to the proportions in which their expenses under section 81 of that Act are to be defrayed, the authorities concerned must refer the issue to be determined by an arbitrator nominated by the Chartered Institute of Arbitrators.
 
@@ -367,7 +367,7 @@ are to be treated as having been appointed under this regulation on the same ter
 
 ## PART 5 — ENFORCEMENT OF PENALTY CHARGES
 
-### 18. The notice to owner[^key-67dfe8f806d935a1b71af5396a488fa0]
+### 18. The notice to owner[^c-67dfe8f806d935a1b71af5396a488fa0]
 
 (1) Subject to regulation 19, where—
 
@@ -387,7 +387,7 @@ the enforcement authority concerned may serve a notice (“a notice to owner”)
 - (g) that if, after the payment period has expired, no representations have been made under regulation 4 of the Representations and Appeals Regulations and the penalty charge has not been paid, the enforcement authority may increase the penalty charge by the applicable surcharge; and
 - (h) the amount of the increased penalty charge.
 
-### 19. Time limit for service of a notice to owner[^key-ede152e12062f5dab636cf1cfa64b221]
+### 19. Time limit for service of a notice to owner[^c-ede152e12062f5dab636cf1cfa64b221]
 
 (1) A notice to owner may not be served after the expiry of the period of 6 months beginning with the relevant date.
 
@@ -398,7 +398,7 @@ the enforcement authority concerned may serve a notice (“a notice to owner”)
 - (c) in a case where payment of the penalty charge was made, or had purportedly been made, before the expiry of the period mentioned in paragraph (1) but the payment or purported payment had been cancelled or withdrawn, is the date on which the enforcement authority is notified that the payment or purported payment has been cancelled or withdrawn;
 - (d) in any other case, is the date on which the relevant penalty charge notice was served under regulation 9.
 
-### 20. Charge certificates[^key-3ca0e015a0532f385750e3fa26c06fe6]
+### 20. Charge certificates[^c-3ca0e015a0532f385750e3fa26c06fe6]
 
 (1) Where a notice to owner is served on any person and the penalty charge to which it relates is not paid before the end of the relevant period, the authority serving the notice may serve on that person a statement (a “charge certificate”) to the effect that the penalty charge in question is increased by the amount of the applicable surcharge.
 
@@ -421,11 +421,11 @@ the enforcement authority concerned may serve a notice (“a notice to owner”)
 - (a) references to a “notice to owner” include a regulation 10 penalty charge notice; and
 - (b) “notice of rejection” has the meaning given by regulation 2 of the Representations and Appeals Regulations.
 
-### 21. Enforcement of charge certificates[^key-b15db891a280fbb9de346c09c6132aba]
+### 21. Enforcement of charge certificates[^c-b15db891a280fbb9de346c09c6132aba]
 
 Where a charge certificate has been served on any person and the increased penalty charge provided for in the certificate is not paid within the period of 14 days beginning with the date on which the certificate is served, the enforcement authority may, if a county court so orders, recover the increased charge as if it were payable under a county court order.
 
-### 22. Invalid notices[^key-20333ac6e2fc3de98f71e187538e04ee]
+### 22. Invalid notices[^c-20333ac6e2fc3de98f71e187538e04ee]
 
 (1) This regulation applies where—
 
@@ -469,7 +469,7 @@ Where a charge certificate has been served on any person and the increased penal
 
 ## PART 6 — FINANCIAL PROVISIONS
 
-### 23. Modification of section 55 of the Road Traffic Regulation Act 1984[^key-730e7598b120a2843f1979dabb343b0e]
+### 23. Modification of section 55 of the Road Traffic Regulation Act 1984[^c-730e7598b120a2843f1979dabb343b0e]
 
 (1) Section 55 of the Road Traffic Regulation Act 1984[^f00020] applies in relation to the income and expenditure of enforcement authorities in connection with their functions under Part 6 of the 2004 Act in relation to parking contraventions, subject to the following modifications.
 
@@ -498,7 +498,7 @@ Where a charge certificate has been served on any person and the increased penal
 
 .
 
-### 24. Income and expenditure[^key-b69848f8d6a58d51f7d567d36bdf7eb7]
+### 24. Income and expenditure[^c-b69848f8d6a58d51f7d567d36bdf7eb7]
 
 (1) In connection with its functions as an enforcement authority, a local authority in Wales must keep separate income and expenditure accounts in relation to each of the following types of contravention—
 
@@ -509,11 +509,11 @@ in addition to those accounts in relation to parking contraventions as described
 
 (2) A local authority in Wales which is an enforcement authority must, after the end of each financial year, send a copy of each of the accounts kept under subsection (1) to the Welsh Ministers.
 
-### 25. Surpluses to be carried forward[^key-247a44675259e58512459557f96cbe8b]
+### 25. Surpluses to be carried forward[^c-247a44675259e58512459557f96cbe8b]
 
 Where, immediately before the coming into force of these Regulations there is a surplus in an account which is kept under section 55 of the Road Traffic Regulation Act 1984 as modified in relation to that authority by an Order made under Schedule 3 to the Road Traffic Act 1991 and kept by a local authority the surplus must be carried forward.
 
-### 26. Application of sums paid by way of penalty charge[^key-d8049272fb2a7394ad3d288aec6d67ec]
+### 26. Application of sums paid by way of penalty charge[^c-d8049272fb2a7394ad3d288aec6d67ec]
 
 (1) Any surplus in an account which is kept under section 55 of the Road Traffic Regulation Act 1984, must be treated as a surplus arising under that section as modified by regulation 23 and must be applied for all or any of the purposes specified in that section.
 
@@ -538,7 +538,7 @@ Where, immediately before the coming into force of these Regulations there is a 
 
 ## PART 7 — AMENDMENT AND REVOCATION
 
-### 27. Revocation[^key-7f32a7001964a8f1a727b03de70313b4]
+### 27. Revocation[^c-7f32a7001964a8f1a727b03de70313b4]
 
 (1) Upon the coming into force of these Regulations, the instruments set out in paragraph (2) are revoked.
 
@@ -547,7 +547,7 @@ Where, immediately before the coming into force of these Regulations there is a 
 - (a) The Civil Enforcement of Parking Contraventions (General Provisions) (Wales) (No.2) Regulations 2008 [^f00023]; and
 - (b) The Civil Enforcement of Parking Contraventions (Penalty Charge Notices, Enforcement and Adjudication) (Wales) Regulations 2008[^f00024].
 
-### 28. Amendment to paragraph 9(4) of Schedule 7 to the Traffic Management Act 2004[^key-2571d9c747093d9fc856ae13277e827f]
+### 28. Amendment to paragraph 9(4) of Schedule 7 to the Traffic Management Act 2004[^c-2571d9c747093d9fc856ae13277e827f]
 
 The table in paragraph 9(4) of Schedule 7 to the Traffic Management Act 2004 is amended as follows—
 
@@ -578,7 +578,7 @@ SCHEDULES
 
 Regulation 8
 
-### 1. Contents of a penalty charge notice served under regulation 9[^key-f72d4eedd1b3c452fa8bfe37788c38db]
+### 1. Contents of a penalty charge notice served under regulation 9[^c-f72d4eedd1b3c452fa8bfe37788c38db]
 
 A penalty charge notice served under regulation 9 must, in addition to the matters required to be included in it by regulation 3(2) of the Representations and Appeals Regulations, state—
 
@@ -593,7 +593,7 @@ A penalty charge notice served under regulation 9 must, in addition to the matte
 - (i) the manner in which the penalty charge must be paid; and
 - (j) that if the penalty charge is not paid within the period of 28 days referred to in sub-paragraph (g), a notice to owner may be served by the enforcement authority on the owner of the vehicle.
 
-### 2. Contents of a regulation 10 penalty charge notice[^key-e2b07f8903df79bbbafe1b71a8cc2e0b]
+### 2. Contents of a regulation 10 penalty charge notice[^c-e2b07f8903df79bbbafe1b71a8cc2e0b]
 
 A regulation 10 penalty charge notice, in addition to the matters required to be included in it by regulation 3(4) of the Representations and Appeals Regulations, must state—
 
@@ -613,14 +613,14 @@ A regulation 10 penalty charge notice, in addition to the matters required to be
   - (ii) that it is being so served, because a civil enforcement officer attempted to serve a penalty charge notice by affixing it to the vehicle or giving it to the person in charge of the vehicle but was prevented from doing so by some person; or
   - (iii) that it is being so served because a civil enforcement officer had begun to prepare a penalty charge notice for service in accordance with regulation 9, but the vehicle was driven away from the place in which it was stationary before the civil enforcement officer had finished preparing the penalty charge notice or had served it in accordance with regulation 9.
 
-### 3.[^key-395adc4480bbeb3d8fb82192d3271ab2]
+### 3.[^c-395adc4480bbeb3d8fb82192d3271ab2]
 
 In paragraph 2 for the purposes of sub-paragraph (e), the “applicable date” is—
 
 - (a) in the case of a penalty charge notice served by virtue of regulation 10(1)(a) (on the basis of a record produced by an approved device), the last day of the period of 21 days beginning with the date on which the notice was served; or
 - (b) in any other case, the last day of the period of 14 days beginning with that date.
 
-## SCHEDULE 2 — FORM OF PENALTY CHARGE NOTICES[^key-e3c38a8ce20f73d1135a453f8fc33bfa]
+## SCHEDULE 2 — FORM OF PENALTY CHARGE NOTICES[^c-e3c38a8ce20f73d1135a453f8fc33bfa]
 
 Regulation 8
 
@@ -676,9 +676,9 @@ A full Regulatory Impact Assessment and Explanatory Memorandum can be obtained f
 
 [^f00005]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-f6af48f4a773f38826cb3cd6cac6bf44]: Commencement: Reg. 1 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-f6af48f4a773f38826cb3cd6cac6bf44]: Commencement: Reg. 1 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-4cabc4794d23634bccf6ba0bf1d2d379]: Commencement: Reg. 2 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-4cabc4794d23634bccf6ba0bf1d2d379]: Commencement: Reg. 2 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2013/360 (W.42)](https://www.legislation.gov.uk/wsi/2013/360).
 
@@ -686,33 +686,33 @@ A full Regulatory Impact Assessment and Explanatory Memorandum can be obtained f
 
 [^f00008]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
 
-[^key-18a370f43385ae1b23d74ca0b2060ecc]: Commencement: Reg. 3 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-18a370f43385ae1b23d74ca0b2060ecc]: Commencement: Reg. 3 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
 [^f00009]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-2bd9e64e5e4ac20c124e196aa0b68ad1]: Commencement: Reg. 4 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-2bd9e64e5e4ac20c124e196aa0b68ad1]: Commencement: Reg. 4 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-a9a42a2f489c14b3219ee05ae36a4456]: Commencement: Reg. 5 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-a9a42a2f489c14b3219ee05ae36a4456]: Commencement: Reg. 5 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
 [^f00010]: Footnote: [1988 c.53](https://www.legislation.gov.uk/ukpga/1988/53). Section 66 was amended by the Road Safety Act 2006, section 5, Schedule 1 paragraphs 1,8 and 9 and section 59, Schedule 7.
 
-[^key-cc811d62a90f2bfeae908b3905eda3f4]: Commencement: Reg. 6 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-cc811d62a90f2bfeae908b3905eda3f4]: Commencement: Reg. 6 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-18cd6e822e1f7b9fce0cb39f51862cf1]: Commencement: Reg. 7 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-18cd6e822e1f7b9fce0cb39f51862cf1]: Commencement: Reg. 7 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
 [^f00011]: Footnote: Section 52 was amended by the Statute Law (Repeals) Act [2004 (c.14)](https://www.legislation.gov.uk/ukpga/2004/14), Schedule 1, Part 14 and by the Road Safety Act [2006 (c.49)](https://www.legislation.gov.uk/ukpga/2006/49), Schedule 1, paragraphs 1 and 2.
 
-[^key-808be28d30020a269949eebdab89467d]: Commencement: Reg. 8 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-808be28d30020a269949eebdab89467d]: Commencement: Reg. 8 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-1f97096da22a439506788dc061e3a121]: Commencement: Reg. 9 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-1f97096da22a439506788dc061e3a121]: Commencement: Reg. 9 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-8110e5cbfcbb5af41987f5c2d48aebba]: Commencement: Reg. 10 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-8110e5cbfcbb5af41987f5c2d48aebba]: Commencement: Reg. 10 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-c66313c0c0daf368322c4ddfad955be0]: Commencement: Reg. 11 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-c66313c0c0daf368322c4ddfad955be0]: Commencement: Reg. 11 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-eef82440cd00d7b61c336db316ba41dc]: Commencement: Reg. 12 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-eef82440cd00d7b61c336db316ba41dc]: Commencement: Reg. 12 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-48e935599cb077bf7d066783ae328810]: Commencement: Reg. 13 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-48e935599cb077bf7d066783ae328810]: Commencement: Reg. 13 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
 [^f00012]: Footnote: [1970 c.44](https://www.legislation.gov.uk/ukpga/1970/44). In relation to Wales, section 21 was amended by the Local Government Act [1972 (c.70)](https://www.legislation.gov.uk/ukpga/1972/70), Schedule 30, by the Transport Act [1982 (c.49)](https://www.legislation.gov.uk/ukpga/1982/49) section 68, by the Road Traffic Regulation Act [1984 (c.27)](https://www.legislation.gov.uk/ukpga/1984/27), Schedule 13, by the Local Government Act [1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51), Schedule 5, paragraph 1, by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), section 35(2)-(5), Schedule 8, by the Local Government (Wales) Act [1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19), Schedule 10, paragraph 8 and Schedule 18, by the Traffic Management Act 2004 section 94(1)-(4), by the Disability Discrimination Act [2005 (c.13)](https://www.legislation.gov.uk/ukpga/2005/13) Schedule 1, paragraph 41 and by the Tribunals, Courts and Enforcement Act 2007, Schedule 8.
 
@@ -722,58 +722,58 @@ A full Regulatory Impact Assessment and Explanatory Memorandum can be obtained f
 
 [^f00015]: Footnote: Subsection (1A) was inserted by the Disability Discrimination Act 2005, Schedule 1, paragraphs 42 and 44.
 
-[^key-bf087d5c9722538d0e95417c676bf4ec]: Commencement: Reg. 14 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-bf087d5c9722538d0e95417c676bf4ec]: Commencement: Reg. 14 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-8662530827e210511699d4c2ce3b95ca]: Commencement: Reg. 15 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-8662530827e210511699d4c2ce3b95ca]: Commencement: Reg. 15 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
 [^f00016]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
 [^f00017]: Footnote: [1991 c.40](https://www.legislation.gov.uk/ukpga/1991/40).
 
-[^key-b014ec87aed6b8c3dcfff724141bc397]: Commencement: Reg. 16 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-b014ec87aed6b8c3dcfff724141bc397]: Commencement: Reg. 16 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
 [^f00018]: Footnote: [2005 c.4](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-22cb81a24bbe6735a205c3bcd99910d0]: Commencement: Reg. 17 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-22cb81a24bbe6735a205c3bcd99910d0]: Commencement: Reg. 17 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-67dfe8f806d935a1b71af5396a488fa0]: Commencement: Reg. 18 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-67dfe8f806d935a1b71af5396a488fa0]: Commencement: Reg. 18 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-ede152e12062f5dab636cf1cfa64b221]: Commencement: Reg. 19 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-ede152e12062f5dab636cf1cfa64b221]: Commencement: Reg. 19 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-3ca0e015a0532f385750e3fa26c06fe6]: Commencement: Reg. 20 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-3ca0e015a0532f385750e3fa26c06fe6]: Commencement: Reg. 20 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-b15db891a280fbb9de346c09c6132aba]: Commencement: Reg. 21 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-b15db891a280fbb9de346c09c6132aba]: Commencement: Reg. 21 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-20333ac6e2fc3de98f71e187538e04ee]: Commencement: Reg. 22 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-20333ac6e2fc3de98f71e187538e04ee]: Commencement: Reg. 22 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
 [^f00019]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132). L17.
 
-[^key-730e7598b120a2843f1979dabb343b0e]: Commencement: Reg. 23 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-730e7598b120a2843f1979dabb343b0e]: Commencement: Reg. 23 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
 [^f00020]: Footnote: In relation to Wales, section 55 was amended by the Local Government Act [1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51), Schedule 17, by the Local Government (Wales) Act [1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19), Schedule 7, by the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), Schedule 8, paragraph 46, by the Road Traffic Act 1991, Schedule 7, paragraph 5 and Schedule 8 and by the Traffic Management Act 2004, section 95.
 
-[^key-b69848f8d6a58d51f7d567d36bdf7eb7]: Commencement: Reg. 24 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-b69848f8d6a58d51f7d567d36bdf7eb7]: Commencement: Reg. 24 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-247a44675259e58512459557f96cbe8b]: Commencement: Reg. 25 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-247a44675259e58512459557f96cbe8b]: Commencement: Reg. 25 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-d8049272fb2a7394ad3d288aec6d67ec]: Commencement: Reg. 26 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-d8049272fb2a7394ad3d288aec6d67ec]: Commencement: Reg. 26 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
 [^f00021]: Footnote: [1999 (c.24)](https://www.legislation.gov.uk/ukpga/1999/24).
 
 [^f00022]: Footnote: [1980 (c.66)](https://www.legislation.gov.uk/ukpga/1980/66).
 
-[^key-7f32a7001964a8f1a727b03de70313b4]: Commencement: Reg. 27 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-7f32a7001964a8f1a727b03de70313b4]: Commencement: Reg. 27 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
 [^f00023]: Footnote: [S.I. 2008/1214 (W.122)](https://www.legislation.gov.uk/wsi/2008/1214). This revoked and replaced [S.I. 2008/614 (W.66)](https://www.legislation.gov.uk/wsi/2008/614).
 
 [^f00024]: Footnote: [S.I. 2008/609](https://www.legislation.gov.uk/uksi/2008/609), as amended by [S.I. 2008/913](https://www.legislation.gov.uk/uksi/2008/913).
 
-[^key-2571d9c747093d9fc856ae13277e827f]: Commencement: Reg. 28 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-2571d9c747093d9fc856ae13277e827f]: Commencement: Reg. 28 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-f72d4eedd1b3c452fa8bfe37788c38db]: Commencement: Sch. 1 para. 1 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-f72d4eedd1b3c452fa8bfe37788c38db]: Commencement: Sch. 1 para. 1 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-e2b07f8903df79bbbafe1b71a8cc2e0b]: Commencement: Sch. 1 para. 2 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-e2b07f8903df79bbbafe1b71a8cc2e0b]: Commencement: Sch. 1 para. 2 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-395adc4480bbeb3d8fb82192d3271ab2]: Commencement: Sch. 1 para. 3 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-395adc4480bbeb3d8fb82192d3271ab2]: Commencement: Sch. 1 para. 3 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
 
-[^key-e3c38a8ce20f73d1135a453f8fc33bfa]: Commencement: Sch. 2 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)
+[^c-e3c38a8ce20f73d1135a453f8fc33bfa]: Commencement: Sch. 2 in force at 25.3.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/362/regulation/1/1)

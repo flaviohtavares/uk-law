@@ -26,9 +26,9 @@ Section 135.
 
 *Extent: E+W+S*
 
-**1.** An urban development corporation (in this Schedule referred to as a “corporation") shall consist of a chairman, a deputy chairman and the number of other members determined in accordance with paragraph 1A[^key-f9ac9adf5ec6d970d1850906b4c1e119].
+**1.** An urban development corporation (in this Schedule referred to as a “corporation") shall consist of a chairman, a deputy chairman and the number of other members determined in accordance with paragraph 1A[^c-f9ac9adf5ec6d970d1850906b4c1e119].
 
-**1A.**[^key-c33f5caa2c181ed2b51c35c594d6d4a6] (1) In the case of a corporation established by the Scottish Ministers or the Welsh Ministers—
+**1A.**[^c-c33f5caa2c181ed2b51c35c594d6d4a6] (1) In the case of a corporation established by the Scottish Ministers or the Welsh Ministers—
 
 - (a) the number of other members must be prescribed by order under section 135, and
 - (b) the prescribed number must be—
@@ -103,7 +103,7 @@ the Secretary of State may remove him from his office.
 
 **14.** The validity of any proceedings of the corporation shall not be affected by any vacancy among its members or by any defect in the appointment of any of its members.
 
-### Delegation of planning functions[^key-9d3ec71c41116a425d39afe7228645fb]
+### Delegation of planning functions[^c-9d3ec71c41116a425d39afe7228645fb]
 
 **14A.** (1) This paragraph applies in relation to any function conferred on the corporation by virtue of an order under section 149 above.
 
@@ -170,9 +170,9 @@ the Secretary of State may remove him from his office.
 
 [^c13884761]: Textual amendment: Sch. 26 shall cease to have effect for specified purposes (E.W.) (1.10.1996) by virtue of [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 222](https://www.legislation.gov.uk/ukpga/1996/52/section/222), [Sch. 18 Pt. IV para. 22(1)(b)(3)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/18/part/IV/paragraph/22/1/b/3); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2402/schedule)
 
-[^key-f9ac9adf5ec6d970d1850906b4c1e119]: Textual amendment: Words in Sch. 26 para. 1 substituted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 178(1)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/178/1/a), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/e)
+[^c-f9ac9adf5ec6d970d1850906b4c1e119]: Textual amendment: Words in Sch. 26 para. 1 substituted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 178(1)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/178/1/a), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/e)
 
-[^key-c33f5caa2c181ed2b51c35c594d6d4a6]: Textual amendment: Sch. 26 para. 1A inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 178(1)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/178/1/b), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/e)
+[^c-c33f5caa2c181ed2b51c35c594d6d4a6]: Textual amendment: Sch. 26 para. 1A inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 178(1)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/178/1/b), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/e)
 
 [^M_F_1d470329-b103-4315-bbf7-21498ba46ec4]: Textual amendment: Words in Sch. 26 para. 6(a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/12) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
 
@@ -192,7 +192,7 @@ the Secretary of State may remove him from his office.
 
 [^c13884881]: Textual amendment: Words in Sch. 26 para. 12(5) repealed (E.W.) (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 227](https://www.legislation.gov.uk/ukpga/1996/52/section/227), [Sch. 19 Pt. XIII](https://www.legislation.gov.uk/ukpga/1996/52/schedule/19/part/XIII); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2402/schedule)
 
-[^key-9d3ec71c41116a425d39afe7228645fb]: Textual amendment: Sch. 26 paras. 14A, 14B and cross-headings inserted (13.7.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(6)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/6), [Sch. 7 para. 10(7)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/10/7) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111), [Sch. 7 para. 10(6)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/10/6))
+[^c-9d3ec71c41116a425d39afe7228645fb]: Textual amendment: Sch. 26 paras. 14A, 14B and cross-headings inserted (13.7.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(6)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/6), [Sch. 7 para. 10(7)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/10/7) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111), [Sch. 7 para. 10(6)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/10/6))
 
 [^c13884891]: Modification: The text of Schs. 2, 3, Sch. 4 paras. 1(1)(2)–(4), 10, Sch. 5, Sch. 6 paras. 1, 4–6, 10–16, 21, Sch. 7 Pt. I paras. 2(2)(5)(6), 3(2)(4), 6, 7, 8, Sch. 7 Pt. II paras. 14(1), 15, Sch. 23 Pt. II para. 2, Pt. III paras. 3–7, Pt. V paras. 12–20, Pt. VI para. 21, Sch. 25 Pt. II para. 7, Pt. III para. 8, Pt. IV para. 9, Sch. 26 para. 18, Sch. 33 paras. 1–5, 7, 13, 14 Sch. 34, Sch. 32 Pt. III para. 19 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

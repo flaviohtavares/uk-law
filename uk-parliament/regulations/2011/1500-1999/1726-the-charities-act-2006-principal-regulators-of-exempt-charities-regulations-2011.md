@@ -44,13 +44,13 @@ A draft of these Regulations has been laid before Parliament in accordance with 
 
 Accordingly, the Minister for the Cabinet Office makes the following Regulations:
 
-## 1. Citation and commencement[^key-2fe346eb5e2df62f6786aee3fa95a740]
+## 1. Citation and commencement[^c-2fe346eb5e2df62f6786aee3fa95a740]
 
 (1) These Regulations may be cited as the Charities Act 2006 (Principal Regulators of Exempt Charities) Regulations 2011.
 
 (2) These Regulations come into force on 1st August 2011.
 
-## 2. Appointment of principal regulator of exempt charities: maintained schools etc. in England[^key-fae77f9c8529610b44dc527b3e711216]
+## 2. Appointment of principal regulator of exempt charities: maintained schools etc. in England[^c-fae77f9c8529610b44dc527b3e711216]
 
 The Secretary of State for Education is prescribed as the principal regulator of any exempt charity which is—
 
@@ -60,7 +60,7 @@ The Secretary of State for Education is prescribed as the principal regulator of
   - (i) is administered by or on behalf of a body to which paragraph (a) or (b) applies; and
   - (ii) is established for the general purposes of, or for any special purpose of or in connection with that body or any foundation, voluntary or foundation special school or schools.
 
-## 3. Appointment of principal regulator of exempt charities: maintained schools etc. in Wales[^key-23c00372cdae3401e1cd9088ad0507ae]
+## 3. Appointment of principal regulator of exempt charities: maintained schools etc. in Wales[^c-23c00372cdae3401e1cd9088ad0507ae]
 
 The Welsh Ministers are prescribed as the principal regulator of any exempt charity which is—
 
@@ -70,19 +70,19 @@ The Welsh Ministers are prescribed as the principal regulator of any exempt char
   - (i) is administered by or on behalf of a body to which paragraph (a) or (b) applies; and
   - (ii) is established for the general purposes of, or for any special purpose of or in connection with that body or any foundation, voluntary or foundation special school or schools.
 
-## 4. Appointment of principal regulator of exempt charities: sixth form college corporations[^key-1be8d23711e3a57969a23ba0a27b240d]
+## 4. Appointment of principal regulator of exempt charities: sixth form college corporations[^c-1be8d23711e3a57969a23ba0a27b240d]
 
 The Secretary of State for Education is prescribed as the principal regulator of any exempt charity which is a sixth form college corporation (within the meaning of the Further and Higher Education Act 1992[^f00004]).
 
-## 5. Appointment of principal regulator of exempt charities: academies[^key-0a11d6f160dbe1c066c5bc7b66d67e14]
+## 5. Appointment of principal regulator of exempt charities: academies[^c-0a11d6f160dbe1c066c5bc7b66d67e14]
 
 (1) Subject to paragraph (2), the Secretary of State for Education is prescribed as the principal regulator of any qualifying Academy proprietor (within the meaning of section 12 of the Academies Act 2010).
 
 (2) Where a qualifying Academy proprietor has entered into academy arrangements for the purpose of the setting up, establishment and running of a secure 16 to 19 academy (as defined by section 1B(7) of the Academies Act 2010), the principal regulator is prescribed as the Secretary of State for Justice.
 
-## 6. Definition of “responsible person”[^key-97e6bee5763462c4e86fd21043bb266c]
+## 6. Definition of “responsible person”[^c-97e6bee5763462c4e86fd21043bb266c]
 
-(1) In its application to the Secretary of State for Education as principal regulator of an exempt charity by virtue of these Regulations, section 57 of the Charities Act 2011[^key-c917e13e352322a31c4f117aa129228a] has effect as if, for the definition of “responsible person” in subsection (8)[^key-f8ec403b0de9e30c95d355d13485fa6e], there were substituted—
+(1) In its application to the Secretary of State for Education as principal regulator of an exempt charity by virtue of these Regulations, section 57 of the Charities Act 2011[^c-c917e13e352322a31c4f117aa129228a] has effect as if, for the definition of “responsible person” in subsection (8)[^c-f8ec403b0de9e30c95d355d13485fa6e], there were substituted—
 
 > - “responsible person” means a person who is or was—
 >   - (a) the Secretary of State for Education;
@@ -91,7 +91,7 @@ The Secretary of State for Education is prescribed as the principal regulator of
 
 .
 
-(2) In its application to the Welsh Ministers as principal regulator of an exempt charity by virtue of these Regulations, section 57 of the Charities Act 2011[^key-528b79ffcd302a36c2e1f7edd7415bc9] has effect as if, for the definition of “responsible person” in subsection (8)[^key-77c27aa4fe1fc7cd0b4aa5490c3b8677], there were substituted—
+(2) In its application to the Welsh Ministers as principal regulator of an exempt charity by virtue of these Regulations, section 57 of the Charities Act 2011[^c-528b79ffcd302a36c2e1f7edd7415bc9] has effect as if, for the definition of “responsible person” in subsection (8)[^c-77c27aa4fe1fc7cd0b4aa5490c3b8677], there were substituted—
 
 > - “responsible person” means a person who is or was—
 >   - (a) a Welsh Minister;
@@ -100,14 +100,14 @@ The Secretary of State for Education is prescribed as the principal regulator of
 
 .
 
-(3)[^key-810cc877d59eb00620c881ac064df36a] In its application to the Secretary of State for Justice as principal regulator of an exempt charity by virtue of these Regulations, section 57 of the Charities Act 2011 has effect as if, for the definition of “responsible person” in subsection (8), there were substituted—
+(3)[^c-810cc877d59eb00620c881ac064df36a] In its application to the Secretary of State for Justice as principal regulator of an exempt charity by virtue of these Regulations, section 57 of the Charities Act 2011 has effect as if, for the definition of “responsible person” in subsection (8), there were substituted—
 
 - ““**responsible person**” means a person who is or was—
   - (a) the Secretary of State for Justice;
   - (b) acting on behalf of the Secretary of State for Justice; or
   - (c) a member of a committee established by the Secretary of State for Justice.
 
-## 7. Amendment to the Apprenticeships, Skills, Children and Learning Act 2009[^key-17eba8e8ee51dc0a10012761b85aead9]
+## 7. Amendment to the Apprenticeships, Skills, Children and Learning Act 2009[^c-17eba8e8ee51dc0a10012761b85aead9]
 
 After section 71 of the Apprenticeships, Skills, Children and Learning Act 2009[^f00006] insert—
 
@@ -122,7 +122,7 @@ After section 71 of the Apprenticeships, Skills, Children and Learning Act 2009[
 
 .
 
-## 8. Amendment to the Education Act 1996[^key-9a5264339486f9392497b45be47826c0]
+## 8. Amendment to the Education Act 1996[^c-9a5264339486f9392497b45be47826c0]
 
 For section 537C of the Education Act 1996[^f00008] substitute—
 
@@ -163,38 +163,38 @@ A full impact assessment of the effect that these regulations will have on each 
 
 [^f00002]: Footnote: [2006 c.50](https://www.legislation.gov.uk/ukpga/2006/50). For the definition of “relevant Minister” see section 74(7) and for “the Minister” see section 78(6).
 
-[^key-2fe346eb5e2df62f6786aee3fa95a740]: Commencement: Reg. 1 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2)
+[^c-2fe346eb5e2df62f6786aee3fa95a740]: Commencement: Reg. 1 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2)
 
-[^key-fae77f9c8529610b44dc527b3e711216]: Commencement: Reg. 2 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2)
+[^c-fae77f9c8529610b44dc527b3e711216]: Commencement: Reg. 2 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2)
 
 [^f00003]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31). Section 21 was amended by the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40), Schedule 3, paragraph 14 and Schedule 18, Part 3.
 
-[^key-23c00372cdae3401e1cd9088ad0507ae]: Commencement: Reg. 3 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2)
+[^c-23c00372cdae3401e1cd9088ad0507ae]: Commencement: Reg. 3 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2)
 
-[^key-1be8d23711e3a57969a23ba0a27b240d]: Commencement: Reg. 4 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2)
+[^c-1be8d23711e3a57969a23ba0a27b240d]: Commencement: Reg. 4 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2)
 
 [^f00004]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13). See the definition of “sixth form college corporation” in section 90(1). The definition was inserted by the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22), Schedule 8, paragraphs 1 and 12.
 
-[^key-0a11d6f160dbe1c066c5bc7b66d67e14]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/1726/regulation/5) substituted (9.1.2023) by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/2)
+[^c-0a11d6f160dbe1c066c5bc7b66d67e14]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/1726/regulation/5) substituted (9.1.2023) by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/2)
 
-[^key-97e6bee5763462c4e86fd21043bb266c]: Commencement: Reg. 6 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2)
+[^c-97e6bee5763462c4e86fd21043bb266c]: Commencement: Reg. 6 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2)
 
-[^key-c917e13e352322a31c4f117aa129228a]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/6/1) substituted (9.1.2023) by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/3/a/i)
+[^c-c917e13e352322a31c4f117aa129228a]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/6/1) substituted (9.1.2023) by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/3/a/i)
 
-[^key-f8ec403b0de9e30c95d355d13485fa6e]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/6/1) substituted (9.1.2023) by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/3/a/ii)
+[^c-f8ec403b0de9e30c95d355d13485fa6e]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/6/1) substituted (9.1.2023) by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/3/a/ii)
 
-[^key-528b79ffcd302a36c2e1f7edd7415bc9]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/6/2) substituted (9.1.2023) by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/3/b/i)
+[^c-528b79ffcd302a36c2e1f7edd7415bc9]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/6/2) substituted (9.1.2023) by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/3/b/i)
 
-[^key-77c27aa4fe1fc7cd0b4aa5490c3b8677]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/6/2) substituted (9.1.2023) by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/3/b/ii)
+[^c-77c27aa4fe1fc7cd0b4aa5490c3b8677]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/6/2) substituted (9.1.2023) by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/3/b/ii)
 
-[^key-810cc877d59eb00620c881ac064df36a]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/6/3) inserted (9.1.2023) by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/3/c)
+[^c-810cc877d59eb00620c881ac064df36a]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/6/3) inserted (9.1.2023) by [The Charities Act 2006 (Principal Regulators of Exempt Charities) (Amendment) Regulations 2022 (S.I. 2022/1290)](https://www.legislation.gov.uk/uksi/2022/1290), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/1290/regulation/2/3/c)
 
-[^key-17eba8e8ee51dc0a10012761b85aead9]: Commencement: Reg. 7 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2)
+[^c-17eba8e8ee51dc0a10012761b85aead9]: Commencement: Reg. 7 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2)
 
 [^f00006]: Footnote: [2009 c.22](https://www.legislation.gov.uk/ukpga/2009/22).
 
 [^f00007]: Footnote: The Young People’s Learning Agency for England was established by the Apprenticeships, Skills, Children and Learning Act 2009, section 60, and is referred to in that Act as “the YPLA”.
 
-[^key-9a5264339486f9392497b45be47826c0]: Commencement: Reg. 8 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2)
+[^c-9a5264339486f9392497b45be47826c0]: Commencement: Reg. 8 in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2)
 
 [^f00008]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Section 537 was amended by the Education Act [1997 (c.44)](https://www.legislation.gov.uk/ukpga/1997/44), Schedule 7, paragraph 37; by the School Standards and Framework Act [1998 (c.31)](https://www.legislation.gov.uk/ukpga/1998/31), Schedule 30, paragraph 152, and Schedule 31; by the Learning and Skills Act [2000 (c.21)](https://www.legislation.gov.uk/ukpga/2000/21), Schedule 9, paragraph 60 and by the Education Act [2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32), Schedule 7, paragraph 6, and Schedule 22. Section 537A was inserted by the Education Act [1997 (c.44)](https://www.legislation.gov.uk/ukpga/1997/44), section 20, and substituted by the School Standards and Framework Act [1998 (c.31)](https://www.legislation.gov.uk/ukpga/1998/31), Schedule 30, paragraph 153. Section 537B was inserted by the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40), section 164. Section 537C was inserted by [S.I. 2010/501](https://www.legislation.gov.uk/uksi/2010/501), paragraph 2 of the Schedule.

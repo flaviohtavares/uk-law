@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Schedule 11 (Amendments to the Teachers' Superannuation (Additional Voluntary Contributions) Regulations 1994 [^key-aa8ca0d9709c31726a4ef736bd0a6091]... has effect.
+(1) Schedule 11 (Amendments to the Teachers' Superannuation (Additional Voluntary Contributions) Regulations 1994 [^c-aa8ca0d9709c31726a4ef736bd0a6091]... has effect.
 
 (2) Except as provided in Schedule 13, the Regulations specified in Schedule 12 (revocations) are revoked.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa8ca0d9709c31726a4ef736bd0a6091]: Textual amendment: Words in [reg. 138(1)](https://www.legislation.gov.uk/uksi/2010/990/regulation/138/1) omitted (1.4.2015) by virtue of [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(c)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/c) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))
+[^c-aa8ca0d9709c31726a4ef736bd0a6091]: Textual amendment: Words in [reg. 138(1)](https://www.legislation.gov.uk/uksi/2010/990/regulation/138/1) omitted (1.4.2015) by virtue of [The Teachers (Compensation for Redundancy and Premature Retirement) Regulations 2015 (S.I. 2015/601)](https://www.legislation.gov.uk/uksi/2015/601), [regs. 1](https://www.legislation.gov.uk/uksi/2015/601/regulation/1), [42(c)](https://www.legislation.gov.uk/uksi/2015/601/regulation/42/c) (with [reg. 44(2)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/2)[(3)](https://www.legislation.gov.uk/uksi/2015/601/regulation/44/3))

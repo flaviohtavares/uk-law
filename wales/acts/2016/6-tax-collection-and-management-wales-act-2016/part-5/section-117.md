@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This Part makes provision about penalties relating to WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] taxes, including—
+(1) This Part makes provision about penalties relating to WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] taxes, including—
 
-- (a) penalties relating to failures to make tax returns or to pay WRA-collected tax or amounts payable in respect of tax credits[^key-a83f4ce7e9925557ca14ccbd213379ea],
+- (a) penalties relating to failures to make tax returns or to pay WRA-collected tax or amounts payable in respect of tax credits[^c-a83f4ce7e9925557ca14ccbd213379ea],
 - (b) penalties relating to inaccuracies,
 - (c) penalties relating to record-keeping and reimbursement arrangements, and
 - (d) penalties relating to investigations.
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
 
-[^key-a83f4ce7e9925557ca14ccbd213379ea]: Textual amendment: Words in [s. 117(1)(a)](https://www.legislation.gov.uk/anaw/2016/6/section/117/1/a) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 22](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/22)
+[^c-a83f4ce7e9925557ca14ccbd213379ea]: Textual amendment: Words in [s. 117(1)(a)](https://www.legislation.gov.uk/anaw/2016/6/section/117/1/a) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 22](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/22)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84A. Disclosure of information for certain purposes: childminder agencies[^key-9bd4a8a4794a944e574da104d520f579]
+## 84A. Disclosure of information for certain purposes: childminder agencies[^c-9bd4a8a4794a944e574da104d520f579]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bd4a8a4794a944e574da104d520f579]: Textual amendment: [S. 84A](https://www.legislation.gov.uk/ukpga/2006/21/section/84A) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 55](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/55); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-9bd4a8a4794a944e574da104d520f579]: Textual amendment: [S. 84A](https://www.legislation.gov.uk/ukpga/2006/21/section/84A) inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 55](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/55); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)

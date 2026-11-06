@@ -54,7 +54,7 @@ summary: ''
 
 - (a) every appropriate health board;
 - (b) every appropriate local authority;
-- (c) Consumer Scotland[^key-dc73a4ec1d2c3a196214b566cce54856]; and
+- (c) Consumer Scotland[^c-dc73a4ec1d2c3a196214b566cce54856]; and
 - (d) the Water Industry Commissioner for Scotland,
 
 a copy of the application and of the statement, scheme and summary referred to in paragraph (3).
@@ -68,4 +68,4 @@ a copy of the application and of the statement, scheme and summary referred to i
 
 ## Annotations
 
-[^key-dc73a4ec1d2c3a196214b566cce54856]: Textual amendment: Words in [reg. 24(4)(c)](https://www.legislation.gov.uk/ssi/2014/364/regulation/24/4/c) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2022/387/regulation/9)
+[^c-dc73a4ec1d2c3a196214b566cce54856]: Textual amendment: Words in [reg. 24(4)(c)](https://www.legislation.gov.uk/ssi/2014/364/regulation/24/4/c) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2022/387/regulation/9)

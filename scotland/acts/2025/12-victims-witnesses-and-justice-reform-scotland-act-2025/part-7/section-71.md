@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Jurisdiction: sexual offences[^key-f16ee8689690c2a8207cbfe50ee71c70]
+## 71. Jurisdiction: sexual offences[^c-f16ee8689690c2a8207cbfe50ee71c70]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f16ee8689690c2a8207cbfe50ee71c70]: Commencement: S. 71 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-f16ee8689690c2a8207cbfe50ee71c70]: Commencement: S. 71 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

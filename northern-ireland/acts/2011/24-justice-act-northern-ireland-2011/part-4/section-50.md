@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Powers of enforcement[^c22421851][^key-e3c46710947ce54cc413ac617b932e3d]
+## 50. Powers of enforcement[^c22421851][^c-e3c46710947ce54cc413ac617b932e3d]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^c22421851]: Commencement: [S. 50](https://www.legislation.gov.uk/nia/2011/24/section/50) wholly in operation at 1.1.2012; [s. 50](https://www.legislation.gov.uk/nia/2011/24/section/50) not in operation at Royal Assent see [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [s. 50](https://www.legislation.gov.uk/nia/2011/24/section/50) in operation for specified purposes at 1.8.2011 by [S.R. 2011/224](https://www.legislation.gov.uk/nisr/2011/224), [art. 3(d)](https://www.legislation.gov.uk/nisr/2011/224/article/3/d); [s. 50](https://www.legislation.gov.uk/nia/2011/24/section/50) in operation at 1.1.2012 in so far as not already in operation by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(e)](https://www.legislation.gov.uk/nisr/2011/370/article/3/e)
 
-[^key-e3c46710947ce54cc413ac617b932e3d]: Commencement: [S. 50](https://www.legislation.gov.uk/nia/2011/24/section/50) in operation at 1.1.2012 in so far as not already in operation by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(e)](https://www.legislation.gov.uk/nisr/2011/370/article/3/e)
+[^c-e3c46710947ce54cc413ac617b932e3d]: Commencement: [S. 50](https://www.legislation.gov.uk/nia/2011/24/section/50) in operation at 1.1.2012 in so far as not already in operation by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(e)](https://www.legislation.gov.uk/nisr/2011/370/article/3/e)

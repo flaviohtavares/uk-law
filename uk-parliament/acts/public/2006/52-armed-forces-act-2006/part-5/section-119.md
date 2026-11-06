@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Circumstances in which CO has power to charge etc[^key-1866d07f90ec0b366a69928556458a37][^key-d795e54b7762d356d5e00ca8e6700781][^key-e575be9ba357982da64c4126c34bcca3]
+## 119. Circumstances in which CO has power to charge etc[^c-1866d07f90ec0b366a69928556458a37][^c-d795e54b7762d356d5e00ca8e6700781][^c-e575be9ba357982da64c4126c34bcca3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) Subsection (2) does not apply if the allegation or circumstances—
 
 - (a) give or have given rise to the duty under section 113(1) or 114(1);
-- (b) are being or have been investigated by a service police force or the tri-service serious crime unit[^key-069b690684105db82ec2ac68920f2e22]; or
+- (b) are being or have been investigated by a service police force or the tri-service serious crime unit[^c-069b690684105db82ec2ac68920f2e22]; or
 - (c) are being or have been investigated by a UK police force or overseas police force, and it appears to the commanding officer that that force may refer the matter to the service police.
 
 (4) A commanding officer has initial powers in respect of a case which a service policeman has referred to him under section 116(3) (referral of case following investigation by service or civilian police).
@@ -38,10 +38,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1866d07f90ec0b366a69928556458a37]: Commencement: S. 119 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-1866d07f90ec0b366a69928556458a37]: Commencement: S. 119 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-d795e54b7762d356d5e00ca8e6700781]: Commencement: S. 119 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-d795e54b7762d356d5e00ca8e6700781]: Commencement: S. 119 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-e575be9ba357982da64c4126c34bcca3]: Modification: S. 119 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/9/2)
+[^c-e575be9ba357982da64c4126c34bcca3]: Modification: S. 119 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/9/2)
 
-[^key-069b690684105db82ec2ac68920f2e22]: Textual amendment: Words in [s. 119(3)(b)](https://www.legislation.gov.uk/ukpga/2006/52/section/119/3/b) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/30); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)
+[^c-069b690684105db82ec2ac68920f2e22]: Textual amendment: Words in [s. 119(3)(b)](https://www.legislation.gov.uk/ukpga/2006/52/section/119/3/b) inserted (1.5.2022 for specified purposes, 5.12.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1), [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/2021/35/schedule/5/paragraph/30); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/e); [S.I. 2022/1095](https://www.legislation.gov.uk/uksi/2022/1095), [reg. 4](https://www.legislation.gov.uk/uksi/2022/1095/regulation/4)

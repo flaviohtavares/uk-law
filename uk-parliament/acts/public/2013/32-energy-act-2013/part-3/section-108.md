@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Reporting requirements of Secretary of State[^key-bac73ac2e1bc3f7e039f2eed9551f065]
+## 108. Reporting requirements of Secretary of State[^c-bac73ac2e1bc3f7e039f2eed9551f065]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bac73ac2e1bc3f7e039f2eed9551f065]: Commencement: S. 108 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-bac73ac2e1bc3f7e039f2eed9551f065]: Commencement: S. 108 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

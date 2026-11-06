@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171ZY. Rate and period of pay[^key-46094a9f522c6af0c405f8f1338e0429]
+## 171ZY. Rate and period of pay[^c-46094a9f522c6af0c405f8f1338e0429]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ and is not afterwards excluded from such a period by a variation of the period o
 
 ## Annotations
 
-[^key-46094a9f522c6af0c405f8f1338e0429]: Textual amendment: [Pt. 12ZC](https://www.legislation.gov.uk/ukpga/1992/4/part/12ZC) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 119(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/119/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/c)
+[^c-46094a9f522c6af0c405f8f1338e0429]: Textual amendment: [Pt. 12ZC](https://www.legislation.gov.uk/ukpga/1992/4/part/12ZC) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 119(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/119/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/c)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The undertaker must not exercise a power conferred by articles 24 (compulsory acquisition of land) to 27 (power to override easements and other rights) or 32 (statutory undertakers and operators of the electronic communications code network) to 35 (temporary use of land for maintaining the authorised development) unless a guarantee or alternative form of security in respect of the liabilities of the undertaker[^key-da917285b50050c947d76b97d72a3447] to pay compensation under the power being exercised is first in place.
+(1) The undertaker must not exercise a power conferred by articles 24 (compulsory acquisition of land) to 27 (power to override easements and other rights) or 32 (statutory undertakers and operators of the electronic communications code network) to 35 (temporary use of land for maintaining the authorised development) unless a guarantee or alternative form of security in respect of the liabilities of the undertaker[^c-da917285b50050c947d76b97d72a3447] to pay compensation under the power being exercised is first in place.
 
 (2) The form of guarantee or security referred to in paragraph (1), and the amount guaranteed or secured, must be approved by the local planning authority; but such approval must not be unreasonably withheld.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da917285b50050c947d76b97d72a3447]: Textual amendment: Words in [art. 23(1)](https://www.legislation.gov.uk/uksi/2020/511/article/23/1) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/6)
+[^c-da917285b50050c947d76b97d72a3447]: Textual amendment: Words in [art. 23(1)](https://www.legislation.gov.uk/uksi/2020/511/article/23/1) substituted (21.10.2020) by [The West Midlands Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1163)](https://www.legislation.gov.uk/uksi/2020/1163), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1163/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/1163/article/2/6)

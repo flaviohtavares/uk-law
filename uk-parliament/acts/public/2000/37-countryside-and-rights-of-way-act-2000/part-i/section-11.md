@@ -34,13 +34,13 @@ summary: ''
 - (h) the period within which and manner in which appeals under section 6 are to be brought,
 - (i) the advertising of such an appeal,
 - (j) the manner in which such appeals are to be considered,
-- (ja)[^key-41ed27b14dbf1fd2ef9217b5b2244a86] the procedure to be followed on a review under section 9A (including provision as to the period within which, and the manner in which, representations may be made to Natural England in relation to such a review),
+- (ja)[^c-41ed27b14dbf1fd2ef9217b5b2244a86] the procedure to be followed on a review under section 9A (including provision as to the period within which, and the manner in which, representations may be made to Natural England in relation to such a review),
 - (k) the procedure to be followed on a review under section 10, including the issue of maps in draft form, provisional form and conclusive form on a review, and
 - (l) the correction by the appropriate countryside body of minor errors or omissions in maps.
 
 (3) Regulations made by virtue of subsection (2)(b) or (e) may authorise or require a map to be prepared, issued, published or made available for inspection in electronic form, but must require any map in electronic form to be capable of being reproduced in printed form.
 
-(3A)[^key-29b3b5a10f5639224ea388ac658a2cb4] Regulations made by virtue of subsection (2)(ja) may make provision—
+(3A)[^c-29b3b5a10f5639224ea388ac658a2cb4] Regulations made by virtue of subsection (2)(ja) may make provision—
 
 - (a) for appeals in relation to a review, including by making provision applying, or corresponding to, any provision of, or made under, Schedule 1A to the National Parks and Access to the Countryside Act 1949 (coastal access reports) (with or without modifications);
 - (b) enabling Natural England to make a determination in preparing a map on a review that any boundary of an area of open country is to be treated as coinciding with a particular physical feature (whether the effect is to include other land as open country or to exclude part of an area of open country).
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41ed27b14dbf1fd2ef9217b5b2244a86]: Textual amendment: [S. 11(2)(ja)](https://www.legislation.gov.uk/ukpga/2000/37/section/11/2/ja) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 236(4)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/236/4/a), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-41ed27b14dbf1fd2ef9217b5b2244a86]: Textual amendment: [S. 11(2)(ja)](https://www.legislation.gov.uk/ukpga/2000/37/section/11/2/ja) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 236(4)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/236/4/a), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-29b3b5a10f5639224ea388ac658a2cb4]: Textual amendment: [S. 11(3A)](https://www.legislation.gov.uk/ukpga/2000/37/section/11/3A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 236(4)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/236/4/b), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-29b3b5a10f5639224ea388ac658a2cb4]: Textual amendment: [S. 11(3A)](https://www.legislation.gov.uk/ukpga/2000/37/section/11/3A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 236(4)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/236/4/b), [255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

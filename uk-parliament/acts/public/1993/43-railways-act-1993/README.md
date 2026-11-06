@@ -33,7 +33,7 @@ An Act to provide for the appointment and functions of a Rail Regulator and a Di
 
 \[5th November 1993\] [^c14096341]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-96c2523abded474f6ba4e09eb4be405d][^key-18672dc62d04b89ff09070923240c6b9]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-96c2523abded474f6ba4e09eb4be405d][^c-18672dc62d04b89ff09070923240c6b9]
 
 ## Contents
 
@@ -107,7 +107,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 22B — Applications for directions under section 22A: procedure.](part-i/section-22b.md)
 - [Section 22C — Amendment: supplementary.](part-i/section-22c.md)
 
-#### Provision of passenger services[^key-d03cd7ecfcda9e0bb465781235bbbb6b]
+#### Provision of passenger services[^c-d03cd7ecfcda9e0bb465781235bbbb6b]
 
 *Extent: E+W+S*
 
@@ -230,7 +230,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 74 — Annual and other reports of the Office of Rail and Road.](part-i/section-74.md)
 - [Section 75 — Annual reports of the Franchising Director.](part-i/section-75.md)
 
-#### The Passengers’ Council and Rail Passengers’ Committees[^key-4d655566d03f70488668f737f5bcfd0a][^c14108401]
+#### The Passengers’ Council and Rail Passengers’ Committees[^c-4d655566d03f70488668f737f5bcfd0a][^c14108401]
 
 *Extent: E+W+S*
 
@@ -422,9 +422,9 @@ SCHEDULES
 
     Act modified (*prosp.*) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [ss. 204(1)](https://www.legislation.gov.uk/ukpga/1999/29/section/204/1), [425(2)](https://www.legislation.gov.uk/ukpga/1999/29/section/425/2) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1))
 
-[^key-96c2523abded474f6ba4e09eb4be405d]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-96c2523abded474f6ba4e09eb4be405d]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-18672dc62d04b89ff09070923240c6b9]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1993/43): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-18672dc62d04b89ff09070923240c6b9]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1993/43): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
 [^c14096491]: Commencement: Pt. I (ss. 1-83) applied (1.4.1994) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/1993/43/section/36/2) (inserting s. 10(1)(viiia) in [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73)); [S.I. 1994/571](https://www.legislation.gov.uk/uksi/1994/571), [art. 5](https://www.legislation.gov.uk/uksi/1994/571/article/5)
 
@@ -438,7 +438,7 @@ SCHEDULES
 
 [^c14099341]: Textual amendment: S. 16A cross-heading inserted (15.10.2005) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [ss. 223](https://www.legislation.gov.uk/ukpga/2000/38/section/223), [275](https://www.legislation.gov.uk/ukpga/2000/38/section/275); [S.I. 2005/2862](https://www.legislation.gov.uk/uksi/2005/2862), [art. 3](https://www.legislation.gov.uk/uksi/2005/2862/article/3)
 
-[^key-d03cd7ecfcda9e0bb465781235bbbb6b]: Textual amendment: Word in [s. 23 cross-heading](https://www.legislation.gov.uk/ukpga/1993/43/part/I/crossheading/franchising-of-passenger-services) substituted (28.11.2024) by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2024/25/schedule/paragraph/2)
+[^c-d03cd7ecfcda9e0bb465781235bbbb6b]: Textual amendment: Word in [s. 23 cross-heading](https://www.legislation.gov.uk/ukpga/1993/43/part/I/crossheading/franchising-of-passenger-services) substituted (28.11.2024) by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2024/25/schedule/paragraph/2)
 
 [^M_F_44da91d6-d76c-45c1-9ffd-26955728c9c6]: Textual amendment: Words in s. 55 cross-heading substituted (16.10.2015) by virtue of [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), Sch. para. 1
 
@@ -452,7 +452,7 @@ SCHEDULES
 
 [^c14107681]: Textual amendment: Word in cross-heading substituted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 215](https://www.legislation.gov.uk/ukpga/2000/38/section/215), [Sch. 16 para. 43](https://www.legislation.gov.uk/ukpga/2000/38/schedule/16/paragraph/43); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II)) (which S.I. was amended by [S.I. 2001/115](https://www.legislation.gov.uk/uksi/2001/115), [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/115/article/2/2))
 
-[^key-4d655566d03f70488668f737f5bcfd0a]: Textual amendment: Words in s. 76 cross-heading substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 6(4)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/6/4)
+[^c-4d655566d03f70488668f737f5bcfd0a]: Textual amendment: Words in s. 76 cross-heading substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 6(4)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/6/4)
 
 [^c14108401]: Textual amendment: Words in cross-heading substituted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 227](https://www.legislation.gov.uk/ukpga/2000/38/section/227), [Sch. 22 para. 8(10)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/22/paragraph/8/10); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 

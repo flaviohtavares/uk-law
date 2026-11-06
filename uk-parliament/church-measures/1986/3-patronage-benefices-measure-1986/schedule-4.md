@@ -22,33 +22,33 @@ summary: ''
 
 Section 41.
 
-### ...[^key-d15a40784f4293be5f4e3b88d6ed1671]
+### ...[^c-d15a40784f4293be5f4e3b88d6ed1671]
 
-**1.**[^key-d15a40784f4293be5f4e3b88d6ed1671] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d15a40784f4293be5f4e3b88d6ed1671] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Parsonages Measure 1938
 
-**2.**[^key-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### New Parishes Measure 1943
 
-**9.**[^key-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Parsonages (Amendment) Measure 1947
 
-**10.**[^key-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-da54f1980e58751cf5edac1fa0b2b750] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### City of London (Guild Churches) Act 1952[^c922722]
 
@@ -81,29 +81,29 @@ Section 41.
 
 ### Pastoral Measure 1983[^c922725]
 
-**17.**[^key-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-4d646d17bcf6b983294b894ab6dde5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d15a40784f4293be5f4e3b88d6ed1671]: Textual amendment: Sch. 4 para. 1 and cross-heading repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/2); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-d15a40784f4293be5f4e3b88d6ed1671]: Textual amendment: Sch. 4 para. 1 and cross-heading repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/2); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-da54f1980e58751cf5edac1fa0b2b750]: Textual amendment: Sch. 4 paras. 2-10 repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-da54f1980e58751cf5edac1fa0b2b750]: Textual amendment: Sch. 4 paras. 2-10 repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
 [^c922722]: Marginal citation: [1952 c. xxviii](https://www.legislation.gov.uk/ukla/1952/28).
 
@@ -113,4 +113,4 @@ Section 41.
 
 [^c922725]: Marginal citation: [1983 No. 1](https://www.legislation.gov.uk/ukcm/1983/1).
 
-[^key-4d646d17bcf6b983294b894ab6dde5a7]: Textual amendment: Sch. 4 paras. 17-25 repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-4d646d17bcf6b983294b894ab6dde5a7]: Textual amendment: Sch. 4 paras. 17-25 repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

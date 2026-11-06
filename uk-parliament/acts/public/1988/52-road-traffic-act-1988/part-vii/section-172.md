@@ -33,7 +33,7 @@ summary: ''
 
 (2) Where the driver of a vehicle is alleged to be guilty of an offence to which this section applies—
 
-- (a) the person keeping the vehicle shall give such information as to the identity of the driver as he may be required to give by or on behalf of a chief officer of police or the Chief Constable of the British Transport Police Force[^key-a7d583adaab22e39ac6d5198a67adf46], and
+- (a) the person keeping the vehicle shall give such information as to the identity of the driver as he may be required to give by or on behalf of a chief officer of police or the Chief Constable of the British Transport Police Force[^c-a7d583adaab22e39ac6d5198a67adf46], and
 - (b) any other person shall if required as stated above give any information which it is in his power to give and may lead to identification of the driver.
 
 (3) Subject to the following provisions, a person who fails to comply with a requirement under subsection (2) above shall be guilty of an offence.
@@ -44,12 +44,12 @@ summary: ''
 
 (6) Where the alleged offender is a body corporate, or in Scotland a partnership or an unincorporated association, or the proceedings are brought against him by virtue of subsection (5) above or subsection (11) below, subsection (4) above shall not apply unless, in addition to the matters there mentioned, the alleged offender shows that no record was kept of the persons who drove the vehicle and that the failure to keep a record was reasonable.
 
-(7) A requirement under subsection (2) may be made by written notice served in accordance with Criminal Procedure Rules, if the alleged offence took place in England and Wales, or by post otherwise[^key-407d6314c88894d585bb49481637f763]; and where it is so made—
+(7) A requirement under subsection (2) may be made by written notice served in accordance with Criminal Procedure Rules, if the alleged offence took place in England and Wales, or by post otherwise[^c-407d6314c88894d585bb49481637f763]; and where it is so made—
 
 - (a) it shall have effect as a requirement to give the information within the period of 28 days beginning with the day on which the notice is served, and
 - (b) the person on whom the notice is served shall not be guilty of an offence under this section if he shows either that he gave the information as soon as reasonably practicable after the end of that period or that it has not been reasonably practicable for him to give it.
 
-(7A)[^key-d1462e3b400a5dd88e7054436df3bafe] For the purposes of subsection (7) (as it applies in relation to an alleged offence in England and Wales)—
+(7A)[^c-d1462e3b400a5dd88e7054436df3bafe] For the purposes of subsection (7) (as it applies in relation to an alleged offence in England and Wales)—
 
 - (a) Criminal Procedure Rules (as they have effect from time to time) apply to the notice as if it were a document to be served in criminal proceedings before a magistrates’ court, and
 - (b) any magistrates’ court may discharge functions conferred on a court by those Rules in relation to such service.
@@ -76,10 +76,10 @@ and references to the driver of a vehicle include references to the rider of a c
 
 [^c19218631]: Textual amendment: Words in s. 172(1)(c) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
-[^key-a7d583adaab22e39ac6d5198a67adf46]: Textual amendment: Words in s. 172(2)(a) inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2015/7/section/22/2), [57(3)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/3)
+[^c-a7d583adaab22e39ac6d5198a67adf46]: Textual amendment: Words in s. 172(2)(a) inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2015/7/section/22/2), [57(3)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/3)
 
-[^key-407d6314c88894d585bb49481637f763]: Textual amendment: Words in [s. 172(7)](https://www.legislation.gov.uk/ukpga/1988/52/section/172/7) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3), [Sch. 1 para. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/1/paragraph/10/3/a)
+[^c-407d6314c88894d585bb49481637f763]: Textual amendment: Words in [s. 172(7)](https://www.legislation.gov.uk/ukpga/1988/52/section/172/7) substituted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3), [Sch. 1 para. 10(3)(a)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/1/paragraph/10/3/a)
 
-[^key-d1462e3b400a5dd88e7054436df3bafe]: Textual amendment: [S. 172(7A)](https://www.legislation.gov.uk/ukpga/1988/52/section/172/7A) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3), [Sch. 1 para. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/1/paragraph/10/3/b)
+[^c-d1462e3b400a5dd88e7054436df3bafe]: Textual amendment: [S. 172(7A)](https://www.legislation.gov.uk/ukpga/1988/52/section/172/7A) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3), [Sch. 1 para. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/1/paragraph/10/3/b)
 
 [^c13997621]: Textual amendment: Words in s. 172(10) substituted (1.9.1994) by [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22), [ss. 63](https://www.legislation.gov.uk/ukpga/1994/22/section/63), [66(1)](https://www.legislation.gov.uk/ukpga/1994/22/section/66/1), [Sch. 3 para. 24(1)](https://www.legislation.gov.uk/ukpga/1994/22/schedule/3/paragraph/24/1) (with [s. 57(4)](https://www.legislation.gov.uk/ukpga/1994/22/section/57/4))

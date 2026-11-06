@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Continuity[^key-8d0ee51bfe21c1e911dfb092285de821]
+## 222. Continuity[^c-8d0ee51bfe21c1e911dfb092285de821]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d0ee51bfe21c1e911dfb092285de821]: Textual amendment: [Art. 222](https://www.legislation.gov.uk/uksi/2014/3348/article/222) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/112); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d0ee51bfe21c1e911dfb092285de821]: Textual amendment: [Art. 222](https://www.legislation.gov.uk/uksi/2014/3348/article/222) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/112); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

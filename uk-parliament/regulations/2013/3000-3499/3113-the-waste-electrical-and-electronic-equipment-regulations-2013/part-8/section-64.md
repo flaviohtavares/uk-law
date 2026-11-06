@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Suspension and cancellation of approval[^key-3f3d75c2e93a187ee05d1529b7d455c2]
+## 64. Suspension and cancellation of approval[^c-3f3d75c2e93a187ee05d1529b7d455c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,9 +29,9 @@ summary: ''
   - (ii) in the case of an AATF, in connection with compliance with any of the conditions specified in Part 2 of Schedule 11, or
   - (iii) in the case of an approved exporter, in connection with compliance with any of the conditions specified in Part 3 of Schedule 11.
 
-(2) Where the appropriate authority is no longer satisfied that the requirements of Article 9(3) of the Directive are met in relation to WEEE exported to a site outside the EEA, the appropriate authority must[^key-96d5990e0d00ca336ca3016670934aad] cancel the approval of an exporter to the extent that it relates to that site.
+(2) Where the appropriate authority is no longer satisfied that the requirements of Article 9(3) of the Directive are met in relation to WEEE exported to a site outside the EEA, the appropriate authority must[^c-96d5990e0d00ca336ca3016670934aad] cancel the approval of an exporter to the extent that it relates to that site.
 
-(3) Where the appropriate authority suspends or cancels a grant of approval under paragraph (1) or cancels the approval of an exporter to the extent that it relates to a site under paragraph (2), it must[^key-465fb25d7ef1659aa807f4d684f355eb] serve on the operator of the ATF or the exporter concerned a notification in writing stating—
+(3) Where the appropriate authority suspends or cancels a grant of approval under paragraph (1) or cancels the approval of an exporter to the extent that it relates to a site under paragraph (2), it must[^c-465fb25d7ef1659aa807f4d684f355eb] serve on the operator of the ATF or the exporter concerned a notification in writing stating—
 
 - (a) its decision to cancel or suspend (as the case may be) the grant of approval;
 - (b) its reasons for the decision;
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3f3d75c2e93a187ee05d1529b7d455c2]: Commencement: Reg. 64 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-3f3d75c2e93a187ee05d1529b7d455c2]: Commencement: Reg. 64 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-96d5990e0d00ca336ca3016670934aad]: Textual amendment: Word in [reg. 64(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/64/2) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)
+[^c-96d5990e0d00ca336ca3016670934aad]: Textual amendment: Word in [reg. 64(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/64/2) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)
 
-[^key-465fb25d7ef1659aa807f4d684f355eb]: Textual amendment: Word in [reg. 64(3)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/64/3) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)
+[^c-465fb25d7ef1659aa807f4d684f355eb]: Textual amendment: Word in [reg. 64(3)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/64/3) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)

@@ -33,7 +33,7 @@ Public Health, Wales
 
 Transport, Wales
 
-The Health Protection (Coronavirus, International Travel, Pre-Departure Testing and Operator Liability) (Wales) (Amendment) Regulations 2021 (revoked)[^key-c0ccdce155cca064a47bdcdec709f1e9]
+The Health Protection (Coronavirus, International Travel, Pre-Departure Testing and Operator Liability) (Wales) (Amendment) Regulations 2021 (revoked)[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
 Made
 
@@ -47,86 +47,86 @@ Coming into force
 
 at 4.00 a.m. on 18 January 2021
 
-[^key-c0ccdce155cca064a47bdcdec709f1e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0ccdce155cca064a47bdcdec709f1e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-c0ccdce155cca064a47bdcdec709f1e9]
+[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 1 — General[^key-c0ccdce155cca064a47bdcdec709f1e9]
+## PART 1 — General[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
-### 1. Title, commencement and application[^key-c0ccdce155cca064a47bdcdec709f1e9]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-c0ccdce155cca064a47bdcdec709f1e9]
+### 1. Title, commencement and application[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Pre-Departure Testing[^key-c0ccdce155cca064a47bdcdec709f1e9]
-
-### 3. Amendment of the International Travel Regulations[^key-c0ccdce155cca064a47bdcdec709f1e9]
+### 2. Interpretation[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Operator liability in respect of arrivals[^key-c0ccdce155cca064a47bdcdec709f1e9]
+## PART 2 — Pre-Departure Testing[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
-### 4. Interpretation[^key-c0ccdce155cca064a47bdcdec709f1e9]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Requirement to implement and maintain processes and systems[^key-c0ccdce155cca064a47bdcdec709f1e9]
+### 3. Amendment of the International Travel Regulations[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5A. Requirement to ensure passengers possess notification of post arrival testing arrangements[^key-c0ccdce155cca064a47bdcdec709f1e9]
+## PART 3 — Operator liability in respect of arrivals[^c-c0ccdce155cca064a47bdcdec709f1e9]
+
+### 4. Interpretation[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5B. Requirement to ensure that certain passengers do not arrive at ports in Wales[^key-c0ccdce155cca064a47bdcdec709f1e9]
+### 5. Requirement to implement and maintain processes and systems[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5C. Requirement to check vaccination status[^key-c0ccdce155cca064a47bdcdec709f1e9]
+### 5A. Requirement to ensure passengers possess notification of post arrival testing arrangements[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5D. Requirement to check exemptions[^key-c0ccdce155cca064a47bdcdec709f1e9]
+### 5B. Requirement to ensure that certain passengers do not arrive at ports in Wales[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Offences[^key-c0ccdce155cca064a47bdcdec709f1e9]
+### 5C. Requirement to check vaccination status[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Fixed penalty notices[^key-c0ccdce155cca064a47bdcdec709f1e9]
+### 5D. Requirement to check exemptions[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Prosecutions[^key-c0ccdce155cca064a47bdcdec709f1e9]
+### 6. Offences[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Power to use and disclose information[^key-c0ccdce155cca064a47bdcdec709f1e9]
+### 7. Fixed penalty notices[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Review[^key-c0ccdce155cca064a47bdcdec709f1e9]
+### 8. Prosecutions[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Expiry[^key-c0ccdce155cca064a47bdcdec709f1e9]
+### 9. Power to use and disclose information[^c-c0ccdce155cca064a47bdcdec709f1e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ccdce155cca064a47bdcdec709f1e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 10. Review[^c-c0ccdce155cca064a47bdcdec709f1e9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Expiry[^c-c0ccdce155cca064a47bdcdec709f1e9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c0ccdce155cca064a47bdcdec709f1e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c0ccdce155cca064a47bdcdec709f1e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0ccdce155cca064a47bdcdec709f1e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c0ccdce155cca064a47bdcdec709f1e9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/48) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2022/315/regulation/4)
+[^c-c0ccdce155cca064a47bdcdec709f1e9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/48) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2022/315/regulation/4)

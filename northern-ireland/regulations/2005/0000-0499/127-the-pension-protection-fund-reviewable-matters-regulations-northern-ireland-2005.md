@@ -41,19 +41,19 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by Articles 188(2)(a) and (4)(a) and 280(3) of the Pensions (Northern Ireland) Order 2005[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-0e5be8b283604c9bccdfb9598285bd3d]
+## 1. Citation, commencement and interpretation[^c-0e5be8b283604c9bccdfb9598285bd3d]
 
 (1) These Regulations may be cited as the Pension Protection Fund (Reviewable Matters) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
 
 (2) In these Regulations “the Order” means the Pensions (Northern Ireland) Order 2005 and any reference to a numbered Article or Schedule is a reference to the Article of, or the Schedule to, the Order bearing that number.
 
-## 2. Reviewable matters: failures by the Board[^key-0dc44c4d377ef701ffaccf923191f0cf]
+## 2. Reviewable matters: failures by the Board[^c-0dc44c4d377ef701ffaccf923191f0cf]
 
 Any reference in any paragraph of Schedule 8 (reviewable matters) specified in column 1 of the Schedule to these Regulations to a failure by the Board to do any act or make any determination is to be construed as a reference to a failure by the Board to do the act or make the determination within the period specified in the corresponding paragraph in column 2 of that Schedule.
 
-## 3. Modification of Schedule 8[^key-7fc71054254bf3034b8670a87ae04c11]
+## 3. Modification of Schedule 8[^c-7fc71054254bf3034b8670a87ae04c11]
 
-(1)[^key-060bbcdf19421a4b0e0a8f14af214be7] In relation to a partially guaranteed scheme, Schedule 8 applies as if –
+(1)[^c-060bbcdf19421a4b0e0a8f14af214be7] In relation to a partially guaranteed scheme, Schedule 8 applies as if –
 
 - (a) in paragraph 8 after “valuation” there were inserted “of the unsecured part”;
 - (b) in paragraph 9 after “respect” there were inserted “of the unsecured part”; and
@@ -65,9 +65,9 @@ Any reference in any paragraph of Schedule 8 (reviewable matters) specified in c
 
   .
 
-(2)[^key-6e9485d1dcc9ab0b671402260aa1a37a] Paragraph (1) shall not apply where regulation 2A of the Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations (Northern Ireland) 2005 (schemes to which regulation 2(1) does not apply) applies to a scheme.
+(2)[^c-6e9485d1dcc9ab0b671402260aa1a37a] Paragraph (1) shall not apply where regulation 2A of the Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations (Northern Ireland) 2005 (schemes to which regulation 2(1) does not apply) applies to a scheme.
 
-## 4. Amendment of Schedule 8[^key-8ae005f4da6d44d0bf89bb177b260a38]
+## 4. Amendment of Schedule 8[^c-8ae005f4da6d44d0bf89bb177b260a38]
 
 In Schedule 8 –
 
@@ -90,7 +90,7 @@ A senior officer of the
 
 Department for Social Development
 
-## SCHEDULE[^key-432371104c89b99f3750ba45c20e666e]
+## SCHEDULE[^c-432371104c89b99f3750ba45c20e666e]
 
 Regulation 2
 
@@ -126,7 +126,7 @@ Regulation 2
 </tbody>
 </table>
 
-[^key-791c78e3b36c6a127a090174170dcd35][^key-791c78e3b36c6a127a090174170dcd35][^key-6a600af007997a6729bc9094f5a39c1b]
+[^c-791c78e3b36c6a127a090174170dcd35][^c-791c78e3b36c6a127a090174170dcd35][^c-6a600af007997a6729bc9094f5a39c1b]
 
 (This note is not part of the Regulations.)
 
@@ -150,24 +150,24 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Part III is modified in its application to partially guaranteed schemes by [S.R. 2005 No. 55](https://www.legislation.gov.uk/nisr/2005/55), in its application to hybrid schemes by [S.R. 2005 No. 84](https://www.legislation.gov.uk/nisr/2005/84), and in its application to multi-employer schemes by [S.R. 2005 No. 91](https://www.legislation.gov.uk/nisr/2005/91)
 
-[^key-0e5be8b283604c9bccdfb9598285bd3d]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/127/regulation/1/1)
+[^c-0e5be8b283604c9bccdfb9598285bd3d]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/127/regulation/1/1)
 
-[^key-0dc44c4d377ef701ffaccf923191f0cf]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/127/regulation/1/1)
+[^c-0dc44c4d377ef701ffaccf923191f0cf]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/127/regulation/1/1)
 
-[^key-7fc71054254bf3034b8670a87ae04c11]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/127/regulation/1/1)
+[^c-7fc71054254bf3034b8670a87ae04c11]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/127/regulation/1/1)
 
-[^key-060bbcdf19421a4b0e0a8f14af214be7]: Textual amendment: Reg. 3 renumbered as reg. 3(1) (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2010/32/regulation/4/a)
+[^c-060bbcdf19421a4b0e0a8f14af214be7]: Textual amendment: Reg. 3 renumbered as reg. 3(1) (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2010/32/regulation/4/a)
 
 [^f00002]: Footnote: Paragraph (4A) was inserted by regulation 10(1)(a) of [S.R. 2005 No. 55](https://www.legislation.gov.uk/nisr/2005/55)
 
-[^key-6e9485d1dcc9ab0b671402260aa1a37a]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2005/127/regulation/3/2) added (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2010/32/regulation/4/b)
+[^c-6e9485d1dcc9ab0b671402260aa1a37a]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2005/127/regulation/3/2) added (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2010/32/regulation/4/b)
 
-[^key-8ae005f4da6d44d0bf89bb177b260a38]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/127/regulation/1/1)
+[^c-8ae005f4da6d44d0bf89bb177b260a38]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/127/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 2005 No. 126](https://www.legislation.gov.uk/nisr/2005/126)
 
-[^key-432371104c89b99f3750ba45c20e666e]: Commencement: Sch. in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/127/regulation/1/1)
+[^c-432371104c89b99f3750ba45c20e666e]: Commencement: Sch. in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/127/regulation/1/1)
 
-[^key-791c78e3b36c6a127a090174170dcd35]: Textual amendment: [Sch. para. 13A](https://www.legislation.gov.uk/nisr/2005/127/schedule/paragraph/13A) revoked (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2007/193/regulation/6/a)
+[^c-791c78e3b36c6a127a090174170dcd35]: Textual amendment: [Sch. para. 13A](https://www.legislation.gov.uk/nisr/2005/127/schedule/paragraph/13A) revoked (6.4.2007) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/193)](https://www.legislation.gov.uk/nisr/2007/193), [regs. 1](https://www.legislation.gov.uk/nisr/2007/193/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2007/193/regulation/6/a)
 
-[^key-6a600af007997a6729bc9094f5a39c1b]: Textual amendment: [Sch. paras. 17-22](https://www.legislation.gov.uk/nisr/2005/127/schedule/paragraph/17) added (1.9.2005) by [The Occupational Pension Schemes (Fraud Compensation Payments and Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/381)](https://www.legislation.gov.uk/nisr/2005/381), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/381/regulation/1/1), [21](https://www.legislation.gov.uk/nisr/2005/381/regulation/21)
+[^c-6a600af007997a6729bc9094f5a39c1b]: Textual amendment: [Sch. paras. 17-22](https://www.legislation.gov.uk/nisr/2005/127/schedule/paragraph/17) added (1.9.2005) by [The Occupational Pension Schemes (Fraud Compensation Payments and Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/381)](https://www.legislation.gov.uk/nisr/2005/381), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/381/regulation/1/1), [21](https://www.legislation.gov.uk/nisr/2005/381/regulation/21)

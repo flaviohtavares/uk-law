@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Payment of annual fee to the Chief Inspector by local authorities[^key-c8c62fed01495f44049fbc1da0f64e60][^c17507881]
+## 155. Payment of annual fee to the Chief Inspector by local authorities[^c-c8c62fed01495f44049fbc1da0f64e60][^c17507881]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8c62fed01495f44049fbc1da0f64e60]: Commencement: S. 155 in force at 1.4.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(v)](https://www.legislation.gov.uk/uksi/2007/935/article/5/v)
+[^c-c8c62fed01495f44049fbc1da0f64e60]: Commencement: S. 155 in force at 1.4.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(v)](https://www.legislation.gov.uk/uksi/2007/935/article/5/v)
 
 [^c17507881]: Commencement: S. 155 partly in force; s. 155 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see [s. 188(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/1)

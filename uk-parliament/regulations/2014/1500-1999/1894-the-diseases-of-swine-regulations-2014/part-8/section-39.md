@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Offences and penalties[^key-2f48475ba3b6c2d0945e3d5b0cbe06db]
+## 39. Offences and penalties[^c-2f48475ba3b6c2d0945e3d5b0cbe06db]
 
 *Extent: E+W+S*
 
-(1) It is an offence to fail , otherwise than in England, *(Extent: E+W)*[^key-e00a96de9c728c2fef5052626bc5a29d] to comply with—
+(1) It is an offence to fail , otherwise than in England, *(Extent: E+W)*[^c-e00a96de9c728c2fef5052626bc5a29d] to comply with—
 
 - (a) regulation 3(3)(a) or (b) (obligations on change in occupation);
 - (b) regulation 5(1) or (2) (requirement to notify the appropriate authority of suspect pig or carcase);
@@ -45,7 +45,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1A)[^key-c9b23e77bd746243bfda5d316c7bbb8e] It is an offence against the Animal Health Act 1981 to fail, in England, to comply with—
+(1A)[^c-c9b23e77bd746243bfda5d316c7bbb8e] It is an offence against the Animal Health Act 1981 to fail, in England, to comply with—
 
 - (a) regulation 3(3)(a) or (b) (obligations on change in occupation);
 - (b) regulation 5(1) or (2) (requirement to notify the appropriate authority of suspect pig or carcase of a pig);
@@ -74,17 +74,17 @@ summary: ''
 - (y) paragraph 1, 2, 4, 5, 6, 7, 8, 9, 11, 18, 20, 22, 25, 27, 28, 30, 31, 32, 33, 34, 35(1)(b) or (2), 36, 37, 38, 39, 40, 41 or 45 of Schedule 3A (measures in controlled zones);
 - (z) paragraph 1, 3, 5 or 6 of Schedule 4A (cleansing, disinfection and treatment in England).
 
-(2) A person guilty of an offence under paragraph (1) or (1A) *(Extent: E+W)*[^key-52b31d531c41f91bc0cd7b55e9ef2ae7] is liable—
+(2) A person guilty of an offence under paragraph (1) or (1A) *(Extent: E+W)*[^c-52b31d531c41f91bc0cd7b55e9ef2ae7] is liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding three months or both;
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding six months or both.
 
 ## Annotations
 
-[^key-2f48475ba3b6c2d0945e3d5b0cbe06db]: Commencement: Reg. 39 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-2f48475ba3b6c2d0945e3d5b0cbe06db]: Commencement: Reg. 39 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
 
-[^key-e00a96de9c728c2fef5052626bc5a29d]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/39/1) inserted (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(32)(a)](https://www.legislation.gov.uk/uksi/2026/475/article/3/32/a)
+[^c-e00a96de9c728c2fef5052626bc5a29d]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/39/1) inserted (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(32)(a)](https://www.legislation.gov.uk/uksi/2026/475/article/3/32/a)
 
-[^key-c9b23e77bd746243bfda5d316c7bbb8e]: Textual amendment: [Reg. 39(1A)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/39/1A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(32)(b)](https://www.legislation.gov.uk/uksi/2026/475/article/3/32/b)
+[^c-c9b23e77bd746243bfda5d316c7bbb8e]: Textual amendment: [Reg. 39(1A)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/39/1A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(32)(b)](https://www.legislation.gov.uk/uksi/2026/475/article/3/32/b)
 
-[^key-52b31d531c41f91bc0cd7b55e9ef2ae7]: Textual amendment: Words in [reg. 39(2)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/39/2) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(32)(c)](https://www.legislation.gov.uk/uksi/2026/475/article/3/32/c)
+[^c-52b31d531c41f91bc0cd7b55e9ef2ae7]: Textual amendment: Words in [reg. 39(2)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/39/2) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(32)(c)](https://www.legislation.gov.uk/uksi/2026/475/article/3/32/c)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Scottish Ministers may by regulations make provision in connection with inquiries under this Act.
 
-(2) The reference in subsection (1) to inquiries does not include inquiries mentioned in section 43B[^key-9136afd891591aa24f34bbc6f3dc3ec3].
+(2) The reference in subsection (1) to inquiries does not include inquiries mentioned in section 43B[^c-9136afd891591aa24f34bbc6f3dc3ec3].
 
 (3) Regulations under subsection (1) may in particular make provision for or in connection with—
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9136afd891591aa24f34bbc6f3dc3ec3]: Textual amendment: Word in s. 81(2) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(24)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/24); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-9136afd891591aa24f34bbc6f3dc3ec3]: Textual amendment: Word in s. 81(2) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(24)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/24); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

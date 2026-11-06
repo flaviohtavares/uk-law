@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54A. Exemption for self-build housing[^key-5d59ccb9943e8eeaf1a1acea15200a92]
+## 54A. Exemption for self-build housing[^c-5d59ccb9943e8eeaf1a1acea15200a92]
 
 *Extent: E+W*
 
-(1) [^key-b9801591ac82ea8b36f3c9d72339d5ae]... A person (P) is eligible for an exemption from liability to pay CIL in respect of a chargeable development, or part of a chargeable development, if it comprises self-build housing or self-build communal development.
+(1) [^c-b9801591ac82ea8b36f3c9d72339d5ae]... A person (P) is eligible for an exemption from liability to pay CIL in respect of a chargeable development, or part of a chargeable development, if it comprises self-build housing or self-build communal development.
 
 (2) Self-build housing is a dwelling built by P (including where built following a commission by P) and occupied by P as P’s sole or main residence.
 
@@ -54,16 +54,16 @@ where—
 
 (9) An exemption or relief under this regulation is known as an exemption for self-build housing.
 
-(10)[^key-3ca4cc98a357a4d33766ffba5739bd4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-3ca4cc98a357a4d33766ffba5739bd4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-9bfe2c977aabcb87c0756607c8112654] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-9bfe2c977aabcb87c0756607c8112654] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5d59ccb9943e8eeaf1a1acea15200a92]: Textual amendment: [Regs. 54A-54D](https://www.legislation.gov.uk/uksi/2010/948/regulation/54A) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(10)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/10)
+[^c-5d59ccb9943e8eeaf1a1acea15200a92]: Textual amendment: [Regs. 54A-54D](https://www.legislation.gov.uk/uksi/2010/948/regulation/54A) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(10)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/10)
 
-[^key-b9801591ac82ea8b36f3c9d72339d5ae]: Textual amendment: Words in [reg. 54A(1)](https://www.legislation.gov.uk/uksi/2010/948/regulation/54A/1) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 11(11)(a)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/11/11/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-b9801591ac82ea8b36f3c9d72339d5ae]: Textual amendment: Words in [reg. 54A(1)](https://www.legislation.gov.uk/uksi/2010/948/regulation/54A/1) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 11(11)(a)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/11/11/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
 
-[^key-3ca4cc98a357a4d33766ffba5739bd4b]: Textual amendment: [Reg. 54A(10)](https://www.legislation.gov.uk/uksi/2010/948/regulation/54A/10) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 11(11)(b)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/11/11/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-3ca4cc98a357a4d33766ffba5739bd4b]: Textual amendment: [Reg. 54A(10)](https://www.legislation.gov.uk/uksi/2010/948/regulation/54A/10) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 11(11)(b)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/11/11/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
 
-[^key-9bfe2c977aabcb87c0756607c8112654]: Textual amendment: [Reg. 54A(11)](https://www.legislation.gov.uk/uksi/2010/948/regulation/54A/11) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 11(11)(b)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/11/11/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-9bfe2c977aabcb87c0756607c8112654]: Textual amendment: [Reg. 54A(11)](https://www.legislation.gov.uk/uksi/2010/948/regulation/54A/11) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 11(11)(b)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/11/11/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

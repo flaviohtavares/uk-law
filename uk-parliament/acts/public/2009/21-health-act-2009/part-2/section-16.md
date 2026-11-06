@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Trust special administrators: NHS trusts and NHS foundation trusts[^key-721483c109c25c8f48bea2181714a515]
+## 16. Trust special administrators: NHS trusts and NHS foundation trusts[^c-721483c109c25c8f48bea2181714a515]
 
 *Extent: E+W*
 
@@ -251,4 +251,4 @@ After section 65 of the National Health Service Act 2006 (c. 41) insert—
 
 ## Annotations
 
-[^key-721483c109c25c8f48bea2181714a515]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2009/21/section/16) in force at 15.2.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/30/article/3/a)
+[^c-721483c109c25c8f48bea2181714a515]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2009/21/section/16) in force at 15.2.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/30/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3ZA. Permitted eggs, permitted sperm and permitted embryos[^key-6db42925c10ade0176b7564209029052]
+## 3ZA. Permitted eggs, permitted sperm and permitted embryos[^c-6db42925c10ade0176b7564209029052]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ even though the egg or embryo has had applied to it in prescribed circumstances 
 
 ## Annotations
 
-[^key-6db42925c10ade0176b7564209029052]: Textual amendment: S. 3ZA inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 3(5)](https://www.legislation.gov.uk/ukpga/2008/22/section/3/5), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/a)
+[^c-6db42925c10ade0176b7564209029052]: Textual amendment: S. 3ZA inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 3(5)](https://www.legislation.gov.uk/ukpga/2008/22/section/3/5), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 334. Concurrence required for removal of members of certain tribunals[^key-1bbb5ca77aab2a54decb121b2631d44d]
+## 334. Concurrence required for removal of members of certain tribunals[^c-1bbb5ca77aab2a54decb121b2631d44d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 7(2)[^f00246] of the Tribunals and Inquiries Act 1992 (tribunals in r
 
 ## Annotations
 
-[^key-1bbb5ca77aab2a54decb121b2631d44d]: Commencement: Art. 334 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1bbb5ca77aab2a54decb121b2631d44d]: Commencement: Art. 334 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00246]: Footnote: Section 7(2) has been amended in terms not relevant to this Order.

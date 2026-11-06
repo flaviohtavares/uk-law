@@ -43,17 +43,17 @@ Coming into force
 
 15th January 2000
 
-The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to measures relating to the information and consultation of employees[^f00002], in exercise of the powers conferred on him by that provision, hereby makes the following Regulations:—[^key-5e83bcc99cb3a00d80f8f04978475427]
+The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to measures relating to the information and consultation of employees[^f00002], in exercise of the powers conferred on him by that provision, hereby makes the following Regulations:—[^c-5e83bcc99cb3a00d80f8f04978475427]
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and extent[^key-a6440060240906f551305c8e3d614d21]
+### 1. Citation, commencement and extent[^c-a6440060240906f551305c8e3d614d21]
 
 (1) These Regulations may be cited as the Transnational Information and Consultation of Employees Regulations 1999 and shall come into force on 15th January 2000.
 
 (2) These Regulations extend to Northern Ireland.
 
-### 2. Interpretation[^key-3c852b132bf4cc1db7e906c5e68875ad]
+### 2. Interpretation[^c-3c852b132bf4cc1db7e906c5e68875ad]
 
 (1) In these Regulations—
 
@@ -68,11 +68,11 @@ The Secretary of State, being a Minister designated for the purposes of section 
   - (b) in the case of a Community-scale group of undertakings, the central management of the controlling undertaking,
 
   or, where appropriate, the central management of an undertaking or group of undertakings that could be or is claimed to be a Community-scale undertaking or Community-scale group of undertakings;
-- “Community-scale undertaking” means an undertaking with at least 1000 employees within the Relevant States[^key-5668c20b5b8528d360315a805701a24c] and at least 150 employees in each of at least two Relevant States;
+- “Community-scale undertaking” means an undertaking with at least 1000 employees within the Relevant States[^c-5668c20b5b8528d360315a805701a24c] and at least 150 employees in each of at least two Relevant States;
 - “Community-scale group of undertakings” means a group of undertakings which has—
   - (a) at least 1000 employees within the Relevant States,
   - (b) at least two group undertakings in different Relevant States, and
-  - (c) at least one group undertaking with at least 150 employees in one Relevant State[^key-d28c7e44da4aa2a422d4599cb141981f] and at least one other group undertaking with at least 150 employees in another Relevant State;
+  - (c) at least one group undertaking with at least 150 employees in one Relevant State[^c-d28c7e44da4aa2a422d4599cb141981f] and at least one other group undertaking with at least 150 employees in another Relevant State;
 - “consultation” means the exchange of views and establishment of dialogue between members of a European Works Council in the context of a European Works Council, or information and consultation representatives in the context of an information and consultation procedure, and central management or any more appropriate level of management;
 - “contract of employment” means a contract of service or apprenticeship, whether express or implied, and (if it is express) whether oral or in writing;
 - “controlled undertaking” has the meaning assigned to it by regulation 3;
@@ -85,7 +85,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
     - (ii) about the activities of the undertaking which may significantly affect the interests of the employees,
 
     but excluding representatives who are expected to receive information relevant only to a specific aspect of the terms and conditions or interests of the employees, such as health and safety or collective redundancies;
-- “European Works Council” means the council, established—[^key-a75446ea89083e1cd704ab99c0e75622]
+- “European Works Council” means the council, established—[^c-a75446ea89083e1cd704ab99c0e75622]
   - (a) before exit day under and in accordance with regulation 17, or regulation 18 and the provisions of the Schedule, or
   - (b) where appropriate, under and in accordance with the provisions of the law or practice of a Relevant State other than the United Kingdom which are designed to give effect to Article 6 of, or Article 7 of and the Annex to, the Transnational Information and Consultation Directive,
 
@@ -96,11 +96,11 @@ The Secretary of State, being a Minister designated for the purposes of section 
 - “hirer” has the meaning provided for in regulation 2 of the Agency Workers Regulations 2010;[^M_F_2bca5373-d70e-49c4-ef8b-0a78864a0999]
 - “independent trade union” has the same meaning as in the Trade Union and Labour Relations (Consolidation) Act 1992[^f00006] or in Northern Ireland the 1996 Order;
 - “information and consultation procedure” means one or more information and consultation procedures agreed under—
-  - (a) regulation 17 before exit day[^key-c5d1094dac729fc5ae4646dc6a0ecbe6], or
+  - (a) regulation 17 before exit day[^c-c5d1094dac729fc5ae4646dc6a0ecbe6], or
   - (b) where appropriate, the provisions of the law or practice of a Relevant State other than the United Kingdom which are designed to give effect to Article 6(3) of the Transnational Information and Consultation Directive;
 - “information and consultation representative” means a person who represents employees in the context of an information and consultation procedure;
 - “local management” means the management of one or more establishments in a Community-scale undertaking or of one or more undertakings in a Community-scale group of undertakings which is not the central management;
-- [^key-3318cd2033d8f9a40552a06e32db782a]...
+- [^c-3318cd2033d8f9a40552a06e32db782a]...
 - “national employee representation body” means—[^M_F_19936c5f-a54d-4c62-f8c0-0193af0657f1]
   - (a) where the employees are of a description in respect of which an independent trade union is recognised by their employer for the purpose of collective bargaining, that trade union, and
   - (b) a body which has not been established with information and consultation on transnational matters as its main purpose, to which any employee representatives are elected or appointed by employees, as a result of which they hold positions in which they are expected to receive, on behalf of the employees, information—
@@ -109,24 +109,24 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
     (including information relevant only to a specific aspect of the terms and conditions or interests of the employees, such as health and safety or collective redundancies);
 - “relevant date” has the meaning given to it in regulation 6(4);
-- “Relevant State” means―[^key-d030ede8bd5185be21cda1ad4e6170cc]
+- “Relevant State” means―[^c-d030ede8bd5185be21cda1ad4e6170cc]
   - (a) a state which is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993; and
   - (b) the United Kingdom;
-- “special negotiating body” means the body established before exit day[^key-095fe533a096a1b472fe6ea9244f1541] for the purposes of negotiating with central management an agreement for a European Works Council or an information and consultation procedure;
+- “special negotiating body” means the body established before exit day[^c-095fe533a096a1b472fe6ea9244f1541] for the purposes of negotiating with central management an agreement for a European Works Council or an information and consultation procedure;
 - “suitable information relating to the use of agency workers” means—[^M_F_b23a4813-1dcc-47fc-d076-58f9a41494b3]
   - (a) the number of agency workers working temporarily for and under the supervision and direction of the undertaking;
   - (b) the parts of the undertaking in which those agency workers are working; and
   - (c) the type of work those agency workers are carrying out;
 - “temporary work agency” has the meaning provided for in regulation 4 of the Agency Workers Regulations 2010;
 - “Transnational Information and Consultation Directive” means Council Directive [94/45/EC](https://www.legislation.gov.uk/european/directive/1994/0045) of 22 September 1994[^f00008] on the establishment of a European Works Council or a procedure in Community-scale undertakings and Community-scale groups of undertakings for the purposes of informing and consulting employees;
-- “UK management” means the management which before exit day was, or would have been,[^key-7b8a05688570e4d6fdb8acc86bbe391e] subject to the obligation in regulation 13(2) or paragraph 4(1) of the Schedule, being either the central management in the United Kingdom or the local management in the United Kingdom;
-- [^key-80dd672d92e76586c7c9d07cf3be3fb1]...
+- “UK management” means the management which before exit day was, or would have been,[^c-7b8a05688570e4d6fdb8acc86bbe391e] subject to the obligation in regulation 13(2) or paragraph 4(1) of the Schedule, being either the central management in the United Kingdom or the local management in the United Kingdom;
+- [^c-80dd672d92e76586c7c9d07cf3be3fb1]...
 
 (2) To the extent that the Transnational Information and Consultation Directive and the Extension Directive permit the establishment of more than one European Works Council in a Community-scale undertaking or Community-scale group of undertakings, these Regulations shall be construed accordingly.
 
-(3) In paragraphs (1) and (4) of this regulation and in regulation 6[^key-662f48f410b3924004a33d9d5685eae7] and paragraphs 3 to 5 of the Schedule, references to “UK employees” are references to employees who are employed in the United Kingdom by a Community-scale undertaking or Community-scale group of undertakings.
+(3) In paragraphs (1) and (4) of this regulation and in regulation 6[^c-662f48f410b3924004a33d9d5685eae7] and paragraphs 3 to 5 of the Schedule, references to “UK employees” are references to employees who are employed in the United Kingdom by a Community-scale undertaking or Community-scale group of undertakings.
 
-(4) In [^key-5089ad85b153ad6beee381b7502d46e9]... paragraphs 3 and 4 of the Schedule, references to “UK employees' representatives” are references to employees' representatives who represent UK employees.
+(4) In [^c-5089ad85b153ad6beee381b7502d46e9]... paragraphs 3 and 4 of the Schedule, references to “UK employees' representatives” are references to employees' representatives who represent UK employees.
 
 (4A)[^M_F_ab198bff-71d4-4058-ef15-b49a55553f04] In paragraph (1) in the definition of “national employee representation body” and in regulation 18A, matters are transnational where they concern—
 
@@ -135,18 +135,18 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 (4B) The arrangements to link information and consultation of a European Works Council with information and consultation of the national employee representation bodies—
 
-- (a)[^key-34d7fe6158147cda712cb93305c5123b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) in regulation[^key-f859bd2243fed5ba280d1bf4126d28ec] 19E are subject to the limitation in regulation 18A(7); and
-- (c) in regulation[^key-684ca9f043d30e8c34da0f09be8c7d50] 19E shall not affect the main purpose for which a national employee representation body was established.
+- (a)[^c-34d7fe6158147cda712cb93305c5123b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) in regulation[^c-f859bd2243fed5ba280d1bf4126d28ec] 19E are subject to the limitation in regulation 18A(7); and
+- (c) in regulation[^c-684ca9f043d30e8c34da0f09be8c7d50] 19E shall not affect the main purpose for which a national employee representation body was established.
 
 (4C) An agency worker who has a contract within regulation 3(1)(b) of the Agency Workers Regulations 2010 (contract with the temporary work agency) with a temporary work agency which is a Community-scale undertaking or Community-scale group of undertakings at the relevant date, which is not a contract of employment, shall be treated as being employed by that agency for the duration of their assignment with a hirer for the purposes of—
 
 - (a) calculating the number of employees within the definitions of “Community-scale undertaking” and “Community-scale group of undertakings” in this regulation; and
 - (b) the means of calculating the number of employees in regulation 6.
 
-(5) In the absence of a definition in these Regulations, words and expressions used in particular regulations and particular paragraphs of the Schedule to these Regulations which are also used in the provisions of the Transnational Information and Consultation Directive or the Extension Directive to which they were designed[^key-e5d82cd2ff493ebc9572cd9df8c17bb0] to give effect have the same meaning as they have in those provisions.
+(5) In the absence of a definition in these Regulations, words and expressions used in particular regulations and particular paragraphs of the Schedule to these Regulations which are also used in the provisions of the Transnational Information and Consultation Directive or the Extension Directive to which they were designed[^c-e5d82cd2ff493ebc9572cd9df8c17bb0] to give effect have the same meaning as they have in those provisions.
 
-### 3. Controlled and Controlling Undertaking[^key-5d665244895744671b4dcee49adcb89b]
+### 3. Controlled and Controlling Undertaking[^c-5d665244895744671b4dcee49adcb89b]
 
 (1) In these Regulations “controlling undertaking” means an undertaking which can exercise a dominant influence over another undertaking by virtue, for example, of ownership, financial participation or the rules which govern it and “controlled undertaking” means an undertaking over which such a dominant influence can be exercised.
 
@@ -161,7 +161,7 @@ The Secretary of State, being a Minister designated for the purposes of section 
 - (a) the rights of its other controlled undertakings; and
 - (b) the rights of any person or body acting in his or its own name but on behalf of the controlling undertaking or of any other of the controlling undertaking’s controlled undertakings.
 
-(4) Notwithstanding paragraphs (1) and (2) above an undertaking shall not be a controlling undertaking of another undertaking in which it has holdings where the first undertaking is a company described[^key-be7e668282ea37bc144081fd1dc49af7] in Article 3(5)(a) or (c) of Council Regulation (EC) No 139/2004 of 20 January 2004[^key-7a0dbaa706dd71d68977facc2b83fe6b] on the control of concentrations between undertakings (whether or not the Regulation applies to that company)[^key-02e00d1e5a4758b4bee20480a1125255].
+(4) Notwithstanding paragraphs (1) and (2) above an undertaking shall not be a controlling undertaking of another undertaking in which it has holdings where the first undertaking is a company described[^c-be7e668282ea37bc144081fd1dc49af7] in Article 3(5)(a) or (c) of Council Regulation (EC) No 139/2004 of 20 January 2004[^c-7a0dbaa706dd71d68977facc2b83fe6b] on the control of concentrations between undertakings (whether or not the Regulation applies to that company)[^c-02e00d1e5a4758b4bee20480a1125255].
 
 (5) A dominant influence shall not be presumed to be exercised solely by virtue of the fact that an office holder is exercising functions, according to the law of a Relevant State, relating to liquidation, winding-up, insolvency, cessation of payments, compositions of creditors or analogous proceedings.
 
@@ -174,42 +174,42 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 (8) If two or more undertakings (whether situated in the same or in different Relevant States) meet one or more of the criteria in paragraph (2) in relation to another undertaking, the criteria shall be applied in the order listed in relation to each of the first-mentioned undertakings and that which meets the criterion that is highest in the order listed shall be presumed, unless the contrary is proved, to exercise a dominant influence over the undertaking in question.
 
-### 4. Circumstances in which provisions of these Regulations apply[^key-864a8326dacbad34630306d3cda364e6]
+### 4. Circumstances in which provisions of these Regulations apply[^c-864a8326dacbad34630306d3cda364e6]
 
-(1) Subject to paragraph (2) the provisions of regulations 17 to 41[^key-3d72988755eaab495d667b998a44b6e7] and of regulation 46 shall apply in relation to a Community-scale undertaking or Community-scale group of undertakings only where, in accordance with regulation 5, the central management is situated in the United Kingdom.
+(1) Subject to paragraph (2) the provisions of regulations 17 to 41[^c-3d72988755eaab495d667b998a44b6e7] and of regulation 46 shall apply in relation to a Community-scale undertaking or Community-scale group of undertakings only where, in accordance with regulation 5, the central management is situated in the United Kingdom.
 
 (2) The following regulations shall apply in relation to a Community-scale undertaking or Community-scale group of undertakings whether or not the central management is situated in the United Kingdom—
 
-- (a)[^key-6c07eeac975cf326aa8f8c20f33f92b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-6c07eeac975cf326aa8f8c20f33f92b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6c07eeac975cf326aa8f8c20f33f92b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6c07eeac975cf326aa8f8c20f33f92b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) regulation 18 to the extent it applies paragraphs 3 to 5 of the Schedule (UK members of the European Works Council);
 - (d) regulations 23(1) to (5) (breach of statutory duty);
 - (e) regulations 25 to 33 (protections for members of a European Works Council, etc.);
 - (f) regulations 34 to 39 (enforcement bodies) to the extent they relate to applications made or complaints presented under any of the other regulations referred to in this paragraph;
 - (g) regulations 40 and 41 (restrictions on contracting out).
 
-### 5. The central management[^key-c7976d89397500455943e7b4c27f6c5d]
+### 5. The central management[^c-c7976d89397500455943e7b4c27f6c5d]
 
-(1) This regulation applies where[^key-ebc0830037fc76d59c59519138ccfe95]—
+(1) This regulation applies where[^c-ebc0830037fc76d59c59519138ccfe95]—
 
-- (a)[^key-dfa2318f5a05afd2da4b355dd86a9db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-dfa2318f5a05afd2da4b355dd86a9db6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the central management is not situated in a Relevant State and the representative agent of the central management (to be designated if necessary) is situated in the United Kingdom; or
 - (c) neither the central management nor the representative agent (whether or not as a result of being designated) is situated in a Relevant State and—
   - (i) in the case of a Community-scale undertaking, there are employed in an establishment, which is situated in the United Kingdom, more employees than are employed in any other establishment which is situated in a Relevant State, or
   - (ii) in the case of a Community-scale group of undertakings, there are employed in a group undertaking, which is situated in the United Kingdom, more employees than are employed in any other group undertaking which is situated in a Relevant State,
 
-[^key-35ba76c70675f7b4bbe7efa93d97bd29]....
+[^c-35ba76c70675f7b4bbe7efa93d97bd29]....
 
-(2) Where this regulation applies[^key-6e2db1bc7545ac461cb762df1d102197], the central management shall be treated, for the purposes of these Regulations, as being situated in the United Kingdom and—
+(2) Where this regulation applies[^c-6e2db1bc7545ac461cb762df1d102197], the central management shall be treated, for the purposes of these Regulations, as being situated in the United Kingdom and—
 
 - (a) the representative agent referred to in paragraph (1)(b); or
 - (b) the management of the establishment referred to in paragraph (1)(c)(i) or of the group undertaking, referred to in paragraph (1)(c)(ii),
 
 shall be treated, respectively, as being the central management.
 
-## PART II — EMPLOYEE NUMBERS ...[^key-b29c4913afc8082a126b527501106254]
+## PART II — EMPLOYEE NUMBERS ...[^c-b29c4913afc8082a126b527501106254]
 
-### 6. Calculation of numbers of employees[^key-43f4c1b7c316ce77db1ee9739997ab01]
+### 6. Calculation of numbers of employees[^c-43f4c1b7c316ce77db1ee9739997ab01]
 
 (1) For the purposes of determining whether an undertaking is a Community-scale undertaking or a group of undertakings is a Community-scale group of undertakings, the number of employees employed by the undertaking, or group of undertakings, shall be determined—
 
@@ -231,91 +231,91 @@ dividing the number so determined by 24.
 
 the employee may be counted as half a person for the month in question, if the UK management so decides.
 
-(4) For the purposes of this regulation, regulations 2(4C),[^M_F_ed7f3fa7-9bc1-4146-add2-030049ff6679] [^key-f5c824af3ef982ce4ad990dc03015c5a]... and 20 “relevant date” means—
+(4) For the purposes of this regulation, regulations 2(4C),[^M_F_ed7f3fa7-9bc1-4146-add2-030049ff6679] [^c-f5c824af3ef982ce4ad990dc03015c5a]... and 20 “relevant date” means—
 
-- (a)[^key-b2e3cbc3925d08d1584f308865e2228f] where a request under regulation 7 was made before exit day but no valid request under regulation 9 was made before that day, the last day of the month preceding the month in which the request under regulation 7 was made;
+- (a)[^c-b2e3cbc3925d08d1584f308865e2228f] where a request under regulation 7 was made before exit day but no valid request under regulation 9 was made before that day, the last day of the month preceding the month in which the request under regulation 7 was made;
 - (b) where a valid request under regulation 9 was made before exit day (whether or not a request under regulation 7 was made), the last day of the month preceding the month in which the request under regulation 9 was made.
 
 (5) Where appropriate, the references in paragraph (4) to regulations 7 and 9 shall be read, instead, as references to the provisions of the law or practice of a Relevant State other than the United Kingdom which are designed to give effect to, respectively, Article 11(2) and Article 5(1) of the Transnational Information and Consultation Directive.
 
-### 7. Entitlement to information[^key-ee94f850a2ee4022ac8a368e22a2c4c5]
+### 7. Entitlement to information[^c-ee94f850a2ee4022ac8a368e22a2c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Complaint of failure to provide information[^key-ee94f850a2ee4022ac8a368e22a2c4c5]
+### 8. Complaint of failure to provide information[^c-ee94f850a2ee4022ac8a368e22a2c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Request to negotiate an agreement for a European Works Council or information and consultation procedure[^key-ee94f850a2ee4022ac8a368e22a2c4c5]
+### 9. Request to negotiate an agreement for a European Works Council or information and consultation procedure[^c-ee94f850a2ee4022ac8a368e22a2c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Dispute as to whether valid request made or whether obligation in regulation 9(1) applies[^key-ee94f850a2ee4022ac8a368e22a2c4c5]
+### 10. Dispute as to whether valid request made or whether obligation in regulation 9(1) applies[^c-ee94f850a2ee4022ac8a368e22a2c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — SPECIAL NEGOTIATING BODY[^key-2d86827758183a2e93f14b451a2af859]
+## PART III — SPECIAL NEGOTIATING BODY[^c-2d86827758183a2e93f14b451a2af859]
 
 **No longer in force.**
 
-### 11. Functions of the special negotiating body[^key-2d86827758183a2e93f14b451a2af859]
+### 11. Functions of the special negotiating body[^c-2d86827758183a2e93f14b451a2af859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Composition of the special negotiating body[^key-2d86827758183a2e93f14b451a2af859]
+### 12. Composition of the special negotiating body[^c-2d86827758183a2e93f14b451a2af859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Ballot arrangements[^key-2d86827758183a2e93f14b451a2af859]
+### 13. Ballot arrangements[^c-2d86827758183a2e93f14b451a2af859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Conduct of ballot[^key-2d86827758183a2e93f14b451a2af859]
+### 14. Conduct of ballot[^c-2d86827758183a2e93f14b451a2af859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Consultative Committee[^key-2d86827758183a2e93f14b451a2af859]
+### 15. Consultative Committee[^c-2d86827758183a2e93f14b451a2af859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART IV — EUROPEAN WORKS COUNCIL AND INFORMATION AND CONSULTATION PROCEDURE
 
-### 16. Negotiation procedure[^key-aa2c833de07cf268e3b602505a7776d4]
+### 16. Negotiation procedure[^c-aa2c833de07cf268e3b602505a7776d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Content and scope of a European Works Council agreement and information and consultation procedure[^key-928d7b65e388ecc72ee7cca50ed95be2]
+### 17. Content and scope of a European Works Council agreement and information and consultation procedure[^c-928d7b65e388ecc72ee7cca50ed95be2]
 
-(1)[^key-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4A)[^key-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-ae442a13cc1123eff7f325c8e0897833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-cc844f513c3bfa510a01a64a4cf30620] Where information disclosed under a European Works Council agreement or an information and consultation procedure includes information as to the employment situation in the Community-scale undertaking or, as the case may be, the Community-scale group of undertakings, this shall include suitable information relating to the use of agency workers (if any).
+(9)[^c-cc844f513c3bfa510a01a64a4cf30620] Where information disclosed under a European Works Council agreement or an information and consultation procedure includes information as to the employment situation in the Community-scale undertaking or, as the case may be, the Community-scale group of undertakings, this shall include suitable information relating to the use of agency workers (if any).
 
-### 18. Subsidiary requirements[^key-d555b3709ec6417fd23a36cb7e2abca2]
+### 18. Subsidiary requirements[^c-d555b3709ec6417fd23a36cb7e2abca2]
 
 The provisions of the Schedule continue to apply on and after exit day in any case where they applied before exit day.
 
-### 18A. Information and consultation[^key-30b32dd20caa9494fb3fe3ff82a937c3]
+### 18A. Information and consultation[^c-30b32dd20caa9494fb3fe3ff82a937c3]
 
 (1) This regulation applies where—
 
-- (a) a European Works Council or information and consultation procedure has been established before exit day[^key-a440dd04698e2183846deb4ed7f572c7] under regulation 17; or
-- (b) a European Works Council has been established before exit day[^key-e6ef4348781333b8c884d64472d31ef8] by virtue of regulation 18.
+- (a) a European Works Council or information and consultation procedure has been established before exit day[^c-a440dd04698e2183846deb4ed7f572c7] under regulation 17; or
+- (b) a European Works Council has been established before exit day[^c-e6ef4348781333b8c884d64472d31ef8] by virtue of regulation 18.
 
 (2) The central management, or any more appropriate level of management, shall give information to—
 
@@ -345,13 +345,13 @@ as the case may be, in accordance with paragraph (5).
 
 (8) Where information as to the employment situation in the Community-scale undertaking or, as the case may be, the Community-scale group of undertakings, is disclosed by the central management or any more appropriate level of management, this shall include suitable information relating to the use of agency workers (if any).
 
-### 19. Cooperation[^key-1239819732f97cfc661073dccff4abcd]
+### 19. Cooperation[^c-1239819732f97cfc661073dccff4abcd]
 
 (1) The central management and the European Works Council are under a duty to work in a spirit of cooperation with due regard to their reciprocal rights and obligations.
 
 (2) The duty in paragraph (1) shall apply also to the central management and information and consultation representatives.
 
-### 19A. Means required[^key-eae7aa73aea52815c6a217b928f1e54f]
+### 19A. Means required[^c-eae7aa73aea52815c6a217b928f1e54f]
 
 (1) Subject to paragraph (2), the central management shall provide the members of a European Works Council with the means required to fulfil their duty to represent collectively the interests of the employees of the Community-scale undertaking or Community-scale group of undertakings under these Regulations.
 
@@ -365,7 +365,7 @@ as the case may be, in accordance with paragraph (5).
 
 (1) Subject to paragraph (2), the central management shall provide an employee who is—
 
-- (a)[^key-c1bf525b42ed99dc078de1c11372a145] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c1bf525b42ed99dc078de1c11372a145] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a member of a European Works Council,
 
 with the means required to undertaking training to the extent necessary for the exercise of the employee’s representative duties.
@@ -402,7 +402,7 @@ of the content and outcome of the information and consultation procedure carried
 
 (1) Paragraph (2) applies where—
 
-- (a) no arrangements to link information and consultation of a European Works Council with information and consultation of national employee representation bodies were made before exit day[^key-4f2672e243ad3345178f179789867e5e] under regulation 17(4)(c), and
+- (a) no arrangements to link information and consultation of a European Works Council with information and consultation of national employee representation bodies were made before exit day[^c-4f2672e243ad3345178f179789867e5e] under regulation 17(4)(c), and
 - (b) there are circumstances likely to lead to substantial changes in work organisation or contractual relations.
 
 (2) Subject to regulation 2(4B), the—
@@ -415,20 +415,20 @@ as the case may be, shall ensure that the procedures for informing and consultin
 
 (3) The national employee representation bodies referred to in paragraph (2) are those bodies which are entitled, whether by law, agreement or custom and practice, to be informed and consulted on the substantial changes in work organisation or contractual relations referred to in sub-paragraph (b) of paragraph (1).
 
-### 19F. Adaptation[^key-ab86d482db609f21ab25835edfdb013b]
+### 19F. Adaptation[^c-ab86d482db609f21ab25835edfdb013b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART V — COMPLIANCE AND ENFORCEMENT
 
-### 20. Failure to establish European Works Council or information and consultation procedure[^key-bc00707e607e36384dc44e64f32be7f3]
+### 20. Failure to establish European Works Council or information and consultation procedure[^c-bc00707e607e36384dc44e64f32be7f3]
 
-(A1)[^key-810436d739b35f203fbf9a076ba5d903] In this regulation the central management and the special negotiating body are referred to as “the parties”.
+(A1)[^c-810436d739b35f203fbf9a076ba5d903] In this regulation the central management and the special negotiating body are referred to as “the parties”.
 
-(1) A complaint may be presented to the CAC[^key-e64b5bc7a5fd240bed8abd70770b379a] by a relevant applicant who considers—
+(1) A complaint may be presented to the CAC[^c-e64b5bc7a5fd240bed8abd70770b379a] by a relevant applicant who considers—
 
-- (a) that the parties have reached agreement before exit day[^key-337d7f296476598b1ad266c2394554e8] on the establishment of a European Works Council or an information and consultation procedure, or that regulation 18 applies before exit day[^key-dacc769d05ca5ca07b1e40d5e2961a83]; and
-- (b) that, because of a failure of the central management, the European Works Council or information and consultation procedure has not been established at all, or has not been established fully in accordance with the terms of the agreement made before exit day[^key-a15a8e0edd3bd68b45da7cffef08f247] under regulation 17 or, as the case may be, in accordance with the provisions of the Schedule.
+- (a) that the parties have reached agreement before exit day[^c-337d7f296476598b1ad266c2394554e8] on the establishment of a European Works Council or an information and consultation procedure, or that regulation 18 applies before exit day[^c-dacc769d05ca5ca07b1e40d5e2961a83]; and
+- (b) that, because of a failure of the central management, the European Works Council or information and consultation procedure has not been established at all, or has not been established fully in accordance with the terms of the agreement made before exit day[^c-a15a8e0edd3bd68b45da7cffef08f247] under regulation 17 or, as the case may be, in accordance with the provisions of the Schedule.
 
 (2) In this regulation “failure” means an act or omission and a failure by the local management shall be treated as a failure by the central management.
 
@@ -437,12 +437,12 @@ as the case may be, shall ensure that the procedures for informing and consultin
 - (a) in a case where a special negotiating body exists, the special negotiating body; or
 - (b) in a case where a special negotiating body does not exist, an employee, employees' representative, or person who was a member of the special negotiating body (if that body existed previously).
 
-(4) Where the CAC finds the complaint well-founded it shall make a decision to that effect and may make an order requiring the central management to take such steps as are necessary to establish the European Works Council or information and consultation procedure in accordance with the terms of the agreement made before exit day[^key-ce2685f1f32f1528d861212329a9d8be] under regulation 17 or, as the case may be, to establish a European Works Council in accordance with the provisions of the Schedule.
+(4) Where the CAC finds the complaint well-founded it shall make a decision to that effect and may make an order requiring the central management to take such steps as are necessary to establish the European Works Council or information and consultation procedure in accordance with the terms of the agreement made before exit day[^c-ce2685f1f32f1528d861212329a9d8be] under regulation 17 or, as the case may be, to establish a European Works Council in accordance with the provisions of the Schedule.
 
 (5) The CAC shall not find a complaint under this regulation to be well-founded where—
 
-- (a) the central management made no application before exit day[^key-664aa4a29903b2131268a472489fdba2] in relation to the request under regulation 10(1), or where the request consisted of separate requests was unable by reason of the time limit in sub-paragraph (a) of that regulation to make an application before exit day[^key-2e9ad42160e1328b9ba0658e8136ab48] under the regulation in relation to a particular request, and shows that the request was not a valid request because a requirement of regulation 9(2) or (3) that applied before exit day[^key-dbcbec80c3725e783a1964db511a8f35] was not satisfied; or
-- (b) the central management made no application before exit day[^key-aa6af2501e439bb1e8953edecfdf397c] under regulation 10(3) but shows that the obligation in regulation 9(1) did not, for any reason, apply to it on the relevant date.
+- (a) the central management made no application before exit day[^c-664aa4a29903b2131268a472489fdba2] in relation to the request under regulation 10(1), or where the request consisted of separate requests was unable by reason of the time limit in sub-paragraph (a) of that regulation to make an application before exit day[^c-2e9ad42160e1328b9ba0658e8136ab48] under the regulation in relation to a particular request, and shows that the request was not a valid request because a requirement of regulation 9(2) or (3) that applied before exit day[^c-dbcbec80c3725e783a1964db511a8f35] was not satisfied; or
+- (b) the central management made no application before exit day[^c-aa6af2501e439bb1e8953edecfdf397c] under regulation 10(3) but shows that the obligation in regulation 9(1) did not, for any reason, apply to it on the relevant date.
 
 (6) An order under paragraph (4) shall specify—
 
@@ -450,28 +450,28 @@ as the case may be, shall ensure that the procedures for informing and consultin
 - (b) the date of the failure of the central management; and
 - (c) the period within which the order must be complied with.
 
-(7)[^key-d113804fc787b3939763db3c2c538772] If the Appeal Tribunal makes a decision under paragraph (4) the relevant applicant may, within the period of three months beginning with the date on which the decision is made, make an application to the Appeal Tribunal for a penalty notice to be issued.
+(7)[^c-d113804fc787b3939763db3c2c538772] If the Appeal Tribunal makes a decision under paragraph (4) the relevant applicant may, within the period of three months beginning with the date on which the decision is made, make an application to the Appeal Tribunal for a penalty notice to be issued.
 
-(7A)[^key-5302d6f740f3960a03dc512674f6eab8] Where such an application is made, the Appeal Tribunal shall issue a written penalty notice to the central management requiring it to pay a penalty to the Secretary of State in respect of the failure.
+(7A)[^c-5302d6f740f3960a03dc512674f6eab8] Where such an application is made, the Appeal Tribunal shall issue a written penalty notice to the central management requiring it to pay a penalty to the Secretary of State in respect of the failure.
 
-(8) Paragraph (7A)[^key-3279a1b06a2afff00a28e77a9f15ac0f] shall not apply if the Appeal Tribunal is satisfied, on hearing the representations of the central management, that the failure resulted from a reason beyond the central management’s control or that it has some other reasonable excuse for its failure.
+(8) Paragraph (7A)[^c-3279a1b06a2afff00a28e77a9f15ac0f] shall not apply if the Appeal Tribunal is satisfied, on hearing the representations of the central management, that the failure resulted from a reason beyond the central management’s control or that it has some other reasonable excuse for its failure.
 
 (9) Regulation 22 shall apply in respect of a penalty notice issued under this regulation.
 
 (10) No order of the CAC under this regulation shall have the effect of suspending or altering the effect of any act done or of any agreement made by the central management or the local management.
 
-### 21. Disputes about operation of European Works Council or information and consultation procedure[^key-3c2ed5b1b4644269f76c357dd075e802]
+### 21. Disputes about operation of European Works Council or information and consultation procedure[^c-3c2ed5b1b4644269f76c357dd075e802]
 
-(1)[^key-bfa4881705ced08f82bb77180cf2c253] Where—
+(1)[^c-bfa4881705ced08f82bb77180cf2c253] Where—
 
-- (a) a European Works Council or information and consultation procedure has been established before exit day[^key-bd237e4ec3140d2dc215ca6465d562be] under regulation 17; or
-- (b) a European Works Council has been established before exit day[^key-532a0aa15266e2df8eb942b3da746e2e] by virtue of regulation 18,
+- (a) a European Works Council or information and consultation procedure has been established before exit day[^c-bd237e4ec3140d2dc215ca6465d562be] under regulation 17; or
+- (b) a European Works Council has been established before exit day[^c-532a0aa15266e2df8eb942b3da746e2e] by virtue of regulation 18,
 
 a complaint may be presented to the CAC by a relevant applicant where paragraph (1A) applies.
 
-(1A)[^key-f71f8830ba1778c9af2d41c028270c56] This paragraph applies where a relevant applicant considers that, because of the failure of a defaulter—
+(1A)[^c-f71f8830ba1778c9af2d41c028270c56] This paragraph applies where a relevant applicant considers that, because of the failure of a defaulter—
 
-- (a) the terms of the agreement made before exit day[^key-86f7aad3c9dda0e04a299802fa3c40fc] under regulation 17 or, as the case may be, the provisions of the Schedule, have not been complied with; or
+- (a) the terms of the agreement made before exit day[^c-86f7aad3c9dda0e04a299802fa3c40fc] under regulation 17 or, as the case may be, the provisions of the Schedule, have not been complied with; or
 - (b) regulation 18A has not been complied with, or the information which has been provided by the management under regulation 18A is false or incomplete in a material particular.
 
 (1B) A complaint brought under paragraph (1) must be brought within a period of six months beginning with the date of the alleged failure or non-compliance.
@@ -485,7 +485,7 @@ a complaint may be presented to the CAC by a relevant applicant where paragraph 
 
 and “defaulter” means the persons mentioned in sub-paragraph (a) or (b) against whom the complaint is presented.
 
-(4) Where the CAC[^key-44b5baf504e16287955bb09497af6f6f] finds the complaint well-founded it shall make a decision to that effect and may make an order requiring the defaulter to take such steps as are necessary to comply with the terms of the agreement made before exit day[^key-cb78ac6b4797ab6c769f19a4a3a02e35] under regulation 17 or, as the case may be, the provisions of the Schedule.
+(4) Where the CAC[^c-44b5baf504e16287955bb09497af6f6f] finds the complaint well-founded it shall make a decision to that effect and may make an order requiring the defaulter to take such steps as are necessary to comply with the terms of the agreement made before exit day[^c-cb78ac6b4797ab6c769f19a4a3a02e35] under regulation 17 or, as the case may be, the provisions of the Schedule.
 
 (5) An order made under paragraph (4) shall specify—
 
@@ -493,28 +493,28 @@ and “defaulter” means the persons mentioned in sub-paragraph (a) or (b) agai
 - (b) the date of the failure; and
 - (c) the period within which the order must be complied with.
 
-(6) If the CAC makes a decision under paragraph (4) and the defaulter in question is the central management the relevant applicant may, within the period of three months beginning with the date on which the decision is made, make an application to the Appeal Tribunal for a penalty notice to be issued.[^key-ea2173a9191073d18bddbaaa8b936692]
+(6) If the CAC makes a decision under paragraph (4) and the defaulter in question is the central management the relevant applicant may, within the period of three months beginning with the date on which the decision is made, make an application to the Appeal Tribunal for a penalty notice to be issued.[^c-ea2173a9191073d18bddbaaa8b936692]
 
-(6A)[^key-05473cde705bd38ccb0ddbe4bc004134] Where such an application is made, the Appeal Tribunal shall issue a written penalty notice to the central management requiring it to pay a penalty to the Secretary of State in respect of the failure.
+(6A)[^c-05473cde705bd38ccb0ddbe4bc004134] Where such an application is made, the Appeal Tribunal shall issue a written penalty notice to the central management requiring it to pay a penalty to the Secretary of State in respect of the failure.
 
-(7) Paragraph (6A)[^key-0b85fa8c5ad89c9176c26019c7a0911d] shall not apply if the Appeal Tribunal is satisfied, on hearing the representations of the central management, that the failure resulted from a reason beyond the central management’s control or that it has some other reasonable excuse for its failure.
+(7) Paragraph (6A)[^c-0b85fa8c5ad89c9176c26019c7a0911d] shall not apply if the Appeal Tribunal is satisfied, on hearing the representations of the central management, that the failure resulted from a reason beyond the central management’s control or that it has some other reasonable excuse for its failure.
 
 (8) Regulation 22 shall apply in respect of a penalty notice issued under this regulation.
 
 (9) No order of the CAC under this regulation shall have the effect of suspending or altering the effect of any act done or of any agreement made by the central management or the local management.
 
-### 21A. Disputes about failures of management[^key-eeb2c2bc3c782ddb34a7e6d6cd5e0183]
+### 21A. Disputes about failures of management[^c-eeb2c2bc3c782ddb34a7e6d6cd5e0183]
 
 (1) A complaint may be presented to the CAC by a relevant applicant who considers that—
 
-- (a)[^key-663ed7ccb4642f9611e2d94135ac9aa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-663ed7ccb4642f9611e2d94135ac9aa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) because of the failure of a defaulter, the members of the European Works Council have not been provided with the means required to fulfil their duty to represent collectively the interests of the employees of the Community-scale undertaking or Community-scale group of undertakings in accordance with regulation 19A;
-- (c) because of the failure of a defaulter, [^key-6a663d55ea6d616ec3db42123f9041e8]... a member of the European Works Council has not been provided with the means required to undertake the training referred to in regulation 19B; or
+- (c) because of the failure of a defaulter, [^c-6a663d55ea6d616ec3db42123f9041e8]... a member of the European Works Council has not been provided with the means required to undertake the training referred to in regulation 19B; or
 - (d) regulation 19E(2) applies and that, because of the failure of a defaulter, the European Works Council and the national employee representation bodies have not been informed and consulted in accordance with that regulation.
 
 (2) A complaint brought under paragraph (1) must be brought within a period of six months beginning with the date of the alleged failure.
 
-(3) Where the CAC finds the complaint well-founded it shall make a decision to that effect and may make an order requiring the defaulter to take such steps as are necessary to comply with regulation [^key-3de26e6ff16ddcb72bcd31a7d86426de]... 19A, 19B or 19E(2), as the case may be.
+(3) Where the CAC finds the complaint well-founded it shall make a decision to that effect and may make an order requiring the defaulter to take such steps as are necessary to comply with regulation [^c-3de26e6ff16ddcb72bcd31a7d86426de]... 19A, 19B or 19E(2), as the case may be.
 
 (4) An order made under paragraph (3) shall specify—
 
@@ -540,20 +540,20 @@ and “defaulter” means the persons mentioned in sub-paragraph (a) or (b) agai
   - (iii) the representative agent or the management treated as the central management of the Community-scale undertaking or Community-scale group of undertakings within the meaning of regulation 5(2);
 - (b) “failure” means an act or omission and a failure by the local management shall be treated as a failure by the central management;
 - (c) “relevant applicant” means—
-  - (i)[^key-cc72d963c4419dfa65869a88c94f3a13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-cc72d963c4419dfa65869a88c94f3a13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) for a complaint in relation to regulation 19A, a member of the European Works Council;
-  - (iii) for a complaint in relation to regulation 19B, [^key-3ea78c75caa430bba82803fee33f8dd8]... a member of the European Works Council;
+  - (iii) for a complaint in relation to regulation 19B, [^c-3ea78c75caa430bba82803fee33f8dd8]... a member of the European Works Council;
   - (iv) for a complaint in relation to regulation 19E(2), a member of the European Works Council, a national employee representation body, an employee, or an employees’ representative.
 
-### 22. Penalties[^key-eed3a31aba56f049fc28ecd8ac3fac91]
+### 22. Penalties[^c-eed3a31aba56f049fc28ecd8ac3fac91]
 
-(1) A penalty notice issued under regulation 20, 21 or 21A[^key-4b4cfdef8e3e492468fcbf3315096645] shall specify—
+(1) A penalty notice issued under regulation 20, 21 or 21A[^c-4b4cfdef8e3e492468fcbf3315096645] shall specify—
 
 - (a) the amount of the penalty which is payable;
 - (b) the date before which the penalty must be paid; and
 - (c) the failure and period to which the penalty relates.
 
-(2) No penalty set by the Appeal Tribunal under this regulation may exceed £100,000[^key-e29c9c8d0ff6a031279201abf7bba8fd].
+(2) No penalty set by the Appeal Tribunal under this regulation may exceed £100,000[^c-e29c9c8d0ff6a031279201abf7bba8fd].
 
 (3) When setting the amount of the penalty, the Appeal Tribunal shall take into account—
 
@@ -563,7 +563,7 @@ and “defaulter” means the persons mentioned in sub-paragraph (a) or (b) agai
 - (d) the number of employees affected by the failure; and
 - (e) the number of employees of the Community-scale undertaking or Community-scale group of undertakings in the Relevant States.
 
-(4) The date specified under paragraph (1)(b) above must not be earlier than the end of the period within which an appeal against a decision or order made by the CAC[^key-7ddde928dc281386f53ee3e6f476346c] under regulation 20, 21 or 21A may be made.
+(4) The date specified under paragraph (1)(b) above must not be earlier than the end of the period within which an appeal against a decision or order made by the CAC[^c-7ddde928dc281386f53ee3e6f476346c] under regulation 20, 21 or 21A may be made.
 
 (5) If the specified date in a penalty notice has passed and—
 
@@ -574,11 +574,11 @@ the Secretary of State may recover from the central management, as a civil debt 
 
 (6) The making of an appeal suspends the effect of a penalty notice.
 
-(7)[^key-bc6b4b38dc34d3c31ab5f308c0ccabc3] Any sums received by the Secretary of State, or in Northern Ireland the Department for Employment and Learning, under regulation 20, 21 or 21A or this regulation shall be paid into, respectively, the Consolidated Fund or the Consolidated Fund of Northern Ireland.
+(7)[^c-bc6b4b38dc34d3c31ab5f308c0ccabc3] Any sums received by the Secretary of State, or in Northern Ireland the Department for Employment and Learning, under regulation 20, 21 or 21A or this regulation shall be paid into, respectively, the Consolidated Fund or the Consolidated Fund of Northern Ireland.
 
 ## PART VI — CONFIDENTIAL INFORMATION
 
-### 23. Breach of statutory duty[^key-b09d2d6dad4a9b2e92ebf7026344b0e8]
+### 23. Breach of statutory duty[^c-b09d2d6dad4a9b2e92ebf7026344b0e8]
 
 (1) A person who is or at any time was—
 
@@ -602,7 +602,7 @@ shall not disclose any information or document which is or has been in his posse
 
 (8) If a declaration is made under paragraph (7), the information or document shall not at any time thereafter be regarded as having been entrusted to the recipient who made the application under paragraph (6), or to any other recipient, on terms requiring it to be held in confidence.
 
-### 24. Withholding of information by central management[^key-071d0d2094c6113f3c335cd9e073b20d]
+### 24. Withholding of information by central management[^c-071d0d2094c6113f3c335cd9e073b20d]
 
 (1) The central management is not required to disclose any information or document to a recipient when the nature of the information or document is such that, according to objective criteria, the disclosure of the information or document would seriously harm the functioning of, or would be prejudicial to, the undertaking or group of undertakings concerned.
 
@@ -619,27 +619,27 @@ shall not disclose any information or document which is or has been in his posse
 
 ## PART VII — PROTECTIONS FOR MEMBERS OF A EUROPEAN WORKS COUNCIL, ETC.
 
-### 25. Right to time off for members of a European Works Council, etc.[^key-10103e1272c0fd472ad6229754ad1e8b]
+### 25. Right to time off for members of a European Works Council, etc.[^c-10103e1272c0fd472ad6229754ad1e8b]
 
 (1) An employee who is—
 
-- (a)[^key-14818077836b3b6245423a97a888e98a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-14818077836b3b6245423a97a888e98a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a member of a European Works Council;
 - (c) an information and consultation representative; or
 - (d) a candidate in an election in which any person elected will, on being elected, be such a member or representative,
 
 is entitled to be permitted by his employer to take reasonable time off during the employee’s working hours in order to perform his functions as such a member, representative or candidate.
 
-(1A)[^key-d755d78bc43c16d79ab0fedd1c17ed96] An employer shall permit an employee who is—
+(1A)[^c-d755d78bc43c16d79ab0fedd1c17ed96] An employer shall permit an employee who is—
 
-- (a)[^key-c8e2482489627747d652dd96715d6739] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c8e2482489627747d652dd96715d6739] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a member of a European Works Council,
 
 to take reasonable time off during the employee’s working hours in order to undertake the training referred to in regulation 19B.
 
 (2) For the purposes of this regulation the working hours of an employee shall be taken to be any time when, in accordance with his contract of employment, the employee is required to be at work.
 
-### 26. Right to remuneration for time off under regulation 25[^key-c5f60c4dbfe10a378ae9663d6f553714]
+### 26. Right to remuneration for time off under regulation 25[^c-c5f60c4dbfe10a378ae9663d6f553714]
 
 (1) An employee who is permitted to take time off under regulation 25 is entitled to be paid remuneration by his employer for the time taken off at the appropriate hourly rate.
 
@@ -661,21 +661,21 @@ to take reasonable time off during the employee’s working hours in order to un
 
 (7) Any contractual remuneration paid to an employee in respect of a period of time off under regulation 25 goes towards discharging any liability of the employer to pay remuneration under paragraph (1) in respect of that period, and, conversely, any payment of remuneration under paragraph (1) in respect of a period goes towards discharging any liability of the employer to pay contractual remuneration in respect of that period.
 
-### 27. Right to time off: complaints to employment tribunals in Great Britain[^key-f3269e64e2c4c1551d07fa4a19a9144e][^key-2589e90a54ecefb8c69aaf3cdf5381ae]
+### 27. Right to time off: complaints to employment tribunals in Great Britain[^c-f3269e64e2c4c1551d07fa4a19a9144e][^c-2589e90a54ecefb8c69aaf3cdf5381ae]
 
-(1) An employee may present a complaint to an employment tribunal in Great Britain that[^key-4e2eee28325a9e585f48941c49ff0ae7] his employer—
+(1) An employee may present a complaint to an employment tribunal in Great Britain that[^c-4e2eee28325a9e585f48941c49ff0ae7] his employer—
 
 - (a) has unreasonably refused to permit him to take time off as required by regulation 25; or
 - (b) has failed to pay the whole or any part of any amount to which the employee is entitled under regulation 26.
 
 (2) A tribunal shall not consider a complaint under this regulation unless it is presented—
 
-- (a) before the end of the period of six[^key-defd76b5faadc1f8d824b70b8aece8a8] months beginning with the day on which the time off was taken or on which it is alleged the time off should have been permitted; or
-- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of six[^key-52b4b07f4eb68ae3eabe7ad0fa2ad7d0] months.
+- (a) before the end of the period of six[^c-defd76b5faadc1f8d824b70b8aece8a8] months beginning with the day on which the time off was taken or on which it is alleged the time off should have been permitted; or
+- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of six[^c-52b4b07f4eb68ae3eabe7ad0fa2ad7d0] months.
 
-(2A)[^key-d276433d0cb40ed2fa42180bddaab230] Regulation 27A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+(2A)[^c-d276433d0cb40ed2fa42180bddaab230] Regulation 27A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
-(2B)[^key-8b2458a99696da6f2741150bdb37244c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2B)[^c-8b2458a99696da6f2741150bdb37244c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where a tribunal finds a complaint under this regulation well-founded, the tribunal shall make a declaration to that effect.
 
@@ -683,7 +683,7 @@ to take reasonable time off during the employee’s working hours in order to un
 
 (5) If the complaint is that the employer has failed to pay the employee the whole or part of any amount to which he is entitled under regulation 26, the tribunal shall also order the employer to pay to the employee the amount which it finds due to him.
 
-### 27A. Extension of time limit to facilitate conciliation before institution of proceedings in Great Britain[^key-40a5a5e340a48e6b0c42b9790ac1f0f7][^key-b82a3849de4ef13a59ec5589e9e25c98]
+### 27A. Extension of time limit to facilitate conciliation before institution of proceedings in Great Britain[^c-40a5a5e340a48e6b0c42b9790ac1f0f7][^c-b82a3849de4ef13a59ec5589e9e25c98]
 
 (1) In this regulation—
 
@@ -696,7 +696,7 @@ to take reasonable time off during the employee’s working hours in order to un
 
 (4) The power conferred on the employment tribunal by regulation 27(2)(b) to extend the time limit set by paragraph (2)(a) of that regulation is exercisable in relation to that time limit as extended by this regulation.
 
-### 27AA. Right to time off: complaints to industrial tribunals in Northern Ireland[^key-da92eb554c1f6c2d92cc0e89259aec8c]
+### 27AA. Right to time off: complaints to industrial tribunals in Northern Ireland[^c-da92eb554c1f6c2d92cc0e89259aec8c]
 
 *Extent: N.I.*
 
@@ -718,20 +718,20 @@ to take reasonable time off during the employee’s working hours in order to un
 
 (6) If the complaint is that the employer has failed to pay the employee the whole or part of any amount to which the employee is entitled under regulation 26, the tribunal shall also order the employer to pay to the employee the amount which it finds due to the employee.
 
-### 27B. Extension of time limit to facilitate conciliation before institution of proceedings in Northern Ireland[^key-e065271b568127d94e6e1f5f415d3d32]
+### 27B. Extension of time limit to facilitate conciliation before institution of proceedings in Northern Ireland[^c-e065271b568127d94e6e1f5f415d3d32]
 
 (1) In this regulation—
 
 - (a) Day A is the day on which the worker concerned complies with the requirement in paragraph (1) of Article 20A of the Industrial Tribunals (Northern Ireland) Order 1996 (requirement to contact Labour Relations Agency before instituting proceedings) in relation to the matter in respect of which the proceedings are brought, and
 - (b) Day B is the day on which the worker concerned receives or, if earlier, is treated as receiving (by virtue of regulations made under paragraph (11) of that Article) the certificate issued under paragraph (4) of that Article.
 
-(2) In working out when the three month time limit set by regulation 27AA(2)(a)[^key-49697d583304229fd9337aff1fede45d] expires the period beginning with the day after Day A and ending with Day B is not to be counted.
+(2) In working out when the three month time limit set by regulation 27AA(2)(a)[^c-49697d583304229fd9337aff1fede45d] expires the period beginning with the day after Day A and ending with Day B is not to be counted.
 
-(3) If the three month time limit set by regulation 27AA(2)(a)[^key-a6112d9f0c1accc1989b8b6337e71953] would (if not extended by this paragraph) expire during the period beginning with Day A and ending one month after Day B, the time limit expires instead at the end of that period.
+(3) If the three month time limit set by regulation 27AA(2)(a)[^c-a6112d9f0c1accc1989b8b6337e71953] would (if not extended by this paragraph) expire during the period beginning with Day A and ending one month after Day B, the time limit expires instead at the end of that period.
 
-(4) The power conferred on the industrial tribunal by regulation 27AA(2)(b)[^key-65f273627c0ff4b5887ac2c8f77bcba9] to extend the three month time limit set by paragraph (2)(a) of that regulation is exercisable in relation to that time limit as extended by this regulation.
+(4) The power conferred on the industrial tribunal by regulation 27AA(2)(b)[^c-65f273627c0ff4b5887ac2c8f77bcba9] to extend the three month time limit set by paragraph (2)(a) of that regulation is exercisable in relation to that time limit as extended by this regulation.
 
-### 28. Unfair dismissal[^key-2c89a4b050547353f099d1e308d2c578]
+### 28. Unfair dismissal[^c-2c89a4b050547353f099d1e308d2c578]
 
 (1) An employee who is dismissed and to whom paragraph (2) or (5) applies shall be regarded, if the reason (or, if more than one, the principal reason) for the dismissal is a reason specified in, respectively, paragraph (3) or (6), as unfairly dismissed for the purposes of Part X of the 1996 Act and of Part XI of the 1996 Order.
 
@@ -756,7 +756,7 @@ or proposed to do so.
 (6) The reasons are that the employee—
 
 - (a) took, or proposed to take, any proceedings before an employment tribunal or industrial tribunal to enforce a right or secure an entitlement conferred on him by these Regulations;
-- (b) exercised, or proposed to exercise, any entitlement to apply or complain to the Appeal Tribunal or the CAC, or in Northern Ireland the High Court or[^key-5d3a297d00fb00fe928e90fdddc09372] the Industrial Court, conferred by these Regulations;
+- (b) exercised, or proposed to exercise, any entitlement to apply or complain to the Appeal Tribunal or the CAC, or in Northern Ireland the High Court or[^c-5d3a297d00fb00fe928e90fdddc09372] the Industrial Court, conferred by these Regulations;
 - (c) requested, or proposed to request, information in accordance with regulation 7;
 - (d) acted with a view to securing that a special negotiating body, a European Works Council or an information and consultation procedure did or did not come into existence;
 - (e) indicated that he supported or did not support the coming into existence of a special negotiating body, a European Works Council or an information and consultation procedure;
@@ -773,7 +773,7 @@ or proposed to do so.
 
 but for that paragraph to apply, the claim to the right and, if applicable, the claim that it has been infringed must be made in good faith.
 
-### 29. Subsidiary provisions relating to unfair dismissal: Great Britain[^key-e1cb3d7d23edc573d3116e91ffc6002d]
+### 29. Subsidiary provisions relating to unfair dismissal: Great Britain[^c-e1cb3d7d23edc573d3116e91ffc6002d]
 
 (1) In section 105 of the 1996 Act (redundancy as unfair dismissal) in subsection (1)(c) (which requires one of a specified group of subsections to apply for a person to be treated as unfairly dismissed)[^f00012] there shall be inserted “or (7D)” immediately before “applies” and after subsection (7C) there shall be inserted—
 
@@ -797,7 +797,7 @@ but for that paragraph to apply, the claim to the right and, if applicable, the 
 
 .
 
-### 30. Subsidiary provisions relating to unfair dismissal: Northern Ireland[^key-36041661d46bb2cace4e0285fe6fbbb5]
+### 30. Subsidiary provisions relating to unfair dismissal: Northern Ireland[^c-36041661d46bb2cace4e0285fe6fbbb5]
 
 (1) In Article 137[^f00016] of the 1996 Order (redundancy as unfair dismissal) in paragraph (1)(c) (which requires one of a specified group of paragraphs to apply for a person to be treated as unfairly dismissed) for “(7A)” there shall be substituted “(7B)” and after paragraph (7A) there shall be inserted—
 
@@ -821,7 +821,7 @@ but for that paragraph to apply, the claim to the right and, if applicable, the 
 
 .
 
-### 31. Detriment[^key-c218e31c8e16ef4c63a681d82a488535]
+### 31. Detriment[^c-c218e31c8e16ef4c63a681d82a488535]
 
 (1) An employee to whom paragraph (2) or (5) applies has the right not to be subjected to any detriment by any act, or deliberate failure to act, by his employer, done on a ground specified in, respectively, paragraph (3) or (6).
 
@@ -846,7 +846,7 @@ or proposed to do so.
 (6) The grounds are that the employee—
 
 - (a) took, or proposed to take, any proceedings before an employment tribunal or industrial tribunal to enforce a right or secure an entitlement conferred on him by these Regulations;
-- (b) exercised, or proposed to exercise, any entitlement to apply or complain to the Appeal Tribunal, the CAC, or in Northern Ireland the High Court or[^key-4bcaad21e18086922c18aeb4a4d17a22] the Industrial Court, conferred by these Regulations;
+- (b) exercised, or proposed to exercise, any entitlement to apply or complain to the Appeal Tribunal, the CAC, or in Northern Ireland the High Court or[^c-4bcaad21e18086922c18aeb4a4d17a22] the Industrial Court, conferred by these Regulations;
 - (c) requested, or proposed to request, information in accordance with regulation 7;
 - (d) acted with a view to securing that a special negotiating body, a European Works Council or an information and consultation procedure did or did not come into existence;
 - (e) indicated that he supported or did not support the coming into existence of a special negotiating body, a European Works Council or an information and consultation procedure;
@@ -863,7 +863,7 @@ or proposed to do so.
 
 but for that paragraph to apply, the claim to the right and, if applicable, the claim that it has been infringed must be made in good faith.
 
-### 32. Detriment: enforcement and subsidiary provisions[^key-21209b3ad0e7e753300e9bd6b7586df6][^key-82693fdd69c1c6f82fbef4b8f9af3647]
+### 32. Detriment: enforcement and subsidiary provisions[^c-21209b3ad0e7e753300e9bd6b7586df6][^c-82693fdd69c1c6f82fbef4b8f9af3647]
 
 (1) An employee may present a complaint, in Great Britain to an employment tribunal and in Northern Ireland to an industrial tribunal, that he has been subjected to a detriment in contravention of regulation 31.
 
@@ -876,7 +876,7 @@ shall apply in relation to a complaint under this regulation as they apply in re
 
 (3) Regulation 31 does not apply where the detriment in question amounts to dismissal.
 
-### 33. Conciliation[^key-2578005af89abdaea8c114205d923ccd]
+### 33. Conciliation[^c-2578005af89abdaea8c114205d923ccd]
 
 (1) In section 18 of the Employment Tribunals Act 1996 (conciliation) in subsection (1) (which specifies the proceedings and claims to which the section applies)[^f00022]—
 
@@ -904,18 +904,18 @@ shall apply in relation to a complaint under this regulation as they apply in re
 
 ### The Appeal Tribunal, Industrial Court, CAC, ACAS and the Labour Relations Agency
 
-#### 34. Appeal Tribunal: jurisdiction[^key-7a8783edc60ebc33445e4ace20158ce3]
+#### 34. Appeal Tribunal: jurisdiction[^c-7a8783edc60ebc33445e4ace20158ce3]
 
 (1) Any proceedings before the Appeal Tribunal arising under these Regulations, other than proceedings before the Appeal Tribunal under paragraph (i) of section 21(1) of the Employment Tribunals Act 1996[^f00024], shall—
 
 - (a) where the central management is situated in England and Wales, be in England and Wales;
 - (b) where the central management is situated in Scotland, be in Scotland.
 
-(2)[^key-a2675e330594f7250dabb6eb8e4c7fba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a2675e330594f7250dabb6eb8e4c7fba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Paragraph (1) shall apply to proceedings before the Appeal Tribunal arising under [^key-677dfd1ba673c4927e458be376ce4baf]... paragraph 4 of the Schedule as if for the words “central management” there were substituted the words “UK management”.
+(3) Paragraph (1) shall apply to proceedings before the Appeal Tribunal arising under [^c-677dfd1ba673c4927e458be376ce4baf]... paragraph 4 of the Schedule as if for the words “central management” there were substituted the words “UK management”.
 
-#### 35. Appeal Tribunal: proceedings[^key-8df211007960b744243e5c8f34ba85be]
+#### 35. Appeal Tribunal: proceedings[^c-8df211007960b744243e5c8f34ba85be]
 
 (1) The Employment Tribunals Act 1996 shall be amended as follows.
 
@@ -939,17 +939,17 @@ shall apply in relation to a complaint under this regulation as they apply in re
 
 (4) In section 30 (Appeal Tribunal procedure rules), in paragraph (b) of subsection (2)[^f00025], after “any application” insert “or complaint”.
 
-#### 36. Industrial Court: jurisdiction[^key-2640e033d2cfab31ddf3fdf647fbb368]
+#### 36. Industrial Court: jurisdiction[^c-2640e033d2cfab31ddf3fdf647fbb368]
 
-(1)[^key-a1d0f09be12d5d7e4d140fd4e4e5190b] Where the central management is situated in Northern Ireland, any complaint under regulation 19D, 20, 21 or 21A shall be presented to the Industrial Court instead of to the CAC and references in those regulations and in regulation 22 to the CAC shall be read as references to the Industrial Court and references in regulations 20, 21, 21A and 22 to the Appeal Tribunal shall be read as references to the High Court in Northern Ireland.
+(1)[^c-a1d0f09be12d5d7e4d140fd4e4e5190b] Where the central management is situated in Northern Ireland, any complaint under regulation 19D, 20, 21 or 21A shall be presented to the Industrial Court instead of to the CAC and references in those regulations and in regulation 22 to the CAC shall be read as references to the Industrial Court and references in regulations 20, 21, 21A and 22 to the Appeal Tribunal shall be read as references to the High Court in Northern Ireland.
 
-(2) Where the central management is situated in Northern Ireland, any application under regulation [^key-4c114fe8927d7b2c595da306243304db]... 23 or 24 shall be made to the Industrial Court instead of to the CAC, and references in those regulations to the CAC shall be read as references to the Industrial Court.
+(2) Where the central management is situated in Northern Ireland, any application under regulation [^c-4c114fe8927d7b2c595da306243304db]... 23 or 24 shall be made to the Industrial Court instead of to the CAC, and references in those regulations to the CAC shall be read as references to the Industrial Court.
 
-(3)[^key-c57dbeb6aa3b007138e962aa1b7754e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c57dbeb6aa3b007138e962aa1b7754e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Where the UK management is situated in Northern Ireland, any complaint under [^key-311de79257c454d96568418faf5c67dd]... paragraph 4 of the Schedule shall be presented to the Industrial Court instead of to the CAC, and references in [^key-0b63ccfd98187dac99b65fbd94afb0ca]... that paragraph to the CAC shall be read as references to the Industrial Court.
+(4) Where the UK management is situated in Northern Ireland, any complaint under [^c-311de79257c454d96568418faf5c67dd]... paragraph 4 of the Schedule shall be presented to the Industrial Court instead of to the CAC, and references in [^c-0b63ccfd98187dac99b65fbd94afb0ca]... that paragraph to the CAC shall be read as references to the Industrial Court.
 
-#### 37. Industrial Court: proceedings[^key-4a84e2623d40185522b01e6bbbd9b3a6]
+#### 37. Industrial Court: proceedings[^c-4a84e2623d40185522b01e6bbbd9b3a6]
 
 (1) Where under these Regulations a person presents a complaint or makes an application to the Industrial Court, the complaint or application must be in writing and in such form as the Court may require.
 
@@ -960,9 +960,9 @@ shall apply in relation to a complaint under this regulation as they apply in re
 - (a) must be in writing and state the reasons for the Court’s findings; and
 - (b) may be relied on and enforced as if it were a decision, declaration or order made by the High Court in Northern Ireland.
 
-(4) An appeal lies to the High Court[^key-a60c42983ad2dd280f1ba4fd0dbea300] in Northern Ireland on any question of law arising from a decision, declaration or order of, or arising in any proceedings before, the Industrial Court under these Regulations.
+(4) An appeal lies to the High Court[^c-a60c42983ad2dd280f1ba4fd0dbea300] in Northern Ireland on any question of law arising from a decision, declaration or order of, or arising in any proceedings before, the Industrial Court under these Regulations.
 
-#### 38. CAC: proceedings[^key-72ca3e587f0567bcfed6dc8426956d88]
+#### 38. CAC: proceedings[^c-72ca3e587f0567bcfed6dc8426956d88]
 
 (1) Where under these Regulations a person presents a complaint or makes an application to the CAC the complaint or application must be in writing and in such form as the CAC may require.
 
@@ -978,34 +978,34 @@ shall apply in relation to a complaint under this regulation as they apply in re
 - (a) a declaration or order made by the CAC under these Regulations may be relied on as if it were a declaration or order made by the Court of Session; and
 - (b) an order made by the CAC under these Regulations may be enforced in the same way as an order of the Court of Session.
 
-(5)[^key-b50474e26c4a0ba41e0fbf9ac7776cd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b50474e26c4a0ba41e0fbf9ac7776cd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) Paragraphs (3) and (4) shall apply, as appropriate, to a declaration or order made under [^key-8482b53d2805495c8eb8e669fc20335a]... paragraph 4 of the Schedule as if for the words “central management” there were substituted the words “UK management”.
+(6) Paragraphs (3) and (4) shall apply, as appropriate, to a declaration or order made under [^c-8482b53d2805495c8eb8e669fc20335a]... paragraph 4 of the Schedule as if for the words “central management” there were substituted the words “UK management”.
 
 (7) A declaration or order made by the CAC under these Regulations must be in writing and state the reasons for the CAC’s findings.
 
 (8) An appeal lies to the Appeal Tribunal on any question of law arising from any declaration or order of, or arising in any proceedings before, the CAC under these Regulations.
 
-#### 39. ACAS and the Labour Relations Agency[^key-4951920d6f7f176e5bf149921194f227]
+#### 39. ACAS and the Labour Relations Agency[^c-4951920d6f7f176e5bf149921194f227]
 
-(1) If on receipt of an application or complaint under these Regulations the CAC, [^key-efb45561d1cd1c87d8260b1fd2b61e87]... or as the case may be the Industrial Court, is of the opinion that it is reasonably likely to be settled by conciliation, it shall refer the application or complaint to ACAS or to the Labour Relations Agency and shall notify the applicant or complainant and any persons whom it considers have a proper interest in the application or complaint accordingly, whereupon ACAS, or as the case may be the Labour Relations Agency, shall seek to promote a settlement of the matter.
+(1) If on receipt of an application or complaint under these Regulations the CAC, [^c-efb45561d1cd1c87d8260b1fd2b61e87]... or as the case may be the Industrial Court, is of the opinion that it is reasonably likely to be settled by conciliation, it shall refer the application or complaint to ACAS or to the Labour Relations Agency and shall notify the applicant or complainant and any persons whom it considers have a proper interest in the application or complaint accordingly, whereupon ACAS, or as the case may be the Labour Relations Agency, shall seek to promote a settlement of the matter.
 
-(2) If an application or complaint so referred is not settled or withdrawn and ACAS, or as the case may be the Labour Relations Agency, is of the opinion that further attempts at conciliation are unlikely to result in a settlement, it shall inform the CAC, [^key-efb45561d1cd1c87d8260b1fd2b61e87]... or as the case may be the Industrial Court, of its opinion.
+(2) If an application or complaint so referred is not settled or withdrawn and ACAS, or as the case may be the Labour Relations Agency, is of the opinion that further attempts at conciliation are unlikely to result in a settlement, it shall inform the CAC, [^c-efb45561d1cd1c87d8260b1fd2b61e87]... or as the case may be the Industrial Court, of its opinion.
 
-(3) If the application or complaint is not referred to ACAS or to the Labour Relations Agency, or if it is so referred, on ACAS, or as the case may be the Labour Relations Agency, informing the CAC, [^key-efb45561d1cd1c87d8260b1fd2b61e87]... or as the case may be the Industrial Court, of its opinion that further attempts at conciliation are unlikely to result in a settlement, the CAC, [^key-efb45561d1cd1c87d8260b1fd2b61e87]... or as the case may be the Industrial Court, shall proceed to hear and determine the application or complaint.
+(3) If the application or complaint is not referred to ACAS or to the Labour Relations Agency, or if it is so referred, on ACAS, or as the case may be the Labour Relations Agency, informing the CAC, [^c-efb45561d1cd1c87d8260b1fd2b61e87]... or as the case may be the Industrial Court, of its opinion that further attempts at conciliation are unlikely to result in a settlement, the CAC, [^c-efb45561d1cd1c87d8260b1fd2b61e87]... or as the case may be the Industrial Court, shall proceed to hear and determine the application or complaint.
 
 ### Restrictions on contracting out
 
-#### 40. Restrictions on contracting out: general[^key-3e58867b26223deb3545f5b47948fc07]
+#### 40. Restrictions on contracting out: general[^c-3e58867b26223deb3545f5b47948fc07]
 
 (1) Any provision in any agreement (whether an employee’s contract or not) is void in so far as it purports—
 
 - (a) to exclude or limit the operation of any provision of these Regulations other than a provision of Part VII; or
-- (b) to preclude a person from bringing any proceedings before the Appeal Tribunal or the CAC, or in Northern Ireland the High Court or[^key-a8736bc26c4e29dc51796a970a5607f2] the Industrial Court, under any provision of these Regulations other than a provision of Part VII.
+- (b) to preclude a person from bringing any proceedings before the Appeal Tribunal or the CAC, or in Northern Ireland the High Court or[^c-a8736bc26c4e29dc51796a970a5607f2] the Industrial Court, under any provision of these Regulations other than a provision of Part VII.
 
 (2) Paragraph (1) does not apply to any agreement to refrain from continuing any proceedings referred to in sub-paragraph (b) of that paragraph made after the proceedings have been instituted.
 
-#### 41. Restrictions on contracting out: Part VII[^key-3723632d4712522a76588170d902dab4]
+#### 41. Restrictions on contracting out: Part VII[^c-3723632d4712522a76588170d902dab4]
 
 (1) Any provision in any agreement (whether an employee’s contract or not) is void in so far as it purports—
 
@@ -1014,17 +1014,17 @@ shall apply in relation to a complaint under this regulation as they apply in re
 
 (2) Paragraph (1) does not apply to any agreement to refrain from instituting or continuing proceedings before an employment tribunal or, in Northern Ireland, an industrial tribunal where—
 
-- (a) a conciliation officer has taken action under any of sections 18A to 18C[^key-7efcd0cb53d173f98af421ae052302b1] of the Employment Tribunals Act 1996 (conciliation); or
-- (b) in relation to Northern Ireland, the Labour Relations Agency has taken action under any of Articles 20A to 20C *(Extent: NI)*[^key-789139e5dc4cdc4050c73fa19639f418] of the Industrial Tribunals (Northern Ireland) Order 1996 (conciliation).
+- (a) a conciliation officer has taken action under any of sections 18A to 18C[^c-7efcd0cb53d173f98af421ae052302b1] of the Employment Tribunals Act 1996 (conciliation); or
+- (b) in relation to Northern Ireland, the Labour Relations Agency has taken action under any of Articles 20A to 20C *(Extent: NI)*[^c-789139e5dc4cdc4050c73fa19639f418] of the Industrial Tribunals (Northern Ireland) Order 1996 (conciliation).
 
 (3) Paragraph (1) does not apply to any agreement to refrain from instituting or continuing before an employment tribunal, or in Northern Ireland an industrial tribunal, proceedings within—
 
-- (a) section 18(1)(k)[^key-16523e9099b6e05ad808bae80e42f7c8] of the Employment Tribunals Act 1996 (proceedings under these Regulations where conciliation is available); or
+- (a) section 18(1)(k)[^c-16523e9099b6e05ad808bae80e42f7c8] of the Employment Tribunals Act 1996 (proceedings under these Regulations where conciliation is available); or
 - (b) in relation to Northern Ireland, Article 20(1)(g) of the Industrial Tribunals (Northern Ireland) Order 1996,
 
-if the conditions regulating settlement[^key-9633c17c8443491e389de4328348d7a3] agreements under these Regulations are satisfied in relation to the agreement.
+if the conditions regulating settlement[^c-9633c17c8443491e389de4328348d7a3] agreements under these Regulations are satisfied in relation to the agreement.
 
-(4) For the purposes of paragraph (3) the conditions regulating settlement[^key-d1c4c9d2d62054b8cd96b98f03d715dc] agreements are that—
+(4) For the purposes of paragraph (3) the conditions regulating settlement[^c-d1c4c9d2d62054b8cd96b98f03d715dc] agreements are that—
 
 - (a) the agreement must be in writing;
 - (b) the agreement must relate to the particular proceedings;
@@ -1047,11 +1047,11 @@ if the conditions regulating settlement[^key-9633c17c8443491e389de4328348d7a3] a
 
 (7) In paragraph (5)(a), “qualified lawyer” means—
 
-- (a) as respects England and Wales, a person who, for the purposes of the Legal Services Act 2007), is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act)[^key-5304b8dee83bf03fa6a4b430c41635c5];
+- (a) as respects England and Wales, a person who, for the purposes of the Legal Services Act 2007), is an authorised person in relation to an activity which constitutes the exercise of a right of audience or the conduct of litigation (within the meaning of that Act)[^c-5304b8dee83bf03fa6a4b430c41635c5];
 - (b) as respects Scotland, an advocate (whether in practice as such or employed to give legal advice) or a solicitor who holds a practising certificate; and
 - (c) as respects Northern Ireland, a barrister (whether in practice as such or employed to give legal advice) or a solicitor who holds a practising certificate.
 
-(7A)[^key-7f88c6be5a3c9811b02efee2f7bb212c] A person shall be treated as being a qualified lawyer within paragraph (7)(a) if he is a Fellow of the Institute of Legal Executives practising in a solicitor’s practice (including a body recognised under section 9 of the Administration of Justice Act 1985)[^key-58ec12ecbb285e810fdf99d7a41fe0f0].
+(7A)[^c-7f88c6be5a3c9811b02efee2f7bb212c] A person shall be treated as being a qualified lawyer within paragraph (7)(a) if he is a Fellow of the Institute of Legal Executives practising in a solicitor’s practice (including a body recognised under section 9 of the Administration of Justice Act 1985)[^c-58ec12ecbb285e810fdf99d7a41fe0f0].
 
 (8) For the purposes of paragraph (6) any two employers shall be treated as associated if—
 
@@ -1060,35 +1060,35 @@ if the conditions regulating settlement[^key-9633c17c8443491e389de4328348d7a3] a
 
 and “associated employer” shall be construed accordingly.
 
-(9)[^key-7efc2de7af4bdb983a124f5d99f6b665] In the application of this regulation in relation to Northern Ireland, paragraphs (3) and (4) above shall have effect as if for “settlement agreements” there were substituted “compromise agreements.
+(9)[^c-7efc2de7af4bdb983a124f5d99f6b665] In the application of this regulation in relation to Northern Ireland, paragraphs (3) and (4) above shall have effect as if for “settlement agreements” there were substituted “compromise agreements.
 
 ## PART IX — EXCEPTIONS
 
-### 42. Article 6 agreements[^key-41f5aee6de4a8c18b6994b57c7bfb04f]
+### 42. Article 6 agreements[^c-41f5aee6de4a8c18b6994b57c7bfb04f]
 
 (1) Where, in accordance with regulation 5, the central management is situated in the United Kingdom and, immediately before the date on which these Regulations come into force an Article 6 agreement is in force, those provisions referred to in regulation 4(1) which apply only where the central management is situated in the United Kingdom shall only apply if—
 
-- (a) the parties to the Article 6 agreement agree or have agreed (whether before or after these Regulations come into force) to the effect that the provisions of these Regulations which would have applied in respect of the agreement had it been made before exit day[^key-ea731d9d80645f109c2fc739a477aba2] under regulation 17 should apply in respect of the Article 6 agreement; or
+- (a) the parties to the Article 6 agreement agree or have agreed (whether before or after these Regulations come into force) to the effect that the provisions of these Regulations which would have applied in respect of the agreement had it been made before exit day[^c-ea731d9d80645f109c2fc739a477aba2] under regulation 17 should apply in respect of the Article 6 agreement; or
 - (b) the Article 6 agreement ceases to have effect.
 
 (2) In paragraph (1) and regulation 47 “Article 6 agreement” means an agreement for the establishment of a European Works Council or information and consultation procedure made under the provisions of the law or practice of a Relevant State other than the United Kingdom which are designed to give effect to Article 6 of the Transnational Information and Consultation Directive.
 
-(3) Where paragraph (1)(a) applies these Regulations shall apply as if the Article 6 agreement had been made before exit day[^key-1769ce98577401fb37c866c948f0b401] under regulation 17.
+(3) Where paragraph (1)(a) applies these Regulations shall apply as if the Article 6 agreement had been made before exit day[^c-1769ce98577401fb37c866c948f0b401] under regulation 17.
 
-### 43. Article 7 European Works Councils[^key-7411d8ed97b61e8a53a44247517eaa51]
+### 43. Article 7 European Works Councils[^c-7411d8ed97b61e8a53a44247517eaa51]
 
 (1) Where, in accordance with regulation 5, the central management is situated in the United Kingdom, and immediately before the date these Regulations come into force an Article 7 European Works Council exists, those provisions referred to in regulation 4(1) which apply only where the central management is situated in the United Kingdom shall only apply if—
 
-- (a) the central management and European Works Council agree or have agreed (whether before or after these Regulations come into force) to the effect that the provisions of these Regulations which would have applied in respect of the European Works Council had it been made before exit day[^key-f736ba5a39538b305dbd71e733bcce04], by virtue of regulation 18, under these Regulations should apply in respect of the Article 7 European Works Council; or
+- (a) the central management and European Works Council agree or have agreed (whether before or after these Regulations come into force) to the effect that the provisions of these Regulations which would have applied in respect of the European Works Council had it been made before exit day[^c-f736ba5a39538b305dbd71e733bcce04], by virtue of regulation 18, under these Regulations should apply in respect of the Article 7 European Works Council; or
 - (b) the European Works Council decides, under the provisions of the law or practice of a Relevant State other than the United Kingdom which are designed to give effect to paragraph 1(f) of the Annex to the Transnational Information and Consultation Directive, to negotiate an agreement for a European Works Council or an information and consultation procedure.
 
 (2) In paragraph (1) and regulations 47 and 48 “Article 7 European Works Council” means a European Works Council established under the provisions of the law or practice of a Relevant State other than the United Kingdom which are designed to give effect to Article 7 of, and the Annex to, the Transnational Information and Consultation Directive.
 
-(3) Where paragraph (1)(a) or (b) applies these Regulations shall apply, subject to the modifications referred to in paragraphs (4) to (6) of regulation 48, as if the Article 7 European Works Council had been established before exit day[^key-e81996b1a737f2e73e531b884d7d5604], by virtue of regulation 18, under these Regulations and, in a case where paragraph (1)(b) applies, as if a decision had been taken under paragraph 10(2) 0f the Schedule.
+(3) Where paragraph (1)(a) or (b) applies these Regulations shall apply, subject to the modifications referred to in paragraphs (4) to (6) of regulation 48, as if the Article 7 European Works Council had been established before exit day[^c-e81996b1a737f2e73e531b884d7d5604], by virtue of regulation 18, under these Regulations and, in a case where paragraph (1)(b) applies, as if a decision had been taken under paragraph 10(2) 0f the Schedule.
 
-### 44. Article 3 agreements[^key-3bd2e702497f961cdc4c1edd43cca2c0]
+### 44. Article 3 agreements[^c-3bd2e702497f961cdc4c1edd43cca2c0]
 
-(1) [^key-c074504fa7c57022d02d7f869bdc318d]... None of the obligations in these Regulations, [^key-9d059a148bf480ef06e5893644be2160]... applies to a Community-scale undertaking or Community-scale group of undertakings where the conditions specified in Article 3 of the Extension Directive are satisfied.
+(1) [^c-c074504fa7c57022d02d7f869bdc318d]... None of the obligations in these Regulations, [^c-9d059a148bf480ef06e5893644be2160]... applies to a Community-scale undertaking or Community-scale group of undertakings where the conditions specified in Article 3 of the Extension Directive are satisfied.
 
 (2) The conditions referred to in paragraph (1) are that—
 
@@ -1100,17 +1100,17 @@ and “associated employer” shall be construed accordingly.
 
 (3) If an agreement when taken together with one or more other agreements satisfies the requirements specified in paragraph (2)(a), that agreement, when taken together with such other agreements, shall be treated as an agreement for the purposes of that paragraph.
 
-(4)[^key-88aeb74235fb8d2d235910c9e5269f83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-88aeb74235fb8d2d235910c9e5269f83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-88aeb74235fb8d2d235910c9e5269f83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-88aeb74235fb8d2d235910c9e5269f83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-88aeb74235fb8d2d235910c9e5269f83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-88aeb74235fb8d2d235910c9e5269f83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-88aeb74235fb8d2d235910c9e5269f83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-88aeb74235fb8d2d235910c9e5269f83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 45. Article 13 agreements
 
-(1) [^key-bdea1d9d97999db8f3f540aed95b8760]... None of the obligations in these Regulations, [^key-1ba4613854dc724d26459d9f28f0048d]... applies to a Community-scale undertaking or Community-scale group of undertakings where the conditions specified in Article 13 of the Transnational Information and Consultation Directive are satisfied.
+(1) [^c-bdea1d9d97999db8f3f540aed95b8760]... None of the obligations in these Regulations, [^c-1ba4613854dc724d26459d9f28f0048d]... applies to a Community-scale undertaking or Community-scale group of undertakings where the conditions specified in Article 13 of the Transnational Information and Consultation Directive are satisfied.
 
 (2) The conditions referred to in paragraph (1) are that an agreement is in force which—
 
@@ -1120,17 +1120,17 @@ and “associated employer” shall be construed accordingly.
 
 (3) If an agreement when taken together with one or more other agreements satisfies the requirements specified in paragraph (2), that agreement, when taken together with such other agreements, shall be treated as an agreement for the purposes of that paragraph.
 
-(4)[^key-4b88aa14f83bba06ebd8b2ed15368a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4b88aa14f83bba06ebd8b2ed15368a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-4b88aa14f83bba06ebd8b2ed15368a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4b88aa14f83bba06ebd8b2ed15368a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-4b88aa14f83bba06ebd8b2ed15368a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-4b88aa14f83bba06ebd8b2ed15368a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-4b88aa14f83bba06ebd8b2ed15368a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-4b88aa14f83bba06ebd8b2ed15368a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 45A. Agreements signed or revised on or after 5th June 2009 and before 5th June 2011
 
-(1)[^key-901befa8676e66ed3c89272e3777ce8f] Where the conditions specified in paragraph (2) are satisfied, these Regulations shall apply to a Community-scale undertaking or Community-scale group of undertakings as if the amendments listed—
+(1)[^c-901befa8676e66ed3c89272e3777ce8f] Where the conditions specified in paragraph (2) are satisfied, these Regulations shall apply to a Community-scale undertaking or Community-scale group of undertakings as if the amendments listed—
 
 - (a) in paragraph (3) in relation to the 2010 Regulations, and
 - (b) in paragraph (3A) in relation to the 2019 Regulations,
@@ -1139,10 +1139,10 @@ had not been made.
 
 (2) The conditions referred to in paragraph (1) are that an agreement is in force which—
 
-- (a) establishes a European Works Council or information and consultation procedure before exit day[^key-600e0f41ddbae2edf018982d81ef4904] under regulation 17 of these Regulations; and
+- (a) establishes a European Works Council or information and consultation procedure before exit day[^c-600e0f41ddbae2edf018982d81ef4904] under regulation 17 of these Regulations; and
 - (b) is signed or revised on or after 5th June 2009 and before 5th June 2011.
 
-(3) The amendments referred to in paragraph (1)(a)[^key-327ae4bf6693d3c8e16d515854466e01] are those made by the following provisions of the 2010 Regulations—
+(3) The amendments referred to in paragraph (1)(a)[^c-327ae4bf6693d3c8e16d515854466e01] are those made by the following provisions of the 2010 Regulations—
 
 - (a) regulation 3, in so far as it inserts the definition of “national employee representation bodies” and paragraphs (4A) and (4B) into regulation 2 of these Regulations;
 - (b) regulations 5 to 10;
@@ -1153,18 +1153,18 @@ had not been made.
 - (g) regulation 23, in so far as it amends regulations 44 and 45 of these Regulations; and
 - (h) regulations 24 to 29.
 
-(3A)[^key-6c0386eb7ac9d161eeaba6b9d06f07e6] The amendments referred to in paragraph (1)(b) are those made by paragraphs 14, 15, 20, 21(b), 27 and 28 of Schedule 2 to the 2019 Regulations.
+(3A)[^c-6c0386eb7ac9d161eeaba6b9d06f07e6] The amendments referred to in paragraph (1)(b) are those made by paragraphs 14, 15, 20, 21(b), 27 and 28 of Schedule 2 to the 2019 Regulations.
 
-(4)[^key-6dd6d7e2f56702e5bfb845027b6fd861] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6dd6d7e2f56702e5bfb845027b6fd861] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-19e609a71f12ced555b9d7c831e47533] In this regulation—
+(5)[^c-19e609a71f12ced555b9d7c831e47533] In this regulation—
 
 - (a) “the 2010 Regulations” means the Transnational Information and Consultation of Employees (Amendment) Regulations 2010, and
 - (b) “the 2019 Regulations” means the Employment Rights (Amendment) (EU Exit) Regulations 2019.
 
-### 46. Merchant Navy[^key-0fd9c9e00519a78b40d570fa7242467d]
+### 46. Merchant Navy[^c-0fd9c9e00519a78b40d570fa7242467d]
 
-(1) Subject to paragraph (2), a member [^key-f835fd8d51df014acf5b332e0e2e1e25]... of a European Works Council or an information and consultation representative, or an alternate of such member or representative, who is a member of the crew of a seagoing vessel, is entitled to participate in a meeting [^key-b196818baa866e3508fa349700d98dad]... of the European Works Council, or in any other meeting under any procedures established before exit day[^key-ca70153fc93e093e9c64abcca771d863] pursuant to regulation 17(3).
+(1) Subject to paragraph (2), a member [^c-f835fd8d51df014acf5b332e0e2e1e25]... of a European Works Council or an information and consultation representative, or an alternate of such member or representative, who is a member of the crew of a seagoing vessel, is entitled to participate in a meeting [^c-b196818baa866e3508fa349700d98dad]... of the European Works Council, or in any other meeting under any procedures established before exit day[^c-ca70153fc93e093e9c64abcca771d863] pursuant to regulation 17(3).
 
 (2) A member or representative or alternate referred to in paragraph (1) may only participate in a meeting where that member, representative or alternate is not at sea or in a port in a country other than that in which the shipping company is domiciled, when the meeting takes place.
 
@@ -1179,18 +1179,18 @@ had not been made.
 
 *Extent: E+W+S*
 
-**46A.**[^M_E_3d05c0b6-cb42-4abe-b0af-f2999f884e57][^key-bf0aabd00fac119244815d8be3c545a4] (1) These regulations do not apply to a UK Societas[^key-fc23584bf0259afaa48ab36f30972c8c] that is—
+**46A.**[^M_E_3d05c0b6-cb42-4abe-b0af-f2999f884e57][^c-bf0aabd00fac119244815d8be3c545a4] (1) These regulations do not apply to a UK Societas[^c-fc23584bf0259afaa48ab36f30972c8c] that is—
 
 - (a) a Community-scale undertaking, or
 - (b) a controlling undertaking of a Community-scale group of undertakings,
 
 except where the special negotiating body has taken the decision referred to in regulation 17 of the European Public Limited-Liability Company (Employee Involvement) (Great Britain) Regulations 2009 (decision not to open, or to terminate, negotiations) (S.I. 2009/2401) or, as the case may be, regulation 17 of the European Public Limited-Liability Company (Employee Involvement) (Northern Ireland) Regulations 2009 (S.I. 2009/2402).
 
-(2)[^key-9654bee584900bb0777d9a643c2200f6] In this regulation “**UK Societas**” means a United Kingdom Societas within the meaning of Council Regulation 2157/2001/EC of 8 October 2001 on the Statute for a European Company.
+(2)[^c-9654bee584900bb0777d9a643c2200f6] In this regulation “**UK Societas**” means a United Kingdom Societas within the meaning of Council Regulation 2157/2001/EC of 8 October 2001 on the Statute for a European Company.
 
 *Extent: N.I.*
 
-**46A.**[^M_E_86b226bc-54e2-40fa-d575-39a93e9b8d55][^key-949ac3924d61c68ed74b69d13f5dec0c] (1) These regulations do not apply to a UK Societas that is –
+**46A.**[^M_E_86b226bc-54e2-40fa-d575-39a93e9b8d55][^c-949ac3924d61c68ed74b69d13f5dec0c] (1) These regulations do not apply to a UK Societas that is –
 
 - (a) a Community-scale undertaking, or
 - (b) a controlling undertaking of a Community-scale group of undertakings,
@@ -1199,7 +1199,7 @@ except where the special negotiating body has taken the decision referred to in 
 
 (2) In this regulation “**UK Societas**” means a United Kingdom Societas within the meaning of Council Regulation 2157/2001/EC of 8 October 2001 on the Statute for a European Company.
 
-**46B.**[^key-fbbb02728cad06c7b371a2e067adc721] (1) These regulations do not apply to an SCE that is—
+**46B.**[^c-fbbb02728cad06c7b371a2e067adc721] (1) These regulations do not apply to an SCE that is—
 
 - (a) a Community-scale undertaking, or
 - (b) a controlling undertaking of a Community-scale group of undertakings,
@@ -1210,11 +1210,11 @@ except where the special negotiating body has taken the decision referred to in 
 
 ## PART X — TRANSITIONALS
 
-### 47. Transitionals: special negotiating body[^key-0a8baf88d0b3a5611cafdb1c5200d60e]
+### 47. Transitionals: special negotiating body[^c-0a8baf88d0b3a5611cafdb1c5200d60e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 48. Transitionals: Article 7 European Works Councils[^key-24abfe2bb3aa650dfabd7764d4ce26fe]
+### 48. Transitionals: Article 7 European Works Councils[^c-24abfe2bb3aa650dfabd7764d4ce26fe]
 
 (1) Where, immediately before the date on which these Regulations come into force, a European Works Council has been established under the provisions of the law or practice of a Relevant State other than the United Kingdom, which are designed to give effect to Article 7 of, and the Annex to, the Transnational Information and Consultation Directive, paragraphs (2) and (3) shall apply.
 
@@ -1250,11 +1250,11 @@ Department of Trade and Industry
 
 Regulation 18
 
-### 1. Establishment of European Works Council[^key-71f72029b28035edec2a801c36c07f7d]
+### 1. Establishment of European Works Council[^c-71f72029b28035edec2a801c36c07f7d]
 
 A European Works Council shall be established in the Community-scale undertaking or Community-scale group of undertakings in accordance with the provisions in this Schedule.
 
-### 2. Composition of the European Works Council[^key-ddeea560dc9f86def7937420988d1497]
+### 2. Composition of the European Works Council[^c-ddeea560dc9f86def7937420988d1497]
 
 (1) The European Works Council shall be constituted in accordance with sub-paragraph (2).
 
@@ -1264,7 +1264,7 @@ A European Works Council shall be established in the Community-scale undertaking
 
 (4) To ensure that it can co-ordinate its activities, the European Works Council shall elect from among its members a select committee comprising no more than five members who are to act on behalf of the European Works Council.
 
-### 3. Appointment or election of UK members of the European Works Council[^key-ececea3a1d7da199fc3450674a79fe35]
+### 3. Appointment or election of UK members of the European Works Council[^c-ececea3a1d7da199fc3450674a79fe35]
 
 (1) The UK members of the European Works Council must be UK employees and—
 
@@ -1284,7 +1284,7 @@ A European Works Council shall be established in the Community-scale undertaking
 
 (4) Where sub-paragraph (l)(b) applies, the UK members of the European Works Council are to be elected by a ballot of the UK employees in accordance with paragraphs 4 and 5.
 
-### 4. Ballot arrangements[^key-68742d5d27c923ded2ae87ebfa8a7b8f]
+### 4. Ballot arrangements[^c-68742d5d27c923ded2ae87ebfa8a7b8f]
 
 (1) The UK management must arrange for the holding of a ballot of employees referred to in paragraph 3(4), which satisfies the requirements specified in sub-paragraph (2).
 
@@ -1312,7 +1312,7 @@ A European Works Council shall be established in the Community-scale undertaking
 - (a) any of the requirements specified in paragraphs (b) to (f) of sub-paragraph (2) is not satisfied; or
 - (b) in a case where the ballot is to comprise separate ballots, the constituencies determined by the UK management do not reflect adequately the interests of the UK employees as a whole.
 
-### 5. Conduct of ballot[^key-11617715ec43c1787f70edefd4392503]
+### 5. Conduct of ballot[^c-11617715ec43c1787f70edefd4392503]
 
 (1) The UK management must—
 
@@ -1351,39 +1351,39 @@ A European Works Council shall be established in the Community-scale undertaking
 
 (8) All costs relating to the holding of a ballot, including payments made to a ballot supervisor for supervising the conduct of the ballot, shall be borne by the central management (whether or not an ineffective ballot report has been made).
 
-### 6. Competence of the European Works Council[^key-55f8ed4ae8a371cf013528093026630a]
+### 6. Competence of the European Works Council[^c-55f8ed4ae8a371cf013528093026630a]
 
 (1) The competence of the European Works Council shall be limited to information and consultation on the matters which concern the Community-scale undertaking or Community-scale group of undertakings as a whole or at least two of its establishments or group undertakings situated in different Relevant States.
 
 (2) In the case of a Community-scale undertaking or Community-scale group of undertakings falling within regulation 5(l)(b) or 5(1)(c), the competence of the European Works Council shall be limited to those matters concerning all of its establishments or group undertakings situated within the Relevant States or concerning at least two of its establishments or group undertakings situated in different Relevant States.
 
-(3)[^key-b8e57145e64d6c8c22160ed9e83cbd6c] Information and consultation of employees shall take place between members of a European Works Council and the most appropriate level of management according to the matters under discussion.
+(3)[^c-b8e57145e64d6c8c22160ed9e83cbd6c] Information and consultation of employees shall take place between members of a European Works Council and the most appropriate level of management according to the matters under discussion.
 
-### 7. Information and consultation meetings[^key-969cba5529d127eb0f7dbf5bd46dc732]
+### 7. Information and consultation meetings[^c-969cba5529d127eb0f7dbf5bd46dc732]
 
 (1) Subject to paragraph 8, the European Works Council shall have the right to meet with the central management once a year in an information and consultation meeting, to be informed and consulted, on the basis of a report drawn up by the central management, on the progress of the business of the Community-scale undertaking or Community-scale group of undertakings and its prospects.
 
 (2) The central management shall inform the local managements accordingly.
 
-(3)[^key-7925c6e1826ba2bc6c52e3fb19b755ba] The information provided to the European Works Council shall relate in particular to the structure, economic and financial situation, the probable development of the business and of production and sales of the Community-scale undertaking or Community-scale group of undertakings.
+(3)[^c-7925c6e1826ba2bc6c52e3fb19b755ba] The information provided to the European Works Council shall relate in particular to the structure, economic and financial situation, the probable development of the business and of production and sales of the Community-scale undertaking or Community-scale group of undertakings.
 
 (4) The information and consultation meeting shall relate in particular to the situation and probable trend of employment, investments, and substantial changes concerning organisation, introduction of new working methods or production processes, transfers of production, mergers, cut-backs or closures of undertakings, establishments or important parts of such undertakings or establishments, and collective redundancies.
 
-### 8. Exceptional information and consultation meetings[^key-de3c7a87353adc47bb4e03a6cac220a8]
+### 8. Exceptional information and consultation meetings[^c-de3c7a87353adc47bb4e03a6cac220a8]
 
-(1) Where there are exceptional circumstances affecting the employees' interests to a considerable extent, particularly in the event of relocations, the closure of establishments or undertakings or collective redundancies, the select committee or, where no such committee exists, the European Works Council shall have the right to be informed. It shall have the right to meet in an exceptional information and consultation meeting, at its request, the central management, or any other more appropriate level of management within the Community-scale undertaking or group of undertakings having its own powers of decision, so as to be informed and consulted [^key-1b3cda6c0a3676268d932d9d3c524151]....
+(1) Where there are exceptional circumstances affecting the employees' interests to a considerable extent, particularly in the event of relocations, the closure of establishments or undertakings or collective redundancies, the select committee or, where no such committee exists, the European Works Council shall have the right to be informed. It shall have the right to meet in an exceptional information and consultation meeting, at its request, the central management, or any other more appropriate level of management within the Community-scale undertaking or group of undertakings having its own powers of decision, so as to be informed and consulted [^c-1b3cda6c0a3676268d932d9d3c524151]....
 
-(2) Those members of the European Works Council who have been elected or appointed by the establishments or undertakings which are directly concerned by the circumstances[^key-6f696b37f1bfbe7db425acf952074c95] in question shall also have the right to participate in an exceptional information and consultation meeting referred to in sub-paragraph (1) of this paragraph organised with the select committee elected under sub-paragraph (6) of paragraph 2.
+(2) Those members of the European Works Council who have been elected or appointed by the establishments or undertakings which are directly concerned by the circumstances[^c-6f696b37f1bfbe7db425acf952074c95] in question shall also have the right to participate in an exceptional information and consultation meeting referred to in sub-paragraph (1) of this paragraph organised with the select committee elected under sub-paragraph (6) of paragraph 2.
 
 (3) The exceptional information and consultation meeting referred to in sub-paragraph (1) of this paragraph shall take place as soon as possible on the basis of a report drawn up by the central management or any other appropriate level of management of the Community-scale undertaking or Community-scale group of undertakings, on which an opinion may be delivered at the end of the meeting or within a reasonable time.
 
 (4) The exceptional information and consultation meeting referred to in sub-paragraph (1) of this paragraph shall not affect the prerogatives of the central management.
 
-### 8A. Use of agency workers[^key-b8898ba86159fe197b5795ade0709dda]
+### 8A. Use of agency workers[^c-b8898ba86159fe197b5795ade0709dda]
 
 Where information is to be disclosed under paragraph 7 or 8 which includes information as to the employment situation in the Community-scale undertaking or, as the case may be, the Community-scale group of undertakings, this shall include suitable information relating to the use of agency workers (if any).
 
-### 9. Procedures[^key-ae20d6132927a1ddff815ce6b84fa9bc]
+### 9. Procedures[^c-ae20d6132927a1ddff815ce6b84fa9bc]
 
 (1) Before an information and consultation meeting or exceptional information and consultation meeting with the central management, the European Works Council or the select committee, where necessary enlarged in accordance with sub-paragraph (2) of paragraph 8, shall be entitled to meet without the management concerned being present.
 
@@ -1400,16 +1400,16 @@ of the content and outcome of the information and consultation procedure carried
 
 (5) The operating expenses of the European Works Council shall be borne by the central management; but where the European Works Council is assisted by more than one expert the central management is not required to pay such expenses in respect of more than one of them.
 
-(6) The central management shall provide the members of the European Works Council and its select committee[^key-d8e22a4dfb561b830445601005548eb9] with such financial and material resources as enable them to perform their duties in an appropriate manner. In particular, the cost of organising meetings and arranging for interpretation facilities and the accommodation and travelling expenses of members of the European Works Council and its select committee shall be met by the central management unless the central management and European Works Council, or select committee, otherwise agree.
+(6) The central management shall provide the members of the European Works Council and its select committee[^c-d8e22a4dfb561b830445601005548eb9] with such financial and material resources as enable them to perform their duties in an appropriate manner. In particular, the cost of organising meetings and arranging for interpretation facilities and the accommodation and travelling expenses of members of the European Works Council and its select committee shall be met by the central management unless the central management and European Works Council, or select committee, otherwise agree.
 
-(7)[^key-cfac08c6255edd1bcc0a45ac82aed860] The employer must ensure that the consultation referred to in paragraphs 7(1) and 8(1) is conducted in such a way that the members of the European Works Council can, if they so request—
+(7)[^c-cfac08c6255edd1bcc0a45ac82aed860] The employer must ensure that the consultation referred to in paragraphs 7(1) and 8(1) is conducted in such a way that the members of the European Works Council can, if they so request—
 
 - (a) meet with the central management; and
 - (b) obtain a reasoned response from the central management to any opinion expressed by those representatives on the reports referred to in paragraphs 7(1) and 8(3).
 
 (8) Information and consultation carried out in accordance with this Schedule shall be carried out subject to regulation 23.
 
-### 10. The continuing application of the subsidiary requirements[^key-980a6643059ffa1fa859c7b2476a055d]
+### 10. The continuing application of the subsidiary requirements[^c-980a6643059ffa1fa859c7b2476a055d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1447,11 +1447,11 @@ A Regulatory Impact Assessment of the costs and benefits which will result from 
 
 [^f00002]: Footnote: S.I. [1999/2788](https://www.legislation.gov.uk/uksi/1999/2788).
 
-[^key-5e83bcc99cb3a00d80f8f04978475427]: Modification: Regulations modified (N.I.) (5.12.2011) by [The Agency Workers Regulations (Northern Ireland) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [regs. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2011/350/regulation/23/1), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/nisr/2011/350/schedule/1/paragraph/1/a)
+[^c-5e83bcc99cb3a00d80f8f04978475427]: Modification: Regulations modified (N.I.) (5.12.2011) by [The Agency Workers Regulations (Northern Ireland) 2011 (S.R. 2011/350)](https://www.legislation.gov.uk/nisr/2011/350), [regs. 1](https://www.legislation.gov.uk/nisr/2011/350/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2011/350/regulation/23/1), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/nisr/2011/350/schedule/1/paragraph/1/a)
 
-[^key-a6440060240906f551305c8e3d614d21]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-a6440060240906f551305c8e3d614d21]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-3c852b132bf4cc1db7e906c5e68875ad]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-3c852b132bf4cc1db7e906c5e68875ad]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
 [^f00003]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
@@ -1459,11 +1459,11 @@ A Regulatory Impact Assessment of the costs and benefits which will result from 
 
 [^M_F_8fd59135-6327-4474-ff37-eb552562e23a]: Textual amendment: Words in reg. 2(1) inserted (1.10.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/3/a/i)
 
-[^key-5668c20b5b8528d360315a805701a24c]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/1999/3323) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/2/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5668c20b5b8528d360315a805701a24c]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/1999/3323) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/2/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d28c7e44da4aa2a422d4599cb141981f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/1999/3323) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/2/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d28c7e44da4aa2a422d4599cb141981f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/1999/3323) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/2/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a75446ea89083e1cd704ab99c0e75622]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(a)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/a/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a75446ea89083e1cd704ab99c0e75622]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(a)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/a/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: OJ L 10, 16.1.98, p.22.
 
@@ -1471,225 +1471,225 @@ A Regulatory Impact Assessment of the costs and benefits which will result from 
 
 [^f00006]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-c5d1094dac729fc5ae4646dc6a0ecbe6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/1) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/a/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c5d1094dac729fc5ae4646dc6a0ecbe6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/1) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/a/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3318cd2033d8f9a40552a06e32db782a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/a/iii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3318cd2033d8f9a40552a06e32db782a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/a/iii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_19936c5f-a54d-4c62-f8c0-0193af0657f1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/1) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [3(a)(iii)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/3/a/iii)
 
-[^key-d030ede8bd5185be21cda1ad4e6170cc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/1) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(a)(iv)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/a/iv) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d030ede8bd5185be21cda1ad4e6170cc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/1) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(a)(iv)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/a/iv) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-095fe533a096a1b472fe6ea9244f1541]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/1) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(a)(v)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/a/v) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-095fe533a096a1b472fe6ea9244f1541]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/1) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(a)(v)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/a/v) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_b23a4813-1dcc-47fc-d076-58f9a41494b3]: Textual amendment: Words in reg. 2(1) inserted (1.10.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [3(a)(iv)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/3/a/iv)
 
 [^f00008]: Footnote: O.J. L 254, 30.9.94, p.64.
 
-[^key-7b8a05688570e4d6fdb8acc86bbe391e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(a)(vi)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/a/vi) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b8a05688570e4d6fdb8acc86bbe391e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(a)(vi)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/a/vi) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-80dd672d92e76586c7c9d07cf3be3fb1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(a)(vii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/a/vii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-80dd672d92e76586c7c9d07cf3be3fb1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(a)(vii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/a/vii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-662f48f410b3924004a33d9d5685eae7]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/3) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-662f48f410b3924004a33d9d5685eae7]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/3) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5089ad85b153ad6beee381b7502d46e9]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/c) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5089ad85b153ad6beee381b7502d46e9]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/c) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_ab198bff-71d4-4058-ef15-b49a55553f04]: Textual amendment: Reg. 2(4A)-(4C) inserted (5.6.2011 for specified purposes, 1.10.2011 for remaining purposes) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/3/b)
 
-[^key-34d7fe6158147cda712cb93305c5123b]: Textual amendment: [Reg. 2(4B)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/4B/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(d)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/d/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34d7fe6158147cda712cb93305c5123b]: Textual amendment: [Reg. 2(4B)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/4B/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(d)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/d/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f859bd2243fed5ba280d1bf4126d28ec]: Textual amendment: Word in [reg. 2(4B)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/4B/b) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/d/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f859bd2243fed5ba280d1bf4126d28ec]: Textual amendment: Word in [reg. 2(4B)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/4B/b) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/d/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-684ca9f043d30e8c34da0f09be8c7d50]: Textual amendment: Word in [reg. 2(4B)(c)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/4B/c) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/d/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-684ca9f043d30e8c34da0f09be8c7d50]: Textual amendment: Word in [reg. 2(4B)(c)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/4B/c) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/d/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e5d82cd2ff493ebc9572cd9df8c17bb0]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/5) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(e)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/e) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5d82cd2ff493ebc9572cd9df8c17bb0]: Textual amendment: Words in [reg. 2(5)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/2/5) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 3(e)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/3/e) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d665244895744671b4dcee49adcb89b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1999/3323/regulation/3) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-5d665244895744671b4dcee49adcb89b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1999/3323/regulation/3) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-be7e668282ea37bc144081fd1dc49af7]: Textual amendment: Word in [reg. 3(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/3/4) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/4/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-be7e668282ea37bc144081fd1dc49af7]: Textual amendment: Word in [reg. 3(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/3/4) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/4/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7a0dbaa706dd71d68977facc2b83fe6b]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/3/4) substituted (1.5.2004) by [The EC Merger Control (Consequential Amendments) Regulations 2004 (S.I. 2004/1079)](https://www.legislation.gov.uk/uksi/2004/1079), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1079/regulation/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/4/2)
+[^c-7a0dbaa706dd71d68977facc2b83fe6b]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/3/4) substituted (1.5.2004) by [The EC Merger Control (Consequential Amendments) Regulations 2004 (S.I. 2004/1079)](https://www.legislation.gov.uk/uksi/2004/1079), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1079/regulation/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2004/1079/schedule/paragraph/4/2)
 
-[^key-02e00d1e5a4758b4bee20480a1125255]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/3/4) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/4/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-02e00d1e5a4758b4bee20480a1125255]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/3/4) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/4/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-864a8326dacbad34630306d3cda364e6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1999/3323/regulation/4) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-864a8326dacbad34630306d3cda364e6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1999/3323/regulation/4) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-3d72988755eaab495d667b998a44b6e7]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/4/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/5/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3d72988755eaab495d667b998a44b6e7]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/4/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/5/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6c07eeac975cf326aa8f8c20f33f92b2]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/4/2/a)[(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/4/2/b) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/5/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6c07eeac975cf326aa8f8c20f33f92b2]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/4/2/a)[(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/4/2/b) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/5/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c7976d89397500455943e7b4c27f6c5d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1999/3323/regulation/5) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-c7976d89397500455943e7b4c27f6c5d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1999/3323/regulation/5) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-ebc0830037fc76d59c59519138ccfe95]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/5/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 6(a)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/6/a/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ebc0830037fc76d59c59519138ccfe95]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/5/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 6(a)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/6/a/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dfa2318f5a05afd2da4b355dd86a9db6]: Textual amendment: [Reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/5/1/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 6(a)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/6/a/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dfa2318f5a05afd2da4b355dd86a9db6]: Textual amendment: [Reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/5/1/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 6(a)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/6/a/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-35ba76c70675f7b4bbe7efa93d97bd29]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/5/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 6(a)(iii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/6/a/iii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-35ba76c70675f7b4bbe7efa93d97bd29]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/5/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 6(a)(iii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/6/a/iii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6e2db1bc7545ac461cb762df1d102197]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/5/2) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/6/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6e2db1bc7545ac461cb762df1d102197]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/5/2) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/6/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b29c4913afc8082a126b527501106254]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/1999/3323/part/2) heading omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/7) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b29c4913afc8082a126b527501106254]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/1999/3323/part/2) heading omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/7) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-43f4c1b7c316ce77db1ee9739997ab01]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1999/3323/regulation/6) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-43f4c1b7c316ce77db1ee9739997ab01]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1999/3323/regulation/6) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
 [^M_F_ed7f3fa7-9bc1-4146-add2-030049ff6679]: Textual amendment: Words in reg. 6(4) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1088/regulation/4)
 
-[^key-f5c824af3ef982ce4ad990dc03015c5a]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/6/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/8/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f5c824af3ef982ce4ad990dc03015c5a]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/6/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/8/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b2e3cbc3925d08d1584f308865e2228f]: Textual amendment: [Reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/6/4/a)[(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/6/4/b) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/8/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b2e3cbc3925d08d1584f308865e2228f]: Textual amendment: [Reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/6/4/a)[(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/6/4/b) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/8/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee94f850a2ee4022ac8a368e22a2c4c5]: Textual amendment: [Regs. 7-10](https://www.legislation.gov.uk/uksi/1999/3323/regulation/7) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/9) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee94f850a2ee4022ac8a368e22a2c4c5]: Textual amendment: [Regs. 7-10](https://www.legislation.gov.uk/uksi/1999/3323/regulation/7) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/9) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d86827758183a2e93f14b451a2af859]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/1999/3323/part/3) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/10) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d86827758183a2e93f14b451a2af859]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/1999/3323/part/3) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/10) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aa2c833de07cf268e3b602505a7776d4]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/1999/3323/regulation/16) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/11) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa2c833de07cf268e3b602505a7776d4]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/1999/3323/regulation/16) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/11) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-928d7b65e388ecc72ee7cca50ed95be2]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1999/3323/regulation/17) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-928d7b65e388ecc72ee7cca50ed95be2]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1999/3323/regulation/17) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-ae442a13cc1123eff7f325c8e0897833]: Textual amendment: [Reg. 17(1)-(8)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/17/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/12) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ae442a13cc1123eff7f325c8e0897833]: Textual amendment: [Reg. 17(1)-(8)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/17/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/12) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cc844f513c3bfa510a01a64a4cf30620]: Textual amendment: [Reg. 17(9)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/17/9) inserted (1.10.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1/c), [9(f)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/9/f)
+[^c-cc844f513c3bfa510a01a64a4cf30620]: Textual amendment: [Reg. 17(9)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/17/9) inserted (1.10.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1/c), [9(f)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/9/f)
 
-[^key-d555b3709ec6417fd23a36cb7e2abca2]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1999/3323/regulation/18) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/13) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d555b3709ec6417fd23a36cb7e2abca2]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1999/3323/regulation/18) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/13) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-30b32dd20caa9494fb3fe3ff82a937c3]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/1999/3323/regulation/18A) inserted (5.6.2011 for specified purposes, 1.10.2011 for remaining purposes) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1/d), [10](https://www.legislation.gov.uk/uksi/2010/1088/regulation/10)
+[^c-30b32dd20caa9494fb3fe3ff82a937c3]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/1999/3323/regulation/18A) inserted (5.6.2011 for specified purposes, 1.10.2011 for remaining purposes) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)(d)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1/d), [10](https://www.legislation.gov.uk/uksi/2010/1088/regulation/10)
 
-[^key-a440dd04698e2183846deb4ed7f572c7]: Textual amendment: Words in [reg. 18A(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/18A/1/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/14) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a440dd04698e2183846deb4ed7f572c7]: Textual amendment: Words in [reg. 18A(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/18A/1/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/14) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e6ef4348781333b8c884d64472d31ef8]: Textual amendment: Words in [reg. 18A(1)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/18A/1/b) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/14) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e6ef4348781333b8c884d64472d31ef8]: Textual amendment: Words in [reg. 18A(1)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/18A/1/b) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/14) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1239819732f97cfc661073dccff4abcd]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1999/3323/regulation/19) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-1239819732f97cfc661073dccff4abcd]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1999/3323/regulation/19) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-eae7aa73aea52815c6a217b928f1e54f]: Textual amendment: [Regs. 19A-19F](https://www.legislation.gov.uk/uksi/1999/3323/regulation/19A) inserted (5.6.2011 for specified purposes, 1.10.2011 for remaining purposes) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)(e)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1/e), [11](https://www.legislation.gov.uk/uksi/2010/1088/regulation/11)
+[^c-eae7aa73aea52815c6a217b928f1e54f]: Textual amendment: [Regs. 19A-19F](https://www.legislation.gov.uk/uksi/1999/3323/regulation/19A) inserted (5.6.2011 for specified purposes, 1.10.2011 for remaining purposes) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)(e)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1/e), [11](https://www.legislation.gov.uk/uksi/2010/1088/regulation/11)
 
-[^key-c1bf525b42ed99dc078de1c11372a145]: Textual amendment: [Reg. 19B(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/19B/1/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/15) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1bf525b42ed99dc078de1c11372a145]: Textual amendment: [Reg. 19B(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/19B/1/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/15) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4f2672e243ad3345178f179789867e5e]: Textual amendment: Words in [reg. 19E(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/19E/1/a) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/16) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4f2672e243ad3345178f179789867e5e]: Textual amendment: Words in [reg. 19E(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/19E/1/a) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/16) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ab86d482db609f21ab25835edfdb013b]: Textual amendment: [Reg. 19F](https://www.legislation.gov.uk/uksi/1999/3323/regulation/19F) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/17) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab86d482db609f21ab25835edfdb013b]: Textual amendment: [Reg. 19F](https://www.legislation.gov.uk/uksi/1999/3323/regulation/19F) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/17) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bc00707e607e36384dc44e64f32be7f3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-bc00707e607e36384dc44e64f32be7f3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-810436d739b35f203fbf9a076ba5d903]: Textual amendment: [Reg. 20(A1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/A1) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-810436d739b35f203fbf9a076ba5d903]: Textual amendment: [Reg. 20(A1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/A1) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e64b5bc7a5fd240bed8abd70770b379a]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/1)[(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/4)[(5)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/5)[(10)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/10) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/12/a)
+[^c-e64b5bc7a5fd240bed8abd70770b379a]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/1)[(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/4)[(5)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/5)[(10)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/10) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/12/a)
 
-[^key-337d7f296476598b1ad266c2394554e8]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/1/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(b)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/b/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-337d7f296476598b1ad266c2394554e8]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/1/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(b)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/b/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dacc769d05ca5ca07b1e40d5e2961a83]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/1/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(b)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/b/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dacc769d05ca5ca07b1e40d5e2961a83]: Textual amendment: Words in [reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/1/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(b)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/b/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a15a8e0edd3bd68b45da7cffef08f247]: Textual amendment: Words in [reg. 20(1)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/1/b) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(b)(iii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/b/iii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a15a8e0edd3bd68b45da7cffef08f247]: Textual amendment: Words in [reg. 20(1)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/1/b) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(b)(iii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/b/iii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ce2685f1f32f1528d861212329a9d8be]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/4) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(c)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/c) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ce2685f1f32f1528d861212329a9d8be]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/4) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(c)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/c) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-664aa4a29903b2131268a472489fdba2]: Textual amendment: Words in [reg. 20(5)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/5/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/d/i/aa) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-664aa4a29903b2131268a472489fdba2]: Textual amendment: Words in [reg. 20(5)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/5/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/d/i/aa) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e9ad42160e1328b9ba0658e8136ab48]: Textual amendment: Words in [reg. 20(5)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/5/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/d/i/bb) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e9ad42160e1328b9ba0658e8136ab48]: Textual amendment: Words in [reg. 20(5)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/5/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/d/i/bb) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dbcbec80c3725e783a1964db511a8f35]: Textual amendment: Words in [reg. 20(5)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/5/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(d)(i)(cc)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/d/i/cc) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dbcbec80c3725e783a1964db511a8f35]: Textual amendment: Words in [reg. 20(5)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/5/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(d)(i)(cc)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/d/i/cc) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aa6af2501e439bb1e8953edecfdf397c]: Textual amendment: Words in [reg. 20(5)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/5/b) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(d)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/d/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa6af2501e439bb1e8953edecfdf397c]: Textual amendment: Words in [reg. 20(5)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/5/b) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 18(d)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/18/d/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d113804fc787b3939763db3c2c538772]: Textual amendment: [Reg. 20(7)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/7) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/12/b)
+[^c-d113804fc787b3939763db3c2c538772]: Textual amendment: [Reg. 20(7)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/7) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/12/b)
 
-[^key-5302d6f740f3960a03dc512674f6eab8]: Textual amendment: [Reg. 20(7A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/7A) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/12/c)
+[^c-5302d6f740f3960a03dc512674f6eab8]: Textual amendment: [Reg. 20(7A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/7A) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/12/c)
 
-[^key-3279a1b06a2afff00a28e77a9f15ac0f]: Textual amendment: Word in [reg. 20(8)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/8) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [12(d)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/12/d)
+[^c-3279a1b06a2afff00a28e77a9f15ac0f]: Textual amendment: Word in [reg. 20(8)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/20/8) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [12(d)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/12/d)
 
-[^key-3c2ed5b1b4644269f76c357dd075e802]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-3c2ed5b1b4644269f76c357dd075e802]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-bfa4881705ced08f82bb77180cf2c253]: Textual amendment: [Reg. 21(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/1) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/13/a)
+[^c-bfa4881705ced08f82bb77180cf2c253]: Textual amendment: [Reg. 21(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/1) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/13/a)
 
-[^key-bd237e4ec3140d2dc215ca6465d562be]: Textual amendment: Words in [reg. 21(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/1/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 19(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/19/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bd237e4ec3140d2dc215ca6465d562be]: Textual amendment: Words in [reg. 21(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/1/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 19(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/19/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-532a0aa15266e2df8eb942b3da746e2e]: Textual amendment: Words in [reg. 21(1)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/1/b) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 19(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/19/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-532a0aa15266e2df8eb942b3da746e2e]: Textual amendment: Words in [reg. 21(1)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/1/b) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 19(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/19/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f71f8830ba1778c9af2d41c028270c56]: Textual amendment: [Reg. 21(1A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/1A)[(1B)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/1B) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/13/b)
+[^c-f71f8830ba1778c9af2d41c028270c56]: Textual amendment: [Reg. 21(1A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/1A)[(1B)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/1B) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/13/b)
 
-[^key-86f7aad3c9dda0e04a299802fa3c40fc]: Textual amendment: Words in [reg. 21(1A)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/1A/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 19(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/19/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-86f7aad3c9dda0e04a299802fa3c40fc]: Textual amendment: Words in [reg. 21(1A)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/1A/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 19(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/19/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-44b5baf504e16287955bb09497af6f6f]: Textual amendment: Word in [reg. 21(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/4)[(6)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/6)[(9)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/9) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [13(c)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/13/c)
+[^c-44b5baf504e16287955bb09497af6f6f]: Textual amendment: Word in [reg. 21(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/4)[(6)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/6)[(9)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/9) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [13(c)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/13/c)
 
-[^key-cb78ac6b4797ab6c769f19a4a3a02e35]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/4) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 19(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/19/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb78ac6b4797ab6c769f19a4a3a02e35]: Textual amendment: Words in [reg. 21(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/4) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 19(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/19/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ea2173a9191073d18bddbaaa8b936692]: Textual amendment: Words in [reg. 21(6)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/6) substituted (5.6.2011) by virtue of [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [13(d)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/13/d)
+[^c-ea2173a9191073d18bddbaaa8b936692]: Textual amendment: Words in [reg. 21(6)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/6) substituted (5.6.2011) by virtue of [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [13(d)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/13/d)
 
-[^key-05473cde705bd38ccb0ddbe4bc004134]: Textual amendment: [Reg. 21(6A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/6A) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [13(e)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/13/e)
+[^c-05473cde705bd38ccb0ddbe4bc004134]: Textual amendment: [Reg. 21(6A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/6A) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [13(e)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/13/e)
 
-[^key-0b85fa8c5ad89c9176c26019c7a0911d]: Textual amendment: Word in [reg. 21(7)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/7) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [13(f)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/13/f)
+[^c-0b85fa8c5ad89c9176c26019c7a0911d]: Textual amendment: Word in [reg. 21(7)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21/7) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [13(f)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/13/f)
 
-[^key-eeb2c2bc3c782ddb34a7e6d6cd5e0183]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21A) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2010/1088/regulation/14)
+[^c-eeb2c2bc3c782ddb34a7e6d6cd5e0183]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21A) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2010/1088/regulation/14)
 
-[^key-663ed7ccb4642f9611e2d94135ac9aa4]: Textual amendment: [Reg. 21A(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21A/1/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 20(a)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/20/a/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-663ed7ccb4642f9611e2d94135ac9aa4]: Textual amendment: [Reg. 21A(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21A/1/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 20(a)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/20/a/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6a663d55ea6d616ec3db42123f9041e8]: Textual amendment: Words in [reg. 21A(1)(c)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21A/1/c) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 20(a)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/20/a/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6a663d55ea6d616ec3db42123f9041e8]: Textual amendment: Words in [reg. 21A(1)(c)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21A/1/c) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 20(a)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/20/a/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3de26e6ff16ddcb72bcd31a7d86426de]: Textual amendment: Word in [reg. 21A(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21A/3) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 20(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/20/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3de26e6ff16ddcb72bcd31a7d86426de]: Textual amendment: Word in [reg. 21A(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21A/3) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 20(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/20/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cc72d963c4419dfa65869a88c94f3a13]: Textual amendment: [Reg. 21A(10)(c)(i)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21A/10/c/i) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 20(c)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/20/c/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc72d963c4419dfa65869a88c94f3a13]: Textual amendment: [Reg. 21A(10)(c)(i)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21A/10/c/i) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 20(c)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/20/c/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3ea78c75caa430bba82803fee33f8dd8]: Textual amendment: Words in [reg. 21A(10)(c)(iii)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21A/10/c/iii) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 20(c)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/20/c/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ea78c75caa430bba82803fee33f8dd8]: Textual amendment: Words in [reg. 21A(10)(c)(iii)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/21A/10/c/iii) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 20(c)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/20/c/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eed3a31aba56f049fc28ecd8ac3fac91]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1999/3323/regulation/22) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-eed3a31aba56f049fc28ecd8ac3fac91]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1999/3323/regulation/22) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-4b4cfdef8e3e492468fcbf3315096645]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/22/1)[(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/22/4) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/15/a)
+[^c-4b4cfdef8e3e492468fcbf3315096645]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/22/1)[(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/22/4) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/15/a)
 
-[^key-e29c9c8d0ff6a031279201abf7bba8fd]: Textual amendment: Word in [reg. 22(2)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/22/2) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/15/b)
+[^c-e29c9c8d0ff6a031279201abf7bba8fd]: Textual amendment: Word in [reg. 22(2)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/22/2) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/15/b)
 
-[^key-7ddde928dc281386f53ee3e6f476346c]: Textual amendment: Word in [reg. 22(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/22/4) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [15(c)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/15/c)
+[^c-7ddde928dc281386f53ee3e6f476346c]: Textual amendment: Word in [reg. 22(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/22/4) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [15(c)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/15/c)
 
-[^key-bc6b4b38dc34d3c31ab5f308c0ccabc3]: Textual amendment: [Reg. 22(7)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/22/7) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [15(d)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/15/d)
+[^c-bc6b4b38dc34d3c31ab5f308c0ccabc3]: Textual amendment: [Reg. 22(7)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/22/7) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [15(d)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/15/d)
 
-[^key-b09d2d6dad4a9b2e92ebf7026344b0e8]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1999/3323/regulation/23) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-b09d2d6dad4a9b2e92ebf7026344b0e8]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1999/3323/regulation/23) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
 [^f00010]: Footnote: Section 43A of the 1996 Act was inserted by the Public Interest Disclosure Act [1998 (c. 23)](https://www.legislation.gov.uk/ukpga/1998/23), section 1.
 
 [^f00011]: Footnote: Article 67A was inserted by the [Public Interest Disclosure (Northern Ireland) Order (S.I. 1998 No. 1763 (N.I. 17)](https://www.legislation.gov.uk/nisi/1998/1763).
 
-[^key-071d0d2094c6113f3c335cd9e073b20d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1999/3323/regulation/24) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-071d0d2094c6113f3c335cd9e073b20d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1999/3323/regulation/24) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-10103e1272c0fd472ad6229754ad1e8b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1999/3323/regulation/25) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-10103e1272c0fd472ad6229754ad1e8b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1999/3323/regulation/25) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-14818077836b3b6245423a97a888e98a]: Textual amendment: [Reg. 25(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/25/1/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 21(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/21/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14818077836b3b6245423a97a888e98a]: Textual amendment: [Reg. 25(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/25/1/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 21(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/21/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d755d78bc43c16d79ab0fedd1c17ed96]: Textual amendment: [Reg. 25(1A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/25/1A) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2010/1088/regulation/16)
+[^c-d755d78bc43c16d79ab0fedd1c17ed96]: Textual amendment: [Reg. 25(1A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/25/1A) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2010/1088/regulation/16)
 
-[^key-c8e2482489627747d652dd96715d6739]: Textual amendment: [Reg. 25(1A)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/25/1A/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 21(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/21/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8e2482489627747d652dd96715d6739]: Textual amendment: [Reg. 25(1A)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/25/1A/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 21(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/21/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c5f60c4dbfe10a378ae9663d6f553714]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1999/3323/regulation/26) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-c5f60c4dbfe10a378ae9663d6f553714]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1999/3323/regulation/26) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-f3269e64e2c4c1551d07fa4a19a9144e]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-f3269e64e2c4c1551d07fa4a19a9144e]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-2589e90a54ecefb8c69aaf3cdf5381ae]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27) heading substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/1/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-2589e90a54ecefb8c69aaf3cdf5381ae]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27) heading substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/1/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-4e2eee28325a9e585f48941c49ff0ae7]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27/1) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(1)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/1/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-4e2eee28325a9e585f48941c49ff0ae7]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27/1) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(1)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/1/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-defd76b5faadc1f8d824b70b8aece8a8]: Textual amendment: Word in [reg. 27(2)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27/2/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(1)(c)(i)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/1/c/i); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-defd76b5faadc1f8d824b70b8aece8a8]: Textual amendment: Word in [reg. 27(2)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27/2/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(1)(c)(i)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/1/c/i); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-52b4b07f4eb68ae3eabe7ad0fa2ad7d0]: Textual amendment: Word in [reg. 27(2)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27/2/b) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(1)(c)(ii)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/1/c/ii); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-52b4b07f4eb68ae3eabe7ad0fa2ad7d0]: Textual amendment: Word in [reg. 27(2)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27/2/b) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(1)(c)(ii)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/1/c/ii); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-d276433d0cb40ed2fa42180bddaab230]: Textual amendment: [Reg. 27(2A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27/2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/7)
+[^c-d276433d0cb40ed2fa42180bddaab230]: Textual amendment: [Reg. 27(2A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27/2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/7)
 
-[^key-8b2458a99696da6f2741150bdb37244c]: Textual amendment: [Reg. 27(2B)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27/2B) omitted (1.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(1)(d)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/1/d); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-8b2458a99696da6f2741150bdb37244c]: Textual amendment: [Reg. 27(2B)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27/2B) omitted (1.10.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(1)(d)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/1/d); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-40a5a5e340a48e6b0c42b9790ac1f0f7]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/8)
+[^c-40a5a5e340a48e6b0c42b9790ac1f0f7]: Textual amendment: [Reg. 27A](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/8)
 
-[^key-b82a3849de4ef13a59ec5589e9e25c98]: Textual amendment: Words in [reg. 27A](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27A) heading inserted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/2); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-b82a3849de4ef13a59ec5589e9e25c98]: Textual amendment: Words in [reg. 27A](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27A) heading inserted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/2); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-da92eb554c1f6c2d92cc0e89259aec8c]: Textual amendment: [Reg. 27AA](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27AA) inserted (N.I.) (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/3); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-da92eb554c1f6c2d92cc0e89259aec8c]: Textual amendment: [Reg. 27AA](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27AA) inserted (N.I.) (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(3)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/3); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-e065271b568127d94e6e1f5f415d3d32]: Textual amendment: [Reg. 27B](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27B) inserted (N.I.) (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 13](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/13)
+[^c-e065271b568127d94e6e1f5f415d3d32]: Textual amendment: [Reg. 27B](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27B) inserted (N.I.) (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 13](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/13)
 
-[^key-49697d583304229fd9337aff1fede45d]: Textual amendment: Word in [reg. 27B(2)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27B/2) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(4)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/4/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-49697d583304229fd9337aff1fede45d]: Textual amendment: Word in [reg. 27B(2)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27B/2) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(4)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/4/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-a6112d9f0c1accc1989b8b6337e71953]: Textual amendment: Word in [reg. 27B(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27B/3) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(4)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/4/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-a6112d9f0c1accc1989b8b6337e71953]: Textual amendment: Word in [reg. 27B(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27B/3) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(4)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/4/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-65f273627c0ff4b5887ac2c8f77bcba9]: Textual amendment: Word in [reg. 27B(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27B/4) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(4)(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/4/c); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-65f273627c0ff4b5887ac2c8f77bcba9]: Textual amendment: Word in [reg. 27B(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/27B/4) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 9(4)(c)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/9/4/c); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-2c89a4b050547353f099d1e308d2c578]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1999/3323/regulation/28) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-2c89a4b050547353f099d1e308d2c578]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1999/3323/regulation/28) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-5d3a297d00fb00fe928e90fdddc09372]: Textual amendment: Words in [reg. 28(6)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/28/6/b) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2010/1088/regulation/17)
+[^c-5d3a297d00fb00fe928e90fdddc09372]: Textual amendment: Words in [reg. 28(6)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/28/6/b) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2010/1088/regulation/17)
 
-[^key-e1cb3d7d23edc573d3116e91ffc6002d]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1999/3323/regulation/29) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-e1cb3d7d23edc573d3116e91ffc6002d]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1999/3323/regulation/29) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
 [^f00012]: Footnote: Section 105 has been amended on a number of occasions to specify additional circumstances in which an employee dismissed by reason of redundancy is to be regarded as unfairly dismissed.
 
@@ -1699,7 +1699,7 @@ A Regulatory Impact Assessment of the costs and benefits which will result from 
 
 [^f00015]: Footnote: Section 109(2) has been amended on a number of occasions to specify additional cases where the upper age limit does not apply.
 
-[^key-36041661d46bb2cace4e0285fe6fbbb5]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1999/3323/regulation/30) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-36041661d46bb2cace4e0285fe6fbbb5]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1999/3323/regulation/30) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
 [^f00016]: Footnote: Article 137 has been amended on a number of occasions to specify additional circumstances in which an employee dismissed by reason of redundancy is to be regarded as unfairly dismissed.
 
@@ -1709,180 +1709,180 @@ A Regulatory Impact Assessment of the costs and benefits which will result from 
 
 [^f00019]: Footnote: Article 141(2) has been amended on a number of occasions to specify additional cases where the upper age limit does not apply.
 
-[^key-c218e31c8e16ef4c63a681d82a488535]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1999/3323/regulation/31) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-c218e31c8e16ef4c63a681d82a488535]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1999/3323/regulation/31) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-4bcaad21e18086922c18aeb4a4d17a22]: Textual amendment: Words in [reg. 31(6)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/31/6/b) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2010/1088/regulation/18)
+[^c-4bcaad21e18086922c18aeb4a4d17a22]: Textual amendment: Words in [reg. 31(6)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/31/6/b) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2010/1088/regulation/18)
 
-[^key-21209b3ad0e7e753300e9bd6b7586df6]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1999/3323/regulation/32) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-21209b3ad0e7e753300e9bd6b7586df6]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1999/3323/regulation/32) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-82693fdd69c1c6f82fbef4b8f9af3647]: Modification: [Reg. 32](https://www.legislation.gov.uk/uksi/1999/3323/regulation/32) restricted (E.W.S.) (1.10.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 32](https://www.legislation.gov.uk/ukpga/2002/22/section/32), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/22/schedule/4); [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2)
+[^c-82693fdd69c1c6f82fbef4b8f9af3647]: Modification: [Reg. 32](https://www.legislation.gov.uk/uksi/1999/3323/regulation/32) restricted (E.W.S.) (1.10.2004) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 32](https://www.legislation.gov.uk/ukpga/2002/22/section/32), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/22/schedule/4); [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2)
 
 [^f00020]: Footnote: Sections 48 and 49 were amended respectively by sections 1(2)(b) and 1(2)(a) of the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8); there have also been amendments to the sections that are not relevant to these Regulations.
 
 [^f00021]: Footnote: There have been amendments to Articles 71 and 72 that are not relevant to these Regulations.
 
-[^key-2578005af89abdaea8c114205d923ccd]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1999/3323/regulation/33) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-2578005af89abdaea8c114205d923ccd]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1999/3323/regulation/33) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
 [^f00022]: Footnote: [1996 c. 17](https://www.legislation.gov.uk/ukpga/1996/17). Section 18(1) has been amended on a number of occasions to specify additional proceedings and claims to which the section applies.
 
 [^f00023]: Footnote: S.I. [1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921). Article 20(1) has been amended on a number of occasions to specify additional proceedings and claims to which the Article applies.
 
-[^key-7a8783edc60ebc33445e4ace20158ce3]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1999/3323/regulation/34) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-7a8783edc60ebc33445e4ace20158ce3]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1999/3323/regulation/34) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
 [^f00024]: Footnote: Section 21(1) has been amended on a number of occasions to specify additional proceedings and claims to which the section applies. Paragraph (i) is inserted by regulation 35(3) of these Regulations from the date they come into force.
 
-[^key-a2675e330594f7250dabb6eb8e4c7fba]: Textual amendment: [Reg. 34(2)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/34/2) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 22(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/22/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a2675e330594f7250dabb6eb8e4c7fba]: Textual amendment: [Reg. 34(2)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/34/2) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 22(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/22/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-677dfd1ba673c4927e458be376ce4baf]: Textual amendment: Words in [reg. 34(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/34/3) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 22(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/22/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-677dfd1ba673c4927e458be376ce4baf]: Textual amendment: Words in [reg. 34(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/34/3) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 22(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/22/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8df211007960b744243e5c8f34ba85be]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1999/3323/regulation/35) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-8df211007960b744243e5c8f34ba85be]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1999/3323/regulation/35) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
 [^f00025]: Footnote: Section 30(2) was amended by the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), section 1(2)(a).
 
-[^key-2640e033d2cfab31ddf3fdf647fbb368]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1999/3323/regulation/36) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-2640e033d2cfab31ddf3fdf647fbb368]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1999/3323/regulation/36) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-a1d0f09be12d5d7e4d140fd4e4e5190b]: Textual amendment: [Reg. 36(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/36/1) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2010/1088/regulation/19)
+[^c-a1d0f09be12d5d7e4d140fd4e4e5190b]: Textual amendment: [Reg. 36(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/36/1) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2010/1088/regulation/19)
 
-[^key-4c114fe8927d7b2c595da306243304db]: Textual amendment: Word in [reg. 36(2)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/36/2) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 23(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/23/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c114fe8927d7b2c595da306243304db]: Textual amendment: Word in [reg. 36(2)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/36/2) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 23(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/23/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c57dbeb6aa3b007138e962aa1b7754e8]: Textual amendment: [Reg. 36(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/36/3) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 23(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/23/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c57dbeb6aa3b007138e962aa1b7754e8]: Textual amendment: [Reg. 36(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/36/3) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 23(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/23/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-311de79257c454d96568418faf5c67dd]: Textual amendment: Words in [reg. 36(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/36/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 23(c)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/23/c/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-311de79257c454d96568418faf5c67dd]: Textual amendment: Words in [reg. 36(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/36/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 23(c)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/23/c/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0b63ccfd98187dac99b65fbd94afb0ca]: Textual amendment: Words in [reg. 36(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/36/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 23(c)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/23/c/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b63ccfd98187dac99b65fbd94afb0ca]: Textual amendment: Words in [reg. 36(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/36/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 23(c)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/23/c/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a84e2623d40185522b01e6bbbd9b3a6]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1999/3323/regulation/37) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-4a84e2623d40185522b01e6bbbd9b3a6]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1999/3323/regulation/37) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-a60c42983ad2dd280f1ba4fd0dbea300]: Textual amendment: Words in [reg. 37(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/37/4) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2010/1088/regulation/20)
+[^c-a60c42983ad2dd280f1ba4fd0dbea300]: Textual amendment: Words in [reg. 37(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/37/4) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2010/1088/regulation/20)
 
-[^key-72ca3e587f0567bcfed6dc8426956d88]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1999/3323/regulation/38) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-72ca3e587f0567bcfed6dc8426956d88]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1999/3323/regulation/38) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-b50474e26c4a0ba41e0fbf9ac7776cd1]: Textual amendment: [Reg. 38(5)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/38/5) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 24(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/24/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b50474e26c4a0ba41e0fbf9ac7776cd1]: Textual amendment: [Reg. 38(5)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/38/5) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 24(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/24/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8482b53d2805495c8eb8e669fc20335a]: Textual amendment: Words in [reg. 38(6)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/38/6) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 24(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/24/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8482b53d2805495c8eb8e669fc20335a]: Textual amendment: Words in [reg. 38(6)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/38/6) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 24(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/24/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4951920d6f7f176e5bf149921194f227]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1999/3323/regulation/39) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-4951920d6f7f176e5bf149921194f227]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1999/3323/regulation/39) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-efb45561d1cd1c87d8260b1fd2b61e87]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/39/1)[(2)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/39/2)[(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/39/3) omitted (5.6.2011) by virtue of [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2010/1088/regulation/21)
+[^c-efb45561d1cd1c87d8260b1fd2b61e87]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/39/1)[(2)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/39/2)[(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/39/3) omitted (5.6.2011) by virtue of [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2010/1088/regulation/21)
 
-[^key-3e58867b26223deb3545f5b47948fc07]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1999/3323/regulation/40) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-3e58867b26223deb3545f5b47948fc07]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1999/3323/regulation/40) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-a8736bc26c4e29dc51796a970a5607f2]: Textual amendment: Words in [reg. 40(1)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/40/1/b) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2010/1088/regulation/22)
+[^c-a8736bc26c4e29dc51796a970a5607f2]: Textual amendment: Words in [reg. 40(1)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/40/1/b) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2010/1088/regulation/22)
 
-[^key-3723632d4712522a76588170d902dab4]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-3723632d4712522a76588170d902dab4]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-7efcd0cb53d173f98af421ae052302b1]: Textual amendment: Words in [reg. 41(2)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/2/a) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/9)
+[^c-7efcd0cb53d173f98af421ae052302b1]: Textual amendment: Words in [reg. 41(2)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/2/a) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/9)
 
-[^key-789139e5dc4cdc4050c73fa19639f418]: Textual amendment: Words in [reg. 41(2)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/2/b) substituted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 14](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/14)
+[^c-789139e5dc4cdc4050c73fa19639f418]: Textual amendment: Words in [reg. 41(2)(b)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/2/b) substituted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 14](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/14)
 
-[^key-16523e9099b6e05ad808bae80e42f7c8]: Textual amendment: Words in [reg. 41(3)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/3/a) substituted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/20)
+[^c-16523e9099b6e05ad808bae80e42f7c8]: Textual amendment: Words in [reg. 41(3)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/3/a) substituted (6.4.2014) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2014 (S.I. 2014/431)](https://www.legislation.gov.uk/uksi/2014/431), [art. 1](https://www.legislation.gov.uk/uksi/2014/431/article/1), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2014/431/schedule/paragraph/20)
 
-[^key-9633c17c8443491e389de4328348d7a3]: Textual amendment: Word in [reg. 41(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/3) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/3/a)
+[^c-9633c17c8443491e389de4328348d7a3]: Textual amendment: Word in [reg. 41(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/3) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/3/a)
 
-[^key-d1c4c9d2d62054b8cd96b98f03d715dc]: Textual amendment: Word in [reg. 41(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/4) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/3/a)
+[^c-d1c4c9d2d62054b8cd96b98f03d715dc]: Textual amendment: Word in [reg. 41(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/4) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/3/a)
 
-[^key-5304b8dee83bf03fa6a4b430c41635c5]: Textual amendment: Words in [reg. 41(7)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/7/a) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [23](https://www.legislation.gov.uk/uksi/2009/3348/article/23), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3348/schedule/2)
+[^c-5304b8dee83bf03fa6a4b430c41635c5]: Textual amendment: Words in [reg. 41(7)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/7/a) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [23](https://www.legislation.gov.uk/uksi/2009/3348/article/23), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3348/schedule/2)
 
-[^key-7f88c6be5a3c9811b02efee2f7bb212c]: Textual amendment: [Reg. 41(7A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/7A) inserted (1.10.2004) by [The Transnational Information and Consultation of Employees Regulations 1999 (Amendment) Regulations 2004 (S.I. 2004/2518)](https://www.legislation.gov.uk/uksi/2004/2518), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2518/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2004/2518/regulation/2)
+[^c-7f88c6be5a3c9811b02efee2f7bb212c]: Textual amendment: [Reg. 41(7A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/7A) inserted (1.10.2004) by [The Transnational Information and Consultation of Employees Regulations 1999 (Amendment) Regulations 2004 (S.I. 2004/2518)](https://www.legislation.gov.uk/uksi/2004/2518), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2518/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2004/2518/regulation/2)
 
-[^key-58ec12ecbb285e810fdf99d7a41fe0f0]: Textual amendment: Words in [reg. 41(7A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/7A) substituted (16.12.2009) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/2), [22](https://www.legislation.gov.uk/uksi/2009/3348/article/22), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3348/schedule/1)
+[^c-58ec12ecbb285e810fdf99d7a41fe0f0]: Textual amendment: Words in [reg. 41(7A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/7A) substituted (16.12.2009) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/2), [22](https://www.legislation.gov.uk/uksi/2009/3348/article/22), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3348/schedule/1)
 
-[^key-7efc2de7af4bdb983a124f5d99f6b665]: Textual amendment: [Reg. 41(9)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/9) inserted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/3/b)
+[^c-7efc2de7af4bdb983a124f5d99f6b665]: Textual amendment: [Reg. 41(9)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/41/9) inserted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/3/b)
 
-[^key-41f5aee6de4a8c18b6994b57c7bfb04f]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1999/3323/regulation/42) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-41f5aee6de4a8c18b6994b57c7bfb04f]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1999/3323/regulation/42) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-ea731d9d80645f109c2fc739a477aba2]: Textual amendment: Words in [reg. 42(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/42/1/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 25(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/25/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea731d9d80645f109c2fc739a477aba2]: Textual amendment: Words in [reg. 42(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/42/1/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 25(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/25/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1769ce98577401fb37c866c948f0b401]: Textual amendment: Words in [reg. 42(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/42/3) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 25(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/25/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1769ce98577401fb37c866c948f0b401]: Textual amendment: Words in [reg. 42(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/42/3) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 25(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/25/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7411d8ed97b61e8a53a44247517eaa51]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1999/3323/regulation/43) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-7411d8ed97b61e8a53a44247517eaa51]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1999/3323/regulation/43) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-f736ba5a39538b305dbd71e733bcce04]: Textual amendment: Words in [reg. 43(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/43/1/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 26(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/26/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f736ba5a39538b305dbd71e733bcce04]: Textual amendment: Words in [reg. 43(1)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/43/1/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 26(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/26/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e81996b1a737f2e73e531b884d7d5604]: Textual amendment: Words in [reg. 43(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/43/3) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 26(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/26/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e81996b1a737f2e73e531b884d7d5604]: Textual amendment: Words in [reg. 43(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/43/3) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 26(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/26/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3bd2e702497f961cdc4c1edd43cca2c0]: Textual amendment: [Regs. 44-45A](https://www.legislation.gov.uk/uksi/1999/3323/regulation/44) substituted for regs. 44, 45 (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2010/1088/regulation/23)
+[^c-3bd2e702497f961cdc4c1edd43cca2c0]: Textual amendment: [Regs. 44-45A](https://www.legislation.gov.uk/uksi/1999/3323/regulation/44) substituted for regs. 44, 45 (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2010/1088/regulation/23)
 
-[^key-c074504fa7c57022d02d7f869bdc318d]: Textual amendment: Words in [reg. 44(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/44/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 27(a)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/27/a/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c074504fa7c57022d02d7f869bdc318d]: Textual amendment: Words in [reg. 44(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/44/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 27(a)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/27/a/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9d059a148bf480ef06e5893644be2160]: Textual amendment: Words in [reg. 44(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/44/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 27(a)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/27/a/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d059a148bf480ef06e5893644be2160]: Textual amendment: Words in [reg. 44(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/44/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 27(a)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/27/a/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-88aeb74235fb8d2d235910c9e5269f83]: Textual amendment: [Reg. 44(4)-(7)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/44/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 27(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/27/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-88aeb74235fb8d2d235910c9e5269f83]: Textual amendment: [Reg. 44(4)-(7)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/44/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 27(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/27/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bdea1d9d97999db8f3f540aed95b8760]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 28(a)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/28/a/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bdea1d9d97999db8f3f540aed95b8760]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 28(a)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/28/a/i) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1ba4613854dc724d26459d9f28f0048d]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 28(a)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/28/a/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ba4613854dc724d26459d9f28f0048d]: Textual amendment: Words in [reg. 45(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 28(a)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/28/a/ii) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4b88aa14f83bba06ebd8b2ed15368a9a]: Textual amendment: [Reg. 45(4)-(7)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 28(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/28/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b88aa14f83bba06ebd8b2ed15368a9a]: Textual amendment: [Reg. 45(4)-(7)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 28(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/28/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-901befa8676e66ed3c89272e3777ce8f]: Textual amendment: [Reg. 45A(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45A/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 29(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/29/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-901befa8676e66ed3c89272e3777ce8f]: Textual amendment: [Reg. 45A(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45A/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 29(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/29/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-600e0f41ddbae2edf018982d81ef4904]: Textual amendment: Words in [reg. 45A(2)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45A/2/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 29(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/29/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-600e0f41ddbae2edf018982d81ef4904]: Textual amendment: Words in [reg. 45A(2)(a)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45A/2/a) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 29(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/29/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-327ae4bf6693d3c8e16d515854466e01]: Textual amendment: Word in [reg. 45A(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45A/3) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 29(c)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/29/c) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-327ae4bf6693d3c8e16d515854466e01]: Textual amendment: Word in [reg. 45A(3)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45A/3) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 29(c)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/29/c) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6c0386eb7ac9d161eeaba6b9d06f07e6]: Textual amendment: [Reg. 45A(3A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45A/3A) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 29(d)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/29/d) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6c0386eb7ac9d161eeaba6b9d06f07e6]: Textual amendment: [Reg. 45A(3A)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45A/3A) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 29(d)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/29/d) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6dd6d7e2f56702e5bfb845027b6fd861]: Textual amendment: [Reg. 45A(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45A/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 29(e)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/29/e) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6dd6d7e2f56702e5bfb845027b6fd861]: Textual amendment: [Reg. 45A(4)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45A/4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 29(e)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/29/e) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-19e609a71f12ced555b9d7c831e47533]: Textual amendment: [Reg. 45A(5)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45A/5) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 29(f)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/29/f) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-19e609a71f12ced555b9d7c831e47533]: Textual amendment: [Reg. 45A(5)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/45A/5) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 29(f)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/29/f) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0fd9c9e00519a78b40d570fa7242467d]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46) substituted (6.2.2018) by [The Seafarers (Transnational Information and Consultation, Collective Redundancies and Insolvency Miscellaneous Amendments) Regulations 2018 (S.I. 2018/26)](https://www.legislation.gov.uk/uksi/2018/26), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/26/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/26/regulation/2/2)
+[^c-0fd9c9e00519a78b40d570fa7242467d]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46) substituted (6.2.2018) by [The Seafarers (Transnational Information and Consultation, Collective Redundancies and Insolvency Miscellaneous Amendments) Regulations 2018 (S.I. 2018/26)](https://www.legislation.gov.uk/uksi/2018/26), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/26/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/26/regulation/2/2)
 
-[^key-f835fd8d51df014acf5b332e0e2e1e25]: Textual amendment: Words in [reg. 46(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 30(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/30/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f835fd8d51df014acf5b332e0e2e1e25]: Textual amendment: Words in [reg. 46(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 30(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/30/a) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b196818baa866e3508fa349700d98dad]: Textual amendment: Words in [reg. 46(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 30(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/30/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b196818baa866e3508fa349700d98dad]: Textual amendment: Words in [reg. 46(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46/1) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 30(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/30/b) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ca70153fc93e093e9c64abcca771d863]: Textual amendment: Words in [reg. 46(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46/1) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 30(c)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/30/c) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ca70153fc93e093e9c64abcca771d863]: Textual amendment: Words in [reg. 46(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46/1) inserted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 30(c)](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/30/c) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_3d05c0b6-cb42-4abe-b0af-f2999f884e57]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-bf0aabd00fac119244815d8be3c545a4]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46A) substituted (E.W.S.) (1.10.2009) by [The European Public Limited-Liability Company (Employee Involvement) (Great Britain) Regulations 2009 (S.I. 2009/2401)](https://www.legislation.gov.uk/uksi/2009/2401), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2401/regulation/1/2), [40](https://www.legislation.gov.uk/uksi/2009/2401/regulation/40) (with [regs. 4](https://www.legislation.gov.uk/uksi/2009/2401/regulation/4), [41](https://www.legislation.gov.uk/uksi/2009/2401/regulation/41))
+[^c-bf0aabd00fac119244815d8be3c545a4]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46A) substituted (E.W.S.) (1.10.2009) by [The European Public Limited-Liability Company (Employee Involvement) (Great Britain) Regulations 2009 (S.I. 2009/2401)](https://www.legislation.gov.uk/uksi/2009/2401), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2401/regulation/1/2), [40](https://www.legislation.gov.uk/uksi/2009/2401/regulation/40) (with [regs. 4](https://www.legislation.gov.uk/uksi/2009/2401/regulation/4), [41](https://www.legislation.gov.uk/uksi/2009/2401/regulation/41))
 
-[^key-fc23584bf0259afaa48ab36f30972c8c]: Textual amendment: Words in [reg. 46A(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46A/1) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 3 para. 19(a)](https://www.legislation.gov.uk/uksi/2019/685/schedule/3/paragraph/19/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc23584bf0259afaa48ab36f30972c8c]: Textual amendment: Words in [reg. 46A(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46A/1) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 3 para. 19(a)](https://www.legislation.gov.uk/uksi/2019/685/schedule/3/paragraph/19/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9654bee584900bb0777d9a643c2200f6]: Textual amendment: [Reg. 46A(2)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46A/2) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 3 para. 19(b)](https://www.legislation.gov.uk/uksi/2019/685/schedule/3/paragraph/19/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9654bee584900bb0777d9a643c2200f6]: Textual amendment: [Reg. 46A(2)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46A/2) substituted (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 3 para. 19(b)](https://www.legislation.gov.uk/uksi/2019/685/schedule/3/paragraph/19/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_86b226bc-54e2-40fa-d575-39a93e9b8d55]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-949ac3924d61c68ed74b69d13f5dec0c]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46A) inserted (N.I.) (8.10.2004) by [The European Public Limited-Liability Company Regulations (Northern Ireland) 2004 (S.R. 2004/417)](https://www.legislation.gov.uk/nisr/2004/417), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/417/regulation/1/2), [51](https://www.legislation.gov.uk/nisr/2004/417/regulation/51)
+[^c-949ac3924d61c68ed74b69d13f5dec0c]: Textual amendment: [Reg. 46A](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46A) inserted (N.I.) (8.10.2004) by [The European Public Limited-Liability Company Regulations (Northern Ireland) 2004 (S.R. 2004/417)](https://www.legislation.gov.uk/nisr/2004/417), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2004/417/regulation/1/2), [51](https://www.legislation.gov.uk/nisr/2004/417/regulation/51)
 
-[^key-fbbb02728cad06c7b371a2e067adc721]: Textual amendment: [Reg. 46B](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46B) inserted (18.8.2006) by [The European Cooperative Society (Involvement of Employees) Regulations 2006 (S.I. 2006/2059)](https://www.legislation.gov.uk/uksi/2006/2059), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2059/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2006/2059/regulation/42)
+[^c-fbbb02728cad06c7b371a2e067adc721]: Textual amendment: [Reg. 46B](https://www.legislation.gov.uk/uksi/1999/3323/regulation/46B) inserted (18.8.2006) by [The European Cooperative Society (Involvement of Employees) Regulations 2006 (S.I. 2006/2059)](https://www.legislation.gov.uk/uksi/2006/2059), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2059/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2006/2059/regulation/42)
 
-[^key-0a8baf88d0b3a5611cafdb1c5200d60e]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/1999/3323/regulation/47) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/31) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0a8baf88d0b3a5611cafdb1c5200d60e]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/1999/3323/regulation/47) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/31) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-24abfe2bb3aa650dfabd7764d4ce26fe]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1999/3323/regulation/48) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-24abfe2bb3aa650dfabd7764d4ce26fe]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1999/3323/regulation/48) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-71f72029b28035edec2a801c36c07f7d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/1) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-71f72029b28035edec2a801c36c07f7d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/1) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-ddeea560dc9f86def7937420988d1497]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/2) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2010/1088/regulation/24)
+[^c-ddeea560dc9f86def7937420988d1497]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/2) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2010/1088/regulation/24)
 
-[^key-ececea3a1d7da199fc3450674a79fe35]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/3) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-ececea3a1d7da199fc3450674a79fe35]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/3) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-68742d5d27c923ded2ae87ebfa8a7b8f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/4) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-68742d5d27c923ded2ae87ebfa8a7b8f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/4) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-11617715ec43c1787f70edefd4392503]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/5) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-11617715ec43c1787f70edefd4392503]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/5) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-55f8ed4ae8a371cf013528093026630a]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/6) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-55f8ed4ae8a371cf013528093026630a]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/6) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-b8e57145e64d6c8c22160ed9e83cbd6c]: Textual amendment: [Sch. para. 6(3)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/6/3) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2010/1088/regulation/25)
+[^c-b8e57145e64d6c8c22160ed9e83cbd6c]: Textual amendment: [Sch. para. 6(3)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/6/3) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2010/1088/regulation/25)
 
-[^key-969cba5529d127eb0f7dbf5bd46dc732]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/7) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-969cba5529d127eb0f7dbf5bd46dc732]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/7) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-7925c6e1826ba2bc6c52e3fb19b755ba]: Textual amendment: [Sch. para. 7(3)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/7/3)[(4)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/7/4) substituted for Sch. para. 7(3) (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2010/1088/regulation/26)
+[^c-7925c6e1826ba2bc6c52e3fb19b755ba]: Textual amendment: [Sch. para. 7(3)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/7/3)[(4)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/7/4) substituted for Sch. para. 7(3) (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2010/1088/regulation/26)
 
-[^key-de3c7a87353adc47bb4e03a6cac220a8]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/8) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-de3c7a87353adc47bb4e03a6cac220a8]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/8) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-1b3cda6c0a3676268d932d9d3c524151]: Textual amendment: Words in [Sch. para. 8(1)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/8/1) omitted (5.6.2011) by virtue of [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [27(a)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/27/a)
+[^c-1b3cda6c0a3676268d932d9d3c524151]: Textual amendment: Words in [Sch. para. 8(1)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/8/1) omitted (5.6.2011) by virtue of [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [27(a)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/27/a)
 
-[^key-6f696b37f1bfbe7db425acf952074c95]: Textual amendment: Word in [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/8/2) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/27/b)
+[^c-6f696b37f1bfbe7db425acf952074c95]: Textual amendment: Word in [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/8/2) substituted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [27(b)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/27/b)
 
-[^key-b8898ba86159fe197b5795ade0709dda]: Textual amendment: [Sch. para. 8A](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/8A) inserted (1.10.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2010/1088/regulation/28)
+[^c-b8898ba86159fe197b5795ade0709dda]: Textual amendment: [Sch. para. 8A](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/8A) inserted (1.10.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2010/1088/regulation/28)
 
-[^key-ae20d6132927a1ddff815ce6b84fa9bc]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/9) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
+[^c-ae20d6132927a1ddff815ce6b84fa9bc]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/9) in force at 15.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3323/regulation/1/1)
 
-[^key-d8e22a4dfb561b830445601005548eb9]: Textual amendment: Words in [Sch. para. 9(6)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/9/6) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [29(a)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/29/a)
+[^c-d8e22a4dfb561b830445601005548eb9]: Textual amendment: Words in [Sch. para. 9(6)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/9/6) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [29(a)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/29/a)
 
-[^key-cfac08c6255edd1bcc0a45ac82aed860]: Textual amendment: [Sch. paras. 9(7)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/9/7)[(8)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/9/8) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [29(b)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/29/b)
+[^c-cfac08c6255edd1bcc0a45ac82aed860]: Textual amendment: [Sch. paras. 9(7)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/9/7)[(8)](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/9/8) inserted (5.6.2011) by [The Transnational Information and Consultation of Employees (Amendment) Regulations 2010 (S.I. 2010/1088)](https://www.legislation.gov.uk/uksi/2010/1088), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/1/1), [29(b)](https://www.legislation.gov.uk/uksi/2010/1088/regulation/29/b)
 
-[^key-980a6643059ffa1fa859c7b2476a055d]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/10) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/32) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-980a6643059ffa1fa859c7b2476a055d]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/uksi/1999/3323/schedule/paragraph/10) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/32) (with [Sch. 2 paras. 33-41](https://www.legislation.gov.uk/uksi/2019/535/schedule/2/paragraph/33)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

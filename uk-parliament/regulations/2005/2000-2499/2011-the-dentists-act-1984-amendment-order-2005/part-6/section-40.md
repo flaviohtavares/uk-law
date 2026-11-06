@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Repeal of Part 5[^key-341f0baf4bc9693525bd6718fc0b4ecd]
+## 40. Repeal of Part 5[^c-341f0baf4bc9693525bd6718fc0b4ecd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Part 5 (dental auxiliaries) is hereby repealed.
 
 ## Annotations
 
-[^key-341f0baf4bc9693525bd6718fc0b4ecd]: Commencement: Art. 40 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-341f0baf4bc9693525bd6718fc0b4ecd]: Commencement: Art. 40 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

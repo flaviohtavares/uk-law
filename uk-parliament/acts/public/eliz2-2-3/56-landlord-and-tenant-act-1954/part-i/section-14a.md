@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14A. Compensation for possession obtained by misrepresentation[^key-0f098043befd85370ca74c200a46d3cc]
+## 14A. Compensation for possession obtained by misrepresentation[^c-0f098043befd85370ca74c200a46d3cc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where an order is made for possession of the property comprised in a tenancy to 
 
 ## Annotations
 
-[^key-0f098043befd85370ca74c200a46d3cc]: Textual amendment: S. 14A inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/2)
+[^c-0f098043befd85370ca74c200a46d3cc]: Textual amendment: S. 14A inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/2)

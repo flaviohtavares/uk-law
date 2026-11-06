@@ -22,12 +22,12 @@ summary: ''
 
 (1) Schedule 12 to this Act (which contains amendments relating to offences and enforcement powers under Part I of the 1981 Act) has effect.
 
-(2)[^key-0cd047ab5f5322b245b01a4ddf39875d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0cd047ab5f5322b245b01a4ddf39875d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-0cd047ab5f5322b245b01a4ddf39875d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0cd047ab5f5322b245b01a4ddf39875d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c1057081]: Commencement: S.81 wholly in force; S. 81 partly in force at Royal Assent, see s. 103(1); 81(2)(3) in force at 30.11.2000, S. 81 fully in force at 30.1.2001, see S.103(2).
 
-[^key-0cd047ab5f5322b245b01a4ddf39875d]: Textual amendment: [S. 81(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/81/3) repealed (20.11.2003) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(1)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/1), [Sch. 37 Pt. 9](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/9)
+[^c-0cd047ab5f5322b245b01a4ddf39875d]: Textual amendment: [S. 81(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/81/3) repealed (20.11.2003) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(1)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/1), [Sch. 37 Pt. 9](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/9)

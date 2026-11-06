@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Penalty notices[^c19558251][^key-fbaa1e4bb8ca811c0f27aac2a9ecfcbb]
+## 52. Penalty notices[^c19558251][^c-fbaa1e4bb8ca811c0f27aac2a9ecfcbb]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c19558251]: Commencement: S. 52 partly in force; s. 52 in force for certain purposes at Royal Assent see s. 118(2)
 
-[^key-fbaa1e4bb8ca811c0f27aac2a9ecfcbb]: Commencement: S. 52 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
+[^c-fbaa1e4bb8ca811c0f27aac2a9ecfcbb]: Commencement: S. 52 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)

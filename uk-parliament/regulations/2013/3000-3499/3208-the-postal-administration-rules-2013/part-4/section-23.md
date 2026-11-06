@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. The chair at meetings[^key-7c486a260cb2a62d486ce4289028d9ff]
+## 23. The chair at meetings[^c-7c486a260cb2a62d486ce4289028d9ff]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c486a260cb2a62d486ce4289028d9ff]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2013/3208/rule/23) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-7c486a260cb2a62d486ce4289028d9ff]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2013/3208/rule/23) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

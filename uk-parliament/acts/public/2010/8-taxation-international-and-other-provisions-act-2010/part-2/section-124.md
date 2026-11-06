@@ -37,8 +37,8 @@ summary: ''
 
 may be made in pursuance of the solution or mutual agreement at any time before the end of the period of 12 months following the notification of the solution or mutual agreement to the person affected, even if that involves making the claim after a deadline imposed by another enactment.
 
-(5)[^key-608a7a6d8c95c1a706178ca6d9b97144] See section 114A of FA 2015 for provision applying this section in relation to diverted profits tax.
+(5)[^c-608a7a6d8c95c1a706178ca6d9b97144] See section 114A of FA 2015 for provision applying this section in relation to diverted profits tax.
 
 ## Annotations
 
-[^key-608a7a6d8c95c1a706178ca6d9b97144]: Textual amendment: [S. 124(5)](https://www.legislation.gov.uk/ukpga/2010/8/section/124/5) inserted (with application in accordance with s. 27(3) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 27(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/27/2)
+[^c-608a7a6d8c95c1a706178ca6d9b97144]: Textual amendment: [S. 124(5)](https://www.legislation.gov.uk/ukpga/2010/8/section/124/5) inserted (with application in accordance with s. 27(3) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 27(2)](https://www.legislation.gov.uk/ukpga/2022/3/section/27/2)

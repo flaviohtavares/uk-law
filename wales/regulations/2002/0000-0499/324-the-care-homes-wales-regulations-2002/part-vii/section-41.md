@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Notice of termination of accommodation[^key-bb7e39c4828d00db75bf1115a9686214]
+## 41. Notice of termination of accommodation[^c-bb7e39c4828d00db75bf1115a9686214]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb7e39c4828d00db75bf1115a9686214]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/324) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)
+[^c-bb7e39c4828d00db75bf1115a9686214]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2002/324) revoked (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2018/48/schedule/2)

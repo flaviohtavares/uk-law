@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Reporting obligations: small producers[^key-6c39e3d534cb1343c15472f35f743b01]
+## 36. Reporting obligations: small producers[^c-6c39e3d534cb1343c15472f35f743b01]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ Data to be reported to the appropriate agency: small producers
 
 ## Annotations
 
-[^key-6c39e3d534cb1343c15472f35f743b01]: Commencement: Reg. 36 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-6c39e3d534cb1343c15472f35f743b01]: Commencement: Reg. 36 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

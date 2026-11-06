@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35B. Use of zero-emission vehicles for local services[^key-c6b4198171b4ca3aab21b3e5bd4e5a86]
+## 35B. Use of zero-emission vehicles for local services[^c-c6b4198171b4ca3aab21b3e5bd4e5a86]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6b4198171b4ca3aab21b3e5bd4e5a86]: Textual amendment: [S. 35B](https://www.legislation.gov.uk/asp/2001/2/section/35B) and cross-heading inserted (27.10.2025 for the purposes of making regulations) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/38/2), [41(4)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/4)
+[^c-c6b4198171b4ca3aab21b3e5bd4e5a86]: Textual amendment: [S. 35B](https://www.legislation.gov.uk/asp/2001/2/section/35B) and cross-heading inserted (27.10.2025 for the purposes of making regulations) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2025/24/section/38/2), [41(4)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/4)

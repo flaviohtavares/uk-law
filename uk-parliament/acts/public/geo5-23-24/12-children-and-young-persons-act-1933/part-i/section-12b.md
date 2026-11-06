@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12B. Restricted sale orders[^key-16e18347b207e951a2b52f26d2f08e10]
+## 12B. Restricted sale orders[^c-16e18347b207e951a2b52f26d2f08e10]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16e18347b207e951a2b52f26d2f08e10]: Textual amendment: [Ss. 12A-12D](https://www.legislation.gov.uk/ukpga/Geo5/23-24/12/section/12A) and cross-heading omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/2) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+[^c-16e18347b207e951a2b52f26d2f08e10]: Textual amendment: [Ss. 12A-12D](https://www.legislation.gov.uk/ukpga/Geo5/23-24/12/section/12A) and cross-heading omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/2) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))

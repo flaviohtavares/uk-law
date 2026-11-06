@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Meaning of “10% or greater share in a company”[^key-3102f546138f6caec16e1acf3aa30986]
+## 147. Meaning of “10% or greater share in a company”[^c-3102f546138f6caec16e1acf3aa30986]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ those rights or powers are to be attributed to A.
 
 ## Annotations
 
-[^key-3102f546138f6caec16e1acf3aa30986]: Modification: S. 147 applied by 2003 c. 14, Sch. 4A para. 5E(9) (as inserted (with effect in accordance with Sch. 40 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 40 para. 2(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/40/paragraph/2/4))
+[^c-3102f546138f6caec16e1acf3aa30986]: Modification: S. 147 applied by 2003 c. 14, Sch. 4A para. 5E(9) (as inserted (with effect in accordance with Sch. 40 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 40 para. 2(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/40/paragraph/2/4))

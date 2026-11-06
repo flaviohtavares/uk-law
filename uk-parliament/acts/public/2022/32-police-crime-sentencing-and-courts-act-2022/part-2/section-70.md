@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Disqualification orders: appeals[^key-9aaf2f533ae5252b5a255abdaeb3e732][^key-394b755c6800b4e7ec03675a8784f469]
+## 70. Disqualification orders: appeals[^c-9aaf2f533ae5252b5a255abdaeb3e732][^c-394b755c6800b4e7ec03675a8784f469]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9aaf2f533ae5252b5a255abdaeb3e732]: Commencement: S. 70 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-9aaf2f533ae5252b5a255abdaeb3e732]: Commencement: S. 70 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-394b755c6800b4e7ec03675a8784f469]: Commencement: S. 70 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)
+[^c-394b755c6800b4e7ec03675a8784f469]: Commencement: S. 70 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)

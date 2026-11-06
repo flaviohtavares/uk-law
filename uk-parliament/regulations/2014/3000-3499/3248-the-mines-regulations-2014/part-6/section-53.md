@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Duties of the mine operator with regard to escape and rescue[^key-7e8ecec6abb7fe3d51690360456ebdb7]
+## 53. Duties of the mine operator with regard to escape and rescue[^c-7e8ecec6abb7fe3d51690360456ebdb7]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e8ecec6abb7fe3d51690360456ebdb7]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2014/3248/regulation/53) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-7e8ecec6abb7fe3d51690360456ebdb7]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2014/3248/regulation/53) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

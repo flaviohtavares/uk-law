@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to make provision about badges for display on 
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 19th August 2014 and received Royal Assent on 24th September 2014
 
-## 1. Form of badge[^key-8ba7e927eaa11fd6556465009de4b566]
+## 1. Form of badge[^c-8ba7e927eaa11fd6556465009de4b566]
 
 In section 21 (badges for display on motor vehicles used by disabled persons) of the Chronically Sick and Disabled Persons Act 1970, for paragraph (b) of subsection (1A) there is substituted—
 
@@ -42,21 +42,21 @@ In section 21 (badges for display on motor vehicles used by disabled persons) of
 
 .
 
-## 2. Power to cancel badge[^key-360a8d281107276848b4181f5e45ad5c]
+## 2. Power to cancel badge[^c-360a8d281107276848b4181f5e45ad5c]
 
 In section 21(7AB) of the Chronically Sick and Disabled Persons Act 1970, the words “in England and Wales” are repealed.
 
-## 3. Power to confiscate badge[^key-f2790fcf88a2bfde6debd58ec9c20fb1]
+## 3. Power to confiscate badge[^c-f2790fcf88a2bfde6debd58ec9c20fb1]
 
 In section 21(4D) of the Chronically Sick and Disabled Persons Act 1970, the words “in England and Wales” are repealed.
 
-## 4. Offence of using cancelled badge[^key-dbce530f40135e87e21a854ca2b0aa8a]
+## 4. Offence of using cancelled badge[^c-dbce530f40135e87e21a854ca2b0aa8a]
 
 (1) In section 21(4BZA) of the Chronically Sick and Disabled Persons Act 1970, the words “in England and Wales” are repealed.
 
 (2) In subsection (1ZA) of section 117 (wrongful use of disabled person's badge) of the Road Traffic Regulation Act 1984, the words “in its application to the use of a vehicle in England and Wales” are repealed.
 
-## 5. Enforcement officers[^key-96ce44023a83ecb938f74fdb87b8640a]
+## 5. Enforcement officers[^c-96ce44023a83ecb938f74fdb87b8640a]
 
 (1) Section 21 of the Chronically Sick and Disabled Persons Act 1970 is amended as follows.
 
@@ -117,12 +117,12 @@ The short title of this Act is the Disabled Persons' Parking Badges (Scotland) A
 
 ## Annotations
 
-[^key-8ba7e927eaa11fd6556465009de4b566]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/17/section/1) in force at 30.3.2015 by [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
+[^c-8ba7e927eaa11fd6556465009de4b566]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/17/section/1) in force at 30.3.2015 by [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
 
-[^key-360a8d281107276848b4181f5e45ad5c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/17/section/2) in force at 30.3.2015 by [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
+[^c-360a8d281107276848b4181f5e45ad5c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/17/section/2) in force at 30.3.2015 by [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
 
-[^key-f2790fcf88a2bfde6debd58ec9c20fb1]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/17/section/3) in force at 30.3.2015 by [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
+[^c-f2790fcf88a2bfde6debd58ec9c20fb1]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/17/section/3) in force at 30.3.2015 by [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
 
-[^key-dbce530f40135e87e21a854ca2b0aa8a]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2014/17/section/4) in force at 30.3.2015 by [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
+[^c-dbce530f40135e87e21a854ca2b0aa8a]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2014/17/section/4) in force at 30.3.2015 by [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
 
-[^key-96ce44023a83ecb938f74fdb87b8640a]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/17/section/5) in force at 30.3.2015 by [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)
+[^c-96ce44023a83ecb938f74fdb87b8640a]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/17/section/5) in force at 30.3.2015 by [S.S.I. 2015/8](https://www.legislation.gov.uk/ssi/2015/8), [art. 2](https://www.legislation.gov.uk/ssi/2015/8/article/2)

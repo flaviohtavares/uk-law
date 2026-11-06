@@ -36,8 +36,8 @@ otherwise the comptroller must disregard the declaration made for the purposes o
 - (a) the application in suit is an international application for a patent (UK) and a certified copy of the priority application was filed in compliance with the Patent Co-operation Treaty; or
 - (b) the priority application or a copy of the priority application is available to the comptroller.
 
-(5) For the purposes of this rule the relevant period is sixteen months beginning immediately after[^key-034e445f983493201517aad9294fafdc] the declared priority date, subject to rule 21.
+(5) For the purposes of this rule the relevant period is sixteen months beginning immediately after[^c-034e445f983493201517aad9294fafdc] the declared priority date, subject to rule 21.
 
 ## Annotations
 
-[^key-034e445f983493201517aad9294fafdc]: Textual amendment: Words in [rule 8(5)](https://www.legislation.gov.uk/uksi/2007/3291/rule/8/5) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-034e445f983493201517aad9294fafdc]: Textual amendment: Words in [rule 8(5)](https://www.legislation.gov.uk/uksi/2007/3291/rule/8/5) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

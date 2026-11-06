@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-e9d4634f8f240d5471255e71f3f7091a] If the judge is required to proceed under this section he must decide whether there is evidence which would be sufficient to make a case requiring an answer by the person if the proceedings were the summary trial of an information against him.
+(1)[^c-e9d4634f8f240d5471255e71f3f7091a] If the judge is required to proceed under this section he must decide whether there is evidence which would be sufficient to make a case requiring an answer by the person if the proceedings were the summary trial of an information against him.
 
 (2) In deciding the question in subsection (1) the judge may treat a statement made by a person in a document as admissible evidence of a fact if—
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c2087134]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
-[^key-e9d4634f8f240d5471255e71f3f7091a]: Modification: [S. 86(1)](https://www.legislation.gov.uk/ukpga/2003/41/section/86/1) modified (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/990/article/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2016/990/article/6/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2016/990/schedule/3)
+[^c-e9d4634f8f240d5471255e71f3f7091a]: Modification: [S. 86(1)](https://www.legislation.gov.uk/ukpga/2003/41/section/86/1) modified (10.11.2016) by [The Extradition Act 2003 (Overseas Territories) Order 2016 (S.I. 2016/990)](https://www.legislation.gov.uk/uksi/2016/990), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/990/article/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2016/990/article/6/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2016/990/schedule/3)

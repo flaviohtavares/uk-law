@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. References to “Revenue Scotland assessment”[^key-0e03d745fb149dcb5b8a156934dbd05e]
+## 100. References to “Revenue Scotland assessment”[^c-0e03d745fb149dcb5b8a156934dbd05e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Act “**Revenue Scotland assessment**” means an assessment under sect
 
 ## Annotations
 
-[^key-0e03d745fb149dcb5b8a156934dbd05e]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2014/16/section/100) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-0e03d745fb149dcb5b8a156934dbd05e]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2014/16/section/100) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

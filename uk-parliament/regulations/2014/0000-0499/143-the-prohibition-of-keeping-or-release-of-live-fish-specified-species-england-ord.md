@@ -63,9 +63,9 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - (a) issued with a permit under Council Regulation [(EC) No. 708/2007](https://www.legislation.gov.uk/european/regulation/2007/0708)[^f00003] concerning use of alien and locally absent species in aquaculture, or
 - (b) served with a notice under regulation 7(2)(b) or (3)(b) (notices permitting movement) of the Alien and Locally Absent Species in Aquaculture (England and Wales) Regulations 2011[^f00004].
 
-(3)[^key-773d59cf6190863d925d0fcb3dc313c6] This Order does not apply to the keeping or release of live fish in inland waters
+(3)[^c-773d59cf6190863d925d0fcb3dc313c6] This Order does not apply to the keeping or release of live fish in inland waters
 
-## 1A. Interpretation[^key-21fe000b98b3556a7f035a0d1746db0c]
+## 1A. Interpretation[^c-21fe000b98b3556a7f035a0d1746db0c]
 
 In this Order—
 
@@ -76,7 +76,7 @@ In this Order—
 
 ## 2. Prohibition of keeping or release of specified fish or eggs
 
-(1)[^key-13475a2a4c3fb4a35ec5613e2d699183] No person may, except under the authority of a licence granted by the Secretary of State, keep or release any live freshwater fish, or the live eggs of any freshwater fish, which—
+(1)[^c-13475a2a4c3fb4a35ec5613e2d699183] No person may, except under the authority of a licence granted by the Secretary of State, keep or release any live freshwater fish, or the live eggs of any freshwater fish, which—
 
 - (a) belongs to a taxonomic order specified in the first column of the table in Part 1 of the Schedule; and
 - (b) is not native to England and Wales
@@ -119,7 +119,7 @@ Department for Environment, Food and Rural Affairs
 
 Article 2
 
-### PART 1 — Taxonomic orders to which any species of freshwater fish that is not native to England and Wales belongs that may not be kept or released without a licence[^key-b70b1e33aec4297bc9d7f25979b264f0]
+### PART 1 — Taxonomic orders to which any species of freshwater fish that is not native to England and Wales belongs that may not be kept or released without a licence[^c-b70b1e33aec4297bc9d7f25979b264f0]
 
 | Taxonomic Order | Common name |
 | --- | --- |
@@ -193,11 +193,11 @@ Regulation 3 requires the Secretary of State to review the operation and effect 
 
 [^f00004]: Footnote: [S.I. 2011/2292](https://www.legislation.gov.uk/uksi/2011/2292).
 
-[^key-773d59cf6190863d925d0fcb3dc313c6]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2014/143/article/1/3) inserted (19.1.2014) by [The Prohibition of Keeping or Release of Live Fish (Specified Species) (England) (Amendment) Order 2014 (S.I. 2014/3342)](https://www.legislation.gov.uk/uksi/2014/3342), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3342/article/1/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2014/3342/article/2/2)
+[^c-773d59cf6190863d925d0fcb3dc313c6]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/uksi/2014/143/article/1/3) inserted (19.1.2014) by [The Prohibition of Keeping or Release of Live Fish (Specified Species) (England) (Amendment) Order 2014 (S.I. 2014/3342)](https://www.legislation.gov.uk/uksi/2014/3342), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3342/article/1/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2014/3342/article/2/2)
 
-[^key-21fe000b98b3556a7f035a0d1746db0c]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/uksi/2014/143/article/1A) inserted (19.1.2014) by [The Prohibition of Keeping or Release of Live Fish (Specified Species) (England) (Amendment) Order 2014 (S.I. 2014/3342)](https://www.legislation.gov.uk/uksi/2014/3342), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3342/article/1/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2014/3342/article/2/3)
+[^c-21fe000b98b3556a7f035a0d1746db0c]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/uksi/2014/143/article/1A) inserted (19.1.2014) by [The Prohibition of Keeping or Release of Live Fish (Specified Species) (England) (Amendment) Order 2014 (S.I. 2014/3342)](https://www.legislation.gov.uk/uksi/2014/3342), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3342/article/1/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2014/3342/article/2/3)
 
-[^key-13475a2a4c3fb4a35ec5613e2d699183]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2014/143/article/2/1) substituted (19.1.2014) by [The Prohibition of Keeping or Release of Live Fish (Specified Species) (England) (Amendment) Order 2014 (S.I. 2014/3342)](https://www.legislation.gov.uk/uksi/2014/3342), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3342/article/1/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2014/3342/article/2/4)
+[^c-13475a2a4c3fb4a35ec5613e2d699183]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2014/143/article/2/1) substituted (19.1.2014) by [The Prohibition of Keeping or Release of Live Fish (Specified Species) (England) (Amendment) Order 2014 (S.I. 2014/3342)](https://www.legislation.gov.uk/uksi/2014/3342), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3342/article/1/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2014/3342/article/2/4)
 
 [^f00005]: Footnote: [S.I. 1998/2409](https://www.legislation.gov.uk/uksi/1998/2409); amended by [S.I. 2003/25](https://www.legislation.gov.uk/uksi/2003/25) and [2292](https://www.legislation.gov.uk/uksi/2003/2292).
 
@@ -205,4 +205,4 @@ Regulation 3 requires the Secretary of State to review the operation and effect 
 
 [^f00007]: Footnote: [S.I. 2011/2292](https://www.legislation.gov.uk/uksi/2011/2292).
 
-[^key-b70b1e33aec4297bc9d7f25979b264f0]: Textual amendment: Sch. Pt. 1 substituted (19.1.2014) by [The Prohibition of Keeping or Release of Live Fish (Specified Species) (England) (Amendment) Order 2014 (S.I. 2014/3342)](https://www.legislation.gov.uk/uksi/2014/3342), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3342/article/1/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2014/3342/article/2/5), [Sch.](https://www.legislation.gov.uk/uksi/2014/3342/schedule)
+[^c-b70b1e33aec4297bc9d7f25979b264f0]: Textual amendment: Sch. Pt. 1 substituted (19.1.2014) by [The Prohibition of Keeping or Release of Live Fish (Specified Species) (England) (Amendment) Order 2014 (S.I. 2014/3342)](https://www.legislation.gov.uk/uksi/2014/3342), [arts. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3342/article/1/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2014/3342/article/2/5), [Sch.](https://www.legislation.gov.uk/uksi/2014/3342/schedule)

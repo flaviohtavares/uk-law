@@ -28,7 +28,7 @@ summary: ''
 (2) The regulations may, in particular—
 
 - (a) provide for a specified law about bail to apply in relation to cases to which custody or overall time limits apply (subject to any modifications which the Secretary of State considers it necessary to specify in the regulations);
-- (b) provide for time limits to cease to have effect in cases where the Advocate General for Northern Ireland[^key-1d6e7a6de9e3780c8a38ed7c5a6b7df0] certifies after the institution of proceedings that an offence is not to be treated as a scheduled offence;
+- (b) provide for time limits to cease to have effect in cases where the Advocate General for Northern Ireland[^c-1d6e7a6de9e3780c8a38ed7c5a6b7df0] certifies after the institution of proceedings that an offence is not to be treated as a scheduled offence;
 - (c) make such provision with respect to the procedure to be followed in criminal proceedings as the Secretary of State considers appropriate in consequence of another provision of the regulations;
 - (d) make provision which has effect in relation to a non-scheduled offence where separate counts of an indictment allege a scheduled offence and a non-scheduled offence;
 - (e) enable the Crown Court in specified circumstances to extend or further extend a time limit at any time before it expires.
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1d6e7a6de9e3780c8a38ed7c5a6b7df0]: Textual amendment: Words in s. 72(2)(b) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/22); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(d)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/d)
+[^c-1d6e7a6de9e3780c8a38ed7c5a6b7df0]: Textual amendment: Words in s. 72(2)(b) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/22); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(d)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/d)
 
 [^c16786591]: Textual amendment: S. 72(7) inserted (18.4.2005) by [The Criminal Justice (Northern Ireland) Order 2004 (S.I. 2004/1500 (N.I. 9))](https://www.legislation.gov.uk/nisi/2004/1500), [art. 29(2)](https://www.legislation.gov.uk/nisi/2004/1500/article/29/2); [S.R. 2005/243](https://www.legislation.gov.uk/nisr/2005/243), [art. 2](https://www.legislation.gov.uk/nisr/2005/243/article/2)

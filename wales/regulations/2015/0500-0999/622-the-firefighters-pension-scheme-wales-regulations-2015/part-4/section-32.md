@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Calculation of amount of accrued pension for purpose of deferment or retirement[^key-fdad35fb749616f094e17fe97f7f8f9f]
+## 32. Calculation of amount of accrued pension for purpose of deferment or retirement[^c-fdad35fb749616f094e17fe97f7f8f9f]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdad35fb749616f094e17fe97f7f8f9f]: Commencement: Reg. 32 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-fdad35fb749616f094e17fe97f7f8f9f]: Commencement: Reg. 32 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

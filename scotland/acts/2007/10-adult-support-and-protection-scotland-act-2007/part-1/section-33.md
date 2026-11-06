@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Information to be presented to sheriff[^key-5c07809d40a3dc0e69e881de28cdac0d]
+## 33. Information to be presented to sheriff[^c-5c07809d40a3dc0e69e881de28cdac0d]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ Where a person is brought before the sheriff under section 32, the fiscal must p
 
 ## Annotations
 
-[^key-5c07809d40a3dc0e69e881de28cdac0d]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2007/10/section/33) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-5c07809d40a3dc0e69e881de28cdac0d]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2007/10/section/33) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — AMENDMENTS TO EXISTING ORDERS[^key-b96bc8e686c411869d50e02eaa2f3173]
+## SCHEDULE 9 — AMENDMENTS TO EXISTING ORDERS[^c-b96bc8e686c411869d50e02eaa2f3173]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ Article 18
 
 ## Annotations
 
-[^key-b96bc8e686c411869d50e02eaa2f3173]: Commencement: Sch. 9 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-b96bc8e686c411869d50e02eaa2f3173]: Commencement: Sch. 9 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

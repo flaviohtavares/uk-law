@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 277. Right to have list of creditors[^key-eb353e2467c33f10a949d0296efb3431]
+## 277. Right to have list of creditors[^c-eb353e2467c33f10a949d0296efb3431]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb353e2467c33f10a949d0296efb3431]: Commencement: Rule 277 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-eb353e2467c33f10a949d0296efb3431]: Commencement: Rule 277 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

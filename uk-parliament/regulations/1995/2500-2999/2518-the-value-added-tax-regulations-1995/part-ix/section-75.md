@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Change in VAT[^key-93550b3e6836174f4c7464892dd4700a]
+## 75. Change in VAT[^c-93550b3e6836174f4c7464892dd4700a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where pursuant to any enactment there is a change in the VAT charged on any supp
 
 ## Annotations
 
-[^key-93550b3e6836174f4c7464892dd4700a]: Commencement: Reg. 75 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-93550b3e6836174f4c7464892dd4700a]: Commencement: Reg. 75 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

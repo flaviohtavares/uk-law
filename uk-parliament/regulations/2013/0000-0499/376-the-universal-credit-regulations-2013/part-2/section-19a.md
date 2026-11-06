@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19A. Waiting Days[^key-89d1c0052d511725f931c24fc35d1a77][^key-1352367c758f0922c74d9d106674c568]
+## 19A. Waiting Days[^c-89d1c0052d511725f931c24fc35d1a77][^c-1352367c758f0922c74d9d106674c568]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89d1c0052d511725f931c24fc35d1a77]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2013/376/regulation/19A) omitted (14.2.2018) by virtue of [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2018/65/regulation/3/3)
+[^c-89d1c0052d511725f931c24fc35d1a77]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2013/376/regulation/19A) omitted (14.2.2018) by virtue of [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2018/65/regulation/3/3)
 
-[^key-1352367c758f0922c74d9d106674c568]: Textual amendment: Reg. 19A inserted (3.8.2015) by [The Universal Credit (Waiting Days) (Amendment) Regulations 2015 (S.I. 2015/1362)](https://www.legislation.gov.uk/uksi/2015/1362), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1362/regulation/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2015/1362/regulation/2/1/a)
+[^c-1352367c758f0922c74d9d106674c568]: Textual amendment: Reg. 19A inserted (3.8.2015) by [The Universal Credit (Waiting Days) (Amendment) Regulations 2015 (S.I. 2015/1362)](https://www.legislation.gov.uk/uksi/2015/1362), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1362/regulation/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2015/1362/regulation/2/1/a)

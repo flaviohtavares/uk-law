@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Coming into force[^key-563f93a960575f8be53851df334be83e]
+## 5. Coming into force[^c-563f93a960575f8be53851df334be83e]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-563f93a960575f8be53851df334be83e]: Commencement: S. 5 in force at 28.4.2026, see [s. 5(1)(d)](https://www.legislation.gov.uk/asc/2026/7/section/5/1/d)
+[^c-563f93a960575f8be53851df334be83e]: Commencement: S. 5 in force at 28.4.2026, see [s. 5(1)(d)](https://www.legislation.gov.uk/asc/2026/7/section/5/1/d)

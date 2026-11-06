@@ -49,11 +49,11 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to natural gas and oil, in exercise of the powers conferred on him by that section, hereby makes the following Regulations—
 
-## 1. Citation and commencement[^key-889d4fd9d83e39a55bb7cb3cb4a12415]
+## 1. Citation and commencement[^c-889d4fd9d83e39a55bb7cb3cb4a12415]
 
 These Regulations may be cited as the Gas (Third Party Access and Accounts) Regulations 2000 and shall come into force on 10th August 2000.
 
-## 2. Amendment of the Pipe-lines Act 1962, the Gas Act 1986, the Gas Act 1995 and the Petroleum Act 1998[^key-2ff1999a8624c2e51b3b941d83783b10]
+## 2. Amendment of the Pipe-lines Act 1962, the Gas Act 1986, the Gas Act 1995 and the Petroleum Act 1998[^c-2ff1999a8624c2e51b3b941d83783b10]
 
 (1) The Pipe-lines Act 1962[^f00003] is amended as set out in Schedule 1 to these Regulations.
 
@@ -75,7 +75,7 @@ Department of Trade and Industry
 
 Regulation 2(1)
 
-**1.**[^key-6728e7ca3cf3beca8faf1d35d6f3da77] (1) After section 9(1) there shall be inserted—
+**1.**[^c-6728e7ca3cf3beca8faf1d35d6f3da77] (1) After section 9(1) there shall be inserted—
 
 > (1A) Subsections (2), (3) and (5) of this section apply only to pipe-lines constructed pursuant to a pipe-line construction authorisation which are neither upstream petroleum pipe-lines nor gas pipe-lines, and references in those subsections to “pipe-line” and “line” shall be construed accordingly.
 
@@ -87,7 +87,7 @@ Regulation 2(1)
 >
 > (8) Where an upstream petroleum pipe-line is proposed to be constructed pursuant to a pipe-line construction authorisation to which a condition is attached by virtue of subsection (1), any person other than the applicant for the pipe-line construction authorisation may make applications under section 10E in respect of the proposed pipe-line, and sections 10E and 10F shall have effect as if references to a pipe-line were references to the pipe-line as it would be once constructed in accordance with the condition, and as if references to the owner of the pipe-line were references to the proposed owner of it.
 
-**2.**[^key-8e5a1e5a953ec4e246793cafd4ed08d1] (1) After section 9A(1) there shall be inserted—
+**2.**[^c-8e5a1e5a953ec4e246793cafd4ed08d1] (1) After section 9A(1) there shall be inserted—
 
 > (1A) Subsections (2), (3) and (5) apply only to additional pipe-lines which are neither upstream petroleum pipe-lines nor gas pipe-lines, and references in those subsections to “pipe-line” and “line” shall be construed accordingly.
 
@@ -97,7 +97,7 @@ Regulation 2(1)
 >
 > (8) Where an upstream petroleum pipe-line which is an additional pipe-line is proposed to be constructed, and the Secretary of State has served a notice in respect of the pipe-line under subsection (1) on the person who made the application for planning permission, any other person may make applications under section 10E in respect of the pipe-line; and sections 10E and 10F shall have effect as if references to a pipe-line were references to the pipe-line as it would be once constructed in accordance with the notice, and as if references to the owner of the pipe-line were references to the proposed owner of it.
 
-**3.**[^key-a335bf96ff80cab043dd170e4c504a4f] In section 10(1), for the words “a pipe-line constructed pursuant to a pipe-line construction authorisation may” there shall be substituted—
+**3.**[^c-a335bf96ff80cab043dd170e4c504a4f] In section 10(1), for the words “a pipe-line constructed pursuant to a pipe-line construction authorisation may” there shall be substituted—
 
 > - (a) a gas pipe-line; or
 > - (b) any pipe-line other than a gas pipe-line which—
@@ -108,11 +108,11 @@ Regulation 2(1)
 
 .
 
-**4.**[^key-e58aef8a2030e1a984e64c4ca5792399] In section 10(7), after the words “additional pipe-line” there shall be inserted “other than a gas pipe-line”.
+**4.**[^c-e58aef8a2030e1a984e64c4ca5792399] In section 10(7), after the words “additional pipe-line” there shall be inserted “other than a gas pipe-line”.
 
-**5.**[^key-becacaeb54da86bcf38c49b6337646c8] In section 10A(2), for the words “notice served under section 9(2), 9A(2) or 10(4)”, there shall be substituted “notice served under section 9(2), 9A(2), 10(4) or 10E(9)”.
+**5.**[^c-becacaeb54da86bcf38c49b6337646c8] In section 10A(2), for the words “notice served under section 9(2), 9A(2) or 10(4)”, there shall be substituted “notice served under section 9(2), 9A(2), 10(4) or 10E(9)”.
 
-**6.**[^key-4e06413945c5afe89212725e1c46c5e4] After section 10A there shall be inserted—
+**6.**[^c-4e06413945c5afe89212725e1c46c5e4] After section 10A there shall be inserted—
 
 > **10B. Application of section 10C to certain gas pipe-lines.**
 >
@@ -223,11 +223,11 @@ Regulation 2(1)
 >
 > (4) If the owner of a pipe-line fails to comply with a requirement imposed by a notice served under section 10E(9) with reference to the pipe-line he shall be guilty of an offence and liable, on summary conviction, to a fine not exceeding level 5 on the standard scale; and, if the failure continues after his conviction, he shall be guilty of a further offence and liable, in respect thereof, to a fine not exceeding twenty-five pounds for each day on which the failure continues.
 
-**7.**[^key-7eca57b0432d575b9247eaedbca271cb] After section 58(4) there shall be inserted—
+**7.**[^c-7eca57b0432d575b9247eaedbca271cb] After section 58(4) there shall be inserted—
 
 > (4A) References in sections 9A and 10 of this Act to an additional pipe-line shall be construed as not including references to a pipe-line constructed by and vested in, or proposed to be constructed by and proposed to be vested in, a public gas transporter within the meaning of Part I of the Gas Act 1986.
 
-**8.**[^key-982b7fa3254bd06b47439e45f59a6e14] At the end of section 65(2), there shall be inserted—
+**8.**[^c-982b7fa3254bd06b47439e45f59a6e14] At the end of section 65(2), there shall be inserted—
 
 > and
 >
@@ -235,7 +235,7 @@ Regulation 2(1)
 
 .
 
-**9.**[^key-850f54297a0df0982f0f9980c941b629] In section 66(1)—
+**9.**[^c-850f54297a0df0982f0f9980c941b629] In section 66(1)—
 
 - (a) after the definition of “diversion”, there shall be inserted—
 
@@ -280,7 +280,7 @@ Regulation 2(1)
 
 Regulation 2(2)
 
-**1.**[^key-4d8564441007f9aa89dd82f92d470ec6] After section 19, there shall be inserted—
+**1.**[^c-4d8564441007f9aa89dd82f92d470ec6] After section 19, there shall be inserted—
 
 > **19A. Application of section 19B to storage facilities.**
 >
@@ -443,7 +443,7 @@ Regulation 2(2)
 >
 > (6) Any reference in section 19D to a right to have LNG or LNG of any kind treated in an LNG facility includes a reference to a right to introduce into, or take out of, such a facility LNG or LNG of that kind.
 
-**2.**[^key-2dc0e8c04bd9133010daf1442b89a9d4] In section 22—
+**2.**[^c-2dc0e8c04bd9133010daf1442b89a9d4] In section 22—
 
 - (a) in subsection (1), for the words “section 19 or 21(1) above”, there shall be substituted “section 19, 19B(11), 19D(11) or 21(1)”;
 - (b) in subsection (1), for the words “is a duty”, there shall be substituted—
@@ -460,7 +460,7 @@ Regulation 2(2)
 
 Regulation 2(3)
 
-**1.**[^key-dfcb17fb013abf8f9cd9ecd99f6b40ca] For section 12(1) there shall be substituted—
+**1.**[^c-dfcb17fb013abf8f9cd9ecd99f6b40ca] For section 12(1) there shall be substituted—
 
 > (1) The owner of a gas processing facility—
 >
@@ -485,14 +485,14 @@ Regulation 2(3)
 >
 > (1G) The Secretary of State shall not entertain such an application unless he is satisfied that the parties have had a reasonable time in which to fulfil their duties under subsection (1E).
 
-**2.**[^key-87ce3abf643a47165a29a69764279e44] In section 12(2)—
+**2.**[^c-87ce3abf643a47165a29a69764279e44] In section 12(2)—
 
 - (a) for the words “subsection (1) above” there shall be substituted “ subsection (1F)”; and
 - (b) in paragraph (a), the words “negotiations or” shall be repealed.
 
-**3.**[^key-23d5fc157ff354e687fa6394f781ac07] In section 12(3) for the words “subsection (1) above” there shall be substituted “subsection (1F)”.
+**3.**[^c-23d5fc157ff354e687fa6394f781ac07] In section 12(3) for the words “subsection (1) above” there shall be substituted “subsection (1F)”.
 
-**4.**[^key-26d7c3c185679a6e856b4328bd550e1b] For section 12(5) there shall be substituted—
+**4.**[^c-26d7c3c185679a6e856b4328bd550e1b] For section 12(5) there shall be substituted—
 
 > (5) Section 22 of the 1986 Act (effect of directions) shall apply in relation to—
 >
@@ -503,7 +503,7 @@ Regulation 2(3)
 >
 > (5A) Compliance with the duty in subsection (1) shall be enforceable by civil proceedings by the Secretary of State for an injunction or interdict or for any other appropriate relief or remedy.
 
-**5.**[^key-668751056764b045bd05767541e9cd0c] In section 12(6)—
+**5.**[^c-668751056764b045bd05767541e9cd0c] In section 12(6)—
 
 - (a) at the end of the definition of “gas processing facility”, there shall be added the words “and which is operated otherwise than by a public gas transporter”; and
 - (b) before the definition of owner, there shall be inserted—
@@ -515,7 +515,7 @@ Regulation 2(3)
 
   .
 
-**6.**[^key-0be21c53161d6664fa6234058474f69d] After section 12(6) there shall be inserted—
+**6.**[^c-0be21c53161d6664fa6234058474f69d] After section 12(6) there shall be inserted—
 
 > (6A) Subsections (1) to (3) of section 49 of the Pipe-lines Act 1962 (service of documents) shall apply for the purposes of this section as they apply for the purposes of that Act.
 
@@ -523,15 +523,15 @@ Regulation 2(3)
 
 Regulation 2(4)
 
-**1.**[^key-c09c55d9e1eea529233229f071751bdd] In section 15(6), after the words “section 17(7)”, there shall be inserted “or 17G(6)”.
+**1.**[^c-c09c55d9e1eea529233229f071751bdd] In section 15(6), after the words “section 17(7)”, there shall be inserted “or 17G(6)”.
 
-**2.**[^key-09c5cbd31811baa3c2dacb2712ccf504] In section 16(1), after the words “section 17(8)”, there shall be inserted “or 17G(7)”.
+**2.**[^c-09c5cbd31811baa3c2dacb2712ccf504] In section 16(1), after the words “section 17(8)”, there shall be inserted “or 17G(7)”.
 
-**3.**[^key-15c3efcf920d889ae0b4d426fd94c760] After section 17(1) there shall be inserted—
+**3.**[^c-15c3efcf920d889ae0b4d426fd94c760] After section 17(1) there shall be inserted—
 
 > (1A) This section does not apply to controlled petroleum pipelines, and, in the case of a downstream gas pipeline to which section 17B applies, is subject to that section.
 
-**4.**[^key-6758390af88bb5c2b39c6b70dc38b735] After section 17 there shall be inserted—
+**4.**[^c-6758390af88bb5c2b39c6b70dc38b735] After section 17 there shall be inserted—
 
 > **17A. Application of section 17B to certain downstream gas pipelines.**
 >
@@ -738,13 +738,13 @@ Regulation 2(4)
 >
 > (4) Compliance with the duties in sections 17B(1) and (3), 17D(1) and (3) and 17E(2) shall be enforceable by civil proceedings by the Secretary of State for an injunction or interdict or other appropriate relief or remedy.
 
-**5.**[^key-3ca4c1aea25dc4061a921d9eebedcf3d] In section 18(6)(b), for the words “section 16 or 17” there shall be substituted “section 16, 17 or 17F(9)”.
+**5.**[^c-3ca4c1aea25dc4061a921d9eebedcf3d] In section 18(6)(b), for the words “section 16 or 17” there shall be substituted “section 16, 17 or 17F(9)”.
 
-**6.**[^key-232f1d2f093fc25ddd4d5f08fef2be39] In section 19(1)(b), after the words “section 17”, there shall be inserted “or section 17F(9)”.
+**6.**[^c-232f1d2f093fc25ddd4d5f08fef2be39] In section 19(1)(b), after the words “section 17”, there shall be inserted “or section 17F(9)”.
 
-**7.**[^key-f357202c78c1e854807bcf403125c77e] In section 21(1)(b), for the words “section 16 or 17”, there shall be substituted “section 16, 17 or 17F(9)”.
+**7.**[^c-f357202c78c1e854807bcf403125c77e] In section 21(1)(b), for the words “section 16 or 17”, there shall be substituted “section 16, 17 or 17F(9)”.
 
-**8.**[^key-7e9bfa051bea67945ba179b2b703bd7d] After section 27(1) there shall be inserted—
+**8.**[^c-7e9bfa051bea67945ba179b2b703bd7d] After section 27(1) there shall be inserted—
 
 > (1A) For the purposes of this Part of this Act (other than section 16, section 17(1) and the first reference in section 17F(2)), in the case of downstream gas pipelines and controlled petroleum pipelines—
 >
@@ -753,7 +753,7 @@ Regulation 2(4)
 >   - (b) the right is capable of being assigned or otherwise disposed of to another person; and
 > - “proposed owner” in relation to a proposed pipeline includes a person in whom the pipeline is proposed to be vested.
 
-**9.**[^key-bfe5e223b1d848b65d4cc27a7cd3d910] In section 28(1)—
+**9.**[^c-bfe5e223b1d848b65d4cc27a7cd3d910] In section 28(1)—
 
 - (a) after the definition of “construction” there shall be inserted—
 
@@ -839,9 +839,9 @@ A regulatory impact assessment of the costs and benefits that will result from t
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-889d4fd9d83e39a55bb7cb3cb4a12415]: Commencement: Reg. 1 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-889d4fd9d83e39a55bb7cb3cb4a12415]: Commencement: Reg. 1 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-2ff1999a8624c2e51b3b941d83783b10]: Commencement: Reg. 2 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-2ff1999a8624c2e51b3b941d83783b10]: Commencement: Reg. 2 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
 [^f00003]: Footnote: [1962 c. 58](https://www.legislation.gov.uk/ukpga/1962/58); sections 9, 10 and 66(1) were amended by [S.I. 1999/742](https://www.legislation.gov.uk/uksi/1999/742), Schedule, paragraphs 6, 8 and 15 respectively, and sections 9A and 10A inserted by paragraphs 7 and 9 respectively.
 
@@ -851,54 +851,54 @@ A regulatory impact assessment of the costs and benefits that will result from t
 
 [^f00006]: Footnote: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
 
-[^key-6728e7ca3cf3beca8faf1d35d6f3da77]: Commencement: Sch. 1 para. 1 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-6728e7ca3cf3beca8faf1d35d6f3da77]: Commencement: Sch. 1 para. 1 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-8e5a1e5a953ec4e246793cafd4ed08d1]: Commencement: Sch. 1 para. 2 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-8e5a1e5a953ec4e246793cafd4ed08d1]: Commencement: Sch. 1 para. 2 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-a335bf96ff80cab043dd170e4c504a4f]: Commencement: Sch. 1 para. 3 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-a335bf96ff80cab043dd170e4c504a4f]: Commencement: Sch. 1 para. 3 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-e58aef8a2030e1a984e64c4ca5792399]: Commencement: Sch. 1 para. 4 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-e58aef8a2030e1a984e64c4ca5792399]: Commencement: Sch. 1 para. 4 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-becacaeb54da86bcf38c49b6337646c8]: Commencement: Sch. 1 para. 5 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-becacaeb54da86bcf38c49b6337646c8]: Commencement: Sch. 1 para. 5 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-4e06413945c5afe89212725e1c46c5e4]: Commencement: Sch. 1 para. 6 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-4e06413945c5afe89212725e1c46c5e4]: Commencement: Sch. 1 para. 6 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-7eca57b0432d575b9247eaedbca271cb]: Commencement: Sch. 1 para. 7 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-7eca57b0432d575b9247eaedbca271cb]: Commencement: Sch. 1 para. 7 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-982b7fa3254bd06b47439e45f59a6e14]: Commencement: Sch. 1 para. 8 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-982b7fa3254bd06b47439e45f59a6e14]: Commencement: Sch. 1 para. 8 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-850f54297a0df0982f0f9980c941b629]: Commencement: Sch. 1 para. 9 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-850f54297a0df0982f0f9980c941b629]: Commencement: Sch. 1 para. 9 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-4d8564441007f9aa89dd82f92d470ec6]: Commencement: Sch. 2 para. 1 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-4d8564441007f9aa89dd82f92d470ec6]: Commencement: Sch. 2 para. 1 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-2dc0e8c04bd9133010daf1442b89a9d4]: Commencement: Sch. 2 para. 2 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-2dc0e8c04bd9133010daf1442b89a9d4]: Commencement: Sch. 2 para. 2 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-dfcb17fb013abf8f9cd9ecd99f6b40ca]: Commencement: Sch. 3 para. 1 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-dfcb17fb013abf8f9cd9ecd99f6b40ca]: Commencement: Sch. 3 para. 1 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-87ce3abf643a47165a29a69764279e44]: Commencement: Sch. 3 para. 2 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-87ce3abf643a47165a29a69764279e44]: Commencement: Sch. 3 para. 2 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-23d5fc157ff354e687fa6394f781ac07]: Commencement: Sch. 3 para. 3 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-23d5fc157ff354e687fa6394f781ac07]: Commencement: Sch. 3 para. 3 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-26d7c3c185679a6e856b4328bd550e1b]: Commencement: Sch. 3 para. 4 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-26d7c3c185679a6e856b4328bd550e1b]: Commencement: Sch. 3 para. 4 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-668751056764b045bd05767541e9cd0c]: Commencement: Sch. 3 para. 5 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-668751056764b045bd05767541e9cd0c]: Commencement: Sch. 3 para. 5 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-0be21c53161d6664fa6234058474f69d]: Commencement: Sch. 3 para. 6 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-0be21c53161d6664fa6234058474f69d]: Commencement: Sch. 3 para. 6 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-c09c55d9e1eea529233229f071751bdd]: Commencement: Sch. 4 para. 1 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-c09c55d9e1eea529233229f071751bdd]: Commencement: Sch. 4 para. 1 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-09c5cbd31811baa3c2dacb2712ccf504]: Commencement: Sch. 4 para. 2 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-09c5cbd31811baa3c2dacb2712ccf504]: Commencement: Sch. 4 para. 2 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-15c3efcf920d889ae0b4d426fd94c760]: Commencement: Sch. 4 para. 3 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-15c3efcf920d889ae0b4d426fd94c760]: Commencement: Sch. 4 para. 3 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-6758390af88bb5c2b39c6b70dc38b735]: Commencement: Sch. 4 para. 4 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-6758390af88bb5c2b39c6b70dc38b735]: Commencement: Sch. 4 para. 4 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-3ca4c1aea25dc4061a921d9eebedcf3d]: Commencement: Sch. 4 para. 5 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-3ca4c1aea25dc4061a921d9eebedcf3d]: Commencement: Sch. 4 para. 5 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-232f1d2f093fc25ddd4d5f08fef2be39]: Commencement: Sch. 4 para. 6 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-232f1d2f093fc25ddd4d5f08fef2be39]: Commencement: Sch. 4 para. 6 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-f357202c78c1e854807bcf403125c77e]: Commencement: Sch. 4 para. 7 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-f357202c78c1e854807bcf403125c77e]: Commencement: Sch. 4 para. 7 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-7e9bfa051bea67945ba179b2b703bd7d]: Commencement: Sch. 4 para. 8 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-7e9bfa051bea67945ba179b2b703bd7d]: Commencement: Sch. 4 para. 8 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
 
-[^key-bfe5e223b1d848b65d4cc27a7cd3d910]: Commencement: Sch. 4 para. 9 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)
+[^c-bfe5e223b1d848b65d4cc27a7cd3d910]: Commencement: Sch. 4 para. 9 in force at 10.8.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1937/regulation/1)

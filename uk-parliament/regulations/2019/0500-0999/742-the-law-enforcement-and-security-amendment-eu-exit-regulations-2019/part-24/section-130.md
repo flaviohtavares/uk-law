@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Amendment of the Electronic Commerce Directive (Trafficking People for Exploitation) Regulations 2013[^key-63c198c6fedef4411884f530723e0298]
+## 130. Amendment of the Electronic Commerce Directive (Trafficking People for Exploitation) Regulations 2013[^c-63c198c6fedef4411884f530723e0298]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-63c198c6fedef4411884f530723e0298]: Commencement: Reg. 130 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-63c198c6fedef4411884f530723e0298]: Commencement: Reg. 130 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23692261]: Marginal citation: [S.I. 2013/817](https://www.legislation.gov.uk/uksi/2013/817) as amended by [S.I. 2015/1472](https://www.legislation.gov.uk/uksi/2015/1472).

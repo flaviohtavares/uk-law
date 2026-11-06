@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Duty on publication of statement[^key-a1e53bd87f6409766becae35b6dfbbec]
+## 13. Duty on publication of statement[^c-a1e53bd87f6409766becae35b6dfbbec]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ After a statement under regulation 10 is published, the FCA must send a copy of 
 
 ## Annotations
 
-[^key-a1e53bd87f6409766becae35b6dfbbec]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-a1e53bd87f6409766becae35b6dfbbec]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23565591]: Marginal citation: Subsection (4) is amended by paragraph 32(4) of Schedule 9 to the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).

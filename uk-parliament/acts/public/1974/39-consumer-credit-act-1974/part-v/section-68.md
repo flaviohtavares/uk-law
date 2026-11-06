@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Cooling-off period.[^key-ecab1585656e87feb55f7694882cc845]
+## 68. Cooling-off period.[^c-ecab1585656e87feb55f7694882cc845]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The debtor or hirer may serve notice of cancellation of a cancellable agreement 
 
 ## Annotations
 
-[^key-ecab1585656e87feb55f7694882cc845]: Modification: [Ss. 67-73](https://www.legislation.gov.uk/ukpga/1974/39/section/67) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-ecab1585656e87feb55f7694882cc845]: Modification: [Ss. 67-73](https://www.legislation.gov.uk/ukpga/1974/39/section/67) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))

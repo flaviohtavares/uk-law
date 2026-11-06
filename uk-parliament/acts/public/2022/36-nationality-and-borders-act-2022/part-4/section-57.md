@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Civil legal services relating to age assessments[^key-7dd0f267392f3bef44f62d51a895d66b]
+## 57. Civil legal services relating to age assessments[^c-7dd0f267392f3bef44f62d51a895d66b]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dd0f267392f3bef44f62d51a895d66b]: Commencement: S. 57 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-7dd0f267392f3bef44f62d51a895d66b]: Commencement: S. 57 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

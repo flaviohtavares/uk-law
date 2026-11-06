@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43C. Site restoration.[^key-222dc1079160f1033f6f41e180623375]
+## 43C. Site restoration.[^c-222dc1079160f1033f6f41e180623375]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-222dc1079160f1033f6f41e180623375]: Textual amendment: S. 43C omitted (1.9.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 60 paras. 10](https://www.legislation.gov.uk/ukpga/2009/10/schedule/60/paragraph/10), [13(1)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/60/paragraph/13/1)
+[^c-222dc1079160f1033f6f41e180623375]: Textual amendment: S. 43C omitted (1.9.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 60 paras. 10](https://www.legislation.gov.uk/ukpga/2009/10/schedule/60/paragraph/10), [13(1)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/60/paragraph/13/1)

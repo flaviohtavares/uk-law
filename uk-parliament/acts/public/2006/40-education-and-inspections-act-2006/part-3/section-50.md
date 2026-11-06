@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Direction to admit looked after child to specified school[^key-641ec0db9511c581b2db9677c6201f6b]
+## 50. Direction to admit looked after child to specified school[^c-641ec0db9511c581b2db9677c6201f6b]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 > - (a) they shall, before doing so, serve a notice in writing of their decision on—
 >   - (i) the admission authority for the school,
 >   - (ii) if the school is a community or voluntary controlled school and the governing body of the school are not the admission authority, the governing body of the school,
->   - (iii) if the school is maintained by a local authority[^key-0ea7acc4831332590d0c9da4689eca3c] who are not the authority proposing to give the direction and are not the admission authority, the local authority who maintain the school, and
+>   - (iii) if the school is maintained by a local authority[^c-0ea7acc4831332590d0c9da4689eca3c] who are not the authority proposing to give the direction and are not the admission authority, the local authority who maintain the school, and
 >   - (iv) the head teacher of the school, and
 > - (b) they shall not give the direction until the period for referring the matter to the adjudicator under subsection (4) has expired and, if it is so referred, until the adjudicator has made such determinations under this section as it appears to him to be appropriate to make in connection with the reference.
 >
@@ -81,7 +81,7 @@ summary: ''
 
 > (7) In this Chapter, references to a child who is looked after by a local authority are to be read in accordance with section 22(1) of the Children Act 1989.
 
-(3)[^key-94540909cc090ee024c10e7a781737e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-94540909cc090ee024c10e7a781737e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 143 of SSFA 1998 (index) after the entry relating to “child (in Chapter 1 of Part 3 but not in sections 96 and 97)” insert—
 
@@ -91,8 +91,8 @@ summary: ''
 
 ## Annotations
 
-[^key-641ec0db9511c581b2db9677c6201f6b]: Commencement: S. 50 in force at 8.1.2007 by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(c)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/c)
+[^c-641ec0db9511c581b2db9677c6201f6b]: Commencement: S. 50 in force at 8.1.2007 by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(c)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/c)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
 
-[^key-94540909cc090ee024c10e7a781737e5]: Textual amendment: S. 50(3) repealed (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(h)(vii)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/h/vii)
+[^c-94540909cc090ee024c10e7a781737e5]: Textual amendment: S. 50(3) repealed (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(h)(vii)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/h/vii)

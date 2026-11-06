@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Effect of slavery and trafficking risk orders[^key-7eeefab5bb11769f095039cf12caf2bb]
+## 24. Effect of slavery and trafficking risk orders[^c-7eeefab5bb11769f095039cf12caf2bb]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7eeefab5bb11769f095039cf12caf2bb]: Commencement: S. 24 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)
+[^c-7eeefab5bb11769f095039cf12caf2bb]: Commencement: S. 24 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)

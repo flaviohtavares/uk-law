@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Signalling and communication[^key-282cb3aa235caf91d214ee8829f5881a]
+## 40. Signalling and communication[^c-282cb3aa235caf91d214ee8829f5881a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In any shaft or outlet in which there is winding apparatus or other equipment, t
 
 ## Annotations
 
-[^key-282cb3aa235caf91d214ee8829f5881a]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2014/3248/regulation/40) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-282cb3aa235caf91d214ee8829f5881a]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2014/3248/regulation/40) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

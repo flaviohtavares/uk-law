@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**30.**[^key-a4932ec67ef0b57419fd6f76c57d7d1c] (1) The functions of a Local Medical Committee which are prescribed for the purposes of section 54(7) of the Act (Local Medical Committees) are—
+**30.**[^c-a4932ec67ef0b57419fd6f76c57d7d1c] (1) The functions of a Local Medical Committee which are prescribed for the purposes of section 54(7) of the Act (Local Medical Committees) are—
 
 - (a) the consideration of any complaint made to it by any medical practitioner against a medical practitioner specified in paragraph (2) providing services under a contract in the relevant area involving any question of the efficiency of those services,
 - (b) the reporting of the outcome of the consideration of any such complaint to the Local Health Board with whom the contract is held in cases where that consideration gives rise to any concerns relating to the efficiency of services provided under a contract,
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4932ec67ef0b57419fd6f76c57d7d1c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2023/953/regulation/30) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-a4932ec67ef0b57419fd6f76c57d7d1c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2023/953/regulation/30) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

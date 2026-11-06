@@ -41,23 +41,23 @@ Coming into operation
 
 The Department for Employment and Learning[^f00001], in exercise of the powers conferred by Article 3(5) of and parargraph 1(1) of Schedule 2 to the Education (Student Loans) (Northern Ireland) Order 1990[^f00002] and now vested in it[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-faac601476eb542ee720668b388bcc56]
+## 1. Citation, commencement and interpretation[^c-faac601476eb542ee720668b388bcc56]
 
 These Regulations may be cited as the Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation on 1st August 2005.
 
-**2.**[^key-0989e1d48b437ff1111dc22f4f3b264b] In these Regulations “the principal Regulations” means the Education (Student Loans) Regulations (Northern Ireland) 1998[^f00004].
+**2.**[^c-0989e1d48b437ff1111dc22f4f3b264b] In these Regulations “the principal Regulations” means the Education (Student Loans) Regulations (Northern Ireland) 1998[^f00004].
 
-## 3. Revocation[^key-2b0bf01436ed108b1e27361770a1951f]
+## 3. Revocation[^c-2b0bf01436ed108b1e27361770a1951f]
 
 The Regulations mentioned in Schedule 1 are revoked to the extent provided for in that Schedule.
 
-## 4. Amendment of the principal Regulations[^key-f3c902f0446927185380987c7da9b5f3][^key-97d9477c8ddb11876dc4834001e9335c]
+## 4. Amendment of the principal Regulations[^c-f3c902f0446927185380987c7da9b5f3][^c-97d9477c8ddb11876dc4834001e9335c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-0cd7b17a3f8211005840f36279370b47] Regulation 3(4) of, and Schedule 1 to, the principal Regulations are amended in accordance with Schedule 2.
+**5.**[^c-0cd7b17a3f8211005840f36279370b47] Regulation 3(4) of, and Schedule 1 to, the principal Regulations are amended in accordance with Schedule 2.
 
-## 6. Modifications applying whilst the Civil Partnership Act 2004 is not in force[^key-2afb3c12893d78b61b8058f8ef5b61c2]
+## 6. Modifications applying whilst the Civil Partnership Act 2004 is not in force[^c-2afb3c12893d78b61b8058f8ef5b61c2]
 
 During such times as section 1 of the Civil Partnership Act 2004[^f00005] is not in force, the amendments to the principal Regulations made by regulation 5 and Schedule 2 shall not have effect.
 
@@ -69,7 +69,7 @@ A senior officer of the
 
 Department for Employment and Learning
 
-## SCHEDULE 1 — Revocations[^key-c9d3f7bf772c6d341e2e1046b9cd14af]
+## SCHEDULE 1 — Revocations[^c-c9d3f7bf772c6d341e2e1046b9cd14af]
 
 Regulation 3
 
@@ -86,9 +86,9 @@ Regulation 3
 
 Regulation 5
 
-**1.**[^key-42d5667421caf5d2700a5a8f8e8aa85e] In regulation 3(4) after “his spouse”, insert “or civil partner”.
+**1.**[^c-42d5667421caf5d2700a5a8f8e8aa85e] In regulation 3(4) after “his spouse”, insert “or civil partner”.
 
-**2.**[^key-075f2b3c718cdc5166130b286d34c505] In Schedule 1—
+**2.**[^c-075f2b3c718cdc5166130b286d34c505] In Schedule 1—
 
 - (a) in paragraph 2 after “spouse,”, insert “civil partner,”;
 - (b) in paragraph 3 after “spouse” in both places it occurs, insert “, civil partner”; and
@@ -112,26 +112,26 @@ These Regulations also revoke the Education (Student Loans) (Amendment) Regulati
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), Article 5(b) and Schedule 3 Part II
 
-[^key-faac601476eb542ee720668b388bcc56]: Commencement: Reg. 1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
+[^c-faac601476eb542ee720668b388bcc56]: Commencement: Reg. 1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
 
-[^key-0989e1d48b437ff1111dc22f4f3b264b]: Commencement: Reg. 2 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
+[^c-0989e1d48b437ff1111dc22f4f3b264b]: Commencement: Reg. 2 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1998 No. 58](https://www.legislation.gov.uk/nisr/1998/58) as amended by [S.R. 1998 No. 262](https://www.legislation.gov.uk/nisr/1998/262), [S.R. 1998 No. 303](https://www.legislation.gov.uk/nisr/1998/303), [S.R. 1999 No. 343](https://www.legislation.gov.uk/nisr/1999/343), [S.R. 2000 No. 244](https://www.legislation.gov.uk/nisr/2000/244), [S.R. 2001 No. 276](https://www.legislation.gov.uk/nisr/2001/276), [S.R. 2002 No. 241](https://www.legislation.gov.uk/nisr/2002/241), [S.R. 2003 No. 340](https://www.legislation.gov.uk/nisr/2003/340) and [S.R. 2004 No. 305](https://www.legislation.gov.uk/nisr/2004/305)
 
-[^key-2b0bf01436ed108b1e27361770a1951f]: Commencement: Reg. 3 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
+[^c-2b0bf01436ed108b1e27361770a1951f]: Commencement: Reg. 3 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
 
-[^key-f3c902f0446927185380987c7da9b5f3]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/351/regulation/4) revoked (1.8.2006) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/307)](https://www.legislation.gov.uk/nisr/2006/307), [regs. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1), [3](https://www.legislation.gov.uk/nisr/2006/307/regulation/3)
+[^c-f3c902f0446927185380987c7da9b5f3]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/351/regulation/4) revoked (1.8.2006) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/307)](https://www.legislation.gov.uk/nisr/2006/307), [regs. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1), [3](https://www.legislation.gov.uk/nisr/2006/307/regulation/3)
 
-[^key-97d9477c8ddb11876dc4834001e9335c]: Commencement: Reg. 4 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
+[^c-97d9477c8ddb11876dc4834001e9335c]: Commencement: Reg. 4 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
 
-[^key-0cd7b17a3f8211005840f36279370b47]: Commencement: Reg. 5 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
+[^c-0cd7b17a3f8211005840f36279370b47]: Commencement: Reg. 5 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
 
-[^key-2afb3c12893d78b61b8058f8ef5b61c2]: Commencement: Reg. 6 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
+[^c-2afb3c12893d78b61b8058f8ef5b61c2]: Commencement: Reg. 6 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
 
 [^f00005]: Footnote: [c.36](https://www.legislation.gov.uk/ukpga/2004/36)
 
-[^key-c9d3f7bf772c6d341e2e1046b9cd14af]: Commencement: Sch. 1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
+[^c-c9d3f7bf772c6d341e2e1046b9cd14af]: Commencement: Sch. 1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
 
-[^key-42d5667421caf5d2700a5a8f8e8aa85e]: Commencement: Sch. 2 para. 1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
+[^c-42d5667421caf5d2700a5a8f8e8aa85e]: Commencement: Sch. 2 para. 1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
 
-[^key-075f2b3c718cdc5166130b286d34c505]: Commencement: Sch. 2 para. 2 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)
+[^c-075f2b3c718cdc5166130b286d34c505]: Commencement: Sch. 2 para. 2 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/351/regulation/1)

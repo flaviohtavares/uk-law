@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Amendment of section 31B(6) of the Act[^key-d06619d20b4d3186807f7a9e6e23f912]
+## 11. Amendment of section 31B(6) of the Act[^c-d06619d20b4d3186807f7a9e6e23f912]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d06619d20b4d3186807f7a9e6e23f912]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1989/1321/regulation/11) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-d06619d20b4d3186807f7a9e6e23f912]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1989/1321/regulation/11) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
 [^f00043]: Footnote: Sections 22A, 22B and 31B were inserted in the Act by the Local Government Finance Act [1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41) Schedule 10 paragraphs 5 and 6; section 22B was amended by the Social Security Act [1989 (c. 24)](https://www.legislation.gov.uk/ukpga/1989/24) Schedule 8 paragraph 9.

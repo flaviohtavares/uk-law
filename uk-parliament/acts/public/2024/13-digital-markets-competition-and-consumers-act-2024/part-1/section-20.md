@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Permitted types of conduct requirement[^key-28da241cda68a60db4b5547218fec924][^key-cc42fffa8c640a7ec5f282dadf9c8eb2]
+## 20. Permitted types of conduct requirement[^c-28da241cda68a60db4b5547218fec924][^c-cc42fffa8c640a7ec5f282dadf9c8eb2]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28da241cda68a60db4b5547218fec924]: Commencement: S. 20 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-28da241cda68a60db4b5547218fec924]: Commencement: S. 20 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-cc42fffa8c640a7ec5f282dadf9c8eb2]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2024/13/section/20) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-cc42fffa8c640a7ec5f282dadf9c8eb2]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2024/13/section/20) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

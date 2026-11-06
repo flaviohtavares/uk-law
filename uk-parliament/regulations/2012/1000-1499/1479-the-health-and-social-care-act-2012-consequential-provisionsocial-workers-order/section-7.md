@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Amendment of the Health Professions Council (Conduct and Competence Committee) (Procedure) Rules Order of Council 2003[^key-e5e5597a94b47b957c375b7aae3d20f2]
+## 7. Amendment of the Health Professions Council (Conduct and Competence Committee) (Procedure) Rules Order of Council 2003[^c-e5e5597a94b47b957c375b7aae3d20f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5e5597a94b47b957c375b7aae3d20f2]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1479/article/7) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
+[^c-e5e5597a94b47b957c375b7aae3d20f2]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/1479/article/7) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
 
 [^f00008]: Footnote: [S.I. 2003/1575](https://www.legislation.gov.uk/uksi/2003/1575); relevant amending instruments are [S.I. 2005/1625](https://www.legislation.gov.uk/uksi/2005/1625), [1182](https://www.legislation.gov.uk/uksi/2005/1182) and [1355](https://www.legislation.gov.uk/uksi/2005/1355). [S.I. 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182) inserted new sub-paragraphs (da) and (db) into rule 10(1), but the amendment was to come into force on the coming into force of section 44(1) of the Safeguarding Vulnerable Groups Act [2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47). That provision has never come into force and is to be repealed by section 75(6) of the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Police facilities and services[^key-d1fffd3aed5fefd6a740c4f0afb03216]
+## 13. Police facilities and services[^c-d1fffd3aed5fefd6a740c4f0afb03216]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 57(3) of the Police Act 1996 (regulations requiring police forces to 
 
 ## Annotations
 
-[^key-d1fffd3aed5fefd6a740c4f0afb03216]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2009/26/section/13) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/125/article/2/d)
+[^c-d1fffd3aed5fefd6a740c4f0afb03216]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2009/26/section/13) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(d)](https://www.legislation.gov.uk/uksi/2010/125/article/2/d)

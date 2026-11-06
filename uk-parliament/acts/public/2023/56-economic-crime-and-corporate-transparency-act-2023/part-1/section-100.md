@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Registered addresses of an overseas company[^key-9c8429d00cac568fef145e14176c6725]
+## 100. Registered addresses of an overseas company[^c-9c8429d00cac568fef145e14176c6725]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c8429d00cac568fef145e14176c6725]: Commencement: S. 100 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-9c8429d00cac568fef145e14176c6725]: Commencement: S. 100 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

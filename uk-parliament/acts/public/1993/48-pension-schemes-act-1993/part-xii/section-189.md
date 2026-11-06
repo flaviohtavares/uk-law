@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Transitional provisions and savings.[^key-a29cc119301bcc2d4497bdcb61308cd7]
+## 189. Transitional provisions and savings.[^c-a29cc119301bcc2d4497bdcb61308cd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a29cc119301bcc2d4497bdcb61308cd7]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/1993/48/section/189) in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-a29cc119301bcc2d4497bdcb61308cd7]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/1993/48/section/189) in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
 [^c21361611]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).

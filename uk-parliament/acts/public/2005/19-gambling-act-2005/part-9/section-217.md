@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217. Effect of notice[^key-78a260363b999da6d3d47763a5a1fb56]
+## 217. Effect of notice[^c-78a260363b999da6d3d47763a5a1fb56]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A temporary use notice shall, subject to the provisions of this Part and provide
 
 ## Annotations
 
-[^key-78a260363b999da6d3d47763a5a1fb56]: Commencement: [S. 217](https://www.legislation.gov.uk/ukpga/2005/19/section/217) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-78a260363b999da6d3d47763a5a1fb56]: Commencement: [S. 217](https://www.legislation.gov.uk/ukpga/2005/19/section/217) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

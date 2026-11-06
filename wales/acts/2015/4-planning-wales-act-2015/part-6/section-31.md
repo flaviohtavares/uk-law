@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Welsh language[^c22542871][^key-0890db6666af06cd8bf29544ee75f4fd]
+## 31. Welsh language[^c22542871][^c-0890db6666af06cd8bf29544ee75f4fd]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c22542871]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2015/4/section/31) partly in force; [s. 31](https://www.legislation.gov.uk/anaw/2015/4/section/31) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-0890db6666af06cd8bf29544ee75f4fd]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2015/4/section/31) in force at 4.1.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1987/article/3/e)
+[^c-0890db6666af06cd8bf29544ee75f4fd]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2015/4/section/31) in force at 4.1.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1987/article/3/e)

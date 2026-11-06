@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Penalty for sitting or voting where no return and declarations are delivered etc.[^key-182ccca3073ad281a5123d80e8794ddb]
+## 59. Penalty for sitting or voting where no return and declarations are delivered etc.[^c-182ccca3073ad281a5123d80e8794ddb]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-182ccca3073ad281a5123d80e8794ddb]: Commencement: Art. 59 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-182ccca3073ad281a5123d80e8794ddb]: Commencement: Art. 59 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

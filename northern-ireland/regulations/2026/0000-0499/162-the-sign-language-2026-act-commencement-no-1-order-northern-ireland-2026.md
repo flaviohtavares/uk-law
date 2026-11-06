@@ -37,11 +37,11 @@ Made
 
 The Department for Communities [^f00001], in exercise of the powers conferred by section 15 of the Sign Language Act (Northern Ireland) 2026[^f00002], makes the following Order.
 
-## 1. Citation[^key-ba7913b6e218d83c52bec867314e9274]
+## 1. Citation[^c-ba7913b6e218d83c52bec867314e9274]
 
 This Order may be cited as the Sign Language (2026 Act) (Commencement No.1) Order (Northern Ireland) 2026.
 
-## 2. Appointed Day[^key-096c2058a7c3cf7cfaa8eb9dfd058495]
+## 2. Appointed Day[^c-096c2058a7c3cf7cfaa8eb9dfd058495]
 
 The appointed day for the coming into operation of the following sections of the Sign Language Act (Northern Ireland) 2026 is 23rd September 2026-
 
@@ -93,6 +93,6 @@ This Order brings into operation on 23rd September 2026 the following provisions
 
 [^f00002]: Footnote: [2026 c.7 (N.I.)](https://www.legislation.gov.uk/nia/2026/7)
 
-[^key-ba7913b6e218d83c52bec867314e9274]: Commencement: Art. 1 in operation at made date
+[^c-ba7913b6e218d83c52bec867314e9274]: Commencement: Art. 1 in operation at made date
 
-[^key-096c2058a7c3cf7cfaa8eb9dfd058495]: Commencement: Art. 2 in operation at made date
+[^c-096c2058a7c3cf7cfaa8eb9dfd058495]: Commencement: Art. 2 in operation at made date

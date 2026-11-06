@@ -35,7 +35,7 @@ An Act to make new provision with respect to the pensions payable to or in respe
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Pensions of Prime Minister, Speaker and Lord Chancellor.[^key-2eddc86aab1a64a4febe58b5cbcd0845]
+## 1. Pensions of Prime Minister, Speaker and Lord Chancellor.[^c-2eddc86aab1a64a4febe58b5cbcd0845]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -47,7 +47,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## 3. Lord Chancellor’s salary.
 
-(1)[^key-ad3e3513a4ad061abb7f3743effb7989] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ad3e3513a4ad061abb7f3743effb7989] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In subsection (4) of that section (power to increase salaries by Order in Council subject to affirmative procedure) for the words “by subsection (2) or (3) above” there shall be substituted the words “ by subsection (2) above as the annual amount by which the salary is to exceed that of the Lord Chief Justice or by subsection (3) above ”.
 
@@ -60,11 +60,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 he shall be entitled to a payment under this section.
 
-(2)[^key-4d5845bdfc5f4a2c8afd2d1595bfb894] Subject to subsection (3) below, the amount of the payment to which a person who has ceased to hold a relevant office is entitled under this section is an amount equal to one-quarter of the annual amount of the salary which was being paid to that person in respect of that office immediately before the material time.
+(2)[^c-4d5845bdfc5f4a2c8afd2d1595bfb894] Subject to subsection (3) below, the amount of the payment to which a person who has ceased to hold a relevant office is entitled under this section is an amount equal to one-quarter of the annual amount of the salary which was being paid to that person in respect of that office immediately before the material time.
 
-(3)[^key-1be3e362ee1bc061633be7c447ec5e72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1be3e362ee1bc061633be7c447ec5e72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-fb6cd64c0392283ca6df5fe1d70d0d3e] The annual amount of the salary paid to a person in respect of the office of Chairman of Ways and Means or Deputy Chairman of Ways and Means is the difference between—
+(3A)[^c-fb6cd64c0392283ca6df5fe1d70d0d3e] The annual amount of the salary paid to a person in respect of the office of Chairman of Ways and Means or Deputy Chairman of Ways and Means is the difference between—
 
 - (a) the annual amount of the salary payable under section 4 of the Parliamentary Standards Act 2009 to a person holding that office, and
 - (b) the annual amount of the salary payable under that section to a member of the House of Commons who does not hold an office or position specified in a resolution of that House for the purposes of section 4A(2) of that Act (higher salaries for holders of specified offices or positions).
@@ -75,15 +75,15 @@ he shall be entitled to a payment under this section.
 
 (6) In this section “**a relevant office**” means—
 
-- (a) any office[^key-bb28a1c79ef8af0465f5e180990291aa]... in respect of which a salary is payable in accordance with Schedule 1 to the Ministerial and other Salaries Act 1975 (ministerial salaries);
+- (a) any office[^c-bb28a1c79ef8af0465f5e180990291aa]... in respect of which a salary is payable in accordance with Schedule 1 to the Ministerial and other Salaries Act 1975 (ministerial salaries);
 - (b) any position in respect of which a salary is payable in accordance with Schedule 2 to that Act (Opposition Leaders and Whips);
 - (ba)[^c2011498] the office of Speaker of the House of Lords;
-- (bb)[^key-2db19fbc1da78fe3680b9c225a444f28] the office of Lord Chancellor;
+- (bb)[^c-2db19fbc1da78fe3680b9c225a444f28] the office of Lord Chancellor;
 - (bc) the office of Speaker of the House of Commons;
 - (c)[^c2011498] the office of Chairman of Ways and Means and any office of Deputy Chairman of Ways and Means in respect of which a salary is payable out of money provided by Parliament; and
 - (d) the office of Chairman of Committees of the House of Lords and any office of Deputy Chairman of Committees of the House of Lords in respect of which a salary is payable out of such money.
 
-(7)[^key-39137863a472844792df5b42804f4127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-39137863a472844792df5b42804f4127] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Where a person ceases on a dissolution of Parliament to hold any such position as is mentioned in subsection (6)(b) above, subsection (1)(b) above shall have effect in relation to his ceasing to hold that position on the dissolution as if for the words “three weeks” there were substituted the words “ six weeks ”.
 
@@ -95,8 +95,8 @@ he shall be entitled to a payment under this section.
 
 (1) An allowance shall be payable under this section to—
 
-- (a)[^key-d36c4f88daa496d8969aa4c924d72d4b] any member of the House of Lords who holds an office in respect of which a salary is payable in accordance with Schedule 1 to the [^c932218]Ministerial and other Salaries Act 1975 (ministerial salaries);
-- (b)[^key-fcf23e4a9bdd573ab8be8063ff441b2d] any member of that House who holds a position in respect of which a salary is payable in accordance with Schedule 2 to that Act (Leader of Opposition and Chief Opposition Whip); [^c2011507]...
+- (a)[^c-d36c4f88daa496d8969aa4c924d72d4b] any member of the House of Lords who holds an office in respect of which a salary is payable in accordance with Schedule 1 to the [^c932218]Ministerial and other Salaries Act 1975 (ministerial salaries);
+- (b)[^c-fcf23e4a9bdd573ab8be8063ff441b2d] any member of that House who holds a position in respect of which a salary is payable in accordance with Schedule 2 to that Act (Leader of Opposition and Chief Opposition Whip); [^c2011507]...
 - (ba)[^c2011509] the Speaker of the House of Lords; and
 - (c)[^c2011509] the Chairman of Committees and Principal Deputy Chairman of Committees of that House.
 
@@ -109,19 +109,19 @@ he shall be entitled to a payment under this section.
 
 (4) The allowance payable under this section to the holder of an office shall not be regarded as part of his salary in respect of that office for pension purposes or for the purposes of section 4 above.
 
-## 6. Exchequer contributions to Parliamentary Contributory Pension Fund.[^key-b3483f901eee53a85e821aea1f7f0229]
+## 6. Exchequer contributions to Parliamentary Contributory Pension Fund.[^c-b3483f901eee53a85e821aea1f7f0229]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. House of Commons Members’ Fund.[^key-62f339bb4827db6e11a5b569f2663ec4]
+## 7. House of Commons Members’ Fund.[^c-62f339bb4827db6e11a5b569f2663ec4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 8. Financial provisions.
 
-(1)[^key-e873743799605175c46c2aed0b0fceea] A payment under section 4 above to a person who has ceased to hold a relevant office shall be made out of money provided by Parliament or charged on and paid out of the Consolidated Fund according as the salary payable in respect of that office is payable out of such money or charged on and paid out of that Fund.
+(1)[^c-e873743799605175c46c2aed0b0fceea] A payment under section 4 above to a person who has ceased to hold a relevant office shall be made out of money provided by Parliament or charged on and paid out of the Consolidated Fund according as the salary payable in respect of that office is payable out of such money or charged on and paid out of that Fund.
 
-(2)[^key-fcc5d4a61b632fd120734ab4aea8cf46] The allowance payable under section 5 above to a person within paragraph (a) or (c) of subsection (1) of that section shall be paid out of money provided by Parliament and the allowance payable under that section to a person within paragraph (b) of that subsection shall be charged on and paid out of the Consolidated Fund.
+(2)[^c-fcc5d4a61b632fd120734ab4aea8cf46] The allowance payable under section 5 above to a person within paragraph (a) or (c) of subsection (1) of that section shall be paid out of money provided by Parliament and the allowance payable under that section to a person within paragraph (b) of that subsection shall be charged on and paid out of the Consolidated Fund.
 
 (3) There shall be charged on and paid out of the Consolidated Fund or, as the case may be, paid out of money provided by Parliament any increase attributable to this Act in the sums charged on and payable out of that Fund or payable out of such money under any other Act.
 
@@ -133,25 +133,25 @@ he shall be entitled to a payment under this section.
 
 ## Annotations
 
-[^key-2eddc86aab1a64a4febe58b5cbcd0845]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1991/5/section/1) repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-2eddc86aab1a64a4febe58b5cbcd0845]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1991/5/section/1) repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
 
 [^c932211]: Marginal citation: [1987 c. 45](https://www.legislation.gov.uk/ukpga/1987/45).
 
-[^key-ad3e3513a4ad061abb7f3743effb7989]: Textual amendment: [S. 3(1)](https://www.legislation.gov.uk/ukpga/1991/5/section/3/1) repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-ad3e3513a4ad061abb7f3743effb7989]: Textual amendment: [S. 3(1)](https://www.legislation.gov.uk/ukpga/1991/5/section/3/1) repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
 
-[^key-4d5845bdfc5f4a2c8afd2d1595bfb894]: Modification: [S. 4(2)](https://www.legislation.gov.uk/ukpga/1991/5/section/4/2) modified (1.3.2021) by [Ministerial and other Maternity Allowances Act 2021 (c. 5)](https://www.legislation.gov.uk/ukpga/2021/5), [ss. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2021/5/section/3/4/b), [7(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/7/2)
+[^c-4d5845bdfc5f4a2c8afd2d1595bfb894]: Modification: [S. 4(2)](https://www.legislation.gov.uk/ukpga/1991/5/section/4/2) modified (1.3.2021) by [Ministerial and other Maternity Allowances Act 2021 (c. 5)](https://www.legislation.gov.uk/ukpga/2021/5), [ss. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2021/5/section/3/4/b), [7(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/7/2)
 
-[^key-1be3e362ee1bc061633be7c447ec5e72]: Textual amendment: S. 4(3) omitted (24.5.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25) , [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52) , [Sch. 5 para. 10(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/10/a) ; [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274) , [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/b)
+[^c-1be3e362ee1bc061633be7c447ec5e72]: Textual amendment: S. 4(3) omitted (24.5.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25) , [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52) , [Sch. 5 para. 10(a)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/10/a) ; [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274) , [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/b)
 
-[^key-fb6cd64c0392283ca6df5fe1d70d0d3e]: Textual amendment: S. 4(3A) inserted (24.5.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25) , [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52) , [Sch. 5 para. 10(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/10/b) ; [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274) , [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/b)
+[^c-fb6cd64c0392283ca6df5fe1d70d0d3e]: Textual amendment: S. 4(3A) inserted (24.5.2011) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25) , [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52) , [Sch. 5 para. 10(b)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/10/b) ; [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274) , [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/b)
 
-[^key-bb28a1c79ef8af0465f5e180990291aa]: Textual amendment: Words in s. 4(6)(a) repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25) , [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b) , [Sch. 11 para. 2(a)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/2/a) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8) )
+[^c-bb28a1c79ef8af0465f5e180990291aa]: Textual amendment: Words in s. 4(6)(a) repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25) , [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b) , [Sch. 11 para. 2(a)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/2/a) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8) )
 
 [^c2011498]: Textual amendment: S. 4(6)(ba) inserted by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No. 3) Order 2006 (S.I. 2006/1640)](https://www.legislation.gov.uk/uksi/2006/1640), [art. 4](https://www.legislation.gov.uk/uksi/2006/1640/article/4), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2006/1640/schedule/2/paragraph/7) (with saving in [art. 2](https://www.legislation.gov.uk/uksi/2006/1640/article/2)) (the amendment coming into force on the day after the day on which the Lord Chancellor ceased to hold the office of Speaker of the House of Lords in accordance with art. 1 of the amending S.I.)
 
-[^key-2db19fbc1da78fe3680b9c225a444f28]: Textual amendment: [S. 4(6)(bb)(bc)](https://www.legislation.gov.uk/ukpga/1991/5/section/4/6/bb) inserted (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 2(b)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/2/b) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-2db19fbc1da78fe3680b9c225a444f28]: Textual amendment: [S. 4(6)(bb)(bc)](https://www.legislation.gov.uk/ukpga/1991/5/section/4/6/bb) inserted (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 2(b)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/2/b) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
 
-[^key-39137863a472844792df5b42804f4127]: Textual amendment: S. 4(7) omitted (24.5.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25) , [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52) , [Sch. 5 para. 10(c)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/10/c) ; [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274) , [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/b)
+[^c-39137863a472844792df5b42804f4127]: Textual amendment: S. 4(7) omitted (24.5.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25) , [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52) , [Sch. 5 para. 10(c)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/5/paragraph/10/c) ; [S.I. 2011/1274](https://www.legislation.gov.uk/uksi/2011/1274) , [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1274/article/2/b)
 
 [^c932215]: Marginal citation: [1984 c. 52](https://www.legislation.gov.uk/ukpga/1984/52) .
 
@@ -159,20 +159,20 @@ he shall be entitled to a payment under this section.
 
 [^c932217]: Modification: S. 5 amended by [S.I. 1991/772](https://www.legislation.gov.uk/uksi/1991/772), [art. 2](https://www.legislation.gov.uk/uksi/1991/772/article/2)
 
-[^key-d36c4f88daa496d8969aa4c924d72d4b]: Modification: [S. 5(1)(a)](https://www.legislation.gov.uk/ukpga/1991/5/section/5/1/a) excluded (1.3.2021) by [Ministerial and other Maternity Allowances Act 2021 (c. 5)](https://www.legislation.gov.uk/ukpga/2021/5), [ss. 3(5)](https://www.legislation.gov.uk/ukpga/2021/5/section/3/5), [7(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/7/2)
+[^c-d36c4f88daa496d8969aa4c924d72d4b]: Modification: [S. 5(1)(a)](https://www.legislation.gov.uk/ukpga/1991/5/section/5/1/a) excluded (1.3.2021) by [Ministerial and other Maternity Allowances Act 2021 (c. 5)](https://www.legislation.gov.uk/ukpga/2021/5), [ss. 3(5)](https://www.legislation.gov.uk/ukpga/2021/5/section/3/5), [7(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/7/2)
 
 [^c932218]: Marginal citation: [1975 c. 27](https://www.legislation.gov.uk/ukpga/1975/27).
 
-[^key-fcf23e4a9bdd573ab8be8063ff441b2d]: Modification: [S. 5(1)(b)](https://www.legislation.gov.uk/ukpga/1991/5/section/5/1/b) modified (1.3.2021) by [Ministerial and other Maternity Allowances Act 2021 (c. 5)](https://www.legislation.gov.uk/ukpga/2021/5), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2021/5/section/6/1), [7(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/7/2)
+[^c-fcf23e4a9bdd573ab8be8063ff441b2d]: Modification: [S. 5(1)(b)](https://www.legislation.gov.uk/ukpga/1991/5/section/5/1/b) modified (1.3.2021) by [Ministerial and other Maternity Allowances Act 2021 (c. 5)](https://www.legislation.gov.uk/ukpga/2021/5), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2021/5/section/6/1), [7(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/7/2)
 
 [^c2011507]: Textual amendment: Word in [s. 5(1)(b)](https://www.legislation.gov.uk/ukpga/1991/5/section/5/1/b) omitted by virtue of [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No. 3) Order 2006 (S.I. 2006/1640)](https://www.legislation.gov.uk/uksi/2006/1640), [art. 4](https://www.legislation.gov.uk/uksi/2006/1640/article/4), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/uksi/2006/1640/schedule/2/paragraph/8/a) (with saving in [art. 2](https://www.legislation.gov.uk/uksi/2006/1640/article/2)) (the omission coming into force on the day after the day on which the Lord Chancellor ceased to hold the office of Speaker of the House of Lords in accordance with art. 1 of the omitting S.I.)
 
 [^c2011509]: Textual amendment: [S. 5(1)(ba)](https://www.legislation.gov.uk/ukpga/1991/5/section/5/1/ba) inserted by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No. 3) Order 2006 (S.I. 2006/1640)](https://www.legislation.gov.uk/uksi/2006/1640), [art. 4](https://www.legislation.gov.uk/uksi/2006/1640/article/4), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/uksi/2006/1640/schedule/2/paragraph/8/b) (with saving in [art. 2](https://www.legislation.gov.uk/uksi/2006/1640/article/2)) (the amendment coming into force on the day after the day on which the Lord Chancellor ceased to hold the office of Speaker of the House of Lords in accordance with art. 1 of the amending S.I.)
 
-[^key-b3483f901eee53a85e821aea1f7f0229]: Textual amendment: S. 6 omitted (24.10.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 45](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/45); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)
+[^c-b3483f901eee53a85e821aea1f7f0229]: Textual amendment: S. 6 omitted (24.10.2011) by virtue of [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [s. 52](https://www.legislation.gov.uk/ukpga/2010/25/section/52), [Sch. 6 para. 45](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/45); [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)
 
-[^key-62f339bb4827db6e11a5b569f2663ec4]: Textual amendment: S. 7 repealed (12.8.2016) by [House of Commons Members' Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [ss. 9(g)](https://www.legislation.gov.uk/ukpga/2016/18/section/9/g), [10](https://www.legislation.gov.uk/ukpga/2016/18/section/10)
+[^c-62f339bb4827db6e11a5b569f2663ec4]: Textual amendment: S. 7 repealed (12.8.2016) by [House of Commons Members' Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [ss. 9(g)](https://www.legislation.gov.uk/ukpga/2016/18/section/9/g), [10](https://www.legislation.gov.uk/ukpga/2016/18/section/10)
 
-[^key-e873743799605175c46c2aed0b0fceea]: Modification: [S. 8(1)](https://www.legislation.gov.uk/ukpga/1991/5/section/8/1) modified (1.3.2021) by [Ministerial and other Maternity Allowances Act 2021 (c. 5)](https://www.legislation.gov.uk/ukpga/2021/5), [ss. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2021/5/section/3/4/b), [7(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/7/2)
+[^c-e873743799605175c46c2aed0b0fceea]: Modification: [S. 8(1)](https://www.legislation.gov.uk/ukpga/1991/5/section/8/1) modified (1.3.2021) by [Ministerial and other Maternity Allowances Act 2021 (c. 5)](https://www.legislation.gov.uk/ukpga/2021/5), [ss. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2021/5/section/3/4/b), [7(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/7/2)
 
-[^key-fcc5d4a61b632fd120734ab4aea8cf46]: Modification: [S. 8(2)](https://www.legislation.gov.uk/ukpga/1991/5/section/8/2) applied (1.3.2021) by [Ministerial and other Maternity Allowances Act 2021 (c. 5)](https://www.legislation.gov.uk/ukpga/2021/5), [ss. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2021/5/section/6/1/b), [7(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/7/2)
+[^c-fcc5d4a61b632fd120734ab4aea8cf46]: Modification: [S. 8(2)](https://www.legislation.gov.uk/ukpga/1991/5/section/8/2) applied (1.3.2021) by [Ministerial and other Maternity Allowances Act 2021 (c. 5)](https://www.legislation.gov.uk/ukpga/2021/5), [ss. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2021/5/section/6/1/b), [7(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/7/2)

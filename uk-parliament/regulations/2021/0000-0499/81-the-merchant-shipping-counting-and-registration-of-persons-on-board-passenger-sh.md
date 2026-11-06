@@ -50,11 +50,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 86(4) of that Act, the Secretary of State has consulted such persons as the Secretary of State considers will be affected by these Regulations.
 
-## 1. Citation and commencement[^key-855d30c360a13c8a4886dd66c634ed2c]
+## 1. Citation and commencement[^c-855d30c360a13c8a4886dd66c634ed2c]
 
 These Regulations may be cited as the Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) (Amendment) Regulations 2021 and come into force on 22nd February 2021.
 
-## 2. Amendment of Regulations[^key-4ef24cab764284f3b0b8e53b37e9ad4a]
+## 2. Amendment of Regulations[^c-4ef24cab764284f3b0b8e53b37e9ad4a]
 
 (1) The Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) Regulations 1999[^f00002] are amended as follows.
 
@@ -181,7 +181,7 @@ These Regulations may be cited as the Merchant Shipping (Counting and Registrati
 
   .
 
-## 3. Review[^key-6070c5fb622e91fdd7494192b9482ef5]
+## 3. Review[^c-6070c5fb622e91fdd7494192b9482ef5]
 
 (1) The Secretary of State must from time to time—
 
@@ -192,7 +192,7 @@ These Regulations may be cited as the Merchant Shipping (Counting and Registrati
 
 (3) Subsequent reports must be published at intervals not exceeding 5 years.
 
-(4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015[^f00006] requires that a review carried out under this regulation must, so far as is reasonable, have regard to how the obligations under regulation 27 of Part B of Chapter III in the Annex to the International Convention for the Safety of Life at Sea, 1974 are implemented in other countries which are subject to those obligations.[^key-61ddd3700efe130efbc4c2612561b3a1]
+(4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015[^f00006] requires that a review carried out under this regulation must, so far as is reasonable, have regard to how the obligations under regulation 27 of Part B of Chapter III in the Annex to the International Convention for the Safety of Life at Sea, 1974 are implemented in other countries which are subject to those obligations.[^c-61ddd3700efe130efbc4c2612561b3a1]
 
 (5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
 
@@ -237,9 +237,9 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00001]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21) Sections 85 and 86 were amended by the Merchant Shipping Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), sections 8 and 29(2) and Schedule 7, Part 1. Section 85 was amended by the British Overseas Territories Act [2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8). section 2(3). There are other amendments to section 85 which are not relevant to these Regulations.
 
-[^key-855d30c360a13c8a4886dd66c634ed2c]: Commencement: Reg. 1 in force at 22.2.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/81/regulation/1)
+[^c-855d30c360a13c8a4886dd66c634ed2c]: Commencement: Reg. 1 in force at 22.2.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/81/regulation/1)
 
-[^key-4ef24cab764284f3b0b8e53b37e9ad4a]: Commencement: Reg. 2 in force at 22.2.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/81/regulation/1)
+[^c-4ef24cab764284f3b0b8e53b37e9ad4a]: Commencement: Reg. 2 in force at 22.2.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/81/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1999/1869](https://www.legislation.gov.uk/uksi/1999/1869), amended by [S.I. 2010/680](https://www.legislation.gov.uk/uksi/2010/680), [2010/1075](https://www.legislation.gov.uk/uksi/2010/1075), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [2019/649](https://www.legislation.gov.uk/uksi/2019/649).
 
@@ -249,8 +249,8 @@ An Explanatory Memorandum is published alongside this instrument at www.legislat
 
 [^f00005]: Footnote: [S.I. 2020/501](https://www.legislation.gov.uk/uksi/2020/501).
 
-[^key-6070c5fb622e91fdd7494192b9482ef5]: Commencement: Reg. 3 in force at 22.2.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/81/regulation/1)
+[^c-6070c5fb622e91fdd7494192b9482ef5]: Commencement: Reg. 3 in force at 22.2.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/81/regulation/1)
 
 [^f00006]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), and Schedule 8, Part 2 paragraph 36 of the European Union (Withdrawal) Act [2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-61ddd3700efe130efbc4c2612561b3a1]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2021/81/regulation/3/4) substituted (10.8.2023) by [The Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) (Amendment) Regulations 2023 (S.I. 2023/787)](https://www.legislation.gov.uk/uksi/2023/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/787/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/787/regulation/3)
+[^c-61ddd3700efe130efbc4c2612561b3a1]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/2021/81/regulation/3/4) substituted (10.8.2023) by [The Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) (Amendment) Regulations 2023 (S.I. 2023/787)](https://www.legislation.gov.uk/uksi/2023/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/787/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/787/regulation/3)

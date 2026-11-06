@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27J (Extent: W.). Orders dissolving a group of communities (Extent: W.)[^key-3a8b2feef40892a0788d380e05ad377f]
+## 27J (Extent: W.). Orders dissolving a group of communities (Extent: W.)[^c-3a8b2feef40892a0788d380e05ad377f]
 
 *Extent: E+W.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a8b2feef40892a0788d380e05ad377f]: Textual amendment: S. 27J inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 110](https://www.legislation.gov.uk/mwa/2011/4/section/110), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))
+[^c-3a8b2feef40892a0788d380e05ad377f]: Textual amendment: S. 27J inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 110](https://www.legislation.gov.uk/mwa/2011/4/section/110), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))

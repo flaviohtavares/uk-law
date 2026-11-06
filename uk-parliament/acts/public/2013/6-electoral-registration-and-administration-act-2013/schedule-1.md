@@ -22,7 +22,7 @@ summary: ''
 
 Section 1
 
-**1.**[^key-83df483dde01266db563312e2cc19bcf][^key-a72c5fba204b45078f318cb9ef138cb3] After section 10ZC of the Representation of the People Act 1983 insert—
+**1.**[^c-83df483dde01266db563312e2cc19bcf][^c-a72c5fba204b45078f318cb9ef138cb3] After section 10ZC of the Representation of the People Act 1983 insert—
 
 > **10ZD. Registration of electors in Great Britain: alterations**
 >
@@ -67,26 +67,26 @@ Section 1
 >
 > (8) In this section “**resident**” means resident for the purposes of section 4.
 
-**2.**[^key-effc4cbb0f1fcdb3c7dc412e65abc7cd][^key-269abe312d7f94256dda2b7af6db9f6e] (1) Registration officers in Great Britain must have regard to any guidance given by the Minister about the determination of applications under section 10ZD of the Representation of the People Act 1983. *(affected by repeal, see note)*[^key-4424e7c76a928a9addfdb29e1b106d1a]
+**2.**[^c-effc4cbb0f1fcdb3c7dc412e65abc7cd][^c-269abe312d7f94256dda2b7af6db9f6e] (1) Registration officers in Great Britain must have regard to any guidance given by the Minister about the determination of applications under section 10ZD of the Representation of the People Act 1983. *(affected by repeal, see note)*[^c-4424e7c76a928a9addfdb29e1b106d1a]
 
-(2) The guidance that may be given includes guidance about the process for determining whether the conditions in subsection (1) of that section are met and the relative weight to be given to different kinds of evidence. *(affected by repeal, see note)*[^key-4424e7c76a928a9addfdb29e1b106d1a]
+(2) The guidance that may be given includes guidance about the process for determining whether the conditions in subsection (1) of that section are met and the relative weight to be given to different kinds of evidence. *(affected by repeal, see note)*[^c-4424e7c76a928a9addfdb29e1b106d1a]
 
 (3) Sub-paragraphs (1) and (2) cease to have effect at the end of the period of 5 years beginning with the day on which they come fully into force.
 
-**3.**[^key-97ccf2431fbb8656627c904566c23e00][^key-7d098a026786e5a9e9379566d79195a5] In section 13A(1)(d) of the Representation of the People Act 1983 (alteration of registers to correct clerical errors), at the end insert “ or, in the case of a registration officer in Great Britain, determines that the register contains any information that is incorrect. ”
+**3.**[^c-97ccf2431fbb8656627c904566c23e00][^c-7d098a026786e5a9e9379566d79195a5] In section 13A(1)(d) of the Representation of the People Act 1983 (alteration of registers to correct clerical errors), at the end insert “ or, in the case of a registration officer in Great Britain, determines that the register contains any information that is incorrect. ”
 
 ## Annotations
 
-[^key-83df483dde01266db563312e2cc19bcf]: Commencement: Sch. 1 para. 1 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(k)](https://www.legislation.gov.uk/uksi/2014/414/article/5/k)
+[^c-83df483dde01266db563312e2cc19bcf]: Commencement: Sch. 1 para. 1 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(k)](https://www.legislation.gov.uk/uksi/2014/414/article/5/k)
 
-[^key-a72c5fba204b45078f318cb9ef138cb3]: Commencement: Sch. 1 para. 1 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(j)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/j)
+[^c-a72c5fba204b45078f318cb9ef138cb3]: Commencement: Sch. 1 para. 1 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(j)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/j)
 
-[^key-effc4cbb0f1fcdb3c7dc412e65abc7cd]: Commencement: Sch. 1 para. 2 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(k)](https://www.legislation.gov.uk/uksi/2014/414/article/5/k)
+[^c-effc4cbb0f1fcdb3c7dc412e65abc7cd]: Commencement: Sch. 1 para. 2 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(k)](https://www.legislation.gov.uk/uksi/2014/414/article/5/k)
 
-[^key-269abe312d7f94256dda2b7af6db9f6e]: Commencement: Sch. 1 para. 2 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(j)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/j)
+[^c-269abe312d7f94256dda2b7af6db9f6e]: Commencement: Sch. 1 para. 2 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(j)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/j)
 
-[^key-4424e7c76a928a9addfdb29e1b106d1a]: Textual amendment: Sch. 1 para. 2(1)(2) ceases to have effect (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by virtue of [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/ukpga/2013/6/schedule/1/paragraph/2/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(k)](https://www.legislation.gov.uk/uksi/2014/414/article/5/k); S.I. 2014/2439, art. 2(j)
+[^c-4424e7c76a928a9addfdb29e1b106d1a]: Textual amendment: Sch. 1 para. 2(1)(2) ceases to have effect (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by virtue of [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/ukpga/2013/6/schedule/1/paragraph/2/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(k)](https://www.legislation.gov.uk/uksi/2014/414/article/5/k); S.I. 2014/2439, art. 2(j)
 
-[^key-97ccf2431fbb8656627c904566c23e00]: Commencement: Sch. 1 para. 3 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(k)](https://www.legislation.gov.uk/uksi/2014/414/article/5/k)
+[^c-97ccf2431fbb8656627c904566c23e00]: Commencement: Sch. 1 para. 3 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(k)](https://www.legislation.gov.uk/uksi/2014/414/article/5/k)
 
-[^key-7d098a026786e5a9e9379566d79195a5]: Commencement: Sch. 1 para. 3 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(j)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/j)
+[^c-7d098a026786e5a9e9379566d79195a5]: Commencement: Sch. 1 para. 3 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(j)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/j)

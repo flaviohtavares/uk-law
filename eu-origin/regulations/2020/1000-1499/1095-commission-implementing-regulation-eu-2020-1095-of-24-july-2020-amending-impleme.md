@@ -35,18 +35,18 @@ amending Implementing Regulation (EU) 2015/502 concerning the authorisation of t
 
 (Text with EEA relevance) (revoked)
 
-[^key-de2fbe8ebedf303d8a51da6608ee4ddd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de2fbe8ebedf303d8a51da6608ee4ddd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments to Implementing Regulation (EU) 2015/502[^key-de2fbe8ebedf303d8a51da6608ee4ddd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Entry into force[^key-de2fbe8ebedf303d8a51da6608ee4ddd]
+## Article 1. Amendments to Implementing Regulation (EU) 2015/502[^c-de2fbe8ebedf303d8a51da6608ee4ddd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de2fbe8ebedf303d8a51da6608ee4ddd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Entry into force[^c-de2fbe8ebedf303d8a51da6608ee4ddd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-de2fbe8ebedf303d8a51da6608ee4ddd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de2fbe8ebedf303d8a51da6608ee4ddd]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 376](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/376) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-de2fbe8ebedf303d8a51da6608ee4ddd]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 376](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/376) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

@@ -26,7 +26,7 @@ summary: ''
 
 #### Entitlement to other assistance being reviewed
 
-**1.**[^key-2d9f3f039fa9476f537c312ea729c1a6] (1) The regulations must be framed so that an individual is eligible for short-term assistance if—
+**1.**[^c-2d9f3f039fa9476f537c312ea729c1a6] (1) The regulations must be framed so that an individual is eligible for short-term assistance if—
 
 - (a) the individual is, or was, entitled to a particular type of assistance (other than short-term assistance) under a determination made on the basis that the individual has ongoing entitlement,
 - (b) that determination has been superseded by a determination under section 37 with the result that the individual—
@@ -47,7 +47,7 @@ summary: ''
 
 #### Value and form of assistance where entitlement to other assistance under review
 
-**2.**[^key-829a38bd0ed8c4231dda4c3ac605e9e3] (1) This paragraph applies to any case in which an individual is eligible for short-term assistance by virtue of provision made in accordance with paragraph 1(1).
+**2.**[^c-829a38bd0ed8c4231dda4c3ac605e9e3] (1) This paragraph applies to any case in which an individual is eligible for short-term assistance by virtue of provision made in accordance with paragraph 1(1).
 
 (2) In this paragraph, “**the superseded determination**” means the determination that has been superseded with one of the results mentioned in paragraph 1(1)(b), as a consequence of which the individual in question is eligible for short-term assistance.
 
@@ -67,18 +67,18 @@ V2 is the value of the assistance that the individual is to be given in respect 
 
 #### Generality of enabling power unaffected
 
-**3.**[^key-afa74f206212b3ccbbcf9e70afead677] Nothing in this schedule is to be taken to preclude the regulations from providing for an individual to be eligible for short-term assistance in circumstances other than those described in paragraph 1.
+**3.**[^c-afa74f206212b3ccbbcf9e70afead677] Nothing in this schedule is to be taken to preclude the regulations from providing for an individual to be eligible for short-term assistance in circumstances other than those described in paragraph 1.
 
 #### Interpretation
 
-**4.**[^key-730b8e161809516408dc3d8b2801184e] In this schedule, “**the regulations**” means regulations under section 36(2).
+**4.**[^c-730b8e161809516408dc3d8b2801184e] In this schedule, “**the regulations**” means regulations under section 36(2).
 
 ## Annotations
 
-[^key-2d9f3f039fa9476f537c312ea729c1a6]: Commencement: Sch. 10 para. 1 in force at 8.10.2020 by [S.S.I. 2020/295](https://www.legislation.gov.uk/ssi/2020/295), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/295/regulation/2/d)
+[^c-2d9f3f039fa9476f537c312ea729c1a6]: Commencement: Sch. 10 para. 1 in force at 8.10.2020 by [S.S.I. 2020/295](https://www.legislation.gov.uk/ssi/2020/295), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/295/regulation/2/d)
 
-[^key-829a38bd0ed8c4231dda4c3ac605e9e3]: Commencement: Sch. 10 para. 2 in force at 8.10.2020 by [S.S.I. 2020/295](https://www.legislation.gov.uk/ssi/2020/295), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/295/regulation/2/d)
+[^c-829a38bd0ed8c4231dda4c3ac605e9e3]: Commencement: Sch. 10 para. 2 in force at 8.10.2020 by [S.S.I. 2020/295](https://www.legislation.gov.uk/ssi/2020/295), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/295/regulation/2/d)
 
-[^key-afa74f206212b3ccbbcf9e70afead677]: Commencement: Sch. 10 para. 3 in force at 8.10.2020 by [S.S.I. 2020/295](https://www.legislation.gov.uk/ssi/2020/295), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/295/regulation/2/d)
+[^c-afa74f206212b3ccbbcf9e70afead677]: Commencement: Sch. 10 para. 3 in force at 8.10.2020 by [S.S.I. 2020/295](https://www.legislation.gov.uk/ssi/2020/295), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/295/regulation/2/d)
 
-[^key-730b8e161809516408dc3d8b2801184e]: Commencement: Sch. 10 para. 4 in force at 8.10.2020 by [S.S.I. 2020/295](https://www.legislation.gov.uk/ssi/2020/295), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/295/regulation/2/d)
+[^c-730b8e161809516408dc3d8b2801184e]: Commencement: Sch. 10 para. 4 in force at 8.10.2020 by [S.S.I. 2020/295](https://www.legislation.gov.uk/ssi/2020/295), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/295/regulation/2/d)

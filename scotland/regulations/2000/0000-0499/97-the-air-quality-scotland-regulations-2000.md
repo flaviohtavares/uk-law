@@ -38,13 +38,13 @@ Coming into force in accordance with regulation 1(1)
 
 The Scottish Ministers, in exercise of the powers conferred upon them by sections 87(1), (2)(b) and (h), (3) and (5) and 91(1) of the Environment Act 1995[^f00001] and of all other powers enabling them in that behalf having, in accordance with section 87(7) of that Act, consulted the Scottish Environment Protection Agency, such bodies or persons appearing to them to be representative of the interests of local government and of industry as they consider appropriate, and such other bodies or persons as they consider appropriate, hereby make the following Regulations, a draft of which has been laid before and has been approved by the Scottish Parliament:
 
-## 1. Citation, commencement and extent[^key-142f44e988385e1adc5fc25945dfcdc8]
+## 1. Citation, commencement and extent[^c-142f44e988385e1adc5fc25945dfcdc8]
 
 (1) These Regulations may be cited as the Air Quality (Scotland) Regulations 2000 and shall come into force on the seventh day after the day on which they are made.
 
 (2) These Regulations shall extend to Scotland only.
 
-## 2. Interpretation[^key-183331b5f5eb6083fba9d1f421e75c68]
+## 2. Interpretation[^c-183331b5f5eb6083fba9d1f421e75c68]
 
 (1) In these Regulations–
 
@@ -53,15 +53,15 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
 
 (2) The provisions of the Schedule to these Regulations which follow the Table in that Schedule shall have effect for the purpose of the interpretation of that Schedule.
 
-## 3. Relevant periods[^key-b3d17d1a195e440502089366ff4befa2]
+## 3. Relevant periods[^c-b3d17d1a195e440502089366ff4befa2]
 
-(1)[^key-2ce3124a9803ab333edb253d3004f21b] The relevant period for the purposes of Part IV of the 1995 Act shall , subject to[^key-6612b9ffc08112d4e4673f48042b99d2] paragraphs (2) and (3)[^key-6a95b20479364969847741203f09f7a4] below, be, in relation to an air quality objective, the period beginning with the date on which these Regulations come into force and ending, in respect of the substance specified in column 1 of the Table in the Schedule to these Regulations and the objective relating to that substance specified in column 2 of that Table, on the date set out in the corresponding entry relative to that substance and that objective in column 3 of that Table.
+(1)[^c-2ce3124a9803ab333edb253d3004f21b] The relevant period for the purposes of Part IV of the 1995 Act shall , subject to[^c-6612b9ffc08112d4e4673f48042b99d2] paragraphs (2) and (3)[^c-6a95b20479364969847741203f09f7a4] below, be, in relation to an air quality objective, the period beginning with the date on which these Regulations come into force and ending, in respect of the substance specified in column 1 of the Table in the Schedule to these Regulations and the objective relating to that substance specified in column 2 of that Table, on the date set out in the corresponding entry relative to that substance and that objective in column 3 of that Table.
 
-(2)[^key-34b8fc60f8fcfe11074f8b306d280a4c] The relevant period for the purposes of Part IV of the 1995 Act in relation to an air quality objective prescribed or amended by the Air Quality (Scotland) Amendment Regulations 2002 shall be the period beginning with the date on which those regulations come into force.
+(2)[^c-34b8fc60f8fcfe11074f8b306d280a4c] The relevant period for the purposes of Part IV of the 1995 Act in relation to an air quality objective prescribed or amended by the Air Quality (Scotland) Amendment Regulations 2002 shall be the period beginning with the date on which those regulations come into force.
 
-(3)[^key-f703c756b660685eec0746b215852822] The relevant period for the purposes of Part IV of the 1995 Act in relation to the air quality objective specified in entry number 7A of the Table in the Schedule (relating to PM<sub>2.5</sub>) is the period beginning on 1st April 2016 and ending on 31st December 2020.
+(3)[^c-f703c756b660685eec0746b215852822] The relevant period for the purposes of Part IV of the 1995 Act in relation to the air quality objective specified in entry number 7A of the Table in the Schedule (relating to PM<sub>2.5</sub>) is the period beginning on 1st April 2016 and ending on 31st December 2020.
 
-## 4. Air quality objectives[^key-ec3bdfb1b3d001e5875f75afc6399740]
+## 4. Air quality objectives[^c-ec3bdfb1b3d001e5875f75afc6399740]
 
 (1) The air quality objective, in respect of a substance specified in column 1 of the Table in the Schedule to these Regulations shall be to restrict the level at which that substance is present in the air to the level set out in the corresponding entry relative to that substance in column 2 of that Table, by no later than the date set out in the corresponding entry relative to that substance and that objective in column 3 of that Table.
 
@@ -70,7 +70,7 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
 - (a) which are situated outside of buildings or other natural or man-made structures; and
 - (b) where members of the public are regularly present.
 
-## 5. Revocation[^key-53642900e57cea02f8bac239468c499a]
+## 5. Revocation[^c-53642900e57cea02f8bac239468c499a]
 
 The Air Quality Regulations 1997[^f00002] are revoked, in so far as they extend to Scotland.
 
@@ -84,7 +84,7 @@ Edinburgh
 
 31st March 2000
 
-## SCHEDULE — AIR QUALITY OBJECTIVES TABLE[^key-430581e899429d98264f3e33286ac0bd]
+## SCHEDULE — AIR QUALITY OBJECTIVES TABLE[^c-430581e899429d98264f3e33286ac0bd]
 
 Regulations 2(2), 3 and 4
 
@@ -113,17 +113,17 @@ Regulations 2(2), 3 and 4
 </tbody>
 </table>
 
-[^key-fc7ff5d858cdb49611eb37868459ac17][^key-a011a56976af25dd25905b601f64e9a7][^key-58442dea6b0367d59a197da8f2372393][^key-bf3e6a0ed6bf333c000647b9b1a16df8][^key-3a119b2d93969b2174491321b48b7bd5]
+[^c-fc7ff5d858cdb49611eb37868459ac17][^c-a011a56976af25dd25905b601f64e9a7][^c-58442dea6b0367d59a197da8f2372393][^c-bf3e6a0ed6bf333c000647b9b1a16df8][^c-3a119b2d93969b2174491321b48b7bd5]
 
 ### 1. Interpretation
 
-[^key-430581e899429d98264f3e33286ac0bd]
+[^c-430581e899429d98264f3e33286ac0bd]
 
 For the purposes of this Schedule–
 
 “PM<sub>10</sub>” means particulate matter which passes through a size-selective inlet with 50% efficient cut-off at 10 μm aerodynamic diameter.
 
-**1A.**[^key-dd5e2f2cf2ce341f0b0c81064a058368] “PM<sub>2.5</sub>” means particulate matter which passes through a size-selective inlet with a 50% efficiency cut-off at 2.5μm aerodynamic diameter.
+**1A.**[^c-dd5e2f2cf2ce341f0b0c81064a058368] “PM<sub>2.5</sub>” means particulate matter which passes through a size-selective inlet with a 50% efficiency cut-off at 2.5μm aerodynamic diameter.
 
 **2.** (1) A running annual mean is a mean which is calculated on an hourly basis, yielding one running annual mean per hour and the running annual mean for a particular substance at a particular location for a particular hour is the mean of the hourly levels for that substance at that location for that hour and the preceding 8,759 hours.
 
@@ -168,38 +168,38 @@ These Regulations replace the provisions of the Air Quality Regulations 1997 in 
 
 [^f00001]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25). See the definitions of “prescribed”, “regulations” and “relevant period” in section 91(1) of that Act. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-142f44e988385e1adc5fc25945dfcdc8]: Commencement: Reg. 1 in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
+[^c-142f44e988385e1adc5fc25945dfcdc8]: Commencement: Reg. 1 in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
 
-[^key-183331b5f5eb6083fba9d1f421e75c68]: Commencement: Reg. 2 in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
+[^c-183331b5f5eb6083fba9d1f421e75c68]: Commencement: Reg. 2 in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
 
-[^key-b3d17d1a195e440502089366ff4befa2]: Commencement: Reg. 3 in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
+[^c-b3d17d1a195e440502089366ff4befa2]: Commencement: Reg. 3 in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
 
-[^key-2ce3124a9803ab333edb253d3004f21b]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2000/97/regulation/3) renumbered as reg. 3(1) (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/2)
+[^c-2ce3124a9803ab333edb253d3004f21b]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2000/97/regulation/3) renumbered as reg. 3(1) (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/2)
 
-[^key-6612b9ffc08112d4e4673f48042b99d2]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/3/1) inserted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/3/a)
+[^c-6612b9ffc08112d4e4673f48042b99d2]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/3/1) inserted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/3/a)
 
-[^key-6a95b20479364969847741203f09f7a4]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/3/1) substituted (1.4.2016) by [The Air Quality (Scotland) Amendment Regulations 2016 (S.S.I. 2016/162)](https://www.legislation.gov.uk/ssi/2016/162), [regs. 1](https://www.legislation.gov.uk/ssi/2016/162/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/162/regulation/2/2)
+[^c-6a95b20479364969847741203f09f7a4]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/3/1) substituted (1.4.2016) by [The Air Quality (Scotland) Amendment Regulations 2016 (S.S.I. 2016/162)](https://www.legislation.gov.uk/ssi/2016/162), [regs. 1](https://www.legislation.gov.uk/ssi/2016/162/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/162/regulation/2/2)
 
-[^key-34b8fc60f8fcfe11074f8b306d280a4c]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2000/97/regulation/3/2) inserted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/3/b)
+[^c-34b8fc60f8fcfe11074f8b306d280a4c]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2000/97/regulation/3/2) inserted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/3/b)
 
-[^key-f703c756b660685eec0746b215852822]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2000/97/regulation/3/3) inserted (1.4.2016) by [The Air Quality (Scotland) Amendment Regulations 2016 (S.S.I. 2016/162)](https://www.legislation.gov.uk/ssi/2016/162), [regs. 1](https://www.legislation.gov.uk/ssi/2016/162/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2016/162/regulation/2/3)
+[^c-f703c756b660685eec0746b215852822]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2000/97/regulation/3/3) inserted (1.4.2016) by [The Air Quality (Scotland) Amendment Regulations 2016 (S.S.I. 2016/162)](https://www.legislation.gov.uk/ssi/2016/162), [regs. 1](https://www.legislation.gov.uk/ssi/2016/162/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2016/162/regulation/2/3)
 
-[^key-ec3bdfb1b3d001e5875f75afc6399740]: Commencement: Reg. 4 in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
+[^c-ec3bdfb1b3d001e5875f75afc6399740]: Commencement: Reg. 4 in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
 
-[^key-53642900e57cea02f8bac239468c499a]: Commencement: Reg. 5 in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
+[^c-53642900e57cea02f8bac239468c499a]: Commencement: Reg. 5 in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1997/3043](https://www.legislation.gov.uk/uksi/1997/3043).
 
-[^key-430581e899429d98264f3e33286ac0bd]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
+[^c-430581e899429d98264f3e33286ac0bd]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) in force at 7.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/97/regulation/1/1)
 
-[^key-fc7ff5d858cdb49611eb37868459ac17]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) Table inserted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/4/a)
+[^c-fc7ff5d858cdb49611eb37868459ac17]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) Table inserted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/4/a)
 
-[^key-a011a56976af25dd25905b601f64e9a7]: Textual amendment: Word in [sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) Table substituted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/4/b)
+[^c-a011a56976af25dd25905b601f64e9a7]: Textual amendment: Word in [sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) Table substituted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/4/b)
 
-[^key-58442dea6b0367d59a197da8f2372393]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) Table inserted (1.4.2016) by [The Air Quality (Scotland) Amendment Regulations 2016 (S.S.I. 2016/162)](https://www.legislation.gov.uk/ssi/2016/162), [regs. 1](https://www.legislation.gov.uk/ssi/2016/162/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2016/162/regulation/2/4)
+[^c-58442dea6b0367d59a197da8f2372393]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) Table inserted (1.4.2016) by [The Air Quality (Scotland) Amendment Regulations 2016 (S.S.I. 2016/162)](https://www.legislation.gov.uk/ssi/2016/162), [regs. 1](https://www.legislation.gov.uk/ssi/2016/162/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2016/162/regulation/2/4)
 
-[^key-bf3e6a0ed6bf333c000647b9b1a16df8]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) Table inserted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/4/c)
+[^c-bf3e6a0ed6bf333c000647b9b1a16df8]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) Table inserted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/4/c)
 
-[^key-3a119b2d93969b2174491321b48b7bd5]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) Table inserted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/4/d)
+[^c-3a119b2d93969b2174491321b48b7bd5]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2000/97/schedule) Table inserted (12.6.2002) by [The Air Quality (Scotland) Amendment Regulations 2002 (S.S.I. 2002/297)](https://www.legislation.gov.uk/ssi/2002/297), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2002/297/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2002/297/regulation/2/4/d)
 
-[^key-dd5e2f2cf2ce341f0b0c81064a058368]: Textual amendment: [Sch. para. 1A](https://www.legislation.gov.uk/ssi/2000/97/schedule/paragraph/1A) inserted (1.4.2016) by [The Air Quality (Scotland) Amendment Regulations 2016 (S.S.I. 2016/162)](https://www.legislation.gov.uk/ssi/2016/162), [regs. 1](https://www.legislation.gov.uk/ssi/2016/162/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2016/162/regulation/2/5)
+[^c-dd5e2f2cf2ce341f0b0c81064a058368]: Textual amendment: [Sch. para. 1A](https://www.legislation.gov.uk/ssi/2000/97/schedule/paragraph/1A) inserted (1.4.2016) by [The Air Quality (Scotland) Amendment Regulations 2016 (S.S.I. 2016/162)](https://www.legislation.gov.uk/ssi/2016/162), [regs. 1](https://www.legislation.gov.uk/ssi/2016/162/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2016/162/regulation/2/5)

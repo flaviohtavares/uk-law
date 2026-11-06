@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75B. Guidance about use of powers under sections 71 to 74[^key-d7ac9eaaaa1c5adee452afe31c9300e1]
+## 75B. Guidance about use of powers under sections 71 to 74[^c-d7ac9eaaaa1c5adee452afe31c9300e1]
 
 *Extent: E+W+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7ac9eaaaa1c5adee452afe31c9300e1]: Textual amendment: S. 75B inserted (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 113(7)](https://www.legislation.gov.uk/ukpga/2009/25/section/113/7), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/6)
+[^c-d7ac9eaaaa1c5adee452afe31c9300e1]: Textual amendment: S. 75B inserted (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 113(7)](https://www.legislation.gov.uk/ukpga/2009/25/section/113/7), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/6)

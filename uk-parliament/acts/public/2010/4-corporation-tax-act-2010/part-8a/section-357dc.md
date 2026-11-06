@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357DC. The mandatory streaming conditions[^key-3f3b3eec0117028f84fab3c68f3024c2]
+## 357DC. The mandatory streaming conditions[^c-3f3b3eec0117028f84fab3c68f3024c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,7 +52,7 @@ whichever is the lower.
 
 (8) Income is “**relevant Head 2 income**” for the purposes of subsection (7) if—
 
-- (a) it is relevant IP income received under an agreement falling within subsection (6) of section 357BH[^key-5556be128e017b647dd38698e031f9ee] , and
+- (a) it is relevant IP income received under an agreement falling within subsection (6) of section 357BH[^c-5556be128e017b647dd38698e031f9ee] , and
 - (b) every qualifying IP right—
   - (i) in respect of which a right within paragraph (a) of that subsection is granted by the agreement, or
   - (ii) which is granted in respect of an invention in respect of which a right within paragraph (b) of that subsection is granted by the agreement,
@@ -61,15 +61,15 @@ whichever is the lower.
 
 (9) In a case where—
 
-- (a) relevant IP income is received under an agreement falling within section 357BH(6)[^key-1c2debfe1fc42a46b8aefce3f449b6e8] , but
+- (a) relevant IP income is received under an agreement falling within section 357BH(6)[^c-1c2debfe1fc42a46b8aefce3f449b6e8] , but
 - (b) the condition in paragraph (b) of subsection (8) above is not met,
 
 so much of the relevant IP income as on a just and reasonable apportionment is attributable to any qualifying IP right falling within that paragraph is relevant Head 2 income for the purposes of subsection (7).
 
 ## Annotations
 
-[^key-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
+[^c-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
 
-[^key-5556be128e017b647dd38698e031f9ee]: Textual amendment: Words in [s. 357DC(8)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/357DC/8/a) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 14(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/14/2)
+[^c-5556be128e017b647dd38698e031f9ee]: Textual amendment: Words in [s. 357DC(8)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/357DC/8/a) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 14(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/14/2)
 
-[^key-1c2debfe1fc42a46b8aefce3f449b6e8]: Textual amendment: Words in [s. 357DC(9)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/357DC/9/a) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 14(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/14/3)
+[^c-1c2debfe1fc42a46b8aefce3f449b6e8]: Textual amendment: Words in [s. 357DC(9)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/357DC/9/a) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 14(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/14/3)

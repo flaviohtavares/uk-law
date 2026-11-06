@@ -37,158 +37,158 @@ implementing Directive 2005/32/EC of the European Parliament and of the Council 
 
 (Text with EEA relevance) (revoked)
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f4b3220d778cc924d2c2041b3f2986ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter and scope[^key-f4b3220d778cc924d2c2041b3f2986ee]
+## Article 1. Subject matter and scope[^c-f4b3220d778cc924d2c2041b3f2986ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-f4b3220d778cc924d2c2041b3f2986ee]
+## Article 2. Definitions[^c-f4b3220d778cc924d2c2041b3f2986ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Ecodesign requirements[^key-f4b3220d778cc924d2c2041b3f2986ee]
+## Article 3. Ecodesign requirements[^c-f4b3220d778cc924d2c2041b3f2986ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Conformity assessment[^key-f4b3220d778cc924d2c2041b3f2986ee]
+## Article 4. Conformity assessment[^c-f4b3220d778cc924d2c2041b3f2986ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Verification procedure for market surveillance purposes[^key-f4b3220d778cc924d2c2041b3f2986ee]
+## Article 5. Verification procedure for market surveillance purposes[^c-f4b3220d778cc924d2c2041b3f2986ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Revision[^key-f4b3220d778cc924d2c2041b3f2986ee]
+## Article 6. Revision[^c-f4b3220d778cc924d2c2041b3f2986ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Amendment to Regulation (EC) No 1275/2008[^key-f4b3220d778cc924d2c2041b3f2986ee]
+## Article 7. Amendment to Regulation (EC) No 1275/2008[^c-f4b3220d778cc924d2c2041b3f2986ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-f4b3220d778cc924d2c2041b3f2986ee]
+## Article 8. Entry into force[^c-f4b3220d778cc924d2c2041b3f2986ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f4b3220d778cc924d2c2041b3f2986ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — ECODESIGN REQUIREMENTS[^key-f4b3220d778cc924d2c2041b3f2986ee]
+## ANNEX I — ECODESIGN REQUIREMENTS[^c-f4b3220d778cc924d2c2041b3f2986ee]
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]1.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]1.
 
 ON-MODE POWER CONSUMPTION
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]1.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]1.
 
 From 20 August 2010:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]2.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]2.
 
 From 1 April 2012:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]2.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]2.
 
 STANDBY/OFF MODE POWER CONSUMPTION
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]1.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]1.
 
 From 7 January 2010:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]2.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]2.
 
 From 20 August 2011:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]3.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]3.
 
 NETWORKED STANDBY POWER CONSUMPTION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]4.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]4.
 
 ‘HOME-MODE’ FOR TELEVISIONS WHICH ARE DELIVERED WITH A FORCED MENU
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]5.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]5.
 
 PEAK LUMINANCE RATIO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]6.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]6.
 
 INFORMATION TO BE PROVIDED BY MANUFACTURERS
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]1.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]1.
 
 For the purposes of conformity assessment pursuant to Article 5, the technical documentation shall contain the following elements:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]2.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]2.
 
 From 20 August 2010:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — MEASUREMENTS[^key-f4b3220d778cc924d2c2041b3f2986ee]
+## ANNEX II — MEASUREMENTS[^c-f4b3220d778cc924d2c2041b3f2986ee]
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]1.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]1.
 
 **Measurements of on-mode power consumption**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]2.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]2.
 
 **Measurements of standby/off-mode, and networked standby power consumption**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]3.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]3.
 
 **Measurements of peak luminance**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — PRODUCT COMPLIANCE VERIFICATION BY MARKET SURVEILLANCE AUTHORITIES[^key-f4b3220d778cc924d2c2041b3f2986ee]
+## ANNEX III — PRODUCT COMPLIANCE VERIFICATION BY MARKET SURVEILLANCE AUTHORITIES[^c-f4b3220d778cc924d2c2041b3f2986ee]
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]A.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]A.
 
 *The verification tolerances defined in this Annex relate only to the verification of the measured parameters by Great Britain authorities and shall not be used by the manufacturer or importer as an allowed tolerance to establish the values in the technical documentation or in interpreting these values with a view to achieving compliance or to communicate better performance by any means.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]B.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]B.
 
 *Verification procedure for requirements established in Part 3 of Annex I*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]C.
+[^c-f4b3220d778cc924d2c2041b3f2986ee]C.
 
 *Conformity check*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — List of energy-using products covered by Annex I, point 3 to Regulation (EC) No 1275/2008[^key-f4b3220d778cc924d2c2041b3f2986ee]
+## ANNEX IV — List of energy-using products covered by Annex I, point 3 to Regulation (EC) No 1275/2008[^c-f4b3220d778cc924d2c2041b3f2986ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f4b3220d778cc924d2c2041b3f2986ee]: Textual amendment: Regulation revoked (19.6.2021) by [The Ecodesign for Energy Related Products and Energy Information Regulations 2021 (S.I. 2021/745)](https://www.legislation.gov.uk/uksi/2021/745), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/745/regulation/1/3), [Sch. 29 para. 2](https://www.legislation.gov.uk/uksi/2021/745/schedule/29/paragraph/2) (with [reg. 52](https://www.legislation.gov.uk/uksi/2021/745/regulation/52))
+[^c-f4b3220d778cc924d2c2041b3f2986ee]: Textual amendment: Regulation revoked (19.6.2021) by [The Ecodesign for Energy Related Products and Energy Information Regulations 2021 (S.I. 2021/745)](https://www.legislation.gov.uk/uksi/2021/745), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/745/regulation/1/3), [Sch. 29 para. 2](https://www.legislation.gov.uk/uksi/2021/745/schedule/29/paragraph/2) (with [reg. 52](https://www.legislation.gov.uk/uksi/2021/745/regulation/52))

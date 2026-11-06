@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88A. Communication supporters for jurors[^key-61a434cf62afcddac144178dfd882db6]
+## 88A. Communication supporters for jurors[^c-61a434cf62afcddac144178dfd882db6]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61a434cf62afcddac144178dfd882db6]: Textual amendment: S. 88A inserted (2.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 64(2)](https://www.legislation.gov.uk/asp/2025/12/section/64/2), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-61a434cf62afcddac144178dfd882db6]: Textual amendment: S. 88A inserted (2.11.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 64(2)](https://www.legislation.gov.uk/asp/2025/12/section/64/2), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

@@ -52,29 +52,29 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 The requirements of paragraph 3(2) of Schedule 7 of the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-## 1. Citation, commencement and extent[^key-eec3522aafdd7e1be1758880f860598e]
+## 1. Citation, commencement and extent[^c-eec3522aafdd7e1be1758880f860598e]
 
 (1) These Regulations may be cited as the Animal By-Products and Transmissible Spongiform Encephalopathies (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 and come into force on exit day.
 
 (2) These Regulations extend to Northern Ireland only.
 
-## 2. Amendment to the Mechanically Recovered Meat (Export Prohibition) Order (Northern Ireland) 1995[^key-feb86ba1ceae9e9b445a7eea513454cb]
+## 2. Amendment to the Mechanically Recovered Meat (Export Prohibition) Order (Northern Ireland) 1995[^c-feb86ba1ceae9e9b445a7eea513454cb]
 
 In Article 3 of the Mechanically Recovered Meat (Export Prohibition) Order (Northern Ireland) 1995 [^c23588741], for “another” substitute “ a ”.
 
-## 3. Amendment to the Animal By-Products (Enforcement) Regulations (Northern Ireland) 2015[^key-7d917b72bd8d82093d61d5a7774b8f13]
+## 3. Amendment to the Animal By-Products (Enforcement) Regulations (Northern Ireland) 2015[^c-7d917b72bd8d82093d61d5a7774b8f13]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to the Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2018[^key-3a998d54ccc0cf7c604f15c9e2cb0bff]
+## 4. Amendment to the Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2018[^c-3a998d54ccc0cf7c604f15c9e2cb0bff]
 
 (1) The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2018 [^c23588761] are amended as follows.
 
-(2)[^key-5bb33ab77f895dd93965659cc92d285b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5bb33ab77f895dd93965659cc92d285b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-5bb33ab77f895dd93965659cc92d285b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5bb33ab77f895dd93965659cc92d285b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In Schedule 2, for paragraph 11(2) substitute—
 
@@ -88,11 +88,11 @@ In Article 3 of the Mechanically Recovered Meat (Export Prohibition) Order (Nort
 (6) In Schedule 7—
 
 - (a) in paragraph 1, omit “placed on the member State”;
-- (b)[^key-eca99093f9ba58f30a93a597cfbb2c9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-eca99093f9ba58f30a93a597cfbb2c9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-eca99093f9ba58f30a93a597cfbb2c9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-eca99093f9ba58f30a93a597cfbb2c9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-eca99093f9ba58f30a93a597cfbb2c9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-eca99093f9ba58f30a93a597cfbb2c9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-779e4ebdd14b83ebef6fffaacee814c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-779e4ebdd14b83ebef6fffaacee814c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Gardiner of Kimble
 
@@ -116,22 +116,22 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23588731]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16)
 
-[^key-eec3522aafdd7e1be1758880f860598e]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-eec3522aafdd7e1be1758880f860598e]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-feb86ba1ceae9e9b445a7eea513454cb]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-feb86ba1ceae9e9b445a7eea513454cb]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23588741]: Marginal citation: S.R. [1995 No. 469](https://www.legislation.gov.uk/ukcm/1995/469)
 
-[^key-7d917b72bd8d82093d61d5a7774b8f13]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/273/regulation/3) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
+[^c-7d917b72bd8d82093d61d5a7774b8f13]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/273/regulation/3) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
 
-[^key-3a998d54ccc0cf7c604f15c9e2cb0bff]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-3a998d54ccc0cf7c604f15c9e2cb0bff]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23588761]: Marginal citation: S.R. [2018 No. 213](https://www.legislation.gov.uk/ukcm/2018/213)
 
-[^key-5bb33ab77f895dd93965659cc92d285b]: Textual amendment: Reg. 4(2)(3) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
+[^c-5bb33ab77f895dd93965659cc92d285b]: Textual amendment: Reg. 4(2)(3) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
 
 [^M_F_193039d7-7db5-42fd-872e-49008408ce51]: Textual amendment: Reg. 4(5) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
 
-[^key-eca99093f9ba58f30a93a597cfbb2c9a]: Textual amendment: Reg. 4(6)(b)-(d) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
+[^c-eca99093f9ba58f30a93a597cfbb2c9a]: Textual amendment: Reg. 4(6)(b)-(d) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
 
-[^key-779e4ebdd14b83ebef6fffaacee814c3]: Textual amendment: Reg. 4(7) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
+[^c-779e4ebdd14b83ebef6fffaacee814c3]: Textual amendment: Reg. 4(7) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)

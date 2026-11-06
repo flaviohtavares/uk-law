@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Interpretation[^key-a14752dbdcaabf5edefb69bf2fb931ad]
+## 75. Interpretation[^c-a14752dbdcaabf5edefb69bf2fb931ad]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a14752dbdcaabf5edefb69bf2fb931ad]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2003/20/section/75) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(eee)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/eee)
+[^c-a14752dbdcaabf5edefb69bf2fb931ad]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2003/20/section/75) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(eee)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/eee)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Pause orders[^key-a640dbec6ddeab706167331b2402bd8f]
+## 33. Pause orders[^c-a640dbec6ddeab706167331b2402bd8f]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ Where a pause order containing a direction under section 44(5)(e) of the Act (pa
 
 ## Annotations
 
-[^key-a640dbec6ddeab706167331b2402bd8f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2022/255/regulation/33) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-a640dbec6ddeab706167331b2402bd8f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2022/255/regulation/33) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00023]: Footnote: Section 99(2) was substituted by section 67 of and paragraphs 3 and 13 of Schedule 4 to the Pension Schemes Act [2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8) and was amended by section 25(1) and (4) of the 2021 Act.

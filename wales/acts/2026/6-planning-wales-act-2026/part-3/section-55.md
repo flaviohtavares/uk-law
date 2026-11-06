@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Application for planning permission to be made to planning authority[^key-a8325455bcaa2698977f132e9855b026]
+## 55. Application for planning permission to be made to planning authority[^c-a8325455bcaa2698977f132e9855b026]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8325455bcaa2698977f132e9855b026]: Commencement: S. 55 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a8325455bcaa2698977f132e9855b026]: Commencement: S. 55 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

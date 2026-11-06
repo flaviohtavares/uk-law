@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Disclosure of information to service providers[^key-1c3a4f4364d0a5b3a815c0652da7dc98]
+## 41. Disclosure of information to service providers[^c-1c3a4f4364d0a5b3a815c0652da7dc98]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Board may disclose any information obtained by it in connection with any fun
 
 ## Annotations
 
-[^key-1c3a4f4364d0a5b3a815c0652da7dc98]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2007/18/section/41) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-1c3a4f4364d0a5b3a815c0652da7dc98]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2007/18/section/41) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

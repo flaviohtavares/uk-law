@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.27. Contents of notice of intention to declare a dividend or make a distribution[^key-a39d6538cc1b57dc9e5aedef516e27eb]
+## 5.27. Contents of notice of intention to declare a dividend or make a distribution[^c-a39d6538cc1b57dc9e5aedef516e27eb]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ A notice under 5.26 must contain the following—
 
 ## Annotations
 
-[^key-a39d6538cc1b57dc9e5aedef516e27eb]: Commencement: Rule 5.27 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-a39d6538cc1b57dc9e5aedef516e27eb]: Commencement: Rule 5.27 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

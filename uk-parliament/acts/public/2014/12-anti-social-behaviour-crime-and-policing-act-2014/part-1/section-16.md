@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Special measures for witnesses[^key-4f4276a9c5128e9c5258d778bae4cc17]
+## 16. Special measures for witnesses[^c-4f4276a9c5128e9c5258d778bae4cc17]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ Sections 49 and 51 of that Act (offences) apply accordingly.
 
 ## Annotations
 
-[^key-4f4276a9c5128e9c5258d778bae4cc17]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2014/12/section/16) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)
+[^c-4f4276a9c5128e9c5258d778bae4cc17]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2014/12/section/16) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)

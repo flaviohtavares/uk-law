@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Proxy holder with financial interest[^key-50a11df8ba9f9558132791f5723f430c]
+## 110. Proxy holder with financial interest[^c-50a11df8ba9f9558132791f5723f430c]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Apply rule 7.19 of the 1986 Rules[^f00051].
 
 ## Annotations
 
-[^key-50a11df8ba9f9558132791f5723f430c]: Commencement: Rule 110 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-50a11df8ba9f9558132791f5723f430c]: Commencement: Rule 110 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00051]: Footnote: Rule 7.19 was amended by paragraph 45 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).

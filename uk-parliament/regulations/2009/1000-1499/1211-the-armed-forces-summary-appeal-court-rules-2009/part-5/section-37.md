@@ -28,8 +28,8 @@ summary: ''
 
 (4) If an objection to a lay member is upheld, the judge advocate shall discharge him.
 
-(5)[^key-8aba1bd144e490f5ed75d74581272d1e] This rule applies to any proceedings with lay members, except variation proceedings.
+(5)[^c-8aba1bd144e490f5ed75d74581272d1e] This rule applies to any proceedings with lay members, except variation proceedings.
 
 ## Annotations
 
-[^key-8aba1bd144e490f5ed75d74581272d1e]: Textual amendment: [Rule 37(5)](https://www.legislation.gov.uk/uksi/2009/1211/rule/37/5) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [11](https://www.legislation.gov.uk/uksi/2023/1097/rule/11)
+[^c-8aba1bd144e490f5ed75d74581272d1e]: Textual amendment: [Rule 37(5)](https://www.legislation.gov.uk/uksi/2009/1211/rule/37/5) inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [11](https://www.legislation.gov.uk/uksi/2023/1097/rule/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Use of alternative dispute resolution[^key-2835500203793223ed1ed3ab1a914a35][^key-e4d79b4ac2523eb5d3de6ee6b3c69f84]
+## 69. Use of alternative dispute resolution[^c-2835500203793223ed1ed3ab1a914a35][^c-e4d79b4ac2523eb5d3de6ee6b3c69f84]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,6 +81,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2835500203793223ed1ed3ab1a914a35]: Commencement: S. 69 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-2835500203793223ed1ed3ab1a914a35]: Commencement: S. 69 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-e4d79b4ac2523eb5d3de6ee6b3c69f84]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2022/46/section/69) in force at 7.11.2023 by [S.I. 2023/1022](https://www.legislation.gov.uk/uksi/2023/1022), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1022/regulation/2/b)
+[^c-e4d79b4ac2523eb5d3de6ee6b3c69f84]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2022/46/section/69) in force at 7.11.2023 by [S.I. 2023/1022](https://www.legislation.gov.uk/uksi/2023/1022), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1022/regulation/2/b)

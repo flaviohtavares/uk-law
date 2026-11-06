@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Protection of interests[^key-8e56f2dd67c244dad5f1e7bf4782f926]
+## 38. Protection of interests[^c-8e56f2dd67c244dad5f1e7bf4782f926]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedules 15 to 21 to this Order have effect.
 
 ## Annotations
 
-[^key-8e56f2dd67c244dad5f1e7bf4782f926]: Commencement: Art. 38 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-8e56f2dd67c244dad5f1e7bf4782f926]: Commencement: Art. 38 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

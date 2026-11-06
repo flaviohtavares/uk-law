@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-1c78e4faa43c9ed14307b76a6817f0af]
+## 1. Citation and commencement[^c-1c78e4faa43c9ed14307b76a6817f0af]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ These Regulations may be cited as the Biocidal Products Regulations (Northern Ir
 
 ## Annotations
 
-[^key-1c78e4faa43c9ed14307b76a6817f0af]: Commencement: Reg. 1 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-1c78e4faa43c9ed14307b76a6817f0af]: Commencement: Reg. 1 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

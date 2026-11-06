@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Governing bodies consisting of interim executive members[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
+## SCHEDULE 1A — Governing bodies consisting of interim executive members[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
 
 *Extent: E+W*
 
@@ -24,77 +24,25 @@ summary: ''
 
 Section 19A
 
-### 1. Interpretation of Schedule[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
+### 1. Interpretation of Schedule[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
 
 *Extent: E+W+S+N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Governing body to consist of members appointed by appropriate authority[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
+### 2. Governing body to consist of members appointed by appropriate authority[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
 
 *Extent: E+W+S+N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Effect of notice under section 16A(1) or 18A(1)[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
+### 3. Effect of notice under section 16A(1) or 18A(1)[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
 
 *Extent: E+W+S+N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Interim executive members[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
-
-*Extent: E+W+S+N.I.*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-*Extent: E+W+S+N.I.*
-
-**5.**[^key-a8a8dcd22f95646fe7906764bb0b0ef4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. Duty of appropriate authority to inform other persons[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
-
-*Extent: E+W+S+N.I.*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 7. Power to specify duration of interim period[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
-
-*Extent: E+W+S+N.I.*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 8. Chairman[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
-
-*Extent: E+W+S+N.I.*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 9. Remuneration and allowances[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
-
-*Extent: E+W+S+N.I.*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 10. Duty of interim executive board[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
-
-*Extent: E+W+S+N.I.*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 11. Proceedings of interim executive board[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
-
-*Extent: E+W+S+N.I.*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 12. Effect on suspension of delegated budget[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
-
-*Extent: E+W+S+N.I.*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 13. Exclusion of certain statutory provisions[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
+### 4. Interim executive members[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
 
 *Extent: E+W+S+N.I.*
 
@@ -102,9 +50,51 @@ Section 19A
 
 *Extent: E+W+S+N.I.*
 
-**14.**[^key-a8a8dcd22f95646fe7906764bb0b0ef4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a8a8dcd22f95646fe7906764bb0b0ef4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Closure of school[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
+### 6. Duty of appropriate authority to inform other persons[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 7. Power to specify duration of interim period[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Chairman[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Remuneration and allowances[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Duty of interim executive board[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11. Proceedings of interim executive board[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 12. Effect on suspension of delegated budget[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Exclusion of certain statutory provisions[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,21 +102,31 @@ Section 19A
 
 *Extent: E+W+S+N.I.*
 
-**16.**[^key-a8a8dcd22f95646fe7906764bb0b0ef4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-a8a8dcd22f95646fe7906764bb0b0ef4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Notice of resumption of government by normally constituted governing body[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
-
-*Extent: E+W+S+N.I.*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 18. Time when interim executive members cease to hold office[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
+### 15. Closure of school[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
 
 *Extent: E+W+S+N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Establishment of normally constituted governing body[^key-a8a8dcd22f95646fe7906764bb0b0ef4]
+*Extent: E+W+S+N.I.*
+
+**16.**[^c-a8a8dcd22f95646fe7906764bb0b0ef4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Notice of resumption of government by normally constituted governing body[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Time when interim executive members cease to hold office[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
+
+*Extent: E+W+S+N.I.*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Establishment of normally constituted governing body[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
 
 *Extent: E+W+S+N.I.*
 
@@ -134,4 +134,4 @@ Section 19A
 
 ## Annotations
 
-[^key-a8a8dcd22f95646fe7906764bb0b0ef4]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/1998/31/schedule/1A) omitted (W.) (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 4(8)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/4/8); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-a8a8dcd22f95646fe7906764bb0b0ef4]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/1998/31/schedule/1A) omitted (W.) (20.2.2014) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 4(8)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/4/8); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))

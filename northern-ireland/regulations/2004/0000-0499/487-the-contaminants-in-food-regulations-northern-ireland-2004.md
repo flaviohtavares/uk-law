@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Contaminants in Food Regulations (Northern Ireland) 2004 (revoked)[^key-46be735f9bca60f6f3e9d52d9138dbd9]
+The Contaminants in Food Regulations (Northern Ireland) 2004 (revoked)[^c-46be735f9bca60f6f3e9d52d9138dbd9]
 
 Made
 
@@ -41,62 +41,62 @@ Coming into operation
 
 20th December 2004
 
-[^key-46be735f9bca60f6f3e9d52d9138dbd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46be735f9bca60f6f3e9d52d9138dbd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-46be735f9bca60f6f3e9d52d9138dbd9]
+## 1. Citation and commencement[^c-46be735f9bca60f6f3e9d52d9138dbd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-46be735f9bca60f6f3e9d52d9138dbd9]
+## 2. Interpretation[^c-46be735f9bca60f6f3e9d52d9138dbd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences and penalties[^key-46be735f9bca60f6f3e9d52d9138dbd9]
+## 3. Offences and penalties[^c-46be735f9bca60f6f3e9d52d9138dbd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-46be735f9bca60f6f3e9d52d9138dbd9]
+## 4. Enforcement[^c-46be735f9bca60f6f3e9d52d9138dbd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Modification of Article 29 of the Food Safety (Northern Ireland) Order 1991 (procurement of samples) and analysis of samples[^key-46be735f9bca60f6f3e9d52d9138dbd9]
+## 5. Modification of Article 29 of the Food Safety (Northern Ireland) Order 1991 (procurement of samples) and analysis of samples[^c-46be735f9bca60f6f3e9d52d9138dbd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Defence in relation to exports[^key-46be735f9bca60f6f3e9d52d9138dbd9]
+## 6. Defence in relation to exports[^c-46be735f9bca60f6f3e9d52d9138dbd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application of various provisions of the Order[^key-46be735f9bca60f6f3e9d52d9138dbd9]
+## 7. Application of various provisions of the Order[^c-46be735f9bca60f6f3e9d52d9138dbd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Re-dispatch or destruction of imported food that does not comply with these Regulations[^key-46be735f9bca60f6f3e9d52d9138dbd9]
+## 8. Re-dispatch or destruction of imported food that does not comply with these Regulations[^c-46be735f9bca60f6f3e9d52d9138dbd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Secondary treatment of imported food that does not comply with these Regulations[^key-46be735f9bca60f6f3e9d52d9138dbd9]
+## 9. Secondary treatment of imported food that does not comply with these Regulations[^c-46be735f9bca60f6f3e9d52d9138dbd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Transitional provisions[^key-46be735f9bca60f6f3e9d52d9138dbd9]
+## 10. Transitional provisions[^c-46be735f9bca60f6f3e9d52d9138dbd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-46be735f9bca60f6f3e9d52d9138dbd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-46be735f9bca60f6f3e9d52d9138dbd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Revocations[^key-46be735f9bca60f6f3e9d52d9138dbd9]
+## 12. Revocations[^c-46be735f9bca60f6f3e9d52d9138dbd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-46be735f9bca60f6f3e9d52d9138dbd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46be735f9bca60f6f3e9d52d9138dbd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-46be735f9bca60f6f3e9d52d9138dbd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46be735f9bca60f6f3e9d52d9138dbd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-46be735f9bca60f6f3e9d52d9138dbd9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/487) revoked (1.1.2006) by [The Contaminants in Food Regulations (Northern Ireland) 2005 (S.R. 2005/538)](https://www.legislation.gov.uk/nisr/2005/538), [regs. 1](https://www.legislation.gov.uk/nisr/2005/538/regulation/1), [7](https://www.legislation.gov.uk/nisr/2005/538/regulation/7)
+[^c-46be735f9bca60f6f3e9d52d9138dbd9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/487) revoked (1.1.2006) by [The Contaminants in Food Regulations (Northern Ireland) 2005 (S.R. 2005/538)](https://www.legislation.gov.uk/nisr/2005/538), [regs. 1](https://www.legislation.gov.uk/nisr/2005/538/regulation/1), [7](https://www.legislation.gov.uk/nisr/2005/538/regulation/7)

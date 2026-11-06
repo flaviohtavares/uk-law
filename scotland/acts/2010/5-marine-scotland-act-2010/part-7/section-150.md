@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 150. Power to require information relating to certain substances and objects[^key-af05cad1bc37a1026f39b6e511d74b23]
+## 150. Power to require information relating to certain substances and objects[^c-af05cad1bc37a1026f39b6e511d74b23]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af05cad1bc37a1026f39b6e511d74b23]: Commencement: [S. 150](https://www.legislation.gov.uk/asp/2010/5/section/150) in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(c)](https://www.legislation.gov.uk/ssi/2011/58/article/3/c)
+[^c-af05cad1bc37a1026f39b6e511d74b23]: Commencement: [S. 150](https://www.legislation.gov.uk/asp/2010/5/section/150) in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(c)](https://www.legislation.gov.uk/ssi/2011/58/article/3/c)

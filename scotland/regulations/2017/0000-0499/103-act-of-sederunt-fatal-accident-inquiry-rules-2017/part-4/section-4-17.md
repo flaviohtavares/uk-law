@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.17. Minute of questions[^key-0bf01bcee132347b85d63fc0091fd806]
+## 4.17. Minute of questions[^c-0bf01bcee132347b85d63fc0091fd806]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bf01bcee132347b85d63fc0091fd806]: Commencement: [Rule 4.17](https://www.legislation.gov.uk/ssi/2017/103/rule/4.17) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-0bf01bcee132347b85d63fc0091fd806]: Commencement: [Rule 4.17](https://www.legislation.gov.uk/ssi/2017/103/rule/4.17) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

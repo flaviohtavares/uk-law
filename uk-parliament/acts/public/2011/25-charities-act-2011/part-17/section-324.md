@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Secretary of State[^key-52e7b321cf17f1fe8e9fb4533c5315e4] may by order—
+(1) The Secretary of State[^c-52e7b321cf17f1fe8e9fb4533c5315e4] may by order—
 
 - (a) amend or otherwise modify an entry in Schedule 6,
 - (b) add an entry to Schedule 6, or
@@ -40,4 +40,4 @@ as the Secretary of State considers appropriate in consequence of any change in 
 
 ## Annotations
 
-[^key-52e7b321cf17f1fe8e9fb4533c5315e4]: Textual amendment: Words in [s. 324(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/324/1)[(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/324/2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(jj)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/jj) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-52e7b321cf17f1fe8e9fb4533c5315e4]: Textual amendment: Words in [s. 324(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/324/1)[(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/324/2) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(jj)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/jj) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

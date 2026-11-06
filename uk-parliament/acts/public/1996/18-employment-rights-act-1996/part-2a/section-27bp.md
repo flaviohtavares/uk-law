@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27BP. Right to payment for a cancelled, moved or curtailed shift[^key-cad96b73b0feb036a3778be3d0495cc4]
+## 27BP. Right to payment for a cancelled, moved or curtailed shift[^c-cad96b73b0feb036a3778be3d0495cc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,4 +86,4 @@ the additional hours are to be treated for the purposes of this Chapter as a sep
 
 ## Annotations
 
-[^key-cad96b73b0feb036a3778be3d0495cc4]: Textual amendment: Pt. 2A Ch. 4 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 3](https://www.legislation.gov.uk/ukpga/2025/36/section/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/c)
+[^c-cad96b73b0feb036a3778be3d0495cc4]: Textual amendment: Pt. 2A Ch. 4 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 3](https://www.legislation.gov.uk/ukpga/2025/36/section/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/c)

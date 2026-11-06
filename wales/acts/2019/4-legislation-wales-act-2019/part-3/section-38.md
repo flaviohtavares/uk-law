@@ -29,11 +29,11 @@ summary: ''
 
 (3) This section applies to the following legislation (whenever enacted or made)—
 
-- (a) Acts of Senedd Cymru[^key-e2b216466e134994c6cba01281525211] and Assembly Measures;
+- (a) Acts of Senedd Cymru[^c-e2b216466e134994c6cba01281525211] and Assembly Measures;
 - (b) subordinate legislation made under Acts of Senedd Cymru and Assembly Measures;
 - (c) any other subordinate legislation made by the Welsh Ministers or the National Assembly for Wales established by the Government of Wales Act 1998 (c. 38) that applies only in relation to Wales;
 - (d) any other enactment, so far as it is amended by legislation mentioned in paragraph (a), (b) or (c).
 
 ## Annotations
 
-[^key-e2b216466e134994c6cba01281525211]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 5(9)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/5/9)
+[^c-e2b216466e134994c6cba01281525211]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 5(9)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/5/9)

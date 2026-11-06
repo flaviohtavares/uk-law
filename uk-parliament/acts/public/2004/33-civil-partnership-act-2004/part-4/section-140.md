@@ -27,7 +27,7 @@ summary: ''
 
 (2) In this Chapter “**civil partnership notice book**” means the record kept under subsection (1).
 
-(2A)[^key-78c623a4eebd0ce3594e77340865a09a] But the registrar must not enter the particulars relating to the civil partnership in the civil partnership notice book in a case where any of the requirements imposed by or under any of the following provisions of this Act is applicable but not complied with—
+(2A)[^c-78c623a4eebd0ce3594e77340865a09a] But the registrar must not enter the particulars relating to the civil partnership in the civil partnership notice book in a case where any of the requirements imposed by or under any of the following provisions of this Act is applicable but not complied with—
 
 - (a) section 139A(2) to (7);
 - (b) section 139B(3) or (5);
@@ -49,4 +49,4 @@ summary: ''
 
 [^c20568901]: Commencement: S. 140 wholly in force at 5.12.2005; s. 140 not in force at Royal Assent see s. 263; s. 140(1)(a) in force at 5.9.2005 for certain purposes by [S.I. 2005/2399](https://www.legislation.gov.uk/uksi/2005/2399), [art. 2](https://www.legislation.gov.uk/uksi/2005/2399/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/2399/schedule) and otherwise 5.12.2005 insofar as not already in force by [S.I. 2005/3255](https://www.legislation.gov.uk/uksi/2005/3255), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3255/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3255/schedule); s. 140 in force at 5.12.2005 insofar as not already in force by [S.I. 2005/3255](https://www.legislation.gov.uk/uksi/2005/3255), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3255/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3255/schedule)
 
-[^key-78c623a4eebd0ce3594e77340865a09a]: Textual amendment: S. 140(2A)(2B) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-78c623a4eebd0ce3594e77340865a09a]: Textual amendment: S. 140(2A)(2B) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))

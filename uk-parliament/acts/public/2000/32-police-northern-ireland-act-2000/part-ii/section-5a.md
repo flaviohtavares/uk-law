@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Contracts relating to detention and escort services[^key-eedfd69b2208888c000ded8140a5a510]
+## 5A. Contracts relating to detention and escort services[^c-eedfd69b2208888c000ded8140a5a510]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eedfd69b2208888c000ded8140a5a510]: Textual amendment: S. 5A inserted (8.4.2003) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 5](https://www.legislation.gov.uk/ukpga/2003/6/section/5)
+[^c-eedfd69b2208888c000ded8140a5a510]: Textual amendment: S. 5A inserted (8.4.2003) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 5](https://www.legislation.gov.uk/ukpga/2003/6/section/5)

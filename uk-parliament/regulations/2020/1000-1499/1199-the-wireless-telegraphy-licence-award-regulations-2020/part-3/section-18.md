@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Determination of overall bid constraints[^key-9f48fe39208f27a6578131855d5464fb]
+## 18. Determination of overall bid constraints[^c-9f48fe39208f27a6578131855d5464fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f48fe39208f27a6578131855d5464fb]: Commencement: Reg. 18 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-9f48fe39208f27a6578131855d5464fb]: Commencement: Reg. 18 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

@@ -41,26 +41,26 @@ on the equivalence of certain third country public oversight, quality assurance,
 
 (2011/30/EU) (revoked)
 
-[^key-e471d6d9f750e8046e7cc0a1f207798d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e471d6d9f750e8046e7cc0a1f207798d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e471d6d9f750e8046e7cc0a1f207798d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e471d6d9f750e8046e7cc0a1f207798d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e471d6d9f750e8046e7cc0a1f207798d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e471d6d9f750e8046e7cc0a1f207798d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-e471d6d9f750e8046e7cc0a1f207798d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-e471d6d9f750e8046e7cc0a1f207798d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-e471d6d9f750e8046e7cc0a1f207798d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-e471d6d9f750e8046e7cc0a1f207798d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-e471d6d9f750e8046e7cc0a1f207798d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-e471d6d9f750e8046e7cc0a1f207798d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — LIST OF THIRD COUNTRIES AND TERRITORIES[^key-e471d6d9f750e8046e7cc0a1f207798d]
+## ANNEX I — LIST OF THIRD COUNTRIES AND TERRITORIES[^c-e471d6d9f750e8046e7cc0a1f207798d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — LIST OF THIRD COUNTRIES[^key-e471d6d9f750e8046e7cc0a1f207798d]
+## ANNEX II — LIST OF THIRD COUNTRIES[^c-e471d6d9f750e8046e7cc0a1f207798d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e471d6d9f750e8046e7cc0a1f207798d]: Textual amendment: Decision revoked (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [reg. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [Sch. 3 para. 1(d)](https://www.legislation.gov.uk/uksi/2019/177/schedule/3/paragraph/1/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e471d6d9f750e8046e7cc0a1f207798d]: Textual amendment: Decision revoked (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [reg. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [Sch. 3 para. 1(d)](https://www.legislation.gov.uk/uksi/2019/177/schedule/3/paragraph/1/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

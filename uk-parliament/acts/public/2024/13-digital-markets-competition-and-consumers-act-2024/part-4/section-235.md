@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235. Relationship between rights of redress and other claims relating to prohibited practices[^key-72db184fd7cd1cac20ad2ef02f688de9]
+## 235. Relationship between rights of redress and other claims relating to prohibited practices[^c-72db184fd7cd1cac20ad2ef02f688de9]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72db184fd7cd1cac20ad2ef02f688de9]: Commencement: S. 235 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-72db184fd7cd1cac20ad2ef02f688de9]: Commencement: S. 235 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

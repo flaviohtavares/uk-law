@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Surviving scheme partner[^key-77cd74123d8a22a95885b5a588917b26]
+## 113. Surviving scheme partner[^c-77cd74123d8a22a95885b5a588917b26]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77cd74123d8a22a95885b5a588917b26]: Textual amendment: [Reg. 113](https://www.legislation.gov.uk/ssi/2015/94/regulation/113) substituted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [49](https://www.legislation.gov.uk/ssi/2021/102/regulation/49)
+[^c-77cd74123d8a22a95885b5a588917b26]: Textual amendment: [Reg. 113](https://www.legislation.gov.uk/ssi/2015/94/regulation/113) substituted (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [49](https://www.legislation.gov.uk/ssi/2021/102/regulation/49)

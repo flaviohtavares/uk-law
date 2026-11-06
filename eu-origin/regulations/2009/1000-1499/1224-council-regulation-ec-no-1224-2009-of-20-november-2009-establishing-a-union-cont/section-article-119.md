@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 119. Regulations[^key-b1dc2880149c9836d477633cb9cd433f]
+## Article 119. Regulations[^c-b1dc2880149c9836d477633cb9cd433f]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1dc2880149c9836d477633cb9cd433f]: Textual amendment: [Art. 119](https://www.legislation.gov.uk/eur/2009/1224/article/119) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [27(28)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b1dc2880149c9836d477633cb9cd433f]: Textual amendment: [Art. 119](https://www.legislation.gov.uk/eur/2009/1224/article/119) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [27(28)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

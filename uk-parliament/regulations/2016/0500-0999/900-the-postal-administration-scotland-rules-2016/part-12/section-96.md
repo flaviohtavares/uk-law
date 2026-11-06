@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Electronic submission of information instead of submission of forms to the Secretary of State, postal administrators and of copies to the registrar of companies[^key-1af2a28f1dd8cbacc810cd5370137d9b]
+## 96. Electronic submission of information instead of submission of forms to the Secretary of State, postal administrators and of copies to the registrar of companies[^c-1af2a28f1dd8cbacc810cd5370137d9b]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1af2a28f1dd8cbacc810cd5370137d9b]: Commencement: Rule 96 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-1af2a28f1dd8cbacc810cd5370137d9b]: Commencement: Rule 96 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

@@ -179,37 +179,37 @@ and the commission of the offence, or of what would have been an offence but for
 
 (4) Nothing in this regulation authorises any enforcement authority to bring proceedings in Scotland for an offence.
 
-## 12. Power to make test purchases[^key-eba4e5caaace4377115a7e46746bccc0]
+## 12. Power to make test purchases[^c-eba4e5caaace4377115a7e46746bccc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Power of entry and investigation, etc[^key-eba4e5caaace4377115a7e46746bccc0]
+## 13. Power of entry and investigation, etc[^c-eba4e5caaace4377115a7e46746bccc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Notice[^key-eba4e5caaace4377115a7e46746bccc0]
+## 14. Notice[^c-eba4e5caaace4377115a7e46746bccc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Power to enter premises with a warrant[^key-eba4e5caaace4377115a7e46746bccc0]
+## 15. Power to enter premises with a warrant[^c-eba4e5caaace4377115a7e46746bccc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Obstruction of authorised officers[^key-eba4e5caaace4377115a7e46746bccc0]
+## 16. Obstruction of authorised officers[^c-eba4e5caaace4377115a7e46746bccc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Notice of test and intended proceedings[^key-eba4e5caaace4377115a7e46746bccc0]
+## 17. Notice of test and intended proceedings[^c-eba4e5caaace4377115a7e46746bccc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Compensation[^key-eba4e5caaace4377115a7e46746bccc0]
+## 18. Compensation[^c-eba4e5caaace4377115a7e46746bccc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 19. Crown
 
-(1)[^key-3481935ed7a363f87f95af8e9ae503ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-3481935ed7a363f87f95af8e9ae503ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Crown is not criminally liable as a result of any provision of these Regulations.
 
@@ -223,7 +223,7 @@ and the commission of the offence, or of what would have been an offence but for
 - (b) set out the conclusions of the review in a report, and
 - (c) lay the report before Parliament.
 
-(2)[^key-65343e5daefad7af60d2f410ae669599] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-65343e5daefad7af60d2f410ae669599] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
@@ -268,7 +268,7 @@ Regulation 5(1)
 | 1\. Article 4 | Products shall only be made available on the market provided that they are labelled, marked or accompanied with commercial documents complying with the EU Regulation |
 | 2\. Article 5 | Only textile fibre names listed in Annex I to the EU Regulation shall be used for the description of fibre compositions on labels and markings |
 | 3\. Article 7 | Provisions relating to the use of the terms ““100%””, ““pure”” or ““all”” |
-| 4\. Article 8 | Provisions relating to the labelling or marking of fleece wool or virgin wool products [^key-bbf1944830a9a70933c23be800cbe392]... |
+| 4\. Article 8 | Provisions relating to the labelling or marking of fleece wool or virgin wool products [^c-bbf1944830a9a70933c23be800cbe392]... |
 | 5\. Article 9 | Provisions relating to labelling or marking of multi fibre products |
 | 6\. Article 11 | Provisions for the labelling of multi component products |
 | 7\. Article 12 | Provisions for the labelling of products containing non textile parts of animal origin |
@@ -320,10 +320,10 @@ An impact assessment of the effect that the instrument will have on the costs to
 
 [^c21243491]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-eba4e5caaace4377115a7e46746bccc0]: Textual amendment: [Regs. 12-18](https://www.legislation.gov.uk/uksi/2012/1102/regulation/12) revoked (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 130](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/130) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-eba4e5caaace4377115a7e46746bccc0]: Textual amendment: [Regs. 12-18](https://www.legislation.gov.uk/uksi/2012/1102/regulation/12) revoked (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 130](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/130) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-3481935ed7a363f87f95af8e9ae503ef]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2012/1102/regulation/19/1) omitted (1.10.2015) by virtue of [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 131](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/131) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-3481935ed7a363f87f95af8e9ae503ef]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2012/1102/regulation/19/1) omitted (1.10.2015) by virtue of [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 131](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/131) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-65343e5daefad7af60d2f410ae669599]: Textual amendment: [Reg. 20(2)](https://www.legislation.gov.uk/uksi/2012/1102/regulation/20/2) omitted (31.12.2020) by virtue of [The Textile Products (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1398)](https://www.legislation.gov.uk/uksi/2018/1398), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1398/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1398/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-65343e5daefad7af60d2f410ae669599]: Textual amendment: [Reg. 20(2)](https://www.legislation.gov.uk/uksi/2012/1102/regulation/20/2) omitted (31.12.2020) by virtue of [The Textile Products (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1398)](https://www.legislation.gov.uk/uksi/2018/1398), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1398/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/1398/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bbf1944830a9a70933c23be800cbe392]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1102/schedule/2) omitted (31.12.2020) by virtue of [The Textile Products (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1398)](https://www.legislation.gov.uk/uksi/2018/1398), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1398/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1398/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bbf1944830a9a70933c23be800cbe392]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1102/schedule/2) omitted (31.12.2020) by virtue of [The Textile Products (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1398)](https://www.legislation.gov.uk/uksi/2018/1398), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1398/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/1398/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

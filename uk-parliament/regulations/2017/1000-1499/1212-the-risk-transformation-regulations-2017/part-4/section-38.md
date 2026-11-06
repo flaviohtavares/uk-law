@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Provision of information for publication on European e-Justice portal[^key-564844eacf40b1997a62c66bd57b1ea4]
+## 38. Provision of information for publication on European e-Justice portal[^c-564844eacf40b1997a62c66bd57b1ea4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-564844eacf40b1997a62c66bd57b1ea4]: Textual amendment: Reg. 38 omitted (31.12.2020) by virtue of [The Risk Transformation and Solvency 2 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1233)](https://www.legislation.gov.uk/uksi/2019/1233), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1233/regulation/1/4), [2(6)](https://www.legislation.gov.uk/uksi/2019/1233/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-564844eacf40b1997a62c66bd57b1ea4]: Textual amendment: Reg. 38 omitted (31.12.2020) by virtue of [The Risk Transformation and Solvency 2 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1233)](https://www.legislation.gov.uk/uksi/2019/1233), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1233/regulation/1/4), [2(6)](https://www.legislation.gov.uk/uksi/2019/1233/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

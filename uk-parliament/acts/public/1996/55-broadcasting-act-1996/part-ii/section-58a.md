@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58A. Renewal of radio multiplex licences: supplementary[^key-171e45e332f6bf78d25b77d847176583]
+## 58A. Renewal of radio multiplex licences: supplementary[^c-171e45e332f6bf78d25b77d847176583]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-171e45e332f6bf78d25b77d847176583]: Textual amendment: S. 58A inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/36/1), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-171e45e332f6bf78d25b77d847176583]: Textual amendment: S. 58A inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/36/1), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

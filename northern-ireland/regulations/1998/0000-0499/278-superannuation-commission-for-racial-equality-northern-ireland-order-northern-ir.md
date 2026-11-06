@@ -30,7 +30,7 @@ summary: ''
 
 PENSIONS
 
-Superannuation (Commission for Racial Equality (Northern Ireland)) Order (Northern Ireland) 1998 (revoked)[^key-3054ee5638fa01ef49e5c21279ef601e]
+Superannuation (Commission for Racial Equality (Northern Ireland)) Order (Northern Ireland) 1998 (revoked)[^c-3054ee5638fa01ef49e5c21279ef601e]
 
 Made
 
@@ -40,20 +40,20 @@ Coming into operation
 
 14th September 1998
 
-[^key-3054ee5638fa01ef49e5c21279ef601e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3054ee5638fa01ef49e5c21279ef601e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-3054ee5638fa01ef49e5c21279ef601e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3054ee5638fa01ef49e5c21279ef601e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3054ee5638fa01ef49e5c21279ef601e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3054ee5638fa01ef49e5c21279ef601e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3054ee5638fa01ef49e5c21279ef601e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3054ee5638fa01ef49e5c21279ef601e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3054ee5638fa01ef49e5c21279ef601e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3054ee5638fa01ef49e5c21279ef601e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3054ee5638fa01ef49e5c21279ef601e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/278) revoked (24.1.2001) by [Superannuation (Equality Commission for Northern Ireland) Order (Northern Ireland) 2000 (S.R. 2000/391)](https://www.legislation.gov.uk/nisr/2000/391), [arts. 1](https://www.legislation.gov.uk/nisr/2000/391/article/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2000/391/article/4/1/b)
+[^c-3054ee5638fa01ef49e5c21279ef601e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/278) revoked (24.1.2001) by [Superannuation (Equality Commission for Northern Ireland) Order (Northern Ireland) 2000 (S.R. 2000/391)](https://www.legislation.gov.uk/nisr/2000/391), [arts. 1](https://www.legislation.gov.uk/nisr/2000/391/article/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2000/391/article/4/1/b)

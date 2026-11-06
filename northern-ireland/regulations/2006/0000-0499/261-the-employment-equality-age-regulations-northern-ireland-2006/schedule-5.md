@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 51
 
-### 1. Interpretation[^key-486596b1e67fac64a7b313799aa7baae]
+### 1. Interpretation[^c-486596b1e67fac64a7b313799aa7baae]
 
 (1) In this Schedule—
 
@@ -49,7 +49,7 @@ Regulation 51
 - (d) in a case to which paragraph 3 has applied, any earlier or later date that has superseded the date mentioned in head (a), (b) or (c) as the intended date of retirement by virtue of paragraph 3(3);
 - (e) in a case to which paragraph 10 has applied, the later date that has superseded the date mentioned in head (a), (b) or (c) as the intended date of retirement by virtue of paragraph 10(3)(b).
 
-### 2. Duty of employer to notify employee[^key-e8348b3df4674b48d6511b570041982b]
+### 2. Duty of employer to notify employee[^c-e8348b3df4674b48d6511b570041982b]
 
 (1) An employer who intends to retire an employee has a duty to notify the employee in writing of—
 
@@ -64,7 +64,7 @@ not more than one year and not less than six months before that date.
 - (b) any other notification of, or information about, the employee’s date of retirement given to him by the employer at any time; and
 - (c) any other information about the employee’s right to make a request given to him by the employer at any time.
 
-**3.**[^key-dbd995b6cdf12647296e69de9da2f27b] (1) This paragraph applies if the employer has notified the employee in accordance with paragraph 2 or 4 or the employee has made a request before being notified in accordance with paragraph 4 (including where no notification in accordance with that paragraph is given), and—
+**3.**[^c-dbd995b6cdf12647296e69de9da2f27b] (1) This paragraph applies if the employer has notified the employee in accordance with paragraph 2 or 4 or the employee has made a request before being notified in accordance with paragraph 4 (including where no notification in accordance with that paragraph is given), and—
 
 - (a) the employer and employee agree, in accordance with paragraph 7(3)(b) or 8(5)(b), that the dismissal is to take effect on a date later than the relevant date;
 - (b) the employer gives notice to the employee, in accordance with paragraph 7(7)(a)(ii) or, where the employee appeals, paragraph 8(9)(a)(ii), that the dismissal is to take effect on a date later than the relevant date; or
@@ -84,11 +84,11 @@ the earlier or later date shall supersede the relevant date as the intended date
 
 (4) In this paragraph, “the relevant date” means the date that is defined as the intended date of retirement in head (a), (b) or (c) of paragraph 1(2).
 
-### 4. Continuing duty to notify employee[^key-581326ce708e473976de2b58bba15b4d]
+### 4. Continuing duty to notify employee[^c-581326ce708e473976de2b58bba15b4d]
 
 Where the employer has failed to comply with paragraph 2, he has a continuing duty to notify the employee in writing as described in paragraph 2(1) until the fourteenth day before the operative date of termination.
 
-### 5. Statutory right to request not to retire[^key-ac5fb5635f201dce295ee5c17d235ab1]
+### 5. Statutory right to request not to retire[^c-ac5fb5635f201dce295ee5c17d235ab1]
 
 (1) An employee may make a request to his employer not to retire on the intended date of retirement.
 
@@ -109,11 +109,11 @@ and, if the request is made at a time when it is no longer possible for the empl
 - (a) in a case where the employer has complied with paragraph 2, more than three months but not more than six months before the intended date of retirement; or
 - (b) in a case where the employer has not complied with paragraph 2, before, but not more than six months before, the intended date of retirement .
 
-### 6. An employer’s duty to consider a request[^key-1bf0155ab6be89bb6a7429915d186f02]
+### 6. An employer’s duty to consider a request[^c-1bf0155ab6be89bb6a7429915d186f02]
 
 An employer to whom a request is made is under a duty to consider the request in accordance with paragraphs 7 to 9.
 
-### 7. Meeting to consider request[^key-adca84051762c8dbd7eb57a9d1a61860]
+### 7. Meeting to consider request[^c-adca84051762c8dbd7eb57a9d1a61860]
 
 (1) An employer having a duty under paragraph 6 to consider a request shall hold a meeting to discuss the request with the employee within a reasonable period after receiving it.
 
@@ -144,7 +144,7 @@ and, in the case of a notice falling within head (b), and of a notice referred t
 
 (8) All notices given under this paragraph shall be in writing and be dated.
 
-### 8. Appeals[^key-b7ff308261cb7c9c970a6034deb3d125]
+### 8. Appeals[^c-b7ff308261cb7c9c970a6034deb3d125]
 
 (1) An employee is entitled to appeal against—
 
@@ -182,7 +182,7 @@ by giving notice in accordance with sub-paragraph (2) as soon as is reasonably p
 
 (10) All notices given under this paragraph shall be in writing and be dated.
 
-### 9. Right to be accompanied[^key-8f64538209c25673b4648b06c322ca44]
+### 9. Right to be accompanied[^c-8f64538209c25673b4648b06c322ca44]
 
 (1) This paragraph applies where—
 
@@ -213,7 +213,7 @@ the employer must postpone the meeting to the time proposed by the employee.
 
 (6) Articles 92(3) and (4), 93 and 95 of the 1996 Order (time off for carrying out trade union duties) shall apply in relation to sub-paragraph (5) as they apply in relation to Article 92(1) of that Order.
 
-### 10. Dismissal before request considered[^key-f14442bfdf5f63684484970b74351a6c]
+### 10. Dismissal before request considered[^c-f14442bfdf5f63684484970b74351a6c]
 
 (1) This paragraph applies where—
 
@@ -231,7 +231,7 @@ the employer must postpone the meeting to the time proposed by the employee.
 
 (4) Any continuation of the contract of employment under sub-paragraph (2) shall be disregarded when determining the operative date of termination for the purposes of Articles 130ZA to 130ZH of the 1996 Order[^f00054].
 
-### 11. Complaint to industrial tribunal: failure to comply with paragraph 2[^key-492dcf87a3886a6f4fc78d6bb402ca3c]
+### 11. Complaint to industrial tribunal: failure to comply with paragraph 2[^c-492dcf87a3886a6f4fc78d6bb402ca3c]
 
 (1) An employee may present a complaint to an industrial tribunal that his employer has failed to comply with the duty to notify him in paragraph 2.
 
@@ -248,7 +248,7 @@ the employer must postpone the meeting to the time proposed by the employee.
 
 (5) The limit in Article 23(1) of the 1996 Order[^f00055] (maximum amount of a week’s pay) shall apply for the purposes of sub-paragraph (3).
 
-### 12. Complaint to industrial tribunal: denial of right to be accompanied[^key-01055cd8612128fdbe18de61fe0202be]
+### 12. Complaint to industrial tribunal: denial of right to be accompanied[^c-01055cd8612128fdbe18de61fe0202be]
 
 (1) An employee may present a complaint to an industrial tribunal that his employer has failed, or threatened to fail, to comply with paragraph 9(2) or (3).
 
@@ -263,7 +263,7 @@ the employer must postpone the meeting to the time proposed by the employee.
 
 (5) The limit in Article 23(1) of the 1996 Order (maximum amount of a week’s pay) shall apply for the purposes of sub-paragraph (3).
 
-### 13. Detriment and dismissal[^key-7b6e9001d39221630255cd33803d0fff]
+### 13. Detriment and dismissal[^c-7b6e9001d39221630255cd33803d0fff]
 
 (1) An employee has the right not to be subjected to any detriment by any act by his employer done on the ground that he exercised or sought to exercise his right to be accompanied in accordance with paragraph 9.
 
@@ -282,36 +282,36 @@ the employer must postpone the meeting to the time proposed by the employee.
 
 ## Annotations
 
-[^key-486596b1e67fac64a7b313799aa7baae]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/1) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-486596b1e67fac64a7b313799aa7baae]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/1) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00053]: Footnote: S.I. [1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); Article 127 was amended by Schedule 9 to the Employment Relations (Northern Ireland) Order 1999 (S.I. [1999/2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790)) and regulation 11 of, and paragraph 2(7) of Schedule 2 to, [S.R. 2002 No. 298](https://www.legislation.gov.uk/nisr/2002/298)
 
-[^key-e8348b3df4674b48d6511b570041982b]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/2) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-e8348b3df4674b48d6511b570041982b]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/2) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-dbd995b6cdf12647296e69de9da2f27b]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/3) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-dbd995b6cdf12647296e69de9da2f27b]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/3) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-581326ce708e473976de2b58bba15b4d]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/4) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-581326ce708e473976de2b58bba15b4d]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/4) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-ac5fb5635f201dce295ee5c17d235ab1]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/5) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-ac5fb5635f201dce295ee5c17d235ab1]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/5) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-1bf0155ab6be89bb6a7429915d186f02]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/6) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-1bf0155ab6be89bb6a7429915d186f02]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/6) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-adca84051762c8dbd7eb57a9d1a61860]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/7) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-adca84051762c8dbd7eb57a9d1a61860]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/7) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-b7ff308261cb7c9c970a6034deb3d125]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/8) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-b7ff308261cb7c9c970a6034deb3d125]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/8) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-8f64538209c25673b4648b06c322ca44]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/9) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-8f64538209c25673b4648b06c322ca44]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/9) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-f14442bfdf5f63684484970b74351a6c]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/10) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-f14442bfdf5f63684484970b74351a6c]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/10) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00054]: Footnote: Articles 130ZA to 130ZH are inserted by regulation 53 of, and paragraph 3(4) of Schedule 7 to, these Regulations
 
-[^key-492dcf87a3886a6f4fc78d6bb402ca3c]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/11) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-492dcf87a3886a6f4fc78d6bb402ca3c]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/11) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00055]: Footnote: Article 23(1) was amended by paragraph 4 of Schedule 2 to the Employment (Northern Ireland) Order 2002 (S.I. [2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)) and paragraph 2(2) of Schedule 5 to the Employment (Northern Ireland) Order 2003 (S.I. [2003/2902 (N.I. 15)](https://www.legislation.gov.uk/nisi/2003/2902). The amount laid down in Article 23(1) may be increased or decreased by order made by the Department for Employment and Learning under Article 33 of the Employment Relations (Northern Ireland) Order 1999 (S.I. [1999/2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790)): *see* [S.R. 2006 No. 75](https://www.legislation.gov.uk/nisr/2006/75)
 
-[^key-01055cd8612128fdbe18de61fe0202be]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/12) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-01055cd8612128fdbe18de61fe0202be]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/12) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-7b6e9001d39221630255cd33803d0fff]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/13) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-7b6e9001d39221630255cd33803d0fff]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/nisr/2006/261/schedule/5/paragraph/13) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00056]: Footnote: Article 71 was amended by regulation 31(2) of [S.R. 1998 No. 386](https://www.legislation.gov.uk/nisr/1998/386); paragraph 3 of the Schedule to the Employment Rights (Time off for Study or Training) (Northern Ireland) Order 1998 (S.I. [1998/1761 (N.I. 15)](https://www.legislation.gov.uk/nisi/1998/1761)); Article 6 of the Public Interest Disclosure (Northern Ireland) Order 1998 (S.I. [1998/1763 (N.I. 17)](https://www.legislation.gov.uk/nisi/1998/1763)); paragraph 4 of Schedule 4 to the Employment Relations (Northern Ireland) Order 1999 (S.I. [1999/2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790)); paragraph 4(8) of Schedule 2 to the Employment (Northern Ireland) Order 2002 (S.I. [2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)); paragraph 2(3) of Schedule 1 to the Tax Credit Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21); paragraph 2(3) of Schedule 5 to the Employment (Northern Ireland) Order 2003 (S.I. [2003/2902 (N.I. 15)](https://www.legislation.gov.uk/nisi/2003/2902)) and paragraph 20(2) of Schedule 1 to the Employment Relations (Northern Ireland) Order 2004 (S.I. [2004/3078 (N.I. 19)](https://www.legislation.gov.uk/nisi/2004/3078))

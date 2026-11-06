@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Inquiries under section 33: co-operation[^key-5ab53b049334efe4c601a39bcc4f11d1]
+## 34. Inquiries under section 33: co-operation[^c-5ab53b049334efe4c601a39bcc4f11d1]
 
 *Extent: S*
 
@@ -33,8 +33,8 @@ the authority may request that person to provide the assistance specified in the
 
 - (a) the Commission;
 - (b) the Public Guardian;
-- (ba)[^key-73aefd6564d2f90e7f13d009d43b630f] Healthcare Improvement Scotland;
-- (c)[^key-d9229384c16df1dcdd520cb3242b72b5] Social Care and Social Work Improvement Scotland;
+- (ba)[^c-73aefd6564d2f90e7f13d009d43b630f] Healthcare Improvement Scotland;
+- (c)[^c-d9229384c16df1dcdd520cb3242b72b5] Social Care and Social Work Improvement Scotland;
 - (d) a Health Board; and
 - (e) a National Health Service trust.
 
@@ -49,8 +49,8 @@ the authority may request that person to provide the assistance specified in the
 
 ## Annotations
 
-[^key-5ab53b049334efe4c601a39bcc4f11d1]: Commencement: S. 34 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-5ab53b049334efe4c601a39bcc4f11d1]: Commencement: S. 34 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-73aefd6564d2f90e7f13d009d43b630f]: Textual amendment: S. 34(3)(ba) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 17 para. 32](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/32); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-73aefd6564d2f90e7f13d009d43b630f]: Textual amendment: S. 34(3)(ba) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 17 para. 32](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/32); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-d9229384c16df1dcdd520cb3242b72b5]: Textual amendment: S. 34(3)(c) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 18](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/18); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-d9229384c16df1dcdd520cb3242b72b5]: Textual amendment: S. 34(3)(c) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 18](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/18); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

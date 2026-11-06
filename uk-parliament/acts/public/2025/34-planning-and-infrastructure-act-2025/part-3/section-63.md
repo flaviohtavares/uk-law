@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Other requirements for an EDP[^key-18964801383dde5661b5aef090c1982d][^key-8ef4d0bf3b8439928ce18245ed04565b]
+## 63. Other requirements for an EDP[^c-18964801383dde5661b5aef090c1982d][^c-8ef4d0bf3b8439928ce18245ed04565b]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ that may be granted to Natural England to facilitate the carrying out of any con
 
 ## Annotations
 
-[^key-18964801383dde5661b5aef090c1982d]: Commencement: S. 63 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-18964801383dde5661b5aef090c1982d]: Commencement: S. 63 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-8ef4d0bf3b8439928ce18245ed04565b]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2025/34/section/63) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/e)
+[^c-8ef4d0bf3b8439928ce18245ed04565b]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2025/34/section/63) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Duration etc. of temporary stop notice[^key-329876cd3ebb6af6a6fdbd7eca28f223][^key-654b59a34bfdcf05e4fdedfee97e5568]
+## 120. Duration etc. of temporary stop notice[^c-329876cd3ebb6af6a6fdbd7eca28f223][^c-654b59a34bfdcf05e4fdedfee97e5568]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-329876cd3ebb6af6a6fdbd7eca28f223]: Commencement: S. 120 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-329876cd3ebb6af6a6fdbd7eca28f223]: Commencement: S. 120 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-654b59a34bfdcf05e4fdedfee97e5568]: Commencement: [S. 120](https://www.legislation.gov.uk/asc/2023/3/section/120) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-654b59a34bfdcf05e4fdedfee97e5568]: Commencement: [S. 120](https://www.legislation.gov.uk/asc/2023/3/section/120) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

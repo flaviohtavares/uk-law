@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Decision notices[^key-c44b47a0a353748ed94aaf4999863a76][^key-300e8b0059a1a40b45d2f6244d7f7c12]
+## 62. Decision notices[^c-c44b47a0a353748ed94aaf4999863a76][^c-300e8b0059a1a40b45d2f6244d7f7c12]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ In relation to any notice given by the Regulator to a person which, by virtue of
 
 ## Annotations
 
-[^key-c44b47a0a353748ed94aaf4999863a76]: Commencement: Art. 62 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-c44b47a0a353748ed94aaf4999863a76]: Commencement: Art. 62 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-300e8b0059a1a40b45d2f6244d7f7c12]: Commencement: [Art. 62](https://www.legislation.gov.uk/uksi/2018/1253/article/62) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-300e8b0059a1a40b45d2f6244d7f7c12]: Commencement: [Art. 62](https://www.legislation.gov.uk/uksi/2018/1253/article/62) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

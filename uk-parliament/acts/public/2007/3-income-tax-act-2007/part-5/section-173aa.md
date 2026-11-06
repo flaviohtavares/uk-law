@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173AA. Maximum risk finance investments at the issue date requirement[^key-5f12fd7742bf1d59264236b6c69d36bb]
+## 173AA. Maximum risk finance investments at the issue date requirement[^c-5f12fd7742bf1d59264236b6c69d36bb]
 
 *Extent: E+W+S+N.I.*
 
 (1) The total amount of relevant investments made in the issuing company on or before the issue date must not exceed—
 
-- (a)[^key-914c225bb1a04f2679e6a3e50142649f] if at the issue date the issuing company is a knowledge-intensive company (see section 252A) and—
+- (a)[^c-914c225bb1a04f2679e6a3e50142649f] if at the issue date the issuing company is a knowledge-intensive company (see section 252A) and—
   - (i) not a specified Northern Ireland company, £40 million;
   - (ii) a specified Northern Ireland company, £20 million, and
 - (b) if at the issue date the issuing company is not a knowledge-intensive company and—
@@ -60,6 +60,6 @@ and section 173A(6) and (7) (meaning of “trade” etc) applies for the purpose
 
 ## Annotations
 
-[^key-5f12fd7742bf1d59264236b6c69d36bb]: Textual amendment: Ss. 173AA, 173AB inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/8)
+[^c-5f12fd7742bf1d59264236b6c69d36bb]: Textual amendment: Ss. 173AA, 173AB inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/8)
 
-[^key-914c225bb1a04f2679e6a3e50142649f]: Textual amendment: S. 173AA(1)(a)(b) substituted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 14(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/14/3)[(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/14/8)
+[^c-914c225bb1a04f2679e6a3e50142649f]: Textual amendment: S. 173AA(1)(a)(b) substituted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 14(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/14/3)[(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/14/8)

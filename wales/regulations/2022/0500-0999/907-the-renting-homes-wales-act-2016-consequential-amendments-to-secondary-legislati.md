@@ -45,17 +45,17 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on them by section 255 of the Renting Homes (Wales) Act 2016[^f00001], make the following Regulations.
 
-## 1. Title and commencement[^key-77ca5477c8688c6733fddb6b220d570b]
+## 1. Title and commencement[^c-77ca5477c8688c6733fddb6b220d570b]
 
 (1) The title of these Regulations is the Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022.
 
 (2) These Regulations come into force on 1 December 2022.
 
-## 2. Amendments[^key-3d6bae0caa64250d1790676d968487c5]
+## 2. Amendments[^c-3d6bae0caa64250d1790676d968487c5]
 
 Schedule 1 (amendments consequential upon the commencement of the Renting Homes (Wales) Act 2016) has effect.
 
-## 3. Revocations[^key-25a943f55f8fc9ce2ba93f6f7fbbcc7c]
+## 3. Revocations[^c-25a943f55f8fc9ce2ba93f6f7fbbcc7c]
 
 Schedule 2 (revocations) has effect.
 
@@ -67,14 +67,14 @@ Minister for Climate Change, one of the Welsh Ministers
 
 Regulation 2
 
-### 1. Rent Assessment Committees (England and Wales) Regulations 1971[^key-1c21513cd92997d88ccf740d07e979d2]
+### 1. Rent Assessment Committees (England and Wales) Regulations 1971[^c-1c21513cd92997d88ccf740d07e979d2]
 
 The Rent Assessment Committees (England and Wales) Regulations 1971[^f00002] are amended as follows—
 
 - (a) in regulation 2[^f00003] (interpretation), in paragraph (2), in the definition of “reference”, omit “or which is referred or made under section 6, 13, 14A or 22 of the Housing Act 1988”;
 - (b) in regulation 2A[^f00004] (1988 and 1989 Act references), in paragraph (1), omit “▪ section 6, 13, 14A or 22 of the Housing Act 1988;”.
 
-### 2. Secure Tenancies (Designated Courses) Regulations 1980[^key-31d522a64db5fcade639170bd0ef55c7]
+### 2. Secure Tenancies (Designated Courses) Regulations 1980[^c-31d522a64db5fcade639170bd0ef55c7]
 
 After regulation 1 of the Secure Tenancies (Designated Courses) Regulations 1980[^f00005] (citation and commencement), insert—
 
@@ -82,53 +82,53 @@ After regulation 1 of the Secure Tenancies (Designated Courses) Regulations 1980
 >
 > These Regulations apply in relation to England only.
 
-### 3. Assured Tenancies (Notice to Tenant) Regulations 1981[^key-f9420ebbd5558599fb281b77ea6a2206]
+### 3. Assured Tenancies (Notice to Tenant) Regulations 1981[^c-f9420ebbd5558599fb281b77ea6a2206]
 
 After regulation 1 of the Assured Tenancies (Notice to Tenant) Regulations 1981[^f00006], insert—
 
 > **1A.** These Regulations apply in relation to England only.
 
-### 4. Rent Book (Forms of Notice) Regulations 1982[^key-08ef560a040bd727810b5a669e722f1e]
+### 4. Rent Book (Forms of Notice) Regulations 1982[^c-08ef560a040bd727810b5a669e722f1e]
 
 In regulation 3(1)(d) of the Rent Book (Forms of Notice) Regulations 1982[^f00007], at the beginning, insert “in the case of England only,”.
 
-### 5. Secure Tenancies (Right to Repair Scheme) Regulations 1985[^key-660ce75cf8cae16a4836090691d75ea7]
+### 5. Secure Tenancies (Right to Repair Scheme) Regulations 1985[^c-660ce75cf8cae16a4836090691d75ea7]
 
 After regulation 1 of the Secure Tenancies (Right to Repair Scheme) Regulations 1985[^f00008], insert—
 
 > **1A.** These Regulations apply in relation to England only.
 
-### 6. Landlord and Tenant Act 1954, Part II (Assured Tenancies) (Notices) Regulations 1986[^key-92ece12973ea5beecdb146445a2d95c9]
+### 6. Landlord and Tenant Act 1954, Part II (Assured Tenancies) (Notices) Regulations 1986[^c-92ece12973ea5beecdb146445a2d95c9]
 
 After regulation 1 of the Landlord and Tenant Act 1954, Part II (Assured Tenancies) (Notices) Regulations 1986[^f00009], insert—
 
 > **1A.** These Regulations apply in relation to England only.
 
-### 7. Assured Tenancies (Prescribed Amount) Order 1987[^key-d3ff123c89a8c4545a82ca07f7997709]
+### 7. Assured Tenancies (Prescribed Amount) Order 1987[^c-d3ff123c89a8c4545a82ca07f7997709]
 
 After article 1 of the Assured Tenancies (Prescribed Amount) Order 1987[^f00010], insert—
 
 > **1A.** This Order applies in relation to England only.
 
-### 8. Protected Shorthold Tenancies (Notice to Tenant) Regulations 1987[^key-c876d9615065398425981dae05299ae8]
+### 8. Protected Shorthold Tenancies (Notice to Tenant) Regulations 1987[^c-c876d9615065398425981dae05299ae8]
 
 After regulation 1 of the Protected Shorthold Tenancies (Notice to Tenant) Regulations 1987[^f00011], insert—
 
 > **1A.** These Regulations apply in relation to England only.
 
-### 9. Secure Tenancies (Notices) Regulations 1987[^key-e68b2c6b67adabab61a4f6d479d1a767]
+### 9. Secure Tenancies (Notices) Regulations 1987[^c-e68b2c6b67adabab61a4f6d479d1a767]
 
 After regulation 1 of the Secure Tenancies (Notices) Regulations 1987[^f00012], insert —
 
 > **1A.** These Regulations apply in relation to England only.
 
-### 10. Assured Tenancies and Agricultural Occupancies (Rent Information) Order 1988[^key-45381d7171aeb3f70dc7a3b333400d01]
+### 10. Assured Tenancies and Agricultural Occupancies (Rent Information) Order 1988[^c-45381d7171aeb3f70dc7a3b333400d01]
 
 After article 1 of the Assured Tenancies and Agricultural Occupancies (Rent Information) Order 1988[^f00013], insert—
 
 > **1A.** This Order applies in relation to England only.
 
-### 11. Housing Action Trust Areas (Tenant Notification) Regulations 1989[^key-6c68988b0cf574066f1b369b4e73cefe]
+### 11. Housing Action Trust Areas (Tenant Notification) Regulations 1989[^c-6c68988b0cf574066f1b369b4e73cefe]
 
 The Housing Action Trust Areas (Tenant Notification) Regulations 1989[^f00014] are amended as follows—
 
@@ -144,11 +144,11 @@ The Housing Action Trust Areas (Tenant Notification) Regulations 1989[^f00014] a
   > - (a) paragraph 7(3)(a) of Schedule 2 to the Renting Homes (Wales) Act 2016[^f00016] (business tenancies), or
   > - (b) paragraph 7(3)(g) of Schedule 2 to the Renting Homes (Wales) Act 2016 (long tenancies).
 
-### 12. Council Tax (Exempt Dwellings) Order 1992[^key-a5b9dff1bb015904eb6aab505e19986a]
+### 12. Council Tax (Exempt Dwellings) Order 1992[^c-a5b9dff1bb015904eb6aab505e19986a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Secure Tenants of Local Housing Authorities (Right to Repair) Regulations 1994[^key-9764de5d7483ec2ff5df8a23607c36c5]
+### 13. Secure Tenants of Local Housing Authorities (Right to Repair) Regulations 1994[^c-9764de5d7483ec2ff5df8a23607c36c5]
 
 After regulation 1 of the Secure Tenants of Local Housing Authorities (Right to Repair) Regulations 1994[^f00020] (citation and commencement), insert—
 
@@ -156,7 +156,7 @@ After regulation 1 of the Secure Tenants of Local Housing Authorities (Right to 
 >
 > These Regulations apply in relation to England only.
 
-### 14. Secure Tenants of Local Authorities (Compensation for Improvements) Regulations 1994[^key-c588ad5ab3c847fd13d6fd81aa14edd0]
+### 14. Secure Tenants of Local Authorities (Compensation for Improvements) Regulations 1994[^c-c588ad5ab3c847fd13d6fd81aa14edd0]
 
 After regulation 1 of the Secure Tenants of Local Authorities (Compensation for Improvements) Regulations 1994[^f00021] (citation and commencement), insert—
 
@@ -164,7 +164,7 @@ After regulation 1 of the Secure Tenants of Local Authorities (Compensation for 
 >
 > These Regulations apply in relation to England only.
 
-### 15. Housing (Right to Manage) Regulations 1994[^key-8b25b776a5c2e5d6c7790f2369304084]
+### 15. Housing (Right to Manage) Regulations 1994[^c-8b25b776a5c2e5d6c7790f2369304084]
 
 The Housing (Right to Manage) Regulations 1994[^f00022] are amended as follows—
 
@@ -188,7 +188,7 @@ The Housing (Right to Manage) Regulations 1994[^f00022] are amended as follows�
   - (i) in paragraph (5), for “secure tenants”, substitute “contract-holders under a secure contract”;
   - (ii) in paragraph (13), for “secure tenants”, substitute “contract-holders under a secure contract”.
 
-### 16. Introductory Tenants (Review) Regulations 1997[^key-d142068e8de45a34e6e7a9bef481ab15]
+### 16. Introductory Tenants (Review) Regulations 1997[^c-d142068e8de45a34e6e7a9bef481ab15]
 
 After regulation 1 of the Introductory Tenants (Review) Regulations 1997[^f00023] (citation, commencement and interpretation), insert—
 
@@ -196,7 +196,7 @@ After regulation 1 of the Introductory Tenants (Review) Regulations 1997[^f00023
 >
 > These Regulations apply in relation to England only.
 
-### 17. Rent Officers (Housing Benefit Functions) Order 1997[^key-7f393a6ce51749ee6ed3f258d11eb7b5]
+### 17. Rent Officers (Housing Benefit Functions) Order 1997[^c-7f393a6ce51749ee6ed3f258d11eb7b5]
 
 The Rent Officers (Housing Benefit Functions) Order 1997[^f00024] is amended as follows—
 
@@ -297,7 +297,7 @@ The Rent Officers (Housing Benefit Functions) Order 1997[^f00024] is amended as 
   - (i) in paragraph 1(a) (houseboats), for “or an assured tenancy”, substitute “, an assured tenancy or an occupation contract”;
   - (ii) in paragraph 2(a) (mobile homes), for “or an assured tenancy”, substitute “, an assured tenancy or an occupation contract”.
 
-### 18. Long Residential Tenancies (Supplemental Forms) Regulations 1997[^key-dbbb34d5daec81a2be46394f2567df9a]
+### 18. Long Residential Tenancies (Supplemental Forms) Regulations 1997[^c-dbbb34d5daec81a2be46394f2567df9a]
 
 In the Long Residential Tenancies (Supplemental Forms) Regulations 1997[^f00034], in the Schedule (prescribed forms), Form 8 ((long residential tenancies) landlord’s notice requiring consent of other landlord to notice terminating long residential tenancy) is amended as follows—
 
@@ -305,7 +305,7 @@ In the Long Residential Tenancies (Supplemental Forms) Regulations 1997[^f00034]
 - (b) in paragraph 4, for “assured monthly periodic tenancy”, substitute “\[assured monthly periodic tenancy in England\]/\[periodic standard contract in Wales\]”;
 - (c) in Note 3, after “assured monthly periodic tenancy”, insert “in England/periodic standard contract in Wales”.
 
-### 19. Long Residential Tenancies (Principal Forms) Regulations 1997[^key-25d9b21462f79743ab1a226fbe44a48c]
+### 19. Long Residential Tenancies (Principal Forms) Regulations 1997[^c-25d9b21462f79743ab1a226fbe44a48c]
 
 The Long Residential Tenancies (Principal Forms) Regulations 1997[^f00035] are amended as follows—
 
@@ -318,8 +318,8 @@ The Long Residential Tenancies (Principal Forms) Regulations 1997[^f00035] are a
     ;
 - (b) in regulation 3 (forms)—
   - (i) in paragraph (a), after “assured monthly periodic tenancy”, insert “or a periodic standard contract”;
-  - (ii) in paragraph (d), after “assured [^key-4d183df195036584bec930e6aab16503]... periodic tenancy”, insert “or a periodic standard contract”;
-  - (iii) in paragraph (e)[^f00036], after “assured [^key-6e72db6d67b7351b063f8ef0b0554b58]... periodic tenancy”, insert “or a periodic standard contract”;
+  - (ii) in paragraph (d), after “assured [^c-4d183df195036584bec930e6aab16503]... periodic tenancy”, insert “or a periodic standard contract”;
+  - (iii) in paragraph (e)[^f00036], after “assured [^c-6e72db6d67b7351b063f8ef0b0554b58]... periodic tenancy”, insert “or a periodic standard contract”;
 - (c) in the Schedule (prescribed forms)—
   - (i) in Form 1[^f00037] ((long residential tenancies) landlord’s notice terminating long residential tenancy and proposing assured tenancy)—
     - (aa) in the title of the form, after “Assured Tenancy”, insert “or Periodic Standard Contract”;
@@ -360,22 +360,22 @@ The Long Residential Tenancies (Principal Forms) Regulations 1997[^f00035] are a
     - (kk) in Note 4, after “assured periodic tenancy”, insert “in England /periodic standard contract in Wales”;
   - (v) in Form 6 ((long residential tenancies) notice by rent assessment committee requiring further information), in paragraph 2, for “assured periodic tenancy”, in each place it occurs, substitute “\[assured periodic tenancy in England\]/\[periodic standard contract in Wales\]”.
 
-### 20. Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001[^key-211d5a6f442c2b170a719811e9474dae]
+### 20. Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001[^c-211d5a6f442c2b170a719811e9474dae]
 
 In the Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001[^f00042], in the Schedule (arrangements not amounting to a collective investment scheme), in paragraph 7[^f00043] (certain funds relating to leasehold property)—
 
-- (a) at the end of sub-paragraph[^key-09990cff4f32fdbcce8dc0b00050d60b] (a), omit “or”;
+- (a) at the end of sub-paragraph[^c-09990cff4f32fdbcce8dc0b00050d60b] (a), omit “or”;
 - (b) for the full stop at the end of sub-paragraph (b), substitute
 
   > ; or
   >
   > - (c) in money held in an authorised deposit scheme within the meaning of section 47 (deposit schemes: interpretation) of the Renting Homes (Wales) Act 2016.
 
-### 21. Allocation of Housing (Wales) Regulations 2003[^key-25b97e758f335a9e5a61409a32d7424f]
+### 21. Allocation of Housing (Wales) Regulations 2003[^c-25b97e758f335a9e5a61409a32d7424f]
 
 The Allocation of Housing (Wales) Regulations 2003[^f00044] are amended as follows—
 
-- (a)[^key-393c942310600dd67c883542ba515a67] in regulation 2 (interpretation)—
+- (a)[^c-393c942310600dd67c883542ba515a67] in regulation 2 (interpretation)—
 
   > - (i) after the definition of “the Common Travel Area”, omit “and”;
   > - (ii) for the full stop at the end of the definition of “the immigration rules”, substitute “; and”;
@@ -384,7 +384,7 @@ The Allocation of Housing (Wales) Regulations 2003[^f00044] are amended as follo
   >   > - “**secure contract**” (“***contract diogel***”) has the same meaning as in the Renting Homes (Wales) Act 2016 (see section 8 of that Act).
 - (b) in regulation 3 (cases where the provisions of Part VI of the Act do not apply), in paragraph (b), for “secure tenancy”, substitute “secure contract”.
 
-### 22. Local Authorities (Capital Finance and Accounting) (Wales) Regulations 2003[^key-d8732066a85dbf69734b6bd08f9de0b1]
+### 22. Local Authorities (Capital Finance and Accounting) (Wales) Regulations 2003[^c-d8732066a85dbf69734b6bd08f9de0b1]
 
 The Local Authorities (Capital Finance and Accounting (Wales) Regulations 2003[^f00045] are amended as follows—
 
@@ -404,11 +404,11 @@ The Local Authorities (Capital Finance and Accounting (Wales) Regulations 2003[^
   >   - (ii) an introductory standard contract, or
   >   - (iii) any other lease, other than a shared ownership lease within the meaning given to it in paragraph (9)(b).
 
-### 23. Selective Licensing of Houses (Specified Exemptions) (Wales) Order 2006[^key-f19d422db6476648d5e5fe54e669f1c3]
+### 23. Selective Licensing of Houses (Specified Exemptions) (Wales) Order 2006[^c-f19d422db6476648d5e5fe54e669f1c3]
 
 In the Selective Licensing of Houses (Specified Exemptions) (Wales) Order 2006[^f00048], in article 2[^f00049] (exempt tenancies or licences for the purposes of Part 3 of the Housing Act 2004), in paragraph (1)(b), omit “, which cannot be an assured tenancy by virtue of section 1(2) of that Act”.
 
-### 24. Housing (Tenancy Deposit Schemes) Order 2007[^key-a40df3418222a008385b60c9c5b36ff8]
+### 24. Housing (Tenancy Deposit Schemes) Order 2007[^c-a40df3418222a008385b60c9c5b36ff8]
 
 In the Housing (Tenancy Deposit Schemes) Order 2007[^f00050], after article 1 (citation and commencement), insert—
 
@@ -416,7 +416,7 @@ In the Housing (Tenancy Deposit Schemes) Order 2007[^f00050], after article 1 (c
 >
 > This Order applies in relation to England only.
 
-### 25. Electricity and Gas (Carbon Emissions Reduction) Order 2008[^key-c59de2431aecfc5f9bcc276560ecffe1]
+### 25. Electricity and Gas (Carbon Emissions Reduction) Order 2008[^c-c59de2431aecfc5f9bcc276560ecffe1]
 
 In the Electricity and Gas (Carbon Emissions Reduction) Order 2008[^f00051], in Schedule 1 (meaning of householder), paragraph 1 is amended as follows—
 
@@ -430,7 +430,7 @@ In the Electricity and Gas (Carbon Emissions Reduction) Order 2008[^f00051], in 
 
   .
 
-### 26. Consumer Protection from Unfair Trading Regulations 2008[^key-84fa79f06c3c722dd255faf2e07e8073]
+### 26. Consumer Protection from Unfair Trading Regulations 2008[^c-84fa79f06c3c722dd255faf2e07e8073]
 
 Regulation 27C[^f00054] of the Consumer Protection from Unfair Trading Regulations 2008[^f00055] (what immoveable property is covered by this Part?), is amended as follows—
 
@@ -453,7 +453,7 @@ Regulation 27C[^f00054] of the Consumer Protection from Unfair Trading Regulatio
   >   - (i) granted on payment of a premium calculated by reference to a percentage of the value of the dwelling-house or part or of the cost of providing it, or
   >   - (ii) under which the contract-holder (or the contract-holder’s personal representatives) will or may be entitled to a sum calculated by reference, directly or indirectly, to the value of the dwelling-house or part.
 
-### 27. Community Infrastructure Levy Regulations 2010[^key-774e522aea361a031de26befaac6d71d]
+### 27. Community Infrastructure Levy Regulations 2010[^c-774e522aea361a031de26befaac6d71d]
 
 In the Community Infrastructure Levy Regulations 2010[^f00057], regulation 49[^f00058] (social housing relief), is amended as follows—
 
@@ -498,7 +498,7 @@ In the Community Infrastructure Levy Regulations 2010[^f00057], regulation 49[^f
 
   .
 
-### 28. Rent Officers (Universal Credit Functions) Order 2013[^key-6ee9ca3399a3af8b047ecef0b181e327]
+### 28. Rent Officers (Universal Credit Functions) Order 2013[^c-6ee9ca3399a3af8b047ecef0b181e327]
 
 The Rent Officers (Universal Credit Functions) Order 2013[^f00059] is amended as follows—
 
@@ -556,11 +556,11 @@ The Rent Officers (Universal Credit Functions) Order 2013[^f00059] is amended as
     > - (b) a standard contract, or
     > - (c) an introductory standard contract in relation to which the landlord is a registered social landlord or a private registered provider of social housing.
 
-### 29. Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015[^key-047074bcde23f12107c1639757987423]
+### 29. Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015[^c-047074bcde23f12107c1639757987423]
 
 In the Energy Efficiency (Private Rented Property) (England and Wales) Regulations 2015[^f00064] in regulation 9 (circumstances in which a request for consent to relevant energy efficiency improvements may not be made), in paragraph (1)(c)(i), after “the Housing Act 1988”, insert “or section 150[^f00065], section 173[^f00066], section 186[^f00067] or section 194[^f00068] of the Renting Homes (Wales) Act 2016”.
 
-### 30. Insolvency (England and Wales) Rules 2016[^key-cad57b64dddfdc515ba924dcefece556]
+### 30. Insolvency (England and Wales) Rules 2016[^c-cad57b64dddfdc515ba924dcefece556]
 
 In the Insolvency (England and Wales) Rules 2016[^f00069], in rule 9.9 (property to be excluded in determining the value of a debtor’s property), paragraph (1)[^f00070] is amended as follows—
 
@@ -575,11 +575,11 @@ In the Insolvency (England and Wales) Rules 2016[^f00069], in rule 9.9 (property
 
   .
 
-## SCHEDULE 2 — Revocations[^key-c561598a38b729c4082782ace54bf8af]
+## SCHEDULE 2 — Revocations[^c-c561598a38b729c4082782ace54bf8af]
 
 Regulation 3
 
-[^key-38dcb75ce32f198670030033759cce94]Table ...
+[^c-38dcb75ce32f198670030033759cce94]Table ...
 
 | Title | Citation | Extent of revocation |
 | --- | --- | --- |
@@ -612,13 +612,13 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2016 anaw 1](https://www.legislation.gov.uk/anaw/2016/1). Section 255(2) was amended by section 14 of and paragraphs 1 and 8 of Schedule 5 to the Renting Homes (Amendment) (Wales) Act 2021 (asc 3).
 
-[^key-77ca5477c8688c6733fddb6b220d570b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/907/regulation/1) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-77ca5477c8688c6733fddb6b220d570b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/907/regulation/1) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
-[^key-3d6bae0caa64250d1790676d968487c5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/907/regulation/2) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-3d6bae0caa64250d1790676d968487c5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/907/regulation/2) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
-[^key-25a943f55f8fc9ce2ba93f6f7fbbcc7c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/907/regulation/3) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-25a943f55f8fc9ce2ba93f6f7fbbcc7c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/907/regulation/3) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
-[^key-1c21513cd92997d88ccf740d07e979d2]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/1) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-1c21513cd92997d88ccf740d07e979d2]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/1) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 1971/1065](https://www.legislation.gov.uk/uksi/1971/1065).
 
@@ -626,43 +626,43 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: Regulation 2A was inserted by regulation 2(3) of the Rent Assessment Committees (England and Wales) (Amendment) Regulations 1988 ([S.I. 1988/2200](https://www.legislation.gov.uk/uksi/1988/2200)) and amended by regulation 2 of the Rent Assessment Committees (England and Wales) (Amendment) Regulations 1997 ([S.I. 1997/3007](https://www.legislation.gov.uk/uksi/1997/3007)).
 
-[^key-31d522a64db5fcade639170bd0ef55c7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/2) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-31d522a64db5fcade639170bd0ef55c7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/2) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 1980/1407](https://www.legislation.gov.uk/uksi/1980/1407).
 
-[^key-f9420ebbd5558599fb281b77ea6a2206]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/3) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-f9420ebbd5558599fb281b77ea6a2206]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/3) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 1981/591](https://www.legislation.gov.uk/uksi/1981/591).
 
-[^key-08ef560a040bd727810b5a669e722f1e]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/4) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-08ef560a040bd727810b5a669e722f1e]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/4) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 1982/1474](https://www.legislation.gov.uk/uksi/1982/1474). Regulation 3 was amended by regulation 2 of the Rent Book (Forms of Notice) (Amendment) Regulations 1988 ([S.I. 1988/2198](https://www.legislation.gov.uk/uksi/1988/2198)).
 
-[^key-660ce75cf8cae16a4836090691d75ea7]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/5) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-660ce75cf8cae16a4836090691d75ea7]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/5) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 1985/1493](https://www.legislation.gov.uk/uksi/1985/1493).
 
-[^key-92ece12973ea5beecdb146445a2d95c9]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/6) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-92ece12973ea5beecdb146445a2d95c9]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/6) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 1986/2181](https://www.legislation.gov.uk/uksi/1986/2181).
 
-[^key-d3ff123c89a8c4545a82ca07f7997709]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/7) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-d3ff123c89a8c4545a82ca07f7997709]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/7) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 1987/122](https://www.legislation.gov.uk/uksi/1987/122).
 
-[^key-c876d9615065398425981dae05299ae8]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/8) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-c876d9615065398425981dae05299ae8]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/8) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 1987/267](https://www.legislation.gov.uk/uksi/1987/267).
 
-[^key-e68b2c6b67adabab61a4f6d479d1a767]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/9) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-e68b2c6b67adabab61a4f6d479d1a767]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/9) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 1987/755](https://www.legislation.gov.uk/uksi/1987/755).
 
-[^key-45381d7171aeb3f70dc7a3b333400d01]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/10) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-45381d7171aeb3f70dc7a3b333400d01]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/10) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 1988/2199](https://www.legislation.gov.uk/uksi/1988/2199).
 
-[^key-6c68988b0cf574066f1b369b4e73cefe]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/11) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-6c68988b0cf574066f1b369b4e73cefe]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/11) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 1989/1246](https://www.legislation.gov.uk/uksi/1989/1246).
 
@@ -670,25 +670,25 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00016]: Footnote: [2016 anaw 1](https://www.legislation.gov.uk/anaw/2016/1). There are amendments to Schedule 2 which are not relevant to these Regulations.
 
-[^key-a5b9dff1bb015904eb6aab505e19986a]: Textual amendment: [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/12) omitted (1.4.2026) by virtue of [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 15](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/15)
+[^c-a5b9dff1bb015904eb6aab505e19986a]: Textual amendment: [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/12) omitted (1.4.2026) by virtue of [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 15](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/15)
 
-[^key-9764de5d7483ec2ff5df8a23607c36c5]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/13) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-9764de5d7483ec2ff5df8a23607c36c5]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/13) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00020]: Footnote: [S.I. 1994/133](https://www.legislation.gov.uk/uksi/1994/133).
 
-[^key-c588ad5ab3c847fd13d6fd81aa14edd0]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/14) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-c588ad5ab3c847fd13d6fd81aa14edd0]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/14) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00021]: Footnote: [S.I. 1994/613](https://www.legislation.gov.uk/uksi/1994/613).
 
-[^key-8b25b776a5c2e5d6c7790f2369304084]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/15) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-8b25b776a5c2e5d6c7790f2369304084]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/15) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00022]: Footnote: [S.I. 1994/627](https://www.legislation.gov.uk/uksi/1994/627).
 
-[^key-d142068e8de45a34e6e7a9bef481ab15]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/16) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-d142068e8de45a34e6e7a9bef481ab15]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/16) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00023]: Footnote: [S.I. 1997/72](https://www.legislation.gov.uk/uksi/1997/72).
 
-[^key-7f393a6ce51749ee6ed3f258d11eb7b5]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/17) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-7f393a6ce51749ee6ed3f258d11eb7b5]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/17) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00024]: Footnote: [S.I. 1997/1984](https://www.legislation.gov.uk/uksi/1997/1984).
 
@@ -710,19 +710,19 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00033]: Footnote: Paragraph 2 was substituted by article 2 of the Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2013 ([S.I. 2013/2978](https://www.legislation.gov.uk/uksi/2013/2978)). There are amendments to paragraph 2 which are not relevant to these Regulations.
 
-[^key-dbbb34d5daec81a2be46394f2567df9a]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/18) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-dbbb34d5daec81a2be46394f2567df9a]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/18) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00034]: Footnote: [S.I. 1997/3005](https://www.legislation.gov.uk/uksi/1997/3005).
 
-[^key-25d9b21462f79743ab1a226fbe44a48c]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/19) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-25d9b21462f79743ab1a226fbe44a48c]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/19) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00035]: Footnote: [S.I. 1997/3008](https://www.legislation.gov.uk/uksi/1997/3008).
 
-[^key-4d183df195036584bec930e6aab16503]: Textual amendment: Word in [Sch. 1 para. 19(b)(ii)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/19/b/ii) omitted (30.11.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) (Amendment) Regulations 2022 (S.I. 2022/1077)](https://www.legislation.gov.uk/wsi/2022/1077), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/2/2/b)
+[^c-4d183df195036584bec930e6aab16503]: Textual amendment: Word in [Sch. 1 para. 19(b)(ii)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/19/b/ii) omitted (30.11.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) (Amendment) Regulations 2022 (S.I. 2022/1077)](https://www.legislation.gov.uk/wsi/2022/1077), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/2/2/b)
 
 [^f00036]: Footnote: Regulation 3(e) was amended by article 6(2) of and paragraphs 20 and 21 of Part 1 of Schedule 2 to the Transfer of Tribunal Functions Order 2013 ([S.I. 2013/1036](https://www.legislation.gov.uk/uksi/2013/1036)).
 
-[^key-6e72db6d67b7351b063f8ef0b0554b58]: Textual amendment: Word in [Sch. 1 para. 19(b)(iii)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/19/b/iii) omitted (30.11.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) (Amendment) Regulations 2022 (S.I. 2022/1077)](https://www.legislation.gov.uk/wsi/2022/1077), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/2/2/b)
+[^c-6e72db6d67b7351b063f8ef0b0554b58]: Textual amendment: Word in [Sch. 1 para. 19(b)(iii)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/19/b/iii) omitted (30.11.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) (Amendment) Regulations 2022 (S.I. 2022/1077)](https://www.legislation.gov.uk/wsi/2022/1077), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/2/2/b)
 
 [^f00037]: Footnote: Form 1 was amended by regulation 2 of the Long Residential Tenancies (Principal Forms) (Amendment) (Wales) Regulations 2003 ([S.I. 2003/233 (W. 33)](https://www.legislation.gov.uk/wsi/2003/233)) and article 6(2) of and paragraphs 20 and 22 of Part 1 of Schedule 2 to the Transfer of Tribunal Functions Order 2013 ([S.I. 2013/1036](https://www.legislation.gov.uk/uksi/2013/1036)).
 
@@ -734,21 +734,21 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00041]: Footnote: Form 5 was amended by article 6(2) of and paragraphs 20 and 25 of Part 1 of Schedule 2 to the Transfer of Tribunal Functions Order 2013 ([S.I. 2013/1036](https://www.legislation.gov.uk/uksi/2013/1036)).
 
-[^key-211d5a6f442c2b170a719811e9474dae]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/20) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-211d5a6f442c2b170a719811e9474dae]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/20) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00042]: Footnote: [S.I. 2001/1062](https://www.legislation.gov.uk/uksi/2001/1062).
 
 [^f00043]: Footnote: Paragraph 7 was substituted by article 2 of the Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) Order 2007 ([S.I. 2007/800](https://www.legislation.gov.uk/uksi/2007/800)). There are other amendments to the Schedule to [S.I. 2001/1062](https://www.legislation.gov.uk/uksi/2001/1062) which are not relevant to these Regulations.
 
-[^key-09990cff4f32fdbcce8dc0b00050d60b]: Textual amendment: Word in [Sch. 1 para. 20(a)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/20/a) substituted (30.11.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) (Amendment) Regulations 2022 (S.I. 2022/1077)](https://www.legislation.gov.uk/wsi/2022/1077), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/2/2/c)
+[^c-09990cff4f32fdbcce8dc0b00050d60b]: Textual amendment: Word in [Sch. 1 para. 20(a)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/20/a) substituted (30.11.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) (Amendment) Regulations 2022 (S.I. 2022/1077)](https://www.legislation.gov.uk/wsi/2022/1077), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/2/2/c)
 
-[^key-25b97e758f335a9e5a61409a32d7424f]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/21) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-25b97e758f335a9e5a61409a32d7424f]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/21) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00044]: Footnote: [S.I. 2003/239 (W. 36)](https://www.legislation.gov.uk/wsi/2003/239).
 
-[^key-393c942310600dd67c883542ba515a67]: Textual amendment: [Sch. 1 para. 21(a)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/21/a) substituted (30.11.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) (Amendment) Regulations 2022 (S.I. 2022/1077)](https://www.legislation.gov.uk/wsi/2022/1077), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/2/2/d)
+[^c-393c942310600dd67c883542ba515a67]: Textual amendment: [Sch. 1 para. 21(a)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/21/a) substituted (30.11.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) (Amendment) Regulations 2022 (S.I. 2022/1077)](https://www.legislation.gov.uk/wsi/2022/1077), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/2/2/d)
 
-[^key-d8732066a85dbf69734b6bd08f9de0b1]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/22) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-d8732066a85dbf69734b6bd08f9de0b1]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/22) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00045]: Footnote: [S.I. 2003/3239 (W. 319)](https://www.legislation.gov.uk/wsi/2003/3239).
 
@@ -756,17 +756,17 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00047]: Footnote: Regulation 10(9) was substituted by regulations 3 and 5 of the Local Authorities (Capital Finance and Accounting) (Wales) (Amendment) Regulations 2006 ([S.I. 2006/944 (W. 93)](https://www.legislation.gov.uk/wsi/2006/944)).
 
-[^key-f19d422db6476648d5e5fe54e669f1c3]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/23) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-f19d422db6476648d5e5fe54e669f1c3]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/23) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00048]: Footnote: [S.I. 2006/2824 (W. 247)](https://www.legislation.gov.uk/wsi/2006/2824).
 
 [^f00049]: Footnote: There are amendments to article 2 which are not relevant to these Regulations.
 
-[^key-a40df3418222a008385b60c9c5b36ff8]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/24) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-a40df3418222a008385b60c9c5b36ff8]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/24) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00050]: Footnote: [S.I. 2007/796](https://www.legislation.gov.uk/uksi/2007/796).
 
-[^key-c59de2431aecfc5f9bcc276560ecffe1]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/25) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-c59de2431aecfc5f9bcc276560ecffe1]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/25) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00051]: Footnote: [S.I. 2008/188](https://www.legislation.gov.uk/uksi/2008/188).
 
@@ -774,7 +774,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00053]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52). Section 1 was amended by sections 140 and 152 of and paragraph 83 of Schedule 16 and Part VI of Schedule 18 to the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), sections 61 and 321 of and Schedule 16 to the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17).
 
-[^key-84fa79f06c3c722dd255faf2e07e8073]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/26) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-84fa79f06c3c722dd255faf2e07e8073]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/26) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00054]: Footnote: Regulation 27C was inserted by regulation 3 of the Consumer Protection (Amendment) Regulations 2014 ([S.I. 2014/870](https://www.legislation.gov.uk/uksi/2014/870)).
 
@@ -782,13 +782,13 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00056]: Footnote: [2014 anaw 7](https://www.legislation.gov.uk/anaw/2014/7).
 
-[^key-774e522aea361a031de26befaac6d71d]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/27) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-774e522aea361a031de26befaac6d71d]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/27) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00057]: Footnote: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948).
 
 [^f00058]: Footnote: Regulation 49 was substituted by regulations 2 and 7(4) of the Community Infrastructure Levy (Amendment) Regulations 2014 ([S.I. 2014/385](https://www.legislation.gov.uk/uksi/2014/385)) and amended by regulations 2 and 4 of the Community Infrastructure Levy (Amendment) Regulations 2015 ([S.I. 2015/836](https://www.legislation.gov.uk/uksi/2015/836)).
 
-[^key-6ee9ca3399a3af8b047ecef0b181e327]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-6ee9ca3399a3af8b047ecef0b181e327]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/28) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00059]: Footnote: [S.I. 2013/382](https://www.legislation.gov.uk/uksi/2013/382).
 
@@ -800,7 +800,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00063]: Footnote: Paragraph 3 was amended by article 4 of the Rent Officers (Housing Benefit and Universal Credit Functions) (Local Housing Allowance Amendments) Order 2013 ([S.I. 2013/2978](https://www.legislation.gov.uk/uksi/2013/2978)). There are other amendments to Schedule 1 to [S.I. 2013/382](https://www.legislation.gov.uk/uksi/2013/382) which are not relevant to these Regulations.
 
-[^key-047074bcde23f12107c1639757987423]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/29) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-047074bcde23f12107c1639757987423]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/29) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00064]: Footnote: [S.I. 2015/962](https://www.legislation.gov.uk/uksi/2015/962).
 
@@ -812,7 +812,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00068]: Footnote: Section 194 was amended by section 11 of the Renting Homes (Amendment) (Wales) Act 2021.
 
-[^key-cad57b64dddfdc515ba924dcefece556]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/30) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-cad57b64dddfdc515ba924dcefece556]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/30) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
 [^f00069]: Footnote: [S.I. 2016/1024](https://www.legislation.gov.uk/uksi/2016/1024).
 
@@ -822,6 +822,6 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00072]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68). Section 92 was amended by section 163 of the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), sections 140 and 152 of and paragraph 10 of Schedule 16 and Part VI of Schedule 18 to the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), article 5 of and paragraph 14(9) of Schedule 2 to the Housing Act 1996 (Consequential Provisions) Order 1996 ([S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325)) and article 5 of and paragraphs 15 and 21 of Schedule 2 to the Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 ([S.I. 2010/866](https://www.legislation.gov.uk/uksi/2010/866)).
 
-[^key-c561598a38b729c4082782ace54bf8af]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2022/907/schedule/2) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
+[^c-c561598a38b729c4082782ace54bf8af]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2022/907/schedule/2) in force at 1.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2)
 
-[^key-38dcb75ce32f198670030033759cce94]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/wsi/2022/907/schedule/2) omitted (30.11.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) (Amendment) Regulations 2022 (S.I. 2022/1077)](https://www.legislation.gov.uk/wsi/2022/1077), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/2/3)
+[^c-38dcb75ce32f198670030033759cce94]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/wsi/2022/907/schedule/2) omitted (30.11.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) (Amendment) Regulations 2022 (S.I. 2022/1077)](https://www.legislation.gov.uk/wsi/2022/1077), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2022/1077/regulation/2/3)

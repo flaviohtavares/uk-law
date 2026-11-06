@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Round price for 2.6 GHz concurrent low power 10 MHz lots[^key-99b5637aa82887aca8ae7f91869e3969]
+## 38. Round price for 2.6 GHz concurrent low power 10 MHz lots[^c-99b5637aa82887aca8ae7f91869e3969]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ subject to paragraph (7).
 
 ## Annotations
 
-[^key-99b5637aa82887aca8ae7f91869e3969]: Commencement: Reg. 38 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-99b5637aa82887aca8ae7f91869e3969]: Commencement: Reg. 38 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

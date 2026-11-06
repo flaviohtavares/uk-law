@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Locations for sexual offender notification[^key-906b2cc7d4237954e92985d77ae3eea4][^key-7cf29269a2a3049c5009bcbfd0c6e5f1]
+## 168. Locations for sexual offender notification[^c-906b2cc7d4237954e92985d77ae3eea4][^c-7cf29269a2a3049c5009bcbfd0c6e5f1]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-906b2cc7d4237954e92985d77ae3eea4]: Commencement: S. 168 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-906b2cc7d4237954e92985d77ae3eea4]: Commencement: S. 168 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-7cf29269a2a3049c5009bcbfd0c6e5f1]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2022/32/section/168) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/a)
+[^c-7cf29269a2a3049c5009bcbfd0c6e5f1]: Commencement: [S. 168](https://www.legislation.gov.uk/ukpga/2022/32/section/168) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/a)

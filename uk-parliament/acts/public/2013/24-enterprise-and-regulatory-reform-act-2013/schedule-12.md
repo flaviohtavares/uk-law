@@ -24,7 +24,7 @@ Section 38
 
 ### Market studies and decisions whether to make a reference under section 131
 
-**1.**[^key-7f747335a06f537b0c3773f8021c5551] Before section 131 of the 2002 Act (power to make market investigation references) insert—
+**1.**[^c-7f747335a06f537b0c3773f8021c5551] Before section 131 of the 2002 Act (power to make market investigation references) insert—
 
 > **Market studies**
 >
@@ -43,7 +43,7 @@ Section 38
 > - (b) the period during which representations may be made to the CMA in relation to the matter; and
 > - (c) the dates by which the CMA is required to comply with the requirements imposed on it by sections 131A and 131B.
 
-**2.**[^c2181353][^key-67b2f4104512f7496493b4a26e96d5f6] After section 131 of that Act insert—
+**2.**[^c2181353][^c-67b2f4104512f7496493b4a26e96d5f6] After section 131 of that Act insert—
 
 > **131A. Decisions about references under section 131: consultation**
 >
@@ -114,7 +114,7 @@ Section 38
 
 ### Market investigations and reports
 
-**3.**[^c2181354][^key-00dccfe6bf7a2b87f5472d15f2adc55f] (1) Section 137 of the 2002 Act (time-limits for market investigations and reports) is amended as follows.
+**3.**[^c2181354][^c-00dccfe6bf7a2b87f5472d15f2adc55f] (1) Section 137 of the 2002 Act (time-limits for market investigations and reports) is amended as follows.
 
 (2) In subsection (1), for “two years” substitute “ 18 months ”.
 
@@ -142,9 +142,9 @@ Section 38
 
 ### Remedies implementation
 
-**4.**[^key-da778dd5dce9fc5fdd7cda27f4f8d340] In section 138 of the 2002 Act (duty to remedy adverse effects), in subsection (2), after “shall,” insert “ within the period permitted by section 138A, ”.
+**4.**[^c-da778dd5dce9fc5fdd7cda27f4f8d340] In section 138 of the 2002 Act (duty to remedy adverse effects), in subsection (2), after “shall,” insert “ within the period permitted by section 138A, ”.
 
-**5.**[^key-48e59ec0d3400307fcab8023f92a0925] After section 138 of that Act insert—
+**5.**[^c-48e59ec0d3400307fcab8023f92a0925] After section 138 of that Act insert—
 
 > **138A. Time-limits for discharging duty under section 138**
 >
@@ -194,7 +194,7 @@ Section 38
 
 ### Time-limits: public interest intervention cases
 
-**6.**[^key-64d2e5fa3cff8b2bca91b6768d62334d] (1) Section 144 of the 2002 Act (time-limits for investigations and reports in public interest intervention cases) is amended as follows.
+**6.**[^c-64d2e5fa3cff8b2bca91b6768d62334d] (1) Section 144 of the 2002 Act (time-limits for investigations and reports in public interest intervention cases) is amended as follows.
 
 (2) In subsection (1), for “two years” substitute “ 18 months ”.
 
@@ -240,13 +240,13 @@ Section 38
 
 ### Time-limits: consequential and other minor amendments
 
-**7.**[^key-d9627a150ff013294f175a8c2607fa77] Part 4 of the 2002 Act (market investigations) is amended as follows.
+**7.**[^c-d9627a150ff013294f175a8c2607fa77] Part 4 of the 2002 Act (market investigations) is amended as follows.
 
-**8.**[^key-336e140fac0c45c20ed417ed13452436] In the heading of that Part, at the beginning insert “ Market Studies and ”.
+**8.**[^c-336e140fac0c45c20ed417ed13452436] In the heading of that Part, at the beginning insert “ Market Studies and ”.
 
-**9.**[^key-8417ccbd38f8e103a08f70089729405a] In the heading of Chapter 1, at the beginning insert “ Market Studies and ”.
+**9.**[^c-8417ccbd38f8e103a08f70089729405a] In the heading of Chapter 1, at the beginning insert “ Market Studies and ”.
 
-**10.**[^key-4b885f687879d619d6da174db69f301b] (1) Section 132 (ministerial power to make references) is amended as follows.
+**10.**[^c-4b885f687879d619d6da174db69f301b] (1) Section 132 (ministerial power to make references) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -265,16 +265,16 @@ Section 38
 
 (3) In subsection (2)(b), for “to make such a reference” substitute “ to publish a market study notice in relation to the matter concerned ”.
 
-**11.**[^key-9e0c0710eccabbde5e0a065ea17cc597] In section 135 (variation of references), omit subsection (4).
+**11.**[^c-9e0c0710eccabbde5e0a065ea17cc597] In section 135 (variation of references), omit subsection (4).
 
-**12.**[^key-e1544a8c8ed9adde2208cd7c57447c9c] In section 156 (effect of undertakings under section 154), after subsection (2) insert—
+**12.**[^c-e1544a8c8ed9adde2208cd7c57447c9c] In section 156 (effect of undertakings under section 154), after subsection (2) insert—
 
 > (3) The expiry of the period mentioned in section 131B(4) does not prevent the making of a market investigation reference if the CMA has accepted an undertaking or group of undertakings under section 154 and—
 >
 > - (a) the CMA considers that any undertaking concerned has been breached and has given notice of that fact to the person responsible for giving the undertaking; or
 > - (b) the person responsible for giving any undertaking concerned supplied, in connection with the matter, information to the OFT which was false or misleading in a material respect.
 
-**13.**[^key-66ed3728934312b1802565c01bdca486] In section 169 (certain duties of relevant authorities to consult: Part 4), in subsection (6), in the definition of “relevant decision”—
+**13.**[^c-66ed3728934312b1802565c01bdca486] In section 169 (certain duties of relevant authorities to consult: Part 4), in subsection (6), in the definition of “relevant decision”—
 
 - (a) in paragraph (a), for sub-paragraph (i) substitute—
 
@@ -284,7 +284,7 @@ Section 38
   , and
 - (b) in paragraph (b)(i), omit “as to whether”.
 
-**14.**[^key-a4ccddebfe1b2c86390b58aebb883456] (1) Section 172 (further publicity requirements: Part 4) is amended as follows.
+**14.**[^c-a4ccddebfe1b2c86390b58aebb883456] (1) Section 172 (further publicity requirements: Part 4) is amended as follows.
 
 (2) In subsection (1), after paragraph (a) insert—
 
@@ -310,19 +310,19 @@ Section 38
 
 > (7A) Subsection (6) shall not apply in relation to any case falling within subsection (1)(a).
 
-**15.**[^key-45bef34731253a2459856bd97e81b684] In section 179 (review of decisions under Part 4), in subsection (2), before paragraph (a) insert—
+**15.**[^c-45bef34731253a2459856bd97e81b684] In section 179 (review of decisions under Part 4), in subsection (2), before paragraph (a) insert—
 
 > - (za) does not include a decision whether to carry out functions under section 5 in a case where the CMA is, or would have been, required to publish a market study notice (see section 130A(1));
 
 .
 
-**16.**[^c2181355][^key-acfea98ca4eaae14745f1ba4836456fd] (1) Section 181 (orders under Part 4) is amended as follows.
+**16.**[^c2181355][^c-acfea98ca4eaae14745f1ba4836456fd] (1) Section 181 (orders under Part 4) is amended as follows.
 
 (2) In subsection (3), for “136(9), 137(3)” substitute “ 131C(1), 136(9), 137(3), 138B(6) ”.
 
 (3) In subsection (4), for “137(3)” substitute “ 131C(1), 137(3), 138B(6) ”.
 
-**17.**[^key-45bef34731253a2459856bd97e81b684] In section 184 (index of defined expressions in Part 4), after the entry in the table for “market investigation reference” insert—
+**17.**[^c-45bef34731253a2459856bd97e81b684] In section 184 (index of defined expressions in Part 4), after the entry in the table for “market investigation reference” insert—
 
 > |  |  |
 > | --- | --- |
@@ -331,40 +331,40 @@ Section 38
 
 ## Annotations
 
-[^key-7f747335a06f537b0c3773f8021c5551]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/1) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-7f747335a06f537b0c3773f8021c5551]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/1) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^c2181353]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/2) partly in force; [sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/2) in force for specified purposes at Royal Assent, see [s.103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-67b2f4104512f7496493b4a26e96d5f6]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/2) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-67b2f4104512f7496493b4a26e96d5f6]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/2) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^c2181354]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/3) partly in force; [sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/3) in force for specified purposes at Royal Assent, see [s.103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-00dccfe6bf7a2b87f5472d15f2adc55f]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/3) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-00dccfe6bf7a2b87f5472d15f2adc55f]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/3) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-da778dd5dce9fc5fdd7cda27f4f8d340]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/4) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-da778dd5dce9fc5fdd7cda27f4f8d340]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/4) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-48e59ec0d3400307fcab8023f92a0925]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/5) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-48e59ec0d3400307fcab8023f92a0925]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/5) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-64d2e5fa3cff8b2bca91b6768d62334d]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/6) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-64d2e5fa3cff8b2bca91b6768d62334d]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/6) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-d9627a150ff013294f175a8c2607fa77]: Commencement: Sch. 12 para. 7 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-d9627a150ff013294f175a8c2607fa77]: Commencement: Sch. 12 para. 7 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-336e140fac0c45c20ed417ed13452436]: Commencement: Sch. 12 para. 8 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-336e140fac0c45c20ed417ed13452436]: Commencement: Sch. 12 para. 8 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-8417ccbd38f8e103a08f70089729405a]: Commencement: Sch. 12 para. 9 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-8417ccbd38f8e103a08f70089729405a]: Commencement: Sch. 12 para. 9 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-4b885f687879d619d6da174db69f301b]: Commencement: Sch. 12 para. 10 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-4b885f687879d619d6da174db69f301b]: Commencement: Sch. 12 para. 10 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-9e0c0710eccabbde5e0a065ea17cc597]: Commencement: Sch. 12 para. 11 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-9e0c0710eccabbde5e0a065ea17cc597]: Commencement: Sch. 12 para. 11 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-e1544a8c8ed9adde2208cd7c57447c9c]: Commencement: Sch. 12 para. 12 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-e1544a8c8ed9adde2208cd7c57447c9c]: Commencement: Sch. 12 para. 12 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-66ed3728934312b1802565c01bdca486]: Commencement: Sch. 12 para. 13 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-66ed3728934312b1802565c01bdca486]: Commencement: Sch. 12 para. 13 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-a4ccddebfe1b2c86390b58aebb883456]: Commencement: Sch. 12 para. 14 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a4ccddebfe1b2c86390b58aebb883456]: Commencement: Sch. 12 para. 14 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-45bef34731253a2459856bd97e81b684]: Commencement: Sch. 12 para. 17 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-45bef34731253a2459856bd97e81b684]: Commencement: Sch. 12 para. 17 in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^c2181355]: Commencement: Sch. 12 para. 16 in force for specified purposes at Royal Assent, see [s.103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-acfea98ca4eaae14745f1ba4836456fd]: Commencement: Sch. 12 para. 16 in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-acfea98ca4eaae14745f1ba4836456fd]: Commencement: Sch. 12 para. 16 in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

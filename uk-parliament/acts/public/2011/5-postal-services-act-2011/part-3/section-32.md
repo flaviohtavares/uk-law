@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Section 31: definitions[^key-8798bfb8e15485920d97ab5ae23c46b8]
+## 32. Section 31: definitions[^c-8798bfb8e15485920d97ab5ae23c46b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8798bfb8e15485920d97ab5ae23c46b8]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2011/5/section/32) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-8798bfb8e15485920d97ab5ae23c46b8]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2011/5/section/32) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

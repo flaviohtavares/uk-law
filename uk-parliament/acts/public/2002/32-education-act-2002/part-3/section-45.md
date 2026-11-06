@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Financial statements[^key-ac216cef82798256bd866defffc839a6]
+## 45. Financial statements[^c-ac216cef82798256bd866defffc839a6]
 
 *Extent: E+W*
 
-(1) Section 52 of the School Standards and Framework Act 1998 (c. 31) (financial statements by local authority[^key-379c0a8ab791aad4cda0b42dbea5f020] ) is amended as follows.
+(1) Section 52 of the School Standards and Framework Act 1998 (c. 31) (financial statements by local authority[^c-379c0a8ab791aad4cda0b42dbea5f020] ) is amended as follows.
 
 (2) In subsection (2), the word “and” at the end of paragraph (b) is omitted and after paragraph (c) there is inserted
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ac216cef82798256bd866defffc839a6]: Commencement: S. 45 in force at 1.4.2003 except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4)
+[^c-ac216cef82798256bd866defffc839a6]: Commencement: S. 45 in force at 1.4.2003 except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)

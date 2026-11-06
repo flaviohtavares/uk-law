@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Sending progress report[^key-7f9104fbfd681ac5a446ba13ca8ba8be]
+## 123. Sending progress report[^c-7f9104fbfd681ac5a446ba13ca8ba8be]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ but this paragraph does not apply when the period covered by the report is that 
 
 ## Annotations
 
-[^key-7f9104fbfd681ac5a446ba13ca8ba8be]: Commencement: [Rule 123](https://www.legislation.gov.uk/uksi/2011/1301/rule/123) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-7f9104fbfd681ac5a446ba13ca8ba8be]: Commencement: [Rule 123](https://www.legislation.gov.uk/uksi/2011/1301/rule/123) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 130. Evidence by certificate of returning officer[^key-37ceb769aaa460473a6b5e07bf277507]
+## 130. Evidence by certificate of returning officer[^c-37ceb769aaa460473a6b5e07bf277507]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37ceb769aaa460473a6b5e07bf277507]: Commencement: Art. 130 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-37ceb769aaa460473a6b5e07bf277507]: Commencement: Art. 130 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

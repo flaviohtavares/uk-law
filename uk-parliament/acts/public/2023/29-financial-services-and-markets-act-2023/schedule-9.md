@@ -24,7 +24,7 @@ Section 55
 
 ### PART 1 — New Part 5A of the Banking Act 2009
 
-**1.**[^key-71ced592d55077862944eb5954b89275] After Part 5 of the Banking Act 2009 (payment systems) insert—
+**1.**[^c-71ced592d55077862944eb5954b89275] After Part 5 of the Banking Act 2009 (payment systems) insert—
 
 > **PART 5A — Wholesale cash distribution**
 >
@@ -615,11 +615,11 @@ Section 55
 
 ### PART 2 — Amendments to Part 6 of the Financial Services (Banking Reform) Act 2013
 
-**2.**[^key-614b91f8308c23b52c16936c36e24731] Part 6 of the Financial Services (Banking Reform) Act 2013 (special administration for operators of certain infrastructure systems) is amended as follows.
+**2.**[^c-614b91f8308c23b52c16936c36e24731] Part 6 of the Financial Services (Banking Reform) Act 2013 (special administration for operators of certain infrastructure systems) is amended as follows.
 
-**3.**[^key-0f2102949ab9aae63bdf7b4bd260ef6d] In section 111 (financial market infrastructure administration), in the heading, after “market” insert “and cash”.
+**3.**[^c-0f2102949ab9aae63bdf7b4bd260ef6d] In section 111 (financial market infrastructure administration), in the heading, after “market” insert “and cash”.
 
-**4.**[^key-aaff35158492d5135456db0d5eb0a9c8] (1) Section 112 (interpretation: infrastructure companies) is amended as follows.
+**4.**[^c-aaff35158492d5135456db0d5eb0a9c8] (1) Section 112 (interpretation: infrastructure companies) is amended as follows.
 
 (2) In subsection (2), omit the “or” at the end of paragraph (b) and insert—
 
@@ -638,7 +638,7 @@ Section 55
 
 > (7) In subsection (4)(b), “**relevant function**” means a function performed by the person in relation to wholesale cash distribution.
 
-**5.**[^key-51441a1eacc92814a0edd783e5f6a663] In section 113 (interpretation: other expressions), in subsection (1)—
+**5.**[^c-51441a1eacc92814a0edd783e5f6a663] In section 113 (interpretation: other expressions), in subsection (1)—
 
 - (a) in the definition of “the relevant system”, after paragraph (b) insert—
 
@@ -649,32 +649,32 @@ Section 55
 
   > - “wholesale cash distribution” and “wholesale cash distribution activities” have the meanings given by section 206E of the Banking Act 2009.
 
-**6.**[^key-62d5c45b7aeda2f9b4a8046b4b491bc7] In section 115 (objective of FMI administration), after subsection (1A) insert—
+**6.**[^c-62d5c45b7aeda2f9b4a8046b4b491bc7] In section 115 (objective of FMI administration), after subsection (1A) insert—
 
 > (1B) Where an FMI administrator is appointed in relation to a company that is a person recognised for the purposes of Part 5A of the Banking Act 2009, the objective of the FMI administration is—
 >
 > - (a) to ensure that the functions performed by the person in relation to wholesale cash distribution are and continue to be performed efficiently and effectively, and
 > - (b) to ensure by one or both of the specified means that it becomes unnecessary for the FMI administration order to remain in force for that purpose or those purposes.
 
-**7.**[^key-46e22cd030ef393f27f09290897a7975] In section 119 (continuity of supply), in subsection (6), in the definition of “supply”, after paragraph (a) insert—
+**7.**[^c-46e22cd030ef393f27f09290897a7975] In section 119 (continuity of supply), in subsection (6), in the definition of “supply”, after paragraph (a) insert—
 
 > - (aa) in the case of an infrastructure company that is a person recognised for the purposes of Part 5A of the Banking Act 2009, goods or services used by the person in connection with wholesale cash distribution activities;
 
 .
 
-**8.**[^key-7158b0ad8ab2c212843bff3481adbd83] In section 120 (power to direct FMI administrator), in subsection (8), at the end insert “or section 206M of that Act (directions) in relation to a person recognised for the purposes of Part 5A of that Act”.
+**8.**[^c-7158b0ad8ab2c212843bff3481adbd83] In section 120 (power to direct FMI administrator), in subsection (8), at the end insert “or section 206M of that Act (directions) in relation to a person recognised for the purposes of Part 5A of that Act”.
 
-**9.**[^key-ecc8d9a719d2c05d7914001d9d02ad51] In section 127 (interpretation of Part), in subsection (1), at the end insert—
+**9.**[^c-ecc8d9a719d2c05d7914001d9d02ad51] In section 127 (interpretation of Part), in subsection (1), at the end insert—
 
 > - “wholesale cash distribution” and “wholesale cash distribution activities” have the meanings given by section 113.
 
 ### PART 3 — Consequential amendments
 
-#### 10. Banking Act 2009[^key-7f1de17d1fc1a4e22a9e05df9dd9e99a]
+#### 10. Banking Act 2009[^c-7f1de17d1fc1a4e22a9e05df9dd9e99a]
 
 The Banking Act 2009 is amended as follows.
 
-**11.**[^key-c6db52d2ba727cdbc24966d664dfffc5] In section 259 (statutory instruments), in subsection (3), in the Table, after the entry for section 206A (services forming part of recognised payment systems) insert—
+**11.**[^c-c6db52d2ba727cdbc24966d664dfffc5] In section 259 (statutory instruments), in subsection (3), in the Table, after the entry for section 206A (services forming part of recognised payment systems) insert—
 
 > <table>
 > <tbody>
@@ -686,17 +686,17 @@ The Banking Act 2009 is amended as follows.
 > </tbody>
 > </table>
 
-**12.**[^key-c55ba28fd830a331c97068f318266673] In section 261 (index of defined terms)—
+**12.**[^c-c55ba28fd830a331c97068f318266673] In section 261 (index of defined terms)—
 
 - (a) in the entry for “FCA”, in the second column, for “& 183” substitute “, 183 & 206F”;
 - (b) in the entry for “Payment Systems Regulator”, in the second column, after “183” insert “& 206F”;
 - (c) in the entry for “PRA”, in the second column, for “& 183” substitute “, 183 & 206F”.
 
-#### 13. Financial Services Act 2012[^key-ec8149e62f0881b3414f518c6414ad3f]
+#### 13. Financial Services Act 2012[^c-ec8149e62f0881b3414f518c6414ad3f]
 
 The Financial Services Act 2012 is amended as follows.
 
-**14.**[^key-219feec88e1fbf1a6facf1325fa1dabd] (1) Section 85 (relevant functions in relation to complaints scheme) is amended as follows.
+**14.**[^c-219feec88e1fbf1a6facf1325fa1dabd] (1) Section 85 (relevant functions in relation to complaints scheme) is amended as follows.
 
 (2) In subsection (3)(a), after “(payment systems)” insert “or Part 5A of that Act (wholesale cash distribution)”.
 
@@ -706,7 +706,7 @@ The Financial Services Act 2012 is amended as follows.
 - (b) in paragraph (a), for “and 189” substitute “,189, 206K and 206L”;
 - (c) in paragraph (b), at the end insert “and 206T(3)”.
 
-**15.**[^key-8f87b6bd0f5a12de19278b2f69a13c27] (1) Section 110 (payment to Treasury of penalties received by Bank of England) is amended as follows.
+**15.**[^c-8f87b6bd0f5a12de19278b2f69a13c27] (1) Section 110 (payment to Treasury of penalties received by Bank of England) is amended as follows.
 
 (2) In subsection (2), in paragraph (b), for “section 198” substitute “sections 198 and 206T”.
 
@@ -719,40 +719,40 @@ The Financial Services Act 2012 is amended as follows.
   >
   > - (e) sections 206S to 206V and 206Y of that Act (wholesale cash distribution).
 
-#### 16. Financial Services (Banking Reform) Act 2013[^key-1a71c1512e1b18cd396cee79786fcd32]
+#### 16. Financial Services (Banking Reform) Act 2013[^c-1a71c1512e1b18cd396cee79786fcd32]
 
 In section 98 of the Financial Services (Banking Reform) Act 2013 (duty of regulators to ensure co-ordinated exercise of functions), in subsection (5)(b), at the end insert “or Part 5A of that Act (wholesale cash distribution)”.
 
 ## Annotations
 
-[^key-71ced592d55077862944eb5954b89275]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/1) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-71ced592d55077862944eb5954b89275]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/1) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
 
-[^key-614b91f8308c23b52c16936c36e24731]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/2) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-614b91f8308c23b52c16936c36e24731]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/2) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
 
-[^key-0f2102949ab9aae63bdf7b4bd260ef6d]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/3) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-0f2102949ab9aae63bdf7b4bd260ef6d]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/3) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
 
-[^key-aaff35158492d5135456db0d5eb0a9c8]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/4) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-aaff35158492d5135456db0d5eb0a9c8]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/4) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
 
-[^key-51441a1eacc92814a0edd783e5f6a663]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/5) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-51441a1eacc92814a0edd783e5f6a663]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/5) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
 
-[^key-62d5c45b7aeda2f9b4a8046b4b491bc7]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/6) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-62d5c45b7aeda2f9b4a8046b4b491bc7]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/6) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
 
-[^key-46e22cd030ef393f27f09290897a7975]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/7) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-46e22cd030ef393f27f09290897a7975]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/7) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
 
-[^key-7158b0ad8ab2c212843bff3481adbd83]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/8) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-7158b0ad8ab2c212843bff3481adbd83]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/8) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
 
-[^key-ecc8d9a719d2c05d7914001d9d02ad51]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/9) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-ecc8d9a719d2c05d7914001d9d02ad51]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/9) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
 
-[^key-7f1de17d1fc1a4e22a9e05df9dd9e99a]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/10) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-7f1de17d1fc1a4e22a9e05df9dd9e99a]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/10) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
 
-[^key-c6db52d2ba727cdbc24966d664dfffc5]: Commencement: [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/11) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-c6db52d2ba727cdbc24966d664dfffc5]: Commencement: [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/11) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
 
-[^key-c55ba28fd830a331c97068f318266673]: Commencement: [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/12) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-c55ba28fd830a331c97068f318266673]: Commencement: [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/12) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
 
-[^key-ec8149e62f0881b3414f518c6414ad3f]: Commencement: [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/13) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-ec8149e62f0881b3414f518c6414ad3f]: Commencement: [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/13) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
 
-[^key-219feec88e1fbf1a6facf1325fa1dabd]: Commencement: [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/14) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-219feec88e1fbf1a6facf1325fa1dabd]: Commencement: [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/14) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
 
-[^key-8f87b6bd0f5a12de19278b2f69a13c27]: Commencement: [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/15) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-8f87b6bd0f5a12de19278b2f69a13c27]: Commencement: [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/15) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
 
-[^key-1a71c1512e1b18cd396cee79786fcd32]: Commencement: [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/16) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)
+[^c-1a71c1512e1b18cd396cee79786fcd32]: Commencement: [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/16) in force at 29.8.2023, see [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d)

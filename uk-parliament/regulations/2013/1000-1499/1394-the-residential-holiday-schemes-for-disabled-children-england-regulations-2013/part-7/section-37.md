@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Amendment of the Her Majesty’s Chief Inspector of Education, Children’s Services and Skills (Fees and Frequency of Inspections) (Children’s Homes etc.) Regulations 2007[^key-3be99d2c1e26093ee1cc23ba00cf2e6f]
+## 37. Amendment of the Her Majesty’s Chief Inspector of Education, Children’s Services and Skills (Fees and Frequency of Inspections) (Children’s Homes etc.) Regulations 2007[^c-3be99d2c1e26093ee1cc23ba00cf2e6f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Her Majesty’s Chief Inspector of Education, Children’s Services and Skil
 
 ## Annotations
 
-[^key-3be99d2c1e26093ee1cc23ba00cf2e6f]: Commencement: Reg. 37 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-3be99d2c1e26093ee1cc23ba00cf2e6f]: Commencement: Reg. 37 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 2007/694](https://www.legislation.gov.uk/uksi/2007/694), to which there are amendments but none are relevant to these Regulations.

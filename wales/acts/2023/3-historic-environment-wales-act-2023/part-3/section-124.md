@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Service and taking effect of enforcement notice[^key-5040165f0bc712e5b47126c1b212e390][^key-393f0592f9a14b590f7b5e4e74a6fca8]
+## 124. Service and taking effect of enforcement notice[^c-5040165f0bc712e5b47126c1b212e390][^c-393f0592f9a14b590f7b5e4e74a6fca8]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5040165f0bc712e5b47126c1b212e390]: Commencement: S. 124 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-5040165f0bc712e5b47126c1b212e390]: Commencement: S. 124 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-393f0592f9a14b590f7b5e4e74a6fca8]: Commencement: [S. 124](https://www.legislation.gov.uk/asc/2023/3/section/124) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-393f0592f9a14b590f7b5e4e74a6fca8]: Commencement: [S. 124](https://www.legislation.gov.uk/asc/2023/3/section/124) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

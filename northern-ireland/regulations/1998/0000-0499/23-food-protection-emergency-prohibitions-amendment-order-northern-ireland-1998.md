@@ -30,7 +30,7 @@ summary: ''
 
 PUBLIC HEALTH
 
-Food Protection (Emergency Prohibitions) (Amendment) Order (Northern Ireland) 1998 (revoked)[^key-42d6a7da0ca19ce3b7f9533b77c48155]
+Food Protection (Emergency Prohibitions) (Amendment) Order (Northern Ireland) 1998 (revoked)[^c-42d6a7da0ca19ce3b7f9533b77c48155]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 6th March 1998
 
-[^key-42d6a7da0ca19ce3b7f9533b77c48155]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42d6a7da0ca19ce3b7f9533b77c48155]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-42d6a7da0ca19ce3b7f9533b77c48155]
+## 1. Citation, commencement and interpretation[^c-42d6a7da0ca19ce3b7f9533b77c48155]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-42d6a7da0ca19ce3b7f9533b77c48155]
+## 2. Amendment[^c-42d6a7da0ca19ce3b7f9533b77c48155]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-42d6a7da0ca19ce3b7f9533b77c48155]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42d6a7da0ca19ce3b7f9533b77c48155]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-42d6a7da0ca19ce3b7f9533b77c48155]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42d6a7da0ca19ce3b7f9533b77c48155]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-42d6a7da0ca19ce3b7f9533b77c48155]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/23) revoked (24.4.2000) by [Food Protection (Sheep Emergency Prohibitions) (Revocation) Order (Northern Ireland) 2000 (S.R. 2000/94)](https://www.legislation.gov.uk/nisr/2000/94), [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/94/article/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2000/94/schedule)
+[^c-42d6a7da0ca19ce3b7f9533b77c48155]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/23) revoked (24.4.2000) by [Food Protection (Sheep Emergency Prohibitions) (Revocation) Order (Northern Ireland) 2000 (S.R. 2000/94)](https://www.legislation.gov.uk/nisr/2000/94), [art. 1(1)](https://www.legislation.gov.uk/nisr/2000/94/article/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2000/94/schedule)

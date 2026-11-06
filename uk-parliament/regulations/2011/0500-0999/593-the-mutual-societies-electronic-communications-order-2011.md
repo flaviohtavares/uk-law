@@ -54,7 +54,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and interpretation[^key-6076c819c362596417850a01a370ec52]
+### 1. Citation, commencement and interpretation[^c-6076c819c362596417850a01a370ec52]
 
 (1) This Order may be cited as the Mutual Societies (Electronic Communications) Order 2011 and comes into force on 12th April 2011.
 
@@ -68,7 +68,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 ## PART 2 — Building societies
 
-### 2. Amendment to proxy voting requirements[^key-c13e938c24738a2bcb630e4d29f2ac68]
+### 2. Amendment to proxy voting requirements[^c-c13e938c24738a2bcb630e4d29f2ac68]
 
 (1) For sub-paragraphs (1A) and (1B) of paragraph 24 of Schedule 2 to the 1986 Act[^f00007] (proxies) substitute—
 
@@ -94,7 +94,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 (2) In sub-paragraph (2A) of paragraph 34 of Schedule 2 to the 1986 Act[^f00008] (declarations to be made in proxy and ballot forms), for “contained in an electronic communication sent in accordance with paragraph 24(1A)(b)” substitute “returned in an electronic communication in accordance with paragraph 24(1D)”.
 
-### 3. Minor amendments to the 1986 Act[^key-3027907a6289aa1df24af5b892e72781]
+### 3. Minor amendments to the 1986 Act[^c-3027907a6289aa1df24af5b892e72781]
 
 (1) In section 61(7E) of the 1986 Act[^f00009] (directors: electronic transmission of election address), in paragraph (a) omit “, nothing in subsection (9A) above shall invalidate the election of a director where”.
 
@@ -109,7 +109,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 ### Interpretation
 
-#### 4. Interpretation of the 1992 Act[^key-ca1b34d4ea0aadb7e049a2c46ed63cdf]
+#### 4. Interpretation of the 1992 Act[^c-ca1b34d4ea0aadb7e049a2c46ed63cdf]
 
 (1) In section 119(1) of the 1992 Act[^f00013] (general interpretation), insert at the appropriate place—
 
@@ -178,7 +178,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 ### Societies and the Authority
 
-#### 5. Public file may be maintained electronically[^key-7f627f49d757f60f476c954609e79f07]
+#### 5. Public file may be maintained electronically[^c-7f627f49d757f60f476c954609e79f07]
 
 In section 104 of the 1992 Act[^f00015] (public file of a friendly society)—
 
@@ -192,7 +192,7 @@ In section 104 of the 1992 Act[^f00015] (public file of a friendly society)—
   ;
 - (b) in subsection (2A)[^f00016], after “subsection (1)(b) above,” insert “for making an electronic copy available under subsection (1A) above”.
 
-#### 6. Forms of documents to be sent to the Authority[^key-a64507fd6211fbb5ac779857a83f7671]
+#### 6. Forms of documents to be sent to the Authority[^c-a64507fd6211fbb5ac779857a83f7671]
 
 (1) In section 114(1) of the 1992 Act[^f00017] (forms of documents), after “the particulars to be included in”, insert “, and the authentication of,”.
 
@@ -214,7 +214,7 @@ In section 104 of the 1992 Act[^f00015] (public file of a friendly society)—
 
 ### Communications by and with societies
 
-#### 7. Electronic transmission of annual accounts etc.[^key-21a6389be0be2bfd12f8d86d32084937]
+#### 7. Electronic transmission of annual accounts etc.[^c-21a6389be0be2bfd12f8d86d32084937]
 
 After section 78(4) of the 1992 Act[^f00018] (laying and furnishing of accounts and reports) insert—
 
@@ -222,7 +222,7 @@ After section 78(4) of the 1992 Act[^f00018] (laying and furnishing of accounts 
 
 .
 
-#### 8. Electronic service of notices[^key-75094b8f773499af78159b157a6c8aae]
+#### 8. Electronic service of notices[^c-75094b8f773499af78159b157a6c8aae]
 
 In section 113(2) of the 1992 Act[^f00019] (service of notices)—
 
@@ -235,7 +235,7 @@ In section 113(2) of the 1992 Act[^f00019] (service of notices)—
 
   .
 
-#### 9. Use of name in electronic communications[^key-7ab87038f3e003f7c459e3e8f0806c77]
+#### 9. Use of name in electronic communications[^c-7ab87038f3e003f7c459e3e8f0806c77]
 
 In paragraph 10 of Schedule 3 to the 1992 Act (establishment, incorporation and constitution of incorporated friendly societies)—
 
@@ -255,11 +255,11 @@ In paragraph 10 of Schedule 3 to the 1992 Act (establishment, incorporation and 
 
   .
 
-#### 10. Electronic provision of copies of rules to members[^key-c0b1644a2ed3179ee6b410b445f86390]
+#### 10. Electronic provision of copies of rules to members[^c-c0b1644a2ed3179ee6b410b445f86390]
 
 In paragraph 13(2) of Schedule 3 to the 1992 Act (societies to supply copies of rules etc), omit “printed” in each place it appears.
 
-#### 11. Inclusion of electronic addresses in register of members[^key-ab9c127df45f3f3f6ed0db0c533b2fac]
+#### 11. Inclusion of electronic addresses in register of members[^c-ab9c127df45f3f3f6ed0db0c533b2fac]
 
 (1) In section 63A of the 1974 Act[^f00020] (register of members of registered friendly societies)—
 
@@ -300,7 +300,7 @@ In paragraph 13(2) of Schedule 3 to the 1992 Act (societies to supply copies of 
 - (c) in sub-paragraph (6)(a), insert “postal” before “address”; and
 - (d) in sub-paragraph (6)(b), after “some other address” insert “(not being an electronic address)”.
 
-#### 12. Delivery of documents held in electronic form[^key-11170e10d0b448e0fc7053e188e87ef4]
+#### 12. Delivery of documents held in electronic form[^c-11170e10d0b448e0fc7053e188e87ef4]
 
 In paragraph 12 of Schedule 4 to the 1992 Act (consequences of transfer), after sub-paragraph (4) insert—
 
@@ -308,7 +308,7 @@ In paragraph 12 of Schedule 4 to the 1992 Act (consequences of transfer), after 
 
 .
 
-#### 13. Electronic notification of details concerning a person’s eligibility to be a committee member[^key-f8d2ce8bb2ae4621dce1521daa99dbaf]
+#### 13. Electronic notification of details concerning a person’s eligibility to be a committee member[^c-f8d2ce8bb2ae4621dce1521daa99dbaf]
 
 In paragraph 3 of Schedule 11 to the 1992 Act (eligibility to be elected committee member), after sub-paragraph (3) insert—
 
@@ -316,7 +316,7 @@ In paragraph 3 of Schedule 11 to the 1992 Act (eligibility to be elected committ
 
 .
 
-#### 14. Electronic transmission of notice of meetings[^key-615f707b3e809a2ed2cd5421386e06e0]
+#### 14. Electronic transmission of notice of meetings[^c-615f707b3e809a2ed2cd5421386e06e0]
 
 In paragraph 4 of Schedule 12 to the 1992 Act (notice for calling meetings), after sub-paragraph (1) insert—
 
@@ -334,7 +334,7 @@ In paragraph 4 of Schedule 12 to the 1992 Act (notice for calling meetings), aft
 
 .
 
-#### 15. Electronic communication of resolutions requiring special notice[^key-52c859fc11eac52471c3c3e2c92cf7ec]
+#### 15. Electronic communication of resolutions requiring special notice[^c-52c859fc11eac52471c3c3e2c92cf7ec]
 
 In paragraph 9 of Schedule 12 to the 1992 Act (resolutions requiring special notice), after sub-paragraph (2) insert—
 
@@ -352,7 +352,7 @@ In paragraph 9 of Schedule 12 to the 1992 Act (resolutions requiring special not
 
 .
 
-#### 16. Electronic transmission of statement by person ceasing to hold office[^key-cbd6eb68edeadcc2057f1aa5097a390f]
+#### 16. Electronic transmission of statement by person ceasing to hold office[^c-cbd6eb68edeadcc2057f1aa5097a390f]
 
 In paragraph 14 of Schedule 14 to the 1992 Act (statement by person ceasing to hold office), after sub-paragraph (7) insert—
 
@@ -360,7 +360,7 @@ In paragraph 14 of Schedule 14 to the 1992 Act (statement by person ceasing to h
 
 .
 
-#### 17. Transfers of engagements: electronic transmission of statement to members[^key-e45febc5abb024939e70915823a4bf17]
+#### 17. Transfers of engagements: electronic transmission of statement to members[^c-e45febc5abb024939e70915823a4bf17]
 
 In Part 1 of Schedule 15 to the 1992 Act (amalgamations, transfers of engagements and conversion: supplementary), after paragraph 4 insert—
 
@@ -382,7 +382,7 @@ In Part 1 of Schedule 15 to the 1992 Act (amalgamations, transfers of engagement
 
 ### Ballots and proxies
 
-#### 18. Interpretation[^key-efee1c74c7ab2721a70fe9c058916007]
+#### 18. Interpretation[^c-efee1c74c7ab2721a70fe9c058916007]
 
 In section 116 of the 1992 Act (interpretation), insert at the appropriate place—
 
@@ -393,7 +393,7 @@ In section 116 of the 1992 Act (interpretation), insert at the appropriate place
 
 .
 
-#### 19. Electronic communications in postal ballots[^key-2e72fe812eff7e494d8eb6af54121dfb]
+#### 19. Electronic communications in postal ballots[^c-2e72fe812eff7e494d8eb6af54121dfb]
 
 (1) Paragraph 8 of Schedule 12 to the 1992 Act (postal ballots) is amended as follows.
 
@@ -417,7 +417,7 @@ In section 116 of the 1992 Act (interpretation), insert at the appropriate place
 
 .
 
-#### 20. Electronic ballots and combined ballots[^key-45e1365bf7ecce803f59acdf3cdbdc70]
+#### 20. Electronic ballots and combined ballots[^c-45e1365bf7ecce803f59acdf3cdbdc70]
 
 After paragraph 8 of Schedule 12 to the 1992 Act (postal ballots) insert—
 
@@ -475,7 +475,7 @@ After paragraph 8 of Schedule 12 to the 1992 Act (postal ballots) insert—
 
 .
 
-#### 21. Consequential amendments[^key-aa2c9d65e89d1208efd0e7e2e8f3054f]
+#### 21. Consequential amendments[^c-aa2c9d65e89d1208efd0e7e2e8f3054f]
 
 (1) In the following provisions of the 1992 Act for “instruments appointing proxies” substitute “appointments of proxies”—
 
@@ -494,11 +494,11 @@ After paragraph 8 of Schedule 12 to the 1992 Act (postal ballots) insert—
 
 ## PART 4 — Industrial and provident societies and credit unions
 
-### 22. Use of name in electronic communications[^key-fd85b5c7cb490809dc79dcf8c3ee30f3]
+### 22. Use of name in electronic communications[^c-fd85b5c7cb490809dc79dcf8c3ee30f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Electronic transmission of annual returns and group accounts[^key-a5a6f9f4aef5c5ea8fa3692ff81a11f0]
+### 23. Electronic transmission of annual returns and group accounts[^c-a5a6f9f4aef5c5ea8fa3692ff81a11f0]
 
 (1) After subsection (5) of section 39 of the 1965 Act[^f00024] (annual returns), insert—
 
@@ -531,15 +531,15 @@ After paragraph 8 of Schedule 12 to the 1992 Act (postal ballots) insert—
 
 .
 
-### 24. Inclusion of electronic address in register of members and officers[^key-43b7a864607c56b3f8958547f31e7a5f]
+### 24. Inclusion of electronic address in register of members and officers[^c-43b7a864607c56b3f8958547f31e7a5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Registration provisions[^key-818c7ce2dc08049042c7e5f0a08c2783]
+### 25. Registration provisions[^c-818c7ce2dc08049042c7e5f0a08c2783]
 
 In section 2(1)(b) and (2) of the 1965 Act[^f00026] (registration), omit “printed”.
 
-### 26. Form and delivery of documents to the Authority[^key-774f3526772df2d05a4976c80dc720e6]
+### 26. Form and delivery of documents to the Authority[^c-774f3526772df2d05a4976c80dc720e6]
 
 (1) In section 72 of the 1965 Act (the title to which becomes “Form, delivery and evidence of documents”), in subsection (1)[^f00027], for “deposited” substitute “delivered”.
 
@@ -577,7 +577,7 @@ In section 2(1)(b) and (2) of the 1965 Act[^f00026] (registration), omit “prin
 
 (5) In section 31(2) of the Credit Unions Act 1979[^f00029] (interpretation, etc), for “72 and 74” insert “72, 72A, 74 and 74A”.
 
-### 27. Interpretation: communications[^key-85620d7f9f0308ba03db828f1180d3b8]
+### 27. Interpretation: communications[^c-85620d7f9f0308ba03db828f1180d3b8]
 
 (1) In section 74 of the 1965 Act (interpretation: general), in subsection (1)[^f00030], insert at the appropriate place—
 
@@ -619,7 +619,7 @@ In section 2(1)(b) and (2) of the 1965 Act[^f00026] (registration), omit “prin
 
 .
 
-### 28. Electronic transmission of representations of retiring auditor[^key-9ccaabe2b1c72eb70823814b74bc70cb]
+### 28. Electronic transmission of representations of retiring auditor[^c-9ccaabe2b1c72eb70823814b74bc70cb]
 
 In section 6 of the 1968 Act (provisions as to resolutions relating to appointment and removal of auditors), after subsection (7) insert—
 
@@ -698,7 +698,7 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00001]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-6076c819c362596417850a01a370ec52]: Commencement: Art. 1 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-6076c819c362596417850a01a370ec52]: Commencement: Art. 1 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
 [^f00002]: Footnote: [1965 c.12](https://www.legislation.gov.uk/ukpga/1965/12).
 
@@ -710,13 +710,13 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00006]: Footnote: [1992 c.40](https://www.legislation.gov.uk/ukpga/1992/40).
 
-[^key-c13e938c24738a2bcb630e4d29f2ac68]: Commencement: Art. 2 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-c13e938c24738a2bcb630e4d29f2ac68]: Commencement: Art. 2 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
 [^f00007]: Footnote: [1986 c.53](https://www.legislation.gov.uk/ukpga/1986/53); sub-paragraphs (1A) and (1B) were inserted by [S.I. 2003/404](https://www.legislation.gov.uk/uksi/2003/404) art 15.
 
 [^f00008]: Footnote: [1986 c.53](https://www.legislation.gov.uk/ukpga/1986/53); sub-paragraph (2A) was inserted by [S.I. 2003/404](https://www.legislation.gov.uk/uksi/2003/404) art 19(1), (2).
 
-[^key-3027907a6289aa1df24af5b892e72781]: Commencement: Art. 3 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-3027907a6289aa1df24af5b892e72781]: Commencement: Art. 3 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
 [^f00009]: Footnote: [1986 c.53](https://www.legislation.gov.uk/ukpga/1986/53); section 61(7E) was inserted by [S.I. 2003/404](https://www.legislation.gov.uk/uksi/2003/404) art 3(2).
 
@@ -726,73 +726,73 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00012]: Footnote: [1986 c.53](https://www.legislation.gov.uk/ukpga/1986/53); paragraph 6(2) of Schedule 16 was amended by [S.I. 2003/404](https://www.legislation.gov.uk/uksi/2003/404) art 26(2).
 
-[^key-ca1b34d4ea0aadb7e049a2c46ed63cdf]: Commencement: Art. 4 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-ca1b34d4ea0aadb7e049a2c46ed63cdf]: Commencement: Art. 4 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
 [^f00013]: Footnote: [1992 c.40](https://www.legislation.gov.uk/ukpga/1992/40); section 119(1) was amended by [S.I. 1994/1984](https://www.legislation.gov.uk/uksi/1994/1984) to insert the definition of “EFTA State”. There are other amendments to section 119(1) not relevant to this Order.
 
 [^f00014]: Footnote: [1992 c.40](https://www.legislation.gov.uk/ukpga/1992/40); section 119A was inserted by [S.I.1994/1984](https://www.legislation.gov.uk/uksi/1994/1984) reg 31.
 
-[^key-7f627f49d757f60f476c954609e79f07]: Commencement: Art. 5 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-7f627f49d757f60f476c954609e79f07]: Commencement: Art. 5 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
 [^f00015]: Footnote: [1992 c.40](https://www.legislation.gov.uk/ukpga/1992/40); section 104 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) art 13(1), Sch 3 Pt 1, paras 53, 108 and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) art 203(1), (5).
 
 [^f00016]: Footnote: [1992 c.40](https://www.legislation.gov.uk/ukpga/1992/40); subsection (2A) was inserted by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), art 13(1), Sch 3 Pt 1, paras 53, 108(c).
 
-[^key-a64507fd6211fbb5ac779857a83f7671]: Commencement: Art. 6 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-a64507fd6211fbb5ac779857a83f7671]: Commencement: Art. 6 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
 [^f00017]: Footnote: [1992 c.40](https://www.legislation.gov.uk/ukpga/1992/40); section 114 was substituted by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), arts 2, 8(1), 13(1), Sch 3, Pt 1, para 113 and by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) arts 1, 204.
 
-[^key-21a6389be0be2bfd12f8d86d32084937]: Commencement: Art. 7 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-21a6389be0be2bfd12f8d86d32084937]: Commencement: Art. 7 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
 [^f00018]: Footnote: [1992 c.40](https://www.legislation.gov.uk/ukpga/1992/40); subsection (4) was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) art 13(1), Sch 3 Pt 1, paras 53, 91(b) and by [S.I. 2008/1140](https://www.legislation.gov.uk/uksi/2008/1140) art 9, Sch 1, paras 1,4.
 
-[^key-75094b8f773499af78159b157a6c8aae]: Commencement: Art. 8 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-75094b8f773499af78159b157a6c8aae]: Commencement: Art. 8 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
 [^f00019]: Footnote: [1992 c.40](https://www.legislation.gov.uk/ukpga/1992/40); section 113 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) art 13(1), Sch 3 Pt 1, paras 53, 112.
 
-[^key-7ab87038f3e003f7c459e3e8f0806c77]: Commencement: Art. 9 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-7ab87038f3e003f7c459e3e8f0806c77]: Commencement: Art. 9 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
-[^key-c0b1644a2ed3179ee6b410b445f86390]: Commencement: Art. 10 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-c0b1644a2ed3179ee6b410b445f86390]: Commencement: Art. 10 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
-[^key-ab9c127df45f3f3f6ed0db0c533b2fac]: Commencement: Art. 11 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-ab9c127df45f3f3f6ed0db0c533b2fac]: Commencement: Art. 11 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
 [^f00020]: Footnote: [1992 c.40](https://www.legislation.gov.uk/ukpga/1992/40); section 63A was inserted by the Friendly Societies Act 1992, section 95, Sch 16 para 22.
 
-[^key-11170e10d0b448e0fc7053e188e87ef4]: Commencement: Art. 12 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-11170e10d0b448e0fc7053e188e87ef4]: Commencement: Art. 12 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
-[^key-f8d2ce8bb2ae4621dce1521daa99dbaf]: Commencement: Art. 13 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-f8d2ce8bb2ae4621dce1521daa99dbaf]: Commencement: Art. 13 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
-[^key-615f707b3e809a2ed2cd5421386e06e0]: Commencement: Art. 14 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-615f707b3e809a2ed2cd5421386e06e0]: Commencement: Art. 14 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
-[^key-52c859fc11eac52471c3c3e2c92cf7ec]: Commencement: Art. 15 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-52c859fc11eac52471c3c3e2c92cf7ec]: Commencement: Art. 15 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
-[^key-cbd6eb68edeadcc2057f1aa5097a390f]: Commencement: Art. 16 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-cbd6eb68edeadcc2057f1aa5097a390f]: Commencement: Art. 16 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
-[^key-e45febc5abb024939e70915823a4bf17]: Commencement: Art. 17 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-e45febc5abb024939e70915823a4bf17]: Commencement: Art. 17 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
-[^key-efee1c74c7ab2721a70fe9c058916007]: Commencement: Art. 18 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-efee1c74c7ab2721a70fe9c058916007]: Commencement: Art. 18 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
-[^key-2e72fe812eff7e494d8eb6af54121dfb]: Commencement: Art. 19 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-2e72fe812eff7e494d8eb6af54121dfb]: Commencement: Art. 19 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
-[^key-45e1365bf7ecce803f59acdf3cdbdc70]: Commencement: Art. 20 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-45e1365bf7ecce803f59acdf3cdbdc70]: Commencement: Art. 20 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
-[^key-aa2c9d65e89d1208efd0e7e2e8f3054f]: Commencement: Art. 21 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-aa2c9d65e89d1208efd0e7e2e8f3054f]: Commencement: Art. 21 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
-[^key-fd85b5c7cb490809dc79dcf8c3ee30f3]: Textual amendment: Art. 22 revoked (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-fd85b5c7cb490809dc79dcf8c3ee30f3]: Textual amendment: Art. 22 revoked (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-a5a6f9f4aef5c5ea8fa3692ff81a11f0]: Commencement: Art. 23 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-a5a6f9f4aef5c5ea8fa3692ff81a11f0]: Commencement: Art. 23 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
 [^f00024]: Footnote: [1965 c.12](https://www.legislation.gov.uk/ukpga/1965/12); there are amendments to section 39 not relevant to this Order.
 
 [^f00025]: Footnote: [1968 c.55](https://www.legislation.gov.uk/ukpga/1968/55); section 13 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) arts 4(1)(a), 13(1), Sch 1, Pt 1, Sch 3 Pt III paras 246, 255.
 
-[^key-43b7a864607c56b3f8958547f31e7a5f]: Textual amendment: Art. 24 revoked (1.8.2014) by [Co Operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-43b7a864607c56b3f8958547f31e7a5f]: Textual amendment: Art. 24 revoked (1.8.2014) by [Co Operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-818c7ce2dc08049042c7e5f0a08c2783]: Commencement: Art. 25 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-818c7ce2dc08049042c7e5f0a08c2783]: Commencement: Art. 25 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
 [^f00026]: Footnote: [1965 c.12](https://www.legislation.gov.uk/ukpga/1965/12); subsections (1) and (2) were amended by [S.I. 1996/1738](https://www.legislation.gov.uk/uksi/1996/1738) arts 3(1), 4(1) and [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) art 13(1), Sch 3, Pt III paras 214, 215(i).
 
-[^key-774f3526772df2d05a4976c80dc720e6]: Commencement: Art. 26 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-774f3526772df2d05a4976c80dc720e6]: Commencement: Art. 26 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
 [^f00027]: Footnote: [1965 c.12](https://www.legislation.gov.uk/ukpga/1965/12); section 72(1) was substituted by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), art 182.
 
@@ -800,8 +800,8 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00029]: Footnote: [1979 c. 34](https://www.legislation.gov.uk/ukpga/1979/34); section 31(2) was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), art 13(1), Sch 3, PtIV, paras 264, 289(a), Sch 4 and [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555), art 7(1), (3).
 
-[^key-85620d7f9f0308ba03db828f1180d3b8]: Commencement: Art. 27 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-85620d7f9f0308ba03db828f1180d3b8]: Commencement: Art. 27 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
 
 [^f00030]: Footnote: [1965 c.12](https://www.legislation.gov.uk/ukpga/1965/12); there are amendments to section 74(1) not relevant to this Order.
 
-[^key-9ccaabe2b1c72eb70823814b74bc70cb]: Commencement: Art. 28 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)
+[^c-9ccaabe2b1c72eb70823814b74bc70cb]: Commencement: Art. 28 in force at 12.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1)

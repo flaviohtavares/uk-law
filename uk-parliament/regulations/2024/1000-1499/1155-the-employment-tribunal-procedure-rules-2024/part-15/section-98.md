@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 98. Transfer of proceedings between Scotland and England and Wales[^key-67fb326a75e729060cdfd8ebec4ea8b1]
+## 98. Transfer of proceedings between Scotland and England and Wales[^c-67fb326a75e729060cdfd8ebec4ea8b1]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67fb326a75e729060cdfd8ebec4ea8b1]: Commencement: [Rule 98](https://www.legislation.gov.uk/uksi/2024/1155/rule/98) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-67fb326a75e729060cdfd8ebec4ea8b1]: Commencement: [Rule 98](https://www.legislation.gov.uk/uksi/2024/1155/rule/98) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

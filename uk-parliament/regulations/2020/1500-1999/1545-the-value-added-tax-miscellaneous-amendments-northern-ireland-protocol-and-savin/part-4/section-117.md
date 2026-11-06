@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117.[^key-6a6348cfe91befe733bf8462f0319ab5]
+## 117.[^c-6a6348cfe91befe733bf8462f0319ab5]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ the fact that the removal occurs at that time does not affect the application of
 
 ## Annotations
 
-[^key-6a6348cfe91befe733bf8462f0319ab5]: Commencement: Reg. 117 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-6a6348cfe91befe733bf8462f0319ab5]: Commencement: Reg. 117 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

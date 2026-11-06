@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## R4. Payments due in respect of deceased persons[^key-759d1c40065f9fb37883800013cdc7de]
+## R4. Payments due in respect of deceased persons[^c-759d1c40065f9fb37883800013cdc7de]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ the whole or any part of the amount due.
 
 ## Annotations
 
-[^key-759d1c40065f9fb37883800013cdc7de]: Commencement: [Reg. R4](https://www.legislation.gov.uk/uksi/1986/24/regulation/R4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-759d1c40065f9fb37883800013cdc7de]: Commencement: [Reg. R4](https://www.legislation.gov.uk/uksi/1986/24/regulation/R4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00086]: Footnote: [1965 c.32](https://www.legislation.gov.uk/ukpga/1965/32).

@@ -30,7 +30,7 @@ summary: ''
 
 REGISTERED HOMES
 
-The Residential Care Homes (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-af044850efab8b7cfabaebacd7713b94]
+The Residential Care Homes (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-af044850efab8b7cfabaebacd7713b94]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 1st May 1998
 
-[^key-af044850efab8b7cfabaebacd7713b94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af044850efab8b7cfabaebacd7713b94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-af044850efab8b7cfabaebacd7713b94]
+## 1. Citation, commencement and interpretation[^c-af044850efab8b7cfabaebacd7713b94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 1 to the principal regulations[^key-af044850efab8b7cfabaebacd7713b94]
+## 2. Amendment of Schedule 1 to the principal regulations[^c-af044850efab8b7cfabaebacd7713b94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 3 to the principal regulations[^key-af044850efab8b7cfabaebacd7713b94]
+## 3. Amendment of Schedule 3 to the principal regulations[^c-af044850efab8b7cfabaebacd7713b94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af044850efab8b7cfabaebacd7713b94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af044850efab8b7cfabaebacd7713b94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-af044850efab8b7cfabaebacd7713b94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af044850efab8b7cfabaebacd7713b94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af044850efab8b7cfabaebacd7713b94]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/139) revoked (1.4.2005) by [The Residential Care Homes Regulations (Northern Ireland) 2005 (S.R. 2005/161)](https://www.legislation.gov.uk/nisr/2005/161), [regs. 1](https://www.legislation.gov.uk/nisr/2005/161/regulation/1), [38](https://www.legislation.gov.uk/nisr/2005/161/regulation/38)
+[^c-af044850efab8b7cfabaebacd7713b94]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/139) revoked (1.4.2005) by [The Residential Care Homes Regulations (Northern Ireland) 2005 (S.R. 2005/161)](https://www.legislation.gov.uk/nisr/2005/161), [regs. 1](https://www.legislation.gov.uk/nisr/2005/161/regulation/1), [38](https://www.legislation.gov.uk/nisr/2005/161/regulation/38)

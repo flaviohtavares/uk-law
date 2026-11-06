@@ -24,7 +24,7 @@ summary: ''
 
 (introduced by section 103)
 
-### 1. Application to determine conditions of minerals permissions relating to dormant sites[^key-64a3ba2b37d8105f7cc31ef67186b640]
+### 1. Application to determine conditions of minerals permissions relating to dormant sites[^c-64a3ba2b37d8105f7cc31ef67186b640]
 
 (1) An interested person may apply to the planning authority to determine—
 
@@ -55,7 +55,7 @@ summary: ''
   - (b) a tenant under a lease granted or extended for a fixed term that has at least 7 years left to run;
 - “**the planning authority**” (“***yr awdurdod cynllunio***”) means the planning authority in whose area the land or site to which an application relates is situated.
 
-### 2. Dealing with an application[^key-cde8323c90012469261460a3fc0c86cf]
+### 2. Dealing with an application[^c-cde8323c90012469261460a3fc0c86cf]
 
 (1) Where a planning authority receives an application under paragraph 1, the authority must—
 
@@ -92,7 +92,7 @@ that it is reasonable for the authority to request.
 
 (10) A condition to which a pre-1948 minerals permission is subject by virtue of sub-paragraph (2)(c) is not to be regarded as a condition mentioned in section 67(3) (planning permission granted for a limited period).
 
-### 3. Reference of applications to the Welsh Ministers[^key-ac8537d2873b0a16f20882b4681d9506]
+### 3. Reference of applications to the Welsh Ministers[^c-ac8537d2873b0a16f20882b4681d9506]
 
 (1) The Welsh Ministers may direct a planning authority to refer an application made to the authority under paragraph 1 to them for determination instead of dealing with the application itself.
 
@@ -111,7 +111,7 @@ that it is reasonable for the authority to request.
 
 (7) The decision of the Welsh Ministers on the application is final.
 
-### 4. Right to appeal against determination of application[^key-9aae8419279c041462b28118a99c8d56]
+### 4. Right to appeal against determination of application[^c-9aae8419279c041462b28118a99c8d56]
 
 (1) Where on an application under paragraph 1 a planning authority determines conditions that differ in any respect from the conditions proposed in the application, the applicant may appeal to the Welsh Ministers.
 
@@ -140,7 +140,7 @@ and may deal with the application as if it had been made to them in the first in
 
 (8) The decision of the Welsh Ministers on the appeal is final.
 
-### 5. Time when conditions of permission take effect[^key-695b837015cdfeea2cb15203b06faa5f]
+### 5. Time when conditions of permission take effect[^c-695b837015cdfeea2cb15203b06faa5f]
 
 (1) Each minerals permission in relation to which an application is made under paragraph 1 has effect subject to the conditions determined under this Schedule from the time when the application is finally determined.
 
@@ -152,11 +152,11 @@ and may deal with the application as if it had been made to them in the first in
   - (ii) any appeal under paragraph 4, and any proceedings under section 376 for questioning a decision of the Welsh Ministers on the application or on an appeal, have been determined or withdrawn, and
   - (iii) any period for appealing under paragraph 4, or for applying under section 376 for permission to apply for statutory review of a decision of the Welsh Ministers on the application or an appeal, has ended.
 
-### 6. Applications made electronically[^key-9d0f8b23b7ef44f7719d56a4c8daedc9]
+### 6. Applications made electronically[^c-9d0f8b23b7ef44f7719d56a4c8daedc9]
 
 Regulations may make provision about the use of electronic communications in connection with applications under paragraph 1.
 
-### 7. Two or more applications[^key-73433166573690821d9d50938ea1515f]
+### 7. Two or more applications[^c-73433166573690821d9d50938ea1515f]
 
 (1) This paragraph applies where a planning authority has received an application under paragraph 1.
 
@@ -178,16 +178,16 @@ Regulations may make provision about the use of electronic communications in con
 
 ## Annotations
 
-[^key-64a3ba2b37d8105f7cc31ef67186b640]: Commencement: Sch. 8 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-64a3ba2b37d8105f7cc31ef67186b640]: Commencement: Sch. 8 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-cde8323c90012469261460a3fc0c86cf]: Commencement: Sch. 8 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-cde8323c90012469261460a3fc0c86cf]: Commencement: Sch. 8 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-ac8537d2873b0a16f20882b4681d9506]: Commencement: Sch. 8 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ac8537d2873b0a16f20882b4681d9506]: Commencement: Sch. 8 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-9aae8419279c041462b28118a99c8d56]: Commencement: Sch. 8 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-9aae8419279c041462b28118a99c8d56]: Commencement: Sch. 8 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-695b837015cdfeea2cb15203b06faa5f]: Commencement: Sch. 8 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-695b837015cdfeea2cb15203b06faa5f]: Commencement: Sch. 8 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-9d0f8b23b7ef44f7719d56a4c8daedc9]: Commencement: Sch. 8 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-9d0f8b23b7ef44f7719d56a4c8daedc9]: Commencement: Sch. 8 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-73433166573690821d9d50938ea1515f]: Commencement: Sch. 8 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-73433166573690821d9d50938ea1515f]: Commencement: Sch. 8 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

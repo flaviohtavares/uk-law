@@ -53,7 +53,7 @@ And Whereas at Ottawa on 29th September 1995 Notes were exchanged on behalf of t
 
 [^c1788671][^c1788672][^c1788673] And Whereas by section 179(1)(a) and (2) of the Social Security Administration Act 1992 it is provided that Her Majesty may by Order in Council make provision for modifying or adapting that Act and the Social Security Contributions and Benefits Act 1992 and regulations made or having effect thereunder in their application to cases affected by agreements with the Governments of countries outside the United Kingdom providing for reciprocity in matters specified in the said section:
 
-Now, therefore, Her Majesty, in pursuance of section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^key-88662f3269925fcf20768375a7030728][^M_C_c6268506-a295-44bc-f0b1-befe409d0943]
+Now, therefore, Her Majesty, in pursuance of section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^c-88662f3269925fcf20768375a7030728][^M_C_c6268506-a295-44bc-f0b1-befe409d0943]
 
 ## 1. Citation and commencement
 
@@ -73,9 +73,9 @@ N. H. Nicholls
 
 Clerk of the Privy Council
 
-## SCHEDULE 1 — EXCHANGE OF LETTERS BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF CANADA CONCERNING CONSOLIDATED ARRANGEMENTS ON SOCIAL SECUR ITY[^key-489157377ece24b73633fba43e187648][^key-0c5fa0a20d3619447bd5c393fc0bf41f]
+## SCHEDULE 1 — EXCHANGE OF LETTERS BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF CANADA CONCERNING CONSOLIDATED ARRANGEMENTS ON SOCIAL SECUR ITY[^c-489157377ece24b73633fba43e187648][^c-0c5fa0a20d3619447bd5c393fc0bf41f]
 
-[^key-0c5fa0a20d3619447bd5c393fc0bf41f]*No. 1* *The United Kingdom High Commissioner at Ottawa to the Minister of Employment and Immigration of Canada* *British High Commission Ottawa* *11 October 1994*
+[^c-0c5fa0a20d3619447bd5c393fc0bf41f]*No. 1* *The United Kingdom High Commissioner at Ottawa to the Minister of Employment and Immigration of Canada* *British High Commission Ottawa* *11 October 1994*
 
 Dear Minister:
 
@@ -91,7 +91,7 @@ If these proposals are acceptable to the Government of Canada, I have the honour
 
 I avail myself of this opportunity to renew to Your Excellency the assurance of my highest consideration.
 
-## Schedule to the letter of 11 October 1994 from the High Commissioner for the United Kingdom in Canada to the Minister of Employment and Immigration[^key-489157377ece24b73633fba43e187648]
+## Schedule to the letter of 11 October 1994 from the High Commissioner for the United Kingdom in Canada to the Minister of Employment and Immigration[^c-489157377ece24b73633fba43e187648]
 
 ### PART I — general provisions
 
@@ -187,7 +187,7 @@ and the legislation which was repealed or consolidated by those Acts or Orders, 
 
 (17) The two Parties shall assist one another on any matter relating to the application of these arrangements as if the matter were one affecting the application of their own legislation.
 
-[^key-489157377ece24b73633fba43e187648]
+[^c-489157377ece24b73633fba43e187648]
 
 *No. 2* *The Minister of Employment and Immigration of Canada to the United Kingdom High Commissioner at Ottawa* *Ministry of Employment and Immigration Ottawa* *8 October 1994*
 
@@ -195,7 +195,7 @@ Excellency:
 
 I have the honour to acknowledge receipt of your letter of October 11, 1994 which reads as follows:
 
-[^key-489157377ece24b73633fba43e187648]
+[^c-489157377ece24b73633fba43e187648]
 
 \[As in No. 1\]
 
@@ -203,7 +203,7 @@ I have the honour to confirm that the proposals set out in your letter and its S
 
 I have the honour to convey to Your Excellency the assurance of my highest consideration.
 
-## SCHEDULE 2 — EXCHANGE OF NOTES BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF CANADA[^key-489157377ece24b73633fba43e187648]
+## SCHEDULE 2 — EXCHANGE OF NOTES BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF CANADA[^c-489157377ece24b73633fba43e187648]
 
 *No. 1*
 
@@ -243,7 +243,7 @@ This Order does not impose any costs on business.
 
 [^c1788673]: Marginal citation: See section 179(5) of the Social Security Administration Act 1992.
 
-[^key-88662f3269925fcf20768375a7030728]: Modification: Order modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
+[^c-88662f3269925fcf20768375a7030728]: Modification: Order modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
 
 [^M_C_c6268506-a295-44bc-f0b1-befe409d0943]: Modification: Order modified (7.10.1996) by [The Social Security (Reciprocal Agreements) Order 1996 (S.I. 1996/1928)](https://www.legislation.gov.uk/uksi/1996/1928), [art. 2](https://www.legislation.gov.uk/uksi/1996/1928/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/1928/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/1928/schedule/2)
 
@@ -259,6 +259,6 @@ This Order does not impose any costs on business.
 
 [^c1788679]: Marginal citation: [S.I. 1976/963](https://www.legislation.gov.uk/uksi/1976/963).
 
-[^key-489157377ece24b73633fba43e187648]: Modification: [Schs. 1-2](https://www.legislation.gov.uk/uksi/1995/2699/schedule/1) modified (5.12.2005) by [Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
+[^c-489157377ece24b73633fba43e187648]: Modification: [Schs. 1-2](https://www.legislation.gov.uk/uksi/1995/2699/schedule/1) modified (5.12.2005) by [Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
 
-[^key-0c5fa0a20d3619447bd5c393fc0bf41f]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1995/2699/schedule/1) modified (E.W.S.) (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [art. 1](https://www.legislation.gov.uk/uksi/2016/158/article/1), [Sch. 3 paras. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/3/paragraph/1), [3](https://www.legislation.gov.uk/uksi/2016/158/schedule/3/paragraph/3)
+[^c-0c5fa0a20d3619447bd5c393fc0bf41f]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/1995/2699/schedule/1) modified (E.W.S.) (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [art. 1](https://www.legislation.gov.uk/uksi/2016/158/article/1), [Sch. 3 paras. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/3/paragraph/1), [3](https://www.legislation.gov.uk/uksi/2016/158/schedule/3/paragraph/3)

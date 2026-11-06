@@ -28,19 +28,19 @@ Section 58(13).
 
 ### The Northern Ireland Constitution Act 1973 (c. 36)
 
-**2.**[^key-74c6f1704a52634096c8f6159f659186] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-74c6f1704a52634096c8f6159f659186] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The House of Commons Disqualification Act 1975 (c.24)
 
 **3.** (1) The House of Commons Disqualification Act 1975 shall be amended as follows.
 
-(2) In Part I of Schedule 1[^key-c8ae76ecc8aa0f38e7a3d350e4ab8ea3] (disqualifying judicial offices), the following entries shall be inserted at the appropriate places— “ Chief or other Child Support Commissioner (excluding a person appointed under paragraph 4 of Schedule 4 to the Child Support Act 1991). ” “ Chief or other Child Support Commissioner for Northern Ireland (excluding a person appointed under paragraph 4 of Schedule 4 to the Child Support Act 1991). ”
+(2) In Part I of Schedule 1[^c-c8ae76ecc8aa0f38e7a3d350e4ab8ea3] (disqualifying judicial offices), the following entries shall be inserted at the appropriate places— “ Chief or other Child Support Commissioner (excluding a person appointed under paragraph 4 of Schedule 4 to the Child Support Act 1991). ” “ Chief or other Child Support Commissioner for Northern Ireland (excluding a person appointed under paragraph 4 of Schedule 4 to the Child Support Act 1991). ”
 
-(3)[^key-9eb5fea59c6b99cfca85c362ae8dc426] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9eb5fea59c6b99cfca85c362ae8dc426] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Northern Ireland Assembly Disqualification Act 1975 (c.25)
 
-**4.** (1) In Part I of Schedule 1 to[^key-15c3545a791baf5e67939a6d1ab1dbf8] the Northern Ireland Assembly Disqualification Act 1975 (disqualifying judicial offices), the following entries shall be inserted at the appropriate places— “ Chief or other Child Support Commissioner (excluding a person appointed under paragraph 4 of Schedule 4 to the Child Support Act 1991). ” “ Chief or other Child Support Commissioner for Northern Ireland (excluding a person appointed under paragraph 4 of Schedule 4 to the Child Support Act 1991). ”
+**4.** (1) In Part I of Schedule 1 to[^c-15c3545a791baf5e67939a6d1ab1dbf8] the Northern Ireland Assembly Disqualification Act 1975 (disqualifying judicial offices), the following entries shall be inserted at the appropriate places— “ Chief or other Child Support Commissioner (excluding a person appointed under paragraph 4 of Schedule 4 to the Child Support Act 1991). ” “ Chief or other Child Support Commissioner for Northern Ireland (excluding a person appointed under paragraph 4 of Schedule 4 to the Child Support Act 1991). ”
 
 ### The Family Law (Scotland) Act 1985 (c.37)
 
@@ -54,13 +54,13 @@ Section 58(13).
 
 *Extent: E+W+S*
 
-**6.**[^key-19721bb7ae11512fa9e5393cdc6ab8aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-19721bb7ae11512fa9e5393cdc6ab8aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Insolvency Act 1986 (c.45)
 
 *Extent: E+W+N.I.*
 
-**7.** In section 281(5)(b) of the Insolvency Act 1986 (effect of discharge of bankrupt), after “family proceedings” there shall be inserted “ or under a maintenance calculation[^key-fad1874c39e818d578cda5edda000619] made under the Child Support Act 1991 ”.
+**7.** In section 281(5)(b) of the Insolvency Act 1986 (effect of discharge of bankrupt), after “family proceedings” there shall be inserted “ or under a maintenance calculation[^c-fad1874c39e818d578cda5edda000619] made under the Child Support Act 1991 ”.
 
 ### The Debtors (Scotland) Act 1987 (c.18)
 
@@ -123,14 +123,14 @@ Section 58(13).
 
 [^c21359981]: Textual amendment: Sch. 5 para. 1 repealed (1.10.1992) by [Tribunals and Inquiries Act 1992 (c. 53)](https://www.legislation.gov.uk/ukpga/1992/53), [s. 18(2)](https://www.legislation.gov.uk/ukpga/1992/53/section/18/2), [19(2)](https://www.legislation.gov.uk/ukpga/1992/53/section/19/2), [Sch. 4 Pt.I](https://www.legislation.gov.uk/ukpga/1992/53/schedule/4/part/I)
 
-[^key-74c6f1704a52634096c8f6159f659186]: Textual amendment: Sch. 5 para. 2 repealed (2.12.1999) by [Northern Ireland Act 1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/1998/47/section/100/2), [101(3)](https://www.legislation.gov.uk/ukpga/1998/47/section/101/3), [Sch. 15](https://www.legislation.gov.uk/ukpga/1998/47/schedule/15) (with [s. 95](https://www.legislation.gov.uk/ukpga/1998/47/section/95), [Sch. 14](https://www.legislation.gov.uk/ukpga/1998/47/schedule/14)); [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), [art. 2](https://www.legislation.gov.uk/uksi/1999/3209/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/3209/schedule)
+[^c-74c6f1704a52634096c8f6159f659186]: Textual amendment: Sch. 5 para. 2 repealed (2.12.1999) by [Northern Ireland Act 1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/1998/47/section/100/2), [101(3)](https://www.legislation.gov.uk/ukpga/1998/47/section/101/3), [Sch. 15](https://www.legislation.gov.uk/ukpga/1998/47/schedule/15) (with [s. 95](https://www.legislation.gov.uk/ukpga/1998/47/section/95), [Sch. 14](https://www.legislation.gov.uk/ukpga/1998/47/schedule/14)); [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), [art. 2](https://www.legislation.gov.uk/uksi/1999/3209/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/3209/schedule)
 
-[^key-c8ae76ecc8aa0f38e7a3d350e4ab8ea3]: Textual amendment: Words in Sch. 5 para. 3(2) inserted (4.9.1995) by [Child Support Act 1995 (c. 34)](https://www.legislation.gov.uk/ukpga/1995/34), [s. 30(4)](https://www.legislation.gov.uk/ukpga/1995/34/section/30/4), [Sch. 3 para. 19(1)](https://www.legislation.gov.uk/ukpga/1995/34/schedule/3/paragraph/19/1); [S.I. 1995/2302](https://www.legislation.gov.uk/uksi/1995/2302), [art. 2](https://www.legislation.gov.uk/uksi/1995/2302/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1995/2302/schedule/part/1)
+[^c-c8ae76ecc8aa0f38e7a3d350e4ab8ea3]: Textual amendment: Words in Sch. 5 para. 3(2) inserted (4.9.1995) by [Child Support Act 1995 (c. 34)](https://www.legislation.gov.uk/ukpga/1995/34), [s. 30(4)](https://www.legislation.gov.uk/ukpga/1995/34/section/30/4), [Sch. 3 para. 19(1)](https://www.legislation.gov.uk/ukpga/1995/34/schedule/3/paragraph/19/1); [S.I. 1995/2302](https://www.legislation.gov.uk/uksi/1995/2302), [art. 2](https://www.legislation.gov.uk/uksi/1995/2302/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1995/2302/schedule/part/1)
 
-[^key-9eb5fea59c6b99cfca85c362ae8dc426]: Textual amendment: Sch. 5 para. 3(3) repealed (1.6.1999) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(f)(iii)](https://www.legislation.gov.uk/uksi/1999/1510/article/2/f/iii)
+[^c-9eb5fea59c6b99cfca85c362ae8dc426]: Textual amendment: Sch. 5 para. 3(3) repealed (1.6.1999) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(f)(iii)](https://www.legislation.gov.uk/uksi/1999/1510/article/2/f/iii)
 
-[^key-15c3545a791baf5e67939a6d1ab1dbf8]: Textual amendment: Words in Sch. 5 para. 4(1) inserted (4.9.1995) by [Child Support Act 1995 (c. 34)](https://www.legislation.gov.uk/ukpga/1995/34), [s. 30(4)](https://www.legislation.gov.uk/ukpga/1995/34/section/30/4), [Sch. 3 para. 19(3)](https://www.legislation.gov.uk/ukpga/1995/34/schedule/3/paragraph/19/3); [S.I. 1995/2302](https://www.legislation.gov.uk/uksi/1995/2302), [art. 2](https://www.legislation.gov.uk/uksi/1995/2302/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1995/2302/schedule/part/1)
+[^c-15c3545a791baf5e67939a6d1ab1dbf8]: Textual amendment: Words in Sch. 5 para. 4(1) inserted (4.9.1995) by [Child Support Act 1995 (c. 34)](https://www.legislation.gov.uk/ukpga/1995/34), [s. 30(4)](https://www.legislation.gov.uk/ukpga/1995/34/section/30/4), [Sch. 3 para. 19(3)](https://www.legislation.gov.uk/ukpga/1995/34/schedule/3/paragraph/19/3); [S.I. 1995/2302](https://www.legislation.gov.uk/uksi/1995/2302), [art. 2](https://www.legislation.gov.uk/uksi/1995/2302/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/1995/2302/schedule/part/1)
 
-[^key-19721bb7ae11512fa9e5393cdc6ab8aa]: Textual amendment: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/1991/48/schedule/5/paragraph/6) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-19721bb7ae11512fa9e5393cdc6ab8aa]: Textual amendment: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/1991/48/schedule/5/paragraph/6) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
 
-[^key-fad1874c39e818d578cda5edda000619]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1991/48) substituted (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/1/2/a), [86(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2) (with [ss. 28](https://www.legislation.gov.uk/ukpga/2000/19/section/28), [83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule)
+[^c-fad1874c39e818d578cda5edda000619]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1991/48) substituted (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/1/2/a), [86(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2) (with [ss. 28](https://www.legislation.gov.uk/ukpga/2000/19/section/28), [83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule)

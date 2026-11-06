@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Requirement of warning etc. of prosecutions for certain offences.[^c18157241][^key-31343e00a2f71240331c04b50962e9dc][^c18157231]
+## 1. Requirement of warning etc. of prosecutions for certain offences.[^c18157241][^c-31343e00a2f71240331c04b50962e9dc][^c18157231]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
   - (i) in the case of an offence under section 28 or 29 of the [^c18157261]Road Traffic Act 1988 (cycling offences), served on him,
   - (ii) in the case of any other offence, served on him or on the person, if any, registered as the keeper of the vehicle at the time of the commission of the offence.
 
-(1ZA)[^key-94942f5ad8cea816ec9a8edbc6b64bdd] In the case of an offence to be prosecuted in England and Wales, a notice required by this section to be served on any person may be served on that person in accordance with Criminal Procedure Rules.
+(1ZA)[^c-94942f5ad8cea816ec9a8edbc6b64bdd] In the case of an offence to be prosecuted in England and Wales, a notice required by this section to be served on any person may be served on that person in accordance with Criminal Procedure Rules.
 
 (1ZB) For the purposes of subsection (1ZA)—
 
@@ -53,7 +53,7 @@ summary: ''
 
 [^c18157241]: Modification: S. 1: power to exclude or modify conferred (1.7.1992) by [Road Traffic Act 1988 (c. 52, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/52), [s. 193A(2)(b)](https://www.legislation.gov.uk/ukpga/1988/52/section/193A/2/b) (inserted (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 46(2)](https://www.legislation.gov.uk/ukpga/1991/40/section/46/2); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)).
 
-[^key-31343e00a2f71240331c04b50962e9dc]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1988/53/section/1) applied (31.3.2009) by [Road Safety (Immobilisation, Removal and Disposal of Vehicles) Regulations 2009 (S.I. 2009/493)](https://www.legislation.gov.uk/uksi/2009/493), [regs. 1](https://www.legislation.gov.uk/uksi/2009/493/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2009/493/regulation/19/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/493/regulation/3))
+[^c-31343e00a2f71240331c04b50962e9dc]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1988/53/section/1) applied (31.3.2009) by [Road Safety (Immobilisation, Removal and Disposal of Vehicles) Regulations 2009 (S.I. 2009/493)](https://www.legislation.gov.uk/uksi/2009/493), [regs. 1](https://www.legislation.gov.uk/uksi/2009/493/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2009/493/regulation/19/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/493/regulation/3))
 
 [^c18157231]: Modification: Ss. 1, 2 excluded by [Road Traffic Act 1988 (c. 52, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/52), [s. 193](https://www.legislation.gov.uk/ukpga/1988/52/section/193), [Sch. 4 paras. 8](https://www.legislation.gov.uk/ukpga/1988/52/schedule/4/paragraph/8), [11](https://www.legislation.gov.uk/ukpga/1988/52/schedule/4/paragraph/11)
 
@@ -61,6 +61,6 @@ summary: ''
 
 [^c18157261]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-94942f5ad8cea816ec9a8edbc6b64bdd]: Textual amendment: [S. 1(1ZA)-(1ZC)](https://www.legislation.gov.uk/ukpga/1988/53/section/1/1ZA) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/1/paragraph/11/2)
+[^c-94942f5ad8cea816ec9a8edbc6b64bdd]: Textual amendment: [S. 1(1ZA)-(1ZC)](https://www.legislation.gov.uk/ukpga/1988/53/section/1/1ZA) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/ukpga/2022/35/schedule/1/paragraph/11/2)
 
 [^c18157271]: Textual amendment: S. 1(1A) inserted (3.2.1995) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 168(1)](https://www.legislation.gov.uk/ukpga/1994/33/section/168/1), [Sch. 9 para. 6(3)](https://www.legislation.gov.uk/ukpga/1994/33/schedule/9/paragraph/6/3); [S.I. 1995/127](https://www.legislation.gov.uk/uksi/1995/127), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/127/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/127/schedule/1) Appendix A

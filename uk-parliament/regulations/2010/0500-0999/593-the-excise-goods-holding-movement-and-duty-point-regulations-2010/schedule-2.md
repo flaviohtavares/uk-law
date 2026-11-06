@@ -199,11 +199,11 @@ Amend the Denatured Alcohol Regulations 2005 [^c20165121] as follows.
 
 (2) In regulation 18 (importing and exporting denatured alcohol) for “the Excise Goods (Accompanying Documents) Regulations 2002” substitute “ the Excise Goods (Holding, Movement and Duty Point) Regulations 2010 ”.
 
-### 20. The Duty Stamps Regulations 2006[^key-88ce5104a785f5d83fd9bea01f9aa574]
+### 20. The Duty Stamps Regulations 2006[^c-88ce5104a785f5d83fd9bea01f9aa574]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-3db006d7229d57a1bfa1a85f9f7e7d51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-3db006d7229d57a1bfa1a85f9f7e7d51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 22. The Finance Act 2008
 
@@ -243,8 +243,8 @@ In paragraph 1 of Schedule 41 to the Finance Act 2008 [^c20165141] (penalties fo
 
 [^c20165121]: Marginal citation: [S.I. 2005/1524](https://www.legislation.gov.uk/uksi/2005/1524).
 
-[^key-88ce5104a785f5d83fd9bea01f9aa574]: Textual amendment: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2010/593/schedule/2/paragraph/20) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
+[^c-88ce5104a785f5d83fd9bea01f9aa574]: Textual amendment: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2010/593/schedule/2/paragraph/20) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
 
-[^key-3db006d7229d57a1bfa1a85f9f7e7d51]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2010/593/schedule/2/paragraph/21) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
+[^c-3db006d7229d57a1bfa1a85f9f7e7d51]: Textual amendment: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2010/593/schedule/2/paragraph/21) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
 
 [^c20165141]: Marginal citation: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9); [Schedule 41](https://www.legislation.gov.uk/uksi/2010/593/schedule/41) was amended by Part 2 of Schedule 57 to the [Finance Act 2009 (c.10)](https://www.legislation.gov.uk/ukpga/2009/10).

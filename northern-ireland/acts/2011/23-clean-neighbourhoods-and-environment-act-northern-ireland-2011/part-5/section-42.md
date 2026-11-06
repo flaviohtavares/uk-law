@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Land to which this Part applies[^key-1897ca0ce7dd29b21a3ff8c2590d50e7][^key-b9ecd30d14dd352d7a0c0b772b09c2fb]
+## 42. Land to which this Part applies[^c-1897ca0ce7dd29b21a3ff8c2590d50e7][^c-b9ecd30d14dd352d7a0c0b772b09c2fb]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1897ca0ce7dd29b21a3ff8c2590d50e7]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2011/23/section/42) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
+[^c-1897ca0ce7dd29b21a3ff8c2590d50e7]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2011/23/section/42) in operation at 18.1.2012 for specified purposes by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/13/article/2/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/13/schedule/1)
 
-[^key-b9ecd30d14dd352d7a0c0b772b09c2fb]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2011/23/section/42) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-b9ecd30d14dd352d7a0c0b772b09c2fb]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2011/23/section/42) in operation at 1.4.2012 in so far as not already in operation by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

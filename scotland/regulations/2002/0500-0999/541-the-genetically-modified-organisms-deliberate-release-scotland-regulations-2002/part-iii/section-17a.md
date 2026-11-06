@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17A. Transitional measures for adventitious or technically unavoidable presence of genetically modified material which has benefited from a favourable risk evaluation.[^key-8e7abdaae833f392d89b9f6b7af78b9d]
+## 17A. Transitional measures for adventitious or technically unavoidable presence of genetically modified material which has benefited from a favourable risk evaluation.[^c-8e7abdaae833f392d89b9f6b7af78b9d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e7abdaae833f392d89b9f6b7af78b9d]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/ssi/2002/541/regulation/17A) omitted (15.3.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [9(b)](https://www.legislation.gov.uk/ssi/2019/86/regulation/9/b)
+[^c-8e7abdaae833f392d89b9f6b7af78b9d]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/ssi/2002/541/regulation/17A) omitted (15.3.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [9(b)](https://www.legislation.gov.uk/ssi/2019/86/regulation/9/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Resolutions of creditors’ committees by post[^key-e76cbcc30a013f846a1e75bb947d87dd]
+## 81. Resolutions of creditors’ committees by post[^c-e76cbcc30a013f846a1e75bb947d87dd]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e76cbcc30a013f846a1e75bb947d87dd]: Commencement: [Rule 81](https://www.legislation.gov.uk/nisr/2026/11/rule/81) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-e76cbcc30a013f846a1e75bb947d87dd]: Commencement: [Rule 81](https://www.legislation.gov.uk/nisr/2026/11/rule/81) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

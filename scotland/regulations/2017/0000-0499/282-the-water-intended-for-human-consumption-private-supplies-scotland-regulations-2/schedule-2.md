@@ -22,14 +22,14 @@ summary: ''
 
 Regulation 3(1)
 
-### PART A — Microbiological parameters[^key-df23ee61588e9e1940cf7c51e4e9246c]
+### PART A — Microbiological parameters[^c-df23ee61588e9e1940cf7c51e4e9246c]
 
 | Parameter | Parametric value (number/volume) |
 | --- | --- |
 | Enterococci | 0/100 ml |
 | *Escherichia coli* | 0/100 ml |
 
-### PART B — Chemical parameters[^key-07958a356c59db28946d42a958a5831c]
+### PART B — Chemical parameters[^c-07958a356c59db28946d42a958a5831c]
 
 <table>
 <thead>
@@ -85,7 +85,7 @@ Regulation 3(1)
 | Note 10: The parametric value for this parameter is the sum of the concentrations of tetrachloroethene and trichloroethene. |
 | Note 11: The parametric value for this parameter is the sum of chloroform, bromoform, dibromochloromethane and bromodichloromethane. |
 
-### PART C — Indicator parameters[^key-70745aa7c78ddc08ce82a38b0eec8ca7]
+### PART C — Indicator parameters[^c-70745aa7c78ddc08ce82a38b0eec8ca7]
 
 | Parameter | Parametric value | Unit | Notes |
 | --- | --- | --- | --- |
@@ -133,10 +133,10 @@ Parametric values for radon, tritium and indicative dose—
 
 ## Annotations
 
-[^key-df23ee61588e9e1940cf7c51e4e9246c]: Commencement: [Sch. 2 Pt. A](https://www.legislation.gov.uk/ssi/2017/282/schedule/2/part/A) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-df23ee61588e9e1940cf7c51e4e9246c]: Commencement: [Sch. 2 Pt. A](https://www.legislation.gov.uk/ssi/2017/282/schedule/2/part/A) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-07958a356c59db28946d42a958a5831c]: Commencement: [Sch. 2 Pt. B](https://www.legislation.gov.uk/ssi/2017/282/schedule/2/part/B) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-07958a356c59db28946d42a958a5831c]: Commencement: [Sch. 2 Pt. B](https://www.legislation.gov.uk/ssi/2017/282/schedule/2/part/B) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
 [^f00023]: Footnote: OJ L 330, 5.12.1998, p.32, as amended by Regulation [(EC) No 1882/2003](https://www.legislation.gov.uk/european/regulation/2003/1882) of the European Parliament and of the Council (OJ L 284, 31.10.2003, p.1), Regulation [(EC) No 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council (OJ L 188, 18.7.2009, p.14), Commission Directive (EU) 2015/1787 (OJ L 260, 7.10.2015, p.6) and Corrigendum (OJ L 111, 20.4.2001, p.31).
 
-[^key-70745aa7c78ddc08ce82a38b0eec8ca7]: Commencement: [Sch. 2 Pt. C](https://www.legislation.gov.uk/ssi/2017/282/schedule/2/part/C) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-70745aa7c78ddc08ce82a38b0eec8ca7]: Commencement: [Sch. 2 Pt. C](https://www.legislation.gov.uk/ssi/2017/282/schedule/2/part/C) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

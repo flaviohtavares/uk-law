@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Seizure power[^key-6719e3e785059cc330a22aeb7ac03518][^key-50c9827a4eb1f4e1b05b143f32e8cdae]
+## 68. Seizure power[^c-6719e3e785059cc330a22aeb7ac03518][^c-50c9827a4eb1f4e1b05b143f32e8cdae]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6719e3e785059cc330a22aeb7ac03518]: Commencement: Reg. 68 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-6719e3e785059cc330a22aeb7ac03518]: Commencement: Reg. 68 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-50c9827a4eb1f4e1b05b143f32e8cdae]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2019/461/regulation/68) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-50c9827a4eb1f4e1b05b143f32e8cdae]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2019/461/regulation/68) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

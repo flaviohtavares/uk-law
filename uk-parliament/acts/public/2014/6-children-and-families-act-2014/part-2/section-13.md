@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Control of expert evidence, and of assessments, in children proceedings[^key-dd20dcf6a54f272a4f1831e4d2d4c84d]
+## 13. Control of expert evidence, and of assessments, in children proceedings[^c-dd20dcf6a54f272a4f1831e4d2d4c84d]
 
 *Extent: E+W*
 
@@ -90,4 +90,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd20dcf6a54f272a4f1831e4d2d4c84d]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/6/section/13) in force at 22.4.2014 by [S.I. 2014/793](https://www.legislation.gov.uk/uksi/2014/793), [art. 2](https://www.legislation.gov.uk/uksi/2014/793/article/2) (with transitional provisions in S.I. 2014/1042, arts. 5, 11)
+[^c-dd20dcf6a54f272a4f1831e4d2d4c84d]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/6/section/13) in force at 22.4.2014 by [S.I. 2014/793](https://www.legislation.gov.uk/uksi/2014/793), [art. 2](https://www.legislation.gov.uk/uksi/2014/793/article/2) (with transitional provisions in S.I. 2014/1042, arts. 5, 11)

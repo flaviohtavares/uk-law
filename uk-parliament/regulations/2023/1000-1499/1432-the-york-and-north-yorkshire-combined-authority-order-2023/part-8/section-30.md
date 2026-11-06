@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Conferral of Business Rate Supplements functions[^key-d6bf3fb434a7897f81eac9371151defc]
+## 30. Conferral of Business Rate Supplements functions[^c-d6bf3fb434a7897f81eac9371151defc]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6bf3fb434a7897f81eac9371151defc]: Commencement: Art. 30 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-d6bf3fb434a7897f81eac9371151defc]: Commencement: Art. 30 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

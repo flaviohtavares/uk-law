@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) An emergency drought order made on the application of the appropriate agency[^key-5f20d3c6a5d5803adb2a387ea41b9a81] may contain any of the provisions which could be included, by virtue of section 74(1) above, in an ordinary drought order made on the application of the appropriate agency.
+(1) An emergency drought order made on the application of the appropriate agency[^c-5f20d3c6a5d5803adb2a387ea41b9a81] may contain any of the provisions which could be included, by virtue of section 74(1) above, in an ordinary drought order made on the application of the appropriate agency.
 
 (2) An emergency drought order made on the application of a water undertaker may contain any of the following provisions, that is to say—
 
@@ -58,6 +58,6 @@ has effect shall expire before the end of the period of three months beginning w
 
 ## Annotations
 
-[^key-5f20d3c6a5d5803adb2a387ea41b9a81]: Textual amendment: Words in ss. 73-75 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(n)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/n) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5f20d3c6a5d5803adb2a387ea41b9a81]: Textual amendment: Words in ss. 73-75 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(n)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/n) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18731981]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).

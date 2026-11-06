@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Establishment of a well examination scheme[^key-98df97434cbf74f8976b2d5b2e8895a6]
+## 11. Establishment of a well examination scheme[^c-98df97434cbf74f8976b2d5b2e8895a6]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98df97434cbf74f8976b2d5b2e8895a6]: Commencement: Reg. 11 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-98df97434cbf74f8976b2d5b2e8895a6]: Commencement: Reg. 11 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

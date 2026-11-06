@@ -28,7 +28,7 @@ summary: ''
 >
 > (1) The appropriate regulator may by notice given to an authorised person treat as approved under section 59 a person who is the subject of an application under section 60.
 >
-> (2) The period during which a person may be so treated begins at such time on or after IP completion day[^key-09f81fe450b80dabff109eaad73b4cec] as the notice may specify and ends—
+> (2) The period during which a person may be so treated begins at such time on or after IP completion day[^c-09f81fe450b80dabff109eaad73b4cec] as the notice may specify and ends—
 >
 > - (a) after three years beginning with the day on which IP completion day occurs, or
 > - (b) if earlier—
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09f81fe450b80dabff109eaad73b4cec]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2018/1149/regulation/23) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(o)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/o)
+[^c-09f81fe450b80dabff109eaad73b4cec]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2018/1149/regulation/23) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(o)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/o)

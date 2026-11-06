@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 160. Determinations by the scheme manager[^key-c4ebcad5182b01be303fe1efa3dd73bc]
+## 160. Determinations by the scheme manager[^c-c4ebcad5182b01be303fe1efa3dd73bc]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4ebcad5182b01be303fe1efa3dd73bc]: Textual amendment: [Reg. 160](https://www.legislation.gov.uk/nisr/2015/78/regulation/160) omitted (1.4.2022) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/2/2)
+[^c-c4ebcad5182b01be303fe1efa3dd73bc]: Textual amendment: [Reg. 160](https://www.legislation.gov.uk/nisr/2015/78/regulation/160) omitted (1.4.2022) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/2/2)

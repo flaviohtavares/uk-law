@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Visitors[^key-aca50aab22e81aef903e6e97190a298a]
+## 16. Visitors[^c-aca50aab22e81aef903e6e97190a298a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 - (a) any place at which he regularly gives instruction in any subject; or
 - (b) any institution with which he has a significant connection.
 
-(5)[^key-a70e31eb553e614f10af4c1f0aa44874] A person is not to be prevented from being a visitor merely because he is a member of the Council, or any of its committees, but he may not be a visitor if he is employed by the Council.
+(5)[^c-a70e31eb553e614f10af4c1f0aa44874] A person is not to be prevented from being a visitor merely because he is a member of the Council, or any of its committees, but he may not be a visitor if he is employed by the Council.
 
 (6) Visitors are to be selected with due regard to the profession with which the education and training they are to report on is concerned and subject to paragraph (6A), at least one of the visitors must be registered in that part of the register which relates to that profession.
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aca50aab22e81aef903e6e97190a298a]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2002/253/article/16) in force at 1.8.2004 as notified in the London Gazette (Issue 57361, published 21.7.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-aca50aab22e81aef903e6e97190a298a]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2002/253/article/16) in force at 1.8.2004 as notified in the London Gazette (Issue 57361, published 21.7.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
 
-[^key-a70e31eb553e614f10af4c1f0aa44874]: Textual amendment: [Art. 16(5)-(6A)](https://www.legislation.gov.uk/uksi/2002/253/article/16/5) substituted for [art. 16(5)(6)](https://www.legislation.gov.uk/uksi/2002/253/article/16/5) (12.7.2018) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/838/article/1/2/b), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2018/838/schedule/1/paragraph/14)
+[^c-a70e31eb553e614f10af4c1f0aa44874]: Textual amendment: [Art. 16(5)-(6A)](https://www.legislation.gov.uk/uksi/2002/253/article/16/5) substituted for [art. 16(5)(6)](https://www.legislation.gov.uk/uksi/2002/253/article/16/5) (12.7.2018) by [The Nursing and Midwifery (Amendment) Order 2018 (S.I. 2018/838)](https://www.legislation.gov.uk/uksi/2018/838), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/838/article/1/2/b), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2018/838/schedule/1/paragraph/14)

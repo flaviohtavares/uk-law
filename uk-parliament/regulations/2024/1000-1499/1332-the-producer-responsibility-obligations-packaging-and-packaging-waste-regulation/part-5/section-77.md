@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Relevant authorities: costs of providing information[^key-e877615e4ca878894a7a77966934e57f]
+## 77. Relevant authorities: costs of providing information[^c-e877615e4ca878894a7a77966934e57f]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e877615e4ca878894a7a77966934e57f]: Commencement: Reg. 77 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-e877615e4ca878894a7a77966934e57f]: Commencement: Reg. 77 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 292. Electronic communications apparatus affected by order[^key-83a742e467d67e4ed6a3e81b892bac0f]
+## 292. Electronic communications apparatus affected by order[^c-83a742e467d67e4ed6a3e81b892bac0f]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83a742e467d67e4ed6a3e81b892bac0f]: Commencement: S. 292 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-83a742e467d67e4ed6a3e81b892bac0f]: Commencement: S. 292 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Earnings of self-employed earners[^key-878b474321040d6ac59fbfa04762dcd3]
+## 27. Earnings of self-employed earners[^c-878b474321040d6ac59fbfa04762dcd3]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-878b474321040d6ac59fbfa04762dcd3]: Commencement: Reg. 27 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-878b474321040d6ac59fbfa04762dcd3]: Commencement: Reg. 27 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
 
 [^f00071]: Footnote: See [S.R. & 0. (N.I.) 1964 No. 205](https://www.legislation.gov.uk/nisro/1964/205), Article 3 for change in style of Ministry of Labour and National Insurance to Ministry of Health and Social Services; [S.R. & O. (N.I.) 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504), Article 6 for transfer of functions from Ministry of Health and Social Services to Department of Manpower Services; [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846), Article 3 for renaming the Department of Manpower Services the Department of Economic Development; [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(1)(c) for establishing the Department of Higher and Further Education, Training and Employment and [2001 c. 15 (N.I.)](https://www.legislation.gov.uk/nia/2001/15), section 1(1) for renaming the Department of Higher and Further Education, Training and Employment the Department for Employment and Learning
 

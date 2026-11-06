@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Judges of First-tier Tribunal and Upper Tribunal[^key-e0313f4d2b310694e5534dc37d2deaa5]
+## 52. Judges of First-tier Tribunal and Upper Tribunal[^c-e0313f4d2b310694e5534dc37d2deaa5]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 5(1) of the Tribunals, Courts and Enforcement Act 2007 (judges and ot
 
 ## Annotations
 
-[^key-e0313f4d2b310694e5534dc37d2deaa5]: Commencement: S. 52 in force at Royal Assent, see [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/b)
+[^c-e0313f4d2b310694e5534dc37d2deaa5]: Commencement: S. 52 in force at Royal Assent, see [s. 68(3)(b)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/b)

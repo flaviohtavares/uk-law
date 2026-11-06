@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-48f598deac92661dd6125592f13650a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-48f598deac92661dd6125592f13650a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-dde4ea53a003f62fc616c1742042a825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-dde4ea53a003f62fc616c1742042a825] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-48f598deac92661dd6125592f13650a1]: Textual amendment: [S. 32(1)](https://www.legislation.gov.uk/ukpga/1989/42/section/32/1) repealed (E.W.) (22.5.2012) by [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), [s. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/b)[(c)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/c), [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/26), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/22/schedule/6); [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2](https://www.legislation.gov.uk/uksi/2012/1358/article/2)
+[^c-48f598deac92661dd6125592f13650a1]: Textual amendment: [S. 32(1)](https://www.legislation.gov.uk/ukpga/1989/42/section/32/1) repealed (E.W.) (22.5.2012) by [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), [s. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/b)[(c)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/c), [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/26), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/22/schedule/6); [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2](https://www.legislation.gov.uk/uksi/2012/1358/article/2)
 
-[^key-dde4ea53a003f62fc616c1742042a825]: Textual amendment: [S. 32(2)](https://www.legislation.gov.uk/ukpga/1989/42/section/32/2) repealed (S.) (1.5.2003) by [Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)](https://www.legislation.gov.uk/asp/2000/7), [s. 37(2)](https://www.legislation.gov.uk/asp/2000/7/section/37/2), [sch. 4](https://www.legislation.gov.uk/asp/2000/7/schedule/4) (with [s. 31](https://www.legislation.gov.uk/asp/2000/7/section/31)); [S.S.I. 2003/74](https://www.legislation.gov.uk/ssi/2003/74), [art. 2(2)(e)](https://www.legislation.gov.uk/ssi/2003/74/article/2/2/e)
+[^c-dde4ea53a003f62fc616c1742042a825]: Textual amendment: [S. 32(2)](https://www.legislation.gov.uk/ukpga/1989/42/section/32/2) repealed (S.) (1.5.2003) by [Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)](https://www.legislation.gov.uk/asp/2000/7), [s. 37(2)](https://www.legislation.gov.uk/asp/2000/7/section/37/2), [sch. 4](https://www.legislation.gov.uk/asp/2000/7/schedule/4) (with [s. 31](https://www.legislation.gov.uk/asp/2000/7/section/31)); [S.S.I. 2003/74](https://www.legislation.gov.uk/ssi/2003/74), [art. 2(2)(e)](https://www.legislation.gov.uk/ssi/2003/74/article/2/2/e)

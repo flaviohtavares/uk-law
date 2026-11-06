@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Revocation of regulation 43A[^key-de0495f9f636bd8fad4c21eae0d12713]
+## 19. Revocation of regulation 43A[^c-de0495f9f636bd8fad4c21eae0d12713]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Omit regulation 43A (requirement for wholesale dealers to decommission the uniqu
 
 ## Annotations
 
-[^key-de0495f9f636bd8fad4c21eae0d12713]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/832/regulation/19) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-de0495f9f636bd8fad4c21eae0d12713]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2024/832/regulation/19) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00026]: Footnote: Regulation 43A was inserted by [S.I. 2019/62](https://www.legislation.gov.uk/uksi/2019/62).

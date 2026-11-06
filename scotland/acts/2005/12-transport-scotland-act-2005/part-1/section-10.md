@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Other transport functions of regional Transport Partnerships[^key-e3e21aee55c5fe75940646d5875f7009]
+## 10. Other transport functions of regional Transport Partnerships[^c-e3e21aee55c5fe75940646d5875f7009]
 
 *Extent: S*
 
@@ -38,9 +38,9 @@ summary: ''
 
 (5) The following are examples of the functions which may be the subject of an order under this section—
 
-- (za)[^key-6ef2045a5ad1ff3fac5771fa9a05b2ab] providing services for the carriage of passengers by road using vehicles that require a PSV operator's licence to do so,
-- (a)[^key-50ec5fe2b62df6ded3c7c9189303b15c] making and implementing bus services improvement partnership plans,
-- (b) entering into franchising frameworks[^key-d955ead66e930adc71a61c9a5fb34bde];
+- (za)[^c-6ef2045a5ad1ff3fac5771fa9a05b2ab] providing services for the carriage of passengers by road using vehicles that require a PSV operator's licence to do so,
+- (a)[^c-50ec5fe2b62df6ded3c7c9189303b15c] making and implementing bus services improvement partnership plans,
+- (b) entering into franchising frameworks[^c-d955ead66e930adc71a61c9a5fb34bde];
 - (c) entering into ticketing arrangements and ticketing schemes;
 - (d) providing information about bus services;
 - (e) installing bus lanes;
@@ -65,10 +65,10 @@ summary: ''
 
 ## Annotations
 
-[^key-e3e21aee55c5fe75940646d5875f7009]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2005/12/section/10) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-e3e21aee55c5fe75940646d5875f7009]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2005/12/section/10) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
 
-[^key-6ef2045a5ad1ff3fac5771fa9a05b2ab]: Textual amendment: [S. 10(5)(za)](https://www.legislation.gov.uk/asp/2005/12/section/10/5/za) inserted (24.6.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 4(2)(a)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/4/2/a) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2022/204](https://www.legislation.gov.uk/ssi/2022/204), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2022/204/regulation/2/b)
+[^c-6ef2045a5ad1ff3fac5771fa9a05b2ab]: Textual amendment: [S. 10(5)(za)](https://www.legislation.gov.uk/asp/2005/12/section/10/5/za) inserted (24.6.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 4(2)(a)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/4/2/a) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2022/204](https://www.legislation.gov.uk/ssi/2022/204), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2022/204/regulation/2/b)
 
-[^key-50ec5fe2b62df6ded3c7c9189303b15c]: Textual amendment: [S. 10(5)(a)](https://www.legislation.gov.uk/asp/2005/12/section/10/5/a) substituted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 4(2)(b)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/4/2/b) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-50ec5fe2b62df6ded3c7c9189303b15c]: Textual amendment: [S. 10(5)(a)](https://www.legislation.gov.uk/asp/2005/12/section/10/5/a) substituted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 4(2)(b)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/4/2/b) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-d955ead66e930adc71a61c9a5fb34bde]: Textual amendment: Words in [s. 10(5)(b)](https://www.legislation.gov.uk/asp/2005/12/section/10/5/b) substituted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 4(2)(c)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/4/2/c) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-d955ead66e930adc71a61c9a5fb34bde]: Textual amendment: Words in [s. 10(5)(b)](https://www.legislation.gov.uk/asp/2005/12/section/10/5/b) substituted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [s. 130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2), [sch. para. 4(2)(c)](https://www.legislation.gov.uk/asp/2019/17/schedule/paragraph/4/2/c) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

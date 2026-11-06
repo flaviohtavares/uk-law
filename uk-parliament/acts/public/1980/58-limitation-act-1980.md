@@ -33,7 +33,7 @@ Limitation Act 1980
 
 An Act to consolidate the Limitation Acts 1939 to 1980.
 
-\[13th November 1980\][^c808949][^c808950][^c808951][^c808952][^c808953][^c1858003][^c1880267][^key-6793453ab8d86a43415477074a1b8355][^key-0832799d82d880e2c62cb64bce162a80][^key-52b660a56d6171a75b5ea79ec9a8f62e][^key-03fbc8ccec1c16ba203fb8e0399be80b][^key-98c9aa793a86093382ca75f2362e8062][^key-97b9e0ab782157ebb7092d71d7c71a19]
+\[13th November 1980\][^c808949][^c808950][^c808951][^c808952][^c808953][^c1858003][^c1880267][^c-6793453ab8d86a43415477074a1b8355][^c-0832799d82d880e2c62cb64bce162a80][^c-52b660a56d6171a75b5ea79ec9a8f62e][^c-03fbc8ccec1c16ba203fb8e0399be80b][^c-98c9aa793a86093382ca75f2362e8062][^c-97b9e0ab782157ebb7092d71d7c71a19]
 
 ## Part I — Ordinary Time Limits for Different Classes of Action
 
@@ -89,7 +89,7 @@ The time limit under section 2 of this Act shall not apply to an action for—
 
 but no such action shall be brought after the expiration of one year from the date on which the cause of action accrued.
 
-#### 4B. Special time limit for certain actions in respect of damage or defects in relation to buildings[^key-f8d062dd37d2b216d6f23b1a49af2430]
+#### 4B. Special time limit for certain actions in respect of damage or defects in relation to buildings[^c-f8d062dd37d2b216d6f23b1a49af2430]
 
 (1) Where by virtue of a relevant provision a person becomes entitled to bring an action against any other person, no action may be brought after the expiration of 15 years from the date on which the right of action accrued.
 
@@ -113,7 +113,7 @@ but no such action shall be brought after the expiration of one year from the da
 
 An action founded on simple contract shall not be brought after the expiration of six years from the date on which the cause of action accrued.
 
-#### 5A. Additional time limit for actions for damages for late payment of insurance claims[^key-84e9b419aeb556849812f61d68f62d09]
+#### 5A. Additional time limit for actions for damages for late payment of insurance claims[^c-84e9b419aeb556849812f61d68f62d09]
 
 (1) An action in respect of breach of the term implied into a contract of insurance by section 13A of the Insurance Act 2015 (late payment of claims) may not be brought after the expiration of one year from the date on which the insurer has paid all the sums referred to in subsection (1) of that section.
 
@@ -152,7 +152,7 @@ An action to enforce an award, where the submission is not by an instrument unde
 
 (1) An action to recover any sum recoverable by virtue of any enactment shall not be brought after the expiration of six years from the date on which the cause of action accrued.
 
-(2) Subsection (1) above shall not affect any action to which section 10 or 10A[^key-b7bf4a3f0b73c393d332a2a3293a24bb] of this Act applies.
+(2) Subsection (1) above shall not affect any action to which section 10 or 10A[^c-b7bf4a3f0b73c393d332a2a3293a24bb] of this Act applies.
 
 #### 10. Special time limit for claiming contribution.
 
@@ -171,15 +171,15 @@ For the purposes of this subsection no account shall be taken of any judgment or
 
 (4) If, in any case not within subsection (3) above, the person in question makes or agrees to make any payment to one or more persons in compensation for that damage (whether he admits any liability in respect of the damage or not), the relevant date shall be the earliest date on which the amount to be paid by him is agreed between him (or his representative) and the person (or each of the persons, as the case may be) to whom the payment is to be made.
 
-(5) An action to recover contribution shall be one to which sections 28, 32[^key-ad8f79f55fd35f0075c26f3de2afbc95]... and 35 of this Act apply, but otherwise Parts II and III of this Act (except sections 34, 37 and 38) shall not apply for the purposes of this section.
+(5) An action to recover contribution shall be one to which sections 28, 32[^c-ad8f79f55fd35f0075c26f3de2afbc95]... and 35 of this Act apply, but otherwise Parts II and III of this Act (except sections 34, 37 and 38) shall not apply for the purposes of this section.
 
-#### 10A. Special time limit for actions by insurers etc in respect of automated vehicles.[^key-4172c99f8b91037865adc30aca3d3f90]
+#### 10A. Special time limit for actions by insurers etc in respect of automated vehicles.[^c-4172c99f8b91037865adc30aca3d3f90]
 
 (1) Where by virtue of section 5 of the Automated and Electric Vehicles Act 2018 an insurer or vehicle owner becomes entitled to bring an action against any person, the action shall not be brought after the expiration of two years from the date on which the right of action accrued (under subsection (5) of that section).
 
 (2) An action referred to in subsection (1) shall be one to which sections 32, 33A and 35 of this Act apply, but otherwise Parts 2 and 3 of this Act (except sections 37 and 38) shall not apply for the purposes of this section.
 
-#### 10B. Special time limit for actions relating to construction products[^key-1e8d1b18e6cba05f41ad2338b913a7bf]
+#### 10B. Special time limit for actions relating to construction products[^c-1e8d1b18e6cba05f41ad2338b913a7bf]
 
 (1) An action under section 148 of the Building Safety Act 2022 shall not be brought after the expiration of 15 years from the date on which the right of action accrued.
 
@@ -201,7 +201,7 @@ subsection (2)(a) has effect as if it referred to the expiration of that year.
 
 (6) Sections 28, 32 and 35 of this Act apply in relation to an action referred to subsections (1) and (2), but otherwise Parts 2 and 3 of this Act (except sections 37 and 38) do not apply for the purposes of this section.
 
-### Actions in respect of wrongs causing personal injuries or death etc[^key-c62848a524162a32e6114026439a5b05]
+### Actions in respect of wrongs causing personal injuries or death etc[^c-c62848a524162a32e6114026439a5b05]
 
 #### 11. Special time limit for actions in respect of personal injuries.
 
@@ -229,7 +229,7 @@ whichever is the later.
 
 (7) If there is more than one personal representative, and their dates of knowledge are different, subsection (5)(b) above shall be read as referring to the earliest of those dates.
 
-#### 11ZA. Actions in respect of personal injuries attributable to child sexual abuse[^key-64721e9fb1000ba4120db424802d3062]
+#### 11ZA. Actions in respect of personal injuries attributable to child sexual abuse[^c-64721e9fb1000ba4120db424802d3062]
 
 (1) None of the time limits given in the preceding provisions of this Act apply to an action to which this section applies.
 
@@ -281,7 +281,7 @@ whichever is the later.
 
 (8) Expressions used in this section or section 14 of this Act and in Part I of the [^c808967]Consumer Protection Act 1987 have the same meanings in this section or that section as in that Part; and section 1(1) of that Act (Part I to be construed as enacted for the purpose of complying with the product liability Directive) shall apply for the purpose of construing this section and the following provisions of this Act so far as they relate to an action by virtue of any provision of that Part as it applies for the purpose of construing that Part.
 
-#### 11B. Actions against insurers etc of automated vehicles.[^key-7f3c1d4c2267be2079a06f3f80e9c6a0]
+#### 11B. Actions against insurers etc of automated vehicles.[^c-7f3c1d4c2267be2079a06f3f80e9c6a0]
 
 (1) None of the time limits given in the preceding provisions of this Act shall apply to an action for damages under section 2 of the Automated and Electric Vehicles Act 2018 (liability of insurer etc where accident caused by automated vehicle).
 
@@ -312,9 +312,9 @@ But this subsection does not affect the application of section 5A of this Act.
 
 (1) An action under the [^c808968]Fatal Accidents Act 1976 shall not be brought if the death occurred when the person injured could no longer maintain an action and recover damages in respect of the injury (whether because of a time limit in this Act or in any other Act, or for any other reason).
 
-Where any such action by the injured person would have been barred by the time limit in section 11 , 11A or 11B[^key-cba11f258f8c155a5343c7604b5a754f] of this Act, no account shall be taken of the possibility of that time limit being overridden under section 33 of this Act.
+Where any such action by the injured person would have been barred by the time limit in section 11 , 11A or 11B[^c-cba11f258f8c155a5343c7604b5a754f] of this Act, no account shall be taken of the possibility of that time limit being overridden under section 33 of this Act.
 
-(1A)[^key-724b930247723d0fb6381d9c5616d01c] An action under the Fatal Accidents Act 1976 may not be brought if—
+(1A)[^c-724b930247723d0fb6381d9c5616d01c] An action under the Fatal Accidents Act 1976 may not be brought if—
 
 - (a) section 11ZA would have applied to an action by the person injured to recover damages in respect of the injury, and
 - (b) the death occurred after the expiration of the time limit that would have applied but for that section (disregarding the possibility of that time limit being overridden under section 33).
@@ -326,7 +326,7 @@ Where any such action by the injured person would have been barred by the time l
 
 whichever is the later.
 
-(3) An action under the Fatal Accidents Act 1976 shall be one to which sections 28, 33 [^key-69b8db914c7e9a72ade04f658caf8bb4]... , 33B[^key-3761f90bdb84fa34c50d542ab4429bb6] and 35 of this Act apply, and the application to any such action of the time limit under subsection (2) above shall be subject to section 39; but otherwise Parts II and III of this Act shall not apply to any such action.
+(3) An action under the Fatal Accidents Act 1976 shall be one to which sections 28, 33 [^c-69b8db914c7e9a72ade04f658caf8bb4]... , 33B[^c-3761f90bdb84fa34c50d542ab4429bb6] and 35 of this Act apply, and the application to any such action of the time limit under subsection (2) above shall be subject to section 39; but otherwise Parts II and III of this Act shall not apply to any such action.
 
 #### 13. Operation of time limit under section 12 in relation to different dependants.
 
@@ -336,9 +336,9 @@ whichever is the later.
 
 (3) The court shall not give such a direction if it is shown that if the action were brought exclusively for the benefit of the person in question it would not be defeated by a defence of limitation (whether in consequence of section 28 of this Act or an agreement between the parties not to raise the defence, or otherwise).
 
-#### 14. Definition of date of knowledge for purposes of sections 11 to 12.[^key-4ca6d96d5e2097252d8de608ec356ad3]
+#### 14. Definition of date of knowledge for purposes of sections 11 to 12.[^c-4ca6d96d5e2097252d8de608ec356ad3]
 
-(1) Subject to[^c808970] subsections (1A) and (1B)[^key-1cbeb63f7d8b404127d56d6c4a169267] below, in sections 11 and 12 of this Act references to a person’s date of knowledge are references to the date on which he first had knowledge of the following facts—
+(1) Subject to[^c808970] subsections (1A) and (1B)[^c-1cbeb63f7d8b404127d56d6c4a169267] below, in sections 11 and 12 of this Act references to a person’s date of knowledge are references to the date on which he first had knowledge of the following facts—
 
 - (a) that the injury in question was significant; and
 - (b) that the injury was attributable in whole or in part to the act or omission which is alleged to constitute negligence, nuisance or breach of duty; and
@@ -355,7 +355,7 @@ and knowledge that any acts or omissions did or did not, as a matter of law, inv
 
 but, in determining the date on which a person first had such knowledge there shall be disregarded both the extent (if any) of that person’s knowledge on any date of whether particular facts or circumstances would or would not, as a matter of law, constitute a defect and, in a case relating to loss of or damage to property, any knowledge which that person had on a date on which he had no right of action by virtue of Part I of that Act in respect of the loss or damage.
 
-(1B)[^key-ec461a5e6e8f9d7ec1aa6b41cbaeb36c] In section 11B of this Act and in section 12 of this Act so far as that section applies to an action by virtue of section 6(1)(a) of the Automated and Electric Vehicles Act 2018 (“**the 2018 Act**”) (death caused by automated vehicle) references to a person's date of knowledge are references to the date on which he first had knowledge of the following facts—
+(1B)[^c-ec461a5e6e8f9d7ec1aa6b41cbaeb36c] In section 11B of this Act and in section 12 of this Act so far as that section applies to an action by virtue of section 6(1)(a) of the Automated and Electric Vehicles Act 2018 (“**the 2018 Act**”) (death caused by automated vehicle) references to a person's date of knowledge are references to the date on which he first had knowledge of the following facts—
 
 - (a) that the injury in question was significant; and
 - (b) that the injury was attributable in whole or in part to an accident caused by an automated vehicle when driving itself; and
@@ -413,7 +413,7 @@ but a person shall not be taken by virtue of this subsection to have knowledge o
 
 #### 14B. Overriding time limit for negligence actions not involving personal injuries.
 
-(1) An action for damages for negligence, other than one to which section 11 or 11ZA[^key-3240d98d4e09a58c4a723cff7d9b7969] of this Act applies, shall not be brought after the expiration of fifteen years from the date (or, if more than one, from the last of the dates) on which there occurred any act or omission—
+(1) An action for damages for negligence, other than one to which section 11 or 11ZA[^c-3240d98d4e09a58c4a723cff7d9b7969] of this Act applies, shall not be brought after the expiration of fifteen years from the date (or, if more than one, from the last of the dates) on which there occurred any act or omission—
 
 - (a) which is alleged to constitute negligence; and
 - (b) to which the damage in respect of which damages are claimed is alleged to be attributable (in whole or in part).
@@ -485,7 +485,7 @@ an action to recover the land may be brought by the statutory owner or trustees 
 
 #### 19. Time limit for actions to recover rent.
 
-No action shall be brought, and the power conferred by section 72(1) of the Tribunals, Courts and Enforcement Act 2007 shall not be exercisable[^key-2282f7f29ccc4c294c4353ef9f0095d1], to recover arrears of rent, or damages in respect of arrears of rent, after the expiration of six years from the date on which the arrears became due.
+No action shall be brought, and the power conferred by section 72(1) of the Tribunals, Courts and Enforcement Act 2007 shall not be exercisable[^c-2282f7f29ccc4c294c4353ef9f0095d1], to recover arrears of rent, or damages in respect of arrears of rent, after the expiration of six years from the date on which the arrears became due.
 
 ### Commonhold[^c808987]
 
@@ -605,7 +605,7 @@ For the purposes of the provisions of this Act relating to actions for the recov
 
 (1) None of the time limits given in the preceding provisions of this Act applies to any proceedings under Chapter 2 of Part 5 of the Proceeds of Crime Act 2002 (civil recovery of proceeds of unlawful conduct).
 
-(2) Proceedings under that Chapter for a recovery order in respect of any recoverable property shall not be brought after the expiration of the period of 20 years[^key-11b25854977e74bae02b2c341542119b] from the date on which the relevant person's[^c1950038] cause of action accrued.
+(2) Proceedings under that Chapter for a recovery order in respect of any recoverable property shall not be brought after the expiration of the period of 20 years[^c-11b25854977e74bae02b2c341542119b] from the date on which the relevant person's[^c1950038] cause of action accrued.
 
 (3) Proceedings under that Chapter are brought when—
 
@@ -620,7 +620,7 @@ whichever is the earliest[^c1893905].
 - (a) in the case of proceedings for a recovery order in respect of property obtained through unlawful conduct, when the property is so obtained,
 - (b) in the case of proceedings for a recovery order in respect of any other recoverable property, when the property obtained through unlawful conduct which it represents is so obtained.
 
-(4A)[^key-1b15967837da0e038aaf7c45b1c82c3c] Subsection (4) is subject to section 13(5) of the Criminal Finances Act 2017 (which provides that, in the case of property obtained through unlawful conduct relating to a gross human rights abuse or violation, proceedings cannot be brought after the end of the period of 20 years from the date on which the conduct constituting the commission of the abuse or violation occurs).
+(4A)[^c-1b15967837da0e038aaf7c45b1c82c3c] Subsection (4) is subject to section 13(5) of the Criminal Finances Act 2017 (which provides that, in the case of property obtained through unlawful conduct relating to a gross human rights abuse or violation, proceedings cannot be brought after the end of the period of 20 years from the date on which the conduct constituting the commission of the abuse or violation occurs).
 
 (5) If—
 
@@ -635,14 +635,14 @@ section 3(2) of this Act does not prevent his asserting on an application under 
 
 (8)[^c1950042] In this section “ **relevant person** ” means—
 
-- (a)[^key-b9b8b93449b38671c84745f953b96114] the National Crime Agency,
+- (a)[^c-b9b8b93449b38671c84745f953b96114] the National Crime Agency,
 - (b) the Director of Public Prosecutions,
-- (c)[^key-234c8cc49a543139e4742c677af74afd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-234c8cc49a543139e4742c677af74afd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the Director of the Serious Fraud Office.
-- (e)[^key-bcfc0e4d512110d0e780cc7b207ff4a6] Her Majesty’s Revenue and Customs, or
+- (e)[^c-bcfc0e4d512110d0e780cc7b207ff4a6] Her Majesty’s Revenue and Customs, or
 - (f) the Financial Conduct Authority.
 
-#### 27AB. Actions to prohibit dealing with property subject to an external request[^key-fbca58d48b862c0e247fe55e8812eac8]
+#### 27AB. Actions to prohibit dealing with property subject to an external request[^c-fbca58d48b862c0e247fe55e8812eac8]
 
 (1) None of the time limits given in the preceding provisions of this Act applies to any proceedings under Part 4A of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (giving effect to external request by means of civil proceedings).
 
@@ -661,14 +661,14 @@ section 3(2) of this Act does not prevent his asserting on an application under 
 
 - (a) the National Crime Agency,
 - (b) the Director of Public Prosecutions,
-- (c)[^key-7e0c6eb2ff0036cbbfbef59c59ae9015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7e0c6eb2ff0036cbbfbef59c59ae9015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the Director of the Serious Fraud Office.
 
 #### 27B. Actions for recovery of property for purposes of an external order[^c1893896]
 
 (1) None of the time limits given in the preceding provisions of this Act applies to any proceedings under Chapter 2 of Part 5 of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (civil proceedings for the realisation of property to give effect to an external order).
 
-(2) Proceedings under that Chapter for a recovery order in respect of any recoverable property shall not be brought after the expiration of the period of 20 years[^key-1af1acd906def788bb1756a147655ecd] from the date on which the relevant person's[^c2002173] cause of action accrued.
+(2) Proceedings under that Chapter for a recovery order in respect of any recoverable property shall not be brought after the expiration of the period of 20 years[^c-1af1acd906def788bb1756a147655ecd] from the date on which the relevant person's[^c2002173] cause of action accrued.
 
 (3) Proceedings under that Chapter are brought when—
 
@@ -678,7 +678,7 @@ section 3(2) of this Act does not prevent his asserting on an application under 
 
 whichever is earliest.
 
-(3A)[^key-9d35243ffbbed67bd72e1cdc205f5724] If, before an event mentioned in subsection (3) occurs, an application is made for a prohibition order under Part 4A of the Order, the proceedings under Chapter 2 of Part 5 of the Order are to be treated as having been brought when that application is made.
+(3A)[^c-9d35243ffbbed67bd72e1cdc205f5724] If, before an event mentioned in subsection (3) occurs, an application is made for a prohibition order under Part 4A of the Order, the proceedings under Chapter 2 of Part 5 of the Order are to be treated as having been brought when that application is made.
 
 (4) The relevant person's cause of action accrues in respect of any recoverable property—
 
@@ -700,12 +700,12 @@ whichever is earliest.
 
 (8)[^c2002179] In this section “ **relevant person** ” means—
 
-- (a)[^key-54a412d71ebb2d5bddf035d3515d94cb] the National Crime Agency,
+- (a)[^c-54a412d71ebb2d5bddf035d3515d94cb] the National Crime Agency,
 - (b) the Director of Public Prosecutions,
-- (c)[^key-03d054d3cf16d0f6b0dbe99e9548ee79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-03d054d3cf16d0f6b0dbe99e9548ee79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the Director of the Serious Fraud Office.
 
-#### 27C. Actions for exploitation proceeds orders[^key-9d2b693c13000ebce0f289ff5bf0af39]
+#### 27C. Actions for exploitation proceeds orders[^c-9d2b693c13000ebce0f289ff5bf0af39]
 
 (1) None of the time limits given in the preceding provisions of this Act applies to proceedings under Part 7 of the Coroners and Justice Act 2009 (criminal memoirs etc ) for an exploitation proceeds order.
 
@@ -717,7 +717,7 @@ whichever is earliest.
 
 (5) Expressions used in this section and that Part have the same meaning in this section as in that Part.
 
-#### 27D. Actions relating to the Northern Ireland Troubles[^key-0a321d7bcbc1d865b30886776343b8c8]
+#### 27D. Actions relating to the Northern Ireland Troubles[^c-0a321d7bcbc1d865b30886776343b8c8]
 
 This Act has effect subject to section 43 of the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023.
 
@@ -744,7 +744,7 @@ This Act has effect subject to section 43 of the Northern Ireland Troubles (Lega
 
 (5) If the action is one to which section 10 of this Act applies, subsection (1) above shall have effect as if for the words “six years” there were substituted the words “two years”.
 
-(6) If the action is one to which section 11 , 11B[^key-82f733a8e0a128875af2b4fd9d56bd87] or 12(2) of this Act applies, subsection (1) above shall have effect as if for the words “six years” there were substituted the words “three years”.
+(6) If the action is one to which section 11 , 11B[^c-82f733a8e0a128875af2b4fd9d56bd87] or 12(2) of this Act applies, subsection (1) above shall have effect as if for the words “six years” there were substituted the words “three years”.
 
 (7)[^c809001] If the action is one to which section 11A of this Act applies or one by virtue of section 6(1)(a) of the [^c809002] Consumer Protection Act 1987 (death caused by defective product), subsection (1) above—
 
@@ -827,7 +827,7 @@ and the person liable or accountable for the claim acknowledges the claim or mak
 
 #### 32. Postponement of limitation period in case of fraud, concealment or mistake.
 
-(1)[^c809004] Subject to subsection (3)[^c809005]subsections (3) , (4A) and (4B)[^key-c34258a0e5867e881377e82720759a3e] below, where in the case of any action for which a period of limitation is prescribed by this Act, either—
+(1)[^c809004] Subject to subsection (3)[^c809005]subsections (3) , (4A) and (4B)[^c-c34258a0e5867e881377e82720759a3e] below, where in the case of any action for which a period of limitation is prescribed by this Act, either—
 
 - (a) the action is based upon the fraud of the defendant; or
 - (b) any fact relevant to the plaintiff’s right of action has been deliberately concealed from him by the defendant; or
@@ -853,7 +853,7 @@ to be brought against the purchaser of the property or any person claiming throu
 
 (4A)[^c809007] Subsection (1) above shall not apply in relation to the time limit prescribed by section 11A(3) of this Act or in relation to that time limit as applied by virtue of section 12(1) of this Act.
 
-(4B)[^key-3a99fd041cd95e38ff29dc238c8dac62] Subsection (1) above shall not apply in relation to the time limit prescribed by section 11B(2) or (4) of this Act or in relation to that time limit as applied by virtue of section 12(1) of this Act.
+(4B)[^c-3a99fd041cd95e38ff29dc238c8dac62] Subsection (1) above shall not apply in relation to the time limit prescribed by section 11B(2) or (4) of this Act or in relation to that time limit as applied by virtue of section 12(1) of this Act.
 
 (5)[^c809008] Sections 14A and 14B of this Act shall not apply to any action to which subsection (1)(b) above applies (and accordingly the period of limitation referred to in that subsection, in any case to which either of those sections would otherwise apply, is the period applicable under section 2 of this Act).
 
@@ -891,12 +891,12 @@ the court may direct that that section shall not apply to the action or shall no
 
 (1) If it appears to the court that it would be equitable to allow an action to proceed having regard to the degree to which—
 
-- (a) the provisions of section 11 , 11A, 11B[^key-9933bcf9edd55e1aec00579d953a3208] or 12 of this Act prejudice the plaintiff or any person whom he represents; and
+- (a) the provisions of section 11 , 11A, 11B[^c-9933bcf9edd55e1aec00579d953a3208] or 12 of this Act prejudice the plaintiff or any person whom he represents; and
 - (b) any decision of the court under this subsection would prejudice the defendant or any person whom he represents;
 
 the court may direct that those provisions shall not apply to the action, or shall not apply to any specified cause of action to which the action relates.
 
-(1ZA)[^key-a1ffbadd77d63e63c3f55f993f221211] The court shall not under this section disapply any provision of section 11 in its application to an overseas armed forces action if the action was brought after the expiration of the period of six years from the section 11 relevant date (see subsection (7)).
+(1ZA)[^c-a1ffbadd77d63e63c3f55f993f221211] The court shall not under this section disapply any provision of section 11 in its application to an overseas armed forces action if the action was brought after the expiration of the period of six years from the section 11 relevant date (see subsection (7)).
 
 (1ZB) An “**overseas armed forces action**” means an action, or cause of action, which—
 
@@ -914,30 +914,30 @@ the court may direct that those provisions shall not apply to the action, or sha
 - (a) subsection (3) of section 11A; or
 - (b) where the damages claimed by the plaintiff are confined to damages for loss of or damage to any property, any other provision in its application to an action by virtue of Part I of the [^c809015] Consumer Protection Act 1987.
 
-(1B)[^key-b5b6311c513ec4be019c6cc46e9c1df2] Where the damages claimed are confined to damages for loss of or damage to any property, the court shall not under this section disapply any provision in its application to an action under section 2 of the Automated and Electric Vehicles Act 2018.
+(1B)[^c-b5b6311c513ec4be019c6cc46e9c1df2] Where the damages claimed are confined to damages for loss of or damage to any property, the court shall not under this section disapply any provision in its application to an action under section 2 of the Automated and Electric Vehicles Act 2018.
 
-(2) The court shall not under this section disapply section 12(1) except where the reason why the person injured could no longer maintain an action was because of the time limit in section 11 , 11A(4) or 11B(2) or (4)[^key-709ca64a4ba71f072e3c22ca3c11267f].
+(2) The court shall not under this section disapply section 12(1) except where the reason why the person injured could no longer maintain an action was because of the time limit in section 11 , 11A(4) or 11B(2) or (4)[^c-709ca64a4ba71f072e3c22ca3c11267f].
 
 If, for example, the person injured could at his death no longer maintain an action under the [^c809017]Fatal Accidents Act 1976 because of the time limit in Article 29 in Schedule 1 to the [^c809018]Carriage by Air Act 1961, the court has no power to direct that section 12(1) shall not apply.
 
-(2A)[^key-bf0c7ce3ad8f80f57f7317d7f432f473] But where the reason why the person injured could no longer maintain an action was because of the time limit in section 11, the court may disapply section 12(1) in its application to an overseas armed forces action only if the person died within the period of six years beginning with the section 11 relevant date (ignoring, for this purpose, the reference to section 11(5) in paragraph (a) of the definition of that term).
+(2A)[^c-bf0c7ce3ad8f80f57f7317d7f432f473] But where the reason why the person injured could no longer maintain an action was because of the time limit in section 11, the court may disapply section 12(1) in its application to an overseas armed forces action only if the person died within the period of six years beginning with the section 11 relevant date (ignoring, for this purpose, the reference to section 11(5) in paragraph (a) of the definition of that term).
 
 (2B) The court shall not under this section disapply section 12(2) in its application to an overseas armed forces action if the action was brought after the expiration of the period of six years from the section 12 relevant date (see subsection (7)).
 
 (3) In acting under this section the court shall have regard to all the circumstances of the case and in particular to—
 
 - (a) the length of, and the reasons for, the delay on the part of the plaintiff;
-- (b) the extent to which, having regard to the delay, the evidence adduced or likely to be adduced by the plaintiff or the defendant is or is likely to be less cogent than if the action had been brought within the time allowed by section 11 , by section 11A[^c809019] , by section 11B[^key-2f62384dbc1c92666157097ed1c38bdd] or (as the case may be) by section 12;
+- (b) the extent to which, having regard to the delay, the evidence adduced or likely to be adduced by the plaintiff or the defendant is or is likely to be less cogent than if the action had been brought within the time allowed by section 11 , by section 11A[^c809019] , by section 11B[^c-2f62384dbc1c92666157097ed1c38bdd] or (as the case may be) by section 12;
 - (c) the conduct of the defendant after the cause of action arose, including the extent (if any) to which he responded to requests reasonably made by the plaintiff for information or inspection for the purpose of ascertaining facts which were or might be relevant to the plaintiff’s cause of action against the defendant;
 - (d) the duration of any disability of the plaintiff arising after the date of the accrual of the cause of action;
 - (e) the extent to which the plaintiff acted promptly and reasonably once he knew whether or not the act or omission of the defendant, to which the injury was attributable, might be capable at that time of giving rise to an action for damages;
 - (f) the steps, if any, taken by the plaintiff to obtain medical, legal or other expert advice and the nature of any such advice he may have received.
 
-(4) In a case where the person injured died when, because of section 11 , 11A(4) or 11B(2) or (4)[^key-13256c1a4552084d6e0eae0ce734994b], he could no longer maintain an action and recover damages in respect of the injury, the court shall have regard in particular to the length of, and the reasons for, the delay on the part of the deceased.
+(4) In a case where the person injured died when, because of section 11 , 11A(4) or 11B(2) or (4)[^c-13256c1a4552084d6e0eae0ce734994b], he could no longer maintain an action and recover damages in respect of the injury, the court shall have regard in particular to the length of, and the reasons for, the delay on the part of the deceased.
 
 (5) In a case under subsection (4) above, or any other case where the time limit, or one of the time limits, depends on the date of knowledge of a person other than the plaintiff, subsection (3) above shall have effect with appropriate modifications, and shall have effect in particular as if references to the plaintiff included references to any person whose date of knowledge is or was relevant in determining a time limit.
 
-(5A)[^key-d5b6cf268f93085a0ff5bfb15b8ca8c7] In acting under this section in relation to an overseas armed forces action—
+(5A)[^c-d5b6cf268f93085a0ff5bfb15b8ca8c7] In acting under this section in relation to an overseas armed forces action—
 
 - (a) when considering the factor mentioned in subsection (3)(b), the court must have particular regard to—
   - (i) the likely impact of the operational context on the ability of members of Her Majesty's forces to remember relevant events or actions fully or accurately, and
@@ -948,12 +948,12 @@ If, for example, the person injured could at his death no longer maintain an act
 
 (6) A direction by the court disapplying the provisions of section 12(1) shall operate to disapply the provisions to the same effect in section 1(1) of the [^c809021]Fatal Accidents Act 1976.
 
-(6A)[^key-b0607f5fc8113a5933b78616d65ee9cb] In the application of subsection (1ZA), (2A) or (2B) to an overseas armed forces action in respect of which a limitation period has been suspended in accordance with section 1(1) of the Limitation (Enemies and War Prisoners) Act 1945, any reference to the period of six years is to be treated as a reference to the period of six years plus—
+(6A)[^c-b0607f5fc8113a5933b78616d65ee9cb] In the application of subsection (1ZA), (2A) or (2B) to an overseas armed forces action in respect of which a limitation period has been suspended in accordance with section 1(1) of the Limitation (Enemies and War Prisoners) Act 1945, any reference to the period of six years is to be treated as a reference to the period of six years plus—
 
 - (a) the period during which the limitation period was suspended, and
 - (b) any extra period after the suspension ended during which the action could have been brought only because of an extension provided for by section 1(1) of that Act.
 
-(7)[^key-5a9850d2fe6c96b53e8d42acb4fbc6f8] In this section—
+(7)[^c-5a9850d2fe6c96b53e8d42acb4fbc6f8] In this section—
 
 - “**the court**” means the court in which the action has been brought;
 - “**Her Majesty's forces**” has the same meaning as in the Armed Forces Act 2006 (see section 374 of that Act);
@@ -966,23 +966,23 @@ If, for example, the person injured could at his death no longer maintain an act
   - (a) the date from which the period of three years starts to run in accordance with section 12(2);
   - (b) where section 28 applies, the date from which the period of three years mentioned in subsection (1) of that section (as that subsection has effect with the modification made by subsection (6) of that section) starts to run.
 
-(8) References in this section —[^key-e6ab6b5fbbdc98154f1858bf8ed6307e]
+(8) References in this section —[^c-e6ab6b5fbbdc98154f1858bf8ed6307e]
 
 - (a) to the British Islands include the territorial sea adjacent to the United Kingdom and the territorial sea adjacent to any of the Channel Islands or the Isle of Man (and the reference to any of the British Islands is to be read accordingly);
 - (b) to a member of Her Majesty's forces, in relation to an overseas armed forces action, include an individual who was a member of Her Majesty's forces at the time of the events to which the action relates;
-- (c) to section 11 , 11A or 11B[^key-7eecedf3ad8b6905d1dd05a59428718e] include references to that section as extended by any of the provisions of this Part of this Act other than this section[^key-c2a71032d477822e0f24ca50bb074dec] or by any provision of Part III of this Act.
+- (c) to section 11 , 11A or 11B[^c-7eecedf3ad8b6905d1dd05a59428718e] include references to that section as extended by any of the provisions of this Part of this Act other than this section[^c-c2a71032d477822e0f24ca50bb074dec] or by any provision of Part III of this Act.
 
-### Mediation in certain cross-border disputes[^key-13336087a97e3f67d50931749477ffd2]
+### Mediation in certain cross-border disputes[^c-13336087a97e3f67d50931749477ffd2]
 
-#### 33A. Extension of time limits because of mediation in certain cross-border disputes[^key-fe075d206b5b8a0031f862cd09b9321a]
+#### 33A. Extension of time limits because of mediation in certain cross-border disputes[^c-fe075d206b5b8a0031f862cd09b9321a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Alternative Dispute Resolution in certain cross border or domestic contractual disputes[^key-00ba1fb39d1a65ed88d5890adbdbed56]
+### Alternative Dispute Resolution in certain cross border or domestic contractual disputes[^c-00ba1fb39d1a65ed88d5890adbdbed56]
 
-#### 33B. Extension of time limits because of alternative dispute resolution in certain consumer contract disputes[^key-d466ba94f31ebd2cfea08311cffc588b]
+#### 33B. Extension of time limits because of alternative dispute resolution in certain consumer contract disputes[^c-d466ba94f31ebd2cfea08311cffc588b]
 
-(1)[^key-be0c3998f2e51aebabcef139dc8b0094] In this section—
+(1)[^c-be0c3998f2e51aebabcef139dc8b0094] In this section—
 
 - “**ADR**” has the same meaning as in Chapter 4 of Part 4 of the Digital Markets, Competition and Consumers Act 2024;
 - “**ADR entity**” means a person who carries out ADR in compliance with section 293(1) of that Act (which prohibits persons from carrying out ADR unless exempt, accredited, or acting under special ADR arrangements, in accordance with Chapter 4 of Part 4 of that Act);
@@ -990,30 +990,30 @@ If, for example, the person injured could at his death no longer maintain an act
 
 (2) Subsection (3) applies where—
 
-- (a) a time limit under this Act relates to the subject of the whole or part of a consumer contract dispute[^key-479619b76a6fe6bae99f2ab6af7fbb3e];
-- (b) ADR[^key-717253dbc2da452071a6456f264ce666] in relation to the consumer contract dispute[^key-49b602dc14bbaf5f5b2ab11ebff3b322] starts before the time limit expires; and
-- (c) if not extended by this section, the time limit would expire before the ADR[^key-80d7c7e0aaa981a65b4b1becab73b43e] ends or less than eight weeks after it ends.
+- (a) a time limit under this Act relates to the subject of the whole or part of a consumer contract dispute[^c-479619b76a6fe6bae99f2ab6af7fbb3e];
+- (b) ADR[^c-717253dbc2da452071a6456f264ce666] in relation to the consumer contract dispute[^c-49b602dc14bbaf5f5b2ab11ebff3b322] starts before the time limit expires; and
+- (c) if not extended by this section, the time limit would expire before the ADR[^c-80d7c7e0aaa981a65b4b1becab73b43e] ends or less than eight weeks after it ends.
 
-(3) For the purposes of initiating judicial proceedings, the time limit expires instead at the end of eight weeks after the ADR[^key-69dfeeb61650bfca05ea9b5daa8a9c62] ends (subject to subsection (4)).
+(3) For the purposes of initiating judicial proceedings, the time limit expires instead at the end of eight weeks after the ADR[^c-69dfeeb61650bfca05ea9b5daa8a9c62] ends (subject to subsection (4)).
 
 (4) If a time limit has been extended by this section, subsections (2) and (3) apply to the extended time limit as they apply to a time limit mentioned in subsection (2)(a).
 
-(5) Where more than one time limit applies in relation to a consumer contract dispute[^key-cc08f6c4b0174efccfc076c7a4cbfb68], the extension by subsection (3) of one of those time limits does not affect the others.
+(5) Where more than one time limit applies in relation to a consumer contract dispute[^c-cc08f6c4b0174efccfc076c7a4cbfb68], the extension by subsection (3) of one of those time limits does not affect the others.
 
-(6) For the purposes of this section, ADR[^key-b45fd719e569cfed187a5d2af99e20e7] starts in relation to a consumer contract dispute[^key-2d49c20d107453be51a5d5203fe310e6] on the date when the dispute is first sent or otherwise communicated to the ADR entity in accordance with the entity’s rules regarding the submission of complaints.
+(6) For the purposes of this section, ADR[^c-b45fd719e569cfed187a5d2af99e20e7] starts in relation to a consumer contract dispute[^c-2d49c20d107453be51a5d5203fe310e6] on the date when the dispute is first sent or otherwise communicated to the ADR entity in accordance with the entity’s rules regarding the submission of complaints.
 
-(7) For the purposes of this section, the ADR[^key-c919df77538df05a3561974964c35b4e] ends on the date of the first of these to occur—
+(7) For the purposes of this section, the ADR[^c-c919df77538df05a3561974964c35b4e] ends on the date of the first of these to occur—
 
-- (a) the parties reach an agreement in resolution of the consumer contract dispute[^key-63f6406c07af14850af4b54433b04fac];
+- (a) the parties reach an agreement in resolution of the consumer contract dispute[^c-63f6406c07af14850af4b54433b04fac];
 - (b) a party completes the notification of the other parties that it has withdrawn from the ADR;
 - (c) a party to whom a qualifying request is made fails to give a response reaching the other parties within 14 days of the request;
 - (d) the ADR entity notifies the party that submitted the consumer contract dispute to the ADR entity that, in accordance with its policy, the ADR entity refuses to deal with the consumer contract dispute;
 - (e) after the parties are notified that the ADR entity can no longer act in relation to the consumer contract dispute (for whatever reason), the parties fail to agree within 14 days to submit the dispute to an alternative ADR entity;
 - (f) the ADR otherwise comes to an end pursuant to the rules of the ADR entity.
 
-(8) For the purpose of subsection (7), a qualifying request is a request by a party that another (A) confirm to all parties that A is continuing with the ADR[^key-b5e5ee31292b68ad36c076b7222d8454].
+(8) For the purpose of subsection (7), a qualifying request is a request by a party that another (A) confirm to all parties that A is continuing with the ADR[^c-b5e5ee31292b68ad36c076b7222d8454].
 
-(9) In the case of any consumer contract dispute[^key-18c9adce91a4f98e81db4b5cc7ec5273], references in this section to ADR[^key-d5fafa4caa0821b48f245ea9ec7ccb99] are references to the ADR[^key-55c696551e238eb779e0e53086af7d82] so far as it relates to that dispute, and references to a party are to be read accordingly.
+(9) In the case of any consumer contract dispute[^c-18c9adce91a4f98e81db4b5cc7ec5273], references in this section to ADR[^c-d5fafa4caa0821b48f245ea9ec7ccb99] are references to the ADR[^c-55c696551e238eb779e0e53086af7d82] so far as it relates to that dispute, and references to a party are to be read accordingly.
 
 ## Part III — Miscellaneous and General
 
@@ -1021,7 +1021,7 @@ If, for example, the person injured could at his death no longer maintain an act
 
 ### 34. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c809028]
 
-### 35. New claims in pending actions: rules of court.[^c809029][^key-11366d54dc3b479ab97b5ee96abc1705][^key-8bb7592c01d11cc1fc6d5b44b7690464]
+### 35. New claims in pending actions: rules of court.[^c809029][^c-11366d54dc3b479ab97b5ee96abc1705][^c-8bb7592c01d11cc1fc6d5b44b7690464]
 
 (1) For the purposes of this Act, any new claim made in the course of any action shall be deemed to be a separate action and to have been commenced—
 
@@ -1035,7 +1035,7 @@ If, for example, the person injured could at his death no longer maintain an act
 
 and “**third party proceedings**” means any proceedings brought in the course of any action by any party to the action against a person not previously a party to the action, other than proceedings brought by joining any such person as defendant to any claim already made in the original action by the party bringing the proceedings.
 
-(3) Except as provided by section 33 of this Act or by rules of court, neither the High Court nor the county[^key-c44b0399a381a691d24b378b02f3d58d] court shall allow a new claim within subsection (1)(b) above, other than an original set-off or counterclaim, to be made in the course of any action after the expiry of any time limit under this Act which would affect a new action to enforce that claim.
+(3) Except as provided by section 33 of this Act or by rules of court, neither the High Court nor the county[^c-c44b0399a381a691d24b378b02f3d58d] court shall allow a new claim within subsection (1)(b) above, other than an original set-off or counterclaim, to be made in the course of any action after the expiry of any time limit under this Act which would affect a new action to enforce that claim.
 
 For the purposes of this subsection, a claim is an original set-off or an original counterclaim if it is a claim made by way of set-off or (as the case may be) by way of counterclaim by a party who has not previously made any claim in the action.
 
@@ -1059,7 +1059,7 @@ This subsection shall not be taken as prejudicing the power of rules of court to
 
 (9)[^c809030] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Equitable jurisdiction and remedies.[^key-e23bed2610ecc47d60faf7c4ef76ab9a]
+### 36. Equitable jurisdiction and remedies.[^c-e23bed2610ecc47d60faf7c4ef76ab9a]
 
 (1) The following time limits under this Act, that is to say—
 
@@ -1103,7 +1103,7 @@ In this subsection “**duty**” includes any debt due to Her Majesty under sec
 
 (1) In this Act, unless the context otherwise requires—
 
-- “**action**” includes any proceeding in a court of law, including an ecclesiastical court (and see subsection (11) below)[^key-0b5bdc3ec8332256f11492ac6a1397bc];
+- “**action**” includes any proceeding in a court of law, including an ecclesiastical court (and see subsection (11) below)[^c-0b5bdc3ec8332256f11492ac6a1397bc];
 - “**land**” includes corporeal hereditaments, tithes and rent-charges and any legal or equitable estate or interest therein [^c809058]... but except as provided above in this definition does not include any incorporeal hereditament;
 - “**personal estate**” and “**personal property**” do not include chattels real;
 - “**personal injuries**” includes any disease and any impairment of a person’s physical or mental condition, and “injury” and cognate expressions shall be construed accordingly;
@@ -1123,7 +1123,7 @@ In this subsection “**duty**” includes any debt due to Her Majesty under sec
 
 (6) A person becoming entitled to any estate or interest by virtue of a special power of appointment shall not be treated as claiming through the appointor.
 
-(7) References in this Act to a right of action to recover land shall include references to a right to enter into possession of the land or, in the case of [^key-9e89125b2aaff8c11aa9cf10c7c325f8]... tithes, to distrain for arrears of [^key-9e89125b2aaff8c11aa9cf10c7c325f8]... tithe, and references to the bringing of such an action shall include references to the making of such an entry or distress.
+(7) References in this Act to a right of action to recover land shall include references to a right to enter into possession of the land or, in the case of [^c-9e89125b2aaff8c11aa9cf10c7c325f8]... tithes, to distrain for arrears of [^c-9e89125b2aaff8c11aa9cf10c7c325f8]... tithe, and references to the bringing of such an action shall include references to the making of such an entry or distress.
 
 (8) References in this Act to the possession of land shall, in the case of tithes and rentcharges, be construed as references to the receipt of the tithe or rent, and references to the date of dispossession or discontinuance of possession of land shall, in the case of rent charges, be construed as references to the date of the last receipt of rent.
 
@@ -1137,13 +1137,13 @@ In this subsection “**duty**” includes any debt due to Her Majesty under sec
 (10) References in Part II to the date of the accrual of a right of action shall be construed—
 
 - (a) in the case of an action upon a judgment, as references to the date on which the judgment became enforceable; and
-- (b) in the case of an action to recover arrears of [^key-9e89125b2aaff8c11aa9cf10c7c325f8]... interest, or damages in respect of arrears of [^key-9e89125b2aaff8c11aa9cf10c7c325f8]... interest, as references to the date on which the [^key-9e89125b2aaff8c11aa9cf10c7c325f8]... interest became due.
+- (b) in the case of an action to recover arrears of [^c-9e89125b2aaff8c11aa9cf10c7c325f8]... interest, or damages in respect of arrears of [^c-9e89125b2aaff8c11aa9cf10c7c325f8]... interest, as references to the date on which the [^c-9e89125b2aaff8c11aa9cf10c7c325f8]... interest became due.
 
-(11)[^key-75827f46c93eadc75932cf6d1a0eb085] References in this Act to an action do not include any method of recovery of a sum recoverable under—
+(11)[^c-75827f46c93eadc75932cf6d1a0eb085] References in this Act to an action do not include any method of recovery of a sum recoverable under—
 
-- (a) Part 3 of the Social Security Administration Act 1992, including as amended by the Public Authorities (Fraud, Error and Recovery) Act 2025,[^key-6ed7e0e8b3b000937f79d0395cd2c255]
-- (b) section 127(c) of the Social Security Contributions and Benefits Act 1992, [^key-539b04d181b77c9bb1effdab30b13a1c]...
-- (c) Part 1 of the Tax Credits Act 2002, or[^key-f51548b2f28dbde5c67486268a04f28a]
+- (a) Part 3 of the Social Security Administration Act 1992, including as amended by the Public Authorities (Fraud, Error and Recovery) Act 2025,[^c-6ed7e0e8b3b000937f79d0395cd2c255]
+- (b) section 127(c) of the Social Security Contributions and Benefits Act 1992, [^c-539b04d181b77c9bb1effdab30b13a1c]...
+- (c) Part 1 of the Tax Credits Act 2002, or[^c-f51548b2f28dbde5c67486268a04f28a]
 - (d) Part 1 of the Public Authorities (Fraud, Error and Recovery) Act 2025,
 
 other than a proceeding in a court of law.
@@ -1419,49 +1419,49 @@ Section 40(3).
 
 [^c1880267]: Modification: Act: for the words "Supreme Court Act 1981" wherever they occur there is substituted (prosp.) the words "Senior Courts Act 1981" by virtue of [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2) \[Editorial Note: this amendment will be carried through into the text of the Act at the same time as any other effects on the Act for the year in which the relevant commencement order (or first such order) is made\]
 
-[^key-6793453ab8d86a43415477074a1b8355]: Modification: Act modified (1.10.2010) by [The Building Regulations 2010 (S.I. 2010/2214)](https://www.legislation.gov.uk/uksi/2010/2214), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2214/regulation/1), [32(3)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/32/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2010/2214/regulation/9))
+[^c-6793453ab8d86a43415477074a1b8355]: Modification: Act modified (1.10.2010) by [The Building Regulations 2010 (S.I. 2010/2214)](https://www.legislation.gov.uk/uksi/2010/2214), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2214/regulation/1), [32(3)](https://www.legislation.gov.uk/uksi/2010/2214/regulation/32/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2010/2214/regulation/9))
 
-[^key-0832799d82d880e2c62cb64bce162a80]: Modification: Act applied (with modifications) by [S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277), [s. 27K(5)](https://www.legislation.gov.uk/uksi/2008/1277/section/27K/5) (as inserted (1.10.2014) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2014/870/regulation/3))
+[^c-0832799d82d880e2c62cb64bce162a80]: Modification: Act applied (with modifications) by [S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277), [s. 27K(5)](https://www.legislation.gov.uk/uksi/2008/1277/section/27K/5) (as inserted (1.10.2014) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2014/870/regulation/3))
 
-[^key-52b660a56d6171a75b5ea79ec9a8f62e]: Modification: Act applied (with modifications) by [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41), [s. 47E(2)(a)](https://www.legislation.gov.uk/ukpga/1998/41/section/47E/2/a) (as inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 8(1)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/8/1) (with [Sch. para. 8(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/paragraph/8/2)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j))
+[^c-52b660a56d6171a75b5ea79ec9a8f62e]: Modification: Act applied (with modifications) by [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41), [s. 47E(2)(a)](https://www.legislation.gov.uk/ukpga/1998/41/section/47E/2/a) (as inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 8 para. 8(1)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/8/1) (with [Sch. para. 8(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/paragraph/8/2)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j))
 
-[^key-03fbc8ccec1c16ba203fb8e0399be80b]: Modification: Act applied (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [ss. 46(8)](https://www.legislation.gov.uk/ukpga/2015/15/section/46/8), [100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-03fbc8ccec1c16ba203fb8e0399be80b]: Modification: Act applied (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [ss. 46(8)](https://www.legislation.gov.uk/ukpga/2015/15/section/46/8), [100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-98c9aa793a86093382ca75f2362e8062]: Modification: Act modified by [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52), [s. 12E](https://www.legislation.gov.uk/ukpga/1988/52/section/12E) (as inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/73/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a))
+[^c-98c9aa793a86093382ca75f2362e8062]: Modification: Act modified by [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52), [s. 12E](https://www.legislation.gov.uk/ukpga/1988/52/section/12E) (as inserted (10.3.2017) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/73/3), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2017/273](https://www.legislation.gov.uk/uksi/2017/273), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/273/article/2/a))
 
-[^key-97b9e0ab782157ebb7092d71d7c71a19]: Modification: Act modified (30.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 125(5)](https://www.legislation.gov.uk/ukpga/2021/30/section/125/5), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 19](https://www.legislation.gov.uk/ukpga/2021/30/schedule/19)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-97b9e0ab782157ebb7092d71d7c71a19]: Modification: Act modified (30.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 125(5)](https://www.legislation.gov.uk/ukpga/2021/30/section/125/5), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 19](https://www.legislation.gov.uk/ukpga/2021/30/schedule/19)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
 
 [^c1857937]: Textual amendment: S. 4(5)(b) substituted (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/14/1), [15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/18) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2006/35/schedule/2/paragraph/8)); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
 
 [^c808956]: Textual amendment: S. 4A (which was inserted by [1985 c. 61](https://www.legislation.gov.uk/ukpga/1985/61), [ss. 57(2)](https://www.legislation.gov.uk/ukpga/1985/61/section/57/2), [69(5)](https://www.legislation.gov.uk/ukpga/1985/61/section/69/5), [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/1985/61/schedule/9/paragraph/14)) substituted (4.9.1996) by [1996 c. 31](https://www.legislation.gov.uk/ukpga/1996/31), [ss. 5(2)(6)](https://www.legislation.gov.uk/ukpga/1996/31/section/5/2/6), [19](https://www.legislation.gov.uk/ukpga/1996/31/section/19) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/1996/31/section/20/2))
 
-[^key-f8d062dd37d2b216d6f23b1a49af2430]: Textual amendment: [S. 4B](https://www.legislation.gov.uk/ukpga/1980/58/section/4B) inserted (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 135(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/1), [170(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3) (with [s. 135(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/3)[(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/4)[(6)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/6))
+[^c-f8d062dd37d2b216d6f23b1a49af2430]: Textual amendment: [S. 4B](https://www.legislation.gov.uk/ukpga/1980/58/section/4B) inserted (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 135(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/1), [170(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3) (with [s. 135(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/3)[(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/4)[(6)](https://www.legislation.gov.uk/ukpga/2022/30/section/135/6))
 
 [^c808957]: Modification: S. 5 extended (11.11.1999 with effect as mentioned in [s. 10(2)(3)](https://www.legislation.gov.uk/ukpga/1999/31/section/10/2/3) of the amending Act) by [1999 c. 31](https://www.legislation.gov.uk/ukpga/1999/31), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/1999/31/section/7/3), [10(2)(3)](https://www.legislation.gov.uk/ukpga/1999/31/section/10/2/3)
 
-[^key-84e9b419aeb556849812f61d68f62d09]: Textual amendment: S. 5A inserted (4.5.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 30](https://www.legislation.gov.uk/ukpga/2016/12/section/30), [44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3) (with [s. 44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3))
+[^c-84e9b419aeb556849812f61d68f62d09]: Textual amendment: S. 5A inserted (4.5.2017) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 30](https://www.legislation.gov.uk/ukpga/2016/12/section/30), [44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3) (with [s. 44(3)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/3))
 
 [^c808958]: Marginal citation: [1882 c. 61](https://www.legislation.gov.uk/ukpga/1882/61)**(13)**
 
 [^c808959]: Modification: S. 8 extended (11.11.1999 with effect as mentioned in [s. 10(2)(3)](https://www.legislation.gov.uk/ukpga/1999/31/section/10/2/3) of the amending Act) by [1999 c. 31](https://www.legislation.gov.uk/ukpga/1999/31), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/1999/31/section/7/3), [10(2)(3)](https://www.legislation.gov.uk/ukpga/1999/31/section/10/2/3)
 
-[^key-b7bf4a3f0b73c393d332a2a3293a24bb]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/1980/58/section/9/2) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/8); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-b7bf4a3f0b73c393d332a2a3293a24bb]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/1980/58/section/9/2) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/8); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
 [^c808960]: Marginal citation: [1978 c. 47](https://www.legislation.gov.uk/ukpga/1978/47)**(122:3)**
 
-[^key-ad8f79f55fd35f0075c26f3de2afbc95]: Textual amendment: Word in s. 10(5) omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/7/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), regs. 1(1), 4(5)(6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
+[^c-ad8f79f55fd35f0075c26f3de2afbc95]: Textual amendment: Word in s. 10(5) omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/7/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), regs. 1(1), 4(5)(6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
 
-[^key-4172c99f8b91037865adc30aca3d3f90]: Textual amendment: S. 10A inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/9); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-4172c99f8b91037865adc30aca3d3f90]: Textual amendment: S. 10A inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/9); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-1e8d1b18e6cba05f41ad2338b913a7bf]: Textual amendment: [S. 10B](https://www.legislation.gov.uk/ukpga/1980/58/section/10B) inserted (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 150](https://www.legislation.gov.uk/ukpga/2022/30/section/150), [170(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3)
+[^c-1e8d1b18e6cba05f41ad2338b913a7bf]: Textual amendment: [S. 10B](https://www.legislation.gov.uk/ukpga/1980/58/section/10B) inserted (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 150](https://www.legislation.gov.uk/ukpga/2022/30/section/150), [170(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3)
 
-[^key-c62848a524162a32e6114026439a5b05]: Textual amendment: Word in s. 11 cross-heading inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/10); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-c62848a524162a32e6114026439a5b05]: Textual amendment: Word in s. 11 cross-heading inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/10); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
 [^c808962]: Textual amendment: S. 11(1A) inserted (16.6.1997) by [1997 c. 40](https://www.legislation.gov.uk/ukpga/1997/40), [s.6](https://www.legislation.gov.uk/ukpga/1997/40/section/6); [S.I. 1997/1498](https://www.legislation.gov.uk/uksi/1997/1498), [art.2](https://www.legislation.gov.uk/uksi/1997/1498/article/2)
 
 [^c808963]: Marginal citation: [1934 c. 41](https://www.legislation.gov.uk/ukpga/1934/41)**(122:3)**
 
-[^key-64721e9fb1000ba4120db424802d3062]: Textual amendment: [Ss. 11ZA](https://www.legislation.gov.uk/ukpga/1980/58/section/11ZA), [11ZB](https://www.legislation.gov.uk/ukpga/1980/58/section/11ZB) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/96/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/b)
+[^c-64721e9fb1000ba4120db424802d3062]: Textual amendment: [Ss. 11ZA](https://www.legislation.gov.uk/ukpga/1980/58/section/11ZA), [11ZB](https://www.legislation.gov.uk/ukpga/1980/58/section/11ZB) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 96(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/96/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/b)
 
 [^c808964]: Textual amendment: S. 11A inserted (1.3.1988) by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/1)
 
@@ -1471,31 +1471,31 @@ Section 40(3).
 
 [^c808967]: Marginal citation: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43)**(109:1)**
 
-[^key-7f3c1d4c2267be2079a06f3f80e9c6a0]: Textual amendment: S. 11B inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/11); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-7f3c1d4c2267be2079a06f3f80e9c6a0]: Textual amendment: S. 11B inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/11); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
 [^c808968]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30)**(122:3)**
 
-[^key-cba11f258f8c155a5343c7604b5a754f]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/12/1) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/12); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-cba11f258f8c155a5343c7604b5a754f]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/12/1) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/12); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-724b930247723d0fb6381d9c5616d01c]: Textual amendment: [S. 12(1A)](https://www.legislation.gov.uk/ukpga/1980/58/section/12/1A) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 96(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/96/3), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/b)
+[^c-724b930247723d0fb6381d9c5616d01c]: Textual amendment: [S. 12(1A)](https://www.legislation.gov.uk/ukpga/1980/58/section/12/1A) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 96(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/96/3), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/b)
 
-[^key-69b8db914c7e9a72ade04f658caf8bb4]: Textual amendment: Word in [s. 12(3)](https://www.legislation.gov.uk/ukpga/1980/58/section/12/3) omitted (31.12.2020) by virtue of The Cross-[Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/7/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-69b8db914c7e9a72ade04f658caf8bb4]: Textual amendment: Word in [s. 12(3)](https://www.legislation.gov.uk/ukpga/1980/58/section/12/3) omitted (31.12.2020) by virtue of The Cross-[Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/7/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3761f90bdb84fa34c50d542ab4429bb6]: Textual amendment: Words in s. 12(3) inserted (9.7.2015) by [The Alternative Dispute Resolution for Consumer Disputes (Amendment) Regulations 2015 (S.I. 2015/1392)](https://www.legislation.gov.uk/uksi/2015/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/4/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/3))
+[^c-3761f90bdb84fa34c50d542ab4429bb6]: Textual amendment: Words in s. 12(3) inserted (9.7.2015) by [The Alternative Dispute Resolution for Consumer Disputes (Amendment) Regulations 2015 (S.I. 2015/1392)](https://www.legislation.gov.uk/uksi/2015/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/4/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/3))
 
-[^key-4ca6d96d5e2097252d8de608ec356ad3]: Textual amendment: Words in s. 14 heading substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 13(2)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/13/2); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-4ca6d96d5e2097252d8de608ec356ad3]: Textual amendment: Words in s. 14 heading substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 13(2)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/13/2); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
 [^c808970]: Textual amendment: Words inserted (1.3.1988) by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/3)
 
-[^key-1cbeb63f7d8b404127d56d6c4a169267]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/14/1) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 13(3)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/13/3); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-1cbeb63f7d8b404127d56d6c4a169267]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/14/1) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 13(3)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/13/3); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
 [^c808971]: Textual amendment: S. 14(1A) inserted (1.3.1988) by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/3)
 
-[^key-ec461a5e6e8f9d7ec1aa6b41cbaeb36c]: Textual amendment: [S. 14(1B)](https://www.legislation.gov.uk/ukpga/1980/58/section/14/1B) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 13(4)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/13/4); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-ec461a5e6e8f9d7ec1aa6b41cbaeb36c]: Textual amendment: [S. 14(1B)](https://www.legislation.gov.uk/ukpga/1980/58/section/14/1B) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 13(4)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/13/4); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
 [^c808972]: Textual amendment: Ss. 14A, 14B inserted with saving by [Latent Damage Act 1986 (c. 37, SIF 79)](https://www.legislation.gov.uk/ukpga/1986/37), [ss. 1](https://www.legislation.gov.uk/ukpga/1986/37/section/1), [4(1)(2)](https://www.legislation.gov.uk/ukpga/1986/37/section/4/1/2)
 
-[^key-3240d98d4e09a58c4a723cff7d9b7969]: Textual amendment: Words in [s. 14B(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/14B/1) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 96(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/96/4), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/b)
+[^c-3240d98d4e09a58c4a723cff7d9b7969]: Textual amendment: Words in [s. 14B(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/14B/1) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 96(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/96/4), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/b)
 
 [^c808973]: Modification: S. 15 restricted (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [ss. 10(2)(a)(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/10/2/a/4), [68(2)(a)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/2/a); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
@@ -1513,7 +1513,7 @@ Section 40(3).
 
 [^c808982]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18)**(98:3)**
 
-[^key-2282f7f29ccc4c294c4353ef9f0095d1]: Textual amendment: Words in s. 19 substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 36](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/36) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-2282f7f29ccc4c294c4353ef9f0095d1]: Textual amendment: Words in s. 19 substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 36](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/36) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c808987]: Textual amendment: S. 19A and cross-heading inserted (27.9.2004) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [ss. 68](https://www.legislation.gov.uk/ukpga/2002/15/section/68), [181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2002/15/schedule/5/paragraph/4); [S.I. 2004/1832](https://www.legislation.gov.uk/uksi/2004/1832), [art. 2](https://www.legislation.gov.uk/uksi/2004/1832/article/2)
 
@@ -1525,7 +1525,7 @@ Section 40(3).
 
 [^c1893893]: Textual amendment: S. 27A inserted (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 288(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/288/1), [458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/120/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (subject to [arts. 3-7](https://www.legislation.gov.uk/uksi/2003/120/article/3)) (as amended by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 14](https://www.legislation.gov.uk/uksi/2003/333/article/14))
 
-[^key-11b25854977e74bae02b2c341542119b]: Textual amendment: Words in s. 27A(2) substituted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 62](https://www.legislation.gov.uk/ukpga/2009/26/section/62), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(h)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/h)
+[^c-11b25854977e74bae02b2c341542119b]: Textual amendment: Words in s. 27A(2) substituted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 62](https://www.legislation.gov.uk/ukpga/2009/26/section/62), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(h)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/h)
 
 [^c1950038]: Textual amendment: Words in s. 27A(2) substituted (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/74/2), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94), [Sch. 8 para. 147(2)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/147/2); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a) (subject to [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
 
@@ -1535,37 +1535,37 @@ Section 40(3).
 
 [^c1950040]: Textual amendment: Words in s. 27A(4) substituted (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/74/2), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94), [Sch. 8 para. 147(3)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/147/3); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a) (subject to [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
 
-[^key-1b15967837da0e038aaf7c45b1c82c3c]: Textual amendment: S. 27A(4A) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/2/2); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/a)
+[^c-1b15967837da0e038aaf7c45b1c82c3c]: Textual amendment: S. 27A(4A) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/2/2); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/a)
 
 [^c1950042]: Textual amendment: S. 27A(8) inserted (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/74/2), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94), [Sch. 8 para. 147(4)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/147/4); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a) (subject to [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
 
-[^key-b9b8b93449b38671c84745f953b96114]: Textual amendment: S. 27A(8)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 28(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/28/1); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-b9b8b93449b38671c84745f953b96114]: Textual amendment: S. 27A(8)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 28(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/28/1); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-234c8cc49a543139e4742c677af74afd]: Textual amendment: S. 27A(8)(c) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/4)
+[^c-234c8cc49a543139e4742c677af74afd]: Textual amendment: S. 27A(8)(c) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/4)
 
-[^key-bcfc0e4d512110d0e780cc7b207ff4a6]: Textual amendment: S. 27A(8)(e)(f) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/2/3); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/a)
+[^c-bcfc0e4d512110d0e780cc7b207ff4a6]: Textual amendment: S. 27A(8)(e)(f) inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/5)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/ukpga/2017/22/schedule/5/paragraph/2/3); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/5/1/a)
 
-[^key-fbca58d48b862c0e247fe55e8812eac8]: Textual amendment: S. 27AB inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/2604/article/4/2)
+[^c-fbca58d48b862c0e247fe55e8812eac8]: Textual amendment: S. 27AB inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2013/2604/article/4/2)
 
-[^key-7e0c6eb2ff0036cbbfbef59c59ae9015]: Textual amendment: S. 27AB(6)(c) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/5)
+[^c-7e0c6eb2ff0036cbbfbef59c59ae9015]: Textual amendment: S. 27AB(6)(c) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/5)
 
 [^c1893896]: Textual amendment: S. 27B inserted (1.1.2006) by [The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005 (S.I. 2005/3181)](https://www.legislation.gov.uk/uksi/2005/3181), [art. 201(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/201/1)
 
-[^key-1af1acd906def788bb1756a147655ecd]: Textual amendment: Words in s. 27B(2) substituted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 62](https://www.legislation.gov.uk/ukpga/2009/26/section/62), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(h)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/h)
+[^c-1af1acd906def788bb1756a147655ecd]: Textual amendment: Words in s. 27B(2) substituted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 62](https://www.legislation.gov.uk/ukpga/2009/26/section/62), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(h)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/h)
 
 [^c2002173]: Textual amendment: Words in s. 27B(2)(4) substituted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2008/302/article/4/2)
 
-[^key-9d35243ffbbed67bd72e1cdc205f5724]: Textual amendment: S. 27B(3A) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/2604/article/4/3)
+[^c-9d35243ffbbed67bd72e1cdc205f5724]: Textual amendment: S. 27B(3A) inserted (11.11.2013) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2013 (S.I. 2013/2604)](https://www.legislation.gov.uk/uksi/2013/2604), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2604/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/2604/article/4/3)
 
 [^c2002179]: Textual amendment: S. 27(B)(8) inserted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2008/302/article/4/3)
 
-[^key-54a412d71ebb2d5bddf035d3515d94cb]: Textual amendment: S. 27B(8)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 28(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/28/2); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-54a412d71ebb2d5bddf035d3515d94cb]: Textual amendment: S. 27B(8)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 28(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/28/2); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-03d054d3cf16d0f6b0dbe99e9548ee79]: Textual amendment: S. 27B(8)(c) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/6)
+[^c-03d054d3cf16d0f6b0dbe99e9548ee79]: Textual amendment: S. 27B(8)(c) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/6)
 
-[^key-9d2b693c13000ebce0f289ff5bf0af39]: Textual amendment: S. 27C inserted (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 171(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/171/1), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
+[^c-9d2b693c13000ebce0f289ff5bf0af39]: Textual amendment: S. 27C inserted (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 171(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/171/1), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
 
-[^key-0a321d7bcbc1d865b30886776343b8c8]: Textual amendment: [S. 27D](https://www.legislation.gov.uk/ukpga/1980/58/section/27D) inserted (18.11.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(2)(b)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/b), [Sch. 13 para. 13](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/13) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-0a321d7bcbc1d865b30886776343b8c8]: Textual amendment: [S. 27D](https://www.legislation.gov.uk/ukpga/1980/58/section/27D) inserted (18.11.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(2)(b)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/2/b), [Sch. 13 para. 13](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/13) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
 
 [^c808998]: Modification: S. 28 excluded by [Latent Damage Act 1986 (c. 37, SIF 79)](https://www.legislation.gov.uk/ukpga/1986/37), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/1986/37/section/3/3), [4](https://www.legislation.gov.uk/ukpga/1986/37/section/4)
 
@@ -1573,7 +1573,7 @@ Section 40(3).
 
 [^c809000]: Textual amendment: S. 28(4A) (which was inserted by [1985 c. 61](https://www.legislation.gov.uk/ukpga/1985/61), [ss. 57(3)](https://www.legislation.gov.uk/ukpga/1985/61/section/57/3), [69(5)](https://www.legislation.gov.uk/ukpga/1985/61/section/69/5), [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/1985/61/schedule/9/paragraph/14)) substituted (4.9.1996) by [1996 c. 31](https://www.legislation.gov.uk/ukpga/1996/31), [ss. 5(3)(6)](https://www.legislation.gov.uk/ukpga/1996/31/section/5/3/6), [19](https://www.legislation.gov.uk/ukpga/1996/31/section/19) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/1996/31/section/20/2))
 
-[^key-82f733a8e0a128875af2b4fd9d56bd87]: Textual amendment: Word in [s. 28(6)](https://www.legislation.gov.uk/ukpga/1980/58/section/28/6) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/14); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-82f733a8e0a128875af2b4fd9d56bd87]: Textual amendment: Word in [s. 28(6)](https://www.legislation.gov.uk/ukpga/1980/58/section/28/6) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/14); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
 [^c809001]: Textual amendment: S. 28(7) inserted (1.3.1988) by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/4)
 
@@ -1585,7 +1585,7 @@ Section 40(3).
 
 [^c809005]: Textual amendment: Words “subsections (3) and (4A)” substituted (1.3.1988) for words “subsection (3)” by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/5/a)
 
-[^key-c34258a0e5867e881377e82720759a3e]: Textual amendment: Words in [s. 32(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/32/1) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 15(2)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/15/2); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-c34258a0e5867e881377e82720759a3e]: Textual amendment: Words in [s. 32(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/32/1) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 15(2)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/15/2); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
 [^c1857338]: Modification: S. 32(1)(c) excluded (22.7.2004 with effect as mentioned in s. 320(1) of the amending act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 320](https://www.legislation.gov.uk/ukpga/2004/12/section/320)
 
@@ -1593,7 +1593,7 @@ Section 40(3).
 
 [^c809007]: Textual amendment: S. 32(4A) inserted (1.3.1988) by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/5/b)
 
-[^key-3a99fd041cd95e38ff29dc238c8dac62]: Textual amendment: [S. 32(4B)](https://www.legislation.gov.uk/ukpga/1980/58/section/32/4B) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 15(3)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/15/3); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-3a99fd041cd95e38ff29dc238c8dac62]: Textual amendment: [S. 32(4B)](https://www.legislation.gov.uk/ukpga/1980/58/section/32/4B) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 15(3)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/15/3); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
 [^c809008]: Textual amendment: S. 32(5) added with saving by [Latent Damage Act 1986 (c. 37, SIF 79)](https://www.legislation.gov.uk/ukpga/1986/37), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/1986/37/section/2/2), [4(1)(2)](https://www.legislation.gov.uk/ukpga/1986/37/section/4/1/2)
 
@@ -1601,97 +1601,97 @@ Section 40(3).
 
 [^c809012]: Textual amendment: S. 32A (which was inserted by [1985 c. 61](https://www.legislation.gov.uk/ukpga/1985/61), [ss. 57(4)](https://www.legislation.gov.uk/ukpga/1985/61/section/57/4), [69(5)](https://www.legislation.gov.uk/ukpga/1985/61/section/69/5), [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/1985/61/schedule/9/paragraph/14)) substituted (4.9.1996) by [1996 c. 31](https://www.legislation.gov.uk/ukpga/1996/31), [ss. 5(4)(6)](https://www.legislation.gov.uk/ukpga/1996/31/section/5/4/6), [19(2)](https://www.legislation.gov.uk/ukpga/1996/31/section/19/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/1996/31/section/20/2))
 
-[^key-9933bcf9edd55e1aec00579d953a3208]: Textual amendment: Words in s. 33(1)(a) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(2)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/2); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-9933bcf9edd55e1aec00579d953a3208]: Textual amendment: Words in s. 33(1)(a) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(2)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/2); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-a1ffbadd77d63e63c3f55f993f221211]: Textual amendment: S. 33(1ZA)-(1ZC) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/2); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-a1ffbadd77d63e63c3f55f993f221211]: Textual amendment: S. 33(1ZA)-(1ZC) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/2); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
 [^c809014]: Textual amendment: S. 33(1A) inserted (1.3.1988) by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/6/b)
 
 [^c809015]: Marginal citation: [1987 c. 43](https://www.legislation.gov.uk/ukpga/1987/43)**(109:1)**
 
-[^key-b5b6311c513ec4be019c6cc46e9c1df2]: Textual amendment: S. 33(1B) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(3)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/3); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-b5b6311c513ec4be019c6cc46e9c1df2]: Textual amendment: S. 33(1B) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(3)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/3); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-709ca64a4ba71f072e3c22ca3c11267f]: Textual amendment: Words in s. 33(2) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(4)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/4); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-709ca64a4ba71f072e3c22ca3c11267f]: Textual amendment: Words in s. 33(2) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(4)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/4); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
 [^c809017]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30)**(122:3)**
 
 [^c809018]: Marginal citation: [1961 c. 27](https://www.legislation.gov.uk/ukpga/1961/27)**(9)**
 
-[^key-bf0c7ce3ad8f80f57f7317d7f432f473]: Textual amendment: S. 33(2A)(2B) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/3); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-bf0c7ce3ad8f80f57f7317d7f432f473]: Textual amendment: S. 33(2A)(2B) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/3); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
 [^c809019]: Textual amendment: Words inserted (1.3.1988) by [Consumer Protection Act 1987 (c. 43, SIF 109:1)](https://www.legislation.gov.uk/ukpga/1987/43), [ss. 6(6)](https://www.legislation.gov.uk/ukpga/1987/43/section/6/6), [50(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/50/2), [Sch. 1 para. 6(d)](https://www.legislation.gov.uk/ukpga/1987/43/schedule/1/paragraph/6/d)
 
-[^key-2f62384dbc1c92666157097ed1c38bdd]: Textual amendment: Words in s. 33(3)(b) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(5)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/5); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-2f62384dbc1c92666157097ed1c38bdd]: Textual amendment: Words in s. 33(3)(b) inserted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(5)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/5); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-13256c1a4552084d6e0eae0ce734994b]: Textual amendment: Words in s. 33(4) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(4)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/4); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-13256c1a4552084d6e0eae0ce734994b]: Textual amendment: Words in s. 33(4) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(4)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/4); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-d5b6cf268f93085a0ff5bfb15b8ca8c7]: Textual amendment: S. 33(5A)(5B) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/4); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-d5b6cf268f93085a0ff5bfb15b8ca8c7]: Textual amendment: S. 33(5A)(5B) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/4); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
 [^c809021]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30)**(122:3)**
 
-[^key-b0607f5fc8113a5933b78616d65ee9cb]: Textual amendment: S. 33(6A) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/5); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-b0607f5fc8113a5933b78616d65ee9cb]: Textual amendment: S. 33(6A) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(5)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/5); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-5a9850d2fe6c96b53e8d42acb4fbc6f8]: Textual amendment: S. 33(7) substituted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/6); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-5a9850d2fe6c96b53e8d42acb4fbc6f8]: Textual amendment: S. 33(7) substituted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/6); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-e6ab6b5fbbdc98154f1858bf8ed6307e]: Textual amendment: Words in s. 33(8) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(7)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/7); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
+[^c-e6ab6b5fbbdc98154f1858bf8ed6307e]: Textual amendment: Words in s. 33(8) inserted (30.6.2021) by [Overseas Operations (Service Personnel and Veterans) Act 2021 (c. 23)](https://www.legislation.gov.uk/ukpga/2021/23), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2021/23/section/14/2), [Sch. 2 para. 1(7)](https://www.legislation.gov.uk/ukpga/2021/23/schedule/2/paragraph/1/7); [S.I. 2021/678](https://www.legislation.gov.uk/uksi/2021/678), [reg. 2](https://www.legislation.gov.uk/uksi/2021/678/regulation/2)
 
-[^key-7eecedf3ad8b6905d1dd05a59428718e]: Textual amendment: Words in s. 33(8) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(6)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/6); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
+[^c-7eecedf3ad8b6905d1dd05a59428718e]: Textual amendment: Words in s. 33(8) substituted (21.4.2021) by [Automated and Electric Vehicles Act 2018 (c. 18)](https://www.legislation.gov.uk/ukpga/2018/18), [s. 21](https://www.legislation.gov.uk/ukpga/2018/18/section/21), [Sch. para. 16(6)](https://www.legislation.gov.uk/ukpga/2018/18/schedule/paragraph/16/6); [S.I. 2021/396](https://www.legislation.gov.uk/uksi/2021/396), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/c)[(d)](https://www.legislation.gov.uk/uksi/2021/396/regulation/3/d)
 
-[^key-c2a71032d477822e0f24ca50bb074dec]: Textual amendment: Words in s. 33(8) substituted (with application in accordance with regs. 3, 4 of the amending S.I.) by [Cross-Border Mediation (EU Directive) Regulations 2011 (S.I. 2011/1133)](https://www.legislation.gov.uk/uksi/2011/1133), [regs. 2](https://www.legislation.gov.uk/uksi/2011/1133/regulation/2), [25](https://www.legislation.gov.uk/uksi/2011/1133/regulation/25)
+[^c-c2a71032d477822e0f24ca50bb074dec]: Textual amendment: Words in s. 33(8) substituted (with application in accordance with regs. 3, 4 of the amending S.I.) by [Cross-Border Mediation (EU Directive) Regulations 2011 (S.I. 2011/1133)](https://www.legislation.gov.uk/uksi/2011/1133), [regs. 2](https://www.legislation.gov.uk/uksi/2011/1133/regulation/2), [25](https://www.legislation.gov.uk/uksi/2011/1133/regulation/25)
 
-[^key-13336087a97e3f67d50931749477ffd2]: Textual amendment: S. 33A and preceding cross-heading inserted (with application in accordance with regs. 3, 4 of the amending S.I.) by [Cross-Border Mediation (EU Directive) Regulations 2011 (S.I. 2011/1133)](https://www.legislation.gov.uk/uksi/2011/1133), [regs. 2](https://www.legislation.gov.uk/uksi/2011/1133/regulation/2), [26](https://www.legislation.gov.uk/uksi/2011/1133/regulation/26)
+[^c-13336087a97e3f67d50931749477ffd2]: Textual amendment: S. 33A and preceding cross-heading inserted (with application in accordance with regs. 3, 4 of the amending S.I.) by [Cross-Border Mediation (EU Directive) Regulations 2011 (S.I. 2011/1133)](https://www.legislation.gov.uk/uksi/2011/1133), [regs. 2](https://www.legislation.gov.uk/uksi/2011/1133/regulation/2), [26](https://www.legislation.gov.uk/uksi/2011/1133/regulation/26)
 
-[^key-fe075d206b5b8a0031f862cd09b9321a]: Textual amendment: S. 33A omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/7/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), regs. 1(1), 4(5)(6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
+[^c-fe075d206b5b8a0031f862cd09b9321a]: Textual amendment: S. 33A omitted (31.12.2020) by virtue of [The Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 (S.I. 2019/469)](https://www.legislation.gov.uk/uksi/2019/469), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/469/regulation/1/1), [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/uksi/2019/469/schedule/1/paragraph/7/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/469/regulation/5)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), regs. 1(1), 4(5)(6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
 
-[^key-00ba1fb39d1a65ed88d5890adbdbed56]: Textual amendment: S. 33B and preceding cross-heading inserted (9.7.2015) by [The Alternative Dispute Resolution for Consumer Disputes (Amendment) Regulations 2015 (S.I. 2015/1392)](https://www.legislation.gov.uk/uksi/2015/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/4/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/3))
+[^c-00ba1fb39d1a65ed88d5890adbdbed56]: Textual amendment: S. 33B and preceding cross-heading inserted (9.7.2015) by [The Alternative Dispute Resolution for Consumer Disputes (Amendment) Regulations 2015 (S.I. 2015/1392)](https://www.legislation.gov.uk/uksi/2015/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/4/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/3))
 
-[^key-d466ba94f31ebd2cfea08311cffc588b]: Textual amendment: Words in [s. 33B](https://www.legislation.gov.uk/ukpga/1980/58/section/33B) heading substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(2)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/2); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1/5)
+[^c-d466ba94f31ebd2cfea08311cffc588b]: Textual amendment: Words in [s. 33B](https://www.legislation.gov.uk/ukpga/1980/58/section/33B) heading substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(2)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/2); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1/5)
 
-[^key-be0c3998f2e51aebabcef139dc8b0094]: Textual amendment: [S. 33B(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/1) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(3)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/3); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1/5)
+[^c-be0c3998f2e51aebabcef139dc8b0094]: Textual amendment: [S. 33B(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/1) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(3)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/3); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1/5)
 
-[^key-479619b76a6fe6bae99f2ab6af7fbb3e]: Textual amendment: Words in [s. 33B(2)(a)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/2/a) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-479619b76a6fe6bae99f2ab6af7fbb3e]: Textual amendment: Words in [s. 33B(2)(a)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/2/a) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-717253dbc2da452071a6456f264ce666]: Textual amendment: Word in [s. 33B(2)(b)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/2/b) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/5/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-717253dbc2da452071a6456f264ce666]: Textual amendment: Word in [s. 33B(2)(b)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/2/b) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/5/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-49b602dc14bbaf5f5b2ab11ebff3b322]: Textual amendment: Words in [s. 33B(2)(b)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/2/b) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-49b602dc14bbaf5f5b2ab11ebff3b322]: Textual amendment: Words in [s. 33B(2)(b)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/2/b) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-80d7c7e0aaa981a65b4b1becab73b43e]: Textual amendment: Words in [s. 33B(2)(c)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/2/c) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(6)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/6/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-80d7c7e0aaa981a65b4b1becab73b43e]: Textual amendment: Words in [s. 33B(2)(c)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/2/c) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(6)(a)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/6/a); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-69dfeeb61650bfca05ea9b5daa8a9c62]: Textual amendment: Words in [s. 33B(3)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/3) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(6)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/6/b); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-69dfeeb61650bfca05ea9b5daa8a9c62]: Textual amendment: Words in [s. 33B(3)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/3) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(6)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/6/b); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-cc08f6c4b0174efccfc076c7a4cbfb68]: Textual amendment: Words in [s. 33B(5)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/5) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/b); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-cc08f6c4b0174efccfc076c7a4cbfb68]: Textual amendment: Words in [s. 33B(5)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/5) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/b); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-b45fd719e569cfed187a5d2af99e20e7]: Textual amendment: Word in [s. 33B(6)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/6) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/5/b); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-b45fd719e569cfed187a5d2af99e20e7]: Textual amendment: Word in [s. 33B(6)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/6) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(5)(b)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/5/b); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-2d49c20d107453be51a5d5203fe310e6]: Textual amendment: Words in [s. 33B(6)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/6) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(c)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/c); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-2d49c20d107453be51a5d5203fe310e6]: Textual amendment: Words in [s. 33B(6)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/6) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(c)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/c); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-c919df77538df05a3561974964c35b4e]: Textual amendment: Words in [s. 33B(7)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/7) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(6)(c)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/6/c); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-c919df77538df05a3561974964c35b4e]: Textual amendment: Words in [s. 33B(7)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/7) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(6)(c)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/6/c); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-63f6406c07af14850af4b54433b04fac]: Textual amendment: Words in [s. 33B(7)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/7) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(d)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/d); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-63f6406c07af14850af4b54433b04fac]: Textual amendment: Words in [s. 33B(7)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/7) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(d)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/d); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-b5e5ee31292b68ad36c076b7222d8454]: Textual amendment: Words in [s. 33B(8)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/8) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(6)(d)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/6/d); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-b5e5ee31292b68ad36c076b7222d8454]: Textual amendment: Words in [s. 33B(8)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/8) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(6)(d)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/6/d); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-18c9adce91a4f98e81db4b5cc7ec5273]: Textual amendment: Words in [s. 33B(9)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/9) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(e)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/e); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-18c9adce91a4f98e81db4b5cc7ec5273]: Textual amendment: Words in [s. 33B(9)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/9) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(4)(e)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/4/e); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-d5fafa4caa0821b48f245ea9ec7ccb99]: Textual amendment: Word in [s. 33B(9)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/9) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(5)(c)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/5/c); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-d5fafa4caa0821b48f245ea9ec7ccb99]: Textual amendment: Word in [s. 33B(9)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/9) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(5)(c)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/5/c); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
-[^key-55c696551e238eb779e0e53086af7d82]: Textual amendment: Words in [s. 33B(9)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/9) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(6)(e)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/6/e); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
+[^c-55c696551e238eb779e0e53086af7d82]: Textual amendment: Words in [s. 33B(9)](https://www.legislation.gov.uk/ukpga/1980/58/section/33B/9) substituted (6.4.2026) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 27 para. 2(6)(e)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/27/paragraph/2/6/e); [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(5)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/5)
 
 [^c809028]: Textual amendment: [S. 34](https://www.legislation.gov.uk/ukpga/1980/58/section/34) repealed (31.1.1997) by [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23), [s. 107(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/107/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/23/schedule/4); [S.I. 1996/3146](https://www.legislation.gov.uk/uksi/1996/3146), [art. 3](https://www.legislation.gov.uk/uksi/1996/3146/article/3)
 
 [^c809029]: Modification: S. 35 extended by [Merchant Shipping (Liner Conferences) Act 1982 (c. 37, SIF 111)](https://www.legislation.gov.uk/ukpga/1982/37), [s. 8(2)(c)](https://www.legislation.gov.uk/ukpga/1982/37/section/8/2/c) and [Foreign Limitation Periods Act 1984 (c. 16, SIF 79)](https://www.legislation.gov.uk/ukpga/1984/16), [ss. 1](https://www.legislation.gov.uk/ukpga/1984/16/section/1), [2](https://www.legislation.gov.uk/ukpga/1984/16/section/2), [7(3)](https://www.legislation.gov.uk/ukpga/1984/16/section/7/3)
 
-[^key-11366d54dc3b479ab97b5ee96abc1705]: Modification: S. 35 applied by Competition Act 1998 (c. 41), Sch. 8A para. 26(1) (as inserted (9.3.2017) by [S.I. 2017/385](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/5)))
+[^c-11366d54dc3b479ab97b5ee96abc1705]: Modification: S. 35 applied by Competition Act 1998 (c. 41), Sch. 8A para. 26(1) (as inserted (9.3.2017) by [S.I. 2017/385](https://www.legislation.gov.uk/uksi/2017/385), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/385/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2017/385/schedule/1/paragraph/5)))
 
-[^key-8bb7592c01d11cc1fc6d5b44b7690464]: Modification: [S. 35](https://www.legislation.gov.uk/ukpga/1980/58/section/35) applied (9.6.2018) by [The Trade Secrets (Enforcement, etc.) Regulations 2018 (S.I. 2018/597)](https://www.legislation.gov.uk/uksi/2018/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2018/597/regulation/9/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2018/597/regulation/19))
+[^c-8bb7592c01d11cc1fc6d5b44b7690464]: Modification: [S. 35](https://www.legislation.gov.uk/ukpga/1980/58/section/35) applied (9.6.2018) by [The Trade Secrets (Enforcement, etc.) Regulations 2018 (S.I. 2018/597)](https://www.legislation.gov.uk/uksi/2018/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2018/597/regulation/9/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2018/597/regulation/19))
 
-[^key-c44b0399a381a691d24b378b02f3d58d]: Textual amendment: Words in s. 35(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 102](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/102); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-c44b0399a381a691d24b378b02f3d58d]: Textual amendment: Words in s. 35(3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 102](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/102); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c1857341]: Modification: S. 35(5)(a) modified (22.7.2004 with effect as mentioned in s. 320(2) of the ammended act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 320](https://www.legislation.gov.uk/ukpga/2004/12/section/320)
 
 [^c809030]: Textual amendment: S. 35(9) repealed by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(4)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/4), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/54/schedule/7)
 
-[^key-e23bed2610ecc47d60faf7c4ef76ab9a]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/1980/58/section/36) excluded (9.6.2018) by [The Trade Secrets (Enforcement, etc.) Regulations 2018 (S.I. 2018/597)](https://www.legislation.gov.uk/uksi/2018/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2018/597/regulation/4/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2018/597/regulation/19))
+[^c-e23bed2610ecc47d60faf7c4ef76ab9a]: Modification: [S. 36](https://www.legislation.gov.uk/ukpga/1980/58/section/36) excluded (9.6.2018) by [The Trade Secrets (Enforcement, etc.) Regulations 2018 (S.I. 2018/597)](https://www.legislation.gov.uk/uksi/2018/597), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2018/597/regulation/4/3) (with [reg. 19](https://www.legislation.gov.uk/uksi/2018/597/regulation/19))
 
 [^c809033]: Textual amendment: [S. 36(1)(aa)](https://www.legislation.gov.uk/ukpga/1980/58/section/36/1/aa) (which was inserted by [1985 c. 61](https://www.legislation.gov.uk/ukpga/1985/61), [ss. 57(5)](https://www.legislation.gov.uk/ukpga/1985/61/section/57/5), [69(5)](https://www.legislation.gov.uk/ukpga/1985/61/section/69/5), [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/1985/61/schedule/9/paragraph/14)) substituted (4.9.1996) by [1996 c. 31](https://www.legislation.gov.uk/ukpga/1996/31), [ss. 5(5)(6)](https://www.legislation.gov.uk/ukpga/1996/31/section/5/5/6), [19](https://www.legislation.gov.uk/ukpga/1996/31/section/19) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/1996/31/section/20/2))
 
@@ -1705,7 +1705,7 @@ Section 40(3).
 
 [^c809038]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44)**(39A)**
 
-[^key-0b5bdc3ec8332256f11492ac6a1397bc]: Textual amendment: Words in [s. 38(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/38/1) inserted (with effect in accordance with [s. 108(4)](https://www.legislation.gov.uk/ukpga/2012/5/section/108/4) of the amending Act) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 108(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/108/2), [150(1)(c)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/1/c)
+[^c-0b5bdc3ec8332256f11492ac6a1397bc]: Textual amendment: Words in [s. 38(1)](https://www.legislation.gov.uk/ukpga/1980/58/section/38/1) inserted (with effect in accordance with [s. 108(4)](https://www.legislation.gov.uk/ukpga/2012/5/section/108/4) of the amending Act) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 108(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/108/2), [150(1)(c)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/1/c)
 
 [^c809058]: Textual amendment: Words in the definition of "land" repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)(5)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4/5)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
 
@@ -1719,15 +1719,15 @@ Section 40(3).
 
 [^c1857984]: Textual amendment: S. 38(3)(4) repealed (1.10.2007) by [The Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [ss. 67(1)(2)](https://www.legislation.gov.uk/ukpga/2005/9/section/67/1/2), [68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 25(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/25/b), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1)
 
-[^key-9e89125b2aaff8c11aa9cf10c7c325f8]: Textual amendment: Words in s. 38 omitted (6.4.2014) by virtue of [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 37](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/37), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-9e89125b2aaff8c11aa9cf10c7c325f8]: Textual amendment: Words in s. 38 omitted (6.4.2014) by virtue of [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 37](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/37), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
-[^key-75827f46c93eadc75932cf6d1a0eb085]: Textual amendment: [S. 38(11)](https://www.legislation.gov.uk/ukpga/1980/58/section/38/11) inserted (with effect in accordance with [s. 108(4)](https://www.legislation.gov.uk/ukpga/2012/5/section/108/4) of the amending Act) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 108(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/108/3), [150(1)(c)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/1/c)
+[^c-75827f46c93eadc75932cf6d1a0eb085]: Textual amendment: [S. 38(11)](https://www.legislation.gov.uk/ukpga/1980/58/section/38/11) inserted (with effect in accordance with [s. 108(4)](https://www.legislation.gov.uk/ukpga/2012/5/section/108/4) of the amending Act) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 108(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/108/3), [150(1)(c)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/1/c)
 
-[^key-6ed7e0e8b3b000937f79d0395cd2c255]: Textual amendment: Words in s. 38(11)(a) inserted (2.12.2025) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 105(7)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/105/7/a), [109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)
+[^c-6ed7e0e8b3b000937f79d0395cd2c255]: Textual amendment: Words in s. 38(11)(a) inserted (2.12.2025) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 105(7)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/105/7/a), [109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)
 
-[^key-539b04d181b77c9bb1effdab30b13a1c]: Textual amendment: Word in s. 38(11)(b) omitted (2.12.2025) by virtue of [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 105(7)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/105/7/b), [109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)
+[^c-539b04d181b77c9bb1effdab30b13a1c]: Textual amendment: Word in s. 38(11)(b) omitted (2.12.2025) by virtue of [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 105(7)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/105/7/b), [109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)
 
-[^key-f51548b2f28dbde5c67486268a04f28a]: Textual amendment: S. 38(11)(d) and word inserted (2.12.2025) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 105(7)(c)](https://www.legislation.gov.uk/ukpga/2025/28/section/105/7/c), [109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)
+[^c-f51548b2f28dbde5c67486268a04f28a]: Textual amendment: S. 38(11)(d) and word inserted (2.12.2025) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 105(7)(c)](https://www.legislation.gov.uk/ukpga/2025/28/section/105/7/c), [109(2)(a)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/a)
 
 [^c809069]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30)**(115:1)**
 

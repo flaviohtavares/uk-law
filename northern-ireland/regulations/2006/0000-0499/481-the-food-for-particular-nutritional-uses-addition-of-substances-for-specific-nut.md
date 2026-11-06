@@ -31,7 +31,7 @@ summary: ''
 
 food
 
-The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-5280abed7ad9cccd3e6bd25a927cb30d]
+The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-5280abed7ad9cccd3e6bd25a927cb30d]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 31st December 2006
 
-[^key-5280abed7ad9cccd3e6bd25a927cb30d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5280abed7ad9cccd3e6bd25a927cb30d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5280abed7ad9cccd3e6bd25a927cb30d]
+## 1. Citation and commencement[^c-5280abed7ad9cccd3e6bd25a927cb30d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-5280abed7ad9cccd3e6bd25a927cb30d]
+## 2. Amendment of the principal Regulations[^c-5280abed7ad9cccd3e6bd25a927cb30d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5280abed7ad9cccd3e6bd25a927cb30d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5280abed7ad9cccd3e6bd25a927cb30d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5280abed7ad9cccd3e6bd25a927cb30d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5280abed7ad9cccd3e6bd25a927cb30d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5280abed7ad9cccd3e6bd25a927cb30d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5280abed7ad9cccd3e6bd25a927cb30d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5280abed7ad9cccd3e6bd25a927cb30d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5280abed7ad9cccd3e6bd25a927cb30d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5280abed7ad9cccd3e6bd25a927cb30d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5280abed7ad9cccd3e6bd25a927cb30d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5280abed7ad9cccd3e6bd25a927cb30d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/481) revoked (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) Regulations (Northern Ireland) 2009 (S.R. 2009/398)](https://www.legislation.gov.uk/nisr/2009/398), [regs. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1), [6(c)](https://www.legislation.gov.uk/nisr/2009/398/regulation/6/c)
+[^c-5280abed7ad9cccd3e6bd25a927cb30d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/481) revoked (1.1.2010) by [The Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) Regulations (Northern Ireland) 2009 (S.R. 2009/398)](https://www.legislation.gov.uk/nisr/2009/398), [regs. 1](https://www.legislation.gov.uk/nisr/2009/398/regulation/1), [6(c)](https://www.legislation.gov.uk/nisr/2009/398/regulation/6/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Availability of fee loans to current system students - general[^key-21da50df22994c61a129b935d5e2ae1c]
+## 17. Availability of fee loans to current system students - general[^c-21da50df22994c61a129b935d5e2ae1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21da50df22994c61a129b935d5e2ae1c]: Commencement: Reg. 17 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-21da50df22994c61a129b935d5e2ae1c]: Commencement: Reg. 17 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

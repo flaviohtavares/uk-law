@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Article 20 amended (cap for scheme years)[^key-2106b1fc0912934d714902f0bf9b9dae]
+## 11. Article 20 amended (cap for scheme years)[^c-2106b1fc0912934d714902f0bf9b9dae]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2106b1fc0912934d714902f0bf9b9dae]: Commencement: Art. 11 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-2106b1fc0912934d714902f0bf9b9dae]: Commencement: Art. 11 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

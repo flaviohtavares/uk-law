@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Powers of Youth Justice Board in relation to provision of accommodation[^key-0df19e089e53d816eabedbb44441aa0a]
+## 40. Powers of Youth Justice Board in relation to provision of accommodation[^c-0df19e089e53d816eabedbb44441aa0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0df19e089e53d816eabedbb44441aa0a]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2015/2/section/40) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/32)
+[^c-0df19e089e53d816eabedbb44441aa0a]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2015/2/section/40) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/32)

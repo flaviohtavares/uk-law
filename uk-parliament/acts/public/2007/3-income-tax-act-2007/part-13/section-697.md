@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 697. Opposed notifications: determinations by tribunal[^key-585e139fc3bd325e79a382a4b7f95fcb]
+## 697. Opposed notifications: determinations by tribunal[^c-585e139fc3bd325e79a382a4b7f95fcb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-585e139fc3bd325e79a382a4b7f95fcb]: Textual amendment: Ss. 696, 697 omitted (with effect in accordance with s. 34(8)(9) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/34/3)
+[^c-585e139fc3bd325e79a382a4b7f95fcb]: Textual amendment: Ss. 696, 697 omitted (with effect in accordance with s. 34(8)(9) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 34(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/34/3)

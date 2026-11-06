@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 212. Final costs certificate[^key-eeccd7ae26680af6a8fc473db017e434]
+## 212. Final costs certificate[^c-eeccd7ae26680af6a8fc473db017e434]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.42 of the 1986 Rules.
 
 ## Annotations
 
-[^key-eeccd7ae26680af6a8fc473db017e434]: Commencement: Rule 212 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-eeccd7ae26680af6a8fc473db017e434]: Commencement: Rule 212 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

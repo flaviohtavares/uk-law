@@ -43,11 +43,11 @@ Coming into operation
 
 The Department of Agriculture and Rural Development, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, makes the following Regulations in exercise of the powers conferred on it by that section.
 
-## 1. Citation and commencement[^key-ba47ffd6737b2d23c2d933ffc484dcb2]
+## 1. Citation and commencement[^c-ba47ffd6737b2d23c2d933ffc484dcb2]
 
 These Regulations may be cited as the Avian Influenza (Vaccination) Regulations (Northern Ireland) 2007 and come into operation on 10<sup>th</sup> February 2007.
 
-## 2. Interpretation[^key-5db937bad8c13b4277aab2599f2257ce]
+## 2. Interpretation[^c-5db937bad8c13b4277aab2599f2257ce]
 
 (1) In these Regulations—
 
@@ -75,11 +75,11 @@ These Regulations may be cited as the Avian Influenza (Vaccination) Regulations 
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Scope of the Regulations[^key-fe004c1b109237ce8be6778082f3c861]
+## 3. Scope of the Regulations[^c-fe004c1b109237ce8be6778082f3c861]
 
 These Regulations do not apply to birds kept in a zoo within the meaning of the Avian Influenza (Preventive Measures) Regulations (Northern Ireland) 2007[^f00007].
 
-## 4. Declarations, notices and licences[^key-14a85e9945f51f0a9fc7b57025d574f8]
+## 4. Declarations, notices and licences[^c-14a85e9945f51f0a9fc7b57025d574f8]
 
 (1) A declaration of a vaccination zone—
 
@@ -130,7 +130,7 @@ These Regulations do not apply to birds kept in a zoo within the meaning of the 
 - (b) on demand made by an inspector produce the consignment note and allow a copy or extract to be taken; and
 - (c) on such demand, provide his name and address.
 
-## 5. Prohibition on vaccination[^key-6f1515dfe3bae5cd2b2ff50e3ca961ee]
+## 5. Prohibition on vaccination[^c-6f1515dfe3bae5cd2b2ff50e3ca961ee]
 
 (1) A person must not vaccinate any bird against avian influenza except where required by an inspector or under the authority of and in accordance with the conditions of a licence granted by the Department.
 
@@ -139,7 +139,7 @@ These Regulations do not apply to birds kept in a zoo within the meaning of the 
 - (a) anything done under the authority of a licence granted under Article 4 of the Specified Animal Pathogens Order (Northern Ireland) 1999[^f00008]; or
 - (b) the administration of a vaccine for research purposes in accordance with an animal test certificate granted under regulation 8(2) of The Veterinary Medicines Regulations 2006[^f00009].
 
-## 6. Emergency vaccination[^key-2ace73b17cc4f2c20cf34cf770c5c983]
+## 6. Emergency vaccination[^c-2ace73b17cc4f2c20cf34cf770c5c983]
 
 (1) Where the condition in paragraph (2) is fulfilled, the Department must, if it considers it necessary to reduce the risk of the spread of avian influenza—
 
@@ -158,7 +158,7 @@ These Regulations do not apply to birds kept in a zoo within the meaning of the 
 
 (5) Nothing in paragraph (1)(a) should deem any part of a premises outside Northern Ireland to be within an emergency vaccination zone.
 
-## 7. Preventive vaccination[^key-403bc9ecc8304d0f9f6c804b03a75afa]
+## 7. Preventive vaccination[^c-403bc9ecc8304d0f9f6c804b03a75afa]
 
 (1) Where the conditions in paragraph (2) are fulfilled, the Department may, in accordance with the preventive vaccination plan referred to in paragraph (2)(b)—
 
@@ -176,7 +176,7 @@ These Regulations do not apply to birds kept in a zoo within the meaning of the 
 
 (4) Nothing in paragraph (1)(b)(i) should deem any part of a premises outside Northern Ireland to be within a preventive vaccination zone.
 
-## 8. Declaration of a vaccination zone in the Republic of Ireland[^key-eec15254cd8b44aea2163be3fa3a8aa6]
+## 8. Declaration of a vaccination zone in the Republic of Ireland[^c-eec15254cd8b44aea2163be3fa3a8aa6]
 
 (1) This regulation applies where a programme of vaccination is to be undertaken in the Republic of Ireland.
 
@@ -184,7 +184,7 @@ These Regulations do not apply to birds kept in a zoo within the meaning of the 
 
 (3) A declaration under this regulation must specify the extent of the emergency or preventive vaccination zone.
 
-## 9. Measures applying in a vaccination zone or to premises that are the subject of a vaccination notice or vaccination licence[^key-88acac2d3ee2497b6247d3d04e2b8ab0]
+## 9. Measures applying in a vaccination zone or to premises that are the subject of a vaccination notice or vaccination licence[^c-88acac2d3ee2497b6247d3d04e2b8ab0]
 
 (1) The Department must, in a declaration of a vaccination zone, a vaccination notice or a vaccination licence, specify who is to carry out the vaccination and that person shall do so in accordance with these Regulations.
 
@@ -212,7 +212,7 @@ and may impose such other restrictions and conditions as it considers necessary 
 
 (6) A slaughterhouse, egg packing centre or hatchery that is designated under The Avian Influenza and Influenza of Avian Origin in Mammals Regulations (Northern Ireland) 2007[^f00010] is deemed to be designated for the purpose of receiving poultry or eggs (as the case may be) that are moved under the authority of and in accordance with the conditions of a licence.
 
-## 10. Emergency vaccination without an approved plan[^key-1749f3f973616d0f1395998702bacf97]
+## 10. Emergency vaccination without an approved plan[^c-1749f3f973616d0f1395998702bacf97]
 
 (1) This regulation applies when the Department declares an emergency vaccination zone or serves an emergency vaccination notice before an emergency vaccination plan has been approved by the European Commission in accordance with Article 54 of the Directive.
 
@@ -234,11 +234,11 @@ and may impose such other restrictions and conditions as it considers necessary 
 
 (6) The occupier of a slaughterhouse to which poultry for slaughter are moved under Parts V and VI of the Schedule, must ensure that those poultry are slaughtered without delay.
 
-## 11. Failure to vaccinate animals specified for vaccination[^key-6ad9150a03c85d65ebc1cd1d103f113b]
+## 11. Failure to vaccinate animals specified for vaccination[^c-6ad9150a03c85d65ebc1cd1d103f113b]
 
 Any person who knows or suspects that a bird has not been vaccinated as required by the Department must immediately notify the Divisional Veterinary Officer of the Department for the area in which that bird is located.
 
-## 12. Slaughter of vaccinated birds[^key-6e5a284a61b8004e27c2fcf15abf4a10]
+## 12. Slaughter of vaccinated birds[^c-6e5a284a61b8004e27c2fcf15abf4a10]
 
 (1) The Department may slaughter or cause to be slaughtered any poultry or other captive bird which has been treated with vaccine against avian influenza.
 
@@ -251,11 +251,11 @@ Any person who knows or suspects that a bird has not been vaccinated as required
 
 (4) For the purposes of this regulation, the Diseases of Animals (Valuation) Order (Northern Ireland) 1989[^f00011] applies to birds slaughtered under this regulation as it applies to birds slaughtered under the 1981 Order.
 
-## 13. Cleansing and disinfection of vehicles: provision of facilities, equipment and materials[^key-a87b5a3e0c0d56c41a57ca0dbb4fe9c8]
+## 13. Cleansing and disinfection of vehicles: provision of facilities, equipment and materials[^c-a87b5a3e0c0d56c41a57ca0dbb4fe9c8]
 
 Where cleansing and disinfection of vehicles is required at any premises, the occupier of those premises must provide adequate facilities and proper equipment and materials for that cleansing and disinfection.
 
-## 14. Change of occupation of premises under restriction[^key-b0a29af325e94396276f898bff910f3e]
+## 14. Change of occupation of premises under restriction[^c-b0a29af325e94396276f898bff910f3e]
 
 (1) This regulation applies if the keeper of any poultry or other captive bird is unable to move it from premises on the termination of his right of occupation because of a movement restriction and continues to apply for seven days after any such restriction has been removed.
 
@@ -268,17 +268,17 @@ Where cleansing and disinfection of vehicles is required at any premises, the oc
 
 (4) The keeper is liable to pay the reasonable costs incurred by any person feeding or tending it or providing facilities for feeding, tending or otherwise using it.
 
-## 15. Duty to provide reasonable assistance or information[^key-bb85c8320f39e7b98008f5c09cc2d537]
+## 15. Duty to provide reasonable assistance or information[^c-bb85c8320f39e7b98008f5c09cc2d537]
 
 (1) A person required to give reasonable assistance or information to an inspector must, unless he has reasonable cause, do so without delay.
 
 (2) A person shall not alter, deface, obscure or remove any mark applied to any bird or thing by an inspector.
 
-## 16. False information[^key-559a9c6f410d6b4241b4bc36e20987a9]
+## 16. False information[^c-559a9c6f410d6b4241b4bc36e20987a9]
 
 A person shall not provide information which he knows to be false or misleading to an inspector.
 
-## 17. Retention and production of records[^key-ba8048b6333a38b2a16f9a96b2e0e68c]
+## 17. Retention and production of records[^c-ba8048b6333a38b2a16f9a96b2e0e68c]
 
 (1) A person who is required to keep a record must—
 
@@ -291,15 +291,15 @@ A person shall not provide information which he knows to be false or misleading 
 - (b) require any computer records to be produced in a form which can be taken away; and
 - (c) take any records away and retain them until he has carried out his functions under these Regulations.
 
-## 18. Costs of compliance with these Regulations[^key-f6879793d738d9a0434ac5acb3731dc3]
+## 18. Costs of compliance with these Regulations[^c-f6879793d738d9a0434ac5acb3731dc3]
 
 The costs incurred by any person in taking any action required or in refraining from taking action that is prohibited, must be met by that person unless the Department directs otherwise in writing.
 
-## 19. Compliance with a declaration or notice[^key-1b049e80a294def0be57f4cdc08d00b2]
+## 19. Compliance with a declaration or notice[^c-1b049e80a294def0be57f4cdc08d00b2]
 
 (1) A person, to whom a declaration or notice applies, shall comply with the requirements or restrictions thereof.
 
-## 20. Powers of inspectors[^key-e1252039ebecbe3adc6e99479416f023]
+## 20. Powers of inspectors[^c-e1252039ebecbe3adc6e99479416f023]
 
 (1) An inspector may require, by notice, the person in charge of any vehicle or equipment to cleanse and disinfect it.
 
@@ -328,7 +328,7 @@ The costs incurred by any person in taking any action required or in refraining 
 
 (8) The owner or person in charge of any bird or carcase of a bird and the owner or occupier and any person employed on or in, any land, building, shed, pen or place where it is kept must provide such facilities and comply with such reasonable requirements of the officer as may be necessary to facilitate the exercise of his powers under paragraph (4).
 
-## 21. Powers of inspectors in case of default[^key-271a9c80a42befe67ddc7fdd316b72ad]
+## 21. Powers of inspectors in case of default[^c-271a9c80a42befe67ddc7fdd316b72ad]
 
 (1) Where a person fails to comply with a requirement of these Regulations, an inspector may take any steps he considers necessary to ensure the requirement is met.
 
@@ -339,14 +339,14 @@ The costs incurred by any person in taking any action required or in refraining 
 - (a) require, by notice, any person to take or refrain from specified action in respect of any place, animal, bird, vehicle or other thing; and
 - (b) seize and detain any thing.
 
-## 22. Enforcement, offences and proceedings[^key-e2db91037c411db3f3ca78a813824193]
+## 22. Enforcement, offences and proceedings[^c-e2db91037c411db3f3ca78a813824193]
 
 (1) The following provisions of the 1981 Order shall apply as if these Regulations were an order made under the 1981 Order—
 
 - (a) Article 18 (6) (general provisions relative to slaughter and compensation);
 - (b) Article 42 (functions of constables);
 - (c) Article 46 (general powers of inspectors);
-- (d) Article 46A (powers of inspectors relating to retained EU law or Protocol[^key-dc9568badf27c3562736062676524b44] obligations);
+- (d) Article 46A (powers of inspectors relating to retained EU law or Protocol[^c-dc9568badf27c3562736062676524b44] obligations);
 - (e) Article 54 (defences and evidence)
 - (f) Article 55 (extension of time for bringing summary proceedings);
 - (g) Article 56 (venue);
@@ -366,7 +366,7 @@ Regulation 10
 
 ### PART I — Hatching eggs
 
-**1.**[^key-3861622d965c947a106c7441455a3a86] (1) Provided that the conditions in sub-paragraph (2) are fulfilled, the movement of any hatching egg—
+**1.**[^c-3861622d965c947a106c7441455a3a86] (1) Provided that the conditions in sub-paragraph (2) are fulfilled, the movement of any hatching egg—
 
 - (a) from premises that are within a vaccination zone to other premises that are within a vaccination zone; or
 - (b) from premises that are within a vaccination zone or the subject of a vaccination notice, to premises that are outside a vaccination zone or are not the subject of a vaccination notice.
@@ -381,7 +381,7 @@ Regulation 10
 
 ### PART II — Eggs other than hatching eggs
 
-**1.**[^key-c3cc709118989df0e6a207176d990427] (1) Provided that the conditions in sub-paragraph (2) are fulfilled, the movement of any egg other than a hatching egg—
+**1.**[^c-c3cc709118989df0e6a207176d990427] (1) Provided that the conditions in sub-paragraph (2) are fulfilled, the movement of any egg other than a hatching egg—
 
 - (a) from premises that are within a vaccination zone to other premises that are within a vaccination zone; or
 - (b) from premises that are within a vaccination zone or the subject of a vaccination notice, to premises that are outside a vaccination zone or are not the subject of a vaccination notice.
@@ -389,41 +389,41 @@ Regulation 10
 (2) The conditions are that the egg originates from a layer flock which has been clinically examined by an inspector who has not placed that flock under any restrictions and—
 
 - (a) it is being transported to a designated packing centre packed in disposable packaging and all biosecurity measures required by the movement licence are applied; or
-- (b) it is being transported to an establishment for the manufacture of egg products as set out in Chapter II of Section X of Annex III to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853)[^f00012] (as amended by[^key-65bcd357ede4e0c6459d70b8dfcd7a19] [Commission Regulation (EU) No 1020/2008](https://www.legislation.gov.uk/european/regulation/2008/1020)) to be handled and treated in accordance with Chapter XI of Annex II to Regulation [(EC) No 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852)[^f00013].
+- (b) it is being transported to an establishment for the manufacture of egg products as set out in Chapter II of Section X of Annex III to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853)[^f00012] (as amended by[^c-65bcd357ede4e0c6459d70b8dfcd7a19] [Commission Regulation (EU) No 1020/2008](https://www.legislation.gov.uk/european/regulation/2008/1020)) to be handled and treated in accordance with Chapter XI of Annex II to Regulation [(EC) No 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852)[^f00013].
 
-**2.**[^key-072ecc9af0a514a2851874fe6a6066d8] The movement of any egg other than a hatching egg from premises that are outside a vaccination zone or, are not the subject of a vaccination notice, to premises that are within a vaccination zone or the subject of a vaccination notice, provided that—
+**2.**[^c-072ecc9af0a514a2851874fe6a6066d8] The movement of any egg other than a hatching egg from premises that are outside a vaccination zone or, are not the subject of a vaccination notice, to premises that are within a vaccination zone or the subject of a vaccination notice, provided that—
 
 - (a) it is being transported to a designated packing centre packed in disposable packaging and all biosecurity measures required by the movement licence are applied; or
-- (b) it is being transported to an establishment for the manufacture of egg products as set out in Chapter II of Section X of Annex III to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) to be handled and treated in accordance with Chapter XI of Annex II to Regulation [(EC) No 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852) (as amended by[^key-bf8101aa52afae55a47899fd795ff8d8] [Commission Regulation (EU) No 1020/2008](https://www.legislation.gov.uk/european/regulation/2008/1020)).
+- (b) it is being transported to an establishment for the manufacture of egg products as set out in Chapter II of Section X of Annex III to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) to be handled and treated in accordance with Chapter XI of Annex II to Regulation [(EC) No 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852) (as amended by[^c-bf8101aa52afae55a47899fd795ff8d8] [Commission Regulation (EU) No 1020/2008](https://www.legislation.gov.uk/european/regulation/2008/1020)).
 
 ### PART III — Day-old chicks
 
-**1.**[^key-d8c1e6e0dc1ebb257ddba0de491ccfcc] The movement of any day-old chick from premises that are within a vaccination zone to other premises that are within a vaccination zone provided that it originates from a hatching egg satisfying the conditions set out in Part I paragraph 1(2).
+**1.**[^c-d8c1e6e0dc1ebb257ddba0de491ccfcc] The movement of any day-old chick from premises that are within a vaccination zone to other premises that are within a vaccination zone provided that it originates from a hatching egg satisfying the conditions set out in Part I paragraph 1(2).
 
-**2.**[^key-e2b5bf481f85f40142102ffe85ac1ba8] The movement of any day-old chick from premises that are within a vaccination zone or the subject of a vaccination notice, to premises that are outside a vaccination zone or are not the subject of a vaccination notice, provided that—
+**2.**[^c-e2b5bf481f85f40142102ffe85ac1ba8] The movement of any day-old chick from premises that are within a vaccination zone or the subject of a vaccination notice, to premises that are outside a vaccination zone or are not the subject of a vaccination notice, provided that—
 
 - (a) it has not been vaccinated; and
 - (b) it originates from a hatching egg satisfying the conditions set out in Part I paragraph 1(2) or Part II paragraph 1.
 
-**3.**[^key-d24d3b0fb10e0746f535f35b04b21818] The movement of any day-old chick from premises that are outside a vaccination zone or are not the subject of a vaccination notice, to premises that are within a vaccination zone or the subject of a vaccination notice.
+**3.**[^c-d24d3b0fb10e0746f535f35b04b21818] The movement of any day-old chick from premises that are outside a vaccination zone or are not the subject of a vaccination notice, to premises that are within a vaccination zone or the subject of a vaccination notice.
 
 ### PART IV — Live poultry or other captive birds
 
-**1.**[^key-f9957467dcfdc81fe43348530a4cb136] The movement of any live poultry (except those going for slaughter) or other captive bird from premises that are within a vaccination zone to other premises that are within a vaccination zone provided that—
+**1.**[^c-f9957467dcfdc81fe43348530a4cb136] The movement of any live poultry (except those going for slaughter) or other captive bird from premises that are within a vaccination zone to other premises that are within a vaccination zone provided that—
 
 - (a) it has been vaccinated against avian influenza if vaccination is required at the premises from which it is being moved by a declaration or vaccination notice under regulation 6(1); and
 - (b) it has been clinically examined by an inspector who has not placed it under any restrictions.
 
-**2.**[^key-d816a87c843027f72da5557e9bb7c06b] The movement of any live poultry (except those going for slaughter) or other captive bird from premises that are within a vaccination zone or the subject of a vaccination notice, to premises that are outside a vaccination zone or are not the subject of a vaccination notice, provided that—
+**2.**[^c-d816a87c843027f72da5557e9bb7c06b] The movement of any live poultry (except those going for slaughter) or other captive bird from premises that are within a vaccination zone or the subject of a vaccination notice, to premises that are outside a vaccination zone or are not the subject of a vaccination notice, provided that—
 
 - (a) it has not been vaccinated; and
 - (b) it has been clinically examined by an inspector who has not placed it under any restrictions.
 
-**3.**[^key-147689a84588d6be32cfda978480ccf1] The movement of any live poultry (except those going for slaughter) or other captive bird from premises that are outside a vaccination zone or are not the subject of a vaccination notice, to premises that are within a vaccination zone or the subject of a vaccination notice.
+**3.**[^c-147689a84588d6be32cfda978480ccf1] The movement of any live poultry (except those going for slaughter) or other captive bird from premises that are outside a vaccination zone or are not the subject of a vaccination notice, to premises that are within a vaccination zone or the subject of a vaccination notice.
 
 ### PART V — Vaccinated poultry for slaughter
 
-**1.**[^key-419c28d73b719de4b046eeaf0dade776] (1) Provided that the conditions in sub-paragraph (2) are fulfilled, the movement of any vaccinated poultry for slaughter—
+**1.**[^c-419c28d73b719de4b046eeaf0dade776] (1) Provided that the conditions in sub-paragraph (2) are fulfilled, the movement of any vaccinated poultry for slaughter—
 
 - (a) from premises that are within a vaccination zone to a designated slaughterhouse that is within a vaccination zone; or
 - (b) from premises that are within a vaccination zone, or the subject of a vaccination notice, to a designated slaughterhouse that is outside a vaccination zone.
@@ -437,7 +437,7 @@ Regulation 10
 
 ### PART VI — Unvaccinated poultry for slaughter
 
-**1.**[^key-c8516dbf2be2be244aec59dd63cfa31e] (1) Provided that the conditions in sub-paragraph (2) are fulfilled, the movement of any unvaccinated poultry for slaughter—
+**1.**[^c-c8516dbf2be2be244aec59dd63cfa31e] (1) Provided that the conditions in sub-paragraph (2) are fulfilled, the movement of any unvaccinated poultry for slaughter—
 
 - (a) from premises that are within a vaccination zone to a designated slaughterhouse that is within a vaccination zone; or
 - (b) from premises that are within a vaccination zone, or the subject of a vaccination notice, to a designated slaughterhouse that is outside a vaccination zone.
@@ -447,15 +447,15 @@ Regulation 10
 - (a) the poultry has been clinically examined before loading by an inspector who has not placed it under any restrictions; and
 - (b) it is to be sent directly to a designated slaughterhouse.
 
-**2.**[^key-d947c366d84027c81dd7c26f20a071a5] The movement of any poultry for slaughter from premises that are outside a vaccination zone or, are not the subject of a vaccination notice, to premises that are within a vaccination zone or the subject of a vaccination notice, provided that they are to be sent directly to a designated slaughterhouse.
+**2.**[^c-d947c366d84027c81dd7c26f20a071a5] The movement of any poultry for slaughter from premises that are outside a vaccination zone or, are not the subject of a vaccination notice, to premises that are within a vaccination zone or the subject of a vaccination notice, provided that they are to be sent directly to a designated slaughterhouse.
 
 ### PART VII — Movement of live poultry or other captive birds out of the United Kingdom
 
-**1.**[^key-e13e860d8c18351cd026002e874025f3] The movement of any live poultry or other captive birds out of the United Kingdom from premises that are within a vaccination zone or the subject of a vaccination notice provided that the movement is authorised by the receiving member State.
+**1.**[^c-e13e860d8c18351cd026002e874025f3] The movement of any live poultry or other captive birds out of the United Kingdom from premises that are within a vaccination zone or the subject of a vaccination notice provided that the movement is authorised by the receiving member State.
 
 ### PART VIII — Interpretation
 
-**1.**[^key-083ef322ff27f7a1acf97c33c904d312] In this Schedule, premises that are expressed to be “designated” are those which are deemed to be designated in accordance with regulation 9(6).
+**1.**[^c-083ef322ff27f7a1acf97c33c904d312] In this Schedule, premises that are expressed to be “designated” are those which are deemed to be designated in accordance with regulation 9(6).
 
 EXPLANATORY NOTE
 
@@ -487,9 +487,9 @@ Regulations 15 to 22 relate to provision of information, powers of inspectors, r
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-ba47ffd6737b2d23c2d933ffc484dcb2]: Commencement: Reg. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-ba47ffd6737b2d23c2d933ffc484dcb2]: Commencement: Reg. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-5db937bad8c13b4277aab2599f2257ce]: Commencement: Reg. 2 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-5db937bad8c13b4277aab2599f2257ce]: Commencement: Reg. 2 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
 [^f00003]: Footnote: O.J. No. L 10, 14.1.2006, p. 16
 
@@ -499,90 +499,90 @@ Regulations 15 to 22 relate to provision of information, powers of inspectors, r
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-fe004c1b109237ce8be6778082f3c861]: Commencement: Reg. 3 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-fe004c1b109237ce8be6778082f3c861]: Commencement: Reg. 3 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
 [^f00007]: Footnote: [S.R. 2007 No. 70](https://www.legislation.gov.uk/nisr/2007/70)
 
-[^key-14a85e9945f51f0a9fc7b57025d574f8]: Commencement: Reg. 4 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-14a85e9945f51f0a9fc7b57025d574f8]: Commencement: Reg. 4 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-6f1515dfe3bae5cd2b2ff50e3ca961ee]: Commencement: Reg. 5 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-6f1515dfe3bae5cd2b2ff50e3ca961ee]: Commencement: Reg. 5 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
 [^f00008]: Footnote: [S.R. 1999 No. 434](https://www.legislation.gov.uk/nisr/1999/434)
 
 [^f00009]: Footnote: [S.I. 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407)
 
-[^key-2ace73b17cc4f2c20cf34cf770c5c983]: Commencement: Reg. 6 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-2ace73b17cc4f2c20cf34cf770c5c983]: Commencement: Reg. 6 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-403bc9ecc8304d0f9f6c804b03a75afa]: Commencement: Reg. 7 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-403bc9ecc8304d0f9f6c804b03a75afa]: Commencement: Reg. 7 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-eec15254cd8b44aea2163be3fa3a8aa6]: Commencement: Reg. 8 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-eec15254cd8b44aea2163be3fa3a8aa6]: Commencement: Reg. 8 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-88acac2d3ee2497b6247d3d04e2b8ab0]: Commencement: Reg. 9 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-88acac2d3ee2497b6247d3d04e2b8ab0]: Commencement: Reg. 9 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
 [^f00010]: Footnote: [S.R. 2007 No. 68](https://www.legislation.gov.uk/nisr/2007/68)
 
-[^key-1749f3f973616d0f1395998702bacf97]: Commencement: Reg. 10 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-1749f3f973616d0f1395998702bacf97]: Commencement: Reg. 10 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-6ad9150a03c85d65ebc1cd1d103f113b]: Commencement: Reg. 11 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-6ad9150a03c85d65ebc1cd1d103f113b]: Commencement: Reg. 11 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-6e5a284a61b8004e27c2fcf15abf4a10]: Commencement: Reg. 12 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-6e5a284a61b8004e27c2fcf15abf4a10]: Commencement: Reg. 12 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
 [^f00011]: Footnote: [S.R. 1989 No. 5](https://www.legislation.gov.uk/nisr/1989/5)
 
-[^key-a87b5a3e0c0d56c41a57ca0dbb4fe9c8]: Commencement: Reg. 13 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-a87b5a3e0c0d56c41a57ca0dbb4fe9c8]: Commencement: Reg. 13 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-b0a29af325e94396276f898bff910f3e]: Commencement: Reg. 14 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-b0a29af325e94396276f898bff910f3e]: Commencement: Reg. 14 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-bb85c8320f39e7b98008f5c09cc2d537]: Commencement: Reg. 15 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-bb85c8320f39e7b98008f5c09cc2d537]: Commencement: Reg. 15 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-559a9c6f410d6b4241b4bc36e20987a9]: Commencement: Reg. 16 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-559a9c6f410d6b4241b4bc36e20987a9]: Commencement: Reg. 16 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-ba8048b6333a38b2a16f9a96b2e0e68c]: Commencement: Reg. 17 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-ba8048b6333a38b2a16f9a96b2e0e68c]: Commencement: Reg. 17 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-f6879793d738d9a0434ac5acb3731dc3]: Commencement: Reg. 18 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-f6879793d738d9a0434ac5acb3731dc3]: Commencement: Reg. 18 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-1b049e80a294def0be57f4cdc08d00b2]: Commencement: Reg. 19 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-1b049e80a294def0be57f4cdc08d00b2]: Commencement: Reg. 19 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-e1252039ebecbe3adc6e99479416f023]: Commencement: Reg. 20 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-e1252039ebecbe3adc6e99479416f023]: Commencement: Reg. 20 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-271a9c80a42befe67ddc7fdd316b72ad]: Commencement: Reg. 21 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-271a9c80a42befe67ddc7fdd316b72ad]: Commencement: Reg. 21 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-e2db91037c411db3f3ca78a813824193]: Commencement: Reg. 22 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-e2db91037c411db3f3ca78a813824193]: Commencement: Reg. 22 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-dc9568badf27c3562736062676524b44]: Textual amendment: Words in [reg. 22(1)(d)](https://www.legislation.gov.uk/nisr/2007/69/regulation/22/1/d) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [9](https://www.legislation.gov.uk/nisr/2020/324/regulation/9)
+[^c-dc9568badf27c3562736062676524b44]: Textual amendment: Words in [reg. 22(1)(d)](https://www.legislation.gov.uk/nisr/2007/69/regulation/22/1/d) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [9](https://www.legislation.gov.uk/nisr/2020/324/regulation/9)
 
-[^key-3861622d965c947a106c7441455a3a86]: Commencement: Sch. Pt. 1 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-3861622d965c947a106c7441455a3a86]: Commencement: Sch. Pt. 1 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-c3cc709118989df0e6a207176d990427]: Commencement: Sch. Pt. 2 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-c3cc709118989df0e6a207176d990427]: Commencement: Sch. Pt. 2 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
 [^f00012]: Footnote: O.J. No. L 139, 30.4.2004, p. 55. The revised text of Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) is now set out in a Corrigendum (O.J. No. L226, 25.6.2004, p.22)
 
-[^key-65bcd357ede4e0c6459d70b8dfcd7a19]: Textual amendment: Words in [Sch. Pt. 2 para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2007/69/schedule/part/II/paragraph/1/2/b) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 13(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/13/a)
+[^c-65bcd357ede4e0c6459d70b8dfcd7a19]: Textual amendment: Words in [Sch. Pt. 2 para. 1(2)(b)](https://www.legislation.gov.uk/nisr/2007/69/schedule/part/II/paragraph/1/2/b) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 13(a)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/13/a)
 
 [^f00013]: Footnote: O.J. No. L 139, 30.4.2004, p. 1. The revised text of Regulation [(EC) No. 852/2004](https://www.legislation.gov.uk/european/regulation/2004/0852) is now set out in a Corrigendum (O.J. No. L226, 25.6.2004, p.3)
 
-[^key-072ecc9af0a514a2851874fe6a6066d8]: Commencement: Sch. Pt. 2 para. 2 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-072ecc9af0a514a2851874fe6a6066d8]: Commencement: Sch. Pt. 2 para. 2 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-bf8101aa52afae55a47899fd795ff8d8]: Textual amendment: Words in [Sch. Pt. 2 para. 2(b)](https://www.legislation.gov.uk/nisr/2007/69/schedule/part/II/paragraph/2/b) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 13(b)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/13/b)
+[^c-bf8101aa52afae55a47899fd795ff8d8]: Textual amendment: Words in [Sch. Pt. 2 para. 2(b)](https://www.legislation.gov.uk/nisr/2007/69/schedule/part/II/paragraph/2/b) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 13(b)](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/13/b)
 
-[^key-d8c1e6e0dc1ebb257ddba0de491ccfcc]: Commencement: Sch. Pt. 3 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-d8c1e6e0dc1ebb257ddba0de491ccfcc]: Commencement: Sch. Pt. 3 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-e2b5bf481f85f40142102ffe85ac1ba8]: Commencement: Sch. Pt. 3 para. 2 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-e2b5bf481f85f40142102ffe85ac1ba8]: Commencement: Sch. Pt. 3 para. 2 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-d24d3b0fb10e0746f535f35b04b21818]: Commencement: Sch. Pt. 3 para. 3 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-d24d3b0fb10e0746f535f35b04b21818]: Commencement: Sch. Pt. 3 para. 3 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-f9957467dcfdc81fe43348530a4cb136]: Commencement: Sch. Pt. 4 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-f9957467dcfdc81fe43348530a4cb136]: Commencement: Sch. Pt. 4 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-d816a87c843027f72da5557e9bb7c06b]: Commencement: Sch. Pt. 4 para. 2 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-d816a87c843027f72da5557e9bb7c06b]: Commencement: Sch. Pt. 4 para. 2 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-147689a84588d6be32cfda978480ccf1]: Commencement: Sch. Pt. 4 para. 3 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-147689a84588d6be32cfda978480ccf1]: Commencement: Sch. Pt. 4 para. 3 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-419c28d73b719de4b046eeaf0dade776]: Commencement: Sch. Pt. 5 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-419c28d73b719de4b046eeaf0dade776]: Commencement: Sch. Pt. 5 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-c8516dbf2be2be244aec59dd63cfa31e]: Commencement: Sch. Pt. 6 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-c8516dbf2be2be244aec59dd63cfa31e]: Commencement: Sch. Pt. 6 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-d947c366d84027c81dd7c26f20a071a5]: Commencement: Sch. Pt. 6 para. 2 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-d947c366d84027c81dd7c26f20a071a5]: Commencement: Sch. Pt. 6 para. 2 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-e13e860d8c18351cd026002e874025f3]: Commencement: Sch. Pt. 7 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-e13e860d8c18351cd026002e874025f3]: Commencement: Sch. Pt. 7 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
 
-[^key-083ef322ff27f7a1acf97c33c904d312]: Commencement: Sch. Pt. 8 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)
+[^c-083ef322ff27f7a1acf97c33c904d312]: Commencement: Sch. Pt. 8 para. 1 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/69/regulation/1)

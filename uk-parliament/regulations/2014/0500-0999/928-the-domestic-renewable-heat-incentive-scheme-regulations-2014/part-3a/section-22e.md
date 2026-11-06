@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22E. Nomination of an RI[^key-63745a543884765fe16a1c6733a43227]
+## 22E. Nomination of an RI[^c-63745a543884765fe16a1c6733a43227]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ the RI is nominated by the applicant in respect of the plant for which the accre
 
 ## Annotations
 
-[^key-63745a543884765fe16a1c6733a43227]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2014/928/part/3A) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/610/regulation/10)
+[^c-63745a543884765fe16a1c6733a43227]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2014/928/part/3A) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/610/regulation/10)

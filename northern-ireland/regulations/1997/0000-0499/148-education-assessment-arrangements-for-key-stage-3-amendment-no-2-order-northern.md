@@ -38,13 +38,13 @@ Coming into operation in accordance with Article 1
 
 The Department of Education, in exercise of the powers conferred on it by Article 7(1)(*b*), (2)(*a*)(ii) and (6) of the Education Reform (Northern Ireland) Order 1989[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-acdc42e3f4c02ce029bd996380bd5f67]
+## 1. Citation and commencement[^c-acdc42e3f4c02ce029bd996380bd5f67]
 
 (1) This Order may be cited as the Education (Assessment Arrangements for Key Stage 3) (Amendment No. 2) Order (Northern Ireland) 1997 and, subject to paragraph (2), shall come into operation on 11th April 1997.
 
 (2) This Order shall not take effect until 1st August 1997 insofar as it applies to pupils who are in an Irish speaking school.
 
-## 2. Amendment of the Education (Assessment Arrangements for Key Stage 3) Order (Northern Ireland) 1996[^key-c3fd4efb22ee0250b5ed704a7d59b687]
+## 2. Amendment of the Education (Assessment Arrangements for Key Stage 3) Order (Northern Ireland) 1996[^c-c3fd4efb22ee0250b5ed704a7d59b687]
 
 In the Education (Assessment Arrangements for Key Stage 3) Order (Northern Ireland) 1996[^f00002] Article 3 (Interpretation) shall be amended as follows—
 
@@ -69,8 +69,8 @@ Article 2 corrects errors in the definitions of “attainment targets” and “
 
 [^f00001]: Footnote: S.I. [1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406); Article 7(2) was amended by S.I. [1996/274 (N.I. 1)](https://www.legislation.gov.uk/nisi/1996/274) Article 35(2)
 
-[^key-acdc42e3f4c02ce029bd996380bd5f67]: Commencement: Art. 1 in operation at 11.4.1997 with effect in accordance with art. 1(2)
+[^c-acdc42e3f4c02ce029bd996380bd5f67]: Commencement: Art. 1 in operation at 11.4.1997 with effect in accordance with art. 1(2)
 
-[^key-c3fd4efb22ee0250b5ed704a7d59b687]: Commencement: Art. 2 in operation at 11.4.1997 with effect in accordance with art. 1(2)
+[^c-c3fd4efb22ee0250b5ed704a7d59b687]: Commencement: Art. 2 in operation at 11.4.1997 with effect in accordance with art. 1(2)
 
 [^f00002]: Footnote: [S.R. 1996 No. 364](https://www.legislation.gov.uk/nisr/1996/364) as amended by [S.R. 1997 No. 24](https://www.legislation.gov.uk/nisr/1997/24)

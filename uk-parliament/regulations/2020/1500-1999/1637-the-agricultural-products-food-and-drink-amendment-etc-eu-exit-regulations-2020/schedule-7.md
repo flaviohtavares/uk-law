@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 24
 
-### PART 1 — Annex 6, Part 2, Section A: new template for the wine export certificate referred to in Article 12(1)(b)[^key-bf513cc735ea954a8f2eae441170b8f0]
+### PART 1 — Annex 6, Part 2, Section A: new template for the wine export certificate referred to in Article 12(1)(b)[^c-bf513cc735ea954a8f2eae441170b8f0]
 
 > [image: see source](https://www.legislation.gov.uk/uksi/2020/1637/images/uksi_20201637_en_sld_007)
 >
@@ -30,7 +30,7 @@ Regulation 24
 >
 > [image: see source](https://www.legislation.gov.uk/uksi/2020/1637/images/uksi_20201637_en_sld_009)
 
-### PART 2 — Annex 7: new Parts 1 and 2[^key-4372a6161a7a9810128807fafb53fda9]
+### PART 2 — Annex 7: new Parts 1 and 2[^c-4372a6161a7a9810128807fafb53fda9]
 
 > **PART 1 — Specimen of the VI-1 document referred to in Article 22**
 >
@@ -50,6 +50,6 @@ Regulation 24
 
 ## Annotations
 
-[^key-bf513cc735ea954a8f2eae441170b8f0]: Commencement: Sch. 7 Pt. 1 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-bf513cc735ea954a8f2eae441170b8f0]: Commencement: Sch. 7 Pt. 1 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
 
-[^key-4372a6161a7a9810128807fafb53fda9]: Commencement: Sch. 7 Pt. 2 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-4372a6161a7a9810128807fafb53fda9]: Commencement: Sch. 7 Pt. 2 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)

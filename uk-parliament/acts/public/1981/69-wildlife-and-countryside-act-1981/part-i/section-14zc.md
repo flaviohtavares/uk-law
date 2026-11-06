@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14ZC. Prohibition on keeping etc. of invasive animals or plants[^key-4a435c8f34cb5868d77ba3829ac4c71b]
+## 14ZC. Prohibition on keeping etc. of invasive animals or plants[^c-4a435c8f34cb5868d77ba3829ac4c71b]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-4a435c8f34cb5868d77ba3829ac4c71b]: Textual amendment: S. 14ZC inserted (S.) (1.5.2012 for specified purposes, 2.7.2012 in so far as not already in force) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 14(3)](https://www.legislation.gov.uk/asp/2011/6/section/14/3), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/116](https://www.legislation.gov.uk/ssi/2012/116), [art. 2(a)(ii)](https://www.legislation.gov.uk/ssi/2012/116/article/2/a/ii); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/a) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2012/175/article/3/3))
+[^c-4a435c8f34cb5868d77ba3829ac4c71b]: Textual amendment: S. 14ZC inserted (S.) (1.5.2012 for specified purposes, 2.7.2012 in so far as not already in force) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 14(3)](https://www.legislation.gov.uk/asp/2011/6/section/14/3), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2012/116](https://www.legislation.gov.uk/ssi/2012/116), [art. 2(a)(ii)](https://www.legislation.gov.uk/ssi/2012/116/article/2/a/ii); [S.S.I. 2012/175](https://www.legislation.gov.uk/ssi/2012/175), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2012/175/article/2/1/a) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2012/175/article/3/3))

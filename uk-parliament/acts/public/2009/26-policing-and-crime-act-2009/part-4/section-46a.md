@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46A. Breach of injunction: supplementary powers in respect of under-18s[^key-aff34190f5b71bf9b2fa004b96a00e1f]
+## 46A. Breach of injunction: supplementary powers in respect of under-18s[^c-aff34190f5b71bf9b2fa004b96a00e1f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 5A (which makes provision about the powers of the court in relation to 
 
 ## Annotations
 
-[^key-aff34190f5b71bf9b2fa004b96a00e1f]: Textual amendment: S. 46A inserted (E.W.) (9.1.2012) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2010/17/section/39/2), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/3016](https://www.legislation.gov.uk/uksi/2011/3016), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/3016/article/2/d)
+[^c-aff34190f5b71bf9b2fa004b96a00e1f]: Textual amendment: S. 46A inserted (E.W.) (9.1.2012) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2010/17/section/39/2), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/3016](https://www.legislation.gov.uk/uksi/2011/3016), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/3016/article/2/d)

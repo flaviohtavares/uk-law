@@ -30,7 +30,7 @@ summary: ''
 
 CUSTOMS AND EXCISE
 
-The Customs Controls on Importation of Goods Regulations 1991 (revoked)[^key-6a880c884c94d3adc3baf3f24634035e]
+The Customs Controls on Importation of Goods Regulations 1991 (revoked)[^c-6a880c884c94d3adc3baf3f24634035e]
 
 MadeMade
 
@@ -44,80 +44,80 @@ Coming into force
 
 1st January 1992
 
-[^key-6a880c884c94d3adc3baf3f24634035e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a880c884c94d3adc3baf3f24634035e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6a880c884c94d3adc3baf3f24634035e]
+## 1. Citation and commencement[^c-6a880c884c94d3adc3baf3f24634035e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6a880c884c94d3adc3baf3f24634035e]
+## 2. Interpretation[^c-6a880c884c94d3adc3baf3f24634035e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Presentation[^key-6a880c884c94d3adc3baf3f24634035e]
+## 3. Presentation[^c-6a880c884c94d3adc3baf3f24634035e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Summary declaration[^key-6a880c884c94d3adc3baf3f24634035e]
+## 4. Summary declaration[^c-6a880c884c94d3adc3baf3f24634035e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Entry[^key-6a880c884c94d3adc3baf3f24634035e]
+## 5. Entry[^c-6a880c884c94d3adc3baf3f24634035e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Customs and Excise Management Act 1979[^key-6a880c884c94d3adc3baf3f24634035e]
+## 6. Amendment of the Customs and Excise Management Act 1979[^c-6a880c884c94d3adc3baf3f24634035e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Provisions of statutory instruments disapplied to certain goods[^key-6a880c884c94d3adc3baf3f24634035e]
+## 7. Provisions of statutory instruments disapplied to certain goods[^c-6a880c884c94d3adc3baf3f24634035e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Offences, penalty and forfeiture[^key-6a880c884c94d3adc3baf3f24634035e]
+## 8. Offences, penalty and forfeiture[^c-6a880c884c94d3adc3baf3f24634035e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Repeal[^key-6a880c884c94d3adc3baf3f24634035e]
+## 9. Repeal[^c-6a880c884c94d3adc3baf3f24634035e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Supplementary[^key-6a880c884c94d3adc3baf3f24634035e]
+## 10. Supplementary[^c-6a880c884c94d3adc3baf3f24634035e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6a880c884c94d3adc3baf3f24634035e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a880c884c94d3adc3baf3f24634035e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — FORM OF PRESENTATION[^key-6a880c884c94d3adc3baf3f24634035e]
+## SCHEDULE 1 — FORM OF PRESENTATION[^c-6a880c884c94d3adc3baf3f24634035e]
 
 Regulation 3(1)
 
 [image: see source](https://www.legislation.gov.uk/uksi/1991/2724/images/uksi_19912724_en_001)
 
-## SCHEDULE 2 — FORM OF SUMMARY DECLARATION[^key-6a880c884c94d3adc3baf3f24634035e]
+## SCHEDULE 2 — FORM OF SUMMARY DECLARATION[^c-6a880c884c94d3adc3baf3f24634035e]
 
 Regulation 4
 
 [image: see source](https://www.legislation.gov.uk/uksi/1991/2724/images/uksi_19912724_en_002)
 
-## SCHEDULE 3 — DISAPPLICATION OF ENACTMENTS TO GOODS FROM OUTSIDE EC[^key-6a880c884c94d3adc3baf3f24634035e]
+## SCHEDULE 3 — DISAPPLICATION OF ENACTMENTS TO GOODS FROM OUTSIDE EC[^c-6a880c884c94d3adc3baf3f24634035e]
 
 Regulation 7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — OFFENCES[^key-6a880c884c94d3adc3baf3f24634035e]
+## SCHEDULE 4 — OFFENCES[^c-6a880c884c94d3adc3baf3f24634035e]
 
 Regulation 8
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6a880c884c94d3adc3baf3f24634035e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a880c884c94d3adc3baf3f24634035e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6a880c884c94d3adc3baf3f24634035e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1991/2724) revoked (31.12.2020) by [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2018/1247/regulation/6); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-6a880c884c94d3adc3baf3f24634035e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1991/2724) revoked (31.12.2020) by [The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1247)](https://www.legislation.gov.uk/uksi/2018/1247), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1247/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2018/1247/regulation/6); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

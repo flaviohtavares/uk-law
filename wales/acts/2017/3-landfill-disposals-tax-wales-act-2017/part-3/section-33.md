@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Power to modify reliefs[^key-af5260c64669062d21f86000c67f12f5]
+## 33. Power to modify reliefs[^c-af5260c64669062d21f86000c67f12f5]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af5260c64669062d21f86000c67f12f5]: Commencement: [S. 33](https://www.legislation.gov.uk/anaw/2017/3/section/33) in force at 18.10.2017 by [S.I. 2017/955](https://www.legislation.gov.uk/wsi/2017/955), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/955/article/2/c)
+[^c-af5260c64669062d21f86000c67f12f5]: Commencement: [S. 33](https://www.legislation.gov.uk/anaw/2017/3/section/33) in force at 18.10.2017 by [S.I. 2017/955](https://www.legislation.gov.uk/wsi/2017/955), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/955/article/2/c)

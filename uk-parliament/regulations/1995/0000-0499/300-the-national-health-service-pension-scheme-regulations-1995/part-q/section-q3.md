@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Q3. Electing to buy additional service or unreduced retirement lump sum[^key-27be4c146d53c41c7bc63aa6995ec596][^key-aa2a412986ca69692abb9558e0be1fe9]
+## Q3. Electing to buy additional service or unreduced retirement lump sum[^c-27be4c146d53c41c7bc63aa6995ec596][^c-aa2a412986ca69692abb9558e0be1fe9]
 
 *Extent: E+W+S*
 
-[^key-aa2a412986ca69692abb9558e0be1fe9]
+[^c-aa2a412986ca69692abb9558e0be1fe9]
 
 (1) A member electing to buy additional service or unreduced retirement lump sum shall do so by giving notice in writing to the employing authority on the form provided, giving such information as may be required.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-27be4c146d53c41c7bc63aa6995ec596]: Modification: [Regs. Q1-Q6](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q1) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [22(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/22/2/a)
+[^c-27be4c146d53c41c7bc63aa6995ec596]: Modification: [Regs. Q1-Q6](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q1) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [22(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/22/2/a)
 
-[^key-aa2a412986ca69692abb9558e0be1fe9]: Modification: [Pt. Q](https://www.legislation.gov.uk/uksi/1995/300/part/Q) restricted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(8)(c)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/8/c)
+[^c-aa2a412986ca69692abb9558e0be1fe9]: Modification: [Pt. Q](https://www.legislation.gov.uk/uksi/1995/300/part/Q) restricted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(8)(c)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/8/c)

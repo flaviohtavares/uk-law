@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where under Articles 4 to 8[^key-6fe1da2aa035de1d539b3af0d0d8a6b9] the Department imposes restrictions or prohibitions on the use of any road, the Department shall place or cause to be placed on or near the road such traffic signs as are necessary—
+(1) Where under Articles 4 to 8[^c-6fe1da2aa035de1d539b3af0d0d8a6b9] the Department imposes restrictions or prohibitions on the use of any road, the Department shall place or cause to be placed on or near the road such traffic signs as are necessary—
 
 - (a) to warn traffic that the use of the road is subject to those restrictions or prohibitions; and
 - (b) to indicate the nature and extent of those restrictions or prohibitions.
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fe1da2aa035de1d539b3af0d0d8a6b9]: Textual amendment: Words in art. 9(1)(2)(3) substituted (4.9.2017) by [Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 14)](https://www.legislation.gov.uk/nia/2010/14), [s. 9(2)(c)](https://www.legislation.gov.uk/nia/2010/14/section/9/2/c), [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/6/1); [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
+[^c-6fe1da2aa035de1d539b3af0d0d8a6b9]: Textual amendment: Words in art. 9(1)(2)(3) substituted (4.9.2017) by [Roads (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 14)](https://www.legislation.gov.uk/nia/2010/14), [s. 9(2)(c)](https://www.legislation.gov.uk/nia/2010/14/section/9/2/c), [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/6/1); [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)

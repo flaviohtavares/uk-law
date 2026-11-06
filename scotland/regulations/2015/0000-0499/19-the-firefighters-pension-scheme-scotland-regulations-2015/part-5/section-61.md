@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Early payment reduction[^key-fcb48d7c987e827f09e27c24011587ff]
+## 61. Early payment reduction[^c-fcb48d7c987e827f09e27c24011587ff]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcb48d7c987e827f09e27c24011587ff]: Commencement: [Reg. 61](https://www.legislation.gov.uk/ssi/2015/19/regulation/61) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-fcb48d7c987e827f09e27c24011587ff]: Commencement: [Reg. 61](https://www.legislation.gov.uk/ssi/2015/19/regulation/61) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

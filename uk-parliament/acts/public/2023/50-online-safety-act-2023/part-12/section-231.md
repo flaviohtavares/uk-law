@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231. “Proactive technology”[^key-66b80530e2882e780621becc43f27e0a]
+## 231. “Proactive technology”[^c-66b80530e2882e780621becc43f27e0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ to assess a user’s online behaviour or patterns of online behaviour (for examp
 
 ## Annotations
 
-[^key-66b80530e2882e780621becc43f27e0a]: Commencement: S. 231 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
+[^c-66b80530e2882e780621becc43f27e0a]: Commencement: S. 231 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)

@@ -57,7 +57,7 @@ An Act to confer powers on water authorities, electricity boards and the Electri
 
 (4) The powers conferred by this section in relation to any proposal shall be exercisable whether or not Parliament has given any approval on which the implementation of the proposal depends and shall be without prejudice to any power conferred otherwise than by virtue of this section.
 
-(5) For the purposes of this section a body corporate is a member of the same group as another body corporate if it is a holding company or subsidiary of that other body corporate or if it is another subsidiary of that other body corporate’s holding company; and in this subsection “ **holding company** ” and “ **subsidiary** ” have the same meanings as in the the Companies Acts (see section 1159 of the Companies Act 2006)[^key-b85ac94abd8347481df5653e08e0d244].
+(5) For the purposes of this section a body corporate is a member of the same group as another body corporate if it is a holding company or subsidiary of that other body corporate or if it is another subsidiary of that other body corporate’s holding company; and in this subsection “ **holding company** ” and “ **subsidiary** ” have the same meanings as in the the Companies Acts (see section 1159 of the Companies Act 2006)[^c-b85ac94abd8347481df5653e08e0d244].
 
 (6) References in this section to a body corporate shall include references to a body corporate which has not been established or formed but which may be established or formed in pursuance of a proposal of the Secretary of State.
 
@@ -110,7 +110,7 @@ SCHEDULES
 
 [^c1016764]: Modification: S. 1 repealed (so far as relating to electricity boards within the meaning of that section) by [Electricity Act 1989 (c.29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/4), [Sch. 18](https://www.legislation.gov.uk/ukpga/1989/29/schedule/18) (with [s. 112(3)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3), [Sch. 17 para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1))
 
-[^key-b85ac94abd8347481df5653e08e0d244]: Textual amendment: Words in s. 1(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 94](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/94) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-b85ac94abd8347481df5653e08e0d244]: Textual amendment: Words in s. 1(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 94](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/94) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c1016766]: Marginal citation: [1947 c. 54](https://www.legislation.gov.uk/ukpga/1947/54).
 

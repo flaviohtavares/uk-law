@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Retention of knives surrendered or seized (England and Wales)[^key-e06eb908a8ea53e532538ee9d936df9d]
+## 146. Retention of knives surrendered or seized (England and Wales)[^c-e06eb908a8ea53e532538ee9d936df9d]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e06eb908a8ea53e532538ee9d936df9d]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2009/25/section/146) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/9)
+[^c-e06eb908a8ea53e532538ee9d936df9d]: Commencement: [S. 146](https://www.legislation.gov.uk/ukpga/2009/25/section/146) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/9)

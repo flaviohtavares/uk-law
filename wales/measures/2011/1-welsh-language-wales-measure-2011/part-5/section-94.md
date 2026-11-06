@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Notification if no investigation etc[^key-82414262184eac01a156f017e22b54d7]
+## 94. Notification if no investigation etc[^c-82414262184eac01a156f017e22b54d7]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82414262184eac01a156f017e22b54d7]: Commencement: [S. 94](https://www.legislation.gov.uk/mwa/2011/1/section/94) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-82414262184eac01a156f017e22b54d7]: Commencement: [S. 94](https://www.legislation.gov.uk/mwa/2011/1/section/94) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

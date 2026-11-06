@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2A. Meaning of the Waste Directive[^key-f959a3846eb46f04a9ed0edf48a1ad12]
+## 2A. Meaning of the Waste Directive[^c-f959a3846eb46f04a9ed0edf48a1ad12]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) Article 2 is to be read as if—
 
 - (a) in paragraph 2—
-  - (i) in the words before point (a), for “other Community legislation” there were substituted “ assimilated[^key-b39175794bf7f216b4057f1d20ee6731] law ”;
+  - (i) in the words before point (a), for “other Community legislation” there were substituted “ assimilated[^c-b39175794bf7f216b4057f1d20ee6731] law ”;
   - (ii) in points (b) and (c), for “Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/eur/2002/1774)” there were substituted “ Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) ”;
   - (iii) in point (d), for the words from “Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21)” to the end there substituted “ the Mining Waste Directive ”;
 - (b) in paragraph 3, the words from “Without prejudice” to “Community legislation,” were omitted;
@@ -53,7 +53,7 @@ summary: ''
 
   > **1A.** Any decision as to whether a substance or object has ceased to be waste, must be made—
   >
-  > - (a) in accordance with any regulations or assimilated direct[^key-3713a8bcbe478483a6d88da7a234b84e] legislation (within the meaning given to that expression in the European Union (Withdrawal) Act 2018) setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  > - (a) in accordance with any regulations or assimilated direct[^c-3713a8bcbe478483a6d88da7a234b84e] legislation (within the meaning given to that expression in the European Union (Withdrawal) Act 2018) setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
   > - (b) having regard to any guidance published by the Welsh Ministers or the Natural Resources Body for Wales for the purposes of this Article.
 
   ;
@@ -91,8 +91,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f959a3846eb46f04a9ed0edf48a1ad12]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/wsi/2005/1806/regulation/2A), [2B](https://www.legislation.gov.uk/wsi/2005/1806/regulation/2B) inserted (31.12.2020) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/uksi/2019/414), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/414/regulation/1/2/b), [8(3)](https://www.legislation.gov.uk/uksi/2019/414/regulation/8/3) (as amended by [S.I. 2020/1339](https://www.legislation.gov.uk/uksi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1339/regulation/1/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1339/regulation/2/4/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f959a3846eb46f04a9ed0edf48a1ad12]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/wsi/2005/1806/regulation/2A), [2B](https://www.legislation.gov.uk/wsi/2005/1806/regulation/2B) inserted (31.12.2020) by [The Waste (Wales) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/414)](https://www.legislation.gov.uk/uksi/2019/414), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/414/regulation/1/2/b), [8(3)](https://www.legislation.gov.uk/uksi/2019/414/regulation/8/3) (as amended by [S.I. 2020/1339](https://www.legislation.gov.uk/uksi/2020/1339), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1339/regulation/1/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1339/regulation/2/4/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b39175794bf7f216b4057f1d20ee6731]: Textual amendment: Word in [reg. 2A(3)(a)(i)](https://www.legislation.gov.uk/wsi/2005/1806/regulation/2A/3/a/i) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [8(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/8/a)
+[^c-b39175794bf7f216b4057f1d20ee6731]: Textual amendment: Word in [reg. 2A(3)(a)(i)](https://www.legislation.gov.uk/wsi/2005/1806/regulation/2A/3/a/i) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [8(a)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/8/a)
 
-[^key-3713a8bcbe478483a6d88da7a234b84e]: Textual amendment: Words in [reg. 2A(6)(b)](https://www.legislation.gov.uk/wsi/2005/1806/regulation/2A/6/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [8(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/8/b)
+[^c-3713a8bcbe478483a6d88da7a234b84e]: Textual amendment: Words in [reg. 2A(6)(b)](https://www.legislation.gov.uk/wsi/2005/1806/regulation/2A/6/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [8(b)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/8/b)

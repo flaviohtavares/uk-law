@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Sale and delivery of crossbows: Northern Ireland: supplementary provision[^key-bc2ed5a6016fb5cd94518c1780e72c67]
+## 41. Sale and delivery of crossbows: Northern Ireland: supplementary provision[^c-bc2ed5a6016fb5cd94518c1780e72c67]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc2ed5a6016fb5cd94518c1780e72c67]: Commencement: S. 41 not in force at Royal Assent, see [s. 255(1)(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8)(c)
+[^c-bc2ed5a6016fb5cd94518c1780e72c67]: Commencement: S. 41 not in force at Royal Assent, see [s. 255(1)(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8)(c)

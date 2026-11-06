@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Amendment of section 38[^key-8d3a7c390244987c5d677f9f803aa623]
+## 35. Amendment of section 38[^c-8d3a7c390244987c5d677f9f803aa623]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ In section 38 (prohibition on practice of dentistry by laymen), in subsection (1
 
 ## Annotations
 
-[^key-8d3a7c390244987c5d677f9f803aa623]: Commencement: Art. 35 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-8d3a7c390244987c5d677f9f803aa623]: Commencement: Art. 35 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00009]: Footnote: Subsection (1) was amended by S.I. [1996/1496](https://www.legislation.gov.uk/uksi/1996/1496).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89A. Transparent reporting funds[^key-a4663699366052dd724eb0195138d783]
+## 89A. Transparent reporting funds[^c-a4663699366052dd724eb0195138d783]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4663699366052dd724eb0195138d783]: Textual amendment: Pt. 3 Ch. 6A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2011/1211/regulation/24)
+[^c-a4663699366052dd724eb0195138d783]: Textual amendment: Pt. 3 Ch. 6A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2011/1211/regulation/24)

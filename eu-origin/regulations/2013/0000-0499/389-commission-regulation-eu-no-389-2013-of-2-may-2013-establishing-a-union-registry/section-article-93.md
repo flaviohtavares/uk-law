@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 93. Authentication of the Union Registry and national KP registries[^key-4b822bc0bfa7d84763e19f8c94927777]
+## Article 93. Authentication of the Union Registry and national KP registries[^c-4b822bc0bfa7d84763e19f8c94927777]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b822bc0bfa7d84763e19f8c94927777]: Textual amendment: [Art. 93](https://www.legislation.gov.uk/eur/2013/389/article/93) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/4)
+[^c-4b822bc0bfa7d84763e19f8c94927777]: Textual amendment: [Art. 93](https://www.legislation.gov.uk/eur/2013/389/article/93) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/4)

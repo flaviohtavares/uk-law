@@ -53,7 +53,7 @@ In this Act—
 - “**pensionable earnings**”, in relation to a pension scheme and a member of it, means earnings by reference to which a pension or other benefits under the scheme are calculated;
 - “**pensionable service**”, in relation to a pension scheme, means service which qualifies a person to a pension or other benefits under that scheme;
 - “**primary legislation**” means Northern Ireland legislation or any provision of an Act of Parliament of the United Kingdom that would be within the legislative competence of the Assembly were that provision contained in an Act of the Assembly;
-- “[^key-6ae8160be059f3d1ada1e7e3e72c75b5]**PSPJOA 2022**” means the Public Service Pensions and Judicial Offices Act 2022;
+- “[^c-6ae8160be059f3d1ada1e7e3e72c75b5]**PSPJOA 2022**” means the Public Service Pensions and Judicial Offices Act 2022;
 - “**public authority**” means—
   - (a) a statutory body or the holder of a statutory office, or
   - (b) a person exercising a statutory function;
@@ -71,12 +71,12 @@ In this Act—
 - “**statutory pension scheme**” means—
   - (a) a pension scheme which is established by or under any legislation, and
   - (b) a public body pension scheme which is not so established;
-- “[^key-c45f3903a2d6e40b33223b7e21af20c0]**statutory provision**” has the meaning given in section 1(f) of the Interpretation Act (Northern Ireland) 1954;
+- “[^c-c45f3903a2d6e40b33223b7e21af20c0]**statutory provision**” has the meaning given in section 1(f) of the Interpretation Act (Northern Ireland) 1954;
 - “**the Superannuation Order**” means the Superannuation (Northern Ireland) Order 1972;
 - “**teachers**” has the meaning given in Schedule 1.
 
 ## Annotations
 
-[^key-6ae8160be059f3d1ada1e7e3e72c75b5]: Textual amendment: Words in [s. 34](https://www.legislation.gov.uk/nia/2014/2/section/34) inserted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in operation) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 94(18)](https://www.legislation.gov.uk/ukpga/2022/7/section/94/18), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-6ae8160be059f3d1ada1e7e3e72c75b5]: Textual amendment: Words in [s. 34](https://www.legislation.gov.uk/nia/2014/2/section/34) inserted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in operation) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 94(18)](https://www.legislation.gov.uk/ukpga/2022/7/section/94/18), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
 
-[^key-c45f3903a2d6e40b33223b7e21af20c0]: Textual amendment: Words in [s. 34](https://www.legislation.gov.uk/nia/2014/2/section/34) inserted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in operation) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 95(15)](https://www.legislation.gov.uk/ukpga/2022/7/section/95/15), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-c45f3903a2d6e40b33223b7e21af20c0]: Textual amendment: Words in [s. 34](https://www.legislation.gov.uk/nia/2014/2/section/34) inserted (10.3.2022 for specified purposes, 1.4.2022 in so far as not already in operation) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [ss. 95(15)](https://www.legislation.gov.uk/ukpga/2022/7/section/95/15), [131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Power to operate and use authorised tramway[^key-ff3aa6aabcbb0c63e0f122cceb412b3d]
+## 46. Power to operate and use authorised tramway[^c-ff3aa6aabcbb0c63e0f122cceb412b3d]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ff3aa6aabcbb0c63e0f122cceb412b3d]: Commencement: Art. 46 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-ff3aa6aabcbb0c63e0f122cceb412b3d]: Commencement: Art. 46 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00034]: Footnote: [2006 c. 26](https://www.legislation.gov.uk/ukpga/2006/26)

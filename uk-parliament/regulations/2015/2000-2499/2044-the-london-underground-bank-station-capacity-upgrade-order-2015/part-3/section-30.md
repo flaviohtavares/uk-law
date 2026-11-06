@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Extinction or suspension of private rights of way[^key-500da09cb60a8a8930c05c82e4babf53]
+## 30. Extinction or suspension of private rights of way[^c-500da09cb60a8a8930c05c82e4babf53]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ whichever is the sooner.
 
 ## Annotations
 
-[^key-500da09cb60a8a8930c05c82e4babf53]: Commencement: Art. 30 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-500da09cb60a8a8930c05c82e4babf53]: Commencement: Art. 30 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

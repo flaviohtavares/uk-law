@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Procedure in relation to certain approvals etc.[^key-e505454e168f327f11187bebccdd446c]
+## 33. Procedure in relation to certain approvals etc.[^c-e505454e168f327f11187bebccdd446c]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e505454e168f327f11187bebccdd446c]: Commencement: Art. 33 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-e505454e168f327f11187bebccdd446c]: Commencement: Art. 33 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)

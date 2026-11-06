@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 442A. Relief for secondary Class 1 contributions met by employee[^key-cb03dd7500fbb32d01d189c27b1f4d67][^key-74ea5d0d19e54792ecd1cf8a6a2ae033]
+## 442A. Relief for secondary Class 1 contributions met by employee[^c-cb03dd7500fbb32d01d189c27b1f4d67][^c-74ea5d0d19e54792ecd1cf8a6a2ae033]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,13 +41,13 @@ summary: ''
 
 (6) In this section—
 
-- “**approval**”, in relation to an election, means approval by an officer of Revenue and Customs[^key-4f3a0614079ff004d8042e82d44ecd6f] under paragraph 3B of Schedule 1 to the Contributions and Benefits Act, and
+- “**approval**”, in relation to an election, means approval by an officer of Revenue and Customs[^c-4f3a0614079ff004d8042e82d44ecd6f] under paragraph 3B of Schedule 1 to the Contributions and Benefits Act, and
 - “**secondary contributor**” has the same meaning as in that Act (see section 7).
 
 ## Annotations
 
-[^key-cb03dd7500fbb32d01d189c27b1f4d67]: Textual amendment: S. 442A inserted (1.9.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 85(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/85/2), [Sch. 16 para. 2(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/16/paragraph/2/3); [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
+[^c-cb03dd7500fbb32d01d189c27b1f4d67]: Textual amendment: S. 442A inserted (1.9.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 85(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/85/2), [Sch. 16 para. 2(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/16/paragraph/2/3); [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
 
-[^key-74ea5d0d19e54792ecd1cf8a6a2ae033]: Textual amendment: Pt. 7 Ch. 3 substituted (1.9.2003 with effect in accordance with Sch. 22 para. 4(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 4(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/4/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-74ea5d0d19e54792ecd1cf8a6a2ae033]: Textual amendment: Pt. 7 Ch. 3 substituted (1.9.2003 with effect in accordance with Sch. 22 para. 4(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 4(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/4/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
 
-[^key-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)

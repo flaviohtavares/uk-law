@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — Community legislation in relation to imports from third countries[^key-4bcb574bcebae7c113237053044b6002]
+## SCHEDULE 7 — Community legislation in relation to imports from third countries[^c-4bcb574bcebae7c113237053044b6002]
 
 *Extent: E+W*
 
@@ -24,110 +24,110 @@ summary: ''
 
 Regulation 16
 
-### PART 1 — INSTRUMENTS SPECIFYING THIRD COUNTRIES AND TERRITORIES IN THIRD COUNTRIES FROM WHICH MEMBER STATES MAY AUTHORISE CERTAIN IMPORTS[^key-4bcb574bcebae7c113237053044b6002]
+### PART 1 — INSTRUMENTS SPECIFYING THIRD COUNTRIES AND TERRITORIES IN THIRD COUNTRIES FROM WHICH MEMBER STATES MAY AUTHORISE CERTAIN IMPORTS[^c-4bcb574bcebae7c113237053044b6002]
 
-#### 1. Cloven-hoofed animals and elephants and zoo ungulates[^key-4bcb574bcebae7c113237053044b6002]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Poultry[^key-4bcb574bcebae7c113237053044b6002]
+#### 1. Cloven-hoofed animals and elephants and zoo ungulates[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Captive birds[^key-4bcb574bcebae7c113237053044b6002]
+#### 2. Poultry[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Shellfish[^key-4bcb574bcebae7c113237053044b6002]
+#### 3. Captive birds[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Finfish[^key-4bcb574bcebae7c113237053044b6002]
+#### 4. Shellfish[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Bees[^key-4bcb574bcebae7c113237053044b6002]
+#### 5. Finfish[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Equidae[^key-4bcb574bcebae7c113237053044b6002]
+#### 6. Bees[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Cats, dogs and ferrets[^key-4bcb574bcebae7c113237053044b6002]
+#### 7. Equidae[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — DETAILED PROVISIONS[^key-4bcb574bcebae7c113237053044b6002]
-
-#### 9. Cloven-hoofed animals and elephants and zoo ungulates[^key-4bcb574bcebae7c113237053044b6002]
+#### 8. Cats, dogs and ferrets[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Zoo ungulates[^key-4bcb574bcebae7c113237053044b6002]
+### PART 2 — DETAILED PROVISIONS[^c-4bcb574bcebae7c113237053044b6002]
+
+#### 9. Cloven-hoofed animals and elephants and zoo ungulates[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Equidae[^key-4bcb574bcebae7c113237053044b6002]
+#### 10. Zoo ungulates[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. General[^key-4bcb574bcebae7c113237053044b6002]
+#### Equidae[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-4bcb574bcebae7c113237053044b6002] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 13. Temporary admission of registered horses[^key-4bcb574bcebae7c113237053044b6002]
+#### 11. General[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Registered horses for racing, etc, upon re-entry[^key-4bcb574bcebae7c113237053044b6002]
+**12.**[^c-4bcb574bcebae7c113237053044b6002] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 13. Temporary admission of registered horses[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Equidae for slaughter[^key-4bcb574bcebae7c113237053044b6002]
+#### 14. Registered horses for racing, etc, upon re-entry[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Registered equidae and equidae for breeding and production[^key-4bcb574bcebae7c113237053044b6002]
+#### 15. Equidae for slaughter[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Poultry[^key-4bcb574bcebae7c113237053044b6002]
+#### 16. Registered equidae and equidae for breeding and production[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Other specified animals, semen, ova and embryos[^key-4bcb574bcebae7c113237053044b6002]
+#### 17. Poultry[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Captive birds[^key-4bcb574bcebae7c113237053044b6002]
+#### 18. Other specified animals, semen, ova and embryos[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Cats, dogs and ferrets[^key-4bcb574bcebae7c113237053044b6002]
+#### 19. Captive birds[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Live animals from New Zealand[^key-4bcb574bcebae7c113237053044b6002]
+#### 20. Cats, dogs and ferrets[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. Zootechnical conditions[^key-4bcb574bcebae7c113237053044b6002]
+#### 21. Live animals from New Zealand[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Finfish and shellfish from third countries[^key-4bcb574bcebae7c113237053044b6002]
+#### 22. Zootechnical conditions[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-4bcb574bcebae7c113237053044b6002] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### 23. Finfish and shellfish from third countries[^c-4bcb574bcebae7c113237053044b6002]
 
-#### 25. Bees[^key-4bcb574bcebae7c113237053044b6002]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24.**[^c-4bcb574bcebae7c113237053044b6002] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 25. Bees[^c-4bcb574bcebae7c113237053044b6002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4bcb574bcebae7c113237053044b6002]: Textual amendment: Regulations revoked (19.10.2011) by [The Trade in Animals and Related Products (Wales) Regulations 2011 (S.I. 2011/2379)](https://www.legislation.gov.uk/uksi/2011/2379), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2379/regulation/1), [43(1)(d)](https://www.legislation.gov.uk/uksi/2011/2379/regulation/43/1/d)
+[^c-4bcb574bcebae7c113237053044b6002]: Textual amendment: Regulations revoked (19.10.2011) by [The Trade in Animals and Related Products (Wales) Regulations 2011 (S.I. 2011/2379)](https://www.legislation.gov.uk/uksi/2011/2379), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2379/regulation/1), [43(1)(d)](https://www.legislation.gov.uk/uksi/2011/2379/regulation/43/1/d)

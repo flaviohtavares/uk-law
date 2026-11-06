@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Disapplication and modification of legislative provisions[^key-9163b4d4567b3b9a8072e4ea8ac62cce]
+## 11. Disapplication and modification of legislative provisions[^c-9163b4d4567b3b9a8072e4ea8ac62cce]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9163b4d4567b3b9a8072e4ea8ac62cce]: Commencement: Art. 11 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
+[^c-9163b4d4567b3b9a8072e4ea8ac62cce]: Commencement: Art. 11 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
 
 [^f00021]: Footnote: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57). Paragraph 5 was amended by section 100 of the Natural Environment and Rural Communities Act [2006 (c.16)](https://www.legislation.gov.uk/ukpga/2006/16), section 84(2) of, and paragraph 3 of Schedule 11 to, the Marine and Coastal Access Act 2009, paragraph 49 of Schedule 2 to the Flood and Water Management Act [2010 (c.29)](https://www.legislation.gov.uk/ukpga/2010/29) and paragraph 315 of Schedule 2 to [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). Paragraph 6 was amended by paragraph 26 of Schedule 15 to the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) and section 224 of, and paragraph 24 of Schedule 16 and Part 5 of Schedule 22 to, the Marine and Coastal Access Act 2009. Paragraph 6A was inserted by section 103(3) of the Environment Act 1995.
 

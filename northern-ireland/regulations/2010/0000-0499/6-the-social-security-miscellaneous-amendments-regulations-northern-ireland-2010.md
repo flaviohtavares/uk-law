@@ -40,7 +40,7 @@ Coming into operation in accordance with regulation 1
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 122(1)(a), 123(1)(e), 131(1), 132(3) and (4)(a), (b) and (c) 133(2)(d) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], Articles 6(5), 14(1), (2) and (4)(a), (b) and (c), 15 and 36(2) of, and paragraphs 1(2)(b) and 8A, of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00002], sections 115(3), (4) and (8), of the Immigration and Asylum Act 1999[^f00003], and now vested in it[^f00004], and sections 17(1), (2) and (3)(a), (b) and (c) and 25(2) of, and paragraph 6(3)(b) of Schedule 1 to, the Welfare Reform Act (Northern Ireland) 2007[^f00005].
 
-## 1. Citation, commencement and interpretation[^key-787ecd0f4bf7645d48e0bfb8845e745e]
+## 1. Citation, commencement and interpretation[^c-787ecd0f4bf7645d48e0bfb8845e745e]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010.
 
@@ -61,36 +61,36 @@ The Department for Social Development makes the following Regulations in exercis
 
 (5) The Interpretation Act (Northern Ireland) 1954[^f00012] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Abolition (subject to savings) of urgent case payments[^key-31b51e50eb586964c4759b64cdb80eb0][^key-0e73c58fec73ad85b4f2dd4afa5e403e]
+## 2. Abolition (subject to savings) of urgent case payments[^c-31b51e50eb586964c4759b64cdb80eb0][^c-0e73c58fec73ad85b4f2dd4afa5e403e]
 
-(1)[^key-31b51e50eb586964c4759b64cdb80eb0] Subject to paragraphs (2) to (4), the following provisions are omitted—
+(1)[^c-31b51e50eb586964c4759b64cdb80eb0] Subject to paragraphs (2) to (4), the following provisions are omitted—
 
 - (a) Part VI of the Income Support Regulations (urgent cases);
 - (b) Part X of the Jobseeker’s Allowance Regulations (urgent cases);
 - (c) regulation 11(3) of the Immigration and Asylum Regulations (transitional arrangements and savings);
 - (d) Part 13 of the Employment and Support Allowance Regulations (urgent cases).
 
-(2)[^key-0e73c58fec73ad85b4f2dd4afa5e403e] The provisions referred to in paragraph (1) (“the relevant provisions”) continue to have effect in relation to a person who, on the day before the day on which these Regulations come into operation, is a person (“P”) to whom regulation 70(2)(b) of the Income Support Regulations, regulation 147(2)(b) of the Jobseeker’s Allowance Regulations or (as the case may be) regulation 162(2) of the Employment and Support Allowance Regulations applies.
+(2)[^c-0e73c58fec73ad85b4f2dd4afa5e403e] The provisions referred to in paragraph (1) (“the relevant provisions”) continue to have effect in relation to a person who, on the day before the day on which these Regulations come into operation, is a person (“P”) to whom regulation 70(2)(b) of the Income Support Regulations, regulation 147(2)(b) of the Jobseeker’s Allowance Regulations or (as the case may be) regulation 162(2) of the Employment and Support Allowance Regulations applies.
 
-(3)[^key-0e73c58fec73ad85b4f2dd4afa5e403e] Where on the day before the day on which these Regulations come into operation P falls within paragraph 1 of Part 1 of the Schedule to the Immigration and Asylum Regulations, the relevant provisions continue to have effect in relation to P until—
+(3)[^c-0e73c58fec73ad85b4f2dd4afa5e403e] Where on the day before the day on which these Regulations come into operation P falls within paragraph 1 of Part 1 of the Schedule to the Immigration and Asylum Regulations, the relevant provisions continue to have effect in relation to P until—
 
 - (a) the expiry of the period, or the aggregate of any periods, of 42 days during any one period of leave to which paragraph 1 of Part 1 of that Schedule applies, or
 - (b) the day on which P no longer falls within paragraph 1 of Part 1 of that Schedule,
 
 whichever shall first occur.
 
-(4)[^key-0e73c58fec73ad85b4f2dd4afa5e403e] In any other case, the relevant provisions continue to have effect in relation to P until the day on which regulation 70(2)(b) of the Income Support Regulations, regulation 147(2)(b) of the Jobseeker’s Allowance Regulations or (as the case may be) regulation 162(2) of the Employment and Support Allowance Regulations ceases to apply to P.
+(4)[^c-0e73c58fec73ad85b4f2dd4afa5e403e] In any other case, the relevant provisions continue to have effect in relation to P until the day on which regulation 70(2)(b) of the Income Support Regulations, regulation 147(2)(b) of the Jobseeker’s Allowance Regulations or (as the case may be) regulation 162(2) of the Employment and Support Allowance Regulations ceases to apply to P.
 
-## 3. Abolition of urgent case payments: supplementary provisions[^key-5588c8a99bcbfe530a52ce1344477981][^key-976fb146ccca24be0de043518a47fb5c]
+## 3. Abolition of urgent case payments: supplementary provisions[^c-5588c8a99bcbfe530a52ce1344477981][^c-976fb146ccca24be0de043518a47fb5c]
 
-(1)[^key-5588c8a99bcbfe530a52ce1344477981] The following consequential amendments have effect.
+(1)[^c-5588c8a99bcbfe530a52ce1344477981] The following consequential amendments have effect.
 
 (2) In the Income Support Regulations—
 
-- (a)[^key-5588c8a99bcbfe530a52ce1344477981] in regulation 17(1)[^f00013] (applicable amounts) omit “and 70” and “and urgent cases”;
-- (b)[^key-5588c8a99bcbfe530a52ce1344477981] in regulation 18(1)[^f00014] (polygamous marriages) omit “and 70” and “and urgent cases”;
-- (c)[^key-809d089f06922c21841de98857e7d9b0][^key-976fb146ccca24be0de043518a47fb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-976fb146ccca24be0de043518a47fb5c] in Schedule 1B[^f00017] (prescribed categories of person), for paragraph 21[^f00018] (persons from abroad) substitute—
+- (a)[^c-5588c8a99bcbfe530a52ce1344477981] in regulation 17(1)[^f00013] (applicable amounts) omit “and 70” and “and urgent cases”;
+- (b)[^c-5588c8a99bcbfe530a52ce1344477981] in regulation 18(1)[^f00014] (polygamous marriages) omit “and 70” and “and urgent cases”;
+- (c)[^c-809d089f06922c21841de98857e7d9b0][^c-976fb146ccca24be0de043518a47fb5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-976fb146ccca24be0de043518a47fb5c] in Schedule 1B[^f00017] (prescribed categories of person), for paragraph 21[^f00018] (persons from abroad) substitute—
 
   > **21. Persons from abroad**
   >
@@ -98,28 +98,28 @@ whichever shall first occur.
 
   .
 
-(3)[^key-5588c8a99bcbfe530a52ce1344477981] In the Jobseeker’s Allowance Regulations—
+(3)[^c-5588c8a99bcbfe530a52ce1344477981] In the Jobseeker’s Allowance Regulations—
 
 - (a) in regulation 83[^f00019] (applicable amounts) omit “or Part X” and “and urgent cases”;
 - (b) in regulation 84(1)[^f00020] (polygamous marriages) omit “or Part X (urgent cases)”;
 - (c) in regulation 86A[^f00021] (applicable amounts for joint-claim couples) omit “or Part X (urgent cases)”;
 - (d) in regulation 86B[^f00022] (applicable amounts for joint-claim couples: polygamous marriages) omit “or Part X (urgent cases)”.
 
-(4)[^key-5588c8a99bcbfe530a52ce1344477981] In the Employment and Support Allowance Regulations—
+(4)[^c-5588c8a99bcbfe530a52ce1344477981] In the Employment and Support Allowance Regulations—
 
 - (a) in regulation 67(1) (prescribed amounts) omit “and 163” and “and urgent cases”;
 - (b) in regulation 68(1) (polygamous marriages) for “regulations 69 and 163 (special cases and urgent cases)” substitute “regulation 69 (special cases)”.
 
 (5) In regulation 2 of the Immigration and Asylum Regulations (persons not excluded from specified benefits under section 115 of the Act)—
 
-- (a)[^key-976fb146ccca24be0de043518a47fb5c] for paragraph (5)[^f00023] substitute—
+- (a)[^c-976fb146ccca24be0de043518a47fb5c] for paragraph (5)[^f00023] substitute—
 
   > (5) For the purposes of entitlement to income support, a jobseeker’s allowance, an employment and support allowance or a social fund payment under the Contributions and Benefits Act, as the case may be, a person who is an asylum seeker within the meaning of paragraph (5) of regulation 11 who has not ceased to be an asylum seeker by virtue of paragraph (6) of that regulation is a person to whom section 115 of the Act does not apply.
 
   ;
-- (b)[^key-ebc7015bf9c534990a44949de110f70c][^key-5588c8a99bcbfe530a52ce1344477981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ebc7015bf9c534990a44949de110f70c][^c-5588c8a99bcbfe530a52ce1344477981] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation (subject to savings) of provisions specifying that certain persons are to be treated as not engaged in remunerative work[^key-ea414dbdca4e5ed02b42304885270afc]
+## 4. Revocation (subject to savings) of provisions specifying that certain persons are to be treated as not engaged in remunerative work[^c-ea414dbdca4e5ed02b42304885270afc]
 
 (1) Subject to paragraphs (3) to (7), the following provisions are omitted—
 
@@ -153,7 +153,7 @@ whichever shall first occur.
 
 (8) In this regulation “specified benefit” means income support, a jobseeker’s allowance or an employment and support allowance.
 
-## 5. Revocations[^key-5edcb02d2b8e354a5c354d943cd45dec]
+## 5. Revocations[^c-5edcb02d2b8e354a5c354d943cd45dec]
 
 (1) Subject to paragraphs (2) to (4) of regulation 2, the provisions specified in column (1), of Part 1 of the Schedule are revoked to the extent specified in column (3).
 
@@ -171,7 +171,7 @@ A senior officer of the Department for Social Development
 
 Regulation 5
 
-### PART 1 — Revocations subject to paragraphs (2) to (4) of regulation 2[^key-0d33962fb299f68ab77ed1cf9daa16a7]
+### PART 1 — Revocations subject to paragraphs (2) to (4) of regulation 2[^c-0d33962fb299f68ab77ed1cf9daa16a7]
 
 | *Column (1)*<br>*Citation* | *Column (2)*<br>*Reference* | *Column (3)*<br>*Extent of revocation* |
 | --- | --- | --- |
@@ -200,7 +200,7 @@ Regulation 5
 | The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 | [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286) | Regulations 12(8), 19(19) and 23(4) |
 | The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2008 | [S.R. 2008 No. 428](https://www.legislation.gov.uk/nisr/2008/428) | Regulations 2(5)(d) and 4(5)(d) |
 
-### PART 2 — Revocations subject to paragraphs (3) to (7) of regulation 4[^key-1280a48f952477b5e9496e597e936558]
+### PART 2 — Revocations subject to paragraphs (3) to (7) of regulation 4[^c-1280a48f952477b5e9496e597e936558]
 
 | *Column (1)*<br>*Citation* | *Column (2)*<br>*Reference* | *Column (3)*<br>*Extent of revocation* |
 | --- | --- | --- |
@@ -245,7 +245,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00005]: Footnote: [2007 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2)
 
-[^key-787ecd0f4bf7645d48e0bfb8845e745e]: Commencement: Reg. 1 in operation at 25.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2)
+[^c-787ecd0f4bf7645d48e0bfb8845e745e]: Commencement: Reg. 1 in operation at 25.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2)
 
 [^f00006]: Footnote: The definition of “benefit week” was amended by regulation 2(a) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
 
@@ -261,19 +261,19 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00012]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-31b51e50eb586964c4759b64cdb80eb0]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/1) comes into operation in accordance with reg. 1(3)
+[^c-31b51e50eb586964c4759b64cdb80eb0]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/1) comes into operation in accordance with reg. 1(3)
 
-[^key-0e73c58fec73ad85b4f2dd4afa5e403e]: Commencement: Reg. 2(2)(3)(4) in operation at 25.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2)
+[^c-0e73c58fec73ad85b4f2dd4afa5e403e]: Commencement: Reg. 2(2)(3)(4) in operation at 25.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2)
 
-[^key-5588c8a99bcbfe530a52ce1344477981]: Commencement: Reg. 3(1)(2)(a)(b)(3)(4)(5)(b) in operation at 25.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2)
+[^c-5588c8a99bcbfe530a52ce1344477981]: Commencement: Reg. 3(1)(2)(a)(b)(3)(4)(5)(b) in operation at 25.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2)
 
-[^key-976fb146ccca24be0de043518a47fb5c]: Commencement: [Reg. 3(2)(c)(d)(5)(a)](https://www.legislation.gov.uk/nisr/2010/6/regulation/3/2/c/d/5/a) comes into operation in accordance with reg. 1(3)
+[^c-976fb146ccca24be0de043518a47fb5c]: Commencement: [Reg. 3(2)(c)(d)(5)(a)](https://www.legislation.gov.uk/nisr/2010/6/regulation/3/2/c/d/5/a) comes into operation in accordance with reg. 1(3)
 
 [^f00013]: Footnote: Regulation 17(1) was amended by regulation 2 of [S.R. 1988 No. 193](https://www.legislation.gov.uk/nisr/1988/193), regulation 9 of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199), paragraph 2(a) of Schedule 1 to, [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195), regulation 2(3) of [S.R. 2003 No. 267](https://www.legislation.gov.uk/nisr/2003/267) and regulation 2(4)(a) of [S.R. 2006 No. 97](https://www.legislation.gov.uk/nisr/2006/97)
 
 [^f00014]: Footnote: Regulation 18(1) was amended by regulation 5(a) of [S.R. 1988 No. 274](https://www.legislation.gov.uk/nisr/1988/274), regulation 5 of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), regulation 5 of [S.R. 1989 No. 249](https://www.legislation.gov.uk/nisr/1989/249), regulation 10(a)(ii) of [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199), paragraph 4 of Part I of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132), paragraph 3(a) of Schedule 1 to [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195), regulation 2(4) of [S.R. 2003 No. 267](https://www.legislation.gov.uk/nisr/2003/267) and regulation 2(4)(b) of [S.R. 2006 No. 97](https://www.legislation.gov.uk/nisr/2006/97)
 
-[^key-809d089f06922c21841de98857e7d9b0]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/nisr/2010/6/regulation/3/2/c) revoked (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2013/246/regulation/12), [Sch.](https://www.legislation.gov.uk/nisr/2013/246/schedule)
+[^c-809d089f06922c21841de98857e7d9b0]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/nisr/2010/6/regulation/3/2/c) revoked (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2013/246/regulation/12), [Sch.](https://www.legislation.gov.uk/nisr/2013/246/schedule)
 
 [^f00017]: Footnote: Schedule 1B was inserted by Schedule 1 to [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
 
@@ -289,16 +289,16 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00023]: Footnote: Paragraph (5) was amended by regulation 23(3)(c) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-ebc7015bf9c534990a44949de110f70c]: Textual amendment: [Reg. 3(5)(b)](https://www.legislation.gov.uk/nisr/2010/6/regulation/3/5/b) revoked (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2013/246/regulation/12), [Sch.](https://www.legislation.gov.uk/nisr/2013/246/schedule)
+[^c-ebc7015bf9c534990a44949de110f70c]: Textual amendment: [Reg. 3(5)(b)](https://www.legislation.gov.uk/nisr/2010/6/regulation/3/5/b) revoked (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2013/246/regulation/12), [Sch.](https://www.legislation.gov.uk/nisr/2013/246/schedule)
 
-[^key-ea414dbdca4e5ed02b42304885270afc]: Commencement: Reg. 4 in operation at 25.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2)
+[^c-ea414dbdca4e5ed02b42304885270afc]: Commencement: Reg. 4 in operation at 25.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2)
 
 [^f00025]: Footnote: Schedule A1 was inserted by Schedule 1 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
 
 [^f00026]: Footnote: [S.R. 1991 No. 338](https://www.legislation.gov.uk/nisr/1991/338)
 
-[^key-5edcb02d2b8e354a5c354d943cd45dec]: Commencement: Reg. 5 in operation at 25.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2)
+[^c-5edcb02d2b8e354a5c354d943cd45dec]: Commencement: Reg. 5 in operation at 25.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2)
 
-[^key-0d33962fb299f68ab77ed1cf9daa16a7]: Commencement: Sch. Pt. 1 in operation at 25.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2)
+[^c-0d33962fb299f68ab77ed1cf9daa16a7]: Commencement: Sch. Pt. 1 in operation at 25.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2)
 
-[^key-1280a48f952477b5e9496e597e936558]: Commencement: Sch. Pt. 2 in operation at 25.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2)
+[^c-1280a48f952477b5e9496e597e936558]: Commencement: Sch. Pt. 2 in operation at 25.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2)

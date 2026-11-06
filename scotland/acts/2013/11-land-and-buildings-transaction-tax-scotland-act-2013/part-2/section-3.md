@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Land transaction[^key-079a13634a8a1295b53e8c42225d3aa8]
+## 3. Land transaction[^c-079a13634a8a1295b53e8c42225d3aa8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A land transaction is the acquisition of a chargeable interest.
 
 ## Annotations
 
-[^key-079a13634a8a1295b53e8c42225d3aa8]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2013/11/section/3) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-079a13634a8a1295b53e8c42225d3aa8]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2013/11/section/3) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

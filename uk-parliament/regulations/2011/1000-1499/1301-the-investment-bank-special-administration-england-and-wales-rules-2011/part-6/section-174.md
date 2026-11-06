@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 174. Realisation of security by creditor[^key-ac4a7047e88c15644b8772b2bb9135c4]
+## 174. Realisation of security by creditor[^c-ac4a7047e88c15644b8772b2bb9135c4]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ If a creditor who has valued their security subsequently realises it (whether or
 
 ## Annotations
 
-[^key-ac4a7047e88c15644b8772b2bb9135c4]: Commencement: [Rule 174](https://www.legislation.gov.uk/uksi/2011/1301/rule/174) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-ac4a7047e88c15644b8772b2bb9135c4]: Commencement: [Rule 174](https://www.legislation.gov.uk/uksi/2011/1301/rule/174) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

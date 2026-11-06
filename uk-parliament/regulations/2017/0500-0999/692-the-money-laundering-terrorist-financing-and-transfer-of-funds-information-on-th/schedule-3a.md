@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Excluded Trusts[^key-09f9317339cebb797f2306c1cf452fa5]
+## SCHEDULE 3A — Excluded Trusts[^c-09f9317339cebb797f2306c1cf452fa5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Regulation 42
 
 A trust imposed or required by an enactment.
 
-**1A.**[^key-142b29002389283ba77bf9b12ac207ad] A trust which ceases to be an excluded trust under paragraph 1 of this Schedule where—
+**1A.**[^c-142b29002389283ba77bf9b12ac207ad] A trust which ceases to be an excluded trust under paragraph 1 of this Schedule where—
 
 - (a) the trust had been an excluded trust by virtue of section 34 of the Trustee Act 1925;
 - (b) the sole reason for paragraph 1 ceasing to apply is the death of one of the trustees; and
@@ -40,7 +40,7 @@ A trust created by, or in order to satisfy the terms of, an order of a court or 
 
 A trust holding sums or assets of a pension scheme which is a registered pension scheme for the purposes of Part 4 of the Finance Act 2004.
 
-### 4. Trusts of insurance policies[^key-fb6f2259a3de87d4e9ad86e3bb5852dd]
+### 4. Trusts of insurance policies[^c-fb6f2259a3de87d4e9ad86e3bb5852dd]
 
 (1) A trust of a life policy paying out only—
 
@@ -68,7 +68,7 @@ A trust which—
 - (a) holds property with a value not exceeding £100, and
 - (b) was created before the date on which regulation 42(2)(iii) of these Regulations comes into force.
 
-### 6A. Bank accounts for minors etc[^key-f83ba7a7803a739629df510198895018]
+### 6A. Bank accounts for minors etc[^c-f83ba7a7803a739629df510198895018]
 
 (1) A trust which is created as a requirement of opening a relevant account for the sole benefit of—
 
@@ -96,7 +96,7 @@ A trust which—
 - (a) the trust is holding only benefits received on the death of the person assured under a policy within paragraph 4, and
 - (b) less than two years has passed since that person’s death.
 
-**8A.**[^key-7ec119b0aad938110d30b360b530888e] (1) A trust created under a deed or instrument which—
+**8A.**[^c-7ec119b0aad938110d30b360b530888e] (1) A trust created under a deed or instrument which—
 
 - (a) varies any of the dispositions of property comprised in a person’s (“P’s”) estate on death, and
 - (b) was made by the persons or any of the persons who benefit or would benefit from the dispositions,
@@ -109,7 +109,7 @@ where less than two years has passed since P’s death.
 
 A trust of jointly held property where the trustees and the beneficiaries are the same persons.
 
-**9A.**[^key-6ed4d07f53c0a8db3b32f966f5d16221] A trust which ceases to be an excluded trust under paragraph 9 of this Schedule where—
+**9A.**[^c-6ed4d07f53c0a8db3b32f966f5d16221] A trust which ceases to be an excluded trust under paragraph 9 of this Schedule where—
 
 - (a) the sole reason for paragraph 9 ceasing to apply is the death of one of the trustees, and
 - (b) less than two years have passed since that person’s death.
@@ -157,7 +157,7 @@ A trust created by a relevant supervised person for the purpose of holding clien
 
 ### 13. Capital markets etc.
 
-A trust created for the purpose of enabling or facilitating an activity listed in points 2, 3, 6, 7 or 8 of [^key-2fd62f4a576a53dd5f3f068296418c44]... Schedule 2, or for protecting or enforcing rights relating to that activity, where—
+A trust created for the purpose of enabling or facilitating an activity listed in points 2, 3, 6, 7 or 8 of [^c-2fd62f4a576a53dd5f3f068296418c44]... Schedule 2, or for protecting or enforcing rights relating to that activity, where—
 
 - (a) one or more of the participants in that activity is a relevant supervised person, and
 - (b) the use of the trust is incidental to the principal purpose of that activity.
@@ -205,7 +205,7 @@ A trust created for the purposes of enabling or assisting—
 
 to carry out its functions, including any functions as a court or tribunal and, in the case of the Bank of England, any of its functions as a monetary authority within the meaning of section 244(2)(c) of the Banking Act 2009.
 
-### 23A. General exclusion[^key-87c8fbf93fe32070920c13f9bd448300]
+### 23A. General exclusion[^c-87c8fbf93fe32070920c13f9bd448300]
 
 (1) A trust which—
 
@@ -230,18 +230,18 @@ In this Schedule, “relevant supervised person” means—
 
 ## Annotations
 
-[^key-09f9317339cebb797f2306c1cf452fa5]: Textual amendment: Sch. 3A inserted (6.10.2020) by [The Money Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/991)](https://www.legislation.gov.uk/uksi/2020/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2020/991/regulation/11)
+[^c-09f9317339cebb797f2306c1cf452fa5]: Textual amendment: Sch. 3A inserted (6.10.2020) by [The Money Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/991)](https://www.legislation.gov.uk/uksi/2020/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/991/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2020/991/regulation/11)
 
-[^key-142b29002389283ba77bf9b12ac207ad]: Textual amendment: [Sch. 3A para. 1A](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/1A) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [35(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/35/2)
+[^c-142b29002389283ba77bf9b12ac207ad]: Textual amendment: [Sch. 3A para. 1A](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/1A) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [35(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/35/2)
 
-[^key-fb6f2259a3de87d4e9ad86e3bb5852dd]: Textual amendment: [Sch. 3A para. 4](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/4) substituted (9.3.2022) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2022 (S.I. 2022/137)](https://www.legislation.gov.uk/uksi/2022/137), [regs. 1](https://www.legislation.gov.uk/uksi/2022/137/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2022/137/regulation/5/a)
+[^c-fb6f2259a3de87d4e9ad86e3bb5852dd]: Textual amendment: [Sch. 3A para. 4](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/4) substituted (9.3.2022) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2022 (S.I. 2022/137)](https://www.legislation.gov.uk/uksi/2022/137), [regs. 1](https://www.legislation.gov.uk/uksi/2022/137/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2022/137/regulation/5/a)
 
-[^key-f83ba7a7803a739629df510198895018]: Textual amendment: [Sch. 3A para. 6A](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/6A) inserted (9.3.2022) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2022 (S.I. 2022/137)](https://www.legislation.gov.uk/uksi/2022/137), [regs. 1](https://www.legislation.gov.uk/uksi/2022/137/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2022/137/regulation/5/b)
+[^c-f83ba7a7803a739629df510198895018]: Textual amendment: [Sch. 3A para. 6A](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/6A) inserted (9.3.2022) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2022 (S.I. 2022/137)](https://www.legislation.gov.uk/uksi/2022/137), [regs. 1](https://www.legislation.gov.uk/uksi/2022/137/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2022/137/regulation/5/b)
 
-[^key-7ec119b0aad938110d30b360b530888e]: Textual amendment: [Sch. 3A para. 8A](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/8A) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [35(3)](https://www.legislation.gov.uk/uksi/2026/621/regulation/35/3)
+[^c-7ec119b0aad938110d30b360b530888e]: Textual amendment: [Sch. 3A para. 8A](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/8A) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [35(3)](https://www.legislation.gov.uk/uksi/2026/621/regulation/35/3)
 
-[^key-6ed4d07f53c0a8db3b32f966f5d16221]: Textual amendment: [Sch. 3A paras. 9A](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/9A), [9B](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/9B) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [35(4)](https://www.legislation.gov.uk/uksi/2026/621/regulation/35/4)
+[^c-6ed4d07f53c0a8db3b32f966f5d16221]: Textual amendment: [Sch. 3A paras. 9A](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/9A), [9B](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/9B) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [35(4)](https://www.legislation.gov.uk/uksi/2026/621/regulation/35/4)
 
-[^key-2fd62f4a576a53dd5f3f068296418c44]: Textual amendment: Words in [Sch. 3A para. 13](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/13) omitted (17.8.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [12(5)](https://www.legislation.gov.uk/uksi/2022/838/regulation/12/5) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-2fd62f4a576a53dd5f3f068296418c44]: Textual amendment: Words in [Sch. 3A para. 13](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/13) omitted (17.8.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [12(5)](https://www.legislation.gov.uk/uksi/2022/838/regulation/12/5) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
 
-[^key-87c8fbf93fe32070920c13f9bd448300]: Textual amendment: [Sch. 3A para. 23A](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/23A) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [35(5)](https://www.legislation.gov.uk/uksi/2026/621/regulation/35/5)
+[^c-87c8fbf93fe32070920c13f9bd448300]: Textual amendment: [Sch. 3A para. 23A](https://www.legislation.gov.uk/uksi/2017/692/schedule/3A/paragraph/23A) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [35(5)](https://www.legislation.gov.uk/uksi/2026/621/regulation/35/5)

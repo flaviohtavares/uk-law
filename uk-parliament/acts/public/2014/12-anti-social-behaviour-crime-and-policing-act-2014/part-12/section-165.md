@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Extradition to the United Kingdom to be sentenced or to serve a sentence[^key-07a106d93993b82f360e3f4df5ab9fbd]
+## 165. Extradition to the United Kingdom to be sentenced or to serve a sentence[^c-07a106d93993b82f360e3f4df5ab9fbd]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In section 142 of the Extradition Act 2003 (issue of Part 3 warrant), for subsec
 
 ## Annotations
 
-[^key-07a106d93993b82f360e3f4df5ab9fbd]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2014/12/section/165) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(k)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/k)
+[^c-07a106d93993b82f360e3f4df5ab9fbd]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2014/12/section/165) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(k)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/k)

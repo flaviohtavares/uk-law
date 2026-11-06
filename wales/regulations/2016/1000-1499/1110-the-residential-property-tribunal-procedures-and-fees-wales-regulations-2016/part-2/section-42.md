@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Irregularities[^key-29eb10c4163480ca38acfa0cf899e63b]
+## 42. Irregularities[^c-29eb10c4163480ca38acfa0cf899e63b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any irregularity resulting from failure by a party to comply with any provision 
 
 ## Annotations
 
-[^key-29eb10c4163480ca38acfa0cf899e63b]: Commencement: Reg. 42 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-29eb10c4163480ca38acfa0cf899e63b]: Commencement: Reg. 42 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

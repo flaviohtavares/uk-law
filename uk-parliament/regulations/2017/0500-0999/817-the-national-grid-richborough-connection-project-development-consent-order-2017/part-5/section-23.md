@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Extinguishment and suspension of private rights[^key-69af3779c286646e8bd6845c5fa049cd]
+## 23. Extinguishment and suspension of private rights[^c-69af3779c286646e8bd6845c5fa049cd]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-69af3779c286646e8bd6845c5fa049cd]: Commencement: Art. 23 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-69af3779c286646e8bd6845c5fa049cd]: Commencement: Art. 23 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

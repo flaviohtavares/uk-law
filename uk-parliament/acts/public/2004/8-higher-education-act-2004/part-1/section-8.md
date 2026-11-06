@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Activities outside United Kingdom[^key-f2e527e0edab58b13f3c08fa0da36c64]
+## 8. Activities outside United Kingdom[^c-f2e527e0edab58b13f3c08fa0da36c64]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2e527e0edab58b13f3c08fa0da36c64]: Textual amendment: [Ss. 1-9](https://www.legislation.gov.uk/ukpga/2004/8/section/1) omitted (31.10.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/19); [S.I. 2018/1054](https://www.legislation.gov.uk/uksi/2018/1054), [reg. 2(d)(viii)](https://www.legislation.gov.uk/uksi/2018/1054/regulation/2/d/viii)
+[^c-f2e527e0edab58b13f3c08fa0da36c64]: Textual amendment: [Ss. 1-9](https://www.legislation.gov.uk/ukpga/2004/8/section/1) omitted (31.10.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/19); [S.I. 2018/1054](https://www.legislation.gov.uk/uksi/2018/1054), [reg. 2(d)(viii)](https://www.legislation.gov.uk/uksi/2018/1054/regulation/2/d/viii)

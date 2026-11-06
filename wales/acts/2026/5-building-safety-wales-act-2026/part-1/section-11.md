@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Determinations by residential property tribunal[^key-e0f668dc4266061056a133b34a9f62bd]
+## 11. Determinations by residential property tribunal[^c-e0f668dc4266061056a133b34a9f62bd]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0f668dc4266061056a133b34a9f62bd]: Commencement: S. 11 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-e0f668dc4266061056a133b34a9f62bd]: Commencement: S. 11 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

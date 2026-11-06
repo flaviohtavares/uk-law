@@ -26,7 +26,7 @@ summary: ''
 
 ### PART 1 — STATUS
 
-#### 1. Status[^key-5f821aa1384cd24d9c7e1aea1539993a]
+#### 1. Status[^c-5f821aa1384cd24d9c7e1aea1539993a]
 
 (1) The Authority is not to be regarded as a servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
 
@@ -34,7 +34,7 @@ summary: ''
 
 ### PART 2 — MEMBERS
 
-#### 2. Members[^key-ebb086274f7293687e5f550d185a31bc]
+#### 2. Members[^c-ebb086274f7293687e5f550d185a31bc]
 
 (1) The members of the Authority are—
 
@@ -52,7 +52,7 @@ summary: ''
 
 (4) The Welsh Ministers may by regulations amend sub-paragraph (1) so as to substitute a different number for any of the numbers for the time being specified in it; but the regulations must ensure that the number of non-executive members continues to exceed the number of executive members.
 
-#### 3. Disqualification from being a non-executive member[^key-a24d2731d6da61246f5a40dfa73e7379]
+#### 3. Disqualification from being a non-executive member[^c-a24d2731d6da61246f5a40dfa73e7379]
 
 A person is disqualified from being appointed, or holding office, as a non-executive member of the Authority if the person is or becomes—
 
@@ -64,7 +64,7 @@ A person is disqualified from being appointed, or holding office, as a non-execu
 - (f) a person employed in the civil service of the State, or
 - (g) the holder of an office, or a member or member of staff of a body, specified by regulations made by the Welsh Ministers.
 
-#### 4. Terms of non-executive membership[^key-5d521321136b278092497937090452ff]
+#### 4. Terms of non-executive membership[^c-5d521321136b278092497937090452ff]
 
 (1) A non-executive member of the Authority holds office for such period, and on such terms and conditions, as may be specified in the terms of appointment, but this is subject to sub-paragraphs (2) and (3) and paragraph 5.
 
@@ -77,7 +77,7 @@ A person is disqualified from being appointed, or holding office, as a non-execu
 - (a) pay its non-executive members remuneration, expenses and allowances;
 - (b) pay pensions to, or in respect of, persons who have been non-executive members of the Authority, and amounts for or towards the provision of pensions to, or in respect of, persons who have been non-executive members of the Authority.
 
-#### 5. Removal etc. of members[^key-ee38ebd3b327dc605f62a8c77e8b42de]
+#### 5. Removal etc. of members[^c-ee38ebd3b327dc605f62a8c77e8b42de]
 
 (1) The Welsh Ministers may by notice remove a person who is a non-executive member from office if satisfied—
 
@@ -101,7 +101,7 @@ A person is disqualified from being appointed, or holding office, as a non-execu
 
 ### PART 3 — STAFF
 
-#### 6. Chief executive[^key-9f13c30fe944794fa7d91233c5b55da8]
+#### 6. Chief executive[^c-9f13c30fe944794fa7d91233c5b55da8]
 
 (1) The Authority must have a chief executive.
 
@@ -109,7 +109,7 @@ A person is disqualified from being appointed, or holding office, as a non-execu
 
 (3) Subsequent appointments are to be made by the non-executive members on such terms and conditions (including terms and conditions as to remuneration, expenses, allowances and pension) as they may determine with the approval of the Welsh Ministers.
 
-#### 7. Other staff[^key-c9fecb29f8cbfc3bfc715dd736d18503]
+#### 7. Other staff[^c-c9fecb29f8cbfc3bfc715dd736d18503]
 
 (1) The Authority may appoint members of staff other than a chief executive.
 
@@ -119,7 +119,7 @@ A person is disqualified from being appointed, or holding office, as a non-execu
 
 ### PART 4 — DELEGATION
 
-#### 8. Committees and sub-committees[^key-3b26fa9d4d65713cd9691d2ae1507e54]
+#### 8. Committees and sub-committees[^c-3b26fa9d4d65713cd9691d2ae1507e54]
 
 (1) The Authority may establish committees and sub-committees.
 
@@ -132,7 +132,7 @@ A person is disqualified from being appointed, or holding office, as a non-execu
 - (a) is a member of a committee or sub-committee established under this paragraph, but
 - (b) is not a member of the Authority, or a member of its staff.
 
-#### 9. Delegation[^key-6ee3837efb73f5a5a7ac93873f6d53af]
+#### 9. Delegation[^c-6ee3837efb73f5a5a7ac93873f6d53af]
 
 (1) The Authority may delegate any of its functions to any of its—
 
@@ -171,7 +171,7 @@ A person is disqualified from being appointed, or holding office, as a non-execu
 
 ### PART 5 — PROCEDURE ETC.
 
-#### 10. Procedure[^key-bb86f76d16bfedafb676b9b3f068e52b]
+#### 10. Procedure[^c-bb86f76d16bfedafb676b9b3f068e52b]
 
 (1) The Authority must make rules to regulate its own procedure (including quorum).
 
@@ -181,14 +181,14 @@ A person is disqualified from being appointed, or holding office, as a non-execu
 
 (4) Rules made by the Authority under sub-paragraph (3) may authorise its committees and sub-committees to determine their own procedure (including quorum).
 
-#### 11. Validity of proceedings and acts[^key-92d8215a9b6cda0632efbe17e5fdfe05]
+#### 11. Validity of proceedings and acts[^c-92d8215a9b6cda0632efbe17e5fdfe05]
 
 The validity of proceedings and acts of the Authority (or of its committees and sub-committees) is not affected by—
 
 - (a) any vacancy in the membership of the Authority, or
 - (b) any defect in the appointment of a member.
 
-#### 12. Seal[^key-6727225e3d676debbd55fe69ad8936cc]
+#### 12. Seal[^c-6727225e3d676debbd55fe69ad8936cc]
 
 If the Authority has a seal, it must be authenticated by the signature of—
 
@@ -197,17 +197,17 @@ If the Authority has a seal, it must be authenticated by the signature of—
 
 who is authorised for that purpose.
 
-#### 13. Evidence[^key-9b438203aeea8f4c3a208e5dc5179c5e]
+#### 13. Evidence[^c-9b438203aeea8f4c3a208e5dc5179c5e]
 
 A document purporting to be duly executed under the seal of the Authority, or to be signed on the Authority’s behalf, is to be received in evidence and, unless the contrary is proved, taken to be so executed or signed.
 
 ### PART 6 — FINANCIAL MATTERS
 
-#### 14. Funding[^key-10f5fe4ae0241675f61219140c7d1d36]
+#### 14. Funding[^c-10f5fe4ae0241675f61219140c7d1d36]
 
 The Welsh Ministers may make payments to the Authority of such amounts, and at such times, and on such conditions, as the Welsh Ministers determine.
 
-#### 15. Accounting officer[^key-9c614a1da548376b38fc2563a8910e57]
+#### 15. Accounting officer[^c-9c614a1da548376b38fc2563a8910e57]
 
 (1) The chief executive of the Authority is its accounting officer.
 
@@ -220,7 +220,7 @@ The Welsh Ministers may make payments to the Authority of such amounts, and at s
 - (c) responsibilities for the economy, efficiency and effectiveness with which the Authority uses its resources;
 - (d) responsibilities owed to the Welsh Ministers, Senedd Cymru or its Public Accounts Committee.
 
-#### 16. Accounts[^key-4389134e6f383c3ffc88fcac5e0f8990]
+#### 16. Accounts[^c-4389134e6f383c3ffc88fcac5e0f8990]
 
 (1) The Authority must, for each financial year—
 
@@ -238,7 +238,7 @@ The Welsh Ministers may make payments to the Authority of such amounts, and at s
 - (a) the Welsh Ministers, and
 - (b) the Auditor General for Wales.
 
-#### 17. Audit[^key-2e9569b8056f74819840075bccad9e08]
+#### 17. Audit[^c-2e9569b8056f74819840075bccad9e08]
 
 (1) This paragraph applies in relation to each statement of accounts submitted to the Auditor General for Wales by the Authority under paragraph 16(3)(b).
 
@@ -256,7 +256,7 @@ The Welsh Ministers may make payments to the Authority of such amounts, and at s
 
 (5) In complying with sub-paragraph (2), the Auditor General for Wales must examine and report on whether, in the opinion of the Auditor General, the expenditure to which the accounts relate has been incurred lawfully and in accordance with the authority which governs it.
 
-#### 18. Examination into use of resources[^key-ef85ece57d3f9be15723d26aabe895bf]
+#### 18. Examination into use of resources[^c-ef85ece57d3f9be15723d26aabe895bf]
 
 (1) The Auditor General for Wales may carry out examinations into the economy, efficiency and effectiveness with which resources have been used in the discharging of the Authority’s functions.
 
@@ -274,7 +274,7 @@ The Welsh Ministers may make payments to the Authority of such amounts, and at s
 
 ### PART 7 — REPORTING REQUIREMENTS ETC.
 
-#### 19. Corporate plan[^key-a63f6ba49297d9c9d88bc6651c0a4feb]
+#### 19. Corporate plan[^c-a63f6ba49297d9c9d88bc6651c0a4feb]
 
 (1) The Authority must prepare a corporate plan for each planning period.
 
@@ -303,7 +303,7 @@ The Welsh Ministers may make payments to the Authority of such amounts, and at s
 
 (12) The corporate plan for a planning period must be submitted to the Welsh Ministers for approval before the period begins.
 
-#### 20. Annual report[^key-2a2410a71b2b86a696690d0fce074098]
+#### 20. Annual report[^c-2a2410a71b2b86a696690d0fce074098]
 
 (1) As soon as is reasonably practicable after the end of each financial year, the Authority must—
 
@@ -314,13 +314,13 @@ The Welsh Ministers may make payments to the Authority of such amounts, and at s
 
 ### PART 8 — MINOR AND CONSEQUENTIAL AMENDMENTS
 
-#### 21. Coal Industry Act [1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21)[^key-351519675bc07fda0cc5b34eeb114237]
+#### 21. Coal Industry Act [1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21)[^c-351519675bc07fda0cc5b34eeb114237]
 
 In section 59 of the Coal Industry Act 1994 (information to be kept confidential by the Coal Authority), after subsection (3)(f) insert—
 
 > - (g) the Disused Tips Authority for Wales is a relevant authority in relation to its functions under the Disused Mine and Quarry Tips (Wales) Act \[2025\].
 
-#### 22. Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)[^key-5122f448639fda42a14bd38652771ec1]
+#### 22. Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)[^c-5122f448639fda42a14bd38652771ec1]
 
 In section 148 of the Government of Wales Act 2006 (meaning of “**Welsh public records**”), after subsection (2)(ca) insert—
 
@@ -328,7 +328,7 @@ In section 148 of the Government of Wales Act 2006 (meaning of “**Welsh public
 
 .
 
-#### 23. [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1)[^key-4962aa323738c69362469fced87246cf]
+#### 23. [Welsh Language (Wales) Measure 2011 (nawm 1)](https://www.legislation.gov.uk/mwa/2011/1)[^c-4962aa323738c69362469fced87246cf]
 
 In Schedule 6 to the Welsh Language (Wales) Measure 2011 (public bodies etc.: standards), in the table, under the heading “General”, after the entry for the Disabled Persons Transport Advisory Committee insert—
 
@@ -338,7 +338,7 @@ In Schedule 6 to the Welsh Language (Wales) Measure 2011 (public bodies etc.: st
 
 .
 
-#### 24. [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2)[^key-88c8d66cd45a8bd9a3771f6a118ba61e]
+#### 24. [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2)[^c-88c8d66cd45a8bd9a3771f6a118ba61e]
 
 (1) In section 6 of the Well-being of Future Generations (Wales) Act 2015 (meaning of public body), after subsection (1)(l) insert—
 
@@ -354,50 +354,50 @@ In Schedule 6 to the Welsh Language (Wales) Measure 2011 (public bodies etc.: st
 
 ## Annotations
 
-[^key-5f821aa1384cd24d9c7e1aea1539993a]: Commencement: Sch. 1 para. 1 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-5f821aa1384cd24d9c7e1aea1539993a]: Commencement: Sch. 1 para. 1 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-ebb086274f7293687e5f550d185a31bc]: Commencement: Sch. 1 para. 2 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-ebb086274f7293687e5f550d185a31bc]: Commencement: Sch. 1 para. 2 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-a24d2731d6da61246f5a40dfa73e7379]: Commencement: Sch. 1 para. 3 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-a24d2731d6da61246f5a40dfa73e7379]: Commencement: Sch. 1 para. 3 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-5d521321136b278092497937090452ff]: Commencement: Sch. 1 para. 4 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-5d521321136b278092497937090452ff]: Commencement: Sch. 1 para. 4 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-ee38ebd3b327dc605f62a8c77e8b42de]: Commencement: Sch. 1 para. 5 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-ee38ebd3b327dc605f62a8c77e8b42de]: Commencement: Sch. 1 para. 5 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-9f13c30fe944794fa7d91233c5b55da8]: Commencement: Sch. 1 para. 6 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-9f13c30fe944794fa7d91233c5b55da8]: Commencement: Sch. 1 para. 6 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-c9fecb29f8cbfc3bfc715dd736d18503]: Commencement: Sch. 1 para. 7 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-c9fecb29f8cbfc3bfc715dd736d18503]: Commencement: Sch. 1 para. 7 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-3b26fa9d4d65713cd9691d2ae1507e54]: Commencement: Sch. 1 para. 8 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-3b26fa9d4d65713cd9691d2ae1507e54]: Commencement: Sch. 1 para. 8 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-6ee3837efb73f5a5a7ac93873f6d53af]: Commencement: Sch. 1 para. 9 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-6ee3837efb73f5a5a7ac93873f6d53af]: Commencement: Sch. 1 para. 9 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-bb86f76d16bfedafb676b9b3f068e52b]: Commencement: Sch. 1 para. 10 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-bb86f76d16bfedafb676b9b3f068e52b]: Commencement: Sch. 1 para. 10 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-92d8215a9b6cda0632efbe17e5fdfe05]: Commencement: Sch. 1 para. 11 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-92d8215a9b6cda0632efbe17e5fdfe05]: Commencement: Sch. 1 para. 11 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-6727225e3d676debbd55fe69ad8936cc]: Commencement: Sch. 1 para. 12 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-6727225e3d676debbd55fe69ad8936cc]: Commencement: Sch. 1 para. 12 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-9b438203aeea8f4c3a208e5dc5179c5e]: Commencement: Sch. 1 para. 13 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-9b438203aeea8f4c3a208e5dc5179c5e]: Commencement: Sch. 1 para. 13 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-10f5fe4ae0241675f61219140c7d1d36]: Commencement: Sch. 1 para. 14 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-10f5fe4ae0241675f61219140c7d1d36]: Commencement: Sch. 1 para. 14 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-9c614a1da548376b38fc2563a8910e57]: Commencement: Sch. 1 para. 15 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-9c614a1da548376b38fc2563a8910e57]: Commencement: Sch. 1 para. 15 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-4389134e6f383c3ffc88fcac5e0f8990]: Commencement: Sch. 1 para. 16 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-4389134e6f383c3ffc88fcac5e0f8990]: Commencement: Sch. 1 para. 16 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-2e9569b8056f74819840075bccad9e08]: Commencement: Sch. 1 para. 17 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-2e9569b8056f74819840075bccad9e08]: Commencement: Sch. 1 para. 17 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-ef85ece57d3f9be15723d26aabe895bf]: Commencement: Sch. 1 para. 18 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-ef85ece57d3f9be15723d26aabe895bf]: Commencement: Sch. 1 para. 18 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-a63f6ba49297d9c9d88bc6651c0a4feb]: Commencement: Sch. 1 para. 19 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-a63f6ba49297d9c9d88bc6651c0a4feb]: Commencement: Sch. 1 para. 19 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-2a2410a71b2b86a696690d0fce074098]: Commencement: Sch. 1 para. 20 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-2a2410a71b2b86a696690d0fce074098]: Commencement: Sch. 1 para. 20 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-351519675bc07fda0cc5b34eeb114237]: Commencement: Sch. 1 para. 21 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-351519675bc07fda0cc5b34eeb114237]: Commencement: Sch. 1 para. 21 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-5122f448639fda42a14bd38652771ec1]: Commencement: Sch. 1 para. 22 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-5122f448639fda42a14bd38652771ec1]: Commencement: Sch. 1 para. 22 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-4962aa323738c69362469fced87246cf]: Commencement: Sch. 1 para. 23 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-4962aa323738c69362469fced87246cf]: Commencement: Sch. 1 para. 23 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
 
-[^key-88c8d66cd45a8bd9a3771f6a118ba61e]: Commencement: Sch. 1 para. 24 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)
+[^c-88c8d66cd45a8bd9a3771f6a118ba61e]: Commencement: Sch. 1 para. 24 in force at 1.4.2027, see [s. 92(2)](https://www.legislation.gov.uk/asc/2025/4/section/92/2)

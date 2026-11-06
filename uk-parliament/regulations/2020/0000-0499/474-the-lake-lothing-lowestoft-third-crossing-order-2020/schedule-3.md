@@ -22,7 +22,7 @@ summary: ''
 
 Article 9
 
-### PART 1 — A12 AND A146[^key-e8ecaef12bf64ad5c691897718503ada]
+### PART 1 — A12 AND A146[^c-e8ecaef12bf64ad5c691897718503ada]
 
 In the administrative area of East Suffolk Council—
 
@@ -122,7 +122,7 @@ A length of existing highway proposed to be re-classified as part of the A146, o
 
 A length of existing highway along both the northbound and southbound carriageways proposed to be re-classified as part of the A146, commencing from the roundabout junction of Gorleston Road (B1375), Normanston Drive (A1117) and Bridge Road (A1117) in a generally north-easterly direction to a point where it joins the existing roundabout junction of Peto Way (A1117), Normanston Drive (A1117), Peto Way (C970), Normanston Drive (A1144) and Fir Lane (unclassified), identified by a blue line on the classification of roads plan.
 
-### PART 2 — OTHER ROADS[^key-d1edc0c3ff101e12650ed77b456908aa]
+### PART 2 — OTHER ROADS[^c-d1edc0c3ff101e12650ed77b456908aa]
 
 #### 25. C970 Lake Lothing Third Crossing Northern Roundabout northern arm (to/from Denmark Road)
 
@@ -138,6 +138,6 @@ A length of new highway proposed to be constructed and to be unclassified from a
 
 ## Annotations
 
-[^key-e8ecaef12bf64ad5c691897718503ada]: Commencement: Sch. 3 Pt. 1 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-e8ecaef12bf64ad5c691897718503ada]: Commencement: Sch. 3 Pt. 1 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-d1edc0c3ff101e12650ed77b456908aa]: Commencement: Sch. 3 Pt. 2 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-d1edc0c3ff101e12650ed77b456908aa]: Commencement: Sch. 3 Pt. 2 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

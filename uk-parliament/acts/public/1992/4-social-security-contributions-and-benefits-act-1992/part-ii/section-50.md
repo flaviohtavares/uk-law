@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Rate of Category B retirement pension for women.[^key-2a1b0c398935befdf84f3b864b5bcb61]
+## 50. Rate of Category B retirement pension for women.[^c-2a1b0c398935befdf84f3b864b5bcb61]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a1b0c398935befdf84f3b864b5bcb61]: Textual amendment: [Ss. 48A-48C](https://www.legislation.gov.uk/ukpga/1992/4/section/48A) substituted for ss. 49, 50 (19.7.1995) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(2)(a)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/2/a), [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/3/1) (with [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/3/2)[(3)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/3/3))
+[^c-2a1b0c398935befdf84f3b864b5bcb61]: Textual amendment: [Ss. 48A-48C](https://www.legislation.gov.uk/ukpga/1992/4/section/48A) substituted for ss. 49, 50 (19.7.1995) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(2)(a)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/2/a), [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/3/1) (with [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/3/2)[(3)](https://www.legislation.gov.uk/ukpga/1995/26/schedule/4/paragraph/3/3))

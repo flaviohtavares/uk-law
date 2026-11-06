@@ -25,10 +25,10 @@ summary: ''
 (5)[^c8519891] Section 12 (except subsections (3) and (6)) of this Act shall apply in relation to—
 
 - (a)[^c8519901] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) regulations relating to pensions under section 51 or 52 of the Police Act 1996[^c8519911] (special constables and police cadets); or[^key-3cbb8b543051df0b8050449b45b0896d]
+- (b) regulations relating to pensions under section 51 or 52 of the Police Act 1996[^c8519911] (special constables and police cadets); or[^c-3cbb8b543051df0b8050449b45b0896d]
 - (ba) regulations made under section 48 of the Police and Fire Reform (Scotland) Act 2012, as extended by article 14 of the Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (special constables and police cadets),
-- (c)[^key-2b0fa560782e3369cb474ac5b7dd6dda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-2b0fa560782e3369cb474ac5b7dd6dda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-2b0fa560782e3369cb474ac5b7dd6dda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-2b0fa560782e3369cb474ac5b7dd6dda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 as it applies in relation to regulations under section 7, 8(2), 9 or 10 of this Act.
 
@@ -42,6 +42,6 @@ as it applies in relation to regulations under section 7, 8(2), 9 or 10 of this 
 
 [^c8519911]: Textual amendment: Words in s. 15(5)(b) substituted (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16), [ss. 103](https://www.legislation.gov.uk/ukpga/1996/16/section/103), [104(1)](https://www.legislation.gov.uk/ukpga/1996/16/section/104/1), [Sch. 7 Pt. II para. 19](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/part/II/paragraph/19)
 
-[^key-3cbb8b543051df0b8050449b45b0896d]: Textual amendment: [S. 15(5)(ba)](https://www.legislation.gov.uk/ukpga/1972/11/section/15/5/ba) and word inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/8/2/a) (with [Sch. 3 para. 10(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/3))
+[^c-3cbb8b543051df0b8050449b45b0896d]: Textual amendment: [S. 15(5)(ba)](https://www.legislation.gov.uk/ukpga/1972/11/section/15/5/ba) and word inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 8(2)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/8/2/a) (with [Sch. 3 para. 10(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/3))
 
-[^key-2b0fa560782e3369cb474ac5b7dd6dda]: Textual amendment: [S. 15(5)(c)](https://www.legislation.gov.uk/ukpga/1972/11/section/15/5/c)[(d)](https://www.legislation.gov.uk/ukpga/1972/11/section/15/5/d) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/8/2/b) (with [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/2))
+[^c-2b0fa560782e3369cb474ac5b7dd6dda]: Textual amendment: [S. 15(5)(c)](https://www.legislation.gov.uk/ukpga/1972/11/section/15/5/c)[(d)](https://www.legislation.gov.uk/ukpga/1972/11/section/15/5/d) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 8(2)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/8/2/b) (with [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/uksi/2013/602/schedule/3/paragraph/10/2))

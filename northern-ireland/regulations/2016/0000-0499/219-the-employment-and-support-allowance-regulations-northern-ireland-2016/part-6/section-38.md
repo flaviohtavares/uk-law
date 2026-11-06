@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Claimants who are treated as not entitled to any allowance at all by reason of regulation 37(1) are to be treated as not having limited capability for work[^key-87a4a10258ecd1d0f02ef9e8859b83f5]
+## 38. Claimants who are treated as not entitled to any allowance at all by reason of regulation 37(1) are to be treated as not having limited capability for work[^c-87a4a10258ecd1d0f02ef9e8859b83f5]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87a4a10258ecd1d0f02ef9e8859b83f5]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2016/219/regulation/38) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-87a4a10258ecd1d0f02ef9e8859b83f5]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2016/219/regulation/38) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Powers exercisable under warrant[^key-255dfd2aeb67a31b00c0f82bb2210d57]
+## 29. Powers exercisable under warrant[^c-255dfd2aeb67a31b00c0f82bb2210d57]
 
 *Extent: E+W+S*
 
@@ -66,4 +66,4 @@ and may be granted subject to further conditions or limitations.
 
 ## Annotations
 
-[^key-255dfd2aeb67a31b00c0f82bb2210d57]: Commencement: S. 29 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-255dfd2aeb67a31b00c0f82bb2210d57]: Commencement: S. 29 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

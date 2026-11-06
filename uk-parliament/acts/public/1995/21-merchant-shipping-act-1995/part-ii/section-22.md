@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-19b2081dc3d4673251c7099b95781987] In Scotland, if any person forges or fraudulently alters—
+(1)[^c-19b2081dc3d4673251c7099b95781987] In Scotland, if any person forges or fraudulently alters—
 
 - (a) any entry or endorsement in the register; or
 - (b) subject to subsection (2) below, any other document as respects which provision is made by, under or by virtue of this Part (or any entry or endorsement in or on such other document and as respects which provision is so made),
@@ -34,4 +34,4 @@ he shall be liable—
 
 ## Annotations
 
-[^key-19b2081dc3d4673251c7099b95781987]: Modification: [S. 22(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/22/1) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)
+[^c-19b2081dc3d4673251c7099b95781987]: Modification: [S. 22(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/22/1) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)

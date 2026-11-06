@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Guarantees where education administration order is made[^key-4a52101a52f0aaa381f884c6acd2e159]
+## 30. Guarantees where education administration order is made[^c-4a52101a52f0aaa381f884c6acd2e159]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a52101a52f0aaa381f884c6acd2e159]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/19/section/30) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-4a52101a52f0aaa381f884c6acd2e159]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/19/section/30) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

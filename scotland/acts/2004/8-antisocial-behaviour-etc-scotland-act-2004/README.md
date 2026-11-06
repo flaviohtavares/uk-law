@@ -254,7 +254,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 96 — Notification of revocation of notice](part-8/section-96.md)
 - [Section 97 — Appeals](part-8/section-97.md)
 
-#### Information[^key-b6acba142f84442fb82cfa74624fb401]
+#### Information[^c-b6acba142f84442fb82cfa74624fb401]
 
 *Extent: S*
 
@@ -269,7 +269,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 99 — Regulations about advice and assistance: Part 8](part-8/section-99.md)
 
-#### Guidance[^key-bf172db2b8f570f4b90f77c6c11e22f7]
+#### Guidance[^c-bf172db2b8f570f4b90f77c6c11e22f7]
 
 - [Section 99A — Guidance](part-8/section-99a.md)
 
@@ -404,6 +404,6 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-b6acba142f84442fb82cfa74624fb401]: Textual amendment: Ss. 97A, 97B and cross-heading inserted (1.4.2013) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 9](https://www.legislation.gov.uk/asp/2011/14/section/9), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-b6acba142f84442fb82cfa74624fb401]: Textual amendment: Ss. 97A, 97B and cross-heading inserted (1.4.2013) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 9](https://www.legislation.gov.uk/asp/2011/14/section/9), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
 
-[^key-bf172db2b8f570f4b90f77c6c11e22f7]: Textual amendment: S. 99A and cross-heading inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 10](https://www.legislation.gov.uk/asp/2011/14/section/10), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-bf172db2b8f570f4b90f77c6c11e22f7]: Textual amendment: S. 99A and cross-heading inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 10](https://www.legislation.gov.uk/asp/2011/14/section/10), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)

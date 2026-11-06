@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Wild game bird products[^key-8f869ee60ffea5708654d618ea2ee36c]
+## SCHEDULE 8 — Wild game bird products[^c-8f869ee60ffea5708654d618ea2ee36c]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ Articles 30, 31, 31A and 46
 
 ## Annotations
 
-[^key-8f869ee60ffea5708654d618ea2ee36c]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/uksi/2006/2702/schedule/8) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(21)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/21)
+[^c-8f869ee60ffea5708654d618ea2ee36c]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/uksi/2006/2702/schedule/8) inserted (21.12.2021) by [The Exotic Animal Disease (Amendment) (England) Order 2021 (S.I. 2021/1472)](https://www.legislation.gov.uk/uksi/2021/1472), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1472/article/1/1), [3(21)](https://www.legislation.gov.uk/uksi/2021/1472/article/3/21)

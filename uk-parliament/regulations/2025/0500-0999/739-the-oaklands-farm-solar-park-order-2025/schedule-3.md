@@ -22,7 +22,7 @@ summary: ''
 
 Article 9
 
-### PART 1 — PERMANENT ALTERATION TO LAYOUT[^key-f75857bc9f3743c9ba065f8a495b4c37]
+### PART 1 — PERMANENT ALTERATION TO LAYOUT[^c-f75857bc9f3743c9ba065f8a495b4c37]
 
 | (1) Area | (2) Street Subject to alteration | (3) Extent of alterations |
 | --- | --- | --- |
@@ -34,7 +34,7 @@ Article 9
 | Derbyshire | Coton Road | Vegetation clearance for the creation of visibility splays at the point marked AS-D4 on sheet 4 of the streets, access and rights of way plan |
 | Derbyshire | Coton Road | Works for the provision of a permanent means of access at the point marked AS-F1 on sheet 4 of the streets, access and rights of way plan |
 
-### PART 2 — TEMPORARY ALTERATION TO LAYOUT[^key-7cb0a7aa893e71af92b6bad1bbe49adf]
+### PART 2 — TEMPORARY ALTERATION TO LAYOUT[^c-7cb0a7aa893e71af92b6bad1bbe49adf]
 
 | (1) Area | (2) Street subject to alteration | (3) Extent of alterations |
 | --- | --- | --- |
@@ -45,6 +45,6 @@ Article 9
 
 ## Annotations
 
-[^key-f75857bc9f3743c9ba065f8a495b4c37]: Commencement: Sch. 3 Pt. 1 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-f75857bc9f3743c9ba065f8a495b4c37]: Commencement: Sch. 3 Pt. 1 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-7cb0a7aa893e71af92b6bad1bbe49adf]: Commencement: Sch. 3 Pt. 2 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-7cb0a7aa893e71af92b6bad1bbe49adf]: Commencement: Sch. 3 Pt. 2 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)

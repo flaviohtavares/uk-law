@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Studies for improving economy etc. in services.[^key-8d9d8ed73a454973c3145f4094b55f8e][^c9676411]
+## 97A. Studies for improving economy etc. in services.[^c-8d9d8ed73a454973c3145f4094b55f8e][^c9676411]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
+[^c-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
 
 [^c9676411]: Textual amendment: [Ss. 97A](https://www.legislation.gov.uk/ukpga/1973/65/section/97A), [97B](https://www.legislation.gov.uk/ukpga/1973/65/section/97B) inserted by [Local Government Act 1988 (c. 9, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1988/9), [s. 35(3)](https://www.legislation.gov.uk/ukpga/1988/9/section/35/3)
 

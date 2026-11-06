@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Exempt activities[^key-b06aeec73871d4ab1eeaa7e807201907]
+## 9. Exempt activities[^c-b06aeec73871d4ab1eeaa7e807201907]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The cases and circumstances prescribed for the purposes of Article 8(7) of the O
 
 ## Annotations
 
-[^key-b06aeec73871d4ab1eeaa7e807201907]: Commencement: Reg. 9 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-b06aeec73871d4ab1eeaa7e807201907]: Commencement: Reg. 9 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

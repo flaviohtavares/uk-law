@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Fees and charges[^key-be8a4707b7fb965374c34d2b99f28bc9]
+## 38. Fees and charges[^c-be8a4707b7fb965374c34d2b99f28bc9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may by regulations make provision for the charging of fee
 
 ## Annotations
 
-[^key-be8a4707b7fb965374c34d2b99f28bc9]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2003/8/section/38) in force at 22.9.2004 for specified purposes and 1.5.2005 in so far as not already in force by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2004/404/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/404/schedule/1)
+[^c-be8a4707b7fb965374c34d2b99f28bc9]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2003/8/section/38) in force at 22.9.2004 for specified purposes and 1.5.2005 in so far as not already in force by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2004/404/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/404/schedule/1)

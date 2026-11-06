@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Fees[^key-2f5df8b230e6e58ea487b2d8b6fdfa26][^key-36251390d47bd947b2f2352ff03a15c0]
+## 76. Fees[^c-2f5df8b230e6e58ea487b2d8b6fdfa26][^c-36251390d47bd947b2f2352ff03a15c0]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f5df8b230e6e58ea487b2d8b6fdfa26]: Commencement: [S. 76](https://www.legislation.gov.uk/anaw/2017/2/section/76) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(i)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/i)
+[^c-2f5df8b230e6e58ea487b2d8b6fdfa26]: Commencement: [S. 76](https://www.legislation.gov.uk/anaw/2017/2/section/76) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(i)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/i)
 
-[^key-36251390d47bd947b2f2352ff03a15c0]: Commencement: [S. 76](https://www.legislation.gov.uk/anaw/2017/2/section/76) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(s)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/s) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-36251390d47bd947b2f2352ff03a15c0]: Commencement: [S. 76](https://www.legislation.gov.uk/anaw/2017/2/section/76) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(s)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/s) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

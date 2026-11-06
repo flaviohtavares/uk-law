@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1104. Company distributing dividend or interest: duty to provide tax certificates[^key-6b175c8ed57ccd08d671bcc2504f1655]
+## 1104. Company distributing dividend or interest: duty to provide tax certificates[^c-6b175c8ed57ccd08d671bcc2504f1655]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b175c8ed57ccd08d671bcc2504f1655]: Modification: S. 1104 applied (with modifications) (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [28(2)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/28/2)
+[^c-6b175c8ed57ccd08d671bcc2504f1655]: Modification: S. 1104 applied (with modifications) (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [28(2)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/28/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 162. Personal delivery[^key-74bd4f2ba398aa4224b832616c2afac4]
+## 162. Personal delivery[^c-74bd4f2ba398aa4224b832616c2afac4]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74bd4f2ba398aa4224b832616c2afac4]: Commencement: Rule 162 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-74bd4f2ba398aa4224b832616c2afac4]: Commencement: Rule 162 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

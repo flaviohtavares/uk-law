@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Transfer of functions of harbour authority, navigation authority and statutory undertaker[^key-5681ce1ee3ccee7cd36210f9a134c05f]
+## 3. Transfer of functions of harbour authority, navigation authority and statutory undertaker[^c-5681ce1ee3ccee7cd36210f9a134c05f]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ those functions become functions of Canal & River Trust in relation to England a
 
 ## Annotations
 
-[^key-5681ce1ee3ccee7cd36210f9a134c05f]: Commencement: Art. 3 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-5681ce1ee3ccee7cd36210f9a134c05f]: Commencement: Art. 3 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
 
 [^f00009]: Footnote: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65). Paragraph 18 of Schedule 16 was amended by the Gas Act [1986 (c. 44)](https://www.legislation.gov.uk/ukpga/1986/44), section 67(4) and Schedule 9, Part 1, the Electricity Act [1989 (c. 29)](https://www.legislation.gov.uk/ukpga/1989/29), section 112(4) and Schedule 18, and the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), section 190 and Schedule 25, paragraph 61.

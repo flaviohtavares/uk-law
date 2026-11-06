@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. The advisory function[^key-06bcf64c3cbcf9324424de39d25911fc][^key-249b4ad76103107e8d6dc9845febf403]
+## 5. The advisory function[^c-06bcf64c3cbcf9324424de39d25911fc][^c-249b4ad76103107e8d6dc9845febf403]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-06bcf64c3cbcf9324424de39d25911fc]: Commencement: S. 5 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-06bcf64c3cbcf9324424de39d25911fc]: Commencement: S. 5 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-249b4ad76103107e8d6dc9845febf403]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2025/11/section/5) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-249b4ad76103107e8d6dc9845febf403]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2025/11/section/5) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

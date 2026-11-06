@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Local authority plans[^key-813a86e13c3f89bd82656be252b5b8e0]
+## 4. Local authority plans[^c-813a86e13c3f89bd82656be252b5b8e0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-813a86e13c3f89bd82656be252b5b8e0]: Textual amendment: S. 4 repealed (1.4.2017) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [sch. 5 para. 11(2)](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/11/2); [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(3)(c)](https://www.legislation.gov.uk/ssi/2016/254/article/3/3/c)
+[^c-813a86e13c3f89bd82656be252b5b8e0]: Textual amendment: S. 4 repealed (1.4.2017) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [sch. 5 para. 11(2)](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/11/2); [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(3)(c)](https://www.legislation.gov.uk/ssi/2016/254/article/3/3/c)

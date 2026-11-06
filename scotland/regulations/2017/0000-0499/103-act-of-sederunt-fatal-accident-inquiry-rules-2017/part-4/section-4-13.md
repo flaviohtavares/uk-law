@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.13. Witness statements[^key-25b86d0833f08fcff7c2b8f4cfbe2ac5]
+## 4.13. Witness statements[^c-25b86d0833f08fcff7c2b8f4cfbe2ac5]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25b86d0833f08fcff7c2b8f4cfbe2ac5]: Commencement: [Rule 4.13](https://www.legislation.gov.uk/ssi/2017/103/rule/4.13) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-25b86d0833f08fcff7c2b8f4cfbe2ac5]: Commencement: [Rule 4.13](https://www.legislation.gov.uk/ssi/2017/103/rule/4.13) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

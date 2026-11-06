@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Amendment of regulation 181 (delegation of obligations under Part 11)[^M_I_efe4236a-66c8-43c4-cf8a-d414ef89d236][^key-689f15453fafed735223f15d116e6b69]
+## 141. Amendment of regulation 181 (delegation of obligations under Part 11)[^M_I_efe4236a-66c8-43c4-cf8a-d414ef89d236][^c-689f15453fafed735223f15d116e6b69]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In regulation 181(1), for “to another EEA State” substitute “in connection
 
 [^M_I_efe4236a-66c8-43c4-cf8a-d414ef89d236]: Commencement: Reg. 141 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-689f15453fafed735223f15d116e6b69]: Textual amendment: Reg. 141 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 110](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/110)
+[^c-689f15453fafed735223f15d116e6b69]: Textual amendment: Reg. 141 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 110](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/110)

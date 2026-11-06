@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Applications for registration accompanied by applications for anonymous entry not available for public inspection[^key-8462f680cde307c81e6215891c4aba4f]
+## 8. Applications for registration accompanied by applications for anonymous entry not available for public inspection[^c-8462f680cde307c81e6215891c4aba4f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8462f680cde307c81e6215891c4aba4f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/2910/regulation/8) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-8462f680cde307c81e6215891c4aba4f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2006/2910/regulation/8) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

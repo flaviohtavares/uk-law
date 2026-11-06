@@ -40,7 +40,7 @@ Section 123.
 
 **3.** (1) The Social Security Administration Act 1992 is amended as follows.
 
-(2)[^key-4551a96174fa1d7e563017ef825cb415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4551a96174fa1d7e563017ef825cb415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 116(4) (legal proceedings for offences: definition of “appropriate authority”)—
 
@@ -62,14 +62,14 @@ Section 123.
 - (b) in the definition of “rate rebate”, “rent rebate” and “rent allowance”, omit the reference to rate rebate;
 - (c) omit the definitions of “rates” and “rating authority”.
 
-### ...[^key-dbc7fcf76d9b485c91bff92cb542dc12]
+### ...[^c-dbc7fcf76d9b485c91bff92cb542dc12]
 
 *Extent: E+W*
 
-**4.**[^key-dbc7fcf76d9b485c91bff92cb542dc12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-dbc7fcf76d9b485c91bff92cb542dc12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4551a96174fa1d7e563017ef825cb415]: Textual amendment: Sch. 13 para. 3(2) repealed (7.4.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/5/schedule/8); [S.I. 2007/2872](https://www.legislation.gov.uk/uksi/2007/2872), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2007/2872/article/2/1/c) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2007/2872/article/3))
+[^c-4551a96174fa1d7e563017ef825cb415]: Textual amendment: Sch. 13 para. 3(2) repealed (7.4.2008) by [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2007/5/section/70/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/5/schedule/8); [S.I. 2007/2872](https://www.legislation.gov.uk/uksi/2007/2872), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2007/2872/article/2/1/c) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2007/2872/article/3))
 
-[^key-dbc7fcf76d9b485c91bff92cb542dc12]: Textual amendment: [Sch. 13 para. 4 and crossheading](https://www.legislation.gov.uk/ukpga/1996/52/schedule/13/crossheading/leasehold-reform-housing-and-urban-development-act-1993-c28) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-dbc7fcf76d9b485c91bff92cb542dc12]: Textual amendment: [Sch. 13 para. 4 and crossheading](https://www.legislation.gov.uk/ukpga/1996/52/schedule/13/crossheading/leasehold-reform-housing-and-urban-development-act-1993-c28) repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

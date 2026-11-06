@@ -36,14 +36,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Welfare funds
 
-### 1. Welfare funds[^key-ef0a9f1bb9a507ae65373311970a77f4]
+### 1. Welfare funds[^c-ef0a9f1bb9a507ae65373311970a77f4]
 
 Each local authority is to maintain a fund (called a “welfare fund”) comprising—
 
 - (a) any grants paid into the fund by the Scottish Ministers, and
 - (b) any amounts paid into the fund by the local authority.
 
-### 2. Use of welfare funds: assistance for short term need and community care[^key-0eb7284a9f2d9f5389f85d5b64a39323]
+### 2. Use of welfare funds: assistance for short term need and community care[^c-0eb7284a9f2d9f5389f85d5b64a39323]
 
 (1) A local authority may use its welfare fund only in order to provide occasional financial or other assistance to or in respect of individuals for the purposes of—
 
@@ -65,21 +65,21 @@ Each local authority is to maintain a fund (called a “welfare fund”) compris
 
 ### 3. Review of decisions
 
-(1)[^key-585bea8ca556af220f23ba6ee89ad845] Where an applicant for assistance in pursuance of section 2 from a local authority applies to it to do so, the local authority must review its decision on the application.
+(1)[^c-585bea8ca556af220f23ba6ee89ad845] Where an applicant for assistance in pursuance of section 2 from a local authority applies to it to do so, the local authority must review its decision on the application.
 
-(2)[^key-585bea8ca556af220f23ba6ee89ad845] Subsection (1) is subject to subsection (3).
+(2)[^c-585bea8ca556af220f23ba6ee89ad845] Subsection (1) is subject to subsection (3).
 
-(3)[^key-e8d7cce1b6aa7c91f71a04ae37a76a28] The Scottish Ministers may by regulations—
+(3)[^c-e8d7cce1b6aa7c91f71a04ae37a76a28] The Scottish Ministers may by regulations—
 
 - (a) provide as to circumstances in which a decision made in pursuance of section 2 is not to be reviewed under subsection (1),
 - (b) provide as to how an application for review under subsection (1) is to be made,
 - (c) provide as to time limits for the making of applications for review under subsection (1).
 
-(4)[^key-e8d7cce1b6aa7c91f71a04ae37a76a28] Regulations made under this section are subject to the affirmative procedure.
+(4)[^c-e8d7cce1b6aa7c91f71a04ae37a76a28] Regulations made under this section are subject to the affirmative procedure.
 
 ## Supplementary
 
-### 4. Further provision[^key-9ad425e3a5cf0c352eb748f32061f220]
+### 4. Further provision[^c-9ad425e3a5cf0c352eb748f32061f220]
 
 (1) The Scottish Ministers may, by regulations, make further provision in connection with sections 1 to 3.
 
@@ -108,14 +108,14 @@ Each local authority is to maintain a fund (called a “welfare fund”) compris
 
 (5) Regulations made under this section are subject to the affirmative procedure.
 
-### 5. Respect for, and dignity of, applicants for assistance[^key-23c9c50dc35e1254b1713e2c39e1103d]
+### 5. Respect for, and dignity of, applicants for assistance[^c-23c9c50dc35e1254b1713e2c39e1103d]
 
 In exercising its functions under sections 1 to 3, or any regulations under section 4, a local authority must take reasonable steps to ensure—
 
 - (a) that applicants for assistance in pursuance of section 2 are treated with respect, and
 - (b) that their dignity is preserved.
 
-### 6. Guidance[^key-ab1cc19a2b98b5a292b7de8febd68205]
+### 6. Guidance[^c-ab1cc19a2b98b5a292b7de8febd68205]
 
 (1) A local authority must have regard to any guidance issued by the Scottish Ministers in connection with the exercise of its functions under—
 
@@ -138,7 +138,7 @@ In exercising its functions under sections 1 to 3, or any regulations under sect
 
 ## Further review by Scottish Public Services Ombudsman
 
-### 7. Application to Ombudsman for further review[^key-a85a5e19ca33b2cfef253eaf6b059f9b]
+### 7. Application to Ombudsman for further review[^c-a85a5e19ca33b2cfef253eaf6b059f9b]
 
 (1) Subsection (2) applies where an applicant for assistance in pursuance of section 2 is dissatisfied with the outcome of a review by a local authority in pursuance of section 3.
 
@@ -153,7 +153,7 @@ In exercising its functions under sections 1 to 3, or any regulations under sect
 
 (5) It is for the Ombudsman to determine whether an application under subsection (2) has been duly made.
 
-### 8. Ombudsman's powers[^key-f22583ee0fa1cad00b43591128d94ed0]
+### 8. Ombudsman's powers[^c-f22583ee0fa1cad00b43591128d94ed0]
 
 If, on a review in pursuance of an application under section 7(2), the Ombudsman considers that a different decision should have been made by the local authority, the Ombudsman may quash the decision and—
 
@@ -162,7 +162,7 @@ If, on a review in pursuance of an application under section 7(2), the Ombudsman
   - (i) the assistance concerned, or
   - (ii) any other assistance (being assistance which may be provided by the local authority under section 2).
 
-### 9. Statement of practice[^key-6032555686a8fc25dce3dbf5d92cd091]
+### 9. Statement of practice[^c-6032555686a8fc25dce3dbf5d92cd091]
 
 (1) The Ombudsman must prepare a statement of practice setting out the approach which the Ombudsman intends to take to the conduct of reviews in pursuance of applications under section 7(2).
 
@@ -177,7 +177,7 @@ If, on a review in pursuance of an application under section 7(2), the Ombudsman
 
 (5) Subsections (2) to (4) apply to a revised statement of practice as they apply to the original statement of practice.
 
-### 10. Procedural matters[^key-0e6a8f8f7634fdff53d85addc9e3eee7]
+### 10. Procedural matters[^c-0e6a8f8f7634fdff53d85addc9e3eee7]
 
 (1) The procedure for conducting a review in pursuance of an application under section 7(2) is to be such as the Ombudsman thinks fit.
 
@@ -206,7 +206,7 @@ If, on a review in pursuance of an application under section 7(2), the Ombudsman
 
 (7) The Ombudsman must publish any such rules as soon as reasonably practicable.
 
-### 11. Notice of decision and publication of report[^key-8740f46ddcc5468a7f5b210898840fbb]
+### 11. Notice of decision and publication of report[^c-8740f46ddcc5468a7f5b210898840fbb]
 
 (1) After conducting a review in pursuance of an application under section 7(2), the Ombudsman—
 
@@ -220,11 +220,11 @@ If, on a review in pursuance of an application under section 7(2), the Ombudsman
 
 ## General
 
-### 12. Interpretation[^key-abe01604ed33f3d6e5bf024388466b19]
+### 12. Interpretation[^c-abe01604ed33f3d6e5bf024388466b19]
 
 In this Act, “**the Ombudsman**” means the Scottish Public Services Ombudsman.
 
-### 13. Consequential modifications[^key-7f8f9928f0baee2e2e8b8894484d60eb]
+### 13. Consequential modifications[^c-7f8f9928f0baee2e2e8b8894484d60eb]
 
 (1) The Scottish Public Services Ombudsman Act 2002 is modified as follows.
 
@@ -320,30 +320,30 @@ The short title of this Act is the Welfare Funds (Scotland) Act 2015.
 
 ## Annotations
 
-[^key-ef0a9f1bb9a507ae65373311970a77f4]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2015/5/section/1) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
+[^c-ef0a9f1bb9a507ae65373311970a77f4]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2015/5/section/1) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
 
-[^key-0eb7284a9f2d9f5389f85d5b64a39323]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2015/5/section/2) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
+[^c-0eb7284a9f2d9f5389f85d5b64a39323]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2015/5/section/2) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
 
-[^key-585bea8ca556af220f23ba6ee89ad845]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/asp/2015/5/section/3/1)[(2)](https://www.legislation.gov.uk/asp/2015/5/section/3/2) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
+[^c-585bea8ca556af220f23ba6ee89ad845]: Commencement: [S. 3(1)](https://www.legislation.gov.uk/asp/2015/5/section/3/1)[(2)](https://www.legislation.gov.uk/asp/2015/5/section/3/2) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
 
-[^key-e8d7cce1b6aa7c91f71a04ae37a76a28]: Commencement: [S. 3(3)](https://www.legislation.gov.uk/asp/2015/5/section/3/3)[(4)](https://www.legislation.gov.uk/asp/2015/5/section/3/4) in force at 1.2.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/428/article/2/1)
+[^c-e8d7cce1b6aa7c91f71a04ae37a76a28]: Commencement: [S. 3(3)](https://www.legislation.gov.uk/asp/2015/5/section/3/3)[(4)](https://www.legislation.gov.uk/asp/2015/5/section/3/4) in force at 1.2.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/428/article/2/1)
 
-[^key-9ad425e3a5cf0c352eb748f32061f220]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2015/5/section/4) in force at 1.2.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/428/article/2/1)
+[^c-9ad425e3a5cf0c352eb748f32061f220]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2015/5/section/4) in force at 1.2.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/428/article/2/1)
 
-[^key-23c9c50dc35e1254b1713e2c39e1103d]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2015/5/section/5) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
+[^c-23c9c50dc35e1254b1713e2c39e1103d]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2015/5/section/5) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
 
-[^key-ab1cc19a2b98b5a292b7de8febd68205]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2015/5/section/6) in force at 1.2.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/428/article/2/1)
+[^c-ab1cc19a2b98b5a292b7de8febd68205]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2015/5/section/6) in force at 1.2.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/428/article/2/1)
 
-[^key-a85a5e19ca33b2cfef253eaf6b059f9b]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2015/5/section/7) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
+[^c-a85a5e19ca33b2cfef253eaf6b059f9b]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2015/5/section/7) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
 
-[^key-f22583ee0fa1cad00b43591128d94ed0]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2015/5/section/8) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
+[^c-f22583ee0fa1cad00b43591128d94ed0]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2015/5/section/8) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
 
-[^key-6032555686a8fc25dce3dbf5d92cd091]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2015/5/section/9) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
+[^c-6032555686a8fc25dce3dbf5d92cd091]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2015/5/section/9) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
 
-[^key-0e6a8f8f7634fdff53d85addc9e3eee7]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2015/5/section/10) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
+[^c-0e6a8f8f7634fdff53d85addc9e3eee7]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2015/5/section/10) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
 
-[^key-8740f46ddcc5468a7f5b210898840fbb]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2015/5/section/11) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
+[^c-8740f46ddcc5468a7f5b210898840fbb]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2015/5/section/11) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
 
-[^key-abe01604ed33f3d6e5bf024388466b19]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2015/5/section/12) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
+[^c-abe01604ed33f3d6e5bf024388466b19]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2015/5/section/12) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
 
-[^key-7f8f9928f0baee2e2e8b8894484d60eb]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2015/5/section/13) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
+[^c-7f8f9928f0baee2e2e8b8894484d60eb]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2015/5/section/13) in force at 1.4.2016 by [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)

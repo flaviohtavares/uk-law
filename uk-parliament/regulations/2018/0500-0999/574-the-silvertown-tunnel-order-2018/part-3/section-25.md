@@ -38,7 +38,7 @@ summary: ''
   > (2) But see article 27(4) (acquisition of subsoil, etc., only) of the Silvertown Tunnel Order 2018, which excludes the acquisition of subsoil or airspace only from this Schedule
 
   ; and
-- (b) after paragraph 29, [^key-548695201c7946a7b1cb9628bb379600]... insert—
+- (b) after paragraph 29, [^c-548695201c7946a7b1cb9628bb379600]... insert—
 
   > **PART 4 — INTERPRETATION**
   >
@@ -54,4 +54,4 @@ summary: ''
 
 [^c22957441]: Marginal citation: As inserted by section 186(3) of the [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
-[^key-548695201c7946a7b1cb9628bb379600]: Textual amendment: Word in [art. 25(5)(b)](https://www.legislation.gov.uk/uksi/2018/574/article/25/5/b) omitted (22.2.2019) by virtue of [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/413/article/2/5)
+[^c-548695201c7946a7b1cb9628bb379600]: Textual amendment: Word in [art. 25(5)(b)](https://www.legislation.gov.uk/uksi/2018/574/article/25/5/b) omitted (22.2.2019) by virtue of [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2019/413/article/2/5)

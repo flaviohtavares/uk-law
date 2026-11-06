@@ -48,7 +48,7 @@ summary: ''
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Directive is implemented in other relevant[^key-6b65883980094afa2f910fc443d952ef] states.
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Directive is implemented in other relevant[^c-6b65883980094afa2f910fc443d952ef] states.
 
 (3) The report must, in particular—
 
@@ -66,4 +66,4 @@ summary: ''
 
 [^M_E_d2a611dc-572d-4bad-a478-cfdb27186e1f]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-6b65883980094afa2f910fc443d952ef]: Textual amendment: Word in [reg. 77(2)](https://www.legislation.gov.uk/uksi/2016/1152/regulation/77/2) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 13 para. 7](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/7)
+[^c-6b65883980094afa2f910fc443d952ef]: Textual amendment: Word in [reg. 77(2)](https://www.legislation.gov.uk/uksi/2016/1152/regulation/77/2) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 13 para. 7](https://www.legislation.gov.uk/uksi/2020/1112/schedule/13/paragraph/7)

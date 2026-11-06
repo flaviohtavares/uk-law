@@ -49,7 +49,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) Resignation may not be rescinded.
 
-(5)[^key-5b68f2337893374fbd0395f35934ecf1] Where a notice under this section is given and signed by a person on behalf of a peer who lacks capacity to give or sign the notice, the notice must be given and signed in accordance with Standing Orders of the House.
+(5)[^c-5b68f2337893374fbd0395f35934ecf1] Where a notice under this section is given and signed by a person on behalf of a peer who lacks capacity to give or sign the notice, the notice must be given and signed in accordance with Standing Orders of the House.
 
 ## 2. Non-attendance
 
@@ -111,18 +111,18 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (2) The person becomes disqualified from attending the proceedings of the House of Lords (including the proceedings of a Committee of the House).
 
-(3) Accordingly, the person shall not be entitled to receive a writ to attend the House (whether under section 1 of the Life Peerages Act 1958, by virtue of the dignity conferred by virtue of appointment as a Lord of Appeal in Ordinary [^key-984af8fa7f11972340ad290adb796449]... or as a Lord Spiritual) and may not attend the House in pursuance of a writ already received.
+(3) Accordingly, the person shall not be entitled to receive a writ to attend the House (whether under section 1 of the Life Peerages Act 1958, by virtue of the dignity conferred by virtue of appointment as a Lord of Appeal in Ordinary [^c-984af8fa7f11972340ad290adb796449]... or as a Lord Spiritual) and may not attend the House in pursuance of a writ already received.
 
-(4)[^key-bbe838c92435f8f698f6f63756ee6557] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-bbe838c92435f8f698f6f63756ee6557] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) If the person is a peer [^key-c4ac464c0165a9f4de3afb8febdd57b2]..., the person is not, by virtue of that peerage, disqualified for—
+(5) If the person is a peer [^c-c4ac464c0165a9f4de3afb8febdd57b2]..., the person is not, by virtue of that peerage, disqualified for—
 
 - (a) voting at elections to the House of Commons, or
 - (b) being, or being elected as, a member of that House.
 
-(6)[^key-0a0695ccd9b5627a47c640adfc9bdcfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-0a0695ccd9b5627a47c640adfc9bdcfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-d778be7e4c136134422d19c106d8ade3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-d778be7e4c136134422d19c106d8ade3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Subject to section 3(7), a person who ceases to be a member of the House of Lords in accordance with this Act may not subsequently become a member of that House.
 
@@ -140,8 +140,8 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - (a) section 2 of the Forfeiture Act 1870 (disqualification on conviction of treason);
 - (b) sections 426A and 427 of the Insolvency Act 1986 (disqualification on insolvency);
-- (c)[^key-1d2758410c2ea5ebbca079fa5c9789bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-6dff311bb2f885bf3b51e5ff1ffedf67] section 1(3) of the House of Lords (Expulsion and Suspension) Act 2015 (suspension).
+- (c)[^c-1d2758410c2ea5ebbca079fa5c9789bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-6dff311bb2f885bf3b51e5ff1ffedf67] section 1(3) of the House of Lords (Expulsion and Suspension) Act 2015 (suspension).
 
 (3) In this Act “**peer**” includes a person upon whom a dignity has been conferred by virtue of appointment as a Lord of Appeal in Ordinary.
 
@@ -157,18 +157,18 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-5b68f2337893374fbd0395f35934ecf1]: Textual amendment: S. 1(5) inserted (18.3.2026) by [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 2](https://www.legislation.gov.uk/ukpga/2026/12/section/2), [5(3)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/3)
+[^c-5b68f2337893374fbd0395f35934ecf1]: Textual amendment: S. 1(5) inserted (18.3.2026) by [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 2](https://www.legislation.gov.uk/ukpga/2026/12/section/2), [5(3)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/3)
 
-[^key-984af8fa7f11972340ad290adb796449]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/24/section/4/3) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/4/a), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
+[^c-984af8fa7f11972340ad290adb796449]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/24/section/4/3) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/4/a), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
 
-[^key-bbe838c92435f8f698f6f63756ee6557]: Textual amendment: [S. 4(4)](https://www.legislation.gov.uk/ukpga/2014/24/section/4/4) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/4/b), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
+[^c-bbe838c92435f8f698f6f63756ee6557]: Textual amendment: [S. 4(4)](https://www.legislation.gov.uk/ukpga/2014/24/section/4/4) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/4/b), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
 
-[^key-c4ac464c0165a9f4de3afb8febdd57b2]: Textual amendment: Words in [s. 4(5)](https://www.legislation.gov.uk/ukpga/2014/24/section/4/5) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(4)(c)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/4/c), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
+[^c-c4ac464c0165a9f4de3afb8febdd57b2]: Textual amendment: Words in [s. 4(5)](https://www.legislation.gov.uk/ukpga/2014/24/section/4/5) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(4)(c)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/4/c), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
 
-[^key-0a0695ccd9b5627a47c640adfc9bdcfd]: Textual amendment: S. 4(6) omitted (16.1.2024) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/10) (with [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/13)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)
+[^c-0a0695ccd9b5627a47c640adfc9bdcfd]: Textual amendment: S. 4(6) omitted (16.1.2024) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/10) (with [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/13)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)
 
-[^key-d778be7e4c136134422d19c106d8ade3]: Textual amendment: [S. 4(7)](https://www.legislation.gov.uk/ukpga/2014/24/section/4/7) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(4)(d)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/4/d), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
+[^c-d778be7e4c136134422d19c106d8ade3]: Textual amendment: [S. 4(7)](https://www.legislation.gov.uk/ukpga/2014/24/section/4/7) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(4)(d)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/4/d), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
 
-[^key-1d2758410c2ea5ebbca079fa5c9789bd]: Textual amendment: [S. 6(2)(c)](https://www.legislation.gov.uk/ukpga/2014/24/section/6/2/c) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-1d2758410c2ea5ebbca079fa5c9789bd]: Textual amendment: [S. 6(2)(c)](https://www.legislation.gov.uk/ukpga/2014/24/section/6/2/c) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-6dff311bb2f885bf3b51e5ff1ffedf67]: Textual amendment: S. 6(2)(d) inserted (26.6.2015) by [House of Lords (Expulsion and Suspension) Act 2015 (c. 14)](https://www.legislation.gov.uk/ukpga/2015/14), [ss. 2](https://www.legislation.gov.uk/ukpga/2015/14/section/2), [4(2)](https://www.legislation.gov.uk/ukpga/2015/14/section/4/2)
+[^c-6dff311bb2f885bf3b51e5ff1ffedf67]: Textual amendment: S. 6(2)(d) inserted (26.6.2015) by [House of Lords (Expulsion and Suspension) Act 2015 (c. 14)](https://www.legislation.gov.uk/ukpga/2015/14), [ss. 2](https://www.legislation.gov.uk/ukpga/2015/14/section/2), [4(2)](https://www.legislation.gov.uk/ukpga/2015/14/section/4/2)

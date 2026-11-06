@@ -31,8 +31,8 @@ summary: ''
 
 the company's gross profits of the accounting period for the purposes of section 105 of that Act (restriction on surrender of those amounts) are not to include the policyholders' share of the I - E profit (as determined for the purposes of section 102).
 
-(4)[^key-18d5521e691fbe8a9dc7d50afe7ba930] For provision about the application of Part 5A of CTA 2010 (group relief for carried-forward losses) in relation to BLAGAB trade losses see subsections (3) to (5) of section 188BB of that Act.
+(4)[^c-18d5521e691fbe8a9dc7d50afe7ba930] For provision about the application of Part 5A of CTA 2010 (group relief for carried-forward losses) in relation to BLAGAB trade losses see subsections (3) to (5) of section 188BB of that Act.
 
 ## Annotations
 
-[^key-18d5521e691fbe8a9dc7d50afe7ba930]: Textual amendment: S. 125(4) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 187](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/187)
+[^c-18d5521e691fbe8a9dc7d50afe7ba930]: Textual amendment: S. 125(4) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 187](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/187)

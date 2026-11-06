@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Removal of persons unlawfully in the United Kingdom[^key-c940156277bf47aef40bd7913da26482][^M_C_59f44a2b-57b6-4d06-92a3-c34536dd760e]
+## 1. Removal of persons unlawfully in the United Kingdom[^c-c940156277bf47aef40bd7913da26482][^M_C_59f44a2b-57b6-4d06-92a3-c34536dd760e]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,6 +72,6 @@ For section 10 of the Immigration and Asylum Act 1999, substitute—
 
 ## Annotations
 
-[^key-c940156277bf47aef40bd7913da26482]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/22/section/1) in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/a) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
+[^c-c940156277bf47aef40bd7913da26482]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2014/22/section/1) in force at 20.10.2014 by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2771/article/2/a) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2014/2771/article/9)) (as amended (2.3.2015 and 6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(2)(3), 7, 8; and with transitional provisions and savings in [S.I. 2014/2928](https://www.legislation.gov.uk/uksi/2014/2928), art. 2 (which S.I. is revoked (6.4.2015) by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), arts. 1(3), 9))
 
 [^M_C_59f44a2b-57b6-4d06-92a3-c34536dd760e]: Modification: S. 1 extended (Isle of Man) (with modifications) (31.12.2020) by [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680), [art. 22(2)](https://www.legislation.gov.uk/uksi/2008/680/article/22/2), [Sch. 9A](https://www.legislation.gov.uk/uksi/2008/680/schedule/9A) (as amended by [The Immigration (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1214)](https://www.legislation.gov.uk/uksi/2020/1214), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1214/article/1), [5](https://www.legislation.gov.uk/uksi/2020/1214/article/5), [12](https://www.legislation.gov.uk/uksi/2020/1214/article/12) and as further amended (11.11.2021) by [The Immigration (Isle of Man) (Amendment) Order 2021 (S.I. 2021/1277)](https://www.legislation.gov.uk/uksi/2021/1277), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1277/article/1/2), [6](https://www.legislation.gov.uk/uksi/2021/1277/article/6))

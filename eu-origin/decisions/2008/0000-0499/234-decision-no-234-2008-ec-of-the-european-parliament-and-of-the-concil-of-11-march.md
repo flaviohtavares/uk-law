@@ -35,54 +35,54 @@ establishing the European Statistical Advisory Committee and repealing Council D
 
 (Text with EEA relevance) (revoked)
 
-[^key-4e0c1eb8e3b9001d493d9132707b55dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e0c1eb8e3b9001d493d9132707b55dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. European Statistical Advisory Committee[^key-4e0c1eb8e3b9001d493d9132707b55dc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Tasks[^key-4e0c1eb8e3b9001d493d9132707b55dc]
+## Article 1. European Statistical Advisory Committee[^c-4e0c1eb8e3b9001d493d9132707b55dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Relations with Community institutions and other bodies[^key-4e0c1eb8e3b9001d493d9132707b55dc]
+## Article 2. Tasks[^c-4e0c1eb8e3b9001d493d9132707b55dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Composition and procedure for appointment[^key-4e0c1eb8e3b9001d493d9132707b55dc]
+## Article 3. Relations with Community institutions and other bodies[^c-4e0c1eb8e3b9001d493d9132707b55dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Duration of mandate[^key-4e0c1eb8e3b9001d493d9132707b55dc]
+## Article 4. Composition and procedure for appointment[^c-4e0c1eb8e3b9001d493d9132707b55dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Structure and operation[^key-4e0c1eb8e3b9001d493d9132707b55dc]
+## Article 5. Duration of mandate[^c-4e0c1eb8e3b9001d493d9132707b55dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Decision-making procedures[^key-4e0c1eb8e3b9001d493d9132707b55dc]
+## Article 6. Structure and operation[^c-4e0c1eb8e3b9001d493d9132707b55dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Confidentiality[^key-4e0c1eb8e3b9001d493d9132707b55dc]
+## Article 7. Decision-making procedures[^c-4e0c1eb8e3b9001d493d9132707b55dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Internal Rules of Procedure[^key-4e0c1eb8e3b9001d493d9132707b55dc]
+## Article 8. Confidentiality[^c-4e0c1eb8e3b9001d493d9132707b55dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Repeal[^key-4e0c1eb8e3b9001d493d9132707b55dc]
+## Article 9. Internal Rules of Procedure[^c-4e0c1eb8e3b9001d493d9132707b55dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Entry into force[^key-4e0c1eb8e3b9001d493d9132707b55dc]
+## Article 10. Repeal[^c-4e0c1eb8e3b9001d493d9132707b55dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4e0c1eb8e3b9001d493d9132707b55dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 11. Entry into force[^c-4e0c1eb8e3b9001d493d9132707b55dc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4e0c1eb8e3b9001d493d9132707b55dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4e0c1eb8e3b9001d493d9132707b55dc]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 117](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/117); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4e0c1eb8e3b9001d493d9132707b55dc]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 117](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/117); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

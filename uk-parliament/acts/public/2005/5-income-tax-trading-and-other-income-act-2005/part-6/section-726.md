@@ -25,16 +25,16 @@ summary: ''
 - (a) carries on a trade, profession or vocation which consists of or includes the provision of care, and
 - (b) meets the care registration requirement.
 
-(2)[^key-3795ed73ea730901d2df64c8f32adf36] A person meets the care registration requirement in relation to care provided in England if the person is registered under Part 2 of the Care Standards Act 2000 or Chapter 2 of Part 1 of the Health and Social Care Act 2008 in respect of the provision of care.
+(2)[^c-3795ed73ea730901d2df64c8f32adf36] A person meets the care registration requirement in relation to care provided in England if the person is registered under Part 2 of the Care Standards Act 2000 or Chapter 2 of Part 1 of the Health and Social Care Act 2008 in respect of the provision of care.
 
-(2A)[^key-d2df2dea825ebfb5f2c353c90092ee69] A person meets the care registration requirement in relation to care provided in Wales if the person is registered under—
+(2A)[^c-d2df2dea825ebfb5f2c353c90092ee69] A person meets the care registration requirement in relation to care provided in Wales if the person is registered under—
 
 - (a) Part 2 of the Care Standards Act 2000, or
 - (b) Part 1 of the Regulation and Inspection of Social Care (Wales) Act [2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2),
 
 in respect of the provision of the care.
 
-(3)[^key-3cf9d9eac7175f279f5eab6fc4b40c3f] A person meets the care registration requirement in relation to care provided in Scotland if the person provides care as, or as part of, a service which is registered under—
+(3)[^c-3cf9d9eac7175f279f5eab6fc4b40c3f] A person meets the care registration requirement in relation to care provided in Scotland if the person provides care as, or as part of, a service which is registered under—
 
 - (a) Chapter 3 of Part 5 of the Public Services Reform (Scotland) Act [2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), or
 - (b) section 10Q of the National Health Service (Scotland) Act [1978 (c. 29)](https://www.legislation.gov.uk/ukpga/1978/29).
@@ -50,8 +50,8 @@ in respect of the provision of the care.
 
 ## Annotations
 
-[^key-3795ed73ea730901d2df64c8f32adf36]: Textual amendment: S. 726(2)(2A) substituted for s. 726(2) (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/813/article/1/1), [16](https://www.legislation.gov.uk/uksi/2010/813/article/16)
+[^c-3795ed73ea730901d2df64c8f32adf36]: Textual amendment: S. 726(2)(2A) substituted for s. 726(2) (1.10.2010) by [The Health and Social Care Act 2008 (Consequential Amendments No.2) Order 2010 (S.I. 2010/813)](https://www.legislation.gov.uk/uksi/2010/813), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/813/article/1/1), [16](https://www.legislation.gov.uk/uksi/2010/813/article/16)
 
-[^key-d2df2dea825ebfb5f2c353c90092ee69]: Textual amendment: S. 726(2A) substituted (E.W.) (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/wsi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2018/195/regulation/2/1), [26](https://www.legislation.gov.uk/wsi/2018/195/regulation/26)
+[^c-d2df2dea825ebfb5f2c353c90092ee69]: Textual amendment: S. 726(2A) substituted (E.W.) (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/wsi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2018/195/regulation/2/1), [26](https://www.legislation.gov.uk/wsi/2018/195/regulation/26)
 
-[^key-3cf9d9eac7175f279f5eab6fc4b40c3f]: Textual amendment: S. 726(3) substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/9)
+[^c-3cf9d9eac7175f279f5eab6fc4b40c3f]: Textual amendment: S. 726(3) substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/9)

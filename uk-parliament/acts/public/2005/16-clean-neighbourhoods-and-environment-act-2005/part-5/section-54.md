@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Secretary of State[^key-e699ec86e7295ce33840f5936d5de0b7] may by regulations make provision requiring persons of a specified description—
+(1) The Secretary of State[^c-e699ec86e7295ce33840f5936d5de0b7] may by regulations make provision requiring persons of a specified description—
 
-- (a) to prepare plans for the management and disposal of waste created in the course of specified descriptions of works in England[^key-b77f9e3224677ee5d6d3806ce88f3efd] involving construction or demolition;
+- (a) to prepare plans for the management and disposal of waste created in the course of specified descriptions of works in England[^c-b77f9e3224677ee5d6d3806ce88f3efd] involving construction or demolition;
 - (b) to comply with such plans.
 
 (2) Descriptions of works that may be specified under subsection (1)(a) include in particular description by reference to the cost or likely cost of such works.
@@ -46,19 +46,19 @@ summary: ''
 
 (7) A statutory instrument containing regulations made by the Secretary of State under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(8) The Secretary of State[^key-61977b614d6d2b0419d38eb52966f75a] may give guidance to persons who are enforcement authorities under subsection (3)(c) in relation to the powers conferred on them under that provision.
+(8) The Secretary of State[^c-61977b614d6d2b0419d38eb52966f75a] may give guidance to persons who are enforcement authorities under subsection (3)(c) in relation to the powers conferred on them under that provision.
 
 (9) In this section—
 
-- [^key-50b5ec6b24047ad07f38ba7d72739b07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-50b5ec6b24047ad07f38ba7d72739b07]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**specified**” means specified in regulations under this section.
 
 ## Annotations
 
-[^key-e699ec86e7295ce33840f5936d5de0b7]: Textual amendment: Words in s. 54(1) substituted (15.2.2011) by [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [s. 21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2), [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/mwa/2010/8/schedule/paragraph/1/2/a)
+[^c-e699ec86e7295ce33840f5936d5de0b7]: Textual amendment: Words in s. 54(1) substituted (15.2.2011) by [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [s. 21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2), [Sch. para. 1(2)(a)](https://www.legislation.gov.uk/mwa/2010/8/schedule/paragraph/1/2/a)
 
-[^key-b77f9e3224677ee5d6d3806ce88f3efd]: Textual amendment: Words in s. 54(1)(a) inserted (15.2.2011) by [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [s. 21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2), [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/mwa/2010/8/schedule/paragraph/1/2/b)
+[^c-b77f9e3224677ee5d6d3806ce88f3efd]: Textual amendment: Words in s. 54(1)(a) inserted (15.2.2011) by [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [s. 21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2), [Sch. para. 1(2)(b)](https://www.legislation.gov.uk/mwa/2010/8/schedule/paragraph/1/2/b)
 
-[^key-61977b614d6d2b0419d38eb52966f75a]: Textual amendment: Words in s. 54(8) substituted (15.2.2011) by [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [s. 21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2), [Sch. para. 1(3)](https://www.legislation.gov.uk/mwa/2010/8/schedule/paragraph/1/3)
+[^c-61977b614d6d2b0419d38eb52966f75a]: Textual amendment: Words in s. 54(8) substituted (15.2.2011) by [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [s. 21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2), [Sch. para. 1(3)](https://www.legislation.gov.uk/mwa/2010/8/schedule/paragraph/1/3)
 
-[^key-50b5ec6b24047ad07f38ba7d72739b07]: Textual amendment: Words in s. 54(9) omitted (15.2.2011) by virtue of [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [s. 21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2), [Sch. para. 1(4)](https://www.legislation.gov.uk/mwa/2010/8/schedule/paragraph/1/4)
+[^c-50b5ec6b24047ad07f38ba7d72739b07]: Textual amendment: Words in s. 54(9) omitted (15.2.2011) by virtue of [Waste (Wales) Measure 2010 (nawm 8)](https://www.legislation.gov.uk/mwa/2010/8), [s. 21(2)](https://www.legislation.gov.uk/mwa/2010/8/section/21/2), [Sch. para. 1(4)](https://www.legislation.gov.uk/mwa/2010/8/schedule/paragraph/1/4)

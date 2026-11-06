@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 263. Application of certain provisions to planning authorities.[^key-5777634d2eab860459ed071c64ebfec8]
+## 263. Application of certain provisions to planning authorities.[^c-5777634d2eab860459ed071c64ebfec8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5777634d2eab860459ed071c64ebfec8]: Textual amendment: S. 263 repealed (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2007/176](https://www.legislation.gov.uk/ssi/2007/176), [arts. 1](https://www.legislation.gov.uk/ssi/2007/176/article/1), [4](https://www.legislation.gov.uk/ssi/2007/176/article/4)); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-5777634d2eab860459ed071c64ebfec8]: Textual amendment: S. 263 repealed (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [s. 59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2), [sch.](https://www.legislation.gov.uk/asp/2006/17/schedule) (with [S.S.I. 2007/176](https://www.legislation.gov.uk/ssi/2007/176), [arts. 1](https://www.legislation.gov.uk/ssi/2007/176/article/1), [4](https://www.legislation.gov.uk/ssi/2007/176/article/4)); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

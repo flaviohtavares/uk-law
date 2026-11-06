@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.41. Service in accordance with the Service Regulation[^key-18315600986de292ecebc9aeffaadc68]
+## 6.41. Service in accordance with the Service Regulation[^c-18315600986de292ecebc9aeffaadc68]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18315600986de292ecebc9aeffaadc68]: Textual amendment: [Rule 6.41](https://www.legislation.gov.uk/uksi/1998/3132/rule/6.41) omitted (31.12.2020) by virtue of [The Civil Procedure Rules 1998 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/521)](https://www.legislation.gov.uk/uksi/2019/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/521/regulation/1/1), [4(19)](https://www.legislation.gov.uk/uksi/2019/521/regulation/4/19) (with [reg. 18](https://www.legislation.gov.uk/uksi/2019/521/regulation/18)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/9/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-18315600986de292ecebc9aeffaadc68]: Textual amendment: [Rule 6.41](https://www.legislation.gov.uk/uksi/1998/3132/rule/6.41) omitted (31.12.2020) by virtue of [The Civil Procedure Rules 1998 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/521)](https://www.legislation.gov.uk/uksi/2019/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/521/regulation/1/1), [4(19)](https://www.legislation.gov.uk/uksi/2019/521/regulation/4/19) (with [reg. 18](https://www.legislation.gov.uk/uksi/2019/521/regulation/18)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/9/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

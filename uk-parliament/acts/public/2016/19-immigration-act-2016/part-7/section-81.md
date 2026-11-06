@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Procedure for codes of practice[^key-e441392d6e2321a55a58b5c1bd81284c]
+## 81. Procedure for codes of practice[^c-e441392d6e2321a55a58b5c1bd81284c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e441392d6e2321a55a58b5c1bd81284c]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2016/19/section/81) in force at 21.11.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1037/regulation/3)
+[^c-e441392d6e2321a55a58b5c1bd81284c]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2016/19/section/81) in force at 21.11.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1037/regulation/3)

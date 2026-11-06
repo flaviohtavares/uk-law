@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Election agent and sub-agent in local government elections: public notice of home address[^key-aba9fe398fc509e37750450b0d9e482c][^key-24ccfbf84da5b88018c84b4053b3e001]
+## 38. Election agent and sub-agent in local government elections: public notice of home address[^c-aba9fe398fc509e37750450b0d9e482c][^c-24ccfbf84da5b88018c84b4053b3e001]
 
 *Extent: S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aba9fe398fc509e37750450b0d9e482c]: Commencement: S. 38 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-aba9fe398fc509e37750450b0d9e482c]: Commencement: S. 38 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-24ccfbf84da5b88018c84b4053b3e001]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2025/4/section/38) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-24ccfbf84da5b88018c84b4053b3e001]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2025/4/section/38) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)

@@ -33,7 +33,7 @@ An Act to consolidate the Police Act 1964, Part IX of the Police and Criminal Ev
 
 \[22nd May 1996\] [^c16426621]
 
-[^c16426631][^c16426641]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-6d56b9c23959ea4085d9222279295dc3][^key-9d73db3f2229b2b61abe16ed7dd59ba3]
+[^c16426631][^c16426641]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-6d56b9c23959ea4085d9222279295dc3][^c-9d73db3f2229b2b61abe16ed7dd59ba3]
 
 ## Contents
 
@@ -41,13 +41,13 @@ An Act to consolidate the Police Act 1964, Part IX of the Police and Criminal Ev
 
 *Extent: E+W+S*
 
-#### Police areas and police forces[^key-608e5c30864f744379c4af80b42515bd]
+#### Police areas and police forces[^c-608e5c30864f744379c4af80b42515bd]
 
 *Extent: E+W*
 
 - [Section 1 — Police areas.](part-i/section-1.md)
 
-#### ...[^key-57742f4127c5ab12e155aef9ff443d76]
+#### ...[^c-57742f4127c5ab12e155aef9ff443d76]
 
 *Extent: E+W+S*
 
@@ -56,7 +56,7 @@ An Act to consolidate the Police Act 1964, Part IX of the Police and Criminal Ev
 - [Section 4 — Membership of police authorities etc.](part-i/section-4.md)
 - [Section 5 — Reductions in size of police authorities.](part-i/section-5.md)
 
-#### ...[^key-70325eac2fae819a3eba02d06af879f5]
+#### ...[^c-70325eac2fae819a3eba02d06af879f5]
 
 *Extent: E+W*
 
@@ -70,7 +70,7 @@ An Act to consolidate the Police Act 1964, Part IX of the Police and Criminal Ev
 
 - [Section 6 — General functions of police authorities.](part-i/section-6.md)
 
-#### The City of London[^key-ed30895afb6b4f1de3b4d69dc96da97d]
+#### The City of London[^c-ed30895afb6b4f1de3b4d69dc96da97d]
 
 *Extent: E+W+S*
 
@@ -92,7 +92,7 @@ An Act to consolidate the Police Act 1964, Part IX of the Police and Criminal Ev
 - [Section 9FA — Appointment and removal of Deputy Assistant Commissioners](part-i/section-9fa.md)
 - [Section 9G — Commanders.](part-i/section-9g.md)
 
-#### Police ranks[^key-0d6dab4974ec4ea542507f59ed367360]
+#### Police ranks[^c-0d6dab4974ec4ea542507f59ed367360]
 
 *Extent: E+W+S*
 
@@ -108,7 +108,7 @@ An Act to consolidate the Police Act 1964, Part IX of the Police and Criminal Ev
 - [Section 16 — Appointment of chief executive.](part-i/section-16.md)
 - [Section 17 — Appointment of persons not employed by police authorities.](part-i/section-17.md)
 
-#### City of London[^key-e5ebee7b6fc16e06a62c278866d5c5d2]
+#### City of London[^c-e5ebee7b6fc16e06a62c278866d5c5d2]
 
 *Extent: E+W+S*
 
@@ -118,13 +118,13 @@ An Act to consolidate the Police Act 1964, Part IX of the Police and Criminal Ev
 - [Section 20A — Questions on metropolitan police matters at London Assembly meetings.](part-i/section-20a.md)
 - [Section 21 — Application of certain provisions to police authorities.](part-i/section-21.md)
 
-#### ...[^key-db6d468adaea8c6430a0c246cc720210]
+#### ...[^c-db6d468adaea8c6430a0c246cc720210]
 
 *Extent: E+W+S*
 
 - [Section 22 — Reports by chief constables to police authorities.](part-i/section-22.md)
 
-#### General provisions[^key-5bc6f76a726b48fb780a710f1a38d4d6]
+#### General provisions[^c-5bc6f76a726b48fb780a710f1a38d4d6]
 
 - [Section 22A — Collaboration agreements](part-i/section-22a.md)
 - [Section 22B — Duty of chief officers to keep collaboration agreements under review](part-i/section-22b.md)
@@ -151,7 +151,7 @@ An Act to consolidate the Police Act 1964, Part IX of the Police and Criminal Ev
 - [Section 30 — Jurisdiction of constables.](part-i/section-30.md)
 - [Section 31 — Rewards for diligence](part-i/section-31.md)
 
-#### Amendment of names of police areas[^key-5eb5a1be660aa9320e2c7254a21971de]
+#### Amendment of names of police areas[^c-5eb5a1be660aa9320e2c7254a21971de]
 
 - [Section 31A — Power to amend names of police areas](part-i/section-31a.md)
 
@@ -210,7 +210,7 @@ An Act to consolidate the Police Act 1964, Part IX of the Police and Criminal Ev
 - [Section 53 — Regulations as to standard and provision of equipment.](part-ii/section-53.md)
 - [Section 53A — Regulation of procedures and practices](part-ii/section-53a.md)
 
-#### Civilian staff[^key-f66f9cf8dbfe6d0b96ba1c3ff36fe770]
+#### Civilian staff[^c-f66f9cf8dbfe6d0b96ba1c3ff36fe770]
 
 - [Section 53E — Guidance about civilian staff employed by local policing bodies and chief officers](part-ii/section-53e.md)
 - [Section 53F — Guidance about designated police volunteers](part-ii/section-53f.md)
@@ -238,7 +238,7 @@ An Act to consolidate the Police Act 1964, Part IX of the Police and Criminal Ev
 - [Section 63 — Police Advisory Board for England and Wales](part-iii/section-63.md)
 - [Section 64 — Membership of trade unions.](part-iii/section-64.md)
 
-### PART 3A — The Police Remuneration Review Body[^key-6354f1de89c5bc1b01f223478287c600]
+### PART 3A — The Police Remuneration Review Body[^c-6354f1de89c5bc1b01f223478287c600]
 
 - [Section 64A — The Police Remuneration Review Body](part-3a/section-64a.md)
 - [Section 64B — Reports by the Police Remuneration Review Body](part-3a/section-64b.md)
@@ -247,7 +247,7 @@ An Act to consolidate the Police Act 1964, Part IX of the Police and Criminal Ev
 
 *Extent: E+W+S*
 
-#### ...[^key-dfc1ffc5136063bd625669722b04644c][^key-cb91e49ccfb9ca4f9c20ef8bca0fa1e0][^key-3637160f2e48582e66a755e6ac83328c]
+#### ...[^c-dfc1ffc5136063bd625669722b04644c][^c-cb91e49ccfb9ca4f9c20ef8bca0fa1e0][^c-3637160f2e48582e66a755e6ac83328c]
 
 *Extent: E+W*
 
@@ -286,9 +286,9 @@ An Act to consolidate the Police Act 1964, Part IX of the Police and Criminal Ev
 - [Section 87A — Guidance concerning conduct etc](part-iv/section-87a.md)
 - [Section 88 — Liability for wrongful acts of constables.](part-iv/section-88.md)
 
-### Part 4A — Police barred list and police advisory list[^key-788bd446afeb9896408477357c2c27f9]
+### Part 4A — Police barred list and police advisory list[^c-788bd446afeb9896408477357c2c27f9]
 
-#### Police barred list[^key-788bd446afeb9896408477357c2c27f9]
+#### Police barred list[^c-788bd446afeb9896408477357c2c27f9]
 
 - [Section 88A — Duty to report dismissals etc to College of Policing](part-4a/section-88a.md)
 - [Section 88B — Duty to maintain police barred list](part-4a/section-88b.md)
@@ -299,7 +299,7 @@ An Act to consolidate the Police Act 1964, Part IX of the Police and Criminal Ev
 - [Section 88G — Publication of information in police barred list](part-4a/section-88g.md)
 - [Section 88H — Power to disclose information in police barred list](part-4a/section-88h.md)
 
-#### Police advisory list[^key-788bd446afeb9896408477357c2c27f9]
+#### Police advisory list[^c-788bd446afeb9896408477357c2c27f9]
 
 - [Section 88I — Duty to report resignations and retirements etc to College of Policing](part-4a/section-88i.md)
 - [Section 88J — Duty to maintain police advisory list](part-4a/section-88j.md)
@@ -380,38 +380,38 @@ SCHEDULES
 
     Act: power to modify conferred (2.4.2001) by [2000 c. 39](https://www.legislation.gov.uk/ukpga/2000/39), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2000/39/section/7/2); [S.I. 2001/766](https://www.legislation.gov.uk/uksi/2001/766), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2001/766/article/2/1/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2001/766/article/3))
 
-[^key-6d56b9c23959ea4085d9222279295dc3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/16) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/10)
+[^c-6d56b9c23959ea4085d9222279295dc3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/16) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/10)
 
-[^key-9d73db3f2229b2b61abe16ed7dd59ba3]: Modification: Act applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/10)
+[^c-9d73db3f2229b2b61abe16ed7dd59ba3]: Modification: Act applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/10)
 
-[^key-608e5c30864f744379c4af80b42515bd]: Textual amendment: S. 1 cross-heading substituted (22.11.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/2); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-608e5c30864f744379c4af80b42515bd]: Textual amendment: S. 1 cross-heading substituted (22.11.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/2); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
 
-[^key-57742f4127c5ab12e155aef9ff443d76]: Textual amendment: S. 2 cross-heading omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/3); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-57742f4127c5ab12e155aef9ff443d76]: Textual amendment: S. 2 cross-heading omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/3); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
 
-[^key-70325eac2fae819a3eba02d06af879f5]: Textual amendment: S. 5A cross-heading omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 5(b)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/5/b); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-70325eac2fae819a3eba02d06af879f5]: Textual amendment: S. 5A cross-heading omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 5(b)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/5/b); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
 
 [^c18802331]: Textual amendment: Ss. 5A-5C and headings inserted (1.1.2000 for specified purposes and otherwise on the "operative date" (as defined in art. 1(2)(c) of [S.I. 2000/1095](https://www.legislation.gov.uk/uksi/2000/1095)) for specified purposes and on 3.7.2000 for all other purposes) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 310(1)](https://www.legislation.gov.uk/ukpga/1999/29/section/310/1) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 1999/3271](https://www.legislation.gov.uk/uksi/1999/3271), [art. 3(a)](https://www.legislation.gov.uk/uksi/1999/3271/article/3/a); [S.I. 2000/1095](https://www.legislation.gov.uk/uksi/2000/1095), [arts. 4-6](https://www.legislation.gov.uk/uksi/2000/1095/article/4)
 
-[^key-ed30895afb6b4f1de3b4d69dc96da97d]: Textual amendment: S. 6ZA cross-heading inserted (22.11.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/8); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-ed30895afb6b4f1de3b4d69dc96da97d]: Textual amendment: S. 6ZA cross-heading inserted (22.11.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 8](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/8); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
 
-[^key-0d6dab4974ec4ea542507f59ed367360]: Textual amendment: S. 9H cross-heading inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 14](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/14); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-0d6dab4974ec4ea542507f59ed367360]: Textual amendment: S. 9H cross-heading inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 14](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/14); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-e5ebee7b6fc16e06a62c278866d5c5d2]: Textual amendment: S. 18 cross-heading inserted (22.11.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 17](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/17); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-e5ebee7b6fc16e06a62c278866d5c5d2]: Textual amendment: S. 18 cross-heading inserted (22.11.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 17](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/17); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
 
-[^key-db6d468adaea8c6430a0c246cc720210]: Textual amendment: S. 22 cross-heading omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 20](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/20); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-db6d468adaea8c6430a0c246cc720210]: Textual amendment: S. 22 cross-heading omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 20](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/20); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
 
-[^key-5bc6f76a726b48fb780a710f1a38d4d6]: Textual amendment: S. 22A cross-heading inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 22](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/22); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-5bc6f76a726b48fb780a710f1a38d4d6]: Textual amendment: S. 22A cross-heading inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 22](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/22); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-5eb5a1be660aa9320e2c7254a21971de]: Textual amendment: S. 31A and cross-heading inserted (31.1.2017) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 124(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/124/1), [183(5)(a)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/a/e)
+[^c-5eb5a1be660aa9320e2c7254a21971de]: Textual amendment: S. 31A and cross-heading inserted (31.1.2017) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 124(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/124/1), [183(5)(a)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/a/e)
 
-[^key-f66f9cf8dbfe6d0b96ba1c3ff36fe770]: Textual amendment: S. 53E and cross-heading inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 125](https://www.legislation.gov.uk/ukpga/2014/12/section/125), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)
+[^c-f66f9cf8dbfe6d0b96ba1c3ff36fe770]: Textual amendment: S. 53E and cross-heading inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 125](https://www.legislation.gov.uk/ukpga/2014/12/section/125), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)
 
-[^key-6354f1de89c5bc1b01f223478287c600]: Textual amendment: Pt. 3A inserted (E.W.N.I.) (1.9.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 132(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/132/1), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/b)
+[^c-6354f1de89c5bc1b01f223478287c600]: Textual amendment: Pt. 3A inserted (E.W.N.I.) (1.9.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 132(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/132/1), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/b)
 
-[^key-dfc1ffc5136063bd625669722b04644c]: Modification: Pt. 4 Ch. 1 restricted by S.I. 1985/520, reg. 11(1) (as amended (15.11.2003) by [The Police (Complaints) (General) (Amendment) Regulations 2003 (S.I. 2003/2602)](https://www.legislation.gov.uk/uksi/2003/2602), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2602/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2003/2602/regulation/8/2))
+[^c-dfc1ffc5136063bd625669722b04644c]: Modification: Pt. 4 Ch. 1 restricted by S.I. 1985/520, reg. 11(1) (as amended (15.11.2003) by [The Police (Complaints) (General) (Amendment) Regulations 2003 (S.I. 2003/2602)](https://www.legislation.gov.uk/uksi/2003/2602), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/2602/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2003/2602/regulation/8/2))
 
-[^key-cb91e49ccfb9ca4f9c20ef8bca0fa1e0]: Modification: Pt. IV Ch. I continued (1.4.2004) by [The Independent Police Complaints Commission (Transitional Provisions) Order 2004 (S.I. 2004/671)](https://www.legislation.gov.uk/uksi/2004/671), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/671/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/671/article/2/3)[(4)](https://www.legislation.gov.uk/uksi/2004/671/article/2/4)
+[^c-cb91e49ccfb9ca4f9c20ef8bca0fa1e0]: Modification: Pt. IV Ch. I continued (1.4.2004) by [The Independent Police Complaints Commission (Transitional Provisions) Order 2004 (S.I. 2004/671)](https://www.legislation.gov.uk/uksi/2004/671), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/671/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/671/article/2/3)[(4)](https://www.legislation.gov.uk/uksi/2004/671/article/2/4)
 
-[^key-3637160f2e48582e66a755e6ac83328c]: Textual amendment: Pt. 4 Ch. 1 repealed (1.4.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8) (with [s. 26(9)](https://www.legislation.gov.uk/ukpga/2002/30/section/26/9)[(10)](https://www.legislation.gov.uk/ukpga/2002/30/section/26/10)[(28)](https://www.legislation.gov.uk/ukpga/2002/30/section/26/28)); [S.I. 2004/913](https://www.legislation.gov.uk/uksi/2004/913), [art. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2004/913/article/2/f/iv) (with savings in S.I. 2004/671, arts. 1(1), 2(3)(4)
+[^c-3637160f2e48582e66a755e6ac83328c]: Textual amendment: Pt. 4 Ch. 1 repealed (1.4.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8) (with [s. 26(9)](https://www.legislation.gov.uk/ukpga/2002/30/section/26/9)[(10)](https://www.legislation.gov.uk/ukpga/2002/30/section/26/10)[(28)](https://www.legislation.gov.uk/ukpga/2002/30/section/26/28)); [S.I. 2004/913](https://www.legislation.gov.uk/uksi/2004/913), [art. 2(f)(iv)](https://www.legislation.gov.uk/uksi/2004/913/article/2/f/iv) (with savings in S.I. 2004/671, arts. 1(1), 2(3)(4)
 
-[^key-788bd446afeb9896408477357c2c27f9]: Textual amendment: Pt. 4A inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/8); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/c) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
+[^c-788bd446afeb9896408477357c2c27f9]: Textual amendment: Pt. 4A inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/8); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/c) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))

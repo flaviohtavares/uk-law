@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Determination to have effect as a self-assessment[^key-f06b4409e753e3b93fb959a578f015dc]
+## 96. Determination to have effect as a self-assessment[^c-f06b4409e753e3b93fb959a578f015dc]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f06b4409e753e3b93fb959a578f015dc]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2014/16/section/96) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-f06b4409e753e3b93fb959a578f015dc]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2014/16/section/96) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

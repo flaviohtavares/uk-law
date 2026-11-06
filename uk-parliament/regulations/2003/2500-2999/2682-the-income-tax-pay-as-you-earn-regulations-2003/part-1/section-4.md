@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Relevant payments[^key-1d9f13b636afa87702419100c10cf82d]
+## 4. Relevant payments[^c-1d9f13b636afa87702419100c10cf82d]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,13 +25,13 @@ summary: ''
 - (a) PAYE social security income, except in so far as it is provided for in Part 8,
 - (b) United Kingdom social security pensions,
 - (c) excluded relocation expenses,
-- (d)[^key-8f237edef3dad629827e6bd11976054f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-8f237edef3dad629827e6bd11976054f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) excluded pecuniary liabilities, and
 - (f) excluded notional payments.
 
 (2) In paragraph (1)—
 
-- [^key-87d427fc7cbc12d50a50ecb4030fdfbe]...
+- [^c-87d427fc7cbc12d50a50ecb4030fdfbe]...
 - “excluded notional payments” means notional payments which an employer is treated as making by section 694 or 695 of ITEPA (non-cash vouchers and credit tokens) as a result of an employee using a non-cash voucher or credit token on behalf of the employer, except where the voucher or token is used as, or as part of, any scheme or arrangement the purpose, or one of the main purposes, of which is—
   - (a) to provide the employee with money or an asset, or
   - (b) to avoid the making of a relevant payment;
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1d9f13b636afa87702419100c10cf82d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/2682/regulation/4) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-1d9f13b636afa87702419100c10cf82d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/2682/regulation/4) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
 
-[^key-8f237edef3dad629827e6bd11976054f]: Textual amendment: [Reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/4/1/d) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/4/a)
+[^c-8f237edef3dad629827e6bd11976054f]: Textual amendment: [Reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/4/1/d) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/4/a)
 
-[^key-87d427fc7cbc12d50a50ecb4030fdfbe]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/4/2) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/4/b)
+[^c-87d427fc7cbc12d50a50ecb4030fdfbe]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/4/2) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/4/b)

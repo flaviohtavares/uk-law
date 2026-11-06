@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Scrap metal dealing: increase in penalties for existing offences[^key-f7fac357786f0ea81885f2224698e893]
+## 145. Scrap metal dealing: increase in penalties for existing offences[^c-f7fac357786f0ea81885f2224698e893]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7fac357786f0ea81885f2224698e893]: Textual amendment: Ss. 145-147 repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(f)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/f), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))
+[^c-f7fac357786f0ea81885f2224698e893]: Textual amendment: Ss. 145-147 repealed (1.10.2013) by [Scrap Metal Dealers Act 2013 (c. 10)](https://www.legislation.gov.uk/ukpga/2013/10), [ss. 19(1)(f)](https://www.legislation.gov.uk/ukpga/2013/10/section/19/1/f), [23(2)](https://www.legislation.gov.uk/ukpga/2013/10/section/23/2); [S.I. 2013/1966](https://www.legislation.gov.uk/uksi/2013/1966), [art. 3(r)](https://www.legislation.gov.uk/uksi/2013/1966/article/3/r) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/1966/article/5))

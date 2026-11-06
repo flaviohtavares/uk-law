@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Grant of a spaceport licence: safety case requirement[^key-98071b561b17f6ee4d0d93d673717fe6]
+## 36. Grant of a spaceport licence: safety case requirement[^c-98071b561b17f6ee4d0d93d673717fe6]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98071b561b17f6ee4d0d93d673717fe6]: Commencement: Reg. 36 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-98071b561b17f6ee4d0d93d673717fe6]: Commencement: Reg. 36 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

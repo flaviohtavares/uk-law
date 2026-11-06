@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Revocation or withdrawal of exemption[^key-78a29e702d25d2a557ed3f7cb7fa2512]
+## 6. Revocation or withdrawal of exemption[^c-78a29e702d25d2a557ed3f7cb7fa2512]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78a29e702d25d2a557ed3f7cb7fa2512]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/52/section/6) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-78a29e702d25d2a557ed3f7cb7fa2512]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/52/section/6) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

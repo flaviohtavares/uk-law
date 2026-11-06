@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Serious crime prevention orders: meaning of “serious offence”[^key-8e3612642002888d5fcc15df99def4b3]
+## 47. Serious crime prevention orders: meaning of “serious offence”[^c-8e3612642002888d5fcc15df99def4b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e3612642002888d5fcc15df99def4b3]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2015/9/section/47) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/f)
+[^c-8e3612642002888d5fcc15df99def4b3]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2015/9/section/47) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/f)

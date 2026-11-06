@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 290A. Accommodation outgoings of lower-paid ministers of religion[^key-b8000d5cf3e9fbde789a5e299ce75f21][^key-84093348b8a5116e63e58822b5d06ea7]
+## 290A. Accommodation outgoings of lower-paid ministers of religion[^c-b8000d5cf3e9fbde789a5e299ce75f21][^c-84093348b8a5116e63e58822b5d06ea7]
 
 *Extent: E+W+S+N.I.*
 
-(1) No liability to income tax arises in respect of a person in lower-paid employment as a minister of religion[^key-779fea240592896bbe4689b658c76035] by virtue of the payment or reimbursement of accommodation outgoings.
+(1) No liability to income tax arises in respect of a person in lower-paid employment as a minister of religion[^c-779fea240592896bbe4689b658c76035] by virtue of the payment or reimbursement of accommodation outgoings.
 
 (2) Subsection (1) does not apply if the minister is paid an allowance intended to be used, wholly or in part, for paying accommodation outgoings (as to which see section 290B).
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b8000d5cf3e9fbde789a5e299ce75f21]: Textual amendment: Ss. 290A, 290B inserted (with effect in accordance with art. 2(4) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/157/article/2/3)
+[^c-b8000d5cf3e9fbde789a5e299ce75f21]: Textual amendment: Ss. 290A, 290B inserted (with effect in accordance with art. 2(4) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2010 (S.I. 2010/157)](https://www.legislation.gov.uk/uksi/2010/157), [arts. 1](https://www.legislation.gov.uk/uksi/2010/157/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/157/article/2/3)
 
-[^key-84093348b8a5116e63e58822b5d06ea7]: Textual amendment: Words in s. 290A heading inserted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 19(c)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/19/c)
+[^c-84093348b8a5116e63e58822b5d06ea7]: Textual amendment: Words in s. 290A heading inserted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 19(c)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/19/c)
 
-[^key-779fea240592896bbe4689b658c76035]: Textual amendment: Word in s. 290A(1) substituted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 19(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/19/a)
+[^c-779fea240592896bbe4689b658c76035]: Textual amendment: Word in s. 290A(1) substituted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 1 para. 19(a)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/1/paragraph/19/a)

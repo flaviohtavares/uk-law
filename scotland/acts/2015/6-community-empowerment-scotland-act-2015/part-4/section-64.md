@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Application: information about rights and interest in land[^key-21a66d755255ee4ccebef11bb13b3b1a][^key-f2987532e4abb7c901c2f0037baab3c4]
+## 64. Application: information about rights and interest in land[^c-21a66d755255ee4ccebef11bb13b3b1a][^c-f2987532e4abb7c901c2f0037baab3c4]
 
 *Extent: S*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-21a66d755255ee4ccebef11bb13b3b1a]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2015/6/section/64) in force at 16.12.2016 for specified purposes by [S.S.I. 2016/394](https://www.legislation.gov.uk/ssi/2016/394), [art. 2](https://www.legislation.gov.uk/ssi/2016/394/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/394/schedule)
+[^c-21a66d755255ee4ccebef11bb13b3b1a]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2015/6/section/64) in force at 16.12.2016 for specified purposes by [S.S.I. 2016/394](https://www.legislation.gov.uk/ssi/2016/394), [art. 2](https://www.legislation.gov.uk/ssi/2016/394/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/394/schedule)
 
-[^key-f2987532e4abb7c901c2f0037baab3c4]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2015/6/section/64) in force at 24.2.2021 in so far as not already in force by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))
+[^c-f2987532e4abb7c901c2f0037baab3c4]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2015/6/section/64) in force at 24.2.2021 in so far as not already in force by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))

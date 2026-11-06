@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 148. Effect of extension of time limit for compliance[^key-bcd2e6b8025cca79d0098cdadfdc9966]
+## 148. Effect of extension of time limit for compliance[^c-bcd2e6b8025cca79d0098cdadfdc9966]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Liability to a penalty under section 146 or 147 does not arise in respect of a f
 
 ## Annotations
 
-[^key-bcd2e6b8025cca79d0098cdadfdc9966]: Commencement: S. 148 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(d)](https://www.legislation.gov.uk/wsi/2018/33/article/2/d)
+[^c-bcd2e6b8025cca79d0098cdadfdc9966]: Commencement: S. 148 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(d)](https://www.legislation.gov.uk/wsi/2018/33/article/2/d)

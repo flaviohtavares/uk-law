@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.49.1. Interpretation[^key-4e58feccc776cf258db463e366db5c91]
+## 3.49.1. Interpretation[^c-4e58feccc776cf258db463e366db5c91]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In this Part—
 
 ## Annotations
 
-[^key-4e58feccc776cf258db463e366db5c91]: Textual amendment: [Ch. 3 Pt. 49](https://www.legislation.gov.uk/uksi/1999/929/part/49) inserted (1.12.2017) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Illegal Working Orders) 2017 (S.S.I. 2017/386)](https://www.legislation.gov.uk/ssi/2017/386), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/386/paragraph/1/2), [2](https://www.legislation.gov.uk/ssi/2017/386/paragraph/2)
+[^c-4e58feccc776cf258db463e366db5c91]: Textual amendment: [Ch. 3 Pt. 49](https://www.legislation.gov.uk/uksi/1999/929/part/49) inserted (1.12.2017) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Illegal Working Orders) 2017 (S.S.I. 2017/386)](https://www.legislation.gov.uk/ssi/2017/386), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/386/paragraph/1/2), [2](https://www.legislation.gov.uk/ssi/2017/386/paragraph/2)

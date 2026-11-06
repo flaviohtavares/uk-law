@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Agreements to enable employees of non-Scheme employers to be members (“admission agreements”)[^key-82bc02f8fb36ed0dc086c96e81a2732c]
+## 4. Agreements to enable employees of non-Scheme employers to be members (“admission agreements”)[^c-82bc02f8fb36ed0dc086c96e81a2732c]
 
 *Extent: E+W+S*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-82bc02f8fb36ed0dc086c96e81a2732c]: Commencement: Reg. 4 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-82bc02f8fb36ed0dc086c96e81a2732c]: Commencement: Reg. 4 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00002]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 

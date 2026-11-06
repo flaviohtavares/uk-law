@@ -47,17 +47,17 @@ except as provided for in regulation 1(1)
 
 The Welsh Ministers in exercise of the powers conferred on them by sections 2(2) and 47(1) of, and by paragraphs 4, 9(2) and 12 of Schedule 1 to, the Education (Wales) Act 2014[^f00001] make the following Regulations:
 
-## 1. Title, commencement and application[^key-3e0e2ee9ae607fb15f8012f5a414a76a]
+## 1. Title, commencement and application[^c-3e0e2ee9ae607fb15f8012f5a414a76a]
 
 (1) The title of these Regulations is the Education Workforce Council (Membership and Appointment) (Wales) Regulations 2014 and they come into force on 29 September 2014 except for regulation 2 which comes into force on 1 April 2015.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Revocation[^key-1505d5ed0d578c96fbdd57bbb91449a8]
+## 2. Revocation[^c-1505d5ed0d578c96fbdd57bbb91449a8]
 
 The Regulations in Schedule 1 are revoked.
 
-## 3. Interpretation[^key-4f49d00f58a7dcbaa91e391b183565a7]
+## 3. Interpretation[^c-4f49d00f58a7dcbaa91e391b183565a7]
 
 In these Regulations—
 
@@ -68,11 +68,11 @@ In these Regulations—
 - “chief officer” (“*prif swyddog*”) means the chief officer of the Council; and
 - “member” (“*aelod*”) means a member of the Council.
 
-## 4. Membership[^key-d125eba7a3ae3f1a8be543ecc5feb4ae]
+## 4. Membership[^c-d125eba7a3ae3f1a8be543ecc5feb4ae]
 
 The Council must consist of 14 members appointed in accordance with regulations 6 and 7.
 
-## 5. Eligibility for appointments[^key-9820a1b7fe651c00888e163a69d2fd1c]
+## 5. Eligibility for appointments[^c-9820a1b7fe651c00888e163a69d2fd1c]
 
 No person is eligible for appointment under regulations 6 or 7 where—
 
@@ -86,7 +86,7 @@ No person is eligible for appointment under regulations 6 or 7 where—
   - (ii) by the Secretary of State or the Welsh Ministers under section 471 of the 1996 Act[^f00008]; or
 - (g) the person is ineligible for registration as a teacher, or disqualified from being a teacher in any school or further education institution in another part of the United Kingdom.
 
-## 6. Members appointed by the Welsh Ministers after nomination[^key-b4677ff73c157ce29a5e839b600fd5f4]
+## 6. Members appointed by the Welsh Ministers after nomination[^c-b4677ff73c157ce29a5e839b600fd5f4]
 
 (1) The Welsh Ministers must seek nominations for the post of Council member from the organisations set out in Schedule 2.
 
@@ -96,11 +96,11 @@ No person is eligible for appointment under regulations 6 or 7 where—
 
 (4) Where an organisation set out in Schedule 2 changes its name, but its objects are not materially changed, the reference to the organisation in the Schedule is to be read as a reference to the organisation under its new name.
 
-## 7. Members appointed by the Welsh Ministers without nomination[^key-84de40cb61622d30caf4a8b7cd8be300]
+## 7. Members appointed by the Welsh Ministers without nomination[^c-84de40cb61622d30caf4a8b7cd8be300]
 
 Seven members must be appointed by the Welsh Ministers.
 
-## 8. Vacancies[^key-482277d0d6b5d9e1bb977ae4e65321d3]
+## 8. Vacancies[^c-482277d0d6b5d9e1bb977ae4e65321d3]
 
 (1) This regulation applies where a vacancy occurs among members otherwise than by the expiry of a member’s term of office.
 
@@ -125,7 +125,7 @@ Seven members must be appointed by the Welsh Ministers.
 - (b) be for a term not exceeding the date on which the term of office of the member whose vacancy that person fills would have expired, and
 - (c) be on such other terms as the Council determine.
 
-## 9. Appointment of chief officer[^key-0b313bfbbbb217a7dc9d4a3159217dcc]
+## 9. Appointment of chief officer[^c-0b313bfbbbb217a7dc9d4a3159217dcc]
 
 (1) Up to and including the 31 March 2015 the General Teaching Council for Wales must appoint the chief officer.
 
@@ -142,7 +142,7 @@ Seven members must be appointed by the Welsh Ministers.
 - (b) reviewed by the Council every three years; and
 - (c) approved (and any revised terms and conditions) by the Welsh Ministers.
 
-## 10. Chief officer selection panel[^key-ec26d8664db53ae2a7b48bf17c8fb0e1]
+## 10. Chief officer selection panel[^c-ec26d8664db53ae2a7b48bf17c8fb0e1]
 
 (1) The Council must advertise any vacancy in the post of the chief officer in such publications circulating throughout England and Wales as it considers appropriate.
 
@@ -178,7 +178,7 @@ Minister for Education and Skills, one of the Welsh Ministers
 
 3 September 2014
 
-## SCHEDULE 1 — REGULATIONS REVOKED[^key-f85571ee5f9bd3ec7cbe2c52f0a03aa0]
+## SCHEDULE 1 — REGULATIONS REVOKED[^c-f85571ee5f9bd3ec7cbe2c52f0a03aa0]
 
 Regulation 2
 
@@ -197,63 +197,63 @@ Regulation 6
 
 ### PART 1
 
-**1.**[^key-5f7cc1d3af39359377d4352a08f57bee] National Education Union.
+**1.**[^c-5f7cc1d3af39359377d4352a08f57bee] National Education Union.
 
-**2.**[^key-326ef20431b80de232b04971003f88a0] National Association of Schoolmasters Union of Women Teachers (Cymru).
+**2.**[^c-326ef20431b80de232b04971003f88a0] National Association of Schoolmasters Union of Women Teachers (Cymru).
 
-**3.**[^key-580d5363ecaad48783eb58703922cce1] Association of School and College Leaders.
+**3.**[^c-580d5363ecaad48783eb58703922cce1] Association of School and College Leaders.
 
-**4.**[^key-a181cdca0a84c3a8fb75a2976b8fcab5] Professional Association of Teachers.
+**4.**[^c-a181cdca0a84c3a8fb75a2976b8fcab5] Professional Association of Teachers.
 
-**5.**[^key-07f5e7f919c87a443fd95a0a413138c5] National Association of Head Teachers in Wales.
+**5.**[^c-07f5e7f919c87a443fd95a0a413138c5] National Association of Head Teachers in Wales.
 
-**6.**[^key-7c243b87a5ef492de68efe318c1e21e9] Undeb Cenedlaethol Athrawon Cymru.
+**6.**[^c-7c243b87a5ef492de68efe318c1e21e9] Undeb Cenedlaethol Athrawon Cymru.
 
-**7.**[^key-8929ecebd5194ff5c17a01b719503941] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8929ecebd5194ff5c17a01b719503941] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-6d8873d1950f9be90e24aa3d8fc47ee4] University and College Union.
+**8.**[^c-6d8873d1950f9be90e24aa3d8fc47ee4] University and College Union.
 
-**9.**[^key-63a2921ad2e6079109a6c7c70b171e4a] UNISON.
+**9.**[^c-63a2921ad2e6079109a6c7c70b171e4a] UNISON.
 
-**10.**[^key-abf026b64666547fb95a5b549489336b] GMB.
+**10.**[^c-abf026b64666547fb95a5b549489336b] GMB.
 
-**11.**[^key-17c692ecbd8c3813b5a424d0bd9e6454] Unite the Union.
+**11.**[^c-17c692ecbd8c3813b5a424d0bd9e6454] Unite the Union.
 
-**12.**[^key-56cc12ea0a3315f5713963d418184fea] Aspect Group of Prospect Union.
+**12.**[^c-56cc12ea0a3315f5713963d418184fea] Aspect Group of Prospect Union.
 
-**13.**[^key-934a335fc5c929e034e07cc6729c98b8] Wales TUC.
+**13.**[^c-934a335fc5c929e034e07cc6729c98b8] Wales TUC.
 
 ### PART 2
 
-**14.**[^key-ed3152e6cc7a3da4fba2946c3eabc3d0] CollegesWales.
+**14.**[^c-ed3152e6cc7a3da4fba2946c3eabc3d0] CollegesWales.
 
-**15.**[^key-f43fb40fe2383e53c6fd6a1d7b8a0c07] Y Coleg Cymraeg Cenedlaethol.
+**15.**[^c-f43fb40fe2383e53c6fd6a1d7b8a0c07] Y Coleg Cymraeg Cenedlaethol.
 
-**16.**[^key-feca84c431b4fc62d725b056419c1c7a] Association of Directors of Education in Wales.
+**16.**[^c-feca84c431b4fc62d725b056419c1c7a] Association of Directors of Education in Wales.
 
-**17.**[^key-2970f76467c37c62c4f8b54449b1ea88] Welsh Local Government Association.
+**17.**[^c-2970f76467c37c62c4f8b54449b1ea88] Welsh Local Government Association.
 
-**18.**[^key-7191cb92529592765d3c9826284b5eb4] Confederation of School Governors Associations in Wales.
+**18.**[^c-7191cb92529592765d3c9826284b5eb4] Confederation of School Governors Associations in Wales.
 
-**19.**[^key-649b717afeccdbfaa30f72bc4fdeffcb] The Church in Wales.
+**19.**[^c-649b717afeccdbfaa30f72bc4fdeffcb] The Church in Wales.
 
-**20.**[^key-a718ba6ff35f7bdde511e12655c53af0] The Catholic Education Service.
+**20.**[^c-a718ba6ff35f7bdde511e12655c53af0] The Catholic Education Service.
 
-**21.**[^key-1c0d72670cbf42f5ba2684aa8579ca6b] Higher Education Wales.
+**21.**[^c-1c0d72670cbf42f5ba2684aa8579ca6b] Higher Education Wales.
 
-**22.**[^key-598aa1694c8df44c2d35d23af9562e40] Universities Council for the Education of Teachers.
+**22.**[^c-598aa1694c8df44c2d35d23af9562e40] Universities Council for the Education of Teachers.
 
-**23.**[^key-057d49e6f657ba786001dbe1290d6032] Welsh Independent Schools Council.
+**23.**[^c-057d49e6f657ba786001dbe1290d6032] Welsh Independent Schools Council.
 
-**24.**[^key-3b33765b1d44c32f7950880d6eae22d5] Wales Association of SACREs[^f00009].
+**24.**[^c-3b33765b1d44c32f7950880d6eae22d5] Wales Association of SACREs[^f00009].
 
-**25.**[^key-82c5c8c229f5dce3918dc2fe1236ef14] Association of Directors of Social Services Cymru.
+**25.**[^c-82c5c8c229f5dce3918dc2fe1236ef14] Association of Directors of Social Services Cymru.
 
-**26.**[^key-11aa5218956949abfd9c4e9d4fbe2e17] Federation of Small Businesses.
+**26.**[^c-11aa5218956949abfd9c4e9d4fbe2e17] Federation of Small Businesses.
 
-**27.**[^key-239fe1a456f64f8b8fe59e256d8fef73] Wales Council for Voluntary Action.
+**27.**[^c-239fe1a456f64f8b8fe59e256d8fef73] Wales Council for Voluntary Action.
 
-**28.**[^key-6a9cab5f117033f69cab4db76fb4a71a] Council for Wales of Voluntary Youth Services Cyngor Cymreig y Gwasanaethau Ieuenctid Gwirfoddol.
+**28.**[^c-6a9cab5f117033f69cab4db76fb4a71a] Council for Wales of Voluntary Youth Services Cyngor Cymreig y Gwasanaethau Ieuenctid Gwirfoddol.
 
 **29.** Wales Principal Youth Officers’ Group.
 
@@ -283,19 +283,19 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2014 anaw 5](https://www.legislation.gov.uk/anaw/2014/5).
 
-[^key-3e0e2ee9ae607fb15f8012f5a414a76a]: Commencement: Reg. 1 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-3e0e2ee9ae607fb15f8012f5a414a76a]: Commencement: Reg. 1 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-1505d5ed0d578c96fbdd57bbb91449a8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2014/2365/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-1505d5ed0d578c96fbdd57bbb91449a8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2014/2365/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-4f49d00f58a7dcbaa91e391b183565a7]: Commencement: Reg. 3 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-4f49d00f58a7dcbaa91e391b183565a7]: Commencement: Reg. 3 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
 [^f00002]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
 [^f00003]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30).
 
-[^key-d125eba7a3ae3f1a8be543ecc5feb4ae]: Commencement: Reg. 4 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-d125eba7a3ae3f1a8be543ecc5feb4ae]: Commencement: Reg. 4 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-9820a1b7fe651c00888e163a69d2fd1c]: Commencement: Reg. 5 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-9820a1b7fe651c00888e163a69d2fd1c]: Commencement: Reg. 5 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
 [^f00004]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
 
@@ -307,72 +307,72 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: Repealed by section 215(2) of, and Part 3 of Schedule 22 to, the Education Act 2002.
 
-[^key-b4677ff73c157ce29a5e839b600fd5f4]: Commencement: Reg. 6 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-b4677ff73c157ce29a5e839b600fd5f4]: Commencement: Reg. 6 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-84de40cb61622d30caf4a8b7cd8be300]: Commencement: Reg. 7 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-84de40cb61622d30caf4a8b7cd8be300]: Commencement: Reg. 7 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-482277d0d6b5d9e1bb977ae4e65321d3]: Commencement: Reg. 8 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-482277d0d6b5d9e1bb977ae4e65321d3]: Commencement: Reg. 8 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-0b313bfbbbb217a7dc9d4a3159217dcc]: Commencement: Reg. 9 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-0b313bfbbbb217a7dc9d4a3159217dcc]: Commencement: Reg. 9 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-ec26d8664db53ae2a7b48bf17c8fb0e1]: Commencement: Reg. 10 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-ec26d8664db53ae2a7b48bf17c8fb0e1]: Commencement: Reg. 10 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-f85571ee5f9bd3ec7cbe2c52f0a03aa0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2014/2365/schedule/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-f85571ee5f9bd3ec7cbe2c52f0a03aa0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2014/2365/schedule/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-5f7cc1d3af39359377d4352a08f57bee]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2014/2365/schedule/2/paragraph/1) substituted (9.8.2018) by [The Education Workforce Council (Membership and Appointment) (Wales) (Amendment) Regulations 2018 (S.I. 2018/862)](https://www.legislation.gov.uk/wsi/2018/862), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/862/regulation/1/2), [2(a)(i)](https://www.legislation.gov.uk/wsi/2018/862/regulation/2/a/i)
+[^c-5f7cc1d3af39359377d4352a08f57bee]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2014/2365/schedule/2/paragraph/1) substituted (9.8.2018) by [The Education Workforce Council (Membership and Appointment) (Wales) (Amendment) Regulations 2018 (S.I. 2018/862)](https://www.legislation.gov.uk/wsi/2018/862), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/862/regulation/1/2), [2(a)(i)](https://www.legislation.gov.uk/wsi/2018/862/regulation/2/a/i)
 
-[^key-326ef20431b80de232b04971003f88a0]: Commencement: Sch. 2 para. 2 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-326ef20431b80de232b04971003f88a0]: Commencement: Sch. 2 para. 2 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-580d5363ecaad48783eb58703922cce1]: Commencement: Sch. 2 para. 3 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-580d5363ecaad48783eb58703922cce1]: Commencement: Sch. 2 para. 3 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-a181cdca0a84c3a8fb75a2976b8fcab5]: Commencement: Sch. 2 para. 4 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-a181cdca0a84c3a8fb75a2976b8fcab5]: Commencement: Sch. 2 para. 4 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-07f5e7f919c87a443fd95a0a413138c5]: Commencement: Sch. 2 para. 5 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-07f5e7f919c87a443fd95a0a413138c5]: Commencement: Sch. 2 para. 5 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-7c243b87a5ef492de68efe318c1e21e9]: Commencement: Sch. 2 para. 6 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-7c243b87a5ef492de68efe318c1e21e9]: Commencement: Sch. 2 para. 6 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-8929ecebd5194ff5c17a01b719503941]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2014/2365/schedule/2/paragraph/7) omitted (9.8.2018) by virtue of [The Education Workforce Council (Membership and Appointment) (Wales) (Amendment) Regulations 2018 (S.I. 2018/862)](https://www.legislation.gov.uk/wsi/2018/862), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/862/regulation/1/2), [2(a)(ii)](https://www.legislation.gov.uk/wsi/2018/862/regulation/2/a/ii)
+[^c-8929ecebd5194ff5c17a01b719503941]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2014/2365/schedule/2/paragraph/7) omitted (9.8.2018) by virtue of [The Education Workforce Council (Membership and Appointment) (Wales) (Amendment) Regulations 2018 (S.I. 2018/862)](https://www.legislation.gov.uk/wsi/2018/862), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/862/regulation/1/2), [2(a)(ii)](https://www.legislation.gov.uk/wsi/2018/862/regulation/2/a/ii)
 
-[^key-6d8873d1950f9be90e24aa3d8fc47ee4]: Commencement: Sch. 2 para. 8 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-6d8873d1950f9be90e24aa3d8fc47ee4]: Commencement: Sch. 2 para. 8 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-63a2921ad2e6079109a6c7c70b171e4a]: Commencement: Sch. 2 para. 9 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-63a2921ad2e6079109a6c7c70b171e4a]: Commencement: Sch. 2 para. 9 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-abf026b64666547fb95a5b549489336b]: Commencement: Sch. 2 para. 10 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-abf026b64666547fb95a5b549489336b]: Commencement: Sch. 2 para. 10 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-17c692ecbd8c3813b5a424d0bd9e6454]: Commencement: Sch. 2 para. 11 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-17c692ecbd8c3813b5a424d0bd9e6454]: Commencement: Sch. 2 para. 11 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-56cc12ea0a3315f5713963d418184fea]: Commencement: Sch. 2 para. 12 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-56cc12ea0a3315f5713963d418184fea]: Commencement: Sch. 2 para. 12 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-934a335fc5c929e034e07cc6729c98b8]: Commencement: Sch. 2 para. 13 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-934a335fc5c929e034e07cc6729c98b8]: Commencement: Sch. 2 para. 13 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-ed3152e6cc7a3da4fba2946c3eabc3d0]: Commencement: Sch. 2 para. 14 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-ed3152e6cc7a3da4fba2946c3eabc3d0]: Commencement: Sch. 2 para. 14 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-f43fb40fe2383e53c6fd6a1d7b8a0c07]: Commencement: Sch. 2 para. 15 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-f43fb40fe2383e53c6fd6a1d7b8a0c07]: Commencement: Sch. 2 para. 15 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-feca84c431b4fc62d725b056419c1c7a]: Commencement: Sch. 2 para. 16 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-feca84c431b4fc62d725b056419c1c7a]: Commencement: Sch. 2 para. 16 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-2970f76467c37c62c4f8b54449b1ea88]: Commencement: Sch. 2 para. 17 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-2970f76467c37c62c4f8b54449b1ea88]: Commencement: Sch. 2 para. 17 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-7191cb92529592765d3c9826284b5eb4]: Commencement: Sch. 2 para. 18 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-7191cb92529592765d3c9826284b5eb4]: Commencement: Sch. 2 para. 18 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-649b717afeccdbfaa30f72bc4fdeffcb]: Commencement: Sch. 2 para. 19 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-649b717afeccdbfaa30f72bc4fdeffcb]: Commencement: Sch. 2 para. 19 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-a718ba6ff35f7bdde511e12655c53af0]: Commencement: Sch. 2 para. 20 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-a718ba6ff35f7bdde511e12655c53af0]: Commencement: Sch. 2 para. 20 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-1c0d72670cbf42f5ba2684aa8579ca6b]: Commencement: Sch. 2 para. 21 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-1c0d72670cbf42f5ba2684aa8579ca6b]: Commencement: Sch. 2 para. 21 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-598aa1694c8df44c2d35d23af9562e40]: Commencement: Sch. 2 para. 22 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-598aa1694c8df44c2d35d23af9562e40]: Commencement: Sch. 2 para. 22 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-057d49e6f657ba786001dbe1290d6032]: Commencement: Sch. 2 para. 23 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-057d49e6f657ba786001dbe1290d6032]: Commencement: Sch. 2 para. 23 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-3b33765b1d44c32f7950880d6eae22d5]: Commencement: Sch. 2 para. 24 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-3b33765b1d44c32f7950880d6eae22d5]: Commencement: Sch. 2 para. 24 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
 [^f00009]: Footnote: Standing advisory councils for religious education (SACREs) are established by virtue of section 390 of the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-82c5c8c229f5dce3918dc2fe1236ef14]: Commencement: Sch. 2 para. 25 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-82c5c8c229f5dce3918dc2fe1236ef14]: Commencement: Sch. 2 para. 25 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-11aa5218956949abfd9c4e9d4fbe2e17]: Commencement: Sch. 2 para. 26 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-11aa5218956949abfd9c4e9d4fbe2e17]: Commencement: Sch. 2 para. 26 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-239fe1a456f64f8b8fe59e256d8fef73]: Commencement: Sch. 2 para. 27 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
+[^c-239fe1a456f64f8b8fe59e256d8fef73]: Commencement: Sch. 2 para. 27 in force at 29.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/2365/regulation/1/1)
 
-[^key-6a9cab5f117033f69cab4db76fb4a71a]: Textual amendment: [Sch. 2 paras. 28-31](https://www.legislation.gov.uk/wsi/2014/2365/schedule/2/paragraph/28) inserted (9.8.2018) by [The Education Workforce Council (Membership and Appointment) (Wales) (Amendment) Regulations 2018 (S.I. 2018/862)](https://www.legislation.gov.uk/wsi/2018/862), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/862/regulation/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2018/862/regulation/2/b)
+[^c-6a9cab5f117033f69cab4db76fb4a71a]: Textual amendment: [Sch. 2 paras. 28-31](https://www.legislation.gov.uk/wsi/2014/2365/schedule/2/paragraph/28) inserted (9.8.2018) by [The Education Workforce Council (Membership and Appointment) (Wales) (Amendment) Regulations 2018 (S.I. 2018/862)](https://www.legislation.gov.uk/wsi/2018/862), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/862/regulation/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2018/862/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210A. Acquisition value of qualifying investments[^key-5be5eaa8d7d5d38aa197fc59fc9950a1]
+## 210A. Acquisition value of qualifying investments[^c-5be5eaa8d7d5d38aa197fc59fc9950a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5be5eaa8d7d5d38aa197fc59fc9950a1]: Textual amendment: S. 210A inserted (with effect in accordance with Sch. 7 paras. 9, 10 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2010/13/schedule/7/paragraph/7)
+[^c-5be5eaa8d7d5d38aa197fc59fc9950a1]: Textual amendment: S. 210A inserted (with effect in accordance with Sch. 7 paras. 9, 10 of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2010/13/schedule/7/paragraph/7)

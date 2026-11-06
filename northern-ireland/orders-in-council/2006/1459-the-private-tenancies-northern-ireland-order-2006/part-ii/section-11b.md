@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11B. Landlord’s duties: fire, smoke and carbon monoxide alarms[^key-856b36ea6a8654676ebd47db71066e4f]
+## 11B. Landlord’s duties: fire, smoke and carbon monoxide alarms[^c-856b36ea6a8654676ebd47db71066e4f]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-856b36ea6a8654676ebd47db71066e4f]: Textual amendment: [Arts. 11A-11F](https://www.legislation.gov.uk/nisi/2006/1459/article/11A) inserted (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 8(2)](https://www.legislation.gov.uk/nia/2022/20/section/8/2), [14(2)(d)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/d)
+[^c-856b36ea6a8654676ebd47db71066e4f]: Textual amendment: [Arts. 11A-11F](https://www.legislation.gov.uk/nisi/2006/1459/article/11A) inserted (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 8(2)](https://www.legislation.gov.uk/nia/2022/20/section/8/2), [14(2)(d)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/d)

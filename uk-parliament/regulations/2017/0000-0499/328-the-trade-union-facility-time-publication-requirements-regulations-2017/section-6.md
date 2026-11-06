@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Meaning of full-time equivalent employee number[^key-1ced2232e82f77477136820e6bde2d76]
+## 6. Meaning of full-time equivalent employee number[^c-1ced2232e82f77477136820e6bde2d76]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ For the purposes of these Regulations, the full-time equivalent employee number 
 
 ## Annotations
 
-[^key-1ced2232e82f77477136820e6bde2d76]: Commencement: Reg. 6 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)
+[^c-1ced2232e82f77477136820e6bde2d76]: Commencement: Reg. 6 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Measures on suspicion and confirmation of disease at a slaughterhouse[^key-99496acf87a32e2bad58dfda08c85539]
+## 19. Measures on suspicion and confirmation of disease at a slaughterhouse[^c-99496acf87a32e2bad58dfda08c85539]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99496acf87a32e2bad58dfda08c85539]: Commencement: Reg. 19 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-99496acf87a32e2bad58dfda08c85539]: Commencement: Reg. 19 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21ZA. Payment of arrears of benefit by instalments[^key-1247bbad29ad1244112c3fbf41c83498]
+## 21ZA. Payment of arrears of benefit by instalments[^c-1247bbad29ad1244112c3fbf41c83498]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Except where regulation 23 applies, the Secretary of State may pay arrears of be
 
 ## Annotations
 
-[^key-1247bbad29ad1244112c3fbf41c83498]: Textual amendment: [Reg. 21ZA](https://www.legislation.gov.uk/uksi/1987/1968/regulation/21ZA) inserted (18.10.2021) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2021 (S.I. 2021/1065)](https://www.legislation.gov.uk/uksi/2021/1065), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1065/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/1/2))
+[^c-1247bbad29ad1244112c3fbf41c83498]: Textual amendment: [Reg. 21ZA](https://www.legislation.gov.uk/uksi/1987/1968/regulation/21ZA) inserted (18.10.2021) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations 2021 (S.I. 2021/1065)](https://www.legislation.gov.uk/uksi/2021/1065), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2021/1065/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1065/regulation/1/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Covenant income where no grant income or no contribution is assessed[^key-c8a829437d3517d2156bad65fa4cfdfc]
+## 44. Covenant income where no grant income or no contribution is assessed[^c-c8a829437d3517d2156bad65fa4cfdfc]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8a829437d3517d2156bad65fa4cfdfc]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1992/1814/regulation/44) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-c8a829437d3517d2156bad65fa4cfdfc]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1992/1814/regulation/44) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

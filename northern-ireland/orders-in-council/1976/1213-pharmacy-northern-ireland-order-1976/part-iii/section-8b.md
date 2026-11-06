@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8B. Visiting pharmaceutical chemist from a relevant European State[^key-47647e84614ca74709d4b3442e1f7cbd]
+## 8B. Visiting pharmaceutical chemist from a relevant European State[^c-47647e84614ca74709d4b3442e1f7cbd]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47647e84614ca74709d4b3442e1f7cbd]: Textual amendment: [Art. 8B](https://www.legislation.gov.uk/nisi/1976/1213/article/8B) omitted (31.12.2020) by virtue of [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/10) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-47647e84614ca74709d4b3442e1f7cbd]: Textual amendment: [Art. 8B](https://www.legislation.gov.uk/nisi/1976/1213/article/8B) omitted (31.12.2020) by virtue of [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/585/regulation/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/10) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/schedule/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

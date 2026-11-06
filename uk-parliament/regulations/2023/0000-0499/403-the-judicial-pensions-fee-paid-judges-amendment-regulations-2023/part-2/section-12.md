@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Determination of applicable provisions to calculate benefits[^key-3567a6b3dafafc2632909af3198c52a2]
+## 12. Determination of applicable provisions to calculate benefits[^c-3567a6b3dafafc2632909af3198c52a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -625,7 +625,7 @@ After regulation 11 (opting back in) insert—
 
 ## Annotations
 
-[^key-3567a6b3dafafc2632909af3198c52a2]: Commencement: Reg. 12 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-3567a6b3dafafc2632909af3198c52a2]: Commencement: Reg. 12 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 1995/632](https://www.legislation.gov.uk/uksi/1995/632); the Table was substituted by [S.I. 2015/533](https://www.legislation.gov.uk/uksi/2015/533).
 

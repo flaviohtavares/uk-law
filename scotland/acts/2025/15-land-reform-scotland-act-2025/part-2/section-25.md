@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Compensation for improvements[^key-447f1d6564931153d43053009cf6d467]
+## 25. Compensation for improvements[^c-447f1d6564931153d43053009cf6d467]
 
 *Extent: S*
 
@@ -239,4 +239,4 @@ summary: ''
 
 ## Annotations
 
-[^key-447f1d6564931153d43053009cf6d467]: Commencement: S. 25 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-447f1d6564931153d43053009cf6d467]: Commencement: S. 25 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

@@ -53,10 +53,10 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 - “the Act” means the Social Security Contributions and Benefits Act 1992;
 - “child benefit” means child benefit within the meaning of section 141 of the Act;
-- “foster parent” means a person approved as —[^key-e3ea170d0c3538ce4223d2989029d13d]
+- “foster parent” means a person approved as —[^c-e3ea170d0c3538ce4223d2989029d13d]
   - (a) a foster parent in accordance with the provisions of Part IV of the Fostering Services Regulations 2002 (approval of foster parents); or
   - (b) a foster carer in accordance with the provisions of Part II of the Fostering of Children (Scotland) Regulations 1996 (approval of foster carers);
-- “the General Regulations” means the Child Benefit (General) Regulations 2003;[^key-fa45eb2589458cbcd21b33ba11dec086]
+- “the General Regulations” means the Child Benefit (General) Regulations 2003;[^c-fa45eb2589458cbcd21b33ba11dec086]
 - “Personal Injuries Scheme”, “Pneumoconiosis and Byssinosis Benefit Scheme”, “Service Pensions Instrument” and “1914-1918 War Injuries Scheme” have the same meaning as assigned to them in regulation 2 of the Social Security (Overlapping Benefits) Regulations 1979 [^c1807770];
 - “year” means tax year.
 
@@ -71,11 +71,11 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 (2) The conditions specified in this paragraph are—
 
 - (a) that child benefit awarded to him was payable in respect of a child under the age of 16;
-- (aa)[^key-c32f449bbce6be365ecbc02017394f6d] that child benefit awarded to his partner was payable in respect of a child under the age of 16;
+- (aa)[^c-c32f449bbce6be365ecbc02017394f6d] that child benefit awarded to his partner was payable in respect of a child under the age of 16;
 - (b) that—
-  - (i)[^key-1973cf35655c4d62620a6d9e5a58bba1] he is a person to whom paragraphs 4 to 6 of Schedule 1B to the Income Support (General) Regulations 1987 apply, and
+  - (i)[^c-1973cf35655c4d62620a6d9e5a58bba1] he is a person to whom paragraphs 4 to 6 of Schedule 1B to the Income Support (General) Regulations 1987 apply, and
   - (ii) income support is payable to him.
-- (c)[^key-2542b94470ae79e16d5eca6eb3972b64] that he was a foster parent throughout the year 2003-2004 or any subsequent year[^key-9f67a495b22c5b8be051d6dcd5473e65].
+- (c)[^c-2542b94470ae79e16d5eca6eb3972b64] that he was a foster parent throughout the year 2003-2004 or any subsequent year[^c-9f67a495b22c5b8be051d6dcd5473e65].
 
 (3) The conditions specified in this paragraph are—
 
@@ -84,12 +84,12 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 (4) The benefits referred to in paragraph (3) above are an attendance allowance under section 64 of the Act, the care component of disability living allowance at the highest or middle rate prescribed in accordance with section 72 of the Act, a constant attendance allowance under any Service Pensions Instrument, Personal Injuries Scheme or 1914-1918 War Injuries Scheme, an increase of disablement pension under section 104 of the Act in respect of constant attendance and any benefit corresponding to such an increase under a Pneumoconiosis and Byssinosis Benefit Scheme or under Regulations under paragraph 7(2) of Schedule 8 to the Act.
 
-(4A)[^key-3e8cfc272f64e9b37f45d96b0a2bce48] For the purposes of paragraph (2)(a) above, where—
+(4A)[^c-3e8cfc272f64e9b37f45d96b0a2bce48] For the purposes of paragraph (2)(a) above, where—
 
 - (a) child benefit first becomes payable to a person in respect of a child on the first Monday in a year; and
 - (b) child benefit would, but for the provisions of section 147(2) of the Act, have been payable to that person in respect of that child for the part of that year falling before that Monday, that person shall be treated as if he were entitled to child benefit and, accordingly, as if child benefit were payable to him for that part of that year.
 
-(4B)[^key-70cb755379a9d99af9309841403c6a82] For the purposes of paragraph (2)(a) above, in respect of the year 2004-2005 or any subsequent year, where—
+(4B)[^c-70cb755379a9d99af9309841403c6a82] For the purposes of paragraph (2)(a) above, in respect of the year 2004-2005 or any subsequent year, where—
 
 - (a) a notice is given under regulation 15(1) of the General Regulations (modification of priority between persons entitled to child benefit) by the person who is entitled to child benefit;
 - (b) that notice becomes effective in relation to any week falling in the first three months of a year;
@@ -99,12 +99,12 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 the new payee shall be treated as if he were entitled to child benefit and, accordingly, as if child benefit were payable to him for each week of the year prior to the notice becoming effective.
 
-(4C)[^key-2b236780eb4f0b0e65b2167e38aa4fae] In paragraph (2)(aa), “partner” means the person with whom he was both residing and sharing responsibility for the child throughout that year.
+(4C)[^c-2b236780eb4f0b0e65b2167e38aa4fae] In paragraph (2)(aa), “partner” means the person with whom he was both residing and sharing responsibility for the child throughout that year.
 
 (5) Except where paragraph (6) below applies, paragraph (1) above shall not apply in relation to any year—
 
 - (a) if the person in question is a woman who has made or is treated as having made an election in accordance with regulations having effect under section 19(4) of the Act [^c1807772] and that election had effect at the beginning of that year; or
-- (aza) in the case of a person who satisfies the condition in paragraph (2)(aa) above—[^key-1d357279383e5b16b3e98ebec5d91b3e]
+- (aza) in the case of a person who satisfies the condition in paragraph (2)(aa) above—[^c-1d357279383e5b16b3e98ebec5d91b3e]
   - (i) such information is not furnished as the Secretary of State may from time to time require which is relevant to the question of whether in that year he was precluded from regular employment by responsibilities at home within the meaning of these Regulations;
   - (ii) he attained pensionable age on or before 5 <sup>th</sup> April 2008 or, in relation to a claim for a bereavement benefit in respect of his death, he died on or before that date; or
   - (iii) the aggregate of his partner’s earnings factors—
@@ -112,8 +112,8 @@ the new payee shall be treated as if he were entitled to child benefit and, acco
     - (bb) in respect of the year 2002-2003 or any subsequent year, where those earnings factors are derived from so much of his earnings as do not exceed the upper earnings limit and upon which primary Class 1 contributions have been paid or treated as paid,
 
     is less than the qualifying earnings factor for the year in question.
-- (aa) in the case of a person who satisfies the condition in paragraph (2)(c) above in respect of the year 2003-04 or any subsequent year, if he does not furnish such information as the Secretary of State may from time to time require which is relevant to the question of whether in that year he was precluded from regular employment by responsibilities at home within the meaning of these Regulations; or[^key-6511a678183228dc27f0207a4f5148ec]
-- (b)[^key-f6d874f1f342b0722fc22ca7f86a5369] in the case of a person who satisfies the conditions in paragraph (3) above in respect of any year preceding 2002–2003, if he does not furnish such information as the Secretary of State may from time to time require which is relevant to the question of whether in that year he was precluded from regular employment by responsibilities at home within the meaning of these Regulations; or
+- (aa) in the case of a person who satisfies the condition in paragraph (2)(c) above in respect of the year 2003-04 or any subsequent year, if he does not furnish such information as the Secretary of State may from time to time require which is relevant to the question of whether in that year he was precluded from regular employment by responsibilities at home within the meaning of these Regulations; or[^c-6511a678183228dc27f0207a4f5148ec]
+- (b)[^c-f6d874f1f342b0722fc22ca7f86a5369] in the case of a person who satisfies the conditions in paragraph (3) above in respect of any year preceding 2002–2003, if he does not furnish such information as the Secretary of State may from time to time require which is relevant to the question of whether in that year he was precluded from regular employment by responsibilities at home within the meaning of these Regulations; or
 - (c) in the case of a person who satisfies the conditions in paragraph (3) above in respect of the year 2002–2003 or any subsequent year, if he does not, within the period of three years immediately following the end of that year, furnish such information as the Secretary of State may from time to time require which is relevant to the question of whether, in that year, he was precluded from regular employment by responsibilities at home within the meaning of these Regulations.
 
 (6) This paragraph applies to a woman who throughout the period beginning on 6th April 1975 and ending on 5th April 1980—
@@ -164,30 +164,30 @@ These Regulations do not impose any costs on business.
 
 [^c1807769]: Marginal citation: See section 173(1)(b) of the Social Security Administration Act [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-e3ea170d0c3538ce4223d2989029d13d]: Textual amendment: Words in reg. 1(2) inserted (1.9.2003) by [The Social Security Pensions (Home Responsiblities) Amendment Regulations 2003 (S.I. 2003/1767)](https://www.legislation.gov.uk/uksi/2003/1767), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1767/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/1767/regulation/2/2)
+[^c-e3ea170d0c3538ce4223d2989029d13d]: Textual amendment: Words in reg. 1(2) inserted (1.9.2003) by [The Social Security Pensions (Home Responsiblities) Amendment Regulations 2003 (S.I. 2003/1767)](https://www.legislation.gov.uk/uksi/2003/1767), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1767/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/1767/regulation/2/2)
 
-[^key-fa45eb2589458cbcd21b33ba11dec086]: Textual amendment: Words in reg. 1(2) inserted (9.2.2005) by [Social Security Pensions (Home Responsibilities) (Amendment) Regulations 2005 (S.I. 2005/48)](https://www.legislation.gov.uk/uksi/2005/48), [regs. 1](https://www.legislation.gov.uk/uksi/2005/48/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/48/regulation/2/2)
+[^c-fa45eb2589458cbcd21b33ba11dec086]: Textual amendment: Words in reg. 1(2) inserted (9.2.2005) by [Social Security Pensions (Home Responsibilities) (Amendment) Regulations 2005 (S.I. 2005/48)](https://www.legislation.gov.uk/uksi/2005/48), [regs. 1](https://www.legislation.gov.uk/uksi/2005/48/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/48/regulation/2/2)
 
 [^c1807770]: Marginal citation: [S.I. 1979/597](https://www.legislation.gov.uk/uksi/1979/597); the relevant amending instrument is 1980/1927.
 
-[^key-c32f449bbce6be365ecbc02017394f6d]: Textual amendment: Reg. 2(2)(aa) inserted (6.4.2008) by [Social Security Pensions (Home Responsibilities) Amendment Regulations 2008 (S.I. 2008/498)](https://www.legislation.gov.uk/uksi/2008/498), [regs. 1](https://www.legislation.gov.uk/uksi/2008/498/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2008/498/regulation/2/2/a)
+[^c-c32f449bbce6be365ecbc02017394f6d]: Textual amendment: Reg. 2(2)(aa) inserted (6.4.2008) by [Social Security Pensions (Home Responsibilities) Amendment Regulations 2008 (S.I. 2008/498)](https://www.legislation.gov.uk/uksi/2008/498), [regs. 1](https://www.legislation.gov.uk/uksi/2008/498/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2008/498/regulation/2/2/a)
 
-[^key-1973cf35655c4d62620a6d9e5a58bba1]: Textual amendment: Reg. 2(2)(b)(i) substituted (6.4.2008) by [Social Security Pensions (Home Responsibilities) Amendment Regulations 2008 (S.I. 2008/498)](https://www.legislation.gov.uk/uksi/2008/498), [regs. 1](https://www.legislation.gov.uk/uksi/2008/498/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2008/498/regulation/2/2/b)
+[^c-1973cf35655c4d62620a6d9e5a58bba1]: Textual amendment: Reg. 2(2)(b)(i) substituted (6.4.2008) by [Social Security Pensions (Home Responsibilities) Amendment Regulations 2008 (S.I. 2008/498)](https://www.legislation.gov.uk/uksi/2008/498), [regs. 1](https://www.legislation.gov.uk/uksi/2008/498/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2008/498/regulation/2/2/b)
 
-[^key-2542b94470ae79e16d5eca6eb3972b64]: Textual amendment: Reg. 2(2)(c) added (1.9.2003) by [The Social Security Pensions (Home Responsiblities) Amendment Regulations 2003 (S.I. 2003/1767)](https://www.legislation.gov.uk/uksi/2003/1767), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1767/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2003/1767/regulation/2/3/a)
+[^c-2542b94470ae79e16d5eca6eb3972b64]: Textual amendment: Reg. 2(2)(c) added (1.9.2003) by [The Social Security Pensions (Home Responsiblities) Amendment Regulations 2003 (S.I. 2003/1767)](https://www.legislation.gov.uk/uksi/2003/1767), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1767/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2003/1767/regulation/2/3/a)
 
-[^key-9f67a495b22c5b8be051d6dcd5473e65]: Textual amendment: Words in reg. 2(2)(c) added (6.4.2008) by [Social Security Pensions (Home Responsibilities) Amendment Regulations 2008 (S.I. 2008/498)](https://www.legislation.gov.uk/uksi/2008/498), [regs. 1](https://www.legislation.gov.uk/uksi/2008/498/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2008/498/regulation/2/2/c)
+[^c-9f67a495b22c5b8be051d6dcd5473e65]: Textual amendment: Words in reg. 2(2)(c) added (6.4.2008) by [Social Security Pensions (Home Responsibilities) Amendment Regulations 2008 (S.I. 2008/498)](https://www.legislation.gov.uk/uksi/2008/498), [regs. 1](https://www.legislation.gov.uk/uksi/2008/498/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2008/498/regulation/2/2/c)
 
-[^key-3e8cfc272f64e9b37f45d96b0a2bce48]: Textual amendment: Reg. 2(4A) inserted (6.4.2002) by [The Social Security Pensions (Home Responsibilities) (Amendment) Regulations 2001 (S.I. 2001/1265)](https://www.legislation.gov.uk/uksi/2001/1265), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1265/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2001/1265/regulation/2)
+[^c-3e8cfc272f64e9b37f45d96b0a2bce48]: Textual amendment: Reg. 2(4A) inserted (6.4.2002) by [The Social Security Pensions (Home Responsibilities) (Amendment) Regulations 2001 (S.I. 2001/1265)](https://www.legislation.gov.uk/uksi/2001/1265), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1265/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2001/1265/regulation/2)
 
-[^key-70cb755379a9d99af9309841403c6a82]: Textual amendment: Reg. 2(4B) inserted (9.2.2005) by [Social Security Pensions (Home Responsibilities) (Amendment) Regulations 2005 (S.I. 2005/48)](https://www.legislation.gov.uk/uksi/2005/48), [regs. 1](https://www.legislation.gov.uk/uksi/2005/48/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/48/regulation/2/3)
+[^c-70cb755379a9d99af9309841403c6a82]: Textual amendment: Reg. 2(4B) inserted (9.2.2005) by [Social Security Pensions (Home Responsibilities) (Amendment) Regulations 2005 (S.I. 2005/48)](https://www.legislation.gov.uk/uksi/2005/48), [regs. 1](https://www.legislation.gov.uk/uksi/2005/48/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/48/regulation/2/3)
 
-[^key-2b236780eb4f0b0e65b2167e38aa4fae]: Textual amendment: Reg. 2(4C) inserted (6.4.2008) by [Social Security Pensions (Home Responsibilities) Amendment Regulations 2008 (S.I. 2008/498)](https://www.legislation.gov.uk/uksi/2008/498), [regs. 1](https://www.legislation.gov.uk/uksi/2008/498/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2008/498/regulation/2/3)
+[^c-2b236780eb4f0b0e65b2167e38aa4fae]: Textual amendment: Reg. 2(4C) inserted (6.4.2008) by [Social Security Pensions (Home Responsibilities) Amendment Regulations 2008 (S.I. 2008/498)](https://www.legislation.gov.uk/uksi/2008/498), [regs. 1](https://www.legislation.gov.uk/uksi/2008/498/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2008/498/regulation/2/3)
 
 [^c1807772]: Marginal citation: Section 19(4) consolidates section 3(2) of the Social Security Pensions Act [1975 c.60](https://www.legislation.gov.uk/ukpga/1975/60). which previously gave the power to make such regulations.
 
-[^key-1d357279383e5b16b3e98ebec5d91b3e]: Textual amendment: Reg. 2(5)(aza) inserted (6.4.2008) by [Social Security Pensions (Home Responsibilities) Amendment Regulations 2008 (S.I. 2008/498)](https://www.legislation.gov.uk/uksi/2008/498), [regs. 1](https://www.legislation.gov.uk/uksi/2008/498/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2008/498/regulation/2/4)
+[^c-1d357279383e5b16b3e98ebec5d91b3e]: Textual amendment: Reg. 2(5)(aza) inserted (6.4.2008) by [Social Security Pensions (Home Responsibilities) Amendment Regulations 2008 (S.I. 2008/498)](https://www.legislation.gov.uk/uksi/2008/498), [regs. 1](https://www.legislation.gov.uk/uksi/2008/498/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2008/498/regulation/2/4)
 
-[^key-6511a678183228dc27f0207a4f5148ec]: Textual amendment: Reg. 2(5)(aa) inserted (1.9.2003) by [The Social Security Pensions (Home Responsiblities) Amendment Regulations 2003 (S.I. 2003/1767)](https://www.legislation.gov.uk/uksi/2003/1767), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1767/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2003/1767/regulation/2/3/b)
+[^c-6511a678183228dc27f0207a4f5148ec]: Textual amendment: Reg. 2(5)(aa) inserted (1.9.2003) by [The Social Security Pensions (Home Responsiblities) Amendment Regulations 2003 (S.I. 2003/1767)](https://www.legislation.gov.uk/uksi/2003/1767), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1767/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2003/1767/regulation/2/3/b)
 
-[^key-f6d874f1f342b0722fc22ca7f86a5369]: Textual amendment: Sub-paras. (b) and (c) substituted for sub-para (b) in reg. 2(5) (6.4.2002) by [The Additional Pension and Social Security Pensions (Home Responsibilities) (Amendment) Regulations 2001 (S.I. 2001/1323)](https://www.legislation.gov.uk/uksi/2001/1323), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1323/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2001/1323/regulation/7)
+[^c-f6d874f1f342b0722fc22ca7f86a5369]: Textual amendment: Sub-paras. (b) and (c) substituted for sub-para (b) in reg. 2(5) (6.4.2002) by [The Additional Pension and Social Security Pensions (Home Responsibilities) (Amendment) Regulations 2001 (S.I. 2001/1323)](https://www.legislation.gov.uk/uksi/2001/1323), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/1323/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2001/1323/regulation/7)

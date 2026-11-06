@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-To indicate that an elector or his proxy is entitled to vote by post and is for that reason not entitled to vote in person, the letter “A” shall be placed against the entry[^key-720e5305b74f156d2b1455ba3fd014b5] of that elector in any copy of the register, or part of it, provided for a polling station.
+To indicate that an elector or his proxy is entitled to vote by post and is for that reason not entitled to vote in person, the letter “A” shall be placed against the entry[^c-720e5305b74f156d2b1455ba3fd014b5] of that elector in any copy of the register, or part of it, provided for a polling station.
 
 ## Annotations
 
-[^key-720e5305b74f156d2b1455ba3fd014b5]: Textual amendment: Word in [reg. 67](https://www.legislation.gov.uk/uksi/2008/1741/regulation/67) substituted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2014/1808/regulation/13)
+[^c-720e5305b74f156d2b1455ba3fd014b5]: Textual amendment: Word in [reg. 67](https://www.legislation.gov.uk/uksi/2008/1741/regulation/67) substituted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2014/1808/regulation/13)

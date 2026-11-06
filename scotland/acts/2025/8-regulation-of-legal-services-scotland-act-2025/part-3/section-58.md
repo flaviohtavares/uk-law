@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Commission review committee[^key-40bfff1b115376570af0683b57a674ce]
+## 58. Commission review committee[^c-40bfff1b115376570af0683b57a674ce]
 
 *Extent: S*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40bfff1b115376570af0683b57a674ce]: Commencement: S. 58 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-40bfff1b115376570af0683b57a674ce]: Commencement: S. 58 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

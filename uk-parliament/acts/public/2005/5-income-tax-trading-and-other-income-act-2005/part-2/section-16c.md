@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16C. Professionals in practice: incidental income from an office or employment[^key-b001bd6f85ba3f1d8981b3123d14696a]
+## 16C. Professionals in practice: incidental income from an office or employment[^c-b001bd6f85ba3f1d8981b3123d14696a]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b001bd6f85ba3f1d8981b3123d14696a]: Textual amendment: Ss. 16B, 16C inserted (6.4.2018) by [The Enactment of Extra-Statutory Concessions Order 2018 (S.I. 2018/282)](https://www.legislation.gov.uk/uksi/2018/282), [arts. 1](https://www.legislation.gov.uk/uksi/2018/282/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/282/article/5/2)
+[^c-b001bd6f85ba3f1d8981b3123d14696a]: Textual amendment: Ss. 16B, 16C inserted (6.4.2018) by [The Enactment of Extra-Statutory Concessions Order 2018 (S.I. 2018/282)](https://www.legislation.gov.uk/uksi/2018/282), [arts. 1](https://www.legislation.gov.uk/uksi/2018/282/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/282/article/5/2)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14C. Non-native species etc.: code of practice[^key-29a5fa590a3196af11be21bb23ca9d4e]
+## 14C. Non-native species etc.: code of practice[^c-29a5fa590a3196af11be21bb23ca9d4e]
 
 *Extent: S*
 
 (1) The Scottish Ministers may make a code of practice for the purpose of providing practical guidance in respect of—
 
-- (a) the application of any of sections 14, 14ZC, 14A , 14AA[^key-e7d8151c88c3cfbc6d8053ebeff693ad] and 14B;
+- (a) the application of any of sections 14, 14ZC, 14A , 14AA[^c-e7d8151c88c3cfbc6d8053ebeff693ad] and 14B;
 - (b) the application of any order made under any of those sections;
 - (c) species control agreements;
 - (d) species control orders;
@@ -30,10 +30,10 @@ summary: ''
 
 (2) A code of practice may, in particular, provide guidance on—
 
-- (a) how Scottish Natural Heritage, the Scottish Environment Protection Agency [^key-349df89197e4a886a6eb7204e6a15a1e]... and the Scottish Ministers should co-ordinate the way in which they exercise their respective functions in relation to animals or plants which are outwith their native range;
+- (a) how Scottish Natural Heritage, the Scottish Environment Protection Agency [^c-349df89197e4a886a6eb7204e6a15a1e]... and the Scottish Ministers should co-ordinate the way in which they exercise their respective functions in relation to animals or plants which are outwith their native range;
 - (b) which species, sub-species, varieties or races of animal or plant, or hybrids of animals or plants, are considered to be particular types of animals or plants for the purposes of—
   - (i) this section;
-  - (ia)[^key-cf515e4e41830a316e6db2df97cc1629] best practice for—
+  - (ia)[^c-cf515e4e41830a316e6db2df97cc1629] best practice for—
     - (i) keeping invasive alien species in contained holding,
     - (ii) measures to ensure such species cannot reproduce or escape,
   - (ib) the circumstances in which an animal which belongs to an invasive alien species is considered to be a companion animal,
@@ -42,7 +42,7 @@ summary: ''
   - (iv) species control agreements;
   - (v) species control orders;
   - (vi) the code;
-- (ba)[^key-929825dcb57d70c46a6a1498ea7b4c0f] which species, sub-species or lower taxons of animal, plant, fungus or micro-organism are considered to be invasive alien species,
+- (ba)[^c-929825dcb57d70c46a6a1498ea7b4c0f] which species, sub-species or lower taxons of animal, plant, fungus or micro-organism are considered to be invasive alien species,
 - (c) the native range of any type of animal or plant;
 - (d) the circumstances in which any type of animal is considered to be—
   - (i) in captivity; or
@@ -90,28 +90,28 @@ summary: ''
 - (a) does not of itself render the person liable to proceedings of any sort; but
 - (b) may be taken into account in determining any question in any such proceedings.
 
-(10) In any proceedings for an offence under section 14, 14ZC, 14A, 14AA,[^key-27a3b7326e157043d9a2c1b9d46aafda] 14B or 14K—
+(10) In any proceedings for an offence under section 14, 14ZC, 14A, 14AA,[^c-27a3b7326e157043d9a2c1b9d46aafda] 14B or 14K—
 
 - (a) failure to comply with a relevant provision of a code of practice may be relied upon as tending to establish liability;
 - (b) compliance with a relevant provision of a code of practice may be relied upon as tending to negative liability.
 
-(11)[^key-028d7f65a5588ef283f0ad8aed080dc8] In subsection (2)—
+(11)[^c-028d7f65a5588ef283f0ad8aed080dc8] In subsection (2)—
 
 - “contained holding” means closed facilities from which escape or spread is not possible,
 - “invasive alien species” has the same meaning as in section 14AA.
 
 ## Annotations
 
-[^key-29a5fa590a3196af11be21bb23ca9d4e]: Textual amendment: S. 14C inserted (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 15](https://www.legislation.gov.uk/asp/2011/6/section/15), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/d)
+[^c-29a5fa590a3196af11be21bb23ca9d4e]: Textual amendment: S. 14C inserted (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 15](https://www.legislation.gov.uk/asp/2011/6/section/15), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/d)
 
-[^key-e7d8151c88c3cfbc6d8053ebeff693ad]: Textual amendment: Word in s. 14C(1)(a) inserted (1.11.2019) by [The Conservation (Natural Habitats, c.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364)](https://www.legislation.gov.uk/ssi/2019/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/364/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/ssi/2019/364/regulation/2/3/a)
+[^c-e7d8151c88c3cfbc6d8053ebeff693ad]: Textual amendment: Word in s. 14C(1)(a) inserted (1.11.2019) by [The Conservation (Natural Habitats, c.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364)](https://www.legislation.gov.uk/ssi/2019/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/364/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/ssi/2019/364/regulation/2/3/a)
 
-[^key-349df89197e4a886a6eb7204e6a15a1e]: Textual amendment: Words in s. 14C(2)(a) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-349df89197e4a886a6eb7204e6a15a1e]: Textual amendment: Words in s. 14C(2)(a) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [s. 85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2), [sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-cf515e4e41830a316e6db2df97cc1629]: Textual amendment: S. 14C(2)(b)(ia)(ib) inserted (1.11.2019) by [The Conservation (Natural Habitats, c.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364)](https://www.legislation.gov.uk/ssi/2019/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/364/regulation/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/364/regulation/2/3/b/ii)
+[^c-cf515e4e41830a316e6db2df97cc1629]: Textual amendment: S. 14C(2)(b)(ia)(ib) inserted (1.11.2019) by [The Conservation (Natural Habitats, c.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364)](https://www.legislation.gov.uk/ssi/2019/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/364/regulation/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/364/regulation/2/3/b/ii)
 
-[^key-929825dcb57d70c46a6a1498ea7b4c0f]: Textual amendment: S. 14C(2)(ba) inserted (1.11.2019) by [The Conservation (Natural Habitats, c.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364)](https://www.legislation.gov.uk/ssi/2019/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/364/regulation/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2019/364/regulation/2/3/b/i)
+[^c-929825dcb57d70c46a6a1498ea7b4c0f]: Textual amendment: S. 14C(2)(ba) inserted (1.11.2019) by [The Conservation (Natural Habitats, c.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364)](https://www.legislation.gov.uk/ssi/2019/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/364/regulation/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2019/364/regulation/2/3/b/i)
 
-[^key-27a3b7326e157043d9a2c1b9d46aafda]: Textual amendment: Word in s. 14C(10) inserted (1.11.2019) by [The Conservation (Natural Habitats, c.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364)](https://www.legislation.gov.uk/ssi/2019/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/364/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/ssi/2019/364/regulation/2/3/c)
+[^c-27a3b7326e157043d9a2c1b9d46aafda]: Textual amendment: Word in s. 14C(10) inserted (1.11.2019) by [The Conservation (Natural Habitats, c.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364)](https://www.legislation.gov.uk/ssi/2019/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/364/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/ssi/2019/364/regulation/2/3/c)
 
-[^key-028d7f65a5588ef283f0ad8aed080dc8]: Textual amendment: S. 14C(11) inserted (1.11.2019) by [The Conservation (Natural Habitats, c.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364)](https://www.legislation.gov.uk/ssi/2019/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/364/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/ssi/2019/364/regulation/2/3/d)
+[^c-028d7f65a5588ef283f0ad8aed080dc8]: Textual amendment: S. 14C(11) inserted (1.11.2019) by [The Conservation (Natural Habitats, c.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/364)](https://www.legislation.gov.uk/ssi/2019/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/364/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/ssi/2019/364/regulation/2/3/d)

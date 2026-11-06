@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 151. Implementation of secure accommodation authorisation[^key-1fbacb27539c1a9daf2ab17e726247ec]
+## 151. Implementation of secure accommodation authorisation[^c-1fbacb27539c1a9daf2ab17e726247ec]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fbacb27539c1a9daf2ab17e726247ec]: Commencement: S. 151 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-1fbacb27539c1a9daf2ab17e726247ec]: Commencement: S. 151 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

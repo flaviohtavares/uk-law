@@ -24,7 +24,7 @@ summary: ''
 
 ### Membership
 
-**1.**[^key-85b05146e0ab4909e1fecac93b2c3dbf] (1) Redress Scotland is to consist of—
+**1.**[^c-85b05146e0ab4909e1fecac93b2c3dbf] (1) Redress Scotland is to consist of—
 
 - (a) a member appointed by the Scottish Ministers to chair Redress Scotland, and
 - (b) at least 5 other members appointed by the Scottish Ministers.
@@ -40,7 +40,7 @@ summary: ''
 
 ### Terms and conditions of appointment
 
-**2.**[^key-8e86c09aa8bf47ea9f540005dbf80f1f] (1) A member is appointed for such period (being not less than 3 years and not more than 5 years) as the Scottish Ministers determine.
+**2.**[^c-8e86c09aa8bf47ea9f540005dbf80f1f] (1) A member is appointed for such period (being not less than 3 years and not more than 5 years) as the Scottish Ministers determine.
 
 (2) The Scottish Ministers may reappoint as a member of Redress Scotland a person who is, or has been, a member.
 
@@ -52,13 +52,13 @@ summary: ''
 
 ### Equal opportunities
 
-**3.**[^key-6640f9fe373d9cbc51ef8f1c98938e73] (1) When appointing members of Redress Scotland, the Scottish Ministers must do so in a manner which encourages equal opportunities and, in particular, the observance of the equal opportunity requirements.
+**3.**[^c-6640f9fe373d9cbc51ef8f1c98938e73] (1) When appointing members of Redress Scotland, the Scottish Ministers must do so in a manner which encourages equal opportunities and, in particular, the observance of the equal opportunity requirements.
 
 (2) “Equal opportunities” and “equal opportunity requirements” have the meanings given in Section L2 of Part 2 of schedule 5 of the Scotland Act 1998.
 
 ### Persons who may not be appointed
 
-**4.**[^key-a782e4cbae8fd0aa9b5af0144c8a396b] A person may not be appointed as a member of Redress Scotland if—
+**4.**[^c-a782e4cbae8fd0aa9b5af0144c8a396b] A person may not be appointed as a member of Redress Scotland if—
 
 - (a) the person is—
   - (i) a member of the Scottish Parliament,
@@ -73,7 +73,7 @@ summary: ''
 
 ### Early termination of membership
 
-**5.**[^key-0672c46129ca6a9eeda57a5a6bc2b351] (1) A member of Redress Scotland, including the chairing member, may resign by giving notice in writing to the Scottish Ministers.
+**5.**[^c-0672c46129ca6a9eeda57a5a6bc2b351] (1) A member of Redress Scotland, including the chairing member, may resign by giving notice in writing to the Scottish Ministers.
 
 (2) A person's appointment as a member of Redress Scotland ceases if, during the person's period of appointment, either paragraph (a) or paragraph (b) of paragraph 4 applies to the person.
 
@@ -105,11 +105,11 @@ summary: ''
 
 ### Members' remuneration and allowances
 
-**6.**[^key-fd4a1b3aa70eacb208f563689260b1ef] Redress Scotland must pay each member such remuneration and allowances (including expenses) as the Scottish Ministers determine.
+**6.**[^c-fd4a1b3aa70eacb208f563689260b1ef] Redress Scotland must pay each member such remuneration and allowances (including expenses) as the Scottish Ministers determine.
 
 ### Chief executive and other staff
 
-**7.**[^key-a4b4de06607c58eebd7955656b5bfcbf] (1) Redress Scotland is to appoint, as a member of staff, a chief executive.
+**7.**[^c-a4b4de06607c58eebd7955656b5bfcbf] (1) Redress Scotland is to appoint, as a member of staff, a chief executive.
 
 (2) Redress Scotland is to appoint each chief executive with the approval of the Scottish Ministers.
 
@@ -121,7 +121,7 @@ summary: ''
 
 ### Staff pensions
 
-**8.**[^key-b424f60a7b4b9adacf534474e10fc585] (1) Redress Scotland may pay or make arrangements for the payment of pensions and allowances to, or in respect of, any person who is or has been a member of staff of Redress Scotland.
+**8.**[^c-b424f60a7b4b9adacf534474e10fc585] (1) Redress Scotland may pay or make arrangements for the payment of pensions and allowances to, or in respect of, any person who is or has been a member of staff of Redress Scotland.
 
 (2) Those arrangements may include—
 
@@ -130,7 +130,7 @@ summary: ''
 
 ### Committees
 
-**9.**[^key-af19cad8cbc0d8a47780eb106a78fc8e] (1) Redress Scotland may establish committees for any purpose relating to its functions.
+**9.**[^c-af19cad8cbc0d8a47780eb106a78fc8e] (1) Redress Scotland may establish committees for any purpose relating to its functions.
 
 (2) Redress Scotland may appoint a person who is not a member of Redress Scotland to be a member of a committee.
 
@@ -140,7 +140,7 @@ summary: ''
 
 ### Authority to perform functions
 
-**10.**[^key-1b8d992b39dc2e47253de81d53d73f47] (1) Redress Scotland may authorise—
+**10.**[^c-1b8d992b39dc2e47253de81d53d73f47] (1) Redress Scotland may authorise—
 
 - (a) any of its members,
 - (b) any committee established by it,
@@ -162,14 +162,14 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### Regulation of procedure
 
-**11.**[^key-c11b8128956c642cf7615a743151bc73] The rules of procedure of Redress Scotland and that of any of its committees, including the quorum at any meeting, are to be—
+**11.**[^c-c11b8128956c642cf7615a743151bc73] The rules of procedure of Redress Scotland and that of any of its committees, including the quorum at any meeting, are to be—
 
 - (a) prepared by Redress Scotland, and
 - (b) approved by the Scottish Ministers.
 
 ### Validity of things done
 
-**12.**[^key-6d8b94d03ed47fcb50f4ee9c6c018294] The validity of anything done by Redress Scotland or any of its committees is not affected by—
+**12.**[^c-6d8b94d03ed47fcb50f4ee9c6c018294] The validity of anything done by Redress Scotland or any of its committees is not affected by—
 
 - (a) a vacancy in membership,
 - (b) a defect in the appointment of a member,
@@ -177,7 +177,7 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### General powers
 
-**13.**[^key-f439495d593a123f335623df41936277] (1) Redress Scotland may do anything which it considers to be—
+**13.**[^c-f439495d593a123f335623df41936277] (1) Redress Scotland may do anything which it considers to be—
 
 - (a) necessary or expedient for the purposes of, or in connection with, the performance of its functions, or
 - (b) otherwise conducive to the performance of its functions.
@@ -189,7 +189,7 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### Funding and financial assistance
 
-**14.**[^key-dc7dd08dcfdf132f1f4baa0bb2f2978c] (1) The Scottish Ministers may provide such financial assistance to Redress Scotland as they consider appropriate.
+**14.**[^c-dc7dd08dcfdf132f1f4baa0bb2f2978c] (1) The Scottish Ministers may provide such financial assistance to Redress Scotland as they consider appropriate.
 
 (2) For the purposes of sub-paragraph (1), “**financial assistance**” includes grants, loans, guarantees and indemnities.
 
@@ -199,7 +199,7 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### Corporate plan
 
-**15.**[^key-b7325a13975749e9e80aaac0a3aadeea] (1) Redress Scotland must submit a corporate plan to the Scottish Ministers.
+**15.**[^c-b7325a13975749e9e80aaac0a3aadeea] (1) Redress Scotland must submit a corporate plan to the Scottish Ministers.
 
 (2) Sub-paragraph (1) must be complied with as soon as reasonably practicable after the day this paragraph comes into force.
 
@@ -237,7 +237,7 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### Accounts and audit
 
-**16.**[^key-df5f042c81d4ab9587e40aa32fb3be4d] (1) Redress Scotland must—
+**16.**[^c-df5f042c81d4ab9587e40aa32fb3be4d] (1) Redress Scotland must—
 
 - (a) keep proper accounts and accounting records,
 - (b) prepare in respect of each financial year a statement of accounts, and
@@ -249,7 +249,7 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### Annual report
 
-**17.**[^key-e27c040cf41d3d85879f6334f5e1025f] (1) Redress Scotland must, as soon as practicable after the end of each financial year, prepare a report on its activities during that year, including—
+**17.**[^c-e27c040cf41d3d85879f6334f5e1025f] (1) Redress Scotland must, as soon as practicable after the end of each financial year, prepare a report on its activities during that year, including—
 
 - (a) the audited statement of accounts for the year,
 - (b) a general description of its main activities during the year,
@@ -269,34 +269,34 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ### Application of public bodies legislation
 
-**18.**[^key-bdfca3cfcb08b6bcb1c5aa9615928547] In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies), at the appropriate place in alphabetical order insert— “ Redress Scotland ”.
+**18.**[^c-bdfca3cfcb08b6bcb1c5aa9615928547] In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3 (devolved public bodies), at the appropriate place in alphabetical order insert— “ Redress Scotland ”.
 
-**19.**[^key-18f90f2c4750ad56620587f23b273d2f] In the Scottish Public Services Ombudsman Act 2002, in schedule 2 (listed authorities), after paragraph 32AA insert—
+**19.**[^c-18f90f2c4750ad56620587f23b273d2f] In the Scottish Public Services Ombudsman Act 2002, in schedule 2 (listed authorities), after paragraph 32AA insert—
 
 > **32AB.** Redress Scotland.
 
 .
 
-**20.**[^key-321e8dd4fd53d8f509c69204329ec6e7] In the Freedom of Information (Scotland) Act 2002, in Part 7 of schedule 1 (others), after paragraph 75B insert—
+**20.**[^c-321e8dd4fd53d8f509c69204329ec6e7] In the Freedom of Information (Scotland) Act 2002, in Part 7 of schedule 1 (others), after paragraph 75B insert—
 
 > **75BA.** Redress Scotland.
 
 .
 
-**21.**[^key-8fe2bba42cff04c10714f55cd85db79c] In the Public Services Reform (Scotland) Act 2010—
+**21.**[^c-8fe2bba42cff04c10714f55cd85db79c] In the Public Services Reform (Scotland) Act 2010—
 
 - (a) in schedule 5 (improvement of public functions: listed bodies), under the heading “Scottish public authorities with mixed functions or no reserved functions”, at the appropriate place in alphabetical order insert— “ Redress Scotland ”,
 - (b) in schedule 8 (listed public bodies), at the appropriate place in alphabetical order insert— “ Redress Scotland ”.
 
-**22.**[^key-016b349f40cc5577496cebe6fa754953] In the Public Records (Scotland) Act 2011, in the schedule, under the heading “Others”, at the appropriate place in alphabetical order insert— “ Redress Scotland ”.
+**22.**[^c-016b349f40cc5577496cebe6fa754953] In the Public Records (Scotland) Act 2011, in the schedule, under the heading “Others”, at the appropriate place in alphabetical order insert— “ Redress Scotland ”.
 
-**23.**[^key-95c1a15e9e86c2f885121856392146d6] In the Procurement Reform (Scotland) Act 2014, in Part 3 of the schedule (others), after paragraph 42 insert—
+**23.**[^c-95c1a15e9e86c2f885121856392146d6] In the Procurement Reform (Scotland) Act 2014, in Part 3 of the schedule (others), after paragraph 42 insert—
 
 > **42A.** Redress Scotland
 
 .
 
-**24.**[^key-a49e7f69f096c8ac8720f9e6126db573] In the Gender Representation on Public Boards (Scotland) Act 2018, in schedule 1 (public authorities), at the appropriate place in alphabetical order insert—
+**24.**[^c-a49e7f69f096c8ac8720f9e6126db573] In the Gender Representation on Public Boards (Scotland) Act 2018, in schedule 1 (public authorities), at the appropriate place in alphabetical order insert—
 
 > |  |  |
 > | --- | --- |
@@ -306,50 +306,50 @@ to perform such of its functions (and to such extent) as it may determine.
 
 ## Annotations
 
-[^key-85b05146e0ab4909e1fecac93b2c3dbf]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/1) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-85b05146e0ab4909e1fecac93b2c3dbf]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/1) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-8e86c09aa8bf47ea9f540005dbf80f1f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/2) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-8e86c09aa8bf47ea9f540005dbf80f1f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/2) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-6640f9fe373d9cbc51ef8f1c98938e73]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/3) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-6640f9fe373d9cbc51ef8f1c98938e73]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/3) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-a782e4cbae8fd0aa9b5af0144c8a396b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/4) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-a782e4cbae8fd0aa9b5af0144c8a396b]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/4) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-0672c46129ca6a9eeda57a5a6bc2b351]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/5) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-0672c46129ca6a9eeda57a5a6bc2b351]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/5) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-fd4a1b3aa70eacb208f563689260b1ef]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/6) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-fd4a1b3aa70eacb208f563689260b1ef]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/6) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-a4b4de06607c58eebd7955656b5bfcbf]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/7) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-a4b4de06607c58eebd7955656b5bfcbf]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/7) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-b424f60a7b4b9adacf534474e10fc585]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/8) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-b424f60a7b4b9adacf534474e10fc585]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/8) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-af19cad8cbc0d8a47780eb106a78fc8e]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/9) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-af19cad8cbc0d8a47780eb106a78fc8e]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/9) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-1b8d992b39dc2e47253de81d53d73f47]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/10) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-1b8d992b39dc2e47253de81d53d73f47]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/10) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-c11b8128956c642cf7615a743151bc73]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/11) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-c11b8128956c642cf7615a743151bc73]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/11) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-6d8b94d03ed47fcb50f4ee9c6c018294]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/12) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-6d8b94d03ed47fcb50f4ee9c6c018294]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/12) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-f439495d593a123f335623df41936277]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/13) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-f439495d593a123f335623df41936277]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/13) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-dc7dd08dcfdf132f1f4baa0bb2f2978c]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/14) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-dc7dd08dcfdf132f1f4baa0bb2f2978c]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/14) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-b7325a13975749e9e80aaac0a3aadeea]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/15) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-b7325a13975749e9e80aaac0a3aadeea]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/15) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-df5f042c81d4ab9587e40aa32fb3be4d]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/16) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-df5f042c81d4ab9587e40aa32fb3be4d]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/16) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-e27c040cf41d3d85879f6334f5e1025f]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/17) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-e27c040cf41d3d85879f6334f5e1025f]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/17) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-bdfca3cfcb08b6bcb1c5aa9615928547]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/18) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-bdfca3cfcb08b6bcb1c5aa9615928547]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/18) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-18f90f2c4750ad56620587f23b273d2f]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/19) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-18f90f2c4750ad56620587f23b273d2f]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/19) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-321e8dd4fd53d8f509c69204329ec6e7]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/20) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-321e8dd4fd53d8f509c69204329ec6e7]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/20) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-8fe2bba42cff04c10714f55cd85db79c]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/21) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-8fe2bba42cff04c10714f55cd85db79c]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/21) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-016b349f40cc5577496cebe6fa754953]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/22) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-016b349f40cc5577496cebe6fa754953]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/22) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-95c1a15e9e86c2f885121856392146d6]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/23) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-95c1a15e9e86c2f885121856392146d6]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/23) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
 
-[^key-a49e7f69f096c8ac8720f9e6126db573]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/24) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-a49e7f69f096c8ac8720f9e6126db573]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/asp/2021/15/schedule/1/paragraph/24) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

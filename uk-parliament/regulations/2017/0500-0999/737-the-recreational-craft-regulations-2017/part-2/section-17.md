@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Provision of information and co-operation[^key-7e1bc57ac1a04d9e77184bcf21886a89]
+## 17. Provision of information and co-operation[^c-7e1bc57ac1a04d9e77184bcf21886a89]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e1bc57ac1a04d9e77184bcf21886a89]: Commencement: Reg. 17 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-7e1bc57ac1a04d9e77184bcf21886a89]: Commencement: Reg. 17 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

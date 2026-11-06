@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Sale and disposal of tickets by unauthorised persons[^key-c184db64dc9f20fb43f3d9d3a1f36c65]
+## 53. Sale and disposal of tickets by unauthorised persons[^c-c184db64dc9f20fb43f3d9d3a1f36c65]
 
 *Extent: E+W*
 
@@ -96,4 +96,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c184db64dc9f20fb43f3d9d3a1f36c65]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2006/38/section/53) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)
+[^c-c184db64dc9f20fb43f3d9d3a1f36c65]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2006/38/section/53) in force at 6.4.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(k)](https://www.legislation.gov.uk/uksi/2007/858/article/2/k)

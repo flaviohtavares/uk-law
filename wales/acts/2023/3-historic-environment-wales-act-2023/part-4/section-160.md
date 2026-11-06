@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 160. Exercise of planning functions: general duty relating to conservation areas[^key-ae9826baa8de035931400fd5757ec811][^key-cb8470ba44b5638789cd08b71465b23d]
+## 160. Exercise of planning functions: general duty relating to conservation areas[^c-ae9826baa8de035931400fd5757ec811][^c-cb8470ba44b5638789cd08b71465b23d]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae9826baa8de035931400fd5757ec811]: Commencement: S. 160 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-ae9826baa8de035931400fd5757ec811]: Commencement: S. 160 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-cb8470ba44b5638789cd08b71465b23d]: Commencement: [S. 160](https://www.legislation.gov.uk/asc/2023/3/section/160) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-cb8470ba44b5638789cd08b71465b23d]: Commencement: [S. 160](https://www.legislation.gov.uk/asc/2023/3/section/160) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Confidentiality of documents[^key-4b75098ee00109075e14e44d59339a5c]
+## 106. Confidentiality of documents[^c-4b75098ee00109075e14e44d59339a5c]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ he may decline to allow it to be inspected by a person who would otherwise be en
 
 ## Annotations
 
-[^key-4b75098ee00109075e14e44d59339a5c]: Commencement: [Rule 106](https://www.legislation.gov.uk/uksi/2007/3141/rule/106) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-4b75098ee00109075e14e44d59339a5c]: Commencement: [Rule 106](https://www.legislation.gov.uk/uksi/2007/3141/rule/106) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

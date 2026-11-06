@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Other appeal rights[^key-e9343923dd3081eb6291ad7b779f9c3d]
+## 53. Other appeal rights[^c-e9343923dd3081eb6291ad7b779f9c3d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9343923dd3081eb6291ad7b779f9c3d]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2014/10/section/53) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-e9343923dd3081eb6291ad7b779f9c3d]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2014/10/section/53) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

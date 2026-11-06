@@ -46,7 +46,7 @@ In accordance with section 80AA(3) of that Act, the Secretary of State is satisf
 
 In accordance with section 80AA(6) of that Act, a draft of these Regulations has been laid before and approved by resolution of each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-67966ec468736d812844a64ed05e8e0f]
+## 1. Citation, commencement and extent[^c-67966ec468736d812844a64ed05e8e0f]
 
 (1) These Regulations may be cited as the Nationality, Immigration and Asylum Act 2002 (Amendment of List of Safe States) Regulations 2024.
 
@@ -54,7 +54,7 @@ In accordance with section 80AA(6) of that Act, a draft of these Regulations has
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Amendment of the Nationality, Immigration and Asylum Act 2002[^key-e14ebdeef511a77e90e72ae243bfbe0e]
+## 2. Amendment of the Nationality, Immigration and Asylum Act 2002[^c-e14ebdeef511a77e90e72ae243bfbe0e]
 
 In the Nationality, Immigration and Asylum Act 2002, in section 80AA(1) (Safe States for the purposes of section 80A)—
 
@@ -93,6 +93,6 @@ An impact assessment was published in relation to the Illegal Migration Bill and
 
 [^f00002]: Footnote: See section 113 of the Nationality, Immigration and Asylum Act 2002 for the definition of “**the Human Rights Convention**” (c. 42).
 
-[^key-67966ec468736d812844a64ed05e8e0f]: Commencement: Reg. 1 in force at 17.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/523/regulation/1/2)
+[^c-67966ec468736d812844a64ed05e8e0f]: Commencement: Reg. 1 in force at 17.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/523/regulation/1/2)
 
-[^key-e14ebdeef511a77e90e72ae243bfbe0e]: Commencement: Reg. 2 in force at 17.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/523/regulation/1/2)
+[^c-e14ebdeef511a77e90e72ae243bfbe0e]: Commencement: Reg. 2 in force at 17.4.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/523/regulation/1/2)

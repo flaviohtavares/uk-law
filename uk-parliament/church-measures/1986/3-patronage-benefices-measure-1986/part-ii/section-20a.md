@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20A. Power to appoint another joint patron[^key-2974f5b4331cba748c625de4adfa9a50]
+## 20A. Power to appoint another joint patron[^c-2974f5b4331cba748c625de4adfa9a50]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2974f5b4331cba748c625de4adfa9a50]: Textual amendment: S. 20A and cross-heading inserted (1.1.2020) by [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [5](https://www.legislation.gov.uk/uksi/2019/1183/article/5)
+[^c-2974f5b4331cba748c625de4adfa9a50]: Textual amendment: S. 20A and cross-heading inserted (1.1.2020) by [The Legislative Reform (Patronage of Benefices) Order 2019 (S.I. 2019/1183)](https://www.legislation.gov.uk/uksi/2019/1183), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1183/article/1/1), [5](https://www.legislation.gov.uk/uksi/2019/1183/article/5)

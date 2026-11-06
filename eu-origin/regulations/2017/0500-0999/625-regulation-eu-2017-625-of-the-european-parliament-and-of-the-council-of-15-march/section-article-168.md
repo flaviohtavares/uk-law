@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 168. Derogations and modifications for transitional purposes[^key-8a7aca3e85559c91f3e07e74d3f4e539][^key-eb27aeac4b3e4c335658a601755b40dd]
+## Article 168. Derogations and modifications for transitional purposes[^c-8a7aca3e85559c91f3e07e74d3f4e539][^c-eb27aeac4b3e4c335658a601755b40dd]
 
 *Extent: E+W+S+N.I.*
 
-The provisions of this Regulation apply subject to the transitional derogations and modifications specified in Annex 6 and Annex 7[^key-bb109990b666bf32dee3e055f0321180].
+The provisions of this Regulation apply subject to the transitional derogations and modifications specified in Annex 6 and Annex 7[^c-bb109990b666bf32dee3e055f0321180].
 
 ## Annotations
 
-[^key-8a7aca3e85559c91f3e07e74d3f4e539]: Modification: [Art. 168](https://www.legislation.gov.uk/eur/2017/625/article/168) modified (4.3.2021) by [The Official Controls and Phytosanitary Conditions (Amendment) Regulations 2021 (S.I. 2021/136)](https://www.legislation.gov.uk/uksi/2021/136), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/136/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/136/regulation/2/2)
+[^c-8a7aca3e85559c91f3e07e74d3f4e539]: Modification: [Art. 168](https://www.legislation.gov.uk/eur/2017/625/article/168) modified (4.3.2021) by [The Official Controls and Phytosanitary Conditions (Amendment) Regulations 2021 (S.I. 2021/136)](https://www.legislation.gov.uk/uksi/2021/136), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/136/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/136/regulation/2/2)
 
-[^key-eb27aeac4b3e4c335658a601755b40dd]: Textual amendment: [Art. 168](https://www.legislation.gov.uk/eur/2017/625/article/168) inserted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [28(9)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/28/9) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-eb27aeac4b3e4c335658a601755b40dd]: Textual amendment: [Art. 168](https://www.legislation.gov.uk/eur/2017/625/article/168) inserted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [28(9)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/28/9) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-bb109990b666bf32dee3e055f0321180]: Textual amendment: Words in [Art. 168](https://www.legislation.gov.uk/eur/2017/625/article/168) inserted (E.W.S.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/10/2)
+[^c-bb109990b666bf32dee3e055f0321180]: Textual amendment: Words in [Art. 168](https://www.legislation.gov.uk/eur/2017/625/article/168) inserted (E.W.S.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/10/2)

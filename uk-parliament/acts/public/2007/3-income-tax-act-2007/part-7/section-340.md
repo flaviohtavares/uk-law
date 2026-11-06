@@ -40,7 +40,7 @@ summary: ''
 
 (5) Regulations under that paragraph may make the provision authorised by that paragraph by reference to any material published by, or on behalf of, the Secretary of State (whether before or after the coming into force of this section).
 
-(5A)[^key-2a71c7aa00d0d17e7b12719523290a7f] Regulations under that paragraph may include provision for the purposes of Part 7 of CTA 2010 in addition to provision made for the purposes of this Part.
+(5A)[^c-2a71c7aa00d0d17e7b12719523290a7f] Regulations under that paragraph may include provision for the purposes of Part 7 of CTA 2010 in addition to provision made for the purposes of this Part.
 
 (6) Regulations under that paragraph—
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a71c7aa00d0d17e7b12719523290a7f]: Textual amendment: S. 340(5A) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 508](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/508) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2a71c7aa00d0d17e7b12719523290a7f]: Textual amendment: S. 340(5A) inserted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 508](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/508) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

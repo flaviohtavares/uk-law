@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157A. Pre-departure accommodation[^key-f30405b85e087f3f1c17ceb675c217d2]
+## 157A. Pre-departure accommodation[^c-f30405b85e087f3f1c17ceb675c217d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f30405b85e087f3f1c17ceb675c217d2]: Textual amendment: S. 157A inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2014/22/section/6/4), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/e)
+[^c-f30405b85e087f3f1c17ceb675c217d2]: Textual amendment: S. 157A inserted (28.7.2014) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2014/22/section/6/4), [75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/e)

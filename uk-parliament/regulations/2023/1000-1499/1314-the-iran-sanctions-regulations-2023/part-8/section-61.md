@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Director disqualification licences[^key-bfac27d2d99329e7f4ef235edf985604]
+## 61. Director disqualification licences[^c-bfac27d2d99329e7f4ef235edf985604]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ do not apply to anything done under the authority of that licence.
 
 ## Annotations
 
-[^key-bfac27d2d99329e7f4ef235edf985604]: Commencement: Reg. 61 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-bfac27d2d99329e7f4ef235edf985604]: Commencement: Reg. 61 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Multi-annual support plans[^key-64f35f28b2797a84cb366f99bfab1de1]
+## 11. Multi-annual support plans[^c-64f35f28b2797a84cb366f99bfab1de1]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64f35f28b2797a84cb366f99bfab1de1]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2023/4/section/11) in force at 17.10.2023, see [s. 56(2)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/b)
+[^c-64f35f28b2797a84cb366f99bfab1de1]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2023/4/section/11) in force at 17.10.2023, see [s. 56(2)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/b)

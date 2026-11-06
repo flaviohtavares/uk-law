@@ -46,8 +46,8 @@ summary: ''
     and
   - (ii) at the end there shall be inserted— “ and, for the purposes of subsection (3A), the “**appropriate person**” is any of the persons mentioned in sub-paragraphs (i) to (iv) of paragraph (a). ”
 
-(4)[^key-a2b2ca01c2cd0eeb522b642a1f80ad42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a2b2ca01c2cd0eeb522b642a1f80ad42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a2b2ca01c2cd0eeb522b642a1f80ad42]: Textual amendment: [S. 157(4)](https://www.legislation.gov.uk/ukpga/1993/28/section/157/4) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-a2b2ca01c2cd0eeb522b642a1f80ad42]: Textual amendment: [S. 157(4)](https://www.legislation.gov.uk/ukpga/1993/28/section/157/4) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Private rights[^key-13b04f4a816b12f53e71e48e059d19cc]
+## 18. Private rights[^c-13b04f4a816b12f53e71e48e059d19cc]
 
 *Extent: E+W+S*
 
@@ -62,4 +62,4 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-13b04f4a816b12f53e71e48e059d19cc]: Commencement: Art. 18 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-13b04f4a816b12f53e71e48e059d19cc]: Commencement: Art. 18 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66A. Alternative procedure for byelaws made by internal drainage boards[^key-b9ceb20295dd3eb8f358cf84c62546e9]
+## 66A. Alternative procedure for byelaws made by internal drainage boards[^c-b9ceb20295dd3eb8f358cf84c62546e9]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9ceb20295dd3eb8f358cf84c62546e9]: Textual amendment: [S. 66A](https://www.legislation.gov.uk/ukpga/1991/59/section/66A) inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 86(4)](https://www.legislation.gov.uk/ukpga/2014/21/section/86/4), [94(2)(p)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/p)
+[^c-b9ceb20295dd3eb8f358cf84c62546e9]: Textual amendment: [S. 66A](https://www.legislation.gov.uk/ukpga/1991/59/section/66A) inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 86(4)](https://www.legislation.gov.uk/ukpga/2014/21/section/86/4), [94(2)(p)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/p)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61B. Requirement for qualified supervisors and operatives[^key-5992bb61c5f1c2633f25d8c0464e2f76]
+## 61B. Requirement for qualified supervisors and operatives[^c-5992bb61c5f1c2633f25d8c0464e2f76]
 
 *Extent: S*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5992bb61c5f1c2633f25d8c0464e2f76]: Textual amendment: [S. 61B](https://www.legislation.gov.uk/ukpga/1984/54/section/61B) inserted (25.1.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 116(1)](https://www.legislation.gov.uk/asp/2019/17/section/116/1), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)
+[^c-5992bb61c5f1c2633f25d8c0464e2f76]: Textual amendment: [S. 61B](https://www.legislation.gov.uk/ukpga/1984/54/section/61B) inserted (25.1.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 116(1)](https://www.legislation.gov.uk/asp/2019/17/section/116/1), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2022/332](https://www.legislation.gov.uk/ssi/2022/332), [reg. 2](https://www.legislation.gov.uk/ssi/2022/332/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/332/schedule)

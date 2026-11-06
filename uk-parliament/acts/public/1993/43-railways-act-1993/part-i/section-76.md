@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. General railway duties of Passengers’ Council .[^c14108791][^c14108801][^c18804401][^key-94956a5a6afe0b3b04a1650464db5165][^key-8fa21f537a1e4ba15a8e7b040b82fc41]
+## 76. General railway duties of Passengers’ Council .[^c14108791][^c14108801][^c18804401][^c-94956a5a6afe0b3b04a1650464db5165][^c-8fa21f537a1e4ba15a8e7b040b82fc41]
 
 *Extent: E+W+S*
 
-(1) It shall be the duty of the Passengers’ Council[^key-167ff63363dacdaa9e2b31d2805b02ae] to investigate any matter which relates—
+(1) It shall be the duty of the Passengers’ Council[^c-167ff63363dacdaa9e2b31d2805b02ae] to investigate any matter which relates—
 
 - (a)[^c14108821] to the provision of railway passenger services, or
 - (b) to the provision of station services by any person in a case where the operator of the station in question is authorised by a licence to be the operator of that station,
@@ -56,11 +56,11 @@ about the matter, or any matter to which it relates or which appears to the Pass
 
 the Passengers’ Council shall, unless representations about the matter have been made to the[^c14109001] Secretary of State by the Passengers’ Council, refer it to the Secretary of State with a view to the Secretary of State exercising such of his[^c18946411] powers as he[^c18946431] considers appropriate in the circumstances of the case..
 
-(5A)[^c14109011] But if the Secretary of State considers that it would be more appropriate for a matter referred to it by the Passengers’ Council to be considered by the Office of Rail and Road[^key-060df9b892b47c880dd4a8d20854aedc], the Secretary of State shall refer it to the Office of Rail and Road, with a view to it[^c18795511] exercising such of its[^c18795531] powers as it considers appropriate in the circumstances of the case.
+(5A)[^c14109011] But if the Secretary of State considers that it would be more appropriate for a matter referred to it by the Passengers’ Council to be considered by the Office of Rail and Road[^c-060df9b892b47c880dd4a8d20854aedc], the Secretary of State shall refer it to the Office of Rail and Road, with a view to it[^c18795511] exercising such of its[^c18795531] powers as it considers appropriate in the circumstances of the case.
 
 (6) Where the Passengers’ Council investigates any matter—
 
-- (a)[^c14109031] it may prepare, and send to the Secretary of State or the Welsh Ministers[^key-e8965e51fd7828a5512936f87d1cf9df] [^c18946841]. . . , a report of its findings; and
+- (a)[^c14109031] it may prepare, and send to the Secretary of State or the Welsh Ministers[^c-e8965e51fd7828a5512936f87d1cf9df] [^c18946841]. . . , a report of its findings; and
 - (b) it may publish any such report, unless the matter in question is one which was referred to the Passengers’ Council by the Secretary of State as mentioned in subsection (2)(b) above.
 
 (7) Where the Passengers’ Council has investigated any matter under this section, it shall neither—
@@ -99,11 +99,11 @@ unless, balancing the cost of taking those steps against the benefits which the 
 
 [^c18804401]: Modification: S. 76 applied (with modifications) (29.7.2003) by [The Merseyrail Electrics Network Order 2003 (S.I. 2003/1696)](https://www.legislation.gov.uk/uksi/2003/1696), [art. 3](https://www.legislation.gov.uk/uksi/2003/1696/article/3)
 
-[^key-94956a5a6afe0b3b04a1650464db5165]: Modification: S. 76 modified (25.6.2010) by [The Rail Passengers Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/18/2)
+[^c-94956a5a6afe0b3b04a1650464db5165]: Modification: S. 76 modified (25.6.2010) by [The Rail Passengers Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2010/1504/regulation/18/2)
 
-[^key-8fa21f537a1e4ba15a8e7b040b82fc41]: Textual amendment: Words in s. 76 heading substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/6/3/b)
+[^c-8fa21f537a1e4ba15a8e7b040b82fc41]: Textual amendment: Words in s. 76 heading substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/6/3/b)
 
-[^key-167ff63363dacdaa9e2b31d2805b02ae]: Textual amendment: Words in s. 76 substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/6/3/a)
+[^c-167ff63363dacdaa9e2b31d2805b02ae]: Textual amendment: Words in s. 76 substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/6/3/a)
 
 [^c14108821]: Textual amendment: S. 76(1)(a) substituted (29.7.2003) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [ss. 228(2)](https://www.legislation.gov.uk/ukpga/2000/38/section/228/2), [275(1)](https://www.legislation.gov.uk/ukpga/2000/38/section/275/1); [S.I. 2003/1694](https://www.legislation.gov.uk/uksi/2003/1694), [art. 2](https://www.legislation.gov.uk/uksi/2003/1694/article/2)
 
@@ -127,7 +127,7 @@ unless, balancing the cost of taking those steps against the benefits which the 
 
 [^c14109011]: Textual amendment: S. 76(5A) inserted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 216](https://www.legislation.gov.uk/ukpga/2000/38/section/216), [Sch. 17 para. 20(4)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/17/paragraph/20/4); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-060df9b892b47c880dd4a8d20854aedc]: Textual amendment: Words in s. 76(5A) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(ww)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/ww)
+[^c-060df9b892b47c880dd4a8d20854aedc]: Textual amendment: Words in s. 76(5A) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(ww)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/ww)
 
 [^c18795511]: Textual amendment: Word in s. 76 substituted (5.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 16](https://www.legislation.gov.uk/ukpga/2003/20/section/16), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120), {Sch. 2 para. 3(b) Table}; [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(g)](https://www.legislation.gov.uk/uksi/2004/827/article/4/g)
 
@@ -135,7 +135,7 @@ unless, balancing the cost of taking those steps against the benefits which the 
 
 [^c14109031]: Modification: S. 7(6)(a): certain functions made exercisable by the Scottish Ministers concurrently with the Minister concerned (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [3](https://www.legislation.gov.uk/uksi/1999/1750/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/1750/schedule/2); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-e8965e51fd7828a5512936f87d1cf9df]: Textual amendment: Words in s. 76(6)(a) inserted (13.6.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(2)(b)(vi)](https://www.legislation.gov.uk/uksi/2018/631/article/1/2/b/vi), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/25) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/631/article/3))
+[^c-e8965e51fd7828a5512936f87d1cf9df]: Textual amendment: Words in s. 76(6)(a) inserted (13.6.2018) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(2)(b)(vi)](https://www.legislation.gov.uk/uksi/2018/631/article/1/2/b/vi), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/25) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/631/article/3))
 
 [^c18946841]: Textual amendment: Words in s. 76(6)(a) repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1](https://www.legislation.gov.uk/ukpga/2005/14/section/1), [59](https://www.legislation.gov.uk/ukpga/2005/14/section/59), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 1 para. 32(4)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/1/paragraph/32/4), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 

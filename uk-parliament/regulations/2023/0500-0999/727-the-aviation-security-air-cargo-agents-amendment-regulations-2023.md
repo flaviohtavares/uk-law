@@ -32,7 +32,7 @@ summary: ''
 
 Civil Aviation
 
-The Aviation Security (Air Cargo Agents) (Amendment) Regulations 2023 (revoked)[^key-44c88931eef7eb9002ffd97742fc9ba8]
+The Aviation Security (Air Cargo Agents) (Amendment) Regulations 2023 (revoked)[^c-44c88931eef7eb9002ffd97742fc9ba8]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 21st July 2023
 
-[^key-44c88931eef7eb9002ffd97742fc9ba8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44c88931eef7eb9002ffd97742fc9ba8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-44c88931eef7eb9002ffd97742fc9ba8]
+## 1. Citation, commencement and extent[^c-44c88931eef7eb9002ffd97742fc9ba8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Aviation Security (Air Cargo Agents) Regulations 1993[^key-44c88931eef7eb9002ffd97742fc9ba8]
+## 2. Amendment of the Aviation Security (Air Cargo Agents) Regulations 1993[^c-44c88931eef7eb9002ffd97742fc9ba8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-44c88931eef7eb9002ffd97742fc9ba8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44c88931eef7eb9002ffd97742fc9ba8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-44c88931eef7eb9002ffd97742fc9ba8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44c88931eef7eb9002ffd97742fc9ba8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-44c88931eef7eb9002ffd97742fc9ba8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/727) revoked (21.3.2024) by [The Aviation Security (Air Cargo Agents) Regulations 2024 (S.I. 2024/228)](https://www.legislation.gov.uk/uksi/2024/228), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/228/regulation/1/2), [11(1)(d)](https://www.legislation.gov.uk/uksi/2024/228/regulation/11/1/d) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/228/regulation/12))
+[^c-44c88931eef7eb9002ffd97742fc9ba8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/727) revoked (21.3.2024) by [The Aviation Security (Air Cargo Agents) Regulations 2024 (S.I. 2024/228)](https://www.legislation.gov.uk/uksi/2024/228), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/228/regulation/1/2), [11(1)(d)](https://www.legislation.gov.uk/uksi/2024/228/regulation/11/1/d) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/228/regulation/12))

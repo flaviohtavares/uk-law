@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 76. Transfer of sums from the pension fund to compensate for former member’s misconduct[^key-cb54308d7b2fe52c871813e5da6de028]
+## 76. Transfer of sums from the pension fund to compensate for former member’s misconduct[^c-cb54308d7b2fe52c871813e5da6de028]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ whichever is the less.
 
 ## Annotations
 
-[^key-cb54308d7b2fe52c871813e5da6de028]: Commencement: Reg. 76 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-cb54308d7b2fe52c871813e5da6de028]: Commencement: Reg. 76 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

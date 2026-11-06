@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Amount payable on death of active member (death in service)[^key-1e348534449f6c6da5bb73acf0346b5f]
+## 130. Amount payable on death of active member (death in service)[^c-1e348534449f6c6da5bb73acf0346b5f]
 
 *Extent: E+W+S+N.I.*
 
 (1) This regulation applies in relation to a continuous period of pensionable service under this scheme (“period of service”).
 
-(2) If the member is a transition member with continuity of service, the period of service includes the member’s period of pensionable service under the PCSPS before the transition date for that member[^key-10e07c7dcb856b5a640ed8162a2af5e4].
+(2) If the member is a transition member with continuity of service, the period of service includes the member’s period of pensionable service under the PCSPS before the transition date for that member[^c-10e07c7dcb856b5a640ed8162a2af5e4].
 
 (3) For the purpose of this regulation, a person dies in service if the person dies while an active member of this scheme in relation to a period of service.
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e348534449f6c6da5bb73acf0346b5f]: Commencement: [Reg. 130](https://www.legislation.gov.uk/uksi/2014/1964/regulation/130) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-1e348534449f6c6da5bb73acf0346b5f]: Commencement: [Reg. 130](https://www.legislation.gov.uk/uksi/2014/1964/regulation/130) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-10e07c7dcb856b5a640ed8162a2af5e4]: Textual amendment: Words in [reg. 130(2)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/130/2) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(10)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/10)
+[^c-10e07c7dcb856b5a640ed8162a2af5e4]: Textual amendment: Words in [reg. 130(2)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/130/2) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(10)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/10)

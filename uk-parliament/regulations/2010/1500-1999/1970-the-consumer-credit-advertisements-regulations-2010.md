@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 44, 151(1) and 182(2) of the Consumer Credit Act 1974[^f00001].
 
-## 1. Citation, commencement, revocation and interpretation[^key-6d3041fabc978c1ac59a0086a29f79b7]
+## 1. Citation, commencement, revocation and interpretation[^c-6d3041fabc978c1ac59a0086a29f79b7]
 
 (1) These Regulations may be cited as the Consumer Credit (Advertisements) Regulations 2010 and shall come into force on 1st February 2011.
 
@@ -80,11 +80,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
   - (i) in the case of any person covered by a standard licence, a reference to any name of his specified in the licence;
   - (ii) in the case of any other person, a reference to any name under which he carries on business.
 
-## 2. Duty to comply[^key-f61d89b75db1383ddda5eb91008fde1f]
+## 2. Duty to comply[^c-f61d89b75db1383ddda5eb91008fde1f]
 
 A person who causes a credit advertisement to be published shall ensure that the advertisement complies with all applicable requirements of these Regulations.
 
-## 3. General requirements[^key-1d728aba86418d82ee8be82cb25d269c]
+## 3. General requirements[^c-1d728aba86418d82ee8be82cb25d269c]
 
 Every credit advertisement shall—
 
@@ -92,7 +92,7 @@ Every credit advertisement shall—
 - (b) be easily legible (or, in the case of any information given orally, clearly audible), and
 - (c) specify the name of the advertiser.
 
-## 4. Content of advertisements[^key-99dad8d8dbd83fde62429014c2ae5084]
+## 4. Content of advertisements[^c-99dad8d8dbd83fde62429014c2ae5084]
 
 (1) Where a credit advertisement includes a rate of interest or an amount relating to the cost of the credit whether expressed as a sum of money or a proportion of a specified amount, the advertisement shall also—
 
@@ -105,7 +105,7 @@ Every credit advertisement shall—
 
 (2) Paragraph (1)(a) shall not apply where regulation 6(1) applies and the credit advertisement does not indicate a rate of interest or other amount relating to the cost of the credit other than the representative APR.
 
-## 5. Representative Example[^key-e7bfe922d6a89b74061658c78d3a530d]
+## 5. Representative Example[^c-e7bfe922d6a89b74061658c78d3a530d]
 
 (1) Subject to paragraph (5), the representative example referred to in regulation 4(1)(a) shall comprise the following items of information—
 
@@ -137,7 +137,7 @@ Every credit advertisement shall—
 
 (7) In this regulation a reference to a rate of interest is a reference to the interest rate expressed as a fixed or variable percentage applied on an annual basis to the amount of credit drawn down.
 
-## 6. Other advertisements requiring representative APR[^key-cbc7030b6111296afd64caf904e053fc]
+## 6. Other advertisements requiring representative APR[^c-cbc7030b6111296afd64caf904e053fc]
 
 (1) A credit advertisement shall specify the representative APR if the advertisement—
 
@@ -150,7 +150,7 @@ Every credit advertisement shall—
 
 (3) This regulation does not apply to a credit advertisement relating to an authorised non-business overdraft agreement.
 
-## 7. APR[^key-83bd6f5d0721854e45b9a9c33a4b5d53]
+## 7. APR[^c-83bd6f5d0721854e45b9a9c33a4b5d53]
 
 (1) An APR shall be denoted in a credit advertisement as “%APR”.
 
@@ -158,7 +158,7 @@ Every credit advertisement shall—
 
 (3) The representative APR shall be accompanied by the word “representative”.
 
-## 8. Ancillary services[^key-c91392713895eb6f5c4aa19fe6d7ee7a]
+## 8. Ancillary services[^c-c91392713895eb6f5c4aa19fe6d7ee7a]
 
 (1) Subject to paragraph (3), a credit advertisement shall include a clear and concise statement in respect of any obligation to enter into a contract for an ancillary service , where—
 
@@ -172,14 +172,14 @@ Every credit advertisement shall—
 
 (3) This regulation does not apply to a credit advertisement relating to an authorised non-business overdraft agreement.
 
-## 9. Security[^key-40cfb63a40e919a0c09e3f97642472b3]
+## 9. Security[^c-40cfb63a40e919a0c09e3f97642472b3]
 
 Where the subject matter of a credit advertisement is a facility for which security is or may be required, the advertisement shall—
 
 - (a) state that security is or may be required, and
 - (b) specify the nature of the security.
 
-## 10. Restrictions on certain expressions in credit advertisements[^key-4353b5174bd35173d5d0a6f65d08814e]
+## 10. Restrictions on certain expressions in credit advertisements[^c-4353b5174bd35173d5d0a6f65d08814e]
 
 (1) A credit advertisement shall not include—
 
@@ -200,7 +200,7 @@ Where the subject matter of a credit advertisement is a facility for which secur
   under a transaction which is not financed by credit;
 - (b) “current account” means an account under which the customer may, by means of cheques or similar orders payable to the customer or to any other person or by any other means, obtain or have the use of money held or made available by the person with whom the account is kept and which records alterations in the financial relationship between the said person and the customer.
 
-## 11. Exclusions[^key-2e282c5c0b421b94e5b0f6d55c73bb1c]
+## 11. Exclusions[^c-2e282c5c0b421b94e5b0f6d55c73bb1c]
 
 (1) These Regulations do not apply to a credit advertisement which—
 
@@ -218,7 +218,7 @@ Where the subject matter of a credit advertisement is a facility for which secur
 
 (5) These Regulations do not apply to a credit advertisement in so far as it relates to a consumer credit agreement secured on land.
 
-## 12. Transitional provisions[^key-f1c94c52b0a0e9cb802e5d739904844e]
+## 12. Transitional provisions[^c-f1c94c52b0a0e9cb802e5d739904844e]
 
 (1) Subject to paragraph (2), a person shall not be guilty of an offence under section 47(1)[^f00007] or 167 of the Act for contravention of these Regulations in respect of a credit advertisement that would have complied with the requirements of the 2004 Regulations had those Regulations not been disapplied in relation to a consumer credit agreement not secured on land by virtue of regulation 72 of the Consumer Credit (EU Directive) Regulations 2010[^f00008].
 
@@ -243,12 +243,12 @@ Department of Business, Innovation and Skills
 
 Regulation 1(3)
 
-### 1. Assumptions about running-account credit[^key-9b886d47278fd25881cbe615ea3dd62a]
+### 1. Assumptions about running-account credit[^c-9b886d47278fd25881cbe615ea3dd62a]
 
 - (a) In the case of a credit advertisement relating to running-account credit, the assumption in paragraph (b) below shall have effect for the purpose of calculating the total charge for credit and any APR in place of the assumption in regulation 6(o) of the Total Charge for Credit Regulations that might otherwise apply.
 - (b) In a case where the credit limit applicable to the credit is not yet known on the date the credit advertisement is published but it is known that it will be less than £1,200, the credit limit shall be assumed to be an amount equal to that maximum limit.
 
-### 2. Permissible tolerances in disclosure of an APR[^key-b6fe97fe79604d2c8fadcfb74047f405]
+### 2. Permissible tolerances in disclosure of an APR[^c-b6fe97fe79604d2c8fadcfb74047f405]
 
 For the purposes of these Regulations, it shall be sufficient compliance with the requirement to show an APR if there is included in the credit advertisement—
 
@@ -256,11 +256,11 @@ For the purposes of these Regulations, it shall be sufficient compliance with th
 - (b) a rate which falls short of the APR by not more than 0.1, or
 - (c) in a case to which paragraph 3 or 4 of this Schedule applies, a rate determined in accordance with those paragraphs or whichever of them applies to that case.
 
-### 3. Tolerance where repayments are nearly equal[^key-5050ac7f2128d8c509b3f9827ccceb12]
+### 3. Tolerance where repayments are nearly equal[^c-5050ac7f2128d8c509b3f9827ccceb12]
 
 In the case of an agreement under which all repayments of credit but one are equal and that one repayment does not differ from any other repayment by more whole pence than there are repayments of credit, there may be included in a credit advertisement relating to the agreement a rate found under regulation 5 of the Total Charge for Credit Regulations as if that one repayment were equal to the other repayments to be made under the agreement.
 
-### 4. Tolerance where interval between relevant date and first repayment is greater than interval between repayments[^key-94616c55b51c935f1f8ff2d2c728c866]
+### 4. Tolerance where interval between relevant date and first repayment is greater than interval between repayments[^c-94616c55b51c935f1f8ff2d2c728c866]
 
 - (a) In the case of a consumer credit agreement under which—
   - (i) three or more repayments of credit are to be made at equal intervals, and
@@ -302,7 +302,7 @@ An impact assessment has not been prepared for these Regulations since they have
 
 [^f00001]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-6d3041fabc978c1ac59a0086a29f79b7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-6d3041fabc978c1ac59a0086a29f79b7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2010/1012](https://www.legislation.gov.uk/uksi/2010/1012).
 
@@ -310,40 +310,40 @@ An impact assessment has not been prepared for these Regulations since they have
 
 [^f00004]: Footnote: [S.I.2004/1484](https://www.legislation.gov.uk/uksi/2004/1484), as amended by [S.I. 2004/2619](https://www.legislation.gov.uk/uksi/2004/2619), [S.I. 2006/2383](https://www.legislation.gov.uk/uksi/2006/2383), [S.I 2007/827](https://www.legislation.gov.uk/uksi/2007/827) and [S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277).
 
-[^key-f61d89b75db1383ddda5eb91008fde1f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/1970/regulation/2) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-f61d89b75db1383ddda5eb91008fde1f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/1970/regulation/2) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
 
-[^key-1d728aba86418d82ee8be82cb25d269c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/1970/regulation/3) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-1d728aba86418d82ee8be82cb25d269c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/1970/regulation/3) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
 
-[^key-99dad8d8dbd83fde62429014c2ae5084]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/1970/regulation/4) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-99dad8d8dbd83fde62429014c2ae5084]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/1970/regulation/4) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
 
-[^key-e7bfe922d6a89b74061658c78d3a530d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/1970/regulation/5) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-e7bfe922d6a89b74061658c78d3a530d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/1970/regulation/5) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
 
-[^key-cbc7030b6111296afd64caf904e053fc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/1970/regulation/6) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-cbc7030b6111296afd64caf904e053fc]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/1970/regulation/6) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
 
-[^key-83bd6f5d0721854e45b9a9c33a4b5d53]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/1970/regulation/7) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-83bd6f5d0721854e45b9a9c33a4b5d53]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/1970/regulation/7) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
 
-[^key-c91392713895eb6f5c4aa19fe6d7ee7a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/1970/regulation/8) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-c91392713895eb6f5c4aa19fe6d7ee7a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/1970/regulation/8) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
 
-[^key-40cfb63a40e919a0c09e3f97642472b3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/1970/regulation/9) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-40cfb63a40e919a0c09e3f97642472b3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/1970/regulation/9) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
 
-[^key-4353b5174bd35173d5d0a6f65d08814e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/1970/regulation/10) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-4353b5174bd35173d5d0a6f65d08814e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2010/1970/regulation/10) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
 
-[^key-2e282c5c0b421b94e5b0f6d55c73bb1c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/1970/regulation/11) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-2e282c5c0b421b94e5b0f6d55c73bb1c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2010/1970/regulation/11) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
 
 [^f00005]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
 [^f00006]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544); section 63F was inserted by articles 2 and 18 of [S.I. 2006/2383](https://www.legislation.gov.uk/uksi/2006/2383).
 
-[^key-f1c94c52b0a0e9cb802e5d739904844e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2010/1970/regulation/12) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-f1c94c52b0a0e9cb802e5d739904844e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2010/1970/regulation/12) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
 
 [^f00007]: Footnote: Section 47(1) was amended by regulation 30 of and Schedule 4 to the Consumer Protection from Unfair Trading Regulations 2008 ([S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277)).
 
 [^f00008]: Footnote: [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010).
 
-[^key-9b886d47278fd25881cbe615ea3dd62a]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/1970/schedule/paragraph/1) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-9b886d47278fd25881cbe615ea3dd62a]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/1970/schedule/paragraph/1) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
 
-[^key-b6fe97fe79604d2c8fadcfb74047f405]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/1970/schedule/paragraph/2) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-b6fe97fe79604d2c8fadcfb74047f405]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/1970/schedule/paragraph/2) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
 
-[^key-5050ac7f2128d8c509b3f9827ccceb12]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/1970/schedule/paragraph/3) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-5050ac7f2128d8c509b3f9827ccceb12]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/1970/schedule/paragraph/3) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
 
-[^key-94616c55b51c935f1f8ff2d2c728c866]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/1970/schedule/paragraph/4) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)
+[^c-94616c55b51c935f1f8ff2d2c728c866]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/1970/schedule/paragraph/4) in force at 1.2.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/1970/regulation/1)

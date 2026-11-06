@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Application of the 1981 Act[^key-7e8685b39cc170cc0348fb86a7abd6ad]
+## 24. Application of the 1981 Act[^c-7e8685b39cc170cc0348fb86a7abd6ad]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7e8685b39cc170cc0348fb86a7abd6ad]: Commencement: Art. 24 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-7e8685b39cc170cc0348fb86a7abd6ad]: Commencement: Art. 24 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
 [^f00051]: Footnote: Section 5A to the 1981 Act was inserted by section 182(2) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22). The existing section 5A was renumbered as section 5A(1), words are substituted and section 5A(2) inserted by section 185(3)(a) of the Levelling-up and Regeneration Act [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55).

@@ -39,7 +39,7 @@ summary: ''
 
 (5) Any investigation under paragraph (1)(b) must—
 
-- (a) consider whether the species concerned has been re-introduced in the territory of any[^key-22cf0a3926ef409b01638bffa8d2c1cc] member States or elsewhere; and
+- (a) consider whether the species concerned has been re-introduced in the territory of any[^c-22cf0a3926ef409b01638bffa8d2c1cc] member States or elsewhere; and
 - (b) take account of any evidence relating to any such re-introductions which is relevant for the purposes of the investigation.
 
 (6) This regulation applies to such species in Annex IV of the Habitats Directive as are native to the offshore marine area.
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22cf0a3926ef409b01638bffa8d2c1cc]: Textual amendment: Word in [reg. 76(5)(a)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/76/5/a) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [67](https://www.legislation.gov.uk/uksi/2019/579/regulation/67); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-22cf0a3926ef409b01638bffa8d2c1cc]: Textual amendment: Word in [reg. 76(5)(a)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/76/5/a) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [67](https://www.legislation.gov.uk/uksi/2019/579/regulation/67); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

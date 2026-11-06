@@ -37,78 +37,78 @@ laying down detailed rules pursuant to Council Regulation (EC) No 1234/2007 as r
 
 (recast) (revoked)
 
-[^key-cd634829484bc4571ebab1fe09e43bde]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd634829484bc4571ebab1fe09e43bde]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Scope[^key-cd634829484bc4571ebab1fe09e43bde]
+## Article 1. Scope[^c-cd634829484bc4571ebab1fe09e43bde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Checks within the customs territory of the Community[^key-cd634829484bc4571ebab1fe09e43bde]
+## Article 2. Checks within the customs territory of the Community[^c-cd634829484bc4571ebab1fe09e43bde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Checks in third countries[^key-cd634829484bc4571ebab1fe09e43bde]
+## Article 3. Checks in third countries[^c-cd634829484bc4571ebab1fe09e43bde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Procedure for payment of export refunds[^key-cd634829484bc4571ebab1fe09e43bde]
+## Article 4. Procedure for payment of export refunds[^c-cd634829484bc4571ebab1fe09e43bde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Non-payment of export refunds[^key-cd634829484bc4571ebab1fe09e43bde]
+## Article 5. Non-payment of export refunds[^c-cd634829484bc4571ebab1fe09e43bde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Penalties[^key-cd634829484bc4571ebab1fe09e43bde]
+## Article 6. Penalties[^c-cd634829484bc4571ebab1fe09e43bde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Recovery of amounts over-paid[^key-cd634829484bc4571ebab1fe09e43bde]
+## Article 7. Recovery of amounts over-paid[^c-cd634829484bc4571ebab1fe09e43bde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Communication of information[^key-cd634829484bc4571ebab1fe09e43bde]
+## Article 8. Communication of information[^c-cd634829484bc4571ebab1fe09e43bde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Repeal[^key-cd634829484bc4571ebab1fe09e43bde]
+## Article 9. Repeal[^c-cd634829484bc4571ebab1fe09e43bde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Entry into force[^key-cd634829484bc4571ebab1fe09e43bde]
+## Article 10. Entry into force[^c-cd634829484bc4571ebab1fe09e43bde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd634829484bc4571ebab1fe09e43bde]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd634829484bc4571ebab1fe09e43bde]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — MODEL — Check report at the exit point (Article 2(2) of Regulation (EU) No 817/2010)[^key-cd634829484bc4571ebab1fe09e43bde]
+## ANNEX I — MODEL — Check report at the exit point (Article 2(2) of Regulation (EU) No 817/2010)[^c-cd634829484bc4571ebab1fe09e43bde]
 
 [image: see source](https://www.legislation.gov.uk/eur/2010/817/images/eur_20100817_2013-07-01_en_001)
 
-## ANNEX II[^key-cd634829484bc4571ebab1fe09e43bde]
+## ANNEX II[^c-cd634829484bc4571ebab1fe09e43bde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — MODEL — Check report at the place of transfer in a third country (Article 3(2) of Regulation (EU) No 817/2010)[^key-cd634829484bc4571ebab1fe09e43bde]
+## ANNEX III — MODEL — Check report at the place of transfer in a third country (Article 3(2) of Regulation (EU) No 817/2010)[^c-cd634829484bc4571ebab1fe09e43bde]
 
 [image: see source](https://www.legislation.gov.uk/eur/2010/817/images/eur_20100817_2013-07-01_en_002)
 
-## ANNEX IV — MODEL — Check report at the place of the first unloading in the third country of final destination (Article 3(2) of Regulation (EU) No 817/2010)[^key-cd634829484bc4571ebab1fe09e43bde]
+## ANNEX IV — MODEL — Check report at the place of the first unloading in the third country of final destination (Article 3(2) of Regulation (EU) No 817/2010)[^c-cd634829484bc4571ebab1fe09e43bde]
 
 [image: see source](https://www.legislation.gov.uk/eur/2010/817/images/eur_20100817_2013-07-01_en_003)
 
-## ANNEX V[^key-cd634829484bc4571ebab1fe09e43bde]
+## ANNEX V[^c-cd634829484bc4571ebab1fe09e43bde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VI[^key-cd634829484bc4571ebab1fe09e43bde]
+## ANNEX VI[^c-cd634829484bc4571ebab1fe09e43bde]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cd634829484bc4571ebab1fe09e43bde]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-cd634829484bc4571ebab1fe09e43bde]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

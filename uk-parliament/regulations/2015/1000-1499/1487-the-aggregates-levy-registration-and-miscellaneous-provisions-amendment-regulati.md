@@ -32,7 +32,7 @@ summary: ''
 
 Aggregates Levy
 
-The Aggregates Levy (Registration and Miscellaneous Provisions) (Amendment) Regulations 2015 (revoked)[^key-ad94915155c08a4aca8791c3a15ad6c1]
+The Aggregates Levy (Registration and Miscellaneous Provisions) (Amendment) Regulations 2015 (revoked)[^c-ad94915155c08a4aca8791c3a15ad6c1]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 1st August 2015
 
-[^key-ad94915155c08a4aca8791c3a15ad6c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad94915155c08a4aca8791c3a15ad6c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-ad94915155c08a4aca8791c3a15ad6c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ad94915155c08a4aca8791c3a15ad6c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ad94915155c08a4aca8791c3a15ad6c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ad94915155c08a4aca8791c3a15ad6c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ad94915155c08a4aca8791c3a15ad6c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ad94915155c08a4aca8791c3a15ad6c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ad94915155c08a4aca8791c3a15ad6c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad94915155c08a4aca8791c3a15ad6c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ad94915155c08a4aca8791c3a15ad6c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ad94915155c08a4aca8791c3a15ad6c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ad94915155c08a4aca8791c3a15ad6c1]: Textual amendment: Regulations revoked (1.1.2016) by [The Aggregates Levy (Registration and Miscellaneous Provisions) (Amendment) Regulations 2016 (S.I. 2016/967)](https://www.legislation.gov.uk/uksi/2016/967), [regs. 1](https://www.legislation.gov.uk/uksi/2016/967/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/967/regulation/2)
+[^c-ad94915155c08a4aca8791c3a15ad6c1]: Textual amendment: Regulations revoked (1.1.2016) by [The Aggregates Levy (Registration and Miscellaneous Provisions) (Amendment) Regulations 2016 (S.I. 2016/967)](https://www.legislation.gov.uk/uksi/2016/967), [regs. 1](https://www.legislation.gov.uk/uksi/2016/967/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/967/regulation/2)

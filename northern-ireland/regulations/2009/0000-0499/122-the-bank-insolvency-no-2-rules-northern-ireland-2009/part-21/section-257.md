@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 257. Debt payable at future time[^key-ccf044d9c5a0e2f2716892826d239743]
+## 257. Debt payable at future time[^c-ccf044d9c5a0e2f2716892826d239743]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccf044d9c5a0e2f2716892826d239743]: Commencement: Rule 257 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-ccf044d9c5a0e2f2716892826d239743]: Commencement: Rule 257 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

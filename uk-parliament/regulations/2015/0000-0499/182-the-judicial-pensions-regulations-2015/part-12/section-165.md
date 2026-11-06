@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Information to be provided by employers[^key-fd2ab6611b5d378d2029d43a4989a37a]
+## 165. Information to be provided by employers[^c-fd2ab6611b5d378d2029d43a4989a37a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd2ab6611b5d378d2029d43a4989a37a]: Commencement: [Reg. 165](https://www.legislation.gov.uk/uksi/2015/182/regulation/165) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-fd2ab6611b5d378d2029d43a4989a37a]: Commencement: [Reg. 165](https://www.legislation.gov.uk/uksi/2015/182/regulation/165) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

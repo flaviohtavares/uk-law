@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Charities[^key-b56c2a592f94a0d927608be5bbd755d2]
+## 189. Charities[^c-b56c2a592f94a0d927608be5bbd755d2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in this Chapter authorises a charity to effect a disposal which it would
 
 ## Annotations
 
-[^key-b56c2a592f94a0d927608be5bbd755d2]: Commencement: S. 189 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-b56c2a592f94a0d927608be5bbd755d2]: Commencement: S. 189 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

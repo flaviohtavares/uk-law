@@ -22,18 +22,18 @@ summary: ''
 
 Article 22
 
-### 1. Compensation enactments[^key-9e73d395296c50d897304ae6079a4c68]
+### 1. Compensation enactments[^c-9e73d395296c50d897304ae6079a4c68]
 
 The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right or the imposition of a restrictive covenant as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-f19c2a278d0496d6afeceb142008177c] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00058] has effect subject to the modifications set out in sub-paragraph (2).
+**2.**[^c-f19c2a278d0496d6afeceb142008177c] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00058] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 (measure of compensation in case of severance) of the 1965 Act as substituted by paragraph 5—
 
 - (a) for the words “land is acquired or taken from” substitute “a right or restrictive covenant over land is purchased from or imposed on”; and
 - (b) for the words “acquired or taken from him” substitute “over which the right is exercisable or the restrictive covenant enforceable”.
 
-**3.**[^key-2bee48a7d26e2b3e66943d814f4f0f85] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modifications set out in sub-paragraph (2).
+**3.**[^c-2bee48a7d26e2b3e66943d814f4f0f85] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 5A(5A) (relevant valuation date) of the 1961 Act substitute—
 
@@ -47,14 +47,14 @@ The enactments for the time being in force with respect to compensation for the 
 
 .
 
-### 4. Application of Part 1 of the 1965 Act[^key-daffed6279ae47412d1ba29f5fd39611]
+### 4. Application of Part 1 of the 1965 Act[^c-daffed6279ae47412d1ba29f5fd39611]
 
 Part 1 (compulsory purchase under Acquisition of Land Act 1981) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act to the acquisition of land under article 19 (compulsory acquisition of land) and as modified by article 27 (modification of Part 1 of the Compulsory Purchase Act 1965), applies to the compulsory acquisition of a right by the creation of a new right under article 22 (compulsory acquisition of rights)—
 
 - (a) with the modifications specified in paragraph 5; and
 - (b) with such other modifications as may be necessary.
 
-**5.**[^key-f7b69093da691fc1192196a82d17d008] (1) The modifications referred to in paragraph 4(a) are as follows.
+**5.**[^c-f7b69093da691fc1192196a82d17d008] (1) The modifications referred to in paragraph 4(a) are as follows.
 
 (2) References in the 1965 Act to land are to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -70,7 +70,7 @@ Part 1 (compulsory purchase under Acquisition of Land Act 1981) of the 1965 Act,
 (4) The following provisions of the 1965 Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), that is to say—
 
 - (a) section 9(4) (failure by owners to convey);
-- (b) paragraph 10(3) of Schedule 1 (owners under incapacity[^key-a5ae4fe42fff2d7b3c25bb83354d1414]);
+- (b) paragraph 10(3) of Schedule 1 (owners under incapacity[^c-a5ae4fe42fff2d7b3c25bb83354d1414]);
 - (c) paragraph 2(3) of Schedule 2 (absent and untraced owners); and
 - (d) paragraphs 2(3) and 7(2) of Schedule 4 (common land),
 
@@ -141,19 +141,19 @@ are modified to secure that, as against persons with interests in the land which
 
 ## Annotations
 
-[^key-9e73d395296c50d897304ae6079a4c68]: Commencement: Sch. 10 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-9e73d395296c50d897304ae6079a4c68]: Commencement: Sch. 10 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-f19c2a278d0496d6afeceb142008177c]: Commencement: Sch. 10 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-f19c2a278d0496d6afeceb142008177c]: Commencement: Sch. 10 para. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
 [^f00058]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-2bee48a7d26e2b3e66943d814f4f0f85]: Commencement: Sch. 10 para. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-2bee48a7d26e2b3e66943d814f4f0f85]: Commencement: Sch. 10 para. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-daffed6279ae47412d1ba29f5fd39611]: Commencement: Sch. 10 para. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-daffed6279ae47412d1ba29f5fd39611]: Commencement: Sch. 10 para. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-f7b69093da691fc1192196a82d17d008]: Commencement: Sch. 10 para. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-f7b69093da691fc1192196a82d17d008]: Commencement: Sch. 10 para. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
-[^key-a5ae4fe42fff2d7b3c25bb83354d1414]: Textual amendment: Words in [Sch. 10 para. 5(4)](https://www.legislation.gov.uk/uksi/2024/796/schedule/10/paragraph/5/4) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
+[^c-a5ae4fe42fff2d7b3c25bb83354d1414]: Textual amendment: Words in [Sch. 10 para. 5(4)](https://www.legislation.gov.uk/uksi/2024/796/schedule/10/paragraph/5/4) substituted (1.11.2024) by [The Mallard Pass Solar Farm (Correction) Order 2024 (S.I. 2024/1088)](https://www.legislation.gov.uk/uksi/2024/1088), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1088/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/1088/schedule)
 
 [^f00059]: Footnote: Section 11 was amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of, and Part 1 of Schedule 1 to, the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), sections 186(2), 187(2) and 188 of, and paragraph 6 of Schedule 14 and paragraph 3 of Schedule 16 to, the Housing and Planning [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and S.I. 2009/1307.
 

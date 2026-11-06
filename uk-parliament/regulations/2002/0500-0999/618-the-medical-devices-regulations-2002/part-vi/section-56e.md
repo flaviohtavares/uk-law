@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56E. Fees payable in connection with regulatory advice meetings[^key-080d37e1c2465918882f5ed0d0068e97]
+## 56E. Fees payable in connection with regulatory advice meetings[^c-080d37e1c2465918882f5ed0d0068e97]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-080d37e1c2465918882f5ed0d0068e97]: Textual amendment: [Reg. 56E](https://www.legislation.gov.uk/uksi/2002/618/regulation/56E) inserted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/749/regulation/11)
+[^c-080d37e1c2465918882f5ed0d0068e97]: Textual amendment: [Reg. 56E](https://www.legislation.gov.uk/uksi/2002/618/regulation/56E) inserted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/749/regulation/11)

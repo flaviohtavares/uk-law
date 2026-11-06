@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Amendment of Part 1 of Schedule 4 (application, with modification, of other Acts and subordinate legislation)[^key-dbe4da803b3bedfd234facfa45f9ef0f]
+## 65. Amendment of Part 1 of Schedule 4 (application, with modification, of other Acts and subordinate legislation)[^c-dbe4da803b3bedfd234facfa45f9ef0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbe4da803b3bedfd234facfa45f9ef0f]: Commencement: Reg. 65 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-dbe4da803b3bedfd234facfa45f9ef0f]: Commencement: Reg. 65 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

@@ -43,7 +43,7 @@ Coming into force
 
 in accordance with regulation 1
 
-The Treasury, in exercise of the powers conferred upon them by sections 75(3), 79(3)[^c15618941], 103(1)[^c15618951], 417(1)[^c15618961] and 428(3) of, and paragraph 9 of Schedule 10[^c15618971] and paragraphs 16(3), 16(4) and 20(2) of Schedule 11 to, the Financial Services and Markets Act 2000[^c15618981], hereby make the following Regulations:[^key-86492345e937f8ce3b7e71521af58570]
+The Treasury, in exercise of the powers conferred upon them by sections 75(3), 79(3)[^c15618941], 103(1)[^c15618951], 417(1)[^c15618961] and 428(3) of, and paragraph 9 of Schedule 10[^c15618971] and paragraphs 16(3), 16(4) and 20(2) of Schedule 11 to, the Financial Services and Markets Act 2000[^c15618981], hereby make the following Regulations:[^c-86492345e937f8ce3b7e71521af58570]
 
 ## PART 1 — GENERAL
 
@@ -56,7 +56,7 @@ These Regulations may be cited as the Financial Services and Markets Act 2000 (O
 (1) In these Regulations—
 
 - “the Act" means the Financial Services and Markets Act 2000;
-- [^key-5cab6e791afee19c301605b99f7b6f2c]...
+- [^c-5cab6e791afee19c301605b99f7b6f2c]...
 - “the Financial Promotion Order" means the Financial Services and Markets Act 2000 (Financial Promotion) Order 2001 [^c15618991];
 - “issuer" has the same meaning as is given, for the purposes of section 103(1), in regulation 4 below;
 - “non-listing prospectus" has the meaning given in section 87(2); and
@@ -70,7 +70,7 @@ These Regulations may be cited as the Financial Services and Markets Act 2000 (O
 
 For the purposes of section 75(3) (which provides that no application for listing may be entertained in respect of securities issued by a body of a prescribed kind) there are prescribed the following kinds of body—
 
-- (a) where the securities are securities within the meaning of the Regulated Activities Order,[^key-548994d7cda7da103af0c8546c3db7ca] a private company within the meaning of section 4(1) of the Companies Act 2006[^key-ec9dd849770b3911ee5d68d2199feb68];
+- (a) where the securities are securities within the meaning of the Regulated Activities Order,[^c-548994d7cda7da103af0c8546c3db7ca] a private company within the meaning of section 4(1) of the Companies Act 2006[^c-ec9dd849770b3911ee5d68d2199feb68];
 - (b) an old public company within the meaning of section 1 of the Companies Consolidation (Consequential Provisions) Act 1985 [^c15619031] or article 3 of the Companies Consolidation (Consequential Provisions) (Northern Ireland) Order 1986 [^c15619041].
 
 ### 4. Meaning of “issuer"
@@ -79,7 +79,7 @@ For the purposes of section 75(3) (which provides that no application for listin
 
 (2) In relation to certificates or other instruments falling within article 80 of the Regulated Activities Order (certificates representing certain securities), “issuer" means—
 
-- (a)[^key-ae2a682bfb1782f6868df0a386cc4989] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ae2a682bfb1782f6868df0a386cc4989] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for all other purposes, the person who issued or is to issue the securities to which the certificates or instruments relate.
 
 (3) In relation to any other securities, “issuer" means the person by whom the securities have been or are to be issued.
@@ -95,7 +95,7 @@ For the purposes of paragraph 9 of Schedule 10 [^c15619051], “approved exchang
 (1) Subject to the following provisions of this Part, for the purposes of Part VI of the Act the persons responsible for listing particulars (including supplementary listing particulars) are—
 
 - (a) the issuer of the securities to which the particulars relate;
-- (b) where the issuer is a body corporate, each person who is a director of that body at the time when the particulars are submitted to the FCA[^key-ca0317e882f73dd1cf64246f9677c1fe];
+- (b) where the issuer is a body corporate, each person who is a director of that body at the time when the particulars are submitted to the FCA[^c-ca0317e882f73dd1cf64246f9677c1fe];
 - (c) where the issuer is a body corporate, each person who has authorised himself to be named, and is named, in the particulars as a director or as having agreed to become a director of that body either immediately or at a future time;
 - (d) each person who accepts, and is stated in the particulars as accepting, responsibility for the particulars;
 - (e) each person not falling within any of the foregoing sub-paragraphs who has authorised the contents of the particulars.
@@ -125,7 +125,7 @@ For the purposes of paragraph 9 of Schedule 10 [^c15619051], “approved exchang
 
 - (a) A; and
 - (b) where A is a body corporate—
-  - (i) each person who is a director of A at the time when the particulars are submitted to the FCA[^key-50b0d977fc4ba62c6c88d9971a241660]; and
+  - (i) each person who is a director of A at the time when the particulars are submitted to the FCA[^c-50b0d977fc4ba62c6c88d9971a241660]; and
   - (ii) each other person who has authorised himself to be named, and is named, in the particulars as a director of A.
 
 (3) Where this regulation applies, no person is to be treated as responsible for the relevant part of the particulars under regulation 6(1)(a), (b) or (c) above but without prejudice to his being responsible under regulation 6(1)(d).
@@ -133,7 +133,7 @@ For the purposes of paragraph 9 of Schedule 10 [^c15619051], “approved exchang
 (4) In this regulation—
 
 - (a) “listing particulars" includes supplementary listing particulars; and
-- (b) “wholly-owned subsidiary" is to be construed in accordance with section 1159 of the Companies Act 2006[^key-e30fb2931d1102684453a08c5e92ac99] (and, in relation to an issuer which is not a body corporate, means a body corporate which would be a wholly-owned subsidiary of the issuer within the meaning of that section if the issuer were a body corporate).
+- (b) “wholly-owned subsidiary" is to be construed in accordance with section 1159 of the Companies Act 2006[^c-e30fb2931d1102684453a08c5e92ac99] (and, in relation to an issuer which is not a body corporate, means a body corporate which would be a wholly-owned subsidiary of the issuer within the meaning of that section if the issuer were a body corporate).
 
 ### 8. Successor companies under legislation relating to electricity
 
@@ -156,17 +156,17 @@ that person is not to be treated as responsible, by virtue of regulation 6 above
 
 (3) “Listing particulars" includes supplementary listing particulars.
 
-### 10. Responsibility for prospectuses and non-listing prospectuses[^key-8e08a148dd9a14e75b0e06cfef8683dd]
+### 10. Responsibility for prospectuses and non-listing prospectuses[^c-8e08a148dd9a14e75b0e06cfef8683dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — MATTERS PRESCRIBED FOR THE PURPOSES OF SCHEDULE 11 (OFFERS NOT TO BE TREATED AS PUBLIC OFFERS OF SECURITIES)
 
-### 11. Offers of securities to “qualifying persons": definitions[^key-8e08a148dd9a14e75b0e06cfef8683dd]
+### 11. Offers of securities to “qualifying persons": definitions[^c-8e08a148dd9a14e75b0e06cfef8683dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Euro-securities: permitted advertisements[^key-8e08a148dd9a14e75b0e06cfef8683dd]
+### 12. Euro-securities: permitted advertisements[^c-8e08a148dd9a14e75b0e06cfef8683dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -202,36 +202,36 @@ Further provision is made in connection with section 87 of and Schedule 11 to th
 
 [^c15618981]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Schedule 11 is amended by [S.I. 2001/2955](https://www.legislation.gov.uk/uksi/2001/2955).
 
-[^key-86492345e937f8ce3b7e71521af58570]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/2956): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-86492345e937f8ce3b7e71521af58570]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2001/2956): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-5cab6e791afee19c301605b99f7b6f2c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/2956/regulation/2/1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 55(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/55/a)
+[^c-5cab6e791afee19c301605b99f7b6f2c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/2956/regulation/2/1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 55(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/55/a)
 
 [^c15618991]: Marginal citation: [S.I. 2001/1335](https://www.legislation.gov.uk/uksi/2001/1335).
 
 [^c15619001]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 
-[^key-548994d7cda7da103af0c8546c3db7ca]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2001/2956/regulation/3/a) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Official Listing of Securities) (Amendment) Regulations 2001 (S.I. 2001/3439)](https://www.legislation.gov.uk/uksi/2001/3439), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3439/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2001/3439/regulation/2/2)
+[^c-548994d7cda7da103af0c8546c3db7ca]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2001/2956/regulation/3/a) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Official Listing of Securities) (Amendment) Regulations 2001 (S.I. 2001/3439)](https://www.legislation.gov.uk/uksi/2001/3439), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3439/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2001/3439/regulation/2/2)
 
-[^key-ec9dd849770b3911ee5d68d2199feb68]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2001/2956/regulation/3/a) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/19/2)
+[^c-ec9dd849770b3911ee5d68d2199feb68]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2001/2956/regulation/3/a) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [19(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/19/2)
 
 [^c15619031]: Marginal citation: [1985 c. 9](https://www.legislation.gov.uk/ukpga/1985/9).
 
 [^c15619041]: Marginal citation: [S.I. 1986/1035 (N.I. 9)](https://www.legislation.gov.uk/nisi/1986/1035).
 
-[^key-ae2a682bfb1782f6868df0a386cc4989]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2001/2956/regulation/4/2/a) revoked (1.7.2005) by [The Prospectus Regulations 2005 (S.I. 2005/1433)](https://www.legislation.gov.uk/uksi/2005/1433), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1433/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2005/1433/schedule/3/paragraph/3)
+[^c-ae2a682bfb1782f6868df0a386cc4989]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2001/2956/regulation/4/2/a) revoked (1.7.2005) by [The Prospectus Regulations 2005 (S.I. 2005/1433)](https://www.legislation.gov.uk/uksi/2005/1433), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1433/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2005/1433/schedule/3/paragraph/3)
 
 [^c15619051]: Marginal citation: [Paragraph 9](https://www.legislation.gov.uk/uksi/2001/2956/paragraph/9) of Schedule 10 is inserted, for the purposes of the application of Schedule 10 to non-listing prospectuses, by paragraph 5(2) of Schedule 9.
 
 [^c15619061]: Marginal citation: [S.I. 1995/1537](https://www.legislation.gov.uk/uksi/1995/1537), as modified by [S.I. 1995/3275](https://www.legislation.gov.uk/uksi/1995/3275) and amended by [S.I. 1999/734](https://www.legislation.gov.uk/uksi/1999/734) and 1999/1146. By virtue of an approval dated 16th June 1995, the London Stock Exchange was approved by the Treasury for the purposes of the Regulations with effect from 19th June 1995, in relation to securities within the meaning of Part II of the Regulations which are admitted to dealings on, or are the subject of an application for admission to dealings on, the Alternative Investment Market. (The approval also related to dealings in securities on the Unlisted Securities Market, but that market no longer operates.)
 
-[^key-ca0317e882f73dd1cf64246f9677c1fe]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2001/2956/regulation/6/1/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 55(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/55/b)
+[^c-ca0317e882f73dd1cf64246f9677c1fe]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2001/2956/regulation/6/1/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 55(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/55/b)
 
-[^key-50b0d977fc4ba62c6c88d9971a241660]: Textual amendment: Word in [reg. 7(2)(b)(i)](https://www.legislation.gov.uk/uksi/2001/2956/regulation/7/2/b/i) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 55(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/55/b)
+[^c-50b0d977fc4ba62c6c88d9971a241660]: Textual amendment: Word in [reg. 7(2)(b)(i)](https://www.legislation.gov.uk/uksi/2001/2956/regulation/7/2/b/i) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 55(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/55/b)
 
-[^key-e30fb2931d1102684453a08c5e92ac99]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2001/2956/regulation/7/4/b) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2011/1265/article/19/3)
+[^c-e30fb2931d1102684453a08c5e92ac99]: Textual amendment: Words in [reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2001/2956/regulation/7/4/b) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2011/1265/article/19/3)
 
 [^c15619081]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
 [^c15619091]: Marginal citation: [S.I. 1992/231 (N.I. 2)](https://www.legislation.gov.uk/nisi/1992/231).
 
-[^key-8e08a148dd9a14e75b0e06cfef8683dd]: Textual amendment: [Regs. 10-12](https://www.legislation.gov.uk/uksi/2001/2956/regulation/10) revoked (1.7.2005) by [The Prospectus Regulations 2005 (S.I. 2005/1433)](https://www.legislation.gov.uk/uksi/2005/1433), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1433/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2005/1433/schedule/3/paragraph/3)
+[^c-8e08a148dd9a14e75b0e06cfef8683dd]: Textual amendment: [Regs. 10-12](https://www.legislation.gov.uk/uksi/2001/2956/regulation/10) revoked (1.7.2005) by [The Prospectus Regulations 2005 (S.I. 2005/1433)](https://www.legislation.gov.uk/uksi/2005/1433), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1433/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2005/1433/schedule/3/paragraph/3)

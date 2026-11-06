@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Pupil numbers[^key-230d7688b6b3e5b7ee52d7299437831a]
+## 15. Pupil numbers[^c-230d7688b6b3e5b7ee52d7299437831a]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ a local education authority may determine a number representing the number of pu
 
 ## Annotations
 
-[^key-230d7688b6b3e5b7ee52d7299437831a]: Commencement: Reg. 15 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-230d7688b6b3e5b7ee52d7299437831a]: Commencement: Reg. 15 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Share transfers[^key-7a6b133691e6cbb6c901aca3a1809c85]
+## 52. Share transfers[^c-7a6b133691e6cbb6c901aca3a1809c85]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 makes provision for the transfer of registered and bearer shares in a
 
 ## Annotations
 
-[^key-7a6b133691e6cbb6c901aca3a1809c85]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2004/335/regulation/52) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-7a6b133691e6cbb6c901aca3a1809c85]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2004/335/regulation/52) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

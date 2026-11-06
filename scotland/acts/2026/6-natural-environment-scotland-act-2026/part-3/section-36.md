@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Repeal of saving of right to take deer on land[^key-a3e2f010e6e527e5de0f58ac4705e92e][^key-358ffbac101bff38c829635b4714d2eb]
+## 36. Repeal of saving of right to take deer on land[^c-a3e2f010e6e527e5de0f58ac4705e92e][^c-358ffbac101bff38c829635b4714d2eb]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3e2f010e6e527e5de0f58ac4705e92e]: Commencement: S. 36 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-a3e2f010e6e527e5de0f58ac4705e92e]: Commencement: S. 36 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-358ffbac101bff38c829635b4714d2eb]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2026/6/section/36) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(w)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/w)
+[^c-358ffbac101bff38c829635b4714d2eb]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2026/6/section/36) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(w)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/w)

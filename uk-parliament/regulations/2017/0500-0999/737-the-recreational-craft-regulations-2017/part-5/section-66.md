@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Enforcement[^key-e40a09f4f3846adeb5b7c5138fdf23ac]
+## 66. Enforcement[^c-e40a09f4f3846adeb5b7c5138fdf23ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e40a09f4f3846adeb5b7c5138fdf23ac]: Commencement: Reg. 66 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-e40a09f4f3846adeb5b7c5138fdf23ac]: Commencement: Reg. 66 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

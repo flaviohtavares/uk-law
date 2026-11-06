@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Notice of cancellation.[^key-ecab1585656e87feb55f7694882cc845]
+## 69. Notice of cancellation.[^c-ecab1585656e87feb55f7694882cc845]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ subsection (1) shall apply with the substitution of the following for paragraph 
 
 ## Annotations
 
-[^key-ecab1585656e87feb55f7694882cc845]: Modification: [Ss. 67-73](https://www.legislation.gov.uk/ukpga/1974/39/section/67) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-ecab1585656e87feb55f7694882cc845]: Modification: [Ss. 67-73](https://www.legislation.gov.uk/ukpga/1974/39/section/67) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
 [^c18809441]: Textual amendment: S. 69(7) substituted (31.12.2004) by [The Consumer Credit Act 1974 (Electronic Communications) Order 2004 (S.I. 2004/3236)](https://www.legislation.gov.uk/uksi/2004/3236), [art. 2(5)](https://www.legislation.gov.uk/uksi/2004/3236/article/2/5)

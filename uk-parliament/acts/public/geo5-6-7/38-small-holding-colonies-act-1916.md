@@ -31,62 +31,62 @@ Small Holding Colonies Act 1916 (repealed)
 
 1916 c.38
 
-[^key-bb58ab44f36b017b9df6fb9a6b0a50a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb58ab44f36b017b9df6fb9a6b0a50a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[23rd August 1916\]
 
 **No longer in force.**
 
-## 1. Power of Board to acquire land for small holding colonies.[^key-bb58ab44f36b017b9df6fb9a6b0a50a4][^key-bb58ab44f36b017b9df6fb9a6b0a50a4]
+## 1. Power of Board to acquire land for small holding colonies.[^c-bb58ab44f36b017b9df6fb9a6b0a50a4][^c-bb58ab44f36b017b9df6fb9a6b0a50a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Power of Board to promote cooperation in connection with small holdings colonies.[^key-bb58ab44f36b017b9df6fb9a6b0a50a4][^key-bb58ab44f36b017b9df6fb9a6b0a50a4]
+## 2. Power of Board to promote cooperation in connection with small holdings colonies.[^c-bb58ab44f36b017b9df6fb9a6b0a50a4][^c-bb58ab44f36b017b9df6fb9a6b0a50a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Powers in relation to acquisition of land.[^key-bb58ab44f36b017b9df6fb9a6b0a50a4][^key-bb58ab44f36b017b9df6fb9a6b0a50a4]
+## 3. Powers in relation to acquisition of land.[^c-bb58ab44f36b017b9df6fb9a6b0a50a4][^c-bb58ab44f36b017b9df6fb9a6b0a50a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Powers of management of land acquired.[^key-bb58ab44f36b017b9df6fb9a6b0a50a4][^key-bb58ab44f36b017b9df6fb9a6b0a50a4]
+## 4. Powers of management of land acquired.[^c-bb58ab44f36b017b9df6fb9a6b0a50a4][^c-bb58ab44f36b017b9df6fb9a6b0a50a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Expenses and receipts of Board.[^key-bb58ab44f36b017b9df6fb9a6b0a50a4][^key-bb58ab44f36b017b9df6fb9a6b0a50a4]
+## 5. Expenses and receipts of Board.[^c-bb58ab44f36b017b9df6fb9a6b0a50a4][^c-bb58ab44f36b017b9df6fb9a6b0a50a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Particulars of valuations to be ascertained and recorded.[^key-bb58ab44f36b017b9df6fb9a6b0a50a4][^key-bb58ab44f36b017b9df6fb9a6b0a50a4]
+## 6. Particulars of valuations to be ascertained and recorded.[^c-bb58ab44f36b017b9df6fb9a6b0a50a4][^c-bb58ab44f36b017b9df6fb9a6b0a50a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-bb58ab44f36b017b9df6fb9a6b0a50a4][^key-bb58ab44f36b017b9df6fb9a6b0a50a4]
+## 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-bb58ab44f36b017b9df6fb9a6b0a50a4][^c-bb58ab44f36b017b9df6fb9a6b0a50a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Interpretation and miscellaneous.[^key-bb58ab44f36b017b9df6fb9a6b0a50a4][^key-bb58ab44f36b017b9df6fb9a6b0a50a4]
+## 8. Interpretation and miscellaneous.[^c-bb58ab44f36b017b9df6fb9a6b0a50a4][^c-bb58ab44f36b017b9df6fb9a6b0a50a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Provisions as to solicitor to Board.[^key-bb58ab44f36b017b9df6fb9a6b0a50a4][^key-bb58ab44f36b017b9df6fb9a6b0a50a4]
+## 9. Provisions as to solicitor to Board.[^c-bb58ab44f36b017b9df6fb9a6b0a50a4][^c-bb58ab44f36b017b9df6fb9a6b0a50a4]
 
 *Extent: E+W+N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Annual report of proceedings to Parliament.[^key-bb58ab44f36b017b9df6fb9a6b0a50a4][^key-bb58ab44f36b017b9df6fb9a6b0a50a4]
+## 10. Annual report of proceedings to Parliament.[^c-bb58ab44f36b017b9df6fb9a6b0a50a4][^c-bb58ab44f36b017b9df6fb9a6b0a50a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Application to Scotland.[^key-bb58ab44f36b017b9df6fb9a6b0a50a4][^key-bb58ab44f36b017b9df6fb9a6b0a50a4]
+## 11. Application to Scotland.[^c-bb58ab44f36b017b9df6fb9a6b0a50a4][^c-bb58ab44f36b017b9df6fb9a6b0a50a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Short title and extent.[^key-bb58ab44f36b017b9df6fb9a6b0a50a4][^key-bb58ab44f36b017b9df6fb9a6b0a50a4]
+## 12. Short title and extent.[^c-bb58ab44f36b017b9df6fb9a6b0a50a4][^c-bb58ab44f36b017b9df6fb9a6b0a50a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bb58ab44f36b017b9df6fb9a6b0a50a4]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/3)
+[^c-bb58ab44f36b017b9df6fb9a6b0a50a4]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/3)

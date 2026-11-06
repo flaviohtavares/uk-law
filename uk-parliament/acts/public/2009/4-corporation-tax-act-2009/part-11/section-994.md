@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies if, under a Schedule 2[^key-84a8226d62632cd6d54c6d3324a7574e] share incentive plan, shares are awarded to employees as free or matching shares because of their employment with a company (“the employing company”).
+(1) This section applies if, under a Schedule 2[^c-84a8226d62632cd6d54c6d3324a7574e] share incentive plan, shares are awarded to employees as free or matching shares because of their employment with a company (“the employing company”).
 
 (2) A deduction is allowed to the employing company for the period of account in which the shares are awarded to the employees.
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84a8226d62632cd6d54c6d3324a7574e]: Textual amendment: Words in s. 994(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 79](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/79), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-84a8226d62632cd6d54c6d3324a7574e]: Textual amendment: Words in s. 994(1) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 79](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/79), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))

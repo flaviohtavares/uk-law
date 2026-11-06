@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208. Activities not for generating income from land[^key-b482e46dab826a4944867ba644109002]
+## 208. Activities not for generating income from land[^c-b482e46dab826a4944867ba644109002]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ For the purposes of this Chapter the following activities are not carried on for
 
 ## Annotations
 
-[^key-b482e46dab826a4944867ba644109002]: Modification: S. 208 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 86(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/86/1) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-b482e46dab826a4944867ba644109002]: Modification: S. 208 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 86(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/86/1) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))

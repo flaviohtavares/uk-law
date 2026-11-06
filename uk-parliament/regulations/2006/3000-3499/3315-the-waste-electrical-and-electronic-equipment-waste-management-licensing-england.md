@@ -32,7 +32,7 @@ summary: ''
 
 environmental protection, england and wales
 
-The Waste Electrical and Electronic Equipment (Waste Management Licensing) (England and Wales) Regulations 2006 (revoked)[^key-c33d53594f61318f2153fec209c14d68]
+The Waste Electrical and Electronic Equipment (Waste Management Licensing) (England and Wales) Regulations 2006 (revoked)[^c-c33d53594f61318f2153fec209c14d68]
 
 Made
 
@@ -46,76 +46,76 @@ Coming into force
 
 5th January 2007
 
-[^key-c33d53594f61318f2153fec209c14d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c33d53594f61318f2153fec209c14d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c33d53594f61318f2153fec209c14d68]
+## 1. Citation and commencement[^c-c33d53594f61318f2153fec209c14d68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c33d53594f61318f2153fec209c14d68]
+## 2. Interpretation[^c-c33d53594f61318f2153fec209c14d68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the 1994 Regulations[^key-c33d53594f61318f2153fec209c14d68]
+## 3. Amendment of the 1994 Regulations[^c-c33d53594f61318f2153fec209c14d68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional arrangements: site licences and registrations[^key-c33d53594f61318f2153fec209c14d68]
+## 4. Transitional arrangements: site licences and registrations[^c-c33d53594f61318f2153fec209c14d68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c33d53594f61318f2153fec209c14d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c33d53594f61318f2153fec209c14d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Amendment of the 1994 Regulations[^key-c33d53594f61318f2153fec209c14d68]
+## SCHEDULE 1 — Amendment of the 1994 Regulations[^c-c33d53594f61318f2153fec209c14d68]
 
 Regulation 3
 
-**1.**[^key-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c33d53594f61318f2153fec209c14d68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Transitional Arrangements[^key-c33d53594f61318f2153fec209c14d68]
+## SCHEDULE 2 — Transitional Arrangements[^c-c33d53594f61318f2153fec209c14d68]
 
 Regulation 4
 
-### 1. Existing site licences[^key-c33d53594f61318f2153fec209c14d68]
+### 1. Existing site licences[^c-c33d53594f61318f2153fec209c14d68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Registered exemptions[^key-c33d53594f61318f2153fec209c14d68]
+### 2. Registered exemptions[^c-c33d53594f61318f2153fec209c14d68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Meaning of determination date[^key-c33d53594f61318f2153fec209c14d68]
+### 3. Meaning of determination date[^c-c33d53594f61318f2153fec209c14d68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Transitional charges[^key-c33d53594f61318f2153fec209c14d68]
+### 4. Transitional charges[^c-c33d53594f61318f2153fec209c14d68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c33d53594f61318f2153fec209c14d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c33d53594f61318f2153fec209c14d68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c33d53594f61318f2153fec209c14d68]: Textual amendment: Regulations revoked (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
+[^c-c33d53594f61318f2153fec209c14d68]: Textual amendment: Regulations revoked (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1), [Sch. 22](https://www.legislation.gov.uk/uksi/2007/3538/schedule/22) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))

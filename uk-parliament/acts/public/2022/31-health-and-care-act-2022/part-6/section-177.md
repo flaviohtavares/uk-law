@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Review into disputes relating to treatment of critically ill children[^key-be6bec6ca4470919fd34131002c51a4e][^key-9172f5ab2e9b1992118a9a0b8fb16503]
+## 177. Review into disputes relating to treatment of critically ill children[^c-be6bec6ca4470919fd34131002c51a4e][^c-9172f5ab2e9b1992118a9a0b8fb16503]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be6bec6ca4470919fd34131002c51a4e]: Commencement: S. 177 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-be6bec6ca4470919fd34131002c51a4e]: Commencement: S. 177 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-9172f5ab2e9b1992118a9a0b8fb16503]: Commencement: [S. 177](https://www.legislation.gov.uk/ukpga/2022/31/section/177) in force at 1.10.2022 by [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/d)
+[^c-9172f5ab2e9b1992118a9a0b8fb16503]: Commencement: [S. 177](https://www.legislation.gov.uk/ukpga/2022/31/section/177) in force at 1.10.2022 by [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/d)

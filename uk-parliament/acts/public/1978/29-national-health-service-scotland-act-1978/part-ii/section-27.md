@@ -37,7 +37,7 @@ In this subsection—
 
 (1A)[^c14166281] The descriptions of persons which may be prescribed for the purposes of subsection (1)(cc) are the following, or any sub-category of such a description—
 
-- (a)[^c20946341] persons who are registered in the register maintained under article 5 of the Health and Social Work Professions Order 2001[^key-1282c48518074ec4ddfa17b66f146a00];
+- (a)[^c20946341] persons who are registered in the register maintained under article 5 of the Health and Social Work Professions Order 2001[^c-1282c48518074ec4ddfa17b66f146a00];
 - (b) persons who are registered pharmacists;
 - (c)[^c20958581] persons who are registered in the dental care professionals register established under section 36B of the Dentists Act 1984;
 - (d) persons who are ophthalmic opticians;
@@ -53,7 +53,7 @@ In this subsection—
 - (b) provide for the circumstances or cases in which a drug, medicine or appliance may be ordered;
 - (c) provide that persons falling within a description specified in the determination may exercise discretion in accordance with any provision made by the determination in ordering drugs, medicines and listed appliances.
 
-(1C)[^key-3f2fd3e43a5cd95390d880163f8e56d3] Paragraphs (a) and (h) of subsection (1A) do not apply to persons in so far as they are registered as members of the social work profession in England or social care workers in England (each of those expressions having the same meaning as in section 60 of the Health Act 1999).
+(1C)[^c-3f2fd3e43a5cd95390d880163f8e56d3] Paragraphs (a) and (h) of subsection (1A) do not apply to persons in so far as they are registered as members of the social work profession in England or social care workers in England (each of those expressions having the same meaning as in section 60 of the Health Act 1999).
 
 (2)[^c14166301][^c14166311][^c14166291] Regulations shall provide for securing that arrangements made by a Health Board under subsection (1) will enable persons in the Board’s area for whom drugs, medicines or appliances mentioned in that subsection are ordered as there mentioned , or to whom services mentioned in subsection (1)(d) are to be provided,[^c14166321] to receive them from persons with whom such arrangements have been made.
 
@@ -128,7 +128,7 @@ from taking part in the decision whether an application such as is mentioned in 
 
 [^c20946341]: Textual amendment: S. 27(1A)(a) substituted (9.7.2003) by [The Health Professions Order 2001 (Consequential Amendments) Order 2003 (S.I. 2003/1590)](https://www.legislation.gov.uk/uksi/2003/1590), [art. 3](https://www.legislation.gov.uk/uksi/2003/1590/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2003/1590/schedule/paragraph/2)
 
-[^key-1282c48518074ec4ddfa17b66f146a00]: Textual amendment: Words in s. 27(1A)(a) substituted (1.8.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 213(7)(c)](https://www.legislation.gov.uk/ukpga/2012/7/section/213/7/c), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [s. 230(6)](https://www.legislation.gov.uk/ukpga/2012/7/section/230/6)); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-1282c48518074ec4ddfa17b66f146a00]: Textual amendment: Words in s. 27(1A)(a) substituted (1.8.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 213(7)(c)](https://www.legislation.gov.uk/ukpga/2012/7/section/213/7/c), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [s. 230(6)](https://www.legislation.gov.uk/ukpga/2012/7/section/230/6)); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
 
 [^c20958581]: Textual amendment: Words in s. 27(1A)(c) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 49](https://www.legislation.gov.uk/uksi/2005/2011/article/49), [Sch. 6 para. 2(3)](https://www.legislation.gov.uk/uksi/2005/2011/schedule/6/paragraph/2/3) (with transitional provisions in Sch. 7 and [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
@@ -136,7 +136,7 @@ from taking part in the decision whether an application such as is mentioned in 
 
 [^c20957201]: Textual amendment: Words in s. 27(1A)(h) inserted (1.8.2004) by [The Health Act 1999 (Consequential Amendments) (Nursing and Midwifery) Order 2004 (S.I. 2004/1771)](https://www.legislation.gov.uk/uksi/2004/1771), [art. 3](https://www.legislation.gov.uk/uksi/2004/1771/article/3), [Sch. para. 6(b)](https://www.legislation.gov.uk/uksi/2004/1771/schedule/paragraph/6/b)
 
-[^key-3f2fd3e43a5cd95390d880163f8e56d3]: Textual amendment: S. 27(1C) inserted (1.8.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 220(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/220/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-3f2fd3e43a5cd95390d880163f8e56d3]: Textual amendment: S. 27(1C) inserted (1.8.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 220(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/220/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
 
 [^c14166301]: Modification: S. 27(2) extended by [Health and Medicines Act 1988 (c. 49, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1988/49), [s. 17(1)](https://www.legislation.gov.uk/ukpga/1988/49/section/17/1)
 

@@ -43,13 +43,13 @@ The Secretary of State, in exercise of the powers conferred upon him by section 
 
 ## PART I — General
 
-### 1. Citation and commencement[^key-c62d53089f0f5944ef3eb90b026b2748]
+### 1. Citation and commencement[^c-c62d53089f0f5944ef3eb90b026b2748]
 
 (1) These regulations may be cited as the Police Service of Northern Ireland Regulations 2005.
 
 (2) These regulations shall come into operation on 13 January 2006.
 
-### 2. Revocations[^key-a71466f50915545a5301ffea4fbeaf04]
+### 2. Revocations[^c-a71466f50915545a5301ffea4fbeaf04]
 
 The following provisions are hereby revoked—
 
@@ -63,7 +63,7 @@ The following provisions are hereby revoked—
 - (h) regulations 2(1) and 3 of the Police (Appointments) Regulations (Northern Ireland) 2004[^f00011];
 - (i) the Police Service of Northern Ireland (Amendment) Regulations 2004[^f00012].
 
-### 3. Interpretation[^key-b5653df60da8aca75c59320bf0fda721]
+### 3. Interpretation[^c-b5653df60da8aca75c59320bf0fda721]
 
 (1) In these regulations, unless the context otherwise requires—
 
@@ -72,7 +72,7 @@ The following provisions are hereby revoked—
 - “British Transport Police Force” means the force of constables appointed under section 53 of the British Transport Commission Act 1949[^f00013];
 - “central committee” has the meaning assigned to it in regulation 14 of the Police Association for Northern Ireland Regulations 1991[^f00014];
 - “the Conduct Regulations” means the regulations relating to conduct and discipline for the time being in force;
-- “controlled drug” has the same meaning as in the Misuse of Drugs Act 1971;[^key-9bde9ae84a93ff519e480c4dedd1f8a7]
+- “controlled drug” has the same meaning as in the Misuse of Drugs Act 1971;[^c-9bde9ae84a93ff519e480c4dedd1f8a7]
 - “the police service” means the Police Service of Northern Ireland;
 - “member” means a member of the police service and includes a member who is suspended under the Conduct Regulations;
 - “the Pensions Regulations” means the regulations relating to Police Service of Northern Ireland pensions for the time being in force;
@@ -84,17 +84,17 @@ The following provisions are hereby revoked—
 - “police trainee regulations” means the Police Trainee Regulations (Northern Ireland) 2001[^f00018];
 - “the Promotion Regulations” means the regulations relating to qualifications and selection for promotion for the time being in force;
 - “public holiday” means—
-  - (a) New Year’s Day, St. Patrick’s Day, 29th April 2011,[^key-bc868d526a72fdf88b4004009106d74c] first Monday in May *(affected by repeal, see note)*[^key-a2e87b2d9cba6b23bd366f8b317c5e81] Friday 8<sup>th</sup> May , second Monday in May[^key-78cbee76268619cc83b67eb646a93157] and last Monday in May *(affected by repeal, see note)*[^key-5d861a63cb29aff309e2361f5a736cc5] , 2<sup>nd</sup> and 3<sup>rd</sup> June, 12th July, last Monday in August, 19th September,[^key-f03b8cff776d809dddc5e0939837fb38] Christmas Day and 26th December; and
+  - (a) New Year’s Day, St. Patrick’s Day, 29th April 2011,[^c-bc868d526a72fdf88b4004009106d74c] first Monday in May *(affected by repeal, see note)*[^c-a2e87b2d9cba6b23bd366f8b317c5e81] Friday 8<sup>th</sup> May , second Monday in May[^c-78cbee76268619cc83b67eb646a93157] and last Monday in May *(affected by repeal, see note)*[^c-5d861a63cb29aff309e2361f5a736cc5] , 2<sup>nd</sup> and 3<sup>rd</sup> June, 12th July, last Monday in August, 19th September,[^c-f03b8cff776d809dddc5e0939837fb38] Christmas Day and 26th December; and
   - (b) (in addition) in any year where New Year’s Day, Christmas Day or 26th December falls on a Saturday or Sunday, any substitute day;
 - “university scholar” means a member on a course of university study nominated by the Secretary of State or by the Board following arrangements approved by the Secretary of State.
 
 (2) Nothing in these regulations shall be construed as authorising pay or allowances payable to any person to be reduced retrospectively.
 
-(3)[^key-d91323d306b4be0e03e6c050d1cdc457] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d91323d306b4be0e03e6c050d1cdc457] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART II — Government
 
-### 4. Ranks[^key-1a7bc4c27f86f96d2f2351c038b4b3e9]
+### 4. Ranks[^c-1a7bc4c27f86f96d2f2351c038b4b3e9]
 
 The ranks of the police service shall be known by the following designations—
 
@@ -108,7 +108,7 @@ The ranks of the police service shall be known by the following designations—
 - Sergeant
 - Constable.
 
-### 5. Part-time appointments[^key-53e405f4f6c9ac5439eb5e592577deb6]
+### 5. Part-time appointments[^c-53e405f4f6c9ac5439eb5e592577deb6]
 
 (1) The Chief Constable may, after consultation with the Police Association, appoint persons to perform part-time service in any rank.
 
@@ -132,7 +132,7 @@ The ranks of the police service shall be known by the following designations—
   - (i) in paragraph (1) for all the words after “compensated in respect of time” there were substituted “spent on duty in excess of such period as the Secretary of State may determine”; and
   - (ii) paragraph (2) were omitted.
 
-### 6. Restrictions on the private life of members[^key-8e9b3febc9af659b03b96355e8a2fc37]
+### 6. Restrictions on the private life of members[^c-8e9b3febc9af659b03b96355e8a2fc37]
 
 (1) The restrictions on private life contained in Schedule 1 shall apply to all members.
 
@@ -143,7 +143,7 @@ The ranks of the police service shall be known by the following designations—
 
 (3) Any restriction temporarily imposed under paragraph (2)(a) shall be reported forthwith to the Secretary of State.
 
-### 7. Business interests incompatible with membership of the police service[^key-1d26b4710d42161a757202c389515156]
+### 7. Business interests incompatible with membership of the police service[^c-1d26b4710d42161a757202c389515156]
 
 (1) If a member proposes to have, or has, a business interest within the meaning of this regulation, the member shall forthwith give written notice of that interest to the Chief Constable unless that business interest was disclosed at or before the time of his appointment as a member.
 
@@ -178,7 +178,7 @@ the matter shall be so referred and, unless and until the determination of the B
 
 and includes, in relation to a member who is living or has lived with another person as husband and wife, any person who would fall within paragraph (a) or (b) if the parties were married to each other.
 
-### 8. Business interests: supplementary[^key-58c763e428183d05d4afb9e3e66a7a05]
+### 8. Business interests: supplementary[^c-58c763e428183d05d4afb9e3e66a7a05]
 
 (1) For the purposes of regulation 7, a member or, as the case may be, a relative, shall have a business interest if—
 
@@ -197,17 +197,17 @@ and includes, in relation to a member who is living or has lived with another pe
 
 but the Board shall not dispense with the services of a senior officer under regulation 7 without giving him an opportunity of making representations and shall consider any representations so made.
 
-### 9. Business interests precluding appointment to the police service[^key-80bce52d8af49abc1213f5045ff8b508]
+### 9. Business interests precluding appointment to the police service[^c-80bce52d8af49abc1213f5045ff8b508]
 
 (1) Save in so far as the Chief Constable may allow at the request of the candidate concerned, a person shall not be eligible for appointment to the police service if he or a relative has a business interest within the meaning of regulation 7, and paragraphs (1) and (2) of regulation 8 shall apply for the purposes of the interpretation of this regulation as they apply for the purposes of regulation 7.
 
 (2) In its application to a candidate for appointment as a senior officer, paragraph (1) shall have effect as if for any reference to the Chief Constable there were substituted a reference to the Board.
 
-### 10. Qualifications for appointment (where no service as police trainee)[^key-f27e319d5fa42a6697d82125be196eb3]
+### 10. Qualifications for appointment (where no service as police trainee)[^c-f27e319d5fa42a6697d82125be196eb3]
 
 (1) A candidate for appointment to the police service, other than a person who has completed a period of service as a police trainee, shall—
 
-- (a) if not a national of the United Kingdom or an EEA State[^key-10c8ba4e6540978df7a74a713721d591], have leave to enter or remain in the United Kingdom for an indefinite period;
+- (a) if not a national of the United Kingdom or an EEA State[^c-10c8ba4e6540978df7a74a713721d591], have leave to enter or remain in the United Kingdom for an indefinite period;
 - (b) produce satisfactory references as to character and, if he has served in any police force, in the armed forces, in the civil service or as a seaman, produce satisfactory proof of his good conduct while so serving;
 - (c) have attained the age of 18 years;
 - (d) be certified by a registered medical practitioner approved by the Chief Constable to be fitted both physically and mentally to perform the duties on which he will be employed after appointment;
@@ -217,7 +217,7 @@ but the Board shall not dispense with the services of a senior officer under reg
 - (h) give such information as may be required as to his previous history or employment or any other matter relating to his appointment to the police service;
 - (i) be ineligible for appointment if Schedule 2 (criminal convictions etc.) applies in relation to him.
 
-(1A)[^key-44b539391836057f4b5cd0504e87cc16] A candidate for appointment to the police service, other than a person who has completed a period of service as a police trainee, shall not be appointed unless he passes a test for evidence of controlled drugs.
+(1A)[^c-44b539391836057f4b5cd0504e87cc16] A candidate for appointment to the police service, other than a person who has completed a period of service as a police trainee, shall not be appointed unless he passes a test for evidence of controlled drugs.
 
 (1B) For the purposes of paragraph (1A), a person passes a test if—
 
@@ -232,8 +232,8 @@ but the Board shall not dispense with the services of a senior officer under reg
 
 (3) For the purposes of this regulation—
 
-- (a) the expression “armed forces” means the naval, military or air forces of the Crown including any women’s service administered by the Defence Council; [^key-2cea5d466facd51f3728fd9483a69fe8]...
-- (aa)[^key-adada8b2fc2f1665fa3bba1811edc552] “**EEA state**”, in relation to a time, means—
+- (a) the expression “armed forces” means the naval, military or air forces of the Crown including any women’s service administered by the Defence Council; [^c-2cea5d466facd51f3728fd9483a69fe8]...
+- (aa)[^c-adada8b2fc2f1665fa3bba1811edc552] “**EEA state**”, in relation to a time, means—
   - (i) a state which at that time is a member State, or
   - (ii) any other state which at that time is a party to the EEA agreement;
 - (ab) “**national of the United Kingdom**” means—
@@ -242,7 +242,7 @@ but the Board shall not dispense with the services of a senior officer under reg
   - (iii) a person who is a British overseas territories citizen by virtue of a connection with Gibraltar;
 - (b) the expression “seaman” has the same meaning as in the Merchant Shipping Act 1995[^f00019].
 
-### 11. Appointment of senior officers[^key-2ca1f598474ad51119617de5f829db5a]
+### 11. Appointment of senior officers[^c-2ca1f598474ad51119617de5f829db5a]
 
 (1) Subject to section 35(1) of the Police (Northern Ireland) Act 2000[^f00020] and regulations 9 and 10, no person shall be appointed as Chief Constable of the police service unless he holds or has held such rank, in such force and for such period, as the Secretary of State shall determine in respect of such an appointment.
 
@@ -264,7 +264,7 @@ but the Board shall not dispense with the services of a senior officer under reg
 - (a) the advertisement shall contain such detail and be published in such manner as the Secretary of State may determine, and
 - (b) the Secretary of State may determine that no appointment shall be made until after a date to be specified in the advertisement.
 
-### 12. Probationary service in the rank of constable[^key-061afe520c0c9ae0ca948cf6f5c287c6]
+### 12. Probationary service in the rank of constable[^c-061afe520c0c9ae0ca948cf6f5c287c6]
 
 (1) Subject to paragraphs (2) and (3), a member appointed in the rank of constable, other than a member who, having completed the required period of probation in a police force in Great Britain, left that force to become a police trainee, shall be on probation for such period as the Secretary of State shall determine in respect of such appointments.
 
@@ -272,7 +272,7 @@ but the Board shall not dispense with the services of a senior officer under reg
 
 (3) For the purposes of a determination under paragraph (1), the periods to be counted or disregarded in reckoning service shall be such as may be determined by the Secretary of State.
 
-### 13. Discharge of probationer[^key-fea7d82115367dac9581ed2da48cb091]
+### 13. Discharge of probationer[^c-fea7d82115367dac9581ed2da48cb091]
 
 (1) Subject to the provisions of this regulation, during his period of probation in the police service the services of a constable may be dispensed with at any time if the Chief Constable considers that he is not fitted, physically or mentally, to perform the duties of his office, or that he is not likely to become an efficient or well conducted constable.
 
@@ -285,14 +285,14 @@ but the Board shall not dispense with the services of a senior officer under reg
 - (a) he shall nevertheless be entitled to receive pay up to and until the date on which the month’s notice he has received would have expired, or
 - (b) where he has received or is due to receive a month’s pay in lieu of notice he shall remain entitled to that pay notwithstanding the notice he has given under paragraph (3).
 
-### 14. Retirement[^key-e168fa29cfa42d90650e111ec26d3d5b]
+### 14. Retirement[^c-e168fa29cfa42d90650e111ec26d3d5b]
 
 Members may retire in such circumstances as shall be determined by the Secretary of State, and in making such a determination the Secretary of State may—
 
 - (a) require such notice of intention to retire as may be specified in the determination, or such shorter notice as may have been accepted by the Chief Constable, to be given to the Chief Constable, and
 - (b) require the consent of the Chief Constable to be obtained before giving such notice.
 
-### 15. Contents of personal records[^key-af44a28a22e67817e249aad2f33d5d25]
+### 15. Contents of personal records[^c-af44a28a22e67817e249aad2f33d5d25]
 
 (1) The Chief Constable shall cause personal records of each member to be kept.
 
@@ -330,11 +330,11 @@ Members may retire in such circumstances as shall be determined by the Secretary
 
 (8) A member shall, if he so requests, be entitled to inspect his personal records.
 
-### 16. Transfer of personal records[^key-50cf1d6ecd9556367b86bb56e5983404]
+### 16. Transfer of personal records[^c-50cf1d6ecd9556367b86bb56e5983404]
 
 Where a member transfers to another police force, his personal records shall be transferred to the chief officer of police of that other police force.
 
-### 17. Personal records of member leaving the police service[^key-6860c3ebc16d5b59bb82f8e4788c93f7]
+### 17. Personal records of member leaving the police service[^c-6860c3ebc16d5b59bb82f8e4788c93f7]
 
 (1) Where a member ceases to be a member he shall, unless he transfers to another police force, be given a certificate showing his rank and setting out the period of his service in the police service, any period which he served as a police trainee and any period of service in any other police force.
 
@@ -346,7 +346,7 @@ Where a member transfers to another police force, his personal records shall be 
 
 (3) Where a member ceases to be a member otherwise than by transferring to another police force, his personal records shall be kept for such time as the Chief Constable may think fit and shall then be destroyed.
 
-### 18. Fingerprints[^key-439146e3a9affa11923fa8851738f680]
+### 18. Fingerprints[^c-439146e3a9affa11923fa8851738f680]
 
 (1) Every member shall, in accordance with the directions of the Chief Constable, have his fingerprints taken.
 
@@ -356,7 +356,7 @@ Where a member transfers to another police force, his personal records shall be 
 
 (4) Where by reason of a transfer a member becomes a member of another police force, his fingerprints, and all copies and records of his fingerprints, shall be transferred to the chief officer of police of that other police force.
 
-### 19. Samples[^key-953c18c69e9456e85939e1b5e0de2c69]
+### 19. Samples[^c-953c18c69e9456e85939e1b5e0de2c69]
 
 (1) Every member, except those members appointed following their transfer from a police force in Great Britain, shall on appointment and in accordance with the directions of the Chief Constable have a sample taken.
 
@@ -370,7 +370,7 @@ Where a member transfers to another police force, his personal records shall be 
 - (b) saliva; or
 - (c) a swab taken from the mouth.
 
-### 19A. Testing for evidence of drugs and alcohol[^key-5b18b74cea4ed793dce146233310da62]
+### 19A. Testing for evidence of drugs and alcohol[^c-5b18b74cea4ed793dce146233310da62]
 
 (1) The Chief Constable may require any member to give a sample of saliva, urine, blood, or hair (other than pubic hair) to be tested for evidence of controlled drugs in accordance with procedures determined by the Secretary of State.
 
@@ -386,11 +386,11 @@ shall face such consequences as are specified in a determination of the Secretar
 
 ## PART III — Duty
 
-### 20. Duty to carry out lawful orders[^key-c256c6c476ea99e09bb94f09ff5d19c2]
+### 20. Duty to carry out lawful orders[^c-c256c6c476ea99e09bb94f09ff5d19c2]
 
 Every member shall carry out all lawful orders and shall at all times, punctually and promptly, perform all appointed duties and attend to all matters within the scope of his office as a constable.
 
-### 21. Duty[^key-cd85896060e2002227c640925a89c93e]
+### 21. Duty[^c-cd85896060e2002227c640925a89c93e]
 
 (1) The Secretary of State shall determine—
 
@@ -399,7 +399,7 @@ Every member shall carry out all lawful orders and shall at all times, punctuall
 - (c) the variable shift arrangements which may be brought into operation by the Chief Constable;
 - (d) the manner and timing of the publication of duty rosters and the matters to be contained therein;
 - (e) the circumstances in which travelling time may be treated as duty; and
-- (f) the circumstances in which a member is to be treated as if he were a night worker for the purposes of regulation 2(2) of the Working Time Regulations (Northern Ireland) 2016[^key-e87860e0b0e8a92f041c92d67dfebc68].
+- (f) the circumstances in which a member is to be treated as if he were a night worker for the purposes of regulation 2(2) of the Working Time Regulations (Northern Ireland) 2016[^c-e87860e0b0e8a92f041c92d67dfebc68].
 
 (2) In making a determination under paragraph (1)(a) the Secretary of State may confer on the Chief Constable discretion to fix the time at which a period commences for the purposes of the determination and may determine the conditions subject to which that discretion is to be exercised.
 
@@ -413,7 +413,7 @@ Every member shall carry out all lawful orders and shall at all times, punctuall
 - (a) where he is required to perform his normal daily period of duty in more than one tour of duty, between two tours; or
 - (b) where he is recalled to duty between two tours of duty, in consequence of his recall.
 
-### 22. Meetings of Police Association treated as police duty[^key-597b865ac34ba6bdeec1089d74a06e80]
+### 22. Meetings of Police Association treated as police duty[^c-597b865ac34ba6bdeec1089d74a06e80]
 
 (1) The attendance of a member at one of the following meetings of the Police Association shall be treated as an occasion of police duty—
 
@@ -434,7 +434,7 @@ Every member shall carry out all lawful orders and shall at all times, punctuall
 
 ## PART IV — Pay
 
-### 23. Pay[^key-ea7f956e5d366c0e60e30d4d3e989935]
+### 23. Pay[^c-ea7f956e5d366c0e60e30d4d3e989935]
 
 (1) Subject to the following provisions of this Part, the pay of members shall be determined by the Secretary of State, and in making such a determination the Secretary of State may—
 
@@ -452,11 +452,11 @@ as he thinks fit.
 - (c) no account shall be taken of any performance of the duties of that rank in respect of which a temporary salary is payable under regulation 26;
 - (d) any period of unpaid leave shall be disregarded;
 - (e) any part-time service shall be taken into account as though it were full-time service;
-- (f)[^key-50bc98c781b90aed6d371b6e150d11ae] in the case of a female member who has taken one or more periods of maternity leave, in respect of each maternity period—
+- (f)[^c-50bc98c781b90aed6d371b6e150d11ae] in the case of a female member who has taken one or more periods of maternity leave, in respect of each maternity period—
   - (i) where that leave has been for 52 weeks or more, account shall be taken of the first 52 weeks whilst on maternity leave;
   - (ii) where that leave has been for less than 52 weeks, account shall be taken of any period spent on maternity leave;
-- (g) in the case of a member who has taken one or more periods of maternity support leave, adoption support leave or parental leave, account shall be taken of any period of such leave taken in accordance with a determination under regulation 32(8)(a)[^key-27b04773ab07715a8a37963a4e1fcad9], (b) and (d);
-- (h)[^key-1bdba4baa3ff656e78cf1a9abe36028f] in the case of a member who has taken one or more periods of adoption leave, account shall be taken of any period of such leave taken in accordance with a determination under regulation 32(8)(c).
+- (g) in the case of a member who has taken one or more periods of maternity support leave, adoption support leave or parental leave, account shall be taken of any period of such leave taken in accordance with a determination under regulation 32(8)(a)[^c-27b04773ab07715a8a37963a4e1fcad9], (b) and (d);
+- (h)[^c-1bdba4baa3ff656e78cf1a9abe36028f] in the case of a member who has taken one or more periods of adoption leave, account shall be taken of any period of such leave taken in accordance with a determination under regulation 32(8)(c).
 
 and, in the case of a member of a rank higher than that of chief inspector, paragraph (2) shall have effect subject to any contrary agreement so far as it relates to the reckoning of previous service in the police service.
 
@@ -464,7 +464,7 @@ and, in the case of a member of a rank higher than that of chief inspector, para
 
 (5) A determination under paragraph (1) shall have effect in relation to a university scholar subject to the provisions of any determination for the time being in force under regulation 31.
 
-### 24. Overtime[^key-385ccd6d6cb76b97232603c2162b3811]
+### 24. Overtime[^c-385ccd6d6cb76b97232603c2162b3811]
 
 (1) Subject to the provisions of this regulation, the Secretary of State shall determine the circumstances and manner in which a member shall be compensated in respect of time—
 
@@ -487,7 +487,7 @@ and such time is referred to in these regulations as “overtime”.
 - (b) to fix the period within which time off in compensation for overtime is to be granted;
 - (c) to allow time in addition to that specified in the determination to be taken into account in computing any period of overtime.
 
-### 25. Public holidays and rest days[^key-3a0de12e645c0d9b1abafe50829968bf]
+### 25. Public holidays and rest days[^c-3a0de12e645c0d9b1abafe50829968bf]
 
 (1) The Secretary of State shall determine the circumstances and manner in which a member shall be granted leave or otherwise compensated in respect of time spent on duty on—
 
@@ -502,18 +502,18 @@ and in this regulation “rostered rest day”, in relation to a member who is r
 - (b) to fix the period within which time off in compensation for time spent on duty as mentioned in that paragraph is to be granted;
 - (c) to fix a limit on the time occupied by a member in travelling to and from his place of duty which is to be included in a period of duty for the purposes of the determination.
 
-### 26. Temporary salary and temporary promotion[^key-b09cfb05d64d8bbf905b68fe51af51ce]
+### 26. Temporary salary and temporary promotion[^c-b09cfb05d64d8bbf905b68fe51af51ce]
 
 The Secretary of State shall determine—
 
 - (a) the circumstances in which a member is entitled to receive a temporary salary and the rate of that salary; and
 - (b) the circumstances in which a member is entitled to be temporarily promoted and the rate of his salary while so promoted.
 
-### 27. Sick pay[^key-5d41590c6b27b2683c8bc488a6c18f90]
+### 27. Sick pay[^c-5d41590c6b27b2683c8bc488a6c18f90]
 
 The Secretary of State shall determine the entitlement of members to pay during periods of sick leave taken in accordance with a determination under regulation 32(5), and in making such a determination the Secretary of State may confer on the Chief Constable discretion to allow a member to receive more pay than that specified in the determination.
 
-### 28. Pay during periods of maternity leave, adoption leave etc.[^key-6febee10f2f723e27c6075e443e3e0bb]
+### 28. Pay during periods of maternity leave, adoption leave etc.[^c-6febee10f2f723e27c6075e443e3e0bb]
 
 (1) The Secretary of State shall determine the entitlement of female members to pay during periods of maternity leave.
 
@@ -525,13 +525,13 @@ The Secretary of State shall determine the entitlement of members to pay during 
 
 taken in accordance with a determination under regulation 32(8).
 
-### 29. Fixing of pay day and calculation of monthly, weekly and daily pay[^key-720dff3f6f2f986ae9cf85e4a1ea9cc2]
+### 29. Fixing of pay day and calculation of monthly, weekly and daily pay[^c-720dff3f6f2f986ae9cf85e4a1ea9cc2]
 
 (1) The intervals at which members are to be paid shall be fixed by the Chief Constable in accordance with such rules as the Secretary of State may determine.
 
 (2) The Secretary of State shall determine the manner of calculating monthly, weekly and daily pay.
 
-### 30. Deductions from pay of social security benefits and statutory sick pay[^key-a57e7f4a3980f1797fd04a2de87249c4]
+### 30. Deductions from pay of social security benefits and statutory sick pay[^c-a57e7f4a3980f1797fd04a2de87249c4]
 
 (1) There shall be deducted from the pay of a member who is in receipt of full pay—
 
@@ -544,13 +544,13 @@ and for the purposes of sub-paragraph (a) any increase for adult and child depen
 
 (3) In this regulation, “full pay” means pay at the rate ascertained from regulation 23 and the determination made thereunder.
 
-### 31. University scholars[^key-48d9f502fd82eba3ab1a0ec3536360b6]
+### 31. University scholars[^c-48d9f502fd82eba3ab1a0ec3536360b6]
 
 The Secretary of State shall determine how Part III and this Part and any determination made thereunder shall have effect in relation to a university scholar, and in making such a determination the Secretary of State may confer on the Board discretion to determine whether or not the conditions subject to which a university scholar is entitled to any payment under this Part are met.
 
 ## PART V — Leave
 
-### 32. Leave[^key-8ec711f4a3e196737ca1b668824d28b7]
+### 32. Leave[^c-8ec711f4a3e196737ca1b668824d28b7]
 
 (1) Every member shall, so far as the exigencies of duty permit, be granted in each leave year such annual leave as may be determined by the Secretary of State; and in this regulation “leave year” means that period of 12 months beginning on such date as may from time to time be determined by the Chief Constable.
 
@@ -595,7 +595,7 @@ in such circumstances, as the Secretary of State shall determine.
 
 ## PART VI — Allowances and Expenses
 
-### 33. Allowances[^key-e4a1900bfe9dbc2063c6c8a78950dfd3]
+### 33. Allowances[^c-e4a1900bfe9dbc2063c6c8a78950dfd3]
 
 (1) Subject to regulation 37, the Secretary of State shall determine the entitlement of members to any allowance, and in making such a determination the Secretary of State may confer on—
 
@@ -613,7 +613,7 @@ as he thinks fit.
 
 (3) Nothing in this regulation shall apply to the reimbursement of expenses incurred by a member in the execution of his duty, being expenses authorised either generally or specifically by the Chief Constable in respect of which no allowance is payable under these regulations and no determination has been made under regulation 34.
 
-### 34. Expenses[^key-99cf3724ff622c2227f167b025d2052e]
+### 34. Expenses[^c-99cf3724ff622c2227f167b025d2052e]
 
 (1) The Secretary of State shall determine the entitlement of members to reimbursement of any expenses incurred by such a member in or in connection with the execution of his duty.
 
@@ -624,25 +624,25 @@ as he thinks fit.
 
 such functions in relation to those conditions as he thinks fit.
 
-### 35. Continuance of allowances when member ill[^key-8c8b5fc5f489b0751a8fa0cd6ebb5809]
+### 35. Continuance of allowances when member ill[^c-8c8b5fc5f489b0751a8fa0cd6ebb5809]
 
 If a member who is regularly in receipt of an allowance to meet an expense which ceases during his or her absence from duty is on sick leave or maternity leave, the allowance shall be payable during his or her absence from duty up to a period of a month, but thereafter, during the remainder of his or her absence from duty, payment may be suspended at the discretion of the Chief Constable.
 
-### 36. Allowances in respect of periods of suspension[^key-74bf7dd9f3af7cef35598e00e6de8c45]
+### 36. Allowances in respect of periods of suspension[^c-74bf7dd9f3af7cef35598e00e6de8c45]
 
 This Part shall have effect in relation to a member suspended under the Conduct Regulations, subject to the provisions of paragraphs 2 and 3 of Schedule 3.
 
-### 37. Replacement allowance[^key-1929f90eaa39f2b175965675c758065e]
+### 37. Replacement allowance[^c-1929f90eaa39f2b175965675c758065e]
 
 Schedule 4 shall have effect.
 
-### 38. Restriction on payments for private employment of police[^key-bf2983f2d266ebe137da3cfc7b99c2f3]
+### 38. Restriction on payments for private employment of police[^c-bf2983f2d266ebe137da3cfc7b99c2f3]
 
 Without prejudice to the generality of regulation 33(2), a member who is engaged on duty at the request of any person who has agreed to pay the Chief Constable for the member’s services shall not be entitled to any payment for those services except as provided by or under these regulations; and any payments made in pursuance of that agreement shall be made by that person to the Chief Constable.
 
 ## PART VII — Reckoning of Service
 
-### 39. Reckoning of service of constables who have served as police trainees[^key-99edd05844988d6093b22bbb9a5e3846]
+### 39. Reckoning of service of constables who have served as police trainees[^c-99edd05844988d6093b22bbb9a5e3846]
 
 (1) For the purposes of regulations 23, in reckoning a member’s service in the rank of constable, that service shall include—
 
@@ -665,7 +665,7 @@ is less than the period mentioned in paragraph (2)(a), his period of service in 
 
 (4) Beginning with the date on which the total of the periods mentioned in sub-paragraphs (a) and (b) of paragraph (3) equals the period mentioned in paragraph (2)(a), his period of service as a member in the rank of constable shall be deemed to be equal to the total of the periods mentioned in sub-paragraphs (a) and (b) of paragraph (3).
 
-### 40. Reckoning of service in police force in Great Britain[^key-b1889cbf6ac07adc2eda47221999c0ea]
+### 40. Reckoning of service in police force in Great Britain[^c-b1889cbf6ac07adc2eda47221999c0ea]
 
 (1) Where a member joined or rejoined the police service having left a police force in Great Britain, on or after 29th June 1970, for that purpose or on exercising the right of reversion conferred by section 27(3) of the Act then, for the purposes of regulation 23, his service in any rank in the police force in Great Britain shall be treated as if it were service in the corresponding rank in the police service:
 
@@ -675,7 +675,7 @@ is less than the period mentioned in paragraph (2)(a), his period of service in 
 
 (3) In this regulation any reference to a rank corresponding to a rank in the police service is a reference to a rank in a police force in Great Britain, designated by the Secretary of State for the purposes hereof, as the rank corresponding to the rank in question.
 
-### 41. Reckoning of service in the British Transport Police Force[^key-347662a48868fc7e1d18b1b4c8d5374b]
+### 41. Reckoning of service in the British Transport Police Force[^c-347662a48868fc7e1d18b1b4c8d5374b]
 
 (1) Where a member joined or rejoined the police service having left the British Transport Police Force on or after 1st September 1994, then, for the purposes of regulation 23, his service in any rank in the British Transport Police Force shall be treated as if it were service in the corresponding rank in the police service:
 
@@ -685,7 +685,7 @@ is less than the period mentioned in paragraph (2)(a), his period of service in 
 
 (3) In this regulation, any reference to a rank corresponding to a rank in the police service is a reference to a rank in the British Transport Police Force designated by the Secretary of State for the purposes hereof as the rank corresponding to the rank in question.
 
-### 42. Reckoning by constables of service in certain constabularies[^key-0c67fd56a1d58f77f1121c0c0e040ca8]
+### 42. Reckoning by constables of service in certain constabularies[^c-0c67fd56a1d58f77f1121c0c0e040ca8]
 
 (1) A member of the rank of constable shall be entitled to reckon for the purposes of pay for that rank any period of service in a constabulary mentioned in paragraph (2).
 
@@ -695,11 +695,11 @@ is less than the period mentioned in paragraph (2)(a), his period of service in 
 - (b) the Port of Tilbury Constabulary or, before the coming into force of the Port of Tilbury Transfer Scheme 1991 Confirmation Order 1992[^f00031], the Port of London Authority’s police force, that is to say the force of constables appointed under section 154 of the Port of London Act 1968[^f00032];
 - (c) the persons appointed to execute the office of constable within the ports of Larne and Belfast under section 79 of the Harbour, Docks and Piers Clauses Act 1847[^f00033].
 
-### 43. Reckoning of service in an airport constabulary[^key-789c000075987226c7c3f338783b6c72]
+### 43. Reckoning of service in an airport constabulary[^c-789c000075987226c7c3f338783b6c72]
 
 Where a member of an aerodrome constabulary has been transferred to the police service by an order under section 30 of the Aviation Security Act 1982[^f00034] then, for the purposes of regulation 23, his service in any rank in that constabulary shall be treated as if it were service in the corresponding rank in the police service.
 
-### 44. Reckoning by constables of overseas police service[^key-9ae038659ca3f7a65ec4adf39524d852]
+### 44. Reckoning by constables of overseas police service[^c-9ae038659ca3f7a65ec4adf39524d852]
 
 (1) A member of the rank of constable shall be entitled to reckon for the purposes of pay for that rank the following periods of service, that is to say, any period of—
 
@@ -733,7 +733,7 @@ except that the said reference in paragraph (1) does not include a reference to 
 
 ## PART VIII — Uniform and Equipment
 
-### 45. Issue of uniform and equipment[^key-8cc92eca804cfc69314f22215a548c07]
+### 45. Issue of uniform and equipment[^c-8cc92eca804cfc69314f22215a548c07]
 
 The Secretary of State shall determine the circumstances in which and the conditions subject to which uniform and equipment is to be issued to members by the Chief Constable, and in making such a determination the Secretary of State may—
 
@@ -742,7 +742,7 @@ The Secretary of State shall determine the circumstances in which and the condit
 
 ## PART IX — Determinations
 
-### 46. Determinations[^key-6d4fc9ecb771c3dda874f878d6cb7182]
+### 46. Determinations[^c-6d4fc9ecb771c3dda874f878d6cb7182]
 
 (1) Before making a determination under any provision of these regulations relating to the matters mentioned in section 61(1) of the Police Act 1996, the Secretary of State shall take into consideration any recommendation made by the Police Negotiating Board and shall supply that Board with a draft of the determination; and subsection (2) of section 62 of that Act shall apply in relation to a recommendation to be made for the purposes of this paragraph as it applies in relation to a recommendation to be made for the purposes of subsection (1) of that section.
 
@@ -764,21 +764,21 @@ Northern Ireland Office
 
 Regulation 6
 
-**1.**[^key-e6b73161f307e58bffffa87ec06a8b2e] A member shall at all times abstain from any activity which is likely to interfere with the impartial discharge of his duties or which is likely to give rise to the impression amongst members of the public that it may so interfere, and in particular a member shall not take any active part in politics.
+**1.**[^c-e6b73161f307e58bffffa87ec06a8b2e] A member shall at all times abstain from any activity which is likely to interfere with the impartial discharge of his duties or which is likely to give rise to the impression amongst members of the public that it may so interfere, and in particular a member shall not take any active part in politics.
 
-**2.**[^key-895cb4e8abe4c38a72f4d4fc324f1484] A member shall not reside at premises which are not for the time being approved by the Chief Constable.
+**2.**[^c-895cb4e8abe4c38a72f4d4fc324f1484] A member shall not reside at premises which are not for the time being approved by the Chief Constable.
 
-**3.**[^key-84927b50dee2691afa98d426bcc1fe09] (1) A member shall not, without the previous consent of the Chief Constable, receive a lodger in a house or quarters with which he is provided by the Board or sub-let any part of the house or quarters.
+**3.**[^c-84927b50dee2691afa98d426bcc1fe09] (1) A member shall not, without the previous consent of the Chief Constable, receive a lodger in a house or quarters with which he is provided by the Board or sub-let any part of the house or quarters.
 
 (2) A member shall not, unless he has previously given written notice to the Chief Constable, receive a lodger in a house in which he resides and in respect of which he receives an allowance under Schedule 4 or sub-let any part of such a house.
 
-**4.**[^key-0bf7c560588314c4c43fadf7c7918f61] A member shall not wilfully refuse or neglect to discharge any lawful debt.
+**4.**[^c-0bf7c560588314c4c43fadf7c7918f61] A member shall not wilfully refuse or neglect to discharge any lawful debt.
 
 ## SCHEDULE 2 — Criminal convictions etc.
 
 Regulation 10(1)(h)
 
-**1.**[^key-849bab20a6df848cb7693b0d549792f0] This Schedule applies in relation to a candidate for appointment as a member if—
+**1.**[^c-849bab20a6df848cb7693b0d549792f0] This Schedule applies in relation to a candidate for appointment as a member if—
 
 - (a) he has been convicted of a serious arrestable offence within the meaning of Article 87 of, and Schedule 5 to, the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00039] or an equivalent offence elsewhere; or
 - (b) he has been convicted in Northern Ireland or elsewhere of any offence and has had passed on him a sentence of imprisonment or detention (whether suspended or not); or
@@ -795,13 +795,13 @@ Regulation 10(1)(h)
 - (f) he has, within 5 years from the date of his application for appointment as a member, been convicted on three or more occasions arising separately of any other offences under the Road Traffic Orders or any equivalent offences elsewhere; or
 - (g) he has, within 3 years from the date of his application for appointment as a member, received on three or more occasions a caution or any equivalent elsewhere.
 
-**2.**[^key-c22f47c72f069e968dc5939553b884fb] In this Schedule “the Road Traffic Orders” has the meaning assigned by Article 2(2) of the Road Traffic Offenders (Northern Ireland) Order 1996[^f00043].
+**2.**[^c-c22f47c72f069e968dc5939553b884fb] In this Schedule “the Road Traffic Orders” has the meaning assigned by Article 2(2) of the Road Traffic Offenders (Northern Ireland) Order 1996[^f00043].
 
 ## SCHEDULE 3 — Effect of disciplinary action on pay and Allowances
 
 Regulations 23 and 36
 
-**1.**[^key-f19607cdf89a805c2cbaa36c505c5812] (1) Subject to paragraph 3, a member suspended under the Conduct Regulations who—
+**1.**[^c-f19607cdf89a805c2cbaa36c505c5812] (1) Subject to paragraph 3, a member suspended under the Conduct Regulations who—
 
 - (a) is detained in pursuance of a sentence of a court in a prison or other institution to which the Prison Act (Northern Ireland) 1953[^f00044] applies, or is in custody (whether in prison or elsewhere) between conviction by a court and sentence, or
 - (b) has absented himself from duty and whose whereabouts are unknown to the Chief Constable (or an assistant Chief Constable acting as Chief Constable),
@@ -810,12 +810,12 @@ shall not, by virtue of regulation 23, be entitled to pay in respect of his peri
 
 (2) Where the member suspended is a senior officer, sub-paragraph (1)(b) shall have effect as if for the words after “unknown” there were substituted “to the Board”.
 
-**2.**[^key-60fba78d86d76b2aac9b33a141314251] Subject to paragraph 3, a member suspended under the Conduct Regulations shall not, by virtue of Part VI of these regulations, be entitled to any allowance, in respect of the period of suspension, other than—
+**2.**[^c-60fba78d86d76b2aac9b33a141314251] Subject to paragraph 3, a member suspended under the Conduct Regulations shall not, by virtue of Part VI of these regulations, be entitled to any allowance, in respect of the period of suspension, other than—
 
 - (a) an allowance under Schedule 4; or
 - (b) in the case of a member to whom paragraph 1(1) does not apply, such allowance as the Secretary of State may determine.
 
-**3.**[^key-7732baed9918f8896578d4bf5a6fb974] Where a member returns to duty when the period of suspension comes to an end and—
+**3.**[^c-7732baed9918f8896578d4bf5a6fb974] Where a member returns to duty when the period of suspension comes to an end and—
 
 - (a) it has been decided that he shall not be charged with a disciplinary offence, or
 - (b) he has been so charged and all the charges have been dismissed, or
@@ -823,7 +823,7 @@ shall not, by virtue of regulation 23, be entitled to pay in respect of his peri
 
 he shall receive, as from the date of his suspension, the pay to which, but for paragraph 1, and the allowances to which, but for paragraph 2, he would have been entitled by virtue of these regulations.
 
-**4.**[^key-63b8800ed6c455699912a64cfd6b240c] Where a member is fined under the Conduct Regulations, the fine shall, without prejudice to any other method of recovery, be recoverable by way of deductions from the member’s pay during the period of 13 weeks following the imposition of the fine so, however, that the aggregate sum which may be deducted in pursuance of this paragraph in respect of any one week (whether on account of one or more fines) shall not exceed a seventh of his weekly pay:
+**4.**[^c-63b8800ed6c455699912a64cfd6b240c] Where a member is fined under the Conduct Regulations, the fine shall, without prejudice to any other method of recovery, be recoverable by way of deductions from the member’s pay during the period of 13 weeks following the imposition of the fine so, however, that the aggregate sum which may be deducted in pursuance of this paragraph in respect of any one week (whether on account of one or more fines) shall not exceed a seventh of his weekly pay:
 
 Provided that in the event of the member leaving the police service, the whole amount of any fine unpaid may be deducted from any pay then due.
 
@@ -831,13 +831,13 @@ Provided that in the event of the member leaving the police service, the whole a
 
 Regulation 37
 
-### 1. General Interpretation[^key-c0d3a77a800ff7c887ecee6d92d8a765]
+### 1. General Interpretation[^c-c0d3a77a800ff7c887ecee6d92d8a765]
 
 In this Schedule any reference to the 1984 regulations is a reference to the Royal Ulster Constabulary Regulations 1984[^f00045].
 
 ### Housing Payments
 
-#### 2. Interpretation[^key-b82001a44e9faeda91d01749de1f63b5]
+#### 2. Interpretation[^c-b82001a44e9faeda91d01749de1f63b5]
 
 (1) This paragraph has effect for defining expressions used in this Schedule.
 
@@ -873,7 +873,7 @@ and in relation to a re-joining member includes a rent allowance under regulatio
 
 (8) “The revoked provisions” means the provisions of the 1984 Regulations relating to housing and housing payments that were revoked on 1st September 1994[^f00046], that is to say regulations 40 to 42 and paragraph 4(1) and (2) of Schedule 4.
 
-#### 3. Qualifying member previously provided with accommodation[^key-e4dc8bd703a1798dca04e90ae9ff2713]
+#### 3. Qualifying member previously provided with accommodation[^c-e4dc8bd703a1798dca04e90ae9ff2713]
 
 (1) A qualifying member who ceases to occupy a house or quarters with which he was provided free of rent becomes entitled to a replacement allowance.
 
@@ -882,13 +882,13 @@ and in relation to a re-joining member includes a rent allowance under regulatio
 - (a) the rate at which housing allowance, or as the case may be transitional rent allowance, was payable, or would have been payable if he had not been occupying the house or quarters, immediately before 1st September 1994, and
 - (b) the rate at which any allowance under regulation 40(11) or 41(3) was or would have been then payable.
 
-#### 4. Qualifying member with housing emoluments[^key-3c02181cfb3d515c9fe9e51e028d9ef7]
+#### 4. Qualifying member with housing emoluments[^c-3c02181cfb3d515c9fe9e51e028d9ef7]
 
 (1) A qualifying member who immediately before 1st September 1994 was in receipt of housing emoluments is entitled to a replacement allowance unless he is provided with a house or quarters free of rent.
 
 (2) The replacement allowance is, subject to paragraph 8, an allowance at the rate at which the housing emoluments were payable immediately before 1st September 1994.
 
-#### 5. Re-joining member previously provided with accommodation[^key-40fb99a69d4fc5552a5f034ec6ce387e]
+#### 5. Re-joining member previously provided with accommodation[^c-40fb99a69d4fc5552a5f034ec6ce387e]
 
 (1) A re-joining member who immediately before the relevant absence began was occupying a house or quarters with which he was provided free of rent becomes entitled to a replacement allowance unless he is again provided with a house or quarters free of rent.
 
@@ -897,7 +897,7 @@ and in relation to a re-joining member includes a rent allowance under regulatio
 - (a) where the relevant absence began before 1st September 1994, immediately before it began, and
 - (b) in any other case, immediately before 1st September 1994.
 
-#### 6. Re-joining member previously in receipt of housing payments[^key-3d75e7e5ea33df0bd6309aca4e45263a]
+#### 6. Re-joining member previously in receipt of housing payments[^c-3d75e7e5ea33df0bd6309aca4e45263a]
 
 (1) A re-joining member who immediately before the relevant absence began was in receipt—
 
@@ -913,7 +913,7 @@ becomes entitled to a replacement allowance unless he is provided with a house o
 
 immediately before the relevant absence began.
 
-#### 7. Members provided with house or quarters[^key-253311a10baa118acd6fee80634ce4a3]
+#### 7. Members provided with house or quarters[^c-253311a10baa118acd6fee80634ce4a3]
 
 A qualifying member or a re-joining member who—
 
@@ -922,7 +922,7 @@ A qualifying member or a re-joining member who—
 
 is, subject to paragraph 8, entitled to an equivalent replacement allowance.
 
-#### 8. Variation and termination of replacement allowances[^key-ed0477cd8aa8f26e8c8ea8b98a485307]
+#### 8. Variation and termination of replacement allowances[^c-ed0477cd8aa8f26e8c8ea8b98a485307]
 
 (1) Subject to sub-paragraph (2), in circumstances in which—
 
@@ -967,9 +967,9 @@ Regulation 3 of the 1996 Regulations (which provided for the authorised establis
 
 [^f00003]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16)
 
-[^key-c62d53089f0f5944ef3eb90b026b2748]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/547/regulation/1) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-c62d53089f0f5944ef3eb90b026b2748]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2005/547/regulation/1) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-a71466f50915545a5301ffea4fbeaf04]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/547/regulation/2) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-a71466f50915545a5301ffea4fbeaf04]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/547/regulation/2) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
 [^f00004]: Footnote: [S.R. 1996 No. 473](https://www.legislation.gov.uk/nisr/1996/473)
 
@@ -989,13 +989,13 @@ Regulation 3 of the 1996 Regulations (which provided for the authorised establis
 
 [^f00012]: Footnote: [S.R. 2004 No. 402](https://www.legislation.gov.uk/nisr/2004/402)
 
-[^key-b5653df60da8aca75c59320bf0fda721]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/547/regulation/3) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-b5653df60da8aca75c59320bf0fda721]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/547/regulation/3) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
 [^f00013]: Footnote: [1949 c. xxix](https://www.legislation.gov.uk/ukla/1949/29)
 
 [^f00014]: Footnote: [S.R. 1991 No. 168](https://www.legislation.gov.uk/nisr/1991/168)
 
-[^key-9bde9ae84a93ff519e480c4dedd1f8a7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/547/regulation/3/1) inserted (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/3/2)
+[^c-9bde9ae84a93ff519e480c4dedd1f8a7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/547/regulation/3/1) inserted (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/3/2)
 
 [^f00015]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16)
 
@@ -1005,53 +1005,53 @@ Regulation 3 of the 1996 Regulations (which provided for the authorised establis
 
 [^f00018]: Footnote: [S.R. 2001 No. 369](https://www.legislation.gov.uk/nisr/2001/369)
 
-[^key-bc868d526a72fdf88b4004009106d74c]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/547/regulation/3/1) inserted (24.3.2011) by [Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Full-Time) (Amendment) Regulations 2011 (S.R. 2011/50)](https://www.legislation.gov.uk/nisr/2011/50), [regs. 1](https://www.legislation.gov.uk/nisr/2011/50/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2011/50/regulation/3/2)
+[^c-bc868d526a72fdf88b4004009106d74c]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/547/regulation/3/1) inserted (24.3.2011) by [Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Full-Time) (Amendment) Regulations 2011 (S.R. 2011/50)](https://www.legislation.gov.uk/nisr/2011/50), [regs. 1](https://www.legislation.gov.uk/nisr/2011/50/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2011/50/regulation/3/2)
 
-[^key-a2e87b2d9cba6b23bd366f8b317c5e81]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/547/regulation/3/1) substituted (temp.) (1.4.2020) by virtue of [The Police Service of Northern Ireland (Amendment) Regulations 2020 (S.R. 2020/13)](https://www.legislation.gov.uk/nisr/2020/13), [regs. 1](https://www.legislation.gov.uk/nisr/2020/13/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/13/regulation/2/2)
+[^c-a2e87b2d9cba6b23bd366f8b317c5e81]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/547/regulation/3/1) substituted (temp.) (1.4.2020) by virtue of [The Police Service of Northern Ireland (Amendment) Regulations 2020 (S.R. 2020/13)](https://www.legislation.gov.uk/nisr/2020/13), [regs. 1](https://www.legislation.gov.uk/nisr/2020/13/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/13/regulation/2/2)
 
-[^key-78cbee76268619cc83b67eb646a93157]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/547/regulation/3/1) inserted (temp.) (28.4.2023) by virtue of [The Police Service of Northern Ireland (Amendment) Regulations 2023 (S.R. 2023/64)](https://www.legislation.gov.uk/nisr/2023/64), [regs. 1](https://www.legislation.gov.uk/nisr/2023/64/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2023/64/regulation/2/2)
+[^c-78cbee76268619cc83b67eb646a93157]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/547/regulation/3/1) inserted (temp.) (28.4.2023) by virtue of [The Police Service of Northern Ireland (Amendment) Regulations 2023 (S.R. 2023/64)](https://www.legislation.gov.uk/nisr/2023/64), [regs. 1](https://www.legislation.gov.uk/nisr/2023/64/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2023/64/regulation/2/2)
 
-[^key-5d861a63cb29aff309e2361f5a736cc5]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/547/regulation/3/1) substituted (temp.) (18.4.2022) by virtue of [The Police Service of Northern Ireland (Amendment) Regulations 2022 (S.R. 2022/129)](https://www.legislation.gov.uk/nisr/2022/129), [regs. 1](https://www.legislation.gov.uk/nisr/2022/129/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/129/regulation/2/2)
+[^c-5d861a63cb29aff309e2361f5a736cc5]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/547/regulation/3/1) substituted (temp.) (18.4.2022) by virtue of [The Police Service of Northern Ireland (Amendment) Regulations 2022 (S.R. 2022/129)](https://www.legislation.gov.uk/nisr/2022/129), [regs. 1](https://www.legislation.gov.uk/nisr/2022/129/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/129/regulation/2/2)
 
-[^key-f03b8cff776d809dddc5e0939837fb38]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/547/regulation/3/1) inserted (temp.) (17.9.2022) by virtue of [The Police Service of Northern Ireland (Amendment) (No. 2) Regulations 2022 (S.R. 2022/217)](https://www.legislation.gov.uk/nisr/2022/217), [regs. 1](https://www.legislation.gov.uk/nisr/2022/217/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/217/regulation/2/2)
+[^c-f03b8cff776d809dddc5e0939837fb38]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2005/547/regulation/3/1) inserted (temp.) (17.9.2022) by virtue of [The Police Service of Northern Ireland (Amendment) (No. 2) Regulations 2022 (S.R. 2022/217)](https://www.legislation.gov.uk/nisr/2022/217), [regs. 1](https://www.legislation.gov.uk/nisr/2022/217/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/217/regulation/2/2)
 
-[^key-d91323d306b4be0e03e6c050d1cdc457]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2005/547/regulation/3/3) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 49](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/49)
+[^c-d91323d306b4be0e03e6c050d1cdc457]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2005/547/regulation/3/3) revoked (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 49](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/49)
 
-[^key-1a7bc4c27f86f96d2f2351c038b4b3e9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/547/regulation/4) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-1a7bc4c27f86f96d2f2351c038b4b3e9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/547/regulation/4) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-53e405f4f6c9ac5439eb5e592577deb6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/547/regulation/5) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-53e405f4f6c9ac5439eb5e592577deb6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/547/regulation/5) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-8e9b3febc9af659b03b96355e8a2fc37]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/547/regulation/6) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-8e9b3febc9af659b03b96355e8a2fc37]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/547/regulation/6) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-1d26b4710d42161a757202c389515156]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/547/regulation/7) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-1d26b4710d42161a757202c389515156]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/547/regulation/7) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-58c763e428183d05d4afb9e3e66a7a05]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/547/regulation/8) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-58c763e428183d05d4afb9e3e66a7a05]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/547/regulation/8) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-80bce52d8af49abc1213f5045ff8b508]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/547/regulation/9) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-80bce52d8af49abc1213f5045ff8b508]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2005/547/regulation/9) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-f27e319d5fa42a6697d82125be196eb3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/547/regulation/10) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-f27e319d5fa42a6697d82125be196eb3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2005/547/regulation/10) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-10c8ba4e6540978df7a74a713721d591]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/nisr/2005/547/regulation/10/1/a) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [32(a)](https://www.legislation.gov.uk/uksi/2019/745/regulation/32/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-10c8ba4e6540978df7a74a713721d591]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/nisr/2005/547/regulation/10/1/a) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [32(a)](https://www.legislation.gov.uk/uksi/2019/745/regulation/32/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-44b539391836057f4b5cd0504e87cc16]: Textual amendment: [Reg. 10(1A)-(1D)](https://www.legislation.gov.uk/nisr/2005/547/regulation/10/1A) inserted (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2008/325/regulation/3/3)
+[^c-44b539391836057f4b5cd0504e87cc16]: Textual amendment: [Reg. 10(1A)-(1D)](https://www.legislation.gov.uk/nisr/2005/547/regulation/10/1A) inserted (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2008/325/regulation/3/3)
 
-[^key-2cea5d466facd51f3728fd9483a69fe8]: Textual amendment: Word in [reg. 10(3)(a)](https://www.legislation.gov.uk/nisr/2005/547/regulation/10/3/a) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [32(b)(i)](https://www.legislation.gov.uk/uksi/2019/745/regulation/32/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2cea5d466facd51f3728fd9483a69fe8]: Textual amendment: Word in [reg. 10(3)(a)](https://www.legislation.gov.uk/nisr/2005/547/regulation/10/3/a) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [32(b)(i)](https://www.legislation.gov.uk/uksi/2019/745/regulation/32/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-adada8b2fc2f1665fa3bba1811edc552]: Textual amendment: [Reg. 10(3)(aa)](https://www.legislation.gov.uk/nisr/2005/547/regulation/10/3/aa)[(ab)](https://www.legislation.gov.uk/nisr/2005/547/regulation/10/3/ab) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [32(b)(ii)](https://www.legislation.gov.uk/uksi/2019/745/regulation/32/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-adada8b2fc2f1665fa3bba1811edc552]: Textual amendment: [Reg. 10(3)(aa)](https://www.legislation.gov.uk/nisr/2005/547/regulation/10/3/aa)[(ab)](https://www.legislation.gov.uk/nisr/2005/547/regulation/10/3/ab) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [32(b)(ii)](https://www.legislation.gov.uk/uksi/2019/745/regulation/32/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00019]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21)
 
-[^key-2ca1f598474ad51119617de5f829db5a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/547/regulation/11) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-2ca1f598474ad51119617de5f829db5a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2005/547/regulation/11) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
 [^f00020]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32)
 
-[^key-061afe520c0c9ae0ca948cf6f5c287c6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/547/regulation/12) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-061afe520c0c9ae0ca948cf6f5c287c6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2005/547/regulation/12) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-fea7d82115367dac9581ed2da48cb091]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/547/regulation/13) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-fea7d82115367dac9581ed2da48cb091]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2005/547/regulation/13) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-e168fa29cfa42d90650e111ec26d3d5b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/547/regulation/14) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-e168fa29cfa42d90650e111ec26d3d5b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2005/547/regulation/14) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-af44a28a22e67817e249aad2f33d5d25]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/547/regulation/15) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-af44a28a22e67817e249aad2f33d5d25]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2005/547/regulation/15) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
 [^f00021]: Footnote: [S.R. 2000 No. 315](https://www.legislation.gov.uk/nisr/2000/315)
 
@@ -1061,75 +1061,75 @@ Regulation 3 of the 1996 Regulations (which provided for the authorised establis
 
 [^f00024]: Footnote: [S.R. 2000 No. 317](https://www.legislation.gov.uk/nisr/2000/317)
 
-[^key-50cf1d6ecd9556367b86bb56e5983404]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/547/regulation/16) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-50cf1d6ecd9556367b86bb56e5983404]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2005/547/regulation/16) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-6860c3ebc16d5b59bb82f8e4788c93f7]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/547/regulation/17) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-6860c3ebc16d5b59bb82f8e4788c93f7]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2005/547/regulation/17) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-439146e3a9affa11923fa8851738f680]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/547/regulation/18) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-439146e3a9affa11923fa8851738f680]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/547/regulation/18) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-953c18c69e9456e85939e1b5e0de2c69]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/547/regulation/19) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-953c18c69e9456e85939e1b5e0de2c69]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2005/547/regulation/19) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
 [^f00025]: Footnote: S.I. [1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341)
 
-[^key-5b18b74cea4ed793dce146233310da62]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/nisr/2005/547/regulation/19A) inserted (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [3(4)](https://www.legislation.gov.uk/nisr/2008/325/regulation/3/4)
+[^c-5b18b74cea4ed793dce146233310da62]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/nisr/2005/547/regulation/19A) inserted (1.9.2008) by [Police (Testing for Substance Misuse) Regulations (Northern Ireland) 2008 (S.R. 2008/325)](https://www.legislation.gov.uk/nisr/2008/325), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/325/regulation/1/2), [3(4)](https://www.legislation.gov.uk/nisr/2008/325/regulation/3/4)
 
-[^key-c256c6c476ea99e09bb94f09ff5d19c2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2005/547/regulation/20) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-c256c6c476ea99e09bb94f09ff5d19c2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2005/547/regulation/20) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-cd85896060e2002227c640925a89c93e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2005/547/regulation/21) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-cd85896060e2002227c640925a89c93e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2005/547/regulation/21) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-e87860e0b0e8a92f041c92d67dfebc68]: Textual amendment: Words in [reg. 21(1)(f)](https://www.legislation.gov.uk/nisr/2005/547/regulation/21/1/f) substituted (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [53(6)](https://www.legislation.gov.uk/nisr/2016/49/regulation/53/6) (with [reg. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1))
+[^c-e87860e0b0e8a92f041c92d67dfebc68]: Textual amendment: Words in [reg. 21(1)(f)](https://www.legislation.gov.uk/nisr/2005/547/regulation/21/1/f) substituted (28.2.2016) by [The Working Time Regulations (Northern Ireland) 2016 (S.R. 2016/49)](https://www.legislation.gov.uk/nisr/2016/49), [regs. 1](https://www.legislation.gov.uk/nisr/2016/49/regulation/1), [53(6)](https://www.legislation.gov.uk/nisr/2016/49/regulation/53/6) (with [reg. 22(1)](https://www.legislation.gov.uk/nisr/2016/49/regulation/22/1))
 
-[^key-597b865ac34ba6bdeec1089d74a06e80]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2005/547/regulation/22) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-597b865ac34ba6bdeec1089d74a06e80]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2005/547/regulation/22) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-ea7f956e5d366c0e60e30d4d3e989935]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2005/547/regulation/23) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-ea7f956e5d366c0e60e30d4d3e989935]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2005/547/regulation/23) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-50bc98c781b90aed6d371b6e150d11ae]: Textual amendment: [Reg. 23(3)(f)](https://www.legislation.gov.uk/nisr/2005/547/regulation/23/3/f) substituted (retrospective to 5.10.2008) by [The Police Service of Northern Ireland (Amendment) Regulations 2015 (S.R. 2015/419)](https://www.legislation.gov.uk/nisr/2015/419), [regs. 1](https://www.legislation.gov.uk/nisr/2015/419/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2015/419/regulation/2/2/a)
+[^c-50bc98c781b90aed6d371b6e150d11ae]: Textual amendment: [Reg. 23(3)(f)](https://www.legislation.gov.uk/nisr/2005/547/regulation/23/3/f) substituted (retrospective to 5.10.2008) by [The Police Service of Northern Ireland (Amendment) Regulations 2015 (S.R. 2015/419)](https://www.legislation.gov.uk/nisr/2015/419), [regs. 1](https://www.legislation.gov.uk/nisr/2015/419/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2015/419/regulation/2/2/a)
 
-[^key-27b04773ab07715a8a37963a4e1fcad9]: Textual amendment: Word in [reg. 23(3)(g)](https://www.legislation.gov.uk/nisr/2005/547/regulation/23/3/g) substituted (retrospective to 5.10.2008) by [The Police Service of Northern Ireland (Amendment) Regulations 2015 (S.R. 2015/419)](https://www.legislation.gov.uk/nisr/2015/419), [regs. 1](https://www.legislation.gov.uk/nisr/2015/419/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2015/419/regulation/2/2/b)
+[^c-27b04773ab07715a8a37963a4e1fcad9]: Textual amendment: Word in [reg. 23(3)(g)](https://www.legislation.gov.uk/nisr/2005/547/regulation/23/3/g) substituted (retrospective to 5.10.2008) by [The Police Service of Northern Ireland (Amendment) Regulations 2015 (S.R. 2015/419)](https://www.legislation.gov.uk/nisr/2015/419), [regs. 1](https://www.legislation.gov.uk/nisr/2015/419/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2015/419/regulation/2/2/b)
 
-[^key-1bdba4baa3ff656e78cf1a9abe36028f]: Textual amendment: [Reg. 23(3)(h)](https://www.legislation.gov.uk/nisr/2005/547/regulation/23/3/h) substituted (retrospective to 5.10.2008) by [The Police Service of Northern Ireland (Amendment) Regulations 2015 (S.R. 2015/419)](https://www.legislation.gov.uk/nisr/2015/419), [regs. 1](https://www.legislation.gov.uk/nisr/2015/419/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2015/419/regulation/2/2/c)
+[^c-1bdba4baa3ff656e78cf1a9abe36028f]: Textual amendment: [Reg. 23(3)(h)](https://www.legislation.gov.uk/nisr/2005/547/regulation/23/3/h) substituted (retrospective to 5.10.2008) by [The Police Service of Northern Ireland (Amendment) Regulations 2015 (S.R. 2015/419)](https://www.legislation.gov.uk/nisr/2015/419), [regs. 1](https://www.legislation.gov.uk/nisr/2015/419/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2015/419/regulation/2/2/c)
 
-[^key-385ccd6d6cb76b97232603c2162b3811]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2005/547/regulation/24) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-385ccd6d6cb76b97232603c2162b3811]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2005/547/regulation/24) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-3a0de12e645c0d9b1abafe50829968bf]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2005/547/regulation/25) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-3a0de12e645c0d9b1abafe50829968bf]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2005/547/regulation/25) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-b09cfb05d64d8bbf905b68fe51af51ce]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2005/547/regulation/26) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-b09cfb05d64d8bbf905b68fe51af51ce]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2005/547/regulation/26) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-5d41590c6b27b2683c8bc488a6c18f90]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2005/547/regulation/27) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-5d41590c6b27b2683c8bc488a6c18f90]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2005/547/regulation/27) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-6febee10f2f723e27c6075e443e3e0bb]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2005/547/regulation/28) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-6febee10f2f723e27c6075e443e3e0bb]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2005/547/regulation/28) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-720dff3f6f2f986ae9cf85e4a1ea9cc2]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2005/547/regulation/29) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-720dff3f6f2f986ae9cf85e4a1ea9cc2]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2005/547/regulation/29) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-a57e7f4a3980f1797fd04a2de87249c4]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2005/547/regulation/30) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-a57e7f4a3980f1797fd04a2de87249c4]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2005/547/regulation/30) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
 [^f00027]: Footnote: S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)
 
 [^f00028]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
-[^key-48d9f502fd82eba3ab1a0ec3536360b6]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2005/547/regulation/31) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-48d9f502fd82eba3ab1a0ec3536360b6]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2005/547/regulation/31) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-8ec711f4a3e196737ca1b668824d28b7]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2005/547/regulation/32) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-8ec711f4a3e196737ca1b668824d28b7]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2005/547/regulation/32) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-e4a1900bfe9dbc2063c6c8a78950dfd3]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2005/547/regulation/33) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-e4a1900bfe9dbc2063c6c8a78950dfd3]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2005/547/regulation/33) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-99cf3724ff622c2227f167b025d2052e]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2005/547/regulation/34) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-99cf3724ff622c2227f167b025d2052e]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2005/547/regulation/34) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-8c8b5fc5f489b0751a8fa0cd6ebb5809]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2005/547/regulation/35) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-8c8b5fc5f489b0751a8fa0cd6ebb5809]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2005/547/regulation/35) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-74bf7dd9f3af7cef35598e00e6de8c45]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2005/547/regulation/36) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-74bf7dd9f3af7cef35598e00e6de8c45]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2005/547/regulation/36) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-1929f90eaa39f2b175965675c758065e]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2005/547/regulation/37) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-1929f90eaa39f2b175965675c758065e]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2005/547/regulation/37) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-bf2983f2d266ebe137da3cfc7b99c2f3]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2005/547/regulation/38) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-bf2983f2d266ebe137da3cfc7b99c2f3]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2005/547/regulation/38) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-99edd05844988d6093b22bbb9a5e3846]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2005/547/regulation/39) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-99edd05844988d6093b22bbb9a5e3846]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2005/547/regulation/39) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-b1889cbf6ac07adc2eda47221999c0ea]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2005/547/regulation/40) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-b1889cbf6ac07adc2eda47221999c0ea]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2005/547/regulation/40) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-347662a48868fc7e1d18b1b4c8d5374b]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2005/547/regulation/41) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-347662a48868fc7e1d18b1b4c8d5374b]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2005/547/regulation/41) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-0c67fd56a1d58f77f1121c0c0e040ca8]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2005/547/regulation/42) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-0c67fd56a1d58f77f1121c0c0e040ca8]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2005/547/regulation/42) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
 [^f00029]: Footnote: [1987 c. 4](https://www.legislation.gov.uk/ukpga/1987/4)
 
@@ -1141,11 +1141,11 @@ Regulation 3 of the 1996 Regulations (which provided for the authorised establis
 
 [^f00033]: Footnote: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27)
 
-[^key-789c000075987226c7c3f338783b6c72]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2005/547/regulation/43) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-789c000075987226c7c3f338783b6c72]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2005/547/regulation/43) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
 [^f00034]: Footnote: [1982 c. 36](https://www.legislation.gov.uk/ukpga/1982/36)
 
-[^key-9ae038659ca3f7a65ec4adf39524d852]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2005/547/regulation/44) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-9ae038659ca3f7a65ec4adf39524d852]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2005/547/regulation/44) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
 [^f00035]: Footnote: [1948 c. 56](https://www.legislation.gov.uk/ukpga/1948/56)
 
@@ -1155,19 +1155,19 @@ Regulation 3 of the 1996 Regulations (which provided for the authorised establis
 
 [^f00038]: Footnote: S.I. [1987/257](https://www.legislation.gov.uk/uksi/1987/257)
 
-[^key-8cc92eca804cfc69314f22215a548c07]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2005/547/regulation/45) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-8cc92eca804cfc69314f22215a548c07]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2005/547/regulation/45) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-6d4fc9ecb771c3dda874f878d6cb7182]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2005/547/regulation/46) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-6d4fc9ecb771c3dda874f878d6cb7182]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2005/547/regulation/46) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-e6b73161f307e58bffffa87ec06a8b2e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/547/schedule/1/paragraph/1) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-e6b73161f307e58bffffa87ec06a8b2e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2005/547/schedule/1/paragraph/1) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-895cb4e8abe4c38a72f4d4fc324f1484]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/547/schedule/1/paragraph/2) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-895cb4e8abe4c38a72f4d4fc324f1484]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2005/547/schedule/1/paragraph/2) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-84927b50dee2691afa98d426bcc1fe09]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/547/schedule/1/paragraph/3) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-84927b50dee2691afa98d426bcc1fe09]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2005/547/schedule/1/paragraph/3) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-0bf7c560588314c4c43fadf7c7918f61]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2005/547/schedule/1/paragraph/4) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-0bf7c560588314c4c43fadf7c7918f61]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2005/547/schedule/1/paragraph/4) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-849bab20a6df848cb7693b0d549792f0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/547/schedule/2/paragraph/1) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-849bab20a6df848cb7693b0d549792f0]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2005/547/schedule/2/paragraph/1) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
 [^f00039]: Footnote: S.I. [1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341)
 
@@ -1177,36 +1177,36 @@ Regulation 3 of the 1996 Regulations (which provided for the authorised establis
 
 [^f00042]: Footnote: S.I. [1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994)
 
-[^key-c22f47c72f069e968dc5939553b884fb]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/547/schedule/2/paragraph/2) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-c22f47c72f069e968dc5939553b884fb]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2005/547/schedule/2/paragraph/2) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
 [^f00043]: Footnote: [S.R. 1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisr/1996/1320)
 
-[^key-f19607cdf89a805c2cbaa36c505c5812]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2005/547/schedule/3/paragraph/1) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-f19607cdf89a805c2cbaa36c505c5812]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2005/547/schedule/3/paragraph/1) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
 [^f00044]: Footnote: [1953 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1953/18)
 
-[^key-60fba78d86d76b2aac9b33a141314251]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2005/547/schedule/3/paragraph/2) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-60fba78d86d76b2aac9b33a141314251]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2005/547/schedule/3/paragraph/2) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-7732baed9918f8896578d4bf5a6fb974]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2005/547/schedule/3/paragraph/3) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-7732baed9918f8896578d4bf5a6fb974]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2005/547/schedule/3/paragraph/3) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-63b8800ed6c455699912a64cfd6b240c]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2005/547/schedule/3/paragraph/4) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-63b8800ed6c455699912a64cfd6b240c]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2005/547/schedule/3/paragraph/4) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-c0d3a77a800ff7c887ecee6d92d8a765]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/1) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-c0d3a77a800ff7c887ecee6d92d8a765]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/1) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
 [^f00045]: Footnote: [S.R. 1984 No. 62](https://www.legislation.gov.uk/nisr/1984/62)
 
-[^key-b82001a44e9faeda91d01749de1f63b5]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/2) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-b82001a44e9faeda91d01749de1f63b5]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/2) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
 [^f00046]: Footnote: By [S.R. 1994 No. 331](https://www.legislation.gov.uk/nisr/1994/331)
 
-[^key-e4dc8bd703a1798dca04e90ae9ff2713]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/3) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-e4dc8bd703a1798dca04e90ae9ff2713]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/3) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-3c02181cfb3d515c9fe9e51e028d9ef7]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/4) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-3c02181cfb3d515c9fe9e51e028d9ef7]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/4) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-40fb99a69d4fc5552a5f034ec6ce387e]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/5) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-40fb99a69d4fc5552a5f034ec6ce387e]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/5) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-3d75e7e5ea33df0bd6309aca4e45263a]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/6) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-3d75e7e5ea33df0bd6309aca4e45263a]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/6) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-253311a10baa118acd6fee80634ce4a3]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/7) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-253311a10baa118acd6fee80634ce4a3]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/7) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
 
-[^key-ed0477cd8aa8f26e8c8ea8b98a485307]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/8) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-ed0477cd8aa8f26e8c8ea8b98a485307]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/nisr/2005/547/schedule/4/paragraph/8) in operation at 13.1.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)

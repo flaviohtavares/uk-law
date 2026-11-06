@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Dual entitlement[^key-df48e07baaa808ecb045bd2b88a4c262]
+## 56. Dual entitlement[^c-df48e07baaa808ecb045bd2b88a4c262]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In section 1 of the Welfare Reform Act (Northern Ireland) 2007 (employment and s
 
 ## Annotations
 
-[^key-df48e07baaa808ecb045bd2b88a4c262]: Commencement: [Art. 56](https://www.legislation.gov.uk/nisi/2015/2006/article/56) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(2)(b)(i)](https://www.legislation.gov.uk/nisr/2016/46/article/3/2/b/i)
+[^c-df48e07baaa808ecb045bd2b88a4c262]: Commencement: [Art. 56](https://www.legislation.gov.uk/nisi/2015/2006/article/56) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(2)(b)(i)](https://www.legislation.gov.uk/nisr/2016/46/article/3/2/b/i)

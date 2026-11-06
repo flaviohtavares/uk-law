@@ -31,7 +31,7 @@ summary: ''
 
 RADIOACTIVE SUBSTANCES, ENGLAND AND WALES
 
-The Radioactive Substances (Clocks and Watches) (England and Wales) Regulations 2001 (revoked)[^key-72a8d457610e88e4a0255ef04a6a931e]
+The Radioactive Substances (Clocks and Watches) (England and Wales) Regulations 2001 (revoked)[^c-72a8d457610e88e4a0255ef04a6a931e]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 14th January 2002
 
-[^key-72a8d457610e88e4a0255ef04a6a931e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72a8d457610e88e4a0255ef04a6a931e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-72a8d457610e88e4a0255ef04a6a931e]
+## 1. Citation, commencement and extent[^c-72a8d457610e88e4a0255ef04a6a931e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Radioactive Substances Act 1993[^key-72a8d457610e88e4a0255ef04a6a931e]
+## 2. Amendment of the Radioactive Substances Act 1993[^c-72a8d457610e88e4a0255ef04a6a931e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72a8d457610e88e4a0255ef04a6a931e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72a8d457610e88e4a0255ef04a6a931e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-72a8d457610e88e4a0255ef04a6a931e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72a8d457610e88e4a0255ef04a6a931e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-72a8d457610e88e4a0255ef04a6a931e]: Textual amendment: Regulations revoked (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [19](https://www.legislation.gov.uk/uksi/2011/2043/regulation/19)
+[^c-72a8d457610e88e4a0255ef04a6a931e]: Textual amendment: Regulations revoked (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [19](https://www.legislation.gov.uk/uksi/2011/2043/regulation/19)

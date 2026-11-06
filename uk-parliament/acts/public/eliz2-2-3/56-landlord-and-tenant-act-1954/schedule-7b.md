@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule 7B — Arrangements for renewal of tenancies: prohibited terms[^key-558e9d888b9fa4808bcda8b403b0843f]
+## Schedule 7B — Arrangements for renewal of tenancies: prohibited terms[^c-558e9d888b9fa4808bcda8b403b0843f]
 
 *Extent: E+W*
 
@@ -150,4 +150,4 @@ In this Schedule, in relation to a tenancy—
 
 ## Annotations
 
-[^key-558e9d888b9fa4808bcda8b403b0843f]: Textual amendment: Sch. 7B inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 37 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/37/paragraph/2)
+[^c-558e9d888b9fa4808bcda8b403b0843f]: Textual amendment: Sch. 7B inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6), [Sch. 37 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/37/paragraph/2)

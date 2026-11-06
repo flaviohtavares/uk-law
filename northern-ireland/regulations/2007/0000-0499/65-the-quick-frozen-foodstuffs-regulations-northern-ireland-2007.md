@@ -94,7 +94,7 @@ No person shall place any quick-frozen foodstuff intended for the ultimate consu
 - (a) it has been packed by its manufacturer or packer in such prepackaging as is suitable to protect it from microbial and other forms of external contamination and against dehydration; and *(affected by repeal, see note)*[^M_F_1159ceb3-5dff-46bb-d1f8-e267bde76ec2]
 - (b) the quick-frozen foodstuff has remained in such prepackaging up to the time of placing on the market. *(affected by repeal, see note)*[^M_F_1159ceb3-5dff-46bb-d1f8-e267bde76ec2]
 
-## 5. Labelling of quick-frozen foodstuffs[^key-ad40b132254ad879d8843693edf83181]
+## 5. Labelling of quick-frozen foodstuffs[^c-ad40b132254ad879d8843693edf83181]
 
 (1) The description “quick-frozen” or any other description listed in Article 8.1(a) of Directive 89/108 shall not be used in the labelling for the purpose of placing on the market of—
 
@@ -116,7 +116,7 @@ No person shall place any quick-frozen foodstuff intended for the ultimate consu
 (3) Any other quick-frozen foodstuff shall, in addition to the description “quick-frozen” (and, as the supplier may see fit, any other description listed in Article 8.1(a) of Directive 89/108) added to its sales name, be marked or labelled on its packaging, container or wrapping, or on a label attached thereto, with-
 
 - (a) a reference allowing identification of the batch to which it belongs; and
-- (b) the name or business name and address of the manufacturer or packer, or of a person established within the European Union[^key-e915449bcc39ca1e2b3004334be258a1] who places that foodstuff on the market.
+- (b) the name or business name and address of the manufacturer or packer, or of a person established within the European Union[^c-e915449bcc39ca1e2b3004334be258a1] who places that foodstuff on the market.
 
 (4) No person shall place on the market any food intended for the ultimate consumer or any catering establishment where its labelling or marking contravenes paragraph (1) or (2) and no person shall place on the market any food intended for any other person where its labelling or marking contravenes paragraph (1) or (3).
 
@@ -290,9 +290,9 @@ The Directives implemented by the *(affected by repeal, see note)*[^M_F_1159ceb3
 
 [^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-ad40b132254ad879d8843693edf83181]: Commencement: Reg. 5 in operation at 1.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/65/regulation/1)
+[^c-ad40b132254ad879d8843693edf83181]: Commencement: Reg. 5 in operation at 1.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/65/regulation/1)
 
-[^key-e915449bcc39ca1e2b3004334be258a1]: Textual amendment: Words in Rule substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+[^c-e915449bcc39ca1e2b3004334be258a1]: Textual amendment: Words in Rule substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
 [^f00012]: Footnote: Article 20 was amended by [S.R. 2004 No.505](https://www.legislation.gov.uk/nisr/2004/505)
 

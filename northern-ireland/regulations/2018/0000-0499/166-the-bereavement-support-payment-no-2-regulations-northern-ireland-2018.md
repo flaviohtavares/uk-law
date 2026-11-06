@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Bereavement Support Payment (No.2) Regulations (Northern Ireland) 2018 (revoked)[^key-2b37d3ec1a3000ac0dffc5ccee80bd46]
+The Bereavement Support Payment (No.2) Regulations (Northern Ireland) 2018 (revoked)[^c-2b37d3ec1a3000ac0dffc5ccee80bd46]
 
 Made
 
@@ -42,52 +42,52 @@ Coming into operation
 
 3rd October 2018
 
-[^key-2b37d3ec1a3000ac0dffc5ccee80bd46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b37d3ec1a3000ac0dffc5ccee80bd46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2b37d3ec1a3000ac0dffc5ccee80bd46]
+## 1. Citation and commencement[^c-2b37d3ec1a3000ac0dffc5ccee80bd46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Period for which bereavement support payment is payable[^key-2b37d3ec1a3000ac0dffc5ccee80bd46]
+## 2. Period for which bereavement support payment is payable[^c-2b37d3ec1a3000ac0dffc5ccee80bd46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Rate of bereavement support payment[^key-2b37d3ec1a3000ac0dffc5ccee80bd46]
+## 3. Rate of bereavement support payment[^c-2b37d3ec1a3000ac0dffc5ccee80bd46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Persons entitled to the higher rate of bereavement support payment[^key-2b37d3ec1a3000ac0dffc5ccee80bd46]
+## 4. Persons entitled to the higher rate of bereavement support payment[^c-2b37d3ec1a3000ac0dffc5ccee80bd46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Persons entitled to the standard rate of bereavement support payment[^key-2b37d3ec1a3000ac0dffc5ccee80bd46]
+## 5. Persons entitled to the standard rate of bereavement support payment[^c-2b37d3ec1a3000ac0dffc5ccee80bd46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Prisoners who are not to be paid bereavement support payment[^key-2b37d3ec1a3000ac0dffc5ccee80bd46]
+## 6. Prisoners who are not to be paid bereavement support payment[^c-2b37d3ec1a3000ac0dffc5ccee80bd46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Paying bereavement support payment to persons who are remanded in custody[^key-2b37d3ec1a3000ac0dffc5ccee80bd46]
+## 7. Paying bereavement support payment to persons who are remanded in custody[^c-2b37d3ec1a3000ac0dffc5ccee80bd46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Territory in which a person may be entitled to bereavement support payment[^key-2b37d3ec1a3000ac0dffc5ccee80bd46]
+## 8. Territory in which a person may be entitled to bereavement support payment[^c-2b37d3ec1a3000ac0dffc5ccee80bd46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocation[^key-2b37d3ec1a3000ac0dffc5ccee80bd46]
+## 9. Revocation[^c-2b37d3ec1a3000ac0dffc5ccee80bd46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2b37d3ec1a3000ac0dffc5ccee80bd46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b37d3ec1a3000ac0dffc5ccee80bd46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2b37d3ec1a3000ac0dffc5ccee80bd46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b37d3ec1a3000ac0dffc5ccee80bd46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2b37d3ec1a3000ac0dffc5ccee80bd46]: Textual amendment: Regulations revoked (1.4.2019) by [The Bereavement Support Payment Regulations (Northern Ireland) 2019 (S.R. 2019/72)](https://www.legislation.gov.uk/nisr/2019/72), [regs. 1](https://www.legislation.gov.uk/nisr/2019/72/regulation/1), [9](https://www.legislation.gov.uk/nisr/2019/72/regulation/9)
+[^c-2b37d3ec1a3000ac0dffc5ccee80bd46]: Textual amendment: Regulations revoked (1.4.2019) by [The Bereavement Support Payment Regulations (Northern Ireland) 2019 (S.R. 2019/72)](https://www.legislation.gov.uk/nisr/2019/72), [regs. 1](https://www.legislation.gov.uk/nisr/2019/72/regulation/1), [9](https://www.legislation.gov.uk/nisr/2019/72/regulation/9)

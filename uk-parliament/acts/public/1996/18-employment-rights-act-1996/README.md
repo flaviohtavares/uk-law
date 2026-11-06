@@ -33,7 +33,7 @@ Employment Rights Act 1996
 
 \[22nd May 1996\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-996b7754b5c673af175f88ca317907c3][^key-087954cb4eb2e674c937803b8a1a284c][^key-d56148f8f7c4cc1e323fb69edf95a95d][^key-4b86d91245e3c39622027b61ca569e39][^key-2c2bc67950b9383e9fc7c7411f2b30b1][^key-adeb54b187d49e21fb90916187a8d105][^key-1e64365f1b0f9f86c83947e07d282105]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-996b7754b5c673af175f88ca317907c3][^c-087954cb4eb2e674c937803b8a1a284c][^c-d56148f8f7c4cc1e323fb69edf95a95d][^c-4b86d91245e3c39622027b61ca569e39][^c-2c2bc67950b9383e9fc7c7411f2b30b1][^c-adeb54b187d49e21fb90916187a8d105][^c-1e64365f1b0f9f86c83947e07d282105]
 
 ## Contents
 
@@ -66,7 +66,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 11 — References to employment tribunals.](part-i/section-11.md)
 - [Section 12 — Determination of references.](part-i/section-12.md)
 
-### Part II — Protection of wages[^c16324711][^key-3ab9df45e97819249386b6ff67f8fa95]
+### Part II — Protection of wages[^c16324711][^c-3ab9df45e97819249386b6ff67f8fa95]
 
 *Extent: E+W+S*
 
@@ -100,16 +100,16 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 27 — Meaning of “wages” etc.](part-ii/section-27.md)
 
-### PART 2A — Zero hours workers and similar[^key-3b2d6785ef50f2f2030c118e7cb57e40][^key-8eebfaccdcb1b946223a3cc1482e5a68]
+### PART 2A — Zero hours workers and similar[^c-3b2d6785ef50f2f2030c118e7cb57e40][^c-8eebfaccdcb1b946223a3cc1482e5a68]
 
-#### Chapter 1 — Exclusivity terms and other restrictions[^key-e38ee4ff6af402e19860ba343d328a6c][^key-3b2d6785ef50f2f2030c118e7cb57e40]
+#### Chapter 1 — Exclusivity terms and other restrictions[^c-e38ee4ff6af402e19860ba343d328a6c][^c-3b2d6785ef50f2f2030c118e7cb57e40]
 
 - [Section 27A — Exclusivity terms unenforceable in zero hours contracts](part-2a/section-27a.md)
 - [Section 27B — Power to make further provision in relation to zero hours workers](part-2a/section-27b.md)
 
-#### Chapter 2 — Right to guaranteed hours[^key-7b0e53df043b0c8fd787bc4f98fd8c59]
+#### Chapter 2 — Right to guaranteed hours[^c-7b0e53df043b0c8fd787bc4f98fd8c59]
 
-##### Guaranteed hours offers[^key-7b0e53df043b0c8fd787bc4f98fd8c59]
+##### Guaranteed hours offers[^c-7b0e53df043b0c8fd787bc4f98fd8c59]
 
 - [Section 27BA — Right for qualifying workers to be offered guaranteed hours](part-2a/section-27ba.md)
 - [Section 27BB — Requirements relating to a guaranteed hours offer](part-2a/section-27bb.md)
@@ -117,17 +117,17 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 27BD — Guaranteed hours offer: exceptions to duty to make offer and withdrawal of offer](part-2a/section-27bd.md)
 - [Section 27BE — Acceptance or rejection of a guaranteed hours offer](part-2a/section-27be.md)
 
-##### Information[^key-7b0e53df043b0c8fd787bc4f98fd8c59]
+##### Information[^c-7b0e53df043b0c8fd787bc4f98fd8c59]
 
 - [Section 27BF — Information about rights conferred by Chapter 2](part-2a/section-27bf.md)
 
-##### Enforcement[^key-7b0e53df043b0c8fd787bc4f98fd8c59]
+##### Enforcement[^c-7b0e53df043b0c8fd787bc4f98fd8c59]
 
 - [Section 27BG — Complaints to employment tribunals: grounds](part-2a/section-27bg.md)
 - [Section 27BH — Complaints to employment tribunals: time limits](part-2a/section-27bh.md)
 - [Section 27BI — Remedies](part-2a/section-27bi.md)
 
-#### Chapter 3 — Shifts: rights to reasonable notice[^key-294e3996e9c951ddc3f3282c81d192d6]
+#### Chapter 3 — Shifts: rights to reasonable notice[^c-294e3996e9c951ddc3f3282c81d192d6]
 
 - [Section 27BJ — Right to reasonable notice of a shift](part-2a/section-27bj.md)
 - [Section 27BK — Right to reasonable notice of cancellation of or change to a shift](part-2a/section-27bk.md)
@@ -136,7 +136,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 27BN — Complaints to employment tribunals](part-2a/section-27bn.md)
 - [Section 27BO — Remedies](part-2a/section-27bo.md)
 
-#### Chapter 4 — Right to payment for cancelled, moved and curtailed shifts[^key-cad96b73b0feb036a3778be3d0495cc4]
+#### Chapter 4 — Right to payment for cancelled, moved and curtailed shifts[^c-cad96b73b0feb036a3778be3d0495cc4]
 
 - [Section 27BP — Right to payment for a cancelled, moved or curtailed shift](part-2a/section-27bp.md)
 - [Section 27BQ — Regulations under section 27BP: supplementary](part-2a/section-27bq.md)
@@ -145,11 +145,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 27BT — Complaints to employment tribunal](part-2a/section-27bt.md)
 - [Section 27BU — Remedies](part-2a/section-27bu.md)
 
-#### Chapter 5 — Agency workers: guaranteed hours and rights relating to shifts[^key-1efaf94c2cacce81e29409130203b79b]
+#### Chapter 5 — Agency workers: guaranteed hours and rights relating to shifts[^c-1efaf94c2cacce81e29409130203b79b]
 
 - [Section 27BV — Agency workers](part-2a/section-27bv.md)
 
-#### Chapter 6 — Collective agreements: contracting out[^key-5cb99d517e3508851053b8c5ede286ec]
+#### Chapter 6 — Collective agreements: contracting out[^c-5cb99d517e3508851053b8c5ede286ec]
 
 - [Section 27BW — Zero hours workers, etc](part-2a/section-27bw.md)
 - [Section 27BX — Agency workers](part-2a/section-27bx.md)
@@ -157,16 +157,16 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 27BZ — Regulations](part-2a/section-27bz.md)
 - [Section 27BZ1 — Interpretation](part-2a/section-27bz1.md)
 
-#### Chapter 7 — General[^key-76426413c0024c6be87e78d7a6d72034]
+#### Chapter 7 — General[^c-76426413c0024c6be87e78d7a6d72034]
 
 - [Section 27BZ2 — Interpretation](part-2a/section-27bz2.md)
 - [Section 27BZ3 — Regulations](part-2a/section-27bz3.md)
 
-### PART 2B — TIPS, GRATUITIES AND SERVICE CHARGES[^key-2c2bc67950b9383e9fc7c7411f2b30b1]
+### PART 2B — TIPS, GRATUITIES AND SERVICE CHARGES[^c-2c2bc67950b9383e9fc7c7411f2b30b1]
 
 *Extent: E+W+S*
 
-#### Requirement to deal with tips, gratuities and service charges[^key-2c2bc67950b9383e9fc7c7411f2b30b1]
+#### Requirement to deal with tips, gratuities and service charges[^c-2c2bc67950b9383e9fc7c7411f2b30b1]
 
 *Extent: E+W+S*
 
@@ -177,14 +177,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 27G — When tips etc must be dealt with](part-2b/section-27g.md)
 - [Section 27H — Agency workers](part-2b/section-27h.md)
 
-#### Information[^key-e6f3baccee33ce02eeaa126db4e60b8d]
+#### Information[^c-e6f3baccee33ce02eeaa126db4e60b8d]
 
 *Extent: E+W+S*
 
 - [Section 27I — Written policy](part-2b/section-27i.md)
 - [Section 27J — Records](part-2b/section-27j.md)
 
-#### Enforcement[^key-5a6fbdeae32e6954ef0f0f9eacf5c885]
+#### Enforcement[^c-5a6fbdeae32e6954ef0f0f9eacf5c885]
 
 *Extent: E+W+S*
 
@@ -194,7 +194,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 27N — Complaints to employment tribunal about information](part-2b/section-27n.md)
 - [Section 27O — Determination of complaints about information](part-2b/section-27o.md)
 
-#### Code of practice about tips etc[^key-b0afb24909bdc5b5a1d05d82a2fab1bf]
+#### Code of practice about tips etc[^c-b0afb24909bdc5b5a1d05d82a2fab1bf]
 
 *Extent: E+W+S*
 
@@ -204,7 +204,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 27S — Revocation of code of practice](part-2b/section-27s.md)
 - [Section 27T — Failure to comply with code of practice](part-2b/section-27t.md)
 
-#### General[^key-9db6907f4ff66a7f9b5ef5b39c3be608]
+#### General[^c-9db6907f4ff66a7f9b5ef5b39c3be608]
 
 *Extent: E+W+S*
 
@@ -303,13 +303,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 49A — Application to police of section 44 and related provisions.](part-v/section-49a.md)
 
-### PART 5A — Protection for applicants for employment etc in the health service[^key-6d90fd999ec8cd9b0cbc8daadcaba1c6]
+### PART 5A — Protection for applicants for employment etc in the health service[^c-6d90fd999ec8cd9b0cbc8daadcaba1c6]
 
 *Extent: E+W+S*
 
 - [Section 49B — Regulations prohibiting discrimination because of protected disclosure](part-5a/section-49b.md)
 
-### PART 5B — Redundancy or dismissal during a protected period of pregnancy[^key-51d20901f6232839ffa0f1659fdc7061][^key-42a89bdb0c2984da0164b100bf5f506d]
+### PART 5B — Redundancy or dismissal during a protected period of pregnancy[^c-51d20901f6232839ffa0f1659fdc7061][^c-42a89bdb0c2984da0164b100bf5f506d]
 
 *Extent: E+W+S*
 
@@ -346,25 +346,25 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 57ZC — Complaint to employment tribunal: agency workers](part-vi/section-57zc.md)
 - [Section 57ZD — Agency workers: supplementary](part-vi/section-57zd.md)
 
-#### Accompanying to ante-natal appointments[^key-9b9a5b4d863f0ab222e6f5c0e622878a]
+#### Accompanying to ante-natal appointments[^c-9b9a5b4d863f0ab222e6f5c0e622878a]
 
 - [Section 57ZE — Right to time off to accompany to ante-natal appointment](part-vi/section-57ze.md)
 - [Section 57ZF — Complaint to employment tribunal](part-vi/section-57zf.md)
 
-#### Accompanying to ante-natal appointments: agency workers[^key-9b9a5b4d863f0ab222e6f5c0e622878a]
+#### Accompanying to ante-natal appointments: agency workers[^c-9b9a5b4d863f0ab222e6f5c0e622878a]
 
 - [Section 57ZG — Right to time off to accompany to ante-natal appointment: agency workers](part-vi/section-57zg.md)
 - [Section 57ZH — Complaint to employment tribunal: agency workers](part-vi/section-57zh.md)
 - [Section 57ZI — Agency workers: supplementary](part-vi/section-57zi.md)
 
-#### Adoption appointments[^key-ba5989c0e9dfaa4fed1f7d4e67cffb7a]
+#### Adoption appointments[^c-ba5989c0e9dfaa4fed1f7d4e67cffb7a]
 
 - [Section 57ZJ — Right to paid time off to attend adoption appointments](part-vi/section-57zj.md)
 - [Section 57ZK — Right to remuneration for time off under section 57ZJ](part-vi/section-57zk.md)
 - [Section 57ZL — Right to unpaid time off to attend adoption appointments](part-vi/section-57zl.md)
 - [Section 57ZM — Complaint to employment tribunal](part-vi/section-57zm.md)
 
-#### Adoption appointments: agency workers[^key-ba5989c0e9dfaa4fed1f7d4e67cffb7a]
+#### Adoption appointments: agency workers[^c-ba5989c0e9dfaa4fed1f7d4e67cffb7a]
 
 - [Section 57ZN — Right to paid time off to attend adoption appointments: agency workers](part-vi/section-57zn.md)
 - [Section 57ZO — Right to remuneration for time off under section 57ZN](part-vi/section-57zo.md)
@@ -458,7 +458,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 75C — Redundancy and dismissal](part-viii/section-75c.md)
 - [Section 75D — Chapter 1A: supplemental](part-viii/section-75d.md)
 
-#### CHAPTER 1B — Shared parental leave[^key-f5326a98436c073f4f2dd56b980eecd7][^c16328681]
+#### CHAPTER 1B — Shared parental leave[^c-f5326a98436c073f4f2dd56b980eecd7][^c16328681]
 
 - [Section 75E — Entitlement to shared parental leave: birth](part-viii/section-75e.md)
 - [Section 75F — Entitlement to leave under section 75E: further provision](part-viii/section-75f.md)
@@ -488,7 +488,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 80D — Special cases](part-viii/section-80d.md)
 - [Section 80E — Chapter 3: supplemental](part-viii/section-80e.md)
 
-#### CHAPTER 4 — Parental bereavement leave (affected by repeal, see note) Bereavement leave[^key-d6229adb87d5ab82e6a0827e471fdb56][^key-86455e89b7359e9d7a9ce7dcf3b98e6e]
+#### CHAPTER 4 — Parental bereavement leave (affected by repeal, see note) Bereavement leave[^c-d6229adb87d5ab82e6a0827e471fdb56][^c-86455e89b7359e9d7a9ce7dcf3b98e6e]
 
 *Extent: E+W+S*
 
@@ -498,7 +498,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 80ED — Chapter 4: supplemental](part-viii/section-80ed.md)
 - [Section 80EE — Application in relation to stillbirths](part-viii/section-80ee.md)
 
-#### CHAPTER 5 — Neonatal care leave[^key-f2f67382e57dfab54c8872a427de32dc]
+#### CHAPTER 5 — Neonatal care leave[^c-f2f67382e57dfab54c8872a427de32dc]
 
 - [Section 80EF — Neonatal care leave](part-viii/section-80ef.md)
 - [Section 80EG — Rights during and after neonatal care leave](part-viii/section-80eg.md)
@@ -514,7 +514,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 80H — Complaints to employment tribunals](part-8a/section-80h.md)
 - [Section 80I — Remedies](part-8a/section-80i.md)
 
-### PART 8B — Carer’s leave[^key-ab35888fb65b24b10f2579d389355b3d]
+### PART 8B — Carer’s leave[^c-ab35888fb65b24b10f2579d389355b3d]
 
 - [Section 80J — Carer’s leave](part-8b/section-80j.md)
 - [Section 80K — Rights during and after carer’s leave](part-8b/section-80k.md)
@@ -540,11 +540,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 92 — Right to written statement of reasons for dismissal.](part-ix/section-92.md)
 - [Section 93 — Complaints to employment tribunal.](part-ix/section-93.md)
 
-### Part X — Unfair dismissal[^c16329041][^c16329051][^c20050281][^c20051101][^c20084351][^c20084371][^c20084391][^c20084411][^c20084431][^c20369851][^c20380191][^c20479321][^c20891011][^c20893231][^key-a727fa0b302feb3f999fcccc0411264a][^key-9ad78daa3a1f7d165610fecbeeb52328][^key-0a37f27771cc8f537ce1b0150af74921][^key-187c556191cd3653c69ad1ec6bf59b54][^key-cbba8b91d4ddee22161e3df9b76534bd][^key-8668f4727b8da87e7a6d89a8eb377abb][^key-98c55dc327614ea7f9a65869242cf2f2][^key-ea44a9c0c4e8aaf3c8f95cc8614d35d2]
+### Part X — Unfair dismissal[^c16329041][^c16329051][^c20050281][^c20051101][^c20084351][^c20084371][^c20084391][^c20084411][^c20084431][^c20369851][^c20380191][^c20479321][^c20891011][^c20893231][^c-a727fa0b302feb3f999fcccc0411264a][^c-9ad78daa3a1f7d165610fecbeeb52328][^c-0a37f27771cc8f537ce1b0150af74921][^c-187c556191cd3653c69ad1ec6bf59b54][^c-cbba8b91d4ddee22161e3df9b76534bd][^c-8668f4727b8da87e7a6d89a8eb377abb][^c-98c55dc327614ea7f9a65869242cf2f2][^c-ea44a9c0c4e8aaf3c8f95cc8614d35d2]
 
 *Extent: E+W+S*
 
-#### Chapter I — Right not to be unfairly dismissed[^key-8668f4727b8da87e7a6d89a8eb377abb]
+#### Chapter I — Right not to be unfairly dismissed[^c-8668f4727b8da87e7a6d89a8eb377abb]
 
 *Extent: E+W+S*
 
@@ -662,7 +662,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 134 — Teachers in aided schools.](part-x/section-134.md)
 - [Section 134A — Application to police.](part-x/section-134a.md)
 
-### Part XI — Redundancy payments etc.[^c16333011][^c16333021][^c20066601][^c20066611][^c20334821][^c20086321][^c20375351][^key-0392e2dcd2ac9940e3ffd702bc1f1546][^key-c927d7dc991961dcc31d9cfce2f24349]
+### Part XI — Redundancy payments etc.[^c16333011][^c16333021][^c20066601][^c20066611][^c20334821][^c20086321][^c20375351][^c-0392e2dcd2ac9940e3ffd702bc1f1546][^c-c927d7dc991961dcc31d9cfce2f24349]
 
 *Extent: E+W+S*
 
@@ -812,7 +812,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 202 — National security.](part-xiii/section-202.md)
 
-##### Harassment and discrimination: contractual duties of confidentiality[^key-ebf2b7f6e57d115c766efc34931dcf03]
+##### Harassment and discrimination: contractual duties of confidentiality[^c-ebf2b7f6e57d115c766efc34931dcf03]
 
 - [Section 202A — Contractual duties of confidentiality relating to harassment and discrimination](part-xiii/section-202a.md)
 
@@ -822,7 +822,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 204 — Law governing employment.](part-xiii/section-204.md)
 - [Section 205 — Remedy for infringement of certain rights.](part-xiii/section-205.md)
 
-##### Employee shareholder status[^key-306993471679c149e379059c61df0584]
+##### Employee shareholder status[^c-306993471679c149e379059c61df0584]
 
 - [Section 205A — Employee shareholders](part-xiii/section-205a.md)
 
@@ -1014,65 +1014,65 @@ SCHEDULES
 
 [^c21263381]: Modification: Act applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [regs. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1)
 
-[^key-996b7754b5c673af175f88ca317907c3]: Modification: Act excluded (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 5 para.](https://www.legislation.gov.uk/ukpga/2013/22/schedule/5/paragraph) 15(1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2013/22/paragraph/15/2/b); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(m)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/m)
+[^c-996b7754b5c673af175f88ca317907c3]: Modification: Act excluded (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 5 para.](https://www.legislation.gov.uk/ukpga/2013/22/schedule/5/paragraph) 15(1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2013/22/paragraph/15/2/b); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(m)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/m)
 
-[^key-087954cb4eb2e674c937803b8a1a284c]: Modification: Act applied (with modifications) (10.3.2020) by [The Parental Bereavement Leave Regulations 2020 (S.I. 2020/249)](https://www.legislation.gov.uk/uksi/2020/249), [regs. 1](https://www.legislation.gov.uk/uksi/2020/249/regulation/1), [15](https://www.legislation.gov.uk/uksi/2020/249/regulation/15) (with [reg. 2](https://www.legislation.gov.uk/uksi/2020/249/regulation/2))
+[^c-087954cb4eb2e674c937803b8a1a284c]: Modification: Act applied (with modifications) (10.3.2020) by [The Parental Bereavement Leave Regulations 2020 (S.I. 2020/249)](https://www.legislation.gov.uk/uksi/2020/249), [regs. 1](https://www.legislation.gov.uk/uksi/2020/249/regulation/1), [15](https://www.legislation.gov.uk/uksi/2020/249/regulation/15) (with [reg. 2](https://www.legislation.gov.uk/uksi/2020/249/regulation/2))
 
-[^key-d56148f8f7c4cc1e323fb69edf95a95d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/18) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-d56148f8f7c4cc1e323fb69edf95a95d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/18) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
-[^key-4b86d91245e3c39622027b61ca569e39]: Modification: Act applied (E.W.S.) (with modifications) (6.4.2024) by The Carer’s [Leave Regulations 2024 (S.I. 2024/251)](https://www.legislation.gov.uk/uksi/2024/251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/251/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2024/251/regulation/14) (with [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/251/regulation/2/1))
+[^c-4b86d91245e3c39622027b61ca569e39]: Modification: Act applied (E.W.S.) (with modifications) (6.4.2024) by The Carer’s [Leave Regulations 2024 (S.I. 2024/251)](https://www.legislation.gov.uk/uksi/2024/251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/251/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2024/251/regulation/14) (with [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/251/regulation/2/1))
 
-[^key-2c2bc67950b9383e9fc7c7411f2b30b1]: Textual amendment: Part 2B heading and s. 27C inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 1](https://www.legislation.gov.uk/ukpga/2023/13/section/1), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/a)
+[^c-2c2bc67950b9383e9fc7c7411f2b30b1]: Textual amendment: Part 2B heading and s. 27C inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 1](https://www.legislation.gov.uk/ukpga/2023/13/section/1), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/a)
 
-[^key-adeb54b187d49e21fb90916187a8d105]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/18) applied (with modifications) (6.4.2025) by [The Neonatal Care Leave and Miscellaneous Amendments Regulations 2025 (S.I. 2025/375)](https://www.legislation.gov.uk/uksi/2025/375), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/375/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2025/375/regulation/20)
+[^c-adeb54b187d49e21fb90916187a8d105]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/18) applied (with modifications) (6.4.2025) by [The Neonatal Care Leave and Miscellaneous Amendments Regulations 2025 (S.I. 2025/375)](https://www.legislation.gov.uk/uksi/2025/375), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/375/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2025/375/regulation/20)
 
-[^key-1e64365f1b0f9f86c83947e07d282105]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/18) applied (with modifications) (6.4.2026) by [The Bereaved Partner’s Paternity Leave Regulations 2026 (S.I. 2026/237)](https://www.legislation.gov.uk/uksi/2026/237), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/237/regulation/1/b), [18](https://www.legislation.gov.uk/uksi/2026/237/regulation/18)
+[^c-1e64365f1b0f9f86c83947e07d282105]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/18) applied (with modifications) (6.4.2026) by [The Bereaved Partner’s Paternity Leave Regulations 2026 (S.I. 2026/237)](https://www.legislation.gov.uk/uksi/2026/237), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/237/regulation/1/b), [18](https://www.legislation.gov.uk/uksi/2026/237/regulation/18)
 
 [^c16324711]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1996/18/part/2) modified (1.4.1999) by [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39), [s. 18(1)(a)(2)](https://www.legislation.gov.uk/ukpga/1998/39/section/18/1/a) (with [s. 36](https://www.legislation.gov.uk/ukpga/1998/39/section/36)); [S.I. 1998/2574](https://www.legislation.gov.uk/uksi/1998/2574), [art. 2(2)](https://www.legislation.gov.uk/uksi/1998/2574/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1998/2574/schedule/2)
 
-[^key-3ab9df45e97819249386b6ff67f8fa95]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1996/18/part/2) applied (with modifications) (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 51(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/51/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)(21)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1/21)
+[^c-3ab9df45e97819249386b6ff67f8fa95]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1996/18/part/2) applied (with modifications) (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 51(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/51/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)(21)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1/21)
 
-[^key-3b2d6785ef50f2f2030c118e7cb57e40]: Textual amendment: Pt. 2A (ss. 27A, 27B) inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 153(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/153/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 153(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/153/2)); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/g)
+[^c-3b2d6785ef50f2f2030c118e7cb57e40]: Textual amendment: Pt. 2A (ss. 27A, 27B) inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 153(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/153/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 153(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/153/2)); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/g)
 
-[^key-8eebfaccdcb1b946223a3cc1482e5a68]: Textual amendment: Words in Pt. 2A heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/1/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/a)
+[^c-8eebfaccdcb1b946223a3cc1482e5a68]: Textual amendment: Words in Pt. 2A heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/1/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/a)
 
-[^key-e38ee4ff6af402e19860ba343d328a6c]: Textual amendment: Pt. 2A Ch. 1 heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/1/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/a)
+[^c-e38ee4ff6af402e19860ba343d328a6c]: Textual amendment: Pt. 2A Ch. 1 heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/1/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/a)
 
-[^key-7b0e53df043b0c8fd787bc4f98fd8c59]: Textual amendment: Pt. 2A Ch. 2 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/1/4), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/a)
+[^c-7b0e53df043b0c8fd787bc4f98fd8c59]: Textual amendment: Pt. 2A Ch. 2 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/1/4), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/a)
 
-[^key-294e3996e9c951ddc3f3282c81d192d6]: Textual amendment: Pt. 2A Ch. 3 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 2](https://www.legislation.gov.uk/ukpga/2025/36/section/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/b)
+[^c-294e3996e9c951ddc3f3282c81d192d6]: Textual amendment: Pt. 2A Ch. 3 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 2](https://www.legislation.gov.uk/ukpga/2025/36/section/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/b)
 
-[^key-cad96b73b0feb036a3778be3d0495cc4]: Textual amendment: Pt. 2A Ch. 4 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 3](https://www.legislation.gov.uk/ukpga/2025/36/section/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/c)
+[^c-cad96b73b0feb036a3778be3d0495cc4]: Textual amendment: Pt. 2A Ch. 4 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 3](https://www.legislation.gov.uk/ukpga/2025/36/section/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/c)
 
-[^key-1efaf94c2cacce81e29409130203b79b]: Textual amendment: Pt. 2A Ch. 5 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/4/1), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/d)
+[^c-1efaf94c2cacce81e29409130203b79b]: Textual amendment: Pt. 2A Ch. 5 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/4/1), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/d)
 
-[^key-5cb99d517e3508851053b8c5ede286ec]: Textual amendment: Pt. 2A Ch. 6 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/5/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/e)
+[^c-5cb99d517e3508851053b8c5ede286ec]: Textual amendment: Pt. 2A Ch. 6 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/5/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/e)
 
-[^key-76426413c0024c6be87e78d7a6d72034]: Textual amendment: Pt. 2A Ch. 7 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/6/1), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/f)
+[^c-76426413c0024c6be87e78d7a6d72034]: Textual amendment: Pt. 2A Ch. 7 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/6/1), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/f)
 
-[^key-e6f3baccee33ce02eeaa126db4e60b8d]: Textual amendment: Ss. 27I, 27J and cross-heading inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 6](https://www.legislation.gov.uk/ukpga/2023/13/section/6), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/f)
+[^c-e6f3baccee33ce02eeaa126db4e60b8d]: Textual amendment: Ss. 27I, 27J and cross-heading inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 6](https://www.legislation.gov.uk/ukpga/2023/13/section/6), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/f)
 
-[^key-5a6fbdeae32e6954ef0f0f9eacf5c885]: Textual amendment: Ss. 27K-27M and cross-heading inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 7](https://www.legislation.gov.uk/ukpga/2023/13/section/7), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/g)
+[^c-5a6fbdeae32e6954ef0f0f9eacf5c885]: Textual amendment: Ss. 27K-27M and cross-heading inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 7](https://www.legislation.gov.uk/ukpga/2023/13/section/7), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/g)
 
-[^key-b0afb24909bdc5b5a1d05d82a2fab1bf]: Textual amendment: Ss. 27P-27T and cross-heading inserted (E.W.S.) (31.7.2023) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 9](https://www.legislation.gov.uk/ukpga/2023/13/section/9), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/b)
+[^c-b0afb24909bdc5b5a1d05d82a2fab1bf]: Textual amendment: Ss. 27P-27T and cross-heading inserted (E.W.S.) (31.7.2023) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 9](https://www.legislation.gov.uk/ukpga/2023/13/section/9), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/b)
 
-[^key-9db6907f4ff66a7f9b5ef5b39c3be608]: Textual amendment: Ss. 27U-27Y and cross-heading inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 10](https://www.legislation.gov.uk/ukpga/2023/13/section/10), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/c); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/j)
+[^c-9db6907f4ff66a7f9b5ef5b39c3be608]: Textual amendment: Ss. 27U-27Y and cross-heading inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 10](https://www.legislation.gov.uk/ukpga/2023/13/section/10), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/c); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/j)
 
 [^c16325111]: Textual amendment: Pt. IVA (ss. 43A-43L) inserted (2.7.1998 for specified purposes and otherwise 2.7.1999) by [1998 c. 23](https://www.legislation.gov.uk/ukpga/1998/23), [s. 1](https://www.legislation.gov.uk/ukpga/1998/23/section/1); [S.I. 1999/1547](https://www.legislation.gov.uk/uksi/1999/1547), [art. 2](https://www.legislation.gov.uk/uksi/1999/1547/article/2)
 
 [^c16375901]: Textual amendment: S. 49A and crossheading inserted (1.7.1998) by [1997 c. 42](https://www.legislation.gov.uk/ukpga/1997/42), [s. 3](https://www.legislation.gov.uk/ukpga/1997/42/section/3); [S.I. 1998/1542](https://www.legislation.gov.uk/uksi/1998/1542), [art. 2](https://www.legislation.gov.uk/uksi/1998/1542/article/2)
 
-[^key-6d90fd999ec8cd9b0cbc8daadcaba1c6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/1996/18/part/5A) (s. 49B) inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 149(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/149/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/e)
+[^c-6d90fd999ec8cd9b0cbc8daadcaba1c6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/1996/18/part/5A) (s. 49B) inserted (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 149(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/149/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/2/e)
 
-[^key-51d20901f6232839ffa0f1659fdc7061]: Textual amendment: Pt. 5B inserted (E.W.S.) (24.7.2023) by [Protection from Redundancy (Pregnancy and Family Leave) Act 2023 (c. 17)](https://www.legislation.gov.uk/ukpga/2023/17), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/1/2), [3(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/3/2)
+[^c-51d20901f6232839ffa0f1659fdc7061]: Textual amendment: Pt. 5B inserted (E.W.S.) (24.7.2023) by [Protection from Redundancy (Pregnancy and Family Leave) Act 2023 (c. 17)](https://www.legislation.gov.uk/ukpga/2023/17), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/1/2), [3(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/3/2)
 
-[^key-42a89bdb0c2984da0164b100bf5f506d]: Textual amendment: Words in Pt. 5B heading inserted (6.1.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 26(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/26/7), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(11)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/11)
+[^c-42a89bdb0c2984da0164b100bf5f506d]: Textual amendment: Words in Pt. 5B heading inserted (6.1.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 26(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/26/7), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(11)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/11)
 
 [^c20893491]: Textual amendment: Ss. 57ZA-57ZD and heading inserted (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [Reg. 25](https://www.legislation.gov.uk/uksi/2010/93/regulation/25), [Sch. 2 para. 93](https://www.legislation.gov.uk/uksi/2010/93/schedule/2/paragraph/93)
 
-[^key-9b9a5b4d863f0ab222e6f5c0e622878a]: Textual amendment: Ss. 57ZE-57ZI and cross-headings inserted (1.10.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 127(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/127/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/a)
+[^c-9b9a5b4d863f0ab222e6f5c0e622878a]: Textual amendment: Ss. 57ZE-57ZI and cross-headings inserted (1.10.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 127(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/127/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/a)
 
-[^key-ba5989c0e9dfaa4fed1f7d4e67cffb7a]: Textual amendment: Ss. 57ZJ-57ZS and cross-headings inserted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/d)
+[^c-ba5989c0e9dfaa4fed1f7d4e67cffb7a]: Textual amendment: Ss. 57ZJ-57ZS and cross-headings inserted (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 128(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/128/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(d)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/d)
 
 [^c16327941]: Textual amendment: Ss. 57A, 57B and heading inserted (15.12.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 8](https://www.legislation.gov.uk/ukpga/1999/26/section/8), [Sch. 4 Pt. II](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/part/II); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(2)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/II)
 
@@ -1084,19 +1084,19 @@ SCHEDULES
 
 [^c16407471]: Textual amendment: Pt. 8 Ch. 1A inserted (8.12.2002) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 3](https://www.legislation.gov.uk/ukpga/2002/22/section/3); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/2)
 
-[^key-f5326a98436c073f4f2dd56b980eecd7]: Textual amendment: Pt. 8 Ch. 1B (ss. 75E-75K) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 117(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/117/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/a)
+[^c-f5326a98436c073f4f2dd56b980eecd7]: Textual amendment: Pt. 8 Ch. 1B (ss. 75E-75K) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 117(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/117/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/a)
 
 [^c16418331]: Textual amendment: Pt. 8 Ch. 3 inserted (8.12.2002) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 1](https://www.legislation.gov.uk/ukpga/2002/22/section/1); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/2)
 
-[^key-d6229adb87d5ab82e6a0827e471fdb56]: Textual amendment: Pt. 8 Ch. 4 inserted (18.1.2020) by [Parental Bereavement (Leave and Pay) Act 2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2018/24/section/2/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/2); [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-d6229adb87d5ab82e6a0827e471fdb56]: Textual amendment: Pt. 8 Ch. 4 inserted (18.1.2020) by [Parental Bereavement (Leave and Pay) Act 2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2018/24/section/2/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/2); [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
 
-[^key-86455e89b7359e9d7a9ce7dcf3b98e6e]: Textual amendment: Words in Pt. 8 Ch. 4 heading substituted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/18/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(9)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/9/b)
+[^c-86455e89b7359e9d7a9ce7dcf3b98e6e]: Textual amendment: Words in Pt. 8 Ch. 4 heading substituted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/18/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(9)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/9/b)
 
-[^key-f2f67382e57dfab54c8872a427de32dc]: Textual amendment: Pt. 8 Ch. 5 inserted (17.1.2025) by [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/2); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
+[^c-f2f67382e57dfab54c8872a427de32dc]: Textual amendment: Pt. 8 Ch. 5 inserted (17.1.2025) by [Neonatal Care (Leave and Pay) Act 2023 (c. 20)](https://www.legislation.gov.uk/ukpga/2023/20), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/20/section/3/3), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2023/20/schedule/paragraph/2); [S.I. 2025/41](https://www.legislation.gov.uk/uksi/2025/41), [reg. 2](https://www.legislation.gov.uk/uksi/2025/41/regulation/2)
 
 [^c16754961]: Textual amendment: Pt. 8A inserted (6.4.2003) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [s. 47(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/47/2); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(3)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/3)
 
-[^key-ab35888fb65b24b10f2579d389355b3d]: Textual amendment: Pt. 8B inserted (4.12.2023) by [Carer’s Leave Act 2023 (c. 18)](https://www.legislation.gov.uk/ukpga/2023/18), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/18/section/3/3), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2023/18/schedule/paragraph/2); [S.I. 2023/1283](https://www.legislation.gov.uk/uksi/2023/1283), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1283/regulation/2)
+[^c-ab35888fb65b24b10f2579d389355b3d]: Textual amendment: Pt. 8B inserted (4.12.2023) by [Carer’s Leave Act 2023 (c. 18)](https://www.legislation.gov.uk/ukpga/2023/18), [s. 3(3)](https://www.legislation.gov.uk/ukpga/2023/18/section/3/3), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2023/18/schedule/paragraph/2); [S.I. 2023/1283](https://www.legislation.gov.uk/uksi/2023/1283), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1283/regulation/2)
 
 [^c16329041]: Modification: Ss. 66-68, 70-71, 92-93, Pt. 10 (ss. 94-134) modified (E.W.) (2.3.1998) by [S.I. 1998/218](https://www.legislation.gov.uk/uksi/1998/218), [art. 3](https://www.legislation.gov.uk/uksi/1998/218/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1998/218/schedule)
 
@@ -1140,21 +1140,21 @@ SCHEDULES
 
 [^c20893231]: Modification: Pt. 10 modified (1.10.2011) by [The Agency Workers Regulations 2010 (S.I. 2010/93)](https://www.legislation.gov.uk/uksi/2010/93), [reg. 17(1)](https://www.legislation.gov.uk/uksi/2010/93/regulation/17/1)
 
-[^key-a727fa0b302feb3f999fcccc0411264a]: Modification: Pt. 10 modified (E.) (1.11.2017) by [The NHS Counter Fraud Authority (Establishment, Constitution, and Staff and Other Transfer Provisions) Order 2017 (S.I. 2017/958)](https://www.legislation.gov.uk/uksi/2017/958), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1), [8(12)](https://www.legislation.gov.uk/uksi/2017/958/article/8/12) (with [arts. 4(5)](https://www.legislation.gov.uk/uksi/2017/958/article/4/5), [7(2)](https://www.legislation.gov.uk/uksi/2017/958/article/7/2), [8(13)-(15)](https://www.legislation.gov.uk/uksi/2017/958/article/8/13), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2017/958/schedule/3/paragraph/6))
+[^c-a727fa0b302feb3f999fcccc0411264a]: Modification: Pt. 10 modified (E.) (1.11.2017) by [The NHS Counter Fraud Authority (Establishment, Constitution, and Staff and Other Transfer Provisions) Order 2017 (S.I. 2017/958)](https://www.legislation.gov.uk/uksi/2017/958), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1), [8(12)](https://www.legislation.gov.uk/uksi/2017/958/article/8/12) (with [arts. 4(5)](https://www.legislation.gov.uk/uksi/2017/958/article/4/5), [7(2)](https://www.legislation.gov.uk/uksi/2017/958/article/7/2), [8(13)-(15)](https://www.legislation.gov.uk/uksi/2017/958/article/8/13), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2017/958/schedule/3/paragraph/6))
 
-[^key-9ad78daa3a1f7d165610fecbeeb52328]: Modification: Pt. 10 modified (E.) (1.11.2017) by [The NHS Counter Fraud Authority (Establishment, Constitution, and Staff and Other Transfer Provisions) Order 2017 (S.I. 2017/958)](https://www.legislation.gov.uk/uksi/2017/958), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2017/958/schedule/3/paragraph/3) (with [art. 4(5)](https://www.legislation.gov.uk/uksi/2017/958/article/4/5), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2017/958/schedule/3/paragraph/6))
+[^c-9ad78daa3a1f7d165610fecbeeb52328]: Modification: Pt. 10 modified (E.) (1.11.2017) by [The NHS Counter Fraud Authority (Establishment, Constitution, and Staff and Other Transfer Provisions) Order 2017 (S.I. 2017/958)](https://www.legislation.gov.uk/uksi/2017/958), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/958/article/1/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2017/958/schedule/3/paragraph/3) (with [art. 4(5)](https://www.legislation.gov.uk/uksi/2017/958/article/4/5), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2017/958/schedule/3/paragraph/6))
 
-[^key-0a37f27771cc8f537ce1b0150af74921]: Modification: Pt. 10 modified (10.3.2020) by [The Parental Bereavement Leave Regulations 2020 (S.I. 2020/249)](https://www.legislation.gov.uk/uksi/2020/249), [regs. 1](https://www.legislation.gov.uk/uksi/2020/249/regulation/1), [13](https://www.legislation.gov.uk/uksi/2020/249/regulation/13) (with [reg. 2](https://www.legislation.gov.uk/uksi/2020/249/regulation/2))
+[^c-0a37f27771cc8f537ce1b0150af74921]: Modification: Pt. 10 modified (10.3.2020) by [The Parental Bereavement Leave Regulations 2020 (S.I. 2020/249)](https://www.legislation.gov.uk/uksi/2020/249), [regs. 1](https://www.legislation.gov.uk/uksi/2020/249/regulation/1), [13](https://www.legislation.gov.uk/uksi/2020/249/regulation/13) (with [reg. 2](https://www.legislation.gov.uk/uksi/2020/249/regulation/2))
 
-[^key-187c556191cd3653c69ad1ec6bf59b54]: Modification: Pt. 10 applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/5/1) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-187c556191cd3653c69ad1ec6bf59b54]: Modification: Pt. 10 applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/5/1) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
 
-[^key-cbba8b91d4ddee22161e3df9b76534bd]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1996/18/part/10) modified (21.10.2022) by [The Transfer of Undertakings (Protection of Employment) (Transfer of Staff to the Scottish Courts and Tribunals Service) Regulations 2022 (S.I. 2022/1012)](https://www.legislation.gov.uk/uksi/2022/1012), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1012/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2022/1012/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1012/regulation/2))
+[^c-cbba8b91d4ddee22161e3df9b76534bd]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1996/18/part/10) modified (21.10.2022) by [The Transfer of Undertakings (Protection of Employment) (Transfer of Staff to the Scottish Courts and Tribunals Service) Regulations 2022 (S.I. 2022/1012)](https://www.legislation.gov.uk/uksi/2022/1012), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1012/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2022/1012/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/2022/1012/regulation/2))
 
-[^key-8668f4727b8da87e7a6d89a8eb377abb]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1996/18/part/10) modified (5.12.2022) by [The Exclusivity Terms for Zero Hours Workers (Unenforceability and Redress) Regulations 2022 (S.I. 2022/1145)](https://www.legislation.gov.uk/uksi/2022/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/7/1)
+[^c-8668f4727b8da87e7a6d89a8eb377abb]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1996/18/part/10) modified (5.12.2022) by [The Exclusivity Terms for Zero Hours Workers (Unenforceability and Redress) Regulations 2022 (S.I. 2022/1145)](https://www.legislation.gov.uk/uksi/2022/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/7/1)
 
-[^key-98c55dc327614ea7f9a65869242cf2f2]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1996/18/part/X) modified (6.4.2024) by [The Carer’s Leave Regulations 2024 (S.I. 2024/251)](https://www.legislation.gov.uk/uksi/2024/251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/251/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/251/regulation/12) (with [reg. 2(5)](https://www.legislation.gov.uk/uksi/2024/251/regulation/2/5))
+[^c-98c55dc327614ea7f9a65869242cf2f2]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1996/18/part/X) modified (6.4.2024) by [The Carer’s Leave Regulations 2024 (S.I. 2024/251)](https://www.legislation.gov.uk/uksi/2024/251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/251/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/251/regulation/12) (with [reg. 2(5)](https://www.legislation.gov.uk/uksi/2024/251/regulation/2/5))
 
-[^key-ea44a9c0c4e8aaf3c8f95cc8614d35d2]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1996/18/part/10) modified (6.4.2026) by [The Bereaved Partner’s Paternity Leave Regulations 2026 (S.I. 2026/237)](https://www.legislation.gov.uk/uksi/2026/237), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/237/regulation/1/b), [16](https://www.legislation.gov.uk/uksi/2026/237/regulation/16) (with [reg. 2(5)](https://www.legislation.gov.uk/uksi/2026/237/regulation/2/5))
+[^c-ea44a9c0c4e8aaf3c8f95cc8614d35d2]: Modification: [Pt. 10](https://www.legislation.gov.uk/ukpga/1996/18/part/10) modified (6.4.2026) by [The Bereaved Partner’s Paternity Leave Regulations 2026 (S.I. 2026/237)](https://www.legislation.gov.uk/uksi/2026/237), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/237/regulation/1/b), [16](https://www.legislation.gov.uk/uksi/2026/237/regulation/16) (with [reg. 2(5)](https://www.legislation.gov.uk/uksi/2026/237/regulation/2/5))
 
 [^c20260511]: Textual amendment: Ss. 98ZA-98ZH and cross-headings inserted (1.10.2006) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 49(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/49/1), [Sch. 8 para. 23](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/23) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
 
@@ -1204,17 +1204,17 @@ SCHEDULES
 
 [^c20375351]: Modification: Pt. 11 modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [s. 36](https://www.legislation.gov.uk/ukpga/2008/18/section/36), [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/2008/18/schedule/12/paragraph/16)
 
-[^key-0392e2dcd2ac9940e3ffd702bc1f1546]: Modification: Pt. 11 excluded (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 3 para. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/9/1/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-0392e2dcd2ac9940e3ffd702bc1f1546]: Modification: Pt. 11 excluded (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 3 para. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/9/1/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-c927d7dc991961dcc31d9cfce2f24349]: Modification: Pt. 11 modified (E.W.) (2.8.2019) by [The Cardiff and Valleys Railways (Transfer) Order 2019 (S.I. 2019/1132)](https://www.legislation.gov.uk/wsi/2019/1132), [art. 1](https://www.legislation.gov.uk/wsi/2019/1132/article/1), [Sch. 2 para. 10(1)(a)](https://www.legislation.gov.uk/wsi/2019/1132/schedule/2/paragraph/10/1/a) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/1132/regulation/5))
+[^c-c927d7dc991961dcc31d9cfce2f24349]: Modification: Pt. 11 modified (E.W.) (2.8.2019) by [The Cardiff and Valleys Railways (Transfer) Order 2019 (S.I. 2019/1132)](https://www.legislation.gov.uk/wsi/2019/1132), [art. 1](https://www.legislation.gov.uk/wsi/2019/1132/article/1), [Sch. 2 para. 10(1)(a)](https://www.legislation.gov.uk/wsi/2019/1132/schedule/2/paragraph/10/1/a) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/1132/regulation/5))
 
 [^c20086071]: Modification: Pt. 11 Ch. 6 modified (6.4.2006 with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2006/246/regulation/8)
 
 [^c20086131]: Modification: Pt. 12 modified (6.4.2006 with application in accordance with reg. 21(1) of the amending S.I.) by [The Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246)](https://www.legislation.gov.uk/uksi/2006/246), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/246/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2006/246/regulation/8)
 
-[^key-ebf2b7f6e57d115c766efc34931dcf03]: Textual amendment: S. 202A and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 24(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/24/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(10)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/10/b)
+[^c-ebf2b7f6e57d115c766efc34931dcf03]: Textual amendment: S. 202A and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 24(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/24/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(10)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/10/b)
 
-[^key-306993471679c149e379059c61df0584]: Textual amendment: S. 205A and cross-heading inserted (1.9.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 31(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/31/1), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 2](https://www.legislation.gov.uk/uksi/2013/1766/article/2)
+[^c-306993471679c149e379059c61df0584]: Textual amendment: S. 205A and cross-heading inserted (1.9.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 31(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/31/1), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 2](https://www.legislation.gov.uk/uksi/2013/1766/article/2)
 
 [^c21260911]: Textual amendment: S. 207A and cross-heading inserted (20.5.2011 with application as mentioned in regs. 3 and 4 of the amending S.I.) by The Cross-[Border Mediation (EU Directive) Regulations 2011 (S.I. 2011/1133)](https://www.legislation.gov.uk/uksi/2011/1133), [regs. 2](https://www.legislation.gov.uk/uksi/2011/1133/regulation/2), [48](https://www.legislation.gov.uk/uksi/2011/1133/regulation/48)
 

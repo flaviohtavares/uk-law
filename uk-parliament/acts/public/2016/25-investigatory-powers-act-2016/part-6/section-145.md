@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Modification of warrants[^key-81824e50b4e444bc87cd17fb9f082539]
+## 145. Modification of warrants[^c-81824e50b4e444bc87cd17fb9f082539]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ This is subject to subsection (10).
 
 ## Annotations
 
-[^key-81824e50b4e444bc87cd17fb9f082539]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2016/25/section/145) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/a)
+[^c-81824e50b4e444bc87cd17fb9f082539]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2016/25/section/145) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/a)

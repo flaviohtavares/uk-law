@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58A. Time for payment of fees - small companies[^key-6e23a847d339fad773f9a65001f9fe48]
+## 58A. Time for payment of fees - small companies[^c-6e23a847d339fad773f9a65001f9fe48]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e23a847d339fad773f9a65001f9fe48]: Textual amendment: [Reg. 58A](https://www.legislation.gov.uk/uksi/2002/618/regulation/58A) inserted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/749/regulation/12)
+[^c-6e23a847d339fad773f9a65001f9fe48]: Textual amendment: [Reg. 58A](https://www.legislation.gov.uk/uksi/2002/618/regulation/58A) inserted (16.7.2025) by [The Medical Devices and Blood Safety and Quality (Fees Amendment) Regulations 2025 (S.I. 2025/749)](https://www.legislation.gov.uk/uksi/2025/749), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/749/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/749/regulation/12)

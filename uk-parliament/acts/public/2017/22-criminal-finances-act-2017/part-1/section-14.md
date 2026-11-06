@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Forfeiture of cash[^key-0edf26f20bdd11a1afab9ffd1a21b4ce][^key-eef9b43342fc1a90ebedf7ba8d17d0ff][^c22725181]
+## 14. Forfeiture of cash[^c-0edf26f20bdd11a1afab9ffd1a21b4ce][^c-eef9b43342fc1a90ebedf7ba8d17d0ff][^c22725181]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0edf26f20bdd11a1afab9ffd1a21b4ce]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/22/section/14) in force at 16.4.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/4/a)
+[^c-0edf26f20bdd11a1afab9ffd1a21b4ce]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/22/section/14) in force at 16.4.2018 for E.W.S. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/4/a)
 
-[^key-eef9b43342fc1a90ebedf7ba8d17d0ff]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/22/section/14) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/e)
+[^c-eef9b43342fc1a90ebedf7ba8d17d0ff]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/22/section/14) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/e)
 
 [^c22725181]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/22/section/14) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

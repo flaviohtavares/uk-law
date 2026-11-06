@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259CC. Interpretation of section 259CB[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259CC. Interpretation of section 259CB[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) A taxable period of a payee is “**permitted**” in relation to an amount of ordinary income that arises as a result of the payment or quasi-payment if—
 
 - (a) the period begins before the end of 12 months after the end of the payment period, or
-- (b)[^key-9683581b06c65b062e5646e0f3320e5c] the period begins at a later time and it is just and reasonable for the amount of ordinary income to arise for the period (rather than an earlier one).
+- (b)[^c-9683581b06c65b062e5646e0f3320e5c] the period begins at a later time and it is just and reasonable for the amount of ordinary income to arise for the period (rather than an earlier one).
 
 (3) Each of these is a “relevant debt relief provision”—
 
@@ -47,7 +47,7 @@ summary: ''
 
 (6) A “**credit for underlying tax**” means a credit or relief given to reflect tax charged on profits that are wholly or partly used to fund (directly or indirectly) the payment or quasi-payment.
 
-(7)[^key-7012a4a7753cad0aefdd7e0309bbba1d] A qualifying capital amount arising to a payee is treated as an amount of ordinary income of a payee and references to tax include any qualifying capital tax.
+(7)[^c-7012a4a7753cad0aefdd7e0309bbba1d] A qualifying capital amount arising to a payee is treated as an amount of ordinary income of a payee and references to tax include any qualifying capital tax.
 
 (8) For the purposes of case 2—
 
@@ -75,12 +75,12 @@ but does not include any tax chargeable at a nil rate.
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-9683581b06c65b062e5646e0f3320e5c]: Textual amendment: S. 259CC(2)(b) substituted (retrospectively) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/3)[(13)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/13)
+[^c-9683581b06c65b062e5646e0f3320e5c]: Textual amendment: S. 259CC(2)(b) substituted (retrospectively) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/3)[(13)](https://www.legislation.gov.uk/ukpga/2017/32/section/24/13)
 
 [^M_F_7b7682b7-7a8d-462d-a0c4-ecb3df29c433]: Textual amendment: S. 259CC(3A) inserted (retrospectively) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 paras. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/4), [36](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/36)
 
 [^M_F_d05bb1f2-a1cd-4062-abdc-1a15d3a86659]: Textual amendment: S. 259CC(3B) inserted (retrospectively) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 paras. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/8), [36](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/36)
 
-[^key-7012a4a7753cad0aefdd7e0309bbba1d]: Textual amendment: S. 259CC(7)-(12) inserted (retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 paras. 8](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/8), [19(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/19/4)
+[^c-7012a4a7753cad0aefdd7e0309bbba1d]: Textual amendment: S. 259CC(7)-(12) inserted (retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 7 paras. 8](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/8), [19(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/7/paragraph/19/4)

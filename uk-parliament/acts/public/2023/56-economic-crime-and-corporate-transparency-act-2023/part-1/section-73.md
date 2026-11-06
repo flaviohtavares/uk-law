@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Disqualification from delivering documents[^key-3195ed7261ff11e152a38258d0c0aeb8]
+## 73. Disqualification from delivering documents[^c-3195ed7261ff11e152a38258d0c0aeb8]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ After section 1067A of the Companies Act 2006 (inserted by section 72 of this Ac
 
 ## Annotations
 
-[^key-3195ed7261ff11e152a38258d0c0aeb8]: Commencement: S. 73 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-3195ed7261ff11e152a38258d0c0aeb8]: Commencement: S. 73 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

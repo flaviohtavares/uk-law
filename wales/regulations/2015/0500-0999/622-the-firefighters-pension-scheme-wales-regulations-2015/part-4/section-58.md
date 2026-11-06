@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Closure of deferred member’s account after gap in pensionable service not exceeding five years[^key-5b6a1875a325445f77de9abb12b7e6a3]
+## 58. Closure of deferred member’s account after gap in pensionable service not exceeding five years[^c-5b6a1875a325445f77de9abb12b7e6a3]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b6a1875a325445f77de9abb12b7e6a3]: Commencement: Reg. 58 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-5b6a1875a325445f77de9abb12b7e6a3]: Commencement: Reg. 58 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

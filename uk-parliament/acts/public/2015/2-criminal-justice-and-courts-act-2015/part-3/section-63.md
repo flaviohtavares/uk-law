@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Appeals from the High Court to the Supreme Court[^key-72b9234bc31bea853dc6455401d2f8ad]
+## 63. Appeals from the High Court to the Supreme Court[^c-72b9234bc31bea853dc6455401d2f8ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72b9234bc31bea853dc6455401d2f8ad]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2015/2/section/63) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/52) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/2))
+[^c-72b9234bc31bea853dc6455401d2f8ad]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2015/2/section/63) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/52) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/2))

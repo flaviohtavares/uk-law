@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Fees[^key-124dc6c34bd28d6faf5e5fc837ed3138]
+## 101. Fees[^c-124dc6c34bd28d6faf5e5fc837ed3138]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-124dc6c34bd28d6faf5e5fc837ed3138]: Commencement: S. 101 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-124dc6c34bd28d6faf5e5fc837ed3138]: Commencement: S. 101 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

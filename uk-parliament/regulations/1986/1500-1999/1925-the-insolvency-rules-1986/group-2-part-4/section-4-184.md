@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.184. General powers of liquidator[^key-074e5c8504be32c2f90f6837d931f111]
+## 4.184. General powers of liquidator[^c-074e5c8504be32c2f90f6837d931f111]
 
 *Extent: E+W*
 
-(1) Any permission given by the liquidation committee (or if there is no such committee, a meeting of the company’s creditors)[^key-f1fda8591d3c17b967cef34a8c1a21ac] or the court under section 165(2) or section 167(1)(a), or under the Rules, shall not be a general permission but shall relate to a particular proposed exercise of the liquidator's power in question; and a person dealing with the liquidator in good faith and for value is not concerned to enquire whether any such permission has been given.
+(1) Any permission given by the liquidation committee (or if there is no such committee, a meeting of the company’s creditors)[^c-f1fda8591d3c17b967cef34a8c1a21ac] or the court under section 165(2) or section 167(1)(a), or under the Rules, shall not be a general permission but shall relate to a particular proposed exercise of the liquidator's power in question; and a person dealing with the liquidator in good faith and for value is not concerned to enquire whether any such permission has been given.
 
 (2) Where the liquidator has done anything without that permission, the court or the liquidation committee may, for the purpose of enabling him to meet his expenses out of the assets, ratify what he has done; but neither shall do so unless it is satisfied that the liquidator has acted in a case of urgency and has sought ratification without undue delay.
 
 ## Annotations
 
-[^key-074e5c8504be32c2f90f6837d931f111]: Commencement: [Rule 4.184](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.184) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-074e5c8504be32c2f90f6837d931f111]: Commencement: [Rule 4.184](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.184) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-f1fda8591d3c17b967cef34a8c1a21ac]: Textual amendment: Words in rule 4.184(1) inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [31](https://www.legislation.gov.uk/uksi/2005/527/rule/31)
+[^c-f1fda8591d3c17b967cef34a8c1a21ac]: Textual amendment: Words in rule 4.184(1) inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [31](https://www.legislation.gov.uk/uksi/2005/527/rule/31)

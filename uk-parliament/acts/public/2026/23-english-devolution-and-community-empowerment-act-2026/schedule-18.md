@@ -24,11 +24,11 @@ Section 36
 
 ### Part 1 — Functions of the Homes and Communities Agency (known as Homes England)
 
-#### 1. Introduction[^key-067fb5b1f4c10a55d1a26cfb0aace489]
+#### 1. Introduction[^c-067fb5b1f4c10a55d1a26cfb0aace489]
 
 The Housing and Regeneration Act 2008 is amended in accordance with this Part of this Schedule.
 
-#### 2. Exercise of functions by strategic authorities outside London[^key-ca22d60f1845ec1cbab9eec39f5e3fd2]
+#### 2. Exercise of functions by strategic authorities outside London[^c-ca22d60f1845ec1cbab9eec39f5e3fd2]
 
 In Chapter 2 of Part 1, before the italic cross-heading before section 5, insert—
 
@@ -50,7 +50,7 @@ In Chapter 2 of Part 1, before the italic cross-heading before section 5, insert
 > - (a) “**good design**” and “**needs**” have the same meanings as in section 2 (see section 2(2));
 > - (b) the reference to improving the supply of housing includes a reference to improving the supply of particular kinds of housing.
 
-#### 3. Various powers[^key-a0c1b2a841eb2c7f0ad0a03695924ac8]
+#### 3. Various powers[^c-a0c1b2a841eb2c7f0ad0a03695924ac8]
 
 In the following provisions, after “HCA” insert “or a strategic authority outside London”—
 
@@ -59,7 +59,7 @@ In the following provisions, after “HCA” insert “or a strategic authority 
 - (c) section 7(1) and (2) (powers in relation to infrastructure);
 - (d) section 8 (powers to deal with land etc).
 
-#### 4. Acquisition of land[^key-0a3d044eecebc43a43b6872316bcf510]
+#### 4. Acquisition of land[^c-0a3d044eecebc43a43b6872316bcf510]
 
 In section 9—
 
@@ -72,7 +72,7 @@ In section 9—
   ;
 - (d) in subsection (6), after “HCA” insert “or a strategic authority”.
 
-**5.**[^key-a153074858827106fbfd85572586ca7b] After section 9 insert—
+**5.**[^c-a153074858827106fbfd85572586ca7b] After section 9 insert—
 
 > **9A. Compulsory acquisition of land by strategic authorities outside London**
 >
@@ -123,15 +123,15 @@ In section 9—
 >
 > (9) In this section “**compulsory acquisition function**” means the function conferred by section 9(2).
 
-#### 6. Restrictions on disposal of land[^key-09aef99c2f68b0bed3d50be7e368d090]
+#### 6. Restrictions on disposal of land[^c-09aef99c2f68b0bed3d50be7e368d090]
 
 In section 10, in subsections (1), (3) and (4), after “HCA” insert “or a strategic authority outside London”.
 
-#### 7. Main powers in relation to acquired land[^key-2b91d471bbc382cdbd6cb8934ba6623c]
+#### 7. Main powers in relation to acquired land[^c-2b91d471bbc382cdbd6cb8934ba6623c]
 
 In section 11, omit “by the HCA”.
 
-#### 8. Financial assistance[^key-da7568424c9aee5838c81f2247b8e4e9]
+#### 8. Financial assistance[^c-da7568424c9aee5838c81f2247b8e4e9]
 
 (1) Section 19 is amended in accordance with this paragraph.
 
@@ -153,7 +153,7 @@ In section 11, omit “by the HCA”.
 > - (a) “**good design**” and “**needs**” have the same meanings as in section 2 (see section 2(2));
 > - (b) the reference to improving the supply of housing includes a reference to improving the supply of particular kinds of housing.
 
-#### 9. Interpretation[^key-5a1661d6256a54fb180ce2918145334e]
+#### 9. Interpretation[^c-5a1661d6256a54fb180ce2918145334e]
 
 In section 57, in subsection (1)—
 
@@ -193,7 +193,7 @@ In section 57, in subsection (1)—
   >   - (d) the Greater London Authority;
   > - “**strategic authority outside London**” means a strategic authority other than the Greater London Authority.
 
-#### 10. Acquisition of land[^key-ece025c7fc3976f3b45147c820d047d2]
+#### 10. Acquisition of land[^c-ece025c7fc3976f3b45147c820d047d2]
 
 (1) Schedule 2 is amended in accordance with this paragraph.
 
@@ -210,7 +210,7 @@ In section 57, in subsection (1)—
 
 (6) In paragraph 17 (acquisition by agreement), in sub-paragraph (1), after “HCA” insert “or a strategic authority outside London”.
 
-#### 11. Main powers in relation to land acquired[^key-4e60b94df671430d723e5150aef8ccff]
+#### 11. Main powers in relation to land acquired[^c-4e60b94df671430d723e5150aef8ccff]
 
 (1) Schedule 3 is amended in accordance with this paragraph.
 
@@ -234,7 +234,7 @@ In section 57, in subsection (1)—
 
 (8) In paragraph 21 (other land connected to religious worship), in sub-paragraph (1), after “HCA” insert “or a strategic authority outside London”.
 
-#### 12. Powers in relation to, and for, statutory undertakers[^key-a71e105d856d1f501a6729dce28abc4c]
+#### 12. Powers in relation to, and for, statutory undertakers[^c-a71e105d856d1f501a6729dce28abc4c]
 
 (1) Schedule 4 is amended in accordance with this paragraph.
 
@@ -305,11 +305,11 @@ In section 57, in subsection (1)—
 
 ### Part 2 — Functions of local authorities
 
-#### 13. Introduction[^key-b6b0400961fca4def8548717171aa028]
+#### 13. Introduction[^c-b6b0400961fca4def8548717171aa028]
 
 The Town and Country Planning Act 1990 is amended in accordance with this Part of this Schedule.
 
-#### 14. Compulsory acquisition of land for development and other planning purposes[^key-3a33791b6dbb8442b082515ecdd543b6]
+#### 14. Compulsory acquisition of land for development and other planning purposes[^c-3a33791b6dbb8442b082515ecdd543b6]
 
 (1) Section 226 is amended in accordance with this paragraph.
 
@@ -339,7 +339,7 @@ The Town and Country Planning Act 1990 is amended in accordance with this Part o
 
 > (8A) In this section “**strategic authority to whom this section applies**” means a combined authority or CCA.
 
-**15.**[^key-411b549df8550c40669e3fd7a97c58fe] After section 226 insert—
+**15.**[^c-411b549df8550c40669e3fd7a97c58fe] After section 226 insert—
 
 > **226A. Compulsory acquisition of land by combined authorities and CCAs**
 >
@@ -375,14 +375,14 @@ The Town and Country Planning Act 1990 is amended in accordance with this Part o
 >
 > (5) In this section “**compulsory acquisition function**” means the function conferred by section 226(1).
 
-#### 16. Acquisition of land by agreement[^key-5afa61d0090ffbc3159a994962574df6]
+#### 16. Acquisition of land by agreement[^c-5afa61d0090ffbc3159a994962574df6]
 
 In section 227—
 
 - (a) after “London borough” insert “or any combined authority or CCA”;
 - (b) after “local authority” insert “or combined authority or CCA”.
 
-#### 17. Appropriation of land forming part of common, etc[^key-c3a3946bf07c939cfd6787296b6a1218]
+#### 17. Appropriation of land forming part of common, etc[^c-c3a3946bf07c939cfd6787296b6a1218]
 
 (1) Section 229 is amended in accordance with this paragraph.
 
@@ -390,13 +390,13 @@ In section 227—
 
 (3) In subsection (5), in the words before paragraph (a), after “local authority” insert “or non-mayoral combined authority or non-mayoral CCA”.
 
-#### 18. Acquisition of land for purposes of exchange[^key-9358dd9d13e8a038e4ccac501f2becd7]
+#### 18. Acquisition of land for purposes of exchange[^c-9358dd9d13e8a038e4ccac501f2becd7]
 
 In section 230, after subsection (1) insert—
 
 > (1A) Without prejudice to the generality of the powers conferred by sections 226 and 227, any power of a combined authority or CCA to acquire land under those sections, whether compulsorily or by agreement, shall include power to acquire land required for giving in exchange for land appropriated under section 229.
 
-#### 19. Power of Secretary of State to require acquisition or development of land[^key-113a0bc662c02679c3e11172a3aa2343]
+#### 19. Power of Secretary of State to require acquisition or development of land[^c-113a0bc662c02679c3e11172a3aa2343]
 
 (1) Section 231 is amended in accordance with this paragraph.
 
@@ -407,11 +407,11 @@ In section 230, after subsection (1) insert—
 
 (3) In subsection (2), after “local authority” insert “or a non-mayoral combined authority or non-mayoral CCA”.
 
-#### 20. Appropriation of land held for planning purposes[^key-c65ac4fc24be8570c2d72d1416fedfed]
+#### 20. Appropriation of land held for planning purposes[^c-c65ac4fc24be8570c2d72d1416fedfed]
 
 In section 232, in subsections (1), (2) and (4), after “local authority” insert “or a non-mayoral combined authority or non-mayoral CCA”.
 
-#### 21. Disposal by local authorities of land held for planning purposes[^key-e61de92f99dc9c34200f56a3130c9d5b]
+#### 21. Disposal by local authorities of land held for planning purposes[^c-e61de92f99dc9c34200f56a3130c9d5b]
 
 (1) Section 233 is amended in accordance with this paragraph.
 
@@ -432,7 +432,7 @@ In section 232, in subsections (1), (2) and (4), after “local authority” ins
 
 (6) In subsection (9), after “England” insert “or by a non-mayoral combined authority or non-mayoral CCA”.
 
-#### 22. Development of land held for planning purposes[^key-b4973257e09f338ede24a331db451ebe]
+#### 22. Development of land held for planning purposes[^c-b4973257e09f338ede24a331db451ebe]
 
 (1) Section 235 is amended in accordance with this paragraph.
 
@@ -450,24 +450,24 @@ In section 232, in subsections (1), (2) and (4), after “local authority” ins
 
 (5) In subsection (5)(a), after “local authority” insert “or a non-mayoral combined authority or non-mayoral CCA”.
 
-#### 23. Use and development of consecrated land and burial grounds[^key-d6a68d2638d3fd5f617fccf30106df28]
+#### 23. Use and development of consecrated land and burial grounds[^c-d6a68d2638d3fd5f617fccf30106df28]
 
 In section 240 (provisions supplemental to sections 238 and 239 (which provide for the use and development of consecrated land and burial grounds)), after subsection (3) insert—
 
 > (4) In sections 238 and 239 “relevant acquisition or appropriation” also includes an acquisition made by a combined authority or CCA under this Part or compulsorily under any other enactment, or an appropriation by a combined authority or CCA for planning purposes.
 
-#### 24. Use and development of open spaces[^key-365b994a1afa4a08ac17cd261b973ea7]
+#### 24. Use and development of open spaces[^c-365b994a1afa4a08ac17cd261b973ea7]
 
 In section 241, in subsection (1)—
 
 - (a) after the first “local authority” insert “, a combined authority or CCA”;
 - (b) after the second “local authority” insert “or a combined authority or CCA”.
 
-#### 25. Overriding of rights of possession[^key-edc51b212ac37a43e12912da60ac1d0a]
+#### 25. Overriding of rights of possession[^c-edc51b212ac37a43e12912da60ac1d0a]
 
 In section 242, in paragraph (a), after “authority” insert “or a non-mayoral combined authority or non-mayoral CCA”.
 
-#### 26. Constitution of joint body to hold land for planning purposes[^key-cea98c5c0af606fe3e7014dbd0e614b3]
+#### 26. Constitution of joint body to hold land for planning purposes[^c-cea98c5c0af606fe3e7014dbd0e614b3]
 
 In section 243, in subsection (1)—
 
@@ -475,11 +475,11 @@ In section 243, in subsection (1)—
 - (b) for “local authority for planning purposes” substitute “local authority, or non-mayoral combined authority or non-mayoral CCA, for planning purposes;
 - (c) for “any other local authority” substitute “any other local authority, non-mayoral combined authority or non-mayoral CCA”.
 
-#### 27. Interpretation of Part 9[^key-c65532cb730809b44321d56023339c23]
+#### 27. Interpretation of Part 9[^c-c65532cb730809b44321d56023339c23]
 
 In section 246, in subsection (2), after “local authority” insert “, a combined authority or CCA”.
 
-#### 28. Extinguishment of rights of statutory undertakers: preliminary notices[^key-c86e6919f751368a3b846b0b58a04ea1]
+#### 28. Extinguishment of rights of statutory undertakers: preliminary notices[^c-c86e6919f751368a3b846b0b58a04ea1]
 
 (1) Section 271 is amended in accordance with this paragraph.
 
@@ -495,7 +495,7 @@ In section 246, in subsection (2), after “local authority” insert “, a com
 > - (a) a local authority, or
 > - (b) a non-mayoral combined authority or non-mayoral CCA.
 
-#### 29. Extinguishment of rights of electronic communications code network operators: preliminary notices[^key-ff934d279ed49400b1f5070c8caa809c]
+#### 29. Extinguishment of rights of electronic communications code network operators: preliminary notices[^c-ff934d279ed49400b1f5070c8caa809c]
 
 (1) Section 272 is amended in accordance with this paragraph.
 
@@ -511,11 +511,11 @@ In section 246, in subsection (2), after “local authority” insert “, a com
 > - (a) a local authority, or
 > - (b) a non-mayoral combined authority or non-mayoral CCA.
 
-#### 30. Orders under sections 271 and 272[^key-fcbbe4344e0c3ed9c2788114ed068608]
+#### 30. Orders under sections 271 and 272[^c-fcbbe4344e0c3ed9c2788114ed068608]
 
 In section 274, in subsection (3), for “local authority” substitute “relevant authority”.
 
-#### 31. Extension or modification of functions of statutory undertakers[^key-85f29627f4b399a4736fb92be604e988]
+#### 31. Extension or modification of functions of statutory undertakers[^c-85f29627f4b399a4736fb92be604e988]
 
 (1) Section 275 is amended in accordance with this paragraph.
 
@@ -532,15 +532,15 @@ In section 274, in subsection (3), for “local authority” substitute “relev
 > - (a) a local authority, or
 > - (b) a non-mayoral combined authority or non-mayoral CCA.
 
-#### 32. Procedure in relation to orders under section 275[^key-8a62df73b01a0b6dca647d4c0bca10a7]
+#### 32. Procedure in relation to orders under section 275[^c-8a62df73b01a0b6dca647d4c0bca10a7]
 
 In section 276, in subsection (1), in the words before paragraph (a), for “local authority” substitute “relevant authority”.
 
-#### 33. Objections to orders under sections 275 and 277[^key-cfc2485c4c91e8e18334b7159a1c14cd]
+#### 33. Objections to orders under sections 275 and 277[^c-cfc2485c4c91e8e18334b7159a1c14cd]
 
 In section 278, in subsection (7), for “local authority” substitute “relevant authority”.
 
-#### 34. Contributions by local authorities and statutory undertakers[^key-413c3db41f58b82bcdbd5fd7d727adcb]
+#### 34. Contributions by local authorities and statutory undertakers[^c-413c3db41f58b82bcdbd5fd7d727adcb]
 
 (1) Section 306 is amended in accordance with this paragraph.
 
@@ -559,7 +559,7 @@ In section 278, in subsection (7), for “local authority” substitute “relev
 > - (a) a local authority, or
 > - (b) a non-mayoral combined authority or non-mayoral CCA.
 
-#### 35. Interpretation[^key-d8bcc73131a3b89c8df8511808ca3ac2]
+#### 35. Interpretation[^c-d8bcc73131a3b89c8df8511808ca3ac2]
 
 In section 336, in subsection (1)—
 
@@ -601,7 +601,7 @@ In section 336, in subsection (1)—
 
 ### Part 3 — The Greater London Authority
 
-#### 36. Acquisition of land by agreement[^key-a1e6b5df5bde9638816545440bdca393]
+#### 36. Acquisition of land by agreement[^c-a1e6b5df5bde9638816545440bdca393]
 
 After section 333ZA of the GLAA 1999 insert—
 
@@ -611,74 +611,74 @@ After section 333ZA of the GLAA 1999 insert—
 
 ## Annotations
 
-[^key-067fb5b1f4c10a55d1a26cfb0aace489]: Commencement: Sch. 18 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-067fb5b1f4c10a55d1a26cfb0aace489]: Commencement: Sch. 18 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-ca22d60f1845ec1cbab9eec39f5e3fd2]: Commencement: Sch. 18 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-ca22d60f1845ec1cbab9eec39f5e3fd2]: Commencement: Sch. 18 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-a0c1b2a841eb2c7f0ad0a03695924ac8]: Commencement: Sch. 18 para. 3 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-a0c1b2a841eb2c7f0ad0a03695924ac8]: Commencement: Sch. 18 para. 3 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-0a3d044eecebc43a43b6872316bcf510]: Commencement: Sch. 18 para. 4 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-0a3d044eecebc43a43b6872316bcf510]: Commencement: Sch. 18 para. 4 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-a153074858827106fbfd85572586ca7b]: Commencement: Sch. 18 para. 5 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-a153074858827106fbfd85572586ca7b]: Commencement: Sch. 18 para. 5 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-09aef99c2f68b0bed3d50be7e368d090]: Commencement: Sch. 18 para. 6 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-09aef99c2f68b0bed3d50be7e368d090]: Commencement: Sch. 18 para. 6 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-2b91d471bbc382cdbd6cb8934ba6623c]: Commencement: Sch. 18 para. 7 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-2b91d471bbc382cdbd6cb8934ba6623c]: Commencement: Sch. 18 para. 7 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-da7568424c9aee5838c81f2247b8e4e9]: Commencement: Sch. 18 para. 8 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-da7568424c9aee5838c81f2247b8e4e9]: Commencement: Sch. 18 para. 8 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-5a1661d6256a54fb180ce2918145334e]: Commencement: Sch. 18 para. 9 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-5a1661d6256a54fb180ce2918145334e]: Commencement: Sch. 18 para. 9 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-ece025c7fc3976f3b45147c820d047d2]: Commencement: Sch. 18 para. 10 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-ece025c7fc3976f3b45147c820d047d2]: Commencement: Sch. 18 para. 10 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-4e60b94df671430d723e5150aef8ccff]: Commencement: Sch. 18 para. 11 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-4e60b94df671430d723e5150aef8ccff]: Commencement: Sch. 18 para. 11 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-a71e105d856d1f501a6729dce28abc4c]: Commencement: Sch. 18 para. 12 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-a71e105d856d1f501a6729dce28abc4c]: Commencement: Sch. 18 para. 12 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-b6b0400961fca4def8548717171aa028]: Commencement: Sch. 18 para. 13 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-b6b0400961fca4def8548717171aa028]: Commencement: Sch. 18 para. 13 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-3a33791b6dbb8442b082515ecdd543b6]: Commencement: Sch. 18 para. 14 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-3a33791b6dbb8442b082515ecdd543b6]: Commencement: Sch. 18 para. 14 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-411b549df8550c40669e3fd7a97c58fe]: Commencement: Sch. 18 para. 15 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-411b549df8550c40669e3fd7a97c58fe]: Commencement: Sch. 18 para. 15 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-5afa61d0090ffbc3159a994962574df6]: Commencement: Sch. 18 para. 16 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-5afa61d0090ffbc3159a994962574df6]: Commencement: Sch. 18 para. 16 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-c3a3946bf07c939cfd6787296b6a1218]: Commencement: Sch. 18 para. 17 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-c3a3946bf07c939cfd6787296b6a1218]: Commencement: Sch. 18 para. 17 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-9358dd9d13e8a038e4ccac501f2becd7]: Commencement: Sch. 18 para. 18 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-9358dd9d13e8a038e4ccac501f2becd7]: Commencement: Sch. 18 para. 18 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-113a0bc662c02679c3e11172a3aa2343]: Commencement: Sch. 18 para. 19 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-113a0bc662c02679c3e11172a3aa2343]: Commencement: Sch. 18 para. 19 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-c65ac4fc24be8570c2d72d1416fedfed]: Commencement: Sch. 18 para. 20 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-c65ac4fc24be8570c2d72d1416fedfed]: Commencement: Sch. 18 para. 20 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-e61de92f99dc9c34200f56a3130c9d5b]: Commencement: Sch. 18 para. 21 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-e61de92f99dc9c34200f56a3130c9d5b]: Commencement: Sch. 18 para. 21 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-b4973257e09f338ede24a331db451ebe]: Commencement: Sch. 18 para. 22 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-b4973257e09f338ede24a331db451ebe]: Commencement: Sch. 18 para. 22 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-d6a68d2638d3fd5f617fccf30106df28]: Commencement: Sch. 18 para. 23 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-d6a68d2638d3fd5f617fccf30106df28]: Commencement: Sch. 18 para. 23 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-365b994a1afa4a08ac17cd261b973ea7]: Commencement: Sch. 18 para. 24 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-365b994a1afa4a08ac17cd261b973ea7]: Commencement: Sch. 18 para. 24 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-edc51b212ac37a43e12912da60ac1d0a]: Commencement: Sch. 18 para. 25 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-edc51b212ac37a43e12912da60ac1d0a]: Commencement: Sch. 18 para. 25 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-cea98c5c0af606fe3e7014dbd0e614b3]: Commencement: Sch. 18 para. 26 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-cea98c5c0af606fe3e7014dbd0e614b3]: Commencement: Sch. 18 para. 26 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-c65532cb730809b44321d56023339c23]: Commencement: Sch. 18 para. 27 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-c65532cb730809b44321d56023339c23]: Commencement: Sch. 18 para. 27 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-c86e6919f751368a3b846b0b58a04ea1]: Commencement: Sch. 18 para. 28 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-c86e6919f751368a3b846b0b58a04ea1]: Commencement: Sch. 18 para. 28 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-ff934d279ed49400b1f5070c8caa809c]: Commencement: Sch. 18 para. 29 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-ff934d279ed49400b1f5070c8caa809c]: Commencement: Sch. 18 para. 29 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-fcbbe4344e0c3ed9c2788114ed068608]: Commencement: Sch. 18 para. 30 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-fcbbe4344e0c3ed9c2788114ed068608]: Commencement: Sch. 18 para. 30 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-85f29627f4b399a4736fb92be604e988]: Commencement: Sch. 18 para. 31 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-85f29627f4b399a4736fb92be604e988]: Commencement: Sch. 18 para. 31 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-8a62df73b01a0b6dca647d4c0bca10a7]: Commencement: Sch. 18 para. 32 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-8a62df73b01a0b6dca647d4c0bca10a7]: Commencement: Sch. 18 para. 32 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-cfc2485c4c91e8e18334b7159a1c14cd]: Commencement: Sch. 18 para. 33 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-cfc2485c4c91e8e18334b7159a1c14cd]: Commencement: Sch. 18 para. 33 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-413c3db41f58b82bcdbd5fd7d727adcb]: Commencement: Sch. 18 para. 34 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-413c3db41f58b82bcdbd5fd7d727adcb]: Commencement: Sch. 18 para. 34 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-d8bcc73131a3b89c8df8511808ca3ac2]: Commencement: Sch. 18 para. 35 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-d8bcc73131a3b89c8df8511808ca3ac2]: Commencement: Sch. 18 para. 35 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-a1e6b5df5bde9638816545440bdca393]: Commencement: Sch. 18 para. 36 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-a1e6b5df5bde9638816545440bdca393]: Commencement: Sch. 18 para. 36 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

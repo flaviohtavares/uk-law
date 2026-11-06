@@ -22,9 +22,9 @@ summary: ''
 
 (1) This section applies for the purpose of calculating the profits of a trade if the company carrying on the trade makes a site restoration payment in the course of carrying it on.
 
-(2) Subject to subsection (3A),[^key-85c7aeebdc86c0cb75b96df5a2e6b476] a deduction is allowed for the unrelieved amount of the payment.
+(2) Subject to subsection (3A),[^c-85c7aeebdc86c0cb75b96df5a2e6b476] a deduction is allowed for the unrelieved amount of the payment.
 
-(3)[^key-a9e15cf9fa55cc3d3b88cb46fb7da794] The deduction is allowed—
+(3)[^c-a9e15cf9fa55cc3d3b88cb46fb7da794] The deduction is allowed—
 
 - (a) (if the payment is made, whether directly or indirectly, to a connected person) for the period of account in which that part of the restoration work to which the payment relates is completed, or
 - (b) (in any other case) for the period of account in which the payment is made.
@@ -52,12 +52,12 @@ summary: ''
 - (c) a planning obligation entered into under section 106 of the Town and Country Planning Act 1990 (as substituted by section 12 of the Planning and Compensation Act 1991 (c. 34)) or any corresponding provision for the time being in force in Northern Ireland, or
 - (d) a planning obligation entered into under section 299A of the Town and Country Planning Act 1990 or any corresponding provision for the time being in force in Northern Ireland.
 
-(7)[^key-cdceb5191acc66722431617e020d037b] Arrangements” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).
+(7)[^c-cdceb5191acc66722431617e020d037b] Arrangements” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).
 
 ## Annotations
 
-[^key-85c7aeebdc86c0cb75b96df5a2e6b476]: Textual amendment: Words in s. 145(2) inserted (with effect in accordance with s. 53(7)(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 53(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/53/4)
+[^c-85c7aeebdc86c0cb75b96df5a2e6b476]: Textual amendment: Words in s. 145(2) inserted (with effect in accordance with s. 53(7)(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 53(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/53/4)
 
-[^key-a9e15cf9fa55cc3d3b88cb46fb7da794]: Textual amendment: S. 145(3)(3A) substituted for s. 145(3) (with effect in accordance with s. 53(7)(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 53(5)](https://www.legislation.gov.uk/ukpga/2012/14/section/53/5)
+[^c-a9e15cf9fa55cc3d3b88cb46fb7da794]: Textual amendment: S. 145(3)(3A) substituted for s. 145(3) (with effect in accordance with s. 53(7)(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 53(5)](https://www.legislation.gov.uk/ukpga/2012/14/section/53/5)
 
-[^key-cdceb5191acc66722431617e020d037b]: Textual amendment: S. 145(7) inserted (with effect in accordance with s. 53(7)(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 53(6)](https://www.legislation.gov.uk/ukpga/2012/14/section/53/6)
+[^c-cdceb5191acc66722431617e020d037b]: Textual amendment: S. 145(7) inserted (with effect in accordance with s. 53(7)(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 53(6)](https://www.legislation.gov.uk/ukpga/2012/14/section/53/6)

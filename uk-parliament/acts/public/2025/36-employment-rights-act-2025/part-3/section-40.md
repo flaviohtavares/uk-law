@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Membership, procedure, etc of Negotiating Body[^key-00b53fee315ccf4858c86ae3dcbe0a8c][^key-643e03772eedf9ca1697688e2951b40f]
+## 40. Membership, procedure, etc of Negotiating Body[^c-00b53fee315ccf4858c86ae3dcbe0a8c][^c-643e03772eedf9ca1697688e2951b40f]
 
 *Extent: E+W+S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00b53fee315ccf4858c86ae3dcbe0a8c]: Commencement: S. 40 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-00b53fee315ccf4858c86ae3dcbe0a8c]: Commencement: S. 40 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-643e03772eedf9ca1697688e2951b40f]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2025/36/section/40) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(10)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/10)
+[^c-643e03772eedf9ca1697688e2951b40f]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2025/36/section/40) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(10)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/10)

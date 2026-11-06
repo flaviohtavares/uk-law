@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Visitors for children notified to a local authority ...[^key-e904255b95165e70ca81510bb62c1ff5][^key-16446e9a7cc8a16db5ce252fac9d015f]
+## 122. Visitors for children notified to a local authority ...[^c-e904255b95165e70ca81510bb62c1ff5][^c-16446e9a7cc8a16db5ce252fac9d015f]
 
 *Extent: E+W*
 
 (1) This section applies if the appropriate officer of a local authority—
 
-- (a) has been notified with respect to a child under section 120(2)(a) or 121(2)(a), or under section 85(1) of the Children Act 1989 (children accommodated by health authorities and local education authorities),[^key-875183d44ca80c38d5c9b911c9a550fd] and
-- (b) has not been notified with respect to that child under section 120(2)(b) or section 121(2)(b) , or under section 85(2) of the Children Act 1989[^key-ed66e31093116625168fe8d38d92279b].
+- (a) has been notified with respect to a child under section 120(2)(a) or 121(2)(a), or under section 85(1) of the Children Act 1989 (children accommodated by health authorities and local education authorities),[^c-875183d44ca80c38d5c9b911c9a550fd] and
+- (b) has not been notified with respect to that child under section 120(2)(b) or section 121(2)(b) , or under section 85(2) of the Children Act 1989[^c-ed66e31093116625168fe8d38d92279b].
 
 (2) The local authority must, in accordance with regulations made under this section, make arrangements for the child to be visited by a representative of the authority (“a representative”).
 
@@ -41,10 +41,10 @@ summary: ''
 
 ## Annotations
 
-[^key-e904255b95165e70ca81510bb62c1ff5]: Commencement: S. 122 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-e904255b95165e70ca81510bb62c1ff5]: Commencement: S. 122 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-16446e9a7cc8a16db5ce252fac9d015f]: Textual amendment: Words in heading omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [306(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/306/c)
+[^c-16446e9a7cc8a16db5ce252fac9d015f]: Textual amendment: Words in heading omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [306(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/306/c)
 
-[^key-875183d44ca80c38d5c9b911c9a550fd]: Textual amendment: Words in s. 122(1)(a) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [306(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/306/a)
+[^c-875183d44ca80c38d5c9b911c9a550fd]: Textual amendment: Words in s. 122(1)(a) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [306(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/306/a)
 
-[^key-ed66e31093116625168fe8d38d92279b]: Textual amendment: Words in s. 122(1)(b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [306(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/306/b)
+[^c-ed66e31093116625168fe8d38d92279b]: Textual amendment: Words in s. 122(1)(b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [306(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/306/b)

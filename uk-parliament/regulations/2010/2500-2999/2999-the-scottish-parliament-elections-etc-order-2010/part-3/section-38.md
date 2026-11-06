@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Payment of expenses through election agent: constituency and individual regional candidates[^key-72f3d82034b55403b8b043ccd2c7fe98]
+## 38. Payment of expenses through election agent: constituency and individual regional candidates[^c-72f3d82034b55403b8b043ccd2c7fe98]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ in respect of election expenses incurred by or on behalf of the candidate for re
 
 ## Annotations
 
-[^key-72f3d82034b55403b8b043ccd2c7fe98]: Commencement: Art. 38 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-72f3d82034b55403b8b043ccd2c7fe98]: Commencement: Art. 38 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

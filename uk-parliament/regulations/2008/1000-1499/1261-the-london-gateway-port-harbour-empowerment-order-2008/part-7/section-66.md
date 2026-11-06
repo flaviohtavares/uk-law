@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66. Arbitration[^key-0c596e8c17e4328bb6fe9a856c47f506]
+## 66. Arbitration[^c-0c596e8c17e4328bb6fe9a856c47f506]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Unless otherwise agreed between the parties, any difference under any provision 
 
 ## Annotations
 
-[^key-0c596e8c17e4328bb6fe9a856c47f506]: Commencement: Art. 66 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-0c596e8c17e4328bb6fe9a856c47f506]: Commencement: Art. 66 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

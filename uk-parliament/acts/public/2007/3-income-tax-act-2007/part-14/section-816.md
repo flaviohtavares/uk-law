@@ -24,20 +24,20 @@ summary: ''
 
 - (a) disregarded savings and investment income (see section 825),
 - (b) disregarded annual payments (see section 826),
-- (c)[^key-fc5f0a8c03ed5b3baf57d31efe757076] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-39247b6ec2ede5c067534e487b9dbeb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-fc5f0a8c03ed5b3baf57d31efe757076] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-39247b6ec2ede5c067534e487b9dbeb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) income of such other description as the Treasury may by regulations designate for the purposes of this section.
 
-(2)[^key-86df42929b6f5a33ed7535fb0b1414f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-86df42929b6f5a33ed7535fb0b1414f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-86df42929b6f5a33ed7535fb0b1414f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-86df42929b6f5a33ed7535fb0b1414f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-86df42929b6f5a33ed7535fb0b1414f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-86df42929b6f5a33ed7535fb0b1414f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc5f0a8c03ed5b3baf57d31efe757076]: Textual amendment: S. 816(1)(c) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 9(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/9/2/a/i), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-fc5f0a8c03ed5b3baf57d31efe757076]: Textual amendment: S. 816(1)(c) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 9(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/9/2/a/i), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
 
-[^key-39247b6ec2ede5c067534e487b9dbeb6]: Textual amendment: S. 816(1)(d) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 9(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/9/2/a/i), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-39247b6ec2ede5c067534e487b9dbeb6]: Textual amendment: S. 816(1)(d) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 9(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/9/2/a/i), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
 
-[^key-86df42929b6f5a33ed7535fb0b1414f4]: Textual amendment: S. 816(2)-(4) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 9(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/9/2/a/ii), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-86df42929b6f5a33ed7535fb0b1414f4]: Textual amendment: S. 816(2)-(4) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 9(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/9/2/a/ii), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

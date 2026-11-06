@@ -22,7 +22,7 @@ summary: ''
 
 (1) In this section—
 
-- “ Marrakesh beneficiary” means a person who—[^key-ea1b8193438f893b8811481e3689fe0c]
+- “ Marrakesh beneficiary” means a person who—[^c-ea1b8193438f893b8811481e3689fe0c]
   - (a) is blind,
   - (b) has a visual impairment which cannot be improved so as to give the person visual function substantially equivalent to that of a person who has no such impairment, and who is, as a result, unable to read printed works to substantially the same degree as a person without such an impairment,
   - (c) has a perceptual or reading disability and is, as a result, unable to read printed works to substantially the same degree as a person without such disability, or
@@ -58,9 +58,9 @@ and shall publish directions given under this subsection in such manner as in hi
 
 (8) Any direction given under this section shall be in writing.
 
-(9) Subject to subsection (9A),[^key-4cb3eb1aa47776f40301c697bd8bddb6] This section does not apply to copyright works made available to the public on agreed contractual terms in such a way that members of the public may access them from a place and at a time individually chosen by them.
+(9) Subject to subsection (9A),[^c-4cb3eb1aa47776f40301c697bd8bddb6] This section does not apply to copyright works made available to the public on agreed contractual terms in such a way that members of the public may access them from a place and at a time individually chosen by them.
 
-(9A)[^key-ea2617fa9b0ab2d36fa7e219f22c3289] But this section does apply where the application of any effective technological measure to a Marrakesh work prevents the making of an accessible copy of that work under sections 31A, 31B or 31BA, or paragraphs 3A, 3B or 3C of Schedule 2, for the benefit of a Marrakesh beneficiary.
+(9A)[^c-ea2617fa9b0ab2d36fa7e219f22c3289] But this section does apply where the application of any effective technological measure to a Marrakesh work prevents the making of an accessible copy of that work under sections 31A, 31B or 31BA, or paragraphs 3A, 3B or 3C of Schedule 2, for the benefit of a Marrakesh beneficiary.
 
 (10) This section applies only where a complainant has lawful access to the protected copyright work, or where the complainant is a representative of a class of persons, where the class of persons have lawful access to the work.
 
@@ -74,8 +74,8 @@ and shall publish directions given under this subsection in such manner as in hi
 
 [^c19421031]: Textual amendment: Ss. 296-296ZF and cross-heading substituted (31.10.2003) for s. 296 and cross-heading by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/24/1) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 
-[^key-ea1b8193438f893b8811481e3689fe0c]: Textual amendment: Words in s. 296ZE(1) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/10/2)
+[^c-ea1b8193438f893b8811481e3689fe0c]: Textual amendment: Words in s. 296ZE(1) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/10/2)
 
-[^key-4cb3eb1aa47776f40301c697bd8bddb6]: Textual amendment: Words in s. 296ZE(9) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2018/995/regulation/10/3)
+[^c-4cb3eb1aa47776f40301c697bd8bddb6]: Textual amendment: Words in s. 296ZE(9) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2018/995/regulation/10/3)
 
-[^key-ea2617fa9b0ab2d36fa7e219f22c3289]: Textual amendment: S. 296ZE(9A) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2018/995/regulation/10/4)
+[^c-ea2617fa9b0ab2d36fa7e219f22c3289]: Textual amendment: S. 296ZE(9A) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2018/995/regulation/10/4)

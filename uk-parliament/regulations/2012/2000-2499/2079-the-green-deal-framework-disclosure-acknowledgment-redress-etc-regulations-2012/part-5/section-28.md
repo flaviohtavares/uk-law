@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Estimating the period over which savings are likely to be made[^key-a5b72137fc99b2e0978589ea8d9eb70d]
+## 28. Estimating the period over which savings are likely to be made[^c-a5b72137fc99b2e0978589ea8d9eb70d]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a5b72137fc99b2e0978589ea8d9eb70d]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2012/2079/regulation/28) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-a5b72137fc99b2e0978589ea8d9eb70d]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2012/2079/regulation/28) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
 
 [^f00026]: Footnote: This is the estimate that is required to be made under section 4(5) of the Act.

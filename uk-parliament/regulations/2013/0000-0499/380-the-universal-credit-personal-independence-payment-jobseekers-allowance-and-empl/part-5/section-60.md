@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S*
 
-[^key-2a20d25c24c68fa6cd844aaba2e8a483]...deductions may be made from benefit and direct payments may be made to third parties on behalf of a claimant in accordance with the provisions of Schedule 6 and Schedule 7.
+[^c-2a20d25c24c68fa6cd844aaba2e8a483]...deductions may be made from benefit and direct payments may be made to third parties on behalf of a claimant in accordance with the provisions of Schedule 6 and Schedule 7.
 
 ## Annotations
 
-[^key-2a20d25c24c68fa6cd844aaba2e8a483]: Textual amendment: Words in reg. 60 omitted by S.I. 2017/725, Sch. 5 para. 8(b) (as inserted) (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
+[^c-2a20d25c24c68fa6cd844aaba2e8a483]: Textual amendment: Words in reg. 60 omitted by S.I. 2017/725, Sch. 5 para. 8(b) (as inserted) (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)

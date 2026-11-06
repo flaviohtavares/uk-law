@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36CB. Requisite knowledge and skill: holders of relevant qualifications[^key-41d0844266526fb372ff6ac216c84068][^key-1d96b1e0984e692736dfc03f35ac8d7a]
+## 36CB. Requisite knowledge and skill: holders of relevant qualifications[^c-41d0844266526fb372ff6ac216c84068][^c-1d96b1e0984e692736dfc03f35ac8d7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41d0844266526fb372ff6ac216c84068]: Textual amendment: [Ss. 36CB](https://www.legislation.gov.uk/ukpga/1984/24/section/36CB), [36CC](https://www.legislation.gov.uk/ukpga/1984/24/section/36CC) inserted (8.3.2023) by [The Dentists, Dental Care Professionals, Nurses, Nursing Associates and Midwives (International Registrations) Order 2023 (S.I. 2023/162)](https://www.legislation.gov.uk/uksi/2023/162), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/162/article/1/2), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2023/162/schedule/1/paragraph/4/2)
+[^c-41d0844266526fb372ff6ac216c84068]: Textual amendment: [Ss. 36CB](https://www.legislation.gov.uk/ukpga/1984/24/section/36CB), [36CC](https://www.legislation.gov.uk/ukpga/1984/24/section/36CC) inserted (8.3.2023) by [The Dentists, Dental Care Professionals, Nurses, Nursing Associates and Midwives (International Registrations) Order 2023 (S.I. 2023/162)](https://www.legislation.gov.uk/uksi/2023/162), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/162/article/1/2), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2023/162/schedule/1/paragraph/4/2)
 
-[^key-1d96b1e0984e692736dfc03f35ac8d7a]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 29](https://www.legislation.gov.uk/uksi/2005/2011/article/29) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-1d96b1e0984e692736dfc03f35ac8d7a]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 29](https://www.legislation.gov.uk/uksi/2005/2011/article/29) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))

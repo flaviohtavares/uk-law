@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Withdrawal and replacement of notices[^key-6ce0d8cbaeff4c970bc4149fa7d801b5]
+## 83. Withdrawal and replacement of notices[^c-6ce0d8cbaeff4c970bc4149fa7d801b5]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ce0d8cbaeff4c970bc4149fa7d801b5]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2007/15/section/83) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-6ce0d8cbaeff4c970bc4149fa7d801b5]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2007/15/section/83) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

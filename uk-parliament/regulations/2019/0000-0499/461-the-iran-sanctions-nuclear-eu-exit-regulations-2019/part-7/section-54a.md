@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54A. Finance: disclosure to the Treasury[^key-2bfef26f7e3fe893e1ccdf12b5c03283]
+## 54A. Finance: disclosure to the Treasury[^c-2bfef26f7e3fe893e1ccdf12b5c03283]
 
 *Extent: E+W+S+N.I.*
 
-(1) A relevant public authority may disclose information to the Treasury if the disclosure is made for the purpose of enabling or assisting the Treasury to discharge any of its functions in connection with any sanctions regulations contained in these Regulations[^key-c586660ee1af0d573f91bc6c7e171f8d].
+(1) A relevant public authority may disclose information to the Treasury if the disclosure is made for the purpose of enabling or assisting the Treasury to discharge any of its functions in connection with any sanctions regulations contained in these Regulations[^c-c586660ee1af0d573f91bc6c7e171f8d].
 
 (2) In this regulation—
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2bfef26f7e3fe893e1ccdf12b5c03283]: Textual amendment: [Reg. 54A](https://www.legislation.gov.uk/uksi/2019/461/regulation/54A) inserted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2022/819/regulation/5/3)
+[^c-2bfef26f7e3fe893e1ccdf12b5c03283]: Textual amendment: [Reg. 54A](https://www.legislation.gov.uk/uksi/2019/461/regulation/54A) inserted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2022/819/regulation/5/3)
 
-[^key-c586660ee1af0d573f91bc6c7e171f8d]: Textual amendment: Words in [reg. 54A(1)](https://www.legislation.gov.uk/uksi/2019/461/regulation/54A/1) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [6(11)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/6/11)
+[^c-c586660ee1af0d573f91bc6c7e171f8d]: Textual amendment: Words in [reg. 54A(1)](https://www.legislation.gov.uk/uksi/2019/461/regulation/54A/1) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [6(11)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/6/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Interpretation[^key-620af3ded0e6a4325a298d63ac24fc0b]
+## 189. Interpretation[^c-620af3ded0e6a4325a298d63ac24fc0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 2(1) of the Personal Pension Schemes (Restriction on Discretion to
 
 ## Annotations
 
-[^key-620af3ded0e6a4325a298d63ac24fc0b]: Commencement: Art. 189 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-620af3ded0e6a4325a298d63ac24fc0b]: Commencement: Art. 189 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

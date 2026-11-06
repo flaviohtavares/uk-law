@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Temporary closure of, and works in the Aire and Calder Navigation[^key-2cb40dc8d887a5323e5f457ed946da20]
+## 16. Temporary closure of, and works in the Aire and Calder Navigation[^c-2cb40dc8d887a5323e5f457ed946da20]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cb40dc8d887a5323e5f457ed946da20]: Commencement: Art. 16 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-2cb40dc8d887a5323e5f457ed946da20]: Commencement: Art. 16 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

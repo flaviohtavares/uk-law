@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Statement of assets and liabilities etc.[^key-7eaac9f5af9e4bdea70c9c69a725548f]
+## 41. Statement of assets and liabilities etc.[^c-7eaac9f5af9e4bdea70c9c69a725548f]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ then the debtor commits of an offence.
 
 ## Annotations
 
-[^key-7eaac9f5af9e4bdea70c9c69a725548f]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2016/21/section/41) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-7eaac9f5af9e4bdea70c9c69a725548f]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2016/21/section/41) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

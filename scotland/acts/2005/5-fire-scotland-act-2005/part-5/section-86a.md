@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86A. Interpretation[^key-b5eefa9ff25a759aaa75f546777ad321]
+## 86A. Interpretation[^c-b5eefa9ff25a759aaa75f546777ad321]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5eefa9ff25a759aaa75f546777ad321]: Textual amendment: S. 86A inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(27)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/27); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-b5eefa9ff25a759aaa75f546777ad321]: Textual amendment: S. 86A inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(27)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/27); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

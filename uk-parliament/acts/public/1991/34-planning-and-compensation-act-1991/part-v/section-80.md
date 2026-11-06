@@ -25,7 +25,7 @@ summary: ''
 (2) If it appears to any person that he may become liable to pay to another—
 
 - (a) compensation under any provision mentioned in Schedule 18 to this Act, or
-- (b) interest under subsection (1) above, under any provision mentioned in Part II of Schedule 18 to this Act or under any bond under section 85 of the [^c15660791]Lands Clauses Consolidation Act 1845 or [^key-f7dd3e5a870333acfab58ba6c8bda24d]...,
+- (b) interest under subsection (1) above, under any provision mentioned in Part II of Schedule 18 to this Act or under any bond under section 85 of the [^c15660791]Lands Clauses Consolidation Act 1845 or [^c-f7dd3e5a870333acfab58ba6c8bda24d]...,
 
 he may, if the other person requests him in writing to do so, make one or more payments on account of such compensation or interest.
 
@@ -52,4 +52,4 @@ the payment or, as the case may be, excess shall be recoverable by that person.
 
 [^c15660791]: Marginal citation: [1845 c. 18](https://www.legislation.gov.uk/ukpga/1845/18).
 
-[^key-f7dd3e5a870333acfab58ba6c8bda24d]: Textual amendment: Words in [s. 80(2)](https://www.legislation.gov.uk/ukpga/1991/34/section/80/2) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 16 para. 16](https://www.legislation.gov.uk/ukpga/2016/22/schedule/16/paragraph/16); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/j)
+[^c-f7dd3e5a870333acfab58ba6c8bda24d]: Textual amendment: Words in [s. 80(2)](https://www.legislation.gov.uk/ukpga/1991/34/section/80/2) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 16 para. 16](https://www.legislation.gov.uk/ukpga/2016/22/schedule/16/paragraph/16); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/j)

@@ -50,13 +50,13 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 ## PART I — PRELIMINARY
 
-### 1. Citation, commencement and extent[^key-8fc9e17770526958f9d4e4c4d66870e3]
+### 1. Citation, commencement and extent[^c-8fc9e17770526958f9d4e4c4d66870e3]
 
 (1) These Regulations may be cited as the Fishery Products (Official Controls Charges) (Scotland) Regulations 2005 and come into force on 1st January 2006.
 
 (2) These Regulations extend to Scotland only.
 
-### 2. Interpretation[^key-04682d4c0fac3a06334636bf0510b30e]
+### 2. Interpretation[^c-04682d4c0fac3a06334636bf0510b30e]
 
 In these Regulations–
 
@@ -100,7 +100,7 @@ In these Regulations–
   - (a) where an agent sells fishery products on behalf of the owner or master of a vessel, that agent; and
   - (b) in any other case, the owner or master of the vessel.
 
-### 3. Actual costs[^key-a4b0fba0d5ffa3a1e91764fcf990a3b3]
+### 3. Actual costs[^c-a4b0fba0d5ffa3a1e91764fcf990a3b3]
 
 (1) For the purposes of these Regulations, the actual costs of exercising official controls are the aggregate of costs of the types specified in paragraph (2) directly incurred in the exercise of the official controls required under Annex III to Regulation 854/2004.
 
@@ -115,7 +115,7 @@ In these Regulations–
 - (g) sampling and analysis costs incurred in exercising the controls; and
 - (h) the routine administrative costs of accounting and collecting charges and of providing pay–roll and personnel services in connection with the employment of staff exercising the controls.
 
-### 4. Sterling equivalents of Euro[^key-5ae1b72d0f528f159c90c2ca16e37426]
+### 4. Sterling equivalents of Euro[^c-5ae1b72d0f528f159c90c2ca16e37426]
 
 (1) Any reference in these Regulations to a specified number of Euro shall be deemed to be a reference to the Sterling equivalent of that number calculated in accordance with paragraph (2).
 
@@ -126,7 +126,7 @@ In these Regulations–
 - (a) for 2006, 1 Euro = £0.68290; and
 - (b) in each subsequent year, the rate published in the C Series of the Official Journal of the European Communities on the first working day of the September of the preceding year or, if no rate is published in it on that day, the first rate published in it thereafter.
 
-### 5. Account period[^key-d78e36bada1f698b4a87ca6d2f42d4ef]
+### 5. Account period[^c-d78e36bada1f698b4a87ca6d2f42d4ef]
 
 (1) For the purposes of these Regulations, the account period shall be 1 month or such longer period not exceeding 12 months as is determined by the relevant food authority.
 
@@ -135,14 +135,14 @@ In these Regulations–
 - (a) making returns; and
 - (b) collecting charges.
 
-### 6. Recovery of charges[^key-c1c8f70401da962dd95a8684604c8700]
+### 6. Recovery of charges[^c-c1c8f70401da962dd95a8684604c8700]
 
 Where any duty is imposed under these Regulations on more than one person, the authority to which the duty is owed may enforce that duty–
 
 - (a) jointly against any two or more of them, or
 - (b) separately against any one of them.
 
-### 7. Calculation, payment and repayment of charges[^key-0fcee0150df16439feb80d29dfe1aeb4]
+### 7. Calculation, payment and repayment of charges[^c-0fcee0150df16439feb80d29dfe1aeb4]
 
 (1) Where a relevant food authority or the competent authority becomes aware that a charge is due to it under these Regulations it shall–
 
@@ -158,7 +158,7 @@ Where any duty is imposed under these Regulations on more than one person, the a
 - (b) the recalculated charge is less than the amount notified under paragraph (1) and that amount has not been recovered, the authority shall recover the lesser amount; or
 - (c) the recalculated charge is less than the amount notified under paragraph (1) or no charge is payable and, in either case, the amount notified under paragraph (1) has been recovered, the authority shall repay the difference between the recalculated charge and the amount recovered.
 
-### 8. Appeals[^key-68c0093db6b61c85a168b1aee8971a49]
+### 8. Appeals[^c-68c0093db6b61c85a168b1aee8971a49]
 
 (1) A person may appeal to the sheriff against any decision of a relevant food authority or the competent authority imposing a charge under these Regulations.
 
@@ -174,7 +174,7 @@ Where any duty is imposed under these Regulations on more than one person, the a
 
 (5) If the sheriff determines that the amount of any charge imposed under these Regulations is less than the amount which any person has paid to an authority in respect of it, the overpayment shall be reimbursed by that authority.
 
-### 9. Charges payable to more than one food authority[^key-a0e2dcaec9be55a57332c758ab2a15ed]
+### 9. Charges payable to more than one food authority[^c-a0e2dcaec9be55a57332c758ab2a15ed]
 
 In any case where the exercise of official controls is deferred and the food authority responsible for the exercise of official controls on vessels and on conditions of landing (“authority A”), or the food authority responsible for the exercise of official controls required under Chapter II of Annex III to Regulation 854/2004 (“authority B”), is not the relevant food authority to which a charge is required to be paid under these Regulations (“authority C”), authority C shall remit–
 
@@ -183,7 +183,7 @@ In any case where the exercise of official controls is deferred and the food aut
 
 ## PART II — OFFICIAL CONTROLS CHARGES OTHER THAN CHARGES FOR DIRECT LANDINGS FROM THIRD COUNTRY VESSELS AND FOR THIRD COUNTRY IMPORTS
 
-### 10. General landings charge[^key-54d88ff8448669c0746428c6589ea4b6]
+### 10. General landings charge[^c-54d88ff8448669c0746428c6589ea4b6]
 
 (1) The first sale in Scotland of relevant landed fishery products shall be a chargeable transaction for the purposes of this Part.
 
@@ -195,14 +195,14 @@ In any case where the exercise of official controls is deferred and the food aut
 
 (5) The general landings charge shall be payable to the relevant food authority by the vendor.
 
-### 11. Reduction of the general landings charge[^key-f1df5265c34610b9da1fbbefe6faecaa]
+### 11. Reduction of the general landings charge[^c-f1df5265c34610b9da1fbbefe6faecaa]
 
 The relevant food authority to which a charge is payable under regulation 10(5) shall reduce that charge by 55% where any of the official controls required under Chapter II of Annex III to Regulation 854/2004 are facilitated on the basis that–
 
 - (a) the fish are graded for freshness or size in accordance with relevant national or Community rules; or
 - (b) the first sale transactions are grouped together.
 
-### 12. Collection and remittance of charges relating to general landings[^key-d33034074ac7d709e28586b9b4099d27]
+### 12. Collection and remittance of charges relating to general landings[^c-d33034074ac7d709e28586b9b4099d27]
 
 (1) Within 7 days of the end of each account period in which a vendor enters into a chargeable transaction, the vendor shall make a written return in respect of that transaction to the relevant food authority to which the general landings charge is payable.
 
@@ -231,20 +231,20 @@ The relevant food authority to which a charge is payable under regulation 10(5) 
 - (a) the relevant food authority to which it was made may require the vendor to provide separate information of the kind required by paragraph (3) in respect of each transaction included in it; and
 - (b) the vendor shall retain records which are sufficient to enable any such information to be supplied on request.
 
-### 13. Charge for fishery products landed from factory vessels[^key-312fa8f748b3948273c2803d81db0206]
+### 13. Charge for fishery products landed from factory vessels[^c-312fa8f748b3948273c2803d81db0206]
 
 (1) Subject to paragraph (2), a charge of 1 Euro per tonne of fishery products which is landed shall be payable to the relevant food authority by the owner or master of a factory vessel, by way of contribution in respect of the expenditure incurred by that authority in exercising the official controls required under Annex III to Regulation 854/2004.
 
 (2) The charge payable under paragraph (1) shall be payable in addition to the charge payable under regulation 10 but shall not apply in relation to third country imports or relevant fishery products which are sold for the first time in Scotland.
 
-### 14. Reduction of the charge in respect of products landed from factory vessels[^key-05ef6f6892be802663ffee043da08e8a]
+### 14. Reduction of the charge in respect of products landed from factory vessels[^c-05ef6f6892be802663ffee043da08e8a]
 
 The relevant food authority to which a charge is payable under regulation 13(1) shall reduce that charge by 55% where–
 
 - (a) first sale and preparation or processing is carried out on the same factory vessel; or
 - (b) operating conditions on a factory vessel, and guarantees as to the vessel’s own checks, are such that inspection staff requirements can be reduced.
 
-### 15. Collection and remittance of the factory vessel charge[^key-307d69424b701d56e18784ab725a102e]
+### 15. Collection and remittance of the factory vessel charge[^c-307d69424b701d56e18784ab725a102e]
 
 (1) Within 7 days of the end of each account period in which fishery products in respect of which a charge is payable under regulation 13(1) have been landed from a factory vessel, the owner or master of the vessel who is responsible for paying that charge shall make a written return in respect of it to the relevant food authority to which it is payable.
 
@@ -264,22 +264,22 @@ The relevant food authority to which a charge is payable under regulation 13(1) 
 - (a) the relevant food authority to which the return was made may require the owner or master to provide separate information of the kind required by paragraph (3) in respect of each landing included in it; and
 - (b) the owner or master shall retain records which are sufficient to enable any such information to be supplied.
 
-### 16. Charge in respect of factory vessels abroad[^key-6bfddb040eda172c625777374765636f]
+### 16. Charge in respect of factory vessels abroad[^c-6bfddb040eda172c625777374765636f]
 
 The owner or master of a factory vessel shall pay to the competent authority the actual costs incurred by that authority in exercising the official controls required under paragraphs 2(c) and 3(a) (insofar as they apply in relation to factory vessels) and 3(b) of Chapter I of Annex III to Regulation 854/2004.
 
-### 17. Charge in respect of preparation or processing establishments[^key-b71e8efaa580dd98a81d22511c44e405]
+### 17. Charge in respect of preparation or processing establishments[^c-b71e8efaa580dd98a81d22511c44e405]
 
 A charge of 1 Euro per tonne of fishery products entering a preparation or processing establishment shall be payable to the relevant food authority by the proprietor or operator of that establishment, by way of contribution in respect of the expenditure incurred by that authority in exercising the official controls required under Annex III to Regulation 854/2004 in respect of that establishment.
 
-### 18. Reduction of the charge in respect of preparation or processing establishments[^key-e950c17b5842f20e41d16074beca86cd]
+### 18. Reduction of the charge in respect of preparation or processing establishments[^c-e950c17b5842f20e41d16074beca86cd]
 
 The relevant food authority to which a charge is payable under regulation 17 shall reduce that charge by 55% where preparation or processing is carried out–
 
 - (a) on the same site as the first sale; or
 - (b) in an establishment in which operating conditions and guarantees as to the establishment’s own checks are such that inspection staff requirements can be reduced.
 
-### 19. Collection and remittance of charges relating to preparation or processing establishments[^key-ba3e569b6ada4cb02a1988e5dc564fa3]
+### 19. Collection and remittance of charges relating to preparation or processing establishments[^c-ba3e569b6ada4cb02a1988e5dc564fa3]
 
 (1) Within 7 days of the end of each account period in which fishery products have entered a preparation or processing establishment, the proprietor or operator who is responsible for paying the charge under regulation 17 relating to that establishment shall make a written return in respect of that charge to the relevant food authority to which it is payable.
 
@@ -297,13 +297,13 @@ The relevant food authority to which a charge is payable under regulation 17 sha
 - (a) the relevant food authority to which the return was made may require the proprietor or operator to provide separate information of the kind required by paragraph (3) in respect of each batch of fishery products included in it; and
 - (b) the proprietor or operator shall retain records which are sufficient to enable any such information to be supplied.
 
-### 20. Charges in respect of other establishments[^key-6f9cae7d3c2afd4a8a38ed3386dc232f]
+### 20. Charges in respect of other establishments[^c-6f9cae7d3c2afd4a8a38ed3386dc232f]
 
 The proprietor of an establishment in which fishery products are only chilled, frozen, packaged or stored shall pay to the relevant food authority the actual costs incurred by that authority in carrying out a programmed inspection for the purposes of the official controls required under Annex III to Regulation 854/2004.
 
 ## PART III — OFFICIAL CONTROLS CHARGES FOR DIRECT LANDINGS FROM THIRD COUNTRY VESSELS
 
-### 21. Charge in respect of official checks on third country direct landings[^key-54f30b1b6cb0bde0869c9c55f3e37e81]
+### 21. Charge in respect of official checks on third country direct landings[^c-54f30b1b6cb0bde0869c9c55f3e37e81]
 
 (1) When any relevant fishery products are sold for the first time in Scotland (referred to in this Part as a “chargeable transaction”), the vendor shall include in the price which the purchaser is required to pay for them an amount equal to the charge referred to in this Part as “the third country direct landings charge”.
 
@@ -314,14 +314,14 @@ The proprietor of an establishment in which fishery products are only chilled, f
 
 (3) The third country direct landings charge shall be payable to the relevant food authority by the vendor.
 
-### 22. Reduction of the third country direct landings charge[^key-324d6becc438b2bb1de47237e591bdde]
+### 22. Reduction of the third country direct landings charge[^c-324d6becc438b2bb1de47237e591bdde]
 
 The relevant food authority to which a charge is payable under regulation 21(3) shall reduce by 55% the part of the third country direct landings charge which is calculated in accordance with regulation 21(2)(a) where any of the official controls required under Chapter II of Annex III to Regulation 854/2004 are facilitated on the basis that–
 
 - (a) the fish are graded for freshness and/or size in accordance with relevant national or Community rules; or
 - (b) the first sale transactions are grouped together.
 
-### 23. Collection and remittance arrangements[^key-e59edf1be821fc04e120dc4c00a5ba16]
+### 23. Collection and remittance arrangements[^c-e59edf1be821fc04e120dc4c00a5ba16]
 
 (1) A vendor who has entered into a chargeable transaction shall within 7 days of the end of the account period during which the chargeable transaction took place make a return in respect of it to the relevant food authority to which the third country direct landings charge is payable or, if there has been more than one such transaction, information in respect of the aggregate of the transactions.
 
@@ -356,7 +356,7 @@ St Andrew’s House, Edinburgh
 
 24th November 2005
 
-## SCHEDULE — DEFINITIONS OF COMMUNITY LEGISLATION[^key-eec24c600dbf32649f1da9c92d9bb17d]
+## SCHEDULE — DEFINITIONS OF COMMUNITY LEGISLATION[^c-eec24c600dbf32649f1da9c92d9bb17d]
 
 Regulation 2
 
@@ -405,9 +405,9 @@ No regulatory impact assessment has been produced for this Instrument as it has 
 
 [^f00002]: Footnote: O.J. No. L 31, 1.2.02, p.1, as last amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council, (O.J. No. L 245, 29.9.03, p.4).
 
-[^key-8fc9e17770526958f9d4e4c4d66870e3]: Commencement: Reg. 1 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-8fc9e17770526958f9d4e4c4d66870e3]: Commencement: Reg. 1 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-04682d4c0fac3a06334636bf0510b30e]: Commencement: Reg. 2 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-04682d4c0fac3a06334636bf0510b30e]: Commencement: Reg. 2 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
 [^f00003]: Footnote: [S.S.I. 2005/505](https://www.legislation.gov.uk/ssi/2005/505).
 
@@ -417,51 +417,51 @@ No regulatory impact assessment has been produced for this Instrument as it has 
 
 [^f00006]: Footnote: [S.S.I. 2002/445](https://www.legislation.gov.uk/ssi/2002/445).
 
-[^key-a4b0fba0d5ffa3a1e91764fcf990a3b3]: Commencement: Reg. 3 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-a4b0fba0d5ffa3a1e91764fcf990a3b3]: Commencement: Reg. 3 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-5ae1b72d0f528f159c90c2ca16e37426]: Commencement: Reg. 4 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-5ae1b72d0f528f159c90c2ca16e37426]: Commencement: Reg. 4 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-d78e36bada1f698b4a87ca6d2f42d4ef]: Commencement: Reg. 5 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-d78e36bada1f698b4a87ca6d2f42d4ef]: Commencement: Reg. 5 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-c1c8f70401da962dd95a8684604c8700]: Commencement: Reg. 6 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-c1c8f70401da962dd95a8684604c8700]: Commencement: Reg. 6 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-0fcee0150df16439feb80d29dfe1aeb4]: Commencement: Reg. 7 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-0fcee0150df16439feb80d29dfe1aeb4]: Commencement: Reg. 7 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-68c0093db6b61c85a168b1aee8971a49]: Commencement: Reg. 8 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-68c0093db6b61c85a168b1aee8971a49]: Commencement: Reg. 8 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
 [^f00007]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
 
-[^key-a0e2dcaec9be55a57332c758ab2a15ed]: Commencement: Reg. 9 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-a0e2dcaec9be55a57332c758ab2a15ed]: Commencement: Reg. 9 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-54d88ff8448669c0746428c6589ea4b6]: Commencement: Reg. 10 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-54d88ff8448669c0746428c6589ea4b6]: Commencement: Reg. 10 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-f1df5265c34610b9da1fbbefe6faecaa]: Commencement: Reg. 11 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-f1df5265c34610b9da1fbbefe6faecaa]: Commencement: Reg. 11 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-d33034074ac7d709e28586b9b4099d27]: Commencement: Reg. 12 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-d33034074ac7d709e28586b9b4099d27]: Commencement: Reg. 12 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-312fa8f748b3948273c2803d81db0206]: Commencement: Reg. 13 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-312fa8f748b3948273c2803d81db0206]: Commencement: Reg. 13 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-05ef6f6892be802663ffee043da08e8a]: Commencement: Reg. 14 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-05ef6f6892be802663ffee043da08e8a]: Commencement: Reg. 14 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-307d69424b701d56e18784ab725a102e]: Commencement: Reg. 15 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-307d69424b701d56e18784ab725a102e]: Commencement: Reg. 15 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-6bfddb040eda172c625777374765636f]: Commencement: Reg. 16 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-6bfddb040eda172c625777374765636f]: Commencement: Reg. 16 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-b71e8efaa580dd98a81d22511c44e405]: Commencement: Reg. 17 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-b71e8efaa580dd98a81d22511c44e405]: Commencement: Reg. 17 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-e950c17b5842f20e41d16074beca86cd]: Commencement: Reg. 18 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-e950c17b5842f20e41d16074beca86cd]: Commencement: Reg. 18 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-ba3e569b6ada4cb02a1988e5dc564fa3]: Commencement: Reg. 19 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-ba3e569b6ada4cb02a1988e5dc564fa3]: Commencement: Reg. 19 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-6f9cae7d3c2afd4a8a38ed3386dc232f]: Commencement: Reg. 20 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-6f9cae7d3c2afd4a8a38ed3386dc232f]: Commencement: Reg. 20 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-54f30b1b6cb0bde0869c9c55f3e37e81]: Commencement: Reg. 21 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-54f30b1b6cb0bde0869c9c55f3e37e81]: Commencement: Reg. 21 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-324d6becc438b2bb1de47237e591bdde]: Commencement: Reg. 22 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-324d6becc438b2bb1de47237e591bdde]: Commencement: Reg. 22 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-e59edf1be821fc04e120dc4c00a5ba16]: Commencement: Reg. 23 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-e59edf1be821fc04e120dc4c00a5ba16]: Commencement: Reg. 23 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
-[^key-eec24c600dbf32649f1da9c92d9bb17d]: Commencement: Sch. in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
+[^c-eec24c600dbf32649f1da9c92d9bb17d]: Commencement: Sch. in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/597/regulation/1/1)
 
 [^f00008]: Footnote: O.J. No. L 157, 30.4.04, p.33. The revised text of Directive [2004/41/EC](https://www.legislation.gov.uk/european/directive/2004/0041) is now set out in a Corrigendum (O.J. No. L 195, 2.6.04, p.12).
 

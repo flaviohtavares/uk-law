@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Circumventing etc. prohibitions[^key-f7be8b4178cae1a82ad0540921250192]
+## 39. Circumventing etc. prohibitions[^c-f7be8b4178cae1a82ad0540921250192]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7be8b4178cae1a82ad0540921250192]: Commencement: Reg. 39 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-f7be8b4178cae1a82ad0540921250192]: Commencement: Reg. 39 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

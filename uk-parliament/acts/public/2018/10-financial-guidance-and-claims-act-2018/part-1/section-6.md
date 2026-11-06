@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Debt respite scheme: advice to the Secretary of State[^key-1b19d019e475a53619d72cb79fd07600]
+## 6. Debt respite scheme: advice to the Secretary of State[^c-1b19d019e475a53619d72cb79fd07600]
 
 *Extent: E+W+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) protect individuals in debt from the accrual of further interest or charges on their debts during the period specified by the scheme,
 - (b) protect individuals in debt from enforcement action from their creditors during that period, and
-- (c) help individuals in debt and their creditors *(Extent: E+W)* *(affected by repeal, see note)*[^key-50fa10d96fc93246cb3764628d19d532] to devise a realistic plan for the repayment of some or all of the debts.
+- (c) help individuals in debt and their creditors *(Extent: E+W)* *(affected by repeal, see note)*[^c-50fa10d96fc93246cb3764628d19d532] to devise a realistic plan for the repayment of some or all of the debts.
 
 (3) The matters on which the Secretary of State may seek advice include (but are not limited to)—
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b19d019e475a53619d72cb79fd07600]: Commencement: S. 6 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/d)
+[^c-1b19d019e475a53619d72cb79fd07600]: Commencement: S. 6 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/d)
 
-[^key-50fa10d96fc93246cb3764628d19d532]: Textual amendment: Words in [s. 6(2)(c)](https://www.legislation.gov.uk/ukpga/2018/10/section/6/2/c) omitted (E.W.) (29.6.2021) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 35(1)](https://www.legislation.gov.uk/ukpga/2021/22/section/35/1), [49(2)(c)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/2/c) (with [s. 35(4)](https://www.legislation.gov.uk/ukpga/2021/22/section/35/4))
+[^c-50fa10d96fc93246cb3764628d19d532]: Textual amendment: Words in [s. 6(2)(c)](https://www.legislation.gov.uk/ukpga/2018/10/section/6/2/c) omitted (E.W.) (29.6.2021) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 35(1)](https://www.legislation.gov.uk/ukpga/2021/22/section/35/1), [49(2)(c)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/2/c) (with [s. 35(4)](https://www.legislation.gov.uk/ukpga/2021/22/section/35/4))

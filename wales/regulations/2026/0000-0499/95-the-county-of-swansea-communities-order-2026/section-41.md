@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Creation of the new community of Gower South[^key-8d23eda5f5bc62b5563e30fc55cea167]
+## 41. Creation of the new community of Gower South[^c-8d23eda5f5bc62b5563e30fc55cea167]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A new community is created which is to be known as Gower South in the English la
 
 ## Annotations
 
-[^key-8d23eda5f5bc62b5563e30fc55cea167]: Commencement: [Art. 41](https://www.legislation.gov.uk/wsi/2026/95/article/41) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-8d23eda5f5bc62b5563e30fc55cea167]: Commencement: [Art. 41](https://www.legislation.gov.uk/wsi/2026/95/article/41) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

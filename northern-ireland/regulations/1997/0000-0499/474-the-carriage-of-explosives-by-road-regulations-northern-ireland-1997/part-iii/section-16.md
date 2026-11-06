@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Information to be provided by consignors[^key-93e7b32f0049552da7a41852aa07a98c]
+## 16. Information to be provided by consignors[^c-93e7b32f0049552da7a41852aa07a98c]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93e7b32f0049552da7a41852aa07a98c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/1997/474/regulation/16) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-93e7b32f0049552da7a41852aa07a98c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/1997/474/regulation/16) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

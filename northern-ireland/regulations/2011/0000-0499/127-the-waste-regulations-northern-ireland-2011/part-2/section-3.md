@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Amendment of the Waste and Contaminated Land (Northern Ireland) Order 1997[^key-851552c8c5488c02e8aa90a98b5276d4]
+## 3. Amendment of the Waste and Contaminated Land (Northern Ireland) Order 1997[^c-851552c8c5488c02e8aa90a98b5276d4]
 
 *Extent: N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 - “the Waste Directive” means Directive [2006/12/EC](https://www.legislation.gov.uk/european/directive/2006/0012) of the European Parliament and of the Council dated 5 April 2006, on waste;
   - (a) omit paragraph (6).
 
-**4.**[^key-8a0a89236a07658b2872e1fa443dea2e] (1) In Article 5 (duty of care, etc., as respects waste)—
+**4.**[^c-8a0a89236a07658b2872e1fa443dea2e] (1) In Article 5 (duty of care, etc., as respects waste)—
 
 - (a) in paragraph (1) after “produces,” insert “collects,” and after “broker” insert or dealer”;
 - (b) paragraph (1)(c)(i) delete “and”;
@@ -50,7 +50,7 @@ summary: ''
 
 (2) Omit paragraph (14).
 
-**5.**[^key-a4b59f5108aa132e6ad9156ccba9c854] (1) In Article 19 (waste management strategy)—
+**5.**[^c-a4b59f5108aa132e6ad9156ccba9c854] (1) In Article 19 (waste management strategy)—
 
 - (a) for paragraph (2) substitute—
 
@@ -80,14 +80,14 @@ summary: ''
 
   > (8) The Department shall ensure that the waste management strategy conforms to the strategy for the reduction of biodegradable waste going to landfill required by section 20(1) of the Waste and Emissions Trading Act 2003.
 
-**6.**[^key-ddfb7e31d77fcbf6ad0924fe70a54016] (1) In Article 30 (special provision with respect to certain dangerous or intractable waste)—
+**6.**[^c-ddfb7e31d77fcbf6ad0924fe70a54016] (1) In Article 30 (special provision with respect to certain dangerous or intractable waste)—
 
 - (a) in sub-paragraph (2)(e) after “broker” insert “or dealer”; and
 - (b) paragraph (4) is repealed.
 
-**7.**[^key-3f5c8d5896ed3c7a53db0f44cc751d78] Schedule 1 is repealed.
+**7.**[^c-3f5c8d5896ed3c7a53db0f44cc751d78] Schedule 1 is repealed.
 
-**8.**[^key-c2bd4feb840e6b576d137f2d77e3645c] For Schedule 3 substitute —
+**8.**[^c-c2bd4feb840e6b576d137f2d77e3645c] For Schedule 3 substitute —
 
 > **SCHEDULE 3 — THE WASTE MANAGEMENT STRATEGY**
 >
@@ -182,14 +182,14 @@ summary: ''
 
 ## Annotations
 
-[^key-851552c8c5488c02e8aa90a98b5276d4]: Commencement: Reg. 3 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-851552c8c5488c02e8aa90a98b5276d4]: Commencement: Reg. 3 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-8a0a89236a07658b2872e1fa443dea2e]: Commencement: Reg. 4 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-8a0a89236a07658b2872e1fa443dea2e]: Commencement: Reg. 4 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-a4b59f5108aa132e6ad9156ccba9c854]: Commencement: Reg. 5 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-a4b59f5108aa132e6ad9156ccba9c854]: Commencement: Reg. 5 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-ddfb7e31d77fcbf6ad0924fe70a54016]: Commencement: Reg. 6 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-ddfb7e31d77fcbf6ad0924fe70a54016]: Commencement: Reg. 6 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-3f5c8d5896ed3c7a53db0f44cc751d78]: Commencement: Reg. 7 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-3f5c8d5896ed3c7a53db0f44cc751d78]: Commencement: Reg. 7 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
-[^key-c2bd4feb840e6b576d137f2d77e3645c]: Commencement: Reg. 8 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-c2bd4feb840e6b576d137f2d77e3645c]: Commencement: Reg. 8 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)

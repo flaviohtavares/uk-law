@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. New arrangements for entry to pharmaceutical list[^key-c294c5f20192956924619c64f43a0acc]
+## 26. New arrangements for entry to pharmaceutical list[^c-c294c5f20192956924619c64f43a0acc]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c294c5f20192956924619c64f43a0acc]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2009/21/section/26) in force at 1.9.2012 by [S.I. 2012/1902](https://www.legislation.gov.uk/uksi/2012/1902), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1902/article/2/a)
+[^c-c294c5f20192956924619c64f43a0acc]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2009/21/section/26) in force at 1.9.2012 by [S.I. 2012/1902](https://www.legislation.gov.uk/uksi/2012/1902), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1902/article/2/a)

@@ -16,62 +16,62 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Industrial injuries and diseases (Old Cases)[^key-e72e188b7f6ba5b6112de73a128f2049]
+## SCHEDULE 8 — Industrial injuries and diseases (Old Cases)[^c-e72e188b7f6ba5b6112de73a128f2049]
 
 *Extent: E+W+S*
 
 Section 111.
 
-### Part I — Workmen’s compensation and industrial diseases benefit in respect of employment before 5th July 1948[^key-e72e188b7f6ba5b6112de73a128f2049]
+### Part I — Workmen’s compensation and industrial diseases benefit in respect of employment before 5th July 1948[^c-e72e188b7f6ba5b6112de73a128f2049]
 
-#### Continuation of workmen’s compensation[^key-e72e188b7f6ba5b6112de73a128f2049]
-
-**No longer in force.**
-
-**1.**[^key-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Schemes for supplementing workmen’s compensation[^key-e72e188b7f6ba5b6112de73a128f2049]
+#### Continuation of workmen’s compensation[^c-e72e188b7f6ba5b6112de73a128f2049]
 
 **No longer in force.**
 
-**2.**[^key-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Provisions supplementary to paragraph 2[^key-e72e188b7f6ba5b6112de73a128f2049]
-
-**No longer in force.**
-
-**3.**[^key-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Industrial diseases benefit schemes[^key-e72e188b7f6ba5b6112de73a128f2049]
+#### Schemes for supplementing workmen’s compensation[^c-e72e188b7f6ba5b6112de73a128f2049]
 
 **No longer in force.**
 
-**4.**[^key-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Restrictions on scope of schemes under paragraph 4[^key-e72e188b7f6ba5b6112de73a128f2049]
-
-**No longer in force.**
-
-**5.**[^key-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Nature and amount of benefit under paragraph 4[^key-e72e188b7f6ba5b6112de73a128f2049]
+#### Provisions supplementary to paragraph 2[^c-e72e188b7f6ba5b6112de73a128f2049]
 
 **No longer in force.**
 
-**6.**[^key-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Regulations providing for benefit[^key-e72e188b7f6ba5b6112de73a128f2049]
+#### Industrial diseases benefit schemes[^c-e72e188b7f6ba5b6112de73a128f2049]
+
+**No longer in force.**
+
+**4.**[^c-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Restrictions on scope of schemes under paragraph 4[^c-e72e188b7f6ba5b6112de73a128f2049]
+
+**No longer in force.**
+
+**5.**[^c-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Nature and amount of benefit under paragraph 4[^c-e72e188b7f6ba5b6112de73a128f2049]
+
+**No longer in force.**
+
+**6.**[^c-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Part II — Regulations providing for benefit[^c-e72e188b7f6ba5b6112de73a128f2049]
 
 **May not be in force at this date. Check the source.**
 
-**7.**[^key-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part III — Interpretation[^key-e72e188b7f6ba5b6112de73a128f2049]
+### Part III — Interpretation[^c-e72e188b7f6ba5b6112de73a128f2049]
 
 **May not be in force at this date. Check the source.**
 
-**8.**[^key-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e72e188b7f6ba5b6112de73a128f2049] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e72e188b7f6ba5b6112de73a128f2049]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/1992/4/schedule/8) repealed (30.10.2012 for specified purposes, 5.12.2012 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/64/2), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/5/a)[(6)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/a)
+[^c-e72e188b7f6ba5b6112de73a128f2049]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/1992/4/schedule/8) repealed (30.10.2012 for specified purposes, 5.12.2012 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/64/2), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/5/a)[(6)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. The Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009[^key-7502c2a98b80d551dd5b59993c218e0c]
+## 3. The Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009[^c-7502c2a98b80d551dd5b59993c218e0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7502c2a98b80d551dd5b59993c218e0c]: Textual amendment: Regs. 2-10 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/6), [6](https://www.legislation.gov.uk/uksi/2020/1637/regulation/6)
+[^c-7502c2a98b80d551dd5b59993c218e0c]: Textual amendment: Regs. 2-10 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(6)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/6), [6](https://www.legislation.gov.uk/uksi/2020/1637/regulation/6)

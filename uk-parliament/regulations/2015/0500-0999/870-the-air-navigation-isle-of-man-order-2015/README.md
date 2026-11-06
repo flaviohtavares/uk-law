@@ -155,7 +155,7 @@ Her Majesty, in exercise of the powers conferred on Her by sections 60 and 61 of
 - [Section 55 — Carriage of baggage](part-9/section-55.md)
 - [Section 56 — Exceptions](part-9/section-56.md)
 
-### PART 10 — Aerodrome Operating Minima[^key-3aa0ae193c786c992871229c86081d7e]
+### PART 10 — Aerodrome Operating Minima[^c-3aa0ae193c786c992871229c86081d7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -241,7 +241,7 @@ Her Majesty, in exercise of the powers conferred on Her by sections 60 and 61 of
 - [Section 98 — Small unmanned surveillance aircraft](part-17/section-98.md)
 - [Section 99 — Rockets](part-17/section-99.md)
 
-### PART 17A — Large and turbojet aircraft[^key-1ff103de54cdaaef966c909c1ed2be6a]
+### PART 17A — Large and turbojet aircraft[^c-1ff103de54cdaaef966c909c1ed2be6a]
 
 - [Section 99A — Application of Part](part-17a/section-99a.md)
 - [Section 99B — Operator to provide a company operations manual](part-17a/section-99b.md)
@@ -424,6 +424,6 @@ This Order makes provision for the Isle of Man, corresponding to certain provisi
 
 [^f00001]: Footnote: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16); sections 60 and 61 are extended to the Isle of Man by the Civil Aviation (Isle of Man) Order 2007 ([S.I. 2007/614](https://www.legislation.gov.uk/uksi/2007/614)).
 
-[^key-3aa0ae193c786c992871229c86081d7e]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/2015/870/part/10) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [9](https://www.legislation.gov.uk/uksi/2016/155/article/9)
+[^c-3aa0ae193c786c992871229c86081d7e]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/uksi/2015/870/part/10) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [9](https://www.legislation.gov.uk/uksi/2016/155/article/9)
 
-[^key-1ff103de54cdaaef966c909c1ed2be6a]: Textual amendment: [Pt. 17A](https://www.legislation.gov.uk/uksi/2015/870/part/17A) inserted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [14](https://www.legislation.gov.uk/uksi/2016/155/article/14)
+[^c-1ff103de54cdaaef966c909c1ed2be6a]: Textual amendment: [Pt. 17A](https://www.legislation.gov.uk/uksi/2015/870/part/17A) inserted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [14](https://www.legislation.gov.uk/uksi/2016/155/article/14)

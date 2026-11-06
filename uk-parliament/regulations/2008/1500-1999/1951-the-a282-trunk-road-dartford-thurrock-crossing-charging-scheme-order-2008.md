@@ -31,7 +31,7 @@ summary: ''
 
 Highways, England
 
-The A282 Trunk Road (Dartford-Thurrock Crossing Charging Scheme) Order 2008 (revoked)[^key-d212763b4cf8c292686329e2b6aa64fd]
+The A282 Trunk Road (Dartford-Thurrock Crossing Charging Scheme) Order 2008 (revoked)[^c-d212763b4cf8c292686329e2b6aa64fd]
 
 Made
 
@@ -41,64 +41,64 @@ Coming into force
 
 15th November 2008
 
-[^key-d212763b4cf8c292686329e2b6aa64fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d212763b4cf8c292686329e2b6aa64fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d212763b4cf8c292686329e2b6aa64fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d212763b4cf8c292686329e2b6aa64fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — LENGTH OF HIGHWAY SUBJECT TO THE CHARGING REGIME[^key-d212763b4cf8c292686329e2b6aa64fd]
+## SCHEDULE 1 — LENGTH OF HIGHWAY SUBJECT TO THE CHARGING REGIME[^c-d212763b4cf8c292686329e2b6aa64fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — THE CHARGING REGIME[^key-d212763b4cf8c292686329e2b6aa64fd]
+## SCHEDULE 2 — THE CHARGING REGIME[^c-d212763b4cf8c292686329e2b6aa64fd]
 
-**1.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — VARIATION OF THE CHARGING REGIME IN LINE WITH THE RETAIL PRICE INDEX[^key-d212763b4cf8c292686329e2b6aa64fd]
+## SCHEDULE 3 — VARIATION OF THE CHARGING REGIME IN LINE WITH THE RETAIL PRICE INDEX[^c-d212763b4cf8c292686329e2b6aa64fd]
 
-**3.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — DESCRIPTIONS OF MOTOR VEHICLES EXEMPT FROM THE CHARGING REGIME[^key-d212763b4cf8c292686329e2b6aa64fd]
+## SCHEDULE 4 — DESCRIPTIONS OF MOTOR VEHICLES EXEMPT FROM THE CHARGING REGIME[^c-d212763b4cf8c292686329e2b6aa64fd]
 
-**11.**[^key-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-d212763b4cf8c292686329e2b6aa64fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d212763b4cf8c292686329e2b6aa64fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d212763b4cf8c292686329e2b6aa64fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d212763b4cf8c292686329e2b6aa64fd]: Textual amendment: Order revoked (7.10.2012) by [The A282 Trunk Road (Dartford-Thurrock Crossing Charging Scheme) Order 2012 (S.I. 2012/2387)](https://www.legislation.gov.uk/uksi/2012/2387), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2387/article/1/3), [7](https://www.legislation.gov.uk/uksi/2012/2387/article/7)
+[^c-d212763b4cf8c292686329e2b6aa64fd]: Textual amendment: Order revoked (7.10.2012) by [The A282 Trunk Road (Dartford-Thurrock Crossing Charging Scheme) Order 2012 (S.I. 2012/2387)](https://www.legislation.gov.uk/uksi/2012/2387), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2387/article/1/3), [7](https://www.legislation.gov.uk/uksi/2012/2387/article/7)

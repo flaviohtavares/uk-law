@@ -135,13 +135,13 @@ In any case in which allowance is made for spoiled or misused stamps the Commiss
 
 - (1)[^c5978141] Forges a die or stamp;
 - (2) Prints or makes an impression upon any material with a forged die;
-- (3) Fraudulently produces a stamp by means of[^key-55b03da9524bb0822c654009dc6e45b1] a genuine die;
+- (3) Fraudulently produces a stamp by means of[^c-55b03da9524bb0822c654009dc6e45b1] a genuine die;
 - (4) Fraudulently cuts, tears, or in any way removes from any material any stamp, with intent that any use should be made of such stamp or of any part thereof;
 - (5) Fraudulently mutilates any stamp, with intent that any use should be made of any part of such stamp;
 - (6) Fraudulently fixes or places upon any material or upon any stamp, any stamp or part of a stamp which, whether fraudulently or not, has been cut, torn, or in any way removed from any other material, or out of or from any other stamp;
 - (7) Fraudulently erases or otherwise either really or apparently removes from any stamped material any name, sum, date, or other matter or thing whatsoever thereon written, with the intent that any use should be made of the stamp upon such material;
-- (8) Knowingly sells or exposes for sale or utters or uses any forged stamp, or[^c5978151] any stamp which has been fraudulently produced by means of[^key-733d7789e6c522820ff2b65127ff2c46] a genuine die;
-- (9) Knowingly, and without lawful excuse (the proof whereof shall lie on the person accused) has in his possession any forged die or stamp or any stamp which has been fraudulently produced by means of[^key-c3a459abc124923b06056a7ef12a8c1b] a genuine die, or any stamp or part of a stamp which has been fraudulently cut, torn, or otherwise removed from any material, or any stamp which has been fraudulently mutilated, or any stamped material out of which any name, sum, date, or other matter or thing has been fraudulently erased or otherwise either really or apparently removed,
+- (8) Knowingly sells or exposes for sale or utters or uses any forged stamp, or[^c5978151] any stamp which has been fraudulently produced by means of[^c-733d7789e6c522820ff2b65127ff2c46] a genuine die;
+- (9) Knowingly, and without lawful excuse (the proof whereof shall lie on the person accused) has in his possession any forged die or stamp or any stamp which has been fraudulently produced by means of[^c-c3a459abc124923b06056a7ef12a8c1b] a genuine die, or any stamp or part of a stamp which has been fraudulently cut, torn, or otherwise removed from any material, or any stamp which has been fraudulently mutilated, or any stamped material out of which any name, sum, date, or other matter or thing has been fraudulently erased or otherwise either really or apparently removed,
 
 [^c5978171]. . .
 
@@ -218,10 +218,10 @@ In this Act, unless the context otherwise requires,—
 - The expression “**duty**” means any stamp duty for the time being chargeable by law:
 - The expression “**material**” includes every sort of material upon which words or figures can be expressed:
 - The expression “**instrument**” includes every written document:
-- [^c5978471]The expression “**die**” includes any plate, type, tool, machine,[^key-9a008b76ece11176c4fcd12358a28aa5] or implement whatever used under the direction of the Commissioners for expressing or denoting any duty, or rate of duty, or the fact that any duty or rate of duty or penalty has been paid, or that an instrument is duly stamped, or is not chargeable with any duty or for denoting any fee, and also any part of any such plate, type, tool, machine, or implement:
+- [^c5978471]The expression “**die**” includes any plate, type, tool, machine,[^c-9a008b76ece11176c4fcd12358a28aa5] or implement whatever used under the direction of the Commissioners for expressing or denoting any duty, or rate of duty, or the fact that any duty or rate of duty or penalty has been paid, or that an instrument is duly stamped, or is not chargeable with any duty or for denoting any fee, and also any part of any such plate, type, tool, machine, or implement:
 - The expressions “**forge**” and “**forged**” include counterfeit and counterfeited:
-- [^c5978471]The expression “**stamp**” means as well a stamp produced[^key-b88c0d50616d0fa226588851249895a5] by means of a die as an adhesive stamp for denoting any duty or fee:
-- The expression “**stamped**” is applicable as well to instruments and material bearing stamps produced[^key-f9006738cfdaddcf84407f88c92307b2] by means of a die as to instruments and material having adhesive stamps affixed thereto:
+- [^c5978471]The expression “**stamp**” means as well a stamp produced[^c-b88c0d50616d0fa226588851249895a5] by means of a die as an adhesive stamp for denoting any duty or fee:
+- The expression “**stamped**” is applicable as well to instruments and material bearing stamps produced[^c-f9006738cfdaddcf84407f88c92307b2] by means of a die as to instruments and material having adhesive stamps affixed thereto:
 - The expressions “**executed**” and “**execution**”have the same meaning as in the Stamp Act 1891[^c5978491]
 - The expression “**justice**” means justice of the peace.
 
@@ -299,13 +299,13 @@ This Act may be cited as the Stamp Duties Management Act 1891.
 
 [^c5978141]: Textual amendment: S. 13(1)(2) repealed (E.W.) by [Forgery Act 1913 (c. 27)](https://www.legislation.gov.uk/ukpga/1913/27), [Sch. Pt. I](https://www.legislation.gov.uk/ukpga/1913/27/schedule/part/I)
 
-[^key-55b03da9524bb0822c654009dc6e45b1]: Textual amendment: Words in s. 13(3) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/719/regulation/2/2/a)
+[^c-55b03da9524bb0822c654009dc6e45b1]: Textual amendment: Words in s. 13(3) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/719/regulation/2/2/a)
 
 [^c5978151]: Textual amendment: Words repealed (E.W.) by [Forgery Act 1913 (c. 27)](https://www.legislation.gov.uk/ukpga/1913/27), [Sch. Pt. I](https://www.legislation.gov.uk/ukpga/1913/27/schedule/part/I)
 
-[^key-733d7789e6c522820ff2b65127ff2c46]: Textual amendment: Words in s. 13(8) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/719/regulation/2/2/b)
+[^c-733d7789e6c522820ff2b65127ff2c46]: Textual amendment: Words in s. 13(8) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/719/regulation/2/2/b)
 
-[^key-c3a459abc124923b06056a7ef12a8c1b]: Textual amendment: Words in s. 13(9) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/719/regulation/2/2/b)
+[^c-c3a459abc124923b06056a7ef12a8c1b]: Textual amendment: Words in s. 13(9) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/719/regulation/2/2/b)
 
 [^c5978171]: Textual amendment: Words in s. 13 repealed (27.7.1999 with effect in relation to things done or omitted on or after 1.10.1999) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [ss. 115](https://www.legislation.gov.uk/ukpga/1999/16/section/115), [139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 18 Pt. II para. 5(4)(6)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/18/part/II/paragraph/5/4/6), [Sch. 20 Pt. V(3)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/V/3) Note
 
@@ -349,11 +349,11 @@ This Act may be cited as the Stamp Duties Management Act 1891.
 
 [^c5978471]: Modification: Definitions of “die” and “stamp” extended by [Post Office Act 1969 (c. 48)](https://www.legislation.gov.uk/ukpga/1969/48), [s. 118(2)](https://www.legislation.gov.uk/ukpga/1969/48/section/118/2)
 
-[^key-9a008b76ece11176c4fcd12358a28aa5]: Textual amendment: Word in [s. 27](https://www.legislation.gov.uk/ukpga/Vict/54-55/38/section/27) inserted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/719/regulation/2/3/a)
+[^c-9a008b76ece11176c4fcd12358a28aa5]: Textual amendment: Word in [s. 27](https://www.legislation.gov.uk/ukpga/Vict/54-55/38/section/27) inserted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/719/regulation/2/3/a)
 
-[^key-b88c0d50616d0fa226588851249895a5]: Textual amendment: Word in [s. 27](https://www.legislation.gov.uk/ukpga/Vict/54-55/38/section/27) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/719/regulation/2/3/b)
+[^c-b88c0d50616d0fa226588851249895a5]: Textual amendment: Word in [s. 27](https://www.legislation.gov.uk/ukpga/Vict/54-55/38/section/27) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/719/regulation/2/3/b)
 
-[^key-f9006738cfdaddcf84407f88c92307b2]: Textual amendment: Words in [s. 27](https://www.legislation.gov.uk/ukpga/Vict/54-55/38/section/27) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/719/regulation/2/3/c)
+[^c-f9006738cfdaddcf84407f88c92307b2]: Textual amendment: Words in [s. 27](https://www.legislation.gov.uk/ukpga/Vict/54-55/38/section/27) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/719/regulation/2/3/c)
 
 [^c5978491]: Textual amendment: Words in s. 27 substituted (3.5.1994) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 239(2)](https://www.legislation.gov.uk/ukpga/1994/9/section/239/2) (with (3))
 

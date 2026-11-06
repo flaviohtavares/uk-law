@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Suspension of requirement to hold inquest with jury: England and Wales[^key-2be764d876c72b44e91d31f57ace6b0f]
+## 30. Suspension of requirement to hold inquest with jury: England and Wales[^c-2be764d876c72b44e91d31f57ace6b0f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2be764d876c72b44e91d31f57ace6b0f]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/2020/7/section/30) omitted (28.6.2022) by virtue of [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 42(11)](https://www.legislation.gov.uk/ukpga/2022/35/section/42/11), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3) (with [s. 42(12)](https://www.legislation.gov.uk/ukpga/2022/35/section/42/12))
+[^c-2be764d876c72b44e91d31f57ace6b0f]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/2020/7/section/30) omitted (28.6.2022) by virtue of [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 42(11)](https://www.legislation.gov.uk/ukpga/2022/35/section/42/11), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3) (with [s. 42(12)](https://www.legislation.gov.uk/ukpga/2022/35/section/42/12))

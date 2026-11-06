@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Amendment of the Local Authority Social Services and National Health Service Complaints (England) Regulations 2009[^key-2358d182352f271f3945a03b53921edb]
+## 34. Amendment of the Local Authority Social Services and National Health Service Complaints (England) Regulations 2009[^c-2358d182352f271f3945a03b53921edb]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2358d182352f271f3945a03b53921edb]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2023/1071/regulation/34) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-2358d182352f271f3945a03b53921edb]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2023/1071/regulation/34) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00028]: Footnote: [S.I. 2009/309](https://www.legislation.gov.uk/uksi/2009/309), relevant amending instruments are [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235) and [S.I. 2019/248](https://www.legislation.gov.uk/uksi/2019/248).

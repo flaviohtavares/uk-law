@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Objective and general functions[^key-8e061fa8d9b465f6b37d0a554ce5842e]
+## 31. Objective and general functions[^c-8e061fa8d9b465f6b37d0a554ce5842e]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e061fa8d9b465f6b37d0a554ce5842e]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2020/27/section/31) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/b)
+[^c-8e061fa8d9b465f6b37d0a554ce5842e]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2020/27/section/31) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/b)

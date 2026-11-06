@@ -28,7 +28,7 @@ summary: ''
   - (ii) in pursuance of letters patent, or
   - (iii) that is otherwise duly constituted according to law.
 
-  other than a company registered under Part 4 of the Risk Transformation Regulations 2017.[^key-e4b9731ad6bd331b5e8ae6703ce84c70]
+  other than a company registered under Part 4 of the Risk Transformation Regulations 2017.[^c-e4b9731ad6bd331b5e8ae6703ce84c70]
 
 (2) Any such company may on making application register under this Act.
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4b9731ad6bd331b5e8ae6703ce84c70]: Textual amendment: Words in [s. 1040(1)(b)](https://www.legislation.gov.uk/ukpga/2006/46/section/1040/1/b) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 4(a)](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/4/a) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-e4b9731ad6bd331b5e8ae6703ce84c70]: Textual amendment: Words in [s. 1040(1)(b)](https://www.legislation.gov.uk/ukpga/2006/46/section/1040/1/b) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 4(a)](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/4/a) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))

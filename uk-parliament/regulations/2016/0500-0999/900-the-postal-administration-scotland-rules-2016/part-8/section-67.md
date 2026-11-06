@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Notification and advertisement of appointment of replacement postal administrator[^key-06418859c675d8f30dbe633ced298dc4]
+## 67. Notification and advertisement of appointment of replacement postal administrator[^c-06418859c675d8f30dbe633ced298dc4]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06418859c675d8f30dbe633ced298dc4]: Commencement: Rule 67 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-06418859c675d8f30dbe633ced298dc4]: Commencement: Rule 67 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

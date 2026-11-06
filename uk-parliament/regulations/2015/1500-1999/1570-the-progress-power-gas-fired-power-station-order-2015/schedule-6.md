@@ -22,7 +22,7 @@ summary: ''
 
 Article 11
 
-### PART 1 — THOSE PARTS OF THE ACCESSES TO BE MAINTAINED AT THE PUBLIC EXPENSE[^key-7787afed6117304d672578492edb6f05]
+### PART 1 — THOSE PARTS OF THE ACCESSES TO BE MAINTAINED AT THE PUBLIC EXPENSE[^c-7787afed6117304d672578492edb6f05]
 
 <table>
 <thead>
@@ -36,7 +36,7 @@ Article 11
 </tbody>
 </table>
 
-### PART 2 — THOSE PARTS OF THE ACCESSES TO BE MAINTAINED BY THE STREET AUTHORITY[^key-364eae6fe7df25eb5057573693207700]
+### PART 2 — THOSE PARTS OF THE ACCESSES TO BE MAINTAINED BY THE STREET AUTHORITY[^c-364eae6fe7df25eb5057573693207700]
 
 <table>
 <thead>
@@ -52,7 +52,7 @@ Article 11
 </tbody>
 </table>
 
-### PART 3 — THOSE WORKS TO RESTORE TEMPORARY ACCESSES WHICH WILL BE MAINTAINED BY THE STREET AUTHORITY[^key-e65b3065a351300e4f43a999dcb6f18f]
+### PART 3 — THOSE WORKS TO RESTORE TEMPORARY ACCESSES WHICH WILL BE MAINTAINED BY THE STREET AUTHORITY[^c-e65b3065a351300e4f43a999dcb6f18f]
 
 <table>
 <thead>
@@ -66,8 +66,8 @@ Article 11
 
 ## Annotations
 
-[^key-7787afed6117304d672578492edb6f05]: Commencement: Sch. 6 Pt. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-7787afed6117304d672578492edb6f05]: Commencement: Sch. 6 Pt. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
 
-[^key-364eae6fe7df25eb5057573693207700]: Commencement: Sch. 6 Pt. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-364eae6fe7df25eb5057573693207700]: Commencement: Sch. 6 Pt. 2 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
 
-[^key-e65b3065a351300e4f43a999dcb6f18f]: Commencement: Sch. 6 Pt. 3 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-e65b3065a351300e4f43a999dcb6f18f]: Commencement: Sch. 6 Pt. 3 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)

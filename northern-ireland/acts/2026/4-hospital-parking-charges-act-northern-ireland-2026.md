@@ -35,7 +35,7 @@ An Act to further postpone the ban under the Hospital Parking Charges Act (North
 
 Be it enacted by being passed by the Northern Ireland Assembly and assented to by His Majesty as follows:
 
-## 1. New date for ban on charges[^key-5744aaa19ad0525a3f956df94d558019]
+## 1. New date for ban on charges[^c-5744aaa19ad0525a3f956df94d558019]
 
 (1) Despite section 1 of the Hospital Parking Charges Act (Northern Ireland) 2024, section 1 of the Hospital Parking Charges Act (Northern Ireland) 2022 (“**the 2022 Act**”) has effect as follows.
 
@@ -50,7 +50,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 (5) Regulations under this Act may not be made unless a draft of them has been laid before, and approved by a resolution of, the Assembly.
 
-## 2. Reporting on cost implications[^key-bb5a02c14ee6893ebd1f185fc087ab02]
+## 2. Reporting on cost implications[^c-bb5a02c14ee6893ebd1f185fc087ab02]
 
 (1) The Department of Health must, within the period of 6 months beginning with the day on which this Act comes into operation, prepare a report on the total costs arising from the delayed implementation of the Hospital Parking Charges Act (Northern Ireland) 2022 to date.
 
@@ -63,7 +63,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 (4) This section expires on the date mentioned in section 1(4).
 
-## 3. Commencement and short title[^key-11be6267df17846c35b30f7ad4767e77]
+## 3. Commencement and short title[^c-11be6267df17846c35b30f7ad4767e77]
 
 (1) This Act comes into operation on the day after receiving Royal Assent.
 
@@ -71,8 +71,8 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 ## Annotations
 
-[^key-5744aaa19ad0525a3f956df94d558019]: Commencement: S. 1 in operation at 7.5.2026, see [s. 3(1)](https://www.legislation.gov.uk/nia/2026/4/section/3/1)
+[^c-5744aaa19ad0525a3f956df94d558019]: Commencement: S. 1 in operation at 7.5.2026, see [s. 3(1)](https://www.legislation.gov.uk/nia/2026/4/section/3/1)
 
-[^key-bb5a02c14ee6893ebd1f185fc087ab02]: Commencement: S. 2 in operation at 7.5.2026, see [s. 3(1)](https://www.legislation.gov.uk/nia/2026/4/section/3/1)
+[^c-bb5a02c14ee6893ebd1f185fc087ab02]: Commencement: S. 2 in operation at 7.5.2026, see [s. 3(1)](https://www.legislation.gov.uk/nia/2026/4/section/3/1)
 
-[^key-11be6267df17846c35b30f7ad4767e77]: Commencement: S. 3 in operation at 7.5.2026, see [s. 3(1)](https://www.legislation.gov.uk/nia/2026/4/section/3/1)
+[^c-11be6267df17846c35b30f7ad4767e77]: Commencement: S. 3 in operation at 7.5.2026, see [s. 3(1)](https://www.legislation.gov.uk/nia/2026/4/section/3/1)

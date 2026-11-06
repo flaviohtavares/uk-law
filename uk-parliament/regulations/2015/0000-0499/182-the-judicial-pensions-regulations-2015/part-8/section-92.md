@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Meaning of “surviving nominated partner”[^key-66cc0627de6cde44f326bc5806e270c3]
+## 92. Meaning of “surviving nominated partner”[^c-66cc0627de6cde44f326bc5806e270c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66cc0627de6cde44f326bc5806e270c3]: Commencement: [Reg. 92](https://www.legislation.gov.uk/uksi/2015/182/regulation/92) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-66cc0627de6cde44f326bc5806e270c3]: Commencement: [Reg. 92](https://www.legislation.gov.uk/uksi/2015/182/regulation/92) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

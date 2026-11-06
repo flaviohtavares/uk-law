@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Exchange gains and losses: chargeable gains[^key-76e5e0261c8c71dbd9e58b6389a22af2]
+## 81. Exchange gains and losses: chargeable gains[^c-76e5e0261c8c71dbd9e58b6389a22af2]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76e5e0261c8c71dbd9e58b6389a22af2]: Commencement: Art. 81 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-76e5e0261c8c71dbd9e58b6389a22af2]: Commencement: Art. 81 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

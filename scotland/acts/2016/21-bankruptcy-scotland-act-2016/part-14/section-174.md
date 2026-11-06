@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 174. Deductions by virtue of protected trust deed from debtor's earnings[^key-0bc694aae9eb4575f8b42b1e3d8d7aef]
+## 174. Deductions by virtue of protected trust deed from debtor's earnings[^c-0bc694aae9eb4575f8b42b1e3d8d7aef]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bc694aae9eb4575f8b42b1e3d8d7aef]: Commencement: S. 174 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-0bc694aae9eb4575f8b42b1e3d8d7aef]: Commencement: S. 174 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

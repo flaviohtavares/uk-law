@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Expenses[^key-cb902f3533dab58cf5e8faab4797bb24]
+## 8. Expenses[^c-cb902f3533dab58cf5e8faab4797bb24]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ If the court makes a postal administration order, the expenses of the petitioner
 
 ## Annotations
 
-[^key-cb902f3533dab58cf5e8faab4797bb24]: Commencement: Rule 8 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-cb902f3533dab58cf5e8faab4797bb24]: Commencement: Rule 8 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Duty to give information to debtor or hirer.[^key-ac80e7b73f0636bfe8ee221e82932b09]
+## 110. Duty to give information to debtor or hirer.[^c-ac80e7b73f0636bfe8ee221e82932b09]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ac80e7b73f0636bfe8ee221e82932b09]: Modification: [S. 110](https://www.legislation.gov.uk/ukpga/1974/39/section/110) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-ac80e7b73f0636bfe8ee221e82932b09]: Modification: [S. 110](https://www.legislation.gov.uk/ukpga/1974/39/section/110) excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
 [^c2431501]: Textual amendment: "£1" substituted (1.5.1998) in s. 110(1) by [S.I. 1998/997](https://www.legislation.gov.uk/uksi/1998/997), [art. 3](https://www.legislation.gov.uk/uksi/1998/997/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1998/997/schedule)
 

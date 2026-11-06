@@ -32,7 +32,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-The Tobacco Products (Manufacture, Presentation and Sale) (Safety) (Amendment) Regulations 2007 (revoked)[^key-2566ccc725d06d1e2689fc21a1391ec2]
+The Tobacco Products (Manufacture, Presentation and Sale) (Safety) (Amendment) Regulations 2007 (revoked)[^c-2566ccc725d06d1e2689fc21a1391ec2]
 
 Made
 
@@ -46,54 +46,54 @@ Coming into force
 
 1st October 2008
 
-[^key-2566ccc725d06d1e2689fc21a1391ec2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2566ccc725d06d1e2689fc21a1391ec2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-2566ccc725d06d1e2689fc21a1391ec2]
+## 1. Citation, commencement and interpretation[^c-2566ccc725d06d1e2689fc21a1391ec2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 7 of the principal Regulations[^key-2566ccc725d06d1e2689fc21a1391ec2]
+## 2. Amendment of regulation 7 of the principal Regulations[^c-2566ccc725d06d1e2689fc21a1391ec2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 9 of the principal Regulations[^key-2566ccc725d06d1e2689fc21a1391ec2]
+## 3. Amendment of regulation 9 of the principal Regulations[^c-2566ccc725d06d1e2689fc21a1391ec2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 11 of the principal Regulations[^key-2566ccc725d06d1e2689fc21a1391ec2]
+## 4. Amendment of regulation 11 of the principal Regulations[^c-2566ccc725d06d1e2689fc21a1391ec2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 14 of the principal Regulations[^key-2566ccc725d06d1e2689fc21a1391ec2]
+## 5. Amendment of regulation 14 of the principal Regulations[^c-2566ccc725d06d1e2689fc21a1391ec2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Substitution of the Schedule to the principal Regulations[^key-2566ccc725d06d1e2689fc21a1391ec2]
+## 6. Substitution of the Schedule to the principal Regulations[^c-2566ccc725d06d1e2689fc21a1391ec2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transitional provisions[^key-2566ccc725d06d1e2689fc21a1391ec2]
+## 7. Transitional provisions[^c-2566ccc725d06d1e2689fc21a1391ec2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2566ccc725d06d1e2689fc21a1391ec2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2566ccc725d06d1e2689fc21a1391ec2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Schedule to be Substituted for the Schedule to the principal Regulations[^key-2566ccc725d06d1e2689fc21a1391ec2]
+## SCHEDULE — Schedule to be Substituted for the Schedule to the principal Regulations[^c-2566ccc725d06d1e2689fc21a1391ec2]
 
 Regulation 6
 
-[^key-2566ccc725d06d1e2689fc21a1391ec2]
+[^c-2566ccc725d06d1e2689fc21a1391ec2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2566ccc725d06d1e2689fc21a1391ec2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2566ccc725d06d1e2689fc21a1391ec2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2566ccc725d06d1e2689fc21a1391ec2]: Textual amendment: Regulations revoked (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/507/regulation/54/c), [54(c)](https://www.legislation.gov.uk/uksi/2016/507/regulation/54/c)
+[^c-2566ccc725d06d1e2689fc21a1391ec2]: Textual amendment: Regulations revoked (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/507/regulation/54/c), [54(c)](https://www.legislation.gov.uk/uksi/2016/507/regulation/54/c)

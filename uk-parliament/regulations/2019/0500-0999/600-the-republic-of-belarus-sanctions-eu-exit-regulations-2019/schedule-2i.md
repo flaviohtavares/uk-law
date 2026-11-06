@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2I — Machinery-Related Goods and Machinery-Related Technology[^key-79166d5d15d1ad7f9ecb0dfa2cfa6e41]
+## SCHEDULE 2I — Machinery-Related Goods and Machinery-Related Technology[^c-79166d5d15d1ad7f9ecb0dfa2cfa6e41]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,7 +100,7 @@ Any thing falling within—
   | 8482 | Ball or roller bearings |
   | 8483 | Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints) |
   | 8484 | Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals |
-  | 8486.10[^key-323738983ab0af183057f71b9330e648] | Machines and apparatus: For the manufacture of boules or wafers |
+  | 8486.10[^c-323738983ab0af183057f71b9330e648] | Machines and apparatus: For the manufacture of boules or wafers |
   | 8486.20 | Machines and apparatus: For the manufacture of semiconductor devices or of electronic integrated circuits |
   | 8486.40 | Machines and apparatus: For the manufacture or repair of masks and reticles; for assembling semiconductors devices; for lifting, handling, loading or unloading of semiconductor devices |
   | 8501 | Electric motors and generators (excluding generating sets) |
@@ -118,23 +118,23 @@ Any thing falling within—
   | 8544 | Insulated (incl. enamelled or anodised) wire, cable (incl. coaxial cable) and other insulated electric conductors, whether or not fitted with connectors; optical fibre cables, made up of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors |
   | 8545 | Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon, with or without metal, of a kind used for electrical purposes |
   | 8547 | Insulating fittings for electrical machines, appliances or equipment, being fittings wholly of insulating material apart from any minor components of metal (for example, threaded sockets) incorporated during moulding solely for purposes of assembly, other than insulators of heading 8546 ; electrical conduit tubing and joints therefor, of base metal lined with insulating material |
-  | 8548[^key-029f67495f63f58653af92a540d0f153] | Electrical parts of machinery or apparatus, not specified or included elsewhere in chapter 85 |
+  | 8548[^c-029f67495f63f58653af92a540d0f153] | Electrical parts of machinery or apparatus, not specified or included elsewhere in chapter 85 |
   |  | Confidential products under Chapter 85; goods under Chapter 85 transported by post or by parcel post (extra)/reconstituted code for statistical distribution |
 
 #### 3. Machinery-related technology
 
-“Software” for the “development”, “production” or “use” of any thing falling within paragraph 2[^key-500638ef7dd39197eca5be687936e764].
+“Software” for the “development”, “production” or “use” of any thing falling within paragraph 2[^c-500638ef7dd39197eca5be687936e764].
 
 **4.** “Technology” for the “development”, “production” or “use” of any thing falling within paragraphs 2 and 3[^M_F_f29b5e33-d702-43e1-fac8-8c03f703b5eb].
 
 ## Annotations
 
-[^key-79166d5d15d1ad7f9ecb0dfa2cfa6e41]: Textual amendment: [Sch. 2I](https://www.legislation.gov.uk/uksi/2019/600/schedule/2I) inserted (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/616/schedule)
+[^c-79166d5d15d1ad7f9ecb0dfa2cfa6e41]: Textual amendment: [Sch. 2I](https://www.legislation.gov.uk/uksi/2019/600/schedule/2I) inserted (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/616/schedule)
 
-[^key-323738983ab0af183057f71b9330e648]: Textual amendment: Words in [Sch. 2I para. 2](https://www.legislation.gov.uk/uksi/2019/600/schedule/2I/paragraph/2) Table inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(24)(a)(i)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/24/a/i)
+[^c-323738983ab0af183057f71b9330e648]: Textual amendment: Words in [Sch. 2I para. 2](https://www.legislation.gov.uk/uksi/2019/600/schedule/2I/paragraph/2) Table inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(24)(a)(i)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/24/a/i)
 
-[^key-029f67495f63f58653af92a540d0f153]: Textual amendment: Words in [Sch. 2I para. 2](https://www.legislation.gov.uk/uksi/2019/600/schedule/2I/paragraph/2) Table substituted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(24)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/24/a/ii)
+[^c-029f67495f63f58653af92a540d0f153]: Textual amendment: Words in [Sch. 2I para. 2](https://www.legislation.gov.uk/uksi/2019/600/schedule/2I/paragraph/2) Table substituted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(24)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/24/a/ii)
 
-[^key-500638ef7dd39197eca5be687936e764]: Textual amendment: Words in [Sch. 2I para. 3](https://www.legislation.gov.uk/uksi/2019/600/schedule/2I/paragraph/3) substituted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(24)(b)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/24/b)
+[^c-500638ef7dd39197eca5be687936e764]: Textual amendment: Words in [Sch. 2I para. 3](https://www.legislation.gov.uk/uksi/2019/600/schedule/2I/paragraph/3) substituted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(24)(b)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/24/b)
 
 [^M_F_f29b5e33-d702-43e1-fac8-8c03f703b5eb]: Textual amendment: Words in Sch. 2I para. 4 substituted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(24)(c)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/24/c)

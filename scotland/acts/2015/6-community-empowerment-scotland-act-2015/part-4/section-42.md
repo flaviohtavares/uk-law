@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-b2a46ed8b5bfb72c347dce52653520f6][^key-ff78bd627e941742cd1631d50cdea3a3] Section 39 of the 2003 Act (procedure for late applications) is amended as follows.
+(1)[^c-b2a46ed8b5bfb72c347dce52653520f6][^c-ff78bd627e941742cd1631d50cdea3a3] Section 39 of the 2003 Act (procedure for late applications) is amended as follows.
 
-(2)[^key-b2a46ed8b5bfb72c347dce52653520f6][^key-ff78bd627e941742cd1631d50cdea3a3] For subsection (1), substitute—
+(2)[^c-b2a46ed8b5bfb72c347dce52653520f6][^c-ff78bd627e941742cd1631d50cdea3a3] For subsection (1), substitute—
 
 > (1) This section (other than subsections (4A) and (5)) applies in relation to an application to register a community interest in land which satisfies—
 >
@@ -43,7 +43,7 @@ summary: ''
 
 .
 
-(3)[^key-15d27c887c2f22be49b364b248d6a3a7] In subsection (2)—
+(3)[^c-15d27c887c2f22be49b364b248d6a3a7] In subsection (2)—
 
 - (a) after paragraph (a), insert—
 
@@ -54,7 +54,7 @@ summary: ''
   , and
 - (b) in paragraph (b)(ii), after “ “30””, insert “ or (in a case where further information is requested under paragraph (aa)) “44” ”.
 
-(4)[^key-b2a46ed8b5bfb72c347dce52653520f6][^key-ff78bd627e941742cd1631d50cdea3a3] In subsection (3), for paragraph (a), substitute—
+(4)[^c-b2a46ed8b5bfb72c347dce52653520f6][^c-ff78bd627e941742cd1631d50cdea3a3] In subsection (3), for paragraph (a), substitute—
 
 > - (a) that—
 >   - (i) such relevant work as Ministers consider reasonable was carried out by a person, or
@@ -69,7 +69,7 @@ summary: ''
 
 .
 
-(5)[^key-15d27c887c2f22be49b364b248d6a3a7] After subsection (3), insert—
+(5)[^c-15d27c887c2f22be49b364b248d6a3a7] After subsection (3), insert—
 
 > (3A) Despite subsection (3), Ministers may decide that a community interest is to be entered in the Register even though the conditions in paragraphs (a) and (aa) of that subsection are not satisfied in relation to the interest, if Ministers are satisfied that there are good reasons—
 >
@@ -83,9 +83,9 @@ summary: ''
 
 .
 
-(6)[^key-15d27c887c2f22be49b364b248d6a3a7] In subsection (4)(c), after “59(1)”, insert “ , 60A(1) ”.
+(6)[^c-15d27c887c2f22be49b364b248d6a3a7] In subsection (4)(c), after “59(1)”, insert “ , 60A(1) ”.
 
-(7)[^key-15d27c887c2f22be49b364b248d6a3a7] After subsection (4), insert—
+(7)[^c-15d27c887c2f22be49b364b248d6a3a7] After subsection (4), insert—
 
 > (4A) Subsection (5) applies in relation to an application to register a community interest in land where the application is received by Ministers after the following have occurred—
 >
@@ -96,9 +96,9 @@ summary: ''
 
 .
 
-(8)[^key-15d27c887c2f22be49b364b248d6a3a7] In subsection (5), the words from “Where” to “land” are repealed.
+(8)[^c-15d27c887c2f22be49b364b248d6a3a7] In subsection (5), the words from “Where” to “land” are repealed.
 
-(9)[^key-b2a46ed8b5bfb72c347dce52653520f6][^key-ff78bd627e941742cd1631d50cdea3a3] After subsection (5), insert—
+(9)[^c-b2a46ed8b5bfb72c347dce52653520f6][^c-ff78bd627e941742cd1631d50cdea3a3] After subsection (5), insert—
 
 > (6) In subsection (3)—
 >
@@ -117,8 +117,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b2a46ed8b5bfb72c347dce52653520f6]: Commencement: [S. 42(1)](https://www.legislation.gov.uk/asp/2015/6/section/42/1)[(2)](https://www.legislation.gov.uk/asp/2015/6/section/42/2)[(4)](https://www.legislation.gov.uk/asp/2015/6/section/42/4)[(9)](https://www.legislation.gov.uk/asp/2015/6/section/42/9) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-b2a46ed8b5bfb72c347dce52653520f6]: Commencement: [S. 42(1)](https://www.legislation.gov.uk/asp/2015/6/section/42/1)[(2)](https://www.legislation.gov.uk/asp/2015/6/section/42/2)[(4)](https://www.legislation.gov.uk/asp/2015/6/section/42/4)[(9)](https://www.legislation.gov.uk/asp/2015/6/section/42/9) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
 
-[^key-ff78bd627e941742cd1631d50cdea3a3]: Commencement: [S. 42(1)](https://www.legislation.gov.uk/asp/2015/6/section/42/1)[(2)](https://www.legislation.gov.uk/asp/2015/6/section/42/2)[(4)](https://www.legislation.gov.uk/asp/2015/6/section/42/4)[(9)](https://www.legislation.gov.uk/asp/2015/6/section/42/9) in force at 15.4.2016 in so far as not already in force by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-ff78bd627e941742cd1631d50cdea3a3]: Commencement: [S. 42(1)](https://www.legislation.gov.uk/asp/2015/6/section/42/1)[(2)](https://www.legislation.gov.uk/asp/2015/6/section/42/2)[(4)](https://www.legislation.gov.uk/asp/2015/6/section/42/4)[(9)](https://www.legislation.gov.uk/asp/2015/6/section/42/9) in force at 15.4.2016 in so far as not already in force by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
 
-[^key-15d27c887c2f22be49b364b248d6a3a7]: Commencement: [S. 42(3)](https://www.legislation.gov.uk/asp/2015/6/section/42/3) [(5)-(8)](https://www.legislation.gov.uk/asp/2015/6/section/42/5) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-15d27c887c2f22be49b364b248d6a3a7]: Commencement: [S. 42(3)](https://www.legislation.gov.uk/asp/2015/6/section/42/3) [(5)-(8)](https://www.legislation.gov.uk/asp/2015/6/section/42/5) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

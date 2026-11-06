@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Protection of information[^key-5a4f4786308d15b480ac4dfcebf3576e]
+## 42. Protection of information[^c-5a4f4786308d15b480ac4dfcebf3576e]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ except as authorised by regulations under subsection (3) or any other enactment.
 
 ## Annotations
 
-[^key-5a4f4786308d15b480ac4dfcebf3576e]: Commencement: S. 42 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-5a4f4786308d15b480ac4dfcebf3576e]: Commencement: S. 42 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

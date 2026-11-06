@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Safeguards relating to retention and disclosure of material[^key-b22ff47eea6d5903b0c7321110ca0fd0][^key-a83eb6c735ccb578468271875c5d95ac]
+## 129. Safeguards relating to retention and disclosure of material[^c-b22ff47eea6d5903b0c7321110ca0fd0][^c-a83eb6c735ccb578468271875c5d95ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,6 +85,6 @@ the person to whom the warrant is addressed must inform the Investigatory Powers
 
 ## Annotations
 
-[^key-b22ff47eea6d5903b0c7321110ca0fd0]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2016/25/section/129) in force at 31.5.2018 for specified purposes by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(n)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/n) (with [reg. 24](https://www.legislation.gov.uk/uksi/2018/652/regulation/24))
+[^c-b22ff47eea6d5903b0c7321110ca0fd0]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2016/25/section/129) in force at 31.5.2018 for specified purposes by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(n)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/n) (with [reg. 24](https://www.legislation.gov.uk/uksi/2018/652/regulation/24))
 
-[^key-a83eb6c735ccb578468271875c5d95ac]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2016/25/section/129) in force at 28.11.2018 in so far as not already in force by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1246/regulation/2/f)
+[^c-a83eb6c735ccb578468271875c5d95ac]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2016/25/section/129) in force at 28.11.2018 in so far as not already in force by [S.I. 2018/1246](https://www.legislation.gov.uk/uksi/2018/1246), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1246/regulation/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 360Y. Additional VAT rebates and writing off qualifying expenditure[^key-e55c9e0cbb84c78796990128c4d86b99]
+## 360Y. Additional VAT rebates and writing off qualifying expenditure[^c-e55c9e0cbb84c78796990128c4d86b99]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If an additional VAT rebate is made in respect of qualifying expenditure, an amo
 
 ## Annotations
 
-[^key-e55c9e0cbb84c78796990128c4d86b99]: Textual amendment: Pt. 3A inserted (11.4.2007 with effect in accordance with s. 92 of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/6/paragraph/1); [S.I. 2007/949](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)
+[^c-e55c9e0cbb84c78796990128c4d86b99]: Textual amendment: Pt. 3A inserted (11.4.2007 with effect in accordance with s. 92 of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/6/paragraph/1); [S.I. 2007/949](https://www.legislation.gov.uk/uksi/2007/949), [art. 2](https://www.legislation.gov.uk/uksi/2007/949/article/2)

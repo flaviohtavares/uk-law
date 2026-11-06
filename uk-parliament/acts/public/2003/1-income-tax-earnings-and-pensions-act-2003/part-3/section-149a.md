@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149A. Benefit of car fuel treated as earnings: optional remuneration arrangements[^key-d4dfb4adce4cb0ffe3bce604861e9c93]
+## 149A. Benefit of car fuel treated as earnings: optional remuneration arrangements[^c-d4dfb4adce4cb0ffe3bce604861e9c93]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ In this subsection “earnings” is to be interpreted in accordance with sectio
 
 ## Annotations
 
-[^key-d4dfb4adce4cb0ffe3bce604861e9c93]: Textual amendment: [S. 149A](https://www.legislation.gov.uk/ukpga/2003/1/section/149A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/35)
+[^c-d4dfb4adce4cb0ffe3bce604861e9c93]: Textual amendment: [S. 149A](https://www.legislation.gov.uk/ukpga/2003/1/section/149A) inserted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/35)

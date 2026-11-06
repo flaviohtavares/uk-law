@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Self-lay and adoption of water mains and service pipes[^key-d28a417d14fde0bb0835d97cd129c87c]
+## 92. Self-lay and adoption of water mains and service pipes[^c-d28a417d14fde0bb0835d97cd129c87c]
 
 *Extent: E+W*
 
@@ -178,4 +178,4 @@ and, in subsection (4) of that section, after “subsection (1)” there is inse
 
 ## Annotations
 
-[^key-d28a417d14fde0bb0835d97cd129c87c]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2003/37/section/92) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/641/article/4/a) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-d28a417d14fde0bb0835d97cd129c87c]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2003/37/section/92) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/641/article/4/a) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

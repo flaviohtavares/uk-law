@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Informing owner of request to be treated as bidder[^key-fa434947c5e40f9a2354f069c6a72941]
+## 98. Informing owner of request to be treated as bidder[^c-fa434947c5e40f9a2354f069c6a72941]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the authority receives from a community interest group a written request (howeve
 
 ## Annotations
 
-[^key-fa434947c5e40f9a2354f069c6a72941]: Commencement: S. 98 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-fa434947c5e40f9a2354f069c6a72941]: Commencement: S. 98 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)

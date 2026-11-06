@@ -48,7 +48,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 45Q(3) of the Public Health (Control of Disease) Act 1984, the Secretary of State declares that he is of the opinion that these Regulations do not contain any provision made by virtue of section 45C(3)(c) of that Act which imposes or enables the imposition of a special restriction or requirement or any other restriction or requirement which has or would have a significant effect on a person’s rights.
 
-## 1. Citation, commencement, application and interpretation[^key-c2183a640668d2be09c28cc943c9eb37]
+## 1. Citation, commencement, application and interpretation[^c-c2183a640668d2be09c28cc943c9eb37]
 
 (1) These Regulations may be cited as the Health Protection (Vaccination) Regulations 2009 and shall come in to force on 1st April 2009.
 
@@ -58,10 +58,10 @@ In accordance with section 45Q(3) of the Public Health (Control of Disease) Act 
 
 - “JCVI” means the Joint Committee on Vaccination and Immunisation[^f00002];
 - “national vaccination programme” means a scheme which aims to vaccinate all individuals in England who meet specified criteria to protect them against a particular infection or infections, with a view to preventing the occurrence of that infection or those infections;
-- [^key-d5c0cfe522405ff84726b137304766c1]... and
+- [^c-d5c0cfe522405ff84726b137304766c1]... and
 - “vaccination” means vaccination or immunisation and vaccinate shall be construed accordingly.
 
-## 2. Obligation on the Secretary of State to ensure implementation of JCVI recommendations[^key-d539c89092c1b00c5dc9e9c376ad2f76]
+## 2. Obligation on the Secretary of State to ensure implementation of JCVI recommendations[^c-d539c89092c1b00c5dc9e9c376ad2f76]
 
 (1) This regulation applies where the JCVI makes a recommendation which meets the conditions set out in paragraph (2).
 
@@ -99,10 +99,10 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [1984 c.22](https://www.legislation.gov.uk/ukpga/1984/22); sections 45C, 45F and 45P were inserted by section 129 of the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-c2183a640668d2be09c28cc943c9eb37]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/38/regulation/1) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/38/regulation/1/1)
+[^c-c2183a640668d2be09c28cc943c9eb37]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/38/regulation/1) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/38/regulation/1/1)
 
 [^f00002]: Footnote: The JCVI is a non-departmental public body first established in 1963 by the Secretary of State. It is a statutory expert Standing Advisory Committee constituted in England and Wales under the National Health Service Act [1977 (c.49)](https://www.legislation.gov.uk/ukpga/1977/49) (now consolidated as the National Health Service Act [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41)) and the National Health Service (Standing Advisory Committees) Order 1981 ([S.I. 1981/597](https://www.legislation.gov.uk/uksi/1981/597)) as the Standing Advisory Committee on Vaccination and Immunisation.
 
-[^key-d5c0cfe522405ff84726b137304766c1]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2009/38/regulation/1/3) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 122](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/122)
+[^c-d5c0cfe522405ff84726b137304766c1]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2009/38/regulation/1/3) omitted (1.4.2013) by virtue of [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 122](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/122)
 
-[^key-d539c89092c1b00c5dc9e9c376ad2f76]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/38/regulation/2) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/38/regulation/1/1)
+[^c-d539c89092c1b00c5dc9e9c376ad2f76]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/38/regulation/2) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/38/regulation/1/1)

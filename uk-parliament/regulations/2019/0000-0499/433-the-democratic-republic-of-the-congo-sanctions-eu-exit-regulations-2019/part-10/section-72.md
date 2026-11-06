@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Transitional provisions: prior obligations[^key-35c8f467037abdef21a0b3e236486d69][^key-546381920308623af81c4579df361d27]
+## 72. Transitional provisions: prior obligations[^c-35c8f467037abdef21a0b3e236486d69][^c-546381920308623af81c4579df361d27]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,14 +25,14 @@ summary: ''
 - (a) a person was named in Annex Ⅰ or Annex Ia of the EU DRC Regulation immediately before the relevant date, and
 - (b) the person is a designated person immediately before the relevant date,
 
-any reference in a provision mentioned in paragraph (3)[^key-5ba4a7851b26a72824c44e3c692796bc] to the date on which a person became a designated person is a reference to the date on which the person was named in that Annex.
+any reference in a provision mentioned in paragraph (3)[^c-5ba4a7851b26a72824c44e3c692796bc] to the date on which a person became a designated person is a reference to the date on which the person was named in that Annex.
 
 (2) Where, immediately before the relevant date, a person was named by the Security Council or the Committee for the purposes of paragraph 11 of resolution 1807, any reference in a provision mentioned in paragraph (3) to the date on which a person became a designated person is to be read as a reference to the date on which the person was so named.
 
 (3) The provisions referred to in paragraph (1) are—
 
 - (a) regulation 31(5) (finance: exceptions from prohibitions), and
-- (b) paragraphs 7A(b)(i)[^key-90bdbc935c86bd27325c0717b8398961] and 9(a) of Schedule 2 (Treasury licences: purposes).
+- (b) paragraphs 7A(b)(i)[^c-90bdbc935c86bd27325c0717b8398961] and 9(a) of Schedule 2 (Treasury licences: purposes).
 
 (4) In this regulation—
 
@@ -43,10 +43,10 @@ any reference in a provision mentioned in paragraph (3)[^key-5ba4a7851b26a72824c
 
 ## Annotations
 
-[^key-35c8f467037abdef21a0b3e236486d69]: Commencement: Reg. 72 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
+[^c-35c8f467037abdef21a0b3e236486d69]: Commencement: Reg. 72 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
 
-[^key-546381920308623af81c4579df361d27]: Commencement: Reg. 72 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-546381920308623af81c4579df361d27]: Commencement: Reg. 72 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5ba4a7851b26a72824c44e3c692796bc]: Textual amendment: Words in [reg. 72(1)](https://www.legislation.gov.uk/uksi/2019/433/regulation/72/1) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2020/591/regulation/3/8); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-5ba4a7851b26a72824c44e3c692796bc]: Textual amendment: Words in [reg. 72(1)](https://www.legislation.gov.uk/uksi/2019/433/regulation/72/1) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2020/591/regulation/3/8); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
 
-[^key-90bdbc935c86bd27325c0717b8398961]: Textual amendment: Word in [reg. 72(3)(b)](https://www.legislation.gov.uk/uksi/2019/433/regulation/72/3/b) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [4(12)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/4/12)
+[^c-90bdbc935c86bd27325c0717b8398961]: Textual amendment: Word in [reg. 72(3)(b)](https://www.legislation.gov.uk/uksi/2019/433/regulation/72/3/b) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [4(12)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/4/12)

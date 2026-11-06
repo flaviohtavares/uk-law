@@ -35,11 +35,11 @@ A Measure passed by the General Synod of the Church of England to enable persons
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Marriages solemnized in churches, etc. in parishes with which a party has a qualifying connection[^key-6e3ac415e0fb996dcff5f515eeb36b0f]
+## 1. Marriages solemnized in churches, etc. in parishes with which a party has a qualifying connection[^c-6e3ac415e0fb996dcff5f515eeb36b0f]
 
 (1) A person intending to be married shall have the like, but no greater, right to have the marriage solemnized in a parish church of a parish with which he or she has a connection specified in subsection (3) below (in this Measure referred to as a “**qualifying connection**”) as that person has to have the marriage solemnized in the parish church of the parish in which he or she resides or which is his or her usual place of worship.
 
-(2) Where a church or other building or part of a building[^key-34aba7789998aacc075ed6acc1330d9a] licensed for public worship has been designated, under section 29(2) of the Pastoral Measure 1983 (1983 No. 1), as a parish centre of worship, this section shall apply to such centre of worship, while the designation is in force, as it applies to a parish church.
+(2) Where a church or other building or part of a building[^c-34aba7789998aacc075ed6acc1330d9a] licensed for public worship has been designated, under section 29(2) of the Pastoral Measure 1983 (1983 No. 1), as a parish centre of worship, this section shall apply to such centre of worship, while the designation is in force, as it applies to a parish church.
 
 (3) For the purposes of this section a person has a qualifying connection with a parish in which the marriage is to be solemnized if—
 
@@ -79,13 +79,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (b) “**parish**” includes a conventional district; and
 - (c) any reference to baptism, confirmation, marriage or public worship shall be construed as a reference to baptism, confirmation, marriage or public worship, as the case may be, according to the rites of the Church of England.
 
-(13) Without prejudice to subsection (3) above,[^key-f8704b6731638ab2285ebeccc5eb39c4]where, as a result of a pastoral scheme or otherwise, a parish has ceased to exist or the boundaries thereof have been altered and a person who wishes to have his or her marriage solemnized in accordance with subsection (1) above can establish a qualifying connection with a place situated within such a parish then, if that place is, at the time when the notice under section 8 of the 1949 Act is delivered, situated within the parish in which the church where the marriage is to be solemnized is situated, that person shall be deemed to have a qualifying connection with that parish.
+(13) Without prejudice to subsection (3) above,[^c-f8704b6731638ab2285ebeccc5eb39c4]where, as a result of a pastoral scheme or otherwise, a parish has ceased to exist or the boundaries thereof have been altered and a person who wishes to have his or her marriage solemnized in accordance with subsection (1) above can establish a qualifying connection with a place situated within such a parish then, if that place is, at the time when the notice under section 8 of the 1949 Act is delivered, situated within the parish in which the church where the marriage is to be solemnized is situated, that person shall be deemed to have a qualifying connection with that parish.
 
-(13A)[^key-4e686de7de767513ebc309613703c333] Without prejudice to subsection (3) or (13) above, where a person has had a qualifying connection with a parish (“parish A”) and a church which was a parish church of that parish at the time when that person had the qualifying connection has since become and continues to be a parish church of another parish (“parish B”) that person shall be deemed to have a qualifying connection with parish B.
+(13A)[^c-4e686de7de767513ebc309613703c333] Without prejudice to subsection (3) or (13) above, where a person has had a qualifying connection with a parish (“parish A”) and a church which was a parish church of that parish at the time when that person had the qualifying connection has since become and continues to be a parish church of another parish (“parish B”) that person shall be deemed to have a qualifying connection with parish B.
 
 (14) In relation to the establishment of a qualifying connection under subsection (3)(a) above by virtue of confirmation the references in subsection (13) above to a place shall be construed as a reference to the church or other place of worship in whose register the confirmation was entered.
 
-## 1A. Further provisions as to qualifying connections[^key-0d74bc71cfe1fadadeffadd6fda48552]
+## 1A. Further provisions as to qualifying connections[^c-0d74bc71cfe1fadadeffadd6fda48552]
 
 (1) Where a person intending to be married has, under section 1 above, a qualifying connection with a parish belonging to a benefice and—
 
@@ -105,17 +105,17 @@ the marriage of that person may be solemnized and the banns of that marriage may
 
 (4) Where a church or other building or part of a building licensed for public worship has been designated, under section 29(2) of the Pastoral Measure 1983, as a parish centre of worship and the parish has no parish church, section 29(3) of that Measure shall apply for the purposes of section 1 above.
 
-## 2. Marriage by common licence[^key-0602011916b50edc8868101c1851d8ad]
+## 2. Marriage by common licence[^c-0602011916b50edc8868101c1851d8ad]
 
 (1) Notwithstanding section 15 of the 1949 Act a common licence may be granted to a person for the solemnization of a marriage in any church or chapel in which that person may be married under section 1 above and section 16(1)(b) of that Act shall, where a common licence may be granted by virtue of this section, have effect as if it required one of the persons to be married to swear that one or both of those persons has a qualifying connection with a parish within the meaning of section 1(3) above and to state the nature of that connection and section 1(8) above shall apply as if the reference therein to the minister of the parish were a reference to the authority having power to grant the licence.
 
 (2) Where an application has been made for the grant of a common licence under subsection (1) above section 1(13) above shall have effect as if the reference to the date on which the notice required under section 8 of the 1949 Act is delivered were a reference to the date of the application for the grant of the common licence.
 
-## 3. Guidance[^key-dff3bf6d5eaa5b64235078d94cb798a0]
+## 3. Guidance[^c-dff3bf6d5eaa5b64235078d94cb798a0]
 
 The House of Bishops shall from time to time issue guidance as to the exercise of any functions by a minister under section 1(8) or (9) above or by the authority having power to grant a common licence under section 1(8) as applied by section 2 above.
 
-## 4. Supplementary provisions[^key-d13ed6b63714024c10f1c5fc2d306356]
+## 4. Supplementary provisions[^c-d13ed6b63714024c10f1c5fc2d306356]
 
 (1) In this Measure “**the 1949 Act**” means the Marriage Act 1949 (12, 13 & 14 Geo 6 c. 76) and, unless the context otherwise requires, expressions used in this Measure have the same meaning as in the 1949 Act.
 
@@ -126,7 +126,7 @@ The House of Bishops shall from time to time issue guidance as to the exercise o
 
 it shall not be necessary in support of the marriage to give any proof that either party had a qualifying connection with the parish in which the marriage was solemnized and no evidence shall be given to prove the contrary in any proceedings touching the validity of the marriage.
 
-## 5. Citation, commencement and extent[^key-21ab221dc3856aa1b837fa5286384fd7]
+## 5. Citation, commencement and extent[^c-21ab221dc3856aa1b837fa5286384fd7]
 
 (1) This Measure may be cited as the Church of England Marriage Measure 2008.
 
@@ -136,20 +136,20 @@ it shall not be necessary in support of the marriage to give any proof that eith
 
 ## Annotations
 
-[^key-6e3ac415e0fb996dcff5f515eeb36b0f]: Commencement: S. 1 in force at 1.10.2008 by [S.I. 2008/2](https://www.legislation.gov.uk/ukci/2008/2), Instrument made by Archbishops
+[^c-6e3ac415e0fb996dcff5f515eeb36b0f]: Commencement: S. 1 in force at 1.10.2008 by [S.I. 2008/2](https://www.legislation.gov.uk/ukci/2008/2), Instrument made by Archbishops
 
-[^key-34aba7789998aacc075ed6acc1330d9a]: Textual amendment: Words in s. 1(2) inserted (1.6.2013) by [Church of England Marriage (Amendment) Measure 2012 (No. 1)](https://www.legislation.gov.uk/ukcm/2012/1), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2012/1/section/1/2), [3(2)](https://www.legislation.gov.uk/ukcm/2012/1/section/3/2); [S.I. 2013/1](https://www.legislation.gov.uk/ukci/2013/1), [art. 2](https://www.legislation.gov.uk/ukci/2013/1/article/2)
+[^c-34aba7789998aacc075ed6acc1330d9a]: Textual amendment: Words in s. 1(2) inserted (1.6.2013) by [Church of England Marriage (Amendment) Measure 2012 (No. 1)](https://www.legislation.gov.uk/ukcm/2012/1), [ss. 1(2)](https://www.legislation.gov.uk/ukcm/2012/1/section/1/2), [3(2)](https://www.legislation.gov.uk/ukcm/2012/1/section/3/2); [S.I. 2013/1](https://www.legislation.gov.uk/ukci/2013/1), [art. 2](https://www.legislation.gov.uk/ukci/2013/1/article/2)
 
-[^key-f8704b6731638ab2285ebeccc5eb39c4]: Textual amendment: Words in s. 1(13) inserted (1.6.2013) by [Church of England Marriage (Amendment) Measure 2012 (No. 1)](https://www.legislation.gov.uk/ukcm/2012/1), [ss. 1(3)](https://www.legislation.gov.uk/ukcm/2012/1/section/1/3), [3(2)](https://www.legislation.gov.uk/ukcm/2012/1/section/3/2); [S.I. 2013/1](https://www.legislation.gov.uk/ukci/2013/1), [art. 2](https://www.legislation.gov.uk/ukci/2013/1/article/2)
+[^c-f8704b6731638ab2285ebeccc5eb39c4]: Textual amendment: Words in s. 1(13) inserted (1.6.2013) by [Church of England Marriage (Amendment) Measure 2012 (No. 1)](https://www.legislation.gov.uk/ukcm/2012/1), [ss. 1(3)](https://www.legislation.gov.uk/ukcm/2012/1/section/1/3), [3(2)](https://www.legislation.gov.uk/ukcm/2012/1/section/3/2); [S.I. 2013/1](https://www.legislation.gov.uk/ukci/2013/1), [art. 2](https://www.legislation.gov.uk/ukci/2013/1/article/2)
 
-[^key-4e686de7de767513ebc309613703c333]: Textual amendment: S. 1(13A) inserted (1.6.2013) by [Church of England Marriage (Amendment) Measure 2012 (No. 1)](https://www.legislation.gov.uk/ukcm/2012/1), [ss. 1(4)](https://www.legislation.gov.uk/ukcm/2012/1/section/1/4), [3(2)](https://www.legislation.gov.uk/ukcm/2012/1/section/3/2); [S.I. 2013/1](https://www.legislation.gov.uk/ukci/2013/1), [art. 2](https://www.legislation.gov.uk/ukci/2013/1/article/2)
+[^c-4e686de7de767513ebc309613703c333]: Textual amendment: S. 1(13A) inserted (1.6.2013) by [Church of England Marriage (Amendment) Measure 2012 (No. 1)](https://www.legislation.gov.uk/ukcm/2012/1), [ss. 1(4)](https://www.legislation.gov.uk/ukcm/2012/1/section/1/4), [3(2)](https://www.legislation.gov.uk/ukcm/2012/1/section/3/2); [S.I. 2013/1](https://www.legislation.gov.uk/ukci/2013/1), [art. 2](https://www.legislation.gov.uk/ukci/2013/1/article/2)
 
-[^key-0d74bc71cfe1fadadeffadd6fda48552]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukcm/2008/1/section/1A) inserted (1.6.2013) by [Church of England Marriage (Amendment) Measure 2012 (No. 1)](https://www.legislation.gov.uk/ukcm/2012/1), [ss. 1(1)](https://www.legislation.gov.uk/ukcm/2012/1/section/1/1), [3(2)](https://www.legislation.gov.uk/ukcm/2012/1/section/3/2); [S.I. 2013/1](https://www.legislation.gov.uk/ukci/2013/1), [art. 2](https://www.legislation.gov.uk/ukci/2013/1/article/2)
+[^c-0d74bc71cfe1fadadeffadd6fda48552]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukcm/2008/1/section/1A) inserted (1.6.2013) by [Church of England Marriage (Amendment) Measure 2012 (No. 1)](https://www.legislation.gov.uk/ukcm/2012/1), [ss. 1(1)](https://www.legislation.gov.uk/ukcm/2012/1/section/1/1), [3(2)](https://www.legislation.gov.uk/ukcm/2012/1/section/3/2); [S.I. 2013/1](https://www.legislation.gov.uk/ukci/2013/1), [art. 2](https://www.legislation.gov.uk/ukci/2013/1/article/2)
 
-[^key-0602011916b50edc8868101c1851d8ad]: Commencement: S. 2 in force at 1.10.2008 by [S.I. 2008/2](https://www.legislation.gov.uk/ukci/2008/2), Instrument made by Archbishops
+[^c-0602011916b50edc8868101c1851d8ad]: Commencement: S. 2 in force at 1.10.2008 by [S.I. 2008/2](https://www.legislation.gov.uk/ukci/2008/2), Instrument made by Archbishops
 
-[^key-dff3bf6d5eaa5b64235078d94cb798a0]: Commencement: S. 3 in force at 1.10.2008 by [S.I. 2008/2](https://www.legislation.gov.uk/ukci/2008/2), Instrument made by Archbishops
+[^c-dff3bf6d5eaa5b64235078d94cb798a0]: Commencement: S. 3 in force at 1.10.2008 by [S.I. 2008/2](https://www.legislation.gov.uk/ukci/2008/2), Instrument made by Archbishops
 
-[^key-d13ed6b63714024c10f1c5fc2d306356]: Commencement: S. 4 in force at 1.10.2008 by [S.I. 2008/2](https://www.legislation.gov.uk/ukci/2008/2), Instrument made by Archbishops
+[^c-d13ed6b63714024c10f1c5fc2d306356]: Commencement: S. 4 in force at 1.10.2008 by [S.I. 2008/2](https://www.legislation.gov.uk/ukci/2008/2), Instrument made by Archbishops
 
-[^key-21ab221dc3856aa1b837fa5286384fd7]: Commencement: S. 5 in force at 1.10.2008 by [S.I. 2008/2](https://www.legislation.gov.uk/ukci/2008/2), Instrument made by Archbishops
+[^c-21ab221dc3856aa1b837fa5286384fd7]: Commencement: S. 5 in force at 1.10.2008 by [S.I. 2008/2](https://www.legislation.gov.uk/ukci/2008/2), Instrument made by Archbishops

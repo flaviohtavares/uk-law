@@ -44,7 +44,7 @@ In these Regulations, unless the context otherwise requires—
 - “**the 2006 scheme**” means the pension scheme constituted by the Police Pension (Northern Ireland) Regulations 2009 [^c22511651]; (which have effect from 6<sup>th</sup> April 2006, except for regulations 10(2)(c) and 74(9) which have effect from 31<sup>st</sup> December 2007);
 - “**2006 transition member**” has the meaning given in Schedule 4.
 - “**the 2015 England and Wales police pension scheme**” means a scheme established under the Public Service Pensions Act 2013 [^c22511661] for payment of retirement pensions to or in respect of members of a police force in England and Wales which comes into force on 1 April 2015;
-- “[^key-671108c182fddcbb33d19d4dd8aad045]**the 2015 Northern Ireland police pension scheme**” means a scheme established under the Public Service Pensions Act (Northern Ireland) 2014 (which came into operation on 1 April 2015) for the payment of retirement pensions to, or in respect of, a police service in Northern Ireland;
+- “[^c-671108c182fddcbb33d19d4dd8aad045]**the 2015 Northern Ireland police pension scheme**” means a scheme established under the Public Service Pensions Act (Northern Ireland) 2014 (which came into operation on 1 April 2015) for the payment of retirement pensions to, or in respect of, a police service in Northern Ireland;
 - “**the 2015 Scotland police pension scheme**” means a scheme established under the Public Service Pensions Act 2013 for payment of retirement pensions to or in respect of members of a police service in Scotland, which comes into force on 1 April 2015;
 - “**accrued added pension**” means—
   - (a) accrued added (self only) pension (if any); and
@@ -94,7 +94,7 @@ In these Regulations, unless the context otherwise requires—
 - “**the Board**” means the Northern Ireland Policing Board as established by section 2 of the 2000 Act;
 - “**beneficiary**”, in relation to a deceased member, means the surviving adult or eligible child of the member;
 - “**career break**” in relation to a member of this scheme who falls within regulation 4(1)(a)
-- [^key-bbe57f1d4f351bca6803fec07aa8ed75]...
+- [^c-bbe57f1d4f351bca6803fec07aa8ed75]...
 - “**child's added pension**” means a pension payable to an eligible child under regulation 144(4)(d);
 - “**child's earned pension**” means a pension payable to an eligible child under regulation 144(4)(a);
 - “**child's enhanced upper tier ill-health pension**” means a pension payable to an eligible child under regulation 144(4)(c);
@@ -155,13 +155,13 @@ In these Regulations, unless the context otherwise requires—
 - “**the existing police pension scheme**” means—
   - (a) the 1988 scheme; or
   - (b) the 2006 scheme.
-- “**final pay**” has the meaning give in Chapter 7[^key-825bf0cc4c72c23e6af4128c3aa55c41] of Part 9 (death benefits);
+- “**final pay**” has the meaning give in Chapter 7[^c-825bf0cc4c72c23e6af4128c3aa55c41] of Part 9 (death benefits);
 - “**first day in eligible service**” has the meaning given in Part 4, Chapter 2 (automatic enrolment);
 - “**full retirement pension**” means the following pensions payable under Part 7, Chapter 2 (full retirement benefits) —
   - (a) a retirement earned pension; and
   - (b) a retirement added pension (if any);
-- “**full retirement pension which comes into payment early on the grounds of permanent medical unfitness**” in relation to a member of this scheme, means a full retirement pension to which the member becomes entitled under regulation 89(3) (Entitlement to full retirement pension (deferred members))[^key-83a28c4767b859fe4cf98d2853a1bbce] .
-- full time service” means—[^key-0ab2f8ce716b34660d84189198b5166c]
+- “**full retirement pension which comes into payment early on the grounds of permanent medical unfitness**” in relation to a member of this scheme, means a full retirement pension to which the member becomes entitled under regulation 89(3) (Entitlement to full retirement pension (deferred members))[^c-83a28c4767b859fe4cf98d2853a1bbce] .
+- full time service” means—[^c-0ab2f8ce716b34660d84189198b5166c]
   - (a) for a member who falls within regulation 4(1)(a), service by a person appointed under section 35 or 36 of the 2000 Act;
   - (b) for a member who falls within regulation 4(1)(b), service by a person appointed under section 37 of the 2000 Act;
   - (c) for a member who falls within regulation 4(1)(c), service by a person appointed under section 39 of the 2000 Act;
@@ -180,7 +180,7 @@ In these Regulations, unless the context otherwise requires—
   - (a) for a transition member with continuity of service, a transition member's ill-health pension payable under paragraph 23 of Schedule 4; or
   - (b) otherwise a lower tier ill-health pension; and an enhanced upper tier ill-health pension (if applicable) payable under Part 7 (retirement benefits);
 - “**ill-health pension under this scheme**” means a lower tier ill-health pension and if applicable an enhanced upper tier ill-health pension payable under Part 7 (retirement benefits);
-- “index adjustment” means—[^key-c2989dce87bada524922689e2b40c402]
+- “index adjustment” means—[^c-c2989dce87bada524922689e2b40c402]
   - (a) in relation to the opening balance of earned pension for any scheme year (other than the opening balance of club transfer earned pension) means the change in prices for the previous scheme year plus 1.25%; and
   - (b) in relation to the opening balance of club transfer earned pension for any scheme year means the in-service revaluation index that the sending scheme would have applied to that amount of earned pension for that scheme year, had the earned pension not been transferred;
 - “**Injury Benefits Regulations**” means—
@@ -219,7 +219,7 @@ In these Regulations, unless the context otherwise requires—
   - (a) another occupational pension scheme that is a registered pension scheme but is not a connected scheme; or
   - (b) a personal pension scheme;
 - “**pension sharing order**” means any provision or order specified in article 25 of the 1999 Order;
-- “**pension supervising authority**” has the meaning given in regulation 208;[^key-c9784f3e56e35c5d289472891f1e93ff]
+- “**pension supervising authority**” has the meaning given in regulation 208;[^c-c9784f3e56e35c5d289472891f1e93ff]
 - “**pensionable earnings**”, in relation to any period—
   - (a) for the purpose of calculating member contributions, has the meaning given in Part 10 (contributions); and
   - (b) otherwise, has the meaning given in regulation 30 (pensionable earnings);
@@ -293,7 +293,7 @@ In these Regulations, unless the context otherwise requires—
   - (a) a 1988 transition member; or
   - (b) a 2006 member;
 - “**upper tier threshold** ” in relation to entitlement to a payment of an ill-health pension, has the meaning given in regulation 99 (payment thresholds);
-- [^key-eacd2cbedac92cf42ef4f8656302fd37]...[^c22511821]
+- [^c-eacd2cbedac92cf42ef4f8656302fd37]...[^c22511821]
 - “**whole of the member's accrued pensions**” means—
   - (a) all the member's accrued earned pension; and
   - (b) all the member's accrued added pension (if any).
@@ -338,7 +338,7 @@ In these Regulations, unless the context otherwise requires—
 
 [^c22511661]: Marginal citation: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25)
 
-[^key-671108c182fddcbb33d19d4dd8aad045]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) inserted (1.2.2026) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/190)](https://www.legislation.gov.uk/nisr/2025/190), [regs. 1](https://www.legislation.gov.uk/nisr/2025/190/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/190/regulation/2/2)
+[^c-671108c182fddcbb33d19d4dd8aad045]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) inserted (1.2.2026) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/190)](https://www.legislation.gov.uk/nisr/2025/190), [regs. 1](https://www.legislation.gov.uk/nisr/2025/190/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/190/regulation/2/2)
 
 [^c22511671]: Marginal citation: See section 34 of the Act for the meaning of “pensionable service
 
@@ -350,15 +350,15 @@ In these Regulations, unless the context otherwise requires—
 
 [^c22511711]: Marginal citation: See Section 8(2) was amended by [The Pensions (Miscellaneous Provisions) (NI) Order 1990 (S.I. 1990/1509 (N.I. 13))](https://www.legislation.gov.uk/nisi/1990/1509) Article 3(5) and [The Welfare Reform and Pensions (NI) Order 1999 (S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147) Article 36(1) and (3). Section 8(2) of the 1971 Act may be applied subject to such modifications, adaptations and exceptions as may be specified in regulations under section 5(3) of that Act.
 
-[^key-bbe57f1d4f351bca6803fec07aa8ed75]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) omitted (with effect in accordance with reg. 2(c) of the amending Rule) by virtue of [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [4(2)](https://www.legislation.gov.uk/nisr/2024/38/regulation/4/2)
+[^c-bbe57f1d4f351bca6803fec07aa8ed75]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) omitted (with effect in accordance with reg. 2(c) of the amending Rule) by virtue of [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [4(2)](https://www.legislation.gov.uk/nisr/2024/38/regulation/4/2)
 
-[^key-825bf0cc4c72c23e6af4128c3aa55c41]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/26)](https://www.legislation.gov.uk/nisr/2017/26), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/26/regulation/1/2), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/nisr/2017/26/schedule/1/paragraph/2/a)
+[^c-825bf0cc4c72c23e6af4128c3aa55c41]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/26)](https://www.legislation.gov.uk/nisr/2017/26), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/26/regulation/1/2), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/nisr/2017/26/schedule/1/paragraph/2/a)
 
-[^key-83a28c4767b859fe4cf98d2853a1bbce]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [4(3)](https://www.legislation.gov.uk/nisr/2024/38/regulation/4/3)
+[^c-83a28c4767b859fe4cf98d2853a1bbce]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [4(3)](https://www.legislation.gov.uk/nisr/2024/38/regulation/4/3)
 
-[^key-0ab2f8ce716b34660d84189198b5166c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [4(4)](https://www.legislation.gov.uk/nisr/2024/38/regulation/4/4)
+[^c-0ab2f8ce716b34660d84189198b5166c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [4(4)](https://www.legislation.gov.uk/nisr/2024/38/regulation/4/4)
 
-[^key-c2989dce87bada524922689e2b40c402]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/26)](https://www.legislation.gov.uk/nisr/2017/26), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/26/regulation/1/2), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/nisr/2017/26/schedule/1/paragraph/2/b)
+[^c-c2989dce87bada524922689e2b40c402]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/26)](https://www.legislation.gov.uk/nisr/2017/26), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/26/regulation/1/2), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/nisr/2017/26/schedule/1/paragraph/2/b)
 
 [^c22511731]: Marginal citation: S.R [2006 No.268](https://www.legislation.gov.uk/ukcm/2006/268)
 
@@ -368,7 +368,7 @@ In these Regulations, unless the context otherwise requires—
 
 [^c22511761]: Marginal citation: [S.I. 1995/3213 (N.I.22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-c9784f3e56e35c5d289472891f1e93ff]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/26)](https://www.legislation.gov.uk/nisr/2017/26), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/26/regulation/1/2), [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/nisr/2017/26/schedule/1/paragraph/2/c)
+[^c-c9784f3e56e35c5d289472891f1e93ff]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/26)](https://www.legislation.gov.uk/nisr/2017/26), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/26/regulation/1/2), [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/nisr/2017/26/schedule/1/paragraph/2/c)
 
 [^c22511771]: Marginal citation: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14)
 
@@ -380,6 +380,6 @@ In these Regulations, unless the context otherwise requires—
 
 [^c22511811]: Marginal citation: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7).
 
-[^key-eacd2cbedac92cf42ef4f8656302fd37]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) omitted (with effect in accordance with reg. 2(c) of the amending Rule) by virtue of [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [4(5)](https://www.legislation.gov.uk/nisr/2024/38/regulation/4/5)
+[^c-eacd2cbedac92cf42ef4f8656302fd37]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/113/regulation/2) omitted (with effect in accordance with reg. 2(c) of the amending Rule) by virtue of [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [4(5)](https://www.legislation.gov.uk/nisr/2024/38/regulation/4/5)
 
 [^c22511821]: Marginal citation: S.R. [1996 No.493](https://www.legislation.gov.uk/ukcm/1996/493).

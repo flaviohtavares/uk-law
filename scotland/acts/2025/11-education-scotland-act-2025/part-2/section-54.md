@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Offences[^key-f21da5bb29003b75a6521a0a7b941ae4][^key-1f2a07bd9ee4ced8ac8137bb05381ab0]
+## 54. Offences[^c-f21da5bb29003b75a6521a0a7b941ae4][^c-1f2a07bd9ee4ced8ac8137bb05381ab0]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f21da5bb29003b75a6521a0a7b941ae4]: Commencement: S. 54 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-f21da5bb29003b75a6521a0a7b941ae4]: Commencement: S. 54 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-1f2a07bd9ee4ced8ac8137bb05381ab0]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2025/11/section/54) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-1f2a07bd9ee4ced8ac8137bb05381ab0]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2025/11/section/54) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

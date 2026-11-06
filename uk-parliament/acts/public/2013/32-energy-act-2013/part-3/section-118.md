@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) As soon as reasonably practicable after the end of the period of 7 years[^key-2c6f50ae7a4dc28663df6427e0724144] beginning with the day on which section 77 comes into force, the Secretary of State must carry out a review of the provisions of this Part.
+(1) As soon as reasonably practicable after the end of the period of 7 years[^c-2c6f50ae7a4dc28663df6427e0724144] beginning with the day on which section 77 comes into force, the Secretary of State must carry out a review of the provisions of this Part.
 
 (2) The Secretary of State must set out the conclusions of the review in a report.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c6f50ae7a4dc28663df6427e0724144]: Textual amendment: Words in [s. 118(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/118/1) substituted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/10); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-2c6f50ae7a4dc28663df6427e0724144]: Textual amendment: Words in [s. 118(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/118/1) substituted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/10); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)

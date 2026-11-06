@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 5
 
-### 1. Consequential and supplementary amendments to the Limited Liability Partnerships Act 2000[^key-6f722a79507fc51d31762893dcc83e0f]
+### 1. Consequential and supplementary amendments to the Limited Liability Partnerships Act 2000[^c-6f722a79507fc51d31762893dcc83e0f]
 
 In section 2 of the Limited Liability Partnerships Act 2000 (incorporation document etc)—
 
@@ -33,7 +33,7 @@ In section 2 of the Limited Liability Partnerships Act 2000 (incorporation docum
 
   .
 
-### 2. Consequential and supplementary amendments to the principal Regulations[^key-b92ddf4c20b07fbf52e22e1de5ac9a6a]
+### 2. Consequential and supplementary amendments to the principal Regulations[^c-b92ddf4c20b07fbf52e22e1de5ac9a6a]
 
 In regulation 3(2) of the principal Regulations, after paragraph (c) insert—
 
@@ -41,7 +41,7 @@ In regulation 3(2) of the principal Regulations, after paragraph (c) insert—
 
 .
 
-**3.**[^key-14e347cc4524c87cf715c9ba678023cb] After regulation 3 of the principal Regulations, insert—
+**3.**[^c-14e347cc4524c87cf715c9ba678023cb] After regulation 3 of the principal Regulations, insert—
 
 > **PART 1A — INCORPORATION**
 >
@@ -65,7 +65,7 @@ In regulation 3(2) of the principal Regulations, after paragraph (c) insert—
 
 .
 
-**4.**[^key-0977ea651ffe1837666c68a938b16a1c] In regulation 19 of the principal Regulations, in the modification of section 243 (permitted use or disclosure by the registrar), after paragraph 5(e) insert—
+**4.**[^c-0977ea651ffe1837666c68a938b16a1c] In regulation 19 of the principal Regulations, in the modification of section 243 (permitted use or disclosure by the registrar), after paragraph 5(e) insert—
 
 > - (f) in regulation 5(2)(a), for the words after “will be subjected to violence or intimidation as a result of the activities of at least one of” substitute—
 >
@@ -81,16 +81,16 @@ In regulation 3(2) of the principal Regulations, after paragraph (c) insert—
 >
 >   .
 
-**5.**[^key-f45939fc5c9361b5d6f9ec0a87713709] In regulation 66 of the principal Regulations, in the modification of section 1087(1) (material not available for public inspection), after paragraph (c) insert—
+**5.**[^c-f45939fc5c9361b5d6f9ec0a87713709] In regulation 66 of the principal Regulations, in the modification of section 1087(1) (material not available for public inspection), after paragraph (c) insert—
 
 > - (ca) information to which sections 240 to 244 are applied by section 790ZF(1) (residential addresses of people with significant control over the LLP);
 > - (cb) information that, by virtue of regulations under section 790ZG, the registrar must omit from the material on the register that is available for public inspection;
 
 .
 
-**6.**[^key-2ff00edb3f0d90d32a58c54411f9d39a] In regulation 72(1) of the principal Regulations, in the modification of section 1126 (consents required for certain prosecutions), after “Companies Act 1985” insert “or under section 1112 of this Act”.
+**6.**[^c-2ff00edb3f0d90d32a58c54411f9d39a] In regulation 72(1) of the principal Regulations, in the modification of section 1126 (consents required for certain prosecutions), after “Companies Act 1985” insert “or under section 1112 of this Act”.
 
-**7.**[^key-e625a80f69b1e75ad5b383c30dec58f8] In regulation 74 of the principal Regulations, in the modification of section 1136(2) (where certain LLP records to be kept available for inspection), after the entry for section 743 insert—
+**7.**[^c-e625a80f69b1e75ad5b383c30dec58f8] In regulation 74 of the principal Regulations, in the modification of section 1136(2) (where certain LLP records to be kept available for inspection), after the entry for section 743 insert—
 
 > section 790M (register of people with significant control over an LLP);
 >
@@ -98,7 +98,7 @@ In regulation 3(2) of the principal Regulations, after paragraph (c) insert—
 
 .
 
-**8.**[^key-467bc69a926490afadba4a19953736a2] In regulation 5(2)(a) of the Companies (Disclosure of Address) Regulations 2009[^f00030] after paragraph (iv) insert—
+**8.**[^c-467bc69a926490afadba4a19953736a2] In regulation 5(2)(a) of the Companies (Disclosure of Address) Regulations 2009[^f00030] after paragraph (iv) insert—
 
 > - (v) the limited liability partnerships of which that individual proposes to become a member;
 > - (vi) the limited liability partnerships of which that individual is, or proposes to become, a registrable person under Part 21A of the Act as applied to LLPs by the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016; or
@@ -106,20 +106,20 @@ In regulation 3(2) of the principal Regulations, after paragraph (c) insert—
 
 ## Annotations
 
-[^key-6f722a79507fc51d31762893dcc83e0f]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/1) in force at 30.6.2016, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/c)
+[^c-6f722a79507fc51d31762893dcc83e0f]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/1) in force at 30.6.2016, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/c)
 
-[^key-b92ddf4c20b07fbf52e22e1de5ac9a6a]: Commencement: Sch. 3 para. 2 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
+[^c-b92ddf4c20b07fbf52e22e1de5ac9a6a]: Commencement: Sch. 3 para. 2 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
 
-[^key-14e347cc4524c87cf715c9ba678023cb]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/3) in force at 30.6.2016, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/c)
+[^c-14e347cc4524c87cf715c9ba678023cb]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/340/schedule/3/paragraph/3) in force at 30.6.2016, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/c)
 
-[^key-0977ea651ffe1837666c68a938b16a1c]: Commencement: Sch. 3 para. 4 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
+[^c-0977ea651ffe1837666c68a938b16a1c]: Commencement: Sch. 3 para. 4 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
 
-[^key-f45939fc5c9361b5d6f9ec0a87713709]: Commencement: Sch. 3 para. 5 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
+[^c-f45939fc5c9361b5d6f9ec0a87713709]: Commencement: Sch. 3 para. 5 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
 
-[^key-2ff00edb3f0d90d32a58c54411f9d39a]: Commencement: Sch. 3 para. 6 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
+[^c-2ff00edb3f0d90d32a58c54411f9d39a]: Commencement: Sch. 3 para. 6 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
 
-[^key-e625a80f69b1e75ad5b383c30dec58f8]: Commencement: Sch. 3 para. 7 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
+[^c-e625a80f69b1e75ad5b383c30dec58f8]: Commencement: Sch. 3 para. 7 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
 
-[^key-467bc69a926490afadba4a19953736a2]: Commencement: Sch. 3 para. 8 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
+[^c-467bc69a926490afadba4a19953736a2]: Commencement: Sch. 3 para. 8 in force at 6.4.2016, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3)
 
 [^f00030]: Footnote: [S.I. 2009/214](https://www.legislation.gov.uk/uksi/2009/214); relevant amending instruments are [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), [2009/2400](https://www.legislation.gov.uk/uksi/2009/2400), [2009/2437](https://www.legislation.gov.uk/uksi/2009/2437), [2010/2156](https://www.legislation.gov.uk/uksi/2010/2156), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [2011/2085](https://www.legislation.gov.uk/uksi/2011/2085), [2012/700](https://www.legislation.gov.uk/uksi/2012/700), [2013/472](https://www.legislation.gov.uk/uksi/2013/472), [2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [2014/469](https://www.legislation.gov.uk/uksi/2014/469), [2014/549](https://www.legislation.gov.uk/uksi/2014/549), [2014/631](https://www.legislation.gov.uk/uksi/2014/631) and [2015/842](https://www.legislation.gov.uk/uksi/2015/842).

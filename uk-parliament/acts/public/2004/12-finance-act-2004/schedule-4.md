@@ -24,20 +24,20 @@ Section 29
 
 ### Sums paid to settlor otherwise than as income
 
-**1.**[^key-9b19d7a9c324cf7db184e0de05882cb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9b19d7a9c324cf7db184e0de05882cb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Trustees chargeable to income tax at 30 per cent in certain cases
 
-**2.**[^key-b8a68805687a4130b175d2a52e5249b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b8a68805687a4130b175d2a52e5249b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Commencement
 
-**3.**[^key-d36b9ca58e9c7d15f3d946e5d8267ca2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d36b9ca58e9c7d15f3d946e5d8267ca2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9b19d7a9c324cf7db184e0de05882cb1]: Textual amendment: Sch. 4 para. 1 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-9b19d7a9c324cf7db184e0de05882cb1]: Textual amendment: Sch. 4 para. 1 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-b8a68805687a4130b175d2a52e5249b1]: Textual amendment: Sch. 4 para. 2 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-b8a68805687a4130b175d2a52e5249b1]: Textual amendment: Sch. 4 para. 2 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-d36b9ca58e9c7d15f3d946e5d8267ca2]: Textual amendment: Sch. 4 para. 3 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-d36b9ca58e9c7d15f3d946e5d8267ca2]: Textual amendment: Sch. 4 para. 3 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

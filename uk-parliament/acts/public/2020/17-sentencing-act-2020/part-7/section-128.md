@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Fine imposed on offender aged under 18: payment by parent or guardian[^key-273121b8e3b823372920bf3eebd3e0fc]
+## 128. Fine imposed on offender aged under 18: payment by parent or guardian[^c-273121b8e3b823372920bf3eebd3e0fc]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ This is subject to subsection (7).
 
 ## Annotations
 
-[^key-273121b8e3b823372920bf3eebd3e0fc]: Commencement: S. 128 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-273121b8e3b823372920bf3eebd3e0fc]: Commencement: S. 128 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

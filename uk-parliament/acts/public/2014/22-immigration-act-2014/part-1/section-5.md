@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Restrictions on detention of unaccompanied children[^key-f47da437963e6dc9d87eabbde640af50]
+## 5. Restrictions on detention of unaccompanied children[^c-f47da437963e6dc9d87eabbde640af50]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f47da437963e6dc9d87eabbde640af50]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2014/22/section/5) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/d)
+[^c-f47da437963e6dc9d87eabbde640af50]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2014/22/section/5) in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/d)

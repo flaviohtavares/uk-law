@@ -56,7 +56,7 @@ These Rules may be cited as the Local Land Charges Rules 2018 and shall come int
 
 - “**the Act**” means the Local Land Charges Act 1975;
 - “**charge**” means a local land charge or a matter which is registrable in the register;
-- “[^key-8a7dd3907e087bd1f3e4d8c00727d4f7]**conservation covenant**” has the meaning given by Part 7 of the Environment Act 2021;
+- “[^c-8a7dd3907e087bd1f3e4d8c00727d4f7]**conservation covenant**” has the meaning given by Part 7 of the Environment Act 2021;
 - “**date of registration**” in relation to a charge registered in a local land charges register for a local authority's area immediately before Part 1 of Schedule 5 to the Infrastructure Act 2015 first had effect in relation to that area means the date of registration in that local land charges register;
 - “**definitive certificate**” means a certificate issued by the Upper Tribunal under section 2(3)(a) of the Rights of Light Act 1959 [^c22937861];
 - “**description**” in relation to a charge means a description which is sufficient to indicate—
@@ -70,7 +70,7 @@ These Rules may be cited as the Local Land Charges Rules 2018 and shall come int
 - “**registrar**” means the Chief Land Registrar;
 - “**temporary certificate**” means a certificate issued by the Upper Tribunal under section 2(3)(b) of the Rights of Light Act 1959.
 
-(2) In rule 6 and[^key-11001d9a835dd549c2188855230d540a] Schedule 1, “**originating authority**” means the authority or person who by virtue of section 5(4) of the Act or some other statutory provision is the originating authority for the purposes of the Act.
+(2) In rule 6 and[^c-11001d9a835dd549c2188855230d540a] Schedule 1, “**originating authority**” means the authority or person who by virtue of section 5(4) of the Act or some other statutory provision is the originating authority for the purposes of the Act.
 
 (3) A reference in these Rules to Form A or Form B is to the form so designated in Schedule 2.
 
@@ -102,12 +102,12 @@ These Rules may be cited as the Local Land Charges Rules 2018 and shall come int
 
 (1) This rule applies to all registrations of charges in the register except the registration of a light obstruction notice.
 
-(2)[^key-09f9d65b18cb08dfc8f04d1bfa770d81] Where a registered charge has been varied or any registration is incorrect, the following person must apply for the variation or cancellation of the registration—
+(2)[^c-09f9d65b18cb08dfc8f04d1bfa770d81] Where a registered charge has been varied or any registration is incorrect, the following person must apply for the variation or cancellation of the registration—
 
 - (a) in the case of a conservation covenant, the originating authority; or
 - (b) in the case of any other charge, the person by whom the charge is enforceable.
 
-(3)[^key-b82cc953523ce19489084282a5a742ed] Where a registered charge has been discharged, ceased to have effect or ceased to be a charge, the following person must apply for the cancellation of the registration—
+(3)[^c-b82cc953523ce19489084282a5a742ed] Where a registered charge has been discharged, ceased to have effect or ceased to be a charge, the following person must apply for the cancellation of the registration—
 
 - (a) in the case of a conservation covenant, the originating authority; or
 - (b) in the case of any other charge, the person by whom the charge was enforceable.
@@ -116,14 +116,14 @@ These Rules may be cited as the Local Land Charges Rules 2018 and shall come int
 
 (5) The application must be made using an electronic means of communication and in accordance with any determination by the registrar under rule 13.
 
-(6)[^key-506a9c9aa57332915cf1cd568321a4c7] The registrar must vary a registration if an application for its variation is received from—
+(6)[^c-506a9c9aa57332915cf1cd568321a4c7] The registrar must vary a registration if an application for its variation is received from—
 
 - (a) in the case of a conservation covenant, the originating authority; or
 - (b) in the case of any other charge, the person by whom the charge is enforceable.
 
 (7) The registrar may of his or her own motion vary a registration if satisfied that the charge has been varied or that the registration is incorrect.
 
-(8)[^key-dcfbbe1a86a4c5ac25ea77c5bec86e34] The registrar must cancel a registration if an application for its cancellation is received from—
+(8)[^c-dcfbbe1a86a4c5ac25ea77c5bec86e34] The registrar must cancel a registration if an application for its cancellation is received from—
 
 - (a) in the case of a conservation covenant, the originating authority; or
 - (b) in the case of any other charge, the person by whom the charge is or was enforceable.
@@ -240,9 +240,9 @@ The registrar may destroy any paper document which relates to a registration or 
 
 ## 15. Revocations
 
-(1) [^key-9f7e30541f4048a598da7dd6886ed7a4]..., the Local Land Charges Rules 1977 [^c22937871] are revoked.
+(1) [^c-9f7e30541f4048a598da7dd6886ed7a4]..., the Local Land Charges Rules 1977 [^c22937871] are revoked.
 
-(2)[^key-524b925ae33e7b816dcff25da450de13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-524b925ae33e7b816dcff25da450de13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by the authority of the Lord Chancellor
 
@@ -354,25 +354,25 @@ A regulatory impact assessment is not required for these Rules because they are 
 
 [^c22937851]: Marginal citation: Under paragraph 40(3) and (4) of Schedule 5 to the Infrastructure Act 2015, these Rules have effect in relation to the area of a local authority only on and after the date specified in a notice under paragraph 40(1) of that Schedule.
 
-[^key-8a7dd3907e087bd1f3e4d8c00727d4f7]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2018/273/rule/2/1) inserted (29.11.2022) by [The Local Land Charges (Amendment) Rules 2022 (S.I. 2022/1149)](https://www.legislation.gov.uk/uksi/2022/1149), [rules 1](https://www.legislation.gov.uk/uksi/2022/1149/rule/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/1149/rule/2/2/a)
+[^c-8a7dd3907e087bd1f3e4d8c00727d4f7]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2018/273/rule/2/1) inserted (29.11.2022) by [The Local Land Charges (Amendment) Rules 2022 (S.I. 2022/1149)](https://www.legislation.gov.uk/uksi/2022/1149), [rules 1](https://www.legislation.gov.uk/uksi/2022/1149/rule/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/1149/rule/2/2/a)
 
 [^c22937861]: Marginal citation: [1959 c. 56](https://www.legislation.gov.uk/ukpga/1959/56); [section 2](https://www.legislation.gov.uk/uksi/2018/273/section/2) was amended by paragraphs 27 and 28 of Schedule 5 to the Infrastructure Act 2015.
 
-[^key-11001d9a835dd549c2188855230d540a]: Textual amendment: Words in [rule 2(2)](https://www.legislation.gov.uk/uksi/2018/273/rule/2/2) inserted (29.11.2022) by [The Local Land Charges (Amendment) Rules 2022 (S.I. 2022/1149)](https://www.legislation.gov.uk/uksi/2022/1149), [rules 1](https://www.legislation.gov.uk/uksi/2022/1149/rule/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1149/rule/2/2/b)
+[^c-11001d9a835dd549c2188855230d540a]: Textual amendment: Words in [rule 2(2)](https://www.legislation.gov.uk/uksi/2018/273/rule/2/2) inserted (29.11.2022) by [The Local Land Charges (Amendment) Rules 2022 (S.I. 2022/1149)](https://www.legislation.gov.uk/uksi/2022/1149), [rules 1](https://www.legislation.gov.uk/uksi/2022/1149/rule/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1149/rule/2/2/b)
 
-[^key-09f9d65b18cb08dfc8f04d1bfa770d81]: Textual amendment: [Rule 6(2)](https://www.legislation.gov.uk/uksi/2018/273/rule/6/2) substituted (29.11.2022) by [The Local Land Charges (Amendment) Rules 2022 (S.I. 2022/1149)](https://www.legislation.gov.uk/uksi/2022/1149), [rules 1](https://www.legislation.gov.uk/uksi/2022/1149/rule/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/1149/rule/2/3/a)
+[^c-09f9d65b18cb08dfc8f04d1bfa770d81]: Textual amendment: [Rule 6(2)](https://www.legislation.gov.uk/uksi/2018/273/rule/6/2) substituted (29.11.2022) by [The Local Land Charges (Amendment) Rules 2022 (S.I. 2022/1149)](https://www.legislation.gov.uk/uksi/2022/1149), [rules 1](https://www.legislation.gov.uk/uksi/2022/1149/rule/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/1149/rule/2/3/a)
 
-[^key-b82cc953523ce19489084282a5a742ed]: Textual amendment: [Rule 6(3)](https://www.legislation.gov.uk/uksi/2018/273/rule/6/3) substituted (29.11.2022) by [The Local Land Charges (Amendment) Rules 2022 (S.I. 2022/1149)](https://www.legislation.gov.uk/uksi/2022/1149), [rules 1](https://www.legislation.gov.uk/uksi/2022/1149/rule/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/1149/rule/2/3/b)
+[^c-b82cc953523ce19489084282a5a742ed]: Textual amendment: [Rule 6(3)](https://www.legislation.gov.uk/uksi/2018/273/rule/6/3) substituted (29.11.2022) by [The Local Land Charges (Amendment) Rules 2022 (S.I. 2022/1149)](https://www.legislation.gov.uk/uksi/2022/1149), [rules 1](https://www.legislation.gov.uk/uksi/2022/1149/rule/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/1149/rule/2/3/b)
 
-[^key-506a9c9aa57332915cf1cd568321a4c7]: Textual amendment: [Rule 6(6)](https://www.legislation.gov.uk/uksi/2018/273/rule/6/6) substituted (29.11.2022) by [The Local Land Charges (Amendment) Rules 2022 (S.I. 2022/1149)](https://www.legislation.gov.uk/uksi/2022/1149), [rules 1](https://www.legislation.gov.uk/uksi/2022/1149/rule/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/1149/rule/2/3/c)
+[^c-506a9c9aa57332915cf1cd568321a4c7]: Textual amendment: [Rule 6(6)](https://www.legislation.gov.uk/uksi/2018/273/rule/6/6) substituted (29.11.2022) by [The Local Land Charges (Amendment) Rules 2022 (S.I. 2022/1149)](https://www.legislation.gov.uk/uksi/2022/1149), [rules 1](https://www.legislation.gov.uk/uksi/2022/1149/rule/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/1149/rule/2/3/c)
 
-[^key-dcfbbe1a86a4c5ac25ea77c5bec86e34]: Textual amendment: [Rule 6(8)](https://www.legislation.gov.uk/uksi/2018/273/rule/6/8) substituted (29.11.2022) by [The Local Land Charges (Amendment) Rules 2022 (S.I. 2022/1149)](https://www.legislation.gov.uk/uksi/2022/1149), [rules 1](https://www.legislation.gov.uk/uksi/2022/1149/rule/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2022/1149/rule/2/3/d)
+[^c-dcfbbe1a86a4c5ac25ea77c5bec86e34]: Textual amendment: [Rule 6(8)](https://www.legislation.gov.uk/uksi/2018/273/rule/6/8) substituted (29.11.2022) by [The Local Land Charges (Amendment) Rules 2022 (S.I. 2022/1149)](https://www.legislation.gov.uk/uksi/2022/1149), [rules 1](https://www.legislation.gov.uk/uksi/2022/1149/rule/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2022/1149/rule/2/3/d)
 
-[^key-9f7e30541f4048a598da7dd6886ed7a4]: Textual amendment: Words in rule 15(1) omitted (W.) (with effect in accordance with rule 1(2) of the amending S.I.) by virtue of [The Local Land Charges (Fees) (Wales) Rules 2021 (S.I. 2021/152)](https://www.legislation.gov.uk/uksi/2021/152), [rule 5(2)(a)](https://www.legislation.gov.uk/uksi/2021/152/rule/5/2/a)
+[^c-9f7e30541f4048a598da7dd6886ed7a4]: Textual amendment: Words in rule 15(1) omitted (W.) (with effect in accordance with rule 1(2) of the amending S.I.) by virtue of [The Local Land Charges (Fees) (Wales) Rules 2021 (S.I. 2021/152)](https://www.legislation.gov.uk/uksi/2021/152), [rule 5(2)(a)](https://www.legislation.gov.uk/uksi/2021/152/rule/5/2/a)
 
 [^c22937871]: Marginal citation: [S.I. 1977/985](https://www.legislation.gov.uk/uksi/1977/985).
 
-[^key-524b925ae33e7b816dcff25da450de13]: Textual amendment: Rule 15(2) omitted (W.) (with effect in accordance with rule 1(2) of the amending S.I.) by virtue of [The Local Land Charges (Fees) (Wales) Rules 2021 (S.I. 2021/152)](https://www.legislation.gov.uk/uksi/2021/152), [rule 5(2)(b)](https://www.legislation.gov.uk/uksi/2021/152/rule/5/2/b)
+[^c-524b925ae33e7b816dcff25da450de13]: Textual amendment: Rule 15(2) omitted (W.) (with effect in accordance with rule 1(2) of the amending S.I.) by virtue of [The Local Land Charges (Fees) (Wales) Rules 2021 (S.I. 2021/152)](https://www.legislation.gov.uk/uksi/2021/152), [rule 5(2)(b)](https://www.legislation.gov.uk/uksi/2021/152/rule/5/2/b)
 
 [^c22937881]: Marginal citation: [1949 c. 74](https://www.legislation.gov.uk/ukpga/1949/74); [section 8(8)](https://www.legislation.gov.uk/uksi/2018/273/section/8/8) was substituted by Schedule 1 to the Local Land Charges Act 1975 and section 13(6) was amended by paragraphs 1 and 11 of Schedule 2 to the [Flood Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29).
 

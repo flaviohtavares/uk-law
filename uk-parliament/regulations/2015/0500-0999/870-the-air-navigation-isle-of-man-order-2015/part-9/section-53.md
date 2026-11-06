@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Commander’s duty concerning the loading of aircraft[^key-c20866d5d82f0cad4c63f746ac1faffc]
+## 53. Commander’s duty concerning the loading of aircraft[^c-c20866d5d82f0cad4c63f746ac1faffc]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c20866d5d82f0cad4c63f746ac1faffc]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2015/870/article/53) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-c20866d5d82f0cad4c63f746ac1faffc]: Commencement: [Art. 53](https://www.legislation.gov.uk/uksi/2015/870/article/53) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

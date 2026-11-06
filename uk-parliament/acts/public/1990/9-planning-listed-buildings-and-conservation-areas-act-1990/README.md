@@ -33,7 +33,7 @@ An Act to consolidate certain enactments relating to special controls in respect
 
 \[24th May 1990\]
 
-[^c12914921][^c12914931][^c12914941][^c12914951][^c12914961][^c12914971][^c12914981][^c12914991][^c12915001][^c12915011][^c12915021][^c21493731][^c21495281][^c21496461]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-191c06420f944ff6faa9ca7ba91c8ebe][^key-8cdb1b39de4b9fd5da66ba096792a96b][^key-edac2eefd156e83dea4768c6e805e6fb]
+[^c12914921][^c12914931][^c12914941][^c12914951][^c12914961][^c12914971][^c12914981][^c12914991][^c12915001][^c12915011][^c12915021][^c21493731][^c21495281][^c21496461]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-191c06420f944ff6faa9ca7ba91c8ebe][^c-8cdb1b39de4b9fd5da66ba096792a96b][^c-edac2eefd156e83dea4768c6e805e6fb]
 
 ## Contents
 
@@ -99,12 +99,12 @@ An Act to consolidate certain enactments relating to special controls in respect
 - [Section 25 — Procedure for s. 23 orders: unopposed cases.](part-i/section-25.md)
 - [Section 26 — Revocation and modification of listed building consent by the Secretary of State.](part-i/section-26.md)
 
-##### Buildings in England: heritage partnership agreements[^key-9e07df86884eae33e4030907c00ba0cc]
+##### Buildings in England: heritage partnership agreements[^c-9e07df86884eae33e4030907c00ba0cc]
 
 - [Section 26A — Heritage partnership agreements](part-i/section-26a.md)
 - [Section 26B — Heritage partnership agreements: supplemental](part-i/section-26b.md)
 
-##### Buildings in England: orders granting listed building consent[^key-62073637af46e93ffa58e93a68df792e]
+##### Buildings in England: orders granting listed building consent[^c-62073637af46e93ffa58e93a68df792e]
 
 *Extent: E+W*
 
@@ -114,7 +114,7 @@ An Act to consolidate certain enactments relating to special controls in respect
 - [Section 26F — Considerations in making orders](part-i/section-26f.md)
 - [Section 26G — Effect of revision or revocation of order on incomplete works](part-i/section-26g.md)
 
-##### Buildings in England: certificates of lawfulness[^key-20a11ed331da35155637b7a43b7823c7]
+##### Buildings in England: certificates of lawfulness[^c-20a11ed331da35155637b7a43b7823c7]
 
 *Extent: E+W*
 
@@ -123,7 +123,7 @@ An Act to consolidate certain enactments relating to special controls in respect
 - [Section 26J — Offences](part-i/section-26j.md)
 - [Section 26K — Appeals against refusal or failure to give decision on application](part-i/section-26k.md)
 
-##### ...[^key-38637723c88b5a3fe74ff772ee4e524c]
+##### ...[^c-38637723c88b5a3fe74ff772ee4e524c]
 
 *Extent: E+W*
 
@@ -257,7 +257,7 @@ An Act to consolidate certain enactments relating to special controls in respect
 - [Section 79 — Town scheme agreements.](part-ii/section-79.md)
 - [Section 80 — Grants for repairing of buildings in town schemes.](part-ii/section-80.md)
 
-### Part III — General[^c12918021][^key-512f6326468593e22e75ec72c55b56ed]
+### Part III — General[^c12918021][^c-512f6326468593e22e75ec72c55b56ed]
 
 *Extent: E+W*
 
@@ -300,7 +300,7 @@ An Act to consolidate certain enactments relating to special controls in respect
 - [Section 89 — Application of certain general provisions of principal Act.](part-iii/section-89.md)
 - [Section 90 — Financial provisions.](part-iii/section-90.md)
 
-### Part IV — Supplemental[^key-a8fa64ee1618c0dcc5a6d6f714d2b27b]
+### Part IV — Supplemental[^c-a8fa64ee1618c0dcc5a6d6f714d2b27b]
 
 - [Section 91 — Interpretation.](part-iv/section-91.md)
 - [Section 92 — Application of Act to Isles of Scilly.](part-iv/section-92.md)
@@ -363,23 +363,23 @@ SCHEDULES
 
 [^c21496461]: Modification: Act modified (30.5.2007) by [The National Assembly for Wales Commission (Crown Status) (No. 2) Order 2007 (S.I. 2007/1353)](https://www.legislation.gov.uk/uksi/2007/1353), [art. 5](https://www.legislation.gov.uk/uksi/2007/1353/article/5)
 
-[^key-191c06420f944ff6faa9ca7ba91c8ebe]: Modification: Act applied (with modifications) (1.10.2012) by [The London Legacy Development Corporation (Planning Functions) Order 2012 (S.I. 2012/2167)](https://www.legislation.gov.uk/uksi/2012/2167), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2167/article/1), [7](https://www.legislation.gov.uk/uksi/2012/2167/article/7) (with [Sch. ss. 1](https://www.legislation.gov.uk/uksi/2012/2167/schedule/section/1), [2](https://www.legislation.gov.uk/uksi/2012/2167/schedule/section/2))
+[^c-191c06420f944ff6faa9ca7ba91c8ebe]: Modification: Act applied (with modifications) (1.10.2012) by [The London Legacy Development Corporation (Planning Functions) Order 2012 (S.I. 2012/2167)](https://www.legislation.gov.uk/uksi/2012/2167), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2167/article/1), [7](https://www.legislation.gov.uk/uksi/2012/2167/article/7) (with [Sch. ss. 1](https://www.legislation.gov.uk/uksi/2012/2167/schedule/section/1), [2](https://www.legislation.gov.uk/uksi/2012/2167/schedule/section/2))
 
-[^key-8cdb1b39de4b9fd5da66ba096792a96b]: Modification: Act applied (with modifications) (W.) (1.3.2016) by [The Developments of National Significance (Wales) Regulations 2016 (S.I. 2016/56)](https://www.legislation.gov.uk/wsi/2016/56), [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2016/56/schedule/4/paragraph/1) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/3), [44](https://www.legislation.gov.uk/wsi/2016/56/regulation/44))
+[^c-8cdb1b39de4b9fd5da66ba096792a96b]: Modification: Act applied (with modifications) (W.) (1.3.2016) by [The Developments of National Significance (Wales) Regulations 2016 (S.I. 2016/56)](https://www.legislation.gov.uk/wsi/2016/56), [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2016/56/schedule/4/paragraph/1) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/3), [44](https://www.legislation.gov.uk/wsi/2016/56/regulation/44))
 
-[^key-edac2eefd156e83dea4768c6e805e6fb]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/9): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-edac2eefd156e83dea4768c6e805e6fb]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/9): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c12915031]: Modification: Chs. I, II (ss. 1-26) and IV (ss. 38-44) of Pt. I, ss. 54-56, 59-61, 66, 68-72, 74-76 and 88: power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 171(4)(b)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/b); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art.3](https://www.legislation.gov.uk/uksi/1993/2762/article/3).
 
 [^c12915211]: Modification: Chs. I, II (ss. 1-26) and IV (ss. 38-44) of Pt. I, ss. 54-56, 59-61, 66, 68-72, 74-76 and 88: power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 171(4)(b)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/b); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art.3](https://www.legislation.gov.uk/uksi/1993/2762/article/3).
 
-[^key-9e07df86884eae33e4030907c00ba0cc]: Textual amendment: Ss. 26A, 26B and cross-heading inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/60/2), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); S.I. 2014/416, art. 3(a)
+[^c-9e07df86884eae33e4030907c00ba0cc]: Textual amendment: Ss. 26A, 26B and cross-heading inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/60/2), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); S.I. 2014/416, art. 3(a)
 
-[^key-62073637af46e93ffa58e93a68df792e]: Textual amendment: Ss. 26C-26G and cross-heading inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/60/3), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); S.I. 2014/416, art. 3(a)
+[^c-62073637af46e93ffa58e93a68df792e]: Textual amendment: Ss. 26C-26G and cross-heading inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/60/3), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); S.I. 2014/416, art. 3(a)
 
-[^key-20a11ed331da35155637b7a43b7823c7]: Textual amendment: Ss. 26H-26K and cross-heading inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 61](https://www.legislation.gov.uk/ukpga/2013/24/section/61), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); S.I. 2014/416, art. 3(b)
+[^c-20a11ed331da35155637b7a43b7823c7]: Textual amendment: Ss. 26H-26K and cross-heading inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 61](https://www.legislation.gov.uk/ukpga/2013/24/section/61), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); S.I. 2014/416, art. 3(b)
 
-[^key-38637723c88b5a3fe74ff772ee4e524c]: Textual amendment: [S. 26L and cross-heading](https://www.legislation.gov.uk/ukpga/1990/9/part/I/chapter/II/crossheading/buildings-in-wales-heritage-partnership-agreements) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 114](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/114) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-38637723c88b5a3fe74ff772ee4e524c]: Textual amendment: [S. 26L and cross-heading](https://www.legislation.gov.uk/ukpga/1990/9/part/I/chapter/II/crossheading/buildings-in-wales-heritage-partnership-agreements) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 114](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/114) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c12916111]: Modification: Chs. I, II (ss. 1-26) and IV (ss. 38-44) of Pt. I, ss. 54-56, 59-61, 66, 68-72, 74-76 and 88: power to apply conferred (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 171(4)(b)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/b); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art.3](https://www.legislation.gov.uk/uksi/1993/2762/article/3).
 
@@ -387,8 +387,8 @@ SCHEDULES
 
 [^c12918021]: Modification: Part III modified and extended (17.7.1992) by [S.I. 1992/1732](https://www.legislation.gov.uk/uksi/1992/1732), [art.2](https://www.legislation.gov.uk/uksi/1992/1732/article/2)
 
-[^key-512f6326468593e22e75ec72c55b56ed]: Modification: Pt. III applied (with modifications) (E.) (6.4.2014) by [The Planning (Listed Buildings and Conservation Areas) (Heritage Partnership Agreements) Regulations 2014 (S.I. 2014/550)](https://www.legislation.gov.uk/uksi/2014/550), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/550/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2014/550/regulation/7)
+[^c-512f6326468593e22e75ec72c55b56ed]: Modification: Pt. III applied (with modifications) (E.) (6.4.2014) by [The Planning (Listed Buildings and Conservation Areas) (Heritage Partnership Agreements) Regulations 2014 (S.I. 2014/550)](https://www.legislation.gov.uk/uksi/2014/550), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/550/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2014/550/regulation/7)
 
 [^c21494671]: Textual amendment: Ss. 81A, 81B and cross-heading inserted (24.8.2005 for E. except so far as relates to the insertion of s. 81B, 6.4.2009 for E. for that excepted purpose, otherwise prosp.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 43(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/43/3), [121(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/1) (with [ss. 43(5)](https://www.legislation.gov.uk/ukpga/2004/5/section/43/5), [111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2005/2081](https://www.legislation.gov.uk/uksi/2005/2081), [art 2(a)(iii)](https://www.legislation.gov.uk/uksi/2005/2081/article/2/a/iii); [S.I. 2009/384](https://www.legislation.gov.uk/uksi/2009/384), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/384/article/2/c)
 
-[^key-a8fa64ee1618c0dcc5a6d6f714d2b27b]: Modification: Pt. IV applied (with modifications) (E.) (6.4.2014) by [The Planning (Listed Buildings and Conservation Areas) (Heritage Partnership Agreements) Regulations 2014 (S.I. 2014/550)](https://www.legislation.gov.uk/uksi/2014/550), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/550/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2014/550/regulation/7)
+[^c-a8fa64ee1618c0dcc5a6d6f714d2b27b]: Modification: Pt. IV applied (with modifications) (E.) (6.4.2014) by [The Planning (Listed Buildings and Conservation Areas) (Heritage Partnership Agreements) Regulations 2014 (S.I. 2014/550)](https://www.legislation.gov.uk/uksi/2014/550), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/550/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2014/550/regulation/7)

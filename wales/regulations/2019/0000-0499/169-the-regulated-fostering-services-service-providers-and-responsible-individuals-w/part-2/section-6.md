@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Requirements in relation to the responsible individual[^key-db4a0a0d4951ba00cd9baf646d69d043]
+## 6. Requirements in relation to the responsible individual[^c-db4a0a0d4951ba00cd9baf646d69d043]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-db4a0a0d4951ba00cd9baf646d69d043]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2019/169/regulation/6) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-db4a0a0d4951ba00cd9baf646d69d043]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2019/169/regulation/6) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
 
 [^c23552781]: Marginal citation: [Section 6](https://www.legislation.gov.uk/wsi/2019/169/section/6) of the 2016 Act requires a person who wants to provide a regulated service to make an application for registration to the Welsh Ministers designating an individual as the responsible individual.

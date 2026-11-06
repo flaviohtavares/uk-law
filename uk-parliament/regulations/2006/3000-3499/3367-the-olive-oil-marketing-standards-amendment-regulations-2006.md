@@ -32,7 +32,7 @@ summary: ''
 
 food
 
-The Olive Oil (Marketing Standards) (Amendment) Regulations 2006 (revoked)[^key-a6605e3837e8452e4e65b6e7bbd98f8b]
+The Olive Oil (Marketing Standards) (Amendment) Regulations 2006 (revoked)[^c-a6605e3837e8452e4e65b6e7bbd98f8b]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 10th January 2007
 
-[^key-a6605e3837e8452e4e65b6e7bbd98f8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6605e3837e8452e4e65b6e7bbd98f8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-a6605e3837e8452e4e65b6e7bbd98f8b]
+## 1. Title and commencement[^c-a6605e3837e8452e4e65b6e7bbd98f8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Olive Oil (Marketing Standards) Regulations 2003[^key-a6605e3837e8452e4e65b6e7bbd98f8b]
+## 2. Amendment of the Olive Oil (Marketing Standards) Regulations 2003[^c-a6605e3837e8452e4e65b6e7bbd98f8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a6605e3837e8452e4e65b6e7bbd98f8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6605e3837e8452e4e65b6e7bbd98f8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-a6605e3837e8452e4e65b6e7bbd98f8b]EXPLANATORY NOTE
+[^c-a6605e3837e8452e4e65b6e7bbd98f8b]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -78,4 +78,4 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 ## Annotations
 
-[^key-a6605e3837e8452e4e65b6e7bbd98f8b]: Textual amendment: Regulations revoked (1.3.2014) by [The Olive Oil (Marketing Standards) Regulations 2014 (S.I. 2014/195)](https://www.legislation.gov.uk/uksi/2014/195), [reg. 20(h)](https://www.legislation.gov.uk/uksi/2014/195/regulation/20/h)
+[^c-a6605e3837e8452e4e65b6e7bbd98f8b]: Textual amendment: Regulations revoked (1.3.2014) by [The Olive Oil (Marketing Standards) Regulations 2014 (S.I. 2014/195)](https://www.legislation.gov.uk/uksi/2014/195), [reg. 20(h)](https://www.legislation.gov.uk/uksi/2014/195/regulation/20/h)

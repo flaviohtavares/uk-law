@@ -22,7 +22,7 @@ summary: ''
 
 Article 4(1)
 
-### 1. Interpretation[^key-626100640176364861c68b4a62e1b613]
+### 1. Interpretation[^c-626100640176364861c68b4a62e1b613]
 
 (1) In this Schedule—
 
@@ -36,7 +36,7 @@ Article 4(1)
 
 (2) For the purposes of this Schedule, a combustion unit or installation that uses only biomass as a fuel includes a combustion unit or installation that uses fossil fuels only during start-up or shut-down of operations.
 
-### 2. Meaning of installation[^key-d42f05649ae92e7da00b6b665f8b9e72]
+### 2. Meaning of installation[^c-d42f05649ae92e7da00b6b665f8b9e72]
 
 (1) Subject to sub-paragraph (2), in this Order, “**installation**” means a stationary technical unit or units where one or more regulated activities are carried out.
 
@@ -51,13 +51,13 @@ Article 4(1)
 
 (4) References in this Order to an installation include references to part of an installation.
 
-### 3. Meaning of regulated activity, etc.[^key-8c1620a5dffdc42fd0947f33c8537312]
+### 3. Meaning of regulated activity, etc.[^c-8c1620a5dffdc42fd0947f33c8537312]
 
-(1) In this Order, “**regulated activity**” means any of the following[^key-cd2b91ad59f2e94e29a3d3560c4fc2c5]—
+(1) In this Order, “**regulated activity**” means any of the following[^c-cd2b91ad59f2e94e29a3d3560c4fc2c5]—
 
-- (a) an activity set out in an entry in column 1 of table C that results in emissions of the gases set out in the corresponding entry in column 2; [^key-bb272b1eac5c6b4f2fd1c0f83db60a8b]...
+- (a) an activity set out in an entry in column 1 of table C that results in emissions of the gases set out in the corresponding entry in column 2; [^c-bb272b1eac5c6b4f2fd1c0f83db60a8b]...
 - (b) where such an activity is carried out on a site, the combustion of fuels in any combustion unit (including a combustion unit referred to in sub-paragraph (5)(a) or (b)) operated on the site that results in emissions of such gases, except for a combustion unit to which sub-paragraph (2) applies.
-- (c)[^key-37ae24eee7591b7bbd8bf560b22775f6] where the activity set out in column 1 of the first row of table C (combustion of fuels, etc.) is carried out on an upstream site, upstream GHG removal on or after the relevant date in any stationary technical unit on the site that results in emissions of carbon dioxide.
+- (c)[^c-37ae24eee7591b7bbd8bf560b22775f6] where the activity set out in column 1 of the first row of table C (combustion of fuels, etc.) is carried out on an upstream site, upstream GHG removal on or after the relevant date in any stationary technical unit on the site that results in emissions of carbon dioxide.
 
 (2) This sub-paragraph applies to a combustion unit if—
 
@@ -107,7 +107,7 @@ Table C
 </tbody>
 </table>
 
-[^key-60bff5173b9dd7e8c4e8ef18722816e7]
+[^c-60bff5173b9dd7e8c4e8ef18722816e7]
 
 (4) For the purpose of calculating the production or other capacity set out in an entry in column 1 of table C, where more than one activity referred to in the entry is carried out on a site, the capacities of all such activities must be added together.
 
@@ -123,7 +123,7 @@ Table C
 
 for the purpose of this Order, the reference to the activity in that paragraph must be treated as a reference to the activity falling within the entry referred to in paragraph (a) of this sub-paragraph.
 
-(6A)[^key-570734faf100e732a06be00340f8bea0] In this paragraph—
+(6A)[^c-570734faf100e732a06be00340f8bea0] In this paragraph—
 
 - “**relevant date**” means 1st January 2025 or, if the Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 is made on or after 16th November 2024, the first day of the fourth month after the month in which that Order is made;
 - “**upstream GHG removal**” means the removal of constituent greenhouse gases from petroleum (whether by a chemical or physical process);
@@ -142,7 +142,7 @@ for the purpose of this Order, the reference to the activity in that paragraph m
 
 ## Annotations
 
-[^key-626100640176364861c68b4a62e1b613]: Commencement: Sch. 2 para. 1 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-626100640176364861c68b4a62e1b613]: Commencement: Sch. 2 para. 1 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
 [^c24438281]: Marginal citation: [S.R. 2005/300](https://www.legislation.gov.uk/nisr/2005/300), to which there are amendments not relevant to this Order.
 
@@ -154,16 +154,16 @@ for the purpose of this Order, the reference to the activity in that paragraph m
 
 [^c24438321]: Marginal citation: [2003 c. 33](https://www.legislation.gov.uk/ukpga/2003/33). Section 21(3) was amended by regulation 6(2)(b) of [S.I. 2011/2499](https://www.legislation.gov.uk/uksi/2011/2499).
 
-[^key-d42f05649ae92e7da00b6b665f8b9e72]: Commencement: Sch. 2 para. 2 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-d42f05649ae92e7da00b6b665f8b9e72]: Commencement: Sch. 2 para. 2 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-8c1620a5dffdc42fd0947f33c8537312]: Commencement: Sch. 2 para. 3 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-8c1620a5dffdc42fd0947f33c8537312]: Commencement: Sch. 2 para. 3 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-cd2b91ad59f2e94e29a3d3560c4fc2c5]: Textual amendment: Words in Sch. 2 para. 3(1) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [28(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1366/article/28/2/a/i)
+[^c-cd2b91ad59f2e94e29a3d3560c4fc2c5]: Textual amendment: Words in Sch. 2 para. 3(1) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [28(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/1366/article/28/2/a/i)
 
-[^key-bb272b1eac5c6b4f2fd1c0f83db60a8b]: Textual amendment: Word in Sch. 2 para. 3(1)(a) omitted (1.1.2025) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [28(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1366/article/28/2/a/ii)
+[^c-bb272b1eac5c6b4f2fd1c0f83db60a8b]: Textual amendment: Word in Sch. 2 para. 3(1)(a) omitted (1.1.2025) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [28(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/1366/article/28/2/a/ii)
 
-[^key-37ae24eee7591b7bbd8bf560b22775f6]: Textual amendment: Sch. 2 para. 3(1)(c) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [28(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1366/article/28/2/a/iii)
+[^c-37ae24eee7591b7bbd8bf560b22775f6]: Textual amendment: Sch. 2 para. 3(1)(c) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [28(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/1366/article/28/2/a/iii)
 
-[^key-60bff5173b9dd7e8c4e8ef18722816e7]: Textual amendment: Words in Sch. 2 para. 3 Table C substituted (E.W.S.) (1.1.2024 immediately after [S.I. 2023/850](https://www.legislation.gov.uk/uksi/2023/850) comes into force) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2023 (S.I. 2023/1387)](https://www.legislation.gov.uk/uksi/2023/1387), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2023/1387/article/2/1), [10(2)](https://www.legislation.gov.uk/uksi/2023/1387/article/10/2) (which affecting provision is extended to N.I. (1.1.2025) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/a), [45(2)](https://www.legislation.gov.uk/uksi/2024/1366/article/45/2))
+[^c-60bff5173b9dd7e8c4e8ef18722816e7]: Textual amendment: Words in Sch. 2 para. 3 Table C substituted (E.W.S.) (1.1.2024 immediately after [S.I. 2023/850](https://www.legislation.gov.uk/uksi/2023/850) comes into force) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2023 (S.I. 2023/1387)](https://www.legislation.gov.uk/uksi/2023/1387), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2023/1387/article/2/1), [10(2)](https://www.legislation.gov.uk/uksi/2023/1387/article/10/2) (which affecting provision is extended to N.I. (1.1.2025) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/a), [45(2)](https://www.legislation.gov.uk/uksi/2024/1366/article/45/2))
 
-[^key-570734faf100e732a06be00340f8bea0]: Textual amendment: Sch. 2 para. 3(6A)(6B) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [28(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/28/2/b)
+[^c-570734faf100e732a06be00340f8bea0]: Textual amendment: Sch. 2 para. 3(6A)(6B) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [28(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/28/2/b)

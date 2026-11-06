@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Cross-border enforcement: officers of Revenue and Customs[^c22719571][^key-45288f774a8dcb8f7ffc003b0b65dfed]
+## 118. Cross-border enforcement: officers of Revenue and Customs[^c22719571][^c-45288f774a8dcb8f7ffc003b0b65dfed]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In section 87 of the Finance Act 2007 (cross-border exercise of powers: officers
 
 [^c22719571]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2017/3/section/118) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-45288f774a8dcb8f7ffc003b0b65dfed]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2017/3/section/118) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)
+[^c-45288f774a8dcb8f7ffc003b0b65dfed]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2017/3/section/118) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)

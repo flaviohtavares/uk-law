@@ -47,15 +47,15 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred upon Her by section 19(1) of the Education Act 2005[^f00001] is pleased, by and with the advice of Her Privy Council, to order as follows:
 
-## 1. Citation and commencement[^key-d0e08dfb7cf0e31ae861bcef0f46aa85]
+## 1. Citation and commencement[^c-d0e08dfb7cf0e31ae861bcef0f46aa85]
 
 This Order may be cited as the Education (Chief Inspector of Education and Training in Wales) (No. 2) Order 2021 and comes into force on 1st January 2022.
 
-## 2. Appointment of Her Majesty’s Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru[^key-fe471a69abc9c0d1f5f6ed0f213c95eb]
+## 2. Appointment of Her Majesty’s Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru[^c-fe471a69abc9c0d1f5f6ed0f213c95eb]
 
 Owen Evans is appointed as Her Majesty’s Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru for a period of 5 years commencing on 1st January 2022.
 
-## 3. Revocation[^key-ffc49fd9621d1b026cae72e4361cbe23]
+## 3. Revocation[^c-ffc49fd9621d1b026cae72e4361cbe23]
 
 The Education (Chief Inspector of Education and Training in Wales) Order 2021 is revoked[^f00002].
 
@@ -73,10 +73,10 @@ This Order appoints Owen Evans as Her Majesty’s Inspector of Education and Tra
 
 [^f00001]: Footnote: [2005 c. 18](https://www.legislation.gov.uk/ukpga/2005/18).
 
-[^key-d0e08dfb7cf0e31ae861bcef0f46aa85]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/885/article/1) in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/885/article/1)
+[^c-d0e08dfb7cf0e31ae861bcef0f46aa85]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/885/article/1) in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/885/article/1)
 
-[^key-fe471a69abc9c0d1f5f6ed0f213c95eb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/885/article/2) in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/885/article/1)
+[^c-fe471a69abc9c0d1f5f6ed0f213c95eb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/885/article/2) in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/885/article/1)
 
-[^key-ffc49fd9621d1b026cae72e4361cbe23]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/885/article/3) in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/885/article/1)
+[^c-ffc49fd9621d1b026cae72e4361cbe23]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/885/article/3) in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/885/article/1)
 
 [^f00002]: Footnote: [S.I. 2021/803](https://www.legislation.gov.uk/uksi/2021/803).

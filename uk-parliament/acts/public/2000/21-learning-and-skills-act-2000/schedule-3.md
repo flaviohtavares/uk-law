@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Committees (England)[^key-f30c3726d634644af02a550823b54cb4]
+## SCHEDULE 3 — Committees (England)[^c-f30c3726d634644af02a550823b54cb4]
 
 *Extent: E+W*
 
@@ -28,29 +28,29 @@ Section 26.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f30c3726d634644af02a550823b54cb4]
+[^c-f30c3726d634644af02a550823b54cb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f30c3726d634644af02a550823b54cb4]
+[^c-f30c3726d634644af02a550823b54cb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f30c3726d634644af02a550823b54cb4]
+[^c-f30c3726d634644af02a550823b54cb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f30c3726d634644af02a550823b54cb4]
+[^c-f30c3726d634644af02a550823b54cb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f30c3726d634644af02a550823b54cb4]
+[^c-f30c3726d634644af02a550823b54cb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f30c3726d634644af02a550823b54cb4]
+[^c-f30c3726d634644af02a550823b54cb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -60,4 +60,4 @@ Section 26.
 
 ## Annotations
 
-[^key-f30c3726d634644af02a550823b54cb4]: Textual amendment: Sch. 3 repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 6 para. 52](https://www.legislation.gov.uk/ukpga/2009/22/schedule/6/paragraph/52), [16 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/2); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2)
+[^c-f30c3726d634644af02a550823b54cb4]: Textual amendment: Sch. 3 repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 6 para. 52](https://www.legislation.gov.uk/ukpga/2009/22/schedule/6/paragraph/52), [16 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/2); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2)

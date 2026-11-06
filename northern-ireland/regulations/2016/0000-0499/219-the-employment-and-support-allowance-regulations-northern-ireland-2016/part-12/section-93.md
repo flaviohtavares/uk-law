@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 93. Disqualification for misconduct etc.[^key-caed05d017335d085cc50eff168c78b6]
+## 93. Disqualification for misconduct etc.[^c-caed05d017335d085cc50eff168c78b6]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-caed05d017335d085cc50eff168c78b6]: Commencement: [Reg. 93](https://www.legislation.gov.uk/nisr/2016/219/regulation/93) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-caed05d017335d085cc50eff168c78b6]: Commencement: [Reg. 93](https://www.legislation.gov.uk/nisr/2016/219/regulation/93) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00093]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 

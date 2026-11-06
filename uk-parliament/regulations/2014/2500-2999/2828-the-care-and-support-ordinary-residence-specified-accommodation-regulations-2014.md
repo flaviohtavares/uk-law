@@ -64,13 +64,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## 2. Specified types of accommodation
 
-(1)[^key-07f133800da10cf4b8ccff058cdb2052] Subject to paragraph (2), the following types of accommodation are specified for the purposes of section 39(1) of the Act (where a person is treated as ordinarily resident)—
+(1)[^c-07f133800da10cf4b8ccff058cdb2052] Subject to paragraph (2), the following types of accommodation are specified for the purposes of section 39(1) of the Act (where a person is treated as ordinarily resident)—
 
 - (a) care home accommodation (see regulation 3);
 - (b) shared lives scheme accommodation (see regulation 4); and
 - (c) supported living accommodation (see regulation 5).
 
-(2)[^key-f12293ab9cbcf36f5021619a79dbeef8] The types of accommodation referred to in paragraph (1) are specified in relation to an adult for the purposes of section 39(1) of the Act only if the care and support needs of the adult are being met under Part 1 of the Act while the adult lives in that type of accommodation.
+(2)[^c-f12293ab9cbcf36f5021619a79dbeef8] The types of accommodation referred to in paragraph (1) are specified in relation to an adult for the purposes of section 39(1) of the Act only if the care and support needs of the adult are being met under Part 1 of the Act while the adult lives in that type of accommodation.
 
 ## 3. Care home accommodation
 
@@ -122,9 +122,9 @@ A separate impact assessment has not been prepared for these Regulations. These 
 
 [^c22232141]: Marginal citation: [Section 39(1)](https://www.legislation.gov.uk/uksi/2014/2828/section/39/1) was commenced for the purpose of making regulations by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473).
 
-[^key-07f133800da10cf4b8ccff058cdb2052]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2828/regulation/2) substituted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Care and Support (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/644)](https://www.legislation.gov.uk/uksi/2015/644), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2015/644/regulation/4/a)
+[^c-07f133800da10cf4b8ccff058cdb2052]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2828/regulation/2) substituted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Care and Support (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/644)](https://www.legislation.gov.uk/uksi/2015/644), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/3), [4(a)](https://www.legislation.gov.uk/uksi/2015/644/regulation/4/a)
 
-[^key-f12293ab9cbcf36f5021619a79dbeef8]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/2828/regulation/2/2) inserted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Care and Support (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/644)](https://www.legislation.gov.uk/uksi/2015/644), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2015/644/regulation/4/b)
+[^c-f12293ab9cbcf36f5021619a79dbeef8]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/2828/regulation/2/2) inserted (coming into force in accordance with reg. 1(2)(3) of the amending S.I.) by [The Care and Support (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/644)](https://www.legislation.gov.uk/uksi/2015/644), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2015/644/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2015/644/regulation/4/b)
 
 [^c22232151]: Marginal citation: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14); [section 3](https://www.legislation.gov.uk/uksi/2014/2828/section/3) was amended by the [Health and Social Care Act 2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14), [section 95](https://www.legislation.gov.uk/ukpga/2008/14/section/95) and paragraph 4 of Schedule 5.
 

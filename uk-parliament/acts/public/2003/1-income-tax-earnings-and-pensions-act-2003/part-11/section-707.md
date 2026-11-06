@@ -22,10 +22,10 @@ summary: ''
 
 In this Chapter—
 
-- “**employment**” means any employment the general earnings from which are (or, apart from any regulations made by virtue of this Chapter[^key-c99c3ac20065d3e0b20f4d0e44572628], would be) PAYE income and related expressions are to be construed accordingly;
+- “**employment**” means any employment the general earnings from which are (or, apart from any regulations made by virtue of this Chapter[^c-c99c3ac20065d3e0b20f4d0e44572628], would be) PAYE income and related expressions are to be construed accordingly;
 - “**prescribed**” means prescribed by PAYE regulations;
 - “**taxable benefit**”, in relation to an employee, means any benefit provided or made available, otherwise than in the form of a payment of money, to the employee, or to a person who is a member of the employee’s family or household.
 
 ## Annotations
 
-[^key-c99c3ac20065d3e0b20f4d0e44572628]: Textual amendment: Words in s. 707 substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 145(5)](https://www.legislation.gov.uk/ukpga/2003/14/section/145/5)
+[^c-c99c3ac20065d3e0b20f4d0e44572628]: Textual amendment: Words in s. 707 substituted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 145(5)](https://www.legislation.gov.uk/ukpga/2003/14/section/145/5)

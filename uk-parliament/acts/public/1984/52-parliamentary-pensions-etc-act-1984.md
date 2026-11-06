@@ -29,7 +29,7 @@ Parliamentary Pensions etc. Act 1984
 
 1984 c. 52
 
-An Act to make further provision with respect to the contributory pensions schemes for Members of the House of Commons and for the holders of certain Ministerial and other offices; to increase the amount that may be appropriated under section 4(4) of the House of Commons Members’ Fund Act 1948 for the alleviation of special hardship; and to provide for payments to be made, in certain circumstances, to persons who cease to hold Ministerial and other offices or to be Representatives to the Assembly of the European Union[^key-e84572fb0126da94bba19d7eb04c9530].
+An Act to make further provision with respect to the contributory pensions schemes for Members of the House of Commons and for the holders of certain Ministerial and other offices; to increase the amount that may be appropriated under section 4(4) of the House of Commons Members’ Fund Act 1948 for the alleviation of special hardship; and to provide for payments to be made, in certain circumstances, to persons who cease to hold Ministerial and other offices or to be Representatives to the Assembly of the European Union[^c-e84572fb0126da94bba19d7eb04c9530].
 
 \[31st July 1984\] [^c765480]
 
@@ -39,7 +39,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## House of Commons Members’ Fund
 
-### 12. Appropriation of funds for alleviation of special hardship.[^key-3432aabf3ab6245d1285c0e0c789857c]
+### 12. Appropriation of funds for alleviation of special hardship.[^c-3432aabf3ab6245d1285c0e0c789857c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -126,7 +126,7 @@ This Act may be cited as the Parliamentary Pensions etc. Act 1984.
 
 ## Annotations
 
-[^key-e84572fb0126da94bba19d7eb04c9530]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-e84572fb0126da94bba19d7eb04c9530]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c765480]: Commencement: Act wholly in force at Royal Assent.
 
@@ -134,7 +134,7 @@ This Act may be cited as the Parliamentary Pensions etc. Act 1984.
 
     As saved ss. 3(4)-(6), 4(3)-(6), 5(1)(2), 6 have been revoked (21.1.1994) by [S.I. 1993/3253](https://www.legislation.gov.uk/uksi/1993/3253), [reg. R5](https://www.legislation.gov.uk/uksi/1993/3253/regulation/R5), [Sch. 7](https://www.legislation.gov.uk/uksi/1993/3253/schedule/7), [Pt.1](https://www.legislation.gov.uk/uksi/1993/3253/part/1).
 
-[^key-3432aabf3ab6245d1285c0e0c789857c]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1984/52/section/12) repealed (12.8.2016) by [House of Commons Members Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [ss. 9(f)](https://www.legislation.gov.uk/ukpga/2016/18/section/9/f), [10](https://www.legislation.gov.uk/ukpga/2016/18/section/10)
+[^c-3432aabf3ab6245d1285c0e0c789857c]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1984/52/section/12) repealed (12.8.2016) by [House of Commons Members Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [ss. 9(f)](https://www.legislation.gov.uk/ukpga/2016/18/section/9/f), [10](https://www.legislation.gov.uk/ukpga/2016/18/section/10)
 
 [^c765486]: Textual amendment: S. 13 repealed by Ministerial and other [Pensions and Salaries Act 1991 (c. 5, SIF 89)](https://www.legislation.gov.uk/ukpga/1991/5), [s. 4(9)](https://www.legislation.gov.uk/ukpga/1991/5/section/4/9) (with saving).
 

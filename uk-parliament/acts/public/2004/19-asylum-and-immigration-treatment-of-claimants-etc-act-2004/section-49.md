@@ -28,13 +28,13 @@ summary: ''
 
 (2) An amendment effected by this Act has the same extent as the enactment, or as the relevant part of the enactment, amended (ignoring extent by virtue of an Order in Council).
 
-(3)[^key-3861daf05019435c25044299f7295103][^key-2160e55d36ea6e1ce2926f3f215434ca] Her Majesty may by Order in Council direct that a provision of this Act is to extend, with or without modification or adaptation, to—
+(3)[^c-3861daf05019435c25044299f7295103][^c-2160e55d36ea6e1ce2926f3f215434ca] Her Majesty may by Order in Council direct that a provision of this Act is to extend, with or without modification or adaptation, to—
 
 - (a) any of the Channel Islands;
 - (b) the Isle of Man.
 
 ## Annotations
 
-[^key-3861daf05019435c25044299f7295103]: Modification: S. 49(3) power to extend (with modifications) (Channel Islands or Isle of Man) any amendments or repeals made to this Act by 2016 c. 19, to which this section relates (12.5.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 94(5)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/5), [95(6)(7)(f)](https://www.legislation.gov.uk/ukpga/2016/19/section/95/7/f)
+[^c-3861daf05019435c25044299f7295103]: Modification: S. 49(3) power to extend (with modifications) (Channel Islands or Isle of Man) any amendments or repeals made to this Act by 2016 c. 19, to which this section relates (12.5.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 94(5)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/5), [95(6)(7)(f)](https://www.legislation.gov.uk/ukpga/2016/19/section/95/7/f)
 
-[^key-2160e55d36ea6e1ce2926f3f215434ca]: Modification: S. 49(3) power extended (28.4.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 86(5)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/5)[(6)(h)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/6/h), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
+[^c-2160e55d36ea6e1ce2926f3f215434ca]: Modification: S. 49(3) power extended (28.4.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 86(5)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/5)[(6)(h)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/6/h), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)

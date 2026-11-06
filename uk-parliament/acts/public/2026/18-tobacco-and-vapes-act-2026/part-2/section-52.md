@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Age of sale for tobacco products etc[^key-5427e4b27a3394e12fc257968e5f3e39]
+## 52. Age of sale for tobacco products etc[^c-5427e4b27a3394e12fc257968e5f3e39]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5427e4b27a3394e12fc257968e5f3e39]: Commencement: S. 52 in force at 1.1.2027, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)
+[^c-5427e4b27a3394e12fc257968e5f3e39]: Commencement: S. 52 in force at 1.1.2027, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)

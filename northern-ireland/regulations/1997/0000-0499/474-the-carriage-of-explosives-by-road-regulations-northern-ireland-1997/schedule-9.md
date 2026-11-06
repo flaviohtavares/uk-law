@@ -22,9 +22,9 @@ summary: ''
 
 Regulation 32
 
-**1.**[^key-6df99b84d647fefc990f104877a9610d] The 1991 Regulations shall be amended in accordance with the following paragraphs of this Schedule.
+**1.**[^c-6df99b84d647fefc990f104877a9610d] The 1991 Regulations shall be amended in accordance with the following paragraphs of this Schedule.
 
-**2.**[^key-580159dec8c18c94be7af65242707d75] Regulation 6 shall be amended by—
+**2.**[^c-580159dec8c18c94be7af65242707d75] Regulation 6 shall be amended by—
 
 - (a) the substitution in paragraph (3) of “, 1.5 or 1.6” for “or 1.5”;
 - (b) the addition after paragraph (4) of the following paragraphs:
@@ -33,9 +33,9 @@ Regulation 32
   >
   > (6) A packaged article or substance or a combination of them or an unpackaged article to which these Regulations apply, allocated on classification the United Nations Serial Numbers 0015, 0016, 0018, 0019, 0113, 0301 or 0303, shall bear a label in accordance with paragraph 17 of Schedule 3.
 
-**3.**[^key-6c1781daefa04ca5f62293106fd62374] Regulation 9 shall be amended by the substitution in paragraph (2) of, “(3), (5) or (6)” for “or (3)”.
+**3.**[^c-6c1781daefa04ca5f62293106fd62374] Regulation 9 shall be amended by the substitution in paragraph (2) of, “(3), (5) or (6)” for “or (3)”.
 
-**4.**[^key-e254e79db7aaf2c4f3f6aea20b89b25a] After regulation 12 there shall be added the following regulation—
+**4.**[^c-e254e79db7aaf2c4f3f6aea20b89b25a] After regulation 12 there shall be added the following regulation—
 
 > **12A.** In any proceedings for an offence—
 >
@@ -56,13 +56,13 @@ Regulation 32
 
 .
 
-**5.**[^key-85bfee28b6d990e3c65e1cded2c3edc0] Schedule 1 shall be amended by the addition of the following Division and Division number after the entry or Division 1.5—
+**5.**[^c-85bfee28b6d990e3c65e1cded2c3edc0] Schedule 1 shall be amended by the addition of the following Division and Division number after the entry or Division 1.5—
 
 > |  |  |
 > | --- | --- |
 > | Extremely insensitive articles which do not have a mass explosion hazard. | 1.6 |
 
-**6.**[^key-53d5650f632ed91397685179ce466a74] Schedule 2 shall be amended by—
+**6.**[^c-53d5650f632ed91397685179ce466a74] Schedule 2 shall be amended by—
 
 - (a) the addition of the following words at the end of the Compatibility Group entry for Compatibility Group B—
 
@@ -75,7 +75,7 @@ Regulation 32
   > | --- | --- |
   > | Articles containing only extremely insensitive detonating substances. | N |
 
-**7.**[^key-dfd883a4c7790f82a83a362d9d893f8c] Schedule 3 shall be amended by—
+**7.**[^c-dfd883a4c7790f82a83a362d9d893f8c] Schedule 3 shall be amended by—
 
 - (a) the substitution of “, 1.5 or 1.6” for “or 1.5” in the heading above paragraph 4.
 - (b) the addition after paragraph 15 of the following paragraphs—
@@ -102,7 +102,7 @@ Regulation 32
   >   - (i) larger measurements, increased proportionally may be used, or
   >   - (ii) where, in order to comply with regulation 10(1), a smaller label is necessary, the dimensions may be decreased proportionally while remaining as large as is reasonably practicable for the purpose of such compliance.
 
-**8.**[^key-6dadc30e020c63466af418b63cbcbff7] Schedule 4 shall be amended by the addition of the following before the entry for the explosive article allocated on classification the UN Number 0354—
+**8.**[^c-6dadc30e020c63466af418b63cbcbff7] Schedule 4 shall be amended by the addition of the following before the entry for the explosive article allocated on classification the UN Number 0354—
 
 > |  |  |  |
 > | --- | --- | --- |
@@ -110,18 +110,18 @@ Regulation 32
 
 ## Annotations
 
-[^key-6df99b84d647fefc990f104877a9610d]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/1) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-6df99b84d647fefc990f104877a9610d]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/1) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-580159dec8c18c94be7af65242707d75]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/2) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-580159dec8c18c94be7af65242707d75]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/2) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-6c1781daefa04ca5f62293106fd62374]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/3) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-6c1781daefa04ca5f62293106fd62374]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/3) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-e254e79db7aaf2c4f3f6aea20b89b25a]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/4) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-e254e79db7aaf2c4f3f6aea20b89b25a]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/4) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-85bfee28b6d990e3c65e1cded2c3edc0]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/5) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-85bfee28b6d990e3c65e1cded2c3edc0]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/5) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-53d5650f632ed91397685179ce466a74]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/6) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-53d5650f632ed91397685179ce466a74]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/6) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-dfd883a4c7790f82a83a362d9d893f8c]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/7) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-dfd883a4c7790f82a83a362d9d893f8c]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/7) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-6dadc30e020c63466af418b63cbcbff7]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/8) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-6dadc30e020c63466af418b63cbcbff7]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/nisr/1997/474/schedule/9/paragraph/8) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

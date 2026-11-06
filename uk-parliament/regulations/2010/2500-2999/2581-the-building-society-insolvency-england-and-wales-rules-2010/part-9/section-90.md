@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Advertisement of resignation[^key-cdd054ee6b9c2dac6c36101029de2b94]
+## 90. Advertisement of resignation[^c-cdd054ee6b9c2dac6c36101029de2b94]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.112 of the 1986 Rules.
 
 ## Annotations
 
-[^key-cdd054ee6b9c2dac6c36101029de2b94]: Commencement: Rule 90 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-cdd054ee6b9c2dac6c36101029de2b94]: Commencement: Rule 90 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

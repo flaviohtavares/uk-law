@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Green deal assessor certification bodies[^key-3c170ff27bb034302faa64c61f97eac2]
+## 11. Green deal assessor certification bodies[^c-3c170ff27bb034302faa64c61f97eac2]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c170ff27bb034302faa64c61f97eac2]: Commencement: Reg. 11 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-3c170ff27bb034302faa64c61f97eac2]: Commencement: Reg. 11 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

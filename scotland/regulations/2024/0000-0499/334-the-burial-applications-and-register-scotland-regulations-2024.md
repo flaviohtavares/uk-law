@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 104(1) of that Act, they have consulted burial authorities and such other persons as they consider appropriate.
 
-## 1. Citation, commencement and interpretation[^key-025126dc3edee74f969cccffb0d921e7]
+## 1. Citation, commencement and interpretation[^c-025126dc3edee74f969cccffb0d921e7]
 
 (1) These Regulations may be cited as the Burial (Applications and Register) (Scotland) Regulations 2024 and come into force on 1 March 2025.
 
@@ -70,7 +70,7 @@ In accordance with section 104(1) of that Act, they have consulted burial author
 
 and must be the signatory’s handwritten signature.
 
-## 2. Records[^key-10521886e4989ce61581bb4c7808250f]
+## 2. Records[^c-10521886e4989ce61581bb4c7808250f]
 
 (1) Each burial authority must retain for a period of 50 years, beginning with the date on which the burial is carried out, all burial application forms submitted in accordance with regulation 3 and any accompanying information, documents or certificates.
 
@@ -78,7 +78,7 @@ and must be the signatory’s handwritten signature.
 
 (3) The burial authority must ensure that all documentation retained under paragraph (1) is at all times kept in an accessible form in secure conditions and that all appropriate measures are taken to prevent theft, unauthorised disclosure, damage, loss or destruction.
 
-## 3. Application for burial[^key-bc7b5dec193586cb588845a7648bc454]
+## 3. Application for burial[^c-bc7b5dec193586cb588845a7648bc454]
 
 (1) An application under section 8(1) of the Act (application to carry out burial) is to be made in accordance with this regulation.
 
@@ -89,7 +89,7 @@ and must be the signatory’s handwritten signature.
   - (ii) any person who may make arrangements on the death of the adult by virtue of section 65(2), 68 or 87 of the Act,
   - (iii) a person employed in the provision of, or managing the provision of, a care home service at which the deceased was living at the time of his or her death, or
   - (iv) the managers of the hospital in which the deceased died or any officer or person designated for that purpose by the managers,
-  - (v) where[^key-68c1e53e0b461ba5764a894029b32a7a] the body, body part or parts of the deceased have undergone anatomical examination, or are in the possession of a person licensed under section 3(2) of the Anatomy Act 1984[^f00004], [^key-43a5c12ae34ff30537b0921bbbf149ad]... the person licensed to carry out the examination or have possession of the body, part or parts, or any other person authorised by the licensed person to submit it,
+  - (v) where[^c-68c1e53e0b461ba5764a894029b32a7a] the body, body part or parts of the deceased have undergone anatomical examination, or are in the possession of a person licensed under section 3(2) of the Anatomy Act 1984[^f00004], [^c-43a5c12ae34ff30537b0921bbbf149ad]... the person licensed to carry out the examination or have possession of the body, part or parts, or any other person authorised by the licensed person to submit it,
 - (b) the deceased is a child, by a person who may make arrangements on the death of the child by virtue of section 66(2), 68 or 87 of the Act,
 - (c) the remains to be buried are those of a still-born child or fetus, by the mother, or the person with authority to make arrangements in relation to the remains of that still-born child or fetus by virtue of Part 3 of the Act, or
 
@@ -114,7 +114,7 @@ and must be the signatory’s handwritten signature.
   - (i) where the Scottish Ministers have delegated the management of the hospital to a Health Board, Special Health Board, National Health Service or the Common Services Agency for the Scottish Health Service, that Board, trust or agency or,
   - (ii) where the management of the hospital has not been so delegated, the Scottish Ministers.
 
-## 4. Burial Register[^key-041139f1fccfbbd62b45725c7570d61d]
+## 4. Burial Register[^c-041139f1fccfbbd62b45725c7570d61d]
 
 (1) For the purpose of section 10(1) of the Act, the prescribed information which a burial register must contain is—
 
@@ -139,31 +139,31 @@ Edinburgh
 
 12th November 2024
 
-## SCHEDULE 1[^key-c4542044cd713945a527bca48385b895][^key-f6781083d50aff1e2e7cc9e101bc0620]
+## SCHEDULE 1[^c-c4542044cd713945a527bca48385b895][^c-f6781083d50aff1e2e7cc9e101bc0620]
 
 Regulation 3
 
-## SCHEDULE 2[^key-1cc1770f9235bd1d86944215d1a3b84e][^key-97cf044c149dd8e0ece7a9424ecb6c52]
+## SCHEDULE 2[^c-1cc1770f9235bd1d86944215d1a3b84e][^c-97cf044c149dd8e0ece7a9424ecb6c52]
 
 Regulation 3
 
-## SCHEDULE 3[^key-a49630bcb92d20659ce5f9353d41940b][^key-f8df737fb0df1d35ce6d0402d9578397]
+## SCHEDULE 3[^c-a49630bcb92d20659ce5f9353d41940b][^c-f8df737fb0df1d35ce6d0402d9578397]
 
 Regulation 3
 
-## SCHEDULE 4[^key-dbe439b7c23f3ada121e02cdf243a3d3][^key-11c8232b736813864c5d745f8bd937b6]
+## SCHEDULE 4[^c-dbe439b7c23f3ada121e02cdf243a3d3][^c-11c8232b736813864c5d745f8bd937b6]
 
 Regulation 3
 
-## SCHEDULE 5[^key-68f6dc997c61b2c67d635bce7c9862e5][^key-1ef2584a107d94971d83ce6de793f9ec]
+## SCHEDULE 5[^c-68f6dc997c61b2c67d635bce7c9862e5][^c-1ef2584a107d94971d83ce6de793f9ec]
 
 Regulation 3
 
-## SCHEDULE 6[^key-279f78e40601a609bb07d2489e676697][^key-ecb3c6e6593912e374a27e631a6b4764]
+## SCHEDULE 6[^c-279f78e40601a609bb07d2489e676697][^c-ecb3c6e6593912e374a27e631a6b4764]
 
 Regulation 3
 
-## SCHEDULE 7[^key-4aaeeb8b9e40aa0901c0f604302b7153][^key-bcaeda03d7649c7f4837b6c1fe8db81a]
+## SCHEDULE 7[^c-4aaeeb8b9e40aa0901c0f604302b7153][^c-bcaeda03d7649c7f4837b6c1fe8db81a]
 
 Regulation 3
 
@@ -171,7 +171,7 @@ Regulation 3
 
 Regulation 4
 
-### PART 1 — Information where burial is of an adult or child[^key-60e967c2ea37a8edb63ed9ca816231a4]
+### PART 1 — Information where burial is of an adult or child[^c-60e967c2ea37a8edb63ed9ca816231a4]
 
 #### A. Details of deceased
 
@@ -186,12 +186,12 @@ Regulation 4
 - Name of burial ground burial carried out at
 - Burial number/reference
 - Day and date of burial
-- Type of burial (coffin or ashes or powder interment[^key-f950219b6bbdf5dfa967c5d801cda048])
+- Type of burial (coffin or ashes or powder interment[^c-f950219b6bbdf5dfa967c5d801cda048])
 - Address of deceased
 - Location in burial ground, e.g. section and lair number
 - Funeral Director (if relevant)
 
-### PART 2 — Information relating to a burial of body parts[^key-795067bc8ee5c014949d76d3e3ef01ad]
+### PART 2 — Information relating to a burial of body parts[^c-795067bc8ee5c014949d76d3e3ef01ad]
 
 #### A. Details of deceased
 
@@ -206,14 +206,14 @@ Regulation 4
 - Name of burial ground burial carried out at
 - Burial number/reference
 - Day and date of burial
-- Date and place of burial , cremation or hydrolysis[^key-05b5d56f3be75704771fa524f04c43d3] of body
+- Date and place of burial , cremation or hydrolysis[^c-05b5d56f3be75704771fa524f04c43d3] of body
 - Body parts being buried
 - Location in burial ground, e.g. section and lair number
 - Funeral Director (if relevant)
 - Name and business address of person applying for the burial
 - Name and business address of person signing the certificates
 
-### PART 3 — Information where burial is relating to a stillbirth or pregnancy loss[^key-d4e892ae5de1f665fa2147bdacd85dfa]
+### PART 3 — Information where burial is relating to a stillbirth or pregnancy loss[^c-d4e892ae5de1f665fa2147bdacd85dfa]
 
 #### A. Details of stillbirth or pregnancy loss
 
@@ -247,21 +247,21 @@ Regulation 4 prescribes the information which must be recorded in burial registe
 
 [^f00001]: Footnote: [2016 asp 20](https://www.legislation.gov.uk/asp/2016/20).
 
-[^key-025126dc3edee74f969cccffb0d921e7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2024/334/regulation/1) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
+[^c-025126dc3edee74f969cccffb0d921e7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2024/334/regulation/1) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
 
 [^f00002]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by paragraph 158 of schedule 17 of the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-10521886e4989ce61581bb4c7808250f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2024/334/regulation/2) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
+[^c-10521886e4989ce61581bb4c7808250f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2024/334/regulation/2) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
 
-[^key-bc7b5dec193586cb588845a7648bc454]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2024/334/regulation/3) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
+[^c-bc7b5dec193586cb588845a7648bc454]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2024/334/regulation/3) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
 
 [^f00003]: Footnote: An “arrangements on death declaration” is defined in section 65(8) of the Act.
 
-[^key-68c1e53e0b461ba5764a894029b32a7a]: Textual amendment: Word in [reg. 3(2)(a)(v)](https://www.legislation.gov.uk/ssi/2024/334/regulation/3/2/a/v) inserted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [7(a)](https://www.legislation.gov.uk/ssi/2025/360/regulation/7/a)
+[^c-68c1e53e0b461ba5764a894029b32a7a]: Textual amendment: Word in [reg. 3(2)(a)(v)](https://www.legislation.gov.uk/ssi/2024/334/regulation/3/2/a/v) inserted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [7(a)](https://www.legislation.gov.uk/ssi/2025/360/regulation/7/a)
 
 [^f00004]: Footnote: [1984 c. 14](https://www.legislation.gov.uk/ukpga/1984/14).
 
-[^key-43a5c12ae34ff30537b0921bbbf149ad]: Textual amendment: Word in [reg. 3(2)(a)(v)](https://www.legislation.gov.uk/ssi/2024/334/regulation/3/2/a/v) omitted (2.3.2026) by virtue of [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [7(b)](https://www.legislation.gov.uk/ssi/2025/360/regulation/7/b)
+[^c-43a5c12ae34ff30537b0921bbbf149ad]: Textual amendment: Word in [reg. 3(2)(a)(v)](https://www.legislation.gov.uk/ssi/2024/334/regulation/3/2/a/v) omitted (2.3.2026) by virtue of [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [7(b)](https://www.legislation.gov.uk/ssi/2025/360/regulation/7/b)
 
 [^f00005]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
@@ -271,42 +271,42 @@ Regulation 4 prescribes the information which must be recorded in burial registe
 
 [^f00008]: Footnote: Sections 10Q and 10P were inserted by the Public Services Reform (Scotland) Act 2010, section 108.
 
-[^key-041139f1fccfbbd62b45725c7570d61d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2024/334/regulation/4) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
+[^c-041139f1fccfbbd62b45725c7570d61d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2024/334/regulation/4) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
 
-[^key-c4542044cd713945a527bca48385b895]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2024/334/schedule/1) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
+[^c-c4542044cd713945a527bca48385b895]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2024/334/schedule/1) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
 
-[^key-f6781083d50aff1e2e7cc9e101bc0620]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2024/334/schedule/1) Form substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 11](https://www.legislation.gov.uk/ssi/2025/360/schedule/11) (with [reg. 9](https://www.legislation.gov.uk/ssi/2025/360/regulation/9))
+[^c-f6781083d50aff1e2e7cc9e101bc0620]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2024/334/schedule/1) Form substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 11](https://www.legislation.gov.uk/ssi/2025/360/schedule/11) (with [reg. 9](https://www.legislation.gov.uk/ssi/2025/360/regulation/9))
 
-[^key-1cc1770f9235bd1d86944215d1a3b84e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2024/334/schedule/2) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
+[^c-1cc1770f9235bd1d86944215d1a3b84e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2024/334/schedule/2) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
 
-[^key-97cf044c149dd8e0ece7a9424ecb6c52]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2024/334/schedule/2) Form substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 12](https://www.legislation.gov.uk/ssi/2025/360/schedule/12) (with [reg. 9](https://www.legislation.gov.uk/ssi/2025/360/regulation/9))
+[^c-97cf044c149dd8e0ece7a9424ecb6c52]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2024/334/schedule/2) Form substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 12](https://www.legislation.gov.uk/ssi/2025/360/schedule/12) (with [reg. 9](https://www.legislation.gov.uk/ssi/2025/360/regulation/9))
 
-[^key-a49630bcb92d20659ce5f9353d41940b]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2024/334/schedule/3) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
+[^c-a49630bcb92d20659ce5f9353d41940b]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2024/334/schedule/3) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
 
-[^key-f8df737fb0df1d35ce6d0402d9578397]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2024/334/schedule/3) Form substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 13](https://www.legislation.gov.uk/ssi/2025/360/schedule/13) (with [reg. 9](https://www.legislation.gov.uk/ssi/2025/360/regulation/9))
+[^c-f8df737fb0df1d35ce6d0402d9578397]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2024/334/schedule/3) Form substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 13](https://www.legislation.gov.uk/ssi/2025/360/schedule/13) (with [reg. 9](https://www.legislation.gov.uk/ssi/2025/360/regulation/9))
 
-[^key-dbe439b7c23f3ada121e02cdf243a3d3]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2024/334/schedule/4) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
+[^c-dbe439b7c23f3ada121e02cdf243a3d3]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2024/334/schedule/4) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
 
-[^key-11c8232b736813864c5d745f8bd937b6]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ssi/2024/334/schedule/4) Form substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 14](https://www.legislation.gov.uk/ssi/2025/360/schedule/14) (with [reg. 9](https://www.legislation.gov.uk/ssi/2025/360/regulation/9))
+[^c-11c8232b736813864c5d745f8bd937b6]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ssi/2024/334/schedule/4) Form substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 14](https://www.legislation.gov.uk/ssi/2025/360/schedule/14) (with [reg. 9](https://www.legislation.gov.uk/ssi/2025/360/regulation/9))
 
-[^key-68f6dc997c61b2c67d635bce7c9862e5]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ssi/2024/334/schedule/5) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
+[^c-68f6dc997c61b2c67d635bce7c9862e5]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ssi/2024/334/schedule/5) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
 
-[^key-1ef2584a107d94971d83ce6de793f9ec]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ssi/2024/334/schedule/5) Form substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 15](https://www.legislation.gov.uk/ssi/2025/360/schedule/15) (with [reg. 9](https://www.legislation.gov.uk/ssi/2025/360/regulation/9))
+[^c-1ef2584a107d94971d83ce6de793f9ec]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ssi/2024/334/schedule/5) Form substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 15](https://www.legislation.gov.uk/ssi/2025/360/schedule/15) (with [reg. 9](https://www.legislation.gov.uk/ssi/2025/360/regulation/9))
 
-[^key-279f78e40601a609bb07d2489e676697]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ssi/2024/334/schedule/6) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
+[^c-279f78e40601a609bb07d2489e676697]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ssi/2024/334/schedule/6) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
 
-[^key-ecb3c6e6593912e374a27e631a6b4764]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ssi/2024/334/schedule/6) Form substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 16](https://www.legislation.gov.uk/ssi/2025/360/schedule/16) (with [reg. 9](https://www.legislation.gov.uk/ssi/2025/360/regulation/9))
+[^c-ecb3c6e6593912e374a27e631a6b4764]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ssi/2024/334/schedule/6) Form substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 16](https://www.legislation.gov.uk/ssi/2025/360/schedule/16) (with [reg. 9](https://www.legislation.gov.uk/ssi/2025/360/regulation/9))
 
-[^key-4aaeeb8b9e40aa0901c0f604302b7153]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ssi/2024/334/schedule/7) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
+[^c-4aaeeb8b9e40aa0901c0f604302b7153]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ssi/2024/334/schedule/7) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
 
-[^key-bcaeda03d7649c7f4837b6c1fe8db81a]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ssi/2024/334/schedule/7) Form substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 17](https://www.legislation.gov.uk/ssi/2025/360/schedule/17) (with [reg. 9](https://www.legislation.gov.uk/ssi/2025/360/regulation/9))
+[^c-bcaeda03d7649c7f4837b6c1fe8db81a]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ssi/2024/334/schedule/7) Form substituted (2.3.2026) by [The Burial and Cremation (Applications and Registers) (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/360)](https://www.legislation.gov.uk/ssi/2025/360), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/360/regulation/1/1), [sch. 17](https://www.legislation.gov.uk/ssi/2025/360/schedule/17) (with [reg. 9](https://www.legislation.gov.uk/ssi/2025/360/regulation/9))
 
-[^key-60e967c2ea37a8edb63ed9ca816231a4]: Commencement: [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ssi/2024/334/schedule/8/part/1) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
+[^c-60e967c2ea37a8edb63ed9ca816231a4]: Commencement: [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ssi/2024/334/schedule/8/part/1) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
 
-[^key-f950219b6bbdf5dfa967c5d801cda048]: Textual amendment: Words in [sch. 8 Pt. 1 s. B](https://www.legislation.gov.uk/ssi/2024/334/schedule/8/part/1/section/B) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [14(a)](https://www.legislation.gov.uk/ssi/2026/50/regulation/14/a)
+[^c-f950219b6bbdf5dfa967c5d801cda048]: Textual amendment: Words in [sch. 8 Pt. 1 s. B](https://www.legislation.gov.uk/ssi/2024/334/schedule/8/part/1/section/B) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [14(a)](https://www.legislation.gov.uk/ssi/2026/50/regulation/14/a)
 
-[^key-795067bc8ee5c014949d76d3e3ef01ad]: Commencement: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/ssi/2024/334/schedule/8/part/2) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
+[^c-795067bc8ee5c014949d76d3e3ef01ad]: Commencement: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/ssi/2024/334/schedule/8/part/2) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
 
-[^key-05b5d56f3be75704771fa524f04c43d3]: Textual amendment: Words in [sch. 8 Pt. 2 s. B](https://www.legislation.gov.uk/ssi/2024/334/schedule/8/part/2/section/B) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [14(b)](https://www.legislation.gov.uk/ssi/2026/50/regulation/14/b)
+[^c-05b5d56f3be75704771fa524f04c43d3]: Textual amendment: Words in [sch. 8 Pt. 2 s. B](https://www.legislation.gov.uk/ssi/2024/334/schedule/8/part/2/section/B) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [14(b)](https://www.legislation.gov.uk/ssi/2026/50/regulation/14/b)
 
-[^key-d4e892ae5de1f665fa2147bdacd85dfa]: Commencement: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ssi/2024/334/schedule/8/part/3) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)
+[^c-d4e892ae5de1f665fa2147bdacd85dfa]: Commencement: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ssi/2024/334/schedule/8/part/3) in force at 1.3.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/334/regulation/1/1)

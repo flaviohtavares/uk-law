@@ -28,7 +28,7 @@ summary: ''
 
 #### Compensation for loss of office
 
-**2.** (1) The consent of the appropriate authority[^key-1eb0c9dd7890e4a36a87050699104986] shall be sufficient authority for the provision for any such compensation as is mentioned in section 96(1)(a).
+**2.** (1) The consent of the appropriate authority[^c-1eb0c9dd7890e4a36a87050699104986] shall be sufficient authority for the provision for any such compensation as is mentioned in section 96(1)(a).
 
 (2) A resolution of the board of directors passed in pursuance of the direction shall be sufficient authority for any such payments as are mentioned in section 96(1)(b).
 
@@ -43,9 +43,9 @@ summary: ''
 
 with or without other particulars regarding that transfer.
 
-(2ZA)[^key-72e9a6ae825005f9d355363dfcb50d5c] The PRA must consult the FCA before requiring any particulars under sub-paragraph (2)(b).
+(2ZA)[^c-72e9a6ae825005f9d355363dfcb50d5c] The PRA must consult the FCA before requiring any particulars under sub-paragraph (2)(b).
 
-(2A)[^key-4a2e51908dc6abb28c0395f51fa88022] Where a statement is required to be sent to a member under sub-paragraph (2)—
+(2A)[^c-4a2e51908dc6abb28c0395f51fa88022] Where a statement is required to be sent to a member under sub-paragraph (2)—
 
 - (a) it may be sent to him electronically only if it is sent to an electronic address notified to the society by that member for the purpose;
 - (b) the requirement to send it shall also be treated as satisfied if the conditions set out in sub-paragraph (2B) are satisfied.
@@ -54,7 +54,7 @@ with or without other particulars regarding that transfer.
 
 - (a) the society and that person have agreed that information that is required to be sent to him may instead be accessed by him on a web site;
 - (b) the agreement applies to the statement in question;
-- (c) [^key-ae9d659b07e541d181f87bf005ac4705]... the society notifies him within the period specified in sub-paragraph (3) below of—
+- (c) [^c-ae9d659b07e541d181f87bf005ac4705]... the society notifies him within the period specified in sub-paragraph (3) below of—
   - (i) the publication of the notice and any statement on a web site,
   - (ii) the address of that web site,
   - (iii) the place on that web site where the documents may be accessed, and how they may be accessed; and
@@ -72,7 +72,7 @@ the failure shall not invalidate the proceedings of the meeting.
 - (a) where the appropriate authority has given the society a direction under section 42B(1)(a), within the period (not being less than 28 days) specified in a final notice given by the[^c15523691] appropriate authority under section 390 of the Financial Services and Markets Act 2000;
 - (b) where the appropriate authority has not given the society such a direction, within 14 days of the board of directors passing a resolution in pursuance of the direction.
 
-(3A)[^key-80e2d79cdf6caa68dd35f869cfd26054] For the purposes of sub-paragraph (3) above, in a case in which sub-paragraph (2A)(b) is relied on for compliance with a requirement under sub-paragraph (2), a statement published on a web site in accordance with sub-paragraph (2B) is to be treated as sent to a person on the day that the notification is given in accordance with sub-paragraph (2B)(c).
+(3A)[^c-80e2d79cdf6caa68dd35f869cfd26054] For the purposes of sub-paragraph (3) above, in a case in which sub-paragraph (2A)(b) is relied on for compliance with a requirement under sub-paragraph (2), a statement published on a web site in accordance with sub-paragraph (2B) is to be treated as sent to a person on the day that the notification is given in accordance with sub-paragraph (2B)(c).
 
 (4) No statement shall be sent unless its contents, so far as they concern the prescribed matters or any matter of which particulars are required to be given under sub-paragraph (2)(b) above, have been approved by the appropriate authority .
 
@@ -120,9 +120,9 @@ the failure shall not invalidate the proceedings of the meeting.
 
 with or without other particulars regarding that transfer.
 
-(2ZA)[^key-3dd095774953cc2b13deca805e16bddc] The PRA must consult the FCA before requiring any particulars under sub-paragraph (2)(b).
+(2ZA)[^c-3dd095774953cc2b13deca805e16bddc] The PRA must consult the FCA before requiring any particulars under sub-paragraph (2)(b).
 
-(2A)[^key-d16fe9a51d67a5aba5bb5f604b22a512] Where a statement is required to be sent to a member under sub-paragraph (2)—
+(2A)[^c-d16fe9a51d67a5aba5bb5f604b22a512] Where a statement is required to be sent to a member under sub-paragraph (2)—
 
 - (a) it may be sent to him electronically only if it is sent to an electronic address notified to the society by that member for the purpose;
 - (b) the requirement to send it shall also be treated as satisfied if the conditions set out in sub-paragraph (2B) are satisfied.
@@ -131,7 +131,7 @@ with or without other particulars regarding that transfer.
 
 - (a) the society and that person have agreed that statements that are required to be sent to him may instead be accessed by him on a web site;
 - (b) the agreement applies to the statement in question;
-- (c) [^key-8e37156aa9e94f2b442e8f04c7a8bc48]...the society notifies him within the period specified in sub-paragraph (3) of—
+- (c) [^c-8e37156aa9e94f2b442e8f04c7a8bc48]...the society notifies him within the period specified in sub-paragraph (3) of—
   - (i) the publication of the notice and any statement on a web site,
   - (ii) the address of that web site,
   - (iii) the place on that web site where the documents may be accessed, and how they may be accessed; and
@@ -146,10 +146,10 @@ the failure shall not invalidate the proceedings of the meeting.
 
 (3) The statement shall be sent—
 
-- (a) where the appropriate authority has given the society a direction under section 42B(1)(aa) or (b)[^key-14f52d11440f286965529f7e60252915] , within the period (not being less than 28 days) specified in a final notice given by the[^c15523791] appropriate authority under section 390 of the Financial Services and Markets Act 2000;
+- (a) where the appropriate authority has given the society a direction under section 42B(1)(aa) or (b)[^c-14f52d11440f286965529f7e60252915] , within the period (not being less than 28 days) specified in a final notice given by the[^c15523791] appropriate authority under section 390 of the Financial Services and Markets Act 2000;
 - (b) where the appropriate authority has not given the society such a direction, within 14 days of the board of directors passing a resolution in pursuance of the direction.
 
-(3A)[^key-f19b3a02db5c7cb5a36646432325a49f] For the purposes of sub-paragraph (3) above, in a case in which sub-paragraph (2A)(b) is relied on for compliance with a requirement under sub-paragraph (2), a statement published on a web site in accordance with sub-paragraph (2B) is to be treated as sent to a person on the day that the notification is given in accordance with sub-paragraph (2B)(c).
+(3A)[^c-f19b3a02db5c7cb5a36646432325a49f] For the purposes of sub-paragraph (3) above, in a case in which sub-paragraph (2A)(b) is relied on for compliance with a requirement under sub-paragraph (2), a statement published on a web site in accordance with sub-paragraph (2B) is to be treated as sent to a person on the day that the notification is given in accordance with sub-paragraph (2B)(c).
 
 (4) No statement shall be sent unless its contents, so far as they concern the prescribed matters or any matter of which particulars are required to be given under sub-paragraph (2)(b) above, have been approved by the appropriate authority .
 
@@ -175,28 +175,28 @@ the failure shall not invalidate the proceedings of the meeting.
 
 [^c15523651]: Textual amendment: Sch. 8A inserted (9.6.1997) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 17(2)](https://www.legislation.gov.uk/ukpga/1997/32/section/17/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/32/schedule/4); [S.I. 1997/1427](https://www.legislation.gov.uk/uksi/1997/1427), [art. 2(c)](https://www.legislation.gov.uk/uksi/1997/1427/article/2/c)
 
-[^key-1eb0c9dd7890e4a36a87050699104986]: Textual amendment: Words in Sch. 8A substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 54(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/54/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-1eb0c9dd7890e4a36a87050699104986]: Textual amendment: Words in Sch. 8A substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 54(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/54/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-72e9a6ae825005f9d355363dfcb50d5c]: Textual amendment: Sch. 8A para. 3(2ZA) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 54(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/54/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-72e9a6ae825005f9d355363dfcb50d5c]: Textual amendment: Sch. 8A para. 3(2ZA) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 54(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/54/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-4a2e51908dc6abb28c0395f51fa88022]: Textual amendment: Sch. 8A para. 3(2A)-(2C) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2003/404/article/20/2)
+[^c-4a2e51908dc6abb28c0395f51fa88022]: Textual amendment: Sch. 8A para. 3(2A)-(2C) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2003/404/article/20/2)
 
-[^key-ae9d659b07e541d181f87bf005ac4705]: Textual amendment: Words in [Sch. 8A para. 3(2B)(c)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/8A/paragraph/3/2B/c) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/13)
+[^c-ae9d659b07e541d181f87bf005ac4705]: Textual amendment: Words in [Sch. 8A para. 3(2B)(c)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/8A/paragraph/3/2B/c) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/13)
 
 [^c15523691]: Textual amendment: Words in Sch. 8A para. 3(3)(a) substituted (17.8.2001 for certain purposes and otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [8](https://www.legislation.gov.uk/uksi/2001/2617/article/8), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. II para. 204(b)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/II/paragraph/204/b) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
 
-[^key-80e2d79cdf6caa68dd35f869cfd26054]: Textual amendment: Sch. 8A para. 3(3A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2003/404/article/20/3)
+[^c-80e2d79cdf6caa68dd35f869cfd26054]: Textual amendment: Sch. 8A para. 3(3A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2003/404/article/20/3)
 
 [^c15523761]: Modification: Sch. 8A para. 9 amended (2.3.1998) by [S.I. 1998/212](https://www.legislation.gov.uk/uksi/1998/212), [reg. 5(1)](https://www.legislation.gov.uk/uksi/1998/212/regulation/5/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1998/212/schedule/3)
 
-[^key-3dd095774953cc2b13deca805e16bddc]: Textual amendment: Sch. 8A para. 9(2ZA) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 54(4)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/54/4) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-3dd095774953cc2b13deca805e16bddc]: Textual amendment: Sch. 8A para. 9(2ZA) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 54(4)](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/54/4) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-d16fe9a51d67a5aba5bb5f604b22a512]: Textual amendment: Sch. 8A para. 9(2A)-(2C) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2003/404/article/21/2)
+[^c-d16fe9a51d67a5aba5bb5f604b22a512]: Textual amendment: Sch. 8A para. 9(2A)-(2C) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2003/404/article/21/2)
 
-[^key-8e37156aa9e94f2b442e8f04c7a8bc48]: Textual amendment: Words in [Sch. 8A para. 9(2B)(c)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/8A/paragraph/9/2B/c) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/13)
+[^c-8e37156aa9e94f2b442e8f04c7a8bc48]: Textual amendment: Words in [Sch. 8A para. 9(2B)(c)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/8A/paragraph/9/2B/c) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/13)
 
-[^key-14f52d11440f286965529f7e60252915]: Textual amendment: Words in Sch. 8A para. 9(3) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 56(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/56/5), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-14f52d11440f286965529f7e60252915]: Textual amendment: Words in Sch. 8A para. 9(3) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 56(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/56/5), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c15523791]: Textual amendment: Words in Sch. 8A para. 9(3)(a) substituted (17.8.2001 for certain purposes and otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [8](https://www.legislation.gov.uk/uksi/2001/2617/article/8), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 Pt. II para. 204(b)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/part/II/paragraph/204/b) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2](https://www.legislation.gov.uk/uksi/2001/3538/article/2)
 
-[^key-f19b3a02db5c7cb5a36646432325a49f]: Textual amendment: Sch. 8A para. 9(3A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [21(3)](https://www.legislation.gov.uk/uksi/2003/404/article/21/3)
+[^c-f19b3a02db5c7cb5a36646432325a49f]: Textual amendment: Sch. 8A para. 9(3A) inserted (20.3.2003) by [The Building Societies Act 1986 (Electronic Communications) Order 2003 (S.I. 2003/404)](https://www.legislation.gov.uk/uksi/2003/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/404/article/1/1), [21(3)](https://www.legislation.gov.uk/uksi/2003/404/article/21/3)

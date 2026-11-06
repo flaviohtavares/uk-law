@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Orders and regulations[^key-26f6117d6bff2c77e3d1c7d903910887]
+## 5. Orders and regulations[^c-26f6117d6bff2c77e3d1c7d903910887]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26f6117d6bff2c77e3d1c7d903910887]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2005/3181/article/5) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-26f6117d6bff2c77e3d1c7d903910887]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2005/3181/article/5) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

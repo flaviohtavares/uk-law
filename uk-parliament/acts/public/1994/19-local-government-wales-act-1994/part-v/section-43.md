@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where any person—
 
-- (a) is, at any time after the passing of this Act, in the service of an old authority or a new principal council[^key-c9038617cdefc1f16f3f89501308cb64], and
+- (a) is, at any time after the passing of this Act, in the service of an old authority or a new principal council[^c-c9038617cdefc1f16f3f89501308cb64], and
 - (b) suffers loss of employment or diminution of emoluments which is attributable to any provision made by or under this Act,
 
 compensation in respect of any such loss or diminution suffered by him shall be paid only in accordance with regulations made under section 24 of the [^c10519791]Superannuation Act 1972.
@@ -51,7 +51,7 @@ there shall be treated as forming part of the remuneration payable under the new
 
 [^c10519781]: Modification: [Ss. 40-45](https://www.legislation.gov.uk/ukpga/1994/19/section/40) applied (with modifications) (23.11.1995) by [S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803), [art. 16](https://www.legislation.gov.uk/uksi/1995/2803/article/16) (with transitional provisions in [Schs. 6-8](https://www.legislation.gov.uk/uksi/1995/2803/schedule/6))
 
-[^key-c9038617cdefc1f16f3f89501308cb64]: Textual amendment: Words in [s. 43(1)(a)](https://www.legislation.gov.uk/ukpga/1994/19/section/43/1/a) substituted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 29(3)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/29/3/c)
+[^c-c9038617cdefc1f16f3f89501308cb64]: Textual amendment: Words in [s. 43(1)(a)](https://www.legislation.gov.uk/ukpga/1994/19/section/43/1/a) substituted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 29(3)(c)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/29/3/c)
 
 [^c10519791]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 

@@ -53,7 +53,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 ## 2. Treatment of payments for purposes of the Social Security Act 1975
 
-No primary or secondary Class 1 contributions shall be payable, and no person shall be liable to pay Class 1 or Class 2 contributions, in respect of payments to any person in receipt of a training premium under provision made under section 2 of the Employment and Training Act 1973([^c2181085];) or section 2 of the Enterprise and New Towns (Scotland) Act 1990[^key-3f5f1036c771b2d60f304e2a798fde36], being payments under provision made under either of those sections[^key-531f37ddc5c23f5870c8783fe197dd20] in connection with his use of facilities provided in pursuance of arrangements, known by the name of Employment Training, under either of those sections; and Part I (Contributions) of the Social Security Act 1975 shall be modified accordingly.
+No primary or secondary Class 1 contributions shall be payable, and no person shall be liable to pay Class 1 or Class 2 contributions, in respect of payments to any person in receipt of a training premium under provision made under section 2 of the Employment and Training Act 1973([^c2181085];) or section 2 of the Enterprise and New Towns (Scotland) Act 1990[^c-3f5f1036c771b2d60f304e2a798fde36], being payments under provision made under either of those sections[^c-531f37ddc5c23f5870c8783fe197dd20] in connection with his use of facilities provided in pursuance of arrangements, known by the name of Employment Training, under either of those sections; and Part I (Contributions) of the Social Security Act 1975 shall be modified accordingly.
 
 Signed by authority of the Secretary of State for Social Security
 
@@ -77,6 +77,6 @@ Article 2 provides that payments made to persons undergoing Employment Training 
 
 [^c2181085]: Marginal citation: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50); section 2 was substituted by section 25(1) of the Employment Act 1988.
 
-[^key-3f5f1036c771b2d60f304e2a798fde36]: Textual amendment: Words in art. 2 inserted (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [2](https://www.legislation.gov.uk/uksi/1991/387/article/2), [Schs.](https://www.legislation.gov.uk/uksi/1991/387/schedule)
+[^c-3f5f1036c771b2d60f304e2a798fde36]: Textual amendment: Words in art. 2 inserted (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [2](https://www.legislation.gov.uk/uksi/1991/387/article/2), [Schs.](https://www.legislation.gov.uk/uksi/1991/387/schedule)
 
-[^key-531f37ddc5c23f5870c8783fe197dd20]: Textual amendment: Words in art. 2 substituted (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [16](https://www.legislation.gov.uk/uksi/1991/387/article/16)
+[^c-531f37ddc5c23f5870c8783fe197dd20]: Textual amendment: Words in art. 2 substituted (1.4.1991) by [The Enterprise (Scotland) Consequential Amendments Order 1991 (S.I. 1991/387)](https://www.legislation.gov.uk/uksi/1991/387), [arts. 1](https://www.legislation.gov.uk/uksi/1991/387/article/1), [16](https://www.legislation.gov.uk/uksi/1991/387/article/16)

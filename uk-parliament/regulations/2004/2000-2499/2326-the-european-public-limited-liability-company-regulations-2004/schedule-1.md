@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S*
 
-[^key-6eef02e89bf7baf4a5dd23fe7a3276a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6eef02e89bf7baf4a5dd23fe7a3276a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6eef02e89bf7baf4a5dd23fe7a3276a1]: Textual amendment: Sch. 1 revoked (1.10.2014) by [The European Economic Interest Grouping and European Public Limited-Liability Company (Amendment) Regulations 2014 (S.I. 2014/2382)](https://www.legislation.gov.uk/uksi/2014/2382), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2382/regulation/1), [34](https://www.legislation.gov.uk/uksi/2014/2382/regulation/34)
+[^c-6eef02e89bf7baf4a5dd23fe7a3276a1]: Textual amendment: Sch. 1 revoked (1.10.2014) by [The European Economic Interest Grouping and European Public Limited-Liability Company (Amendment) Regulations 2014 (S.I. 2014/2382)](https://www.legislation.gov.uk/uksi/2014/2382), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2382/regulation/1), [34](https://www.legislation.gov.uk/uksi/2014/2382/regulation/34)

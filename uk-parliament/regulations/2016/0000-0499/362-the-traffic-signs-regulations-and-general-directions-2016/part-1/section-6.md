@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Expressions of time and distance and for parking restrictions[^key-f2bf844b000cdaf472384cdbd2fe950a]
+## 6. Expressions of time and distance and for parking restrictions[^c-f2bf844b000cdaf472384cdbd2fe950a]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2bf844b000cdaf472384cdbd2fe950a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-f2bf844b000cdaf472384cdbd2fe950a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)

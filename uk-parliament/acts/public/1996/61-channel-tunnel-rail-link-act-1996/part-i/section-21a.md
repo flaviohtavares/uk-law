@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21A. Fees[^key-29ede7718fd6605a3e7e0a03ecc4be89]
+## 21A. Fees[^c-29ede7718fd6605a3e7e0a03ecc4be89]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to this section, the Office of Rail and Road[^key-9efb7d580d4a1128968ad91a4ab142e7] may by notice require a rail link undertaker to pay a fee in respect of the exercise of any of the Office of Rail and Road's functions in relation to the rail link.
+(1) Subject to this section, the Office of Rail and Road[^c-9efb7d580d4a1128968ad91a4ab142e7] may by notice require a rail link undertaker to pay a fee in respect of the exercise of any of the Office of Rail and Road's functions in relation to the rail link.
 
 (2) The amount of a fee under subsection (1) in any case shall be—
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29ede7718fd6605a3e7e0a03ecc4be89]: Textual amendment: S. 21A inserted (22.7.2008) by [Channel Tunnel Rail Link (Supplementary Provisions) Act 2008 (c. 5)](https://www.legislation.gov.uk/ukpga/2008/5), [ss. 4](https://www.legislation.gov.uk/ukpga/2008/5/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/2008/5/section/6/2)
+[^c-29ede7718fd6605a3e7e0a03ecc4be89]: Textual amendment: S. 21A inserted (22.7.2008) by [Channel Tunnel Rail Link (Supplementary Provisions) Act 2008 (c. 5)](https://www.legislation.gov.uk/ukpga/2008/5), [ss. 4](https://www.legislation.gov.uk/ukpga/2008/5/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/2008/5/section/6/2)
 
-[^key-9efb7d580d4a1128968ad91a4ab142e7]: Textual amendment: Words in s. 21A substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(l)(iv)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/l/iv)
+[^c-9efb7d580d4a1128968ad91a4ab142e7]: Textual amendment: Words in s. 21A substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(l)(iv)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/l/iv)

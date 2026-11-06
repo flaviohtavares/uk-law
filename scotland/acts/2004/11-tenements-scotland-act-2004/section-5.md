@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Application to sheriff for annulment of certain decisions[^key-4001ee076317eb6df42d2b9ccb025d51]
+## 5. Application to sheriff for annulment of certain decisions[^c-4001ee076317eb6df42d2b9ccb025d51]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ appeal to the Court of Session on a point of law.
 
 ## Annotations
 
-[^key-4001ee076317eb6df42d2b9ccb025d51]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2004/11/section/5) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)
+[^c-4001ee076317eb6df42d2b9ccb025d51]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2004/11/section/5) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)

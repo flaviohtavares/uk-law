@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Academic freedom[^key-8b3afb4682ca8c1e6776d8ccc708e60f]
+## 26. Academic freedom[^c-8b3afb4682ca8c1e6776d8ccc708e60f]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ at the post-16 education body by those relevant persons.
 
 ## Annotations
 
-[^key-8b3afb4682ca8c1e6776d8ccc708e60f]: Textual amendment: [S. 26](https://www.legislation.gov.uk/asp/2005/6/section/26) substituted (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [ss. 23(2)](https://www.legislation.gov.uk/asp/2016/15/section/23/2), [26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)
+[^c-8b3afb4682ca8c1e6776d8ccc708e60f]: Textual amendment: [S. 26](https://www.legislation.gov.uk/asp/2005/6/section/26) substituted (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [ss. 23(2)](https://www.legislation.gov.uk/asp/2016/15/section/23/2), [26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1)

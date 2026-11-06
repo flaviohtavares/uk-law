@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 7 — QUARANTINE OF CAPTIVE BIRDS[^key-fbaf0ef7444009df336e61727d842905]
+## SCHEDULE 7 — QUARANTINE OF CAPTIVE BIRDS[^c-fbaf0ef7444009df336e61727d842905]
 
 *Extent: N.I.*
 
@@ -24,22 +24,22 @@ summary: ''
 
 regulation 17
 
-### PART I — Approvals[^key-fbaf0ef7444009df336e61727d842905]
+### PART I — Approvals[^c-fbaf0ef7444009df336e61727d842905]
 
-**1.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — APPROVAL FEE[^key-fbaf0ef7444009df336e61727d842905]
+### PART II — APPROVAL FEE[^c-fbaf0ef7444009df336e61727d842905]
 
-**5.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-fbaf0ef7444009df336e61727d842905] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fbaf0ef7444009df336e61727d842905]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/401) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(c)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/c)
+[^c-fbaf0ef7444009df336e61727d842905]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/401) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(c)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/c)

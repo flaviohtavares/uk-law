@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Payroll giving: extension of 10% supplement to 5th April 2004[^key-e6e139d8f5496c27f0311ade9228c893]
+## 146. Payroll giving: extension of 10% supplement to 5th April 2004[^c-e6e139d8f5496c27f0311ade9228c893]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6e139d8f5496c27f0311ade9228c893]: Textual amendment: [S. 146](https://www.legislation.gov.uk/ukpga/2003/14/section/146) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/3/2/b)
+[^c-e6e139d8f5496c27f0311ade9228c893]: Textual amendment: [S. 146](https://www.legislation.gov.uk/ukpga/2003/14/section/146) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/3/2/b)

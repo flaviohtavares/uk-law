@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 25B. Power of the Mayor of London to determine applications[^key-a413b69964a9e38254db50fa22cf9eac]
+## 25B. Power of the Mayor of London to determine applications[^c-a413b69964a9e38254db50fa22cf9eac]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a413b69964a9e38254db50fa22cf9eac]: Textual amendment: [Ss. 25B-25D](https://www.legislation.gov.uk/ukpga/2003/17/section/25B) and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 26 para. 12](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/12) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))
+[^c-a413b69964a9e38254db50fa22cf9eac]: Textual amendment: [Ss. 25B-25D](https://www.legislation.gov.uk/ukpga/2003/17/section/25B) and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 26 para. 12](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/12) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))

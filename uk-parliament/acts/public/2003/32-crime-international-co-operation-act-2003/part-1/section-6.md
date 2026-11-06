@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Effecting Scottish citation etc. otherwise than by post[^key-44e0f844b7f0425a3c0a6077ac6c1acc]
+## 6. Effecting Scottish citation etc. otherwise than by post[^c-44e0f844b7f0425a3c0a6077ac6c1acc]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44e0f844b7f0425a3c0a6077ac6c1acc]: Commencement: S. 6 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-44e0f844b7f0425a3c0a6077ac6c1acc]: Commencement: S. 6 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

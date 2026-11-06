@@ -36,7 +36,7 @@ An Act to make provision for the appointment of the Forensic Science Regulator; 
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. The Forensic Science Regulator[^key-167fddf364506e30044bc0776249b283]
+## 1. The Forensic Science Regulator[^c-167fddf364506e30044bc0776249b283]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) The Schedule makes further provision about the Regulator.
 
-## 2. Regulator's duty to publish a code of practice[^key-9989f9e9edbcae334b1f8efc2f0a5baf]
+## 2. Regulator's duty to publish a code of practice[^c-9989f9e9edbcae334b1f8efc2f0a5baf]
 
 *Extent: E+W*
 
@@ -67,7 +67,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (5) In this Act “**the code**” means the code of practice published under this section that is for the time being in force (as altered from time to time).
 
-## 3. Code of practice: procedure[^key-161d91cccc98e4ba65ef9804dc94d6cb]
+## 3. Code of practice: procedure[^c-161d91cccc98e4ba65ef9804dc94d6cb]
 
 *Extent: E+W*
 
@@ -87,7 +87,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) Different days may be specified under subsection (4) or (5) for different purposes.
 
-## 4. Status of the code[^key-6fb93f7ea3615e53c87abb8ce7f3adef]
+## 4. Status of the code[^c-6fb93f7ea3615e53c87abb8ce7f3adef]
 
 *Extent: E+W*
 
@@ -97,16 +97,16 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) A court may in particular take into account a failure by a person to act in accordance with the code in determining a question in any such proceedings.
 
-## 5. Investigations by the Regulator[^key-d6a86f6bd014f13845649f2c58bad490]
+## 5. Investigations by the Regulator[^c-d6a86f6bd014f13845649f2c58bad490]
 
 *Extent: E+W*
 
-(1)[^key-5ea22afea7d2fbadf24ad92c040b1d47] This section applies if the Regulator has reason to believe that a person may be carrying on a forensic science activity to which the code applies in a way that creates a substantial risk of—
+(1)[^c-5ea22afea7d2fbadf24ad92c040b1d47] This section applies if the Regulator has reason to believe that a person may be carrying on a forensic science activity to which the code applies in a way that creates a substantial risk of—
 
 - (a) adversely affecting any investigation, or
 - (b) impeding or prejudicing the course of justice in any proceedings.
 
-(2)[^key-5ea22afea7d2fbadf24ad92c040b1d47] The Regulator may investigate the carrying on by that person of any forensic science activity to which the code applies.
+(2)[^c-5ea22afea7d2fbadf24ad92c040b1d47] The Regulator may investigate the carrying on by that person of any forensic science activity to which the code applies.
 
 (3) For the purposes of any such investigation, the Regulator may require the person mentioned in subsection (1) to provide to the Regulator—
 
@@ -139,7 +139,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (11) In this Act “**proceedings**” means proceedings before a judicial authority exercising its jurisdiction or functions in England and Wales, within the meaning of section 4 of the Rehabilitation of Offenders Act 1974.
 
-## 6. Compliance notices[^key-63ec1c21de7d9b1bb8d9266ad622f9d6]
+## 6. Compliance notices[^c-63ec1c21de7d9b1bb8d9266ad622f9d6]
 
 *Extent: E+W*
 
@@ -166,7 +166,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (8) The Regulator may at any time vary or cancel a compliance notice after it has been served by giving notice in writing to the person on whom it was served.
 
-## 7. Completion certificates[^key-9902f2c97587f7730c7251310915cce5]
+## 7. Completion certificates[^c-9902f2c97587f7730c7251310915cce5]
 
 *Extent: E+W*
 
@@ -183,7 +183,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (5) A compliance notice ceases to have effect to the extent specified in a completion certificate relating to that notice on the date the certificate is issued.
 
-## 8. Appeals[^key-8499da49f95f51650f3c4011958f2f03]
+## 8. Appeals[^c-8499da49f95f51650f3c4011958f2f03]
 
 *Extent: E+W*
 
@@ -233,7 +233,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (11) Where an appeal is or may be made to the Upper Tribunal in relation to a decision of the First-tier Tribunal under this section, the Upper Tribunal may suspend any requirement or prohibition specified in the compliance notice until the appeal is determined, withdrawn or abandoned.
 
-## 9. Other functions of the Regulator[^key-b68a757d85fd713381103cde3f96329f]
+## 9. Other functions of the Regulator[^c-b68a757d85fd713381103cde3f96329f]
 
 *Extent: E+W*
 
@@ -258,7 +258,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (7) The Regulator may do anything (except borrow money) the Regulator thinks necessary or appropriate for the purposes of, or in connection with, the Regulator's functions.
 
-## 10. Disclosure by the Regulator[^key-38d8c6ef06b746f90ca8b7636845f16c]
+## 10. Disclosure by the Regulator[^c-38d8c6ef06b746f90ca8b7636845f16c]
 
 *Extent: E+W*
 
@@ -305,7 +305,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) Nothing in this Act affects the exercise by any person other than the Regulator of functions in relation to the regulation of forensic science activities.
 
-## 12. Crown application[^key-3d48aaef652bbb9e63ddb8f6b11cacaf]
+## 12. Crown application[^c-3d48aaef652bbb9e63ddb8f6b11cacaf]
 
 *Extent: E+W*
 
@@ -359,13 +359,13 @@ Section 1
 
 ### Status
 
-**1.**[^key-162c196233b86fcd29d8130a0ef4a077] The Regulator carries out functions on behalf of the Crown.
+**1.**[^c-162c196233b86fcd29d8130a0ef4a077] The Regulator carries out functions on behalf of the Crown.
 
-**2.**[^key-51bc21bd51276bc52590db4ad982b681] Service as the Regulator is not service in the civil service of the state.
+**2.**[^c-51bc21bd51276bc52590db4ad982b681] Service as the Regulator is not service in the civil service of the state.
 
 ### Appointment and terms of office
 
-**3.**[^key-24445bb807e383df01e31a51b3fab034] (1) The Regulator is to be appointed by the Secretary of State.
+**3.**[^c-24445bb807e383df01e31a51b3fab034] (1) The Regulator is to be appointed by the Secretary of State.
 
 (2) The Regulator must be a person who appears to the Secretary of State to have expertise in forensic science.
 
@@ -380,7 +380,7 @@ Section 1
 
 ### Remuneration etc
 
-**4.**[^key-3b5fa6d0bbdbbb6db8de59390eaa7efd] (1) The Secretary of State may pay to or in respect of the Regulator such remuneration as the Secretary of State may determine.
+**4.**[^c-3b5fa6d0bbdbbb6db8de59390eaa7efd] (1) The Secretary of State may pay to or in respect of the Regulator such remuneration as the Secretary of State may determine.
 
 (2) The Secretary of State may—
 
@@ -393,79 +393,79 @@ Section 1
 
 ### Expenses
 
-**5.**[^key-1d3bbea0ea54ae287cfc5d8998a84b63] The Secretary of State may pay to the Regulator or another person amounts in respect of expenses incurred by the Regulator in the exercise of the Regulator's functions.
+**5.**[^c-1d3bbea0ea54ae287cfc5d8998a84b63] The Secretary of State may pay to the Regulator or another person amounts in respect of expenses incurred by the Regulator in the exercise of the Regulator's functions.
 
 ### Staff etc
 
-**6.**[^key-c1769377cfe20bd8eb8abe006b267aff] The Secretary of State may, after consultation with the Regulator, provide the Regulator with—
+**6.**[^c-c1769377cfe20bd8eb8abe006b267aff] The Secretary of State may, after consultation with the Regulator, provide the Regulator with—
 
 - (a) such staff, and
 - (b) such accommodation, equipment and other facilities,
 
 as the Secretary of State considers necessary for the carrying out of the Regulator's functions.
 
-**7.**[^key-b6a4a7ed5ae08dc376f5e6da0f9563b0] A person employed in the civil service of the State continues to be employed in the civil service of the State during any period of service as a member of the staff mentioned in paragraph 6(a).
+**7.**[^c-b6a4a7ed5ae08dc376f5e6da0f9563b0] A person employed in the civil service of the State continues to be employed in the civil service of the State during any period of service as a member of the staff mentioned in paragraph 6(a).
 
 ### Investigation by the Parliamentary Commissioner
 
-**8.**[^key-d39b874b3c7d58b64def5911c672ba2c] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation), at the appropriate place insert— “ The Forensic Science Regulator. ”
+**8.**[^c-d39b874b3c7d58b64def5911c672ba2c] In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation), at the appropriate place insert— “ The Forensic Science Regulator. ”
 
 ### House of Commons disqualification
 
-**9.**[^key-efb9b6d3ffe7f1216a3ddefcd7eca30c] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices), at the appropriate place insert— “ The Forensic Science Regulator. ”
+**9.**[^c-efb9b6d3ffe7f1216a3ddefcd7eca30c] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices), at the appropriate place insert— “ The Forensic Science Regulator. ”
 
 ### Freedom of information
 
-**10.**[^key-48198fb3d0a99418df0d6750de26c650] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which that Act applies), at the appropriate place insert— “ The Forensic Science Regulator. ”
+**10.**[^c-48198fb3d0a99418df0d6750de26c650] In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (public authorities to which that Act applies), at the appropriate place insert— “ The Forensic Science Regulator. ”
 
 ### Public sector equality duty
 
-**11.**[^key-323219bd8de730e50d1581fb5ba91e6a] In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), in the group of entries under the heading “Criminal justice”, at the appropriate place insert— “ The Forensic Science Regulator. ”
+**11.**[^c-323219bd8de730e50d1581fb5ba91e6a] In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), in the group of entries under the heading “Criminal justice”, at the appropriate place insert— “ The Forensic Science Regulator. ”
 
 ## Annotations
 
-[^key-167fddf364506e30044bc0776249b283]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/14/section/1) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
+[^c-167fddf364506e30044bc0776249b283]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/14/section/1) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
 
-[^key-9989f9e9edbcae334b1f8efc2f0a5baf]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/14/section/2) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/b)
+[^c-9989f9e9edbcae334b1f8efc2f0a5baf]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/14/section/2) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/b)
 
-[^key-161d91cccc98e4ba65ef9804dc94d6cb]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/14/section/3) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/b)
+[^c-161d91cccc98e4ba65ef9804dc94d6cb]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/14/section/3) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/b)
 
-[^key-6fb93f7ea3615e53c87abb8ce7f3adef]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/14/section/4) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/b)
+[^c-6fb93f7ea3615e53c87abb8ce7f3adef]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/14/section/4) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/b)
 
-[^key-d6a86f6bd014f13845649f2c58bad490]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/14/section/5) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/c)
+[^c-d6a86f6bd014f13845649f2c58bad490]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/14/section/5) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/c)
 
-[^key-5ea22afea7d2fbadf24ad92c040b1d47]: Modification: [S. 5(1)(2)](https://www.legislation.gov.uk/ukpga/2021/14/section/5/1/2) modified (25.7.2022) by [The Forensic Science Regulator Act 2021 (Commencement No. 1 and Transitional Provision) Regulations 2022 (S.I. 2022/856)](https://www.legislation.gov.uk/uksi/2022/856), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/856/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2022/856/regulation/3)
+[^c-5ea22afea7d2fbadf24ad92c040b1d47]: Modification: [S. 5(1)(2)](https://www.legislation.gov.uk/ukpga/2021/14/section/5/1/2) modified (25.7.2022) by [The Forensic Science Regulator Act 2021 (Commencement No. 1 and Transitional Provision) Regulations 2022 (S.I. 2022/856)](https://www.legislation.gov.uk/uksi/2022/856), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/856/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2022/856/regulation/3)
 
-[^key-63ec1c21de7d9b1bb8d9266ad622f9d6]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/14/section/6) in force at 2.10.2023 by [S.I. 2023/1049](https://www.legislation.gov.uk/uksi/2023/1049), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1049/regulation/2/a)
+[^c-63ec1c21de7d9b1bb8d9266ad622f9d6]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/14/section/6) in force at 2.10.2023 by [S.I. 2023/1049](https://www.legislation.gov.uk/uksi/2023/1049), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1049/regulation/2/a)
 
-[^key-9902f2c97587f7730c7251310915cce5]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/14/section/7) in force at 2.10.2023 by [S.I. 2023/1049](https://www.legislation.gov.uk/uksi/2023/1049), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1049/regulation/2/b)
+[^c-9902f2c97587f7730c7251310915cce5]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/14/section/7) in force at 2.10.2023 by [S.I. 2023/1049](https://www.legislation.gov.uk/uksi/2023/1049), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1049/regulation/2/b)
 
-[^key-8499da49f95f51650f3c4011958f2f03]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/14/section/8) in force at 2.10.2023 by [S.I. 2023/1049](https://www.legislation.gov.uk/uksi/2023/1049), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1049/regulation/2/c)
+[^c-8499da49f95f51650f3c4011958f2f03]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/14/section/8) in force at 2.10.2023 by [S.I. 2023/1049](https://www.legislation.gov.uk/uksi/2023/1049), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1049/regulation/2/c)
 
-[^key-b68a757d85fd713381103cde3f96329f]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/14/section/9) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/d)
+[^c-b68a757d85fd713381103cde3f96329f]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/14/section/9) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/d)
 
-[^key-38d8c6ef06b746f90ca8b7636845f16c]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/14/section/10) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/d)
+[^c-38d8c6ef06b746f90ca8b7636845f16c]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2021/14/section/10) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/d)
 
-[^key-3d48aaef652bbb9e63ddb8f6b11cacaf]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/14/section/12) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/e)
+[^c-3d48aaef652bbb9e63ddb8f6b11cacaf]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/14/section/12) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/e)
 
-[^key-162c196233b86fcd29d8130a0ef4a077]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/1) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
+[^c-162c196233b86fcd29d8130a0ef4a077]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/1) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
 
-[^key-51bc21bd51276bc52590db4ad982b681]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/2) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
+[^c-51bc21bd51276bc52590db4ad982b681]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/2) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
 
-[^key-24445bb807e383df01e31a51b3fab034]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/3) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
+[^c-24445bb807e383df01e31a51b3fab034]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/3) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
 
-[^key-3b5fa6d0bbdbbb6db8de59390eaa7efd]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/4) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
+[^c-3b5fa6d0bbdbbb6db8de59390eaa7efd]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/4) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
 
-[^key-1d3bbea0ea54ae287cfc5d8998a84b63]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/5) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
+[^c-1d3bbea0ea54ae287cfc5d8998a84b63]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/5) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
 
-[^key-c1769377cfe20bd8eb8abe006b267aff]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/6) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
+[^c-c1769377cfe20bd8eb8abe006b267aff]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/6) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
 
-[^key-b6a4a7ed5ae08dc376f5e6da0f9563b0]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/7) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
+[^c-b6a4a7ed5ae08dc376f5e6da0f9563b0]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/7) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
 
-[^key-d39b874b3c7d58b64def5911c672ba2c]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/8) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
+[^c-d39b874b3c7d58b64def5911c672ba2c]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/8) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
 
-[^key-efb9b6d3ffe7f1216a3ddefcd7eca30c]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/9) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
+[^c-efb9b6d3ffe7f1216a3ddefcd7eca30c]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/9) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
 
-[^key-48198fb3d0a99418df0d6750de26c650]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/10) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
+[^c-48198fb3d0a99418df0d6750de26c650]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/10) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
 
-[^key-323219bd8de730e50d1581fb5ba91e6a]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/11) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)
+[^c-323219bd8de730e50d1581fb5ba91e6a]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2021/14/schedule/paragraph/11) in force at 25.7.2022 by [S.I. 2022/856](https://www.legislation.gov.uk/uksi/2022/856), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/856/regulation/2/a)

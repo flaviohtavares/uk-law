@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Exercise of power to make youth rehabilitation order: general considerations[^key-69ff24481fe86493a5a66bea95ba884b]
+## 179. Exercise of power to make youth rehabilitation order: general considerations[^c-69ff24481fe86493a5a66bea95ba884b]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ was serious enough to warrant the making of such an order.
 
 ## Annotations
 
-[^key-69ff24481fe86493a5a66bea95ba884b]: Commencement: S. 179 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-69ff24481fe86493a5a66bea95ba884b]: Commencement: S. 179 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Special procedure: revision of severity assessment[^key-0b917f9c462bb6fddb23cd5faf7da944]
+## 49. Special procedure: revision of severity assessment[^c-0b917f9c462bb6fddb23cd5faf7da944]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ considers the notification to the person concerned might prejudice the investiga
 
 ## Annotations
 
-[^key-0b917f9c462bb6fddb23cd5faf7da944]: Commencement: Reg. 49 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-0b917f9c462bb6fddb23cd5faf7da944]: Commencement: Reg. 49 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

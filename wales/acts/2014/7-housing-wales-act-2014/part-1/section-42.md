@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Directions[^key-1c79c7bc510f4e407fbe4726c18c4af7][^key-098d27269f8e73c41ee72e27262b5982]
+## 42. Directions[^c-1c79c7bc510f4e407fbe4726c18c4af7][^c-098d27269f8e73c41ee72e27262b5982]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c79c7bc510f4e407fbe4726c18c4af7]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2014/7/section/42) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-1c79c7bc510f4e407fbe4726c18c4af7]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2014/7/section/42) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-098d27269f8e73c41ee72e27262b5982]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2014/7/section/42) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-098d27269f8e73c41ee72e27262b5982]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2014/7/section/42) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

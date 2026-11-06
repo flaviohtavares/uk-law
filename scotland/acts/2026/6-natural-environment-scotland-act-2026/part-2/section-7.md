@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Definitions for the National Parks (Scotland) Act 2000[^key-c15c92c7464720b9610e88d04bcf1ace][^key-fdd979ea63d8dd750b2835adf558455f]
+## 7. Definitions for the National Parks (Scotland) Act 2000[^c-c15c92c7464720b9610e88d04bcf1ace][^c-fdd979ea63d8dd750b2835adf558455f]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c15c92c7464720b9610e88d04bcf1ace]: Commencement: S. 7 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-c15c92c7464720b9610e88d04bcf1ace]: Commencement: S. 7 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-fdd979ea63d8dd750b2835adf558455f]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2026/6/section/7) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/e)
+[^c-fdd979ea63d8dd750b2835adf558455f]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2026/6/section/7) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 275. Power of local authority to execute certain work on behalf of owners or occupiers.[^c611723][^c611724][^key-ed15908ec9b855caba49aa9afe851cd9][^key-f8c3201a88ea8f1f037e1f9f086b2a2a][^key-edded7807686094b7a9410583c781337][^c611722]
+## 275. Power of local authority to execute certain work on behalf of owners or occupiers.[^c611723][^c611724][^c-ed15908ec9b855caba49aa9afe851cd9][^c-f8c3201a88ea8f1f037e1f9f086b2a2a][^c-edded7807686094b7a9410583c781337][^c611722]
 
 *Extent: E+W*
 
@@ -30,11 +30,11 @@ A local authority may by agreement with the owner or occupier of any premises th
 
 [^c611724]: Modification: S. 275 applied (with modifications) (20.9.2000) by [2000 c. vii](https://www.legislation.gov.uk/ukla/2000/7), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2000/7/section/1/1), [19(9)(11)](https://www.legislation.gov.uk/ukla/2000/7/section/19/9/11)
 
-[^key-ed15908ec9b855caba49aa9afe851cd9]: Modification: S. 275 applied (with modifications) (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [9](https://www.legislation.gov.uk/ukla/2004/1/section/9), [Sch. 1](https://www.legislation.gov.uk/ukla/2004/1/schedule/1)
+[^c-ed15908ec9b855caba49aa9afe851cd9]: Modification: S. 275 applied (with modifications) (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [9](https://www.legislation.gov.uk/ukla/2004/1/section/9), [Sch. 1](https://www.legislation.gov.uk/ukla/2004/1/schedule/1)
 
-[^key-f8c3201a88ea8f1f037e1f9f086b2a2a]: Modification: S. 275 applied (with modifications) (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [Sch. 1](https://www.legislation.gov.uk/ukla/2007/2/schedule/1)
+[^c-f8c3201a88ea8f1f037e1f9f086b2a2a]: Modification: S. 275 applied (with modifications) (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [Sch. 1](https://www.legislation.gov.uk/ukla/2007/2/schedule/1)
 
-[^key-edded7807686094b7a9410583c781337]: Modification: S. 275 modified (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [11(4)](https://www.legislation.gov.uk/ukla/2008/3/section/11/4), [Sch. 1](https://www.legislation.gov.uk/ukla/2008/3/schedule/1)
+[^c-edded7807686094b7a9410583c781337]: Modification: S. 275 modified (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [11(4)](https://www.legislation.gov.uk/ukla/2008/3/section/11/4), [Sch. 1](https://www.legislation.gov.uk/ukla/2008/3/schedule/1)
 
 [^c611722]: Modification: S. 275 extended by [Mines and Quarries (Tips) Act 1969 (c. 10)](https://www.legislation.gov.uk/ukpga/1969/10), [s. 33](https://www.legislation.gov.uk/ukpga/1969/10/section/33)
 

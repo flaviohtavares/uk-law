@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 5 — Purpose limitation: processing to be treated as compatible with original purpose[^key-ba9c2569f49724b451af695b52129d1f][^key-ef92a9a1bac208bd4606e68644df8422]
+## Schedule 5 — Purpose limitation: processing to be treated as compatible with original purpose[^c-ba9c2569f49724b451af695b52129d1f][^c-ef92a9a1bac208bd4606e68644df8422]
 
 *Extent: E+W+S+N.I.*
 
 Section 71
 
-[^key-ef92a9a1bac208bd4606e68644df8422]
+[^c-ef92a9a1bac208bd4606e68644df8422]
 
 In the UK GDPR, after Annex 1 (inserted by Schedule 4 to this Act) insert—
 
@@ -103,6 +103,6 @@ In the UK GDPR, after Annex 1 (inserted by Schedule 4 to this Act) insert—
 
 ## Annotations
 
-[^key-ba9c2569f49724b451af695b52129d1f]: Commencement: Sch. 5 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-ba9c2569f49724b451af695b52129d1f]: Commencement: Sch. 5 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-ef92a9a1bac208bd4606e68644df8422]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2025/18/schedule/5) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z7)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z7)
+[^c-ef92a9a1bac208bd4606e68644df8422]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2025/18/schedule/5) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z7)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z7)

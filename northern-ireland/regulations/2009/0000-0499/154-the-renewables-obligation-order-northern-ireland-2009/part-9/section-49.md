@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Functions of the Authority[^key-3af7b13b1600e8a2dcf816e5862dd807]
+## 49. Functions of the Authority[^c-3af7b13b1600e8a2dcf816e5862dd807]
 
 *Extent: N.I.*
 
@@ -42,17 +42,17 @@ summary: ''
 - (g) publishing at its discretion reports of enquiries or investigations conducted by the Authority pursuant to sub-paragraph (f); and
 - (h) the provision of such information to the Great Britain authority as the Authority considers may be relevant to the exercise of the Great Britain authority’s functions under any GBRO Order.
 
-(1A)[^key-d2149473385e3f8268feaebf69a9503a] The Authority must, as soon as reasonably practicable after each obligation period, forward to the Department a summary of the sustainability information submitted to it during that period.
+(1A)[^c-d2149473385e3f8268feaebf69a9503a] The Authority must, as soon as reasonably practicable after each obligation period, forward to the Department a summary of the sustainability information submitted to it during that period.
 
 (2) In this Article “total NIROC claim” means the total number of NIROCs which have been claimed in respect of a particular obligation period, less—
 
 - (a) the number of NIROCs which have been issued in respect of that obligation period; and
-- (b) the number of NIROCs which the Authority has, in respect of that obligation period, decided not to issue or refused to issue under Article 37[^key-8e51b7de8eb12fb8c1e961932f55214c]....
+- (b) the number of NIROCs which the Authority has, in respect of that obligation period, decided not to issue or refused to issue under Article 37[^c-8e51b7de8eb12fb8c1e961932f55214c]....
 
 ## Annotations
 
-[^key-3af7b13b1600e8a2dcf816e5862dd807]: Commencement: Art. 49 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-3af7b13b1600e8a2dcf816e5862dd807]: Commencement: Art. 49 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
 
-[^key-d2149473385e3f8268feaebf69a9503a]: Textual amendment: [Art. 49(1A)](https://www.legislation.gov.uk/nisr/2009/154/article/49/1A) inserted (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [14](https://www.legislation.gov.uk/nisr/2011/169/article/14) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))
+[^c-d2149473385e3f8268feaebf69a9503a]: Textual amendment: [Art. 49(1A)](https://www.legislation.gov.uk/nisr/2009/154/article/49/1A) inserted (1.4.2011) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/169)](https://www.legislation.gov.uk/nisr/2011/169), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2011/169/article/1/1), [14](https://www.legislation.gov.uk/nisr/2011/169/article/14) (with [art. 18](https://www.legislation.gov.uk/nisr/2011/169/article/18))
 
-[^key-8e51b7de8eb12fb8c1e961932f55214c]: Textual amendment: Words in [art. 49(2)(b)](https://www.legislation.gov.uk/nisr/2009/154/article/49/2/b) omitted (1.6.2014) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/146)](https://www.legislation.gov.uk/nisr/2014/146), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2014/146/article/1/1), [6](https://www.legislation.gov.uk/nisr/2014/146/article/6) (with [art. 11](https://www.legislation.gov.uk/nisr/2014/146/article/11))
+[^c-8e51b7de8eb12fb8c1e961932f55214c]: Textual amendment: Words in [art. 49(2)(b)](https://www.legislation.gov.uk/nisr/2009/154/article/49/2/b) omitted (1.6.2014) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2014 (S.R. 2014/146)](https://www.legislation.gov.uk/nisr/2014/146), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2014/146/article/1/1), [6](https://www.legislation.gov.uk/nisr/2014/146/article/6) (with [art. 11](https://www.legislation.gov.uk/nisr/2014/146/article/11))

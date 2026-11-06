@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14A. General powers: flood risk management works[^key-01bb429eb0312cef21f75e123d8f1cb5]
+## 14A. General powers: flood risk management works[^c-01bb429eb0312cef21f75e123d8f1cb5]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 (8) Condition 4 is that the purpose of the work is to manage a flood risk in the authority's area from the sea and either—
 
 - (a) the work is within subsection (9)(a), (b) or (f), or
-- (b) the appropriate agency[^key-5cc95706cc0ff854ae2eba74788d8daf] has consented to the work.
+- (b) the appropriate agency[^c-5cc95706cc0ff854ae2eba74788d8daf] has consented to the work.
 
 (9) In this section “ **flood risk management work** ” means anything done—
 
@@ -75,6 +75,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01bb429eb0312cef21f75e123d8f1cb5]: Textual amendment: S. 14A inserted (19.7.2011 for E., 1.10.2011 for W.) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 2 para. 29(1)](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/29/1) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e); [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c)
+[^c-01bb429eb0312cef21f75e123d8f1cb5]: Textual amendment: S. 14A inserted (19.7.2011 for E., 1.10.2011 for W.) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 2 para. 29(1)](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/29/1) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(e)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/e); [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/c)
 
-[^key-5cc95706cc0ff854ae2eba74788d8daf]: Textual amendment: Words in [s. 14A(8)(b)](https://www.legislation.gov.uk/ukpga/1991/59/section/14A/8/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 319](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/319) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5cc95706cc0ff854ae2eba74788d8daf]: Textual amendment: Words in [s. 14A(8)(b)](https://www.legislation.gov.uk/ukpga/1991/59/section/14A/8/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 319](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/319) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

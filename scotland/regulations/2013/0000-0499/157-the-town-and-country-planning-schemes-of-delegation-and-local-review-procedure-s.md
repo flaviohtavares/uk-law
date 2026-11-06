@@ -61,9 +61,9 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 In these Regulations—
 
 - “**Act**” means the Town and Country Planning (Scotland) Act 1997;
-- “[^key-34f70ac9d5f1a9e55005f2fdcdf328aa]**application for multi-stage consent**” has the same meaning as in regulation 2(1) of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017[^key-75cb2c8ffa0e9dec1a8e491a0ec5c80e];
+- “[^c-34f70ac9d5f1a9e55005f2fdcdf328aa]**application for multi-stage consent**” has the same meaning as in regulation 2(1) of the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017[^c-75cb2c8ffa0e9dec1a8e491a0ec5c80e];
 - “**appointed officer**” means a person appointed by virtue of a scheme of delegation under section 43A(1) of the Act by the planning authority to determine the application;
-- “[^key-6729c42d7769fc2f1551b5906aed740a]**EIA development**” and “**EIA report**” have the same meaning as in the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017;
+- “[^c-6729c42d7769fc2f1551b5906aed740a]**EIA development**” and “**EIA report**” have the same meaning as in the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017;
 - “**environmental statement**” has the same meaning as in the Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011 as those Regulations had effect on 15th May 2017;
 - “**hearing session**” means a hearing held or to be held into matters specified in a procedure notice given under rule 1(1) of the Hearing Session Rules;
 - “**Hearing Session Rules**” means the rules set out in Schedule 1 to these Regulations;
@@ -78,10 +78,10 @@ In these Regulations—
 - “**Report on Handling**” means, in respect of an application, the report to be placed in the register of applications which the planning authority are required to keep in accordance with regulations made under section 36(1) of the Act [^c21802821];
 - “**rule**” means a rule set out in Schedule 1 to these Regulations; and
 - “specified matters” are in relation to a request for further written representations or information under regulation 15 or to a particular hearing session, those matters which are set out in the procedure notice; and
-- “[^key-c600bc42fbf176916940fa49fd168efa]**validation date**”—
+- “[^c-c600bc42fbf176916940fa49fd168efa]**validation date**”—
   - (a) in the case of an application for planning permission for EIA development or an application for multi-stage consent for EIA development, means the latest of—
     - (i) the date on which the application is taken to have been made in terms of regulation 14 of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013;
-    - (ii) the date on which an EIA report or environmental statement, as the case may be,[^key-8437916b3a52736764d0aa1ea03960d2] is submitted in respect of the application; or
+    - (ii) the date on which an EIA report or environmental statement, as the case may be,[^c-8437916b3a52736764d0aa1ea03960d2] is submitted in respect of the application; or
     - (iii) where the Cairngorms National Park Authority has issued a direction in exercise of its powers under article 7(3) of the Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003, the date on which that direction was issued; and
   - (b) in any other case, means the later of—
     - (i) the date on which the application is taken to have been made in terms of regulation 14 of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013; or
@@ -119,7 +119,7 @@ The planning authority must prepare a scheme of delegation at intervals of no gr
 
 (1) A review of a case by virtue of section 43A(8) of the Act is to be conducted by a committee of the planning authority comprising at least three members of the authority (to be known as the “**local review body**”).
 
-(2) Subject to regulation 7A,[^key-b55ff0ee2668f5c9ce917dfe1359cb22] meetings of the local review body at which decisions—
+(2) Subject to regulation 7A,[^c-b55ff0ee2668f5c9ce917dfe1359cb22] meetings of the local review body at which decisions—
 
 - (a) under regulation 13 relating to the manner in which the review is to be conducted; or
 - (b) as to how the case under review is to be determined,
@@ -135,14 +135,14 @@ are to be held in public.
 
 such notice of the date, time and place fixed for the holding of such meeting (and any subsequent variation thereof) as may appear to the local review body to be reasonable in the circumstances.
 
-### 7A. Temporary removal of requirement to hold meeting of local review body in public during Coronavirus emergency period[^key-76d0c08a2cd56df4a6fbefa3a1fc0b62]
+### 7A. Temporary removal of requirement to hold meeting of local review body in public during Coronavirus emergency period[^c-76d0c08a2cd56df4a6fbefa3a1fc0b62]
 
 (1) Regulation 7 applies during the emergency period as if—
 
 - (a) paragraph (2) were omitted, and
 - (b) in paragraphs (3) and (4) for “, time and place” there were substituted “and time”.
 
-(2) For the purposes of this regulation, “emergency period” is the period beginning on 24 April 2020 and ending at the end of 30 September 2021[^key-fd8038f62623fa073d9a2dc90aef5210].
+(2) For the purposes of this regulation, “emergency period” is the period beginning on 24 April 2020 and ending at the end of 30 September 2021[^c-fd8038f62623fa073d9a2dc90aef5210].
 
 ### 8. Review on failure to determine the application
 
@@ -150,8 +150,8 @@ such notice of the date, time and place fixed for the holding of such meeting (a
 
 (2) The period prescribed for the purposes of section 43A(8)(c) of the Act is—
 
-- (a) in the case of an application for planning permission for EIA development, the period of four months after the validation date; [^key-13cc7e8b3572c57f594dad44b33178fa]...
-- (aa)[^key-da5f442ca5ce05a3322b6d6c474487d5] in the case of an application for multi-stage consent for EIA development, the period of four months after the validation date; and
+- (a) in the case of an application for planning permission for EIA development, the period of four months after the validation date; [^c-13cc7e8b3572c57f594dad44b33178fa]...
+- (aa)[^c-da5f442ca5ce05a3322b6d6c474487d5] in the case of an application for multi-stage consent for EIA development, the period of four months after the validation date; and
 - (b) in any other case, the period of two months after the validation date.
 
 (3) The period prescribed for the purposes of section 43A(17) of the Act is the period of three months beginning on the date when the requirement to review is made by virtue of section 43A(8)(c) of the Act.
@@ -530,27 +530,27 @@ Where a local review body determine that a hearing session should be held to con
 
 [^c21802801]: Marginal citation: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). Sections 43A and 275A were respectively inserted into the Town and Country Planning (Scotland) Act 1997 (“**the Act**”) by sections 17 and 52 of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17) (the “**2006 Act**”). Section 275 of the Act was amended by section 53(16) of the 2006 Act. The functions of the Secretary of State under the Act transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-34f70ac9d5f1a9e55005f2fdcdf328aa]: Textual amendment: Words in reg. 2 inserted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/ssi/2015/249/regulation/8/2/a)
+[^c-34f70ac9d5f1a9e55005f2fdcdf328aa]: Textual amendment: Words in reg. 2 inserted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/ssi/2015/249/regulation/8/2/a)
 
-[^key-75cb2c8ffa0e9dec1a8e491a0ec5c80e]: Textual amendment: Word in reg. 2 substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [59(2)(a)](https://www.legislation.gov.uk/ssi/2017/102/regulation/59/2/a) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-75cb2c8ffa0e9dec1a8e491a0ec5c80e]: Textual amendment: Word in reg. 2 substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [59(2)(a)](https://www.legislation.gov.uk/ssi/2017/102/regulation/59/2/a) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
-[^key-6729c42d7769fc2f1551b5906aed740a]: Textual amendment: Words in reg. 2 substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [59(2)(b)](https://www.legislation.gov.uk/ssi/2017/102/regulation/59/2/b) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-6729c42d7769fc2f1551b5906aed740a]: Textual amendment: Words in reg. 2 substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [59(2)(b)](https://www.legislation.gov.uk/ssi/2017/102/regulation/59/2/b) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
 [^c21802821]: Marginal citation: The requirement to include a Report in the register is contained in Schedule 2 to the [Town and Country Planning (Development Management Procedure) (Scotland) Regulation 2013 (S.S.I. 2013/155)](https://www.legislation.gov.uk/ssi/2013/155).
 
-[^key-c600bc42fbf176916940fa49fd168efa]: Textual amendment: Words in reg. 2 substituted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [8(2)(c)](https://www.legislation.gov.uk/ssi/2015/249/regulation/8/2/c) (with [reg. 8(5)](https://www.legislation.gov.uk/ssi/2015/249/regulation/8/5))
+[^c-c600bc42fbf176916940fa49fd168efa]: Textual amendment: Words in reg. 2 substituted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [8(2)(c)](https://www.legislation.gov.uk/ssi/2015/249/regulation/8/2/c) (with [reg. 8(5)](https://www.legislation.gov.uk/ssi/2015/249/regulation/8/5))
 
-[^key-8437916b3a52736764d0aa1ea03960d2]: Textual amendment: Words in reg. 2 substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [59(2)(c)](https://www.legislation.gov.uk/ssi/2017/102/regulation/59/2/c) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-8437916b3a52736764d0aa1ea03960d2]: Textual amendment: Words in reg. 2 substituted (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [59(2)(c)](https://www.legislation.gov.uk/ssi/2017/102/regulation/59/2/c) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
-[^key-b55ff0ee2668f5c9ce917dfe1359cb22]: Textual amendment: Words in reg. 7(2) inserted (24.4.2020) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/124)](https://www.legislation.gov.uk/ssi/2020/124), [regs. 1](https://www.legislation.gov.uk/ssi/2020/124/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/124/regulation/3/2)
+[^c-b55ff0ee2668f5c9ce917dfe1359cb22]: Textual amendment: Words in reg. 7(2) inserted (24.4.2020) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/124)](https://www.legislation.gov.uk/ssi/2020/124), [regs. 1](https://www.legislation.gov.uk/ssi/2020/124/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/124/regulation/3/2)
 
-[^key-76d0c08a2cd56df4a6fbefa3a1fc0b62]: Textual amendment: Reg. 7A inserted (24.4.2020) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/124)](https://www.legislation.gov.uk/ssi/2020/124), [regs. 1](https://www.legislation.gov.uk/ssi/2020/124/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2020/124/regulation/3/3)
+[^c-76d0c08a2cd56df4a6fbefa3a1fc0b62]: Textual amendment: Reg. 7A inserted (24.4.2020) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2020 (S.S.I. 2020/124)](https://www.legislation.gov.uk/ssi/2020/124), [regs. 1](https://www.legislation.gov.uk/ssi/2020/124/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2020/124/regulation/3/3)
 
-[^key-fd8038f62623fa073d9a2dc90aef5210]: Textual amendment: Words in [reg. 7A(2)](https://www.legislation.gov.uk/ssi/2013/157/regulation/7A/2) substituted (29.9.2021) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2021 (S.S.I. 2021/292)](https://www.legislation.gov.uk/ssi/2021/292), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/292/regulation/1/1), [9(2)](https://www.legislation.gov.uk/ssi/2021/292/regulation/9/2)
+[^c-fd8038f62623fa073d9a2dc90aef5210]: Textual amendment: Words in [reg. 7A(2)](https://www.legislation.gov.uk/ssi/2013/157/regulation/7A/2) substituted (29.9.2021) by [The Town and Country Planning (Miscellaneous Temporary Modifications) (Coronavirus) (Scotland) Regulations 2021 (S.S.I. 2021/292)](https://www.legislation.gov.uk/ssi/2021/292), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/292/regulation/1/1), [9(2)](https://www.legislation.gov.uk/ssi/2021/292/regulation/9/2)
 
-[^key-13cc7e8b3572c57f594dad44b33178fa]: Textual amendment: Word in reg. 8(2) omitted (14.9.2015) by virtue of [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/ssi/2015/249/regulation/8/3/a) (with [reg. 8(4)](https://www.legislation.gov.uk/ssi/2015/249/regulation/8/4))
+[^c-13cc7e8b3572c57f594dad44b33178fa]: Textual amendment: Word in reg. 8(2) omitted (14.9.2015) by virtue of [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [8(3)(a)](https://www.legislation.gov.uk/ssi/2015/249/regulation/8/3/a) (with [reg. 8(4)](https://www.legislation.gov.uk/ssi/2015/249/regulation/8/4))
 
-[^key-da5f442ca5ce05a3322b6d6c474487d5]: Textual amendment: Reg. 8(2)(aa) inserted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/ssi/2015/249/regulation/8/3/b) (with [reg. 8(4)](https://www.legislation.gov.uk/ssi/2015/249/regulation/8/4))
+[^c-da5f442ca5ce05a3322b6d6c474487d5]: Textual amendment: Reg. 8(2)(aa) inserted (14.9.2015) by [The Town and Country Planning (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/249)](https://www.legislation.gov.uk/ssi/2015/249), [regs. 1](https://www.legislation.gov.uk/ssi/2015/249/regulation/1), [8(3)(b)](https://www.legislation.gov.uk/ssi/2015/249/regulation/8/3/b) (with [reg. 8(4)](https://www.legislation.gov.uk/ssi/2015/249/regulation/8/4))
 
 [^c21802851]: Marginal citation: [S.S.I. 2013/155](https://www.legislation.gov.uk/ssi/2013/155).
 

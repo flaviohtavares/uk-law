@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Temporary use of land for carrying out the authorised project[^key-f5bf0226343fdd80d5db956f25cb54c5]
+## 26. Temporary use of land for carrying out the authorised project[^c-f5bf0226343fdd80d5db956f25cb54c5]
 
 *Extent: E+W+S*
 
@@ -27,8 +27,8 @@ summary: ''
   - (ii) any other Order land in respect of which no notice of entry has been served under section 11 (powers of entry) of the 1965 Act (other than in connection with the acquisition of rights only) and no declaration has been made under section 4 (execution of declaration) of the 1981 Act;
 - (b) remove any buildings, agricultural plant and apparatus, drainage, fences, debris and vegetation from that land;
 - (c) construct temporary works (including the provision of means of access), haul roads, security fencing, bridges, structures and buildings on that land;
-- (d) use the land for the purposes of a working site with access to the working site in connection with the authorised project; and[^key-2fb353eaa724125d41574fc9fa89f9a3]
-- (e) construct any works, or use the land, as specified in relation to that land in column 3 of Schedule 9 (land of which temporary possession may be taken), or any mitigation works of operations.[^key-1071c36f782a1f22d5b7f3d56405cef3]
+- (d) use the land for the purposes of a working site with access to the working site in connection with the authorised project; and[^c-2fb353eaa724125d41574fc9fa89f9a3]
+- (e) construct any works, or use the land, as specified in relation to that land in column 3 of Schedule 9 (land of which temporary possession may be taken), or any mitigation works of operations.[^c-1071c36f782a1f22d5b7f3d56405cef3]
 
 (2) Not less than 28 days before entering on and taking temporary possession of or using land under this article the undertaker must serve notice of the intended entry on the owners and occupiers of the land.
 
@@ -61,10 +61,10 @@ unless the undertaker has, before the end of that period, served a notice of ent
 
 ## Annotations
 
-[^key-f5bf0226343fdd80d5db956f25cb54c5]: Commencement: Art. 26 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-f5bf0226343fdd80d5db956f25cb54c5]: Commencement: Art. 26 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
 
-[^key-2fb353eaa724125d41574fc9fa89f9a3]: Textual amendment: Word in [art. 26(1)(d)](https://www.legislation.gov.uk/uksi/2022/433/article/26/1/d) inserted (22.12.2022) by [The East Anglia TWO Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1399)](https://www.legislation.gov.uk/uksi/2022/1399), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1399/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1399/schedule)
+[^c-2fb353eaa724125d41574fc9fa89f9a3]: Textual amendment: Word in [art. 26(1)(d)](https://www.legislation.gov.uk/uksi/2022/433/article/26/1/d) inserted (22.12.2022) by [The East Anglia TWO Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1399)](https://www.legislation.gov.uk/uksi/2022/1399), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1399/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1399/schedule)
 
-[^key-1071c36f782a1f22d5b7f3d56405cef3]: Textual amendment: Words in [art. 26(1)(e)](https://www.legislation.gov.uk/uksi/2022/433/article/26/1/e) substituted (22.12.2022) by [The East Anglia TWO Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1399)](https://www.legislation.gov.uk/uksi/2022/1399), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1399/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1399/schedule)
+[^c-1071c36f782a1f22d5b7f3d56405cef3]: Textual amendment: Words in [art. 26(1)(e)](https://www.legislation.gov.uk/uksi/2022/433/article/26/1/e) substituted (22.12.2022) by [The East Anglia TWO Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1399)](https://www.legislation.gov.uk/uksi/2022/1399), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1399/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1399/schedule)
 
 [^f00035]: Footnote: Section 13 was amended by Tribunals Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).

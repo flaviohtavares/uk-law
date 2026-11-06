@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.250. Notification to the court[^key-f1680a6cfbb1fcae58930e797b64ba80]
+## 6.250. Notification to the court[^c-f1680a6cfbb1fcae58930e797b64ba80]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ As soon as reasonably practicable after a bankruptcy restrictions undertaking ha
 
 ## Annotations
 
-[^key-f1680a6cfbb1fcae58930e797b64ba80]: Textual amendment: [Pt. 6 Chs. 28-30](https://www.legislation.gov.uk/uksi/1986/1925/part/6/chapter/28) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/52)
+[^c-f1680a6cfbb1fcae58930e797b64ba80]: Textual amendment: [Pt. 6 Chs. 28-30](https://www.legislation.gov.uk/uksi/1986/1925/part/6/chapter/28) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/52)

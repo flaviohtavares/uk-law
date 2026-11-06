@@ -32,7 +32,7 @@ summary: ''
 
 Insolvency
 
-The Insolvency (Amendment) Rules 2012 (revoked)[^key-c67978bccc25a0e9c74bf904bb74c704]
+The Insolvency (Amendment) Rules 2012 (revoked)[^c-c67978bccc25a0e9c74bf904bb74c704]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 19th March 2012
 
-[^key-c67978bccc25a0e9c74bf904bb74c704]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c67978bccc25a0e9c74bf904bb74c704]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c67978bccc25a0e9c74bf904bb74c704]
+## 1. Citation and commencement[^c-c67978bccc25a0e9c74bf904bb74c704]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Transitional Provisions[^key-c67978bccc25a0e9c74bf904bb74c704]
+## 2. Transitional Provisions[^c-c67978bccc25a0e9c74bf904bb74c704]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Insolvency Rules 1986[^key-c67978bccc25a0e9c74bf904bb74c704]
+## 3. Amendments to the Insolvency Rules 1986[^c-c67978bccc25a0e9c74bf904bb74c704]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c67978bccc25a0e9c74bf904bb74c704]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c67978bccc25a0e9c74bf904bb74c704]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c67978bccc25a0e9c74bf904bb74c704]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c67978bccc25a0e9c74bf904bb74c704]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c67978bccc25a0e9c74bf904bb74c704]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2012/469) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))
+[^c-c67978bccc25a0e9c74bf904bb74c704]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2012/469) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))

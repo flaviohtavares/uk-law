@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Powers of local authority in relation to the provision of childcare[^key-521eaad3d951f3d9248f99fa5fefef7d]
+## 23. Powers of local authority in relation to the provision of childcare[^c-521eaad3d951f3d9248f99fa5fefef7d]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-521eaad3d951f3d9248f99fa5fefef7d]: Commencement: S. 23 in force at 31.1.2008 by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17), [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/17/article/2/a)
+[^c-521eaad3d951f3d9248f99fa5fefef7d]: Commencement: S. 23 in force at 31.1.2008 by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17), [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/17/article/2/a)

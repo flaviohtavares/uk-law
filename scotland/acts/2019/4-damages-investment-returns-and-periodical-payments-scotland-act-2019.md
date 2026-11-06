@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## PART 1 — Returns on investment of damages
 
-### 1. Assumed return on investment[^key-df1041564c664de76ae13f4741873d21]
+### 1. Assumed return on investment[^c-df1041564c664de76ae13f4741873d21]
 
 (1) Before section 1 of the Damages Act 1996 there is inserted—
 
@@ -69,7 +69,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) Section 1 of the Damages Act 1996 is repealed.
 
-### 2. Process for setting rate of return[^key-1a1f1f62ed43f82b603379b9b98ef305]
+### 2. Process for setting rate of return[^c-1a1f1f62ed43f82b603379b9b98ef305]
 
 (1) The schedule contains Schedule B1 for insertion into the Damages Act 1996.
 
@@ -470,11 +470,11 @@ After section 4 of the Damages Act 1996 there is inserted—
 
 The short title of this Act is the Damages (Investment Returns and Periodical Payments) (Scotland) Act 2019.
 
-## SCHEDULE — Investments: setting rate of return[^key-a438c55e2c757270131a50bcc34f96a8]
+## SCHEDULE — Investments: setting rate of return[^c-a438c55e2c757270131a50bcc34f96a8]
 
 (introduced by section 2(1))
 
-[^key-a438c55e2c757270131a50bcc34f96a8]
+[^c-a438c55e2c757270131a50bcc34f96a8]
 
 This is Schedule B1 for insertion into the Damages Act 1996—
 
@@ -778,8 +778,8 @@ This is Schedule B1 for insertion into the Damages Act 1996—
 
 ## Annotations
 
-[^key-df1041564c664de76ae13f4741873d21]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/4/section/1) in force at 1.7.2019 by [S.S.I. 2019/197](https://www.legislation.gov.uk/ssi/2019/197), [reg. 2](https://www.legislation.gov.uk/ssi/2019/197/regulation/2)
+[^c-df1041564c664de76ae13f4741873d21]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/4/section/1) in force at 1.7.2019 by [S.S.I. 2019/197](https://www.legislation.gov.uk/ssi/2019/197), [reg. 2](https://www.legislation.gov.uk/ssi/2019/197/regulation/2)
 
-[^key-1a1f1f62ed43f82b603379b9b98ef305]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/4/section/2) in force at 1.7.2019 by [S.S.I. 2019/197](https://www.legislation.gov.uk/ssi/2019/197), [reg. 2](https://www.legislation.gov.uk/ssi/2019/197/regulation/2)
+[^c-1a1f1f62ed43f82b603379b9b98ef305]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/4/section/2) in force at 1.7.2019 by [S.S.I. 2019/197](https://www.legislation.gov.uk/ssi/2019/197), [reg. 2](https://www.legislation.gov.uk/ssi/2019/197/regulation/2)
 
-[^key-a438c55e2c757270131a50bcc34f96a8]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2019/4/schedule) in force at 1.7.2019 by [S.S.I. 2019/197](https://www.legislation.gov.uk/ssi/2019/197), [reg. 2](https://www.legislation.gov.uk/ssi/2019/197/regulation/2)
+[^c-a438c55e2c757270131a50bcc34f96a8]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2019/4/schedule) in force at 1.7.2019 by [S.S.I. 2019/197](https://www.legislation.gov.uk/ssi/2019/197), [reg. 2](https://www.legislation.gov.uk/ssi/2019/197/regulation/2)

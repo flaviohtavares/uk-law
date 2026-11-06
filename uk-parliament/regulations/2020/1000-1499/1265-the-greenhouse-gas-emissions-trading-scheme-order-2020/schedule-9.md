@@ -22,17 +22,17 @@ summary: ''
 
 Article 74(1)
 
-**1.**[^key-0ef71d5f81f6c0f2a92f5a8728e0e1f6] (1) A person who wishes to appeal to the Scottish Land Court under article 70 against a decision of the regulator or the registry administrator (in either case, the “respondent”)[^key-0ddeae60a4d6847363b609ca1ca09328] must—
+**1.**[^c-0ef71d5f81f6c0f2a92f5a8728e0e1f6] (1) A person who wishes to appeal to the Scottish Land Court under article 70 against a decision of the regulator or the registry administrator (in either case, the “respondent”)[^c-0ddeae60a4d6847363b609ca1ca09328] must—
 
 - (a) send the appropriate form to the Scottish Land Court together with the documents referred to in sub-paragraph (2);
-- (b) at the same time, send a copy of that form to the respondent[^key-702a4e59b4e5652aa438338b2ae9005c] together with copies of the documents referred to in sub-paragraph (2)(a) and (f).
+- (b) at the same time, send a copy of that form to the respondent[^c-702a4e59b4e5652aa438338b2ae9005c] together with copies of the documents referred to in sub-paragraph (2)(a) and (f).
 
 (2) The documents are—
 
 - (a) a statement of the grounds of appeal;
 - (b) a copy of any relevant application;
 - (c) a copy of any relevant plan;
-- (d) a copy of any relevant correspondence between the appellant and the respondent[^key-2bc1366abe1ac143facfade32396b0f9];
+- (d) a copy of any relevant correspondence between the appellant and the respondent[^c-2bc1366abe1ac143facfade32396b0f9];
 - (e) a copy of any notice (or particulars of any deemed refusal) which is the subject matter of the appeal;
 - (f) a statement indicating whether the appellant wishes the appeal to be—
   - (i) in the form of a hearing; or
@@ -50,18 +50,18 @@ Article 74(1)
 - “**appropriate form**” has the meaning given in rule 3 of the Rules of the Scottish Land Court Order 2014 [^c24438581];
 - “**decision**” includes a deemed refusal under this Order.
 
-**2.**[^key-c53b51217207a06cc43ce7970f3f75fd] (1) Subject to sub-paragraph (2), the appropriate form must be sent to the Scottish Land Court before the expiry of the period of 28 days beginning with the date of the decision.
+**2.**[^c-c53b51217207a06cc43ce7970f3f75fd] (1) Subject to sub-paragraph (2), the appropriate form must be sent to the Scottish Land Court before the expiry of the period of 28 days beginning with the date of the decision.
 
 (2) The Scottish Land Court may accept the appropriate form after the expiry of that period where satisfied that there was a good reason for the failure to bring the appeal in time.
 
-**3.**[^key-cf9d1cbd560a08ab7443d37c7836d158] (1) The Scottish Land Court may determine an appeal, or any part of an appeal, on the basis of written representations and without a hearing where—
+**3.**[^c-cf9d1cbd560a08ab7443d37c7836d158] (1) The Scottish Land Court may determine an appeal, or any part of an appeal, on the basis of written representations and without a hearing where—
 
 - (a) the parties agree; or
 - (b) the Scottish Land Court considers it can determine the matter justly without a hearing.
 
 (2) The Scottish Land Court must not determine the appeal without a hearing without first giving the parties notice of its intention to do so, and an opportunity to make written representations as to whether there should be a hearing.
 
-**4.**[^key-d1c7e54f114c718ae53565ad6fa3e092] (1) The respondent[^key-3faadb0a341b565ba0f4ed90f9378900] must, within 16 days of receipt of the copy of the appropriate form, give notice of it to any person who appears to the respondent to have a particular interest in the appeal (“interested party”).
+**4.**[^c-d1c7e54f114c718ae53565ad6fa3e092] (1) The respondent[^c-3faadb0a341b565ba0f4ed90f9378900] must, within 16 days of receipt of the copy of the appropriate form, give notice of it to any person who appears to the respondent to have a particular interest in the appeal (“interested party”).
 
 (2) A notice under sub-paragraph (1) must—
 
@@ -90,20 +90,20 @@ Article 74(1)
 
 ## Annotations
 
-[^key-0ef71d5f81f6c0f2a92f5a8728e0e1f6]: Commencement: Sch. 9 para. 1 in force at 12.11.2020, see art. 2(1)
+[^c-0ef71d5f81f6c0f2a92f5a8728e0e1f6]: Commencement: Sch. 9 para. 1 in force at 12.11.2020, see art. 2(1)
 
-[^key-0ddeae60a4d6847363b609ca1ca09328]: Textual amendment: Words in Sch. 9 para. 1(1) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [41(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1557/article/41/2/a/i)
+[^c-0ddeae60a4d6847363b609ca1ca09328]: Textual amendment: Words in Sch. 9 para. 1(1) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [41(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1557/article/41/2/a/i)
 
-[^key-702a4e59b4e5652aa438338b2ae9005c]: Textual amendment: Word in Sch. 9 para. 1(1)(b) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [41(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1557/article/41/2/a/ii)
+[^c-702a4e59b4e5652aa438338b2ae9005c]: Textual amendment: Word in Sch. 9 para. 1(1)(b) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [41(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1557/article/41/2/a/ii)
 
-[^key-2bc1366abe1ac143facfade32396b0f9]: Textual amendment: Word in Sch. 9 para. 1(2)(d) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [41(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/41/2/b)
+[^c-2bc1366abe1ac143facfade32396b0f9]: Textual amendment: Word in Sch. 9 para. 1(2)(d) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [41(2)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/41/2/b)
 
 [^c24438581]: Marginal citation: [S.S.I. 2014/229](https://www.legislation.gov.uk/ssi/2014/229).
 
-[^key-c53b51217207a06cc43ce7970f3f75fd]: Commencement: Sch. 9 para. 2 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-c53b51217207a06cc43ce7970f3f75fd]: Commencement: Sch. 9 para. 2 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-cf9d1cbd560a08ab7443d37c7836d158]: Commencement: Sch. 9 para. 3 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-cf9d1cbd560a08ab7443d37c7836d158]: Commencement: Sch. 9 para. 3 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-d1c7e54f114c718ae53565ad6fa3e092]: Commencement: Sch. 9 para. 4 in force at 12.11.2020, see art. 2(1)
+[^c-d1c7e54f114c718ae53565ad6fa3e092]: Commencement: Sch. 9 para. 4 in force at 12.11.2020, see art. 2(1)
 
-[^key-3faadb0a341b565ba0f4ed90f9378900]: Textual amendment: Word in [Sch. 9 para. 4](https://www.legislation.gov.uk/uksi/2020/1265/schedule/9/paragraph/4) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [41(3)](https://www.legislation.gov.uk/uksi/2020/1557/article/41/3)
+[^c-3faadb0a341b565ba0f4ed90f9378900]: Textual amendment: Word in [Sch. 9 para. 4](https://www.legislation.gov.uk/uksi/2020/1265/schedule/9/paragraph/4) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [41(3)](https://www.legislation.gov.uk/uksi/2020/1557/article/41/3)

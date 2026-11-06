@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Restrictions on delegation and specified committees[^key-53f33e98982541d239375ccf73dfc9e3]
+## 63. Restrictions on delegation and specified committees[^c-53f33e98982541d239375ccf73dfc9e3]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ nor may it delegate its functions in respect of head teacher and deputy head tea
 
 ## Annotations
 
-[^key-53f33e98982541d239375ccf73dfc9e3]: Commencement: Reg. 63 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-53f33e98982541d239375ccf73dfc9e3]: Commencement: Reg. 63 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00027]: Footnote: Amended by section 40 of, and Schedule 5 to, the 2002 Act; and by section 57 of, and Schedule 5 to, the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
 

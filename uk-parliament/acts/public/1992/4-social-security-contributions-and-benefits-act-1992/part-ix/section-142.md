@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. “Child” and “qualifying young person”[^key-ac587a4d42bef5ee6557d1787d5a27f6]
+## 142. “Child” and “qualifying young person”[^c-ac587a4d42bef5ee6557d1787d5a27f6]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac587a4d42bef5ee6557d1787d5a27f6]: Textual amendment: S. 142 substituted (24.3.2005 for specified purposes, 10.4.2006 in so far as not already in force) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/1/2), [6](https://www.legislation.gov.uk/ukpga/2005/6/section/6)
+[^c-ac587a4d42bef5ee6557d1787d5a27f6]: Textual amendment: S. 142 substituted (24.3.2005 for specified purposes, 10.4.2006 in so far as not already in force) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/1/2), [6](https://www.legislation.gov.uk/ukpga/2005/6/section/6)

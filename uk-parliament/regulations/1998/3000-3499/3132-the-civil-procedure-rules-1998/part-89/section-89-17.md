@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89.17. Offences[^key-e1ad94f86f9129c74f4791752491e406]
+## 89.17. Offences[^c-e1ad94f86f9129c74f4791752491e406]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) The notice must be served on the alleged offender personally not less than 14 days before the hearing.
 
-(4)[^key-bd6747c2f587aac9a3b702571aa5b316] In paragraphs (5) to (8), reference to a fine is to a fine imposed as the result of an offence under section 23(2) of the 1971 Act.
+(4)[^c-bd6747c2f587aac9a3b702571aa5b316] In paragraphs (5) to (8), reference to a fine is to a fine imposed as the result of an offence under section 23(2) of the 1971 Act.
 
 (5) If a fine is not paid in accordance with the order imposing it, the court officer shall, as soon as reasonably possible, report the matter to a judge.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e1ad94f86f9129c74f4791752491e406]: Textual amendment: [Pt. 89](https://www.legislation.gov.uk/uksi/1998/3132/part/89) inserted (6.4.2016) by [The Civil Procedure (Amendment) Rules 2016 (S.I. 2016/234)](https://www.legislation.gov.uk/uksi/2016/234), [rules 2](https://www.legislation.gov.uk/uksi/2016/234/rule/2), [20](https://www.legislation.gov.uk/uksi/2016/234/rule/20), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/234/schedule/2) (with [rule 25](https://www.legislation.gov.uk/uksi/2016/234/rule/25))
+[^c-e1ad94f86f9129c74f4791752491e406]: Textual amendment: [Pt. 89](https://www.legislation.gov.uk/uksi/1998/3132/part/89) inserted (6.4.2016) by [The Civil Procedure (Amendment) Rules 2016 (S.I. 2016/234)](https://www.legislation.gov.uk/uksi/2016/234), [rules 2](https://www.legislation.gov.uk/uksi/2016/234/rule/2), [20](https://www.legislation.gov.uk/uksi/2016/234/rule/20), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/234/schedule/2) (with [rule 25](https://www.legislation.gov.uk/uksi/2016/234/rule/25))
 
-[^key-bd6747c2f587aac9a3b702571aa5b316]: Textual amendment: [Rule 89.17(4)-(8)](https://www.legislation.gov.uk/uksi/1998/3132/rule/89.17/4) substituted for [rule 89.17(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/89.17/4) (1.10.2020) by [The Civil Procedure (Amendment No. 3) Rules 2020 (S.I. 2020/747)](https://www.legislation.gov.uk/uksi/2020/747), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2020/747/rule/17/2)
+[^c-bd6747c2f587aac9a3b702571aa5b316]: Textual amendment: [Rule 89.17(4)-(8)](https://www.legislation.gov.uk/uksi/1998/3132/rule/89.17/4) substituted for [rule 89.17(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/89.17/4) (1.10.2020) by [The Civil Procedure (Amendment No. 3) Rules 2020 (S.I. 2020/747)](https://www.legislation.gov.uk/uksi/2020/747), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2020/747/rule/17/2)

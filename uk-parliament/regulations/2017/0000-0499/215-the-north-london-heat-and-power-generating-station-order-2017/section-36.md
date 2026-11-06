@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Protective provisions for specified undertakers[^key-655e3628004cf66a76be7616c1e1dc84]
+## 36. Protective provisions for specified undertakers[^c-655e3628004cf66a76be7616c1e1dc84]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 13 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-655e3628004cf66a76be7616c1e1dc84]: Commencement: Art. 36 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-655e3628004cf66a76be7616c1e1dc84]: Commencement: Art. 36 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)

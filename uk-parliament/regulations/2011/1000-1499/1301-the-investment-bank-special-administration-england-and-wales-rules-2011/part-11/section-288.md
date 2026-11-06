@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 288. Personal delivery[^key-7c0565b0c6a5246f970cd9f9f86b77db]
+## 288. Personal delivery[^c-7c0565b0c6a5246f970cd9f9f86b77db]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Personal delivery of a notice or other document is permissible in any case.
 
 ## Annotations
 
-[^key-7c0565b0c6a5246f970cd9f9f86b77db]: Commencement: [Rule 288](https://www.legislation.gov.uk/uksi/2011/1301/rule/288) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-7c0565b0c6a5246f970cd9f9f86b77db]: Commencement: [Rule 288](https://www.legislation.gov.uk/uksi/2011/1301/rule/288) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

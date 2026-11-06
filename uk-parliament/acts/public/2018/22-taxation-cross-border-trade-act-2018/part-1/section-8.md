@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. The customs tariff[^c23428801][^key-5d986e265653048d8d7169d7454ab6e4]
+## 8. The customs tariff[^c23428801][^c-5d986e265653048d8d7169d7454ab6e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 - (a) the value of the goods, and
 - (b) the weight or volume of the goods or any other measure of their quantity or size.
 
-(3A)[^key-538e1dc4976ecdcfc493d1d727f430aa] The provision that the customs tariff may make under subsection (1)(c), by virtue of section 32(7), includes provision specifying different rates of import duty applicable to goods falling within a code by reference to their nature, origin or any other factor.
+(3A)[^c-538e1dc4976ecdcfc493d1d727f430aa] The provision that the customs tariff may make under subsection (1)(c), by virtue of section 32(7), includes provision specifying different rates of import duty applicable to goods falling within a code by reference to their nature, origin or any other factor.
 
 (4) The customs tariff may include provision as to the meaning of any expression used in it.
 
@@ -52,14 +52,14 @@ summary: ''
 
 (8) In this section “**a standard case**” means a case other than one to which any of sections 9 to 15 or 19(4) apply (preferential rates, quotas, tariff suspension, safeguarding, etc).
 
-(9)[^key-d6f3b5d090daa94ecfe3fdaac0fd2cbf] Regulations under this section may amend provision made under section 9 or 10 so as to provide that the rate of import duty that applies to goods in a standard case applies in any specified case to which either of those sections applies (instead of the rate of import duty for the time being applicable by virtue of provision made under either of them).
+(9)[^c-d6f3b5d090daa94ecfe3fdaac0fd2cbf] Regulations under this section may amend provision made under section 9 or 10 so as to provide that the rate of import duty that applies to goods in a standard case applies in any specified case to which either of those sections applies (instead of the rate of import duty for the time being applicable by virtue of provision made under either of them).
 
 ## Annotations
 
 [^c23428801]: Commencement: S. 8 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-5d986e265653048d8d7169d7454ab6e4]: Commencement: S. 8 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-5d986e265653048d8d7169d7454ab6e4]: Commencement: S. 8 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-538e1dc4976ecdcfc493d1d727f430aa]: Textual amendment: [S. 8(3A)](https://www.legislation.gov.uk/ukpga/2018/22/section/8/3A) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/109/2)
+[^c-538e1dc4976ecdcfc493d1d727f430aa]: Textual amendment: [S. 8(3A)](https://www.legislation.gov.uk/ukpga/2018/22/section/8/3A) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/109/2)
 
-[^key-d6f3b5d090daa94ecfe3fdaac0fd2cbf]: Textual amendment: [S. 8(9)](https://www.legislation.gov.uk/ukpga/2018/22/section/8/9) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 109(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/109/3)
+[^c-d6f3b5d090daa94ecfe3fdaac0fd2cbf]: Textual amendment: [S. 8(9)](https://www.legislation.gov.uk/ukpga/2018/22/section/8/9) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 109(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/109/3)

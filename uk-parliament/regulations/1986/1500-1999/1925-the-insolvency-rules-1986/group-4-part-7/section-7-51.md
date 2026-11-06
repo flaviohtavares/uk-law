@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.51. Principal court rules and practice to apply[^key-2cd67cc6c86d747a38d86ae0d32fb837]
+## 7.51. Principal court rules and practice to apply[^c-2cd67cc6c86d747a38d86ae0d32fb837]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cd67cc6c86d747a38d86ae0d32fb837]: Textual amendment: [Rule 7.51](https://www.legislation.gov.uk/uksi/1986/1925/article/7.51) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/5)
+[^c-2cd67cc6c86d747a38d86ae0d32fb837]: Textual amendment: [Rule 7.51](https://www.legislation.gov.uk/uksi/1986/1925/article/7.51) substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/5)

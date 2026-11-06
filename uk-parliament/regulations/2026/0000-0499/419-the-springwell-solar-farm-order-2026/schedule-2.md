@@ -22,7 +22,7 @@ summary: ''
 
 Article 3
 
-**1.**[^key-81314c0b6cf9e7f08fe2e6fa6830203d] In this Schedule—
+**1.**[^c-81314c0b6cf9e7f08fe2e6fa6830203d] In this Schedule—
 
 - “**relevant planning authority**” means North Kesteven District Council, except for the following requirements where it shall mean Lincolnshire County Council—
   - (i) Requirement 7 (battery safety management);
@@ -31,11 +31,11 @@ Article 3
   - (iv) Requirement 14 (construction traffic management plan); and
   - (v) Requirement 17 (public right of way and permissive path management plan).
 
-### 2. Commencement of the authorised development[^key-586f383679aa07bfcccdb52672e22e85]
+### 2. Commencement of the authorised development[^c-586f383679aa07bfcccdb52672e22e85]
 
 The authorised development must not be commenced after the expiration of five years from the date this Order comes into force.
 
-### 3. Phasing of the authorised development and date of final commissioning[^key-6c5125d72bff3b0deb6a7aa237a71144]
+### 3. Phasing of the authorised development and date of final commissioning[^c-6c5125d72bff3b0deb6a7aa237a71144]
 
 (1) The authorised development must not be commenced until a written scheme setting out the phases of construction of the authorised development has been submitted to and approved by the relevant planning authority, such approval to be in consultation with Lincolnshire County Council.
 
@@ -49,13 +49,13 @@ The authorised development must not be commenced after the expiration of five ye
 
 (6) Notice of the date of final commissioning with respect to each phase of Work No. 1 must be given to the relevant planning authority within 15 working days of the date of final commissioning for that phase.
 
-### 4. Requirement for written approval[^key-396c646c0b3dd949c3e806a8b9fffc6b]
+### 4. Requirement for written approval[^c-396c646c0b3dd949c3e806a8b9fffc6b]
 
 (1) With respect to the documents certified under article 41 (certification of plans and documents, etc.) and any plans, details or schemes which have been approved pursuant to any requirement (together the “Approved Documents, Plans, Details or Schemes”), the undertaker may submit to the relevant planning authority for approval any amendments to any of the Approved Documents, Plans, Details or Schemes and, following approval by the relevant planning authority, such approval to be in consultation with Lincolnshire County Council (where Lincolnshire County Council was the relevant planning authority on the Approved Documents, Plans, Details or Schemes sought to be amended), the relevant Approved Documents, Plans, Details or Schemes is to be taken to include the amendments as so approved pursuant to this paragraph.
 
 (2) Approval under sub-paragraph (1) for the amendments to any of the Approved Documents, Plans, Details or Schemes must not be given except where it has been demonstrated to the satisfaction of the relevant planning authority that the subject matter of the approval sought is unlikely to give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
-### 5. Detailed design approval[^key-0629f5bb1c10223ce7999c925cd11352]
+### 5. Detailed design approval[^c-0629f5bb1c10223ce7999c925cd11352]
 
 (1) No part of Work Nos. 1 to 6 and 9 may commence until details of—
 
@@ -77,7 +77,7 @@ relating to that part have been submitted to and approved by the relevant planni
 
 (3) The authorised development must be carried out in accordance with the approved details.
 
-### 6. Community liaison group[^key-cc77a23eb625c072d30d1a293c9b9f61]
+### 6. Community liaison group[^c-cc77a23eb625c072d30d1a293c9b9f61]
 
 (1) Prior to the commencement of the authorised development the undertaker must submit to the relevant planning authority for approval the terms of reference for a community liaison group whose aim is to facilitate liaison between representatives of people living in the vicinity of the Order limits and other relevant organisations in relation to the construction of the authorised development.
 
@@ -85,7 +85,7 @@ relating to that part have been submitted to and approved by the relevant planni
 
 (3) The community liaison group is to continue to meet until the date of final commissioning of the final part of the authorised development unless otherwise agreed with the relevant planning authority.
 
-### 7. Battery safety management[^key-fb4277ada2764194c06f9750a3866bd6]
+### 7. Battery safety management[^c-fb4277ada2764194c06f9750a3866bd6]
 
 (1) Work No. 4 must not commence until a battery safety management plan has been submitted to and approved by the relevant planning authority.
 
@@ -95,7 +95,7 @@ relating to that part have been submitted to and approved by the relevant planni
 
 (4) The battery safety management plan must be implemented as approved and maintained throughout the operation of the relevant part of the authorised development to which the plan relates.
 
-### 8. Landscape and ecology management plan[^key-42c5d524826643bbf9422346cea2d9f9]
+### 8. Landscape and ecology management plan[^c-42c5d524826643bbf9422346cea2d9f9]
 
 (1) No part of the authorised development may commence until a written landscape and ecology management plan has been submitted to and approved by the relevant planning authority for that part, in consultation with Lincolnshire County Council, the Environment Agency, Natural England and the Ministry of Defence.
 
@@ -105,7 +105,7 @@ relating to that part have been submitted to and approved by the relevant planni
 
 (4) For the purposes of sub-paragraph (1), “**commence**” includes part (h) (site clearance (including vegetation removal, demolition of existing structures or buildings) and (i) (Work No. 8 (works to facilitate access to Work Nos. 1 to 7 and 9)) of the permitted preliminary works.
 
-### 9. Fencing and other means of enclosure[^key-daa8647fb7099e6f436b6266d23d4a5c]
+### 9. Fencing and other means of enclosure[^c-daa8647fb7099e6f436b6266d23d4a5c]
 
 (1) No part of the authorised development may commence until details of all proposed temporary fences, walls or other means of enclosure, including those set out in the construction environmental management plan, for that part have been submitted to and approved by the relevant planning authority.
 
@@ -121,7 +121,7 @@ relating to that part have been submitted to and approved by the relevant planni
 
 (7) Any approved permanent fencing for a part of the authorised development must be completed before the date of final commissioning in respect of that part and properly maintained for the operational lifetime of the part of the authorised development.
 
-### 10. Drainage[^key-6fd2c8a1c3adbc5e963810c871d2db53]
+### 10. Drainage[^c-6fd2c8a1c3adbc5e963810c871d2db53]
 
 (1) No part of the authorised development may commence until written details of the drainage strategy for that part have been submitted to and approved by the relevant planning authority.
 
@@ -135,7 +135,7 @@ relating to that part have been submitted to and approved by the relevant planni
 
 (6) Any approved scheme must be implemented as approved and maintained throughout the construction and operation of the authorised development.
 
-### 11. Archaeology[^key-d9460bfa4ead876813d666d71f6cb9d8]
+### 11. Archaeology[^c-d9460bfa4ead876813d666d71f6cb9d8]
 
 (1) No part of the authorised development may commence until for that part—
 
@@ -149,7 +149,7 @@ relating to that part have been submitted to and approved by the relevant planni
 
 (4) Any approved written scheme of investigation or archaeological mitigation strategy must be implemented as approved and maintained throughout the construction of the authorised development and any archaeological works or watching brief must be carried out in accordance with the approved scheme.
 
-### 12. Construction environmental management plan[^key-2fb2e901d2fb3644d3687daf9e1cd56f]
+### 12. Construction environmental management plan[^c-2fb2e901d2fb3644d3687daf9e1cd56f]
 
 (1) No part of the authorised development may commence until a construction environmental management plan for that part has been submitted to and approved by the relevant planning authority, such approval to be in consultation with Lincolnshire County Council, as the local highway authority and waste planning authority, the Environment Agency and the Ministry of Defence.
 
@@ -159,7 +159,7 @@ relating to that part have been submitted to and approved by the relevant planni
 
 (4) For the purposes of sub-paragraph (1), “**commence**” includes part (d) (remedial works in respect of any contamination or other adverse ground conditions) and (i) (Work No. 8 (works to facilitate access to Work Nos. 1 to 7 and 9)) of the permitted preliminary works.
 
-### 13. Operational environmental management plan[^key-a14e220a7e50763b260e8ebcc7a46bfe]
+### 13. Operational environmental management plan[^c-a14e220a7e50763b260e8ebcc7a46bfe]
 
 (1) Prior to the date of final commissioning for any part of the authorised development, an operational environmental management plan for that part must be submitted to and approved by the relevant planning authority, such approval to be in consultation with Lincolnshire County Council, as the local highway authority and waste planning authority, the Environment Agency and the Ministry of Defence.
 
@@ -167,7 +167,7 @@ relating to that part have been submitted to and approved by the relevant planni
 
 (3) The operational environmental management plan must be implemented as approved and maintained throughout the operation of the relevant part of the authorised development to which the plan relates.
 
-### 14. Construction traffic management plan[^key-e8a998110d16ff47ed19f94567c4826f]
+### 14. Construction traffic management plan[^c-e8a998110d16ff47ed19f94567c4826f]
 
 (1) No part of the authorised development may commence until a construction traffic management plan for that part has been submitted to and approved by the relevant planning authority.
 
@@ -177,13 +177,13 @@ relating to that part have been submitted to and approved by the relevant planni
 
 (4) For the purposes of sub-paragraph (1), “**commence**” includes part (i) (Work No. 8 (works to facilitate access to Work Nos. 1 to 7 and 9)) of the permitted preliminary works.
 
-### 15. Operational noise[^key-a083c0350eea058e3d3255c72652448f]
+### 15. Operational noise[^c-a083c0350eea058e3d3255c72652448f]
 
 (1) No part of Work Nos. 1 to 4 may commence until an operational noise assessment containing details of how the design of that numbered work has incorporated mitigation to ensure the operational noise rating levels as set out within Section 12.4.43 of Chapter 12 in the environmental statement and section 2.8.6. of the outline operational environmental management plan are complied with for that part has been submitted to and approved by the relevant planning authority.
 
 (2) The design as described in the operational noise assessment must be implemented as approved and maintained throughout the operation of the relevant part of the authorised development to which the plan relates.
 
-### 16. Employment, skills and supply chain[^key-430752462a32ec3a072eb8bcab9c0671]
+### 16. Employment, skills and supply chain[^c-430752462a32ec3a072eb8bcab9c0671]
 
 (1) No part of the authorised development may commence until an employment, skills and supply chain plan in relation to that part has been submitted to and approved by the relevant planning authority, such approval to be in consultation with Lincolnshire County Council.
 
@@ -193,7 +193,7 @@ relating to that part have been submitted to and approved by the relevant planni
 
 (4) The employment, skills and supply chain plan must be implemented as approved and maintained throughout the construction, operation and decommissioning of the relevant part of the authorised development to which the plan relates.
 
-### 17. Public right of way and permissive path management plan[^key-c38f8f6ba271130542f619a0eba8b1c1]
+### 17. Public right of way and permissive path management plan[^c-c38f8f6ba271130542f619a0eba8b1c1]
 
 (1) No part of the authorised development may commence until details of the layout, alignment and specification of the—
 
@@ -215,7 +215,7 @@ relating to that part have been submitted to and approved by the relevant planni
 
 (7) Nothing in this requirement prevents the withdrawal by the undertaker or its successor in title of permission to use the permissive paths after the date of decommissioning determined in accordance with requirement 19 (decommissioning and restoration).
 
-### 18. Soil management plan[^key-a747072c989b4646856dfeb16068b2a5]
+### 18. Soil management plan[^c-a747072c989b4646856dfeb16068b2a5]
 
 (1) No part of the authorised development may commence until a soil management plan for that part has been submitted to and approved by the relevant planning authority, such approval to be in consultation with Natural England.
 
@@ -223,7 +223,7 @@ relating to that part have been submitted to and approved by the relevant planni
 
 (3) The soil management plan must be implemented as approved and maintained throughout the operation of the relevant part of the authorised development to which the plan relates.
 
-### 19. Decommissioning and restoration[^key-5600bad766450eadee250b9268becef1]
+### 19. Decommissioning and restoration[^c-5600bad766450eadee250b9268becef1]
 
 (1) The date of decommissioning—
 
@@ -242,7 +242,7 @@ relating to that part have been submitted to and approved by the relevant planni
 
 (7) This requirement is without prejudice to any other consents or permissions that may be required to decommission any part of the authorised development.
 
-### 20. Electrical noise[^key-42f8a8030e8dad5a50ca8459907720ad]
+### 20. Electrical noise[^c-42f8a8030e8dad5a50ca8459907720ad]
 
 (1) Unless otherwise agreed in writing by the relevant planning authority in consultation with the Ministry of Defence, no individual part(s) of the authorised development featuring Work Nos. 1 – 6 may commence unless or until an electrical noise interference management plan which accounts for the electrical noise emissions of that part(s) has been submitted to and approved by the relevant planning authority, such approval to be in consultation with the Ministry of Defence.
 
@@ -253,8 +253,8 @@ relating to that part have been submitted to and approved by the relevant planni
 - (c) report(s) and supporting evidence, using methodologies and standards accredited by the Ministry of Defence, to demonstrate how Work Nos. 1 to 6 (featured in the part(s) of the authorised development being submitted for approval under sub-paragraph (1), together with any part(s) of the authorised development featuring Work Nos. 1 to 6 that have already been approved under sub-paragraph (1) will be constructed, tested, operated, and maintained throughout the life of the development to ensure that individually or cumulatively any electrical noise emissions from each part(s) of the authorised development that will be built and in operation at the same time will be prevented or otherwise constrained to a level agreed by the Ministry of Defence to safeguard the effective operation of the technical site installations at RAF Digby or forming part of the East 1 Wide Area Multilateration Network;
 - (d) a protocol through which the undertaker can be notified by the Ministry of Defence of electrical noise interference issues or observations, the measures that would be taken by the undertaker to investigate, and a description of the approach to resolving, rectifying or mitigating those impacts and timescales for the undertaker to implement any such address; and
 - (e) parameters or requirements that would need to be met by any replacement or modification of the electrical equipment that is the subject of the management plan being submitted for approval under sub-paragraph (1), together with protocols through which the undertaker must—
-  - (i) notify the Ministry of Defence of any replacement or modification of electrical equipment (such notification to provide confirmation that the electrical equipment complies with the approved management plan) using the evidence, methodologies or accredited standards referred to under paragraph (c)[^key-0fccfad48c857fc52ed8372b6291cfb3]; and
-  - (ii) seek the Ministry of Defence’s prior approval if the undertaker intends to replace electrical equipment that is the subject of the approved management plan and such equipment would not be in accordance with the approved management plan. All submissions for prior approval are to be supported with a relevant assessment(s) using evidence, methodologies or accredited standards referred to under paragraph (c)[^key-b3339ce0a8f750735ba69f0c63fbc20d].
+  - (i) notify the Ministry of Defence of any replacement or modification of electrical equipment (such notification to provide confirmation that the electrical equipment complies with the approved management plan) using the evidence, methodologies or accredited standards referred to under paragraph (c)[^c-0fccfad48c857fc52ed8372b6291cfb3]; and
+  - (ii) seek the Ministry of Defence’s prior approval if the undertaker intends to replace electrical equipment that is the subject of the approved management plan and such equipment would not be in accordance with the approved management plan. All submissions for prior approval are to be supported with a relevant assessment(s) using evidence, methodologies or accredited standards referred to under paragraph (c)[^c-b3339ce0a8f750735ba69f0c63fbc20d].
 
 (3) Unless otherwise agreed in writing by the relevant planning authority in consultation with the Ministry of Defence, the electrical noise interference management plan must be implemented as approved and maintained throughout the operation of the part(s) of the authorised development to which the plan relates, to ensure that no single part(s) of the authorised development for the duration that they may be built and operated individually or thereafter when connected together will produce any electrical noise emissions in excess of a level agreed by the Ministry of Defence to safeguard the effective operation of the technical site installations at RAF Digby or forming part of the East 1 Wide Area Multilateration Network.
 
@@ -262,46 +262,46 @@ relating to that part have been submitted to and approved by the relevant planni
 
 ## Annotations
 
-[^key-81314c0b6cf9e7f08fe2e6fa6830203d]: Commencement: Sch. 2 para. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-81314c0b6cf9e7f08fe2e6fa6830203d]: Commencement: Sch. 2 para. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-586f383679aa07bfcccdb52672e22e85]: Commencement: Sch. 2 para. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-586f383679aa07bfcccdb52672e22e85]: Commencement: Sch. 2 para. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-6c5125d72bff3b0deb6a7aa237a71144]: Commencement: Sch. 2 para. 3 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-6c5125d72bff3b0deb6a7aa237a71144]: Commencement: Sch. 2 para. 3 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-396c646c0b3dd949c3e806a8b9fffc6b]: Commencement: Sch. 2 para. 4 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-396c646c0b3dd949c3e806a8b9fffc6b]: Commencement: Sch. 2 para. 4 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-0629f5bb1c10223ce7999c925cd11352]: Commencement: Sch. 2 para. 5 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-0629f5bb1c10223ce7999c925cd11352]: Commencement: Sch. 2 para. 5 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-cc77a23eb625c072d30d1a293c9b9f61]: Commencement: Sch. 2 para. 6 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-cc77a23eb625c072d30d1a293c9b9f61]: Commencement: Sch. 2 para. 6 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-fb4277ada2764194c06f9750a3866bd6]: Commencement: Sch. 2 para. 7 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-fb4277ada2764194c06f9750a3866bd6]: Commencement: Sch. 2 para. 7 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-42c5d524826643bbf9422346cea2d9f9]: Commencement: Sch. 2 para. 8 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-42c5d524826643bbf9422346cea2d9f9]: Commencement: Sch. 2 para. 8 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-daa8647fb7099e6f436b6266d23d4a5c]: Commencement: Sch. 2 para. 9 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-daa8647fb7099e6f436b6266d23d4a5c]: Commencement: Sch. 2 para. 9 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-6fd2c8a1c3adbc5e963810c871d2db53]: Commencement: Sch. 2 para. 10 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-6fd2c8a1c3adbc5e963810c871d2db53]: Commencement: Sch. 2 para. 10 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-d9460bfa4ead876813d666d71f6cb9d8]: Commencement: Sch. 2 para. 11 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-d9460bfa4ead876813d666d71f6cb9d8]: Commencement: Sch. 2 para. 11 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-2fb2e901d2fb3644d3687daf9e1cd56f]: Commencement: Sch. 2 para. 12 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-2fb2e901d2fb3644d3687daf9e1cd56f]: Commencement: Sch. 2 para. 12 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-a14e220a7e50763b260e8ebcc7a46bfe]: Commencement: Sch. 2 para. 13 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-a14e220a7e50763b260e8ebcc7a46bfe]: Commencement: Sch. 2 para. 13 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-e8a998110d16ff47ed19f94567c4826f]: Commencement: Sch. 2 para. 14 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-e8a998110d16ff47ed19f94567c4826f]: Commencement: Sch. 2 para. 14 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-a083c0350eea058e3d3255c72652448f]: Commencement: Sch. 2 para. 15 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-a083c0350eea058e3d3255c72652448f]: Commencement: Sch. 2 para. 15 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-430752462a32ec3a072eb8bcab9c0671]: Commencement: Sch. 2 para. 16 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-430752462a32ec3a072eb8bcab9c0671]: Commencement: Sch. 2 para. 16 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-c38f8f6ba271130542f619a0eba8b1c1]: Commencement: Sch. 2 para. 17 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-c38f8f6ba271130542f619a0eba8b1c1]: Commencement: Sch. 2 para. 17 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-a747072c989b4646856dfeb16068b2a5]: Commencement: Sch. 2 para. 18 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-a747072c989b4646856dfeb16068b2a5]: Commencement: Sch. 2 para. 18 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-5600bad766450eadee250b9268becef1]: Commencement: Sch. 2 para. 19 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-5600bad766450eadee250b9268becef1]: Commencement: Sch. 2 para. 19 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-42f8a8030e8dad5a50ca8459907720ad]: Commencement: Sch. 2 para. 20 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-42f8a8030e8dad5a50ca8459907720ad]: Commencement: Sch. 2 para. 20 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-0fccfad48c857fc52ed8372b6291cfb3]: Textual amendment: Words in [Sch. 2 para. 20(2)(e)(i)](https://www.legislation.gov.uk/uksi/2026/419/schedule/2/paragraph/20/2/e/i) substituted (23.9.2026) by [The Springwell Solar Farm (Correction) Order 2026 (S.I. 2026/1052)](https://www.legislation.gov.uk/uksi/2026/1052), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1052/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/1052/schedule)
+[^c-0fccfad48c857fc52ed8372b6291cfb3]: Textual amendment: Words in [Sch. 2 para. 20(2)(e)(i)](https://www.legislation.gov.uk/uksi/2026/419/schedule/2/paragraph/20/2/e/i) substituted (23.9.2026) by [The Springwell Solar Farm (Correction) Order 2026 (S.I. 2026/1052)](https://www.legislation.gov.uk/uksi/2026/1052), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1052/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/1052/schedule)
 
-[^key-b3339ce0a8f750735ba69f0c63fbc20d]: Textual amendment: Words in [Sch. 2 para. 20(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2026/419/schedule/2/paragraph/20/2/e/ii) substituted (23.9.2026) by [The Springwell Solar Farm (Correction) Order 2026 (S.I. 2026/1052)](https://www.legislation.gov.uk/uksi/2026/1052), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1052/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/1052/schedule)
+[^c-b3339ce0a8f750735ba69f0c63fbc20d]: Textual amendment: Words in [Sch. 2 para. 20(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2026/419/schedule/2/paragraph/20/2/e/ii) substituted (23.9.2026) by [The Springwell Solar Farm (Correction) Order 2026 (S.I. 2026/1052)](https://www.legislation.gov.uk/uksi/2026/1052), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/1052/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/1052/schedule)

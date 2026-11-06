@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Hearing of objections[^key-42a2d454a7b62f9598cc555c0c84dfc2]
+## 222. Hearing of objections[^c-42a2d454a7b62f9598cc555c0c84dfc2]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42a2d454a7b62f9598cc555c0c84dfc2]: Commencement: [S. 222](https://www.legislation.gov.uk/ukpga/2005/19/section/222) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-42a2d454a7b62f9598cc555c0c84dfc2]: Commencement: [S. 222](https://www.legislation.gov.uk/ukpga/2005/19/section/222) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

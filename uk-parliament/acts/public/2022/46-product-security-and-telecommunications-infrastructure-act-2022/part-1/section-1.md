@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Power to specify security requirements[^key-6ac6c07ca1c09527ed6f2bcca7c120c2][^key-36e07b4b4b1b213e826243b9662ffa33]
+## 1. Power to specify security requirements[^c-6ac6c07ca1c09527ed6f2bcca7c120c2][^c-36e07b4b4b1b213e826243b9662ffa33]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ In this subsection “**specified**” means specified in the regulations.
 
 ## Annotations
 
-[^key-6ac6c07ca1c09527ed6f2bcca7c120c2]: Commencement: S. 1 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
+[^c-6ac6c07ca1c09527ed6f2bcca7c120c2]: Commencement: S. 1 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
 
-[^key-36e07b4b4b1b213e826243b9662ffa33]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/46/section/1) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-36e07b4b4b1b213e826243b9662ffa33]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/46/section/1) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

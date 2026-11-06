@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Certification of plans etc.[^key-7d420c4e4740a9b6e23436c1bf42b2c9]
+## 44. Certification of plans etc.[^c-7d420c4e4740a9b6e23436c1bf42b2c9]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Council must, as soon as practicable after the making of this Order, submit 
 
 ## Annotations
 
-[^key-7d420c4e4740a9b6e23436c1bf42b2c9]: Commencement: Art. 44 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-7d420c4e4740a9b6e23436c1bf42b2c9]: Commencement: Art. 44 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

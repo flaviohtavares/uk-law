@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Registration of electors pilot provision: power to make temporary provision[^key-d3b5a9e0e1fbe6f1432554f4a2b63930][^key-cd40998cdf5146922379c8d5dc17d3f8]
+## 40. Registration of electors pilot provision: power to make temporary provision[^c-d3b5a9e0e1fbe6f1432554f4a2b63930][^c-cd40998cdf5146922379c8d5dc17d3f8]
 
 *Extent: S*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3b5a9e0e1fbe6f1432554f4a2b63930]: Commencement: S. 40 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-d3b5a9e0e1fbe6f1432554f4a2b63930]: Commencement: S. 40 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-cd40998cdf5146922379c8d5dc17d3f8]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2025/4/section/40) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-cd40998cdf5146922379c8d5dc17d3f8]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2025/4/section/40) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

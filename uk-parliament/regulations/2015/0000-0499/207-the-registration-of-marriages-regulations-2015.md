@@ -45,44 +45,44 @@ The Registrar General, in exercise of the powers conferred by sections 27(1)[^f0
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-058e2357b920d2d6e397bfcdea1af831]
+### 1. Citation and commencement[^c-058e2357b920d2d6e397bfcdea1af831]
 
 These Regulations may be cited as the Registration of Marriages Regulations 2015 and come into force on 2nd March 2015.
 
-### 2. Interpretation[^key-e7fabf867d6be0f195520d24c036e9b3]
+### 2. Interpretation[^c-e7fabf867d6be0f195520d24c036e9b3]
 
 (1) In these Regulations—
 
 - “the Act” means the Marriage Act 1949;
 - “1970 Act” means the Marriage (Registrar General’s Licence) Act 1970;
-- “authorised person” means a person whose name and address have been certified under section 43 or 43B of the Act (appointment of authorised persons for buildings and chapels registered for solemnization of marriage);[^key-e5a4bdec9487a3547f7405d64ae2afca]
+- “authorised person” means a person whose name and address have been certified under section 43 or 43B of the Act (appointment of authorised persons for buildings and chapels registered for solemnization of marriage);[^c-e5a4bdec9487a3547f7405d64ae2afca]
 - “entry” (unless the context otherwise requires), means a record of the particulars relating to a marriage completed in the appropriate places in form 15;
 - “occupation” includes rank or profession;
-- “registered building” means—[^key-4420765293f58d91c6ae2da52d1cfd29]
+- “registered building” means—[^c-4420765293f58d91c6ae2da52d1cfd29]
   - (a) a building registered under section 41 or 43A of the Act (registration of buildings for solemnization of marriage), or
   - (b) a chapel registered under section 70 or 70A of the Act (registration of naval, military and air force chapels for solemnization of marriage),
 
   and references to the registration of a building are to be construed accordingly;
 - “step-parent”, in relation to a party to a marriage, means a step-parent who is or was married to, or the civil partner of, a parent of the party.[^M_F_0442fb0f-4ce6-4b3a-f300-1d9548077249]
 
-(2) In these Regulations, any reference to a numbered form is to the form bearing that number in Schedule 1, and any reference to a numbered column or space[^key-42c7200386b4485d615185cf1f25f34f] on a form, is to the column or space bearing that number on that form.
+(2) In these Regulations, any reference to a numbered form is to the form bearing that number in Schedule 1, and any reference to a numbered column or space[^c-42c7200386b4485d615185cf1f25f34f] on a form, is to the column or space bearing that number on that form.
 
-### 3. Completion of forms[^key-5138fc7970ff86331f483e76f9c6caf0]
+### 3. Completion of forms[^c-5138fc7970ff86331f483e76f9c6caf0]
 
-(1) Forms 1(w) to 6(w) and 9(w) to 12(w)[^key-97b412a2797433838a669bee0913971f] in Schedule 1 must be completed in English and must also be completed in Welsh if—
+(1) Forms 1(w) to 6(w) and 9(w) to 12(w)[^c-97b412a2797433838a669bee0913971f] in Schedule 1 must be completed in English and must also be completed in Welsh if—
 
 - (a) in the case of—
   - (i) forms 1(w) to 6(w), 9(w), 11(w) and 12(w), the party giving notice of the marriage, and
   - (ii) form 10(w), the person making the declaration,
 
   so elects, and provides the required particulars in both languages, and the person by whom the notice, or as the case may be the declaration, is attested can understand and write Welsh;
-- (aa)[^key-6ae1dfee3a255dabff834099fd59845b] in the case of form 11A(w) or 11B(w)—
+- (aa)[^c-6ae1dfee3a255dabff834099fd59845b] in the case of form 11A(w) or 11B(w)—
   - (i) the parties to the marriage so elect,
   - (ii) the forms in which notice of the marriage was given by the parties were both completed in Welsh as well as English, and
   - (iii) the person issuing the marriage schedule can understand and write Welsh;
-- (b)[^key-6713cc798d6142af85c0195f089e091a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6713cc798d6142af85c0195f089e091a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-9028a108e7b3c850e0a8c764578974f2] Form 13A(w) in Schedule 1 must be completed in English and must also be completed in Welsh if—
+(1A)[^c-9028a108e7b3c850e0a8c764578974f2] Form 13A(w) in Schedule 1 must be completed in English and must also be completed in Welsh if—
 
 - (a) the parties to the marriage so elect and provide the required particulars in both languages, and
 - (b) the person issuing the marriage document can understand and write Welsh.
@@ -96,24 +96,24 @@ These Regulations may be cited as the Registration of Marriages Regulations 2015
 
 ## PART 2 — Preliminaries to Marriage
 
-### 4. Forms of notice of marriage[^key-233ece98659d4ee827ce51a31fd49429]
+### 4. Forms of notice of marriage[^c-233ece98659d4ee827ce51a31fd49429]
 
 (1) The form of notice of marriage to be given by each party to the marriage under section 27(1) of the Act[^f00012] where—
 
 - (a) both parties are relevant nationals[^f00013] and where—
   - (i) both parties are aged 18 or over, is form 1 if attested in England, or form 1(w) if attested in Wales; or
-  - (ii) either party is, or both parties are, aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^key-b03eafb28b4e738df8b9b74f5daa25c5], is form 2 if attested in England, or form 2(w) if attested in Wales.
+  - (ii) either party is, or both parties are, aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^c-b03eafb28b4e738df8b9b74f5daa25c5], is form 2 if attested in England, or form 2(w) if attested in Wales.
 - (b) either party is not, or neither party is, a relevant national and where—
   - (i) both parties are aged 18 or over, is form 3 if attested in England, or form 3(w) if attested in Wales; or
-  - (ii) either party is, or both parties are, aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^key-aff1acb048dc41d026b7eeae85876467], is form 4 if attested in England, or form 4(w) if attested in Wales.
+  - (ii) either party is, or both parties are, aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^c-aff1acb048dc41d026b7eeae85876467], is form 4 if attested in England, or form 4(w) if attested in Wales.
 
 (2) The form of notice of marriage to be given by either party to the marriage under section 2(1) of the 1970 Act is form 5 if attested in England, or form 5(w) if attested in Wales.
 
-### 5. Endorsement on notice of marriage[^key-fe40e0518acee097d8860dcc26f9d3ee]
+### 5. Endorsement on notice of marriage[^c-fe40e0518acee097d8860dcc26f9d3ee]
 
 The form of endorsement on the notice of marriage to be made under section 35(1) of the Act[^f00014] (in respect of an intended marriage in a registration district in which neither party to the marriage resides) is form 6 if the notice is attested in England, or form 6(w) if attested in Wales.
 
-### 6. Statements and particulars for intended marriage of housebound or detained person[^key-54deb43675ca7a797e27caca2fd08e49]
+### 6. Statements and particulars for intended marriage of housebound or detained person[^c-54deb43675ca7a797e27caca2fd08e49]
 
 (1) The form of medical statement to be given under section 27A(2) of the Act[^f00015] is form 7 concerning a person housebound in England, or form 7(w) concerning a person housebound in Wales.
 
@@ -121,7 +121,7 @@ The form of endorsement on the notice of marriage to be made under section 35(1)
 
 (3) The form of the particulars of the person by or before whom the marriage is to be solemnized, which is to be given under section 27A(4) of the Act, is form 9 in relation to a marriage intended to be solemnized in England, or form 9(w) in relation to a marriage intended to be solemnized in Wales.
 
-### 7. Declaration for intended marriage of certain persons related by affinity[^key-3cfec19f260e214b103f8de58d519679]
+### 7. Declaration for intended marriage of certain persons related by affinity[^c-3cfec19f260e214b103f8de58d519679]
 
 (1) The form of declaration to be made by each of the persons to be married, in accordance with section 27B(2)(b) of the Act[^f00016], is form 10 in relation to a marriage intended to be solemnized in England, or form 10(w) in relation to a marriage intended to be solemnized in Wales.
 
@@ -129,7 +129,7 @@ The form of endorsement on the notice of marriage to be made under section 35(1)
 
 (3) The superintendent registrar referred to in paragraph (2) is the superintendent registrar to whom notice of the marriage is required to be given by the person making the declaration.
 
-### 8. Specified Evidence[^key-1144600a19733343e9b52bbe4910c970]
+### 8. Specified Evidence[^c-1144600a19733343e9b52bbe4910c970]
 
 (1) Schedule 3 has effect to specify—
 
@@ -138,7 +138,7 @@ The form of endorsement on the notice of marriage to be made under section 35(1)
 - (c) evidence of a person’s place of residence, for the purposes of section 28B(1)(c) of the Act (see paragraph 4 of Schedule 3); and
 - (d) evidence of the ending of a person’s previous marriage or civil partnership, for the purposes of section 28B(2) of the Act (see paragraph 5 of Schedule 3).
 
-### 9. Application to reduce the 28 day waiting period[^key-a6bdb84e3c00ebda903a4793c2dfb6b1]
+### 9. Application to reduce the 28 day waiting period[^c-a6bdb84e3c00ebda903a4793c2dfb6b1]
 
 (1) An application under section 31(5A) of the Act[^f00020] to reduce the 28 day waiting period must be made—
 
@@ -148,7 +148,7 @@ The form of endorsement on the notice of marriage to be made under section 35(1)
 
 and must be accompanied by the fee.
 
-(2) The superintendent registrar must immediately forward the completed application [^key-df59099c19b03a540f5cb0a9f8787310]... to the Registrar General.
+(2) The superintendent registrar must immediately forward the completed application [^c-df59099c19b03a540f5cb0a9f8787310]... to the Registrar General.
 
 (3) If, on receipt of a completed application, the Registrar General requires further information (which may include documents), before making his or her decision, the Registrar General may—
 
@@ -163,7 +163,7 @@ and must be accompanied by the fee.
 - “completed application” means the completed form 11 (or form 11(w) as the case may be) together with any evidence referred to in paragraph (1)(c); and
 - “fee” means the fee as specified (if one is so specified) in regulations made under section 71A of the Act[^M_F_be8b78fe-6232-44fc-fc18-cdb949f8dc39].
 
-### 9A. Form of marriage schedule[^key-cf375c7b199b98cfa991da00ae0c1b7b]
+### 9A. Form of marriage schedule[^c-cf375c7b199b98cfa991da00ae0c1b7b]
 
 (1) The form of a marriage schedule to be issued under section 31(2) of the Act, other than a marriage schedule for a marriage intended to be solemnized in the presence of a superintendent registrar and a registrar, is—
 
@@ -237,7 +237,7 @@ and must be accompanied by the fee.
 - (a) name and surname, and
 - (b) current occupation or, if the parent or step-parent has no current occupation or has died, former occupation (if any).
 
-### 9D. Form of certificate issued in England or Wales for marriage in Scotland[^key-0ee4f9558278fb35215a178eb43de499]
+### 9D. Form of certificate issued in England or Wales for marriage in Scotland[^c-0ee4f9558278fb35215a178eb43de499]
 
 *Extent: E+W+S*
 
@@ -245,13 +245,13 @@ and must be accompanied by the fee.
 
 (2) Regulation 2 applies for the purposes of the interpretation of paragraph (1) of this regulation as it extends to Scotland as well as to England and Wales; and the requirements of regulation 3 in relation to the completion of form 12(w) apply in relation to the completion of form 12(w) prescribed by paragraph (1) of this regulation as it extends to Scotland as well as to England and Wales.
 
-### 10. Form of Registrar General’s licence for marriage[^key-792629b6d3348fd5a1b9ac1cf0992294][^key-a6997ceb7d9ca18015a25f1fd9faf25d]
+### 10. Form of Registrar General’s licence for marriage[^c-792629b6d3348fd5a1b9ac1cf0992294][^c-a6997ceb7d9ca18015a25f1fd9faf25d]
 
-(1)[^key-209a44bb4c6431c8d537558709a3a159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-209a44bb4c6431c8d537558709a3a159] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The form of the Registrar General’s licence for marriage to be issued under section 7 of the 1970 Act is form 13.
 
-### 10A. Form of marriage document issued after publication of banns or grant of special or common licence[^key-c071d7a10201edad8e61d1c228637e2f]
+### 10A. Form of marriage document issued after publication of banns or grant of special or common licence[^c-c071d7a10201edad8e61d1c228637e2f]
 
 The form of a marriage document to be issued under section 21A(2) of the Act is form 13A if the document is issued in England, or form 13A(w) if the document is issued in Wales.
 
@@ -298,13 +298,13 @@ The form of a marriage document to be issued under section 21A(2) of the Act is 
 - (a) name and surname, and
 - (b) current occupation or, if the parent or step-parent has no current occupation or has died, former occupation (if any).
 
-### 11. Form of instructions for solemnization of a marriage in a registered building without the presence of a registrar[^key-76d7ae4fe3a30cf25dd8b93fa419fb15]
+### 11. Form of instructions for solemnization of a marriage in a registered building without the presence of a registrar[^c-76d7ae4fe3a30cf25dd8b93fa419fb15]
 
-(1)[^key-f555c98b85e13f044ba27de46e9d2d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-f555c98b85e13f044ba27de46e9d2d07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-e64bd90e0a19e6652f11b5d6b34948d8] The form of instructions to be given under section 31(5) of the Act by a superintendent registrar when issuing a marriage schedule is form 14A if the marriage schedule is issued in England, or form 14A(w) if the schedule is issued in Wales.
+(2)[^c-e64bd90e0a19e6652f11b5d6b34948d8] The form of instructions to be given under section 31(5) of the Act by a superintendent registrar when issuing a marriage schedule is form 14A if the marriage schedule is issued in England, or form 14A(w) if the schedule is issued in Wales.
 
-## PART 2A — Delivery of marriage schedule or marriage document[^key-e8a2a247383385f49ca66d8a80daf53b]
+## PART 2A — Delivery of marriage schedule or marriage document[^c-e8a2a247383385f49ca66d8a80daf53b]
 
 ### 11A. Content of notices requiring delivery of signed marriage document or marriage schedule
 
@@ -665,67 +665,67 @@ The form of a marriage document to be issued under section 21A(2) of the Act is 
 
 (13) For the purposes of this regulation, particulars in any entry in the marriage register relating to the condition of a party are not inaccurate so far as they describe a party as “Single” as a result of that word having been entered in relation to that party in space 4 on the marriage schedule form or marriage document form in respect of the marriage at that party’s request in accordance with these Regulations.
 
-## PART 3 — Registration of Marriage[^key-edc218e8c20e807cdaa3b36e4300b1af]
+## PART 3 — Registration of Marriage[^c-edc218e8c20e807cdaa3b36e4300b1af]
 
 **No longer in force.**
 
-### 12. Form of registration of particulars and place of registration[^key-edc218e8c20e807cdaa3b36e4300b1af]
+### 12. Form of registration of particulars and place of registration[^c-edc218e8c20e807cdaa3b36e4300b1af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Manner of registration[^key-edc218e8c20e807cdaa3b36e4300b1af]
+### 13. Manner of registration[^c-edc218e8c20e807cdaa3b36e4300b1af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Form of attestation[^key-edc218e8c20e807cdaa3b36e4300b1af]
+### 14. Form of attestation[^c-edc218e8c20e807cdaa3b36e4300b1af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Signing the register[^key-edc218e8c20e807cdaa3b36e4300b1af]
+### 15. Signing the register[^c-edc218e8c20e807cdaa3b36e4300b1af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Correction of Errors[^key-1456a52187e261c576fc161845bddbb2]
+## PART 4 — Correction of Errors[^c-1456a52187e261c576fc161845bddbb2]
 
 **No longer in force.**
 
-### 16. Time when entry is complete[^key-1456a52187e261c576fc161845bddbb2]
+### 16. Time when entry is complete[^c-1456a52187e261c576fc161845bddbb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Correction of errors in Wales[^key-1456a52187e261c576fc161845bddbb2]
+### 17. Correction of errors in Wales[^c-1456a52187e261c576fc161845bddbb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Correction of errors before entry is complete[^key-1456a52187e261c576fc161845bddbb2]
+### 18. Correction of errors before entry is complete[^c-1456a52187e261c576fc161845bddbb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Correction of errors in completed entry[^key-1456a52187e261c576fc161845bddbb2]
+### 19. Correction of errors in completed entry[^c-1456a52187e261c576fc161845bddbb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Copy of corrected or annotated entry to be sent to Registrar General[^key-1456a52187e261c576fc161845bddbb2]
+### 20. Copy of corrected or annotated entry to be sent to Registrar General[^c-1456a52187e261c576fc161845bddbb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Miscellaneous Provisions
 
-### 21. Certified copies[^key-d2754bc04250ee3389f3da5988dec6b0]
+### 21. Certified copies[^c-d2754bc04250ee3389f3da5988dec6b0]
 
 Where a certified copy of an entry in a marriage register book containing English only, or in a certified copy of such a book, is made on a form containing both English and Welsh but the particulars in the original entry and those entered in the certified copy of that entry do not differ in any other respect, the certified copy is to be treated as a true copy of the original entry.
 
-### 22. Quarterly certified copies[^key-bb81c55e317cc0ea7ef498d2e5a8ee68]
+### 22. Quarterly certified copies[^c-bb81c55e317cc0ea7ef498d2e5a8ee68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Offences and proceedings[^key-8c00a0cb77109f67ace446e42dad83b4]
+### 23. Offences and proceedings[^c-8c00a0cb77109f67ace446e42dad83b4]
 
 (1) If it appears to a superintendent registrar or a registrar that any offence under or breach of the Act or the 1970 Act or, so far as they relate to marriages, the Perjury Act 1911[^f00026] or the Forgery or Counterfeiting Act 1981[^f00027] has been committed, he or she must report the matter to the Registrar General and must deliver to the Registrar General such documents in his or her possession relating to the offence or breach as the Registrar General may require.
 
-(2) Except with the authority of the Registrar General, a superintendent registrar must not commence any proceedings in respect of an offence under section 76(1) [^key-f2d27637f22ab92dc81f7cc9fb83c91b]... of the Act[^f00028].
+(2) Except with the authority of the Registrar General, a superintendent registrar must not commence any proceedings in respect of an offence under section 76(1) [^c-f2d27637f22ab92dc81f7cc9fb83c91b]... of the Act[^f00028].
 
-### 24. Revocations[^key-ee592f1159ac2c8308314eb7e17914b2]
+### 24. Revocations[^c-ee592f1159ac2c8308314eb7e17914b2]
 
 The Regulations listed in column 1 of the table in Schedule 4 are revoked to the extent specified in column 3 of the table.
 
@@ -747,7 +747,7 @@ Home Office
 
 4th February 2015
 
-## SCHEDULE 1 — Prescribed Forms[^key-7ee9e75209e1daf90d8e13c1019689ae]
+## SCHEDULE 1 — Prescribed Forms[^c-7ee9e75209e1daf90d8e13c1019689ae]
 
 Regulation 2(2)
 
@@ -755,12 +755,12 @@ Regulation 2(2)
 | --- | --- | --- | --- |
 | 1 | 4(1)(a)(i) | Notice of marriage to be given where both parties are relevant nationals and aged 18 or over | Section 27(1) Marriage Act 1949 |
 | 1(w) | 4(1)(a)(i) | Notice of marriage to be given where both parties are relevant nationals and aged 18 or over (with Welsh translation) | Section 27(1) Marriage Act 1949 |
-| 2 | 4(1)(a)(ii) | Notice of marriage to be given where both parties are relevant nationals and where either party is, or both parties are aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^key-1e5476f2fa52c637870941b79d6df889] | Section 27(1) Marriage Act 1949 |
-| 2(w) | 4(1)(a)(ii) | Notice of marriage to be given where both parties are relevant nationals and where one party is, or both parties are, aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^key-47c5487a22a45ae45d31ba6af65d7372] (with Welsh translation) | Section 27(1) Marriage Act 1949 |
+| 2 | 4(1)(a)(ii) | Notice of marriage to be given where both parties are relevant nationals and where either party is, or both parties are aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^c-1e5476f2fa52c637870941b79d6df889] | Section 27(1) Marriage Act 1949 |
+| 2(w) | 4(1)(a)(ii) | Notice of marriage to be given where both parties are relevant nationals and where one party is, or both parties are, aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^c-47c5487a22a45ae45d31ba6af65d7372] (with Welsh translation) | Section 27(1) Marriage Act 1949 |
 | 3 | 4(1)(b)(i) | Notice of marriage to be given where one party is not, or neither party is, a relevant national and both parties are aged 18 or over | Section 27(1) Marriage Act 1949 |
 | 3(w) | 4(1)(b)(i) | Notice of marriage to be given where one party is not, or neither party is, a relevant national and both parties are aged 18 or over (with Welsh translation) | Section 27(1) Marriage Act 1949 |
-| 4 | 4(1)(b)(ii) | Notice of marriage to be given where one party is not, or neither party is, a relevant national and where one party is, or both parties are, aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^key-d9b7fdb29a6e45542f9976ebbf08ecde] | Section 27(1) Marriage Act 1949 |
-| 4(w) | 4(1)(b)(ii) | Notice of marriage to be given where one party is not, or neither party is, a relevant national and where one party is, or both parties are, aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^key-97e89b87a17629c3218f2ef63354c4d0] (with Welsh translation) | Section 27(1) Marriage Act 1949 |
+| 4 | 4(1)(b)(ii) | Notice of marriage to be given where one party is not, or neither party is, a relevant national and where one party is, or both parties are, aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^c-d9b7fdb29a6e45542f9976ebbf08ecde] | Section 27(1) Marriage Act 1949 |
+| 4(w) | 4(1)(b)(ii) | Notice of marriage to be given where one party is not, or neither party is, a relevant national and where one party is, or both parties are, aged under 18 but will be aged 18 on the day that the marriage schedule is due to be issued[^c-97e89b87a17629c3218f2ef63354c4d0] (with Welsh translation) | Section 27(1) Marriage Act 1949 |
 | 5 | 4(2) | Notice of marriage by Registrar General’s licence | Section 2(1) Marriage (Registrar General’s Licence) Act 1970 |
 | 5(w) | 4(2) | Notice of marriage by Registrar General’s licence (with Welsh translation) | Section 2(1) Marriage (Registrar General’s Licence) Act 1970 |
 | 6 | 5 | Endorsement on notice of marriage | Section 35(1) Marriage Act 1949 |
@@ -775,25 +775,25 @@ Regulation 2(2)
 | 10(w) | 7(1) | Declaration for marriages of certain persons related by affinity (with Welsh translation) | Section 27B(2)(b) Marriage Act 1949 |
 | 11 | 9(1)(c) | Application to reduce the 28 day waiting period | Section 31(5A) Marriage Act 1949 |
 | 11(w) | 9(1)(c) | Application to reduce the 28 day waiting period (with Welsh translation) | Section 31(5A) Marriage Act 1949 |
-| 11A[^key-70965dcae9746c5fed4d4aed29817f9d] | 9A(1) | Marriage schedule for any marriage other than a marriage to be solemnized in the presence of a superintendent registrar and a registrar | Section 31(2) Marriage Act 1949 |
+| 11A[^c-70965dcae9746c5fed4d4aed29817f9d] | 9A(1) | Marriage schedule for any marriage other than a marriage to be solemnized in the presence of a superintendent registrar and a registrar | Section 31(2) Marriage Act 1949 |
 | 11A(w) | 9A(1) | Marriage schedule for any marriage other than a marriage to be solemnized in the presence of a superintendent registrar and a registrar (with Welsh translation) | Section 31(2) Marriage Act 1949 |
 | 11B | 9A(2) | Marriage schedule for a marriage to be solemnized in the presence of a superintendent registrar and a registrar | Section 31(2) Marriage Act 1949 |
 | 11B(w) | 9A(2) | Marriage schedule for a marriage to be solemnized in the presence of a superintendent registrar and a registrar (with Welsh translation) | Section 31(2) Marriage Act 1949 |
-| 12[^key-a0805c4396d3de4e3a12df906f608692] | 9D(1) | Approved certificate for marriage intended to be solemnized in Scotland where one or both parties are residing in England or Wales | Section 31(2) Marriage Act 1949, as applied by section 1(3) of the Marriage (Scotland) Act 1956 |
+| 12[^c-a0805c4396d3de4e3a12df906f608692] | 9D(1) | Approved certificate for marriage intended to be solemnized in Scotland where one or both parties are residing in England or Wales | Section 31(2) Marriage Act 1949, as applied by section 1(3) of the Marriage (Scotland) Act 1956 |
 | 12(w) | 9D(1) | Approved certificate for marriage intended to be solemnized in Scotland where one or both parties are residing in England or Wales (with Welsh translation) | Section 31(2) Marriage Act 1949, as applied by section 1(3) of the Marriage (Scotland) Act 1956 |
 | 13 | 10(2) | Registrar General’s licence for marriage | Section 7 Marriage (Registrar General’s Licence) Act 1970 |
-| 13A[^key-822add0eb76f1af68e6b2a9e260e2658] | 10A | Marriage document | Section 21A(2) Marriage Act 1949 |
+| 13A[^c-822add0eb76f1af68e6b2a9e260e2658] | 10A | Marriage document | Section 21A(2) Marriage Act 1949 |
 | 13A(w) | 10A | Marriage document (with Welsh translation) | Section 21A(2) Marriage Act 1949 |
-| [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . |
-| [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^key-44e91e93a7d0d52e5eacae8df47f3b06]. . . |
-| 14A[^key-d9c9a4e5c610681252e1787478949580] | 11(2) | Form of instructions to be given when issuing marriage schedule | Section 31(5) Marriage Act 1949 |
+| [^c-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^c-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^c-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^c-44e91e93a7d0d52e5eacae8df47f3b06]. . . |
+| [^c-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^c-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^c-44e91e93a7d0d52e5eacae8df47f3b06]. . . | [^c-44e91e93a7d0d52e5eacae8df47f3b06]. . . |
+| 14A[^c-d9c9a4e5c610681252e1787478949580] | 11(2) | Form of instructions to be given when issuing marriage schedule | Section 31(5) Marriage Act 1949 |
 | 14A(w) | 11(2) | Form of instructions to be given when issuing marriage schedule (with Welsh translation) | Section 31(5) Marriage Act 1949 |
-| [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . |
-| [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^key-e633073cdc0b48d1c06150d6b7fad5ca]. . . |
-| [^key-ce0e37189af49f6f9712844d76443b0a]. . . | [^key-ce0e37189af49f6f9712844d76443b0a]. . . | [^key-ce0e37189af49f6f9712844d76443b0a]. . . | [^key-ce0e37189af49f6f9712844d76443b0a]. . . |
-| [^key-ce0e37189af49f6f9712844d76443b0a]. . . | [^key-ce0e37189af49f6f9712844d76443b0a]. . . | [^key-ce0e37189af49f6f9712844d76443b0a]. . . | [^key-ce0e37189af49f6f9712844d76443b0a]. . . |
+| [^c-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^c-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^c-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^c-e633073cdc0b48d1c06150d6b7fad5ca]. . . |
+| [^c-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^c-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^c-e633073cdc0b48d1c06150d6b7fad5ca]. . . | [^c-e633073cdc0b48d1c06150d6b7fad5ca]. . . |
+| [^c-ce0e37189af49f6f9712844d76443b0a]. . . | [^c-ce0e37189af49f6f9712844d76443b0a]. . . | [^c-ce0e37189af49f6f9712844d76443b0a]. . . | [^c-ce0e37189af49f6f9712844d76443b0a]. . . |
+| [^c-ce0e37189af49f6f9712844d76443b0a]. . . | [^c-ce0e37189af49f6f9712844d76443b0a]. . . | [^c-ce0e37189af49f6f9712844d76443b0a]. . . | [^c-ce0e37189af49f6f9712844d76443b0a]. . . |
 
-[^key-7686168ae74e3a1450df0337f7d88130]**Form 1, notice of marriage, regulation 4(1)(a)(i), section 27(1) Marriage Act 1949**
+[^c-7686168ae74e3a1450df0337f7d88130]**Form 1, notice of marriage, regulation 4(1)(a)(i), section 27(1) Marriage Act 1949**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_015.gif)
 
@@ -801,15 +801,15 @@ Regulation 2(2)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_016.gif)
 
-[^key-9f68b6af7389b903cc0b67e6a6cfc0b6]**Form 2, notice of marriage, regulation 4(1)(a)(ii), section 27(1) Marriage Act 1949**
+[^c-9f68b6af7389b903cc0b67e6a6cfc0b6]**Form 2, notice of marriage, regulation 4(1)(a)(ii), section 27(1) Marriage Act 1949**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_026.gif)
 
-[^key-21a6520fdf91d3c7476a7406d38406e8]**Form 2(w), notice of marriage (with Welsh translation), regulation 4(1)(a)(ii), section 27(1) Marriage Act 1949**
+[^c-21a6520fdf91d3c7476a7406d38406e8]**Form 2(w), notice of marriage (with Welsh translation), regulation 4(1)(a)(ii), section 27(1) Marriage Act 1949**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_027.gif)
 
-[^key-55c99f0009c91cf6a42d571deaf36fd9]**Form 3, notice of marriage, regulation 4(1)(b)(i), section 27(1) Marriage Act 1949**
+[^c-55c99f0009c91cf6a42d571deaf36fd9]**Form 3, notice of marriage, regulation 4(1)(b)(i), section 27(1) Marriage Act 1949**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_019.gif)
 
@@ -817,27 +817,27 @@ Regulation 2(2)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_020.gif)
 
-[^key-a8f122b4001b2bc4ed65e98eb2a47655]**Form 4, notice of marriage, regulation 4(1)(b)(ii), section 27(1) Marriage Act 1949**
+[^c-a8f122b4001b2bc4ed65e98eb2a47655]**Form 4, notice of marriage, regulation 4(1)(b)(ii), section 27(1) Marriage Act 1949**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_028.gif)
 
-[^key-3c1feaf349f59e49b1ee6ad2407cf263]**Form 4(w), notice of marriage (with Welsh translation), regulation 4(1)(b)(ii), section 27(1) Marriage Act 1949**
+[^c-3c1feaf349f59e49b1ee6ad2407cf263]**Form 4(w), notice of marriage (with Welsh translation), regulation 4(1)(b)(ii), section 27(1) Marriage Act 1949**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_029.gif)
 
-[^key-9ec2aad4ebda8d36775d0d23ecddecb1]**Form 5, notice of marriage, regulation 4(2), section 2(1) Marriage (Registrar General’s Licence) Act 1970**
+[^c-9ec2aad4ebda8d36775d0d23ecddecb1]**Form 5, notice of marriage, regulation 4(2), section 2(1) Marriage (Registrar General’s Licence) Act 1970**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_033.gif)
 
-[^key-37ecbf1df8378954044d05172dd07e3b]**Form 5(w), notice of marriage (with Welsh translation), regulation 4(2), section 2(1) Marriage (Registrar General’s Licence) Act 1970**
+[^c-37ecbf1df8378954044d05172dd07e3b]**Form 5(w), notice of marriage (with Welsh translation), regulation 4(2), section 2(1) Marriage (Registrar General’s Licence) Act 1970**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_034.gif)
 
-[^key-e4d90fa1ad8568f17ddbf50f11e514b6]**Form 8**
+[^c-e4d90fa1ad8568f17ddbf50f11e514b6]**Form 8**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_044.gif)[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_046.gif)
 
-[^key-be564d76bbdcb13f5b0d40e414968fe9]**Form 8(w)**
+[^c-be564d76bbdcb13f5b0d40e414968fe9]**Form 8(w)**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_047.gif)[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_048.gif)
 
@@ -857,47 +857,47 @@ Regulation 2(2)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_020)[image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_021)
 
-[^key-7ee9e75209e1daf90d8e13c1019689ae]
+[^c-7ee9e75209e1daf90d8e13c1019689ae]
 
 **Form 11, application to reduce the 28 day waiting period, regulation 9(1)(c), section 31(5A) Marriage Act 1949**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_022)
 
-[^key-7ee9e75209e1daf90d8e13c1019689ae]
+[^c-7ee9e75209e1daf90d8e13c1019689ae]
 
 **Form 11(w), application to reduce the 28 day waiting period (with Welsh translation), regulation 9(1)(c), section 31(5A) Marriage Act 1949**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_023)
 
-[^key-26f2209b49c2e85d48a8339bcbbf3990]**Form 11A**
+[^c-26f2209b49c2e85d48a8339bcbbf3990]**Form 11A**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_032.gif)
 
-[^key-3ab77321c605ae07d38b3b44a9d0bc1a]**Form 11A(w), marriage schedule for any marriage other than a marriage to be solemnized in the presence of a superintendent registrar and a registrar (with Welsh translation), regulation 9A(1), section 31(2) Marriage Act 1949**
+[^c-3ab77321c605ae07d38b3b44a9d0bc1a]**Form 11A(w), marriage schedule for any marriage other than a marriage to be solemnized in the presence of a superintendent registrar and a registrar (with Welsh translation), regulation 9A(1), section 31(2) Marriage Act 1949**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_035.gif)
 
-[^key-4773094eaa4325fc914f2cd69392e34b]**Form 11B**
+[^c-4773094eaa4325fc914f2cd69392e34b]**Form 11B**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_036.gif)
 
-[^key-59fa8acad679bb7d2c95f1ef671a0678]**Form 11B(w), marriage schedule for a marriage to be solemnized in the presence of a superintendent registrar and a registrar (with Welsh translation), regulation 9A(2), section 31(2) Marriage Act 1949**
+[^c-59fa8acad679bb7d2c95f1ef671a0678]**Form 11B(w), marriage schedule for a marriage to be solemnized in the presence of a superintendent registrar and a registrar (with Welsh translation), regulation 9A(2), section 31(2) Marriage Act 1949**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_037.gif)
 
-[^key-eb3732f38c09e7114f048d98f91dc93d][^key-eb6e0ee128c9bf3195111ec812089612]**Form 12, approved certificate for marriage intended to be solemnized in Scotland, regulation 9D(1), section 31(2) Marriage Act 1949**
+[^c-eb3732f38c09e7114f048d98f91dc93d][^c-eb6e0ee128c9bf3195111ec812089612]**Form 12, approved certificate for marriage intended to be solemnized in Scotland, regulation 9D(1), section 31(2) Marriage Act 1949**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_038.gif)
 
-[^M_F_50abe7f0-f856-457a-ceee-b68519bddbc8][^key-275129f63055d09c0296dd2eb879d76a]**Form 12(w), approved certificate for marriage intended to be solemnized in Scotland (with Welsh translation), regulation 9D(1), section 31(2) Marriage Act 1949**
+[^M_F_50abe7f0-f856-457a-ceee-b68519bddbc8][^c-275129f63055d09c0296dd2eb879d76a]**Form 12(w), approved certificate for marriage intended to be solemnized in Scotland (with Welsh translation), regulation 9D(1), section 31(2) Marriage Act 1949**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_039.gif)
 
-[^key-e0add79fd03b0dac36a9184f17bba62a]**Form 13**
+[^c-e0add79fd03b0dac36a9184f17bba62a]**Form 13**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_040.gif)
 
-[^key-817a4773a3c46d9e78987ab04cc68d85]**Form 13A**
+[^c-817a4773a3c46d9e78987ab04cc68d85]**Form 13A**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_007.gif) [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_008.gif)
 
@@ -905,7 +905,7 @@ Regulation 2(2)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_009.gif) [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_010.gif)
 
-[^key-37d352188e5cd217227c02382ff404ee]**Form 14**
+[^c-37d352188e5cd217227c02382ff404ee]**Form 14**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -913,7 +913,7 @@ Regulation 2(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc874a451d97ae9f67743db2c603a683]**Form 14A**
+[^c-fc874a451d97ae9f67743db2c603a683]**Form 14A**
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_011.gif) [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_012.gif)
 
@@ -921,7 +921,7 @@ Regulation 2(2)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_013.gif) [image: see source](https://www.legislation.gov.uk/uksi/2015/207/images/uksi_20150207_en_epp_014.gif)
 
-[^key-d2ffd63f1177be941fb878d7b6d04361]**Form 15**
+[^c-d2ffd63f1177be941fb878d7b6d04361]**Form 15**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -929,15 +929,15 @@ Regulation 2(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0d196f2287cb9df9906ddaef5c11332]**Form 16**
+[^c-f0d196f2287cb9df9906ddaef5c11332]**Form 16**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01b6db1a2c9a0ea459b1196275515d2f]**Form 17**
+[^c-01b6db1a2c9a0ea459b1196275515d2f]**Form 17**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Forms of words in English and Welsh[^key-b93575ffd83737bbbec419caa595d0a3]
+## SCHEDULE 2 — Forms of words in English and Welsh[^c-b93575ffd83737bbbec419caa595d0a3]
 
 Regulation 3(2)
 
@@ -957,11 +957,11 @@ Regulation 3(2)
 | Previously formed a civil partnership at …on … Civil partnership dissolved on … | Ffurfiwyd partneriaeth sifil o’r blaen yn … ar y …; terfynwyd y bartneriaeth sifil ar y … |
 | Previously formed a civil partnership at … on … Civil partnership annulled on … | Ffurfiwyd partneriaeth sifil o’r blaen yn … ar y …; y bartneriaeth sifil wedi’i dirymu ar y … |
 | Deceased | Ymadawedig |
-| Retired[^key-188af98c00172bff3d2f484a87f5581a] | Wedi ymddeol |
+| Retired[^c-188af98c00172bff3d2f484a87f5581a] | Wedi ymddeol |
 | Step-parent | Llys-riant |
-| [^key-e01973c7d7a9b1681d3aa8f8bf14b53e]. . . | [^key-e01973c7d7a9b1681d3aa8f8bf14b53e]. . . |
+| [^c-e01973c7d7a9b1681d3aa8f8bf14b53e]. . . | [^c-e01973c7d7a9b1681d3aa8f8bf14b53e]. . . |
 | Certificate | Tystysgrif |
-| Marriage schedule[^key-a3a536b6ab56a17934b78b5b2ede5ba9] | Atodlen priodas |
+| Marriage schedule[^c-a3a536b6ab56a17934b78b5b2ede5ba9] | Atodlen priodas |
 | Marriage document | Dogfen priodas |
 | Register office | Swyddfa gofrestru |
 | Registrar General’s licence | Trwydded y Cofrestrydd Cyffredinol |
@@ -970,7 +970,7 @@ Regulation 3(2)
 
 Regulation 8
 
-### 1. Interpretation[^key-99bce0bf534ca1ab8e353186a8830dbe]
+### 1. Interpretation[^c-99bce0bf534ca1ab8e353186a8830dbe]
 
 In this Schedule—
 
@@ -990,12 +990,12 @@ In this Schedule—
 - “stateless person” has the same meaning as in Article 1 of the Stateless Convention;
 - “travel document” means a document which is not a passport, allowing a person to travel outside the United Kingdom.
 
-### 2. Evidence of being a relevant national - British or Irish citizen[^key-49afa75eff60d3a41ecab8ec3527f9cd][^key-18522550c0c6d1d2e12e239a4230bc5f]
+### 2. Evidence of being a relevant national - British or Irish citizen[^c-49afa75eff60d3a41ecab8ec3527f9cd][^c-18522550c0c6d1d2e12e239a4230bc5f]
 
 For the purposes of (as applicable) section 8(1)(b)[^f00035], or section 16(1C)[^f00036] of the Act, one of the following original documents (or groups of documents) must be provided by each of the parties to the proposed marriage to the member of the clergy, or (as the case may be) the person with authority to grant a common licence, as evidence that the party (“P”) is a relevant national—
 
-- (a) P’s valid passport showing P to be a British or Irish national[^key-b6be04a31aed0a2cce4fe3400d6990c6];
-- (b)[^key-13f69f0b1c174a948f30af162b9fb1e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) P’s valid passport showing P to be a British or Irish national[^c-b6be04a31aed0a2cce4fe3400d6990c6];
+- (b)[^c-13f69f0b1c174a948f30af162b9fb1e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) certificate of registration as a British citizen granted to P by the Secretary of State together with another document referred to in paragraph 4 of this Schedule (except the letter referred to in paragraph 4(g)), to establish P’s current use of the name and surname referred to on the certificate of registration (or, if P has changed name, evidence of the change of name);
 - (d) certificate of naturalisation as a British citizen granted to P by the Secretary of State, together with another document referred to in paragraph 4 of this Schedule (except the letter referred to in paragraph 4(g)), to establish P’s current use of the name and surname referred to on the certificate of naturalisation (or, if P has changed name, evidence of the change of name);
 - (e) where P was born in the United Kingdom—
@@ -1013,7 +1013,7 @@ For the purposes of (as applicable) section 8(1)(b)[^f00035], or section 16(1C)[
     - (cc) evidence of either of P’s parents’ British citizenship or settled status at the time of P’s birth (e.g. a passport describing the relevant parent as a British citizen or indicating that he or she then had indefinite leave to enter or remain);
 - (f) if none of the documents (or groups of documents) listed in sub-paragraphs (a) to (e) are available to confirm the party’s relevant nationality, such other evidence as the Registrar General determines it is reasonable to accept in the particular circumstances of the case.
 
-### 2A. Evidence of being a relevant national -European Union Settlement Scheme[^key-8d33bfea88c7c73ed15a38812085d499]
+### 2A. Evidence of being a relevant national -European Union Settlement Scheme[^c-8d33bfea88c7c73ed15a38812085d499]
 
 (1) For the purposes of (as applicable) section 8(1)(b), or section 16(1C) of the Act, the following must be provided by each of the parties (P) to the proposed marriage to the member of the clergy, or (as the case may be) the person with authority to grant a common licence, as evidence that P is a relevant national.
 
@@ -1024,12 +1024,12 @@ For the purposes of (as applicable) section 8(1)(b)[^f00035], or section 16(1C)[
   - (i) a certificate of application which confirms that the application referred to in regulation 4 of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 has been made; and
   - (ii) evidence that the relevant period referred to in regulation 4 of those Regulations has not expired must be provided by each of the parties to the proposed marriage to the member of the clergy, or (as the case may be) the person with authority to grant a common licence, as evidence that P is a relevant national.
 
-### 3. Evidence of name, surname, date of birth and nationality[^key-3c2708a5d50378b2be215b0087392934]
+### 3. Evidence of name, surname, date of birth and nationality[^c-3c2708a5d50378b2be215b0087392934]
 
 For the purposes of section 28B(1)(a), (b) and (d) of the Act[^f00037], one of the following original documents (or groups of documents) must be provided to the superintendent registrar by a person (“P”) giving a notice of marriage under section 27 of the Act, as evidence of the name, surname, date of birth and nationality of that person—
 
 - (a) P’s valid passport;
-- (b)[^key-75796675d16327637b34c34b522015b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-75796675d16327637b34c34b522015b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) one of the groups of documents referred to in paragraph 2(c) to (e) of this Schedule (and for these purposes, “P” in paragraph 2(c) to (e) means a person giving a notice of marriage under section 27 of the Act);
 - (d) P’s valid biometric immigration document within the meaning of section 5(1)(a) of the UK Borders Act 2007[^f00038];
 - (e) P’s valid travel document issued in the United Kingdom at the discretion of the Secretary of State to persons who have been formally and, in the view of the Secretary of State, unreasonably, refused a passport by the authorities in their own countries and who have—
@@ -1039,7 +1039,7 @@ For the purposes of section 28B(1)(a), (b) and (d) of the Act[^f00037], one of t
 - (g) valid travel document issued to P pursuant to Article 28 of the Stateless Convention;
 - (h) if none of the documents (or groups of documents) listed in sub-paragraphs (a) to (g) are available to confirm the person’s name, surname, date of birth and nationality, such other document or combination of documents as the Registrar General determines it is reasonable to accept in the particular circumstances of the case.
 
-### 4. Evidence of place of residence[^key-83c9b6832a19aca462ca8f1ff183a8ea]
+### 4. Evidence of place of residence[^c-83c9b6832a19aca462ca8f1ff183a8ea]
 
 (1) For the purposes of section 28B(1)(c) of the Act, one of the following original documents must be provided to the superintendent registrar as evidence of the place of residence of a person giving a notice of marriage under section 27(1) of the Act—
 
@@ -1062,11 +1062,11 @@ For the purposes of section 28B(1)(a), (b) and (d) of the Act[^f00037], one of t
 - (a) be in the name of the person giving notice of marriage, or, where it is in the name of more than one person, one of them must be the person giving notice, and
 - (b) show the person’s place of residence as the address to which the evidence was sent.
 
-### 5. Evidence of ending of previous marriage or civil partnership[^key-03402cd7bf08959fc65abb124b929e2e]
+### 5. Evidence of ending of previous marriage or civil partnership[^c-03402cd7bf08959fc65abb124b929e2e]
 
 (1) For the purposes of section 28B(2) of the Act, one of the following original documents must be provided to the superintendent registrar as evidence of the ending of a previous marriage or civil partnership of a person (“P”) giving a notice of marriage under section 27(1) of the Act—
 
-- (a) P’s decree absolute or final order[^key-4d33e98161b7237efcdb1199b05e4859] of divorce or decree of nullity of marriage or nullity of marriage order[^key-295fbf1e0badd97c6f397f5281d5fb87] granted by a court of civil jurisdiction in England and Wales;
+- (a) P’s decree absolute or final order[^c-4d33e98161b7237efcdb1199b05e4859] of divorce or decree of nullity of marriage or nullity of marriage order[^c-295fbf1e0badd97c6f397f5281d5fb87] granted by a court of civil jurisdiction in England and Wales;
 - (b) P’s dissolution order or nullity order obtained in England or Wales in accordance with Part 2 of the Civil Partnership Act 2004[^f00040];
 - (c) a document, or documents, confirming P’s divorce or annulment granted by a court of civil jurisdiction in any part of the British Islands and recognised in the United Kingdom in accordance with section 44 of the Family Law Act 1986[^f00041];
 - (d) a document, or documents, confirming the dissolution or annulment of P’s civil partnership granted by a court of civil jurisdiction in the United Kingdom and recognised in accordance with section 233 of the Civil Partnership Act 2004;
@@ -1082,7 +1082,7 @@ For the purposes of section 28B(1)(a), (b) and (d) of the Act[^f00037], one of t
 
 (2) Where any document listed in paragraph (1)(c) to (g) or (i) was created outside the United Kingdom and is not in English, a full translation must also be provided.
 
-## SCHEDULE 4 — Revocations[^key-636aee8c8f5875a21dccb5a928342700]
+## SCHEDULE 4 — Revocations[^c-636aee8c8f5875a21dccb5a928342700]
 
 Regulation 24
 
@@ -1138,51 +1138,51 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00011]: Footnote: See sections 28G(6), 31(5E)(d) and 74(1) of the Act, section 18 of the 1970 Act and section 20 of the Registration Service Act 1953. By section 21 of the Registration Service Act 1953 (amended by [S.I. 2008/678](https://www.legislation.gov.uk/uksi/2008/678)) “the Minister” by whom regulations under section 20 must be approved means the Secretary of State.
 
-[^key-058e2357b920d2d6e397bfcdea1af831]: Commencement: Reg. 1 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-058e2357b920d2d6e397bfcdea1af831]: Commencement: Reg. 1 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
-[^key-e7fabf867d6be0f195520d24c036e9b3]: Commencement: Reg. 2 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-e7fabf867d6be0f195520d24c036e9b3]: Commencement: Reg. 2 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
-[^key-e5a4bdec9487a3547f7405d64ae2afca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/2/1) inserted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/uksi/2021/412/regulation/3/a/i)
+[^c-e5a4bdec9487a3547f7405d64ae2afca]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/2/1) inserted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/uksi/2021/412/regulation/3/a/i)
 
-[^key-4420765293f58d91c6ae2da52d1cfd29]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/2/1) inserted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2021/412/regulation/3/a/ii)
+[^c-4420765293f58d91c6ae2da52d1cfd29]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/2/1) inserted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2021/412/regulation/3/a/ii)
 
 [^M_F_0442fb0f-4ce6-4b3a-f300-1d9548077249]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/2/1) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/b), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2021/412/regulation/3/a/ii)
 
-[^key-42c7200386b4485d615185cf1f25f34f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/207/regulation/2/2) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/c), [3(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/3/b)
+[^c-42c7200386b4485d615185cf1f25f34f]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2015/207/regulation/2/2) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/c), [3(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/3/b)
 
-[^key-5138fc7970ff86331f483e76f9c6caf0]: Commencement: Reg. 3 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-5138fc7970ff86331f483e76f9c6caf0]: Commencement: Reg. 3 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
-[^key-97b412a2797433838a669bee0913971f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/3/1) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(2)(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/2/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-97b412a2797433838a669bee0913971f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/3/1) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(2)(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/2/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-6ae1dfee3a255dabff834099fd59845b]: Textual amendment: [Reg. 3(1)(aa)](https://www.legislation.gov.uk/uksi/2015/207/regulation/3/1/aa) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/d), [4(a)](https://www.legislation.gov.uk/uksi/2021/412/regulation/4/a)
+[^c-6ae1dfee3a255dabff834099fd59845b]: Textual amendment: [Reg. 3(1)(aa)](https://www.legislation.gov.uk/uksi/2015/207/regulation/3/1/aa) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/d), [4(a)](https://www.legislation.gov.uk/uksi/2021/412/regulation/4/a)
 
-[^key-6713cc798d6142af85c0195f089e091a]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2015/207/regulation/3/1/b) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(2)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/2/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-6713cc798d6142af85c0195f089e091a]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2015/207/regulation/3/1/b) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(2)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/2/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-9028a108e7b3c850e0a8c764578974f2]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/2015/207/regulation/3/1A)[(1B)](https://www.legislation.gov.uk/uksi/2015/207/regulation/3/1B) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/d), [4(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/4/b)
+[^c-9028a108e7b3c850e0a8c764578974f2]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/uksi/2015/207/regulation/3/1A)[(1B)](https://www.legislation.gov.uk/uksi/2015/207/regulation/3/1B) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(d)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/d), [4(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/4/b)
 
-[^key-233ece98659d4ee827ce51a31fd49429]: Commencement: Reg. 4 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-233ece98659d4ee827ce51a31fd49429]: Commencement: Reg. 4 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
 [^f00012]: Footnote: Section 27(1) was amended by sections 161(1) and 169 of, paragraph 8 of Schedule 14 to, and paragraph 1 of Schedule 16 to, the Immigration and Asylum Act [1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33).
 
 [^f00013]: Footnote: “Relevant national” is defined in section 78(1) of the Act (definition inserted by paragraph 17 of Schedule 4 to the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22)), and means a British citizen, a national of an EEA state other than the United Kingdom, or a national of Switzerland.
 
-[^key-b03eafb28b4e738df8b9b74f5daa25c5]: Textual amendment: Words in [reg. 4(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/207/regulation/4/1/a/ii) inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-b03eafb28b4e738df8b9b74f5daa25c5]: Textual amendment: Words in [reg. 4(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/207/regulation/4/1/a/ii) inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-aff1acb048dc41d026b7eeae85876467]: Textual amendment: Words in [reg. 4(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/207/regulation/4/1/b/ii) inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-aff1acb048dc41d026b7eeae85876467]: Textual amendment: Words in [reg. 4(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/207/regulation/4/1/b/ii) inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-fe40e0518acee097d8860dcc26f9d3ee]: Commencement: Reg. 5 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-fe40e0518acee097d8860dcc26f9d3ee]: Commencement: Reg. 5 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
 [^f00014]: Footnote: Section 35(1) was amended by section 2 of the Marriage Act 1949 (Amendment) Act [1954 (c. 47)](https://www.legislation.gov.uk/ukpga/1954/47); section 169(1) and (3) of, paragraph 17(2)(b) of Schedule 14 to, and paragraph 1 of Schedule 16 to, the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-54deb43675ca7a797e27caca2fd08e49]: Commencement: Reg. 6 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-54deb43675ca7a797e27caca2fd08e49]: Commencement: Reg. 6 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
 [^f00015]: Footnote: Section 27A was amended by section 169(1) of, and paragraph 9 of Schedule 14 to, the Immigration and Asylum Act 1999.
 
-[^key-3cfec19f260e214b103f8de58d519679]: Commencement: Reg. 7 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-3cfec19f260e214b103f8de58d519679]: Commencement: Reg. 7 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
 [^f00016]: Footnote: Section 27B(2) was amended by [S.I. 2009/2821](https://www.legislation.gov.uk/uksi/2009/2821).
 
-[^key-1144600a19733343e9b52bbe4910c970]: Commencement: Reg. 8 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-1144600a19733343e9b52bbe4910c970]: Commencement: Reg. 8 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
 [^f00017]: Footnote: Section 8 was amended by section 57(3) of the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
 
@@ -1190,145 +1190,145 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00019]: Footnote: Section 28B was inserted by paragraph 7 of Schedule 4 to the Immigration Act 2014.
 
-[^key-a6bdb84e3c00ebda903a4793c2dfb6b1]: Commencement: Reg. 9 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-a6bdb84e3c00ebda903a4793c2dfb6b1]: Commencement: Reg. 9 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
 [^f00020]: Footnote: Section 31(5A) was inserted by section 160(6) of the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), and amended by [S.I. 2008/678](https://www.legislation.gov.uk/uksi/2008/678) and by paragraph 10(2) of Schedule 4 to the Immigration Act 2014.
 
-[^key-df59099c19b03a540f5cb0a9f8787310]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2015/207/regulation/9/2) omitted (1.11.2017) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) Regulations 2017 (S.I. 2017/947)](https://www.legislation.gov.uk/uksi/2017/947), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/947/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2017/947/regulation/5)
+[^c-df59099c19b03a540f5cb0a9f8787310]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2015/207/regulation/9/2) omitted (1.11.2017) by virtue of [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) (Amendment) Regulations 2017 (S.I. 2017/947)](https://www.legislation.gov.uk/uksi/2017/947), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/947/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2017/947/regulation/5)
 
 [^M_F_be8b78fe-6232-44fc-fc18-cdb949f8dc39]: Textual amendment: Words in reg. 9(5) substituted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/4)
 
-[^key-cf375c7b199b98cfa991da00ae0c1b7b]: Textual amendment: [Regs. 9A-9C](https://www.legislation.gov.uk/uksi/2015/207/regulation/9A) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/e), [5](https://www.legislation.gov.uk/uksi/2021/412/regulation/5)
+[^c-cf375c7b199b98cfa991da00ae0c1b7b]: Textual amendment: [Regs. 9A-9C](https://www.legislation.gov.uk/uksi/2015/207/regulation/9A) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/e), [5](https://www.legislation.gov.uk/uksi/2021/412/regulation/5)
 
-[^key-0ee4f9558278fb35215a178eb43de499]: Textual amendment: [Reg. 9D](https://www.legislation.gov.uk/uksi/2015/207/regulation/9D) inserted (E.W.S.) (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2021/412/regulation/5)
+[^c-0ee4f9558278fb35215a178eb43de499]: Textual amendment: [Reg. 9D](https://www.legislation.gov.uk/uksi/2015/207/regulation/9D) inserted (E.W.S.) (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2021/412/regulation/5)
 
-[^key-792629b6d3348fd5a1b9ac1cf0992294]: Commencement: Reg. 10 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-792629b6d3348fd5a1b9ac1cf0992294]: Commencement: Reg. 10 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
-[^key-a6997ceb7d9ca18015a25f1fd9faf25d]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/207/regulation/10) heading substituted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2021/412/regulation/6/a)
+[^c-a6997ceb7d9ca18015a25f1fd9faf25d]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/207/regulation/10) heading substituted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2021/412/regulation/6/a)
 
-[^key-209a44bb4c6431c8d537558709a3a159]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/10/1) omitted (4.5.2021) by virtue of [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/6/b)
+[^c-209a44bb4c6431c8d537558709a3a159]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/10/1) omitted (4.5.2021) by virtue of [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/6/b)
 
-[^key-c071d7a10201edad8e61d1c228637e2f]: Textual amendment: [Regs. 10A-10C](https://www.legislation.gov.uk/uksi/2015/207/regulation/10A) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(f)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/f), [7](https://www.legislation.gov.uk/uksi/2021/412/regulation/7)
+[^c-c071d7a10201edad8e61d1c228637e2f]: Textual amendment: [Regs. 10A-10C](https://www.legislation.gov.uk/uksi/2015/207/regulation/10A) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(f)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/f), [7](https://www.legislation.gov.uk/uksi/2021/412/regulation/7)
 
-[^key-76d7ae4fe3a30cf25dd8b93fa419fb15]: Commencement: Reg. 11 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-76d7ae4fe3a30cf25dd8b93fa419fb15]: Commencement: Reg. 11 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
-[^key-f555c98b85e13f044ba27de46e9d2d07]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/11/1) omitted (4.5.2021) by virtue of [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2021/412/regulation/9)
+[^c-f555c98b85e13f044ba27de46e9d2d07]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/2015/207/regulation/11/1) omitted (4.5.2021) by virtue of [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2021/412/regulation/9)
 
-[^key-e64bd90e0a19e6652f11b5d6b34948d8]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2015/207/regulation/11/2) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(f)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/f), [8(c)](https://www.legislation.gov.uk/uksi/2021/412/regulation/8/c)
+[^c-e64bd90e0a19e6652f11b5d6b34948d8]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2015/207/regulation/11/2) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(f)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/f), [8(c)](https://www.legislation.gov.uk/uksi/2021/412/regulation/8/c)
 
-[^key-e8a2a247383385f49ca66d8a80daf53b]: Textual amendment: [Pts. 2A-2C](https://www.legislation.gov.uk/uksi/2015/207/part/2A) inserted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2021/412/regulation/10)
+[^c-e8a2a247383385f49ca66d8a80daf53b]: Textual amendment: [Pts. 2A-2C](https://www.legislation.gov.uk/uksi/2015/207/part/2A) inserted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2021/412/regulation/10)
 
-[^key-edc218e8c20e807cdaa3b36e4300b1af]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2015/207/part/3) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-edc218e8c20e807cdaa3b36e4300b1af]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2015/207/part/3) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-1456a52187e261c576fc161845bddbb2]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2015/207/part/4) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-1456a52187e261c576fc161845bddbb2]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2015/207/part/4) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-d2754bc04250ee3389f3da5988dec6b0]: Commencement: Reg. 21 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-d2754bc04250ee3389f3da5988dec6b0]: Commencement: Reg. 21 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
-[^key-bb81c55e317cc0ea7ef498d2e5a8ee68]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/207/regulation/22) omitted (1.8.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(10)(d)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/d), [Sch. 1 para. 70(4)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-bb81c55e317cc0ea7ef498d2e5a8ee68]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/207/regulation/22) omitted (1.8.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(10)(d)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/d), [Sch. 1 para. 70(4)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-8c00a0cb77109f67ace446e42dad83b4]: Commencement: Reg. 23 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-8c00a0cb77109f67ace446e42dad83b4]: Commencement: Reg. 23 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
 [^f00026]: Footnote: [1911 c. 6](https://www.legislation.gov.uk/ukpga/1911/6).
 
 [^f00027]: Footnote: [1981 c. 45](https://www.legislation.gov.uk/ukpga/1981/45).
 
-[^key-f2d27637f22ab92dc81f7cc9fb83c91b]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2015/207/regulation/23/2) omitted (1.8.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(10)(d)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/d), [Sch. 1 para. 70(5)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/5) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-f2d27637f22ab92dc81f7cc9fb83c91b]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/uksi/2015/207/regulation/23/2) omitted (1.8.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(10)(d)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/d), [Sch. 1 para. 70(5)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/5) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
 [^f00028]: Footnote: Section 76(1) and (2) was amended by sections 38 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48).
 
-[^key-ee592f1159ac2c8308314eb7e17914b2]: Commencement: Reg. 24 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-ee592f1159ac2c8308314eb7e17914b2]: Commencement: Reg. 24 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
-[^key-7ee9e75209e1daf90d8e13c1019689ae]: Commencement: Sch. 1 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-7ee9e75209e1daf90d8e13c1019689ae]: Commencement: Sch. 1 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
-[^key-1e5476f2fa52c637870941b79d6df889]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/a/i); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-1e5476f2fa52c637870941b79d6df889]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/a/i); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-47c5487a22a45ae45d31ba6af65d7372]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/a/ii); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-47c5487a22a45ae45d31ba6af65d7372]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/a/ii); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-d9b7fdb29a6e45542f9976ebbf08ecde]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/a/iii); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-d9b7fdb29a6e45542f9976ebbf08ecde]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/a/iii); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-97e89b87a17629c3218f2ef63354c4d0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/a/iv); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-97e89b87a17629c3218f2ef63354c4d0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(a)(iv)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/a/iv); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-70965dcae9746c5fed4d4aed29817f9d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(g)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/g), [11(2)(a)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/2/a)
+[^c-70965dcae9746c5fed4d4aed29817f9d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(g)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/g), [11(2)(a)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/2/a)
 
-[^key-a0805c4396d3de4e3a12df906f608692]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table substituted (E.W.S.) (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/2/b)
+[^c-a0805c4396d3de4e3a12df906f608692]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table substituted (E.W.S.) (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/2/b)
 
-[^key-822add0eb76f1af68e6b2a9e260e2658]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(g)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/g), [11(2)(c)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/2/c)
+[^c-822add0eb76f1af68e6b2a9e260e2658]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(g)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/g), [11(2)(c)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/2/c)
 
-[^key-44e91e93a7d0d52e5eacae8df47f3b06]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table omitted (4.5.2021) by virtue of [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/3)
+[^c-44e91e93a7d0d52e5eacae8df47f3b06]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table omitted (4.5.2021) by virtue of [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/3)
 
-[^key-d9c9a4e5c610681252e1787478949580]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table substituted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(g)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/g), [11(2)(d)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/2/d)
+[^c-d9c9a4e5c610681252e1787478949580]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table substituted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(g)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/g), [11(2)(d)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/2/d)
 
-[^key-e633073cdc0b48d1c06150d6b7fad5ca]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(10)(e)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/e), [Sch. 1 para. 70(6)(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-e633073cdc0b48d1c06150d6b7fad5ca]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(10)(e)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/e), [Sch. 1 para. 70(6)(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-ce0e37189af49f6f9712844d76443b0a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table omitted (1.8.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(10)(e)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/e), [Sch. 1 para. 70(6)(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-ce0e37189af49f6f9712844d76443b0a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) table omitted (1.8.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(10)(e)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/e), [Sch. 1 para. 70(6)(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-7686168ae74e3a1450df0337f7d88130]: Textual amendment: Sch. 1 Form 1 substituted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/1)
+[^c-7686168ae74e3a1450df0337f7d88130]: Textual amendment: Sch. 1 Form 1 substituted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/1)
 
 [^M_F_c9e576e2-0c94-479e-b726-2bcd1f04cf1e]: Textual amendment: Sch. 1 Form 1(w) substituted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/1)
 
-[^key-9f68b6af7389b903cc0b67e6a6cfc0b6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 2 substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-9f68b6af7389b903cc0b67e6a6cfc0b6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 2 substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-21a6520fdf91d3c7476a7406d38406e8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 2(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-21a6520fdf91d3c7476a7406d38406e8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 2(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-55c99f0009c91cf6a42d571deaf36fd9]: Textual amendment: Sch. 1 Form 3 substituted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(6)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/6), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/1)
+[^c-55c99f0009c91cf6a42d571deaf36fd9]: Textual amendment: Sch. 1 Form 3 substituted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(6)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/6), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/1)
 
 [^M_F_8c2d61de-dc3e-4c31-e8d7-c2a35b8f5d8d]: Textual amendment: Sch. 1 Form 3(w) substituted (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(6)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/6), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/1)
 
-[^key-a8f122b4001b2bc4ed65e98eb2a47655]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 4 substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-a8f122b4001b2bc4ed65e98eb2a47655]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 4 substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-3c1feaf349f59e49b1ee6ad2407cf263]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 4(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-3c1feaf349f59e49b1ee6ad2407cf263]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 4(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-9ec2aad4ebda8d36775d0d23ecddecb1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 5 substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-9ec2aad4ebda8d36775d0d23ecddecb1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 5 substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-37ecbf1df8378954044d05172dd07e3b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 5(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-37ecbf1df8378954044d05172dd07e3b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 5(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-e4d90fa1ad8568f17ddbf50f11e514b6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 8 substituted (27.5.2025) by [The Registration of Marriages and Civil Partnerships (Registration Provisions) (Amendment) Regulations 2025 (S.I. 2025/569)](https://www.legislation.gov.uk/uksi/2025/569), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/569/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2025/569/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2025/569/schedule)
+[^c-e4d90fa1ad8568f17ddbf50f11e514b6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 8 substituted (27.5.2025) by [The Registration of Marriages and Civil Partnerships (Registration Provisions) (Amendment) Regulations 2025 (S.I. 2025/569)](https://www.legislation.gov.uk/uksi/2025/569), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/569/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2025/569/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2025/569/schedule)
 
-[^key-be564d76bbdcb13f5b0d40e414968fe9]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 8(w) substituted (27.5.2025) by [The Registration of Marriages and Civil Partnerships (Registration Provisions) (Amendment) Regulations 2025 (S.I. 2025/569)](https://www.legislation.gov.uk/uksi/2025/569), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/569/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2025/569/regulation/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2025/569/schedule)
+[^c-be564d76bbdcb13f5b0d40e414968fe9]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 8(w) substituted (27.5.2025) by [The Registration of Marriages and Civil Partnerships (Registration Provisions) (Amendment) Regulations 2025 (S.I. 2025/569)](https://www.legislation.gov.uk/uksi/2025/569), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/569/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2025/569/regulation/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2025/569/schedule)
 
-[^key-26f2209b49c2e85d48a8339bcbbf3990]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 11A substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-26f2209b49c2e85d48a8339bcbbf3990]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 11A substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-3ab77321c605ae07d38b3b44a9d0bc1a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 11A(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-3ab77321c605ae07d38b3b44a9d0bc1a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 11A(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-4773094eaa4325fc914f2cd69392e34b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 11B substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-4773094eaa4325fc914f2cd69392e34b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 11B substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-59fa8acad679bb7d2c95f1ef671a0678]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 11B(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-59fa8acad679bb7d2c95f1ef671a0678]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 11B(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-eb3732f38c09e7114f048d98f91dc93d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 12 heading substituted (E.W.S) (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(9)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/9), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/1)
+[^c-eb3732f38c09e7114f048d98f91dc93d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 12 heading substituted (E.W.S) (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(9)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/9), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/1)
 
-[^key-eb6e0ee128c9bf3195111ec812089612]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 12 substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-eb6e0ee128c9bf3195111ec812089612]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 12 substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
 [^M_F_50abe7f0-f856-457a-ceee-b68519bddbc8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 12(w) heading substituted (E.W.S) (4.5.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(9)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/9), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/1)
 
-[^key-275129f63055d09c0296dd2eb879d76a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 12(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-275129f63055d09c0296dd2eb879d76a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 12(w) substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-e0add79fd03b0dac36a9184f17bba62a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 13 substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
+[^c-e0add79fd03b0dac36a9184f17bba62a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 13 substituted (27.2.2023) by [The Marriage and Civil Partnership (Minimum Age) Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/82)](https://www.legislation.gov.uk/uksi/2023/82), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/82/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2023/82/regulation/8/3/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/82/schedule/part/2); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2)
 
-[^key-817a4773a3c46d9e78987ab04cc68d85]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Forms 13A, 13A(w) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(g)(i)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/g/i), [11(11)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/11), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/2)
+[^c-817a4773a3c46d9e78987ab04cc68d85]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Forms 13A, 13A(w) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(g)(i)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/g/i), [11(11)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/11), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/2)
 
-[^key-37d352188e5cd217227c02382ff404ee]: Textual amendment: Sch. 1 Form 14 omitted (4.5.2021) by virtue of [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(12)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/12)
+[^c-37d352188e5cd217227c02382ff404ee]: Textual amendment: Sch. 1 Form 14 omitted (4.5.2021) by virtue of [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(12)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/12)
 
 [^M_F_2c74daa7-4e3c-401f-e281-fa6c33961955]: Textual amendment: Sch. 1 Form 14(w) omitted (4.5.2021) by virtue of [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/2), [11(12)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/12)
 
-[^key-fc874a451d97ae9f67743db2c603a683]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Forms 14A, 14A(w) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(g)(i)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/g/i), [11(13)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/13), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/2)
+[^c-fc874a451d97ae9f67743db2c603a683]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Forms 14A, 14A(w) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(g)(i)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/g/i), [11(13)](https://www.legislation.gov.uk/uksi/2021/412/regulation/11/13), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2021/412/schedule/part/2)
 
-[^key-d2ffd63f1177be941fb878d7b6d04361]: Textual amendment: Sch. 1 Form 15 omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(6)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-d2ffd63f1177be941fb878d7b6d04361]: Textual amendment: Sch. 1 Form 15 omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(6)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
 [^M_F_4c9e2bc0-6916-4cb7-b386-a92c3179b902]: Textual amendment: Sch. 1 Form 15(w) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(6)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-f0d196f2287cb9df9906ddaef5c11332]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 16 omitted (1.8.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(10)(f)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/f), [Sch. 1 para. 70(6)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-f0d196f2287cb9df9906ddaef5c11332]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 16 omitted (1.8.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(10)(f)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/f), [Sch. 1 para. 70(6)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-01b6db1a2c9a0ea459b1196275515d2f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 17 omitted (1.8.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(10)(f)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/f), [Sch. 1 para. 70(6)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-01b6db1a2c9a0ea459b1196275515d2f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/207/schedule/1) Form 17 omitted (1.8.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(10)(f)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/10/f), [Sch. 1 para. 70(6)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/6/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-b93575ffd83737bbbec419caa595d0a3]: Commencement: Sch. 2 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-b93575ffd83737bbbec419caa595d0a3]: Commencement: Sch. 2 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
-[^key-188af98c00172bff3d2f484a87f5581a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/207/schedule/2) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(h)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/h), [12(a)](https://www.legislation.gov.uk/uksi/2021/412/regulation/12/a)
+[^c-188af98c00172bff3d2f484a87f5581a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/207/schedule/2) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(h)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/h), [12(a)](https://www.legislation.gov.uk/uksi/2021/412/regulation/12/a)
 
-[^key-e01973c7d7a9b1681d3aa8f8bf14b53e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/207/schedule/2) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(7)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-e01973c7d7a9b1681d3aa8f8bf14b53e]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/207/schedule/2) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 70(7)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/70/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-a3a536b6ab56a17934b78b5b2ede5ba9]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/207/schedule/2) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(h)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/h), [12(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/12/b)
+[^c-a3a536b6ab56a17934b78b5b2ede5ba9]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2015/207/schedule/2) inserted (19.4.2021) by [The Registration of Marriages (Amendment) Regulations 2021 (S.I. 2021/412)](https://www.legislation.gov.uk/uksi/2021/412), [regs. 1(3)(h)](https://www.legislation.gov.uk/uksi/2021/412/regulation/1/3/h), [12(b)](https://www.legislation.gov.uk/uksi/2021/412/regulation/12/b)
 
-[^key-99bce0bf534ca1ab8e353186a8830dbe]: Commencement: Sch. 3 para. 1 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-99bce0bf534ca1ab8e353186a8830dbe]: Commencement: Sch. 3 para. 1 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
 [^f00029]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
@@ -1342,37 +1342,37 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00034]: Footnote: United Nations, Treaty Series, volume 360 at page 117.
 
-[^key-49afa75eff60d3a41ecab8ec3527f9cd]: Commencement: Sch. 3 para. 2 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-49afa75eff60d3a41ecab8ec3527f9cd]: Commencement: Sch. 3 para. 2 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
-[^key-18522550c0c6d1d2e12e239a4230bc5f]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/2) heading substituted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [42(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/42/2/a/i)
+[^c-18522550c0c6d1d2e12e239a4230bc5f]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/2) heading substituted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [42(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/42/2/a/i)
 
 [^f00035]: Footnote: Section 8 was amended by section 57(3) of the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
 
 [^f00036]: Footnote: Section 16 was amended by section 57(4) of the Immigration Act 2014.
 
-[^key-b6be04a31aed0a2cce4fe3400d6990c6]: Textual amendment: Words in [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/2/a) substituted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [42(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/42/2/a/ii)
+[^c-b6be04a31aed0a2cce4fe3400d6990c6]: Textual amendment: Words in [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/2/a) substituted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [42(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/42/2/a/ii)
 
-[^key-13f69f0b1c174a948f30af162b9fb1e2]: Textual amendment: [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/2/b) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [42(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/42/2/a/iii)
+[^c-13f69f0b1c174a948f30af162b9fb1e2]: Textual amendment: [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/2/b) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [42(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/42/2/a/iii)
 
-[^key-8d33bfea88c7c73ed15a38812085d499]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/2A) inserted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [42(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/42/2/b)
+[^c-8d33bfea88c7c73ed15a38812085d499]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/2A) inserted (1.7.2021) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [42(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/42/2/b)
 
-[^key-3c2708a5d50378b2be215b0087392934]: Commencement: Sch. 3 para. 3 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-3c2708a5d50378b2be215b0087392934]: Commencement: Sch. 3 para. 3 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
 [^f00037]: Footnote: Section 28B was inserted by paragraph 7 of Schedule 4 to the Immigration Act [2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22).
 
-[^key-75796675d16327637b34c34b522015b9]: Textual amendment: [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/3/b) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [42(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/42/2/c)
+[^c-75796675d16327637b34c34b522015b9]: Textual amendment: [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/3/b) omitted (1.7.2021) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c), [42(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/42/2/c)
 
 [^f00038]: Footnote: [2007 c. 30](https://www.legislation.gov.uk/ukpga/2007/30).
 
 [^f00039]: Footnote: United Nations, Treaty Series, volume 189 at page 137.
 
-[^key-83c9b6832a19aca462ca8f1ff183a8ea]: Commencement: Sch. 3 para. 4 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-83c9b6832a19aca462ca8f1ff183a8ea]: Commencement: Sch. 3 para. 4 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
-[^key-03402cd7bf08959fc65abb124b929e2e]: Commencement: Sch. 3 para. 5 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-03402cd7bf08959fc65abb124b929e2e]: Commencement: Sch. 3 para. 5 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
-[^key-4d33e98161b7237efcdb1199b05e4859]: Textual amendment: Words in [Sch. 3 para. 5(1)(a)](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/5/1/a) inserted (1.8.2023) by [The Divorce, Dissolution and Separation Act 2020 (Consequential Amendments) Regulations 2023 (S.I. 2023/759)](https://www.legislation.gov.uk/uksi/2023/759), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/759/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2023/759/regulation/2/a)
+[^c-4d33e98161b7237efcdb1199b05e4859]: Textual amendment: Words in [Sch. 3 para. 5(1)(a)](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/5/1/a) inserted (1.8.2023) by [The Divorce, Dissolution and Separation Act 2020 (Consequential Amendments) Regulations 2023 (S.I. 2023/759)](https://www.legislation.gov.uk/uksi/2023/759), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/759/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2023/759/regulation/2/a)
 
-[^key-295fbf1e0badd97c6f397f5281d5fb87]: Textual amendment: Words in [Sch. 3 para. 5(1)(a)](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/5/1/a) inserted (1.8.2023) by [The Divorce, Dissolution and Separation Act 2020 (Consequential Amendments) Regulations 2023 (S.I. 2023/759)](https://www.legislation.gov.uk/uksi/2023/759), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/759/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2023/759/regulation/2/b)
+[^c-295fbf1e0badd97c6f397f5281d5fb87]: Textual amendment: Words in [Sch. 3 para. 5(1)(a)](https://www.legislation.gov.uk/uksi/2015/207/schedule/3/paragraph/5/1/a) inserted (1.8.2023) by [The Divorce, Dissolution and Separation Act 2020 (Consequential Amendments) Regulations 2023 (S.I. 2023/759)](https://www.legislation.gov.uk/uksi/2023/759), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/759/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2023/759/regulation/2/b)
 
 [^f00040]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 
@@ -1386,7 +1386,7 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00045]: Footnote: [2013 c. 13](https://www.legislation.gov.uk/ukpga/2013/13).
 
-[^key-636aee8c8f5875a21dccb5a928342700]: Commencement: Sch. 4 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
+[^c-636aee8c8f5875a21dccb5a928342700]: Commencement: Sch. 4 in force at 2.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/207/regulation/1)
 
 [^f00046]: Footnote: [S.I. 1986/1442](https://www.legislation.gov.uk/uksi/1986/1442) was amended by [S.I. 1987/2088](https://www.legislation.gov.uk/uksi/1987/2088); [S.I. 1995/744](https://www.legislation.gov.uk/uksi/1995/744); [S.I. 1997/2204](https://www.legislation.gov.uk/uksi/1997/2204); [S.I. 2000/3164](https://www.legislation.gov.uk/uksi/2000/3164); [S.I. 2005/155](https://www.legislation.gov.uk/uksi/2005/155); [S.I. 2005/3177](https://www.legislation.gov.uk/uksi/2005/3177); [S.I. 2007/2164](https://www.legislation.gov.uk/uksi/2007/2164); [S.I. 2009/2806](https://www.legislation.gov.uk/uksi/2009/2806); [S.I. 2011/1172](https://www.legislation.gov.uk/uksi/2011/1172); [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107) and [S.I. 2014/3061](https://www.legislation.gov.uk/uksi/2014/3061).
 

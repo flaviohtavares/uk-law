@@ -35,24 +35,24 @@ amending Council Regulation (EC) No 2223/96 with respect to the transmission of
 
 (Text with EEA relevance) (revoked)
 
-[^key-83db2d0a6b381df4e73dbb356a67a740]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83db2d0a6b381df4e73dbb356a67a740]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-83db2d0a6b381df4e73dbb356a67a740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-83db2d0a6b381df4e73dbb356a67a740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-83db2d0a6b381df4e73dbb356a67a740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-83db2d0a6b381df4e73dbb356a67a740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-83db2d0a6b381df4e73dbb356a67a740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-83db2d0a6b381df4e73dbb356a67a740] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-83db2d0a6b381df4e73dbb356a67a740]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83db2d0a6b381df4e73dbb356a67a740]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-83db2d0a6b381df4e73dbb356a67a740]
+## ANNEX[^c-83db2d0a6b381df4e73dbb356a67a740]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-83db2d0a6b381df4e73dbb356a67a740]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/56)
+[^c-83db2d0a6b381df4e73dbb356a67a740]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/56)

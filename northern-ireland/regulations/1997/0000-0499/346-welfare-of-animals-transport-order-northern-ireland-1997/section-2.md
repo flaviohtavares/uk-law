@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-4fd5e7013a769abf2dfe4bd7ee0018cd]
+## 2. Interpretation[^c-4fd5e7013a769abf2dfe4bd7ee0018cd]
 
 *Extent: N.I.*
 
@@ -75,7 +75,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4fd5e7013a769abf2dfe4bd7ee0018cd]: Commencement: Art. 2 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-4fd5e7013a769abf2dfe4bd7ee0018cd]: Commencement: Art. 2 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
 [^f00004]: Footnote: O.J. No. L121, 29.7.64 (Special Edition 1963-64, p. 164) as amended and updated by Council Directive [97/12/EC](https://www.legislation.gov.uk/european/directive/1997/0012) (O.J. No. L109, 25.4.97, p. 1)
 

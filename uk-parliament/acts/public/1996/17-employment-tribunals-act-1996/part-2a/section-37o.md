@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37O. Modification in particular cases[^key-dc47ac277ab531f58e439e91868aaf6c]
+## 37O. Modification in particular cases[^c-dc47ac277ab531f58e439e91868aaf6c]
 
 *Extent: E+W+S*
 
@@ -31,11 +31,11 @@ summary: ''
 
 (4) Regulations under subsection (3) may in particular provide—
 
-- (a) for any provision of this Part to apply, or to apply if the Secretary of State[^key-ccf16b1bc528959ce5c16e6cedea1691] so determines, as if the application had not been, and could not be, made;
+- (a) for any provision of this Part to apply, or to apply if the Secretary of State[^c-ccf16b1bc528959ce5c16e6cedea1691] so determines, as if the application had not been, and could not be, made;
 - (b) for any costs sum the amount of which is subsequently determined, or the order for which is subsequently made, to be treated for the purposes of this Part as a separate relevant sum.
 
 ## Annotations
 
-[^key-dc47ac277ab531f58e439e91868aaf6c]: Textual amendment: Pt. 2A inserted (6.4.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 150(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/8)); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)
+[^c-dc47ac277ab531f58e439e91868aaf6c]: Textual amendment: Pt. 2A inserted (6.4.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 150(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/8)); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)
 
-[^key-ccf16b1bc528959ce5c16e6cedea1691]: Textual amendment: Words in s. 37O(4)(a) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/14) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)
+[^c-ccf16b1bc528959ce5c16e6cedea1691]: Textual amendment: Words in s. 37O(4)(a) substituted (7.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/14) (with [s. 147, Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/section/147/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(55)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/a)

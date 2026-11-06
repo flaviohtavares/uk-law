@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Regulations about authorisation procedure[^key-b9a743a583a48ca91516cc3b57bcf932]
+## 11. Regulations about authorisation procedure[^c-b9a743a583a48ca91516cc3b57bcf932]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9a743a583a48ca91516cc3b57bcf932]: Commencement: S. 11 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-b9a743a583a48ca91516cc3b57bcf932]: Commencement: S. 11 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

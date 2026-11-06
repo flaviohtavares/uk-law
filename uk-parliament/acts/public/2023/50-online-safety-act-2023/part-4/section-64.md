@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. User identity verification[^key-ba568e29ba9893a45c191452e0dd6d00]
+## 64. User identity verification[^c-ba568e29ba9893a45c191452e0dd6d00]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba568e29ba9893a45c191452e0dd6d00]: Commencement: S. 64 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240)
+[^c-ba568e29ba9893a45c191452e0dd6d00]: Commencement: S. 64 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240)

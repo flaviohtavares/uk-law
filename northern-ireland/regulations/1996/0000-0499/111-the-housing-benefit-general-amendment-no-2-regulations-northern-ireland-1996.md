@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1)(*d*), 129(2) to (4), 131(1) and 171(5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and sections 5(1)(*h*) and (*p*) and 61(1) to (3) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as its consent is required, and after agreement by the Social Security Advisory Committee that proposals to make these Regulations should not be referred to it[^f00004], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-8b29cc7a3573c862694fcb6f1f886653]
+## 1. Citation, commencement and interpretation[^c-8b29cc7a3573c862694fcb6f1f886653]
 
 (1) These Regulations may be cited as the Housing Benefit (General) (Amendment No. 2) Regulations (Northern Ireland) 1996 and shall come into operation on 2nd April 1996.
 
@@ -48,7 +48,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of regulation 2 of the principal Regulations[^key-843dfb6c6d3db904a4b87b15b7683796]
+## 2. Amendment of regulation 2 of the principal Regulations[^c-843dfb6c6d3db904a4b87b15b7683796]
 
 In regulation 2(1) of the principal Regulations (interpretation), after the definition of “maternity leave”[^f00007] there shall be inserted the following definition—
 
@@ -56,15 +56,15 @@ In regulation 2(1) of the principal Regulations (interpretation), after the defi
 
 .
 
-## 3. Amendment of regulation 8 of the principal Regulations[^key-86af2ab67527c41bcfa9d7e3afb0b6c3]
+## 3. Amendment of regulation 8 of the principal Regulations[^c-86af2ab67527c41bcfa9d7e3afb0b6c3]
 
 In regulation 8(1)(*b*) of the principal Regulations (eligible housing costs)[^f00008] for “regulation 10(3) (rent)” there shall be substituted “regulations 10(3), (6A) and (6B) (rent) and 11 (maximum rent)”.
 
-## 4. Amendment of regulation 9 of the principal Regulations[^key-831a4b0a4d2a358ea8035f92bdcb3873]
+## 4. Amendment of regulation 9 of the principal Regulations[^c-831a4b0a4d2a358ea8035f92bdcb3873]
 
 In regulation 9(3) of the principal Regulations (rates) the words “and to regulation 11 (restrictions on unreasonable payments)” shall be omitted.
 
-## 5. Amendment of regulation 10 of the principal Regulations[^key-8a2e49a20d7a82184e86713b078dd36d]
+## 5. Amendment of regulation 10 of the principal Regulations[^c-8a2e49a20d7a82184e86713b078dd36d]
 
 In regulation 10 of the principal Regulations (rent)[^f00009]—
 
@@ -78,7 +78,7 @@ In regulation 10 of the principal Regulations (rent)[^f00009]—
 
   .
 
-## 6. Insertion of regulation 10A into the principal Regulations[^key-c092e924010009a4e268be0b23d06c44]
+## 6. Insertion of regulation 10A into the principal Regulations[^c-c092e924010009a4e268be0b23d06c44]
 
 After regulation 10 of the principal Regulations (rent) there shall be inserted the following regulation—
 
@@ -107,7 +107,7 @@ After regulation 10 of the principal Regulations (rent) there shall be inserted 
 
 .
 
-## 7. Substitution of regulation 11 of the principal Regulations[^key-40960d19e6c90c7337f9aab671b3b101]
+## 7. Substitution of regulation 11 of the principal Regulations[^c-40960d19e6c90c7337f9aab671b3b101]
 
 For regulation 11 of the principal Regulations (restrictions on unreasonable payments) there shall be substituted the following regulation—
 
@@ -188,11 +188,11 @@ For regulation 11 of the principal Regulations (restrictions on unreasonable pay
 
 .
 
-## 8. Amendment of regulation 12 of the principal Regulations[^key-6c2351f83906c780ea7012ffaf9637da]
+## 8. Amendment of regulation 12 of the principal Regulations[^c-6c2351f83906c780ea7012ffaf9637da]
 
 In regulation 12(2) of the principal Regulations (restrictions on rent increases)[^f00015] for “regulation 11(7)” there shall be substituted “regulation 11(14)”.
 
-## 9. Insertion of regulation 12A in the principal Regulations[^key-1692cbb6f48f33a964b1385dd00ab338]
+## 9. Insertion of regulation 12A in the principal Regulations[^c-1692cbb6f48f33a964b1385dd00ab338]
 
 After regulation 12 of the principal Regulations (restrictions on rent increases) there shall be inserted the following regulation—
 
@@ -235,7 +235,7 @@ After regulation 12 of the principal Regulations (restrictions on rent increases
 
 .
 
-## 10. Amendment of regulation 61 of the principal Regulations[^key-258010dd16e0a30adf30fc6da426bb96]
+## 10. Amendment of regulation 61 of the principal Regulations[^c-258010dd16e0a30adf30fc6da426bb96]
 
 In regulation 61 of the principal Regulations (maximum housing benefit)[^f00019]—
 
@@ -258,7 +258,7 @@ In regulation 61 of the principal Regulations (maximum housing benefit)[^f00019]
 
   .
 
-## 11. Amendment of regulation 79 of the principal Regulations[^key-06a0a0e4ddc506ea4ddeca0d42089ccb]
+## 11. Amendment of regulation 79 of the principal Regulations[^c-06a0a0e4ddc506ea4ddeca0d42089ccb]
 
 In regulation 79 of the principal Regulations (review of determinations)—
 
@@ -277,11 +277,11 @@ In regulation 79 of the principal Regulations (review of determinations)—
 
   .
 
-## 12. Amendment of regulation 83 of the principal Regulations[^key-f22cec1f253b57d21b31f6b412ffd8f4]
+## 12. Amendment of regulation 83 of the principal Regulations[^c-f22cec1f253b57d21b31f6b412ffd8f4]
 
 In regulation 83(2) of the principal Regulations (decisions upon further review) after “shall” there shall be inserted “, except in the case of a determination under regulation 10A (determinations),”.
 
-## 13. Amendment of regulation 91 of the principal Regulations[^key-83fc3edfa1f2eeceb94116d5705993c0]
+## 13. Amendment of regulation 91 of the principal Regulations[^c-83fc3edfa1f2eeceb94116d5705993c0]
 
 In regulation 91(1) of the principal Regulations (payment on account of a rent allowance) for the words from “having regard to such information” to the end there shall be substituted—
 
@@ -291,7 +291,7 @@ In regulation 91(1) of the principal Regulations (payment on account of a rent a
 
 .
 
-## 14. Amendment of regulation 95 of the principal Regulations[^key-dd98135ffab624acede34bf552c4de43]
+## 14. Amendment of regulation 95 of the principal Regulations[^c-dd98135ffab624acede34bf552c4de43]
 
 After regulation 95(6) of the principal Regulations (withholding of benefit)[^f00023] there shall be added the following paragraphs—
 
@@ -311,11 +311,11 @@ After regulation 95(6) of the principal Regulations (withholding of benefit)[^f0
 
 .
 
-## 15. Insertion of Schedules 1A and 1B to the principal Regulations[^key-8aa38bdddfe2876d5fa5a2e55e4dc843]
+## 15. Insertion of Schedules 1A and 1B to the principal Regulations[^c-8aa38bdddfe2876d5fa5a2e55e4dc843]
 
 After Schedule 1 to the principal Regulations (ineligible service charges) there shall be inserted Schedules 1A (determinations of rent payable) and 1B (excluded tenancies) set out in Schedules 1 and 2 to these Regulations.
 
-## 16. Savings provisions[^key-de88b33c584656b1af25e3447c718785]
+## 16. Savings provisions[^c-de88b33c584656b1af25e3447c718785]
 
 (1) Subject to paragraph (2) to (6), the eligible rent of a person—
 
@@ -383,7 +383,7 @@ Assistant Secretary
 
 21st March 1996.
 
-## SCHEDULE 1 — To be inserted after Schedule 1 to the principal Regulations[^key-c267a4ace0e3ea405e2870abc6640513]
+## SCHEDULE 1 — To be inserted after Schedule 1 to the principal Regulations[^c-c267a4ace0e3ea405e2870abc6640513]
 
 Regulation 15
 
@@ -618,7 +618,7 @@ Regulation 15
 >
 >   references to a tenant, a landlord or any other expression appropriate to a tenancy shall be construed accordingly.
 
-## SCHEDULE 2 — To be inserted after Schedule 1A to the principal Regulations[^key-c46d60afff815cb194bdb9269e7768a8]
+## SCHEDULE 2 — To be inserted after Schedule 1A to the principal Regulations[^c-c46d60afff815cb194bdb9269e7768a8]
 
 Regulation 15
 
@@ -686,27 +686,27 @@ Regulations 4, 8 and 15 contain amendments consequential on the changes to housi
 
 [^f00004]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-8b29cc7a3573c862694fcb6f1f886653]: Commencement: Reg. 1 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-8b29cc7a3573c862694fcb6f1f886653]: Commencement: Reg. 1 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending Regulations are [S.R. 1988 No. 314](https://www.legislation.gov.uk/nisr/1988/314), [S.R. 1989 Nos. 125](https://www.legislation.gov.uk/nisr/1989/125) and [260](https://www.legislation.gov.uk/nisr/1989/260), [S.R. 1990 Nos. 297](https://www.legislation.gov.uk/nisr/1990/297), [345](https://www.legislation.gov.uk/nisr/1990/345) and [442](https://www.legislation.gov.uk/nisr/1990/442), [S.R. 1992 Nos. 141](https://www.legislation.gov.uk/nisr/1992/141), [444](https://www.legislation.gov.uk/nisr/1992/444) and [549](https://www.legislation.gov.uk/nisr/1992/549), [S.R. 1993 Nos. 145](https://www.legislation.gov.uk/nisr/1993/145), [149](https://www.legislation.gov.uk/nisr/1993/149) and [381](https://www.legislation.gov.uk/nisr/1993/381), [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65) and [S.R. 1995 Nos. 89](https://www.legislation.gov.uk/nisr/1995/89) and [101](https://www.legislation.gov.uk/nisr/1995/101)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-843dfb6c6d3db904a4b87b15b7683796]: Commencement: Reg. 2 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-843dfb6c6d3db904a4b87b15b7683796]: Commencement: Reg. 2 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
 [^f00007]: Footnote: Definition inserted by regulation 2(*c*) of [S.R. 1993 No. 381](https://www.legislation.gov.uk/nisr/1993/381)
 
-[^key-86af2ab67527c41bcfa9d7e3afb0b6c3]: Commencement: Reg. 3 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-86af2ab67527c41bcfa9d7e3afb0b6c3]: Commencement: Reg. 3 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
 [^f00008]: Footnote: Paragraph (1) was amended by regulation 2(*a*) of [S.R. 1992 No. 444](https://www.legislation.gov.uk/nisr/1992/444)
 
-[^key-831a4b0a4d2a358ea8035f92bdcb3873]: Commencement: Reg. 4 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-831a4b0a4d2a358ea8035f92bdcb3873]: Commencement: Reg. 4 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
-[^key-8a2e49a20d7a82184e86713b078dd36d]: Commencement: Reg. 5 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-8a2e49a20d7a82184e86713b078dd36d]: Commencement: Reg. 5 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
 [^f00009]: Footnote: Paragraph (3) was amended by regulation 4 of [S.R. 1993 No. 145](https://www.legislation.gov.uk/nisr/1993/145)
 
-[^key-c092e924010009a4e268be0b23d06c44]: Commencement: Reg. 6 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-c092e924010009a4e268be0b23d06c44]: Commencement: Reg. 6 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
 [^f00010]: Footnote: Schedule 1A is inserted by regulation 14 of these Regulations
 
@@ -714,17 +714,17 @@ Regulations 4, 8 and 15 contain amendments consequential on the changes to housi
 
 [^f00012]: Footnote: Schedule 1B is inserted by regulation 14 of these Regulations
 
-[^key-40960d19e6c90c7337f9aab671b3b101]: Commencement: Reg. 7 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-40960d19e6c90c7337f9aab671b3b101]: Commencement: Reg. 7 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
 [^f00013]: Footnote: Paragraph (8) was amended by regulation 2(2)(*b*) of [S.R. 1995 No. 101](https://www.legislation.gov.uk/nisr/1995/101)
 
 [^f00014]: Footnote: Paragraph 1(*a*)(i) was amended by regulation 7(*a*) of [S.R. 1988 No. 314](https://www.legislation.gov.uk/nisr/1988/314)
 
-[^key-6c2351f83906c780ea7012ffaf9637da]: Commencement: Reg. 8 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-6c2351f83906c780ea7012ffaf9637da]: Commencement: Reg. 8 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
 [^f00015]: Footnote: Paragraph (2) was inserted by regulation 4(*b*) of [S.R. 1989 No. 125](https://www.legislation.gov.uk/nisr/1989/125)
 
-[^key-1692cbb6f48f33a964b1385dd00ab338]: Commencement: Reg. 9 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-1692cbb6f48f33a964b1385dd00ab338]: Commencement: Reg. 9 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); definition substituted by paragraph 1(4)(*a*) of Schedule 1 to [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149) and amended by paragraph 1(*f*) of Schedule 12 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65)
 
@@ -732,11 +732,11 @@ Regulations 4, 8 and 15 contain amendments consequential on the changes to housi
 
 [^f00018]: Footnote: S.I. [1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725)
 
-[^key-258010dd16e0a30adf30fc6da426bb96]: Commencement: Reg. 10 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-258010dd16e0a30adf30fc6da426bb96]: Commencement: Reg. 10 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
 [^f00019]: Footnote: Regulation 61 was amended by regulation 7 of [S.R. 1990 No. 345](https://www.legislation.gov.uk/nisr/1990/345) and regulation 6 of [S.R. 1992 No. 549](https://www.legislation.gov.uk/nisr/1992/549)
 
-[^key-06a0a0e4ddc506ea4ddeca0d42089ccb]: Commencement: Reg. 11 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-06a0a0e4ddc506ea4ddeca0d42089ccb]: Commencement: Reg. 11 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
 [^f00020]: Footnote: Pragraph (3)(*b*) was amended by regulation 11(*b*) of [S.R. 1992 No. 141](https://www.legislation.gov.uk/nisr/1992/141)
 
@@ -744,21 +744,21 @@ Regulations 4, 8 and 15 contain amendments consequential on the changes to housi
 
 [^f00022]: Footnote: Paragraph (5A) was inserted by regulation 3(10) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297)
 
-[^key-f22cec1f253b57d21b31f6b412ffd8f4]: Commencement: Reg. 12 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-f22cec1f253b57d21b31f6b412ffd8f4]: Commencement: Reg. 12 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
-[^key-83fc3edfa1f2eeceb94116d5705993c0]: Commencement: Reg. 13 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-83fc3edfa1f2eeceb94116d5705993c0]: Commencement: Reg. 13 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
-[^key-dd98135ffab624acede34bf552c4de43]: Commencement: Reg. 14 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-dd98135ffab624acede34bf552c4de43]: Commencement: Reg. 14 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
 [^f00023]: Footnote: Paragraph (6) was amended by regulation 9(*b*) of [S.R. 1995 No. 89](https://www.legislation.gov.uk/nisr/1995/89)
 
-[^key-8aa38bdddfe2876d5fa5a2e55e4dc843]: Commencement: Reg. 15 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-8aa38bdddfe2876d5fa5a2e55e4dc843]: Commencement: Reg. 15 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
-[^key-de88b33c584656b1af25e3447c718785]: Commencement: Reg. 16 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-de88b33c584656b1af25e3447c718785]: Commencement: Reg. 16 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
 [^f00024]: Footnote: Regulation 5 was amended by regulation 2 of [S.R. 1989 No. 260](https://www.legislation.gov.uk/nisr/1989/260), regulation 2 of [S.R. 1992 No. 549](https://www.legislation.gov.uk/nisr/1992/549), regulation 3 of [S.R. 1993 No. 145](https://www.legislation.gov.uk/nisr/1993/145), regulation 3(3) of [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149), paragraph 1(*c*) of Schedule 13 to [S.R. 1994 No. 65](https://www.legislation.gov.uk/nisr/1994/65), regulation 5 of [S.R. 1995 No. 89](https://www.legislation.gov.uk/nisr/1995/89) and regulation 2 of [S.R. 1995 No. 101](https://www.legislation.gov.uk/nisr/1995/101)
 
-[^key-c267a4ace0e3ea405e2870abc6640513]: Commencement: Sch. 1 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-c267a4ace0e3ea405e2870abc6640513]: Commencement: Sch. 1 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
 [^f00025]: Footnote: [1964 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1964/33)
 
@@ -766,7 +766,7 @@ Regulations 4, 8 and 15 contain amendments consequential on the changes to housi
 
 [^f00027]: Footnote: S.I. [1983/1118 (N.I. 15)](https://www.legislation.gov.uk/nisi/1983/1118)
 
-[^key-c46d60afff815cb194bdb9269e7768a8]: Commencement: Sch. 2 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
+[^c-c46d60afff815cb194bdb9269e7768a8]: Commencement: Sch. 2 in operation at 2.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/111/regulation/1/1)
 
 [^f00028]: Footnote: S.I. [1978/1050 (N.I. 20)](https://www.legislation.gov.uk/nisi/1978/1050)
 

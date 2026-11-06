@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12B. Tenure of office: Lord Chief Justice[^key-e3862cad8965f9850c140c90931ccd5b]
+## 12B. Tenure of office: Lord Chief Justice[^c-e3862cad8965f9850c140c90931ccd5b]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Lord Chief Justice holds office during good behaviour (subject to section 26 of [^key-d115381f0b919ffc042c4320902801a8]... the Judicial Pensions and Retirement Act 1993).
+(1) The Lord Chief Justice holds office during good behaviour (subject to section 26 of [^c-d115381f0b919ffc042c4320902801a8]... the Judicial Pensions and Retirement Act 1993).
 
 (2) Her Majesty may, on an address of both Houses of Parliament, remove a person (“P”) from office as Lord Chief Justice.
 
@@ -62,14 +62,14 @@ summary: ''
 
 (13) The tribunal's procedure is to be determined by the chair.
 
-(14) The Department of Justice[^key-5d1b6a7715560ac425579be877d73ce3] may pay a member of a tribunal any such allowances or fees as it may determine.
+(14) The Department of Justice[^c-5d1b6a7715560ac425579be877d73ce3] may pay a member of a tribunal any such allowances or fees as it may determine.
 
 (15) Before the coming into force of section 23 of the Constitutional Reform Act 2005, in subsection (10)(a) the reference to the President of the Supreme Court of the United Kingdom is to be read as a reference to the senior Lord of Appeal in Ordinary.
 
 ## Annotations
 
-[^key-e3862cad8965f9850c140c90931ccd5b]: Textual amendment: Ss. 12-12C substituted for ss. 12, 12B (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2009/3/section/2/1), [5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/2009/3/schedule/2) (with [Sch. 5 paras. 10](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/10), [11](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/11)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-e3862cad8965f9850c140c90931ccd5b]: Textual amendment: Ss. 12-12C substituted for ss. 12, 12B (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2009/3/section/2/1), [5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/2009/3/schedule/2) (with [Sch. 5 paras. 10](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/10), [11](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/11)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-d115381f0b919ffc042c4320902801a8]: Textual amendment: Words in [s. 12B(1)](https://www.legislation.gov.uk/ukpga/1978/23/section/12B/1) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 47(2)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/47/2)
+[^c-d115381f0b919ffc042c4320902801a8]: Textual amendment: Words in [s. 12B(1)](https://www.legislation.gov.uk/ukpga/1978/23/section/12B/1) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 47(2)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/47/2)
 
-[^key-5d1b6a7715560ac425579be877d73ce3]: Textual amendment: Words in s. 12B(14) substituted (N.I.) (12.4.2010) by [Department of Justice Act (Northern Ireland) 2010 (c. 3)](https://www.legislation.gov.uk/nia/2010/3), [s. 3(2)](https://www.legislation.gov.uk/nia/2010/3/section/3/2), [Sch. para. 5(1)](https://www.legislation.gov.uk/nia/2010/3/schedule/paragraph/5/1); [S.R. 2010/147](https://www.legislation.gov.uk/nisr/2010/147), [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/147/article/2/2)
+[^c-5d1b6a7715560ac425579be877d73ce3]: Textual amendment: Words in s. 12B(14) substituted (N.I.) (12.4.2010) by [Department of Justice Act (Northern Ireland) 2010 (c. 3)](https://www.legislation.gov.uk/nia/2010/3), [s. 3(2)](https://www.legislation.gov.uk/nia/2010/3/section/3/2), [Sch. para. 5(1)](https://www.legislation.gov.uk/nia/2010/3/schedule/paragraph/5/1); [S.R. 2010/147](https://www.legislation.gov.uk/nisr/2010/147), [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/147/article/2/2)

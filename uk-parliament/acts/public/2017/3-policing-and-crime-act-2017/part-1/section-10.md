@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Transfer of property, rights and liabilities to the London Fire Commissioner[^c22718401][^key-a8c2325eed0cf9ef8534e9c70f42099e]
+## 10. Transfer of property, rights and liabilities to the London Fire Commissioner[^c22718401][^c-a8c2325eed0cf9ef8534e9c70f42099e]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c22718401]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/3/section/10) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-a8c2325eed0cf9ef8534e9c70f42099e]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/3/section/10) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/227/article/2/c)
+[^c-a8c2325eed0cf9ef8534e9c70f42099e]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/3/section/10) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/227/article/2/c)

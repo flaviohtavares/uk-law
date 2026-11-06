@@ -24,11 +24,11 @@ summary: ''
 
 Section 110
 
-### 1. Local Government Act 1974[^key-996a76ebbec96a78f2b1a684160d9042]
+### 1. Local Government Act 1974[^c-996a76ebbec96a78f2b1a684160d9042]
 
 (1) The Local Government Act 1974 is amended in accordance with paragraphs 2 to 5.
 
-**2.**[^key-d904944c2c448765a736cf9bb2030543] (1) Section 33 (consultation between Local Commissioner and other Commissioners and Ombudsmen) is amended as follows.
+**2.**[^c-d904944c2c448765a736cf9bb2030543] (1) Section 33 (consultation between Local Commissioner and other Commissioners and Ombudsmen) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -55,7 +55,7 @@ Section 110
 - (a) for “or (3B)” substitute “, (3B) or (3C)”;
 - (b) for “or the new homes ombudsman scheme” substitute “, the new homes ombudsman scheme or a leasehold and estate management redress scheme”.
 
-**3.**[^key-07e5213f9dcf03b0f0e83480c1a910d0] (1) Section 33ZA (collaborative working between Local Commissioners and others) is amended as follows.
+**3.**[^c-07e5213f9dcf03b0f0e83480c1a910d0] (1) Section 33ZA (collaborative working between Local Commissioners and others) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -86,7 +86,7 @@ Section 110
   ;
 - (c) in the words after paragraph (d), for “or (d)” substitute “, (d) or (e)”.
 
-**4.**[^key-75c78c6ded39ce6c10cfee0e68f2225c] In section 33ZB (arrangements for provision of administrative and other services), in subsection (4)—
+**4.**[^c-75c78c6ded39ce6c10cfee0e68f2225c] In section 33ZB (arrangements for provision of administrative and other services), in subsection (4)—
 
 - (a) in paragraph (e), omit the final “and”;
 - (b) at the end of paragraph (f), insert
@@ -95,7 +95,7 @@ Section 110
   >
   > - (g) the administrator of a leasehold and estate management redress scheme.
 
-**5.**[^key-223de1e9f592af4077dab06077ef1fe7] In section 34 (interpretation) in subsection (1), at the appropriate places insert—
+**5.**[^c-223de1e9f592af4077dab06077ef1fe7] In section 34 (interpretation) in subsection (1), at the appropriate places insert—
 
 > - “**leasehold and estate management redress scheme**” means a redress scheme within the meaning of section 100(4) of the Leasehold and Freehold Reform Act 2024 (leasehold and estate management: redress schemes);
 
@@ -103,7 +103,7 @@ Section 110
 
 .
 
-### 6. Housing Act 1996[^key-6afccc88282140d929d962105dc9db22]
+### 6. Housing Act 1996[^c-6afccc88282140d929d962105dc9db22]
 
 (1) Paragraph 10A of Schedule 2 to the Housing Act 1996 (housing complaints: collaborative working with Local Commissioners) is amended as follows.
 
@@ -127,7 +127,7 @@ Section 110
 
 > (6) In this paragraph “**leasehold and estate management redress scheme**” means a redress scheme within the meaning of section 100(4) of the Leasehold and Freehold Reform Act 2024.
 
-### 7. Building Safety Act 2022[^key-95bbaebe2451ce6c9398b244c5d063f3]
+### 7. Building Safety Act 2022[^c-95bbaebe2451ce6c9398b244c5d063f3]
 
 In paragraph 3(5) of Schedule 3 to the BSA 2022—
 
@@ -142,16 +142,16 @@ In paragraph 3(5) of Schedule 3 to the BSA 2022—
 
 ## Annotations
 
-[^key-996a76ebbec96a78f2b1a684160d9042]: Commencement: Sch. 13 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-996a76ebbec96a78f2b1a684160d9042]: Commencement: Sch. 13 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-d904944c2c448765a736cf9bb2030543]: Commencement: Sch. 13 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d904944c2c448765a736cf9bb2030543]: Commencement: Sch. 13 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-07e5213f9dcf03b0f0e83480c1a910d0]: Commencement: Sch. 13 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-07e5213f9dcf03b0f0e83480c1a910d0]: Commencement: Sch. 13 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-75c78c6ded39ce6c10cfee0e68f2225c]: Commencement: Sch. 13 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-75c78c6ded39ce6c10cfee0e68f2225c]: Commencement: Sch. 13 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-223de1e9f592af4077dab06077ef1fe7]: Commencement: Sch. 13 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-223de1e9f592af4077dab06077ef1fe7]: Commencement: Sch. 13 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-6afccc88282140d929d962105dc9db22]: Commencement: Sch. 13 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-6afccc88282140d929d962105dc9db22]: Commencement: Sch. 13 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-95bbaebe2451ce6c9398b244c5d063f3]: Commencement: Sch. 13 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-95bbaebe2451ce6c9398b244c5d063f3]: Commencement: Sch. 13 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

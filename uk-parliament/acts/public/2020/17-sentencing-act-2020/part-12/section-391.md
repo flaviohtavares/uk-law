@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 391. Proceedings under section 387 or 388: use of live link[^key-3dd9943dfdb76070f103c75cb6c26934]
+## 391. Proceedings under section 387 or 388: use of live link[^c-3dd9943dfdb76070f103c75cb6c26934]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3dd9943dfdb76070f103c75cb6c26934]: Textual amendment: [S. 391](https://www.legislation.gov.uk/ukpga/2020/17/section/391) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y), [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/8)
+[^c-3dd9943dfdb76070f103c75cb6c26934]: Textual amendment: [S. 391](https://www.legislation.gov.uk/ukpga/2020/17/section/391) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y), [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2022/32/schedule/20/paragraph/8)

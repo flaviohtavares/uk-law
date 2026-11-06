@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16A. Modern limited duration tenancies: fixed equipment etc.[^key-299620631f7c16057e8edcaebaa01c67]
+## 16A. Modern limited duration tenancies: fixed equipment etc.[^c-299620631f7c16057e8edcaebaa01c67]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ and on being so agreed (or, failing such agreement, on being determined in accor
 
 ## Annotations
 
-[^key-299620631f7c16057e8edcaebaa01c67]: Textual amendment: S. 16A inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 88(2)](https://www.legislation.gov.uk/asp/2016/18/section/88/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-299620631f7c16057e8edcaebaa01c67]: Textual amendment: S. 16A inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 88(2)](https://www.legislation.gov.uk/asp/2016/18/section/88/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)

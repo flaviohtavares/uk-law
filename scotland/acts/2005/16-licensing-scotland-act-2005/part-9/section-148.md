@@ -27,7 +27,7 @@ The expressions in the left-hand column of the table are defined or otherwise ex
 | alcohol | section 2 |
 | alcoholic drink | section 147(1) |
 | applicant | section 147(1) |
-| chief constable[^key-2656d7d43bbcdd33111f49547bd2b4e1] | section 147(1) |
+| chief constable[^c-2656d7d43bbcdd33111f49547bd2b4e1] | section 147(1) |
 | area | section 147(1) |
 | capacity (in relation to licensed premises) | section 147(1) |
 | certified copy (of premises licence or summary) | section 55 |
@@ -36,7 +36,7 @@ The expressions in the left-hand column of the table are defined or otherwise ex
 | community council | section 147(1) |
 | connected person | section 147(3) |
 | council | section 147(1) |
-| [^key-ed30b1da0798153488e0afe77719295f]. . . | [^key-ed30b1da0798153488e0afe77719295f]. . . |
+| [^c-ed30b1da0798153488e0afe77719295f]. . . | [^c-ed30b1da0798153488e0afe77719295f]. . . |
 | emergency closure order | section 97(4) |
 | excluded premises | section 123(2) |
 | exclusion order | section 94(6) |
@@ -74,7 +74,7 @@ The expressions in the left-hand column of the table are defined or otherwise ex
 | provisional premises licence application | section 45(2) |
 | railway vehicle | section 147(1) |
 | relevant council | section 147(1) |
-| relevant health board[^key-e183102969b454269ed07cc5aa97b1fb] | section 147(1) |
+| relevant health board[^c-e183102969b454269ed07cc5aa97b1fb] | section 147(1) |
 | relevant offence | section 129(1) |
 | review hearing | section 38(2) |
 | sell (and related expressions) | section 147(1) |
@@ -92,10 +92,10 @@ The expressions in the left-hand column of the table are defined or otherwise ex
 
 ## Annotations
 
-[^key-2656d7d43bbcdd33111f49547bd2b4e1]: Textual amendment: Words in s. 148 substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(9)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/9); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-2656d7d43bbcdd33111f49547bd2b4e1]: Textual amendment: Words in s. 148 substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(9)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/9); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-ed30b1da0798153488e0afe77719295f]: Textual amendment: Entry in s. 148 repealed (1.11.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 6 para. 17](https://www.legislation.gov.uk/asp/2010/13/schedule/6/paragraph/17); [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2011/354/article/5))
+[^c-ed30b1da0798153488e0afe77719295f]: Textual amendment: Entry in s. 148 repealed (1.11.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 6 para. 17](https://www.legislation.gov.uk/asp/2010/13/schedule/6/paragraph/17); [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2011/354/article/5))
 
 [^M_F_e3597b30-dcd9-437a-d940-987578808e9e]: Textual amendment: Entry in s. 148 inserted (29.6.2018) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 184(5)](https://www.legislation.gov.uk/asp/2010/13/section/184/5), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2018/102](https://www.legislation.gov.uk/ssi/2018/102), [art. 2(a)](https://www.legislation.gov.uk/ssi/2018/102/article/2/a)
 
-[^key-e183102969b454269ed07cc5aa97b1fb]: Textual amendment: Entry "relevant health board" in s. 148 inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 11(6)](https://www.legislation.gov.uk/asp/2010/18/section/11/6), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-e183102969b454269ed07cc5aa97b1fb]: Textual amendment: Entry "relevant health board" in s. 148 inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 11(6)](https://www.legislation.gov.uk/asp/2010/18/section/11/6), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)

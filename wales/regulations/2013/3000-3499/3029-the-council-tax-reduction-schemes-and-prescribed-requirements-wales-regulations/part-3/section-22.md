@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Class A: pensioners whose income is less than the applicable amount[^key-a0d1967e46eb9550d721843dfc22cb90]
+## 22. Class A: pensioners whose income is less than the applicable amount[^c-a0d1967e46eb9550d721843dfc22cb90]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ On any day class A consists of any person who is a pensioner—
 
 ## Annotations
 
-[^key-a0d1967e46eb9550d721843dfc22cb90]: Commencement: Reg. 22 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-a0d1967e46eb9550d721843dfc22cb90]: Commencement: Reg. 22 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

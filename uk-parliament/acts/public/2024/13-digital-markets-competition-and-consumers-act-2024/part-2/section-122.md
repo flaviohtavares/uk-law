@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Production of information authorised by warrant[^key-22519002aa1424d51a4f2e47a1292ef9][^key-57766ed2ad8e0b283ab14642351ec64a]
+## 122. Production of information authorised by warrant[^c-22519002aa1424d51a4f2e47a1292ef9][^c-57766ed2ad8e0b283ab14642351ec64a]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-22519002aa1424d51a4f2e47a1292ef9]: Commencement: S. 122 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-22519002aa1424d51a4f2e47a1292ef9]: Commencement: S. 122 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-57766ed2ad8e0b283ab14642351ec64a]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2024/13/section/122) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/1), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-57766ed2ad8e0b283ab14642351ec64a]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2024/13/section/122) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/1), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

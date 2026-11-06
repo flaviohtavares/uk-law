@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972[^f00001] and of all other powers enabling them in that behalf, make the following Regulations:
 
-## 1. Citation and commencement[^key-a94968868bd306148c0562148b3fd8ab]
+## 1. Citation and commencement[^c-a94968868bd306148c0562148b3fd8ab]
 
 These Regulations may be cited as the Agricultural Subsidies (Appeals) (Scotland) Regulations 2000 and come into force on 9th November 2000.
 
-## 2. Interpretation[^key-9117ad898a8803880c75b574023a58f5]
+## 2. Interpretation[^c-9117ad898a8803880c75b574023a58f5]
 
 (1) In these Regulations–
 
@@ -63,18 +63,18 @@ These Regulations may be cited as the Agricultural Subsidies (Appeals) (Scotland
 
 (2) Any reference in these Regulations to a person to whom a decision is directed, an applicant for review or a person appealing to the Scottish Land Court includes a reference to any successor, executor, trustee in bankruptcy, receiver or liquidator of such a person or applicant.
 
-## 3. Application[^key-597cd855133b77dd5f11b75b62e91e4f]
+## 3. Application[^c-597cd855133b77dd5f11b75b62e91e4f]
 
 These Regulations apply to decisions of the Scottish Ministers of the kind referred to in regulation 4 belowin relation to holdings which are administered by the Scottish Ministers in accordance with the Integrated Administration and Control System Regulations 1993[^f00019].
 
-## 4. Decisions amenable to review and appeal[^key-9629e7499c7897ff4668bc15fcabaf8a]
+## 4. Decisions amenable to review and appeal[^c-9629e7499c7897ff4668bc15fcabaf8a]
 
 The following decisions may be reviewed and appealed in accordance with the following provisions of these Regulations–
 
 - (a) a decision, under or in accordance with Commission Regulation 3887/92 (including anything done in accordance with Article 11.1 of the Regulations), by the Scottish Ministers to refuse, reduce or recover (in whole or in part) payment under an IACS scheme for the IACS year 2000 or any IACS year thereafter; and
 - (b) a decision by the Scottish Ministers to refuse, reduce or recover (in whole or in part) payment of compensatory allowance under regulations 12, 17 or 18 of the Hill Livestock (Compensatory Allowances) (Scotland) Regulations 1999[^f00020].
 
-## 5. Review of decisions[^key-3a574cfdae1b919394a0d2d4e82f4657]
+## 5. Review of decisions[^c-3a574cfdae1b919394a0d2d4e82f4657]
 
 (1) A person to whom a decision referred to in regulation 4 above is directed, may apply, no later than 60 days following the date of the decision to be reviewed, to the Scottish Ministers for a review of that decision.
 
@@ -88,7 +88,7 @@ The following decisions may be reviewed and appealed in accordance with the foll
 
 (3) An application under this regulation is to be treated as made if, it is received by the Scottish Ministers at their offices at Pentland House, Robb’s Loan, Edinburgh marked “for the attention of the EU Agricultural Subsidies Appeals Secretariat”.
 
-## 6. Review[^key-bb60819172d775c0ba8ce5c0d979869b]
+## 6. Review[^c-bb60819172d775c0ba8ce5c0d979869b]
 
 (1) Where an application is made under regulation 5 above, the Scottish Ministers shall review the decision which is specified in it.
 
@@ -98,7 +98,7 @@ The following decisions may be reviewed and appealed in accordance with the foll
 - (b) invite the applicant to provide such further information relevant to the review as they consider appropriate; and
 - (c) give the applicant an opportunity to give evidence to make representations in person or through a representative.
 
-## 7. Decision following review[^key-4f3ce8a4535a7b606cd2bc50cbd04098]
+## 7. Decision following review[^c-4f3ce8a4535a7b606cd2bc50cbd04098]
 
 (1) Following review of a decision in accordance with regulation 6 above the Scottish Ministers may–
 
@@ -110,7 +110,7 @@ The following decisions may be reviewed and appealed in accordance with the foll
 
 (3) The Scottish Ministers must, in the case of a decision which does not provide the remedy specified by the applicant in accordance with regulation 5(2)(e) above, offer the applicant an opportunity to have their decision under this regulation reviewed by persons appointed by them.
 
-## 8. Further review by persons appointed[^key-e6f1ddb81278d32c6c57fa181754e46e]
+## 8. Further review by persons appointed[^c-e6f1ddb81278d32c6c57fa181754e46e]
 
 (1) An applicant to whom regulation 7(3) above applies may, no later than 60 days following the date of the decision under regulation 7 above, apply in writing to the Scottish Ministers to have that decision reviewed by persons appointed by them.
 
@@ -120,7 +120,7 @@ The following decisions may be reviewed and appealed in accordance with the foll
 
 (4) The fee referred to in paragraph (3) above is payable to Scottish Ministers and recoverable by them, in the event of default, as a debt.
 
-## 9. Power of persons appointed[^key-858a7a7ce6a1926afc2a77de9554b110]
+## 9. Power of persons appointed[^c-858a7a7ce6a1926afc2a77de9554b110]
 
 (1) Where an application is made under regulation 8, the Scottish Ministers shall appoint such persons (who may include a member of the staff of the Scottish Ministers) as they consider appropriate to review the decision and provide those persons with a copy of–
 
@@ -160,13 +160,13 @@ to the Scottish Ministers.
 
 (8) The Scottish Ministers may make such payment, by way of fee or reimbursement of expenses, to any of such persons appointed under paragraph (1) above, as appears to them to be appropriate.
 
-## 10. Notification of decisions[^key-6cecc605106975d6290091a2c5a8734a]
+## 10. Notification of decisions[^c-6cecc605106975d6290091a2c5a8734a]
 
 (1) A decision under regulations 7 and 9 above must be notified to the applicant so soon as practicable after it is made by recorded delivery post to the address shown on the application for review.
 
 (2) In the case of a decision under regulation 9 the findings and recommendations of the persons appointed shall be notified along with the decision.
 
-## 11. Appeal to the Scottish Land Court[^key-4576cbdf9e32dd4a516b92c91b8153c4]
+## 11. Appeal to the Scottish Land Court[^c-4576cbdf9e32dd4a516b92c91b8153c4]
 
 (1) Where an applicant is dissatisfied by a decision under regulation 9 above, that applicant may appeal against that decision on any issue of fact or law to the Scottish Land Court, in accordance with the following provisions.
 
@@ -183,7 +183,7 @@ to the Scottish Ministers.
 - (e) the propositions of law relied on in support of the appeal; and
 - (f) the legislative provisions and judicial authorities to be referred to in relation to the appeal.
 
-## 12. Procedure in the Scottish Land Court[^key-9c8708934e2c7e1130f62db2841f99bb]
+## 12. Procedure in the Scottish Land Court[^c-9c8708934e2c7e1130f62db2841f99bb]
 
 (1) The Scottish Land Court may hear evidence or submissions on matters of fact or law not specified in accordance with regulation 11 above on such terms and conditions as to expenses or otherwise as it considers appropriate but shall only do so in respect of any matter referred to in regulation 11(4)(a) to (c) above unless it is satisfied that there are special circumstances to justify doing so.
 
@@ -197,7 +197,7 @@ to the Scottish Ministers.
 
 and any such determination of the Scottish Land Court is, subject to any case stated in accordance with section 1(7) of the Scottish Land Court Act 1993[^f00021], binding upon the Scottish Ministers and the applicant.
 
-## 13. Reimbursement of fee following successful appeal[^key-5515dc4c559965e06ebd7d82984b767c]
+## 13. Reimbursement of fee following successful appeal[^c-5515dc4c559965e06ebd7d82984b767c]
 
 In the event that, as a result of an appeal under regulation 11 above, the Scottish Land Court determine in accordance with regulation 12(3)(b) or (c) above, the Scottish Ministers must reimburse the fee paid in accordance with regulation 8(3) above.
 
@@ -255,9 +255,9 @@ In particular regulation 12(3) sets out the orders which may be made by the Scot
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The functions conferred on a Minister of the Crown by section 2(2) were transferred, so far as within devolved competence, by section 53 of the Scotland Act 1998 to the Scottish Ministers.
 
-[^key-a94968868bd306148c0562148b3fd8ab]: Commencement: Reg. 1 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
+[^c-a94968868bd306148c0562148b3fd8ab]: Commencement: Reg. 1 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
 
-[^key-9117ad898a8803880c75b574023a58f5]: Commencement: Reg. 2 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
+[^c-9117ad898a8803880c75b574023a58f5]: Commencement: Reg. 2 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
 
 [^f00002]: Footnote: O.J. L 391, 31.12.1992, p.36.
 
@@ -293,30 +293,30 @@ In particular regulation 12(3) sets out the orders which may be made by the Scot
 
 [^f00018]: Footnote: O.J. L 182, 21.7.2000, p.4.
 
-[^key-597cd855133b77dd5f11b75b62e91e4f]: Commencement: Reg. 3 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
+[^c-597cd855133b77dd5f11b75b62e91e4f]: Commencement: Reg. 3 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
 
 [^f00019]: Footnote: S.I. [1993/1317](https://www.legislation.gov.uk/uksi/1993/1317) as amended by S.I. [1994/1134](https://www.legislation.gov.uk/uksi/1994/1134), S.I. [1997/1148](https://www.legislation.gov.uk/uksi/1997/1148), S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820) and S.I. [2000/2573](https://www.legislation.gov.uk/uksi/2000/2573).
 
-[^key-9629e7499c7897ff4668bc15fcabaf8a]: Commencement: Reg. 4 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
+[^c-9629e7499c7897ff4668bc15fcabaf8a]: Commencement: Reg. 4 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
 
 [^f00020]: Footnote: [S.S.I. 1999/187](https://www.legislation.gov.uk/ssi/1999/187).
 
-[^key-3a574cfdae1b919394a0d2d4e82f4657]: Commencement: Reg. 5 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
+[^c-3a574cfdae1b919394a0d2d4e82f4657]: Commencement: Reg. 5 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
 
-[^key-bb60819172d775c0ba8ce5c0d979869b]: Commencement: Reg. 6 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
+[^c-bb60819172d775c0ba8ce5c0d979869b]: Commencement: Reg. 6 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
 
-[^key-4f3ce8a4535a7b606cd2bc50cbd04098]: Commencement: Reg. 7 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
+[^c-4f3ce8a4535a7b606cd2bc50cbd04098]: Commencement: Reg. 7 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
 
-[^key-e6f1ddb81278d32c6c57fa181754e46e]: Commencement: Reg. 8 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
+[^c-e6f1ddb81278d32c6c57fa181754e46e]: Commencement: Reg. 8 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
 
-[^key-858a7a7ce6a1926afc2a77de9554b110]: Commencement: Reg. 9 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
+[^c-858a7a7ce6a1926afc2a77de9554b110]: Commencement: Reg. 9 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
 
-[^key-6cecc605106975d6290091a2c5a8734a]: Commencement: Reg. 10 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
+[^c-6cecc605106975d6290091a2c5a8734a]: Commencement: Reg. 10 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
 
-[^key-4576cbdf9e32dd4a516b92c91b8153c4]: Commencement: Reg. 11 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
+[^c-4576cbdf9e32dd4a516b92c91b8153c4]: Commencement: Reg. 11 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
 
-[^key-9c8708934e2c7e1130f62db2841f99bb]: Commencement: Reg. 12 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
+[^c-9c8708934e2c7e1130f62db2841f99bb]: Commencement: Reg. 12 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
 
 [^f00021]: Footnote: [1993 c. 45](https://www.legislation.gov.uk/ukpga/1993/45).
 
-[^key-5515dc4c559965e06ebd7d82984b767c]: Commencement: Reg. 13 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)
+[^c-5515dc4c559965e06ebd7d82984b767c]: Commencement: Reg. 13 in force at 9.11.2000, see [reg. 1](https://www.legislation.gov.uk/ssi/2000/347/regulation/1)

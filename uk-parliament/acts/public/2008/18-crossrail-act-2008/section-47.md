@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-96854e971c95e1a7dd62230255d019c3] This section applies where the Secretary of State and an owner of land subject to the power under section 6(1) enter into an agreement which provides for the owner's interest in the land to be subject to paragraph 1 of Schedule 5.
+(1)[^c-96854e971c95e1a7dd62230255d019c3] This section applies where the Secretary of State and an owner of land subject to the power under section 6(1) enter into an agreement which provides for the owner's interest in the land to be subject to paragraph 1 of Schedule 5.
 
 (2) This Act shall have effect as if the table in paragraph 1(1) of Schedule 5 contained an entry in which—
 
@@ -45,7 +45,7 @@ summary: ''
 - (b) notice to treat had been given under section 5 of the Compulsory Purchase Act 1965 (c. 56), and notice of entry had been given under section 11(1) of that Act, in respect of the land on the day on which notice was given of intention to exercise the power under paragraph 1(1)(a) of Schedule 5 in relation to it, and
 - (c) possession of the land had been taken under section 11(1) of the Compulsory Purchase Act 1965 on the day on which the power under paragraph 1(1)(a) of Schedule 5 was exercised in relation to it.
 
-(7)[^key-41b8e2deaff15fe97c5b4308d7d5405e] The agreement may be amended or revoked by an agreement between the Secretary of State and the owner of the interest to which the agreement relates.
+(7)[^c-41b8e2deaff15fe97c5b4308d7d5405e] The agreement may be amended or revoked by an agreement between the Secretary of State and the owner of the interest to which the agreement relates.
 
 (8) Where the agreement is amended under subsection (7), subsections (2), (3) and (5) to (7) shall have effect as if references to the agreement were references to the agreement as amended.
 
@@ -64,6 +64,6 @@ shall be treated for the purposes of this section as having been entered into on
 
 ## Annotations
 
-[^key-96854e971c95e1a7dd62230255d019c3]: Modification: S. 47(1) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [3](https://www.legislation.gov.uk/uksi/2010/988/article/3/1) (with [arts. 12](https://www.legislation.gov.uk/uksi/2010/988/article/12), [13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
+[^c-96854e971c95e1a7dd62230255d019c3]: Modification: S. 47(1) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [3](https://www.legislation.gov.uk/uksi/2010/988/article/3/1) (with [arts. 12](https://www.legislation.gov.uk/uksi/2010/988/article/12), [13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
 
-[^key-41b8e2deaff15fe97c5b4308d7d5405e]: Modification: S. 47(7) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [3](https://www.legislation.gov.uk/uksi/2010/988/article/3/1) (with [arts. 12](https://www.legislation.gov.uk/uksi/2010/988/article/12), [13](https://www.legislation.gov.uk/uksi/2010/988/article/13))
+[^c-41b8e2deaff15fe97c5b4308d7d5405e]: Modification: S. 47(7) modified (21.4.2010) by [The Crossrail (Devolution of Functions) Order 2010 (S.I. 2010/988)](https://www.legislation.gov.uk/uksi/2010/988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/988/article/1), [3](https://www.legislation.gov.uk/uksi/2010/988/article/3/1) (with [arts. 12](https://www.legislation.gov.uk/uksi/2010/988/article/12), [13](https://www.legislation.gov.uk/uksi/2010/988/article/13))

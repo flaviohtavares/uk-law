@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.173. Order on request by creditors[^key-9b09ca7786c1ffe81bd0338e71ee4558]
+## 6.173. Order on request by creditors[^c-9b09ca7786c1ffe81bd0338e71ee4558]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ Sub-paragraphs (a) and (b) do not apply if the requisitioning creditor's debt is
 
 ## Annotations
 
-[^key-9b09ca7786c1ffe81bd0338e71ee4558]: Commencement: [Rule 6.173](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.173) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-9b09ca7786c1ffe81bd0338e71ee4558]: Commencement: [Rule 6.173](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.173) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00180]: Marginal citation: \[FORM 6.56\]

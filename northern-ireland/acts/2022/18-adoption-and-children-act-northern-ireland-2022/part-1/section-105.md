@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 105. Privacy[^key-f9e83c6004f54a52495e1cc4cefb406f]
+## 105. Privacy[^c-f9e83c6004f54a52495e1cc4cefb406f]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9e83c6004f54a52495e1cc4cefb406f]: Commencement: S. 105 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-f9e83c6004f54a52495e1cc4cefb406f]: Commencement: S. 105 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

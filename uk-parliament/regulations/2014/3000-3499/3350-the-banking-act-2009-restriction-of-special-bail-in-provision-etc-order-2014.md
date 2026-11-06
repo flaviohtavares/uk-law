@@ -42,7 +42,7 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred by sections 47(2) and (4), 48(2), (3) and (4), 48P(3), (5) and (6) and 259(1) of the Banking Act 2009[^c22309491], makes the following Order:
 
-A draft of this Order has been laid before and approved by a resolution of each House of Parliament in accordance with 47(5), 48(6) and 48P(8) of the Banking Act 2009.[^key-750c8fbefb3e7153272543091f78562e]
+A draft of this Order has been laid before and approved by a resolution of each House of Parliament in accordance with 47(5), 48(6) and 48P(8) of the Banking Act 2009.[^c-750c8fbefb3e7153272543091f78562e]
 
 ## 1. Citation and commencement
 
@@ -55,21 +55,21 @@ A draft of this Order has been laid before and approved by a resolution of each 
 (1) In this Order—
 
 - “**the Act**” means the Banking Act 2009;
-- “bail-in liability has the meaning given in section 2(1) of the Banking Act 2009[^key-e1bbd5c263947a16416c432239e6e628]
+- “bail-in liability has the meaning given in section 2(1) of the Banking Act 2009[^c-e1bbd5c263947a16416c432239e6e628]
 - “**the Bank**” means the Bank of England;
 - “**banking institution**” means—
   - (a) a bank [^c22309501];
   - (b) an investment firm [^c22309511];
   - (c) a banking group company;
-  - (d) a third-country institution (within the meaning of section 89JA of the Act (resolution of[^key-58f6ee8da7c54482c0a7911946a970bb] UK branches of third-country institutions)).
-- [^key-29666d5ad43899cd288ff87a99ec0b14]...
+  - (d) a third-country institution (within the meaning of section 89JA of the Act (resolution of[^c-58f6ee8da7c54482c0a7911946a970bb] UK branches of third-country institutions)).
+- [^c-29666d5ad43899cd288ff87a99ec0b14]...
 - “**netting arrangements**” has the meaning given in section 48P(2) of the Act;
 - “**relevant banking institution**” has the meaning given in article 3(2);
 - “**set-off arrangements**” has the meaning given in section 48P(2) of the Act;
 - “**title transfer collateral arrangements**” has the meaning given in section 48P(2) of the Act;
-- “**transferable securities**” has the meaning given in Article 2.1(24) of Regulation (EU) No. 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012[^key-19c1c41b1f83fd17cde1b398f7f2c803], but does not include securities (within the meaning of section 14 of the Act [^c22309541]) issued by the relevant banking institution.
+- “**transferable securities**” has the meaning given in Article 2.1(24) of Regulation (EU) No. 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012[^c-19c1c41b1f83fd17cde1b398f7f2c803], but does not include securities (within the meaning of section 14 of the Act [^c22309541]) issued by the relevant banking institution.
 
-(2) References to sections of the Act include, as the context requires, those sections as applied with or without modifications by that Act, as that Act has effect on the day on which the Bank Recovery and Resolution[^key-e8cc0cadcd16c6230b883798ebc829df] (Amendment) (EU Exit) Regulations 2018 come[^key-e97f7ef501f68e1feb6b19e869fd0188] into force..
+(2) References to sections of the Act include, as the context requires, those sections as applied with or without modifications by that Act, as that Act has effect on the day on which the Bank Recovery and Resolution[^c-e8cc0cadcd16c6230b883798ebc829df] (Amendment) (EU Exit) Regulations 2018 come[^c-e97f7ef501f68e1feb6b19e869fd0188] into force..
 
 ## 3. Application, etc.
 
@@ -81,7 +81,7 @@ A draft of this Order has been laid before and approved by a resolution of each 
 
 (1) An instrument to which this Order applies may not make special bail-in provision in respect of a protected liability (subject to paragraph (6)).
 
-(2) In this article a “protected liability” is a bail-in liability[^key-02689a27a169d55552f22cd302f37615] which is not within paragraph (3), and meets the following conditions—
+(2) In this article a “protected liability” is a bail-in liability[^c-02689a27a169d55552f22cd302f37615] which is not within paragraph (3), and meets the following conditions—
 
 - (a) condition 1 is that the liability is owed by the relevant banking institution to a particular person (“the person”);
 - (b) condition 2 is that the liability is a liability which either the person or the relevant banking institution is entitled to set-off or net under particular set-off arrangements, netting arrangements or title transfer collateral arrangements into which the person has entered with the relevant banking institution (“the relevant arrangements”);
@@ -116,7 +116,7 @@ A draft of this Order has been laid before and approved by a resolution of each 
 
 ## 5. Set-off and netting: meaning of “derivative”, “financial contract” and “qualifying master agreement”
 
-(1) In this Order “**derivative**” means a derivative as defined in Article 2(5) of Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4th July 2012 on OTC derivatives, central counterparties and trade repositories [^c22309571] as it[^key-2a59b686fb553809da0c1844bf5834c2] forms part of[^key-768bd59a25264f32f6e12d33c7614849] assimilated[^key-267755fc3ccee1eb4105122032c067c1] law.
+(1) In this Order “**derivative**” means a derivative as defined in Article 2(5) of Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4th July 2012 on OTC derivatives, central counterparties and trade repositories [^c22309571] as it[^c-2a59b686fb553809da0c1844bf5834c2] forms part of[^c-768bd59a25264f32f6e12d33c7614849] assimilated[^c-267755fc3ccee1eb4105122032c067c1] law.
 
 (2) In this Order “**financial contract**” means any or any combination of the following (other than a derivative)—
 
@@ -184,9 +184,9 @@ whether by exercising a power under Part 1 of the Act or otherwise.
 
 (10) In paragraph (5)(b)(ii), special bail-in provision is made in conjunction with the bridge bank stabilisation option when special bail-in provision is made in reliance on section 44B of the Act [^c22309591] in—
 
-- (a) a property transfer instrument under section 12(2) of the Act, [^key-55b466f84894e7ac0ccf73815055a336]...
+- (a) a property transfer instrument under section 12(2) of the Act, [^c-55b466f84894e7ac0ccf73815055a336]...
 - (b) a supplemental property transfer instrument in relation to which the original instrument (as defined in section 42(1) [^c22309601] of the Act) is a property transfer instrument under section 12(2) of the Act;
-- (c)[^key-27d6fd226d7c87fe6f177b5c0b094664] an onward property transfer instrument under section 43(2) of the Act in relation to which the original instrument (as defined in section 43(1)) is a property transfer instrument under section 12(2) of that Act, or
+- (c)[^c-27d6fd226d7c87fe6f177b5c0b094664] an onward property transfer instrument under section 43(2) of the Act in relation to which the original instrument (as defined in section 43(1)) is a property transfer instrument under section 12(2) of that Act, or
 - (d) a bridge bank supplemental property transfer instrument under section 44D(2) of the Act.
 
 and the reference in paragraph (5)(b)(i) to special bail-in provision not being made in conjunction with the bridge bank stabilisation option is to be construed accordingly.
@@ -206,7 +206,7 @@ and the reference in paragraph (5)(b)(i) to special bail-in provision not being 
 
 (5) Where the Bank extends time under paragraph (2) or (3), the Bank must as soon as reasonably practicable inform the person who gave the notice of the extension and the duration of the extension.
 
-## 8. Review[^key-8df1f12fb3a0cf431232e2d52b9752b6]
+## 8. Review[^c-8df1f12fb3a0cf431232e2d52b9752b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -238,46 +238,46 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^c22309491]: Marginal citation: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1); [section 48P](https://www.legislation.gov.uk/uksi/2014/3350/section/48P) was inserted by the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33), [Schedule 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2), [paragraph 4](https://www.legislation.gov.uk/ukpga/2013/33/paragraph/4).
 
-[^key-750c8fbefb3e7153272543091f78562e]: Modification: [Order](https://www.legislation.gov.uk/uksi/2014/3350): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-750c8fbefb3e7153272543091f78562e]: Modification: [Order](https://www.legislation.gov.uk/uksi/2014/3350): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-e1bbd5c263947a16416c432239e6e628]: Textual amendment: Words in art. 2(1) inserted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [28(2)(a)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/28/2/a)
+[^c-e1bbd5c263947a16416c432239e6e628]: Textual amendment: Words in art. 2(1) inserted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [28(2)(a)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/28/2/a)
 
 [^c22309501]: Marginal citation: Defined in section 2 of the Act.
 
 [^c22309511]: Marginal citation: Defined in section 258A of the Act. Section 258A was inserted by the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), [section 101](https://www.legislation.gov.uk/ukpga/2012/21/section/101).
 
-[^key-58f6ee8da7c54482c0a7911946a970bb]: Textual amendment: Words in art. 2(1) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [39(2)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/39/2/a)
+[^c-58f6ee8da7c54482c0a7911946a970bb]: Textual amendment: Words in art. 2(1) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [39(2)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/39/2/a)
 
-[^key-29666d5ad43899cd288ff87a99ec0b14]: Textual amendment: Words in art. 2(1) omitted (28.12.2020) by virtue of [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [28(2)(b)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/28/2/b)
+[^c-29666d5ad43899cd288ff87a99ec0b14]: Textual amendment: Words in art. 2(1) omitted (28.12.2020) by virtue of [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [28(2)(b)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/28/2/b)
 
-[^key-19c1c41b1f83fd17cde1b398f7f2c803]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3350/article/2/1) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 4 para. 7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/4/paragraph/7/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-19c1c41b1f83fd17cde1b398f7f2c803]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/3350/article/2/1) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 4 para. 7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/4/paragraph/7/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22309541]: Marginal citation: Amended by SI 2013/3115.
 
-[^key-e8cc0cadcd16c6230b883798ebc829df]: Textual amendment: Words in art. 2(2) substituted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [39(2)(b)](https://www.legislation.gov.uk/uksi/2016/1239/article/39/2/b)
+[^c-e8cc0cadcd16c6230b883798ebc829df]: Textual amendment: Words in art. 2(2) substituted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [39(2)(b)](https://www.legislation.gov.uk/uksi/2016/1239/article/39/2/b)
 
-[^key-e97f7ef501f68e1feb6b19e869fd0188]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/3350/article/2/2) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 4 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/4/paragraph/7/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e97f7ef501f68e1feb6b19e869fd0188]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/3350/article/2/2) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 4 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/4/paragraph/7/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-02689a27a169d55552f22cd302f37615]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2014/3350/article/4/2) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/28/3)
+[^c-02689a27a169d55552f22cd302f37615]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2014/3350/article/4/2) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/28/3)
 
 [^c22309561]: Marginal citation: SI 2001/544. Article 77 was amended by SI 2010/86; 2011/133.
 
 [^c22309571]: Marginal citation: OJ L 201, 27.7.2012, p.1.
 
-[^key-2a59b686fb553809da0c1844bf5834c2]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/3350/article/5/1) inserted (21.12.2018) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/3), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/4/paragraph/7/3)
+[^c-2a59b686fb553809da0c1844bf5834c2]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/3350/article/5/1) inserted (21.12.2018) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/3), [Sch. 4 para. 7(3)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/4/paragraph/7/3)
 
-[^key-768bd59a25264f32f6e12d33c7614849]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/3350/article/5/1) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)[(2)(h)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/2/h)
+[^c-768bd59a25264f32f6e12d33c7614849]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/3350/article/5/1) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)[(2)(h)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/2/h)
 
-[^key-267755fc3ccee1eb4105122032c067c1]: Textual amendment: Word in [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/3350/article/5/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 19](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/19)
+[^c-267755fc3ccee1eb4105122032c067c1]: Textual amendment: Word in [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/3350/article/5/1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 19](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/19)
 
 [^c22309581]: Marginal citation: Defined in section 12 of the Act, amended by article 18 of the Bank Recovery and Resolution Order 2014.
 
 [^c22309591]: Marginal citation: Section 44B was inserted by the [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [Schedule 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2), [paragraph 5(3)](https://www.legislation.gov.uk/ukpga/2013/33/paragraph/5/3), and is amended by article 46 of the Bank Recovery and Resolution Order 2014.
 
-[^key-55b466f84894e7ac0ccf73815055a336]: Textual amendment: Word in art. 6(10)(a) omitted (16.12.2016) by virtue of [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [39(3)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/39/3/a)
+[^c-55b466f84894e7ac0ccf73815055a336]: Textual amendment: Word in art. 6(10)(a) omitted (16.12.2016) by virtue of [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [39(3)(a)](https://www.legislation.gov.uk/uksi/2016/1239/article/39/3/a)
 
 [^c22309601]: Marginal citation: Section 42 was amended by the Financial Services (Banking Reform) Act 2013, Schedule 2, paragraph 5(2), and is amended by article 42 of the Bank Recovery and Resolution Order 2014.
 
-[^key-27d6fd226d7c87fe6f177b5c0b094664]: Textual amendment: Art. 6(10)(c)(d) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [39(3)(b)](https://www.legislation.gov.uk/uksi/2016/1239/article/39/3/b)
+[^c-27d6fd226d7c87fe6f177b5c0b094664]: Textual amendment: Art. 6(10)(c)(d) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [39(3)(b)](https://www.legislation.gov.uk/uksi/2016/1239/article/39/3/b)
 
-[^key-8df1f12fb3a0cf431232e2d52b9752b6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/3350) revoked (14.12.2023 for the revocation of art. 8) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xi)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xi)
+[^c-8df1f12fb3a0cf431232e2d52b9752b6]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/3350) revoked (14.12.2023 for the revocation of art. 8) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xi)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xi)

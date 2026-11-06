@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Staff governors[^key-93df68ec15b5e538c3390bcab8f63f7d]
+## 6. Staff governors[^c-93df68ec15b5e538c3390bcab8f63f7d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ and for this purpose “employed” (“*a gyflogir*”) means employed under a 
 
 ## Annotations
 
-[^key-93df68ec15b5e538c3390bcab8f63f7d]: Commencement: Reg. 6 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-93df68ec15b5e538c3390bcab8f63f7d]: Commencement: Reg. 6 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)

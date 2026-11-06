@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25B. Rights of entry and appeals[^key-4c1a9625c141fe24378019dbf60e22b1][^key-73d8702e2869f22ad0a708effff725cc]
+## 25B. Rights of entry and appeals[^c-4c1a9625c141fe24378019dbf60e22b1][^c-73d8702e2869f22ad0a708effff725cc]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Sections 161B and 161C below (including any power to make regulations) shall app
 
 ## Annotations
 
-[^key-4c1a9625c141fe24378019dbf60e22b1]: Modification: S. 25B excluded (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2006/641/regulation/26)
+[^c-4c1a9625c141fe24378019dbf60e22b1]: Modification: S. 25B excluded (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2006/641/regulation/26)
 
-[^key-73d8702e2869f22ad0a708effff725cc]: Textual amendment: Ss. 25A-25C inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 30](https://www.legislation.gov.uk/ukpga/2003/37/section/30), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(o)](https://www.legislation.gov.uk/uksi/2006/984/article/2/o)
+[^c-73d8702e2869f22ad0a708effff725cc]: Textual amendment: Ss. 25A-25C inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 30](https://www.legislation.gov.uk/ukpga/2003/37/section/30), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(o)](https://www.legislation.gov.uk/uksi/2006/984/article/2/o)

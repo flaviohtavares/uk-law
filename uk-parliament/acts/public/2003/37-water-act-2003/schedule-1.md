@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — The Water Services Regulation Authority[^key-230660c786a46f542db01bdc9946f09f]
+## SCHEDULE 1 — The Water Services Regulation Authority[^c-230660c786a46f542db01bdc9946f09f]
 
 *Extent: E+W*
 
@@ -118,7 +118,7 @@ After Schedule 1 to the WIA there is inserted—
 >
 > **Payments to the Authority**
 >
-> **11.**[^key-2fa75e2ddbc28ec38b5ce6586d5a37af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **11.**[^c-2fa75e2ddbc28ec38b5ce6586d5a37af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **Supplementary powers**
 >
@@ -128,6 +128,6 @@ After Schedule 1 to the WIA there is inserted—
 
 ## Annotations
 
-[^key-230660c786a46f542db01bdc9946f09f]: Commencement: Sch. 1 in force at 1.4.2006 for specified purposes by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(a)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/a) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-230660c786a46f542db01bdc9946f09f]: Commencement: Sch. 1 in force at 1.4.2006 for specified purposes by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(a)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/a) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-2fa75e2ddbc28ec38b5ce6586d5a37af]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2003/37/schedule/1) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 172](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/172), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-2fa75e2ddbc28ec38b5ce6586d5a37af]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/ukpga/2003/37/schedule/1) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 172](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/172), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

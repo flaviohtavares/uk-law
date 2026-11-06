@@ -24,18 +24,18 @@ summary: ''
 
 2. A CCP may accept, where appropriate and sufficiently prudent, the underlying of the derivative contract or the financial instrument that originates the CCP exposure as collateral to cover its margin requirements.
 
-3. The Bank of England may make[^key-2eaef1693df5f3b5ece939fb57150fc4] technical standards specifying:
+3. The Bank of England may make[^c-2eaef1693df5f3b5ece939fb57150fc4] technical standards specifying:
 
 - (a) the type of collateral that could be considered highly liquid, such as cash, gold, government and high-quality corporate bonds and covered bonds;
 - (b) the haircuts referred to in paragraph 1; and
 - (c) the conditions under which commercial bank guarantees may be accepted as collateral under paragraph 1.
 
-[^key-a231c836ef0d485041c808d3053ddbfa]...
+[^c-a231c836ef0d485041c808d3053ddbfa]...
 
-[^key-a231c836ef0d485041c808d3053ddbfa]...
+[^c-a231c836ef0d485041c808d3053ddbfa]...
 
 ## Annotations
 
-[^key-2eaef1693df5f3b5ece939fb57150fc4]: Textual amendment: Words in [Art. 46(3)](https://www.legislation.gov.uk/eur/2012/648/article/46/3) substituted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [47(a)](https://www.legislation.gov.uk/uksi/2019/335/regulation/47/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2eaef1693df5f3b5ece939fb57150fc4]: Textual amendment: Words in [Art. 46(3)](https://www.legislation.gov.uk/eur/2012/648/article/46/3) substituted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [47(a)](https://www.legislation.gov.uk/uksi/2019/335/regulation/47/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a231c836ef0d485041c808d3053ddbfa]: Textual amendment: Words in [Art. 46(3)](https://www.legislation.gov.uk/eur/2012/648/article/46/3) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [47(b)](https://www.legislation.gov.uk/uksi/2019/335/regulation/47/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a231c836ef0d485041c808d3053ddbfa]: Textual amendment: Words in [Art. 46(3)](https://www.legislation.gov.uk/eur/2012/648/article/46/3) omitted (31.12.2020) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [47(b)](https://www.legislation.gov.uk/uksi/2019/335/regulation/47/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

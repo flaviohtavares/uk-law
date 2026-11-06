@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Application for decision on whether proposed bargaining unit is appropriate[^key-44c1cc63ec3548d47fc70ed689428f31]
+## 1. Application for decision on whether proposed bargaining unit is appropriate[^c-44c1cc63ec3548d47fc70ed689428f31]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44c1cc63ec3548d47fc70ed689428f31]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2004/24/section/1) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/872/article/6))
+[^c-44c1cc63ec3548d47fc70ed689428f31]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2004/24/section/1) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/872/article/6))

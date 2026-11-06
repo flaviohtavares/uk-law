@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1
 
 The Department for Social Development, in exercise of the powers conferred by sections 122(1)(a) and (d), 130, 132 and 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 14(1), (2) and (4), 15(1) and (2A) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and sections 15(1)(j), (3) and (6)(b) and 19(1), (2)(a) and (3) of the State Pension Credit Act (Northern Ireland) 2002[^f00004] and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00005] in so far as regulation 3 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00006], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-66ac523f13bab7df042bb43b143ce0f8]
+## 1. Citation, commencement and interpretation[^c-66ac523f13bab7df042bb43b143ce0f8]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2005 and shall, subject to paragraphs (2) to (5), come into operation on 3rd October 2005.
 
@@ -71,16 +71,16 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (8) The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support Regulations[^key-d7c4b4c20ce6b67ee7430994149ea82b][^key-8232497bd6c24da97033f177ffef0e13][^key-43d1a0ce92d93fef2b909c09f98a6de5][^key-54e266ecf30b5959fd7e144a680019c2][^key-3010f42b0bea66c95c3dae9d0a21da04][^key-54332c4cf3c5553bc3d6030c4f33f548]
+## 2. Amendment of the Income Support Regulations[^c-d7c4b4c20ce6b67ee7430994149ea82b][^c-8232497bd6c24da97033f177ffef0e13][^c-43d1a0ce92d93fef2b909c09f98a6de5][^c-54e266ecf30b5959fd7e144a680019c2][^c-3010f42b0bea66c95c3dae9d0a21da04][^c-54332c4cf3c5553bc3d6030c4f33f548]
 
-(1)[^key-d7c4b4c20ce6b67ee7430994149ea82b] The Income Support Regulations shall be amended in accordance with paragraphs (2) to (9).
+(1)[^c-d7c4b4c20ce6b67ee7430994149ea82b] The Income Support Regulations shall be amended in accordance with paragraphs (2) to (9).
 
-(2)[^key-8232497bd6c24da97033f177ffef0e13] In regulation 41(1)[^f00012] (capital treated as income) the words “£8,000 or, in a case where regulation 45(aa) (capital limit) applies, £12,000 or, in a case where regulation 45(b) applies,” shall be omitted.
+(2)[^c-8232497bd6c24da97033f177ffef0e13] In regulation 41(1)[^f00012] (capital treated as income) the words “£8,000 or, in a case where regulation 45(aa) (capital limit) applies, £12,000 or, in a case where regulation 45(b) applies,” shall be omitted.
 
 (3) In regulation 42 (notional income)—
 
-- (a)[^key-43d1a0ce92d93fef2b909c09f98a6de5] in paragraph (2)(g)[^f00013] after “personal pension scheme” there shall be inserted “, occupational pension scheme”;
-- (b)[^key-43d1a0ce92d93fef2b909c09f98a6de5] for paragraph (2A)[^f00014] there shall be substituted the following paragraphs—
+- (a)[^c-43d1a0ce92d93fef2b909c09f98a6de5] in paragraph (2)(g)[^f00013] after “personal pension scheme” there shall be inserted “, occupational pension scheme”;
+- (b)[^c-43d1a0ce92d93fef2b909c09f98a6de5] for paragraph (2A)[^f00014] there shall be substituted the following paragraphs—
 
   > (2ZA) A claimant who has attained the age of 60 shall be treated as possessing—
   >
@@ -102,17 +102,17 @@ The Department for Social Development, in exercise of the powers conferred by se
   > the amount of any income foregone shall be treated as possessed by him, but only from the date on which it could be expected to be acquired were an application for it to be made.
 
   ;
-- (c)[^key-43d1a0ce92d93fef2b909c09f98a6de5] in paragraph (2C)[^f00015]—
+- (c)[^c-43d1a0ce92d93fef2b909c09f98a6de5] in paragraph (2C)[^f00015]—
   - (i) for “relevant personal pension scheme” there shall be substituted “relevant occupational or personal pension scheme”, and
   - (ii) for “under a personal pension scheme” there shall be substituted “under a scheme”;
-- (d)[^key-43d1a0ce92d93fef2b909c09f98a6de5] after paragraph (2C) there shall be inserted—
+- (d)[^c-43d1a0ce92d93fef2b909c09f98a6de5] after paragraph (2C) there shall be inserted—
 
   > (2CA) In paragraph (2A), “money purchase benefits” has the meaning it has in the Pension Schemes (Northern Ireland) Act 1993[^f00016].
 
   ; and
 - (e) at the end of paragraph (4)[^f00017] after “any payment in kind” there shall be added “to the third party”.
 
-(4)[^key-8232497bd6c24da97033f177ffef0e13] For regulation 45[^f00018] (capital limit) there shall be substituted the following regulation—
+(4)[^c-8232497bd6c24da97033f177ffef0e13] For regulation 45[^f00018] (capital limit) there shall be substituted the following regulation—
 
 > **45. Capital Limit**
 >
@@ -120,13 +120,13 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 .
 
-(5)[^key-54e266ecf30b5959fd7e144a680019c2] In regulation 51(2) (notional capital) after sub-paragraph (d)[^f00019] there shall be inserted the following sub-paragraph—
+(5)[^c-54e266ecf30b5959fd7e144a680019c2] In regulation 51(2) (notional capital) after sub-paragraph (d)[^f00019] there shall be inserted the following sub-paragraph—
 
 > - (da) an occupational pension scheme where the claimant is aged under 60; or
 
 .
 
-(6)[^key-8232497bd6c24da97033f177ffef0e13] In regulation 53[^f00020] (calculation of tariff income from capital)—
+(6)[^c-8232497bd6c24da97033f177ffef0e13] In regulation 53[^f00020] (calculation of tariff income from capital)—
 
 - (a) in paragraph (1)—
   - (i) the words “(1ZA) or” shall be omitted;
@@ -136,23 +136,23 @@ The Department for Social Development, in exercise of the powers conferred by se
 - (c) in paragraph (1B) the words “and regulation 45” shall be omitted; and
 - (d) in paragraphs (2) and (3) “, (1ZA)” shall be omitted.
 
-(7)[^key-8232497bd6c24da97033f177ffef0e13] In Schedule 3[^f00021] (housing costs) in paragraph 14(4)(a) and (c) for “£8,000” there shall be substituted “£16,000”.
+(7)[^c-8232497bd6c24da97033f177ffef0e13] In Schedule 3[^f00021] (housing costs) in paragraph 14(4)(a) and (c) for “£8,000” there shall be substituted “£16,000”.
 
 (8) In Schedule 9 (sums to be disregarded in the calculation of income other than earnings)—
 
-- (a)[^key-d7c4b4c20ce6b67ee7430994149ea82b] in paragraph 21[^f00022] after sub-paragraph (3) there shall be added the following sub-paragraph—
+- (a)[^c-d7c4b4c20ce6b67ee7430994149ea82b] in paragraph 21[^f00022] after sub-paragraph (3) there shall be added the following sub-paragraph—
 
   > (4) The reference in sub-paragraph (1) to “income in kind” does not include a payment to a third party made in respect of the claimant which is used by the third party to provide benefits in kind to the claimant.
 
   ;
-- (b)[^key-3010f42b0bea66c95c3dae9d0a21da04] in paragraph 25—
+- (b)[^c-3010f42b0bea66c95c3dae9d0a21da04] in paragraph 25—
   - (i) in sub-paragraph (1)(b)[^f00023] for “in accordance with regulations made under section 57A of the Adoption Act 1976 (permitted allowances) or paragraph 3 of Schedule 4 to the Adoption and Children Act 2002 or” there shall be substituted “pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002[^f00024] or in accordance”, and
   - (ii) for sub-paragraph (1A)[^f00025] there shall be substituted the following sub-paragraph—
 
     > (1A) Any payment, other than a payment to which sub-paragraph (1)(b) applies, made to the claimant pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002.
 
     ; and
-- (c)[^key-d7c4b4c20ce6b67ee7430994149ea82b] for paragraph 58[^f00026] there shall be substituted the following paragraph—
+- (c)[^c-d7c4b4c20ce6b67ee7430994149ea82b] for paragraph 58[^f00026] there shall be substituted the following paragraph—
 
   > **58.** Any payment made under regulations made under section 8 of the Carers and Direct Payments Act (Northern Ireland) 2002[^f00027].
 
@@ -160,31 +160,31 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (9) In Schedule 10 (capital to be disregarded)—
 
-- (a)[^key-d7c4b4c20ce6b67ee7430994149ea82b] for paragraph 63[^f00028] there shall be substituted the following paragraph—
+- (a)[^c-d7c4b4c20ce6b67ee7430994149ea82b] for paragraph 63[^f00028] there shall be substituted the following paragraph—
 
   > **63.** Any payment made under regulations made under section 8 of the Carers and Direct Payments Act (Northern Ireland) 2002.
 
   ; and
-- (b)[^key-54332c4cf3c5553bc3d6030c4f33f548] for paragraph 64[^f00029] there shall be substituted the following paragraph—
+- (b)[^c-54332c4cf3c5553bc3d6030c4f33f548] for paragraph 64[^f00029] there shall be substituted the following paragraph—
 
   > **64.** Any payment made to the claimant pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002.
 
   .
 
-## 3. Amendment of the Housing Benefit (General) Regulations[^key-14382dd4d46fed4189ebaff7339ea33b]
+## 3. Amendment of the Housing Benefit (General) Regulations[^c-14382dd4d46fed4189ebaff7339ea33b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-338fae34894b756df61214836a03d3d8][^key-6acd787b5dcb3e6ff5a531257fb31d04][^key-a126033b2ff59f372c305000a95faa99][^key-b099a771d102560ef7e97cb4bdabd762][^key-a6a81c8ac92a1d0582c0d213c6af198d][^key-8438e6b957d165408ee84d212a8ffc6d]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-338fae34894b756df61214836a03d3d8][^c-6acd787b5dcb3e6ff5a531257fb31d04][^c-a126033b2ff59f372c305000a95faa99][^c-b099a771d102560ef7e97cb4bdabd762][^c-a6a81c8ac92a1d0582c0d213c6af198d][^c-8438e6b957d165408ee84d212a8ffc6d]
 
-(1)[^key-338fae34894b756df61214836a03d3d8] The Jobseeker’s Allowance Regulations shall be amended in accordance with paragraphs (2) to (9).
+(1)[^c-338fae34894b756df61214836a03d3d8] The Jobseeker’s Allowance Regulations shall be amended in accordance with paragraphs (2) to (9).
 
-(2)[^key-6acd787b5dcb3e6ff5a531257fb31d04] In regulation 104(1)[^f00040] (capital treated as income) the words “£8,000 or, in a case where regulation 107(aa) (capital limit) applies, £12,000 or, in a case where regulation 107(b) applies,” shall be omitted.
+(2)[^c-6acd787b5dcb3e6ff5a531257fb31d04] In regulation 104(1)[^f00040] (capital treated as income) the words “£8,000 or, in a case where regulation 107(aa) (capital limit) applies, £12,000 or, in a case where regulation 107(b) applies,” shall be omitted.
 
 (3) In regulation 105 (notional income)—
 
-- (a)[^key-a126033b2ff59f372c305000a95faa99] in paragraph (2)(g) after “personal pension scheme” there shall be inserted “or occupational pension scheme”;
-- (b)[^key-a126033b2ff59f372c305000a95faa99] before paragraph (3) there shall be inserted the following paragraph—
+- (a)[^c-a126033b2ff59f372c305000a95faa99] in paragraph (2)(g) after “personal pension scheme” there shall be inserted “or occupational pension scheme”;
+- (b)[^c-a126033b2ff59f372c305000a95faa99] before paragraph (3) there shall be inserted the following paragraph—
 
   > (2B) A claimant who has attained the age of 60 shall be treated as possessing—
   >
@@ -196,16 +196,16 @@ The Department for Social Development, in exercise of the powers conferred by se
   > but only from the date on which it could be expected to be acquired were an application for it to be made.
 
   ;
-- (c)[^key-f4ac0a7f381ed9707de16cdce5487cd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-a126033b2ff59f372c305000a95faa99] in paragraph (5) for “personal pension scheme been held under a personal pension scheme” there shall be substituted “occupational or personal pension scheme been held under a scheme”;
-- (e)[^key-a126033b2ff59f372c305000a95faa99] after paragraph (5) there shall be inserted the following paragraph—
+- (c)[^c-f4ac0a7f381ed9707de16cdce5487cd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-a126033b2ff59f372c305000a95faa99] in paragraph (5) for “personal pension scheme been held under a personal pension scheme” there shall be substituted “occupational or personal pension scheme been held under a scheme”;
+- (e)[^c-a126033b2ff59f372c305000a95faa99] after paragraph (5) there shall be inserted the following paragraph—
 
   > (5A) In paragraph (3), “money purchase benefits” has the meaning it has in the Pension Schemes (Northern Ireland) Act 1993.
 
   ; and
-- (f)[^key-338fae34894b756df61214836a03d3d8] at the end of paragraph (10)[^f00041] after “any payment in kind” there shall be added “to the third party”.
+- (f)[^c-338fae34894b756df61214836a03d3d8] at the end of paragraph (10)[^f00041] after “any payment in kind” there shall be added “to the third party”.
 
-(4)[^key-6acd787b5dcb3e6ff5a531257fb31d04] For regulation 107[^f00042] (capital limit) there shall be substituted the following regulation—
+(4)[^c-6acd787b5dcb3e6ff5a531257fb31d04] For regulation 107[^f00042] (capital limit) there shall be substituted the following regulation—
 
 > **107. Capital limit**
 >
@@ -213,13 +213,13 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 .
 
-(5)[^key-b099a771d102560ef7e97cb4bdabd762] In regulation 113(2)[^f00043] (notional capital) after sub-paragraph (d) there shall be inserted the following sub-paragraph—
+(5)[^c-b099a771d102560ef7e97cb4bdabd762] In regulation 113(2)[^f00043] (notional capital) after sub-paragraph (d) there shall be inserted the following sub-paragraph—
 
 > - (da) an occupational pension scheme where the claimant is aged under 60; or
 
 .
 
-(6)[^key-6acd787b5dcb3e6ff5a531257fb31d04] In regulation 116[^f00044] (calculation of tariff income from capital)—
+(6)[^c-6acd787b5dcb3e6ff5a531257fb31d04] In regulation 116[^f00044] (calculation of tariff income from capital)—
 
 - (a) in paragraph (1)—
   - (i) the words “(1ZA) or” shall be omitted;
@@ -228,23 +228,23 @@ The Department for Social Development, in exercise of the powers conferred by se
 - (b) paragraph (1ZA) shall be omitted; and
 - (c) in paragraphs (2) and (3) “, (1ZA)” shall be omitted.
 
-(7)[^key-6acd787b5dcb3e6ff5a531257fb31d04] In Schedule 2 (housing costs) in paragraph 13(5)(a) and (c)[^f00045] for “£8,000” there shall be substituted “£16,000”.
+(7)[^c-6acd787b5dcb3e6ff5a531257fb31d04] In Schedule 2 (housing costs) in paragraph 13(5)(a) and (c)[^f00045] for “£8,000” there shall be substituted “£16,000”.
 
 (8) In Schedule 6 (sums to be disregarded in the calculation of income other than earnings)—
 
-- (a)[^key-338fae34894b756df61214836a03d3d8] in paragraph 22[^f00046] after sub-paragraph (3) there shall be added the following sub-paragraph—
+- (a)[^c-338fae34894b756df61214836a03d3d8] in paragraph 22[^f00046] after sub-paragraph (3) there shall be added the following sub-paragraph—
 
   > (4) The reference in sub-paragraph (1) to “income in kind” does not include a payment to a third party made in respect of the claimant which is used by the third party to provide benefits in kind to the claimant.
 
   ;
-- (b)[^key-a6a81c8ac92a1d0582c0d213c6af198d] in paragraph 26—
+- (b)[^c-a6a81c8ac92a1d0582c0d213c6af198d] in paragraph 26—
   - (i) in sub-paragraph (1)(b)[^f00047] for “in accordance with regulations made under section 57A of the Adoption Act 1976 (permitted allowances) or paragraph 3 of Schedule 4 to the Adoption and Children Act 2002 or” there shall be substituted “pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002 or in accordance”, and
   - (ii) for sub-paragraph (1A)[^f00048] there shall be substituted the following sub-paragraph—
 
     > (1A) Any payment, other than a payment to which sub-paragraph (1)(b) applies, made to the claimant pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002.
 
     ; and
-- (c)[^key-338fae34894b756df61214836a03d3d8] for paragraph 56[^f00049] there shall be substituted the following paragraph—
+- (c)[^c-338fae34894b756df61214836a03d3d8] for paragraph 56[^f00049] there shall be substituted the following paragraph—
 
   > **56.** Any payment made under regulations made under section 8 of the Carers and Direct Payments Act (Northern Ireland) 2002.
 
@@ -252,18 +252,18 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (9) In Schedule 7 (capital to be disregarded)—
 
-- (a)[^key-338fae34894b756df61214836a03d3d8] for paragraph 56[^f00050] there shall be substituted the following paragraph—
+- (a)[^c-338fae34894b756df61214836a03d3d8] for paragraph 56[^f00050] there shall be substituted the following paragraph—
 
   > **56.** Any payment made under regulations made under section 8 of the Carers and Direct Payments Act (Northern Ireland) 2002.
 
   ; and
-- (b)[^key-8438e6b957d165408ee84d212a8ffc6d] for paragraph 57[^f00051] there shall be substituted the following paragraph—
+- (b)[^c-8438e6b957d165408ee84d212a8ffc6d] for paragraph 57[^f00051] there shall be substituted the following paragraph—
 
   > **57.** Any payment made to the claimant pursuant to regulations under section 2(6)(b), 3 or 4 of the Adoption and Children Act 2002.
 
   .
 
-## 5. Amendment of the State Pension Credit Regulations[^key-134c8e64473e89f90f24ebf1531161e1]
+## 5. Amendment of the State Pension Credit Regulations[^c-134c8e64473e89f90f24ebf1531161e1]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00052] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -339,7 +339,7 @@ These Regulations do not impose any charge on business.
 
 [^f00006]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-66ac523f13bab7df042bb43b143ce0f8]: Commencement: Reg. 1 in operation at 3.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/1)
+[^c-66ac523f13bab7df042bb43b143ce0f8]: Commencement: Reg. 1 in operation at 3.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/1)
 
 [^f00007]: Footnote: The definition of “benefit week” was amended by regulation 2(a) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
 
@@ -351,17 +351,17 @@ These Regulations do not impose any charge on business.
 
 [^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-d7c4b4c20ce6b67ee7430994149ea82b]: Commencement: Reg. 2(1)(8)(a)(c)(9)(a) in operation at 3.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/1)
+[^c-d7c4b4c20ce6b67ee7430994149ea82b]: Commencement: Reg. 2(1)(8)(a)(c)(9)(a) in operation at 3.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/1)
 
-[^key-8232497bd6c24da97033f177ffef0e13]: Commencement: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/2)[(4)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/4)[(6)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/6)[(7)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/7) in operation at 10.4.2006 coming into force in accordance with , see [reg. 1(5)(a)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/5/a)
+[^c-8232497bd6c24da97033f177ffef0e13]: Commencement: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/2)[(4)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/4)[(6)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/6)[(7)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/7) in operation at 10.4.2006 coming into force in accordance with , see [reg. 1(5)(a)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/5/a)
 
-[^key-43d1a0ce92d93fef2b909c09f98a6de5]: Commencement: [Reg. 2(3)(a)-(d)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/3/a) in operation at 6.4.2006, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/4/a)
+[^c-43d1a0ce92d93fef2b909c09f98a6de5]: Commencement: [Reg. 2(3)(a)-(d)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/3/a) in operation at 6.4.2006, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/4/a)
 
-[^key-54e266ecf30b5959fd7e144a680019c2]: Commencement: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/5) in operation at 6.4.2006, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/4/a)
+[^c-54e266ecf30b5959fd7e144a680019c2]: Commencement: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/5) in operation at 6.4.2006, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/4/a)
 
-[^key-3010f42b0bea66c95c3dae9d0a21da04]: Commencement: [Reg. 2(8)(b)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/8/b) in operation at 30.12.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/2/a)
+[^c-3010f42b0bea66c95c3dae9d0a21da04]: Commencement: [Reg. 2(8)(b)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/8/b) in operation at 30.12.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/2/a)
 
-[^key-54332c4cf3c5553bc3d6030c4f33f548]: Commencement: [Reg. 2(9)(b)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/9/b) in operation at 30.12.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/2/a)
+[^c-54332c4cf3c5553bc3d6030c4f33f548]: Commencement: [Reg. 2(9)(b)](https://www.legislation.gov.uk/nisr/2005/424/regulation/2/9/b) in operation at 30.12.2005, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/2/a)
 
 [^f00012]: Footnote: Regulation 41(1) was substituted by Article 7(6) of [S.R. 1999 No. 472 (C. 36)](https://www.legislation.gov.uk/nisr/1999/472) and amended by regulation 2(1)(a) of [S.R. 2000 No. 366](https://www.legislation.gov.uk/nisr/2000/366)
 
@@ -399,23 +399,23 @@ These Regulations do not impose any charge on business.
 
 [^f00029]: Footnote: Paragraph 64 was added by regulation 2(5)(b) of [S.R. 2003 No. 417](https://www.legislation.gov.uk/nisr/2003/417)
 
-[^key-14382dd4d46fed4189ebaff7339ea33b]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/424/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-14382dd4d46fed4189ebaff7339ea33b]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/424/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-338fae34894b756df61214836a03d3d8]: Commencement: Reg. 4(1)(3)(f)(8)(a)(c)(9)(a) in operation at 3.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/1)
+[^c-338fae34894b756df61214836a03d3d8]: Commencement: Reg. 4(1)(3)(f)(8)(a)(c)(9)(a) in operation at 3.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/1)
 
-[^key-6acd787b5dcb3e6ff5a531257fb31d04]: Commencement: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/2)[(4)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/4)[(6)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/6)[(7)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/7) in operation at 10.4.2006 coming into force in accordance with , see [reg. 1(5)(b)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/5/b)
+[^c-6acd787b5dcb3e6ff5a531257fb31d04]: Commencement: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/2)[(4)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/4)[(6)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/6)[(7)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/7) in operation at 10.4.2006 coming into force in accordance with , see [reg. 1(5)(b)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/5/b)
 
-[^key-a126033b2ff59f372c305000a95faa99]: Commencement: [Reg. 4(3)(a)-(e)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/3/a) in operation at 6.4.2006, see [reg. 1(4)(c)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/4/c)
+[^c-a126033b2ff59f372c305000a95faa99]: Commencement: [Reg. 4(3)(a)-(e)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/3/a) in operation at 6.4.2006, see [reg. 1(4)(c)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/4/c)
 
-[^key-b099a771d102560ef7e97cb4bdabd762]: Commencement: [Reg. 4(5)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/5) in operation at 6.4.2006, see [reg. 1(4)(c)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/4/c)
+[^c-b099a771d102560ef7e97cb4bdabd762]: Commencement: [Reg. 4(5)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/5) in operation at 6.4.2006, see [reg. 1(4)(c)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/4/c)
 
-[^key-a6a81c8ac92a1d0582c0d213c6af198d]: Commencement: [Reg. 4(8)(b)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/8/b) in operation at 30.12.2005, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/2/c)
+[^c-a6a81c8ac92a1d0582c0d213c6af198d]: Commencement: [Reg. 4(8)(b)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/8/b) in operation at 30.12.2005, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/2/c)
 
-[^key-8438e6b957d165408ee84d212a8ffc6d]: Commencement: [Reg. 4(9)(b)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/9/b) in operation at 30.12.2005, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/2/c)
+[^c-8438e6b957d165408ee84d212a8ffc6d]: Commencement: [Reg. 4(9)(b)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/9/b) in operation at 30.12.2005, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/2/c)
 
 [^f00040]: Footnote: Regulation 104(1) was amended by regulation 3(2) of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22), Article 9(8)(b) of [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428) and regulation 2(2)(a) of [S.R. 2000 No. 366](https://www.legislation.gov.uk/nisr/2000/366)
 
-[^key-f4ac0a7f381ed9707de16cdce5487cd8]: Textual amendment: [Reg. 4(3)(c)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/3/c) revoked (16.7.2007) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/306)](https://www.legislation.gov.uk/nisr/2007/306), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2007/306/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2007/306/schedule)
+[^c-f4ac0a7f381ed9707de16cdce5487cd8]: Textual amendment: [Reg. 4(3)(c)](https://www.legislation.gov.uk/nisr/2005/424/regulation/4/3/c) revoked (16.7.2007) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/306)](https://www.legislation.gov.uk/nisr/2007/306), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2007/306/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2007/306/schedule)
 
 [^f00041]: Footnote: Paragraph 10 was amended by regulation 2(1)(a) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326), regulation 2(1)(b) of [S.R. 1999 No. 391](https://www.legislation.gov.uk/nisr/1999/391), paragraph 42 of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350), regulation 4(3) of [S.R. 2002 No. 128](https://www.legislation.gov.uk/nisr/2002/128), paragraph 10(c) and (d) of Schedule 2 to [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195) and regulation 2(7) of [S.R. 2005 No. 98](https://www.legislation.gov.uk/nisr/2005/98)
 
@@ -439,7 +439,7 @@ These Regulations do not impose any charge on business.
 
 [^f00051]: Footnote: Paragraph 57 was added by regulation 4(5)(b) of [S.R. 2003 No. 417](https://www.legislation.gov.uk/nisr/2003/417)
 
-[^key-134c8e64473e89f90f24ebf1531161e1]: Commencement: Reg. 5 in operation at 3.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/1)
+[^c-134c8e64473e89f90f24ebf1531161e1]: Commencement: Reg. 5 in operation at 3.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/424/regulation/1/1)
 
 [^f00052]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); relevant amending regulations are [S.I. 2003/2175](https://www.legislation.gov.uk/uksi/2003/2175)
 

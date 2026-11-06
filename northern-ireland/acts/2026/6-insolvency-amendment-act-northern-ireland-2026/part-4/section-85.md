@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Bankrupt’s home[^key-81d26df81c77e11991ed0ca9391047e1]
+## 85. Bankrupt’s home[^c-81d26df81c77e11991ed0ca9391047e1]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 305(2) (saving for bankrupt’s home), for “summon a meeting under 
 
 ## Annotations
 
-[^key-81d26df81c77e11991ed0ca9391047e1]: Commencement: S. 85 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-81d26df81c77e11991ed0ca9391047e1]: Commencement: S. 85 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

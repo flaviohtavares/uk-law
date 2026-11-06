@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Appeal by proprietor against order of justice of the peace[^key-b620e2a3ca1ef02e72631039513e18e1]
+## 126. Appeal by proprietor against order of justice of the peace[^c-b620e2a3ca1ef02e72631039513e18e1]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b620e2a3ca1ef02e72631039513e18e1]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2008/25/section/126) in force at 5.1.2015 in so far as not already in force by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(t)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/t)
+[^c-b620e2a3ca1ef02e72631039513e18e1]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2008/25/section/126) in force at 5.1.2015 in so far as not already in force by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(t)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/t)

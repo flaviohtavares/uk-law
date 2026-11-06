@@ -49,7 +49,7 @@ summary: ''
 - (a) the Department of Justice; or
 - (b) any other Northern Ireland department with the concurrence of the Department of Justice,
 
-may provide for a discretion to be subject to appeal to a specified court or tribunal; but any such order may only be made after consultation with the Lord Chief Justice where the appeal is to a specified court.[^key-7362cba33aaef9771eb9c72becb4e54b]
+may provide for a discretion to be subject to appeal to a specified court or tribunal; but any such order may only be made after consultation with the Lord Chief Justice where the appeal is to a specified court.[^c-7362cba33aaef9771eb9c72becb4e54b]
 
 (8) The Northern Ireland department making the order may specify itself for the purposes of paragraph (5)(d) or (6)(a) or (b).
 
@@ -84,4 +84,4 @@ may provide for a discretion to be subject to appeal to a specified court or tri
 
 [^c22073351]: Textual amendment: Art. 24(7) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2010/976/article/15/5), [Sch. 18 para. 163](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/163) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-7362cba33aaef9771eb9c72becb4e54b]: Textual amendment: Words in [art. 24(7)](https://www.legislation.gov.uk/nisi/2005/1455/article/24/7) added (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 25](https://www.legislation.gov.uk/nia/2016/2/section/25), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-7362cba33aaef9771eb9c72becb4e54b]: Textual amendment: Words in [art. 24(7)](https://www.legislation.gov.uk/nisi/2005/1455/article/24/7) added (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [ss. 25](https://www.legislation.gov.uk/nia/2016/2/section/25), [28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

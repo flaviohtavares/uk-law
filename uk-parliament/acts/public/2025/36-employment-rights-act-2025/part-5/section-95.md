@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Annual reports[^key-86339eabf9d41981b54aed4ae9f18712][^key-d10049b472296bf1e67a2d473ed4e37b]
+## 95. Annual reports[^c-86339eabf9d41981b54aed4ae9f18712][^c-d10049b472296bf1e67a2d473ed4e37b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-86339eabf9d41981b54aed4ae9f18712]: Commencement: S. 95 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-86339eabf9d41981b54aed4ae9f18712]: Commencement: S. 95 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-d10049b472296bf1e67a2d473ed4e37b]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2025/36/section/95) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(6)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/6/b)
+[^c-d10049b472296bf1e67a2d473ed4e37b]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2025/36/section/95) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(6)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/6/b)

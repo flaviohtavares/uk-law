@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.1. Form of determination[^key-81c3e3aa17a8cf26b11b4452547953a0]
+## 6.1. Form of determination[^c-81c3e3aa17a8cf26b11b4452547953a0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A determination under section 26 is to be in Form 6.1.
 
 ## Annotations
 
-[^key-81c3e3aa17a8cf26b11b4452547953a0]: Commencement: [Rule 6.1](https://www.legislation.gov.uk/ssi/2017/103/rule/6.1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-81c3e3aa17a8cf26b11b4452547953a0]: Commencement: [Rule 6.1](https://www.legislation.gov.uk/ssi/2017/103/rule/6.1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

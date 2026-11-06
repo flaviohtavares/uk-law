@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-378cd40c654fdfdcb2560967c781c3ba]
+The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-378cd40c654fdfdcb2560967c781c3ba]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 1st April 1998
 
-[^key-378cd40c654fdfdcb2560967c781c3ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-378cd40c654fdfdcb2560967c781c3ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-378cd40c654fdfdcb2560967c781c3ba]
+## 1. Citation, commencement and interpretation[^c-378cd40c654fdfdcb2560967c781c3ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-378cd40c654fdfdcb2560967c781c3ba]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-378cd40c654fdfdcb2560967c781c3ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-378cd40c654fdfdcb2560967c781c3ba]
+## 3. Revocation[^c-378cd40c654fdfdcb2560967c781c3ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-378cd40c654fdfdcb2560967c781c3ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-378cd40c654fdfdcb2560967c781c3ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-378cd40c654fdfdcb2560967c781c3ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-378cd40c654fdfdcb2560967c781c3ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-378cd40c654fdfdcb2560967c781c3ba]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/554) revoked (1.4.1999) by [The Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/428)](https://www.legislation.gov.uk/nisr/1998/428), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/428/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/1998/428/regulation/3)
+[^c-378cd40c654fdfdcb2560967c781c3ba]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/554) revoked (1.4.1999) by [The Social Security (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/428)](https://www.legislation.gov.uk/nisr/1998/428), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/428/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/1998/428/regulation/3)

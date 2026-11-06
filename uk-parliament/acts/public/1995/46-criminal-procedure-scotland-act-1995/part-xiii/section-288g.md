@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288G. Application of vulnerable witnesses provisions to proceedings in the district court[^key-e333823013b1e3030a9bb85f51768f79]
+## 288G. Application of vulnerable witnesses provisions to proceedings in the district court[^c-e333823013b1e3030a9bb85f51768f79]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ of this Act to apply, subject to such modifications (if any) as may be specified
 
 ## Annotations
 
-[^key-e333823013b1e3030a9bb85f51768f79]: Textual amendment: S. 288G and crossheading inserted (1.7.2015) by [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), [ss. 10](https://www.legislation.gov.uk/asp/2004/3/section/10), [25(1)](https://www.legislation.gov.uk/asp/2004/3/section/25/1); [S.S.I. 2015/244](https://www.legislation.gov.uk/ssi/2015/244), [art. 2](https://www.legislation.gov.uk/ssi/2015/244/article/2)
+[^c-e333823013b1e3030a9bb85f51768f79]: Textual amendment: S. 288G and crossheading inserted (1.7.2015) by [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), [ss. 10](https://www.legislation.gov.uk/asp/2004/3/section/10), [25(1)](https://www.legislation.gov.uk/asp/2004/3/section/25/1); [S.S.I. 2015/244](https://www.legislation.gov.uk/ssi/2015/244), [art. 2](https://www.legislation.gov.uk/ssi/2015/244/article/2)

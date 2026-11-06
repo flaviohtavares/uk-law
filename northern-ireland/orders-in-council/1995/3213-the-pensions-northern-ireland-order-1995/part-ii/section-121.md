@@ -55,7 +55,7 @@ summary: ''
 - [^c17252801]“the Taxes Act 1988” means the Income and Corporation Taxes Act 1988,
 - “transfer credits” means rights allowed to a member under the rules of an occupational pension scheme by reference to
   - (a) a transfer to the scheme of, or transfer payment to the trustees or managers of the scheme in respect of, any of his rights (including transfer credits allowed) under another occupational pension scheme or a personal pension scheme, other than pension credit rights, or[^c19662721]
-  - (b) a cash transfer sum paid under Chapter 2 of Part 4ZA of the Pension Schemes Act (transfers and contribution refunds)[^key-0e27980bc5fc8678898992deaadab622] in respect of him, to the trustees or managers of the scheme,
+  - (b) a cash transfer sum paid under Chapter 2 of Part 4ZA of the Pension Schemes Act (transfers and contribution refunds)[^c-0e27980bc5fc8678898992deaadab622] in respect of him, to the trustees or managers of the scheme,
 - “trustees or managers”, in relation to an occupational pension scheme, means—
   - (a) in the case of a trust scheme, the trustees of the scheme, and
   - (b) in any other case, the managers of the scheme,
@@ -75,22 +75,22 @@ and references to accrued pension or accrued benefits are to be interpreted acco
 - (a) service notionally attributable for any purpose of the scheme is to be disregarded, and
 - (b) no account is to be taken of any rules of the scheme by which a period of service can be treated for any purpose as being longer or shorter than it actually is but, in its application for the purposes of Article 51, sub‐paragraph (b) does not affect the operation of any rules of the scheme by virtue of which a period of service is to be rounded up or down by a period of less than a month.
 
-(4)[^key-c209015a7c434f386ccbe13228f92c24][^c17252861] In a case of the winding-up of an occupational pension scheme in pursuance of an order of the Authority under Article 11 or of an order of a court, the winding-up shall (subject to paragraph (8) and to Articles 24, 138 and 198 of the Pensions (Northern Ireland) Order 2005[^c19662891]) be taken for the purposes of this Part to begin—
+(4)[^c-c209015a7c434f386ccbe13228f92c24][^c17252861] In a case of the winding-up of an occupational pension scheme in pursuance of an order of the Authority under Article 11 or of an order of a court, the winding-up shall (subject to paragraph (8) and to Articles 24, 138 and 198 of the Pensions (Northern Ireland) Order 2005[^c19662891]) be taken for the purposes of this Part to begin—
 
 - (a) if the order provides for a time to be the time when the winding-up begins, at that time, and
 - (b) in any other case, at the time when the order comes into force.
 
-(5)[^key-c209015a7c434f386ccbe13228f92c24] In a case of the winding-up of an occupational pension scheme in accordance with a requirement or power contained in the rules of the scheme, the winding-up shall (subject to paragraphs (6) to (8) and to Articles 138 and 198 of the Pensions (Northern Ireland) Order 2005[^c19662941]) be taken for the purposes of this Part to begin—
+(5)[^c-c209015a7c434f386ccbe13228f92c24] In a case of the winding-up of an occupational pension scheme in accordance with a requirement or power contained in the rules of the scheme, the winding-up shall (subject to paragraphs (6) to (8) and to Articles 138 and 198 of the Pensions (Northern Ireland) Order 2005[^c19662941]) be taken for the purposes of this Part to begin—
 
 - (a) at the time (if any) which under those rules is the time when the winding-up begins, and
 - (b) if sub-paragraph (a) does not apply, at the earliest time which is a time fixed by the trustees or managers as the time from which steps for the purposes of the winding-up are to be taken.
 
-(6)[^key-c209015a7c434f386ccbe13228f92c24] Paragraph (5) shall not require a winding-up of a scheme to be treated as having begun at any time before the end of any period during which effect is being given—
+(6)[^c-c209015a7c434f386ccbe13228f92c24] Paragraph (5) shall not require a winding-up of a scheme to be treated as having begun at any time before the end of any period during which effect is being given—
 
 - (a) to a determination under Article 38 that the scheme is not for the time being to be wound up, or
 - (b) to a determination in accordance with the rules of the scheme to postpone the commencement of a winding-up.
 
-(7)[^key-c209015a7c434f386ccbe13228f92c24] In paragraph (5)(b) the reference to the trustees or managers of the scheme shall have effect in relation to any scheme the rules of which provide for a determination that the scheme is to be wound up to be made by persons other than the trustees or managers as including a reference to those other persons.
+(7)[^c-c209015a7c434f386ccbe13228f92c24] In paragraph (5)(b) the reference to the trustees or managers of the scheme shall have effect in relation to any scheme the rules of which provide for a determination that the scheme is to be wound up to be made by persons other than the trustees or managers as including a reference to those other persons.
 
 (8) Paragraphs (4) to (7) do not apply for such purposes as may be prescribed.
 
@@ -114,9 +114,9 @@ and references to accrued pension or accrued benefits are to be interpreted acco
 
 [^c19662721]: Textual amendment: [Art. 121(1)](https://www.legislation.gov.uk/nisi/1995/3213/article/121/1): Words in definition of "transfer credits" substituted (6.4.2006) by [Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [290(1)](https://www.legislation.gov.uk/nisi/2005/255/article/290/1), [Sch. 10 para. 63(2)](https://www.legislation.gov.uk/nisi/2005/255/schedule/10/paragraph/63/2); [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art. 2(6)](https://www.legislation.gov.uk/nisr/2005/543/article/2/6), [Sch. Pt. 6](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/6)
 
-[^key-0e27980bc5fc8678898992deaadab622]: Textual amendment: Words in [art. 121(1)](https://www.legislation.gov.uk/nisi/1995/3213/article/121/1) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 78](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/78) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-0e27980bc5fc8678898992deaadab622]: Textual amendment: Words in [art. 121(1)](https://www.legislation.gov.uk/nisi/1995/3213/article/121/1) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 78](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/78) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-c209015a7c434f386ccbe13228f92c24]: Modification: [Art. 121(4)-(7)](https://www.legislation.gov.uk/nisi/1995/3213/article/121/4) applied (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/nisr/2026/151/schedule/6/paragraph/4/3)
+[^c-c209015a7c434f386ccbe13228f92c24]: Modification: [Art. 121(4)-(7)](https://www.legislation.gov.uk/nisi/1995/3213/article/121/4) applied (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [Sch. 6 para. 4(3)](https://www.legislation.gov.uk/nisr/2026/151/schedule/6/paragraph/4/3)
 
 [^c17252861]: Textual amendment: [2000 c. 4 (NI)](https://www.legislation.gov.uk/nia/2000/4)
 

@@ -76,7 +76,7 @@ Section 5.
 
 *Extent: E+W+S*
 
-**8.**[^key-726c6a71bd6343c0c179f5c348762f27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-726c6a71bd6343c0c179f5c348762f27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
@@ -129,6 +129,6 @@ Section 5.
 
 [^c21652951]: Textual amendment: [Sch. 5 para. 7(2)(6)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/5/paragraph/7/2/6) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 138](https://www.legislation.gov.uk/ukpga/2008/9/section/138), [Sch. 44 para. 11(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/44/paragraph/11/d)
 
-[^key-726c6a71bd6343c0c179f5c348762f27]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/1999/2/schedule/5/paragraph/8) omitted (6.4.2014) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 11(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/11/a); [S.I. 2014/906](https://www.legislation.gov.uk/uksi/2014/906), [art. 2](https://www.legislation.gov.uk/uksi/2014/906/article/2)
+[^c-726c6a71bd6343c0c179f5c348762f27]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/1999/2/schedule/5/paragraph/8) omitted (6.4.2014) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 11(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/11/a); [S.I. 2014/906](https://www.legislation.gov.uk/uksi/2014/906), [art. 2](https://www.legislation.gov.uk/uksi/2014/906/article/2)
 
 [^c11212361]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).

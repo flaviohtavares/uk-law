@@ -35,18 +35,18 @@ amending Regulation (EC) No 223/2009 on European statistics
 
 (Text with relevance for the EEA and Switzerland) (revoked)
 
-[^key-08e8333cc7a9493fe43a482d39c0a86f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08e8333cc7a9493fe43a482d39c0a86f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments to Regulation (EC) No 223/2009[^key-08e8333cc7a9493fe43a482d39c0a86f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Entry into force[^key-08e8333cc7a9493fe43a482d39c0a86f]
+## Article 1. Amendments to Regulation (EC) No 223/2009[^c-08e8333cc7a9493fe43a482d39c0a86f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-08e8333cc7a9493fe43a482d39c0a86f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Entry into force[^c-08e8333cc7a9493fe43a482d39c0a86f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-08e8333cc7a9493fe43a482d39c0a86f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08e8333cc7a9493fe43a482d39c0a86f]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 252](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/252); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-08e8333cc7a9493fe43a482d39c0a86f]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 252](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/252); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

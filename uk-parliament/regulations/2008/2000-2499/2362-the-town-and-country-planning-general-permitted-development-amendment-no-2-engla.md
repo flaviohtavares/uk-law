@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 59, 60, 61 and 333(7) of the Town and Country Planning Act 1990[^f00001], makes the following Order:
 
-## 1. Citation, commencement, interpretation and application[^key-f3c58a38f9f8cdcb11969d8c02a7df0c]
+## 1. Citation, commencement, interpretation and application[^c-f3c58a38f9f8cdcb11969d8c02a7df0c]
 
 (1) This Order may be cited as the Town and Country Planning (General Permitted Development) (Amendment) (No.2) (England) Order 2008 and shall come into force on 1st October 2008.
 
@@ -54,7 +54,7 @@ The Secretary of State, in exercise of the powers conferred by sections 59, 60, 
 
 (3) This Order applies in relation to England only.
 
-## 2. World Heritage Sites[^key-db97d904e90af3a1de9a2ddaa58a9ae3]
+## 2. World Heritage Sites[^c-db97d904e90af3a1de9a2ddaa58a9ae3]
 
 (1) The 1995 Order is amended in accordance with this article.
 
@@ -81,11 +81,11 @@ The Secretary of State, in exercise of the powers conferred by sections 59, 60, 
 - (a) in the definition of “stand alone solar” for “;” substitute “.”; and
 - (b) omit the definition of “World Heritage Site”.
 
-## 3. Development within the curtilage of a dwellinghouse[^key-6cc7644068dd9e130dd342054df8e811]
+## 3. Development within the curtilage of a dwellinghouse[^c-6cc7644068dd9e130dd342054df8e811]
 
 In Schedule 2 to the 1995 Order, for Part 1 (development within the curtilage of a dwellinghouse) substitute the text set out in the Schedule to this Order.
 
-## 4. Installation of Domestic Microgeneration Equipment[^key-0741acb0486219da56e2a8311b441aaf]
+## 4. Installation of Domestic Microgeneration Equipment[^c-0741acb0486219da56e2a8311b441aaf]
 
 In paragraph A.1. of Part 40 (installation of domestic microgeneration equipment) of Schedule 2 to the 1995 Order, omit “or roof slope” from sub-paragraphs (c)(i) and (c)(ii).
 
@@ -97,7 +97,7 @@ Department for Communities and Local Government
 
 4th September 2008
 
-## SCHEDULE[^key-e2470a06cde29dab2416b199731f9a4c]
+## SCHEDULE[^c-e2470a06cde29dab2416b199731f9a4c]
 
 Article 3
 
@@ -366,14 +366,14 @@ An impact assessment has been prepared in relation to this Order. The assessment
 
 [^f00001]: Footnote: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8); to which there are amendments not relevant to this Order. These powers are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously transferred to the National Assembly for Wales by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672): *see* the entry in Schedule 1 for the Town and Country Planning Act [1990 (c.8)](https://www.legislation.gov.uk/ukpga/1990/8) as substituted by article 4 of, and Schedule 3 to, the National Assembly for Wales (Transfer of Functions) Order 2000 ([S.I. 2000/253](https://www.legislation.gov.uk/uksi/2000/253)). By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers.
 
-[^key-f3c58a38f9f8cdcb11969d8c02a7df0c]: Commencement: Art. 1 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2362/article/1/1)
+[^c-f3c58a38f9f8cdcb11969d8c02a7df0c]: Commencement: Art. 1 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2362/article/1/1)
 
 [^f00002]: Footnote: [S.I. 1995/418](https://www.legislation.gov.uk/uksi/1995/418). Relevant amendments were made by [S.I. 2005/2935](https://www.legislation.gov.uk/uksi/2005/2935) and [S.I. 2008/675](https://www.legislation.gov.uk/uksi/2008/675).
 
-[^key-db97d904e90af3a1de9a2ddaa58a9ae3]: Commencement: Art. 2 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2362/article/1/1)
+[^c-db97d904e90af3a1de9a2ddaa58a9ae3]: Commencement: Art. 2 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2362/article/1/1)
 
-[^key-6cc7644068dd9e130dd342054df8e811]: Commencement: Art. 3 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2362/article/1/1)
+[^c-6cc7644068dd9e130dd342054df8e811]: Commencement: Art. 3 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2362/article/1/1)
 
-[^key-0741acb0486219da56e2a8311b441aaf]: Commencement: Art. 4 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2362/article/1/1)
+[^c-0741acb0486219da56e2a8311b441aaf]: Commencement: Art. 4 in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2362/article/1/1)
 
-[^key-e2470a06cde29dab2416b199731f9a4c]: Commencement: Sch. in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2362/article/1/1)
+[^c-e2470a06cde29dab2416b199731f9a4c]: Commencement: Sch. in force at 1.10.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2362/article/1/1)

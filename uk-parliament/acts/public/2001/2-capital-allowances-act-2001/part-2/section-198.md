@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies if the disposal value of a fixture is required to be brought into account in accordance with item 1 or 9[^key-36321fd1c40689ebb39b88ca57924611] of the Table in section 196 (sale of qualifying interest at not less than market value, etc.).
+(1) This section applies if the disposal value of a fixture is required to be brought into account in accordance with item 1 or 9[^c-36321fd1c40689ebb39b88ca57924611] of the Table in section 196 (sale of qualifying interest at not less than market value, etc.).
 
 (2) The seller and the purchaser may jointly, by an election, fix the amount that is to be treated—
 
-- (a) for the purposes of item 1 or (as the case may be) 9[^key-475c6cd16c14420fb48fd11687572e38] of the Table, and
+- (a) for the purposes of item 1 or (as the case may be) 9[^c-475c6cd16c14420fb48fd11687572e38] of the Table, and
 - (b) for the other purposes of this Part,
 
 as the part of the sale price that is expenditure incurred by the purchaser on the provision of the fixture.
@@ -41,14 +41,14 @@ as the part of the sale price that is expenditure incurred by the purchaser on t
 
 (5) This section is subject to—
 
-- (a)[^key-99a2752fdaaec5a8f5ed2a66f163789a] sections 186, 186A and 187 (fixtures on which industrial buildings allowance, business premises renovation allowance or research and development allowance has been made),
+- (a)[^c-99a2752fdaaec5a8f5ed2a66f163789a] sections 186, 186A and 187 (fixtures on which industrial buildings allowance, business premises renovation allowance or research and development allowance has been made),
 - (b) section 197 (disposal values in avoidance cases), and
 - (c) sections 200 and 201 (further provisions about elections).
 
 ## Annotations
 
-[^key-36321fd1c40689ebb39b88ca57924611]: Textual amendment: Words in s. 198(1) inserted (with effect in accordance with Sch. 10 para. 11 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 3(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/3/a)
+[^c-36321fd1c40689ebb39b88ca57924611]: Textual amendment: Words in s. 198(1) inserted (with effect in accordance with Sch. 10 para. 11 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 3(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/3/a)
 
-[^key-475c6cd16c14420fb48fd11687572e38]: Textual amendment: Words in s. 198(2)(a) inserted (with effect in accordance with Sch. 10 para. 11 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 3(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/3/b)
+[^c-475c6cd16c14420fb48fd11687572e38]: Textual amendment: Words in s. 198(2)(a) inserted (with effect in accordance with Sch. 10 para. 11 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 3(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/3/b)
 
-[^key-99a2752fdaaec5a8f5ed2a66f163789a]: Textual amendment: S. 198(5)(a) substituted (with effect in accordance with Sch. 10 para. 12 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/9)
+[^c-99a2752fdaaec5a8f5ed2a66f163789a]: Textual amendment: S. 198(5)(a) substituted (with effect in accordance with Sch. 10 para. 12 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/9)

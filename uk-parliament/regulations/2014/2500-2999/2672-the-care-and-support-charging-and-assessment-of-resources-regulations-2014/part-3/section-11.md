@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Rounding of fractions[^key-3cd5e53b2cf69228f3d218b2670ed538]
+## 11. Rounding of fractions[^c-3cd5e53b2cf69228f3d218b2670ed538]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where any financial assessment of the adult concerned, under section 17(1), (3) 
 
 ## Annotations
 
-[^key-3cd5e53b2cf69228f3d218b2670ed538]: Commencement: Reg. 11 in force at 1.4.2015 in accordance with reg. 1
+[^c-3cd5e53b2cf69228f3d218b2670ed538]: Commencement: Reg. 11 in force at 1.4.2015 in accordance with reg. 1

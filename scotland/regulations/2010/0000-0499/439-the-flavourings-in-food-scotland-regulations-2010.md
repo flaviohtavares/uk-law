@@ -44,17 +44,17 @@ Coming into force
 
 20th January 2011
 
-[^key-013dd7bc0c0e172bdadd5d576516d1d5]The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 16(1)(a), (e) and (f), 17(2), 26(1)(a) and (b) and (3), and 48(1) of the Food Safety Act 1990[^f00001] and all other powers enabling them to do so.
+[^c-013dd7bc0c0e172bdadd5d576516d1d5]The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 16(1)(a), (e) and (f), 17(2), 26(1)(a) and (b) and (3), and 48(1) of the Food Safety Act 1990[^f00001] and all other powers enabling them to do so.
 
 In accordance with section 48(4A) of the Food Safety Act 1990, the Scottish Ministers have had regard to relevant advice given by the Food Standards Agency[^f00002].
 
 There has been consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003].
 
-## 1. Citation, extent and commencement[^key-2bfd46d90f55b4f781a00d9f6665c8b5]
+## 1. Citation, extent and commencement[^c-2bfd46d90f55b4f781a00d9f6665c8b5]
 
 These Regulations may be cited as the Flavourings in Food (Scotland) Regulations 2010, extend to Scotland only and come into force on 20th January 2011.
 
-## 2. Interpretation[^key-2bae5a129e255970c64bbe5303884329]
+## 2. Interpretation[^c-2bae5a129e255970c64bbe5303884329]
 
 (1) In these Regulations—
 
@@ -65,27 +65,27 @@ These Regulations may be cited as the Flavourings in Food (Scotland) Regulations
 
 (3) Any reference in regulation 3 to a numbered Article is a reference to the Article so numbered in the EU Regulation.
 
-## 3. Offences and penalties[^key-013dd7bc0c0e172bdadd5d576516d1d5]
+## 3. Offences and penalties[^c-013dd7bc0c0e172bdadd5d576516d1d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement authorities[^key-013dd7bc0c0e172bdadd5d576516d1d5]
+## 4. Enforcement authorities[^c-013dd7bc0c0e172bdadd5d576516d1d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various sections of the Food Safety Act 1990[^key-013dd7bc0c0e172bdadd5d576516d1d5]
+## 5. Application of various sections of the Food Safety Act 1990[^c-013dd7bc0c0e172bdadd5d576516d1d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Condemnation of food[^key-013dd7bc0c0e172bdadd5d576516d1d5]
+## 6. Condemnation of food[^c-013dd7bc0c0e172bdadd5d576516d1d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to the Food Labelling Regulations 1996[^key-47545125b4f742ec1dea511af0c9b050]
+## 7. Amendments to the Food Labelling Regulations 1996[^c-47545125b4f742ec1dea511af0c9b050]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocations[^key-013dd7bc0c0e172bdadd5d576516d1d5]
+## 8. Revocations[^c-013dd7bc0c0e172bdadd5d576516d1d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -127,7 +127,7 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 ## Annotations
 
-[^key-013dd7bc0c0e172bdadd5d576516d1d5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/439) revoked (except regs. 1, 2, 7) (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 (S.S.I. 2013/266)](https://www.legislation.gov.uk/ssi/2013/266), [reg. 1](https://www.legislation.gov.uk/ssi/2013/266/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/266/schedule/5)
+[^c-013dd7bc0c0e172bdadd5d576516d1d5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/439) revoked (except regs. 1, 2, 7) (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 (S.S.I. 2013/266)](https://www.legislation.gov.uk/ssi/2013/266), [reg. 1](https://www.legislation.gov.uk/ssi/2013/266/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/266/schedule/5)
 
 [^f00001]: Footnote: [1990 c.16](https://www.legislation.gov.uk/ukpga/1990/16). Section 1(1) and (2) (definition of “food”) was substituted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990); sections 16(1), 17(2) and 48(1) were amended by paragraph 8 of Schedule 5 to the Food Standards Act [1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28); section 17(2) was also amended by paragraph 12 of Schedule 5 to the 1999 Act; section 26(3) was amended by Schedule 6 to the 1999 Act; section 48(4) is disapplied in respect of these Regulations by virtue of section 48(4C) which was inserted by [S.I. 2004/2990](https://www.legislation.gov.uk/uksi/2004/2990); by virtue of section 40(2) of the 1999 Act, amendments made by Schedule 5 to that Act are to be taken as pre-commencement enactments for the purposes of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). The functions of the Secretary of State, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. In so far as not so transferred, and in so far as relating to food (including drink) including the primary production of food, relevant functions were transferred to the Scottish Ministers by the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 ([S.I. 2005/849](https://www.legislation.gov.uk/uksi/2005/849)).
 
@@ -135,10 +135,10 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00003]: Footnote: O.J. L 31, 1.2.2002, p.1, as last amended by Regulation [(EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision 1999/468 with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (O.J. L 188, 18.7.2009, p.14).
 
-[^key-2bfd46d90f55b4f781a00d9f6665c8b5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/439/regulation/1) in force at 20.1.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/439/regulation/1)
+[^c-2bfd46d90f55b4f781a00d9f6665c8b5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/439/regulation/1) in force at 20.1.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/439/regulation/1)
 
-[^key-2bae5a129e255970c64bbe5303884329]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/439/regulation/2) in force at 20.1.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/439/regulation/1)
+[^c-2bae5a129e255970c64bbe5303884329]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/439/regulation/2) in force at 20.1.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/439/regulation/1)
 
 [^f00004]: Footnote: O.J. L 354, 31.12.2008, p.34.
 
-[^key-47545125b4f742ec1dea511af0c9b050]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/439/regulation/7) revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
+[^c-47545125b4f742ec1dea511af0c9b050]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/439/regulation/7) revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)

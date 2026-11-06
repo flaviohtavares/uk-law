@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63A. Right to time off for young person in Wales or Scotland for study or training.[^c16328331][^key-a1d70027125f29fb2ee2b0bffeae991c]
+## 63A. Right to time off for young person in Wales or Scotland for study or training.[^c16328331][^c-a1d70027125f29fb2ee2b0bffeae991c]
 
 *Extent: E+W+S*
 
@@ -62,7 +62,7 @@ subsections (1) and (3) shall apply to the employee, in relation to that study o
 - (a) the requirements of the employee’s study or training, and
 - (b) the circumstances of the business of the employer or the principal and the effect of the employee’s time off on the running of that business.
 
-(5A)[^key-61f9a6d8668fab937ff883fad1673ef6] References in this section to an employee do not include a person to whom Part 1 of the Education and Skills Act 2008 (duty to participate in education or training for 16 and 17 year olds in England) applies, or is treated by section 29 of that Act (extension for person reaching 18) as applying.
+(5A)[^c-61f9a6d8668fab937ff883fad1673ef6] References in this section to an employee do not include a person to whom Part 1 of the Education and Skills Act 2008 (duty to participate in education or training for 16 and 17 year olds in England) applies, or is treated by section 29 of that Act (extension for person reaching 18) as applying.
 
 (6) Regulations made for the purposes of subsections (1)(c) and (2) may make different provision for different cases, and in particular may make different provision in relation to England, Wales and Scotland respectively.
 
@@ -74,7 +74,7 @@ subsections (1) and (3) shall apply to the employee, in relation to that study o
 
 [^c16328331]: Textual amendment: S. 63A inserted (1.9.1999) by [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30), [s. 32](https://www.legislation.gov.uk/ukpga/1998/30/section/32) (with [s. 42(8)](https://www.legislation.gov.uk/ukpga/1998/30/section/42/8)); [S.I. 1999/987](https://www.legislation.gov.uk/uksi/1999/987), [art. 2](https://www.legislation.gov.uk/uksi/1999/987/article/2)
 
-[^key-a1d70027125f29fb2ee2b0bffeae991c]: Textual amendment: Words in s. 63A title inserted (28.6.2013) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2008/25/section/39/2), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4) (with [ss. 62(3)-(6)](https://www.legislation.gov.uk/ukpga/2008/25/section/62/3), [64(4)-(6)](https://www.legislation.gov.uk/ukpga/2008/25/section/64/4)); [S.I. 2013/1204](https://www.legislation.gov.uk/uksi/2013/1204), [art. 2(q)](https://www.legislation.gov.uk/uksi/2013/1204/article/2/q) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/1204/article/4))
+[^c-a1d70027125f29fb2ee2b0bffeae991c]: Textual amendment: Words in s. 63A title inserted (28.6.2013) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2008/25/section/39/2), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4) (with [ss. 62(3)-(6)](https://www.legislation.gov.uk/ukpga/2008/25/section/62/3), [64(4)-(6)](https://www.legislation.gov.uk/ukpga/2008/25/section/64/4)); [S.I. 2013/1204](https://www.legislation.gov.uk/uksi/2013/1204), [art. 2(q)](https://www.legislation.gov.uk/uksi/2013/1204/article/2/q) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/1204/article/4))
 
 [^c16328341]: Modification: S. 63A(1)(c)(2): transfer of certain functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1750/article/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
@@ -88,4 +88,4 @@ subsections (1) and (3) shall apply to the employee, in relation to that study o
 
 [^c16328401]: Modification: S. 63A(2)(c) extended (1.9.2001) by [S.I. 2001/2801](https://www.legislation.gov.uk/uksi/2001/2801), [reg. 5](https://www.legislation.gov.uk/uksi/2001/2801/regulation/5)
 
-[^key-61f9a6d8668fab937ff883fad1673ef6]: Textual amendment: S. 63A(5A) inserted (28.6.2013) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2008/25/section/39/2), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4) (with [ss. 62(3)-(6)](https://www.legislation.gov.uk/ukpga/2008/25/section/62/3), [64(4)-(6)](https://www.legislation.gov.uk/ukpga/2008/25/section/64/4)); [S.I. 2013/1204](https://www.legislation.gov.uk/uksi/2013/1204), [art. 2(q)](https://www.legislation.gov.uk/uksi/2013/1204/article/2/q) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/1204/article/4))
+[^c-61f9a6d8668fab937ff883fad1673ef6]: Textual amendment: S. 63A(5A) inserted (28.6.2013) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2008/25/section/39/2), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4) (with [ss. 62(3)-(6)](https://www.legislation.gov.uk/ukpga/2008/25/section/62/3), [64(4)-(6)](https://www.legislation.gov.uk/ukpga/2008/25/section/64/4)); [S.I. 2013/1204](https://www.legislation.gov.uk/uksi/2013/1204), [art. 2(q)](https://www.legislation.gov.uk/uksi/2013/1204/article/2/q) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/1204/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations 1996[^key-28f3f5678afbb15ca54f57429e33cefd]
+## 4. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-28f3f5678afbb15ca54f57429e33cefd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28f3f5678afbb15ca54f57429e33cefd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1071/regulation/4) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-28f3f5678afbb15ca54f57429e33cefd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1071/regulation/4) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207), relevant amending instruments are [S.I. 1998/563](https://www.legislation.gov.uk/uksi/1998/563) and [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235).

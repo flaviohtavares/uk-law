@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17I. Acquisition by registration: special circumstances[^key-718720d7bbcd06b4c47177ffb65d773e]
+## 17I. Acquisition by registration: special circumstances[^c-718720d7bbcd06b4c47177ffb65d773e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-718720d7bbcd06b4c47177ffb65d773e]: Textual amendment: [S. 17I](https://www.legislation.gov.uk/ukpga/1981/61/section/17I) inserted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2022/36/section/8/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/7)
+[^c-718720d7bbcd06b4c47177ffb65d773e]: Textual amendment: [S. 17I](https://www.legislation.gov.uk/ukpga/1981/61/section/17I) inserted (28.6.2022) by virtue of [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2022/36/section/8/3), [87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/7)

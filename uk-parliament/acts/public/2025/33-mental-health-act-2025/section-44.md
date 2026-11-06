@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Advance choice documents[^key-1087ffc02c57aa2311e739560488ac73]
+## 44. Advance choice documents[^c-1087ffc02c57aa2311e739560488ac73]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1087ffc02c57aa2311e739560488ac73]: Commencement: S. 44 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-1087ffc02c57aa2311e739560488ac73]: Commencement: S. 44 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

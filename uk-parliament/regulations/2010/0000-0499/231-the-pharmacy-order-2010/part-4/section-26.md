@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Notice of entry in the Register[^key-bebf352dceebe7c953e75e87722940f6][^key-ef40c71c89acf9b98f504db274484d1e]
+## 26. Notice of entry in the Register[^c-bebf352dceebe7c953e75e87722940f6][^c-ef40c71c89acf9b98f504db274484d1e]
 
 *Extent: E+W+S*
 
@@ -42,6 +42,6 @@ and pays to the Council any fee in respect of the further notice prescribed unde
 
 ## Annotations
 
-[^key-bebf352dceebe7c953e75e87722940f6]: Commencement: Art. 26 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-bebf352dceebe7c953e75e87722940f6]: Commencement: Art. 26 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-ef40c71c89acf9b98f504db274484d1e]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2010/231/article/26) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-ef40c71c89acf9b98f504db274484d1e]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2010/231/article/26) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

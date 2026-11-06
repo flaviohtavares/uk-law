@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 124. Calculation of the weekly amount of a ... liable relative payment[^key-fa29813a2e5391c129ef00f597fd9783]
+## 124. Calculation of the weekly amount of a ... liable relative payment[^c-fa29813a2e5391c129ef00f597fd9783]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa29813a2e5391c129ef00f597fd9783]: Textual amendment: Words in reg. 124 heading omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(c)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/c), [11(4)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/4)
+[^c-fa29813a2e5391c129ef00f597fd9783]: Textual amendment: Words in reg. 124 heading omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(c)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/c), [11(4)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/11/4)

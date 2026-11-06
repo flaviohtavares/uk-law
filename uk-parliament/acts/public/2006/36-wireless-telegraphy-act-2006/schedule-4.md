@@ -32,7 +32,7 @@ Section 96
 
 **2.** (1) The fixed penalty for a relevant offence is such amount as may be prescribed in relation to that offence by regulations made by the Secretary of State.
 
-(2) The amount prescribed by regulations under sub-paragraph (1) is not to be more than 25 per cent. of the maximum fine on summary conviction for the offence in question or, where there is no maximum fine, 50 per cent. of the amount corresponding to level 4 on the standard scale for summary offences *(Extent: E+W)*[^key-6a30af6c4928fde130545242cbc2bed6].
+(2) The amount prescribed by regulations under sub-paragraph (1) is not to be more than 25 per cent. of the maximum fine on summary conviction for the offence in question or, where there is no maximum fine, 50 per cent. of the amount corresponding to level 4 on the standard scale for summary offences *(Extent: E+W)*[^c-6a30af6c4928fde130545242cbc2bed6].
 
 (3) In this Schedule “**fixed penalty notice**” means a notice offering the opportunity of the discharge of any liability to conviction of the offence to which the notice relates by payment of a fixed penalty in accordance with this Schedule.
 
@@ -68,7 +68,7 @@ he may hand that person a fixed penalty notice.
 
 (2) The suspended enforcement period for the purposes of this Schedule is—
 
-- (a) the period of 28 days[^key-e75a356d4856c3ba986fcbd5f88e81e4] beginning with the day after that on which the fixed penalty notice was issued; or
+- (a) the period of 28 days[^c-e75a356d4856c3ba986fcbd5f88e81e4] beginning with the day after that on which the fixed penalty notice was issued; or
 - (b) such longer period as may be specified in the notice.
 
 ### Withdrawal of fixed penalty notice
@@ -135,14 +135,14 @@ he may hand that person a fixed penalty notice.
 
 is evidence that a copy of the statement was served on the alleged offender by delivery to him on that date.
 
-(2A)[^key-7b144eca27dcf7a208632a29b663eaa5] The statement is to be treated as properly served for the purposes of section 9 of the Criminal Justice Act 1967 (proof by written statement), even though the manner of service is not authorised by Criminal Procedure Rules.
+(2A)[^c-7b144eca27dcf7a208632a29b663eaa5] The statement is to be treated as properly served for the purposes of section 9 of the Criminal Justice Act 1967 (proof by written statement), even though the manner of service is not authorised by Criminal Procedure Rules.
 
 (3) The statement is to be treated as properly served for the purposes of—
 
-- (a)[^key-26b4f4972d31b1480772f9d2fe9ff5f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-26b4f4972d31b1480772f9d2fe9ff5f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 1 of the Criminal Justice (Miscellaneous Provisions) Act (Northern Ireland) 1968 (c. 28 (N.I.)) (corresponding provision for Northern Ireland),
 
-even though the manner of service is not authorised by subsection (8) of that section[^key-34eacf6220d03274f234e2b5c1eafad6].
+even though the manner of service is not authorised by subsection (8) of that section[^c-34eacf6220d03274f234e2b5c1eafad6].
 
 (4) Sub-paragraphs (5) and (6) apply to any proceedings in which service of a statement is proved by a certificate under this paragraph.
 
@@ -153,17 +153,17 @@ even though the manner of service is not authorised by subsection (8) of that se
 
 service of the statement is to be taken to have been effected by or on behalf of the prosecutor.
 
-(5A)[^key-712d894f04107f004f4f6d9a2aed1627] If the alleged offender makes a request to be tried, section 9(2A) of the Criminal Justice Act 1967 (time for objection) is to apply—
+(5A)[^c-712d894f04107f004f4f6d9a2aed1627] If the alleged offender makes a request to be tried, section 9(2A) of the Criminal Justice Act 1967 (time for objection) is to apply—
 
 - (a) with the substitution for the reference in paragraph (a) to such number of days, which may not be less than seven, from the service of the copy of the statement of a reference to such number of days, which may not be less than seven, beginning with the day after the one on which the request to be tried was made, and
 - (b) with the substitution for the reference in paragraph (b) to seven days from the service of the copy of the statement of a reference to seven days beginning with the day after the one on which the request to be tried was made.
 
 (6) If the alleged offender makes a request to be tried—
 
-- (a)[^key-08cc66d1a8fd9ce9721509cfc4fae729] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-08cc66d1a8fd9ce9721509cfc4fae729] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 1(2)(d) of the Criminal Justice (Miscellaneous Provisions) Act (Northern Ireland) 1968 (corresponding provision for Northern Ireland),
 
-is to apply[^key-fb340014009828502dc04d968605c7f8] with the substitution, for the reference to seven days from the service of the copy of the statement, of a reference to seven days beginning with the day after the one on which the request to be tried was made.
+is to apply[^c-fb340014009828502dc04d968605c7f8] with the substitution, for the reference to seven days from the service of the copy of the statement, of a reference to seven days beginning with the day after the one on which the request to be tried was made.
 
 (7) This paragraph does not extend to Scotland.
 
@@ -193,18 +193,18 @@ is evidence (and in Scotland sufficient evidence) of the facts stated, if the ce
 
 ## Annotations
 
-[^key-6a30af6c4928fde130545242cbc2bed6]: Textual amendment: Words in Sch. 4 para. 2(2) inserted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/11) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-6a30af6c4928fde130545242cbc2bed6]: Textual amendment: Words in Sch. 4 para. 2(2) inserted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/11) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-e75a356d4856c3ba986fcbd5f88e81e4]: Textual amendment: Words in [Sch. 4 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2006/36/schedule/4/paragraph/4/2/a) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/10/1), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 10(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/10/2))
+[^c-e75a356d4856c3ba986fcbd5f88e81e4]: Textual amendment: Words in [Sch. 4 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2006/36/schedule/4/paragraph/4/2/a) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/10/1), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 10(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/10/2))
 
-[^key-7b144eca27dcf7a208632a29b663eaa5]: Textual amendment: Sch. 4 para. 10(2A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(5)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/5/a), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)
+[^c-7b144eca27dcf7a208632a29b663eaa5]: Textual amendment: Sch. 4 para. 10(2A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(5)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/5/a), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)
 
-[^key-26b4f4972d31b1480772f9d2fe9ff5f2]: Textual amendment: Sch. 4 para. 10(3)(a) and the "and" following it omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/5/b/i), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)
+[^c-26b4f4972d31b1480772f9d2fe9ff5f2]: Textual amendment: Sch. 4 para. 10(3)(a) and the "and" following it omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/5/b/i), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)
 
-[^key-34eacf6220d03274f234e2b5c1eafad6]: Textual amendment: Words in Sch. 4 para. 10(3) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/5/b/ii), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)
+[^c-34eacf6220d03274f234e2b5c1eafad6]: Textual amendment: Words in Sch. 4 para. 10(3) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/5/b/ii), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)
 
-[^key-712d894f04107f004f4f6d9a2aed1627]: Textual amendment: Sch. 4 para. 10(5A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(5)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/5/c), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)
+[^c-712d894f04107f004f4f6d9a2aed1627]: Textual amendment: Sch. 4 para. 10(5A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(5)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/5/c), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)
 
-[^key-08cc66d1a8fd9ce9721509cfc4fae729]: Textual amendment: Sch. 4 para. 10(6)(a) and the "and" following it omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(5)(d)(i)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/5/d/i), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)
+[^c-08cc66d1a8fd9ce9721509cfc4fae729]: Textual amendment: Sch. 4 para. 10(6)(a) and the "and" following it omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(5)(d)(i)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/5/d/i), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)
 
-[^key-fb340014009828502dc04d968605c7f8]: Textual amendment: Words in Sch. 4 para. 10(6) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(5)(d)(ii)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/5/d/ii), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)
+[^c-fb340014009828502dc04d968605c7f8]: Textual amendment: Words in Sch. 4 para. 10(6) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 80(5)(d)(ii)](https://www.legislation.gov.uk/ukpga/2015/20/section/80/5/d/ii), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(m)](https://www.legislation.gov.uk/uksi/2015/994/article/6/m)

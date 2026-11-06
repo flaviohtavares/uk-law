@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Designation of courses for higher technical qualifications[^key-6d28643dadf1830cd19f7c5ea68eb570]
+## 38. Designation of courses for higher technical qualifications[^c-6d28643dadf1830cd19f7c5ea68eb570]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ In regulation 2(1) (interpretation)[^f00031]—
 
   .
 
-**39.**[^key-a23ea47a7683b44ff744db1864d73641] (1) In regulation 22 (standard entitlement of current system students on certain degree courses etc)[^f00036]—
+**39.**[^c-a23ea47a7683b44ff744db1864d73641] (1) In regulation 22 (standard entitlement of current system students on certain degree courses etc)[^f00036]—
 
 - (a) in paragraph (2)(a), for the words from “mentioned in paragraph” to “intensive course” substitute “specified in paragraph (2A)”;
 - (b) after paragraph (2) insert—
@@ -56,13 +56,13 @@ In regulation 2(1) (interpretation)[^f00031]—
 
   .
 
-**40.**[^key-5c1f08ecc68f40bf6602fbeb78df3952] In regulation 139(2A) (designated part-time courses)[^f00037], after sub-paragraph (c) insert—
+**40.**[^c-5c1f08ecc68f40bf6602fbeb78df3952] In regulation 139(2A) (designated part-time courses)[^f00037], after sub-paragraph (c) insert—
 
 > - (ca) a course which leads to an approved HTQ;
 
 .
 
-**41.**[^key-968142900d67e882f2c6ee8ad8c2c491] In Schedule 2 (designated courses), after paragraph 11 insert—
+**41.**[^c-968142900d67e882f2c6ee8ad8c2c491] In Schedule 2 (designated courses), after paragraph 11 insert—
 
 > **12.** A course for an approved HTQ.
 
@@ -70,7 +70,7 @@ In regulation 2(1) (interpretation)[^f00031]—
 
 ## Annotations
 
-[^key-6d28643dadf1830cd19f7c5ea68eb570]: Commencement: Reg. 38 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-6d28643dadf1830cd19f7c5ea68eb570]: Commencement: Reg. 38 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00031]: Footnote: Definition inserted by [S.I. 2017/114](https://www.legislation.gov.uk/uksi/2017/114).
 
@@ -82,12 +82,12 @@ In regulation 2(1) (interpretation)[^f00031]—
 
 [^f00035]: Footnote: Copies of the Handbook is available here: https://www.gov.uk/guidance/ofqual-handbook or from Ofqual, Earlsdon Park, 53 to 55 Butts Road, Coventry CV1 3BH.
 
-[^key-a23ea47a7683b44ff744db1864d73641]: Commencement: Reg. 39 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-a23ea47a7683b44ff744db1864d73641]: Commencement: Reg. 39 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00036]: Footnote: Regulation 22 was amended by [S.I. 2012/1653](https://www.legislation.gov.uk/uksi/2012/1653), [2013/1728](https://www.legislation.gov.uk/uksi/2013/1728), [2013/3106](https://www.legislation.gov.uk/uksi/2013/3106), [2015/1951](https://www.legislation.gov.uk/uksi/2015/1951) and [2019/142](https://www.legislation.gov.uk/uksi/2019/142).
 
-[^key-5c1f08ecc68f40bf6602fbeb78df3952]: Commencement: Reg. 40 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-5c1f08ecc68f40bf6602fbeb78df3952]: Commencement: Reg. 40 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00037]: Footnote: Paragraph (2A) was inserted by [S.I. 2018/472](https://www.legislation.gov.uk/uksi/2018/472); there are amendments to that paragraph but none is relevant to these Regulations.
 
-[^key-968142900d67e882f2c6ee8ad8c2c491]: Commencement: Reg. 41 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-968142900d67e882f2c6ee8ad8c2c491]: Commencement: Reg. 41 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

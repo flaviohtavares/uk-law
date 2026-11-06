@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Road Vehicles (Construction and Use) (Amendment) Regulations 2011 (revoked)[^key-4dd45e0f85edb40e6764f4186371d361]
+The Road Vehicles (Construction and Use) (Amendment) Regulations 2011 (revoked)[^c-4dd45e0f85edb40e6764f4186371d361]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 15th March 2011
 
-[^key-4dd45e0f85edb40e6764f4186371d361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4dd45e0f85edb40e6764f4186371d361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4dd45e0f85edb40e6764f4186371d361]
+## 1. Citation and commencement[^c-4dd45e0f85edb40e6764f4186371d361]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-4dd45e0f85edb40e6764f4186371d361]
+## 2. Amendment of Regulations[^c-4dd45e0f85edb40e6764f4186371d361]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. End-of-series exemption[^key-4dd45e0f85edb40e6764f4186371d361]
+## 3. End-of-series exemption[^c-4dd45e0f85edb40e6764f4186371d361]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4dd45e0f85edb40e6764f4186371d361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4dd45e0f85edb40e6764f4186371d361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4dd45e0f85edb40e6764f4186371d361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4dd45e0f85edb40e6764f4186371d361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4dd45e0f85edb40e6764f4186371d361]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/427) revoked (14.1.2012) by [The Road Vehicles (Construction and Use) (Amendment No. 2) Regulations 2011 (S.I. 2011/3065)](https://www.legislation.gov.uk/uksi/2011/3065), [regs. 1](https://www.legislation.gov.uk/uksi/2011/3065/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/3065/regulation/2)
+[^c-4dd45e0f85edb40e6764f4186371d361]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/427) revoked (14.1.2012) by [The Road Vehicles (Construction and Use) (Amendment No. 2) Regulations 2011 (S.I. 2011/3065)](https://www.legislation.gov.uk/uksi/2011/3065), [regs. 1](https://www.legislation.gov.uk/uksi/2011/3065/regulation/1), [2](https://www.legislation.gov.uk/uksi/2011/3065/regulation/2)

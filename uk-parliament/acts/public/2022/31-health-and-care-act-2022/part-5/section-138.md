@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Offence of aiding or abetting etc a person to carry out virginity testing: England and Wales[^key-f4554b3f2355a3d39b2b78a166cf1823][^key-b4e7769076f8567df9f5c26b81c7b5c8]
+## 138. Offence of aiding or abetting etc a person to carry out virginity testing: England and Wales[^c-f4554b3f2355a3d39b2b78a166cf1823][^c-b4e7769076f8567df9f5c26b81c7b5c8]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4554b3f2355a3d39b2b78a166cf1823]: Commencement: S. 138 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-f4554b3f2355a3d39b2b78a166cf1823]: Commencement: S. 138 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-b4e7769076f8567df9f5c26b81c7b5c8]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2022/31/section/138) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b4e7769076f8567df9f5c26b81c7b5c8]: Commencement: [S. 138](https://www.legislation.gov.uk/ukpga/2022/31/section/138) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

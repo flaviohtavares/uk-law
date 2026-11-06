@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Records[^key-faf19157f858018cf51ad5e167c65102]
+## 7. Records[^c-faf19157f858018cf51ad5e167c65102]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-faf19157f858018cf51ad5e167c65102]: Commencement: Reg. 7 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-faf19157f858018cf51ad5e167c65102]: Commencement: Reg. 7 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)

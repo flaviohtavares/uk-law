@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 94. Application of contribution to loan for living costs[^key-18d9ccc87e441cf4f7cbca280b505f98]
+## 94. Application of contribution to loan for living costs[^c-18d9ccc87e441cf4f7cbca280b505f98]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18d9ccc87e441cf4f7cbca280b505f98]: Commencement: [Reg. 94](https://www.legislation.gov.uk/nisr/2007/195/regulation/94) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-18d9ccc87e441cf4f7cbca280b505f98]: Commencement: [Reg. 94](https://www.legislation.gov.uk/nisr/2007/195/regulation/94) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

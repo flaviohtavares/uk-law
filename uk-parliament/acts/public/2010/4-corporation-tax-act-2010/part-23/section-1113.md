@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1113. “In respect of shares”[^key-385b61343319c45d2b3585d6c62eb596][^key-a087c23ffd631e22c484aba74eeeb803]
+## 1113. “In respect of shares”[^c-385b61343319c45d2b3585d6c62eb596][^c-a087c23ffd631e22c484aba74eeeb803]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-385b61343319c45d2b3585d6c62eb596]: Modification: S. 1113 applied by Income Tax (Trading and Other Income) Act 2005 (c. 5), Sch. 2 para. 78A(5) (as inserted (with effect in accordance with s. 1184(1) of the amending Act) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 471(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/471/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)))
+[^c-385b61343319c45d2b3585d6c62eb596]: Modification: S. 1113 applied by Income Tax (Trading and Other Income) Act 2005 (c. 5), Sch. 2 para. 78A(5) (as inserted (with effect in accordance with s. 1184(1) of the amending Act) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 471(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/471/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)))
 
-[^key-a087c23ffd631e22c484aba74eeeb803]: Modification: S. 1113 applied by Income Tax (Trading and Other Income) Act 2005 (c. 5), s. 414A(7)(a) (as inserted (with effect in accordance with s. 1184(1) of the amending Act) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 461](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/461) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)))
+[^c-a087c23ffd631e22c484aba74eeeb803]: Modification: S. 1113 applied by Income Tax (Trading and Other Income) Act 2005 (c. 5), s. 414A(7)(a) (as inserted (with effect in accordance with s. 1184(1) of the amending Act) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 461](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/461) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2)))

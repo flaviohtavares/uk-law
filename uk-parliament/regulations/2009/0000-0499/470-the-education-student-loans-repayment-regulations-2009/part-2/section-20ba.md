@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20BA. Interest rate cap: plan 2, plan 3 and plan 5 loans[^key-acf2ad42048035b0439c8e1bd9f9ad43]
+## 20BA. Interest rate cap: plan 2, plan 3 and plan 5 loans[^c-acf2ad42048035b0439c8e1bd9f9ad43]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-acf2ad42048035b0439c8e1bd9f9ad43]: Textual amendment: [Reg. 20BA](https://www.legislation.gov.uk/uksi/2009/470/regulation/20BA) inserted (1.12.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 3) Regulations 2023 (S.I. 2023/1184)](https://www.legislation.gov.uk/uksi/2023/1184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1184/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2023/1184/regulation/2/b)
+[^c-acf2ad42048035b0439c8e1bd9f9ad43]: Textual amendment: [Reg. 20BA](https://www.legislation.gov.uk/uksi/2009/470/regulation/20BA) inserted (1.12.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 3) Regulations 2023 (S.I. 2023/1184)](https://www.legislation.gov.uk/uksi/2023/1184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1184/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2023/1184/regulation/2/b)

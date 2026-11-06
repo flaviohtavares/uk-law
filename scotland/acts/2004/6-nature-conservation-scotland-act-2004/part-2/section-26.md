@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Review of nature conservation orders[^key-42d479deb382a753ace9ae6a50dcfd27]
+## 26. Review of nature conservation orders[^c-42d479deb382a753ace9ae6a50dcfd27]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42d479deb382a753ace9ae6a50dcfd27]: Commencement: S. 26 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-42d479deb382a753ace9ae6a50dcfd27]: Commencement: S. 26 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

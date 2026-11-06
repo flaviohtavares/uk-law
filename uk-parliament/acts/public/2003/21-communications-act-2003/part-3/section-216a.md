@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216A. Renewal of Channel 3 licences: determination of licence areas[^key-ad69181e8c81ea2056187983568e446b]
+## 216A. Renewal of Channel 3 licences: determination of licence areas[^c-ad69181e8c81ea2056187983568e446b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad69181e8c81ea2056187983568e446b]: Textual amendment: S. 216A inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 24(7)](https://www.legislation.gov.uk/ukpga/2010/24/section/24/7), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-ad69181e8c81ea2056187983568e446b]: Textual amendment: S. 216A inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 24(7)](https://www.legislation.gov.uk/ukpga/2010/24/section/24/7), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

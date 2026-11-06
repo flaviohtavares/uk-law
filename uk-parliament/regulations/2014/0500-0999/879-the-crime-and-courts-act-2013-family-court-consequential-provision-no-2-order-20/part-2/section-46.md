@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**46.**[^key-af2e99cf2bcb2d7a87388684ba243ae7] Schedule 1 is amended as follows.
+**46.**[^c-af2e99cf2bcb2d7a87388684ba243ae7] Schedule 1 is amended as follows.
 
 ## Annotations
 
-[^key-af2e99cf2bcb2d7a87388684ba243ae7]: Commencement: Art. 46 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-af2e99cf2bcb2d7a87388684ba243ae7]: Commencement: Art. 46 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

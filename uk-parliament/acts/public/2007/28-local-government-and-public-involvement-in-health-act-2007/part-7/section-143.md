@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Grants to promote or facilitate exercise of functions by best value authorities[^key-577b0bed81994e1219709a3274740978]
+## 143. Grants to promote or facilitate exercise of functions by best value authorities[^c-577b0bed81994e1219709a3274740978]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-577b0bed81994e1219709a3274740978]: Commencement: S. 143 in force at 30.12.2007, see s. 245(2)
+[^c-577b0bed81994e1219709a3274740978]: Commencement: S. 143 in force at 30.12.2007, see s. 245(2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 108. Loss of qualification as insolvency practitioner[^key-361568659b40495243272652fa1f27d6]
+## 108. Loss of qualification as insolvency practitioner[^c-361568659b40495243272652fa1f27d6]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-361568659b40495243272652fa1f27d6]: Commencement: Rule 108 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-361568659b40495243272652fa1f27d6]: Commencement: Rule 108 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

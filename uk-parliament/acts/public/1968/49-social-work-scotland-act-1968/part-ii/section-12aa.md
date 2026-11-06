@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12AA. Assessment of ability to provide care[^key-fcbf1535ff2bb584889ac858b0eedd64]
+## 12AA. Assessment of ability to provide care[^c-fcbf1535ff2bb584889ac858b0eedd64]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcbf1535ff2bb584889ac858b0eedd64]: Textual amendment: S. 12AA repealed (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2), [sch. para. 1(2)](https://www.legislation.gov.uk/asp/2016/9/schedule/paragraph/1/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)
+[^c-fcbf1535ff2bb584889ac858b0eedd64]: Textual amendment: S. 12AA repealed (1.4.2018) by [Carers (Scotland) Act 2016 (asp 9)](https://www.legislation.gov.uk/asp/2016/9), [s. 45(2)](https://www.legislation.gov.uk/asp/2016/9/section/45/2), [sch. para. 1(2)](https://www.legislation.gov.uk/asp/2016/9/schedule/paragraph/1/2); [S.S.I. 2017/152](https://www.legislation.gov.uk/ssi/2017/152), [reg. 4](https://www.legislation.gov.uk/ssi/2017/152/regulation/4)

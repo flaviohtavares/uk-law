@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 67. Authentication of certificates of the Board of Trade, service of notices, &c.[^c6404571][^key-5add8b8a866dd82226cfc719eb588db5][^key-37c4ceb9a8118867c73057dd0bfba92c]
+## 67. Authentication of certificates of the Board of Trade, service of notices, &c.[^c6404571][^c-5add8b8a866dd82226cfc719eb588db5][^c-37c4ceb9a8118867c73057dd0bfba92c]
 
 *Extent: E+W+N.I.*
 
@@ -26,6 +26,6 @@ All regulations, certificates, notices, and other documents in writing, purporti
 
 [^c6404571]: Modification: S. 67 incorporated (4.5.1991) by [S.I. 1991/1162](https://www.legislation.gov.uk/uksi/1991/1162), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/1162/article/3/2)
 
-[^key-5add8b8a866dd82226cfc719eb588db5]: Modification: [Ss. 67-70](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/67) incorporated (with modifications) (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 29 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/29/paragraph/4)
+[^c-5add8b8a866dd82226cfc719eb588db5]: Modification: [Ss. 67-70](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/67) incorporated (with modifications) (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 29 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/29/paragraph/4)
 
-[^key-37c4ceb9a8118867c73057dd0bfba92c]: Modification: [Ss. 67-70](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/67) incorporated (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2021/2/schedule/28/paragraph/4)
+[^c-37c4ceb9a8118867c73057dd0bfba92c]: Modification: [Ss. 67-70](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/67) incorporated (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2021/2/schedule/28/paragraph/4)

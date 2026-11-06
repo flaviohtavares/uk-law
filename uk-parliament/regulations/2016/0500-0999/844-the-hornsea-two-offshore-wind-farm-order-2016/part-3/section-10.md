@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Application of New Roads and Street Works Act 1991[^key-e51cbfd1b5b3c50c7ac9c3704309e8eb]
+## 10. Application of New Roads and Street Works Act 1991[^c-e51cbfd1b5b3c50c7ac9c3704309e8eb]
 
 *Extent: E+W+S*
 
@@ -44,6 +44,6 @@ whether or not the carrying out of the works or the stopping up, alteration or d
 
 ## Annotations
 
-[^key-e51cbfd1b5b3c50c7ac9c3704309e8eb]: Commencement: Art. 10 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-e51cbfd1b5b3c50c7ac9c3704309e8eb]: Commencement: Art. 10 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
 [^f00030]: Footnote: Sections 54, 55, 57, 59, 60, 68 and 69 were amended by the Traffic Management Act [2004 (c.18)](https://www.legislation.gov.uk/ukpga/2004/18).

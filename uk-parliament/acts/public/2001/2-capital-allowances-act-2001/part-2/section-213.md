@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purposes of this Chapter, a person (“**B**”) and another person (“S”) enter into a relevant transaction[^key-0a5f9cb396889e5b9bb048378588ff21] if—
+(1) For the purposes of this Chapter, a person (“**B**”) and another person (“S”) enter into a relevant transaction[^c-0a5f9cb396889e5b9bb048378588ff21] if—
 
 - (a) S sells plant or machinery to B,
 - (b) B enters into a contract with S providing that B shall or may become the owner of plant or machinery on the performance of the contract, or
@@ -39,10 +39,10 @@ summary: ''
 
 B is to be treated for the purposes of this Chapter as having incurred capital expenditure on the provision of the plant or machinery by purchasing it from S.
 
-(4)[^key-72918ac743d2fad9cb5e0569ee9159eb] For the purposes of this Chapter, references to the disposal value of the plant or machinery under a relevant transaction are references to the disposal value that is to be brought into account by S as a result of the sale, contract or assignment in question.
+(4)[^c-72918ac743d2fad9cb5e0569ee9159eb] For the purposes of this Chapter, references to the disposal value of the plant or machinery under a relevant transaction are references to the disposal value that is to be brought into account by S as a result of the sale, contract or assignment in question.
 
 ## Annotations
 
-[^key-0a5f9cb396889e5b9bb048378588ff21]: Textual amendment: Words in [s. 213(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/213/1) substituted (with effect in accordance with s. 70(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 70(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/70/3)
+[^c-0a5f9cb396889e5b9bb048378588ff21]: Textual amendment: Words in [s. 213(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/213/1) substituted (with effect in accordance with s. 70(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 70(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/70/3)
 
-[^key-72918ac743d2fad9cb5e0569ee9159eb]: Textual amendment: [S. 213(4)](https://www.legislation.gov.uk/ukpga/2001/2/section/213/4) inserted (with effect in accordance with s. 70(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 70(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/70/4)
+[^c-72918ac743d2fad9cb5e0569ee9159eb]: Textual amendment: [S. 213(4)](https://www.legislation.gov.uk/ukpga/2001/2/section/213/4) inserted (with effect in accordance with s. 70(11) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 70(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/70/4)

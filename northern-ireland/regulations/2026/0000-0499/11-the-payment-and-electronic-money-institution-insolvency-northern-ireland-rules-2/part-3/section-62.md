@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Remote attendance at meetings conducted in accordance with Article 208ZA[^key-35d88d2d18795ceac7803cfc8a02e6ca]
+## 62. Remote attendance at meetings conducted in accordance with Article 208ZA[^c-35d88d2d18795ceac7803cfc8a02e6ca]
 
 *Extent: N.I.*
 
@@ -50,6 +50,6 @@ and the notices required by sub-paragraphs (a) and (c) may be given at the same 
 
 ## Annotations
 
-[^key-35d88d2d18795ceac7803cfc8a02e6ca]: Commencement: Rule 62 not in operation at made date, see [rule 2(2)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/2)
+[^c-35d88d2d18795ceac7803cfc8a02e6ca]: Commencement: Rule 62 not in operation at made date, see [rule 2(2)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/2)
 
 [^f00013]: Footnote: Article 208ZA was inserted by [2016 c.2](https://www.legislation.gov.uk/ukpga/2016/2).

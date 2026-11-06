@@ -28,7 +28,7 @@ This Annex lays down general principles for preparing dossiers to propose and ju
 
 - [^c000003]...
 - the identification of CMRs, PBTs, vPvBs, or a substance of equivalent concern in accordance with Article 59,[^c000002]
-- restrictions of the manufacture, placing on the market or use of a substance [^key-25be9a2b3afb071f5c9b6b45bb8bd5d0]... .
+- restrictions of the manufacture, placing on the market or use of a substance [^c-25be9a2b3afb071f5c9b6b45bb8bd5d0]... .
 
 The relevant parts of Annex I shall be used for the methodology and format of any dossier according to this Annex.
 
@@ -94,12 +94,12 @@ Available information on alternative substances and techniques shall be provided
 - availability, including the time scale,
 - technical and economical feasibility.
 
-Justification for Restrictions [^key-125b1849f2a6971ee67b6cfe693fcbe9]...
+Justification for Restrictions [^c-125b1849f2a6971ee67b6cfe693fcbe9]...
 
 Justification shall be provided that:
 
-- action is required [^key-50c2e7b8dea74ece48902c2a2a31a817]... ,
-- a restriction is the most appropriate [^key-7f6e46e0093274c24bf9e2a36005f292]... measure which shall be assessed using the following criteria:
+- action is required [^c-50c2e7b8dea74ece48902c2a2a31a817]... ,
+- a restriction is the most appropriate [^c-7f6e46e0093274c24bf9e2a36005f292]... measure which shall be assessed using the following criteria:
   - ((i)) effectiveness: the restriction must be targeted to the effects or exposures that cause the risks identified, capable of reducing these risks to an acceptable level within a reasonable period of time and proportional to the risk;
   - ((ii)) practicality: the restriction must be implementable, enforceable and manageable;
   - ((iii)) monitorability: it must be possible to monitor the result of the implementation of the proposed restriction.
@@ -120,10 +120,10 @@ Information on any consultation of stakeholders and how their views have been ta
 
 [^c000002]: Textual amendment: Substituted by [Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2008/1272).
 
-[^key-25be9a2b3afb071f5c9b6b45bb8bd5d0]: Textual amendment: Words in Annex 15 Pt. 1 omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/3/paragraph/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-25be9a2b3afb071f5c9b6b45bb8bd5d0]: Textual amendment: Words in Annex 15 Pt. 1 omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 3 para. 11(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/3/paragraph/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-125b1849f2a6971ee67b6cfe693fcbe9]: Textual amendment: Words in Annex 15 Pt. 2 point 3 omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 3 para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2019/758/schedule/3/paragraph/11/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-125b1849f2a6971ee67b6cfe693fcbe9]: Textual amendment: Words in Annex 15 Pt. 2 point 3 omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 3 para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2019/758/schedule/3/paragraph/11/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-50c2e7b8dea74ece48902c2a2a31a817]: Textual amendment: Words in Annex 15 Pt. 2 point 3 omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 3 para. 11(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/758/schedule/3/paragraph/11/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-50c2e7b8dea74ece48902c2a2a31a817]: Textual amendment: Words in Annex 15 Pt. 2 point 3 omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 3 para. 11(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/758/schedule/3/paragraph/11/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7f6e46e0093274c24bf9e2a36005f292]: Textual amendment: Words in Annex 15 Pt. 2 point 3 omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 3 para. 11(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/758/schedule/3/paragraph/11/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f6e46e0093274c24bf9e2a36005f292]: Textual amendment: Words in Annex 15 Pt. 2 point 3 omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 3 para. 11(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/758/schedule/3/paragraph/11/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

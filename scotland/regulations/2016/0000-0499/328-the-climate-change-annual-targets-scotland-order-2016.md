@@ -32,7 +32,7 @@ summary: ''
 
 Climate Change
 
-The Climate Change (Annual Targets) (Scotland) Order 2016 (revoked)[^key-3575f1dfeafb4e344eabe7552ce02360]
+The Climate Change (Annual Targets) (Scotland) Order 2016 (revoked)[^c-3575f1dfeafb4e344eabe7552ce02360]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 28th October 2016
 
-[^key-3575f1dfeafb4e344eabe7552ce02360]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3575f1dfeafb4e344eabe7552ce02360]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3575f1dfeafb4e344eabe7552ce02360]
+## 1. Citation and commencement[^c-3575f1dfeafb4e344eabe7552ce02360]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Annual targets for each year in the period 2028-2032[^key-3575f1dfeafb4e344eabe7552ce02360]
+## 2. Annual targets for each year in the period 2028-2032[^c-3575f1dfeafb4e344eabe7552ce02360]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3575f1dfeafb4e344eabe7552ce02360]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3575f1dfeafb4e344eabe7552ce02360]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3575f1dfeafb4e344eabe7552ce02360]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3575f1dfeafb4e344eabe7552ce02360]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3575f1dfeafb4e344eabe7552ce02360]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/328) revoked (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 12(c)](https://www.legislation.gov.uk/asp/2019/15/section/12/c), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-3575f1dfeafb4e344eabe7552ce02360]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/328) revoked (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [ss. 12(c)](https://www.legislation.gov.uk/asp/2019/15/section/12/c), [32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)

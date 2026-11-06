@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Restriction on deductions: payments in respect of intangible assets[^key-b79e44b59ceed9c0c98550601a6ffc86]
+## 31. Restriction on deductions: payments in respect of intangible assets[^c-b79e44b59ceed9c0c98550601a6ffc86]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b79e44b59ceed9c0c98550601a6ffc86]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/2009/4/section/31) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 8(g)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/8/g), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-b79e44b59ceed9c0c98550601a6ffc86]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/2009/4/section/31) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 8(g)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/8/g), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

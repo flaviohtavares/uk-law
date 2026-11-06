@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 160. Interpretation of Part IV of the Act—references to loans and borrowing[^key-dea54b31d8ef174a897c0552c5fa0b05]
+## 160. Interpretation of Part IV of the Act—references to loans and borrowing[^c-dea54b31d8ef174a897c0552c5fa0b05]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dea54b31d8ef174a897c0552c5fa0b05]: Commencement: Reg. 160 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-dea54b31d8ef174a897c0552c5fa0b05]: Commencement: Reg. 160 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00127]: Footnote: [1963 c. 33](https://www.legislation.gov.uk/ukpga/1963/33).
 

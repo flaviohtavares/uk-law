@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 30B. Wave and tidal stream generating stations[^key-6c0fc556c9967923604ac6aed176a7d8]
+## 30B. Wave and tidal stream generating stations[^c-6c0fc556c9967923604ac6aed176a7d8]
 
 (1) This article applies to electricity which is generated—
 
@@ -28,7 +28,7 @@ summary: ''
 - (a) issued in respect of the relevant proportion of the electricity to which this article applies, is [formula: see source](https://www.legislation.gov.uk/ssi/2009/140) of a megawatt hour;
 - (b) issued in respect of the remainder of the electricity to which this article applies, is to be determined in accordance with article 27(4) to (8).
 
-(4) In any month where 2012/17 marine capacity forms part, but not the whole, of the total installed capacity of a generating station, the proportion of the station’s RO eligible[^key-056b96edbcc941188b2e164a37e69725] renewable output which, for the purposes of paragraphs (2) and (3), is generated using 2012/17 marine capacity is [formula: see source](https://www.legislation.gov.uk/ssi/2009/140).
+(4) In any month where 2012/17 marine capacity forms part, but not the whole, of the total installed capacity of a generating station, the proportion of the station’s RO eligible[^c-056b96edbcc941188b2e164a37e69725] renewable output which, for the purposes of paragraphs (2) and (3), is generated using 2012/17 marine capacity is [formula: see source](https://www.legislation.gov.uk/ssi/2009/140).
 
 (5) In paragraph (4)—
 
@@ -45,14 +45,14 @@ summary: ''
   - (c) has, on or before 31st March 2017, generated electricity in respect of which SROCs may be issued; and
   - (d) in the case of a generating station accredited on or before 31st March 2012, does not form part of the capacity of the station as accredited;
 - “the relevant proportion”, in relation to electricity generated using the 2012/17 marine capacity of a generating station, is the proportion which 30 megawatts bears to the total installed capacity of the 2012/17 marine capacity as at the date of generation of the electricity;
-- [^key-5bfe14dad7bf37a5863f442ee571fa4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-5bfe14dad7bf37a5863f442ee571fa4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) This article is subject to article 32.
 
 ## Annotations
 
-[^key-6c0fc556c9967923604ac6aed176a7d8]: Textual amendment: Art. 30B inserted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [17](https://www.legislation.gov.uk/ssi/2013/116/article/17) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
+[^c-6c0fc556c9967923604ac6aed176a7d8]: Textual amendment: Art. 30B inserted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [17](https://www.legislation.gov.uk/ssi/2013/116/article/17) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
 
-[^key-056b96edbcc941188b2e164a37e69725]: Textual amendment: Words in art. 30B(4) inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [12(2)](https://www.legislation.gov.uk/ssi/2014/94/article/12/2) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-056b96edbcc941188b2e164a37e69725]: Textual amendment: Words in art. 30B(4) inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [12(2)](https://www.legislation.gov.uk/ssi/2014/94/article/12/2) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
 
-[^key-5bfe14dad7bf37a5863f442ee571fa4c]: Textual amendment: Words in art. 30B(6) omitted (1.4.2014) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [12(3)](https://www.legislation.gov.uk/ssi/2014/94/article/12/3) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-5bfe14dad7bf37a5863f442ee571fa4c]: Textual amendment: Words in art. 30B(6) omitted (1.4.2014) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [12(3)](https://www.legislation.gov.uk/ssi/2014/94/article/12/3) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 167. Consequential modifications[^key-af3b91ac1c08669bc521b379b42bde11][^key-da5e2093ba87431970615d4838376cfd][^key-02000c58cc2ee2fba72065a33dd6204d][^key-03037a677eeb4aa213a3cb2d2088e093]
+## 167. Consequential modifications[^c-af3b91ac1c08669bc521b379b42bde11][^c-da5e2093ba87431970615d4838376cfd][^c-02000c58cc2ee2fba72065a33dd6204d][^c-03037a677eeb4aa213a3cb2d2088e093]
 
 *Extent: S*
 
@@ -24,10 +24,10 @@ Schedule 4 makes modifications consequential on the provisions of this Act.
 
 ## Annotations
 
-[^key-af3b91ac1c08669bc521b379b42bde11]: Commencement: [S. 167](https://www.legislation.gov.uk/asp/2010/5/section/167) in force at 1.7.2010 for specified purposes by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(h)](https://www.legislation.gov.uk/ssi/2010/230/article/2/h)
+[^c-af3b91ac1c08669bc521b379b42bde11]: Commencement: [S. 167](https://www.legislation.gov.uk/asp/2010/5/section/167) in force at 1.7.2010 for specified purposes by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(h)](https://www.legislation.gov.uk/ssi/2010/230/article/2/h)
 
-[^key-da5e2093ba87431970615d4838376cfd]: Commencement: [S. 167](https://www.legislation.gov.uk/asp/2010/5/section/167) in force at 24.2.2011 for specified purposes by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/58/article/2/b)
+[^c-da5e2093ba87431970615d4838376cfd]: Commencement: [S. 167](https://www.legislation.gov.uk/asp/2010/5/section/167) in force at 24.2.2011 for specified purposes by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/58/article/2/b)
 
-[^key-02000c58cc2ee2fba72065a33dd6204d]: Commencement: [S. 167](https://www.legislation.gov.uk/asp/2010/5/section/167) in force at 6.4.2011 for specified purposes by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(d)](https://www.legislation.gov.uk/ssi/2011/58/article/3/d)
+[^c-02000c58cc2ee2fba72065a33dd6204d]: Commencement: [S. 167](https://www.legislation.gov.uk/asp/2010/5/section/167) in force at 6.4.2011 for specified purposes by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(d)](https://www.legislation.gov.uk/ssi/2011/58/article/3/d)
 
-[^key-03037a677eeb4aa213a3cb2d2088e093]: Commencement: [S. 167](https://www.legislation.gov.uk/asp/2010/5/section/167) in force at 1.11.2013 for specified purposes by [S.S.I. 2013/276](https://www.legislation.gov.uk/ssi/2013/276), [art. 2](https://www.legislation.gov.uk/ssi/2013/276/article/2)
+[^c-03037a677eeb4aa213a3cb2d2088e093]: Commencement: [S. 167](https://www.legislation.gov.uk/asp/2010/5/section/167) in force at 1.11.2013 for specified purposes by [S.S.I. 2013/276](https://www.legislation.gov.uk/ssi/2013/276), [art. 2](https://www.legislation.gov.uk/ssi/2013/276/article/2)

@@ -26,7 +26,7 @@ summary: ''
 
 (3) Where an owner or other person has failed to carry out any work which he has been required to carry out under the byelaws, the local authority may, after giving to him not less than 21 days’ notice in writing, themselves carry out the works and recover the costs and expenses.
 
-(4)[^key-f89fd2722f9c4d85467f8dfc03d4c2f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f89fd2722f9c4d85467f8dfc03d4c2f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In this section “**owner**”, in relation to a house mentioned in subsection (1), means the person entitled to receive, or who would if the premises were let, be entitled to receive the rents of the premises, and includes a trustee, factor, tutor, or curator, and in the case of public or municipal property applies to the persons to whom the management is entrusted.
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c12779471]: Marginal citation: [1897 c. 38](https://www.legislation.gov.uk/ukpga/1897/38).
 
-[^key-f89fd2722f9c4d85467f8dfc03d4c2f7]: Textual amendment: [S. 313(4)](https://www.legislation.gov.uk/ukpga/1987/26/section/313/4) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-f89fd2722f9c4d85467f8dfc03d4c2f7]: Textual amendment: [S. 313(4)](https://www.legislation.gov.uk/ukpga/1987/26/section/313/4) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

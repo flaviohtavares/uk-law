@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Auditor General for Wales[^key-2fff8e0428d7a0deb6661617b92c1cd3]
+## 36. Auditor General for Wales[^c-2fff8e0428d7a0deb6661617b92c1cd3]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 23 of the Public Audit (Wales) Act 2013 (anaw 3) (general provision r
 
 ## Annotations
 
-[^key-2fff8e0428d7a0deb6661617b92c1cd3]: Commencement: S. 36 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-2fff8e0428d7a0deb6661617b92c1cd3]: Commencement: S. 36 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Amendment of regulation 19[^key-060606a0ad31052afc365963bec55071]
+## 21. Amendment of regulation 19[^c-060606a0ad31052afc365963bec55071]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 19—
 
 ## Annotations
 
-[^key-060606a0ad31052afc365963bec55071]: Commencement: Reg. 21 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-060606a0ad31052afc365963bec55071]: Commencement: Reg. 21 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

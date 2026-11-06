@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Patient Safety Agency (Amendment) Regulations 2012 (revoked)[^key-497e1afae37af979ea465838868f6b78]
+The National Patient Safety Agency (Amendment) Regulations 2012 (revoked)[^c-497e1afae37af979ea465838868f6b78]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 9th July 2012
 
-[^key-497e1afae37af979ea465838868f6b78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-497e1afae37af979ea465838868f6b78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-497e1afae37af979ea465838868f6b78]
+## 1. Citation, commencement and interpretation[^c-497e1afae37af979ea465838868f6b78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Principal Regulations[^key-497e1afae37af979ea465838868f6b78]
+## 2. Amendment of the Principal Regulations[^c-497e1afae37af979ea465838868f6b78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-497e1afae37af979ea465838868f6b78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-497e1afae37af979ea465838868f6b78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-497e1afae37af979ea465838868f6b78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-497e1afae37af979ea465838868f6b78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-497e1afae37af979ea465838868f6b78]: Textual amendment: Regulations revoked (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/regulation/1/2), [Sch. 2 para. 204](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/204)
+[^c-497e1afae37af979ea465838868f6b78]: Textual amendment: Regulations revoked (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/regulation/1/2), [Sch. 2 para. 204](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/204)

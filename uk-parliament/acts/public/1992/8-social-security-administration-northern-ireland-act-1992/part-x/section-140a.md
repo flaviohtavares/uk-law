@@ -30,7 +30,7 @@ summary: ''
 (3) Subsection (2) above does not apply where, in consequence on the recipient or other person reaching the qualifying age, a question arises in relation to the recipient’s entitlement to—
 
 - (a) a benefit under the Contributions and Benefits Act;
-- (aa)[^key-ce875f40d50582fa4be18c90647734c9] personal independence payment; or
+- (aa)[^c-ce875f40d50582fa4be18c90647734c9] personal independence payment; or
 - (b) a jobseekers’s allowance.
 
 (4) Subsection (3)(b) above does not apply to the question—
@@ -46,4 +46,4 @@ summary: ''
 
 [^c14902081]: Textual amendment: Words in s. 140A(2) substituted (18.10.1999 for certain purposes, otherwise*prosp.*) by [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506), [arts. 1(2)](https://www.legislation.gov.uk/nisi/1998/1506/article/1/2), [78(1)](https://www.legislation.gov.uk/nisi/1998/1506/article/78/1), [Sch. 6 para. 76](https://www.legislation.gov.uk/nisi/1998/1506/schedule/6/paragraph/76); [S.R. 1999/428](https://www.legislation.gov.uk/nisr/1999/428), [art. 2(b)](https://www.legislation.gov.uk/nisr/1999/428/article/2/b), [Sch. 1](https://www.legislation.gov.uk/nisr/1999/428/schedule/1) (with [arts. 4](https://www.legislation.gov.uk/nisr/1999/428/article/4), [16](https://www.legislation.gov.uk/nisr/1999/428/article/16))
 
-[^key-ce875f40d50582fa4be18c90647734c9]: Textual amendment: [S. 140A(3)(aa)](https://www.legislation.gov.uk/ukpga/1992/8/section/140A/3/aa) inserted (20.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 20](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/20); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)
+[^c-ce875f40d50582fa4be18c90647734c9]: Textual amendment: [S. 140A(3)(aa)](https://www.legislation.gov.uk/ukpga/1992/8/section/140A/3/aa) inserted (20.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 20](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/20); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)

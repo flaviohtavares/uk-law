@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Framework power relating to Wales[^key-6a406fb560169304d65de09df0b3cce3][^key-00b53b6cdf1bea844782311f5356b835]
+## 178. Framework power relating to Wales[^c-6a406fb560169304d65de09df0b3cce3][^c-00b53b6cdf1bea844782311f5356b835]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6a406fb560169304d65de09df0b3cce3]: Textual amendment: S. 178 repealed (25.5.2007) by [The National Assembly for Wales (Legislative Competence) (Conversion of Framework Powers) Order 2007 (S.I. 2007/910)](https://www.legislation.gov.uk/uksi/2007/910), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/910/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2007/910/article/5/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2007/910/article/2))
+[^c-6a406fb560169304d65de09df0b3cce3]: Textual amendment: S. 178 repealed (25.5.2007) by [The National Assembly for Wales (Legislative Competence) (Conversion of Framework Powers) Order 2007 (S.I. 2007/910)](https://www.legislation.gov.uk/uksi/2007/910), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/910/article/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2007/910/article/5/a) (with [art. 2](https://www.legislation.gov.uk/uksi/2007/910/article/2))
 
-[^key-00b53b6cdf1bea844782311f5356b835]: Commencement: S. 178 in force at 8.1.2007, see s. 188(2)
+[^c-00b53b6cdf1bea844782311f5356b835]: Commencement: S. 178 in force at 8.1.2007, see s. 188(2)

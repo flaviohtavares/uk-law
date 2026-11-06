@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49A. Discretionary social housing relief[^key-922a38decade09d0458896395e643b37]
+## 49A. Discretionary social housing relief[^c-922a38decade09d0458896395e643b37]
 
 *Extent: E+W*
 
@@ -27,11 +27,11 @@ summary: ''
 
 *Extent: W*
 
-(2 (Extent: E) (affected by repeal, see note))[^key-e92a66d0c6b4e67a29738b858ca94b0b] For the purposes of this regulation a dwelling is a qualifying dwelling if all of the following criteria are met— *(Extent: E)* *(affected by repeal, see note)*[^key-e92a66d0c6b4e67a29738b858ca94b0b]
+(2 (Extent: E) (affected by repeal, see note))[^c-e92a66d0c6b4e67a29738b858ca94b0b] For the purposes of this regulation a dwelling is a qualifying dwelling if all of the following criteria are met— *(Extent: E)* *(affected by repeal, see note)*[^c-e92a66d0c6b4e67a29738b858ca94b0b]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-e92a66d0c6b4e67a29738b858ca94b0b] the dwelling is sold for no more than 80% of its market value (where the market value at any time is the price which the dwelling might reasonably be expected to fetch if sold at that time on the open market); *(Extent: E)* *(affected by repeal, see note)*[^key-e92a66d0c6b4e67a29738b858ca94b0b]
-- (b (Extent: E) (affected by repeal, see note))[^key-e92a66d0c6b4e67a29738b858ca94b0b] the dwelling is sold in accordance with any policy published by the charging authority under regulation 49B(1)(a)(iii); and *(Extent: E)* *(affected by repeal, see note)*[^key-e92a66d0c6b4e67a29738b858ca94b0b]
-- (c (Extent: E) (affected by repeal, see note))[^key-e92a66d0c6b4e67a29738b858ca94b0b] the liability to pay CIL in relation to the dwelling remains with the person granted discretionary social housing relief. *(Extent: E)* *(affected by repeal, see note)*[^key-e92a66d0c6b4e67a29738b858ca94b0b]
+- (a (Extent: E) (affected by repeal, see note))[^c-e92a66d0c6b4e67a29738b858ca94b0b] the dwelling is sold for no more than 80% of its market value (where the market value at any time is the price which the dwelling might reasonably be expected to fetch if sold at that time on the open market); *(Extent: E)* *(affected by repeal, see note)*[^c-e92a66d0c6b4e67a29738b858ca94b0b]
+- (b (Extent: E) (affected by repeal, see note))[^c-e92a66d0c6b4e67a29738b858ca94b0b] the dwelling is sold in accordance with any policy published by the charging authority under regulation 49B(1)(a)(iii); and *(Extent: E)* *(affected by repeal, see note)*[^c-e92a66d0c6b4e67a29738b858ca94b0b]
+- (c (Extent: E) (affected by repeal, see note))[^c-e92a66d0c6b4e67a29738b858ca94b0b] the liability to pay CIL in relation to the dwelling remains with the person granted discretionary social housing relief. *(Extent: E)* *(affected by repeal, see note)*[^c-e92a66d0c6b4e67a29738b858ca94b0b]
 
 *Extent: E*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-922a38decade09d0458896395e643b37]: Textual amendment: [Regs. 49A-49C](https://www.legislation.gov.uk/uksi/2010/948/regulation/49A) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/5)
+[^c-922a38decade09d0458896395e643b37]: Textual amendment: [Regs. 49A-49C](https://www.legislation.gov.uk/uksi/2010/948/regulation/49A) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/5)
 
-[^key-e92a66d0c6b4e67a29738b858ca94b0b]: Textual amendment: [Reg. 49A(2)](https://www.legislation.gov.uk/uksi/2010/948/regulation/49A/2) substituted (E.) (16.11.2020) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2020 (S.I. 2020/1226)](https://www.legislation.gov.uk/uksi/2020/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1226/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1226/regulation/5)
+[^c-e92a66d0c6b4e67a29738b858ca94b0b]: Textual amendment: [Reg. 49A(2)](https://www.legislation.gov.uk/uksi/2010/948/regulation/49A/2) substituted (E.) (16.11.2020) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2020 (S.I. 2020/1226)](https://www.legislation.gov.uk/uksi/2020/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1226/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1226/regulation/5)

@@ -74,12 +74,12 @@ the district council must investigate the presence of other radionuclides as det
 
 #### 13. Exemption from monitoring
 
-(1)[^key-e9626bc72e716f1300aa5a89b8327b1e] A district council is not required to monitor water bottled and labelled as “spring water” or bottled drinking water for radon, tritium or indicative dose if it—
+(1)[^c-e9626bc72e716f1300aa5a89b8327b1e] A district council is not required to monitor water bottled and labelled as “spring water” or bottled drinking water for radon, tritium or indicative dose if it—
 
 - (a) is satisfied on the basis of representative surveys, monitoring data or other reliable information that, for a minimum period of 5 years, the parameter in question will remain below the respective parametric value specified in Part 4 of Schedule 7; and
 - (b) it notifies the Agency of that decision and provides the Agency with a copy of the representative surveys, monitoring data or other reliable information referred to in paragraph (a).
 
-(2)[^key-d0282f4904b523fc95c2d17f11a94fbe] Subject to sub-paragraph (3), the exemption from monitoring under sub-paragraph (1) lapses after a period of 5 years, beginning on the date the district council notifies its decision to the Agency in accordance with sub-paragraph (1)(b).
+(2)[^c-d0282f4904b523fc95c2d17f11a94fbe] Subject to sub-paragraph (3), the exemption from monitoring under sub-paragraph (1) lapses after a period of 5 years, beginning on the date the district council notifies its decision to the Agency in accordance with sub-paragraph (1)(b).
 
 (3) The exemption from monitoring under sub-paragraph (1) lapses immediately if the level of radon, tritium of indicative dose exceeds the relevant parametric value specified in Part 4 of Schedule 7.
 
@@ -114,6 +114,6 @@ If a parametric value specified in Part 4 of Schedule 7 is exceeded in a sample 
 
 ## Annotations
 
-[^key-e9626bc72e716f1300aa5a89b8327b1e]: Textual amendment: [Sch. 9 para. 13](https://www.legislation.gov.uk/nisr/2015/365/schedule/9/paragraph/13): renumbered as para. 13(1) (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [12(1)](https://www.legislation.gov.uk/nisr/2017/201/regulation/12/1)
+[^c-e9626bc72e716f1300aa5a89b8327b1e]: Textual amendment: [Sch. 9 para. 13](https://www.legislation.gov.uk/nisr/2015/365/schedule/9/paragraph/13): renumbered as para. 13(1) (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [12(1)](https://www.legislation.gov.uk/nisr/2017/201/regulation/12/1)
 
-[^key-d0282f4904b523fc95c2d17f11a94fbe]: Textual amendment: [Sch. 9 para. 13(2)](https://www.legislation.gov.uk/nisr/2015/365/schedule/9/paragraph/13/2)[(3)](https://www.legislation.gov.uk/nisr/2015/365/schedule/9/paragraph/13/3) inserted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [12(2)](https://www.legislation.gov.uk/nisr/2017/201/regulation/12/2)
+[^c-d0282f4904b523fc95c2d17f11a94fbe]: Textual amendment: [Sch. 9 para. 13(2)](https://www.legislation.gov.uk/nisr/2015/365/schedule/9/paragraph/13/2)[(3)](https://www.legislation.gov.uk/nisr/2015/365/schedule/9/paragraph/13/3) inserted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [12(2)](https://www.legislation.gov.uk/nisr/2017/201/regulation/12/2)

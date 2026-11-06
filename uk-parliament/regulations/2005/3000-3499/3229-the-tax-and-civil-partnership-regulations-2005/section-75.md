@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75.[^key-aabdb78e30593b56fa8fe2a3733c2ab8]
+## 75.[^c-aabdb78e30593b56fa8fe2a3733c2ab8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 540 (life policies: chargeable events), in subsection (4), at the end
 
 ## Annotations
 
-[^key-aabdb78e30593b56fa8fe2a3733c2ab8]: Commencement: Reg. 75 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-aabdb78e30593b56fa8fe2a3733c2ab8]: Commencement: Reg. 75 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

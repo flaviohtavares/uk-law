@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.24. When this Section applies[^key-71624d71181e823e7d78a904aeb513e9]
+## 47.24. When this Section applies[^c-71624d71181e823e7d78a904aeb513e9]
 
 *Extent: E+W*
 
@@ -71,7 +71,7 @@ This Section applies where—
 
 ## Annotations
 
-[^key-71624d71181e823e7d78a904aeb513e9]: Commencement: Rule 47.24 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-71624d71181e823e7d78a904aeb513e9]: Commencement: Rule 47.24 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01183]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); section 8 was amended by paragraph 80 of Schedule 14 to the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), sections 111, 113 and 114 of, and paragraph 43 of Schedule 7 to, the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and section 86 of the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
 

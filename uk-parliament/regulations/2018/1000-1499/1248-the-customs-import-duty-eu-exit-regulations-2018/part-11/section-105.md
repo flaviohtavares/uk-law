@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Goods regarded as domestic goods: fish[^key-00412be4fc0e942ca8b42e472b3a8b35]
+## 105. Goods regarded as domestic goods: fish[^c-00412be4fc0e942ca8b42e472b3a8b35]
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purposes of Part 1 of the Act, catch are to be regarded as domestic goods if caught by a British ship whilst fishing beyond territorial waters of a country or territory other than the United Kingdom and are brought to Great Britain[^key-33688bb9a29c9026db53d9109687d55d]—
+(1) For the purposes of Part 1 of the Act, catch are to be regarded as domestic goods if caught by a British ship whilst fishing beyond territorial waters of a country or territory other than the United Kingdom and are brought to Great Britain[^c-33688bb9a29c9026db53d9109687d55d]—
 
 - (a) directly by that or another ship; or
-- (b) after merely landing at a port outside Great Britain[^key-0ca9614dc9bbf4ea798af6732b82f106] and the catch are itemised in a travel document issued at that port by the person responsible for the carriage of the catch which specifies the destination and recipients of the catch.
+- (b) after merely landing at a port outside Great Britain[^c-0ca9614dc9bbf4ea798af6732b82f106] and the catch are itemised in a travel document issued at that port by the person responsible for the carriage of the catch which specifies the destination and recipients of the catch.
 
-(2) For the purposes of Part 1 of the Act, where a catch caught by a British ship whilst fishing beyond territorial waters of a country or territory other than the United Kingdom is processed on a factory ship which is a British ship operating beyond the territorial waters of a country or territory other than the United Kingdom, goods which are the products of the catch processed are to be regarded as domestic goods if brought to Great Britain[^key-b9be058c7bfdefb98b29b9f48557c812]—
+(2) For the purposes of Part 1 of the Act, where a catch caught by a British ship whilst fishing beyond territorial waters of a country or territory other than the United Kingdom is processed on a factory ship which is a British ship operating beyond the territorial waters of a country or territory other than the United Kingdom, goods which are the products of the catch processed are to be regarded as domestic goods if brought to Great Britain[^c-b9be058c7bfdefb98b29b9f48557c812]—
 
 - (a) directly by that or another ship; or
-- (b) after merely landing at a port outside Great Britain[^key-7d5c008f2e5c579988f68d9774f0b7e5] and the goods are itemised in a travel document issued at that port by the person responsible for the carriage of the goods which specifies the destination and recipients of the goods in Great Britain.
+- (b) after merely landing at a port outside Great Britain[^c-7d5c008f2e5c579988f68d9774f0b7e5] and the goods are itemised in a travel document issued at that port by the person responsible for the carriage of the goods which specifies the destination and recipients of the goods in Great Britain.
 
 (3) In this regulation—
 
@@ -38,14 +38,14 @@ summary: ''
 
 ## Annotations
 
-[^key-00412be4fc0e942ca8b42e472b3a8b35]: Commencement: Reg. 105 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-00412be4fc0e942ca8b42e472b3a8b35]: Commencement: Reg. 105 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-33688bb9a29c9026db53d9109687d55d]: Textual amendment: Words in reg. 105(1) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [37(12)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/37/12/a/i); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-33688bb9a29c9026db53d9109687d55d]: Textual amendment: Words in reg. 105(1) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [37(12)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/37/12/a/i); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-0ca9614dc9bbf4ea798af6732b82f106]: Textual amendment: Words in reg. 105(1)(b) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [37(12)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/37/12/a/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-0ca9614dc9bbf4ea798af6732b82f106]: Textual amendment: Words in reg. 105(1)(b) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [37(12)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/37/12/a/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-b9be058c7bfdefb98b29b9f48557c812]: Textual amendment: Words in reg. 105(2) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [37(12)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/37/12/b/i); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b9be058c7bfdefb98b29b9f48557c812]: Textual amendment: Words in reg. 105(2) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [37(12)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/37/12/b/i); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-7d5c008f2e5c579988f68d9774f0b7e5]: Textual amendment: Words in reg. 105(2)(b) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [37(12)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/37/12/b/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-7d5c008f2e5c579988f68d9774f0b7e5]: Textual amendment: Words in reg. 105(2)(b) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [37(12)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/37/12/b/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23522381]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

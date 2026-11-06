@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Phasing out of relief for profit-related pay.[^key-b0196ba9e7140344165c9af2d694acd1]
+## 61. Phasing out of relief for profit-related pay.[^c-b0196ba9e7140344165c9af2d694acd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0196ba9e7140344165c9af2d694acd1]: Textual amendment: [S. 61](https://www.legislation.gov.uk/ukpga/1997/16/section/61) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-b0196ba9e7140344165c9af2d694acd1]: Textual amendment: [S. 61](https://www.legislation.gov.uk/ukpga/1997/16/section/61) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

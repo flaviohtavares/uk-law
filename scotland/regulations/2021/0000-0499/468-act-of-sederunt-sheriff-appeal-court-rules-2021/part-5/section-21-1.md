@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21.1. Application and interpretation of this Chapter[^key-2799dc9dd2ee668c4f57bf205e3d80e0]
+## 21.1. Application and interpretation of this Chapter[^c-2799dc9dd2ee668c4f57bf205e3d80e0]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ are disapplied.
 
 ## Annotations
 
-[^key-2799dc9dd2ee668c4f57bf205e3d80e0]: Commencement: Para. 21.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-2799dc9dd2ee668c4f57bf205e3d80e0]: Commencement: Para. 21.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00018]: Footnote: [2018 asp 10](https://www.legislation.gov.uk/asp/2018/10).

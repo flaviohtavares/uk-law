@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Marking EEE with the crossed out wheeled bin symbol[^key-759e6c7dade91ff82ef25667c9c4802b]
+## 15. Marking EEE with the crossed out wheeled bin symbol[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-759e6c7dade91ff82ef25667c9c4802b]: Textual amendment: Regulations revoked (subject to a saving for reg. 4) (1.1.2014) by [The Waste Electrical and Electronic Equipment Regulations 2013 (S.I. 2013/3113)](https://www.legislation.gov.uk/uksi/2013/3113), [reg. 96(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/96/2) (with [reg. 96(3)-(5)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/96/3))
+[^c-759e6c7dade91ff82ef25667c9c4802b]: Textual amendment: Regulations revoked (subject to a saving for reg. 4) (1.1.2014) by [The Waste Electrical and Electronic Equipment Regulations 2013 (S.I. 2013/3113)](https://www.legislation.gov.uk/uksi/2013/3113), [reg. 96(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/96/2) (with [reg. 96(3)-(5)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/96/3))

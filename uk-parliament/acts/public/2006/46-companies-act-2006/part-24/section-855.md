@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 855. Contents of annual return: general[^key-ea9d2d7fdd0e2a9fd896dc8bfade6b46][^key-62e7c4761303f9e525b14659c1b3f2bf]
+## 855. Contents of annual return: general[^c-ea9d2d7fdd0e2a9fd896dc8bfade6b46][^c-62e7c4761303f9e525b14659c1b3f2bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea9d2d7fdd0e2a9fd896dc8bfade6b46]: Textual amendment: Pt. 24 substituted (1.5.2016 for specified purposes, otherwise 30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 92](https://www.legislation.gov.uk/ukpga/2015/26/section/92), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [regs. 5](https://www.legislation.gov.uk/uksi/2016/321/regulation/5), [6(a)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/a) (with [Sch. para. 5](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/5))
+[^c-ea9d2d7fdd0e2a9fd896dc8bfade6b46]: Textual amendment: Pt. 24 substituted (1.5.2016 for specified purposes, otherwise 30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 92](https://www.legislation.gov.uk/ukpga/2015/26/section/92), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [regs. 5](https://www.legislation.gov.uk/uksi/2016/321/regulation/5), [6(a)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/a) (with [Sch. para. 5](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/5))
 
-[^key-62e7c4761303f9e525b14659c1b3f2bf]: Textual amendment: [Ss. 854-859](https://www.legislation.gov.uk/ukpga/2006/46/section/854) Amendment to earlier affecting provision SI 2009/2436 Sch. 2 para 13(1) (26.6.2017) by [The Information about People with Significant Control (Amendment) Regulations 2017 (S.I. 2017/693)](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [34](https://www.legislation.gov.uk/uksi/2017/693/regulation/34) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/3))
+[^c-62e7c4761303f9e525b14659c1b3f2bf]: Textual amendment: [Ss. 854-859](https://www.legislation.gov.uk/ukpga/2006/46/section/854) Amendment to earlier affecting provision SI 2009/2436 Sch. 2 para 13(1) (26.6.2017) by [The Information about People with Significant Control (Amendment) Regulations 2017 (S.I. 2017/693)](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [34](https://www.legislation.gov.uk/uksi/2017/693/regulation/34) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Parental responsibility[^key-8588e83097ea4cef7f8160bea81ad35e]
+## 22. Parental responsibility[^c-8588e83097ea4cef7f8160bea81ad35e]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8588e83097ea4cef7f8160bea81ad35e]: Commencement: S. 22 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-8588e83097ea4cef7f8160bea81ad35e]: Commencement: S. 22 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

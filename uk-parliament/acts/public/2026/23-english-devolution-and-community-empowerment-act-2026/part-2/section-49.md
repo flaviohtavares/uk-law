@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Mayor with PCC and fire and rescue functions[^key-69a67c62ed0bbf042ae45005dbadc827]
+## 49. Mayor with PCC and fire and rescue functions[^c-69a67c62ed0bbf042ae45005dbadc827]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69a67c62ed0bbf042ae45005dbadc827]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2026/23/section/49) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-69a67c62ed0bbf042ae45005dbadc827]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2026/23/section/49) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Notification of employer’s contract claim[^key-6e246c97234cb2454f5c50f3c7811d1d]
+## 25. Notification of employer’s contract claim[^c-6e246c97234cb2454f5c50f3c7811d1d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ When the Tribunal sends a copy of the response form to the other parties in acco
 
 ## Annotations
 
-[^key-6e246c97234cb2454f5c50f3c7811d1d]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2024/1155/rule/25) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-6e246c97234cb2454f5c50f3c7811d1d]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2024/1155/rule/25) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

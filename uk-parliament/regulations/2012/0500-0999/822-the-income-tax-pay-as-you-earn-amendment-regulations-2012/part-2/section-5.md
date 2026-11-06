@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Application of the 2003 Regulations to pension payers and pensioners[^key-b4428980763af778a089914107e7a6ef]
+## 5. Application of the 2003 Regulations to pension payers and pensioners[^c-b4428980763af778a089914107e7a6ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the list in regulation 11(2) (application to pension payers and pensioners), 
 
 ## Annotations
 
-[^key-b4428980763af778a089914107e7a6ef]: Commencement: Reg. 5 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-b4428980763af778a089914107e7a6ef]: Commencement: Reg. 5 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

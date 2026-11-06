@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 463D. Restricted relief qualifying policies: assignments and events following assignments etc[^key-38ca6680a424da88f9101613b72ea2d3]
+## 463D. Restricted relief qualifying policies: assignments and events following assignments etc[^c-38ca6680a424da88f9101613b72ea2d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38ca6680a424da88f9101613b72ea2d3]: Textual amendment: Ss. 463A-463E inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2013/29/schedule/9/paragraph/8)
+[^c-38ca6680a424da88f9101613b72ea2d3]: Textual amendment: Ss. 463A-463E inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2013/29/schedule/9/paragraph/8)

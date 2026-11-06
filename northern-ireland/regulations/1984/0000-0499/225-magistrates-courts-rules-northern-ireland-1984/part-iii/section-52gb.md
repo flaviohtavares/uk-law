@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52GB. Variation or revocation of a domestic freezing order[^key-00c630321577b45e288711c994d51fb8]
+## 52GB. Variation or revocation of a domestic freezing order[^c-00c630321577b45e288711c994d51fb8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00c630321577b45e288711c994d51fb8]: Textual amendment: [Rule 52GB](https://www.legislation.gov.uk/nisr/1984/225/rule/52GB) omitted (31.12.2020) by virtue of [The Criminal Procedure (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/908)](https://www.legislation.gov.uk/uksi/2019/908), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2019/908/regulation/1/c), [6(1)(b)](https://www.legislation.gov.uk/uksi/2019/908/regulation/6/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/908/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-00c630321577b45e288711c994d51fb8]: Textual amendment: [Rule 52GB](https://www.legislation.gov.uk/nisr/1984/225/rule/52GB) omitted (31.12.2020) by virtue of [The Criminal Procedure (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/908)](https://www.legislation.gov.uk/uksi/2019/908), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2019/908/regulation/1/c), [6(1)(b)](https://www.legislation.gov.uk/uksi/2019/908/regulation/6/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/908/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

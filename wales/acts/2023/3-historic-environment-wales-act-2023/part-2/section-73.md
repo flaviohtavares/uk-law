@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Application to High Court for statutory review of decision or order[^key-8c655b60e610e29e821e1f73095a7a80][^key-994a4f4a5d10a695eee9484352339eec]
+## 73. Application to High Court for statutory review of decision or order[^c-8c655b60e610e29e821e1f73095a7a80][^c-994a4f4a5d10a695eee9484352339eec]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c655b60e610e29e821e1f73095a7a80]: Commencement: S. 73 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-8c655b60e610e29e821e1f73095a7a80]: Commencement: S. 73 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-994a4f4a5d10a695eee9484352339eec]: Commencement: [S. 73](https://www.legislation.gov.uk/asc/2023/3/section/73) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-994a4f4a5d10a695eee9484352339eec]: Commencement: [S. 73](https://www.legislation.gov.uk/asc/2023/3/section/73) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

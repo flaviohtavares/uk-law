@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Right to inspect the file[^key-fb135a5fbb80437667557cc502e72415]
+## 56. Right to inspect the file[^c-fb135a5fbb80437667557cc502e72415]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb135a5fbb80437667557cc502e72415]: Commencement: [Rule 56](https://www.legislation.gov.uk/uksi/2007/3141/rule/56) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-fb135a5fbb80437667557cc502e72415]: Commencement: [Rule 56](https://www.legislation.gov.uk/uksi/2007/3141/rule/56) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

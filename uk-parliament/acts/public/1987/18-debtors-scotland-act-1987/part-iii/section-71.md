@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Employer’s fee for operating diligence against earnings.[^key-734841d095cd15a48099c99706acc208]
+## 71. Employer’s fee for operating diligence against earnings.[^c-734841d095cd15a48099c99706acc208]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ On any occasion on which an employer makes a payment to a creditor under an earn
 
 ## Annotations
 
-[^key-734841d095cd15a48099c99706acc208]: Modification: S. 71 sum specified (5.4.2006) by [The Diligence against Earnings (Variation) (Scotland) Regulations 2006 (S.S.I. 2006/116)](https://www.legislation.gov.uk/ssi/2006/116), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/116/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2006/116/regulation/3)
+[^c-734841d095cd15a48099c99706acc208]: Modification: S. 71 sum specified (5.4.2006) by [The Diligence against Earnings (Variation) (Scotland) Regulations 2006 (S.S.I. 2006/116)](https://www.legislation.gov.uk/ssi/2006/116), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/116/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2006/116/regulation/3)

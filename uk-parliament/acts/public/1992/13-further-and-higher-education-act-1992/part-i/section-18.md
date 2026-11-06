@@ -30,7 +30,7 @@ summary: ''
 
 and those powers are referred to in section 19 of this Act as the corporation’s principal powers[^c11062711].
 
-(1A)[^c11062731] A further education corporation may not provide education of a kind specified in subsection (1)(aa), (ab) or (ac) above unless they have consulted such local authorities[^key-5ca14e1c5c9fb4ff32ae914fdd63af76] as they consider appropriate.
+(1A)[^c11062731] A further education corporation may not provide education of a kind specified in subsection (1)(aa), (ab) or (ac) above unless they have consulted such local authorities[^c-5ca14e1c5c9fb4ff32ae914fdd63af76] as they consider appropriate.
 
 (2) For the purposes of subsection (1) above, goods are supplied in connection with the provision of education by a further education corporation if they result from—
 
@@ -42,7 +42,7 @@ and those powers are referred to in section 19 of this Act as the corporation’
 
 - (a) they result from their provision of education or anything done by them under this Act for the purpose of or in connection with their provision of education,
 - (b) they are provided by making available their facilities or the expertise of persons employed by them in the fields in which they are so employed, or
-- (c)[^key-ec0d0fcad945dea87c3b5bad28579025] they result from ideas of a person employed by them, or of one of their students, arising out of their provision of education.
+- (c)[^c-ec0d0fcad945dea87c3b5bad28579025] they result from ideas of a person employed by them, or of one of their students, arising out of their provision of education.
 
 (4)[^c11062741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -64,8 +64,8 @@ and those powers are referred to in section 19 of this Act as the corporation’
 
 [^c11062731]: Textual amendment: S. 18(1A) inserted (1.4.2001) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [s. 142(1)(b)](https://www.legislation.gov.uk/ukpga/2000/21/section/142/1/b); [S.I. 2001/654](https://www.legislation.gov.uk/uksi/2001/654), [art. 2](https://www.legislation.gov.uk/uksi/2001/654/article/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/654/schedule/part/II) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2001/654/article/3)); [S.I. 2001/1274](https://www.legislation.gov.uk/uksi/2001/1274), [art. 2](https://www.legislation.gov.uk/uksi/2001/1274/article/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/1274/schedule/part/I)
 
-[^key-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)
+[^c-5ca14e1c5c9fb4ff32ae914fdd63af76]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/5/2)
 
-[^key-ec0d0fcad945dea87c3b5bad28579025]: Modification: S. 18(3)(c) modified (W.) (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [3(b)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/3/b)
+[^c-ec0d0fcad945dea87c3b5bad28579025]: Modification: S. 18(3)(c) modified (W.) (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [3(b)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/3/b)
 
 [^c11062741]: Textual amendment: S. 18(4)-(6) repealed (28.7.2000 for certain purposes, 1.1.2001 for W., 1.4.2001 and 1.9.2001 for E.) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [ss. 149](https://www.legislation.gov.uk/ukpga/2000/21/section/149), [153](https://www.legislation.gov.uk/ukpga/2000/21/section/153), [Sch. 9 para. 21(b)](https://www.legislation.gov.uk/ukpga/2000/21/schedule/9/paragraph/21/b), [Sch. 11](https://www.legislation.gov.uk/ukpga/2000/21/schedule/11); [S.I. 2000/3230](https://www.legislation.gov.uk/uksi/2000/3230), [art. 2](https://www.legislation.gov.uk/uksi/2000/3230/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3230/schedule); [S.I. 2001/654](https://www.legislation.gov.uk/uksi/2001/654), [art. 2](https://www.legislation.gov.uk/uksi/2001/654/article/2), [Sch. Pts. II](https://www.legislation.gov.uk/uksi/2001/654/schedule/part/II), [III](https://www.legislation.gov.uk/uksi/2001/654/schedule/part/III) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2001/654/article/3))

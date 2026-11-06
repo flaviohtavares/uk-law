@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Termination of pregnancy on grounds of sex of foetus[^key-19da8ddc54b7999232d9182c4f2ae738]
+## 84. Termination of pregnancy on grounds of sex of foetus[^c-19da8ddc54b7999232d9182c4f2ae738]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19da8ddc54b7999232d9182c4f2ae738]: Commencement: S. 84 in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/n)
+[^c-19da8ddc54b7999232d9182c4f2ae738]: Commencement: S. 84 in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/n)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where an appellant has been granted bail, whether his appeal is under this Part of this Act or otherwise, he shall appear personally in court at the diet appointed for the hearing of the appeal.
 
-(2) Where an appellant who has been granted bail does not appear at such a diet, the Sheriff Appeal Court[^key-065a817c270b023dd88d4fa0588e7dc8] shall either—
+(2) Where an appellant who has been granted bail does not appear at such a diet, the Sheriff Appeal Court[^c-065a817c270b023dd88d4fa0588e7dc8] shall either—
 
 - (a) dispose of the appeal as if it had been abandoned (in which case subsection (5) of section 177 of this Act shall apply accordingly); or
 - (b) on cause shown permit the appeal to be heard in his absence.
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-065a817c270b023dd88d4fa0588e7dc8]: Textual amendment: Words in s. 192(2) substituted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 3 para. 23](https://www.legislation.gov.uk/asp/2014/18/schedule/3/paragraph/23); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2015/247/article/6))
+[^c-065a817c270b023dd88d4fa0588e7dc8]: Textual amendment: Words in s. 192(2) substituted (22.9.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [sch. 3 para. 23](https://www.legislation.gov.uk/asp/2014/18/schedule/3/paragraph/23); [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2015/247/article/6))

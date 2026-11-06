@@ -18,13 +18,13 @@ summary: ''
 
 *Extent: E+W*
 
-**73.**[^key-55e15d4fbb40e11746e26a785862df34] In section 23ZB[^f00085] (independent visitors for children looked after by a local authority)—
+**73.**[^c-55e15d4fbb40e11746e26a785862df34] In section 23ZB[^f00085] (independent visitors for children looked after by a local authority)—
 
 - (a) in subsection (1)(a) for “appropriate national authority” substitute “Secretary of State”;
 - (b) in subsection (9) for “appropriate national authority” substitute “Secretary of State”.
 
 ## Annotations
 
-[^key-55e15d4fbb40e11746e26a785862df34]: Commencement: Reg. 73 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-55e15d4fbb40e11746e26a785862df34]: Commencement: Reg. 73 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00085]: Footnote: Section 23ZB was inserted by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), section 16(1).

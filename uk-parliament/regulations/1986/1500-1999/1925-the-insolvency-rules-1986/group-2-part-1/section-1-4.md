@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.4. Notice to intended nominee[^key-864aa64755c56a18d9a703150503ce34]
+## 1.4. Notice to intended nominee[^c-864aa64755c56a18d9a703150503ce34]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-864aa64755c56a18d9a703150503ce34]: Commencement: [Rule 1.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-864aa64755c56a18d9a703150503ce34]: Commencement: [Rule 1.4](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.4) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

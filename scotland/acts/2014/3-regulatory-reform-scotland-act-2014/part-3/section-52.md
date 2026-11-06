@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Annual report on operation of Part 3[^key-490e788b5a9d62867d801dd7e078a4f1]
+## 52. Annual report on operation of Part 3[^c-490e788b5a9d62867d801dd7e078a4f1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers must, as soon as practicable after the end of each calend
 
 ## Annotations
 
-[^key-490e788b5a9d62867d801dd7e078a4f1]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2014/3/section/52) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-490e788b5a9d62867d801dd7e078a4f1]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2014/3/section/52) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
